@@ -1,6 +1,6 @@
 # Fatos da AG2: alternativas à creatina da Growth (leitura de 09/11/2026, noite)
 
-Briefing: [[alternativas-a-creatina-da-growth]]. Leitura sem login, sem carrinho e sem compra. Os preços são de 09/11/2026, entre 23h40 e 23h50, com a Black Friday das lojas já correndo. A Growth mudou de preço no mesmo dia: o pote de 250 g estava a R$ 39,90 no começo da noite e a R$ 32,90 às 23h45. Todos os preços precisam ser relidos no dia da redação.
+Briefing: [[alternativas-a-creatina-da-growth]]. Leitura sem login, sem carrinho e sem compra. Os preços são de 09/11/2026, entre 23h40 e 23h50, com a Black Friday das lojas já correndo. **Referência da Growth = preço fora da promoção relâmpago** (decisão do Bruno, 09/11). Às 23h45 a Growth baixou a creatina em pó (250 g a R$ 32,90 e pote de 500 g a R$ 64,90 no Pix), numa promoção temporária. A conta usa o preço da leitura do começo da noite de 09/11 (fatos da AG1): 250 g a R$ 39,90, pote de 500 g a R$ 89,90 e Pouch de 500 g a R$ 79,90. Na redação, vale a mesma regra: se a Growth estiver em promoção relâmpago, a referência é o preço normal. Todos os preços precisam ser relidos no dia.
 
 ## Como a conta foi feita
 
@@ -9,36 +9,40 @@ Briefing: [[alternativas-a-creatina-da-growth]]. Leitura sem login, sem carrinho
 - **"Com código":** 10% sobre o preço da página. Na Max e na Probiótica, o código é "até 10%", então a linha mostra o teto.
 - **Regra da série** ([[feedback-alternativas-so-com-vantagem]]): só entra a linha da Growth para a qual uma parceira tem vantagem clara. As linhas sem alternativa estão no fim deste arquivo, com o motivo de terem ficado fora.
 
-## Growth (gsuplementos.com.br, Chrome, 09/11 às 23h45)
+## Growth (gsuplementos.com.br, Chrome, 09/11)
 
 | Produto | Rótulo | Pix e boleto | Cartão (até 6x) | Por 100 g de creatina (Pix / cartão) | Por dose (Pix) |
 |---|---|---|---|---|---|
-| Creatina Monohidratada 100 g | 5 g por dose | R$ 23,90 | R$ 26,55 | R$ 23,90 / R$ 26,55 | R$ 1,20 |
-| Creatina Monohidratada 250 g | 5 g, 50 doses | R$ 32,90 (cortado: R$ 63,30) | R$ 36,55 | R$ 13,16 / R$ 14,62 | R$ 0,66 |
-| Creatina Monohidratada 500 g (pote) | 5 g, 100 doses | R$ 64,90 (cortado: R$ 110,88) | R$ 72,11 | R$ 12,98 / R$ 14,42 | R$ 0,65 |
-| Creatina Monohidratada 500 g Pouch (refil) | 5 g, 100 doses | R$ 79,90 (cortado: R$ 104,60) | R$ 88,77 | R$ 15,98 / R$ 17,75 | R$ 0,80 |
+| Creatina Monohidratada 100 g | 5 g por dose | R$ 23,90 às 23h45, na promoção (preço normal não lido) | R$ 26,55 | — | — |
+| **Creatina Monohidratada 250 g (referência)** | 5 g, 50 doses | R$ 39,90 (às 23h45, na promoção: R$ 32,90) | R$ 44,33 | **R$ 15,96** / R$ 17,73 | R$ 0,80 |
+| Creatina Monohidratada 500 g (pote) | 5 g, 100 doses | R$ 89,90 (às 23h45, na promoção: R$ 64,90) | R$ 99,88 | R$ 17,98 / R$ 19,98 | R$ 0,90 |
+| Creatina Monohidratada 500 g Pouch (refil) | 5 g, 100 doses | R$ 79,90 (sem mudança às 23h45) | R$ 88,77 | R$ 15,98 / R$ 17,75 | R$ 0,80 |
 | Creatina Creapure® 100 g | 5 g por dose | R$ 54,90 | R$ 61,00 | R$ 54,90 / R$ 61,00 | — |
 | Creatina Creapure® 250 g | 5 g por dose | R$ 109,90 (cortado: R$ 137,03) | R$ 122,11 | R$ 43,96 / R$ 48,84 | — |
-| Creatina Creapure® 120 comprimidos | 40 porções de 3 comprimidos (4,35 g), 3.000 mg de creatina | R$ 59,90 | R$ 66,55 | R$ 49,92 / R$ 55,46 | R$ 1,50 |
+| Creatina Creapure® 120 comprimidos | 40 porções de 3 comprimidos (4,35 g), 3.000 mg de creatina | R$ 59,90 (selo "-35%" às 23h45; preço normal não lido) | R$ 66,55 | R$ 49,92 / R$ 55,46 | R$ 1,50 |
 | **Creatina G-Gummy** (Melancia, Pêssego, Abacaxi com Menta) | 30 porções de 3 gomas (12 g), 3 g de creatina ("3 G DE CREATINA POR PORÇÃO") | R$ 89,90 | R$ 99,88 | R$ 99,89 / R$ 110,98 | R$ 3,00 (a página diz "R$3,00/dose") |
 
 - **Monodose:** a Growth não vende. A busca "creatina" não traz nenhum sachê, o que confirma o que o Bruno viu.
 - **Creatina com sabor em pó:** a Growth também não vende. As linhas com sabor dela são só a G-Gummy.
 - **G-Gummy:** a página diz "ZERO AÇÚCARES ADICIONADOS", e a tabela mostra 0 g de açúcares totais e adicionados. O carboidrato e as calorias da tabela não foram lidos, porque o texto saiu cortado: conferir no dia.
 - **Cartão:** cerca de 11% acima do Pix em todos os itens, como na leitura da AG1.
+- **Creapure® e comprimidos:** só foram lidos às 23h45, já na promoção. Se o preço normal for mais alto, as alternativas ganham com mais folga; a Creapure® em pó continua fora até a releitura.
 - **Growth:** sem link, sem cupom e sem foto. As alegações da página ("auxilia no aumento do desempenho físico…") ficam fora do texto.
 
 ## Alternativas com vantagem
 
-### 1. Creatina em pó sem sabor (contra os potes de 250 g e 500 g da Growth: R$ 12,98 a R$ 13,16 por 100 g no Pix)
+### 1. Creatina em pó sem sabor (contra a Growth de 250 g e o Pouch de 500 g: R$ 15,96 e R$ 15,98 por 100 g no Pix)
 
 | Loja | Produto | Rótulo | Preço | Por 100 g | Com o código | Por dose com o código |
 |---|---|---|---|---|---|---|
 | Black Skull | Creator refil 500 g | 5 g, 100 doses | R$ 39,90 (lista R$ 59,90) | R$ 7,98 | R$ 7,18 (CECILIA10) | R$ 0,36 |
 | Black Skull | Creator 300 g | 5 g, 60 doses (tabela) | R$ 29,90 (lista R$ 49,90) | R$ 9,97 | R$ 8,97 | R$ 0,45 |
 | Max Titanium | Creatina 1 kg | 200 porções de 5 g, 5.000 mg (tabela) | R$ 109,90 (lista R$ 119,90) | R$ 10,99 | até R$ 9,89 | até R$ 0,49 |
+| Max Titanium | Creatina 500 g | 5 g, 100 doses | R$ 69,90 (lista R$ 115,60) | R$ 13,98 | até R$ 12,58 | até R$ 0,63 |
 
-- O Creator refil custa cerca de 45% menos que a Growth no Pix, e 50% menos que a Growth no cartão.
+- O Creator refil custa 55% menos que a Growth no Pix, e cerca de 60% menos que a Growth no cartão.
+- **Mais Mu sem sabor, refil 500 g:** R$ 74,90 (R$ 14,98 por 100 g), R$ 13,48 com o código e R$ 13,07 com o Pix depois do código. Também ganha da Growth. Fica numa frase abaixo da tabela, para a tabela não passar de 4 linhas.
+- **Black Skull Creatine 300 g:** R$ 14,97 com o código, pouco abaixo da Growth. Fica fora, porque o Creator da mesma loja custa bem menos.
 
 ### 2. Creatina prática e com sabor (contra a G-Gummy: R$ 99,89 por 100 g, R$ 3,00 por dose de 3 g)
 
@@ -65,11 +69,9 @@ Briefing: [[alternativas-a-creatina-da-growth]]. Leitura sem login, sem carrinho
 
 | Linha da Growth | Por que fica fora |
 |---|---|
-| Creapure® em pó (100 g e 250 g) | As parceiras custam mais por grama: Max Creapure 250 g a R$ 139,89 (R$ 55,96 por 100 g) e Probiótica Creapure 150 g a R$ 99,89 (R$ 66,59), contra R$ 43,96 da Growth no Pix |
-| Pote de 100 g | Max 100 g e Probiótica 100 g custam R$ 33,89, contra R$ 23,90 da Growth |
-| Potes de 300 g das parceiras | Max e Probiótica 300 g: R$ 19,97 por 100 g. Black Skull Creatine 300 g: R$ 16,63 (R$ 14,97 com o código). As três perdem para a Growth de 250 g e 500 g no Pix |
-| Max Creatina 500 g | R$ 13,98, até R$ 12,58 com o código: a margem sobre a Growth 500 g no Pix (R$ 12,98) é pequena e depende do "até 10%". A Max entra pela embalagem de 1 kg |
-| Mais Mu sem sabor, refil 500 g | R$ 14,98, ou R$ 13,48 com o código: perde para a Growth no Pix |
+| Creapure® em pó (100 g e 250 g) | As parceiras custam mais por grama: Max Creapure 250 g a R$ 139,89 (R$ 55,96 por 100 g) e Probiótica Creapure 150 g a R$ 99,89 (R$ 66,59), contra R$ 43,96 da Growth no Pix às 23h45. Reler fora da promoção: se a Growth voltar a R$ 137,03 (R$ 54,81), a Max com o código (até R$ 50,36) passa a ganhar por pouco |
+| Pote de 100 g | Max 100 g e Probiótica 100 g custam R$ 33,89 (R$ 30,50 com o código), mais que o pote de 250 g da Growth. O preço normal do 100 g da Growth não foi lido |
+| Potes de 300 g da Max e da Probiótica | R$ 19,97 por 100 g, até R$ 17,97 com o código: perdem para a Growth de 250 g no Pix (R$ 15,96) |
 | Mix Pro Creatine (Probiótica) | 3.000 mg de creatina em 6 g, embora o nome diga "5g": não é creatina pura (AG1, fatos de 09/11) |
 
 ## Códigos (dados do site)
