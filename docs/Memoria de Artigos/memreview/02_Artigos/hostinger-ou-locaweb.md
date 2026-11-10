@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "em-pr"
 responsavel: "Claude"
-proxima_acao: "conferir a renovação da Locaweb (seção 7) e redação (Job 2)"
+proxima_acao: "reler os preços no dia do deploy; depois, tirar a linha H10 da seção 1 da Fila"
 bloqueado_por: null
 score_ponderado_total: 76
 data_criacao: "2026-11-10"
@@ -132,3 +132,13 @@ Reler preços no dia de publicar: as duas estão em campanha de Black Friday.
 ## 8. Pontuação
 
 Dor 20/25, demanda 13/20, valor além do oficial 18/20, visita 11/15, cluster 8/10, conversão 6/10. Total 76.
+
+## 9. Redação e conferências (10/11/2026)
+
+- **Renovação da Locaweb, no carrinho, sem comprar:** 48 meses renovam a R$ 17,90, R$ 24,90 e R$ 44,90 por mês. Os R$ 27,90, R$ 42,90 e R$ 67,90 da página são a renovação do ciclo de 3 meses. A tese fica.
+- **Hostinger, carrinho:** Unlimited de 48 meses a R$ 498,82 com o SONAR20.
+- **Nota fiscal:** a ajuda da Hostinger diz "Brazilian tax invoices (nota fiscal) are not available". A da Locaweb mostra o botão "Ver nota fiscal" na Central do Cliente.
+- **Cancelamento depois de 30 dias na Locaweb:** o contrato (13.2) diz fim do plano, sem reembolso, desconto ou crédito; o aviso de condições da página diz crédito por 90 dias ou reembolso com taxas. O artigo mostra as duas fontes e manda pedir a regra por escrito.
+- **Revisão:** ChatGPT, em `docs/auditoria-copy-artigos/h10-20261110-farol/` (fechada). FAQ com 5 perguntas, migração no corpo.
+- **Imagens:** capa, quadro dos dois ciclos e recorte do carrinho, aprovados pelo Bruno; no CDN.
+- **Só PT:** nenhum gate exige a família de 10 idiomas sem `translationKey`.
