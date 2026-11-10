@@ -345,6 +345,13 @@ vídeo, primeiras impressões e uso noturno.
   igual à do PT; o `test:build-output` confere o lugar, os rótulos, as frases e que nenhuma vai ao JSON-LD.
 - Botões dos links de seção (`section.links`, `ReviewSectionContent`): o link externo com `sponsored` fica laranja, como os
   botões do artigo que levam à loja; os outros, inclusive os internos para `/cupons`, ficam brancos. O `test:build-output` confere.
+- Artigo de várias lojas (`"affiliate": [...]`, 2 a 4 lojas de código comum, só em PT, sem `coupon` nem `cta`; plano em
+  `docs/superpowers/plans/2026-11-09-artigo-varias-lojas.md`): não tem loja principal. As lojas se leem só por
+  `src/lib/reviewStores.ts` (`getSingleStoreSlug` dá vazio para a lista: nada usa a primeira). O artigo entra na estante
+  de todas; no topo, na lateral e no fim, `ArticleStoreCodes` mostra uma linha por loja (`getArticleStoreBlocks`), sem
+  banners de campanha. Link de seção, foto com link e peça do card de estilo levam `store`, uma das lojas. O
+  `validate:content` (`scripts/multi-store-checks.ts`) barra o que foge disso e, até o celular ficar pronto,
+  `MULTI_STORE_CONTENT_ALLOWED` barra qualquer artigo com lista. O `test:review-stores` confere.
 - Foto de produto com link: o `href` opcional da imagem da seção (`image` em forma de objeto ou item de `images`,
   `ContentSectionImage`) faz da foto o link de afiliado do produto (`CouponStoreLink`, sponsored, nova aba,
   `review_image`), com o selo "Ver na <loja>" na foto e no lightbox e o nome do link "Ver na <loja>: <alt>" avisando a

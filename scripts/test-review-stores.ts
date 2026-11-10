@@ -1,8 +1,14 @@
 // O artigo de várias lojas nas listagens: `affiliate` em lista (src/lib/reviewStores.ts). Nenhum artigo publicado usa
 // lista ainda; o teste monta os casos com artigos de mentira e confere que o de uma loja segue como sempre.
 import assert from 'node:assert/strict';
+import { createElement } from 'react';
+import { renderToStaticMarkup } from 'react-dom/server';
 
+import { ArticleCodeCopyProvider, HighlightCoupon } from '@/components/review/HighlightCoupon';
+import { ArticleStoreCodes } from '@/components/review/article/ArticleStoreCodes';
+import { getArticleStoreBlock, getArticleStoreBlocks } from '@/lib/articleStore';
 import { COUPONS } from '@/lib/couponsData';
+import { publishedReviews } from '@/lib/data';
 import { resolveActiveHomeEvent } from '@/lib/homeEvents';
 import { getHomeLatest, getHomeStoreTabs, getStoreArticlesPage, sortStoresByNewestArticle } from '@/lib/homeStores';
 import { pickRelatedReviews } from '@/lib/relatedReviews';
@@ -10,13 +16,14 @@ import {
   getReviewStoreLabel,
   getReviewStoreSlugs,
   getReviewStores,
+  getSingleStoreSlug,
   isMultiStoreReview,
   reviewHasStore,
   reviewsShareStore,
 } from '@/lib/reviewStores';
 import { getOthersShelfContent, getRelatedShelfCards, getReviewsHubContent, getStoreShelfContent, type HubReview } from '@/lib/reviewsHub';
 import { getVideoItems, type VideoPageRecord } from '@/lib/videosHub';
-import { affiliateProblems } from './multi-store-checks';
+import { affiliateProblems, staleCodeWarnings, storeFieldProblems } from './multi-store-checks';
 import { relatedOrderProblem } from './related-order';
 import { isSnippetChecked } from './review-prose-checks';
 
@@ -217,5 +224,86 @@ listProblem({ ...ok, translationKey: 'familia' }, /translationKey/, 'família');
 listProblem({ ...ok, coupon: 'CECILIA10' }, /sem coupon/, 'coupon');
 listProblem({ ...ok, cta: { url: 'https://x', label: 'x' } }, /sem cta/, 'cta');
 listProblem({ affiliate: [1, 2] }, /slug de uma loja ou uma lista/, 'lista de números');
+assert.ok((store('magalu') as { tiers?: unknown[] }).tiers?.length, 'a Magalu tem faixas');
+listProblem({ affiliate: ['damie', 'magalu'] }, /"magalu": .*sem faixas/, 'loja com faixas');
 
-console.log('✅ várias lojas nas listagens: home, /reviews, subpáginas, Outros, relacionados, data comercial, vídeo e snippet; regras do affiliate em lista');
+// O `store` dos links de loja: só no artigo de várias lojas, e nele em todo link de loja, uma das lojas do artigo.
+const sections = (store?: string, extra: Record<string, unknown> = {}) => [
+  {
+    heading: 'Onde comprar',
+    links: [{ label: 'Ver whey', href: 'https://loja.example/whey', sponsored: true, ...(store && { store }) }],
+    images: [{ src: '/images/a.webp', alt: 'a', href: 'https://loja.example/a', ...(store && { store }) }],
+    styling: { items: [{ piece: 'Camiseta', url: 'https://loja.example/c', ...(store && { store }), pairsWith: [{ label: 'Short', url: 'https://loja.example/s', ...(store && { store }) }] }] },
+    ...extra,
+  },
+];
+assert.deepEqual(storeFieldProblems({ affiliate: FOUR, contentSections: sections('probiotica') }), []);
+assert.equal(storeFieldProblems({ affiliate: FOUR, contentSections: sections() }).length, 4, 'link, foto, peça e "combina com" sem store');
+assert.match(storeFieldProblems({ affiliate: FOUR, contentSections: sections('damie') }).join('|'), /"damie" fora das lojas do artigo/);
+assert.equal(storeFieldProblems({ affiliate: 'damie', contentSections: sections() }).length, 0, 'uma loja: sem store, como sempre');
+assert.match(storeFieldProblems({ affiliate: 'damie', contentSections: sections('damie') }).join('|'), /store só no artigo de várias lojas/);
+assert.deepEqual(
+  storeFieldProblems({ affiliate: FOUR, contentSections: [{ links: [{ label: 'Cupons', href: '/cupons/black-skull', sponsored: false }] }] }),
+  [],
+  'link interno não pede store'
+);
+
+// Aviso do código antigo no texto: só o que não é o código atual de nenhuma loja do artigo.
+const codeOf = (slug: string) => (store(slug) as { code: string }).code;
+assert.deepEqual(
+  staleCodeWarnings({ affiliate: ['black-skull', 'max-titanium'], contentSections: [{ paragraphs: [`Use ${codeOf('black-skull')} ou ${codeOf('max-titanium')}.`] }] }, COUPONS),
+  []
+);
+assert.match(
+  staleCodeWarnings({ affiliate: ['black-skull', 'max-titanium'], contentSections: [{ bullets: ['O antigo CECILIA05 não vale mais.'] }] }, COUPONS).join('|'),
+  /CECILIA05/
+);
+assert.deepEqual(staleCodeWarnings({ affiliate: 'black-skull', contentSections: [{ paragraphs: ['CECILIA05'] }] }, COUPONS), [], 'só no artigo de várias lojas');
+
+// O artigo: um bloco por loja ativa, na ordem do artigo, com o código e o link de afiliado de sempre de cada uma.
+const now = Date.parse('2026-11-10T12:00:00-03:00');
+const base = publishedReviews.find((item) => getSingleStoreSlug(item) === 'black-skull' && !item.locale);
+assert.ok(base, 'um artigo PT da Black Skull para a base');
+const multiReview = { ...base, affiliate: ['max-titanium', 'kopenhagen', 'black-skull'], coupon: undefined, cta: undefined };
+const blocks = getArticleStoreBlocks(multiReview, 'pt', now);
+assert.deepEqual(blocks.map(({ slug }) => slug), ['max-titanium', 'black-skull'], 'a pausada sai e a ordem é a do artigo');
+for (const block of blocks) {
+  assert.equal(block.code, codeOf(block.slug), `${block.slug}: código de sempre`);
+  assert.equal(block.storeHref, store(block.slug).offerUrl, `${block.slug}: link de afiliado da loja`);
+  assert.equal(block.storeSponsored, true);
+  assert.equal(block.couponPageHref, `/cupons/${block.slug}`);
+}
+assert.deepEqual(getArticleStoreBlocks(base, 'pt', now), [], 'uma loja: nenhum bloco a mais');
+assert.equal(getArticleStoreBlock(multiReview, 'pt', now), null, 'o artigo com lista não tem o bloco de uma loja');
+
+const render = (variant: 'top' | 'end' | 'sidebar') =>
+  renderToStaticMarkup(createElement(ArticleStoreCodes, { variant, blocks, locale: 'pt', reviewSlug: 'x', storeLabel: 'Ir para a loja' }));
+const top = render('top');
+assert.match(top, /<section id="cupom-artigo" data-store-codes="top"/);
+assert.ok(top.includes('Códigos deste artigo'));
+assert.equal(top.match(/data-store-code="/g)?.length, 2, 'uma linha por loja');
+assert.ok(top.indexOf('data-store-code="max-titanium"') < top.indexOf('data-store-code="black-skull"'), 'na ordem do artigo');
+for (const block of blocks) {
+  assert.ok(top.includes(`>${block.code}</code>`), `${block.slug}: código na linha`);
+  const link = top.match(new RegExp(`<a[^>]*href="${block.storeHref!.replace(/[.?*+^$()[\]{}|\\]/g, '\\$&').replaceAll('&', '&amp;')}"[^>]*>`))?.[0] ?? '';
+  assert.match(link, /rel="[^"]*sponsored/, `${block.slug}: link da loja com sponsored`);
+  assert.ok(top.includes(`Regras da ${block.brand}`) || top.includes(`Regras do ${block.brand}`), `${block.slug}: link das regras`);
+}
+assert.doesNotMatch(render('sidebar'), /id="cupom-artigo"/, 'só o topo leva o id do dock');
+assert.doesNotMatch(render('end'), /Códigos deste artigo/, 'no fim, o título vem do ArticleEnd');
+
+// Código no texto: cada um copia com a loja dele; o que duas lojas dividem só fica destacado.
+const inline = (code: string, slug: string) => ({ code, brand: store(slug).brand, slug, reviewSlug: 'x', locale: 'pt' as const });
+const text = renderToStaticMarkup(
+  createElement(ArticleCodeCopyProvider, {
+    value: [inline('CECILIA10', 'black-skull'), inline('CECILIA10', 'bagaggio'), inline('MAX10EMCASACOMCECILIA', 'max-titanium')],
+  } as never, createElement(HighlightCoupon, { text: 'Na Black Skull é CECILIA10; na Max, MAX10EMCASACOMCECILIA.' }))
+);
+assert.ok(text.includes('data-copy-code="MAX10EMCASACOMCECILIA"'), 'o código de uma loja só copia');
+assert.ok(!text.includes('data-copy-code="CECILIA10"'), 'o código dividido não copia');
+const single = renderToStaticMarkup(
+  createElement(ArticleCodeCopyProvider, { value: inline('CECILIA10', 'black-skull') } as never, createElement(HighlightCoupon, { text: 'Use CECILIA10.' }))
+);
+assert.ok(single.includes('data-copy-code="CECILIA10"'), 'uma loja: copia como sempre');
+
+console.log('✅ várias lojas nas listagens: home, /reviews, subpáginas, Outros, relacionados, data comercial, vídeo e snippet; regras do affiliate e do store; aviso de código antigo; blocos e linhas de código do artigo; código no texto');

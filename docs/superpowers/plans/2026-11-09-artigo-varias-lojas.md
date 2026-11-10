@@ -113,3 +113,19 @@ gerados e os nomes que só contêm a palavra (`affiliate-link`, `affiliateUrl`, 
   fica `false` até a fase 4: com a lista num artigo publicado (testado no `black-skull-ou-max-titanium` e desfeito), o
   `validate:content` para o build.
 - Os componentes do artigo ainda recebem só uma loja (`string`): ficam para as fases 3 e 4, como previsto.
+
+## Fase 3 (computador)
+
+- `getArticleStoreBlocks` (`articleStore.ts`): um bloco por loja ativa da lista, cada um pelo `getArticleStoreBlock` da
+  loja com o código de sempre e sem `cta`. `ArticleStoreCodes` desenha as linhas no topo (com `#cupom-artigo`), na
+  lateral e no fim (com `#loja`, dentro do `ArticleEnd`). O artigo de uma loja recebe as mesmas props de antes (a lista
+  só vai quando existe).
+- Código no texto: `ArticleCodeCopyProvider` aceita a lista; o código que duas lojas do artigo dividem só fica destacado.
+- `store` em `ContentSectionLink`, `ContentSectionImage`, `StylingItem` e `StylingPair`, lido pelo `MultiStores` que o
+  template monta; o `validate:content` exige o campo em todo link de loja do artigo com lista e o barra fora dele.
+- Aviso do `validate:content`: palavra com cara de código no texto que não é o código atual de nenhuma loja do artigo.
+- Os botões das caixas de código foram para `couponActionStyles.ts` (sem `next/font`), para o teste renderizar as linhas.
+- Conferido no navegador com o `black-skull-ou-max-titanium` virado em lista só localmente (trava ligada e o JSON
+  devolvidos): 6 linhas (2 lojas em 3 lugares), nenhum recorte de uma loja, nenhum banner, os dois códigos copiando no
+  texto e nada passando da tela em 1280 e 390.
+- Fica para a fase 4: o dock e a gaveta do celular, que ainda tratam o artigo com lista como sem loja.
