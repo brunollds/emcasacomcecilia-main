@@ -89747,7 +89747,8 @@ export const reviewsData: unknown[] = [
           "**Vai pagar no cartão:** na Growth, o cartão sai cerca de 10% mais caro que o Pix. Na Black Skull, o preço não muda."
         ],
         "postParagraphs": [
-          "Para comparar a Black Skull com outra marca parceira, há o comparativo [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium)."
+          "Para comparar a Black Skull com outra marca parceira, há o comparativo [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium).",
+          "Para ver o 80% HD ao lado das alternativas das outras parceiras no isolado, no 3W e no zero lactose, há o guia [Alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey)."
         ]
       },
       {
@@ -90169,7 +90170,8 @@ export const reviewsData: unknown[] = [
           "**Vai pagar no cartão:** na Growth, o cartão sai cerca de 11% mais caro que o Pix. Na Max, a diferença é menor, de cerca de 3%."
         ],
         "postParagraphs": [
-          "Os preços são de outubro e mudam: compare as duas lojas no mesmo dia antes de comprar. Se a comparação for com outra marca, há os textos [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium) e [Black Skull ou Growth](/reviews/black-skull-ou-growth)."
+          "Os preços são de outubro e mudam: compare as duas lojas no mesmo dia antes de comprar. Se a comparação for com outra marca, há os textos [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium) e [Black Skull ou Growth](/reviews/black-skull-ou-growth).",
+          "O Top Whey 3W Mais Sabor da Max, que fica fora desta comparação, aparece contra o 3W da Growth em [Alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey)."
         ]
       },
       {
@@ -90463,6 +90465,9 @@ export const reviewsData: unknown[] = [
           "**Quer o menor preço por grama de creatina no cartão:** Probiótica Creatina de 300 g, com R$ 19,97 por 100 g. No Pix, o refil de 500 g da Growth sai mais barato.",
           "**Quer um pote pequeno de creatina:** a Probiótica de 300 g sai abaixo da Growth de 250 g, já sem cupom (R$ 19,97 contra R$ 25,32 por 100 g, no preço de tabela).",
           "**Quer Creapure:** a Probiótica declara o selo no produto de 150 g, por R$ 64,59 por 100 g no Pix. A página da Growth não declara o selo."
+        ],
+        "postParagraphs": [
+          "A Growth também vende whey zero lactose. A comparação com o 100% Pure Whey Zero Lactose da Probiótica, por 100 g de proteína, está em [Alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey)."
         ]
       },
       {
@@ -121567,7 +121572,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na tabela estão só as recomendações por perfil. Todos os wheys da lista ficam no quadro-mestre, acima, e os códigos de desconto de cada loja, na seção sobre cupons. Preço e estoque mudam toda semana, principalmente em promoção: confira o valor no dia da compra."
+          "Na tabela estão só as recomendações por perfil. Todos os wheys da lista ficam no quadro-mestre, acima, e os códigos de desconto de cada loja, na seção sobre cupons. Preço e estoque mudam toda semana, principalmente em promoção: confira o valor no dia da compra.",
+          "Se a dúvida é trocar o whey da Growth, o guia [Alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey) mostra onde cada parceira sai mais barata no concentrado, no isolado, no 3W e no zero lactose."
         ]
       },
       {
