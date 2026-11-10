@@ -61,7 +61,7 @@ export const videoMetadata = {
     duration: 'PT1M31S',
     title: 'CUPOM DAMIE CECILIA12 | Lançamento Poltrona Reclinável 2.0',
     description:
-      'Primeiras impressões da Poltrona Reclinável Damie 2.0 (versão 2026): sistema de massagem, motor do apoio de cabeça, suporte para tablet e revestimento Corino Importado.',
+      'Primeiras impressões da Poltrona Reclinável 2.0 da DAMIE (versão 2026): sistema de massagem, motor do apoio de cabeça, suporte para tablet e revestimento Corino Importado.',
   },
   'BlBbtv-VuL8': {
     uploadDate: '2026-07-11T17:15:26-07:00',
