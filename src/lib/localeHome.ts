@@ -17,7 +17,7 @@ import {
 } from '@/lib/ceciliaCredentials';
 import { brandLinks } from '@/lib/brandLinks';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
-import { getCouponBySlug, getStoreCodeKind } from '@/lib/couponsData';
+import { getActiveCoupons, getStoreCodeKind } from '@/lib/couponsData';
 import { TRANSLATED_LOCALES } from '@/lib/couponTranslations';
 import { CECILIA_PHOTO, getStoreCode, newestArticleRank, type HomeLatestArticle } from '@/lib/homeStores';
 import type { HomeStoreArticle, HomeStoreTab } from '@/lib/homeStoreTabs';
@@ -25,6 +25,7 @@ import { LOCALES } from '@/lib/i18n/locales';
 import { SITE_URL, absoluteUrl } from '@/lib/pageSeo';
 import { getPublishedReviewsForLocale, getReviewHubPath } from '@/lib/review-hubs';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+import { getReviewStoreLabel, reviewHasStore } from '@/lib/reviewStores';
 
 // A home de cada idioma fora do português (/en, /ja…): o mesmo desenho da home em português (vitrine com a
 // Cecília e as lojas, e "Acabou de sair"), com os textos e os artigos do idioma. Quem monta é o servidor:
@@ -107,7 +108,7 @@ export function getLocaleHomeStoreTabs(locale: LocaleHomeLocale, reviews: HubRev
     .map(({ coupon, href, upTo }) => {
       const code = getStoreCode(coupon);
       const kind = getStoreCodeKind(coupon, code);
-      const articles = listed.filter((review) => review.affiliate === coupon.slug);
+      const articles = listed.filter((review) => reviewHasStore(review, coupon.slug));
       return {
         slug: coupon.slug,
         brand: coupon.brand,
@@ -138,7 +139,7 @@ export function getLocaleHomeLatest(locale: LocaleHomeLocale, reviews: HubReview
     .map((review) => ({
       ...toStoreArticle(review),
       dateLabel: review.publishedAtISO ? dateFormat.format(new Date(review.publishedAtISO)) : review.publishedAt,
-      store: review.affiliate ? getCouponBySlug(review.affiliate)?.brand : undefined,
+      store: getReviewStoreLabel(review, getActiveCoupons(), locale),
     }));
 }
 

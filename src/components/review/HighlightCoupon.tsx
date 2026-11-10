@@ -32,30 +32,45 @@ export type ArticleCodeCopy = {
   locale: CouponCopyLocale;
 };
 
-type CodeCopyState = ArticleCodeCopy & {
+type CodeCopyState = {
+  // Os códigos que copiam ao toque, pela forma em maiúsculas.
+  copyable: Map<string, ArticleCodeCopy>;
   terms: string[];
   // Só o último código copiado mostra o aviso.
   activeId: string | null;
   setActiveId: (id: string) => void;
 };
 
+type CopyableState = ArticleCodeCopy & Pick<CodeCopyState, 'activeId' | 'setActiveId'>;
+
 const CodeCopyContext = createContext<CodeCopyState | null>(null);
 
-// Sem código de loja no artigo (value null), o texto só destaca os códigos.
-export function ArticleCodeCopyProvider({ value, children }: { value: ArticleCodeCopy | null; children: ReactNode }) {
+// Sem código de loja no artigo (value null), o texto só destaca os códigos. O artigo de várias lojas passa a lista:
+// cada código copia com a marca da loja dele, e o código que duas lojas do artigo dividem (o CECILIA10 é de três)
+// fica só destacado, porque o texto não diz de qual loja é.
+export function ArticleCodeCopyProvider({
+  value,
+  children,
+}: {
+  value: ArticleCodeCopy | readonly ArticleCodeCopy[] | null;
+  children: ReactNode;
+}) {
   const [activeId, setActiveId] = useState<string | null>(null);
-  const state = useMemo(
-    () =>
-      value && {
-        ...value,
-        terms: COUPON_HIGHLIGHT_TERMS.some((term) => term.toUpperCase() === value.code.toUpperCase())
-          ? COUPON_HIGHLIGHT_TERMS
-          : [...COUPON_HIGHLIGHT_TERMS, value.code],
-        activeId,
-        setActiveId,
-      },
-    [value, activeId]
-  );
+  const state = useMemo(() => {
+    const list = value ? ([] as ArticleCodeCopy[]).concat(value) : [];
+    if (list.length === 0) return null;
+    const count = new Map<string, number>();
+    for (const item of list) count.set(item.code.toUpperCase(), (count.get(item.code.toUpperCase()) ?? 0) + 1);
+    const copyable = new Map(list.filter((item) => count.get(item.code.toUpperCase()) === 1).map((item) => [item.code.toUpperCase(), item]));
+    const known = new Set(COUPON_HIGHLIGHT_TERMS.map((term) => term.toUpperCase()));
+    const extra = list.map(({ code }) => code).filter((code, index, all) => !known.has(code.toUpperCase()) && all.indexOf(code) === index);
+    return {
+      copyable,
+      terms: [...COUPON_HIGHLIGHT_TERMS, ...extra],
+      activeId,
+      setActiveId,
+    };
+  }, [value, activeId]);
   return <CodeCopyContext.Provider value={state}>{children}</CodeCopyContext.Provider>;
 }
 
@@ -86,7 +101,7 @@ function CopiedBubble({ text }: { text: string }) {
   );
 }
 
-function CopyableCode({ highlighted, state }: { highlighted: ReactNode; state: CodeCopyState }) {
+function CopyableCode({ highlighted, state }: { highlighted: ReactNode; state: CopyableState }) {
   const id = useId();
   const { code, codeKind, brand, slug, reviewSlug, locale, activeId, setActiveId } = state;
   const labels = getCouponCopyLabels(locale);
@@ -136,8 +151,14 @@ export function HighlightCoupon({ text, copyable = true }: HighlightCouponProps)
       variant="d2"
       renderTerm={
         copy
-          ? (term, highlighted) =>
-              term.toUpperCase() === copy.code.toUpperCase() ? <CopyableCode highlighted={highlighted} state={copy} /> : highlighted
+          ? (term, highlighted) => {
+              const item = copy.copyable.get(term.toUpperCase());
+              return item ? (
+                <CopyableCode highlighted={highlighted} state={{ ...item, activeId: copy.activeId, setActiveId: copy.setActiveId }} />
+              ) : (
+                highlighted
+              );
+            }
           : undefined
       }
     />

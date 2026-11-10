@@ -3,6 +3,7 @@
 
 import type { ReviewCategory } from '../reviewDiscovery';
 import type { Locale } from '../i18n/locales';
+import type { ReviewAffiliate } from '../reviewStores';
 
 // ---------------------------------------------------------------------------
 // Primitivos compartilhados
@@ -232,6 +233,8 @@ export interface ContentSectionLink {
   label: string;
   href: string;
   sponsored?: boolean;
+  /** No artigo de várias lojas: a loja do link (uma das do `affiliate`), para o clique sair com a marca dela. */
+  store?: string;
 }
 
 export interface ContentSectionImage {
@@ -242,6 +245,8 @@ export interface ContentSectionImage {
   aspectRatio?: number;
   /** Link de afiliado do produto da foto: a foto vira o link (sponsored) e o "Ampliar" vira botão à parte. */
   href?: string;
+  /** No artigo de várias lojas: a loja do `href` (uma das do `affiliate`), para o "Ver na <loja>" e a medição. */
+  store?: string;
 }
 
 /** Item do "combina com": com `url` é peça da loja (link de afiliado); sem, é do armário. */
@@ -249,6 +254,8 @@ export interface StylingPair {
   label: string;
   url?: string;
   note?: string;
+  /** No artigo de várias lojas: a loja do `url` (uma das do `affiliate`). */
+  store?: string;
 }
 
 /** Variação de cor da peça, só com o que combina com ela. */
@@ -264,6 +271,8 @@ export interface StylingVariant {
 export interface StylingItem {
   piece: string;
   url?: string;
+  /** No artigo de várias lojas: a loja do `url` (uma das do `affiliate`). */
+  store?: string;
   howTo?: string;
   occasion?: string;
   pairsWith?: StylingPair[];
@@ -438,7 +447,9 @@ export interface Review {
   hideFromListings?: boolean;
   hideFromPortugueseListings?: boolean;
   homeFeatured?: boolean;
-  affiliate?: string;
+  /** A loja do artigo (slug de couponsData.ts) ou, no artigo de várias lojas, a lista delas (2 a 4, na ordem de
+   * apresentação, sem loja principal). Lido sempre por src/lib/reviewStores.ts. */
+  affiliate?: ReviewAffiliate;
   /** Artigo em PT que precisa de mais de 2 datas no corpo (até 8): campanha, prazo de entrega ou Reclame Aqui. */
   bodyDatesReason?: BodyDatesReason;
   /** Guia e comparativo: o quadro de decisão, logo antes do FAQ. O review de produto usa prós e contras. */

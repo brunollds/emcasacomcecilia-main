@@ -4,6 +4,7 @@ import type { SocialHighlight } from '@/lib/data';
 import { codeLinkLabel } from '@/lib/homeStores';
 import { absoluteMediaUrl, type PageLink, type SocialImage } from '@/lib/pageSeo';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+import { getReviewStores, isMultiStoreReview, type ReviewAffiliate } from '@/lib/reviewStores';
 import { getYoutubeEmbedUrl } from '@/lib/video-metadata';
 import { isoDurationToSeconds, videoPages } from '@/lib/video-pages';
 import { ofStore } from '@/lib/storeNames';
@@ -27,7 +28,7 @@ import {
 
 // O que a página usa do artigo e da receita de origem.
 export type VideoSources = {
-  reviews: readonly { slug: string; image?: string; affiliate?: string; locale?: string }[];
+  reviews: readonly { slug: string; image?: string; affiliate?: ReviewAffiliate; locale?: string }[];
   recipes: readonly { slug: string; image?: string }[];
 };
 
@@ -52,12 +53,13 @@ export const VIDEOS_TRAIL: PageLink[] = [
   { name: 'Vídeos', path: '/videos' },
 ];
 
+const MULTI_STORE_CODE_LINK = 'Ver lojas e códigos no artigo';
 const MIN_STORE_VIDEOS = 2;
 const MORE_LIMIT = 8;
 const CHANNEL_LIMIT = 6;
 const SOURCE_PATH = /^\/(reviews|receitas)\/([^/?#]+)$/;
 
-function findSource(page: VideoPageRecord, sources: VideoSources): VideoSource & { affiliate?: string } {
+function findSource(page: VideoPageRecord, sources: VideoSources): VideoSource & { affiliate?: ReviewAffiliate } {
   const [, section, slug] = page.sourcePath.match(SOURCE_PATH) ?? [];
   if (section === 'reviews') {
     const review = sources.reviews.find((item) => item.slug === slug && (!item.locale || item.locale === 'pt'));
@@ -100,7 +102,15 @@ function toVideoItem(page: VideoPageRecord, sources: VideoSources, stores: reado
   const player = playerOf(page);
   if (!player) throw fail('sem o endereço do player');
   const { affiliate, ...source } = findSource(page, sources);
-  const store = stores.find(({ slug }) => slug === affiliate);
+  // O vídeo de um artigo de várias lojas fica sem loja (sem chip nem botão de uma delas) e leva ao artigo, onde estão os
+  // códigos de todas.
+  const multiStore = isMultiStoreReview({ affiliate });
+  const store = multiStore ? undefined : getReviewStores({ affiliate }, stores)[0];
+  const codeLink = store
+    ? { label: codeLinkLabel(store), href: getCouponStorePath(store.slug, 'pt') }
+    : multiStore && getReviewStores({ affiliate }, stores).length > 0
+      ? { label: MULTI_STORE_CODE_LINK, href: source.href }
+      : null;
   return {
     slug: page.slug,
     href: `/videos/${page.slug}`,
@@ -113,7 +123,7 @@ function toVideoItem(page: VideoPageRecord, sources: VideoSources, stores: reado
     duration: formatDuration(isoDurationToSeconds(page.duration)),
     store: store ? { slug: store.slug, name: store.brand } : null,
     source,
-    codeLink: store ? { label: codeLinkLabel(store), href: getCouponStorePath(store.slug, 'pt') } : null,
+    codeLink,
     player,
   };
 }

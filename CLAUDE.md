@@ -27,6 +27,7 @@ npm run test:analytics-gate  # allowlist de hosts do GA4 e do Clarity; loader do
 npm run test:language-suggestion  # faixa de sugestão de idioma: idioma do navegador → do site (chinês pela escrita), escolha pelo hreflang da página, inglês sem idioma do site, textos dos 10 idiomas e nada de redirecionamento
 npm run test:home-stores     # vitrine da home, "Acabou de sair" e subpáginas /reviews/loja/<slug>
 npm run test:reviews-hub     # estante de /reviews e das subpáginas: busca sem acento, ordem, URL, Novidades, bolinhas (com a Outros) e a página /reviews/outros, páginas de 12 e 24, medição e os componentes
+npm run test:review-stores   # artigo de várias lojas (`affiliate` em lista, src/lib/reviewStores.ts) nas listagens: abas e ordem das bolinhas da home, /reviews e subpáginas, Outros, rótulo do cartão, busca, relacionados, data comercial, vídeo e snippet
 npm run test:videos-hub      # /videos e as páginas de vídeo: destaque e ordem pela data, chips de loja e ?loja=, duração, origem e botão da loja, Mais vídeos, canal, medição e os componentes
 npm run test:home-events     # datas comerciais: content/home-events.json, a faixa e a página da data
 npm run test:home-lower-sections  # receitas, Explore a casa (com o carrossel de ofertas do feed) e vídeos da home, e que o page.js passa as ofertas ao Explore a casa e monta os Vídeos
@@ -344,6 +345,14 @@ vídeo, primeiras impressões e uso noturno.
   igual à do PT; o `test:build-output` confere o lugar, os rótulos, as frases e que nenhuma vai ao JSON-LD.
 - Botões dos links de seção (`section.links`, `ReviewSectionContent`): o link externo com `sponsored` fica laranja, como os
   botões do artigo que levam à loja; os outros, inclusive os internos para `/cupons`, ficam brancos. O `test:build-output` confere.
+- Artigo de várias lojas (`"affiliate": [...]`, 2 a 4 lojas de código comum, só em PT, sem `coupon` nem `cta`; plano em
+  `docs/superpowers/plans/2026-11-09-artigo-varias-lojas.md`): não tem loja principal. As lojas se leem só por
+  `src/lib/reviewStores.ts` (`getSingleStoreSlug` dá vazio para a lista: nada usa a primeira). O artigo entra na estante
+  de todas; no topo, na lateral e no fim, `ArticleStoreCodes` mostra uma linha por loja (`getArticleStoreBlocks`), sem
+  banners de campanha; no celular, o dock mostra "Ver códigos (N)" e abre a gaveta nas linhas. Link de seção, foto com
+  link e peça do card de estilo levam `store`, uma das lojas; o de loja pausada sai sem link. O
+  `validate:content` (`scripts/multi-store-checks.ts`) barra o que foge disso; `MULTI_STORE_CONTENT_ALLOWED`, ligado desde
+  10/11/2026, desligado barra qualquer artigo com lista. O `test:review-stores` e o `test:build-output` conferem.
 - Foto de produto com link: o `href` opcional da imagem da seção (`image` em forma de objeto ou item de `images`,
   `ContentSectionImage`) faz da foto o link de afiliado do produto (`CouponStoreLink`, sponsored, nova aba,
   `review_image`), com o selo "Ver na <loja>" na foto e no lightbox e o nome do link "Ver na <loja>: <alt>" avisando a

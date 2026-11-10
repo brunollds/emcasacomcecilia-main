@@ -6,6 +6,7 @@ import { ReviewSectionContent } from './ReviewSectionContent';
 import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
 import type { ContentSection, ReviewKind, EditorialNoteData } from '@/lib/content';
 import type { Locale } from '@/lib/i18n/locales';
+import type { MultiStores } from '@/lib/reviewStores';
 
 export interface ReviewContentSectionsProps {
   sections: ContentSection[];
@@ -19,6 +20,8 @@ export interface ReviewContentSectionsProps {
   affiliate?: string;
   // A marca da loja (couponsData), para o "Ver na <loja>" das fotos de produto.
   storeBrand?: string;
+  // O artigo de várias lojas: o `store` dos links, das fotos e do card de estilo.
+  multiStores?: MultiStores;
   locale?: Locale;
   noteLabels: EditorialNoteLabels;
   // O que entra antes ou depois de uma seção, pelo id dela: os banners de campanha da loja.
@@ -55,6 +58,7 @@ export function ReviewContentSections({
   coupon,
   affiliate,
   storeBrand,
+  multiStores,
   locale = 'pt',
   noteLabels,
   slots = {},
@@ -117,6 +121,7 @@ export function ReviewContentSections({
                   coupon={coupon}
                   affiliate={affiliate}
                   storeBrand={storeBrand}
+                  multiStores={multiStores}
                   locale={locale}
                 />
               </MarginNoteRail>

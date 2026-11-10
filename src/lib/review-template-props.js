@@ -1,5 +1,5 @@
 import { getReviewSlug, publishedReviews } from '@/lib/data';
-import { getArticleStoreBlock } from '@/lib/articleStore';
+import { getArticleStoreBlock, getArticleStoreBlocks } from '@/lib/articleStore';
 import { pickRelatedReviews } from '@/lib/relatedReviews';
 import { getRelatedShelfCards } from '@/lib/reviewsHub';
 import { buildSchemaAuthors, normalizeReview } from '@/lib/content';
@@ -193,6 +193,7 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
     faqJsonLd,
     relatedReviews,
     storeBlock: getArticleStoreBlock(review, localeKey),
+    storeBlocks: getArticleStoreBlocks(review, localeKey),
     relatedArticleLinks,
     localeKey,
   };

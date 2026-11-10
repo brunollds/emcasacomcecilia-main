@@ -5,6 +5,7 @@ import { pickRelatedReviews } from '@/lib/relatedReviews';
 import { relatedOrderProblem } from './related-order';
 import { getArticleStoreBlock, pickArticleLimitedCodes, shortenRule } from '@/lib/articleStore';
 import { getActiveCoupons, getCouponBySlug, type Coupon } from '@/lib/couponsData';
+import { getSingleStoreSlug } from '@/lib/reviewStores';
 import type { CouponCopyLocale } from '@/components/review/couponCopyLocale';
 import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { resolveYesStylePage } from '@/components/coupons/yesstylePage';
@@ -69,12 +70,12 @@ for (const review of publishedReviews) {
 // Bloco da loja: Review Focus 1–3.
 for (const review of publishedReviews) {
   const block = getArticleStoreBlock(review, (review.locale ?? 'pt') as never);
-  if (!review.affiliate) assert.equal(block, null, review.slug);
+  if (!getSingleStoreSlug(review)) assert.equal(block, null, review.slug);
   if (block && review.locale && review.locale !== 'pt') {
     assert.ok(!block.couponPageHref?.startsWith('/cupons/'), `${review.slug}: link PT fora do PT`);
     assert.equal(block.articlesHref, undefined);
-    const localized = isTranslatedLocale(review.locale) ? getLocalizedCoupon(review.affiliate!, review.locale) : undefined;
-    assert.equal(block.discount, block.code && block.code === getStoreCode(getCouponBySlug(review.affiliate!)!) ? localized?.discount : undefined, `${review.slug}: desconto em PT fora do PT`);
+    const localized = isTranslatedLocale(review.locale) ? getLocalizedCoupon(getSingleStoreSlug(review)!, review.locale) : undefined;
+    assert.equal(block.discount, block.code && block.code === getStoreCode(getCouponBySlug(getSingleStoreSlug(review)!)!) ? localized?.discount : undefined, `${review.slug}: desconto em PT fora do PT`);
     assert.ok(block.rules.length === 0 || block.rules.every((r) => r.label && r.value));
   }
   if (block?.code === 'CECILIA010') assert.equal(block.codeKind, 'reward');
@@ -105,8 +106,8 @@ assert.ok(long.startsWith(body) && long[body.length] === ' ', `cortou palavra no
 assert.ok(!/\s$/.test(body));
 
 // Review Focus 2: o código do artigo difere do da loja, sem regras nem desconto; igual, com regras.
-const base = publishedReviews.find((r) => r.affiliate === 'damie' && !r.locale) ?? publishedReviews.find((r) => r.affiliate && !r.locale)!;
-const store = getCouponBySlug(base.affiliate!)!;
+const base = publishedReviews.find((r) => getSingleStoreSlug(r) === 'damie' && !r.locale) ?? publishedReviews.find((r) => getSingleStoreSlug(r) && !r.locale)!;
+const store = getCouponBySlug(getSingleStoreSlug(base)!)!;
 const storeCode = store.offerMode === 'discount-code' ? store.code : store.referral?.code;
 assert.ok(storeCode, 'loja de teste sem código');
 const other = getArticleStoreBlock({ ...base, coupon: 'CODIGO-DE-CAMPANHA' } as never, 'pt')!;
@@ -210,7 +211,7 @@ for (const now of blockTimes) {
     const locale = resolveReviewLocale(review.locale) as CouponCopyLocale;
     const block = getArticleStoreBlock(review, locale, now);
     if (!block) continue;
-    const expected = pickArticleLimitedCodes(getCouponBySlug(review.affiliate!)!, review.coupon || undefined, locale, now);
+    const expected = pickArticleLimitedCodes(getCouponBySlug(getSingleStoreSlug(review)!)!, review.coupon || undefined, locale, now);
     if (expected.length === 0) {
       assert.ok(!('limitedCodes' in block), `${review.slug}: campo limitedCodes sem código com prazo`);
       continue;
@@ -227,7 +228,7 @@ for (const store of getActiveCoupons()) {
     const at = Date.parse(limited.startsAt);
     for (const review of publishedReviews) {
       const locale = resolveReviewLocale(review.locale) as CouponCopyLocale;
-      const expected = !store.tiers?.length && review.affiliate === store.slug && locale === 'pt' && review.coupon === store.code;
+      const expected = !store.tiers?.length && getSingleStoreSlug(review) === store.slug && locale === 'pt' && review.coupon === store.code;
       const got = (getArticleStoreBlock(review, locale, at)?.limitedCodes ?? []).some(
         (item) => item.code === limited.code && item.endsAt === limited.endsAt
       );
@@ -400,7 +401,7 @@ for (const loc of LOCALE_KEYS) {
   }
 }
 // Os artigos da YesStyle publicados, em todo idioma, saem com as regras.
-const yesStyleArticles = publishedReviews.filter((review) => review.affiliate === 'yesstyle' && review.coupon === yesStyleCode);
+const yesStyleArticles = publishedReviews.filter((review) => getSingleStoreSlug(review) === 'yesstyle' && review.coupon === yesStyleCode);
 assert.deepEqual(
   LOCALE_KEYS.filter((loc) => !yesStyleArticles.some((review) => resolveReviewLocale(review.locale) === loc)),
   [],

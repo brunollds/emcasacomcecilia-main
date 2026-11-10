@@ -2,17 +2,18 @@
 
 import { useEffect, useId, useRef, useState, type MouseEvent } from 'react';
 import Link from 'next/link';
-import { ArrowRight, Check, ChevronUp, Copy, ExternalLink, Scissors, X } from 'lucide-react';
+import { ArrowRight, Check, ChevronUp, Copy, ExternalLink, Scissors, Ticket, X } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { CopyCodeButton, dockCodeSize } from '@/components/coupons/CouponActions';
 import { BrandWatermark, DiscountFigure, couponFontVariables } from '@/components/coupons/CouponBlocks';
 import { acquireScrollLock, releaseScrollLock } from '@/components/editorial';
 import { FOCUS_RING } from '@/components/ui/focusRing';
-import type { ArticleLimitedCode } from '@/lib/articleStore';
+import type { ArticleLimitedCode, ArticleStoreBlock } from '@/lib/articleStore';
 import type { CouponCodeKind } from '@/lib/couponsData';
 import { isInternalLink } from '@/lib/internalLinks';
 import type { Locale } from '@/lib/i18n/locales';
 import { ArticleLimitedCodeLines } from './article/ArticleLimitedCodeLines';
+import { ArticleStoreCodes } from './article/ArticleStoreCodes';
 import { getCouponCopyLabels } from './couponCopyLocale';
 import { isDockVisible, useDockTargets } from './dockVisibility';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from './sidebarCopy';
@@ -39,6 +40,11 @@ export interface ReviewMobileBottomBarProps {
   related: { href: string; title: string }[];
   // O artigo tem o recorte do topo (#cupom-artigo): o dock espera ele sair da tela.
   hasTopCutout?: boolean;
+  // O artigo de várias lojas: as linhas de código de cada loja ativa vão na gaveta, e o dock troca o botão de copiar
+  // pelo "Ver códigos (N)", que abre a gaveta nelas. Só vem nele, para o payload do artigo de uma loja não mudar.
+  storeBlocks?: readonly ArticleStoreBlock[];
+  // O "Ir para a loja" das linhas.
+  storeLabel?: string;
 }
 
 // O equivalente do sidebar no celular: um dock com a seção atual e o cupom, que abre o sumário
@@ -54,6 +60,8 @@ export function ReviewMobileBottomBar({
   cta,
   related,
   hasTopCutout = false,
+  storeBlocks,
+  storeLabel = '',
 }: ReviewMobileBottomBarProps): React.ReactElement | null {
   const { activeIndex, progress } = useReadingPosition(tocItems.map((item) => item.id));
   const { cutoutPassed, storeInView } = useDockTargets(hasTopCutout);
@@ -61,6 +69,7 @@ export function ReviewMobileBottomBar({
   const sheetRef = useRef<HTMLDialogElement>(null);
   const sheetBodyRef = useRef<HTMLDivElement>(null);
   const currentLinkRef = useRef<HTMLAnchorElement>(null);
+  const codesRef = useRef<HTMLDivElement>(null);
   const id = useId();
 
   useEffect(() => {
@@ -83,18 +92,21 @@ export function ReviewMobileBottomBar({
   const titleId = `${id}-titulo`;
   const couponTitleId = `${id}-cupom`;
 
-  // O foco vai para a seção atual, que é rolada para a vista quando a lista não cabe na gaveta
-  // (celular deitado). A rolagem é só da gaveta: deixar o foco rolar arriscaria mexer na página.
-  const openSheet = () => {
+  const codeCount = storeBlocks?.length ?? 0;
+
+  // O foco vai para a seção atual (ou, pelo "Ver códigos", para as linhas de código), que é rolada para a vista
+  // quando a lista não cabe na gaveta (celular deitado). A rolagem é só da gaveta: deixar o foco rolar arriscaria
+  // mexer na página. As linhas sobem para o topo da gaveta, porque vêm depois do sumário.
+  const openSheet = (target: 'contents' | 'codes') => {
     sheetRef.current?.showModal();
-    const link = currentLinkRef.current;
+    const element = target === 'codes' ? codesRef.current : currentLinkRef.current;
     const body = sheetBodyRef.current;
-    if (link && body) {
-      link.focus({ preventScroll: true });
-      const linkBox = link.getBoundingClientRect();
+    if (element && body) {
+      element.focus({ preventScroll: true });
+      const box = element.getBoundingClientRect();
       const bodyBox = body.getBoundingClientRect();
-      if (linkBox.top < bodyBox.top || linkBox.bottom > bodyBox.bottom) {
-        body.scrollTop += linkBox.top - bodyBox.top - 8;
+      if (target === 'codes' || box.top < bodyBox.top || box.bottom > bodyBox.bottom) {
+        body.scrollTop += box.top - bodyBox.top - 8;
       }
     }
     setSheetOpen(true);
@@ -129,7 +141,7 @@ export function ReviewMobileBottomBar({
         <div className="mx-auto flex max-w-lg items-center gap-2 px-2 pt-2 pb-[max(0.75rem,env(safe-area-inset-bottom))]">
           <button
             type="button"
-            onClick={openSheet}
+            onClick={() => openSheet('contents')}
             aria-haspopup="dialog"
             aria-expanded={sheetOpen}
             aria-controls={sheetId}
@@ -146,7 +158,20 @@ export function ReviewMobileBottomBar({
             </span>
             <ChevronUp aria-hidden="true" strokeWidth={2.4} className="h-5 w-5 shrink-0" />
           </button>
-          {coupon && (
+          {codeCount > 0 ? (
+            <button
+              type="button"
+              onClick={() => openSheet('codes')}
+              aria-haspopup="dialog"
+              aria-expanded={sheetOpen}
+              aria-controls={sheetId}
+              data-dock-codes={codeCount}
+              className={`flex min-h-[52px] max-w-[48%] shrink-0 items-center gap-2 rounded-lg border-2 border-marinho bg-amarelo-cupom px-3 text-left text-sm leading-5 font-extrabold ${FOCUS_RING}`}
+            >
+              <Ticket aria-hidden="true" className="h-4 w-4 shrink-0" />
+              <span className="min-w-0 text-balance">{copy.viewCodes(codeCount)}</span>
+            </button>
+          ) : coupon && (
             <CopyCodeButton
               code={coupon.code}
               brand={affiliate}
@@ -229,6 +254,18 @@ export function ReviewMobileBottomBar({
               })}
             </ol>
           </nav>
+
+          {codeCount > 0 && (
+            <div ref={codesRef} tabIndex={-1} className="scroll-mt-2 outline-none">
+              <ArticleStoreCodes
+                variant="drawer"
+                blocks={storeBlocks!}
+                locale={locale}
+                reviewSlug={reviewSlug}
+                storeLabel={storeLabel}
+              />
+            </div>
+          )}
 
           {coupon && (
             <article

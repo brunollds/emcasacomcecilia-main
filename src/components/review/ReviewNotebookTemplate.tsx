@@ -14,6 +14,7 @@ import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { withDeliveredArticleMedia } from '@/lib/sectionMedia';
 import type { Locale } from '@/lib/i18n/locales';
 import type { ArticleStoreBlock } from '@/lib/articleStore';
+import { getReviewStoreSlugs, getSingleStoreSlug, isMultiStoreReview, type MultiStores } from '@/lib/reviewStores';
 import type { ShelfCardArticle } from '@/lib/reviewsShelf';
 import { ReadingProgressBar } from './ReadingProgressBar';
 import { ReviewContentSections } from './ReviewContentSections';
@@ -45,6 +46,8 @@ export interface ReviewNotebookTemplateProps {
   relatedReviews: ShelfCardArticle[];
   // Recorte do topo (e, depois, bloco da loja e lateral); null em artigo sem loja ativa.
   storeBlock?: ArticleStoreBlock | null;
+  // O artigo de várias lojas: um bloco por loja ativa (getArticleStoreBlocks), no lugar do storeBlock.
+  storeBlocks?: ArticleStoreBlock[];
   relatedArticleLinks: ResolvedRelatedArticle[];
   languageLinks: Partial<Record<Locale, string>>;
 }
@@ -68,6 +71,7 @@ export function ReviewNotebookTemplate({
   faqJsonLd = null,
   relatedReviews,
   storeBlock = null,
+  storeBlocks = [],
   relatedArticleLinks,
   languageLinks,
 }: ReviewNotebookTemplateProps): React.ReactElement {
@@ -104,8 +108,11 @@ export function ReviewNotebookTemplate({
   }
 
   const hasProductSpec = review.productSpec && review.productSpec.length > 0;
+  // A loja do artigo de uma loja. O de várias lojas fica sem ela (sem recorte, bloco da loja nem dock de uma loja):
+  // as linhas de código de todas entram com a fase 3 do docs/superpowers/plans/2026-11-09-artigo-varias-lojas.md.
+  const storeSlug = getSingleStoreSlug(review);
   const hasCommercialRelationship = Boolean(
-    review.affiliate || (review.coupon && review.editorialNote)
+    getReviewStoreSlugs(review).length > 0 || (review.coupon && review.editorialNote)
   );
   const verdictLinkCta = verdictSection?.links?.[0];
   const effectiveCta = review.cta?.url && review.cta?.label
@@ -127,7 +134,7 @@ export function ReviewNotebookTemplate({
   // Quando o artigo usa o código da loja em /cupons, o dock e a sidebar dizem, em qualquer idioma,
   // se ele é de recompensa (CECILIA010) ou de indicação (4CW5Y da SHEIN). Em português a gaveta do
   // celular também repete o desconto e a regra da loja, textos que só existem nessa língua.
-  const store = review.affiliate ? getCouponBySlug(review.affiliate) : undefined;
+  const store = storeSlug ? getCouponBySlug(storeSlug) : undefined;
   const codeKind = getStoreCodeKind(store, review.coupon);
   const codeBrand = codeKind ? store?.brand : undefined;
   const sameCodeStore = store?.offerMode === 'discount-code' && store.code === review.coupon ? store : undefined;
@@ -141,12 +148,28 @@ export function ReviewNotebookTemplate({
   const storeCopy = COUPON_STORE_COPY[couponCopyLocale];
   const offerActionLabel = couponCopyLocale === 'pt'
     ? store?.offerActionLabel
-    : review.affiliate && getLocalizedCoupon(review.affiliate, couponCopyLocale)?.offerActionLabel;
-  const storeLabel = storeBlock?.code ? storeCopy.goToStore : offerActionLabel || storeCopy.viewOffer;
-  // O código da loja citado no texto do corpo copia ao toque, com os textos do recorte.
-  const inlineCodeCopy = storeBlock?.code
-    ? { code: storeBlock.code, codeKind: storeBlock.codeKind, brand: storeBlock.brand, slug: storeBlock.slug, reviewSlug: review.slug, locale: couponCopyLocale }
-    : null;
+    : storeSlug && getLocalizedCoupon(storeSlug, couponCopyLocale)?.offerActionLabel;
+  // No artigo de várias lojas, toda linha leva o código: o link é sempre "Ir para a loja".
+  const storeLabel = storeBlock?.code || storeBlocks.length > 0 ? storeCopy.goToStore : offerActionLabel || storeCopy.viewOffer;
+  // O código da loja citado no texto do corpo copia ao toque, com os textos do recorte; no artigo de várias lojas, o
+  // de cada loja da lista.
+  const toInlineCopy = (block: ArticleStoreBlock) =>
+    block.code
+      ? [{ code: block.code, codeKind: block.codeKind, brand: block.brand, slug: block.slug, reviewSlug: review.slug, locale: couponCopyLocale }]
+      : [];
+  // Só o artigo de várias lojas passa a lista: o de uma loja segue com as mesmas props de antes.
+  const multiStoreBlocks = storeBlocks.length > 0 ? storeBlocks : undefined;
+  // O `store` dos links, das fotos e do card de estilo do artigo de várias lojas: só as lojas ativas. Vazio (todas
+  // pausadas) continua sendo o artigo de várias lojas, e nenhum link de loja sai.
+  const multiStores: MultiStores | undefined = isMultiStoreReview(review)
+    ? Object.fromEntries(storeBlocks.map(({ slug, brand, code }) => [slug, { brand, code }]))
+    : undefined;
+  // Só no artigo de várias lojas: prop undefined passada a componente cliente vira "$undefined" no payload.
+  const multiStoreProps = multiStores ? { multiStores } : {};
+  const storeBlocksProps = multiStoreBlocks ? { storeBlocks: multiStoreBlocks } : {};
+  const inlineCodeCopy = storeBlocks.length > 0
+    ? storeBlocks.flatMap(toInlineCopy)
+    : storeBlock ? toInlineCopy(storeBlock)[0] ?? null : null;
 
   const stepSections = (review.contentSections || []).filter((s) => isStepHeading(s.heading));
   const firstStepIndex = (review.contentSections || []).findIndex((s) => isStepHeading(s.heading));
@@ -246,6 +269,7 @@ export function ReviewNotebookTemplate({
             videoPageUrl={videoPageUrl}
             youtubeEmbedUrl={youtubeEmbedUrl}
             storeBlock={storeBlock}
+            {...storeBlocksProps}
             storeLabel={storeLabel}
           />
 
@@ -307,8 +331,9 @@ export function ReviewNotebookTemplate({
                         notes={notes}
                         reviewSlug={review.slug}
                         coupon={review.coupon}
-                        affiliate={review.affiliate}
+                        affiliate={storeSlug}
                         storeBrand={store?.brand}
+                        {...multiStoreProps}
                         locale={couponCopyLocale}
                         noteLabels={noteLabels}
                         slots={sectionSlots}
@@ -337,8 +362,9 @@ export function ReviewNotebookTemplate({
                             notes={notes}
                             reviewSlug={review.slug}
                             coupon={review.coupon}
-                            affiliate={review.affiliate}
+                            affiliate={storeSlug}
                             storeBrand={store?.brand}
+                            {...multiStoreProps}
                             locale={couponCopyLocale}
                             noteLabels={noteLabels}
                             slots={sectionSlots}
@@ -356,8 +382,9 @@ export function ReviewNotebookTemplate({
                       notes={notes}
                       reviewSlug={review.slug}
                       coupon={review.coupon}
-                      affiliate={review.affiliate}
+                      affiliate={storeSlug}
                       storeBrand={store?.brand}
+                      {...multiStoreProps}
                       locale={couponCopyLocale}
                       noteLabels={noteLabels}
                       slots={sectionSlots}
@@ -390,6 +417,7 @@ export function ReviewNotebookTemplate({
                 videoPageUrl={videoPageUrl}
                 showVerdict={shouldRenderVerdict}
                 storeBlock={storeBlock}
+                {...storeBlocksProps}
                 affiliateCta={
                   review.cta?.url && review.cta.label
                     ? { url: review.cta.url, label: review.cta.label, text: review.cta.text, sponsored: review.cta.sponsored ?? hasCommercialRelationship }
@@ -414,6 +442,7 @@ export function ReviewNotebookTemplate({
                 codeKind={codeKind}
                 codeBrand={codeBrand}
                 storeBlock={storeBlock}
+                {...storeBlocksProps}
                 storeLabel={storeLabel}
               />
             </aside>
@@ -426,7 +455,7 @@ export function ReviewNotebookTemplate({
         locale={couponCopyLocale}
         reviewSlug={review.slug}
         tocItems={tocItems}
-        affiliate={review.affiliate}
+        affiliate={storeSlug}
         coupon={
           review.coupon
             ? {
@@ -447,7 +476,9 @@ export function ReviewNotebookTemplate({
               : undefined
         }
         related={relatedArticleLinks}
-        hasTopCutout={Boolean(storeBlock)}
+        // As linhas do topo do artigo de várias lojas levam o #cupom-artigo, como o recorte.
+        hasTopCutout={Boolean(storeBlock || multiStoreBlocks)}
+        {...(multiStoreBlocks && { storeBlocks: multiStoreBlocks, storeLabel })}
       />
     </>
   );

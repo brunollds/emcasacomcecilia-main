@@ -15,6 +15,7 @@ import { ReputacaoMetricas, PadroesReclamacao } from './ReputacaoMetricas';
 import { ReviewSectionVideo } from './ReviewSectionVideo';
 import { TrackedCouponPageLink } from './TrackedCouponPageLink';
 import { ArticleStyling } from './article/ArticleStyling';
+import { withoutPausedStoreLinks, type MultiStores } from '@/lib/reviewStores';
 
 export interface ReviewSectionContentProps {
   section: ContentSection;
@@ -25,6 +26,8 @@ export interface ReviewSectionContentProps {
   coupon?: string;
   affiliate?: string;
   storeBrand?: string;
+  // O artigo de várias lojas: as lojas dele (slug: marca e código), para o `store` dos links, das fotos e do card.
+  multiStores?: MultiStores;
   locale?: Locale;
 }
 
@@ -113,6 +116,7 @@ export function ReviewSectionContent({
   coupon,
   affiliate,
   storeBrand,
+  multiStores,
   locale = 'pt',
 }: ReviewSectionContentProps): React.ReactElement {
   const showDropCap = isFirst && Boolean(kind);
@@ -122,6 +126,8 @@ export function ReviewSectionContent({
   const comparisonCaption = comparisonTable?.caption || section.heading || `Tabela comparativa de ${reviewTitle}`;
   const comparisonScrolls = (comparisonTable?.headers.length ?? 0) >= COMPARISON_SCROLL_MIN_COLUMNS;
   const comparisonSpacing = COMPARISON_SPACING[comparisonScrolls ? 'compact' : 'roomy'];
+  // O botão de loja pausada no artigo de várias lojas sai; os outros links ficam.
+  const links = withoutPausedStoreLinks(section.links, multiStores);
   // O título de FAQ decide: os bullets viram o acordeão, com os mesmos itens do FAQPage do schema,
   // e nunca a tabela de prós e contras nem a lista numerada.
   const isFaq = isFaqHeading(section.heading);
@@ -169,6 +175,7 @@ export function ReviewSectionContent({
             reviewTitle={reviewTitle}
             locale={locale}
             store={imageStore}
+            stores={multiStores}
             reviewSlug={reviewSlug}
           />
         </div>
@@ -215,7 +222,7 @@ export function ReviewSectionContent({
 
       {/* O cartão do fim já desenha a `image` ao lado; a galeria `images` não cabe ali e vem depois dele. */}
       {(section.image || (section.images && section.images.length > 0)) && !(emphasisAtEnd && section.image) && (
-        <ReviewInlineImage section={section} reviewTitle={reviewTitle} locale={locale} store={imageStore} reviewSlug={reviewSlug} />
+        <ReviewInlineImage section={section} reviewTitle={reviewTitle} locale={locale} store={imageStore} stores={multiStores} reviewSlug={reviewSlug} />
       )}
 
       {comparisonTable && (
@@ -456,9 +463,9 @@ export function ReviewSectionContent({
         </div>
       )}
 
-      {section.links && section.links.length > 0 && (
+      {links.length > 0 && (
         <div className={`mt-4 flex flex-wrap gap-4 ${Boolean(section.image || (section.images && section.images.length > 0)) ? 'justify-center w-full' : ''}`}>
-          {section.links.map((link) => {
+          {links.map((link) => {
             const internal = isInternalLink(link.href);
             const couponPage = internal && isCouponPageLink(link.href);
             const className = SECTION_LINK;
@@ -483,8 +490,8 @@ export function ReviewSectionContent({
                 <CouponStoreLink
                   key={link.href}
                   href={link.href}
-                  couponCode={coupon}
-                  brand={affiliate}
+                  couponCode={link.store && multiStores?.[link.store] ? multiStores[link.store].code : coupon}
+                  brand={link.store && multiStores?.[link.store] ? link.store : affiliate}
                   contentSlug={reviewSlug}
                   sponsored
                   placement="review_inline"
@@ -543,7 +550,7 @@ export function ReviewSectionContent({
       )}
 
       {section.styling && (
-        <ArticleStyling styling={section.styling} locale={locale} affiliate={affiliate} reviewSlug={reviewSlug} />
+        <ArticleStyling styling={section.styling} locale={locale} affiliate={affiliate} multiStores={multiStores} reviewSlug={reviewSlug} />
       )}
 
       {section.postParagraphs?.map((paragraph, paragraphIndex) => (

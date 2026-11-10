@@ -4,6 +4,7 @@ import { getArticleCopy } from '@/components/review/articleCopy';
 import type { CouponCopyLocale } from '@/components/review/couponCopyLocale';
 import {
   formatBrasiliaDay,
+  getActiveCoupons,
   getCouponBySlug,
   getPendingLimitedCodes,
   getStoreCodeKind,
@@ -14,6 +15,7 @@ import { getCouponStorePath, getLocalizedCoupon, isTranslatedLocale } from '@/li
 import { publishedReviews, type Review } from '@/lib/data';
 import { getStoreArticlesPath, getStoreCode, hasArticlesPage } from '@/lib/homeStores';
 import { isInternalLink } from '@/lib/internalLinks';
+import { getReviewStores, getSingleStoreSlug, isMultiStoreReview, reviewHasStore } from '@/lib/reviewStores';
 import { isListedInPortuguese } from '@/lib/reviewVisibility.mjs';
 
 // Server-only: lê o índice de artigos (@/lib/data) e os dados de cupom. Nada 'use client' importa este arquivo.
@@ -125,8 +127,10 @@ function getStoreRules(store: Coupon, source: Coupon | undefined, locale: Coupon
 
 // `now` decide os códigos com prazo: o build usa a hora dele, e os testes passam uma data fixa.
 export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, now = Date.now()): ArticleStoreBlock | null {
-  if (!review.affiliate) return null;
-  const store = getCouponBySlug(review.affiliate);
+  // O artigo de várias lojas não tem o bloco de uma loja: as linhas de código de cada uma vêm de outro lugar.
+  const storeSlug = getSingleStoreSlug(review);
+  if (!storeSlug) return null;
+  const store = getCouponBySlug(storeSlug);
   if (!store) return null;
 
   const code = review.coupon || undefined;
@@ -139,7 +143,7 @@ export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, n
   const rules = isStoreCode || !storeCode ? getStoreRules(store, source, locale) : [];
 
   const articleCount = locale === 'pt'
-    ? publishedReviews.filter((item) => item.affiliate === store.slug && isListedInPortuguese(item)).length
+    ? publishedReviews.filter((item) => reviewHasStore(item, store.slug) && isListedInPortuguese(item)).length
     : 0;
   const showArticles = locale === 'pt' && hasArticlesPage(articleCount);
 
@@ -165,4 +169,14 @@ export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, n
     articleCount: showArticles ? articleCount : undefined,
     ...(limitedCodes.length > 0 && { limitedCodes }),
   };
+}
+
+// O artigo de várias lojas: um bloco por loja ativa da lista, na ordem do artigo, cada um como o do artigo de uma loja
+// que usa o código de sempre dela (sem cta: o link é o de afiliado da loja). O artigo de uma loja e o sem loja dão [].
+export function getArticleStoreBlocks(review: Review, locale: CouponCopyLocale, now = Date.now()): ArticleStoreBlock[] {
+  if (!isMultiStoreReview(review)) return [];
+  return getReviewStores(review, getActiveCoupons()).flatMap((store) => {
+    const block = getArticleStoreBlock({ ...review, affiliate: store.slug, coupon: getStoreCode(store), cta: undefined }, locale, now);
+    return block ? [block] : [];
+  });
 }

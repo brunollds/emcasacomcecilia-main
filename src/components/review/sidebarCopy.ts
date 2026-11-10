@@ -28,6 +28,8 @@ export type SidebarCopy = {
   // Sob o código de indicação, no lugar de copyHint e copiedHint: ele não se cola no checkout.
   referralCopyHint: (brand: string) => string;
   referralCopiedHint: (brand: string) => string;
+  // O botão do dock do artigo de várias lojas, que abre a gaveta nas linhas de código (count: as lojas ativas).
+  viewCodes: (count: number) => string;
 };
 
 // O rótulo do botão do dock contém o texto visível dele ("Sumário" e a seção), para quem o
@@ -50,6 +52,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     copiedHint: 'Código copiado. Cole no campo correto do checkout.',
     referralCopyHint: (brand) => `Copie e pesquise no app ou no site da ${brand}.`,
     referralCopiedHint: (brand) => `Código copiado. Pesquise no app ou no site da ${brand}.`,
+    viewCodes: (count) => `Ver códigos (${count})`,
   },
   en: {
     contents: 'Contents',
@@ -68,6 +71,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     copiedHint: 'Code copied. Paste it into the right field at checkout.',
     referralCopyHint: (brand) => `Copy it, then search for it in the ${brand} app or website.`,
     referralCopiedHint: (brand) => `Code copied. Search for it in the ${brand} app or website.`,
+    viewCodes: (count) => `View codes (${count})`,
   },
   es: {
     contents: 'Índice',
@@ -86,6 +90,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     copiedHint: 'Código copiado. Pégalo en el campo correcto al finalizar la compra.',
     referralCopyHint: (brand) => `Cópialo y búscalo en la app o la web de ${brand}.`,
     referralCopiedHint: (brand) => `Código copiado. Búscalo en la app o la web de ${brand}.`,
+    viewCodes: (count) => `Ver códigos (${count})`,
   },
   fr: {
     contents: 'Sommaire',
@@ -104,6 +109,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     copiedHint: 'Code copié. Collez-le dans le bon champ lors du paiement.',
     referralCopyHint: (brand) => `Copiez-le, puis recherchez-le dans l’appli ou sur le site ${brand}.`,
     referralCopiedHint: (brand) => `Code copié. Recherchez-le dans l’appli ou sur le site ${brand}.`,
+    viewCodes: (count) => `Voir les codes (${count})`,
   },
   de: {
     contents: 'Inhalt',
@@ -122,6 +128,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     copiedHint: 'Code kopiert. Füge ihn an der Kasse ins richtige Feld ein.',
     referralCopyHint: (brand) => `Kopieren Sie ihn und suchen Sie ihn in der ${brand}-App oder auf der Website.`,
     referralCopiedHint: (brand) => `Code kopiert. Suchen Sie ihn in der ${brand}-App oder auf der Website.`,
+    viewCodes: (count) => `Codes ansehen (${count})`,
   },
   it: {
     contents: 'Indice',
@@ -140,6 +147,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     copiedHint: 'Codice copiato. Incollalo nel campo giusto al checkout.',
     referralCopyHint: (brand) => `Copialo e cercalo nell’app o sul sito ${brand}.`,
     referralCopiedHint: (brand) => `Codice copiato. Cercalo nell’app o sul sito ${brand}.`,
+    viewCodes: (count) => `Vedi i codici (${count})`,
   },
   ko: {
     contents: '목차',
@@ -158,6 +166,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     copiedHint: '코드 복사 완료. 결제할 때 알맞은 칸에 붙여 넣으세요.',
     referralCopyHint: (brand) => `복사한 뒤 ${brand} 앱이나 웹사이트에서 검색하세요.`,
     referralCopiedHint: (brand) => `코드 복사 완료. ${brand} 앱이나 웹사이트에서 검색하세요.`,
+    viewCodes: (count) => `코드 보기 (${count})`,
   },
   ja: {
     contents: '目次',
@@ -176,6 +185,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     copiedHint: 'コードをコピーしました。チェックアウトで正しい欄に貼り付けてください。',
     referralCopyHint: (brand) => `コピーして、${brand} のアプリかサイトで検索してください。`,
     referralCopiedHint: (brand) => `コードをコピーしました。${brand} のアプリかサイトで検索してください。`,
+    viewCodes: (count) => `コードを見る (${count})`,
   },
   'zh-hant': {
     contents: '目錄',
@@ -194,6 +204,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     copiedHint: '已複製代碼。結帳時請貼到正確的欄位。',
     referralCopyHint: (brand) => `請先複製，再到 ${brand} App 或網站搜尋。`,
     referralCopiedHint: (brand) => `已複製代碼。請到 ${brand} App 或網站搜尋。`,
+    viewCodes: (count) => `查看優惠碼 (${count})`,
   },
   'zh-hans': {
     contents: '目录',
@@ -212,6 +223,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     copiedHint: '已复制代码。结账时请粘贴到正确的栏位。',
     referralCopyHint: (brand) => `请先复制，再到 ${brand} App 或网站中搜索。`,
     referralCopiedHint: (brand) => `已复制代码。请到 ${brand} App 或网站中搜索。`,
+    viewCodes: (count) => `查看优惠码 (${count})`,
   },
 };
 

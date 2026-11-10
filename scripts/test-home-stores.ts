@@ -29,6 +29,7 @@ import {
 import { getListedPortugueseReviews, sortReviewsByPublishedAt } from '@/lib/reviewDiscovery';
 import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+import { reviewHasStore } from '@/lib/reviewStores';
 import {
   CECILIA_TAB_ID,
   getDefaultTabId,
@@ -221,10 +222,12 @@ assert.deepEqual(
   activeStores.map(({ slug }) => slug).sort(),
   'a ordem não perde nem repete loja'
 );
-const newestListed = sortReviewsByPublishedAt(getListedPortugueseReviews(publishedReviews)).find(({ affiliate }) =>
-  activeStores.some(({ slug }) => slug === affiliate)
+const newestListed = sortReviewsByPublishedAt(getListedPortugueseReviews(publishedReviews)).find((review) =>
+  activeStores.some(({ slug }) => reviewHasStore(review, slug))
 );
-assert.equal(tabs[0].slug, newestListed?.affiliate, 'a primeira aba é a loja do artigo PT mais novo');
+// No artigo de várias lojas, a primeira delas na ordem de couponsData.ts (o desempate das bolinhas).
+const newestStore = newestListed && activeStores.find(({ slug }) => reviewHasStore(newestListed, slug));
+assert.equal(tabs[0].slug, newestStore?.slug, 'a primeira aba é a loja do artigo PT mais novo');
 assert.ok(!bySlug.has('cecilia'), 'a aba da Cecília é o painel dela, não uma loja');
 assert.ok(!bySlug.has('kopenhagen'), 'loja pausada fica de fora');
 
@@ -251,7 +254,7 @@ assert.equal(tab('letseatit').storeUrl, store('letseatit').offerUrl, 'o link da 
 
 const listed = sortReviewsByPublishedAt(getListedPortugueseReviews(publishedReviews));
 for (const current of tabs) {
-  const expected = listed.filter((item) => item.affiliate === current.slug);
+  const expected = listed.filter((item) => reviewHasStore(item, current.slug));
   assert.equal(current.total, expected.length, `${current.slug}: total`);
   assert.deepEqual(
     current.articles.map(({ slug }) => slug),
@@ -307,7 +310,7 @@ assert.ok(pageSlugs.includes('damie'), 'a DAMIE tem subpágina');
 assert.deepEqual(
   pageSlugs,
   getActiveCoupons()
-    .filter((coupon) => listed.filter((item) => item.affiliate === coupon.slug).length >= 3)
+    .filter((coupon) => listed.filter((item) => reviewHasStore(item, coupon.slug)).length >= 3)
     .map(({ slug }) => slug),
   'subpágina para toda loja ativa com 3 artigos ou mais'
 );
