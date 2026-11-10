@@ -2036,19 +2036,19 @@ for (const url of articleUrls) {
   // As fotos com link de produto (`href` da imagem da seção): cada uma vira um link sponsored com o nome "Ver na
   // <loja>: <alt>" do idioma, e o "Ampliar" segue como botão logo depois do link, fora dele.
   const photoLinks = (review.contentSections ?? []).flatMap((section) =>
-    [...(typeof section.image === 'object' && section.image ? [section.image] : []), ...(section.images ?? [])].flatMap((image) => (image.href ? [image.href] : []))
+    [...(typeof section.image === 'object' && section.image ? [section.image] : []), ...(section.images ?? [])].flatMap((image) => (image.href ? [image] : []))
   );
-  if (photoLinks.length) {
-    const photoStore = getSingleStoreSlug(review) ? getCouponBySlug(getSingleStoreSlug(review)!) : undefined;
+  // No artigo de várias lojas, o nome do link vem do `store` de cada foto.
+  for (const { href, store } of photoLinks) {
+    const storeSlug = store ?? getSingleStoreSlug(review);
+    const photoStore = storeSlug ? getCouponBySlug(storeSlug) : undefined;
     const viewLabel = escapeHtml(getGalleryCopy(locale).viewProduct(photoStore ? { slug: photoStore.slug, brand: photoStore.brand } : undefined));
-    for (const href of photoLinks) {
-      const start = body.search(new RegExp(`<a\\b[^>]*\\shref="${escapeHtml(href).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"[^>]*\\saria-label="${viewLabel.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`));
-      assert.ok(start >= 0, `${pagePath}: foto sem o link de produto ${href} com o nome "${viewLabel}…"`);
-      const link = elementAt(body, start);
-      assert.match(link, /^<a\b[^>]*\srel="sponsored noopener noreferrer"/, `${pagePath}: link da foto ${href} sem sponsored`);
-      assert.doesNotMatch(link, /<button\b/, `${pagePath}: botão dentro do link da foto ${href}`);
-      assert.match(body.slice(start + link.length), /^<button\b/, `${pagePath}: foto ${href} sem o botão Ampliar logo depois do link`);
-    }
+    const start = body.search(new RegExp(`<a\\b[^>]*\\shref="${escapeHtml(href).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"[^>]*\\saria-label="${viewLabel.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`));
+    assert.ok(start >= 0, `${pagePath}: foto sem o link de produto ${href} com o nome "${viewLabel}…"`);
+    const link = elementAt(body, start);
+    assert.match(link, /^<a\b[^>]*\srel="sponsored noopener noreferrer"/, `${pagePath}: link da foto ${href} sem sponsored`);
+    assert.doesNotMatch(link, /<button\b/, `${pagePath}: botão dentro do link da foto ${href}`);
+    assert.match(body.slice(start + link.length), /^<button\b/, `${pagePath}: foto ${href} sem o botão Ampliar logo depois do link`);
   }
 
   // Os banners de campanha da loja (storeBanners.ts): o `top` logo depois da 1ª seção do corpo, o `mid` logo antes
