@@ -11,12 +11,13 @@ import {
   type ReviewDiscoveryItem,
 } from '@/lib/reviewDiscovery';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+import { getReviewStoreLabel, getReviewStoreSlugs, reviewHasStore, type ReviewAffiliate } from '@/lib/reviewStores';
 import { ofStore, theStore } from '@/lib/storeNames';
 
 // Dados da vitrine da home e da subpágina /reviews/loja/{slug}. Recebe as reviews por parâmetro e
 // não importa '@/lib/data': quem chama é o servidor, e o componente cliente recebe só o resultado.
 
-export type StoreReview = ReviewDiscoveryItem & { affiliate?: string };
+export type StoreReview = ReviewDiscoveryItem & { affiliate?: ReviewAffiliate };
 
 // A vitrine traz até 6 artigos da loja: no computador a lista fica da altura do card de destaque; no
 // celular, sem o destaque, a lista mostra os 4 primeiros (MOBILE_VISIBLE_ARTICLES, em homeStoreTabs.ts).
@@ -42,17 +43,18 @@ function listedNewestFirst<T extends StoreReview>(reviews: readonly T[]) {
 }
 
 function articlesOfStore<T extends StoreReview>(listed: readonly T[], slug: string): T[] {
-  return listed.filter((review) => review.affiliate === slug);
+  return listed.filter((review) => reviewHasStore(review, slug));
 }
 
 // As lojas do artigo PT listado mais novo para o mais antigo (a ordem das bolinhas da home e de /reviews).
 // Segue a ordem de listedNewestFirst, que desempata a data pelo id; assim a primeira bolinha é a loja do
 // artigo que abre a lista. Loja sem artigo vai para o fim, na ordem recebida.
-// Posição de cada loja na lista de artigos (já ordenada do mais novo): a primeira de cada loja vale.
+// Posição de cada loja na lista de artigos (já ordenada do mais novo): a primeira de cada loja vale. O artigo de várias
+// lojas conta para todas.
 export function newestArticleRank(listed: readonly StoreReview[]): Map<string, number> {
   const rank = new Map<string, number>();
-  listed.forEach(({ affiliate }, index) => {
-    if (affiliate && !rank.has(affiliate)) rank.set(affiliate, index);
+  listed.forEach((review, index) => {
+    for (const slug of getReviewStoreSlugs(review)) if (!rank.has(slug)) rank.set(slug, index);
   });
   return rank;
 }
@@ -210,7 +212,7 @@ export function getHomeLatest<T extends StoreReview>(
       image: review.image ? resolveMediaUrl(review.image) : undefined,
       imageFit: cardImageFit(review),
       imagePosition: review.imagePosition,
-      store: stores.find((store) => store.slug === review.affiliate)?.brand,
+      store: getReviewStoreLabel(review, stores),
     }));
 }
 

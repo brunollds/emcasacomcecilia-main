@@ -19,6 +19,7 @@ import {
   type ReviewCategory,
 } from '@/lib/reviewDiscovery';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+import { getReviewStoreLabel, getReviewStores, reviewHasStore } from '@/lib/reviewStores';
 import {
   GRID_PAGE_SIZE,
   countLabel,
@@ -48,7 +49,7 @@ type ListedReview = HubReview & { category: ReviewCategory; publishedAtISO: stri
 export const REVIEWS_TRAIL_ROOT: PageLink = { name: 'Início', path: '/' };
 const REVIEWS_TRAIL: PageLink[] = [REVIEWS_TRAIL_ROOT, { name: 'Guias & Análises', path: '/reviews' }];
 
-// Os artigos que não são de nenhuma loja ativa (sem affiliate, ou de loja pausada) têm a página
+// Os artigos que não são de nenhuma loja ativa (sem affiliate, ou só de loja pausada) têm a página
 // /reviews/outros e a bolinha "Outros", a última de todas.
 export const OTHERS_SLUG = 'outros';
 export const OTHERS_SHELF_PATH = '/reviews/outros';
@@ -70,8 +71,9 @@ function formatDates(publishedAtISO: string) {
   return { dayMonth: `${day}/${month}`, fullDate: `${day}/${month}/${year}` };
 }
 
-// Os campos da busca do site (siteSearch.mjs), com o rótulo da categoria e o nome da loja.
-function searchTextOf(review: ListedReview, store: string | undefined): string {
+// Os campos da busca do site (siteSearch.mjs), com o rótulo da categoria e o nome das lojas (todas as ativas, no artigo
+// de várias lojas).
+function searchTextOf(review: ListedReview, stores: readonly string[]): string {
   return foldSearchText(
     [
       review.title,
@@ -80,7 +82,7 @@ function searchTextOf(review: ListedReview, store: string | undefined): string {
       CATEGORY_LABELS.get(review.category),
       review.productName,
       review.brand,
-      store,
+      ...stores,
       ...(review.tags ?? []),
       ...(review.collections ?? []),
     ]
@@ -89,20 +91,24 @@ function searchTextOf(review: ListedReview, store: string | undefined): string {
   );
 }
 
-// O que o cartão mostra, com o endereço e as datas de quem chama.
+// O que o cartão mostra, com o endereço e as datas de quem chama. Na subpágina de uma loja (`storeSlug`), o cartão do
+// artigo de várias lojas leva o nome dela; fora dela, o rótulo de getReviewStoreLabel.
 function toShelfCard(
   review: HubReview,
   stores: readonly Coupon[],
   href: string,
-  dates: Pick<ShelfCardArticle, 'dayMonth' | 'fullDate'>
+  dates: Pick<ShelfCardArticle, 'dayMonth' | 'fullDate'>,
+  locale = 'pt',
+  storeSlug?: string
 ): ShelfCardArticle {
+  const pageStore = storeSlug && reviewHasStore(review, storeSlug) ? stores.find(({ slug }) => slug === storeSlug) : undefined;
   return {
     slug: review.slug,
     href,
     title: review.title,
     type: review.type,
     ...dates,
-    store: stores.find(({ slug }) => slug === review.affiliate)?.brand,
+    store: pageStore?.brand ?? getReviewStoreLabel(review, stores, locale),
     image: review.image ? resolveMediaUrl(review.image) : undefined,
     imageFit: cardImageFit(review),
     imagePosition: review.imagePosition,
@@ -110,14 +116,14 @@ function toShelfCard(
   };
 }
 
-function toShelfArticle(review: ListedReview, stores: readonly Coupon[]): ShelfArticle {
-  const card = toShelfCard(review, stores, `/reviews/${review.slug}`, formatDates(review.publishedAtISO));
+function toShelfArticle(review: ListedReview, stores: readonly Coupon[], storeSlug?: string): ShelfArticle {
+  const card = toShelfCard(review, stores, `/reviews/${review.slug}`, formatDates(review.publishedAtISO), 'pt', storeSlug);
   return {
     ...card,
     id: review.id,
     category: review.category,
     publishedAtISO: review.publishedAtISO,
-    searchText: searchTextOf(review, card.store),
+    searchText: searchTextOf(review, getReviewStores(review, stores).map(({ brand }) => brand)),
   };
 }
 
@@ -134,10 +140,13 @@ export function getRelatedShelfCards(
   return reviews.map((review) => {
     if (!review.publishedAtISO) throw new Error(`[reviewsHub] ${review.slug}: relacionado sem publishedAtISO`);
     const date = new Date(`${review.publishedAtISO.slice(0, 10)}T00:00:00Z`);
-    return toShelfCard(review, stores, getReviewCanonicalPathname(review), {
-      dayMonth: dayMonth.format(date),
-      fullDate: fullDate.format(date),
-    });
+    return toShelfCard(
+      review,
+      stores,
+      getReviewCanonicalPathname(review),
+      { dayMonth: dayMonth.format(date), fullDate: fullDate.format(date) },
+      locale
+    );
   });
 }
 
@@ -165,14 +174,13 @@ function getShelfStores(reviews: readonly HubReview[], stores: readonly Coupon[]
   const withPage = new Set(getStoreArticlePageSlugs(reviews, stores));
   return sortStoresByNewestArticle(stores, reviews)
     .filter(({ slug }) => withPage.has(slug))
-    .map((store) => toShelfStore(store, listed.filter(({ affiliate }) => affiliate === store.slug).length));
+    .map((store) => toShelfStore(store, listed.filter((review) => reviewHasStore(review, store.slug)).length));
 }
 
-// Os artigos listados em português cujo affiliate não é uma loja ativa, do mais novo ao mais antigo.
+// Os artigos listados em português sem nenhuma loja ativa, do mais novo ao mais antigo.
 function getOthersReviews(reviews: readonly HubReview[], stores: readonly Coupon[]): ListedReview[] {
-  const active = new Set(stores.map(({ slug }) => slug));
   return sortReviewsByPublishedAt(getListedPortugueseReviews(reviews)).filter(
-    ({ affiliate }) => !affiliate || !active.has(affiliate)
+    (review) => getReviewStores(review, stores).length === 0
   );
 }
 
@@ -261,7 +269,7 @@ export function getStoreShelfContent(
 
   const { articles: storeReviews, ...texts } = page;
   const path = getStoreArticlesPath(page.slug);
-  const articles = storeReviews.map((review) => toShelfArticle(review, stores));
+  const articles = storeReviews.map((review) => toShelfArticle(review, stores, page.slug));
   const searchText = `Buscar nos artigos ${ofStore(store)}`;
 
   return {
