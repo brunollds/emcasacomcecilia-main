@@ -22,7 +22,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | PP3 | Presente de Natal para pai: a poltrona do papai vale? (decisão do Bruno, 09/11) | DAMIE | PT | [[presente-de-natal-para-pai-poltrona-do-papai]] | No ar em 09/11 (release 04452e78), antes da data prevista. Releituras em 28/11 e no começo de dezembro (seção de revisões) |
 | AG1 | Alternativas à Growth: só whey, com os tipos que a Growth vende (concentrado, isolado e outros), por 100 g de proteína e com o código (GO do Bruno, 09/11; divisão decidida pelo Bruno com a sessão de artigos na mesma noite) | Black Skull, Max Titanium, Probiótica e Mais Mu | PT | [[alternativas-a-growth-whey-creatina]] | A sessão de artigos ajusta o briefing ao recorte só de whey (e o slug, se mudar). Reler todos os preços no dia (Growth no Chrome); atualizar depois de 27/11 |
 | AG2 | Alternativas à creatina da Growth, por 100 g de creatina e com o código (separada da AG1 pelo Bruno, 09/11) | Black Skull, Max Titanium, Probiótica e Mais Mu | PT | Falta o briefing (sessão de pautas). Os fatos de 09/11 estão em [[alternativas-a-growth-whey-creatina-fatos-0911]], seção "Creatina das parceiras" | Briefing; depois redação |
-| PP4 | Poltrona do papai de couro ou corino: qual escolher (decisão do Bruno, 09/11) | DAMIE | PT | [[poltrona-do-papai-couro-ou-corino]] | Texto, revisão externa e capa prontos em 09/11; aguarda deploy com GO do Bruno, fora do pico de BF e Natal, com releitura de preços e páginas no dia. Bruno pergunta à DAMIE a composição do corino, a cobertura do couro e se descascar entra na garantia (briefing, seção 7) |
+| PP4 | Poltrona do papai de couro ou corino: qual escolher (decisão do Bruno, 09/11) | DAMIE | PT | [[poltrona-do-papai-couro-ou-corino]] | No ar em 09/11 (release d5466fab). Releitura em 28/11 (seção de revisões). As perguntas à DAMIE sobre o corino, o couro e a garantia seguem opcionais (briefing, seção 7) |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
@@ -186,6 +186,7 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 | Até cerca de 20/11 e 27/11 | PP1: reler o preço das poltronas antes de publicar e de novo na Black Friday, do mesmo jeito, e preencher os fatos |
 | 28/11 | PP2 (`poltrona-do-papai-eletrica-quanto-custa`): a Esquenta Black vence em 27/11. Reler o configurador e tirar "na campanha, massagem por vibração e USB" das linhas da DAMIE, ou dizer o que passou a valer |
 | 28/11 e começo de dezembro | PP3 (`presente-de-natal-para-pai-poltrona-do-papai`): saiu em 09/11 com os preços e os brindes da Esquenta Black, que vence em 27/11. Em 28/11, reler preço, brindes, frete e prazo. No começo de dezembro, antes das referências de 9 e 11/12, reler o prazo de novo |
+| 28/11 | PP4 (`poltrona-do-papai-couro-ou-corino`): saiu em 09/11, durante a Esquenta Black, que vence em 27/11. Reler os preços das 4 bases em corino e couro, a Matrix, a Condor e a Alpha, as páginas da DAMIE (a leitura automática deu 429 em 09/11) e atualizar a data da tabela |
 | 13/11 e na abertura da campanha | `shein-black-friday` (10 idiomas): "hoje está no 11.11" envelhece. Reler as lojas e atualizar as datas |
 | 05/11 | Autobronzeador Skelt: reler os preços |
 | Até 21/11 | Skelt: refazer o teste do cupom, porque a regra vence em 21/11 |

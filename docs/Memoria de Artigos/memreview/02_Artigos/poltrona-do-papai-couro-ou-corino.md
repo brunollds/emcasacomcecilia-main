@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
 anexo_tipo: "nenhum"
-status: "aguardando-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy com GO do Bruno, fora do pico de BF e Natal; antes, reler preços e páginas da DAMIE e ajustar publishedAt, updatedAt e a data da tabela"
+proxima_acao: "em 28/11, reler preços e páginas da DAMIE; as perguntas à loja seguem opcionais (seção 7)"
 bloqueado_por: null
 score_autoridade: 74
 score_conversao: 70
