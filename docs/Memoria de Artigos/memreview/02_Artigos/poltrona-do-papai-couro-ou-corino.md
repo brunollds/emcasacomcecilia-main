@@ -192,3 +192,10 @@ JSON em `content/reviews/poltrona-do-papai-couro-ou-corino.json` (id 891), fora 
 - **Revisão externa (r03):** aceitos o corino sem indicação para o calor, o desgaste de volta à conclusão, o acabamento do couro sem "material só", a pátina condicionada, a instrução do manual e o escopo das garantias. Recusados: tirar a cobertura integral (fato do Bruno), tirar o clima do veredito (decisão do Bruno) e reduzir a comparação técnica a 5 linhas (pedido do Bruno). A hidrólise foi do parágrafo para a tabela, sem a matéria sobre bolsas.
 - **Alpha:** o link enviado é da Amazon; a linha usa a Alpha Elétrica a R$ 5.690,50, sem as condições da Premium da Moveleiro.
 
+## Capa v2 (piloto de capas, 10/11/2026)
+
+- **Capa:** `/images/reviews/damie/poltrona-do-papai-couro-ou-corino-capa-v2.webp` (`imageFit: contain`), no lugar da capa de 09/11.
+- **Alt:** "Cecília sentada na poltrona DAMIE Levita em couro caramelo."
+- **Origem:** foto própria (`poltrona-levita-cecilia-sala.webp`, a mesma da seção "Aqui em casa", sem recorte nem retoque) e o logo da DAMIE do repositório. Texto da arte: "Em casa com Cecília", "Couro ou corino?" e "Como escolher sua poltrona". A foto não é capa de outro artigo da DAMIE (a da Levita usa outras).
+- **Aprovação:** o Bruno aprovou a direção visual em 10/11/2026, a partir do comparativo do piloto (`docs/auditoria-capas/piloto-20261110/`, montado pelo Codex). A capa anterior segue no CDN, sem uso.
+- **Divergência com o Job 6 (só neste piloto, sem mudar a regra geral):** sem a faixa verde de baixo; a composição saiu do HTML do comparativo, capturada no Chrome headless em 1600×900, e não do `covers:render`; texto em Segoe UI. Os SVGs do piloto não foram usados: abertos sozinhos, caem em fonte serifada.

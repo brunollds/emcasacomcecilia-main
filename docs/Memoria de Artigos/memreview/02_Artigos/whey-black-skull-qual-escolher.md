@@ -234,3 +234,12 @@ Respostas do Bruno de 23/10/2026 ao lote de seis pautas. Ele aprovou as recomend
 - **A linha 100% HD: pote, refil, 1,8 kg e 450 g:** `/images/reviews/black-skull/whey-black-skull-100-hd-refil.webp`
 - **3W Core e 100% HD: por que não são o mesmo produto:** `/images/reviews/black-skull/whey-black-skull-3w-core.webp`
 - **Quadro da linha: os 11 wheys e o kit de Turbo do site:** `/images/reviews/black-skull/whey-black-skull-preco-por-proteina.webp`
+
+## Capa v2 (piloto de capas, 10/11/2026)
+
+- **Capa:** `/images/reviews/black-skull/whey-black-skull-capa-v2.webp` (`imageFit: contain`), no lugar da capa de 23/10.
+- **Alt:** "Embalagens de Whey 80% HD, 100% HD e 3W Core da Black Skull em cenário ilustrativo de academia."
+- **Origem:** cenário gerado por IA (OpenAI, só o fundo); produto: fotos oficiais da Black Skull (`whey/black-skull-80-hd-refil.webp`, `whey/black-skull-100-hd-refil.webp` e `black-skull/whey-black-skull-3w-core.webp`), recortadas por `clip-path`, sem redesenho. Logo da Black Skull do repositório. Texto da arte: "Qual whey escolher?", "80% HD, 100% HD e 3W" e "Cupom CECILIA10" (10%, o código do artigo).
+- **Recortes:** uma lasca branca no entalhe do refil 80% HD e a sombra da foto cortada reta sob o pote do 3W; o Bruno aceitou.
+- **Aprovação:** o Bruno aprovou a direção visual em 10/11/2026, a partir do comparativo do piloto (`docs/auditoria-capas/piloto-20261110/`, montado pelo Codex). A capa anterior segue no CDN, sem uso.
+- **Divergência com o Job 6 (só neste piloto, sem mudar a regra geral):** sem a faixa verde de baixo; a composição saiu do HTML do comparativo, capturada no Chrome headless em 1600×900, e não do `covers:render`; texto em Segoe UI. Os SVGs do piloto não foram usados: abertos sozinhos, caem em fonte serifada.
