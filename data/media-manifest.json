@@ -61530,6 +61530,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-e-boa-capa.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-e-boa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 103408,
+      "sha256": "8d3922018f61e412189255a0f9757a86b011d7b9356e5388511b669cbf4f1091",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-e-boa-capa.webp",
+      "storage_filename": "holyfoods-e-boa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-e-boa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/holyfoods/holyfoods-e-boa-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 210496,
+          "column": 15,
+          "literal": "/images/reviews/holyfoods/holyfoods-e-boa-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8d3922018f61e412189255a0f9757a86b011d7b9356e5388511b669cbf4f1091/holyfoods-e-boa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8d3922018f61e412189255a0f9757a86b011d7b9356e5388511b669cbf4f1091/holyfoods-e-boa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T22:48:52.490Z",
+      "verification_etag_or_digest": "8d3922018f61e412189255a0f9757a86b011d7b9356e5388511b669cbf4f1091",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-e-boa-mac-queijo.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-e-boa-mac-queijo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45272,
+      "sha256": "f094ee72c5e4f45ab0de5e23822a2cbf28646b6341b8809468d2ef130e5a09b2",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-e-boa-mac-queijo.webp",
+      "storage_filename": "holyfoods-e-boa-mac-queijo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-e-boa.json",
+          "line": 252,
+          "column": 19,
+          "literal": "/images/reviews/holyfoods/holyfoods-e-boa-mac-queijo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 210725,
+          "column": 21,
+          "literal": "/images/reviews/holyfoods/holyfoods-e-boa-mac-queijo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f094ee72c5e4f45ab0de5e23822a2cbf28646b6341b8809468d2ef130e5a09b2/holyfoods-e-boa-mac-queijo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f094ee72c5e4f45ab0de5e23822a2cbf28646b6341b8809468d2ef130e5a09b2/holyfoods-e-boa-mac-queijo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T22:48:52.491Z",
+      "verification_etag_or_digest": "f094ee72c5e4f45ab0de5e23822a2cbf28646b6341b8809468d2ef130e5a09b2",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/holyfoods/holyfoods-e-confiavel-canja-da-mamae.webp",
       "local_url": "/images/reviews/holyfoods/holyfoods-e-confiavel-canja-da-mamae.webp",
       "media_kind": "image",

@@ -210470,5 +210470,431 @@ export const reviewsData: unknown[] = [
         "slug": "alternativas-a-growth-whey"
       }
     ]
+  },
+  {
+    "id": 896,
+    "slug": "holyfoods-e-boa",
+    "locale": "pt",
+    "title": "HolyFoods é boa? Sopas, risotos e macs pelo rótulo, um a um",
+    "seoTitle": "HolyFoods é bom? Sopas, risotos e macs pelo rótulo",
+    "type": "Guia de Marca",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "As tabelas de sopas, risotos e macs lado a lado, o que cada lista de ingredientes traz e quando o pack de sopa compensa, com os preços já com o cupom EMCASA.",
+    "metaDescription": "O cupom EMCASA dá 15% OFF na HolyFoods. HolyFoods é bom? Sopas, risotos e macs pelo rótulo: proteína, calorias, sódio, ingredientes e preço com o código.",
+    "publishedAt": "10 de novembro de 2026",
+    "publishedAtISO": "2026-11-10",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/holyfoods/holyfoods-e-boa-capa.webp",
+    "imageAlt": "Caixas de Risoto Funghi e Mac Queijo e um prato de Canja da Mamãe da HolyFoods, com o título HolyFoods é boa?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Leve se você quer comida guardada na despensa e aceita fazer o preparo indicado.",
+        "Leve o sachê avulso se você quer provar uma receita com menor gasto inicial.",
+        "Leve o pack se você já escolheu a sopa que vai repetir: ele custa menos por quantidade de mistura."
+      ],
+      "skipIf": [
+        "Passe se você procura prato já cozido, só de esquentar.",
+        "Passe o Risoto de Queijo, o Mac Queijo e o Mac Alfredo se você evita leite ou lactose; nos outros, leia a linha \"pode conter\".",
+        "Refaça a conta se o frete pesar no total: ele entra à parte no pedido."
+      ]
+    },
+    "cta": {
+      "text": "Se a HolyFoods faz sentido para você, entre pelo botão e, na tela Finalizar compra, cole o código EMCASA. Confira os 15% na linha de desconto antes de pagar.",
+      "label": "Ir para a HolyFoods",
+      "url": "https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "EMCASA",
+    "affiliate": "holyfoods",
+    "editorialNote": "Feito pelo rótulo e pelo site da loja. A Cecília preparou um risoto e o Mac Queijo em vídeo, antes da parceria. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "holyfoods-e-confiavel"
+      },
+      {
+        "slug": "cupom-holyfoods-como-usar"
+      },
+      {
+        "slug": "black-friday-holyfoods"
+      },
+      {
+        "slug": "holyfoods-reclame-aqui-nota-reputacao"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A HolyFoods vale para quem quer comida guardada na despensa e aceita preparar: sopas, risotos e macs exigem cozimento. O sachê avulso custa menos para experimentar, e o pack de sopa custa menos por quantidade de mistura. Com o EMCASA aplicado, a receita sai dos ingredientes que você procura ou evita e do tempo de panela."
+        ]
+      },
+      {
+        "heading": "HolyFoods é bom?",
+        "paragraphs": [
+          "É bom para quem quer ter comida guardada na despensa, sem congelador, e aceita preparar. Os ingredientes já vêm reunidos na embalagem: você acrescenta água e cozinha. Quem procura um prato já cozido, só de aquecer, precisa contar com esse trabalho antes de comprar."
+        ],
+        "comparisonTable": {
+          "caption": "Rendimento e preparo pela ficha de cada produto.",
+          "headers": [
+            "Linha",
+            "O que rende",
+            "Preparo"
+          ],
+          "rows": [
+            [
+              "Sopa avulsa, sachê maior",
+              "1 litro, em 4 porções de 250 g",
+              "15 a 20 minutos no fogão"
+            ],
+            [
+              "Risoto",
+              "1 porção de 320 g",
+              "18 a 20 minutos mexendo no fogão, ou no micro-ondas"
+            ],
+            [
+              "Mac",
+              "1 porção de 380 g",
+              "15 a 20 minutos no fogão, ou no micro-ondas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Cecília já fez dois deles em vídeo: [um risoto na panela de indução](/videos/risoto-holyfoods-kit-tiktok-shop), com água e um pouco de manteiga, e [o Mac Queijo na panela](/videos/mac-queijo-holyfoods-na-panela).",
+          "A loja mostra nota geral de 4,8 em mais de 25 mil avaliações, publicadas no próprio site. As reclamações fora dele estão no [artigo do Reclame Aqui](/reviews/holyfoods-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Sopa HolyFoods é boa? As quatro pelo rótulo",
+        "paragraphs": [
+          "Comece pela receita que você procura: a Low Carb leva lentilha vermelha e quinoa; a Canja, arroz, quinoa e frango; Vovó e Detox têm macarrão de arroz. Na tabela, a Low Carb declara mais proteína e fibra por porção."
+        ],
+        "comparisonTable": {
+          "caption": "Por porção preparada de 250 g, pela ficha de cada produto.",
+          "headers": [
+            "Sopa",
+            "Carboidratos",
+            "Proteína",
+            "Fibra"
+          ],
+          "rows": [
+            [
+              "[Sopa da Vovó](https://www.holyfoods.com.br/products/sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "18 g",
+              "2,5 g",
+              "1,9 g"
+            ],
+            [
+              "[Sopa Low Carb](https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "24 g",
+              "7,7 g",
+              "5,7 g"
+            ],
+            [
+              "[Sopa Detox](https://www.holyfoods.com.br/products/sopa-detox?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "14 g",
+              "2,7 g",
+              "2,2 g"
+            ],
+            [
+              "[Canja da Mamãe](https://www.holyfoods.com.br/products/canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "20 g",
+              "5,5 g",
+              "2,1 g"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Entre as quatro, a chamada Low Carb é a que declara mais carboidratos na porção preparada de 250 g. Para escolher por carboidratos, compare a tabela em vez de usar apenas o nome do produto. Low Carb e Detox são nomes dos produtos, e a gente não atribui efeito nenhum a eles.",
+          "Vovó e Detox declaram menos calorias: 87 e 80 kcal por porção, contra 111 da Canja e 134 da Low Carb. O sódio declarado vai de 15 a 63 mg. Regra prática, sem teste nosso: o preparo orienta acrescentar sal a gosto, e a quantidade que você colocar também muda o sódio do prato."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/holyfoods/cupom-holyfoods-sopa-low-carb.webp",
+            "alt": "Prato de Sopa Low Carb da HolyFoods com a embalagem ao lado, em foto oficial da loja",
+            "caption": "Sopa Low Carb: o sachê avulso rende quatro porções. Foto: HolyFoods.",
+            "objectFit": "square",
+            "href": "https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "Risoto HolyFoods é bom?",
+        "paragraphs": [
+          "O Funghi é a opção de cogumelos; o de Queijo leva leite e queijos; o Al Mare traz camarão e caldo de peixe. Os três declaram 20 g de proteína por caixa, então esse número não separa nenhum deles. O Funghi declara menos gordura total e menos sódio, e o de Queijo, mais gordura saturada."
+        ],
+        "comparisonTable": {
+          "caption": "Por embalagem preparada, 320 g, pela ficha de cada produto.",
+          "headers": [
+            "Risoto",
+            "Gordura total",
+            "Gordura saturada",
+            "Sódio"
+          ],
+          "rows": [
+            [
+              "[Risoto Funghi](https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "0,7 g",
+              "0 g",
+              "82 mg"
+            ],
+            [
+              "[Risoto Al Mare](https://www.holyfoods.com.br/products/risoto-al-mare?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "3,7 g",
+              "0,9 g",
+              "175 mg"
+            ],
+            [
+              "[Risoto de Queijo](https://www.holyfoods.com.br/products/risoto-de-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "8,4 g",
+              "5,6 g",
+              "208 mg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As calorias vão de 398 kcal no Funghi a 452 kcal no de Queijo, com o Al Mare em 421. No fogão, o risoto pede que você mexa durante o cozimento; a ficha também traz uma forma de preparo no micro-ondas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/holyfoods/black-friday-holyfoods-risoto-funghi.webp",
+            "alt": "Prato de Risoto Funghi da HolyFoods com a caixa do produto ao fundo, em foto oficial da loja",
+            "caption": "Risoto Funghi: uma caixa, uma porção de 320 g. Foto: HolyFoods.",
+            "objectFit": "square",
+            "href": "https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "Mac Queijo HolyFoods é bom? Os quatro macs",
+        "paragraphs": [
+          "Os macs também declaram 20 g de proteína por embalagem. Queijo e Alfredo levam leite e queijo provolone; o Bolonha traz carne bovina, e o Caipira, frango. O Mac Queijo declara mais gordura saturada entre os quatro, e o sódio dele fica muito perto do sódio do Caipira."
+        ],
+        "comparisonTable": {
+          "caption": "Por embalagem preparada, 380 g, pela ficha de cada produto.",
+          "headers": [
+            "Mac",
+            "Calorias",
+            "Gordura saturada",
+            "Sódio"
+          ],
+          "rows": [
+            [
+              "[Mac Queijo](https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "395 kcal",
+              "6,6 g",
+              "318 mg"
+            ],
+            [
+              "[Mac Alfredo](https://www.holyfoods.com.br/products/novo-mac-alfredo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "446 kcal",
+              "5,7 g",
+              "228 mg"
+            ],
+            [
+              "[Mac Bolonha](https://www.holyfoods.com.br/products/mac-bolonha?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "412 kcal",
+              "2 g",
+              "276 mg"
+            ],
+            [
+              "[Mac Caipira](https://www.holyfoods.com.br/products/mac-caipira?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "308 kcal",
+              "1 g",
+              "321 mg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Caipira declara menos calorias e mais fibra entre os quatro. O Bolonha é o único que lista açúcar como ingrediente, e a ficha dele informa 1,5 g de açúcares adicionados por embalagem."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/holyfoods/holyfoods-e-boa-mac-queijo.webp",
+            "alt": "Embalagem do Mac Queijo da HolyFoods, em foto oficial da loja",
+            "caption": "Mac Queijo: rende uma porção de 380 g. Foto: HolyFoods.",
+            "objectFit": "square",
+            "href": "https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "HolyFoods tem conservantes? E é ultraprocessado?",
+        "paragraphs": [
+          "Não encontramos conservantes declarados nas listas consultadas. A ausência de conservantes, sozinha, não define se um alimento é ultraprocessado: os macs e as sopas Vovó e Detox listam corantes e emulsificante no macarrão.",
+          "A [página do Ministério da Saúde](https://linhasdecuidado.saude.gov.br/portal/obesidade-no-adulto/sou-paciente/processamento-alimentos-profissional/) explica a classificação. O [artigo dos autores da classificação NOVA](https://doi.org/10.1017/S1368980018003762) detalha os sinais na lista de ingredientes: aditivos como corantes e emulsificantes e substâncias de pouco uso na cozinha, com proteína isolada de soja e proteínas hidrolisadas entre os exemplos. Colágeno e proteína de ervilha não estão nomeados ali; nós os tratamos como fontes de proteína do mesmo tipo, adicionadas à receita."
+        ],
+        "comparisonTable": {
+          "caption": "Nossa aplicação desse critério à lista de ingredientes de cada produto no site da loja.",
+          "headers": [
+            "Produtos",
+            "O que a lista traz"
+          ],
+          "rows": [
+            [
+              "Sopa Low Carb",
+              "Nenhum desses itens"
+            ],
+            [
+              "Sopa da Vovó e Sopa Detox",
+              "Corantes e emulsificante no macarrão"
+            ],
+            [
+              "Mac Queijo, Alfredo, Bolonha e Caipira",
+              "Corantes e emulsificante no macarrão. Colágeno no Queijo e no Caipira; proteína isolada de ervilha no Bolonha e no Caipira"
+            ],
+            [
+              "Canja da Mamãe e Risoto Al Mare",
+              "Proteína de ervilha; o Al Mare também leva colágeno"
+            ],
+            [
+              "Risoto Funghi e Risoto de Queijo",
+              "Colágeno"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A lista da Low Carb não traz nenhum desses itens. As outras dez trazem ao menos um: seis têm corante e emulsificante, e as outras quatro entram pela proteína adicionada. A lista não diz quanto de cada item vai na receita, e a resposta vale para as fórmulas de hoje, produto a produto.",
+          "Nos risotos e macs, a lista também não separa quanto cada fonte contribui para os 20 g de proteína declarados. O Mac Alfredo não lista colágeno nem proteína de ervilha: nele aparecem leite, queijo provolone, frango desidratado e farinha de feijão branco.",
+          "A loja informa: leite e lactose no Risoto de Queijo, no Mac Queijo e no Mac Alfredo; peixes e crustáceos no Risoto Al Mare; derivados de soja nas quatro sopas, no Mac Queijo, no Bolonha e no Caipira. Confira as linhas contém e pode conter na embalagem da receita escolhida."
+        ]
+      },
+      {
+        "heading": "Quanto custa cada embalagem com o cupom",
+        "paragraphs": [
+          "O EMCASA tira 15% também do preço em promoção. O quadro mostra o valor da compra e o que cada embalagem rende. Para comparar os dois formatos da mesma sopa, o capítulo seguinte usa o peso da mistura."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de 10/11, com os 30% da campanha da loja e os 15% do EMCASA, sem frete.",
+          "headers": [
+            "Produto",
+            "Embalagem e rendimento informado",
+            "Preço com o código"
+          ],
+          "rows": [
+            [
+              "Sopa avulsa",
+              "1 sachê maior, 4 porções de 250 g, a R$ 2,96 cada",
+              "R$ 11,84"
+            ],
+            [
+              "Risoto",
+              "1 caixa, 1 porção de 320 g",
+              "R$ 11,84"
+            ],
+            [
+              "Mac",
+              "1 embalagem, 1 porção de 380 g",
+              "R$ 11,84"
+            ],
+            [
+              "[Pack de sopa](https://www.holyfoods.com.br/products/pack-sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "10 sachês menores, embalados um a um",
+              "R$ 35,64"
+            ],
+            [
+              "[Projeto 21 Dias](https://www.holyfoods.com.br/products/projeto-21-dias?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "21 sachês: 7 Vovó, 7 Low Carb e 7 Canja",
+              "R$ 87,47"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Esses preços valem com a campanha no ar. Se os produtos voltarem aos preços de referência que a loja mostra e o EMCASA continuar válido, o avulso sairia por cerca de R$ 16,92 e o pack por cerca de R$ 50,92. O preço depois da campanha depende da oferta que estiver no site.",
+          "O frete entra à parte: confira o total para o seu CEP antes de pagar."
+        ],
+        "links": [
+          {
+            "label": "cupom HolyFoods",
+            "href": "/cupons/holyfoods"
+          }
+        ]
+      },
+      {
+        "heading": "Pack ou sachê avulso de sopa: qual sai mais em conta?",
+        "paragraphs": [
+          "O pack custa menos pela mesma quantidade de mistura seca nas três sopas que têm os dois formatos; a Detox não tem pack. O avulso exige menos dinheiro para experimentar. Como os sachês têm tamanhos diferentes, a porção anunciada no card não decide sozinha qual formato compensa."
+        ],
+        "comparisonTable": {
+          "caption": "Conta nossa: preço com a campanha e o EMCASA por 100 g de mistura seca, nos pesos da ficha de cada formato.",
+          "headers": [
+            "Sopa",
+            "Avulso: peso e custo por 100 g",
+            "Pack: peso total e custo por 100 g"
+          ],
+          "rows": [
+            [
+              "Vovó",
+              "130 g, R$ 9,11",
+              "10 sachês de 43 g, R$ 8,29"
+            ],
+            [
+              "Low Carb",
+              "152 g, R$ 7,79",
+              "10 sachês de 50 g, R$ 7,13"
+            ],
+            [
+              "Canja",
+              "133 g, R$ 8,90",
+              "10 sachês de 44 g, R$ 8,10"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nesses valores, o pack custa de 8% a 9% menos por 100 g. As listas de ingredientes dos dois formatos são iguais na Low Carb e quase iguais na Canja; na Vovó, a do pack traz mandioquinha e alho poró a mais.",
+          "Escolha o avulso para provar a receita com menor gasto inicial. O pack faz sentido quando você já quer repetir a mesma sopa."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/holyfoods/black-friday-holyfoods-pack-canja-da-mamae-saches.webp",
+            "alt": "Sachês individuais da Canja da Mamãe da HolyFoods lado a lado, em foto oficial da loja",
+            "caption": "No pack, cada sachê é individual e menor que o avulso. Foto: HolyFoods.",
+            "objectFit": "square",
+            "href": "https://www.holyfoods.com.br/products/pack-canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          }
+        ],
+        "links": [
+          {
+            "label": "Black Friday HolyFoods",
+            "href": "/reviews/black-friday-holyfoods"
+          }
+        ]
+      },
+      {
+        "heading": "Para quem vale e para quem não vale",
+        "paragraphs": [
+          "Na primeira compra, escolha a receita pelos ingredientes e pelo trabalho de preparo. Depois de provar, olhe o pack se a sopa for entrar na rotina."
+        ],
+        "bullets": [
+          "Quer gastar menos para experimentar: comece pelo avulso da receita que mais combina com o que você procura.",
+          "Vai repetir a mesma sopa: o pack tem o menor custo por quantidade de mistura.",
+          "Procura 20 g de proteína declarados por embalagem: risotos e macs têm esse valor, então decida entre eles pelos ingredientes e pelo preparo.",
+          "Quer evitar corantes e emulsificante: esses itens não aparecem nas listas da Low Carb, da Canja e dos três risotos.",
+          "Precisa excluir um ingrediente: confira a lista e os alérgenos do produto escolhido, inclusive a linha pode conter."
+        ],
+        "emphasis": "Para experimentar, o avulso pede menos gasto. Para repetir a sopa, o pack custa menos por quantidade de mistura. A receita sai dos ingredientes que você procura ou precisa evitar."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "HolyFoods é saudável? A resposta depende da receita e de como ela entra na sua alimentação. O rótulo mostra ingredientes e nutrientes, mas ausência de conservantes e presença de proteína não bastam para avaliar uma dieta. Para orientação individual, converse com nutricionista ou médico.",
+          "O cupom EMCASA soma com a promoção da loja? Soma: nos testes no checkout, os 15% saíram do preço que já estava com os 30% da campanha. Confira a linha de desconto antes de pagar.",
+          "Dá para fazer HolyFoods no micro-ondas? A ficha de risotos e macs traz o preparo no micro-ondas. Para as sopas, a loja indica o fogão.",
+          "HolyFoods tem glúten? As listas dos onze produtos declaram não conter glúten. Para outras alergias ou restrições, confira as linhas contém e pode conter na embalagem escolhida."
+        ]
+      }
+    ]
   }
 ];
