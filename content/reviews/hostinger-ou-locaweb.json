@@ -1,0 +1,337 @@
+{
+  "id": 892,
+  "slug": "hostinger-ou-locaweb",
+  "locale": "pt",
+  "title": "Hostinger ou Locaweb: qual compensa no começo e na renovação?",
+  "seoTitle": "Hostinger ou Locaweb: qual compensa com a renovação?",
+  "type": "Comparativo",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "Com o SONAR20, a Hostinger custa menos no plano de 48 meses; na renovação, a Locaweb cobra menos por mês. Veja a simulação de 8 anos, a nota fiscal e o que vem em cada plano.",
+  "metaDescription": "O código SONAR20 dá 20% OFF na Hostinger em compra nova. Hostinger ou Locaweb: preço, renovação, nota fiscal e para quem cada uma compensa.",
+  "publishedAt": "10 de novembro de 2026",
+  "publishedAtISO": "2026-11-10",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/hostinger/hostinger-ou-locaweb-capa.webp",
+  "imageAlt": "Logo da Hostinger com o título Hostinger ou Locaweb na faixa",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "decision": {
+    "takeIf": [
+      "Leve a Hostinger com o SONAR20 se aceita pagar 48 meses e quer o menor valor de hospedagem agora: ela custa menos nos três pares comparados.",
+      "Leve o Premium da Hostinger se até 3 sites bastam e você já contou o que vai pagar de domínio e e-mail depois do primeiro ano."
+    ],
+    "skipIf": [
+      "Prefira a Locaweb se precisa de nota fiscal brasileira: ela emite, e a Hostinger informa que esse documento não está disponível.",
+      "Prefira o Go da Locaweb se ainda precisa de domínio e e-mail e quer os dois no plano de entrada: o Single da Hostinger não traz nenhum.",
+      "Compare outros planos se precisa de mais de 3 sites: o Premium não comporta esse número."
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Use SONAR20 no campo de cupom do carrinho ou entre pelo link: 20% na compra nova dos planos de 12, 24 e 48 meses. O código não vale na renovação, em domínio nem nos planos de um mês do Single e do Premium.",
+    "label": "Ver os planos com o SONAR20",
+    "url": "https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno. Comparamos preços e condições, sem teste de desempenho. Ninguém da equipe usou a Locaweb.",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-renovacao-cupom-sonar20"
+    },
+    {
+      "slug": "hostinger-ou-hostgator"
+    },
+    {
+      "slug": "hostinger-ou-godaddy"
+    },
+    {
+      "slug": "hostinger-reclame-aqui-nota-reputacao"
+    },
+    {
+      "slug": "hostinger-e-confiavel"
+    },
+    {
+      "slug": "dominio-hostinger-comprar-transferir-ou-fora"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "No plano de 48 meses, a Hostinger com o SONAR20 custa menos que a Locaweb nos três pares comparados. Na renovação, a Locaweb cobra menos por mês, e dois ciclos saem mais baratos nela pelos preços de hoje. Quem precisa de nota fiscal brasileira tem um motivo à parte para escolher a Locaweb."
+      ]
+    },
+    {
+      "heading": "O que cada plano inclui",
+      "paragraphs": [
+        "Para quem ainda não tem domínio nem e-mail, os planos de entrada são bem diferentes: o Go da Locaweb traz os dois, e o Single da Hostinger não traz nenhum. No par seguinte, o Premium aceita até 3 sites, e o Hospedagem I, sites ilimitados.",
+        "Usamos a hospedagem, o e-mail e o VPS da Hostinger, que é parceira do site, e o Em Casa com Cecília roda lá. A Locaweb não foi testada: as informações dela vêm das páginas, do carrinho, do contrato e da ajuda."
+      ],
+      "comparisonTable": {
+        "caption": "Planos de 48 meses. As visitas são as anunciadas pela Locaweb.",
+        "headers": [
+          "Faixa",
+          "Hostinger",
+          "Locaweb"
+        ],
+        "rows": [
+          [
+            "Um site",
+            "[Single](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20): 1 site, 10 GB, sem domínio e sem e-mail",
+            "Go: 1 site, 15 GB, domínio por 1 ano, 1 e-mail, 20 mil visitas por mês"
+          ],
+          [
+            "Mais de um site",
+            "[Premium](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20): até 3 sites, 20 GB, domínio por 1 ano, 2 e-mails por site por 1 ano",
+            "Hospedagem I: sites ilimitados, 35 GB, domínio por 1 ano, 10 e-mails, 35 mil visitas por mês"
+          ],
+          [
+            "Mais espaço",
+            "[Unlimited](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20): sites ilimitados, 50 GB NVMe, domínio por 1 ano, e-mails ilimitados por 1 ano",
+            "Hospedagem II: sites ilimitados, 60 GB, domínio por 1 ano, 30 e-mails, 120 mil visitas por mês"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A página da Hostinger não informa um número de visitas nesses planos, o que não quer dizer capacidade sem limite. Veja quanto o seu site recebe antes de comparar."
+      ]
+    },
+    {
+      "heading": "Quanto custa contratar os primeiros 48 meses",
+      "paragraphs": [
+        "A hospedagem sai mais barata na Hostinger com o código nos três pares, e as duas parcelam o total em até 12 vezes. O SONAR20 entra no campo de cupom do carrinho e tira 20% da compra nova.",
+        "Preços de 10/11/2026, das páginas e dos carrinhos das duas, em campanha de Black Friday."
+      ],
+      "comparisonTable": {
+        "caption": "Total de hospedagem por 48 meses. Domínio e e-mail cobrados à parte ficam fora.",
+        "headers": [
+          "Par",
+          "Hostinger com SONAR20",
+          "Locaweb",
+          "Economia na hospedagem"
+        ],
+        "rows": [
+          [
+            "Single e Go",
+            "R$ 230,02",
+            "R$ 283,20",
+            "R$ 53,18"
+          ],
+          [
+            "Premium e Hospedagem I",
+            "R$ 383,62",
+            "R$ 523,20",
+            "R$ 139,58"
+          ],
+          [
+            "Unlimited e Hospedagem II",
+            "R$ 498,82",
+            "R$ 811,20",
+            "R$ 312,38"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "No primeiro par, a diferença é a menor das três, e o domínio e o e-mail do Go podem custar mais que ela para quem ainda precisa contratar os dois."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-ou-locaweb-carrinho-sonar20.webp",
+        "alt": "Carrinho da Hostinger com o plano Unlimited de 48 meses, o código SONAR20 aplicado e o total de R$ 498,82",
+        "caption": "O Unlimited de 48 meses com o SONAR20 no carrinho da Hostinger.",
+        "objectFit": "contain",
+        "aspectRatio": 2.7
+      },
+      "links": [
+        {
+          "label": "cupom Hostinger",
+          "href": "/cupons/hostinger"
+        }
+      ]
+    },
+    {
+      "heading": "Na renovação, a Locaweb cobra menos por mês",
+      "paragraphs": [
+        "O desconto de entrada acaba no ciclo seguinte. O SONAR20 só vale na compra nova, e as duas renovam sozinhas, pelo mesmo período.",
+        "Na Locaweb, a página diz que o plano passa ao \"valor integral\" na renovação, sem dar o número. Ele aparece no carrinho e muda com o prazo: o valor mais alto, que a página mostra no cartão do plano, é o do ciclo de 3 meses."
+      ],
+      "comparisonTable": {
+        "caption": "Valor por mês para renovar mais 48 meses, sem cupom.",
+        "headers": [
+          "Par",
+          "Hostinger",
+          "Locaweb"
+        ],
+        "rows": [
+          [
+            "Single e Go",
+            "R$ 23,99",
+            "R$ 17,90"
+          ],
+          [
+            "Premium e Hospedagem I",
+            "R$ 38,99",
+            "R$ 24,90"
+          ],
+          [
+            "Unlimited e Hospedagem II",
+            "R$ 64,99",
+            "R$ 44,90"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "É o valor por mês para comparar o custo do período: nas duas, a renovação do ciclo de 48 meses é cobrada de uma vez."
+      ]
+    },
+    {
+      "heading": "Simulação de 8 anos, pelos preços de hoje",
+      "paragraphs": [
+        "Somando os primeiros 48 meses a uma renovação de mais 48, a Locaweb fica abaixo nos três pares, se os valores de hoje continuarem. É um cenário para dimensionar a renovação, e nenhuma das duas vende preço fechado por 8 anos."
+      ],
+      "comparisonTable": {
+        "caption": "Hostinger com SONAR20 só na primeira compra. Sem reajuste e sem domínio ou e-mail cobrados à parte.",
+        "headers": [
+          "Par",
+          "Hostinger",
+          "Locaweb",
+          "Diferença no cenário"
+        ],
+        "rows": [
+          [
+            "Single e Go",
+            "R$ 1.381,54",
+            "R$ 1.142,40",
+            "R$ 239,14"
+          ],
+          [
+            "Premium e Hospedagem I",
+            "R$ 2.255,14",
+            "R$ 1.718,40",
+            "R$ 536,74"
+          ],
+          [
+            "Unlimited e Hospedagem II",
+            "R$ 3.618,34",
+            "R$ 2.966,40",
+            "R$ 651,94"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O contrato da Locaweb corrige os preços pelo IPCA a cada 12 meses, também nas renovações, e o preço da Hostinger também pode mudar até lá. Manter o site por muitos anos, sozinho, não decide pela Locaweb: pesam o reajuste, o domínio, o e-mail e os recursos de que o site vai precisar."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-ou-locaweb-dois-ciclos.webp",
+        "alt": "Comparação dos três pares de hospedagem: 48 meses com SONAR20 na Hostinger e um segundo ciclo de 48 meses pelos preços de hoje, sem reajustes nem extras",
+        "caption": "Dois ciclos de 48 meses. Simulação de hospedagem, sem reajustes e sem serviços cobrados à parte.",
+        "objectFit": "contain",
+        "aspectRatio": 1.28
+      }
+    },
+    {
+      "heading": "Nota fiscal, servidor no Brasil e pagamento",
+      "paragraphs": [
+        "Na nota fiscal, elas se separam. A ajuda da Hostinger diz que a nota fiscal brasileira não está disponível, e o cliente baixa um PDF como comprovante de compra. Na Locaweb, a nota fica na Central do Cliente, no botão \"Ver nota fiscal\".",
+        "As duas têm servidor no Brasil. Na Hostinger, ele é opção nos planos web e cloud, escolhida ao configurar o plano; as caixas de e-mail ficam à parte, em data centers na França e na Alemanha. A Locaweb informa dois data centers no estado de São Paulo.",
+        "Pix, boleto e cartão valem nas duas. Quem faz questão de telefone encontra esse canal na lista da Locaweb, junto de WhatsApp e chat.",
+        "Para trazer um site de outra empresa, a Hostinger informa migração grátis nos planos Web, Cloud ou Agency, e a Locaweb lista migração grátis nos três planos. Confira o seu caso com o suporte antes de cancelar a hospedagem antiga."
+      ]
+    },
+    {
+      "heading": "Domínio e e-mail podem mudar a economia",
+      "paragraphs": [
+        "Quem já tem domínio e usa e-mail em outro serviço pode comparar só a hospedagem. Quem está começando precisa somar os dois: o Go traz domínio por 1 ano, em .br ou .store, e uma caixa de e-mail, e no Single os dois ficam por sua conta.",
+        "O domínio é grátis só no primeiro ano nas duas, e depois renova à parte. Na Hostinger, a gratuidade das caixas de e-mail do Premium e do Unlimited também dura um ano. A página da Locaweb não marca prazo nas caixas incluídas no plano."
+      ]
+    },
+    {
+      "heading": "Antes de pagar 4 anos: cancelamento e Reclame Aqui",
+      "paragraphs": [
+        "A Hostinger aceita pedido de reembolso em até 30 dias. Na Locaweb, o termo da oferta também dá 30 dias desde a primeira ativação, e o pedido é analisado e, a critério da empresa, devolvido em até 45 dias.",
+        "Depois dos 30 dias, os documentos da Locaweb não dizem a mesma coisa. O contrato diz que o cancelamento só vale no fim do plano, sem reembolso, desconto ou crédito. O aviso das condições promocionais, na página, diz que nos planos mais longos o tempo não usado vira crédito por 90 dias ou reembolso com taxas. Antes de pagar 4 anos adiantados, peça à Locaweb a regra do seu plano por escrito.",
+        "Para não renovar na Locaweb, o contrato pede aviso com 15 dias de antecedência do fim do prazo.",
+        "No Reclame Aqui, a Locaweb está à frente em nota e em reclamações resolvidas, e a Hostinger responde antes na plataforma. Esse tempo é o do Reclame Aqui e não mede o suporte técnico, e o número de reclamações, sozinho, não diz quantos clientes têm problema."
+      ],
+      "comparisonTable": {
+        "caption": "Reclame Aqui, últimos 6 meses.",
+        "headers": [
+          "Indicador",
+          "Hostinger",
+          "Locaweb"
+        ],
+        "rows": [
+          [
+            "Reputação e nota",
+            "Ótima, 8,5",
+            "RA1000, 8,9"
+          ],
+          [
+            "Reclamações",
+            "1.420",
+            "827"
+          ],
+          [
+            "Resolvidas",
+            "87,8%",
+            "96,4%"
+          ],
+          [
+            "Voltariam a fazer negócio",
+            "79,7%",
+            "83,1%"
+          ],
+          [
+            "Tempo médio de resposta",
+            "7 dias e 18 horas",
+            "12 dias e 3 horas"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Qual escolher para o seu site",
+      "paragraphs": [
+        "Quem aceita pagar 48 meses e quer o menor valor de hospedagem agora fica com a Hostinger e o SONAR20. A comparação é mais simples quando domínio e e-mail já estão resolvidos.",
+        "Quem precisa de nota fiscal brasileira, ou quer domínio e e-mail no plano de entrada, tem na Locaweb o que procura. Para ficar dois ciclos de 4 anos, a renovação menor pesa a favor dela no cenário calculado, com o reajuste do contrato para pôr na conta."
+      ],
+      "emphasis": "Com domínio e e-mail resolvidos, a Hostinger com o SONAR20 tem o menor valor de hospedagem no plano de 48 meses. Com nota fiscal brasileira na lista, a Locaweb faz mais sentido."
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual é melhor, Hostinger ou Locaweb? Depende do que pesa para você. A Hostinger com o SONAR20 custa menos no plano de 48 meses, e a Locaweb renova mais barato, emite nota fiscal brasileira e traz domínio e e-mail no Go.",
+        "A Hostinger tem servidor no Brasil? Sim, nos planos web e cloud. A localização é escolhida ao configurar o plano.",
+        "A Hostinger emite nota fiscal? A ajuda dela diz que a nota fiscal brasileira não está disponível. O cliente baixa uma fatura em PDF como comprovante de compra.",
+        "A Hostinger aceita Pix? Sim, por QR Code, na tela de pagamento. Boleto e cartão também entram.",
+        "O cupom da Hostinger vale na renovação? Não. O SONAR20 é só para compra nova e também não vale em domínio. Os preços de cada plano estão no [guia de renovação da Hostinger](/reviews/hostinger-renovacao-cupom-sonar20)."
+      ]
+    }
+  ]
+}
