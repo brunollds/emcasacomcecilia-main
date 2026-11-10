@@ -186,7 +186,6 @@ export function ArticleHeader({
             blocks={storeBlocks}
             locale={couponCopyLocale}
             reviewSlug={review.slug}
-            storeLabel={storeLabel}
           />
         </div>
       ) : storeBlock && (

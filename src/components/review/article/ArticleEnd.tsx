@@ -116,7 +116,6 @@ export function ArticleEnd({
             blocks={storeBlocks}
             locale={couponCopyLocale}
             reviewSlug={review.slug}
-            storeLabel={storeLabel}
           />
         </section>
       ) : storeBlock ? (

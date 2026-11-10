@@ -149,8 +149,8 @@ export function ReviewNotebookTemplate({
   const offerActionLabel = couponCopyLocale === 'pt'
     ? store?.offerActionLabel
     : storeSlug && getLocalizedCoupon(storeSlug, couponCopyLocale)?.offerActionLabel;
-  // No artigo de várias lojas, toda linha leva o código: o link é sempre "Ir para a loja".
-  const storeLabel = storeBlock?.code || storeBlocks.length > 0 ? storeCopy.goToStore : offerActionLabel || storeCopy.viewOffer;
+  // O link da loja do artigo de uma loja; as linhas do de várias lojas têm o texto curto delas (storeGoShort).
+  const storeLabel = storeBlock?.code ? storeCopy.goToStore : offerActionLabel || storeCopy.viewOffer;
   // O código da loja citado no texto do corpo copia ao toque, com os textos do recorte; no artigo de várias lojas, o
   // de cada loja da lista.
   const toInlineCopy = (block: ArticleStoreBlock) =>
@@ -478,7 +478,7 @@ export function ReviewNotebookTemplate({
         related={relatedArticleLinks}
         // As linhas do topo do artigo de várias lojas levam o #cupom-artigo, como o recorte.
         hasTopCutout={Boolean(storeBlock || multiStoreBlocks)}
-        {...(multiStoreBlocks && { storeBlocks: multiStoreBlocks, storeLabel })}
+        {...(multiStoreBlocks && { storeBlocks: multiStoreBlocks })}
       />
     </>
   );

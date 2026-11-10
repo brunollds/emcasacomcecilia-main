@@ -7,6 +7,7 @@ import { renderToStaticMarkup } from 'react-dom/server';
 import { ArticleCodeCopyProvider, HighlightCoupon } from '@/components/review/HighlightCoupon';
 import { ArticleStoreCodes } from '@/components/review/article/ArticleStoreCodes';
 import { ArticleStyling } from '@/components/review/article/ArticleStyling';
+import { getArticleCopy } from '@/components/review/articleCopy';
 import { getArticleStoreBlock, getArticleStoreBlocks } from '@/lib/articleStore';
 import { COUPONS, getActiveCoupons, getPendingLimitedCodes } from '@/lib/couponsData';
 import { publishedReviews } from '@/lib/data';
@@ -316,24 +317,32 @@ const withIwsRows = renderToStaticMarkup(
     blocks: getArticleStoreBlocks(withIws, 'pt', Date.parse('2026-11-05T12:00:00-03:00')),
     locale: 'pt',
     reviewSlug: 'x',
-    storeLabel: 'Ir para a loja',
   })
 );
 assert.ok(!withIwsRows.includes('CECIEMCASA15'), 'o código com prazo fica fora do HTML (só no navegador)');
 assert.equal(getArticleStoreBlock(multiReview, 'pt', now), null, 'o artigo com lista não tem o bloco de uma loja');
 
 const render = (variant: 'top' | 'end' | 'sidebar' | 'drawer') =>
-  renderToStaticMarkup(createElement(ArticleStoreCodes, { variant, blocks, locale: 'pt', reviewSlug: 'x', storeLabel: 'Ir para a loja' }));
+  renderToStaticMarkup(createElement(ArticleStoreCodes, { variant, blocks, locale: 'pt', reviewSlug: 'x' }));
 const top = render('top');
 assert.match(top, /<section id="cupom-artigo" data-store-codes="top"/);
 assert.ok(top.includes('Códigos deste artigo'));
 assert.deepEqual([...top.matchAll(/data-store-code="([^"]+)"/g)].map(([, slug]) => slug), blocks.map(({ slug }) => slug), 'uma linha por loja ativa, na ordem do artigo');
+// A linha compacta: o nome, "Ir à loja" e "Regras" juntos; o código é o próprio botão de copiar (sem "Copiar" ao lado),
+// com o nome da loja no rótulo; nenhum cartão por loja (.recorte).
 for (const block of blocks) {
-  assert.ok(top.includes(`>${block.code}</code>`), `${block.slug}: código na linha`);
+  const row = top.slice(top.indexOf(`data-store-code="${block.slug}"`));
+  const button = row.match(/<button\b[^>]*>[\s\S]*?<\/button>/)?.[0] ?? '';
+  assert.ok(button.includes(`>${block.code}</span>`), `${block.slug}: o código dentro do botão`);
+  assert.match(button, new RegExp(`aria-label="Copiar o código ${block.code} \\(${block.brand}\\)"`), `${block.slug}: rótulo do botão com o código e a loja`);
   const link = top.match(new RegExp(`<a[^>]*href="${block.storeHref!.replace(/[.?*+^$()[\]{}|\\]/g, '\\$&').replaceAll('&', '&amp;')}"[^>]*>`))?.[0] ?? '';
   assert.match(link, /rel="[^"]*sponsored/, `${block.slug}: link da loja com sponsored`);
-  assert.ok(top.includes(`Regras da ${block.brand}`) || top.includes(`Regras do ${block.brand}`), `${block.slug}: link das regras`);
+  assert.match(link, new RegExp(`aria-label="Ir à loja: ${block.brand}"`), `${block.slug}: o link da loja diz qual loja`);
+  assert.ok(row.includes(`<span class="sr-only">${getArticleCopy('pt').storeRulesOf(block)}</span>`), `${block.slug}: o nome completo das regras para o leitor de tela`);
 }
+assert.ok(top.includes('>Ir à loja') && top.includes('>Regras</span>'), 'os textos curtos na tela');
+assert.ok(!/\bCopiar</.test(top), 'sem o botão "Copiar" ao lado do código');
+assert.ok(!/class="[^"]*\brecorte\b/.test(top), 'sem um cartão (.recorte) por loja');
 assert.doesNotMatch(render('sidebar'), /id="cupom-artigo"/, 'só o topo leva o id do dock');
 assert.doesNotMatch(render('sidebar'), /Regras d[ao] /, 'a lateral fica sem o link das regras');
 const drawer = render('drawer');

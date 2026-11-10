@@ -222,7 +222,6 @@ export function ReviewSidebar({
           blocks={storeBlocks}
           locale={locale}
           reviewSlug={review.slug}
-          storeLabel={storeLabel}
         />
       ) : storeBlock ? (
         <div className="pt-4">

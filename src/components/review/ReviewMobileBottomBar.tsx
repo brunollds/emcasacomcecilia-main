@@ -43,8 +43,6 @@ export interface ReviewMobileBottomBarProps {
   // O artigo de várias lojas: as linhas de código de cada loja ativa vão na gaveta, e o dock troca o botão de copiar
   // pelo "Ver códigos (N)", que abre a gaveta nelas. Só vem nele, para o payload do artigo de uma loja não mudar.
   storeBlocks?: readonly ArticleStoreBlock[];
-  // O "Ir para a loja" das linhas.
-  storeLabel?: string;
 }
 
 // O equivalente do sidebar no celular: um dock com a seção atual e o cupom, que abre o sumário
@@ -61,7 +59,6 @@ export function ReviewMobileBottomBar({
   related,
   hasTopCutout = false,
   storeBlocks,
-  storeLabel = '',
 }: ReviewMobileBottomBarProps): React.ReactElement | null {
   const { activeIndex, progress } = useReadingPosition(tocItems.map((item) => item.id));
   const { cutoutPassed, storeInView } = useDockTargets(hasTopCutout);
@@ -262,7 +259,6 @@ export function ReviewMobileBottomBar({
                 blocks={storeBlocks!}
                 locale={locale}
                 reviewSlug={reviewSlug}
-                storeLabel={storeLabel}
               />
             </div>
           )}

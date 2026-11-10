@@ -55,6 +55,9 @@ export type ArticleCopy = {
   // da loja, com as regras.
   storeCodesTitle: string;
   storeRulesOf: (store: StoreName) => string;
+  // As linhas do artigo de várias lojas, curtas para caber na linha do nome; o leitor de tela ouve o nome completo.
+  storeGoShort: string;
+  storeRulesShort: string;
   allStoreArticles: (count: number, store: StoreName) => string;
   // Caixa da Cecília no fim do artigo, com as frases que a home de cada idioma já usa.
   authorBoxTitle: string;
@@ -128,6 +131,8 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     allRules: 'Ver todas as regras',
     storeCodesTitle: 'Códigos deste artigo',
     storeRulesOf: (store) => `Regras ${ofStore(store)}`,
+    storeGoShort: 'Ir à loja',
+    storeRulesShort: 'Regras',
     allStoreArticles: (count, store) => `Todos os ${count} artigos ${ofStore(store)}`,
     authorBoxTitle: 'Oi, eu sou a Cecília',
     authorBoxBody: 'Conto o que testo em casa e trago os códigos das lojas parceiras.',
@@ -187,6 +192,8 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     allRules: 'See all the rules',
     storeCodesTitle: 'Codes in this article',
     storeRulesOf: ({ brand }) => `${brand} rules`,
+    storeGoShort: 'Go to store',
+    storeRulesShort: 'Rules',
     allStoreArticles: (count, { brand }) => `All ${count} ${brand} articles`,
     authorBoxTitle: 'Hi, I’m Cecília',
     authorBoxBody: 'I share what I try at home and the codes from the stores I partner with.',
@@ -246,6 +253,8 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     allRules: 'Ver todas las reglas',
     storeCodesTitle: 'Códigos de este artículo',
     storeRulesOf: ({ brand }) => `Reglas de ${brand}`,
+    storeGoShort: 'Ir a la tienda',
+    storeRulesShort: 'Reglas',
     allStoreArticles: (count, { brand }) => `Los ${count} artículos de ${brand}`,
     authorBoxTitle: 'Hola, soy Cecília',
     authorBoxBody: 'Comparto lo que pruebo en casa y los códigos de las tiendas con las que colaboro.',
@@ -305,6 +314,8 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     allRules: 'Voir toutes les conditions',
     storeCodesTitle: 'Codes de cet article',
     storeRulesOf: ({ brand }) => `Conditions chez ${brand}`,
+    storeGoShort: 'Aller à la boutique',
+    storeRulesShort: 'Conditions',
     allStoreArticles: (count, { brand }) => `Les ${count} articles sur ${brand}`,
     authorBoxTitle: 'Bonjour, je suis Cecília',
     authorBoxBody: 'Je partage ce que je teste chez moi et les codes des boutiques avec lesquelles je travaille.',
@@ -364,6 +375,8 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     allRules: 'Alle Bedingungen ansehen',
     storeCodesTitle: 'Codes in diesem Artikel',
     storeRulesOf: ({ brand }) => `Bedingungen bei ${brand}`,
+    storeGoShort: 'Zum Shop',
+    storeRulesShort: 'Bedingungen',
     allStoreArticles: (count, { brand }) => `Alle ${count} Artikel zu ${brand}`,
     authorBoxTitle: 'Hallo, ich bin Cecília',
     authorBoxBody: 'Ich teile, was ich zu Hause ausprobiere, und die Codes der Shops, mit denen ich zusammenarbeite.',
@@ -423,6 +436,8 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     allRules: 'Vedi tutte le regole',
     storeCodesTitle: 'Codici di questo articolo',
     storeRulesOf: ({ brand }) => `Regole su ${brand}`,
+    storeGoShort: 'Vai al negozio',
+    storeRulesShort: 'Regole',
     allStoreArticles: (count, { brand }) => `Tutti i ${count} articoli su ${brand}`,
     authorBoxTitle: 'Ciao, sono Cecília',
     authorBoxBody: 'Condivido quello che provo a casa e i codici dei negozi con cui collaboro.',
@@ -483,6 +498,8 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     allRules: '모든 조건 보기',
     storeCodesTitle: '이 글의 코드',
     storeRulesOf: ({ brand }) => `${brand} 조건`,
+    storeGoShort: '스토어로',
+    storeRulesShort: '조건',
     allStoreArticles: (count, { brand }) => `${brand} 관련 글 ${count}편 모두 보기`,
     authorBoxTitle: '안녕하세요, Cecília예요',
     authorBoxBody: '집에서 직접 써 본 것과 함께하는 스토어의 코드를 소개해요.',
@@ -542,6 +559,8 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     allRules: '条件をすべて見る',
     storeCodesTitle: 'この記事のコード',
     storeRulesOf: ({ brand }) => `${brand} の条件`,
+    storeGoShort: 'ストアへ',
+    storeRulesShort: '条件',
     allStoreArticles: (count, { brand }) => `${brand} の記事 ${count} 本をすべて見る`,
     authorBoxTitle: 'こんにちは、Cecíliaです',
     authorBoxBody: '家で試したものと、提携ストアのコードを紹介しています。',
@@ -601,6 +620,8 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     allRules: '查看全部規則',
     storeCodesTitle: '本文代碼',
     storeRulesOf: ({ brand }) => `${brand} 規則`,
+    storeGoShort: '前往商店',
+    storeRulesShort: '規則',
     allStoreArticles: (count, { brand }) => `${brand} 的全部 ${count} 篇文章`,
     authorBoxTitle: '你好，我是 Cecília',
     authorBoxBody: '我分享在家試過的東西，以及合作商店的代碼。',
@@ -660,6 +681,8 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     allRules: '查看全部规则',
     storeCodesTitle: '本文代码',
     storeRulesOf: ({ brand }) => `${brand} 规则`,
+    storeGoShort: '前往商店',
+    storeRulesShort: '规则',
     allStoreArticles: (count, { brand }) => `${brand} 的全部 ${count} 篇文章`,
     authorBoxTitle: '你好，我是 Cecília',
     authorBoxBody: '我分享在家试过的东西，以及合作商店的代码。',
