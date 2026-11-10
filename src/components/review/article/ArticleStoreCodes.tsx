@@ -39,12 +39,14 @@ export type ArticleStoreCodesProps = {
   reviewSlug: string;
 };
 
-// O topo do celular: um cartão em pé por loja, numa fila que rola para o lado, com a ponta do próximo à vista. O
-// código fica embaixo (mt-auto), alinhado entre os cartões, e o código longo cabe numa linha a partir de 360 px.
+// O topo do celular: um cartão em pé por loja, numa fila que rola para o lado, com boa parte do próximo à vista. O
+// código fica embaixo (mt-auto), alinhado entre os cartões; o código longo quebra em duas linhas, com a mesma altura em todos.
 const SEPARATOR = 'border-t-2 border-dashed border-marinho/25';
 const SEPARATOR_DESKTOP = 'md:border-t-2 md:border-dashed md:border-marinho/25';
-const CAROUSEL_ROW = 'hide-scrollbar -mx-4 flex snap-x snap-mandatory scroll-px-4 gap-3 overflow-x-auto px-4 pb-1 md:mx-0 md:grid md:grid-cols-2 md:gap-x-6 md:overflow-visible md:px-0 md:pb-0';
-const CAROUSEL_CARD = 'flex w-[85%] max-w-80 shrink-0 snap-start flex-col rounded-2xl border-2 border-marinho bg-creme px-3 pt-2 pb-3 md:block md:w-auto md:max-w-none md:rounded-none md:border-0 md:bg-transparent md:px-0 md:pt-1.5 md:pb-2.5';
+// O relative segura os textos sr-only (position: absolute) dos cartões fora da tela: sem ele, eles escapam da rolagem da
+// fila, a página fica mais larga que o celular e, ao abrir a gaveta, a tela corre para a direita.
+const CAROUSEL_ROW = 'hide-scrollbar relative -mx-4 flex snap-x snap-mandatory scroll-px-4 gap-3 overflow-x-auto px-4 pb-1 md:mx-0 md:grid md:grid-cols-2 md:gap-x-6 md:overflow-visible md:px-0 md:pb-0';
+const CAROUSEL_CARD = 'flex w-[75%] max-w-80 shrink-0 snap-start flex-col rounded-2xl border-2 border-marinho bg-creme px-3 pt-2 pb-3 md:block md:w-auto md:max-w-none md:rounded-none md:border-0 md:bg-transparent md:px-0 md:pt-1.5 md:pb-2.5';
 
 // O artigo de várias lojas: uma linha por loja, todas com o mesmo peso e na ordem do artigo (nenhuma é a principal),
 // separadas por um traço em vez de um cartão cada. Na linha, o nome e o desconto à esquerda, "Ir à loja" e "Regras" à

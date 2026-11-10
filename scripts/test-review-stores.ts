@@ -343,6 +343,9 @@ for (const block of blocks) {
 assert.ok(top.includes('>Ir à loja') && top.includes('>Regras</span>'), 'os textos curtos na tela');
 assert.ok(!/\bCopiar</.test(top), 'sem o botão "Copiar" ao lado do código');
 assert.ok(!/class="[^"]*\brecorte\b/.test(top), 'sem um cartão (.recorte) por loja');
+// O carrossel do celular rola por dentro e segura os sr-only (position: absolute) dos cartões fora da tela: sem o
+// relative, eles escapam da rolagem e a página fica mais larga que o celular.
+assert.match(top, /<ul class="[^"]*\brelative\b[^"]*\boverflow-x-auto\b/, 'o carrossel com relative e overflow-x-auto');
 assert.doesNotMatch(render('sidebar'), /id="cupom-artigo"/, 'só o topo leva o id do dock');
 assert.doesNotMatch(render('sidebar'), /Regras d[ao] /, 'a lateral fica sem o link das regras');
 const drawer = render('drawer');
