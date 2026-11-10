@@ -12,9 +12,16 @@ import { getCouponCopyLabels, type CouponCopyLocale } from '../couponCopyLocale'
 import { TrackedCouponPageLink } from '../TrackedCouponPageLink';
 import { ArticleLimitedCodeLines } from './ArticleLimitedCodeLines';
 
-type Variant = 'top' | 'end' | 'sidebar';
+type Variant = 'top' | 'end' | 'sidebar' | 'drawer';
 
-const PLACEMENT = { top: 'review_top', end: 'review_end', sidebar: 'review_sidebar' } as const;
+const PLACEMENT = { top: 'review_top', end: 'review_end', sidebar: 'review_sidebar', drawer: 'review_mobile_drawer' } as const;
+
+const FRAME: Record<Variant, string> = {
+  top: 'rounded-2xl border-2 border-marinho bg-creme p-3.5 text-marinho print:hidden md:p-4',
+  sidebar: 'rounded-2xl border-2 border-marinho bg-creme p-3.5 text-marinho print:hidden md:p-4',
+  end: 'text-marinho print:hidden',
+  drawer: 'mx-4 mt-3.5 scroll-mt-3 text-marinho',
+};
 
 const ROW_LINK = `inline-flex min-h-11 items-center gap-1.5 text-sm font-extrabold underline underline-offset-[3px] hover:text-marinho-suave ${FOCUS_RING}`;
 
@@ -28,12 +35,13 @@ export type ArticleStoreCodesProps = {
 
 // O artigo de várias lojas: uma linha por loja, todas com o mesmo peso e na ordem do artigo (nenhuma é a principal).
 // Cada linha é um .recorte (globals.css): fica verde ao copiar o código dela. No topo, a lista leva o id do recorte
-// (#cupom-artigo), que o dock do celular observa; no fim, o título e o #loja vêm do ArticleEnd.
+// (#cupom-artigo), que o dock do celular observa; no fim, o título e o #loja vêm do ArticleEnd. Na gaveta do celular, fica
+// dentro do <dialog>: com ele aberto, o resto da página é inerte, e o fallback de cópia vai para o dialog do botão.
 export function ArticleStoreCodes({ variant, blocks, locale, reviewSlug, storeLabel }: ArticleStoreCodesProps) {
   const copy = getArticleCopy(locale);
   const labels = getCouponCopyLabels(locale);
   const placement = PLACEMENT[variant];
-  const wide = variant !== 'sidebar';
+  const wide = variant === 'top' || variant === 'end';
 
   return (
     <section
@@ -41,7 +49,7 @@ export function ArticleStoreCodes({ variant, blocks, locale, reviewSlug, storeLa
       data-store-codes={variant}
       // No fim, o h2 do ArticleEnd já dá o nome.
       aria-label={variant === 'end' ? undefined : copy.storeCodesTitle}
-      className={variant === 'end' ? 'text-marinho print:hidden' : 'rounded-2xl border-2 border-marinho bg-creme p-3.5 text-marinho print:hidden md:p-4'}
+      className={FRAME[variant]}
     >
       {variant !== 'end' && (
         <p className="mb-3 text-[13px] font-bold leading-[18px] tracking-[0.04em] text-marinho-suave uppercase">
@@ -99,7 +107,8 @@ export function ArticleStoreCodes({ variant, blocks, locale, reviewSlug, storeLa
                     <ExternalLink aria-hidden="true" className="size-4 shrink-0" />
                   </CouponStoreLink>
                 )}
-                {couponPageHref && (
+                {/* Na lateral, a linha fica curta: com 4 lojas ela já passa da tela, e as regras estão no topo e no fim. */}
+                {couponPageHref && variant !== 'sidebar' && (
                   <TrackedCouponPageLink
                     href={couponPageHref}
                     contentSlug={reviewSlug}

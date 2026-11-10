@@ -476,7 +476,9 @@ export function ReviewNotebookTemplate({
               : undefined
         }
         related={relatedArticleLinks}
-        hasTopCutout={Boolean(storeBlock)}
+        // As linhas do topo do artigo de várias lojas levam o #cupom-artigo, como o recorte.
+        hasTopCutout={Boolean(storeBlock || multiStoreBlocks)}
+        {...(multiStoreBlocks && { storeBlocks: multiStoreBlocks, storeLabel })}
       />
     </>
   );
