@@ -26,7 +26,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | Código | O que | Parceiro | O que falta | Com quem |
 |---|---|---|---|---|
 | M6 | Dr. Peanut: Mercado Livre ou site (briefing pronto em 30/10) | Dr. Peanut | O link do Mercado Livre | Bruno |
-| H7 | Loja virtual na Hostinger ou Nuvemshop/Shopify (Commerce) | Hostinger | Conferir no hPanel o preço em R$, o Pix, os canais e o nome do assistente | Bruno |
+| H7 | Loja virtual na Hostinger ou Nuvemshop/Shopify (Commerce) | Hostinger | Conferir no hPanel o preço em R$, os canais e o nome do assistente (o Pix por QR Code está confirmado na tela de pagamento, 10/11) | Bruno |
 | — | Seção "plano novo e migração" no artigo da renovação (BG1, no ar) | Hostinger | Teste no carrinho, sem comprar: um 2º plano de hospedagem (e um 2º VPS) na mesma conta pega o preço promocional e o SONAR20? | Bruno |
 | — | Colchão no "I Wanna Sleep é boa?" | I Wanna Sleep | Confirmar se o colchão só se compra nas lojas de BH. Se não, corrigir o artigo | Bruno |
 | — | Página fixa de seleção da SHEIN | SHEIN | Depois da 11.11: se o artigo tiver boa aceitação, criar no 12.12 | Bruno |

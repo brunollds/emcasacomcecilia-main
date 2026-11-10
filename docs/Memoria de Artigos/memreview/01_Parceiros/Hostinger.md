@@ -77,3 +77,9 @@ chamar de cupom; 20% só no primeiro período e sem somar com outros cupons.
 
 Os logos estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo,
 conforme `docs/GUIA-MIDIA-EDITORIAL.md`.
+
+## Pagamento e uso (Bruno, 10/11/2026)
+
+- **Tela de pagamento:** cartão, Google Pay, PayPal, Apple Pay, Pix por QR Code, boleto, NuPay e Coingate.
+- **Uso real:** usamos a hospedagem, o e-mail e o VPS da Hostinger, e este site roda lá. Não precisa perguntar de novo nos briefings. Sem números de velocidade ou tempo no ar, que não medimos.
+- **Nota fiscal (ajuda da Hostinger, 10/11):** "tax-compliant invoices" só na UE e Irlanda do Norte, na Índia e na Indonésia.
