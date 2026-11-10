@@ -290,3 +290,10 @@ Pendente: Os artigos da camiseta e do cupom ainda trazem o kit a R$ 258: fora de
 
 ## Publicação (04/11/2026)
 - No ar em 04/11/2026: PR #553, release `ffc044c7` (build 01a1a4a6), id 791, só PT. Smoke com título, capa e as imagens do corpo no CDN (69 de 69 nos seis); IndexNow; captura 41769080624 verde.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/clea-store/clea-store-e-boa-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo com o colete frente única de linho bege da Cléa Store.
+- **Origem:** foto oficial da Cléa já usada no corpo (`clea-store/alfaiataria-verao-clea-store-colete-4221.webp`). O Codex tinha usado o body de gola alta, que já é a capa do guia do body; o Bruno escolheu o colete. Texto: "Cléa Store é boa?" e "Peças e escolhas".
+- **Lote 2 do piloto de capas:** composição do Codex aprovada pelo Bruno em 10/11/2026 (`docs/auditoria-capas/piloto-20261110/lote-seguinte/` no checkout principal): painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior fica no CDN, sem uso.

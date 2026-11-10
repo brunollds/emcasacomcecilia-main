@@ -100,3 +100,10 @@ Dor 20/25, demanda 17/20, valor além do oficial 16/20, visita 11/15, cluster 9/
 ## 9. Card de estilo
 
 Incluído em 08/11/2026, depois de no ar: o Job 1 e o Anexo-Moda já pediam o card, e o briefing não o propôs. Rascunho e verificação por agentes, revisão da sessão. Os links e as fotos do artigo não mudaram.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/insider/camisa-social-insider-feminina-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo com a camisa FutureForm feminina preta aberta sobre blusa clara.
+- **Origem:** foto oficial da Insider já usada no corpo (`insider/camisa-social-insider-feminina-preta.webp`) e logo do repositório. Texto: "Camisa feminina" e "Corte e caimento".
+- **Lote 2 do piloto de capas:** composição do Codex aprovada pelo Bruno em 10/11/2026 (`docs/auditoria-capas/piloto-20261110/lote-seguinte/` no checkout principal): painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior fica no CDN, sem uso.

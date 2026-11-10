@@ -143,3 +143,10 @@ Dor 20/25, demanda 13/20, valor além do oficial 18/20, visita 11/15, cluster 8/
 - **Imagens:** capa, quadro dos dois ciclos e recorte do carrinho, aprovados pelo Bruno; no CDN.
 - **Só PT:** nenhum gate exige a família de 10 idiomas sem `translationKey`.
 - **No ar em 10/11/2026** (release 9488c72d, PR #806). Preços relidos antes do deploy, sem mudança.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/hostinger/hostinger-ou-locaweb-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Notebook aberto com a tela roxa sobre uma mesa de escritório, em cenário ilustrativo.
+- **Origem:** cenário gerado por IA (OpenAI), sem interface da Hostinger nem da Locaweb; a tela roxa vazia é intencional. Logo da Hostinger do repositório. Não descrever como captura de tela do serviço. Texto: "Hostinger ou Locaweb?" e "Início e renovação".
+- **Lote 2 do piloto de capas:** composição do Codex aprovada pelo Bruno em 10/11/2026 (`docs/auditoria-capas/piloto-20261110/lote-seguinte/` no checkout principal): painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior fica no CDN, sem uso.
