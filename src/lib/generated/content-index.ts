@@ -207844,7 +207844,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Regra prática, sem teste nosso: korano, corino, PU e \"material sintético\" são nomes de revestimento sintético, e o anúncio não diz qual dura mais. Compare a garantia de cada um e o que a loja promete sobre limpeza. Com criança ou bicho em casa, eu não escolheria linho: nas cadeiras de linho aqui de casa, a mancha fica mesmo com produto profissional."
+          "Regra prática, sem teste nosso: korano, corino, PU e \"material sintético\" são nomes de revestimento sintético, e o anúncio não diz qual dura mais. Compare a garantia de cada um e o que a loja promete sobre limpeza. Com criança ou bicho em casa, eu não escolheria linho: nas cadeiras de linho aqui de casa, a mancha fica mesmo com produto profissional. Se a dúvida é entre corino e couro, o guia [couro ou corino](/reviews/poltrona-do-papai-couro-ou-corino) mostra a diferença de preço em cada base e como conferir o material no anúncio."
         ]
       },
       {
@@ -208935,6 +208935,284 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "black-friday-bagaggio"
+      }
+    ]
+  },
+  {
+    "id": 891,
+    "slug": "poltrona-do-papai-couro-ou-corino",
+    "title": "Poltrona do papai de couro ou corino: qual escolher e como saber o que você está levando",
+    "seoTitle": "Poltrona do papai de couro ou corino: qual escolher",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quanto custa subir do corino para o couro na mesma poltrona, o que descasca, como limpar cada um e como saber, antes de pagar, se o anúncio é mesmo de couro.",
+    "metaDescription": "CECILIA12 dá 12% OFF na DAMIE. Couro ou corino na poltrona do papai: quanto muda, o que descasca e como saber se é couro de verdade.",
+    "publishedAt": "9 de novembro de 2026",
+    "publishedAtISO": "2026-11-09",
+    "updatedAt": "2026-11-09",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/damie/poltrona-do-papai-couro-ou-corino-capa.webp",
+    "imageAlt": "Duas fotos de Cecília Mauad: com um copo de água na poltrona DAMIE 2.0 em corino caramelo e sentada na poltrona Levita em couro, com a faixa \"Poltrona do papai: couro ou corino\"",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Leve o corino da DAMIE 2.0, com 12% OFF pelo CECILIA12, se quer essa base com o menor preço entre os dois revestimentos.",
+        "Leve o couro da DAMIE 2.0, também com o CECILIA12, se prefere couro de origem animal e aceita a diferença e os cuidados.",
+        "Leve depois de confirmar quais partes têm o material anunciado e como cuidar desse acabamento."
+      ],
+      "skipIf": [
+        "Passe se pagar pelo revestimento faz você abrir mão da base de que precisa.",
+        "Passe se o anúncio e a descrição não permitem entender o material vendido.",
+        "Passe se a poltrona vai raspar em outro móvel ou na janela e não há como reposicioná-la."
+      ]
+    },
+    "cta": {
+      "text": "Escolha a base e o revestimento no site da DAMIE e aplique o CECILIA12 no carrinho. Os 12% valem no corino, no couro e nos outros tecidos, em todas as formas de pagamento.",
+      "label": "Ver o cupom CECILIA12 e ir para a DAMIE",
+      "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltrona-do-papai-couro-ou-corino",
+      "sponsored": true
+    },
+    "coupon": "CECILIA12",
+    "affiliate": "damie",
+    "editorialNote": "Recebemos as poltronas DAMIE em parceria e podemos receber comissão pelo cupom e pelos links. As outras marcas não foram testadas.",
+    "relatedArticles": [
+      {
+        "slug": "poltrona-do-papai-eletrica-quanto-custa"
+      },
+      {
+        "slug": "poltrona-damie-e-boa"
+      },
+      {
+        "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Corino custa menos e foi prático de limpar na nossa poltrona; couro é de origem animal e custa mais. Escolha primeiro a base de que precisa e só depois pague pelo revestimento, sem trocar movimento por material. Antes de comprar, confirme o material no anúncio; na DAMIE, o CECILIA12 dá 12% OFF."
+        ]
+      },
+      {
+        "heading": "Corino ou couro: o que muda na prática",
+        "paragraphs": [
+          "Na DAMIE, “corino importado” é o revestimento sintético; “couro bovino” é o de origem animal. A página da 2.0 não informa a composição do corino nem se o couro cobre todas as partes da poltrona. São duas perguntas úteis antes de escolher pelo nome.",
+          "Para a nossa rotina com crianças, o corino da 2.0 foi prático para limpar. Na Levita em couro, café e leite também saíram com pano seco. Essa experiência não sustenta dizer que toda casa com criança deve escolher corino: preço, toque e cuidado com o acabamento também entram na decisão.",
+          "Se você quer evitar couro de origem animal, procure um revestimento sintético ou confira a composição das opções de tecido. Se o calor é decisivo, compare também com suede, bouclé e linho no [guia de tecidos da DAMIE](https://damie.emcasacomcecilia.com/guias/qual-tecido-escolher-poltrona-damie)."
+        ]
+      },
+      {
+        "heading": "Quanto custa subir do corino para o couro",
+        "paragraphs": [
+          "A comparação abaixo mantém a DAMIE 2.0 e a mesma base, mudando o revestimento. Todos os valores já incluem os 12% do CECILIA12."
+        ],
+        "comparisonTable": {
+          "caption": "DAMIE 2.0 no cartão, com CECILIA12 e sem frete, em 9 de novembro. Preços sujeitos a alteração.",
+          "headers": [
+            "Base",
+            "Corino importado",
+            "Couro bovino",
+            "A mais pelo couro"
+          ],
+          "rows": [
+            [
+              "Manual, fixa",
+              "R$ 2.683,12",
+              "R$ 3.907,20",
+              "R$ 1.224,08"
+            ],
+            [
+              "Elétrica, fixa",
+              "R$ 3.387,12",
+              "R$ 4.575,12",
+              "R$ 1.188"
+            ],
+            [
+              "Elétrica, giro e balanço",
+              "R$ 3.871,12",
+              "R$ 5.015,12",
+              "R$ 1.144"
+            ],
+            [
+              "Elétrica com elevação",
+              "R$ 4.443,12",
+              "R$ 5.411,12",
+              "R$ 968"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Repare na tabela: a manual em couro custa quase o mesmo que a elétrica com giro e balanço em corino, e o funcionamento é outro. Se você precisa reclinar no botão ou quer o balanço, eu escolheria primeiro essa base e depois o revestimento.",
+          "Conta nossa, com os preços da tabela: há R$ 36,08 entre essas duas configurações. Esse exemplo mostra por que vale comparar o que a poltrona faz, além de quanto custa o material. O [guia de preços das poltronas elétricas](/reviews/poltrona-do-papai-eletrica-quanto-custa) detalha as bases.",
+          "O CECILIA12 vale no site da DAMIE, em todas as formas de pagamento, e soma com promoções, os 10% do Pix e o desconto por quantidade. Não acumula com outro cupom nem com o giftback de 15%, que é crédito para uma compra futura. Não vale no Mercado Livre nem nos anúncios da DAMIE na Magalu. Veja as condições do [cupom DAMIE](/cupons/damie)."
+        ]
+      },
+      {
+        "heading": "Corino descasca? O que aconteceu na nossa 2.0",
+        "paragraphs": [
+          "Pode descascar. Regra prática, sem teste nosso: o corino é uma película sobre um tecido, e calor, sol, atrito e tempo pesam contra ela. Por isso, mantenha a poltrona longe do sol direto e de fonte de calor.",
+          "Recebi em parceria a DAMIE 2.0 em corino caramelo e a Levita em couro caramelo. São modelos diferentes, usados em situações diferentes; não fizemos uma comparação controlada de resistência entre os revestimentos.",
+          "Na 2.0, o corino esfolou na parte de trás em menos de seis meses, no ponto em que o balanço encostava na janela. Esse desgaste precisa entrar na escolha. Deixe espaço para a poltrona se movimentar sem raspar na parede, na janela ou em outro móvel.",
+          "Ao mesmo tempo, a limpeza do corino foi prática na nossa rotina: os líquidos ficaram na superfície e saíram com pano. O relato completo está em [a DAMIE 2.0 é boa?](/reviews/poltrona-damie-e-boa). Na Levita em couro, café e leite saíram com pano seco; para a gordura do corpo, usamos produtos próprios para couro. Veja a [experiência com a Levita](/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto).",
+          "Esses episódios não permitem prever quantos anos cada revestimento vai durar. A DAMIE anuncia um ano de garantia; pergunte à loja qual é a cobertura para o revestimento, inclusive em caso de descascamento ou dano por atrito."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada.webp",
+            "alt": "Cecília Mauad sentada na poltrona DAMIE 2.0 em corino caramelo, com porta-copos no braço",
+            "caption": "A nossa 2.0, em corino caramelo.",
+            "objectFit": "contain",
+            "aspectRatio": 0.5625
+          },
+          {
+            "src": "/images/reviews/poltrona-levita-cecilia-sala.webp",
+            "alt": "Cecília Mauad reclinada na poltrona DAMIE Levita em couro caramelo, na sala de casa",
+            "caption": "A nossa Levita, em couro caramelo.",
+            "objectFit": "contain",
+            "aspectRatio": 0.5625
+          }
+        ]
+      },
+      {
+        "heading": "Como saber se a poltrona é de couro legítimo",
+        "paragraphs": [
+          "Leia a descrição inteira, porque o título do anúncio não basta. Na Magalu, a busca por poltrona do papai em couro legítimo trouxe, nos 30 primeiros anúncios, nenhum com a palavra couro no título: vieram sintético, suede, veludo e bouclé. E um anúncio de elétrica de R$ 5.605 faz o contrário: tem Couro no título e, na descrição, \"estofado em material sintético\". Preço alto não confirma o material.",
+          "Se o título, a descrição e as especificações não dizem a mesma coisa, peça esclarecimento por escrito antes de fechar a compra."
+        ],
+        "bullets": [
+          "**Material declarado.** Pergunte se o revestimento é couro de origem animal ou material sintético. Nomes de venda como corino, korano ou “couro ecológico” não substituem a composição informada pela loja.",
+          "**Partes revestidas.** Confirme o material do assento, dos braços, das costas, das laterais e do apoio de pés. A descrição da DAMIE e as das alternativas citadas não deixam clara a cobertura de todas as partes.",
+          "**Orientação para o modelo.** Peça os cuidados de limpeza e a cobertura da garantia para aquele revestimento. Guarde o anúncio e a resposta até receber e conferir a poltrona."
+        ]
+      },
+      {
+        "heading": "Como limpar poltrona de corino e de couro",
+        "paragraphs": [
+          "Limpe com pano e não escolha um hidratante só porque a embalagem fala em couro. As marcas não dizem todas a mesma coisa, e até dentro da DAMIE a orientação muda de uma página para outra."
+        ],
+        "comparisonTable": {
+          "caption": "O que cada anúncio diz sobre a limpeza. Confirme a instrução da peça que você comprar.",
+          "headers": [
+            "Modelo e origem da orientação",
+            "O que está informado"
+          ],
+          "rows": [
+            [
+              "DAMIE em corino, anúncio na Magalu",
+              "Pano umedecido com água e, se necessário, sabão neutro. Não usar hidratantes, álcool ou lustra-móveis."
+            ],
+            [
+              "DAMIE em couro, anúncio na Magalu",
+              "A mesma limpeza, sem hidratantes, e proteção contra sol ou luz forte."
+            ],
+            [
+              "Alpha Premium em couro, Moveleiro",
+              "Pano seco ou levemente úmido, sem hidratantes; evitar sol direto constante."
+            ],
+            [
+              "Armênia em couro, Gran Belo",
+              "Somente pano umedecido."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O guia de cuidados da DAMIE fala em hidratante específico para couro, enquanto os anúncios acima dizem para não usar. Antes de hidratar a sua poltrona, peça à loja a orientação para o modelo e o acabamento exatos. Até esclarecer, não aplique um produto por conta própria.",
+          "O [guia de limpeza da poltrona DAMIE](https://damie.emcasacomcecilia.com/guias/poltrona-damie-como-limpar-cada-tipo-de-tecido) reúne a rotina e os relatos de uso. A facilidade de recolher um derramamento em casa não significa que qualquer bebida, produto ou tempo de contato terá o mesmo resultado."
+        ]
+      },
+      {
+        "heading": "Onde encontrar cada opção",
+        "paragraphs": [
+          "A tabela traz uma alternativa de entrada, a mesma linha DAMIE nos dois revestimentos e outros anúncios de couro. Os nomes dos materiais são os usados pelas lojas; não são uma verificação da composição por nós."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/damie/poltrona-do-papai-eletrica-matrix-porsche.webp",
+            "alt": "Poltrona do papai elétrica Matrix Porsche em korano preto, reclinada, com o apoio de pés aberto",
+            "caption": "Matrix Porsche, em korano. Foto: anúncio na Magalu.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3333
+          },
+          {
+            "src": "/images/reviews/damie/poltrona-do-papai-eletrica-condor-ferguile.webp",
+            "alt": "Poltrona do papai elétrica Condor, da Ferguile, em couro legítimo caramelo, em uma sala",
+            "caption": "Condor, da Ferguile, em couro. Foto: anúncio na Magalu.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3333
+          }
+        ],
+        "comparisonTable": {
+          "caption": "Preços no cartão, sem frete, na mesma data. Na DAMIE, já com o CECILIA12.",
+          "headers": [
+            "Para quem",
+            "Modelo",
+            "O que o anúncio diz do material",
+            "Preço"
+          ],
+          "rows": [
+            [
+              "Quer uma elétrica de entrada em sintético",
+              "[Matrix Porsche na Magalu](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-do-papai-reclinavel-eletrica-moderna-matrix-porsche/p/235605600/mo/mpol/)",
+              "Korano",
+              "R$ 2.374,90"
+            ],
+            [
+              "Quer decidir entre os dois na mesma poltrona",
+              "[DAMIE 2.0 elétrica, base fixa](https://www.damie.com.br/products/poltrona-reclinavel-2-0)",
+              "Corino importado ou couro bovino",
+              "R$ 3.387,12 no corino, R$ 4.575,12 no couro"
+            ],
+            [
+              "Quer comparar outro couro",
+              "[Condor, Ferguile, na Magalu](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-do-papai-eletrica-reclinavel-em-couro-legitimo-caramelo-condor-ferguile/p/ja874hk45h/mo/polr/)",
+              "Couro legítimo",
+              "R$ 5.647,06"
+            ],
+            [
+              "Quer a descrição mais explícita",
+              "Alpha Premium, Moveleiro",
+              "100% couro bovino top grain",
+              "R$ 7.290"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As outras marcas não foram testadas por nós. Além do material e do preço, compare o que a garantia de cada modelo cobre: a DAMIE informa um ano, e a Matrix e a Condor, três meses."
+        ]
+      },
+      {
+        "heading": "Qual eu escolheria: corino ou couro",
+        "paragraphs": [
+          "Para a nossa rotina, com criança pequena, eu continuaria no corino da 2.0, pela limpeza que tivemos e pelo preço, e longe da janela. O desgaste atrás da poltrona também faz parte desse relato; ele não deve desaparecer da decisão só porque a limpeza foi fácil."
+        ],
+        "bullets": [
+          "**Para gastar menos na mesma base:** a DAMIE 2.0 elétrica fixa em corino fica por R$ 3.387,12 com o CECILIA12 no cartão.",
+          "**Se você prefere couro de origem animal:** a mesma DAMIE 2.0 fixa fica por R$ 4.575,12 com o CECILIA12. Eu pagaria a diferença pelo material que quero, depois de confirmar as partes revestidas e os cuidados exigidos.",
+          "**Se o orçamento obriga a escolher entre base e revestimento:** eu priorizaria o movimento de que preciso. O couro na manual e o corino com giro e balanço têm preços próximos, mas atendem a usos diferentes."
+        ],
+        "emphasis": "Escolha primeiro como precisa usar a poltrona. Depois decida quanto vale pagar pelo revestimento, com a composição e os cuidados de manutenção claros."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Corino ou couro: qual dura mais? Não temos uma comparação controlada que responda isso para essas poltronas. O capítulo de uso relata a limpeza e o desgaste observados em casa, sem prever uma vida útil em anos.",
+          "Corino descasca com o tempo? Pode descascar, principalmente com calor, sol e atrito. Na nossa 2.0, ele esfolou no ponto de contato com a janela. Confirme a composição e os cuidados do modelo escolhido, além da cobertura de garantia para esse tipo de dano.",
+          "Couro ecológico é couro? Couro vem de pele animal, e o nome ecológico não esclarece a composição. Verifique se a descrição informa couro de origem animal ou material sintético e quais partes da poltrona recebem o revestimento.",
+          "Precisa hidratar poltrona de couro? Siga a orientação do modelo e do acabamento comprados. Se o manual e o anúncio divergirem, esclareça com a loja antes de aplicar o produto.",
+          "Tem cupom para poltrona do papai de couro? O CECILIA12 dá 12% no site da DAMIE, inclusive no couro. Não vale nos anúncios da marca no Mercado Livre nem na Magalu."
+        ]
       }
     ]
   }
