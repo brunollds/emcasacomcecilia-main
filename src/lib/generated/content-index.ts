@@ -28806,12 +28806,12 @@ export const reviewsData: unknown[] = [
     "type": "Móveis & Conforto",
     "category": "produtos-experiencias",
     "reviewKind": "produto",
-    "productName": "Poltrona Reclinável Damie 2.0",
+    "productName": "Poltrona Reclinável 2.0",
     "brand": "Damie",
     "rating": 5,
     "ratingCount": 14,
-    "description": "Análise completa da nova Poltrona Reclinável Damie 2.0 (versão 2026). Testamos a versão elétrica com massagem, giro, balanço, mesa de apoio e cupom CECILIA12.",
-    "metaDescription": "Poltrona Damie 2.0 com o cupom CECILIA12 e 12% de desconto: a minha análise dos opcionais de massagem, mesa e motor de cabeça.",
+    "description": "Análise completa da nova Poltrona Reclinável 2.0 (versão 2026). Testamos a versão elétrica com massagem, giro, balanço, mesa de apoio e cupom CECILIA12.",
+    "metaDescription": "Poltrona Reclinável 2.0 com o cupom CECILIA12 e 12% de desconto: a minha análise dos opcionais de massagem, mesa e motor de cabeça.",
     "publishedAt": "21 Jul 2026",
     "publishedAtISO": "2026-07-21",
     "authors": [
@@ -28830,7 +28830,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "image": "/images/reviews/damie/poltrona-damie-e-boa-capa-discover.webp",
-    "imageAlt": "Cecília sentada na Poltrona Reclinável Damie 2.0 caramelo, ao lado de duas fotos oficiais da 2.0 bege, reclinada e com base giratória",
+    "imageAlt": "Cecília sentada na Poltrona Reclinável 2.0 caramelo, ao lado de duas fotos oficiais da 2.0 bege, reclinada e com base giratória",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtube.com/shorts/B8L2YJC8gaE?si=vlYdQlHOWvhfYVAv",
@@ -28847,11 +28847,11 @@ export const reviewsData: unknown[] = [
       "Opcionais de tecnologia (motores extras, massagem e indução) encarecem o produto",
       "Exige uma tomada próxima na sala para alimentar os motores elétricos"
     ],
-    "pullQuote": "Parece um abraço ou um colo de mãe. A poltrona Damie 2.0 une o relaxamento da reclinação elétrica silenciosa com a praticidade de uma mesa giratória e revestimento praticamente impermeável.",
+    "pullQuote": "Parece um abraço ou um colo de mãe. A Poltrona Reclinável 2.0 une o relaxamento da reclinação elétrica silenciosa com a praticidade de uma mesa giratória e revestimento praticamente impermeável.",
     "verdict": {
       "stars": 5,
       "recommendation": "recomendo",
-      "summary": "Para nós, a Poltrona Damie 2.0 vale a pena para quem prioriza conforto, personalização e recursos elétricos e aceita investir mais por isso."
+      "summary": "Para nós, a Poltrona Reclinável 2.0 vale a pena para quem prioriza conforto, personalização e recursos elétricos e aceita investir mais por isso."
     },
     "productSpec": [
       {
@@ -28889,8 +28889,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Monte a sua Poltrona Damie 2.0 no site da Damie e economize 12% nos produtos com o cupom CECILIA12.",
-      "label": "Ver a Poltrona Damie 2.0 no nosso guia da Damie",
+      "text": "Monte a sua Poltrona Reclinável 2.0 no site da Damie e economize 12% nos produtos com o cupom CECILIA12.",
+      "label": "Ver a Poltrona Reclinável 2.0 no nosso guia da Damie",
       "url": "https://damie.emcasacomcecilia.com",
       "sponsored": true
     },
@@ -28912,13 +28912,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Poltrona Damie 2.0 vale a pena para quem prioriza conforto e personalização sob medida e aceita investir mais por isso. Nas primeiras semanas, os motores foram silenciosos e a massagem foi a favorita da Cecília. O código [CECILIA12](/cupons/damie) dá 12% de desconto nos produtos; os opcionais encarecem a poltrona, como mostra o veredito abaixo."
+          "Sim, a Poltrona Reclinável 2.0 vale a pena para quem prioriza conforto e personalização sob medida e aceita investir mais por isso. Nas primeiras semanas, os motores foram silenciosos e a massagem foi a favorita da Cecília. O código [CECILIA12](/cupons/damie) dá 12% de desconto nos produtos; os opcionais encarecem a poltrona, como mostra o veredito abaixo."
         ]
       },
       {
-        "heading": "O que é a Poltrona Reclinável Damie 2.0",
+        "heading": "O que é a Poltrona Reclinável 2.0",
         "paragraphs": [
-          "A Damie 2.0 é uma poltrona reclinável, daquelas que muita gente chama de poltrona do papai ou cadeira do papai, com opções de base manual ou elétrica, revestimentos e acessórios. Na encomenda, você escolhe a configuração conforme o uso e o orçamento.",
+          "A Reclinável 2.0 é uma poltrona reclinável, daquelas que muita gente chama de poltrona do papai ou cadeira do papai, com opções de base manual ou elétrica, revestimentos e acessórios. Na encomenda, você escolhe a configuração conforme o uso e o orçamento.",
           "Na nossa casa, usamos a elétrica com giro e balanço, em Courino Importado caramelo. Abaixo mostramos como foram as primeiras semanas e quais opcionais usamos. Com o [cupom CECILIA12](/cupons/damie), são 12% de desconto nos produtos; o frete fica de fora."
         ],
         "bullets": [
@@ -28929,14 +28929,14 @@ export const reviewsData: unknown[] = [
         "emphasis": "Ao sentar e reclinar, a sensação foi de um 'colo de mãe'. Nas primeiras semanas, os motores elétricos foram silenciosos e o ajuste foi preciso.",
         "emphasisAfterParagraph": 1,
         "image": "/images/reviews/damie/poltrona-damie-2-0-dimensoes.webp",
-        "imageAlt": "Medidas da Poltrona Damie 2.0 fechada e quase totalmente reclinada",
+        "imageAlt": "Medidas da Poltrona Reclinável 2.0 fechada e quase totalmente reclinada",
         "imageCaption": "Medidas informadas pela fabricante: 106,5 cm de altura, 89 cm de profundidade, 95 cm de largura e 174 cm quando quase totalmente reclinada.",
         "imageFit": "contain"
       },
       {
         "heading": "Nossa Experiência Real",
         "paragraphs": [
-          "Recebemos a Poltrona Damie 2.0 em parceria pouco antes de publicar este review e, desde então, ela vem sendo usada todos os dias por todos aqui de casa e também por nossas visitas. Nossa configuração é elétrica, com giro e balanço, revestida em Courino Importado caramelo.",
+          "Recebemos a Poltrona Reclinável 2.0 em parceria pouco antes de publicar este review e, desde então, ela vem sendo usada todos os dias por todos aqui de casa e também por nossas visitas. Nossa configuração é elétrica, com giro e balanço, revestida em Courino Importado caramelo.",
           "Nessas primeiras semanas, a poltrona superou nossas expectativas de conforto. O motor elétrico de reclinação opera com ruído quase imperceptível, o que é ótimo para assistir a filmes ou ler à noite. Para nós, a combinação de giro e balanço com o revestimento praticamente impermeável transformou a poltrona em um refúgio depois de um dia corrido.",
           "Usamos a configuração completa, com todos os opcionais do capítulo de acessórios abaixo. Todos foram úteis na rotina, mas a massagem foi a favorita da Cecília.",
           "Entre a emissão da nota fiscal e a chegada da poltrona passaram aproximadamente 15 dias corridos. Esse foi o nosso caso, não um prazo garantido; a entrega foi ágil para um móvel produzido de forma personalizada.",
@@ -28962,19 +28962,19 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/damie/poltrona-damie-2-0-almofada-regulavel.webp",
-            "alt": "Detalhe da almofada acolchoada regulável da Poltrona Damie 2.0",
+            "alt": "Detalhe da almofada acolchoada regulável da Poltrona Reclinável 2.0",
             "caption": "A almofada pode ser reposicionada para adaptar o apoio de cabeça e pescoço.",
             "objectFit": "contain"
           },
           {
             "src": "/images/reviews/damie/poltrona-damie-2-0-bolso-lateral.webp",
-            "alt": "Bolso lateral ampliado da Poltrona Damie 2.0",
+            "alt": "Bolso lateral ampliado da Poltrona Reclinável 2.0",
             "caption": "Os dois compartimentos laterais acomodam controles, livros e pequenos acessórios.",
             "objectFit": "contain"
           },
           {
             "src": "/images/reviews/damie/poltrona-damie-2-0-apoio-pes.webp",
-            "alt": "Apoio de pés arredondado da Poltrona Damie 2.0 em uso",
+            "alt": "Apoio de pés arredondado da Poltrona Reclinável 2.0 em uso",
             "caption": "O apoio de pés ganhou formato arredondado, mais altura e uma camada macia de espuma.",
             "objectFit": "contain"
           }
@@ -29022,20 +29022,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Montagem Simples e Conexões Internas",
         "paragraphs": [
-          "A montagem da Poltrona Damie 2.0 segue o padrão prático da marca. O produto chega em duas partes principais: o assento (base) e o encosto. Montada, a poltrona tem 95 cm de largura. Para montar, basta deslizar os trilhos metálicos do encosto nas guias do assento até ouvir o clique de travamento.",
+          "A montagem da Poltrona Reclinável 2.0 segue o padrão prático da marca. O produto chega em duas partes principais: o assento (base) e o encosto. Montada, a poltrona tem 95 cm de largura. Para montar, basta deslizar os trilhos metálicos do encosto nas guias do assento até ouvir o clique de travamento.",
           "Na parte traseira do assento, ficam organizados os fios e conectores rápidos dos motores. Com um sistema de encaixe simples do tipo macho-fêmea, você conecta o cabo de energia principal da fonte bivolt, o cabo de sinal do motor de ajuste de cabeça independente e a fiação do sistema de massagem. Nas fotos abaixo, mostramos a poltrona sem o encosto acoplado e o detalhe das conexões elétricas:"
         ],
         "bullets": [],
         "images": [
           {
             "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-1.webp",
-            "alt": "Parte de trás do assento da poltrona Damie 2.0 mostrando a fiação dos motores",
+            "alt": "Parte de trás do assento da Poltrona Reclinável 2.0 mostrando a fiação dos motores",
             "caption": "Conexões elétricas dos motores e do massageador por vibração.",
             "objectFit": "contain"
           },
           {
             "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-2.webp",
-            "alt": "Trilho metálico da base do assento da poltrona Damie 2.0 sem o encosto",
+            "alt": "Trilho metálico da base do assento da Poltrona Reclinável 2.0 sem o encosto",
             "caption": "Estrutura interna em madeira de eucalipto e compensado naval com os trilhos de encaixe.",
             "objectFit": "contain"
           }
@@ -29043,7 +29043,7 @@ export const reviewsData: unknown[] = [
         "video": {
           "mp4": "/videos/reviews/damie/poltrona-reclinavel-damie-2-0-loop.mp4",
           "poster": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-1.webp",
-          "alt": "Poltrona Damie 2.0 em movimento durante a demonstração das conexões e da montagem"
+          "alt": "Poltrona Reclinável 2.0 em movimento durante a demonstração das conexões e da montagem"
         }
       },
       {
@@ -29054,20 +29054,20 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [],
         "image": "/images/reviews/damie/poltrona-damie-2-0-estrutura.webp",
-        "imageAlt": "Vista frontal da estrutura e do desenho da Poltrona Damie 2.0",
+        "imageAlt": "Vista frontal da estrutura e do desenho da Poltrona Reclinável 2.0",
         "imageCaption": "Vista frontal do modelo 2.0, com apoio de pés arredondado, braços redesenhados e almofada regulável.",
         "imageFit": "contain"
       },
       {
-        "heading": "A Poltrona Damie 2.0 é boa? Nosso veredito",
+        "heading": "A Poltrona Reclinável 2.0 é boa? Nosso veredito",
         "paragraphs": [
-          "Para nós, sim: a Damie 2.0 entrega conforto e recursos elétricos sob medida na categoria de alto padrão. No nosso uso diário, a mecânica elétrica com giro e balanço foi discreta e suave, e a massagem foi a favorita da Cecília.",
+          "Para nós, sim: a Reclinável 2.0 entrega conforto e recursos elétricos sob medida na categoria de alto padrão. No nosso uso diário, a mecânica elétrica com giro e balanço foi discreta e suave, e a massagem foi a favorita da Cecília.",
           "Pode não compensar para quem procura uma poltrona simples, tem pouco espaço ou não pretende usar os opcionais tecnológicos. Eles encarecem o produto, e a poltrona precisa de uma tomada por perto.",
           "O uso até aqui é de poucas semanas: a durabilidade de longo prazo ainda será acompanhada."
         ]
       },
       {
-        "heading": "Perguntas frequentes sobre a Poltrona Damie 2.0",
+        "heading": "Perguntas frequentes sobre a Poltrona Reclinável 2.0",
         "paragraphs": [
           "Reunimos as principais dúvidas dos leitores sobre a poltrona de relaxamento da Damie:"
         ],
@@ -29075,7 +29075,7 @@ export const reviewsData: unknown[] = [
           "Como funciona o cupom CECILIA12 na Damie? Digite CECILIA12 no checkout do site da Damie ([veja o cupom CECILIA12](/cupons/damie)) para garantir 12% de desconto nos produtos e opcionais, sem incluir o frete. O código pode ser acumulado com mais 10% no PIX. Condições sujeitas a alteração pela fabricante.",
           "O Em Casa com Cecília possui parceria com a Damie? Sim: o CECILIA12 é da nossa parceria com a Damie e pode gerar comissão, sem custo extra para você.",
           "Qual a poltrona indicada para quem tem mais de 1,85m? A Damie disponibiliza o opcional 'Encosto Fixo Mais Alto', que aumenta a altura do encosto da poltrona para acomodar pessoas mais altas com apoio completo de cabeça.",
-          "A poltrona Damie 2.0 elétrica precisa de bateria? Ela funciona ligada diretamente na tomada através de uma fonte bivolt. O ideal é posicioná-la próxima a uma tomada de energia na sala.",
+          "A Poltrona Reclinável 2.0 elétrica precisa de bateria? Ela funciona ligada diretamente na tomada através de uma fonte bivolt. O ideal é posicioná-la próxima a uma tomada de energia na sala.",
           "Como funciona a garantia do fabricante? A Damie informa 1 ano de garantia contra defeitos de fabricação na estrutura de madeira e nas ferragens metálicas, além de suporte vitalício. Condição sujeita aos termos vigentes da fabricante.",
           "O tecido de Courino Importado da poltrona esquenta? O material é de alta qualidade e possui toque mais ameno, mas por ser praticamente impermeável ele troca menos calor que o linho. É ideal para salas com climatização ou ar condicionado."
         ]
@@ -33147,8 +33147,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-1.webp",
-          "alt": "Parte de trás do assento de uma poltrona DAMIE 2.0 mostrando a fiação dos motores",
-          "caption": "Os fios dos motores na parte de trás do assento, que se ligam na montagem. Foto oficial da DAMIE 2.0; a nossa é a 1.0.",
+          "alt": "Parte de trás do assento de uma Poltrona Reclinável 2.0 mostrando a fiação dos motores",
+          "caption": "Os fios dos motores na parte de trás do assento, que se ligam na montagem. Foto oficial da Reclinável 2.0; a nossa é a 1.0.",
           "objectFit": "contain",
           "aspectRatio": 1.7762
         }
@@ -33185,8 +33185,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-reclinada-bege.webp",
-          "alt": "Poltrona reclinável DAMIE 2.0 totalmente reclinada, com o apoio de pés aberto, vazia",
-          "caption": "Encosto e apoio de pés abertos, a posição de descanso. Foto oficial da DAMIE 2.0; a nossa é a 1.0.",
+          "alt": "Poltrona Reclinável 2.0 totalmente reclinada, com o apoio de pés aberto, vazia",
+          "caption": "Encosto e apoio de pés abertos, a posição de descanso. Foto oficial da Reclinável 2.0; a nossa é a 1.0.",
           "objectFit": "square",
           "aspectRatio": 1
         },
@@ -53726,8 +53726,8 @@ export const reviewsData: unknown[] = [
           "Apoio para os pés. Pés apoiados aliviam as pernas e ajudam a manter a postura. Pode ser um puff separado ou um apoio que sai da própria poltrona, nas reclináveis."
         ],
         "image": "/images/reviews/damie/poltrona-damie-2-0-almofada-regulavel.webp",
-        "imageAlt": "Mãos ajustando a almofada de cabeça regulável de uma poltrona reclinável DAMIE 2.0",
-        "imageCaption": "Almofada de cabeça regulável da DAMIE 2.0: o apoio sobe ou desce conforme a altura de quem senta.",
+        "imageAlt": "Mãos ajustando a almofada de cabeça regulável de uma Poltrona Reclinável 2.0",
+        "imageCaption": "Almofada de cabeça regulável da Reclinável 2.0: o apoio sobe ou desce conforme a altura de quem senta.",
         "imageFit": "contain",
         "imageAspectRatio": 1.4989
       },
@@ -53736,7 +53736,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O balanço é o recurso mais procurado e faz sentido: o embalo suave ajuda muitos bebês a relaxar e poupa você de ninar em pé pela casa. Mas ele não é obrigatório. Uma poltrona fixa, firme e na altura certa resolve a mamada; o balanço é um conforto a mais, não o critério principal.",
           "Se escolher balanço, preste atenção em duas coisas. A primeira é o barulho: estalos e rangidos são justamente o que você não quer às três da manhã, então vale ler avaliações de compradores procurando por essas palavras. A segunda é a estabilidade: o movimento precisa ser curto e firme, sem dar a sensação de que a poltrona vai tombar para trás quando você se apoia para levantar.",
-          "O giro é outro recurso que parece detalhe e não é. Girando, você alcança a água, a fralda ou o celular na mesinha sem torcer o tronco com o bebê no colo. Na nossa DAMIE 2.0, que tem base com giro e balanço, o giro foi justamente o recurso que eu mais subestimei antes de usar. E o balanço tem me surpreendido: ajuda a acalmar as crianças com aquele embalo de colo.",
+          "O giro é outro recurso que parece detalhe e não é. Girando, você alcança a água, a fralda ou o celular na mesinha sem torcer o tronco com o bebê no colo. Na nossa Poltrona Reclinável 2.0 da DAMIE, que tem base com giro e balanço, o giro foi justamente o recurso que eu mais subestimei antes de usar. E o balanço tem me surpreendido: ajuda a acalmar as crianças com aquele embalo de colo.",
           "Nas poltronas com puff dos marketplaces, o balanço costuma vir de uma base de madeira curva. Nas DAMIE elétricas 1.0 e 2.0 com base de giro e balanço descritas aqui, o giro informado é de 180°. A Aurora, apresentada abaixo, é outro modelo: manual, com puff e giro de 360°."
         ],
         "links": [
@@ -53755,7 +53755,7 @@ export const reviewsData: unknown[] = [
           "Linho: fresco e respirável, bom para regiões quentes. Foi o que escolhemos na nossa primeira poltrona, porque moramos numa região quente e abafada. Mancha com mais facilidade que os sintéticos, então vale limpar na hora.",
           "Suede: toque macio e aveludado, muito comum nas poltronas com puff. Esquenta um pouco mais e marca com líquidos se não for limpo logo.",
           "Bouclé: textura de pequenos anéis, aconchegante e bonita. Acumula pó entre os relevos e pede aspirador com frequência.",
-          "Corino: o mais prático contra manchas e líquidos, sai com pano úmido. Escolhemos corino na DAMIE 2.0, porque com duas crianças em casa, uma delas de 1 ano, era o mais fácil de limpar e o mais difícil de manchar. Em dia muito quente, gruda mais na pele.",
+          "Corino: o mais prático contra manchas e líquidos, sai com pano úmido. Escolhemos corino na Reclinável 2.0, porque com duas crianças em casa, uma delas de 1 ano, era o mais fácil de limpar e o mais difícil de manchar. Em dia muito quente, gruda mais na pele.",
           "Couro bovino: durável e fácil de limpar, mas é a opção mais cara."
         ],
         "postParagraphs": [
@@ -53767,12 +53767,12 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Quarto de bebê costuma ser o menor da casa: marque no chão com fita crepe o espaço que a poltrona ocupa aberta, não fechada.",
           "Na poltrona com puff, o puff solto fica no chão o tempo todo e vira obstáculo no escuro, na hora de levar o bebê ao berço. Uma poltrona compacta com puff que mostramos abaixo mede 90 cm de largura e 68 cm de profundidade, e o puff soma mais 45 por 38 cm.",
-          "Na reclinável, o apoio de pés sai da própria poltrona e recolhe quando fechada, mas aberta ela pede bem mais espaço. A DAMIE 2.0 mede 106 cm de altura, 89 cm de largura e 95 cm de profundidade, e totalmente reclinada chega a 174 cm de comprimento. A versão com giro precisa ainda de folga nas laterais para girar sem bater na parede ou na cômoda.",
+          "Na reclinável, o apoio de pés sai da própria poltrona e recolhe quando fechada, mas aberta ela pede bem mais espaço. A Reclinável 2.0 mede 106 cm de altura, 89 cm de largura e 95 cm de profundidade, e totalmente reclinada chega a 174 cm de comprimento. A versão com giro precisa ainda de folga nas laterais para girar sem bater na parede ou na cômoda.",
           "Confira também a passagem. A DAMIE diz que a poltrona chega em caixa e, se a porta tiver menos de 80 cm, dá para passar primeiro o encosto e depois a base, o que funciona em portas a partir de 65 cm. E as reclináveis elétricas precisam de tomada perto: planeje o lugar para o fio não atravessar o caminho."
         ],
         "image": "/images/reviews/damie/poltrona-damie-2-0-dimensoes.webp",
-        "imageAlt": "Desenho com as medidas da poltrona reclinável DAMIE 2.0 fechada e totalmente reclinada",
-        "imageCaption": "Medidas da DAMIE 2.0 informadas pela marca: 106 × 89 × 95 cm fechada e 174 cm de comprimento reclinada.",
+        "imageAlt": "Desenho com as medidas da Poltrona Reclinável 2.0 fechada e totalmente reclinada",
+        "imageCaption": "Medidas da Reclinável 2.0 informadas pela marca: 106 × 89 × 95 cm fechada e 174 cm de comprimento reclinada.",
         "imageFit": "contain",
         "imageAspectRatio": 1.7785
       },
@@ -53867,8 +53867,8 @@ export const reviewsData: unknown[] = [
           },
           {
             "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
-            "alt": "Poltrona reclinável DAMIE 2.0 elétrica com base de giro e balanço, em suede bege, vazia",
-            "caption": "DAMIE 2.0 elétrica com giro e balanço: almofada de cabeça regulável e bolso lateral maior. Foto oficial da DAMIE.",
+            "alt": "Poltrona Reclinável 2.0 elétrica com base de giro e balanço, em suede bege, vazia",
+            "caption": "Reclinável 2.0 elétrica com giro e balanço: almofada de cabeça regulável e bolso lateral maior. Foto oficial da DAMIE.",
             "objectFit": "contain",
             "aspectRatio": 1
           }
@@ -53907,12 +53907,12 @@ export const reviewsData: unknown[] = [
         "heading": "A poltrona que usamos aqui em casa",
         "paragraphs": [
           "A nossa história com a poltrona reclinável começou antes do Ian. Ela já fazia parte da sala, em linho bege, e ganhou uma função nova quando ele nasceu. Ajustar a inclinação pelo botão, sem fazer força, foi o que mais fez diferença nas mamadas da madrugada: quando ele estava agitado, eu deixava o encosto mais reto; quando dormia, reclinava devagar e aproveitava para descansar também. Para o sono do bebê, a orientação da [Academia Americana de Pediatria](https://www.healthychildren.org/english/ages-stages/baby/sleep/pages/Preventing-SIDS.aspx) é colocá-lo de barriga para cima, em superfície firme e plana própria para dormir, e não adormecer com ele no colo na poltrona.",
-          "Hoje temos também a DAMIE 2.0 elétrica com giro e balanço, em corino caramelo. Em relação à primeira versão, a 2.0 trouxe almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés. Os bolsos parecem bobagem, mas guardam paninho, fralda e garrafa de água ao alcance da mão.",
+          "Hoje temos também a Reclinável 2.0 elétrica com giro e balanço, em corino caramelo. Em relação à primeira versão, a 2.0 trouxe almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés. Os bolsos parecem bobagem, mas guardam paninho, fralda e garrafa de água ao alcance da mão.",
           "Isso não quer dizer que uma reclinável elétrica seja a única escolha certa. Ela foi a nossa porque a poltrona ia continuar na sala depois da amamentação e porque o ajuste sem esforço fazia diferença para mim. Se o orçamento ou o espaço apertam, uma boa poltrona com puff e braço firme resolve a fase de amamentação."
         ],
         "links": [
           {
-            "label": "Minha experiência com a DAMIE 2.0",
+            "label": "Minha experiência com a Reclinável 2.0",
             "href": "/reviews/poltrona-damie-e-boa"
           },
           {
@@ -54108,7 +54108,7 @@ export const reviewsData: unknown[] = [
           "E o balanço? Muita gente procura balanço manual ou elétrico, mas, nas poltronas, o balanço vem da base e acompanha o movimento do corpo. O que é motorizado é a reclinação. Na DAMIE, o motor cuida de reclinar o encosto e subir o apoio de pés, e a base de giro e balanço permite girar e embalar."
         ],
         "image": "/images/reviews/damie/poltrona-damie-2-0-apoio-pes.webp",
-        "imageAlt": "Apoio de pés da poltrona reclinável DAMIE 2.0 aberto, com o mecanismo de aço aparente",
+        "imageAlt": "Apoio de pés da Poltrona Reclinável 2.0 aberto, com o mecanismo de aço aparente",
         "imageCaption": "O apoio de pés sobe da própria poltrona; na elétrica, pelo botão. Na 2.0, ele tem mais espuma.",
         "imageFit": "contain",
         "imageAspectRatio": 1.4979
@@ -54160,7 +54160,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Minha experiência com a DAMIE 2.0 com giro e balanço",
+            "label": "Minha experiência com a Reclinável 2.0 com giro e balanço",
             "href": "/reviews/poltrona-damie-e-boa"
           }
         ],
@@ -54174,15 +54174,15 @@ export const reviewsData: unknown[] = [
           },
           {
             "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
-            "alt": "Poltrona reclinável DAMIE 2.0 elétrica com base de giro e balanço, em suede bege, vazia",
-            "caption": "DAMIE 2.0 elétrica com giro e balanço: almofada de cabeça regulável e bolso lateral maior. Foto oficial da DAMIE.",
+            "alt": "Poltrona Reclinável 2.0 elétrica com base de giro e balanço, em suede bege, vazia",
+            "caption": "Reclinável 2.0 elétrica com giro e balanço: almofada de cabeça regulável e bolso lateral maior. Foto oficial da DAMIE.",
             "objectFit": "contain",
             "aspectRatio": 1
           },
           {
             "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-reclinada-bege.webp",
-            "alt": "Poltrona reclinável DAMIE 2.0 totalmente reclinada, com o apoio de pés aberto, vazia",
-            "caption": "DAMIE 2.0 totalmente reclinada: chega a 174 cm de comprimento. Foto oficial da DAMIE.",
+            "alt": "Poltrona Reclinável 2.0 totalmente reclinada, com o apoio de pés aberto, vazia",
+            "caption": "Reclinável 2.0 totalmente reclinada: chega a 174 cm de comprimento. Foto oficial da DAMIE.",
             "objectFit": "contain",
             "aspectRatio": 1
           }
@@ -54869,7 +54869,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Minha experiência com a DAMIE 2.0 com giro e balanço",
+            "label": "Minha experiência com a Reclinável 2.0 com giro e balanço",
             "href": "/reviews/poltrona-damie-e-boa"
           },
           {
@@ -54888,8 +54888,8 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
-            "alt": "Poltrona reclinável DAMIE 2.0 elétrica com base de giro e balanço, em suede bege, vazia",
-            "caption": "DAMIE 2.0 elétrica com giro e balanço: almofada de cabeça regulável e bolso lateral maior. Foto oficial da DAMIE.",
+            "alt": "Poltrona Reclinável 2.0 elétrica com base de giro e balanço, em suede bege, vazia",
+            "caption": "Reclinável 2.0 elétrica com giro e balanço: almofada de cabeça regulável e bolso lateral maior. Foto oficial da DAMIE.",
             "objectFit": "contain",
             "aspectRatio": 1
           }
@@ -120361,7 +120361,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "As quatro primeiras bases existem na [Poltrona Reclinável Damie 2.0](https://www.damie.com.br/products/poltrona-reclinavel-2-0), a versão atual. Ela tem almofada de cabeça móvel e acolchoada com regulagem de altura, bolsos laterais maiores, apoio de braço contínuo e apoio de pés com mais espuma. As medidas da 2.0, pelo desenho da marca, são 106 cm de altura, 89 cm de largura e 95 cm de profundidade, com 174 cm de comprimento totalmente reclinada. Ela é feita no Brasil, com SoftSpring (molas nosag, espuma e fibra siliconada), mecanismo em aço carbono e estrutura de eucalipto, compensado naval e metal.",
+          "As quatro primeiras bases existem na [Poltrona Reclinável 2.0](https://www.damie.com.br/products/poltrona-reclinavel-2-0), a versão atual. Ela tem almofada de cabeça móvel e acolchoada com regulagem de altura, bolsos laterais maiores, apoio de braço contínuo e apoio de pés com mais espuma. As medidas da 2.0, pelo desenho da marca, são 106 cm de altura, 89 cm de largura e 95 cm de profundidade, com 174 cm de comprimento totalmente reclinada. Ela é feita no Brasil, com SoftSpring (molas nosag, espuma e fibra siliconada), mecanismo em aço carbono e estrutura de eucalipto, compensado naval e metal.",
           "Durante a campanha, a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) diz que quem compra uma poltrona ganha a massagem, a entrada USB (tipo A e tipo C) e o porta-copos, e que o preço das poltronas já vem com R$ 1.000 de desconto. Os outros opcionais estavam com preço de campanha: mesa de apoio por R$ 490, carregador de celular por indução por R$ 590 e motor do apoio de cabeça por R$ 1.000. O encosto fixo mais alto, para quem tem mais de 1,85 m, custava R$ 450 no configurador. Confira no carrinho os brindes que entram no seu pedido.",
           "Para quem compra mais de uma, como o par para os pais, a mesma página dá desconto por quantidade nas reclináveis e na Poltrona Cinema, durante a campanha: R$ 500 em 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5. Antes de pagar, confirme com a DAMIE como esse desconto entra no pedido e se soma com o CECILIA12.",
           "Com o CECILIA12, a elétrica com giro e balanço, a partir de R$ 4.299, sai por R$ 3.783,12 no cartão. No Pix, pela nossa conta, aplicando um desconto sobre o outro, cai para R$ 3.404,81.",
@@ -206991,7 +206991,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
-          "alt": "Poltrona reclinável DAMIE 2.0 elétrica com giro e balanço, em suede bege, com porta-copos nos braços",
+          "alt": "Poltrona Reclinável 2.0 elétrica com giro e balanço, em suede bege, com porta-copos nos braços",
           "caption": "A reclinável 2.0 com giro e balanço, em suede.",
           "objectFit": "square",
           "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
@@ -207181,7 +207181,7 @@ export const reviewsData: unknown[] = [
           "Comprar agora pode fazer sentido se o modelo já atende ao que você precisa, o total cabe no orçamento e você quer aproveitar a massagem de brinde. Se prefere esperar outra oferta, ainda não temos o preço do dia da Black Friday para comparar com os atuais.",
           "Antes de decidir, simule a entrega. No CEP consultado, o frete da Toronto foi de R$ 646,98 e o da Austin Lift, de R$ 242,07. Uma diferença desse tamanho pode mudar a ordem dos preços entre lojas; use o seu CEP para fazer a comparação. Se for um [presente de Natal para a casa](/reviews/presente-de-natal-para-casa-moveis), confira também o prazo de entrega.",
           "Para gastar menos, eu começaria pelas manuais da Matrix. Para reclinar no botão, a DAMIE em suede com o CECILIA12 ficou com o menor preço entre as elétricas em suede e materiais sintéticos desta seleção. Quem precisa de giro, balanço ou elevação deve ficar no grupo que oferece essa função, para não pagar por uma poltrona que não resolve o que procura.",
-          "Recebi poltronas DAMIE em parceria: duas reclináveis 1.0 em linho bege, a 2.0 em corino caramelo com giro e balanço e a [Levita em couro caramelo](/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto). O relato da que usamos em casa está em [a DAMIE 2.0 é boa?](/reviews/poltrona-damie-e-boa). Essa experiência não é um teste das outras marcas da seleção."
+          "Recebi poltronas DAMIE em parceria: duas reclináveis 1.0 em linho bege, a 2.0 em corino caramelo com giro e balanço e a [Levita em couro caramelo](/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto). O relato da que usamos em casa está em [a Reclinável 2.0 é boa?](/reviews/poltrona-damie-e-boa). Essa experiência não é um teste das outras marcas da seleção."
         ],
         "image": {
           "src": "/images/reviews/poltrona-reclinavel-cecilia-botao-reclinacao.webp",
@@ -207459,7 +207459,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/damie/poltrona-do-papai-eletrica-quanto-custa-capa.webp",
-    "imageAlt": "Cecília Mauad reclinada na poltrona DAMIE Levita em couro, ao lado dos botões e do bolso lateral da reclinável DAMIE 2.0 e do apoio de pés elétrico aberto, com a faixa \"Poltrona do papai elétrica\"",
+    "imageAlt": "Cecília Mauad reclinada na poltrona DAMIE Levita em couro, ao lado dos botões e do bolso lateral da Reclinável 2.0 e do apoio de pés elétrico aberto, com a faixa \"Poltrona do papai elétrica\"",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -207557,7 +207557,7 @@ export const reviewsData: unknown[] = [
               "R$ 2.499,51"
             ],
             [
-              "[DAMIE 2.0 no site (CECILIA12)](https://www.damie.com.br/products/poltrona-reclinavel-2-0)",
+              "[Reclinável 2.0 no site (CECILIA12)](https://www.damie.com.br/products/poltrona-reclinavel-2-0)",
               "Suede; até 170°; na campanha, massagem por vibração e USB; garantia de 1 ano e 30 dias de teste",
               "R$ 3.299,12",
               "R$ 2.969,21"
@@ -207583,8 +207583,8 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
-            "alt": "Poltrona reclinável DAMIE 2.0 elétrica com giro e balanço, em suede bege, com porta-copos nos braços",
-            "caption": "A DAMIE 2.0 com giro e balanço, em suede. Foto: DAMIE.",
+            "alt": "Poltrona Reclinável 2.0 elétrica com giro e balanço, em suede bege, com porta-copos nos braços",
+            "caption": "A Reclinável 2.0 com giro e balanço, em suede. Foto: DAMIE.",
             "objectFit": "square",
             "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
           },
@@ -207605,7 +207605,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[DAMIE 2.0 giro e balanço no site (CECILIA12)](https://www.damie.com.br/products/poltrona-reclinavel-2-0)",
+              "[Reclinável 2.0 giro e balanço no site (CECILIA12)](https://www.damie.com.br/products/poltrona-reclinavel-2-0)",
               "Suede; giro de 180° e balanço; até 145°; na campanha, massagem por vibração e USB; garantia de 1 ano e 30 dias de teste",
               "R$ 3.783,12",
               "R$ 3.404,81"
@@ -207649,7 +207649,7 @@ export const reviewsData: unknown[] = [
               "R$ 3.749,99"
             ],
             [
-              "[DAMIE 2.0 com elevação no site (CECILIA12)](https://www.damie.com.br/products/poltrona-reclinavel-2-0)",
+              "[Reclinável 2.0 com elevação no site (CECILIA12)](https://www.damie.com.br/products/poltrona-reclinavel-2-0)",
               "Suede; até 145°; na campanha, massagem por vibração e USB; garantia de 1 ano e 30 dias de teste",
               "R$ 4.372,72",
               "R$ 3.935,45"
@@ -207695,7 +207695,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[DAMIE 2.0 em couro no site (CECILIA12)](https://www.damie.com.br/products/poltrona-reclinavel-2-0)",
+              "[Reclinável 2.0 em couro no site (CECILIA12)](https://www.damie.com.br/products/poltrona-reclinavel-2-0)",
               "Couro bovino; até 170°; na campanha, massagem por vibração e USB; garantia de 1 ano e 30 dias de teste",
               "R$ 4.575,12",
               "R$ 4.117,61"
@@ -207770,7 +207770,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-2.webp",
-          "alt": "Mecanismo elétrico da poltrona DAMIE 2.0 caramelo visto por baixo do assento, com o motor e os fios",
+          "alt": "Mecanismo elétrico da Poltrona Reclinável 2.0 caramelo visto por baixo do assento, com o motor e os fios",
           "caption": "O mecanismo da nossa 2.0, por baixo do assento.",
           "objectFit": "contain",
           "aspectRatio": 1.7778,
@@ -207806,13 +207806,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na DAMIE 2.0, a elétrica fixa reclina até 170°, enquanto as versões com giro e balanço ou elevação vão até 145°. Se você prefere uma posição mais deitada e não precisa desses movimentos extras, a fixa atende por um preço menor."
+          "Na Poltrona Reclinável 2.0 da DAMIE, a elétrica fixa reclina até 170°, enquanto as versões com giro e balanço ou elevação vão até 145°. Se você prefere uma posição mais deitada e não precisa desses movimentos extras, a fixa atende por um preço menor."
         ]
       },
       {
         "heading": "Corino, PU ou couro: o que muda no preço",
         "paragraphs": [
-          "Na elétrica fixa da DAMIE 2.0, trocar suede por couro acrescenta R$ 1.450 antes do cupom; passar da manual para a elétrica em suede acrescenta R$ 780. O revestimento pode pesar mais no orçamento que a escolha pela versão elétrica. O acréscimo de R$ 100 para corino importado foi registrado na base fixa e na de giro e balanço."
+          "Na elétrica fixa da Reclinável 2.0, trocar suede por couro acrescenta R$ 1.450 antes do cupom; passar da manual para a elétrica em suede acrescenta R$ 780. O revestimento pode pesar mais no orçamento que a escolha pela versão elétrica. O acréscimo de R$ 100 para corino importado foi registrado na base fixa e na de giro e balanço."
         ],
         "comparisonTable": {
           "caption": "Quanto o preço da DAMIE sobe ao mudar o revestimento, na mesma base e sem o código.",
@@ -207876,7 +207876,7 @@ export const reviewsData: unknown[] = [
           "O CECILIA12 dá 12% no site da DAMIE, em todas as formas de pagamento, e soma com as promoções, o Pix e o desconto por quantidade. Ele não soma com outro cupom nem com o giftback de 15%, que é crédito para uma compra futura, e não vale nos anúncios da DAMIE no Mercado Livre. O passo a passo está na página do [cupom DAMIE](/cupons/damie)."
         ],
         "comparisonTable": {
-          "caption": "DAMIE 2.0 elétrica no site oficial, com o CECILIA12, no cartão e antes de frete.",
+          "caption": "Reclinável 2.0 elétrica no site oficial, com o CECILIA12, no cartão e antes de frete.",
           "headers": [
             "Base",
             "Suede",
@@ -207906,7 +207906,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No Pix à vista, a fixa em suede sai por R$ 2.969,21, e a elevação em couro, por R$ 4.870,01. O resumo do checkout mostra o valor exato antes de pagar. A Aurora da DAMIE é manual, por alavanca, e por isso fica fora daqui; não confunda com a Aurora da D'Rossi, que é elétrica.",
-          "Recebi da DAMIE, em parceria, a 2.0 elétrica com giro e balanço, em corino, e a Levita em couro. Na 2.0, o motor foi silencioso e a massagem virou a minha parte favorita. Na Levita, o Bruno usa os dois motores separados em sessões longas de videogame. Não comparei revestimentos lado a lado, e o relato completo da 2.0 está em [a DAMIE 2.0 é boa?](/reviews/poltrona-damie-e-boa).",
+          "Recebi da DAMIE, em parceria, a 2.0 elétrica com giro e balanço, em corino, e a Levita em couro. Na 2.0, o motor foi silencioso e a massagem virou a minha parte favorita. Na Levita, o Bruno usa os dois motores separados em sessões longas de videogame. Não comparei revestimentos lado a lado, e o relato completo da 2.0 está em [a Reclinável 2.0 é boa?](/reviews/poltrona-damie-e-boa).",
           "A DAMIE também vende na Amazon, na Magalu e no Mercado Livre. Antes de frete, o site com o CECILIA12 ficou abaixo dessas lojas: o quadro está em [poltrona do papai na Black Friday](/reviews/poltrona-do-papai-black-friday)."
         ],
         "links": [
@@ -207939,10 +207939,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Orçamento menor:** a [Matrix Porsche](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-do-papai-reclinavel-eletrica-moderna-matrix-porsche/p/235605600/mo/mpol/) é a opção de entrada, com controle remoto. A garantia informada é de três meses.",
           "**Aquecimento:** a [Chicago](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-do-papai-eletrica-reclinavel-chicago-com-aquecimento-massagem-e-porta-copos-entrada-usb-usb-c-pu-caramelo-g94-gran-belo/p/ga9k5a3626/mo/polr/) reúne massagem e aquecimento no encosto. Ela reclina até 160° e usa revestimento PU.",
-          "**Base fixa com garantia de um ano e teste em casa:** eu consideraria a [DAMIE 2.0 em suede](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 3.299,12 com o CECILIA12 no cartão. A página dela não anuncia aquecimento.",
-          "**Giro e balanço:** a [DAMIE 2.0](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 3.783,12 em suede com o CECILIA12, reúne os dois movimentos e reclina até 145°. A Boston é a alternativa do quadro para quem prefere giro mais amplo e aquecimento.",
-          "**Ajuda para se levantar:** compare a [Aurora da D'Rossi](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-massagem-reclinavel-elevacao-eletrica-aurora-sintetico-pu-d-rossi/p/cac56ka0c3/mo/polr/) com a [DAMIE 2.0 com elevação](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 4.372,72 em suede com o CECILIA12. A diferença no cartão é de R$ 111,37; revestimento e garantia também mudam.",
-          "**Couro:** a [DAMIE 2.0 fixa em couro bovino](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 4.575,12 com o CECILIA12, fica abaixo da Condor e da Armênia nos preços apresentados. Confirme quais partes recebem couro antes de escolher por esse critério.",
+          "**Base fixa com garantia de um ano e teste em casa:** eu consideraria a [Reclinável 2.0 em suede](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 3.299,12 com o CECILIA12 no cartão. A página dela não anuncia aquecimento.",
+          "**Giro e balanço:** a [Reclinável 2.0](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 3.783,12 em suede com o CECILIA12, reúne os dois movimentos e reclina até 145°. A Boston é a alternativa do quadro para quem prefere giro mais amplo e aquecimento.",
+          "**Ajuda para se levantar:** compare a [Aurora da D'Rossi](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-massagem-reclinavel-elevacao-eletrica-aurora-sintetico-pu-d-rossi/p/cac56ka0c3/mo/polr/) com a [Reclinável 2.0 com elevação](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 4.372,72 em suede com o CECILIA12. A diferença no cartão é de R$ 111,37; revestimento e garantia também mudam.",
+          "**Couro:** a [Reclinável 2.0 fixa em couro bovino](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 4.575,12 com o CECILIA12, fica abaixo da Condor e da Armênia nos preços apresentados. Confirme quais partes recebem couro antes de escolher por esse critério.",
           "**Pés e encosto regulados separadamente:** a [Levita](https://www.damie.com.br/products/poltrona-reclinavel-damie-levita), por R$ 5.632 em linho ou R$ 6.512 em couro com o CECILIA12, permite ajustar os pés e o encosto em posições diferentes. Esse é o motivo para considerá-la se a reclinação conjunta não atende você."
         ],
         "emphasis": "Escolha a poltrona pelo movimento de que você precisa. Depois compare o preço com frete, a garantia e a facilidade de limpeza do revestimento.",
@@ -207969,8 +207969,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Cadeira do papai, poltrona do papai e poltrona reclinável são a mesma coisa? Na prática, sim: os três nomes falam da poltrona que reclina o encosto e abre o apoio para os pés. O que muda é se ela é manual ou elétrica.",
           "Quanto custa uma poltrona do papai elétrica? Os preços desta seleção começam perto de 2,4 mil reais e chegam a cerca de 6,5 mil, considerando o CECILIA12 nas opções da DAMIE, antes do frete. Os quadros por função mostram o valor de cada modelo.",
-          "Qual a poltrona do papai com melhor custo-benefício? Depende do que você vai usar. Para gastar menos com motor, a Matrix Porsche; para massagem e aquecimento no pacote, a Chicago; para garantia de 1 ano e teste em casa, a DAMIE 2.0 fixa em suede com o CECILIA12.",
-          "A poltrona do papai elétrica tem controle remoto? Depende do modelo. A Matrix Porsche e a Flora têm controle remoto, a Chicago usa botão lateral, a Armênia tem dois botões junto ao assento e a DAMIE 2.0 fixa reclina por botões ou controle.",
+          "Qual a poltrona do papai com melhor custo-benefício? Depende do que você vai usar. Para gastar menos com motor, a Matrix Porsche; para massagem e aquecimento no pacote, a Chicago; para garantia de 1 ano e teste em casa, a Reclinável 2.0 fixa em suede com o CECILIA12.",
+          "A poltrona do papai elétrica tem controle remoto? Depende do modelo. A Matrix Porsche e a Flora têm controle remoto, a Chicago usa botão lateral, a Armênia tem dois botões junto ao assento e a Reclinável 2.0 fixa reclina por botões ou controle.",
           "Tem cupom para poltrona do papai elétrica? Tem na DAMIE: o CECILIA12 dá 12% no site, em todas as formas de pagamento, e soma com as promoções, o Pix e o desconto por quantidade. Ele não vale no Mercado Livre e não soma com outro cupom nem com o giftback."
         ]
       }
@@ -208031,7 +208031,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/damie/presente-de-natal-para-pai-poltrona-do-papai-capa.webp",
-    "imageAlt": "Cecília Mauad sentada na poltrona reclinável DAMIE com a mão no botão de reclinar, ao lado da poltrona DAMIE 2.0 inteira em suede claro, com a faixa \"Presente de Natal para pai\"",
+    "imageAlt": "Cecília Mauad sentada na poltrona reclinável DAMIE com a mão no botão de reclinar, ao lado da Poltrona Reclinável 2.0 inteira em suede claro, com a faixa \"Presente de Natal para pai\"",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "bodyDatesReason": "prazo-entrega",
@@ -208091,7 +208091,7 @@ export const reviewsData: unknown[] = [
           "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita"
         },
         "postParagraphs": [
-          "Recebi da DAMIE, em parceria, a 2.0 elétrica com giro e balanço em corino caramelo e a Levita em couro. Na 2.0, o motor é silencioso e a massagem virou minha parte favorita. Na Levita, o Bruno usa os ajustes separados de pés e encosto em sessões longas de videogame. O [relato de uso da DAMIE 2.0](/reviews/poltrona-damie-e-boa) mostra como ela funciona aqui em casa."
+          "Recebi da DAMIE, em parceria, a 2.0 elétrica com giro e balanço em corino caramelo e a Levita em couro. Na 2.0, o motor é silencioso e a massagem virou minha parte favorita. Na Levita, o Bruno usa os ajustes separados de pés e encosto em sessões longas de videogame. O [relato de uso da Reclinável 2.0](/reviews/poltrona-damie-e-boa) mostra como ela funciona aqui em casa."
         ]
       },
       {
@@ -208102,8 +208102,8 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-reclinada-bege.webp",
-            "alt": "Poltrona reclinável DAMIE 2.0 em suede bege, reclinada, com o apoio de pés aberto",
-            "caption": "A DAMIE 2.0 reclinada, em suede. Foto: DAMIE.",
+            "alt": "Poltrona Reclinável 2.0 em suede bege, reclinada, com o apoio de pés aberto",
+            "caption": "A Reclinável 2.0 reclinada, em suede. Foto: DAMIE.",
             "objectFit": "square",
             "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
           },
@@ -208126,19 +208126,19 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Prefere um modelo sem motor e consegue reclinar manualmente",
-              "[DAMIE 2.0 manual](https://www.damie.com.br/products/poltrona-reclinavel-2-0), em suede",
+              "[Poltrona Reclinável 2.0 da DAMIE, manual](https://www.damie.com.br/products/poltrona-reclinavel-2-0), em suede",
               "R$ 2.612,72 com CECILIA12",
               "Dispensa tomada, mas abrir e fechar exige força nas pernas e nos braços."
             ],
             [
               "Quer reclinar no botão, sem acionar manualmente",
-              "[DAMIE 2.0 elétrica, base fixa](https://www.damie.com.br/products/poltrona-reclinavel-2-0), em suede",
+              "[Reclinável 2.0 elétrica, base fixa](https://www.damie.com.br/products/poltrona-reclinavel-2-0), em suede",
               "R$ 3.299,12 com CECILIA12",
               "Reclina até 170°. Precisa de tomada acessível no lugar escolhido."
             ],
             [
               "Procura ajuda para se levantar",
-              "[DAMIE 2.0 com elevação](https://www.damie.com.br/products/poltrona-reclinavel-2-0), em suede",
+              "[Reclinável 2.0 com elevação](https://www.damie.com.br/products/poltrona-reclinavel-2-0), em suede",
               "R$ 4.372,72 com CECILIA12",
               "A base inclina para a frente e reclina até 145°. Confira com ele a altura do assento e o uso dos comandos."
             ],
@@ -208163,14 +208163,14 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/damie/poltrona-damie-2-0-dimensoes.webp",
-          "alt": "Desenho da poltrona DAMIE 2.0 com as medidas: 89 cm de largura, 106 cm de altura, 95 cm de profundidade e 174 cm reclinada",
-          "caption": "As medidas da DAMIE 2.0. Imagem: DAMIE.",
+          "alt": "Desenho da Poltrona Reclinável 2.0 com as medidas: 89 cm de largura, 106 cm de altura, 95 cm de profundidade e 174 cm reclinada",
+          "caption": "As medidas da Reclinável 2.0. Imagem: DAMIE.",
           "objectFit": "contain",
           "aspectRatio": 1.7778,
           "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
         },
         "bullets": [
-          "**Espaço para abrir.** A DAMIE 2.0 tem 89 cm de largura, 106 cm de altura e 95 cm de profundidade, e chega a 174 cm reclinada. Meça o lugar nessa posição e reserve passagem para as pessoas.",
+          "**Espaço para abrir.** A Reclinável 2.0 tem 89 cm de largura, 106 cm de altura e 95 cm de profundidade, e chega a 174 cm reclinada. Meça o lugar nessa posição e reserve passagem para as pessoas.",
           "**Portas e elevador.** Meça o percurso inteiro, inclusive as curvas do corredor. Para portas menores que 80 cm, a DAMIE orienta tirar a poltrona da caixa e passar o encosto e a base separados, em vãos a partir de 65 cm.",
           "**Tomada.** Se o modelo escolhido é elétrico, procure um lugar com tomada acessível. A falta de tomada, sozinha, não é motivo para dar uma manual a quem não consegue acioná-la.",
           "**Altura dele.** A DAMIE oferece encosto mais alto para pessoas acima de 1,85 m. É um opcional, que custava R$ 450 quando conferimos.",
@@ -208953,29 +208953,28 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quanto custa subir do corino para o couro na mesma poltrona, o que descasca, como limpar cada um e como saber, antes de pagar, se o anúncio é mesmo de couro.",
+    "description": "Couro ou corino na poltrona do papai: a comparação dos dois materiais, quanto custa subir para o couro, o que descasca, como limpar e como conferir o anúncio.",
     "metaDescription": "CECILIA12 dá 12% OFF na DAMIE. Couro ou corino na poltrona do papai: quanto muda, o que descasca e como saber se é couro de verdade.",
     "publishedAt": "9 de novembro de 2026",
     "publishedAtISO": "2026-11-09",
-    "updatedAt": "2026-11-09",
+    "updatedAt": "2026-11-10",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/damie/poltrona-do-papai-couro-ou-corino-capa.webp",
-    "imageAlt": "Duas fotos de Cecília Mauad: com um copo de água na poltrona DAMIE 2.0 em corino caramelo e sentada na poltrona Levita em couro, com a faixa \"Poltrona do papai: couro ou corino\"",
+    "imageAlt": "Duas fotos de Cecília Mauad: com um copo de água na poltrona Reclinável 2.0 em corino caramelo e sentada na poltrona Levita em couro, com a faixa \"Poltrona do papai: couro ou corino\"",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "decision": {
       "takeIf": [
-        "Leve o corino da DAMIE 2.0, com 12% OFF pelo CECILIA12, se quer essa base com o menor preço entre os dois revestimentos.",
-        "Leve o couro da DAMIE 2.0, também com o CECILIA12, se prefere couro de origem animal e aceita a diferença e os cuidados.",
-        "Leve depois de confirmar quais partes têm o material anunciado e como cuidar desse acabamento."
+        "Leve o couro da Poltrona Reclinável 2.0, com 12% OFF pelo CECILIA12, se o orçamento permite e a casa fica em região mais fresca ou tem ambiente climatizado.",
+        "Leve o corino da Poltrona Reclinável 2.0, também com o CECILIA12, se quer gastar menos na mesma base e prioriza uma limpeza rápida."
       ],
       "skipIf": [
-        "Passe se pagar pelo revestimento faz você abrir mão da base de que precisa.",
-        "Passe se o anúncio e a descrição não permitem entender o material vendido.",
-        "Passe se a poltrona vai raspar em outro móvel ou na janela e não há como reposicioná-la."
+        "Passe longe do couro se pagar por ele faz você abrir mão da base de que precisa, ou se a poltrona vai ficar no sol e sem hidratação.",
+        "Passe longe do corino se a poltrona vai raspar na parede, na janela ou em outro móvel e não há como dar folga.",
+        "Passe longe do anúncio em que o título e a descrição dizem materiais diferentes."
       ]
     },
     "cta": {
@@ -209002,24 +209001,85 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Corino custa menos e foi prático de limpar na nossa poltrona; couro é de origem animal e custa mais. Escolha primeiro a base de que precisa e só depois pague pelo revestimento, sem trocar movimento por material. Antes de comprar, confirme o material no anúncio; na DAMIE, o CECILIA12 dá 12% OFF."
+          "Se o orçamento permitir e a região for mais fresca, ou a sala climatizada, vá de couro: é o acabamento mais premium da poltrona e pede hidratação e distância do sol. O corino custa menos e foi prático de limpar aqui em casa. Garanta primeiro a base; na DAMIE, o CECILIA12 dá 12% OFF."
         ]
       },
       {
         "heading": "Corino ou couro: o que muda na prática",
         "paragraphs": [
-          "Na DAMIE, “corino importado” é o revestimento sintético; “couro bovino” é o de origem animal. A página da 2.0 não informa a composição do corino nem se o couro cobre todas as partes da poltrona. São duas perguntas úteis antes de escolher pelo nome.",
-          "Para a nossa rotina com crianças, o corino da 2.0 foi prático para limpar. Na Levita em couro, café e leite também saíram com pano seco. Essa experiência não sustenta dizer que toda casa com criança deve escolher corino: preço, toque e cuidado com o acabamento também entram na decisão.",
-          "Se você quer evitar couro de origem animal, procure um revestimento sintético ou confira a composição das opções de tecido. Se o calor é decisivo, compare também com suede, bouclé e linho no [guia de tecidos da DAMIE](https://damie.emcasacomcecilia.com/guias/qual-tecido-escolher-poltrona-damie)."
+          "Muda o material, e o nome parecido engana. Couro é pele animal curtida, com um acabamento por cima que varia de marca para marca. Corino é um sintético que imita a aparência dela: uma camada plástica sobre um tecido.",
+          "Regra prática, sem teste nosso: a tabela vale para couro bovino e para os sintéticos da família do PU e do PVC em geral, e o desempenho de cada peça depende do acabamento e da formulação. Não há medição de respirabilidade, de atrito nem de duração dessas poltronas."
+        ],
+        "comparisonTable": {
+          "caption": "Couro bovino e corino, atributo por atributo. Comparação qualitativa, sem medição nessas poltronas.",
+          "headers": [
+            "Atributo",
+            "Couro bovino",
+            "Corino"
+          ],
+          "rows": [
+            [
+              "O que é",
+              "Pele animal curtida",
+              "Material sintético, da família do PU e do PVC"
+            ],
+            [
+              "Estrutura da superfície",
+              "Fibras de colágeno entrelaçadas, com pigmento e camadas de acabamento que variam de marca para marca",
+              "Uma camada plástica sobre um suporte de tecido"
+            ],
+            [
+              "Respirabilidade",
+              "Deixa passar vapor em algum grau, menos quando o acabamento é pesado",
+              "Respira pouco; em geral o PVC menos que o PU"
+            ],
+            [
+              "Calor",
+              "Esquenta mais que tecido em dia abafado",
+              "Também esquenta mais que tecido; entre os dois, não há medição"
+            ],
+            [
+              "Líquidos",
+              "Depende do acabamento; nenhum revestimento é imune a manchas",
+              "O líquido fica por cima da película"
+            ],
+            [
+              "Atrito",
+              "Ganha marcas de uso, e o acabamento também desgasta",
+              "A película pode esfolar"
+            ],
+            [
+              "Como envelhece",
+              "Pode ganhar pátina, conforme o acabamento; resseca e pode rachar no sol e sem manutenção",
+              "A película pode rachar ou descascar com atrito, calor, sol e tempo; em alguns poliuretanos, umidade e calor aceleram isso (hidrólise)"
+            ],
+            [
+              "Manutenção",
+              "Pano e, na DAMIE, hidratante específico para couro",
+              "Pano; a rotina de hidratação do couro não serve para ele"
+            ],
+            [
+              "Preço",
+              "O mais caro dos revestimentos",
+              "Perto do preço dos tecidos"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A conclusão sai da estrutura. No couro, o uso marca a pele e o acabamento, e ressecar é o que mais pesa contra ele. O corino depende de uma película colada num tecido. Enquanto ela está inteira, o líquido fica por cima e a limpeza é rápida; os pontos fracos dela são atrito, calor e sol.",
+          "Então o couro cobra mais na compra e na rotina, com hidratante e cortina. O corino cobra menos nas duas, e pede cuidado com onde a poltrona encosta. Qual dura mais em anos? Não sei: falta medição dessas poltronas. No calor, os dois perdem para suede, bouclé e linho; o [guia de tecidos da DAMIE](https://damie.emcasacomcecilia.com/guias/qual-tecido-escolher-poltrona-damie) compara os cinco.",
+          "A DAMIE não diz de que é feito o corino dela. O [guia de revestimentos da marca](https://www.damie.com.br/blogs/guias/guia-tecidos-boucle-couro-linho-suede) avisa que o nome comercial não garante resistência nem impermeabilidade, e que dá para pedir amostras ao atendimento. Na dúvida, peça a amostra dos dois e compare na mão."
         ]
       },
       {
         "heading": "Quanto custa subir do corino para o couro",
         "paragraphs": [
-          "A comparação abaixo mantém a DAMIE 2.0 e a mesma base, mudando o revestimento. Todos os valores já incluem os 12% do CECILIA12."
+          "O couro é o revestimento mais caro da poltrona, e a diferença passa de mil reais em quase todas as bases. Ele é o mais premium de todos: fica acima do corino e também de suede, bouclé e linho. Premium aqui quer dizer acabamento e preço; ele não promete ser mais fresco nem durar mais anos. Na Poltrona Reclinável 2.0 da DAMIE, cobre a poltrona inteira por fora.",
+          "As desvantagens vêm junto. Custa mais, esquenta em dia abafado, resseca com sol e ar-condicionado se ficar sem hidratante, e ganha marcas com o uso. Quem evita material de origem animal fica no corino ou nos tecidos.",
+          "A tabela mantém a mesma poltrona e a mesma base, mudando só o revestimento. Todos os valores já incluem os 12% do CECILIA12."
         ],
         "comparisonTable": {
-          "caption": "DAMIE 2.0 no cartão, com CECILIA12 e sem frete, em 9 de novembro. Preços sujeitos a alteração.",
+          "caption": "Poltrona Reclinável 2.0 no cartão, com CECILIA12 e sem frete, em 9 de novembro. Preços sujeitos a alteração.",
           "headers": [
             "Base",
             "Corino importado",
@@ -209054,24 +209114,23 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Repare na tabela: a manual em couro custa quase o mesmo que a elétrica com giro e balanço em corino, e o funcionamento é outro. Se você precisa reclinar no botão ou quer o balanço, eu escolheria primeiro essa base e depois o revestimento.",
-          "Conta nossa, com os preços da tabela: há R$ 36,08 entre essas duas configurações. Esse exemplo mostra por que vale comparar o que a poltrona faz, além de quanto custa o material. O [guia de preços das poltronas elétricas](/reviews/poltrona-do-papai-eletrica-quanto-custa) detalha as bases.",
-          "O CECILIA12 vale no site da DAMIE, em todas as formas de pagamento, e soma com promoções, os 10% do Pix e o desconto por quantidade. Não acumula com outro cupom nem com o giftback de 15%, que é crédito para uma compra futura. Não vale no Mercado Livre nem nos anúncios da DAMIE na Magalu. Veja as condições do [cupom DAMIE](/cupons/damie)."
+          "Repare na tabela: a manual em couro custa quase o mesmo que a elétrica com giro e balanço em corino, e o funcionamento é outro. Conta nossa, com os preços da tabela: há R$ 36,08 entre essas duas configurações.",
+          "Por isso o couro entra depois da base. Se você precisa reclinar no botão ou quer o balanço, garanta isso primeiro e veja se o orçamento ainda alcança o couro. O [guia de preços das poltronas elétricas](/reviews/poltrona-do-papai-eletrica-quanto-custa) detalha as bases.",
+          "O CECILIA12 dá 12% OFF no site da DAMIE, em todas as formas de pagamento, e soma com promoções, com os 10% do Pix e com o desconto por quantidade. Não acumula com outro cupom nem com o giftback de 15%. Não vale no Mercado Livre nem nos anúncios da DAMIE na Magalu. Veja as condições do [cupom DAMIE](/cupons/damie)."
         ]
       },
       {
         "heading": "Corino descasca? O que aconteceu na nossa 2.0",
         "paragraphs": [
-          "Pode descascar. Regra prática, sem teste nosso: o corino é uma película sobre um tecido, e calor, sol, atrito e tempo pesam contra ela. Por isso, mantenha a poltrona longe do sol direto e de fonte de calor.",
-          "Recebi em parceria a DAMIE 2.0 em corino caramelo e a Levita em couro caramelo. São modelos diferentes, usados em situações diferentes; não fizemos uma comparação controlada de resistência entre os revestimentos.",
-          "Na 2.0, o corino esfolou na parte de trás em menos de seis meses, no ponto em que o balanço encostava na janela. Esse desgaste precisa entrar na escolha. Deixe espaço para a poltrona se movimentar sem raspar na parede, na janela ou em outro móvel.",
-          "Ao mesmo tempo, a limpeza do corino foi prática na nossa rotina: os líquidos ficaram na superfície e saíram com pano. O relato completo está em [a DAMIE 2.0 é boa?](/reviews/poltrona-damie-e-boa). Na Levita em couro, café e leite saíram com pano seco; para a gordura do corpo, usamos produtos próprios para couro. Veja a [experiência com a Levita](/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto).",
-          "Esses episódios não permitem prever quantos anos cada revestimento vai durar. A DAMIE anuncia um ano de garantia; pergunte à loja qual é a cobertura para o revestimento, inclusive em caso de descascamento ou dano por atrito."
+          "Pode descascar. A película do corino sofre com atrito, calor, sol e tempo, então o lugar da poltrona na sala pesa tanto quanto o material.",
+          "Recebi: a Poltrona Reclinável 2.0 em corino caramelo e a Levita em couro caramelo, as duas em parceria com a DAMIE. São modelos diferentes, usados de jeitos diferentes, e isso não vira teste de resistência entre os materiais.",
+          "Na 2.0, o corino esfolou na parte de trás em menos de seis meses, no ponto em que o balanço encostava na janela. A dica é deixar folga: a poltrona precisa reclinar e balançar sem raspar na parede, na janela ou em outro móvel.",
+          "A loja informa: a Poltrona Reclinável 2.0 tem 1 ano de garantia total de fábrica contra qualquer defeito, e suporte vitalício depois. A página não diz se descascar entra nessa cobertura. Pergunte ao atendimento antes de comprar e guarde a resposta."
         ],
         "images": [
           {
             "src": "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada.webp",
-            "alt": "Cecília Mauad sentada na poltrona DAMIE 2.0 em corino caramelo, com porta-copos no braço",
+            "alt": "Cecília Mauad sentada na Poltrona Reclinável 2.0 da DAMIE em corino caramelo, com porta-copos no braço",
             "caption": "A nossa 2.0, em corino caramelo.",
             "objectFit": "contain",
             "aspectRatio": 0.5625
@@ -209092,50 +209151,46 @@ export const reviewsData: unknown[] = [
           "Se o título, a descrição e as especificações não dizem a mesma coisa, peça esclarecimento por escrito antes de fechar a compra."
         ],
         "bullets": [
-          "**Material declarado.** Pergunte se o revestimento é couro de origem animal ou material sintético. Nomes de venda como corino, korano ou “couro ecológico” não substituem a composição informada pela loja.",
-          "**Partes revestidas.** Confirme o material do assento, dos braços, das costas, das laterais e do apoio de pés. A descrição da DAMIE e as das alternativas citadas não deixam clara a cobertura de todas as partes.",
-          "**Orientação para o modelo.** Peça os cuidados de limpeza e a cobertura da garantia para aquele revestimento. Guarde o anúncio e a resposta até receber e conferir a poltrona."
+          "**Material declarado.** Pergunte se o revestimento é couro de origem animal ou material sintético. Corino, korano e “couro ecológico” são nomes de venda, e nome de venda não informa a composição.",
+          "**Partes revestidas.** Pergunte se o couro cobre a poltrona inteira ou só onde o corpo encosta. Na Poltrona Reclinável 2.0, da DAMIE, ele cobre a poltrona inteira por fora. Os anúncios da Condor e da Armênia não dizem.",
+          "**Cuidados e garantia.** Peça a limpeza indicada para aquele acabamento e o que a garantia cobre no revestimento. Guarde o anúncio e a resposta até a poltrona chegar."
         ]
       },
       {
         "heading": "Como limpar poltrona de corino e de couro",
         "paragraphs": [
-          "Limpe com pano e não escolha um hidratante só porque a embalagem fala em couro. As marcas não dizem todas a mesma coisa, e até dentro da DAMIE a orientação muda de uma página para outra."
+          "No dia a dia, os dois se limpam com pano. A diferença é o hidratante: o couro da DAMIE pede, o corino dispensa."
         ],
         "comparisonTable": {
-          "caption": "O que cada anúncio diz sobre a limpeza. Confirme a instrução da peça que você comprar.",
+          "caption": "Limpeza das poltronas DAMIE. O couro segue o guia oficial da marca; o corino, o nosso guia de limpeza.",
           "headers": [
-            "Modelo e origem da orientação",
-            "O que está informado"
+            "Revestimento",
+            "Rotina",
+            "O que evitar"
           ],
           "rows": [
             [
-              "DAMIE em corino, anúncio na Magalu",
-              "Pano umedecido com água e, se necessário, sabão neutro. Não usar hidratantes, álcool ou lustra-móveis."
+              "Couro bovino",
+              "Pano úmido. Hidratante específico para couro, neutro, a cada 6 a 12 meses, com flanela seca e movimentos circulares",
+              "Sol direto prolongado, sem cortina. Vaporizador"
             ],
             [
-              "DAMIE em couro, anúncio na Magalu",
-              "A mesma limpeza, sem hidratantes, e proteção contra sol ou luz forte."
-            ],
-            [
-              "Alpha Premium em couro, Moveleiro",
-              "Pano seco ou levemente úmido, sem hidratantes; evitar sol direto constante."
-            ],
-            [
-              "Armênia em couro, Gran Belo",
-              "Somente pano umedecido."
+              "Corino",
+              "Pano úmido. Não leva o hidratante do couro",
+              "Álcool e esponja abrasiva. Vaporizador"
             ]
           ]
         },
         "postParagraphs": [
-          "O guia de cuidados da DAMIE fala em hidratante específico para couro, enquanto os anúncios acima dizem para não usar. Antes de hidratar a sua poltrona, peça à loja a orientação para o modelo e o acabamento exatos. Até esclarecer, não aplique um produto por conta própria.",
-          "O [guia de limpeza da poltrona DAMIE](https://damie.emcasacomcecilia.com/guias/poltrona-damie-como-limpar-cada-tipo-de-tecido) reúne a rotina e os relatos de uso. A facilidade de recolher um derramamento em casa não significa que qualquer bebida, produto ou tempo de contato terá o mesmo resultado."
+          "O [guia de cuidados da DAMIE](https://www.damie.com.br/blogs/guias/como-limpar-cuidar-poltrona-tecido-couro) explica o motivo do hidratante: preservar a maciez e evitar as rachaduras do ressecamento causado pelo ar-condicionado. Em sala climatizada, não pule essa etapa. Se o manual da poltrona comprada trouxer outra instrução, confirme com a marca antes de aplicar o produto. Na página da Levita, a marca diz que o couro é durável e fácil de limpar, e recomenda produtos específicos para couro na manutenção.",
+          "Aqui em casa, os líquidos ficaram na superfície do corino e saíram com pano. O relato completo está no [review da Poltrona Reclinável 2.0](/reviews/poltrona-damie-e-boa). Na Levita em couro, café e leite saíram com pano seco; para a gordura do corpo, usamos produtos próprios para couro, como conto na [experiência com a Levita](/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto).",
+          "Outra marca pode orientar diferente: na Alpha Premium, a Moveleiro manda só pano, sem hidratante. Por isso vale o que manda a marca da poltrona que você comprar. O [guia de limpeza da poltrona DAMIE](https://damie.emcasacomcecilia.com/guias/poltrona-damie-como-limpar-cada-tipo-de-tecido) traz a rotina de cada revestimento."
         ]
       },
       {
         "heading": "Onde encontrar cada opção",
         "paragraphs": [
-          "A tabela traz uma alternativa de entrada, a mesma linha DAMIE nos dois revestimentos e outros anúncios de couro. Os nomes dos materiais são os usados pelas lojas; não são uma verificação da composição por nós."
+          "A tabela traz uma elétrica de entrada em sintético, a mesma poltrona da DAMIE nos dois revestimentos e dois outros couros. O material de cada linha é o que a loja declara."
         ],
         "images": [
           {
@@ -209170,7 +209225,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Quer decidir entre os dois na mesma poltrona",
-              "[DAMIE 2.0 elétrica, base fixa](https://www.damie.com.br/products/poltrona-reclinavel-2-0)",
+              "[Poltrona Reclinável 2.0 elétrica, base fixa](https://www.damie.com.br/products/poltrona-reclinavel-2-0)",
               "Corino importado ou couro bovino",
               "R$ 3.387,12 no corino, R$ 4.575,12 no couro"
             ],
@@ -209181,36 +209236,38 @@ export const reviewsData: unknown[] = [
               "R$ 5.647,06"
             ],
             [
-              "Quer a descrição mais explícita",
-              "Alpha Premium, Moveleiro",
-              "100% couro bovino top grain",
-              "R$ 7.290"
+              "Quer outro couro, com 1 ano de garantia",
+              "[Alpha Elétrica na Amazon](https://link.amazon/B04axl8kR)",
+              "Couro natural bovino legítimo",
+              "R$ 5.690,50"
             ]
           ]
         },
         "postParagraphs": [
-          "As outras marcas não foram testadas por nós. Além do material e do preço, compare o que a garantia de cada modelo cobre: a DAMIE informa um ano, e a Matrix e a Condor, três meses."
+          "Compare também o que a garantia cobre, além do prazo. A DAMIE e a Alpha informam um ano; a Matrix e a Condor, três meses. Das outras marcas eu não testei nenhuma poltrona, então os dados são os dos anúncios."
         ]
       },
       {
         "heading": "Qual eu escolheria: corino ou couro",
         "paragraphs": [
-          "Para a nossa rotina, com criança pequena, eu continuaria no corino da 2.0, pela limpeza que tivemos e pelo preço, e longe da janela. O desgaste atrás da poltrona também faz parte desse relato; ele não deve desaparecer da decisão só porque a limpeza foi fácil."
+          "Se o orçamento permite, e a sua região é mais fresca ou a sala é climatizada, vá de couro. É o acabamento que eu escolheria, e na Poltrona Reclinável 2.0 ele cobre tudo por fora. Em troca, pede pano, hidratante e cortina.",
+          "O corino faz sentido para gastar menos na mesma poltrona e para quem quer limpeza rápida. Aqui em casa, ele foi escolhido por causa das crianças; na nossa Reclinável 2.0, porém, esfolou atrás, onde o balanço encostava na janela.",
+          "Se o calor é o que mais pesa e a sala não tem climatização, compare amostras e olhe os tecidos antes de pagar pelo couro. Não comparamos a temperatura dos dois, então eu não escolheria o corino por ele ser mais fresco."
         ],
         "bullets": [
-          "**Para gastar menos na mesma base:** a DAMIE 2.0 elétrica fixa em corino fica por R$ 3.387,12 com o CECILIA12 no cartão.",
-          "**Se você prefere couro de origem animal:** a mesma DAMIE 2.0 fixa fica por R$ 4.575,12 com o CECILIA12. Eu pagaria a diferença pelo material que quero, depois de confirmar as partes revestidas e os cuidados exigidos.",
-          "**Se o orçamento obriga a escolher entre base e revestimento:** eu priorizaria o movimento de que preciso. O couro na manual e o corino com giro e balanço têm preços próximos, mas atendem a usos diferentes."
+          "**Couro, com orçamento e clima a favor:** a Poltrona Reclinável 2.0 elétrica fixa em couro bovino fica por R$ 4.575,12 com o CECILIA12 no cartão.",
+          "**Corino, para gastar menos ou limpar rápido:** a mesma poltrona em corino fica por R$ 3.387,12 com o CECILIA12. Deixe folga para ela não raspar em nada.",
+          "**Se o dinheiro só alcança a base ou o couro:** fique com a base. A manual em couro e a elétrica com giro e balanço em corino custam quase o mesmo, e a segunda faz mais por você todo dia."
         ],
-        "emphasis": "Escolha primeiro como precisa usar a poltrona. Depois decida quanto vale pagar pelo revestimento, com a composição e os cuidados de manutenção claros."
+        "emphasis": "Com orçamento e clima a favor, eu iria de couro. Com o orçamento curto, o corino resolve, com folga para a poltrona não raspar."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Corino ou couro: qual dura mais? Não temos uma comparação controlada que responda isso para essas poltronas. O capítulo de uso relata a limpeza e o desgaste observados em casa, sem prever uma vida útil em anos.",
-          "Corino descasca com o tempo? Pode descascar, principalmente com calor, sol e atrito. Na nossa 2.0, ele esfolou no ponto de contato com a janela. Confirme a composição e os cuidados do modelo escolhido, além da cobertura de garantia para esse tipo de dano.",
-          "Couro ecológico é couro? Couro vem de pele animal, e o nome ecológico não esclarece a composição. Verifique se a descrição informa couro de origem animal ou material sintético e quais partes da poltrona recebem o revestimento.",
-          "Precisa hidratar poltrona de couro? Siga a orientação do modelo e do acabamento comprados. Se o manual e o anúncio divergirem, esclareça com a loja antes de aplicar o produto.",
+          "Corino ou couro: qual dura mais? Não temos uma comparação de vida útil dessas poltronas. O couro marca e resseca sem cuidado; no corino, a película pode esfolar ou descascar. O uso e a manutenção pesam mais que o nome do material.",
+          "Corino descasca com o tempo? Pode, principalmente com atrito, calor e sol. Na nossa poltrona, esfolou no ponto que encostava na janela. Deixe folga atrás e nas laterais.",
+          "Precisa hidratar poltrona de couro? Na DAMIE, sim: a orientação oficial é usar hidratante específico para couro, no intervalo da tabela de limpeza. Em outra marca, siga o que ela manda para o acabamento dela.",
+          "Couro ecológico é couro? Couro vem de pele animal, e o nome ecológico não esclarece a composição. Veja na descrição se o material é de origem animal ou sintético.",
           "Tem cupom para poltrona do papai de couro? O CECILIA12 dá 12% no site da DAMIE, inclusive no couro. Não vale nos anúncios da marca no Mercado Livre nem na Magalu."
         ]
       }

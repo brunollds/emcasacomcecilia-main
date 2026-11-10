@@ -13,29 +13,28 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Quanto custa subir do corino para o couro na mesma poltrona, o que descasca, como limpar cada um e como saber, antes de pagar, se o anúncio é mesmo de couro.",
+  "description": "Couro ou corino na poltrona do papai: a comparação dos dois materiais, quanto custa subir para o couro, o que descasca, como limpar e como conferir o anúncio.",
   "metaDescription": "CECILIA12 dá 12% OFF na DAMIE. Couro ou corino na poltrona do papai: quanto muda, o que descasca e como saber se é couro de verdade.",
   "publishedAt": "9 de novembro de 2026",
   "publishedAtISO": "2026-11-09",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-10",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/damie/poltrona-do-papai-couro-ou-corino-capa.webp",
-  "imageAlt": "Duas fotos de Cecília Mauad: com um copo de água na poltrona DAMIE 2.0 em corino caramelo e sentada na poltrona Levita em couro, com a faixa \"Poltrona do papai: couro ou corino\"",
+  "imageAlt": "Duas fotos de Cecília Mauad: com um copo de água na poltrona Reclinável 2.0 em corino caramelo e sentada na poltrona Levita em couro, com a faixa \"Poltrona do papai: couro ou corino\"",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
   "cons": [],
   "decision": {
     "takeIf": [
-      "Leve o corino da DAMIE 2.0, com 12% OFF pelo CECILIA12, se quer essa base com o menor preço entre os dois revestimentos.",
-      "Leve o couro da DAMIE 2.0, também com o CECILIA12, se prefere couro de origem animal e aceita a diferença e os cuidados.",
-      "Leve depois de confirmar quais partes têm o material anunciado e como cuidar desse acabamento."
+      "Leve o couro da Poltrona Reclinável 2.0, com 12% OFF pelo CECILIA12, se o orçamento permite e a casa fica em região mais fresca ou tem ambiente climatizado.",
+      "Leve o corino da Poltrona Reclinável 2.0, também com o CECILIA12, se quer gastar menos na mesma base e prioriza uma limpeza rápida."
     ],
     "skipIf": [
-      "Passe se pagar pelo revestimento faz você abrir mão da base de que precisa.",
-      "Passe se o anúncio e a descrição não permitem entender o material vendido.",
-      "Passe se a poltrona vai raspar em outro móvel ou na janela e não há como reposicioná-la."
+      "Passe longe do couro se pagar por ele faz você abrir mão da base de que precisa, ou se a poltrona vai ficar no sol e sem hidratação.",
+      "Passe longe do corino se a poltrona vai raspar na parede, na janela ou em outro móvel e não há como dar folga.",
+      "Passe longe do anúncio em que o título e a descrição dizem materiais diferentes."
     ]
   },
   "cta": {
@@ -62,24 +61,85 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Corino custa menos e foi prático de limpar na nossa poltrona; couro é de origem animal e custa mais. Escolha primeiro a base de que precisa e só depois pague pelo revestimento, sem trocar movimento por material. Antes de comprar, confirme o material no anúncio; na DAMIE, o CECILIA12 dá 12% OFF."
+        "Se o orçamento permitir e a região for mais fresca, ou a sala climatizada, vá de couro: é o acabamento mais premium da poltrona e pede hidratação e distância do sol. O corino custa menos e foi prático de limpar aqui em casa. Garanta primeiro a base; na DAMIE, o CECILIA12 dá 12% OFF."
       ]
     },
     {
       "heading": "Corino ou couro: o que muda na prática",
       "paragraphs": [
-        "Na DAMIE, “corino importado” é o revestimento sintético; “couro bovino” é o de origem animal. A página da 2.0 não informa a composição do corino nem se o couro cobre todas as partes da poltrona. São duas perguntas úteis antes de escolher pelo nome.",
-        "Para a nossa rotina com crianças, o corino da 2.0 foi prático para limpar. Na Levita em couro, café e leite também saíram com pano seco. Essa experiência não sustenta dizer que toda casa com criança deve escolher corino: preço, toque e cuidado com o acabamento também entram na decisão.",
-        "Se você quer evitar couro de origem animal, procure um revestimento sintético ou confira a composição das opções de tecido. Se o calor é decisivo, compare também com suede, bouclé e linho no [guia de tecidos da DAMIE](https://damie.emcasacomcecilia.com/guias/qual-tecido-escolher-poltrona-damie)."
+        "Muda o material, e o nome parecido engana. Couro é pele animal curtida, com um acabamento por cima que varia de marca para marca. Corino é um sintético que imita a aparência dela: uma camada plástica sobre um tecido.",
+        "Regra prática, sem teste nosso: a tabela vale para couro bovino e para os sintéticos da família do PU e do PVC em geral, e o desempenho de cada peça depende do acabamento e da formulação. Não há medição de respirabilidade, de atrito nem de duração dessas poltronas."
+      ],
+      "comparisonTable": {
+        "caption": "Couro bovino e corino, atributo por atributo. Comparação qualitativa, sem medição nessas poltronas.",
+        "headers": [
+          "Atributo",
+          "Couro bovino",
+          "Corino"
+        ],
+        "rows": [
+          [
+            "O que é",
+            "Pele animal curtida",
+            "Material sintético, da família do PU e do PVC"
+          ],
+          [
+            "Estrutura da superfície",
+            "Fibras de colágeno entrelaçadas, com pigmento e camadas de acabamento que variam de marca para marca",
+            "Uma camada plástica sobre um suporte de tecido"
+          ],
+          [
+            "Respirabilidade",
+            "Deixa passar vapor em algum grau, menos quando o acabamento é pesado",
+            "Respira pouco; em geral o PVC menos que o PU"
+          ],
+          [
+            "Calor",
+            "Esquenta mais que tecido em dia abafado",
+            "Também esquenta mais que tecido; entre os dois, não há medição"
+          ],
+          [
+            "Líquidos",
+            "Depende do acabamento; nenhum revestimento é imune a manchas",
+            "O líquido fica por cima da película"
+          ],
+          [
+            "Atrito",
+            "Ganha marcas de uso, e o acabamento também desgasta",
+            "A película pode esfolar"
+          ],
+          [
+            "Como envelhece",
+            "Pode ganhar pátina, conforme o acabamento; resseca e pode rachar no sol e sem manutenção",
+            "A película pode rachar ou descascar com atrito, calor, sol e tempo; em alguns poliuretanos, umidade e calor aceleram isso (hidrólise)"
+          ],
+          [
+            "Manutenção",
+            "Pano e, na DAMIE, hidratante específico para couro",
+            "Pano; a rotina de hidratação do couro não serve para ele"
+          ],
+          [
+            "Preço",
+            "O mais caro dos revestimentos",
+            "Perto do preço dos tecidos"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A conclusão sai da estrutura. No couro, o uso marca a pele e o acabamento, e ressecar é o que mais pesa contra ele. O corino depende de uma película colada num tecido. Enquanto ela está inteira, o líquido fica por cima e a limpeza é rápida; os pontos fracos dela são atrito, calor e sol.",
+        "Então o couro cobra mais na compra e na rotina, com hidratante e cortina. O corino cobra menos nas duas, e pede cuidado com onde a poltrona encosta. Qual dura mais em anos? Não sei: falta medição dessas poltronas. No calor, os dois perdem para suede, bouclé e linho; o [guia de tecidos da DAMIE](https://damie.emcasacomcecilia.com/guias/qual-tecido-escolher-poltrona-damie) compara os cinco.",
+        "A DAMIE não diz de que é feito o corino dela. O [guia de revestimentos da marca](https://www.damie.com.br/blogs/guias/guia-tecidos-boucle-couro-linho-suede) avisa que o nome comercial não garante resistência nem impermeabilidade, e que dá para pedir amostras ao atendimento. Na dúvida, peça a amostra dos dois e compare na mão."
       ]
     },
     {
       "heading": "Quanto custa subir do corino para o couro",
       "paragraphs": [
-        "A comparação abaixo mantém a DAMIE 2.0 e a mesma base, mudando o revestimento. Todos os valores já incluem os 12% do CECILIA12."
+        "O couro é o revestimento mais caro da poltrona, e a diferença passa de mil reais em quase todas as bases. Ele é o mais premium de todos: fica acima do corino e também de suede, bouclé e linho. Premium aqui quer dizer acabamento e preço; ele não promete ser mais fresco nem durar mais anos. Na Poltrona Reclinável 2.0 da DAMIE, cobre a poltrona inteira por fora.",
+        "As desvantagens vêm junto. Custa mais, esquenta em dia abafado, resseca com sol e ar-condicionado se ficar sem hidratante, e ganha marcas com o uso. Quem evita material de origem animal fica no corino ou nos tecidos.",
+        "A tabela mantém a mesma poltrona e a mesma base, mudando só o revestimento. Todos os valores já incluem os 12% do CECILIA12."
       ],
       "comparisonTable": {
-        "caption": "DAMIE 2.0 no cartão, com CECILIA12 e sem frete, em 9 de novembro. Preços sujeitos a alteração.",
+        "caption": "Poltrona Reclinável 2.0 no cartão, com CECILIA12 e sem frete, em 9 de novembro. Preços sujeitos a alteração.",
         "headers": [
           "Base",
           "Corino importado",
@@ -114,24 +174,23 @@
         ]
       },
       "postParagraphs": [
-        "Repare na tabela: a manual em couro custa quase o mesmo que a elétrica com giro e balanço em corino, e o funcionamento é outro. Se você precisa reclinar no botão ou quer o balanço, eu escolheria primeiro essa base e depois o revestimento.",
-        "Conta nossa, com os preços da tabela: há R$ 36,08 entre essas duas configurações. Esse exemplo mostra por que vale comparar o que a poltrona faz, além de quanto custa o material. O [guia de preços das poltronas elétricas](/reviews/poltrona-do-papai-eletrica-quanto-custa) detalha as bases.",
-        "O CECILIA12 vale no site da DAMIE, em todas as formas de pagamento, e soma com promoções, os 10% do Pix e o desconto por quantidade. Não acumula com outro cupom nem com o giftback de 15%, que é crédito para uma compra futura. Não vale no Mercado Livre nem nos anúncios da DAMIE na Magalu. Veja as condições do [cupom DAMIE](/cupons/damie)."
+        "Repare na tabela: a manual em couro custa quase o mesmo que a elétrica com giro e balanço em corino, e o funcionamento é outro. Conta nossa, com os preços da tabela: há R$ 36,08 entre essas duas configurações.",
+        "Por isso o couro entra depois da base. Se você precisa reclinar no botão ou quer o balanço, garanta isso primeiro e veja se o orçamento ainda alcança o couro. O [guia de preços das poltronas elétricas](/reviews/poltrona-do-papai-eletrica-quanto-custa) detalha as bases.",
+        "O CECILIA12 dá 12% OFF no site da DAMIE, em todas as formas de pagamento, e soma com promoções, com os 10% do Pix e com o desconto por quantidade. Não acumula com outro cupom nem com o giftback de 15%. Não vale no Mercado Livre nem nos anúncios da DAMIE na Magalu. Veja as condições do [cupom DAMIE](/cupons/damie)."
       ]
     },
     {
       "heading": "Corino descasca? O que aconteceu na nossa 2.0",
       "paragraphs": [
-        "Pode descascar. Regra prática, sem teste nosso: o corino é uma película sobre um tecido, e calor, sol, atrito e tempo pesam contra ela. Por isso, mantenha a poltrona longe do sol direto e de fonte de calor.",
-        "Recebi em parceria a DAMIE 2.0 em corino caramelo e a Levita em couro caramelo. São modelos diferentes, usados em situações diferentes; não fizemos uma comparação controlada de resistência entre os revestimentos.",
-        "Na 2.0, o corino esfolou na parte de trás em menos de seis meses, no ponto em que o balanço encostava na janela. Esse desgaste precisa entrar na escolha. Deixe espaço para a poltrona se movimentar sem raspar na parede, na janela ou em outro móvel.",
-        "Ao mesmo tempo, a limpeza do corino foi prática na nossa rotina: os líquidos ficaram na superfície e saíram com pano. O relato completo está em [a DAMIE 2.0 é boa?](/reviews/poltrona-damie-e-boa). Na Levita em couro, café e leite saíram com pano seco; para a gordura do corpo, usamos produtos próprios para couro. Veja a [experiência com a Levita](/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto).",
-        "Esses episódios não permitem prever quantos anos cada revestimento vai durar. A DAMIE anuncia um ano de garantia; pergunte à loja qual é a cobertura para o revestimento, inclusive em caso de descascamento ou dano por atrito."
+        "Pode descascar. A película do corino sofre com atrito, calor, sol e tempo, então o lugar da poltrona na sala pesa tanto quanto o material.",
+        "Recebi: a Poltrona Reclinável 2.0 em corino caramelo e a Levita em couro caramelo, as duas em parceria com a DAMIE. São modelos diferentes, usados de jeitos diferentes, e isso não vira teste de resistência entre os materiais.",
+        "Na 2.0, o corino esfolou na parte de trás em menos de seis meses, no ponto em que o balanço encostava na janela. A dica é deixar folga: a poltrona precisa reclinar e balançar sem raspar na parede, na janela ou em outro móvel.",
+        "A loja informa: a Poltrona Reclinável 2.0 tem 1 ano de garantia total de fábrica contra qualquer defeito, e suporte vitalício depois. A página não diz se descascar entra nessa cobertura. Pergunte ao atendimento antes de comprar e guarde a resposta."
       ],
       "images": [
         {
           "src": "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada.webp",
-          "alt": "Cecília Mauad sentada na poltrona DAMIE 2.0 em corino caramelo, com porta-copos no braço",
+          "alt": "Cecília Mauad sentada na Poltrona Reclinável 2.0 da DAMIE em corino caramelo, com porta-copos no braço",
           "caption": "A nossa 2.0, em corino caramelo.",
           "objectFit": "contain",
           "aspectRatio": 0.5625
@@ -152,50 +211,46 @@
         "Se o título, a descrição e as especificações não dizem a mesma coisa, peça esclarecimento por escrito antes de fechar a compra."
       ],
       "bullets": [
-        "**Material declarado.** Pergunte se o revestimento é couro de origem animal ou material sintético. Nomes de venda como corino, korano ou “couro ecológico” não substituem a composição informada pela loja.",
-        "**Partes revestidas.** Confirme o material do assento, dos braços, das costas, das laterais e do apoio de pés. A descrição da DAMIE e as das alternativas citadas não deixam clara a cobertura de todas as partes.",
-        "**Orientação para o modelo.** Peça os cuidados de limpeza e a cobertura da garantia para aquele revestimento. Guarde o anúncio e a resposta até receber e conferir a poltrona."
+        "**Material declarado.** Pergunte se o revestimento é couro de origem animal ou material sintético. Corino, korano e “couro ecológico” são nomes de venda, e nome de venda não informa a composição.",
+        "**Partes revestidas.** Pergunte se o couro cobre a poltrona inteira ou só onde o corpo encosta. Na Poltrona Reclinável 2.0, da DAMIE, ele cobre a poltrona inteira por fora. Os anúncios da Condor e da Armênia não dizem.",
+        "**Cuidados e garantia.** Peça a limpeza indicada para aquele acabamento e o que a garantia cobre no revestimento. Guarde o anúncio e a resposta até a poltrona chegar."
       ]
     },
     {
       "heading": "Como limpar poltrona de corino e de couro",
       "paragraphs": [
-        "Limpe com pano e não escolha um hidratante só porque a embalagem fala em couro. As marcas não dizem todas a mesma coisa, e até dentro da DAMIE a orientação muda de uma página para outra."
+        "No dia a dia, os dois se limpam com pano. A diferença é o hidratante: o couro da DAMIE pede, o corino dispensa."
       ],
       "comparisonTable": {
-        "caption": "O que cada anúncio diz sobre a limpeza. Confirme a instrução da peça que você comprar.",
+        "caption": "Limpeza das poltronas DAMIE. O couro segue o guia oficial da marca; o corino, o nosso guia de limpeza.",
         "headers": [
-          "Modelo e origem da orientação",
-          "O que está informado"
+          "Revestimento",
+          "Rotina",
+          "O que evitar"
         ],
         "rows": [
           [
-            "DAMIE em corino, anúncio na Magalu",
-            "Pano umedecido com água e, se necessário, sabão neutro. Não usar hidratantes, álcool ou lustra-móveis."
+            "Couro bovino",
+            "Pano úmido. Hidratante específico para couro, neutro, a cada 6 a 12 meses, com flanela seca e movimentos circulares",
+            "Sol direto prolongado, sem cortina. Vaporizador"
           ],
           [
-            "DAMIE em couro, anúncio na Magalu",
-            "A mesma limpeza, sem hidratantes, e proteção contra sol ou luz forte."
-          ],
-          [
-            "Alpha Premium em couro, Moveleiro",
-            "Pano seco ou levemente úmido, sem hidratantes; evitar sol direto constante."
-          ],
-          [
-            "Armênia em couro, Gran Belo",
-            "Somente pano umedecido."
+            "Corino",
+            "Pano úmido. Não leva o hidratante do couro",
+            "Álcool e esponja abrasiva. Vaporizador"
           ]
         ]
       },
       "postParagraphs": [
-        "O guia de cuidados da DAMIE fala em hidratante específico para couro, enquanto os anúncios acima dizem para não usar. Antes de hidratar a sua poltrona, peça à loja a orientação para o modelo e o acabamento exatos. Até esclarecer, não aplique um produto por conta própria.",
-        "O [guia de limpeza da poltrona DAMIE](https://damie.emcasacomcecilia.com/guias/poltrona-damie-como-limpar-cada-tipo-de-tecido) reúne a rotina e os relatos de uso. A facilidade de recolher um derramamento em casa não significa que qualquer bebida, produto ou tempo de contato terá o mesmo resultado."
+        "O [guia de cuidados da DAMIE](https://www.damie.com.br/blogs/guias/como-limpar-cuidar-poltrona-tecido-couro) explica o motivo do hidratante: preservar a maciez e evitar as rachaduras do ressecamento causado pelo ar-condicionado. Em sala climatizada, não pule essa etapa. Se o manual da poltrona comprada trouxer outra instrução, confirme com a marca antes de aplicar o produto. Na página da Levita, a marca diz que o couro é durável e fácil de limpar, e recomenda produtos específicos para couro na manutenção.",
+        "Aqui em casa, os líquidos ficaram na superfície do corino e saíram com pano. O relato completo está no [review da Poltrona Reclinável 2.0](/reviews/poltrona-damie-e-boa). Na Levita em couro, café e leite saíram com pano seco; para a gordura do corpo, usamos produtos próprios para couro, como conto na [experiência com a Levita](/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto).",
+        "Outra marca pode orientar diferente: na Alpha Premium, a Moveleiro manda só pano, sem hidratante. Por isso vale o que manda a marca da poltrona que você comprar. O [guia de limpeza da poltrona DAMIE](https://damie.emcasacomcecilia.com/guias/poltrona-damie-como-limpar-cada-tipo-de-tecido) traz a rotina de cada revestimento."
       ]
     },
     {
       "heading": "Onde encontrar cada opção",
       "paragraphs": [
-        "A tabela traz uma alternativa de entrada, a mesma linha DAMIE nos dois revestimentos e outros anúncios de couro. Os nomes dos materiais são os usados pelas lojas; não são uma verificação da composição por nós."
+        "A tabela traz uma elétrica de entrada em sintético, a mesma poltrona da DAMIE nos dois revestimentos e dois outros couros. O material de cada linha é o que a loja declara."
       ],
       "images": [
         {
@@ -230,7 +285,7 @@
           ],
           [
             "Quer decidir entre os dois na mesma poltrona",
-            "[DAMIE 2.0 elétrica, base fixa](https://www.damie.com.br/products/poltrona-reclinavel-2-0)",
+            "[Poltrona Reclinável 2.0 elétrica, base fixa](https://www.damie.com.br/products/poltrona-reclinavel-2-0)",
             "Corino importado ou couro bovino",
             "R$ 3.387,12 no corino, R$ 4.575,12 no couro"
           ],
@@ -241,36 +296,38 @@
             "R$ 5.647,06"
           ],
           [
-            "Quer a descrição mais explícita",
-            "Alpha Premium, Moveleiro",
-            "100% couro bovino top grain",
-            "R$ 7.290"
+            "Quer outro couro, com 1 ano de garantia",
+            "[Alpha Elétrica na Amazon](https://link.amazon/B04axl8kR)",
+            "Couro natural bovino legítimo",
+            "R$ 5.690,50"
           ]
         ]
       },
       "postParagraphs": [
-        "As outras marcas não foram testadas por nós. Além do material e do preço, compare o que a garantia de cada modelo cobre: a DAMIE informa um ano, e a Matrix e a Condor, três meses."
+        "Compare também o que a garantia cobre, além do prazo. A DAMIE e a Alpha informam um ano; a Matrix e a Condor, três meses. Das outras marcas eu não testei nenhuma poltrona, então os dados são os dos anúncios."
       ]
     },
     {
       "heading": "Qual eu escolheria: corino ou couro",
       "paragraphs": [
-        "Para a nossa rotina, com criança pequena, eu continuaria no corino da 2.0, pela limpeza que tivemos e pelo preço, e longe da janela. O desgaste atrás da poltrona também faz parte desse relato; ele não deve desaparecer da decisão só porque a limpeza foi fácil."
+        "Se o orçamento permite, e a sua região é mais fresca ou a sala é climatizada, vá de couro. É o acabamento que eu escolheria, e na Poltrona Reclinável 2.0 ele cobre tudo por fora. Em troca, pede pano, hidratante e cortina.",
+        "O corino faz sentido para gastar menos na mesma poltrona e para quem quer limpeza rápida. Aqui em casa, ele foi escolhido por causa das crianças; na nossa Reclinável 2.0, porém, esfolou atrás, onde o balanço encostava na janela.",
+        "Se o calor é o que mais pesa e a sala não tem climatização, compare amostras e olhe os tecidos antes de pagar pelo couro. Não comparamos a temperatura dos dois, então eu não escolheria o corino por ele ser mais fresco."
       ],
       "bullets": [
-        "**Para gastar menos na mesma base:** a DAMIE 2.0 elétrica fixa em corino fica por R$ 3.387,12 com o CECILIA12 no cartão.",
-        "**Se você prefere couro de origem animal:** a mesma DAMIE 2.0 fixa fica por R$ 4.575,12 com o CECILIA12. Eu pagaria a diferença pelo material que quero, depois de confirmar as partes revestidas e os cuidados exigidos.",
-        "**Se o orçamento obriga a escolher entre base e revestimento:** eu priorizaria o movimento de que preciso. O couro na manual e o corino com giro e balanço têm preços próximos, mas atendem a usos diferentes."
+        "**Couro, com orçamento e clima a favor:** a Poltrona Reclinável 2.0 elétrica fixa em couro bovino fica por R$ 4.575,12 com o CECILIA12 no cartão.",
+        "**Corino, para gastar menos ou limpar rápido:** a mesma poltrona em corino fica por R$ 3.387,12 com o CECILIA12. Deixe folga para ela não raspar em nada.",
+        "**Se o dinheiro só alcança a base ou o couro:** fique com a base. A manual em couro e a elétrica com giro e balanço em corino custam quase o mesmo, e a segunda faz mais por você todo dia."
       ],
-      "emphasis": "Escolha primeiro como precisa usar a poltrona. Depois decida quanto vale pagar pelo revestimento, com a composição e os cuidados de manutenção claros."
+      "emphasis": "Com orçamento e clima a favor, eu iria de couro. Com o orçamento curto, o corino resolve, com folga para a poltrona não raspar."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Corino ou couro: qual dura mais? Não temos uma comparação controlada que responda isso para essas poltronas. O capítulo de uso relata a limpeza e o desgaste observados em casa, sem prever uma vida útil em anos.",
-        "Corino descasca com o tempo? Pode descascar, principalmente com calor, sol e atrito. Na nossa 2.0, ele esfolou no ponto de contato com a janela. Confirme a composição e os cuidados do modelo escolhido, além da cobertura de garantia para esse tipo de dano.",
-        "Couro ecológico é couro? Couro vem de pele animal, e o nome ecológico não esclarece a composição. Verifique se a descrição informa couro de origem animal ou material sintético e quais partes da poltrona recebem o revestimento.",
-        "Precisa hidratar poltrona de couro? Siga a orientação do modelo e do acabamento comprados. Se o manual e o anúncio divergirem, esclareça com a loja antes de aplicar o produto.",
+        "Corino ou couro: qual dura mais? Não temos uma comparação de vida útil dessas poltronas. O couro marca e resseca sem cuidado; no corino, a película pode esfolar ou descascar. O uso e a manutenção pesam mais que o nome do material.",
+        "Corino descasca com o tempo? Pode, principalmente com atrito, calor e sol. Na nossa poltrona, esfolou no ponto que encostava na janela. Deixe folga atrás e nas laterais.",
+        "Precisa hidratar poltrona de couro? Na DAMIE, sim: a orientação oficial é usar hidratante específico para couro, no intervalo da tabela de limpeza. Em outra marca, siga o que ela manda para o acabamento dela.",
+        "Couro ecológico é couro? Couro vem de pele animal, e o nome ecológico não esclarece a composição. Veja na descrição se o material é de origem animal ou sintético.",
         "Tem cupom para poltrona do papai de couro? O CECILIA12 dá 12% no site da DAMIE, inclusive no couro. Não vale nos anúncios da marca no Mercado Livre nem na Magalu."
       ]
     }
