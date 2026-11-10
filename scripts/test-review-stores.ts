@@ -277,6 +277,30 @@ for (const block of blocks) {
   assert.equal(block.couponPageHref, `/cupons/${block.slug}`);
 }
 assert.deepEqual(getArticleStoreBlocks(base, 'pt', now), [], 'uma loja: nenhum bloco a mais');
+
+// Código com prazo no artigo de várias lojas: a linha da I Wanna Sleep leva os prazos pendentes dela (o ativo e o
+// agendado), a da outra loja nenhum, e o que venceu sai.
+const withIws = { ...multiReview, affiliate: ['i-wanna-sleep', 'black-skull'] };
+const limitedAt = (iso: string) =>
+  getArticleStoreBlocks(withIws, 'pt', Date.parse(iso)).map(({ slug, limitedCodes }) => [slug, (limitedCodes ?? []).map(({ endsAt }) => endsAt.slice(0, 10))]);
+assert.deepEqual(limitedAt('2026-11-05T12:00:00-03:00'), [['i-wanna-sleep', ['2026-11-08', '2026-11-27']], ['black-skull', []]], 'prazo ativo e agendado');
+assert.deepEqual(limitedAt('2026-11-10T12:00:00-03:00'), [['i-wanna-sleep', ['2026-11-27']], ['black-skull', []]], 'só o agendado');
+assert.deepEqual(limitedAt('2026-11-28T12:00:00-03:00'), [['i-wanna-sleep', []], ['black-skull', []]], 'tudo vencido');
+assert.deepEqual(
+  getArticleStoreBlocks(withIws, 'en', Date.parse('2026-11-05T12:00:00-03:00')).flatMap(({ limitedCodes }) => limitedCodes ?? []),
+  [],
+  'prazo só em PT'
+);
+const withIwsRows = renderToStaticMarkup(
+  createElement(ArticleStoreCodes, {
+    variant: 'top',
+    blocks: getArticleStoreBlocks(withIws, 'pt', Date.parse('2026-11-05T12:00:00-03:00')),
+    locale: 'pt',
+    reviewSlug: 'x',
+    storeLabel: 'Ir para a loja',
+  })
+);
+assert.ok(!withIwsRows.includes('CECIEMCASA15'), 'o código com prazo fica fora do HTML (só no navegador)');
 assert.equal(getArticleStoreBlock(multiReview, 'pt', now), null, 'o artigo com lista não tem o bloco de uma loja');
 
 const render = (variant: 'top' | 'end' | 'sidebar' | 'drawer') =>

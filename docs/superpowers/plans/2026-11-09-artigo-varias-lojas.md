@@ -152,3 +152,9 @@ gerados e os nomes que só contêm a palavra (`affiliate-link`, `affiliateUrl`, 
 - Base fixa: o build do branch contra o c0a392f8 do mesmo dia dá os 10.025 arquivos iguais, ignorando o BUILD_ID, os
   nomes e ids dos chunks e o nome do CSS (o CSS ganhou as classes novas do dock e da gaveta).
 - A trava (`MULTI_STORE_CONTENT_ALLOWED`) segue desligada até a revisão desta fase.
+- Revisão da fase 4: o `test:build-output` confere a faixa do código com prazo também nas linhas das várias lojas
+  (`multiLimitedCodeProblems`: o invólucro vazio com `data-nosnippet` só na linha da loja com prazo, nos 4 lugares, no
+  ponto do recorte; o payload com os prazos e o código fora do HTML, do `<head>` e do JSON-LD, pela mesma
+  `limitedCodeLeakProblems` do artigo de uma loja), com um caso de prazo ativo e agendado. Conferido de ponta a ponta
+  com a lista Black Skull, Max Titanium, Probiótica e I Wanna Sleep (o prazo de 26–27/11 agendado): 4 invólucros, todos
+  na linha da I Wanna Sleep, e a lateral com 782 px.

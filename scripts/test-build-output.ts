@@ -1115,6 +1115,12 @@ function limitedCodeLineProblems(body: string, html: string, own: readonly Artic
   placed += inDrawer;
   if (inDrawer !== expected) problems.push(`gaveta: ${inDrawer} invólucros da faixa em vez de ${expected}`);
   if (placed !== wrappers.length) problems.push(`${wrappers.length - placed} invólucros da faixa fora dos recortes e da gaveta`);
+  return [...problems, ...limitedCodeLeakProblems(body, html, own, allCodes)];
+}
+// O que vale para a faixa do artigo de uma loja e para a das linhas do de várias lojas: o payload leva os prazos, e o
+// código fica fora do HTML, do <head> e do JSON-LD; o código com prazo que não é do artigo não aparece em lugar nenhum.
+function limitedCodeLeakProblems(body: string, html: string, own: readonly ArticleLimitedCode[], allCodes: readonly string[]): string[] {
+  const problems: string[] = [];
   const payload = flightPayloadOf(html);
   if (payload.includes('limitedCodes') !== own.length > 0) {
     problems.push(own.length > 0 ? 'payload sem o campo limitedCodes' : 'campo limitedCodes no payload de artigo sem código com prazo');
@@ -1137,7 +1143,79 @@ function limitedCodeLineProblems(body: string, html: string, own: readonly Artic
   }
   return problems;
 }
-// O guarda acima passa no artigo certo, no artigo sem prazo, com outra <dialog> antes da gaveta e com um código com prazo
+// O artigo de várias lojas: a faixa vai na linha de cada loja com prazo pendente, uma por lugar (topo, lateral, fim e
+// gaveta), no mesmo ponto do recorte (depois do "Copiar" e do link, fora dele, antes da dica de copiado); a linha da loja
+// sem prazo e o resto da página ficam sem invólucro.
+function multiLimitedCodeProblems(body: string, html: string, blocks: readonly ArticleStoreBlock[], allCodes: readonly string[]): string[] {
+  const problems: string[] = [];
+  const wrappersIn = (part: string) => elementsWithAttribute(part, 'data-limited-code-lines');
+  const wrappers = wrappersIn(body);
+  for (const wrapper of wrappers) {
+    if (!/^<div\b[^>]*\sdata-nosnippet=""[^>]*><\/div>$/.test(wrapper)) problems.push(`invólucro da faixa com conteúdo ou sem data-nosnippet: ${wrapper.slice(0, 160)}`);
+  }
+  const own = blocks.flatMap((block) => block.limitedCodes ?? []);
+  const places: string[] = [];
+  let placed = 0;
+  for (const match of body.matchAll(/<section\b[^>]*\sdata-store-codes="(\w+)"/g)) {
+    const place = match[1];
+    places.push(place);
+    const section = elementAt(body, match.index);
+    for (const row of section.matchAll(/<li\b[^>]*\sdata-store-code="([^"]+)"/g)) {
+      const slug = row[1];
+      const line = elementAt(section, row.index);
+      const expected = blocks.find((block) => block.slug === slug)?.limitedCodes?.length ? 1 : 0;
+      const found = wrappersIn(line).length;
+      placed += found;
+      if (found !== expected) problems.push(`${place}, ${slug}: ${found} invólucros da faixa em vez de ${expected}`);
+      if (found === 0) continue;
+      const at = line.indexOf(' data-limited-code-lines=');
+      if (at < Math.max(line.lastIndexOf('<a '), line.lastIndexOf(' data-copied='))) problems.push(`${place}, ${slug}: a faixa antes do "Copiar" ou do link da loja`);
+      else if (line.lastIndexOf('</a>', at) < line.lastIndexOf('<a ', at)) problems.push(`${place}, ${slug}: a faixa dentro do link da loja`);
+      if (line.lastIndexOf('<p aria-hidden="true"') < at) problems.push(`${place}, ${slug}: a faixa depois da dica de copiado`);
+    }
+  }
+  if (own.length > 0 && [...places].sort().join() !== 'drawer,end,sidebar,top') {
+    problems.push(`linhas em ${places.join(', ') || 'nenhum lugar'} em vez de topo, lateral, fim e gaveta`);
+  }
+  if (placed !== wrappers.length) problems.push(`${wrappers.length - placed} invólucros da faixa fora das linhas das lojas`);
+  return [...problems, ...limitedCodeLeakProblems(body, html, own, allCodes)];
+}
+// O guarda das várias lojas: a I Wanna Sleep com um prazo ativo e um agendado (o mesmo código, datas diferentes) ao lado de
+// uma loja sem prazo. Passa no certo; falha com a faixa na linha errada, a que falta num lugar, a gaveta sem linhas, o
+// invólucro com o texto, o código no HTML e o prazo agendado fora do payload.
+{
+  const own: ArticleLimitedCode[] = [
+    { code: 'CECIEMCASA15', startsAt: '2026-11-04T00:00:00-03:00', endsAt: '2026-11-08T23:59:59-03:00', label: 'Até 8 de novembro: 15% OFF com o CECIEMCASA15' },
+    { code: 'CECIEMCASA15', startsAt: '2026-11-26T00:00:00-03:00', endsAt: '2026-11-27T23:59:59-03:00', label: 'Até 27 de novembro: 15% OFF com o CECIEMCASA15' },
+  ];
+  const iws: ArticleStoreBlock = { brand: 'I Wanna Sleep', slug: 'i-wanna-sleep', code: 'CECIEMCASA', rules: [], storeSponsored: true, limitedCodes: own };
+  const skull: ArticleStoreBlock = { brand: 'Black Skull', slug: 'black-skull', code: 'CECILIA10', rules: [], storeSponsored: true };
+  const wrapper = '<div data-nosnippet="" data-limited-code-lines=""></div>';
+  const row = (slug: string, wrap: string) =>
+    `<li data-store-code="${slug}"><code>X</code><button data-copied="false">Copiar</button>` +
+    `<div><a href="https://loja.example/${slug}" rel="sponsored">Ir</a><a href="/cupons/${slug}">Regras</a></div>${wrap}<p aria-hidden="true">Copiado.</p></li>`;
+  type Rows = { iws?: string; skull?: string };
+  const section = (place: string, { iws: iwsWrap = wrapper, skull: skullWrap = '' }: Rows = {}) =>
+    `<section data-store-codes="${place}"><ul>${row('i-wanna-sleep', iwsWrap)}${row('black-skull', skullWrap)}</ul></section>`;
+  const page = ({ top = {} as Rows, drawer = true, extra = '' } = {}) =>
+    `<main>${section('top', top)}${section('sidebar')}${section('end')}${extra}</main><dialog><nav></nav>${drawer ? section('drawer') : ''}</dialog>`;
+  const flight = (data: string) => `<script>self.__next_f.push([1,${JSON.stringify(data)}])</script>`;
+  const check = (markup: string, payload = flight(JSON.stringify({ limitedCodes: own }))) => {
+    const html = `<html><head></head><body>${markup}${payload}</body></html>`;
+    return multiLimitedCodeProblems(bodyOf(html), html, [iws, skull], ['CECIEMCASA15']);
+  };
+  const fails = (problems: string[], pattern: RegExp, name: string) =>
+    assert.ok(problems.length > 0 && problems.some((problem) => pattern.test(problem)), `${name}: ${problems.join('; ') || 'passou'}`);
+  assert.deepEqual(check(page()), [], 'várias lojas: prazo ativo e agendado');
+  fails(check(page({ top: { skull: wrapper } })), /top, black-skull: 1 invólucros/, 'faixa na loja sem prazo');
+  fails(check(page({ top: { iws: '' } })), /top, i-wanna-sleep: 0 invólucros/, 'faixa que falta no topo');
+  fails(check(page({ drawer: false })), /em vez de topo, lateral, fim e gaveta/, 'gaveta sem as linhas');
+  fails(check(page({ top: { iws: '<div data-nosnippet="" data-limited-code-lines="">Até 8</div>' } })), /com conteúdo/, 'invólucro com texto');
+  fails(check(page({ extra: '<p>Use CECIEMCASA15.</p>' })), /CECIEMCASA15 no HTML/, 'código no HTML');
+  fails(check(page(), flight(JSON.stringify({ limitedCodes: own.slice(0, 1) }))), /2026-11-26/, 'prazo agendado fora do payload');
+}
+// O guarda da faixa do artigo de uma loja (limitedCodeLineProblems) passa no artigo certo, no artigo sem prazo, com outra
+// <dialog> antes da gaveta e com um código com prazo
 // que só aparece dentro de uma palavra maior. Cada caso de erro falha só pela conferência que ele mira: faixa no HTML,
 // invólucro sem o data-nosnippet, faixa antes do "Copiar", dentro do link da loja ou depois da dica, dois invólucros num
 // recorte e nenhum na gaveta, invólucro fora dos recortes, recorte que falta, payload sem o campo, sem o código ou sem as
@@ -1757,8 +1835,15 @@ for (const url of articleUrls) {
     cutoutStoreLinks += storeLinks.links;
     assert.deepEqual(drawerStoreLinkProblems(dialog), [], `${pagePath}: link da loja na gaveta do celular`);
   }
-  const ownLimitedCodes = storeBlock?.limitedCodes ?? [];
-  assert.deepEqual(limitedCodeLineProblems(body, html, ownLimitedCodes, ALL_LIMITED_CODES), [], `${pagePath}: faixa do código com prazo`);
+  // No artigo de várias lojas, a faixa vai na linha de cada loja com prazo.
+  const ownLimitedCodes = storeBlock?.limitedCodes ?? multiBlocks.flatMap((block) => block.limitedCodes ?? []);
+  assert.deepEqual(
+    multiBlocks.length > 0
+      ? multiLimitedCodeProblems(body, html, multiBlocks, ALL_LIMITED_CODES)
+      : limitedCodeLineProblems(body, html, ownLimitedCodes, ALL_LIMITED_CODES),
+    [],
+    `${pagePath}: faixa do código com prazo`
+  );
   if (ownLimitedCodes.length > 0) limitedCodeArticles++;
   const codeBlocks = storeBlock ? [storeBlock] : multiBlocks;
   const citesStoreCode = codeBlocks.some(({ code }) => code && bodyCitesCode(review, code));
