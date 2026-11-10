@@ -218,3 +218,10 @@ Nada foi editado. Propostas para o Bruno aprovar:
 - Preço: o 100% Whey Pote voltou a R$ 210,39 em todos os sabores (a promoção de R$ 179,90 acabou); a tabela usa o preço de venda do dia, com o de lista entre parênteses.
 - Job 3 (Fable): aprovado com ajustes de frase, aplicados, salvo três trocas que eu não aceitei (posologia implícita em "uma por dia", "no fim da tabela" falso e uma frase sem fonte sobre o pote).
 - `max-titanium-e-boa`: as seções de whey e a tabela viraram um resumo com um link para este artigo; FAQ com o Pro e o refil como os mais baratos por grama.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/max-titanium/whey-max-titanium-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pote de 900 g do Top Whey 3W + Sabor da Max Titanium, sabor brigadeiro.
+- **Origem:** foto oficial do pote, a mesma da seção do Top Whey 3W; ela representa a linha, sem apontar vencedor. Texto: "Whey Max: qual escolher?" e "Entenda as diferenças".
+- **Lote 3 do piloto de capas:** composição do Codex aprovada pelo Bruno em 10/11/2026 (`docs/auditoria-capas/lote-20261110-02/` no checkout principal): painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior fica no CDN, sem uso.

@@ -154,3 +154,10 @@ Total: 76.
 - Job 3 com o Fable 5.1, a pedido do Bruno: aprovado com 6 ajustes, todos aplicados (o porquê do protetor que a marca não dá, a abertura de alergia pelo pré-teste, a frase de entrada em "Quanto tempo dura", a origem repetida em "Quem não deve usar", os canais de venda alinhados ao `fita-up-onde-comprar-original` e uma repetição de palavra).
 - Capa: o MAUAD não vai na capa (o gerador barra), ao contrário do que a seção 5 pedia. A primeira folha usava a foto da modelo com a caixa, a mesma da capa do `fita-up-ou-blumi-ou-lib`; o Bruno apontou e a capa saiu de duas fotos da loja que nenhuma capa nossa usa (a modelo com o rolo e a de camisa aberta com o selo "tamanho G"). Opção B aprovada.
 - Mudanças em artigos no ar: o `fita-up-como-usar` (R8, reutilizar e plus size) e o `toda-up-e-confiavel` (F4) saíram no #647. Quando este for ao ar, os cuidados do `fita-up-como-usar` encurtam e linkam para cá (Fila, seção 4), e o `toda-up-e-boa` ganha a linha com o link (seção 10).
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/fita-up-cuidados-cola-pele-agua-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo segurando uma faixa de Fita Up bege.
+- **Origem:** foto oficial da Toda Up, já usada na capa anterior deste artigo. Texto: "Fita Up descola?" e "Pele, suor e água".
+- **Lote 3 do piloto de capas:** composição do Codex aprovada pelo Bruno em 10/11/2026 (`docs/auditoria-capas/lote-20261110-02/` no checkout principal): painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior fica no CDN, sem uso.
