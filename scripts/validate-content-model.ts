@@ -44,7 +44,7 @@ import {
 import proseBaselineJson from './review-prose-baseline.json';
 import snippetBaselineJson from './review-snippet-baseline.json';
 import { findDuplicateKeys } from './json-duplicate-keys';
-import { affiliateProblems } from './multi-store-checks';
+import { affiliateProblems, staleCodeWarnings, storeFieldProblems } from './multi-store-checks';
 import { getRequiredStylingProblems } from './styling-required';
 import stylingRequiredJson from './styling-required.json';
 import { readdirSync, readFileSync } from 'node:fs';
@@ -494,8 +494,11 @@ for (const review of reviews) {
   // O affiliate liga o artigo à loja (dock, sidebar, gaveta e vitrine da home). Até 10/2026, dois
   // artigos usavam "nestle-nutre" com a loja cadastrada como "nutren", e a gaveta perdia a oferta. As regras da
   // lista (artigo de várias lojas) ficam em multi-store-checks.ts.
-  for (const message of affiliateProblems(review, COUPONS)) {
+  for (const message of [...affiliateProblems(review, COUPONS), ...storeFieldProblems(review)]) {
     reportError({ type: 'review', id: review.id, slug: review.slug, message });
+  }
+  for (const message of staleCodeWarnings(review, COUPONS)) {
+    reportWarning({ type: 'review', id: review.id, slug: review.slug, message });
   }
 
   if (listedInPortuguese && review.category === undefined) {

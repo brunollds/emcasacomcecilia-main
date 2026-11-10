@@ -3,7 +3,7 @@
 import { ArrowRight, Check, Copy, ExternalLink } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { CopyCodeButton } from '@/components/coupons/CouponActions';
-import { PRIMARY_ACTION_COMPACT } from '@/components/coupons/CouponBlocks';
+import { PRIMARY_ACTION_COMPACT } from '@/components/coupons/couponActionStyles';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import type { ArticleStoreBlock } from '@/lib/articleStore';
 import { getArticleCopy } from '../articleCopy';
@@ -39,8 +39,9 @@ export function ArticleStoreCodes({ variant, blocks, locale, reviewSlug, storeLa
     <section
       id={variant === 'top' ? ARTICLE_CUTOUT_ID : undefined}
       data-store-codes={variant}
-      aria-label={copy.storeCodesTitle}
-      className={`text-marinho print:hidden ${variant === 'end' ? '' : 'rounded-2xl border-2 border-marinho bg-creme p-3.5 md:p-4'}`}
+      // No fim, o h2 do ArticleEnd já dá o nome.
+      aria-label={variant === 'end' ? undefined : copy.storeCodesTitle}
+      className={variant === 'end' ? 'text-marinho print:hidden' : 'rounded-2xl border-2 border-marinho bg-creme p-3.5 text-marinho print:hidden md:p-4'}
     >
       {variant !== 'end' && (
         <p className="mb-3 text-[13px] font-bold leading-[18px] tracking-[0.04em] text-marinho-suave uppercase">
@@ -69,7 +70,7 @@ export function ArticleStoreCodes({ variant, blocks, locale, reviewSlug, storeLa
                     placement={placement}
                     ariaLabel={labels.copyCoupon(code)}
                     copiedStatus={copiedHint}
-                    className={`${PRIMARY_ACTION_COMPACT} shrink-0 px-4`}
+                    className={`${PRIMARY_ACTION_COMPACT} shrink-0`}
                     copiedChildren={
                       <>
                         <Check aria-hidden="true" className="h-5 w-5 shrink-0" />
