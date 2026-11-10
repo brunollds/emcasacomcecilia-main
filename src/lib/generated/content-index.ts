@@ -104318,6 +104318,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No Pix, o refil de 900 g da Mais Mu sai a R$ 69,48 por 100 g de proteína, e a Growth, a R$ 39,27; com o cupom e o Pix somados, o refil cai para R$ 62,53.",
+          "Em novembro, o refil de 900 g entrou em promoção e passou a custar menos por proteína que o isolado da Growth. A comparação com esse preço está em [Alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey).",
           "O [Whey Isolado Mais Mu sem sabor de 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-sem-sabor-pote-450g/) é outra versão. Confira a porção e o rendimento no rótulo dela; não aplique automaticamente a ela a conta do Baunilha."
         ]
       },
@@ -209707,7 +209708,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey isolado: a mistura da Mais Mu e o IsoWhey da Max",
         "paragraphs": [
-          "O Whey Isolado da Mais Mu custa menos por proteína, mas mistura isolado, concentrado e hidrolisado do soro. Para quem procura um produto cuja fonte proteica seja apenas whey isolado, o IsoWhey da Max é a alternativa da tabela."
+          "No preço promocional, o Whey Isolado da Mais Mu custa menos por proteína, mas mistura isolado, concentrado e hidrolisado do soro. Para quem procura um produto cuja fonte proteica seja apenas whey isolado, o IsoWhey da Max é a alternativa da tabela."
         ],
         "comparisonTable": {
           "headers": [
@@ -209720,7 +209721,7 @@ export const reviewsData: unknown[] = [
             [
               "[Mais Mu Whey Isolado refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/) — Baunilha e Brownie",
               "27 a 33 g, 22 g de proteína",
-              "R$ 188,99 (MMEMCASACOMCECILIA)",
+              "R$ 188,99 (promoção, com MMEMCASACOMCECILIA)",
               "R$ 25,77 a R$ 31,50"
             ],
             [
@@ -209896,7 +209897,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual whey é parecido com o da Growth? O 80% HD da Black Skull é uma alternativa ao concentrado: nos sabores usados na comparação, ele tem a mesma concentração de proteína do (TOP) da Growth. Com CECILIA10, fica abaixo das referências da tabela no cartão.",
           "Tem whey mais barato que o da Growth? Há alternativas nas quatro categorias do artigo, considerando a mesma quantidade de proteína. No concentrado, veja a diferença entre cartão e Pix; na Max e na Probiótica, confirme o desconto efetivo do código.",
-          "Qual whey isolado é mais barato que o da Growth? A Mais Mu oferece menor custo com MMEMCASACOMCECILIA, mas mistura isolado, concentrado e hidrolisado. Para uma opção com apenas proteína isolada como fonte proteica, veja o IsoWhey da Max na tabela de isolados.",
+          "Qual whey isolado é mais barato que o da Growth? A Mais Mu, em promoção, oferece menor custo com MMEMCASACOMCECILIA, mas mistura isolado, concentrado e hidrolisado. Para uma opção com apenas proteína isolada como fonte proteica, veja o IsoWhey da Max na tabela de isolados.",
           "Qual é a alternativa zero lactose ao whey da Growth? O 100% Pure Whey Zero Lactose da Probiótica, com PRO10EMCASACOMCECILIA, fica abaixo do Zero Lactose Natural da Growth no cartão. O percentual do código varia conforme o produto."
         ]
       }
@@ -209904,7 +209905,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Você quer concentrado com menor custo por proteína no cartão: compare o 80% HD da Black Skull com CECILIA10.",
-        "Aceita uma mistura de isolado, concentrado e hidrolisado para gastar menos: o Whey Isolado da Mais Mu com MMEMCASACOMCECILIA.",
+        "Aceita uma mistura de isolado, concentrado e hidrolisado para gastar menos: o Whey Isolado da Mais Mu com MMEMCASACOMCECILIA, enquanto durar a promoção.",
         "Quer reduzir o custo de um 3W e aceita menor concentração de proteína no pó: o Mais Sabor da Max com MAX10EMCASACOMCECILIA."
       ],
       "skipIf": [
