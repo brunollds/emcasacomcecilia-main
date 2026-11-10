@@ -158,3 +158,11 @@ gerados e os nomes que só contêm a palavra (`affiliate-link`, `affiliateUrl`, 
   `limitedCodeLeakProblems` do artigo de uma loja), com um caso de prazo ativo e agendado. Conferido de ponta a ponta
   com a lista Black Skull, Max Titanium, Probiótica e I Wanna Sleep (o prazo de 26–27/11 agendado): 4 invólucros, todos
   na linha da I Wanna Sleep, e a lateral com 782 px.
+
+## Liberação (10/11/2026)
+
+- Fase 4 aprovada pelo Bruno. `MULTI_STORE_CONTENT_ALLOWED = true`: o `validate:content` aceita a lista. O
+  `test:review-stores` confere que a configuração do repositório passa a lista e guarda o caso explícito do bloqueio
+  (`contentAllowed = false`), que é o freio se o recurso precisar sair do ar.
+- Fase 5 com a sessão de artigos: o AG1 ("Alternativas ao whey da Growth") e as migrações do
+  `black-skull-ou-max-titanium` e do `melhor-whey`, cada um com revisão própria antes de publicar.

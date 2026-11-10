@@ -204,13 +204,16 @@ assert.equal(video('v-pausadas')?.codeLink, null, 'nenhuma loja ativa: sem botã
 assert.equal(isSnippetChecked({ slug: 'alternativas', coupon: 'CECILIA10', affiliate: FOUR, metaDescription: 'x' }), false);
 assert.equal(isSnippetChecked({ slug: 'skull-1', coupon: 'CECILIA10', affiliate: 'black-skull', metaDescription: 'x' }), true);
 
-// validate:content: as regras da lista, com a liberação ligada (o terceiro argumento) e desligada.
+// validate:content: as regras da lista, com a liberação do repositório (ligada) e desligada pelo terceiro argumento.
 const ok = { affiliate: ['black-skull', 'max-titanium'] };
 assert.deepEqual(affiliateProblems(ok, COUPONS, true), []);
 assert.deepEqual(affiliateProblems({ ...ok, locale: 'pt' }, COUPONS, true), []);
 assert.deepEqual(affiliateProblems({ affiliate: FOUR }, COUPONS, true), []);
 assert.deepEqual(affiliateProblems({ affiliate: ['black-skull', 'kopenhagen'] }, COUPONS, true), [], 'loja pausada fica na lista');
-assert.match(affiliateProblems(ok, COUPONS).join('|'), /ainda não está liberado/, 'conteúdo com lista barrado até a fase 4');
+assert.deepEqual(affiliateProblems(ok, COUPONS), [], 'liberado: a lista passa com a configuração do repositório');
+assert.match(affiliateProblems(ok, COUPONS, false).join('|'), /não está liberado/, 'com a liberação desligada, a lista é barrada');
+assert.match(affiliateProblems({ affiliate: FOUR }, COUPONS, false).join('|'), /não está liberado/, 'desligada: barra também a lista de 4');
+assert.deepEqual(affiliateProblems({ affiliate: 'damie' }, COUPONS, false), [], 'desligada: o artigo de uma loja segue');
 assert.deepEqual(affiliateProblems({ affiliate: 'damie' }, COUPONS), [], 'uma loja: como sempre');
 assert.match(affiliateProblems({ affiliate: 'loja-que-nao-existe' }, COUPONS).join('|'), /não é o slug/);
 const listProblem = (review: Record<string, unknown>, pattern: RegExp, name: string) =>

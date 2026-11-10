@@ -7,9 +7,9 @@ import type { Coupon } from '../src/lib/couponsData';
 export const MIN_REVIEW_STORES = 2;
 export const MAX_REVIEW_STORES = 4;
 
-// Nenhum artigo publicado usa lista antes de o artigo saber mostrar as lojas no computador e no celular (fases 3 e 4
-// do plano). A fase 4 liga isto.
-export const MULTI_STORE_CONTENT_ALLOWED = false;
+// A liberação do artigo com lista, ligada depois das fases 3 e 4 do plano (computador e celular). Desligada, barra
+// qualquer artigo com lista: é o freio se o artigo de várias lojas precisar sair do ar.
+export const MULTI_STORE_CONTENT_ALLOWED = true;
 
 type CheckedReview = {
   affiliate?: unknown;
@@ -120,7 +120,7 @@ export function affiliateProblems(
 
   const problems: string[] = [];
   if (!contentAllowed) {
-    problems.push('affiliate em lista ainda não está liberado: o artigo de várias lojas espera as fases 3 e 4 do plano');
+    problems.push('affiliate em lista não está liberado: MULTI_STORE_CONTENT_ALLOWED está desligado em scripts/multi-store-checks.ts');
   }
   if (affiliate.length === 1) problems.push('affiliate com uma loja só: use o slug, sem a lista');
   else if (affiliate.length < MIN_REVIEW_STORES || affiliate.length > MAX_REVIEW_STORES) {
