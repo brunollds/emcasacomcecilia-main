@@ -20,13 +20,14 @@ import { LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
 import { getCouponBrandFromHref, getInternalHref, isCouponPageLink } from '@/lib/internalLinks';
 import { getFaqItems, isFaqHeading, parseFaqBullet } from '@/lib/faq';
 import { resolveRelatedArticleLinks } from '@/lib/review-template-props';
+import { getSingleStoreSlug, type ReviewAffiliate } from '@/lib/reviewStores';
 
 interface ReviewSource {
   slug: string;
   translationKey?: string;
   locale?: string;
   type?: string;
-  affiliate?: string;
+  affiliate?: ReviewAffiliate;
   coupon?: string;
   cta?: { url?: string };
   decision?: ReviewDecision;
@@ -218,7 +219,7 @@ const HOSTINGER_RENEWAL_DISCOUNT: Record<Locale, RegExp> = {
 function hostingerCopyProblems(review: ReviewSource): string[] {
   const text = JSON.stringify(review);
   const problems = text.includes(OLD_HOSTINGER_CODE) ? [`código antigo ${OLD_HOSTINGER_CODE}`] : [];
-  if (review.affiliate !== 'hostinger') return problems;
+  if (getSingleStoreSlug(review) !== 'hostinger') return problems;
   const locale = resolveReviewLocale(review.locale);
   const match = text.match(HOSTINGER_NO_COUPON[locale]);
   if (match) problems.push(`frase de "sem cupom" ou "só no link": ${match[0]}`);
@@ -484,7 +485,8 @@ const storeReferralLabel = (locale: Locale) =>
     }
     const family = translatedReviews.filter((review) => review.translationKey === key);
     for (const field of ['affiliate', 'coupon'] as const) {
-      const values = [...new Set(family.map((review) => review[field] ?? '(vazio)'))];
+      // A lista (artigo de várias lojas) compara pelo conteúdo, na ordem; hoje o validate:content nem a deixa ter família.
+      const values = [...new Set(family.map((review) => [review[field] ?? '(vazio)'].flat().join(' + ')))];
       assert.equal(values.length, 1, `${key}: ${field} diferente entre as versões: ${values.join(', ')}`);
     }
     const withoutFaq = family.filter((review) => !review.contentSections?.some((section) => isFaqHeading(section.heading)));

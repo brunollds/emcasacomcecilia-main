@@ -16,6 +16,7 @@ import {
 } from '@/lib/reviewStores';
 import { getOthersShelfContent, getRelatedShelfCards, getReviewsHubContent, getStoreShelfContent, type HubReview } from '@/lib/reviewsHub';
 import { getVideoItems, type VideoPageRecord } from '@/lib/videosHub';
+import { affiliateProblems } from './multi-store-checks';
 import { relatedOrderProblem } from './related-order';
 import { isSnippetChecked } from './review-prose-checks';
 
@@ -193,4 +194,28 @@ assert.equal(video('v-pausadas')?.codeLink, null, 'nenhuma loja ativa: sem botã
 assert.equal(isSnippetChecked({ slug: 'alternativas', coupon: 'CECILIA10', affiliate: FOUR, metaDescription: 'x' }), false);
 assert.equal(isSnippetChecked({ slug: 'skull-1', coupon: 'CECILIA10', affiliate: 'black-skull', metaDescription: 'x' }), true);
 
-console.log('✅ várias lojas nas listagens: home, /reviews, subpáginas, Outros, relacionados, data comercial, vídeo e snippet');
+// validate:content: as regras da lista, com a liberação ligada (o terceiro argumento) e desligada.
+const ok = { affiliate: ['black-skull', 'max-titanium'] };
+assert.deepEqual(affiliateProblems(ok, COUPONS, true), []);
+assert.deepEqual(affiliateProblems({ ...ok, locale: 'pt' }, COUPONS, true), []);
+assert.deepEqual(affiliateProblems({ affiliate: FOUR }, COUPONS, true), []);
+assert.deepEqual(affiliateProblems({ affiliate: ['black-skull', 'kopenhagen'] }, COUPONS, true), [], 'loja pausada fica na lista');
+assert.match(affiliateProblems(ok, COUPONS).join('|'), /ainda não está liberado/, 'conteúdo com lista barrado até a fase 4');
+assert.deepEqual(affiliateProblems({ affiliate: 'damie' }, COUPONS), [], 'uma loja: como sempre');
+assert.match(affiliateProblems({ affiliate: 'loja-que-nao-existe' }, COUPONS).join('|'), /não é o slug/);
+const listProblem = (review: Record<string, unknown>, pattern: RegExp, name: string) =>
+  assert.match(affiliateProblems(review, COUPONS, true).join('|'), pattern, name);
+listProblem({ affiliate: ['damie'] }, /uma loja só/, 'lista de 1');
+listProblem({ affiliate: [...FOUR, 'damie'] }, /de 2 a 4 lojas \(tem 5\)/, 'lista de 5');
+listProblem({ affiliate: ['damie', 'damie'] }, /repetida: damie/, 'repetida');
+listProblem({ affiliate: ['damie', 'loja-que-nao-existe'] }, /"loja-que-nao-existe" não é o slug/, 'inexistente');
+listProblem({ affiliate: ['damie', 'yesstyle'] }, /"yesstyle": .*código comum/, 'recompensa');
+listProblem({ affiliate: ['damie', 'shein'] }, /"shein": .*código comum/, 'indicação');
+listProblem({ ...ok, locale: 'en' }, /só em artigo em português/, 'idioma');
+listProblem({ ...ok, locale: 'xx' }, /só em artigo em português|locale/, 'idioma inválido não passa como PT');
+listProblem({ ...ok, translationKey: 'familia' }, /translationKey/, 'família');
+listProblem({ ...ok, coupon: 'CECILIA10' }, /sem coupon/, 'coupon');
+listProblem({ ...ok, cta: { url: 'https://x', label: 'x' } }, /sem cta/, 'cta');
+listProblem({ affiliate: [1, 2] }, /slug de uma loja ou uma lista/, 'lista de números');
+
+console.log('✅ várias lojas nas listagens: home, /reviews, subpáginas, Outros, relacionados, data comercial, vídeo e snippet; regras do affiliate em lista');

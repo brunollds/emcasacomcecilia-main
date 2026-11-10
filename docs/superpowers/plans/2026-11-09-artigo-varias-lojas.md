@@ -96,3 +96,18 @@ gerados e os nomes que só contêm a palavra (`affiliate-link`, `affiliateUrl`, 
   `test-article-d2.ts:72–77, 108–109, 213, 230, 403`.
 - Fases 3 e 4 (artigo): `ReviewNotebookTemplate`, `ReviewSidebar`, `ReviewMobileBottomBar`, `ReviewContentSections`,
   `ReviewSectionContent`, `ArticleStyling` e `test-build-output.ts:1716, 1729, 1894, 1910, 1980`.
+
+## Auditoria do fim da fase 2
+
+- O tipo é `ReviewAffiliate` (`types.ts`, `data.ts`). Quem só sabe mostrar uma loja lê `getSingleStoreSlug`, que dá
+  `undefined` para a lista: `articleStore.ts`, o template (o `storeSlug` passado ao recorte, à sidebar, às seções e ao
+  dock), `ReviewSidebar` (relacionados), `test-article-d2`, `test-build-output` (foto, banner e bloco da loja),
+  `test-review-i18n` (Hostinger) e `test-store-banners` (destino do banner). Nenhum consumidor usa o primeiro item.
+- `hasCommercialRelationship` (template e `test-build-output`) conta qualquer loja da lista: o link do artigo de várias
+  lojas segue com sponsored.
+- `test-review-i18n` compara a lista pelo conteúdo, na ordem (não por referência); `test-home-stores` conta o artigo em
+  todas as lojas.
+- Regras da lista em `scripts/multi-store-checks.ts`, testadas em `test-review-stores`. O `MULTI_STORE_CONTENT_ALLOWED`
+  fica `false` até a fase 4: com a lista num artigo publicado (testado no `black-skull-ou-max-titanium` e desfeito), o
+  `validate:content` para o build.
+- Os componentes do artigo ainda recebem só uma loja (`string`): ficam para as fases 3 e 4, como previsto.

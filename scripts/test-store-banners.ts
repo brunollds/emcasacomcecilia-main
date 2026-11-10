@@ -5,6 +5,7 @@ import { LOCALE_KEYS } from '../src/lib/i18n/locales';
 import { readdirSync, readFileSync } from 'node:fs';
 import type { CouponCopyLocale } from '../src/components/review/couponCopyLocale';
 import { INTERNATIONAL_STORES, STORE_BANNERS, getArticleStoreBanners, getStorePageBanners, isArticleBannerHref, isStoreBannerLive, placeStoreBanners, storeBannersOverlap, type StoreBanner } from '../src/lib/storeBanners';
+import { getSingleStoreSlug } from '../src/lib/reviewStores';
 
 // O prazo de uma campanha com um "agora" fixo. As 23h do último dia em Brasília já são o dia seguinte em UTC:
 // o banner continua no ar.
@@ -167,7 +168,8 @@ for (const banner of STORE_BANNERS) {
     // O link interno só para o nosso artigo da campanha, publicado e da mesma loja, e só em campanha com fim.
     const slug = banner.href.slice('/reviews/'.length);
     const article = JSON.parse(readFileSync(`content/reviews/${slug}.json`, 'utf8'));
-    assert.equal(article.affiliate, banner.affiliate, `${banner.id}: o artigo ${slug} é de outra loja`);
+    // O artigo de várias lojas não recebe banner, nem como destino.
+    assert.equal(getSingleStoreSlug(article), banner.affiliate, `${banner.id}: o artigo ${slug} é de outra loja ou de várias`);
     assert.ok(!article.draft, `${banner.id}: o artigo ${slug} é rascunho`);
     assert.ok(banner.endsAt, `${banner.id}: banner para o artigo sem data de fim`);
   } else {
