@@ -297,3 +297,10 @@ Pode ficar tranquilo caso surja um imprevisto na rua. As transportadoras parceir
 Cuidar da casa é encontrar o equilíbrio entre o prazer das pequenas coisas e a serenidade de manter as contas organizadas. O cafezinho da manhã ou aquela pausa aromática no meio da tarde não deveriam ser momentos de pressa, aperto ou surpresa ao olhar o extrato do banco.
 
 Quando você avalia seus hábitos com clareza, a assinatura Dolce Gusto deixa de ser uma simples transação comercial e passa a ser uma aliada da sua rotina: ela garante que o seu blend favorito esteja sempre à mão, economiza seu tempo de mercado e preserva a tranquilidade da sua despensa. Escolha com carinho, saboreie cada xícara no seu ritmo e aproveite o aconchego do seu lar!
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/dolcegusto/assinatura-dolce-gusto-vale-a-pena-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Cafeteira Genio S vermelha da Dolce Gusto com uma bebida servida e cápsulas ao lado.
+- **Origem:** recorte da capa anterior (fotos oficiais da Dolce Gusto) e logo do repositório; definição limitada pela fonte, sem nitidez gerada.
+- **Lote 2 do piloto de capas:** composição do Codex aprovada pelo Bruno em 10/11/2026 (`docs/auditoria-capas/piloto-20261110/lote-seguinte/` no checkout principal): painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior fica no CDN, sem uso.
