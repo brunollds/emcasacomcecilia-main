@@ -169,3 +169,11 @@ Fatos: `tamanho-mala-bagaggio-p-m-g-fatos-2910.md`, ao lado.
 ## Publicação (30/10/2026)
 - No ar em 30/10/2026 17:02 UTC: PR #369, release `5c16b59c`, id 748 (PT).
 - Medida da P do conjunto Route (56 × 36 × 22,5) contra a avulsa (55 × 35 × 22,5) não conferida: o texto diz isso. A ficha da Detroit não diz se a medida inclui as rodas.
+
+## Capa v2 (piloto de capas, 10/11/2026)
+
+- **Capa:** `/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-capa-v2.webp` (`imageFit: contain`), no lugar da capa com as três malas.
+- **Alt:** "Mala Bagaggio Detroit preta de 26 polegadas."
+- **Origem:** foto oficial da Bagaggio (`bagaggio/tamanho-mala-bagaggio-p-m-g-detroit-26.webp`, a mesma do corpo), com `mix-blend-mode: multiply` só para o fundo branco virar creme. Logo da Bagaggio do repositório. Texto da arte: "Guia de tamanhos" (no lugar de "Guia Bagaggio", que parecia guia oficial), "Mala P, M / ou G?" e "Veja como escolher o tamanho". Uma mala só: a capa não mostra a escala entre P, M e G.
+- **Aprovação:** o Bruno aprovou a direção visual em 10/11/2026, a partir do comparativo do piloto (`docs/auditoria-capas/piloto-20261110/`, montado pelo Codex). A capa anterior segue no CDN, sem uso.
+- **Divergência com o Job 6 (só neste piloto, sem mudar a regra geral):** sem a faixa verde de baixo; a composição saiu do HTML do comparativo, capturada no Chrome headless em 1600×900, e não do `covers:render`; texto em Segoe UI. Os SVGs do piloto não foram usados: abertos sozinhos, caem em fonte serifada.
