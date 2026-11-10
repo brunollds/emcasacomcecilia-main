@@ -377,3 +377,10 @@ Caminhos em `public/images/reviews/dr-peanut/`; origem e proporção conferidas 
 - **Corpo, "Preço e cupom"** (`snacks-dr-peanut-qual-escolher-display-speculoos.webp`, 1000×1500): alt "Displays abertos com barras de proteína Doctor Bar sabor Speculoos da Dr. Peanut". Legenda: "Doctor Bar Speculoos em display, foto do produto publicada pela loja. Imagem: Dr. Peanut." Origem: galeria (`bar-speculoos-img4.jpg`).
 
 Pendência registrada na folha (Job 6): a tabela do corpo 1 é a de Cookies, e não a de Chocolate com Coco. O texto da seção não cita o sabor da imagem, e o alt diz "Cookies" (o nome na tabela é "Cookies & Cream").
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Barras Doctor Bar Speculoos da Dr. Peanut com caramelo, em imagem promocional.
+- **Origem:** imagem promocional da Dr. Peanut (Doctor Bar Speculoos com caramelo); não indica degustação nem sabor vencedor. Sem geração por IA.
+- **Lote 07 do piloto de capas (sequência 2 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-2-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-capa-discover.webp`) fica no CDN, sem uso como capa.

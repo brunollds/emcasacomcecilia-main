@@ -177,3 +177,10 @@ Fatos: `presente-natal-bagaggio-fatos-3010.md`, ao lado.
 ## Publicação (30/10/2026)
 - No ar em 30/10/2026 17:02 UTC: PR #369, release `5c16b59c`, id 750 (PT).
 - Kit Dia dos Pais (carteira Lezard) fora: não está mais na loja. Vale-presente só como existente (site parceiro ilegível). Reler preços e estoque no começo de dezembro.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/bagaggio/presente-natal-bagaggio-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Bolsa Donna preta da Bagaggio.
+- **Origem:** foto oficial da bolsa Donna preta (bolsa, não mochila). Sem geração por IA.
+- **Lote 09 do piloto de capas (sequência 2 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-2-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/bagaggio/presente-natal-bagaggio-capa.webp`) fica no CDN, sem uso como capa.

@@ -859,3 +859,10 @@ Folha: `scratchpad/a8-a5/job6-whey-mais-mu-qual-escolher/out/FOLHA.md`. Arquivos
 - **Imagem 1, "Qual formato escolher"** (`whey-mais-mu-qual-escolher-quadro-formatos.webp`, 1000×1180): alt "Quadro dos formatos do whey Mais Mu com doses, preço por dose e preço por 100 g de proteína em 25/10/2026". Legenda: "Doses pela contagem da loja, com 'cerca de'. Preços no cartão em 25/10/2026." Origem: quadro nosso, com os números do próprio artigo.
 - **Imagem 2, "Pote de 450 g"** (`whey-mais-mu-qual-escolher-tabela-baunilha-450g.webp`, 692×800): alt "Tabela nutricional do Whey Concentrado Baunilha 450 g da Mais Mu: porção de 36 g, cerca de 13 porções, 20 g de proteína". Legenda: "Tabela da loja: porção de 36 g, cerca de 13 porções por pote." Origem: galeria da página do Baunilha 450 g, lida no Chrome em 25/10/2026.
 - **Imagem 3, "Sachê: caixa de 15 unidades"** (`whey-mais-mu-qual-escolher-caixa-sache-chocolate-com-coco.webp`, 609×811): alt "Caixa de 15 sachês do whey Mais Mu Chocolate com Coco, foto oficial da loja". Legenda: "Caixa de 15 sachês do Chocolate com Coco, imagem oficial da loja." Origem: galeria da loja. É render (mockup) da caixa, não foto.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/mais-mu/whey-mais-mu-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Caixa e sachês do whey de chocolate com coco da Mais Mu.
+- **Origem:** foto oficial da caixa de sachês de chocolate com coco; ilustra um formato do guia, sem alegação nutricional nova. Sem geração por IA.
+- **Lote 07 do piloto de capas (sequência 2 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-2-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/mais-mu/whey-mais-mu-qual-escolher-capa.webp`) fica no CDN, sem uso como capa.

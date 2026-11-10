@@ -155,3 +155,10 @@ Fatos: `guardanapo-de-tecido-quantos-tamanho-fatos-2910.md`, ao lado.
 - Preços do cartão e estoque relidos em 29/10/2026; MAUAD e Pix numa frase, sem destaque; links de produto com a UTM da parceria.
 - Chrome, 29/10: nenhuma ficha traz "Contém"; três das quatro descrevem o guardanapo como "uma peça" (o Ajour Abelha não); a conta assume um por página, marcada como conta nossa. Poá Terracota: R$ 56,00 no cartão e R$ 53,20 no Pix; a tag outlet não muda o preço. Imagens: capa e 4 fotos das fichas.
 - Pendente: reler preços e estoque na Black Friday de 2026.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/letseatit/guardanapo-de-tecido-quantos-tamanho-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Guardanapo de tecido claro com bordado verde sobre o prato, numa mesa posta.
+- **Origem:** foto oficial nova (guardanapo Oliva na mesa; URL e hash em `fontes-selecionadas.json` do lote). Sem geração por IA.
+- **Lote 08 do piloto de capas (sequência 2 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-2-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/letseatit/guardanapo-de-tecido-quantos-tamanho-capa.webp`) fica no CDN, sem uso como capa.

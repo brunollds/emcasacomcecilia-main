@@ -260,3 +260,10 @@ As perguntas acima foram respondidas em 17/10/2026; o que vale é esta seção.
 ### Decisões específicas
 - Desnatado e Vanilla entram como seções da mesma ficha (proposta do Claude, sem objeção do Bruno). Intenso, descafeinado e caixas de 16 e 30 são de fora do Brasil: uma frase, sem preço.
 - "Tem açúcar?": o clássico e o Desnatado não têm açúcar adicionado (0 g; os açúcares são do leite); o Vanilla tem 2,9 g adicionados por cápsula.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/dolcegusto/cafe-au-lait-dolce-gusto-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Copo de Café au Lait com espuma e uma cápsula Dolce Gusto ao lado.
+- **Origem:** imagem promocional da Dolce Gusto, sem preparo nosso. Sem geração por IA.
+- **Lote 07 do piloto de capas (sequência 2 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-2-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/dolcegusto/cafe-au-lait-desnatado-vanilla-dolce-gusto-capa.webp`) fica no CDN, sem uso como capa.

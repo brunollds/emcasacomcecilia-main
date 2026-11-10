@@ -625,3 +625,10 @@ Folha: `scratchpad/a8-a5/job6-pre-treino-exquenta-mais-mu-e-bom/out/FOLHA.md`. P
 Origem das imagens 1 a 5: loja, tabelas nutricionais das páginas de produto lidas em 25/10/2026.
 
 Json: `content/reviews/pre-treino-exquenta-mais-mu-e-bom.json` (id 610).
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/mais-mu/pre-treino-exquenta-mais-mu-e-bom-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pote de 450 g do Exquenta Tropical Sem Cafeína da Mais Mu.
+- **Origem:** foto oficial do Exquenta Tropical Sem Cafeína de 450 g; a ausência de cafeína não vale para a linha toda. Sem geração por IA.
+- **Lote 08 do piloto de capas (sequência 2 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-2-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/mais-mu/pre-treino-exquenta-mais-mu-e-bom-capa.webp`) fica no CDN, sem uso como capa.

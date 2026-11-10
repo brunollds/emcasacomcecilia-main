@@ -358,3 +358,10 @@ Upload FTPS, verificação HTTPS (7/7 `verified`), `prepare-delivery --append` e
 ## Job 4 (JSON, 26/10/2026)
 
 `content/reviews/le-creuset-qual-tamanho-escolher.json`, id 614, `affiliate: letseatit`, `coupon: MAUAD`, `isNew: true`, `imageFit: contain`. FAQ em bullets "Pergunta? resposta". Gates: typecheck, validate:content, test:review-i18n, test:site-search, test:article-d2, test:reviews-hub e build (com test:build-output).
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/letseatit/le-creuset-qual-tamanho-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Panela Le Creuset vermelha com tampa sobre a bancada.
+- **Origem:** foto oficial nova (Le Creuset de 24 cm na bancada; URL e hash em `fontes-selecionadas.json` do lote); ilustra o guia, não compara os dois tamanhos. Sem geração por IA.
+- **Lote 08 do piloto de capas (sequência 2 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-2-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/letseatit/le-creuset-qual-tamanho-escolher-capa-discover.webp`) fica no CDN, sem uso como capa.

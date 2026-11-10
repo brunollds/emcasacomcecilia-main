@@ -460,3 +460,10 @@ Caminhos em `public/images/reviews/clea-store/` (local no JSON; o CDN resolve na
 - **Corpo, "Montar um conjunto (monte o seu)"** `alfaiataria-verao-clea-store-shorts-4402.webp` (900 x 1350). Alt: "Shorts Rosa Linho da Cléa Store, foto oficial do site". Legenda: "Shorts Rosa Linho (4402). Imagem: Cléa Store."
 
 Não entram: fotos "captura sem título" (4393, 4395, 4416, 4414, 4382) e a foto de 4282 (só serve à correção do look de trabalho).
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/clea-store/alfaiataria-verao-clea-store-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo com camiseta branca e shorts rosa de alfaiataria da Cléa Store.
+- **Origem:** foto oficial da Cléa Store (camiseta branca e shorts rosa), com o rosto e os shorts preservados. Sem geração por IA.
+- **Lote 08 do piloto de capas (sequência 2 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-2-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/clea-store/alfaiataria-verao-clea-store-capa-discover.webp`) fica no CDN, sem uso como capa.

@@ -123,3 +123,10 @@ As perguntas acima foram respondidas em 17/10/2026; o que vale é esta seção.
 ### Decisões específicas
 - A página atual chama o produto de "novo cappuccino Caramelo Salgado", sem Netflix. O histórico (edição Netflix de maio de 2024 e retorno em março de 2026) entra só com as fontes datadas da matriz.
 - A tabela da página tem "Porção: 10g" no cabeçalho e "17,5g" na coluna: usar 17,5 g e não citar o 10 g.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/dolcegusto/caramelo-salgado-dolce-gusto-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Copo de Caramelo Salgado, cápsula e caramelos da Dolce Gusto, em imagem promocional.
+- **Origem:** arte promocional da Dolce Gusto, sem preparo nosso nem calda acrescentada na montagem. Sem geração por IA.
+- **Lote 09 do piloto de capas (sequência 2 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-2-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/dolcegusto/caramelo-salgado-dolce-gusto-capa.webp`) fica no CDN, sem uso como capa.

@@ -142,3 +142,10 @@ Fatos: `taca-base-esfera-e-tacas-coloridas-fatos-3010.md`, ao lado.
 
 1. Links no formato que os artigos no ar de cada loja usam; nas tabelas, o nome do produto na 1ª célula vira o link. Tabela com o preço do cartão, datado; cupom numa frase (vale em todas as formas de pagamento, Bruno 30/10). Ninguém do site usou. Pendentes do briefing: conferir no Chrome antes de publicar; sem confirmação, não afirma. Ignorar cadastros de variante única com preço baixo (ex.: `-pp`). Reler preços no dia.
 2. Uma pauta só (L12 + L13), título de busca ampla sem o nome da loja; só PT. A Sphere só é vendida em conjunto (6, 6+6, 12+12). Marcas de outros fabricantes vendidas pela loja entram com link; Tuut fica fora (revenda não confirmada). Vinho ou água no 450 ml: só como a ficha disser. MAUAD só como código em frase. Correção no mesmo PR: `mesa-posta-dia-a-dia-o-que-comprar` diz R$ 264 (29/10); em 30/10 o JSON mostra R$ 298 (azul, verde, rosa) e R$ 289 (âmbar): usar o preço do dia. A loja limitou as leituras automáticas (`local_rate_limited`): fichas no Chrome.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Taça Coloratta verde sobre a mesa, em foto da Let's Eat It.
+- **Origem:** foto de produto da Let's Eat It (Coloratta verde), com borda e pé inteiros; logo completo branco da Let's Eat It sobre o verde, o arquivo oficial. Sem geração por IA.
+- **Lote 07 do piloto de capas (sequência 2 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-2-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-capa.webp`) fica no CDN, sem uso como capa.

@@ -232,3 +232,10 @@ Respostas do Bruno de 23/10/2026 ao lote de seis pautas. Ele aprovou as recomend
 3. **Ficha errada da calça linho caqui:** o texto não cita a descrição.
 4. **Artigo de trabalho:** a correção (body com 20% OFF; blazer bordô esgotado) vai para a sessão de melhorias (lista da fila).
 5. **Publicação em novembro:** reler estoque, tamanhos e preços de cada peça no dia; peça esgotada sai do look.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/clea-store/look-natal-reveillon-2026-clea-store-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo com o vestido off white de crochê com franjas da Cléa Store.
+- **Origem:** foto do próprio artigo (vestido de crochê inteiro), sem novo recorte. Sem geração por IA.
+- **Lote 09 do piloto de capas (sequência 2 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-2-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/clea-store/look-natal-reveillon-2026-clea-store-capa-discover.webp`) fica no CDN, sem uso como capa.

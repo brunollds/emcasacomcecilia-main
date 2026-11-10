@@ -211,3 +211,10 @@ O Bruno aprovou a pauta com as recomendações do Claude como padrão.
 - Correção à parte, para a sessão de artigos: a Donna no mochila-notebook-bagaggio-qual-escolher (44,5 × 35 × 15 cm e 90 dias no artigo; 48 × 32 × 16 cm e 3 meses na ficha de 31/10). Reler a ficha e corrigir.
 - **Resposta rápida (REGRAS-GLOBAIS, seção 6):** um parágrafo de 40 a 60 palavras só com a decisão e a frase que aponta o que muda a escolha. Sem lista de produtos, preço, preço com cupom ou conta; o esqueleto acima é tema, não texto. Tudo o que ela disser também está num capítulo, e o veredito tem capítulo próprio antes do FAQ.
 - **Jobs 2 e 3 de verdade:** plano de imagens por seção (Job 2, item 7), capítulos completos (cada um responde uma pergunta com os números dela, sem resumo de uma linha) e a checagem do Job 3 antes de entregar.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pessoa de costas com a mochila Airtrack preta da Bagaggio.
+- **Origem:** foto oficial da Airtrack preta em uso, de costas. Sem geração por IA.
+- **Lote 08 do piloto de capas (sequência 2 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-2-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-capa.webp`) fica no CDN, sem uso como capa.
