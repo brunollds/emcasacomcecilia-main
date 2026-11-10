@@ -81314,7 +81314,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "No catálogo de outubro, o Whey 80% HD e o Creator, da Black Skull, saem mais baratos; a Max Titanium tem mais whey 3W com sabor e a creatina Creapure. Veja quem escolhe o quê.",
-    "metaDescription": "Black Skull ou Max Titanium, com o cupom CECILIA10 e 10% OFF na Black Skull: whey e creatina pelo rótulo e pelo preço por dose.",
+    "metaDescription": "Black Skull ou Max Titanium: CECILIA10 dá 10% na Black Skull e MAX10EMCASACOMCECILIA até 10% na Max. Whey e creatina pelo rótulo e pelo preço por dose.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
     "updatedAt": "2026-11-07",
@@ -81736,14 +81736,10 @@ export const reviewsData: unknown[] = [
     },
     "pros": [],
     "cons": [],
-    "cta": {
-      "text": "Veja o whey e a creatina da Black Skull e aplique o cupom CECILIA10 no carrinho.",
-      "label": "Ir para a Black Skull",
-      "url": "https://www.blackskullusa.com.br/",
-      "sponsored": true
-    },
-    "coupon": "CECILIA10",
-    "affiliate": "black-skull",
+    "affiliate": [
+      "black-skull",
+      "max-titanium"
+    ],
     "editorialNote": "Podemos receber comissão pela Black Skull e pela Max Titanium. Não provamos os produtos.",
     "relatedArticles": [
       {
