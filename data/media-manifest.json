@@ -46761,6 +46761,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/creatina/alternativas-a-creatina-da-growth-capa.webp",
+      "local_url": "/images/reviews/creatina/alternativas-a-creatina-da-growth-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 73056,
+      "sha256": "d3e5aa16ef2f4ee9f7c5a0b2f6b365376f5ee404eb4b2dc25d5c86712e100b31",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "alternativas-a-creatina-da-growth-capa.webp",
+      "storage_filename": "alternativas-a-creatina-da-growth-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/alternativas-a-creatina-da-growth.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/alternativas-a-creatina-da-growth.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/creatina/alternativas-a-creatina-da-growth-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d3e5aa16ef2f4ee9f7c5a0b2f6b365376f5ee404eb4b2dc25d5c86712e100b31/alternativas-a-creatina-da-growth-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d3e5aa16ef2f4ee9f7c5a0b2f6b365376f5ee404eb4b2dc25d5c86712e100b31/alternativas-a-creatina-da-growth-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:05:56.149Z",
+      "verification_etag_or_digest": "d3e5aa16ef2f4ee9f7c5a0b2f6b365376f5ee404eb4b2dc25d5c86712e100b31",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/cupom-cecilia12/1-escolha-produto.png",
       "local_url": "/images/reviews/cupom-cecilia12/1-escolha-produto.png",
       "media_kind": "image",
@@ -96089,6 +96127,82 @@
       "uploaded_at": null,
       "verified_at": "2026-10-25T20:41:44.781Z",
       "verification_etag_or_digest": "e64e41c5eab6d514a50ae3f791fd52846f83499d833acd8f06eaafa5d7126490",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/alternativas-a-creatina-da-growth-capsulas-180.webp",
+      "local_url": "/images/reviews/probiotica/alternativas-a-creatina-da-growth-capsulas-180.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26598,
+      "sha256": "038c2970a3bf7de70e807d5e0413248bdf89f274b8f8df1c4398902f38483c0a",
+      "width": 800,
+      "height": 800,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "alternativas-a-creatina-da-growth-capsulas-180.webp",
+      "storage_filename": "alternativas-a-creatina-da-growth-capsulas-180.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/alternativas-a-creatina-da-growth.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/alternativas-a-creatina-da-growth.json",
+          "line": 204,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/alternativas-a-creatina-da-growth-capsulas-180.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/038c2970a3bf7de70e807d5e0413248bdf89f274b8f8df1c4398902f38483c0a/alternativas-a-creatina-da-growth-capsulas-180.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/038c2970a3bf7de70e807d5e0413248bdf89f274b8f8df1c4398902f38483c0a/alternativas-a-creatina-da-growth-capsulas-180.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:05:56.151Z",
+      "verification_etag_or_digest": "038c2970a3bf7de70e807d5e0413248bdf89f274b8f8df1c4398902f38483c0a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/alternativas-a-creatina-da-growth-tabela-capsulas.webp",
+      "local_url": "/images/reviews/probiotica/alternativas-a-creatina-da-growth-tabela-capsulas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 54628,
+      "sha256": "ffc383a1a87d9109e8b1229b78b0e8c544cc7200dc5d9589a5b4b08b18313f22",
+      "width": 740,
+      "height": 440,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "alternativas-a-creatina-da-growth-tabela-capsulas.webp",
+      "storage_filename": "alternativas-a-creatina-da-growth-tabela-capsulas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/alternativas-a-creatina-da-growth.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/alternativas-a-creatina-da-growth.json",
+          "line": 213,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/alternativas-a-creatina-da-growth-tabela-capsulas.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ffc383a1a87d9109e8b1229b78b0e8c544cc7200dc5d9589a5b4b08b18313f22/alternativas-a-creatina-da-growth-tabela-capsulas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ffc383a1a87d9109e8b1229b78b0e8c544cc7200dc5d9589a5b4b08b18313f22/alternativas-a-creatina-da-growth-tabela-capsulas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T21:05:56.151Z",
+      "verification_etag_or_digest": "ffc383a1a87d9109e8b1229b78b0e8c544cc7200dc5d9589a5b4b08b18313f22",
       "verification_status": "verified"
     },
     {
