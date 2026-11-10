@@ -21,6 +21,7 @@ import { CECILIA_FULL_NAME } from '../src/lib/ceciliaCredentials';
 import { generateSectionIds, inferReviewKind, type EditorialNoteData, type Recommendation } from '../src/lib/content';
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
 import { getArticleStoreBlock, type ArticleLimitedCode, type ArticleStoreBlock } from '../src/lib/articleStore';
+import { getReviewStoreSlugs, getSingleStoreSlug } from '../src/lib/reviewStores';
 import { getActiveCoupons, getAllActiveCouponSlugs, getCouponBySlug, getCouponHubSections, getOtherActiveCoupons, getPendingLimitedCodes, getStoreCodeKind, type Coupon } from '../src/lib/couponsData';
 import {
   getCouponLanguageLinks,
@@ -1713,7 +1714,7 @@ for (const url of articleUrls) {
   const galleryVideos = review.youtubeUrl && !topVideoId ? 1 : 0;
   const galleryItems = (review.gallery ?? []).filter((item) => item.image || (item as { url?: string }).url).length + galleryVideos;
   // O cta do artigo com a marcação de patrocínio que o template dá a ele (ReviewNotebookTemplate).
-  const hasCommercialRelationship = Boolean(review.affiliate || (review.coupon && review.editorialNote));
+  const hasCommercialRelationship = Boolean(getReviewStoreSlugs(review).length > 0 || (review.coupon && review.editorialNote));
   const affiliateCta =
     !storeBlock && review.cta?.url && review.cta.label
       ? { url: review.cta.url, label: review.cta.label, text: review.cta.text, sponsored: review.cta.sponsored ?? hasCommercialRelationship }
@@ -1726,7 +1727,7 @@ for (const url of articleUrls) {
   const hasBrunoBox = Boolean(review.authors?.some((author) => author.slug === 'bruno-luiz'));
   assert.equal(
     hasBrunoBox,
-    review.affiliate === 'hostinger' || BRUNO_OUTSIDE_HOSTINGER.has(review.translationKey ?? review.slug),
+    getSingleStoreSlug(review) === 'hostinger' || BRUNO_OUTSIDE_HOSTINGER.has(review.translationKey ?? review.slug),
     `${pagePath}: assinatura do Bruno fora da regra (Hostinger e BRUNO_OUTSIDE_HOSTINGER)`
   );
   assert.deepEqual(
@@ -1891,7 +1892,7 @@ for (const url of articleUrls) {
     [...(typeof section.image === 'object' && section.image ? [section.image] : []), ...(section.images ?? [])].flatMap((image) => (image.href ? [image.href] : []))
   );
   if (photoLinks.length) {
-    const photoStore = review.affiliate ? getCouponBySlug(review.affiliate) : undefined;
+    const photoStore = getSingleStoreSlug(review) ? getCouponBySlug(getSingleStoreSlug(review)!) : undefined;
     const viewLabel = escapeHtml(getGalleryCopy(locale).viewProduct(photoStore ? { slug: photoStore.slug, brand: photoStore.brand } : undefined));
     for (const href of photoLinks) {
       const start = body.search(new RegExp(`<a\\b[^>]*\\shref="${escapeHtml(href).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"[^>]*\\saria-label="${viewLabel.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`));
@@ -1907,7 +1908,7 @@ for (const url of articleUrls) {
   // do FAQ (sem FAQ, da última) e o `end` logo depois da última seção (ou do quadro de decisão que vem nela), com o link da campanha, rel sponsored e os textos do idioma; nenhum em outra loja.
   // O que leva ao nosso artigo da campanha tem link interno, sem sponsored, e não sai no próprio artigo. Campanha que
   // ainda não começou não vem no HTML.
-  const bannerStore = review.affiliate ? getCouponBySlug(review.affiliate) : undefined;
+  const bannerStore = getSingleStoreSlug(review) ? getCouponBySlug(getSingleStoreSlug(review)!) : undefined;
   // Da fila de cada lugar, só a campanha no ar na hora do build sai no HTML; as outras ficam para o navegador mostrar no
   // prazo delas.
   const bannerNow = builtTime;
@@ -1977,7 +1978,7 @@ for (const url of articleUrls) {
   const sidebarCutouts = [...sidebar.matchAll(/<section\b[^>]*\sdata-recorte="sidebar"/g)].map((match) => elementAt(sidebar, match.index));
   assert.equal(sidebarCutouts.length, storeBlock ? 1 : 0, `${pagePath}: ${sidebarCutouts.length} recortes na lateral (loja: ${storeBlock?.slug ?? 'nenhuma'})`);
   assert.ok(!sidebar.includes('id="cupom-artigo"'), `${pagePath}: a lateral leva o id do recorte do topo`);
-  const store = review.affiliate ? getCouponBySlug(review.affiliate) : undefined;
+  const store = getSingleStoreSlug(review) ? getCouponBySlug(getSingleStoreSlug(review)!) : undefined;
   const codeKind = getStoreCodeKind(store, review.coupon);
   const hints = getCodeHints(copy, codeKind, store?.brand);
   let code: string | undefined;

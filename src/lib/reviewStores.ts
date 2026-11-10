@@ -18,6 +18,12 @@ export function isMultiStoreReview(review: WithAffiliate): boolean {
   return Array.isArray(review.affiliate);
 }
 
+// A loja do artigo de uma loja; o de várias lojas (e o sem loja) dá undefined. É o que lê quem só sabe mostrar uma loja
+// (o recorte, o bloco da loja, o dock): o artigo de várias lojas nunca cai na primeira da lista.
+export function getSingleStoreSlug(review: WithAffiliate): string | undefined {
+  return typeof review.affiliate === 'string' && review.affiliate ? review.affiliate : undefined;
+}
+
 export function reviewHasStore(review: WithAffiliate, slug: string): boolean {
   return getReviewStoreSlugs(review).includes(slug);
 }

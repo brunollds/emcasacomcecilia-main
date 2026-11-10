@@ -14,7 +14,7 @@ import { getCouponStorePath, getLocalizedCoupon, isTranslatedLocale } from '@/li
 import { publishedReviews, type Review } from '@/lib/data';
 import { getStoreArticlesPath, getStoreCode, hasArticlesPage } from '@/lib/homeStores';
 import { isInternalLink } from '@/lib/internalLinks';
-import { isMultiStoreReview, reviewHasStore } from '@/lib/reviewStores';
+import { getSingleStoreSlug, reviewHasStore } from '@/lib/reviewStores';
 import { isListedInPortuguese } from '@/lib/reviewVisibility.mjs';
 
 // Server-only: lê o índice de artigos (@/lib/data) e os dados de cupom. Nada 'use client' importa este arquivo.
@@ -127,8 +127,9 @@ function getStoreRules(store: Coupon, source: Coupon | undefined, locale: Coupon
 // `now` decide os códigos com prazo: o build usa a hora dele, e os testes passam uma data fixa.
 export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, now = Date.now()): ArticleStoreBlock | null {
   // O artigo de várias lojas não tem o bloco de uma loja: as linhas de código de cada uma vêm de outro lugar.
-  if (!review.affiliate || isMultiStoreReview(review)) return null;
-  const store = getCouponBySlug(review.affiliate);
+  const storeSlug = getSingleStoreSlug(review);
+  if (!storeSlug) return null;
+  const store = getCouponBySlug(storeSlug);
   if (!store) return null;
 
   const code = review.coupon || undefined;
