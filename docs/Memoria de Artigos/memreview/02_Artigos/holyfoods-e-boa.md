@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Marca"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "pronto-para-gates"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "gates-e-pr"
+proxima_acao: "em 13/11, reler os preços depois do fim dos 30% da campanha"
 bloqueado_por: null
 score_autoridade: 74
 score_conversao: 76
@@ -185,6 +185,9 @@ Não aplicado: a data de fim da campanha no texto (a regra é data uma vez, e en
 
 ## Capa e imagens (aprovadas em 10/11/2026)
 Novas, no CDN: `holyfoods-e-boa-capa.webp` (Funghi, Mac Queijo e o prato da Canja, sem a embalagem da sopa, que traz "saudável de verdade") e `holyfoods-e-boa-mac-queijo.webp`. Reaproveitadas: Sopa Low Carb, Risoto Funghi e sachês do pack da Canja. Fotos com `href` do produto (link da parceria).
+
+## Publicação
+No ar em 10/11/2026 (release 43c2b4af, PR #830). IndexNow enviado; probe de captura 42921080182, aceito pelo Bruno.
 
 ## Releitura
 Preços e campanha depois do fim dos 30% (a oferta tinha fim anunciado para 12/11): trocar a tabela de preços, a de 100 g e o cenário pelos valores do momento.
