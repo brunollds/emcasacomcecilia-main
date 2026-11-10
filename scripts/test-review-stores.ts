@@ -6,6 +6,7 @@ import { renderToStaticMarkup } from 'react-dom/server';
 
 import { ArticleCodeCopyProvider, HighlightCoupon } from '@/components/review/HighlightCoupon';
 import { ArticleStoreCodes } from '@/components/review/article/ArticleStoreCodes';
+import { ArticleStyling } from '@/components/review/article/ArticleStyling';
 import { getArticleStoreBlock, getArticleStoreBlocks } from '@/lib/articleStore';
 import { COUPONS } from '@/lib/couponsData';
 import { publishedReviews } from '@/lib/data';
@@ -20,6 +21,8 @@ import {
   isMultiStoreReview,
   reviewHasStore,
   reviewsShareStore,
+  withoutPausedHref,
+  withoutPausedStoreLinks,
 } from '@/lib/reviewStores';
 import { getOthersShelfContent, getRelatedShelfCards, getReviewsHubContent, getStoreShelfContent, type HubReview } from '@/lib/reviewsHub';
 import { getVideoItems, type VideoPageRecord } from '@/lib/videosHub';
@@ -306,4 +309,46 @@ const single = renderToStaticMarkup(
 );
 assert.ok(single.includes('data-copy-code="CECILIA10"'), 'uma loja: copia como sempre');
 
-console.log('✅ várias lojas nas listagens: home, /reviews, subpáginas, Outros, relacionados, data comercial, vídeo e snippet; regras do affiliate e do store; aviso de código antigo; blocos e linhas de código do artigo; código no texto');
+// Loja pausada no artigo de várias lojas: o botão do link sai, e a foto e as peças ficam sem link; com todas pausadas
+// (multiStores vazio), também. A loja ativa segue com os links, e o artigo de uma loja (sem multiStores), como sempre.
+// (O ReviewSectionContent não roda no tsx, porque o ReviewInlineImage é .js com JSX: as regras do link e da foto são
+// as funções que ele e o ReviewSectionContent usam.)
+const multiStoresOf = (...slugs: string[]) => Object.fromEntries(slugs.map((slug) => [slug, { brand: store(slug).brand, code: codeOf(slug) }]));
+const linksOf = (storeSlug?: string) => [
+  { label: 'Loja', href: 'https://loja.example/whey', sponsored: true, ...(storeSlug && { store: storeSlug }) },
+  { label: 'Cupons', href: '/cupons/black-skull', sponsored: false },
+  { label: 'Fonte', href: 'https://fonte.example', sponsored: false },
+];
+const labels = (links: { label: string }[]) => links.map(({ label }) => label);
+const photo = (storeSlug?: string) => ({ src: '/a.webp', href: 'https://loja.example/a', ...(storeSlug && { store: storeSlug }) });
+const stylingHtml = (storeSlug: string | undefined, multiStores?: ReturnType<typeof multiStoresOf>) =>
+  renderToStaticMarkup(
+    createElement(ArticleStyling, {
+      styling: sections(storeSlug)[0].styling,
+      locale: 'pt',
+      reviewSlug: 'x',
+      ...(multiStores && { multiStores }),
+    } as never)
+  );
+for (const [name, storeSlug, multiStores] of [
+  ['loja pausada', 'kopenhagen', multiStoresOf('black-skull')],
+  ['todas pausadas', 'black-skull', {}],
+  ['sem store', undefined, multiStoresOf('black-skull')],
+] as const) {
+  assert.deepEqual(labels(withoutPausedStoreLinks(linksOf(storeSlug), multiStores)), ['Cupons', 'Fonte'], `${name}: o botão da loja sai`);
+  assert.equal(withoutPausedHref(photo(storeSlug), multiStores).href, undefined, `${name}: a foto fica sem link`);
+  const html = stylingHtml(storeSlug, multiStores);
+  assert.ok(!html.includes('loja.example'), `${name}: peças sem link`);
+  for (const piece of ['Camiseta', 'Short']) assert.ok(html.includes(piece), `${name}: a peça ${piece} fica`);
+}
+for (const [name, storeSlug, multiStores] of [
+  ['loja ativa', 'black-skull', multiStoresOf('black-skull')],
+  ['uma loja', undefined, undefined],
+] as const) {
+  assert.deepEqual(labels(withoutPausedStoreLinks(linksOf(storeSlug), multiStores)), ['Loja', 'Cupons', 'Fonte'], `${name}: todos os links`);
+  assert.equal(withoutPausedHref(photo(storeSlug), multiStores).href, 'https://loja.example/a', `${name}: a foto com link`);
+  const html = stylingHtml(storeSlug, multiStores);
+  for (const path of ['c', 's']) assert.ok(html.includes(`https://loja.example/${path}`), `${name}: link da peça ${path}`);
+}
+
+console.log('✅ várias lojas nas listagens: home, /reviews, subpáginas, Outros, relacionados, data comercial, vídeo e snippet; regras do affiliate e do store; aviso de código antigo; blocos e linhas de código do artigo; código no texto; links, fotos e peças de loja pausada sem link');
