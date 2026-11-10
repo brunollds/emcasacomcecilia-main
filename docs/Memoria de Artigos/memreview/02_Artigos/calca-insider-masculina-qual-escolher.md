@@ -95,3 +95,10 @@ Dor 20/25, demanda 17/20, valor além do oficial 15/20, visita 11/15, cluster 9/
 ## 9. Card de estilo
 
 Incluído em 08/11/2026, depois de no ar: o Job 1 e o Anexo-Moda já pediam o card, e o briefing não o propôs. Rascunho e verificação por agentes, revisão da sessão. Os links e as fotos do artigo não mudaram.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/insider/calca-insider-masculina-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Calça FutureForm azul e calça Director bege da Insider.
+- **Origem:** fotos oficiais da Insider, recortadas; a Hybrid Jogger, que o artigo também compara, fica fora da arte. As fotos não mostram equivalência de tamanho entre modelos. Texto: "Calça Insider masculina" e "Qual modelo escolher?".
+- **Lote 4 do piloto de capas:** composição do Codex aprovada pelo Bruno em 10/11/2026 (`docs/auditoria-capas/lote-20261110-03/` no checkout principal): painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior fica no CDN, sem uso.

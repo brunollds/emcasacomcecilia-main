@@ -153,3 +153,10 @@ Fatos: `creatina-max-titanium-qual-pote-fatos-2810.md`, ao lado (vale sobre o no
 - No ar em 29/10/2026 02:21 UTC: PR #343 (id 653), release `b4c436fa`.
 - Redação: Fable 5.1, revisão do Claude. Capa aprovada pelo Bruno em 28/10 (`/images/reviews/max-titanium/creatina-max-titanium-qual-pote-capa.webp`), no CDN.
 - Pendente: reler preços antes da Black Friday.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/max-titanium/creatina-max-titanium-qual-pote-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Potes de 250 g da Creatina Creapure e de 500 g da Creatine da Max Titanium.
+- **Origem:** fotos oficiais dos dois potes, as mesmas da capa anterior; o tamanho na arte não é escala real e não aponta vencedor. Texto: "Creatina Max: qual pote?" e "Compare as opções".
+- **Lote 4 do piloto de capas:** composição do Codex aprovada pelo Bruno em 10/11/2026 (`docs/auditoria-capas/lote-20261110-03/` no checkout principal): painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior fica no CDN, sem uso.

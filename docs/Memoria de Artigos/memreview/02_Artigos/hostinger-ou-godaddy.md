@@ -155,3 +155,10 @@ Bruno notou que faltava comparar 24 meses e 1 mês. Lido no carrinho em 06/11 à
 - **Dólar:** o Premium de 12 meses caiu para US$ 19,10 (US$ 1,59/mês em 12, 24 e 48 meses); 24 meses US$ 38,21; 1 mês US$ 12,99. GoDaddy Economy: 24 meses US$ 155,76, 36 meses US$ 215,64, 60 meses US$ 359,40; 4 anos = 36 + 1 renovação = US$ 359,52 (antes US$ 515,52).
 
 Os fatos estão em `fatos-carrinho-0611.md` (scratchpad da sessão). Reescrita: PT e EN pelo Sonnet 5.5, as 8 outras versões traduzidas do EN pelo Sonnet 5.5 e relidas pelo Haiku 5.5 (pedido do Bruno: sem o Fable nesta rodada).
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/hostinger/hostinger-ou-godaddy-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Monitor de mesa com a tela roxa sobre uma mesa de escritório, em cenário ilustrativo (nos 10 idiomas, traduzido pelo Sonnet e revisado).
+- **Origem:** cenário gerado por IA (OpenAI), com monitor, teclado e mouse genéricos e a tela roxa vazia; não é interface da Hostinger nem da GoDaddy. Logo da Hostinger do repositório, nenhum logo da GoDaddy. Texto: "Hostinger vs GoDaddy". A capa vale para as 10 versões da família `hostinger-ou-godaddy`.
+- **Lote 4 do piloto de capas:** composição do Codex aprovada pelo Bruno em 10/11/2026 (`docs/auditoria-capas/lote-20261110-03/` no checkout principal): painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior fica no CDN, sem uso.
