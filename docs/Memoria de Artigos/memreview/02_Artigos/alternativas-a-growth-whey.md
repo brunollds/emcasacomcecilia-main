@@ -7,10 +7,10 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
 anexo_tipo: "Suplementos-Alimentos"
-status: "json-pronto"
+status: "no-ar"
 responsavel: "Claude"
-proxima_acao: "aprovação da capa e da tabela do 80% HD pelo Bruno; depois upload, PR e deploy"
-bloqueado_por: "aprovação da capa e da tabela do 80% HD (Bruno)"
+proxima_acao: "links dos quatro X ou Growth e do melhor-whey para a AG1; releitura de preços depois de 27/11"
+bloqueado_por: ""
 score_autoridade: 82
 score_conversao: 80
 score_ponderado_total: 81
@@ -92,5 +92,5 @@ Primeira pauta da série "Alternativas a <marca>" (Fila, seção 3), com o GO do
 
 | Quem | O quê |
 |---|---|
-| **Artigos** | Leitura nova de todos os tipos de whey das cinco marcas; redação, JSON, capa (Job 6), Job 3 e PR. Atualizar depois de 27/11 |
+| **Artigos** | No ar em 10/11 (#810, release 88429e18). Falta: uma linha com link para a AG1 nos quatro "X ou Growth" e no melhor-whey (Fila, seção 4); releitura dos preços depois de 27/11 |
 | **Bruno** (opcional) | O GSC dos quatro "X ou Growth" para "alternativa whey growth" |
