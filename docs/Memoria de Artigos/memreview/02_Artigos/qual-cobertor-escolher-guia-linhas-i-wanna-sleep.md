@@ -410,3 +410,10 @@ Gates rodados: `build-index.mjs` (191 receitas, 87 reviews), `typecheck` (limpo)
 - [x] **8. Extensão & Densidade:** Densidade construída por profundidade e esgotamento das dúvidas do leitor (conflito térmico, toque sherpa, peso opressivo, cobertor marshmallow, tabela semântica e personas), sem metas artificiais de contagem de palavras nem enchimentos vazios.
 - [x] **9. Capítulos & Keywords Donas:** Zero sobreposição de argumentos entre os 4 blocos. Cada grupo de keywords do Google Trends alocado estritamente ao seu capítulo dono (Cap 1: `cobertor dupla face`, `cobertor quente`, `cobertor casal`, `cobertor queen`; Cap 2: `cobertor sherpa casal`, `cobertor sherpa`, `cobertor sherpa queen`, `cobertor manta casal`, `cobertor antialérgico`; Cap 3: `cobertor que vira travesseiro`, `cobertor que vira almofada`, `cobertor leve`, `cobertor solteiro`; Cap 4: `cobertor marshmallow`, `cobertor fofinho`, `cobertor grosso`, `cobertor king`).
 
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/iwannasleep/qual-cobertor-escolher-guia-linhas-i-wanna-sleep-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelos com os cobertores Cozy e Puffer da I Wanna Sleep.
+- **Origem:** fotos promocionais do Cozy e do Puffer, sem teste nosso. A foto do Cozy também aparece em montagens de outras capas da IWS (cupom CECIEMCASA e Reclame Aqui).
+- **Lote 04 do piloto de capas (Codex):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-LOTES-04-05-06-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/iwannasleep/qual-cobertor-escolher-guia-linhas-i-wanna-sleep-capa-discover.webp`) fica no CDN, sem uso como capa.

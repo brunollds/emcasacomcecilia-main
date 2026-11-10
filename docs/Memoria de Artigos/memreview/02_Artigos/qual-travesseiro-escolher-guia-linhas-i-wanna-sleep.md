@@ -273,3 +273,10 @@ A Bruno pediu para (1) aumentar o texto sem repetição aproveitando mais palavr
 **Imagens de categoria adicionadas** (8 arquivos enviados pela Bruno, printados do próprio site oficial, prevalecendo imagem de categoria sobre imagem de item único, exceto Antialérgico que só tem um produto real — Airgelly 2.0): Cervicais/Ergonômicos, Memory Foam, Regulagem de Altura (família Snow), Látex, Fibra+Skin ("plumas" no menu do site), Pluma Natural, Viagem, e um render 3D do Airgelly 2.0. Copiadas para `public/images/reviews/iwannasleep/` e usadas como imagem principal de cada seção correspondente (mantendo as fotos de produto único já sourceadas como imagem secundária via `images[]`, criando um carrossel de 2 fotos nas seções que já tinham imagem).
 
 **Segue sem imagem própria:** Capas e Protetores (Protex Bamboo) — nenhuma das 8 imagens enviadas cobre essa categoria.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/iwannasleep/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Mão puxando a superfície de um travesseiro de látex.
+- **Origem:** foto promocional do látex, sem teste nosso; a mesma foto aparece na montagem da capa de `travesseiro-i-wanna-sleep-ou-emma`.
+- **Lote 05 do piloto de capas (Codex):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-LOTES-04-05-06-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/iwannasleep/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep-capa-discover.webp`) fica no CDN, sem uso como capa.

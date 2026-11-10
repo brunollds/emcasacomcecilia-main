@@ -152,3 +152,10 @@ Fatos: `pre-treino-max-titanium-horus-ou-egide-fatos-2810.md`, ao lado (vale sob
 - Redação: Fable 5.1, revisão do Claude. Capa aprovada pelo Bruno em 28/10 (`/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-capa.webp`), no CDN.
 - O max-titanium-ou-dux passou a citar o Night Train no mesmo PR.
 - Pendente: reler preços antes da Black Friday.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Potes de 300 g dos pré-treinos Hórus e Égide da Max Titanium.
+- **Origem:** fotos oficiais dos potes de 300 g do Hórus e do Égide; a arte não indica vencedor.
+- **Lote 04 do piloto de capas (Codex):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-LOTES-04-05-06-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-capa.webp`) fica no CDN, sem uso como capa.

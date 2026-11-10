@@ -232,3 +232,10 @@ Sem link (em falta, segundo o Bruno): Henley, Bermuda Ripstop Sail In, Polo Game
    - "Qual camiseta usar por baixo do blazer?" Lisa, de cor neutra e gola careca; entre as da Insider, a Heavy é a mais encorpada.
 
 **Card (depois):** a sessão "Redesenho do site" desenhou o card (`styling` na seção, `ArticleStylingCard`, rótulos no `articleCopy.ts`, placement `review_styling`). Só entra depois que o Bruno aprovar o padrão, num PR próprio que migra os bullets já escritos.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/insider/camiseta-insider-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo com a camiseta Henley verde-escura da Insider.
+- **Origem:** foto oficial da Insider (Henley verde-escura).
+- **Lote 06 do piloto de capas (Codex):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-LOTES-04-05-06-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/insider/camiseta-insider-qual-escolher-capa.webp`) fica no CDN, sem uso como capa.

@@ -179,3 +179,10 @@ Fatos: `mala-policarbonato-ou-abs-bagaggio-fatos-2910.md`, ao lado.
 - Preços do cartão lidos em 29/10/2026; cupom e Pix numa frase fora da tabela.
 - Tabela por material com o preço do cartão de 29/10 e o preço por litro; a Kyoto II sem promoção recebeu o CECILIA10 no carrinho (teste anônimo, 29/10). Imagens do CDN: capa, Bahamas branca e as três malas lado a lado.
 - Pendente: reler os preços na Black Friday de 2026.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Mala Bahamas branca da Bagaggio.
+- **Origem:** foto oficial da Bahamas branca; representa uma das malas citadas e não prova a comparação dos materiais.
+- **Lote 04 do piloto de capas (Codex):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-LOTES-04-05-06-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-capa.webp`) fica no CDN, sem uso como capa.

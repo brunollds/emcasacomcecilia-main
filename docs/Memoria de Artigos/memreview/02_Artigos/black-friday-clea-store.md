@@ -185,3 +185,10 @@ se a campanha sair antes, atualizar a resposta rápida e a seção 2.
 - Redação em outra sessão (14/10); Job 3 aplicado e revisado pelo Claude em 15/10/2026. Texto aprovado pelo Bruno em 15/10/2026.
 - JSON `content/reviews/black-friday-clea-store.json`, id 440, conferido frase a frase contra o texto aprovado.
 - Capa: print da categoria Body da loja em 14/10/2026, sem pop-ups (`black-friday-clea-store-bodies.webp`), no CDN e verificada em 15/10/2026. Imagens do corpo reaproveitadas dos artigos de onboarding: `clea-store-cupom-01-carrinho-sem-cupom.webp`, `clea-store-cupom-03-desconto-aplicado.webp`.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/clea-store/black-friday-clea-store-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo com o colete trespasse vermelho da Cléa Store.
+- **Origem:** foto oficial da Cléa Store (colete trespasse vermelho); a arte não traz percentual nem prazo de campanha.
+- **Lote 05 do piloto de capas (Codex):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-LOTES-04-05-06-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/clea-store/black-friday-clea-store-capa-discover.webp`) fica no CDN, sem uso como capa.

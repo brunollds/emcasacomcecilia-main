@@ -287,3 +287,10 @@ Comprar para a casa nunca deve ser sobre acumular coisas; é sobre criar um port
 Passamos um terço da nossa vida deitados. Quando você acorda descansado, sem o corpo moído e com a mente leve, o seu humor muda, a sua disposição no trabalho dobra e a harmonia dentro de casa floresce. Investir em 10 cm de conforto honesto, com materiais duráveis e respiráveis, é uma das formas mais carinhosas e inteligentes de colocar o seu bem-estar em primeiro lugar. 
 
 Se a sua cama atual está dura e implorando por acolhimento, o Pillow Top Magnum é aquele investimento de vida real que devolve o prazer de deitar e suspirar de alívio no fim de um dia cansativo. Tenha excelentes noites de sono!
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/iwannasleep/pillow-top-magnum-iws-colchao-dor-nas-costas-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Mãos mostrando a espessura do Pillow Top Magnum da I Wanna Sleep.
+- **Origem:** foto promocional da IWS (mãos mostrando a espessura); da mesma sessão, mas outra foto, da capa de `i-wanna-sleep-e-confiavel`.
+- **Lote 06 do piloto de capas (Codex):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-LOTES-04-05-06-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/iwannasleep/pillow-top-magnum-iws-capa-discover.webp`) fica no CDN, sem uso como capa.

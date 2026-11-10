@@ -167,3 +167,10 @@ Fatos: `creatina-probiotica-qual-compensa-fatos-2810.md`, ao lado (vale sobre o 
 - No ar em 29/10/2026 02:21 UTC: PR #343 (id 651), release `b4c436fa`.
 - Redação: Fable 5.1, revisão do Claude. Capa aprovada pelo Bruno em 28/10 (`/images/reviews/probiotica/creatina-probiotica-qual-compensa-capa.webp`), no CDN.
 - Pendente: reler preços antes da Black Friday.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/probiotica/creatina-probiotica-qual-compensa-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Potes de 300 g da Creatina e de 150 g da Creatina Creapure da Probiótica.
+- **Origem:** fotos oficiais dos potes de 300 g e de 150 g (Creapure); sem indicar vencedor.
+- **Lote 05 do piloto de capas (Codex):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-LOTES-04-05-06-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/probiotica/creatina-probiotica-qual-compensa-capa.webp`) fica no CDN, sem uso como capa.

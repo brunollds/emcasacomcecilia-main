@@ -100,3 +100,10 @@ Revisão externa (`docs/auditoria-copy-artigos/novos-20261108-i13-f12/PARECER.md
 - Medidas: nada de dobrar a largura nem de converter barra, baixo busto e busto.
 - Veredito sem "Se fosse para a minha casa", a pedido do Bruno: variação só neste artigo e no F12; o Job 2 não muda por isso.
 - Card de estilo em cada capítulo de linha.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/insider/sutia-insider-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo com o sutiã Lounge azul da Insider.
+- **Origem:** foto oficial da Insider (sutiã Lounge azul), a mesma da capa anterior.
+- **Lote 05 do piloto de capas (Codex):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-LOTES-04-05-06-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/insider/sutia-insider-qual-escolher-capa.webp`) fica no CDN, sem uso como capa.

@@ -175,3 +175,10 @@ Fatos: `max-titanium-ou-integralmedica-fatos-2810.md`, ao lado (vale sobre o nom
 - Redação: Fable 5.1, revisão do Claude. Capa aprovada pelo Bruno em 28/10 (`/images/reviews/max-titanium/max-titanium-ou-integralmedica-capa.webp`), no CDN.
 - A capa mostra o Whey Pro 1 kg: a creatina 500 g já estava em outras duas capas da Max (troca pedida pelo Bruno em 28/10).
 - Pendente: reler preços antes da Black Friday.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/max-titanium/max-titanium-ou-integralmedica-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pote de 900 g do IsoWhey da Max Titanium.
+- **Origem:** foto oficial do IsoWhey de 900 g, citado na seção de isolados; a arte não o torna vencedor do comparativo. Nenhuma foto ou logo da Integralmédica.
+- **Lote 06 do piloto de capas (Codex):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-LOTES-04-05-06-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/max-titanium/max-titanium-ou-integralmedica-capa.webp`) fica no CDN, sem uso como capa.

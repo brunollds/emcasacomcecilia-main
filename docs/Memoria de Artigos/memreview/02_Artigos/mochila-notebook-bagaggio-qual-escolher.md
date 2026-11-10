@@ -166,3 +166,10 @@ Fatos: `mochila-notebook-bagaggio-qual-escolher-fatos-2910.md`, ao lado.
 ## Publicação (30/10/2026)
 - No ar em 30/10/2026 17:02 UTC: PR #369, release `5c16b59c`, id 749 (PT).
 - Horizonte Slim: notebook de até 15,6" (ficha). Tech: Travelcross. No mesmo PR, a Samsonite saiu de bagaggio-e-confiavel e bagaggio-garantia-vitalicia.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/bagaggio/mochila-notebook-bagaggio-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Mochila Donna preta da Bagaggio.
+- **Origem:** foto oficial da Donna preta, de frente.
+- **Lote 06 do piloto de capas (Codex):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-LOTES-04-05-06-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/bagaggio/mochila-notebook-bagaggio-qual-escolher-capa.webp`) fica no CDN, sem uso como capa.

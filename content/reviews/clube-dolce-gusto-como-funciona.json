@@ -18,9 +18,10 @@
   "publishedAt": "03 Jul 2026",
   "publishedAtISO": "2026-07-03",
   "draft": false,
-  "image": "/images/reviews/dolcegusto/clube-dolce-gusto-como-funciona-hero-v2.webp",
-  "imageAlt": "Celular com tela de programa de recompensas ao lado de café e cápsulas em uma mesa clara",
-  "imageFit": "cover",
+  "image": "/images/reviews/dolcegusto/clube-dolce-gusto-como-funciona-capa-v2.webp",
+  "imageAlt": "Caixas de cápsulas Dolce Gusto e a caixa DGusta com cápsulas.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "pros": [],
   "cons": [],
   "contentSections": [

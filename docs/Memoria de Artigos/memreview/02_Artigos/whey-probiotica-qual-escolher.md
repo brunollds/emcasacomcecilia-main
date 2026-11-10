@@ -218,3 +218,10 @@ Nada foi editado. Propostas para o Bruno aprovar:
 - Proteína: a tabela do Pure Whey diz 20 g em 30 g (a embalagem da foto, 21 g); a do Zero Lactose, 21 g (a embalagem, 22 g). O texto segue a tabela e manda conferir a embalagem.
 - Job 3 (Fable): aprovado com 5 ajustes de frase, aplicados.
 - `probiotica-e-boa`: as seções de whey viraram um resumo com link para este artigo.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/probiotica/whey-probiotica-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pote de 900 g do 100% Pure Whey da Probiótica.
+- **Origem:** foto oficial do pote do 100% Pure Whey; sem indicar vencedor.
+- **Lote 04 do piloto de capas (Codex):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-LOTES-04-05-06-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/probiotica/whey-probiotica-qual-escolher-capa.webp`) fica no CDN, sem uso como capa.
