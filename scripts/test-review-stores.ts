@@ -8,7 +8,7 @@ import { ArticleCodeCopyProvider, HighlightCoupon } from '@/components/review/Hi
 import { ArticleStoreCodes } from '@/components/review/article/ArticleStoreCodes';
 import { ArticleStyling } from '@/components/review/article/ArticleStyling';
 import { getArticleStoreBlock, getArticleStoreBlocks } from '@/lib/articleStore';
-import { COUPONS } from '@/lib/couponsData';
+import { COUPONS, getActiveCoupons, getPendingLimitedCodes } from '@/lib/couponsData';
 import { publishedReviews } from '@/lib/data';
 import { resolveActiveHomeEvent } from '@/lib/homeEvents';
 import { getHomeLatest, getHomeStoreTabs, getStoreArticlesPage, sortStoresByNewestArticle } from '@/lib/homeStores';
@@ -143,8 +143,13 @@ assert.deepEqual(related.slice(0, 4).map(({ slug }) => slug), ['alternativas', '
 assert.equal(relatedOrderProblem(pair, related), null);
 assert.match(relatedOrderProblem(pair, [fixtures[6], multi]) ?? '', /mesma loja não veio primeiro/);
 assert.equal(relatedOrderProblem({ slug: 'x', affiliate: 'damie' }, [fixtures[7], fixtures[6]]), null, 'uma loja: como sempre');
+// Os cartões de relacionados leem as lojas ativas de verdade (couponsData.ts): o rótulo esperado sai delas, e uma loja
+// pausada amanhã não quebra o build.
 const relatedCards = getRelatedShelfCards([multi, fixtures[3]], 'pt');
-assert.deepEqual(relatedCards.map(({ store: label }) => label), ['4 lojas parceiras', 'Black Skull']);
+assert.deepEqual(
+  relatedCards.map(({ store: label }) => label),
+  [multi, fixtures[3]].map((item) => getReviewStoreLabel(item, getActiveCoupons()))
+);
 assert.deepEqual(getRelatedShelfCards([multi], 'en').map(({ store: label }) => label), [undefined]);
 
 // Data comercial: o cartão do artigo de várias lojas leva os nomes e nenhum botão de código.
@@ -266,13 +271,19 @@ assert.match(
 );
 assert.deepEqual(staleCodeWarnings({ affiliate: 'black-skull', contentSections: [{ paragraphs: ['CECILIA05'] }] }, COUPONS), [], 'só no artigo de várias lojas');
 
-// O artigo: um bloco por loja ativa, na ordem do artigo, com o código e o link de afiliado de sempre de cada uma.
+// O artigo: um bloco por loja ativa, na ordem do artigo, com o código e o link de afiliado de sempre de cada uma. Os
+// blocos leem as lojas de verdade: a pausada da lista é uma loja de código que está pausada hoje, e o esperado sai do
+// estado atual de cada uma, para pausar ou reativar uma loja não quebrar o build.
 const now = Date.parse('2026-11-10T12:00:00-03:00');
-const base = publishedReviews.find((item) => getSingleStoreSlug(item) === 'black-skull' && !item.locale);
-assert.ok(base, 'um artigo PT da Black Skull para a base');
-const multiReview = { ...base, affiliate: ['max-titanium', 'kopenhagen', 'black-skull'], coupon: undefined, cta: undefined };
+const activeSlugs = new Set(getActiveCoupons().map(({ slug }) => slug));
+const pausedSlug = COUPONS.find(({ slug, offerMode }) => offerMode === 'discount-code' && !activeSlugs.has(slug))?.slug;
+const base = publishedReviews.find((item) => getSingleStoreSlug(item) && !item.locale);
+assert.ok(base, 'um artigo PT de uma loja para a base');
+const listed = ['max-titanium', ...(pausedSlug ? [pausedSlug] : []), 'black-skull'];
+const multiReview = { ...base, affiliate: listed, coupon: undefined, cta: undefined };
 const blocks = getArticleStoreBlocks(multiReview, 'pt', now);
-assert.deepEqual(blocks.map(({ slug }) => slug), ['max-titanium', 'black-skull'], 'a pausada sai e a ordem é a do artigo');
+assert.deepEqual(blocks.map(({ slug }) => slug), listed.filter((slug) => activeSlugs.has(slug)), 'a pausada sai e a ordem é a do artigo');
+if (!pausedSlug) console.log('ℹ️ nenhuma loja de código pausada: o caso da pausada nos blocos não teve o que conferir.');
 for (const block of blocks) {
   assert.equal(block.code, codeOf(block.slug), `${block.slug}: código de sempre`);
   assert.equal(block.storeHref, store(block.slug).offerUrl, `${block.slug}: link de afiliado da loja`);
@@ -282,13 +293,18 @@ for (const block of blocks) {
 assert.deepEqual(getArticleStoreBlocks(base, 'pt', now), [], 'uma loja: nenhum bloco a mais');
 
 // Código com prazo no artigo de várias lojas: a linha da I Wanna Sleep leva os prazos pendentes dela (o ativo e o
-// agendado), a da outra loja nenhum, e o que venceu sai.
+// agendado), a da outra loja nenhum, e o que venceu sai. O esperado sai dos prazos de couponsData.ts, para a troca ou a
+// limpeza de um prazo não quebrar o build; o caso inventado de prazo ativo e agendado fica no guarda do test:build-output.
 const withIws = { ...multiReview, affiliate: ['i-wanna-sleep', 'black-skull'] };
 const limitedAt = (iso: string) =>
-  getArticleStoreBlocks(withIws, 'pt', Date.parse(iso)).map(({ slug, limitedCodes }) => [slug, (limitedCodes ?? []).map(({ endsAt }) => endsAt.slice(0, 10))]);
-assert.deepEqual(limitedAt('2026-11-05T12:00:00-03:00'), [['i-wanna-sleep', ['2026-11-08', '2026-11-27']], ['black-skull', []]], 'prazo ativo e agendado');
-assert.deepEqual(limitedAt('2026-11-10T12:00:00-03:00'), [['i-wanna-sleep', ['2026-11-27']], ['black-skull', []]], 'só o agendado');
-assert.deepEqual(limitedAt('2026-11-28T12:00:00-03:00'), [['i-wanna-sleep', []], ['black-skull', []]], 'tudo vencido');
+  getArticleStoreBlocks(withIws, 'pt', Date.parse(iso)).map(({ slug, limitedCodes }) => [slug, (limitedCodes ?? []).map(({ endsAt }) => endsAt)]);
+const expectedLimitedAt = (iso: string) =>
+  ['i-wanna-sleep', 'black-skull']
+    .filter((slug) => activeSlugs.has(slug))
+    .map((slug) => [slug, slug === 'i-wanna-sleep' ? getPendingLimitedCodes(store(slug), Date.parse(iso)).map(({ endsAt }) => endsAt) : []]);
+for (const iso of ['2026-11-05T12:00:00-03:00', '2026-11-10T12:00:00-03:00', '2026-11-28T12:00:00-03:00']) {
+  assert.deepEqual(limitedAt(iso), expectedLimitedAt(iso), `prazos da I Wanna Sleep em ${iso.slice(0, 10)}`);
+}
 assert.deepEqual(
   getArticleStoreBlocks(withIws, 'en', Date.parse('2026-11-05T12:00:00-03:00')).flatMap(({ limitedCodes }) => limitedCodes ?? []),
   [],
@@ -311,8 +327,7 @@ const render = (variant: 'top' | 'end' | 'sidebar' | 'drawer') =>
 const top = render('top');
 assert.match(top, /<section id="cupom-artigo" data-store-codes="top"/);
 assert.ok(top.includes('Códigos deste artigo'));
-assert.equal(top.match(/data-store-code="/g)?.length, 2, 'uma linha por loja');
-assert.ok(top.indexOf('data-store-code="max-titanium"') < top.indexOf('data-store-code="black-skull"'), 'na ordem do artigo');
+assert.deepEqual([...top.matchAll(/data-store-code="([^"]+)"/g)].map(([, slug]) => slug), blocks.map(({ slug }) => slug), 'uma linha por loja ativa, na ordem do artigo');
 for (const block of blocks) {
   assert.ok(top.includes(`>${block.code}</code>`), `${block.slug}: código na linha`);
   const link = top.match(new RegExp(`<a[^>]*href="${block.storeHref!.replace(/[.?*+^$()[\]{}|\\]/g, '\\$&').replaceAll('&', '&amp;')}"[^>]*>`))?.[0] ?? '';
@@ -324,7 +339,7 @@ assert.doesNotMatch(render('sidebar'), /Regras d[ao] /, 'a lateral fica sem o li
 const drawer = render('drawer');
 assert.doesNotMatch(drawer, /id="cupom-artigo"/, 'a gaveta não repete o id do topo');
 assert.match(drawer, /data-store-codes="drawer"/);
-assert.equal(drawer.match(/data-store-code="/g)?.length, 2, 'a gaveta: uma linha por loja');
+assert.equal(drawer.match(/data-store-code="/g)?.length, blocks.length, 'a gaveta: uma linha por loja ativa');
 assert.doesNotMatch(render('end'), /Códigos deste artigo/, 'no fim, o título vem do ArticleEnd');
 
 // Código no texto: cada um copia com a loja dele; o que duas lojas dividem só fica destacado.
