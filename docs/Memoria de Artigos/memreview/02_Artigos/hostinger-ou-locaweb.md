@@ -74,7 +74,7 @@ Domínio: na Locaweb, 1 ano grátis (.BR ou .STORE) em plano anual, bienal ou qu
 | Servidor no Brasil | Sim, em planos web e cloud, à escolha na configuração | Sim, dois data centers em São Paulo | Ajuda da Hostinger em inglês (atualizada há 2 semanas) e proposta da Locaweb |
 | E-mail | Hostinger Mail fica na França e na Alemanha | Não informado na leitura | Mesma ajuda |
 | Nota fiscal | "Tax-compliant invoices" só na UE e Irlanda do Norte, na Índia e na Indonésia. A fatura é um PDF | A conferir | Ajuda de faturas da Hostinger |
-| Pagamento | Parcela em até 12x. Pix a conferir | Boleto, cartão, débito automático e Pix | Página e contrato, cláusula 4.1 |
+| Pagamento | Cartão (até 12x), Pix por QR Code, boleto, NuPay, Google Pay, Apple Pay, PayPal e Coingate | Boleto, cartão, débito automático e Pix | Tela de pagamento da Hostinger (Bruno, 10/11) e contrato da Locaweb, cláusula 4.1 |
 | Reembolso | 30 dias | 30 dias da primeira ativação, em até 45 dias para devolver, a critério da empresa | Página e termo de adesão |
 | Renovação | Automática, pelo mesmo período | Automática, se ninguém avisar com 15 dias de antecedência. Preço reajustado pelo IPCA a cada 12 meses | Página e contrato, cláusulas 2.1 e 3.10 |
 | Suporte | 24h, inclusive em português | 24h, em português, por WhatsApp, chat e telefone | Páginas |
@@ -100,7 +100,7 @@ Contexto, não placar: volume de clientes e base no Reclame Aqui são diferentes
 - Preço da Hostinger sempre com o SONAR20 aplicado. Não usar "riscado" nem "de / por" no texto.
 - O SONAR20 é só para compra nova e não vale na renovação nem em domínio. Nunca "sempre compensa criar conta nova".
 - "Líder em hosting no Brasil" e os números de clientes são frases da Locaweb: não repetir como fato.
-- Sem experiência inventada. Este site roda na Hostinger como Node.js Web App, e o que dá para contar disso depende do Bruno (seção 7).
+- **Uso real:** usamos a hospedagem, o e-mail e o VPS da Hostinger, e este site roda lá (Bruno, 10/11). O texto diz isso como fato, com a ressalva de parceria. Sem números de velocidade ou tempo no ar, que não medimos. Da Locaweb não há uso registrado: ela entra pelas páginas, pelo contrato e pelo Reclame Aqui, e o texto diz que não foi testada.
 - Nota fiscal: dizer o que a página da Hostinger diz, sem orientação tributária.
 - Catraca: resposta rápida de 40 a 60 palavras sem R$; no máximo 2 datas no corpo; nenhuma data em título, legenda ou FAQ; `description` até 180 caracteres; `metaDescription` com o código e o % na primeira frase, código até o caractere 100, até 155 caracteres, sem data e sem R$.
 - Capa pelo Job 6, com o logo da Hostinger e sem a Locaweb.
@@ -116,8 +116,8 @@ Contexto, não placar: volume de clientes e base no Reclame Aqui são diferentes
 5. **Servidor no Brasil, nota fiscal e pagamento.**
 6. **O que vem no plano de entrada** (domínio, e-mail, limite de visitas).
 7. **Reembolso, cancelamento e Reclame Aqui.** Nos planos longos da Locaweb, depois dos 30 dias, o tempo não usado vira crédito por 90 dias ou reembolso "com as taxas administrativas previstas".
-8. **Leve se / Passe se.** Hostinger: menor gasto inicial, mais de um site barato, ferramentas de IA, código. Locaweb: empresa com nota no Brasil (depois de conferida), site que vai ficar anos, boleto, atendimento por telefone.
-9. **FAQ:** "Qual é melhor, Hostinger ou Locaweb?", "A Hostinger tem servidor no Brasil?", "A Hostinger emite nota fiscal?", "A Hostinger aceita Pix?" (se confirmado), "O cupom vale na renovação?", "Dá para levar o site da Locaweb para a Hostinger?"
+8. **Leve se / Passe se.** Hostinger: menor gasto inicial, mais de um site barato, ferramentas de IA, código. Locaweb: empresa com nota no Brasil (depois de conferida), site que vai ficar anos, atendimento por telefone.
+9. **FAQ:** "Qual é melhor, Hostinger ou Locaweb?", "A Hostinger tem servidor no Brasil?", "A Hostinger emite nota fiscal?", "A Hostinger aceita Pix?" (sim, por QR Code), "O cupom vale na renovação?", "Dá para levar o site da Locaweb para a Hostinger?"
 
 ## 7. A conferir antes da redação
 
@@ -125,8 +125,7 @@ Contexto, não placar: volume de clientes e base no Reclame Aqui são diferentes
 |---|---|
 | **Bruno ou sessão de artigos, no Chrome, sem comprar** | O preço de renovação da Locaweb no plano quadrienal: R$ 17,90 ou R$ 27,90 no Go (o mesmo nos outros dois). O carrinho ou o chat de vendas responde. Muda a conclusão do artigo |
 | **Sessão de artigos** | Se a Locaweb emite nota fiscal na hospedagem, e o SONAR20 no Unlimited de 48 meses no carrinho |
-| **Bruno** | Se a Hostinger aceita Pix no checkout brasileiro (a pendência da H7 é a mesma) |
-| **Bruno, opcional** | O que pode ser contado sobre o site rodar na Hostinger, e o GSC de "hostinger ou locaweb" |
+| **Bruno, opcional** | O GSC de "hostinger ou locaweb" |
 
 Reler preços no dia de publicar: as duas estão em campanha de Black Friday.
 
