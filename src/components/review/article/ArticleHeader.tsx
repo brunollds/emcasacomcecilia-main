@@ -61,19 +61,21 @@ export function ArticleHeader({
     <header data-article="topo" className="mb-10 text-marinho">
       <nav aria-label={copy.breadcrumbLabel}>
         <ol className="flex flex-wrap items-center gap-1 text-[13px] font-bold leading-[18px] text-marinho-suave">
-          {breadcrumbs.map(({ name, href }) => (
+          {breadcrumbs.map(({ name, href }, index) => (
             <Fragment key={href}>
               <li>
                 <Link href={href} className={`flex min-h-11 items-center underline underline-offset-[3px] hover:text-marinho ${FOCUS_RING}`}>
                   {name}
                 </Link>
               </li>
-              <li aria-hidden="true" className="flex">
+              <li aria-hidden="true" className={`flex ${index === breadcrumbs.length - 1 ? 'max-md:hidden' : ''}`}>
                 <ChevronRight className="h-3.5 w-3.5" />
               </li>
             </Fragment>
           ))}
-          <li aria-current="page" className="max-w-full min-w-0 truncate text-marinho">
+          {/* No celular, o título ocuparia uma linha só dele logo acima do h1: na tela, a trilha para na lista; o leitor de
+              tela e o JSON-LD seguem com o artigo. No computador, ele cabe na mesma linha. */}
+          <li aria-current="page" className="text-marinho max-md:sr-only md:max-w-full md:min-w-0 md:truncate">
             {review.title}
           </li>
         </ol>
