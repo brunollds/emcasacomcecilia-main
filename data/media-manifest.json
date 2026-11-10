@@ -106744,6 +106744,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-ou-principia-capa.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-ou-principia-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36236,
+      "sha256": "0e5f043df0245e5ff8dfac6d1a1407e0953ae4595c4a2880013f7a0daeb067a3",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-ou-principia-capa.webp",
+      "storage_filename": "simple-organic-ou-principia-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-ou-principia.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-ou-principia.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/simple-organic-ou-principia-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 209799,
+          "column": 15,
+          "literal": "/images/reviews/simple-organic/simple-organic-ou-principia-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0e5f043df0245e5ff8dfac6d1a1407e0953ae4595c4a2880013f7a0daeb067a3/simple-organic-ou-principia-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0e5f043df0245e5ff8dfac6d1a1407e0953ae4595c4a2880013f7a0daeb067a3/simple-organic-ou-principia-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T20:25:31.506Z",
+      "verification_etag_or_digest": "0e5f043df0245e5ff8dfac6d1a1407e0953ae4595c4a2880013f7a0daeb067a3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-ou-principia-ultra-serum-vitamina-c.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-ou-principia-ultra-serum-vitamina-c.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 14350,
+      "sha256": "f5055bdef7aa4e2b83e1e7ee49870a16d7227b516736f6d08f4ae61a9bee5259",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-ou-principia-ultra-serum-vitamina-c.webp",
+      "storage_filename": "simple-organic-ou-principia-ultra-serum-vitamina-c.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-ou-principia.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-ou-principia.json",
+          "line": 235,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-ou-principia-ultra-serum-vitamina-c.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 210011,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-ou-principia-ultra-serum-vitamina-c.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f5055bdef7aa4e2b83e1e7ee49870a16d7227b516736f6d08f4ae61a9bee5259/simple-organic-ou-principia-ultra-serum-vitamina-c.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f5055bdef7aa4e2b83e1e7ee49870a16d7227b516736f6d08f4ae61a9bee5259/simple-organic-ou-principia-ultra-serum-vitamina-c.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-10T20:25:31.753Z",
+      "verification_etag_or_digest": "f5055bdef7aa4e2b83e1e7ee49870a16d7227b516736f6d08f4ae61a9bee5259",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/simple-organic/simple-organic-reclame-aqui-capa.webp",
       "local_url": "/images/reviews/simple-organic/simple-organic-reclame-aqui-capa.webp",
       "media_kind": "image",
