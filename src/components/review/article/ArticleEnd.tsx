@@ -17,6 +17,8 @@ import { ArticleAffiliateBlock, type ArticleAffiliateCta } from './ArticleAffili
 import { ArticleAuthorBox, ArticleBrunoBox } from './ArticleAuthorBox';
 import { ArticleRelated } from './ArticleRelated';
 import { ArticleStoreBlock } from './ArticleStoreBlock';
+import { ArticleStoreCodes } from './ArticleStoreCodes';
+import { ARTICLE_STORE_ID } from '../articleAnchors';
 
 export interface ArticleEndProps {
   review: Review;
@@ -29,6 +31,8 @@ export interface ArticleEndProps {
   showVerdict: boolean;
   // O bloco da loja, com o mesmo link e a mesma marcação de patrocínio do recorte do topo; null sem loja ativa.
   storeBlock: StoreBlock | null;
+  // O artigo de várias lojas: as linhas de código no lugar do bloco da loja; vazio no artigo de uma loja.
+  storeBlocks?: readonly StoreBlock[];
   // Sem loja ativa, o link de afiliado do artigo (cta) ocupa o lugar do bloco da loja; null sem cta.
   affiliateCta: ArticleAffiliateCta | null;
   storeLabel: string;
@@ -40,8 +44,8 @@ export interface ArticleEndProps {
 // O fim da coluna do texto, ao lado da sidebar: vídeo, galeria, veredito, bloco da loja, a Cecília, o Bruno (só nos
 // artigos em que ele assina), relacionados e compartilhar.
 export function ArticleEnd({
-  review, kind, copy, ui, couponCopyLocale, youtubeEmbedUrl, videoPageUrl, showVerdict, storeBlock, affiliateCta, storeLabel,
-  reviewImage, relatedArticles, relatedAllHref,
+  review, kind, copy, ui, couponCopyLocale, youtubeEmbedUrl, videoPageUrl, showVerdict, storeBlock, storeBlocks = [],
+  affiliateCta, storeLabel, reviewImage, relatedArticles, relatedAllHref,
 }: ArticleEndProps): React.ReactElement {
   // O vídeo do YouTube que o bloco de vídeo já mostra não se repete na galeria.
   const galleryVideos = review.youtubeUrl && !youtubeEmbedUrl ? [{ url: review.youtubeUrl, title: review.title }] : [];
@@ -102,7 +106,20 @@ export function ArticleEnd({
         </section>
       )}
 
-      {storeBlock ? (
+      {storeBlocks.length > 0 ? (
+        <section id={ARTICLE_STORE_ID} className="mt-14 mb-10 scroll-mt-24 text-marinho print:hidden">
+          <SectionHeadingReveal as="h2" variant="d2" className="mb-7">
+            {copy.storeCodesTitle}
+          </SectionHeadingReveal>
+          <ArticleStoreCodes
+            variant="end"
+            blocks={storeBlocks}
+            locale={couponCopyLocale}
+            reviewSlug={review.slug}
+            storeLabel={storeLabel}
+          />
+        </section>
+      ) : storeBlock ? (
         <ArticleStoreBlock
           block={storeBlock}
           locale={couponCopyLocale}

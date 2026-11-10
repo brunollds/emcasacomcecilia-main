@@ -14,6 +14,7 @@ import { ReviewHeroImage } from '../ReviewHeroImage';
 import { getDisclosureLabel, type ArticleCopy, type TemplateUi } from '../articleCopy';
 import type { CouponCopyLocale } from '../couponCopyLocale';
 import { ArticleCouponCutout } from './ArticleCouponCutout';
+import { ArticleStoreCodes } from './ArticleStoreCodes';
 
 const CECILIA: Pick<PersonRef, 'name' | 'url'> = { name: 'Cecília Mauad', url: '/sobre' };
 
@@ -37,6 +38,8 @@ export interface ArticleHeaderProps {
   videoPageUrl: string | null;
   youtubeEmbedUrl: string | null;
   storeBlock: ArticleStoreBlock | null;
+  // O artigo de várias lojas: as linhas de código no lugar do recorte; vazio no artigo de uma loja.
+  storeBlocks?: readonly ArticleStoreBlock[];
   storeLabel: string;
 }
 
@@ -45,7 +48,7 @@ export interface ArticleHeaderProps {
 export function ArticleHeader({
   review, kind, kindLabel, copy, ui, noteLabels, couponCopyLocale, breadcrumbs, languageLinks, speechText,
   readTime, unanchoredNotes, reviewImage, reviewImageAlt, isPortraitHero, hasProductRating, videoPageUrl,
-  youtubeEmbedUrl, storeBlock, storeLabel,
+  youtubeEmbedUrl, storeBlock, storeBlocks = [], storeLabel,
 }: ArticleHeaderProps): React.ReactElement {
   const authors = review.authors?.length ? review.authors : [review.author ?? CECILIA];
   const showType = Boolean(review.type) && review.type !== kindLabel;
@@ -180,6 +183,17 @@ export function ArticleHeader({
           <ArticleCouponCutout
             variant="top"
             block={storeBlock}
+            locale={couponCopyLocale}
+            reviewSlug={review.slug}
+            storeLabel={storeLabel}
+          />
+        </div>
+      )}
+      {storeBlocks.length > 0 && (
+        <div className="mt-8 max-w-3xl">
+          <ArticleStoreCodes
+            variant="top"
+            blocks={storeBlocks}
             locale={couponCopyLocale}
             reviewSlug={review.slug}
             storeLabel={storeLabel}

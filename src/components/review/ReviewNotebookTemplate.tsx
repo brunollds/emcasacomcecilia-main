@@ -46,6 +46,8 @@ export interface ReviewNotebookTemplateProps {
   relatedReviews: ShelfCardArticle[];
   // Recorte do topo (e, depois, bloco da loja e lateral); null em artigo sem loja ativa.
   storeBlock?: ArticleStoreBlock | null;
+  // O artigo de várias lojas: um bloco por loja ativa (getArticleStoreBlocks), no lugar do storeBlock.
+  storeBlocks?: ArticleStoreBlock[];
   relatedArticleLinks: ResolvedRelatedArticle[];
   languageLinks: Partial<Record<Locale, string>>;
 }
@@ -69,6 +71,7 @@ export function ReviewNotebookTemplate({
   faqJsonLd = null,
   relatedReviews,
   storeBlock = null,
+  storeBlocks = [],
   relatedArticleLinks,
   languageLinks,
 }: ReviewNotebookTemplateProps): React.ReactElement {
@@ -146,11 +149,19 @@ export function ReviewNotebookTemplate({
   const offerActionLabel = couponCopyLocale === 'pt'
     ? store?.offerActionLabel
     : storeSlug && getLocalizedCoupon(storeSlug, couponCopyLocale)?.offerActionLabel;
-  const storeLabel = storeBlock?.code ? storeCopy.goToStore : offerActionLabel || storeCopy.viewOffer;
-  // O código da loja citado no texto do corpo copia ao toque, com os textos do recorte.
-  const inlineCodeCopy = storeBlock?.code
-    ? { code: storeBlock.code, codeKind: storeBlock.codeKind, brand: storeBlock.brand, slug: storeBlock.slug, reviewSlug: review.slug, locale: couponCopyLocale }
-    : null;
+  // No artigo de várias lojas, toda linha leva o código: o link é sempre "Ir para a loja".
+  const storeLabel = storeBlock?.code || storeBlocks.length > 0 ? storeCopy.goToStore : offerActionLabel || storeCopy.viewOffer;
+  // O código da loja citado no texto do corpo copia ao toque, com os textos do recorte; no artigo de várias lojas, o
+  // de cada loja da lista.
+  const toInlineCopy = (block: ArticleStoreBlock) =>
+    block.code
+      ? [{ code: block.code, codeKind: block.codeKind, brand: block.brand, slug: block.slug, reviewSlug: review.slug, locale: couponCopyLocale }]
+      : [];
+  // Só o artigo de várias lojas passa a lista: o de uma loja segue com as mesmas props de antes.
+  const multiStoreBlocks = storeBlocks.length > 0 ? storeBlocks : undefined;
+  const inlineCodeCopy = storeBlocks.length > 0
+    ? storeBlocks.flatMap(toInlineCopy)
+    : storeBlock ? toInlineCopy(storeBlock)[0] ?? null : null;
 
   const stepSections = (review.contentSections || []).filter((s) => isStepHeading(s.heading));
   const firstStepIndex = (review.contentSections || []).findIndex((s) => isStepHeading(s.heading));
@@ -250,6 +261,7 @@ export function ReviewNotebookTemplate({
             videoPageUrl={videoPageUrl}
             youtubeEmbedUrl={youtubeEmbedUrl}
             storeBlock={storeBlock}
+            storeBlocks={multiStoreBlocks}
             storeLabel={storeLabel}
           />
 
@@ -394,6 +406,7 @@ export function ReviewNotebookTemplate({
                 videoPageUrl={videoPageUrl}
                 showVerdict={shouldRenderVerdict}
                 storeBlock={storeBlock}
+                storeBlocks={multiStoreBlocks}
                 affiliateCta={
                   review.cta?.url && review.cta.label
                     ? { url: review.cta.url, label: review.cta.label, text: review.cta.text, sponsored: review.cta.sponsored ?? hasCommercialRelationship }
@@ -418,6 +431,7 @@ export function ReviewNotebookTemplate({
                 codeKind={codeKind}
                 codeBrand={codeBrand}
                 storeBlock={storeBlock}
+                storeBlocks={multiStoreBlocks}
                 storeLabel={storeLabel}
               />
             </aside>

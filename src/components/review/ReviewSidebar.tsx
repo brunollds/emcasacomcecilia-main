@@ -11,6 +11,7 @@ import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import type { CouponCodeKind } from '@/lib/couponsData';
 import type { Locale } from '@/lib/i18n/locales';
 import { ArticleCouponCutout } from './article/ArticleCouponCutout';
+import { ArticleStoreCodes } from './article/ArticleStoreCodes';
 import { getArticleCopy } from './articleCopy';
 import { getCouponCopyLabels } from './couponCopyLocale';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from './sidebarCopy';
@@ -29,9 +30,13 @@ interface ReviewSidebarProps {
   // Loja ativa do artigo: a lateral traz o recorte compacto, o mesmo do topo.
   storeBlock?: ArticleStoreBlock | null;
   storeLabel?: string;
+  // O artigo de várias lojas: as linhas de código no lugar do recorte; vazio no artigo de uma loja.
+  storeBlocks?: readonly ArticleStoreBlock[];
 }
 
 export type ResolvedRelatedArticle = { slug: string; title: string; href: string };
+
+const EMPTY_BLOCKS: readonly ArticleStoreBlock[] = [];
 
 const BOX = 'rounded-2xl border-2 border-marinho bg-white p-4';
 
@@ -151,11 +156,12 @@ export function ReviewSidebar({
   codeBrand,
   storeBlock = null,
   storeLabel = '',
+  storeBlocks = EMPTY_BLOCKS,
 }: ReviewSidebarProps): React.ReactElement | null {
   // Unified order for all kinds
   const stars = kind === 'produto' ? review.verdict?.stars ?? review.rating : undefined;
   const recommendation = kind === 'produto' ? review.verdict?.recommendation : undefined;
-  const hasConversionContent = Boolean(storeBlock || review.coupon || effectiveCta?.url);
+  const hasConversionContent = Boolean(storeBlock || storeBlocks.length > 0 || review.coupon || effectiveCta?.url);
   const hasToc = tocItems.length > 0;
   const hasRelated = relatedArticleLinks.length > 0;
   const { activeIndex } = useReadingPosition(tocItems.map((item) => item.id));
@@ -210,7 +216,15 @@ export function ReviewSidebar({
       )}
 
       {/* 2. O código: o recorte compacto da loja ativa; sem ela, o código e o link do artigo. */}
-      {storeBlock ? (
+      {storeBlocks.length > 0 ? (
+        <ArticleStoreCodes
+          variant="sidebar"
+          blocks={storeBlocks}
+          locale={locale}
+          reviewSlug={review.slug}
+          storeLabel={storeLabel}
+        />
+      ) : storeBlock ? (
         <div className="pt-4">
           <ArticleCouponCutout
             variant="sidebar"
