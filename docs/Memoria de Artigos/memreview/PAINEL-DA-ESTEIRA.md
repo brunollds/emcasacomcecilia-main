@@ -41,6 +41,7 @@
 ---
 
 ## 7. Publicados (`status: publicado`)
+- [x] [[poltrona-do-papai-couro-ou-corino]]: Poltrona do papai de couro ou corino: qual escolher (só PT, id 891; PP4; no ar em 09/11/2026, release d5466fab) 🚀
 - [x] [[presente-de-natal-para-pai-poltrona-do-papai]]: Presente de Natal para pai: quando a poltrona do papai vale a pena (só PT, id 889; PP3; no ar em 09/11/2026, release 04452e78; link no guia de móveis para a casa) 🚀
 - [x] [[mala-23kg-medidas-latam-gol-azul]]: Mala de 23 kg: as medidas da LATAM, GOL e Azul e quais malas cabem (só PT, id 890; BA1; no ar em 09/11/2026, release c7de2dcc, #791, com o link do guia de tamanho P, M e G) 🚀
 - [x] [[gift-card-insider-como-funciona-cupom]]: Gift card da Insider: como funciona, aceita cupom e quando compensa? (só PT, id 888; I9; no ar em 09/11/2026, #785, com o envio corrigido no artigo de Natal) 🚀
