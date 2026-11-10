@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
 anexo_tipo: "Anexo-Beleza"
-status: "pronto-para-gates"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "gates-e-pr"
+proxima_acao: "em 01/12, reler os preços das duas lojas e a Clean Friday"
 bloqueado_por: null
 score_autoridade: 72
 score_conversao: 80
@@ -207,6 +207,9 @@ R$ 29,50 dá R$ 28,02 ou R$ 28,03 conforme o arredondamento do carrinho; o preç
 
 Upload FTPS das duas novas em 10/11, verificadas por HTTPS e acrescentadas ao mapa de entrega. Nenhuma foto da
 Principia. Fotos sem `href`.
+
+## Publicação
+No ar em 10/11/2026 (release f6d704ca, PR #822). IndexNow enviado; probe de captura 42900945950.
 
 ## Releitura
 Reler preços das duas lojas e a Clean Friday em 01/12/2026 (a promoção da Simple Organic muda a conclusão de preço).
