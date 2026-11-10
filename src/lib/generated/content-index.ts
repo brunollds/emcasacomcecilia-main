@@ -120977,6 +120977,12 @@ export const reviewsData: unknown[] = [
     "type": "Guia de Escolha",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
+    "affiliate": [
+      "black-skull",
+      "dr-peanut",
+      "max-titanium",
+      "probiotica"
+    ],
     "author": {
       "name": "Cecília Mauad",
       "slug": "cecilia-mauad",
@@ -120984,10 +120990,10 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Qual whey escolher para cada objetivo? Black Skull, Max Titanium, Probiótica, Dr. Peanut e Mais Mu comparados pelo preço por 100 g de proteína, com a melhor opção para cada perfil.",
-    "metaDescription": "Qual whey comprar: compare Black Skull, Max Titanium, Probiótica, Dr. Peanut e Mais Mu pelo preço por 100 g de proteína, com os preços de 23/10/2026.",
+    "description": "Cinco marcas de whey comparadas pelo preço com o código, pela proteína por porção e pela embalagem: concentrado, isolado, zero lactose, pote de 450 g e sachê.",
+    "metaDescription": "CECILIA10 na Black Skull e mais quatro códigos: whey de cinco marcas comparado por preço com cupom, proteína por porção, lactose e embalagem.",
     "publishedAt": "23 de outubro de 2026",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-10",
     "publishedAtISO": "2026-10-23",
     "draft": false,
     "isNew": true,
@@ -120995,79 +121001,137 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Potes de whey de Black Skull, Max Titanium, Probiótica, Dr. Peanut e Mais Mu, com os cinco logos e o título Melhor whey: qual escolher?",
     "imageFit": "contain",
     "imageAspect": "landscape",
+    "decision": {
+      "takeIf": [
+        "Leve o 80% HD com o CECILIA10 se você quer o concentrado que custa menos por proteína.",
+        "Leve o Pure Whey Zero Lactose se você precisa de um whey declarado sem lactose.",
+        "Leve o pote de 450 g ou o sachê da Mais Mu se você quer comprar menos pó ou levar a porção na bolsa."
+      ],
+      "skipIf": [
+        "Passe a linha 100% HD e o Iso Protein Blend se você quer só proteína do soro.",
+        "Passe o isolado se o motivo da troca é a lactose: os dois desta seleção declaram que contêm.",
+        "Passe o pote pequeno se o que pesa é o custo por proteína: ele sai mais caro que o de 900 g."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "editorialNote": "Somos afiliados das cinco marcas, e ninguém da equipe tomou os wheys. Para dose, dieta ou saúde, fale com médico ou nutricionista.",
+    "relatedArticles": [
+      {
+        "slug": "black-skull-ou-max-titanium"
+      },
+      {
+        "slug": "max-titanium-ou-probiotica"
+      },
+      {
+        "slug": "dr-peanut-melhor-sabor"
+      }
+    ],
     "contentSections": [
       {
         "heading": "Resposta rápida: qual whey comprar",
         "paragraphs": [
-          "A resposta depende do objetivo da compra. Para pagar menos por grama de proteína, o caminho é o Whey 80% HD da Black Skull; para whey sem lactose, só o 100% Pure Whey Zero Lactose da Probiótica declara isso no rótulo. Isolado, 3W, sabor de sobremesa e pote pequeno têm cada um o seu vencedor no quadro abaixo."
+          "Para gastar menos por proteína, comece pelo 80% HD da Black Skull com o CECILIA10. Sem lactose, só o Pure Whey Zero Lactose da Probiótica declara isso no rótulo; no isolado, compare o IsoWhey da Max com o Iso Pro da Probiótica. A Dr. Peanut entra pelo amendoim, e a Mais Mu, pelo pote de 450 g e pelos sachês."
         ]
       },
       {
-        "heading": "Como comparamos: preço por 100 g de proteína",
+        "heading": "Melhor whey custo-benefício: os concentrados em refil",
         "paragraphs": [
-          "O preço do pote engana: dois potes de 900 g não têm a mesma proteína dentro. Por isso a régua deste guia é o preço por 100 g de proteína: preço ÷ (porções × proteína por porção) × 100.",
-          "Exemplo com o 80% HD da Black Skull: o refil de 900 g tem 30 porções de 23 g de proteína, ou seja, 690 g de proteína. R$ 159,90 ÷ 690 × 100 = R$ 23,17 por 100 g de proteína."
+          "O 80% HD da Black Skull é o concentrado que custa menos por proteína nesta seleção: 23 g de proteína em cada porção de 30 g e, com o CECILIA10, R$ 20,86 por 100 g de proteína. No sabor Banana, mais barato na página, a conta cai para R$ 18,25. A proteína é só concentrado do soro (WPC), e o produto contém lactose.",
+          "O refil costuma sair mais barato que o pote da mesma linha, então compare os dois antes de pagar pela embalagem rígida. Na Max, o refil do 100% Whey custa R$ 14,00 a menos que o pote; na Probiótica, o refil do 100% Pure Whey custa R$ 16,84 a menos."
         ],
-        "bullets": [
-          "Mesmo preço, outra proteína: o Whey 100% HD Refil 900 g da Black Skull custa os mesmos R$ 159,90 do 80% HD, mas rende 25 porções de 21 g, 525 g de proteína. A conta dá R$ 30,46 por 100 g.",
-          "Mesmo pote, outro rótulo: o 100% Whey Pote 900 g da Max (R$ 210,39) tem 630 g de proteína, 21 g em 30 g, e sai a R$ 33,40 por 100 g. O Whey Dr. Peanut 900 g (R$ 224,39) tem 450 g, 20 g em 40 g, e sai a R$ 49,86.",
-          "\"100%\" no nome não é 100% de proteína: o 100% HD da Black Skull tem 21 g em 35 g (60%), e o 100% Whey da Max, 21 g em 30 g (70%). O número do nome também não é o teor do pó: o 80% HD tem 23 g em 30 g, 77%.",
-          "Vale a tabela, não a página: quando o texto da loja promete mais proteína do que a tabela do rótulo, as contas usam a tabela. Os casos estão em \"Atenção ao nome\"."
-        ],
-        "postParagraphs": [
-          "Todas as contas usam o preço de venda de 23/10/2026, sem cupom, a proteína da tabela nutricional e as porções da tabela. Nos potes de 40 g por dose da Max e no whey Dr. Peanut, as porções são 900 g ÷ 40 g = 22,5. A Mais Mu não publica tabela: lá, a proteína por dose vem do texto da página, e o guia faz a conta só do pote de 450 g e do sachê."
-        ],
-        "image": {
-          "src": "/images/reviews/whey/melhor-whey-preco-por-proteina.webp",
-          "alt": "Gráfico de barras com o preço por 100 g de proteína dos principais wheys das cinco lojas em 23/10/2026, uma barra por produto com a marca no rótulo",
-          "caption": "Quadro: Em Casa com Cecília, com os preços das cinco lojas.",
-          "objectFit": "wide",
-          "aspectRatio": 1.7778
-        }
-      },
-      {
-        "heading": "Concentrado, isolado, 3W ou hidrolisado: a diferença",
-        "paragraphs": [
-          "O tipo diz como a proteína foi processada, e a diferença aparece na tabela nutricional."
-        ],
-        "bullets": [
-          "Concentrado (WPC): o tipo mais comum. Tem mais carboidrato e gordura que o isolado e menos proteína por grama: 67% no 100% Pure Whey da Probiótica (20 g em 30 g) e 77% no 80% HD da Black Skull (23 g em 30 g).",
-          "Isolado (WPI): passa por mais filtragem e traz mais proteína por grama e menos carboidrato. O IsoWhey da Max e o Iso Pro Whey da Probiótica têm 26 g em 30 g (87%), com 2,3 g e 1,3 g de carboidrato por dose.",
-          "Hidrolisado (WPH): proteína já quebrada em pedaços menores. Costuma aparecer na lista de ingredientes junto com os outros dois tipos.",
-          "3W: mistura de concentrado, isolado e hidrolisado (WPC, WPI e WPH). É o que dizem os rótulos do Top Whey 3W da Max e do 3W Core da Black Skull."
-        ],
-        "postParagraphs": [
-          "Isolado não é sinônimo de sem lactose. O IsoWhey da Max declara que contém lactose, e entre as cinco lojas só o Pure Whey Zero Lactose da Probiótica declara \"sem lactose\". Quem precisa evitar lactose deve procurar essa declaração no rótulo.",
-          "Quando o isolado compensa: é uma conta de preço. O IsoWhey custa R$ 41,82 por 100 g de proteína, R$ 18,65 a mais que o 80% HD (R$ 23,17). Faz sentido se você quer mais proteína na mesma dose e menos carboidrato (2,3 g contra 4 g). Se só importa quanto custa a proteína, o concentrado entrega mais por real."
-        ]
-      },
-      {
-        "heading": "Melhor whey custo-benefício",
-        "paragraphs": [
-          "Para quem quer o menor preço por proteína, o que mais compensa é o Whey 80% HD Refil 900 g da Black Skull. Custava R$ 159,90, com 23 g de proteína em 30 g (77%), 30 porções e R$ 23,17 por 100 g de proteína, o menor da nossa lista (fora o Iso Protein Blend, que mistura soja e aparece na seção \"Atenção ao nome\"). A proteína é WPC e o produto contém lactose. O sabor Banana saía a R$ 139,90 (R$ 20,28 por 100 g), e Chocolate e Baunilha estavam sem estoque.",
-          "A alternativa é o Hiper 100% Whey 900 g da Probiótica: em promoção, de R$ 210,39 por R$ 124,90, com 23 g de proteína em 40 g (57,5%), 23 porções e R$ 23,61 por 100 g. Sem a promoção, a conta passa para R$ 39,77. A dose é de 40 g, dois dosadores, e o sabor Baunilha estava sem estoque."
-        ],
-        "postParagraphs": [
-          "A diferença entre os dois é a dose: o 80% HD entrega 23 g em 30 g, e o Hiper, 23 g em 40 g. Se o preço promocional do Hiper acabar, o 80% HD fica sozinho nessa faixa.",
-          "Para ver a Black Skull lado a lado com outra marca, em whey e creatina, leia [Black Skull ou Growth](/reviews/black-skull-ou-growth)."
-        ],
+        "comparisonTable": {
+          "caption": "Preços lidos nos sites oficiais em 10/11/2026. Black Skull, Dr. Peanut e Mais Mu: preço com o código, que dá 10%. Max Titanium e Probiótica: preço da página, porque o código delas dá até 10% e o percentual muda de produto para produto. Por 100 g de proteína: conta nossa, com a porção e a proteína da tabela nutricional.",
+          "headers": [
+            "Produto",
+            "Proteína por porção",
+            "Preço",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "[Black Skull 80% HD, refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p)",
+              "23 g em 30 g",
+              "R$ 143,91 com CECILIA10",
+              "R$ 20,86"
+            ],
+            [
+              "[Max Titanium 100% Whey, refil 900 g](https://www.maxtitanium.com.br/100-whey-refil-900g/p)",
+              "21 g em 30 g",
+              "R$ 196,39 na página",
+              "R$ 31,17"
+            ],
+            [
+              "[Probiótica 100% Pure Whey, refil 900 g](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "20 g em 30 g",
+              "R$ 235,65 na página",
+              "R$ 39,28"
+            ]
+          ]
+        },
         "image": {
           "src": "/images/reviews/whey/black-skull-80-hd-refil.webp",
           "alt": "Embalagem refil preta de 900 g do Whey 80% HD da Black Skull, com a caveira da marca atrás do nome do produto e o selo de 23 g de proteína por dose",
           "caption": "Foto oficial da Black Skull.",
           "objectFit": "square",
           "aspectRatio": 1
+        },
+        "postParagraphs": [
+          "Os outros wheys da marca, um a um, estão no [guia dos wheys da Black Skull](/reviews/whey-black-skull-qual-escolher)."
+        ]
+      },
+      {
+        "heading": "Concentrados em pote: o Hiper em promoção",
+        "paragraphs": [
+          "Em pote, o mais barato por proteína é o Hiper 100% Whey da Probiótica, em promoção de R$ 210,39 por R$ 124,90: R$ 24,14 por 100 g de proteína, antes do código. A porção é maior, 40 g para 23 g de proteína, e isso já está na conta. Sem a promoção, o mesmo pote sai a R$ 40,66 por 100 g.",
+          "Entre os potes de porção de 30 g, o 100% Whey da Max fica à frente do 100% Pure Whey da Probiótica. O MAX10EMCASACOMCECILIA e o PRO10EMCASACOMCECILIA dão até 10%, e o carrinho mostra quanto cada item recebeu."
+        ],
+        "comparisonTable": {
+          "caption": "Preços da página, antes do código de até 10%. Por 100 g de proteína: conta nossa, com a porção e a proteína da tabela nutricional.",
+          "headers": [
+            "Produto",
+            "Proteína por porção",
+            "Preço",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "[Probiótica Hiper 100% Whey, pote 900 g](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "23 g em 40 g",
+              "R$ 124,90 na página (promoção, de R$ 210,39)",
+              "R$ 24,14"
+            ],
+            [
+              "[Max Titanium 100% Whey, pote 900 g](https://www.maxtitanium.com.br/100-whey-pote-900g/p)",
+              "21 g em 30 g",
+              "R$ 210,39 na página",
+              "R$ 33,40"
+            ],
+            [
+              "[Probiótica 100% Pure Whey, pote 900 g](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "20 g em 30 g",
+              "R$ 252,49 na página",
+              "R$ 42,08"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/whey/probiotica-100-pure-whey-baunilha.webp",
+          "alt": "Pote azul de 900 g do 100% Pure Whey da Probiótica, sabor Baunilha, de frente",
+          "caption": "Foto oficial da Probiótica.",
+          "objectFit": "contain",
+          "aspectRatio": 0.588
         }
       },
       {
         "heading": "Melhor whey zero lactose",
         "paragraphs": [
-          "Para quem quer whey sem lactose, o que mais compensa é o 100% Pure Whey Zero Lactose 900 g da Probiótica. Custava R$ 241,97, com 21 g de proteína em 30 g (70%, na tabela do chocolate), 30 porções e R$ 38,41 por 100 g. O rótulo diz que é produzido com WPC sem lactose, e o alergênico traz \"derivados de leite\". Tem 3 sabores: Chocolate, Morango e Baunilha. Foi o único whey declarado sem lactose nas cinco lojas.",
-          "O Iso Pro Whey da Probiótica, apesar de isolado, não serve para esse perfil: a página dele declara que contém lactose, além de derivados de leite e soja. Ele aparece no capítulo de whey isolado.",
-          "Nas outras marcas da comparação, nada declara \"sem lactose\". A Max não tem whey zero lactose: o \"Zero Lactose\" do menu dela é o Mass Titanium 17500, um hipercalórico. Na Black Skull, todos os wheys contêm lactose. No Whey Dr. Peanut, o rótulo diz que contém lactose, e nos wheys da Mais Mu a página diz que contém lactose ou não declara nada."
+          "O 100% Pure Whey Zero Lactose da Probiótica é o único desta seleção que declara ser sem lactose. O rótulo diz que ele é feito com concentrado do soro sem lactose, e o alergênico traz derivados de leite: serve a quem evita lactose, não a quem precisa de um produto sem leite."
         ],
-        "postParagraphs": [
-          "Para comparar a Probiótica com outra marca, em whey e creatina, leia [Probiótica ou Growth](/reviews/probiotica-ou-growth)."
+        "bullets": [
+          "Proteína por porção: 21 g em 30 g, na tabela do sabor Chocolate.",
+          "Preço na página: R$ 241,97, em 3 sabores.",
+          "Por 100 g de proteína: R$ 38,41, antes do código de até 10%."
         ],
         "image": {
           "src": "/images/reviews/whey/probiotica-pure-whey-zero-lactose.webp",
@@ -121075,38 +121139,107 @@ export const reviewsData: unknown[] = [
           "caption": "Foto oficial da Probiótica.",
           "objectFit": "square",
           "aspectRatio": 1
-        }
+        },
+        "postParagraphs": [
+          "O Iso Pro Whey, da mesma marca, é isolado, mas a página dele declara que contém lactose. Nas outras quatro marcas, nenhum whey declara \"sem lactose\": a Max não tem whey zero lactose, os da Black Skull contêm lactose, o rótulo do Dr. Peanut também, e nos da Mais Mu a página diz que contém ou não informa."
+        ]
       },
       {
-        "heading": "Melhor whey isolado",
+        "heading": "Melhor whey isolado: Max Titanium ou Probiótica",
         "paragraphs": [
-          "Para quem quer um isolado, o que mais compensa é o IsoWhey 900 g da Max Titanium. Custava R$ 326,18 (R$ 316,39 no Pix), com 26 g de proteína em 30 g (87%), 30 porções e R$ 41,82 por 100 g de proteína. Tem 2,3 g de carboidrato por dose, 3 sabores, e contém lactose (alergênicos: leite e soja).",
-          "A alternativa é o Iso Pro Whey 900 g da Probiótica: R$ 346,28, 26 g em 30 g (87%), 30 porções e R$ 44,39 por 100 g de proteína, R$ 2,57 a mais que o IsoWhey. A tabela dele traz também vitaminas e minerais, e o carboidrato é de 1,3 g por dose.",
-          "A Black Skull não tinha whey isolado no site: a busca por \"isolado\" voltou sem resultado. A Mais Mu vende um isolado em pote de 450 g, mas a lista de ingredientes traz isolada, concentrada e hidrolisada do soro, e a conta dá R$ 85,22 por 100 g de proteína: está no quadro-mestre."
+          "O IsoWhey da Max e o Iso Pro Whey da Probiótica têm a mesma proteína por porção, 26 g em 30 g. O IsoWhey custa menos por proteína; o Iso Pro tem menos carboidrato, 1,3 g contra 2,3 g por porção, e acrescenta vitaminas e minerais. Os dois contêm lactose."
+        ],
+        "comparisonTable": {
+          "caption": "Preços da página, antes do código de até 10%.",
+          "headers": [
+            "Produto",
+            "Proteína por porção",
+            "Preço",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "[Max Titanium IsoWhey, 900 g](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p)",
+              "26 g em 30 g",
+              "R$ 326,18 na página",
+              "R$ 41,82"
+            ],
+            [
+              "[Probiótica Iso Pro Whey, 900 g](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "26 g em 30 g",
+              "R$ 346,28 na página",
+              "R$ 44,39"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/whey/max-titanium-isowhey.webp",
+            "alt": "Pote azul-marinho de 900 g do IsoWhey da Max Titanium, sabor Baunilha, com o logo da marca e o selo de 26 g de proteína por porção",
+            "caption": "Foto oficial da Max Titanium.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/whey/probiotica-iso-pro-baunilha.webp",
+            "alt": "Pote azul de 900 g do Iso Pro Whey da Probiótica, sabor Baunilha, de frente",
+            "caption": "Foto oficial da Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6022
+          }
         ],
         "postParagraphs": [
-          "Para ver Max Titanium e Probiótica lado a lado, em whey e creatina, leia [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
-        ],
-        "image": {
-          "src": "/images/reviews/whey/max-titanium-isowhey.webp",
-          "alt": "Pote azul-marinho de 900 g do IsoWhey da Max Titanium, sabor Baunilha, com o logo da marca e o selo de 26 g de proteína por porção",
-          "caption": "Foto oficial da Max Titanium.",
-          "objectFit": "square",
-          "aspectRatio": 1
-        }
+          "A Black Skull não vende isolado no site. O whey que a Mais Mu vende como isolado lista também proteína concentrada e hidrolisada, e por isso está no capítulo das misturas.",
+          "As duas marcas lado a lado, em whey e creatina, estão em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
+        ]
       },
       {
-        "heading": "Whey 3W ou 100%: qual escolher",
+        "heading": "Whey 3W ou 100%: o nome não basta",
         "paragraphs": [
-          "A diferença está no rótulo: o \"100%\" é, em geral, concentrado (WPC), e o 3W mistura concentrado, isolado e hidrolisado (WPC, WPI e WPH). Para quem quer o 3W, o que mais compensa são as duas versões do Top Whey 3W da Max.",
-          "O Top Whey 3W + Sabor 900 g estava em promoção, de R$ 273,55 por R$ 189,00. A tabela do sabor Brigadeiro traz 25 g de proteína em 40 g (62,5%), e a página diz 26 g: vale a tabela. Com 22,5 porções (900 g ÷ 40 g), a conta dá R$ 33,60 por 100 g de proteína. Sem a promoção, sobe para R$ 48,63. Tem 6 sabores e contém lactose.",
-          "O Top Whey 3W + Performance 900 g custava R$ 273,55, com 32 g de proteína em 40 g (80%) e R$ 37,99 por 100 g. Traz 11 vitaminas e 6 minerais, tem 5 sabores e contém lactose.",
-          "A alternativa é o 3W Core 900 g da Black Skull: R$ 279,90, 31 g de proteína em 40 g (77,5%), 22 porções e R$ 41,04 por 100 g, com WPC, WPI e WPH na lista e 4 sabores. Nessa conta, as duas versões da Max saíram mais baratas por proteína que o 3W Core, mas o \"+ Sabor\" só por causa da promoção.",
-          "Contra o 100% Whey Refil da Max, que é só concentrado, a R$ 31,17 por 100 g, o 3W custa mais por proteína. O 100% HD da Black Skull, a R$ 30,46, também leva os três tipos na lista de ingredientes, sem dizer quanto há de cada um. Quem não faz questão do 3W no rótulo paga menos nesses dois."
+          "3W é a mistura de concentrado, isolado e hidrolisado do soro (WPC, WPI e WPH). A mistura não garante mais proteína por grama de pó: a tabela nutricional mostra a concentração, e a lista de ingredientes, as fontes.",
+          "Com o CECILIA10, o 3W Core da Black Skull sai a R$ 36,12 por 100 g de proteína. O Top Whey 3W + Sabor da Max, em promoção, fica em R$ 33,60 antes do código, e o + Performance, que tem mais proteína na mesma porção, em R$ 37,99."
         ],
-        "postParagraphs": [
-          "Para ver as duas marcas lado a lado, com a conta do 3W, leia [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium)."
-        ],
+        "comparisonTable": {
+          "caption": "Black Skull e Mais Mu: preço com o código de 10%. Max Titanium: preço da página, antes do código de até 10%.",
+          "headers": [
+            "Produto",
+            "Proteína por porção",
+            "Preço",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "[Black Skull 3W Core, 900 g](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p)",
+              "31 g em 40 g",
+              "R$ 251,91 com CECILIA10",
+              "R$ 36,12"
+            ],
+            [
+              "[Max Titanium Top Whey 3W + Sabor, 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p)",
+              "25 g em 40 g",
+              "R$ 189,00 na página (promoção, de R$ 273,55)",
+              "R$ 33,60"
+            ],
+            [
+              "[Max Titanium Top Whey 3W + Performance, 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p)",
+              "32 g em 40 g",
+              "R$ 273,55 na página",
+              "R$ 37,99"
+            ],
+            [
+              "[Black Skull Whey Protein (WPI, WPC, WPH), refil 900 g](https://www.blackskullusa.com.br/whey-protein-refil-black-skull--900g-wpi-wpc-wph/p)",
+              "11 g em 25 g",
+              "R$ 89,91 com CECILIA10",
+              "R$ 22,70"
+            ],
+            [
+              "[Mais Mu Isolado Baunilha, pote 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-baunilha-pote-450g)",
+              "22 g em 27 g",
+              "R$ 161,99 com MMEMCASACOMCECILIA (promoção, de R$ 299,99)",
+              "R$ 44,18"
+            ]
+          ]
+        },
         "images": [
           {
             "src": "/images/reviews/whey/max-titanium-top-whey-3w-sabor.webp",
@@ -121122,41 +121255,142 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "aspectRatio": 1
           }
+        ],
+        "postParagraphs": [
+          "O refil da Black Skull chamado Whey Protein (WPI, WPC, WPH) tem nome parecido com o do 3W Core, mas cada porção entrega 11 g de proteína, contra 31 g do 3W Core. O custo por proteína é baixo, e o pó rende menos proteína por copo.",
+          "O da Mais Mu é vendido como isolado e tem a proteína isolada em primeiro lugar na lista, seguida da concentrada e da hidrolisada. Ele serve a quem aceita a mistura e quer um pote de 450 g, sem ocupar o lugar dos isolados do capítulo anterior.",
+          "A conta do 3W entre as duas marcas está em [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium)."
         ]
       },
       {
-        "heading": "Whey para o dia a dia: mistura de proteínas ou concentrado",
+        "heading": "Black Skull 100% HD: whey com outras fontes de proteína",
         "paragraphs": [
-          "Para quem quer um whey de uso diário em muitos sabores, o que mais compensa é o [Whey 100% HD Refil 900 g da Black Skull](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p). Custava R$ 159,90, com 21 g de proteína em cada dose de 35 g e 25 doses na tabela: R$ 159,90 ÷ 525 g de proteína × 100 = R$ 30,46 por 100 g de proteína. São 11 sabores.",
-          "A mesma tabela vale para os outros tamanhos. O [pote de 900 g](https://www.blackskullusa.com.br/whey-100-hd-black-skull-900g-wpc-wpi-e-wph/p) custava R$ 169,90 (R$ 32,36 por 100 g de proteína), R$ 10,00 a mais que o refil. O [pote de 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p) custava R$ 279,90, com 50 doses: R$ 26,66 por 100 g de proteína, o menor número da linha 100% HD.",
-          "A lista de ingredientes traz proteína concentrada do soro do leite, peptídeos hidrolisados, proteína concentrada de leite, proteína isolada do soro e proteína hidrolisada do soro. A Black Skull não publica a quantidade de cada item, então o rótulo não diz quanto há de cada um. Contém lactose e não contém glúten.",
-          "A diferença para a alternativa é pequena. O [100% Whey Refil 900 g da Max Titanium](https://www.maxtitanium.com.br/100-whey-refil-900g/p) custava R$ 196,39, com 21 g de proteína em dose de 30 g: R$ 31,17 por 100 g de proteína, contra R$ 30,46 da Black Skull, ou R$ 0,71 a mais. O rótulo da Max é curto: proteína concentrada do soro do leite, aromatizante, lecitina de soja e sucralose. Contém lactose e não contém glúten. Quem prefere a lista de ingredientes curta fica com a Max; quem quer o menor preço por proteína, com a Black Skull."
+          "A linha 100% HD não é só proteína do soro. A lista de ingredientes traz concentrado, isolado e hidrolisado do soro, peptídeos hidrolisados e proteína concentrada de leite, e a página do pote de 1,8 kg descreve a fórmula como whey com colágeno hidrolisado. A Black Skull não informa quanto há de cada fonte.",
+          "Dentro da linha, o pote de 1,8 kg é o que custa menos por proteína: R$ 23,33 por 100 g com o CECILIA10. Quem quer só concentrado do soro fica com o 80% HD do começo; quem aceita a mistura compara os três tamanhos."
         ],
+        "comparisonTable": {
+          "caption": "Preço com o CECILIA10, que dá 10% na Black Skull.",
+          "headers": [
+            "Produto",
+            "Proteína por porção",
+            "Preço",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "[Black Skull 100% HD, refil 900 g](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p)",
+              "21 g em 35 g",
+              "R$ 143,91 com CECILIA10",
+              "R$ 26,65"
+            ],
+            [
+              "[Black Skull 100% HD, pote 900 g](https://www.blackskullusa.com.br/whey-100-hd-black-skull-900g-wpc-wpi-e-wph/p)",
+              "21 g em 35 g",
+              "R$ 152,91 com CECILIA10",
+              "R$ 28,32"
+            ],
+            [
+              "[Black Skull 100% HD, pote 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p)",
+              "21 g em 35 g",
+              "R$ 251,91 com CECILIA10",
+              "R$ 23,33"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/whey/black-skull-100-hd-refil.webp",
+          "alt": "Refil preto de 900 g do Whey 100% HD da Black Skull, com a caveira ao fundo e os selos de 21 g de proteína e 3W",
+          "caption": "Foto oficial da Black Skull.",
+          "objectFit": "square",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Black Skull Gourmet: pote menor, menos proteína por porção",
+        "paragraphs": [
+          "O 100% HD Gourmet tem 12 g de proteína em 30 g de pó, nos três formatos. O pote de 450 g ajuda a gastar menos na primeira compra, mas custa mais por proteína que os de 900 g."
+        ],
+        "comparisonTable": {
+          "caption": "Preço com o CECILIA10, que dá 10% na Black Skull.",
+          "headers": [
+            "Produto",
+            "Proteína por porção",
+            "Preço",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "[Black Skull 100% HD Gourmet, refil 900 g](https://www.blackskullusa.com.br/whey-100-gourmet-refil-900/p)",
+              "12 g em 30 g",
+              "R$ 107,91 com CECILIA10",
+              "R$ 29,98"
+            ],
+            [
+              "[Black Skull 100% HD Gourmet, pote 900 g](https://www.blackskullusa.com.br/whey-100-gourmet-900/p)",
+              "12 g em 30 g",
+              "R$ 116,91 com CECILIA10",
+              "R$ 32,48"
+            ],
+            [
+              "[Black Skull 100% HD Gourmet, pote 450 g](https://www.blackskullusa.com.br/whey-100-gourmet-450/p)",
+              "12 g em 30 g",
+              "R$ 76,41 com CECILIA10",
+              "R$ 42,45"
+            ]
+          ]
+        },
         "postParagraphs": [
-          "O 100% Whey da Max contra o de uma marca de fora das cinco está em [Max Titanium ou Growth](/reviews/max-titanium-ou-growth)."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/whey/black-skull-100-hd-refil.webp",
-            "alt": "Refil preto de 900 g do Whey 100% HD da Black Skull, com a caveira ao fundo e os selos de 21 g de proteína e 3W",
-            "caption": "Foto oficial da Black Skull.",
-            "objectFit": "square",
-            "aspectRatio": 1
-          }
+          "Para gastar menos na compra, olhe o preço do pacote; para gastar menos pela proteína, a última coluna. São duas decisões diferentes."
         ]
       },
       {
-        "heading": "Whey com sabor de sobremesa",
+        "heading": "Whey com sabor de sobremesa ou em embalagem menor",
         "paragraphs": [
-          "Para quem escolhe o whey pelo sabor de sobremesa, com amendoim, o que mais compensa é o [Whey Dr. Peanut 900 g](https://www.drpeanut.com.br/whey-protein). São 5 sabores: Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, todos a R$ 224,39.",
-          "No preço por proteína ele não compensa: com 20 g de proteína em dose de 40 g (22,5 doses no pote de 900 g), são R$ 49,86 por 100 g de proteína, o mais alto entre os concentrados da Black Skull, da Max e da Probiótica. O perfil dele é o sabor. Para comparar, o [100% Whey Pote 900 g da Max](https://www.maxtitanium.com.br/100-whey-pote-900g/p), no mesmo pote de 900 g, saía a R$ 33,40.",
-          "Também não é o 100% Whey da Max com outro sabor. A tabela é outra: dose de 40 g contra 30 g, 20 g de proteína contra 21 g e 50 g de proteína por 100 g de pó contra 70 g. O rótulo lista amendoim torrado e granulado, e o produto contém amendoim, glúten, lactose e derivados de soja.",
-          "O rótulo diz \"fabricado em Supley\", em Matão (SP), e \"100% Whey da Max Titanium em colaboração com a Dr. Peanut\". O whey está à venda no site da Max e no da Dr. Peanut; o link acima leva ao da Dr. Peanut, onde vale o código da Dr. Peanut (veja o capítulo dos cupons).",
-          "A alternativa de sabor é o [Whey Concentrado Paçoquita da Mais Mu](https://www.lojamaismu.com.br/produtos/whey-concentrado-pacoquita-pote-450g), o primeiro da ordem de mais vendidos do site da Mais Mu. A conta dele está no próximo capítulo."
+          "O Whey Dr. Peanut é para quem procura whey com amendoim e sabor de sobremesa: Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, todos ao mesmo preço. Ninguém da equipe provou, então a lista não é avaliação de sabor.",
+          "Por proteína, ele custa mais que os concentrados do começo: 20 g de proteína em 40 g de pó e, com o DREMCASACOMCECILIA, R$ 44,88 por 100 g. O rótulo lista amendoim torrado e granulado e declara amendoim, glúten, lactose e derivados de soja.",
+          "Na Mais Mu, a vantagem é a embalagem: o pote de 450 g permite comprar menos pó de uma vez, e o sachê leva uma porção pronta na bolsa ou na viagem. Com a promoção da loja e o MMEMCASACOMCECILIA, o pote de Baunilha sai a R$ 48,96 por 100 g de proteína, e os sachês, de R$ 61,16 a R$ 64,99."
         ],
-        "postParagraphs": [
-          "Os sabores do whey e das pastas, um a um, estão no [guia de sabores da Dr. Peanut](/reviews/dr-peanut-melhor-sabor)."
-        ],
+        "comparisonTable": {
+          "caption": "Preço com o código de cada loja, que dá 10%. Sachês: caixa com 15, cada um com 20 g de proteína. A página do pote de Paçoquita mostra 20 g de proteína por porção, mas não o tamanho da porção, e por isso a conta dele fica em aberto.",
+          "headers": [
+            "Produto",
+            "Proteína por porção",
+            "Preço",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "[Whey Dr. Peanut, pote 900 g](https://www.drpeanut.com.br/whey-protein)",
+              "20 g em 40 g",
+              "R$ 201,95 com DREMCASACOMCECILIA",
+              "R$ 44,88"
+            ],
+            [
+              "[Mais Mu Concentrado Baunilha, pote 450 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-pote-450g)",
+              "20 g em 36 g",
+              "R$ 122,39 com MMEMCASACOMCECILIA (promoção, de R$ 159,99)",
+              "R$ 48,96"
+            ],
+            [
+              "[Mais Mu Concentrado Paçoquita, pote 450 g](https://www.lojamaismu.com.br/produtos/whey-concentrado-pacoquita-pote-450g)",
+              "20 g por porção",
+              "R$ 122,39 com MMEMCASACOMCECILIA (promoção, de R$ 159,99)",
+              "Sem a tabela na página"
+            ],
+            [
+              "[Mais Mu Concentrado Paçoquita, 15 sachês](https://www.lojamaismu.com.br/produtos/whey-concentrado-pacoquita-sache-525g)",
+              "20 g por sachê",
+              "R$ 183,48 com MMEMCASACOMCECILIA (promoção, de R$ 239,85)",
+              "R$ 61,16"
+            ],
+            [
+              "[Mais Mu Concentrado Cookies'n Cream, 15 sachês](https://www.lojamaismu.com.br/produtos/whey-concentrado-cookies-sache-465g)",
+              "20 g em 35 g",
+              "R$ 194,96 com MMEMCASACOMCECILIA (promoção, de R$ 254,85)",
+              "R$ 64,99"
+            ]
+          ]
+        },
         "images": [
           {
             "src": "/images/reviews/whey/whey-dr-peanut.webp",
@@ -121164,22 +121398,7 @@ export const reviewsData: unknown[] = [
             "caption": "Foto oficial da Max Titanium.",
             "objectFit": "square",
             "aspectRatio": 1
-          }
-        ]
-      },
-      {
-        "heading": "Whey para começar: pote pequeno e sachê",
-        "paragraphs": [
-          "Quem quer testar um whey sem comprar 900 g, ou levar uma dose pronta na bolsa, encontra na Mais Mu o pote de 450 g e a caixa com 15 sachês. Aqui a compra é pelo formato e pelo sabor, não pelo preço: por proteína, os dois saem bem mais caros que os potes de 900 g das outras marcas.",
-          "O [pote de 450 g do concentrado sabor Paçoquita](https://www.lojamaismu.com.br/produtos/whey-concentrado-pacoquita-pote-450g) custava R$ 159,99, com 20 g de proteína por dose e 12 doses declaradas na página: R$ 159,99 ÷ (12 × 20 g) × 100 = R$ 66,66 por 100 g de proteína. Nos sabores com 13 doses, como Baunilha e Cookies n Cream, a conta cai para R$ 61,53. A Paçoquita é o primeiro whey da ordem de mais vendidos do site da Mais Mu. Entre os outros sabores está o doce de leite.",
-          "A caixa de 15 sachês de concentrado ([Cookies n Cream](https://www.lojamaismu.com.br/produtos/whey-concentrado-cookies-sache-465g), R$ 254,85) tem 20 g de proteína por sachê, ou 300 g de proteína na caixa: R$ 84,95 por 100 g de proteína. Em sabores como a [Paçoquita](https://www.lojamaismu.com.br/produtos/whey-concentrado-pacoquita-sache-525g), a caixa custava R$ 239,85, ou R$ 79,95 por 100 g.",
-          "A Mais Mu não publica tabela nutricional dos wheys: a proteína por dose e o número de doses vêm do texto da página de cada produto. Este guia faz a conta só do pote de 450 g e do sachê, os formatos deste perfil; os refis de 900 g e de 1,8 kg ficam fora do quadro.",
-          "Se o que importa é gastar menos para começar, a alternativa é o [Whey 100% HD Gourmet 450 g da Black Skull](https://www.blackskullusa.com.br/whey-100-gourmet-450/p): R$ 84,90, com 15 doses de 30 g e só 12 g de proteína por dose, ou R$ 47,17 por 100 g de proteína. O pote é barato, mas a dose entrega pouca proteína; veja o capítulo \"Atenção ao nome\"."
-        ],
-        "postParagraphs": [
-          "A Mais Mu contra a Growth, no whey e na creatina, está em [Mais Mu ou Growth](/reviews/mais-mu-ou-growth)."
-        ],
-        "images": [
+          },
           {
             "src": "/images/reviews/whey/mais-mu-pote-pacoquita.webp",
             "alt": "Pote azul de 450 g do Whey Protein Mais Mu sabor Paçoquita, com a vaca de óculos e prancha de surfe e o selo de 20 g de proteína",
@@ -121194,487 +121413,104 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "aspectRatio": 1
           }
-        ]
-      },
-      {
-        "heading": "Atenção ao nome: wheys que não são o que parecem",
-        "paragraphs": [
-          "O nome do pote nem sempre diz o que está dentro. Estes são os casos que mudam a conta, com os números da tabela nutricional ou da lista de ingredientes."
-        ],
-        "bullets": [
-          "[Iso Protein Blend da Probiótica](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): não é whey isolado nem whey puro. A descrição e a lista de ingredientes dizem proteína isolada de soja e proteína concentrada do soro do leite. A dose é de 40 g com 25 g de proteína, e o preço era R$ 79,00 em promoção, de R$ 121,99: R$ 13,74 por 100 g de proteína, o menor número do quadro-mestre. Compare como mistura de soja e soro, não com os wheys de soro. Contém lactose.",
-          "[Whey 100% HD Gourmet 900 g da Black Skull](https://www.blackskullusa.com.br/whey-100-gourmet-900/p): 12 g de proteína em dose de 30 g (40%), e não os 21 g do 100% HD comum. A R$ 129,90, são R$ 36,08 por 100 g de proteína, contra R$ 26,66 a R$ 32,36 do 100% HD.",
-          "[Whey Protein (WPI, WPC, WPH) Refil 900 g da Black Skull](https://www.blackskullusa.com.br/whey-protein-refil-black-skull--900g-wpi-wpc-wph/p): 11 g de proteína em dose de 25 g (44%), a menor proteína por dose da loja, com nome parecido com o do 3W Core, que tem 31 g em 40 g. O refil custava R$ 99,90, ou R$ 25,23 por 100 g de proteína.",
-          "[Whey Turbo Refil 907 g da Black Skull](https://www.blackskullusa.com.br/whey-turbo-refil--907g/p): é um hipercalórico. A dose de 120 g traz 30 g de proteína, 75 g de carboidrato e 479 kcal. Não entra no quadro-mestre.",
-          "Página e tabela que não batem: o texto do [100% Pure Whey Pote 900 g da Probiótica](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) diz \"20 g a 24 g\" de proteína e a tabela diz 20 g. No 100% Whey da Max, em pote, o texto diz \"até 20 g\" e a tabela, 21 g. No [Top Whey 3W \"+ Sabor\" da Max](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p), a página diz 26 g e a tabela do sabor Brigadeiro, 25 g. Vale sempre a tabela."
         ],
         "postParagraphs": [
-          "Antes de comparar dois potes, olhe a proteína por dose e o tipo de proteína na lista de ingredientes, e deixe o nome e o tamanho do pote para depois."
+          "O rótulo do Dr. Peanut diz \"100% Whey da Max Titanium em colaboração com a Dr. Peanut\", mas a fórmula é outra: porção de 40 g com 20 g de proteína, contra 30 g com 21 g no 100% Whey da Max.",
+          "Na Mais Mu, o código soma com a promoção e com os 3% do Pix, mas não com outros cupons da loja nem com o crédito do cashback. O código e as regras estão na página de cupom da loja, no botão abaixo.",
+          "Os sabores da Dr. Peanut, um a um, estão no [guia de sabores da marca](/reviews/dr-peanut-melhor-sabor), e os formatos da Mais Mu, no [guia dos wheys da Mais Mu](/reviews/whey-mais-mu-qual-escolher)."
         ],
-        "image": {
-          "src": "/images/reviews/whey/melhor-whey-atencao-ao-nome.webp",
-          "alt": "Quadro desenhado com seis nomes de whey e o que a tabela e os ingredientes dizem de cada um: Iso Protein Blend com soja, Gourmet com 12 g, Whey Protein WPI WPC WPH com 11 g, Turbo hipercalórico, o 100% do nome e a página que promete mais que a tabela",
-          "caption": "Quadro: Em Casa com Cecília, a partir dos rótulos.",
-          "objectFit": "wide",
-          "aspectRatio": 1.7778
-        }
-      },
-      {
-        "heading": "Probiótica: concentrado ou isolado",
-        "paragraphs": [
-          "Na Probiótica, compare os quatro potes pela proteína da tabela do sabor: os preços abaixo são de 30/10, no cartão."
-        ],
-        "comparisonTable": {
-          "headers": [
-            "Produto",
-            "Tipo de proteína",
-            "Proteína por dose",
-            "Preço no cartão",
-            "Por 100 g de proteína"
-          ],
-          "rows": [
-            [
-              "[100% Pure Whey pote, baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
-              "Concentrado (WPC)",
-              "20 g em 30 g",
-              "R$ 252,49",
-              "R$ 42,08"
-            ],
-            [
-              "[Iso Pro Whey pote, baunilha](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
-              "Isolado (WPI)",
-              "26 g em 30 g",
-              "R$ 346,28",
-              "R$ 44,39"
-            ],
-            [
-              "[100% Pure Whey Zero Lactose pote, chocolate](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
-              "Concentrado sem lactose (WPC)",
-              "21 g em 30 g",
-              "R$ 241,97",
-              "R$ 38,41"
-            ],
-            [
-              "[Iso Protein Blend, morango](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
-              "Isolado de soja + concentrado do soro",
-              "25 g em 40 g",
-              "R$ 79,00 (promoção, de R$ 121,99)",
-              "R$ 13,74 (R$ 21,22 sem a promoção)"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "O Iso Pro é o isolado de soro: 26 g por dose e 1,3 g de carboidrato, pelo maior preço por proteína da tabela. Para whey sem lactose, o zero lactose de chocolate sai abaixo do pote de baunilha. O Iso Protein Blend é soja isolada com concentrado do soro, não isolado de soro: na promoção ele sai mais barato, mas a proteína é outra."
-        ],
-        "images": [
+        "links": [
           {
-            "src": "/images/reviews/whey/probiotica-100-pure-whey-baunilha.webp",
-            "alt": "Pote azul de 900 g do 100% Pure Whey da Probiótica, sabor Baunilha, de frente",
-            "caption": "Foto oficial da Probiótica.",
-            "objectFit": "contain",
-            "aspectRatio": 0.588
-          },
-          {
-            "src": "/images/reviews/whey/probiotica-iso-pro-baunilha.webp",
-            "alt": "Pote azul de 900 g do Iso Pro Whey da Probiótica, sabor Baunilha, de frente",
-            "caption": "Foto oficial da Probiótica.",
-            "objectFit": "contain",
-            "aspectRatio": 0.6022
-          },
-          {
-            "src": "/images/reviews/whey/probiotica-iso-protein-blend-morango.webp",
-            "alt": "Pote azul de 900 g do Iso Protein Blend da Probiótica, sabor Morango, de frente",
-            "caption": "Foto oficial da Probiótica.",
-            "objectFit": "contain",
-            "aspectRatio": 0.588
+            "label": "Ver o cupom da Mais Mu",
+            "href": "/cupons/mais-mu"
           }
         ]
       },
       {
-        "heading": "Quadro-mestre: todos os wheys das cinco lojas",
+        "heading": "Iso Protein Blend: soja com soro",
         "paragraphs": [
-          "Todos os wheys da lista, na mesma régua: o número mais baixo não é, sozinho, a melhor compra, porque dose, tipo de proteína e lactose mudam."
+          "O Iso Protein Blend da Probiótica mistura proteína isolada de soja com concentrado do soro do leite. Em promoção, é o produto mais barato por proteína desta seleção, mas não serve a quem procura whey isolado de soro: a comparação dele é com outras misturas de soja e soro."
         ],
-        "comparisonTable": {
-          "caption": "Preços de venda dos sites oficiais, antes do cupom. Proteína por dose da tabela nutricional (na Mais Mu, do texto da página, porque a loja não publica tabela). R$ por 100 g de proteína: conta nossa, preço ÷ (doses × proteína por dose) × 100, com as doses da tabela ou, nos potes de 40 g da Max e no Dr. Peanut, 900 g ÷ 40 g.",
-          "headers": [
-            "Produto",
-            "Proteína por dose",
-            "R$ por 100 g de proteína",
-            "Preço de venda",
-            "Tipo de proteína",
-            "Lactose"
-          ],
-          "rows": [
-            [
-              "[Black Skull 80% HD Refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p)",
-              "23 g em 30 g",
-              "R$ 23,17",
-              "R$ 159,90",
-              "Concentrado (WPC)",
-              "Contém"
-            ],
-            [
-              "Black Skull 100% HD Refil 900 g",
-              "21 g em 35 g",
-              "R$ 30,46",
-              "R$ 159,90",
-              "Concentrado, isolado e hidrolisado do soro, peptídeos hidrolisados e proteína concentrada de leite",
-              "Contém"
-            ],
-            [
-              "Black Skull 100% HD Pote 900 g",
-              "21 g em 35 g",
-              "R$ 32,36",
-              "R$ 169,90",
-              "Concentrado, isolado e hidrolisado do soro, peptídeos hidrolisados e proteína concentrada de leite",
-              "Contém"
-            ],
-            [
-              "Black Skull 100% HD 1,8 kg",
-              "21 g em 35 g",
-              "R$ 26,66",
-              "R$ 279,90",
-              "Concentrado, isolado e hidrolisado do soro, peptídeos hidrolisados e proteína concentrada de leite",
-              "Contém"
-            ],
-            [
-              "Black Skull 100% HD Gourmet Pote 900 g",
-              "12 g em 30 g",
-              "R$ 36,08",
-              "R$ 129,90",
-              "Concentrado, isolado e hidrolisado, com peptídeos hidrolisados",
-              "Contém"
-            ],
-            [
-              "[Black Skull 100% HD Gourmet Refil 900 g](https://www.blackskullusa.com.br/whey-100-gourmet-refil-900/p)",
-              "12 g em 30 g",
-              "R$ 33,31",
-              "R$ 119,90",
-              "Concentrado, isolado e hidrolisado, com peptídeos hidrolisados",
-              "Contém"
-            ],
-            [
-              "Black Skull 100% HD Gourmet 450 g",
-              "12 g em 30 g",
-              "R$ 47,17",
-              "R$ 84,90",
-              "Concentrado, isolado e hidrolisado, com peptídeos hidrolisados",
-              "Contém"
-            ],
-            [
-              "[Black Skull 3W Core 900 g](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p)",
-              "31 g em 40 g",
-              "R$ 41,04",
-              "R$ 279,90",
-              "3W: concentrado, isolado e hidrolisado",
-              "Contém"
-            ],
-            [
-              "Black Skull Whey Protein (WPI, WPC, WPH) Refil 900 g",
-              "11 g em 25 g",
-              "R$ 25,23",
-              "R$ 99,90",
-              "Concentrado, isolado e hidrolisado",
-              "Contém"
-            ],
-            [
-              "Probiótica 100% Pure Whey Pote 900 g",
-              "20 g em 30 g",
-              "R$ 42,08",
-              "R$ 252,49",
-              "Concentrado (WPC)",
-              "Contém"
-            ],
-            [
-              "[Probiótica 100% Pure Whey Refil 900 g](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
-              "20 g em 30 g",
-              "R$ 39,28",
-              "R$ 235,65",
-              "Concentrado (WPC)",
-              "Contém"
-            ],
-            [
-              "[Probiótica 100% Pure Whey Zero Lactose 900 g](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
-              "21 g em 30 g",
-              "R$ 38,41",
-              "R$ 241,97",
-              "Concentrado sem lactose (WPC)",
-              "Declara \"sem lactose\"; o alergênico cita derivados de leite"
-            ],
-            [
-              "[Probiótica Hiper 100% Whey 900 g](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
-              "23 g em 40 g",
-              "R$ 23,61",
-              "R$ 124,90 (promoção, de R$ 210,39)",
-              "Concentrado (WPC)",
-              "Contém"
-            ],
-            [
-              "Probiótica Iso Protein Blend 900 g",
-              "25 g em 40 g",
-              "R$ 13,74",
-              "R$ 79,00 (promoção, de R$ 121,99)",
-              "Proteína isolada de soja + concentrado do soro (não é whey isolado)",
-              "Contém"
-            ],
-            [
-              "[Probiótica Iso Pro Whey 900 g](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
-              "26 g em 30 g",
-              "R$ 44,39",
-              "R$ 346,28",
-              "Isolado (WPI)",
-              "Contém"
-            ],
-            [
-              "Max Titanium 100% Whey Pote 900 g",
-              "21 g em 30 g",
-              "R$ 33,40",
-              "R$ 210,39",
-              "Concentrado (WPC)",
-              "Contém"
-            ],
-            [
-              "Max Titanium 100% Whey Refil 900 g",
-              "21 g em 30 g",
-              "R$ 31,17",
-              "R$ 196,39",
-              "Concentrado (WPC)",
-              "Contém"
-            ],
-            [
-              "[Max Titanium IsoWhey 900 g](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p)",
-              "26 g em 30 g",
-              "R$ 41,82",
-              "R$ 326,18",
-              "Isolado",
-              "Contém"
-            ],
-            [
-              "Max Titanium Top Whey 3W \"+ Sabor\" 900 g",
-              "25 g em 40 g",
-              "R$ 33,60",
-              "R$ 189,00 (promoção, de R$ 273,55)",
-              "3W: concentrado, isolado e hidrolisado",
-              "Contém"
-            ],
-            [
-              "[Max Titanium Top Whey 3W \"+ Performance\" 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p)",
-              "32 g em 40 g",
-              "R$ 37,99",
-              "R$ 273,55",
-              "3W: concentrado, isolado e hidrolisado",
-              "Contém"
-            ],
-            [
-              "Whey Dr. Peanut 900 g (5 sabores)",
-              "20 g em 40 g",
-              "R$ 49,86",
-              "R$ 224,39",
-              "Concentrado (WPC)",
-              "Contém"
-            ],
-            [
-              "Mais Mu Concentrado Pote 450 g, sabor Paçoquita (12 doses)",
-              "20 g por dose (texto da página)",
-              "R$ 66,66",
-              "R$ 159,99",
-              "Concentrado (WPC)",
-              "Contém"
-            ],
-            [
-              "[Mais Mu Concentrado Pote 450 g, sabor Baunilha (13 doses)](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-pote-450g)",
-              "20 g por dose (texto da página)",
-              "R$ 61,53",
-              "R$ 159,99",
-              "Concentrado (WPC)",
-              "Contém"
-            ],
-            [
-              "Mais Mu Concentrado, caixa com 15 sachês",
-              "20 g por sachê (texto da página)",
-              "R$ 79,95 a R$ 84,95",
-              "R$ 239,85 a R$ 254,85",
-              "Concentrado (WPC)",
-              "Contém (o Doce de Leite não declara)"
-            ],
-            [
-              "[Mais Mu Isolado Pote 450 g, sabor Baunilha (16 doses)](https://www.lojamaismu.com.br/produtos/whey-isolado-baunilha-pote-450g)",
-              "22 g por dose de 27 g (texto da página)",
-              "R$ 85,22",
-              "R$ 299,99",
-              "Isolada, concentrada e hidrolisada do soro (blend)",
-              "Contém"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "Ficaram fora o 3W, o Monster e o sachê da Probiótica (sem tabela nutricional na comparação), o Whey Turbo e os outros hipercalóricos, kits, combos com creatina, barras e proteína vegetal. A Max tem outras linhas de whey, como o Whey Pro, o Whey Blend e o Iso Clear; o quadro traz as que entram com tabela nutricional na comparação. Os refis de 900 g e de 1,8 kg da Mais Mu ficam fora do quadro: a loja não publica tabela, e o guia só fez a conta do pote de 450 g e do sachê."
+        "bullets": [
+          "[Probiótica Iso Protein Blend, 900 g](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): 25 g de proteína em 40 g de pó.",
+          "Preço na página: R$ 79,00 em promoção, de R$ 121,99.",
+          "Por 100 g de proteína: R$ 14,04, antes do código de até 10%. Contém lactose."
+        ],
+        "image": {
+          "src": "/images/reviews/whey/probiotica-iso-protein-blend-morango.webp",
+          "alt": "Pote azul de 900 g do Iso Protein Blend da Probiótica, sabor Morango, de frente",
+          "caption": "Foto oficial da Probiótica.",
+          "objectFit": "contain",
+          "aspectRatio": 0.588
+        }
+      },
+      {
+        "heading": "Qual whey escolher para a sua compra",
+        "paragraphs": [
+          "Para um concentrado barato, comece pelo 80% HD com o CECILIA10 e compare com o Hiper enquanto a promoção durar. Sem lactose, a opção é o Pure Whey Zero Lactose da Probiótica. No isolado de soro, a escolha entre o IsoWhey e o Iso Pro passa pelo preço no carrinho e pelo carboidrato.",
+          "Na Mais Mu, a vantagem é comprar menos pó ou levar sachês; na Dr. Peanut, o amendoim e os sabores. Os produtos com soja, colágeno ou outras fontes ficam separados para você decidir se aceita a mistura antes de olhar o menor número.",
+          "Se a comparação é com a Growth, veja [as alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey). Os wheys de cada marca estão nos guias da [Black Skull](/reviews/whey-black-skull-qual-escolher), da [Max Titanium](/reviews/whey-max-titanium-qual-escolher) e da [Probiótica](/reviews/whey-probiotica-qual-escolher)."
         ]
       },
       {
-        "heading": "Qual whey escolher: o quadro por objetivo",
-        "emphasis": "Pelos números da tabela, para pagar menos pela proteína do soro a escolha é o 80% HD da Black Skull, porque sai a R$ 23,17 por 100 g de proteína.",
-        "emphasisAfterParagraph": 1,
+        "heading": "Cupons das cinco lojas",
         "paragraphs": [
-          "Cada objetivo de compra leva um whey, com uma alternativa. O quadro reúne os sete perfis dos capítulos acima."
+          "Cada código vale no site oficial da própria loja. Na Max e na Probiótica, o desconto é de até 10% e muda de produto para produto: o carrinho mostra quanto cada item recebeu. O frete não entra nas contas acima."
         ],
         "comparisonTable": {
-          "caption": "Preços de venda dos sites oficiais, antes do cupom. R$ por 100 g de proteína: conta nossa, com a proteína por dose da tabela nutricional de cada rótulo (na Mais Mu, do texto da página, que não publica tabela).",
-          "headers": [
-            "Se você quer…",
-            "Leve…",
-            "R$ por 100 g de proteína",
-            "Alternativa"
-          ],
-          "rows": [
-            [
-              "Pagar menos pela proteína",
-              "[Black Skull Whey 80% HD Refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p)",
-              "R$ 23,17",
-              "[Probiótica Hiper 100% Whey 900 g](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), R$ 23,61 (em promoção)"
-            ],
-            [
-              "Whey sem lactose",
-              "[Probiótica 100% Pure Whey Zero Lactose 900 g](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
-              "R$ 38,41",
-              "Nenhuma outra marca declara sem lactose"
-            ],
-            [
-              "Whey isolado",
-              "[Max Titanium IsoWhey 900 g](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p)",
-              "R$ 41,82",
-              "Probiótica Iso Pro Whey 900 g, R$ 44,39"
-            ],
-            [
-              "Whey 3W (concentrado, isolado e hidrolisado)",
-              "[Max Titanium Top Whey 3W + Sabor 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p) (em promoção) e [+ Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p)",
-              "R$ 33,60 (+ Sabor) e R$ 37,99 (+ Performance)",
-              "[Black Skull Whey 3W Core 900 g](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p), R$ 41,04"
-            ],
-            [
-              "Whey para o dia a dia, de mistura ou concentrado",
-              "[Black Skull Whey 100% HD Refil 900 g](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p)",
-              "R$ 30,46",
-              "[Max Titanium 100% Whey Refil 900 g](https://www.maxtitanium.com.br/100-whey-refil-900g/p), R$ 31,17"
-            ],
-            [
-              "Whey com sabor de sobremesa",
-              "[Whey Dr. Peanut 900 g](https://www.drpeanut.com.br/whey-protein)",
-              "R$ 49,86",
-              "[Mais Mu Concentrado Paçoquita pote 450 g](https://www.lojamaismu.com.br/produtos/whey-concentrado-pacoquita-pote-450g), R$ 66,66"
-            ],
-            [
-              "Pote pequeno para começar ou sachê para levar",
-              "Mais Mu Concentrado pote 450 g e [caixa com 15 sachês](https://www.lojamaismu.com.br/produtos/whey-concentrado-pacoquita-sache-525g)",
-              "R$ 61,53 a R$ 66,66 (pote) e R$ 79,95 a R$ 84,95 (sachê)",
-              "[Black Skull Whey 100% HD Gourmet 450 g](https://www.blackskullusa.com.br/whey-100-gourmet-450/p), R$ 47,17 (12 g de proteína por dose)"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "Na tabela estão só as recomendações por perfil. Todos os wheys da lista ficam no quadro-mestre, acima, e os códigos de desconto de cada loja, na seção sobre cupons. Preço e estoque mudam toda semana, principalmente em promoção: confira o valor no dia da compra.",
-          "Se a dúvida é trocar o whey da Growth, o guia [Alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey) mostra onde cada parceira sai mais barata no concentrado, no isolado, no 3W e no zero lactose."
-        ]
-      },
-      {
-        "heading": "Cupom de cada loja",
-        "paragraphs": [
-          "Cada código vale só no site oficial da própria loja, e o desconto é o da página de cupom de cada uma. Na Max e na Probiótica o desconto é de até 10%: o percentual varia por produto, e o carrinho mostra quanto cada item recebeu. Na Max, um Top Whey 3W de R$ 189,00 recebeu R$ 16,75 de desconto. Na Probiótica, o desconto foi de R$ 54,75 num carrinho de R$ 659,35, cerca de 8,3%."
-        ],
-        "comparisonTable": {
-          "caption": "Códigos e regras das páginas de cupom do site. O desconto de cada produto aparece no resumo do pedido.",
+          "caption": "Códigos e regras das páginas de cupom do site.",
           "headers": [
             "Loja",
             "Código",
             "Desconto",
-            "Onde vale"
+            "Regra que muda a compra"
           ],
           "rows": [
             [
               "[Black Skull](/cupons/black-skull)",
               "CECILIA10",
-              "10% OFF",
-              "Todo o site oficial, com todas as formas de pagamento; soma com as promoções vigentes."
+              "10%",
+              "Todo o site oficial, em todas as formas de pagamento; soma com as promoções."
             ],
             [
               "[Max Titanium](/cupons/max-titanium)",
               "MAX10EMCASACOMCECILIA",
-              "Até 10% OFF",
-              "Site oficial, com todas as formas de pagamento; soma com as promoções e com os brindes do carrinho."
+              "Até 10%",
+              "Varia por produto; soma com as promoções e com os brindes do carrinho."
             ],
             [
               "[Probiótica](/cupons/probiotica)",
               "PRO10EMCASACOMCECILIA",
-              "Até 10% OFF",
-              "Site oficial, com todas as formas de pagamento; soma com as promoções vigentes."
+              "Até 10%",
+              "Varia por produto; soma com as promoções e com o desconto do Pix."
             ],
             [
               "[Dr. Peanut](/cupons/dr-peanut)",
               "DREMCASACOMCECILIA",
-              "10% OFF",
-              "Todo o site da Dr. Peanut, inclusive o whey, com todas as formas de pagamento; soma com as promoções. Não há confirmação de que valha no site da Max, onde o mesmo whey também é vendido."
+              "10%",
+              "Todo o site da Dr. Peanut, inclusive o whey; soma com as promoções. Não há confirmação de que valha no site da Max, que também vende esse whey."
             ],
             [
               "[Mais Mu](/cupons/mais-mu)",
               "MMEMCASACOMCECILIA",
-              "10% OFF",
-              "Todo o site oficial; soma com as promoções e com os 3% do Pix. A loja não acumula cupons: o crédito do cashback e o desconto de boas-vindas não somam com ele."
+              "10%",
+              "Todo o site oficial, inclusive nas promoções; soma com os 3% do Pix e não acumula com outros cupons nem com o cashback."
             ]
           ]
         },
         "postParagraphs": [
-          "Nenhum dos cinco códigos vale no Mercado Livre: lá vale o preço do anúncio. A data do teste mais recente de cada código está na página de cupom da loja."
+          "Nenhum dos códigos vale no Mercado Livre: lá vale o preço do anúncio."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual o melhor whey custo-benefício em 2026? Não existe um só: pelo preço por 100 g de proteína deste guia, o Whey 80% HD Refil da Black Skull saía a R$ 23,17 e o Hiper 100% Whey da Probiótica, em promoção, a R$ 23,61. O capítulo de custo-benefício traz os dois.",
-          "Whey concentrado ou isolado: qual o melhor? Depende do que você procura. Pelas tabelas, o isolado tem 26 g de proteína em dose de 30 g, contra 20 g a 23 g do concentrado, e custa mais por proteína: R$ 41,82 a R$ 44,39 por 100 g, contra R$ 23,17 do concentrado mais barato do guia.",
-          "Whey 3W ou 100%: qual escolher? O \"100%\" não é um tipo de proteína: o 100% Whey da Max é só concentrado, e o 100% HD da Black Skull mistura concentrado, isolado e hidrolisado. O Top Whey 3W \"+ Sabor\" da Max saía a R$ 33,60 por 100 g de proteína em promoção, perto dos R$ 31,17 do 100% Whey Refil.",
-          "Qual whey não tem lactose? Entre as cinco lojas, só o 100% Pure Whey Zero Lactose da Probiótica declara \"sem lactose\" (R$ 241,97), e o alergênico dele cita derivados de leite. O Iso Pro Whey é isolado, mas a página dele declara que contém lactose; quem tem intolerância ou alergia deve conferir o rótulo.",
-          "Qual whey é melhor para iniciantes? Para começar sem comprar 900 g, as opções são o pote de 450 g e a caixa de sachês da Mais Mu e o Gourmet 450 g da Black Skull, com só 12 g de proteína por dose. Este guia não indica quantidade: quem tem dúvida sobre dose deve falar com nutricionista.",
-          "Whey nacional é confiável? As cinco marcas vendem pelo site oficial, e a Max Titanium e a Probiótica são do Grupo Supley, que aparece como fabricante no rótulo do 3 Whey Protein da Probiótica e do whey Dr. Peanut. Empresa, CNPJ, trocas e reputação de cada uma estão em [Black Skull](/reviews/black-skull-e-confiavel), [Max Titanium](/reviews/max-titanium-e-confiavel), [Probiótica](/reviews/probiotica-e-confiavel), [Dr. Peanut](/reviews/dr-peanut-e-confiavel) e [Mais Mu](/reviews/mais-mu-e-confiavel).",
-          "O que significa \"100%\" no nome do whey? Não é o teor de proteína do pó: o 100% HD da Black Skull tem 21 g de proteína em 35 g (60%), e o 100% Whey da Max, 21 g em 30 g (70%). Vale a proteína por dose da tabela.",
-          "O whey Dr. Peanut é da Max Titanium? O rótulo diz \"fabricado em Supley\" e \"100% Whey da Max Titanium em colaboração com a Dr. Peanut\". A tabela e os ingredientes são outros: 20 g de proteína em 40 g, com amendoim e glúten, contra 21 g em 30 g do 100% Whey da Max.",
-          "Qual whey escolher para um objetivo de saúde ou de dieta? Este guia compara rótulo, tabela e preço, e não indica uso. Quem tem objetivo de saúde ou de dieta deve falar com nutricionista.",
-          "Posso usar mais de um cupom? Cada código vale só na loja dele, e a Mais Mu diz que não acumula cupons. Nas outras quatro, a página de cupom não confirma soma de cupons: o jeito seguro é um código por pedido."
+          "O que significa \"100%\" no nome do whey? Não é o teor de proteína do pó: o 100% HD da Black Skull tem 21 g de proteína em 35 g, e o 100% Whey da Max, 21 g em 30 g. Compare a tabela nutricional e a lista de ingredientes da versão escolhida.",
+          "Whey isolado é sempre sem lactose? Não. O IsoWhey da Max e o Iso Pro Whey da Probiótica declaram que contêm lactose. Quem evita lactose procura a declaração \"sem lactose\", que também não quer dizer sem derivados de leite.",
+          "Pote pequeno ou sachê é melhor para começar? O pote de 450 g permite comprar menos pó, e o sachê facilita levar uma porção. Por proteína, os dois costumam sair mais caros que os potes de 900 g, então compare pela última coluna das tabelas.",
+          "O whey Dr. Peanut é o 100% Whey da Max? O rótulo diz \"fabricado em Supley\" e \"100% Whey da Max Titanium em colaboração com a Dr. Peanut\", mas a fórmula é outra: 20 g de proteína em 40 g, com amendoim e glúten, contra 21 g em 30 g do 100% Whey da Max.",
+          "Qual é o cupom de cada loja? Black Skull: CECILIA10; Max Titanium: MAX10EMCASACOMCECILIA; Probiótica: PRO10EMCASACOMCECILIA; Dr. Peanut: DREMCASACOMCECILIA; Mais Mu: MMEMCASACOMCECILIA. O desconto e as regras de cada um estão no quadro dos cupons."
         ]
-      },
-      {
-        "heading": "O que entra nos números",
-        "paragraphs": [
-          "Os números são o que cada loja publica: tabela nutricional, lista de ingredientes e preço de venda sem cupom, nos sites oficiais das cinco marcas. A proteína por dose vem da tabela, e não do texto da página; só a Mais Mu, que não publica tabela, tem a dose tirada do texto. O \"mais vendido\" é a ordem de cada site, e não dado de vendas, e os sabores só aparecem como lista.",
-          "Ficam de fora o 3W, o Monster e os sachês, os hipercalóricos, kits e combos, barras e proteína vegetal. Os refis de 900 g e de 1,8 kg da Mais Mu também: a loja não publica tabela, e o guia só fez a conta do pote de 450 g e do sachê. As contas de R$ por 100 g de proteína são nossas, com o preço do dia e a dose da tabela.",
-          "Preço e estoque mudam toda semana, e a Black Friday está chegando: vale o que aparecer no site da loja na hora da compra. O Em Casa com Cecília é afiliado das cinco marcas e pode receber comissão pelas compras feitas pelos links e pelos cupons, sem custo extra para você."
-        ]
-      }
-    ],
-    "decision": {
-      "takeIf": [
-        "Leve o concentrado em pote de 900 g se você quer o menor preço por proteína.",
-        "Leve o isolado se você quer mais proteína na mesma dose e menos carboidrato.",
-        "Leve o pote de 450 g ou o sachê se você quer provar um sabor ou levar a dose na bolsa."
-      ],
-      "skipIf": [
-        "Passe os potes com soja na lista se você quer só proteína do soro.",
-        "Passe o nome do pote se você não lê a proteína por dose na tabela: vale a tabela.",
-        "Procure um nutricionista se você busca dose ou dieta: o guia compara rótulo, tabela e preço."
-      ]
-    },
-    "pros": [],
-    "cons": [],
-    "editorialNote": "Somos afiliados das cinco marcas e ninguém da equipe tomou os wheys.",
-    "relatedArticles": [
-      {
-        "slug": "black-skull-ou-max-titanium"
-      },
-      {
-        "slug": "max-titanium-ou-probiotica"
-      },
-      {
-        "slug": "dr-peanut-melhor-sabor"
       }
     ]
   },
