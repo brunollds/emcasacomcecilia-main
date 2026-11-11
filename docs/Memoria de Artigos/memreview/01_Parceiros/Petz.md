@@ -8,8 +8,9 @@ revisao_geral_ate: "2027-02-11"
 
 # Dossiê Factual: Petz
 
-Parceria iniciada em 11/11/2026 pelo programa Parceiro Petz, com a página `/cupons/petz` e ainda sem
-artigo. A página fica na prateleira Diversos de `/cupons`. O foco é sempre o cupom: o link da loja da
+Parceria iniciada em 11/11/2026 pelo programa Parceiro Petz, com a página `/cupons/petz`. Os quatro
+artigos de onboarding foram ao ar no mesmo dia (release `4d50b265`): [[cupom-petz-como-usar]],
+[[petz-e-confiavel]], [[petz-reclame-aqui-nota-reputacao]] e [[black-friday-petz]]. A página fica na prateleira Diversos de `/cupons`. O foco é sempre o cupom: o link da loja da
 Cecília serve para a compra contar para a parceria.
 
 ---
@@ -41,7 +42,7 @@ mensal: pelo Chrome.
 | Fato / Especificação | Tipo | Fonte | Consultado Em | Rever Até | Notas |
 |---|---|---|---|---|---|
 | Rede brasileira de pet shops, com lojas físicas, site e app: ração, petiscos, higiene, farmácia, acessórios, casa e jardim | fato_oficial | Site oficial petz.com.br | 2026-11-11 | 2027-02-11 | — |
-| Pet Center Comércio e Participações S/A | fato_oficial | Rodapé da sacola | 2026-11-11 | 2027-02-11 | — |
+| Pet Center Comércio e Participações S/A, CNPJ da sede 18.328.118/0001-09; o rodapé do site (computador) mostra a filial 18.328.118/0013-42 | fato_oficial | Rodapé do site e da sacola; regulamento da Black Friday, item 1.1; BrasilAPI | 2026-11-11 | 2027-02-11 | No celular, o rodapé não traz CNPJ |
 | Programa Parceiro Petz: cupom de 10% para divulgar, comissão de 7% nas vendas com o cupom ou pela loja do parceiro e 3% nas vendas dos parceiros convidados | fato_oficial | parceiropetz.com.br | 2026-11-11 | 2027-02-11 | Comissão é bastidor: não vai ao texto dos artigos |
 
 ---
@@ -55,7 +56,9 @@ mensal: pelo Chrome.
 - O site não diz que o cupom vale nas lojas físicas: os textos falam só em site e app.
 - Farmácia veterinária (antipulgas, remédios): sem promessa de efeito; descrever o produto, o rótulo
   e o preço, e "na dúvida, o veterinário".
-- Reclame Aqui levantado em 11/11: `02_Artigos/petz-fatos-1111.md`, seção 2.
+- Reclame Aqui levantado em 11/11: `02_Artigos/petz-fatos-1111.md`, seções 2 e 11 (abas de 6 e 12 meses, 2025 e 2024).
+- A ação AUAU3 é da companhia combinada (Grupo Petz Cobasi), não da Pet Center: nenhum texto diz que "a Petz tem
+  ações AUAU3".
 
 ---
 

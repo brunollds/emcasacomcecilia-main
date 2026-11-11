@@ -30,14 +30,14 @@ CNPJ pela BrasilAPI e domínio pelo RDAP do Registro.br (`curl`, 200). Reclame A
 
 | Fato | Tipo | Fonte | Confiança |
 |---|---|---|---|
-| PET CENTER COMÉRCIO E PARTICIPAÇÕES S.A., CNPJ 18.328.118/0001-09, Rua Doutor Miguel Paulo Capalbo, 166, Pari, São Paulo (SP) | fato oficial | rodapé e páginas institucionais | Alta |
+| PET CENTER COMÉRCIO E PARTICIPAÇÕES S.A., CNPJ 18.328.118/0001-09 (sede), Rua Doutor Miguel Paulo Capalbo, 166, Pari, São Paulo (SP) | fato oficial | regulamento da Black Friday, item 1.1; BrasilAPI | Alta. O rodapé do site mostra o CNPJ de uma filial: ver a seção 11 |
 | CNPJ ativo, aberto em 19/06/2013, sociedade anônima aberta, CNAE comércio varejista de animais vivos e de artigos e alimentos para animais de estimação, São Paulo (SP) | dado público | BrasilAPI | Alta |
 | Domínio petz.com.br: registrado em 20/03/2007, ativo, vence em 20/03/2029 | dado público | RDAP | Alta |
 | Fundada em 2002 como Pet Center Marginal, com atendimento 24 horas; virou Petz em 2015; IPO na B3 (Novo Mercado) em 2020 | afirmação da empresa | RI, Nossa História | Alta |
 | Cobasi e Petz assinaram a combinação de negócios em 2024, sujeita ao Cade; "2026: nasce a nova Companhia: Grupo Petz Cobasi" | afirmação da empresa | RI, Nossa História | Alta |
 | O Cade aprovou a fusão em 10/12/2025, com a venda de 26 lojas em São Paulo | imprensa | Agência Brasil | Média: o RI não traz o número; citar como "segundo a Agência Brasil" ou deixar fora |
 | As marcas seguem separadas: o grupo apresenta a Cobasi e a Petz como marcas da companhia | afirmação da empresa | RI, Sobre o Grupo | Alta |
-| Ação na B3: AUAU3 (R$ 4,31 na página em 11/11) | dado público | RI, cabeçalho | Alta para o ticker; o preço não entra no texto |
+| Ação na B3: AUAU3 (R$ 4,31 na página em 11/11), da companhia combinada | dado público | RI, cabeçalho e perguntas frequentes | Alta para o ticker; o preço não entra no texto. Ver a seção 11: não é ação da Pet Center |
 | Grupo: "mais de 500 lojas" em 23 estados e no DF, receita bruta de R$ 7,7 bilhões | afirmação da empresa | RI, Sobre o Grupo | Alta, como frase do grupo |
 | Petz: "mais de 260 unidades" em 23 estados e no DF; Seres, "a maior rede de centros veterinários do Brasil"; "a maior rede de centros de estética pet do país"; Adote Petz | afirmação da empresa | RI, Sobre o Grupo | Alta, como frase do grupo |
 | Mapa de lojas: 522 no total (Cobasi e Petz), atualizado em 08/05/26; a Petz tem lojas em todos os estados do mapa | afirmação da empresa | RI, Nossas Lojas | Média: o mapa é de maio; preferir "mais de 260 unidades" |
@@ -69,8 +69,7 @@ expressa sem troca, estorno pedido e um pacote de dois que não chegou na entreg
 
 Perfis vizinhos na mesma página: "Petz - Loja Física" 7,9 e "Cobasi - Loja Online" 8,3. Não lidos por dentro.
 
-A conferir antes do texto: as abas de 12 meses, 2025 e 2024 (o artigo pode mostrar a tendência) e se o perfil da loja
-física entra no artigo (a nota é outra).
+As abas de 12 meses, 2025 e 2024 e o perfil da loja física foram lidos à tarde: seção 11.
 
 ## 3. Cupom e regras de desconto
 
@@ -147,6 +146,61 @@ para serviços nem assinatura e não soma com outros descontos. Fonte: pesquise-
   agendamento pede login. O FAQ do banho e tosa diz: "Quando há mais de um desconto disponível, é sempre aplicado o mais
   vantajoso para o cliente. As ofertas não são acumulativas." Só o teste do Bruno responde.
 - O EMCASA soma com o Retire na Loja: testado em 11/11 (seção 5).
-- Se o EMCASA vale mais de uma vez por CPF fora da Black Friday.
+- Se o EMCASA vale mais de uma vez por CPF fora da Black Friday. O item 5.1.5 do regulamento limita os cupons a um uso
+  por CPF; o Bruno decidiu em 11/11 que isso vale para os cupons da campanha, e o EMCASA segue "em todas as compras no
+  site e no app", pelo que diz o programa Parceiro Petz.
 - Os preços da Black Friday item a item (o guia lê na semana do texto, no navegador).
-- O Reclame Aqui da loja física e as abas de 12 meses.
+- ~~O Reclame Aqui da loja física e as abas de 12 meses~~: lidos à tarde (seção 11).
+
+## 11. Conferências da tarde e da noite de 11/11 (antes do Job 3 e com o parecer do Farol)
+
+Leituras no navegador do app, sem login. Prevalecem sobre o que as seções acima diziam do mesmo ponto.
+
+**Rodapé e CNPJ**
+
+| Fato | Fonte | Uso |
+|---|---|---|
+| Rodapé na versão para computador: "Pet Center Comércio Participações S/A - CNPJ 18.328.118/0013-42", Rua Dr. Miguel Paulo Capalbo, 135, Pari, São Paulo (SP) | petz.com.br, rodapé | Alta |
+| 18.328.118/0013-42 é uma filial ativa; a sede é 18.328.118/0001-09 (número 166 da mesma rua), com a mesma raiz de 8 dígitos | BrasilAPI | Alta |
+| No celular, o rodapé traz a razão social e o endereço, sem o CNPJ | petz.com.br, rodapé no celular | Alta |
+| A sede (0001-09) aparece no regulamento da Black Friday, item 1.1 | regulamento | Alta; depois de 30/11 a página pode sair do ar |
+| A home traz os links do app na App Store e no Google Play | petz.com.br | Alta |
+
+**Grupo e ação na bolsa**
+
+| Fato | Fonte | Uso |
+|---|---|---|
+| AUAU3 é a ação da companhia combinada (Grupo Petz Cobasi). O último pregão da PETZ3 foi em 02/01/2026; a AUAU3 passou a ser negociada em 05/01/2026, na troca de 1 para 1 | RI, perguntas frequentes | Alta. Não dizer que a Pet Center é a listada nem que "a Petz tem ações AUAU3" |
+| A combinação foi feita com a incorporação da Petz pela Cobasi; os acionistas da Petz ficaram com 52,6% | RI, perguntas frequentes | Alta, só se o texto precisar |
+| O rodapé do site de RI traz União Pet Participações S.A., CNPJ 53.153.938/0001-08 | ri.petzcobasi.com.br | Alta; bastidor |
+
+**Reclame Aqui, perfil "Petz - Loja Online"**
+
+| Aba | Reputação | Nota | Recebidas | Respondidas | Resolvidas | Voltariam | Avaliadas | Nota do consumidor | Tempo médio de resposta |
+|---|---|---|---|---|---|---|---|---|---|
+| 6 meses (01/05 a 31/10/2026) | Ótima | 8,3 | 3.519 | 99,6% | 89% | 74,4% | 2.173 | 7,07 | 4 dias e 17 horas |
+| 12 meses (01/11/2025 a 31/10/2026) | Ótima | 8,2 | 7.395 | 99,8% | 88,2% | 72,8% | 4.642 | 6,99 | 4 dias e 4 horas |
+| 2025 | Ótima | 8,2 | 8.266 | 100% | 88,2% | 72% | 5.518 | 6,95 | 3 dias e 6 horas |
+| 2024 | Boa | 7,9 | 8.241 | 100% | 85,2% | 69,6% | 5.345 | 6,66 | 6 dias e 8 horas |
+
+- A aba "Sobre" dá como principais motivos de reclamação, nos 6 meses, "Produto não recebido" e "Atraso na entrega".
+- O perfil não mostra CNPJ, e a busca do Reclame Aqui pelo CNPJ da sede não acha empresa. O perfil certo se reconhece
+  pelo nome exato ("Petz - Loja Online" ou "Petz - Loja Física") e pelo site cadastrado, petz.com.br.
+- "Petz - Loja Física": categoria Rações e alimentos, nota 7,9, 82,1% resolvidas, 545 reclamações.
+- A busca "petz" lista 50 empresas; entre as 12 primeiras, só os dois perfis acima têm o site petz.com.br. Nenhuma outra
+  empresa entra por nome sem conferir o CNPJ dela, e nenhuma tem a reputação julgada.
+
+**Regulamento da Black Friday 2026, relido**
+
+| Item | Fato |
+|---|---|
+| 4.2.4.1 e 4.2.4.2 | Compra online retirada na loja sem frete, depois do aviso de pedido liberado por e-mail ou WhatsApp, das 9h às 20h no horário da loja; boleto pode levar até 48 horas úteis |
+| 4.2.4.3 | Retirar em até 28 dias corridos depois do aviso de liberação; lembretes no 14º, 21º e 24º dia; sem retirada, o pedido é cancelado no 30º dia com estorno integral |
+| 4.2.4.5 | Retire na Loja acima de R$ 199: 5%, só Sul, Sudeste e Centro-Oeste, conforme as lojas do CEP |
+| 4.3.1 e 4.3.2 | Pode haver taxa de serviço no site e no app, informada no carrinho; o Clubz Diamante não paga |
+| 5.1.5 | Cupons com um uso por CPF e por cadastro, salvo comunicação diferente. Decisão do Bruno (11/11): vale para os cupons da campanha |
+| Cupons | Não somam com as ofertas da Black Friday nem com o desconto do Clubz; o sistema aplica o maior |
+| 8 | Troca ou devolução da compra no site ou no app: 7 dias corridos a partir do recebimento do pedido |
+
+**CDC, artigo 26:** o direito de reclamar de vício aparente caduca em 30 dias (não duráveis) e 90 dias (duráveis),
+contados da entrega. É o mesmo prazo da política de defeito da Petz.

@@ -462,3 +462,7 @@ Os artigos abaixo já existem e o Bing os põe entre a 4ª e a 9ª posição, ou
 ## Onboarding da HolyFoods (Bruno, 05/11/2026)
 
 - **HO1 a HO4** ([[holyfoods-e-confiavel]], [[holyfoods-reclame-aqui-nota-reputacao]], [[cupom-holyfoods-como-usar]], [[black-friday-holyfoods]]): no ar em 05/11 (release `040b1515`), com os vídeos da Cecília. Saíram da seção 1 da Fila em 05/11.
+
+## Onboarding da Petz (Bruno, 11/11/2026)
+
+- **PZ1 a PZ4** ([[cupom-petz-como-usar]], [[petz-e-confiavel]], [[petz-reclame-aqui-nota-reputacao]], [[black-friday-petz]]): no ar em 11/11 (PR #862, release `4d50b265`), ids 900 a 903, só PT. Revisão externa do Farol (ChatGPT) conferida no navegador e imagens aprovadas pelo Bruno no mesmo dia. Saíram da seção 1 da Fila em 11/11; as revisões depois de 30/11 estão na seção 4.
