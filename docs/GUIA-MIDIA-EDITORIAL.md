@@ -160,6 +160,20 @@ Depois do deploy real, conferir identidade do release, conteudo e midias publica
 sitemap e llms. IndexNow so depois: enviar URLs editoriais afetadas, nao tratar
 o upload de arquivos como publicacao de artigo.
 
+## Bolinha da loja
+
+A marca da bolinha (`bubble` em `src/lib/couponsData.ts`, na vitrine da home e em /reviews) fica em
+`public/images/logos/bolinhas/<slug>.png` e passa pela rotina acima como qualquer imagem nova.
+
+- PNG ou WebP de 512 x 512 com fundo transparente; conferir que o alpha sobrevive a compressao.
+- Marca centralizada, com a margem optica no proprio arquivo: o componente desenha o arquivo inteiro
+  num quadrado de 64% do disco e nao acrescenta margem. Marca cheia ou quadrada ocupa de 78% a 85% do
+  lado; marca fina ou de texto, ate 100% da largura.
+- Simbolo antes de logo de texto.
+- `background` (#rrggbb) so quando o fundo e parte da marca; sem ele, o disco e creme.
+- Origem no dossie da loja (tabela "Midia da Marca"): URL exata do arquivo, data e o ajuste feito.
+- Trocar a marca pede arquivo com nome novo, como toda midia ja ativada.
+
 ## Videos e audio
 
 Loops preservam poster, lazy loading, muted, loop, playsInline, pausa fora da

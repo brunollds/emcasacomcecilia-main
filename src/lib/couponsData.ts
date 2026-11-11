@@ -40,8 +40,9 @@ export const COUPON_HUB_CATEGORIES = [
 
 export type CouponHubCategory = (typeof COUPON_HUB_CATEGORIES)[number]['id'];
 
-// A marca da loja na bolinha (a vitrine da home e as bolinhas de /reviews): o símbolo com fundo transparente, já
-// recortado, sem margem própria. `background` (#rrggbb) só quando o fundo é parte da marca; sem ele, o disco é creme.
+// A marca da loja na bolinha (a vitrine da home e as bolinhas de /reviews): o símbolo num PNG ou WebP de 512 × 512 com
+// fundo transparente, centralizado e com a margem óptica no próprio arquivo (regra no docs/GUIA-MIDIA-EDITORIAL.md).
+// `background` (#rrggbb) só quando o fundo é parte da marca; sem ele, o disco é creme.
 export type CouponBubble = { src: string; background?: string };
 
 interface CouponBase {
