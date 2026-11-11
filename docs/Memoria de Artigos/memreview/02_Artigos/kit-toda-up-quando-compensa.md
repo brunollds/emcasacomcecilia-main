@@ -215,3 +215,10 @@ O Bruno aprovou a pauta com as recomendações do Claude como padrão.
 - Alerta para a sessão de artigos: o black-friday-toda-up cita o kit Cotton a R$ 170,82, preço de um cadastro de campanha; o principal estava a R$ 155,52 em 31/10. Reler e corrigir.
 - **Resposta rápida (REGRAS-GLOBAIS, seção 6):** um parágrafo de 40 a 60 palavras só com a decisão e a frase que aponta o que muda a escolha. Sem lista de produtos, preço, preço com cupom ou conta; o esqueleto acima é tema, não texto. Tudo o que ela disser também está num capítulo, e o veredito tem capítulo próprio antes do FAQ.
 - **Jobs 2 e 3 de verdade:** plano de imagens por seção (Job 2, item 7), capítulos completos (cada um responde uma pergunta com os números dela, sem resumo de uma linha) e a checagem do Job 3 antes de entregar.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/kit-toda-up-quando-compensa-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo adulta com Top Triangular e Calcinha Biquíni Cotton Up pretos, em foto oficial da Toda Up, ao lado da pergunta Kits Toda Up compensam?
+- **Origem:** foto oficial do kit preto real (Top Triangular e Calcinha Biquíni Cotton Up), sem peças clonadas nem kit inexistente. Sem geração por IA.
+- **Lote 29 do piloto de capas (sequência 9 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-9-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo, no padrão vigente das capas (não é exceção nova ao Job 6). A capa anterior (`/images/reviews/toda-up/kit-toda-up-quando-compensa-capa.webp`) fica no CDN, sem uso como capa.

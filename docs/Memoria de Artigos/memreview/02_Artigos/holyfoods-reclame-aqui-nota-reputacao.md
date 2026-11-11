@@ -234,3 +234,10 @@ O Bruno liberou os vídeos da Cecília com os produtos (05/11). `youtubeUrl`: ht
 ## Publicado
 
 No ar em 05/11/2026, release `040b1515` (build `01a1ac5f`), com o vídeo da Cecília e o banner da Black da HolyFoods. `covers:check` 4/4 na produção, sitemap e llms.txt conferidos, IndexNow enviado.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/holyfoods/holyfoods-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Prato com alimento e folhas verdes sobre fundo verde, em foto da galeria oficial da HolyFoods, ao lado da chamada HolyFoods no Reclame Aqui.
+- **Origem:** foto da galeria oficial, prato sem receita, composição ou preparo atribuídos à equipe. Sem geração por IA.
+- **Lote 29 do piloto de capas (sequência 9 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-9-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo, no padrão vigente das capas (não é exceção nova ao Job 6). A capa anterior (`/images/reviews/holyfoods/holyfoods-reclame-aqui-capa.webp`) fica no CDN, sem uso como capa.

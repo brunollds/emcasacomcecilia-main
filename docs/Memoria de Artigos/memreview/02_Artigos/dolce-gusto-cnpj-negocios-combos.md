@@ -89,3 +89,10 @@ A referência é a caixa avulsa pelo preço "De" dos combos: R$ 24,90, ou R$ 2,4
 - **Links para DN2, DN3 e DN4:** fora até eles irem ao ar (o `validate:content` barra link para artigo inexistente). Quando cada um for publicado, voltar com o link no capítulo "Para qual negócio serve".
 - **Job 6:** capa A aprovada pelo Bruno (Mini Me com as caixas, imagem que já estava no CDN). No corpo, dois prints da página dos combos (20 caixas com o passo a passo; 30, 50 e Mini Me). O CDN da Dolce Gusto deu "Access Denied" para download das fotos dos combos. A arte `mini-me-2-0-combo-maquina.webp` não serve: diz "CECI = -5%".
 - **Id 831.** Botão "Ver os combos para negócios" depois do cartão da Cecília.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/dolcegusto/dolce-gusto-cnpj-negocios-combos-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Cena institucional oficial da Dolce Gusto com máquina preta sobre o balcão e mãos entregando uma bebida, ao lado da chamada Café para empresas.
+- **Origem:** recorte da cena institucional oficial de negócios, com máquina e bebida; os blocos de oferta e a montagem de caixas foram descartados. Sem geração por IA.
+- **Lote 29 do piloto de capas (sequência 9 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-9-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo, no padrão vigente das capas (não é exceção nova ao Job 6). A capa anterior (`/images/reviews/dolcegusto/dolce-gusto-cnpj-negocios-combos-capa.webp`) fica no CDN, sem uso como capa.

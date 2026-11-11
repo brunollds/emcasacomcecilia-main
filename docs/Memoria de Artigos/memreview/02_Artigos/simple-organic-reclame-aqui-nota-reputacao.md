@@ -254,3 +254,10 @@ JSON `content/reviews/simple-organic-reclame-aqui-nota-reputacao.json`, id 781, 
 ## Publicação (03/11/2026)
 - No ar em 03/11/2026: PR #539, release `34126d7d` (build 01a1a36b), id 781, só PT. Smoke com 7 imagens no CDN e a foto com link de produto; sitemap, llms.txt e IndexNow; captura 41727165405 verde.
 - Pendente: reler o Reclame Aqui e os preços na revisão mensal de dezembro de 2026; tirar a Clean Friday depois de 30/11.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/simple-organic/simple-organic-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Mulher com creme no rosto, em imagem do blog oficial da Simple Organic, ao lado da chamada Simple Organic no Reclame Aqui.
+- **Origem:** foto do blog oficial de aplicação de skincare, sem identificar SKU não confirmado. Sem geração por IA.
+- **Lote 29 do piloto de capas (sequência 9 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-9-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo, no padrão vigente das capas (não é exceção nova ao Job 6). A capa anterior (`/images/reviews/simple-organic/simple-organic-reclame-aqui-capa.webp`) fica no CDN, sem uso como capa.

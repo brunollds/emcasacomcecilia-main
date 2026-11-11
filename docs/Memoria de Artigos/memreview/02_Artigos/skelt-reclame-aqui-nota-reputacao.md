@@ -276,3 +276,10 @@ Perfil "Skelt Cosméticos", Chrome do Bruno, sem login. Fonte de todo dado: "Rec
    Bruno; ele confirma se vale também aqui.
 2. **Mercado Livre:** o link entra em "Parceria e cupom" (seção 7), como na Mais Mu (decisão 1 do briefing de confiança).
 3. **Imagens:** os prints de 21/10 estão na seção 5 (decisão 4 do briefing de confiança). Capa ainda aberta (pergunta 1 abaixo).
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/skelt/skelt-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Frasco do perfume para cabelos Amalfi Sunset de 140 ml da Skelt entre mechas de cabelo, em imagem oficial, ao lado da chamada Skelt no Reclame Aqui.
+- **Origem:** imagem oficial do perfume para cabelos Amalfi Sunset 140 ml entre mechas (não o body splash de 200 ml); sem resultado nem reputação atribuídos à foto. Sem geração por IA.
+- **Lote 30 do piloto de capas (sequência 9 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-9-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo, no padrão vigente das capas (não é exceção nova ao Job 6). A capa anterior (`/images/reviews/skelt/skelt-reclame-aqui-capa-discover.webp`) fica no CDN, sem uso como capa.

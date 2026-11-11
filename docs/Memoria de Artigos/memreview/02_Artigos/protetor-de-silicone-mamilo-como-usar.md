@@ -268,3 +268,10 @@ Fotos com o seio exposto ou a peça aplicada de frente ficaram de fora. Upload F
 ## Job 4 (JSON, 27/10/2026)
 
 `content/reviews/protetor-de-silicone-mamilo-como-usar.json`, id 622, `guias-praticos-utilidade` / `guia`, type "Guia Prático", `affiliate: toda-up`, `coupon: MAUAD` (fora do texto), `isNew: true`, CTA "Ver na Toda Up" pelo `offerUrl`. FAQ em bullets "Pergunta? resposta".
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/protetor-de-silicone-mamilo-como-usar-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Mãos apresentam um protetor de silicone com estojo laranja Toda Up, em foto oficial, ao lado da chamada Protetor de silicone e do subtítulo Tamanho e como usar.
+- **Origem:** foto oficial das mãos com o protetor de silicone e o estojo laranja da Toda Up; não mostra aplicação no corpo nem promete segurança. Sem geração por IA.
+- **Lote 30 do piloto de capas (sequência 9 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-9-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo, no padrão vigente das capas (não é exceção nova ao Job 6). A capa anterior (`/images/reviews/toda-up/protetor-de-silicone-capa-discover.webp`) fica no CDN, sem uso como capa.

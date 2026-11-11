@@ -123,3 +123,10 @@ Respondido em 09/11. Pelos termos: onde entra o código (no carrinho), o limite 
 | Cluster | 10 | 9 | Liga o artigo de Natal, o do cupom e o da Black Friday |
 | Viabilidade | 10 | 7 | Regras estáveis; duas respostas dependem do carrinho |
 | **Total** | 100 | **76** | |
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/insider/gift-card-insider-como-funciona-cupom-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Mockup oficial da Insider com o Gift Card Virtual na tela de um celular, ao lado da pergunta Gift card vale a pena?
+- **Origem:** mockup oficial do Gift Card Virtual no celular; os R$ 50 são da ilustração original, não preço nem saldo novo. Sem geração por IA.
+- **Lote 29 do piloto de capas (sequência 9 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-9-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo, no padrão vigente das capas (não é exceção nova ao Job 6). A capa anterior (`/images/reviews/insider/gift-card-insider-como-funciona-cupom-capa.webp`) fica no CDN, sem uso como capa.
