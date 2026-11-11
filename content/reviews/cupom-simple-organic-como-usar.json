@@ -58,7 +58,7 @@
       "heading": "2. Monte o carrinho",
       "paragraphs": [
         "O cupom não entra na página do produto: ele aparece no carrinho. Escolha o que você quer e abra o carrinho; o preço da página já traz o desconto da promoção do site, quando há, e é sobre ele que os 5% vão entrar.",
-        "Para comparar avulsos e kit, use os mesmos produtos e quantidades, uma opção de cada vez no carrinho. Aplique o código e anote o total com frete; depois compare com a outra opção."
+        "Para comparar avulsos e kit, use os mesmos produtos e quantidades, uma opção de cada vez no carrinho. Aplique o código e anote o total com frete; depois compare com a outra opção. O guia de [kit ou avulsos na Simple Organic](/reviews/kit-skincare-presente-simple-organic) já traz essa comparação nos kits de skincare que conferimos."
       ]
     },
     {
@@ -132,7 +132,7 @@
       "heading": "Frete, prazo e troca",
       "paragraphs": [
         "Acima de R$ 99 em produtos, o frete é grátis; o cupom em si não dá frete grátis, e quem busca \"cupom frete grátis\" encontra aqui a regra da loja, não um código. Abaixo disso, o frete é calculado pelo CEP no checkout, por PAC, Sedex ou JadLog.",
-        "Se o carrinho fica perto dos R$ 99, confira o frete no resumo depois de aplicar o cupom, porque é ali que a loja mostra se o pedido ganhou o frete grátis. O pedido sai em 3 a 5 dias úteis depois da confirmação do pagamento; em ação grande, como a Clean Friday, o prazo pode crescer.",
+        "Se o carrinho fica perto dos R$ 99, confira o frete no resumo depois de aplicar o cupom: o mínimo conta depois do desconto, e os 5% podem tirar o frete grátis de um carrinho pouco acima dele. Nesse caso, compare o total com e sem o código. O pedido sai em 3 a 5 dias úteis depois da confirmação do pagamento; em ação grande, como a Clean Friday, o prazo pode crescer.",
         "Troca ou desistência vale por 7 dias corridos depois do recebimento, com o produto na embalagem original, sem uso e com o lacre inviolado. O pedido vai por e-mail ao atendimento, com o número do pedido."
       ]
     },
@@ -218,6 +218,9 @@
     },
     {
       "slug": "black-friday-simple-organic"
+    },
+    {
+      "slug": "kit-skincare-presente-simple-organic"
     }
   ]
 }

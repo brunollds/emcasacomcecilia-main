@@ -175928,7 +175928,7 @@ export const reviewsData: unknown[] = [
         "heading": "2. Monte o carrinho",
         "paragraphs": [
           "O cupom não entra na página do produto: ele aparece no carrinho. Escolha o que você quer e abra o carrinho; o preço da página já traz o desconto da promoção do site, quando há, e é sobre ele que os 5% vão entrar.",
-          "Para comparar avulsos e kit, use os mesmos produtos e quantidades, uma opção de cada vez no carrinho. Aplique o código e anote o total com frete; depois compare com a outra opção."
+          "Para comparar avulsos e kit, use os mesmos produtos e quantidades, uma opção de cada vez no carrinho. Aplique o código e anote o total com frete; depois compare com a outra opção. O guia de [kit ou avulsos na Simple Organic](/reviews/kit-skincare-presente-simple-organic) já traz essa comparação nos kits de skincare que conferimos."
         ]
       },
       {
@@ -176002,7 +176002,7 @@ export const reviewsData: unknown[] = [
         "heading": "Frete, prazo e troca",
         "paragraphs": [
           "Acima de R$ 99 em produtos, o frete é grátis; o cupom em si não dá frete grátis, e quem busca \"cupom frete grátis\" encontra aqui a regra da loja, não um código. Abaixo disso, o frete é calculado pelo CEP no checkout, por PAC, Sedex ou JadLog.",
-          "Se o carrinho fica perto dos R$ 99, confira o frete no resumo depois de aplicar o cupom, porque é ali que a loja mostra se o pedido ganhou o frete grátis. O pedido sai em 3 a 5 dias úteis depois da confirmação do pagamento; em ação grande, como a Clean Friday, o prazo pode crescer.",
+          "Se o carrinho fica perto dos R$ 99, confira o frete no resumo depois de aplicar o cupom: o mínimo conta depois do desconto, e os 5% podem tirar o frete grátis de um carrinho pouco acima dele. Nesse caso, compare o total com e sem o código. O pedido sai em 3 a 5 dias úteis depois da confirmação do pagamento; em ação grande, como a Clean Friday, o prazo pode crescer.",
           "Troca ou desistência vale por 7 dias corridos depois do recebimento, com o produto na embalagem original, sem uso e com o lacre inviolado. O pedido vai por e-mail ao atendimento, com o número do pedido."
         ]
       },
@@ -176088,6 +176088,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "black-friday-simple-organic"
+      },
+      {
+        "slug": "kit-skincare-presente-simple-organic"
       }
     ]
   },
@@ -176228,15 +176231,15 @@ export const reviewsData: unknown[] = [
         "heading": "Frete e prazo na campanha",
         "paragraphs": [
           "Na Clean Friday, o que muda não é o frete, é o prazo: a política de frete da loja avisa que, em ação grande, o despacho pode passar dos 3 a 5 dias úteis de sempre. O frete grátis segue a partir de R$ 99,00 em produtos, pela faixa do topo do site; abaixo disso, ele é calculado pelo CEP, por PAC, Sedex ou JadLog.",
-          "Na comparação dos preços da tabela, um sérum, o hidratante ou o kit Pele Sensível sozinhos ficavam abaixo de R$ 99. O trio de body splashes e o duo passavam, assim como dois séruns com o hidratante. Compare o total com o frete e escolha apenas os itens que você precisa.",
-          "Para presente com data certa, confira no checkout o prazo para seu CEP e considere margem para eventuais atrasos de despacho ou transporte. Comprar antes dá mais tempo, sem garantir entrega numa data.",
+          "Na comparação dos preços da tabela, um sérum, o hidratante ou o kit Pele Sensível sozinhos ficavam abaixo de R$ 99. O duo e dois séruns com o hidratante passavam, mesmo com os 5% do código. O trio de body splashes pede atenção, porque o mínimo conta depois do desconto: no teste no checkout, com um CEP de São Paulo, ele saiu a R$ 99,50 com frete grátis sem o código e a R$ 105,41 com o código, já com R$ 10,88 de frete. O frete muda com o CEP; compare o total com e sem o código e escolha apenas os itens que você precisa.",
+          "Para presente com data certa, confira no checkout o prazo para seu CEP e considere margem para eventuais atrasos de despacho ou transporte. Comprar antes dá mais tempo, sem garantir entrega numa data. Se ainda falta decidir o que dar, veja [como escolher um kit de skincare para presente](/reviews/kit-skincare-presente-simple-organic).",
           "Pagamento: cartão em até 5x sem juros, com parcela mínima de R$ 30, ou Pix com QR Code que vale 2 horas. Troca ou desistência: 7 dias corridos depois de receber, com o produto sem uso e o lacre inviolado, por e-mail ao atendimento com o número do pedido. Na campanha isso pesa: a loja pede o lacre intacto para troca e desistência, e produto com defeito pode ser reclamado em até 30 dias, pelo Código de Defesa do Consumidor."
         ],
         "images": [
           {
             "src": "/images/reviews/simple-organic/body-splash-blossom-kiss.webp",
             "alt": "Frasco do Body Splash Blossom Kiss da Simple Organic, em foto oficial do produto no site da marca",
-            "caption": "Body Splash Blossom Kiss: sozinho, fica abaixo do mínimo do frete grátis; no trio, passa. Foto: Simple Organic.",
+            "caption": "Body Splash Blossom Kiss: sozinho, fica abaixo do mínimo do frete grátis; no trio, passa sem o código e fica abaixo com ele. Foto: Simple Organic.",
             "objectFit": "square",
             "href": "https://simpleorganic.com.br/products/body-splash-blossom-kiss"
           }
@@ -176264,7 +176267,7 @@ export const reviewsData: unknown[] = [
           "A Simple Organic tem Black Friday? Tem, com o nome de Clean Friday: o banner da home anuncia tudo com até 50% OFF, e o desconto já está no preço de cada produto.",
           "Quando é a Black Friday da Simple Organic? A Clean Friday já começou e vai até o fim de novembro, enquanto durarem os estoques; a loja não anunciou regra diferente para a sexta.",
           "O cupom da Simple Organic vale na Clean Friday? No nosso teste, o S-EMCASACOMCECILIA entrou em itens com preço de campanha: confira a linha do cupom no carrinho, como mostra o capítulo do cupom.",
-          "A Simple Organic tem frete grátis na Clean Friday? Tem, a partir de R$ 99 em produtos, como fora da campanha; abaixo disso, o frete é pelo CEP.",
+          "A Simple Organic tem frete grátis na Clean Friday? Tem, a partir de R$ 99 em produtos, contados depois do cupom, como fora da campanha; abaixo disso, o frete é pelo CEP.",
           "Tem cupom de primeira compra na Simple Organic? O cupom que temos é o S-EMCASACOMCECILIA, de 5% na loja online, e ele vale na primeira compra."
         ]
       }
@@ -176298,6 +176301,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "simple-organic-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "kit-skincare-presente-simple-organic"
       }
     ]
   },
@@ -177615,7 +177621,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Os preços das tabelas são de lista, e em campanha a loja põe o preço do dia abaixo dele, como na Clean Friday que está no ar. Por cima do preço que estiver no carrinho entra o S-EMCASACOMCECILIA: 5% na loja online, o [cupom Simple Organic](/cupons/simple-organic) da parceria.",
           "O código entrou em kit, em duo e em produto com preço de promoção, e os 5% saíram do preço que já estava no carrinho, não do preço riscado. O que confirma é a linha do desconto no resumo do pedido: confira antes de pagar. O link da parceria abre a home da loja com o código aplicado; o link de produto, como os das tabelas, vai sem ele, então copie o código e cole no campo \"Desconto\" do carrinho. O código é da loja online.",
-          "Para um pedido pequeno, compare o total com frete depois de aplicar o código. O mínimo de frete grátis e o valor dos produtos precisam ser confirmados no carrinho. Se você já pretende comprar outro item, simule os dois juntos e compare com o total de uma compra só."
+          "Para um pedido pequeno, compare o total com frete depois de aplicar o código. O mínimo de frete grátis e o valor dos produtos precisam ser confirmados no carrinho. Se você já pretende comprar outro item, simule os dois juntos e compare com o total de uma compra só. Se a compra é para presente, o guia de [kits de skincare da Simple Organic para presente](/reviews/kit-skincare-presente-simple-organic) compara as opções e mostra quando o kit custa o mesmo que os avulsos."
         ]
       },
       {
@@ -177679,6 +177685,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "simple-organic-e-confiavel"
+      },
+      {
+        "slug": "kit-skincare-presente-simple-organic"
       }
     ]
   },
@@ -210117,7 +210126,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Nos avulsos comparados, a Principia vende pelo preço de sempre; a Black Friday dela é de kits. O cupom da Simple Organic soma com a promoção da loja, e o frete é grátis a partir de R$ 99."
+          "Nos avulsos comparados, a Principia vende pelo preço de sempre; a Black Friday dela é de kits. O cupom da Simple Organic soma com a promoção da loja, e o frete é grátis a partir de R$ 99, contados depois do desconto."
         ],
         "links": [
           {
