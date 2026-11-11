@@ -72,6 +72,7 @@ Nos artigos deste parceiro, usar `affiliate: "black-skull"` e link relativo para
 | `/images/about/partners/black-skull.png` | Logotipo SVG branco do cabeçalho do site oficial, recolorido para escuro, baixado em 2026-10-13 | Parceiros comerciais no `/sobre` | Identificação da marca parceira |
 | `/images/about/partners/black-skull-icon.png` | Ícone SVG da caveira no círculo laranja, do site oficial, achatado sobre branco | Bolinha da home, chip e imagem de compartilhamento | Identificação da marca parceira |
 | `/images/logos/watermarks/black-skull.webp` | Silhueta do logotipo | Marca-d'água da página e dos cards | Identificação da marca parceira |
+| `/images/logos/bolinhas/black-skull.png` | Ícone SVG da home do site (`https://blackskullusa.vtexassets.com/arquivos/images-newhome-skull.svg`), baixado em 2026-11-11. Só a caveira branca, em 512 × 512 transparente (78% do lado); o círculo laranja virou o `background` (`#FF9601`) | Bolinha da home e de /reviews | Identificação da marca parceira |
 
 Os logos estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo,
 conforme `docs/GUIA-MIDIA-EDITORIAL.md`.

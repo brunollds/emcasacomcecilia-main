@@ -61,6 +61,7 @@ O campo se chama "Código do cupom", com o botão "Aplicar cupom".
 | `/images/about/partners/belive.png` | Selo oficial do cabeçalho do site (fundo preto, texto branco e pássaro amarelo), 280 × 135 sem ampliar, baixado em 2026-10-16 | Parceiros comerciais no `/sobre` | Identificação da marca parceira |
 | `/images/about/partners/belive-icon.png` | Ícone oficial do site (o pássaro amarelo), sobre branco em 256 × 256 | Bolinha da home, chip e imagem de compartilhamento | Identificação da marca parceira |
 | `/images/logos/watermarks/belive.webp` | Silhueta do texto e do pássaro do selo | Marca-d'água da página e dos cards | Identificação da marca parceira |
+| `/images/logos/bolinhas/belive.png` | Ícone oficial do site, o pássaro amarelo (`https://belivebefree.com.br/wp-content/uploads/2024/03/cropped-icone-passaro-belive-1.webp`, 512 × 512), baixado em 2026-11-11. Sem troca de cor, em 512 × 512 transparente (100% da largura) | Bolinha da home e de /reviews | Identificação da marca parceira |
 
 Os logos estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo,
 conforme `docs/GUIA-MIDIA-EDITORIAL.md`.
