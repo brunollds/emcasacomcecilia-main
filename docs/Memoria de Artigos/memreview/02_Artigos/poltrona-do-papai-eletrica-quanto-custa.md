@@ -196,3 +196,10 @@ Aprovadas pelo Bruno em 09/11/2026, depois do parecer externo. No CDN e verifica
 | `poltrona-do-papai-eletrica-boston-gran-belo.webp` | Com giro | Anúncio da Magalu, `/p/agjf6g8jd5`, 09/11 |
 | `poltrona-do-papai-eletrica-austin-lift-gran-belo.webp` | Com elevação | Anúncio da Magalu, `/p/adec0jfbhh`, 09/11 |
 | `poltrona-do-papai-eletrica-condor-ferguile.webp` | Em couro | Anúncio da Magalu, `/p/ja874hk45h`, 09/11 |
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/damie/poltrona-do-papai-eletrica-quanto-custa-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Cecília sentada na poltrona DAMIE Levita em couro caramelo, com a mão no comando lateral, em foto própria.
+- **Origem:** foto própria da Cecília na poltrona DAMIE Levita caramelo, com a mão no comando lateral; produto recebido em parceria. Sem geração por IA.
+- **Lote 25 do piloto de capas (sequência 8 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-8-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/damie/poltrona-do-papai-eletrica-quanto-custa-capa.webp`) fica no CDN, sem uso como capa.

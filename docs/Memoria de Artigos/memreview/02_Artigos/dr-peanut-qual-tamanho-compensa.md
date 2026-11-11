@@ -347,3 +347,10 @@ Arquivos em `public/images/reviews/dr-peanut/` e no CDN, com os nomes abaixo. No
 | `dr-peanut-qual-tamanho-compensa-pote-250g.webp` | Corpo, seção "Como comparar: o preço por 100 g" | "Pote de 250 g de pasta de amendoim Dr. Peanut sabor Avelã, frente da embalagem" | "Pote de 250 g: R$ 25,89 no site em 24/10/2026, R$ 10,36 por 100 g." | https://drpeanut.vteximg.com.br/arquivos/ids/157232 (AVELA_250.png), baixada em 24/10/2026, recortada sem a borda branca | 624 / 978 |
 
 Os potes são do sabor Avelã, porque é a foto oficial de cada tamanho que a loja mostra. A capa põe os dois potes numa só imagem, com o de 600 g mais alto que o de 250 g (proporção estimada pelas fotos do lote).
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pote de pasta de amendoim Dr. Peanut Avelã de 250 g em foto oficial, ao lado da pergunta 250 g, 600 g ou kit: qual compensa?
+- **Origem:** foto oficial do pote Dr. Peanut Avelã de 250 g; não afirma teste novo de carrinho. Sem geração por IA.
+- **Lote 25 do piloto de capas (sequência 8 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-8-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-capa-discover.webp`) fica no CDN, sem uso como capa.

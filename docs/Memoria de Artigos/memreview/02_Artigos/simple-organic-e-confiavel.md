@@ -293,3 +293,10 @@ JSON `content/reviews/simple-organic-e-confiavel.json`, id 780, no manifesto e n
 ## Publicação (03/11/2026)
 - No ar em 03/11/2026: PR #539, release `34126d7d` (build 01a1a36b), id 780, só PT. Smoke com 7 imagens no CDN e a foto com link de produto; sitemap, llms.txt e IndexNow; captura 41727165405 verde.
 - Pendente: reler o Reclame Aqui e os preços na revisão mensal de dezembro de 2026; tirar a Clean Friday depois de 30/11.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/simple-organic/simple-organic-e-confiavel-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Frasco do Gel de Limpeza Suave da Simple Organic, com líquido escorrendo do pump, em foto oficial da marca.
+- **Origem:** foto oficial do Gel de Limpeza Suave com líquido no pump, recortada sem os selos externos e com extensão só de fundo vazio; não confundir com o Gel de Limpeza Profunda. Sem geração por IA.
+- **Lote 25 do piloto de capas (sequência 8 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-8-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/simple-organic/simple-organic-e-confiavel-capa.webp`) fica no CDN, sem uso como capa.

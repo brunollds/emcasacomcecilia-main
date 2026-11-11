@@ -96,3 +96,10 @@ Revisão externa (`docs/auditoria-copy-artigos/novos-20261108-i14-f13-f14/PARECE
 - A dica de tamanho menor ou maior só está nas páginas dos Comfort, do Top Segunda Pele, do Clássico e dos tops Cotton Up.
 - Matriz de busto: leitura nossa dos guias, calculada dos intervalos, conferida pela revisão externa nas 42 células.
 - Sem card nem Leve/Passe, por ser guia de medidas.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/tamanho-toda-up-como-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Três modelos adultas vestindo peças Alça Fina da Toda Up nas cores rosa, preto e claro, em foto oficial, ao lado da pergunta Qual é o seu tamanho?
+- **Origem:** foto oficial de três modelos adultas com peças Alça Fina (rosa, preto e claro), os três enquadramentos preservados, sem duplicações desfocadas. Sem geração por IA.
+- **Lote 26 do piloto de capas (sequência 8 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-8-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/toda-up/tamanho-toda-up-como-escolher-capa.webp`) fica no CDN, sem uso como capa.

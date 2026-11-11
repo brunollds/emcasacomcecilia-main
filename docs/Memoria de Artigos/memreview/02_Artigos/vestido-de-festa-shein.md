@@ -159,3 +159,10 @@ Fatos: `vestido-de-festa-shein-fatos-3010.md`, ao lado.
 ## Correção: sem "SHEIN Brasil" (04/11/2026)
 - Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, e `03_Memoria/Clusters-Multilingues/SHEIN.md`): a SHEIN é plataforma global, e nenhum texto diz "SHEIN Brasil", nem em português.
 - Quatro trocas no PT, sem mudar fato: a nota editorial ("Preços e regras conferidos no site da SHEIN no dia da publicação."), o título da seção da tabela ("Três vestidos lidos na SHEIN", como o "Three dresses checked on SHEIN" do inglês), a legenda da tabela ("Três vestidos da SHEIN") e a frase do 4CW5Y ("É o código de indicação da SHEIN"). O `test:review-i18n` segue verde com o título novo, e as 9 traduções não mudaram. PR #566.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Modelo adulta em imagem do anúncio SHEIN usando vestido de festa ADYCE azul-marinho com cauda, diante de espelho, ao lado do código de indicação 4CW5Y.
+- **Origem:** imagem do anúncio SHEIN, modelo adulta com o vestido ADYCE azul-marinho com cauda diante do espelho, e o código de indicação 4CW5Y (não é cupom; sem porcentagem). Alts dos 9 idiomas revisados pelo GPT-6.1 Terra. Uma capa só para os 10 idiomas da família, com o alt de cada idioma. Sem geração por IA.
+- **Lote 26 do piloto de capas (sequência 8 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-8-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/shein/vestido-de-festa-shein-capa.webp`) fica no CDN, sem uso como capa.

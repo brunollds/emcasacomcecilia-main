@@ -484,3 +484,10 @@ Travesseiro é escolha de conforto, não tratamento. Dor persistente no pescoço
 ### Nota de transparência
 
 Podemos receber comissão pela I Wanna Sleep, a única parceira comissionada deste artigo. A Ortobom não é parceira: não há link comissionado nem código nosso para ela. Os dados de preço, teste, garantia e frete vêm dos sites oficiais, consultados em 16/10/2026. Não testamos nenhum dos travesseiros. As contas do cupom e as comparações são nossas, feitas sobre o que as páginas informam.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo adulta deitada no Travesseiro Magnum Pluma AirFiber da I Wanna Sleep, em foto promocional oficial da marca.
+- **Origem:** foto promocional oficial do Travesseiro Magnum Pluma AirFiber (não o Pillow Top Magnum); sem a marca concorrente na arte. Sem geração por IA.
+- **Lote 26 do piloto de capas (sequência 8 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-8-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-capa.webp`) fica no CDN, sem uso como capa.

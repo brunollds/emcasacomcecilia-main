@@ -42213,6 +42213,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa-v2.webp",
+      "local_url": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 302510,
+      "sha256": "52260da08d64ca894cd776f3875e2fcd8a0e1b519fe76400144a0749a86b1884",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "doces-sem-acucar-para-diabeticos-capa-v2.webp",
+      "storage_filename": "doces-sem-acucar-para-diabeticos-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/doces-sem-acucar-para-diabeticos.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/doces-sem-acucar-para-diabeticos.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/doces-sem-acucar-para-diabeticos.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/doces-sem-acucar-para-diabeticos.md",
+          "line": 234,
+          "column": 14,
+          "literal": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/52260da08d64ca894cd776f3875e2fcd8a0e1b519fe76400144a0749a86b1884/doces-sem-acucar-para-diabeticos-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/52260da08d64ca894cd776f3875e2fcd8a0e1b519fe76400144a0749a86b1884/doces-sem-acucar-para-diabeticos-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.189Z",
+      "verification_etag_or_digest": "52260da08d64ca894cd776f3875e2fcd8a0e1b519fe76400144a0749a86b1884",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa.webp",
       "local_url": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa.webp",
       "media_kind": "image",
@@ -55169,6 +55215,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/poltrona-do-papai-eletrica-quanto-custa-capa-v2.webp",
+      "local_url": "/images/reviews/damie/poltrona-do-papai-eletrica-quanto-custa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 126616,
+      "sha256": "b880b7952493aa0d2f362fbf1451470f22c0c0f60a7d68f6221a057c14add0dd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-do-papai-eletrica-quanto-custa-capa-v2.webp",
+      "storage_filename": "poltrona-do-papai-eletrica-quanto-custa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-do-papai-eletrica-quanto-custa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/poltrona-do-papai-eletrica-quanto-custa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-do-papai-eletrica-quanto-custa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltrona-do-papai-eletrica-quanto-custa-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/poltrona-do-papai-eletrica-quanto-custa.md",
+          "line": 202,
+          "column": 14,
+          "literal": "/images/reviews/damie/poltrona-do-papai-eletrica-quanto-custa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b880b7952493aa0d2f362fbf1451470f22c0c0f60a7d68f6221a057c14add0dd/poltrona-do-papai-eletrica-quanto-custa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b880b7952493aa0d2f362fbf1451470f22c0c0f60a7d68f6221a057c14add0dd/poltrona-do-papai-eletrica-quanto-custa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "b880b7952493aa0d2f362fbf1451470f22c0c0f60a7d68f6221a057c14add0dd",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/poltrona-do-papai-eletrica-quanto-custa-capa.webp",
       "local_url": "/images/reviews/damie/poltrona-do-papai-eletrica-quanto-custa-capa.webp",
       "media_kind": "image",
@@ -55907,6 +55999,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/presente-de-natal-para-casa-moveis-capa-v2.webp",
+      "local_url": "/images/reviews/damie/presente-de-natal-para-casa-moveis-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60638,
+      "sha256": "6c08c279edaa4d722c6b1f1c61d1ed2d19d5f76445263c711f349663c31a26c9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-de-natal-para-casa-moveis-capa-v2.webp",
+      "storage_filename": "presente-de-natal-para-casa-moveis-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-de-natal-para-casa-moveis.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/presente-de-natal-para-casa-moveis.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-de-natal-para-casa-moveis.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/damie/presente-de-natal-para-casa-moveis-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/presente-de-natal-para-casa-moveis.md",
+          "line": 265,
+          "column": 14,
+          "literal": "/images/reviews/damie/presente-de-natal-para-casa-moveis-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6c08c279edaa4d722c6b1f1c61d1ed2d19d5f76445263c711f349663c31a26c9/presente-de-natal-para-casa-moveis-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6c08c279edaa4d722c6b1f1c61d1ed2d19d5f76445263c711f349663c31a26c9/presente-de-natal-para-casa-moveis-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "6c08c279edaa4d722c6b1f1c61d1ed2d19d5f76445263c711f349663c31a26c9",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/presente-de-natal-para-casa-moveis-capa.webp",
       "local_url": "/images/reviews/damie/presente-de-natal-para-casa-moveis-capa.webp",
       "media_kind": "image",
@@ -55932,6 +56070,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-23T02:52:07.486Z",
       "verification_etag_or_digest": "0d741f10d89b83b11f11f7433a39a17ffe9d19d316485f01f03bebcf60a54ca5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/presente-de-natal-para-pai-poltrona-do-papai-capa-v2.webp",
+      "local_url": "/images/reviews/damie/presente-de-natal-para-pai-poltrona-do-papai-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 187406,
+      "sha256": "7187d4d1447b073f0c51c2bcb17ec34bbeb78e3fa3fc57f110ea1554c1397c91",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-de-natal-para-pai-poltrona-do-papai-capa-v2.webp",
+      "storage_filename": "presente-de-natal-para-pai-poltrona-do-papai-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-de-natal-para-pai-poltrona-do-papai.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/presente-de-natal-para-pai-poltrona-do-papai.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-de-natal-para-pai-poltrona-do-papai.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/damie/presente-de-natal-para-pai-poltrona-do-papai-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/presente-de-natal-para-pai-poltrona-do-papai.md",
+          "line": 153,
+          "column": 14,
+          "literal": "/images/reviews/damie/presente-de-natal-para-pai-poltrona-do-papai-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7187d4d1447b073f0c51c2bcb17ec34bbeb78e3fa3fc57f110ea1554c1397c91/presente-de-natal-para-pai-poltrona-do-papai-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7187d4d1447b073f0c51c2bcb17ec34bbeb78e3fa3fc57f110ea1554c1397c91/presente-de-natal-para-pai-poltrona-do-papai-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "7187d4d1447b073f0c51c2bcb17ec34bbeb78e3fa3fc57f110ea1554c1397c91",
       "verification_status": "verified"
     },
     {
@@ -58012,6 +58196,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-12T22:37:09.008Z",
       "verification_etag_or_digest": "b71f8ceb3088653adf8a90a25c15430c0f75a32ad72b7cca501d1a0d0abc98df",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-capsulas-compativeis-guia-capa-v2.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-capsulas-compativeis-guia-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 138836,
+      "sha256": "af970c9fe4e649b5e0df53f46c0a6c70b21e97b6a7954cd2212a77c2ffa34905",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-capsulas-compativeis-guia-capa-v2.webp",
+      "storage_filename": "dolce-gusto-capsulas-compativeis-guia-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-capsulas-compativeis-guia.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/dolce-gusto-capsulas-compativeis-guia.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-capsulas-compativeis-guia.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-capsulas-compativeis-guia-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/dolce-gusto-capsulas-compativeis-guia.md",
+          "line": 450,
+          "column": 14,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-capsulas-compativeis-guia-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/af970c9fe4e649b5e0df53f46c0a6c70b21e97b6a7954cd2212a77c2ffa34905/dolce-gusto-capsulas-compativeis-guia-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/af970c9fe4e649b5e0df53f46c0a6c70b21e97b6a7954cd2212a77c2ffa34905/dolce-gusto-capsulas-compativeis-guia-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "af970c9fe4e649b5e0df53f46c0a6c70b21e97b6a7954cd2212a77c2ffa34905",
       "verification_status": "verified"
     },
     {
@@ -62373,6 +62603,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa-v2.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 102038,
+      "sha256": "39b48a69cf18317a3253bb63e6e0101a9eec83ee8665dac6ddccaeecdbb08d52",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-e-saudavel-capa-v2.webp",
+      "storage_filename": "dr-peanut-e-saudavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-e-saudavel.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/dr-peanut-e-saudavel.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-e-saudavel.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/dr-peanut-e-saudavel.md",
+          "line": 335,
+          "column": 14,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/39b48a69cf18317a3253bb63e6e0101a9eec83ee8665dac6ddccaeecdbb08d52/dr-peanut-e-saudavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/39b48a69cf18317a3253bb63e6e0101a9eec83ee8665dac6ddccaeecdbb08d52/dr-peanut-e-saudavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "39b48a69cf18317a3253bb63e6e0101a9eec83ee8665dac6ddccaeecdbb08d52",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa.webp",
       "local_url": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa.webp",
       "media_kind": "image",
@@ -62630,6 +62906,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-25T02:45:43.930Z",
       "verification_etag_or_digest": "757ad503ca5c1308206aba60b8551b5b6b45244b92105e19af17d7466f99bebd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-capa-v2.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 131904,
+      "sha256": "a00ac8bdd7a7ed5f813e38abc23681664c47a957688f898c637436306e70d854",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-qual-tamanho-compensa-capa-v2.webp",
+      "storage_filename": "dr-peanut-qual-tamanho-compensa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-qual-tamanho-compensa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/dr-peanut-qual-tamanho-compensa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-qual-tamanho-compensa.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/dr-peanut-qual-tamanho-compensa.md",
+          "line": 353,
+          "column": 14,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a00ac8bdd7a7ed5f813e38abc23681664c47a957688f898c637436306e70d854/dr-peanut-qual-tamanho-compensa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a00ac8bdd7a7ed5f813e38abc23681664c47a957688f898c637436306e70d854/dr-peanut-qual-tamanho-compensa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "a00ac8bdd7a7ed5f813e38abc23681664c47a957688f898c637436306e70d854",
       "verification_status": "verified"
     },
     {
@@ -78255,6 +78577,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/insider-ou-minimal-club-capa-v2.webp",
+      "local_url": "/images/reviews/insider/insider-ou-minimal-club-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49504,
+      "sha256": "0fd12e95d4edee7c7f159a1f2c598dce0fbe26c5bcb97ab6cb9e36b8ca831954",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-ou-minimal-club-capa-v2.webp",
+      "storage_filename": "insider-ou-minimal-club-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-ou-minimal-club.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/insider-ou-minimal-club.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-ou-minimal-club.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/insider-ou-minimal-club-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/insider-ou-minimal-club.md",
+          "line": 244,
+          "column": 14,
+          "literal": "/images/reviews/insider/insider-ou-minimal-club-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0fd12e95d4edee7c7f159a1f2c598dce0fbe26c5bcb97ab6cb9e36b8ca831954/insider-ou-minimal-club-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0fd12e95d4edee7c7f159a1f2c598dce0fbe26c5bcb97ab6cb9e36b8ca831954/insider-ou-minimal-club-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "0fd12e95d4edee7c7f159a1f2c598dce0fbe26c5bcb97ab6cb9e36b8ca831954",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/insider-ou-minimal-club-capa.webp",
       "local_url": "/images/reviews/insider/insider-ou-minimal-club-capa.webp",
       "media_kind": "image",
@@ -79120,6 +79488,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T05:12:35.514Z",
       "verification_etag_or_digest": "7ed97e9dd0c1e20bcbe8f329dbcfae9141c46563eee305720181513aa0ebf50c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/kit-insider-quando-compensa-capa-v2.webp",
+      "local_url": "/images/reviews/insider/kit-insider-quando-compensa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40466,
+      "sha256": "8187313f6c338a91d1139e498965b3eb28671ebb72698e7528385223b26e9b7f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-insider-quando-compensa-capa-v2.webp",
+      "storage_filename": "kit-insider-quando-compensa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-insider-quando-compensa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/kit-insider-quando-compensa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-insider-quando-compensa.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/insider/kit-insider-quando-compensa-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/kit-insider-quando-compensa.md",
+          "line": 165,
+          "column": 14,
+          "literal": "/images/reviews/insider/kit-insider-quando-compensa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/8187313f6c338a91d1139e498965b3eb28671ebb72698e7528385223b26e9b7f/kit-insider-quando-compensa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8187313f6c338a91d1139e498965b3eb28671ebb72698e7528385223b26e9b7f/kit-insider-quando-compensa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "8187313f6c338a91d1139e498965b3eb28671ebb72698e7528385223b26e9b7f",
       "verification_status": "verified"
     },
     {
@@ -83804,6 +84218,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-capa-v2.webp",
+      "local_url": "/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 222096,
+      "sha256": "8357f206de0175c389c9499e8f04b77cfc5d88b26a684e4ddf92653670fe639e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "i-wanna-sleep-ou-ortobom-capa-v2.webp",
+      "storage_filename": "i-wanna-sleep-ou-ortobom-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/i-wanna-sleep-ou-ortobom.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/i-wanna-sleep-ou-ortobom.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/i-wanna-sleep-ou-ortobom.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/i-wanna-sleep-ou-ortobom.md",
+          "line": 490,
+          "column": 14,
+          "literal": "/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/8357f206de0175c389c9499e8f04b77cfc5d88b26a684e4ddf92653670fe639e/i-wanna-sleep-ou-ortobom-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8357f206de0175c389c9499e8f04b77cfc5d88b26a684e4ddf92653670fe639e/i-wanna-sleep-ou-ortobom-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "8357f206de0175c389c9499e8f04b77cfc5d88b26a684e4ddf92653670fe639e",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-capa.webp",
       "local_url": "/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-capa.webp",
       "media_kind": "image",
@@ -87266,6 +87726,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T06:54:58.903Z",
       "verification_etag_or_digest": "d44455c384489db0f4b3ba0b57d7582602ab5fa3668f173d6b6b5ea8b2ea47e9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lejour/lista-de-casamento-lejour-como-criar-capa-v2.webp",
+      "local_url": "/images/reviews/lejour/lista-de-casamento-lejour-como-criar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86526,
+      "sha256": "cbbe16a83cd40974d3881f47bc3732bfcd9424962dd242f8ce477b6b8aebd6e9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lista-de-casamento-lejour-como-criar-capa-v2.webp",
+      "storage_filename": "lista-de-casamento-lejour-como-criar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lista-de-casamento-lejour-como-criar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/lista-de-casamento-lejour-como-criar.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lista-de-casamento-lejour-como-criar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/lejour/lista-de-casamento-lejour-como-criar-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/lista-de-casamento-lejour-como-criar.md",
+          "line": 201,
+          "column": 14,
+          "literal": "/images/reviews/lejour/lista-de-casamento-lejour-como-criar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/cbbe16a83cd40974d3881f47bc3732bfcd9424962dd242f8ce477b6b8aebd6e9/lista-de-casamento-lejour-como-criar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cbbe16a83cd40974d3881f47bc3732bfcd9424962dd242f8ce477b6b8aebd6e9/lista-de-casamento-lejour-como-criar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "cbbe16a83cd40974d3881f47bc3732bfcd9424962dd242f8ce477b6b8aebd6e9",
       "verification_status": "verified"
     },
     {
@@ -91134,6 +91640,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-31T00:31:43.912Z",
       "verification_etag_or_digest": "87b6e2deedd0040462991a260081c78893977d1659567fa6843627f8188c2751",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/looks/looks-com-camiseta-basica-feminina-capa-v2.webp",
+      "local_url": "/images/reviews/looks/looks-com-camiseta-basica-feminina-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43514,
+      "sha256": "b7ce62f2c6a8c0d128b17485be42944cd881dd66c91b1953ebcc7aefcebf7e4e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "looks-com-camiseta-basica-feminina-capa-v2.webp",
+      "storage_filename": "looks-com-camiseta-basica-feminina-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/looks-com-camiseta-basica-feminina.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/looks-com-camiseta-basica-feminina.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/looks-com-camiseta-basica-feminina.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/looks/looks-com-camiseta-basica-feminina-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/looks-com-camiseta-basica-feminina.md",
+          "line": 116,
+          "column": 14,
+          "literal": "/images/reviews/looks/looks-com-camiseta-basica-feminina-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b7ce62f2c6a8c0d128b17485be42944cd881dd66c91b1953ebcc7aefcebf7e4e/looks-com-camiseta-basica-feminina-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b7ce62f2c6a8c0d128b17485be42944cd881dd66c91b1953ebcc7aefcebf7e4e/looks-com-camiseta-basica-feminina-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "b7ce62f2c6a8c0d128b17485be42944cd881dd66c91b1953ebcc7aefcebf7e4e",
       "verification_status": "verified"
     },
     {
@@ -95685,6 +96237,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-e-boa-capa-v2.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-e-boa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 51892,
+      "sha256": "2c1a728c988b73944dc272ff3d2af5a7e857638874e3d5002c8a4d09569fe08f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-e-boa-capa-v2.webp",
+      "storage_filename": "max-titanium-e-boa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/max-titanium-e-boa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-e-boa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/max-titanium-e-boa-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/max-titanium-e-boa.md",
+          "line": 7,
+          "column": 14,
+          "literal": "/images/reviews/max-titanium/max-titanium-e-boa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2c1a728c988b73944dc272ff3d2af5a7e857638874e3d5002c8a4d09569fe08f/max-titanium-e-boa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2c1a728c988b73944dc272ff3d2af5a7e857638874e3d5002c8a4d09569fe08f/max-titanium-e-boa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "2c1a728c988b73944dc272ff3d2af5a7e857638874e3d5002c8a4d09569fe08f",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/max-titanium/max-titanium-e-boa-capa.webp",
       "local_url": "/images/reviews/max-titanium/max-titanium-e-boa-capa.webp",
       "media_kind": "image",
@@ -100116,6 +100714,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/nutren-senior-como-tomar-sem-empelotar-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/nutren-senior-como-tomar-sem-empelotar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 103262,
+      "sha256": "f04b95dbabc8b9276df2b30b5df8242678ff61826a61fde003766093f903e66b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-senior-como-tomar-sem-empelotar-capa-v2.webp",
+      "storage_filename": "nutren-senior-como-tomar-sem-empelotar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-senior-como-tomar-sem-empelotar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/nutren-senior-como-tomar-sem-empelotar.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-senior-como-tomar-sem-empelotar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-senior-como-tomar-sem-empelotar-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/nutren-senior-como-tomar-sem-empelotar.md",
+          "line": 371,
+          "column": 14,
+          "literal": "/images/reviews/nutren/nutren-senior-como-tomar-sem-empelotar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f04b95dbabc8b9276df2b30b5df8242678ff61826a61fde003766093f903e66b/nutren-senior-como-tomar-sem-empelotar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f04b95dbabc8b9276df2b30b5df8242678ff61826a61fde003766093f903e66b/nutren-senior-como-tomar-sem-empelotar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "f04b95dbabc8b9276df2b30b5df8242678ff61826a61fde003766093f903e66b",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/nutren-senior-hero.webp",
       "local_url": "/images/reviews/nutren/nutren-senior-hero.webp",
       "media_kind": "image",
@@ -103737,6 +104381,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-14T16:08:01.326Z",
       "verification_etag_or_digest": "288c622dbe03f8755cb8681c5bb3f7224bdc25e3f1f89466fd1aa5315dbd4a8a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-e-boa-capa-v2.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-e-boa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 76334,
+      "sha256": "0634985b6b0e2ec3940a5d70c86c4ec1b808329420e77e7214e60350d9138d12",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-e-boa-capa-v2.webp",
+      "storage_filename": "probiotica-e-boa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/probiotica-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/probiotica-e-boa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/probiotica-e-boa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/probiotica/probiotica-e-boa-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/probiotica-e-boa.md",
+          "line": 7,
+          "column": 14,
+          "literal": "/images/reviews/probiotica/probiotica-e-boa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0634985b6b0e2ec3940a5d70c86c4ec1b808329420e77e7214e60350d9138d12/probiotica-e-boa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0634985b6b0e2ec3940a5d70c86c4ec1b808329420e77e7214e60350d9138d12/probiotica-e-boa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "0634985b6b0e2ec3940a5d70c86c4ec1b808329420e77e7214e60350d9138d12",
       "verification_status": "verified"
     },
     {
@@ -112423,6 +113113,124 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+      "local_url": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 162442,
+      "sha256": "0ba446f378f93aed36427ad69f8183de9651105e814ed3903c35c8f40a9c437d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vestido-de-festa-shein-capa-v2.webp",
+      "storage_filename": "vestido-de-festa-shein-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/abito-da-festa-shein.json",
+        "content/reviews/partykleid-shein.json",
+        "content/reviews/robe-de-soiree-shein.json",
+        "content/reviews/shein-party-dress-guide-ja.json",
+        "content/reviews/shein-party-dress-guide-ko.json",
+        "content/reviews/shein-party-dress-guide-zh-hans.json",
+        "content/reviews/shein-party-dress-guide-zh-hant.json",
+        "content/reviews/shein-party-dress-guide.json",
+        "content/reviews/vestido-de-festa-shein.json",
+        "content/reviews/vestido-de-fiesta-shein.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/vestido-de-festa-shein.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/abito-da-festa-shein.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/partykleid-shein.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/robe-de-soiree-shein.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide-ja.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide-zh-hans.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-party-dress-guide.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vestido-de-festa-shein.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vestido-de-fiesta-shein.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/vestido-de-festa-shein.md",
+          "line": 165,
+          "column": 14,
+          "literal": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0ba446f378f93aed36427ad69f8183de9651105e814ed3903c35c8f40a9c437d/vestido-de-festa-shein-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0ba446f378f93aed36427ad69f8183de9651105e814ed3903c35c8f40a9c437d/vestido-de-festa-shein-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "0ba446f378f93aed36427ad69f8183de9651105e814ed3903c35c8f40a9c437d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/shein/vestido-de-festa-shein-capa.webp",
       "local_url": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
       "media_kind": "image",
@@ -113139,6 +113947,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T01:17:23.021Z",
       "verification_etag_or_digest": "a21ff643cbff49e1b5523aa2ffb8f467a33eb4113784a21882888a1a85c2c1af",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/alternativas-a-creamy-capa-v3.webp",
+      "local_url": "/images/reviews/simple-organic/alternativas-a-creamy-capa-v3.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39540,
+      "sha256": "641c54274245db06c56e24f06a225d44446cb888149b8e6acce29eab7866eaa2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "alternativas-a-creamy-capa-v3.webp",
+      "storage_filename": "alternativas-a-creamy-capa-v3.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/alternativas-a-creamy.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/alternativas-a-creamy.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/alternativas-a-creamy.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/alternativas-a-creamy-capa-v3.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/alternativas-a-creamy.md",
+          "line": 124,
+          "column": 14,
+          "literal": "/images/reviews/simple-organic/alternativas-a-creamy-capa-v3.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/641c54274245db06c56e24f06a225d44446cb888149b8e6acce29eab7866eaa2/alternativas-a-creamy-capa-v3.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/641c54274245db06c56e24f06a225d44446cb888149b8e6acce29eab7866eaa2/alternativas-a-creamy-capa-v3.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "641c54274245db06c56e24f06a225d44446cb888149b8e6acce29eab7866eaa2",
       "verification_status": "verified"
     },
     {
@@ -114152,6 +115006,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48842,
+      "sha256": "80d9891510c046bd0b324e7d351332a89f094136dff3288a1de589ee163705f5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-e-confiavel-capa-v2.webp",
+      "storage_filename": "simple-organic-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-e-confiavel.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/simple-organic-e-confiavel.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-e-confiavel.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/simple-organic-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/simple-organic-e-confiavel.md",
+          "line": 299,
+          "column": 14,
+          "literal": "/images/reviews/simple-organic/simple-organic-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/80d9891510c046bd0b324e7d351332a89f094136dff3288a1de589ee163705f5/simple-organic-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/80d9891510c046bd0b324e7d351332a89f094136dff3288a1de589ee163705f5/simple-organic-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "80d9891510c046bd0b324e7d351332a89f094136dff3288a1de589ee163705f5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/simple-organic/simple-organic-e-confiavel-capa.webp",
       "local_url": "/images/reviews/simple-organic/simple-organic-e-confiavel-capa.webp",
       "media_kind": "image",
@@ -114249,6 +115149,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-03T21:10:51.184Z",
       "verification_etag_or_digest": "a400d5245b08fac2afd82c7e0c11489c4c3e60786c5ce3a8388b1c88ce4ffd27",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-ou-principia-capa-v2.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-ou-principia-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44468,
+      "sha256": "e6ad9c788951a31d84fc12f32180ab867adfb84c88340ca3148615bf5e78a4cf",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-ou-principia-capa-v2.webp",
+      "storage_filename": "simple-organic-ou-principia-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-ou-principia.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/simple-organic-ou-principia.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-ou-principia.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/simple-organic-ou-principia-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/simple-organic-ou-principia.md",
+          "line": 219,
+          "column": 14,
+          "literal": "/images/reviews/simple-organic/simple-organic-ou-principia-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e6ad9c788951a31d84fc12f32180ab867adfb84c88340ca3148615bf5e78a4cf/simple-organic-ou-principia-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e6ad9c788951a31d84fc12f32180ab867adfb84c88340ca3148615bf5e78a4cf/simple-organic-ou-principia-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "e6ad9c788951a31d84fc12f32180ab867adfb84c88340ca3148615bf5e78a4cf",
       "verification_status": "verified"
     },
     {
@@ -117380,6 +118326,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/skelt/skelt-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/skelt/skelt-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 99088,
+      "sha256": "66be4e25f19494ce397990b8a5559d6311ca23dc3da964bf33c264b555df38ff",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skelt-e-confiavel-capa-v2.webp",
+      "storage_filename": "skelt-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skelt-e-confiavel.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/skelt-e-confiavel.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skelt-e-confiavel.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/skelt/skelt-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/skelt-e-confiavel.md",
+          "line": 308,
+          "column": 14,
+          "literal": "/images/reviews/skelt/skelt-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/66be4e25f19494ce397990b8a5559d6311ca23dc3da964bf33c264b555df38ff/skelt-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/66be4e25f19494ce397990b8a5559d6311ca23dc3da964bf33c264b555df38ff/skelt-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "66be4e25f19494ce397990b8a5559d6311ca23dc3da964bf33c264b555df38ff",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/skelt/skelt-e-confiavel-capa.webp",
       "local_url": "/images/reviews/skelt/skelt-e-confiavel-capa.webp",
       "media_kind": "image",
@@ -120325,6 +121317,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/toda-up/skinup-marca-na-roupa-capa-v2.webp",
+      "local_url": "/images/reviews/toda-up/skinup-marca-na-roupa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 122048,
+      "sha256": "bb8505a108aca6a5a4ab94148b2df16d496c34139a091be1617e4940aaf6bef7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-marca-na-roupa-capa-v2.webp",
+      "storage_filename": "skinup-marca-na-roupa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-marca-na-roupa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/skinup-marca-na-roupa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-marca-na-roupa.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/skinup-marca-na-roupa-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/skinup-marca-na-roupa.md",
+          "line": 100,
+          "column": 14,
+          "literal": "/images/reviews/toda-up/skinup-marca-na-roupa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bb8505a108aca6a5a4ab94148b2df16d496c34139a091be1617e4940aaf6bef7/skinup-marca-na-roupa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bb8505a108aca6a5a4ab94148b2df16d496c34139a091be1617e4940aaf6bef7/skinup-marca-na-roupa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "bb8505a108aca6a5a4ab94148b2df16d496c34139a091be1617e4940aaf6bef7",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/toda-up/skinup-marca-na-roupa-capa.webp",
       "local_url": "/images/reviews/toda-up/skinup-marca-na-roupa-capa.webp",
       "media_kind": "image",
@@ -120520,6 +121558,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-31T23:15:17.476Z",
       "verification_etag_or_digest": "eb4dde1898c9d47632ee56ffb5a593965c2f1c838a679f117fb2491314aec462",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-capa-v2.webp",
+      "local_url": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64988,
+      "sha256": "31349dbceefde61215a6725e7318a4032e9bdd476213bfadecb53c3bb07b4636",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skinup-ou-cotton-up-toda-up-capa-v2.webp",
+      "storage_filename": "skinup-ou-cotton-up-toda-up-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skinup-ou-cotton-up-toda-up.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/skinup-ou-cotton-up-toda-up.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skinup-ou-cotton-up-toda-up.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/skinup-ou-cotton-up-toda-up.md",
+          "line": 253,
+          "column": 14,
+          "literal": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/31349dbceefde61215a6725e7318a4032e9bdd476213bfadecb53c3bb07b4636/skinup-ou-cotton-up-toda-up-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/31349dbceefde61215a6725e7318a4032e9bdd476213bfadecb53c3bb07b4636/skinup-ou-cotton-up-toda-up-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "31349dbceefde61215a6725e7318a4032e9bdd476213bfadecb53c3bb07b4636",
       "verification_status": "verified"
     },
     {
@@ -121744,6 +122828,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-30T19:41:30.139Z",
       "verification_etag_or_digest": "9eb478f24707acafe3d61c64aee33d4035f9ba861ff062def37e071dd04d5cc5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/tamanho-toda-up-como-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/toda-up/tamanho-toda-up-como-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 127716,
+      "sha256": "3093b93602050b16d587b0d0efddefc1bb18fb3c151b0115ca8c418c3acb2413",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tamanho-toda-up-como-escolher-capa-v2.webp",
+      "storage_filename": "tamanho-toda-up-como-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/tamanho-toda-up-como-escolher.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/tamanho-toda-up-como-escolher.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/tamanho-toda-up-como-escolher.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/tamanho-toda-up-como-escolher-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/tamanho-toda-up-como-escolher.md",
+          "line": 102,
+          "column": 14,
+          "literal": "/images/reviews/toda-up/tamanho-toda-up-como-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3093b93602050b16d587b0d0efddefc1bb18fb3c151b0115ca8c418c3acb2413/tamanho-toda-up-como-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3093b93602050b16d587b0d0efddefc1bb18fb3c151b0115ca8c418c3acb2413/tamanho-toda-up-como-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "3093b93602050b16d587b0d0efddefc1bb18fb3c151b0115ca8c418c3acb2413",
       "verification_status": "verified"
     },
     {
@@ -130036,6 +131166,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-24T04:35:12.136Z",
       "verification_etag_or_digest": "da9425a570a44a0b4e55104d1ed1508d769881418640f4a3b7624d4276f2dbd5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/fibermais-como-usar-em-receitas-e-bebidas-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/fibermais-como-usar-em-receitas-e-bebidas-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 115570,
+      "sha256": "de619ad2a434e1cbc574b55c1affe73b07c6822ef12b64aaa20c1c548030b647",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "fibermais-como-usar-em-receitas-e-bebidas-capa-v2.webp",
+      "storage_filename": "fibermais-como-usar-em-receitas-e-bebidas-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/fibermais-como-usar-em-receitas-e-bebidas.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/fibermais-como-usar-em-receitas-e-bebidas.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/fibermais-como-usar-em-receitas-e-bebidas.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/fibermais-como-usar-em-receitas-e-bebidas-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/fibermais-como-usar-em-receitas-e-bebidas.md",
+          "line": 214,
+          "column": 14,
+          "literal": "/images/reviews/nutren/fibermais-como-usar-em-receitas-e-bebidas-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/de619ad2a434e1cbc574b55c1affe73b07c6822ef12b64aaa20c1c548030b647/fibermais-como-usar-em-receitas-e-bebidas-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/de619ad2a434e1cbc574b55c1affe73b07c6822ef12b64aaa20c1c548030b647/fibermais-como-usar-em-receitas-e-bebidas-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:43:25.190Z",
+      "verification_etag_or_digest": "de619ad2a434e1cbc574b55c1affe73b07c6822ef12b64aaa20c1c548030b647",
       "verification_status": "verified"
     },
     {

@@ -365,3 +365,10 @@ Quando você acerta o sabor que agrada o paladar do seu familiar, escolhe o mome
 * Diferença para proteína isolada pura sem sabor: `[[nutren-just-protein-para-que-serve]]`
 * Força muscular e vitalidade: `[[nutren-creatina-e-boa-comparativo-growth-ftw-cimed]]`
 * Hub de descontos da marca: `/cupons/nestle-nutre`
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/nutren/nutren-senior-como-tomar-sem-empelotar-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Vitamina de frutas com Nutren Senior Baunilha em foto oficial da receita publicada por Receitas Nestlé, com frutas ao redor da taça.
+- **Origem:** foto oficial da receita de vitamina de frutas com Nutren Senior Baunilha (Receitas Nestlé); não é preparo da equipe. Sem geração por IA.
+- **Lote 26 do piloto de capas (sequência 8 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-8-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/nutren/nutren-senior-sem-empelotar-capa-discover.webp`) fica no CDN, sem uso como capa.

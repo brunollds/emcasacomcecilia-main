@@ -247,3 +247,10 @@ O Bruno aprovou a pauta com as recomendações do Claude como padrão.
 - Título com "Toda Up" ("skinup" sozinho leva a outra marca).
 - **Resposta rápida (REGRAS-GLOBAIS, seção 6):** um parágrafo de 40 a 60 palavras só com a decisão e a frase que aponta o que muda a escolha. Sem lista de produtos, preço, preço com cupom ou conta; o esqueleto acima é tema, não texto. Tudo o que ela disser também está num capítulo, e o veredito tem capítulo próprio antes do FAQ.
 - **Jobs 2 e 3 de verdade:** plano de imagens por seção (Job 2, item 7), capítulos completos (cada um responde uma pergunta com os números dela, sem resumo de uma linha) e a checagem do Job 3 antes de entregar.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo adulta vestindo Cotton Up preto da Toda Up em foto oficial, ao lado da pergunta SkinUp ou Cotton Up?
+- **Origem:** foto oficial da Toda Up com o Cotton Up preto, não variante recolorida de foto já usada. Sem geração por IA.
+- **Lote 27 do piloto de capas (sequência 8 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-8-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-capa.webp`) fica no CDN, sem uso como capa.
