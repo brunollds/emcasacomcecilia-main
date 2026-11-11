@@ -253,3 +253,10 @@ JSON `content/reviews/cupom-simple-organic-como-usar.json`, id 782, no manifesto
 - O Gate 1 do #539 barrou a foto do gel em "2. Monte o carrinho": os passos do guia vão para a linha do tempo, que não mostra imagens. A foto foi para "O que é o S-EMCASACOMCECILIA", com a mesma legenda. Seção de passo (título numerado) não leva imagem.
 - Ajuste do Bruno (03/11, depois do deploy): saiu a regra geral da loja (promoção, kit e duo) da resposta rápida, do passo 2, de "Onde o código valeu", da legenda do duo e do FAQ. A lista "O cupom não funcionou" segue com as regras da loja, porque explica um código recusado.
 - Pendente: reler o Reclame Aqui e os preços na revisão mensal de dezembro de 2026; tirar a Clean Friday depois de 30/11.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/simple-organic/cupom-simple-organic-como-usar-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Lip Gloss Fresh Juicy People Colour da Simple Organic em foto oficial, ao lado do código S-EMCASACOMCECILIA.
+- **Origem:** foto oficial do Lip Gloss People Colour e o código S-EMCASACOMCECILIA; não promete elegibilidade nova para collabs. Sem geração por IA.
+- **Lote 23 do piloto de capas (sequência 7 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-7-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/simple-organic/cupom-simple-organic-capa.webp`) fica no CDN, sem uso como capa.

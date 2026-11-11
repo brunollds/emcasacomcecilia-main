@@ -11,9 +11,10 @@
   "updatedAt": "2026-11-06",
   "draft": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
-  "imageAlt": "K-Beauty- und Skincare-Produkte von YesStyle auf einem hellen Tisch angeordnet.",
-  "imageFit": "cover",
+  "image": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
+  "imageAlt": "Abib PDRN Collagen Glazed Jelly Lippenmaske auf einem offiziellen Herstellerbild, neben dem YesStyle-Logo und dem Belohnungscode CECILIA010.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "pros": [
     "Influencer-Code, der sich mit berechtigten Aktionsgutscheinen kombinieren lässt und bis zu 5 % extra bringt",
     "Gilt sowohl für die Erstbestellung (5 % extra) als auch für Folgekäufe (2 % extra)",

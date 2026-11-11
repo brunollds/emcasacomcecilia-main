@@ -9,8 +9,8 @@
   "publishedAtISO": "2026-07-11",
   "updatedAt": "2026-11-06",
   "draft": false,
-  "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
-  "imageAlt": "摆在浅色桌面上的 YesStyle 韩系美妆与韩式护肤产品。",
+  "image": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
+  "imageAlt": "制造商官方图片中的Abib PDRN Collagen Glazed Jelly唇膜，旁边是YesStyle标志和奖励码CECILIA010。",
   "pros": [
     "达人代码，可在符合条件的促销优惠券之外再叠加高达 5% 的优惠",
     "首单（额外 5%）和回购订单（额外 2%）均可适用",
@@ -223,7 +223,8 @@
   "translationKey": "yesstyle-reward-code",
   "category": "cupons-como-usar",
   "metaDescription": "如何在 YesStyle 使用 CECILIA010：填入 Reward Code 栏位，可额外享高达 5% 优惠（首单 5%，回购 2%），并可按结账页显示与符合条件的促销优惠券叠加。",
-  "imageFit": "cover",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "editorialNote": "联盟链接：我们可能会通过链接和 Reward Code CECILIA010 获得佣金。",
   "isNew": false
 }

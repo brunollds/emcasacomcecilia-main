@@ -189,3 +189,10 @@ Aproveite o seu desconto e que a sua cozinha seja sempre um lugar de celebraçã
 | Pagamento flexível: Pix e cartão de crédito parcelado | Checkout oficial Let's Eat It | Confirmado |
 | Link relativo para a página de cupom (/cupons/letseatit) | docs/CONTRATO-ARTIGO-AFILIADO.md | Confirmado |
 | Ausência de sobrenome "Mauad" solto em termos genéricos de destaque | docs/MANUTENCAO-MENSAL.md | Confirmado |
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/letseatit/cupom-mauad-lets-eat-it-como-usar-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Xícara de vidro Pérola Wolff com pires, em foto oficial fornecida pela Let's Eat It, ao lado da chamada Como usar o desconto.
+- **Origem:** foto oficial da xícara Pérola Wolff com pires, fornecida pela Let's Eat It; não é compra própria. O MAUAD não aparece na arte nem no alt. Sem geração por IA.
+- **Lote 22 do piloto de capas (sequência 7 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-7-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/letseatit/cupom-lets-eat-it-como-usar-capa-discover.webp`) fica no CDN, sem uso como capa.

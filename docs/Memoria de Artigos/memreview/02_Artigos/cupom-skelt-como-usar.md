@@ -253,3 +253,10 @@ Preços de venda lidos no catálogo público da loja e na tela, em 21/10/2026. O
 1. Mercado Livre: o link está certo e entra onde a Mais Mu usa o link (FAQ), com a frase do modelo. Ver a seção "Fechadas".
 2. Imagens: os prints do checkout são a fonte principal do artigo; o teste pela API fica como segundo exemplo. Recortes na seção 5.
 3. Para este artigo: "montamos o carrinho até a sacola, sem finalizar". Nunca "compramos" nem "usamos".
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/skelt/cupom-skelt-como-usar-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Frasco Mystic Bloom da Skelt com flores em composição oficial, ao lado do código SKEMCASACOMCECILIA.
+- **Origem:** composição oficial do Mystic Bloom com flores, frasco inteiro, e o código SKEMCASACOMCECILIA, sem promessa de fixação. Sem geração por IA.
+- **Lote 23 do piloto de capas (sequência 7 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-7-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/skelt/cupom-skelt-capa-discover.webp`) fica no CDN, sem uso como capa.

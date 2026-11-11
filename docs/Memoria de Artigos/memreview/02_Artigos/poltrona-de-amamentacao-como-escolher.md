@@ -250,3 +250,10 @@ Sim, o cupom é válido para qualquer modelo e tecido no site oficial. Ao digita
 A amamentação e os primeiros meses com o bebê formam uma das jornadas mais intensas, transformadoras e bonitas da vida. Entre noites desafiadoras, descobertas diárias e muito amor, cuidar do seu próprio corpo, da sua postura e do seu descanso não é capricho — é uma necessidade real para que você esteja bem ao nutrir quem você mais ama.
 
 Espero de coração que este guia ajude você a planejar o seu cantinho com segurança, bom senso e serenidade. Seja qual for a sua escolha, que a sua poltrona seja o cenário de momentos inesquecíveis de carinho, conexão e muito aconchego em família!
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/damie/poltrona-de-amamentacao-como-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Cecília sentada na poltrona reclinável bege, olhando para Ian no assento ao lado, em foto própria da sala de casa.
+- **Origem:** foto própria da Cecília na poltrona bege com o Ian acordado no assento ao lado, sem mamada nem sono em curso; poltrona 1.0, não a 2.0. Terceira capa da mesma sessão (com a Black Friday DAMIE e a amamentação na rotina); o Bruno aceitou a semelhança em 11/11/2026. Sem geração por IA.
+- **Lote 23 do piloto de capas (sequência 7 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-7-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/damie/poltrona-amamentacao-como-escolher-capa-discover.webp`) fica no CDN, sem uso como capa.

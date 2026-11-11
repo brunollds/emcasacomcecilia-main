@@ -449,3 +449,10 @@ No ar pelos PRs #716 a #720 (página da loja, SHEIN fora do PT, 90 artigos da SH
 - **Regra:** o 4CW5Y continua sendo código de indicação, não cupom de checkout, não soma com nada e nunca se cola no checkout. Pesquisado na busca do app ou do site, ou aberto pelo link do botão, leva a uma página da SHEIN com uma seleção de produtos, promoções e descontos. **Dá desconto, sim**; só o quanto e em quais peças ficam com a SHEIN.
 - **Nunca:** percentual ou valor; desconto garantido em toda compra; "pode não ter desconto"; "só no app" ou "apenas no aplicativo"; "SHEIN Brasil".
 - **No artigo no ar:** subtítulo e `metaDescription` com "dá desconto, sim"; resposta rápida, seção "O que aparece depois da pesquisa e o que você ganha" e o FAQ "dá desconto?" afirmam o desconto; passo a passo e FAQ de computador dizem "aplicativo ou site". `seoTitle` e H1 não dizem desconto nem o código.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/shein/codigo-de-indicacao-shein-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Shorts preto e verde-oliva em composição oficial da SHEIN, ao lado do logo e do código de indicação 4CW5Y.
+- **Origem:** composição oficial dos shorts preto e verde-oliva e o código de indicação 4CW5Y; o conjunto azul com tipografia corrompida foi descartado. Uma capa só para os 10 idiomas da família, com o alt de cada idioma. Sem geração por IA.
+- **Lote 24 do piloto de capas (sequência 7 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-7-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/shein/codigo-de-indicacao-shein-capa-discover.webp`) fica no CDN, sem uso como capa.
