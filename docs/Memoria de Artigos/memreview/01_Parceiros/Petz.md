@@ -66,6 +66,7 @@ mensal: pelo Chrome.
 | `/images/about/partners/petz.png` | Logo do cabeçalho do site (`logo-petz-blackfriday.svg`, preto) com o azul da marca (#175EA8, o do favicon), 340 × 75, fundo transparente | Parceiros comerciais no `/sobre` | Identificação da marca parceira |
 | `/images/about/partners/petz-icon.png` | Favicon oficial (o "P" azul) centralizado em 256 × 256 sobre branco | Bolinha da home, chip e imagem de compartilhamento | Identificação da marca parceira |
 | `/images/logos/watermarks/petz.webp` | O mesmo logo azul, 480 × 106, fundo transparente | Marca-d'água da página e dos cards | Identificação da marca parceira |
+| `/images/logos/bolinhas/petz.png` | Favicon SVG oficial, o "P" azul (`https://static-file.petz.com.br/platforms/img/ds/petz/favicon.svg`), baixado em 2026-11-11 pelo Chrome. Sem troca de cor, em 512 × 512 transparente (86% da largura) | Bolinha da home e de /reviews | Identificação da marca parceira |
 
 Os logos estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo,
 seguindo o `docs/GUIA-MIDIA-EDITORIAL.md`.

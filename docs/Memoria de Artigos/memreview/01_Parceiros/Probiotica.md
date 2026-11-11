@@ -63,6 +63,7 @@ conforme `docs/CONTRATO-ARTIGO-AFILIADO.md`. Nunca prometer 10% em todo produto.
 | `/images/about/partners/probiotica.png` | Logotipo SVG do site oficial, sem o slogan, baixado em 2026-10-13 | Parceiros comerciais no `/sobre` | Identificação da marca parceira |
 | `/images/about/partners/probiotica-icon.png` | Favicon SVG oficial ("pb"), baixado em 2026-10-13 | Bolinha da home, chip e imagem de compartilhamento | Identificação da marca parceira |
 | `/images/logos/watermarks/probiotica.webp` | Silhueta do logotipo | Marca-d'água da página e dos cards | Identificação da marca parceira |
+| `/images/logos/bolinhas/probiotica.png` | Favicon SVG oficial, o "pb" azul (`https://www.probiotica.com.br/favicon.svg`), baixado em 2026-11-11. Sem troca de cor, em 512 × 512 transparente (80% do lado) | Bolinha da home e de /reviews | Identificação da marca parceira |
 
 Os logos estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo,
 conforme `docs/GUIA-MIDIA-EDITORIAL.md`.

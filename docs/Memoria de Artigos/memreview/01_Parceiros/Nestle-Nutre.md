@@ -72,3 +72,9 @@ revisao_geral_ate: "2026-09-01"
 - `nutren-senior-zero-lactose-ficha-tecnica`
 - `cupom-ceci-nestle-nutre-como-usar`
 - `black-friday-nestle-nutre` (publicado em 10/10/2026, PR #50)
+
+## Mídia da Marca
+
+| Arquivo | Origem | Uso | Licença |
+|---|---|---|---|
+| `/images/logos/bolinhas/nestle-nutre.png` | Logo oficial "Nestlé Nutre" (`https://www.nestlenutre.com.br/media/wysiwyg/logo/nutre-logo-image.png`, o `og:image` do site, 204 × 200), baixado em 2026-11-11 pelo Chrome. Recortado rente e ampliado 2,5×, em 512 × 512 transparente (98% da largura) | Bolinha da home e de /reviews | Identificação da marca parceira |
