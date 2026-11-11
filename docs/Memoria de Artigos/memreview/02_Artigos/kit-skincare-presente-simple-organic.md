@@ -10,9 +10,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Presente"
 anexo_tipo: "Anexo-Beleza"
-status: "pauta-aprovada"
+status: "pronto-para-gates"
 responsavel: "Claude"
-proxima_acao: "teste no carrinho (seção 7); depois, redação (Job 2)"
+proxima_acao: "gates-e-pr"
 bloqueado_por: null
 score_ponderado_total: 75
 data_criacao: "2026-11-10"
@@ -137,3 +137,32 @@ Publicar quanto antes: a busca de Natal cresce agora, e a Clean Friday está no 
 ## 8. Pontuação
 
 Dor 18/25, demanda 12/20, valor além do oficial 18/20, visita 12/15, cluster 8/10, conversão 7/10. Total 75.
+
+## Teste no carrinho (10/11/2026, checkout real, sem compra)
+Sem e-mail, nome ou pagamento; CEP público 01310-100.
+
+| Carrinho | Subtotal | Código | Frete | Total |
+|---|---|---|---|---|
+| 11 kits | R$ 1.146,20 | −R$ 57,31 | não calculado | R$ 1.088,89 |
+| 13 avulsos | R$ 413,60 | −R$ 20,68 | não calculado | R$ 392,92 |
+| Trio Body Splashes, com o código | R$ 99,50 | −R$ 4,97 | R$ 10,88 | R$ 105,41 |
+| Trio Body Splashes, sem o código | R$ 99,50 | nenhum | grátis (Economy) | R$ 99,50 |
+| Nécessaire I Love Simple | R$ 99,00 | −R$ 4,95 | não calculado | R$ 94,05 |
+
+O código deu 5% nos kits e nos avulsos, apesar da política da loja. O mínimo do frete grátis conta depois do desconto: nesse CEP, o código encarece o Trio em R$ 5,91. O preço de cada kit com o código foi lido no carrinho, um a um.
+
+## Redação (10/11/2026)
+Artigo em `content/reviews/kit-skincare-presente-simple-organic.json` (id 898). Releitura da loja pelo Fable, a pedido do Bruno, com os fatos conferidos. Revisão externa (Farol, `docs/auditoria-copy-artigos/so7-presente-20261110-farol/PARECER-ARTIGO.md`) aplicada depois de conferir: a escolha primeiro, tabela de kit e avulsos em três resultados, diferença entre duo, trio e avulso, CTA de comparar o total e a troca separada no FAQ.
+
+Não aplicado: tirar o dado novo da abertura (segue no subtítulo e na resposta rápida), a resposta rápida de 4 frases (limite 3) e a retirada dos 7 dias corridos da regra da loja.
+
+Divergências do briefing: as nécessaires de R$ 30 e R$ 35 e as caixas de R$ 12 estão ocultas na loja, sem preço nem botão, e ficaram de fora. Entraram a I Love Simple (R$ 99) e o Saquinho de Algodão P (R$ 12), conferidos na página.
+
+## Capa e imagens (aprovadas em 10/11/2026)
+Novas, no CDN: capa (Duo Rotina Sem Erro, Trio Body Splashes e Rotina Noturna, com o código na faixa), Duo Rotina Sem Erro, Trio Body Splashes e nécessaire I Love Simple. Reaproveitada: Ultra Sérum Retinol. Fotos sem `href`: o link da parceria só aplica o código na home.
+
+## Pendente
+GSC e página de resultados do Google, não vistos. Se a Cecília usou algum dos kits, o artigo ganha uma linha de experiência própria.
+
+## Releitura
+Em 01/12/2026, preços e tabela de kit e avulsos. No começo de dezembro, prazos, caixa de presente e eventual troca especial de Natal.

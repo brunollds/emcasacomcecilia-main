@@ -110036,6 +110036,190 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/simple-organic/kit-skincare-presente-duo-rotina-sem-erro.webp",
+      "local_url": "/images/reviews/simple-organic/kit-skincare-presente-duo-rotina-sem-erro.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20508,
+      "sha256": "cc32dadfa7a4ee7e6ac0d4f38b8877619ac7a531a0e33439614694a694054db7",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-skincare-presente-duo-rotina-sem-erro.webp",
+      "storage_filename": "kit-skincare-presente-duo-rotina-sem-erro.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-skincare-presente-simple-organic.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-skincare-presente-simple-organic.json",
+          "line": 133,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/kit-skincare-presente-duo-rotina-sem-erro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 211217,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/kit-skincare-presente-duo-rotina-sem-erro.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/cc32dadfa7a4ee7e6ac0d4f38b8877619ac7a531a0e33439614694a694054db7/kit-skincare-presente-duo-rotina-sem-erro.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cc32dadfa7a4ee7e6ac0d4f38b8877619ac7a531a0e33439614694a694054db7/kit-skincare-presente-duo-rotina-sem-erro.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:16:29.470Z",
+      "verification_etag_or_digest": "cc32dadfa7a4ee7e6ac0d4f38b8877619ac7a531a0e33439614694a694054db7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/kit-skincare-presente-necessaire-i-love-simple.webp",
+      "local_url": "/images/reviews/simple-organic/kit-skincare-presente-necessaire-i-love-simple.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25438,
+      "sha256": "4b0b764dd4117bcd3fc66e1b6771081b94503149204ad6aee1463689c46915ed",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-skincare-presente-necessaire-i-love-simple.webp",
+      "storage_filename": "kit-skincare-presente-necessaire-i-love-simple.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-skincare-presente-simple-organic.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-skincare-presente-simple-organic.json",
+          "line": 240,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/kit-skincare-presente-necessaire-i-love-simple.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 211324,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/kit-skincare-presente-necessaire-i-love-simple.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4b0b764dd4117bcd3fc66e1b6771081b94503149204ad6aee1463689c46915ed/kit-skincare-presente-necessaire-i-love-simple.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4b0b764dd4117bcd3fc66e1b6771081b94503149204ad6aee1463689c46915ed/kit-skincare-presente-necessaire-i-love-simple.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:16:29.472Z",
+      "verification_etag_or_digest": "4b0b764dd4117bcd3fc66e1b6771081b94503149204ad6aee1463689c46915ed",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/kit-skincare-presente-simple-organic-capa.webp",
+      "local_url": "/images/reviews/simple-organic/kit-skincare-presente-simple-organic-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 81584,
+      "sha256": "89e63d4e92a0fffbc73b2906d87358ad86364e8052d6212529720976c7840f0c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-skincare-presente-simple-organic-capa.webp",
+      "storage_filename": "kit-skincare-presente-simple-organic-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-skincare-presente-simple-organic.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-skincare-presente-simple-organic.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/kit-skincare-presente-simple-organic-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 211107,
+          "column": 15,
+          "literal": "/images/reviews/simple-organic/kit-skincare-presente-simple-organic-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/89e63d4e92a0fffbc73b2906d87358ad86364e8052d6212529720976c7840f0c/kit-skincare-presente-simple-organic-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/89e63d4e92a0fffbc73b2906d87358ad86364e8052d6212529720976c7840f0c/kit-skincare-presente-simple-organic-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:16:29.472Z",
+      "verification_etag_or_digest": "89e63d4e92a0fffbc73b2906d87358ad86364e8052d6212529720976c7840f0c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/kit-skincare-presente-trio-body-splashes.webp",
+      "local_url": "/images/reviews/simple-organic/kit-skincare-presente-trio-body-splashes.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28856,
+      "sha256": "f50de6ea54da1843d28a7350a24f0f87923e08dff2a4a98fa0e0b91b45cd76bf",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-skincare-presente-trio-body-splashes.webp",
+      "storage_filename": "kit-skincare-presente-trio-body-splashes.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-skincare-presente-simple-organic.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-skincare-presente-simple-organic.json",
+          "line": 177,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/kit-skincare-presente-trio-body-splashes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 211261,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/kit-skincare-presente-trio-body-splashes.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f50de6ea54da1843d28a7350a24f0f87923e08dff2a4a98fa0e0b91b45cd76bf/kit-skincare-presente-trio-body-splashes.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f50de6ea54da1843d28a7350a24f0f87923e08dff2a4a98fa0e0b91b45cd76bf/kit-skincare-presente-trio-body-splashes.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:16:29.472Z",
+      "verification_etag_or_digest": "f50de6ea54da1843d28a7350a24f0f87923e08dff2a4a98fa0e0b91b45cd76bf",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/simple-organic/primer-blur-effect.webp",
       "local_url": "/images/reviews/simple-organic/primer-blur-effect.webp",
       "media_kind": "image",
