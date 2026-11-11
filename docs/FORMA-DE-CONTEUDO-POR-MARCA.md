@@ -176,6 +176,7 @@ acervo, não regra para linkar em massa.
 | Toda Up | não medido | parceria nova (26/10/2026); só `/cupons/toda-up`, sem artigo |
 | Simple Organic | não medido | parceria nova (03/11/2026); só `/cupons/simple-organic`, sem artigo |
 | HolyFoods | não medido | parceria nova (05/11/2026); só `/cupons/holyfoods`, sem artigo |
+| Petz | não medido | parceria nova (11/11/2026); só `/cupons/petz`, sem artigo |
 | Hostinger | não medido | indicação nova (19/10/2026); `/cupons/hostinger` e a página nos 9 idiomas, sem artigo; fora do tema do site, artigo só por decisão do Bruno |
 
 Detalhamento, números por página e a fila de execução: `HANDOFF-CUPONS-FASE-1A.md`.
