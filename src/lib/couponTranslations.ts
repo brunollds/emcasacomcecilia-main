@@ -46,8 +46,8 @@ export type AffiliateOfferTranslation = OfferTranslationBase & {
 };
 
 // Loja de código. Sem os campos opcionais, a página usa os textos padrão do idioma
-// (couponStoreCopy): "cupom", os passos, o campo do checkout e "Conferido em" no lugar de
-// "Cupom testado em".
+// (couponStoreCopy): "cupom", os passos, o campo do checkout e "Conferido em" no lugar da
+// validade e da seção "Como testamos".
 export type CodeOfferTranslation = OfferTranslationBase & {
   offerTypeLabel?: string;
   offerTypeLabelPlural?: string;
@@ -653,10 +653,10 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     category: 'Web hosting and domains',
     shortDescription: 'every Hostinger plan, monthly or yearly, for new and existing customers',
     longDescription:
-      'SONAR20 takes 20% off every Hostinger plan, monthly or yearly, whether you are new to Hostinger or already a customer. Paste the code into the coupon field in the cart. Tested on October 29, 2026 on the Startup plan, on top of the Black Friday price. Em Casa com Cecília has run on Hostinger since 2024.',
+      'SONAR20 takes 20% off every Hostinger plan, monthly or yearly, whether you are new to Hostinger or already a customer. Paste the code into the coupon field in the cart. Tested on the Startup plan, on top of the Black Friday price. Em Casa com Cecília has run on Hostinger since 2024.',
     metaTitle: 'Hostinger Coupon Code 2026: 20% Off Everything with SONAR20',
     metaDescription:
-      'Hostinger coupon tested on Oct 29, 2026: SONAR20 takes 20% off monthly and yearly plans, for new and existing customers, Black Friday included.',
+      'Hostinger coupon: SONAR20 takes 20% off monthly and yearly plans, for new and existing customers, Black Friday included.',
     eligibleCategories: 'New purchases of any Hostinger plan, monthly or yearly, for new and existing customers; renewals are not discounted',
     validity: 'Coupon active while the partnership runs',
     reusable: 'Works on new purchases, for new customers and for those who already have a Hostinger account; renewals are not discounted',
@@ -742,10 +742,10 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     category: 'Hosting web y dominios',
     shortDescription: 'todos los planes de Hostinger, mensuales o anuales, para clientes nuevos y actuales',
     longDescription:
-      'SONAR20 da un 20% de descuento en todos los planes de Hostinger, mensuales o anuales, tanto si eres cliente nuevo como si ya lo eres. Pega el código en el campo de cupón del carrito. Probado el 29 de octubre de 2026 con el plan Startup, sobre el precio del Black Friday. Em Casa com Cecília funciona en Hostinger desde 2024.',
+      'SONAR20 da un 20% de descuento en todos los planes de Hostinger, mensuales o anuales, tanto si eres cliente nuevo como si ya lo eres. Pega el código en el campo de cupón del carrito. Probado con el plan Startup, sobre el precio del Black Friday. Em Casa com Cecília funciona en Hostinger desde 2024.',
     metaTitle: 'Cupón Hostinger 2026: 20% en todo con SONAR20',
     metaDescription:
-      'Cupón de Hostinger probado el 29 de octubre de 2026: SONAR20 da un 20% en planes mensuales y anuales, para clientes nuevos y actuales, con Black Friday.',
+      'Cupón de Hostinger: SONAR20 da un 20% en planes mensuales y anuales, para clientes nuevos y actuales, con Black Friday.',
     eligibleCategories: 'Compras nuevas de cualquier plan de Hostinger, mensual o anual, para clientes nuevos y actuales; la renovación no tiene descuento',
     validity: 'Cupón activo mientras dure la colaboración',
     reusable: 'Funciona en compras nuevas, para clientes nuevos y para quienes ya tienen cuenta en Hostinger; la renovación no tiene descuento',
@@ -830,9 +830,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     discount: `20${NBSP}% de réduction`,
     category: 'Hébergement web et noms de domaine',
     shortDescription: 'toutes les offres Hostinger, mensuelles ou annuelles, pour les nouveaux clients et les clients existants',
-    longDescription: `Le code promo SONAR20 accorde 20${NBSP}% de réduction sur toutes les offres Hostinger, mensuelles ou annuelles, que vous soyez nouveau client ou déjà client. Saisissez le code dans le champ de code promo du panier. Testé le 29 octobre 2026 sur l’offre Startup, en plus du prix du Black Friday. Em Casa com Cecília est hébergé chez Hostinger depuis 2024.`,
+    longDescription: `Le code promo SONAR20 accorde 20${NBSP}% de réduction sur toutes les offres Hostinger, mensuelles ou annuelles, que vous soyez nouveau client ou déjà client. Saisissez le code dans le champ de code promo du panier. Testé sur l’offre Startup, en plus du prix du Black Friday. Em Casa com Cecília est hébergé chez Hostinger depuis 2024.`,
     metaTitle: `Code promo Hostinger 2026${NBSP}: 20${NBSP}% sur tout avec SONAR20`,
-    metaDescription: `Code promo Hostinger testé le 29 octobre 2026${NBSP}: SONAR20 donne 20${NBSP}% sur les offres mensuelles et annuelles, nouveaux et existants, Black Friday inclus.`,
+    metaDescription: `Code promo Hostinger${NBSP}: SONAR20 donne 20${NBSP}% sur les offres mensuelles et annuelles, nouveaux et existants, Black Friday inclus.`,
     eligibleCategories: `Nouveaux achats de toute offre Hostinger, mensuelle ou annuelle, pour les nouveaux clients et les clients existants${NBSP}; le renouvellement n’est pas remisé`,
     validity: 'Code promo valable pendant toute la durée du partenariat',
     reusable: `Valable sur les nouveaux achats, pour les nouveaux clients et pour ceux qui ont déjà un compte Hostinger${NBSP}; pas de réduction sur le renouvellement`,
@@ -905,9 +905,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     discount: `20${NBSP}% Rabatt`,
     category: 'Webhosting und Domains',
     shortDescription: 'alle Hostinger-Tarife, monatlich oder jährlich, für Neu- und Bestandskunden',
-    longDescription: `SONAR20 gewährt 20${NBSP}% Rabatt auf alle Hostinger-Tarife, monatlich oder jährlich, egal ob Sie neu bei Hostinger sind oder schon Kunde. Fügen Sie den Code im Warenkorb in das Gutscheinfeld ein. Getestet am 29. Oktober 2026 beim Tarif Startup, zusätzlich zum Black-Friday-Preis. Em Casa com Cecília läuft seit 2024 bei Hostinger.`,
+    longDescription: `SONAR20 gewährt 20${NBSP}% Rabatt auf alle Hostinger-Tarife, monatlich oder jährlich, egal ob Sie neu bei Hostinger sind oder schon Kunde. Fügen Sie den Code im Warenkorb in das Gutscheinfeld ein. Getestet beim Tarif Startup, zusätzlich zum Black-Friday-Preis. Em Casa com Cecília läuft seit 2024 bei Hostinger.`,
     metaTitle: `Hostinger-Gutschein 2026: 20${NBSP}% auf alles mit SONAR20`,
-    metaDescription: `Hostinger-Gutschein getestet am 29. Oktober 2026: SONAR20 gibt 20${NBSP}% auf Monats- und Jahrestarife, für Neu- und Bestandskunden, auch zum Black Friday.`,
+    metaDescription: `Hostinger-Gutschein: SONAR20 gibt 20${NBSP}% auf Monats- und Jahrestarife, für Neu- und Bestandskunden, auch zum Black Friday.`,
     eligibleCategories: 'Neukäufe aller Hostinger-Tarife, monatlich oder jährlich, für Neu- und Bestandskunden; Verlängerungen ohne Rabatt',
     validity: 'Gutschein gültig, solange die Partnerschaft läuft',
     reusable: 'Gilt bei Neukäufen, für Neukunden und für alle, die bereits ein Hostinger-Konto haben; Verlängerungen sind nicht rabattiert',
@@ -981,10 +981,10 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     category: 'Hosting web e domini',
     shortDescription: 'ogni piano Hostinger, mensile o annuale, per clienti nuovi ed esistenti',
     longDescription:
-      'SONAR20 dà il 20% di sconto su ogni piano Hostinger, mensile o annuale, che tu sia nuovo cliente o già cliente. Incolla il codice nel campo coupon del carrello. Testato il 29 ottobre 2026 sul piano Startup, in aggiunta al prezzo del Black Friday. Em Casa com Cecília è ospitato su Hostinger dal 2024.',
+      'SONAR20 dà il 20% di sconto su ogni piano Hostinger, mensile o annuale, che tu sia nuovo cliente o già cliente. Incolla il codice nel campo coupon del carrello. Testato sul piano Startup, in aggiunta al prezzo del Black Friday. Em Casa com Cecília è ospitato su Hostinger dal 2024.',
     metaTitle: 'Coupon Hostinger 2026: 20% su tutto con SONAR20',
     metaDescription:
-      'Coupon Hostinger testato il 29 ottobre 2026: SONAR20 dà il 20% su piani mensili e annuali, per clienti nuovi ed esistenti, Black Friday incluso.',
+      'Coupon Hostinger: SONAR20 dà il 20% su piani mensili e annuali, per clienti nuovi ed esistenti, Black Friday incluso.',
     eligibleCategories: 'Nuovi acquisti di ogni piano Hostinger, mensile o annuale, per clienti nuovi ed esistenti; il rinnovo non è scontato',
     validity: 'Coupon attivo finché dura la partnership',
     reusable: 'Vale sui nuovi acquisti, per i nuovi clienti e per chi ha già un account Hostinger; il rinnovo non è scontato',
@@ -1070,10 +1070,10 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     category: '웹 호스팅·도메인',
     shortDescription: 'Hostinger의 모든 요금제, 월간 또는 연간, 신규 및 기존 고객 대상',
     longDescription:
-      'SONAR20으로 Hostinger의 모든 요금제(월간 또는 연간)에서 20% 할인을 받을 수 있습니다. Hostinger를 처음 이용하든 이미 고객이든 상관없습니다. 장바구니의 쿠폰 입력란에 코드를 붙여넣으세요. 2026년 10월 29일 블랙 프라이데이 가격에 더해 Startup 요금제로 테스트했습니다. Em Casa com Cecília는 2024년부터 Hostinger에서 운영 중입니다.',
+      'SONAR20으로 Hostinger의 모든 요금제(월간 또는 연간)에서 20% 할인을 받을 수 있습니다. Hostinger를 처음 이용하든 이미 고객이든 상관없습니다. 장바구니의 쿠폰 입력란에 코드를 붙여넣으세요. 블랙 프라이데이 가격에 더해 Startup 요금제로 테스트했습니다. Em Casa com Cecília는 2024년부터 Hostinger에서 운영 중입니다.',
     metaTitle: 'Hostinger 쿠폰 2026: SONAR20으로 전체 20% 할인',
     metaDescription:
-      'Hostinger 쿠폰 2026년 10월 29일 테스트 완료: SONAR20으로 월간·연간 요금제 20% 할인, 신규 및 기존 고객, 블랙 프라이데이 포함.',
+      'Hostinger 쿠폰: SONAR20으로 월간·연간 요금제 20% 할인, 신규 및 기존 고객, 블랙 프라이데이 포함.',
     eligibleCategories: 'Hostinger 모든 월간·연간 요금제의 신규 구매, 신규 및 기존 고객 대상(갱신은 할인 없음)',
     validity: '파트너십이 진행되는 동안 쿠폰 유효',
     reusable: '신규 구매 시 신규 고객과 이미 Hostinger 계정이 있는 고객 모두 사용 가능(갱신은 할인 없음)',
@@ -1159,10 +1159,10 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     category: 'Webホスティング・ドメイン',
     shortDescription: 'Hostingerのすべてのプラン（月額・年額）、新規・既存の顧客が対象',
     longDescription:
-      'SONAR20を使うと、Hostingerのすべてのプラン（月額・年額）が20%オフになります。Hostingerを初めて使う方も既存の顧客も対象です。カートのクーポン欄にコードを貼り付けてください。2026年10月29日、ブラックフライデーの価格に加えて Startup プランでテストしました。Em Casa com Cecíliaは2024年からHostingerで運営しています。',
+      'SONAR20を使うと、Hostingerのすべてのプラン（月額・年額）が20%オフになります。Hostingerを初めて使う方も既存の顧客も対象です。カートのクーポン欄にコードを貼り付けてください。ブラックフライデーの価格に加えて Startup プランでテストしました。Em Casa com Cecíliaは2024年からHostingerで運営しています。',
     metaTitle: 'Hostinger割引コード2026：SONAR20で全プラン20%オフ',
     metaDescription:
-      '2026年10月29日にテストしたHostingerクーポン：SONAR20で月額・年額プランが20%オフ。新規・既存の顧客が対象で、ブラックフライデーも含みます。',
+      'Hostingerクーポン：SONAR20で月額・年額プランが20%オフ。新規・既存の顧客が対象で、ブラックフライデーも含みます。',
     eligibleCategories: 'Hostingerのすべての月額・年額プランの新規購入、新規・既存の顧客が対象（更新は割引なし）',
     validity: 'パートナーシップの期間中有効なクーポン',
     reusable: '新規購入なら、新規のお客様にも、すでにHostingerのアカウントをお持ちの方にも使えます（更新は割引なし）',
@@ -1248,10 +1248,10 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     category: '網站主機與網域',
     shortDescription: 'Hostinger 所有方案（月繳或年繳），新客與既有客戶皆適用',
     longDescription:
-      'SONAR20 可享 Hostinger 所有方案（月繳或年繳）20% 折扣，無論你是 Hostinger 新客或既有客戶。請把代碼貼到購物車的優惠碼欄位。2026 年 10 月 29 日以 Startup 方案測試，疊加在黑色星期五價格之上。Em Casa com Cecília 自 2024 年起架設在 Hostinger 上。',
+      'SONAR20 可享 Hostinger 所有方案（月繳或年繳）20% 折扣，無論你是 Hostinger 新客或既有客戶。請把代碼貼到購物車的優惠碼欄位。以 Startup 方案測試，疊加在黑色星期五價格之上。Em Casa com Cecília 自 2024 年起架設在 Hostinger 上。',
     metaTitle: 'Hostinger 優惠碼 2026：SONAR20 全方案享 20% 折扣',
     metaDescription:
-      'Hostinger 優惠碼 2026 年 10 月 29 日測試：SONAR20 月繳與年繳方案享 20% 折扣，新客與既有客戶皆適用，含黑色星期五。',
+      'Hostinger 優惠碼：SONAR20 月繳與年繳方案享 20% 折扣，新客與既有客戶皆適用，含黑色星期五。',
     eligibleCategories: 'Hostinger 所有月繳或年繳方案的新購買，新客與既有客戶皆適用（續約不打折）',
     validity: '合作期間內有效',
     reusable: '新購買時，新客與已有 Hostinger 帳戶的客戶皆適用（續約不打折）',
@@ -1337,10 +1337,10 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     category: '网站主机与域名',
     shortDescription: 'Hostinger 所有套餐（月付或年付），新客户和现有客户均可使用',
     longDescription:
-      'SONAR20 可享 Hostinger 所有套餐（月付或年付）20% 折扣，无论你是 Hostinger 新客户还是现有客户。请将代码粘贴到购物车的优惠码栏。2026 年 10 月 29 日以 Startup 套餐测试，叠加在黑色星期五价格之上。Em Casa com Cecília 自 2024 年起运行在 Hostinger 上。',
+      'SONAR20 可享 Hostinger 所有套餐（月付或年付）20% 折扣，无论你是 Hostinger 新客户还是现有客户。请将代码粘贴到购物车的优惠码栏。以 Startup 套餐测试，叠加在黑色星期五价格之上。Em Casa com Cecília 自 2024 年起运行在 Hostinger 上。',
     metaTitle: 'Hostinger 优惠码 2026：SONAR20 全套餐享 20% 折扣',
     metaDescription:
-      'Hostinger 优惠码 2026 年 10 月 29 日测试：SONAR20 月付与年付套餐享 20% 折扣，新客户和现有客户均可使用，含黑色星期五。',
+      'Hostinger 优惠码：SONAR20 月付与年付套餐享 20% 折扣，新客户和现有客户均可使用，含黑色星期五。',
     eligibleCategories: 'Hostinger 所有月付或年付套餐的新购买，新客户和现有客户均可使用（续费不打折）',
     validity: '合作期间有效',
     reusable: '新购买时，新客户和已拥有 Hostinger 账户的客户均可使用（续费不打折）',
@@ -1450,6 +1450,7 @@ export const CODE_FIELD_POLICY = {
   shortDescription: 'translate',
   longDescription: 'translate',
   metaTitle: 'translate',
+  metaTitleMonth: 'drop',
   metaDescription: 'translate',
   eligibleCategories: 'translate',
   validity: 'translate',

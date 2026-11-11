@@ -23,7 +23,7 @@ const BODY_TEXT = 'text-base leading-relaxed font-medium text-marinho-suave md:t
 const METHOD = [
   {
     lead: 'Cupons.',
-    text: 'Cada código de loja parceira é aplicado num carrinho de verdade, no checkout da própria loja, antes de ir para o site. A página da loja mostra o que vimos nesse teste e a data dele ("Cupom testado em"). Quando a loja só oferece link, campanha ou código de indicação, a página mostra "Conferido em" com a data em que revisamos as condições.',
+    text: 'Cada código de loja parceira é aplicado num carrinho de verdade, no checkout da própria loja, antes de ir para o site. O teste é refeito quando a oferta muda ou alguém avisa que o código falhou, e a seção "Como testamos o cupom" da página da loja mostra o que vimos no último teste e a data dele. Quando a loja só oferece link, campanha ou código de indicação, a página mostra "Conferido em" com a data em que revisamos as condições.',
   },
   {
     lead: 'Guias & Análises.',

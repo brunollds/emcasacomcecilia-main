@@ -34,30 +34,30 @@ depende do tipo:
 - **Perenes (sempre ativos):** `damie` (`CECILIA12`), `i-wanna-sleep` (`CECIEMCASA`) e os códigos
   de creator que valem "enquanto a parceria estiver vigente": `letseatit`, `insider`, `probiotica`,
   `max-titanium`, `dr-peanut`, `black-skull`, `clea-store`, `belive`, `mais-mu`, `skelt`,
-  `bagaggio`, `toda-up`, `simple-organic`, `holyfoods`, `petz` e `hostinger`. Não há condição nova para esperar da marca — só é preciso reconfirmar que o código
-  continua funcionando no checkout. Por isso, para esses, a verificação pode acontecer já na
-  janela de 20-25 em vez de esperar o dia 1: o teste continua sendo real, só acontece mais
-  cedo no ciclo. Isso não viola a regra de não simular frescor (o `lastVerified` reflete o dia
-  real do teste) e ajuda a competir em frescor de SERP/AI Overview contra afiliados
-  concorrentes (ex.: Mainabelli, PatBadaro na Damie) que atualizam suas páginas antes do fim
-  do mês.
-- **Antecipar o mês (decisão do Bruno, 24/10/2026):** nos perenes, o teste da janela de 20-25 já
-  vale para o mês seguinte. Feito o teste real, o mês do `metaTitle` passa para o próximo (em 20/10,
-  `(nov/2026)`), e a `metaDescription` e a `longDescription` dizem "testado em" com a data real
-  do teste, sem nunca escrever uma data futura. Motivo: a concorrente da DAMIE e da Dolce Gusto
-  (viroutendencia.com, "cupom damie novembro 2026" publicado em 20/10/2026) faz isso todo dia 20, o
-  Google não a pune, e ela fica sozinha nas respostas de IA na virada do mês se não antecipamos.
-  Sem o teste, o título fica no mês corrente. Os de ciclo (abaixo) só antecipam com a condição do
-  próximo ciclo confirmada.
-- **O mês da página segue o mesmo corte (31/10/2026):** o quadro "Cupom <Loja> atualizado: … (<mês>
-  <ano>)" das páginas de loja mostra o mês da oferta, não o do teste: `getOfferMonth`
-  (`src/lib/offerMonth.ts`) dá o mês seguinte para teste feito do dia 20 em diante, sozinho, sem
-  editar texto. O "Cupom testado em" continua com a data real. O `test:coupon-offer-modes` barra
-  título com mês diferente do mês da oferta. Nos de ciclo, teste do dia 20 em diante só com o ciclo
-  seguinte confirmado, porque ele já põe o mês seguinte na página.
-- **Dia 1 (decisão do Bruno, 31/10/2026):** a rodada de testes reais de todas as lojas com código
-  acontece no dia 1 do mês, ou no primeiro momento possível dele, com deploy no mesmo dia, para o
-  "Cupom testado em" já mostrar o mês novo desde o começo. Sem o teste, a data antiga fica.
+  `bagaggio`, `toda-up`, `simple-organic`, `holyfoods`, `petz` e `hostinger`.
+- **Validade, conferência e teste são três coisas (decisão do Bruno, 11/11/2026):** o checkout mensal
+  deixou de ser condição para mostrar um código perene ativo. Antes, uma data só (`lastVerified`) dizia
+  o teste, o mês do título, o `dateModified` e o sitemap, e sem a rodada do dia 1 a página e as
+  respostas de IA mostravam "testado em outubro" em novembro. Agora:
+  - **Validade:** o código perene vale enquanto a parceria estiver ativa (`validity`). O topo da página
+    da loja e o bloco da loja nos artigos mostram essa frase, sem data. Campanhas seguem com os prazos
+    reais (`limitedCodes`, `content/campanhas/`).
+  - **Mês do título e da página:** segue o calendário de Brasília no build, com o corte do dia 20
+    ("Antecipar o mês", 24/10/2026: do dia 20 em diante, o mês seguinte). Loja com
+    `metaTitleMonth: true` ganha `(nov/2026)` no fim do título por `getCouponMetaTitle`
+    (`src/lib/offerMonth.ts`); o dado não guarda mês. O quadro do mês e o "válidos em" de `/cupons`
+    seguem o mesmo calendário. O mês não afirma teste nenhum.
+  - **Último teste no carrinho:** `testedAt` + `testNote`, com a data e o cenário realmente testados
+    (o kit, o carrinho), na seção "Como testamos o cupom" e no `lastReviewed` do schema. Refazer
+    quando mudar a oferta, o percentual ou a elegibilidade, ou quando alguém avisar que o código
+    falhou. O `test:coupon-offer-modes` avisa (sem parar o build) depois de 90 dias sem teste, prazo
+    operacional nosso, não regra de SEO.
+  - **Última conferência das condições:** `lastVerified`, que pode vir da página da loja, do painel
+    do programa ou de um aviso da marca, sem checkout. Ela alimenta o `dateModified`, o `<lastmod>`
+    do sitemap e o "verificado em" do `llms.txt`, e só avança com uma conferência real. Nunca é
+    anterior ao `testedAt`.
+  - A `metaDescription` não leva a data do teste (o `test:coupon-offer-modes` barra "testado em
+    <data>"): abre com "Cupom <Loja>:", o percentual e o código.
 - **De ciclo (têm data de término real):** `dolce-gusto` e `nestle-nutre` (ambos `CECI`). Em
   26/10/2026, o Bruno confirmou o ciclo de novembro de 2026 e os dois foram testados no carrinho. Aqui a
   regra padrão vale sem atalho: só publicar a condição do próximo ciclo quando a marca ou a
@@ -72,12 +72,12 @@ depende do tipo:
 
 ### No último dia útil ou no dia 1
 
-- testar cada código no checkout ou reconfirmar a condição por fonte oficial, de preferência no dia 1,
-  e fazer o deploy no mesmo dia;
-- registrar a **data real** do teste;
-- atualizar mês de title, description e texto visível somente nas ofertas reconferidas: nas páginas
-  de loja, o `(out/2026)` do fim do `metaTitle` e o "testado em dd/mm/aaaa" do começo da
-  `metaDescription` e da `longDescription` (formato na seção 2);
+- reconferir as condições dos perenes (página da loja, painel ou aviso da marca) e avançar o
+  `lastVerified` só das conferidas; testar no carrinho os que mudaram de oferta, os que alguém disse
+  que falharam e os que o `test:coupon-offer-modes` avisou (90 dias);
+- registrar a **data real** de cada conferência e de cada teste;
+- o mês do título e da página muda sozinho no build; os de ciclo só mudam de condição com o ciclo
+  seguinte confirmado;
 - expirar ou pausar campanhas encerradas antes de publicar a nova versão;
 - tirar o chip “novo” dos artigos do mês que acabou: só os artigos do mês corrente ficam com
   `"isNew": true`. Trocar só essa linha em cada JSON, sem reformatar, e rodar
@@ -107,14 +107,16 @@ Para cada oferta ativa, reconferir:
 - `discount`, valor mínimo e categorias elegíveis;
 - `validity`, `reusable`, `combinable` e restrições;
 - `offerUrl` e links de campanhas;
-- `lastVerified` com a data real (`YYYY-MM-DD`). Nas lojas com código ela aparece como "Cupom testado
-  em" e no `lastReviewed` do schema, então só avança com teste de checkout feito;
-- `testNote`: o que a equipe viu nesse teste. Se o percentual, o mínimo ou o exemplo de carrinho
-  mudarem, reescrever; `test:coupon-offer-modes` falha se uma loja com código ficar sem ele;
-- `metaTitle` e `metaDescription` quando contiverem mês, ano, código ou percentual. Desde 24/10/2026 o
-  título segue a ordem que sobrevive ao corte do Google: loja, percentual, código e o mês no fim, como
-  `(out/2026)`, só quando cabe em 60 caracteres (com código longo, o mês sai). A descrição abre com
-  "Cupom <Loja> testado em <dd/mm/aaaa>" com a data do `lastVerified` e fica em até 155 caracteres;
+- `lastVerified` com a data real (`YYYY-MM-DD`) da última conferência das condições, com ou sem
+  checkout. Vai ao `dateModified`, ao sitemap e ao `llms.txt`;
+- `testedAt` e `testNote`: o dia e o que a equipe viu no último teste no carrinho, juntos, só com teste
+  real. Se o percentual, o mínimo ou o exemplo de carrinho mudarem, testar de novo e reescrever os
+  dois; `test:coupon-offer-modes` falha se uma loja com código ficar sem eles;
+- `metaTitle` e `metaDescription` quando contiverem código ou percentual. Desde 24/10/2026 o título
+  segue a ordem que sobrevive ao corte do Google: loja, percentual, código e o mês no fim, como
+  `(nov/2026)`, só quando cabe em 60 caracteres (com código longo, o mês sai). Desde 11/11/2026 o mês
+  vem do calendário: o `metaTitle` não leva mês e a loja marca `metaTitleMonth: true`. A descrição abre
+  com "Cupom <Loja>:", sem a data do teste, e fica em até 155 caracteres;
 - `monthlyHighlight`, FAQs e instruções quando repetirem uma regra alterada;
 - `status`: `ativo`, `pausado` ou `expirado` conforme a condição real.
 
@@ -482,10 +484,10 @@ Troque os termos pelo mês que está saindo:
 rg -n -i "julho|2026-07|última verificação|verificado em|testado em|válido até" src content
 ```
 
-Listar os títulos e descrições de loja que levam mês ou data de teste (formato de 24/10/2026):
+Listar as datas de teste e de conferência das lojas (o mês do título vem do calendário desde 11/11/2026):
 
 ```powershell
-rg -n "metaTitle: .*\([a-z]{3}/20[0-9]{2}\)|testado em [0-9]{2}/[0-9]{2}/20[0-9]{2}" src/lib/couponsData.ts
+rg -n "testedAt|lastVerified|metaTitleMonth" src/lib/couponsData.ts
 ```
 
 Listar as datas das ofertas principais:

@@ -474,10 +474,14 @@ vídeo, primeiras impressões e uso noturno.
 
 ### Páginas de loja (cupons)
 
-- Loja com código tem `testNote` em `couponsData.ts`: o recorte diz "Cupom testado em" com o
-  `lastVerified`, a página ganha a seção "Como testamos o cupom" e o `WebPage` leva `lastReviewed`
-  e `reviewedBy` (o site, porque o teste é da equipe). SHEIN e YesStyle seguem com "Conferido em".
-  A data só avança com teste real, na revisão mensal feita antes da virada do mês.
+- Loja com código tem `testedAt` e `testNote` em `couponsData.ts`, o último teste no carrinho: a página
+  ganha a seção "Como testamos o cupom" com essa data, e o `WebPage` leva `lastReviewed` (o `testedAt`) e
+  `reviewedBy` (o site, porque o teste é da equipe). O recorte do topo e o bloco da loja nos artigos mostram a
+  validade da parceria (`validity`), sem data. O `lastVerified` é a última conferência das condições (com ou
+  sem checkout) e vai ao `dateModified`, ao sitemap e ao `llms.txt`. As duas datas só avançam com conferência
+  ou teste real; o `test:coupon-offer-modes` avisa depois de 90 dias sem teste. O mês do título
+  (`metaTitleMonth`), do quadro do mês e de `/cupons` segue o calendário no build (`src/lib/offerMonth.ts`).
+  SHEIN e YesStyle seguem com "Conferido em". Regras em `docs/MANUTENCAO-MENSAL.md`, seção 1.
 - A imagem de compartilhamento da loja vem de `getStoreSocialImage` (`src/lib/pageSeo.ts`): a
   `socialImage` de `couponsData.ts`, senão o `brandLogo`. O cartão do X não mostra AVIF, então loja
   com logo AVIF leva `socialImage` em JPG, PNG ou WebP; o `test:build-output` barra o contrário. A

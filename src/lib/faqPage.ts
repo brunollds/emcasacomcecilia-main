@@ -101,7 +101,7 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
       {
         pergunta: 'Os cupons são testados?',
         resposta:
-          'Sim. Aplicamos cada código no checkout da loja antes de publicar, e a página mostra o resultado e a data ("Cupom testado em"). Quando a loja só tem link ou campanha, a página mostra "Conferido em".',
+          'Sim. Aplicamos cada código no checkout da loja antes de publicar e de novo quando a oferta muda, e a seção "Como testamos o cupom" da página da loja mostra o resultado e a data do último teste. Quando a loja só tem link ou campanha, a página mostra "Conferido em".',
         link: { href: '/cupons', label: 'Ver os cupons' },
       },
       {

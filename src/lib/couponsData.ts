@@ -70,6 +70,8 @@ interface CouponBase {
   shortDescription: string;
   longDescription: string;
   metaTitle: string;
+  // O mês da oferta vai no fim do título pelo calendário (getCouponMetaTitle, de offerMonth.ts), só em PT.
+  metaTitleMonth?: boolean;
   metaDescription: string;
   eligibleCategories: string;
   validity: string;
@@ -199,9 +201,10 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'todos os produtos, com todas as formas de pagamento',
     longDescription:
       'O CECILIA12 dá 12% OFF em todos os produtos do site da DAMIE e soma com os 10% do Pix e com as promoções do site; não soma com outro cupom. Testado em 24/10/2026.',
-    metaTitle: 'Cupom DAMIE: 12% OFF com CECILIA12, soma com Pix (nov/2026)',
+    metaTitle: 'Cupom DAMIE: 12% OFF com CECILIA12, soma com Pix',
+    metaTitleMonth: true,
     metaDescription:
-      'Cupom DAMIE testado em 24/10/2026: CECILIA12 dá 12% OFF em todos os produtos, soma com os 10% do Pix e com as promoções; não soma com outro cupom.',
+      'Cupom DAMIE: CECILIA12 dá 12% OFF em todos os produtos, soma com os 10% do Pix e com as promoções; não soma com outro cupom.',
     eligibleCategories:
       'Todos os produtos do site DAMIE',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
@@ -343,9 +346,10 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'cápsulas, máquinas e acessórios da loja oficial',
     longDescription:
       'O CECI dá 10% OFF na loja oficial Nescafé Dolce Gusto em compras a partir de R$ 100 e soma com as promoções. Testado em 26/10/2026 num carrinho de R$ 113,40, com R$ 11,34 de desconto.',
-    metaTitle: 'Código CECI Dolce Gusto: 10% OFF testado (nov/2026)',
+    metaTitle: 'Código CECI Dolce Gusto: 10% OFF testado',
+    metaTitleMonth: true,
     metaDescription:
-      'Cupom Dolce Gusto testado em 26/10/2026: CECI dá 10% OFF na loja oficial Nescafé Dolce Gusto em compras a partir de R$ 100 e soma com as promoções.',
+      'Cupom Dolce Gusto: CECI dá 10% OFF na loja oficial Nescafé Dolce Gusto em compras a partir de R$ 100 e soma com as promoções.',
     eligibleCategories:
       'Todo o site oficial Dolce Gusto, em compras a partir de R$ 100',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
@@ -362,7 +366,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom CECI vale para todas as cápsulas Dolce Gusto?',
         answer:
-          'Em nossa verificação de 26 de outubro de 2026, o CECI aplicou 10% OFF no site oficial Dolce Gusto em compras a partir de R$ 100. A elegibilidade pode variar; confirme o desconto no resumo do carrinho antes de finalizar.',
+          'No nosso teste no carrinho, o CECI aplicou 10% OFF no site oficial Dolce Gusto em compras a partir de R$ 100. A elegibilidade pode variar; confirme o desconto no resumo do carrinho antes de finalizar.',
       },
       {
         question: 'O cupom CECI funciona em máquinas Dolce Gusto?',
@@ -601,9 +605,10 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses',
     longDescription:
       'O CECI dá 10% OFF na loja oficial Nestlé Nutre e soma com as promoções; não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses. Testado em 26/10/2026 num carrinho de R$ 283,78, com R$ 28,38 de desconto.',
-    metaTitle: 'Cupom Nestlé Nutre: 10% OFF com CECI (nov/2026)',
+    metaTitle: 'Cupom Nestlé Nutre: 10% OFF com CECI',
+    metaTitleMonth: true,
     metaDescription:
-      'Cupom Nestlé Nutre testado em 26/10/2026: CECI dá 10% OFF e soma com as promoções. Não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses.',
+      'Cupom Nestlé Nutre: CECI dá 10% OFF e soma com as promoções. Não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses.',
     eligibleCategories:
       'Produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses (como NAN)',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
@@ -722,9 +727,10 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'todo o site I Wanna Sleep',
     longDescription:
       'O CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep (colchões, travesseiros e acessórios) e soma com as promoções da loja. Testado em 24/10/2026 num carrinho com um box e um kit Pillow Top.',
-    metaTitle: 'Cupom I Wanna Sleep: 10% OFF com CECIEMCASA (nov/2026)',
+    metaTitle: 'Cupom I Wanna Sleep: 10% OFF com CECIEMCASA',
+    metaTitleMonth: true,
     metaDescription:
-      'Cupom I Wanna Sleep testado em 24/10/2026: CECIEMCASA dá 10% OFF em todo o site oficial e soma com as promoções da loja.',
+      'Cupom I Wanna Sleep: CECIEMCASA dá 10% OFF em todo o site oficial e soma com as promoções da loja.',
     eligibleCategories:
       'Todo o site I Wanna Sleep',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
@@ -841,7 +847,7 @@ const STORE_COUPONS: Coupon[] = [
       'Códigos exclusivos da parceria da Cecília com o Magalu, em 10 faixas de R$ 10 a R$ 100 OFF conforme o valor do carrinho. Válidos apenas na loja Magazine Você da Cecília, em produtos vendidos e entregues pelo Magalu. Testado em 01/10/2026.',
     metaTitle: 'Cupom Magalu: até R$ 100 OFF com 100EMCASACOMCECILIA',
     metaDescription:
-      'Cupom Magalu testado em 01/10/2026: 100EMCASACOMCECILIA dá até R$ 100 OFF na loja Magazine Você da Cecília. Vale só no navegador; veja as 10 faixas.',
+      'Cupom Magalu: 100EMCASACOMCECILIA dá até R$ 100 OFF na loja Magazine Você da Cecília. Vale só no navegador; veja as 10 faixas.',
     eligibleCategories:
       'Produtos vendidos e entregues pelo Magalu, conforme a faixa de valor mínimo de cada cupom',
     validity: 'Cupons ativos enquanto a parceria estiver vigente',
@@ -970,9 +976,10 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: "todo o site Let's Eat It",
     longDescription:
       "O código da Cecília dá 5% OFF no site da Let's Eat It, soma com as promoções, a pré-venda e os 5% do Pix, e vale em todas as formas de pagamento. Testado em 24/10/2026.",
-    metaTitle: "Cupom Let's Eat It: 5% OFF no site, soma com Pix (nov/2026)",
+    metaTitle: "Cupom Let's Eat It: 5% OFF no site, soma com Pix",
+    metaTitleMonth: true,
     metaDescription:
-      "Cupom Let's Eat It testado em 24/10/2026: 5% OFF no site oficial, somando com promoções, pré-venda e os 5% do Pix. Use o código da Cecília no checkout.",
+      "Cupom Let's Eat It: 5% OFF no site oficial, somando com promoções, pré-venda e os 5% do Pix. Use o código da Cecília no checkout.",
     eligibleCategories: "Todo o site Let's Eat It, conforme regras da loja",
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1079,10 +1086,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'moda',
     shortDescription: 'compras online na Insider, exceto lançamentos',
     longDescription:
-      'O EMCASACOMCECILIA dá 15% OFF na loja online da Insider, sem valor mínimo, também sobre os preços de Black Friday, no Outlet e nos kits em promoção (testado em 31/10/2026); não vale em lançamentos nem na loja física.',
-    metaTitle: 'Cupom Insider: 15% OFF com EMCASACOMCECILIA (nov/2026)',
+      'O EMCASACOMCECILIA dá 15% OFF na loja online da Insider, sem valor mínimo, também sobre os preços de Black Friday, no Outlet e nos kits em promoção; não vale em lançamentos nem na loja física.',
+    metaTitle: 'Cupom Insider: 15% OFF com EMCASACOMCECILIA',
+    metaTitleMonth: true,
     metaDescription:
-      'Cupom Insider testado em 11/11/2026: EMCASACOMCECILIA dá 15% OFF que soma com os preços de Black Friday e do Outlet, sem mínimo. Não vale em lançamentos.',
+      'Cupom Insider: EMCASACOMCECILIA dá 15% OFF que soma com os preços de Black Friday e do Outlet, sem mínimo. Não vale em lançamentos.',
     eligibleCategories: 'Produtos da loja online da Insider, exceto lançamentos',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1382,7 +1390,7 @@ const STORE_COUPONS: Coupon[] = [
       'O PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial da Probiótica, soma com as promoções e vale em todas as formas de pagamento. Testado em 26/10/2026 num carrinho com colágeno, creatina, camiseta e barra de proteína: o desconto varia por item.',
     metaTitle: 'Cupom Probiótica: até 10% OFF com PRO10EMCASACOMCECILIA',
     metaDescription:
-      'Cupom Probiótica testado em 26/10/2026: PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial, soma com as promoções e vale no Pix e no cartão.',
+      'Cupom Probiótica: PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial, soma com as promoções e vale no Pix e no cartão.',
     eligibleCategories: 'Produtos do site oficial da Probiótica; o desconto chega a 10% e pode ser menor em alguns itens',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1488,10 +1496,10 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'suplementos no site oficial da Max Titanium',
     longDescription:
-      'O MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial da Max Titanium, testado em 26/10/2026 num carrinho com Top Whey em promoção: soma com as promoções, mantém os brindes do carrinho e vale em todas as formas de pagamento.',
+      'O MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial da Max Titanium, testado num carrinho com Top Whey em promoção: soma com as promoções, mantém os brindes do carrinho e vale em todas as formas de pagamento.',
     metaTitle: 'Cupom Max Titanium: até 10% OFF com MAX10EMCASACOMCECILIA',
     metaDescription:
-      'Cupom Max Titanium testado em 26/10/2026: MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial, mantém os brindes do carrinho e vale no Pix e no cartão.',
+      'Cupom Max Titanium: MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial, mantém os brindes do carrinho e vale no Pix e no cartão.',
     eligibleCategories: 'Produtos do site oficial da Max Titanium; o desconto chega a 10% e pode ser menor em alguns itens',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1597,10 +1605,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'todo o site Dr. Peanut, com todas as formas de pagamento',
     longDescription:
-      'O DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut, testado em 26/10/2026 com um combo de pastas de amendoim em promoção: soma com as promoções e vale em todas as formas de pagamento.',
-    metaTitle: 'Cupom Dr. Peanut: 10% OFF com DREMCASACOMCECILIA (nov/2026)',
+      'O DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut, testado com um combo de pastas de amendoim em promoção: soma com as promoções e vale em todas as formas de pagamento.',
+    metaTitle: 'Cupom Dr. Peanut: 10% OFF com DREMCASACOMCECILIA',
+    metaTitleMonth: true,
     metaDescription:
-      'Cupom Dr. Peanut testado em 26/10/2026: DREMCASACOMCECILIA dá 10% OFF em todo o site, inclusive nos itens em promoção, e vale no Pix e no cartão.',
+      'Cupom Dr. Peanut: DREMCASACOMCECILIA dá 10% OFF em todo o site, inclusive nos itens em promoção, e vale no Pix e no cartão.',
     eligibleCategories: 'Todos os produtos do site oficial da Dr. Peanut',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1690,10 +1699,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'todo o site Black Skull, com todas as formas de pagamento',
     longDescription:
-      'O CECILIA10 dá 10% OFF em todo o site da Black Skull, testado em 24/10/2026 com um kit de whey em promoção e um whey a preço cheio: soma com as promoções e vale em todas as formas de pagamento.',
-    metaTitle: 'Cupom Black Skull: 10% OFF em tudo com CECILIA10 (nov/2026)',
+      'O CECILIA10 dá 10% OFF em todo o site da Black Skull, testado com um kit de whey em promoção e um whey a preço cheio: soma com as promoções e vale em todas as formas de pagamento.',
+    metaTitle: 'Cupom Black Skull: 10% OFF em tudo com CECILIA10',
+    metaTitleMonth: true,
     metaDescription:
-      'Cupom Black Skull testado em 24/10/2026: CECILIA10 dá 10% OFF em todo o site, inclusive nos itens em promoção, e vale no Pix e no cartão.',
+      'Cupom Black Skull: CECILIA10 dá 10% OFF em todo o site, inclusive nos itens em promoção, e vale no Pix e no cartão.',
     eligibleCategories: 'Todos os produtos do site oficial da Black Skull',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1852,10 +1862,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'moda',
     shortDescription: 'todo o site Cléa Store, com todas as formas de pagamento',
     longDescription:
-      'O CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store (alfaiataria, blusas, vestidos e t-shirts), testado em 24/10/2026 num kit em promoção: o desconto soma com a promoção.',
-    metaTitle: 'Cupom Cléa Store: 10% OFF com CSEMCASACOMCECILIA (nov/2026)',
+      'O CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store (alfaiataria, blusas, vestidos e t-shirts), testado num kit em promoção: o desconto soma com a promoção.',
+    metaTitle: 'Cupom Cléa Store: 10% OFF com CSEMCASACOMCECILIA',
+    metaTitleMonth: true,
     metaDescription:
-      'Cupom Cléa Store testado em 24/10/2026: CSEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as promoções e o cashback e vale no Pix e no cartão.',
+      'Cupom Cléa Store: CSEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as promoções e o cashback e vale no Pix e no cartão.',
     eligibleCategories: 'Todos os produtos do site oficial da Cléa Store',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1951,9 +1962,10 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'todo o site Belive, com todas as formas de pagamento',
     longDescription:
       'O código da Cecília dá 10% OFF em todo o site da Belive e soma com as ofertas e com os 5% do Pix. Testado em 24/10/2026 num carrinho com um combo em oferta e um pão a preço cheio.',
-    metaTitle: 'Cupom Belive: 10% OFF em tudo e soma com o Pix (nov/2026)',
+    metaTitle: 'Cupom Belive: 10% OFF em tudo e soma com o Pix',
+    metaTitleMonth: true,
     metaDescription:
-      'Cupom Belive testado em 24/10/2026: use MAUAD e ganhe 10% OFF em todo o site, somando com as ofertas e com os 5% de desconto do Pix.',
+      'Cupom Belive: use MAUAD e ganhe 10% OFF em todo o site, somando com as ofertas e com os 5% de desconto do Pix.',
     eligibleCategories: 'Todos os produtos do site oficial da Belive',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2060,9 +2072,10 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'todo o site Mais Mu, com todas as formas de pagamento',
     longDescription:
       'O MMEMCASACOMCECILIA dá 10% OFF em todo o site da Mais Mu, soma com as ofertas e com os 3% do Pix, e vale em todas as formas de pagamento. Testado em 20/10/2026 num carrinho com um whey a preço cheio e uma creatina em oferta.',
-    metaTitle: 'Cupom Mais Mu: 10% OFF com MMEMCASACOMCECILIA (nov/2026)',
+    metaTitle: 'Cupom Mais Mu: 10% OFF com MMEMCASACOMCECILIA',
+    metaTitleMonth: true,
     metaDescription:
-      'Cupom Mais Mu testado em 20/10/2026: MMEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as ofertas e com os 3% do Pix.',
+      'Cupom Mais Mu: MMEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as ofertas e com os 3% do Pix.',
     eligibleCategories: 'Todos os produtos do site oficial da Mais Mu',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2180,9 +2193,10 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'todo o site Skelt, com todas as formas de pagamento',
     longDescription:
       'O SKEMCASACOMCECILIA dá 10% OFF em todo o site da Skelt, soma com as promoções e com os 5% do Pix, e vale em todas as formas de pagamento. Testado em 21/10/2026 com body splash e mousse autobronzeador em promoção.',
-    metaTitle: 'Cupom Skelt: 10% OFF com SKEMCASACOMCECILIA (nov/2026)',
+    metaTitle: 'Cupom Skelt: 10% OFF com SKEMCASACOMCECILIA',
+    metaTitleMonth: true,
     metaDescription:
-      'Cupom Skelt testado em 21/10/2026: SKEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as promoções e com os 5% do Pix.',
+      'Cupom Skelt: SKEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as promoções e com os 5% do Pix.',
     eligibleCategories: 'Todos os produtos do site oficial da Skelt, inclusive kits e combos',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2300,9 +2314,10 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'todo o site Bagaggio, com todas as formas de pagamento',
     longDescription:
       'O CECILIA10 dá 10% OFF em malas, mochilas e acessórios no site oficial da Bagaggio, soma com as promoções, o Outlet e os 5% do Pix, e vale em todas as formas de pagamento. Testado em 22/10/2026 numa mala de bordo do Outlet.',
-    metaTitle: 'Cupom Bagaggio: 10% OFF em tudo com CECILIA10 (nov/2026)',
+    metaTitle: 'Cupom Bagaggio: 10% OFF em tudo com CECILIA10',
+    metaTitleMonth: true,
     metaDescription:
-      'Cupom Bagaggio testado em 22/10/2026: CECILIA10 dá 10% OFF em malas, mochilas e acessórios, somando com as promoções, o Outlet e os 5% do Pix.',
+      'Cupom Bagaggio: CECILIA10 dá 10% OFF em malas, mochilas e acessórios, somando com as promoções, o Outlet e os 5% do Pix.',
     eligibleCategories: 'Todos os produtos do site oficial da Bagaggio, inclusive os do Outlet',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2421,9 +2436,10 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'todo o site Toda Up, inclusive nos produtos em promoção',
     longDescription:
       'O MAUAD dá 10% OFF em sutiãs, tops, calcinhas e adesivos no site oficial da Toda Up e soma com as promoções do site, inclusive nos produtos que já estão com desconto. Testado em 26/10/2026 num sutiã em promoção.',
-    metaTitle: 'Cupom Toda Up: 10% OFF em tudo com MAUAD (nov/2026)',
+    metaTitle: 'Cupom Toda Up: 10% OFF em tudo com MAUAD',
+    metaTitleMonth: true,
     metaDescription:
-      'Cupom Toda Up testado em 26/10/2026: MAUAD dá 10% OFF em sutiãs, tops, calcinhas e adesivos e soma com as promoções do site.',
+      'Cupom Toda Up: MAUAD dá 10% OFF em sutiãs, tops, calcinhas e adesivos e soma com as promoções do site.',
     eligibleCategories: 'Todos os produtos do site oficial da Toda Up, inclusive os que já estão em promoção',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2519,9 +2535,10 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'todo o site Simple Organic, inclusive nos produtos em promoção e nos kits',
     longDescription:
       'O S-EMCASACOMCECILIA dá 5% OFF em séruns, hidratantes, limpeza facial, maquiagem e body splash no site oficial da Simple Organic e entra também nos produtos que já estão em promoção e nos kits. Testado em 03/11/2026 num carrinho com kit, produto em promoção e produto a preço cheio.',
-    metaTitle: 'Cupom Simple Organic: 5% OFF em tudo com S-EMCASACOMCECILIA (nov/2026)',
+    metaTitle: 'Cupom Simple Organic: 5% OFF em tudo com S-EMCASACOMCECILIA',
+    metaTitleMonth: true,
     metaDescription:
-      'Cupom Simple Organic testado em 03/11/2026: S-EMCASACOMCECILIA dá 5% OFF em séruns, hidratantes e maquiagem, inclusive em promoção e nos kits.',
+      'Cupom Simple Organic: S-EMCASACOMCECILIA dá 5% OFF em séruns, hidratantes e maquiagem, inclusive em promoção e nos kits.',
     eligibleCategories: 'Todos os produtos do site oficial da Simple Organic, inclusive os que já estão em promoção e os kits',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2610,9 +2627,10 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'todo o site HolyFoods, inclusive nos produtos em promoção',
     longDescription:
       'O código da Cecília dá 15% OFF em todo o site da HolyFoods e soma com os preços já reduzidos da loja. Testado em 05/11/2026 num carrinho de sopas que já estavam em promoção.',
-    metaTitle: 'Cupom HolyFoods: 15% OFF com o código EMCASA (nov/2026)',
+    metaTitle: 'Cupom HolyFoods: 15% OFF com o código EMCASA',
+    metaTitleMonth: true,
     metaDescription:
-      'Cupom HolyFoods testado em 05/11/2026: use EMCASA e ganhe 15% OFF em sopas, macarrões, risotos e kits, somando com os produtos já em promoção.',
+      'Cupom HolyFoods: use EMCASA e ganhe 15% OFF em sopas, macarrões, risotos e kits, somando com os produtos já em promoção.',
     eligibleCategories: 'Todos os produtos do site oficial da HolyFoods, avulsos e kits',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2716,9 +2734,10 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'compras no site e no app da Petz',
     longDescription:
       'O código da Cecília dá 10% OFF nas compras no site e no app da Petz. Ele não soma com promoção: num produto que já está em oferta, a sacola fica com o desconto maior. Testado em 11/11/2026.',
-    metaTitle: 'Cupom Petz: 10% OFF com o código EMCASA (nov/2026)',
+    metaTitle: 'Cupom Petz: 10% OFF com o código EMCASA',
+    metaTitleMonth: true,
     metaDescription:
-      'Cupom Petz testado em 11/11/2026: use EMCASA e ganhe 10% OFF no site e no app. Em produto já em promoção, a sacola fica com o desconto maior.',
+      'Cupom Petz: use EMCASA e ganhe 10% OFF no site e no app. Em produto já em promoção, a sacola fica com o desconto maior.',
     eligibleCategories: 'Produtos do site e do app da Petz; num item já em promoção, vale o desconto maior',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2819,9 +2838,10 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'todos os planos da Hostinger, mensais ou anuais, para clientes novos e antigos',
     longDescription:
       'O SONAR20 dá 20% OFF em todos os planos da Hostinger, mensais ou anuais, para quem está chegando e para quem já é cliente. Cole o código no campo de cupom do carrinho. Testado em 29/10/2026 no plano Startup, sobre o preço de Black Friday. O Em Casa com Cecília roda na Hostinger desde 2024.',
-    metaTitle: 'Cupom Hostinger: 20% OFF em tudo com SONAR20 (nov/2026)',
+    metaTitle: 'Cupom Hostinger: 20% OFF em tudo com SONAR20',
+    metaTitleMonth: true,
     metaDescription:
-      'Cupom Hostinger testado em 29/10/2026: SONAR20 dá 20% OFF em planos mensais e anuais, para cliente novo ou antigo, inclusive na Black Friday.',
+      'Cupom Hostinger: SONAR20 dá 20% OFF em planos mensais e anuais, para cliente novo ou antigo, inclusive na Black Friday.',
     eligibleCategories: 'Compra nova de qualquer plano da Hostinger, mensal ou anual, para clientes novos e antigos; a renovação sai sem desconto',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Vale em compra nova, para clientes novos e para quem já tem conta na Hostinger; na renovação, não há desconto',
@@ -2941,7 +2961,5 @@ export function getCouponHubSections() {
       ...category,
       coupons: activeCoupons.filter((coupon) => coupon.hubCategory === category.id),
     })).filter((category) => category.coupons.length > 0),
-    // Conferência mais recente entre os cupons ativos; datas ISO ordenam como texto.
-    lastVerified: activeCoupons.map((coupon) => coupon.lastVerified).sort().pop(),
   };
 }

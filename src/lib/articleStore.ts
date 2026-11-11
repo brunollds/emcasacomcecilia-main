@@ -112,18 +112,19 @@ function getStoreRules(store: Coupon, source: Coupon | undefined, locale: Coupon
   const copy = COUPON_STORE_COPY[locale];
   const articleCopy = getArticleCopy(locale);
   if (!source) return [];
-  const testedAt = source.offerMode === 'discount-code' && source.testNote ? source.testedAt : undefined;
-  const date = new Date(`${testedAt ?? source.lastVerified}T12:00:00`).toLocaleDateString(copy.dateLocale, {
+  const eligible = { label: copy.rules.eligible, value: source.eligibleCategories };
+  const combinable = { label: copy.rules.combinable, value: source.combinable };
+  // O código testado da parceria vale enquanto ela durar, como no topo da página da loja; a data do teste no
+  // carrinho fica na seção "Como testamos" de lá. O resto mostra a data da conferência.
+  if (source.offerMode === 'discount-code' && source.testNote) {
+    return [eligible, combinable, { label: copy.rules.validity, value: source.validity }];
+  }
+  const date = new Date(`${source.lastVerified}T12:00:00`).toLocaleDateString(copy.dateLocale, {
     day: 'numeric',
     month: 'long',
     year: 'numeric',
   });
-  const tested = Boolean(testedAt);
-  return [
-    { label: copy.rules.eligible, value: source.eligibleCategories },
-    { label: copy.rules.combinable, value: source.combinable },
-    { label: tested ? articleCopy.ruleTestedLabel : articleCopy.ruleVerifiedLabel, value: date },
-  ];
+  return [eligible, combinable, { label: articleCopy.ruleVerifiedLabel, value: date }];
 }
 
 // `now` decide os códigos com prazo: o build usa a hora dele, e os testes passam uma data fixa.

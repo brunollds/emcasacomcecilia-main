@@ -125,16 +125,13 @@ assert.equal(same.couponPageHref, `/cupons/${store.slug}`);
 const ptCopy = getArticleCopy('pt');
 for (const loc of LOCALE_KEYS) {
   const c = getArticleCopy(loc);
-  assert.ok(c.ruleTestedLabel && c.ruleVerifiedLabel, `${loc}: rótulo ausente`);
-  if (loc !== 'pt') {
-    assert.notEqual(c.ruleTestedLabel, ptCopy.ruleTestedLabel, loc);
-    assert.notEqual(c.ruleVerifiedLabel, ptCopy.ruleVerifiedLabel, loc);
-  }
+  assert.ok(c.ruleVerifiedLabel, `${loc}: rótulo ausente`);
+  if (loc !== 'pt') assert.notEqual(c.ruleVerifiedLabel, ptCopy.ruleVerifiedLabel, loc);
 }
 
 // Fora do PT com tradução (SHEIN): regras reais, rótulos sem espaço duplo e diferentes dos do PT.
 const sheinCode = (getCouponBySlug('shein') as { referral?: { code: string } }).referral!.code;
-const ptLabels = new Set([ptCopy.ruleTestedLabel, ptCopy.ruleVerifiedLabel, 'Vale para', 'Junta com outras promoções?']);
+const ptLabels = new Set([ptCopy.ruleVerifiedLabel, 'Vale para', 'Junta com outras promoções?']);
 for (const loc of ['ja', 'zh-hant', 'ko', 'en'] as const) {
   const block = getArticleStoreBlock({ ...base, locale: loc, affiliate: 'shein', coupon: sheinCode } as never, loc)!;
   assert.ok(block.rules.length > 0, `${loc}: sem regras`);
