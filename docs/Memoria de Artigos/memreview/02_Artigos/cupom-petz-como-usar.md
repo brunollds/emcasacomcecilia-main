@@ -7,9 +7,9 @@ parceiro_slug: "petz"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redação"
+status: "publicado"
+responsavel: "Job-2 (Claude Opus 5.5)"
+proxima_acao: "depois de 30/11, tirar a Black Friday do texto (a frase dos preços lidos com a campanha e a regra do Clubz); reler o cupom, a retirada e o frete na revisão mensal de dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-11"
 i18n_cluster: null
@@ -138,3 +138,18 @@ Maxi Adult 12 kg) na seção 4, com `href` da página do produto na Petz. Fotos 
 - **Uso repetido:** o programa Parceiro Petz diz "cupom de 10% OFF válido em todas as compras no app e site", sem limite de uso nem de prazo. O texto pode dizer que o EMCASA vale em todas as compras no site e no app, citando o programa, sem dizer que uma segunda compra foi testada.
 - **Serviços (banho e tosa, Seres, vacina):** sem teste, e as páginas não falam de cupom. O texto fala do EMCASA só nas compras do site e do app e não diz nada sobre serviço.
 - **Retire na Loja:** o EMCASA soma com os 5% (teste de 11/11 em [[petz-fatos-1111]]).
+
+## Publicação (11/11/2026)
+
+- No ar em 11/11/2026, id 900: PR #862 (squash `4d50b265`), release `4d50b265` (deploy 6cb1d996, build 01a1cc1f), só PT. Smoke: a página, o sitemap e o llms.txt com 200, o `covers:check` ok e as imagens da Petz com 200 pelo `/_next/image`; IndexNow no mesmo lote do release; captura 43090561036 aprovada pelo Bruno.
+- Título: "Como usar o cupom EMCASA na Petz: promoção, retirada e frete". seoTitle: "Como usar o cupom EMCASA na Petz e somar com a retirada".
+- Revisão externa (Farol, ChatGPT) em 11/11, com o parecer consolidado em `docs/auditoria-copy-artigos/petz-revisao-farol-20261111/` (local, fora do git). Cada ponto foi conferido no navegador antes de entrar; o CNPJ do rodapé (filial 0013-42) e o AUAU3 da companhia combinada vieram dessa conferência.
+- Pendente: Depois de 30/11: tirar a frase "Os preços foram lidos com a Black Friday da Petz no ar" e a regra do Clubz durante a campanha; conferir se a sacola segue com o desconto maior entre cupom e promoção.
+- Pendente: Revisão mensal de dezembro de 2026: reler o EMCASA na sacola, os 5% do Retire na Loja e o frete grátis.
+
+## Imagens (aprovadas pelo Bruno em 11/11/2026)
+
+- **Capa:** `/images/reviews/petz/cupom-petz-como-usar-capa.webp` (`imageFit: contain`), 1600 × 900, gerador de capas do repositório com a foto oficial do produto na Petz.
+- **Alt da capa:** Pacote da ração Golden Fórmula Mini Bits, o logo da Petz, o cupom EMCASA e 10% OFF.
+- **Quando o cupom muda o preço e quando não muda:** `/images/reviews/petz/cupom-petz-como-usar-royal-canin-maxi.webp` (square). Alt: Pacote da ração Royal Canin Maxi Adult 12 kg, em foto oficial da página do produto na Petz. Legenda: Na Maxi, a oferta de 20% fica na sacola e o cupom não entra por cima. Foto: Petz.
+- **Origem:** fotos oficiais das páginas de produto da Petz e prints do próprio site e do Reclame Aqui, capturados no navegador do app em 11/11 na resolução original (o site e a CDN da Petz dão 403 no curl). Sem geração por IA. Folha de aprovação em `docs/auditoria-copy-artigos/petz-onboarding-20261111/FOLHA-APROVACAO-IMAGENS.html` (local, fora do git).

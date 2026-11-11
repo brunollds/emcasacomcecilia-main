@@ -7,9 +7,9 @@ parceiro_slug: "petz"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redação; reler o Reclame Aqui (6 e 12 meses) na semana do texto"
+status: "publicado"
+responsavel: "Job-2 (Claude Opus 5.5)"
+proxima_acao: "reler o Reclame Aqui (6 e 12 meses) na revisão mensal de dezembro de 2026; depois de 30/11, conferir a fonte do CNPJ da sede"
 bloqueado_por: "-"
 data_criacao: "2026-11-11"
 i18n_cluster: null
@@ -79,3 +79,18 @@ navegador (o print de 11/11 não foi guardado).
 
 - **GO:** "pode seguir". Decisões completas no fim de [[cupom-petz-como-usar]].
 - **Pet em casa:** a equipe não tem. O texto lê as reclamações, sem experiência própria de compra ou de pet.
+
+## Publicação (11/11/2026)
+
+- No ar em 11/11/2026, id 902: PR #862 (squash `4d50b265`), release `4d50b265` (deploy 6cb1d996, build 01a1cc1f), só PT. Smoke: a página, o sitemap e o llms.txt com 200, o `covers:check` ok e as imagens da Petz com 200 pelo `/_next/image`; IndexNow no mesmo lote do release; captura 43090561036 aprovada pelo Bruno.
+- Título: "Petz no Reclame Aqui: nota, reputação e o que mais gera reclamação". seoTitle: "Petz no Reclame Aqui: nota e principais reclamações".
+- Revisão externa (Farol, ChatGPT) em 11/11, com o parecer consolidado em `docs/auditoria-copy-artigos/petz-revisao-farol-20261111/` (local, fora do git). Cada ponto foi conferido no navegador antes de entrar; o CNPJ do rodapé (filial 0013-42) e o AUAU3 da companhia combinada vieram dessa conferência.
+- Pendente: Revisão mensal de dezembro de 2026: reler as abas de 6 e 12 meses do perfil Petz - Loja Online (nota, resolvidas, voltariam a fazer negócio) e atualizar a tabela e a resposta rápida se mudarem.
+- Pendente: Depois de 30/11: o texto cita o regulamento da Black Friday como lugar do CNPJ da sede. Se a página sair do ar, trocar a fonte.
+
+## Imagens (aprovadas pelo Bruno em 11/11/2026)
+
+- **Capa:** `/images/reviews/petz/petz-reclame-aqui-nota-reputacao-capa.webp` (`imageFit: contain`), 1600 × 900, gerador de capas do repositório com a foto oficial do produto na Petz.
+- **Alt da capa:** Pacote da ração Golden Fórmula Senior e o topo do perfil Petz - Loja Online no Reclame Aqui, com a reputação Ótima.
+- **Qual perfil é a Petz:** `/images/reviews/petz/petz-reclame-aqui-nota-reputacao-painel.webp` (contain, 1.2368). Alt: Painel do perfil Petz - Loja Online no Reclame Aqui, com a reputação Ótima e a nota 8,3 da aba de 6 meses. Legenda: Painel do perfil no Reclame Aqui, com a aba de 6 meses aberta.
+- **Origem:** fotos oficiais das páginas de produto da Petz e prints do próprio site e do Reclame Aqui, capturados no navegador do app em 11/11 na resolução original (o site e a CDN da Petz dão 403 no curl). Sem geração por IA. Folha de aprovação em `docs/auditoria-copy-artigos/petz-onboarding-20261111/FOLHA-APROVACAO-IMAGENS.html` (local, fora do git).
