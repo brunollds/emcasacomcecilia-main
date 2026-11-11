@@ -213183,5 +213183,838 @@ export const reviewsData: unknown[] = [
         "slug": "petz-reclame-aqui-nota-reputacao"
       }
     ]
+  },
+  {
+    "id": 904,
+    "slug": "assinatura-petz-ou-cupom",
+    "title": "Assinatura Petz ou cupom EMCASA: qual sai mais barato",
+    "seoTitle": "Assinatura Petz ou cupom: qual sai mais barato",
+    "type": "Comparativo",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Assinatura Petz e EMCASA dão 10% e não somam. Na mesma sacola, empataram em cada modalidade; veja o que muda no pagamento, na frequência e nas compras avulsas.",
+    "metaDescription": "EMCASA dá 10% OFF na Petz, o mesmo desconto da assinatura. Veja quando cada um compensa, com cartão, frequência, frete e retirada.",
+    "publishedAt": "11 de novembro de 2026",
+    "publishedAtISO": "2026-11-11",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/petz/assinatura-petz-ou-cupom-capa.webp",
+    "imageAlt": "Logo da Petz, pacote da ração Golden Fórmula e a chamada “Assinatura Petz ou cupom?” com o código EMCASA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A assinatura Petz e o EMCASA dão 10% no site e no app e não somam. Na simulação, eles empataram quando comparados na mesma modalidade; a retirada reduziu os dois totais. Para escolher, veja se prefere programar compras no cartão ou comprar avulso com o código, sem definir uma frequência."
+        ]
+      },
+      {
+        "heading": "A mesma sacola, de duas formas",
+        "paragraphs": [
+          "O [cupom Petz](/cupons/petz) é o EMCASA, com 10% OFF nas compras no site e no app. A assinatura também dá 10%. No teste da sacola, sem login e sem finalizar a compra, a conta foi esta.",
+          "Primeiro, uma ração só: a Golden Fórmula Cães Adultos Frango e Arroz 15 kg, R$ 179,99 na sacola. Com o EMCASA, o total dos produtos foi R$ 161,99, com R$ 18,00 de desconto. Com a opção Assinar produto ligada e o EMCASA ainda no campo, o desconto continuou em R$ 18,00, agora com o nome Assinatura Petz. O cupom não entrou por cima."
+        ],
+        "image": {
+          "src": "/images/reviews/petz/assinatura-petz-ou-cupom-golden-formula-adultos.webp",
+          "alt": "Pacote da ração Golden Fórmula Cães Adultos Frango, Arroz e Vegetais 15 kg, em foto da página do produto na Petz",
+          "caption": "Foto: Petz.",
+          "objectFit": "square"
+        }
+      },
+      {
+        "heading": "Sacola com três produtos e retirada",
+        "paragraphs": [
+          "Depois, uma sacola com três produtos: a mesma ração de 15 kg, a Whiskas Gatos Castrados Carne 2,7 kg (R$ 49,99) e a areia Pipicat Classic 4 kg, em oferta de R$ 19,99 por R$ 14,99. Pelo preço cheio, os produtos somavam R$ 249,97. A tabela mostra o que a sacola descontou em cada forma de compra."
+        ],
+        "comparisonTable": {
+          "caption": "Sacola de três produtos, lida durante a Black Friday da Petz, sem login e sem finalizar a compra. Os totais são dos produtos, depois dos descontos, sem a taxa de serviço e sem o frete.",
+          "headers": [
+            "Forma na sacola",
+            "Descontos que aparecem",
+            "Total dos produtos"
+          ],
+          "rows": [
+            [
+              "EMCASA, compra única",
+              "Cupom −R$ 23,00 e produtos em oferta −R$ 5,00",
+              "R$ 221,97"
+            ],
+            [
+              "Assinatura Petz (Golden a cada 30 dias)",
+              "Assinatura −R$ 25,00 e adicionais −R$ 3,00",
+              "R$ 221,97"
+            ],
+            [
+              "EMCASA e Retire na Loja",
+              "Cupom −R$ 23,00, retirada −R$ 11,10 e produtos em oferta −R$ 5,00",
+              "R$ 210,87"
+            ],
+            [
+              "Assinatura Petz e Retire na Loja",
+              "Assinatura −R$ 25,00, retirada −R$ 11,10 e adicionais −R$ 3,00",
+              "R$ 210,87"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O cupom deu R$ 23,00: 10% da ração e 10% da Whiskas. A areia ficou em R$ 14,99 nas duas formas, porque a oferta de 25% vale mais que os 10%, e o cupom não entra nela.",
+          "Na simulação com a opção de assinatura ligada, a Whiskas, que não estava selecionada para assinatura, também levou os 10%. Com a retirada, os 5% da loja entraram nas duas formas, com R$ 11,10 de desconto. Na entrega padrão com o EMCASA, a taxa de serviço de R$ 5,90 entrou no resumo e a sacola fechou em R$ 227,87; na retirada, o resumo não mostrou essa taxa."
+        ]
+      },
+      {
+        "heading": "O que muda fora do preço",
+        "bullets": [
+          "**Pagamento.** A assinatura aceita só cartão de crédito. Se o cartão for recusado depois de algumas tentativas, a assinatura é cancelada. O EMCASA vale nas compras no site e no app, pelo que diz o programa Parceiro Petz, mas, na Black Friday, não entra em item que já está em oferta, como a areia do teste.",
+          "**Frequência.** A assinatura pede uma frequência: 30, 45, 60 ou 90 dias, ou uma personalizada. O cupom serve à compra avulsa, sem escolher frequência.",
+          "**Compras avulsas.** Enquanto a assinatura estiver ativa, os 10% valem também nas compras sem assinatura, no site e no app. Cancelada, o desconto das avulsas acaba junto.",
+          "**Sem taxa para sair.** Não há taxa, carência nem multa de cancelamento. Dá para pausar, trocar itens, mudar data, frequência e endereço, ou cancelar, em Minha Conta, em Minhas Assinaturas, ou no app.",
+          "**Sem outro cupom.** Na assinatura não entra outro cupom, e os combos ficam de fora.",
+          "**Regra que pode mudar.** A Petz diz que pode alterar a política de assinaturas sem aviso prévio."
+        ]
+      },
+      {
+        "heading": "Site, app e loja física",
+        "paragraphs": [
+          "A sacola traz um aviso que cita também as lojas físicas. A página oficial da assinatura fala só em site e app. Por isso, este texto não afirma que a assinatura vale no caixa de uma loja física.",
+          "O EMCASA segue a mesma linha: é código das compras no site e no app, como mostra o [passo a passo do cupom](/reviews/cupom-petz-como-usar)."
+        ]
+      },
+      {
+        "heading": "Frete e retirada",
+        "paragraphs": [
+          "Na entrega padrão, as páginas divergem sobre o frete grátis no Centro-Oeste. A política de frete diz acima de R$ 199 no Sul e no Sudeste, e acima de R$ 299 no Norte, no Nordeste e no Centro-Oeste. A página da assinatura põe o Centro-Oeste na faixa de R$ 199. Nessa região, confira o frete na sacola antes de pagar. Pela regra informada, o mínimo é contado depois do desconto do cupom.",
+          "A retirada soma com as duas formas. A loja dá 5% em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste, e o teste mostrou esse desconto com o EMCASA e com a assinatura. A regra de frete e de retirada do cupom está no [guia do EMCASA](/reviews/cupom-petz-como-usar)."
+        ]
+      },
+      {
+        "heading": "Promoção e Black Friday",
+        "paragraphs": [
+          "Item em promoção acima de 10% não muda com nenhum dos dois. Na sacola, ele fica com o preço da oferta, como a areia do teste.",
+          "Durante a Black Friday da Petz, o regulamento diz que a assinatura não soma com as ofertas da campanha, e que o cupom também não soma com elas. A sacola aplica o desconto maior. Fora da campanha, a assinatura dá 10% e não soma com cupom."
+        ]
+      },
+      {
+        "heading": "Quando a assinatura compensa",
+        "paragraphs": [
+          "Para quem compra o mesmo produto com frequência e usa cartão de crédito, a assinatura permite programar a repetição do pedido. Segundo a Petz, os 10% também valem nas compras avulsas enquanto a assinatura estiver ativa.",
+          "O preço do produto na assinatura é o vigente no site quando o pedido é gerado. Antes de cada compra, vale conferir o valor e as condições."
+        ]
+      },
+      {
+        "heading": "Quando o cupom compensa",
+        "paragraphs": [
+          "Quem compra de vez em quando ou não quer escolher uma frequência pode preferir a compra avulsa. Quem paga sem cartão de crédito não consegue assinar. Nesses casos, o EMCASA dá 10% nas compras no site e no app, sem exigir frequência.",
+          "Antes de pagar, compare as duas formas na mesma modalidade de entrega ou retirada. Se o total dos produtos empatar como na simulação, confira também frete e taxas; a escolha pode depender do pagamento e da frequência."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A assinatura Petz é paga? Segundo a página oficial, não há taxa, carência nem multa de cancelamento. Você paga os produtos; a assinatura oferece 10% de desconto, e a validação de R$ 5 no cartão é estornada.",
+          "Dá para cancelar quando quiser? Sim, em Minha Conta, em Minhas Assinaturas, ou no app, sem multa de cancelamento.",
+          "O cupom EMCASA soma com a assinatura? Não. A assinatura não aceita outros cupons, e o desconto que fica na sacola é o da assinatura.",
+          "A assinatura vale na loja física? A página oficial fala só em site e app, e este texto não afirma que ela vale em loja física."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você quer programar compras recorrentes e usa cartão de crédito.",
+        "Você pretende manter uma assinatura ativa e usar os benefícios também nas compras avulsas."
+      ],
+      "skipIf": [
+        "Você prefere decidir cada compra e não quer programar uma frequência: o EMCASA atende à compra avulsa.",
+        "Você paga sem cartão de crédito, a única forma aceita para a assinatura."
+      ]
+    },
+    "cta": {
+      "text": "Entre pelo botão: ele abre a loja emcasa dentro da Petz, sem o código aplicado. O EMCASA vai no campo “Digite seu cupom” da sacola; a assinatura se liga item a item.",
+      "label": "Ir para a Petz",
+      "url": "https://petz.com.br/parceiro/emcasa",
+      "sponsored": true
+    },
+    "coupon": "EMCASA",
+    "affiliate": "petz",
+    "editorialNote": "Feito com as regras do site e um teste da sacola, sem finalizar a compra e sem uso dos produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-petz-como-usar"
+      },
+      {
+        "slug": "black-friday-petz"
+      },
+      {
+        "slug": "petz-e-confiavel"
+      }
+    ]
+  },
+  {
+    "id": 905,
+    "slug": "petz-ou-cobasi",
+    "title": "Petz ou Cobasi: qual é mais barata com o mesmo produto",
+    "seoTitle": "Petz ou Cobasi: qual é mais barata no mesmo produto?",
+    "type": "Comparativo de Lojas",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Petz ou Cobasi: veja os preços de nove produtos, o desconto com EMCASA e as ofertas de cada loja. Compare também frete, retirada e compra programada antes de decidir.",
+    "metaDescription": "Com o código EMCASA, a Petz dá 10% OFF no site e no app. Comparamos o mesmo produto com a Cobasi, com frete, retirada e assinatura.",
+    "publishedAt": "11 de novembro de 2026",
+    "publishedAtISO": "2026-11-11",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/petz/petz-ou-cobasi-capa.webp",
+    "imageAlt": "Pacote da ração Golden Gatos Castrados Frango, logo da Petz, a chamada “Petz ou Cobasi?” e o código EMCASA em destaque.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na seleção comparada, a Petz ficou mais barata em cinco de nove produtos com o EMCASA ou a oferta; a Cobasi venceu em três, e houve um empate. A comparação usa o preço da página da Cobasi, sem cupom. Para decidir sua compra, some frete e taxas aos itens da sua lista."
+        ]
+      },
+      {
+        "heading": "Petz e Cobasi são a mesma empresa?",
+        "paragraphs": [
+          "Sim, no mesmo grupo: o Grupo Petz Cobasi. As marcas, os sites e os preços seguem separados. O [cupom Petz](/cupons/petz) só vale nas compras da Petz no site e no app, e não funciona na Cobasi.",
+          "Os preços podem ser diferentes em cada loja. Abaixo, comparamos produtos iguais, antes do frete."
+        ]
+      },
+      {
+        "heading": "O que entra nos preços",
+        "paragraphs": [
+          "Na Petz, os preços abaixo consideram o EMCASA sobre o preço cheio ou a oferta quando ela dá mais desconto. Esse comportamento foi observado na sacola, mas nem todos os produtos da tabela foram testados nela. Na Cobasi, usamos o preço da página, sem cupom. O frete e as taxas são comparados separadamente para o CEP de São Paulo da simulação. Só entra o mesmo item, com a mesma marca, linha e peso; produtos sem par certo nas duas lojas ficaram de fora."
+        ]
+      },
+      {
+        "heading": "Ração para cachorro adulto",
+        "paragraphs": [
+          "Na leitura, Golden e Premier de 15 kg tinham o mesmo preço de página nas duas lojas. Com o EMCASA na Petz, cada uma ficou 10% abaixo do preço de página da Cobasi."
+        ],
+        "comparisonTable": {
+          "caption": "Preços lidos durante a Black Friday, sem frete: Petz com EMCASA ou oferta; Cobasi pelo preço da página, sem cupom.",
+          "headers": [
+            "Produto",
+            "Petz com o EMCASA ou a oferta",
+            "Cobasi"
+          ],
+          "rows": [
+            [
+              "Golden Fórmula Cães Adultos Frango e Arroz, 15 kg",
+              "R$ 161,99 (EMCASA)",
+              "R$ 179,99"
+            ],
+            [
+              "Premier Fórmula Cães Adultos Raças Médias Frango e Mandioca, 15 kg",
+              "R$ 233,99 (EMCASA)",
+              "R$ 259,99"
+            ],
+            [
+              "Royal Canin Medium Adult, 12 kg",
+              "R$ 251,19 (oferta, de R$ 313,99)",
+              "R$ 238,90 (de R$ 313,99)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na Royal Canin Medium de 12 kg, a oferta da Petz era R$ 12,29 mais alta que o preço de página da Cobasi, antes do frete."
+        ]
+      },
+      {
+        "heading": "Ração para gato castrado",
+        "paragraphs": [
+          "Nas duas lojas, o nome da Whiskas traz a oferta “Leve 10,1 kg e pague 9 kg”. A tabela usa o preço que a página mostra para o pacote de 10,1 kg."
+        ],
+        "comparisonTable": {
+          "caption": "Mesma leitura e condições da primeira tabela; frete e taxas à parte.",
+          "headers": [
+            "Produto",
+            "Petz com o EMCASA ou a oferta",
+            "Cobasi"
+          ],
+          "rows": [
+            [
+              "Golden Gatos Adultos Castrados Frango, 10,1 kg",
+              "R$ 161,99 (EMCASA)",
+              "R$ 179,99"
+            ],
+            [
+              "Whiskas Gatos Adultos Castrados Carne, 10,1 kg",
+              "R$ 161,09 (EMCASA)",
+              "R$ 178,99"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nos dois itens, o EMCASA deixou o preço da Petz 10% abaixo do preço de página da Cobasi. Compare o total com o frete para saber qual compensa no seu pedido."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/petz/petz-ou-cobasi-golden-gatos-castrados.webp",
+            "alt": "Pacote da ração Golden Gatos Adultos Castrados Frango, em foto oficial da página do produto na Petz",
+            "caption": "Golden Gatos Adultos Castrados Frango, a primeira ração de gato da tabela. Foto: Petz.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Areia para gato",
+        "paragraphs": [
+          "A areia Pipicat Classic de 4 kg está em oferta nas duas lojas, pelo mesmo preço. A oferta de 25% fica no preço, e o EMCASA não entra por cima dela na Petz."
+        ],
+        "comparisonTable": {
+          "caption": "Mesma leitura e condições da primeira tabela; frete e taxas à parte.",
+          "headers": [
+            "Produto",
+            "Petz com o EMCASA ou a oferta",
+            "Cobasi"
+          ],
+          "rows": [
+            [
+              "Pipicat Classic, 4 kg",
+              "R$ 14,99 (oferta, de R$ 19,99)",
+              "R$ 14,99 (de R$ 19,99)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No dia da leitura, a areia empata. Nesse caso, a escolha passa pelo frete e pela retirada."
+        ]
+      },
+      {
+        "heading": "Antipulgas para cachorro",
+        "paragraphs": [
+          "Antipulgas se comparam pelo preço e pela faixa de peso da embalagem. Na dúvida, o veterinário indica o produto certo para o seu cachorro."
+        ],
+        "comparisonTable": {
+          "caption": "Mesma leitura e condições da primeira tabela; frete e taxas à parte.",
+          "headers": [
+            "Produto",
+            "Petz com o EMCASA ou a oferta",
+            "Cobasi"
+          ],
+          "rows": [
+            [
+              "Bravecto 500 mg, cães de 10 a 20 kg, 1 comprimido",
+              "R$ 168,59 (oferta, de R$ 280,99)",
+              "R$ 168,50 (de R$ 280,99)"
+            ],
+            [
+              "Simparic Trio 24 mg, cães de 10,1 a 20 kg, 1 comprimido",
+              "R$ 104,29 (oferta, de R$ 148,99)",
+              "R$ 96,50 (de R$ 148,99)"
+            ],
+            [
+              "NexGard 68 mg, cães de 10,1 a 25 kg, 1 tablete",
+              "R$ 86,44 (oferta, de R$ 132,99)",
+              "R$ 87,50 (de R$ 134,99)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No NexGard, a Petz ficou R$ 1,06 abaixo; no Bravecto, a Cobasi ficou R$ 0,09 abaixo. No Simparic Trio, a diferença a favor da Cobasi foi de R$ 7,79. Os valores são dos produtos, sem frete."
+        ]
+      },
+      {
+        "heading": "Frete e retirada",
+        "paragraphs": [
+          "Na Petz, a Entrega Padrão tem frete grátis acima de R$ 199 no Sul e no Sudeste. Na sacola consultada em São Paulo, o frete dessa modalidade ficou grátis, mas o resumo cobrou R$ 5,90 de taxa de serviço. A Expressa mostrou até 4 horas, com frete de R$ 7,90 mais essa taxa.",
+          "A política da Cobasi informa frete grátis acima de R$ 149 no Sul, Sudeste e Centro-Oeste; para areia, sílica e granulados, a condição é apenas no Sudeste. Para a entrega Econômica em São Paulo e no Rio de Janeiro, a página informa mínimo acima de R$ 199. Na simulação com uma ração de R$ 179,99 para um CEP de São Paulo, a Econômica custou R$ 11,90 e a Cobasi Já, R$ 9,90. Confira as modalidades disponíveis no seu CEP.",
+          "Na Petz, a retirada tem 5% acima de R$ 199 no Sul, Sudeste e Centro-Oeste. Na sacola testada, os 5% somaram ao EMCASA e não apareceu taxa de serviço. O prazo depende da loja e do estoque: algumas opções mostraram retirada a partir de 45 minutos, outras em data posterior. Aguarde o e-mail de liberação. Na Cobasi, o regulamento da Black Friday prevê 5% na retirada acima de R$ 199 nessas regiões, após outros descontos e sem frete. A página de retirada traz mínimos diferentes; confira o desconto e o prazo no carrinho."
+        ]
+      },
+      {
+        "heading": "Assinatura e Compra Programada",
+        "paragraphs": [
+          "A Compra Programada da Cobasi dá 10% no site, no app e nas lojas físicas, sem mensalidade, com Pix, Nupay ou cartão. Na Cobasi, ela não soma com cupom nem com promoção: fica o desconto de maior valor. A assinatura da Petz também dá 10%, mas só aceita cartão, e a página dela fala só de site e app. Na assinatura, a Petz não aceita outro cupom, então o EMCASA não entra junto. Para as regras da assinatura, veja [assinatura Petz ou cupom](/reviews/assinatura-petz-ou-cupom)."
+        ]
+      },
+      {
+        "heading": "Pesquise Lá, Compre Aqui",
+        "paragraphs": [
+          "A Petz cobre o preço de concorrentes como a Cobasi, mas só nas lojas físicas da Petz. Não vale para serviços nem para assinatura, e não soma com outros descontos. Serve para quem está numa loja física da Petz e encontra o mesmo item mais barato na Cobasi."
+        ]
+      },
+      {
+        "heading": "Reputação no Reclame Aqui",
+        "paragraphs": [
+          "Nos últimos seis meses, Petz - Loja Online e Cobasi - Loja Online tinham nota 8,3 no Reclame Aqui. O perfil da Petz mostrava reputação Ótima; o da Cobasi, selo RA1000. Para o histórico da Petz, veja [Petz e o Reclame Aqui](/reviews/petz-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "Na seleção comparada, as quatro rações sem oferta ficaram 10% abaixo na Petz com EMCASA em relação ao preço de página da Cobasi. Em outros itens, houve vantagens para cada lado e um empate. Antes de comprar, confira seus produtos, descontos disponíveis, frete e taxa de serviço: o total pode mudar a escolha."
+        ],
+        "emphasis": "Compare o total final no carrinho antes de pagar."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Petz e Cobasi são a mesma empresa? Fazem parte do mesmo grupo, o Grupo Petz Cobasi, mas as marcas, os sites e os preços seguem separados.",
+          "Qual tem frete grátis mais baixo? Depende da região, do produto e da modalidade. A política da Cobasi informa mínimo acima de R$ 149 no Sul, Sudeste e Centro-Oeste, com restrição regional para areia; para a Econômica em São Paulo e no Rio, informa acima de R$ 199. Na Petz, a entrega padrão tem frete grátis acima de R$ 199 no Sul e no Sudeste. Confira as opções para seu CEP.",
+          "O cupom da Petz vale na Cobasi? Não. O EMCASA só vale nas compras da Petz no site e no app.",
+          "A Petz cobre o preço da Cobasi? Só nas lojas físicas da Petz, e não soma com outros descontos."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Sua lista tem rações sem oferta, como Golden e Premier de 15 kg, e você compra pelo site ou app com o EMCASA: nesses itens, a Petz fica 10% abaixo do preço de página da Cobasi.",
+        "Você prefere retirar na loja: na sacola testada, a retirada da Petz somou 5% ao EMCASA e não teve taxa de serviço, desde que o prazo da loja atenda ao seu pedido."
+      ],
+      "skipIf": [
+        "Seu carrinho tem Royal Canin Medium de 12 kg, Bravecto ou Simparic Trio: nesses itens, a Cobasi ficou abaixo da Petz nas páginas lidas, antes do frete.",
+        "As opções de entrega ou retirada da Petz não atendem ao prazo de que você precisa."
+      ]
+    },
+    "cta": {
+      "text": "Abre a loja emcasa da Petz, sem o cupom aplicado. Cole o EMCASA no campo “Digite seu cupom” da sacola.",
+      "label": "Ir para a Petz",
+      "url": "https://petz.com.br/parceiro/emcasa",
+      "sponsored": true
+    },
+    "coupon": "EMCASA",
+    "affiliate": "petz",
+    "editorialNote": "Preços lidos nas páginas da Petz e da Cobasi e na sacola da Petz, sem login e sem finalizar a compra. Não usamos os produtos. Podemos receber comissão pelo cupom da Petz.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-petz-como-usar"
+      },
+      {
+        "slug": "petz-e-confiavel"
+      },
+      {
+        "slug": "petz-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "petz-entrega-expressa-ou-retirar-na-loja"
+      }
+    ]
+  },
+  {
+    "id": 906,
+    "slug": "petz-ou-petlove",
+    "title": "Petz ou Petlove: preço, assinatura e entrega com o mesmo produto",
+    "seoTitle": "Petz ou Petlove: qual é melhor e qual sai mais barata",
+    "type": "Comparativo de Lojas",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Ração, areia e antipulga custam diferente na Petz e na Petlove. Veja a tabela, a assinatura, o Clube Petlove, o frete e a retirada antes de escolher onde comprar.",
+    "metaDescription": "Na Petz, o EMCASA dá 10% OFF no site e no app. Compare o mesmo produto com a Petlove: preço, assinatura, Clube Petlove e frete.",
+    "publishedAt": "11 de novembro de 2026",
+    "publishedAtISO": "2026-11-11",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/petz/petz-ou-petlove-capa.webp",
+    "imageAlt": "Pacote da ração Royal Canin Medium Adult, logo da Petz, a chamada “Petz ou Petlove?” e o código EMCASA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na Black Friday, a Petz com EMCASA ou oferta ficou mais barata em cinco dos sete itens comparáveis; a Petlove, em um; e houve um empate. Com o Clube Petlove, alguns preços ficam menores, mas há custo de adesão para quem ainda não é membro. Os preços mudam depois que a campanha acaba; confira o total com entrega."
+        ]
+      },
+      {
+        "heading": "O que cada loja é",
+        "paragraphs": [
+          "Quem busca o [cupom Petz](/cupons/petz) encontra uma rede com lojas físicas, site e app. O EMCASA dá 10% OFF no site e no app. Nas lojas físicas, a Petz também cobre o preço de concorrente pelo Pesquise Lá, Compre Aqui, e a Petlove aparece entre os concorrentes que essa regra cobre.",
+          "A Petlove é uma loja online com 10 lojas físicas para clique e retire. Ela vende por assinatura, na compra recorrente chamada Repet, e por um clube pago, o Clube Petlove. A Petlove não é parceira deste site: o link, o cupom e as fotos daqui são só da Petz."
+        ]
+      },
+      {
+        "heading": "Rações para cães",
+        "paragraphs": [
+          "Na Petz, a comparação usa os 10% do EMCASA sobre o preço cheio ou a oferta quando ela é maior. A regra foi observada na sacola; os valores dos demais itens foram calculados a partir das páginas. A Petlove aparece com o preço avulso e, quando disponível, o preço para membros do Clube, sem a taxa do plano.",
+          "Golden e Premier custam quase o mesmo nas duas páginas. Com o EMCASA, a Petz fica abaixo: a Golden de 15 kg sai por R$ 161,99, contra R$ 179,90 na Petlove; a Premier, por R$ 233,99, contra R$ 259,90.",
+          "Na Royal Canin Medium Adult de 12 kg, a oferta da Petz, de R$ 251,19, empata com o preço da Petlove com o clube. Sem o clube, a Petlove mostra R$ 313,91."
+        ],
+        "comparisonTable": {
+          "caption": "Preços lidos durante a Black Friday, consultados em horários próximos para o CEP 01310-100. A coluna do Clube não inclui o custo do plano.",
+          "headers": [
+            "Produto",
+            "Petz com o EMCASA ou a oferta",
+            "Petlove na página",
+            "Petlove com o Clube Petlove"
+          ],
+          "rows": [
+            [
+              "Golden Fórmula Cães Adultos Frango e Arroz, 15 kg",
+              "R$ 161,99 (EMCASA)",
+              "R$ 179,90",
+              "R$ 152,92"
+            ],
+            [
+              "Premier Fórmula Cães Adultos Raças Médias Frango e Mandioca, 15 kg",
+              "R$ 233,99 (EMCASA)",
+              "R$ 259,90",
+              "R$ 220,92"
+            ],
+            [
+              "Royal Canin Medium Adult, 12 kg",
+              "R$ 251,19 (oferta)",
+              "R$ 313,91",
+              "R$ 251,19"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/petz/petz-ou-petlove-royal-canin-medium-adult.webp",
+            "alt": "Pacote da ração Royal Canin Medium Adult 12 kg, em foto oficial da página do produto na Petz",
+            "caption": "Foto: Petz.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Rações para gatos",
+        "paragraphs": [
+          "A Golden Gatos Adultos Castrados Frango aparece com 10,1 kg na Petz e com 10 kg no nome na Petlove. Com o EMCASA, a Petz fica em R$ 161,99; a Petlove mostra R$ 179,90, ou R$ 152,92 com o clube. Como os pesos informados diferem, esta linha fica fora do placar: confira a embalagem antes de comparar.",
+          "A Whiskas Gatos Adultos Castrados Carne, de 10,1 kg, aparece como indisponível para o CEP da leitura na Petlove. A linha fica na tabela, sem comparação com a Petlove. Na Petz, o nome da Whiskas traz a oferta “Leve 10,1 kg e pague 9 kg”; a tabela usa o preço que a página mostra para o pacote de 10,1 kg."
+        ],
+        "comparisonTable": {
+          "caption": "Fora do placar: a Golden tem pesos informados diferentes, e a Whiskas estava indisponível na Petlove para o CEP consultado.",
+          "headers": [
+            "Produto",
+            "Petz com o EMCASA ou a oferta",
+            "Petlove na página",
+            "Petlove com o Clube Petlove"
+          ],
+          "rows": [
+            [
+              "Golden Gatos Adultos Castrados Frango, 10,1 kg (na Petlove, 10 kg)",
+              "R$ 161,99 (EMCASA)",
+              "R$ 179,90",
+              "R$ 152,92"
+            ],
+            [
+              "Whiskas Gatos Adultos Castrados Carne, 10,1 kg",
+              "R$ 161,09 (EMCASA)",
+              "Indisponível no CEP",
+              "—"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Areia e antipulgas",
+        "paragraphs": [
+          "A areia Pipicat Classic de 4 kg está em oferta na Petz, por R$ 14,99. Na Petlove, o preço da página é R$ 21,99 e R$ 18,70 com o clube; a Petz fica abaixo nas duas contas.",
+          "Nos antipulgas, a Petlove ficou R$ 0,28 abaixo no Simparic Trio. No NexGard, as duas empataram em R$ 86,44. Com o clube, o Bravecto sai mais barato na Petlove, por R$ 154,28 contra R$ 168,59 na Petz.",
+          "Simparic Trio e NexGard não entram no recorte de preços com Clube. Antipulga se escolhe pela faixa de peso que está na embalagem, não só pelo preço. Na dúvida, o veterinário. Esta leitura é só de preço."
+        ],
+        "comparisonTable": {
+          "caption": "Mesma leitura da primeira tabela; o preço do Clube não inclui o plano. Traços indicam valores que não entram na comparação com Clube.",
+          "headers": [
+            "Produto",
+            "Petz com o EMCASA ou a oferta",
+            "Petlove na página",
+            "Petlove com o Clube Petlove"
+          ],
+          "rows": [
+            [
+              "Areia Pipicat Classic, 4 kg",
+              "R$ 14,99 (oferta)",
+              "R$ 21,99",
+              "R$ 18,70"
+            ],
+            [
+              "Bravecto 500 mg, cães de 10 a 20 kg, 1 comprimido",
+              "R$ 168,59 (oferta)",
+              "R$ 182,33",
+              "R$ 154,28"
+            ],
+            [
+              "Simparic Trio 24 mg, cães de 10,1 a 20 kg, 1 comprimido",
+              "R$ 104,29 (oferta)",
+              "R$ 104,01",
+              "—"
+            ],
+            [
+              "NexGard 68 mg, cães de 10,1 a 25 kg, 1 tablete",
+              "R$ 86,44 (oferta)",
+              "R$ 86,44",
+              "—"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Assinatura e compra recorrente",
+        "paragraphs": [
+          "A assinatura da Petz dá 10% nas compras da assinatura e nas avulsas no site e no app, enquanto ela estiver ativa. Não tem taxa, carência nem multa. O pagamento é só com cartão de crédito, e nenhum outro cupom entra nos pedidos da assinatura.",
+          "O Repet da Petlove também não tem taxa de adesão, mensalidade ou taxa de cancelamento. Ele anuncia 10% nas compras recorrentes, aceita cartão de crédito e não acumula com outras promoções. A Petlove mostra valores diferentes para o primeiro pedido, de 15% a 20%, conforme a página; confira o desconto no resumo antes de confirmar.",
+          "No NexGard, o preço exibido para recorrência era igual ao da compra avulsa. Esse valor, sozinho, não confirma desconto extra no Repet; a comparação precisa do total mostrado no pedido."
+        ]
+      },
+      {
+        "heading": "Clube Petlove: quanto custa e quando se paga",
+        "paragraphs": [
+          "O Clube Petlove é pago. A informação de plano associada à página de produto indicava R$ 9,99 por mês no anual, por 12 meses, e R$ 17,99 no mensal. O clube anuncia descontos de até 25% online e frete padrão grátis conforme a área, sem mínimo ou a partir de R$ 99. Confira o preço e as condições do plano antes de aderir.",
+          "Na Golden para cães de 15 kg, o preço com clube era R$ 152,92, contra R$ 161,99 na Petz com EMCASA: diferença de R$ 9,07 antes de frete e taxas. Quem já é membro já paga o plano; para essa pessoa, a diferença é o ganho deste item.",
+          "Para quem considera aderir só por esta compra, R$ 9,07 não cobre nem uma mensalidade de R$ 9,99. O plano anual informado soma R$ 119,88 em 12 meses; para avaliar a adesão, compare esse custo com a economia adicional esperada durante o período, inclusive diferenças de frete, sem contar descontos que você já obteria fora do clube. O plano mensal informado custa R$ 17,99 por mês."
+        ]
+      },
+      {
+        "heading": "Frete, entrega e retirada",
+        "paragraphs": [
+          "Na Petz, a política consultada prevê frete grátis na entrega padrão acima de R$ 199 no Sul e no Sudeste, e acima de R$ 299 no Norte, Nordeste e Centro-Oeste. Prazo e custo da Expressa dependem do CEP; na sacola consultada em São Paulo aparecia em até 4 horas, com cobrança à parte. A retirada em loja dá 5% acima de R$ 199 nas regiões Centro-Oeste, Sul e Sudeste, e esse desconto somou com o EMCASA na sacola testada. Para as entregas e a retirada, veja o [artigo sobre a Expressa e a retirada](/reviews/petz-entrega-expressa-ou-retirar-na-loja).",
+          "Na Petlove, a página do Clube Petlove promete frete grátis na entrega padrão, conforme a área, sem valor mínimo ou a partir de R$ 99. Fora do clube, a política lida não informa valor mínimo. A Petlove Já entrega no mesmo dia em São Paulo, Santos, Santo André, Rio de Janeiro, Porto Alegre e Curitiba, quando o pedido é aprovado dentro do horário da filial e pago com cartão ou Pix.",
+          "A Petlove tem 10 lojas físicas com clique e retire. A página lida não informou prazo nem custo da retirada, e não vimos desconto de retirada nela."
+        ]
+      },
+      {
+        "heading": "Reclame Aqui",
+        "paragraphs": [
+          "Nos últimos seis meses, a Petz - Loja Online tinha nota 8,3 e 89% das reclamações resolvidas; a Petlove - Petsupermarket, nota 8,4, selo RA1000 e 91,2% resolvidas. Para mais detalhes, leia [Petz no Reclame Aqui](/reviews/petz-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Qual loja faz sentido para a sua compra",
+        "paragraphs": [
+          "Sem Clube Petlove, a Petz ficou abaixo em cinco dos sete itens comparáveis desta seleção. Para quem já é membro, o preço do Clube ficou menor em três dos cinco itens comparáveis com esse valor; houve um empate e uma vantagem da Petz.",
+          "Monte sua lista com as mesmas embalagens e compare o total com entrega. Se for aderir a um clube, acrescente o custo do plano; se ele já está ativo, compare os preços que sua conta oferece. Na Petz, o EMCASA dá os 10% quando a oferta do item não é maior."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O cupom da Petz vale na Petlove? Não. O EMCASA é desconto da Petz e só entra na sacola da Petz, no site e no app.",
+          "A Petz cobre o preço da Petlove? Só nas lojas físicas, pelo Pesquise Lá, Compre Aqui, que não vale para serviços nem para assinatura e não soma com outros descontos.",
+          "Qual tem frete grátis mais baixo? Para quem é do Clube Petlove, a entrega padrão grátis pode não ter mínimo ou começar em R$ 99, conforme a área, contra os R$ 199 da Petz no Sul e no Sudeste. Fora do clube, a política lida da Petlove não informa mínimo, então não dá para dizer qual é menor.",
+          "A Petlove tem loja física? Sim, 10 lojas com clique e retire. A página lida não informou prazo nem custo da retirada."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você quer retirar a compra numa loja física: a Petz tem 5% na retirada, que soma com o EMCASA, e a Petlove não mostrou desconto para isso.",
+        "Você já é membro do Clube Petlove: com o preço de membro, a Petlove ficou abaixo em três dos cinco itens comparáveis com esse preço."
+      ],
+      "skipIf": [
+        "A embalagem não corresponde à da tabela: confirme o produto e o peso antes de usar a comparação.",
+        "Você aderiria ao Clube só para esta compra, mas a economia não cobre o custo do plano."
+      ]
+    },
+    "cta": {
+      "text": "Entre pelo botão para ver o preço da sua cesta na Petz. Cole o EMCASA no campo “Digite seu cupom” da sacola.",
+      "label": "Ir para a Petz",
+      "url": "https://petz.com.br/parceiro/emcasa",
+      "sponsored": true
+    },
+    "coupon": "EMCASA",
+    "affiliate": "petz",
+    "editorialNote": "Preços lidos nas páginas das duas lojas, no mesmo dia e no mesmo CEP, sem finalizar a compra e sem uso dos produtos. Podemos receber comissão pelo cupom da Petz.",
+    "emphasis": "Preço de campanha: confira na sua cesta antes de pagar.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-petz-como-usar"
+      },
+      {
+        "slug": "assinatura-petz-ou-cupom"
+      },
+      {
+        "slug": "petz-ou-cobasi"
+      },
+      {
+        "slug": "petz-entrega-expressa-ou-retirar-na-loja"
+      },
+      {
+        "slug": "petz-reclame-aqui-nota-reputacao"
+      }
+    ]
+  },
+  {
+    "id": 907,
+    "slug": "petz-entrega-expressa-ou-retirar-na-loja",
+    "title": "Entrega Expressa ou Retire na Loja na Petz: prazo, custo e desconto",
+    "seoTitle": "Petz: entrega expressa ou retirar na loja?",
+    "type": "Guia",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Expressa ou retirar na loja? Veja o prazo, o frete, a taxa de serviço e o desconto de cada forma na sacola da Petz, e como o EMCASA soma com a retirada.",
+    "metaDescription": "EMCASA dá 10% OFF na Petz e soma com os 5% da retirada na loja. Veja o prazo e o custo da Expressa e da Agendada na sacola antes de pagar.",
+    "publishedAt": "11 de novembro de 2026",
+    "publishedAtISO": "2026-11-11",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/petz/petz-entrega-expressa-ou-retirar-na-loja-capa.webp",
+    "imageAlt": "Pacote da areia Pipicat Classic, logo da Petz, a chamada “Expressa ou retirar na loja?” e a caixa com o código EMCASA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "No teste em São Paulo, a Expressa mostrou até quatro horas e teve frete e taxa; a retirada teve menor total, mas o prazo variou por loja. O EMCASA funcionou com a Expressa e somou aos 5% da retirada elegível. Compare prazo de liberação, custos e deslocamento antes de pagar."
+        ]
+      },
+      {
+        "heading": "As quatro formas na mesma sacola",
+        "paragraphs": [
+          "O [cupom Petz](/cupons/petz) é o EMCASA. Na mesma sacola, ele funcionou com Padrão, Expressa e retirada. A Agendada apareceu entre as opções e teve o calendário consultado, mas não foi confirmada; compare o resumo completo ao selecionar sua entrega."
+        ],
+        "comparisonTable": {
+          "caption": "Sacola de teste em São Paulo, acima de R$ 199 após descontos, durante a Black Friday. Produtos com EMCASA ou oferta: R$ 221,97 antes da retirada. Os valores dependem do pedido e do CEP.",
+          "headers": [
+            "Forma",
+            "Prazo mostrado",
+            "Frete e taxa no teste",
+            "Total da sacola"
+          ],
+          "rows": [
+            [
+              "Padrão",
+              "Até amanhã",
+              "Frete grátis; taxa de R$ 5,90",
+              "R$ 227,87"
+            ],
+            [
+              "Expressa",
+              "Até 4 horas",
+              "Frete de R$ 7,90 + taxa de R$ 5,90",
+              "R$ 235,77"
+            ],
+            [
+              "Agendada",
+              "Dia e faixa de 3 horas disponíveis no calendário",
+              "Frete de R$ 7,90; conferir taxa no resumo",
+              "Não confirmado"
+            ],
+            [
+              "Retire na Loja",
+              "A partir de 45 minutos em algumas lojas; outras mostraram data posterior",
+              "Sem frete; taxa não apareceu no resumo",
+              "R$ 210,87, com os 5% elegíveis"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na outra sacola, abaixo de R$ 199, Expressa e Agendada foram exibidas por R$ 10,27. Esse é o valor daquela consulta; não é uma tarifa geral para todo pedido abaixo do mínimo. A retirada continuou disponível, sem os 5%."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/petz/petz-entrega-expressa-areia-pipicat-classic.webp",
+            "alt": "Pacote da areia Pipicat Classic 4 kg, em foto oficial da página do produto na Petz",
+            "caption": "Areia Pipicat Classic 4 kg, um dos três itens da sacola de teste. Foto: Petz.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Entrega Expressa e Agendada: prazo, horário e atraso",
+        "paragraphs": [
+          "Se você precisa receber em poucas horas, veja se a Expressa está disponível para o seu CEP e se o prazo mostrado atende à sua necessidade. Ela não aceita boleto, e o frete é cobrado à parte.",
+          "A Agendada permite escolher um dia e uma faixa de horário disponíveis. No calendário consultado em São Paulo havia opções de três horas, das 9h às 21h, incluindo domingo. Confirme o dia e o total no resumo antes de concluir.",
+          "Se a Expressa atrasar, a política prevê devolver o frete em dobro como crédito. No teste, o EMCASA entrou no desconto dos produtos com a Expressa escolhida."
+        ]
+      },
+      {
+        "heading": "Retire na Loja: prazo, aviso e desconto",
+        "paragraphs": [
+          "A retirada oferece 5% em compras acima de R$ 199 no Centro-Oeste, Sul e Sudeste, conforme as lojas do CEP. No resumo do teste, não apareceu taxa de serviço.",
+          "Não escolha apenas a unidade mais próxima. Para a mesma sacola, algumas lojas mostraram liberação a partir de 45 minutos e as mais próximas exibiram uma data bem posterior. Confira quais itens estão disponíveis e o prazo da unidade antes de pagar.",
+          "Aguarde a mensagem de que o pedido está liberado antes de sair de casa. Depois dela, você tem 28 dias corridos para buscar, segundo a política. O benefício de 5% é informado para Centro-Oeste, Sul e Sudeste; para outras regiões, confira a opção no carrinho.",
+          "O EMCASA soma com os 5% da retirada, e a conta da sacola de teste está no [passo a passo do cupom](/reviews/cupom-petz-como-usar)."
+        ]
+      },
+      {
+        "heading": "Qual escolher pela sacola",
+        "bullets": [
+          "**Precisa receber em poucas horas.** Escolha a Expressa se o prazo para seu CEP atende à urgência e o custo cabe na compra.",
+          "**Pode ir buscar.** Compare a data de liberação, o trajeto e o total da retirada. Mesmo sem os 5%, ela pode economizar frete.",
+          "**Pode esperar.** Compare a Padrão com as outras modalidades pelo total, incluindo a taxa de serviço.",
+          "**Precisa estar em casa numa faixa definida.** Veja os dias e horários da Agendada e confira todas as cobranças antes de confirmar.",
+          "**Se você é Clubz Diamante.** O regulamento da campanha dá frete grátis sem mínimo e sem taxa de serviço para o Diamante. A sacola do teste foi vista sem login, então confira com a sua conta."
+        ]
+      },
+      {
+        "heading": "Quando o pedido atrasa",
+        "paragraphs": [
+          "Guarde o prazo informado na compra. Se o pedido não chegar ou não for liberado para retirada na data combinada, procure o atendimento com o número do pedido. Os 28 dias para buscar só começam depois da mensagem de liberação.",
+          "Se o pedido não aparecer no prazo, fale com a Petz pelo Alô Petz, (11) 3434-6980: seg a sex, 8h às 21h; sáb, 8h às 18h; dom e feriados, 9h às 16h. O atendimento inteligente fica em petz.com.br/atendimento-inteligente."
+        ],
+        "emphasis": "Antes de pagar, confira na sacola o prazo e o custo da forma escolhida, com o CEP certo."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Petz entrega no mesmo dia? Depende do CEP. Na sacola de teste, na Av. Paulista, a Expressa mostrou “Em até 4 horas”, e a Padrão, “Até amanhã”.",
+          "A Petz entrega no domingo? A Agendada ofereceu domingo no calendário consultado para o CEP do teste. Veja se a modalidade e o dia aparecem para seu endereço antes de concluir.",
+          "O cupom vale na Entrega Expressa? No teste, sim: com a Expressa escolhida, o EMCASA entrou no desconto dos produtos.",
+          "Quanto tempo tenho para retirar na loja? Até 28 dias corridos depois do e-mail de liberação, segundo a política de entrega."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você precisa receber em poucas horas e a Expressa oferece prazo e custo adequados para seu CEP.",
+        "Você consegue buscar e o prazo de liberação e o total da retirada compensam o deslocamento."
+      ],
+      "skipIf": [
+        "A loja escolhida só libera a retirada depois da data em que você precisa dos produtos.",
+        "Você pode esperar e a Padrão tem um total melhor que a Expressa para o seu pedido."
+      ]
+    },
+    "cta": {
+      "text": "Entre pelo botão: ele abre a loja emcasa dentro da Petz, sem o cupom aplicado. Cole o EMCASA na sacola e confira o prazo da forma escolhida antes de pagar.",
+      "label": "Ir para a Petz",
+      "url": "https://petz.com.br/parceiro/emcasa",
+      "sponsored": true
+    },
+    "coupon": "EMCASA",
+    "affiliate": "petz",
+    "editorialNote": "Feito com as regras do site e um teste da sacola, sem finalizar a compra e sem uso dos produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-petz-como-usar"
+      },
+      {
+        "slug": "petz-e-confiavel"
+      },
+      {
+        "slug": "petz-reclame-aqui-nota-reputacao"
+      }
+    ]
   }
 ];
