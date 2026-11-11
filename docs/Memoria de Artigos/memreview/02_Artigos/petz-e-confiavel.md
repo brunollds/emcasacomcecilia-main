@@ -7,9 +7,9 @@ parceiro_slug: "petz"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redação"
+status: "publicado"
+responsavel: "Job-2 (Claude Opus 5.5)"
+proxima_acao: "depois de 30/11, conferir onde o CNPJ da sede aparece fora do regulamento da Black Friday; reler o rodapé e o Reclame Aqui na revisão mensal de dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-11"
 i18n_cluster: null
@@ -86,3 +86,18 @@ o Bruno tiver, foto de uma loja física. Prints pelo navegador.
 - **GO:** "pode seguir". Decisões completas no fim de [[cupom-petz-como-usar]].
 - **Pet em casa:** a equipe não tem. O veredito do item 10 vem das regras lidas e do teste da sacola, sem experiência com pet.
 - **Cupom:** se o texto citar o EMCASA, só nas compras do site e do app, que valem em todas as compras pelo programa Parceiro Petz. Nada sobre serviço.
+
+## Publicação (11/11/2026)
+
+- No ar em 11/11/2026, id 901: PR #862 (squash `4d50b265`), release `4d50b265` (deploy 6cb1d996, build 01a1cc1f), só PT. Smoke: a página, o sitemap e o llms.txt com 200, o `covers:check` ok e as imagens da Petz com 200 pelo `/_next/image`; IndexNow no mesmo lote do release; captura 43090561036 aprovada pelo Bruno.
+- Título: "Petz é confiável? CNPJ, fusão com a Cobasi, entrega e trocas". seoTitle: "Petz é confiável? CNPJ, Cobasi, entrega e trocas".
+- Revisão externa (Farol, ChatGPT) em 11/11, com o parecer consolidado em `docs/auditoria-copy-artigos/petz-revisao-farol-20261111/` (local, fora do git). Cada ponto foi conferido no navegador antes de entrar; o CNPJ do rodapé (filial 0013-42) e o AUAU3 da companhia combinada vieram dessa conferência.
+- Pendente: Depois de 30/11: o texto diz que o CNPJ da sede está no regulamento da Black Friday. Se a página da campanha sair do ar, trocar a fonte (nota fiscal ou consulta pública do CNPJ) e reler o rodapé.
+- Pendente: Revisão mensal de dezembro de 2026: reler o rodapé (CNPJ da filial na versão para computador), os links do app na home e a nota do Reclame Aqui.
+
+## Imagens (aprovadas pelo Bruno em 11/11/2026)
+
+- **Capa:** `/images/reviews/petz/petz-e-confiavel-capa.webp` (`imageFit: contain`), 1600 × 900, gerador de capas do repositório com a foto oficial do produto na Petz.
+- **Alt da capa:** Pacote da Areia Petz Ultra Absorção, o logo da Petz, a pergunta Petz é confiável? e o selo de reputação Ótima do perfil Petz - Loja Online no Reclame Aqui.
+- **Como saber que o site é o oficial:** `/images/reviews/petz/petz-e-confiavel-site-oficial-rodape.webp` (contain, 8.4043). Alt: Rodapé do site oficial da Petz, petz.com.br, na versão para computador, com a razão social e o CNPJ. Legenda: O rodapé de petz.com.br na versão para computador, com a razão social e o CNPJ de uma filial, em trecho ampliado para leitura. Print do site da Petz.
+- **Origem:** fotos oficiais das páginas de produto da Petz e prints do próprio site e do Reclame Aqui, capturados no navegador do app em 11/11 na resolução original (o site e a CDN da Petz dão 403 no curl). Sem geração por IA. Folha de aprovação em `docs/auditoria-copy-artigos/petz-onboarding-20261111/FOLHA-APROVACAO-IMAGENS.html` (local, fora do git).

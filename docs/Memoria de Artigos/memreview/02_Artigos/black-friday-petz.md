@@ -7,9 +7,9 @@ parceiro_slug: "petz"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redação; ler os preços da campanha no navegador na semana do texto; publicar antes de 27/11"
+status: "publicado"
+responsavel: "Job-2 (Claude Opus 5.5)"
+proxima_acao: "depois de 30/11, atualizar o artigo para o fim da campanha (regras, preços e o \"quando é\")"
 bloqueado_por: "-"
 data_criacao: "2026-11-11"
 i18n_cluster: null
@@ -89,3 +89,19 @@ produto da tabela, pelo navegador.
 - **Pet em casa:** a equipe não tem. Nada de "o que compramos para o nosso cachorro"; a tabela do capítulo 3 é de preços lidos.
 - **Uso por CPF:** o regulamento da Black Friday diz que os cupons da campanha valem um uso por CPF, salvo comunicação diferente. O guia cita isso como regra da campanha e não aplica ao EMCASA, que vale em todas as compras no site e no app pelo programa Parceiro Petz.
 - **Serviços:** nada sobre banho e tosa, Seres ou vacina.
+
+## Publicação (11/11/2026)
+
+- No ar em 11/11/2026, id 903: PR #862 (squash `4d50b265`), release `4d50b265` (deploy 6cb1d996, build 01a1cc1f), só PT. Smoke: a página, o sitemap e o llms.txt com 200, o `covers:check` ok e as imagens da Petz com 200 pelo `/_next/image`; IndexNow no mesmo lote do release; captura 43090561036 aprovada pelo Bruno.
+- Título: "Black Friday Petz 2026: regras, Clubz e quando o cupom ainda ajuda". seoTitle: "Black Friday Petz 2026: regras, Clubz e cupom".
+- Revisão externa (Farol, ChatGPT) em 11/11, com o parecer consolidado em `docs/auditoria-copy-artigos/petz-revisao-farol-20261111/` (local, fora do git). Cada ponto foi conferido no navegador antes de entrar; o CNPJ do rodapé (filial 0013-42) e o AUAU3 da companhia combinada vieram dessa conferência.
+- Pendente: Depois de 30/11: a campanha termina. Atualizar a resposta rápida, o "quando é" e as regras para o fim da Black Friday 2026, ou deixar claro que eram as regras deste ano; os preços da tabela viram histórico ou saem.
+- Pendente: Antes da Black Friday de 2027: reler o regulamento novo e refazer a tabela de preços.
+
+## Imagens (aprovadas pelo Bruno em 11/11/2026)
+
+- **Capa:** `/images/reviews/petz/black-friday-petz-capa.webp` (`imageFit: contain`), 1600 × 900, gerador de capas do repositório com a foto oficial do produto na Petz.
+- **Alt da capa:** Pacote da ração Royal Canin Maxi Adult, o logo da Petz e o título Black Friday da Petz.
+- **Regras da campanha e datas:** `/images/reviews/petz/black-friday-petz-banner-campanha.webp` (contain, 2.2472). Alt: Topo da página da Black Friday da Petz, com o título Petz friday, uma foto de campanha e o selo de descontos. Legenda: Topo da página da campanha no site da Petz. Print da própria loja.
+- **O que aconteceu na sacola com o EMCASA:** `/images/reviews/petz/black-friday-petz-sache-royal-canin-instinctive.webp` (square). Alt: Sachê de ração úmida Royal Canin Instinctive 85 g, em foto oficial da página do produto na Petz. Legenda: Sachê Royal Canin Instinctive 85 g: a oferta e o cupom ficaram a um centavo, e a sacola usou o cupom. Foto: Petz.
+- **Origem:** fotos oficiais das páginas de produto da Petz e prints do próprio site e do Reclame Aqui, capturados no navegador do app em 11/11 na resolução original (o site e a CDN da Petz dão 403 no curl). Sem geração por IA. Folha de aprovação em `docs/auditoria-copy-artigos/petz-onboarding-20261111/FOLHA-APROVACAO-IMAGENS.html` (local, fora do git).
