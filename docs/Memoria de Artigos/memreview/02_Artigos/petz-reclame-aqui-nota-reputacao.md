@@ -7,9 +7,9 @@ parceiro_slug: "petz"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "decisões do Bruno; reler o Reclame Aqui (6 e 12 meses) na semana do texto"
+proxima_acao: "redação; reler o Reclame Aqui (6 e 12 meses) na semana do texto"
 bloqueado_por: "-"
 data_criacao: "2026-11-11"
 i18n_cluster: null
@@ -64,3 +64,8 @@ navegador (o print de 11/11 não foi guardado).
 - Os números mudam todo mês: o JSON leva os da releitura, com o período na legenda.
 - Nada de "a Petz é a melhor do setor"; o 10º lugar no ranking da categoria só entra com a posição exata.
 - Comparar com a Cobasi só pela nota que aparece na página (8,3), sem link nem cupom dela.
+
+## Decisões do Bruno (11/11/2026)
+
+- **GO:** "pode seguir". Decisões completas no fim de [[cupom-petz-como-usar]].
+- **Pet em casa:** a equipe não tem. O texto lê as reclamações, sem experiência própria de compra ou de pet.

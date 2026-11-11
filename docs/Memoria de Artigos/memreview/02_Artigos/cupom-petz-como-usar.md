@@ -7,10 +7,10 @@ parceiro_slug: "petz"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "decisões do Bruno (fim do briefing); depois pauta-aprovada e sessão de artigos"
-bloqueado_por: "Bruno: perguntas 1, 3 e 4 (a 2 foi testada em 11/11)"
+proxima_acao: "redação"
+bloqueado_por: "-"
 data_criacao: "2026-11-11"
 i18n_cluster: null
 translationKey: null
@@ -57,20 +57,22 @@ promete primeira compra, aniversário, 15% nem frete grátis.
 8. O cupom não funcionou: item em promoção maior que 10%, assinatura ativa, frete que sumiu, código com espaço, campo
    errado (o botão da parceria não aplica), Clubz com desconto maior.
 9. Perguntas frequentes: "tem cupom de primeira compra?", "soma com promoção?", "vale no app?", "dá frete grátis?",
-   "vale em banho e tosa?" (depende da pergunta 1).
+   "o cupom vale em toda compra?" (pelo programa Parceiro Petz, sem segunda compra testada).
 
 ## Regras do onboarding (valem para os quatro)
 - **Fatos:** [[petz-fatos-1111]] (nesta pasta) e o dossiê `01_Parceiros/Petz.md`. O que não está lá, o artigo não
   diz. O site da Petz bloqueia `curl` e WebFetch: releitura só no navegador, sem login, sacola nova ou clique no link
   da parceria; bloqueio não se contorna.
 - **Cupom:** `EMCASA`, 10% OFF no site e no app. Não soma com promoção: em cada item a sacola fica com o desconto
-  maior. Nada de "10% a mais" em produto em oferta, nem "vale toda vez" (uso repetido não testado). Nada de loja física.
+  maior. Nada de "10% a mais" em produto em oferta, Vale em todas as compras no site e no app, pelo que diz o programa Parceiro Petz, sem dizer que uma segunda compra
+  foi testada. Nada de loja física nem de serviço (banho e tosa, Seres, vacina).
 - **Link:** `https://petz.com.br/parceiro/emcasa`, exatamente como veio; ele não aplica o cupom, e o texto manda colar
   o código. Âncora "cupom Petz" para `/cupons/petz`.
 - **Nunca** citar cupom de outra criadora, o código de convite EMCASA (é outra coisa e está fora da página) nem
   comissão.
 - **Farmácia veterinária:** sem promessa de efeito; produto, rótulo e preço, e "na dúvida, o veterinário".
-- **Sem experiência inventada:** a experiência com pet depende da pergunta 4; sem ela, o texto não diz "meu cachorro".
+- **Sem experiência com pet:** a equipe não tem pet (decisão de 11/11). Nenhum dos quatro diz "meu cachorro" ou "a ração
+  que usamos"; a voz é de quem leu as regras e testou a sacola.
 - **Black Friday:** o teste de 11/11 foi feito com a campanha no ar. Depois de 30/11, tirar a menção.
 - **Catraca:** resposta rápida de 2 a 3 frases sem preço, no máximo 2 datas no corpo, nenhuma em título de seção,
   legenda ou FAQ; `description` de até 180 caracteres; `metaDescription` com EMCASA e 10% na primeira frase, o código
@@ -107,9 +109,10 @@ Maxi Adult 12 kg) na seção 4, com `href` da página do produto na Petz. Fotos 
 | Assinatura: 10% e avulsas, não soma com cupom | fatos, seção 4 | verificado |
 | Frete grátis por região e regra do mínimo depois do cupom | fatos, seção 5 | verificado |
 | EMCASA soma com o Retire na Loja: R$ 379,98 → R$ 324,88 | fatos, seção 5 (teste de 11/11) | verificado |
-| EMCASA em serviço e uso repetido | — | não testado: perguntas 1 e 3 |
+| EMCASA em todas as compras no site e no app | programa Parceiro Petz | dito pelo programa; segunda compra não testada |
+| EMCASA em serviço | — | fora do texto (sem teste) |
 
-## Perguntas para o Bruno (valem para os quatro briefings)
+## Perguntas para o Bruno (respondidas em 11/11: ver "Decisões do Bruno")
 1. O EMCASA vale em serviço (banho e tosa, Seres, vacina)? Se não houver teste, o texto diz que é o código das compras
    no site e no app, e não fala de serviço.
 2. Respondida em 11/11 pelo teste na sacola: soma. Era: dá para testar uma sacola com Retire na Loja acima de R$ 199? A regra da Petz diz que o desconto de retirada soma
@@ -117,3 +120,11 @@ Maxi Adult 12 kg) na seção 4, com `href` da página do produto na Petz. Fotos 
 3. O EMCASA aceita uma segunda compra no mesmo CPF? Sem teste, nada de "vale toda vez".
 4. Vocês têm pet em casa e compram na Petz? Se sim, que bicho e o que compram: entra como experiência no é confiável e
    no guia de Black Friday. Se não, os textos ficam sem experiência própria.
+
+## Decisões do Bruno (11/11/2026)
+
+- **GO:** "pode seguir". Os quatro briefings do onboarding (PZ1 a PZ4) estão aprovados para a redação.
+- **Pet em casa:** a equipe não tem. Nenhum dos quatro diz "meu cachorro", "a ração que usamos" ou outra experiência com pet. A voz é de quem leu as regras e testou a sacola.
+- **Uso repetido:** o programa Parceiro Petz diz "cupom de 10% OFF válido em todas as compras no app e site", sem limite de uso nem de prazo. O texto pode dizer que o EMCASA vale em todas as compras no site e no app, citando o programa, sem dizer que uma segunda compra foi testada.
+- **Serviços (banho e tosa, Seres, vacina):** sem teste, e as páginas não falam de cupom. O texto fala do EMCASA só nas compras do site e do app e não diz nada sobre serviço.
+- **Retire na Loja:** o EMCASA soma com os 5% (teste de 11/11 em [[petz-fatos-1111]]).
