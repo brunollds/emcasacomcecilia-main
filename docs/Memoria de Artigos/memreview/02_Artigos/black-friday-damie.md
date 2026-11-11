@@ -147,3 +147,10 @@ para ela e é revisto para as duas páginas não disputarem a mesma busca.
 7. **Perguntas frequentes.**
 
 **Rodadas de atualização:** iguais às do `black-friday-dolce-gusto`, mais a revisão quando a página de Black Friday do subdomínio sair.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/damie/black-friday-damie-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Cecília com Ian no colo em uma poltrona reclinável bege da DAMIE, olhando para ele na sala de casa.
+- **Origem:** foto própria da Cecília com o Ian no colo numa poltrona DAMIE, diferente da capa de amamentação; pessoas e móvel sem retoque. Sem geração por IA.
+- **Lote 16 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/damie/black-friday-damie-capa-faixa.webp`) fica no CDN, sem uso como capa.

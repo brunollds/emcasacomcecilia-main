@@ -152,3 +152,10 @@ Em promoções: "promoção insider compre 2 leve 3", "leve 3 pague 2", "insider
 - Pix: 10% como a loja anunciava em outubro; um banner fala em "semana 10.10", então reconferir antes de publicar. Neutro sobre o Pix parcelado.
 - Reclame Aqui: o texto usa o dado já publicado no artigo do Reclame Aqui (mais de dois terços das reclamações de 12 meses no semestre out/2025–mar/2026).
 - Fora do texto: cupom de boas-vindas, indicação, Insider Rewards, regras dos brindes, garantia contra desbotamento (está no guia do cupom) e o horário da Concept Store.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/insider/black-friday-insider-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Modelo veste a Tech T-Shirt masculina Red Spice vermelha da Insider, em foto oficial.
+- **Origem:** foto oficial da Tech T-Shirt masculina Red Spice, roupa e modelo sem alteração, sem estoque, percentual ou preço. Sem geração por IA.
+- **Lote 16 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/insider/black-friday-insider-capa-discover.webp`) fica no CDN, sem uso como capa.

@@ -141,3 +141,10 @@ Bruno em 08/10/2026. O artigo alimenta a faixa de data comercial da home D2 (abe
 - a partir de 01/11, conferir a página de regulamentos e o site a cada semana e registrar o que a loja anunciar;
 - semana de 27/11 e Cyber Monday (30/11);
 - começo de dezembro: seção "como foi a Black Friday de 2026", que fica para 2027.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/dolcegusto/black-friday-dolce-gusto-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Máquina Dolce Gusto NEO branca sobre a bancada, com a bandeja transparente removida nas mãos de Cecília.
+- **Origem:** foto própria da NEO branca na bancada, com a bandeja transparente nas mãos da Cecília (é a NEO, não a Genio), sem preço na arte. Sem geração por IA.
+- **Lote 16 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/dolcegusto/black-friday-dolce-gusto-capa-faixa.webp`) fica no CDN, sem uso como capa.

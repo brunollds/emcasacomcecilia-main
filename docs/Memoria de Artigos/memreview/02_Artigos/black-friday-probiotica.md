@@ -168,3 +168,10 @@ ficam fora do texto.
 - Redação em outra sessão (14/10); Job 3 aplicado e revisado pelo Claude em 15/10/2026. Texto aprovado pelo Bruno em 15/10/2026.
 - JSON `content/reviews/black-friday-probiotica.json`, id 439, conferido frase a frase contra o texto aprovado.
 - Capa: print da home da loja em 14/10/2026, sem pop-ups (`black-friday-probiotica-home.webp`), no CDN e verificada em 15/10/2026. Imagens do corpo reaproveitadas dos artigos de onboarding: `probiotica-cupom-01-carrinho-sem-cupom.webp`, `probiotica-cupom-03-desconto-aplicado.webp`.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/probiotica/black-friday-probiotica-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Potes de creatina da Probiótica com colher sobre fundo bege, em composição promocional oficial.
+- **Origem:** foto oficial de potes de creatina; o alt não conta potes. Sem geração por IA.
+- **Lote 17 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/probiotica/black-friday-probiotica-capa-discover.webp`) fica no CDN, sem uso como capa.

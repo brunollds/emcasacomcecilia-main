@@ -317,3 +317,10 @@ Upload FTPS, verificação HTTPS (18/18 da Toda Up), `prepare-delivery --append`
 ## Ajuste de 27/10/2026
 
 Tabela de preços: o Sutiã de Silicone Invisível passa a "de R$ 159,90" (o "de R$ 199,90" estava errado, mesma decisão do Bruno da pauta T5). As outras linhas seguem como estavam.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/black-friday-toda-up-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Três modelos vestem o sutiã Comfort Up da Toda Up em cores diferentes, em fotografia oficial da marca.
+- **Origem:** foto oficial do trio Comfort Up, rostos e peças inteiros; o recorte tira só os rótulos de tamanho e a borda da fonte (troca pedida e aprovada pelo Bruno no lugar do sutiã isolado). Sem geração por IA.
+- **Lote 17 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/toda-up/black-friday-toda-up-capa-discover.webp`) fica no CDN, sem uso como capa.

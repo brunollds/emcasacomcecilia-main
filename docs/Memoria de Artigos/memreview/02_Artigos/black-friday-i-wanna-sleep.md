@@ -156,3 +156,10 @@ mira "black friday colchão" pela I Wanna Sleep e responde a busca do cupom com 
 - Colchões e box só nas lojas físicas (Bruno, 09/10/2026; as páginas do Zen e do box mandam para as lojas). A primeira versão tinha tabela de colchões, a conta do Zen e a entrega do colchão; saíram. O título passou a Pillow Top Magnum, travesseiros e cobertores, e a busca "black friday colchão" é atendida pela seção "Colchão e box: só nas lojas físicas".
 - Fora do texto: número de parcelas (a página e o widget divergem), "Order Bump", o brinde do "Diagnóstico" (regras não publicadas), o cupom próprio da loja, garantia em meses (não publicada), melatonina, Aliv e SleepSpray.
 - Sem vídeo no artigo: o do Igloo já está no artigo do cobertor, e a capa remete a ele.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/iwannasleep/black-friday-i-wanna-sleep-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Cobertor Igloo cinza sobre uma cama com travesseiros, em composição promocional oficial azul e laranja da I Wanna Sleep.
+- **Origem:** foto oficial do cobertor Igloo na cama; a foto da Cecília com a sacola foi descartada na revisão. Sem geração por IA.
+- **Lote 16 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/iwannasleep/black-friday-i-wanna-sleep-capa-faixa.webp`) fica no CDN, sem uso como capa.

@@ -183,3 +183,10 @@ faixa ou o regulamento sair.
 - Redação em outra sessão (14/10); Job 3 aplicado e revisado pelo Claude em 15/10/2026. Texto aprovado pelo Bruno em 15/10/2026.
 - JSON `content/reviews/black-friday-lejour.json`, id 441, conferido frase a frase contra o texto aprovado.
 - Capa: print da home da loja em 14/10/2026, sem pop-ups (`black-friday-lejour-home.webp`), no CDN e verificada em 15/10/2026. Imagens do corpo reaproveitadas dos artigos de onboarding: `lejour-cadastro-05-planos.webp`.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/lejour/black-friday-lejour-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Composição promocional oficial da Lejour com um casal em uma moldura orgânica.
+- **Origem:** composição promocional oficial da Lejour com um casal, pessoas sem alteração; não é cliente nem casamento do site. Sem geração por IA.
+- **Lote 16 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/lejour/black-friday-lejour-capa-discover.webp`) fica no CDN, sem uso como capa.
