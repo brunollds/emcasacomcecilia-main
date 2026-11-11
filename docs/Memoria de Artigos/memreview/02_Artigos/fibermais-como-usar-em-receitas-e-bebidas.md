@@ -208,3 +208,10 @@ As três imagens foram enviadas por FTPS e verificadas por GET HTTPS em 02/10/20
 | `fibermais-linha-preparo-oficial.webp` | 59.338 | `43a36db44cc391d257b298d5fb777f6cea213cb1a56b3be91d486fc26c70aba6` |
 
 As URLs imutáveis e a data exata de verificação estão em `data/media-manifest.json`; os caminhos editoriais continuam locais e são resolvidos pelo mapa de entrega. Os três arquivos entram na allowlist de exclusão do archive de deploy somente após essa prova de entrega.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/nutren/fibermais-como-usar-em-receitas-e-bebidas-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Chocolate Quente Cremoso FiberMais em foto oficial da receita publicada por Receitas Nestlé, com a bebida em caneca de vidro.
+- **Origem:** foto oficial da receita Chocolate Quente Cremoso FiberMais (Receitas Nestlé); não é preparo da equipe. Sem geração por IA.
+- **Lote 25 do piloto de capas (sequência 8 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-8-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/nutren/fibermais-como-usar-capa-discover.webp`) fica no CDN, sem uso como capa.

@@ -147,3 +147,10 @@ JSON em `content/reviews/presente-de-natal-para-pai-poltrona-do-papai.json` (id 
 - **Revisão externa (ChatGPT, 09/11):** aceita a abertura pelo que o pai quer, as datas como referências, a saída das frases de bastidor e o perfil manual sem depender da tomada. Recusado ou ajustado depois de conferir: "a partir da entrega" como informação da loja, "174 cm de profundidade" e "feriados locais". Mantidos a tese de quem compra e quem senta, o rótulo "Conta nossa" na tabela de prazos e o `seoTitle` do briefing. Parecer em `docs/auditoria-copy-artigos/pp3-20261109-farol/` (fora do repositório).
 - **Imagens:** a capa nova (Cecília no botão e a 2.0 inteira) subiu ao CDN em 09/11. No corpo, só fotos que já estavam no CDN.
 - **Depois de publicar:** acrescentar o link para a PP3 em `presente-de-natal-para-casa-moveis`.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/damie/presente-de-natal-para-pai-poltrona-do-papai-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Cecília em pé ao lado de uma caixa grande da DAMIE, com a mão apoiada nela, em foto própria.
+- **Origem:** foto própria IMG_6768, escolhida pelo Bruno, com a Cecília em pé ao lado da caixa grande da DAMIE (adendo DAMIE IMG6768 do Terra, que substitui a foto anterior sentada na poltrona). Não indica modelo da poltrona, compra nem presente entregue. Sem geração por IA.
+- **Lote 26 do piloto de capas (sequência 8 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-8-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/damie/presente-de-natal-para-pai-poltrona-do-papai-capa.webp`) fica no CDN, sem uso como capa.

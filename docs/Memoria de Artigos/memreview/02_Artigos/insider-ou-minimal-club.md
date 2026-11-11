@@ -238,3 +238,10 @@ Lido no Chrome do Bruno (Shopify das duas lojas):
 - JSON `content/reviews/insider-ou-minimal-club.json` (id 834). Capa A do Job 6 (três camisetas da Insider e o título), aprovada pelo Bruno. Fotos no corpo: Tech e Core, com o link de criador. Card de estilo só com as peças da Insider.
 - Job 3 (Fable): aprovado com ajustes de frase, todos aplicados (sem "ninguém usou" no corpo, sem a data de início da garantia, tecido sem repetir a tabela, cada par abre pelo que decide, conta do cupom num parágrafo só).
 - Sem g/m² (nenhuma das lojas publica nas páginas) e sem o selo "Não desbota" da Minimal.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/insider/insider-ou-minimal-club-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo adulto vestindo camiseta Tech Blue Shadow da Insider em foto oficial, ao lado da pergunta Insider ou Minimal Club?
+- **Origem:** foto oficial da camiseta Tech Blue Shadow; a Maple Brown foi rejeitada por repetir foto recolorida. Sem a marca concorrente na arte. Sem geração por IA.
+- **Lote 26 do piloto de capas (sequência 8 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-8-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/insider/insider-ou-minimal-club-capa.webp`) fica no CDN, sem uso como capa.

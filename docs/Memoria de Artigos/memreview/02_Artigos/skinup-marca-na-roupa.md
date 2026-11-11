@@ -94,3 +94,10 @@ Revisão externa (`docs/auditoria-copy-artigos/novos-20261108-i14-f13-f14/PARECE
 - Sem teste e sem veredito, por decisão do Bruno. "Não testamos" na resposta rápida e na nota, como pede o briefing. O acréscimo com o short da Cecília segue na seção 4 da Fila.
 - Cor, contorno e bojo ficam separados: nome da cor não garante invisibilidade.
 - Card de estilo nos quatro capítulos de peça, em `scripts/styling-required.json`.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/skinup-marca-na-roupa-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo adulta vestindo Top Segunda Pele SkinUp caramelo em foto oficial da Toda Up, ao lado da pergunta SkinUp marca na roupa?
+- **Origem:** foto oficial da Toda Up, modelo adulta com o Top Segunda Pele SkinUp caramelo. O MAUAD não aparece na arte nem no alt. Sem geração por IA.
+- **Lote 25 do piloto de capas (sequência 8 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-8-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/toda-up/skinup-marca-na-roupa-capa.webp`) fica no CDN, sem uso como capa.
