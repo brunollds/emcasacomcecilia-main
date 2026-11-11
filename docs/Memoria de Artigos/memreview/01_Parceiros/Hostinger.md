@@ -74,6 +74,7 @@ chamar de cupom; 20% só no primeiro período e sem somar com outros cupons.
 |---|---|---|---|
 | `/images/about/partners/hostinger-icon.png` | Símbolo "H" do SVG do logotipo do site oficial, em branco sobre o roxo da marca (`#673DE6`), baixado em 2026-10-19 | Página da loja, cards e imagem de compartilhamento | Identificação da marca |
 | `/images/logos/watermarks/hostinger.webp` | Silhueta do logotipo completo do mesmo SVG | Marca-d'água da página e dos cards | Identificação da marca |
+| `/images/logos/bolinhas/hostinger.png` | O "H" do SVG inline do cabeçalho de `https://www.hostinger.com/` (`span[data-icon-name="ic-logo-hostinger-24"] > svg`), salvo em 2026-11-11. Pintado de branco, em 512 × 512 transparente (72% do lado), sobre o roxo da marca no `background` (`#673DE6`) | Bolinha da home e de /reviews | Identificação da marca |
 
 Os logos estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo,
 conforme `docs/GUIA-MIDIA-EDITORIAL.md`.

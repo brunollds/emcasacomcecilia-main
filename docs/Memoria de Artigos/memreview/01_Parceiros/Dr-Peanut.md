@@ -70,6 +70,7 @@ conforme `docs/CONTRATO-ARTIGO-AFILIADO.md`.
 | `/images/about/partners/dr-peanut.png` | Logotipo enviado pelo Bruno em 2026-10-13, achatado sobre branco | Parceiros comerciais no `/sobre` | Identificação da marca parceira |
 | `/images/about/partners/dr-peanut-icon.png` | O mesmo logotipo, centralizado em 256 × 256 | Bolinha da home, chip e imagem de compartilhamento | Identificação da marca parceira |
 | `/images/logos/watermarks/dr-peanut.webp` | Silhueta do logotipo | Marca-d'água da página e dos cards | Identificação da marca parceira |
+| `/images/logos/bolinhas/dr-peanut.png` | Logo do cabeçalho do site (`https://www.drpeanut.com.br/dr-peanut-logo.png`, 600 × 338), baixado em 2026-11-11. Recortado o amendoim que pende da faixa "DR. PEANUT", sem o contorno branco, ampliado 4,8×, em 512 × 512 transparente (92% da altura) | Bolinha da home e de /reviews | Identificação da marca parceira |
 
 Os logos estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo,
 conforme `docs/GUIA-MIDIA-EDITORIAL.md`.

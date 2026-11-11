@@ -73,3 +73,9 @@ revisao_geral_ate: "2026-09-01"
 - `sleeptest-i-wanna-sleep-como-funciona`
 - `cupom-ceciemcasa-i-wanna-sleep-como-usar`
 - `black-friday-i-wanna-sleep` (publicado em 10/10/2026, PR #50)
+
+## Mídia da Marca
+
+| Arquivo | Origem | Uso | Licença |
+|---|---|---|---|
+| `/images/logos/bolinhas/i-wanna-sleep.png` | Logo do cabeçalho do site (`https://www.iwannasleep.com.br/cdn/shop/files/LOGO_CMYK.png?v=1672156674`, 2592 × 1111), baixado em 2026-11-11. Recortado o "iws" de cima, sem a linha "I wanna sleep", em 512 × 512 transparente (98% da largura) | Bolinha da home e de /reviews | Identificação da marca parceira |

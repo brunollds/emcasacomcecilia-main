@@ -67,6 +67,7 @@ Teste mensal: pela tela "Finalizar compra".
 | `/images/about/partners/holyfoods.png` | Logo oficial verde-escuro (PNG do cabeçalho do site), 340 × 98, fundo transparente | Parceiros comerciais no `/sobre` | Identificação da marca parceira |
 | `/images/about/partners/holyfoods-icon.png` | Logo oficial centralizado em 256 × 256 sobre branco | Bolinha da home, chip e imagem de compartilhamento | Identificação da marca parceira |
 | `/images/logos/watermarks/holyfoods.webp` | Logo oficial, 480 × 139, fundo transparente | Marca-d'água da página e dos cards | Identificação da marca parceira |
+| `/images/logos/bolinhas/holyfoods.png` | Símbolo oficial, os dois "o" com o sorriso (`https://holyfoods.com.br/cdn/shop/files/Prancheta_1_831ea882-0509-4895-8e8b-7c9a0f213d81.png?v=1748388403`, o favicon do site, 1000 × 1000), baixado em 2026-11-11. Pintado com o verde do fundo do favicon, em 512 × 512 transparente (88% da largura) | Bolinha da home e de /reviews | Identificação da marca parceira |
 
 Os logos estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo,
 conforme `docs/GUIA-MIDIA-EDITORIAL.md`.
