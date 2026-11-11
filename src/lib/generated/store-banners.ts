@@ -211,7 +211,7 @@ export const storeBannersData: StoreBanner[] = [
   {
     "id": "holyfoods-1111-2026",
     "affiliate": "holyfoods",
-    "slot": "mid",
+    "slot": "top",
     "endsAt": "2026-11-12T23:59:59-03:00",
     "href": "https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
     "art": {
@@ -230,7 +230,7 @@ export const storeBannersData: StoreBanner[] = [
   {
     "id": "holyfoods-black-2026",
     "affiliate": "holyfoods",
-    "slot": "top",
+    "slot": "mid",
     "href": "https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
     "art": {
       "kind": "bag"
