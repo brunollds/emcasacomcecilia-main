@@ -7,6 +7,7 @@ import {
   getStoreArticlePageSlugs,
   getStoreArticlesPage,
   getStoreArticlesPath,
+  getStoreMark,
   hasArticlesPage,
   sortStoresByNewestArticle,
   type StoreReview,
@@ -160,8 +161,7 @@ function toShelfStore(store: Coupon, total: number): ShelfStore {
   return {
     slug: store.slug,
     brand: store.brand,
-    logo: store.brandLogo ? resolveMediaUrl(store.brandLogo) : undefined,
-    initials: store.brandIcon,
+    ...getStoreMark(store),
     total,
     href: getStoreArticlesPath(store.slug),
     countLabel: countLabel(total),

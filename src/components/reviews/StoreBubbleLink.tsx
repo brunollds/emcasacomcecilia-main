@@ -27,7 +27,7 @@ export function StoreBubbleLink({ store, index, placement }: { store: ShelfStore
         ref={diskRef}
         className="bolinha-disco relative flex size-16 items-center justify-center overflow-hidden rounded-full bg-creme shadow-[0_0_0_2px_var(--color-marinho)] group-hover:shadow-[0_0_0_4px_var(--color-amarelo-cupom),0_0_0_6px_var(--color-marinho)] md:size-20"
       >
-        <ShelfStoreMark store={store} imageClassName="bolinha-logo h-[53%] w-[74%]" sizes="60px" />
+        <ShelfStoreMark store={store} imageClassName="h-[53%] w-[74%]" sizes="60px" tilt />
       </span>
       <span className="text-center text-xs leading-tight font-bold">{store.brand}</span>
       <span className="text-[11px] font-semibold text-marinho-suave">{store.countLabel}</span>
