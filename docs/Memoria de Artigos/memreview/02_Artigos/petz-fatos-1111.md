@@ -101,6 +101,7 @@ física entra no artigo (a nota é outra).
 | O cupom que deixa o pedido abaixo do mínimo tira o frete grátis; com entregas separadas, o frete grátis vale numa delas | politicafretegratis |
 | Retire na Loja: 5% de desconto em compras acima de R$ 199, só no Centro-Oeste, Sul e Sudeste; retirar depois do aviso por e-mail ou WhatsApp, em até 28 dias | politica-de-entrega |
 | Pela regra de "como comprar", o desconto de retirada é a exceção que soma com outro desconto | como comprar |
+| Teste de 11/11, à tarde (navegador do app, sem login, sem finalizar; CEP público da Av. Paulista, loja Petz Alameda Santos): 2 × ração Golden Fórmula Senior Frango e Arroz 15 kg a R$ 189,99 = R$ 379,98. Só com o Retire na Loja: "Total de descontos" −R$ 19,00, total R$ 360,98. Com o EMCASA por cima: −R$ 55,10, total R$ 324,88. Os 10% do cupom saem primeiro (R$ 341,98) e os 5% da retirada saem do que sobra. A sacola mostra o "+5% OFF" na opção Retire na Loja e o "✓ EMCASA" no campo de cupom | teste próprio |
 | Entrega padrão em até 3 dias úteis em algumas regiões; Entrega Expressa em poucas horas, por região, sem boleto; atraso da expressa devolve o frete em dobro como crédito | politica-de-entrega |
 | Entregas de segunda a sexta, das 8h às 22h; duas tentativas; pode haver taxa de serviço no pedido online | politica-de-entrega |
 
@@ -142,7 +143,10 @@ para serviços nem assinatura e não soma com outros descontos. Fonte: pesquise-
 
 ## 10. O que não foi lido ou não foi testado
 
-- Se o EMCASA vale em serviço (banho e tosa, Seres, vacina) e se soma com o Retire na Loja: só pelo teste do Bruno.
+- Se o EMCASA vale em serviço (banho e tosa, Seres, vacina): as páginas de banho e tosa e da Seres não falam de cupom, e o
+  agendamento pede login. O FAQ do banho e tosa diz: "Quando há mais de um desconto disponível, é sempre aplicado o mais
+  vantajoso para o cliente. As ofertas não são acumulativas." Só o teste do Bruno responde.
+- O EMCASA soma com o Retire na Loja: testado em 11/11 (seção 5).
 - Se o EMCASA vale mais de uma vez por CPF fora da Black Friday.
 - Os preços da Black Friday item a item (o guia lê na semana do texto, no navegador).
 - O Reclame Aqui da loja física e as abas de 12 meses.

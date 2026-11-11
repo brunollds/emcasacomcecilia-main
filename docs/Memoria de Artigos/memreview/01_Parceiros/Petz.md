@@ -19,6 +19,7 @@ Cecília serve para a compra contar para a parceria.
 | Fato / Condição Comercial | Tipo | Fonte Canônica | Consultado Em | Rever Até | Escopo / Regras | Confiança |
 |---|---|---|---|---|---|---|
 | Cupom `EMCASA`: 10% OFF nas compras no site e no app | condicao_comercial_volatil | `src/lib/couponsData.ts` (slug: `petz`); parceiropetz.com.br ("cupom de 10% OFF válido em todas as compras no app e site") | 2026-11-11 | 2026-12-11 | Não soma com promoção: em cada item, a sacola fica com o desconto maior (teste de 11/11) | Alta |
+| O EMCASA soma com os 5% do Retire na Loja (compras acima de R$ 199 no Centro-Oeste, Sul e Sudeste): 2 rações de R$ 189,99, R$ 379,98 → R$ 324,88 (10% do cupom e 5% da retirada sobre o resto) | condicao_comercial_volatil | Teste de 11/11 na sacola (navegador do app, sem login); fatos em `02_Artigos/petz-fatos-1111.md` | 2026-11-11 | 2026-12-11 | A página `/cupons/petz` ainda não cita: é com a sessão de cupons | Alta |
 | Promoções, parcerias e descontos do site não são cumulativos, salvo desconto de retirada em loja e frete grátis | condicao_comercial_volatil | petz.com.br/institucional/como-comprar | 2026-11-11 | 2026-12-11 | A frase está na resposta sobre a assinatura; o teste confirmou o comportamento com o EMCASA | Alta |
 | O desconto da Assinatura Petz não soma com outros cupons | condicao_comercial_volatil | petz.com.br/institucional/assinatura-petz | 2026-11-11 | 2026-12-11 | O EMCASA entra nas compras avulsas | Alta |
 | Link da loja da Cecília: `https://petz.com.br/parceiro/emcasa` | condicao_comercial_volatil | Bruno, 11/11/2026; `offerUrl` em `src/lib/couponsData.ts` | 2026-11-11 | 2026-12-11 | Vai exatamente como veio. A sacola mostra "Você está comprando na loja emcasa do Parceiro Petz", mas o link não aplica o cupom. Os preços da loja que parecem ter 10% a menos são o preço "para assinantes" | Alta |
@@ -54,7 +55,7 @@ mensal: pelo Chrome.
 - O site não diz que o cupom vale nas lojas físicas: os textos falam só em site e app.
 - Farmácia veterinária (antipulgas, remédios): sem promessa de efeito; descrever o produto, o rótulo
   e o preço, e "na dúvida, o veterinário".
-- Reclame Aqui ainda não levantado (fica para o briefing de onboarding).
+- Reclame Aqui levantado em 11/11: `02_Artigos/petz-fatos-1111.md`, seção 2.
 
 ---
 
