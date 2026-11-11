@@ -180,3 +180,10 @@ loja costuma ser grátis; capa com o avatar da Lu; sem embargo.
 - Contas das faixas: geladeira Consul 377 L R$ 2.727,54 (Pix R$ 2.591,16) → 50; com o micro-ondas MEO44, R$ 3.376,54 (Pix R$ 3.207,71) → 60; Brastemp 512 L com a lavadora LEC15, R$ 5.892,63 (Pix R$ 5.598,00) → 100; geladeira DC35A R$ 2.298,40 (Pix R$ 2.160,50) → 40, contra R$ 225 do cupom do Magalu.
 - Trocas, retirada, frete e prazo: central de atendimento do Magalu, lida no navegador em 10/10/2026 ("Como funciona a Política de troca e devolução?", "Posso trocar um pedido de site na loja física?", "Como solicitar troca ou cancelamento?", "Quais são as opções de entrega disponíveis?", "Qual é a política de frete?", "Qual o prazo de entrega do meu pedido?", "Posso alterar a pessoa que vai retirar meu produto na loja?").
 - Fora do texto: códigos do Magalu e de vendedores, Reclame Aqui (bloqueado), regra de frete grátis do SuperApp (não confirmada no navegador), cartão Magalu e cashback.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/magalu/black-friday-magalu-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Lu, personagem virtual do Magalu, segura um celular com o logo da loja sobre fundo azul, em arte original da marca.
+- **Origem:** Lu, a personagem virtual da Magalu, em imagem oficial da marca, sem recorte nem redesenho (troca pedida e aprovada pelo Bruno no lugar da lavadora). Sem geração por IA.
+- **Lote 17 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/magalu/black-friday-magalu-capa-discover-v2.webp`) fica no CDN, sem uso como capa.

@@ -151,3 +151,10 @@ Pedido do Bruno, com a proposta do Farol em `docs/auditoria-copy-artigos/pp1-202
 - **Boston:** entrou no quadro de giro, com o preço conferido na página normal da Magalu.
 - **Imperial:** saiu do texto e da foto. Em 09/11, a página do ASIN mostrou R$ 820, contra R$ 2.128 da leitura da manhã, e o mecanismo não é identificável nesse anúncio.
 - **27/11:** a segunda leitura volta ao quadro da DAMIE e às tabelas por função.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/damie/poltrona-do-papai-black-friday-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Cecília reclinada na poltrona DAMIE Levita em couro caramelo na sala de casa, com apoio de pernas aberto.
+- **Origem:** foto própria da Cecília reclinada na poltrona DAMIE Levita em couro caramelo, orientação EXIF corrigida e recorte documentado, sem retoque. Sem geração por IA.
+- **Lote 17 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/damie/poltrona-do-papai-black-friday-capa.webp`) fica no CDN, sem uso como capa.

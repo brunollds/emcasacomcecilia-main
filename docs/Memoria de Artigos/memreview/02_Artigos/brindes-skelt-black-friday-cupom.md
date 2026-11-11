@@ -111,3 +111,10 @@ A regra é a do `docs/CAMPANHAS.md` para campanha que só vale com o nosso códi
 - **Capa:** `/images/reviews/skelt/brindes-skelt-black-friday-cupom-capa.webp`, 1600×900, `covers:render`, modelo "Guia ou produto". Topo: fotos oficiais da Skelt (as fichas dos dois produtos, com o fundo clareado). Faixa: logo, "Brindes Skelt com o cupom" e "Creme para mãos e Body Cream, só por 48 horas".
 - **Corpo:** na seção "O que vem em cada brinde", o Creme para Mãos Velvet Milano (foto oficial da ficha) e o Body Cream Mystic Bloom (foto oficial da ficha), as duas com o link do produto.
 - **Capa antiga:** artigo novo, sem capa antiga.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/skelt/brindes-skelt-black-friday-cupom-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Bisnaga do creme para mãos Velvet Milano da Skelt entre limões e creme, em imagem promocional oficial com a indicação Campanha encerrada.
+- **Origem:** foto oficial do creme para mãos Velvet Milano; a arte diz "Campanha encerrada" porque a promoção de 05 e 06/11 acabou, e a capa não promete brinde atual. Sem geração por IA.
+- **Lote 18 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/skelt/brindes-skelt-black-friday-cupom-capa.webp`) fica no CDN, sem uso como capa.

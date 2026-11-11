@@ -186,3 +186,10 @@ Com o OK do Bruno ("Pode subir a capa ao CDN"): entrada inserida no manifesto se
 - `npm run build` completo verde (sitemap com 385 URLs; `<head>` dos 60 artigos de família; o CECILIA010 conferido em 123 páginas), e depois `test-review-delivery-html`.
 - No HTML do build, as 10 versões têm o `lang` do idioma, a capa no CDN, o `FAQPage` com 10 perguntas, o canonical próprio e os hreflang dos 10 idiomas com x-default.
 - A promoção 1010VIBES de `data/coupons/yesstyle.json` vence em 12/10: o build para a partir das 21h de Brasília desse dia, até a oferta ser trocada (fora do escopo dos artigos).
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/yesstyle/black-friday-yesstyle-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Cecília com faixa rosa no cabelo segura caixas brancas, ao lado do logo YesStyle e do código de recompensa CECILIA010.
+- **Origem:** quadro próprio da Cecília com faixa rosa e caixas brancas, sem geração nem retoque de pessoa ou produto; "Reward Code: CECILIA010" na arte (código de recompensa, não cupom). Uma capa só para os 10 idiomas da família, com o alt de cada idioma. Sem geração por IA.
+- **Lote 18 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp`) fica no CDN, sem uso como capa.
