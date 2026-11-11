@@ -715,12 +715,13 @@ const STORE_COUPONS: Coupon[] = [
     lastVerified: '2026-10-24',
     limitedCodes: [
       {
-        code: 'CECIEMCASA15',
-        discount: '15% OFF',
-        startsAt: '2026-11-04T00:00:00-03:00',
-        endsAt: '2026-11-08T23:59:59-03:00',
-        testedAt: '2026-11-04',
-        testNote: 'deu 15% no carrinho inteiro, inclusive no kit em promoção',
+        // Cupom do 11.11 da loja, só no dia 11/11.
+        code: 'CECIEMCASA11',
+        discount: '11% OFF',
+        startsAt: '2026-11-11T00:00:00-03:00',
+        endsAt: '2026-11-11T23:59:59-03:00',
+        testedAt: '2026-11-11',
+        testNote: 'deu 11% no carrinho inteiro, inclusive no kit Pillow Top Magnum',
       },
       {
         // Upgrade de cupom da Black Friday da loja (26 e 27/11), com o mesmo código.
