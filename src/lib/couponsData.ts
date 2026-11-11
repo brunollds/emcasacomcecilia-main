@@ -103,8 +103,12 @@ export type CouponCodeOffer = CouponBase & {
   offerMode: 'discount-code';
   code: string;
   discountNumber: number;
-  // O que a equipe viu no teste de checkout mais recente; a data é o lastVerified. Com ele, a página
-  // diz "Cupom testado em" e ganha a seção "Como testamos o cupom".
+  // O último teste no carrinho: o dia (AAAA-MM-DD) e o que a equipe viu. Vão juntos e só mudam com teste
+  // real, quando a oferta, o percentual ou a elegibilidade mudam ou alguém avisa que o código falhou; o
+  // test:coupon-offer-modes avisa depois de 90 dias. A página ganha a seção "Como testamos o cupom". O
+  // lastVerified é outra data: a última conferência das condições, que pode ser na página da loja, no painel
+  // ou num aviso da marca, sem checkout.
+  testedAt?: string;
   testNote?: string;
   // O código vai num campo próprio do checkout e não é cupom (o CECILIA010 da YesStyle).
   codeKind?: 'reward';
@@ -206,6 +210,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable:
       'Soma com todas as promoções e descontos do site, inclusive os 10% do Pix e o desconto por quantidade dos consultores no WhatsApp; não soma com outro cupom nem com o giftback de 15%',
     lastVerified: '2026-10-24',
+    testedAt: '2026-10-24',
     testNote:
       'Aplicamos o CECILIA12 num carrinho com um braço intermediário da Linha Cinema, de R$ 200,00, e um brinde, e o total caiu para R$ 176,00: os 12% de desconto apareceram no carrinho, e o brinde continuou no pedido.',
     aboutBrand:
@@ -348,6 +353,7 @@ const STORE_COUPONS: Coupon[] = [
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Soma com as promoções vigentes da loja oficial',
     lastVerified: '2026-10-26',
+    testedAt: '2026-10-26',
     testNote:
       'Num carrinho de seis caixas de Cappuccino, de R$ 113,40, o CECI aplicou R$ 11,34 de desconto, os 10%, e o total caiu para R$ 102,06. Com o carrinho abaixo de R$ 100, a loja recusou o cupom.',
     aboutBrand:
@@ -605,6 +611,7 @@ const STORE_COUPONS: Coupon[] = [
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Soma com as promoções vigentes da loja oficial',
     lastVerified: '2026-10-26',
+    testedAt: '2026-10-26',
     testNote:
       'Num carrinho de R$ 283,78, com duas latas de Nutren Fortify, o CECI aplicou R$ 28,38 de desconto, os 10%, e o total caiu para R$ 255,40.',
     aboutBrand:
@@ -745,6 +752,7 @@ const STORE_COUPONS: Coupon[] = [
         testNote: 'deu 15% no carrinho inteiro, inclusive no kit em promoção',
       },
     ],
+    testedAt: '2026-10-24',
     testNote:
       'Aplicamos o CECIEMCASA num carrinho de R$ 6.163,00 com um box IWS Linen Gray e um kit Pillow Top Magnum, e o total caiu para R$ 5.546,70, com R$ 616,30 de desconto: os 10% valeram nos dois itens.',
     aboutBrand:
@@ -842,6 +850,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable:
       'Soma com as promoções vigentes da loja e com o desconto do Pix; confirme o valor no checkout',
     lastVerified: '2026-10-01',
+    testedAt: '2026-10-01',
     testNote:
       'Aplicamos os códigos no checkout da loja Magazine Você da Cecília, pelo navegador, em produtos vendidos e entregues pelo Magalu, e o desconto em reais da faixa alcançada apareceu no resumo do pedido.',
     aboutBrand:
@@ -971,6 +980,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable:
       'Soma com as promoções vigentes do site, inclusive em pré-venda (teste de 02/10/2026), e com o desconto de 5% do Pix; vale com todas as formas de pagamento; a soma com outros cupons segue as regras da loja',
     lastVerified: '2026-10-24',
+    testedAt: '2026-10-24',
     testNote:
       'O MAUAD foi aceito num faqueiro de 36 peças de R$ 577,89, que saiu por R$ 549,00, com R$ 28,89 de desconto; no teste de 02/10/2026, ele já tinha valido num carrinho com um item em pré-venda e outro com preço promocional.',
     aboutBrand:
@@ -1072,16 +1082,17 @@ const STORE_COUPONS: Coupon[] = [
       'O EMCASACOMCECILIA dá 15% OFF na loja online da Insider, sem valor mínimo, também sobre os preços de Black Friday, no Outlet e nos kits em promoção (testado em 31/10/2026); não vale em lançamentos nem na loja física.',
     metaTitle: 'Cupom Insider: 15% OFF com EMCASACOMCECILIA (nov/2026)',
     metaDescription:
-      'Cupom Insider testado em 31/10/2026: EMCASACOMCECILIA dá 15% OFF que soma com os preços de Black Friday e do Outlet, sem mínimo. Não vale em lançamentos.',
+      'Cupom Insider testado em 11/11/2026: EMCASACOMCECILIA dá 15% OFF que soma com os preços de Black Friday e do Outlet, sem mínimo. Não vale em lançamentos.',
     eligibleCategories: 'Produtos da loja online da Insider, exceto lançamentos',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable:
       'Soma com as promoções vigentes da loja online, inclusive os preços de Black Friday, o Outlet e os kits com preço promocional (testes de 05/10, 26/10 e 31/10/2026); não acumula com outro cupom: a loja aceita um cupom por pedido',
-    lastVerified: '2026-10-31',
+    lastVerified: '2026-11-11',
+    testedAt: '2026-11-11',
     testNote:
-      'Em 31/10/2026, no esquenta de Black Friday da Insider, o EMCASACOMCECILIA deu os 15% sobre o preço já reduzido: a Tech T-Shirt, de R$ 169,00 por R$ 129,00, saiu por R$ 109,65, e uma Calça Pantalona InLounge do Outlet, de R$ 299,00 por R$ 179,00, saiu por R$ 152,15. O checkout fechou em R$ 261,80 com o cupom aplicado. Em 26/10, o cupom também valeu numa cueca em promoção e, nos testes de outubro, numa meia sozinha no carrinho, sem valor mínimo.',
+      'No kit "Compre 1 Daily T-shirt e ganhe 1 Cueca Boxer Comfort", o carrinho sem cupom deu R$ 139,00, com a cueca grátis. Com o EMCASACOMCECILIA, o kit saiu por R$ 118,15: os 15% entraram e a cueca continuou grátis. No mesmo kit, o cupom da campanha da loja deu 5%, R$ 132,05. Em 31/10/2026, no esquenta de Black Friday da Insider, o EMCASACOMCECILIA deu os 15% sobre o preço já reduzido: a Tech T-Shirt, de R$ 169,00 por R$ 129,00, saiu por R$ 109,65, e uma Calça Pantalona InLounge do Outlet, de R$ 299,00 por R$ 179,00, saiu por R$ 152,15. O checkout fechou em R$ 261,80 com o cupom aplicado. Em 26/10, o cupom também valeu numa cueca em promoção e, nos testes de outubro, numa meia sozinha no carrinho, sem valor mínimo.',
     codeInstructions: [
       'Copie o código EMCASACOMCECILIA no card acima.',
       'Acesse a loja online da Insider pelo botão indicado: o link já leva o cupom para o carrinho.',
@@ -1378,6 +1389,7 @@ const STORE_COUPONS: Coupon[] = [
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
     lastVerified: '2026-10-26',
+    testedAt: '2026-10-26',
     testNote:
       'Aplicamos o PRO10EMCASACOMCECILIA num carrinho de R$ 337,58 com colágeno, creatina em promoção, camiseta e barra de proteína, e o pedido saiu por R$ 320,44, com R$ 17,14 de desconto: a creatina e a camiseta tiveram 10%, e o colágeno e a barra, 2%. O percentual varia por produto.',
     aboutBrand:
@@ -1487,6 +1499,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable:
       'Soma com as promoções vigentes do site e com os brindes do carrinho, e vale com todas as formas de pagamento',
     lastVerified: '2026-10-26',
+    testedAt: '2026-10-26',
     testNote:
       'Aplicamos o MAX10EMCASACOMCECILIA num carrinho com um Top Whey 3W 900 g em promoção, a R$ 189,00, mais outros wheys, creatina e pré-treino. O Top Whey saiu por R$ 172,25, com R$ 16,75 de desconto (8,9%), os outros itens tiveram 2%, e os brindes continuaram no carrinho. O percentual varia por produto.',
     aboutBrand:
@@ -1595,6 +1608,7 @@ const STORE_COUPONS: Coupon[] = [
       'Frete grátis quando o total, já com o cupom, chega a R$ 149,90 (aviso do carrinho em 13/10/2026); abaixo disso, conforme a política da loja',
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
     lastVerified: '2026-10-26',
+    testedAt: '2026-10-26',
     testNote:
       'Aplicamos o DREMCASACOMCECILIA num combo de três pastas de amendoim em promoção, de R$ 77,67 por R$ 68,35, e o desconto foi de R$ 6,84: os 10% valeram sobre o preço promocional, e o total caiu para R$ 61,51.',
     aboutBrand:
@@ -1686,6 +1700,7 @@ const STORE_COUPONS: Coupon[] = [
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
     lastVerified: '2026-10-24',
+    testedAt: '2026-10-24',
     testNote:
       'Aplicamos o CECILIA10 num carrinho de R$ 292,71 com um kit de 2 wheys em promoção, de R$ 139,80 por R$ 132,81, e um Whey 100% HD de R$ 159,90, e o pedido saiu por R$ 263,44, com R$ 29,27 de desconto: os 10% valeram nos dois itens, inclusive no que já estava em promoção.',
     aboutBrand:
@@ -1848,6 +1863,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable:
       'Soma com as promoções vigentes do site e com o cashback da loja, e vale com todas as formas de pagamento',
     lastVerified: '2026-10-24',
+    testedAt: '2026-10-24',
     testNote:
       'Aplicamos o CSEMCASACOMCECILIA num kit de 3 t-shirts em promoção, de R$ 387,00 por R$ 258,00, e o total caiu para R$ 232,20, com R$ 25,80 de desconto: os 10% valeram sobre o preço promocional.',
     aboutBrand:
@@ -1946,6 +1962,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable:
       'Soma com as promoções vigentes do site e com os 5% de desconto do Pix, e vale com todas as formas de pagamento',
     lastVerified: '2026-10-24',
+    testedAt: '2026-10-24',
     testNote:
       'Aplicamos o MAUAD num carrinho de R$ 201,89 com um combo de alimentos proteicos em oferta, de R$ 200,29 por R$ 178,99, e um pão de forma de R$ 22,90, e o desconto foi de R$ 20,19: o total caiu para R$ 181,70, com os 10% valendo também no combo em oferta.',
     codeInstructions: [
@@ -2054,6 +2071,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable:
       'Soma com as promoções vigentes do site e com os 3% de desconto do Pix, e vale com todas as formas de pagamento; não soma com outro cupom, como o crédito do cashback ou o desconto de boas-vindas',
     lastVerified: '2026-10-20',
+    testedAt: '2026-10-20',
     testNote:
       'Aplicamos o MMEMCASACOMCECILIA num carrinho de R$ 239,89 com um whey de R$ 159,99 e uma creatina em oferta, de R$ 79,90, e o desconto foi de R$ 23,99: o total caiu para R$ 215,90, com os 10% valendo também no item que já estava em oferta.',
     codeInstructions: [
@@ -2173,6 +2191,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable:
       'Soma com as promoções vigentes do site e com os 5% de desconto do Pix, e vale com todas as formas de pagamento; não soma com outro cupom, como o de primeira compra da loja',
     lastVerified: '2026-10-21',
+    testedAt: '2026-10-21',
     testNote:
       'Aplicamos o SKEMCASACOMCECILIA num carrinho com um body splash e um mousse autobronzeador, que já estavam com os 10% da promoção do site e somavam R$ 197,82, e o desconto foi de R$ 19,78: o total caiu para R$ 178,04, e no Pix a loja tirou mais 5%, para R$ 169,13.',
     codeInstructions: [
@@ -2291,6 +2310,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable:
       'Soma com as promoções vigentes do site, inclusive o Outlet, e com os 5% de desconto do Pix, e vale com todas as formas de pagamento; não soma com outro cupom, como o da promoção de 50% na 2ª peça',
     lastVerified: '2026-10-22',
+    testedAt: '2026-10-22',
     testNote:
       'Aplicamos o CECILIA10 num carrinho com uma mala de bordo Downtown do Outlet, que já estava de R$ 249,90 por R$ 179,90, e o desconto foi de R$ 17,99: o total caiu para R$ 161,91, e no Pix a loja tirou mais 5%, para R$ 153,81.',
     codeInstructions: [
@@ -2412,6 +2432,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable:
       'Soma com as promoções vigentes do site e vale nos produtos que já estão com desconto; no teste de 26/10/2026, somou também com o desconto automático por valor do carrinho que a loja tinha no ar',
     lastVerified: '2026-10-26',
+    testedAt: '2026-10-26',
     testNote:
       'Aplicamos o MAUAD num Sutiã Comfort Up em promoção, de R$ 199,90 por R$ 170,91, e o desconto foi de R$ 17,09: os 10% valeram sobre o preço promocional, e o total caiu para R$ 153,82. Num carrinho de R$ 360,81, o cupom somou com a promoção progressiva da loja: ela tirou 12%, o MAUAD tirou mais 10% do que sobrou, e o total ficou em R$ 285,78.',
     codeInstructions: [
@@ -2509,6 +2530,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable:
       'Soma com as promoções do site e vale nos kits: no teste de 03/11/2026, os 5% entraram sobre o preço promocional de todos os itens do carrinho',
     lastVerified: '2026-11-03',
+    testedAt: '2026-11-03',
     testNote:
       'Montamos um carrinho com o kit Rotina Pele Sensível (R$ 91,00), o Hidratante Facial Super Glow em promoção (R$ 27,00) e o Lip Combo People Colour a preço cheio (R$ 64,00). O S-EMCASACOMCECILIA tirou 5% de tudo, R$ 9,10, e o total caiu de R$ 182,00 para R$ 172,90. No mesmo dia, num carrinho com o Duo Antimanchas Noturno, o desconto também entrou sobre o preço promocional: R$ 70,90 viraram R$ 67,36.',
     codeInstructions: [
@@ -2598,6 +2620,7 @@ const STORE_COUPONS: Coupon[] = [
       'Frete grátis a partir de um valor mínimo que muda conforme o estado; o carrinho mostra quanto falta para a sua região, e o prazo aparece no checkout',
     combinable: 'Soma com as promoções do site, inclusive nos produtos que já estão com desconto, e vale com todas as formas de pagamento',
     lastVerified: '2026-11-05',
+    testedAt: '2026-11-05',
     testNote:
       'Aplicamos o EMCASA num carrinho de R$ 69,79 com um Pack Sopa da Vovó e duas Sopas Detox, todos já com desconto da loja, e o cupom tirou R$ 10,47: o total caiu para R$ 59,32, os 15% inteiros sobre o preço promocional.',
     codeInstructions: [
@@ -2704,6 +2727,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable:
       'Não soma com promoções: num produto já em oferta, a sacola mantém o desconto maior. Soma com os 5% do Retire na Loja, que a Petz dá em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste. O desconto da Assinatura Petz não soma com cupons',
     lastVerified: '2026-11-11',
+    testedAt: '2026-11-11',
     testNote:
       'Aplicamos o EMCASA numa sacola com uma ração Golden de R$ 22,99 e dois itens em promoção da Royal Canin: um sachê por R$ 9,90 (de R$ 10,99) e uma ração Maxi 12 kg por R$ 279,99 (de R$ 349,99). A Golden caiu para R$ 20,69; o sachê ficou com os 10% sobre o preço cheio, R$ 9,89; e a ração Maxi manteve os 20% da promoção.',
     codeInstructions: [
@@ -2805,6 +2829,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable:
       'Soma com as promoções da Hostinger: no teste de 29/10/2026, os 20% entraram sobre o preço de Black Friday; a soma com outros cupons não foi testada',
     lastVerified: '2026-10-29',
+    testedAt: '2026-10-29',
     testNote:
       'Aplicamos o SONAR20 no campo "Tem um cupom de desconto?" do carrinho da Hostinger com o plano Startup, que não entra no link de indicação. No período de 48 meses, o total foi de R$ 1.919,52 para R$ 1.535,62, R$ 383,90 a menos; no de 1 mês, de R$ 139,99 para R$ 111,99. Os dois deram 20% sobre o preço de Black Friday que a Hostinger já mostrava. No site global, em dólar, o mesmo plano de 48 meses caiu de US$ 383,52 para US$ 306,82.',
     codeFieldLabel: 'Tem um cupom de desconto?',

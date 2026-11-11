@@ -185,6 +185,27 @@ const untested = COUPONS.filter(
 ).map((coupon) => coupon.slug);
 assert.deepEqual(untested, [], `Lojas com código sem testNote: ${untested.join(', ')}`);
 
+// O teste no carrinho tem data própria (testedAt), que só muda com teste real. O lastVerified, a conferência das
+// condições, nunca é anterior a ele. Código perene sem teste há mais de 90 dias avisa, sem parar o build: o teste
+// volta quando a oferta muda, quando alguém avisa que o código falhou ou nesse prazo.
+const TEST_WARNING_DAYS = 90;
+const todayInBrasilia = new Date(Date.now() - 3 * 60 * 60 * 1000).toISOString().slice(0, 10);
+for (const coupon of COUPONS) {
+  if (coupon.offerMode !== 'discount-code') continue;
+  if (!coupon.testNote) {
+    assert.equal(coupon.testedAt, undefined, `${coupon.slug}: testedAt sem testNote`);
+    continue;
+  }
+  assert.match(coupon.testedAt ?? '', /^\d{4}-\d{2}-\d{2}$/, `${coupon.slug}: testNote sem testedAt (AAAA-MM-DD)`);
+  const testedAt = coupon.testedAt!;
+  assert.ok(testedAt <= coupon.lastVerified, `${coupon.slug}: lastVerified (${coupon.lastVerified}) antes do teste (${testedAt})`);
+  assert.ok(testedAt <= todayInBrasilia, `${coupon.slug}: teste no carrinho com data futura (${testedAt})`);
+  const days = Math.round((Date.parse(todayInBrasilia) - Date.parse(testedAt)) / 86_400_000);
+  if (coupon.status === 'ativo' && days > TEST_WARNING_DAYS) {
+    console.warn(`⚠️ ${coupon.slug}: último teste no carrinho em ${testedAt}, há ${days} dias; refaça o teste e troque testedAt e testNote.`);
+  }
+}
+
 // Hub /cupons: a DAMIE abre os Destaques por ser a maior receita, e a Dolce Gusto vem logo depois.
 const hub = getCouponHubSections();
 assert.deepEqual(

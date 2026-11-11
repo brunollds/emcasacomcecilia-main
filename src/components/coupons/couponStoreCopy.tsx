@@ -39,8 +39,7 @@ export type CouponStoreCopy = {
   noCodeToCopy: string;
   seeReferralCode: string;
   verifiedOn: (date: string) => string;
-  // Lojas com testNote: o recorte diz que o cupom foi testado, e a seção conta o teste.
-  testedOn: (date: string) => string;
+  // Lojas com testNote: a seção "Como testamos" conta o último teste no carrinho, com a data dele.
   testTitle: string;
   testedBy: (date: string) => string;
   highlight: {
@@ -117,7 +116,6 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     noCodeToCopy: 'Sem cupom para copiar: a oferta abre pelo link da Cecília.',
     seeReferralCode: 'Ver o código de indicação',
     verifiedOn: (date) => `Conferido em ${date}`,
-    testedOn: (date) => `Cupom testado em ${date}`,
     testTitle: 'Como testamos o cupom',
     testedBy: (date) => `Testado pela equipe do Em Casa com Cecília em ${date}.`,
     highlight: {
@@ -221,7 +219,6 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     noCodeToCopy: "No coupon to copy: the offer opens through Cecília's link.",
     seeReferralCode: 'See the referral code',
     verifiedOn: (date) => `Checked on ${date}`,
-    testedOn: (date) => `Coupon tested on ${date}`,
     testTitle: 'How we tested the coupon',
     testedBy: (date) => `Tested by the Em Casa com Cecília team on ${date}.`,
     highlight: {
@@ -323,7 +320,6 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     noCodeToCopy: 'Sin cupón que copiar: la oferta se abre con el enlace de Cecília.',
     seeReferralCode: 'Ver el código de referido',
     verifiedOn: (date) => `Comprobado el ${date}`,
-    testedOn: (date) => `Cupón probado el ${date}`,
     testTitle: 'Cómo probamos el cupón',
     testedBy: (date) => `Probado por el equipo de Em Casa com Cecília el ${date}.`,
     highlight: {
@@ -425,7 +421,6 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     noCodeToCopy: `Pas de code à copier${NBSP}: l'offre s'ouvre via le lien de Cecília.`,
     seeReferralCode: 'Voir le code de parrainage',
     verifiedOn: (date) => `Vérifié le ${date}`,
-    testedOn: (date) => `Code promo testé le ${date}`,
     testTitle: 'Comment nous avons testé le code promo',
     testedBy: (date) => `Testé par l'équipe d'Em Casa com Cecília le ${date}.`,
     highlight: {
@@ -530,7 +525,6 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     noCodeToCopy: 'Kein Code zum Kopieren: Das Angebot öffnet sich über Cecílias Link.',
     seeReferralCode: 'Empfehlungscode ansehen',
     verifiedOn: (date) => `Geprüft am ${date}`,
-    testedOn: (date) => `Gutschein getestet am ${date}`,
     testTitle: 'So haben wir den Gutschein getestet',
     testedBy: (date) => `Getestet vom Team von Em Casa com Cecília am ${date}.`,
     highlight: {
@@ -633,7 +627,6 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     noCodeToCopy: "Nessun coupon da copiare: l'offerta si apre con il link di Cecília.",
     seeReferralCode: 'Vedi il codice invito',
     verifiedOn: (date) => `Verificato il ${date}`,
-    testedOn: (date) => `Coupon testato il ${date}`,
     testTitle: 'Come abbiamo testato il coupon',
     testedBy: (date) => `Testato dal team di Em Casa com Cecília il ${date}.`,
     highlight: {
@@ -735,7 +728,6 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     noCodeToCopy: '복사할 쿠폰이 없습니다. Cecília의 링크로 혜택이 열립니다.',
     seeReferralCode: '추천 코드 보기',
     verifiedOn: (date) => `${date} 확인`,
-    testedOn: (date) => `${date} 쿠폰 테스트 완료`,
     testTitle: '쿠폰 테스트 방법',
     testedBy: (date) => `Em Casa com Cecília 팀이 ${date}에 테스트했습니다.`,
     highlight: {
@@ -835,7 +827,6 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     noCodeToCopy: 'コピーするクーポンはありません。Cecília のリンクからオファーが開きます。',
     seeReferralCode: '紹介コードを見る',
     verifiedOn: (date) => `${date}に確認`,
-    testedOn: (date) => `${date}にクーポンをテスト済み`,
     testTitle: 'クーポンのテスト方法',
     testedBy: (date) => `Em Casa com Cecília チームが${date}にテストしました。`,
     highlight: {
@@ -934,7 +925,6 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     noCodeToCopy: '無需複製優惠碼：優惠會透過 Cecília 的連結開啟。',
     seeReferralCode: '查看推薦碼',
     verifiedOn: (date) => `已於 ${date} 核實`,
-    testedOn: (date) => `已於 ${date} 測試優惠碼`,
     testTitle: '我們如何測試優惠碼',
     testedBy: (date) => `Em Casa com Cecília 團隊於 ${date} 測試。`,
     highlight: {
@@ -1034,7 +1024,6 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     noCodeToCopy: '无需复制优惠码：优惠会通过 Cecília 的链接打开。',
     seeReferralCode: '查看推荐码',
     verifiedOn: (date) => `已于 ${date} 核实`,
-    testedOn: (date) => `已于 ${date} 测试优惠码`,
     testTitle: '我们如何测试优惠码',
     testedBy: (date) => `Em Casa com Cecília 团队于 ${date} 测试。`,
     highlight: {

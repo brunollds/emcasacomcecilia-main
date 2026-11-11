@@ -112,12 +112,13 @@ function getStoreRules(store: Coupon, source: Coupon | undefined, locale: Coupon
   const copy = COUPON_STORE_COPY[locale];
   const articleCopy = getArticleCopy(locale);
   if (!source) return [];
-  const date = new Date(`${source.lastVerified}T12:00:00`).toLocaleDateString(copy.dateLocale, {
+  const testedAt = source.offerMode === 'discount-code' && source.testNote ? source.testedAt : undefined;
+  const date = new Date(`${testedAt ?? source.lastVerified}T12:00:00`).toLocaleDateString(copy.dateLocale, {
     day: 'numeric',
     month: 'long',
     year: 'numeric',
   });
-  const tested = source.offerMode === 'discount-code' && Boolean(source.testNote);
+  const tested = Boolean(testedAt);
   return [
     { label: copy.rules.eligible, value: source.eligibleCategories },
     { label: copy.rules.combinable, value: source.combinable },

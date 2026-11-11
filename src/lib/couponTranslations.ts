@@ -1468,6 +1468,7 @@ export const CODE_FIELD_POLICY = {
   referral: 'pt',
   code: 'pt',
   discountNumber: 'pt',
+  testedAt: 'pt',
   testNote: 'translate',
   codeKind: 'pt',
   codeFieldLabel: 'translate',
