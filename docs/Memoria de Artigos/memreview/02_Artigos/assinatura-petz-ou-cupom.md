@@ -7,9 +7,9 @@ parceiro_slug: "petz"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redação e teste da sacola em 11/11"
+status: "publicado"
+responsavel: "Job-2 (Claude Opus 5.5)"
+proxima_acao: "01/12: reler preços e regras depois da Black Friday e refazer tabelas e veredito (seção Publicação)"
 bloqueado_por: "-"
 data_criacao: "2026-11-11"
 i18n_cluster: null
@@ -130,3 +130,18 @@ com `href` da página dele na Petz. Fotos pelo navegador ou pelo Bruno.
 - **Teste:** sem login. Se a opção de assinatura pedir login, o preço "para assinantes" da página do produto (pergunta 1).
 - **Itens do teste:** fora das ofertas da campanha, para a conta mostrar os 10% dos dois. Um item em oferta da Black Friday entra só para mostrar que nem a assinatura nem o cupom mudam o preço dele (o capítulo 6 fica com a campanha no presente).
 - **Revisão:** 01/12, tirar a Black Friday do capítulo 6 e reler a conta.
+
+## Publicação (11/11/2026)
+
+- No ar em 11/11/2026, id 904: PR #870 (squash `b851a12c`), release `b851a12c` (deploy cef1304d, build 01a1ccbf), só PT. Smoke: a página com 200, título e og:image da capa no CDN, EMCASA e os links sponsored da Petz, nenhum link para a Cobasi ou a Petlove; `covers:check` 4/4; sitemap e llms.txt com os quatro; IndexNow no mesmo lote; captura 43113542018 aprovada pelo Bruno e verde.
+- Título: "Assinatura Petz ou cupom EMCASA: qual sai mais barato". seoTitle: "Assinatura Petz ou cupom: qual sai mais barato".
+- Preços e regras lidos durante a Black Friday, no CEP 01310-100, sem login e sem finalizar a compra; as legendas das tabelas dizem "durante a Black Friday", sem data. As leituras estão em [[petz-leituras-pz5-pz8-1111]].
+- Revisão externa (Farol, ChatGPT, com análises do GPT-6.1 Terra) em 11/11, em `docs/auditoria-copy-artigos/petz-pz5-pz8-revisao-farol-20261111/` (local, fora do git). Cada troca foi conferida contra as leituras por dois checadores antes de entrar; as decisões estão em `docs/auditoria-copy-artigos/petz-pz5-pz8-20261111/v2-apos-revisao/DECISOES-REVISAO.md`. Ficaram de fora do parecer: a data nas legendas das tabelas e "maio a outubro de 2026" no Reclame Aqui (decisão do Bruno: sem data no corpo) e o nome "Frango, Arroz e Vegetais" da Golden cães nas tabelas (a página da Petz diz "Frango e Arroz"; o alt da foto descreve o saco).
+- Pendente: 01/12: reler a página da assinatura (10%, frequências, cartão, preço vigente no pedido) e refazer a sacola sem login: EMCASA e assinatura, com e sem retirada; se a Black Friday tiver acabado, tirar a menção à campanha e trocar a areia em oferta da sacola por um item sem oferta.
+
+## Imagens (aprovadas pelo Bruno em 11/11/2026)
+
+- **Capa:** `/images/reviews/petz/assinatura-petz-ou-cupom-capa.webp` (`imageFit: contain`), 1600 × 900, no painel lateral do `docs/GUIA-CAPAS-EDITORIAIS.md` (painel verde de 550 px, logo da Petz, chamada e o EMCASA numa caixa branca), montada com o `renderizar.cjs` do lote 27 adaptado, em `docs/auditoria-copy-artigos/petz-pz5-pz8-20261111/capas/` (local, fora do git).
+- **Alt da capa:** Logo da Petz, pacote da ração Golden Fórmula e a chamada “Assinatura Petz ou cupom?” com o código EMCASA.
+- **A mesma sacola, de duas formas:** `/images/reviews/petz/assinatura-petz-ou-cupom-golden-formula-adultos.webp` (square). Alt: Pacote da ração Golden Fórmula Cães Adultos Frango, Arroz e Vegetais 15 kg, em foto da página do produto na Petz. Legenda: Foto: Petz.
+- **Origem:** foto oficial da página do produto na Petz, capturada no navegador do app em 11/11 na resolução original e recortada sobre fundo branco. Sem geração por IA; nada da Cobasi ou da Petlove nas imagens. Folha de aprovação em `docs/auditoria-copy-artigos/petz-pz5-pz8-20261111/v2-apos-revisao/FOLHA-APROVACAO-IMAGENS.html` (local, fora do git).

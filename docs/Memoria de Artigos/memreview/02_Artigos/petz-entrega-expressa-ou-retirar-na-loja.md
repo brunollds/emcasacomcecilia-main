@@ -7,9 +7,9 @@ parceiro_slug: "petz"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "teste da sacola no navegador em 11/11; redação"
+status: "publicado"
+responsavel: "Job-2 (Claude Opus 5.5)"
+proxima_acao: "01/12: reler preços e regras depois da Black Friday e refazer tabelas e veredito (seção Publicação)"
 bloqueado_por: "-"
 data_criacao: "2026-11-11"
 i18n_cluster: null
@@ -119,3 +119,18 @@ sacola só se não mostrar dado pessoal (sem login, CEP público).
 - **Um CEP só** (pergunta 2): o da Av. Paulista. O texto diz o que muda fora do CO, S e SE pela política, sem teste.
 - **Black Friday:** o Clubz Diamante tem frete grátis sem mínimo na campanha (regulamento); entra numa frase, se couber.
 - **Revisão:** 01/12, reler o checkout (prazo e frete da Expressa) e tirar a frase da campanha.
+
+## Publicação (11/11/2026)
+
+- No ar em 11/11/2026, id 907: PR #870 (squash `b851a12c`), release `b851a12c` (deploy cef1304d, build 01a1ccbf), só PT. Smoke: a página com 200, título e og:image da capa no CDN, EMCASA e os links sponsored da Petz, nenhum link para a Cobasi ou a Petlove; `covers:check` 4/4; sitemap e llms.txt com os quatro; IndexNow no mesmo lote; captura 43113542018 aprovada pelo Bruno e verde.
+- Título: "Entrega Expressa ou Retire na Loja na Petz: prazo, custo e desconto". seoTitle: "Petz: entrega expressa ou retirar na loja?".
+- Preços e regras lidos durante a Black Friday, no CEP 01310-100, sem login e sem finalizar a compra; as legendas das tabelas dizem "durante a Black Friday", sem data. As leituras estão em [[petz-leituras-pz5-pz8-1111]].
+- Revisão externa (Farol, ChatGPT, com análises do GPT-6.1 Terra) em 11/11, em `docs/auditoria-copy-artigos/petz-pz5-pz8-revisao-farol-20261111/` (local, fora do git). Cada troca foi conferida contra as leituras por dois checadores antes de entrar; as decisões estão em `docs/auditoria-copy-artigos/petz-pz5-pz8-20261111/v2-apos-revisao/DECISOES-REVISAO.md`. Ficaram de fora do parecer: a data nas legendas das tabelas e "maio a outubro de 2026" no Reclame Aqui (decisão do Bruno: sem data no corpo) e o nome "Frango, Arroz e Vegetais" da Golden cães nas tabelas (a página da Petz diz "Frango e Arroz"; o alt da foto descreve o saco).
+- Pendente: 01/12: refazer a sacola no CEP 01310-100 (Padrão, Expressa, Agendada e retirada: prazo, frete, taxa de serviço e total), tirar a frase do Clubz Diamante se a campanha tiver acabado e reler a política de entrega e o regulamento do Retire na Loja.
+
+## Imagens (aprovadas pelo Bruno em 11/11/2026)
+
+- **Capa:** `/images/reviews/petz/petz-entrega-expressa-ou-retirar-na-loja-capa.webp` (`imageFit: contain`), 1600 × 900, no painel lateral do `docs/GUIA-CAPAS-EDITORIAIS.md` (painel verde de 550 px, logo da Petz, chamada e o EMCASA numa caixa branca), montada com o `renderizar.cjs` do lote 27 adaptado, em `docs/auditoria-copy-artigos/petz-pz5-pz8-20261111/capas/` (local, fora do git).
+- **Alt da capa:** Pacote da areia Pipicat Classic, logo da Petz, a chamada “Expressa ou retirar na loja?” e a caixa com o código EMCASA.
+- **As quatro formas na mesma sacola:** `/images/reviews/petz/petz-entrega-expressa-areia-pipicat-classic.webp` (square). Alt: Pacote da areia Pipicat Classic 4 kg, em foto oficial da página do produto na Petz. Legenda: Areia Pipicat Classic 4 kg, um dos três itens da sacola de teste. Foto: Petz.
+- **Origem:** foto oficial da página do produto na Petz, capturada no navegador do app em 11/11 na resolução original e recortada sobre fundo branco. Sem geração por IA; nada da Cobasi ou da Petlove nas imagens. Folha de aprovação em `docs/auditoria-copy-artigos/petz-pz5-pz8-20261111/v2-apos-revisao/FOLHA-APROVACAO-IMAGENS.html` (local, fora do git).

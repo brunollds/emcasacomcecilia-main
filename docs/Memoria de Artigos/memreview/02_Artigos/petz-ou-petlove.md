@@ -7,9 +7,9 @@ parceiro_slug: "petz"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Lojas"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "preços das duas lojas no navegador em 11/11, junto com o PZ6; redação"
+status: "publicado"
+responsavel: "Job-2 (Claude Opus 5.5)"
+proxima_acao: "01/12: reler preços e regras depois da Black Friday e refazer tabelas e veredito (seção Publicação)"
 bloqueado_por: "-"
 data_criacao: "2026-11-11"
 i18n_cluster: null
@@ -114,3 +114,18 @@ Como no PZ6: só Petz (logo, produto da cesta e código), nada da Petlove.
 - **Plano de saúde fora** (pergunta 2): "plano petz ou petlove" não entra; serviço não foi testado.
 - **Preço de hoje:** como no PZ6; a resposta rápida e o veredito dizem que a tabela é da Black Friday.
 - **Revisão:** 01/12, reler os preços, a assinatura e o Clube Petlove e refazer as tabelas e o veredito.
+
+## Publicação (11/11/2026)
+
+- No ar em 11/11/2026, id 906: PR #870 (squash `b851a12c`), release `b851a12c` (deploy cef1304d, build 01a1ccbf), só PT. Smoke: a página com 200, título e og:image da capa no CDN, EMCASA e os links sponsored da Petz, nenhum link para a Cobasi ou a Petlove; `covers:check` 4/4; sitemap e llms.txt com os quatro; IndexNow no mesmo lote; captura 43113542018 aprovada pelo Bruno e verde.
+- Título: "Petz ou Petlove: preço, assinatura e entrega com o mesmo produto". seoTitle: "Petz ou Petlove: qual é melhor e qual sai mais barata".
+- Preços e regras lidos durante a Black Friday, no CEP 01310-100, sem login e sem finalizar a compra; as legendas das tabelas dizem "durante a Black Friday", sem data. As leituras estão em [[petz-leituras-pz5-pz8-1111]].
+- Revisão externa (Farol, ChatGPT, com análises do GPT-6.1 Terra) em 11/11, em `docs/auditoria-copy-artigos/petz-pz5-pz8-revisao-farol-20261111/` (local, fora do git). Cada troca foi conferida contra as leituras por dois checadores antes de entrar; as decisões estão em `docs/auditoria-copy-artigos/petz-pz5-pz8-20261111/v2-apos-revisao/DECISOES-REVISAO.md`. Ficaram de fora do parecer: a data nas legendas das tabelas e "maio a outubro de 2026" no Reclame Aqui (decisão do Bruno: sem data no corpo) e o nome "Frango, Arroz e Vegetais" da Golden cães nas tabelas (a página da Petz diz "Frango e Arroz"; o alt da foto descreve o saco).
+- Pendente: 01/12: reler a cesta na Petz e na Petlove (Petlove só no navegador: 403 no curl), com o preço do Clube; refazer as tabelas e os placares (sem clube 5, 1 e 1 em 7 itens; com clube 3, 1 e 1 em 5), a conta do Clube (R$ 9,99 e R$ 17,99) e o Repet; conferir se a Golden gatos segue com 10 kg na Petlove e se a Whiskas voltou; reler o Reclame Aqui dos dois perfis.
+
+## Imagens (aprovadas pelo Bruno em 11/11/2026)
+
+- **Capa:** `/images/reviews/petz/petz-ou-petlove-capa.webp` (`imageFit: contain`), 1600 × 900, no painel lateral do `docs/GUIA-CAPAS-EDITORIAIS.md` (painel verde de 550 px, logo da Petz, chamada e o EMCASA numa caixa branca), montada com o `renderizar.cjs` do lote 27 adaptado, em `docs/auditoria-copy-artigos/petz-pz5-pz8-20261111/capas/` (local, fora do git).
+- **Alt da capa:** Pacote da ração Royal Canin Medium Adult, logo da Petz, a chamada “Petz ou Petlove?” e o código EMCASA.
+- **Rações para cães:** `/images/reviews/petz/petz-ou-petlove-royal-canin-medium-adult.webp` (square). Alt: Pacote da ração Royal Canin Medium Adult 12 kg, em foto oficial da página do produto na Petz. Legenda: Foto: Petz.
+- **Origem:** foto oficial da página do produto na Petz, capturada no navegador do app em 11/11 na resolução original e recortada sobre fundo branco. Sem geração por IA; nada da Cobasi ou da Petlove nas imagens. Folha de aprovação em `docs/auditoria-copy-artigos/petz-pz5-pz8-20261111/v2-apos-revisao/FOLHA-APROVACAO-IMAGENS.html` (local, fora do git).

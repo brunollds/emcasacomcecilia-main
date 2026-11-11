@@ -45,6 +45,10 @@
 - [x] [[petz-e-confiavel]]: Petz é confiável? CNPJ, fusão com a Cobasi, entrega e trocas (só PT, id 901; PZ2, onboarding da Petz; no ar em 11/11/2026, PR #862, release `4d50b265`) 🚀
 - [x] [[petz-reclame-aqui-nota-reputacao]]: Petz no Reclame Aqui: nota, reputação e o que mais gera reclamação (só PT, id 902; PZ3, onboarding da Petz; no ar em 11/11/2026, PR #862, release `4d50b265`) 🚀
 - [x] [[black-friday-petz]]: Black Friday Petz 2026: regras, Clubz e quando o cupom ainda ajuda (só PT, id 903; PZ4, onboarding da Petz; no ar em 11/11/2026, PR #862, release `4d50b265`) 🚀
+- [x] [[assinatura-petz-ou-cupom]]: Assinatura Petz ou cupom EMCASA: qual sai mais barato (só PT, id 904; PZ5, Petz; no ar em 11/11/2026, PR #870, release `b851a12c`) 🚀
+- [x] [[petz-ou-cobasi]]: Petz ou Cobasi: qual é mais barata com o mesmo produto (só PT, id 905; PZ6, Petz; no ar em 11/11/2026, PR #870, release `b851a12c`) 🚀
+- [x] [[petz-ou-petlove]]: Petz ou Petlove: preço, assinatura e entrega com o mesmo produto (só PT, id 906; PZ7, Petz; no ar em 11/11/2026, PR #870, release `b851a12c`) 🚀
+- [x] [[petz-entrega-expressa-ou-retirar-na-loja]]: Entrega Expressa ou Retire na Loja na Petz: prazo, custo e desconto (só PT, id 907; PZ8, Petz; no ar em 11/11/2026, PR #870, release `b851a12c`) 🚀
 - [x] [[poltrona-do-papai-couro-ou-corino]]: Poltrona do papai de couro ou corino: qual escolher (só PT, id 891; PP4; no ar em 09/11/2026, release d5466fab) 🚀
 - [x] [[simple-organic-ou-principia]]: Simple Organic ou Principia: niacinamida, retinol, vitamina C e gel de limpeza (só PT, id 894; SO1; no ar em 10/11/2026, release f6d704ca) 🚀
 - [x] [[hostinger-ou-locaweb]]: Hostinger ou Locaweb: qual compensa no começo e na renovação? (só PT, id 892; H10; no ar em 10/11/2026, release 9488c72d) 🚀

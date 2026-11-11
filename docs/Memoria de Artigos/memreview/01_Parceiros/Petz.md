@@ -10,7 +10,9 @@ revisao_geral_ate: "2027-02-11"
 
 Parceria iniciada em 11/11/2026 pelo programa Parceiro Petz, com a página `/cupons/petz`. Os quatro
 artigos de onboarding foram ao ar no mesmo dia (release `4d50b265`): [[cupom-petz-como-usar]],
-[[petz-e-confiavel]], [[petz-reclame-aqui-nota-reputacao]] e [[black-friday-petz]]. A página fica na prateleira Diversos de `/cupons`. O foco é sempre o cupom: o link da loja da
+[[petz-e-confiavel]], [[petz-reclame-aqui-nota-reputacao]] e [[black-friday-petz]]. Os quatro
+seguintes, também em 11/11 (PR #870, release `b851a12c`): [[assinatura-petz-ou-cupom]], [[petz-ou-cobasi]],
+[[petz-ou-petlove]] e [[petz-entrega-expressa-ou-retirar-na-loja]], com as leituras em [[petz-leituras-pz5-pz8-1111]]. A página fica na prateleira Diversos de `/cupons`. O foco é sempre o cupom: o link da loja da
 Cecília serve para a compra contar para a parceria.
 
 ---
