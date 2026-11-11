@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
 anexo_tipo: "moda"
-status: "pronto-para-deploy"
+status: "no-ar"
 responsavel: "Claude"
-proxima_acao: "Deploy; reler preços e disponibilidade antes dele"
+proxima_acao: "nenhuma; no ar desde 08/11 (#759)"
 bloqueado_por: null
 data_criacao: "2026-11-08"
 i18n_cluster: null

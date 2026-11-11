@@ -6,9 +6,9 @@ parceiro: "[[Clea-Store]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Looks"
-status: "pronto-para-deploy"
+status: "no-ar"
 responsavel: "Claude"
-proxima_acao: "reler preços e grade antes do deploy"
+proxima_acao: "nenhuma; no ar desde 08/11 (#757)"
 bloqueado_por: null
 score_autoridade: 45
 score_conversao: 68
