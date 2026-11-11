@@ -141,7 +141,8 @@ const fixture: FixtureReview[] = [
   { ...review(11, 'em-ingles', { isNew: true }), locale: 'en' },
   review(12, 'escondido', { hideFromPortugueseListings: true }),
 ];
-const fixtureStores = [store('damie'), store('magalu')];
+// Sem a marca da bolinha: a estante de base confere o logo, e a marca própria entra no hubWithBubble.
+const fixtureStores = [store('damie'), store('magalu')].map((coupon) => ({ ...coupon, bubble: undefined }));
 const hub = getReviewsHubContent(fixture, fixtureStores);
 // A bolinha da estante leva a marca própria da loja (bubble) quando ela tem, como a da home.
 const hubWithBubble = getReviewsHubContent(

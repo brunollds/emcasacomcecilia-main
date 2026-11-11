@@ -1,5 +1,7 @@
 import { getHomeCopy } from '@/components/sections/homeCopy';
 import assert from 'node:assert/strict';
+import { existsSync } from 'node:fs';
+import { join } from 'node:path';
 
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
@@ -28,6 +30,7 @@ import {
   type StoreReview,
 } from '@/lib/homeStores';
 import { getListedPortugueseReviews, sortReviewsByPublishedAt } from '@/lib/reviewDiscovery';
+import mediaMap from '@/lib/generated/media-delivery-map.json';
 import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { reviewHasStore } from '@/lib/reviewStores';
@@ -128,9 +131,15 @@ assert.deepEqual(colorBubbleTab.bubble, { src: resolveMediaUrl('/images/teste/ma
 assert.equal(colorBubbleTab.logo, magaluTab.logo, 'o logo não muda com a bubble');
 const [creamBubbleTab] = getHomeStoreTabs(fixtureReviews, [bubbleStore({ src: '/images/teste/marca.png' })]);
 assert.deepEqual(creamBubbleTab.bubble, { src: resolveMediaUrl('/images/teste/marca.png') }, 'sem cor, o disco segue creme');
-for (const { slug, bubble } of COUPONS) {
+// Toda loja ativa tem a marca dela, e o arquivo está no repositório ou no mapa de entrega.
+for (const { slug, bubble, status } of COUPONS) {
+  if (status === 'ativo') assert.ok(bubble, `${slug}: loja ativa sem bubble`);
   if (!bubble) continue;
   assert.match(bubble.src, /^\/images\/.+\.(png|webp|svg)$/, `${slug}: bubble.src tem de ser imagem local com transparência`);
+  assert.ok(
+    existsSync(join(process.cwd(), 'public', bubble.src)) || bubble.src in mediaMap,
+    `${slug}: ${bubble.src} não está em public/ nem no mapa de entrega`,
+  );
   if (bubble.background !== undefined) assert.match(bubble.background, /^#[0-9a-f]{6}$/i, `${slug}: bubble.background em #rrggbb`);
 }
 
@@ -441,7 +450,8 @@ const bubbleHtml = (stripTab: HomeStoreTab) => {
   const at = html.indexOf(`id="loja-${stripTab.slug}"`);
   return decodeEntities(html.slice(at, html.indexOf('</button>', at)));
 };
-const logoBubbleHtml = bubbleHtml(magaluTab);
+const [logoOnlyTab] = getHomeStoreTabs(fixtureReviews, [bubbleStore(undefined)]);
+const logoBubbleHtml = bubbleHtml(logoOnlyTab);
 assert.ok(logoBubbleHtml.includes('class="relative bolinha-logo h-[53%] w-[74%]"'), 'sem bubble: a caixa do logo de sempre');
 assert.ok(!logoBubbleHtml.includes('background-color'), 'sem bubble: disco creme, sem cor');
 const colorBubbleHtml = bubbleHtml(colorBubbleTab);
