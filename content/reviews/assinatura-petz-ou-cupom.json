@@ -1,0 +1,174 @@
+{
+  "id": 904,
+  "slug": "assinatura-petz-ou-cupom",
+  "title": "Assinatura Petz ou cupom EMCASA: qual sai mais barato",
+  "seoTitle": "Assinatura Petz ou cupom: qual sai mais barato",
+  "type": "Comparativo",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Assinatura Petz e EMCASA dão 10% e não somam. Na mesma sacola, empataram em cada modalidade; veja o que muda no pagamento, na frequência e nas compras avulsas.",
+  "metaDescription": "EMCASA dá 10% OFF na Petz, o mesmo desconto da assinatura. Veja quando cada um compensa, com cartão, frequência, frete e retirada.",
+  "publishedAt": "11 de novembro de 2026",
+  "publishedAtISO": "2026-11-11",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/petz/assinatura-petz-ou-cupom-capa.webp",
+  "imageAlt": "Logo da Petz, pacote da ração Golden Fórmula e a chamada “Assinatura Petz ou cupom?” com o código EMCASA.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A assinatura Petz e o EMCASA dão 10% no site e no app e não somam. Na simulação, eles empataram quando comparados na mesma modalidade; a retirada reduziu os dois totais. Para escolher, veja se prefere programar compras no cartão ou comprar avulso com o código, sem definir uma frequência."
+      ]
+    },
+    {
+      "heading": "A mesma sacola, de duas formas",
+      "paragraphs": [
+        "O [cupom Petz](/cupons/petz) é o EMCASA, com 10% OFF nas compras no site e no app. A assinatura também dá 10%. No teste da sacola, sem login e sem finalizar a compra, a conta foi esta.",
+        "Primeiro, uma ração só: a Golden Fórmula Cães Adultos Frango e Arroz 15 kg, R$ 179,99 na sacola. Com o EMCASA, o total dos produtos foi R$ 161,99, com R$ 18,00 de desconto. Com a opção Assinar produto ligada e o EMCASA ainda no campo, o desconto continuou em R$ 18,00, agora com o nome Assinatura Petz. O cupom não entrou por cima."
+      ],
+      "image": {
+        "src": "/images/reviews/petz/assinatura-petz-ou-cupom-golden-formula-adultos.webp",
+        "alt": "Pacote da ração Golden Fórmula Cães Adultos Frango, Arroz e Vegetais 15 kg, em foto da página do produto na Petz",
+        "caption": "Foto: Petz.",
+        "objectFit": "square"
+      }
+    },
+    {
+      "heading": "Sacola com três produtos e retirada",
+      "paragraphs": [
+        "Depois, uma sacola com três produtos: a mesma ração de 15 kg, a Whiskas Gatos Castrados Carne 2,7 kg (R$ 49,99) e a areia Pipicat Classic 4 kg, em oferta de R$ 19,99 por R$ 14,99. Pelo preço cheio, os produtos somavam R$ 249,97. A tabela mostra o que a sacola descontou em cada forma de compra."
+      ],
+      "comparisonTable": {
+        "caption": "Sacola de três produtos, lida durante a Black Friday da Petz, sem login e sem finalizar a compra. Os totais são dos produtos, depois dos descontos, sem a taxa de serviço e sem o frete.",
+        "headers": [
+          "Forma na sacola",
+          "Descontos que aparecem",
+          "Total dos produtos"
+        ],
+        "rows": [
+          [
+            "EMCASA, compra única",
+            "Cupom −R$ 23,00 e produtos em oferta −R$ 5,00",
+            "R$ 221,97"
+          ],
+          [
+            "Assinatura Petz (Golden a cada 30 dias)",
+            "Assinatura −R$ 25,00 e adicionais −R$ 3,00",
+            "R$ 221,97"
+          ],
+          [
+            "EMCASA e Retire na Loja",
+            "Cupom −R$ 23,00, retirada −R$ 11,10 e produtos em oferta −R$ 5,00",
+            "R$ 210,87"
+          ],
+          [
+            "Assinatura Petz e Retire na Loja",
+            "Assinatura −R$ 25,00, retirada −R$ 11,10 e adicionais −R$ 3,00",
+            "R$ 210,87"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O cupom deu R$ 23,00: 10% da ração e 10% da Whiskas. A areia ficou em R$ 14,99 nas duas formas, porque a oferta de 25% vale mais que os 10%, e o cupom não entra nela.",
+        "Na simulação com a opção de assinatura ligada, a Whiskas, que não estava selecionada para assinatura, também levou os 10%. Com a retirada, os 5% da loja entraram nas duas formas, com R$ 11,10 de desconto. Na entrega padrão com o EMCASA, a taxa de serviço de R$ 5,90 entrou no resumo e a sacola fechou em R$ 227,87; na retirada, o resumo não mostrou essa taxa."
+      ]
+    },
+    {
+      "heading": "O que muda fora do preço",
+      "bullets": [
+        "**Pagamento.** A assinatura aceita só cartão de crédito. Se o cartão for recusado depois de algumas tentativas, a assinatura é cancelada. O EMCASA vale nas compras no site e no app, pelo que diz o programa Parceiro Petz, mas, na Black Friday, não entra em item que já está em oferta, como a areia do teste.",
+        "**Frequência.** A assinatura pede uma frequência: 30, 45, 60 ou 90 dias, ou uma personalizada. O cupom serve à compra avulsa, sem escolher frequência.",
+        "**Compras avulsas.** Enquanto a assinatura estiver ativa, os 10% valem também nas compras sem assinatura, no site e no app. Cancelada, o desconto das avulsas acaba junto.",
+        "**Sem taxa para sair.** Não há taxa, carência nem multa de cancelamento. Dá para pausar, trocar itens, mudar data, frequência e endereço, ou cancelar, em Minha Conta, em Minhas Assinaturas, ou no app.",
+        "**Sem outro cupom.** Na assinatura não entra outro cupom, e os combos ficam de fora.",
+        "**Regra que pode mudar.** A Petz diz que pode alterar a política de assinaturas sem aviso prévio."
+      ]
+    },
+    {
+      "heading": "Site, app e loja física",
+      "paragraphs": [
+        "A sacola traz um aviso que cita também as lojas físicas. A página oficial da assinatura fala só em site e app. Por isso, este texto não afirma que a assinatura vale no caixa de uma loja física.",
+        "O EMCASA segue a mesma linha: é código das compras no site e no app, como mostra o [passo a passo do cupom](/reviews/cupom-petz-como-usar)."
+      ]
+    },
+    {
+      "heading": "Frete e retirada",
+      "paragraphs": [
+        "Na entrega padrão, as páginas divergem sobre o frete grátis no Centro-Oeste. A política de frete diz acima de R$ 199 no Sul e no Sudeste, e acima de R$ 299 no Norte, no Nordeste e no Centro-Oeste. A página da assinatura põe o Centro-Oeste na faixa de R$ 199. Nessa região, confira o frete na sacola antes de pagar. Pela regra informada, o mínimo é contado depois do desconto do cupom.",
+        "A retirada soma com as duas formas. A loja dá 5% em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste, e o teste mostrou esse desconto com o EMCASA e com a assinatura. A regra de frete e de retirada do cupom está no [guia do EMCASA](/reviews/cupom-petz-como-usar)."
+      ]
+    },
+    {
+      "heading": "Promoção e Black Friday",
+      "paragraphs": [
+        "Item em promoção acima de 10% não muda com nenhum dos dois. Na sacola, ele fica com o preço da oferta, como a areia do teste.",
+        "Durante a Black Friday da Petz, o regulamento diz que a assinatura não soma com as ofertas da campanha, e que o cupom também não soma com elas. A sacola aplica o desconto maior. Fora da campanha, a assinatura dá 10% e não soma com cupom."
+      ]
+    },
+    {
+      "heading": "Quando a assinatura compensa",
+      "paragraphs": [
+        "Para quem compra o mesmo produto com frequência e usa cartão de crédito, a assinatura permite programar a repetição do pedido. Segundo a Petz, os 10% também valem nas compras avulsas enquanto a assinatura estiver ativa.",
+        "O preço do produto na assinatura é o vigente no site quando o pedido é gerado. Antes de cada compra, vale conferir o valor e as condições."
+      ]
+    },
+    {
+      "heading": "Quando o cupom compensa",
+      "paragraphs": [
+        "Quem compra de vez em quando ou não quer escolher uma frequência pode preferir a compra avulsa. Quem paga sem cartão de crédito não consegue assinar. Nesses casos, o EMCASA dá 10% nas compras no site e no app, sem exigir frequência.",
+        "Antes de pagar, compare as duas formas na mesma modalidade de entrega ou retirada. Se o total dos produtos empatar como na simulação, confira também frete e taxas; a escolha pode depender do pagamento e da frequência."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "A assinatura Petz é paga? Segundo a página oficial, não há taxa, carência nem multa de cancelamento. Você paga os produtos; a assinatura oferece 10% de desconto, e a validação de R$ 5 no cartão é estornada.",
+        "Dá para cancelar quando quiser? Sim, em Minha Conta, em Minhas Assinaturas, ou no app, sem multa de cancelamento.",
+        "O cupom EMCASA soma com a assinatura? Não. A assinatura não aceita outros cupons, e o desconto que fica na sacola é o da assinatura.",
+        "A assinatura vale na loja física? A página oficial fala só em site e app, e este texto não afirma que ela vale em loja física."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "Você quer programar compras recorrentes e usa cartão de crédito.",
+      "Você pretende manter uma assinatura ativa e usar os benefícios também nas compras avulsas."
+    ],
+    "skipIf": [
+      "Você prefere decidir cada compra e não quer programar uma frequência: o EMCASA atende à compra avulsa.",
+      "Você paga sem cartão de crédito, a única forma aceita para a assinatura."
+    ]
+  },
+  "cta": {
+    "text": "Entre pelo botão: ele abre a loja emcasa dentro da Petz, sem o código aplicado. O EMCASA vai no campo “Digite seu cupom” da sacola; a assinatura se liga item a item.",
+    "label": "Ir para a Petz",
+    "url": "https://petz.com.br/parceiro/emcasa",
+    "sponsored": true
+  },
+  "coupon": "EMCASA",
+  "affiliate": "petz",
+  "editorialNote": "Feito com as regras do site e um teste da sacola, sem finalizar a compra e sem uso dos produtos. Podemos receber comissão pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "cupom-petz-como-usar"
+    },
+    {
+      "slug": "black-friday-petz"
+    },
+    {
+      "slug": "petz-e-confiavel"
+    }
+  ]
+}

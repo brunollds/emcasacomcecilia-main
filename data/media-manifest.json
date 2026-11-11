@@ -102725,6 +102725,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/petz/assinatura-petz-ou-cupom-capa.webp",
+      "local_url": "/images/reviews/petz/assinatura-petz-ou-cupom-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 84724,
+      "sha256": "643058ebb0ca20b678411b30a1c25182181260d16eeae203a7023c59d23b95c8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "assinatura-petz-ou-cupom-capa.webp",
+      "storage_filename": "assinatura-petz-ou-cupom-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/assinatura-petz-ou-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/assinatura-petz-ou-cupom.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/petz/assinatura-petz-ou-cupom-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 213208,
+          "column": 15,
+          "literal": "/images/reviews/petz/assinatura-petz-ou-cupom-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/643058ebb0ca20b678411b30a1c25182181260d16eeae203a7023c59d23b95c8/assinatura-petz-ou-cupom-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/643058ebb0ca20b678411b30a1c25182181260d16eeae203a7023c59d23b95c8/assinatura-petz-ou-cupom-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T22:12:32.254Z",
+      "verification_etag_or_digest": "643058ebb0ca20b678411b30a1c25182181260d16eeae203a7023c59d23b95c8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/assinatura-petz-ou-cupom-golden-formula-adultos.webp",
+      "local_url": "/images/reviews/petz/assinatura-petz-ou-cupom-golden-formula-adultos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46192,
+      "sha256": "203f6c69cca24a08dbc5b94e8e73709664015d78fb8d748d79af4139205f57be",
+      "width": 698,
+      "height": 698,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "assinatura-petz-ou-cupom-golden-formula-adultos.webp",
+      "storage_filename": "assinatura-petz-ou-cupom-golden-formula-adultos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/assinatura-petz-ou-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/assinatura-petz-ou-cupom.json",
+          "line": 40,
+          "column": 17,
+          "literal": "/images/reviews/petz/assinatura-petz-ou-cupom-golden-formula-adultos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 213226,
+          "column": 19,
+          "literal": "/images/reviews/petz/assinatura-petz-ou-cupom-golden-formula-adultos.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/203f6c69cca24a08dbc5b94e8e73709664015d78fb8d748d79af4139205f57be/assinatura-petz-ou-cupom-golden-formula-adultos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/203f6c69cca24a08dbc5b94e8e73709664015d78fb8d748d79af4139205f57be/assinatura-petz-ou-cupom-golden-formula-adultos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T22:12:32.255Z",
+      "verification_etag_or_digest": "203f6c69cca24a08dbc5b94e8e73709664015d78fb8d748d79af4139205f57be",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/petz/black-friday-petz-banner-campanha.webp",
       "local_url": "/images/reviews/petz/black-friday-petz-banner-campanha.webp",
       "media_kind": "image",
@@ -103182,6 +103274,282 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T19:18:55.200Z",
       "verification_etag_or_digest": "ac1f21610784fd9aea79aee275595cff6a93bc95a18136a3cca929a84cdf2858",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/petz-entrega-expressa-areia-pipicat-classic.webp",
+      "local_url": "/images/reviews/petz/petz-entrega-expressa-areia-pipicat-classic.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39564,
+      "sha256": "70f80df192c6a95e60d2e54b7bd7aa4aac146b008c62ae6777d9b612816746b4",
+      "width": 818,
+      "height": 818,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "petz-entrega-expressa-areia-pipicat-classic.webp",
+      "storage_filename": "petz-entrega-expressa-areia-pipicat-classic.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/petz-entrega-expressa-ou-retirar-na-loja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/petz-entrega-expressa-ou-retirar-na-loja.json",
+          "line": 78,
+          "column": 19,
+          "literal": "/images/reviews/petz/petz-entrega-expressa-areia-pipicat-classic.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 213935,
+          "column": 21,
+          "literal": "/images/reviews/petz/petz-entrega-expressa-areia-pipicat-classic.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/70f80df192c6a95e60d2e54b7bd7aa4aac146b008c62ae6777d9b612816746b4/petz-entrega-expressa-areia-pipicat-classic.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/70f80df192c6a95e60d2e54b7bd7aa4aac146b008c62ae6777d9b612816746b4/petz-entrega-expressa-areia-pipicat-classic.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T22:12:32.255Z",
+      "verification_etag_or_digest": "70f80df192c6a95e60d2e54b7bd7aa4aac146b008c62ae6777d9b612816746b4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/petz-entrega-expressa-ou-retirar-na-loja-capa.webp",
+      "local_url": "/images/reviews/petz/petz-entrega-expressa-ou-retirar-na-loja-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 68852,
+      "sha256": "4e410eef0c1b95a71829d49b430854f4b57a8b937df95b61c25e245b55f2fde0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "petz-entrega-expressa-ou-retirar-na-loja-capa.webp",
+      "storage_filename": "petz-entrega-expressa-ou-retirar-na-loja-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/petz-entrega-expressa-ou-retirar-na-loja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/petz-entrega-expressa-ou-retirar-na-loja.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/petz/petz-entrega-expressa-ou-retirar-na-loja-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 213879,
+          "column": 15,
+          "literal": "/images/reviews/petz/petz-entrega-expressa-ou-retirar-na-loja-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4e410eef0c1b95a71829d49b430854f4b57a8b937df95b61c25e245b55f2fde0/petz-entrega-expressa-ou-retirar-na-loja-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4e410eef0c1b95a71829d49b430854f4b57a8b937df95b61c25e245b55f2fde0/petz-entrega-expressa-ou-retirar-na-loja-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T22:12:32.255Z",
+      "verification_etag_or_digest": "4e410eef0c1b95a71829d49b430854f4b57a8b937df95b61c25e245b55f2fde0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/petz-ou-cobasi-capa.webp",
+      "local_url": "/images/reviews/petz/petz-ou-cobasi-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 72132,
+      "sha256": "ea58685f585ef45dbcedc1f7ed2be105f6f8e6e9591eeea806e2ee45089ab9bb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "petz-ou-cobasi-capa.webp",
+      "storage_filename": "petz-ou-cobasi-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/petz-ou-cobasi.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/petz-ou-cobasi.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/petz/petz-ou-cobasi-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 213382,
+          "column": 15,
+          "literal": "/images/reviews/petz/petz-ou-cobasi-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ea58685f585ef45dbcedc1f7ed2be105f6f8e6e9591eeea806e2ee45089ab9bb/petz-ou-cobasi-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ea58685f585ef45dbcedc1f7ed2be105f6f8e6e9591eeea806e2ee45089ab9bb/petz-ou-cobasi-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T22:12:32.255Z",
+      "verification_etag_or_digest": "ea58685f585ef45dbcedc1f7ed2be105f6f8e6e9591eeea806e2ee45089ab9bb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/petz-ou-cobasi-golden-gatos-castrados.webp",
+      "local_url": "/images/reviews/petz/petz-ou-cobasi-golden-gatos-castrados.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38286,
+      "sha256": "96811e829d7659343b872bfdcc24283e8abbd6c7475360a71e04495d50f4f22e",
+      "width": 689,
+      "height": 689,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "petz-ou-cobasi-golden-gatos-castrados.webp",
+      "storage_filename": "petz-ou-cobasi-golden-gatos-castrados.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/petz-ou-cobasi.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/petz-ou-cobasi.json",
+          "line": 110,
+          "column": 19,
+          "literal": "/images/reviews/petz/petz-ou-cobasi-golden-gatos-castrados.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 213470,
+          "column": 21,
+          "literal": "/images/reviews/petz/petz-ou-cobasi-golden-gatos-castrados.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/96811e829d7659343b872bfdcc24283e8abbd6c7475360a71e04495d50f4f22e/petz-ou-cobasi-golden-gatos-castrados.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/96811e829d7659343b872bfdcc24283e8abbd6c7475360a71e04495d50f4f22e/petz-ou-cobasi-golden-gatos-castrados.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T22:12:32.255Z",
+      "verification_etag_or_digest": "96811e829d7659343b872bfdcc24283e8abbd6c7475360a71e04495d50f4f22e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/petz-ou-petlove-capa.webp",
+      "local_url": "/images/reviews/petz/petz-ou-petlove-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 75718,
+      "sha256": "d65161b387f1d8222343bd4c8f47d4b63534c2b01619e52b85f8e3919e202327",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "petz-ou-petlove-capa.webp",
+      "storage_filename": "petz-ou-petlove-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/petz-ou-petlove.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/petz-ou-petlove.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/petz/petz-ou-petlove-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 213635,
+          "column": 15,
+          "literal": "/images/reviews/petz/petz-ou-petlove-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d65161b387f1d8222343bd4c8f47d4b63534c2b01619e52b85f8e3919e202327/petz-ou-petlove-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d65161b387f1d8222343bd4c8f47d4b63534c2b01619e52b85f8e3919e202327/petz-ou-petlove-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T22:12:32.255Z",
+      "verification_etag_or_digest": "d65161b387f1d8222343bd4c8f47d4b63534c2b01619e52b85f8e3919e202327",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/petz-ou-petlove-royal-canin-medium-adult.webp",
+      "local_url": "/images/reviews/petz/petz-ou-petlove-royal-canin-medium-adult.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40594,
+      "sha256": "7df9bcb0c7e33331af912c1ed533c1a2368ed3d050429b155063b4a444bd3746",
+      "width": 697,
+      "height": 697,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "petz-ou-petlove-royal-canin-medium-adult.webp",
+      "storage_filename": "petz-ou-petlove-royal-canin-medium-adult.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/petz-ou-petlove.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/petz-ou-petlove.json",
+          "line": 78,
+          "column": 19,
+          "literal": "/images/reviews/petz/petz-ou-petlove-royal-canin-medium-adult.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 213691,
+          "column": 21,
+          "literal": "/images/reviews/petz/petz-ou-petlove-royal-canin-medium-adult.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7df9bcb0c7e33331af912c1ed533c1a2368ed3d050429b155063b4a444bd3746/petz-ou-petlove-royal-canin-medium-adult.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7df9bcb0c7e33331af912c1ed533c1a2368ed3d050429b155063b4a444bd3746/petz-ou-petlove-royal-canin-medium-adult.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T22:12:32.255Z",
+      "verification_etag_or_digest": "7df9bcb0c7e33331af912c1ed533c1a2368ed3d050429b155063b4a444bd3746",
       "verification_status": "verified"
     },
     {
