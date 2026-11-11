@@ -24,6 +24,8 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
   - Presente: "presente amigo secreto masculino 50/100/150 reais".
 - **Descartadas:** "camiseta para trabalhar no sol" (a Insider não tem linha com proteção UV); Mirante (sem afiliação; entra na série "Insider ou X").
 - **Resultado:** IL1 a IL7 na Fila, seção 3, linha da Insider (GO do Bruno, 11/11). Nenhuma existia em `content/reviews`; a L14 da Let's Eat It entra na IL2.
+- **Topo do Google (11/11, uma busca por pauta, pela ferramenta de busca da sessão, que não é o google.com.br):** listas de marketplace e de portal no amigo secreto; receitas para tirar o amarelado na mancha de suor; páginas de anúncio do Mercado Livre e da Dafiti na camiseta que não amassa; blog do Mercado Livre e uma matéria do TecMundo no anti odor; sites de ranking (Busca Melhores, Guia o Melhor, Melhores para Comprar) e o my-best nas duas de cueca; categoria da Dafiti e produto da Centauro na calça de viagem. Nenhum teste independente e nenhuma página com a ficha e o preço lado a lado. A tabela com o que falta em cada busca está em [[insider-pautas-laterais-1111]].
+- **Briefings (11/11):** os sete em `02_Artigos`, com as linhas na seção 1 da Fila.
 
 ---
 
