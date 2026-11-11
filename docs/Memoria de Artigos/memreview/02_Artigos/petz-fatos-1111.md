@@ -142,6 +142,8 @@ para serviços nem assinatura e não soma com outros descontos. Fonte: pesquise-
 
 ## 10. O que não foi lido ou não foi testado
 
+- **Plano de saúde pet: o EMCASA não vale.** Teste do Bruno em 11/11/2026. Os outros serviços (banho e tosa, Seres,
+  vacina) seguem sem teste.
 - Se o EMCASA vale em serviço (banho e tosa, Seres, vacina): as páginas de banho e tosa e da Seres não falam de cupom, e o
   agendamento pede login. O FAQ do banho e tosa diz: "Quando há mais de um desconto disponível, é sempre aplicado o mais
   vantajoso para o cliente. As ofertas não são acumulativas." Só o teste do Bruno responde.
