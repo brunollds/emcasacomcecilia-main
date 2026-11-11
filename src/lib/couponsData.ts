@@ -2669,9 +2669,10 @@ const STORE_COUPONS: Coupon[] = [
     eligibleCategories: 'Produtos do site e do app da Petz; num item já em promoção, vale o desconto maior',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
-    shipping: 'O frete e o prazo aparecem na sacola depois do CEP; as regras de frete grátis ficam no site da Petz',
+    shipping:
+      'Frete grátis acima de R$ 199 no Sul e no Sudeste e acima de R$ 299 no Norte, no Nordeste e no Centro-Oeste (medicamentos: acima de R$ 199 em todo o Brasil); o prazo aparece na sacola depois do CEP',
     combinable:
-      'Não soma com promoções: num produto já em oferta, a sacola mantém o desconto maior. O desconto da Assinatura Petz também não soma com cupons',
+      'Não soma com promoções: num produto já em oferta, a sacola mantém o desconto maior. Soma com os 5% do Retire na Loja, que a Petz dá em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste. O desconto da Assinatura Petz não soma com cupons',
     lastVerified: '2026-11-11',
     testNote:
       'Aplicamos o EMCASA numa sacola com uma ração Golden de R$ 22,99 e dois itens em promoção da Royal Canin: um sachê por R$ 9,90 (de R$ 10,99) e uma ração Maxi 12 kg por R$ 279,99 (de R$ 349,99). A Golden caiu para R$ 20,69; o sachê ficou com os 10% sobre o preço cheio, R$ 9,89; e a ração Maxi manteve os 20% da promoção.',
@@ -2679,6 +2680,7 @@ const STORE_COUPONS: Coupon[] = [
       'Copie o código EMCASA no card acima.',
       'Entre na Petz pelo botão desta página e coloque os produtos na sacola.',
       'Na sacola, cole o código no campo "Digite seu cupom" e aplique.',
+      'No Centro-Oeste, no Sul e no Sudeste, em compras acima de R$ 199, escolha "Retire na Loja" para somar mais 5% OFF ao cupom.',
       'Confira a linha "Total de descontos" no resumo do pedido antes de ir para o pagamento.',
     ],
     aboutBrand:
@@ -2693,6 +2695,11 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O cupom soma com os produtos em promoção?',
         answer:
           'Não. No teste de 11/11/2026, um sachê em promoção por R$ 9,90 (de R$ 10,99) ficou com os 10% sobre o preço cheio, R$ 9,89, e uma ração com 20% OFF manteve o preço da promoção, R$ 279,99. Nos dois casos, a sacola ficou com o desconto maior.',
+      },
+      {
+        question: 'O cupom soma com o desconto do Retire na Loja?',
+        answer:
+          'Sim. A Petz dá 5% OFF para retirar o pedido na loja em compras acima de R$ 199, no Centro-Oeste, no Sul e no Sudeste, e esse desconto soma com o EMCASA. No teste de 11/11/2026, duas rações de R$ 189,99 (R$ 379,98) caíram para R$ 341,98 com o cupom e para R$ 324,88 com o cupom e a retirada.',
       },
       {
         question: 'Onde coloco o cupom na Petz?',
