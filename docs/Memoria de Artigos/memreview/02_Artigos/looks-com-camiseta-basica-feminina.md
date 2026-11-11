@@ -1,6 +1,6 @@
 ---
 titulo_provisorio: "Looks com camiseta básica feminina: com jeans, saia, alfaiataria e blazer, com peças da Cléa Store e da Insider"
-seo_title: "Looks com camiseta básica feminina, com cupom"
+seo_title: "Looks com camiseta básica feminina: jeans, saia e blazer"
 slug_sugerido: "looks-com-camiseta-basica-feminina"
 parceiro: "[[Clea-Store]] e [[Insider]]"
 category: "guias-praticos-utilidade"
@@ -28,7 +28,7 @@ status_i18n: "nao-aplicavel"
 
 Pedido do Bruno em 10/11/2026: modelar a ideia de um artigo da concorrente sobre looks com a Cléa, num formato mais limpo, com a Cléa e a Insider. Fatos em [[looks-com-camiseta-basica-feminina-fatos-1011]].
 
-**O que este artigo faz que o da concorrente não faz:** cada look leva o nome das peças, o link e o preço com o código, e só entra peça que a loja vende de fato, conferida no catálogo. A concorrente sugere peças que a Cléa não tem e não mostra preço.
+**O que este artigo faz que o da concorrente não faz:** cada look explica a combinação (proporção, cor e acabamento) e leva o nome das peças, o link e o preço com o código. Só entra peça que a loja vende de fato, conferida no catálogo. A concorrente sugere peças que a Cléa não tem e não mostra preço. O artigo é um guia de combinações que também deixa comprar as peças, nessa ordem (revisão externa de 11/11).
 
 ## 1. Portões
 
@@ -36,7 +36,7 @@ Pedido do Bruno em 10/11/2026: modelar a ideia de um artigo da concorrente sobre
 - [x] **Experiência própria:** nenhuma. Nada de "minha combinação favorita" nem de caimento visto no corpo. Tecido e modelagem pela ficha, ditos como da loja.
 - [x] **Canibalização:**
   - `camiseta-clea-store-e-boa`, `camiseta-feminina-insider-qual-escolher` e `clea-store-ou-hering-camiseta-feminina` respondem qual camiseta comprar. Este responde como usar. Uma tabela curta de camisetas e o link para eles, sem repetir tecido e kit.
-  - `look-trabalho-alfaiataria-feminina-clea-store` e `look-natal-reveillon-2026-clea-store` usam a calça de linho caqui e o colete bege. Aqui, outras combinações, e o link para os dois quando a ocasião for trabalho ou festa.
+  - `look-trabalho-alfaiataria-feminina-clea-store` e `look-natal-reveillon-2026-clea-store` usam a calça de linho caqui e o colete bege. Repetir uma peça pode; o que não se repete é a orientação. Quem procura trabalho, Natal ou Réveillon vai para o guia da ocasião.
 - [x] **Classe:** `guias-praticos-utilidade`.
 - [x] **i18n:** só PT. A SHEIN fica para uma família internacional à parte, sem a Cléa e sem a Insider (Bruno, 10/11).
 
@@ -48,7 +48,7 @@ Pedido do Bruno em 10/11/2026: modelar a ideia de um artigo da concorrente sobre
 
 ## 3. A tese, nesta ordem
 
-1. **A camiseta é a base.** Uma tabela curta com as camisetas das duas lojas: modelagem, tecido declarado e preço com o código. O kit de 3 da Cléa aparece como a forma mais barata por peça.
+1. **A camiseta é a base.** Uma tabela curta com as camisetas das duas lojas: modelagem, tecido declarado e preço com o código. O kit de 3 da Cléa aparece à parte, com o preço do kit e o por peça.
 2. **Com jeans:** camiseta oversized da Cléa com a calça barrel ou a wide leg da Cléa.
 3. **Com saia:** Tech T-Shirt da Insider com a saia midi Tokyo ou a maxi NYIN, também da Insider. A Cléa não vende saia de tecido plano (só a de crochê, a R$ 1.189,30): dizer isso só se a mistura das lojas precisar de explicação.
 4. **Com alfaiataria:** camiseta com a bermuda Kyoto ou a calça FutureForm da Insider, ou com o shorts de alfaiataria da Cléa. Trabalho com link para o artigo de trabalho, sem repetir.
@@ -58,14 +58,17 @@ Pedido do Bruno em 10/11/2026: modelar a ideia de um artigo da concorrente sobre
 
 ## 4. Regras
 
+- **A combinação vem antes do preço.** Cada capítulo diz, pela modelagem da ficha: camiseta por dentro ou solta, como equilibrar o volume (oversized com wide leg ou barrel, camiseta mais justa com saia ampla), cor de base e de contraste, blazer aberto ou fechado. É orientação de estilo geral, sem "eu usei" nem caimento visto no corpo. O card de estilo entrega essa orientação concreta, não frase genérica.
+- **Básicos do armário entram sem link:** a leitora pode montar o look com o que já tem (tênis, sandália, bolsa, cinto). As peças das parceiras entram com loja, preço e link.
 - **Só peça que a loja vende,** com link para a página dela. Se a releitura do dia tirar uma peça, o look troca de peça ou sai.
 - **Preço com o código** ([[feedback-comparativo-preco-com-cupom]]), do dia e de lista, como no CR1. Total do look só quando as peças são da mesma loja; look misto mostra um subtotal por loja.
+- **Kit não é preço de camiseta avulsa:** o total do look usa a camiseta avulsa. O kit aparece à parte, com o desembolso (o kit inteiro com o código) e o preço por peça ao lado, nunca só o por peça.
 - **Nenhuma conta de "X peças viram Y looks"** ([[feedback-sem-numeros-de-estoque]]), nenhum número de tamanhos disponíveis.
 - **Card de estilo em todo capítulo de look** ([[feedback-card-estilo-pre-requisito]]): `howTo`, `occasion` e `pairsWith`, peças da loja com `url` e `store`, básicos do armário sem `url`. O Job 4 põe o slug em `scripts/styling-required.json`.
 - **Tabelas por função** ([[feedback-tabelas-por-funcao]]): uma tabela de camisetas; cada look em tabela de até 4 colunas (peça, loja, preço com o código) ou só no card.
 - **Texto direto, sem prontuário:** até 2 datas no corpo, nenhuma em título, legenda ou FAQ; resposta rápida sem R$.
 - **metaDescription à mão** (o `checkSnippet` não vale sem `coupon`), com os dois códigos. Rascunho: "CSEMCASACOMCECILIA (10%) na Cléa e EMCASACOMCECILIA (15%) na Insider: looks com camiseta básica feminina com jeans, saia e blazer." Conferir os 155 caracteres.
-- **Insider:** o código não vale em lançamento, e é um cupom por pedido. **Cléa:** um voucher por pedido.
+- **Insider:** um cupom por pedido. A loja publica que o código não vale em lançamentos, mas a tag `lançamento` não serve de critério: no teste de 08/11, calças com a tag (FutureForm, Wide Leg UltraBold) levaram os 15% ([[Insider]], testes de carrinho). Conferir no carrinho cada peça escolhida e orientar a leitora a olhar a linha do código em cada item. **Cléa:** um voucher por pedido.
 
 ## 5. Esqueleto (PT)
 
@@ -76,14 +79,14 @@ Pedido do Bruno em 10/11/2026: modelar a ideia de um artigo da concorrente sobre
 5. **Camiseta com alfaiataria (shorts, bermuda e calça).**
 6. **Camiseta com blazer ou colete.**
 7. **Comprando nas duas lojas:** dois pedidos, os dois códigos e o frete.
-8. **Quadro `decision`:** "Leve o kit de 3 da Cléa se…", "Leve a Tech T-Shirt se…", "Passe se procura look de festa" (link para o de Natal).
+8. **Quadro `decision`:** "Leve o kit de 3 da Cléa se…", "Leve a Tech T-Shirt se…", "Passe este guia se procura look de Natal ou Réveillon" (com o link para o guia da ocasião no corpo, porque o quadro não leva markdown).
 9. **FAQ:** "Que calça usar com camiseta básica feminina?"; "Camiseta oversized combina com saia?"; "Qual camiseta usar com blazer?"; "Dá para usar o cupom da Cléa e o da Insider no mesmo look?" (dois pedidos); "O cupom vale na Black Friday?".
 
 ## 6. Links
 
 - **Internos:** `camiseta-clea-store-e-boa`, `camiseta-feminina-insider-qual-escolher`, `clea-store-ou-hering-camiseta-feminina`, `look-trabalho-alfaiataria-feminina-clea-store`, `look-natal-reveillon-2026-clea-store`, `black-friday-clea-store`, `black-friday-insider-feminino`, `/cupons/clea-store`, `/cupons/insider`.
 - **Volta:** os artigos de camiseta das duas lojas podem ganhar uma linha para este guia.
-- **Imagem:** capa com camisetas das duas lojas e os dois códigos (Job 6); fotos das peças nos capítulos, com `href` e `store`.
+- **Imagem:** capa com camisetas das duas lojas e os dois códigos (Job 6). Nos capítulos, de preferência uma composição com as peças do look lado a lado, montada com as fotos reais das lojas (sem IA no produto), além das fotos de produto com `href` e `store`.
 
 ## 7. Decisão técnica
 

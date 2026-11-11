@@ -5,7 +5,7 @@ Leituras de 10/11/2026, noite. Cléa pelas páginas de categoria (`/roupas`, 5 p
 - **Origem:** o Bruno gostou da ideia de um artigo da concorrente (cupomtiff, "como montar looks… Clea Store roupas") e pediu algo parecido, com a Cléa e a Insider juntas (10/11). A SHEIN fica para uma família internacional à parte, sem as duas.
 - **O que o artigo da concorrente não tem:** preço, link de peça e conferência de catálogo. Ele sugere peças que a Cléa não vende (jaqueta de couro, macacão, scarpin). Não copiar estrutura nem tabela de estrelas.
 - **Black Friday da Cléa:** quase todo o catálogo a 30% da lista (`sale_price` = lista × 0,7). O CSEMCASACOMCECILIA (10%) somou com a promoção e com o kit no teste de 14/10 ([[black-friday-clea-store]]); os termos dizem que o voucher não vale em remarcado "salvo exceção comunicada pela loja". Reconferir no carrinho.
-- **Insider:** EMCASACOMCECILIA, 15%, um cupom por pedido, não vale em lançamentos. Muitos itens com `compare_at_price` (promoção do dia). Somou com a Black Friday no teste anterior (memória da Insider; refazer em 27/11).
+- **Insider:** EMCASACOMCECILIA, 15%, um cupom por pedido. A loja publica que o código não vale em lançamentos, mas a tag `lançamento` não barrou o cupom no teste de 08/11 (calças FutureForm e Wide Leg UltraBold com 15%; ver [[Insider]]): conferir peça a peça no carrinho. Muitos itens com `compare_at_price` (promoção do dia). Somou com a Black Friday no teste anterior (memória da Insider; refazer em 27/11).
 - **Duas lojas, dois pedidos:** um look com peça de cada loja são dois carrinhos, dois códigos e dois fretes. Ler o frete grátis de cada uma antes de escrever.
 
 ## Autocompletar (10/11, presença, sem volume)
@@ -27,7 +27,7 @@ Preço do dia (lista) e com o código sobre o do dia (lista com o código).
 |---|---|---|---|---|
 | Camiseta Feminina Oversized de Algodão Penteado (`/produto/t-shirts-oversized-algodao-4189`) | Cléa | R$ 90,30 (R$ 129,00) | R$ 81,27 (R$ 116,10) | todas as variantes disponíveis |
 | Camiseta Feminina Comfort 100% Algodão Peruano (`/produto/camiseta-comfort-algodao-peruano-4434`) | Cléa | R$ 139,93 (R$ 199,90) | R$ 125,94 (R$ 179,91) | todas disponíveis |
-| Kit 3 Camisetas Oversized Classic (`/produto/kit-3-t-shirts-oversized-classic-3951`) | Cléa | R$ 199,00 (R$ 387,00) | R$ 179,10, R$ 59,70 por peça | parte esgotada |
+| Kit 3 Camisetas Oversized Classic (`/produto/kit-3-t-shirts-oversized-classic-3951`) | Cléa | R$ 199,00 (R$ 387,00) | kit inteiro R$ 179,10 (R$ 59,70 por peça); não é preço de camiseta avulsa | parte esgotada |
 | Kit 3 Camisetas "Monte seu kit" (`/produto/kit-3-t-shirts-essenciais-monte-seu-kit-4229`) | Cléa | lista R$ 387,00; o `sale_price` lido (R$ 90,30) parece ser por peça | ler no navegador | — |
 | Tech T-Shirt® Feminina (`tech-t-shirt®-feminina-cores-selecionadas`) | Insider | R$ 99,00 (R$ 169,00) | R$ 84,15 (R$ 143,65) | — |
 | Tech T-Shirt® Gola V Feminina (`tech-t-shirt®-gola-v-feminina-cores-selecionadas`) | Insider | R$ 99,00 (R$ 169,00) | R$ 84,15 (R$ 143,65) | — |
