@@ -7,10 +7,10 @@ parceiro_slug: "petz"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "decisões do Bruno (perguntas em cupom-petz-como-usar); depois pauta-aprovada e sessão de artigos"
-bloqueado_por: "Bruno: pergunta 4 de cupom-petz-como-usar"
+proxima_acao: "redação"
+bloqueado_por: "-"
 data_criacao: "2026-11-11"
 i18n_cluster: null
 translationKey: null
@@ -71,3 +71,9 @@ o Bruno tiver, foto de uma loja física. Prints pelo navegador.
 - "Dono": a companhia é aberta; o fundador citado pelo RI é Sergio Zimerman. Não dizer que ele é "o dono".
 - Números do grupo (500 lojas, R$ 7,7 bi) são frase do RI; usar só se ajudarem a decisão, com a fonte.
 - O resultado do 3T26 sai em 12/11: não citar número financeiro.
+
+## Decisões do Bruno (11/11/2026)
+
+- **GO:** "pode seguir". Decisões completas no fim de [[cupom-petz-como-usar]].
+- **Pet em casa:** a equipe não tem. O veredito do item 10 vem das regras lidas e do teste da sacola, sem experiência com pet.
+- **Cupom:** se o texto citar o EMCASA, só nas compras do site e do app, que valem em todas as compras pelo programa Parceiro Petz. Nada sobre serviço.

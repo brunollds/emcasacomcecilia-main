@@ -7,10 +7,10 @@ parceiro_slug: "petz"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "decisões do Bruno; ler os preços da campanha no navegador na semana do texto; publicar antes de 27/11"
-bloqueado_por: "Bruno: GO do lote"
+proxima_acao: "redação; ler os preços da campanha no navegador na semana do texto; publicar antes de 27/11"
+bloqueado_por: "-"
 data_criacao: "2026-11-11"
 i18n_cluster: null
 translationKey: null
@@ -45,7 +45,8 @@ EMCASA ainda faz diferença: no item fora da campanha ou com oferta menor que 10
 4. Clubz na Black Friday: os níveis, os 5% em CashPetz do Ouro e do Diamante, o frete grátis do Diamante e o CashPetz
    Especial (R$ 25 e R$ 50, liberado em dezembro). Sem recomendar assinar o Clubz; mostrar a conta.
 5. Assinatura na Black Friday: não soma com as ofertas da campanha.
-6. Frete e retirada: faixas de R$ 199 e R$ 299, frete grátis que some quando o cupom baixa o pedido, Retire na Loja.
+6. Frete e retirada: faixas de R$ 199 e R$ 299, frete grátis que some quando o cupom baixa o pedido, Retire na Loja
+   (o EMCASA soma com os 5% da retirada, teste de 11/11).
 7. O que comprar com estoque: ração e areia são o grosso das reclamações por atraso (ligação com a PZ3): comprar com
    folga de prazo.
 8. Troca de compra da campanha: 7 dias, em qualquer loja Petz.
@@ -70,3 +71,10 @@ produto da tabela, pelo navegador.
 - Nada de "melhor preço do ano" sem comparação.
 - Antipulgas e remédio: sem promessa de efeito.
 - Banner de campanha da Petz (`content/campanhas/`) é outra frente; avisar a sessão de campanhas se o Bruno quiser.
+
+## Decisões do Bruno (11/11/2026)
+
+- **GO:** "pode seguir". Decisões completas no fim de [[cupom-petz-como-usar]].
+- **Pet em casa:** a equipe não tem. Nada de "o que compramos para o nosso cachorro"; a tabela do capítulo 3 é de preços lidos.
+- **Uso por CPF:** o regulamento da Black Friday diz que os cupons da campanha valem um uso por CPF, salvo comunicação diferente. O guia cita isso como regra da campanha e não aplica ao EMCASA, que vale em todas as compras no site e no app pelo programa Parceiro Petz.
+- **Serviços:** nada sobre banho e tosa, Seres ou vacina.
