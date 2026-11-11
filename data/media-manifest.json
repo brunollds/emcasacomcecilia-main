@@ -100765,6 +100765,420 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/petz/black-friday-petz-banner-campanha.webp",
+      "local_url": "/images/reviews/petz/black-friday-petz-banner-campanha.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25454,
+      "sha256": "9ada1a1304cb2c72aa292a5436c55c4c05a12c35e64aa6b61e35985179162c54",
+      "width": 800,
+      "height": 356,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-petz-banner-campanha.webp",
+      "storage_filename": "black-friday-petz-banner-campanha.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-petz.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-petz.json",
+          "line": 50,
+          "column": 19,
+          "literal": "/images/reviews/petz/black-friday-petz-banner-campanha.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 213002,
+          "column": 21,
+          "literal": "/images/reviews/petz/black-friday-petz-banner-campanha.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9ada1a1304cb2c72aa292a5436c55c4c05a12c35e64aa6b61e35985179162c54/black-friday-petz-banner-campanha.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9ada1a1304cb2c72aa292a5436c55c4c05a12c35e64aa6b61e35985179162c54/black-friday-petz-banner-campanha.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:18:55.199Z",
+      "verification_etag_or_digest": "9ada1a1304cb2c72aa292a5436c55c4c05a12c35e64aa6b61e35985179162c54",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/black-friday-petz-capa.webp",
+      "local_url": "/images/reviews/petz/black-friday-petz-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43916,
+      "sha256": "60d80bde7969df8600e0b66335a8ade0739f01944476fd32c601de0dbb7df25f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-petz-capa.webp",
+      "storage_filename": "black-friday-petz-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-petz.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-petz.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/petz/black-friday-petz-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 212975,
+          "column": 15,
+          "literal": "/images/reviews/petz/black-friday-petz-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/60d80bde7969df8600e0b66335a8ade0739f01944476fd32c601de0dbb7df25f/black-friday-petz-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/60d80bde7969df8600e0b66335a8ade0739f01944476fd32c601de0dbb7df25f/black-friday-petz-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:18:55.200Z",
+      "verification_etag_or_digest": "60d80bde7969df8600e0b66335a8ade0739f01944476fd32c601de0dbb7df25f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/black-friday-petz-sache-royal-canin-instinctive.webp",
+      "local_url": "/images/reviews/petz/black-friday-petz-sache-royal-canin-instinctive.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31710,
+      "sha256": "d2ba3dfdcbc72e08dad6987ae1f20657580def62e61c0568148e43e4a0dd87b7",
+      "width": 684,
+      "height": 684,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-petz-sache-royal-canin-instinctive.webp",
+      "storage_filename": "black-friday-petz-sache-royal-canin-instinctive.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-petz.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-petz.json",
+          "line": 97,
+          "column": 19,
+          "literal": "/images/reviews/petz/black-friday-petz-sache-royal-canin-instinctive.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 213049,
+          "column": 21,
+          "literal": "/images/reviews/petz/black-friday-petz-sache-royal-canin-instinctive.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d2ba3dfdcbc72e08dad6987ae1f20657580def62e61c0568148e43e4a0dd87b7/black-friday-petz-sache-royal-canin-instinctive.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d2ba3dfdcbc72e08dad6987ae1f20657580def62e61c0568148e43e4a0dd87b7/black-friday-petz-sache-royal-canin-instinctive.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:18:55.200Z",
+      "verification_etag_or_digest": "d2ba3dfdcbc72e08dad6987ae1f20657580def62e61c0568148e43e4a0dd87b7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/cupom-petz-como-usar-capa.webp",
+      "local_url": "/images/reviews/petz/cupom-petz-como-usar-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38824,
+      "sha256": "a58d07b6a095534d14c694d7f9b0ec6072849ac470eec2803ba55410ca1dd28b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-petz-como-usar-capa.webp",
+      "storage_filename": "cupom-petz-como-usar-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-petz-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-petz-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/petz/cupom-petz-como-usar-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 212217,
+          "column": 15,
+          "literal": "/images/reviews/petz/cupom-petz-como-usar-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a58d07b6a095534d14c694d7f9b0ec6072849ac470eec2803ba55410ca1dd28b/cupom-petz-como-usar-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a58d07b6a095534d14c694d7f9b0ec6072849ac470eec2803ba55410ca1dd28b/cupom-petz-como-usar-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:18:55.200Z",
+      "verification_etag_or_digest": "a58d07b6a095534d14c694d7f9b0ec6072849ac470eec2803ba55410ca1dd28b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/cupom-petz-como-usar-royal-canin-maxi.webp",
+      "local_url": "/images/reviews/petz/cupom-petz-como-usar-royal-canin-maxi.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40106,
+      "sha256": "e52df9f051a02981f35065eee40544e04988bb2972a665ef526aec9c4bca3254",
+      "width": 715,
+      "height": 715,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-petz-como-usar-royal-canin-maxi.webp",
+      "storage_filename": "cupom-petz-como-usar-royal-canin-maxi.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-petz-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-petz-como-usar.json",
+          "line": 99,
+          "column": 19,
+          "literal": "/images/reviews/petz/cupom-petz-como-usar-royal-canin-maxi.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 212294,
+          "column": 21,
+          "literal": "/images/reviews/petz/cupom-petz-como-usar-royal-canin-maxi.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e52df9f051a02981f35065eee40544e04988bb2972a665ef526aec9c4bca3254/cupom-petz-como-usar-royal-canin-maxi.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e52df9f051a02981f35065eee40544e04988bb2972a665ef526aec9c4bca3254/cupom-petz-como-usar-royal-canin-maxi.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:18:55.200Z",
+      "verification_etag_or_digest": "e52df9f051a02981f35065eee40544e04988bb2972a665ef526aec9c4bca3254",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/petz-e-confiavel-capa.webp",
+      "local_url": "/images/reviews/petz/petz-e-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50784,
+      "sha256": "7b6d70ba8f16a13c1add7dad2470f354ae84a7d9cd109b8f08c9e1ea30ec1b2b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "petz-e-confiavel-capa.webp",
+      "storage_filename": "petz-e-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/petz-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/petz-e-confiavel.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/petz/petz-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 212445,
+          "column": 15,
+          "literal": "/images/reviews/petz/petz-e-confiavel-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7b6d70ba8f16a13c1add7dad2470f354ae84a7d9cd109b8f08c9e1ea30ec1b2b/petz-e-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7b6d70ba8f16a13c1add7dad2470f354ae84a7d9cd109b8f08c9e1ea30ec1b2b/petz-e-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:18:55.200Z",
+      "verification_etag_or_digest": "7b6d70ba8f16a13c1add7dad2470f354ae84a7d9cd109b8f08c9e1ea30ec1b2b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/petz-e-confiavel-site-oficial-rodape.webp",
+      "local_url": "/images/reviews/petz/petz-e-confiavel-site-oficial-rodape.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16798,
+      "sha256": "ac1f21610784fd9aea79aee275595cff6a93bc95a18136a3cca929a84cdf2858",
+      "width": 790,
+      "height": 94,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "petz-e-confiavel-site-oficial-rodape.webp",
+      "storage_filename": "petz-e-confiavel-site-oficial-rodape.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/petz-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/petz-e-confiavel.json",
+          "line": 95,
+          "column": 19,
+          "literal": "/images/reviews/petz/petz-e-confiavel-site-oficial-rodape.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 212517,
+          "column": 21,
+          "literal": "/images/reviews/petz/petz-e-confiavel-site-oficial-rodape.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ac1f21610784fd9aea79aee275595cff6a93bc95a18136a3cca929a84cdf2858/petz-e-confiavel-site-oficial-rodape.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ac1f21610784fd9aea79aee275595cff6a93bc95a18136a3cca929a84cdf2858/petz-e-confiavel-site-oficial-rodape.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:18:55.200Z",
+      "verification_etag_or_digest": "ac1f21610784fd9aea79aee275595cff6a93bc95a18136a3cca929a84cdf2858",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/petz-reclame-aqui-nota-reputacao-capa.webp",
+      "local_url": "/images/reviews/petz/petz-reclame-aqui-nota-reputacao-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47640,
+      "sha256": "6bdd107978032a998f32bf224e30d08fb09beb61cd1cbc451e93ab9ddec1ce8c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "petz-reclame-aqui-nota-reputacao-capa.webp",
+      "storage_filename": "petz-reclame-aqui-nota-reputacao-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/petz-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/petz-reclame-aqui-nota-reputacao.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/petz/petz-reclame-aqui-nota-reputacao-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 212720,
+          "column": 15,
+          "literal": "/images/reviews/petz/petz-reclame-aqui-nota-reputacao-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6bdd107978032a998f32bf224e30d08fb09beb61cd1cbc451e93ab9ddec1ce8c/petz-reclame-aqui-nota-reputacao-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6bdd107978032a998f32bf224e30d08fb09beb61cd1cbc451e93ab9ddec1ce8c/petz-reclame-aqui-nota-reputacao-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:18:55.200Z",
+      "verification_etag_or_digest": "6bdd107978032a998f32bf224e30d08fb09beb61cd1cbc451e93ab9ddec1ce8c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/petz-reclame-aqui-nota-reputacao-painel.webp",
+      "local_url": "/images/reviews/petz/petz-reclame-aqui-nota-reputacao-painel.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19928,
+      "sha256": "2d7d7222f7a3dda54fae267738db85b4dbc6dc52118df81f15f9d4a5edc3f25d",
+      "width": 752,
+      "height": 608,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "petz-reclame-aqui-nota-reputacao-painel.webp",
+      "storage_filename": "petz-reclame-aqui-nota-reputacao-painel.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/petz-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/petz-reclame-aqui-nota-reputacao.json",
+          "line": 179,
+          "column": 19,
+          "literal": "/images/reviews/petz/petz-reclame-aqui-nota-reputacao-painel.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 212875,
+          "column": 21,
+          "literal": "/images/reviews/petz/petz-reclame-aqui-nota-reputacao-painel.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2d7d7222f7a3dda54fae267738db85b4dbc6dc52118df81f15f9d4a5edc3f25d/petz-reclame-aqui-nota-reputacao-painel.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2d7d7222f7a3dda54fae267738db85b4dbc6dc52118df81f15f9d4a5edc3f25d/petz-reclame-aqui-nota-reputacao-painel.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T19:18:55.200Z",
+      "verification_etag_or_digest": "2d7d7222f7a3dda54fae267738db85b4dbc6dc52118df81f15f9d4a5edc3f25d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/poltrona-amamentacao-rotina-hero.webp",
       "local_url": "/images/reviews/poltrona-amamentacao-rotina-hero.webp",
       "media_kind": "image",

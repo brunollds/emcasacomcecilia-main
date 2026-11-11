@@ -1,0 +1,234 @@
+{
+  "id": 903,
+  "slug": "black-friday-petz",
+  "locale": "pt",
+  "title": "Black Friday Petz 2026: regras, Clubz e quando o cupom ainda ajuda",
+  "seoTitle": "Black Friday Petz 2026: regras, Clubz e cupom",
+  "type": "Guia de Black Friday",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "A Black Friday da Petz vai até o fim de novembro. Veja o que o regulamento faz com o cupom EMCASA, quando ele ainda dá mais que a oferta e o que o Clubz muda.",
+  "metaDescription": "EMCASA dá 10% OFF no site e no app da Petz. Na Black Friday, o cupom não soma com a oferta: veja quando ele ainda dá o maior desconto.",
+  "publishedAt": "11 de novembro de 2026",
+  "publishedAtISO": "2026-11-11",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/petz/black-friday-petz-capa.webp",
+  "imageAlt": "Pacote da ração Royal Canin Maxi Adult, o logo da Petz e o título Black Friday da Petz",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Na Black Friday da Petz, o EMCASA dá 10% no site e no app, sem somar com a oferta do produto. Nos testes, a sacola manteve o menor preço por item. Compare também o frete e as condições do Clubz; a campanha está prevista até o fim de novembro."
+      ]
+    },
+    {
+      "heading": "Regras da campanha e datas",
+      "paragraphs": [
+        "A loja informa: a campanha vai de 30/10 a 30/11, e os cupons não somam com as ofertas da Black Friday nem com o desconto do Clubz. O sistema aplica o maior desconto entre eles.",
+        "Antes de montar a sacola, vale conferir o que o regulamento põe em volta do cupom:"
+      ],
+      "bullets": [
+        "Cupom não dá desconto no frete.",
+        "Os preços variam por região e canal; a referência do site e do app é São Paulo."
+      ],
+      "postParagraphs": [
+        "Para os cupons da campanha, o regulamento prevê um uso por CPF e cadastro, salvo comunicação diferente. O EMCASA vale em todas as compras no site e no app, pelo que diz o programa Parceiro Petz.",
+        "A sexta da Black Friday cai dentro da campanha. A campanha pode ser encerrada antes ou prorrogada, com aviso, por isso compare o preço da página no dia da compra."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/petz/black-friday-petz-banner-campanha.webp",
+          "alt": "Topo da página da Black Friday da Petz, com o título Petz friday, uma foto de campanha e o selo de descontos",
+          "caption": "Topo da página da campanha no site da Petz. Print da própria loja.",
+          "objectFit": "contain",
+          "aspectRatio": 2.2472
+        }
+      ]
+    },
+    {
+      "heading": "O que aconteceu na sacola com o EMCASA",
+      "paragraphs": [
+        "O cupom foi calculado sobre o preço cheio de cada produto. A sacola escolheu o preço final menor entre ele e a oferta, como mostram os três testes sem compra:"
+      ],
+      "comparisonTable": {
+        "caption": "Testes relatados com a campanha no ar, na referência de preços de São Paulo; os valores podem mudar por região e canal.",
+        "headers": [
+          "Produto",
+          "Preço cheio",
+          "Oferta na página",
+          "Com EMCASA na sacola"
+        ],
+        "rows": [
+          [
+            "Ração Golden Fórmula Mini Bits",
+            "R$ 22,99",
+            "Sem oferta",
+            "R$ 20,69 — cupom"
+          ],
+          [
+            "Sachê Royal Canin Instinctive 85 g",
+            "R$ 10,99",
+            "R$ 9,90",
+            "R$ 9,89 — cupom"
+          ],
+          [
+            "Ração Royal Canin Maxi Adult 12 kg",
+            "R$ 349,99",
+            "R$ 279,99",
+            "R$ 279,99 — oferta mantida"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Na Golden e no sachê, o EMCASA reduziu o preço. Na Maxi, a oferta já dava mais desconto, por isso o preço permaneceu igual."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/petz/black-friday-petz-sache-royal-canin-instinctive.webp",
+          "alt": "Sachê de ração úmida Royal Canin Instinctive 85 g, em foto oficial da página do produto na Petz",
+          "caption": "Sachê Royal Canin Instinctive 85 g: a oferta e o cupom ficaram a um centavo, e a sacola usou o cupom. Foto: Petz.",
+          "objectFit": "square"
+        }
+      ]
+    },
+    {
+      "heading": "Outras ofertas para comparar no site",
+      "paragraphs": [
+        "As três páginas abaixo também tinham ofertas superiores a 10%. Pela regra publicada, essas ofertas prevalecem; os itens não foram testados na sacola."
+      ],
+      "comparisonTable": {
+        "caption": "Preços vistos com a campanha no ar. As páginas não identificavam cada oferta como uma oferta específica de Black Friday.",
+        "headers": [
+          "Produto",
+          "Preço cheio",
+          "Oferta na página",
+          "10% EMCASA, cálculo"
+        ],
+        "rows": [
+          [
+            "Areia Petz Ultra Absorção para Gatos 4 kg",
+            "R$ 54,99",
+            "R$ 39,99",
+            "R$ 49,49"
+          ],
+          [
+            "Antipulgas Simparic Trio 6 mg para Cães",
+            "R$ 109,99",
+            "R$ 76,99",
+            "R$ 98,99"
+          ],
+          [
+            "Ossinho Original Dingo, 1 unidade",
+            "R$ 12,99",
+            "R$ 5,19",
+            "R$ 11,69"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O antipulgas aparece somente como exemplo de preço. Para escolher produto e apresentação para o seu animal, siga a orientação do veterinário."
+      ]
+    },
+    {
+      "heading": "Clubz na Black Friday: o que muda em cada nível",
+      "paragraphs": [
+        "O Clubz tem os níveis Bronze, Prata, Ouro e Diamante. Ouro e Diamante recebem 5% em CashPetz; o Diamante tem frete grátis na Entrega Padrão, sem mínimo, e isenção da taxa de serviço.",
+        "O CashPetz gerado na compra fica como crédito para compras futuras. Separe esse benefício do desconto que reduz o valor da sacola de hoje.",
+        "Na ação especial, quem contrata, sobe de nível ou renova recebe R$ 25 no Ouro ou R$ 50 no Diamante, com liberação em dezembro e uso até o fim do ano. O plano precisa continuar ativo na liberação.",
+        "Pelo regulamento, o desconto de membro Clubz não soma com cupom ou oferta da campanha: o sistema aplica o maior desconto entre eles. Confira os benefícios na sua conta e o total da sacola antes de pagar."
+      ]
+    },
+    {
+      "heading": "Assinatura na campanha não soma",
+      "paragraphs": [
+        "A assinatura não soma com as ofertas da campanha, como diz o regulamento. Fora da campanha, a assinatura dá 10% e não soma com cupom. A comparação entre assinatura e cupom está no [passo a passo do cupom](/reviews/cupom-petz-como-usar)."
+      ]
+    },
+    {
+      "heading": "Frete e retirada: o que muda na sacola",
+      "paragraphs": [
+        "Na Entrega Padrão, o frete grátis começa acima de R$ 199 no Sul e no Sudeste e acima de R$ 299 no Norte, no Nordeste e no Centro-Oeste. Para medicamentos, o mínimo informado é de R$ 199 em todo o Brasil.",
+        "O mínimo é contado depois dos cupons. Se o código deixa o pedido abaixo da faixa, o frete grátis não é aplicado. Aplique o EMCASA e compare o total com e sem ele antes de pagar.",
+        "O Retire na Loja é a exceção que somou com o EMCASA no teste: 5% em compras acima de R$ 199 no Centro-Oeste, Sul e Sudeste. Aguarde a mensagem de liberação; depois dela, há 28 dias corridos para buscar o pedido. No teste com duas rações Golden de 15 kg, a sacola de R$ 379,98 ficou em R$ 360,98 só com a retirada e em R$ 324,88 com retirada e EMCASA. O total corresponde aos dois descontos aplicados em sequência."
+      ]
+    },
+    {
+      "heading": "Compra com folga: prazo e reclamações",
+      "paragraphs": [
+        "No Reclame Aqui, nos últimos seis meses, atraso na entrega e produto não recebido aparecem entre os principais motivos do perfil da loja online.",
+        "Para a ração de uso diário, compre com folga antes de o pacote acabar. A entrega padrão leva até 3 dias úteis em algumas regiões, e a expressa é por região e não sai em boleto. Os números de reputação estão no [artigo sobre o Reclame Aqui da Petz](/reviews/petz-reclame-aqui-nota-reputacao)."
+      ]
+    },
+    {
+      "heading": "Troca de compra da campanha",
+      "bullets": [
+        "Compra online da campanha: pedido de troca em até 7 dias corridos do recebimento, feita em qualquer loja Petz, com embalagem, lacres e nota.",
+        "Compra online: desistência em 7 dias corridos depois do recebimento.",
+        "Para reclamar de defeito aparente, o prazo é de 30 dias da entrega para itens não duráveis e 90 dias para duráveis. Em defeito oculto, a contagem começa quando ele aparece."
+      ],
+      "postParagraphs": [
+        "Guarde a nota e o número do pedido, e leia a política da loja antes de pedir a troca."
+      ]
+    },
+    {
+      "heading": "Quando o EMCASA ainda faz diferença",
+      "paragraphs": [
+        "Confira primeiro a oferta do produto, depois aplique o EMCASA e compare o total. O cupom ajuda nos itens sem oferta ou com oferta inferior a 10%, como nos exemplos testados; uma ração de compra recorrente também pode estar em promoção."
+      ],
+      "postParagraphs": [
+        "As condições do código estão em [cupom Petz](/cupons/petz). Para o campo da sacola e as etapas de aplicação, veja [como usar o EMCASA](/reviews/cupom-petz-como-usar)."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "O cupom soma com a Black Friday da Petz? Não: pelo regulamento, cupom não soma com a oferta da campanha nem com o desconto do Clubz, e a sacola fica com o maior. O desconto de retirada na loja soma com o cupom, como mostra o capítulo de frete.",
+        "Quando é a Black Friday da Petz? A campanha está no ar, prevista até o fim de novembro, e inclui a sexta da Black Friday.",
+        "O que é o Clubz? É o programa de níveis da Petz, com Bronze, Prata, Ouro e Diamante. Ouro e Diamante recebem 5% em CashPetz, e o Diamante tem frete grátis na Entrega Padrão, sem mínimo.",
+        "Tem frete grátis na Black Friday? Na Entrega Padrão, valem as faixas do capítulo de frete; se o cupom deixar o pedido abaixo do mínimo, a gratuidade não é aplicada. Para Clubz Diamante, o regulamento informa frete grátis sem mínimo.",
+        "Até quando vai a Black Friday da Petz? Pelo regulamento, até o fim de novembro. A ação pode ser encerrada antes ou prorrogada, com aviso."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "O produto está sem oferta ou com oferta inferior a 10%, e o EMCASA baixa o preço dele na sacola."
+    ],
+    "skipIf": [
+      "Todos os itens já têm oferta superior a 10%: o desconto da oferta tende a prevalecer.",
+      "Você espera somar o cupom à oferta do produto: a sacola aplica o desconto maior."
+    ]
+  },
+  "cta": {
+    "text": "Entre pelo botão, cole o EMCASA no campo “Digite seu cupom” e confira o total com frete antes de pagar.",
+    "label": "Ir para a Petz",
+    "url": "https://petz.com.br/parceiro/emcasa",
+    "sponsored": true
+  },
+  "coupon": "EMCASA",
+  "affiliate": "petz",
+  "editorialNote": "Feito com os preços do site, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "cupom-petz-como-usar"
+    },
+    {
+      "slug": "petz-e-confiavel"
+    },
+    {
+      "slug": "petz-reclame-aqui-nota-reputacao"
+    }
+  ]
+}
