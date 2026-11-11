@@ -26,13 +26,13 @@
   "imageAspect": "landscape",
   "decision": {
     "takeIf": [
-      "Você quer três cores neutras para começar: o Kit 3 Camisetas Oversized Classic da Cléa sai mais barato por peça que a camiseta avulsa.",
-      "Seus looks são com saia ou alfaiataria: a Tech T-Shirt da Insider, de modal com elastano, não soma volume às peças amplas.",
-      "O look leva blazer ou colete por cima: a Comfort da Cléa, de caimento regular, não forma volume por baixo."
+      "Você quer adaptar jeans, saias ou alfaiataria que já tem e completar a combinação com peças das duas lojas.",
+      "Você prefere camiseta ampla com o cós aparente ou uma sobreposição com blazer aberto.",
+      "Você quer três camisetas nas cores do Kit Classic da Cléa e pretende usar todas elas."
     ],
     "skipIf": [
-      "Você procura look de Natal ou Réveillon: o guia da ocasião, citado no texto, tem as peças de festa.",
-      "Você quer blazer e saia no mesmo pedido: serão dois, porque a Insider não vende blazer e a Cléa não vende saia de tecido plano."
+      "Você procura uma seleção específica para Natal ou Réveillon: o guia da ocasião está indicado no texto.",
+      "Você precisa fechar tudo em um único carrinho e escolheu peças das duas lojas."
     ]
   },
   "pros": [],
@@ -60,16 +60,17 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A camiseta básica vai com jeans, saia, alfaiataria e blazer. O que muda o look é a proporção: camiseta ampla pede a cintura marcada quando a calça ou a saia também têm volume, e camiseta mais rente equilibra saia longa e bermuda ampla. As peças abaixo são da Cléa Store e da Insider, com o código de cada loja."
+        "Com jeans ou saia, comece pelo quanto da cintura você quer mostrar: prenda a camiseta para destacar o cós ou deixe solta para um look amplo. Blazer e alfaiataria mudam a ocasião. Veja as combinações e os preços com CSEMCASACOMCECILIA, de 10% na Cléa, e EMCASACOMCECILIA, de 15% na Insider."
       ]
     },
     {
       "heading": "A camiseta certa para a base",
       "paragraphs": [
-        "Três modelagens resolvem os looks deste guia. A oversized da Cléa é ampla e de caimento solto, em algodão penteado: vai com calça de perna larga, shorts e blazer. A Comfort, também da Cléa, é de algodão peruano em malha interlock, com caimento regular segundo a loja: sem o volume da oversized, fica lisa por baixo de blazer e colete. A Tech T-Shirt da Insider, de modal com elastano, não tem a modelagem ampla da oversized e equilibra saia e bermuda com volume."
+        "Para um look amplo, a oversized da Cléa é a opção desta seleção. Se você prefere caimento regular sob blazer ou colete, comece pela Comfort. Nas combinações com saia e bermuda da Insider, os cards usam a Tech T-Shirt.",
+        "Antes de comprar, veja a modelagem e as medidas da camiseta que você quer usar. Para reproduzir as combinações, também vale partir de uma camiseta que você já tem; as peças das lojas são opções para completar o look."
       ],
       "comparisonTable": {
-        "caption": "Preços dos sites em 11 de novembro de 2026, sem frete. Com o código: CSEMCASACOMCECILIA (10%) na Cléa e EMCASACOMCECILIA (15%) na Insider, sobre o preço do dia.",
+        "caption": "Preços dos sites em 11 de novembro de 2026, sem frete. Com o código: CSEMCASACOMCECILIA (10%) na Cléa e EMCASACOMCECILIA (15%) na Insider, sobre o preço do dia. Os subtotais das combinações incluem apenas as roupas citadas, sem calçados ou acessórios.",
         "headers": [
           "Camiseta",
           "Modelagem e tecido",
@@ -97,7 +98,7 @@
           ],
           [
             "[Tech T-Shirt® Gola V Feminina](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/tech-t-shirt%C2%AE-gola-v-feminina-cores-selecionadas?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA), Insider",
-            "Gola levemente alongada; mesmo tecido da Tech",
+            "Decote em V; mesmo tecido da Tech",
             "R$ 99,00 (R$ 169,00)",
             "R$ 84,15"
           ],
@@ -146,9 +147,7 @@
     {
       "heading": "Camiseta com calça jeans",
       "paragraphs": [
-        "A oversized da Cléa já tem volume no tronco, e as duas calças jeans da loja também têm volume nas pernas: a barrel abre e afunila de leve na barra, e a wide leg desce larga e solta. Com volume em cima e embaixo, quem segura a proporção é a cintura. As duas calças são de cintura alta, então a camiseta vai por dentro só na frente, com as costas soltas, ou inteira por dentro com um cinto.",
-        "Na cor, a lavagem azul claro da barrel fica clara e leve com camiseta off white e ganha contraste com vinho, marrom ou preto. A wide leg, em azul médio, aceita as mesmas cores. Com tênis branco, o look é de dia a dia; com mule ou sapato de bico fino, serve para um jantar informal.",
-        "Trocando a oversized pela Comfort, de caimento regular, a camiseta pode ficar solta: o corpo dela não compete com a calça."
+        "Barrel e wide leg dão resultados diferentes: a barrel abre nas pernas e afunila na barra; a wide leg mantém a perna larga até embaixo. Se você quer destacar a cintura alta, deixe o cós aparecer. Para um look todo solto, use a camiseta por fora."
       ],
       "comparisonTable": {
         "caption": "Na Cléa, a oversized com uma das calças sai por R$ 320,04 com o código.",
@@ -214,7 +213,7 @@
             "piece": "Calça Barrel Jeans Cintura Alta Azul Claro",
             "url": "https://www.cleastore.com.br/produto/calca-barrel-jeans-cintura-alta-azul-claro-4439",
             "store": "clea-store",
-            "howTo": "Camiseta oversized por dentro na frente e solta atrás, para a cintura alta aparecer sem esconder o volume da perna.",
+            "howTo": "Prenda só a frente da camiseta oversized para mostrar o cós; deixe as costas soltas.",
             "occasion": "Dia a dia e fim de semana; com mule ou sapato de bico fino, jantar informal.",
             "pairsWith": [
               {
@@ -235,14 +234,14 @@
             "piece": "Calça Jeans Wide Leg Cintura Alta Azul Médio",
             "url": "https://www.cleastore.com.br/produto/calca-jeans-wide-leg-cintura-alta-azul-medio-4436",
             "store": "clea-store",
-            "howTo": "Camiseta inteira por dentro e cinto: a perna larga fica com o volume e o tronco fica limpo.",
+            "howTo": "Com a Comfort, use a camiseta por dentro e cinto para destacar a cintura; deixe por fora se preferir uma combinação mais solta.",
             "occasion": "Dia a dia; com sapato de bico fino, trabalho de traje casual.",
             "pairsWith": [
               {
                 "label": "Camiseta Comfort Algodão Peruano",
                 "url": "https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434",
                 "store": "clea-store",
-                "note": "de caimento regular, pode ficar solta"
+                "note": "off white para clarear a combinação; marrom para contraste com o jeans"
               },
               {
                 "label": "sandália ou mule"
@@ -258,10 +257,8 @@
     {
       "heading": "Camiseta com saia",
       "paragraphs": [
-        "A Cléa não vende saia de tecido plano, então as saias deste capítulo são da Insider. A Saia Midi Tokyo é de poliamida com elastano e tem cordão com stoppers nas laterais, que sobem ou descem a barra. A Maxi Saia NYIN é longa e, segundo a loja, pode ser usada na cintura média ou na baixa.",
-        "Saia longa ou franzida pede camiseta sem sobra de tecido. Na midi Tokyo, a Tech T-Shirt vai por dentro e marca a cintura. Na NYIN usada mais baixa, a camiseta pode ficar por fora, solta até o quadril; na cintura média, vai por dentro.",
-        "Na cor, saia preta com Tech off white é o contraste mais simples. A Tokyo em New Khaki fica tom sobre tom com a Tech Maple Brown e ganha contraste com a preta, e a NYIN em Olive Green vai com off white ou preta. Para o trabalho, a Saia Midi Alfaiataria Tech Kyoto, com pences na cintura, leva a Tech por dentro.",
-        "A Insider também vende o [Conjunto Tech T-Shirt® + Saia Midi Alfaiataria](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/conjunto-tech-t-shirt-saia-midi-alfaiataria-tech-kyoto-futureform?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA) com a saia Kyoto. Ele custa R$ 629,54 (R$ 828,00 de lista) e sai por R$ 535,11 com o código; comprando a Tech T-Shirt e a Saia Midi Kyoto separadas, as duas somam R$ 533,80 com o código."
+        "Para variar o comprimento da saia, a Midi Tokyo tem ajuste lateral de barra; para uma proposta longa, há a NYIN. A Midi Kyoto é a opção de alfaiataria para o trabalho. Os cards mostram como combinar cada uma com camiseta e calçado.",
+        "Com o código, a Tech T-Shirt e a saia Kyoto compradas separadas somam R$ 533,80; o [Conjunto Tech T-Shirt® + Saia Midi Alfaiataria](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/conjunto-tech-t-shirt-saia-midi-alfaiataria-tech-kyoto-futureform?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA) sai por R$ 535,11. Os avulsos custam R$ 1,31 menos."
       ],
       "comparisonTable": {
         "caption": "Na Insider, a Tech T-Shirt com a midi Tokyo soma R$ 338,30 com o código; com a NYIN, R$ 397,80.",
@@ -302,7 +299,7 @@
         {
           "src": "/images/reviews/insider/looks-camiseta-basica-saia-midi-tokyo.webp",
           "alt": "Modelo de corpo inteiro com a Saia Midi Tokyo preta da Insider, franzida na lateral, com regata vermelha e bota clara",
-          "caption": "Saia Midi Tokyo, com o franzido do ajuste lateral. Foto: Insider.",
+          "caption": "Saia Midi Tokyo fotografada com regata; a sugestão com Tech T-Shirt está no card. Foto: Insider.",
           "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/saia-midi-tokyo-futureform-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
           "store": "insider",
           "objectFit": "square",
@@ -311,7 +308,7 @@
         {
           "src": "/images/reviews/insider/looks-camiseta-basica-maxi-saia-nyin.webp",
           "alt": "Modelo de corpo inteiro com a Maxi Saia NYIN verde-oliva da Insider, regata escura e tênis",
-          "caption": "Maxi Saia NYIN em Olive Green. Foto: Insider.",
+          "caption": "Maxi Saia NYIN em Olive Green, fotografada com regata. Foto: Insider.",
           "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/maxi-saia-nyin-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
           "store": "insider",
           "objectFit": "square",
@@ -345,7 +342,7 @@
             "piece": "Maxi Saia NYIN",
             "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/maxi-saia-nyin-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
             "store": "insider",
-            "howTo": "Na cintura baixa, camiseta por fora até o quadril; na cintura média, por dentro.",
+            "howTo": "Use a camiseta por dentro para mostrar o cós. Para uma combinação mais solta com a saia na cintura baixa, experimente deixá-la por fora.",
             "occasion": "Fim de semana, viagem e calor.",
             "pairsWith": [
               {
@@ -385,8 +382,7 @@
     {
       "heading": "Camiseta com alfaiataria: shorts, bermuda e calça",
       "paragraphs": [
-        "Com alfaiataria, a malha da camiseta deixa a peça estruturada mais casual. Na Cléa, o Shorts Alfaiataria Areia tem cintura alta e caimento estruturado, e a loja indica com blazers, camisas e t-shirts. A oversized vai inteira por dentro, com o cós à mostra; em off white, marrom ou caramelo, o look fica tom sobre tom com o areia.",
-        "Na Insider, a Bermuda Kyoto é oversized, levemente evasê e vai até pouco acima do joelho. Como ela já tem volume, a Tech T-Shirt por dentro equilibra a silhueta. A Calça FutureForm tem cintura alta e afunila na barra; com ela, a camiseta vai por dentro só na frente.",
+        "A camiseta deixa a alfaiataria mais casual. Para escolher a parte de baixo, pense no comprimento: o shorts areia fica acima do joelho; a bermuda Kyoto vai até pouco acima dele; a FutureForm é a opção de calça comprida. Os cards trazem uma combinação para cada peça.",
         "Para montar um look de escritório, veja o [look de trabalho com alfaiataria da Cléa Store](/reviews/look-trabalho-alfaiataria-feminina-clea-store)."
       ],
       "comparisonTable": {
@@ -472,7 +468,7 @@
                 "label": "Camiseta Oversized de Algodão Penteado",
                 "url": "https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189",
                 "store": "clea-store",
-                "note": "off white, marrom ou caramelo, no tom do areia"
+                "note": "off white para uma combinação clara; marrom ou caramelo para acompanhar o areia"
               },
               {
                 "label": "sandália de tiras"
@@ -486,7 +482,7 @@
             "piece": "Bermuda Oversized Alfaiataria Tech Kyoto",
             "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/bermuda-kyoto-feminina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
             "store": "insider",
-            "howTo": "Tech T-Shirt por dentro: a bermuda já tem volume, e a camiseta rente equilibra.",
+            "howTo": "Prenda a Tech T-Shirt por dentro para mostrar a cintura da bermuda; use por fora se preferir manter o look amplo.",
             "occasion": "Trabalho de traje casual e dia a dia no calor.",
             "pairsWith": [
               {
@@ -526,12 +522,11 @@
     {
       "heading": "Camiseta com blazer ou colete",
       "paragraphs": [
-        "A Insider não vende blazer, então os deste capítulo são da Cléa. O Blazer Oversized Alfaiataria Mescla tem forro e fecha com um botão. Por ser amplo, fica aberto sobre uma camiseta de caimento regular, como a Comfort, que não forma volume por baixo. Com a barrel ou a wide leg, o look é casual; com o shorts areia, mais leve.",
-        "O Blazer Alfaiataria Rosa Linho é estruturado, de linho puro, com lapela e um botão. Fechado sobre a camiseta, o rosa vira o centro do look; aberto, com camiseta off white e jeans, fica mais casual. A loja indica o conjunto com o shorts de linho da mesma cor.",
-        "O colete Trench Coat com Cinto Vermelho é sem mangas, de linho com algodão e amarrado na cintura. A camiseta aparece só nos braços e no decote, então a Comfort em off white ou preto deixa o vermelho em destaque, por dentro da calça."
+        "O blazer aberto deixa a camiseta aparecer e facilita combinar as duas cores. O mescla cinza é a opção para acompanhar jeans; o rosa de linho vira o destaque com camiseta off white. Para uma sobreposição sem mangas, o colete vermelho acrescenta a faixa amarrada na cintura.",
+        "Escolha a camiseta pelo caimento que você quer sob a terceira peça. A Comfort é a proposta regular deste guia; a oversized mantém a combinação ampla. Os cards mostram as opções de calça e como usar cada sobreposição."
       ],
       "comparisonTable": {
-        "caption": "Na Cléa, a Comfort, a calça barrel (R$ 238,77 com o código) e o blazer mescla somam R$ 836,58 com o código; a Comfort, a wide leg (R$ 238,77) e o colete, R$ 723,18.",
+        "caption": "Subtotal das roupas com o código da Cléa: Comfort + barrel + blazer mescla, R$ 836,58; Comfort + wide leg + colete vermelho, R$ 723,18. As calças estão na tabela de jeans.",
         "headers": [
           "Peça",
           "Loja",
@@ -569,7 +564,7 @@
         {
           "src": "/images/reviews/clea-store/looks-camiseta-basica-blazer-mescla.webp",
           "alt": "Modelo com o Blazer Oversized Alfaiataria Mescla cinza da Cléa Store, fechado em um botão, e calça da mesma cor",
-          "caption": "Blazer mescla, oversized e com forro. Foto: Cléa Store.",
+          "caption": "Blazer mescla fotografado fechado; no card, a proposta é usá-lo aberto sobre a camiseta. Foto: Cléa Store.",
           "href": "https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307",
           "store": "clea-store",
           "objectFit": "portrait",
@@ -624,7 +619,7 @@
             "url": "https://www.cleastore.com.br/produto/blazer-alfaiataria-rosa-linho-4404",
             "store": "clea-store",
             "howTo": "Fechado no botão, para o rosa ser o destaque, ou aberto sobre camiseta off white.",
-            "occasion": "Dia a dia e calor.",
+            "occasion": "Passeio e almoço informal com jeans.",
             "pairsWith": [
               {
                 "label": "Camiseta Oversized de Algodão Penteado",
@@ -671,8 +666,8 @@
     {
       "heading": "Comprando nas duas lojas",
       "paragraphs": [
-        "Um look com camiseta de uma loja e saia ou blazer da outra vira dois pedidos: cada carrinho leva o próprio código e paga o próprio frete. A Cléa anuncia frete grátis acima de R$ 599, e a Insider, a partir de R$ 399; o carrinho da Insider mostra quanto falta.",
-        "Os dois códigos são de um por pedido. A Insider publica que o cupom não vale em lançamentos, mas no teste de carrinho o EMCASACOMCECILIA deu 15% em todas as peças deste guia, inclusive nas marcadas como lançamento e no conjunto. Antes de pagar, confira a linha do desconto em cada item. Na Cléa, o CSEMCASACOMCECILIA somou com os 30% da Black Friday e com o preço do kit."
+        "Você pode combinar camiseta de uma loja com saia ou blazer da outra. Nesse caso, são dois pedidos, com códigos e fretes calculados separadamente. A Cléa anuncia frete grátis acima de R$ 599, e a Insider, a partir de R$ 399; confira o total de cada carrinho depois de aplicar o desconto.",
+        "Cada loja aceita um código por pedido. Na Cléa, o CSEMCASACOMCECILIA somou com os 30% da Black Friday e com o preço do kit. A Insider publica que o cupom não vale em lançamentos, mas no teste de carrinho o EMCASACOMCECILIA deu 15% em todas as peças deste guia, inclusive nas marcadas como lançamento e no conjunto. Confira o desconto aplicado a cada peça antes de pagar."
       ],
       "comparisonTable": {
         "headers": [
@@ -702,12 +697,21 @@
       ]
     },
     {
+      "heading": "Por onde começar o seu look",
+      "bullets": [
+        "Dia a dia: comece pela barrel da Cléa com camiseta e tênis, se você gosta da perna arredondada e da barra mais estreita.",
+        "Trabalho casual: a FutureForm com camiseta é a proposta de calça comprida; complete com o blazer que você já tem.",
+        "Saia longa: a NYIN com camiseta e rasteira é a opção para quem prefere uma combinação solta.",
+        "Sobreposição em destaque: o blazer rosa com camiseta off white e jeans concentra a cor na terceira peça."
+      ]
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Que calça usar com camiseta básica feminina? Calça de cintura alta resolve a maioria dos looks: jeans barrel ou wide leg com a camiseta por dentro na frente, ou alfaiataria, como a FutureForm da Insider, para o trabalho.",
-        "Camiseta oversized combina com saia? Combina quando a saia não disputa volume com ela: por dentro de uma saia midi com a cintura marcada, ou por fora de uma saia longa usada mais baixa. Com saia longa ou franzida, uma camiseta sem sobra de tecido, como a Tech T-Shirt, equilibra melhor.",
+        "Que calça usar com camiseta básica feminina? Para o dia a dia, veja a barrel e a wide leg no capítulo de jeans. Para trabalho casual, a FutureForm é a opção de calça nos looks de alfaiataria.",
+        "Camiseta oversized combina com saia? Sim: por dentro, você destaca o cós; por fora, mantém uma combinação ampla. Se quer menos sobra de tecido, escolha o tamanho e a modelagem da camiseta por esse critério.",
         "Qual camiseta usar com blazer? Uma de caimento regular, como a Comfort de algodão peruano da Cléa. A oversized também funciona, por dentro da calça e com o blazer aberto.",
-        "Dá para usar o cupom da Cléa e o da Insider no mesmo look? Dá, em dois pedidos: cada loja tem o próprio carrinho, o próprio código e o próprio frete.",
+        "Dá para usar o cupom da Cléa e o da Insider no mesmo look? Sim, em pedidos separados: CSEMCASACOMCECILIA na Cléa e EMCASACOMCECILIA na Insider. Confira o desconto e o total com frete em cada carrinho.",
         "O cupom vale na Black Friday? Na Cléa, sim: o código somou com a promoção no teste de carrinho. Na Insider, os 15% incidiram sobre o preço promocional do dia; na data da Black Friday, confira a linha do desconto."
       ]
     }
