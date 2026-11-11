@@ -36,6 +36,15 @@ manda o leitor ao artigo do Reclame Aqui para os números de reclamação.
 "petz entrega rápida", "petz troca" (lista em [[Pesquisas-de-Pauta]]). A cupomtiff tem artigos de dono, fusão,
 horário e telefone soltos; este junta o que decide a compra num texto só.
 
+## O que só este artigo dá (busca de 11/11/2026)
+
+- **O que o topo tem:** páginas de "site confiável" e de cupons com a nota de terceiros (8,2, sem período) e uma
+  conclusão genérica. Nenhuma fala da fusão com a Cobasi nem de que a troca vale em qualquer loja Petz.
+- **Nomes parecidos:** a mesma busca mostra domínios de nome parecido com a Petz, com reputação fraca. O capítulo 4
+  ganha peso: como reconhecer o site oficial (petz.com.br, CNPJ no rodapé, app oficial) e que nome parecido não é a
+  Petz. Sem citar os outros por nome; o PZ3 trata dos perfis do Reclame Aqui.
+- **Números com período:** os dois números do Reclame Aqui saem com o período, ao contrário das páginas do topo.
+
 ## Esqueleto
 1. Resposta rápida: empresa de capital aberto, CNPJ ativo desde 2013, site oficial petz.com.br desde 2007, parte do
    Grupo Petz Cobasi; troca em 7 dias e em qualquer loja Petz. Sem preço.

@@ -35,6 +35,15 @@ EMCASA ainda faz diferença: no item fora da campanha ou com oferta menor que 10
 "petz black friday", "black friday petz 2026", "petz black friday ração", "quando começa a black friday da petz"
 (lista em [[Pesquisas-de-Pauta]]).
 
+## O que só este artigo dá (busca de 11/11/2026)
+
+- **Soma ou não soma:** sites de cupom dizem que os cupons "costumam acumular" com a Black Friday da Petz. O regulamento
+  de 2026 diz o contrário: cupom não soma com a oferta nem com o Clubz, e o sistema aplica o maior. O artigo cita a
+  regra pelo regulamento, sem citar os outros sites.
+- **Quando é:** a página da Petz fala da sexta-feira da Black Friday, mas a campanha já está no ar. A resposta rápida
+  e a FAQ respondem "quando começa" sem acrescentar uma terceira data ao corpo: "a sexta da Black Friday".
+- **Clubz na conta:** o topo descreve o Clubz em termos gerais. O artigo mostra a conta do nível com a campanha.
+
 ## Esqueleto
 1. Resposta rápida: a campanha vai até 30/11; cupom não soma com a oferta nem com o Clubz, e fica o desconto maior;
    o EMCASA ajuda no que está fora da campanha. Sem preço.
@@ -50,7 +59,9 @@ EMCASA ainda faz diferença: no item fora da campanha ou com oferta menor que 10
 7. O que comprar com estoque: ração e areia são o grosso das reclamações por atraso (ligação com a PZ3): comprar com
    folga de prazo.
 8. Troca de compra da campanha: 7 dias, em qualquer loja Petz.
-9. Perguntas frequentes: "o cupom soma com a Black Friday da Petz?", "até quando vai a Black Friday da Petz?",
+9. Perguntas frequentes: "o cupom soma com a Black Friday da Petz?", "quando é a Black Friday da Petz?" (a campanha já
+   está no ar, vai até o fim de novembro e inclui a sexta da Black Friday; sem data na FAQ), "até quando vai a Black
+   Friday da Petz?",
    "o que é o Clubz?", "tem frete grátis na Black Friday?".
 
 ## Metadados sugeridos

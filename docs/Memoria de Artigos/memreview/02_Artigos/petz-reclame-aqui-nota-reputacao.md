@@ -35,6 +35,14 @@ produto mais citado. O artigo transforma isso em cuidado prático na hora de com
 "petz reclame aqui", "petz reclamações", "petz atraso entrega", "petz não entregou" (lista em
 [[Pesquisas-de-Pauta]]).
 
+## O que só este artigo dá (busca de 11/11/2026)
+
+- **A busca confunde as empresas:** para "petz reclame aqui reclamações atraso entrega", o topo trouxe reclamações de
+  outras empresas de nome parecido e de outras lojas pet, e nenhuma página da Petz. Quem procura a reputação da Petz
+  pode estar lendo a de outra empresa. O capítulo 5 responde isso.
+- **Números lidos e com período:** as páginas de terceiros citam a nota sem período. O artigo dá a tabela da releitura,
+  com o período na legenda.
+
 ## Esqueleto
 1. Resposta rápida: reputação Ótima no Reclame Aqui, nota 8,3 em seis meses, 89% de reclamações resolvidas; o
    problema mais citado é atraso na entrega. Sem preço; os números com o período no texto, não na resposta.
@@ -43,7 +51,9 @@ produto mais citado. O artigo transforma isso em cuidado prático na hora de com
 3. Como a nota mudou: as abas de 12 meses, 2025 e 2024, se a releitura mostrar diferença. Sem as abas, a seção sai.
 4. O que mais gera reclamação: atraso na entrega, ração, pedido incompleto, troca de item errado. Sem citar cliente
    pelo nome; resumir o padrão das reclamações lidas.
-5. Loja online e loja física: o Reclame Aqui separa os perfis (física 7,9); o artigo explica qual é qual.
+5. Qual perfil é a Petz: o Reclame Aqui separa "Petz - Loja Online" e "Petz - Loja Física" (7,9), e há empresas de
+   nome parecido com perfil próprio. O artigo ensina a achar o perfil certo pelo nome exato e pelo CNPJ. Citar outra
+   empresa por nome só depois de conferir no navegador que o CNPJ é outro, sem julgar a reputação dela.
 6. Como evitar dor de cabeça: conferir o prazo na sacola pelo CEP, Entrega Expressa e o crédito em dobro no atraso,
    Retire na Loja, conferir o pedido na entrega, prazos de troca (7, 30 e 90 dias) e o Alô Petz.
 7. Se der problema: os canais da Petz primeiro (Meus Pedidos, Alô Petz, loja física), depois o Reclame Aqui.
