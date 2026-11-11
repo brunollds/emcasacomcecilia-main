@@ -271,3 +271,10 @@ FAQ (formato "pergunta? resposta", título reconhecido por `isFaqHeading`):
 - Redação em outra sessão; Job 3 aplicado e revisado pelo Claude em 14/10/2026: "nosso teste" no lugar de "testei", a frase do médico ou nutricionista uma vez e a campanha da capa citada no texto alternativo (Bruno, 14/10: manter a campanha).
 - JSON `content/reviews/max-titanium-e-confiavel.json`, id 430.
 - Imagens (prints de tela de 14/10/2026, recortados e com marca-texto nosso): `max-titanium-confiavel-capa.webp`, `max-titanium-rodape-cnpj.webp`. Refeito para leitura no celular: o rodapé (recomposto em três linhas).
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/max-titanium/max-titanium-e-confiavel-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pote branco de Glutamina Pro Brandão da Max Titanium, em foto oficial do produto.
+- **Origem:** foto oficial da Glutamina Pro Brandão, categoria tratada no artigo; não afirma teste desse SKU no carrinho. Sem geração por IA.
+- **Lote 22 do piloto de capas (sequência 7 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-7-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/max-titanium/max-titanium-confiavel-capa-discover.webp`) fica no CDN, sem uso como capa.

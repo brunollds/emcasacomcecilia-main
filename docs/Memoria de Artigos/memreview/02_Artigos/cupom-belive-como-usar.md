@@ -409,3 +409,10 @@ Se você já ia comprar na Belive, sim. São 10% em todo o site, em todas as for
 ### Nota de transparência
 
 Este é um artigo de parceria comissionada: o Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom MAUAD na Belive. Fontes: site oficial da Belive (belivebefree.com.br), a página de regras de frete do site, o texto de devolução da loja e o nosso teste de checkout de 16/10/2026. Frete e desconto mudam com o tempo: confira no carrinho antes de pagar.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/belive/cupom-belive-como-usar-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Duas metades do Brownie Proteico Double Chocolate da Belive sobre madeira, com a embalagem ao fundo, em foto oficial.
+- **Origem:** foto oficial do Brownie Proteico Double Chocolate, sem degustação nossa. Sem geração por IA.
+- **Lote 24 do piloto de capas (sequência 7 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-7-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/belive/cupom-belive-capa-discover.webp`) fica no CDN, sem uso como capa.

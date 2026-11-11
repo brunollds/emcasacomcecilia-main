@@ -42129,6 +42129,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/belive/cupom-belive-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/belive/cupom-belive-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 222090,
+      "sha256": "7cefbcf899449631acc131e277252502b92d6fd9a6c74e8c17a295e4ce3d90dc",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-belive-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-belive-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-belive-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-belive-como-usar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/belive/cupom-belive-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7cefbcf899449631acc131e277252502b92d6fd9a6c74e8c17a295e4ce3d90dc/cupom-belive-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7cefbcf899449631acc131e277252502b92d6fd9a6c74e8c17a295e4ce3d90dc/cupom-belive-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.128Z",
+      "verification_etag_or_digest": "7cefbcf899449631acc131e277252502b92d6fd9a6c74e8c17a295e4ce3d90dc",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/belive/cupom-belive-resumo-desconto.webp",
       "local_url": "/images/reviews/belive/cupom-belive-resumo-desconto.webp",
       "media_kind": "image",
@@ -44496,6 +44534,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T04:02:59.960Z",
       "verification_etag_or_digest": "6b204e6437901ec1f29d5d093689a49d1d0ba45b9bda38f17b00c6c335c83487",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/cupom-black-skull-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/black-skull/cupom-black-skull-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86488,
+      "sha256": "e64fc9f449a6833608e87328978bfc915ae45e5cb9640fcadc728e59434d68a6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-black-skull-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-black-skull-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-black-skull-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-black-skull-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/cupom-black-skull-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e64fc9f449a6833608e87328978bfc915ae45e5cb9640fcadc728e59434d68a6/cupom-black-skull-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e64fc9f449a6833608e87328978bfc915ae45e5cb9640fcadc728e59434d68a6/cupom-black-skull-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "e64fc9f449a6833608e87328978bfc915ae45e5cb9640fcadc728e59434d68a6",
       "verification_status": "verified"
     },
     {
@@ -48543,6 +48619,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/cupom-cecilia12-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/cupom-cecilia12-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 99220,
+      "sha256": "5719d55df77d913248db4a2ff07e6e40d7ea70b656598af13b98026797364fea",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-cecilia12-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-cecilia12-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-cecilia12-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-cecilia12-como-usar.json",
+          "line": 12,
+          "column": 13,
+          "literal": "/images/reviews/cupom-cecilia12-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5719d55df77d913248db4a2ff07e6e40d7ea70b656598af13b98026797364fea/cupom-cecilia12-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5719d55df77d913248db4a2ff07e6e40d7ea70b656598af13b98026797364fea/cupom-cecilia12-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "5719d55df77d913248db4a2ff07e6e40d7ea70b656598af13b98026797364fea",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/cupom-cecilia12/1-escolha-produto.png",
       "local_url": "/images/reviews/cupom-cecilia12/1-escolha-produto.png",
       "media_kind": "image",
@@ -48876,6 +48990,116 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.365Z",
       "verification_etag_or_digest": "8f9db2eb2d4b535c94ba5e0bb01190b2e116df91dcf9cfe4ff84c8bc50d2c50a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38994,
+      "sha256": "199230211c77c22b6edf363956605b3e780d4a415c1d5b27e3a41d5a6c413077",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
+      "storage_filename": "codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/code-recompense-yesstyle-cecilia010.json",
+        "content/reviews/codice-ricompensa-yesstyle-cecilia010.json",
+        "content/reviews/codigo-cecilia010-yesstyle-como-usar.json",
+        "content/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010.json",
+        "content/reviews/yesstyle-reward-code-cecilia010-ja.json",
+        "content/reviews/yesstyle-reward-code-cecilia010-ko.json",
+        "content/reviews/yesstyle-reward-code-cecilia010-zh-hans.json",
+        "content/reviews/yesstyle-reward-code-cecilia010-zh-hant.json",
+        "content/reviews/yesstyle-reward-code-coupon-cecilia010.json",
+        "content/reviews/yesstyle-reward-code-rabatt-cecilia010.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/code-recompense-yesstyle-cecilia010.json",
+          "line": 14,
+          "column": 13,
+          "literal": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/codice-ricompensa-yesstyle-cecilia010.json",
+          "line": 15,
+          "column": 13,
+          "literal": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/codigo-cecilia010-yesstyle-como-usar.json",
+          "line": 15,
+          "column": 13,
+          "literal": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010.json",
+          "line": 14,
+          "column": 13,
+          "literal": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-reward-code-cecilia010-ja.json",
+          "line": 12,
+          "column": 13,
+          "literal": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-reward-code-cecilia010-ko.json",
+          "line": 12,
+          "column": 13,
+          "literal": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-reward-code-cecilia010-zh-hans.json",
+          "line": 12,
+          "column": 13,
+          "literal": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-reward-code-cecilia010-zh-hant.json",
+          "line": 12,
+          "column": 13,
+          "literal": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-reward-code-coupon-cecilia010.json",
+          "line": 14,
+          "column": 13,
+          "literal": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-reward-code-rabatt-cecilia010.json",
+          "line": 14,
+          "column": 13,
+          "literal": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/199230211c77c22b6edf363956605b3e780d4a415c1d5b27e3a41d5a6c413077/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/199230211c77c22b6edf363956605b3e780d4a415c1d5b27e3a41d5a6c413077/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "199230211c77c22b6edf363956605b3e780d4a415c1d5b27e3a41d5a6c413077",
       "verification_status": "verified"
     },
     {
@@ -54435,6 +54659,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/poltrona-de-amamentacao-como-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/damie/poltrona-de-amamentacao-como-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 144576,
+      "sha256": "e7b797991fa6d32fa6942e8b8fe1f5f14efc19473a9060cdb86e20167fc344d1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-de-amamentacao-como-escolher-capa-v2.webp",
+      "storage_filename": "poltrona-de-amamentacao-como-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-de-amamentacao-como-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-de-amamentacao-como-escolher.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltrona-de-amamentacao-como-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e7b797991fa6d32fa6942e8b8fe1f5f14efc19473a9060cdb86e20167fc344d1/poltrona-de-amamentacao-como-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e7b797991fa6d32fa6942e8b8fe1f5f14efc19473a9060cdb86e20167fc344d1/poltrona-de-amamentacao-como-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "e7b797991fa6d32fa6942e8b8fe1f5f14efc19473a9060cdb86e20167fc344d1",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/poltrona-decorativa-aurora-levita-capa-discover.webp",
       "local_url": "/images/reviews/damie/poltrona-decorativa-aurora-levita-capa-discover.webp",
       "media_kind": "image",
@@ -58052,6 +58314,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-descalcificacao-passo-a-passo-capa-v2.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-descalcificacao-passo-a-passo-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60232,
+      "sha256": "abccc602fb487bc15d950d4592d6d2537a40e17e5e7290c215752667099f1a77",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-descalcificacao-passo-a-passo-capa-v2.webp",
+      "storage_filename": "dolce-gusto-descalcificacao-passo-a-passo-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-descalcificacao-passo-a-passo.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-descalcificacao-passo-a-passo.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-descalcificacao-passo-a-passo-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/abccc602fb487bc15d950d4592d6d2537a40e17e5e7290c215752667099f1a77/dolce-gusto-descalcificacao-passo-a-passo-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/abccc602fb487bc15d950d4592d6d2537a40e17e5e7290c215752667099f1a77/dolce-gusto-descalcificacao-passo-a-passo-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "abccc602fb487bc15d950d4592d6d2537a40e17e5e7290c215752667099f1a77",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dolcegusto/dolce-gusto-e-confiavel-hero.webp",
       "local_url": "/images/reviews/dolcegusto/dolce-gusto-e-confiavel-hero.webp",
       "media_kind": "image",
@@ -61405,6 +61705,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dr-peanut/cupom-dr-peanut-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/dr-peanut/cupom-dr-peanut-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 74378,
+      "sha256": "dbb2a4c799de790e01f70610e4737fa9007ac02e019e5c4ceb8efa28bfa6b0b9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-dr-peanut-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-dr-peanut-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-dr-peanut-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-dr-peanut-como-usar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/dr-peanut/cupom-dr-peanut-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/dbb2a4c799de790e01f70610e4737fa9007ac02e019e5c4ceb8efa28bfa6b0b9/cupom-dr-peanut-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dbb2a4c799de790e01f70610e4737fa9007ac02e019e5c4ceb8efa28bfa6b0b9/cupom-dr-peanut-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "dbb2a4c799de790e01f70610e4737fa9007ac02e019e5c4ceb8efa28bfa6b0b9",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dr-peanut/dr-peanut-12-sabores-potes-2710.webp",
       "local_url": "/images/reviews/dr-peanut/dr-peanut-12-sabores-potes-2710.webp",
       "media_kind": "image",
@@ -63370,6 +63708,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/holyfoods/cupom-holyfoods-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/holyfoods/cupom-holyfoods-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 148626,
+      "sha256": "cf44c64c42f8ac09b00ebbe9a703a5e6b7398a40d2591cd5dd9f637bc6098d2c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-holyfoods-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-holyfoods-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-holyfoods-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-holyfoods-como-usar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/holyfoods/cupom-holyfoods-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/cf44c64c42f8ac09b00ebbe9a703a5e6b7398a40d2591cd5dd9f637bc6098d2c/cupom-holyfoods-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cf44c64c42f8ac09b00ebbe9a703a5e6b7398a40d2591cd5dd9f637bc6098d2c/cupom-holyfoods-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "cf44c64c42f8ac09b00ebbe9a703a5e6b7398a40d2591cd5dd9f637bc6098d2c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/holyfoods/cupom-holyfoods-risoto-al-mare.webp",
       "local_url": "/images/reviews/holyfoods/cupom-holyfoods-risoto-al-mare.webp",
       "media_kind": "image",
@@ -64175,6 +64551,116 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T18:58:08.588Z",
       "verification_etag_or_digest": "d0e85b45c1ac6602c6474161ae22903ec3510f46ef611d4711c1b86d348dba46",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/cupom-hostinger-indicacao-capa-v2.webp",
+      "local_url": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 109906,
+      "sha256": "88c2f113000eb213184e11c57af9e0e2bb00ac145813aee36057c52da20924a6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-hostinger-indicacao-capa-v2.webp",
+      "storage_filename": "cupom-hostinger-indicacao-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/code-promo-hostinger-parrainage.json",
+        "content/reviews/coupon-hostinger-codice-invito.json",
+        "content/reviews/cupom-hostinger-indicacao.json",
+        "content/reviews/cupon-hostinger-codigo-de-referido.json",
+        "content/reviews/hostinger-coupon-code-referral.json",
+        "content/reviews/hostinger-gutschein-empfehlungscode.json",
+        "content/reviews/hostinger-referral-code-ja.json",
+        "content/reviews/hostinger-referral-code-ko.json",
+        "content/reviews/hostinger-referral-code-zh-hans.json",
+        "content/reviews/hostinger-referral-code-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/code-promo-hostinger-parrainage.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/coupon-hostinger-codice-invito.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cupom-hostinger-indicacao.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cupon-hostinger-codigo-de-referido.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-coupon-code-referral.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-gutschein-empfehlungscode.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-referral-code-ja.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-referral-code-ko.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-referral-code-zh-hans.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-referral-code-zh-hant.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/88c2f113000eb213184e11c57af9e0e2bb00ac145813aee36057c52da20924a6/cupom-hostinger-indicacao-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/88c2f113000eb213184e11c57af9e0e2bb00ac145813aee36057c52da20924a6/cupom-hostinger-indicacao-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "88c2f113000eb213184e11c57af9e0e2bb00ac145813aee36057c52da20924a6",
       "verification_status": "verified"
     },
     {
@@ -76921,6 +77407,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/cupom-emcasacomcecilia-insider-store-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/insider/cupom-emcasacomcecilia-insider-store-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57536,
+      "sha256": "fbfb447db5f88cbef2c9752dcd1bfb391b0f28b2d14273877a8c127bd6a53365",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-emcasacomcecilia-insider-store-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-emcasacomcecilia-insider-store-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-emcasacomcecilia-insider-store-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-emcasacomcecilia-insider-store-como-usar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/cupom-emcasacomcecilia-insider-store-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/fbfb447db5f88cbef2c9752dcd1bfb391b0f28b2d14273877a8c127bd6a53365/cupom-emcasacomcecilia-insider-store-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fbfb447db5f88cbef2c9752dcd1bfb391b0f28b2d14273877a8c127bd6a53365/cupom-emcasacomcecilia-insider-store-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "fbfb447db5f88cbef2c9752dcd1bfb391b0f28b2d14273877a8c127bd6a53365",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/gift-card-insider-como-funciona-cupom-capa.webp",
       "local_url": "/images/reviews/insider/gift-card-insider-como-funciona-cupom-capa.webp",
       "media_kind": "image",
@@ -83018,6 +83542,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/iwannasleep/cupom-ceciemcasa-i-wanna-sleep-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/iwannasleep/cupom-ceciemcasa-i-wanna-sleep-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 168304,
+      "sha256": "96e8713a63fd0698e544cc376bf9d86c9cd2801f320f7889f8979774e0b2b154",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-ceciemcasa-i-wanna-sleep-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-ceciemcasa-i-wanna-sleep-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-ceciemcasa-i-wanna-sleep-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-ceciemcasa-i-wanna-sleep-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/cupom-ceciemcasa-i-wanna-sleep-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/96e8713a63fd0698e544cc376bf9d86c9cd2801f320f7889f8979774e0b2b154/cupom-ceciemcasa-i-wanna-sleep-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/96e8713a63fd0698e544cc376bf9d86c9cd2801f320f7889f8979774e0b2b154/cupom-ceciemcasa-i-wanna-sleep-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "96e8713a63fd0698e544cc376bf9d86c9cd2801f320f7889f8979774e0b2b154",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/iwannasleep/i-wanna-sleep-cobertor-igloo-ficha-tecnica-capa-v2.webp",
       "local_url": "/images/reviews/iwannasleep/i-wanna-sleep-cobertor-igloo-ficha-tecnica-capa-v2.webp",
       "media_kind": "image",
@@ -86238,6 +86800,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-14T16:08:01.326Z",
       "verification_etag_or_digest": "adaef86b3263e389fb6775c70d0be6a199f8749a4f01c480e2b6cb8a74b5d45d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lejour/lejour-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/lejour/lejour-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 112080,
+      "sha256": "4332536c46bdb07279c03c55d9893d798f4b6565f265d56ee54260ce9a5fee3d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-e-confiavel-capa-v2.webp",
+      "storage_filename": "lejour-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lejour-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lejour-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/lejour/lejour-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4332536c46bdb07279c03c55d9893d798f4b6565f265d56ee54260ce9a5fee3d/lejour-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4332536c46bdb07279c03c55d9893d798f4b6565f265d56ee54260ce9a5fee3d/lejour-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "4332536c46bdb07279c03c55d9893d798f4b6565f265d56ee54260ce9a5fee3d",
       "verification_status": "verified"
     },
     {
@@ -91573,6 +92173,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/cupom-mauad-lets-eat-it-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/letseatit/cupom-mauad-lets-eat-it-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 51050,
+      "sha256": "7c4d711b94cf41435bed8c9d048eae20597855a2d53a559eb57260fd8abd270f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-mauad-lets-eat-it-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-mauad-lets-eat-it-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-mauad-lets-eat-it-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-mauad-lets-eat-it-como-usar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/cupom-mauad-lets-eat-it-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7c4d711b94cf41435bed8c9d048eae20597855a2d53a559eb57260fd8abd270f/cupom-mauad-lets-eat-it-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7c4d711b94cf41435bed8c9d048eae20597855a2d53a559eb57260fd8abd270f/cupom-mauad-lets-eat-it-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "7c4d711b94cf41435bed8c9d048eae20597855a2d53a559eb57260fd8abd270f",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/lets-eat-it-confiavel-hero-loja.webp",
       "local_url": "/images/reviews/letseatit/lets-eat-it-confiavel-hero-loja.webp",
       "media_kind": "image",
@@ -91944,6 +92582,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-02T22:42:31.463Z",
       "verification_etag_or_digest": "a17161a2c0e5eb860704f3afa429d5639f832394dbae266b57487c01bd83d5f4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/magalu/cupom-magalu-em-casa-com-cecilia-capa-v2.webp",
+      "local_url": "/images/reviews/magalu/cupom-magalu-em-casa-com-cecilia-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 108934,
+      "sha256": "b826b6f2642602566ce73c8b5ed6d9eff3e8d3073ba9f79ec6b91664d958b9bd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-magalu-em-casa-com-cecilia-capa-v2.webp",
+      "storage_filename": "cupom-magalu-em-casa-com-cecilia-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-magalu-em-casa-com-cecilia.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-magalu-em-casa-com-cecilia.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/magalu/cupom-magalu-em-casa-com-cecilia-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b826b6f2642602566ce73c8b5ed6d9eff3e8d3073ba9f79ec6b91664d958b9bd/cupom-magalu-em-casa-com-cecilia-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b826b6f2642602566ce73c8b5ed6d9eff3e8d3073ba9f79ec6b91664d958b9bd/cupom-magalu-em-casa-com-cecilia-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "b826b6f2642602566ce73c8b5ed6d9eff3e8d3073ba9f79ec6b91664d958b9bd",
       "verification_status": "verified"
     },
     {
@@ -94749,6 +95425,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/max-titanium/cupom-max-titanium-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/max-titanium/cupom-max-titanium-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 70164,
+      "sha256": "26897197a5805a9a62c72ec03598271d55a0da9f6287e3a2730372ccf266fc35",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-max-titanium-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-max-titanium-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-max-titanium-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-max-titanium-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/cupom-max-titanium-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/26897197a5805a9a62c72ec03598271d55a0da9f6287e3a2730372ccf266fc35/cupom-max-titanium-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/26897197a5805a9a62c72ec03598271d55a0da9f6287e3a2730372ccf266fc35/cupom-max-titanium-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "26897197a5805a9a62c72ec03598271d55a0da9f6287e3a2730372ccf266fc35",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/max-titanium/max-titanium-confiavel-capa-discover.webp",
       "local_url": "/images/reviews/max-titanium/max-titanium-confiavel-capa-discover.webp",
       "media_kind": "image",
@@ -94996,6 +95710,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-03T02:24:11.952Z",
       "verification_etag_or_digest": "fb7e08b629fbdf56d86b8b6e20cd003efd6fe7f54b4ad90cebc10c9f845f391b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 66064,
+      "sha256": "1661e70a17ad3817bae8a04e970dee8d930f2711a6697fa8b1b3adc70f266c7a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-e-confiavel-capa-v2.webp",
+      "storage_filename": "max-titanium-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-e-confiavel.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/max-titanium-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1661e70a17ad3817bae8a04e970dee8d930f2711a6697fa8b1b3adc70f266c7a/max-titanium-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1661e70a17ad3817bae8a04e970dee8d930f2711a6697fa8b1b3adc70f266c7a/max-titanium-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "1661e70a17ad3817bae8a04e970dee8d930f2711a6697fa8b1b3adc70f266c7a",
       "verification_status": "verified"
     },
     {
@@ -102000,6 +102752,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/probiotica/cupom-probiotica-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/probiotica/cupom-probiotica-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 82216,
+      "sha256": "b2f0f11deedd1ad234380a7ae0ed72c937ebd97e66f94dbcb1cf47b10316735a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-probiotica-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-probiotica-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-probiotica-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-probiotica-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/probiotica/cupom-probiotica-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b2f0f11deedd1ad234380a7ae0ed72c937ebd97e66f94dbcb1cf47b10316735a/cupom-probiotica-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b2f0f11deedd1ad234380a7ae0ed72c937ebd97e66f94dbcb1cf47b10316735a/cupom-probiotica-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "b2f0f11deedd1ad234380a7ae0ed72c937ebd97e66f94dbcb1cf47b10316735a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-capa-v2.webp",
       "local_url": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-capa-v2.webp",
       "media_kind": "image",
@@ -102561,6 +103351,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-03T02:24:11.952Z",
       "verification_etag_or_digest": "fb6b92c02baed38f8b5e2caee85ce66c93dc7df447dcc5ad1bf06f060e000f4f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 91754,
+      "sha256": "3d953923b748dc0200d76260d89af1248deec77f3a8644e9ec26ce323fefdd82",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-e-confiavel-capa-v2.webp",
+      "storage_filename": "probiotica-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/probiotica-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/probiotica-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/probiotica/probiotica-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3d953923b748dc0200d76260d89af1248deec77f3a8644e9ec26ce323fefdd82/probiotica-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3d953923b748dc0200d76260d89af1248deec77f3a8644e9ec26ce323fefdd82/probiotica-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "3d953923b748dc0200d76260d89af1248deec77f3a8644e9ec26ce323fefdd82",
       "verification_status": "verified"
     },
     {
@@ -104554,6 +105382,116 @@
       "uploaded_at": null,
       "verified_at": "2026-11-02T22:42:31.463Z",
       "verification_etag_or_digest": "aaa49097751b19022828013847ee9335cae925e8e11bbc0efe4ce895760aa0b2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/codigo-de-indicacao-shein-capa-v2.webp",
+      "local_url": "/images/reviews/shein/codigo-de-indicacao-shein-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 88996,
+      "sha256": "fd6bd8d8620042eaf986be34ebebc8e08128dbcb17cbb8979aa77e060ed97d5b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "codigo-de-indicacao-shein-capa-v2.webp",
+      "storage_filename": "codigo-de-indicacao-shein-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/code-de-parrainage-shein-ou-le-mettre.json",
+        "content/reviews/codice-invito-shein-dove-inserirlo.json",
+        "content/reviews/codigo-de-indicacao-shein.json",
+        "content/reviews/codigo-de-referido-shein-donde-ponerlo.json",
+        "content/reviews/shein-empfehlungscode-wo-eingeben.json",
+        "content/reviews/shein-referral-code-ja.json",
+        "content/reviews/shein-referral-code-ko.json",
+        "content/reviews/shein-referral-code-where-to-enter.json",
+        "content/reviews/shein-referral-code-zh-hans.json",
+        "content/reviews/shein-referral-code-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/code-de-parrainage-shein-ou-le-mettre.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/codice-invito-shein-dove-inserirlo.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/codigo-de-indicacao-shein.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/codigo-de-referido-shein-donde-ponerlo.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-empfehlungscode-wo-eingeben.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-where-to-enter.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/fd6bd8d8620042eaf986be34ebebc8e08128dbcb17cbb8979aa77e060ed97d5b/codigo-de-indicacao-shein-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fd6bd8d8620042eaf986be34ebebc8e08128dbcb17cbb8979aa77e060ed97d5b/codigo-de-indicacao-shein-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "fd6bd8d8620042eaf986be34ebebc8e08128dbcb17cbb8979aa77e060ed97d5b",
       "verification_status": "verified"
     },
     {
@@ -112043,6 +112981,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/simple-organic/cupom-simple-organic-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/simple-organic/cupom-simple-organic-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38628,
+      "sha256": "0417b8d538532548392b39eb0205e90d8796b91d077b420a3c13d76abcd58c72",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-simple-organic-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-simple-organic-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-simple-organic-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-simple-organic-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/cupom-simple-organic-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0417b8d538532548392b39eb0205e90d8796b91d077b420a3c13d76abcd58c72/cupom-simple-organic-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0417b8d538532548392b39eb0205e90d8796b91d077b420a3c13d76abcd58c72/cupom-simple-organic-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "0417b8d538532548392b39eb0205e90d8796b91d077b420a3c13d76abcd58c72",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/simple-organic/duo-limpeza-regeneracao.webp",
       "local_url": "/images/reviews/simple-organic/duo-limpeza-regeneracao.webp",
       "media_kind": "image",
@@ -115066,6 +116042,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/skelt/cupom-skelt-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/skelt/cupom-skelt-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 69202,
+      "sha256": "90a2ec13ebbf01c743fa5943c548b103c071603195471eeb18dcfd2cbf1a4c55",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-skelt-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-skelt-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-skelt-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-skelt-como-usar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/skelt/cupom-skelt-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/90a2ec13ebbf01c743fa5943c548b103c071603195471eeb18dcfd2cbf1a4c55/cupom-skelt-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/90a2ec13ebbf01c743fa5943c548b103c071603195471eeb18dcfd2cbf1a4c55/cupom-skelt-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "90a2ec13ebbf01c743fa5943c548b103c071603195471eeb18dcfd2cbf1a4c55",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/skelt/cupom-skelt-preco-mousse.webp",
       "local_url": "/images/reviews/skelt/cupom-skelt-preco-mousse.webp",
       "media_kind": "image",
@@ -117997,6 +119011,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/toda-up/cupom-toda-up-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/toda-up/cupom-toda-up-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 98338,
+      "sha256": "ceffd9a2264822aa5943452933c22ca80a84e833bc31fd72d34f86723381951a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-toda-up-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-toda-up-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-toda-up-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-toda-up-como-usar.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/cupom-toda-up-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ceffd9a2264822aa5943452933c22ca80a84e833bc31fd72d34f86723381951a/cupom-toda-up-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ceffd9a2264822aa5943452933c22ca80a84e833bc31fd72d34f86723381951a/cupom-toda-up-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "ceffd9a2264822aa5943452933c22ca80a84e833bc31fd72d34f86723381951a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/toda-up/cupom-toda-up-conta-carrinho-2610.webp",
       "local_url": "/images/reviews/toda-up/cupom-toda-up-conta-carrinho-2610.webp",
       "media_kind": "image",
@@ -118226,6 +119278,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-05T17:50:52.257Z",
       "verification_etag_or_digest": "536e644b7e7e05908167fa8ab3c5fc5c78250fc8028e318303492db819115e46",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/fita-up-onde-comprar-original-capa-v2.webp",
+      "local_url": "/images/reviews/toda-up/fita-up-onde-comprar-original-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 154398,
+      "sha256": "393e60af7be5bc4f72e1b5cc98c7e561fdd75a3ccf76de8764a4d53b6d73c52e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "fita-up-onde-comprar-original-capa-v2.webp",
+      "storage_filename": "fita-up-onde-comprar-original-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/fita-up-onde-comprar-original.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/fita-up-onde-comprar-original.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/fita-up-onde-comprar-original-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/393e60af7be5bc4f72e1b5cc98c7e561fdd75a3ccf76de8764a4d53b6d73c52e/fita-up-onde-comprar-original-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/393e60af7be5bc4f72e1b5cc98c7e561fdd75a3ccf76de8764a4d53b6d73c52e/fita-up-onde-comprar-original-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "393e60af7be5bc4f72e1b5cc98c7e561fdd75a3ccf76de8764a4d53b6d73c52e",
       "verification_status": "verified"
     },
     {
@@ -128456,6 +129546,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-24T04:35:12.136Z",
       "verification_etag_or_digest": "e09b9263e0e88dd347a4655db17556fc654cb732e116ce953bf59a0a06a58ce4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/cupom-ceci-nestle-nutre-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/cupom-ceci-nestle-nutre-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 111042,
+      "sha256": "6d6711f528542df2924c72d09601283914b36bd3df6b72cd35d96c238c43da97",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-ceci-nestle-nutre-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-ceci-nestle-nutre-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-ceci-nestle-nutre-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-ceci-nestle-nutre-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/cupom-ceci-nestle-nutre-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6d6711f528542df2924c72d09601283914b36bd3df6b72cd35d96c238c43da97/cupom-ceci-nestle-nutre-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6d6711f528542df2924c72d09601283914b36bd3df6b72cd35d96c238c43da97/cupom-ceci-nestle-nutre-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T17:10:05.129Z",
+      "verification_etag_or_digest": "6d6711f528542df2924c72d09601283914b36bd3df6b72cd35d96c238c43da97",
       "verification_status": "verified"
     },
     {

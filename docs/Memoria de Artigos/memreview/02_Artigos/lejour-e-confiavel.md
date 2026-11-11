@@ -203,3 +203,10 @@ FAQ:
 ## Publicação (14/10/2026)
 
 No ar desde 14/10/2026 17:28 UTC: PR #93 (`fd0700d`), deploy `894e4a1e…`, build `01a13b73…`. Smoke ok e IndexNow enviado.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/lejour/lejour-e-confiavel-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Casal abraçado em um campo florido, em imagem institucional oficial da Lejour.
+- **Origem:** imagem institucional oficial da Lejour com um casal; não é cliente verificado nem prova de segurança. Sem geração por IA.
+- **Lote 23 do piloto de capas (sequência 7 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-7-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/lejour/lejour-confiavel-capa-discover.webp`) fica no CDN, sem uso como capa.

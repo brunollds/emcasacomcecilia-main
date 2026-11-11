@@ -168,3 +168,10 @@ Sim, e muito! Ao concluir sua compra com o cupom `EMCASACOMCECILIA`, nosso proje
 ### Fechamento da Cecília: Vida Real e Boas Escolhas
 
 Cuidar da casa e das compras da nossa família é, no fim das contas, buscar equilíbrio: escolher o que dura, evitar desperdício de tempo e dinheiro e desfrutar do conforto que a gente merece no dia a dia. Roupas que não amassam, não retêm cheiro e aguentam a rotina corrida de uma casa ativa são um alívio para quem cuida da lavanderia e do orçamento. Aproveite a oportunidade para vestir a vida real com peças inteligentes e fazer escolhas conscientes para o seu lar!
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/insider/cupom-emcasacomcecilia-insider-store-como-usar-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo com Tech T-Shirt feminina Indigo e pantalona branca da Insider, em foto oficial, ao lado do código EMCASACOMCECILIA.
+- **Origem:** foto oficial da Tech T-Shirt feminina Indigo com pantalona branca e o código EMCASACOMCECILIA. Sem geração por IA.
+- **Lote 22 do piloto de capas (sequência 7 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-7-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/insider/cupom-emcasacomcecilia-insider-store-como-usar-capa-discover.webp`) fica no CDN, sem uso como capa.

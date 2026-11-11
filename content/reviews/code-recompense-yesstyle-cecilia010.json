@@ -11,9 +11,10 @@
   "updatedAt": "2026-11-06",
   "draft": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
-  "imageAlt": "Produits de K-beauty et de soins coréens YesStyle disposés sur une table claire.",
-  "imageFit": "cover",
+  "image": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
+  "imageAlt": "Masque pour les lèvres Abib PDRN Collagen Glazed Jelly dans une image officielle du fabricant, à côté du logo YesStyle et du code de récompense CECILIA010.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "pros": [
     "Code d'influenceuse qui ajoute jusqu'à 5 % en plus des coupons promotionnels éligibles",
     "Valable aussi bien pour une première commande (5 % en plus) que pour des achats récurrents (2 % en plus)",

@@ -237,3 +237,10 @@ primeira compra e nas seguintes". É mudança em `/cupons`, fora do escopo desta
 - Redação em outra sessão; Job 3 aplicado e revisado pelo Claude em 14/10/2026: "nosso teste" no lugar de "testei", a frase do médico ou nutricionista uma vez e a campanha da capa citada no texto alternativo (Bruno, 14/10: manter a campanha).
 - JSON `content/reviews/cupom-max-titanium-como-usar.json`, id 432.
 - Imagens (prints de tela de 14/10/2026, recortados e com marca-texto nosso): `max-titanium-cupom-01-carrinho-sem-cupom.webp`, `max-titanium-cupom-03-desconto-aplicado.webp`, `max-titanium-cupom-capa.webp`.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/max-titanium/cupom-max-titanium-como-usar-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pote do Top Whey 3W Mais Natural Cacau da Max Titanium em foto oficial, ao lado do código MAX10EMCASACOMCECILIA.
+- **Origem:** foto oficial do Top Whey 3W Mais Natural Cacau e o código MAX10EMCASACOMCECILIA; não afirma teste desse SKU. Sem geração por IA.
+- **Lote 24 do piloto de capas (sequência 7 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-7-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/max-titanium/cupom-max-titanium-capa-discover.webp`) fica no CDN, sem uso como capa.

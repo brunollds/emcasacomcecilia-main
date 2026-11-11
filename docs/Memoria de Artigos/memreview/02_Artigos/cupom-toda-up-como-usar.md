@@ -282,3 +282,10 @@ Upload FTPS, verificação HTTPS (18/18 da Toda Up), `prepare-delivery --append`
 ## Retrofit "Fita Up" (decisão do Bruno, 26/10/2026; aplicado em 27/10/2026)
 
 Redigido pelo Fable 5.1, conferido pelo Claude: seoTitle "Cupom Fita Up / Toda Up: 10% OFF, como usar e o que soma", uma frase na introdução sobre o nome antigo e a seção "Kits e o que não testamos": o cupom somou com os kits Leve 2 e Leve 3 no teste do Bruno de 26/10/2026. Títulos dos relacionados atualizados em 616 a 619.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/cupom-toda-up-como-usar-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Duas modelos adultas com sutiãs Comfort Line rosa e preto da Toda Up, em foto oficial.
+- **Origem:** foto oficial de duas modelos adultas com o Comfort Line, sem código na arte. Sem geração por IA.
+- **Lote 23 do piloto de capas (sequência 7 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-7-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/toda-up/cupom-toda-up-capa-discover.webp`) fica no CDN, sem uso como capa.

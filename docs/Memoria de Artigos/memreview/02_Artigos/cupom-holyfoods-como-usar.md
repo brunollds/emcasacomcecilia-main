@@ -259,3 +259,10 @@ O Bruno liberou os vídeos da Cecília com os produtos (05/11). `youtubeUrl`: ht
 ## Publicado
 
 No ar em 05/11/2026, release `040b1515` (build `01a1ac5f`), com o vídeo da Cecília e o banner da Black da HolyFoods. `covers:check` 4/4 na produção, sitemap e llms.txt conferidos, IndexNow enviado.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/holyfoods/cupom-holyfoods-como-usar-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Prato de Sopa Detox da HolyFoods com parte da embalagem ao lado, em composição oficial da marca.
+- **Origem:** composição oficial da Sopa Detox, sem preparo nem degustação nossa. Sem geração por IA.
+- **Lote 23 do piloto de capas (sequência 7 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-7-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/holyfoods/cupom-holyfoods-capa.webp`) fica no CDN, sem uso como capa.

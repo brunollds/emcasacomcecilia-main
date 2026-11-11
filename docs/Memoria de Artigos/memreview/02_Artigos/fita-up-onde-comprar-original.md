@@ -274,3 +274,10 @@ Lido no Chrome do Bruno. Preços do dia, em plena Black Friday dos canais.
 - **Preço real, não o promocional:** os R$ 84,40 do Mercado Livre eram promoção do dia (desconto do produto de 53% e cupom da loja, no detalhe de preço que o Bruno colou; outro anúncio: R$ 199,90 com 40% OFF, cupom da loja, cupom extra e Pix). A tabela passa a usar o preço sem promoção do ML (R$ 179,90), e o texto manda conferir pelo link se há promoção no momento.
 - **Veredito invertido:** pelo preço de tabela, o site com o MAUAD (R$ 105,21) é o mais em conta e o único com a troca pelo portal da marca. O cartão de destaque, a resposta rápida, o quadro "Leve se / Passe se" e o capítulo "Qual canal escolher" mudaram junto.
 - **Fora do artigo:** C&A e Renner (deixavam confuso o texto abaixo da tabela). Saíram também a pergunta "Fita Up vende na Renner?" do FAQ e a C&A do `toda-up-e-confiavel`. O localizador de lojas parceiras fica, sem citar a Renner.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/fita-up-onde-comprar-original-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Três rolos de Fita Up parcialmente desenrolados em foto oficial da Toda Up, ao lado da chamada Fita Up original: onde comprar?
+- **Origem:** foto oficial de três rolos de Fita Up, sem a extensão desfocada que duplicava pontas nas laterais. Sem geração por IA.
+- **Lote 24 do piloto de capas (sequência 7 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-7-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/toda-up/fita-up-onde-comprar-original-capa.webp`) fica no CDN, sem uso como capa.

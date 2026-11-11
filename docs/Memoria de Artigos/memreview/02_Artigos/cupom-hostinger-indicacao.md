@@ -287,3 +287,10 @@ Pauta aprovada. Valem estas decisões sobre o texto acima:
 - **O que mudou nas 10 versões:** `coupon: "SONAR20"`; links `?REFERRALCODE=SONAR20` com o caminho mantido (PT em `/br`); saíram "não há código", "só no link", "12 meses ou mais", "só cliente novo" e "não soma"; "com/sem a indicação" virou "com/sem o SONAR20"; a nota de transparência fala em comissão, sem o "crédito na Hostinger".
 - **Renovação:** o SONAR20 não dá desconto na renovação (termos do programa, 05/11; os artigos foram corrigidos no #580). O texto diz "a renovação sai pelo preço da tabela"; os preços de renovação lidos na página seguem nas tabelas como preço de tabela.
 - **Regras daqui em diante:** as do dossiê [[Hostinger]] (seção 3). As instruções de "indicação, sem código" acima ficam só como histórico.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/hostinger/cupom-hostinger-indicacao-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Cenário ilustrativo gerado por IA com monitor de tela roxa sobre uma mesa, ao lado do logo oficial da Hostinger e do código SONAR20.
+- **Origem:** cenário ilustrativo gerado por IA (image_gen, prompt e hash em GERACAO-HOSTINGER.json do lote 24), monitor sem marca com tela roxa lisa; logo oficial e SONAR20 aplicados depois na composição. Não é foto da infraestrutura, do hPanel nem de uso real da Cecília. Cenário parecido com o da capa da Black Friday Hostinger; o Bruno aceitou a semelhança em 11/11/2026. Uma capa só para os 10 idiomas da família, com o alt de cada idioma.
+- **Lote 24 do piloto de capas (sequência 7 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-7-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp`) fica no CDN, sem uso como capa.

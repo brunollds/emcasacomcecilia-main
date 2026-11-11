@@ -9,8 +9,8 @@
   "publishedAtISO": "2026-07-11",
   "updatedAt": "2026-11-06",
   "draft": false,
-  "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
-  "imageAlt": "밝은 테이블 위에 놓인 YesStyle의 K-beauty·한국 스킨케어 제품.",
+  "image": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
+  "imageAlt": "제조사 공식 이미지의 Abib PDRN Collagen Glazed Jelly 립 마스크 옆에 YesStyle 로고와 리워드 코드 CECILIA010이 표시되어 있습니다.",
   "pros": [
     "적격 프로모션 쿠폰에 최대 5%가 더해지는 인플루언서 코드",
     "첫 구매(5% 추가)에도, 재구매(2% 추가)에도 적용 가능",
@@ -223,7 +223,8 @@
   "translationKey": "yesstyle-reward-code",
   "category": "cupons-como-usar",
   "metaDescription": "YesStyle에서 CECILIA010 사용법: Reward Code 칸에 입력, 최대 5% 추가(첫 구매 5%, 재구매 2%), 결제 화면에서 확인되는 적격 프로모션 쿠폰과 함께 사용할 수 있습니다.",
-  "imageFit": "cover",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "editorialNote": "제휴 링크: 링크와 Reward Code CECILIA010를 통해 수수료를 받을 수 있습니다.",
   "isNew": false
 }
