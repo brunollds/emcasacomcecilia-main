@@ -209,6 +209,25 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-04"
   },
   {
+    "id": "holyfoods-1111-2026",
+    "affiliate": "holyfoods",
+    "slot": "mid",
+    "endsAt": "2026-11-12T23:59:59-03:00",
+    "href": "https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "11.11 da Holy: até 4 Holys grátis",
+        "text": "Campanha da própria HolyFoods: brindes só até 12/11, além do 30% OFF no site todo. As regras dos brindes aparecem no site da loja.",
+        "action": "Encher meu carrinho"
+      }
+    },
+    "source": "Comunicado da HolyFoods (\"Começou: 11.11 da Holy. Apenas 72h de brindes + 30% OFF no site todo. Até 12/11, ganhe até 04 Holys grátis\"), imagem enviada pelo Bruno em 11/11/2026",
+    "verifiedAt": "2026-11-11"
+  },
+  {
     "id": "holyfoods-black-2026",
     "affiliate": "holyfoods",
     "slot": "top",
