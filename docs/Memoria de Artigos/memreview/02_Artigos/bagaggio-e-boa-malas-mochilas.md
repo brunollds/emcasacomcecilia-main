@@ -161,3 +161,10 @@ Fatos: `bagaggio-e-boa-malas-mochilas-fatos-2910.md`, ao lado.
 - Preços do cartão lidos em 29/10/2026; cupom e Pix numa frase fora da tabela.
 - Saiu no mesmo PR da correção da Samsonite em `bagaggio-e-confiavel` e `bagaggio-garantia-vitalicia` (a lista de marcas atribuída à página de garantia). Imagens do CDN: capa, cadeado e mochila Horizonte. No mesmo PR, o teste do fundo de caderno passou a ler só as classes (os links das mochilas "para notebook" disparavam o guarda).
 - Pendente: reler os preços na Black Friday de 2026.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo usa mochila preta Arpoador da Bagaggio em área externa, em fotografia oficial.
+- **Origem:** foto oficial da mochila Arpoador preta em cena externa; não é das linhas Travelcross do artigo e não prova a qualidade do catálogo. Sem geração por IA.
+- **Lote 14 do piloto de capas (sequência 4 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-4-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-capa.webp`) fica no CDN, sem uso como capa.

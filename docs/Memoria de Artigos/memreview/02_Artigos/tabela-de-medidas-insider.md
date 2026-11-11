@@ -462,3 +462,10 @@ Fase 2 do retrofit pedido pelo Bruno em 12/10/2026; folha de contato aprovada po
 - "Como medir uma camiseta sua e comparar": gráfico nosso, sem palavras, `insider-como-medir-camiseta.webp`, com as setas nas posições das tabelas oficiais.
 - "Tech T-Shirt feminina": `insider-tabela-medidas-tech-t-shirt-feminina.webp`, a tabela oficial em 820×395, a metade exata, como a da cueca. Sai do staging de 12/10; as tabelas não usadas continuam lá.
 - A tabela da cueca ganhou a proporção exata (`aspectRatio: 2.0759`), sem faixas.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/insider/tabela-de-medidas-insider-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo veste camiseta Tech T-Shirt mescla da Insider, com barra e mangas visíveis, em foto oficial.
+- **Origem:** foto oficial da Tech T-Shirt mescla com barra e mangas visíveis; sem medidas nem tamanho do modelo inventados (o "crop" do nome do arquivo de origem é da galeria oficial). Sem geração por IA.
+- **Lote 14 do piloto de capas (sequência 4 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-4-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/insider/tabela-de-medidas-insider-capa-discover.webp`) fica no CDN, sem uso como capa.

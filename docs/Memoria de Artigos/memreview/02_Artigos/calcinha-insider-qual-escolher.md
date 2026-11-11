@@ -106,3 +106,10 @@ Revisão externa (`docs/auditoria-copy-artigos/novos-20261108-i14-f13-f14/PARECE
 - Boxer em uma linha: estava disponível só no PP na consulta. Reler na Black Friday.
 - Veredito sem "Se fosse para a minha casa": Brief Corte a Laser para primeira compra com cobertura intermediária.
 - Card de estilo nos três capítulos de cobertura, em `scripts/styling-required.json`.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/insider/calcinha-insider-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo adulta veste calcinha Brief branca de corte a laser da Insider e camiseta cinza, em fotografia oficial.
+- **Origem:** foto oficial da Brief branca de corte a laser com modelo adulta, sem alteração de corpo ou roupa; o corte não vale para os oito modelos do guia. Sem geração por IA.
+- **Lote 14 do piloto de capas (sequência 4 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-4-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/insider/calcinha-insider-qual-escolher-capa.webp`) fica no CDN, sem uso como capa.

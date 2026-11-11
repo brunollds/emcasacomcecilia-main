@@ -37347,6 +37347,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-capa-v2.webp",
+      "local_url": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 97456,
+      "sha256": "f46abcf4bb9581f953c461536ed6fb079b405141d687a287bedf9d60bef5c242",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bagaggio-e-boa-malas-mochilas-capa-v2.webp",
+      "storage_filename": "bagaggio-e-boa-malas-mochilas-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bagaggio-e-boa-malas-mochilas.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bagaggio-e-boa-malas-mochilas.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f46abcf4bb9581f953c461536ed6fb079b405141d687a287bedf9d60bef5c242/bagaggio-e-boa-malas-mochilas-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f46abcf4bb9581f953c461536ed6fb079b405141d687a287bedf9d60bef5c242/bagaggio-e-boa-malas-mochilas-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.146Z",
+      "verification_etag_or_digest": "f46abcf4bb9581f953c461536ed6fb079b405141d687a287bedf9d60bef5c242",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-capa.webp",
       "local_url": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-capa.webp",
       "media_kind": "image",
@@ -37476,6 +37514,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T22:17:12.625Z",
       "verification_etag_or_digest": "c556a287e0026f40b978d88a8679fa64959d132770c23206a860d9d4c3b3c864",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/bagaggio-garantia-vitalicia-capa-v2.webp",
+      "local_url": "/images/reviews/bagaggio/bagaggio-garantia-vitalicia-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 68248,
+      "sha256": "9c0d99c05dc7e5868c6bcd54aaa98cd99bd8f659577354f39ceaf3abf64853a7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bagaggio-garantia-vitalicia-capa-v2.webp",
+      "storage_filename": "bagaggio-garantia-vitalicia-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bagaggio-garantia-vitalicia.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bagaggio-garantia-vitalicia.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/bagaggio-garantia-vitalicia-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9c0d99c05dc7e5868c6bcd54aaa98cd99bd8f659577354f39ceaf3abf64853a7/bagaggio-garantia-vitalicia-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9c0d99c05dc7e5868c6bcd54aaa98cd99bd8f659577354f39ceaf3abf64853a7/bagaggio-garantia-vitalicia-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.147Z",
+      "verification_etag_or_digest": "9c0d99c05dc7e5868c6bcd54aaa98cd99bd8f659577354f39ceaf3abf64853a7",
       "verification_status": "verified"
     },
     {
@@ -37786,6 +37862,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T22:17:12.625Z",
       "verification_etag_or_digest": "e55e653e849eb5bbc194042a811d7b825e2d178b17c45994b05aed3c0f879125",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/black-friday-bagaggio-capa-v2.webp",
+      "local_url": "/images/reviews/bagaggio/black-friday-bagaggio-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 54320,
+      "sha256": "cf9302a16701441feabcb3699d514f6aa04a833ba4fc0c75b6cdc84a76fe2efc",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-bagaggio-capa-v2.webp",
+      "storage_filename": "black-friday-bagaggio-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-bagaggio.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-bagaggio.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/black-friday-bagaggio-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/cf9302a16701441feabcb3699d514f6aa04a833ba4fc0c75b6cdc84a76fe2efc/black-friday-bagaggio-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cf9302a16701441feabcb3699d514f6aa04a833ba4fc0c75b6cdc84a76fe2efc/black-friday-bagaggio-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.147Z",
+      "verification_etag_or_digest": "cf9302a16701441feabcb3699d514f6aa04a833ba4fc0c75b6cdc84a76fe2efc",
       "verification_status": "verified"
     },
     {
@@ -40127,6 +40241,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/belive/belive-e-boa-capa-v2.webp",
+      "local_url": "/images/reviews/belive/belive-e-boa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 175294,
+      "sha256": "e8889689e9720a084f3289ce056f7463fbc1354cc7c4edad946853c87d90e48a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "belive-e-boa-capa-v2.webp",
+      "storage_filename": "belive-e-boa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/belive-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/belive-e-boa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/belive/belive-e-boa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e8889689e9720a084f3289ce056f7463fbc1354cc7c4edad946853c87d90e48a/belive-e-boa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e8889689e9720a084f3289ce056f7463fbc1354cc7c4edad946853c87d90e48a/belive-e-boa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.147Z",
+      "verification_etag_or_digest": "e8889689e9720a084f3289ce056f7463fbc1354cc7c4edad946853c87d90e48a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/belive/belive-e-boa-capa.webp",
       "local_url": "/images/reviews/belive/belive-e-boa-capa.webp",
       "media_kind": "image",
@@ -41111,6 +41263,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/belive/black-friday-belive-capa-v2.webp",
+      "local_url": "/images/reviews/belive/black-friday-belive-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 128868,
+      "sha256": "13f8be82d29d0783d9e1f9f25d2d4c2ca23bf10d8993c2fcd56b691b84ed59ac",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-belive-capa-v2.webp",
+      "storage_filename": "black-friday-belive-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-belive.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-belive.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/belive/black-friday-belive-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/13f8be82d29d0783d9e1f9f25d2d4c2ca23bf10d8993c2fcd56b691b84ed59ac/black-friday-belive-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/13f8be82d29d0783d9e1f9f25d2d4c2ca23bf10d8993c2fcd56b691b84ed59ac/black-friday-belive-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.147Z",
+      "verification_etag_or_digest": "13f8be82d29d0783d9e1f9f25d2d4c2ca23bf10d8993c2fcd56b691b84ed59ac",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/belive/bolinho-kids-belive-fotos-2810.webp",
       "local_url": "/images/reviews/belive/bolinho-kids-belive-fotos-2810.webp",
       "media_kind": "image",
@@ -41298,6 +41488,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-28T18:04:44.588Z",
       "verification_etag_or_digest": "75217124294176a7e50153783e5f6725a7dfe928db66562477fcadf4b0dfd11e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-capa-v2.webp",
+      "local_url": "/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 202186,
+      "sha256": "032a03daedc90e792d01cbb7563dce027ce12620ec169bead20c6b608ea3ac27",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bolinho-sem-acucar-belive-ou-suavipan-capa-v2.webp",
+      "storage_filename": "bolinho-sem-acucar-belive-ou-suavipan-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bolinho-sem-acucar-belive-ou-suavipan.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bolinho-sem-acucar-belive-ou-suavipan.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/032a03daedc90e792d01cbb7563dce027ce12620ec169bead20c6b608ea3ac27/bolinho-sem-acucar-belive-ou-suavipan-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/032a03daedc90e792d01cbb7563dce027ce12620ec169bead20c6b608ea3ac27/bolinho-sem-acucar-belive-ou-suavipan-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.147Z",
+      "verification_etag_or_digest": "032a03daedc90e792d01cbb7563dce027ce12620ec169bead20c6b608ea3ac27",
       "verification_status": "verified"
     },
     {
@@ -54073,6 +54301,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/poltrona-moon-design-que-parece-obra-de-arte-capa-v2.webp",
+      "local_url": "/images/reviews/damie/poltrona-moon-design-que-parece-obra-de-arte-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 122766,
+      "sha256": "eb65e9b1074f8f9e97fa42a2dd1e3f070d2bc7d8e429e82071575758b0cdd0f5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-moon-design-que-parece-obra-de-arte-capa-v2.webp",
+      "storage_filename": "poltrona-moon-design-que-parece-obra-de-arte-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-moon-design-que-parece-obra-de-arte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-moon-design-que-parece-obra-de-arte.json",
+          "line": 62,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltrona-moon-design-que-parece-obra-de-arte-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/eb65e9b1074f8f9e97fa42a2dd1e3f070d2bc7d8e429e82071575758b0cdd0f5/poltrona-moon-design-que-parece-obra-de-arte-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/eb65e9b1074f8f9e97fa42a2dd1e3f070d2bc7d8e429e82071575758b0cdd0f5/poltrona-moon-design-que-parece-obra-de-arte-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.147Z",
+      "verification_etag_or_digest": "eb65e9b1074f8f9e97fa42a2dd1e3f070d2bc7d8e429e82071575758b0cdd0f5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/poltrona-reclinavel-damie-1-0-giro-balanco-bege.webp",
       "local_url": "/images/reviews/damie/poltrona-reclinavel-damie-1-0-giro-balanco-bege.webp",
       "media_kind": "image",
@@ -56929,6 +57195,44 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.365Z",
       "verification_etag_or_digest": "a9fab32cb17bf1f119067d3bc7ea52fb7918347d876b53c2e8c80bf1c0c20a0c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-genio-s-basic-vs-plus-vs-touch-capa-v2.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-genio-s-basic-vs-plus-vs-touch-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 96670,
+      "sha256": "7385bd7e4b4f9a54b345d0477a1a5bc2e08b3c72b6735bbb4327ee40f4896363",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-genio-s-basic-vs-plus-vs-touch-capa-v2.webp",
+      "storage_filename": "dolce-gusto-genio-s-basic-vs-plus-vs-touch-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-genio-s-basic-vs-plus-vs-touch.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-genio-s-basic-vs-plus-vs-touch.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-genio-s-basic-vs-plus-vs-touch-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7385bd7e4b4f9a54b345d0477a1a5bc2e08b3c72b6735bbb4327ee40f4896363/dolce-gusto-genio-s-basic-vs-plus-vs-touch-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7385bd7e4b4f9a54b345d0477a1a5bc2e08b3c72b6735bbb4327ee40f4896363/dolce-gusto-genio-s-basic-vs-plus-vs-touch-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.147Z",
+      "verification_etag_or_digest": "7385bd7e4b4f9a54b345d0477a1a5bc2e08b3c72b6735bbb4327ee40f4896363",
       "verification_status": "verified"
     },
     {
@@ -72399,6 +72703,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/black-friday-insider-feminino-capa-v2.webp",
+      "local_url": "/images/reviews/insider/black-friday-insider-feminino-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 59666,
+      "sha256": "97d7a1dd40613ff712db8472f807184cb5a1b5af335cbfb8f5a34aaef4915cf8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-insider-feminino-capa-v2.webp",
+      "storage_filename": "black-friday-insider-feminino-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-insider-feminino.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-insider-feminino.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/insider/black-friday-insider-feminino-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/97d7a1dd40613ff712db8472f807184cb5a1b5af335cbfb8f5a34aaef4915cf8/black-friday-insider-feminino-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/97d7a1dd40613ff712db8472f807184cb5a1b5af335cbfb8f5a34aaef4915cf8/black-friday-insider-feminino-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.148Z",
+      "verification_etag_or_digest": "97d7a1dd40613ff712db8472f807184cb5a1b5af335cbfb8f5a34aaef4915cf8",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/black-friday-insider-feminino-capa.webp",
       "local_url": "/images/reviews/insider/black-friday-insider-feminino-capa.webp",
       "media_kind": "image",
@@ -73142,6 +73484,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-08T20:30:00.050Z",
       "verification_etag_or_digest": "8cc92c0eb3048ad80ec14de8033284f3f54f249f452b6f3723b4181ce7d62076",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calcinha-insider-qual-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/insider/calcinha-insider-qual-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48516,
+      "sha256": "5063ff0cf899aac27e0b5a228c8d179b72c27841f78588f7a0586ddb146e77b0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calcinha-insider-qual-escolher-capa-v2.webp",
+      "storage_filename": "calcinha-insider-qual-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calcinha-insider-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calcinha-insider-qual-escolher.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/insider/calcinha-insider-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5063ff0cf899aac27e0b5a228c8d179b72c27841f78588f7a0586ddb146e77b0/calcinha-insider-qual-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5063ff0cf899aac27e0b5a228c8d179b72c27841f78588f7a0586ddb146e77b0/calcinha-insider-qual-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.148Z",
+      "verification_etag_or_digest": "5063ff0cf899aac27e0b5a228c8d179b72c27841f78588f7a0586ddb146e77b0",
       "verification_status": "verified"
     },
     {
@@ -74491,6 +74871,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/camiseta-insider-encolhe-como-lavar-capa-v2.webp",
+      "local_url": "/images/reviews/insider/camiseta-insider-encolhe-como-lavar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 59278,
+      "sha256": "acff10cbe0b33c723d7a948f8e7a074eb4632b665675ce4d6c0abba567ac09d3",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-insider-encolhe-como-lavar-capa-v2.webp",
+      "storage_filename": "camiseta-insider-encolhe-como-lavar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-insider-encolhe-como-lavar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-insider-encolhe-como-lavar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/camiseta-insider-encolhe-como-lavar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/acff10cbe0b33c723d7a948f8e7a074eb4632b665675ce4d6c0abba567ac09d3/camiseta-insider-encolhe-como-lavar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/acff10cbe0b33c723d7a948f8e7a074eb4632b665675ce4d6c0abba567ac09d3/camiseta-insider-encolhe-como-lavar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.148Z",
+      "verification_etag_or_digest": "acff10cbe0b33c723d7a948f8e7a074eb4632b665675ce4d6c0abba567ac09d3",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/camiseta-insider-encolhe-como-lavar-capa.webp",
       "local_url": "/images/reviews/insider/camiseta-insider-encolhe-como-lavar-capa.webp",
       "media_kind": "image",
@@ -75722,6 +76140,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-20T17:19:24.050Z",
       "verification_etag_or_digest": "f76a0e1bb1f289fb6ad5771e21f15ab9aed6c3dccbfa8a4aef9152fbbfcff73e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-mercado-livre-ou-site-capa-v2.webp",
+      "local_url": "/images/reviews/insider/insider-mercado-livre-ou-site-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 66372,
+      "sha256": "26edc8ddd9049812905c095fb11cf1844d789de5f78ee0194822fcb470de4043",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-mercado-livre-ou-site-capa-v2.webp",
+      "storage_filename": "insider-mercado-livre-ou-site-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-mercado-livre-ou-site.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-mercado-livre-ou-site.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/insider/insider-mercado-livre-ou-site-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/26edc8ddd9049812905c095fb11cf1844d789de5f78ee0194822fcb470de4043/insider-mercado-livre-ou-site-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/26edc8ddd9049812905c095fb11cf1844d789de5f78ee0194822fcb470de4043/insider-mercado-livre-ou-site-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.148Z",
+      "verification_etag_or_digest": "26edc8ddd9049812905c095fb11cf1844d789de5f78ee0194822fcb470de4043",
       "verification_status": "verified"
     },
     {
@@ -79483,6 +79939,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/tabela-de-medidas-insider-capa-v2.webp",
+      "local_url": "/images/reviews/insider/tabela-de-medidas-insider-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 107624,
+      "sha256": "1e4d7b737902432826254ab12cd72b81e7fd86d0b6a54a30210f6b0989ab5aa9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tabela-de-medidas-insider-capa-v2.webp",
+      "storage_filename": "tabela-de-medidas-insider-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/tabela-de-medidas-insider.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/tabela-de-medidas-insider.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/insider/tabela-de-medidas-insider-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1e4d7b737902432826254ab12cd72b81e7fd86d0b6a54a30210f6b0989ab5aa9/tabela-de-medidas-insider-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1e4d7b737902432826254ab12cd72b81e7fd86d0b6a54a30210f6b0989ab5aa9/tabela-de-medidas-insider-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.148Z",
+      "verification_etag_or_digest": "1e4d7b737902432826254ab12cd72b81e7fd86d0b6a54a30210f6b0989ab5aa9",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/undershirt-insider-qual-escolher-funciona-capa-v2.webp",
       "local_url": "/images/reviews/insider/undershirt-insider-qual-escolher-funciona-capa-v2.webp",
       "media_kind": "image",
@@ -79924,6 +80418,44 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "485143e74b12f21ea63e2d431548495f9688ba81b4f6b9d3827f09cec87c7679",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/aliv-head-gel-iws-mascara-termica-enxaqueca-capa-v2.webp",
+      "local_url": "/images/reviews/iwannasleep/aliv-head-gel-iws-mascara-termica-enxaqueca-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 95966,
+      "sha256": "23f9a14320723e196f478f5224928038c7330b36445ae577d6e68c04a7b44797",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "aliv-head-gel-iws-mascara-termica-enxaqueca-capa-v2.webp",
+      "storage_filename": "aliv-head-gel-iws-mascara-termica-enxaqueca-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/aliv-head-gel-iws-mascara-termica-enxaqueca.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/aliv-head-gel-iws-mascara-termica-enxaqueca.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/aliv-head-gel-iws-mascara-termica-enxaqueca-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/23f9a14320723e196f478f5224928038c7330b36445ae577d6e68c04a7b44797/aliv-head-gel-iws-mascara-termica-enxaqueca-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/23f9a14320723e196f478f5224928038c7330b36445ae577d6e68c04a7b44797/aliv-head-gel-iws-mascara-termica-enxaqueca-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.148Z",
+      "verification_etag_or_digest": "23f9a14320723e196f478f5224928038c7330b36445ae577d6e68c04a7b44797",
       "verification_status": "verified"
     },
     {
@@ -84373,6 +84905,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/black-friday-letseatit-capa-v2.webp",
+      "local_url": "/images/reviews/letseatit/black-friday-letseatit-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 212822,
+      "sha256": "faea4e7d1c04e0fb2091d185a9981a68aba4ce42971673ee14db407493db335b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-letseatit-capa-v2.webp",
+      "storage_filename": "black-friday-letseatit-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-letseatit.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-letseatit.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/black-friday-letseatit-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/faea4e7d1c04e0fb2091d185a9981a68aba4ce42971673ee14db407493db335b/black-friday-letseatit-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/faea4e7d1c04e0fb2091d185a9981a68aba4ce42971673ee14db407493db335b/black-friday-letseatit-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.148Z",
+      "verification_etag_or_digest": "faea4e7d1c04e0fb2091d185a9981a68aba4ce42971673ee14db407493db335b",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
       "local_url": "/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
       "media_kind": "image",
@@ -85553,6 +86123,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/le-creuset-original-como-saber-capa-v2.webp",
+      "local_url": "/images/reviews/letseatit/le-creuset-original-como-saber-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86988,
+      "sha256": "cdceca074dcd7ed9f9d06fed83fe9a3a8b7e0399bc7aff4d55ad122e69af2b81",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "le-creuset-original-como-saber-capa-v2.webp",
+      "storage_filename": "le-creuset-original-como-saber-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/le-creuset-original-como-saber.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/le-creuset-original-como-saber.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/le-creuset-original-como-saber-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/cdceca074dcd7ed9f9d06fed83fe9a3a8b7e0399bc7aff4d55ad122e69af2b81/le-creuset-original-como-saber-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cdceca074dcd7ed9f9d06fed83fe9a3a8b7e0399bc7aff4d55ad122e69af2b81/le-creuset-original-como-saber-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.148Z",
+      "verification_etag_or_digest": "cdceca074dcd7ed9f9d06fed83fe9a3a8b7e0399bc7aff4d55ad122e69af2b81",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/le-creuset-panela-queimada-3-passos.webp",
       "local_url": "/images/reviews/letseatit/le-creuset-panela-queimada-3-passos.webp",
       "media_kind": "image",
@@ -85882,6 +86490,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-03T02:50:39.050Z",
       "verification_etag_or_digest": "0725587540c569d596249989ee24dbbaac9dd286a9f1506a8f91d6cf1f801af0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/lets-eat-it-e-boa-capa-v2.webp",
+      "local_url": "/images/reviews/letseatit/lets-eat-it-e-boa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 102156,
+      "sha256": "41aacc2476bea7f5af8a558fc9b1a0bc342fd1dbb32dc60e5d95e41776b70061",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lets-eat-it-e-boa-capa-v2.webp",
+      "storage_filename": "lets-eat-it-e-boa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lets-eat-it-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lets-eat-it-e-boa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/lets-eat-it-e-boa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/41aacc2476bea7f5af8a558fc9b1a0bc342fd1dbb32dc60e5d95e41776b70061/lets-eat-it-e-boa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/41aacc2476bea7f5af8a558fc9b1a0bc342fd1dbb32dc60e5d95e41776b70061/lets-eat-it-e-boa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.148Z",
+      "verification_etag_or_digest": "41aacc2476bea7f5af8a558fc9b1a0bc342fd1dbb32dc60e5d95e41776b70061",
       "verification_status": "verified"
     },
     {
@@ -87217,6 +87863,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/presente-natal-quem-gosta-de-cozinhar-capa-v2.webp",
+      "local_url": "/images/reviews/letseatit/presente-natal-quem-gosta-de-cozinhar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 120998,
+      "sha256": "4cd9b1e4154a04cd78ebd3a0aec5160eeb492bc94cb73f7cd0348797c60927ad",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-natal-quem-gosta-de-cozinhar-capa-v2.webp",
+      "storage_filename": "presente-natal-quem-gosta-de-cozinhar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-natal-quem-gosta-de-cozinhar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-natal-quem-gosta-de-cozinhar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/presente-natal-quem-gosta-de-cozinhar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4cd9b1e4154a04cd78ebd3a0aec5160eeb492bc94cb73f7cd0348797c60927ad/presente-natal-quem-gosta-de-cozinhar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4cd9b1e4154a04cd78ebd3a0aec5160eeb492bc94cb73f7cd0348797c60927ad/presente-natal-quem-gosta-de-cozinhar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.148Z",
+      "verification_etag_or_digest": "4cd9b1e4154a04cd78ebd3a0aec5160eeb492bc94cb73f7cd0348797c60927ad",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/presente-natal-ramekin-coracao-le-creuset.webp",
       "local_url": "/images/reviews/letseatit/presente-natal-ramekin-coracao-le-creuset.webp",
       "media_kind": "image",
@@ -88350,6 +89034,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-04T03:24:51.733Z",
       "verification_etag_or_digest": "84e5c98a24a6bc939d691db72328dc18c1ec50390c8cdd0714b7dffc2756516e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 83680,
+      "sha256": "8d905d1328f92f222a6cc67645bf4764d86209e21187052901b2c79ac512c226",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-e-confiavel-capa-v2.webp",
+      "storage_filename": "clea-store-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-e-confiavel.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/clea-store-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/8d905d1328f92f222a6cc67645bf4764d86209e21187052901b2c79ac512c226/clea-store-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8d905d1328f92f222a6cc67645bf4764d86209e21187052901b2c79ac512c226/clea-store-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.148Z",
+      "verification_etag_or_digest": "8d905d1328f92f222a6cc67645bf4764d86209e21187052901b2c79ac512c226",
       "verification_status": "verified"
     },
     {
@@ -110430,6 +111152,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/skelt/black-friday-skelt-capa-v2.webp",
+      "local_url": "/images/reviews/skelt/black-friday-skelt-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 87908,
+      "sha256": "36c79429bcf0b281f7bcee15775a79b726f9df77a658d54f1946be7b861aca1a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-skelt-capa-v2.webp",
+      "storage_filename": "black-friday-skelt-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-skelt.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-skelt.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/skelt/black-friday-skelt-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/36c79429bcf0b281f7bcee15775a79b726f9df77a658d54f1946be7b861aca1a/black-friday-skelt-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/36c79429bcf0b281f7bcee15775a79b726f9df77a658d54f1946be7b861aca1a/black-friday-skelt-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.148Z",
+      "verification_etag_or_digest": "36c79429bcf0b281f7bcee15775a79b726f9df77a658d54f1946be7b861aca1a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/skelt/black-friday-skelt-capa.webp",
       "local_url": "/images/reviews/skelt/black-friday-skelt-capa.webp",
       "media_kind": "image",
@@ -110611,6 +111371,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-23T22:31:30.577Z",
       "verification_etag_or_digest": "30a94eacffd2c6ef5bcd779e64ee51e60c033ad7f3dff30f90daa3b3e92e3a48",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/body-splash-skelt-milos-breeze-capa-v2.webp",
+      "local_url": "/images/reviews/skelt/body-splash-skelt-milos-breeze-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 148128,
+      "sha256": "48efad74d640309b252594e1bb59640cf66d9eb80461e754387d27d590342d93",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "body-splash-skelt-milos-breeze-capa-v2.webp",
+      "storage_filename": "body-splash-skelt-milos-breeze-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-splash-skelt-milos-breeze.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-splash-skelt-milos-breeze.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/skelt/body-splash-skelt-milos-breeze-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/48efad74d640309b252594e1bb59640cf66d9eb80461e754387d27d590342d93/body-splash-skelt-milos-breeze-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/48efad74d640309b252594e1bb59640cf66d9eb80461e754387d27d590342d93/body-splash-skelt-milos-breeze-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.148Z",
+      "verification_etag_or_digest": "48efad74d640309b252594e1bb59640cf66d9eb80461e754387d27d590342d93",
       "verification_status": "verified"
     },
     {
@@ -110893,6 +111691,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-10T22:34:49.935Z",
       "verification_etag_or_digest": "05d393b736d0d15a07541843eabf828999a1e5bd3bba1d9fae753f4f992c01ab",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/body-splash-skelt-solar-muse-capa-v2.webp",
+      "local_url": "/images/reviews/skelt/body-splash-skelt-solar-muse-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 160920,
+      "sha256": "bce7bc3fe70f73f764d2d4f112a3d876d62dd71f9e911654ff9cb86b0323b96f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "body-splash-skelt-solar-muse-capa-v2.webp",
+      "storage_filename": "body-splash-skelt-solar-muse-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-splash-skelt-solar-muse.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-splash-skelt-solar-muse.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/skelt/body-splash-skelt-solar-muse-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bce7bc3fe70f73f764d2d4f112a3d876d62dd71f9e911654ff9cb86b0323b96f/body-splash-skelt-solar-muse-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bce7bc3fe70f73f764d2d4f112a3d876d62dd71f9e911654ff9cb86b0323b96f/body-splash-skelt-solar-muse-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.148Z",
+      "verification_etag_or_digest": "bce7bc3fe70f73f764d2d4f112a3d876d62dd71f9e911654ff9cb86b0323b96f",
       "verification_status": "verified"
     },
     {
@@ -111475,6 +112311,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-05T12:40:37.267Z",
       "verification_etag_or_digest": "8dce6430d13ed8299098125ab3662b336e2362fc33e8ae8ed9e345f6b9f96b0e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/bronzeado-instantaneo-skelt-ou-autobronzeador-capa-v2.webp",
+      "local_url": "/images/reviews/skelt/bronzeado-instantaneo-skelt-ou-autobronzeador-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 150556,
+      "sha256": "737951ab4ba2e709fc53617d4bc61e873c80f351c7ef2bc36dd21ce96a2b7b14",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bronzeado-instantaneo-skelt-ou-autobronzeador-capa-v2.webp",
+      "storage_filename": "bronzeado-instantaneo-skelt-ou-autobronzeador-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/skelt/bronzeado-instantaneo-skelt-ou-autobronzeador-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/737951ab4ba2e709fc53617d4bc61e873c80f351c7ef2bc36dd21ce96a2b7b14/bronzeado-instantaneo-skelt-ou-autobronzeador-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/737951ab4ba2e709fc53617d4bc61e873c80f351c7ef2bc36dd21ce96a2b7b14/bronzeado-instantaneo-skelt-ou-autobronzeador-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.148Z",
+      "verification_etag_or_digest": "737951ab4ba2e709fc53617d4bc61e873c80f351c7ef2bc36dd21ce96a2b7b14",
       "verification_status": "verified"
     },
     {
@@ -112219,6 +113093,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-30T16:45:08.751Z",
       "verification_etag_or_digest": "ef109ff023c9c6af026290fc5ed8f55febe131974b54c998f98171216bc34179",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-capa-v2.webp",
+      "local_url": "/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 55088,
+      "sha256": "9a5144b06ef5759bbd490b25f2f7d7428c8b9c64dcabeb2fe5b4ed58319b0ca8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "removedor-autobronzeador-skelt-como-tirar-capa-v2.webp",
+      "storage_filename": "removedor-autobronzeador-skelt-como-tirar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/removedor-autobronzeador-skelt-como-tirar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/removedor-autobronzeador-skelt-como-tirar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9a5144b06ef5759bbd490b25f2f7d7428c8b9c64dcabeb2fe5b4ed58319b0ca8/removedor-autobronzeador-skelt-como-tirar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9a5144b06ef5759bbd490b25f2f7d7428c8b9c64dcabeb2fe5b4ed58319b0ca8/removedor-autobronzeador-skelt-como-tirar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T01:31:11.148Z",
+      "verification_etag_or_digest": "9a5144b06ef5759bbd490b25f2f7d7428c8b9c64dcabeb2fe5b4ed58319b0ca8",
       "verification_status": "verified"
     },
     {

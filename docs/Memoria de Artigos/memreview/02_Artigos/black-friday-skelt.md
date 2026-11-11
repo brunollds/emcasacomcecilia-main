@@ -219,3 +219,10 @@ Sem percentual calculado sobre o preço cheio: a tabela mostra só os dois valor
 
 1. Mercado Livre: o link está certo e entra onde a Mais Mu usa o link (FAQ). Preço não citado.
 5. "BF - Live 05/11": a loja prepara uma live de aquecimento em 5/11, pelo nome de uma coleção do site. Indício, não promessa de desconto.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/skelt/black-friday-skelt-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Mãos aplicam Mousse Autobronzeador Dark da Skelt sobre luva preta, em imagem promocional oficial.
+- **Origem:** foto oficial do Mousse Dark na luva, sem alteração de pele nem resultado prometido. Sem geração por IA.
+- **Lote 15 do piloto de capas (sequência 4 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-4-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/skelt/black-friday-skelt-capa-discover.webp`) fica no CDN, sem uso como capa.

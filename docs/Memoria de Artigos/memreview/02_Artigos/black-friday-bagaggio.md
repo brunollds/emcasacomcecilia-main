@@ -247,3 +247,10 @@ Folha aprovada em 22/10/2026 (capas na primeira rodada; mais fotos de produto no
 - **Cupom na sacola: a conta com o Pix:** `/images/reviews/bagaggio/bagaggio-downtown-preta.webp` (portrait, 0.5057). Alt: "Mala de Bordo PP Downtown Preta, de frente, com a alça puxada". Legenda: "Mala de Bordo PP Downtown Preta, a do teste de 22/10/2026. Foto oficial da loja.". Origem: Foto oficial do catálogo (Downtown PP preta), fundo recortado.
 - **Garantia: malas e mochilas são diferentes:** `/images/reviews/bagaggio/bf-mochila-floral-camelia.webp` (portrait, 0.7219). Alt: "Foto oficial da Mochila Feminina Floral Camélia Rosa da Bagaggio, no site da loja". Legenda: "Mochila Feminina Floral Camélia Rosa, foto oficial do site lida em 22/10/2026: de R$ 79,90 por R$ 69,90, sem cupom.". Origem: Foto oficial do catálogo (Mochila Floral Camélia Rosa, marca Bagaggio), fundo recortado.
 - **Vale esperar novembro?:** `/images/reviews/bagaggio/bagaggio-route-vinho-ambiente.webp` (square, 1.0). Alt: "Mulher com três malas Route vinho da Bagaggio, de tamanhos diferentes, em frente a um portão". Legenda: "Malas Route vinho da Bagaggio. Foto oficial da loja.". Origem: Foto oficial de ambiente do catálogo (Route G vinho, marca Bagaggio).
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/bagaggio/black-friday-bagaggio-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Mala Detroit Prata II tamanho G da Bagaggio em ângulo, com puxador estendido e rodas visíveis, em foto oficial.
+- **Origem:** foto oficial da Detroit PrataII G da tabela (diferente da P prata da capa de bordo), puxador e rodas completos, sem selo de companhia aérea nem promoção. Sem geração por IA.
+- **Lote 15 do piloto de capas (sequência 4 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-4-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/bagaggio/black-friday-bagaggio-capa.webp`) fica no CDN, sem uso como capa.

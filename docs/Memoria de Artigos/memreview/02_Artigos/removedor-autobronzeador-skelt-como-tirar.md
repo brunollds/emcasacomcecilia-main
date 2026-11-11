@@ -118,3 +118,10 @@ Fatos: `removedor-autobronzeador-skelt-como-tirar-fatos-2910.md`, ao lado.
 ## Publicação (30/10/2026)
 - No ar em 30/10/2026 17:02 UTC: PR #369, release `5c16b59c`, id 753 (PT).
 - Removedor R$ 69,90 e luva R$ 34,90 em 30/10. O preço do removedor no guia de autobronzeador já estava certo.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Mão segura frasco do Removedor para Autobronzeador Skelt de 140 ml contra fundo azul, em foto oficial.
+- **Origem:** foto oficial do removedor 140 ml na mão (não é autobronzeador), sem antes e depois nem promessa de eficácia. Sem geração por IA.
+- **Lote 14 do piloto de capas (sequência 4 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-4-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-capa.webp`) fica no CDN, sem uso como capa.

@@ -148,3 +148,10 @@ presentes de Natal, sempre pela Let's Eat It.
 7. **Perguntas frequentes** (Le Creuset Black Friday, frete grátis, primeira compra, Casa Let's).
 
 **Rodadas de atualização:** iguais às do `black-friday-dolce-gusto`.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/letseatit/black-friday-letseatit-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Prato azul Bio Oceano da Porto Brasil com refeição em mesa posta, em foto oficial da loja parceira.
+- **Origem:** foto oficial do prato Bio Oceano na mesa; a galeria é de jogo de seis pratos e não representa o aparelho de 30 peças nem o preço dele. Sem geração por IA.
+- **Lote 14 do piloto de capas (sequência 4 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-4-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/letseatit/black-friday-letseatit-capa-discover.webp`) fica no CDN, sem uso como capa.

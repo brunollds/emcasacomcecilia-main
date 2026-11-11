@@ -369,3 +369,10 @@ Vendedora: NHD Foods Indústria, Comércio, Importação e Exportação Ltda. Co
 ### Nota de transparência
 
 Este artigo é de parceria comissionada com a Belive: podemos receber comissão pelo uso do cupom MAUAD, sem custo para você. Preços, cupom e condições foram conferidos no site oficial da loja (belivebefree.com.br: página Black November, regras de frete, FAQ e páginas de produto) e em teste de checkout, em 16/10/2026.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/belive/black-friday-belive-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pão de forma tradicional Belive fatiado com embalagem ao fundo, em fotografia oficial.
+- **Origem:** foto oficial do pão tradicional, sem degustação nossa nem fórmula de todos os itens; sem porcentagem, preço, data ou código na arte. Sem geração por IA.
+- **Lote 14 do piloto de capas (sequência 4 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-4-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/belive/black-friday-belive-capa-discover.webp`) fica no CDN, sem uso como capa.
