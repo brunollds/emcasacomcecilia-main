@@ -241,3 +241,10 @@ As perguntas acima foram respondidas em 17/10/2026; o que vale é esta seção.
 ### Decisões específicas
 - As duas linhas do painel (185 e 104 pedidos) são tratadas como um produto só: a loja vende uma caixa avulsa (10 cápsulas) e o sabor também entra em combos e kits. O texto não fala em duas versões.
 - O briefing de `assinatura-dolce-gusto-vale-a-pena` no vault trata o Mochaccino como dose dupla; o JSON publicado não repete isso. É uma cápsula por bebida.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/dolcegusto/mochaccino-canela-dolce-gusto-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Copo de Mochaccino Canela e cápsula laranja da Dolce Gusto, em imagem promocional.
+- **Origem:** imagem promocional de bebida e cápsula, sem teste nosso nem ingrediente acrescentado. Sem geração por IA.
+- **Lote 11 do piloto de capas (sequência 3 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-3-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/dolcegusto/mochaccino-canela-dolce-gusto-capa.webp`) fica no CDN, sem uso como capa.

@@ -161,3 +161,10 @@ Fatos: `hidratante-corporal-skelt-qual-fragrancia-fatos-2910.md`, ao lado.
 - Preços do cartão lidos em 29/10/2026; cupom e Pix numa frase fora da tabela.
 - Cupom no avulso sem promoção não testado: o texto diz só a regra. O `body-splash-skelt-qual-escolher` ganhou o link. Imagens do CDN: capa, florais, kit Radiante e Velvet Milano.
 - Pendente: reler os preços na Black Friday de 2026.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo segura pote de hidratante Hidden Flowers da Skelt e mostra creme no ombro.
+- **Origem:** modelo da campanha Hidden Flowers da Skelt (não é a Cecília nem teste do site), com pele e produto preservados. Sem geração por IA.
+- **Lote 10 do piloto de capas (sequência 3 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-3-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-capa.webp`) fica no CDN, sem uso como capa.

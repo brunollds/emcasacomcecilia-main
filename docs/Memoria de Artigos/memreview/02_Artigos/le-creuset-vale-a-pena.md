@@ -213,3 +213,10 @@ Pedido do Bruno de 12/10/2026; folha de contato aprovada por ele em 13/10/2026. 
 - "O que a Le Creuset diz sobre o ferro fundido": `le-creuset-redonda-signature-tampa-alcas.webp`, foto de produto da Let's Eat It na vista de 3/4 (a foto de lado repetia a capa). A página do produto diz "Pegadores de aço inoxidável resistentes à qualquer temperatura do forno" (lida em 13/10/2026).
 - "Como limpar a panela queimada": gráfico nosso de três passos, sem palavras, `le-creuset-panela-queimada-3-passos.webp`.
 - "Onde comprar: Let's Eat It": carrossel com `lets-eat-it-le-creuset-pagina.webp` (recorte do print do Bruno de 12/10/2026, sem a barra de campanha nem o banner de Halloween) e `le-creuset-localizador-lets-eat-it.webp` (já no site).
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/letseatit/le-creuset-vale-a-pena-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Mãos seguram uma panela vermelha Le Creuset Signature com tampa.
+- **Origem:** foto contextual da Signature vermelha; o preço do exemplo é da Cotton e não vale para a vermelha, e a pessoa não é a Cecília nem teste nosso. Semelhança leve com a capa de `le-creuset-qual-tamanho-escolher` (outra foto da panela vermelha). Sem geração por IA.
+- **Lote 11 do piloto de capas (sequência 3 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-3-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/letseatit/le-creuset-redonda-signature-cotton.webp`) fica no CDN, sem uso como capa.

@@ -228,3 +228,10 @@ Respostas do Bruno de 23/10/2026 ao lote de seis pautas. Ele aprovou as recomend
 - **Os 6 modelos de camiseta lado a lado:** `/images/reviews/clea-store/camiseta-clea-store-avulsa.webp`
 - **Avulsa ou kit: quanto sai cada peça:** `/images/reviews/clea-store/camiseta-clea-store-kit-classic.webp`
 - **Avulsa ou kit: quanto sai cada peça:** `/images/reviews/clea-store/camiseta-clea-store-kit-colorful.webp`
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/clea-store/camiseta-clea-store-e-boa-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo veste camiseta rosa da Cléa Store e segura caixa do kit Colorful.
+- **Origem:** foto oficial da Cléa Store, roupa e modelo sem alteração; pose diferente das usadas em outras capas da loja. Sem geração por IA.
+- **Lote 10 do piloto de capas (sequência 3 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-3-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/clea-store/camiseta-clea-store-e-boa-capa-discover.webp`) fica no CDN, sem uso como capa.

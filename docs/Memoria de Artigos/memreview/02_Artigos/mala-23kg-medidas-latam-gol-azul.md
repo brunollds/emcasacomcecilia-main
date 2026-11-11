@@ -120,3 +120,10 @@ Pedido do Bruno em 09/11/2026: um artigo útil sobre a mala de 23 kg, que leva �
 ## No ar
 
 - 09/11/2026, release c7de2dcc (#791), deploy 118863e8, build 01a1c278. Smoke 18/18, covers:check 1/1, IndexNow 4 URLs, captura 42714742723.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/bagaggio/mala-23kg-medidas-latam-gol-azul-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Mala Bagaggio My Way média de 26 polegadas preta, com puxador e rodas visíveis.
+- **Origem:** foto oficial da My Way média de 26 polegadas preta (não é mala de bordo), sem selo de aceitação de companhia aérea. Sem geração por IA.
+- **Lote 12 do piloto de capas (sequência 3 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-3-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/bagaggio/mala-23kg-medidas-latam-gol-azul-capa.webp`) fica no CDN, sem uso como capa.

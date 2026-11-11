@@ -257,3 +257,10 @@ Job 2 na sessão elaboradora de artigos.
 - **Texto em PT:** redigido por subagentes em dois blocos de capítulos a partir deste briefing (Job 2), juntado e revisado por Claude (Job 3) e aprovado pelo Bruno em 20/10/2026. Só PT. id 515, `/reviews/presente-de-casamento-ideias-por-preco`, autoria da Cecília.
 - **Preços:** relidos em 20/10/2026 (Let's Eat It), com a data no texto; itens em pré-venda ou com dado quebrado ficaram fora. Cupom MAUAD (5%, soma com o Pix). Sem experiência própria com os produtos.
 - **Imagens:** em `public/images/reviews/letseatit/`, escolhidas pelo Bruno na folha de contato: fotos de produto da loja, duas delas já publicadas (Porto Brasil Bio Latte e Le Creuset Signature Cotton). Upload pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/letseatit/presente-de-casamento-ideias-por-preco-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Taças de diferentes formatos com borda dourada sobre fundo escuro.
+- **Origem:** galeria oficial com três formatos de taças, que não formam necessariamente um kit; o alt não atribui todas à linha Angela. Foto inteira em contain, com as bases laterais já cortadas no original. Sem geração por IA.
+- **Lote 11 do piloto de capas (sequência 3 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-3-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/letseatit/presente-casamento-tacas-bohemia-angela.webp`) fica no CDN, sem uso como capa.

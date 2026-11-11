@@ -38193,6 +38193,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bagaggio/mala-23kg-medidas-latam-gol-azul-capa-v2.webp",
+      "local_url": "/images/reviews/bagaggio/mala-23kg-medidas-latam-gol-azul-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36204,
+      "sha256": "33d5fbe7de8ab341d4321be3ee89985bffb2d5a367eaa896c85f9e56e9e73c7b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mala-23kg-medidas-latam-gol-azul-capa-v2.webp",
+      "storage_filename": "mala-23kg-medidas-latam-gol-azul-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mala-23kg-medidas-latam-gol-azul.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mala-23kg-medidas-latam-gol-azul.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/mala-23kg-medidas-latam-gol-azul-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/33d5fbe7de8ab341d4321be3ee89985bffb2d5a367eaa896c85f9e56e9e73c7b/mala-23kg-medidas-latam-gol-azul-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/33d5fbe7de8ab341d4321be3ee89985bffb2d5a367eaa896c85f9e56e9e73c7b/mala-23kg-medidas-latam-gol-azul-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.029Z",
+      "verification_etag_or_digest": "33d5fbe7de8ab341d4321be3ee89985bffb2d5a367eaa896c85f9e56e9e73c7b",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/bagaggio/mala-23kg-medidas-latam-gol-azul-capa.webp",
       "local_url": "/images/reviews/bagaggio/mala-23kg-medidas-latam-gol-azul-capa.webp",
       "media_kind": "image",
@@ -41149,6 +41187,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/belive/bolinho-kids-belive-lancheira-capa-v2.webp",
+      "local_url": "/images/reviews/belive/bolinho-kids-belive-lancheira-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 181868,
+      "sha256": "e66d146c64e31e5c96636ad139c6c74aa1e5d122ca1b44761d2a2595224df65c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bolinho-kids-belive-lancheira-capa-v2.webp",
+      "storage_filename": "bolinho-kids-belive-lancheira-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bolinho-kids-belive-lancheira.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bolinho-kids-belive-lancheira.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/belive/bolinho-kids-belive-lancheira-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e66d146c64e31e5c96636ad139c6c74aa1e5d122ca1b44761d2a2595224df65c/bolinho-kids-belive-lancheira-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e66d146c64e31e5c96636ad139c6c74aa1e5d122ca1b44761d2a2595224df65c/bolinho-kids-belive-lancheira-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "e66d146c64e31e5c96636ad139c6c74aa1e5d122ca1b44761d2a2595224df65c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/belive/bolinho-kids-belive-lancheira-capa.webp",
       "local_url": "/images/reviews/belive/bolinho-kids-belive-lancheira-capa.webp",
       "media_kind": "image",
@@ -41841,6 +41917,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/belive/pao-de-mel-sem-acucar-belive-capa-v2.webp",
+      "local_url": "/images/reviews/belive/pao-de-mel-sem-acucar-belive-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 131582,
+      "sha256": "f75121eec906d3bc8c35b745647bc9558e3fa4f820288f3266496cb085780819",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pao-de-mel-sem-acucar-belive-capa-v2.webp",
+      "storage_filename": "pao-de-mel-sem-acucar-belive-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pao-de-mel-sem-acucar-belive.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pao-de-mel-sem-acucar-belive.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/belive/pao-de-mel-sem-acucar-belive-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f75121eec906d3bc8c35b745647bc9558e3fa4f820288f3266496cb085780819/pao-de-mel-sem-acucar-belive-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f75121eec906d3bc8c35b745647bc9558e3fa4f820288f3266496cb085780819/pao-de-mel-sem-acucar-belive-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "f75121eec906d3bc8c35b745647bc9558e3fa4f820288f3266496cb085780819",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/belive/pao-de-mel-sem-acucar-belive-capa.webp",
       "local_url": "/images/reviews/belive/pao-de-mel-sem-acucar-belive-capa.webp",
       "media_kind": "image",
@@ -41884,6 +41998,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-18T03:15:40.747Z",
       "verification_etag_or_digest": "6cd2b6dcf604cafa4b40d68ec047493862f34a35f9427fc925de5be81250877e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-capa-v2.webp",
+      "local_url": "/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 176598,
+      "sha256": "521b37866bb65239655755c96491c12ee9b2cd530be18651f8d7ade52f5d6bdd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "snack-proteico-ou-snack-de-arroz-belive-capa-v2.webp",
+      "storage_filename": "snack-proteico-ou-snack-de-arroz-belive-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/snack-proteico-ou-snack-de-arroz-belive.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/snack-proteico-ou-snack-de-arroz-belive.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/521b37866bb65239655755c96491c12ee9b2cd530be18651f8d7ade52f5d6bdd/snack-proteico-ou-snack-de-arroz-belive-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/521b37866bb65239655755c96491c12ee9b2cd530be18651f8d7ade52f5d6bdd/snack-proteico-ou-snack-de-arroz-belive-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "521b37866bb65239655755c96491c12ee9b2cd530be18651f8d7ade52f5d6bdd",
       "verification_status": "verified"
     },
     {
@@ -45473,6 +45625,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/clea-store/camiseta-clea-store-e-boa-capa-v2.webp",
+      "local_url": "/images/reviews/clea-store/camiseta-clea-store-e-boa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46354,
+      "sha256": "f9d94f1b838576f149fb55835292c748c051b5e48c5bd0aac6052532f1104057",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-clea-store-e-boa-capa-v2.webp",
+      "storage_filename": "camiseta-clea-store-e-boa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-clea-store-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-clea-store-e-boa.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/camiseta-clea-store-e-boa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f9d94f1b838576f149fb55835292c748c051b5e48c5bd0aac6052532f1104057/camiseta-clea-store-e-boa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f9d94f1b838576f149fb55835292c748c051b5e48c5bd0aac6052532f1104057/camiseta-clea-store-e-boa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "f9d94f1b838576f149fb55835292c748c051b5e48c5bd0aac6052532f1104057",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/clea-store/camiseta-clea-store-kit-classic.webp",
       "local_url": "/images/reviews/clea-store/camiseta-clea-store-kit-classic.webp",
       "media_kind": "image",
@@ -46879,6 +47069,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/clea-store/clea-store-mercado-livre-ou-site-capa-v2.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-mercado-livre-ou-site-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86132,
+      "sha256": "5cca19740042e20c9dcaeb6f97848af7b48ee0f211292e4c3a1b90ee3cc290ed",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-mercado-livre-ou-site-capa-v2.webp",
+      "storage_filename": "clea-store-mercado-livre-ou-site-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-mercado-livre-ou-site.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-mercado-livre-ou-site.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/clea-store-mercado-livre-ou-site-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5cca19740042e20c9dcaeb6f97848af7b48ee0f211292e4c3a1b90ee3cc290ed/clea-store-mercado-livre-ou-site-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5cca19740042e20c9dcaeb6f97848af7b48ee0f211292e4c3a1b90ee3cc290ed/clea-store-mercado-livre-ou-site-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "5cca19740042e20c9dcaeb6f97848af7b48ee0f211292e4c3a1b90ee3cc290ed",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/clea-store/clea-store-mercado-livre-ou-site-precos.webp",
       "local_url": "/images/reviews/clea-store/clea-store-mercado-livre-ou-site-precos.webp",
       "media_kind": "image",
@@ -47057,6 +47285,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-20T04:43:08.355Z",
       "verification_etag_or_digest": "498158badc61418c29253dca43390a01438e7202d817653929555d7fa92db1e4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-tabela-de-medidas-como-escolher-tamanho-capa-v2.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-tabela-de-medidas-como-escolher-tamanho-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43326,
+      "sha256": "7d4526661945971c8a19f57d2e6d4f01edc38b8957e29386634a67570e63ea6f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-tabela-de-medidas-como-escolher-tamanho-capa-v2.webp",
+      "storage_filename": "clea-store-tabela-de-medidas-como-escolher-tamanho-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/clea-store-tabela-de-medidas-como-escolher-tamanho-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7d4526661945971c8a19f57d2e6d4f01edc38b8957e29386634a67570e63ea6f/clea-store-tabela-de-medidas-como-escolher-tamanho-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7d4526661945971c8a19f57d2e6d4f01edc38b8957e29386634a67570e63ea6f/clea-store-tabela-de-medidas-como-escolher-tamanho-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "7d4526661945971c8a19f57d2e6d4f01edc38b8957e29386634a67570e63ea6f",
       "verification_status": "verified"
     },
     {
@@ -54167,6 +54433,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/poltronas-reclinaveis-damie-vale-o-investimento-capa-v2.webp",
+      "local_url": "/images/reviews/damie/poltronas-reclinaveis-damie-vale-o-investimento-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 92276,
+      "sha256": "56f8fb6924f67639b8b7b0a186072a55bed0385772ee163850a72e141ae98dd8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltronas-reclinaveis-damie-vale-o-investimento-capa-v2.webp",
+      "storage_filename": "poltronas-reclinaveis-damie-vale-o-investimento-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltronas-reclinaveis-damie-vale-o-investimento.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltronas-reclinaveis-damie-vale-o-investimento.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltronas-reclinaveis-damie-vale-o-investimento-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/56f8fb6924f67639b8b7b0a186072a55bed0385772ee163850a72e141ae98dd8/poltronas-reclinaveis-damie-vale-o-investimento-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/56f8fb6924f67639b8b7b0a186072a55bed0385772ee163850a72e141ae98dd8/poltronas-reclinaveis-damie-vale-o-investimento-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "56f8fb6924f67639b8b7b0a186072a55bed0385772ee163850a72e141ae98dd8",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/presente-de-natal-para-casa-moveis-capa.webp",
       "local_url": "/images/reviews/damie/presente-de-natal-para-casa-moveis-capa.webp",
       "media_kind": "image",
@@ -55358,6 +55662,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-20T01:56:16.227Z",
       "verification_etag_or_digest": "07a2ea2469c7f2bc2e0b5b148c1d7a82a93ff5df6190a98fba58cec18f64d894",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/cafeteira-escritorio-qual-escolher-custo-mes-capa-v2.webp",
+      "local_url": "/images/reviews/dolcegusto/cafeteira-escritorio-qual-escolher-custo-mes-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49384,
+      "sha256": "78628acef9b0904ba2d0e8c269d00aef98352191cec72bbbb78559e5fe04ac3a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cafeteira-escritorio-qual-escolher-custo-mes-capa-v2.webp",
+      "storage_filename": "cafeteira-escritorio-qual-escolher-custo-mes-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cafeteira-escritorio-qual-escolher-custo-mes.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cafeteira-escritorio-qual-escolher-custo-mes.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/cafeteira-escritorio-qual-escolher-custo-mes-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/78628acef9b0904ba2d0e8c269d00aef98352191cec72bbbb78559e5fe04ac3a/cafeteira-escritorio-qual-escolher-custo-mes-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/78628acef9b0904ba2d0e8c269d00aef98352191cec72bbbb78559e5fe04ac3a/cafeteira-escritorio-qual-escolher-custo-mes-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "78628acef9b0904ba2d0e8c269d00aef98352191cec72bbbb78559e5fe04ac3a",
       "verification_status": "verified"
     },
     {
@@ -56711,6 +57053,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-24T04:35:12.135Z",
       "verification_etag_or_digest": "7187a99c38d96c5f1c8bcd2acb8784125ff40d90f424f8f41bf8b563910eb215",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-mini-me-2-0-vale-a-pena-capa-v2.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-mini-me-2-0-vale-a-pena-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 110738,
+      "sha256": "f06826320b4e5f7c18a3db8c4049cff8729171690e57f36cbebb62efc000c1b0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-mini-me-2-0-vale-a-pena-capa-v2.webp",
+      "storage_filename": "dolce-gusto-mini-me-2-0-vale-a-pena-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-mini-me-2-0-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-mini-me-2-0-vale-a-pena.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-mini-me-2-0-vale-a-pena-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f06826320b4e5f7c18a3db8c4049cff8729171690e57f36cbebb62efc000c1b0/dolce-gusto-mini-me-2-0-vale-a-pena-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f06826320b4e5f7c18a3db8c4049cff8729171690e57f36cbebb62efc000c1b0/dolce-gusto-mini-me-2-0-vale-a-pena-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "f06826320b4e5f7c18a3db8c4049cff8729171690e57f36cbebb62efc000c1b0",
       "verification_status": "verified"
     },
     {
@@ -58455,6 +58835,44 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "6a558ee7e6d43359b3ef1b9ff06cfb6e71266734c7c3630d341529fc3c99e631",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/mochaccino-canela-dolce-gusto-capa-v2.webp",
+      "local_url": "/images/reviews/dolcegusto/mochaccino-canela-dolce-gusto-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58582,
+      "sha256": "05ae6d04304a2e7e84ef74cfaa1ffd9d42ece278ce948d60d0e9e6209b90f77e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mochaccino-canela-dolce-gusto-capa-v2.webp",
+      "storage_filename": "mochaccino-canela-dolce-gusto-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mochaccino-canela-dolce-gusto.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mochaccino-canela-dolce-gusto.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/mochaccino-canela-dolce-gusto-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/05ae6d04304a2e7e84ef74cfaa1ffd9d42ece278ce948d60d0e9e6209b90f77e/mochaccino-canela-dolce-gusto-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/05ae6d04304a2e7e84ef74cfaa1ffd9d42ece278ce948d60d0e9e6209b90f77e/mochaccino-canela-dolce-gusto-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "05ae6d04304a2e7e84ef74cfaa1ffd9d42ece278ce948d60d0e9e6209b90f77e",
       "verification_status": "verified"
     },
     {
@@ -74621,6 +75039,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/cueca-insider-comfort-ou-performance-capa-v2.webp",
+      "local_url": "/images/reviews/insider/cueca-insider-comfort-ou-performance-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60854,
+      "sha256": "9e2b4e1a1fb50f7d83a73c87befafe60bcb5747e222278abd8747f737fe3ef24",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cueca-insider-comfort-ou-performance-capa-v2.webp",
+      "storage_filename": "cueca-insider-comfort-ou-performance-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cueca-insider-comfort-ou-performance.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cueca-insider-comfort-ou-performance.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/cueca-insider-comfort-ou-performance-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9e2b4e1a1fb50f7d83a73c87befafe60bcb5747e222278abd8747f737fe3ef24/cueca-insider-comfort-ou-performance-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9e2b4e1a1fb50f7d83a73c87befafe60bcb5747e222278abd8747f737fe3ef24/cueca-insider-comfort-ou-performance-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "9e2b4e1a1fb50f7d83a73c87befafe60bcb5747e222278abd8747f737fe3ef24",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/cupom-emcasacomcecilia-insider-store-como-usar-capa-discover.webp",
       "local_url": "/images/reviews/insider/cupom-emcasacomcecilia-insider-store-como-usar-capa-discover.webp",
       "media_kind": "image",
@@ -76715,6 +77171,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/outlet-insider-feminino-vale-a-pena-capa-v2.webp",
+      "local_url": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47686,
+      "sha256": "96be43137e47b04b8fd81932918eaadf7ce00af84ca3bbf2c5a3290de489cb32",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "outlet-insider-feminino-vale-a-pena-capa-v2.webp",
+      "storage_filename": "outlet-insider-feminino-vale-a-pena-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/outlet-insider-feminino-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/outlet-insider-feminino-vale-a-pena.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/96be43137e47b04b8fd81932918eaadf7ce00af84ca3bbf2c5a3290de489cb32/outlet-insider-feminino-vale-a-pena-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/96be43137e47b04b8fd81932918eaadf7ce00af84ca3bbf2c5a3290de489cb32/outlet-insider-feminino-vale-a-pena-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "96be43137e47b04b8fd81932918eaadf7ce00af84ca3bbf2c5a3290de489cb32",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/outlet-insider-feminino-vale-a-pena-capa.webp",
       "local_url": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-capa.webp",
       "media_kind": "image",
@@ -77338,6 +77832,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-31T18:12:50.679Z",
       "verification_etag_or_digest": "02900677e8e3dc534244cd8d8ada7c3ae47f41d0acbdcf31e00caac53d6709c7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/outlet-insider-masculino-vale-a-pena-capa-v2.webp",
+      "local_url": "/images/reviews/insider/outlet-insider-masculino-vale-a-pena-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46144,
+      "sha256": "bb1740b73726c7f73958acc70144760f4b3b10dd5dacec66266b850b5785857f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "outlet-insider-masculino-vale-a-pena-capa-v2.webp",
+      "storage_filename": "outlet-insider-masculino-vale-a-pena-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/outlet-insider-masculino-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/outlet-insider-masculino-vale-a-pena.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/outlet-insider-masculino-vale-a-pena-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bb1740b73726c7f73958acc70144760f4b3b10dd5dacec66266b850b5785857f/outlet-insider-masculino-vale-a-pena-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bb1740b73726c7f73958acc70144760f4b3b10dd5dacec66266b850b5785857f/outlet-insider-masculino-vale-a-pena-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "bb1740b73726c7f73958acc70144760f4b3b10dd5dacec66266b850b5785857f",
       "verification_status": "verified"
     },
     {
@@ -84069,6 +84601,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/faqueiro-laguiole-la-maison-qual-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/letseatit/faqueiro-laguiole-la-maison-qual-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 194774,
+      "sha256": "3b2ee64a5685c1ceec55a0b0c54cf03d49822f4668b0b6cf1172e8e807658126",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "faqueiro-laguiole-la-maison-qual-escolher-capa-v2.webp",
+      "storage_filename": "faqueiro-laguiole-la-maison-qual-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/faqueiro-laguiole-la-maison-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/faqueiro-laguiole-la-maison-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/faqueiro-laguiole-la-maison-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3b2ee64a5685c1ceec55a0b0c54cf03d49822f4668b0b6cf1172e8e807658126/faqueiro-laguiole-la-maison-qual-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3b2ee64a5685c1ceec55a0b0c54cf03d49822f4668b0b6cf1172e8e807658126/faqueiro-laguiole-la-maison-qual-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "3b2ee64a5685c1ceec55a0b0c54cf03d49822f4668b0b6cf1172e8e807658126",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/faqueiro-laguiole-la-maison-qual-escolher-capa.webp",
       "local_url": "/images/reviews/letseatit/faqueiro-laguiole-la-maison-qual-escolher-capa.webp",
       "media_kind": "image",
@@ -85223,6 +85793,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/le-creuset-vale-a-pena-capa-v2.webp",
+      "local_url": "/images/reviews/letseatit/le-creuset-vale-a-pena-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 133574,
+      "sha256": "cc7385354aea51343da7fb4905dd9f5285c69f3f74b4184d21a4f07d17fa3346",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "le-creuset-vale-a-pena-capa-v2.webp",
+      "storage_filename": "le-creuset-vale-a-pena-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/le-creuset-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/le-creuset-vale-a-pena.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/le-creuset-vale-a-pena-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/cc7385354aea51343da7fb4905dd9f5285c69f3f74b4184d21a4f07d17fa3346/le-creuset-vale-a-pena-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cc7385354aea51343da7fb4905dd9f5285c69f3f74b4184d21a4f07d17fa3346/le-creuset-vale-a-pena-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "cc7385354aea51343da7fb4905dd9f5285c69f3f74b4184d21a4f07d17fa3346",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/lets-eat-it-confiavel-hero.webp",
       "local_url": "/images/reviews/letseatit/lets-eat-it-confiavel-hero.webp",
       "media_kind": "image",
@@ -85414,6 +86022,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-23T21:46:42.619Z",
       "verification_etag_or_digest": "eb5689db9996bdde28bb64262c75b1bfb60bc0a312aaac04d582920628c194b2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/mesa-posta-dia-a-dia-o-que-comprar-capa-v2.webp",
+      "local_url": "/images/reviews/letseatit/mesa-posta-dia-a-dia-o-que-comprar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 128848,
+      "sha256": "45526ae78262eefe899b5b4d7d44479686ae0ff4c48add9ea0a862a557aad36f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mesa-posta-dia-a-dia-o-que-comprar-capa-v2.webp",
+      "storage_filename": "mesa-posta-dia-a-dia-o-que-comprar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mesa-posta-dia-a-dia-o-que-comprar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mesa-posta-dia-a-dia-o-que-comprar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/mesa-posta-dia-a-dia-o-que-comprar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/45526ae78262eefe899b5b4d7d44479686ae0ff4c48add9ea0a862a557aad36f/mesa-posta-dia-a-dia-o-que-comprar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/45526ae78262eefe899b5b4d7d44479686ae0ff4c48add9ea0a862a557aad36f/mesa-posta-dia-a-dia-o-que-comprar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "45526ae78262eefe899b5b4d7d44479686ae0ff4c48add9ea0a862a557aad36f",
       "verification_status": "verified"
     },
     {
@@ -85807,6 +86453,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/mesa-posta-natal-o-que-precisa-quanto-custa-capa-v2.webp",
+      "local_url": "/images/reviews/letseatit/mesa-posta-natal-o-que-precisa-quanto-custa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 300990,
+      "sha256": "3ddd4e8065f8d30ba90cc56b2691d727de43e3320413ef61eba099033e2513eb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mesa-posta-natal-o-que-precisa-quanto-custa-capa-v2.webp",
+      "storage_filename": "mesa-posta-natal-o-que-precisa-quanto-custa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/mesa-posta-natal-o-que-precisa-quanto-custa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3ddd4e8065f8d30ba90cc56b2691d727de43e3320413ef61eba099033e2513eb/mesa-posta-natal-o-que-precisa-quanto-custa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3ddd4e8065f8d30ba90cc56b2691d727de43e3320413ef61eba099033e2513eb/mesa-posta-natal-o-que-precisa-quanto-custa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "3ddd4e8065f8d30ba90cc56b2691d727de43e3320413ef61eba099033e2513eb",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/mesa-posta-natal-taca-bohemia-magnum.webp",
       "local_url": "/images/reviews/letseatit/mesa-posta-natal-taca-bohemia-magnum.webp",
       "media_kind": "image",
@@ -86121,6 +86805,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/porto-brasil-e-boa-capa-v2.webp",
+      "local_url": "/images/reviews/letseatit/porto-brasil-e-boa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 127170,
+      "sha256": "ffa94f963a2de8fc40ebf565d20325f50446fedb29cc659408aff328ee16f24f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "porto-brasil-e-boa-capa-v2.webp",
+      "storage_filename": "porto-brasil-e-boa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/porto-brasil-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/porto-brasil-e-boa.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/porto-brasil-e-boa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ffa94f963a2de8fc40ebf565d20325f50446fedb29cc659408aff328ee16f24f/porto-brasil-e-boa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ffa94f963a2de8fc40ebf565d20325f50446fedb29cc659408aff328ee16f24f/porto-brasil-e-boa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "ffa94f963a2de8fc40ebf565d20325f50446fedb29cc659408aff328ee16f24f",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/porto-brasil-fichas-stoneware-faianca-uso.webp",
       "local_url": "/images/reviews/letseatit/porto-brasil-fichas-stoneware-faianca-uso.webp",
       "media_kind": "image",
@@ -86378,6 +87100,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-20T03:48:07.758Z",
       "verification_etag_or_digest": "9af38e77d743fac8b47655804b1715f550d58d6ee6ca3d3e532950eb0a32c82e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/presente-de-casamento-ideias-por-preco-capa-v2.webp",
+      "local_url": "/images/reviews/letseatit/presente-de-casamento-ideias-por-preco-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86810,
+      "sha256": "1e42b8da62bb04f4799ef08f5bfc870a5a2d312ae73615e4b87687967361ffbe",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-de-casamento-ideias-por-preco-capa-v2.webp",
+      "storage_filename": "presente-de-casamento-ideias-por-preco-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-de-casamento-ideias-por-preco.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-de-casamento-ideias-por-preco.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/presente-de-casamento-ideias-por-preco-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1e42b8da62bb04f4799ef08f5bfc870a5a2d312ae73615e4b87687967361ffbe/presente-de-casamento-ideias-por-preco-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1e42b8da62bb04f4799ef08f5bfc870a5a2d312ae73615e4b87687967361ffbe/presente-de-casamento-ideias-por-preco-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "1e42b8da62bb04f4799ef08f5bfc870a5a2d312ae73615e4b87687967361ffbe",
       "verification_status": "verified"
     },
     {
@@ -109464,6 +110224,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/skelt/autobronzeador-skelt-qual-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/skelt/autobronzeador-skelt-qual-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 128410,
+      "sha256": "6314e71ec5a29cdc6c9b0cf3343eab87c28fcf760930e9524cef12f5c632e14b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "autobronzeador-skelt-qual-escolher-capa-v2.webp",
+      "storage_filename": "autobronzeador-skelt-qual-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/autobronzeador-skelt-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/autobronzeador-skelt-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/skelt/autobronzeador-skelt-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6314e71ec5a29cdc6c9b0cf3343eab87c28fcf760930e9524cef12f5c632e14b/autobronzeador-skelt-qual-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6314e71ec5a29cdc6c9b0cf3343eab87c28fcf760930e9524cef12f5c632e14b/autobronzeador-skelt-qual-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "6314e71ec5a29cdc6c9b0cf3343eab87c28fcf760930e9524cef12f5c632e14b",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/skelt/autobronzeador-skelt-qual-escolher-capa.webp",
       "local_url": "/images/reviews/skelt/autobronzeador-skelt-qual-escolher-capa.webp",
       "media_kind": "image",
@@ -110998,6 +111796,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-capa-v2.webp",
+      "local_url": "/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 126880,
+      "sha256": "adc39eaa64ce53372d0062f7ea6c65600120261e5014544b4ef3de0478090dec",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hidratante-corporal-skelt-qual-fragrancia-capa-v2.webp",
+      "storage_filename": "hidratante-corporal-skelt-qual-fragrancia-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hidratante-corporal-skelt-qual-fragrancia.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hidratante-corporal-skelt-qual-fragrancia.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/adc39eaa64ce53372d0062f7ea6c65600120261e5014544b4ef3de0478090dec/hidratante-corporal-skelt-qual-fragrancia-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/adc39eaa64ce53372d0062f7ea6c65600120261e5014544b4ef3de0478090dec/hidratante-corporal-skelt-qual-fragrancia-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "adc39eaa64ce53372d0062f7ea6c65600120261e5014544b4ef3de0478090dec",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-capa.webp",
       "local_url": "/images/reviews/skelt/hidratante-corporal-skelt-qual-fragrancia-capa.webp",
       "media_kind": "image",
@@ -111147,6 +111983,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-29T22:25:41.749Z",
       "verification_etag_or_digest": "142d5e9a5c3c51ffdddf9e5710002a565f631a60a5611f4c1d244ae6a43e21e1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/iluminador-corporal-skelt-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/skelt/iluminador-corporal-skelt-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 148738,
+      "sha256": "e9c82b12275f42198c1aa4793e35ca95a7f5d938d9ab55b58f89d6c69d31bec9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "iluminador-corporal-skelt-como-usar-capa-v2.webp",
+      "storage_filename": "iluminador-corporal-skelt-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/iluminador-corporal-skelt-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/iluminador-corporal-skelt-como-usar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/skelt/iluminador-corporal-skelt-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e9c82b12275f42198c1aa4793e35ca95a7f5d938d9ab55b58f89d6c69d31bec9/iluminador-corporal-skelt-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e9c82b12275f42198c1aa4793e35ca95a7f5d938d9ab55b58f89d6c69d31bec9/iluminador-corporal-skelt-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "e9c82b12275f42198c1aa4793e35ca95a7f5d938d9ab55b58f89d6c69d31bec9",
       "verification_status": "verified"
     },
     {
@@ -123323,6 +124197,46 @@
       "uploaded_at": null,
       "verified_at": "2026-09-30T20:15:30.026Z",
       "verification_etag_or_digest": "c5ff92458f325e75a68deb3792c49fde0791578959fa5e5e00b15b90e4d2ca31",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/sleeptest-i-wanna-sleep-como-funciona-capa-v2.webp",
+      "local_url": "/images/reviews/iwannasleep/sleeptest-i-wanna-sleep-como-funciona-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 74860,
+      "sha256": "ebfb6710a2bbf0a306ec22aab601e21d0f09936559ccb80ddbd9083201097e7d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sleeptest-i-wanna-sleep-como-funciona-capa-v2.webp",
+      "storage_filename": "sleeptest-i-wanna-sleep-como-funciona-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [
+        "content/reviews/sleeptest-i-wanna-sleep-como-funciona.json"
+      ],
+      "owners": [
+        "content/reviews/sleeptest-i-wanna-sleep-como-funciona.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sleeptest-i-wanna-sleep-como-funciona.json",
+          "line": 148,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/sleeptest-i-wanna-sleep-como-funciona-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ebfb6710a2bbf0a306ec22aab601e21d0f09936559ccb80ddbd9083201097e7d/sleeptest-i-wanna-sleep-como-funciona-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ebfb6710a2bbf0a306ec22aab601e21d0f09936559ccb80ddbd9083201097e7d/sleeptest-i-wanna-sleep-como-funciona-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T00:02:18.030Z",
+      "verification_etag_or_digest": "ebfb6710a2bbf0a306ec22aab601e21d0f09936559ccb80ddbd9083201097e7d",
       "verification_status": "verified"
     },
     {

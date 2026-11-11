@@ -407,3 +407,10 @@ Bebida com leite de duas cápsulas conta em dobro. Sem CECI. O filtro sai muito 
 - **Texto em PT:** redigido por subagentes em dois blocos de capítulos a partir deste briefing (Job 2), juntado e revisado por Claude (Job 3) e aprovado pelo Bruno em 20/10/2026. Só PT (`modo_i18n: somente-pt`). id 513, `/reviews/cafeteira-escritorio-qual-escolher-custo-mes`, autoria da Cecília.
 - **Preços:** os lidos no navegador em 19/10/2026, sem cupom e sem login; a tabela da seção 10 (12/10) ficou superada. CECI: 5% a partir de R$ 100 sobre o preço do dia, soma com promoções, 3 usos por campanha; `cta.url` = `https://www.nescafe-dolcegusto.com.br/negocios-combos`, `sponsored`.
 - **Imagens:** capa `dolce-gusto-cinco-maquinas-oficial.webp`; no corpo, o gráfico novo `cafeteira-escritorio-custo-por-bebida.webp` (desenhado por Claude, upload pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`), `dolce-gusto-chocolates-e-chas-oficial.webp`, `mochaccino-canela-dolce-gusto-xicara.webp` e `genio-s-trio-oficial-cores.webp` (as duas últimas acrescentadas a pedido do Bruno), todas em `public/images/reviews/dolcegusto/`.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/dolcegusto/cafeteira-escritorio-qual-escolher-custo-mes-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Máquina preta Dolce Gusto Genio vista em ângulo.
+- **Origem:** foto local da família Genio preta; o alt não aponta SKU, voltagem nem modelo mais específico. Sem geração por IA.
+- **Lote 10 do piloto de capas (sequência 3 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-3-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/dolcegusto/dolce-gusto-cinco-maquinas-oficial.webp`) fica no CDN, sem uso como capa.

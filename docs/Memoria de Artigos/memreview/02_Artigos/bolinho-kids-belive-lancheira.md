@@ -104,3 +104,10 @@ Lote 27/10/2026, pauta B3 da rodada Belive. Preços e rótulos de 27/10/2026. Ar
 
 ## Redação (28/10/2026)
 - No ar em 28/10/2026 18:56 UTC (PR #331, links de produto no #333, release `c3af3e1`, id 629). Preços relidos no Chrome em 28/10, sem mudança.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/belive/bolinho-kids-belive-lancheira-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Imagem promocional de bolinho Kids Brigadeiro da Belive com cobertura e embalagem ao fundo.
+- **Origem:** imagem promocional do Brigadeiro com Cobertura, sem degustação nossa nem ingrediente ou benefício generalizado. Sem geração por IA.
+- **Lote 11 do piloto de capas (sequência 3 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-3-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/belive/bolinho-kids-belive-lancheira-capa.webp`) fica no CDN, sem uso como capa.

@@ -145,7 +145,8 @@
       "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica"
     }
   ],
-  "image": "/images/reviews/iwannasleep/confiabilidade-hero.webp",
-  "imageAlt": "Banner ilustrativo do teste de conforto e Sleeptest i Wanna Sleep",
-  "imageFit": "cover"
+  "image": "/images/reviews/iwannasleep/sleeptest-i-wanna-sleep-como-funciona-capa-v2.webp",
+  "imageAlt": "Pillow top da I Wanna Sleep com elásticos sobre um colchão, em imagem promocional.",
+  "imageFit": "contain",
+  "imageAspect": "landscape"
 }

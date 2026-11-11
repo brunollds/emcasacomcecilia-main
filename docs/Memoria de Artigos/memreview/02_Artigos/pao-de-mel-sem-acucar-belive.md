@@ -227,3 +227,10 @@ As perguntas acima foram respondidas em 17/10/2026; o que vale é esta seção.
 ### Redação e JSON (18/10/2026)
 - Texto aprovado pelo Bruno em 18/10/2026, capa opção A. Fonte da regra de rotulagem registrada na matriz do rascunho: IN 75/2020, Anexos XIX e XX ("não contém açúcares" e "sem adição de açúcares"); "diet" pelo escopo da RDC 715/2022, artigo exato não lido (PDF da Anvisa com 403, não contornado).
 - Preços reconferidos no site em 17/10/2026, ~23h de Brasília.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/belive/pao-de-mel-sem-acucar-belive-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pão de mel da Belive aberto sobre madeira, com embalagem ao fundo.
+- **Origem:** foto oficial do pão de mel tradicional aberto, sem degustação nossa nem fórmula universal. Sem geração por IA.
+- **Lote 10 do piloto de capas (sequência 3 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-3-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/belive/pao-de-mel-sem-acucar-belive-capa.webp`) fica no CDN, sem uso como capa.

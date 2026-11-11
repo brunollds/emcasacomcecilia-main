@@ -257,3 +257,10 @@ Job 2 na sessão elaboradora de artigos.
 - **Texto em PT:** redigido por subagentes em dois blocos de capítulos a partir deste briefing (Job 2), juntado e revisado por Claude (Job 3) e aprovado pelo Bruno em 20/10/2026. Só PT. id 520, `/reviews/clea-store-mercado-livre-ou-site`, autoria da Cecília.
 - **Preços:** relidos em 20/10/2026 (Cléa Store), com a data no texto; itens em pré-venda ou com dado quebrado ficaram fora. Cupom CSEMCASACOMCECILIA (10% em todo o site, não vale no Mercado Livre). Sem experiência própria com os produtos.
 - **Imagens:** em `public/images/reviews/clea-store/`, escolhidas pelo Bruno na folha de contato: o quadro próprio Mercado Livre × site, o print do teste do cupom de 14/10 e uma foto da loja; dois botões patrocinados lado a lado (meli.la e o site com o cupom). Upload pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/clea-store/clea-store-mercado-livre-ou-site-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo usa camiseta chumbo do Kit Intense da Cléa Store e calça jeans em foto oficial.
+- **Origem:** foto oficial nova da camiseta chumbo do Kit Intense, sem logo do Mercado Livre nem a mesma peça duplicada. Sem geração por IA.
+- **Lote 12 do piloto de capas (sequência 3 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-3-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/clea-store/clea-store-kit-3-t-shirts-intense.webp`) fica no CDN, sem uso como capa.

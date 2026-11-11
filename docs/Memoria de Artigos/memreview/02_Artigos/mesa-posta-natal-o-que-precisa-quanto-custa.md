@@ -238,3 +238,10 @@ Job 2 na sessão elaboradora de artigos.
 - **Texto em PT:** redigido por subagentes em dois blocos de capítulos a partir deste briefing (Job 2), juntado e revisado por Claude (Job 3) e aprovado pelo Bruno em 20/10/2026. Só PT. id 514, `/reviews/mesa-posta-natal-o-que-precisa-quanto-custa`, autoria da Cecília.
 - **Preços:** relidos em 20/10/2026 (Let's Eat It), com a data no texto; itens em pré-venda ou com dado quebrado ficaram fora. Cupom MAUAD (5%, soma com o Pix). Sem experiência própria com os produtos.
 - **Imagens:** em `public/images/reviews/letseatit/`, escolhidas pelo Bruno na folha de contato: 3 imagens de produto da loja e 2 quadros próprios (três faixas e como montar o lugar). Upload pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/letseatit/mesa-posta-natal-o-que-precisa-quanto-custa-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Cena natalina da Let's Eat It com louças Scalla, taças e decoração verde e vermelha.
+- **Origem:** foto oficial da Scalla Noite de Brinquedos, que ilustra o assunto geral; não é a Arauco da tabela, e o preço da Arauco não vale para a cena nem inclui a decoração. Sem geração por IA.
+- **Lote 10 do piloto de capas (sequência 3 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-3-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/letseatit/mesa-posta-natal-taca-bohemia-magnum.webp`) fica no CDN, sem uso como capa.

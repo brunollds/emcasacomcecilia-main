@@ -282,3 +282,10 @@ Fotos oficiais da Skelt, só as de índice 1 de cada produto (frasco ou kit em f
 - **Como aplicar sem manchar:** `/images/reviews/skelt/autobronzeador-removedor.webp` (square, 1.0). Removedor de Autobronzeador. Legenda: "Foto oficial da Skelt.". Origem: skelt.com.br, foto -1, 23/10/2026.
 
 Releitura no Chrome em 23/10/2026: o Bifásico não informa cor-guia (a tabela diz "A página não informa"); Água, Água Dark e Mousse Dark mandam seguir o tempo da embalagem; "2x mais intenso" está na página do Dark. Preços e estoque relidos pela API do catálogo no dia da publicação: iguais aos do texto.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/skelt/autobronzeador-skelt-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Frasco de Gel Autobronzeador Hidratante da Skelt em cenário botânico com flores e frutas.
+- **Origem:** foto oficial do Gel Autobronzeador Hidratante no cenário da marca, sem antes e depois nem ingrediente inferido pela decoração. Sem geração por IA.
+- **Lote 11 do piloto de capas (sequência 3 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-3-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/skelt/autobronzeador-skelt-qual-escolher-capa.webp`) fica no CDN, sem uso como capa.

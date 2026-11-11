@@ -20,10 +20,10 @@
   "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/letseatit/mesa-posta-natal-taca-bohemia-magnum.webp",
-  "imageAlt": "Taça de vinho tinto Bohemia Magnum servida numa mesa de Natal, com flores vermelhas ao fundo",
-  "imageFit": "cover",
-  "imageAspect": "square",
+  "image": "/images/reviews/letseatit/mesa-posta-natal-o-que-precisa-quanto-custa-capa-v2.webp",
+  "imageAlt": "Cena natalina da Let's Eat It com louças Scalla, taças e decoração verde e vermelha.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "contentSections": [
     {
       "heading": "Resposta rápida",
