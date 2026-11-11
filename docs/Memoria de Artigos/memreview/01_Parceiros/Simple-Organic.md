@@ -74,6 +74,7 @@ conforme `docs/GUIA-MIDIA-EDITORIAL.md`.
 
 - **Coleção `kits-e-rotinas`:** 31 itens, com a Clean Friday no ar. Preços de lista de R$ 118 a R$ 257.
 - **Embalagem:** Caixa de Presente Simple With Love (R$ 35) esgotada; nécessaires a R$ 30, R$ 35 e R$ 99. Sem vale-presente no catálogo de 144 produtos.
-- **Frete:** grátis a partir de R$ 99. Se o mínimo valer depois do cupom, o código pode tirar o frete grátis de carrinhos pouco acima de R$ 99, até perto de R$ 104 (a testar).
+- **Frete:** grátis a partir de R$ 99, contado depois do desconto (checkout de 10/11, CEP 01310-100). O Trio Body Splashes saiu a R$ 99,50 sem o código, com frete grátis, e a R$ 105,41 com o código, com R$ 10,88 de frete.
+- **Código em kit:** o S-EMCASACOMCECILIA deu 5% nos 11 kits e nos 13 avulsos no checkout de 10/11, embora a política da loja exclua kits e duos.
 - **Kit ou avulsos (Clean Friday, mesmos tamanhos):** dos 11 kits lidos, 9 custam o mesmo que a soma dos avulsos, o Trio Body Splashes sai R$ 4 mais barato e o Kit Lápis de Boca custa o dobro (R$ 88,20 contra R$ 44,10). Reler no dia.
 - **Prazo:** despacho em 3 a 5 dias úteis; em ações grandes, até 5 dias úteis para sair da expedição.
