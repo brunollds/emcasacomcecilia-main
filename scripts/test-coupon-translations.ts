@@ -117,8 +117,20 @@ for (const locale of TRANSLATED_LOCALES) {
   }
 }
 
+// O teste no carrinho fora do PT vem da tradução (testedAt e testNote juntos): sem a data, a página do idioma
+// perderia em silêncio o "Como testamos" e o lastReviewed. A data nunca passa da conferência do PT.
+for (const { slug, locale } of routes) {
+  const localized = getLocalizedCoupon(slug, locale);
+  if (localized?.offerMode !== 'discount-code') continue;
+  const pt = getCouponBySlug(slug)!;
+  assert.equal(Boolean(localized.testNote), Boolean(localized.testedAt), `${slug}/${locale}: testNote e testedAt vão juntos`);
+  if (!localized.testedAt) continue;
+  assert.match(localized.testedAt, /^\d{4}-\d{2}-\d{2}$/, `${slug}/${locale}: testedAt fora do formato`);
+  assert.ok(localized.testedAt <= pt.lastVerified, `${slug}/${locale}: testedAt depois da conferência do PT`);
+}
+
 // Hostinger fora do PT (29/10/2026): o SONAR20 no site internacional, com o link de indicação do mesmo código
-// (o PT segue no /br, conferido em test-coupon-offer-modes). O "Cupom testado em" fora do PT só cita o teste do
+// (o PT segue no /br, conferido em test-coupon-offer-modes). O "Como testamos" fora do PT só cita o teste do
 // site global, em dólar, e o campo do carrinho é o dele, em inglês.
 const HOSTINGER_GLOBAL_LINK = 'https://www.hostinger.com/?REFERRALCODE=SONAR20';
 assert.ok(translatedSlugs.includes('hostinger'), 'Hostinger deve ter páginas em outros idiomas');
