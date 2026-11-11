@@ -210914,57 +210914,55 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Retinol 0,3%, niacinamida e gel de limpeza: o que a Simple Organic tem no lugar de cada um da Creamy e quanto custa por ml com o código, dentro e fora da Black Friday.",
-    "metaDescription": "Alternativas à Creamy com o cupom S-EMCASACOMCECILIA (5%): retinol 0,3%, niacinamida e gel de limpeza por menos por ml.",
+    "description": "Retinol 0,3%, niacinamida e gel de limpeza da Simple Organic: compare o preço das embalagens com o código e as diferenças de fórmula e formato em relação à Creamy.",
+    "metaDescription": "S-EMCASACOMCECILIA dá 5% na Simple Organic. Veja alternativas à Creamy em retinol, niacinamida e gel de limpeza, com preços e diferenças.",
     "publishedAt": "10 de novembro de 2026",
     "publishedAtISO": "2026-11-10",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/simple-organic/alternativas-a-creamy-capa.webp",
-    "imageAlt": "Ultra Séruns de retinol e niacinamida e Géis de Limpeza Suave e Profunda da Simple Organic, com o cupom S-EMCASACOMCECILIA de 5% OFF",
+    "image": "/images/reviews/simple-organic/alternativas-a-creamy-capa-v2.webp",
+    "imageAlt": "Ultra Séruns de retinol e niacinamida e Géis de Limpeza Suave e Profunda da Simple Organic, com o cupom S-EMCASACOMCECILIA de 5% OFF na Simple Organic",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "No retinol 0,3% e na niacinamida da Creamy, os Ultra Séruns da Simple Organic custam menos por ml com o cupom S-EMCASACOMCECILIA, dentro e fora da Black Friday da marca. No gel de limpeza, a diferença é maior: metade da lista da Creamy mesmo fora da promoção. Os séruns levam perfume, e os géis, não."
+          "Na promoção atual, a Simple Organic tem retinol, niacinamida e gel de limpeza com preço por embalagem menor que o da Creamy, usando o S-EMCASACOMCECILIA, de 5%. Os séruns levam perfume. O retinol tem a mesma concentração declarada em outro formato; na niacinamida, os percentuais das marcas descrevem composições diferentes."
         ]
       },
       {
-        "heading": "Como comparar",
-        "bullets": [
-          "Pelo ativo e pela concentração que cada marca declara. Concentração maior não quer dizer resultado melhor: a comparação aqui é de preço.",
-          "Pelo preço por ml, porque os frascos têm volumes diferentes. Na Creamy, que está em pré-Black Friday, a referência é o preço de lista, com o do dia ao lado.",
-          "Na Simple Organic, sempre com o S-EMCASACOMCECILIA aplicado, no preço da Black Friday da marca e no preço fora dela.",
-          "Perfume: os dois Ultra Séruns da Simple Organic levam Parfum na composição. Os dois géis de limpeza não levam; o Profunda tem óleo de hortelã-pimenta."
+        "heading": "Qual produto da Creamy você quer substituir?",
+        "paragraphs": [
+          "Para comprar retinol, a alternativa é o Ultra Sérum Retinol. Para niacinamida, o Ultra Sérum Niacinamida. Na limpeza, escolha entre o Gel Suave e o Profunda pelos ingredientes que você procura na fórmula.",
+          "Preços dos sites em 10 de novembro de 2026, sem frete. Os valores da Simple Organic abaixo incluem a promoção e os 5% do S-EMCASACOMCECILIA."
         ],
         "comparisonTable": {
-          "caption": "Preços dos sites em 10 de novembro de 2026, sem frete. Creamy: preço do dia e de lista. Simple Organic: com o S-EMCASACOMCECILIA, na Black Friday da marca e fora dela.",
+          "caption": "Alternativas na promoção atual. Os preços da Creamy e as diferenças entre as embalagens estão nos capítulos de cada linha.",
           "headers": [
-            "Linha da Creamy",
-            "Creamy por ml: dia e lista",
+            "Você procura",
             "Alternativa na Simple Organic",
-            "Por ml com o código (no gel, por g): Black Friday e fora dela"
+            "Com o código",
+            "O que muda"
           ],
           "rows": [
             [
-              "Retinol, creme 30 g, 0,3% de retinol",
-              "R$ 2,80 e R$ 4,00",
-              "[Ultra Sérum Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol), 30 ml, 0,3% de retinol",
-              "R$ 1,31 e R$ 2,19"
+              "Retinol 0,3%",
+              "[Ultra Sérum Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol), 30 ml",
+              "R$ 39,33",
+              "Sérum com perfume no lugar do creme de 30 g"
             ],
             [
-              "Niacinamide B, sérum 30 ml",
-              "R$ 3,00 e R$ 3,33",
-              "[Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida), 30 ml, 10% de niacinamida",
-              "R$ 1,31 e R$ 2,19"
+              "Niacinamida",
+              "[Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida), 30 ml",
+              "R$ 39,33",
+              "10% de niacinamida; o percentual da Creamy se refere a um blend"
             ],
             [
-              "Gel de Limpeza, 200 ml",
-              "R$ 0,29 e R$ 0,32",
-              "Gel de Limpeza [Suave](https://simpleorganic.com.br/products/gel-de-limpeza-suave) ou [Profunda](https://simpleorganic.com.br/products/gel-de-limpeza-profunda), 350 g",
-              "R$ 0,08 e R$ 0,16"
+              "Gel de limpeza",
+              "[Suave](https://simpleorganic.com.br/products/gel-de-limpeza-suave) ou [Profunda](https://simpleorganic.com.br/products/gel-de-limpeza-profunda), 350 g",
+              "R$ 28,03",
+              "O Suave não leva perfume; o Profunda tem ácidos e óleo de hortelã-pimenta"
             ]
           ]
         }
@@ -210972,13 +210970,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "No lugar do Retinol da Creamy: o Ultra Sérum Retinol",
         "paragraphs": [
-          "As duas marcas declaram 0,3% de retinol. Na Creamy, é um creme de 30 g, por R$ 119,99 de lista e R$ 83,99 no dia. Na Simple Organic, é um sérum de 30 ml, por R$ 39,33 com o código na Black Friday e R$ 65,55 com o código fora dela.",
-          "Por ml, o Ultra Sérum custa 67% menos que a lista da Creamy na Black Friday e 45% menos fora dela. É a troca mais direta do artigo: mesmo ativo, mesma concentração declarada, em textura diferente."
+          "As duas marcas declaram 0,3% de retinol. O da Creamy é um creme de 30 g, por R$ 83,99 no preço do dia e R$ 119,99 de lista. O da Simple Organic é um sérum de 30 ml, por R$ 39,33 com o código na promoção atual.",
+          "A vantagem é pagar menos pela embalagem. Os formatos e as fórmulas são diferentes, e a mesma concentração declarada não garante o mesmo resultado na pele.",
+          "Com o preço de lista de R$ 69 e os mesmos 5% do código, o frasco sairia a R$ 65,55. A simulação usa a lista atual."
         ],
         "image": {
           "src": "/images/reviews/simple-organic/simple-organic-e-boa-ultra-serum-retinol.webp",
           "alt": "Frasco do Ultra Sérum Retinol da Simple Organic, com o rótulo 0,3% Retinol e 0,5% Squalane, em foto oficial da marca",
-          "caption": "Ultra Sérum Retinol: a dose de retinol está impressa no frasco. Foto: Simple Organic.",
+          "caption": "Ultra Sérum Retinol: concentração de 0,3% declarada no rótulo. Foto: Simple Organic.",
           "href": "https://simpleorganic.com.br/products/ultra-serum-retinol",
           "objectFit": "square"
         }
@@ -210986,8 +210985,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "No lugar do Niacinamide B: o Ultra Sérum Niacinamida",
         "paragraphs": [
-          "A Creamy apresenta o Niacinamide B de dois jeitos: a página do produto fala em 20% de um blend de niacinamida, vitamina B12, zinco e pantenol, e outros textos da marca falam em Niacinamide B Complex 20%. A Simple Organic declara 10% de niacinamida. As duas concentrações não são comparáveis entre si.",
-          "No preço, o Ultra Sérum sai por R$ 1,31 por ml na Black Friday e R$ 2,19 fora dela, com o código, contra R$ 3,33 na lista da Creamy e R$ 3,00 no dia."
+          "O Ultra Sérum Niacinamida da Simple Organic tem 30 ml e custa R$ 39,33 com o código na promoção atual. O Niacinamide B da Creamy também tem 30 ml e custa R$ 89,99 no dia, com preço de lista de R$ 99,99. Aqui, os volumes permitem comparar o custo por ml: cerca de R$ 1,31 contra R$ 3,00 no preço do dia.",
+          "A concentração exige outra leitura. A Simple Organic declara 10% de niacinamida. Na página da Creamy, os 20% se referem a um blend com niacinamida, vitamina B12, zinco e pantenol; esse número não informa 20% de niacinamida isolada.",
+          "Com o preço de lista de R$ 69 e os mesmos 5% do código, o frasco sairia a R$ 65,55, cerca de R$ 2,19 por ml. A simulação usa a lista atual."
         ],
         "image": {
           "src": "/images/reviews/simple-organic/simple-organic-e-boa-niacinamida-nova-embalagem.webp",
@@ -210998,10 +210998,11 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "No lugar do Gel de Limpeza: os géis de 350 g da Simple Organic",
+        "heading": "No lugar do Gel de Limpeza: Suave ou Profunda na promoção",
         "paragraphs": [
-          "O Gel de Limpeza da Creamy tem 200 ml e custa R$ 64,99 de lista e R$ 58,49 no dia: R$ 0,32 e R$ 0,29 por ml. Os dois géis da Simple Organic, o [Suave](https://simpleorganic.com.br/products/gel-de-limpeza-suave) e o [Profunda](https://simpleorganic.com.br/products/gel-de-limpeza-profunda), têm 350 g e saem por R$ 28,03 com o código na Black Friday e R$ 56,05 com o código fora dela: R$ 0,08 e R$ 0,16 por g.",
-          "É a maior diferença do artigo, e ela continua fora da promoção: metade da lista da Creamy. A Creamy informa o volume em ml, e a Simple Organic, em g; a conta trata os dois como equivalentes, o que é uma aproximação. O Suave não leva perfume; o Profunda tem ácido salicílico, ácido lático, ácido glicólico e óleo de hortelã-pimenta."
+          "Na promoção atual, os géis [Suave](https://simpleorganic.com.br/products/gel-de-limpeza-suave) e [Profunda](https://simpleorganic.com.br/products/gel-de-limpeza-profunda) da Simple Organic saem por R$ 28,03 com o código, em embalagens de 350 g. O Gel de Limpeza da Creamy tem 200 ml e custa R$ 58,49 no dia, com preço de lista de R$ 64,99.",
+          "Você paga menos pela embalagem da Simple Organic na oferta atual. Como uma marca informa o conteúdo em gramas e a outra em mililitros, esses valores não demonstram quanto se economiza pela mesma quantidade de produto.",
+          "Para escolher entre os dois da Simple Organic, olhe a fórmula: o Suave não leva perfume; o Profunda contém ácidos salicílico, lático e glicólico, além de óleo de hortelã-pimenta."
         ],
         "image": {
           "src": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
@@ -211014,8 +211015,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom da Simple Organic e os descontos da Creamy",
         "paragraphs": [
-          "O S-EMCASACOMCECILIA dá 5% na loja online da Simple Organic e soma com a Black Friday: no carrinho, o Ultra Sérum Retinol de R$ 41,40 ficou em R$ 39,33 com o código.",
-          "A Creamy dá 5% na primeira compra e 5% no Pix. Mesmo se os dois somarem, as três linhas continuam mais baratas na Simple Organic, dentro e fora da Black Friday dela."
+          "O S-EMCASACOMCECILIA dá 5% na loja online da Simple Organic e somou com a promoção no teste de carrinho: o Ultra Sérum Retinol de R$ 41,40 ficou em R$ 39,33.",
+          "A Creamy anuncia 5% na primeira compra e 5% no Pix. Se ambos acumularem, os preços por embalagem da Simple Organic na promoção atual ainda ficam menores. Essa comparação usa os preços do dia; ela não confirma os preços das duas lojas depois da Black Friday."
         ],
         "postParagraphs": [
           "Veja como aplicar o código em [cupom Simple Organic](/cupons/simple-organic) e em [como usar o cupom da Simple Organic](/reviews/cupom-simple-organic-como-usar). As ofertas da marca estão em [Black Friday da Simple Organic](/reviews/black-friday-simple-organic). Confira também o frete para o seu CEP antes de fechar o pedido."
@@ -211023,11 +211024,11 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual alternativa faz sentido para a sua compra",
-        "emphasis": "Comece pelo produto que você já usa da Creamy. Nas três linhas, a Simple Organic custa menos com o código, dentro e fora da Black Friday da marca; durante a promoção, a diferença aumenta.",
+        "emphasis": "Na promoção atual, as três linhas permitem gastar menos na compra com o código da Simple Organic. Escolha a alternativa pelas diferenças de formato, concentração declarada e presença de perfume descritas em cada capítulo.",
         "bullets": [
-          "Retinol 0,3%: o Ultra Sérum Retinol, com a mesma concentração declarada, em sérum no lugar do creme.",
-          "Niacinamida: o Ultra Sérum Niacinamida, com 10% declarados, para quem compara pelo preço e não pela concentração.",
-          "Gel de limpeza: o Suave, sem perfume, ou o Profunda, com ácidos, pela metade do preço por grama."
+          "Retinol: o Ultra Sérum Retinol reduz o desembolso pela embalagem e declara os mesmos 0,3%, em um formato diferente.",
+          "Niacinamida: o Ultra Sérum Niacinamida custa menos por ml, com 10% de niacinamida declarados.",
+          "Limpeza: os géis Suave e Profunda têm menor preço por embalagem na promoção atual; a escolha entre eles depende dos ingredientes que você quer na fórmula."
         ],
         "postParagraphs": [
           "Para comparar a Simple Organic com outra marca de ativos, veja [Simple Organic ou Principia](/reviews/simple-organic-ou-principia). Para a marca em si, [Simple Organic é boa?](/reviews/simple-organic-e-boa)."
@@ -211036,31 +211037,30 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual a alternativa mais barata ao retinol da Creamy? O Ultra Sérum Retinol da Simple Organic, que declara o mesmo 0,3% de retinol: com o S-EMCASACOMCECILIA, custa menos por ml que a Creamy na Black Friday da marca e também fora dela.",
-          "A Simple Organic tem niacinamida 20% como a Creamy? Não. A Simple Organic declara 10% de niacinamida. O 20% da Creamy aparece como blend de niacinamida com outros ativos na página do produto, e como Niacinamide B Complex em outros textos da marca.",
-          "Tem alternativa ao retinal da Creamy? Não entre os produtos deste guia: a Simple Organic não vende retinal.",
-          "O cupom da Simple Organic vale na Black Friday? Sim. No carrinho, o S-EMCASACOMCECILIA tirou mais 5% do preço da Black Friday.",
-          "Os produtos da Simple Organic têm perfume? Os dois Ultra Séruns deste guia levam Parfum na composição. O Gel de Limpeza Suave não leva perfume, e o Profunda leva óleo de hortelã-pimenta."
+          "Qual alternativa ao retinol da Creamy custa menos? O Ultra Sérum Retinol da Simple Organic tem menor preço por embalagem na promoção atual com o S-EMCASACOMCECILIA. As duas marcas declaram 0,3%, em formatos e embalagens diferentes.",
+          "A Simple Organic tem niacinamida 20% como a Creamy? A Simple Organic declara 10% de niacinamida. Os 20% informados na página da Creamy se referem a um blend com outros ativos.",
+          "Qual gel de limpeza escolher na Simple Organic? O Suave não leva perfume na fórmula; o Profunda contém ácidos e óleo de hortelã-pimenta. Veja a comparação no capítulo de limpeza.",
+          "Qual é o cupom da Simple Organic para a Black Friday? O S-EMCASACOMCECILIA deu mais 5% no teste de carrinho sobre o preço da promoção. Confira a linha de desconto e o total com frete antes de pagar."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Você usa o retinol da Creamy e quer o mesmo 0,3% por menos: o Ultra Sérum Retinol com o código custa menos por ml, dentro e fora da promoção.",
-        "Quer trocar o gel de limpeza: os géis de 350 g da Simple Organic custam metade do preço de lista da Creamy, mesmo fora da promoção.",
-        "Usa a niacinamida da Creamy e compara pelo preço: o Ultra Sérum Niacinamida custa menos por ml, dentro e fora da promoção."
+        "Você quer reduzir o desembolso pela embalagem de retinol e considera trocar o creme por um sérum com perfume.",
+        "Você procura niacinamida com menor custo por ml e considera uma fórmula com 10% declarados.",
+        "Você quer aproveitar o menor preço por embalagem dos géis de limpeza na promoção atual."
       ],
       "skipIf": [
-        "Você evita perfume em sérum: os Ultra Séruns de retinol e de niacinamida levam Parfum.",
-        "Procura retinal ou ácido tranexâmico: a Simple Organic não tem equivalente.",
-        "Quer a mesma concentração de niacinamida da Creamy: a Simple Organic declara 10%, e a Creamy fala em 20% de um blend."
+        "Você evita perfume em séruns: os dois Ultra Séruns desta seleção levam Parfum.",
+        "Você precisa manter o formato em creme do seu retinol.",
+        "Você quer escolher pela concentração de niacinamida isolada e ainda precisa esclarecer a informação do blend."
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
       "label": "Ir para a Simple Organic com o cupom",
-      "text": "Entre pelo link da parceria: a loja abre com o S-EMCASACOMCECILIA, de 5% OFF na loja online, já aplicado. Confira a linha do desconto no carrinho antes de pagar.",
+      "text": "O botão abre a Simple Organic com o S-EMCASACOMCECILIA, de 5%. Confira o desconto aplicado e o total com frete antes de pagar.",
       "url": "https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA",
       "sponsored": true
     },
