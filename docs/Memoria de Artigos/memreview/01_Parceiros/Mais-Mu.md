@@ -94,6 +94,7 @@ O cupom fica no checkout (depois de "Iniciar compra" no carrinho), em "Adicionar
 | `/images/about/partners/mais-mu.png` | Logo oficial do cabeçalho do site (vaquinha de óculos e "+Mu"), 253 × 88 sem ampliar, baixado em 2026-10-20 | Parceiros comerciais no `/sobre` | Identificação da marca parceira |
 | `/images/about/partners/mais-mu-icon.png` | Avatar oficial da página da marca no Facebook ("+Mu" branco sobre azul), 187 px ampliado para 256 × 256 | Bolinha da home, chip e imagem de compartilhamento | Identificação da marca parceira |
 | `/images/logos/watermarks/mais-mu.webp` | Silhueta do contorno, dos óculos e do "+Mu" do logo | Marca-d'água da página e dos cards | Identificação da marca parceira |
+| `/images/logos/bolinhas/mais-mu.png` | Logo do cabeçalho do site (`https://acdn-us.mitiendanube.com/stores/005/697/238/themes/common/logo-126954542-1743780230-76d062964d8f483e27341e030f4d44931743780230.png`, 253 × 88), baixado em 2026-11-11. Recortado o "+Mu" (130 × 74 px), ampliado 6× e pintado de branco, em 512 × 512 transparente (92% da largura); o azul dele no logo virou o `background` (`#00A0E3`) | Bolinha da home e de /reviews | Identificação da marca parceira |
 
 Os logos estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo,
 conforme `docs/GUIA-MIDIA-EDITORIAL.md`.
