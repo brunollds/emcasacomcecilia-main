@@ -1436,6 +1436,7 @@ export const CODE_FIELD_POLICY = {
   brandIcon: 'pt',
   brandLogo: 'pt',
   brandLogoAlt: 'translate',
+  bubble: 'pt',
   brandWatermark: 'pt',
   socialImage: 'pt',
   socialImageAlt: 'drop',

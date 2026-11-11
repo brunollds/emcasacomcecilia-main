@@ -40,6 +40,10 @@ export const COUPON_HUB_CATEGORIES = [
 
 export type CouponHubCategory = (typeof COUPON_HUB_CATEGORIES)[number]['id'];
 
+// A marca da loja na bolinha (a vitrine da home e as bolinhas de /reviews): o símbolo com fundo transparente, já
+// recortado, sem margem própria. `background` (#rrggbb) só quando o fundo é parte da marca; sem ele, o disco é creme.
+export type CouponBubble = { src: string; background?: string };
+
 interface CouponBase {
   slug: string;
   brand: string;
@@ -48,6 +52,8 @@ interface CouponBase {
   brandIcon: string;
   brandLogo?: string;
   brandLogoAlt?: string;
+  // Sem ele, a bolinha mostra o brandLogo.
+  bubble?: CouponBubble;
   // Silhueta do logo com fundo transparente, usada como marca-d'água nos cards de cupom.
   brandWatermark?: string;
   socialImage?: string;

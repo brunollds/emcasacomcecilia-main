@@ -1,4 +1,5 @@
 import type { CardImageFit, CardImagePosition } from '@/lib/cardImage';
+import type { CouponBubble } from '@/lib/couponsData';
 
 // Regras da vitrine da home que valem no servidor e no navegador. O componente cliente importa
 // daqui; os dados das lojas chegam prontos de homeStores.ts, que fica no servidor.
@@ -39,6 +40,8 @@ export type HomeStoreTab = {
   brand: string;
   // URL de entrega do logo; sem ele, a bolinha e o recorte mostram as iniciais (brandIcon).
   logo?: string;
+  // A marca própria da bolinha, com o src já resolvido; sem ela, a bolinha mostra o logo.
+  bubble?: CouponBubble;
   initials: string;
   label: string;
   // Falta só em loja de link sem código de indicação.

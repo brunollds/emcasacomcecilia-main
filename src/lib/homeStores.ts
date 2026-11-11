@@ -92,6 +92,16 @@ function getHomeLimitedCodes(store: Coupon, now: number, copyAria: (code: string
   }));
 }
 
+// O que a bolinha da loja desenha, na home e em /reviews: a marca própria (bubble) quando a loja tem, e o logo e as
+// iniciais, que seguem valendo para quem não tem.
+export function getStoreMark(store: Coupon): Pick<HomeStoreTab, 'logo' | 'bubble' | 'initials'> {
+  return {
+    logo: store.brandLogo ? resolveMediaUrl(store.brandLogo) : undefined,
+    ...(store.bubble ? { bubble: { ...store.bubble, src: resolveMediaUrl(store.bubble.src) } } : {}),
+    initials: store.brandIcon,
+  };
+}
+
 // `now` decide os códigos com prazo: a página usa a hora em que é gerada (no build e no ISR), e os testes passam a hora
 // do build ou uma data fixa.
 export function getHomeStoreTabs(
@@ -112,8 +122,7 @@ export function getHomeStoreTabs(
     return {
       slug: store.slug,
       brand: store.brand,
-      logo: store.brandLogo ? resolveMediaUrl(store.brandLogo) : undefined,
-      initials: store.brandIcon,
+      ...getStoreMark(store),
       label: code ? getCodeTitle(copy, kind, store.brand) : store.brand,
       code,
       discount: store.discount,

@@ -1,4 +1,5 @@
 import type { CardImageFit, CardImagePosition } from '@/lib/cardImage';
+import type { CouponBubble } from '@/lib/couponsData';
 import { parseReviewCategory, type ReviewCategory } from './reviewDiscovery';
 
 // A estante de artigos de /reviews e das subpáginas de loja: o que vale no servidor e no navegador
@@ -38,6 +39,8 @@ export type ShelfStore = {
   brand: string;
   // URL de entrega do logo; sem ele, a bolinha mostra as iniciais.
   logo?: string;
+  // A marca própria da bolinha, com o src já resolvido; sem ela, a bolinha mostra o logo.
+  bubble?: CouponBubble;
   initials: string;
   // Bolinha sem logo de loja, que mostra um ícone no lugar (hoje só a "Outros", a casa).
   icon?: 'house';
