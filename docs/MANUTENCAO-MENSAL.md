@@ -76,7 +76,7 @@ depende do tipo:
   `lastVerified` só das conferidas; testar no carrinho os que mudaram de oferta, os que alguém disse
   que falharam e os que o `test:coupon-offer-modes` avisou (90 dias);
 - registrar a **data real** de cada conferência e de cada teste;
-- o mês do título e da página muda sozinho no build; os de ciclo só mudam de condição com o ciclo
+- o mês do título e da página vira no build: fazer um deploy a partir do dia 20 de cada mês (o mês seguinte) e outro no começo do mês, senão o título fica no mês do último deploy; os de ciclo só mudam de condição com o ciclo
   seguinte confirmado;
 - expirar ou pausar campanhas encerradas antes de publicar a nova versão;
 - tirar o chip “novo” dos artigos do mês que acabou: só os artigos do mês corrente ficam com

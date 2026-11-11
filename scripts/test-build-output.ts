@@ -22,6 +22,7 @@ import { generateSectionIds, inferReviewKind, type EditorialNoteData, type Recom
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
 import { getArticleStoreBlock, getArticleStoreBlocks, type ArticleLimitedCode, type ArticleStoreBlock } from '../src/lib/articleStore';
 import { getReviewStoreSlugs, getSingleStoreSlug, isMultiStoreReview } from '../src/lib/reviewStores';
+import { getCouponMetaTitle } from '../src/lib/offerMonth';
 import { getActiveCoupons, getAllActiveCouponSlugs, getCouponBySlug, getCouponHubSections, getOtherActiveCoupons, getPendingLimitedCodes, getStoreCodeKind, type Coupon } from '../src/lib/couponsData';
 import {
   getCouponLanguageLinks,
@@ -2891,6 +2892,14 @@ for (const { pagePath, store } of couponStorePages) {
   };
   assertStoreCutout(pagePath, body, copyable);
   assertStoreArrival(pagePath, body);
+  // O título leva o mês do calendário da hora do build (metaTitleMonth), e o topo da loja com teste no carrinho
+  // mostra a validade da parceria, sem a data do teste.
+  const title = read(builtFile(`${SITE_URL}${pagePath}`)!).match(/<title>([^<]*)<\/title>/)?.[1];
+  assert.equal(decodeHtml(title ?? ''), getCouponMetaTitle(store!, builtAt(pagePath).getTime()), `${pagePath}: <title> sem o mês do build`);
+  if (store!.offerMode === 'discount-code' && store!.testNote) {
+    const cutout = textOf(elementAt(body, body.indexOf('<section id="cupom"')));
+    assert.ok(cutout.includes(store!.validity), `${pagePath}: o topo sem a validade da parceria`);
+  }
   assertCopyCutouts(pagePath, body, expected);
   if (store.referral) {
     const referral = between(body, 'aria-labelledby="indicacao"', ['</section>']);
