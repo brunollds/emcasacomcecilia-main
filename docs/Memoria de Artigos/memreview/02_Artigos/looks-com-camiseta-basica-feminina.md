@@ -7,9 +7,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Looks"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2); reler preços e testar os dois códigos no carrinho"
+proxima_acao: "no ar em 11/11 (#845 e #847); reler preços e peças em 01/12"
 bloqueado_por: null
 score_autoridade: 55
 score_conversao: 72
