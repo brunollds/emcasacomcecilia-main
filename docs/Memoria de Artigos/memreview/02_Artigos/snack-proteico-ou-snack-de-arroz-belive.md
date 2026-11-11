@@ -133,3 +133,10 @@ Frase abaixo da tabela: cupom MAUAD 10% (soma com promoção e com o Pix de 5%, 
 
 ## Redação (28/10/2026)
 - No ar em 28/10/2026 18:56 UTC (PR #331, links de produto no #333, release `c3af3e1`, id 628). Preços relidos no Chrome em 28/10, sem mudança.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Montagem de duas fotos oficiais Belive: snack proteico em tigela amarela à esquerda e snack de arroz em tigela branca à direita.
+- **Origem:** díptico de fotos oficiais (proteico sabor queijo e arroz sabor queijo), sem inferência nutricional pela aparência. Sem geração por IA.
+- **Lote 12 do piloto de capas (sequência 3 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-3-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-capa.webp`) fica no CDN, sem uso como capa.

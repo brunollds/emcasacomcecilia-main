@@ -413,3 +413,10 @@ Job 2 na sessão elaboradora de artigos.
 - **Texto em PT:** redigido por subagentes em dois blocos de capítulos a partir deste briefing (Job 2), juntado e revisado por Claude (Job 3) e aprovado pelo Bruno em 20/10/2026. Só PT. id 519, `/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho`, autoria da Cecília.
 - **Preços:** relidos em 20/10/2026 (Cléa Store), com a data no texto; itens em pré-venda ou com dado quebrado ficaram fora. Cupom CSEMCASACOMCECILIA (10% em todo o site, não vale no Mercado Livre). Sem experiência própria com os produtos.
 - **Imagens:** em `public/images/reviews/clea-store/`, escolhidas pelo Bruno na folha de contato: 2 quadros próprios (como medir e a tabela) e uma foto da loja. Upload pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/clea-store/clea-store-tabela-de-medidas-como-escolher-tamanho-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo veste blazer oversized bordô da Cléa Store e calça da mesma cor.
+- **Origem:** foto oficial do blazer oversized bordô, em pose diferente da usada no artigo de confiança. Sem geração por IA.
+- **Lote 11 do piloto de capas (sequência 3 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-3-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp`) fica no CDN, sem uso como capa.

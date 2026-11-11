@@ -221,3 +221,10 @@ Pedido do Bruno de 12/10/2026 (reajustar as imagens que existem, melhorar a tabe
 - "Stoneware ou faiança: o que muda": gráfico nosso, sem palavras, `porto-brasil-absorcao-agua.webp` (só os números da CBSA).
 - "Micro-ondas, lava-louças, forno e freezer": `porto-brasil-fichas-stoneware-faianca-uso.webp`, prints da aba "Uso e cuidado" de duas fichas do site da Porto Brasil (stoneware Bio Vanilla e faiança Kit Celebrar Madeleine), capturadas em 13/10/2026 sem perfil e sem login. O destaque em amarelo das duas frases é nosso (pedido do Bruno), e a legenda diz isso.
 - "Como comprar pela Let's Eat It": `lets-eat-it-porto-brasil-pagina.webp`, recorte do print do Bruno de 12/10/2026, sem a barra de campanha.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/letseatit/porto-brasil-e-boa-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Louças Porto Brasil Bio Latte numa mesa posta com flores.
+- **Origem:** foto oficial do Bio Latte numa mesa com flores; a decoração não entra nas conclusões sobre a louça. Sem geração por IA.
+- **Lote 10 do piloto de capas (sequência 3 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-3-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/letseatit/porto-brasil-stoneware-bio-latte-v2.webp`) fica no CDN, sem uso como capa.

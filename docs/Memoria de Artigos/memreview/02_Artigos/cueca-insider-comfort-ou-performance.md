@@ -344,3 +344,10 @@ Bruno, 20/10/2026: "Pode seguir" depois do resumo das pendências; as respostas 
 9. Esta pauta vira a referência de escolha de modelo de cueca. O `insider-vale-a-pena` ganha uma linha com link para ela e tem os preços de cueca corrigidos (Performance R$ 89 e kit 3 R$ 258,99, de 12/10; hoje R$ 79 a R$ 95 e R$ 229,89): a correção vai ao elaborador junto com os três artigos novos.
 10. Slip entra curta: "hoje, só a Comfort, na cor preta, R$ 75". Seamless Touch entra com o preço de R$ 59.
 11. Cuidados de lavagem: os da página para Performance e Comfort; Seamless e Slip não trazem o bloco na página ("siga a etiqueta").
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/insider/cueca-insider-comfort-ou-performance-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo veste camiseta azul-marinho e cueca Seamless Touch cinza da Insider.
+- **Origem:** foto oficial da Insider, roupa e modelo sem alteração; pose diferente das usadas em outras capas da loja. Sem geração por IA.
+- **Lote 10 do piloto de capas (sequência 3 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-3-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/insider/insider-cueca-performance-azul-comfort-verde-capa.webp`) fica no CDN, sem uso como capa.

@@ -135,3 +135,10 @@ Fatos: `faqueiro-laguiole-la-maison-qual-escolher-fatos-2910.md`, ao lado.
 - Preços do cartão e estoque relidos em 29/10/2026; MAUAD e Pix numa frase, sem destaque; links de produto com a UTM da parceria.
 - Tabela com 12, 18, 30 Branco e 30 Verde; Laranja e Bordeaux 30 em frase; a La Maison sem "Laguiole" (12, 24 e 36 peças) só numa nota. Lava-louças, garantia e fabricação: "a ficha não diz". No mesmo PR, o Marfim 30 esgotado virou o Verde 30 (R$ 1.099,00) em `mesa-posta-natal-o-que-precisa-quanto-custa` e `presente-de-casamento-ideias-por-preco`. Imagens: capa e 5 fotos das fichas (não há foto de fundo branco do faqueiro).
 - Pendente: reler preços e estoque na Black Friday de 2026.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/letseatit/faqueiro-laguiole-la-maison-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Talheres Laguiole La Maison de cabos verdes sobre guardanapo branco bordado e mesa de tecido.
+- **Origem:** foto oficial do Laguiole verde sobre guardanapo, resolução nativa de 692 px; peças laterais já cortadas na fonte, sem reconstrução. Sem geração por IA.
+- **Lote 12 do piloto de capas (sequência 3 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-3-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/letseatit/faqueiro-laguiole-la-maison-qual-escolher-capa.webp`) fica no CDN, sem uso como capa.
