@@ -211081,5 +211081,362 @@ export const reviewsData: unknown[] = [
         "slug": "black-friday-simple-organic"
       }
     ]
+  },
+  {
+    "id": 898,
+    "slug": "kit-skincare-presente-simple-organic",
+    "locale": "pt",
+    "title": "Kit de skincare para presente: como escolher na Simple Organic",
+    "seoTitle": "Kit de skincare para presente: como escolher na Simple Organic",
+    "type": "Guia de Presente",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Nove de onze kits custam o mesmo que os avulsos. Escolha pelo que a pessoa já usa ou pediu, veja os preços com o código e confira o total com o frete.",
+    "metaDescription": "S-EMCASACOMCECILIA dá 5% OFF na Simple Organic. Kit de skincare para presente: como escolher, quando compensa frente aos avulsos e como funciona a troca.",
+    "publishedAt": "10 de novembro de 2026",
+    "publishedAtISO": "2026-11-10",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/simple-organic/kit-skincare-presente-simple-organic-capa.webp",
+    "imageAlt": "Kits de skincare e body splashes da Simple Organic, com o título Kit de skincare para presente e o código S-EMCASACOMCECILIA",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você conhece os produtos que a pessoa usa ou pediu e quer reuni-los em uma compra.",
+        "A pessoa gosta dos três perfumes do Trio Body Splashes.",
+        "O kit com retinol foi pedido ou reúne produtos que a pessoa já usa."
+      ],
+      "skipIf": [
+        "Algum item do conjunto não faz parte do presente que a pessoa quer receber.",
+        "Você quer as três cores de lápis: confira os avulsos antes de escolher o kit.",
+        "Você não conhece a rotina e está escolhendo um tratamento só pelo nome do kit."
+      ]
+    },
+    "cta": {
+      "label": "Ir para a Simple Organic com o cupom",
+      "text": "O botão abre a loja com o S-EMCASACOMCECILIA, que deu 5% nos kits e avulsos testados. Confira o desconto e compare o total com frete. Mantenha o código se o total ficar menor.",
+      "url": "https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "S-EMCASACOMCECILIA",
+    "affiliate": "simple-organic",
+    "editorialNote": "Feito com as páginas da loja e um teste de carrinho, sem compra; não avaliamos o uso dos kits. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "simple-organic-e-boa"
+      },
+      {
+        "slug": "simple-organic-ou-principia"
+      },
+      {
+        "slug": "cupom-simple-organic-como-usar"
+      },
+      {
+        "slug": "black-friday-simple-organic"
+      },
+      {
+        "slug": "simple-organic-e-confiavel"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Escolha o kit pelo que a pessoa já usa, pediu ou gosta: há duos de limpeza e sérum, trios com balm e opções com retinol. Kit não é desconto automático, porque nove dos onze conferidos custam a soma dos avulsos. O S-EMCASACOMCECILIA deu 5% nos onze; no Trio Body Splashes, compare o total com frete."
+        ]
+      },
+      {
+        "heading": "Kits para quem já usa ou pediu um sérum",
+        "paragraphs": [
+          "Se a pessoa pediu niacinamida, ácido hialurônico ou vitamina C, procure esse produto na tabela. Depois, confira se ela também quer o gel de limpeza e o balm que acompanham alguns kits.",
+          "Os duos reúnem dois produtos. Os trios desta tabela acrescentam o Balm Antiolheiras ao gel e ao sérum. Escolha pelos itens que serão usados; uma caixa com mais produtos pode incluir algo que a pessoa não quer.",
+          "A Dupla Limpeza Diária reúne dois géis. O Gel de Limpeza Profunda contém ácidos, por isso ela fica para quem já conhece esse tipo de produto e quer incluí-lo na rotina."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de 10/11, na Clean Friday, com os 5% do S-EMCASACOMCECILIA; frete à parte. Composição pelas páginas dos kits.",
+          "headers": [
+            "Kit",
+            "O que vem",
+            "Com o código",
+            "O que olhar"
+          ],
+          "rows": [
+            [
+              "[Duo Glass Skin](https://simpleorganic.com.br/products/kit-glow-hidratante)",
+              "Gel de Limpeza Suave e Ultra Sérum Ácido Hialurônico",
+              "R$ 67,36",
+              "Para quem já usa ou pediu ácido hialurônico"
+            ],
+            [
+              "[Duo Rotina Sem Erro](https://simpleorganic.com.br/products/duo-rotina-sem-erro)",
+              "Gel de Limpeza Suave e Niacinamida",
+              "R$ 67,36",
+              "A fórmula da niacinamida leva perfume"
+            ],
+            [
+              "[Rotina Básica](https://simpleorganic.com.br/products/kit-rotina-basica)",
+              "Gel Suave, Niacinamida e Balm Antiolheiras",
+              "R$ 106,69",
+              "O Duo acima com o balm a mais"
+            ],
+            [
+              "[Rotina Pele Iluminada](https://simpleorganic.com.br/products/kit-pele-iluminada)",
+              "Gel Suave, Ultra Sérum Vitamina C e Balm Antiolheiras",
+              "R$ 106,69",
+              "Para quem já usa ou pediu vitamina C"
+            ],
+            [
+              "[Rotina Hidratação Intensa](https://simpleorganic.com.br/products/kit-hidratacao)",
+              "Gel Suave, Ultra Sérum Ácido Hialurônico e Balm Antiolheiras",
+              "R$ 106,69",
+              "O Duo Glass Skin com o balm a mais"
+            ],
+            [
+              "[Dupla Limpeza Diária](https://simpleorganic.com.br/products/dupla-limpeza-diaria)",
+              "Gel de Limpeza Suave e Gel de Limpeza Profunda",
+              "R$ 56,05",
+              "Dois géis; o Profunda contém ácidos salicílico, glicólico e lático"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Se os nomes confundirem: a niacinamida aparece como \"Solução\" em alguns kits e como \"Ultra Sérum\" no avulso, e a loja diz que é a mesma fórmula, em embalagem nova. O \"Balm de Olhos\" que ainda aparece em textos de kit é o Balm Antiolheiras, de 12 g. O guia [Simple Organic é boa?](/reviews/simple-organic-e-boa) traz o resto da linha."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/kit-skincare-presente-duo-rotina-sem-erro.webp",
+            "alt": "Gel de Limpeza Suave e sérum de niacinamida do Duo Rotina Sem Erro da Simple Organic, em foto oficial da loja",
+            "caption": "Duo Rotina Sem Erro: Gel de Limpeza Suave e niacinamida. Foto: Simple Organic.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Você conhece o perfume ou os tons preferidos",
+        "paragraphs": [
+          "Se você conhece a fragrância ou as cores que a pessoa usa, escolha a partir delas. O Trio Body Splashes reúne três perfumes; se ela só gosta de um, o frasco avulso permite comprar essa fragrância sem levar as outras duas.",
+          "Nos lápis de boca, confira as mesmas três cores em versão avulsa antes de escolher o kit. A comparação de preços está no capítulo de kits e avulsos."
+        ],
+        "comparisonTable": {
+          "caption": "Preço com a Clean Friday e os 5% do código.",
+          "headers": [
+            "Produto",
+            "O que vem",
+            "Com o código",
+            "O que olhar"
+          ],
+          "rows": [
+            [
+              "[Trio Body Splashes](https://simpleorganic.com.br/products/kit-body-splash)",
+              "Blossom Kiss, Dream Cloud e Perfect Matcha, 100 mL cada",
+              "R$ 94,53, mais o frete",
+              "Sem o código pode sair mais barato: veja o capítulo do frete"
+            ],
+            [
+              "[Body Splash avulso](https://simpleorganic.com.br/products/body-splash-blossom-kiss)",
+              "Um perfume, 100 mL",
+              "R$ 32,78",
+              "Para presentear com uma fragrância que a pessoa já conhece e gosta"
+            ],
+            [
+              "[Lápis de Boca avulsos](https://simpleorganic.com.br/products/lapis-de-boca)",
+              "Café Coado, Suco de Melancia e Café Espresso, 1,10 g cada",
+              "R$ 41,90 nas três cores",
+              "As mesmas três cores do kit; compare os preços no capítulo de kits e avulsos"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/kit-skincare-presente-trio-body-splashes.webp",
+            "alt": "Frascos de body splash Blossom Kiss, Dream Cloud e Perfect Matcha da Simple Organic, em foto oficial da loja",
+            "caption": "Trio Body Splashes: três perfumes de 100 mL. Foto: Simple Organic.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "A pessoa já usa ou pediu retinol",
+        "paragraphs": [
+          "Estes três kits levam o Ultra Sérum Retinol, com 0,3% de retinol. Só entram se a pessoa já usa ou pediu. \"Pele Madura\" e \"Anti-idade\" são nomes comerciais, e idade ou parentesco não servem de critério para escolher."
+        ],
+        "comparisonTable": {
+          "caption": "Composição pela página de cada kit; preço com a Clean Friday e os 5% do código.",
+          "headers": [
+            "Kit",
+            "O que vem",
+            "Com o código",
+            "O que olhar"
+          ],
+          "rows": [
+            [
+              "[Rotina Pele Madura](https://simpleorganic.com.br/products/rotina-pele-madura)",
+              "Gel Suave, Ultra Sérum Retinol e Balm Antiolheiras",
+              "R$ 106,69",
+              "O caminho mais barato com retinol entre os três"
+            ],
+            [
+              "[Rotina Noturna de Regeneração](https://simpleorganic.com.br/products/ritual-noturno-de-regeneracao)",
+              "Gel Suave, Ultra Sérum Retinol e Solução Exossomos + PDRN + Peptídeos",
+              "R$ 140,89",
+              "Soma a solução de PDRN e mantém o gel"
+            ],
+            [
+              "[Rotina Anti-idade](https://simpleorganic.com.br/products/rotina-anti-idade)",
+              "Ultra Sérum Retinol, Balm Antiolheiras e Solução Exossomos + PDRN + Peptídeos",
+              "R$ 152,19",
+              "Não traz gel de limpeza"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A loja manda usar o retinol só à noite, com protetor solar todo dia durante o uso, e pede cautela e adaptação em pele sensível. Se a pessoa está grávida, esses três kits não são sugestão nossa."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-e-boa-ultra-serum-retinol.webp",
+            "alt": "Frasco do Ultra Sérum Retinol da Simple Organic, com o rótulo 0,3% Retinol e 0,5% Squalane, em foto oficial da marca",
+            "caption": "Ultra Sérum Retinol: é ele que entra nos três kits. Foto: Simple Organic.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Você não conhece a rotina da pessoa",
+        "paragraphs": [
+          "Pergunte qual produto a pessoa gostaria de ganhar. Uma mensagem com essa pergunta ajuda mais do que escolher pelos nomes das rotinas.",
+          "Se você quer manter a surpresa, a [nécessaire I Love Simple](https://simpleorganic.com.br/products/necessaire-i-love-simple), de algodão, custa R$ 99 e guarda os produtos que ela já usa.",
+          "A página da nécessaire diz que ela não acumula com cupons, mas o S-EMCASACOMCECILIA entrou no nosso carrinho. Como o preço está no limite anunciado para frete grátis, compare o total com e sem o código antes de pagar.",
+          "O catálogo consultado não tinha vale-presente, e a Caixa de Presente Simple With Love estava esgotada."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/kit-skincare-presente-necessaire-i-love-simple.webp",
+            "alt": "Nécessaire preta de algodão I Love Simple, da Simple Organic, em foto oficial da loja",
+            "caption": "Nécessaire I Love Simple: não exige saber a rotina. Foto: Simple Organic.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Kit ou avulsos: quando o conjunto sai mais barato",
+        "paragraphs": [
+          "Nos nove kits de skincare desta seleção, o conjunto custa o mesmo que os produtos separados, nos mesmos tamanhos. As diferenças de preço estão no Trio Body Splashes e no Kit Lápis de Boca."
+        ],
+        "comparisonTable": {
+          "caption": "Comparação na Clean Friday, antes do código e do frete. Os mesmos 5% entraram nos kits e nos avulsos testados.",
+          "headers": [
+            "Seleção",
+            "Preço do kit",
+            "Soma dos avulsos",
+            "Diferença"
+          ],
+          "rows": [
+            [
+              "Nove kits de skincare das tabelas acima",
+              "De R$ 59,00 a R$ 160,20",
+              "Igual ao preço de cada kit",
+              "Nenhuma"
+            ],
+            [
+              "Trio Body Splashes Simple",
+              "R$ 99,50",
+              "R$ 103,50",
+              "Kit R$ 4,00 mais barato"
+            ],
+            [
+              "Kit Lápis de Boca, 3 cores",
+              "R$ 88,20",
+              "R$ 44,10",
+              "Kit custa o dobro"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Para os kits de skincare, escolha pelo conjunto de produtos que a pessoa quer receber. O nome da rotina não garante que todos os itens façam sentido para ela.",
+          "Para os lápis, comprar as três cores avulsas custa menos. No Trio Body Splashes, o frete ainda pode mudar a vantagem: veja o teste abaixo."
+        ]
+      },
+      {
+        "heading": "O código vale em kit? E o frete?",
+        "paragraphs": [
+          "A política de cupons da loja diz que cupom não vale em kits e duos nem soma com promoção. No checkout, o S-EMCASACOMCECILIA entrou: 5% exatos num carrinho com os onze kits e em outro com os avulsos. Como a regra escrita diz outra coisa, confira a linha de desconto antes de pagar.",
+          "O frete é o que pode mudar a conta. O frete grátis começa em R$ 99, e o teste mostrou que o valor conta depois do desconto."
+        ],
+        "comparisonTable": {
+          "caption": "Teste no checkout, sem compra: Trio Body Splashes, CEP 01310-100, em São Paulo, com o envio mais barato disponível.",
+          "headers": [
+            "Carrinho",
+            "Desconto",
+            "Frete",
+            "Total"
+          ],
+          "rows": [
+            [
+              "Com o código",
+              "−R$ 4,97",
+              "R$ 10,88",
+              "R$ 105,41"
+            ],
+            [
+              "Sem o código",
+              "Nenhum",
+              "Grátis",
+              "R$ 99,50"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nesse carrinho, o desconto nos produtos foi menor que o frete que passou a ser cobrado. Em compras próximas do mínimo, compare o total com e sem o código no seu CEP.",
+          "Os links de produto deste guia não aplicam o código. Copie o S-EMCASACOMCECILIA e cole no checkout, ou entre pelo botão da parceria, que abre a loja já com ele. O passo a passo está em [como usar o cupom](/reviews/cupom-simple-organic-como-usar)."
+        ],
+        "links": [
+          {
+            "label": "cupom Simple Organic",
+            "href": "/cupons/simple-organic"
+          }
+        ]
+      },
+      {
+        "heading": "Entrega, embalagem e troca no presente de Natal",
+        "paragraphs": [
+          "A loja não publica data-limite de entrega para o Natal. A política de frete fala em 3 a 5 dias úteis para despachar depois do pagamento, e o FAQ dela, em 3 a 7. O prazo do transporte depende do CEP, então confira o que o checkout mostra para o endereço de entrega antes de pagar.",
+          "Para embrulhar, o [Saquinho de Algodão P](https://simpleorganic.com.br/products/saquinho) custa R$ 12. Nenhum kit cita caixa ou embalagem de presente incluída.",
+          "Para o presente, separe o prazo de desistência da compra das condições de troca:"
+        ],
+        "bullets": [
+          "Arrependimento: em compras online, [a Senacon informa](https://www.gov.br/mj/pt-br/assuntos/noticias/dia-dos-pais-conheca-os-direitos-do-consumidor-na-compra-de-presentes) o prazo de 7 dias contados do recebimento para desistir da compra, com devolução dos valores pagos. Se o pedido chegar semanas antes do Natal, esse prazo pode acabar antes da entrega do presente.",
+          "A loja informa: troca ou desistência em até 7 dias corridos do recebimento, com a embalagem original, sem uso e com o lacre inviolado. Deixar lacrado não estica o prazo. Confirme antes de comprar como funciona a troca por quem recebeu o presente e guarde a resposta.",
+          "Defeito: os direitos do consumidor também valem para produtos em promoção. Esse caso é diferente de trocar porque a pessoa não gostou."
+        ]
+      },
+      {
+        "heading": "Qual kit dar de presente",
+        "paragraphs": [
+          "Se a pessoa pediu um sérum, os duos são a opção menor; os trios acrescentam o balm. Para quem já quer retinol, compare os três kits pelo gel, pelo balm e pela solução de PDRN que entram em cada um. Se a escolha for perfume ou lápis, siga as fragrâncias e cores que ela já gosta de usar."
+        ],
+        "emphasis": "O melhor presente desta seleção é o que reúne os produtos que a pessoa quer receber. Se você ainda não sabe quais são, pergunte ou escolha a nécessaire."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual kit dar sem conhecer a rotina? Nenhum kit de tratamento. Pergunte antes o que a pessoa usa; se não der, uma nécessaire evita escolher um ativo por ela.",
+          "O kit compensa em relação aos avulsos? Na maioria, custa o mesmo. A tabela de kits e avulsos mostra as duas exceções, e o capítulo do frete mostra o que pode mudar no total.",
+          "Qual é o cupom da Simple Organic para kits? O S-EMCASACOMCECILIA deu 5% OFF nos onze kits do nosso teste. A política escrita exclui kits, então confira a linha de desconto no checkout.",
+          "Dá para trocar um presente? Compras online têm prazo legal de arrependimento de 7 dias do recebimento. Para troca por preferência ou para quem recebeu o presente, confirme as condições com a loja antes de comprar.",
+          "Como conferir se chega antes da data? O checkout mostra o prazo para o CEP antes do pagamento. A loja não publica data-limite, então deixe folga."
+        ]
+      }
+    ]
   }
 ];
