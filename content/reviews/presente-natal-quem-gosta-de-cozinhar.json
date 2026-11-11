@@ -20,10 +20,10 @@
   "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/letseatit/presente-natal-ramekin-coracao-le-creuset.webp",
-  "imageAlt": "Ramekin vermelho em formato de coração da Le Creuset com creme e framboesas",
-  "imageFit": "cover",
-  "imageAspect": "square",
+  "image": "/images/reviews/letseatit/presente-natal-quem-gosta-de-cozinhar-capa-v2.webp",
+  "imageAlt": "Pessoa usa espátula preta KitchenAid para despejar massa de chocolate em uma forma, em fotografia oficial da loja parceira.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "contentSections": [
     {
       "heading": "Resposta rápida",

@@ -175,3 +175,10 @@ Fatos: `body-splash-skelt-solar-muse-fatos-2910.md`, ao lado.
 - Preços do cartão lidos em 29/10/2026; cupom e Pix numa frase fora da tabela.
 - No mesmo PR, o `body-splash-skelt-qual-escolher` passou a dizer que o Solar Muse é vendido avulso (R$ 99,90 em 29/10), com o link da ficha, e ganhou a pergunta "A Skelt tem body splash masculino?" no FAQ. Imagens do CDN: capa, frasco e foto das notas.
 - Pendente: reler os preços na Black Friday de 2026.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/skelt/body-splash-skelt-solar-muse-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Frasco vermelho do Body Splash Solar Muse da Skelt sobre areia, em cenário promocional de tons alaranjados.
+- **Origem:** frasco vermelho em cenário promocional de areia; não é o Milos Breeze nem teste de duração ou fixação. Sem geração por IA.
+- **Lote 14 do piloto de capas (sequência 4 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-4-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/skelt/body-splash-skelt-solar-muse-capa.webp`) fica no CDN, sem uso como capa.

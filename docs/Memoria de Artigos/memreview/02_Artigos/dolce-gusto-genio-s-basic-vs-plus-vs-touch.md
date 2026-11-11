@@ -210,3 +210,10 @@ Aprovada pelo Bruno em 13/10/2026. Conferida no comparativo da loja oficial (`ht
 - O bullet do painel deixou de dizer que a Touch "adiciona bandeja metálica" e passou a dizer que a bandeja vem na Plus e na Touch.
 - O veredito da Plus ganhou a bandeja de metal; o da Touch perdeu a bandeja como diferencial.
 - A FAQ Plus × Touch diz que as duas têm bandeja de metal.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/dolcegusto/dolce-gusto-genio-s-basic-vs-plus-vs-touch-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Genio S Touch prateada em bancada com painel aceso e copo à frente, em frame de vídeo próprio.
+- **Origem:** frame próprio da Touch aos 5 s, com painel e copo (base e parte do copo já fora da fonte), faixas laterais desfocadas do mesmo frame; não mostra os três modelos nem teste comparativo. Sem geração por IA.
+- **Lote 14 do piloto de capas (sequência 4 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-4-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/dolcegusto/genio-s-touch-cecilia-hero.webp`) fica no CDN, sem uso como capa.

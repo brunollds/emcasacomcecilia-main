@@ -169,3 +169,10 @@ Fatos: `body-splash-skelt-milos-breeze-fatos-2910.md`, ao lado.
 - Preços do cartão lidos em 29/10/2026; cupom e Pix numa frase fora da tabela.
 - Miniaturas do Exotic Set conferidas na ficha em 29/10 antes de o texto citar Grand Bahama e Pink Sands. Imagens do CDN: capa, frasco, kit de miniaturas Exotic Set e trio Exotic Trip.
 - Pendente: reler os preços na Black Friday de 2026.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/skelt/body-splash-skelt-milos-breeze-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Frasco azul do Body Splash Milos Breeze da Skelt em cenário com coco e água, em foto oficial.
+- **Origem:** composição oficial do frasco azul com coco e água; a decoração não vira ingrediente natural, e não é o Solar Muse. Sem geração por IA.
+- **Lote 13 do piloto de capas (sequência 4 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-4-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/skelt/body-splash-skelt-milos-breeze-capa.webp`) fica no CDN, sem uso como capa.

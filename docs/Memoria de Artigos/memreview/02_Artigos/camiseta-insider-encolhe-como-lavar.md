@@ -210,3 +210,10 @@ Rodada R7 aprovada na Fila (seção 3). Respostas às perguntas 1 a 9: pendentes
 - `insider-vale-a-pena`: no parágrafo "Tech T-Shirt: o que a marca promete e o que garante por escrito", encurtar a etiqueta para um link ("o passo a passo de lavagem está em..."). Nota editorial: conflito 2.
 - `tabela-de-medidas-insider`: a seção "Encolhimento" fica, e ganha um link para esta pauta. Revisar o conflito 1 antes.
 - `undershirt-insider-qual-escolher-funciona`: sem mudança (encolhimento de 7% é da central; não há conflito).
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/insider/camiseta-insider-encolhe-como-lavar-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo usa a regata branca The Perfect Top da Insider com calça bege, em foto oficial da marca.
+- **Origem:** foto oficial da regata The Perfect Top branca (modelo da marca, não a Cecília), chamada "Insider: como lavar?" / "Tech e Perfect Top". O frame da Cecília foi rejeitado pelo Bruno por destacar o rosto e não a peça. Sem geração por IA.
+- **Lote 13 do piloto de capas (sequência 4 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-4-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/insider/camiseta-insider-encolhe-como-lavar-capa.webp`) fica no CDN, sem uso como capa.

@@ -29,3 +29,10 @@ arquivo_canonico: "content/reviews/aliv-head-gel-iws-mascara-termica-enxaqueca.j
   - Frio (crioterapia): freezer por 1 a 2 horas (vasoconstrição);
   - Quente (termoterapia): micro-ondas em pulsos de 10 a 15 segundos (relaxamento muscular).
 - Cobertura 360 graus com bloqueio de luz para descanso em ambientes escuros.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/iwannasleep/aliv-head-gel-iws-mascara-termica-enxaqueca-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo usa máscara lilás Aliv Head Gel e camisa xadrez rosa enquanto está reclinada em cadeira, em imagem promocional da IWS.
+- **Origem:** foto promocional com modelo e a máscara térmica lilás, logo Aliv original preservado; não é teste da Cecília nem promessa clínica. Sem geração por IA.
+- **Lote 13 do piloto de capas (sequência 4 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-4-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/iwannasleep/aliv-head-gel-iws-capa-discover.webp`) fica no CDN, sem uso como capa.

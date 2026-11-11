@@ -186,3 +186,10 @@ Fonte: `insiderstore.com.br` no Chrome, `/search/suggest.json` e `/products/<han
 ## Redação (27/10/2026)
 - No ar em 28/10/2026 03:40 UTC (PR #325, release `2567b32`, id 625). Tabela com 17 produtos, só o preço no cartão; o cupom fica nas frases abaixo dela (vira 6 linhas). Placar com o cupom: site 13, ML 3 (as três Daily); a Meia Spectrum Mid fica praticamente empatada (R$ 29,75 × R$ 29,45). Henley ficou fora, porque a peça não foi confirmada como a mesma. O anúncio da Tech a R$ 109,25 e a Light entram só numa frase.
 - Reler os preços três dias antes da Black Friday.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/insider/insider-mercado-livre-ou-site-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo veste camiseta Tech T-Shirt azul-marinho New Navy da Insider em fotografia oficial.
+- **Origem:** foto oficial da Tech masculina NewNavy, sem logo do Mercado Livre nem a peça duplicada como duas lojas. Sem geração por IA.
+- **Lote 15 do piloto de capas (sequência 4 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-4-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/insider/insider-mercado-livre-ou-site-capa.webp`) fica no CDN, sem uso como capa.

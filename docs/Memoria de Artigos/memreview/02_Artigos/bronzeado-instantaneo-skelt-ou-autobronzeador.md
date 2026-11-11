@@ -118,3 +118,10 @@ Fatos: `bronzeado-instantaneo-skelt-ou-autobronzeador-fatos-2910.md`, ao lado.
 ## Publicação (30/10/2026)
 - No ar em 30/10/2026 17:02 UTC: PR #369, release `5c16b59c`, id 752 (PT).
 - A ficha não diz que sai com o banho e indica só corpo. No mesmo PR, a FAQ do autobronzeador-skelt-qual-escolher deixou de dizer "sai no banho".
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/skelt/bronzeado-instantaneo-skelt-ou-autobronzeador-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Frasco do Bronzeado Instantâneo Body Bronzer Skelt com traços alaranjados de produto ao fundo, em imagem oficial.
+- **Origem:** foto oficial do Body Bronzer Instantâneo 120 ml (não o mousse nem o autobronzeador); a imagem não mostra as duas opções do comparativo. Sem geração por IA.
+- **Lote 15 do piloto de capas (sequência 4 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-4-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/skelt/bronzeado-instantaneo-skelt-ou-autobronzeador-capa.webp`) fica no CDN, sem uso como capa.

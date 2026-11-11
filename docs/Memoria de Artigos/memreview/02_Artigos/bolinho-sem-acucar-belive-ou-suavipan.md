@@ -199,3 +199,10 @@ As perguntas acima foram respondidas em 17/10/2026; o que vale é esta seção.
 ### Redação e JSON (18/10/2026)
 - Texto aprovado pelo Bruno em 18/10/2026, capa opção A. Fonte da regra de rotulagem registrada na matriz do rascunho: IN 75/2020, Anexos XIX e XX ("não contém açúcares" e "sem adição de açúcares"); "diet" pelo escopo da RDC 715/2022, artigo exato não lido (PDF da Anvisa com 403, não contornado).
 - Preços reconferidos no site em 17/10/2026, ~23h de Brasília.
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Mão segura bolinho de chocolate da Belive, com embalagem rosa e vermelha ao fundo, em foto oficial.
+- **Origem:** foto só do bolinho Belive chocolate 40 g, sem cobertura e sem imagem da Suavipan; a chamada diz "Açúcar e ingredientes" e não atribui "sem açúcar" às duas marcas. Sem geração por IA.
+- **Lote 13 do piloto de capas (sequência 4 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-4-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-capa.webp`) fica no CDN, sem uso como capa.

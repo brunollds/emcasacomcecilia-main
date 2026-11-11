@@ -277,3 +277,10 @@ FAQ (formato "pergunta? resposta", título reconhecido por `isFaqHeading`):
 - Redação em outra sessão; Job 3 aplicado e revisado pelo Claude em 14/10/2026: "nosso teste" no lugar de "testei", sem o WhatsApp da loja e a campanha da capa citada no texto alternativo (Bruno, 14/10: manter a campanha).
 - JSON `content/reviews/clea-store-e-confiavel.json`, id 433.
 - Imagens (prints de tela de 14/10/2026, recortados e com marca-texto nosso): `clea-store-confiavel-capa.webp`, `clea-store-rodape-cnpj.webp`. Refeito para leitura no celular: o rodapé (recortado no nome, no CNPJ e no pagamento).
+
+## Capa v2 (10/11/2026)
+
+- **Capa:** `/images/reviews/clea-store/clea-store-e-confiavel-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo veste camiseta bege do Kit Intense da Cléa Store e calça jeans, em fotografia oficial.
+- **Origem:** foto oficial da camiseta bege do Kit Intense, que ilustra a loja; sem nota, selo de reputação nem depoimento do site. Sem geração por IA.
+- **Lote 13 do piloto de capas (sequência 4 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-4-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/clea-store/clea-store-confiavel-capa-discover.webp`) fica no CDN, sem uso como capa.
