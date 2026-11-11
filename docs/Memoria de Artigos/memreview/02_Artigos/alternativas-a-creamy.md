@@ -7,9 +7,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Skincare"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2); reler todos os preços no dia"
+proxima_acao: "deploy (GO do Bruno); reler os preços depois de 30/11"
 bloqueado_por: null
 score_autoridade: 72
 score_conversao: 76
