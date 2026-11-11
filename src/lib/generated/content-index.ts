@@ -211747,6 +211747,13 @@ export const reviewsData: unknown[] = [
         },
         "images": [
           {
+            "src": "/images/reviews/insider/looks-camiseta-basica-combinacao-saia.webp",
+            "alt": "Montagem lado a lado com a Tech T-Shirt Gola V preta e a Maxi Saia NYIN Olive Green, em fotos separadas da Insider, sob o título Sugestão de combinação",
+            "caption": "Sugestão de combinação do card da NYIN: Tech T-Shirt Gola V preta e a saia Olive Green, em fotos separadas da Insider.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          },
+          {
             "src": "/images/reviews/insider/looks-camiseta-basica-saia-midi-tokyo.webp",
             "alt": "Modelo de corpo inteiro com a Saia Midi Tokyo preta da Insider, franzida na lateral, com regata vermelha e bota clara",
             "caption": "Saia Midi Tokyo fotografada com regata; a sugestão com Tech T-Shirt está no card. Foto: Insider.",
@@ -212011,6 +212018,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "images": [
+          {
+            "src": "/images/reviews/clea-store/looks-camiseta-basica-combinacao-blazer.webp",
+            "alt": "Montagem lado a lado com a Camiseta Comfort preta e o Blazer Oversized Alfaiataria Mescla, em fotos separadas da Cléa Store, sob o título Sugestão de combinação",
+            "caption": "Sugestão de combinação do card do blazer mescla: Comfort preta por baixo do blazer aberto, em fotos separadas da Cléa Store.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.6667
+          },
           {
             "src": "/images/reviews/clea-store/looks-camiseta-basica-blazer-mescla.webp",
             "alt": "Modelo com o Blazer Oversized Alfaiataria Mescla cinza da Cléa Store, fechado em um botão, e calça da mesma cor",
