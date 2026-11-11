@@ -2644,6 +2644,100 @@ const STORE_COUPONS: Coupon[] = [
   },
   {
     offerMode: 'discount-code',
+    slug: 'petz',
+    brand: 'Petz',
+    officialUrl: 'https://www.petz.com.br/',
+    // Loja da Cecília no programa Parceiro Petz (11/11/2026): o link marca a compra para a parceria, mas não aplica o
+    // cupom, que é o foco da página. Não editar o link.
+    offerUrl: 'https://petz.com.br/parceiro/emcasa',
+    brandIcon: 'P',
+    brandLogo: '/images/about/partners/petz-icon.png',
+    brandLogoAlt: 'Marca Petz',
+    brandWatermark: '/images/logos/watermarks/petz.webp',
+    brandColor: '#175EA8',
+    code: 'EMCASA',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Pet shop: ração, petiscos, higiene e acessórios',
+    hubCategory: 'diversos',
+    shortDescription: 'compras no site e no app da Petz',
+    longDescription:
+      'O código da Cecília dá 10% OFF nas compras no site e no app da Petz. Ele não soma com promoção: num produto que já está em oferta, a sacola fica com o desconto maior. Testado em 11/11/2026.',
+    metaTitle: 'Cupom Petz: 10% OFF com o código EMCASA (nov/2026)',
+    metaDescription:
+      'Cupom Petz testado em 11/11/2026: use EMCASA e ganhe 10% OFF no site e no app. Em produto já em promoção, a sacola fica com o desconto maior.',
+    eligibleCategories: 'Produtos do site e do app da Petz; num item já em promoção, vale o desconto maior',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Conforme regras da loja',
+    shipping: 'O frete e o prazo aparecem na sacola depois do CEP; as regras de frete grátis ficam no site da Petz',
+    combinable:
+      'Não soma com promoções: num produto já em oferta, a sacola mantém o desconto maior. O desconto da Assinatura Petz também não soma com cupons',
+    lastVerified: '2026-11-11',
+    testNote:
+      'Aplicamos o EMCASA numa sacola com uma ração Golden de R$ 22,99 e dois itens em promoção da Royal Canin: um sachê por R$ 9,90 (de R$ 10,99) e uma ração Maxi 12 kg por R$ 279,99 (de R$ 349,99). A Golden caiu para R$ 20,69; o sachê ficou com os 10% sobre o preço cheio, R$ 9,89; e a ração Maxi manteve os 20% da promoção.',
+    codeInstructions: [
+      'Copie o código EMCASA no card acima.',
+      'Entre na Petz pelo botão desta página e coloque os produtos na sacola.',
+      'Na sacola, cole o código no campo "Digite seu cupom" e aplique.',
+      'Confira a linha "Total de descontos" no resumo do pedido antes de ir para o pagamento.',
+    ],
+    aboutBrand:
+      'A Petz é uma rede brasileira de pet shops, com lojas físicas, site e app, que vende ração, petiscos, higiene, farmácia, acessórios e itens de casa e jardim. O cupom EMCASA vem do programa Parceiro Petz e é o benefício para quem acompanha o Em Casa com Cecília: dá 10% OFF nas compras no site e no app. A recomendação é conferir o resumo do pedido antes de pagar.',
+    faqs: [
+      {
+        question: 'O cupom EMCASA vale para todos os produtos da Petz?',
+        answer:
+          'O EMCASA dá 10% OFF nas compras no site e no app da Petz. Num produto que já está em promoção, ele não soma: a sacola fica com o desconto maior.',
+      },
+      {
+        question: 'O cupom soma com os produtos em promoção?',
+        answer:
+          'Não. No teste de 11/11/2026, um sachê em promoção por R$ 9,90 (de R$ 10,99) ficou com os 10% sobre o preço cheio, R$ 9,89, e uma ração com 20% OFF manteve o preço da promoção, R$ 279,99. Nos dois casos, a sacola ficou com o desconto maior.',
+      },
+      {
+        question: 'Onde coloco o cupom na Petz?',
+        answer:
+          'Na sacola: cole o EMCASA no campo "Digite seu cupom" e aplique. O desconto aparece em "Total de descontos", no resumo do pedido.',
+      },
+      {
+        question: 'O botão desta página já aplica o cupom?',
+        answer:
+          'Não. O botão abre a loja da Cecília dentro da Petz, mas o desconto só entra quando você coloca o EMCASA no campo de cupom da sacola.',
+      },
+      {
+        question: 'O cupom EMCASA vale no app da Petz?',
+        answer: 'Sim. O cupom do programa Parceiro Petz vale nas compras no app e no site da Petz.',
+      },
+      {
+        question: 'O cupom soma com o desconto da Assinatura Petz?',
+        answer:
+          'Não. A Petz informa que o desconto da assinatura não soma com outros cupons. O EMCASA entra nas compras avulsas.',
+      },
+      {
+        question: 'O cupom EMCASA está funcionando hoje?',
+        answer:
+          'Sim. No teste de 11/11/2026, o EMCASA aplicou os 10% na sacola. A data do teste mais recente aparece no topo desta página.',
+      },
+      {
+        question: 'O que fazer se o cupom EMCASA não funcionar?',
+        answer:
+          'Confira se o código foi colado no campo "Digite seu cupom" da sacola, sem espaços. Se o produto estiver numa promoção maior que 10%, a sacola mantém o preço da promoção. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no resumo do pedido quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'no site e no app',
+      note: 'Em produto já em promoção, vale o desconto maior',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
     slug: 'hostinger',
     brand: 'Hostinger',
     officialUrl: 'https://www.hostinger.com/',

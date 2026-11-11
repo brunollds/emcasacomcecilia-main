@@ -67,6 +67,8 @@ public/images/about/partners/max-titanium.png -text export-ignore
 public/images/about/partners/mollycook.jpg -text export-ignore
 public/images/about/partners/nutren.png -text export-ignore
 public/images/about/partners/okoshi.webp -text export-ignore
+public/images/about/partners/petz-icon.png -text export-ignore
+public/images/about/partners/petz.png -text export-ignore
 public/images/about/partners/polishop.jpg -text export-ignore
 public/images/about/partners/probiotica-icon.png -text export-ignore
 public/images/about/partners/probiotica.png -text export-ignore
@@ -101,6 +103,7 @@ public/images/logos/watermarks/magalu.webp -text export-ignore
 public/images/logos/watermarks/mais-mu.webp -text export-ignore
 public/images/logos/watermarks/max-titanium.webp -text export-ignore
 public/images/logos/watermarks/nutren.webp -text export-ignore
+public/images/logos/watermarks/petz.webp -text export-ignore
 public/images/logos/watermarks/probiotica.webp -text export-ignore
 public/images/logos/watermarks/shein.webp -text export-ignore
 public/images/logos/watermarks/simple-organic.webp -text export-ignore
