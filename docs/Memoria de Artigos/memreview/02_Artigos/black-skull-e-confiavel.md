@@ -222,3 +222,10 @@ FAQ:
 ## Publicação (14/10/2026)
 
 No ar desde 14/10/2026 17:28 UTC: PR #93 (`fd0700d`), deploy `894e4a1e…`, build `01a13b73…`. Smoke ok e IndexNow enviado.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/black-skull/black-skull-e-confiavel-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pote de Creatine da Black Skull sobre base clara, em composição promocional oficial da marca.
+- **Origem:** composição promocional oficial do pote de Creatine sobre base clara; sem nota de reputação nova na arte. Sem geração por IA.
+- **Lote 20 do piloto de capas (sequência 6 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-6-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/black-skull/black-skull-confiavel-capa-discover.webp`) fica no CDN, sem uso como capa.

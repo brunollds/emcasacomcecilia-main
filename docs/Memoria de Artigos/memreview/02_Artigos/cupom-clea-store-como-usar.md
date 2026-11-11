@@ -243,3 +243,10 @@ FAQ:
 - Redação em outra sessão; Job 3 aplicado e revisado pelo Claude em 14/10/2026: "nosso teste" no lugar de "testei", sem o WhatsApp da loja e a campanha da capa citada no texto alternativo (Bruno, 14/10: manter a campanha).
 - JSON `content/reviews/cupom-clea-store-como-usar.json`, id 435.
 - Imagens (prints de tela de 14/10/2026, recortados e com marca-texto nosso): `clea-store-cupom-01-carrinho-sem-cupom.webp`, `clea-store-cupom-03-desconto-aplicado.webp`, `clea-store-cupom-capa.webp`. Refeito para leitura no celular: os dois carrinhos (recortados no item, no cashback e no resumo do pedido).
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/clea-store/cupom-clea-store-como-usar-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo com camiseta preta segura a caixa do kit Classic da Cléa Store, ao lado da chamada Como usar o cupom e do código CSEMCASACOMCECILIA.
+- **Origem:** foto oficial de modelo com camiseta preta e a caixa do kit Classic, título "Como usar o cupom" e o código CSEMCASACOMCECILIA inteiro (correção do Bruno no lugar da Intense vinho, repetida). Sem geração por IA.
+- **Lote 20 do piloto de capas (sequência 6 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-6-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/clea-store/cupom-clea-store-capa-discover.webp`) fica no CDN, sem uso como capa.

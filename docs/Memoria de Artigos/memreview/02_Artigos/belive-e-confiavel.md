@@ -406,3 +406,10 @@ Três pontos mudam a conta. Se você mora fora de SP, MG, RJ, DF, GO e do Sul, o
 ### Nota de transparência
 
 Parceria comissionada: o Em Casa com Cecília tem parceria com a Belive e pode receber comissão pelas compras feitas com o cupom MAUAD. Fontes, lidas em 16/10/2026: site belivebefree.com.br (rodapé, FAQ, regras de frete, trocas, solicitação de atendimento e a página "A Belive"), consulta pública de CNPJ e prints do Reclame Aqui. O teste de carrinho do cupom foi feito na mesma data.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/belive/belive-e-confiavel-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Fatias de pão multigrãos Belive em prato azul, com a embalagem verde ao fundo, em foto oficial.
+- **Origem:** foto oficial do pão Multigrãos no prato azul (não é o Tradicional da Black Friday); o MAUAD não aparece na capa. Sem geração por IA.
+- **Lote 21 do piloto de capas (sequência 6 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-6-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/belive/belive-confiavel-capa-discover.webp`) fica no CDN, sem uso como capa.

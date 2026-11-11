@@ -579,3 +579,10 @@ O passo a passo do cadastro, do site e da lista está em [Como criar a lista de 
 - Por quanto tempo o site da Lejour fica no ar? Até 90 dias depois do casamento para os convidados. O painel do casal continua ativo, inclusive para resgatar o saldo.
 - Em quanto tempo o dinheiro cai na conta? Depende da forma de pagamento do convidado. O cartão é o mais lento nas três: 15 dias na Lejour, 12 dias corridos no iCasei e até 8 dias úteis no Casar.com.
 - Tem cupom da Lejour pelo Em Casa com Cecília? Não. O link é de indicação, e as condições são as mesmas para qualquer casal.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/lejour/lejour-ou-icasei-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Casal em imagem institucional da Lejour, ilustrando o comparativo com iCasei e Casar.com, com apenas o logo da Lejour.
+- **Origem:** foto institucional da Lejour, da mesma fonte exclusiva da capa antiga, só com o logo da Lejour; o título da arte ("Lejour, Icasei ou casar.com?") não muda o título do artigo. Sem geração por IA.
+- **Lote 20 do piloto de capas (sequência 6 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-6-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/lejour/lejour-ou-icasei-capa-discover.webp`) fica no CDN, sem uso como capa.

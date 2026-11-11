@@ -191,3 +191,10 @@ Não. Por exigências sanitárias e respeito às normas de biossegurança de tod
 Cuidar bem do nosso lar passa por valorizar o nosso tempo e usar o orçamento da casa com discernimento. Trocar o estresse de passar roupas e o ciclo vicioso de descartar camisetas desgastadas por peças que duram anos é um alívio tangível para o dia a dia da família.
 
 Aproveite o benefício oficial da nossa parceria, monte seu pedido com calma e desfrute da tranquilidade de ter roupas funcionais trabalhando a favor do seu bem-estar diário!
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/insider/insider-store-e-confiavel-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo veste Tech T-Shirt branca da Insider, em foto oficial da marca.
+- **Origem:** foto oficial da Tech T-Shirt branca, cabeça e barra visíveis; as laterais estendem só colunas vazias do cenário, sem tocar na pessoa. Sem geração por IA.
+- **Lote 21 do piloto de capas (sequência 6 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-6-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/insider/insider-confiavel-hero-oficial.webp`) fica no CDN, sem uso como capa.

@@ -166,3 +166,10 @@ GSC e página de resultados do Google, não vistos. Se a Cecília usou algum dos
 
 ## Releitura
 Em 01/12/2026, preços e tabela de kit e avulsos. No começo de dezembro, prazos, caixa de presente e eventual troca especial de Natal.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/simple-organic/kit-skincare-presente-simple-organic-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Gel de Limpeza Suave e sérum de ácido hialurônico do Duo Glass Skin da Simple Organic, em foto oficial dos produtos.
+- **Origem:** foto oficial do Duo Glass Skin (gel de limpeza suave e sérum de ácido hialurônico); não promete caixa ou embalagem de presente. Sem geração por IA.
+- **Lote 21 do piloto de capas (sequência 6 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-6-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/simple-organic/kit-skincare-presente-simple-organic-capa.webp`) fica no CDN, sem uso como capa.

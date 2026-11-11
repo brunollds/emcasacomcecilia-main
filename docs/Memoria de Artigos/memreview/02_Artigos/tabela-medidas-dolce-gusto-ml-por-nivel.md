@@ -35,3 +35,10 @@ arquivo_canonico: "content/reviews/tabela-medidas-dolce-gusto-ml-por-nivel.json"
   - Nível 7: ~210 ml a 230 ml (Grande / Chococino completo)
   - Função XL: ~300 ml (Caneca térmica grande)
 - Bebidas em 2 etapas: somar os dois níveis indicados nas respectivas cápsulas de leite e café.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/dolcegusto/tabela-medidas-dolce-gusto-ml-por-nivel-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Detalhe do painel da Dolce Gusto Genio S Touch, com barras acesas e um dedo ajustando o nível.
+- **Origem:** frame próprio do painel da Genio S Touch; a arte não desenha equivalência universal de ml. Sem geração por IA.
+- **Lote 19 do piloto de capas (sequência 6 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-6-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/dolcegusto/tabela-medidas-dolce-gusto-ml-por-nivel-capa-discover.webp`) fica no CDN, sem uso como capa.
