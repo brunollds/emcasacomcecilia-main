@@ -286,7 +286,8 @@ assert.equal(getCouponMetaTitle({ metaTitle: 'Cupom X' }, Date.parse('2026-12-28
 for (const coupon of COUPONS) {
   assert.doesNotMatch(coupon.metaTitle, /\([a-z]{3}\/\d{4}\)$/, `${coupon.slug}: mês fixo no título; use metaTitleMonth`);
   // A data do teste no carrinho fica em "Como testamos", não no snippet.
-  assert.doesNotMatch(coupon.metaDescription, /testad[oa] em \d/, `${coupon.slug}: data do teste na metaDescription`);
+  assert.doesNotMatch(coupon.metaDescription, /testad[oa] em \d/i, `${coupon.slug}: data do teste na metaDescription`);
+  assert.doesNotMatch(coupon.longDescription, /testad[oa] em \d/i, `${coupon.slug}: data do teste no texto do topo`);
 }
 
 // Códigos com prazo: horário de Brasília, prazos que não se cruzam, código diferente do de sempre e teste antes do
