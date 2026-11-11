@@ -206,3 +206,10 @@ Já resolvido, sem pergunta: os prints do teste do cupom são os do artigo de co
 - Redação em outra sessão (14/10); Job 3 aplicado e revisado pelo Claude em 15/10/2026. Texto aprovado pelo Bruno em 15/10/2026.
 - JSON `content/reviews/black-friday-dr-peanut.json`, id 438, conferido frase a frase contra o texto aprovado.
 - Capa: print da home da loja em 14/10/2026, sem pop-ups (`black-friday-dr-peanut-home.webp`), no CDN e verificada em 15/10/2026. Imagens do corpo reaproveitadas dos artigos de onboarding: `dr-peanut-cupom-03-desconto-aplicado.webp`, `dr-peanut-cupom-01-carrinho-sem-cupom.webp`.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/dr-peanut/black-friday-dr-peanut-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Display de Doctor Bar Alfajor da Dr. Peanut, em recorte da fotografia usada na capa anterior do próprio artigo.
+- **Origem:** display do Doctor Bar Alfajor recortado da foto da capa anterior do próprio artigo, sem a faixa antiga. Sem geração por IA.
+- **Lote 16 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/dr-peanut/black-friday-dr-peanut-capa-discover-v2.webp`) fica no CDN, sem uso como capa.

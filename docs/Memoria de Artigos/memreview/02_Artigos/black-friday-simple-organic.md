@@ -245,3 +245,10 @@ JSON `content/reviews/black-friday-simple-organic.json`, id 783, no manifesto e 
 - No ar em 03/11/2026: PR #539, release `34126d7d` (build 01a1a36b), id 783, só PT. Smoke com 7 imagens no CDN e a foto com link de produto; sitemap, llms.txt e IndexNow; captura 41727165405 verde.
 - Ajuste do Bruno depois do deploy (03/11): saíram a letra miúda da campanha e a política de kit e duo ("a loja pode fechar essa porta"), o uso por pessoa preso ao e-mail e o item do "Passe se" sobre o cupom não somar. O "Se apareceu, pague" virou "Se apareceu, não perca a oportunidade e compre". A resposta rápida e o FAQ dizem só o que o teste mostrou.
 - Pendente: reler o Reclame Aqui e os preços na revisão mensal de dezembro de 2026; tirar a Clean Friday depois de 30/11.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/simple-organic/black-friday-simple-organic-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Modelo com frasco do Ultra Sérum Retinol da Simple Organic ao lado do rosto, em foto promocional oficial.
+- **Origem:** foto oficial de modelo com o sérum de retinol da Simple Organic, sem antes e depois nem promessa de resultado. Sem geração por IA.
+- **Lote 17 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/simple-organic/black-friday-simple-organic-capa.webp`) fica no CDN, sem uso como capa.

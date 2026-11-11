@@ -196,3 +196,10 @@ Já resolvido, sem pergunta: o cupom soma com o desconto de até 5% do Pix e do 
 - Redação em outra sessão (14/10); Job 3 aplicado e revisado pelo Claude em 15/10/2026. Texto aprovado pelo Bruno em 15/10/2026.
 - JSON `content/reviews/black-friday-max-titanium.json`, id 437, conferido frase a frase contra o texto aprovado.
 - Capa: print da home da loja em 14/10/2026, sem pop-ups (`black-friday-max-titanium-home.webp`), no CDN e verificada em 15/10/2026. Imagens do corpo reaproveitadas dos artigos de onboarding: `max-titanium-cupom-03-desconto-aplicado.webp`.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/max-titanium/black-friday-max-titanium-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Embalagem de Whey Blend sabor morango da Max Titanium em foto oficial da marca.
+- **Origem:** foto oficial do Whey Blend morango, sem preço nem benefício na arte. Sem geração por IA.
+- **Lote 17 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/max-titanium/black-friday-max-titanium-capa-discover.webp`) fica no CDN, sem uso como capa.

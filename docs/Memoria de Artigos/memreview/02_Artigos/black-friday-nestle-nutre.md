@@ -150,3 +150,10 @@ Senior" e "Black Friday Nutren".
 - Assinatura com o CECI: neutro (decisão do Bruno de 09/10). O texto compara os dois caminhos e não diz se eles somam; a frase da página `/assinaturas` sobre cupons fica fora.
 - Fora do texto: cupons da própria loja (boas-vindas e o relâmpago do 10.10), Nutren 2.0 e 1.5 (nutrição enteral e oral), Isosource, Fortify, Pré-Ciclo, Mov Flex, o combo Premium Baunilha (sem o tamanho da lata no nome), o brinde que aparece no carrinho e o e-mail do SAC.
 - Escopo jurídico: só nutrição adulta; as exceções do CECI sempre com "fórmulas infantis de 0 a 12 meses".
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/nutren/black-friday-nestle-nutre-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Lata de Nutren Active sabor chocolate, de 400 gramas, em foto oficial da linha adulta.
+- **Origem:** foto oficial do Nutren Active chocolate, que ilustra a linha; a cotação do artigo não vale para esse rótulo. Sem geração por IA.
+- **Lote 17 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/nutren/black-friday-nestle-nutre-capa-discover.webp`) fica no CDN, sem uso como capa.

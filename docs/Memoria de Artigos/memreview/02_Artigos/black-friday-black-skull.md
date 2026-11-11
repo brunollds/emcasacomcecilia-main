@@ -209,3 +209,10 @@ Decidido no briefing, sem pergunta:
 - Redação em outra sessão (14/10); Job 3 aplicado e revisado pelo Claude em 15/10/2026. Texto aprovado pelo Bruno em 15/10/2026.
 - JSON `content/reviews/black-friday-black-skull.json`, id 436, conferido frase a frase contra o texto aprovado.
 - Capa: print da home da loja em 14/10/2026, sem pop-ups (`black-friday-black-skull-home-whey.webp`), no CDN e verificada em 15/10/2026. Imagens do corpo reaproveitadas dos artigos de onboarding: `black-skull-cupom-03-desconto-aplicado.webp`.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/black-skull/black-friday-black-skull-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Pote do pré-treino Bone Crusher da Black Skull em pedestal claro, em foto oficial da marca.
+- **Origem:** foto oficial do pré-treino Bone Crusher em pedestal claro, sem preço nem benefício na arte. Sem geração por IA.
+- **Lote 16 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/black-skull/black-friday-black-skull-capa-discover.webp`) fica no CDN, sem uso como capa.

@@ -307,3 +307,10 @@ O Bruno liberou os vídeos da Cecília com os produtos (05/11). `youtubeUrl`: ht
 ## Publicado
 
 No ar em 05/11/2026, release `040b1515` (build `01a1ac5f`), com o vídeo da Cecília e o banner da Black da HolyFoods. `covers:check` 4/4 na produção, sitemap e llms.txt conferidos, IndexNow enviado.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/holyfoods/black-friday-holyfoods-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Risoto de funghi servido em um prato, com a embalagem HolyFoods ao fundo, em foto oficial da marca.
+- **Origem:** foto oficial do risoto funghi servido ao lado da caixa, sem degustação nossa nem benefício nutricional. Sem geração por IA.
+- **Lote 16 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/holyfoods/black-friday-holyfoods-capa.webp`) fica no CDN, sem uso como capa.

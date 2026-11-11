@@ -211,3 +211,10 @@ As perguntas acima foram respondidas em 20/10/2026. O que vale é esta seção: 
 11. **Decisão do Bruno:** o guia sai já, sem esperar o anúncio da loja: como se preparar, o cupom, o que soma e o frete, sem prometer desconto da Mais Mu. É atualizado quando ela anunciar.
 12. **Decisão do Bruno:** o slug entra no fim de `articleSlugs` do evento black-friday-2026 em `content/home-events.json`. Aparece só em `/black-friday`, e a faixa da home não muda. O JSON do artigo vai no mesmo PR, porque o build quebra com slug não publicado.
 13. Preços citados (creatina refil 500 g a R$ 79,90, de R$ 119; isolado refil 900 g a R$ 520) são os de 20/10/2026 e são relidos no dia da redação.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/mais-mu/black-friday-mais-mu-capa-v2.webp` (`imageFit: contain`).
+- **Alt (PT):** Dois potes de whey isolado Mais Mu, nos sabores baunilha e sem sabor, em foto oficial da marca.
+- **Origem:** foto oficial de dois potes do isolado de 450 g, outra apresentação; a cotação de 900 g e baunilha do artigo não vale para esses rótulos. Sem geração por IA.
+- **Lote 17 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/mais-mu/black-friday-mais-mu-capa-faixa.webp`) fica no CDN, sem uso como capa.

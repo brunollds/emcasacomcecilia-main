@@ -42419,6 +42419,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/black-skull/black-friday-black-skull-capa-v2.webp",
+      "local_url": "/images/reviews/black-skull/black-friday-black-skull-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 65998,
+      "sha256": "9156782280776c59f066859962963b05aaedc0bc383906a7c394a0032a154724",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-black-skull-capa-v2.webp",
+      "storage_filename": "black-friday-black-skull-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-black-skull.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-black-skull.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/black-friday-black-skull-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9156782280776c59f066859962963b05aaedc0bc383906a7c394a0032a154724/black-friday-black-skull-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9156782280776c59f066859962963b05aaedc0bc383906a7c394a0032a154724/black-friday-black-skull-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:23:28.301Z",
+      "verification_etag_or_digest": "9156782280776c59f066859962963b05aaedc0bc383906a7c394a0032a154724",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/black-skull/black-friday-black-skull-home-whey.webp",
       "local_url": "/images/reviews/black-skull/black-friday-black-skull-home-whey.webp",
       "media_kind": "image",
@@ -52452,6 +52490,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/black-friday-damie-capa-v2.webp",
+      "local_url": "/images/reviews/damie/black-friday-damie-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 92308,
+      "sha256": "baf0d9a61b3491225a5a566b622ccabf8ae5512ce1b446ec06a62eba80a27a0a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-damie-capa-v2.webp",
+      "storage_filename": "black-friday-damie-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-damie.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-damie.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/damie/black-friday-damie-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/baf0d9a61b3491225a5a566b622ccabf8ae5512ce1b446ec06a62eba80a27a0a/black-friday-damie-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/baf0d9a61b3491225a5a566b622ccabf8ae5512ce1b446ec06a62eba80a27a0a/black-friday-damie-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:23:28.302Z",
+      "verification_etag_or_digest": "baf0d9a61b3491225a5a566b622ccabf8ae5512ce1b446ec06a62eba80a27a0a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/black-friday-damie-cecilia-poltrona-reclinavel.webp",
       "local_url": "/images/reviews/damie/black-friday-damie-cecilia-poltrona-reclinavel.webp",
       "media_kind": "image",
@@ -53646,6 +53722,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-09T18:05:33.391Z",
       "verification_etag_or_digest": "dcedb16a7dbfece17d35dbd0fe4f843f825c11946bc92b0c7d4b8f2be8ff0fa2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltrona-do-papai-black-friday-capa-v2.webp",
+      "local_url": "/images/reviews/damie/poltrona-do-papai-black-friday-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 91336,
+      "sha256": "5091d954d6e565de7041dad0cdca562140e86238b01ff6b195ef7ad17f57692e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-do-papai-black-friday-capa-v2.webp",
+      "storage_filename": "poltrona-do-papai-black-friday-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-do-papai-black-friday.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-do-papai-black-friday.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltrona-do-papai-black-friday-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5091d954d6e565de7041dad0cdca562140e86238b01ff6b195ef7ad17f57692e/poltrona-do-papai-black-friday-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5091d954d6e565de7041dad0cdca562140e86238b01ff6b195ef7ad17f57692e/poltrona-do-papai-black-friday-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:23:28.302Z",
+      "verification_etag_or_digest": "5091d954d6e565de7041dad0cdca562140e86238b01ff6b195ef7ad17f57692e",
       "verification_status": "verified"
     },
     {
@@ -55760,6 +55874,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-03T19:34:43.532Z",
       "verification_etag_or_digest": "f09bc6c3afc1856453cdaa39f1d61349064e71a27affaad86929ec04f9ad02f3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/black-friday-dolce-gusto-capa-v2.webp",
+      "local_url": "/images/reviews/dolcegusto/black-friday-dolce-gusto-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86406,
+      "sha256": "d795dd3543166e29c1817b746964cc83e22dc4c816155859a109894486223a2a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-dolce-gusto-capa-v2.webp",
+      "storage_filename": "black-friday-dolce-gusto-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-dolce-gusto.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-dolce-gusto.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/black-friday-dolce-gusto-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d795dd3543166e29c1817b746964cc83e22dc4c816155859a109894486223a2a/black-friday-dolce-gusto-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d795dd3543166e29c1817b746964cc83e22dc4c816155859a109894486223a2a/black-friday-dolce-gusto-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:23:28.302Z",
+      "verification_etag_or_digest": "d795dd3543166e29c1817b746964cc83e22dc4c816155859a109894486223a2a",
       "verification_status": "verified"
     },
     {
@@ -60233,6 +60385,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dr-peanut/black-friday-dr-peanut-capa-v2.webp",
+      "local_url": "/images/reviews/dr-peanut/black-friday-dr-peanut-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 111414,
+      "sha256": "660cfddca1a6250326b50186a0cf5015c1ca1280144aabde2e583844d13a5005",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-dr-peanut-capa-v2.webp",
+      "storage_filename": "black-friday-dr-peanut-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-dr-peanut.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-dr-peanut.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/dr-peanut/black-friday-dr-peanut-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/660cfddca1a6250326b50186a0cf5015c1ca1280144aabde2e583844d13a5005/black-friday-dr-peanut-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/660cfddca1a6250326b50186a0cf5015c1ca1280144aabde2e583844d13a5005/black-friday-dr-peanut-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:23:28.302Z",
+      "verification_etag_or_digest": "660cfddca1a6250326b50186a0cf5015c1ca1280144aabde2e583844d13a5005",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dr-peanut/black-friday-dr-peanut-home.webp",
       "local_url": "/images/reviews/dr-peanut/black-friday-dr-peanut-home.webp",
       "media_kind": "image",
@@ -62084,6 +62274,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/holyfoods/black-friday-holyfoods-capa-v2.webp",
+      "local_url": "/images/reviews/holyfoods/black-friday-holyfoods-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 169654,
+      "sha256": "492c21be6a31b83bdbedeb30457230ba09f90db923f2f43a5ec89a9bf4856d5e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-holyfoods-capa-v2.webp",
+      "storage_filename": "black-friday-holyfoods-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-holyfoods.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-holyfoods.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/holyfoods/black-friday-holyfoods-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/492c21be6a31b83bdbedeb30457230ba09f90db923f2f43a5ec89a9bf4856d5e/black-friday-holyfoods-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/492c21be6a31b83bdbedeb30457230ba09f90db923f2f43a5ec89a9bf4856d5e/black-friday-holyfoods-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:23:28.302Z",
+      "verification_etag_or_digest": "492c21be6a31b83bdbedeb30457230ba09f90db923f2f43a5ec89a9bf4856d5e",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/holyfoods/black-friday-holyfoods-capa.webp",
       "local_url": "/images/reviews/holyfoods/black-friday-holyfoods-capa.webp",
       "media_kind": "image",
@@ -62629,6 +62857,116 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T18:58:08.587Z",
       "verification_etag_or_digest": "92d8fbcc0a92a029afe348c542d102b84b3feea3ef5304b9fcad813d3e46500c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/black-friday-hostinger-capa-v2.webp",
+      "local_url": "/images/reviews/hostinger/black-friday-hostinger-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 122174,
+      "sha256": "6adf980af2f297df7aad27011735a5af76b2e0a5cbec9c87b3348ae067fbbc06",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-hostinger-capa-v2.webp",
+      "storage_filename": "black-friday-hostinger-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-hostinger-ofertas.json",
+        "content/reviews/black-friday-hostinger-offerte.json",
+        "content/reviews/black-friday-hostinger-offres.json",
+        "content/reviews/black-friday-hostinger.json",
+        "content/reviews/hostinger-black-friday-angebote.json",
+        "content/reviews/hostinger-black-friday-ja.json",
+        "content/reviews/hostinger-black-friday-ko.json",
+        "content/reviews/hostinger-black-friday-zh-hans.json",
+        "content/reviews/hostinger-black-friday-zh-hant.json",
+        "content/reviews/hostinger-black-friday.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-hostinger-ofertas.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/black-friday-hostinger-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-hostinger-offerte.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/black-friday-hostinger-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-hostinger-offres.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/black-friday-hostinger-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-hostinger.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/black-friday-hostinger-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-black-friday-angebote.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/black-friday-hostinger-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-black-friday-ja.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/black-friday-hostinger-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-black-friday-ko.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/black-friday-hostinger-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-black-friday-zh-hans.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/black-friday-hostinger-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-black-friday-zh-hant.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/black-friday-hostinger-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-black-friday.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/black-friday-hostinger-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6adf980af2f297df7aad27011735a5af76b2e0a5cbec9c87b3348ae067fbbc06/black-friday-hostinger-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6adf980af2f297df7aad27011735a5af76b2e0a5cbec9c87b3348ae067fbbc06/black-friday-hostinger-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:23:28.302Z",
+      "verification_etag_or_digest": "6adf980af2f297df7aad27011735a5af76b2e0a5cbec9c87b3348ae067fbbc06",
       "verification_status": "verified"
     },
     {
@@ -72649,6 +72987,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/black-friday-insider-capa-v2.webp",
+      "local_url": "/images/reviews/insider/black-friday-insider-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 67710,
+      "sha256": "f770b1feb9b5db4e427e2a607a1a4a2ed87caed02b916feb5ad50c1466c1b9a4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-insider-capa-v2.webp",
+      "storage_filename": "black-friday-insider-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-insider.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-insider.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/insider/black-friday-insider-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f770b1feb9b5db4e427e2a607a1a4a2ed87caed02b916feb5ad50c1466c1b9a4/black-friday-insider-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f770b1feb9b5db4e427e2a607a1a4a2ed87caed02b916feb5ad50c1466c1b9a4/black-friday-insider-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:23:28.302Z",
+      "verification_etag_or_digest": "f770b1feb9b5db4e427e2a607a1a4a2ed87caed02b916feb5ad50c1466c1b9a4",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
       "local_url": "/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
       "media_kind": "image",
@@ -80543,6 +80919,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/iwannasleep/black-friday-i-wanna-sleep-capa-v2.webp",
+      "local_url": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 56284,
+      "sha256": "4d0a2af4a065ad5e9135237102f4b9b6c171921bc28ec26632f2e2d24e1215e5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-i-wanna-sleep-capa-v2.webp",
+      "storage_filename": "black-friday-i-wanna-sleep-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-i-wanna-sleep.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-i-wanna-sleep.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4d0a2af4a065ad5e9135237102f4b9b6c171921bc28ec26632f2e2d24e1215e5/black-friday-i-wanna-sleep-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4d0a2af4a065ad5e9135237102f4b9b6c171921bc28ec26632f2e2d24e1215e5/black-friday-i-wanna-sleep-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:23:28.302Z",
+      "verification_etag_or_digest": "4d0a2af4a065ad5e9135237102f4b9b6c171921bc28ec26632f2e2d24e1215e5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
       "local_url": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
       "media_kind": "image",
@@ -84038,6 +84452,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T06:54:58.902Z",
       "verification_etag_or_digest": "420d19445ae3d94d4878fb7fad82f3ddb703721831b41d82c541ee918931f3c1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lejour/black-friday-lejour-capa-v2.webp",
+      "local_url": "/images/reviews/lejour/black-friday-lejour-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 96976,
+      "sha256": "40751653d5c4cadf8bba9b62febc4ca1c338f0eb45810330b550103f71c27e48",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-lejour-capa-v2.webp",
+      "storage_filename": "black-friday-lejour-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-lejour.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-lejour.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/lejour/black-friday-lejour-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/40751653d5c4cadf8bba9b62febc4ca1c338f0eb45810330b550103f71c27e48/black-friday-lejour-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/40751653d5c4cadf8bba9b62febc4ca1c338f0eb45810330b550103f71c27e48/black-friday-lejour-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:23:28.302Z",
+      "verification_etag_or_digest": "40751653d5c4cadf8bba9b62febc4ca1c338f0eb45810330b550103f71c27e48",
       "verification_status": "verified"
     },
     {
@@ -88725,6 +89177,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/magalu/black-friday-magalu-capa-v2.webp",
+      "local_url": "/images/reviews/magalu/black-friday-magalu-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 66666,
+      "sha256": "3e14665725e70b928fd4ee466e742dde98fb978d96169423a27edaf5fe2f686b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-magalu-capa-v2.webp",
+      "storage_filename": "black-friday-magalu-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-magalu.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-magalu.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/magalu/black-friday-magalu-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3e14665725e70b928fd4ee466e742dde98fb978d96169423a27edaf5fe2f686b/black-friday-magalu-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3e14665725e70b928fd4ee466e742dde98fb978d96169423a27edaf5fe2f686b/black-friday-magalu-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:23:28.302Z",
+      "verification_etag_or_digest": "3e14665725e70b928fd4ee466e742dde98fb978d96169423a27edaf5fe2f686b",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/magalu/black-friday-magalu-lu.webp",
       "local_url": "/images/reviews/magalu/black-friday-magalu-lu.webp",
       "media_kind": "image",
@@ -90536,6 +91026,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-03T19:34:43.533Z",
       "verification_etag_or_digest": "4992e19372691d577dcc7b838cbb99ce1d0e3980bfac354dab6d115f9a2ab3de",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/black-friday-mais-mu-capa-v2.webp",
+      "local_url": "/images/reviews/mais-mu/black-friday-mais-mu-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 74090,
+      "sha256": "b248eb47efb87b43ef3807b3b3666a2114769807f237574adc415a1db2a38e52",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-mais-mu-capa-v2.webp",
+      "storage_filename": "black-friday-mais-mu-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-mais-mu.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-mais-mu.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/mais-mu/black-friday-mais-mu-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b248eb47efb87b43ef3807b3b3666a2114769807f237574adc415a1db2a38e52/black-friday-mais-mu-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b248eb47efb87b43ef3807b3b3666a2114769807f237574adc415a1db2a38e52/black-friday-mais-mu-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:23:28.302Z",
+      "verification_etag_or_digest": "b248eb47efb87b43ef3807b3b3666a2114769807f237574adc415a1db2a38e52",
       "verification_status": "verified"
     },
     {
@@ -92422,6 +92950,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T17:08:30.863Z",
       "verification_etag_or_digest": "ae2d2778774c2e00df9cb1136c8eb8b138b30ecbf667657704e09b3ad57706d8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/black-friday-max-titanium-capa-v2.webp",
+      "local_url": "/images/reviews/max-titanium/black-friday-max-titanium-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57706,
+      "sha256": "751cf6ee7a8a4254351c34a1fa1e1fe7b16fd8e11fdda48a31d2fc6125471448",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-max-titanium-capa-v2.webp",
+      "storage_filename": "black-friday-max-titanium-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-max-titanium.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-max-titanium.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/black-friday-max-titanium-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/751cf6ee7a8a4254351c34a1fa1e1fe7b16fd8e11fdda48a31d2fc6125471448/black-friday-max-titanium-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/751cf6ee7a8a4254351c34a1fa1e1fe7b16fd8e11fdda48a31d2fc6125471448/black-friday-max-titanium-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:23:28.302Z",
+      "verification_etag_or_digest": "751cf6ee7a8a4254351c34a1fa1e1fe7b16fd8e11fdda48a31d2fc6125471448",
       "verification_status": "verified"
     },
     {
@@ -95138,6 +95704,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T17:08:30.863Z",
       "verification_etag_or_digest": "5b373517071d287a426cb31af6b2753d0a3d9f13aa9c7c9b157eeb3a10a63a95",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/black-friday-nestle-nutre-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/black-friday-nestle-nutre-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 67486,
+      "sha256": "e32d37d9c136caad4c882d7eec0e01a76c26eb340dc957e6b445a527413f6a8f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-nestle-nutre-capa-v2.webp",
+      "storage_filename": "black-friday-nestle-nutre-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-nestle-nutre.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-nestle-nutre.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/nutren/black-friday-nestle-nutre-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e32d37d9c136caad4c882d7eec0e01a76c26eb340dc957e6b445a527413f6a8f/black-friday-nestle-nutre-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e32d37d9c136caad4c882d7eec0e01a76c26eb340dc957e6b445a527413f6a8f/black-friday-nestle-nutre-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:23:28.302Z",
+      "verification_etag_or_digest": "e32d37d9c136caad4c882d7eec0e01a76c26eb340dc957e6b445a527413f6a8f",
       "verification_status": "verified"
     },
     {
@@ -99411,6 +100015,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T17:08:30.863Z",
       "verification_etag_or_digest": "71e1585632e1e257112ec4287aa828cd64a50a4a37bddae88325deed2071ddee",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/black-friday-probiotica-capa-v2.webp",
+      "local_url": "/images/reviews/probiotica/black-friday-probiotica-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 67814,
+      "sha256": "b60b0b72b143369e1f14da6b9db264b3c388e68806560e4516b647f36883cc35",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-probiotica-capa-v2.webp",
+      "storage_filename": "black-friday-probiotica-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-probiotica.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-probiotica.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/probiotica/black-friday-probiotica-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b60b0b72b143369e1f14da6b9db264b3c388e68806560e4516b647f36883cc35/black-friday-probiotica-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b60b0b72b143369e1f14da6b9db264b3c388e68806560e4516b647f36883cc35/black-friday-probiotica-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:23:28.302Z",
+      "verification_etag_or_digest": "b60b0b72b143369e1f14da6b9db264b3c388e68806560e4516b647f36883cc35",
       "verification_status": "verified"
     },
     {
@@ -109722,6 +110364,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/simple-organic/black-friday-simple-organic-capa-v2.webp",
+      "local_url": "/images/reviews/simple-organic/black-friday-simple-organic-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 77326,
+      "sha256": "147e6f42d7d8c058289ec37d2d2a632589768cd45650c6ccb4e5d35305b7df83",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-simple-organic-capa-v2.webp",
+      "storage_filename": "black-friday-simple-organic-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-simple-organic.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-simple-organic.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/black-friday-simple-organic-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/147e6f42d7d8c058289ec37d2d2a632589768cd45650c6ccb4e5d35305b7df83/black-friday-simple-organic-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/147e6f42d7d8c058289ec37d2d2a632589768cd45650c6ccb4e5d35305b7df83/black-friday-simple-organic-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:23:28.302Z",
+      "verification_etag_or_digest": "147e6f42d7d8c058289ec37d2d2a632589768cd45650c6ccb4e5d35305b7df83",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/simple-organic/black-friday-simple-organic-capa.webp",
       "local_url": "/images/reviews/simple-organic/black-friday-simple-organic-capa.webp",
       "media_kind": "image",
@@ -112433,6 +113113,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-05T12:40:37.266Z",
       "verification_etag_or_digest": "ffbee7c00bf5838c9df03c0e12ef241dc137d464d7f663012e0e101feced6547",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/brindes-skelt-black-friday-cupom-capa-v2.webp",
+      "local_url": "/images/reviews/skelt/brindes-skelt-black-friday-cupom-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 72236,
+      "sha256": "8503cdd8eb09007adc41afdb38ffba6314e25aacc2be2a55e001f2048f0435c7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "brindes-skelt-black-friday-cupom-capa-v2.webp",
+      "storage_filename": "brindes-skelt-black-friday-cupom-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/brindes-skelt-black-friday-cupom.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/brindes-skelt-black-friday-cupom.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/skelt/brindes-skelt-black-friday-cupom-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/8503cdd8eb09007adc41afdb38ffba6314e25aacc2be2a55e001f2048f0435c7/brindes-skelt-black-friday-cupom-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8503cdd8eb09007adc41afdb38ffba6314e25aacc2be2a55e001f2048f0435c7/brindes-skelt-black-friday-cupom-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:23:28.302Z",
+      "verification_etag_or_digest": "8503cdd8eb09007adc41afdb38ffba6314e25aacc2be2a55e001f2048f0435c7",
       "verification_status": "verified"
     },
     {
@@ -115512,6 +116230,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-26T22:20:24.826Z",
       "verification_etag_or_digest": "622804744ec8400a76b84aed009d380ab90a07cfc587bae9d1d04e2034767ac1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/black-friday-toda-up-capa-v2.webp",
+      "local_url": "/images/reviews/toda-up/black-friday-toda-up-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 119024,
+      "sha256": "330f4a7b0495dc5f10f242c42573f4feaf1accbceb3e4a36acde86b90b3c9b54",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-toda-up-capa-v2.webp",
+      "storage_filename": "black-friday-toda-up-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-toda-up.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/black-friday-toda-up-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/330f4a7b0495dc5f10f242c42573f4feaf1accbceb3e4a36acde86b90b3c9b54/black-friday-toda-up-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/330f4a7b0495dc5f10f242c42573f4feaf1accbceb3e4a36acde86b90b3c9b54/black-friday-toda-up-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:23:28.302Z",
+      "verification_etag_or_digest": "330f4a7b0495dc5f10f242c42573f4feaf1accbceb3e4a36acde86b90b3c9b54",
       "verification_status": "verified"
     },
     {
@@ -119576,6 +120332,116 @@
       "uploaded_at": null,
       "verified_at": "2026-11-03T19:34:43.533Z",
       "verification_etag_or_digest": "51f615a711b7d3153a43ce463e3bf215cf06224b29cc7f4494475059087d6f5e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/black-friday-yesstyle-capa-v2.webp",
+      "local_url": "/images/reviews/yesstyle/black-friday-yesstyle-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 67022,
+      "sha256": "4a8d2ec16e71f6869895f42998a5334905fe9b54925a3ee4f047d4708735945f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-yesstyle-capa-v2.webp",
+      "storage_filename": "black-friday-yesstyle-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-yesstyle-date-e-coupon.json",
+        "content/reviews/black-friday-yesstyle-dates-et-coupons.json",
+        "content/reviews/black-friday-yesstyle-fechas-cupones.json",
+        "content/reviews/black-friday-yesstyle.json",
+        "content/reviews/yesstyle-black-friday-dates-coupons.json",
+        "content/reviews/yesstyle-black-friday-ja.json",
+        "content/reviews/yesstyle-black-friday-ko.json",
+        "content/reviews/yesstyle-black-friday-termine-gutscheine.json",
+        "content/reviews/yesstyle-black-friday-zh-hans.json",
+        "content/reviews/yesstyle-black-friday-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-yesstyle-date-e-coupon.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-yesstyle-dates-et-coupons.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-yesstyle-fechas-cupones.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-yesstyle.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-black-friday-dates-coupons.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-black-friday-ja.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-black-friday-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-black-friday-termine-gutscheine.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-black-friday-zh-hans.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-black-friday-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4a8d2ec16e71f6869895f42998a5334905fe9b54925a3ee4f047d4708735945f/black-friday-yesstyle-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4a8d2ec16e71f6869895f42998a5334905fe9b54925a3ee4f047d4708735945f/black-friday-yesstyle-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:23:28.302Z",
+      "verification_etag_or_digest": "4a8d2ec16e71f6869895f42998a5334905fe9b54925a3ee4f047d4708735945f",
       "verification_status": "verified"
     },
     {
