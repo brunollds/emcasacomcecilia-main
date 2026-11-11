@@ -258,3 +258,10 @@ Pedido do Bruno de 12/10/2026; folha de contato aprovada por ele em 13/10/2026. 
 - "Cápsulas: Original, NEO e o adaptador": carrossel com duas imagens já no site, `dolce-gusto-original-e-neo-oficial.webp` e `adaptador-neo-start-encaixe.webp`.
 - "O que a gente já usou aqui em casa": carrossel com `mini-me-2-0-bruno-video-1.webp` (já no site) e `dolce-gusto-neo-cecilia.webp`, recorte da miniatura do Short `_EyAiTwjGTU` (o Bruno preferiu a miniatura a um frame).
 - Tabela virada (máquinas nas colunas, as três medidas numa linha); o preço da Mini Me Cinza Chumbo e a ressalva da NEO foram para a frase abaixo da tabela.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/dolcegusto/dolce-gusto-maquinas-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Cecília segura uma Dolce Gusto Genio S Touch prata na cozinha, ao lado da pergunta Qual máquina escolher? e do subtítulo Original ou NEO?.
+- **Origem:** foto própria da Cecília com a Genio S Touch, reaproveitada do próprio artigo (era a capa anterior); não representa teste das outras máquinas. Sem geração por IA.
+- **Lote 30 do piloto de capas (sequência 9 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-9-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo, no padrão vigente das capas (não é exceção nova ao Job 6). A capa anterior (`/images/reviews/dolcegusto/genio-s-touch-cecilia-hero.webp`) fica no CDN, sem uso como capa.

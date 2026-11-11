@@ -193,3 +193,10 @@ O título volta a incluir o tamanho ("qual tamanho e qual kit compensam"), como 
 ## Redação (28/10/2026)
 - No ar em 28/10/2026 18:56 UTC (PR #331, links de produto no #333, release `c3af3e1`, id 626). Preços relidos no Chrome em 28/10, sem mudança.
 - O `black-friday-nestle-nutre` ganhou o link para este texto. Frete e regras da assinatura vêm do dossiê de 10/10 e não foram relidos.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/nutren/nutren-senior-kit-combo-ou-assinatura-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Lata de Nutren Senior Sem Sabor de 370 g, em foto oficial, ao lado da pergunta Nutren Senior qual compensa? e das opções lata, kit ou assinatura.
+- **Origem:** foto oficial de uma lata Sem Sabor de 370 g, sem duplicação para simular kit. Sem geração por IA.
+- **Lote 30 do piloto de capas (sequência 9 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-9-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo, no padrão vigente das capas (não é exceção nova ao Job 6). A capa anterior (`/images/reviews/nutren/nutren-senior-kit-combo-ou-assinatura-capa.webp`) fica no CDN, sem uso como capa.

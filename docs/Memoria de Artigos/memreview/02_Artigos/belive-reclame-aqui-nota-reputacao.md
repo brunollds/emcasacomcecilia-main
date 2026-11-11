@@ -365,3 +365,10 @@ O Em Casa com Cecília tem parceria com a Belive e pode receber comissão pelas 
 ### Nota de transparência
 
 Este artigo é de parceria comissionada: o Em Casa com Cecília tem parceria com a Belive e pode receber comissão pelas compras feitas com o cupom MAUAD. Os números são do perfil público Belive Be Free no Reclame Aqui, consultados em 16/10/2026, nas abas de 6 meses, 12 meses e 2025. A parceria não altera esses números. As regras de atendimento, devolução e defeito são do site oficial belivebefree.com.br, lidas em 16/10/2026.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/belive/belive-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Embalagem do Brioche de Coco da Belive, em imagem oficial do produto.
+- **Origem:** imagem oficial do Brioche de Coco, com a advertência nutricional original preservada. O MAUAD não aparece na arte nem no alt. Sem geração por IA.
+- **Lote 28 do piloto de capas (sequência 9 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-9-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo, no padrão vigente das capas (não é exceção nova ao Job 6). A capa anterior (`/images/reviews/belive/belive-reclame-aqui-capa-discover.webp`) fica no CDN, sem uso como capa.

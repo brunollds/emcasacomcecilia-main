@@ -105,3 +105,10 @@ produto da tabela, pelo navegador.
 - **Regras da campanha e datas:** `/images/reviews/petz/black-friday-petz-banner-campanha.webp` (contain, 2.2472). Alt: Topo da página da Black Friday da Petz, com o título Petz friday, uma foto de campanha e o selo de descontos. Legenda: Topo da página da campanha no site da Petz. Print da própria loja.
 - **O que aconteceu na sacola com o EMCASA:** `/images/reviews/petz/black-friday-petz-sache-royal-canin-instinctive.webp` (square). Alt: Sachê de ração úmida Royal Canin Instinctive 85 g, em foto oficial da página do produto na Petz. Legenda: Sachê Royal Canin Instinctive 85 g: a oferta e o cupom ficaram a um centavo, e a sacola usou o cupom. Foto: Petz.
 - **Origem:** fotos oficiais das páginas de produto da Petz e prints do próprio site e do Reclame Aqui, capturados no navegador do app em 11/11 na resolução original (o site e a CDN da Petz dão 403 no curl). Sem geração por IA. Folha de aprovação em `docs/auditoria-copy-artigos/petz-onboarding-20261111/FOLHA-APROVACAO-IMAGENS.html` (local, fora do git).
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/petz/black-friday-petz-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Gato de pelagem clara e rosto escuro diante de um petisco oferecido por uma mão, em foto do blog oficial da Petz, ao lado da chamada Black Friday Petz: oferta ou cupom?
+- **Origem:** foto do blog oficial da Petz, gato diante de um petisco oferecido por uma mão; resolução nativa menor, documentada e aprovada. Não é pet da equipe. Sem geração por IA.
+- **Lote 28 do piloto de capas (sequência 9 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-9-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo, no padrão vigente das capas (não é exceção nova ao Job 6). A capa anterior (`/images/reviews/petz/black-friday-petz-capa.webp`) fica no CDN, sem uso como capa.

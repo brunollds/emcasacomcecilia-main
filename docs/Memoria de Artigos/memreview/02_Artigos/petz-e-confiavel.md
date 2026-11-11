@@ -101,3 +101,10 @@ o Bruno tiver, foto de uma loja física. Prints pelo navegador.
 - **Alt da capa:** Pacote da Areia Petz Ultra Absorção, o logo da Petz, a pergunta Petz é confiável? e o selo de reputação Ótima do perfil Petz - Loja Online no Reclame Aqui.
 - **Como saber que o site é o oficial:** `/images/reviews/petz/petz-e-confiavel-site-oficial-rodape.webp` (contain, 8.4043). Alt: Rodapé do site oficial da Petz, petz.com.br, na versão para computador, com a razão social e o CNPJ. Legenda: O rodapé de petz.com.br na versão para computador, com a razão social e o CNPJ de uma filial, em trecho ampliado para leitura. Print do site da Petz.
 - **Origem:** fotos oficiais das páginas de produto da Petz e prints do próprio site e do Reclame Aqui, capturados no navegador do app em 11/11 na resolução original (o site e a CDN da Petz dão 403 no curl). Sem geração por IA. Folha de aprovação em `docs/auditoria-copy-artigos/petz-onboarding-20261111/FOLHA-APROVACAO-IMAGENS.html` (local, fora do git).
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/petz/petz-e-confiavel-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Fachada amarela da Petz com letreiro azul, em foto institucional oficial, ao lado da pergunta Petz é confiável?
+- **Origem:** foto institucional oficial da fachada da Petz; não é prova de atendimento. Sem geração por IA.
+- **Lote 28 do piloto de capas (sequência 9 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-9-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo, no padrão vigente das capas (não é exceção nova ao Job 6). A capa anterior (`/images/reviews/petz/petz-e-confiavel-capa.webp`) fica no CDN, sem uso como capa.

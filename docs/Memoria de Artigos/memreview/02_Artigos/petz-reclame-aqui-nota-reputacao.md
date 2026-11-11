@@ -94,3 +94,10 @@ navegador (o print de 11/11 não foi guardado).
 - **Alt da capa:** Pacote da ração Golden Fórmula Senior e o topo do perfil Petz - Loja Online no Reclame Aqui, com a reputação Ótima.
 - **Qual perfil é a Petz:** `/images/reviews/petz/petz-reclame-aqui-nota-reputacao-painel.webp` (contain, 1.2368). Alt: Painel do perfil Petz - Loja Online no Reclame Aqui, com a reputação Ótima e a nota 8,3 da aba de 6 meses. Legenda: Painel do perfil no Reclame Aqui, com a aba de 6 meses aberta.
 - **Origem:** fotos oficiais das páginas de produto da Petz e prints do próprio site e do Reclame Aqui, capturados no navegador do app em 11/11 na resolução original (o site e a CDN da Petz dão 403 no curl). Sem geração por IA. Folha de aprovação em `docs/auditoria-copy-artigos/petz-onboarding-20261111/FOLHA-APROVACAO-IMAGENS.html` (local, fora do git).
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/petz/petz-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Filhote de cachorro no colo de uma mulher, em foto institucional do Adote Petz, ao lado da chamada Petz no Reclame Aqui.
+- **Origem:** foto institucional do Adote Petz, filhote no colo de uma mulher; não é cliente identificada nem prova de adoção ou atendimento. Sem geração por IA.
+- **Lote 28 do piloto de capas (sequência 9 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-9-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo, no padrão vigente das capas (não é exceção nova ao Job 6). A capa anterior (`/images/reviews/petz/petz-reclame-aqui-nota-reputacao-capa.webp`) fica no CDN, sem uso como capa.

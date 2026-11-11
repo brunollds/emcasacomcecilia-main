@@ -196,3 +196,10 @@ Sim, com certeza. O cupom **`EMCASACOMCECILIA`** é o código oficial da parceri
 Consumo consciente na vida real envolve escolher produtos de qualidade, mas também ter a certeza de que haverá quem nos acolha caso algo saia diferente do esperado. Saber que a Insider tem um sistema de atendimento transparente e eficiente traz a serenidade que buscamos para os cuidados da nossa casa e do nosso dia a dia.
 
 Quando for realizar a sua compra, lembre-se de usar o código **`EMCASACOMCECILIA`** para garantir o seu desconto exclusivo no carrinho. E se precisar de qualquer orientação adicional sobre peças, tamanhos ou pedidos, conte sempre comigo por aqui!
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/insider/insider-store-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo adulta de boné azul veste camiseta Off White da Insider e calça preta, em foto oficial, ao lado da chamada Insider no Reclame Aqui.
+- **Origem:** foto oficial de modelo adulta com Tech Off White e boné azul; não é cliente nem reclamante identificada, nem experiência própria. Sem geração por IA.
+- **Lote 30 do piloto de capas (sequência 9 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-9-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo, no padrão vigente das capas (não é exceção nova ao Job 6). A capa anterior (`/images/reviews/insider/insider-reclame-aqui-capa-discover.webp`) fica no CDN, sem uso como capa.

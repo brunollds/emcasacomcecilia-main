@@ -38462,6 +38462,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bagaggio/bagaggio-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "local_url": "/images/reviews/bagaggio/bagaggio-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 100838,
+      "sha256": "44967dfe8201b95e9979826c139b83d715e19513eb59c393815a034a201a05a6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bagaggio-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "storage_filename": "bagaggio-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bagaggio-reclame-aqui-nota-reputacao.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/bagaggio-reclame-aqui-nota-reputacao.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bagaggio-reclame-aqui-nota-reputacao.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/bagaggio-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/bagaggio-reclame-aqui-nota-reputacao.md",
+          "line": 264,
+          "column": 14,
+          "literal": "/images/reviews/bagaggio/bagaggio-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/44967dfe8201b95e9979826c139b83d715e19513eb59c393815a034a201a05a6/bagaggio-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/44967dfe8201b95e9979826c139b83d715e19513eb59c393815a034a201a05a6/bagaggio-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.510Z",
+      "verification_etag_or_digest": "44967dfe8201b95e9979826c139b83d715e19513eb59c393815a034a201a05a6",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/bagaggio/bagaggio-reclame-aqui-nota-reputacao-capa.webp",
       "local_url": "/images/reviews/bagaggio/bagaggio-reclame-aqui-nota-reputacao-capa.webp",
       "media_kind": "image",
@@ -41723,6 +41769,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/belive/belive-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "local_url": "/images/reviews/belive/belive-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 125708,
+      "sha256": "5550d4e2c8c63bad4c530f73377f4daddc1f19036128c7efa984a467e00da2c5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "belive-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "storage_filename": "belive-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/belive-reclame-aqui-nota-reputacao.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/belive-reclame-aqui-nota-reputacao.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/belive-reclame-aqui-nota-reputacao.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/belive/belive-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/belive-reclame-aqui-nota-reputacao.md",
+          "line": 371,
+          "column": 14,
+          "literal": "/images/reviews/belive/belive-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5550d4e2c8c63bad4c530f73377f4daddc1f19036128c7efa984a467e00da2c5/belive-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5550d4e2c8c63bad4c530f73377f4daddc1f19036128c7efa984a467e00da2c5/belive-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.511Z",
+      "verification_etag_or_digest": "5550d4e2c8c63bad4c530f73377f4daddc1f19036128c7efa984a467e00da2c5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/belive/belive-reclame-aqui-principais-problemas.webp",
       "local_url": "/images/reviews/belive/belive-reclame-aqui-principais-problemas.webp",
       "media_kind": "image",
@@ -43750,6 +43842,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-14T16:08:01.326Z",
       "verification_etag_or_digest": "734f6b74a83453a06d9ca444f69834b6fbe784f84ede19c23390181576229362",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-e-boa-capa-v2.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-e-boa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 61836,
+      "sha256": "3818a017ac72c552ad81de3aa518f4c0399c43a6694cd0f36a6cd9e9e5e552dd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-e-boa-capa-v2.webp",
+      "storage_filename": "black-skull-e-boa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-skull-e-boa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-e-boa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/black-skull-e-boa-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-skull-e-boa.md",
+          "line": 7,
+          "column": 14,
+          "literal": "/images/reviews/black-skull/black-skull-e-boa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3818a017ac72c552ad81de3aa518f4c0399c43a6694cd0f36a6cd9e9e5e552dd/black-skull-e-boa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3818a017ac72c552ad81de3aa518f4c0399c43a6694cd0f36a6cd9e9e5e552dd/black-skull-e-boa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.511Z",
+      "verification_etag_or_digest": "3818a017ac72c552ad81de3aa518f4c0399c43a6694cd0f36a6cd9e9e5e552dd",
       "verification_status": "verified"
     },
     {
@@ -59109,6 +59247,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-cnpj-negocios-combos-capa-v2.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-cnpj-negocios-combos-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 123910,
+      "sha256": "d695d842f63e06540e54b452a819a371fd677714eae5394cea98a49e0bba4f6e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-cnpj-negocios-combos-capa-v2.webp",
+      "storage_filename": "dolce-gusto-cnpj-negocios-combos-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-cnpj-negocios-combos.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/dolce-gusto-cnpj-negocios-combos.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-cnpj-negocios-combos.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cnpj-negocios-combos-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/dolce-gusto-cnpj-negocios-combos.md",
+          "line": 95,
+          "column": 14,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cnpj-negocios-combos-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d695d842f63e06540e54b452a819a371fd677714eae5394cea98a49e0bba4f6e/dolce-gusto-cnpj-negocios-combos-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d695d842f63e06540e54b452a819a371fd677714eae5394cea98a49e0bba4f6e/dolce-gusto-cnpj-negocios-combos-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.511Z",
+      "verification_etag_or_digest": "d695d842f63e06540e54b452a819a371fd677714eae5394cea98a49e0bba4f6e",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dolcegusto/dolce-gusto-cnpj-negocios-combos-capa.webp",
       "local_url": "/images/reviews/dolcegusto/dolce-gusto-cnpj-negocios-combos-capa.webp",
       "media_kind": "image",
@@ -59495,6 +59679,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-10T21:34:08.076Z",
       "verification_etag_or_digest": "ff3fce82351cb4949a590f16b8160044581d638adf3e20783f458bdaffadb0bb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-maquinas-qual-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-maquinas-qual-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 146380,
+      "sha256": "a7ffc1a48093c53d86856af99c735ba14a518c23b646a552e220e366dcdc8f40",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-maquinas-qual-escolher-capa-v2.webp",
+      "storage_filename": "dolce-gusto-maquinas-qual-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-maquinas-qual-escolher.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/dolce-gusto-maquinas-qual-escolher.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-maquinas-qual-escolher.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-maquinas-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/dolce-gusto-maquinas-qual-escolher.md",
+          "line": 264,
+          "column": 14,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-maquinas-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a7ffc1a48093c53d86856af99c735ba14a518c23b646a552e220e366dcdc8f40/dolce-gusto-maquinas-qual-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a7ffc1a48093c53d86856af99c735ba14a518c23b646a552e220e366dcdc8f40/dolce-gusto-maquinas-qual-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.511Z",
+      "verification_etag_or_digest": "a7ffc1a48093c53d86856af99c735ba14a518c23b646a552e220e366dcdc8f40",
       "verification_status": "verified"
     },
     {
@@ -63469,6 +63699,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-capa-v2.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 149464,
+      "sha256": "332501f836cc0bc4417a459155c4199c8918c4460ff83d1ed98a9ab51d5fa21b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-ou-la-ganexa-capa-v2.webp",
+      "storage_filename": "dr-peanut-ou-la-ganexa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-ou-la-ganexa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/dr-peanut-ou-la-ganexa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-ou-la-ganexa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/dr-peanut-ou-la-ganexa.md",
+          "line": 394,
+          "column": 14,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/332501f836cc0bc4417a459155c4199c8918c4460ff83d1ed98a9ab51d5fa21b/dr-peanut-ou-la-ganexa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/332501f836cc0bc4417a459155c4199c8918c4460ff83d1ed98a9ab51d5fa21b/dr-peanut-ou-la-ganexa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.511Z",
+      "verification_etag_or_digest": "332501f836cc0bc4417a459155c4199c8918c4460ff83d1ed98a9ab51d5fa21b",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-capa.webp",
       "local_url": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-capa.webp",
       "media_kind": "image",
@@ -65073,6 +65349,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-05T14:48:18.740Z",
       "verification_etag_or_digest": "f8777f5efd2df8e0e89aa6fa4b16501a94bdee593539483f5b961e9e693ab70d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 160844,
+      "sha256": "6be68a49e07781b5b93278e1c68ee2348a423c5d216c9d46beb042f0e0a83fa0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "storage_filename": "holyfoods-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-reclame-aqui-nota-reputacao.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/holyfoods-reclame-aqui-nota-reputacao.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-reclame-aqui-nota-reputacao.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/holyfoods/holyfoods-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/holyfoods-reclame-aqui-nota-reputacao.md",
+          "line": 240,
+          "column": 14,
+          "literal": "/images/reviews/holyfoods/holyfoods-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6be68a49e07781b5b93278e1c68ee2348a423c5d216c9d46beb042f0e0a83fa0/holyfoods-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6be68a49e07781b5b93278e1c68ee2348a423c5d216c9d46beb042f0e0a83fa0/holyfoods-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.511Z",
+      "verification_etag_or_digest": "6be68a49e07781b5b93278e1c68ee2348a423c5d216c9d46beb042f0e0a83fa0",
       "verification_status": "verified"
     },
     {
@@ -78439,6 +78761,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/gift-card-insider-como-funciona-cupom-capa-v2.webp",
+      "local_url": "/images/reviews/insider/gift-card-insider-como-funciona-cupom-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45504,
+      "sha256": "dd6840bbdcdceeea783afd9986bed4574f5e906aea89665f30550a7ffea395aa",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "gift-card-insider-como-funciona-cupom-capa-v2.webp",
+      "storage_filename": "gift-card-insider-como-funciona-cupom-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/gift-card-insider-como-funciona-cupom.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/gift-card-insider-como-funciona-cupom.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/gift-card-insider-como-funciona-cupom.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/insider/gift-card-insider-como-funciona-cupom-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/gift-card-insider-como-funciona-cupom.md",
+          "line": 129,
+          "column": 14,
+          "literal": "/images/reviews/insider/gift-card-insider-como-funciona-cupom-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/dd6840bbdcdceeea783afd9986bed4574f5e906aea89665f30550a7ffea395aa/gift-card-insider-como-funciona-cupom-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dd6840bbdcdceeea783afd9986bed4574f5e906aea89665f30550a7ffea395aa/gift-card-insider-como-funciona-cupom-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.511Z",
+      "verification_etag_or_digest": "dd6840bbdcdceeea783afd9986bed4574f5e906aea89665f30550a7ffea395aa",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/gift-card-insider-como-funciona-cupom-capa.webp",
       "local_url": "/images/reviews/insider/gift-card-insider-como-funciona-cupom-capa.webp",
       "media_kind": "image",
@@ -79682,6 +80050,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T05:12:35.514Z",
       "verification_etag_or_digest": "1051a2ad6552c00dee820169cd0db582111129c325420e38879974b972d447b4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-store-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "local_url": "/images/reviews/insider/insider-store-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46488,
+      "sha256": "66e1d2ac5752294c25b035594ed8629f44b7ee5c1bd9f53d7926d0867face72e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-store-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "storage_filename": "insider-store-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-store-reclame-aqui-nota-reputacao.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/insider-store-reclame-aqui-nota-reputacao.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-store-reclame-aqui-nota-reputacao.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/insider-store-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/insider-store-reclame-aqui-nota-reputacao.md",
+          "line": 202,
+          "column": 14,
+          "literal": "/images/reviews/insider/insider-store-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/66e1d2ac5752294c25b035594ed8629f44b7ee5c1bd9f53d7926d0867face72e/insider-store-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/66e1d2ac5752294c25b035594ed8629f44b7ee5c1bd9f53d7926d0867face72e/insider-store-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.511Z",
+      "verification_etag_or_digest": "66e1d2ac5752294c25b035594ed8629f44b7ee5c1bd9f53d7926d0867face72e",
       "verification_status": "verified"
     },
     {
@@ -84694,6 +85108,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/iwannasleep/i-wanna-sleep-e-boa-capa-v2.webp",
+      "local_url": "/images/reviews/iwannasleep/i-wanna-sleep-e-boa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 80540,
+      "sha256": "1584ea8771e976a221737ac476958ef1cb6a1d062f281d2f9a9aadce54a3bac8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "i-wanna-sleep-e-boa-capa-v2.webp",
+      "storage_filename": "i-wanna-sleep-e-boa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/i-wanna-sleep-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/i-wanna-sleep-e-boa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/i-wanna-sleep-e-boa.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/i-wanna-sleep-e-boa-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/i-wanna-sleep-e-boa.md",
+          "line": 7,
+          "column": 14,
+          "literal": "/images/reviews/iwannasleep/i-wanna-sleep-e-boa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1584ea8771e976a221737ac476958ef1cb6a1d062f281d2f9a9aadce54a3bac8/i-wanna-sleep-e-boa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1584ea8771e976a221737ac476958ef1cb6a1d062f281d2f9a9aadce54a3bac8/i-wanna-sleep-e-boa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.511Z",
+      "verification_etag_or_digest": "1584ea8771e976a221737ac476958ef1cb6a1d062f281d2f9a9aadce54a3bac8",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/iwannasleep/i-wanna-sleep-e-boa-capa.webp",
       "local_url": "/images/reviews/iwannasleep/i-wanna-sleep-e-boa-capa.webp",
       "media_kind": "image",
@@ -85017,6 +85477,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-25T01:53:03.597Z",
       "verification_etag_or_digest": "464977ce95608e0616212744379d7bcf2b35a3611da0ad57a92fec0660e27ee4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "local_url": "/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 129146,
+      "sha256": "feec408d30ddaeadf9f1f6474d22dc7e11e141875f81cf0d6984476889e39300",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "i-wanna-sleep-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "storage_filename": "i-wanna-sleep-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/i-wanna-sleep-reclame-aqui-nota-reputacao.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/i-wanna-sleep-reclame-aqui-nota-reputacao.md",
+          "line": 7,
+          "column": 14,
+          "literal": "/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/feec408d30ddaeadf9f1f6474d22dc7e11e141875f81cf0d6984476889e39300/i-wanna-sleep-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/feec408d30ddaeadf9f1f6474d22dc7e11e141875f81cf0d6984476889e39300/i-wanna-sleep-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.511Z",
+      "verification_etag_or_digest": "feec408d30ddaeadf9f1f6474d22dc7e11e141875f81cf0d6984476889e39300",
       "verification_status": "verified"
     },
     {
@@ -93083,6 +93589,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/clea-store/clea-store-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49486,
+      "sha256": "13702ceab35c627baf7689fa9c650459c7b42b38b05c3d5c1311e7ba9299ffec",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "storage_filename": "clea-store-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-reclame-aqui-nota-reputacao.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/clea-store-reclame-aqui-nota-reputacao.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-reclame-aqui-nota-reputacao.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/clea-store-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/clea-store-reclame-aqui-nota-reputacao.md",
+          "line": 239,
+          "column": 14,
+          "literal": "/images/reviews/clea-store/clea-store-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/13702ceab35c627baf7689fa9c650459c7b42b38b05c3d5c1311e7ba9299ffec/clea-store-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/13702ceab35c627baf7689fa9c650459c7b42b38b05c3d5c1311e7ba9299ffec/clea-store-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.512Z",
+      "verification_etag_or_digest": "13702ceab35c627baf7689fa9c650459c7b42b38b05c3d5c1311e7ba9299ffec",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/clea-store/clea-store-reclame-aqui-principais-problemas.webp",
       "local_url": "/images/reviews/clea-store/clea-store-reclame-aqui-principais-problemas.webp",
       "media_kind": "image",
@@ -94802,6 +95354,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-21T01:24:04.195Z",
       "verification_etag_or_digest": "5f628675ebe0aa585551aa2b21927a88a94b9c3a0b1a5c0ac2e160264a293324",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-e-boa-capa-v2.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-e-boa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60868,
+      "sha256": "e35f935233983ba37c9453348896759c2e1d1803b785af5be9e35dafa256aa67",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-e-boa-capa-v2.webp",
+      "storage_filename": "mais-mu-e-boa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mais-mu-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/mais-mu-e-boa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mais-mu-e-boa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/mais-mu/mais-mu-e-boa-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/mais-mu-e-boa.md",
+          "line": 7,
+          "column": 14,
+          "literal": "/images/reviews/mais-mu/mais-mu-e-boa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e35f935233983ba37c9453348896759c2e1d1803b785af5be9e35dafa256aa67/mais-mu-e-boa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e35f935233983ba37c9453348896759c2e1d1803b785af5be9e35dafa256aa67/mais-mu-e-boa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.512Z",
+      "verification_etag_or_digest": "e35f935233983ba37c9453348896759c2e1d1803b785af5be9e35dafa256aa67",
       "verification_status": "verified"
     },
     {
@@ -101478,6 +102076,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/nutren-senior-kit-combo-ou-assinatura-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/nutren-senior-kit-combo-ou-assinatura-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86478,
+      "sha256": "26053fd3b7ded25db36aeb944f1797943a0044262111cbf44d6d29c5a0f3c32c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-senior-kit-combo-ou-assinatura-capa-v2.webp",
+      "storage_filename": "nutren-senior-kit-combo-ou-assinatura-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-senior-kit-combo-ou-assinatura.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/nutren-senior-kit-combo-ou-assinatura.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-senior-kit-combo-ou-assinatura.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-senior-kit-combo-ou-assinatura-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/nutren-senior-kit-combo-ou-assinatura.md",
+          "line": 199,
+          "column": 14,
+          "literal": "/images/reviews/nutren/nutren-senior-kit-combo-ou-assinatura-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/26053fd3b7ded25db36aeb944f1797943a0044262111cbf44d6d29c5a0f3c32c/nutren-senior-kit-combo-ou-assinatura-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/26053fd3b7ded25db36aeb944f1797943a0044262111cbf44d6d29c5a0f3c32c/nutren-senior-kit-combo-ou-assinatura-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.512Z",
+      "verification_etag_or_digest": "26053fd3b7ded25db36aeb944f1797943a0044262111cbf44d6d29c5a0f3c32c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/nutren-senior-kit-combo-ou-assinatura-capa.webp",
       "local_url": "/images/reviews/nutren/nutren-senior-kit-combo-ou-assinatura-capa.webp",
       "media_kind": "image",
@@ -102127,6 +102771,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/petz/black-friday-petz-capa-v2.webp",
+      "local_url": "/images/reviews/petz/black-friday-petz-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 94290,
+      "sha256": "5e629b377f56a66d6250eb0d0226d717a607156d5d6b2ea07b70cb44c98b1832",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-petz-capa-v2.webp",
+      "storage_filename": "black-friday-petz-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-petz.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-petz.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-petz.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/petz/black-friday-petz-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-petz.md",
+          "line": 111,
+          "column": 14,
+          "literal": "/images/reviews/petz/black-friday-petz-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5e629b377f56a66d6250eb0d0226d717a607156d5d6b2ea07b70cb44c98b1832/black-friday-petz-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5e629b377f56a66d6250eb0d0226d717a607156d5d6b2ea07b70cb44c98b1832/black-friday-petz-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.512Z",
+      "verification_etag_or_digest": "5e629b377f56a66d6250eb0d0226d717a607156d5d6b2ea07b70cb44c98b1832",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/petz/black-friday-petz-capa.webp",
       "local_url": "/images/reviews/petz/black-friday-petz-capa.webp",
       "media_kind": "image",
@@ -102216,6 +102906,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T19:18:55.200Z",
       "verification_etag_or_digest": "d2ba3dfdcbc72e08dad6987ae1f20657580def62e61c0568148e43e4a0dd87b7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/cupom-petz-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/petz/cupom-petz-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 84056,
+      "sha256": "fcc9323a9eedf56988055333ee4db3dd9a106f9c2693c06e71039fd056387d2b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-petz-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-petz-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-petz-como-usar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-petz-como-usar.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-petz-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/petz/cupom-petz-como-usar-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-petz-como-usar.md",
+          "line": 159,
+          "column": 14,
+          "literal": "/images/reviews/petz/cupom-petz-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/fcc9323a9eedf56988055333ee4db3dd9a106f9c2693c06e71039fd056387d2b/cupom-petz-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fcc9323a9eedf56988055333ee4db3dd9a106f9c2693c06e71039fd056387d2b/cupom-petz-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.512Z",
+      "verification_etag_or_digest": "fcc9323a9eedf56988055333ee4db3dd9a106f9c2693c06e71039fd056387d2b",
       "verification_status": "verified"
     },
     {
@@ -102311,6 +103047,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/petz/petz-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/petz/petz-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 110654,
+      "sha256": "f1d5aab710ab071cb1538e0e940391ed4c3a985c6b596bc37cd97f55ccd349b9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "petz-e-confiavel-capa-v2.webp",
+      "storage_filename": "petz-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/petz-e-confiavel.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/petz-e-confiavel.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/petz-e-confiavel.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/petz/petz-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/petz-e-confiavel.md",
+          "line": 107,
+          "column": 14,
+          "literal": "/images/reviews/petz/petz-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f1d5aab710ab071cb1538e0e940391ed4c3a985c6b596bc37cd97f55ccd349b9/petz-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f1d5aab710ab071cb1538e0e940391ed4c3a985c6b596bc37cd97f55ccd349b9/petz-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.512Z",
+      "verification_etag_or_digest": "f1d5aab710ab071cb1538e0e940391ed4c3a985c6b596bc37cd97f55ccd349b9",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/petz/petz-e-confiavel-capa.webp",
       "local_url": "/images/reviews/petz/petz-e-confiavel-capa.webp",
       "media_kind": "image",
@@ -102400,6 +103182,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T19:18:55.200Z",
       "verification_etag_or_digest": "ac1f21610784fd9aea79aee275595cff6a93bc95a18136a3cca929a84cdf2858",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/petz-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "local_url": "/images/reviews/petz/petz-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 156780,
+      "sha256": "a171cd75f092b7935ede4a8480a96d99eabfcc3c1912c598ab6be4b0ea11dcb8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "petz-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "storage_filename": "petz-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/petz-reclame-aqui-nota-reputacao.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/petz-reclame-aqui-nota-reputacao.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/petz-reclame-aqui-nota-reputacao.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/petz/petz-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/petz-reclame-aqui-nota-reputacao.md",
+          "line": 100,
+          "column": 14,
+          "literal": "/images/reviews/petz/petz-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a171cd75f092b7935ede4a8480a96d99eabfcc3c1912c598ab6be4b0ea11dcb8/petz-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a171cd75f092b7935ede4a8480a96d99eabfcc3c1912c598ab6be4b0ea11dcb8/petz-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.512Z",
+      "verification_etag_or_digest": "a171cd75f092b7935ede4a8480a96d99eabfcc3c1912c598ab6be4b0ea11dcb8",
       "verification_status": "verified"
     },
     {
@@ -116016,6 +116844,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78340,
+      "sha256": "9052bf86a7322887c5c3e2f96a59e3fb115b1dfd2ea75e69d3fc592f423f59e2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "storage_filename": "simple-organic-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-reclame-aqui-nota-reputacao.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/simple-organic-reclame-aqui-nota-reputacao.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-reclame-aqui-nota-reputacao.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/simple-organic-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/simple-organic-reclame-aqui-nota-reputacao.md",
+          "line": 260,
+          "column": 14,
+          "literal": "/images/reviews/simple-organic/simple-organic-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9052bf86a7322887c5c3e2f96a59e3fb115b1dfd2ea75e69d3fc592f423f59e2/simple-organic-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9052bf86a7322887c5c3e2f96a59e3fb115b1dfd2ea75e69d3fc592f423f59e2/simple-organic-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.512Z",
+      "verification_etag_or_digest": "9052bf86a7322887c5c3e2f96a59e3fb115b1dfd2ea75e69d3fc592f423f59e2",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/simple-organic/simple-organic-site-oficial-home.webp",
       "local_url": "/images/reviews/simple-organic/simple-organic-site-oficial-home.webp",
       "media_kind": "image",
@@ -119182,6 +120056,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/skelt/skelt-ou-best-bronze-capa-v2.webp",
+      "local_url": "/images/reviews/skelt/skelt-ou-best-bronze-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 193430,
+      "sha256": "8d9f3e073ce95ca77fcdb778f3ef07e0da2cc8bc53745a0a2e768a938d3de822",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skelt-ou-best-bronze-capa-v2.webp",
+      "storage_filename": "skelt-ou-best-bronze-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skelt-ou-best-bronze.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/skelt-ou-best-bronze.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skelt-ou-best-bronze.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/skelt/skelt-ou-best-bronze-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/skelt-ou-best-bronze.md",
+          "line": 197,
+          "column": 14,
+          "literal": "/images/reviews/skelt/skelt-ou-best-bronze-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/8d9f3e073ce95ca77fcdb778f3ef07e0da2cc8bc53745a0a2e768a938d3de822/skelt-ou-best-bronze-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8d9f3e073ce95ca77fcdb778f3ef07e0da2cc8bc53745a0a2e768a938d3de822/skelt-ou-best-bronze-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.512Z",
+      "verification_etag_or_digest": "8d9f3e073ce95ca77fcdb778f3ef07e0da2cc8bc53745a0a2e768a938d3de822",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/skelt/skelt-ou-best-bronze-capa.webp",
       "local_url": "/images/reviews/skelt/skelt-ou-best-bronze-capa.webp",
       "media_kind": "image",
@@ -119539,6 +120459,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-21T23:21:50.752Z",
       "verification_etag_or_digest": "e097e4d8b5a7e8e3a41fb19e113427335af103e0d8e07ac9fcf5d5b0f0000a20",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/skelt-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "local_url": "/images/reviews/skelt/skelt-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 153632,
+      "sha256": "1f56cea4e24a62437a81919215fa986d2a69295486d1bf52a7a781a8746f7522",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skelt-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "storage_filename": "skelt-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skelt-reclame-aqui-nota-reputacao.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/skelt-reclame-aqui-nota-reputacao.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skelt-reclame-aqui-nota-reputacao.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/skelt/skelt-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/skelt-reclame-aqui-nota-reputacao.md",
+          "line": 282,
+          "column": 14,
+          "literal": "/images/reviews/skelt/skelt-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1f56cea4e24a62437a81919215fa986d2a69295486d1bf52a7a781a8746f7522/skelt-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1f56cea4e24a62437a81919215fa986d2a69295486d1bf52a7a781a8746f7522/skelt-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.512Z",
+      "verification_etag_or_digest": "1f56cea4e24a62437a81919215fa986d2a69295486d1bf52a7a781a8746f7522",
       "verification_status": "verified"
     },
     {
@@ -121563,6 +122529,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/toda-up/kit-toda-up-quando-compensa-capa-v2.webp",
+      "local_url": "/images/reviews/toda-up/kit-toda-up-quando-compensa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58318,
+      "sha256": "6dcdf0df3427390e1dbba5658a2121c45b90436b199b7de8b3f76fa38d910d30",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-toda-up-quando-compensa-capa-v2.webp",
+      "storage_filename": "kit-toda-up-quando-compensa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-toda-up-quando-compensa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/kit-toda-up-quando-compensa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-toda-up-quando-compensa.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/kit-toda-up-quando-compensa-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/kit-toda-up-quando-compensa.md",
+          "line": 221,
+          "column": 14,
+          "literal": "/images/reviews/toda-up/kit-toda-up-quando-compensa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6dcdf0df3427390e1dbba5658a2121c45b90436b199b7de8b3f76fa38d910d30/kit-toda-up-quando-compensa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6dcdf0df3427390e1dbba5658a2121c45b90436b199b7de8b3f76fa38d910d30/kit-toda-up-quando-compensa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.512Z",
+      "verification_etag_or_digest": "6dcdf0df3427390e1dbba5658a2121c45b90436b199b7de8b3f76fa38d910d30",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/toda-up/kit-toda-up-quando-compensa-capa.webp",
       "local_url": "/images/reviews/toda-up/kit-toda-up-quando-compensa-capa.webp",
       "media_kind": "image",
@@ -121958,6 +122970,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-27T21:19:09.984Z",
       "verification_etag_or_digest": "d262eebbd9ab50976372291813672d7498bea2e9cb86581c1132c84d0926db8f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/protetor-de-silicone-mamilo-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/toda-up/protetor-de-silicone-mamilo-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60890,
+      "sha256": "eefc609a727f097055bb1721e2b7b57cd2829528b286153ecf2dbb81b73ad7ad",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "protetor-de-silicone-mamilo-como-usar-capa-v2.webp",
+      "storage_filename": "protetor-de-silicone-mamilo-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/protetor-de-silicone-mamilo-como-usar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/protetor-de-silicone-mamilo-como-usar.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/protetor-de-silicone-mamilo-como-usar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/protetor-de-silicone-mamilo-como-usar-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/protetor-de-silicone-mamilo-como-usar.md",
+          "line": 274,
+          "column": 14,
+          "literal": "/images/reviews/toda-up/protetor-de-silicone-mamilo-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/eefc609a727f097055bb1721e2b7b57cd2829528b286153ecf2dbb81b73ad7ad/protetor-de-silicone-mamilo-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/eefc609a727f097055bb1721e2b7b57cd2829528b286153ecf2dbb81b73ad7ad/protetor-de-silicone-mamilo-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.512Z",
+      "verification_etag_or_digest": "eefc609a727f097055bb1721e2b7b57cd2829528b286153ecf2dbb81b73ad7ad",
       "verification_status": "verified"
     },
     {
@@ -123592,6 +124650,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-08T20:30:02.086Z",
       "verification_etag_or_digest": "22b9fd1ffdb2d028171c1e039e6325c5d62d0cb721375978f351de6dd07e7283",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/toda-up-e-boa-capa-v2.webp",
+      "local_url": "/images/reviews/toda-up/toda-up-e-boa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64468,
+      "sha256": "c851da28795eaaee3dacfe7f033740ed324fbcb7686ea7156795a294c4323aa9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "toda-up-e-boa-capa-v2.webp",
+      "storage_filename": "toda-up-e-boa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/toda-up-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/toda-up-e-boa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/toda-up-e-boa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/toda-up-e-boa-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/toda-up-e-boa.md",
+          "line": 7,
+          "column": 14,
+          "literal": "/images/reviews/toda-up/toda-up-e-boa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c851da28795eaaee3dacfe7f033740ed324fbcb7686ea7156795a294c4323aa9/toda-up-e-boa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c851da28795eaaee3dacfe7f033740ed324fbcb7686ea7156795a294c4323aa9/toda-up-e-boa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T21:37:13.512Z",
+      "verification_etag_or_digest": "c851da28795eaaee3dacfe7f033740ed324fbcb7686ea7156795a294c4323aa9",
       "verification_status": "verified"
     },
     {

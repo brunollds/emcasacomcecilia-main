@@ -233,3 +233,10 @@ artigo explica a diferença em uma frase.
 - Redação em outra sessão; Job 3 aplicado e revisado pelo Claude em 14/10/2026: "nosso teste" no lugar de "testei", sem o WhatsApp da loja e a campanha da capa citada no texto alternativo (Bruno, 14/10: manter a campanha).
 - JSON `content/reviews/clea-store-reclame-aqui-nota-reputacao.json`, id 434.
 - Imagens (prints de tela de 14/10/2026, recortados e com marca-texto nosso): `clea-store-reclame-aqui-capa.webp`, `clea-store-reclame-aqui-principais-problemas.webp`.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/clea-store/clea-store-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo adulta veste vestido midi floral off white da Cléa Store, em fotografia oficial, ao lado da chamada Cléa Store no Reclame Aqui.
+- **Origem:** foto oficial do vestido midi floral off white, já no Git local como imagem do corpo e ainda sem uso como capa; a fonte remota foi bloqueada e não houve nova tentativa. Sem geração por IA.
+- **Lote 30 do piloto de capas (sequência 9 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-9-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo, no padrão vigente das capas (não é exceção nova ao Job 6). A capa anterior (`/images/reviews/clea-store/clea-store-reclame-aqui-capa-discover.webp`) fica no CDN, sem uso como capa.

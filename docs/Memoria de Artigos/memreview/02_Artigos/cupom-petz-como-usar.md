@@ -153,3 +153,10 @@ Maxi Adult 12 kg) na seção 4, com `href` da página do produto na Petz. Fotos 
 - **Alt da capa:** Pacote da ração Golden Fórmula Mini Bits, o logo da Petz, o cupom EMCASA e 10% OFF.
 - **Quando o cupom muda o preço e quando não muda:** `/images/reviews/petz/cupom-petz-como-usar-royal-canin-maxi.webp` (square). Alt: Pacote da ração Royal Canin Maxi Adult 12 kg, em foto oficial da página do produto na Petz. Legenda: Na Maxi, a oferta de 20% fica na sacola e o cupom não entra por cima. Foto: Petz.
 - **Origem:** fotos oficiais das páginas de produto da Petz e prints do próprio site e do Reclame Aqui, capturados no navegador do app em 11/11 na resolução original (o site e a CDN da Petz dão 403 no curl). Sem geração por IA. Folha de aprovação em `docs/auditoria-copy-artigos/petz-onboarding-20261111/FOLHA-APROVACAO-IMAGENS.html` (local, fora do git).
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/petz/cupom-petz-como-usar-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Cachorro diante de um petisco oferecido por uma mão, em foto do blog oficial da Petz, ao lado da chamada Como usar o cupom Petz e do código EMCASA.
+- **Origem:** foto do blog oficial da Petz, cachorro diante de um petisco oferecido por uma mão, e o cupom EMCASA, sem percentual nem condição na arte; não é pet da equipe nem cliente identificado. A imagem de nariz em close foi rejeitada. Sem geração por IA.
+- **Lote 28 do piloto de capas (sequência 9 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-9-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo, no padrão vigente das capas (não é exceção nova ao Job 6). A capa anterior (`/images/reviews/petz/cupom-petz-como-usar-capa.webp`) fica no CDN, sem uso como capa.

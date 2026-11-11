@@ -191,3 +191,10 @@ Só produtos da Skelt (fotos oficiais de `skelt-a1/imagens-2310/`, baixadas em 2
 - **Onde cada uma ganha:** `/images/reviews/skelt/skelt-ou-best-bronze-kit-iniciante-dark.webp` (square). Origem: `skelt-kit-iniciante-dark-1.png`.
 
 Releitura em 23/10/2026: a loja da Best Bronze pelo Chrome (`/products.json` na própria origem; a leitura direta tinha dado rate limit), com todos os preços iguais aos da seção 5; Dark Express Pro Sem Fragrância esgotado. O custo por aplicação (pelo rendimento declarado) ficou no texto como estimativa.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/skelt/skelt-ou-best-bronze-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo reclinada segura um frasco de Mousse Autobronzeador Skelt em foto oficial da marca, ao lado da pergunta Skelt ou Best Bronze?
+- **Origem:** foto oficial do Mini Mousse Autobronzeador com modelo; sem a marca concorrente e sem resultado comprovado. Sem geração por IA.
+- **Lote 29 do piloto de capas (sequência 9 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-9-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo, no padrão vigente das capas (não é exceção nova ao Job 6). A capa anterior (`/images/reviews/skelt/skelt-ou-best-bronze-capa.webp`) fica no CDN, sem uso como capa.
