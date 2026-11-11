@@ -143,6 +143,12 @@ const fixture: FixtureReview[] = [
 ];
 const fixtureStores = [store('damie'), store('magalu')];
 const hub = getReviewsHubContent(fixture, fixtureStores);
+// A bolinha da estante leva a marca própria da loja (bubble) quando ela tem, como a da home.
+const hubWithBubble = getReviewsHubContent(
+  fixture,
+  fixtureStores.map((coupon) => (coupon.slug === 'magalu' ? { ...coupon, bubble: { src: '/images/teste/marca.png', background: '#f58220' } } : coupon))
+);
+assert.deepEqual(hubWithBubble.stores[0].bubble, { src: resolveMediaUrl('/images/teste/marca.png'), background: '#f58220' });
 const slugs = (articles: readonly { slug: string }[]) => articles.map(({ slug }) => slug);
 const article = (slug: string): ShelfArticle => {
   const found = hub.articles.find((item) => item.slug === slug);

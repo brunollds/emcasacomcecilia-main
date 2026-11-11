@@ -22,6 +22,7 @@ import {
   getHomeStoreTabs,
   getStoreArticlePageSlugs,
   getStoreArticlesPage,
+  getStoreMark,
   sortStoresByNewestArticle,
   type HomeLatestArticle,
   type StoreReview,
@@ -37,6 +38,7 @@ import {
   getTabAnchor,
   getTabOrder,
   parseTabHash,
+  type HomeStoreTab,
 } from '@/lib/homeStoreTabs';
 
 function store(slug: string) {
@@ -114,6 +116,23 @@ assert.deepEqual(magaluTab.articles[0], {
   imageFit: 'cover',
   imagePosition: undefined,
 });
+
+// A marca da bolinha: sem `bubble`, a aba leva só o logo e as iniciais; com ele, a marca própria com o src de entrega
+// e a cor do disco, e o logo segue no dado para o resto da página. Nos dados, a cor é #rrggbb e a imagem é local.
+assert.equal(magaluTab.logo, store('magalu').brandLogo ? resolveMediaUrl(store('magalu').brandLogo) : undefined);
+assert.equal(magaluTab.initials, store('magalu').brandIcon);
+assert.ok(!('bubble' in getStoreMark({ ...store('magalu'), bubble: undefined })), 'loja sem bubble: a aba não leva o campo');
+const bubbleStore = (bubble: Coupon['bubble']): Coupon => ({ ...store('magalu'), bubble });
+const [colorBubbleTab] = getHomeStoreTabs(fixtureReviews, [bubbleStore({ src: '/images/teste/marca.png', background: '#f58220' })]);
+assert.deepEqual(colorBubbleTab.bubble, { src: resolveMediaUrl('/images/teste/marca.png'), background: '#f58220' });
+assert.equal(colorBubbleTab.logo, magaluTab.logo, 'o logo não muda com a bubble');
+const [creamBubbleTab] = getHomeStoreTabs(fixtureReviews, [bubbleStore({ src: '/images/teste/marca.png' })]);
+assert.deepEqual(creamBubbleTab.bubble, { src: resolveMediaUrl('/images/teste/marca.png') }, 'sem cor, o disco segue creme');
+for (const { slug, bubble } of COUPONS) {
+  if (!bubble) continue;
+  assert.match(bubble.src, /^\/images\/.+\.(png|webp|svg)$/, `${slug}: bubble.src tem de ser imagem local com transparência`);
+  if (bubble.background !== undefined) assert.match(bubble.background, /^#[0-9a-f]{6}$/i, `${slug}: bubble.background em #rrggbb`);
+}
 
 // Ordem das lojas: o artigo PT listado mais novo primeiro; empate de data vai pelo id maior, como a lista de
 // artigos (a YesStyle passa a Magalu mesmo vindo depois); as sem artigo vão para o fim, na ordem recebida.
@@ -408,6 +427,31 @@ for (const label of ['Ver lojas anteriores', 'Ver mais lojas']) {
   assert.ok(stripHtml.includes(`aria-label="${label}"`), `seta "${label}"`);
   assert.ok(!tablistHtml.includes(label), `seta "${label}" fora do tablist`);
 }
+
+// O miolo da bolinha: a loja sem `bubble` segue com a caixa do logo; com ela, a marca num quadrado só (74% com a
+// inclinação, que repousa em 0,86) e, com cor, o disco da cor com 2px de creme até o anel.
+const bubbleHtml = (stripTab: HomeStoreTab) => {
+  const html = renderToStaticMarkup(
+    createElement(
+      ImageConfigContext.Provider,
+      { value: imageConfig },
+      createElement(HomeStoreStrip, { tabs: [stripTab], ceciliaPhoto: '/images/photos/BRU-1.jpg', selected: CECILIA_TAB_ID, onSelect: () => {}, copy: getHomeCopy('pt') })
+    )
+  );
+  const at = html.indexOf(`id="loja-${stripTab.slug}"`);
+  return decodeEntities(html.slice(at, html.indexOf('</button>', at)));
+};
+const logoBubbleHtml = bubbleHtml(magaluTab);
+assert.ok(logoBubbleHtml.includes('class="relative bolinha-logo h-[53%] w-[74%]"'), 'sem bubble: a caixa do logo de sempre');
+assert.ok(!logoBubbleHtml.includes('background-color'), 'sem bubble: disco creme, sem cor');
+const colorBubbleHtml = bubbleHtml(colorBubbleTab);
+assert.ok(colorBubbleHtml.includes('class="relative bolinha-logo size-[74%]"'), 'com bubble: a marca no quadrado da bolinha');
+assert.ok(!colorBubbleHtml.includes('h-[53%]'), 'com bubble: sem a caixa do logo');
+assert.ok(colorBubbleHtml.includes(encodeURIComponent('/images/teste/marca.png')), 'com bubble: a imagem é a da bubble');
+assert.match(colorBubbleHtml, /<span aria-hidden="true" class="absolute inset-0\.5 rounded-full" style="background-color:#f58220"><\/span>/, 'com cor: o disco da cor com a folga creme');
+assert.ok(colorBubbleHtml.includes('bg-creme'), 'com cor: o creme fica por baixo, na folga');
+const creamBubbleHtml = bubbleHtml(creamBubbleTab);
+assert.ok(creamBubbleHtml.includes('size-[74%]') && !creamBubbleHtml.includes('background-color'), 'bubble sem cor: a marca sobre o creme');
 
 const panelHtml = renderToStaticMarkup(
   createElement(ImageConfigContext.Provider, { value: imageConfig }, createElement(HomeCeciliaPanel, { copy: PT_CECILIA_PANEL }))
