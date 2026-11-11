@@ -1,0 +1,227 @@
+{
+  "id": 900,
+  "slug": "cupom-petz-como-usar",
+  "title": "Como usar o cupom EMCASA na Petz: promoção, retirada e frete",
+  "seoTitle": "Como usar o cupom EMCASA na Petz e somar com a retirada",
+  "type": "Guia & Cupons",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "O cupom EMCASA dá 10% OFF no site e no app da Petz. Veja onde colar na sacola, quando a promoção ganha do cupom, como ler o Total de descontos e como somar com o Retire na Loja.",
+  "metaDescription": "EMCASA dá 10% OFF no site e no app da Petz. Veja onde colar na sacola, quando fica o desconto maior e como somar com a retirada.",
+  "publishedAt": "11 de novembro de 2026",
+  "publishedAtISO": "2026-11-11",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/petz/cupom-petz-como-usar-capa.webp",
+  "imageAlt": "Pacote da ração Golden Fórmula Mini Bits, o logo da Petz, o cupom EMCASA e 10% OFF",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "O cupom da Petz é o EMCASA, com 10% OFF nas compras no site e no app. Ele vai no campo “Digite seu cupom” da sacola e não soma com promoção: em cada item, fica o desconto maior. Na retirada em loja, ele soma com os 5% do Retire na Loja; veja abaixo quando a promoção ganha."
+      ]
+    },
+    {
+      "heading": "O que é o cupom EMCASA",
+      "paragraphs": [
+        "EMCASA é o código da parceria com a Petz pelo programa Parceiro Petz. Ele dá 10% OFF nas compras no site e no app. Quando você entra pelo link da parceria, a sacola mostra a loja emcasa do Parceiro Petz, mas o desconto só entra com o código.",
+        "A página de [cupom Petz](/cupons/petz) reúne o código e as regras da loja. Abaixo, o passo a passo e como ler a sacola."
+      ]
+    },
+    {
+      "heading": "1. Entre pelo botão da parceria",
+      "paragraphs": [
+        "O botão deste texto abre a loja emcasa dentro da Petz. O link não aplica o cupom: ele só leva à loja. Não espere que o código apareça sozinho na sacola."
+      ]
+    },
+    {
+      "heading": "2. Monte a sacola",
+      "paragraphs": [
+        "Escolha os produtos e abra a sacola. Anote o total antes do cupom, para comparar depois. Repare no preço de cada item: se ele já está em oferta, a sacola compara o desconto da oferta com os 10% do preço cheio. Na loja da parceria, alguns preços aparecem 10% abaixo sem cupom: são os de assinante."
+      ]
+    },
+    {
+      "heading": "3. Cole o EMCASA e confira o Total de descontos",
+      "paragraphs": [
+        "No campo “Digite seu cupom”, cole o código sem espaço antes ou depois e confirme. Copiar pelo botão deste texto evita erro de digitação.",
+        "Depois, confira a linha “Total de descontos” e o total final. Se o código está no campo e o total não mudou, compare o preço do item com a oferta: um desconto maior pode ter sido mantido."
+      ]
+    },
+    {
+      "heading": "Quando o cupom muda o preço e quando não muda",
+      "paragraphs": [
+        "Em cada item, a sacola usa o desconto que dá mais: o do cupom ou o da oferta. Promoção abaixo de 10% perde para o cupom; promoção acima de 10% ganha. Na sacola, sem finalizar a compra, os três casos ficaram assim:"
+      ],
+      "comparisonTable": {
+        "caption": "Preços da sacola em 11/11, sem finalizar a compra. A última coluna mostra o preço que permaneceu após aplicar o código.",
+        "headers": [
+          "Produto",
+          "Preço cheio",
+          "Oferta na página",
+          "Final com EMCASA na sacola"
+        ],
+        "rows": [
+          [
+            "Ração Golden Fórmula Mini Bits",
+            "R$ 22,99",
+            "Sem oferta",
+            "R$ 20,69 — cupom"
+          ],
+          [
+            "Sachê Royal Canin Instinctive 85 g",
+            "R$ 10,99",
+            "R$ 9,90",
+            "R$ 9,89 — cupom"
+          ],
+          [
+            "Ração Royal Canin Maxi Adult 12 kg",
+            "R$ 349,99",
+            "R$ 279,99",
+            "R$ 279,99 — oferta mantida"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Conta nossa: pela tabela, o cupom dá 10% sobre o preço cheio. No sachê, a diferença para a oferta é de R$ 0,01, e a sacola ficou com o cupom. Na Maxi, a oferta de 20% vale mais que o cupom, e a sacola manteve a oferta.",
+        "Os preços foram lidos com a Black Friday da Petz no ar, com término previsto para 30/11. As ofertas podem mudar por região e canal, e a conta muda junto."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/petz/cupom-petz-como-usar-royal-canin-maxi.webp",
+          "alt": "Pacote da ração Royal Canin Maxi Adult 12 kg, em foto oficial da página do produto na Petz",
+          "caption": "Na Maxi, a oferta de 20% fica na sacola e o cupom não entra por cima. Foto: Petz.",
+          "objectFit": "square"
+        }
+      ]
+    },
+    {
+      "heading": "Cupom e retirada na loja: os dois somam",
+      "paragraphs": [
+        "A loja informa: o Retire na Loja dá 5% de desconto em compras acima de R$ 199, nas regiões Centro-Oeste, Sul e Sudeste. Aguarde o aviso de que o pedido está liberado; a partir dele, você tem até 28 dias corridos para buscar na loja. A opção aparece na sacola do site ou do app. O desconto de retirada soma com o EMCASA no teste descrito abaixo.",
+        "Duas rações Golden Fórmula Senior Frango e Arroz 15 kg, a R$ 189,99 cada, somam R$ 379,98 na sacola, sem finalizar a compra. Com o cupom e a retirada juntos, o total cai para R$ 324,88, como mostra a tabela."
+      ],
+      "comparisonTable": {
+        "caption": "Duas rações de R$ 189,99, lidas na sacola com a opção Retire na Loja.",
+        "headers": [
+          "Sacola",
+          "Total de descontos",
+          "Total"
+        ],
+        "rows": [
+          [
+            "Sem cupom e sem retirada",
+            "—",
+            "R$ 379,98"
+          ],
+          [
+            "Só o Retire na Loja",
+            "−R$ 19,00",
+            "R$ 360,98"
+          ],
+          [
+            "EMCASA e Retire na Loja",
+            "−R$ 55,10",
+            "R$ 324,88"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Confira no seu carrinho: com a retirada escolhida, a sacola mostra o “+5% OFF” na opção Retire na Loja. Compare o total antes de pagar, porque a regra de retirada depende da região, do valor do pedido e da disponibilidade da loja pelo CEP."
+      ]
+    },
+    {
+      "heading": "Assinatura ou cupom: quem já assina",
+      "paragraphs": [
+        "A Assinatura Petz dá 10% nos pedidos da assinatura e também nas compras avulsas no site e no app, enquanto a assinatura estiver ativa. Ela não soma com cupom e só aceita cartão de crédito.",
+        "Por isso, quem já assina não ganha nada com o EMCASA, porque o 10% da assinatura já entra na sacola. Quem compra avulso, sem assinatura, usa o cupom."
+      ]
+    },
+    {
+      "heading": "Frete grátis e o pedido mínimo",
+      "paragraphs": [
+        "Na entrega padrão, o frete grátis da Petz depende da região e do valor: acima de R$ 199 no Sul e no Sudeste, e acima de R$ 299 no Norte, no Nordeste e no Centro-Oeste. Medicamentos têm o mínimo de R$ 199 em todo o Brasil. Casas, arranhadores, portões e extensores, carrinhos, gaiolas e viveiros ficam de fora, e pedido acima de 50 kg cubados paga frete.",
+        "O ponto de atenção é o cupom. Se ele deixa o pedido abaixo do mínimo da sua região, o frete grátis sai, porque o mínimo conta depois do desconto. Antes de pagar, confira o frete na sacola com o cupom aplicado e compare o total com e sem ele. Com entregas separadas, o frete grátis vale numa delas."
+      ]
+    },
+    {
+      "heading": "Site, app e loja física",
+      "paragraphs": [
+        "O EMCASA é o código das compras no site e no app da Petz, e é ali que ele aparece no campo “Digite seu cupom” da sacola. A Petz não diz que ele vale no caixa das lojas físicas.",
+        "Nas lojas físicas existe outro desconto, o Pesquise Lá, Compre Aqui: a Petz cobre o preço de concorrentes, só na loja, sem valer para serviços nem para assinatura e sem somar com outros descontos."
+      ]
+    },
+    {
+      "heading": "O cupom não funcionou: o que conferir",
+      "paragraphs": [
+        "Se o EMCASA não muda o preço, confira estas possibilidades e compare o total da sacola antes de pagar."
+      ],
+      "bullets": [
+        "**Promoção acima de 10%.** A oferta do item é maior que o cupom, e a sacola mantém a oferta, como na Maxi da tabela.",
+        "**Assinatura ativa.** O 10% da assinatura já está na sacola, e ela não soma com cupom.",
+        "**Código com espaço ou no campo errado.** Cole sem espaço, no campo “Digite seu cupom” da sacola. O botão da parceria abre a loja e não aplica o código.",
+        "**Frete que sumiu.** Se o cupom deixou o pedido abaixo do mínimo da sua região, o frete grátis sai. Compare o total com e sem o código.",
+        "**Clubz com desconto maior.** Durante a campanha da Black Friday, o regulamento diz que cupons não somam com o desconto do Clubz, e o sistema aplica o maior. Não testamos o EMCASA com o Clubz, então confira a linha do desconto na sacola."
+      ],
+      "postParagraphs": []
+    },
+    {
+      "heading": "Quando o cupom vale a pena",
+      "paragraphs": [
+        "Se a compra já ia ser no site ou no app e você não assina, o EMCASA vale a conta. Ele entra sempre que for maior que a oferta do item, e a sacola escolhe sozinha.",
+        "Vale menos quando o carrinho é todo de oferta acima de 10% ou quando você já assina a Petz. Antes da primeira compra, leia [Petz é confiável?](/reviews/petz-e-confiavel), com a empresa e as regras de troca."
+      ],
+      "emphasis": "Confira antes de pagar: a sacola mostra qual desconto ficou em cada produto."
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Tem cupom de primeira compra? O EMCASA dá 10% OFF nas compras no site e no app, segundo o programa Parceiro Petz.",
+        "O cupom soma com promoção? Não: em cada item, a sacola fica com o desconto maior. A tabela de quando o cupom muda o preço mostra a conta com três produtos.",
+        "Vale no app? Sim, pelo que diz o programa Parceiro Petz, o EMCASA vale nas compras no site e no app.",
+        "Dá frete grátis? O EMCASA é desconto de 10%; o frete segue a faixa da sua região, como explicado na seção de frete.",
+        "O cupom vale em toda compra? Segundo o programa Parceiro Petz, o EMCASA vale em todas as compras no site e no app."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "Você compra avulso no site ou no app, sem assinatura.",
+      "A sacola tem item sem promoção, ou com promoção abaixo de 10%."
+    ],
+    "skipIf": [
+      "Você já assina a Petz: o 10% da assinatura já vale e não soma com o cupom.",
+      "O carrinho é todo de promoção acima de 10%: a oferta ganha e o cupom não muda o total."
+    ]
+  },
+  "cta": {
+    "text": "Entre pelo botão: ele abre a loja emcasa dentro da Petz, sem o cupom aplicado. Cole o EMCASA no campo “Digite seu cupom” da sacola.",
+    "label": "Ir para a Petz",
+    "url": "https://petz.com.br/parceiro/emcasa",
+    "sponsored": true
+  },
+  "coupon": "EMCASA",
+  "affiliate": "petz",
+  "editorialNote": "Cupom testado na sacola do site, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "petz-e-confiavel"
+    },
+    {
+      "slug": "petz-reclame-aqui-nota-reputacao"
+    },
+    {
+      "slug": "black-friday-petz"
+    }
+  ]
+}
