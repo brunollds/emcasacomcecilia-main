@@ -118,3 +118,10 @@ Terceira pauta da série "Alternativas a <marca>", pedida pelo Bruno em 10/11/20
 | Cluster | 10 | 8 | Liga os cinco artigos da Simple Organic e a página de cupom |
 | Viabilidade | 10 | 7 | As duas lojas em promoção até o fim do mês |
 | **Total** | 100 | **74** | |
+
+## Capa v3 (11/11/2026)
+
+- **Capa:** `/images/reviews/simple-organic/alternativas-a-creamy-capa-v3.webp` (`imageFit: contain`).
+- **Alt:** Frasco do Gel de Limpeza Profunda da Simple Organic em foto oficial, ao lado da chamada Alternativas à Creamy.
+- **Origem:** foto oficial do Gel de Limpeza Profunda da Simple Organic, o do próprio artigo; sem produto da Creamy na arte. Saiu como -capa-v3 porque o nome -capa-v2 já era a capa do #838. Sem geração por IA.
+- **Lote 27 do piloto de capas (sequência 8 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-8-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/simple-organic/alternativas-a-creamy-capa-v2.webp`) fica no CDN, sem uso como capa.

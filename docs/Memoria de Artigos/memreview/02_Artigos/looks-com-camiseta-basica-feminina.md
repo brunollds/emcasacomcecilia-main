@@ -110,3 +110,10 @@ Pedido do Bruno em 10/11/2026: modelar a ideia de um artigo da concorrente sobre
 | Cluster | 10 | 8 | Liga os artigos de camiseta e de look das duas lojas |
 | Viabilidade | 10 | 5 | Duas lojas, dois códigos e a Black Friday para reler |
 | **Total** | 100 | **65** | |
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/looks/looks-com-camiseta-basica-feminina-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo adulta com camiseta branca e jeans barrel azul-claro da Cléa Store em foto oficial de look completo.
+- **Origem:** foto oficial da Cléa Store, modelo adulta com camiseta branca e jeans barrel claro; não atribui uso à Cecília nem mistura as duas lojas do artigo. Sem geração por IA.
+- **Lote 27 do piloto de capas (sequência 8 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-8-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/looks/looks-com-camiseta-basica-feminina-capa.webp`) fica no CDN, sem uso como capa.

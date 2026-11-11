@@ -444,3 +444,10 @@ As cafeteiras Dolce Gusto são equipamentos robustos, duráveis e incrivelmente 
 Quer experimentar cafés diferentes e economizar alguns centavos no dia a dia? Vá em frente com as cápsulas compatíveis de marcas reconhecidas para os seus espressos puros. Quer o cardápio completo de lattes cremosos, chocolates e a certeza da melhor crema? Fique com as originais, programando suas compras com combos e o cupom **`CECI`** na loja oficial.
 
 Deixe as "gambiarras" milagrosas de adaptadores plásticos e cápsulas de inox eternas para os vídeos de internet. Na vida real, a melhor economia é aquela que cuida do seu eletroportátil de estimação e coloca uma xícara perfumada, quente e impecável na sua mesa todos os dias.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/dolcegusto/dolce-gusto-capsulas-compativeis-guia-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Cecília segurando o porta-cápsulas da Genio S Touch com uma cápsula NESCAFÉ Gold encaixada, em foto própria.
+- **Origem:** foto própria da Cecília com o porta-cápsulas da Genio S Touch e uma cápsula NESCAFÉ Gold; não afirma teste novo de compatibilidade. Sem geração por IA.
+- **Lote 25 do piloto de capas (sequência 8 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-8-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/dolcegusto/genio-s-touch-cecilia-capsula.webp`) fica no CDN, sem uso como capa.

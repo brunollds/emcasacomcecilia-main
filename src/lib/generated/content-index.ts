@@ -50346,8 +50346,8 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
-    "image": "/images/reviews/nutren/nutren-senior-sem-empelotar-capa-discover.webp",
-    "imageAlt": "As três latas de Nutren Senior de 740 g, Zero Lactose Sem Sabor, Café com Leite e Sem Sabor, fotos oficiais da Nestlé",
+    "image": "/images/reviews/nutren/nutren-senior-como-tomar-sem-empelotar-capa-v2.webp",
+    "imageAlt": "Vitamina de frutas com Nutren Senior Baunilha em foto oficial da receita publicada por Receitas Nestlé, com frutas ao redor da taça.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -50655,10 +50655,10 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
-    "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-capsula.webp",
-    "imageAlt": "Cecília segurando o porta-cápsulas da Genio S Touch com uma cápsula NESCAFÉ Gold encaixada",
-    "imageFit": "cover",
-    "imageAspect": "square",
+    "image": "/images/reviews/dolcegusto/dolce-gusto-capsulas-compativeis-guia-capa-v2.webp",
+    "imageAlt": "Cecília segurando o porta-cápsulas da Genio S Touch com uma cápsula NESCAFÉ Gold encaixada, em foto própria.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -50928,8 +50928,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-02",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/nutren/fibermais-como-usar-capa-discover.webp",
-    "imageAlt": "Lata de FiberMais Sem Sabor de 260 g, suplemento de fibras em pó da Nestlé Health Science",
+    "image": "/images/reviews/nutren/fibermais-como-usar-em-receitas-e-bebidas-capa-v2.webp",
+    "imageAlt": "Chocolate Quente Cremoso FiberMais em foto oficial da receita publicada por Receitas Nestlé, com a bebida em caneca de vidro.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -76756,8 +76756,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/lejour/lista-de-casamento-lejour-capa-discover.webp",
-    "imageAlt": "Ilustração da lista de presentes da Lejour, com panelas e um maço de dinheiro, com o logo da Lejour e o título Lista de casamento na Lejour",
+    "image": "/images/reviews/lejour/lista-de-casamento-lejour-como-criar-capa-v2.webp",
+    "imageAlt": "Mockup institucional da Lejour mostrando um exemplo de site de casamento em computador e celular.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -83317,8 +83317,8 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-capa.webp",
-    "imageAlt": "Fotos oficiais da I Wanna Sleep lado a lado: travesseiros Snow, Original Látex e Coluna Relax",
+    "image": "/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-capa-v2.webp",
+    "imageAlt": "Modelo adulta deitada no Travesseiro Magnum Pluma AirFiber da I Wanna Sleep, em foto promocional oficial da marca.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -88257,8 +88257,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-17",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa.webp",
-    "imageAlt": "Embalagens de cinco doces sem açúcar da Belive: bolinho de baunilha, brownie de chocolate, brownie proteico de chocolate com avelã, pão de mel e bolo de chocolate",
+    "image": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa-v2.webp",
+    "imageAlt": "Bolo de chocolate da Belive fatiado sobre tábua de madeira em foto oficial, ao lado da chamada Doces e diabetes: o que olhar no rótulo?",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -100806,8 +100806,8 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa-discover.webp",
-    "imageAlt": "Onze potes de pasta de amendoim Dr. Peanut em sabores diferentes, com o logo da loja e a pergunta Dr. Peanut é saudável",
+    "image": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa-v2.webp",
+    "imageAlt": "Lateral da embalagem de whey Dr. Peanut Avelã, coassinado com Max Titanium, com a tabela nutricional original em foto oficial do fabricante.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -117978,8 +117978,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-21",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/skelt/skelt-e-confiavel-capa.webp",
-    "imageAlt": "Mousse Autobronzeador da Skelt, em foto oficial do produto no site da marca",
+    "image": "/images/reviews/skelt/skelt-e-confiavel-capa-v2.webp",
+    "imageAlt": "Mãos com Mousse Autobronzeador Skelt e luva aplicadora em foto oficial da marca sobre fundo azul.",
     "imageFit": "contain",
     "contentSections": [
       {
@@ -120211,8 +120211,8 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/damie/presente-de-natal-para-casa-moveis-capa.webp",
-    "imageAlt": "Cecília com o filho na poltrona reclinável DAMIE, Cecília no sofá modular e a espreguiçadeira Caraíva, com o logo da DAMIE e o título Presente de Natal para a casa",
+    "image": "/images/reviews/damie/presente-de-natal-para-casa-moveis-capa-v2.webp",
+    "imageAlt": "Cecília sentada no sofá modular azul da DAMIE, em foto própria, ao lado da chamada Presente de Natal para a casa.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -124163,8 +124163,8 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-capa-discover.webp",
-    "imageAlt": "Potes de pasta de amendoim Dr. Peanut sabor Avelã, de 250 g e de 600 g",
+    "image": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-capa-v2.webp",
+    "imageAlt": "Pote de pasta de amendoim Dr. Peanut Avelã de 250 g em foto oficial, ao lado da pergunta 250 g, 600 g ou kit: qual compensa?",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -166962,8 +166962,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "locale": "pt",
-    "image": "/images/reviews/insider/kit-insider-quando-compensa-capa.webp",
-    "imageAlt": "Kits Insider de camisetas Tech e Daily e de cuecas Comfort, com o logo da Insider",
+    "image": "/images/reviews/insider/kit-insider-quando-compensa-capa-v2.webp",
+    "imageAlt": "Kit real de cinco camisetas Tech da Insider em composição oficial da marca, ao lado da pergunta Kit Insider ou peças avulsas?",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -168394,8 +168394,8 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
-    "imageAlt": "Vestidos de festa da SHEIN em azul-marinho e azul empoeirado, para Natal, Réveillon e formatura",
+    "image": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+    "imageAlt": "Modelo adulta em imagem do anúncio SHEIN usando vestido de festa ADYCE azul-marinho com cauda, diante de espelho, ao lado do código de indicação 4CW5Y.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -168776,8 +168776,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
-    "imageAlt": "SHEIN party dresses in navy and dusty blue, for Christmas, New Year's Eve and graduation",
+    "image": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+    "imageAlt": "Adult model in a SHEIN product listing wearing a navy-blue ADYCE evening gown with a train in front of a mirror, beside referral code 4CW5Y.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -169139,8 +169139,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
-    "imageAlt": "Vestidos de fiesta de SHEIN en azul marino y azul empolvado, para Navidad, Nochevieja y graduación",
+    "image": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+    "imageAlt": "Modelo adulta en una imagen del anuncio de SHEIN, con un vestido de fiesta ADYCE azul marino con cola frente a un espejo, junto al código de referido 4CW5Y.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -169502,8 +169502,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
-    "imageAlt": "Robes de soirée SHEIN bleu marine et bleu poudré, pour Noël, le réveillon et la remise de diplôme",
+    "image": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+    "imageAlt": "Mannequin adulte sur une image de la fiche produit SHEIN, portant une robe de soirée ADYCE bleu marine avec une traîne devant un miroir, à côté du code de parrainage 4CW5Y.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -169865,8 +169865,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
-    "imageAlt": "SHEIN-Partykleider in Marineblau und Staubblau, für Weihnachten, Silvester und Abschlussfeier",
+    "image": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+    "imageAlt": "Erwachsenes Model auf einem SHEIN-Produktfoto in einem marineblauen ADYCE-Abendkleid mit Schleppe vor einem Spiegel, neben dem Empfehlungscode 4CW5Y.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -170228,8 +170228,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
-    "imageAlt": "Abiti da festa SHEIN blu navy e azzurro polvere, per Natale, Capodanno e laurea",
+    "image": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+    "imageAlt": "Modella adulta in una foto della scheda prodotto SHEIN, con un abito da sera ADYCE blu navy con strascico davanti a uno specchio, accanto al codice invito 4CW5Y.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -170591,8 +170591,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
-    "imageAlt": "네이비와 더스티 블루 SHEIN 파티 드레스, 크리스마스, 새해 전야, 졸업식용",
+    "image": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+    "imageAlt": "SHEIN 상품 등록 이미지에서 성인 모델이 거울 앞에 서서 트레인이 있는 남색 ADYCE 이브닝드레스를 입고 있으며, 옆에 추천 코드 4CW5Y가 표시되어 있습니다.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -170954,8 +170954,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
-    "imageAlt": "SHEINのネイビーとダスティブルーのパーティードレス。クリスマス、年越し、卒業式向け",
+    "image": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+    "imageAlt": "SHEINの商品掲載画像。鏡の前で裾を引くネイビーブルーのADYCEのパーティードレスを着た成人モデルと、紹介コード4CW5Y。",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -171317,8 +171317,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
-    "imageAlt": "SHEIN 的海軍藍與霧藍色派對洋裝，適合聖誕節、跨年與畢業典禮",
+    "image": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+    "imageAlt": "SHEIN商品展示圖中的成年模特兒在鏡子前身穿帶拖尾的藏藍色ADYCE晚禮服，旁邊標有推薦碼4CW5Y。",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -171680,8 +171680,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
-    "imageAlt": "SHEIN 的藏青色与灰蓝色派对礼服，适合圣诞、跨年和毕业典礼",
+    "image": "/images/reviews/shein/vestido-de-festa-shein-capa-v2.webp",
+    "imageAlt": "SHEIN商品展示图中的成年模特在镜子前身穿带拖尾的藏蓝色ADYCE晚礼服，旁边标有推荐码4CW5Y。",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -173620,8 +173620,8 @@ export const reviewsData: unknown[] = [
     "isNew": true,
     "description": "SkinUp (segunda pele, sem costura) ou Cotton Up (algodão), da Toda Up: as dez peças das duas linhas, para qual roupa cada uma serve, as faixas de tamanho, as cores e o preço.",
     "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Toda Up, nas duas linhas. SkinUp ou Cotton Up: segunda pele sem costura ou algodão, tamanhos, cores e preço.",
-    "image": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-capa.webp",
-    "imageAlt": "Top Segunda Pele SkinUp e Top Faixa Cotton Up, da Toda Up, lado a lado com o logo da loja",
+    "image": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-capa-v2.webp",
+    "imageAlt": "Modelo adulta vestindo Cotton Up preto da Toda Up em foto oficial, ao lado da pergunta SkinUp ou Cotton Up?",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -174995,8 +174995,8 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/max-titanium/max-titanium-e-boa-capa.webp",
-    "imageAlt": "100% Whey refil e Top Whey 3W da Max Titanium lado a lado, com a faixa \"Max Titanium é boa?\"",
+    "image": "/images/reviews/max-titanium/max-titanium-e-boa-capa-v2.webp",
+    "imageAlt": "Pote do pré-treino Night Train Frutas Vermelhas da Max Titanium em foto oficial, ao lado da pergunta Max Titanium é boa?",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -175169,8 +175169,8 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/probiotica/probiotica-e-boa-capa.webp",
-    "imageAlt": "Pote, refil e Zero Lactose do 100% Pure Whey da Probiótica, com a faixa \"Probiótica é boa?\"",
+    "image": "/images/reviews/probiotica/probiotica-e-boa-capa-v2.webp",
+    "imageAlt": "Pote do Iso Pro Whey Baunilha da Probiótica em foto oficial, ao lado da pergunta Probiótica é boa?",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -175373,8 +175373,8 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/simple-organic/simple-organic-e-confiavel-capa.webp",
-    "imageAlt": "Kit Rotina Pele Sensível da Simple Organic, em foto oficial da loja, com o logo da marca, a pergunta Simple Organic é confiável? e os selos RA1000 e Empresa Verificada do perfil no Reclame Aqui",
+    "image": "/images/reviews/simple-organic/simple-organic-e-confiavel-capa-v2.webp",
+    "imageAlt": "Frasco do Gel de Limpeza Suave da Simple Organic, com líquido escorrendo do pump, em foto oficial da marca.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -189041,8 +189041,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-11-05",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/insider/insider-ou-minimal-club-capa.webp",
-    "imageAlt": "Três camisetas básicas da Insider, verde, preta e vinho, vestidas por modelos, com o logo da Insider e o título Insider ou Minimal Club?",
+    "image": "/images/reviews/insider/insider-ou-minimal-club-capa-v2.webp",
+    "imageAlt": "Modelo adulto vestindo camiseta Tech Blue Shadow da Insider em foto oficial, ao lado da pergunta Insider ou Minimal Club?",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -197458,8 +197458,8 @@ export const reviewsData: unknown[] = [
     "seoTitle": "Tamanho Toda Up: como escolher em cada linha",
     "description": "O M de uma peça não é o M da outra, e o mesmo número também muda. Veja como medir e as tabelas de sutiã, top, calcinha, silicone, protetor e Fita Up num lugar só.",
     "metaDescription": "MAUAD dá 10% OFF na Toda Up. Como descobrir seu tamanho em Comfort, SkinUp, Cotton Up, sutiã de silicone, protetor e Fita Up.",
-    "image": "/images/reviews/toda-up/tamanho-toda-up-como-escolher-capa.webp",
-    "imageAlt": "Top Segunda Pele SkinUp caramelo e modelo com a caixa da Fita Up em duas fotos, com logo da Toda Up e título na faixa",
+    "image": "/images/reviews/toda-up/tamanho-toda-up-como-escolher-capa-v2.webp",
+    "imageAlt": "Três modelos adultas vestindo peças Alça Fina da Toda Up nas cores rosa, preto e claro, em foto oficial, ao lado da pergunta Qual é o seu tamanho?",
     "contentSections": [
       {
         "heading": "Resposta rápida",
@@ -198074,8 +198074,8 @@ export const reviewsData: unknown[] = [
     "seoTitle": "SkinUp marca na roupa? Top, Clássico e calcinhas",
     "description": "Compare o que a Toda Up promete para SkinUp e Cotton Up, o acabamento e o bojo de cada peça, e o que conferir na roupa antes de escolher.",
     "metaDescription": "MAUAD dá 10% OFF na Toda Up. SkinUp marca na roupa? O que a loja promete no Top, no Clássico e nas calcinhas, e a diferença para o Cotton Up.",
-    "image": "/images/reviews/toda-up/skinup-marca-na-roupa-capa.webp",
-    "imageAlt": "Duas modelos com o Top Segunda Pele SkinUp e o Sutiã Clássico SkinUp preto, em duas fotos, com logo da Toda Up e título na faixa",
+    "image": "/images/reviews/toda-up/skinup-marca-na-roupa-capa-v2.webp",
+    "imageAlt": "Modelo adulta vestindo Top Segunda Pele SkinUp caramelo em foto oficial da Toda Up, ao lado da pergunta SkinUp marca na roupa?",
     "contentSections": [
       {
         "heading": "Resposta rápida",
@@ -207326,8 +207326,8 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-09",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/damie/poltrona-do-papai-eletrica-quanto-custa-capa.webp",
-    "imageAlt": "Cecília Mauad reclinada na poltrona DAMIE Levita em couro, ao lado dos botões e do bolso lateral da Reclinável 2.0 e do apoio de pés elétrico aberto, com a faixa \"Poltrona do papai elétrica\"",
+    "image": "/images/reviews/damie/poltrona-do-papai-eletrica-quanto-custa-capa-v2.webp",
+    "imageAlt": "Cecília sentada na poltrona DAMIE Levita em couro caramelo, com a mão no comando lateral, em foto própria.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -207898,8 +207898,8 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-09",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/damie/presente-de-natal-para-pai-poltrona-do-papai-capa.webp",
-    "imageAlt": "Cecília Mauad sentada na poltrona reclinável DAMIE com a mão no botão de reclinar, ao lado da Poltrona Reclinável 2.0 inteira em suede claro, com a faixa \"Presente de Natal para pai\"",
+    "image": "/images/reviews/damie/presente-de-natal-para-pai-poltrona-do-papai-capa-v2.webp",
+    "imageAlt": "Cecília em pé ao lado de uma caixa grande da DAMIE, com a mão apoiada nela, em foto própria.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "bodyDatesReason": "prazo-entrega",
@@ -209825,8 +209825,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-11-10",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/simple-organic/simple-organic-ou-principia-capa.webp",
-    "imageAlt": "Ultra Séruns de niacinamida, retinol e vitamina C da Simple Organic, com o título Simple Organic ou Principia",
+    "image": "/images/reviews/simple-organic/simple-organic-ou-principia-capa-v2.webp",
+    "imageAlt": "Frasco aberto do Ultra Sérum Vitamina C da Simple Organic, com pipeta acima da abertura, em imagem oficial da marca.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -210941,8 +210941,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-11-10",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/simple-organic/alternativas-a-creamy-capa-v2.webp",
-    "imageAlt": "Ultra Séruns de retinol e niacinamida e Géis de Limpeza Suave e Profunda da Simple Organic, com o cupom S-EMCASACOMCECILIA de 5% OFF na Simple Organic",
+    "image": "/images/reviews/simple-organic/alternativas-a-creamy-capa-v3.webp",
+    "imageAlt": "Frasco do Gel de Limpeza Profunda da Simple Organic em foto oficial, ao lado da chamada Alternativas à Creamy.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -211482,8 +211482,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-11-11",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/looks/looks-com-camiseta-basica-feminina-capa.webp",
-    "imageAlt": "Quatro modelos de camiseta básica: vinho e off white da Cléa Store com calça jeans, vinho e preta da Insider, com o título Looks com camiseta básica e os códigos das duas lojas",
+    "image": "/images/reviews/looks/looks-com-camiseta-basica-feminina-capa-v2.webp",
+    "imageAlt": "Modelo adulta com camiseta branca e jeans barrel azul-claro da Cléa Store em foto oficial de look completo.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "decision": {
@@ -212190,6 +212190,997 @@ export const reviewsData: unknown[] = [
           "Dá para usar o cupom da Cléa e o da Insider no mesmo look? Sim, em pedidos separados: CSEMCASACOMCECILIA na Cléa e EMCASACOMCECILIA na Insider. Confira o desconto e o total com frete em cada carrinho.",
           "O cupom vale na Black Friday? Na Cléa, sim: o código somou com a promoção no teste de carrinho. Na Insider, os 15% incidiram sobre o preço promocional do dia; na data da Black Friday, confira a linha do desconto."
         ]
+      }
+    ]
+  },
+  {
+    "id": 900,
+    "slug": "cupom-petz-como-usar",
+    "title": "Como usar o cupom EMCASA na Petz: promoção, retirada e frete",
+    "seoTitle": "Como usar o cupom EMCASA na Petz e somar com a retirada",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O cupom EMCASA dá 10% OFF no site e no app da Petz. Veja onde colar na sacola, quando a promoção ganha do cupom, como ler o Total de descontos e como somar com o Retire na Loja.",
+    "metaDescription": "EMCASA dá 10% OFF no site e no app da Petz. Veja onde colar na sacola, quando fica o desconto maior e como somar com a retirada.",
+    "publishedAt": "11 de novembro de 2026",
+    "publishedAtISO": "2026-11-11",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/petz/cupom-petz-como-usar-capa.webp",
+    "imageAlt": "Pacote da ração Golden Fórmula Mini Bits, o logo da Petz, o cupom EMCASA e 10% OFF",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O cupom da Petz é o EMCASA, com 10% OFF nas compras no site e no app. Ele vai no campo “Digite seu cupom” da sacola e não soma com promoção: em cada item, fica o desconto maior. Na retirada em loja, ele soma com os 5% do Retire na Loja; veja abaixo quando a promoção ganha."
+        ]
+      },
+      {
+        "heading": "O que é o cupom EMCASA",
+        "paragraphs": [
+          "EMCASA é o código da parceria com a Petz pelo programa Parceiro Petz. Ele dá 10% OFF nas compras no site e no app. Quando você entra pelo link da parceria, a sacola mostra a loja emcasa do Parceiro Petz, mas o desconto só entra com o código.",
+          "A página de [cupom Petz](/cupons/petz) reúne o código e as regras da loja. Abaixo, o passo a passo e como ler a sacola."
+        ]
+      },
+      {
+        "heading": "1. Entre pelo botão da parceria",
+        "paragraphs": [
+          "O botão deste texto abre a loja emcasa dentro da Petz. O link não aplica o cupom: ele só leva à loja. Não espere que o código apareça sozinho na sacola."
+        ]
+      },
+      {
+        "heading": "2. Monte a sacola",
+        "paragraphs": [
+          "Escolha os produtos e abra a sacola. Anote o total antes do cupom, para comparar depois. Repare no preço de cada item: se ele já está em oferta, a sacola compara o desconto da oferta com os 10% do preço cheio. Na loja da parceria, alguns preços aparecem 10% abaixo sem cupom: são os de assinante."
+        ]
+      },
+      {
+        "heading": "3. Cole o EMCASA e confira o Total de descontos",
+        "paragraphs": [
+          "No campo “Digite seu cupom”, cole o código sem espaço antes ou depois e confirme. Copiar pelo botão deste texto evita erro de digitação.",
+          "Depois, confira a linha “Total de descontos” e o total final. Se o código está no campo e o total não mudou, compare o preço do item com a oferta: um desconto maior pode ter sido mantido."
+        ]
+      },
+      {
+        "heading": "Quando o cupom muda o preço e quando não muda",
+        "paragraphs": [
+          "Em cada item, a sacola usa o desconto que dá mais: o do cupom ou o da oferta. Promoção abaixo de 10% perde para o cupom; promoção acima de 10% ganha. Na sacola, sem finalizar a compra, os três casos ficaram assim:"
+        ],
+        "comparisonTable": {
+          "caption": "Preços da sacola em 11/11, sem finalizar a compra. A última coluna mostra o preço que permaneceu após aplicar o código.",
+          "headers": [
+            "Produto",
+            "Preço cheio",
+            "Oferta na página",
+            "Final com EMCASA na sacola"
+          ],
+          "rows": [
+            [
+              "Ração Golden Fórmula Mini Bits",
+              "R$ 22,99",
+              "Sem oferta",
+              "R$ 20,69 — cupom"
+            ],
+            [
+              "Sachê Royal Canin Instinctive 85 g",
+              "R$ 10,99",
+              "R$ 9,90",
+              "R$ 9,89 — cupom"
+            ],
+            [
+              "Ração Royal Canin Maxi Adult 12 kg",
+              "R$ 349,99",
+              "R$ 279,99",
+              "R$ 279,99 — oferta mantida"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Conta nossa: pela tabela, o cupom dá 10% sobre o preço cheio. No sachê, a diferença para a oferta é de R$ 0,01, e a sacola ficou com o cupom. Na Maxi, a oferta de 20% vale mais que o cupom, e a sacola manteve a oferta.",
+          "Os preços foram lidos com a Black Friday da Petz no ar, com término previsto para 30/11. As ofertas podem mudar por região e canal, e a conta muda junto."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/petz/cupom-petz-como-usar-royal-canin-maxi.webp",
+            "alt": "Pacote da ração Royal Canin Maxi Adult 12 kg, em foto oficial da página do produto na Petz",
+            "caption": "Na Maxi, a oferta de 20% fica na sacola e o cupom não entra por cima. Foto: Petz.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Cupom e retirada na loja: os dois somam",
+        "paragraphs": [
+          "A loja informa: o Retire na Loja dá 5% de desconto em compras acima de R$ 199, nas regiões Centro-Oeste, Sul e Sudeste. Aguarde o aviso de que o pedido está liberado; a partir dele, você tem até 28 dias corridos para buscar na loja. A opção aparece na sacola do site ou do app. O desconto de retirada soma com o EMCASA no teste descrito abaixo.",
+          "Duas rações Golden Fórmula Senior Frango e Arroz 15 kg, a R$ 189,99 cada, somam R$ 379,98 na sacola, sem finalizar a compra. Com o cupom e a retirada juntos, o total cai para R$ 324,88, como mostra a tabela."
+        ],
+        "comparisonTable": {
+          "caption": "Duas rações de R$ 189,99, lidas na sacola com a opção Retire na Loja.",
+          "headers": [
+            "Sacola",
+            "Total de descontos",
+            "Total"
+          ],
+          "rows": [
+            [
+              "Sem cupom e sem retirada",
+              "—",
+              "R$ 379,98"
+            ],
+            [
+              "Só o Retire na Loja",
+              "−R$ 19,00",
+              "R$ 360,98"
+            ],
+            [
+              "EMCASA e Retire na Loja",
+              "−R$ 55,10",
+              "R$ 324,88"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Confira no seu carrinho: com a retirada escolhida, a sacola mostra o “+5% OFF” na opção Retire na Loja. Compare o total antes de pagar, porque a regra de retirada depende da região, do valor do pedido e da disponibilidade da loja pelo CEP."
+        ]
+      },
+      {
+        "heading": "Assinatura ou cupom: quem já assina",
+        "paragraphs": [
+          "A Assinatura Petz dá 10% nos pedidos da assinatura e também nas compras avulsas no site e no app, enquanto a assinatura estiver ativa. Ela não soma com cupom e só aceita cartão de crédito.",
+          "Por isso, quem já assina não ganha nada com o EMCASA, porque o 10% da assinatura já entra na sacola. Quem compra avulso, sem assinatura, usa o cupom."
+        ]
+      },
+      {
+        "heading": "Frete grátis e o pedido mínimo",
+        "paragraphs": [
+          "Na entrega padrão, o frete grátis da Petz depende da região e do valor: acima de R$ 199 no Sul e no Sudeste, e acima de R$ 299 no Norte, no Nordeste e no Centro-Oeste. Medicamentos têm o mínimo de R$ 199 em todo o Brasil. Casas, arranhadores, portões e extensores, carrinhos, gaiolas e viveiros ficam de fora, e pedido acima de 50 kg cubados paga frete.",
+          "O ponto de atenção é o cupom. Se ele deixa o pedido abaixo do mínimo da sua região, o frete grátis sai, porque o mínimo conta depois do desconto. Antes de pagar, confira o frete na sacola com o cupom aplicado e compare o total com e sem ele. Com entregas separadas, o frete grátis vale numa delas."
+        ]
+      },
+      {
+        "heading": "Site, app e loja física",
+        "paragraphs": [
+          "O EMCASA é o código das compras no site e no app da Petz, e é ali que ele aparece no campo “Digite seu cupom” da sacola. A Petz não diz que ele vale no caixa das lojas físicas.",
+          "Nas lojas físicas existe outro desconto, o Pesquise Lá, Compre Aqui: a Petz cobre o preço de concorrentes, só na loja, sem valer para serviços nem para assinatura e sem somar com outros descontos."
+        ]
+      },
+      {
+        "heading": "O cupom não funcionou: o que conferir",
+        "paragraphs": [
+          "Se o EMCASA não muda o preço, confira estas possibilidades e compare o total da sacola antes de pagar."
+        ],
+        "bullets": [
+          "**Promoção acima de 10%.** A oferta do item é maior que o cupom, e a sacola mantém a oferta, como na Maxi da tabela.",
+          "**Assinatura ativa.** O 10% da assinatura já está na sacola, e ela não soma com cupom.",
+          "**Código com espaço ou no campo errado.** Cole sem espaço, no campo “Digite seu cupom” da sacola. O botão da parceria abre a loja e não aplica o código.",
+          "**Frete que sumiu.** Se o cupom deixou o pedido abaixo do mínimo da sua região, o frete grátis sai. Compare o total com e sem o código.",
+          "**Clubz com desconto maior.** Durante a campanha da Black Friday, o regulamento diz que cupons não somam com o desconto do Clubz, e o sistema aplica o maior. Não testamos o EMCASA com o Clubz, então confira a linha do desconto na sacola."
+        ],
+        "postParagraphs": []
+      },
+      {
+        "heading": "Quando o cupom vale a pena",
+        "paragraphs": [
+          "Se a compra já ia ser no site ou no app e você não assina, o EMCASA vale a conta. Ele entra sempre que for maior que a oferta do item, e a sacola escolhe sozinha.",
+          "Vale menos quando o carrinho é todo de oferta acima de 10% ou quando você já assina a Petz. Antes da primeira compra, leia [Petz é confiável?](/reviews/petz-e-confiavel), com a empresa e as regras de troca."
+        ],
+        "emphasis": "Confira antes de pagar: a sacola mostra qual desconto ficou em cada produto."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom de primeira compra? O EMCASA dá 10% OFF nas compras no site e no app, segundo o programa Parceiro Petz.",
+          "O cupom soma com promoção? Não: em cada item, a sacola fica com o desconto maior. A tabela de quando o cupom muda o preço mostra a conta com três produtos.",
+          "Vale no app? Sim, pelo que diz o programa Parceiro Petz, o EMCASA vale nas compras no site e no app.",
+          "Dá frete grátis? O EMCASA é desconto de 10%; o frete segue a faixa da sua região, como explicado na seção de frete.",
+          "O cupom vale em toda compra? Segundo o programa Parceiro Petz, o EMCASA vale em todas as compras no site e no app."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você compra avulso no site ou no app, sem assinatura.",
+        "A sacola tem item sem promoção, ou com promoção abaixo de 10%."
+      ],
+      "skipIf": [
+        "Você já assina a Petz: o 10% da assinatura já vale e não soma com o cupom.",
+        "O carrinho é todo de promoção acima de 10%: a oferta ganha e o cupom não muda o total."
+      ]
+    },
+    "cta": {
+      "text": "Entre pelo botão: ele abre a loja emcasa dentro da Petz, sem o cupom aplicado. Cole o EMCASA no campo “Digite seu cupom” da sacola.",
+      "label": "Ir para a Petz",
+      "url": "https://petz.com.br/parceiro/emcasa",
+      "sponsored": true
+    },
+    "coupon": "EMCASA",
+    "affiliate": "petz",
+    "editorialNote": "Cupom testado na sacola do site, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "petz-e-confiavel"
+      },
+      {
+        "slug": "petz-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "black-friday-petz"
+      }
+    ]
+  },
+  {
+    "id": 901,
+    "slug": "petz-e-confiavel",
+    "title": "Petz é confiável? CNPJ, fusão com a Cobasi, entrega e trocas",
+    "seoTitle": "Petz é confiável? CNPJ, Cobasi, entrega e trocas",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quem está por trás da Petz, a fusão com a Cobasi, como conferir o site oficial, os prazos de entrega e de troca e o que dizem os clientes no Reclame Aqui.",
+    "metaDescription": "EMCASA dá 10% OFF no site e no app da Petz. Antes de comprar, veja o CNPJ, a fusão com a Cobasi, os prazos de entrega e como funciona a troca.",
+    "publishedAt": "11 de novembro de 2026",
+    "publishedAtISO": "2026-11-11",
+    "updatedAt": "2026-11-11",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/petz/petz-e-confiavel-capa.webp",
+    "imageAlt": "Pacote da Areia Petz Ultra Absorção, o logo da Petz, a pergunta Petz é confiável? e o selo de reputação Ótima do perfil Petz - Loja Online no Reclame Aqui",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Petz integra o Grupo Petz Cobasi e publica regras de entrega e troca. Na compra online, a desistência pode ser pedida em até sete dias corridos depois do recebimento. Antes de pagar, confira o endereço petz.com.br, o prazo para seu CEP e as condições do pedido; no computador, o rodapé também mostra o CNPJ da empresa."
+        ]
+      },
+      {
+        "heading": "Quem é a Petz por trás do site",
+        "paragraphs": [
+          "A Petz é uma rede brasileira de pet shops, com lojas físicas, site e app. No rodapé do site aparece Pet Center Comércio e Participações S/A. O Grupo Petz Cobasi tem ações na B3 sob o código AUAU3; a Petz abriu capital em 2020, antes da combinação com a Cobasi.",
+          "A marca começou em 2002 como Pet Center Marginal, com atendimento 24 horas, e virou Petz em 2015. Segundo o RI do grupo, são mais de 260 unidades em 23 estados e no Distrito Federal."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Ponto",
+            "O que aparece"
+          ],
+          "rows": [
+            [
+              "Razão social",
+              "PET CENTER COMÉRCIO E PARTICIPAÇÕES S.A."
+            ],
+            [
+              "CNPJ",
+              "18.328.118/0001-09"
+            ],
+            [
+              "Situação",
+              "Ativa"
+            ],
+            [
+              "Abertura do CNPJ",
+              "2013, em São Paulo (SP)"
+            ],
+            [
+              "Atividade (CNAE)",
+              "Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação"
+            ],
+            [
+              "Endereço da sede",
+              "Rua Doutor Miguel Paulo Capalbo, 166, Pari, São Paulo (SP)"
+            ]
+          ],
+          "caption": "Cadastro da sede da Pet Center, a empresa que opera a Petz, pela consulta pública do CNPJ; o ticker da companhia combinada é explicado no texto."
+        },
+        "postParagraphs": [
+          "O CNPJ da tabela é o da sede, que aparece no regulamento da Black Friday. O rodapé do site mostra o de uma filial, com a mesma raiz, como explica a seção sobre o site oficial."
+        ]
+      },
+      {
+        "heading": "Cobasi e Petz: a mesma empresa",
+        "paragraphs": [
+          "Cobasi e Petz são marcas da mesma companhia. As duas assinaram a combinação de negócios em 2024, sujeita ao Cade, e o RI do grupo apresenta 2026 como o ano em que nasce o Grupo Petz Cobasi.",
+          "Segundo a Agência Brasil, o Cade aprovou a fusão com a venda de 26 lojas em São Paulo. As marcas seguem separadas, cada uma com o próprio site e app, e o grupo as apresenta como marcas da companhia.",
+          "Na hora da compra, confira em qual loja está: o EMCASA é do programa Parceiro Petz e vale no site e no app da Petz."
+        ]
+      },
+      {
+        "heading": "Como saber que o site é o oficial",
+        "paragraphs": [
+          "O endereço oficial é petz.com.br, com o domínio registrado desde 2007. Antes de digitar qualquer dado, confira o endereço na barra do navegador, principalmente se o link chegou por anúncio ou mensagem.",
+          "Depois, desça até o rodapé. Na versão para computador, ali estão a razão social Pet Center Comércio e Participações S/A e o CNPJ 18.328.118/0013-42, de uma filial ativa da empresa. O número muda no fim, mas os oito primeiros dígitos, 18.328.118, são os mesmos da sede. No celular, o rodapé mostra a razão social e o endereço, sem o CNPJ.",
+          "Confira sempre petz.com.br na barra do navegador. No Reclame Aqui, procure o perfil Petz - Loja Online pelo nome e pelo site cadastrado, petz.com.br; a aba Sobre não mostra CNPJ.",
+          "O app segue a mesma regra: baixe pelos links da App Store e do Google Play que estão na home de petz.com.br, e não pelo primeiro resultado de uma busca."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/petz/petz-e-confiavel-site-oficial-rodape.webp",
+            "alt": "Rodapé do site oficial da Petz, petz.com.br, na versão para computador, com a razão social e o CNPJ",
+            "caption": "O rodapé de petz.com.br na versão para computador, com a razão social e o CNPJ de uma filial, em trecho ampliado para leitura. Print do site da Petz.",
+            "objectFit": "contain",
+            "aspectRatio": 8.4043
+          }
+        ]
+      },
+      {
+        "heading": "Entrega: prazo, frete e retirada",
+        "paragraphs": [
+          "A entrega padrão leva até 3 dias úteis em algumas regiões. A Entrega Expressa chega em poucas horas, também só em algumas regiões, e não aceita boleto. No checkout, o CEP mostra quais modalidades entram no seu endereço, e o prazo de cada uma muda por região.",
+          "A loja informa: as entregas são de segunda a sexta, das 8h às 22h, com duas tentativas. Pode haver taxa de serviço no pedido online."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Ponto",
+            "O que a loja publica"
+          ],
+          "rows": [
+            [
+              "Entrega padrão",
+              "Em até 3 dias úteis, em algumas regiões"
+            ],
+            [
+              "Entrega Expressa",
+              "Em poucas horas, por região; sem boleto"
+            ],
+            [
+              "Frete grátis",
+              "Entrega padrão: Sul e Sudeste acima de R$ 199; Norte, Nordeste e Centro-Oeste acima de R$ 299"
+            ],
+            [
+              "Atraso na Entrega Expressa",
+              "O frete volta em dobro, como crédito"
+            ],
+            [
+              "Retire na Loja",
+              "5% em compras acima de R$ 199, no Centro-Oeste, Sul e Sudeste; retirada em até 28 dias corridos depois do aviso de liberação"
+            ]
+          ],
+          "caption": "Regras da política de entrega e do frete grátis."
+        },
+        "postParagraphs": [
+          "O frete grátis depende da região e do valor do pedido. Medicamentos ganham frete grátis acima de R$ 199 em todo o Brasil. Casas, arranhadores, portões e extensores, carrinhos, gaiolas e viveiros ficam fora dessa regra, e pedido acima de 50 kg cubados paga frete.",
+          "O desconto também mexe no frete. Se um cupom deixa o pedido abaixo do mínimo, o frete grátis sai, então confira o total depois de aplicar o código, e não antes."
+        ]
+      },
+      {
+        "heading": "Troca e devolução na Petz",
+        "paragraphs": [
+          "Na compra online, você tem 7 dias corridos depois do recebimento para desistir. Para reclamar de defeito aparente, o prazo é de 30 dias em produtos não duráveis e 90 dias em duráveis, contados da entrega. Em defeito oculto, o prazo começa quando o defeito fica evidente."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Caso",
+            "O que a loja publica"
+          ],
+          "rows": [
+            [
+              "Desistência, compra online",
+              "7 dias corridos depois do recebimento"
+            ],
+            [
+              "Defeito aparente em item não durável",
+              "30 dias corridos da entrega para reclamar"
+            ],
+            [
+              "Defeito aparente em item durável",
+              "90 dias corridos da entrega para reclamar"
+            ],
+            [
+              "Onde trocar",
+              "Em qualquer loja Petz, com embalagem, lacres e nota"
+            ],
+            [
+              "Coleta",
+              "Em até 10 dias úteis"
+            ],
+            [
+              "Reembolso no Pix",
+              "Em 48 horas úteis depois da aprovação"
+            ],
+            [
+              "Reembolso no boleto",
+              "Em 7 dias úteis"
+            ],
+            [
+              "Reembolso no cartão",
+              "Até 60 dias, conforme a fatura (a página de pagamentos diz 7 dias úteis)"
+            ]
+          ],
+          "caption": "Prazos publicados nas páginas de trocas e de pagamentos."
+        },
+        "postParagraphs": [
+          "Guarde a embalagem e a nota enquanto avalia a compra. A política da Petz informa as condições para troca em loja.",
+          "O cancelamento e a devolução também podem ser pedidos em Meus Pedidos ou no Alô Petz. O vale-troca de reembolso só vale no app ou no site, por 90 dias.",
+          "No cartão, a página de trocas diz que o estorno sai em até 60 dias, conforme a fatura, e a de pagamentos fala em 7 dias úteis. Se esse dinheiro faz falta no mês, pergunte ao Alô Petz antes de contar com ele."
+        ]
+      },
+      {
+        "heading": "Garantia das marcas próprias",
+        "paragraphs": [
+          "As marcas próprias da Petz, como Selections, Nutrifresh, rações para pássaros e roedores e os úmidos, têm a garantia Satisfação 100% Garantida.",
+          "A troca sai por cupom, em até 30 dias, e o produto precisa estar com ao menos 70% do peso. São duas trocas por tipo a cada 6 meses, e uma embalagem aberta por pedido.",
+          "Essa garantia é só da marca própria. Para o resto do catálogo, valem as regras de troca do capítulo anterior."
+        ]
+      },
+      {
+        "heading": "Atendimento: telefone, horários e dados",
+        "bullets": [
+          "Alô Petz: (11) 3434-6980.",
+          "Segunda a sexta, das 8h às 21h; sábado, das 8h às 18h; domingo e feriados, das 9h às 16h.",
+          "Atendimento inteligente: petz.com.br/atendimento-inteligente.",
+          "Dados pessoais: o encarregado responde pelo e-mail dpo@petzcobasi.com.br."
+        ],
+        "postParagraphs": [
+          "Esses canais estão publicados no site da Petz. Guarde o número do pedido antes de falar com o atendimento."
+        ]
+      },
+      {
+        "heading": "O que dizem os clientes no Reclame Aqui",
+        "paragraphs": [
+          "No perfil Petz - Loja Online, a reputação foi Ótima e 89% das reclamações foram resolvidas de maio a outubro de 2026. Produto não recebido e atraso na entrega aparecem entre os principais motivos registrados no período.",
+          "Os números de cada período e as reclamações mais recentes estão no [artigo sobre a nota da Petz no Reclame Aqui](/reviews/petz-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Vale comprar na Petz",
+        "paragraphs": [
+          "A Petz publica regras de entrega e troca, e o perfil da loja online teve reputação Ótima no Reclame Aqui de maio a outubro de 2026. Antes de comprar, confira o prazo para seu CEP e as condições do pedido.",
+          "O veredito se baseia nas regras que a própria Petz publica. Para remédio e antipulgas, leia o rótulo e, na dúvida, fale com o veterinário.",
+          "Se for comprar, o EMCASA dá 10% OFF e vale em todas as compras no site e no app, pelo que diz o programa Parceiro Petz. Em produto que já está em oferta, a sacola fica com o desconto maior, item a item. Confira as condições na página do [cupom Petz](/cupons/petz)."
+        ],
+        "emphasis": "Antes de pagar, confira se está em petz.com.br e veja o prazo de entrega para seu CEP.",
+        "emphasisAfterParagraph": 2
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Petz e Cobasi são a mesma empresa? Fazem parte do mesmo grupo, o Grupo Petz Cobasi, mas seguem como marcas separadas, cada uma com o próprio site e app. O EMCASA é só da Petz.",
+          "Quem é o dono da Petz? Sergio Zimerman fundou a Petz, segundo o RI do grupo. Hoje, o Grupo Petz Cobasi é uma companhia aberta, com ações negociadas na B3 sob o código AUAU3; a composição dos acionistas pode ser consultada no site de relações com investidores do grupo.",
+          "A Petz entrega no mesmo dia? A Entrega Expressa chega em poucas horas, só em algumas regiões, e a padrão leva até 3 dias úteis em algumas regiões. No checkout, com o seu CEP, aparece a modalidade que entra no seu endereço e o prazo dela.",
+          "Posso trocar na loja física o que comprei no site? A política diz que a troca vale em qualquer loja Petz, com embalagem, lacres e nota. Leve a nota e o produto na embalagem original."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você quer comprar pelo site ou pelo app da Petz e pode conferir o prazo para seu CEP antes de fechar o pedido.",
+        "As condições de entrega, troca e reembolso publicadas pela Petz atendem à sua compra."
+      ],
+      "skipIf": [
+        "Você precisa do produto no mesmo dia em qualquer cidade: a Entrega Expressa chega em poucas horas, mas só em algumas regiões.",
+        "O prazo mostrado para seu CEP não atende à urgência do seu pedido."
+      ]
+    },
+    "cta": {
+      "text": "Se a Petz faz sentido para a sua compra, entre pelo botão e cole o EMCASA no campo “Digite seu cupom” da sacola.",
+      "label": "Ir para a Petz",
+      "url": "https://petz.com.br/parceiro/emcasa",
+      "sponsored": true
+    },
+    "coupon": "EMCASA",
+    "affiliate": "petz",
+    "editorialNote": "Feito com fontes públicas e um teste da sacola do site, sem finalizar a compra e sem uso dos produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "petz-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "cupom-petz-como-usar"
+      },
+      {
+        "slug": "black-friday-petz"
+      }
+    ]
+  },
+  {
+    "id": 902,
+    "slug": "petz-reclame-aqui-nota-reputacao",
+    "locale": "pt",
+    "title": "Petz no Reclame Aqui: nota, reputação e o que mais gera reclamação",
+    "seoTitle": "Petz no Reclame Aqui: nota e principais reclamações",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Petz no Reclame Aqui: reputação Ótima, nota 8,3 e índice de solução de 89% nos últimos seis meses. Veja as principais queixas e como achar o perfil certo.",
+    "metaDescription": "EMCASA dá 10% OFF no site e no app da Petz. Veja a nota no Reclame Aqui, as queixas de entrega e como reconhecer o perfil certo.",
+    "publishedAt": "11 de novembro de 2026",
+    "publishedAtISO": "2026-11-11",
+    "updatedAt": "2026-11-11",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/petz/petz-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Pacote da ração Golden Fórmula Senior e o topo do perfil Petz - Loja Online no Reclame Aqui, com a reputação Ótima",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O perfil \"Petz - Loja Online\" tem reputação Ótima e nota 8,3 nos últimos seis meses. A plataforma mostra 99,6% de respostas e índice de solução de 89%; produto não recebido e atraso estão entre os principais motivos. Veja como identificar o perfil e o que conferir antes de comprar."
+        ]
+      },
+      {
+        "heading": "A nota em números",
+        "paragraphs": [
+          "O perfil \"Petz - Loja Online\" está no Reclame Aqui há 18 anos, na categoria Pet E-commerce. A página oferece quatro períodos: a tabela abaixo traz os recortes recentes, e os anos completos aparecem na seção seguinte."
+        ],
+        "comparisonTable": {
+          "caption": "Perfil \"Petz - Loja Online\". 6 meses: maio a outubro de 2026. 12 meses: os doze meses encerrados em outubro de 2026. As janelas se sobrepõem.",
+          "headers": [
+            "Indicador",
+            "6 meses",
+            "12 meses"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Ótima",
+              "Ótima"
+            ],
+            [
+              "Nota",
+              "8,3",
+              "8,2"
+            ],
+            [
+              "Reclamações recebidas",
+              "3.519",
+              "7.395"
+            ],
+            [
+              "Respondidas",
+              "99,6%",
+              "99,8%"
+            ],
+            [
+              "Resolvidas",
+              "89%",
+              "88,2%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "74,4%",
+              "72,8%"
+            ],
+            [
+              "Avaliadas",
+              "2.173",
+              "4.642"
+            ],
+            [
+              "Nota média do consumidor",
+              "7,07",
+              "6,99"
+            ],
+            [
+              "Tempo médio de resposta",
+              "4 dias e 17 horas",
+              "4 dias e 4 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nos seis meses, 13 reclamações aguardavam resposta e 2.173 foram avaliadas pelos consumidores. A nota média do consumidor é uma medida diferente da nota geral do perfil."
+        ]
+      },
+      {
+        "heading": "Como a nota mudou",
+        "paragraphs": [
+          "De 2024 para 2025, dois anos completos, a reputação passou de Boa para Ótima e a nota subiu de 7,9 para 8,2. Os índices de solução e de consumidores que voltariam a fazer negócio também aumentaram.",
+          "O perfil recebeu 8.241 reclamações em 2024 e 8.266 em 2025. Nos seis meses, a nota foi 8,3 e a reputação ficou Ótima em cada mês.",
+          "As janelas de seis e 12 meses se sobrepõem a outros períodos da tabela e têm durações diferentes. Elas mostram retratos recentes, mas não formam uma sequência anual diretamente comparável."
+        ],
+        "comparisonTable": {
+          "caption": "Anos completos de 2024 e 2025 do mesmo perfil.",
+          "headers": [
+            "Indicador",
+            "2024",
+            "2025"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Boa",
+              "Ótima"
+            ],
+            [
+              "Nota",
+              "7,9",
+              "8,2"
+            ],
+            [
+              "Reclamações recebidas",
+              "8.241",
+              "8.266"
+            ],
+            [
+              "Respondidas",
+              "100%",
+              "100%"
+            ],
+            [
+              "Resolvidas",
+              "85,2%",
+              "88,2%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "69,6%",
+              "72%"
+            ],
+            [
+              "Avaliadas",
+              "5.345",
+              "5.518"
+            ],
+            [
+              "Nota média do consumidor",
+              "6,66",
+              "6,95"
+            ],
+            [
+              "Tempo médio de resposta",
+              "6 dias e 8 horas",
+              "3 dias e 6 horas"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "O que mais gera reclamação",
+        "paragraphs": [
+          "Na aba geral, com recorte de até três anos, o Reclame Aqui destaca atraso na entrega como problema (27,52%), ração como produto (38,71%) e Pets Alimentos como categoria (31,43%). São classificações diferentes das reclamações exibidas, não percentuais de todos os pedidos.",
+          "Na aba Sobre, o próprio perfil lista como principais motivos, nos seis meses, o produto que não chegou e o atraso na entrega. As queixas mais recentes seguem a mesma linha: areia que não chegou, pedido que não chegou no prazo, ração de gato entregue no lugar da de cachorro sem a troca feita e uma entrega de poucas horas em que só um de dois pacotes chegou.",
+          "Para quem compra ração todo mês, o prazo é o ponto para conferir antes de cada pedido."
+        ]
+      },
+      {
+        "heading": "Qual perfil é a Petz",
+        "paragraphs": [
+          "A busca por \"petz\" no Reclame Aqui lista dezenas de empresas com nome parecido. Antes de tirar qualquer conclusão, confira o perfil pelo nome exato e pelo site cadastrado. A Petz aparece com dois perfis: \"Petz - Loja Online\", analisado aqui, e \"Petz - Loja Física\", com nota 7,9 na página. Os dois apontam para petz.com.br.",
+          "Para esta análise, procure exatamente \"Petz - Loja Online\" e confira se o site cadastrado é petz.com.br. O perfil \"Petz - Loja Física\" também aponta para esse site, mas tem indicadores próprios.",
+          "O Reclame Aqui não mostra CNPJ nesse perfil, então o número não serve para identificá-lo ali. No site, o regulamento da Black Friday traz o CNPJ da sede, 18.328.118/0001-09, e o rodapé da versão para computador mostra o de uma filial, com os mesmos oito primeiros dígitos."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/petz/petz-reclame-aqui-nota-reputacao-painel.webp",
+            "alt": "Painel do perfil Petz - Loja Online no Reclame Aqui, com a reputação Ótima e a nota 8,3 da aba de 6 meses",
+            "caption": "Painel do perfil no Reclame Aqui, com a aba de 6 meses aberta.",
+            "objectFit": "contain",
+            "aspectRatio": 1.2368
+          }
+        ]
+      },
+      {
+        "heading": "Como evitar dor de cabeça",
+        "paragraphs": [
+          "Os pontos abaixo cobrem as queixas mais comuns deste perfil."
+        ],
+        "bullets": [
+          "Confira o prazo pelo CEP antes de pagar. A entrega padrão chega em até 3 dias úteis em algumas regiões. A Entrega Expressa leva poucas horas, por região, e não aceita boleto. Se a expressa atrasar, a Petz devolve o frete em dobro como crédito.",
+          "Use o Retire na Loja quando der. Ele dá 5% em compras acima de R$ 199, no Centro-Oeste, Sul e Sudeste, e a retirada precisa ser feita em até 28 dias depois do aviso por e-mail ou WhatsApp. Para somar o EMCASA com esses 5%, veja [como usar o cupom EMCASA na Petz](/reviews/cupom-petz-como-usar).",
+          "Confira o pedido na entrega. Antes de assinar o recebimento, compare os itens e as quantidades com o que está em Meus Pedidos. Se faltar algo ou vier outro produto, registre isso logo, pelo canal da compra.",
+          "Para desistir da compra online, são 7 dias corridos após o recebimento. Para reclamar de defeito aparente, são 30 dias da entrega para itens não duráveis e 90 para duráveis.",
+          "Anote o Alô Petz: (11) 3434-6980. De segunda a sexta, das 8h às 21h; sábado, das 8h às 18h; domingo e feriados, das 9h às 16h."
+        ]
+      },
+      {
+        "heading": "Se der problema",
+        "paragraphs": [
+          "Comece pelos canais da própria Petz: Meus Pedidos no site ou no app, o Alô Petz e, se a compra foi na loja física, a loja onde você comprou. Cancelamento e devolução também se pedem em Meus Pedidos ou no Alô Petz.",
+          "Se o atendimento não resolver, você pode registrar a queixa no Reclame Aqui. Tenha à mão o número do pedido e a data em que o prazo combinado venceu."
+        ]
+      },
+      {
+        "heading": "O que os números indicam",
+        "paragraphs": [
+          "O perfil \"Petz - Loja Online\" tem reputação Ótima e nota 8,3 nos últimos seis meses. O índice de solução é de 89%, e 74,4% dos consumidores que avaliaram voltariam a fazer negócio. Esses indicadores ajudam a ler o atendimento às reclamações, sem garantir o resultado de um pedido individual.",
+          "Produto não recebido e atraso na entrega estão entre os principais motivos listados no perfil. Guarde o número do pedido para o caso de precisar do atendimento. Para conhecer a empresa e as regras de troca, veja [Petz é confiável?](/reviews/petz-e-confiavel).",
+          "Se decidir comprar, o EMCASA dá 10% e vale em todas as compras no site e no app, pelo que diz o programa Parceiro Petz. As regras estão no [cupom Petz](/cupons/petz)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Petz é confiável no Reclame Aqui? O perfil \"Petz - Loja Online\" tem reputação Ótima no recorte analisado. As tabelas mostram os indicadores recentes e os dos anos completos.",
+          "A Petz responde às reclamações? Quase todas. O capítulo \"A nota em números\" mostra o percentual e o tempo médio de resposta de cada período.",
+          "O que fazer se a Petz não entregou? Fale primeiro pelo Meus Pedidos ou pelo Alô Petz, com o número do pedido. Se não resolver, registre a queixa no Reclame Aqui, como mostra o capítulo \"Se der problema\"."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você compra na Petz pelo site ou pelo app e confere o prazo pelo CEP antes de pagar.",
+        "Você quer ver os índices do perfil certo, com o período de 6 meses e o de 12, antes de decidir."
+      ],
+      "skipIf": [
+        "Um atraso de alguns dias estraga a sua compra, porque atraso e produto que não chegou são os motivos mais citados do perfil.",
+        "Você precisa do produto numa data fixa e não tem como esperar um prazo que muda por região."
+      ]
+    },
+    "cta": {
+      "text": "Entre pelo botão e cole o EMCASA no campo \"Digite seu cupom\" da sacola. O link não aplica o código sozinho.",
+      "label": "Ir para a Petz",
+      "url": "https://petz.com.br/parceiro/emcasa",
+      "sponsored": true
+    },
+    "coupon": "EMCASA",
+    "affiliate": "petz",
+    "editorialNote": "Feito com fontes públicas, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "petz-e-confiavel"
+      },
+      {
+        "slug": "cupom-petz-como-usar"
+      },
+      {
+        "slug": "black-friday-petz"
+      }
+    ]
+  },
+  {
+    "id": 903,
+    "slug": "black-friday-petz",
+    "locale": "pt",
+    "title": "Black Friday Petz 2026: regras, Clubz e quando o cupom ainda ajuda",
+    "seoTitle": "Black Friday Petz 2026: regras, Clubz e cupom",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Black Friday da Petz vai até o fim de novembro. Veja o que o regulamento faz com o cupom EMCASA, quando ele ainda dá mais que a oferta e o que o Clubz muda.",
+    "metaDescription": "EMCASA dá 10% OFF no site e no app da Petz. Na Black Friday, o cupom não soma com a oferta: veja quando ele ainda dá o maior desconto.",
+    "publishedAt": "11 de novembro de 2026",
+    "publishedAtISO": "2026-11-11",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/petz/black-friday-petz-capa.webp",
+    "imageAlt": "Pacote da ração Royal Canin Maxi Adult, o logo da Petz e o título Black Friday da Petz",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na Black Friday da Petz, o EMCASA dá 10% no site e no app, sem somar com a oferta do produto. Nos testes, a sacola manteve o menor preço por item. Compare também o frete e as condições do Clubz; a campanha está prevista até o fim de novembro."
+        ]
+      },
+      {
+        "heading": "Regras da campanha e datas",
+        "paragraphs": [
+          "A loja informa: a campanha vai de 30/10 a 30/11, e os cupons não somam com as ofertas da Black Friday nem com o desconto do Clubz. O sistema aplica o maior desconto entre eles.",
+          "Antes de montar a sacola, vale conferir o que o regulamento põe em volta do cupom:"
+        ],
+        "bullets": [
+          "Cupom não dá desconto no frete.",
+          "Os preços variam por região e canal; a referência do site e do app é São Paulo."
+        ],
+        "postParagraphs": [
+          "Para os cupons da campanha, o regulamento prevê um uso por CPF e cadastro, salvo comunicação diferente. O EMCASA vale em todas as compras no site e no app, pelo que diz o programa Parceiro Petz.",
+          "A sexta da Black Friday cai dentro da campanha. A campanha pode ser encerrada antes ou prorrogada, com aviso, por isso compare o preço da página no dia da compra."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/petz/black-friday-petz-banner-campanha.webp",
+            "alt": "Topo da página da Black Friday da Petz, com o título Petz friday, uma foto de campanha e o selo de descontos",
+            "caption": "Topo da página da campanha no site da Petz. Print da própria loja.",
+            "objectFit": "contain",
+            "aspectRatio": 2.2472
+          }
+        ]
+      },
+      {
+        "heading": "O que aconteceu na sacola com o EMCASA",
+        "paragraphs": [
+          "O cupom foi calculado sobre o preço cheio de cada produto. A sacola escolheu o preço final menor entre ele e a oferta, como mostram os três testes sem compra:"
+        ],
+        "comparisonTable": {
+          "caption": "Testes relatados com a campanha no ar, na referência de preços de São Paulo; os valores podem mudar por região e canal.",
+          "headers": [
+            "Produto",
+            "Preço cheio",
+            "Oferta na página",
+            "Com EMCASA na sacola"
+          ],
+          "rows": [
+            [
+              "Ração Golden Fórmula Mini Bits",
+              "R$ 22,99",
+              "Sem oferta",
+              "R$ 20,69 — cupom"
+            ],
+            [
+              "Sachê Royal Canin Instinctive 85 g",
+              "R$ 10,99",
+              "R$ 9,90",
+              "R$ 9,89 — cupom"
+            ],
+            [
+              "Ração Royal Canin Maxi Adult 12 kg",
+              "R$ 349,99",
+              "R$ 279,99",
+              "R$ 279,99 — oferta mantida"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na Golden e no sachê, o EMCASA reduziu o preço. Na Maxi, a oferta já dava mais desconto, por isso o preço permaneceu igual."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/petz/black-friday-petz-sache-royal-canin-instinctive.webp",
+            "alt": "Sachê de ração úmida Royal Canin Instinctive 85 g, em foto oficial da página do produto na Petz",
+            "caption": "Sachê Royal Canin Instinctive 85 g: a oferta e o cupom ficaram a um centavo, e a sacola usou o cupom. Foto: Petz.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Outras ofertas para comparar no site",
+        "paragraphs": [
+          "As três páginas abaixo também tinham ofertas superiores a 10%. Pela regra publicada, essas ofertas prevalecem; os itens não foram testados na sacola."
+        ],
+        "comparisonTable": {
+          "caption": "Preços vistos com a campanha no ar. As páginas não identificavam cada oferta como uma oferta específica de Black Friday.",
+          "headers": [
+            "Produto",
+            "Preço cheio",
+            "Oferta na página",
+            "10% EMCASA, cálculo"
+          ],
+          "rows": [
+            [
+              "Areia Petz Ultra Absorção para Gatos 4 kg",
+              "R$ 54,99",
+              "R$ 39,99",
+              "R$ 49,49"
+            ],
+            [
+              "Antipulgas Simparic Trio 6 mg para Cães",
+              "R$ 109,99",
+              "R$ 76,99",
+              "R$ 98,99"
+            ],
+            [
+              "Ossinho Original Dingo, 1 unidade",
+              "R$ 12,99",
+              "R$ 5,19",
+              "R$ 11,69"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O antipulgas aparece somente como exemplo de preço. Para escolher produto e apresentação para o seu animal, siga a orientação do veterinário."
+        ]
+      },
+      {
+        "heading": "Clubz na Black Friday: o que muda em cada nível",
+        "paragraphs": [
+          "O Clubz tem os níveis Bronze, Prata, Ouro e Diamante. Ouro e Diamante recebem 5% em CashPetz; o Diamante tem frete grátis na Entrega Padrão, sem mínimo, e isenção da taxa de serviço.",
+          "O CashPetz gerado na compra fica como crédito para compras futuras. Separe esse benefício do desconto que reduz o valor da sacola de hoje.",
+          "Na ação especial, quem contrata, sobe de nível ou renova recebe R$ 25 no Ouro ou R$ 50 no Diamante, com liberação em dezembro e uso até o fim do ano. O plano precisa continuar ativo na liberação.",
+          "Pelo regulamento, o desconto de membro Clubz não soma com cupom ou oferta da campanha: o sistema aplica o maior desconto entre eles. Confira os benefícios na sua conta e o total da sacola antes de pagar."
+        ]
+      },
+      {
+        "heading": "Assinatura na campanha não soma",
+        "paragraphs": [
+          "A assinatura não soma com as ofertas da campanha, como diz o regulamento. Fora da campanha, a assinatura dá 10% e não soma com cupom. A comparação entre assinatura e cupom está no [passo a passo do cupom](/reviews/cupom-petz-como-usar)."
+        ]
+      },
+      {
+        "heading": "Frete e retirada: o que muda na sacola",
+        "paragraphs": [
+          "Na Entrega Padrão, o frete grátis começa acima de R$ 199 no Sul e no Sudeste e acima de R$ 299 no Norte, no Nordeste e no Centro-Oeste. Para medicamentos, o mínimo informado é de R$ 199 em todo o Brasil.",
+          "O mínimo é contado depois dos cupons. Se o código deixa o pedido abaixo da faixa, o frete grátis não é aplicado. Aplique o EMCASA e compare o total com e sem ele antes de pagar.",
+          "O Retire na Loja é a exceção que somou com o EMCASA no teste: 5% em compras acima de R$ 199 no Centro-Oeste, Sul e Sudeste. Aguarde a mensagem de liberação; depois dela, há 28 dias corridos para buscar o pedido. No teste com duas rações Golden de 15 kg, a sacola de R$ 379,98 ficou em R$ 360,98 só com a retirada e em R$ 324,88 com retirada e EMCASA. O total corresponde aos dois descontos aplicados em sequência."
+        ]
+      },
+      {
+        "heading": "Compra com folga: prazo e reclamações",
+        "paragraphs": [
+          "No Reclame Aqui, nos últimos seis meses, atraso na entrega e produto não recebido aparecem entre os principais motivos do perfil da loja online.",
+          "Para a ração de uso diário, compre com folga antes de o pacote acabar. A entrega padrão leva até 3 dias úteis em algumas regiões, e a expressa é por região e não sai em boleto. Os números de reputação estão no [artigo sobre o Reclame Aqui da Petz](/reviews/petz-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Troca de compra da campanha",
+        "bullets": [
+          "Compra online da campanha: pedido de troca em até 7 dias corridos do recebimento, feita em qualquer loja Petz, com embalagem, lacres e nota.",
+          "Compra online: desistência em 7 dias corridos depois do recebimento.",
+          "Para reclamar de defeito aparente, o prazo é de 30 dias da entrega para itens não duráveis e 90 dias para duráveis. Em defeito oculto, a contagem começa quando ele aparece."
+        ],
+        "postParagraphs": [
+          "Guarde a nota e o número do pedido, e leia a política da loja antes de pedir a troca."
+        ]
+      },
+      {
+        "heading": "Quando o EMCASA ainda faz diferença",
+        "paragraphs": [
+          "Confira primeiro a oferta do produto, depois aplique o EMCASA e compare o total. O cupom ajuda nos itens sem oferta ou com oferta inferior a 10%, como nos exemplos testados; uma ração de compra recorrente também pode estar em promoção."
+        ],
+        "postParagraphs": [
+          "As condições do código estão em [cupom Petz](/cupons/petz). Para o campo da sacola e as etapas de aplicação, veja [como usar o EMCASA](/reviews/cupom-petz-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O cupom soma com a Black Friday da Petz? Não: pelo regulamento, cupom não soma com a oferta da campanha nem com o desconto do Clubz, e a sacola fica com o maior. O desconto de retirada na loja soma com o cupom, como mostra o capítulo de frete.",
+          "Quando é a Black Friday da Petz? A campanha está no ar, prevista até o fim de novembro, e inclui a sexta da Black Friday.",
+          "O que é o Clubz? É o programa de níveis da Petz, com Bronze, Prata, Ouro e Diamante. Ouro e Diamante recebem 5% em CashPetz, e o Diamante tem frete grátis na Entrega Padrão, sem mínimo.",
+          "Tem frete grátis na Black Friday? Na Entrega Padrão, valem as faixas do capítulo de frete; se o cupom deixar o pedido abaixo do mínimo, a gratuidade não é aplicada. Para Clubz Diamante, o regulamento informa frete grátis sem mínimo.",
+          "Até quando vai a Black Friday da Petz? Pelo regulamento, até o fim de novembro. A ação pode ser encerrada antes ou prorrogada, com aviso."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "O produto está sem oferta ou com oferta inferior a 10%, e o EMCASA baixa o preço dele na sacola."
+      ],
+      "skipIf": [
+        "Todos os itens já têm oferta superior a 10%: o desconto da oferta tende a prevalecer.",
+        "Você espera somar o cupom à oferta do produto: a sacola aplica o desconto maior."
+      ]
+    },
+    "cta": {
+      "text": "Entre pelo botão, cole o EMCASA no campo “Digite seu cupom” e confira o total com frete antes de pagar.",
+      "label": "Ir para a Petz",
+      "url": "https://petz.com.br/parceiro/emcasa",
+      "sponsored": true
+    },
+    "coupon": "EMCASA",
+    "affiliate": "petz",
+    "editorialNote": "Feito com os preços do site, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-petz-como-usar"
+      },
+      {
+        "slug": "petz-e-confiavel"
+      },
+      {
+        "slug": "petz-reclame-aqui-nota-reputacao"
       }
     ]
   }

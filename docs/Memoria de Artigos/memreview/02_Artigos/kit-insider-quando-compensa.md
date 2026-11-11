@@ -159,3 +159,10 @@ Fatos: `kit-insider-quando-compensa-fatos-3010.md`, ao lado.
 
 1. Links no formato que os artigos no ar de cada loja já usam (Insider: links de criador; Toda Up: `/discount/MAUAD` como veio). MAUAD é sobrenome da Cecília: só como código em frase, nunca em destaque. Tabela com o preço do cartão de 30/10, datado; cupom e Pix numa frase. Ninguém do site usou as peças; o que a ficha promete (tecido, caimento) vai atribuído. Pendentes do briefing: conferir no Chrome antes de publicar; sem confirmação, não afirma. Reler preços no dia.
 2. Separada da I4 (Natal): a I4 fica com o presente; esta, com a conta por peça. Kit 3 Daily economiza 2% e a Daily não aceita cupom: dizer. Kit 3 Tech com ® custa mais que as avulsas: dizer. Kit 2 cuecas a R$ 98,01 e o "segundo item 50%": conferir no Chrome. Kits de 10 cuecas esgotados em 30/10. **Pendente do Bruno:** teste do cupom no carrinho com o kit 5 Tech, sem finalizar; até o teste, o texto diz que a regra publicada não exclui kit, sem afirmar que o desconto aplica.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/insider/kit-insider-quando-compensa-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Kit real de cinco camisetas Tech da Insider em composição oficial da marca, ao lado da pergunta Kit Insider ou peças avulsas?
+- **Origem:** composição oficial da Insider com o kit de cinco camisetas Tech. Sem geração por IA.
+- **Lote 25 do piloto de capas (sequência 8 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-8-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/insider/kit-insider-quando-compensa-capa.webp`) fica no CDN, sem uso como capa.
