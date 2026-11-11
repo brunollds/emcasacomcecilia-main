@@ -317,3 +317,10 @@ Fase 2 do retrofit pedido pelo Bruno em 12/10/2026; folha de contato aprovada po
 - "Troca e devolução na Insider": gráfico nosso, sem palavras, `insider-troca-devolucao-prazos.webp` (7, 21 e 180 dias; a legenda diz quais são úteis e quais corridos).
 - A foto do kit de cuecas passou a quadrada (`objectFit: square`), sem as faixas do quadro 16:9.
 - Concorrentes seguem sem foto.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/insider/insider-vale-a-pena-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo usa a Tech T-Shirt Dark Powder marrom da Insider, com a camiseta inteira visível, em foto oficial.
+- **Origem:** foto oficial da Tech T-Shirt Dark Powder, peça inteira à vista, sem alterar corpo nem roupa; não é foto de uso da Cecília. Sem geração por IA.
+- **Lote 19 do piloto de capas (sequência 6 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-6-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/insider/insider-tech-t-shirt-preta-oficial.webp`) fica no CDN, sem uso como capa.

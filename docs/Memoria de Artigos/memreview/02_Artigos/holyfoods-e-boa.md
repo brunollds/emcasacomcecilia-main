@@ -191,3 +191,10 @@ No ar em 10/11/2026 (release 43c2b4af, PR #830). IndexNow enviado; probe de capt
 
 ## Releitura
 Preços e campanha depois do fim dos 30% (a oferta tinha fim anunciado para 12/11): trocar a tabela de preços, a de 100 g e o cenário pelos valores do momento.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/holyfoods/holyfoods-e-boa-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Prato de risoto Al Mare preparado, com a embalagem HolyFoods ao fundo, em imagem promocional oficial.
+- **Origem:** composição promocional oficial do risoto Al Mare, sem preparo nem degustação nossa. Substituta do Nutren Senior Zero Lactose, adiado por falta de foto inédita adequada. Sem geração por IA.
+- **Lote 19 do piloto de capas (sequência 6 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-6-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/holyfoods/holyfoods-e-boa-capa.webp`) fica no CDN, sem uso como capa.

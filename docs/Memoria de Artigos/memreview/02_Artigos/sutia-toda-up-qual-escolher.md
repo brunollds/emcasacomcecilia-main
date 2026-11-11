@@ -155,3 +155,10 @@ Fatos: `sutia-toda-up-qual-escolher-fatos-3010.md`, ao lado.
 
 1. Links no formato que os artigos no ar de cada loja já usam (Insider: links de criador; Toda Up: `/discount/MAUAD` como veio). MAUAD é sobrenome da Cecília: só como código em frase, nunca em destaque. Tabela com o preço do cartão de 30/10, datado; cupom e Pix numa frase. Ninguém do site usou as peças; o que a ficha promete (tecido, caimento) vai atribuído. Pendentes do briefing: conferir no Chrome antes de publicar; sem confirmação, não afirma. Reler preços no dia.
 2. Preço de 30/10 (Comfort Up R$ 189,90), datado; o R$ 170,91 do carrinho de 26/10 não entra. Comfort Line começa no P (sem PP). Composição e tabela de medidas: ler no Chrome antes de publicar. Sem alegação de saúde ou postura. T1, T3 e T4 não são corrigidos agora.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/sutia-toda-up-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Sutiã Comfort Line marrom da Toda Up, em foto oficial do produto, ao lado da chamada Up, Line ou Slim?
+- **Origem:** still oficial do Comfort Line marrom com alças (correção do Bruno no lugar do trio de modelos); o alt não diz que a foto mostra as três linhas. Sem geração por IA.
+- **Lote 20 do piloto de capas (sequência 6 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-6-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/toda-up/sutia-toda-up-qual-escolher-capa-discover.webp`) fica no CDN, sem uso como capa.

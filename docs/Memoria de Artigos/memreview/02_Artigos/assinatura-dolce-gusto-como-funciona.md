@@ -366,3 +366,10 @@ Para consultar o passo a passo ilustrado de como aplicar o código na tela de pa
 Organizar o cantinho do café para que ele funcione a favor da nossa rotina — e nunca contra o nosso orçamento — é uma das pequenas alegrias do dia a dia. Saber que você tem 25% de economia real nas cápsulas e a liberdade absoluta de cancelar sem taxas a qualquer instante quando a vida pedir uma pausa é o que traz verdadeira tranquilidade.
 
 Avalie com calma o consumo da sua casa, faça as contas com base nos sabores que sua família mais aprecia e aproveite cada xícara com a certeza de ter feito uma escolha inteligente, prática e sem amarras contratuais.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/dolcegusto/assinatura-dolce-gusto-como-funciona-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Quatro bebidas em copos de vidro, em imagem oficial da página de assinatura Dolce Gusto.
+- **Origem:** quatro bebidas da página oficial de assinatura Dolce Gusto (correção do Bruno no lugar das duas caixas isoladas). Sem geração por IA.
+- **Lote 20 do piloto de capas (sequência 6 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-6-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/dolcegusto/assinatura-dolce-gusto-como-funciona-capa-discover.webp`) fica no CDN, sem uso como capa.

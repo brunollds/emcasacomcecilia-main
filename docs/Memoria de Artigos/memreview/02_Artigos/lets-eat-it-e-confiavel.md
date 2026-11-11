@@ -231,3 +231,10 @@ Se você decidir vestir a sua mesa com esse mesmo carinho, lembre-se de ativar o
 | Cupom MAUAD: 5% OFF em todo o site, link comissionado com UTMs da Inbazz | src/lib/couponsData.ts (slug: letseatit) | Confirmado |
 | Link relativo para a página de cupom (/cupons/letseatit) | docs/CONTRATO-ARTIGO-AFILIADO.md | Confirmado |
 | Ausência de sobrenome "Mauad" solto em destaques de cupons | docs/MANUTENCAO-MENSAL.md | Confirmado |
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/letseatit/lets-eat-it-e-confiavel-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Chaleira azul Azure da Le Creuset em cenário de cozinha, em foto oficial fornecida pela Let's Eat It.
+- **Origem:** foto oficial da chaleira Azure Le Creuset, fornecida pela Let's Eat It, da mesma fonte exclusiva da capa antiga; logo branco oficial direto no verde. Sem geração por IA.
+- **Lote 19 do piloto de capas (sequência 6 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-6-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/letseatit/lets-eat-it-e-confiavel-capa-discover.webp`) fica no CDN, sem uso como capa.

@@ -193,3 +193,10 @@ Respostas do Bruno de 23/10/2026 ao lote de seis pautas. Ele aprovou as recomend
 - **As creatinas da Black Skull lado a lado: preço por 100 g de creatina:** `/images/reviews/black-skull/creatina-black-skull-preco-por-100g.webp`
 - **Creator ou Creatine: a página não explica a diferença:** `/images/reviews/black-skull/creatina-black-skull-creator-refil-500g.webp`
 - **Creatine Turbo: o que muda com a maltodextrina:** `/images/reviews/black-skull/creatina-black-skull-turbo-300g.webp`
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/black-skull/creatina-black-skull-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Frasco de Creatine Caps com 90 cápsulas da Black Skull sobre base clara, em foto oficial; uma das opções do guia.
+- **Origem:** foto oficial da Creatine Caps 90 cápsulas, opção tratada no guia, sem indicar que venceu pelo custo; chamada "Pó ou cápsulas?". Sem geração por IA.
+- **Lote 21 do piloto de capas (sequência 6 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-6-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/black-skull/creatina-black-skull-capa.webp`) fica no CDN, sem uso como capa.

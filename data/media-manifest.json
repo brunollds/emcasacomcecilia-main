@@ -37461,6 +37461,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bagaggio/bagaggio-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/bagaggio/bagaggio-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 167670,
+      "sha256": "69fcd4c7422ae6e4010675e358e7ca7243e4672d39b1ce31f9a884df2a3adc2a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bagaggio-e-confiavel-capa-v2.webp",
+      "storage_filename": "bagaggio-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bagaggio-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bagaggio-e-confiavel.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/bagaggio-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/69fcd4c7422ae6e4010675e358e7ca7243e4672d39b1ce31f9a884df2a3adc2a/bagaggio-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/69fcd4c7422ae6e4010675e358e7ca7243e4672d39b1ce31f9a884df2a3adc2a/bagaggio-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.512Z",
+      "verification_etag_or_digest": "69fcd4c7422ae6e4010675e358e7ca7243e4672d39b1ce31f9a884df2a3adc2a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/bagaggio/bagaggio-e-confiavel-capa.webp",
       "local_url": "/images/reviews/bagaggio/bagaggio-e-confiavel-capa.webp",
       "media_kind": "image",
@@ -38080,6 +38118,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-29T22:25:41.749Z",
       "verification_etag_or_digest": "0b9e6714bcd358032d38d1351b3bf8ff33284ce393bd548b19b3fb4dd128dc56",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/cupom-bagaggio-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/bagaggio/cupom-bagaggio-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43308,
+      "sha256": "931d4a93aef93eca2f6dd14a1729fb68db301caa26c5c4b8416588fd5293cad7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-bagaggio-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-bagaggio-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-bagaggio-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-bagaggio-como-usar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/cupom-bagaggio-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/931d4a93aef93eca2f6dd14a1729fb68db301caa26c5c4b8416588fd5293cad7/cupom-bagaggio-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/931d4a93aef93eca2f6dd14a1729fb68db301caa26c5c4b8416588fd5293cad7/cupom-bagaggio-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "931d4a93aef93eca2f6dd14a1729fb68db301caa26c5c4b8416588fd5293cad7",
       "verification_status": "verified"
     },
     {
@@ -40463,6 +40539,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/belive/belive-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/belive/belive-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 136172,
+      "sha256": "4c51d2caca40709279884c4a9c0f7b58600b6c2d868537fb908f6438c43f66b0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "belive-e-confiavel-capa-v2.webp",
+      "storage_filename": "belive-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/belive-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/belive-e-confiavel.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/belive/belive-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4c51d2caca40709279884c4a9c0f7b58600b6c2d868537fb908f6438c43f66b0/belive-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4c51d2caca40709279884c4a9c0f7b58600b6c2d868537fb908f6438c43f66b0/belive-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "4c51d2caca40709279884c4a9c0f7b58600b6c2d868537fb908f6438c43f66b0",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/belive/belive-e-confiavel-home.webp",
       "local_url": "/images/reviews/belive/belive-e-confiavel-home.webp",
       "media_kind": "image",
@@ -42827,6 +42941,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/black-skull/black-skull-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 62484,
+      "sha256": "1f368fa269af2c1b9ffa59372d07df63dd98b646cf6c02a9214ff62a38345860",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-e-confiavel-capa-v2.webp",
+      "storage_filename": "black-skull-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-e-confiavel.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/black-skull-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1f368fa269af2c1b9ffa59372d07df63dd98b646cf6c02a9214ff62a38345860/black-skull-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1f368fa269af2c1b9ffa59372d07df63dd98b646cf6c02a9214ff62a38345860/black-skull-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "1f368fa269af2c1b9ffa59372d07df63dd98b646cf6c02a9214ff62a38345860",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/black-skull/black-skull-mercado-livre-ou-site-capa.webp",
       "local_url": "/images/reviews/black-skull/black-skull-mercado-livre-ou-site-capa.webp",
       "media_kind": "image",
@@ -44036,6 +44188,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-23T22:31:30.577Z",
       "verification_etag_or_digest": "e24a558499bae40831d4c100bf649ee244c8d8b3b6708bb6267614f795021aa7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/creatina-black-skull-qual-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/black-skull/creatina-black-skull-qual-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50512,
+      "sha256": "5bce806e6d2dec1b855e48210551c07a2e9d3a54b237030b02e48b8e1ed4cfc9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-black-skull-qual-escolher-capa-v2.webp",
+      "storage_filename": "creatina-black-skull-qual-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-black-skull-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-black-skull-qual-escolher.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/creatina-black-skull-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5bce806e6d2dec1b855e48210551c07a2e9d3a54b237030b02e48b8e1ed4cfc9/creatina-black-skull-qual-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5bce806e6d2dec1b855e48210551c07a2e9d3a54b237030b02e48b8e1ed4cfc9/creatina-black-skull-qual-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "5bce806e6d2dec1b855e48210551c07a2e9d3a54b237030b02e48b8e1ed4cfc9",
       "verification_status": "verified"
     },
     {
@@ -47681,6 +47871,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/clea-store/cupom-clea-store-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/clea-store/cupom-clea-store-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64128,
+      "sha256": "b3dd77e817126ea7baf21eb23a1fbdc4ea1d139fb926ddc40651927f2e01c201",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-clea-store-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-clea-store-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-clea-store-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-clea-store-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/cupom-clea-store-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b3dd77e817126ea7baf21eb23a1fbdc4ea1d139fb926ddc40651927f2e01c201/cupom-clea-store-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b3dd77e817126ea7baf21eb23a1fbdc4ea1d139fb926ddc40651927f2e01c201/cupom-clea-store-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "b3dd77e817126ea7baf21eb23a1fbdc4ea1d139fb926ddc40651927f2e01c201",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/clea-store/looks-camiseta-basica-barrel-azul-claro.webp",
       "local_url": "/images/reviews/clea-store/looks-camiseta-basica-barrel-azul-claro.webp",
       "media_kind": "image",
@@ -48730,6 +48958,44 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.365Z",
       "verification_etag_or_digest": "0e2ded630f637a11209e01df2d7e504be30976cd4cfd214a877d09bd2d13203c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/cupons/cupom-ceci-nescafe-dolce-gusto-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/cupons/cupom-ceci-nescafe-dolce-gusto-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 195160,
+      "sha256": "599c0076d683d5732aa71e9c1c22f6f151b78e772bd8b2dd0300fd8bc494e9c1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-ceci-nescafe-dolce-gusto-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-ceci-nescafe-dolce-gusto-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar.json",
+          "line": 14,
+          "column": 13,
+          "literal": "/images/reviews/cupons/cupom-ceci-nescafe-dolce-gusto-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/599c0076d683d5732aa71e9c1c22f6f151b78e772bd8b2dd0300fd8bc494e9c1/cupom-ceci-nescafe-dolce-gusto-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/599c0076d683d5732aa71e9c1c22f6f151b78e772bd8b2dd0300fd8bc494e9c1/cupom-ceci-nescafe-dolce-gusto-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "599c0076d683d5732aa71e9c1c22f6f151b78e772bd8b2dd0300fd8bc494e9c1",
       "verification_status": "verified"
     },
     {
@@ -53387,6 +53653,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/poltrona-amamentacao-rotina-capa-v2.webp",
+      "local_url": "/images/reviews/damie/poltrona-amamentacao-rotina-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 91138,
+      "sha256": "bfa71dcaaf575d86697a1ac1a829ca8338c97cf5f73c721bd46f792ac162b01a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-amamentacao-rotina-capa-v2.webp",
+      "storage_filename": "poltrona-amamentacao-rotina-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-amamentacao-rotina.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-amamentacao-rotina.json",
+          "line": 10,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltrona-amamentacao-rotina-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bfa71dcaaf575d86697a1ac1a829ca8338c97cf5f73c721bd46f792ac162b01a/poltrona-amamentacao-rotina-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bfa71dcaaf575d86697a1ac1a829ca8338c97cf5f73c721bd46f792ac162b01a/poltrona-amamentacao-rotina-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "bfa71dcaaf575d86697a1ac1a829ca8338c97cf5f73c721bd46f792ac162b01a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/poltrona-amamentacao-vs-reclinavel-hero.webp",
       "local_url": "/images/reviews/damie/poltrona-amamentacao-vs-reclinavel-hero.webp",
       "media_kind": "image",
@@ -55445,6 +55749,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/sofa-damie-na-caixa-vale-a-pena-o-modular-capa-v2.webp",
+      "local_url": "/images/reviews/damie/sofa-damie-na-caixa-vale-a-pena-o-modular-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 110360,
+      "sha256": "a48b671750375e4de4f910650a4d2a1303a89a8b3c152b933aeaff8565eb86f0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sofa-damie-na-caixa-vale-a-pena-o-modular-capa-v2.webp",
+      "storage_filename": "sofa-damie-na-caixa-vale-a-pena-o-modular-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sofa-damie-na-caixa-vale-a-pena-o-modular.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sofa-damie-na-caixa-vale-a-pena-o-modular.json",
+          "line": 66,
+          "column": 13,
+          "literal": "/images/reviews/damie/sofa-damie-na-caixa-vale-a-pena-o-modular-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a48b671750375e4de4f910650a4d2a1303a89a8b3c152b933aeaff8565eb86f0/sofa-damie-na-caixa-vale-a-pena-o-modular-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a48b671750375e4de4f910650a4d2a1303a89a8b3c152b933aeaff8565eb86f0/sofa-damie-na-caixa-vale-a-pena-o-modular-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "a48b671750375e4de4f910650a4d2a1303a89a8b3c152b933aeaff8565eb86f0",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/sofa-na-caixa-inflow-ou-damie-capa-discover.webp",
       "local_url": "/images/reviews/damie/sofa-na-caixa-inflow-ou-damie-capa-discover.webp",
       "media_kind": "image",
@@ -55972,6 +56314,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-02T22:42:31.462Z",
       "verification_etag_or_digest": "fcd656f264c4e1716d13ae85abd6faf1c810a7922cddb8e1e45ba50140ad3115",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/assinatura-dolce-gusto-como-funciona-capa-v2.webp",
+      "local_url": "/images/reviews/dolcegusto/assinatura-dolce-gusto-como-funciona-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 90086,
+      "sha256": "29f9b02d091ed885e326e2a43d6f68f56401317a847481eb35088c9ed78be1ee",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "assinatura-dolce-gusto-como-funciona-capa-v2.webp",
+      "storage_filename": "assinatura-dolce-gusto-como-funciona-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/assinatura-dolce-gusto-como-funciona.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/assinatura-dolce-gusto-como-funciona.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/assinatura-dolce-gusto-como-funciona-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/29f9b02d091ed885e326e2a43d6f68f56401317a847481eb35088c9ed78be1ee/assinatura-dolce-gusto-como-funciona-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/29f9b02d091ed885e326e2a43d6f68f56401317a847481eb35088c9ed78be1ee/assinatura-dolce-gusto-como-funciona-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "29f9b02d091ed885e326e2a43d6f68f56401317a847481eb35088c9ed78be1ee",
       "verification_status": "verified"
     },
     {
@@ -60715,6 +61095,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dolcegusto/tabela-medidas-dolce-gusto-ml-por-nivel-capa-v2.webp",
+      "local_url": "/images/reviews/dolcegusto/tabela-medidas-dolce-gusto-ml-por-nivel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 85204,
+      "sha256": "aa09940bdfe9594077fe15fdaa6b3311bf7741cb688a9b4f337d21a5aa3afdfb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tabela-medidas-dolce-gusto-ml-por-nivel-capa-v2.webp",
+      "storage_filename": "tabela-medidas-dolce-gusto-ml-por-nivel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/tabela-medidas-dolce-gusto-ml-por-nivel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/tabela-medidas-dolce-gusto-ml-por-nivel.json",
+          "line": 156,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/tabela-medidas-dolce-gusto-ml-por-nivel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/aa09940bdfe9594077fe15fdaa6b3311bf7741cb688a9b4f337d21a5aa3afdfb/tabela-medidas-dolce-gusto-ml-por-nivel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/aa09940bdfe9594077fe15fdaa6b3311bf7741cb688a9b4f337d21a5aa3afdfb/tabela-medidas-dolce-gusto-ml-por-nivel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "aa09940bdfe9594077fe15fdaa6b3311bf7741cb688a9b4f337d21a5aa3afdfb",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dr-peanut/black-friday-dr-peanut-capa-discover-v2.webp",
       "local_url": "/images/reviews/dr-peanut/black-friday-dr-peanut-capa-discover-v2.webp",
       "media_kind": "image",
@@ -61270,6 +61688,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-20T15:12:33.925Z",
       "verification_etag_or_digest": "f8719ddfbd340da293e8c077a0e66625dd8cc365d9e54c2907e508261f296e84",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-e-boa-capa-v2.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-e-boa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 112084,
+      "sha256": "999b95b8e5e52a87af4f49e303207cffa631ca0b2e5225277431faadfa487cde",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-e-boa-capa-v2.webp",
+      "storage_filename": "dr-peanut-e-boa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-e-boa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-e-boa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/999b95b8e5e52a87af4f49e303207cffa631ca0b2e5225277431faadfa487cde/dr-peanut-e-boa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/999b95b8e5e52a87af4f49e303207cffa631ca0b2e5225277431faadfa487cde/dr-peanut-e-boa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "999b95b8e5e52a87af4f49e303207cffa631ca0b2e5225277431faadfa487cde",
       "verification_status": "verified"
     },
     {
@@ -62886,6 +63342,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-e-boa-capa-v2.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-e-boa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 156986,
+      "sha256": "86abe78ac32dba3025dee754226286ea9f9ddd167959c9d17836e3103d397c6e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-e-boa-capa-v2.webp",
+      "storage_filename": "holyfoods-e-boa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-e-boa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/holyfoods/holyfoods-e-boa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/86abe78ac32dba3025dee754226286ea9f9ddd167959c9d17836e3103d397c6e/holyfoods-e-boa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/86abe78ac32dba3025dee754226286ea9f9ddd167959c9d17836e3103d397c6e/holyfoods-e-boa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "86abe78ac32dba3025dee754226286ea9f9ddd167959c9d17836e3103d397c6e",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/holyfoods/holyfoods-e-boa-capa.webp",
       "local_url": "/images/reviews/holyfoods/holyfoods-e-boa-capa.webp",
       "media_kind": "image",
@@ -63003,6 +63497,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-05T14:48:18.740Z",
       "verification_etag_or_digest": "bb5c2f8a819a2df28b19142a0b626eed61cb75b148eb5cdb09416b08f4a974e3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 159476,
+      "sha256": "90966e9de13952694c1408f081093c973c732ae81f63e597a3fc57ac5cac199a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-e-confiavel-capa-v2.webp",
+      "storage_filename": "holyfoods-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/holyfoods/holyfoods-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/90966e9de13952694c1408f081093c973c732ae81f63e597a3fc57ac5cac199a/holyfoods-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/90966e9de13952694c1408f081093c973c732ae81f63e597a3fc57ac5cac199a/holyfoods-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "90966e9de13952694c1408f081093c973c732ae81f63e597a3fc57ac5cac199a",
       "verification_status": "verified"
     },
     {
@@ -77467,6 +77999,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/insider-store-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/insider/insider-store-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47034,
+      "sha256": "1051a2ad6552c00dee820169cd0db582111129c325420e38879974b972d447b4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-store-e-confiavel-capa-v2.webp",
+      "storage_filename": "insider-store-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-store-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-store-e-confiavel.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/insider-store-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1051a2ad6552c00dee820169cd0db582111129c325420e38879974b972d447b4/insider-store-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1051a2ad6552c00dee820169cd0db582111129c325420e38879974b972d447b4/insider-store-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "1051a2ad6552c00dee820169cd0db582111129c325420e38879974b972d447b4",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/insider-tabela-medidas-cueca-comfort-performance.webp",
       "local_url": "/images/reviews/insider/insider-tabela-medidas-cueca-comfort-performance.webp",
       "media_kind": "image",
@@ -77904,6 +78474,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-20T17:19:24.050Z",
       "verification_etag_or_digest": "85979660c117f95ff928fb5da0a7d8e9cd824c402fab90f97ea8b7f8e42994ba",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-vale-a-pena-capa-v2.webp",
+      "local_url": "/images/reviews/insider/insider-vale-a-pena-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 72218,
+      "sha256": "7ed97e9dd0c1e20bcbe8f329dbcfae9141c46563eee305720181513aa0ebf50c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-vale-a-pena-capa-v2.webp",
+      "storage_filename": "insider-vale-a-pena-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-vale-a-pena.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/insider-vale-a-pena-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7ed97e9dd0c1e20bcbe8f329dbcfae9141c46563eee305720181513aa0ebf50c/insider-vale-a-pena-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7ed97e9dd0c1e20bcbe8f329dbcfae9141c46563eee305720181513aa0ebf50c/insider-vale-a-pena-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "7ed97e9dd0c1e20bcbe8f329dbcfae9141c46563eee305720181513aa0ebf50c",
       "verification_status": "verified"
     },
     {
@@ -82466,6 +83074,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/iwannasleep/i-wanna-sleep-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/iwannasleep/i-wanna-sleep-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 93884,
+      "sha256": "cd3f2c67410e043e78142938dd02cc00488e8b599f37b2f3cf1ef7eaef79cccd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "i-wanna-sleep-e-confiavel-capa-v2.webp",
+      "storage_filename": "i-wanna-sleep-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/i-wanna-sleep-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/i-wanna-sleep-e-confiavel.json",
+          "line": 18,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/i-wanna-sleep-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/cd3f2c67410e043e78142938dd02cc00488e8b599f37b2f3cf1ef7eaef79cccd/i-wanna-sleep-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cd3f2c67410e043e78142938dd02cc00488e8b599f37b2f3cf1ef7eaef79cccd/i-wanna-sleep-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "cd3f2c67410e043e78142938dd02cc00488e8b599f37b2f3cf1ef7eaef79cccd",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-alturas.webp",
       "local_url": "/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-alturas.webp",
       "media_kind": "image",
@@ -85343,6 +85989,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/lejour/lejour-como-funciona-capa-v2.webp",
+      "local_url": "/images/reviews/lejour/lejour-como-funciona-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 99076,
+      "sha256": "c625a8b92b2783d62fd1aada42ec624f1ce457a67837b6133780e64c48cb3fe7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-como-funciona-capa-v2.webp",
+      "storage_filename": "lejour-como-funciona-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lejour-como-funciona.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lejour-como-funciona.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/lejour/lejour-como-funciona-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c625a8b92b2783d62fd1aada42ec624f1ce457a67837b6133780e64c48cb3fe7/lejour-como-funciona-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c625a8b92b2783d62fd1aada42ec624f1ce457a67837b6133780e64c48cb3fe7/lejour-como-funciona-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "c625a8b92b2783d62fd1aada42ec624f1ce457a67837b6133780e64c48cb3fe7",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/lejour/lejour-como-funciona-capa.webp",
       "local_url": "/images/reviews/lejour/lejour-como-funciona-capa.webp",
       "media_kind": "image",
@@ -85554,6 +86238,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T06:54:58.903Z",
       "verification_etag_or_digest": "5e7ea883b31686814267bcf08035fb2eb8b008ca4a2cc34a7b8f4b58563bf535",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lejour/lejour-ou-icasei-capa-v2.webp",
+      "local_url": "/images/reviews/lejour/lejour-ou-icasei-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 139526,
+      "sha256": "a48cfecc9037ad0603630bc25c5e71873cff2f84be99e7cff4de96cde3feaa5d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-ou-icasei-capa-v2.webp",
+      "storage_filename": "lejour-ou-icasei-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lejour-ou-icasei.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lejour-ou-icasei.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/lejour/lejour-ou-icasei-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a48cfecc9037ad0603630bc25c5e71873cff2f84be99e7cff4de96cde3feaa5d/lejour-ou-icasei-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a48cfecc9037ad0603630bc25c5e71873cff2f84be99e7cff4de96cde3feaa5d/lejour-ou-icasei-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "a48cfecc9037ad0603630bc25c5e71873cff2f84be99e7cff4de96cde3feaa5d",
       "verification_status": "verified"
     },
     {
@@ -87618,6 +88340,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-02T22:42:31.463Z",
       "verification_etag_or_digest": "04c8dd9ef2bc6c41620afe063125aeb8cf865a64459b398934393450db4f680c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/lets-eat-it-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/letseatit/lets-eat-it-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 135278,
+      "sha256": "b0ba1596924b9f88e2eee666446cdec857788684330b4c9aec39629f02c5675e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lets-eat-it-e-confiavel-capa-v2.webp",
+      "storage_filename": "lets-eat-it-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lets-eat-it-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lets-eat-it-e-confiavel.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/lets-eat-it-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b0ba1596924b9f88e2eee666446cdec857788684330b4c9aec39629f02c5675e/lets-eat-it-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b0ba1596924b9f88e2eee666446cdec857788684330b4c9aec39629f02c5675e/lets-eat-it-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "b0ba1596924b9f88e2eee666446cdec857788684330b4c9aec39629f02c5675e",
       "verification_status": "verified"
     },
     {
@@ -111474,6 +112234,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/simple-organic/kit-skincare-presente-simple-organic-capa-v2.webp",
+      "local_url": "/images/reviews/simple-organic/kit-skincare-presente-simple-organic-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46570,
+      "sha256": "6b52d6cb44a0f9f1df2a74e806c0060a5ab1cbd4c39e2bde375c5eb72bcef5d0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-skincare-presente-simple-organic-capa-v2.webp",
+      "storage_filename": "kit-skincare-presente-simple-organic-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-skincare-presente-simple-organic.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-skincare-presente-simple-organic.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/kit-skincare-presente-simple-organic-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6b52d6cb44a0f9f1df2a74e806c0060a5ab1cbd4c39e2bde375c5eb72bcef5d0/kit-skincare-presente-simple-organic-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6b52d6cb44a0f9f1df2a74e806c0060a5ab1cbd4c39e2bde375c5eb72bcef5d0/kit-skincare-presente-simple-organic-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "6b52d6cb44a0f9f1df2a74e806c0060a5ab1cbd4c39e2bde375c5eb72bcef5d0",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/simple-organic/kit-skincare-presente-simple-organic-capa.webp",
       "local_url": "/images/reviews/simple-organic/kit-skincare-presente-simple-organic-capa.webp",
       "media_kind": "image",
@@ -111655,6 +112453,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-03T21:10:51.184Z",
       "verification_etag_or_digest": "7f7991fdeb90c90b708cd0ef27c925f242e73fed0866ff096d87b64897af08cf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-e-boa-capa-v2.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-e-boa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 52664,
+      "sha256": "0e62359a50c5553bb518a3c5a663e667c1aa600955218084be48e3671a6e535f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-e-boa-capa-v2.webp",
+      "storage_filename": "simple-organic-e-boa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-e-boa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/simple-organic-e-boa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0e62359a50c5553bb518a3c5a663e667c1aa600955218084be48e3671a6e535f/simple-organic-e-boa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0e62359a50c5553bb518a3c5a663e667c1aa600955218084be48e3671a6e535f/simple-organic-e-boa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "0e62359a50c5553bb518a3c5a663e667c1aa600955218084be48e3671a6e535f",
       "verification_status": "verified"
     },
     {
@@ -114907,6 +115743,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-04T03:24:51.734Z",
       "verification_etag_or_digest": "dde82008a8e7f06c8eaa6ac52264fc7da68410e642961415a979578bf7f57f81",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/skelt-e-boa-capa-v2.webp",
+      "local_url": "/images/reviews/skelt/skelt-e-boa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 87090,
+      "sha256": "ec6fc28331b5b173cebfe7b99fc92f6dd69bfb26138373624dc86a24a5d7c50b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skelt-e-boa-capa-v2.webp",
+      "storage_filename": "skelt-e-boa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skelt-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skelt-e-boa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/skelt/skelt-e-boa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ec6fc28331b5b173cebfe7b99fc92f6dd69bfb26138373624dc86a24a5d7c50b/skelt-e-boa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ec6fc28331b5b173cebfe7b99fc92f6dd69bfb26138373624dc86a24a5d7c50b/skelt-e-boa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "ec6fc28331b5b173cebfe7b99fc92f6dd69bfb26138373624dc86a24a5d7c50b",
       "verification_status": "verified"
     },
     {
@@ -118864,6 +119738,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-30T19:41:07.773Z",
       "verification_etag_or_digest": "3ce79ff8ee85184dad792d052c3867d9d3b8cf70be0a301b41fc6bb5d0f6d96d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/sutia-toda-up-qual-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 83694,
+      "sha256": "48303e1a0e6e5aca4469825a45968b6709daff6ff5d8235dc76ed3c0703ed154",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sutia-toda-up-qual-escolher-capa-v2.webp",
+      "storage_filename": "sutia-toda-up-qual-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sutia-toda-up-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sutia-toda-up-qual-escolher.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/48303e1a0e6e5aca4469825a45968b6709daff6ff5d8235dc76ed3c0703ed154/sutia-toda-up-qual-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/48303e1a0e6e5aca4469825a45968b6709daff6ff5d8235dc76ed3c0703ed154/sutia-toda-up-qual-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T05:12:35.514Z",
+      "verification_etag_or_digest": "48303e1a0e6e5aca4469825a45968b6709daff6ff5d8235dc76ed3c0703ed154",
       "verification_status": "verified"
     },
     {
