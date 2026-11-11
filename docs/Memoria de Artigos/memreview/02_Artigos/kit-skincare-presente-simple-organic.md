@@ -10,9 +10,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Presente"
 anexo_tipo: "Anexo-Beleza"
-status: "pronto-para-gates"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "gates-e-pr"
+proxima_acao: "em 01/12 e no começo de dezembro, as revisões da seção 4 da Fila"
 bloqueado_por: null
 score_ponderado_total: 75
 data_criacao: "2026-11-10"
