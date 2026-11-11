@@ -7,9 +7,9 @@ parceiro_slug: "petz"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Lojas"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "preços das duas lojas no navegador em 11/11; redação"
+status: "publicado"
+responsavel: "Job-2 (Claude Opus 5.5)"
+proxima_acao: "01/12: reler preços e regras depois da Black Friday e refazer tabelas e veredito (seção Publicação)"
 bloqueado_por: "-"
 data_criacao: "2026-11-11"
 i18n_cluster: null
@@ -132,3 +132,18 @@ produto da cesta na Petz, com `href`.
 - **Preço de hoje:** as duas lojas estão em Black Friday. Os dois lados entram pelo preço da página, lido na mesma hora e no mesmo CEP; na Petz, com o EMCASA ou com a oferta, o que for maior, como a sacola mostra. A resposta rápida e o veredito dizem que a tabela é da Black Friday e que o preço muda depois de 30/11.
 - **Leitura com o PZ7:** a mesma cesta, na mesma hora, nas três lojas.
 - **Revisão:** 01/12, reler os preços das duas lojas e refazer as tabelas e o veredito.
+
+## Publicação (11/11/2026)
+
+- No ar em 11/11/2026, id 905: PR #870 (squash `b851a12c`), release `b851a12c` (deploy cef1304d, build 01a1ccbf), só PT. Smoke: a página com 200, título e og:image da capa no CDN, EMCASA e os links sponsored da Petz, nenhum link para a Cobasi ou a Petlove; `covers:check` 4/4; sitemap e llms.txt com os quatro; IndexNow no mesmo lote; captura 43113542018 aprovada pelo Bruno e verde.
+- Título: "Petz ou Cobasi: qual é mais barata com o mesmo produto". seoTitle: "Petz ou Cobasi: qual é mais barata no mesmo produto?".
+- Preços e regras lidos durante a Black Friday, no CEP 01310-100, sem login e sem finalizar a compra; as legendas das tabelas dizem "durante a Black Friday", sem data. As leituras estão em [[petz-leituras-pz5-pz8-1111]].
+- Revisão externa (Farol, ChatGPT, com análises do GPT-6.1 Terra) em 11/11, em `docs/auditoria-copy-artigos/petz-pz5-pz8-revisao-farol-20261111/` (local, fora do git). Cada troca foi conferida contra as leituras por dois checadores antes de entrar; as decisões estão em `docs/auditoria-copy-artigos/petz-pz5-pz8-20261111/v2-apos-revisao/DECISOES-REVISAO.md`. Ficaram de fora do parecer: a data nas legendas das tabelas e "maio a outubro de 2026" no Reclame Aqui (decisão do Bruno: sem data no corpo) e o nome "Frango, Arroz e Vegetais" da Golden cães nas tabelas (a página da Petz diz "Frango e Arroz"; o alt da foto descreve o saco).
+- Pendente: 01/12: reler os 9 itens da cesta nas duas lojas, na mesma hora e no CEP 01310-100 (Petz no navegador; Cobasi pela API do próprio site), refazer as quatro tabelas, a contagem (hoje 5, 3 e 1), a resposta rápida e o quadro de decisão; reler o frete (Petz e a Econômica da Cobasi em SP), a retirada e a Compra Programada da Cobasi e o Reclame Aqui dos dois perfis.
+
+## Imagens (aprovadas pelo Bruno em 11/11/2026)
+
+- **Capa:** `/images/reviews/petz/petz-ou-cobasi-capa.webp` (`imageFit: contain`), 1600 × 900, no painel lateral do `docs/GUIA-CAPAS-EDITORIAIS.md` (painel verde de 550 px, logo da Petz, chamada e o EMCASA numa caixa branca), montada com o `renderizar.cjs` do lote 27 adaptado, em `docs/auditoria-copy-artigos/petz-pz5-pz8-20261111/capas/` (local, fora do git).
+- **Alt da capa:** Pacote da ração Golden Gatos Castrados Frango, logo da Petz, a chamada “Petz ou Cobasi?” e o código EMCASA em destaque.
+- **Ração para gato castrado:** `/images/reviews/petz/petz-ou-cobasi-golden-gatos-castrados.webp` (square). Alt: Pacote da ração Golden Gatos Adultos Castrados Frango, em foto oficial da página do produto na Petz. Legenda: Golden Gatos Adultos Castrados Frango, a primeira ração de gato da tabela. Foto: Petz.
+- **Origem:** foto oficial da página do produto na Petz, capturada no navegador do app em 11/11 na resolução original e recortada sobre fundo branco. Sem geração por IA; nada da Cobasi ou da Petlove nas imagens. Folha de aprovação em `docs/auditoria-copy-artigos/petz-pz5-pz8-20261111/v2-apos-revisao/FOLHA-APROVACAO-IMAGENS.html` (local, fora do git).

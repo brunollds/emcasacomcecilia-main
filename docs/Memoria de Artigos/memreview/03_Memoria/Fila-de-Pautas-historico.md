@@ -466,3 +466,4 @@ Os artigos abaixo já existem e o Bing os põe entre a 4ª e a 9ª posição, ou
 ## Onboarding da Petz (Bruno, 11/11/2026)
 
 - **PZ1 a PZ4** ([[cupom-petz-como-usar]], [[petz-e-confiavel]], [[petz-reclame-aqui-nota-reputacao]], [[black-friday-petz]]): no ar em 11/11 (PR #862, release `4d50b265`), ids 900 a 903, só PT. Revisão externa do Farol (ChatGPT) conferida no navegador e imagens aprovadas pelo Bruno no mesmo dia. Saíram da seção 1 da Fila em 11/11; as revisões depois de 30/11 estão na seção 4.
+- **PZ5 a PZ8** ([[assinatura-petz-ou-cupom]], [[petz-ou-cobasi]], [[petz-ou-petlove]], [[petz-entrega-expressa-ou-retirar-na-loja]]): no ar em 11/11 (PR #870, release `b851a12c`), ids 904 a 907, só PT, com os preços e as sacolas da Black Friday. Revisão externa do Farol conferida contra as leituras e capas no painel lateral com o EMCASA, aprovadas pelo Bruno no mesmo dia. Saíram da seção 1 da Fila em 11/11; a releitura de 01/12 está na seção 4.
