@@ -8,6 +8,25 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## Insider: pautas laterais (11/11/2026)
+
+- **Pedido do Bruno:** as vendas do EMCASACOMCECILIA caíram de ~6,3 para ~2,9 por dia em novembro, e "cupom insider" é dominado pelos agregadores. A saída é buscar pautas laterais, pouco exploradas.
+- **Search Console (páginas *insider*, 3 meses até 10/11, 222 consultas):**
+  - Fora do cupom, o maior grupo é o de cueca: "cueca insider" 125 impressões (posição 13), "cuecas insider" 45, "cueca performace" 39 e "cueca comfort" 24 (essas duas sem a marca), "cueca slip insider" 15, "cueca insider é boa" 18, além de seamless e anti suor. Quase tudo entre as posições 9 e 13.
+  - Chegam às páginas consultas longas de assistentes de IA: "as camisetas básicas da Hering são uma boa compra para o verão? compare com Insider e Reserva", "vale mais a pena um kit de cuecas da Calvin Klein ou cuecas tecnológicas anti-suor?", "quais marcas de roupa básica premium valem a pena para o trabalho". Elas reforçam a série "Insider ou X" (Hering) e a Reserva como candidata.
+  - "Diferença Tech T-Shirt e Daily" aparece em 6 variações, na posição 1 a 7 (já coberta pelo `camiseta-insider-qual-escolher`).
+- **Autocompletar (google.com.br, 11/11):**
+  - Suor: "como evitar suor na camisa social", "mancha de suor na camisa", "como evitar mancha de suor na camisa", "camiseta por baixo da camisa social", "camiseta anti suor para usar por baixo", "undershirt insider", "undershirt block insider".
+  - Amassar: "camiseta que não amassa masculina/feminina/insider/hering/riachuelo"; "calça que não amassa masculina/social"; "roupa que não amassa para viagem".
+  - Odor: "camiseta anti odor funciona", "camiseta anti odor academia", "camiseta anti odor insider/hering".
+  - Cueca: "cueca anti suor" com 10 sugestões (insider, lupo, performance, comfort, "melhor cueca anti suor"); "melhor cueca para academia", "cueca boxer para academia"; "cueca slip ou boxer qual o melhor"; "melhor tecido para cueca boxer"; "cueca seamless insider é boa", "cueca seamless touch insider"; "cueca que não marca na roupa".
+  - Viagem: "calça para viagem de avião", "calça para viagem longa de avião".
+  - Presente: "presente amigo secreto masculino 50/100/150 reais".
+- **Descartadas:** "camiseta para trabalhar no sol" (a Insider não tem linha com proteção UV); Mirante (sem afiliação; entra na série "Insider ou X").
+- **Resultado:** IL1 a IL7 na Fila, seção 3, linha da Insider (GO do Bruno, 11/11). Nenhuma existia em `content/reviews`; a L14 da Let's Eat It entra na IL2.
+
+---
+
 ## Petz (11/11/2026)
 
 Pedido do Bruno: pautas da parceira nova, começando pelo pacote de onboarding (como usar o cupom, é confiável, Reclame Aqui) e a Black Friday, e já averiguando outros assuntos. Modelo de comparação: a categoria Petz da cupomtiff.
