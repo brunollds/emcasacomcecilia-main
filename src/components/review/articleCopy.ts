@@ -43,7 +43,6 @@ export type ArticleCopy = {
   demoVideo: (title: string) => string;
   breadcrumbLabel: string;
   // Rótulos das regras do bloco da loja; neutros, porque o código pode ser de recompensa ou de indicação.
-  ruleTestedLabel: string;
   ruleVerifiedLabel: string;
   // Sob o recorte depois de copiar. A recompensa vai no campo Reward Code; a indicação não se cola no
   // checkout, pesquisa-se no aplicativo.
@@ -119,7 +118,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoUnsupported: 'Seu navegador não suporta vídeos.',
     demoVideo: (title) => `Vídeo demonstrativo: ${title}`,
     breadcrumbLabel: 'Você está em',
-    ruleTestedLabel: 'Testado em',
     ruleVerifiedLabel: 'Conferido em',
     copiedHint: (store, kind) =>
       kind === 'reward'
@@ -180,7 +178,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoUnsupported: 'Your browser does not support videos.',
     demoVideo: (title) => `Demo video: ${title}`,
     breadcrumbLabel: 'You are here',
-    ruleTestedLabel: 'Tested on',
     ruleVerifiedLabel: 'Checked on',
     copiedHint: ({ brand }, kind) =>
       kind === 'reward'
@@ -241,7 +238,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoUnsupported: 'Tu navegador no admite vídeos.',
     demoVideo: (title) => `Vídeo demostrativo: ${title}`,
     breadcrumbLabel: 'Estás en',
-    ruleTestedLabel: 'Probado el',
     ruleVerifiedLabel: 'Comprobado el',
     copiedHint: ({ brand }, kind) =>
       kind === 'reward'
@@ -302,7 +298,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoUnsupported: 'Votre navigateur ne prend pas en charge les vidéos.',
     demoVideo: (title) => `Vidéo de démonstration${NBSP}: ${title}`,
     breadcrumbLabel: 'Vous êtes ici',
-    ruleTestedLabel: 'Testé le',
     ruleVerifiedLabel: 'Vérifié le',
     copiedHint: ({ brand }, kind) =>
       kind === 'reward'
@@ -363,7 +358,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoUnsupported: 'Dein Browser unterstützt keine Videos.',
     demoVideo: (title) => `Demovideo: ${title}`,
     breadcrumbLabel: 'Du bist hier',
-    ruleTestedLabel: 'Getestet am',
     ruleVerifiedLabel: 'Geprüft am',
     copiedHint: ({ brand }, kind) =>
       kind === 'reward'
@@ -424,7 +418,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoUnsupported: 'Il tuo browser non supporta i video.',
     demoVideo: (title) => `Video dimostrativo: ${title}`,
     breadcrumbLabel: 'Sei qui',
-    ruleTestedLabel: 'Testato il',
     ruleVerifiedLabel: 'Verificato il',
     copiedHint: ({ brand }, kind) =>
       kind === 'reward'
@@ -486,7 +479,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoUnsupported: '이 브라우저는 영상을 지원하지 않아요.',
     demoVideo: (title) => `시연 영상: ${title}`,
     breadcrumbLabel: '현재 위치',
-    ruleTestedLabel: '테스트일',
     ruleVerifiedLabel: '확인일',
     copiedHint: ({ brand }, kind) =>
       kind === 'reward'
@@ -547,7 +539,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoUnsupported: 'お使いのブラウザは動画に対応していません。',
     demoVideo: (title) => `デモ動画：${title}`,
     breadcrumbLabel: '現在位置',
-    ruleTestedLabel: 'テスト日',
     ruleVerifiedLabel: '確認日',
     copiedHint: ({ brand }, kind) =>
       kind === 'reward'
@@ -608,7 +599,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoUnsupported: '你的瀏覽器不支援影片。',
     demoVideo: (title) => `示範影片：${title}`,
     breadcrumbLabel: '目前位置',
-    ruleTestedLabel: '測試日期',
     ruleVerifiedLabel: '核實日期',
     copiedHint: ({ brand }, kind) =>
       kind === 'reward'
@@ -669,7 +659,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoUnsupported: '你的浏览器不支持视频。',
     demoVideo: (title) => `演示视频：${title}`,
     breadcrumbLabel: '当前位置',
-    ruleTestedLabel: '测试日期',
     ruleVerifiedLabel: '核实日期',
     copiedHint: ({ brand }, kind) =>
       kind === 'reward'

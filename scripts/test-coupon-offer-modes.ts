@@ -9,7 +9,7 @@ import {
   MERCADO_LIVRE_COUPONS_URL,
   type AffiliateLinkOffer,
 } from '../src/lib/couponsData';
-import { getOfferMonth } from '../src/lib/offerMonth';
+import { getBrasiliaDate, getCouponMetaTitle, getOfferMonth } from '../src/lib/offerMonth';
 
 const shein = COUPONS.find((coupon) => coupon.slug === 'shein');
 assert.ok(shein && shein.offerMode === 'affiliate-link', 'SHEIN deve existir como affiliate-link');
@@ -185,6 +185,27 @@ const untested = COUPONS.filter(
 ).map((coupon) => coupon.slug);
 assert.deepEqual(untested, [], `Lojas com código sem testNote: ${untested.join(', ')}`);
 
+// O teste no carrinho tem data própria (testedAt), que só muda com teste real. O lastVerified, a conferência das
+// condições, nunca é anterior a ele. Código perene sem teste há mais de 90 dias avisa, sem parar o build: o teste
+// volta quando a oferta muda, quando alguém avisa que o código falhou ou nesse prazo.
+const TEST_WARNING_DAYS = 90;
+const todayInBrasilia = getBrasiliaDate();
+for (const coupon of COUPONS) {
+  if (coupon.offerMode !== 'discount-code') continue;
+  if (!coupon.testNote) {
+    assert.equal(coupon.testedAt, undefined, `${coupon.slug}: testedAt sem testNote`);
+    continue;
+  }
+  assert.match(coupon.testedAt ?? '', /^\d{4}-\d{2}-\d{2}$/, `${coupon.slug}: testNote sem testedAt (AAAA-MM-DD)`);
+  const testedAt = coupon.testedAt!;
+  assert.ok(testedAt <= coupon.lastVerified, `${coupon.slug}: lastVerified (${coupon.lastVerified}) antes do teste (${testedAt})`);
+  assert.ok(testedAt <= todayInBrasilia, `${coupon.slug}: teste no carrinho com data futura (${testedAt})`);
+  const days = Math.round((Date.parse(todayInBrasilia) - Date.parse(testedAt)) / 86_400_000);
+  if (coupon.status === 'ativo' && days > TEST_WARNING_DAYS) {
+    console.warn(`⚠️ ${coupon.slug}: último teste no carrinho em ${testedAt}, há ${days} dias; refaça o teste e troque testedAt e testNote.`);
+  }
+}
+
 // Hub /cupons: a DAMIE abre os Destaques por ser a maior receita, e a Dolce Gusto vem logo depois.
 const hub = getCouponHubSections();
 assert.deepEqual(
@@ -252,21 +273,20 @@ try {
   if (testIndex !== -1) COUPONS.splice(testIndex, 1);
 }
 
-// Mês da oferta (docs/MANUTENCAO-MENSAL.md, "Antecipar o mês"): teste do dia 20 em diante vale para o mês
-// seguinte, e o mês no fim do título é sempre o mês da oferta, nunca um mês sem teste.
+// Mês da oferta (docs/MANUTENCAO-MENSAL.md, "Antecipar o mês"): o calendário de Brasília, e do dia 20 em diante o
+// mês seguinte. O título das lojas com metaTitleMonth ganha o mês no build; o dado não guarda mês fixo.
 assert.deepEqual(getOfferMonth('2026-10-19'), { year: 2026, month: 10 });
 assert.deepEqual(getOfferMonth('2026-10-20'), { year: 2026, month: 11 });
 assert.deepEqual(getOfferMonth('2026-12-28'), { year: 2027, month: 1 });
-const TITLE_MONTHS = ['jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul', 'ago', 'set', 'out', 'nov', 'dez'];
-for (const coupon of COUPONS.filter((item) => item.status === 'ativo')) {
-  const titleMonth = coupon.metaTitle?.match(/\(([a-z]{3})\/(\d{4})\)$/);
-  if (!titleMonth || !coupon.lastVerified) continue;
-  const { year, month } = getOfferMonth(coupon.lastVerified);
-  assert.equal(
-    `${titleMonth[1]}/${titleMonth[2]}`,
-    `${TITLE_MONTHS[month - 1]}/${year}`,
-    `${coupon.slug}: o mês do título não é o mês da oferta testada em ${coupon.lastVerified}`
-  );
+assert.equal(getBrasiliaDate(Date.parse('2026-11-11T02:00:00Z')), '2026-11-10', 'Brasília é UTC-3');
+assert.equal(getCouponMetaTitle({ metaTitle: 'Cupom X', metaTitleMonth: true }, Date.parse('2026-11-19T15:00:00Z')), 'Cupom X (nov/2026)');
+assert.equal(getCouponMetaTitle({ metaTitle: 'Cupom X', metaTitleMonth: true }, Date.parse('2026-11-20T15:00:00Z')), 'Cupom X (dez/2026)');
+assert.equal(getCouponMetaTitle({ metaTitle: 'Cupom X', metaTitleMonth: true }, Date.parse('2026-12-28T15:00:00Z')), 'Cupom X (jan/2027)');
+assert.equal(getCouponMetaTitle({ metaTitle: 'Cupom X' }, Date.parse('2026-12-28T15:00:00Z')), 'Cupom X');
+for (const coupon of COUPONS) {
+  assert.doesNotMatch(coupon.metaTitle, /\([a-z]{3}\/\d{4}\)$/, `${coupon.slug}: mês fixo no título; use metaTitleMonth`);
+  // A data do teste no carrinho fica em "Como testamos", não no snippet.
+  assert.doesNotMatch(coupon.metaDescription, /testad[oa] em \d/, `${coupon.slug}: data do teste na metaDescription`);
 }
 
 // Códigos com prazo: horário de Brasília, prazos que não se cruzam, código diferente do de sempre e teste antes do

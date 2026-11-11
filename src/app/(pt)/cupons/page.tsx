@@ -6,7 +6,7 @@ import { CouponShelfItem, HubCouponCard, SHELF_CARD, couponCardName, layoutShelf
 import { RevealSection } from '@/components/ui/RevealSection';
 import { COUPON_HUB_LOGO_URL, getCouponHubAlternates } from '@/lib/couponHub';
 import { getActiveCoupons, getCouponHubSections } from '@/lib/couponsData';
-import { getOfferMonthDate } from '@/lib/offerMonth';
+import { getCurrentOfferMonthDate } from '@/lib/offerMonth';
 
 // O snippet cita as lojas de código mais buscadas que estão ativas, para não anunciar uma loja pausada.
 const SNIPPET_STORES = ['Insider', 'DAMIE', 'Dolce Gusto', 'Hostinger'];
@@ -93,17 +93,12 @@ function getJsonLd() {
 }
 
 export default function CuponsPage() {
-  const { featured, categories, lastVerified } = getCouponHubSections();
+  const { featured, categories } = getCouponHubSections();
   const jsonLd = getJsonLd();
-  // O mês da oferta, como nas páginas de loja: a data do hub é a da loja testada por último, não a de
-  // todas, e cada loja mostra a data do próprio teste.
-  const offerMonth = lastVerified ? getOfferMonthDate(lastVerified) : null;
-  const offerMonthLabel = offerMonth
-    ? offerMonth.toLocaleDateString('pt-BR', { month: 'long', year: 'numeric' })
-    : null;
-  const offerMonthIso = offerMonth
-    ? `${offerMonth.getFullYear()}-${String(offerMonth.getMonth() + 1).padStart(2, '0')}`
-    : null;
+  // O mês da oferta pelo calendário, como nas páginas de loja; cada loja mostra a data do próprio teste.
+  const offerMonth = getCurrentOfferMonthDate();
+  const offerMonthLabel = offerMonth.toLocaleDateString('pt-BR', { month: 'long', year: 'numeric' });
+  const offerMonthIso = `${offerMonth.getFullYear()}-${String(offerMonth.getMonth() + 1).padStart(2, '0')}`;
 
   return (
     <main className={`${couponFontVariables} min-h-screen bg-white text-marinho`}>
@@ -123,16 +118,14 @@ export default function CuponsPage() {
           <p className="mt-3 max-w-[54ch] text-[15px] font-semibold leading-[22px] md:text-[17px] md:leading-[26px]">
             {PT_COUPON_HUB_TEXT.lead}
           </p>
-          {offerMonthLabel && offerMonthIso && (
-            <p className="mt-3.5 flex items-center gap-2 text-[13px] font-bold leading-[18px] text-verde-escuro">
-              <CircleCheck aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
-              <span>
-                {PT_COUPON_HUB_TEXT.validMonth.before}
-                <time dateTime={offerMonthIso}>{offerMonthLabel}</time>
-                {PT_COUPON_HUB_TEXT.validMonth.after}
-              </span>
-            </p>
-          )}
+          <p className="mt-3.5 flex items-center gap-2 text-[13px] font-bold leading-[18px] text-verde-escuro">
+            <CircleCheck aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
+            <span>
+              {PT_COUPON_HUB_TEXT.validMonth.before}
+              <time dateTime={offerMonthIso}>{offerMonthLabel}</time>
+              {PT_COUPON_HUB_TEXT.validMonth.after}
+            </span>
+          </p>
         </div>
       </section>
 

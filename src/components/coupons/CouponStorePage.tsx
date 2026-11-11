@@ -6,7 +6,7 @@ import { getCouponLanguageLinks, getCouponStorePath } from '@/lib/couponTranslat
 import { getOtherActiveCoupons, getPendingLimitedCodes, type Coupon } from '@/lib/couponsData';
 import { LOCALES, LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
-import { getOfferMonthDate } from '@/lib/offerMonth';
+import { getCouponMetaTitle, getCurrentOfferMonthDate } from '@/lib/offerMonth';
 import { RevealSection } from '@/components/ui/RevealSection';
 import { getShellHomeHref } from '@/lib/i18n/shellDictionary';
 import { SITE_NAME, SITE_URL, absoluteUrl, getStoreSocialImage } from '@/lib/pageSeo';
@@ -75,16 +75,17 @@ const getOfferType = (coupon: Coupon, copy: CouponStoreCopy) =>
 export function getCouponStoreMetadata(coupon: Coupon, locale: Locale): Metadata {
   const path = getCouponStorePath(coupon.slug, locale);
   const image = getStoreSocialImage(coupon);
+  const title = getCouponMetaTitle(coupon);
 
   return {
-    title: coupon.metaTitle,
+    title,
     description: coupon.metaDescription,
     alternates: {
       canonical: path,
       languages: getHreflangAlternates(coupon.slug),
     },
     openGraph: {
-      title: coupon.metaTitle,
+      title,
       description: coupon.metaDescription,
       url: path,
       locale: LOCALES[locale].openGraphLocale,
@@ -99,7 +100,7 @@ export function getCouponStoreMetadata(coupon: Coupon, locale: Locale): Metadata
     },
     twitter: {
       card: 'summary_large_image',
-      title: coupon.metaTitle,
+      title,
       description: coupon.metaDescription,
       images: [image.url],
     },
@@ -141,15 +142,15 @@ function getJsonLd(coupon: Coupon, locale: Locale, copy: CouponStoreCopy) {
   const webPage = {
     '@context': 'https://schema.org',
     '@type': 'WebPage',
-    name: coupon.metaTitle,
+    name: getCouponMetaTitle(coupon),
     description: coupon.metaDescription,
     url,
     inLanguage: LOCALES[locale].htmlLang,
     dateModified: coupon.lastVerified,
     // O teste de checkout é da equipe, por isso a revisão vai em nome do site, não de uma pessoa.
-    ...(coupon.offerMode === 'discount-code' && coupon.testNote
+    ...(coupon.offerMode === 'discount-code' && coupon.testNote && coupon.testedAt
       ? {
-          lastReviewed: coupon.lastVerified,
+          lastReviewed: coupon.testedAt,
           reviewedBy: { '@type': 'Organization', name: 'Em Casa com Cecília', url: SITE_URL },
         }
       : {}),
@@ -245,8 +246,9 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
       copy.instructions.code({ code: couponCodeOffer.code, brand: coupon.brand, discount: coupon.discount })
     : affiliateLinkOffer?.linkInstructions || copy.instructions.link(coupon.brand);
   const lastVerified = formatLongDate(coupon.lastVerified);
-  // O mês da oferta, não o do teste: teste do dia 20 em diante já vale para o mês seguinte.
-  const highlightDate = getOfferMonthDate(coupon.lastVerified);
+  const testedAt = couponCodeOffer?.testNote && couponCodeOffer.testedAt ? formatLongDate(couponCodeOffer.testedAt) : null;
+  // O mês da oferta pelo calendário: do dia 20 em diante já vale o mês seguinte.
+  const highlightDate = getCurrentOfferMonthDate();
   const highlightMonthYear = `${highlightDate.toLocaleDateString(copy.dateLocale, {
     month: 'long',
   })} ${highlightDate.getFullYear()}`;
@@ -285,7 +287,8 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
       <StoreBody>
         <StoreCutout
           label={couponCodeOffer ? copy.cutoutLabel.code(offerType, coupon.brand) : copy.cutoutLabel.link(offerType, coupon.brand)}
-          verified={couponCodeOffer?.testNote ? copy.testedOn(lastVerified) : copy.verifiedOn(lastVerified)}
+          // O código da parceria vale enquanto ela durar; a data do teste no carrinho fica em "Como testamos".
+          verified={testedAt ? coupon.validity : copy.verifiedOn(lastVerified)}
           copyable={Boolean(couponCodeOffer && !tiers)}
           footer={limitedCodes.length > 0 ? <LimitedCodePointers items={limitedCodes} /> : undefined}
         >
@@ -479,11 +482,11 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
             />
           </section>
 
-          {couponCodeOffer?.testNote && (
+          {testedAt && (
             <section aria-labelledby="como-testamos">
               <SectionHeading id="como-testamos">{copy.testTitle}</SectionHeading>
               <p className={`mt-4 ${BODY_TEXT}`}>
-                <strong>{copy.testedBy(lastVerified)}</strong> {couponCodeOffer.testNote}
+                <strong>{copy.testedBy(testedAt)}</strong> {couponCodeOffer?.testNote}
               </p>
             </section>
           )}

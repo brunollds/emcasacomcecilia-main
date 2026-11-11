@@ -12,7 +12,6 @@ import {
   getCouponHubAlternates,
   getCouponHubEntries,
   getCouponHubItemName,
-  getCouponHubLastVerified,
   getCouponHubPath,
   getCouponHubShelves,
   getCouponHubText,
@@ -20,7 +19,7 @@ import {
 import { TRANSLATED_LOCALES, isTranslatedLocale, type TranslatedLocale } from '@/lib/couponTranslations';
 import { LOCALES } from '@/lib/i18n/locales';
 import { getShellHomeHref } from '@/lib/i18n/shellDictionary';
-import { getOfferMonthDate } from '@/lib/offerMonth';
+import { getCurrentOfferMonthDate } from '@/lib/offerMonth';
 import { SITE_NAME, absoluteUrl } from '@/lib/pageSeo';
 
 type CouponsHubProps = {
@@ -111,15 +110,10 @@ export default async function LocalizedCouponsHub({ params }: CouponsHubProps) {
   const labels = getCouponCardLabels(locale);
   const hrefBySlug = new Map(entries.map(({ coupon, href }) => [coupon.slug, href]));
 
-  // Mês da oferta pela conferência mais recente entre as lojas do hub, como no PT.
-  const lastVerified = getCouponHubLastVerified(entries);
-  const offerMonth = lastVerified ? getOfferMonthDate(lastVerified) : null;
-  const offerMonthLabel = offerMonth
-    ? offerMonth.toLocaleDateString(copy.dateLocale, { month: 'long', year: 'numeric' })
-    : null;
-  const offerMonthIso = offerMonth
-    ? `${offerMonth.getFullYear()}-${String(offerMonth.getMonth() + 1).padStart(2, '0')}`
-    : null;
+  // Mês da oferta pelo calendário, como no PT.
+  const offerMonth = getCurrentOfferMonthDate();
+  const offerMonthLabel = offerMonth.toLocaleDateString(copy.dateLocale, { month: 'long', year: 'numeric' });
+  const offerMonthIso = `${offerMonth.getFullYear()}-${String(offerMonth.getMonth() + 1).padStart(2, '0')}`;
 
   const shelfItems = layoutShelf(shelf.map((entry) => entry.coupon));
 
@@ -141,16 +135,14 @@ export default async function LocalizedCouponsHub({ params }: CouponsHubProps) {
           <p className="mt-3 max-w-[54ch] text-[15px] font-semibold leading-[22px] md:text-[17px] md:leading-[26px]">
             {text.lead}
           </p>
-          {offerMonthLabel && offerMonthIso && (
-            <p className="mt-3.5 flex items-center gap-2 text-[13px] font-bold leading-[18px] text-verde-escuro">
-              <CircleCheck aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
-              <span>
-                {text.validMonth.before}
-                <time dateTime={offerMonthIso}>{offerMonthLabel}</time>
-                {text.validMonth.after}
-              </span>
-            </p>
-          )}
+          <p className="mt-3.5 flex items-center gap-2 text-[13px] font-bold leading-[18px] text-verde-escuro">
+            <CircleCheck aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
+            <span>
+              {text.validMonth.before}
+              <time dateTime={offerMonthIso}>{offerMonthLabel}</time>
+              {text.validMonth.after}
+            </span>
+          </p>
         </div>
       </section>
 

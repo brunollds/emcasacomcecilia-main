@@ -74,7 +74,7 @@ export const FAQ_SOURCE_PT: FaqLocaleCopy = {
         {
           question: 'Os cupons são testados?',
           answer:
-            'Depende da loja. Nas lojas em que aplicamos o código no checkout, a página diz “Cupom testado em” e a data. Nas outras, a página mostra a data em que a oferta foi conferida (“Conferido em”), que é uma checagem da oferta e não um teste no checkout. A página de cada loja diz qual dos dois casos vale para ela.',
+            'Depende da loja. Nas lojas em que aplicamos o código no checkout, a seção “Como testamos o cupom” mostra o último teste e a data dele, e o teste é refeito quando a oferta muda. Nas outras, a página mostra a data em que a oferta foi conferida (“Conferido em”), que é uma checagem da oferta e não um teste no checkout. A página de cada loja diz qual dos dois casos vale para ela.',
           link: { label: 'Ver os cupons', target: 'coupons' },
         },
         {
@@ -271,7 +271,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: 'Are the coupons tested?',
             answer:
-              'It depends on the store. For stores where we applied the code at checkout, the page says “Coupon tested on” and the date. For the other stores, the page shows the date the offer was last checked (“Checked on”), which is a check of the offer, not a checkout test. Each store page says which of the two applies to it.',
+              'It depends on the store. For stores where we applied the code at checkout, the “How we tested the coupon” section shows the latest test and its date, and the test is redone when the offer changes. For the other stores, the page shows the date the offer was last checked (“Checked on”), which is a check of the offer, not a checkout test. Each store page says which of the two applies to it.',
             link: { label: 'See the coupons', target: 'coupons' },
           },
           {
@@ -393,7 +393,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: '¿Los cupones se prueban?',
             answer:
-              'Depende de la tienda. En las tiendas donde aplicamos el código en el pago, la página dice “Cupón probado el” y la fecha. En las demás, la página muestra la fecha en que se comprobó la oferta (“Comprobado el”), que es una verificación de la oferta y no una prueba en el pago. La página de cada tienda indica cuál de los dos casos le corresponde.',
+              'Depende de la tienda. En las tiendas donde aplicamos el código en el pago, la sección “Cómo probamos el cupón” muestra la última prueba y su fecha, y la prueba se repite cuando cambia la oferta. En las demás, la página muestra la fecha en que se comprobó la oferta (“Comprobado el”), que es una verificación de la oferta y no una prueba en el pago. La página de cada tienda indica cuál de los dos casos le corresponde.',
             link: { label: 'Ver los cupones', target: 'coupons' },
           },
           {
@@ -516,7 +516,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: 'Les codes promo sont-ils testés ?',
             answer:
-              'Cela dépend de la boutique. Pour les boutiques où nous avons appliqué le code au paiement, la page indique « Code promo testé le » et la date. Pour les autres, la page indique la date à laquelle l’offre a été vérifiée (« Vérifié le »), ce qui est une vérification de l’offre et non un test au paiement. La page de chaque boutique précise lequel des deux cas s’applique.',
+              'Cela dépend de la boutique. Pour les boutiques où nous avons appliqué le code au paiement, la section « Comment nous avons testé le code promo » indique le dernier test et sa date, et le test est refait lorsque l’offre change. Pour les autres, la page indique la date à laquelle l’offre a été vérifiée (« Vérifié le »), ce qui est une vérification de l’offre et non un test au paiement. La page de chaque boutique précise lequel des deux cas s’applique.',
             link: { label: 'Voir les codes promo', target: 'coupons' },
           },
           {
@@ -638,7 +638,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: 'Werden die Gutscheine getestet?',
             answer:
-              'Das hängt vom Shop ab. Bei Shops, in denen wir den Code an der Kasse angewendet haben, steht auf der Seite „Gutschein getestet am“ mit dem Datum. Bei den übrigen Shops zeigt die Seite das Datum, an dem das Angebot zuletzt geprüft wurde („Geprüft am“); das ist eine Prüfung des Angebots, kein Test an der Kasse. Auf der Seite jedes Shops steht, welcher der beiden Fälle gilt.',
+              'Das hängt vom Shop ab. Bei Shops, in denen wir den Code an der Kasse angewendet haben, zeigt der Abschnitt „So haben wir den Gutschein getestet“ den letzten Test und sein Datum, und der Test wird wiederholt, wenn sich das Angebot ändert. Bei den übrigen Shops zeigt die Seite das Datum, an dem das Angebot zuletzt geprüft wurde („Geprüft am“); das ist eine Prüfung des Angebots, kein Test an der Kasse. Auf der Seite jedes Shops steht, welcher der beiden Fälle gilt.',
             link: { label: 'Gutscheine ansehen', target: 'coupons' },
           },
           {
@@ -760,7 +760,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: 'I coupon vengono testati?',
             answer:
-              'Dipende dal negozio. Nei negozi in cui abbiamo applicato il codice al checkout, la pagina mostra “Coupon testato il” e la data. Per gli altri, la pagina mostra la data in cui l’offerta è stata verificata (“Verificato il”), che è un controllo dell’offerta e non un test al checkout. La pagina di ogni negozio indica quale dei due casi vale.',
+              'Dipende dal negozio. Nei negozi in cui abbiamo applicato il codice al checkout, la sezione “Come abbiamo testato il coupon” mostra l’ultimo test e la sua data, e il test viene rifatto quando l’offerta cambia. Per gli altri, la pagina mostra la data in cui l’offerta è stata verificata (“Verificato il”), che è un controllo dell’offerta e non un test al checkout. La pagina di ogni negozio indica quale dei due casi vale.',
             link: { label: 'Vedi i coupon', target: 'coupons' },
           },
           {
@@ -881,7 +881,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: '쿠폰은 직접 테스트하나요?',
             answer:
-              '스토어마다 달라요. 결제 단계에서 코드를 직접 적용해 본 스토어는 페이지에 “쿠폰 테스트 완료”와 날짜가 표시돼요. 그 밖의 스토어는 혜택을 확인한 날짜(“확인”)가 표시되는데, 결제 단계 테스트가 아니라 혜택 내용을 확인한 것이에요. 어느 쪽에 해당하는지는 각 스토어 페이지에 나와 있어요.',
+              '스토어마다 달라요. 결제 단계에서 코드를 직접 적용해 본 스토어는 “쿠폰 테스트 방법” 섹션에 마지막 테스트와 그 날짜가 나와 있고, 혜택이 바뀌면 테스트를 다시 해요. 그 밖의 스토어는 혜택을 확인한 날짜(“확인”)가 표시되는데, 결제 단계 테스트가 아니라 혜택 내용을 확인한 것이에요. 어느 쪽에 해당하는지는 각 스토어 페이지에 나와 있어요.',
             link: { label: '쿠폰 보기', target: 'coupons' },
           },
           {
@@ -1002,7 +1002,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: 'クーポンはテストしていますか？',
             answer:
-              'ストアによって異なります。チェックアウトでコードを実際に適用したストアのページには、「クーポンをテスト済み」と日付が表示されます。それ以外のストアでは、オファーを確認した日付（「確認」）が表示されます。これはチェックアウトでのテストではなく、オファー内容の確認です。どちらに当たるかは、各ストアのページに書かれています。',
+              'ストアによって異なります。チェックアウトでコードを実際に適用したストアの「クーポンのテスト方法」セクションに最新のテストとその日付が表示され、オファーが変わるとテストをやり直します。それ以外のストアでは、オファーを確認した日付（「確認」）が表示されます。これはチェックアウトでのテストではなく、オファー内容の確認です。どちらに当たるかは、各ストアのページに書かれています。',
             link: { label: 'クーポンを見る', target: 'coupons' },
           },
           {
@@ -1123,7 +1123,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: '優惠碼都有測試過嗎？',
             answer:
-              '視商店而定。我們在結帳時實際套用過代碼的商店，頁面會顯示「測試優惠碼」和日期。其他商店則顯示優惠最後核實的日期（「核實」），那是核對優惠內容，並非結帳測試。每家商店的頁面都會說明適用哪一種。',
+              '視商店而定。我們在結帳時實際套用過代碼的商店，「我們如何測試優惠碼」一節會顯示最近一次測試及其日期，優惠變動時會重新測試。其他商店則顯示優惠最後核實的日期（「核實」），那是核對優惠內容，並非結帳測試。每家商店的頁面都會說明適用哪一種。',
             link: { label: '查看優惠碼', target: 'coupons' },
           },
           {
@@ -1244,7 +1244,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
           {
             question: '优惠码都测试过吗？',
             answer:
-              '视商店而定。我们在结账时实际套用过代码的商店，页面会显示“测试优惠码”和日期。其他商店则显示优惠最后核实的日期（“核实”），那是核对优惠内容，并非结账测试。每家商店的页面都会说明适用哪一种。',
+              '视商店而定。我们在结账时实际套用过代码的商店，“我们如何测试优惠码”一节会显示最近一次测试及其日期，优惠变动时会重新测试。其他商店则显示优惠最后核实的日期（“核实”），那是核对优惠内容，并非结账测试。每家商店的页面都会说明适用哪一种。',
             link: { label: '查看优惠码', target: 'coupons' },
           },
           {
