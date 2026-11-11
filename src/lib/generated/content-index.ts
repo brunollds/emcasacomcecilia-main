@@ -211438,5 +211438,720 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 899,
+    "slug": "looks-com-camiseta-basica-feminina",
+    "locale": "pt",
+    "title": "Looks com camiseta básica feminina: jeans, saia, alfaiataria e blazer",
+    "seoTitle": "Looks com camiseta básica feminina: jeans, saia e blazer",
+    "type": "Guia de Looks",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Como combinar a camiseta básica com jeans, saia, alfaiataria e blazer: proporção, cor e acabamento de cada look, com peças da Cléa Store e da Insider e o preço com o código.",
+    "metaDescription": "CSEMCASACOMCECILIA (10%) na Cléa e EMCASACOMCECILIA (15%) na Insider: looks com camiseta básica feminina com jeans, saia e blazer.",
+    "publishedAt": "11 de novembro de 2026",
+    "publishedAtISO": "2026-11-11",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/looks/looks-com-camiseta-basica-feminina-capa.webp",
+    "imageAlt": "Quatro modelos de camiseta básica: vinho e off white da Cléa Store com calça jeans, vinho e preta da Insider, com o título Looks com camiseta básica e os códigos das duas lojas",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "decision": {
+      "takeIf": [
+        "Você quer três cores neutras para começar: o Kit 3 Camisetas Oversized Classic da Cléa sai mais barato por peça que a camiseta avulsa.",
+        "Seus looks são com saia ou alfaiataria: a Tech T-Shirt da Insider, de modal com elastano, não soma volume às peças amplas.",
+        "O look leva blazer ou colete por cima: a Comfort da Cléa, de caimento regular, não forma volume por baixo."
+      ],
+      "skipIf": [
+        "Você procura look de Natal ou Réveillon: o guia da ocasião, citado no texto, tem as peças de festa.",
+        "Você quer blazer e saia no mesmo pedido: serão dois, porque a Insider não vende blazer e a Cléa não vende saia de tecido plano."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "affiliate": [
+      "clea-store",
+      "insider"
+    ],
+    "editorialNote": "Combinações montadas pelas fichas e fotos das lojas; não vestimos as peças. Podemos receber comissão da Cléa Store e da Insider.",
+    "relatedArticles": [
+      {
+        "slug": "camiseta-clea-store-e-boa"
+      },
+      {
+        "slug": "camiseta-feminina-insider-qual-escolher"
+      },
+      {
+        "slug": "look-trabalho-alfaiataria-feminina-clea-store"
+      },
+      {
+        "slug": "look-natal-reveillon-2026-clea-store"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A camiseta básica vai com jeans, saia, alfaiataria e blazer. O que muda o look é a proporção: camiseta ampla pede a cintura marcada quando a calça ou a saia também têm volume, e camiseta mais rente equilibra saia longa e bermuda ampla. As peças abaixo são da Cléa Store e da Insider, com o código de cada loja."
+        ]
+      },
+      {
+        "heading": "A camiseta certa para a base",
+        "paragraphs": [
+          "Três modelagens resolvem os looks deste guia. A oversized da Cléa é ampla e de caimento solto, em algodão penteado: vai com calça de perna larga, shorts e blazer. A Comfort, também da Cléa, é de algodão peruano em malha interlock, com caimento regular segundo a loja: sem o volume da oversized, fica lisa por baixo de blazer e colete. A Tech T-Shirt da Insider, de modal com elastano, não tem a modelagem ampla da oversized e equilibra saia e bermuda com volume."
+        ],
+        "comparisonTable": {
+          "caption": "Preços dos sites em 11 de novembro de 2026, sem frete. Com o código: CSEMCASACOMCECILIA (10%) na Cléa e EMCASACOMCECILIA (15%) na Insider, sobre o preço do dia.",
+          "headers": [
+            "Camiseta",
+            "Modelagem e tecido",
+            "Preço do dia (lista)",
+            "Com o código"
+          ],
+          "rows": [
+            [
+              "[Camiseta Oversized de Algodão Penteado](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189), Cléa",
+              "Ampla, de caimento solto; 100% algodão penteado",
+              "R$ 90,30 (R$ 129,00)",
+              "R$ 81,27"
+            ],
+            [
+              "[Camiseta Comfort Algodão Peruano](https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434), Cléa",
+              "Caimento regular; 100% algodão peruano",
+              "R$ 139,93 (R$ 199,90)",
+              "R$ 125,94"
+            ],
+            [
+              "[Tech T-Shirt® Feminina](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/tech-t-shirt%C2%AE-feminina-cores-selecionadas?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA), Insider",
+              "92% modal e 8% elastano, salvo a cor índigo",
+              "R$ 99,00 (R$ 169,00)",
+              "R$ 84,15"
+            ],
+            [
+              "[Tech T-Shirt® Gola V Feminina](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/tech-t-shirt%C2%AE-gola-v-feminina-cores-selecionadas?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA), Insider",
+              "Gola levemente alongada; mesmo tecido da Tech",
+              "R$ 99,00 (R$ 169,00)",
+              "R$ 84,15"
+            ],
+            [
+              "[Camiseta Básica Tech Daily](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/camiseta-basica-tech-daily-feminina-cores-selecionadas?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA), Insider",
+              "94% viscose e 6% elastano; a loja avisa que pode encolher até 2 cm no comprimento na primeira lavagem",
+              "R$ 99,00 (R$ 139,00)",
+              "R$ 84,15"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O [Kit 3 Camisetas Oversized Classic](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-classic-3951) da Cléa traz três oversized de algodão, em marrom, preto e off white, por R$ 199,00 na promoção (R$ 387,00 de lista). Com o CSEMCASACOMCECILIA, o kit inteiro sai por R$ 179,10, R$ 59,70 por camiseta: no teste de carrinho, o código somou com o preço do kit. As contas dos looks abaixo usam a camiseta avulsa.",
+          "Para escolher a camiseta em si, veja [a camiseta da Cléa Store é boa?](/reviews/camiseta-clea-store-e-boa), [qual camiseta feminina da Insider escolher](/reviews/camiseta-feminina-insider-qual-escolher) e [Cléa Store ou Hering](/reviews/clea-store-ou-hering-camiseta-feminina)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/camiseta-clea-store-avulsa.webp",
+            "alt": "Camiseta Oversized de Algodão Penteado da Cléa Store, foto oficial da loja",
+            "caption": "Oversized de algodão penteado. Foto: Cléa Store.",
+            "href": "https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189",
+            "store": "clea-store",
+            "objectFit": "square",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/clea-store/looks-camiseta-basica-comfort.webp",
+            "alt": "Modelo com a Camiseta Comfort marrom da Cléa Store e calça jeans clara",
+            "caption": "Comfort de algodão peruano, de caimento regular. Foto: Cléa Store.",
+            "href": "https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434",
+            "store": "clea-store",
+            "objectFit": "portrait",
+            "aspectRatio": 0.6667
+          },
+          {
+            "src": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-tech-feminina.webp",
+            "alt": "Tech T-Shirt feminina preta, de manga curta, vestida por modelo sobre fundo cinza claro",
+            "caption": "Tech T-Shirt feminina. Foto: Insider.",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/tech-t-shirt%C2%AE-feminina-cores-selecionadas?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "store": "insider",
+            "objectFit": "portrait",
+            "aspectRatio": 0.76
+          }
+        ]
+      },
+      {
+        "heading": "Camiseta com calça jeans",
+        "paragraphs": [
+          "A oversized da Cléa já tem volume no tronco, e as duas calças jeans da loja também têm volume nas pernas: a barrel abre e afunila de leve na barra, e a wide leg desce larga e solta. Com volume em cima e embaixo, quem segura a proporção é a cintura. As duas calças são de cintura alta, então a camiseta vai por dentro só na frente, com as costas soltas, ou inteira por dentro com um cinto.",
+          "Na cor, a lavagem azul claro da barrel fica clara e leve com camiseta off white e ganha contraste com vinho, marrom ou preto. A wide leg, em azul médio, aceita as mesmas cores. Com tênis branco, o look é de dia a dia; com mule ou sapato de bico fino, serve para um jantar informal.",
+          "Trocando a oversized pela Comfort, de caimento regular, a camiseta pode ficar solta: o corpo dela não compete com a calça."
+        ],
+        "comparisonTable": {
+          "caption": "Na Cléa, a oversized com uma das calças sai por R$ 320,04 com o código.",
+          "headers": [
+            "Peça",
+            "Loja",
+            "Preço do dia (lista)",
+            "Com o código"
+          ],
+          "rows": [
+            [
+              "[Camiseta Oversized de Algodão Penteado](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189)",
+              "Cléa",
+              "R$ 90,30 (R$ 129,00)",
+              "R$ 81,27"
+            ],
+            [
+              "[Calça Barrel Jeans Cintura Alta Azul Claro](https://www.cleastore.com.br/produto/calca-barrel-jeans-cintura-alta-azul-claro-4439)",
+              "Cléa",
+              "R$ 265,30 (R$ 379,00)",
+              "R$ 238,77"
+            ],
+            [
+              "[Calça Jeans Wide Leg Cintura Alta Azul Médio](https://www.cleastore.com.br/produto/calca-jeans-wide-leg-cintura-alta-azul-medio-4436)",
+              "Cléa",
+              "R$ 265,30 (R$ 379,00)",
+              "R$ 238,77"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/looks-camiseta-basica-oversized-jeans.webp",
+            "alt": "Modelo com a camiseta oversized vinho da Cléa Store por dentro de uma calça jeans clara de cintura alta",
+            "caption": "Oversized por dentro do jeans de cintura alta. Foto: Cléa Store.",
+            "href": "https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189",
+            "store": "clea-store",
+            "objectFit": "portrait",
+            "aspectRatio": 0.6667
+          },
+          {
+            "src": "/images/reviews/clea-store/looks-camiseta-basica-barrel-azul-claro.webp",
+            "alt": "Modelo de corpo inteiro com camiseta off white por dentro da Calça Barrel Jeans Azul Claro da Cléa Store e scarpin branco",
+            "caption": "Calça barrel azul claro. Foto: Cléa Store.",
+            "href": "https://www.cleastore.com.br/produto/calca-barrel-jeans-cintura-alta-azul-claro-4439",
+            "store": "clea-store",
+            "objectFit": "portrait",
+            "aspectRatio": 0.6667
+          },
+          {
+            "src": "/images/reviews/clea-store/looks-camiseta-basica-wide-leg.webp",
+            "alt": "Modelo de corpo inteiro com camiseta branca por dentro da Calça Jeans Wide Leg Azul Médio da Cléa Store",
+            "caption": "Calça wide leg azul médio. Foto: Cléa Store.",
+            "href": "https://www.cleastore.com.br/produto/calca-jeans-wide-leg-cintura-alta-azul-medio-4436",
+            "store": "clea-store",
+            "objectFit": "portrait",
+            "aspectRatio": 0.6667
+          }
+        ],
+        "styling": {
+          "items": [
+            {
+              "piece": "Calça Barrel Jeans Cintura Alta Azul Claro",
+              "url": "https://www.cleastore.com.br/produto/calca-barrel-jeans-cintura-alta-azul-claro-4439",
+              "store": "clea-store",
+              "howTo": "Camiseta oversized por dentro na frente e solta atrás, para a cintura alta aparecer sem esconder o volume da perna.",
+              "occasion": "Dia a dia e fim de semana; com mule ou sapato de bico fino, jantar informal.",
+              "pairsWith": [
+                {
+                  "label": "Camiseta Oversized de Algodão Penteado",
+                  "url": "https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189",
+                  "store": "clea-store",
+                  "note": "off white para um look claro; vinho, marrom ou preto para contraste"
+                },
+                {
+                  "label": "tênis branco"
+                },
+                {
+                  "label": "cinto de couro"
+                }
+              ]
+            },
+            {
+              "piece": "Calça Jeans Wide Leg Cintura Alta Azul Médio",
+              "url": "https://www.cleastore.com.br/produto/calca-jeans-wide-leg-cintura-alta-azul-medio-4436",
+              "store": "clea-store",
+              "howTo": "Camiseta inteira por dentro e cinto: a perna larga fica com o volume e o tronco fica limpo.",
+              "occasion": "Dia a dia; com sapato de bico fino, trabalho de traje casual.",
+              "pairsWith": [
+                {
+                  "label": "Camiseta Comfort Algodão Peruano",
+                  "url": "https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434",
+                  "store": "clea-store",
+                  "note": "de caimento regular, pode ficar solta"
+                },
+                {
+                  "label": "sandália ou mule"
+                },
+                {
+                  "label": "bolsa de couro"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Camiseta com saia",
+        "paragraphs": [
+          "A Cléa não vende saia de tecido plano, então as saias deste capítulo são da Insider. A Saia Midi Tokyo é de poliamida com elastano e tem cordão com stoppers nas laterais, que sobem ou descem a barra. A Maxi Saia NYIN é longa e, segundo a loja, pode ser usada na cintura média ou na baixa.",
+          "Saia longa ou franzida pede camiseta sem sobra de tecido. Na midi Tokyo, a Tech T-Shirt vai por dentro e marca a cintura. Na NYIN usada mais baixa, a camiseta pode ficar por fora, solta até o quadril; na cintura média, vai por dentro.",
+          "Na cor, saia preta com Tech off white é o contraste mais simples. A Tokyo em New Khaki fica tom sobre tom com a Tech Maple Brown e ganha contraste com a preta, e a NYIN em Olive Green vai com off white ou preta. Para o trabalho, a Saia Midi Alfaiataria Tech Kyoto, com pences na cintura, leva a Tech por dentro.",
+          "A Insider também vende o [Conjunto Tech T-Shirt® + Saia Midi Alfaiataria](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/conjunto-tech-t-shirt-saia-midi-alfaiataria-tech-kyoto-futureform?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA) com a saia Kyoto. Ele custa R$ 629,54 (R$ 828,00 de lista) e sai por R$ 535,11 com o código; comprando a Tech T-Shirt e a Saia Midi Kyoto separadas, as duas somam R$ 533,80 com o código."
+        ],
+        "comparisonTable": {
+          "caption": "Na Insider, a Tech T-Shirt com a midi Tokyo soma R$ 338,30 com o código; com a NYIN, R$ 397,80.",
+          "headers": [
+            "Peça",
+            "Loja",
+            "Preço do dia (lista)",
+            "Com o código"
+          ],
+          "rows": [
+            [
+              "[Tech T-Shirt® Feminina](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/tech-t-shirt%C2%AE-feminina-cores-selecionadas?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Insider",
+              "R$ 99,00 (R$ 169,00)",
+              "R$ 84,15"
+            ],
+            [
+              "[Saia Midi Tokyo FutureForm](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/saia-midi-tokyo-futureform-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Insider",
+              "R$ 299,00 (R$ 329,00)",
+              "R$ 254,15"
+            ],
+            [
+              "[Maxi Saia NYIN](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/maxi-saia-nyin-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Insider",
+              "R$ 369,00 (R$ 409,00)",
+              "R$ 313,65"
+            ],
+            [
+              "[Saia Midi Alfaiataria Tech Kyoto](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/saia-midi-kyoto?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Insider",
+              "R$ 529,00 (R$ 659,00)",
+              "R$ 449,65"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/insider/looks-camiseta-basica-saia-midi-tokyo.webp",
+            "alt": "Modelo de corpo inteiro com a Saia Midi Tokyo preta da Insider, franzida na lateral, com regata vermelha e bota clara",
+            "caption": "Saia Midi Tokyo, com o franzido do ajuste lateral. Foto: Insider.",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/saia-midi-tokyo-futureform-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "store": "insider",
+            "objectFit": "square",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/insider/looks-camiseta-basica-maxi-saia-nyin.webp",
+            "alt": "Modelo de corpo inteiro com a Maxi Saia NYIN verde-oliva da Insider, regata escura e tênis",
+            "caption": "Maxi Saia NYIN em Olive Green. Foto: Insider.",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/maxi-saia-nyin-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "store": "insider",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ],
+        "styling": {
+          "items": [
+            {
+              "piece": "Saia Midi Tokyo FutureForm",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/saia-midi-tokyo-futureform-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+              "store": "insider",
+              "howTo": "Tech T-Shirt por dentro e o cordão lateral ajustado na altura de barra que você quer.",
+              "occasion": "Trabalho com a barra comprida; fim de semana com a barra franzida.",
+              "pairsWith": [
+                {
+                  "label": "Tech T-Shirt® Feminina",
+                  "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/tech-t-shirt%C2%AE-feminina-cores-selecionadas?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+                  "store": "insider",
+                  "note": "off white com a saia preta; Maple Brown com a New Khaki"
+                },
+                {
+                  "label": "tênis branco"
+                },
+                {
+                  "label": "bota de cano curto"
+                }
+              ]
+            },
+            {
+              "piece": "Maxi Saia NYIN",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/maxi-saia-nyin-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+              "store": "insider",
+              "howTo": "Na cintura baixa, camiseta por fora até o quadril; na cintura média, por dentro.",
+              "occasion": "Fim de semana, viagem e calor.",
+              "pairsWith": [
+                {
+                  "label": "Tech T-Shirt® Gola V Feminina",
+                  "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/tech-t-shirt%C2%AE-gola-v-feminina-cores-selecionadas?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+                  "store": "insider",
+                  "note": "off white ou preta com a Olive Green"
+                },
+                {
+                  "label": "sandália rasteira"
+                },
+                {
+                  "label": "tênis"
+                }
+              ]
+            },
+            {
+              "piece": "Saia Midi Alfaiataria Tech Kyoto",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/saia-midi-kyoto?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+              "store": "insider",
+              "howTo": "Tech T-Shirt por dentro, para as pences da cintura aparecerem.",
+              "occasion": "Trabalho.",
+              "pairsWith": [
+                {
+                  "label": "Tech T-Shirt® Feminina",
+                  "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/tech-t-shirt%C2%AE-feminina-cores-selecionadas?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+                  "store": "insider"
+                },
+                {
+                  "label": "mocassim ou scarpin"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Camiseta com alfaiataria: shorts, bermuda e calça",
+        "paragraphs": [
+          "Com alfaiataria, a malha da camiseta deixa a peça estruturada mais casual. Na Cléa, o Shorts Alfaiataria Areia tem cintura alta e caimento estruturado, e a loja indica com blazers, camisas e t-shirts. A oversized vai inteira por dentro, com o cós à mostra; em off white, marrom ou caramelo, o look fica tom sobre tom com o areia.",
+          "Na Insider, a Bermuda Kyoto é oversized, levemente evasê e vai até pouco acima do joelho. Como ela já tem volume, a Tech T-Shirt por dentro equilibra a silhueta. A Calça FutureForm tem cintura alta e afunila na barra; com ela, a camiseta vai por dentro só na frente.",
+          "Para montar um look de escritório, veja o [look de trabalho com alfaiataria da Cléa Store](/reviews/look-trabalho-alfaiataria-feminina-clea-store)."
+        ],
+        "comparisonTable": {
+          "caption": "Na Cléa, oversized e shorts somam R$ 351,54 com o código. Na Insider, Tech T-Shirt e bermuda somam R$ 351,90; com a calça FutureForm, R$ 465,80.",
+          "headers": [
+            "Peça",
+            "Loja",
+            "Preço do dia (lista)",
+            "Com o código"
+          ],
+          "rows": [
+            [
+              "[Camiseta Oversized de Algodão Penteado](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189)",
+              "Cléa",
+              "R$ 90,30 (R$ 129,00)",
+              "R$ 81,27"
+            ],
+            [
+              "[Shorts Alfaiataria Areia](https://www.cleastore.com.br/produto/shorts-alfaiataria-areia-4352)",
+              "Cléa",
+              "R$ 300,30 (R$ 429,00)",
+              "R$ 270,27"
+            ],
+            [
+              "[Tech T-Shirt® Feminina](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/tech-t-shirt%C2%AE-feminina-cores-selecionadas?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Insider",
+              "R$ 99,00 (R$ 169,00)",
+              "R$ 84,15"
+            ],
+            [
+              "[Bermuda Oversized Alfaiataria Tech Kyoto](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/bermuda-kyoto-feminina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Insider",
+              "R$ 315,00 (R$ 349,00)",
+              "R$ 267,75"
+            ],
+            [
+              "[Calça Tecnológica FutureForm®](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-futureform-feminina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Insider",
+              "R$ 449,00 (R$ 545,00)",
+              "R$ 381,65"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/looks-camiseta-basica-shorts-areia.webp",
+            "alt": "Modelo com o Shorts Alfaiataria Areia da Cléa Store de cintura alta, com blazer da mesma cor",
+            "caption": "Shorts Alfaiataria Areia. Foto: Cléa Store.",
+            "href": "https://www.cleastore.com.br/produto/shorts-alfaiataria-areia-4352",
+            "store": "clea-store",
+            "objectFit": "portrait",
+            "aspectRatio": 0.6667
+          },
+          {
+            "src": "/images/reviews/insider/looks-camiseta-basica-bermuda-kyoto.webp",
+            "alt": "Modelo de corpo inteiro com a Bermuda Oversized Kyoto preta da Insider, blusa verde e mocassim",
+            "caption": "Bermuda Kyoto, até pouco acima do joelho. Foto: Insider.",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/bermuda-kyoto-feminina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "store": "insider",
+            "objectFit": "square",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/insider/calca-insider-feminina-qual-escolher-futureform-marrom.webp",
+            "alt": "Mulher de corpo inteiro com a calça FutureForm marrom, regata clara e tênis, com a perna mais larga no meio e fechada no tornozelo",
+            "caption": "Calça FutureForm em Urban Brown. Foto: Insider.",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-futureform-feminina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "store": "insider",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ],
+        "styling": {
+          "items": [
+            {
+              "piece": "Shorts Alfaiataria Areia",
+              "url": "https://www.cleastore.com.br/produto/shorts-alfaiataria-areia-4352",
+              "store": "clea-store",
+              "howTo": "Camiseta oversized inteira por dentro, com o cós à mostra.",
+              "occasion": "Calor, passeio e almoço de fim de semana.",
+              "pairsWith": [
+                {
+                  "label": "Camiseta Oversized de Algodão Penteado",
+                  "url": "https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189",
+                  "store": "clea-store",
+                  "note": "off white, marrom ou caramelo, no tom do areia"
+                },
+                {
+                  "label": "sandália de tiras"
+                },
+                {
+                  "label": "bolsa de palha"
+                }
+              ]
+            },
+            {
+              "piece": "Bermuda Oversized Alfaiataria Tech Kyoto",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/bermuda-kyoto-feminina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+              "store": "insider",
+              "howTo": "Tech T-Shirt por dentro: a bermuda já tem volume, e a camiseta rente equilibra.",
+              "occasion": "Trabalho de traje casual e dia a dia no calor.",
+              "pairsWith": [
+                {
+                  "label": "Tech T-Shirt® Feminina",
+                  "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/tech-t-shirt%C2%AE-feminina-cores-selecionadas?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+                  "store": "insider",
+                  "note": "preta com a bermuda preta, numa cor só"
+                },
+                {
+                  "label": "mocassim ou tênis"
+                }
+              ]
+            },
+            {
+              "piece": "Calça Tecnológica FutureForm®",
+              "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-futureform-feminina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+              "store": "insider",
+              "howTo": "Camiseta por dentro só na frente, para mostrar a cintura alta.",
+              "occasion": "Trabalho e viagem.",
+              "pairsWith": [
+                {
+                  "label": "Tech T-Shirt® Gola V Feminina",
+                  "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/tech-t-shirt%C2%AE-gola-v-feminina-cores-selecionadas?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+                  "store": "insider"
+                },
+                {
+                  "label": "tênis branco"
+                },
+                {
+                  "label": "blazer que você já tem"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Camiseta com blazer ou colete",
+        "paragraphs": [
+          "A Insider não vende blazer, então os deste capítulo são da Cléa. O Blazer Oversized Alfaiataria Mescla tem forro e fecha com um botão. Por ser amplo, fica aberto sobre uma camiseta de caimento regular, como a Comfort, que não forma volume por baixo. Com a barrel ou a wide leg, o look é casual; com o shorts areia, mais leve.",
+          "O Blazer Alfaiataria Rosa Linho é estruturado, de linho puro, com lapela e um botão. Fechado sobre a camiseta, o rosa vira o centro do look; aberto, com camiseta off white e jeans, fica mais casual. A loja indica o conjunto com o shorts de linho da mesma cor.",
+          "O colete Trench Coat com Cinto Vermelho é sem mangas, de linho com algodão e amarrado na cintura. A camiseta aparece só nos braços e no decote, então a Comfort em off white ou preto deixa o vermelho em destaque, por dentro da calça."
+        ],
+        "comparisonTable": {
+          "caption": "Na Cléa, a Comfort, a calça barrel (R$ 238,77 com o código) e o blazer mescla somam R$ 836,58 com o código; a Comfort, a wide leg (R$ 238,77) e o colete, R$ 723,18.",
+          "headers": [
+            "Peça",
+            "Loja",
+            "Preço do dia (lista)",
+            "Com o código"
+          ],
+          "rows": [
+            [
+              "[Camiseta Comfort Algodão Peruano](https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434)",
+              "Cléa",
+              "R$ 139,93 (R$ 199,90)",
+              "R$ 125,94"
+            ],
+            [
+              "[Blazer Oversized Alfaiataria Mescla](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307)",
+              "Cléa",
+              "R$ 524,30 (R$ 749,00)",
+              "R$ 471,87"
+            ],
+            [
+              "[Blazer Alfaiataria Rosa Linho](https://www.cleastore.com.br/produto/blazer-alfaiataria-rosa-linho-4404)",
+              "Cléa",
+              "R$ 629,30 (R$ 899,00)",
+              "R$ 566,37"
+            ],
+            [
+              "[Colete Trench Coat com Cinto Vermelho](https://www.cleastore.com.br/produto/trench-coat-com-cinto-vermelho-4407)",
+              "Cléa",
+              "R$ 398,30 (R$ 569,00)",
+              "R$ 358,47"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/looks-camiseta-basica-blazer-mescla.webp",
+            "alt": "Modelo com o Blazer Oversized Alfaiataria Mescla cinza da Cléa Store, fechado em um botão, e calça da mesma cor",
+            "caption": "Blazer mescla, oversized e com forro. Foto: Cléa Store.",
+            "href": "https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307",
+            "store": "clea-store",
+            "objectFit": "portrait",
+            "aspectRatio": 0.6667
+          },
+          {
+            "src": "/images/reviews/clea-store/looks-camiseta-basica-colete-vermelho.webp",
+            "alt": "Modelo com o colete Trench Coat vermelho da Cléa Store, sem mangas e amarrado na cintura, com calça vermelha",
+            "caption": "Colete trench vermelho, amarrado na cintura. Foto: Cléa Store.",
+            "href": "https://www.cleastore.com.br/produto/trench-coat-com-cinto-vermelho-4407",
+            "store": "clea-store",
+            "objectFit": "portrait",
+            "aspectRatio": 0.6667
+          },
+          {
+            "src": "/images/reviews/clea-store/looks-camiseta-basica-blazer-rosa.webp",
+            "alt": "Modelo com o Blazer Alfaiataria Rosa Linho da Cléa Store e o shorts de linho da mesma cor",
+            "caption": "Blazer rosa de linho, no conjunto com o shorts. Foto: Cléa Store.",
+            "href": "https://www.cleastore.com.br/produto/blazer-alfaiataria-rosa-linho-4404",
+            "store": "clea-store",
+            "objectFit": "portrait",
+            "aspectRatio": 0.6667
+          }
+        ],
+        "styling": {
+          "items": [
+            {
+              "piece": "Blazer Oversized Alfaiataria Mescla",
+              "url": "https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307",
+              "store": "clea-store",
+              "howTo": "Aberto, sobre camiseta de caimento regular por dentro da calça.",
+              "occasion": "Trabalho e jantar.",
+              "pairsWith": [
+                {
+                  "label": "Camiseta Comfort Algodão Peruano",
+                  "url": "https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434",
+                  "store": "clea-store",
+                  "note": "off white ou preta"
+                },
+                {
+                  "label": "Calça Barrel Jeans Cintura Alta Azul Claro",
+                  "url": "https://www.cleastore.com.br/produto/calca-barrel-jeans-cintura-alta-azul-claro-4439",
+                  "store": "clea-store"
+                },
+                {
+                  "label": "mocassim ou scarpin"
+                }
+              ]
+            },
+            {
+              "piece": "Blazer Alfaiataria Rosa Linho",
+              "url": "https://www.cleastore.com.br/produto/blazer-alfaiataria-rosa-linho-4404",
+              "store": "clea-store",
+              "howTo": "Fechado no botão, para o rosa ser o destaque, ou aberto sobre camiseta off white.",
+              "occasion": "Dia a dia e calor.",
+              "pairsWith": [
+                {
+                  "label": "Camiseta Oversized de Algodão Penteado",
+                  "url": "https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189",
+                  "store": "clea-store",
+                  "note": "off white, por dentro da calça"
+                },
+                {
+                  "label": "Calça Jeans Wide Leg Cintura Alta Azul Médio",
+                  "url": "https://www.cleastore.com.br/produto/calca-jeans-wide-leg-cintura-alta-azul-medio-4436",
+                  "store": "clea-store"
+                },
+                {
+                  "label": "sandália"
+                }
+              ]
+            },
+            {
+              "piece": "Colete Trench Coat com Cinto Vermelho",
+              "url": "https://www.cleastore.com.br/produto/trench-coat-com-cinto-vermelho-4407",
+              "store": "clea-store",
+              "howTo": "Faixa amarrada na cintura e camiseta por dentro da calça.",
+              "occasion": "Dia a dia e ocasiões especiais, segundo a loja.",
+              "pairsWith": [
+                {
+                  "label": "Camiseta Comfort Algodão Peruano",
+                  "url": "https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434",
+                  "store": "clea-store",
+                  "note": "off white ou preta, para o vermelho aparecer"
+                },
+                {
+                  "label": "Calça Jeans Wide Leg Cintura Alta Azul Médio",
+                  "url": "https://www.cleastore.com.br/produto/calca-jeans-wide-leg-cintura-alta-azul-medio-4436",
+                  "store": "clea-store"
+                },
+                {
+                  "label": "sapato de bico fino"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Comprando nas duas lojas",
+        "paragraphs": [
+          "Um look com camiseta de uma loja e saia ou blazer da outra vira dois pedidos: cada carrinho leva o próprio código e paga o próprio frete. A Cléa anuncia frete grátis acima de R$ 599, e a Insider, a partir de R$ 399; o carrinho da Insider mostra quanto falta.",
+          "Os dois códigos são de um por pedido. A Insider publica que o cupom não vale em lançamentos, mas no teste de carrinho o EMCASACOMCECILIA deu 15% em todas as peças deste guia, inclusive nas marcadas como lançamento e no conjunto. Antes de pagar, confira a linha do desconto em cada item. Na Cléa, o CSEMCASACOMCECILIA somou com os 30% da Black Friday e com o preço do kit."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Loja",
+            "Código",
+            "Desconto",
+            "Condição"
+          ],
+          "rows": [
+            [
+              "Cléa Store",
+              "CSEMCASACOMCECILIA",
+              "10%",
+              "Um voucher por pedido; somou com a Black Friday e com o kit no teste de carrinho."
+            ],
+            [
+              "Insider",
+              "EMCASACOMCECILIA",
+              "15%",
+              "Um cupom por pedido; confira a linha do desconto em cada peça."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Veja as regras nas páginas do [cupom Cléa Store](/cupons/clea-store) e do [cupom Insider](/cupons/insider), e as ofertas da data em [Black Friday da Cléa Store](/reviews/black-friday-clea-store) e [Black Friday da Insider](/reviews/black-friday-insider-feminino).",
+          "Se o look é para as festas de fim de ano, o guia certo é o de [looks de Natal e Réveillon da Cléa Store](/reviews/look-natal-reveillon-2026-clea-store)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Que calça usar com camiseta básica feminina? Calça de cintura alta resolve a maioria dos looks: jeans barrel ou wide leg com a camiseta por dentro na frente, ou alfaiataria, como a FutureForm da Insider, para o trabalho.",
+          "Camiseta oversized combina com saia? Combina quando a saia não disputa volume com ela: por dentro de uma saia midi com a cintura marcada, ou por fora de uma saia longa usada mais baixa. Com saia longa ou franzida, uma camiseta sem sobra de tecido, como a Tech T-Shirt, equilibra melhor.",
+          "Qual camiseta usar com blazer? Uma de caimento regular, como a Comfort de algodão peruano da Cléa. A oversized também funciona, por dentro da calça e com o blazer aberto.",
+          "Dá para usar o cupom da Cléa e o da Insider no mesmo look? Dá, em dois pedidos: cada loja tem o próprio carrinho, o próprio código e o próprio frete.",
+          "O cupom vale na Black Friday? Na Cléa, sim: o código somou com a promoção no teste de carrinho. Na Insider, os 15% incidiram sobre o preço promocional do dia; na data da Black Friday, confira a linha do desconto."
+        ]
+      }
+    ]
   }
 ];

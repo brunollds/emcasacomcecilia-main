@@ -47643,6 +47643,374 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/clea-store/looks-camiseta-basica-barrel-azul-claro.webp",
+      "local_url": "/images/reviews/clea-store/looks-camiseta-basica-barrel-azul-claro.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24890,
+      "sha256": "186396aedfca6eba0986776db812af52f60a73dec091e05c7b82479fcf135cc2",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "looks-camiseta-basica-barrel-azul-claro.webp",
+      "storage_filename": "looks-camiseta-basica-barrel-azul-claro.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/looks-com-camiseta-basica-feminina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/looks-com-camiseta-basica-feminina.json",
+          "line": 193,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/looks-camiseta-basica-barrel-azul-claro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 211634,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/looks-camiseta-basica-barrel-azul-claro.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/186396aedfca6eba0986776db812af52f60a73dec091e05c7b82479fcf135cc2/looks-camiseta-basica-barrel-azul-claro.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/186396aedfca6eba0986776db812af52f60a73dec091e05c7b82479fcf135cc2/looks-camiseta-basica-barrel-azul-claro.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:45:11.841Z",
+      "verification_etag_or_digest": "186396aedfca6eba0986776db812af52f60a73dec091e05c7b82479fcf135cc2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/looks-camiseta-basica-blazer-mescla.webp",
+      "local_url": "/images/reviews/clea-store/looks-camiseta-basica-blazer-mescla.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46282,
+      "sha256": "73efb8aa69ba61842f708011ba8a9c509252bff53e68b047469dd8c41590d252",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "looks-camiseta-basica-blazer-mescla.webp",
+      "storage_filename": "looks-camiseta-basica-blazer-mescla.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/looks-com-camiseta-basica-feminina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/looks-com-camiseta-basica-feminina.json",
+          "line": 570,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/looks-camiseta-basica-blazer-mescla.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 212011,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/looks-camiseta-basica-blazer-mescla.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/73efb8aa69ba61842f708011ba8a9c509252bff53e68b047469dd8c41590d252/looks-camiseta-basica-blazer-mescla.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/73efb8aa69ba61842f708011ba8a9c509252bff53e68b047469dd8c41590d252/looks-camiseta-basica-blazer-mescla.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:45:11.841Z",
+      "verification_etag_or_digest": "73efb8aa69ba61842f708011ba8a9c509252bff53e68b047469dd8c41590d252",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/looks-camiseta-basica-blazer-rosa.webp",
+      "local_url": "/images/reviews/clea-store/looks-camiseta-basica-blazer-rosa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26448,
+      "sha256": "96ba61d7a06c6f7ca222a5e2143ce833721ec499d81ba1d595dd99cbc1c34108",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "looks-camiseta-basica-blazer-rosa.webp",
+      "storage_filename": "looks-camiseta-basica-blazer-rosa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/looks-com-camiseta-basica-feminina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/looks-com-camiseta-basica-feminina.json",
+          "line": 588,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/looks-camiseta-basica-blazer-rosa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 212029,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/looks-camiseta-basica-blazer-rosa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/96ba61d7a06c6f7ca222a5e2143ce833721ec499d81ba1d595dd99cbc1c34108/looks-camiseta-basica-blazer-rosa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/96ba61d7a06c6f7ca222a5e2143ce833721ec499d81ba1d595dd99cbc1c34108/looks-camiseta-basica-blazer-rosa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:45:11.841Z",
+      "verification_etag_or_digest": "96ba61d7a06c6f7ca222a5e2143ce833721ec499d81ba1d595dd99cbc1c34108",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/looks-camiseta-basica-colete-vermelho.webp",
+      "local_url": "/images/reviews/clea-store/looks-camiseta-basica-colete-vermelho.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27784,
+      "sha256": "e14771bc93966c0861bc520b5ee259efd46bbe6c75c6d2fb501a8efcc0cb334a",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "looks-camiseta-basica-colete-vermelho.webp",
+      "storage_filename": "looks-camiseta-basica-colete-vermelho.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/looks-com-camiseta-basica-feminina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/looks-com-camiseta-basica-feminina.json",
+          "line": 579,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/looks-camiseta-basica-colete-vermelho.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 212020,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/looks-camiseta-basica-colete-vermelho.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e14771bc93966c0861bc520b5ee259efd46bbe6c75c6d2fb501a8efcc0cb334a/looks-camiseta-basica-colete-vermelho.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e14771bc93966c0861bc520b5ee259efd46bbe6c75c6d2fb501a8efcc0cb334a/looks-camiseta-basica-colete-vermelho.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:45:11.841Z",
+      "verification_etag_or_digest": "e14771bc93966c0861bc520b5ee259efd46bbe6c75c6d2fb501a8efcc0cb334a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/looks-camiseta-basica-comfort.webp",
+      "local_url": "/images/reviews/clea-store/looks-camiseta-basica-comfort.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40972,
+      "sha256": "83ffa2e58aaac4ec91e20944ad7894f3c8e8ca74cf97bbe27aad8b8ede71fe2e",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "looks-camiseta-basica-comfort.webp",
+      "storage_filename": "looks-camiseta-basica-comfort.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/looks-com-camiseta-basica-feminina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/looks-com-camiseta-basica-feminina.json",
+          "line": 127,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/looks-camiseta-basica-comfort.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 211568,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/looks-camiseta-basica-comfort.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/83ffa2e58aaac4ec91e20944ad7894f3c8e8ca74cf97bbe27aad8b8ede71fe2e/looks-camiseta-basica-comfort.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/83ffa2e58aaac4ec91e20944ad7894f3c8e8ca74cf97bbe27aad8b8ede71fe2e/looks-camiseta-basica-comfort.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:45:11.841Z",
+      "verification_etag_or_digest": "83ffa2e58aaac4ec91e20944ad7894f3c8e8ca74cf97bbe27aad8b8ede71fe2e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/looks-camiseta-basica-oversized-jeans.webp",
+      "local_url": "/images/reviews/clea-store/looks-camiseta-basica-oversized-jeans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47596,
+      "sha256": "8da692db1da27f7bb1cd8fdb581292dd097a3416c66c9b2d68849e38272a598f",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "looks-camiseta-basica-oversized-jeans.webp",
+      "storage_filename": "looks-camiseta-basica-oversized-jeans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/looks-com-camiseta-basica-feminina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/looks-com-camiseta-basica-feminina.json",
+          "line": 184,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/looks-camiseta-basica-oversized-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 211625,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/looks-camiseta-basica-oversized-jeans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8da692db1da27f7bb1cd8fdb581292dd097a3416c66c9b2d68849e38272a598f/looks-camiseta-basica-oversized-jeans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8da692db1da27f7bb1cd8fdb581292dd097a3416c66c9b2d68849e38272a598f/looks-camiseta-basica-oversized-jeans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:45:11.841Z",
+      "verification_etag_or_digest": "8da692db1da27f7bb1cd8fdb581292dd097a3416c66c9b2d68849e38272a598f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/looks-camiseta-basica-shorts-areia.webp",
+      "local_url": "/images/reviews/clea-store/looks-camiseta-basica-shorts-areia.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20456,
+      "sha256": "8db94fdfc2db99ea34e616cfe14cc847ac96f4e61217c0905643b637cf49892c",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "looks-camiseta-basica-shorts-areia.webp",
+      "storage_filename": "looks-camiseta-basica-shorts-areia.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/looks-com-camiseta-basica-feminina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/looks-com-camiseta-basica-feminina.json",
+          "line": 435,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/looks-camiseta-basica-shorts-areia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 211876,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/looks-camiseta-basica-shorts-areia.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8db94fdfc2db99ea34e616cfe14cc847ac96f4e61217c0905643b637cf49892c/looks-camiseta-basica-shorts-areia.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8db94fdfc2db99ea34e616cfe14cc847ac96f4e61217c0905643b637cf49892c/looks-camiseta-basica-shorts-areia.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:45:11.841Z",
+      "verification_etag_or_digest": "8db94fdfc2db99ea34e616cfe14cc847ac96f4e61217c0905643b637cf49892c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/looks-camiseta-basica-wide-leg.webp",
+      "local_url": "/images/reviews/clea-store/looks-camiseta-basica-wide-leg.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31126,
+      "sha256": "897971f6a7fbf121d621f740c3bc1230f77240bbf861e02e364295c137a0db16",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "looks-camiseta-basica-wide-leg.webp",
+      "storage_filename": "looks-camiseta-basica-wide-leg.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/looks-com-camiseta-basica-feminina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/looks-com-camiseta-basica-feminina.json",
+          "line": 202,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/looks-camiseta-basica-wide-leg.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 211643,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/looks-camiseta-basica-wide-leg.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/897971f6a7fbf121d621f740c3bc1230f77240bbf861e02e364295c137a0db16/looks-camiseta-basica-wide-leg.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/897971f6a7fbf121d621f740c3bc1230f77240bbf861e02e364295c137a0db16/looks-camiseta-basica-wide-leg.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:45:11.841Z",
+      "verification_etag_or_digest": "897971f6a7fbf121d621f740c3bc1230f77240bbf861e02e364295c137a0db16",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/conhecendo-mais-rabanada.avif",
       "local_url": "/images/reviews/conhecendo-mais-rabanada.avif",
       "media_kind": "image",
@@ -77581,6 +77949,144 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/looks-camiseta-basica-bermuda-kyoto.webp",
+      "local_url": "/images/reviews/insider/looks-camiseta-basica-bermuda-kyoto.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 14924,
+      "sha256": "529236aac4cbe147ec58c5f3fa435949940e7d4c6a1574d6fdb02e057bf39796",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "looks-camiseta-basica-bermuda-kyoto.webp",
+      "storage_filename": "looks-camiseta-basica-bermuda-kyoto.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/looks-com-camiseta-basica-feminina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/looks-com-camiseta-basica-feminina.json",
+          "line": 444,
+          "column": 19,
+          "literal": "/images/reviews/insider/looks-camiseta-basica-bermuda-kyoto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 211885,
+          "column": 21,
+          "literal": "/images/reviews/insider/looks-camiseta-basica-bermuda-kyoto.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/529236aac4cbe147ec58c5f3fa435949940e7d4c6a1574d6fdb02e057bf39796/looks-camiseta-basica-bermuda-kyoto.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/529236aac4cbe147ec58c5f3fa435949940e7d4c6a1574d6fdb02e057bf39796/looks-camiseta-basica-bermuda-kyoto.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:45:11.842Z",
+      "verification_etag_or_digest": "529236aac4cbe147ec58c5f3fa435949940e7d4c6a1574d6fdb02e057bf39796",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/looks-camiseta-basica-maxi-saia-nyin.webp",
+      "local_url": "/images/reviews/insider/looks-camiseta-basica-maxi-saia-nyin.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16260,
+      "sha256": "41629b9ecb40b21bdf54f0e6a280a59238fbc4cdb7178908592e93ea75d827a2",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "looks-camiseta-basica-maxi-saia-nyin.webp",
+      "storage_filename": "looks-camiseta-basica-maxi-saia-nyin.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/looks-com-camiseta-basica-feminina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/looks-com-camiseta-basica-feminina.json",
+          "line": 312,
+          "column": 19,
+          "literal": "/images/reviews/insider/looks-camiseta-basica-maxi-saia-nyin.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 211753,
+          "column": 21,
+          "literal": "/images/reviews/insider/looks-camiseta-basica-maxi-saia-nyin.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/41629b9ecb40b21bdf54f0e6a280a59238fbc4cdb7178908592e93ea75d827a2/looks-camiseta-basica-maxi-saia-nyin.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/41629b9ecb40b21bdf54f0e6a280a59238fbc4cdb7178908592e93ea75d827a2/looks-camiseta-basica-maxi-saia-nyin.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:45:11.842Z",
+      "verification_etag_or_digest": "41629b9ecb40b21bdf54f0e6a280a59238fbc4cdb7178908592e93ea75d827a2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/looks-camiseta-basica-saia-midi-tokyo.webp",
+      "local_url": "/images/reviews/insider/looks-camiseta-basica-saia-midi-tokyo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 13064,
+      "sha256": "4f6cfe461d5c043ff311337afb3446ea453aad8c3d60dba0766be53bba81bf3a",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "looks-camiseta-basica-saia-midi-tokyo.webp",
+      "storage_filename": "looks-camiseta-basica-saia-midi-tokyo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/looks-com-camiseta-basica-feminina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/looks-com-camiseta-basica-feminina.json",
+          "line": 303,
+          "column": 19,
+          "literal": "/images/reviews/insider/looks-camiseta-basica-saia-midi-tokyo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 211744,
+          "column": 21,
+          "literal": "/images/reviews/insider/looks-camiseta-basica-saia-midi-tokyo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4f6cfe461d5c043ff311337afb3446ea453aad8c3d60dba0766be53bba81bf3a/looks-camiseta-basica-saia-midi-tokyo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4f6cfe461d5c043ff311337afb3446ea453aad8c3d60dba0766be53bba81bf3a/looks-camiseta-basica-saia-midi-tokyo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:45:11.842Z",
+      "verification_etag_or_digest": "4f6cfe461d5c043ff311337afb3446ea453aad8c3d60dba0766be53bba81bf3a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/outlet-insider-feminino-vale-a-pena-body-insculpt.webp",
       "local_url": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-body-insculpt.webp",
       "media_kind": "image",
@@ -88656,6 +89162,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-31T00:31:43.912Z",
       "verification_etag_or_digest": "87b6e2deedd0040462991a260081c78893977d1659567fa6843627f8188c2751",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/looks/looks-com-camiseta-basica-feminina-capa.webp",
+      "local_url": "/images/reviews/looks/looks-com-camiseta-basica-feminina-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78784,
+      "sha256": "bfece19f8dd9d4c6ed5b6a1cdb91e163dce9ddd682a2814469edc08ac505a773",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "looks-com-camiseta-basica-feminina-capa.webp",
+      "storage_filename": "looks-com-camiseta-basica-feminina-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/looks-com-camiseta-basica-feminina.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/looks-com-camiseta-basica-feminina.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/looks/looks-com-camiseta-basica-feminina-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 211464,
+          "column": 15,
+          "literal": "/images/reviews/looks/looks-com-camiseta-basica-feminina-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bfece19f8dd9d4c6ed5b6a1cdb91e163dce9ddd682a2814469edc08ac505a773/looks-com-camiseta-basica-feminina-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bfece19f8dd9d4c6ed5b6a1cdb91e163dce9ddd682a2814469edc08ac505a773/looks-com-camiseta-basica-feminina-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-11T03:45:11.842Z",
+      "verification_etag_or_digest": "bfece19f8dd9d4c6ed5b6a1cdb91e163dce9ddd682a2814469edc08ac505a773",
       "verification_status": "verified"
     },
     {
