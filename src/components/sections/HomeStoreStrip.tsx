@@ -165,7 +165,7 @@ export function HomeStoreStrip({ tabs, ceciliaPhoto, selected, onSelect, copy }:
             onKeyDown={onTabKeyDown}
             register={registerTab}
           >
-            <StoreMark tab={tab} imageClassName="bolinha-logo h-[53%] w-[74%]" sizes="60px" loading="eager" />
+            <StoreMark tab={tab} imageClassName="h-[53%] w-[74%]" sizes="60px" loading="eager" tilt />
           </StoreBubble>
         ))}
       </div>
