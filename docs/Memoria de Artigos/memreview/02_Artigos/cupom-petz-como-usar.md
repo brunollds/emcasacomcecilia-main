@@ -10,7 +10,7 @@ type: "Guia & Cupons"
 status: "briefing"
 responsavel: "Job-1"
 proxima_acao: "decisões do Bruno (fim do briefing); depois pauta-aprovada e sessão de artigos"
-bloqueado_por: "Bruno: perguntas 1 a 4"
+bloqueado_por: "Bruno: perguntas 1, 3 e 4 (a 2 foi testada em 11/11)"
 data_criacao: "2026-11-11"
 i18n_cluster: null
 translationKey: null
@@ -49,8 +49,9 @@ promete primeira compra, aniversário, 15% nem frete grátis.
 5. Assinatura ou cupom: a assinatura dá 10% e também 10% nas avulsas, e não soma com cupom. Quem já assina não ganha
    nada com o EMCASA. Sem veredito de qual compensa (isso é a PZ5).
 6. Frete grátis e retirada: as faixas de R$ 199 e R$ 299 por região; o cupom que deixa o pedido abaixo do mínimo tira
-   o frete grátis; Retire na Loja com 5% (só CO, Sul e Sudeste, acima de R$ 199). Se o EMCASA soma com os 5% depende
-   da pergunta 2.
+   o frete grátis; Retire na Loja com 5% (só CO, Sul e Sudeste, acima de R$ 199). O EMCASA soma com os 5%: no teste de
+   11/11, R$ 379,98 viraram R$ 324,88 (10% do cupom e 5% da retirada sobre o resto). É o maior desconto da sacola sem
+   assinatura, e merece um capítulo próprio ("Cupom e retirada na loja: os dois somam").
 7. Site, app e loja física: o código é do site e do app; na loja física vale o preço do balcão e o Pesquise Lá, Compre
    Aqui (só nas lojas físicas).
 8. O cupom não funcionou: item em promoção maior que 10%, assinatura ativa, frete que sumiu, código com espaço, campo
@@ -105,12 +106,13 @@ Maxi Adult 12 kg) na seção 4, com `href` da página do produto na Petz. Fotos 
 | Não cumulativo, salvo retirada e frete grátis | fatos, seção 3 | verificado |
 | Assinatura: 10% e avulsas, não soma com cupom | fatos, seção 4 | verificado |
 | Frete grátis por região e regra do mínimo depois do cupom | fatos, seção 5 | verificado |
-| EMCASA em serviço, com retirada e uso repetido | — | não testado: perguntas 1 a 3 |
+| EMCASA soma com o Retire na Loja: R$ 379,98 → R$ 324,88 | fatos, seção 5 (teste de 11/11) | verificado |
+| EMCASA em serviço e uso repetido | — | não testado: perguntas 1 e 3 |
 
 ## Perguntas para o Bruno (valem para os quatro briefings)
 1. O EMCASA vale em serviço (banho e tosa, Seres, vacina)? Se não houver teste, o texto diz que é o código das compras
    no site e no app, e não fala de serviço.
-2. Dá para testar uma sacola com Retire na Loja acima de R$ 199? A regra da Petz diz que o desconto de retirada soma
+2. Respondida em 11/11 pelo teste na sacola: soma. Era: dá para testar uma sacola com Retire na Loja acima de R$ 199? A regra da Petz diz que o desconto de retirada soma
    com outro desconto; sem teste, o artigo cita só a regra.
 3. O EMCASA aceita uma segunda compra no mesmo CPF? Sem teste, nada de "vale toda vez".
 4. Vocês têm pet em casa e compram na Petz? Se sim, que bicho e o que compram: entra como experiência no é confiável e
