@@ -52,6 +52,7 @@ plano Basic é gratuito para qualquer casal, com ou sem o link. Nos artigos dest
 | `/images/about/partners/lejour.png` | Parte "le jour" do logotipo "Fast Shop + le jour" do site oficial, baixado em 2026-10-13 | Parceiros comerciais no `/sobre` | Identificação da marca parceira |
 | `/images/about/partners/lejour-icon.png` | Favicon oficial ("lj." no fundo coral), baixado em 2026-10-13 | Bolinha da home, chip e imagem de compartilhamento | Identificação da marca parceira |
 | `/images/logos/watermarks/lejour.webp` | Silhueta do "le jour" | Marca-d'água da página e dos cards | Identificação da marca parceira |
+| `/images/logos/bolinhas/lejour.png` | Favicon oficial (`https://lejour.com.br/wp-content/uploads/2022/04/Fav-Icon-Lejour.png`, 512 × 512), baixado em 2026-11-11. Só o "lj." branco, em 512 × 512 transparente (94% da altura); o coral do favicon virou o `background` (`#E2645A`) | Bolinha da home e de /reviews | Identificação da marca parceira |
 
 Os logos estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo,
 conforme `docs/GUIA-MIDIA-EDITORIAL.md`.

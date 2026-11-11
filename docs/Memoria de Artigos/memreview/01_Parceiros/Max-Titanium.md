@@ -60,6 +60,7 @@ artigos (Bruno, 14/10/2026).
 | `/images/about/partners/max-titanium.png` | Logotipo SVG do site oficial (MAX TITANIUM), baixado em 2026-10-14 | Parceiros comerciais no `/sobre` | Identificação da marca parceira |
 | `/images/about/partners/max-titanium-icon.png` | Favicon SVG oficial ("MAX" empilhado), com margem, sobre branco em 256 × 256 | Bolinha da home, chip e imagem de compartilhamento | Identificação da marca parceira |
 | `/images/logos/watermarks/max-titanium.webp` | Silhueta do logotipo | Marca-d'água da página e dos cards | Identificação da marca parceira |
+| `/images/logos/bolinhas/max-titanium.png` | Favicon SVG oficial, o "MAX" empilhado (`https://www.maxtitanium.com.br/favicon.svg`), baixado em 2026-11-11. Versão clara do arquivo, em 512 × 512 transparente (84% do lado) | Bolinha da home e de /reviews | Identificação da marca parceira |
 
 Os logos estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo,
 conforme `docs/GUIA-MIDIA-EDITORIAL.md`.

@@ -66,6 +66,7 @@ Testes de 2026-11-03:
 | `/images/about/partners/simple-organic.png` | Logo oficial (SVG do cabeçalho do site), em 300 px de largura com margem, 340 × 113 | Parceiros comerciais no `/sobre` | Identificação da marca parceira |
 | `/images/about/partners/simple-organic-icon.png` | O "S|" do ícone oficial do site (SVG), centralizado em 256 × 256 sobre branco | Bolinha da home, chip e imagem de compartilhamento | Identificação da marca parceira |
 | `/images/logos/watermarks/simple-organic.webp` | Logo oficial, 480 × 148, fundo transparente | Marca-d'água da página e dos cards | Identificação da marca parceira |
+| `/images/logos/bolinhas/simple-organic.png` | O "S\|" do ícone oficial do site, em SVG (`https://cdn.shopify.com/s/files/1/0469/4500/9826/files/safari-pinned-tab_8cdcb7bf-da77-4058-9c39-bc4bda3fdcdc.svg?v=1716513234`), baixado em 2026-11-11. Sem troca de cor, em 512 × 512 transparente (80% do lado) | Bolinha da home e de /reviews | Identificação da marca parceira |
 
 Os logos estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo,
 conforme `docs/GUIA-MIDIA-EDITORIAL.md`.

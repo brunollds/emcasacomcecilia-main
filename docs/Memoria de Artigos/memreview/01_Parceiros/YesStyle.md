@@ -47,3 +47,9 @@ com início e fim em GMT. As páginas antigas seguem no ar, fora do menu, e os i
 
 A Black Friday de 2026 ainda não tinha página em 11/10/2026. Os códigos dos cupons ficam fora dos
 artigos (seção 1).
+
+## Mídia da Marca
+
+| Arquivo | Origem | Uso | Licença |
+|---|---|---|---|
+| `/images/logos/bolinhas/yesstyle.png` | Favicon SVG oficial (`https://www.yesstyle.com/_next_img/favicon/favicon-new.svg`), baixado em 2026-11-11. Símbolo verde, em 512 × 512 transparente (76% do lado) | Bolinha da home e de /reviews | Identificação da marca parceira |

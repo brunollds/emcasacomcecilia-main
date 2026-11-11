@@ -60,6 +60,7 @@ para R$ 1.349,91. Mala de Bordo Detroit Preta, do Outlet, de R$ 249,90 para R$ 2
 | `/images/about/partners/bagaggio.png` | Logo oficial do cabeçalho do site (PNG de 4515 × 656), 300 × 44 | Parceiros comerciais no `/sobre` | Identificação da marca parceira |
 | `/images/about/partners/bagaggio-icon.png` | O "B" do logo oficial, centralizado em 256 × 256 sobre branco | Bolinha da home, chip e imagem de compartilhamento | Identificação da marca parceira |
 | `/images/logos/watermarks/bagaggio.webp` | Logo oficial, 480 × 70 | Marca-d'água da página e dos cards | Identificação da marca parceira |
+| `/images/logos/bolinhas/bagaggio.png` | Logo do cabeçalho do site (`https://decoims.com/lojabagaggio/d2d9caa2-5c17-408e-8ffe-f8d4f35d1370/bagaggio-logo-2022.png`, 4515 × 656), baixado em 2026-11-11. Recortado o "B" do logo "BAGAGGIO", em 512 × 512 transparente (78% da altura) | Bolinha da home e de /reviews | Identificação da marca parceira |
 
 Os logos estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo,
 conforme `docs/GUIA-MIDIA-EDITORIAL.md`.

@@ -78,6 +78,7 @@ salvo a Mini Me. Reconsultar no fim de outubro para o artigo `black-friday-dolce
 | Arquivo | Origem | Uso | Licença |
 |---|---|---|---|
 | `IMG_6839.HEIC` (Downloads do Bruno, a converter) | Selfie da Cecília entre os pés de café floridos, com chapéu e camisa da NESCAFÉ Dolce Gusto, numa visita com a marca | Capa prevista de `black-friday-dolce-gusto` | Própria |
+| `/images/logos/bolinhas/dolce-gusto.png` | Favicon oficial do site (`https://www.nescafe-dolcegusto.com.br/media/favicon/stores/1/DGNG_favicon_1_1.ico`, camada de 256 × 256), baixado em 2026-11-11 pelo Chrome. Selo redondo ampliado 1,9×, em 512 × 512 transparente (94% do lado) | Bolinha da home e de /reviews | Identificação da marca parceira |
 
 ---
 

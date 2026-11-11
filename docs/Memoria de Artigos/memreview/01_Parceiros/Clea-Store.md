@@ -65,6 +65,7 @@ primeiro pela pauta (Job 1) e depois pela sessão de artigos (Bruno, 14/10/2026)
 | `/images/about/partners/clea-store.png` | Logotipo SVG branco do cabeçalho do site oficial ("CLÉASTORE"), recolorido para escuro, baixado em 2026-10-14 | Parceiros comerciais no `/sobre` | Identificação da marca parceira |
 | `/images/about/partners/clea-store-icon.png` | Ícone oficial do site ("C" preto), sobre branco em 256 × 256 | Bolinha da home, chip e imagem de compartilhamento | Identificação da marca parceira |
 | `/images/logos/watermarks/clea-store.webp` | Silhueta do logotipo | Marca-d'água da página e dos cards | Identificação da marca parceira |
+| `/images/logos/bolinhas/clea-store.png` | SVG inline do cabeçalho de `https://www.cleastore.com.br/` (`h1.logo > a > svg`, 471 × 79), salvo em 2026-11-11. Recortado o "C" do logo "CLÉASTORE" e pintado de preto, como o ícone oficial, em 512 × 512 transparente (100% do lado) | Bolinha da home e de /reviews | Identificação da marca parceira |
 
 Os logos estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo,
 conforme `docs/GUIA-MIDIA-EDITORIAL.md`.

@@ -65,6 +65,7 @@ Amalfi Sunset foram de R$ 443,50 para R$ 359,24.
 | `/images/about/partners/skelt.png` | Logo oficial do cabeçalho do site (SVG), 300 × 114 | Parceiros comerciais no `/sobre` | Identificação da marca parceira |
 | `/images/about/partners/skelt-icon.png` | O "s" do logo oficial (SVG), centralizado em 256 × 256 sobre branco | Bolinha da home, chip e imagem de compartilhamento | Identificação da marca parceira |
 | `/images/logos/watermarks/skelt.webp` | Logo oficial (SVG), 480 × 183 | Marca-d'água da página e dos cards | Identificação da marca parceira |
+| `/images/logos/bolinhas/skelt.png` | Logo SVG do cabeçalho do site (`https://skelt.vtexassets.com/assets/vtex/assets-builder/skelt.theme-skelt/2.0.39/logo/logo-black___3b0a463e584692cba903c13aa9e9cabb.svg`), baixado em 2026-11-11. Recortado o "s" do logo "skelt", em 512 × 512 transparente (96% da altura) | Bolinha da home e de /reviews | Identificação da marca parceira |
 
 Os logos estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo,
 conforme `docs/GUIA-MIDIA-EDITORIAL.md`.

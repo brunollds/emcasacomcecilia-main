@@ -58,3 +58,9 @@ vale em todo idioma, e o `test:review-i18n` não barra mais o host fora do PT.
 | Pagamento: Pix, cartão em até 6x, boleto (3 dias), PayPal, Pagaleve; reembolso Pix em 1–3 dias úteis; imposto de importação não volta depois do envio | `Payment-Method-a-278`, `refund-a-1610` | — |
 
 Guia: [[02_Artigos/black-friday-shein]] (família `shein-black-friday`, a primeira da SHEIN).
+
+## Mídia da Marca
+
+| Arquivo | Origem | Uso | Licença |
+|---|---|---|---|
+| `/images/logos/bolinhas/shein.png` | O "SHEIN" escrito, SVG inline do cabeçalho de `https://br.shein.com/` (`a#header_logo_icon > svg`, 106 × 22), salvo em 2026-11-11. Pintado de preto, em 512 × 512 transparente (100% da largura) | Bolinha da home e de /reviews | Identificação da marca parceira |

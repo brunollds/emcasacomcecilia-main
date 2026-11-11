@@ -65,6 +65,7 @@ promoção progressiva (−R$ 43,28) e mais 10% do MAUAD (−R$ 31,75): R$ 285,7
 | `/images/about/partners/toda-up.png` | Logo oficial do cabeçalho do site (PNG de 346 × 243), recortado em 340 × 243 | Parceiros comerciais no `/sobre` | Identificação da marca parceira |
 | `/images/about/partners/toda-up-icon.png` | O logo oficial, centralizado em 256 × 256 sobre branco | Bolinha da home, chip e imagem de compartilhamento | Identificação da marca parceira |
 | `/images/logos/watermarks/toda-up.webp` | Logo oficial, 340 × 243, sem ampliar | Marca-d'água da página e dos cards | Identificação da marca parceira |
+| `/images/logos/bolinhas/toda-up.png` | Logo do cabeçalho do site (`https://todaup.com/cdn/shop/files/logo_favicon_toda_up.png?v=1773068425`, 346 × 243), baixado em 2026-11-11. Recortado rente e ampliado 1,5×, em 512 × 512 transparente (100% da largura) | Bolinha da home e de /reviews | Identificação da marca parceira |
 
 Os logos estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo,
 conforme `docs/GUIA-MIDIA-EDITORIAL.md`.
