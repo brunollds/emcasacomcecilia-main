@@ -1,6 +1,6 @@
 ---
-titulo_provisorio: "Como usar o cupom EMCASA na Petz e quando a promoção vale mais"
-seo_title: "Como usar o cupom EMCASA na Petz (site e app)"
+titulo_provisorio: "Como usar o cupom EMCASA na Petz: promoção, retirada e frete"
+seo_title: "Como usar o cupom EMCASA na Petz e somar com a retirada"
 slug_sugerido: "cupom-petz-como-usar"
 parceiro: "[[Petz]]"
 parceiro_slug: "petz"
@@ -37,6 +37,16 @@ ler a sacola. A cupomtiff tem cerca de 25 variações de "cupom Petz" com o cód
 "cupom petz ração" e "cupom petz aniversário" (lista completa em [[Pesquisas-de-Pauta]], seção Petz). O artigo
 responde: qual é o nosso, quanto dá, onde entra, por que às vezes não muda o preço e o que fazer se não funcionar. Não
 promete primeira compra, aniversário, 15% nem frete grátis.
+
+## O que só este artigo dá (busca de 11/11/2026)
+
+- **Cupom e retirada:** o que a busca traz sobre somar cupom com o Retire na Loja são relatos de sites de promoção de
+  2019 a 2021, que se contradizem (uns dizem que soma, outros que o desconto da retirada acabou), e páginas de cupom
+  que anunciam "até 10% + 5% na retirada" sem dizer se acumula. O teste de 11/11 responde com a sacola de hoje. Por
+  isso a retirada entra no título e no snippet, e o capítulo dela vem logo depois do capítulo 4, antes da assinatura.
+- **Desconto maior, item a item:** os sites de cupom repetem "não cumulativo" sem mostrar o que acontece na sacola.
+  A tabela do teste mostra os três casos.
+- Ninguém no topo ensina a ler a linha "Total de descontos". O passo a passo termina nela.
 
 ## Esqueleto
 1. Resposta rápida: EMCASA, 10% OFF no site e no app, no campo "Digite seu cupom" da sacola; em produto já em
@@ -84,11 +94,11 @@ promete primeira compra, aniversário, 15% nem frete grátis.
   `typecheck`. Squash sem deploy.
 
 ## Metadados sugeridos
-- **title:** Como usar o cupom EMCASA na Petz e quando a promoção vale mais
-- **seoTitle:** Como usar o cupom EMCASA na Petz (site e app) (45 caracteres)
-- **metaDescription (rascunho):** EMCASA dá 10% OFF no site e no app da Petz. Veja onde colar na sacola e por que, em
-  produto já em promoção, fica o desconto maior. (139 caracteres; o código termina no caractere 6)
-- **editorialNote:** Cupom testado na sacola do site; podemos receber comissão pelo código.
+- **title:** Como usar o cupom EMCASA na Petz: promoção, retirada e frete
+- **seoTitle:** Como usar o cupom EMCASA na Petz e somar com a retirada (55 caracteres)
+- **metaDescription (rascunho):** EMCASA dá 10% OFF no site e no app da Petz. Veja onde colar na sacola, quando fica o desconto maior e como somar com a retirada. (128 caracteres; o código termina no caractere 6)
+- **editorialNote:** Cupom testado na sacola do site, sem uso dos produtos. Podemos receber comissão pelo cupom. (O
+  padrão das outras lojas; a comissão só aparece aqui, nunca no corpo.)
 - **cta:** Ir para a Petz; texto: entre pelo botão e cole o EMCASA no campo "Digite seu cupom" da sacola; url do
   `offerUrl` (sponsored).
 - **decision:** leve se você compra avulso no site ou no app, sem assinatura, e a sacola tem item fora de promoção;
