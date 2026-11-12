@@ -88,6 +88,14 @@ se mede o tempo gasto.
 - **Frete:** registrar o CEP usado, porque ele prova só aquele cenário. Para o mínimo do frete grátis,
   um carrinho abaixo e um acima dele, anotando se a base é antes ou depois do cupom. Regra de outra
   região só com fonte própria (a política da loja).
+- **Pagamento e frete publicados:** reler a política de pagamento e a de frete de cada loja e acertar o
+  `paymentPerks`, o `shipping`, a linha `frete` do `stacking` e o FAQ de frete, que dizem o mesmo fato.
+  Na linha do Pix, pôr o percentual onde a loja o mostra e tirar a linha onde o pagamento mostrar que a
+  loja não dá desconto no Pix.
+- **Percentual dos sites de cupom:** refazer a busca das lojas com o FAQ "Existe cupom <loja> de X%?" e
+  acertar o percentual da pergunta; loja em que nenhum site anuncia mais que o nosso perde a pergunta.
+- **Print do carrinho:** o carrinho do teste rende o print novo. Trocar o `cartPrint` só quando o código
+  ou o percentual da imagem deixar de valer; print novo entra pelo fluxo de mídia.
 - **Mecânica própria, com roteiro próprio:** SHEIN, Magalu, Lejour, Hostinger e YesStyle. O
   `validate:yesstyle` confere os nossos dados; não prova que a loja aceitou o código.
 - **Sem login, sem cadastro e sem finalizar compra.** Site que bloqueia robôs (Petz) vai pelo navegador.
@@ -215,6 +223,66 @@ Uma falha em uma marca não autoriza atualizar as demais. Registre datas diferen
 testes acontecerem em dias diferentes.
 
 ---
+
+### Loja nova (checklist)
+
+O que uma parceira nova precisa para a página `/cupons/<loja>` nascer completa. Os dados vêm do briefing do
+Bruno, do site da loja e de um teste no carrinho; o que não foi lido nem testado fica de fora, sem campo vazio.
+
+**Antes, com o Bruno:** código e percentual, link exatamente como veio (não editar UTM nem caminho), categorias que
+entram e que ficam de fora, e se a loja é internacional (aí vale também a checklist seguinte). Regra de loja se lê
+nos termos e nas políticas dela antes de virar pergunta.
+
+1. **Entrada em `src/lib/couponsData.ts`**, no modelo de uma loja de código recente (Petz, HolyFoods, Simple
+   Organic): `slug`, `brand`, `officialUrl`, `offerUrl`, `code`, `discount` e `discountNumber`, `category` e
+   `hubCategory`, textos (`shortDescription`, `longDescription`, `aboutBrand`), regras (`eligibleCategories`,
+   `validity`, `reusable`, `shipping`, `combinable`), `metaTitle` sem mês com `metaTitleMonth: true`,
+   `metaDescription` abrindo com "Cupom <Loja>:" em até 155 caracteres, `lastVerified` e `status`.
+2. **Teste no carrinho** (sem login, sem cadastro, sem finalizar compra): `testedAt` e `testNote` com o produto, o
+   total antes e depois e o que somou. Sem teste, a loja entra sem os dois e sem a seção "Como testamos o cupom".
+   Teste registrado por outra sessão, em artigo ou no vault, vale.
+3. **`stacking`** ("O que acumula com o cupom"): promoções, Pix (a linha entra por padrão, com o percentual só se a
+   loja mostra), cashback, outro cupom, frete grátis e retirada, cada linha só com fato lido ou testado.
+4. **`paymentPerks`** ("Vantagens além do cupom"): o parcelamento da política de pagamento da loja. Sem
+   parcelamento lido, a loja fica sem a seção.
+5. **`shipping` e FAQ de frete:** a regra de frete grátis da política da loja, com o mínimo por região e se o valor
+   conta antes ou depois do cupom. O FAQ diz que o cupom não dá frete grátis e fecha com essa regra.
+6. **FAQs:** o código literal na pergunta, primeira compra e cliente antigo (todo código vale para os dois), formas
+   de pagamento, frete, e "Existe cupom <loja> de X%?" só se a busca mostrar site de cupom anunciando mais que o
+   nosso. Nenhum código nem site de terceiros; o cupom de boas-vindas da própria loja só entra com decisão do Bruno.
+7. **`cartPrint`:** o print do código aplicado no carrinho do teste, sem dado pessoal, pelo fluxo do
+   `docs/GUIA-MIDIA-EDITORIAL.md`. Pode ficar para depois: sem o campo, o bloco não aparece.
+8. **Marca:** logo e ícone em `public/images/about/partners/`, a marca-d'água em `public/images/logos/watermarks/` e a
+   bolinha, todos pelo fluxo de mídia; a marca em `src/lib/aboutPage.ts` (marcas parceiras da `/sobre`). Logo AVIF
+   pede `socialImage` em JPG, PNG ou WebP.
+9. **Documentação:** a linha da loja na tabela "Ofertas mantidas no contrato atual" (abaixo), em
+   `docs/CUPONS-DATAS-RASTREAMENTO.md` e em `docs/FORMA-DE-CONTEUDO-POR-MARCA.md`, e o dossiê em
+   `docs/Memoria de Artigos/memreview/01_Parceiros/<Loja>.md`.
+10. **Travas:** `scripts/test-coupon-offer-modes.ts` lista as lojas conferidas e as exceções (loja sem tabela, regra
+    própria de promoção). Rodar `npm run typecheck`, `npm run test:coupon-offer-modes`,
+    `npm run test:coupon-translations`, `npm run build` e `npm run test:build-output`.
+11. **Revisão e entrega:** PR com `src/` vai à sessão "Redesenho do site". Deploy só com o GO do Bruno; depois dele,
+    IndexNow da página nova, de `/cupons`, do sitemap e do `llms.txt`.
+
+**Entra sozinho com a entrada do passo 1:** a página `/cupons/<loja>` com o JSON-LD em `@graph`, o cartão em
+`/cupons`, a bolinha e a aba na home e em `/reviews` (com artigo), o recorte e o dock nos artigos da loja, a busca, o
+sitemap e o `llms.txt`.
+
+**Fica à parte:** os artigos (como usar o cupom, primeira compra, "é boa?") são da sessão de artigos, por handoff
+com os fatos do dossiê; campanhas com prazo vão em `content/campanhas/` (`docs/CAMPANHAS.md`).
+
+### Leituras em aberto (12/11/2026)
+
+Ficaram sem dado, por leitura que não fechou. Reler na rodada de 01/12/2026:
+
+- **Parcelamento:** Max Titanium (3x sem juros no produto, 6x na descrição da página), Dr. Peanut ("em até 4x",
+  sem dizer se é sem juros), Toda Up, Skelt, Dolce Gusto, Insider, Let's Eat It, I Wanna Sleep, HolyFoods e Magalu.
+- **Frete:** I Wanna Sleep (R$ 150 na central de ajuda, R$ 399 na home), Toda Up (faixa de campanha com frete grátis
+  em todos os pedidos) e Nestlé Nutre (R$ 200 na home, em campanha). Na Belive, a página de regras de frete põe o RJ
+  na faixa de R$ 170 e o FAQ da loja, na de R$ 300; a nossa página segue a de regras.
+- **FAQ do percentual:** Black Skull e Toda Up ficaram sem a pergunta, porque a busca de 12/11 não confirmou site de
+  cupom anunciando mais que o nosso.
+- **Sites que bloqueiam leitura automática** (Dolce Gusto, Nestlé Nutre, Petz e Magalu) abrem no navegador.
 
 ### Parceiro internacional
 

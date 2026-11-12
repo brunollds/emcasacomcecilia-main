@@ -29,6 +29,11 @@ Experimentação COMPLETÃO 40 unid. com GoodSoy, Kit 10 Brownies Proteicos e Co
 subtotal de R$ 576,82; com o MAUAD, R$ 57,68 de desconto e total de R$ 519,14, ou R$ 493,18 no Pix.
 O campo se chama "Código do cupom", com o botão "Aplicar cupom".
 
+Pagamento e frete publicados pela loja, lidos no site dela em 2026-11-12 pela sessão de cupons (estão em `/cupons` desde o #924; reler na rodada mensal):
+
+- Parcelamento: até 2x sem juros no cartão (FAQ da loja).
+- Frete: a página de regras de frete põe o RJ na faixa de R$ 170 e o FAQ da loja, na de R$ 300; `/cupons/belive` segue a página de regras.
+
 ---
 
 ## 2. Fatos Oficiais & Catálogo (Estáveis)
