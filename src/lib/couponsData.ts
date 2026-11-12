@@ -2463,7 +2463,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom MAUAD vale para todos os produtos da Toda Up?',
         answer:
-          'Sim. O MAUAD dá 15% OFF em todos os produtos do site oficial da Toda Up: sutiãs, tops, calcinhas, adesivos e acessórios, inclusive os que já estão em promoção.',
+          'Sim. O MAUAD dá 15% OFF em todos os produtos do site oficial da Toda Up: sutiãs, tops, calcinhas, adesivos e acessórios, inclusive os que já estão em promoção. A exceção é a Black VIP, enquanto ela durar: nela, a loja não aceita o cupom de influenciadora.',
       },
       {
         question: 'A Toda Up é a antiga Fita Up? O cupom vale no site todaup.com?',
