@@ -358,7 +358,7 @@ const STORE_COUPONS: Coupon[] = [
     eligibleCategories:
       'Todo o site oficial Dolce Gusto, em compras a partir de R$ 100',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
-    reusable: 'Sim, até 3 usos por campanha',
+    reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Soma com as promoções vigentes da loja oficial',
     lastVerified: '2026-11-11',
@@ -396,7 +396,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Posso usar o cupom CECI mais de uma vez?',
         answer:
-          'Sim, o cupom aceita até 3 usos por campanha. Quando a campanha muda, o mesmo código volta a valer.',
+          'A regra de reutilização depende da política da loja e da campanha vigente. Se houver limite por conta, CPF ou pedido, o checkout informa.',
       },
       {
         question: 'O cupom CECI está funcionando hoje?',
@@ -432,7 +432,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O que fazer se o cupom CECI não funcionar?',
         answer:
-          'Confira se o carrinho passa de R$ 100, porque abaixo disso a loja recusa o cupom, se o código foi digitado sem espaços e se você já usou o CECI 3 vezes na campanha atual. O cupom vale no site e no app oficiais da Nescafé Dolce Gusto, não no Mercado Livre. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+          'Confira se o carrinho passa de R$ 100, porque abaixo disso a loja recusa o cupom, e se o código foi digitado sem espaços. O cupom vale no site e no app oficiais da Nescafé Dolce Gusto, não no Mercado Livre. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
     ],
     status: 'ativo',
