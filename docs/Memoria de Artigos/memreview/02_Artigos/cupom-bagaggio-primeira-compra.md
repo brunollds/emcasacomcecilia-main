@@ -1,0 +1,167 @@
+---
+titulo_provisorio: "Cupom Bagaggio primeira compra: CECILIA10 dá 10% OFF e vale nas compras seguintes"
+seo_title: "Cupom Bagaggio primeira compra: 10% OFF com CECILIA10"
+slug_sugerido: "cupom-bagaggio-primeira-compra"
+parceiro: "[[Bagaggio]]"
+parceiro_slug: "bagaggio"
+category: "cupons-como-usar"
+reviewKind: "guia"
+type: "Guia & Cupons"
+status: "pauta-aprovada"
+responsavel: "Job-1"
+proxima_acao: "leitura da campanha Leve 3 pague 2 no carrinho; redação"
+bloqueado_por: "-"
+data_criacao: "2026-11-12"
+pauta_id: "PC-BAGAGGIO"
+i18n_cluster: null
+translationKey: null
+modo_i18n: "somente-pt"
+idioma_fonte: "pt"
+idiomas_alvo: []
+status_i18n: "nao-aplicavel"
+affiliate: "bagaggio"
+coupon: "CECILIA10"
+---
+
+# Briefing: Cupom Bagaggio primeira compra (PC-BAGAGGIO)
+
+Série [[cupom-primeira-compra-serie-1211]] (o molde e as regras valem). Pesquisa da loja em
+[[primeira-compra-semente-bagaggio]]; as decisões do Bruno de 12/11 estão no topo de
+[[primeira-compra-sementes-indice-1211]] e valem sobre a ficha. A ficha propõe comparar o CECILIA10 com o
+desconto de primeira compra da própria loja, no site e no app: essa comparação foi descartada (decisão de 12/11).
+O artigo não cita esse desconto nem o app da loja como benefício de primeiro pedido.
+
+Exceção dada pelo Bruno só para esta loja: o artigo pode dizer que o CECILIA10 é "um dos melhores cupons para a
+primeira compra, no site ou no app". Não usar a frase em nenhuma outra loja.
+
+Quem busca vai fazer o primeiro pedido de mala, mochila ou acessório de viagem e quer saber se existe cupom. O
+artigo responde com o nosso código, diz o que o pedido exige e que o código vale de novo depois.
+
+## Busca
+
+- **Search Console:** sem export com as consultas da Bagaggio nesta rodada. A medição fica como pendência.
+- **Autocompletar (12/11):** "cupom bagaggio primeira compra" (com "cupom primeira bagaggio" de "cupom bagaggio
+  prim"); "bagaggio primeira compra" e "bagaggio desconto primeira compra". "cupom bagaggio cliente antigo" não
+  trouxe sugestão.
+
+## Canibalização
+
+O Bruno decidiu em 12/11 que a canibalização não veta a série. A função de cada página:
+
+- `/cupons/bagaggio`: qual código está ativo e as condições. O FAQ dela já responde "vale na primeira compra" e
+  "vale para quem já comprou"; o artigo novo não contradiz esse FAQ.
+- [[cupom-bagaggio-como-usar]]: onde colar o código, o Pix e a conta da sacola. Tem uma pergunta de primeira compra
+  que cita um desconto da própria loja (divergência, na seção Regras); a correção é da sessão de artigos.
+- [[bagaggio-e-confiavel]] e [[bagaggio-garantia-vitalicia]]: confiança e garantia. Só linkam.
+
+## O que só este artigo dá (busca de 12/11/2026)
+
+O topo de "cupom bagaggio primeira compra" é de agregadores, que anunciam 10% na primeira compra ou "até 20%", com
+códigos de terceiros, e de um registro de reclamação. Nenhum diz o que o pedido exige nem se o código vale depois.
+
+Frase de ganho de informação:
+
+> Este artigo diz a quem faz o primeiro pedido na Bagaggio que o CECILIA10 dá 10% em todo o site, Outlet incluso,
+> que soma com o Pix da loja, que o frete é calculado pelo CEP, que o código não vale no Mercado Livre e que ele
+> segue valendo nas compras seguintes.
+
+- **Um código testado, com a conta:** uma mala de bordo do Outlet saiu de R$ 179,90 para R$ 161,91 com o código,
+  na conta do teste da página da loja. Nenhum agregador traz a conta.
+- **O que o pedido exige:** site ou app, um cupom por pedido, frete pelo CEP e campanhas que podem mudar a conta.
+- **Vale também para quem já comprou.**
+
+## Esqueleto
+
+1. **Resposta rápida** (40 a 60 palavras, sem "R$"). Rascunho, 53 palavras:
+   > Para a primeira compra na Bagaggio, use CECILIA10: 10% OFF em todo o site, inclusive no Outlet e em produtos
+   > já em promoção. O mesmo percentual vale para quem já comprou, e o código soma com o Pix. Ele é um dos melhores
+   > cupons para a primeira compra, no site ou no app.
+2. **Cupom Bagaggio primeira compra: qual usar.** O H2 repete a busca. Frase-resposta logo abaixo: "Use o
+   CECILIA10: 10% OFF em todos os produtos do site, Outlet incluso, com qualquer forma de pagamento. Ele é um dos
+   melhores cupons para a primeira compra, no site ou no app, e vale nas compras seguintes."
+3. **O que o primeiro pedido exige.** Só o que a loja publica ou o carrinho mostrou:
+   - vale no site oficial e no aplicativo, no campo "Cupom de desconto" do carrinho;
+   - um cupom por pedido: a loja não acumula cupons no mesmo pedido, de nenhuma origem;
+   - o frete é calculado pelo CEP no carrinho; a loja também mostra retirada em lojas próximas, conforme a
+     disponibilidade;
+   - não vale no Mercado Livre;
+   - **não escrever "sem valor mínimo" nem "sem limite de usos":** a ficha não achou nenhum dos dois na loja.
+4. **Quanto fica, com Pix e promoção.** A conta do teste da página da loja, uma vez: uma mala de bordo Downtown do
+   Outlet, de R$ 249,90 por R$ 179,90 na promoção; com o código, o total caiu para R$ 161,91, com R$ 17,99 de
+   desconto. Dizer que o código soma com o Pix (a loja tira 5% depois do código no Pix, conforme o teste de
+   22/10), sem refazer a conta no texto. Reler o preço da mala no dia; se mudou, refazer a conta com o preço novo.
+5. **E na segunda compra?** O CECILIA10 vale de novo, com os mesmos 10%, para quem já comprou. É a frase que
+   responde "cupom Bagaggio para quem já é cliente".
+6. **Onde colar o código.** Três linhas: campo "Cupom de desconto" do carrinho, no site ou no app, antes de
+   escolher a forma de pagamento. Link para [[cupom-bagaggio-como-usar]].
+7. **FAQ (3 a 5), sem data:**
+   - "Tem cupom Bagaggio de primeira compra?" (o CECILIA10, com 10%, no primeiro pedido e nos seguintes)
+   - "Qual cupom Bagaggio vale para quem já é cliente?" (o mesmo código, com os mesmos 10%)
+   - "O cupom Bagaggio soma com o Pix?" (sim; no Pix, a loja ainda tira o desconto dela depois do código)
+   - "O cupom Bagaggio vale no Mercado Livre?" (não; vale no site e no app da loja)
+
+Sem quadro `decision`: a comparação com o benefício da loja saiu, e não há escolha entre dois benefícios no texto.
+
+## Regras
+
+- Regras da série. **Nunca "exclusivo de primeira compra", "o maior desconto" nem "o melhor cupom".** A única
+  exceção é a frase "um dos melhores cupons para a primeira compra, no site ou no app", dada pelo Bruno só para
+  esta loja.
+- **Benefício próprio de cliente novo:** a loja anuncia desconto de primeira compra no site e no app. O artigo
+  não cita esse desconto, nem o percentual dele, nem o app como caminho de primeira compra, nem compara com ele
+  (decisão do Bruno de 12/11). A frase "um dos melhores cupons" fala do CECILIA10, não compara com o da loja. O
+  FAQ de `/cupons/bagaggio` e o "como usar" citam esse desconto: o artigo não repete.
+- **Nenhum código de terceiro**, nem da promoção de segunda peça, nem código de agregador.
+- **Cliente antigo:** "vale para quem já comprou" entra com fato (FAQ publicado e palavra do Bruno de 12/11).
+- **Pix:** o cupom soma com o desconto do Pix por padrão (Bruno, 12/11). Os 5% do Pix estão no `couponsData`,
+  mas o texto não repete a conta.
+- **Campanhas da loja** ("Leve 3 pague 2" e a Black Friday, banners de 02/11): não entram no texto. Não sabemos se
+  o CECILIA10 entra nelas; o texto diz para conferir o resumo do pedido.
+- **Frete:** citar o CEP e a retirada; não citar valor de frete grátis (a loja não divulga).
+- **Catraca:** até 2 datas no corpo (a do teste, uma vez), nenhuma em título, legenda ou FAQ; resposta rápida
+  sem "R$".
+- **Links:** `/cupons/bagaggio` com a âncora "cupom Bagaggio" e o "como usar" ([[cupom-bagaggio-como-usar]]).
+- **Nota editorial (3 linhas, sem data):** "Cupom testado até a sacola, sem finalizar. Podemos receber comissão
+  pelo CECILIA10."
+
+## Leituras (no navegador, sem login e sem informar e-mail)
+
+1. Carrinho com uma mala do Outlet: preço da promoção no dia (conta do capítulo 4) e se o CECILIA10 entra junto
+   com a campanha "Leve 3 pague 2", que está no ar pelo banner de 02/11.
+2. Desconto do Pix no carrinho com o código aplicado (confirmar a ordem do cálculo).
+3. Search Console: exportar as consultas de primeira compra da Bagaggio antes de publicar (a série ainda não tem
+   linha de base para ela).
+
+## Metadados sugeridos
+
+- **title:** Cupom Bagaggio primeira compra: CECILIA10 dá 10% OFF e vale nas compras seguintes (81 caracteres)
+- **seoTitle:** Cupom Bagaggio primeira compra: 10% OFF com CECILIA10 (53 caracteres)
+- **metaDescription (rascunho):** Para a primeira compra na Bagaggio, use CECILIA10: 10% OFF em todo o site, inclusive no Outlet. O mesmo percentual vale para quem já comprou. (141 caracteres; o código termina no caractere 49)
+- **description (subtítulo, até 180):** O CECILIA10 dá 10% em todo o site da Bagaggio, Outlet incluso, no primeiro pedido e nos seguintes. Veja o que soma com o Pix e como o frete é calculado. (152 caracteres)
+- **editorialNote:** Cupom testado até a sacola da Bagaggio, sem finalizar. Podemos receber comissão pelo CECILIA10.
+- **cta:** Ir para a Bagaggio; o `offerUrl` da loja (sponsored).
+- **relatedArticles:** cupom-bagaggio-como-usar, bagaggio-e-confiavel, bagaggio-garantia-vitalicia
+
+## Plano de imagens (para o Job 6)
+
+Capa: logo da Bagaggio, uma mala da linha e o código CECILIA10.
+Corpo: uma foto da mala do Outlet do teste, com `href` para a loja.
+
+## Matriz de claims
+
+| Afirmação | Fonte | Status |
+|---|---|---|
+| CECILIA10 dá 10% em todo o site, inclusive Outlet e produtos em promoção | `couponsData.ts`, loja `bagaggio` (`discount`, `eligibleCategories`, FAQ) | verificado; teste de 22/10 e 11/11 |
+| Vale no primeiro pedido e para quem já comprou | `couponsData.ts`, FAQs; Bruno, 12/11 | verificado |
+| Um cupom por pedido; não acumula com outro cupom | `couponsData.ts` (`combinable`, FAQ) | verificado |
+| Soma com o Pix (a loja tira 5% depois do código) | `couponsData.ts` (`combinable`); `testNote` (teste de 22/10); Bruno, 12/11 | verificado; percentual no texto só como "soma" |
+| Vale no site e no aplicativo | `couponsData.ts`, FAQ "O cupom CECILIA10 vale no app da Bagaggio?" | verificado |
+| Não vale no Mercado Livre | `couponsData.ts`, FAQ | verificado |
+| Frete calculado pelo CEP; retirada em lojas próximas | `couponsData.ts` (`shipping`, FAQ); dossiê, seção 1 (linha de frete de 22/10) | verificado |
+| Conta do teste: mala de R$ 249,90 por R$ 179,90 na promoção; R$ 161,91 com o código | `couponsData.ts`, `testNote` (11/11) | verificado; reler o preço do dia |
+| "Um dos melhores cupons para a primeira compra, no site ou no app" | Bruno, 12/11 (exceção só desta loja) | verificado pela decisão; não usar em outra loja |
+| Sem valor mínimo; sem limite de usos | nenhuma fonte (ficha, seções 4 e 6) | não escrever |
+| Campanhas "Leve 3 pague 2" e Black Friday somam com o CECILIA10 | nenhuma fonte (ficha, seção 4) | não escrever; ler no navegador |
+| Desconto de primeira compra da própria loja (site e app) | ficha, seções 1 e 4; home lida em 12/11 | contexto interno; o artigo não afirma |
+| Desconto de 50% na segunda peça e código dela | `couponsData.ts`, `combinable`; ficha, seção 4 (promoção já terminou, segundo o como usar) | não citar |
+| 53 caracteres no seoTitle; sem consultas medidas | ficha, seção 2 | busca; não vai ao texto |
