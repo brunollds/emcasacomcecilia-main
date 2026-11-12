@@ -55027,9 +55027,9 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 3.6036
           },
           {
-            "src": "/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
-            "alt": "Página inicial da Let's Eat It com o banner Natal Let's e a faixa da Porto Brasil com até 60% OFF",
-            "caption": "A página inicial da Let's Eat It com o banner Natal Let's e a faixa da Porto Brasil com até 60% OFF.",
+            "src": "/images/reviews/letseatit/black-friday-letseatit-home-black-friday.webp",
+            "alt": "Página inicial da Let's Eat It na Black Friday, com o banner Laguiole até 70% OFF e as faixas de Le Creuset até 50% OFF e de 15% de cashback",
+            "caption": "A página inicial da Let's Eat It na Black Friday, com a faixa de 15% de cashback.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           }
