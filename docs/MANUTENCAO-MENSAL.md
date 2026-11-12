@@ -158,6 +158,11 @@ Para cada oferta ativa, reconferir:
   seção "Vídeos" aparece antes das perguntas, só em português e só quando a loja tem vídeo; cada item
   abre na rede, em nova aba. Player dentro da página carrega script e cookies de terceiros e depende de
   decisão do Bruno (aviso de cookies e `/privacidade`);
+- FAQ "Existe cupom <loja> de X%?": só nas lojas em que sites de cupom anunciam um percentual diferente do
+  nosso (busca conferida; em 12/11/2026 são 12 lojas). A resposta diz quanto o nosso código dá, que os outros
+  percentuais não foram testados por nós e o que o nosso soma, sem citar código nem site de terceiros. Na rodada
+  mensal, reconferir o percentual da pergunta; o `test:coupon-offer-modes` barra a pergunta com o nosso próprio
+  percentual e a resposta sem o nosso código;
 - `testedAt` e `testNote`: o dia e o que a equipe viu no último teste no carrinho, juntos, só com teste
   real, refeito na rodada mensal. Se o percentual, o mínimo ou o exemplo de carrinho mudarem, testar de
   novo e reescrever os dois. A seção "Como testamos o cupom" da página em português fecha com o link
