@@ -7,9 +7,9 @@ parceiro_slug: "insider"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador; redação"
+status: "publicado"
+responsavel: "Job-2 (Claude Opus 5.5)"
+proxima_acao: "01/12: reler os preços da campanha de novembro (seção Publicação)"
 bloqueado_por: "-"
 data_criacao: "2026-11-11"
 pauta_id: "IL5"
@@ -112,3 +112,22 @@ tabela, com `href`.
 | Etiqueta de lavagem das cuecas | — | a ler |
 | O que cada fibra faz (seca, segura umidade) | fichas das marcas | a ler; só entra atribuído |
 | Fichas das outras marcas | marketplace | a ler |
+
+## Publicação (12/11/2026)
+
+- No ar, id 910, só PT: PR #892 (squash `df05618c`), release `df05618c` (deploy c501db55, build 01a1cde4), no ar em 12/11 às 03:58 UTC (00:58 em Brasília).
+- Título: "Cueca para academia: qual tecido e qual modelo escolher para treinar". seoTitle: "Cueca para academia: melhor tecido e modelo para treinar".
+- Smoke: página com 200, og:image da capa no CDN, as três fotos do corpo no CDN, os dois links da Amazon com sponsored; `covers:check` 1/1; sitemap e llms.txt com o artigo; IndexNow com 2 URLs (IL5 e IL1); captura 43151694667 disparada.
+- Insider no carrinho em 11/11, com o EMCASACOMCECILIA: Performance Preta M Simples R$ 72,25, kit de 3 R$ 195,41, kit de 5 R$ 318,97; Seamless Touch indisponível em todas as variantes.
+- Outras marcas pela Amazon, com link de afiliado gerado pelo Bruno: kit de 3 da Mizuno pelo anúncio da Mizuno Brasil (B0G47474SN, R$ 143,99, 94% poliamida, 5% PUE e 1% polipropileno, lavagem à mão) e Polo London Club Seamless Dry avulsa (B0FBLCRPB4, R$ 29,90, 91% poliamida e 9% elastano), vendida só pela Amazon ("Coleção Exclusiva Amazon" no texto da marca). A Lupo ficou fora: na Amazon só há revendedores; a Magalu deu 403 e o Mercado Livre pediu login.
+- Revisão independente em três lentes antes do pacote e revisão externa do Farol (com contraprova do GPT-6.1 Terra) em 11/11, em `docs/auditoria-copy-artigos/insider-il5-revisao-farol-20261111/` (local). O candidato entrou inteiro (quatro quadros, conclusão por prioridade, algodão e Comfort sem exclusão automática, sem a tabela de medidas da Comfort); as duas pendências dele foram fechadas (Mizuno pelo vendedor oficial; foto interna trocada por uma Performance preta). Detalhe em `insider-il5-20261111/v2-apos-farol/DECISOES-REVISAO.md` (local).
+- Pendente: link para o IL6 (slip ou boxer) na frase do corte, quando ele for ao ar.
+- Leituras em [[insider-leituras-il5-1111]]. Releitura em 01/12 (seção 4 da Fila).
+
+## Imagens (aprovadas pelo Bruno)
+
+- **Capa:** `/images/reviews/insider/cueca-para-academia-capa.webp` (`imageFit: contain`), 1600 × 900. Alt: Modelo com a cueca boxer Performance preta e camiseta branca, ao lado do título Cueca para academia, do logo da Insider e do código EMCASACOMCECILIA
+- **Cuecas para treinar, pela ficha:** `/images/reviews/insider/cueca-academia-insider-performance-preta.webp`. Alt: Cueca boxer Insider Performance preta, vista de trás, em foto da Insider. Legenda: Performance preta. Foto: Insider.
+- **Cuecas para treinar, pela ficha:** `/images/reviews/insider/cueca-academia-mizuno-kit-3.webp`. Alt: Cueca boxer preta da Mizuno com o nome da marca no elástico, em foto do anúncio da Mizuno Brasil. Legenda: Boxer do kit de 3 da Mizuno. Foto: anúncio da Mizuno Brasil na Amazon.
+- **Cuecas para treinar, pela ficha:** `/images/reviews/insider/cueca-academia-polo-london-club-seamless-dry.webp`. Alt: Cueca boxer Polo London Club Seamless Dry azul-marinho com o nome da marca no elástico, em foto do anúncio. Legenda: Polo London Club Seamless Dry. Foto: anúncio na Amazon.
+- **Origem:** Capa em painel lateral (logo da Insider, título e EMCASACOMCECILIA) com a foto oficial da Performance preta, de frente. No corpo, a Performance preta (galeria oficial), a boxer do kit da Mizuno (anúncio da Mizuno Brasil) e a Polo London Club Seamless Dry (anúncio na Amazon, recortada sem o modelo). Sem IA.
