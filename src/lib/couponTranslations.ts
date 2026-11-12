@@ -52,6 +52,8 @@ export type CodeOfferTranslation = OfferTranslationBase & {
   offerTypeLabel?: string;
   offerTypeLabelPlural?: string;
   // Só com teste feito no site que a página do idioma abre (o global, não o /br).
+  // O dia do teste que o testNote do idioma conta (a Hostinger fora do PT conta o do site global).
+  testedAt?: string;
   testNote?: string;
   codeFieldLabel?: string;
   codeInstructions?: string[];
@@ -723,6 +725,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           'Yes, a purchase with SONAR20 may earn Em Casa com Cecília a commission, at no extra cost to you.',
       },
     ],
+    testedAt: '2026-10-29',
     testNote:
       'We applied SONAR20 in the "Have a coupon code?" field of Hostinger\'s cart with the Startup plan, which the referral link does not cover. On the 48-month term, the total went from $383.52 to $306.82, $76.70 less: 20% on top of the Black Friday price Hostinger was already showing.',
     codeFieldLabel: 'Have a coupon code?',
@@ -812,6 +815,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           'Sí, una compra con SONAR20 puede generar una comisión para Em Casa com Cecília, sin costo extra para ti.',
       },
     ],
+    testedAt: '2026-10-29',
     testNote:
       'Aplicamos SONAR20 en el campo "Have a coupon code?" del carrito de Hostinger con el plan Startup, que el enlace de referido no cubre. En el período de 48 meses, el total pasó de $383.52 a $306.82, $76.70 menos: el 20% sobre el precio de Black Friday que Hostinger ya mostraba.',
     codeFieldLabel: 'Have a coupon code?',
@@ -888,6 +892,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
         answer: 'Oui, un achat avec SONAR20 peut rapporter une commission à Em Casa com Cecília, sans frais supplémentaires pour vous.',
       },
     ],
+    testedAt: '2026-10-29',
     testNote: `Nous avons appliqué SONAR20 dans le champ "Have a coupon code${NBSP}?" du panier de Hostinger, avec l’offre Startup, que le lien de parrainage ne couvre pas. Sur la période de 48 mois, le total est passé de $383.52 à $306.82, soit $76.70 de moins${NBSP}: 20${NBSP}% sur le prix Black Friday que Hostinger affichait déjà.`,
     codeFieldLabel: 'Have a coupon code?',
     codeInstructions: [
@@ -963,6 +968,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
         answer: 'Ja, ein Kauf mit SONAR20 kann Em Casa com Cecília eine Provision einbringen, ohne Mehrkosten für Sie.',
       },
     ],
+    testedAt: '2026-10-29',
     testNote: `Wir haben SONAR20 im Feld „Have a coupon code?“ im Warenkorb von Hostinger mit dem Tarif Startup angewendet, den der Empfehlungslink nicht abdeckt. Bei 48 Monaten Laufzeit sank die Summe von $383.52 auf $306.82, also $76.70 weniger: 20${NBSP}% auf den Black-Friday-Preis, den Hostinger schon anzeigte.`,
     codeFieldLabel: 'Have a coupon code?',
     codeInstructions: [
@@ -1051,6 +1057,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           'Sì, un acquisto con SONAR20 può far guadagnare a Em Casa com Cecília una commissione, senza costi extra per te.',
       },
     ],
+    testedAt: '2026-10-29',
     testNote:
       'Abbiamo applicato SONAR20 nel campo "Have a coupon code?" del carrello di Hostinger con il piano Startup, che il link di referral non copre. Con la durata di 48 mesi il totale è passato da $383.52 a $306.82, $76.70 in meno: il 20% sul prezzo Black Friday che Hostinger mostrava già.',
     codeFieldLabel: 'Have a coupon code?',
@@ -1140,6 +1147,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           '네. SONAR20으로 구매하면 추가 비용 없이 Em Casa com Cecília가 수수료를 받을 수 있습니다.',
       },
     ],
+    testedAt: '2026-10-29',
     testNote:
       '장바구니에서 Hostinger의 Startup 요금제에 SONAR20을 "Have a coupon code?" 입력란에 적용했습니다. 추천 링크로는 적용되지 않는 요금제입니다. 48개월 기간에서 총액은 $383.52에서 $306.82로, $76.70 줄었습니다. Hostinger가 이미 보여 주던 블랙 프라이데이 가격에 20%가 추가로 적용된 금액입니다.',
     codeFieldLabel: 'Have a coupon code?',
@@ -1229,6 +1237,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           'はい。SONAR20での購入は、追加費用なしにEm Casa com Cecíliaへの紹介料が発生する場合があります。',
       },
     ],
+    testedAt: '2026-10-29',
     testNote:
       '「Have a coupon code?」欄にSONAR20を入力し、Hostingerのカートで Startup プランに適用しました。このプランは紹介リンクの対象外です。48か月の期間で合計は$383.52から$306.82になり、$76.70安くなりました。Hostingerがすでに表示していたブラックフライデー価格からさらに20%割り引かれています。',
     codeFieldLabel: 'Have a coupon code?',
@@ -1318,6 +1327,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           '會。使用 SONAR20 購買，可能讓 Em Casa com Cecília 獲得佣金，你不需要額外付費。',
       },
     ],
+    testedAt: '2026-10-29',
     testNote:
       '我們在 Hostinger 購物車的「Have a coupon code?」欄位套用 SONAR20，方案為 Startup，推薦連結並不涵蓋此方案。48 個月期的總額從 $383.52 降到 $306.82，少了 $76.70：也就是在 Hostinger 已顯示的黑色星期五價格上再打 20%。',
     codeFieldLabel: 'Have a coupon code?',
@@ -1407,6 +1417,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           '会。使用 SONAR20 购买，可能为 Em Casa com Cecília 带来佣金，你无需额外付费。',
       },
     ],
+    testedAt: '2026-10-29',
     testNote:
       '我们在 Hostinger 购物车的「Have a coupon code?」栏应用了 SONAR20，套餐为 Startup，推荐链接并不涵盖该套餐。48 个月期的总额从 $383.52 降到 $306.82，少了 $76.70：也就是在 Hostinger 已显示的黑色星期五价格上再打 20%。',
     codeFieldLabel: 'Have a coupon code?',
@@ -1469,7 +1480,7 @@ export const CODE_FIELD_POLICY = {
   referral: 'pt',
   code: 'pt',
   discountNumber: 'pt',
-  testedAt: 'pt',
+  testedAt: 'translate',
   testNote: 'translate',
   codeKind: 'pt',
   codeFieldLabel: 'translate',
