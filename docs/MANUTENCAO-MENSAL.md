@@ -151,7 +151,8 @@ Para cada oferta ativa, reconferir:
   imagem, e a legenda avisa que os valores mudam. Pode reaproveitar uma imagem do artigo "como usar o
   cupom" da loja (`article`, `src` e o mesmo `alt`; a página ganha o link do passo a passo) ou ser um
   print próprio da página, sem `article`. Só entra print que mostra o código e o percentual de
-  hoje: mudou a oferta, troca ou tira (o da Dolce Gusto ficou de fora porque mostra 5%). Loja sem print
+  hoje: mudou a oferta, troca ou tira (o print do artigo da Dolce Gusto mostra 5%, então a página
+  usa um print próprio). Loja sem print
   fica sem o bloco; imagem nova entra pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`;
 - `videos`: os vídeos da loja (`platform` youtube, instagram, tiktok ou facebook, `url` e `title`). A
   seção "Vídeos" aparece antes das perguntas, só em português e só quando a loja tem vídeo; cada item

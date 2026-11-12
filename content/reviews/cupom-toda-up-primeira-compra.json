@@ -134,7 +134,12 @@
       ],
       "postParagraphs": [
         "O passo a passo com as telas, e o que fazer se o código não entrar, está em [como usar o cupom MAUAD](/reviews/cupom-toda-up-como-usar)."
-      ]
+      ],
+      "image": "/images/reviews/toda-up/cupom-toda-up-checkout-com-cupom.webp",
+      "imageAlt": "Resumo do pedido no checkout da Toda Up com o código MAUAD aplicado na Fita Up e a linha Desconto no pedido.",
+      "imageCaption": "O MAUAD aplicado no checkout da Toda Up, em outro pedido de teste. Os valores mudam conforme o seu pedido.",
+      "imageFit": "contain",
+      "imageAspectRatio": 1.071
     },
     {
       "heading": "Perguntas frequentes",

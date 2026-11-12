@@ -556,7 +556,8 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                     stores={undefined}
                     reviewSlug={undefined}
                     section={{
-                      image: { src: cartPrint.src, alt: cartPrint.alt, aspectRatio: cartPrint.aspectRatio, objectFit: 'contain' },
+                      // O componente é de cliente e não resolve o caminho: o endereço de entrega (CDN) sai daqui, como nos artigos.
+                      image: { src: resolveMediaUrl(cartPrint.src), alt: cartPrint.alt, aspectRatio: cartPrint.aspectRatio, objectFit: 'contain' },
                     }}
                   />
                 </div>
