@@ -33313,7 +33313,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O CECI dá 10% OFF no site oficial da NESCAFÉ Dolce Gusto em cápsulas, cafeteiras e acessórios, a partir de R$ 100. Veja como aplicar no checkout.",
     "publishedAt": "19 Jun 2026",
     "publishedAtISO": "2026-06-19",
-    "updatedAt": "2026-11-06",
+    "updatedAt": "2026-11-12",
     "image": "/images/reviews/cupons/cupom-ceci-nescafe-dolce-gusto-como-usar-capa-v2.webp",
     "imageAlt": "Cecília com a máquina Dolce Gusto Genio S Touch apoiada na bancada da cozinha, em foto própria, ao lado do código CECI.",
     "imageFit": "contain",
@@ -33376,7 +33376,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Dolce Gusto hoje: está ativo?",
         "paragraphs": [
-          "Sim, o cupom CECI está ativo para compras na loja oficial da NESCAFÉ Dolce Gusto. Nossa última verificação foi em 26 de outubro de 2026: num carrinho de cápsulas acima do mínimo, o CECI aplicou os 10%. O cupom oferece 10% de desconto em compras a partir de R$ 100. Confirme a aplicação no checkout.",
+          "Sim, o cupom CECI está ativo para compras na loja oficial da NESCAFÉ Dolce Gusto. Nosso último teste foi em 11 de novembro de 2026: num carrinho de cápsulas em promoção, acima do mínimo, o CECI aplicou os 10%. O cupom oferece 10% de desconto em compras a partir de R$ 100. Confirme a aplicação no checkout.",
           "As condições mais recentes, com mudanças de regras e promoções pontuais, estão na página do cupom Dolce Gusto aqui do blog."
         ],
         "links": [
@@ -33512,7 +33512,7 @@ export const reviewsData: unknown[] = [
           "O cupom CECI funciona para máquinas ou só para cápsulas? Em nossa verificação, o código foi oferecido para compras elegíveis no site oficial, incluindo cápsulas, cafeteiras e acessórios, a partir de R$ 100. Confirme a aplicação para o item escolhido no checkout.",
           "Posso usar o cupom CECI em compras parceladas? Sim, o cupom CECI reduz o valor total dos produtos e o valor final pode ser parcelado no cartão de crédito conforme as condições disponíveis no checkout. O desconto incide sobre o valor base, reduzindo proporcionalmente o valor de cada parcela.",
           "O que acontece se eu devolver um produto comprado com o cupom CECI? Se houver devolução ou cancelamento, o reembolso segue a política vigente da loja e considera o valor efetivamente pago após o desconto. Consulte o atendimento oficial para saber se o uso do cupom é restituído.",
-          "Cupom Dolce Gusto primeira compra: o CECI funciona? Em nossa verificação, o código vale na primeira compra e nas seguintes, com valor mínimo de R$ 100 em produtos. Confirme as regras vigentes no checkout.",
+          "Cupom Dolce Gusto primeira compra: o CECI funciona? Sim. O CECI vale na primeira compra e nas seguintes, com valor mínimo de R$ 100 em produtos.",
           "Cupom Dolce Gusto brinde: o CECI dá brinde? Não. O cupom CECI concede 10% de desconto em produtos elegíveis; brindes são campanhas pontuais da marca e não dependem desse código.",
           "Cupom frete grátis Dolce Gusto: o CECI inclui frete grátis? Não. O cupom CECI aplica 10% de desconto apenas sobre o valor dos produtos elegíveis. O frete é calculado separadamente e pode haver campanhas específicas de frete grátis.",
           "Cupom Dolce Gusto cápsulas: o CECI vale para cápsulas? Sim. O CECI vale em todo o site oficial, inclusive cápsulas de todos os sabores, máquinas, acessórios e os combos da área para CNPJ, desde que o valor mínimo de R$ 100 em produtos seja atingido.",
@@ -51788,7 +51788,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O código MAUAD dá 5% OFF na Let's Eat It, testado no checkout, inclusive em promoção. Veja o passo a passo, o Pix, o cashback, o frete e a 1ª compra.",
     "publishedAt": "3 de outubro de 2026",
     "publishedAtISO": "2026-10-03",
-    "updatedAt": "2026-10-08",
+    "updatedAt": "2026-11-12",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/letseatit/cupom-mauad-lets-eat-it-como-usar-capa-v2.webp",
@@ -51935,7 +51935,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Pix: muitos produtos mostram um preço com 5% de desconto no Pix — o jogo de xícaras do nosso teste saía por R$ 59,76 no Pix. Esse desconto soma com o MAUAD: pela nossa conta, aplicando um desconto sobre o outro, o jogo sairia por R$ 56,77 no Pix com o cupom, sem o frete.",
-          "Cashback: a cada compra, a loja envia por WhatsApp um cupom de 30% do valor, válido por 30 dias, para uma próxima compra. O valor mínimo para usá-lo deve ser conferido com a loja.",
+          "Cashback: a cada compra, a loja envia por WhatsApp um cupom de 15% do valor, válido por 30 dias, para uma próxima compra. O valor mínimo para usá-lo deve ser conferido com a loja.",
           "Frete: o valor é calculado pelo CEP e pelo peso do pedido, e as condições de gratuidade devem ser conferidas no checkout.",
           "Cupom de primeira compra: use o MAUAD. Ele dá 5% de desconto no site oficial, e a loja não divulga outro cupom de boas-vindas nem restrição do MAUAD para clientes novos.",
           "Casa Let's: na loja física de São Paulo, as compras presenciais têm 15% de desconto, exceto Le Creuset e Trussardi."
@@ -51980,7 +51980,7 @@ export const reviewsData: unknown[] = [
           "A Let's Eat It tem frete grátis? Em geral, não: o frete é calculado pelo CEP e pelo peso do pedido. A política padrão da loja cita frete grátis acima de R$ 1.000 em Le Creuset e Zwilling; confirme no carrinho.",
           "Posso usar o cupom MAUAD mais de uma vez? A loja não publica regra de uso por CPF ou por conta. Se houver limite, o checkout informa ao aplicar o código.",
           "O MAUAD se soma ao desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% que a loja dá nos produtos com desconto no Pix. Pela nossa conta, o jogo de xícaras de R$ 62,90 do nosso teste sairia por R$ 56,77, sem o frete.",
-          "Como funciona o cashback da Let's Eat It? A cada compra, a loja envia por WhatsApp um cupom de 30% do valor, válido por 30 dias, para uma próxima compra. O valor mínimo para usá-lo deve ser conferido com a loja, e a combinação com outros cupons segue as condições dela.",
+          "Como funciona o cashback da Let's Eat It? A cada compra, a loja envia por WhatsApp um cupom de 15% do valor, válido por 30 dias, para uma próxima compra. O valor mínimo para usá-lo deve ser conferido com a loja, e a combinação com outros cupons segue as condições dela.",
           "O cupom não funcionou. O que fazer? Confira se não há espaço antes ou depois do código, aplique de novo e, se o problema continuar, fale com o atendimento da loja e avise o Em Casa com Cecília para revisarmos a informação.",
           "Usar o cupom deixa a compra mais cara? Não. O desconto sai do preço da loja, e a compra pode gerar comissão para o Em Casa com Cecília sem custo adicional para você."
         ]
@@ -118452,7 +118452,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Onde colar SKEMCASACOMCECILIA na sacola da Skelt: 10% OFF no site oficial. Veja o campo, o botão OK e o teste com promoção e Pix antes de conferir o total.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-12",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/skelt/cupom-skelt-como-usar-capa-v2.webp",
@@ -118471,7 +118471,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SKEMCASACOMCECILIA é o cupom da parceria do Em Casa com Cecília com a Skelt, marca brasileira de autobronzeador, body splash e hidratação corporal. O cupom vale só no site oficial, skelt.com.br.",
           "O desconto é de 10% em todo o site, incluindo kits e combos. Se for comprar um kit, confira o valor no resumo da sacola.",
-          "A loja aceita um cupom por pedido. Um cupom de primeira compra da própria loja também não soma com o nosso."
+          "A loja aceita um cupom por pedido, e o SKEMCASACOMCECILIA vale na primeira compra e para quem já comprou."
         ]
       },
       {
@@ -118628,7 +118628,7 @@ export const reviewsData: unknown[] = [
           "Qual é o cupom da Skelt? O cupom é SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial da Skelt.",
           "O cupom Skelt soma com produto em promoção? Sim. No nosso teste, os 10% entraram sobre o mousse que já estava com a promoção do site.",
           "O cupom SKEMCASACOMCECILIA soma com o Pix? Sim. O Pix de 5% da loja entra sobre o total que já tem o cupom. A tabela mostra a ordem e os valores.",
-          "O cupom soma com o PRIMEIRA10? Não. A Skelt aceita um cupom por pedido: no nosso teste, aplicar o PRIMEIRA10 trocou o SKEMCASACOMCECILIA.",
+          "O cupom Skelt soma com outro cupom? Não. A Skelt aceita um cupom por pedido: no nosso teste, aplicar outro código trocou o SKEMCASACOMCECILIA.",
           "O cupom tira o brinde? Pode tirar. O valor mínimo dos brindes conta o pedido depois dos descontos, então o cupom e o Pix podem deixar o total abaixo da faixa.",
           "O cupom vale no Mercado Livre? Não. O cupom é usado só no site oficial da Skelt. No Mercado Livre, vale o preço do anúncio. Para ver a marca no Mercado Livre, use o [link de compra da marca](https://meli.la/2unTb7k), que abre antes a página da Cecília no Mercado Livre, como todo link meli.la.",
           "O cupom dá frete grátis? Depende da região: no Sul, no Sudeste e no Centro-Oeste o frete é grátis sem valor mínimo, e no Norte e no Nordeste a partir de R$ 199, sobre o valor final com o cupom. Veja a tabela de frete acima antes de pagar.",
