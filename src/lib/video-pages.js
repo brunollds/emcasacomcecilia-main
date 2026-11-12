@@ -10,9 +10,13 @@ const BASE_URL = 'https://emcasacomcecilia.com';
 // aspect: o formato do vídeo, que o player e o destaque de /videos seguem. 'vertical' para os Shorts
 // (https://www.youtube.com/shorts/<id> responde 200), 'horizontal' para o vídeo comum (a mesma URL
 // redireciona para /watch) e 'square' para o MP4 quadrado. O validate:video exige um dos três.
+// seoTitle e seoDescription (opcionais): a versão curta para o <title> e a meta description, e para o
+// og e o twitter. O h1 e o VideoObject seguem com o título e a descrição reais do vídeo. O validate:video
+// cobra o seoTitle quando o <title> passa de 65 caracteres e a seoDescription quando a descrição passa de 160.
 const videoPageDefinitions = [
   {
     slug: 'rabanada-com-doce-de-leite-video',
+    seoTitle: 'Rabanada com doce de leite: passo a passo',
     kind: 'youtube',
     aspect: 'vertical',
     videoId: 'DSH6TZyiMms',
@@ -21,6 +25,7 @@ const videoPageDefinitions = [
   },
   {
     slug: 'truque-manteiga-com-leite-funciona',
+    seoTitle: 'Manteiga com leite integral: funciona?',
     kind: 'youtube',
     aspect: 'vertical',
     videoId: 'pftnU5mPuGU',
@@ -29,6 +34,7 @@ const videoPageDefinitions = [
   },
   {
     slug: 'poltronas-reclinaveis-damie-sala-de-cinema',
+    seoTitle: 'Poltronas reclináveis Damie na sala de TV',
     kind: 'youtube',
     aspect: 'vertical',
     videoId: 'brlxM4aUXkk',
@@ -37,6 +43,7 @@ const videoPageDefinitions = [
   },
   {
     slug: 'sofa-modular-damie-na-caixa',
+    seoTitle: 'Sofá modular Damie que chega na caixa',
     kind: 'youtube',
     aspect: 'vertical',
     videoId: 'MoBWSbcFTbg',
@@ -45,6 +52,7 @@ const videoPageDefinitions = [
   },
   {
     slug: 'aniversario-damie-poltronas-sofas-camas',
+    seoTitle: 'Aniversário da Damie: poltronas e sofás',
     kind: 'youtube',
     aspect: 'vertical',
     videoId: 'YUAO12eA0oo',
@@ -53,6 +61,7 @@ const videoPageDefinitions = [
   },
   {
     slug: 'poltrona-levita-damie',
+    seoTitle: 'Poltrona Levita Damie: demonstração',
     kind: 'youtube',
     aspect: 'vertical',
     videoId: 'jC0UZewMARE',
@@ -61,6 +70,7 @@ const videoPageDefinitions = [
   },
   {
     slug: 'poltrona-damie-para-maes-e-amamentacao',
+    seoTitle: 'Poltrona Damie para descanso e amamentação',
     kind: 'youtube',
     aspect: 'vertical',
     videoId: 'ep2XlSQ_OiM',
@@ -69,6 +79,9 @@ const videoPageDefinitions = [
   },
   {
     slug: 'poltrona-reclinavel-damie-2-0',
+    seoTitle: 'Poltrona Reclinável 2.0 da Damie',
+    seoDescription:
+      'Primeiras impressões da Poltrona Reclinável 2.0 da DAMIE (versão 2026): massagem, motor do apoio de cabeça, suporte para tablet e Corino Importado.',
     kind: 'youtube',
     aspect: 'vertical',
     videoId: 'B8L2YJC8gaE',
@@ -77,6 +90,7 @@ const videoPageDefinitions = [
   },
   {
     slug: 'cobertor-iws-igloo-dupla-face',
+    seoTitle: 'Cobertor IWS Igloo dupla-face: teste',
     kind: 'youtube',
     aspect: 'vertical',
     videoId: 'BlBbtv-VuL8',
@@ -85,6 +99,9 @@ const videoPageDefinitions = [
   },
   {
     slug: 'unboxing-dolce-gusto-mini-me-2-0-primeiro-cafe',
+    seoTitle: 'Unboxing da Dolce Gusto Mini Me 2.0',
+    seoDescription:
+      'Unboxing ASMR da Mini Me 2.0 da NESCAFÉ Dolce Gusto, da abertura da caixa ao primeiro café, um Leite Moça Pistache.',
     kind: 'youtube',
     aspect: 'vertical',
     videoId: 'RGM_61Heclo',
@@ -93,6 +110,7 @@ const videoPageDefinitions = [
   },
   {
     slug: 'risoto-holyfoods-kit-tiktok-shop',
+    seoTitle: 'Provei o risoto proteico da HolyFoods',
     kind: 'youtube',
     aspect: 'vertical',
     videoId: 'cSGGCKqv4VU',
@@ -109,6 +127,7 @@ const videoPageDefinitions = [
   },
   {
     slug: 'como-usar-cupom-ceciemcasa-i-wanna-sleep',
+    seoTitle: 'Cupom CECIEMCASA na I Wanna Sleep em vídeo',
     kind: 'local',
     aspect: 'square',
     contentUrl: '/images/reviews/iwannasleep/i-wanna-sleep-site-1.mp4',
@@ -117,6 +136,7 @@ const videoPageDefinitions = [
   },
   {
     slug: 'primeiro-preparo-dolce-gusto-genio-s-touch',
+    seoTitle: 'Primeiro uso da Dolce Gusto Genio S Touch',
     kind: 'local',
     aspect: 'square',
     contentUrl: '/videos/reviews/dolcegusto/genio-s-touch-loop-1.mp4',
@@ -125,6 +145,9 @@ const videoPageDefinitions = [
   },
   {
     slug: 'minha-primeira-lava-e-seca-samsung-13kg-video',
+    seoTitle: 'Lava e seca Samsung 13 kg: primeiro uso',
+    seoDescription:
+      'Unboxing, instalação e primeiro teste da lava e seca Samsung 13 kg (WD13FG): lavagem de toalhas a 60 °C e secagem completa.',
     kind: 'youtube',
     aspect: 'horizontal',
     videoId: 'xpXX_N002jo',
@@ -133,6 +156,9 @@ const videoPageDefinitions = [
   },
   {
     slug: 'rotina-skincare-coreano-30-anos-abib-video',
+    seoTitle: 'Skincare coreano aos 30 anos: rotina Abib',
+    seoDescription:
+      'Primeiro uso de uma rotina de skincare coreano da Abib aos 30 anos: adesivo de hidrogel para os olhos, creme com retinal e máscara labial em gel.',
     kind: 'youtube',
     aspect: 'horizontal',
     videoId: 'agfG-x5lq1s',
@@ -181,6 +207,16 @@ export function getVideoPageForSourcePath(sourcePath) {
 
 export function getVideoPageUrl(videoPage) {
   return videoPage ? `/videos/${videoPage.slug}` : null;
+}
+
+// O título e a descrição do <head> da página do vídeo: os curtos quando existem, senão os do vídeo.
+export function getVideoPageSeo(videoPage) {
+  const title = videoPage.seoTitle || videoPage.title;
+  return {
+    title,
+    documentTitle: `${title} - Em Casa com Cecília`,
+    description: videoPage.seoDescription || videoPage.description,
+  };
 }
 
 export function isoDurationToSeconds(duration) {

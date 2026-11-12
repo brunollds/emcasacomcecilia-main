@@ -14,7 +14,7 @@ import {
   videoMetadata,
 } from '@/lib/video-metadata';
 import { buildLocalVideoObject, buildYoutubeVideoObject } from '@/lib/video-schema';
-import { videoPages } from '@/lib/video-pages';
+import { getVideoPageSeo, videoPages } from '@/lib/video-pages';
 import { VIDEO_ASPECTS, isVideoAspect } from '@/lib/videosShelf';
 
 type ContentKind = 'receita' | 'review' | 'página de vídeo';
@@ -71,6 +71,15 @@ function isIso8601Date(value: string | undefined): boolean {
   );
 }
 
+// O uploadDate que sai no VideoObject: sempre com hora e fuso, como o Google pede.
+function isIso8601DateTimeWithOffset(value: string | undefined): boolean {
+  return Boolean(
+    value &&
+    /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?(?:Z|[+-]\d{2}:\d{2})$/.test(value) &&
+    !Number.isNaN(Date.parse(value))
+  );
+}
+
 function report(kind: ContentKind, slug: string, message: string): void {
   errors.push(`${kind} "${slug}": ${message}`);
 }
@@ -104,8 +113,8 @@ function validateYoutubeVideoObject(
   if (!video.thumbnailUrl || !/^https?:\/\//.test(video.thumbnailUrl)) {
     report(kind, slug, 'VideoObject sem thumbnailUrl absoluta');
   }
-  if (!isIso8601Date(video.uploadDate)) {
-    report(kind, slug, 'VideoObject sem uploadDate ISO 8601 válida');
+  if (!isIso8601DateTimeWithOffset(video.uploadDate)) {
+    report(kind, slug, 'VideoObject sem uploadDate ISO 8601 com hora e fuso');
   }
   if (video.embedUrl !== expectedEmbedUrl || !video.embedUrl.includes('/embed/')) {
     report(kind, slug, 'embedUrl não corresponde ao player /embed/ do vídeo');
@@ -162,8 +171,8 @@ function validateLocalVideoObject(
   if (!video.thumbnailUrl || !/^https?:\/\//.test(video.thumbnailUrl)) {
     report('review', slug, 'VideoObject local sem thumbnailUrl absoluta');
   }
-  if (!isIso8601Date(video.uploadDate)) {
-    report('review', slug, 'VideoObject local sem uploadDate ISO 8601 válida');
+  if (!isIso8601DateTimeWithOffset(video.uploadDate)) {
+    report('review', slug, 'VideoObject local sem uploadDate ISO 8601 com hora e fuso');
   }
   if (video.contentUrl !== expectedContentUrl) {
     report('review', slug, 'contentUrl não corresponde ao arquivo MP4 principal');
@@ -340,9 +349,18 @@ for (const videoPage of videoPages) {
     if (!videoObject.thumbnailUrl || !/^https?:\/\//.test(videoObject.thumbnailUrl)) {
       report('página de vídeo', videoPage.slug, 'VideoObject sem thumbnailUrl absoluta');
     }
-    if (!isIso8601Date(videoObject.uploadDate)) {
-      report('página de vídeo', videoPage.slug, 'VideoObject sem uploadDate ISO 8601 válida');
+    if (!isIso8601DateTimeWithOffset(videoObject.uploadDate)) {
+      report('página de vídeo', videoPage.slug, 'VideoObject sem uploadDate ISO 8601 com hora e fuso');
     }
+  }
+
+  // O <head>: título longo do YouTube pede seoTitle e descrição longa pede seoDescription (video-pages.js).
+  const seo = getVideoPageSeo(videoPage);
+  if (seo.documentTitle.length > 65) {
+    report('página de vídeo', videoPage.slug, `<title> com ${seo.documentTitle.length} caracteres (máximo 65): escreva um seoTitle de até 42`);
+  }
+  if (seo.description.length > 160) {
+    report('página de vídeo', videoPage.slug, `meta description com ${seo.description.length} caracteres (máximo 160): escreva uma seoDescription`);
   }
 
   const sitemapEntry = sitemapEntries.find((entry) => entry.url === videoPage.canonicalUrl);

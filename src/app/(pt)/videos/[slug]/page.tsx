@@ -12,7 +12,7 @@ import { publishedReviews, recipes } from '@/lib/data';
 import { serializeJsonLd } from '@/lib/jsonLd';
 import { absoluteUrl, getBreadcrumbListJsonLd } from '@/lib/pageSeo';
 import { buildLocalVideoObject, buildYoutubeVideoObject } from '@/lib/video-schema';
-import { getVideoPageBySlug, videoPages } from '@/lib/video-pages';
+import { getVideoPageBySlug, getVideoPageSeo, videoPages } from '@/lib/video-pages';
 import { getVideoPageContent } from '@/lib/videosHub';
 import { toVideoCard } from '@/lib/videosShelf';
 
@@ -34,18 +34,22 @@ export function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: VideoPageProps): Promise<Metadata> {
-  const content = getVideoPageContent(sources, (await params).slug);
-  if (!content) return { title: 'Vídeo não encontrado' };
+  const { slug } = await params;
+  const content = getVideoPageContent(sources, slug);
+  const record = getVideoPageBySlug(slug);
+  if (!content || !record) return { title: 'Vídeo não encontrado' };
   const { video } = content;
   const canonical = absoluteUrl(video.href);
+  // O <head> leva o título e a descrição curtos; o alt da imagem, o h1 e o VideoObject, os do vídeo.
+  const { title, documentTitle, description } = getVideoPageSeo(record);
 
   return {
-    title: `${video.title} - Em Casa com Cecília`,
-    description: video.description,
+    title: documentTitle,
+    description,
     alternates: { canonical },
     openGraph: {
-      title: video.title,
-      description: video.description,
+      title,
+      description,
       url: canonical,
       type: 'video.other',
       images: [{ url: video.thumbnail, alt: video.title }],
@@ -53,8 +57,8 @@ export async function generateMetadata({ params }: VideoPageProps): Promise<Meta
     },
     twitter: {
       card: 'summary_large_image',
-      title: video.title,
-      description: video.description,
+      title,
+      description,
       images: [video.thumbnail],
     },
   };
