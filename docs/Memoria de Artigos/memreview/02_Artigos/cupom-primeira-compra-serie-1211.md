@@ -13,6 +13,9 @@ abaixo do H2. Nenhum artigo nosso mira essa busca, em nenhuma loja (conferido em
 Este arquivo é o briefing de todos os artigos da série. Cada artigo usa o molde abaixo e a linha da loja na tabela.
 Loja com mecânica própria tem a adaptação no fim.
 
+**Pesquisa por loja (12/11):** uma ficha por parceira e a conferência no navegador em
+[[primeira-compra-sementes-indice-1211]]. A ficha vale sobre a linha da loja nas tabelas abaixo.
+
 ## A função de cada página
 
 | Página | Pergunta que ela responde |
@@ -48,7 +51,7 @@ percentual maior que o nosso para a primeira compra, sem dizer se ainda funciona
 - **metaDescription:** não abre com "Cupom <loja>" (a catraca barra). Molde: "Para a primeira compra na <Loja>,
   use <CÓDIGO>: X% OFF nos produtos elegíveis. O mesmo percentual vale para quem já comprou." Código e % na primeira
   frase, o código terminando até o caractere 100, até 155 caracteres, sem R$ (salvo a Dolce Gusto).
-- **category / reviewKind / type:** `guias-praticos-utilidade`, `guia`, "Guia de Cupom" (o mesmo do "como usar").
+- **category / reviewKind / type:** `cupons-como-usar`, `guia`, "Guia de Cupom" (o mesmo dos "como usar" no ar).
 - **affiliate / coupon:** a loja e o código. Só PT nesta etapa.
 
 ### Resposta rápida (40 a 60 palavras, sem "R$")
@@ -110,7 +113,7 @@ dizer que ninguém leu ainda se a loja tem benefício de cliente novo.
 | Loja | Código | Desconto | Boas-vindas da loja | Como usar (link) | Atenção |
 |---|---|---|---|---|---|
 | Insider | EMCASACOMCECILIA | 15% | Cadastro do e-mail no site; mesmo percentual; um cupom por pedido | `cupom-emcasacomcecilia-insider-store-como-usar` | Lançamento pode ficar fora. O número do boas-vindas depende da pergunta 1. A marca cancela pedido com cupom vazado |
-| Bagaggio | CECILIA10 | 10% | 5% na primeira compra; não acumula | `cupom-bagaggio-como-usar` | O nosso rende mais: o quadro `decision` cabe |
+| Bagaggio | CECILIA10 | 10% | 5% na primeira compra no site e 10% na primeira compra pelo app (home, 12/11); não acumula | `cupom-bagaggio-como-usar` | O nosso rende mais que os 5% do site e empata com o app; o quadro `decision` cabe |
 | Mais Mu | MMEMCASACOMCECILIA | 10% | 10% pela newsletter; não acumula | `cupom-mais-mu-como-usar` | Cashback não soma ([[project-parceiro-mais-mu]]) |
 
 ### Onda 2: vale para cliente novo e antigo; boas-vindas a ler
@@ -119,12 +122,12 @@ dizer que ninguém leu ainda se a loja tem benefício de cliente novo.
 |---|---|---|---|---|
 | DAMIE | CECILIA12 | 12% | `cupom-cecilia12-como-usar` | Sem limite de usos por CPF; não soma com cupom nem giftback |
 | Dolce Gusto | CECI | 10% | `cupom-ceci-nescafe-dolce-gusto-como-usar` | Mínimo de R$ 100. Não citar os 3 usos por campanha no artigo ([[feedback-ceci-usos-por-campanha]]) |
-| Nestlé Nutre | CECI | 10% | `cupom-ceci-nestle-nutre-como-usar` | Fora Alfamino, Alfaré e fórmulas de 0 a 12 meses |
+| Nestlé Nutre | CECI | 10% | `cupom-ceci-nestle-nutre-como-usar` | Fora Alfamino, Alfaré e fórmulas de 0 a 12 meses. A home anuncia BOASVINDAS10 para a primeira compra (12/11) |
 | Let's Eat It | MAUAD | 5% | `cupom-mauad-lets-eat-it-como-usar` | Soma com o Pix |
 | Probiótica | PRO10EMCASACOMCECILIA | até 10% | `cupom-probiotica-como-usar` | O percentual varia por produto |
 | Max Titanium | MAX10EMCASACOMCECILIA | até 10% | `cupom-max-titanium-como-usar` | O percentual varia por produto |
 | Dr. Peanut | DREMCASACOMCECILIA | 10% | `cupom-dr-peanut-como-usar` | Frete grátis por região desde 12/11: R$ 149,90 (SP, Sudeste e Sul) e R$ 199,90 (Centro-Oeste, Nordeste e Norte) |
-| Black Skull | CECILIA10 | 10% | `cupom-black-skull-como-usar` | |
+| Black Skull | CECILIA10 | 10% | `cupom-black-skull-como-usar` | A loja publica PRIMEIRA10 (site) e APP15 (app), só primeira compra e uso único por CPF; o percentual não está em texto |
 | Cléa Store | CSEMCASACOMCECILIA | 10% | `cupom-clea-store-como-usar` | Um voucher por pedido |
 | Belive | MAUAD | 10% | `cupom-belive-como-usar` | Frete por região, sem o cupom |
 | HolyFoods | EMCASA | 15% | `cupom-holyfoods-como-usar` | Soma com promoção |
@@ -137,7 +140,7 @@ dizer que ninguém leu ainda se a loja tem benefício de cliente novo.
 |---|---|---|---|---|
 | Skelt | SKEMCASACOMCECILIA | 10% | `cupom-skelt-como-usar` | Boas-vindas da loja: PRIMEIRA5, 5% (lido em 12/11; antes era PRIMEIRA10, e o FAQ da página ainda cita o antigo). Um cupom por pedido. Falta saber se o nosso vale para quem já comprou |
 | I Wanna Sleep | CECIEMCASA | 10% | `cupom-ceciemcasa-i-wanna-sleep-como-usar` | Cliente antigo. O CECIEMCASA15 com prazo não entra no texto |
-| Toda Up | MAUAD | 15% | `cupom-toda-up-como-usar` | Cliente antigo. Black VIP fora |
+| Toda Up | MAUAD | 15% | `cupom-toda-up-como-usar` | Cliente antigo. Black VIP fora. A loja dá 10% na primeira compra pela raspadinha (e-mail); o dossiê veta citar: pergunta 3 do índice |
 | Simple Organic | S-EMCASACOMCECILIA | 5% | `cupom-simple-organic-como-usar` | Cliente antigo |
 
 O artigo dessas quatro pode sair antes da resposta, sem o capítulo 5 e sem a frase sobre as compras seguintes.
