@@ -2667,7 +2667,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No nosso teste mais recente, os 15% do MAUAD entraram sobre um sutiã que já estava em promoção. A exceção é a Black VIP: nela, a loja avisa que o cupom de influenciadora não soma com a escada de desconto.',
+          'Sim. Num teste nosso, os 15% do MAUAD entraram sobre um sutiã que já estava em promoção. A exceção é a Black VIP: nela, a loja avisa que o cupom de influenciadora não soma com a escada de desconto.',
       },
       {
         question: 'O cupom MAUAD está funcionando hoje?',
@@ -2868,7 +2868,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com os produtos em promoção?',
         answer:
-          'Sim. No nosso teste mais recente, os 15% entraram sobre sopas que já estavam com desconto da loja: R$ 69,79 viraram R$ 59,32.',
+          'Sim. Num teste nosso, os 15% entraram sobre sopas que já estavam com desconto da loja: R$ 69,79 viraram R$ 59,32.',
       },
       {
         question: 'Onde coloco o cupom na HolyFoods?',
@@ -3121,7 +3121,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom vale no plano mensal?',
         answer:
-          'Sim. No nosso teste mais recente, o plano Startup de 1 mês caiu de R$ 139,99 para R$ 111,99 com o SONAR20, os mesmos 20% do plano de 48 meses.',
+          'Sim. Num teste nosso, o plano Startup de 1 mês caiu de R$ 139,99 para R$ 111,99 com o SONAR20, os mesmos 20% do plano de 48 meses.',
       },
       {
         question: 'Onde coloco o cupom na Hostinger?',
