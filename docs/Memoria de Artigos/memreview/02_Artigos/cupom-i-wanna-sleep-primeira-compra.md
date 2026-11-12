@@ -7,9 +7,9 @@ parceiro_slug: "i-wanna-sleep"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador; redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PC-IWS"
@@ -169,3 +169,33 @@ loja já é a capa do guia do cupom; trocar só se a capa nova mudar a arte.
 | Benefício de cadastro, pop-up ou newsletter da loja | ficha: não encontrado | não citar nem negar (decisão de 12/11) |
 | Código de 10% do blog de 2024 | ficha e dossiê | não citar |
 | Vale para quem já comprou | Bruno, 12/11; FAQ | verificado |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- JSON público do produto: Caracol Sleep Mask a R$ 160,00 (de R$ 177,00), os valores do teste de 11/11.
+- O código com prazo (CECIEMCASA15) não entra no texto. Nenhum exemplo com colchão ou box: o teste de 24/10 ficou de fora.
+- Frete: só "conforme a política da loja".
+- Search Console: CSV da linha de base com o Bruno.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-i-wanna-sleep-primeira-compra.json` (id 927), no esqueleto do briefing. Resposta rápida com 54 palavras. A data do teste (11/11/2026) fica na prosa do capítulo da conta, e a legenda da tabela diz o que os valores não incluem, como a revisão externa do lote 2 pediu. O capítulo 3 trata do campo do checkout ("Adicionar cupom de desconto") e do site sem aplicativo.
+
+## Revisão (Job 3, 12/11/2026)
+
+1 a 10: passou. Sem benefício da própria loja, sem código de terceiros, sem "exclusivo", "maior" ou "melhor". Pix: os 5% que a loja mostra na página do produto, como na página de cupom. Sem promessa de sono.
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data no corpo (a do teste, na prosa). C3, C4, C5: 0.
+- C6: os valores da tabela não voltam na prosa nem no FAQ. C7: sem capítulo de método. C8: a foto do produto está no capítulo da conta, com o link de afiliado no `href`.
+- C9: cada rótulo no máximo uma vez. C12: a primeira frase de cada capítulo decide. C14: "E na segunda compra?" vem do molde da série.
+- Leitura em voz alta: soa como pessoa ajudando.
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da loja, a chamada e o CECIEMCASA. Alt: Mulher ajustando a Caracol Sleep Mask cinza sobre os olhos, em foto oficial da I Wanna Sleep, ao lado da chamada Cupom I Wanna Sleep primeira compra e do código CECIEMCASA.
+- **Máscara de dormir em promoção: a conta com o CECIEMCASA:** `/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-caracol-sleep-mask.webp` (quadrada, `href` com o link de afiliado do produto). Alt: Embalagem cilíndrica roxa da Caracol SoftSeal Sleep Mask da I Wanna Sleep, com a máscara cinza enrolada ao lado, em foto oficial. Legenda: Caracol Sleep Mask incluída no teste do cupom no carrinho. Foto: I Wanna Sleep.
+- **Origem:** duas fotos oficiais da loja, lidas em 12/11/2026: a modelo com a máscara na capa e a embalagem com a máscara no corpo. Sem IA.
+
+## Revisão externa (Farol, 12/11/2026)
+
+Aplicado: os 5% do Pix atribuídos à página da Caracol Sleep Mask; alt e legenda do print descrevem o outro pedido (travesseiro, desconto de R$ 69,79), conferidos na imagem.

@@ -7,9 +7,9 @@ parceiro_slug: "letseatit"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador; redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PC-LETSEATIT"
@@ -169,3 +169,33 @@ Pix, com `href` para a loja (sponsored).
 | Limite por CPF, teto e soma com outro cupom além do que a loja diz | nenhuma fonte publicada | não escrever |
 | Benefício de primeira compra da própria loja | home lida em 12/11 (sem menção); WebFetch | não escrever (Bruno, 12/11) |
 | 10% ou 12% de primeira compra | agregadores (busca e WebFetch) | não usar |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- JSON público do produto: Pote Cerâmica com Tampa de Madeira Scandinavia Black Onyx 1,1L Le Creuset a R$ 363,30 (de R$ 519,00), os valores do teste de 11/11.
+- Cashback fora do texto; Pix só como "nos produtos em que a loja marca", sem percentual.
+- Frete: "calculado pelo CEP na etapa seguinte", sem valores.
+- Search Console: CSV da linha de base com o Bruno.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-letseatit-primeira-compra.json` (id 926), no esqueleto do briefing. Resposta rápida com 55 palavras. A data do teste (11/11/2026) fica na prosa do capítulo da conta, e a legenda da tabela diz o que os valores não incluem, como a revisão externa do lote 2 pediu. O capítulo 3 gira no campo do checkout ("Código de desconto", no resumo do pedido, não no carrinho).
+
+## Revisão (Job 3, 12/11/2026)
+
+1 a 10: passou. Sem benefício da própria loja, sem código de terceiros, sem "exclusivo", "maior" ou "melhor". Sem cashback; sem app; o código não vale no Mercado Livre. MAUAD fora da arte e do alt da capa ("5% OFF" no lugar).
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data no corpo (a do teste, na prosa). C3, C4, C5: 0.
+- C6: os valores da tabela não voltam na prosa nem no FAQ. C7: sem capítulo de método. C8: a foto do produto está no capítulo da conta, com o link de afiliado no `href`.
+- C9: cada rótulo no máximo uma vez. C12: a primeira frase de cada capítulo decide. C14: "E na segunda compra?" vem do molde da série.
+- Leitura em voz alta: soa como pessoa ajudando.
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/letseatit/cupom-letseatit-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da loja, a chamada e “5% OFF” (sem o MAUAD na arte). Alt: Potes de cerâmica pretos com tampa de madeira da Le Creuset sobre uma bancada, em foto oficial, ao lado da chamada Cupom Let's Eat It primeira compra.
+- **Pote em promoção: quanto fica com o MAUAD:** `/images/reviews/letseatit/cupom-letseatit-primeira-compra-pote-le-creuset.webp` (quadrada, `href` com o link de afiliado do produto). Alt: Pote de cerâmica preto com tampa de madeira da Le Creuset, de 1,1 litro, em foto oficial de frente. Legenda: Pote de cerâmica Le Creuset com tampa de madeira, de 1,1 L, incluído no teste do cupom. Foto: Let's Eat It.
+- **Origem:** duas fotos oficiais da loja, lidas em 12/11/2026: os potes sobre a bancada na capa e o pote de frente no corpo. Sem IA.
+
+## Revisão externa (Farol, 12/11/2026)
+
+Aplicado: o frete descrito pela ordem das telas, sem sugerir base de mínimo.

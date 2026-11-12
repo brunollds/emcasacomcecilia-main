@@ -7,9 +7,9 @@ parceiro_slug: "clea-store"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leitura dos termos no navegador; redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PC-CLEA"
@@ -179,3 +179,33 @@ testado, com link para a loja, só se houver foto do acervo; sem foto, sem image
 | Sem loja física | decisão do Bruno, 14/10 | não citar |
 | Benefício de boas-vindas da própria loja | ficha: não encontrado | não citar (decisão de 12/11) |
 | 8%, R$ 50 acima de R$ 400, "sem valor mínimo" | agregadores | não citar |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- Página do produto: Kit 3 T-Shirts Oversized Classic a R$ 66,33 por peça no kit (R$ 199,00), o preço de campanha do teste de 08/11.
+- Termos de uso da loja, seção "Utilização de vouchers": "Cada cliente pode utilizar apenas um voucher por pedido". As outras regras dos termos (produto remarcado, uma única compra) divergem do que o carrinho fez nos testes e ficaram fora do texto.
+- Frete grátis acima de R$ 599: "segundo o aviso do site", como na página de cupom.
+- Search Console: CSV da linha de base com o Bruno.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-clea-store-primeira-compra.json` (id 929), no esqueleto do briefing. Resposta rápida com 56 palavras. A data do teste (08/11/2026) fica na prosa do capítulo da conta, e a legenda da tabela diz o que os valores não incluem, como a revisão externa do lote 2 pediu. O capítulo 3 abre com a regra de um código por pedido. A linha do desconto da tabela (R$ 19,90) é a diferença entre os dois valores do teste.
+
+## Revisão (Job 3, 12/11/2026)
+
+1 a 10: passou. Sem benefício da própria loja, sem código de terceiros, sem "exclusivo", "maior" ou "melhor". Sem prazo de devolução, sem loja física. Cashback só como "o pedido continua gerando". Sem card de estilo: artigo de cupom não leva.
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data no corpo (a do teste, na prosa). C3, C4, C5: 0.
+- C6: os valores da tabela não voltam na prosa nem no FAQ. C7: sem capítulo de método. C8: a foto do produto está no capítulo da conta, com o link de afiliado no `href`.
+- C9: cada rótulo no máximo uma vez. C12: a primeira frase de cada capítulo decide. C14: "E na segunda compra?" vem do molde da série.
+- Leitura em voz alta: soa como pessoa ajudando.
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/clea-store/cupom-clea-store-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da loja, a chamada e o CSEMCASACOMCECILIA. Alt: Modelo de camiseta preta segurando a caixa do kit de camisetas da Cléa Store, em foto oficial, ao lado da chamada Cupom Cléa Store primeira compra e do código CSEMCASACOMCECILIA.
+- **Kit de camisetas em promoção: quanto fica com o código:** `/images/reviews/clea-store/cupom-clea-store-primeira-compra-kit-3-t-shirts.webp` (quadrada, `href` com o link de afiliado do produto). Alt: Arte oficial do Kit 3 T-Shirts Oversized Clássico da Cléa Store, com três camisetas: off-white, marrom e preta. Legenda: Kit 3 T-Shirts Oversized Classic incluído no teste do cupom no carrinho. Foto: Cléa Store.
+- **Origem:** duas imagens oficiais da loja, lidas em 12/11/2026: a modelo com a caixa do kit na capa e a arte do kit no corpo (recorte quadrado). Sem IA.
+
+## Revisão externa (Farol, 12/11/2026)
+
+Aplicado: a soma com promoção apoiada no kit testado (resposta rápida, subtítulo, snippet, capítulo da conta e FAQ); cashback como indicação no resumo, não como crédito recebido.
