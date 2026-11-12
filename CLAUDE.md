@@ -482,6 +482,13 @@ vídeo, primeiras impressões e uso noturno.
   ou teste real; a rodada de testes é mensal, a partir do dia 1, e o `test:coupon-offer-modes` avisa depois de 45 dias sem teste. O mês do título
   (`metaTitleMonth`), do quadro do mês e de `/cupons` segue o calendário no build (`src/lib/offerMonth.ts`).
   SHEIN e YesStyle seguem com "Conferido em". Regras em `docs/MANUTENCAO-MENSAL.md`, seção 1.
+- Três seções da página de loja só existem em português (o texto fica só no `pt` de `couponStoreCopy.tsx`, e os
+  campos são `drop` na `CODE_FIELD_POLICY`): "O que acumula com o cupom" (`#o-que-acumula`, logo depois das
+  regras: a tabela do `stacking` da loja, uma linha por benefício e só com fato conferido), "Por que o cupom não
+  funcionou?" (`#nao-funcionou`, depois de "Como testamos o cupom", em toda loja de código, com o canal de aviso
+  no `/contato`) e "Vídeos" (`#videos`, antes das perguntas, só quando a loja tem `videos`; cada um abre na rede,
+  sem player nem script de terceiros). O `test:coupon-offer-modes` confere os dados e o `test:build-output`, a
+  presença e o lugar de cada uma.
 - A imagem de compartilhamento da loja vem de `getStoreSocialImage` (`src/lib/pageSeo.ts`): a
   `socialImage` de `couponsData.ts`, senão o `brandLogo`. O cartão do X não mostra AVIF, então loja
   com logo AVIF leva `socialImage` em JPG, PNG ou WebP; o `test:build-output` barra o contrário. A

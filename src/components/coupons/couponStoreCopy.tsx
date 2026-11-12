@@ -1,4 +1,5 @@
 import type { ReactNode } from 'react';
+import type { StackingBenefit, StackingRow, StoreVideoPlatform } from '@/lib/couponsData';
 import type { Locale } from '@/lib/i18n/locales';
 import { SECTION_LABELS } from '@/lib/i18n/sectionLabels';
 
@@ -42,8 +43,31 @@ export type CouponStoreCopy = {
   // Lojas com testNote: a seção "Como testamos" conta o último teste no carrinho, com a data dele.
   testTitle: string;
   testedBy: (date: string) => string;
-  // Fim da seção, só em português (a /sobre e o /contato não têm tradução): o método e o canal de aviso.
-  testFooter?: { methodLabel: string; methodHref: string; failedPrompt: string; failedLabel: string; failedHref: string };
+  // Fim da seção, só em português (a /sobre não tem tradução): o link do método.
+  testFooter?: { methodLabel: string; methodHref: string };
+  // "O que acumula com o cupom" (#o-que-acumula), só em português: a tabela vem do `stacking` da loja.
+  stacking?: {
+    title: string;
+    caption: (brand: string) => string;
+    headers: { benefit: string; stacks: string; condition: string };
+    benefits: Record<StackingBenefit, string>;
+    answers: Record<StackingRow['stacks'], string>;
+    // A frase de "Regras sem letra miúda" que leva à tabela.
+    rulesPointer: string;
+  };
+  // "Vídeos" (#videos), só em português: cada vídeo abre na rede em que foi publicado, em nova aba.
+  videos?: { title: string; platforms: Record<StoreVideoPlatform, string>; watchOn: (platform: string) => string; newTab: string };
+  // "Por que o cupom não funcionou?" (#nao-funcionou), só em português: três causas e o canal de aviso no /contato.
+  failed?: {
+    title: string;
+    field: (fieldLabel: string) => string;
+    eligible: (eligibleCategories: string) => string;
+    otherBenefit: string;
+    stackingLinkLabel: string;
+    reportPrompt: string;
+    reportLabel: string;
+    reportHref: string;
+  };
   highlight: {
     code: (offer: { offerType: string; brand: string; code: string; discount: string; scope: string; monthYear: string }) => string;
     link: (offer: { brand: string; discount: string; scope: string; monthYear: string }) => string;
@@ -80,6 +104,11 @@ export type CouponStoreCopy = {
     link: (discount: string, brand: string) => string;
   };
 };
+
+// "Produtos do site…" vira "produtos do site…" no meio da frase; sigla ou nome próprio no começo fica como está.
+function lowerFirst(text: string) {
+  return /^[A-ZÀ-Ú][a-zà-ú]/.test(text) ? text.charAt(0).toLowerCase() + text.slice(1) : text;
+}
 
 const capitalize = (text: string) => text.charAt(0).toUpperCase() + text.slice(1);
 
@@ -123,9 +152,39 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     testFooter: {
       methodLabel: 'Veja como testamos e escolhemos',
       methodHref: '/sobre#titulo-como-testamos',
-      failedPrompt: 'O cupom não funcionou?',
-      failedLabel: 'Avise a gente',
-      failedHref: '/contato',
+    },
+    stacking: {
+      title: 'O que acumula com o cupom',
+      caption: (brand) => `O que acumula com o cupom ${brand}`,
+      headers: { benefit: 'Benefício', stacks: 'Acumula?', condition: 'Condição' },
+      benefits: {
+        promocoes: 'Promoções',
+        retirada: 'Retirada na loja',
+        pix: 'Pix',
+        cashback: 'Cashback',
+        'outro-cupom': 'Outro cupom',
+        frete: 'Frete grátis',
+      },
+      answers: { sim: 'Sim', nao: 'Não', depende: 'Depende' },
+      rulesPointer: 'Veja o que acumula com o cupom',
+    },
+    videos: {
+      title: 'Vídeos',
+      platforms: { youtube: 'YouTube', instagram: 'Instagram', tiktok: 'TikTok', facebook: 'Facebook' },
+      watchOn: (platform) => `Assistir no ${platform}`,
+      newTab: 'abre em nova aba',
+    },
+    failed: {
+      title: 'Por que o cupom não funcionou?',
+      // O rótulo padrão já diz "campo de cupom/desconto"; o da loja é o texto do campo, entre aspas.
+      field: (fieldLabel) =>
+        `O código vai no ${fieldLabel.startsWith('campo ') ? fieldLabel : `campo "${fieldLabel}"`}, no carrinho ou no checkout, sem espaços antes ou depois.`,
+      eligible: (eligibleCategories) => `O item precisa entrar na regra do cupom: ${lowerFirst(eligibleCategories)}.`,
+      otherBenefit: 'Outro cupom ou uma campanha que não soma pode já estar aplicado ao pedido.',
+      stackingLinkLabel: 'Veja o que acumula com o cupom',
+      reportPrompt: 'Ainda assim não funcionou?',
+      reportLabel: 'Avise a gente',
+      reportHref: '/contato',
     },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>

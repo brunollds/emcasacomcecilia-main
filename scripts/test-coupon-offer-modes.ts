@@ -7,6 +7,7 @@ import {
   getPendingLimitedCodes,
   getStoreCodeKind,
   MERCADO_LIVRE_COUPONS_URL,
+  STORE_VIDEO_HOSTS,
   type AffiliateLinkOffer,
 } from '../src/lib/couponsData';
 import { getBrasiliaDate, getCouponMetaTitle, getOfferMonth } from '../src/lib/offerMonth';
@@ -368,6 +369,47 @@ for (const slug of newAndReturning) {
   const coupon = getCouponBySlug(slug);
   assert.match(coupon?.longDescription ?? '', /para quem já é cliente/, `${slug}: a abertura diz que o cupom vale para quem já é cliente`);
   assert.ok((coupon?.metaDescription.length ?? 0) <= 155, `${slug}: metaDescription com mais de 155 caracteres`);
+}
+
+// "O que acumula com o cupom": toda loja de código ativa e sem faixas tem a tabela, um benefício por linha, e a condição é
+// uma frase só de fato: sem data, sem soma de descontos em sequência ("até X%"), sem contagem de usos e sem ponto final.
+for (const coupon of COUPONS) {
+  if (coupon.offerMode !== 'discount-code') continue;
+  const rows = coupon.stacking ?? [];
+  // A YesStyle tem página própria (YesStyleCouponPage), sem a tabela.
+  if (coupon.status === 'ativo' && !coupon.tiers && coupon.slug !== 'yesstyle') assert.ok(rows.length > 0, `${coupon.slug}: loja de código sem "O que acumula com o cupom"`);
+  // O cupom soma com o desconto do Pix por padrão (Bruno, 12/11/2026); a Hostinger não tem desconto no Pix.
+  if (rows.length > 0 && coupon.slug !== 'hostinger') {
+    assert.equal(rows.find((row) => row.benefit === 'pix')?.stacks, 'sim', `${coupon.slug}: "O que acumula" sem a linha do Pix`);
+  }
+  assert.equal(new Set(rows.map((row) => row.benefit)).size, rows.length, `${coupon.slug}: benefício repetido em "O que acumula"`);
+  for (const row of rows) {
+    const where = `${coupon.slug}: "O que acumula", ${row.benefit}`;
+    assert.ok(row.condition.length >= 15 && row.condition.length <= 170, `${where}: condição fora do tamanho (15 a 170)`);
+    assert.doesNotMatch(row.condition, /\.$/, `${where}: condição com ponto final`);
+    assert.doesNotMatch(row.condition, /\d{1,2}\/\d{1,2}|20\d\d/, `${where}: condição com data`);
+    assert.doesNotMatch(row.condition, /\baté \d+(,\d+)?%|\busos\b|\*\*|\]\(/i, `${where}: "até X%", contagem de usos ou markdown`);
+  }
+}
+// Petz: a soma com o Retire na Loja é a primeira linha (Bruno, 12/11/2026), com o total e o mínimo.
+const petzStacking = (() => {
+  const petz = getCouponBySlug('petz');
+  return petz?.offerMode === 'discount-code' ? (petz.stacking ?? []) : [];
+})();
+assert.equal(petzStacking[0]?.benefit, 'retirada', 'petz: "O que acumula" não abre pelo Retire na Loja');
+assert.match(petzStacking[0]?.condition ?? '', /14,5% no total.*acima de R\$ 199/, 'petz: a linha do Retire na Loja sem o total ou sem o mínimo');
+
+// Vídeos da página de loja: https, no domínio da rede declarada, com título e sem repetição.
+for (const coupon of COUPONS) {
+  const videos = coupon.videos ?? [];
+  assert.equal(new Set(videos.map((video) => video.url)).size, videos.length, `${coupon.slug}: vídeo repetido`);
+  for (const video of videos) {
+    const url = new URL(video.url);
+    const host = url.hostname.replace(/^(www|m|vm)\./, '');
+    assert.equal(url.protocol, 'https:', `${coupon.slug}: vídeo sem https (${video.url})`);
+    assert.ok(STORE_VIDEO_HOSTS[video.platform].includes(host), `${coupon.slug}: ${video.url} não é do ${video.platform}`);
+    assert.ok(video.title.trim().length >= 10, `${coupon.slug}: vídeo sem título (${video.url})`);
+  }
 }
 
 // O limite de usos do CECI por campanha é dado interno (Bruno, 12/11/2026): não sai nas páginas da Dolce Gusto nem da Nestlé Nutre.

@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import { CalendarDays, Check, Copy, ExternalLink, Layers, Repeat, ShoppingBag, Truck } from 'lucide-react';
+import { CalendarDays, Check, Copy, ExternalLink, Layers, Play, Repeat, ShoppingBag, Truck } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { getCouponHubPath } from '@/lib/couponHub';
 import { getCouponLanguageLinks, getCouponStorePath } from '@/lib/couponTranslations';
@@ -41,6 +41,8 @@ import {
   StoreHero,
   StoreTransparency,
 } from './StoreLayout';
+
+const INLINE_LINK = `font-bold underline underline-offset-2 ${FOCUS_RING}`;
 
 function getBreadcrumb(coupon: Coupon, locale: Locale, copy: CouponStoreCopy) {
   const store = { name: coupon.brand, path: getCouponStorePath(coupon.slug, locale) };
@@ -248,6 +250,12 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
     : affiliateLinkOffer?.linkInstructions || copy.instructions.link(coupon.brand);
   const lastVerified = formatLongDate(coupon.lastVerified);
   const testedAt = couponCodeOffer?.testNote && couponCodeOffer.testedAt ? formatLongDate(couponCodeOffer.testedAt) : null;
+  // As duas seções só existem onde o copy do idioma as tem (hoje, o português).
+  const stackingCopy = copy.stacking;
+  const stackingRows = stackingCopy && couponCodeOffer?.stacking?.length ? couponCodeOffer.stacking : null;
+  const failedCopy = couponCodeOffer ? copy.failed : undefined;
+  const videosCopy = copy.videos;
+  const videos = videosCopy && coupon.videos?.length ? coupon.videos : null;
   // O mês da oferta pelo calendário: do dia 20 em diante já vale o mês seguinte.
   const highlightDate = getCurrentOfferMonthDate();
   const highlightMonthYear = `${highlightDate.toLocaleDateString(copy.dateLocale, {
@@ -444,7 +452,60 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
           <section aria-labelledby="regras">
             <SectionHeading id="regras">{copy.rulesTitle}</SectionHeading>
             <RuleList rules={rules} />
+            {stackingCopy && stackingRows && (
+              <p className={`mt-4 ${BODY_TEXT}`}>
+                <a href="#o-que-acumula" className={INLINE_LINK}>
+                  {stackingCopy.rulesPointer}
+                </a>
+                .
+              </p>
+            )}
           </section>
+
+          {stackingCopy && stackingRows && (
+            <section aria-labelledby="o-que-acumula">
+              <SectionHeading id="o-que-acumula">{stackingCopy.title}</SectionHeading>
+              {/* Abaixo do md, três colunas não cabem: cada linha vira benefício e resposta lado a lado, com a
+                  condição embaixo na largura toda. Os roles seguram a tabela para o leitor de tela, porque o
+                  display: grid na linha tira a semântica em alguns navegadores. */}
+              <div className="mt-4 overflow-hidden rounded-xl border-2 border-marinho">
+                <table role="table" className="block w-full border-collapse text-left md:table">
+                  <caption className="sr-only">{stackingCopy.caption(coupon.brand)}</caption>
+                  <thead role="rowgroup" className="bg-amarelo-cupom max-md:sr-only">
+                    <tr role="row" className="border-b-2 border-marinho">
+                      {[stackingCopy.headers.benefit, stackingCopy.headers.stacks, stackingCopy.headers.condition].map((header) => (
+                        <th key={header} role="columnheader" scope="col" className="px-3 py-2.5 text-[13px] font-extrabold leading-[18px]">
+                          {header}
+                        </th>
+                      ))}
+                    </tr>
+                  </thead>
+                  <tbody role="rowgroup" className="block md:table-row-group">
+                    {stackingRows.map((row, index) => (
+                      <tr
+                        key={row.benefit}
+                        role="row"
+                        className={`grid grid-cols-[minmax(0,1fr)_auto] gap-x-3 gap-y-1 px-3 py-3 md:table-row md:p-0 ${index > 0 ? 'border-t-2 border-marinho/15' : ''}`}
+                      >
+                        <th role="rowheader" scope="row" className="min-w-0 align-top text-[15px] font-extrabold leading-[22px] md:px-3 md:py-3">
+                          {stackingCopy.benefits[row.benefit]}
+                        </th>
+                        <td role="cell" className="align-top text-[15px] font-bold leading-[22px] md:px-3 md:py-3">
+                          {stackingCopy.answers[row.stacks]}
+                        </td>
+                        <td
+                          role="cell"
+                          className="col-span-2 min-w-0 align-top text-[15px] font-medium leading-[22px] text-marinho-suave md:min-w-[11rem] md:px-3 md:py-3"
+                        >
+                          {row.condition}
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </section>
+          )}
 
           {coupon.referral && (
             <section aria-labelledby="indicacao">
@@ -491,16 +552,41 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
               </p>
               {copy.testFooter && (
                 <p className={`mt-3 ${BODY_TEXT}`} data-coupon="metodo">
-                  <Link href={copy.testFooter.methodHref} className={`font-bold underline underline-offset-2 ${FOCUS_RING}`}>
+                  <Link href={copy.testFooter.methodHref} className={INLINE_LINK}>
                     {copy.testFooter.methodLabel}
-                  </Link>
-                  . {copy.testFooter.failedPrompt}{' '}
-                  <Link href={copy.testFooter.failedHref} className={`font-bold underline underline-offset-2 ${FOCUS_RING}`}>
-                    {copy.testFooter.failedLabel}
                   </Link>
                   .
                 </p>
               )}
+            </section>
+          )}
+
+          {failedCopy && (
+            <section aria-labelledby="nao-funcionou">
+              <SectionHeading id="nao-funcionou">{failedCopy.title}</SectionHeading>
+              <ul className={`mt-4 list-disc space-y-2 pl-5 ${BODY_TEXT}`}>
+                <li>{failedCopy.field(codeFieldLabel)}</li>
+                <li>{failedCopy.eligible(coupon.eligibleCategories)}</li>
+                <li>
+                  {failedCopy.otherBenefit}
+                  {stackingRows && (
+                    <>
+                      {' '}
+                      <a href="#o-que-acumula" className={INLINE_LINK}>
+                        {failedCopy.stackingLinkLabel}
+                      </a>
+                      .
+                    </>
+                  )}
+                </li>
+              </ul>
+              <p className={`mt-3 ${BODY_TEXT}`}>
+                {failedCopy.reportPrompt}{' '}
+                <Link href={failedCopy.reportHref} className={INLINE_LINK}>
+                  {failedCopy.reportLabel}
+                </Link>
+                .
+              </p>
             </section>
           )}
 
@@ -522,6 +608,34 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                   </RelatedLink>
                 ))}
               </div>
+            </section>
+          )}
+
+          {videosCopy && videos && (
+            <section aria-labelledby="videos">
+              <SectionHeading id="videos">{videosCopy.title}</SectionHeading>
+              <ul className="mt-5 grid gap-2.5 md:grid-cols-2">
+                {videos.map((video) => (
+                  <li key={video.url}>
+                    <a
+                      href={video.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className={`flex h-full items-center gap-3 rounded-xl border-2 border-marinho px-3.5 py-3 transition-colors hover:bg-creme ${FOCUS_RING}`}
+                    >
+                      <Play aria-hidden="true" className="h-5 w-5 shrink-0" />
+                      <span className="flex min-w-0 flex-1 flex-col gap-1">
+                        <span className="text-xs font-extrabold leading-4 text-marinho-suave">
+                          {videosCopy.watchOn(videosCopy.platforms[video.platform])}
+                          <span className="sr-only"> ({videosCopy.newTab})</span>
+                        </span>
+                        <span className="text-[15px] font-bold leading-[21px]">{video.title}</span>
+                      </span>
+                      <ExternalLink aria-hidden="true" className="h-4 w-4 shrink-0" />
+                    </a>
+                  </li>
+                ))}
+              </ul>
             </section>
           )}
 

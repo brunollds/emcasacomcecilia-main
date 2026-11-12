@@ -2903,11 +2903,45 @@ for (const { pagePath, store } of couponStorePages) {
   if (store!.offerMode === 'discount-code' && store!.testNote) {
     const cutout = textOf(elementAt(body, body.indexOf('<section id="cupom"')));
     assert.ok(cutout.includes(store!.validity), `${pagePath}: o topo sem a validade da parceria`);
-    // "Como testamos o cupom" fecha, só em português, com o link do método na /sobre e o canal de aviso no /contato.
+    // "Como testamos o cupom" fecha, só em português, com o link do método na /sobre; o canal de aviso fica em
+    // "Por que o cupom não funcionou?".
     const method = between(body, 'aria-labelledby="como-testamos"', ['</section>']);
+    assert.equal(method.includes('href="/sobre#titulo-como-testamos"'), pagePath.startsWith('/cupons/'), `${pagePath}: o link do método em "Como testamos o cupom"`);
+    assert.ok(!method.includes('href="/contato"'), `${pagePath}: o canal de aviso voltou para "Como testamos o cupom"`);
+  }
+  // As seções que só existem em português: "O que acumula" (só com linhas no dado), "Por que o cupom não
+  // funcionou?" (toda loja de código) e "Vídeos" (só com vídeo cadastrado), cada uma no lugar dela.
+  {
     const isPortuguese = pagePath.startsWith('/cupons/');
-    assert.equal(method.includes('href="/sobre#titulo-como-testamos"'), isPortuguese, `${pagePath}: o link do método em "Como testamos o cupom"`);
-    assert.equal(method.includes('href="/contato"'), isPortuguese, `${pagePath}: o canal de aviso em "Como testamos o cupom"`);
+    const isCode = store!.offerMode === 'discount-code';
+    const rows = isPortuguese && store!.offerMode === 'discount-code' ? (store!.stacking ?? []) : [];
+    const at = (id: string) => body.indexOf(`aria-labelledby="${id}"`);
+    assert.equal(at('o-que-acumula') !== -1, rows.length > 0, `${pagePath}: "O que acumula com o cupom" fora da regra`);
+    assert.equal(body.includes('href="#o-que-acumula"'), rows.length > 0, `${pagePath}: link para "O que acumula" sem a seção, ou a seção sem o link`);
+    if (rows.length > 0) {
+      const table = between(body, 'aria-labelledby="o-que-acumula"', ['</section>']);
+      assert.equal((table.match(/<th role="rowheader"/g) ?? []).length, rows.length, `${pagePath}: linhas de "O que acumula"`);
+      for (const row of rows) assert.ok(textOf(table).includes(row.condition), `${pagePath}: "O que acumula" sem a condição de ${row.benefit}`);
+      assert.ok(between(body, 'aria-labelledby="regras"', ['</section>']).includes('href="#o-que-acumula"'), `${pagePath}: as regras sem o link para "O que acumula"`);
+      // No celular a linha é uma grade (a tabela de três colunas não cabe em 375 px), e a caixa não rola para o lado.
+      assert.ok(!table.includes('overflow-x-auto') && table.includes('md:table-row'), `${pagePath}: "O que acumula" voltou a ser tabela larga no celular`);
+      assert.ok(at('regras') < at('o-que-acumula') && at('o-que-acumula') < at('como-usar'), `${pagePath}: "O que acumula" fora do lugar`);
+    }
+    assert.equal(at('nao-funcionou') !== -1, isPortuguese && isCode, `${pagePath}: "Por que o cupom não funcionou?" fora da regra`);
+    if (isPortuguese && isCode) {
+      const failed = between(body, 'aria-labelledby="nao-funcionou"', ['</section>']);
+      assert.ok(failed.includes('href="/contato"'), `${pagePath}: "Por que o cupom não funcionou?" sem o canal de aviso`);
+      assert.equal((failed.match(/<li/g) ?? []).length, 3, `${pagePath}: "Por que o cupom não funcionou?" sem as três causas`);
+      assert.ok(at('como-usar') < at('nao-funcionou') && at('nao-funcionou') < at('sobre'), `${pagePath}: "Por que o cupom não funcionou?" fora do lugar`);
+      if (at('como-testamos') !== -1) assert.ok(at('como-testamos') < at('nao-funcionou'), `${pagePath}: "Por que o cupom não funcionou?" antes do teste`);
+    }
+    const videos = isPortuguese ? (store!.videos ?? []) : [];
+    assert.equal(at('videos') !== -1, videos.length > 0, `${pagePath}: seção de vídeos fora da regra`);
+    if (videos.length > 0) {
+      const section = between(body, 'aria-labelledby="videos"', ['</section>']);
+      for (const video of videos) assert.ok(section.includes(`href="${video.url}"`), `${pagePath}: vídeo fora da seção (${video.url})`);
+      assert.ok(at('videos') < at('perguntas'), `${pagePath}: os vídeos depois das perguntas`);
+    }
   }
   assertCopyCutouts(pagePath, body, expected);
   if (store.referral) {

@@ -1475,6 +1475,8 @@ export const CODE_FIELD_POLICY = {
   featured: 'pt',
   featuredPitch: 'drop',
   relatedContent: 'drop',
+  // A seção de vídeos só existe em PT.
+  videos: 'drop',
   monthlyHighlight: 'translate',
   affiliateAccountId: 'pt',
   referral: 'pt',
@@ -1489,6 +1491,8 @@ export const CODE_FIELD_POLICY = {
   tiers: 'drop',
   // O aviso do código com prazo só existe em PT.
   limitedCodes: 'drop',
+  // "O que acumula com o cupom" só existe em PT.
+  stacking: 'drop',
 } as const satisfies Record<keyof CouponCodeOffer, 'pt' | 'translate' | 'drop'>;
 
 // Os campos que vêm da tradução; cada um precisa existir em CodeOfferTranslation (o Pick de localizeCoupon
