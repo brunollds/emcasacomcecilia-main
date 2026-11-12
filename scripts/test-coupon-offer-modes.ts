@@ -373,7 +373,7 @@ for (const slug of newAndReturning) {
 // O limite de usos do CECI por campanha é dado interno (Bruno, 12/11/2026): não sai nas páginas da Dolce Gusto nem da Nestlé Nutre.
 for (const slug of ['dolce-gusto', 'nestle-nutre']) {
   const coupon = getCouponBySlug(slug);
-  const shown = [coupon?.reusable, coupon?.longDescription, coupon?.combinable, ...(coupon?.faqs ?? []).flatMap((faq) => [faq.question, faq.answer])].join(' ');
+  const shown = [coupon?.reusable, coupon?.longDescription, coupon?.metaDescription, coupon?.eligibleCategories, coupon?.combinable, coupon?.offerMode === 'discount-code' ? coupon.testNote : '', ...(coupon?.faqs ?? []).flatMap((faq) => [faq.question, faq.answer])].join(' ');
   assert.doesNotMatch(shown, /(3|três) (usos|vezes)/i, `${slug}: a página cita o limite de usos do CECI`);
 }
 
