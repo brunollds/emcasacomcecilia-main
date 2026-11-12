@@ -2039,7 +2039,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom MAUAD soma com o desconto do Pix?',
         answer:
-          'Sim. No teste de 16/10/2026, o carrinho com o MAUAD aplicado ainda ganhou os 5% de desconto do Pix: R$ 519,14 viraram R$ 493,18.',
+          'Sim. No nosso teste, o carrinho com o MAUAD aplicado ainda ganhou os 5% de desconto do Pix: R$ 519,14 viraram R$ 493,18.',
       },
       {
         question: 'O cupom soma com produtos em promoção?',
