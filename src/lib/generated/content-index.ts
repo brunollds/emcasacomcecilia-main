@@ -212215,7 +212215,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O cupom EMCASA dá 10% OFF no site e no app da Petz. Veja onde colar na sacola, quando a promoção ganha do cupom, como ler o Total de descontos e como somar com o Retire na Loja.",
-    "metaDescription": "EMCASA dá 10% OFF no site e no app da Petz. Veja onde colar na sacola, quando fica o desconto maior e como somar com a retirada.",
+    "metaDescription": "O código EMCASA dá 10% OFF na Petz e soma com os 5% do Retire na Loja: no nosso teste, a sacola fechou 14,5% abaixo do preço cheio.",
     "publishedAt": "11 de novembro de 2026",
     "publishedAtISO": "2026-11-11",
     "draft": false,
@@ -212228,7 +212228,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom da Petz é o EMCASA, com 10% OFF nas compras no site e no app. Ele vai no campo “Digite seu cupom” da sacola e não soma com promoção: em cada item, fica o desconto maior. Na retirada em loja, ele soma com os 5% do Retire na Loja; veja abaixo quando a promoção ganha."
+          "O cupom da Petz é o EMCASA, com 10% OFF nas compras no site e no app. Ele vai no campo “Digite seu cupom” da sacola e não soma com promoção: em cada item, fica o desconto maior. Na retirada em loja, ele soma com os 5% do Retire na Loja, até 14,5% no total; veja abaixo quando a promoção ganha."
         ]
       },
       {
@@ -212336,7 +212336,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Confira no seu carrinho: com a retirada escolhida, a sacola mostra o “+5% OFF” na opção Retire na Loja. Compare o total antes de pagar, porque a regra de retirada depende da região, do valor do pedido e da disponibilidade da loja pelo CEP."
+          "Confira no seu carrinho: com a retirada escolhida, a sacola mostra o “+5% OFF” na opção Retire na Loja. Compare o total antes de pagar, porque a regra de retirada depende da região, do valor do pedido e da disponibilidade da loja pelo CEP.",
+          "No total, a sacola fechou 14,5% abaixo do preço cheio, e não 15%: os 5% da retirada saem do valor que já tem o cupom, e não do preço cheio. Em item já em promoção o EMCASA não entra, então 14,5% é o teto da soma, não o desconto de toda sacola."
         ]
       },
       {
@@ -212389,7 +212390,8 @@ export const reviewsData: unknown[] = [
           "O cupom soma com promoção? Não: em cada item, a sacola fica com o desconto maior. A tabela de quando o cupom muda o preço mostra a conta com três produtos.",
           "Vale no app? Sim, pelo que diz o programa Parceiro Petz, o EMCASA vale nas compras no site e no app.",
           "Dá frete grátis? O EMCASA é desconto de 10%; o frete segue a faixa da sua região, como explicado na seção de frete.",
-          "O cupom vale em toda compra? Segundo o programa Parceiro Petz, o EMCASA vale em todas as compras no site e no app."
+          "O cupom vale em toda compra? Segundo o programa Parceiro Petz, o EMCASA vale em todas as compras no site e no app.",
+          "Existe cupom Petz de 15%? Os códigos de parceiro, como o EMCASA, dão 10%. O “até 15%” que aparece por aí é esse 10% mais os 5% do Retire na Loja, que vale em compras acima de R$ 199 no Centro-Oeste, Sul e Sudeste. Como os 5% saem do valor já com o cupom, a soma dá 14,5%."
         ]
       }
     ],
@@ -213877,7 +213879,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Expressa ou retirar na loja? Veja o prazo, o frete, a taxa de serviço e o desconto de cada forma na sacola da Petz, e como o EMCASA soma com a retirada.",
-    "metaDescription": "EMCASA dá 10% OFF na Petz e soma com os 5% da retirada na loja. Veja o prazo e o custo da Expressa e da Agendada na sacola antes de pagar.",
+    "metaDescription": "EMCASA dá 10% OFF na Petz e soma com os 5% da retirada na loja: até 14,5% no total. Veja o prazo e o custo da Expressa e da Agendada na sacola.",
     "publishedAt": "11 de novembro de 2026",
     "publishedAtISO": "2026-11-11",
     "draft": false,
@@ -213959,7 +213961,7 @@ export const reviewsData: unknown[] = [
           "A retirada oferece 5% em compras acima de R$ 199 no Centro-Oeste, Sul e Sudeste, conforme as lojas do CEP. No resumo do teste, não apareceu taxa de serviço.",
           "Não escolha apenas a unidade mais próxima. Para a mesma sacola, algumas lojas mostraram liberação a partir de 45 minutos e as mais próximas exibiram uma data bem posterior. Confira quais itens estão disponíveis e o prazo da unidade antes de pagar.",
           "Aguarde a mensagem de que o pedido está liberado antes de sair de casa. Depois dela, você tem 28 dias corridos para buscar, segundo a política. O benefício de 5% é informado para Centro-Oeste, Sul e Sudeste; para outras regiões, confira a opção no carrinho.",
-          "O EMCASA soma com os 5% da retirada, e a conta da sacola de teste está no [passo a passo do cupom](/reviews/cupom-petz-como-usar)."
+          "O EMCASA soma com os 5% da retirada: até 14,5% no total, em compras acima de R$ 199 no Centro-Oeste, Sul e Sudeste e nos itens fora de promoção, porque os 5% saem do valor já com o cupom. A conta da sacola de teste está no [passo a passo do cupom](/reviews/cupom-petz-como-usar)."
         ]
       },
       {
