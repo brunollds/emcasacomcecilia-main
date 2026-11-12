@@ -59,7 +59,7 @@ import { splitInlineMarkdown } from '../src/lib/inlineMarkdown';
 import { REVIEW_HUB_LOCALES, getInternationalReviewHub, getPublishedReviewsForLocale } from '../src/lib/review-hubs';
 import { pickRelatedReviews } from '../src/lib/relatedReviews';
 import { relatedOrderProblem } from './related-order';
-import { getOthersShelfContent, getReviewsHubContent, getStoreShelfContent } from '../src/lib/reviewsHub';
+import { NEW_ROW_LIMIT, getOthersShelfContent, getReviewsHubContent, getStoreShelfContent } from '../src/lib/reviewsHub';
 import { GRID_PAGE_SIZE } from '../src/lib/reviewsShelf';
 import { getYoutubeEmbedUrl, getYoutubeVideoId } from '../src/lib/video-metadata';
 import { videoPages } from '../src/lib/video-pages';
@@ -3499,7 +3499,7 @@ function assertCollectionNames(where: string, html: string, titles: readonly str
   assert.deepEqual(names, titles, `${where}: nomes dos itens do CollectionPage`);
 }
 
-// /reviews: o h1 (um só), a estante, as Novidades (uma por artigo com o selo "Novo"), as bolinhas das
+// /reviews: o h1 (um só), a estante, as Novidades (os 12 artigos mais novos com o selo "Novo" e o "Ver todos" quando há mais), as bolinhas das
 // lojas com subpágina e o JSON-LD de lista com a imagem de compartilhamento (assertListPageSeo, mais
 // abaixo no arquivo, é uma declaração de função e vale aqui).
 const reviewsHub = getReviewsHubContent(publishedReviews);
@@ -3515,11 +3515,21 @@ assertShelfPage('/reviews', reviewsBody, reviewsShelf);
 assertListPageSeo('/reviews', reviewsHtml, { items: reviewsHub.articles.length, image: reviewsHub.socialImage });
 const reviewsTitles = reviewsHub.articles.map(({ title }) => title);
 assertCollectionNames('/reviews', reviewsHtml, reviewsTitles);
-assert.deepEqual(
-  articleLinksIn(between(reviewsBody, 'id="titulo-novidades"', ['</section>'])),
-  reviewsHub.newArticles.map(({ slug }) => slug),
-  '/reviews: Novidades'
+const reviewsNewRow = between(reviewsBody, 'id="titulo-novidades"', ['</section>']);
+assert.deepEqual(articleLinksIn(reviewsNewRow), reviewsHub.newArticles.map(({ slug }) => slug), '/reviews: Novidades');
+assert.ok(reviewsHub.newArticles.length <= NEW_ROW_LIMIT, `/reviews: Novidades com mais de ${NEW_ROW_LIMIT} artigos`);
+assert.equal(
+  reviewsNewRow.match(/<li\b/g)?.length ?? 0,
+  reviewsHub.newArticles.length,
+  '/reviews: Novidades com um cartão por artigo da fila'
 );
+// O "Ver todos" só existe com a fila cortada, e o destino dele (o título da estante) está na página.
+assert.equal(
+  /<a\b[^>]*\bhref="#titulo-estante"/.test(reviewsNewRow),
+  reviewsHub.newArticlesTotal > reviewsHub.newArticles.length,
+  '/reviews: Ver todos das Novidades'
+);
+assert.ok(/<h2\b[^>]*\bid="titulo-estante"/.test(reviewsBody), '/reviews: sem o h2#titulo-estante, destino do Ver todos');
 assert.deepEqual(
   storeLinksIn(between(reviewsBody, 'id="titulo-por-loja"', ['</section>'])),
   reviewsHub.stores.map(({ slug }) => slug),

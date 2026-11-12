@@ -3,8 +3,10 @@
 import type { CSSProperties } from 'react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { ReviewShelfCard } from '@/components/reviews/ReviewShelfCard';
-import { SHELF_CONTAINER, SHELF_TITLE } from '@/components/reviews/shelfClasses';
+import { SHELF_CONTAINER, SHELF_TITLE, SHELF_TITLE_ID } from '@/components/reviews/shelfClasses';
+import { TrackedReviewsLink } from '@/components/reviews/TrackedReviewsLink';
 import { cardDecorAt } from '@/components/ui/cardDecor';
+import { FOCUS_RING } from '@/components/ui/focusRing';
 import { RevealSection } from '@/components/ui/RevealSection';
 import { ScrollRow } from '@/components/ui/ScrollRow';
 import { ROW_ARROW, useRowScroll } from '@/components/ui/useRowScroll';
@@ -14,8 +16,12 @@ import type { ShelfArticle } from '@/lib/reviewsShelf';
 // pela posição), numa fila que rola na horizontal. As setas só aparecem no computador quando a fila não
 // cabe; no celular, o degradê da borda direita some no fim. Os cartões entram em cascata quando a seção
 // chega à tela (RevealSection, .revela com --i), e as duas primeiras fotos carregam sem atraso. Sem
-// artigo "Novo", a seção não existe.
-export function ReviewsNewRow({ articles }: { articles: ShelfArticle[] }) {
+// artigo "Novo", a seção não existe. Com mais artigos "Novo" (`total`) do que os da fila, o "Ver todos"
+// leva à estante, na mesma página.
+const ALL_LABEL = 'Ver todos os artigos';
+const ALL_HREF = `#${SHELF_TITLE_ID}`;
+
+export function ReviewsNewRow({ articles, total }: { articles: ShelfArticle[]; total: number }) {
   const { trackRef, overflows, moreToTheRight, scrollTrack } = useRowScroll<HTMLUListElement>(articles);
 
   if (articles.length === 0) return null;
@@ -27,13 +33,26 @@ export function ReviewsNewRow({ articles }: { articles: ShelfArticle[] }) {
           <h2 id="titulo-novidades" className={SHELF_TITLE}>
             <span className="marca-texto">Novidades</span>
           </h2>
-          <div className={`hidden shrink-0 gap-2${overflows ? ' md:flex' : ''}`}>
-            <button type="button" onClick={() => scrollTrack('left')} className={ROW_ARROW} aria-label="Ver novidades anteriores">
-              <ChevronLeft aria-hidden="true" className="size-5" />
-            </button>
-            <button type="button" onClick={() => scrollTrack('right')} className={ROW_ARROW} aria-label="Ver próximas novidades">
-              <ChevronRight aria-hidden="true" className="size-5" />
-            </button>
+          <div className="flex shrink-0 items-center gap-4">
+            {total > articles.length ? (
+              <TrackedReviewsLink
+                href={ALL_HREF}
+                placement="reviews_new"
+                linkLabel={ALL_LABEL}
+                aria-label={ALL_LABEL}
+                className={`flex min-h-11 items-center text-[13px] font-extrabold text-marinho underline underline-offset-[3px] md:text-sm ${FOCUS_RING}`}
+              >
+                Ver todos
+              </TrackedReviewsLink>
+            ) : null}
+            <div className={`hidden shrink-0 gap-2${overflows ? ' md:flex' : ''}`}>
+              <button type="button" onClick={() => scrollTrack('left')} className={ROW_ARROW} aria-label="Ver novidades anteriores">
+                <ChevronLeft aria-hidden="true" className="size-5" />
+              </button>
+              <button type="button" onClick={() => scrollTrack('right')} className={ROW_ARROW} aria-label="Ver próximas novidades">
+                <ChevronRight aria-hidden="true" className="size-5" />
+              </button>
+            </div>
           </div>
         </div>
         {/* O pt-4 dá lugar aos ímãs, que saem do cartão, e o px-3 do computador, à inclinação. */}

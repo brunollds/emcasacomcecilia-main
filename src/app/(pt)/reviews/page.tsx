@@ -70,7 +70,7 @@ export default function ReviewsPage() {
         }
         showcase={
           <>
-            <ReviewsNewRow articles={content.newArticles} />
+            <ReviewsNewRow articles={content.newArticles} total={content.newArticlesTotal} />
             <ReviewsStoreStrip id="titulo-por-loja" title="Por loja" stores={content.stores} placement="reviews_stores" />
           </>
         }

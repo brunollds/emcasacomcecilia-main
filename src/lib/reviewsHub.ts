@@ -213,10 +213,15 @@ function getShareImage(listed: readonly ListedReview[]): SocialImage {
   return SITE_SOCIAL_IMAGE;
 }
 
+// As Novidades mostram os artigos "Novo" mais recentes; o resto fica na estante, logo abaixo.
+export const NEW_ROW_LIMIT = 12;
+
 export type ReviewsHubContent = {
   intro: string;
   articles: ShelfArticle[];
   newArticles: ShelfArticle[];
+  // Todos os artigos "Novo", inclusive os que não couberam nas Novidades.
+  newArticlesTotal: number;
   stores: ShelfStore[];
   categories: ShelfCategory[];
   socialImage: SocialImage;
@@ -228,10 +233,12 @@ export function getReviewsHubContent(
 ): ReviewsHubContent {
   const listed = sortReviewsByPublishedAt(getListedPortugueseReviews(reviews));
   const articles = listed.map((review) => toShelfArticle(review, stores));
+  const flaggedNew = articles.filter(({ isNew }) => isNew);
   return {
     intro: `${articles.length} guias e análises. ${REVIEWS_INTRO}`,
     articles,
-    newArticles: articles.filter(({ isNew }) => isNew),
+    newArticles: flaggedNew.slice(0, NEW_ROW_LIMIT),
+    newArticlesTotal: flaggedNew.length,
     stores: getShelfBubbles(reviews, stores),
     categories: getPresentCategories(articles),
     socialImage: getShareImage(listed),

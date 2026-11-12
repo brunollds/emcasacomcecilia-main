@@ -27,6 +27,7 @@ import {
   type ReviewCategory,
 } from '@/lib/reviewDiscovery';
 import {
+  NEW_ROW_LIMIT,
   OTHERS_SHELF_PATH,
   getOthersShelfContent,
   getReviewsHubContent,
@@ -170,11 +171,34 @@ assert.deepEqual(slugs(hub.articles), [
   'magalu-4',
 ]);
 assert.deepEqual(slugs(hub.newArticles), ['poltrona-damie', 'agua'], 'Novidades: só os listados com isNew');
+assert.equal(hub.newArticlesTotal, 2, 'Novidades: o total é o de artigos com isNew');
 assert.equal(
   hub.intro,
   '9 guias e análises. Guias práticos, experiências reais quando existem e análises baseadas em dados e fontes declaradas.'
 );
-assert.equal(getReviewsHubContent(fixture.map((item) => ({ ...item, isNew: false })), fixtureStores).newArticles.length, 0);
+const noneNew = getReviewsHubContent(fixture.map((item) => ({ ...item, isNew: false })), fixtureStores);
+assert.equal(noneNew.newArticles.length, 0);
+assert.equal(noneNew.newArticlesTotal, 0);
+
+// Novidades: no máximo NEW_ROW_LIMIT artigos, os mais novos pela data, qualquer que seja a ordem de entrada.
+assert.equal(NEW_ROW_LIMIT, 12);
+const newOnDay = (day: number) =>
+  review(100 + day, `novo-${day}`, { publishedAtISO: `2026-11-${String(day).padStart(2, '0')}`, isNew: true });
+const flaggedDays = Array.from({ length: NEW_ROW_LIMIT + 3 }, (_, index) => index + 1);
+const overLimit = getReviewsHubContent([...flaggedDays.map(newOnDay), review(200, 'antigo', { publishedAtISO: '2026-11-30' })], []);
+assert.deepEqual(
+  slugs(overLimit.newArticles),
+  [...flaggedDays]
+    .reverse()
+    .slice(0, NEW_ROW_LIMIT)
+    .map((day) => `novo-${day}`),
+  'Novidades: os 12 mais novos com isNew'
+);
+assert.equal(overLimit.newArticlesTotal, NEW_ROW_LIMIT + 3);
+assert.equal(overLimit.articles.filter(({ isNew }) => isNew).length, NEW_ROW_LIMIT + 3, 'o selo Novo da estante não muda');
+const atLimit = getReviewsHubContent(flaggedDays.slice(0, NEW_ROW_LIMIT).map(newOnDay), []);
+assert.equal(atLimit.newArticles.length, NEW_ROW_LIMIT);
+assert.equal(atLimit.newArticlesTotal, NEW_ROW_LIMIT);
 
 const poltrona = article('poltrona-damie');
 assert.equal(poltrona.href, '/reviews/poltrona-damie');
@@ -531,7 +555,9 @@ assert.throws(
 const listed = sortReviewsByPublishedAt(getListedPortugueseReviews(publishedReviews));
 const real = getReviewsHubContent(publishedReviews);
 assert.deepEqual(slugs(real.articles), slugs(listed));
-assert.deepEqual(slugs(real.newArticles), slugs(listed.filter(({ isNew }) => isNew)));
+const realNew = listed.filter(({ isNew }) => isNew);
+assert.deepEqual(slugs(real.newArticles), slugs(realNew.slice(0, NEW_ROW_LIMIT)));
+assert.equal(real.newArticlesTotal, realNew.length);
 const realOthers = getOthersShelfContent(publishedReviews);
 const realPageStores = sortStoresByNewestArticle(
   getStoreArticlePageSlugs(publishedReviews).map((slug) => store(slug)),
@@ -922,7 +948,7 @@ assert.ok(
   newRowArticles.every(({ image, isNew }) => image && isNew),
   'os três artigos da fila têm foto e são novos'
 );
-const newRow = render(createElement(ReviewsNewRow, { articles: newRowArticles }));
+const newRow = render(createElement(ReviewsNewRow, { articles: newRowArticles, total: newRowArticles.length }));
 assert.ok(newRow.includes('aria-labelledby="titulo-novidades"'));
 assert.match(newRow, /<h2 id="titulo-novidades"[^>]*><span class="marca-texto">Novidades<\/span><\/h2>/);
 assert.equal(newRow.match(/<li class="revela /g)?.length, 3, 'um cartão por artigo');
@@ -953,8 +979,20 @@ assert.ok(arrowClasses.includes('hidden'), 'setas escondidas no HTML do servidor
 assert.ok(!arrowClasses.includes('md:flex'), 'setas sem md:flex até a fila transbordar');
 assert.ok(arrows[2].includes('aria-label="Ver próximas novidades"'), 'as duas setas no mesmo contêiner');
 
+// "Ver todos": só quando há mais artigos "Novo" do que os da fila; leva ao título da estante, na mesma
+// página, com o anel de foco da casa e o nome completo para o leitor de tela.
+const allLink = (html: string) => html.match(/<a\b[^>]*\bhref="#titulo-estante"[^>]*>([^<]*)<\/a>/);
+assert.equal(allLink(newRow), null, 'fila com todos os artigos Novo: sem o Ver todos');
+const cappedRow = render(createElement(ReviewsNewRow, { articles: newRowArticles, total: newRowArticles.length + 1 }));
+const cappedLink = allLink(cappedRow);
+assert.ok(cappedLink, 'fila cortada: Ver todos para a estante');
+assert.equal(cappedLink[1], 'Ver todos');
+assert.match(cappedLink[0], /\baria-label="Ver todos os artigos"/);
+assert.match(cappedLink[0], /\bclass="[^"]* focus-visible:outline-marinho[ "]/, 'Ver todos com o anel de foco da casa');
+assert.equal(cappedRow.match(/<li class="revela /g)?.length, 3, 'o Ver todos não muda os cartões');
+
 // Sem artigo "Novo", a seção não existe.
-assert.equal(render(createElement(ReviewsNewRow, { articles: [] })), '');
+assert.equal(render(createElement(ReviewsNewRow, { articles: [], total: 0 })), '');
 
 // Bolinhas: título, uma por loja na ordem dos dados (com duas lojas, a ordem invertida inverte os links);
 // sem loja, a seção não existe.
