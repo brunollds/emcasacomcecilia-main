@@ -128208,7 +128208,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Quem opera a Toda Up, a ligação com a Fita UP, como conferir o site oficial e o que a loja diz sobre trocas, reembolso e frete, com dados de 26/10/2026.",
-    "metaDescription": "O cupom MAUAD dá 10% OFF no site oficial da Toda Up. A Toda Up é confiável? CNPJ da Fita UP ativo desde 2020, trocas, reembolso e frete.",
+    "metaDescription": "O cupom MAUAD dá 15% OFF no site oficial da Toda Up. A Toda Up é confiável? CNPJ da Fita UP ativo desde 2020, trocas, reembolso e frete.",
     "image": "/images/reviews/toda-up/toda-up-e-confiavel-capa-v2.webp",
     "imageAlt": "Modelo adulta de cabelos grisalhos veste Comfort Up preto e calcinha clara, em foto oficial da Toda Up, ao lado da pergunta Toda Up é confiável?.",
     "imageFit": "contain",
@@ -128239,7 +128239,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Toda Up é o nome novo da Fita Up, segundo a loja: a FITA UP LTDA, com CNPJ ativo desde 2020. O rodapé traz o CNPJ e a loja publica regras de troca, reembolso e frete; o ponto de atenção é o prazo de reembolso, que a política não fixa. No site oficial, o MAUAD dá 10% OFF."
+          "Sim, a Toda Up é o nome novo da Fita Up, segundo a loja: a FITA UP LTDA, com CNPJ ativo desde 2020. O rodapé traz o CNPJ e a loja publica regras de troca, reembolso e frete; o ponto de atenção é o prazo de reembolso, que a política não fixa. No site oficial, o MAUAD dá 15% OFF."
         ]
       },
       {
@@ -128401,7 +128401,7 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a Toda Up e pode receber comissão pelas compras feitas com o cupom MAUAD, o cupom da Toda Up. Veja a [página do cupom da Toda Up](/cupons/toda-up) para o código e as condições vigentes.",
-          "O cupom dá 10% OFF em todo o site e, no carrinho, valeu em produto já com desconto. O passo a passo e a conta do teste estão em [como usar o cupom da Toda Up](/reviews/cupom-toda-up-como-usar)."
+          "O cupom dá 15% OFF em todo o site e, no carrinho, valeu em produto já com desconto. O passo a passo e a conta do teste estão em [como usar o cupom da Toda Up](/reviews/cupom-toda-up-como-usar)."
         ]
       },
       {
@@ -128444,7 +128444,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Os números da Toda Up no Reclame Aqui em novembro: Ótima nos últimos 6 meses, nota 8,2, 100% respondidas e 89,9% resolvidas, e RA1000 em 12 meses, nota 8,3.",
-    "metaDescription": "Toda Up no Reclame Aqui com o cupom MAUAD de 10% OFF: Ótima, nota 8,2, 100% respondidas e 89,9% resolvidas, e o que fazer se der problema.",
+    "metaDescription": "Toda Up no Reclame Aqui com o cupom MAUAD de 15% OFF: Ótima, nota 8,2, 100% respondidas e 89,9% resolvidas, e o que fazer se der problema.",
     "image": "/images/reviews/toda-up/toda-up-reclame-aqui-capa-discover.webp",
     "imageAlt": "Modelo com o Sutiã Comfort Line da Toda Up e o topo do perfil Toda Up no Reclame Aqui em 26/10/2026, com a reputação RA1000 e o selo Empresa Verificada",
     "imageFit": "contain",
@@ -128475,7 +128475,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim: a Toda Up estava com reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,2, 100% das reclamações respondidas e 89,9% resolvidas. O perfil é um só, com o CNPJ da FITA UP LTDA, e as abas mudam em volume e tempo de resposta; veja [Toda Up é confiável?](/reviews/toda-up-e-confiavel). No site oficial, o MAUAD dá 10% OFF."
+          "Sim: a Toda Up estava com reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,2, 100% das reclamações respondidas e 89,9% resolvidas. O perfil é um só, com o CNPJ da FITA UP LTDA, e as abas mudam em volume e tempo de resposta; veja [Toda Up é confiável?](/reviews/toda-up-e-confiavel). No site oficial, o MAUAD dá 15% OFF."
         ]
       },
       {
@@ -128623,7 +128623,7 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a Toda Up e pode receber comissão pelas compras feitas com o cupom MAUAD, o cupom da Toda Up. Os números acima vêm do perfil público no Reclame Aqui.",
-          "O cupom dá 10% OFF em todo o site da Toda Up. As regras de validade e aplicação estão na [página do cupom da Toda Up](/cupons/toda-up), e o passo a passo para aplicar no carrinho consta em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
+          "O cupom dá 15% OFF em todo o site da Toda Up. As regras de validade e aplicação estão na [página do cupom da Toda Up](/cupons/toda-up), e o passo a passo para aplicar no carrinho consta em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
         ]
       },
       {
@@ -128670,8 +128670,8 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
-    "description": "O cupom MAUAD dá 10% OFF em todo o site da Toda Up, inclusive em produto em promoção. Veja o passo a passo no carrinho e o que ele somou com a Black Antecipada no teste.",
-    "metaDescription": "Passo a passo para usar o cupom MAUAD no carrinho da Toda Up: 10% OFF em todo o site, inclusive em produto em promoção.",
+    "description": "O cupom MAUAD dá 15% OFF em todo o site da Toda Up, inclusive em produto em promoção. Veja o passo a passo no carrinho e o que ele somou com a Black Antecipada no teste.",
+    "metaDescription": "Passo a passo para usar o cupom MAUAD no carrinho da Toda Up: 15% OFF em todo o site, inclusive em produto em promoção.",
     "image": "/images/reviews/toda-up/cupom-toda-up-como-usar-capa-v2.webp",
     "imageAlt": "Duas modelos adultas com sutiãs Comfort Line rosa e preto da Toda Up, em foto oficial.",
     "imageFit": "contain",
@@ -128702,14 +128702,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O [cupom Toda Up](/cupons/toda-up) é o MAUAD e dá 10% OFF em todo o site oficial, inclusive em produto já em promoção. No teste da Black Antecipada, a progressiva entrou primeiro e o cupom tirou 10% do que sobrou. Em outra campanha, confira a ordem das linhas de desconto no resumo antes de pagar."
+          "O [cupom Toda Up](/cupons/toda-up) é o MAUAD e dá 15% OFF em todo o site oficial, inclusive em produto já em promoção, e soma com as promoções do site. Exceção: na Black VIP, enquanto durar, o checkout não aceita o cupom. Em outra campanha, confira a ordem das linhas de desconto no resumo antes de pagar."
         ]
       },
       {
         "heading": "O que é o cupom da Toda Up",
         "paragraphs": [
           "MAUAD é o cupom da parceria do Em Casa com Cecília com a Toda Up, marca de moda íntima feminina de Biguaçu (SC): sutiãs Comfort, tops e calcinhas SkinUp e Cotton Up, sutiã de silicone, Fita Up e protetores. A loja se chamava Fita Up: o site é o mesmo, agora com o nome Toda Up, e o cupom vale nele. O mesmo código existe em outras lojas; aqui vale só o da Toda Up, só no site oficial, todaup.com.",
-          "O desconto é de 10% sobre o preço que aparece no carrinho. Se o produto já está com desconto, os 10% saem do preço promocional, não do preço de tabela. No teste com a promoção progressiva da Black Antecipada, ela entrou primeiro, e os 10% saíram do que sobrou."
+          "O desconto é de 15% sobre o preço que aparece no carrinho. Se o produto já está com desconto, os 15% saem do preço promocional, não do preço de tabela. No teste de outubro, com o cupom ainda em 10% e a promoção progressiva da Black Antecipada no ar, ela entrou primeiro, e os 10% saíram do que sobrou."
         ],
         "image": {
           "src": "/images/reviews/toda-up/cupom-toda-up-catalogo.webp",
@@ -128728,7 +128728,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "2. Monte o carrinho",
         "paragraphs": [
-          "Escolha as peças e coloque no carrinho. O cupom não entra na página do produto: ele aparece no resumo do pedido. Os preços da página do produto já trazem o desconto do site, quando há; no dia do teste, o Sutiã Comfort Up aparecia por R$ 170,91, de R$ 199,90."
+          "Escolha as peças e coloque no carrinho. O cupom não entra na página do produto: ele aparece no resumo do pedido. Os preços da página do produto já trazem o desconto do site, quando há; nos dois testes, o Sutiã Comfort Up aparecia por R$ 170,91, de R$ 199,90."
         ],
         "image": {
           "src": "/images/reviews/toda-up/toda-up-sutia-comfort-line.webp",
@@ -128754,14 +128754,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O teste no carrinho",
         "paragraphs": [
-          "No carrinho, em 26/10/2026, sem finalizar a compra, a tela mostrou estes números:"
+          "No carrinho, em 26/10/2026, sem finalizar a compra, com o cupom ainda em 10%, a tela mostrou estes números:"
         ],
         "comparisonTable": {
           "headers": [
             "Carrinho",
             "Subtotal",
             "Progressiva da loja",
-            "Cupom da Toda Up (10%)",
+            "Cupom da Toda Up (10%, em outubro)",
             "Total"
           ],
           "rows": [
@@ -128782,7 +128782,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No primeiro carrinho, os 10% entraram sobre o preço promocional do Comfort Up, que já estava de R$ 199,90 por R$ 170,91. No segundo, o Comfort Line (R$ 189,90) levou o carrinho acima de R$ 299, e a loja aplicou sozinha a linha \"Flash Sale · 12% OFF acima de R$ 299\". O cupom entrou depois, sobre o que sobrou.",
+          "No primeiro carrinho, os 10% de então entraram sobre o preço promocional do Comfort Up, que já estava de R$ 199,90 por R$ 170,91. No segundo, o Comfort Line (R$ 189,90) levou o carrinho acima de R$ 299, e a loja aplicou sozinha a linha \"Flash Sale · 12% OFF acima de R$ 299\". O cupom entrou depois, sobre o que sobrou.",
+          "No teste de 11/11, com o MAUAD já em 15%, o Sutiã Comfort Up em promoção, de R$ 199,90 por R$ 170,91, foi a R$ 145,28 com o cupom: R$ 25,63 de desconto, os 15% sobre o preço promocional.",
           "São valores de um dia. A loja pode mudar a promoção sem aviso, então confira a conta no seu resumo."
         ],
         "image": {
@@ -128796,13 +128797,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom e a Black Antecipada",
         "paragraphs": [
-          "No dia do teste, a Toda Up estava com a Black Antecipada no ar, com desconto progressivo por valor do carrinho: 12% acima de R$ 299, com mais duas faixas acima. A progressiva entra primeiro, automática, e o cupom tira 10% do que sobra. As faixas, as datas e os preços da campanha ficam no [guia de Black Friday da Toda Up](/reviews/black-friday-toda-up). A Black Antecipada teve frete grátis; confira o frete da campanha em vigor no carrinho."
+          "No teste de outubro, a Toda Up estava com a Black Antecipada no ar, com desconto progressivo por valor do carrinho: 12% acima de R$ 299, com mais duas faixas acima. A progressiva entrou primeiro, automática, e o cupom, que ainda dava 10%, tirou 10% do que sobrou. Na Black VIP, campanha da loja, o checkout não aceita o cupom enquanto ela durar: avisa que ele não soma com a escada de desconto. As faixas, as datas e os preços da campanha ficam no [guia de Black Friday da Toda Up](/reviews/black-friday-toda-up). A Black Antecipada teve frete grátis; confira o frete da campanha em vigor no carrinho."
         ]
       },
       {
         "heading": "Quanto fica com o cupom",
         "paragraphs": [
-          "Os preços do site no dia do teste estão na tabela do [guia de Black Friday da Toda Up](/reviews/black-friday-toda-up). Nos 10% do cupom, é conta nossa: o Comfort Line e o Comfort Slim (R$ 189,90) ficam em R$ 170,91 e a Fita Up (R$ 119,90) em R$ 107,91, cada um comprado sozinho, abaixo de R$ 299. Só o valor do Comfort Up veio da tela do carrinho."
+          "Os preços do site no teste de outubro estão na tabela do [guia de Black Friday da Toda Up](/reviews/black-friday-toda-up). Nos 15% do cupom, é conta nossa: o Comfort Line e o Comfort Slim (R$ 189,90) ficam em R$ 161,42 e a Fita Up (R$ 119,90) em R$ 101,92, cada um comprado sozinho, abaixo de R$ 299. Só o valor do Comfort Up, R$ 145,28, veio da tela do carrinho."
         ]
       },
       {
@@ -128828,16 +128829,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando o cupom vale a pena",
         "paragraphs": [
-          "Se você já ia comprar na Toda Up, o cupom vale em qualquer carrinho; no teste da Black Antecipada, acima de R$ 299 a progressiva fez mais, e o cupom ainda tirou 10% do que sobrou. Em outra campanha, confira as regras dela no carrinho.",
+          "Se você já ia comprar na Toda Up, o cupom vale em qualquer carrinho; no teste da Black Antecipada, acima de R$ 299 a progressiva fez mais, e o cupom, que então dava 10%, ainda tirou 10% do que sobrou. Em outra campanha, confira as regras dela no carrinho.",
           "Antes de comprar, leia [Toda Up é confiável?](/reviews/toda-up-e-confiavel) e [o que os números do Reclame Aqui mostram](/reviews/toda-up-reclame-aqui-nota-reputacao)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Toda Up? O cupom é MAUAD, com 10% OFF em todo o site oficial da Toda Up.",
-          "O cupom Toda Up vale em produto em promoção? Sim. No teste do carrinho, os 10% entraram sobre o preço promocional; os valores estão na tabela do teste.",
-          "O cupom soma com a promoção da Black Antecipada? No teste, sim: a progressiva entrou primeiro e o cupom tirou 10% do que sobrou. Os dois carrinhos estão na tabela do teste. Em outra campanha, confira as regras e as linhas do seu pedido.",
+          "Qual é o cupom da Toda Up? O cupom é MAUAD, com 15% OFF em todo o site oficial da Toda Up.",
+          "O cupom Toda Up vale em produto em promoção? Sim. No último teste do carrinho, os 15% entraram sobre o preço promocional: o Comfort Up foi de R$ 170,91 a R$ 145,28. O teste de outubro, com o cupom em 10%, está na tabela.",
+          "O cupom soma com a promoção da Black Antecipada? No teste de outubro, sim: a progressiva entrou primeiro e o cupom, que dava 10%, tirou 10% do que sobrou. Os dois carrinhos estão na tabela do teste. Em outra campanha, confira as regras e as linhas do seu pedido.",
+          "O cupom vale na Black VIP? Não, enquanto ela durar: o checkout avisa que o cupom de influenciadora não soma com a escada de desconto.",
           "Onde coloco o cupom na Toda Up? Pelo botão desta página, o site já abre com o cupom aplicado. Se a linha não aparecer no resumo, cole o código no campo de cupom ou desconto, no checkout, e aplique.",
           "Dá para usar mais de um cupom? A loja não publica o limite. Confira no carrinho.",
           "Posso trocar a compra? Sim. Troca de modelo, tamanho ou cor e arrependimento em até 30 dias corridos depois do recebimento, pelo portal de trocas da loja."
@@ -128868,7 +128870,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "A Toda Up já está em Black November, com todo o site em desconto e selos de até 40%. Veja os carrinhos de exemplo, os preços para comparar e como o cupom da loja entra na conta.",
-    "metaDescription": "O cupom MAUAD dá 10% OFF na Toda Up. Black Friday: Black November com até 40% OFF, brinde por valor de pedido e preços de outubro para comparar.",
+    "metaDescription": "O cupom MAUAD dá 15% OFF na Toda Up. Black Friday: Black November com até 40% OFF, brinde por valor de pedido e preços de outubro para comparar.",
     "image": "/images/reviews/toda-up/black-friday-toda-up-capa-v2.webp",
     "imageAlt": "Três modelos vestem o sutiã Comfort Up da Toda Up em cores diferentes, em fotografia oficial da marca.",
     "imageFit": "contain",
@@ -128899,7 +128901,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Toda Up já está em Black November: a home diz que todo o site está com desconto, com selos de até 40% OFF e calcinha de brinde por valor de pedido. O cupom MAUAD, de 10%, somou com a campanha de outubro no carrinho; na Black November, confira o total antes de pagar."
+          "A Toda Up já está em Black November: a home diz que todo o site está com desconto, com selos de até 40% OFF e calcinha de brinde por valor de pedido. O cupom MAUAD dá 15% em todo o site. Na Black Antecipada de outubro, quando dava 10%, ele somou com a campanha no carrinho. Na Black VIP, campanha da loja, o checkout não aceita o cupom enquanto ela durar; na Black November, confira o total antes de pagar."
         ]
       },
       {
@@ -128944,7 +128946,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom e a campanha: o teste de outubro",
         "paragraphs": [
-          "O cupom da Toda Up é o MAUAD, de 10% em todo o site. Num carrinho de outubro, ele entrou depois da progressiva: de R$ 360,81, os 12% da campanha tiraram R$ 43,28, e os 10% do cupom saíram dos R$ 317,53 restantes. Nos preços da Black November, a loja pode mudar a regra de soma durante a campanha, então confira a linha do cupom no carrinho antes de pagar. O passo a passo está em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
+          "O cupom da Toda Up é o MAUAD, de 15% em todo o site. Num carrinho de outubro, quando ele dava 10%, ele entrou depois da progressiva: de R$ 360,81, os 12% da campanha tiraram R$ 43,28, e os 10% do cupom saíram dos R$ 317,53 restantes. Na Black VIP, enquanto durar, o checkout não aceita o cupom: avisa que ele não soma com a escada de desconto. Nos preços da Black November, a loja pode mudar a regra de soma durante a campanha, então confira a linha do cupom no carrinho antes de pagar. O passo a passo está em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
         ],
         "image": {
           "src": "/images/reviews/toda-up/black-friday-toda-up-faixas-progressiva-2610.webp",
@@ -128965,7 +128967,7 @@ export const reviewsData: unknown[] = [
             "Itens",
             "Subtotal",
             "Campanha",
-            "Cupom (10%)",
+            "Cupom (10%, em outubro)",
             "Total"
           ],
           "rows": [
@@ -129146,7 +129148,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Confira o tamanho no guia de medidas da página de cada produto: a troca por tamanho é grátis só na primeira vez.",
           "Veja o desconto de cada peça na página dela e se alguma linha da campanha apareceu no carrinho.",
-          "Aplique o cupom e confira o total: em outubro, os 10% saíram depois do desconto da campanha.",
+          "Aplique o cupom e confira o total: em outubro, os 10% de então saíram depois do desconto da campanha. Na Black VIP, o checkout não aceita o cupom.",
           "Confira o frete e o prazo pelo seu CEP.",
           "Compre só pelo site oficial, todaup.com, pelo link da parceria. O rodapé traz o CNPJ da FITA UP LTDA; a empresa, a troca de nome e as políticas estão em [Toda Up é confiável?](/reviews/toda-up-e-confiavel).",
           "Guarde o print do carrinho e o número do pedido; o portal de trocas pede o número e o CPF da titular."
@@ -129177,7 +129179,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Toda Up? Já começou: a home anuncia a Black November, com todo o site em desconto, selos de até 40% OFF e brindes por valor de pedido. A Black Friday é na última sexta de novembro, e a loja não publica a data de fim da campanha.",
           "A Toda Up tem Black Friday? Sim. Em outubro, o site mostrava a \"Black Antecipada\", com desconto progressivo de 12%, 15% e 20% pelo carrinho; agora mostra a \"Black November\", com desconto por peça.",
-          "O cupom da Toda Up vale na Black November? Em outubro, na Black Antecipada, os 10% do cupom saíram depois do desconto da campanha. Nos preços da Black November, confira a linha do cupom no carrinho.",
+          "O cupom da Toda Up vale na Black November? O MAUAD dá 15%. Em outubro, na Black Antecipada, quando dava 10%, o cupom saiu depois do desconto da campanha. Na Black VIP, enquanto durar, o checkout não aceita o cupom de influenciadora: avisa que não soma com a escada de desconto. Nos preços da Black November, confira a linha do cupom no carrinho.",
           "Quanto dá o desconto da campanha? Na Black November, o desconto é por peça, com selos de 15%, 16%, 20% e até 40% nos produtos. Na Black Antecipada de outubro, era 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499, sobre o subtotal.",
           "A Black November da Toda Up tem brinde? Tem, pelo banner da campanha: acima de R$ 199, uma calcinha fio dental; acima de R$ 299, uma calcinha e um protetor de silicone. Confira o brinde no carrinho antes de pagar.",
           "A Black November tem frete grátis? A faixa do topo da home anuncia frete fixo de R$ 4,90 para todo o Brasil, não frete grátis; o brinde é que começa em R$ 199 de pedido. Na Black Antecipada de outubro, a faixa anunciava frete grátis em todo o site. Confira o frete pelo CEP no carrinho.",
@@ -129207,7 +129209,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "O que a Toda Up publica sobre a Fita Up: como colar no tomara que caia e no decote, a largura, como remover e se dá para reutilizar. Preço de 26/10/2026.",
-    "metaDescription": "O cupom MAUAD dá 10% OFF no site da Toda Up, antes Fita Up. Fita Up: como colar no tomara que caia e no decote, a largura P, M ou G e como tirar.",
+    "metaDescription": "O cupom MAUAD dá 15% OFF no site da Toda Up, antes Fita Up. Fita Up: como colar no tomara que caia e no decote, a largura P, M ou G e como tirar.",
     "image": "/images/reviews/toda-up/fita-up-como-usar-capa-v2.webp",
     "imageAlt": "Rolos da Fita Up bege sobre fundo claro.",
     "imageFit": "contain",
@@ -129588,7 +129590,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e preço",
         "paragraphs": [
-          "O sutiã se compra no site oficial da Toda Up, na categoria Adesivos, pelo botão desta página. O [cupom Toda Up](/cupons/toda-up) dá 10% e somou com os kits Leve 2 e Leve 3 da loja; se o sutiã entra no desconto, confirme no carrinho antes de pagar."
+          "O sutiã se compra no site oficial da Toda Up, na categoria Adesivos, pelo botão desta página. O [cupom Toda Up](/cupons/toda-up) dá 15% e, em teste, somou com os kits Leve 2 e Leve 3 da loja; se o sutiã entra no desconto, confirme no carrinho antes de pagar."
         ]
       },
       {
@@ -129598,7 +129600,7 @@ export const reviewsData: unknown[] = [
           "Qual tamanho escolher? Pela marca, P para sutiã 38 a 40, M de 42 a 44 e G de 44 a 48. Como o 44 aparece em duas faixas, confirme a indicação com a loja.",
           "Para qual roupa serve? Vestido de festa e frente única, sem alças e com as costas nuas. Para tomara que caia, a Toda Up indica a Fita Up.",
           "O sutiã de silicone invisível é hipoalergênico? A Toda Up diz que sim e pede um pré-teste antes da aplicação.",
-          "O cupom vale no sutiã? O cupom da Toda Up dá 10%. Ele somou com kits Leve 2 e Leve 3 da loja; se o sutiã entra no desconto, confirme no carrinho antes de pagar.",
+          "O cupom vale no sutiã? O cupom da Toda Up dá 15%. Em teste, ele somou com kits Leve 2 e Leve 3 da loja; se o sutiã entra no desconto, confirme no carrinho antes de pagar.",
           "É a mesma coisa que a Fita Up? Não. A Fita Up é a fita que se corta, e o sutiã é a peça pronta, com fecho.",
           "Como lavar o sutiã de silicone? Com água e sabão neutro, secando ao natural, pela orientação da Toda Up."
         ]
@@ -166596,7 +166598,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Comfort Up, Comfort Line ou Comfort Slim, da Toda Up: os tamanhos de cada um, a tabela de busto da loja, o que a página diz de cada modelo e o preço.",
-    "metaDescription": "Sutiã Toda Up com o cupom MAUAD de 10% OFF: Comfort Up, Comfort Line ou Comfort Slim, com tabela de medidas e o preço de cada um.",
+    "metaDescription": "Sutiã Toda Up com o cupom MAUAD de 15% OFF: Comfort Up, Comfort Line ou Comfort Slim, com tabela de medidas e o preço de cada um.",
     "image": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-capa-v2.webp",
     "imageAlt": "Sutiã Comfort Line marrom da Toda Up, em foto oficial do produto, ao lado da chamada Up, Line ou Slim?",
     "imageFit": "contain",
@@ -166627,7 +166629,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Entre os três sutiãs Comfort da Toda Up, a faixa de tamanho pesa mais: o Comfort Up vai do PP ao G3, o Comfort Line começa no P e o Comfort Slim vai do PP ao GG. Para tomara que caia ou alças combinadas, a loja destaca o Line. O código MAUAD dá 10% nos três, no site oficial."
+          "Entre os três sutiãs Comfort da Toda Up, a faixa de tamanho pesa mais: o Comfort Up vai do PP ao G3, o Comfort Line começa no P e o Comfort Slim vai do PP ao GG. Para tomara que caia ou alças combinadas, a loja destaca o Line. O código MAUAD dá 15% nos três, no site oficial."
         ]
       },
       {
@@ -166844,7 +166846,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preço, cupom e frete",
         "paragraphs": [
           "Os três custavam R$ 189,90 no cartão, de R$ 199,90; o preço muda com a campanha, então confira na página de cada um.",
-          "O cupom MAUAD dá 10% em todo o site da Toda Up, inclusive em produto que já está com desconto. A campanha da loja pode entrar antes do cupom, então o total do carrinho é a conta que vale. Para ver todos os cupons da loja, veja [o cupom da Toda Up](/cupons/toda-up).",
+          "O cupom MAUAD dá 15% em todo o site da Toda Up, inclusive em produto que já está com desconto. A campanha da loja pode entrar antes do cupom, então o total do carrinho é a conta que vale. Para ver todos os cupons da loja, veja [o cupom da Toda Up](/cupons/toda-up).",
           "O frete é calculado pelo CEP, por Sedex, Loggi ou Jadlog, e o pedido sai em até 3 dias úteis depois da confirmação do pagamento, segundo a política de envio. Troca de modelo, tamanho ou cor e arrependimento valem por 30 dias corridos depois do recebimento, pelo portal de trocas."
         ]
       },
@@ -166925,7 +166927,7 @@ export const reviewsData: unknown[] = [
           "Qual sutiã Toda Up não tem PP? O Comfort Line. A tabela da loja começa no P (38-40).",
           "Qual Comfort tem mais tamanhos? O Comfort Up, do PP (34-36) ao G3 (54-56).",
           "O Comfort Line serve em tomara que caia? Segundo a página, dá para usar assim ou combinar as alças. Antes de escolher, confira o busto na tabela.",
-          "O cupom da Toda Up vale nos três modelos? Vale, porque o cupom é do site inteiro e dá 10% no carrinho. A campanha da loja pode entrar antes, então confira o total.",
+          "O cupom da Toda Up vale nos três modelos? Vale, porque o cupom é do site inteiro e dá 15% no carrinho. A campanha da loja pode entrar antes, então confira o total.",
           "De que é feito o tecido? Segundo o FAQ da loja, 76,6% é poliamida e 23,5% é elastano.",
           "O Comfort Slim tem PP e M? Tem, mas com menos combinações de cor disponíveis: 3 de 5 em cada um. Confira a variante no dia da compra."
         ]
@@ -173623,7 +173625,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "SkinUp (segunda pele, sem costura) ou Cotton Up (algodão), da Toda Up: as dez peças das duas linhas, para qual roupa cada uma serve, as faixas de tamanho, as cores e o preço.",
-    "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Toda Up, nas duas linhas. SkinUp ou Cotton Up: segunda pele sem costura ou algodão, tamanhos, cores e preço.",
+    "metaDescription": "O cupom MAUAD dá 15% OFF em todo o site da Toda Up, nas duas linhas. SkinUp ou Cotton Up: segunda pele sem costura ou algodão, tamanhos, cores e preço.",
     "image": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-capa-v2.webp",
     "imageAlt": "Modelo adulta vestindo Cotton Up preto da Toda Up em foto oficial, ao lado da pergunta SkinUp ou Cotton Up?",
     "imageFit": "contain",
@@ -173654,7 +173656,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A SkinUp é a linha de segunda pele da Toda Up, com corte a laser e sem costura, para aparecer menos sob roupa justa. A Cotton Up é a linha de algodão, mais barata. O que muda a escolha é a roupa por cima e a faixa de tamanho; o código MAUAD dá 10% nas duas."
+          "A SkinUp é a linha de segunda pele da Toda Up, com corte a laser e sem costura, para aparecer menos sob roupa justa. A Cotton Up é a linha de algodão, mais barata. O que muda a escolha é a roupa por cima e a faixa de tamanho; o código MAUAD dá 15% nas duas."
         ]
       },
       {
@@ -174181,7 +174183,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preço, cupom e frete",
         "paragraphs": [
           "Nos preços do guia, a peça mais barata da SkinUp era a calcinha, a R$ 44,91, e o top mais em conta era o Top Segunda Pele, a R$ 169,90. Na Cotton Up, a calcinha estava a R$ 39,90 e os dois tops a R$ 132,90. Todos os dez preços estavam abaixo do preço riscado da loja, e as páginas mostravam uma campanha da loja no ar, então o valor muda: confira no site antes de comprar.",
-          "O cupom MAUAD dá 10% em todo o site da Toda Up, inclusive nas peças que já estão com desconto, nas duas linhas. A campanha da loja pode entrar antes do cupom, então o total do carrinho é a conta que vale. Os detalhes estão na página do [cupom Toda Up](/cupons/toda-up).",
+          "O cupom MAUAD dá 15% em todo o site da Toda Up, inclusive nas peças que já estão com desconto, nas duas linhas. A campanha da loja pode entrar antes do cupom, então o total do carrinho é a conta que vale. Os detalhes estão na página do [cupom Toda Up](/cupons/toda-up).",
           "O frete é calculado pelo CEP, por Sedex, Loggi ou Jadlog, e o pedido sai em até 3 dias úteis depois da confirmação do pagamento, segundo a política de envio. Troca de modelo, tamanho ou cor e arrependimento valem por 30 dias corridos depois do recebimento, pelo portal de trocas da loja."
         ]
       },
@@ -174212,7 +174214,7 @@ export const reviewsData: unknown[] = [
           "Tem SkinUp em PP? Só o Sutiã Top Alça Fina, no PP (34-36). O Top Segunda Pele, o Clássico e as calcinhas começam no P.",
           "O top Cotton Up tem sustentação? Segundo as páginas do Top Faixa e do Top Triangular, a sustentação é leve, com bojo removível; a própria loja diz que não é alta sustentação.",
           "SkinUp é segunda pele de verdade? É como a loja descreve a linha: corte a laser, acabamento ultrafino e sem costura, para sumir na roupa.",
-          "O cupom da Toda Up vale nas duas linhas? Vale, porque o cupom é do site inteiro e dá 10% no carrinho, inclusive em peça já com desconto. A campanha da loja pode entrar antes, então confira o total."
+          "O cupom da Toda Up vale nas duas linhas? Vale, porque o cupom é do site inteiro e dá 15% no carrinho, inclusive em peça já com desconto. A campanha da loja pode entrar antes, então confira o total."
         ]
       }
     ],
@@ -174250,7 +174252,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Kits da Toda Up: o que cada um traz, o preço por conjunto ou por sutiã e a conta contra as peças avulsas, para saber quando o kit compensa.",
-    "metaDescription": "O cupom MAUAD dá 10% OFF no site da Toda Up. Kits: a conta por peça contra o avulso e quando compensa, em Cotton Up, SkinUp e Comfort Up.",
+    "metaDescription": "O cupom MAUAD dá 15% OFF no site da Toda Up. Kits: a conta por peça contra o avulso e quando compensa, em Cotton Up, SkinUp e Comfort Up.",
     "image": "/images/reviews/toda-up/kit-toda-up-quando-compensa-capa-v2.webp",
     "imageAlt": "Modelo adulta com Top Triangular e Calcinha Biquíni Cotton Up pretos, em foto oficial da Toda Up, ao lado da pergunta Kits Toda Up compensam?",
     "imageFit": "contain",
@@ -174281,7 +174283,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Toda Up, compensam os kits de três conjuntos Cotton Up ou SkinUp, o Kit Comfort Up, o Kit Invisible Up e os dois de sutiã com protetor; o de um conjunto só quase não economiza. O que pesa é quantas peças você usaria. O código MAUAD é de 10% no site; confira no carrinho se entra no kit."
+          "Na Toda Up, compensam os kits de três conjuntos Cotton Up ou SkinUp, o Kit Comfort Up, o Kit Invisible Up e os dois de sutiã com protetor; o de um conjunto só quase não economiza. O que pesa é quantas peças você usaria. O código MAUAD é de 15% no site; confira no carrinho se entra no kit."
         ]
       },
       {
@@ -174550,7 +174552,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom nos kits",
         "paragraphs": [
-          "O [cupom Toda Up](/cupons/toda-up) é o MAUAD, 10% em todo o site, e ele somou com os kits Leve 2 e Leve 3 da loja, como mostra [como usar o cupom da Toda Up](/reviews/cupom-toda-up-como-usar).",
+          "O [cupom Toda Up](/cupons/toda-up) é o MAUAD, 15% em todo o site. Em teste, ele somou com os kits Leve 2 e Leve 3 da loja, como mostra [como usar o cupom da Toda Up](/reviews/cupom-toda-up-como-usar).",
           "A conta acima é sem cupom. Ponha o kit no carrinho, aplique o MAUAD e confira a linha de desconto no resumo do pedido antes de pagar; se ela não aparecer, o preço do kit é o da tabela."
         ]
       },
@@ -179125,7 +179127,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Sutiãs, segunda pele e adesivos Toda Up: como comparar formatos e medidas pelas páginas da loja, quais kits avaliar e como usar o código de desconto.",
-    "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Toda Up. Sutiãs Comfort, SkinUp, Cotton Up e Fita Up pela página da loja, os kits que compensam e onde comprar.",
+    "metaDescription": "O cupom MAUAD dá 15% OFF em todo o site da Toda Up. Sutiãs Comfort, SkinUp, Cotton Up e Fita Up pela página da loja, os kits que compensam e onde comprar.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
     "updatedAt": "2026-11-07",
@@ -179139,7 +179141,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Toda Up, comece pelo formato da peça e pela tabela de medidas do modelo. Os três Comfort têm o mesmo tecido e preço de lista, mas só o Comfort Up chega ao G3; SkinUp serve para roupa justa e Cotton Up para algodão e roupa larga. O código MAUAD dá 10% no site oficial, inclusive em peça em promoção."
+          "Na Toda Up, comece pelo formato da peça e pela tabela de medidas do modelo. Os três Comfort têm o mesmo tecido e preço de lista, mas só o Comfort Up chega ao G3; SkinUp serve para roupa justa e Cotton Up para algodão e roupa larga. O código MAUAD dá 15% no site oficial, inclusive em peça em promoção."
         ]
       },
       {
@@ -179420,7 +179422,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa com o código e onde comprar",
         "paragraphs": [
-          "O código da Toda Up tira 10% no site oficial, inclusive sobre peça em promoção. Com o Comfort Up, o desconto saiu do preço promocional; em um carrinho maior, a promoção progressiva entrou antes e o código aplicou 10% sobre o valor restante. Confira as linhas no resumo do pedido.",
+          "O código da Toda Up tira 15% no site oficial, inclusive sobre peça em promoção. Com o Comfort Up, no teste de novembro, o desconto saiu do preço promocional: de R$ 170,91 a R$ 145,28. Em um carrinho maior, no teste de outubro, a promoção progressiva entrou antes e o código, que então dava 10%, aplicou 10% sobre o valor restante. Na Black VIP, enquanto durar, o checkout não aceita o código. Confira as linhas no resumo do pedido.",
           "Pelo botão deste artigo, a loja abre com o código aplicado. Se a linha não aparecer, cole MAUAD no campo de cupom. O passo a passo e as condições estão na página do [cupom Toda Up](/cupons/toda-up). A marca também vende em outros canais; este desconto é do site oficial.",
           "O frete é informado pelo CEP no checkout. Confira se há campanha de frete grátis para o pedido escolhido."
         ]
@@ -179454,7 +179456,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Toda Up é boa? Depende da peça: cada linha tem um uso definido, e a tabela de medidas de cada modelo mostra o tamanho certo. O cupom deste artigo vale só no site oficial.",
-          "Toda Up tem cupom? Tem: o código da Toda Up, MAUAD, dá 10% em todo o site, inclusive em peça já em promoção, e soma com a promoção da loja; o capítulo do preço mostra como ele entra no carrinho.",
+          "Toda Up tem cupom? Tem: o código da Toda Up, MAUAD, dá 15% em todo o site, inclusive em peça já em promoção, e soma com a promoção da loja, exceto na Black VIP, em que o checkout não aceita o código enquanto ela durar; o capítulo do preço mostra como ele entra no carrinho.",
           "A Toda Up é confiável? É: empresa registrada em Biguaçu (SC), com o CNPJ no rodapé, troca em 30 dias e reputação Ótima no Reclame Aqui; os números estão no capítulo de confiança.",
           "Sutiã da Toda Up é bom? Pela página da loja, os três sutiãs Comfort têm o mesmo tecido e o mesmo preço, e o que muda é a faixa de tamanho e as alças; o capítulo dos sutiãs resume, e o guia dos Comfort, listado no fim, traz a tabela de busto.",
           "A Toda Up é a mesma Fita Up? É: a Fita UP cresceu e virou Toda Up, a mesma empresa e a mesma equipe; a fita segue à venda."
@@ -179475,7 +179477,7 @@ export const reviewsData: unknown[] = [
     },
     "cta": {
       "label": "Ir para a Toda Up com o código",
-      "text": "Entre no site oficial da Toda Up pelo botão: o código da Toda Up já entra aplicado, com 10% em todo o site, inclusive nas peças em promoção. Confira a linha de desconto no resumo do pedido antes de pagar.",
+      "text": "Entre no site oficial da Toda Up pelo botão: o código da Toda Up já entra aplicado, com 15% em todo o site, inclusive nas peças em promoção. Confira a linha de desconto no resumo do pedido antes de pagar.",
       "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
       "sponsored": true
     },
@@ -188196,7 +188198,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "A Fita Up, da Toda Up, é vendida em mais lugares que o site. Veja quem vende em cada canal, onde sai mais em conta com o cupom e como conferir se é a original.",
-    "metaDescription": "O código MAUAD dá 10% no site oficial da Toda Up, a antiga Fita Up. Veja onde mais comprar, qual canal sai mais em conta e como conferir.",
+    "metaDescription": "O código MAUAD dá 15% no site oficial da Toda Up, a antiga Fita Up. Veja onde mais comprar, qual canal sai mais em conta e como conferir.",
     "image": "/images/reviews/toda-up/fita-up-onde-comprar-original-capa-v2.webp",
     "imageAlt": "Três rolos de Fita Up parcialmente desenrolados em foto oficial da Toda Up, ao lado da chamada Fita Up original: onde comprar?",
     "imageFit": "contain",
@@ -188256,7 +188258,7 @@ export const reviewsData: unknown[] = [
             [
               "Site oficial (todaup.com)",
               "Toda Up",
-              "R$ 116,90; com o MAUAD, R$ 105,21",
+              "R$ 116,90; com o MAUAD, R$ 99,37",
               "Bege, Marrom e Preto, tamanhos P, M e G. É o único canal com o cupom; a troca pelo portal da marca é a da compra no site"
             ],
             [
@@ -188316,8 +188318,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom MAUAD: só no site oficial",
         "paragraphs": [
-          "O MAUAD dá 10% e vale só no site oficial; no Mercado Livre, na Amazon e na Drogasil, o preço é o que aparece na tela.",
-          "Conta nossa, pelos preços da tabela: com os 10% do MAUAD, o produto no site fica abaixo dos demais canais comparados, antes do frete. Promoções do Mercado Livre podem mudar a ordem. Confira a oferta atual [na loja oficial da Fita Up](https://meli.la/2qNDns1) e compare o total para o seu CEP.",
+          "O MAUAD dá 15% e vale só no site oficial; no Mercado Livre, na Amazon e na Drogasil, o preço é o que aparece na tela.",
+          "Conta nossa, pelos preços da tabela: com os 15% do MAUAD, o produto no site fica abaixo dos demais canais comparados, antes do frete. Promoções do Mercado Livre podem mudar a ordem. Confira a oferta atual [na loja oficial da Fita Up](https://meli.la/2qNDns1) e compare o total para o seu CEP.",
           "Os preços da tabela são sem frete. No site, uma fita sozinha fica abaixo da faixa de frete grátis (compras acima de R$ 199), então ponha o CEP no carrinho antes de comparar; no Mercado Livre, o anúncio com Full mostra o frete e o dia da entrega. Para duas fitas, o kit Leve 2 do site aceitou o MAUAD e chega mais perto do frete grátis.",
           "Para comprar no site com o cupom, [use este link da Toda Up](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao). As regras do cupom estão na [página da Toda Up em Cupons](/cupons/toda-up)."
         ],
@@ -188835,7 +188837,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "A Blumi não vende fita: é outra linha da mesma dona da Fita Up, com CNPJ próprio. Compare empresa, formato e tamanho da Fita Up com a Lib e veja onde comprar cada uma.",
-    "metaDescription": "O cupom MAUAD dá 10% no site oficial da Toda Up, a antiga Fita Up. Veja como ela se compara com a Blumi e a Lib em empresa, tamanho e onde comprar.",
+    "metaDescription": "O cupom MAUAD dá 15% no site oficial da Toda Up, a antiga Fita Up. Veja como ela se compara com a Blumi e a Lib em empresa, tamanho e onde comprar.",
     "image": "/images/reviews/toda-up/fita-up-ou-blumi-ou-lib-capa-v2.webp",
     "imageAlt": "Rolo marrom da Fita Up parcialmente desenrolado, em foto oficial da Toda Up, ao lado da pergunta Fita Up, Blumi ou Lib? e do apoio Formato e onde comprar.",
     "imageFit": "contain",
@@ -188876,7 +188878,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Blumi não é a Fita Up com outro nome: é uma marca mais nova da mesma dona, com CNPJ próprio, e não vende fita adesiva. Para fita, a escolha fica entre a Fita Up, em três larguras, e a Lib, um rolo que se corta no decote. O código MAUAD dá 10% só no site oficial da Toda Up."
+          "A Blumi não é a Fita Up com outro nome: é uma marca mais nova da mesma dona, com CNPJ próprio, e não vende fita adesiva. Para fita, a escolha fica entre a Fita Up, em três larguras, e a Lib, um rolo que se corta no decote. O código MAUAD dá 15% só no site oficial da Toda Up."
         ]
       },
       {
@@ -189003,7 +189005,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar a Fita Up",
         "paragraphs": [
-          "O cupom MAUAD, de 10%, vale só no site oficial da Toda Up. No Mercado Livre, na Amazon e na Drogasil, o preço é o que aparece na tela. A [página de cupons da Toda Up](/cupons/toda-up) traz as regras do código."
+          "O cupom MAUAD, de 15%, vale só no site oficial da Toda Up. No Mercado Livre, na Amazon e na Drogasil, o preço é o que aparece na tela. A [página de cupons da Toda Up](/cupons/toda-up) traz as regras do código."
         ],
         "links": [
           {
@@ -190018,7 +190020,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "O que a Toda Up diz sobre a Fita Up que descola: pele, alergia, suor e água, quanto tempo a fita dura no corpo e quem não deve usar, com o que fazer em cada caso.",
-    "metaDescription": "O cupom MAUAD dá 10% OFF no site da Toda Up, a antiga Fita Up. Por que a fita descola, se dá alergia, se pode molhar e quanto tempo dura.",
+    "metaDescription": "O cupom MAUAD dá 15% OFF no site da Toda Up, a antiga Fita Up. Por que a fita descola, se dá alergia, se pode molhar e quanto tempo dura.",
     "image": "/images/reviews/toda-up/fita-up-cuidados-cola-pele-agua-capa-v2.webp",
     "imageAlt": "Modelo segurando uma faixa de Fita Up bege.",
     "imageFit": "contain",
@@ -190143,7 +190145,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar a original e o cupom",
         "paragraphs": [
-          "A Fita Up se compra no site oficial da Toda Up, na categoria Adesivos, e também fora dele, nos marketplaces e nas lojas parceiras que a marca lista: veja [onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original). No site, o código MAUAD dá 10% de desconto. O código para copiar está na página do [cupom Toda Up](/cupons/toda-up), e o passo a passo de aplicar, em [como usar o cupom](/reviews/cupom-toda-up-como-usar)."
+          "A Fita Up se compra no site oficial da Toda Up, na categoria Adesivos, e também fora dele, nos marketplaces e nas lojas parceiras que a marca lista: veja [onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original). No site, o código MAUAD dá 15% de desconto. O código para copiar está na página do [cupom Toda Up](/cupons/toda-up), e o passo a passo de aplicar, em [como usar o cupom](/reviews/cupom-toda-up-como-usar)."
         ]
       },
       {
@@ -190182,7 +190184,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "O sutiã da Hope tem cobertura de tecido e vai até EG; o da Toda Up é de silicone e vai até G. Veja tamanhos, usos, lavagem e o preço com o cupom MAUAD.",
-    "metaDescription": "O cupom MAUAD dá 10% OFF na Toda Up. Sutiã adesivo da Toda Up ou da Hope: tamanhos, quantas vezes dá para usar, lavagem e preço.",
+    "metaDescription": "O cupom MAUAD dá 15% OFF na Toda Up. Sutiã adesivo da Toda Up ou da Hope: tamanhos, quantas vezes dá para usar, lavagem e preço.",
     "image": "/images/reviews/toda-up/toda-up-ou-hope-sutia-adesivo-capa.webp",
     "imageAlt": "Três modelos com o Sutiã de Silicone Invisível da Toda Up nos tamanhos P, M e G, com o logo da Toda Up e o título Toda Up ou Hope?",
     "imageFit": "contain",
@@ -190200,7 +190202,7 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Abra o site oficial da Toda Up pelo botão e confira se o desconto de 10% do MAUAD aparece no carrinho antes de pagar.",
+      "text": "Abra o site oficial da Toda Up pelo botão e confira se o desconto de 15% do MAUAD aparece no carrinho antes de pagar.",
       "label": "Ver na Toda Up",
       "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
       "sponsored": true
@@ -190250,7 +190252,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Preço",
-              "R$ 149,90 na página; com o cupom MAUAD, R$ 134,91",
+              "R$ 149,90 na página; com o cupom MAUAD, R$ 127,42",
               "R$ 149,90 na página"
             ],
             [
@@ -190316,8 +190318,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço com o cupom e onde comprar",
         "paragraphs": [
-          "Conta nossa: os 10% do MAUAD reduzem o sutiã da Toda Up de R$ 149,90 para R$ 134,91. A diferença é de R$ 14,99 em relação ao preço da Hope na página, que não tem desconto aplicado.",
-          "Na fita, a Fita Up custa R$ 116,90 na página e, com o cupom, R$ 105,21; no Leve 2, cada uma sai por R$ 84,17 com o cupom, R$ 168,34 as duas.",
+          "Conta nossa: os 15% do MAUAD reduzem o sutiã da Toda Up de R$ 149,90 para R$ 127,42. A diferença é de R$ 22,48 em relação ao preço da Hope na página, que não tem desconto aplicado.",
+          "Na fita, a Fita Up custa R$ 116,90 na página e, com o cupom, R$ 99,37; no Leve 2, cada uma sai por R$ 79,49 com o cupom, R$ 158,98 as duas.",
           "O sutiã se compra no site oficial da Toda Up, pelo botão deste artigo; a fita, no site e nas lojas listadas em [Fita Up original: onde comprar](/reviews/fita-up-onde-comprar-original). A Hope vende na loja oficial da marca."
         ],
         "links": [
@@ -190343,7 +190345,7 @@ export const reviewsData: unknown[] = [
           "Como lavar o sutiã adesivo da Hope? À mão, com sabão neutro, secando naturalmente.",
           "A Hope tem fita para seios? Não. A Fashion Tape é fita dupla face para prender roupa; para o busto, há a [Fita Up](/reviews/fita-up-como-usar), da Toda Up.",
           "Qual sai mais barato com cupom? Entre as duas peças e pelos valores da tabela, o sutiã da Toda Up com MAUAD fica abaixo do preço de página da Hope.",
-          "Qual é o cupom da Toda Up? MAUAD dá 10% de desconto no site oficial; confira as condições na página do cupom Toda Up."
+          "Qual é o cupom da Toda Up? MAUAD dá 15% de desconto no site oficial; confira as condições na página do cupom Toda Up."
         ]
       }
     ]
@@ -190369,7 +190371,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "A Lupo tem sutiã aderente com bojo de tecido, até o GG e só em preto; a Toda Up tem adesivo de silicone até o G. Veja tamanho, roupa e preço com o cupom MAUAD.",
-    "metaDescription": "O cupom MAUAD dá 10% OFF na Toda Up. Sutiã adesivo da Toda Up ou o aderente da Lupo: tamanhos, bojo, roupa, lavagem e preço.",
+    "metaDescription": "O cupom MAUAD dá 15% OFF na Toda Up. Sutiã adesivo da Toda Up ou o aderente da Lupo: tamanhos, bojo, roupa, lavagem e preço.",
     "image": "/images/reviews/toda-up/toda-up-ou-lupo-sutia-adesivo-capa.webp",
     "imageAlt": "Duas modelos e a embalagem do Sutiã de Silicone Invisível da Toda Up, com o logo da Toda Up e o título Toda Up ou Lupo?",
     "imageFit": "contain",
@@ -190421,7 +190423,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços comparados, o sutiã da Toda Up fica um pouco mais barato com MAUAD. A Lupo tem bojo de tecido em preto, do 36 ao 50; a Toda Up tem sutiã de silicone, do 38/40 ao 44/48. Confira a numeração e as indicações de roupa de cada loja: as letras dos tamanhos não são equivalentes."
+          "Nos preços comparados, o sutiã da Toda Up fica mais barato com MAUAD. A Lupo tem bojo de tecido em preto, do 36 ao 50; a Toda Up tem sutiã de silicone, do 38/40 ao 44/48. Confira a numeração e as indicações de roupa de cada loja: as letras dos tamanhos não são equivalentes."
         ]
       },
       {
@@ -190430,7 +190432,7 @@ export const reviewsData: unknown[] = [
           "A Lupo descreve uma peça de tecido com bojo leve e macio e silicone aderente por dentro. A Toda Up apresenta um sutiã adesivo de silicone para vestido de festa e frente única. Compare a construção e o formato de cada peça com o recorte da roupa que você pretende usar."
         ],
         "comparisonTable": {
-          "caption": "Características e indicações informadas pelas lojas. O valor com MAUAD é um cálculo de 10% sobre o preço publicado pela Toda Up.",
+          "caption": "Características e indicações informadas pelas lojas. O valor com MAUAD é um cálculo de 15% sobre o preço publicado pela Toda Up.",
           "headers": [
             "",
             "Sutiã Aderente da Lupo",
@@ -190470,7 +190472,7 @@ export const reviewsData: unknown[] = [
             [
               "Preço com o cupom MAUAD",
               "Não se aplica",
-              "R$ 134,91"
+              "R$ 127,42"
             ]
           ]
         }
@@ -190545,11 +190547,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço com o cupom e onde comprar",
         "paragraphs": [
-          "Os preços das páginas das lojas são de 06/11/2026. Conta nossa: aplicar os 10% do MAUAD ao preço publicado do sutiã da Toda Up resulta em R$ 134,91, R$ 4,99 abaixo dos R$ 139,90 da Lupo, antes do frete. Confira o preço e o total no carrinho antes de comprar.",
-          "O MAUAD também soma com o Leve 2 da Fita Up: duas unidades saem por R$ 168,34, ou R$ 84,17 cada. Consulte as condições do cupom Toda Up no link abaixo."
+          "Os preços das páginas das lojas são de 06/11/2026. Conta nossa: aplicar os 15% do MAUAD ao preço publicado do sutiã da Toda Up resulta em R$ 127,42, R$ 12,48 abaixo dos R$ 139,90 da Lupo, antes do frete. Confira o preço e o total no carrinho antes de comprar.",
+          "O MAUAD também soma com o Leve 2 da Fita Up: duas unidades saem por R$ 158,98, ou R$ 79,49 cada. Consulte as condições do cupom Toda Up no link abaixo."
         ],
         "comparisonTable": {
-          "caption": "Preços publicados pelas lojas, antes do frete. A coluna com MAUAD aplica 10% de desconto aos valores da Toda Up.",
+          "caption": "Preços publicados pelas lojas, antes do frete. A coluna com MAUAD aplica 15% de desconto aos valores da Toda Up.",
           "headers": [
             "",
             "Preço na página",
@@ -190564,17 +190566,17 @@ export const reviewsData: unknown[] = [
             [
               "Sutiã de Silicone Invisível da Toda Up",
               "R$ 149,90 (de R$ 159,90)",
-              "R$ 134,91"
+              "R$ 127,42"
             ],
             [
               "Protetor de Silicone Ultrafino da Toda Up",
               "R$ 59,90 (de R$ 99,90)",
-              "R$ 53,91"
+              "R$ 50,92"
             ],
             [
               "Fita Up, uma unidade",
               "R$ 116,90 (de R$ 179,90), na Black November",
-              "R$ 105,21"
+              "R$ 99,37"
             ]
           ]
         },
@@ -190591,7 +190593,7 @@ export const reviewsData: unknown[] = [
           "Quer bojo de tecido em preto: considere o Sutiã Aderente da Lupo. Se usa 36 ou 50, a grade publicada também favorece essa opção; confirme o estoque do tamanho.",
           "Quer um sutiã de silicone para vestido de festa ou frente única: considere o Sutiã de Silicone Invisível da Toda Up, indicado pela marca para essas roupas. Confira a grade de 38/40 a 44/48 e leia o [guia de uso do sutiã](/reviews/sutia-de-silicone-invisivel-como-usar).",
           "Quer cobrir só o mamilo: considere o Protetor de Silicone Ultrafino da Toda Up. Ele tem outra função e não substitui o sutiã.",
-          "Quer o menor preço entre os dois sutiãs: a Toda Up com MAUAD fica um pouco abaixo da Lupo. Confira o total com frete antes de comprar."
+          "Quer o menor preço entre os dois sutiãs: a Toda Up com MAUAD fica abaixo da Lupo. Confira o total com frete antes de comprar."
         ],
         "links": [
           {
@@ -190608,7 +190610,7 @@ export const reviewsData: unknown[] = [
           "A Lupo tem fita para seios? Não na loja oficial. A fita da Toda Up é a Fita Up, em P, M e G.",
           "Qual tamanho escolher? Compare a numeração das marcas: a Lupo vai do 36 ao 50, e a Toda Up do 38/40 ao 44/48. O 48 aparece no GG da Lupo e no G da Toda Up; as letras não são equivalentes.",
           "Qual sai mais barato? O sutiã da Toda Up com MAUAD fica abaixo do preço publicado pela Lupo, antes do frete.",
-          "Qual é o cupom da Toda Up? MAUAD dá 10% de desconto no site oficial; confira as condições na página do cupom."
+          "Qual é o cupom da Toda Up? MAUAD dá 15% de desconto no site oficial; confira as condições na página do cupom."
         ]
       }
     ]
@@ -190634,7 +190636,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Nos preços comparados, a Toda Up com MAUAD custa menos na fita por embalagem e no protetor; a Zee Rucci, no sutiã. Compare tamanhos e limites de reutilização.",
-    "metaDescription": "O cupom MAUAD dá 10% OFF na Toda Up. Fita, sutiã adesivo e protetor de mamilo da Toda Up ou da Zee Rucci: preço com cupom e tamanhos.",
+    "metaDescription": "O cupom MAUAD dá 15% OFF na Toda Up. Fita, sutiã adesivo e protetor de mamilo da Toda Up ou da Zee Rucci: preço com cupom e tamanhos.",
     "image": "/images/reviews/toda-up/toda-up-ou-zee-rucci-capa.webp",
     "imageAlt": "Fita Up colada no busto, o Sutiã de Silicone Invisível e protetores de silicone no braço, todos da Toda Up, com o logo da Toda Up e o título Toda Up ou Zee Rucci?",
     "imageFit": "contain",
@@ -190692,7 +190694,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Fita Up ou fita da Zee Rucci",
         "paragraphs": [
-          "Os preços abaixo são de 06/11/2026. Conta nossa: com os 10% do MAUAD, a Fita Up fica em R$ 105,21 por embalagem ou R$ 168,34 no Leve 2, equivalente a R$ 84,17 cada. Por embalagem, o desembolso é menor que o da Zee Rucci, inclusive no preço à vista. Os valores não incluem frete; confira as condições do cupom Toda Up no link abaixo e o total no carrinho."
+          "Os preços abaixo são de 06/11/2026. Conta nossa: com os 15% do MAUAD, a Fita Up fica em R$ 99,37 por embalagem ou R$ 158,98 no Leve 2, equivalente a R$ 79,49 cada. Por embalagem, o desembolso é menor que o da Zee Rucci, inclusive no preço à vista. Os valores não incluem frete; confira as condições do cupom Toda Up no link abaixo e o total no carrinho."
         ],
         "image": {
           "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
@@ -190706,7 +190708,7 @@ export const reviewsData: unknown[] = [
           "Quer os protetores na mesma caixa e a metragem informada: considere a Zee Rucci. Quer escolher entre larguras P, M e G: considere a Fita Up e confira o guia da marca. No maior tamanho, há divergência entre o guia, que indica até 54, e o FAQ, que menciona até 52; confirme com a Toda Up se essa diferença afetar sua escolha. Veja [Fita Up: como usar](/reviews/fita-up-como-usar)."
         ],
         "comparisonTable": {
-          "caption": "Preços por embalagem, antes do frete. Os valores da Toda Up com MAUAD incluem o desconto de 10%; o Leve 2 exige a compra de duas unidades.",
+          "caption": "Preços por embalagem, antes do frete. Os valores da Toda Up com MAUAD incluem o desconto de 15%; o Leve 2 exige a compra de duas unidades.",
           "headers": [
             "",
             "Fita Up (Toda Up)",
@@ -190715,7 +190717,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Preço por embalagem",
-              "R$ 116,90 na página; R$ 105,21 com o cupom MAUAD; R$ 84,17 cada com o cupom no Leve 2",
+              "R$ 116,90 na página; R$ 99,37 com o cupom MAUAD; R$ 79,49 cada com o cupom no Leve 2",
               "R$ 112,90 na página; R$ 107,26 à vista"
             ],
             [
@@ -190755,7 +190757,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sutiã adesivo: o da Zee Rucci custa menos",
         "paragraphs": [
-          "No sutiã adesivo, a Zee Rucci tem o menor preço da comparação. Frente ao valor da Toda Up com MAUAD, a diferença é de R$ 35,01 pelo preço de página da Zee Rucci ou de R$ 40,00 pelo preço à vista, antes do frete. A tabela mostra a base dessas contas."
+          "No sutiã adesivo, a Zee Rucci tem o menor preço da comparação. Frente ao valor da Toda Up com MAUAD, a diferença é de R$ 27,52 pelo preço de página da Zee Rucci ou de R$ 32,51 pelo preço à vista, antes do frete. A tabela mostra a base dessas contas."
         ],
         "image": {
           "src": "/images/reviews/toda-up/sutia-de-silicone-invisivel-fecho.webp",
@@ -190778,7 +190780,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Preço",
-              "R$ 149,90 na página (de R$ 159,90); R$ 134,91 com o cupom MAUAD",
+              "R$ 149,90 na página (de R$ 159,90); R$ 127,42 com o cupom MAUAD",
               "R$ 99,90 na página; R$ 94,91 à vista"
             ],
             [
@@ -190807,7 +190809,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Protetor de mamilo: a Toda Up tem três tamanhos",
         "paragraphs": [
-          "No protetor de mamilo, a Toda Up com MAUAD tem o menor preço da comparação. A diferença calculada é de R$ 18,99 frente ao preço de página da Zee Rucci ou R$ 15,35 frente ao preço à vista, antes do frete. Compare também o diâmetro: o menor valor só ajuda se o tamanho atender ao que você procura."
+          "No protetor de mamilo, a Toda Up com MAUAD tem o menor preço da comparação. A diferença calculada é de R$ 21,98 frente ao preço de página da Zee Rucci ou R$ 18,34 frente ao preço à vista, antes do frete. Compare também o diâmetro: o menor valor só ajuda se o tamanho atender ao que você procura."
         ],
         "image": {
           "src": "/images/reviews/toda-up/protetor-de-silicone-cores.webp",
@@ -190830,7 +190832,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Preço",
-              "R$ 59,90 na página (de R$ 99,90); R$ 53,91 com o cupom MAUAD",
+              "R$ 59,90 na página (de R$ 99,90); R$ 50,92 com o cupom MAUAD",
               "R$ 72,90 na página; R$ 69,26 à vista"
             ],
             [
@@ -190873,7 +190875,7 @@ export const reviewsData: unknown[] = [
           "A fita da Zee Rucci é a Fita Up? Não. A Fita Up é da Toda Up, e a fita da Zee Rucci é a Fita Adesiva Push Up, de outra marca.",
           "O sutiã adesivo da Zee Rucci é bom? Ele tem o menor preço entre os dois sutiãs comparados, mas preço e limite anunciado de até 30 usos não comprovam qualidade ou ajuste.",
           "Qual protetor de mamilo é mais barato? Nos valores comparados, o da Toda Up com MAUAD custa menos, inclusive frente ao preço à vista da Zee Rucci. Confira o total com frete no carrinho.",
-          "Qual é o cupom da Toda Up? MAUAD dá 10% de desconto no site da marca; as regras estão na [página do cupom Toda Up](/cupons/toda-up)."
+          "Qual é o cupom da Toda Up? MAUAD dá 15% de desconto no site da marca; as regras estão na [página do cupom Toda Up](/cupons/toda-up)."
         ]
       }
     ]
@@ -190899,7 +190901,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "A Fita Up é da Toda Up, e a Trifil Up é outra linha. Compare a fita e o adesivo de mamilo de cada marca: preço com o cupom MAUAD, tamanhos, cores e o que cada loja informa.",
-    "metaDescription": "O cupom MAUAD dá 10% OFF na Toda Up, dona da Fita Up. Veja a fita e o adesivo de mamilo da Trifil Up ao lado dos da Toda Up: preço, tamanhos e cores.",
+    "metaDescription": "O cupom MAUAD dá 15% OFF na Toda Up, dona da Fita Up. Veja a fita e o adesivo de mamilo da Trifil Up ao lado dos da Toda Up: preço, tamanhos e cores.",
     "image": "/images/reviews/toda-up/fita-up-ou-trifil-up-capa.webp",
     "imageAlt": "Fita Up bege colada no busto e protetores de silicone da Toda Up, com o logo da Toda Up e o título Fita Up ou Trifil Up?",
     "imageFit": "contain",
@@ -190978,7 +190980,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Preço com o cupom MAUAD",
-              "R$ 105,21 por unidade; no Leve 2, R$ 168,34 pelas duas (R$ 84,17 cada)",
+              "R$ 99,37 por unidade; no Leve 2, R$ 158,98 pelas duas (R$ 79,49 cada)",
               "Não se aplica: o cupom é da Toda Up"
             ],
             [
@@ -191019,7 +191021,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Conta nossa: 10% de desconto com MAUAD sobre o preço da unidade ou do kit Leve 2 da Toda Up; no kit, o total é dividido por duas fitas. A Trifil entra pelo preço da página, porque o código não vale lá. Os valores não incluem frete. O código está no [cupom Toda Up](/cupons/toda-up).",
+          "Conta nossa: 15% de desconto com MAUAD sobre o preço da unidade ou do kit Leve 2 da Toda Up; no kit, o total é dividido por duas fitas. A Trifil entra pelo preço da página, porque o código não vale lá. Os valores não incluem frete. O código está no [cupom Toda Up](/cupons/toda-up).",
           "Nos preços da tabela, a fita da Trifil custa menos mesmo com MAUAD na Toda Up, e o combo ainda traz 10 protetores e uma lata. A Fita Up mostra a largura, mas não a metragem, e a Trifil faz o contrário. Por isso não dá para comparar preço por metro: a conta fica no preço e no que cada caixa traz.",
           "Para quem usa acima do 48, a Fita Up exige uma confirmação antes da compra: o guia indica G até o 54, mas o FAQ menciona até o 52. Consulte a Toda Up sobre a sua numeração. A Trifil anuncia limite de 48. O passo a passo da Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar)."
         ],
@@ -191037,7 +191039,7 @@ export const reviewsData: unknown[] = [
           "A Trifil vende o “Sutiã Adesivo Trifil Invisível Up” como sutiã, mas a peça é um adesivo de mamilo, como o Protetor de Silicone Ultrafino da Toda Up. Por isso a comparação é com ele, e não com o Sutiã de Silicone Invisível. A página da Trifil diz que a peça tem baixa sustentação e “cola cirúrgica feita para cateter”."
         ],
         "comparisonTable": {
-          "caption": "Preços da página, sem frete. O cálculo da Toda Up aplica 10% de desconto com MAUAD a uma unidade; o código não vale na Trifil.",
+          "caption": "Preços da página, sem frete. O cálculo da Toda Up aplica 15% de desconto com MAUAD a uma unidade; o código não vale na Trifil.",
           "headers": [
             "",
             "Protetor de Silicone Ultrafino (Toda Up)",
@@ -191051,7 +191053,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Preço com o cupom MAUAD",
-              "R$ 53,91",
+              "R$ 50,92",
               "Não se aplica: o cupom é da Toda Up"
             ],
             [
@@ -191108,7 +191110,7 @@ export const reviewsData: unknown[] = [
           "A fita da Trifil é boa? As páginas anunciam as mesmas características da Fita Up, mas isso não mostra conforto nem aderência. Nos preços comparados, ela custa menos, tem tamanho único anunciado até o 48 e um combo com 10 protetores; veja a tabela de “As duas fitas lado a lado”.",
           "Qual fita serve até o tamanho 54? O guia da Fita Up indica a G até o 54, mas o FAQ da Toda Up menciona até o 52. Confirme sua numeração com a marca antes de comprar; a Trifil anuncia até o 48.",
           "O sutiã adesivo da Trifil é um sutiã? A Trifil chama a peça assim, mas ela é um adesivo de mamilo. Por isso a comparação é com o Protetor de Silicone Ultrafino.",
-          "Qual é o cupom da Toda Up? MAUAD dá 10% de desconto na Toda Up; confira as regras e o valor aplicado no carrinho."
+          "Qual é o cupom da Toda Up? MAUAD dá 15% de desconto na Toda Up; confira as regras e o valor aplicado no carrinho."
         ]
       }
     ]
@@ -191134,7 +191136,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Com MAUAD, o protetor da Toda Up custa cerca de metade do da Intimissimi. Compare também as copas bege M/G e o preço das fitas por unidade ou no kit.",
-    "metaDescription": "O cupom MAUAD dá 10% OFF na Toda Up. Fita, sutiã adesivo e protetor de mamilo da Toda Up ou da Intimissimi: preço com cupom e tamanhos.",
+    "metaDescription": "O cupom MAUAD dá 15% OFF na Toda Up. Fita, sutiã adesivo e protetor de mamilo da Toda Up ou da Intimissimi: preço com cupom e tamanhos.",
     "image": "/images/reviews/toda-up/toda-up-ou-intimissimi-capa.webp",
     "imageAlt": "Mão segurando o Sutiã de Silicone Invisível e três modelos com as embalagens da Toda Up, com o logo da Toda Up e o título Toda Up ou Intimissimi?",
     "imageFit": "contain",
@@ -191152,7 +191154,7 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Abra o site oficial da Toda Up pelo botão e confira se o desconto de 10% do MAUAD aparece no carrinho da fita, do sutiã ou do protetor antes de pagar.",
+      "text": "Abra o site oficial da Toda Up pelo botão e confira se o desconto de 15% do MAUAD aparece no carrinho da fita, do sutiã ou do protetor antes de pagar.",
       "label": "Ver na Toda Up",
       "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
       "sponsored": true
@@ -191190,7 +191192,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Fita Up ou fita da Intimissimi",
         "paragraphs": [
-          "Os preços e as informações das três comparações vêm das páginas das lojas, em 6 de novembro de 2026. Entre as fitas comparadas, a Intimissimi custa menos na compra avulsa; a Fita Up no Leve 2 fica abaixo por unidade. Conta nossa: com os 10% do MAUAD, o kit sai por R$ 168,34, ou R$ 84,17 cada. Sem a metragem das fitas, essa diferença não demonstra menor custo por aplicação."
+          "Os preços e as informações das três comparações vêm das páginas das lojas, em 6 de novembro de 2026. Entre as fitas comparadas, a Intimissimi custa menos na compra avulsa; a Fita Up no Leve 2 fica abaixo por unidade. Conta nossa: com os 15% do MAUAD, o kit sai por R$ 158,98, ou R$ 79,49 cada. Sem a metragem das fitas, essa diferença não demonstra menor custo por aplicação."
         ],
         "image": {
           "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
@@ -191213,7 +191215,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Preço",
-              "R$ 116,90 na página; R$ 105,21 com MAUAD; no Leve 2 com MAUAD, R$ 168,34 pelas duas, ou R$ 84,17 cada",
+              "R$ 116,90 na página; R$ 99,37 com MAUAD; no Leve 2 com MAUAD, R$ 158,98 pelas duas, ou R$ 79,49 cada",
               "R$ 89,00 na página"
             ],
             [
@@ -191253,7 +191255,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sutiã adesivo: as copas da Intimissimi custam menos",
         "paragraphs": [
-          "Para deixar as costas livres, as Copas de Silicone bege em M e G da Intimissimi custam R$ 25,91 menos que o sutiã da Toda Up com MAUAD. A Toda Up também oferece P. Confira as medidas antes de escolher pelo preço: as letras dos tamanhos não garantem ajuste equivalente."
+          "Para deixar as costas livres, as Copas de Silicone bege em M e G da Intimissimi custam R$ 18,42 menos que o sutiã da Toda Up com MAUAD. A Toda Up também oferece P. Confira as medidas antes de escolher pelo preço: as letras dos tamanhos não garantem ajuste equivalente."
         ],
         "image": {
           "src": "/images/reviews/toda-up/sutia-de-silicone-invisivel-fecho.webp",
@@ -191276,7 +191278,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Preço",
-              "R$ 149,90 na página (de R$ 159,90); R$ 134,91 com o cupom MAUAD",
+              "R$ 149,90 na página (de R$ 159,90); R$ 127,42 com o cupom MAUAD",
               "R$ 109,00 na página, na versão bege em M e G"
             ],
             [
@@ -191305,7 +191307,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Protetor de mamilo: o da Toda Up custa cerca de metade",
         "paragraphs": [
-          "Para cobrir o mamilo, a Toda Up permite escolher o diâmetro e, com MAUAD, custa R$ 55,09 menos que o protetor da Intimissimi. Se você procura uma peça com fecho, veja o capítulo de sutiã adesivo. O tamanho chamado de grande pela Intimissimi não permite concluir que ele equivale ao G da Toda Up."
+          "Para cobrir o mamilo, a Toda Up permite escolher o diâmetro e, com MAUAD, custa R$ 58,08 menos que o protetor da Intimissimi. Se você procura uma peça com fecho, veja o capítulo de sutiã adesivo. O tamanho chamado de grande pela Intimissimi não permite concluir que ele equivale ao G da Toda Up."
         ],
         "image": {
           "src": "/images/reviews/toda-up/protetor-de-silicone-cores.webp",
@@ -191328,7 +191330,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Preço",
-              "R$ 59,90 na página (de R$ 99,90); R$ 53,91 com o cupom MAUAD",
+              "R$ 59,90 na página (de R$ 99,90); R$ 50,92 com o cupom MAUAD",
               "R$ 109,00 na página"
             ],
             [
@@ -191375,7 +191377,7 @@ export const reviewsData: unknown[] = [
           "As copas de silicone da Intimissimi são boas? Adesivo interno, gancho central e instruções de lavagem descrevem a peça, mas não comprovam conforto ou durabilidade. A versão bege em M e G custa menos que o sutiã da Toda Up com MAUAD; a Intimissimi não informa uma quantidade de usos.",
           "Qual protetor de mamilo é mais barato? Pelos valores da tabela, o da Toda Up com MAUAD custa cerca de metade do Protetor de Silicone Opaco da Intimissimi.",
           "Posso devolver a fita ou as copas da Intimissimi? A política informada pela loja exige peças sem sinais de uso e embalagem intacta por higiene; para defeitos, a Intimissimi informa garantia de devolução.",
-          "Qual é o cupom da Toda Up? MAUAD dá 10% de desconto no site oficial; confira as condições na página do cupom Toda Up."
+          "Qual é o cupom da Toda Up? MAUAD dá 15% de desconto no site oficial; confira as condições na página do cupom Toda Up."
         ]
       }
     ]
@@ -196599,14 +196601,14 @@ export const reviewsData: unknown[] = [
     "title": "O que usar em decote profundo, costas abertas e tomara que caia?",
     "seoTitle": "Sutiã para decote profundo e costas abertas: o que usar",
     "description": "Escolha pela abertura da roupa: veja quando considerar Fita Up, sutiã de silicone, Comfort Line ou protetor, com os limites de cada formato e preços com cupom.",
-    "metaDescription": "MAUAD dá 10% OFF na Toda Up. Decote profundo, costas abertas ou tomara que caia: quando usar Fita Up, sutiã de silicone ou protetor.",
+    "metaDescription": "MAUAD dá 15% OFF na Toda Up. Decote profundo, costas abertas ou tomara que caia: quando usar Fita Up, sutiã de silicone ou protetor.",
     "image": "/images/reviews/toda-up/sutia-para-decote-profundo-costas-abertas-capa-v2.webp",
     "imageAlt": "Modelo com a Fita Up no busto, segurando a caixa da Toda Up.",
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para decote profundo com costas abertas, a Fita Up permite ajustar o recorte; o sutiã de silicone tem um fecho frontal que precisa caber sob a roupa. Para tomara que caia com costas cobertas, considere o Comfort Line; para disfarçar o mamilo, o protetor. O MAUAD deu 10% OFF nos testes."
+          "Para decote profundo com costas abertas, a Fita Up permite ajustar o recorte; o sutiã de silicone tem um fecho frontal que precisa caber sob a roupa. Para tomara que caia com costas cobertas, considere o Comfort Line; para disfarçar o mamilo, o protetor. O MAUAD entrou nos testes de carrinho e hoje dá 15% OFF."
         ]
       },
       {
@@ -196788,40 +196790,40 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço com o cupom e o que comprar junto",
         "paragraphs": [
-          "O preço de cada peça é o mesmo em todos os tamanhos e cores da página. Testamos o MAUAD com uma unidade de cada, e os 10% entraram em todas."
+          "O preço de cada peça é o mesmo em todos os tamanhos e cores da página. Testamos o MAUAD com uma unidade de cada, e o desconto entrou em todas; hoje ele dá 15%."
         ],
         "comparisonTable": {
-          "caption": "Preços das páginas e teste de carrinho em 08/11/2026.",
+          "caption": "Preços das páginas em 08/11/2026; a coluna do cupom é a conta com 15% OFF.",
           "headers": [
             "Peça",
             "Preço da página",
-            "Com MAUAD (10% OFF)"
+            "Com MAUAD (15% OFF)"
           ],
           "rows": [
             [
               "[Fita Up](https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 116,90 (de R$ 179,90)",
-              "R$ 105,21"
+              "R$ 99,37"
             ],
             [
               "[Sutiã de Silicone Invisível](https://todaup.com/discount/MAUAD?redirect=/products/sutia-de-silicone-invisivel&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 149,90 (de R$ 159,90)",
-              "R$ 134,91"
+              "R$ 127,42"
             ],
             [
               "[Protetor de Silicone Ultrafino](https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 59,90 (de R$ 99,90)",
-              "R$ 53,91"
+              "R$ 50,92"
             ],
             [
               "[Sutiã Comfort Line](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 189,90 (de R$ 199,90)",
-              "R$ 170,91"
+              "R$ 161,42"
             ],
             [
               "Fita Up + protetor (itens avulsos)",
               "R$ 176,80 (soma)",
-              "R$ 159,12 (soma dos preços com cupom)"
+              "R$ 150,29 (soma dos preços com cupom)"
             ]
           ]
         },
@@ -196861,7 +196863,7 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Se a Fita Up é o seu caso, entre pelo link da parceria: o cupom MAUAD, de 10% OFF, já vai para o carrinho. Os links das outras peças estão no quadro de preços. Confira o desconto antes de pagar.",
+      "text": "Se a Fita Up é o seu caso, entre pelo link da parceria: o cupom MAUAD, de 15% OFF, já vai para o carrinho. Os links das outras peças estão no quadro de preços. Confira o desconto antes de pagar.",
       "label": "Ver a Fita Up com o cupom",
       "url": "https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
       "sponsored": true
@@ -197461,14 +197463,14 @@ export const reviewsData: unknown[] = [
     "title": "Como descobrir seu tamanho na Toda Up: Comfort, SkinUp, Cotton Up, silicone e Fita Up",
     "seoTitle": "Tamanho Toda Up: como escolher em cada linha",
     "description": "O M de uma peça não é o M da outra, e o mesmo número também muda. Veja como medir e as tabelas de sutiã, top, calcinha, silicone, protetor e Fita Up num lugar só.",
-    "metaDescription": "MAUAD dá 10% OFF na Toda Up. Como descobrir seu tamanho em Comfort, SkinUp, Cotton Up, sutiã de silicone, protetor e Fita Up.",
+    "metaDescription": "MAUAD dá 15% OFF na Toda Up. Como descobrir seu tamanho em Comfort, SkinUp, Cotton Up, sutiã de silicone, protetor e Fita Up.",
     "image": "/images/reviews/toda-up/tamanho-toda-up-como-escolher-capa-v2.webp",
     "imageAlt": "Três modelos adultas vestindo peças Alça Fina da Toda Up nas cores rosa, preto e claro, em foto oficial, ao lado da pergunta Qual é o seu tamanho?",
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Toda Up, a mesma letra e o mesmo número podem corresponder a faixas corporais diferentes em cada peça. Meça busto e sob busto, ou cintura e quadril, e compare os dois pontos nas tabelas abaixo. O MAUAD deu 10% OFF nas peças testadas no carrinho."
+          "Na Toda Up, a mesma letra e o mesmo número podem corresponder a faixas corporais diferentes em cada peça. Meça busto e sob busto, ou cintura e quadril, e compare os dois pontos nas tabelas abaixo. O MAUAD entrou nas peças testadas no carrinho e hoje dá 15% OFF."
         ]
       },
       {
@@ -198014,7 +198016,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom em qualquer tamanho",
         "paragraphs": [
-          "Nas peças que testamos no carrinho, o MAUAD deu 10% de desconto, incluindo Comfort, SkinUp, Cotton Up, fita, silicone e protetor. Na opção de uma unidade, o preço não muda de um tamanho para outro nessas páginas, então subir de letra não encarece a compra. As regras estão no [cupom Toda Up](/cupons/toda-up)."
+          "Nas peças que testamos no carrinho, o MAUAD entrou em todas, incluindo Comfort, SkinUp, Cotton Up, fita, silicone e protetor, e hoje dá 15% de desconto. Na opção de uma unidade, o preço não muda de um tamanho para outro nessas páginas, então subir de letra não encarece a compra. As regras estão no [cupom Toda Up](/cupons/toda-up)."
         ]
       },
       {
@@ -198029,7 +198031,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Se as suas medidas apontaram para o Comfort Up, veja a peça pelo link da parceria com MAUAD, de 10% OFF. As outras peças têm seus links no quadro de tamanhos. Confira o desconto no carrinho antes de pagar.",
+      "text": "Se as suas medidas apontaram para o Comfort Up, veja a peça pelo link da parceria com MAUAD, de 15% OFF. As outras peças têm seus links no quadro de tamanhos. Confira o desconto no carrinho antes de pagar.",
       "label": "Ver o Comfort Up com o cupom",
       "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
       "sponsored": true
@@ -198077,14 +198079,14 @@ export const reviewsData: unknown[] = [
     "title": "SkinUp marca na roupa? O que muda entre Top, Clássico, calcinhas e Cotton Up",
     "seoTitle": "SkinUp marca na roupa? Top, Clássico e calcinhas",
     "description": "Compare o que a Toda Up promete para SkinUp e Cotton Up, o acabamento e o bojo de cada peça, e o que conferir na roupa antes de escolher.",
-    "metaDescription": "MAUAD dá 10% OFF na Toda Up. SkinUp marca na roupa? O que a loja promete no Top, no Clássico e nas calcinhas, e a diferença para o Cotton Up.",
+    "metaDescription": "MAUAD dá 15% OFF na Toda Up. SkinUp marca na roupa? O que a loja promete no Top, no Clássico e nas calcinhas, e a diferença para o Cotton Up.",
     "image": "/images/reviews/toda-up/skinup-marca-na-roupa-capa-v2.webp",
     "imageAlt": "Modelo adulta vestindo Top Segunda Pele SkinUp caramelo em foto oficial da Toda Up, ao lado da pergunta SkinUp marca na roupa?",
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Toda Up promete que a SkinUp não marca, mas não testamos esse resultado sob a roupa. Compare acabamento, bojo e contraste de cor nas peças abaixo. No Cotton Up, Top Faixa e Calcinha Biquíni também têm promessas próprias; o MAUAD deu 10% OFF no carrinho."
+          "A Toda Up promete que a SkinUp não marca, mas não testamos esse resultado sob a roupa. Compare acabamento, bojo e contraste de cor nas peças abaixo. No Cotton Up, Top Faixa e Calcinha Biquíni também têm promessas próprias; o MAUAD entrou no carrinho e hoje dá 15% OFF."
         ]
       },
       {
@@ -198309,50 +198311,50 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço com o cupom",
         "paragraphs": [
-          "Testamos o MAUAD no carrinho em todas as peças do quadro, na opção de uma unidade, e os 10% entraram."
+          "Testamos o MAUAD no carrinho em todas as peças do quadro, na opção de uma unidade, e o desconto entrou em todas; hoje ele dá 15%."
         ],
         "comparisonTable": {
-          "caption": "Preços das páginas e teste de carrinho no mesmo dia do primeiro quadro.",
+          "caption": "Preços das páginas no dia do primeiro quadro; a coluna do cupom é a conta com 15% OFF.",
           "headers": [
             "Peça",
             "Preço da página",
-            "Com o cupom, no carrinho"
+            "Com o cupom (15% OFF)"
           ],
           "rows": [
             [
               "[Top Segunda Pele](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 169,90 (de R$ 179,90)",
-              "R$ 152,91"
+              "R$ 144,42"
             ],
             [
               "[Sutiã Top Alça Fina](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 179,90 (de R$ 199,90)",
-              "R$ 161,91"
+              "R$ 152,92"
             ],
             [
               "[Sutiã Clássico](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 208,90 (de R$ 219,90)",
-              "R$ 188,01"
+              "R$ 177,57"
             ],
             [
               "[Calcinhas Fio Dental](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e [Fio Dental Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-cos-alto-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 49,90 (de R$ 59,90)",
-              "R$ 44,91"
+              "R$ 42,42"
             ],
             [
               "[Calcinhas Biquíni](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e [Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 44,91 (de R$ 59,90)",
-              "R$ 40,42"
+              "R$ 38,17"
             ],
             [
               "[Top Faixa Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e [Top Triangular Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 132,90 (de R$ 189,90)",
-              "R$ 119,61"
+              "R$ 112,97"
             ],
             [
               "[Calcinha Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 39,90 (de R$ 59,90)",
-              "R$ 35,91"
+              "R$ 33,92"
             ]
           ]
         },
@@ -198384,7 +198386,7 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Se o Top Segunda Pele é o seu caso, entre pelo link da parceria: o cupom MAUAD, de 10% OFF, já vai para o carrinho. Os links das outras peças estão nos quadros. Confira o desconto antes de pagar.",
+      "text": "Se o Top Segunda Pele é o seu caso, entre pelo link da parceria: o cupom MAUAD, de 15% OFF, já vai para o carrinho. Os links das outras peças estão nos quadros. Confira o desconto antes de pagar.",
       "label": "Ver o Top Segunda Pele com o cupom",
       "url": "https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
       "sponsored": true
