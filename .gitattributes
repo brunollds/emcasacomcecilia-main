@@ -72,6 +72,8 @@ public/images/about/partners/petz.png -text export-ignore
 public/images/about/partners/polishop.jpg -text export-ignore
 public/images/about/partners/probiotica-icon.png -text export-ignore
 public/images/about/partners/probiotica.png -text export-ignore
+public/images/about/partners/prohall-icon.png -text export-ignore
+public/images/about/partners/prohall.png -text export-ignore
 public/images/about/partners/promobit.jpg -text export-ignore
 public/images/about/partners/santos-simoes.webp -text export-ignore
 public/images/about/partners/shein.webp -text export-ignore
@@ -104,6 +106,7 @@ public/images/logos/bolinhas/max-titanium.png -text export-ignore
 public/images/logos/bolinhas/nestle-nutre.png -text export-ignore
 public/images/logos/bolinhas/petz.png -text export-ignore
 public/images/logos/bolinhas/probiotica.png -text export-ignore
+public/images/logos/bolinhas/prohall.png -text export-ignore
 public/images/logos/bolinhas/shein.png -text export-ignore
 public/images/logos/bolinhas/simple-organic.png -text export-ignore
 public/images/logos/bolinhas/skelt.png -text export-ignore
@@ -129,6 +132,7 @@ public/images/logos/watermarks/max-titanium.webp -text export-ignore
 public/images/logos/watermarks/nutren.webp -text export-ignore
 public/images/logos/watermarks/petz.webp -text export-ignore
 public/images/logos/watermarks/probiotica.webp -text export-ignore
+public/images/logos/watermarks/prohall.webp -text export-ignore
 public/images/logos/watermarks/shein.webp -text export-ignore
 public/images/logos/watermarks/simple-organic.webp -text export-ignore
 public/images/logos/watermarks/skelt.webp -text export-ignore
@@ -1830,6 +1834,7 @@ public/images/reviews/probiotica/probiotica-reclame-aqui-principais-problemas.we
 public/images/reviews/probiotica/probiotica-rodape-cnpj.webp -text export-ignore
 public/images/reviews/probiotica/whey-probiotica-qual-escolher-capa-v2.webp -text export-ignore
 public/images/reviews/probiotica/whey-probiotica-qual-escolher-capa.webp -text export-ignore
+public/images/reviews/prohall/cupom-prohall-checkout-com-cupom.webp -text export-ignore
 public/images/reviews/rabanada/conhecendo-mais-rabanada-capa-v2.webp -text export-ignore
 public/images/reviews/rabanada/rabanada-caminho-ilustracao.webp -text export-ignore
 public/images/reviews/rabanada/rabanada-capa-discover.webp -text export-ignore

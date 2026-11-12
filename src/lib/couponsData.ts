@@ -3116,6 +3116,121 @@ const STORE_COUPONS: Coupon[] = [
   },
   {
     offerMode: 'discount-code',
+    slug: 'prohall',
+    cartPrint: { src: '/images/reviews/prohall/cupom-prohall-checkout-com-cupom.webp', alt: 'Resumo da compra no checkout da Prohall com o aviso "Cupom CECILIAMC aplicado", a linha Cupom CECILIAMC de menos R$ 26,64 e o total de R$ 354,06', aspectRatio: 0.473 },
+    brand: 'Prohall',
+    officialUrl: 'https://lojaprohall.com.br/',
+    offerUrl: 'https://lojaprohall.com.br/',
+    brandIcon: 'PH',
+    brandLogo: '/images/about/partners/prohall-icon.png',
+    brandLogoAlt: 'Marca Prohall',
+    bubble: { src: '/images/logos/bolinhas/prohall.png' },
+    brandWatermark: '/images/logos/watermarks/prohall.webp',
+    brandColor: '#111111',
+    code: 'CECILIAMC',
+    codeFieldLabel: 'Código do cupom',
+    discount: 'Até 10% OFF',
+    discountNumber: 10,
+    category: 'Cabelos e tratamento capilar',
+    hubCategory: 'beleza',
+    shortDescription: 'produtos para cabelo no site oficial da Prohall',
+    longDescription:
+      'O cupom Prohall CECILIAMC dá até 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções: nos nossos testes, tirou 7% de produtos a preço cheio e em promoção. Vale em todas as formas de pagamento.',
+    metaTitle: 'Cupom Prohall: até 10% OFF com CECILIAMC',
+    metaTitleMonth: true,
+    metaDescription:
+      'Cupom Prohall: CECILIAMC dá até 10% OFF para cliente novo ou antigo, soma com as promoções do site e vale no Pix e no cartão. Nos testes, deu 7%.',
+    eligibleCategories: 'Produtos do site oficial da Prohall; o desconto chega a 10% e pode ser menor: nos nossos testes, foi de 7%',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Pode ser usado em mais de uma compra, segundo a parceria',
+    shipping: 'Frete grátis a partir de um mínimo por região, segundo a página de pagamento e envio da loja: R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste',
+    combinable:
+      'Soma com as promoções vigentes do site e vale com todas as formas de pagamento; não junta com o cupom de cashback da loja',
+    stacking: [
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: nos testes, tirou 7% de produtos que já estavam com desconto' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
+      { benefit: 'cashback', stacks: 'nao', condition: 'O cashback da loja chega como cupom para a compra seguinte e não junta com outro cupom' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste' },
+    ],
+    paymentPerks: [
+      'Até 10x sem juros no cartão, com parcela mínima de R$ 20',
+    ],
+    lastVerified: '2026-11-12',
+    testedAt: '2026-11-12',
+    testNote:
+      'Num carrinho de quatro itens, com o kit Shampoo + Condicionador Absolut One em promoção, de R$ 149,90 por R$ 89,90, o CECILIAMC tirou R$ 26,64 dos R$ 380,70 e o total caiu para R$ 354,06: 7%. No mesmo dia, aplicamos o código em outros quatro carrinhos, com produtos a preço cheio e em promoção, e o desconto foi de 7% em todos: o Force Hair foi de R$ 264,90 para R$ 246,36, e o Kit Completo Absolut One, de R$ 349,90 para R$ 325,41.',
+    aboutBrand:
+      'A Prohall é uma marca brasileira de produtos para cabelo, fundada em 2017 em Lençóis Paulista (SP), com escovas antifrizz, shampoos, condicionadores, máscaras, óleos, séruns e finalizadores vendidos no site oficial. O cupom CECILIAMC é o benefício da parceria para quem acompanha o Em Casa com Cecília e dá até 10% OFF: nos nossos testes, o desconto foi de 7%, e o resumo da compra mostra o valor. Ele vale com qualquer forma de pagamento e soma com as promoções do site.',
+    faqs: [
+      {
+        question: 'Quanto de desconto o cupom CECILIAMC dá?',
+        answer:
+          'Até 10% OFF, segundo a parceria. Nos nossos testes, o desconto foi de 7%, em produtos a preço cheio e em promoção. O resumo da compra mostra o valor assim que o código é aceito.',
+      },
+      {
+        question: 'O cupom CECILIAMC vale no Pix, no cartão e em outras formas de pagamento?',
+        answer:
+          'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, e o desconto não depende do meio escolhido.',
+      },
+      {
+        question: 'O cupom Prohall vale na primeira compra?',
+        answer: 'Sim. O CECILIAMC vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'Qual cupom Prohall vale para quem já é cliente?',
+        answer:
+          'O CECILIAMC. Ele dá até 10% no site oficial para quem compra pela primeira vez e para quem já comprou, e pode ser usado em mais de uma compra.',
+      },
+      {
+        question: 'O CECILIAMC é cupom de influenciadora?',
+        answer:
+          'Sim. É o código da Cecília, do Em Casa com Cecília, testado por nós no checkout. Não testamos a soma com o cupom de outra pessoa; o resumo da compra mostra qual código ficou aplicado.',
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No nosso teste, o cupom entrou num carrinho em que os produtos já estavam com desconto da loja: o total foi de R$ 380,70 para R$ 354,06.',
+      },
+      {
+        question: 'O cupom CECILIAMC soma com o cashback da Prohall?',
+        answer:
+          'Não no mesmo pedido. A Prohall dá 10% de cashback em compras a partir de R$ 100, como cupom para a compra seguinte, válido por 30 dias, e a loja avisa que esse cupom não junta com outros.',
+      },
+      {
+        question: 'O cupom CECILIAMC está funcionando hoje?',
+        answer:
+          'Sim. No teste de checkout mais recente, o CECILIAMC foi aceito. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
+      },
+      {
+        question: 'Onde coloco o cupom na Prohall?',
+        answer:
+          'No checkout do site oficial: toque em "Tem um cupom?", digite CECILIAMC no campo "Código do cupom" e toque em "Aplicar". O resumo da compra passa a mostrar a linha "Cupom CECILIAMC".',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'O cupom não dá frete grátis. A Prohall tem frete grátis a partir de R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste.',
+      },
+      {
+        question: 'O que fazer se o cupom CECILIAMC não funcionar?',
+        answer:
+          'Confira se o código foi digitado no campo "Código do cupom", sem espaços, no site oficial da Prohall, e se o cupom de cashback da loja não está aplicado no mesmo pedido. Lembre que o desconto pode ser menor que 10%. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'no site oficial',
+      note: 'O desconto chega a 10%; nos nossos testes, foi de 7%',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
     slug: 'hostinger',
     cartPrint: { src: '/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom.webp', alt: 'Resumo do pedido no carrinho da Hostinger com a linha Cupom aplicado e a etiqueta SONAR20', aspectRatio: 1.096 },
     brand: 'Hostinger',
