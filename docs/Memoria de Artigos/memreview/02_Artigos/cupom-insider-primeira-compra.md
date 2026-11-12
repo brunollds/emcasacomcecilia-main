@@ -7,9 +7,9 @@ parceiro_slug: "insider"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leitura do frete no navegador; redação"
+status: "pronto-para-deploy"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "deploy (decisão do Bruno); depois IndexNow e fechamento no vault"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PC-INSIDER"
@@ -171,3 +171,33 @@ Corpo: uma foto do kit do teste, com `href` para a loja.
 | Pop-up de primeira compra da loja, cadastro e percentual dele | ficha, seções 1 e 4; decisão do Bruno de 12/11 | não escrever |
 | Regra de reuso e critério de cliente novo do benefício da loja | ficha, seção 4 | não escrever |
 | 5 impressões, posição média 9,0 | ficha, seção 2 (Search Console, janela de 28 dias) | busca; não vai ao texto |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- `/policies/shipping-policy`: "frete grátis para compras acima de R$ 399,00"; "se adicionar algum cupom de desconto e o valor ficar abaixo de R$ 399,00 o envio será cobrado". Vale a política (R$ 399); os R$ 349 dos termos não entraram.
+- Kit "Compre 1 Daily T-shirt e ganhe 1 Cueca Boxer Comfort": continua no ar, com a camiseta a R$ 139,00 e a cueca a R$ 0,00 no kit. É o carrinho do teste de 11/11; a conta do `testNote` entrou sem mudança. A arte do kit é de campanha e não foi usada.
+- Frete por CEP no carrinho e Pix: não refeitos; o texto usa a política publicada e não cita percentual de Pix.
+- Search Console: CSV da linha de base com o Bruno.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-insider-primeira-compra.json` (id 914), no esqueleto do briefing. Resposta rápida com 59 palavras. "A loja informa:" na regra do frete; "Conta nossa:" com o valor do carrinho que mantém o frete grátis depois dos 15% (R$ 399 ÷ 0,85 = R$ 469,41, escrito "uns R$ 470"). A frase do cupom pessoal vazado vem do dossiê (respostas da Insider no Reclame Aqui), sem citar código.
+
+## Revisão (Job 3, 12/11/2026)
+
+1 a 10: passou. Sem o pop-up, o cadastro de e-mail e o percentual de primeira compra da loja; sem código de terceiros; sem percentual de Pix; sem nome de campanha; artigo de cupom não leva card de estilo.
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data (a do teste, na legenda da tabela). C3, C4, C5: 0.
+- C6: os valores da tabela não voltam; o mínimo do frete aparece uma vez, e a conta nossa traz outro número. C7: sem capítulo de método. C8: a foto da Daily T-shirt está no capítulo da conta, com o link de afiliado no `href`.
+- C9: "A loja informa:" 1; "Conta nossa:" 1. C12: a primeira frase de cada capítulo decide. C14: "E na segunda compra?" vem do molde da série.
+- Leitura em voz alta: soa como pessoa ajudando.
+
+## Revisão externa (12/11/2026)
+
+Revisão externa do Farol (com contraprova do GPT-6.1 Terra) em 12/11/2026, em `docs/auditoria-copy-artigos/pc-lote2-revisao-farol-20261112/` (local). O candidato entrou depois de conferido contra o vault e o `couponsData.ts`: a data do teste saiu da legenda da tabela e foi para a prosa (regra da série: nenhuma data em legenda), a legenda diz que os valores são antes do Pix e do frete, e o capítulo das compras seguintes ficou com um parágrafo. Saiu "com todas as formas de pagamento" (pedido pago com gift card não recebe o cupom, dossiê da Insider); "não pede cadastro" virou "sem cadastro prévio na loja" (redação nossa, mais curta que a do candidato); o brinde ficou restrito ao kit do teste; saiu a conta de "uns R$ 470"; a legenda da foto ficou "a camiseta do kit usado no teste" (redação nossa).
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 12/11/2026, no CDN e verificadas)
+
+- **Capa:** `/images/reviews/insider/cupom-insider-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da Insider, "Cupom Insider primeira compra" e o EMCASACOMCECILIA. Alt: Modelo com a Daily T-shirt azul da Insider, em foto oficial, ao lado da chamada Cupom Insider primeira compra e do código EMCASACOMCECILIA.
+- **Quanto fica, com promoção e Pix:** `/images/reviews/insider/cupom-insider-primeira-compra-daily-t-shirt-preta.webp` (quadrada, `href` com o link de afiliado da Daily T-shirt). Alt: Modelo com a Daily T-shirt preta da Insider, em foto oficial de frente. Legenda: A Daily T-shirt, a peça do kit do nosso teste. Foto: Insider.
+- **Origem:** duas fotos oficiais da galeria da Daily T-shirt (Blue Dive na capa, preta no corpo), lidas em 12/11/2026. Conferi oito capas da Insider e nenhuma usa a Daily azul. Sem IA.

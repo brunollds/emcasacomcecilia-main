@@ -7,9 +7,9 @@ parceiro_slug: "probiotica"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador (frete por região e Pix); redação"
+status: "pronto-para-deploy"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "deploy (decisão do Bruno); depois IndexNow e fechamento no vault"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PC-PROBIOTICA"
@@ -169,3 +169,34 @@ Corpo: uma foto do whey do teste, com `href` para a loja.
 | Benefício próprio de primeira compra da loja | não encontrado (ficha, seção 4) | o artigo não afirma nem nega |
 | Terceiros prometem "até 20%", "1 uso por CPF" e mínimos de compra | agregadores lidos por WebFetch (ficha, seção 6) | não usar |
 | 9 impressões, posição média 10,6 | ficha, seção 2 (Search Console, export de 06/11) | busca; não vai ao texto |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- `/politica-de-frete-gratis`: frete grátis a partir de R$ 104,00 em São Paulo capital, R$ 134,00 no Sudeste, R$ 249,00 no Sul, R$ 204,00 no Centro-Oeste, R$ 299,00 no Nordeste e R$ 599,00 no Norte. "Em casos de aplicação de cupom de desconto ou vale-presente, o frete poderá ser cobrado se o valor final ficar abaixo do valor destacado acima da sua Região". Vale na forma de envio de menor valor; no Sedex o frete é do cliente. A faixa de R$ 299 e R$ 399 do dossiê de 20/10 não está mais na política.
+- Hiper 100% Whey 900 g (`/hiper-100-whey-900g/p`): de R$ 210,39 por R$ 124,90; R$ 121,15 à vista no Pix. É o preço do teste de 11/11; a conta do `testNote` entrou sem mudança.
+- Faixa do topo: "Pix e Boleto até 5% OFF". O percentual do Pix não entrou no texto (regra do briefing).
+- Frete por CEP no carrinho: não conferido; o texto usa a política publicada, com "A loja informa:".
+- Search Console: CSV da linha de base com o Bruno.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-probiotica-primeira-compra.json` (id 913), no esqueleto do briefing. Resposta rápida com 53 palavras. O capítulo do pedido leva a tabela do frete por região (seis faixas); o da conta leva a tabela do teste e a "Conta nossa:" (o código tirou 7% do preço em promoção: R$ 8,74 sobre R$ 124,90). Uma frase cruza as duas tabelas sem repetir número: o whey sozinho passa do mínimo de São Paulo capital (R$ 116,16 contra R$ 104,00) e fica abaixo do mínimo do Sudeste (R$ 134,00).
+
+## Revisão (Job 3, 12/11/2026)
+
+1 a 10: passou. Nenhuma alegação de saúde nem de efeito (Anexo Suplementos-Alimentos); nada sobre kit, mínimo do código, limite de usos ou benefício da própria loja; nenhum código de terceiros; percentual do Pix fora.
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data (a do teste, na legenda da tabela da conta). C3, C4, C5: 0.
+- C6: os valores das duas tabelas não voltam na prosa nem no FAQ. C7: sem capítulo de método. C8: a foto do whey está no capítulo da conta, com o link de afiliado no `href`.
+- C9: "A loja informa:" 1; "Conta nossa:" 1. C12: a primeira frase de cada capítulo decide. C14: "E na segunda compra?" vem do molde da série.
+- Leitura em voz alta: soa como pessoa ajudando.
+
+## Revisão externa (12/11/2026)
+
+Revisão externa do Farol (com contraprova do GPT-6.1 Terra) em 12/11/2026, em `docs/auditoria-copy-artigos/pc-lote2-revisao-farol-20261112/` (local). O candidato entrou depois de conferido contra o vault e o `couponsData.ts`: a data do teste saiu da legenda da tabela e foi para a prosa (regra da série: nenhuma data em legenda), a legenda diz que os valores são antes do Pix e do frete, e o capítulo das compras seguintes ficou com um parágrafo. O capítulo da conta virou "Por que o desconto pode ficar abaixo de 10%"; saiu o aviso sobre código de site de cupom; a frase do frete diz que o preço do whey supera o mínimo de São Paulo capital, sem tratar isso como frete simulado.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 12/11/2026, no CDN e verificadas)
+
+- **Capa:** `/images/reviews/probiotica/cupom-probiotica-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da Probiótica, "Cupom Probiótica primeira compra" e o PRO10EMCASACOMCECILIA. Alt: Pote do Hiper 100% Whey da Probiótica, sabor chocolate, em foto oficial de perto, ao lado da chamada Cupom Probiótica primeira compra e do código PRO10EMCASACOMCECILIA.
+- **Quanto fica, com promoção e Pix:** `/images/reviews/probiotica/cupom-probiotica-primeira-compra-hiper-whey-900g.webp` (quadrada, `href` com o link de afiliado da página do whey). Alt: Pote azul do Hiper 100% Whey da Probiótica, 900 g, sabor chocolate, em foto oficial de frente. Legenda: O Hiper 100% Whey de 900 g, o produto do nosso teste. Foto: Probiótica.
+- **Origem:** duas fotos oficiais da galeria do Hiper 100% Whey 900 g (de perto, na capa; de frente, no corpo), lidas em 12/11/2026. Nenhuma capa da Probiótica usa o Hiper Whey. Sem IA.

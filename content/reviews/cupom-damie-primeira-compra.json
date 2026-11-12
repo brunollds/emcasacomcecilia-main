@@ -35,9 +35,15 @@
   "affiliate": "damie",
   "editorialNote": "A Cecília recebeu produtos da DAMIE em parceria. Podemos receber comissão pelo cupom.",
   "relatedArticles": [
-    { "slug": "cupom-cecilia12-como-usar" },
-    { "slug": "poltronas-reclinaveis-damie-vale-o-investimento" },
-    { "slug": "sofa-damie-na-caixa-vale-a-pena-o-modular" }
+    {
+      "slug": "cupom-cecilia12-como-usar"
+    },
+    {
+      "slug": "poltronas-reclinaveis-damie-vale-o-investimento"
+    },
+    {
+      "slug": "sofa-damie-na-caixa-vale-a-pena-o-modular"
+    }
   ],
   "contentSections": [
     {
@@ -69,15 +75,27 @@
       "heading": "Quanto fica com o Pix",
       "paragraphs": [
         "No Pix, os dois descontos entram, um depois do outro: primeiro o do Pix, depois os 12% do código sobre o que sobrou. A loja informa: o Pix à vista tem 10% de desconto, e o cartão parcela em até 12 vezes sem juros.",
-        "No nosso teste, com o puff avulso do Sofá Damie Modular no carrinho, ficou assim:"
+        "No teste do cupom de 11/11/2026, registrado na nossa página de cupom, o puff avulso do Sofá Damie Modular ficou assim:"
       ],
       "comparisonTable": {
-        "caption": "Teste no carrinho em 11/11/2026, com o puff avulso do Sofá Damie Modular.",
-        "headers": ["Etapa", "Valor"],
+        "caption": "Puff avulso do Sofá Damie Modular: valores do teste no carrinho, antes do frete.",
+        "headers": [
+          "Etapa",
+          "Valor"
+        ],
         "rows": [
-          ["Preço do puff", "R$ 1.300,00"],
-          ["Com o desconto do Pix, que o checkout já aplica", "R$ 1.170,00"],
-          ["Com o Pix e o CECILIA12", "R$ 1.029,60"]
+          [
+            "Preço do puff",
+            "R$ 1.300,00"
+          ],
+          [
+            "Com o desconto do Pix, que o checkout já aplica",
+            "R$ 1.170,00"
+          ],
+          [
+            "Com o Pix e o CECILIA12",
+            "R$ 1.029,60"
+          ]
         ]
       },
       "postParagraphs": [
