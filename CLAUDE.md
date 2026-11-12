@@ -491,6 +491,10 @@ vídeo, primeiras impressões e uso noturno.
   presença e o lugar de cada uma. O fim de "Como usar" leva o print do código no carrinho (`cartPrint`), também só
   em português: uma imagem do artigo "como usar o cupom" da loja, mostrada pelo `ReviewInlineImage` (com o
   "Ampliar"), como exemplo e sem data de teste.
+- "Vantagens além do cupom" (`#vantagens`, entre "Por que o cupom não funcionou?" e "Sobre a loja"), também só em
+  português: aparece na loja com `paymentPerks` (o parcelamento que a loja publica) e junta a ele o Pix, o frete
+  grátis e a retirada do `stacking`, a mesma fonte da tabela. Fato de frete novo entra no `shipping` e na linha
+  `frete` do `stacking`, não num campo à parte.
 - O JSON-LD da página de loja (`getJsonLd`, em `CouponStorePage.tsx`) é um `@graph` só, com os nós ligados por `@id`:
   `WebPage` (`isPartOf` e `publisher` apontam para o `WebSite` e o `Organization` do layout, `SITE_WEBSITE_ID` e
   `SITE_ORGANIZATION_ID` de `pageSeo.ts`), `Offer`, a loja, `FAQPage` e `BreadcrumbList`. O `Offer` leva só o que o

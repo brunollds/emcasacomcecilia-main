@@ -129,6 +129,10 @@ export type CouponCodeOffer = CouponBase & {
   // "O que acumula com o cupom": uma linha por benefício, só com fato já conferido (o da própria página ou do teste).
   // Linha sem fato não entra; loja sem linha nenhuma não mostra a seção. Reconferir na rodada mensal.
   stacking?: StackingRow[];
+  // "Vantagens além do cupom" (#vantagens), só em português: o que a loja publica sobre pagamento e nenhum outro campo
+  // diz (parcelamento). Frases curtas, sem ponto final. A página junta a elas o Pix, o frete grátis e a retirada do
+  // `stacking`; sem este campo, a seção não aparece.
+  paymentPerks?: string[];
   tiers?: {
     code: string;
     discount: string;
@@ -239,7 +243,7 @@ const STORE_COUPONS: Coupon[] = [
       'Todos os produtos do site DAMIE',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
     reusable: 'Sim, sem limite de usos por CPF',
-    shipping: 'Calculado separadamente, conforme política da loja',
+    shipping: 'Frete grátis em poltronas e sofás com entrega no Sul e no Sudeste, segundo a página de fretes da loja; no Centro-Oeste, calculado pelo CEP; o Norte e o Nordeste são atendidos pelos anúncios da loja no Mercado Livre',
     combinable:
       'Soma com todas as promoções e descontos do site, inclusive os 10% do Pix e o desconto por quantidade dos consultores no WhatsApp; não soma com outro cupom nem com o giftback de 15%',
     stacking: [
@@ -247,6 +251,10 @@ const STORE_COUPONS: Coupon[] = [
       { benefit: 'pix', stacks: 'sim', condition: 'A DAMIE dá 10% no Pix, e os 12% do cupom entram sobre o preço já com o Pix' },
       { benefit: 'cashback', label: 'Giftback', stacks: 'nao', condition: 'Não soma com o giftback de 15% da loja' },
       { benefit: 'outro-cupom', stacks: 'nao', condition: 'O cupom não soma com outro cupom' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis em poltronas e sofás com entrega no Sul e no Sudeste; no Centro-Oeste, calculado pelo CEP' },
+    ],
+    paymentPerks: [
+      'Até 12x sem juros no cartão, com parcela mínima de R$ 100',
     ],
     lastVerified: '2026-11-11',
     testedAt: '2026-11-11',
@@ -670,6 +678,9 @@ const STORE_COUPONS: Coupon[] = [
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço promocional, inclusive em produtos que já estão em promoção' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
+    ],
+    paymentPerks: [
+      'Até 6x sem juros no cartão',
     ],
     lastVerified: '2026-11-11',
     testedAt: '2026-11-11',
@@ -1173,13 +1184,14 @@ const STORE_COUPONS: Coupon[] = [
     eligibleCategories: 'Produtos da loja online da Insider, exceto lançamentos',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
-    shipping: 'Calculado separadamente, conforme política da loja',
+    shipping: 'Frete grátis em compras acima de R$ 399, segundo a política de frete da loja; o valor conta depois do cupom',
     combinable:
       'Soma com as promoções vigentes da loja online, inclusive os preços de Black Friday, o Outlet e os kits com preço promocional; não acumula com outro cupom: a loja aceita um cupom por pedido',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre os preços de Black Friday, do Outlet e dos kits em promoção; lançamentos ficam de fora' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
       { benefit: 'outro-cupom', stacks: 'nao', condition: 'A loja aceita um cupom por pedido' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis em compras acima de R$ 399; o valor conta depois do cupom' },
     ],
     lastVerified: '2026-11-11',
     testedAt: '2026-11-11',
@@ -1484,11 +1496,15 @@ const STORE_COUPONS: Coupon[] = [
     eligibleCategories: 'Produtos do site oficial da Probiótica; o desconto chega a 10% e pode ser menor em alguns itens',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
-    shipping: 'Calculado separadamente, conforme política da loja',
+    shipping: 'Frete grátis a partir de um mínimo por região, segundo a política de frete da loja: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte; o valor conta depois do cupom',
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional; o percentual do desconto varia por produto' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, que varia por produto e chega a 5%' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte, depois do cupom' },
+    ],
+    paymentPerks: [
+      'Até 6x sem juros no cartão',
     ],
     lastVerified: '2026-11-11',
     testedAt: '2026-11-11',
@@ -1603,12 +1619,13 @@ const STORE_COUPONS: Coupon[] = [
     eligibleCategories: 'Produtos do site oficial da Max Titanium; o desconto chega a 10% e pode ser menor em alguns itens',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
-    shipping: 'Calculado separadamente, conforme política da loja',
+    shipping: 'Frete grátis a partir de um mínimo por região, segundo a política de frete da loja: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte; o valor conta depois do cupom',
     combinable:
       'Soma com as promoções vigentes do site e com os brindes do carrinho, e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional, e os brindes do carrinho continuam nele; o percentual varia por produto' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, que varia por produto e chega a 5%' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte, depois do cupom' },
     ],
     lastVerified: '2026-11-11',
     testedAt: '2026-11-11',
@@ -1833,11 +1850,16 @@ const STORE_COUPONS: Coupon[] = [
     eligibleCategories: 'Todos os produtos do site oficial da Black Skull',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
-    shipping: 'Calculado separadamente, conforme política da loja',
+    shipping: 'Frete grátis acima de R$ 199,90 no Sul e no Sudeste, de R$ 249,90 no Centro-Oeste e de R$ 299,90 nas demais regiões, segundo a política de entrega da loja; vale o total do carrinho já com os descontos',
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço promocional dos produtos do site' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 199,90 no Sul e no Sudeste, de R$ 249,90 no Centro-Oeste e de R$ 299,90 nas demais regiões, sobre o total já com os descontos' },
+    ],
+    paymentPerks: [
+      'Até 8x sem juros no cartão, com parcela mínima de R$ 50',
+      'Pix parcelado em 4x sem juros, com a primeira parcela na hora e as outras a cada 15 dias',
     ],
     lastVerified: '2026-11-11',
     testedAt: '2026-11-11',
@@ -2015,6 +2037,9 @@ const STORE_COUPONS: Coupon[] = [
       { benefit: 'cashback', stacks: 'sim', condition: 'O pedido com o cupom continua gerando cashback, calculado sobre o valor já com o desconto' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 599, segundo o aviso do site; abaixo disso, o frete é calculado no checkout' },
     ],
+    paymentPerks: [
+      'Até 12x no cartão, sendo até 4x sem juros, com parcela mínima de R$ 10',
+    ],
     lastVerified: '2026-11-12',
     testedAt: '2026-11-08',
     testNote:
@@ -2125,6 +2150,9 @@ const STORE_COUPONS: Coupon[] = [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço da oferta' },
       { benefit: 'pix', stacks: 'sim', condition: 'O carrinho com o cupom ainda ganha os 5% de desconto do Pix' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 170 em SP, MG, RJ, DF e GO, de R$ 250 no Sul e de R$ 300 nos demais estados' },
+    ],
+    paymentPerks: [
+      'Até 2x sem juros no cartão',
     ],
     lastVerified: '2026-11-12',
     testedAt: '2026-11-11',
@@ -2248,6 +2276,9 @@ const STORE_COUPONS: Coupon[] = [
       { benefit: 'cashback', stacks: 'depende', condition: 'A compra com o cupom gera cashback acima de R$ 250 já com o desconto; o crédito do cashback não vale junto com o cupom' },
       { benefit: 'outro-cupom', stacks: 'nao', condition: 'A loja não acumula cupons no mesmo pedido' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste e acima de R$ 399 no Norte e Nordeste' },
+    ],
+    paymentPerks: [
+      'Até 3x sem juros no cartão',
     ],
     lastVerified: '2026-11-12',
     testedAt: '2026-11-11',
@@ -2518,6 +2549,9 @@ const STORE_COUPONS: Coupon[] = [
       { benefit: 'pix', stacks: 'sim', condition: 'No Pix, a Bagaggio tira mais 5% depois do código' },
       { benefit: 'outro-cupom', stacks: 'nao', condition: 'A loja não acumula cupons no mesmo pedido' },
     ],
+    paymentPerks: [
+      'Até 6x sem juros no cartão com parcela mínima de R$ 50, ou até 10x sem juros com parcela mínima de R$ 200',
+    ],
     lastVerified: '2026-11-11',
     testedAt: '2026-11-11',
     testNote:
@@ -2766,6 +2800,9 @@ const STORE_COUPONS: Coupon[] = [
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 99 em produtos; o mínimo conta depois do desconto do cupom' },
     ],
+    paymentPerks: [
+      'Até 5x sem juros no cartão, com parcela mínima de R$ 30',
+    ],
     lastVerified: '2026-11-12',
     testedAt: '2026-11-12',
     testNote:
@@ -2993,6 +3030,9 @@ const STORE_COUPONS: Coupon[] = [
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 199 no Sul e no Sudeste e de R$ 299 nas demais regiões; medicamentos, acima de R$ 199' },
     ],
+    paymentPerks: [
+      'Até 3x sem juros no cartão, com parcela mínima de R$ 80',
+    ],
     lastVerified: '2026-11-12',
     testedAt: '2026-11-12',
     testNote:
@@ -3109,6 +3149,9 @@ const STORE_COUPONS: Coupon[] = [
       'Soma com as promoções da Hostinger: no nosso teste mais recente, os 20% entraram sobre o preço de Black Friday; a soma com outros cupons não foi testada',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 20% entram sobre o preço promocional que a Hostinger já mostra no carrinho' },
+    ],
+    paymentPerks: [
+      'O total do plano pode ser dividido em até 12 parcelas no cartão',
     ],
     lastVerified: '2026-11-12',
     testedAt: '2026-11-12',

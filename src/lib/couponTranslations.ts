@@ -1495,6 +1495,7 @@ export const CODE_FIELD_POLICY = {
   limitedCodes: 'drop',
   // "O que acumula com o cupom" só existe em PT.
   stacking: 'drop',
+  paymentPerks: 'drop',
 } as const satisfies Record<keyof CouponCodeOffer, 'pt' | 'translate' | 'drop'>;
 
 // Os campos que vêm da tradução; cada um precisa existir em CodeOfferTranslation (o Pick de localizeCoupon

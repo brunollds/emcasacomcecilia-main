@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import { CalendarDays, Check, Copy, ExternalLink, Layers, Play, Repeat, ShoppingBag, Truck } from 'lucide-react';
+import { CalendarDays, Check, Copy, CreditCard, ExternalLink, Layers, Play, Repeat, ShoppingBag, Truck } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { getCouponHubPath } from '@/lib/couponHub';
 import { getCouponLanguageLinks, getCouponStorePath } from '@/lib/couponTranslations';
@@ -261,6 +261,20 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
   const stackingCopy = copy.stacking;
   const stackingRows = stackingCopy && couponCodeOffer?.stacking?.length ? couponCodeOffer.stacking : null;
   const failedCopy = couponCodeOffer ? copy.failed : undefined;
+  // "Vantagens além do cupom": o parcelamento vem do `paymentPerks`; o Pix, o frete grátis e a retirada repetem a
+  // condição do `stacking`, a mesma fonte da tabela.
+  const perksCopy = copy.perks;
+  const paymentPerks = perksCopy && couponCodeOffer?.paymentPerks?.length ? couponCodeOffer.paymentPerks : null;
+  const stackingCondition = (benefit: 'frete' | 'retirada' | 'pix') =>
+    couponCodeOffer?.stacking?.find((row) => row.benefit === benefit)?.condition;
+  const perkGroups = paymentPerks
+    ? [
+        { kind: 'payment' as const, icon: CreditCard, items: [...paymentPerks, stackingCondition('pix')] },
+        { kind: 'shipping' as const, icon: Truck, items: [stackingCondition('frete'), stackingCondition('retirada')] },
+      ]
+        .map((group) => ({ ...group, items: group.items.filter((item): item is string => Boolean(item)) }))
+        .filter((group) => group.items.length > 0)
+    : [];
   const videosCopy = copy.videos;
   const cartPrint = copy.cartPrint && coupon.cartPrint ? coupon.cartPrint : null;
   const videos = videosCopy && coupon.videos?.length ? coupon.videos : null;
@@ -620,6 +634,27 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                 </Link>
                 .
               </p>
+            </section>
+          )}
+
+          {perksCopy && perkGroups.length > 0 && (
+            <section aria-labelledby="vantagens">
+              <SectionHeading id="vantagens">{perksCopy.title}</SectionHeading>
+              <div className="mt-5 grid gap-3 md:grid-cols-2">
+                {perkGroups.map((group) => (
+                  <div key={group.kind} data-perks={group.kind} className="min-w-0 rounded-xl border-2 border-marinho p-4">
+                    <h3 className="flex items-center gap-2 text-[15px] font-extrabold leading-[22px]">
+                      <group.icon aria-hidden className="size-4 shrink-0" />
+                      {perksCopy.groups[group.kind]}
+                    </h3>
+                    <ul className={`mt-2 list-disc space-y-1.5 pl-5 ${BODY_TEXT}`}>
+                      {group.items.map((item) => (
+                        <li key={item}>{item}</li>
+                      ))}
+                    </ul>
+                  </div>
+                ))}
+              </div>
             </section>
           )}
 
