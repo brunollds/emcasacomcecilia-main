@@ -36,17 +36,19 @@ promocional.
 
 "prohall black friday" ([[Pesquisas-de-Pauta]]). Sem dado do Search Console.
 
-## O que só este artigo dá (busca de 12/11/2026)
+## O que só este artigo dá (Google em português, 12/11/2026)
 
-A busca de 12/11, por ferramenta sem localização no Brasil, não trouxe nenhuma página sobre a Black Friday da
-Prohall. A redação relê o topo do Google em português antes de escrever e ajusta esta seção.
+Topo de "prohall black friday": a visão geral de IA resume a campanha da loja (até 80%, frete grátis por região,
+cashback, brindes por valor do pedido, 10x sem juros); depois vêm posts da loja ("a Black Friday Prohall começou",
+"as melhores ofertas estão no app"), um vídeo de aquecimento da marca, as coleções da loja e um post de 2022 do
+site institucional. Não há guia de terceiros.
 
 - **O cupom em cima da oferta, testado:** nos testes de 12/11, com a campanha no ar, o CECILIAMC tirou 7% de
-  produtos que já estavam em promoção.
-- **O que a loja publica e o que não publica:** "ofertas de até 80% off" e "por tempo limitado", sem regulamento e
-  sem data de início ou de fim. O artigo diz isso com clareza, em vez de inventar um calendário.
-- **Esgotado no site:** dois dos produtos mais buscados apareciam como "esgotado no site, baixar o app para
-  comprar". O artigo avisa e diz que o código vale no app.
+  produtos que já estavam em promoção. Nenhum resultado do topo testa um código sobre o preço da campanha.
+- **O que a loja publica e o que não publica:** "até 80%" e "por tempo limitado", sem regulamento e sem data de
+  fim. O artigo diz isso, em vez de inventar um calendário.
+- **Esgotado no site e o app:** produtos buscados apareciam como "esgotado no site, baixar o app para comprar".
+- **Brindes por valor do pedido:** aparecem na visão geral de IA; só entram se a releitura da loja mostrar a regra.
 
 ## Esqueleto
 

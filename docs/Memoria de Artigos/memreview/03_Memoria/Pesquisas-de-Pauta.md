@@ -20,6 +20,12 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
   - Dúvidas de produto: "tem formol", "tem ácido glioxílico", "é progressiva ou selagem", "é compatível com outras químicas", "é profissional", "é brasileira", e "como usar" para progressiva, botox, BTX, selagem, ampola, Biomask, queratina e tônico.
 - **Reclame Aqui (perfil "Prohall Professional", 6 meses até 31/10/2026):** reputação Boa, nota 7,2; 127 reclamações, 100% respondidas, 73,7% resolvidas, 56,1% voltariam a fazer negócio. Mesmo CNPJ do rodapé da loja. A busca do Reclame Aqui mistura empresas de nome parecido, de outro ramo. Abas de 12 meses e anos anteriores: sem leitura.
 - **Loja (12/11):** Black Friday já na home ("até 80%", ofertas relâmpago e live); troca em 30 dias e desistência em 7, com lacre intacto, pedido inteiro e postagem por conta do cliente. Apareceram e não foram lidos: preço "Clube", Moedas PH, compra pelo app, Pix.
+- **Topo do Google em português (12/11, à noite, seis consultas do pacote):**
+  - "cupom prohall" e "cupom prohall primeira compra": a visão geral de IA responde com códigos de outras influenciadoras e com o cupom de primeira compra da própria loja, todos anunciados com 10%; cita também cupom de app e desconto no Pix, sem fonte da loja. Agregadores anunciam "10% hoje". O CECILIAMC deu 7% nos testes: na página de resultados, o nosso é o menor percentual e o único conferido.
+  - "prohall reclame aqui": reclamações avulsas do Reclame Aqui, várias de saúde; as páginas do Reclame Aqui aparecem com 7,2, 7,4 e 7,7, sem período.
+  - "prohall é confiável": vídeo de 2023, alerta de sites falsos, "quem é o dono da Prohall?". Ninguém traz a regra de troca.
+  - "prohall é boa": vídeos de quem usou a Select One; a visão de IA já responde a pergunta geral. É a pauta mais fraca para quem não tem experiência de uso. "As pessoas também perguntam" puxa "tem formol?", "Burix One alisa?" e tempo de aplicação.
+  - "prohall black friday": só a loja e as redes dela; nenhum guia de terceiros.
 - **Conteúdo nosso:** nenhum artigo da Prohall e nenhum de cabelo em `content/reviews`. Não há experiência própria registrada.
 - **Conclusão:** seis pautas com GO (PH1 a PH6) e oito de estoque, na [[Fila-de-Pautas]]. Fatos, fontes, slugs e regras em [[prohall-fatos-1211]]. Cuidados: sempre "até 10%" (7% nos testes); produto de uso profissional só pelo rótulo; queixas de saúde do Reclame Aqui sem causa afirmada; nenhum cupom, cashback ou clube da loja como alternativa ao nosso código.
 
