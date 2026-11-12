@@ -741,11 +741,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'casa',
     shortDescription: 'todo o site I Wanna Sleep',
     longDescription:
-      'O cupom I Wanna Sleep CECIEMCASA dá 10% OFF em todo o site (colchões, travesseiros e acessórios) e soma com as promoções da loja. Testado numa máscara de dormir em promoção.',
+      'O cupom I Wanna Sleep CECIEMCASA dá 10% OFF em todo o site (colchões, travesseiros e acessórios), para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções da loja. Testado numa máscara de dormir em promoção.',
     metaTitle: 'Cupom I Wanna Sleep: 10% OFF com CECIEMCASA',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom I Wanna Sleep: CECIEMCASA dá 10% OFF em todo o site oficial e soma com as promoções da loja.',
+      'Cupom I Wanna Sleep: CECIEMCASA dá 10% OFF em todo o site oficial para cliente novo ou antigo e soma com as promoções da loja.',
     eligibleCategories:
       'Todo o site I Wanna Sleep',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
@@ -774,6 +774,11 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O cupom CECIEMCASA vale para todos os produtos da I Wanna Sleep?',
         answer:
           'O cupom vale para compras no site da I Wanna Sleep. Confirme se o desconto aparece no checkout antes de finalizar.',
+      },
+      {
+        question: 'Qual cupom I Wanna Sleep dá 10% para quem já é cliente?',
+        answer:
+          'O CECIEMCASA. Ele dá 10% em todo o site da I Wanna Sleep para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'O cupom CECIEMCASA funciona em colchões, travesseiros e acessórios?',
@@ -2243,11 +2248,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'beleza',
     shortDescription: 'todo o site Skelt, com todas as formas de pagamento',
     longDescription:
-      'O cupom Skelt SKEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as promoções e com os 5% do Pix, e vale em todas as formas de pagamento. Testado num kit de body splashes em promoção.',
+      'O cupom Skelt SKEMCASACOMCECILIA dá 10% OFF em todo o site, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções e com os 5% do Pix, e vale em todas as formas de pagamento. Testado num kit de body splashes em promoção.',
     metaTitle: 'Cupom Skelt: 10% OFF com SKEMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Skelt: SKEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as promoções e com os 5% do Pix.',
+      'Cupom Skelt: SKEMCASACOMCECILIA dá 10% OFF em todo o site para cliente novo ou antigo, soma com as promoções e com os 5% do Pix.',
     eligibleCategories: 'Todos os produtos do site oficial da Skelt, inclusive kits e combos',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2271,6 +2276,11 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom SKEMCASACOMCECILIA vale para todos os produtos da Skelt?',
         answer: 'Sim. O SKEMCASACOMCECILIA dá 10% OFF em todos os produtos do site oficial da Skelt, inclusive kits e combos.',
+      },
+      {
+        question: 'Qual cupom Skelt dá 10% para quem já é cliente?',
+        answer:
+          'O SKEMCASACOMCECILIA. Ele dá 10% em todo o site da Skelt para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'Existe cupom Skelt de 15%?',
@@ -2491,11 +2501,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'moda',
     shortDescription: 'todo o site Toda Up, inclusive nos produtos em promoção',
     longDescription:
-      'O cupom Toda Up MAUAD dá 15% OFF em sutiãs, tops, calcinhas e adesivos no site oficial e soma com as promoções do site, inclusive nos produtos que já estão com desconto. Testado num sutiã em promoção.',
+      'O cupom Toda Up MAUAD dá 15% OFF em sutiãs, tops, calcinhas e adesivos no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções do site, inclusive nos produtos que já estão com desconto. Testado num sutiã em promoção.',
     metaTitle: 'Cupom Toda Up: 15% OFF em tudo com MAUAD',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Toda Up: MAUAD dá 15% OFF em sutiãs, tops, calcinhas e adesivos e soma com as promoções do site.',
+      'Cupom Toda Up: MAUAD dá 15% OFF em sutiãs, tops, calcinhas e adesivos para cliente novo ou antigo e soma com as promoções do site.',
     eligibleCategories: 'Todos os produtos do site oficial da Toda Up, inclusive os que já estão em promoção',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2520,6 +2530,11 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O cupom MAUAD vale para todos os produtos da Toda Up?',
         answer:
           'Sim. O MAUAD dá 15% OFF em todos os produtos do site oficial da Toda Up: sutiãs, tops, calcinhas, adesivos e acessórios, inclusive os que já estão em promoção. A exceção é a Black VIP, enquanto ela durar: nela, a loja não aceita o cupom de influenciadora.',
+      },
+      {
+        question: 'Qual cupom Toda Up dá 15% para quem já é cliente?',
+        answer:
+          'O MAUAD. Ele dá 15% no site oficial da Toda Up para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'A Toda Up é a antiga Fita Up? O cupom vale no site todaup.com?',
@@ -2590,11 +2605,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'beleza',
     shortDescription: 'todo o site Simple Organic, inclusive nos produtos em promoção e nos kits',
     longDescription:
-      'O cupom Simple Organic S-EMCASACOMCECILIA dá 5% OFF em séruns, hidratantes, limpeza facial, maquiagem e body splash no site oficial e entra também nos produtos que já estão em promoção e nos kits. Testado num carrinho com kit, produto em promoção e produto a preço cheio.',
+      'O cupom Simple Organic S-EMCASACOMCECILIA dá 5% OFF em séruns, hidratantes, limpeza facial, maquiagem e body splash no site oficial, para quem compra pela primeira vez e para quem já é cliente, e entra também nos produtos que já estão em promoção e nos kits. Testado num carrinho com kit, produto em promoção e produto a preço cheio.',
     metaTitle: 'Cupom Simple Organic: 5% OFF em tudo com S-EMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Simple Organic: S-EMCASACOMCECILIA dá 5% OFF em séruns, hidratantes e maquiagem, inclusive em promoção e nos kits.',
+      'Cupom Simple Organic: S-EMCASACOMCECILIA dá 5% OFF em séruns, hidratantes e maquiagem para cliente novo ou antigo, inclusive em promoção e nos kits.',
     eligibleCategories: 'Todos os produtos do site oficial da Simple Organic, inclusive os que já estão em promoção e os kits',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2619,6 +2634,11 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O cupom S-EMCASACOMCECILIA vale para todos os produtos da Simple Organic?',
         answer:
           'Sim. O S-EMCASACOMCECILIA dá 5% OFF nos produtos do site oficial da Simple Organic: séruns, hidratantes, limpeza facial, maquiagem e body splash, inclusive os kits e os duos.',
+      },
+      {
+        question: 'Qual cupom Simple Organic dá 5% para quem já é cliente?',
+        answer:
+          'O S-EMCASACOMCECILIA. Ele dá 5% no site oficial da Simple Organic para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'O cupom soma com produtos em promoção?',

@@ -359,7 +359,7 @@ assert.deepEqual(getPendingLimitedCodes(linkWithWindows, Date.parse('2026-01-06T
 // A abertura da página de loja responde "tem cupom <loja>?": começa por "O cupom <loja>" e, nas lojas em que o código vale
 // para cliente novo e antigo, diz isso cedo (Bruno, 12/11/2026, a partir do teste da Insider no Perplexity).
 const storeNameFirst = ['damie', 'dolce-gusto', 'nestle-nutre', 'i-wanna-sleep', 'letseatit', 'insider', 'probiotica', 'max-titanium', 'dr-peanut', 'black-skull', 'clea-store', 'belive', 'mais-mu', 'skelt', 'bagaggio', 'toda-up', 'simple-organic', 'holyfoods', 'petz', 'hostinger'];
-const newAndReturning = ['damie', 'dolce-gusto', 'nestle-nutre', 'letseatit', 'insider', 'probiotica', 'max-titanium', 'dr-peanut', 'black-skull', 'clea-store', 'belive', 'mais-mu', 'bagaggio', 'holyfoods', 'petz', 'hostinger'];
+const newAndReturning = ['damie', 'dolce-gusto', 'nestle-nutre', 'i-wanna-sleep', 'skelt', 'toda-up', 'simple-organic', 'letseatit', 'insider', 'probiotica', 'max-titanium', 'dr-peanut', 'black-skull', 'clea-store', 'belive', 'mais-mu', 'bagaggio', 'holyfoods', 'petz', 'hostinger'];
 for (const slug of storeNameFirst) {
   const coupon = getCouponBySlug(slug);
   assert.ok(coupon?.longDescription.startsWith(`O cupom ${coupon.brand} `), `${slug}: a abertura começa por "O cupom ${coupon?.brand}"`);
