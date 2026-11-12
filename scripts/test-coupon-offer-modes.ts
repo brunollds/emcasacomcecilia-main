@@ -370,6 +370,13 @@ for (const slug of newAndReturning) {
   assert.ok((coupon?.metaDescription.length ?? 0) <= 155, `${slug}: metaDescription com mais de 155 caracteres`);
 }
 
+// O limite de usos do CECI por campanha é dado interno (Bruno, 12/11/2026): não sai nas páginas da Dolce Gusto nem da Nestlé Nutre.
+for (const slug of ['dolce-gusto', 'nestle-nutre']) {
+  const coupon = getCouponBySlug(slug);
+  const shown = [coupon?.reusable, coupon?.longDescription, coupon?.metaDescription, coupon?.eligibleCategories, coupon?.combinable, coupon?.offerMode === 'discount-code' ? coupon.testNote : '', ...(coupon?.faqs ?? []).flatMap((faq) => [faq.question, faq.answer])].join(' ');
+  assert.doesNotMatch(shown, /(3|três) (usos|vezes)/i, `${slug}: a página cita o limite de usos do CECI`);
+}
+
 // A pergunta "está funcionando hoje?" não repete a data do teste: ela envelhece a cada teste novo (a da Insider chamava
 // 31/10 de último teste com o de 11/11 já registrado). A data fica só em "Como testamos o cupom", e nenhuma resposta manda
 // olhar o topo da página, que desde o #874 mostra a validade.
