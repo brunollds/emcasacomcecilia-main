@@ -79439,6 +79439,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/como-evitar-mancha-de-suor-na-camisa-social-capa.webp",
+      "local_url": "/images/reviews/insider/como-evitar-mancha-de-suor-na-camisa-social-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 56186,
+      "sha256": "53f647b684a443f75126b6859a25950890c0236aae76941fd6d6528521646260",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "como-evitar-mancha-de-suor-na-camisa-social-capa.webp",
+      "storage_filename": "como-evitar-mancha-de-suor-na-camisa-social-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/como-evitar-mancha-de-suor-na-camisa-social.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/como-evitar-mancha-de-suor-na-camisa-social.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/como-evitar-mancha-de-suor-na-camisa-social-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 214444,
+          "column": 15,
+          "literal": "/images/reviews/insider/como-evitar-mancha-de-suor-na-camisa-social-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/53f647b684a443f75126b6859a25950890c0236aae76941fd6d6528521646260/como-evitar-mancha-de-suor-na-camisa-social-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/53f647b684a443f75126b6859a25950890c0236aae76941fd6d6528521646260/como-evitar-mancha-de-suor-na-camisa-social-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T01:54:54.184Z",
+      "verification_etag_or_digest": "53f647b684a443f75126b6859a25950890c0236aae76941fd6d6528521646260",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/cueca-insider-comfort-ou-performance-capa-v2.webp",
       "local_url": "/images/reviews/insider/cueca-insider-comfort-ou-performance-capa-v2.webp",
       "media_kind": "image",
@@ -82034,6 +82080,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T03:45:11.842Z",
       "verification_etag_or_digest": "4f6cfe461d5c043ff311337afb3446ea453aad8c3d60dba0766be53bba81bf3a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/mancha-suor-undershirt-moderado.webp",
+      "local_url": "/images/reviews/insider/mancha-suor-undershirt-moderado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 149900,
+      "sha256": "e8b2e70d92b3bf972728d2af93dcdcc58d2e0f0077d21425a0f5fa35fff3d430",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mancha-suor-undershirt-moderado.webp",
+      "storage_filename": "mancha-suor-undershirt-moderado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/como-evitar-mancha-de-suor-na-camisa-social.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/como-evitar-mancha-de-suor-na-camisa-social.json",
+          "line": 93,
+          "column": 19,
+          "literal": "/images/reviews/insider/mancha-suor-undershirt-moderado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 214514,
+          "column": 21,
+          "literal": "/images/reviews/insider/mancha-suor-undershirt-moderado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e8b2e70d92b3bf972728d2af93dcdcc58d2e0f0077d21425a0f5fa35fff3d430/mancha-suor-undershirt-moderado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e8b2e70d92b3bf972728d2af93dcdcc58d2e0f0077d21425a0f5fa35fff3d430/mancha-suor-undershirt-moderado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T01:54:54.185Z",
+      "verification_etag_or_digest": "e8b2e70d92b3bf972728d2af93dcdcc58d2e0f0077d21425a0f5fa35fff3d430",
       "verification_status": "verified"
     },
     {
