@@ -2920,9 +2920,11 @@ for (const { pagePath, store } of couponStorePages) {
     assert.equal(body.includes('href="#o-que-acumula"'), rows.length > 0, `${pagePath}: link para "O que acumula" sem a seção, ou a seção sem o link`);
     if (rows.length > 0) {
       const table = between(body, 'aria-labelledby="o-que-acumula"', ['</section>']);
-      assert.equal((table.match(/<th scope="row"/g) ?? []).length, rows.length, `${pagePath}: linhas de "O que acumula"`);
+      assert.equal((table.match(/<th role="rowheader"/g) ?? []).length, rows.length, `${pagePath}: linhas de "O que acumula"`);
       for (const row of rows) assert.ok(textOf(table).includes(row.condition), `${pagePath}: "O que acumula" sem a condição de ${row.benefit}`);
       assert.ok(between(body, 'aria-labelledby="regras"', ['</section>']).includes('href="#o-que-acumula"'), `${pagePath}: as regras sem o link para "O que acumula"`);
+      // No celular a linha é uma grade (a tabela de três colunas não cabe em 375 px), e a caixa não rola para o lado.
+      assert.ok(!table.includes('overflow-x-auto') && table.includes('md:table-row'), `${pagePath}: "O que acumula" voltou a ser tabela larga no celular`);
       assert.ok(at('regras') < at('o-que-acumula') && at('o-que-acumula') < at('como-usar'), `${pagePath}: "O que acumula" fora do lugar`);
     }
     assert.equal(at('nao-funcionou') !== -1, isPortuguese && isCode, `${pagePath}: "Por que o cupom não funcionou?" fora da regra`);
