@@ -354,13 +354,14 @@ for (const videoPage of videoPages) {
     checkUploadDate('página de vídeo', videoPage.slug, videoObject.uploadDate);
   }
 
-  // O <head>: título longo do YouTube pede seoTitle e descrição longa pede seoDescription (video-pages.js).
+  // O <head>: 65 e 160 caracteres são referência editorial, não limite técnico, e por isso só avisam.
+  // Título longo do YouTube pede seoTitle e descrição longa pede seoDescription (video-pages.js).
   const seo = getVideoPageSeo(videoPage);
   if (seo.documentTitle.length > 65) {
-    report('página de vídeo', videoPage.slug, `<title> com ${seo.documentTitle.length} caracteres (máximo 65): escreva um seoTitle de até 42`);
+    warn('página de vídeo', videoPage.slug, `<title> com ${seo.documentTitle.length} caracteres (referência: 65): vale um seoTitle de até 42`);
   }
   if (seo.description.length > 160) {
-    report('página de vídeo', videoPage.slug, `meta description com ${seo.description.length} caracteres (máximo 160): escreva uma seoDescription`);
+    warn('página de vídeo', videoPage.slug, `meta description com ${seo.description.length} caracteres (referência: 160): vale uma seoDescription`);
   }
 
   const sitemapEntry = sitemapEntries.find((entry) => entry.url === videoPage.canonicalUrl);

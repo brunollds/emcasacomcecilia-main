@@ -12,7 +12,7 @@ const BASE_URL = 'https://emcasacomcecilia.com';
 // redireciona para /watch) e 'square' para o MP4 quadrado. O validate:video exige um dos três.
 // seoTitle e seoDescription (opcionais): a versão curta para o <title> e a meta description, e para o
 // og e o twitter. O h1 e o VideoObject seguem com o título e a descrição reais do vídeo. O validate:video
-// cobra o seoTitle quando o <title> passa de 65 caracteres e a seoDescription quando a descrição passa de 160.
+// avisa, sem parar a build, quando o <title> passa de 65 caracteres ou a descrição passa de 160.
 const videoPageDefinitions = [
   {
     slug: 'rabanada-com-doce-de-leite-video',
