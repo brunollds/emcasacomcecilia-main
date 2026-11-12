@@ -144,7 +144,15 @@ Para cada oferta ativa, reconferir:
   percentual só onde ele já foi lido; a Hostinger, que não tem desconto no Pix, fica sem ela. A condição é uma frase sem
   ponto final, sem data, sem "até X%" com descontos somados, sem contagem de usos; a de outro cupom diz só
   a regra, sem citar código. Reconferir na rodada mensal, junto com o `combinable` e o `shipping`, que
-  dizem o mesmo por extenso;
+  dizem o mesmo por extenso. O `label` troca o nome do benefício quando a loja tem nome próprio para
+  ele (o "Giftback" da DAMIE);
+- `cartPrint`: o print do código aplicado no carrinho, no fim de "Como usar", só em português. É
+  demonstração visual (decisão do Bruno, 12/11/2026): não diz data de teste nem promete os valores da
+  imagem, e a legenda avisa que os valores mudam. Pode reaproveitar uma imagem do artigo "como usar o
+  cupom" da loja (`article`, `src` e o mesmo `alt`; a página ganha o link do passo a passo) ou ser um
+  print próprio da página, sem `article`. Só entra print que mostra o código e o percentual de
+  hoje: mudou a oferta, troca ou tira (o da Dolce Gusto ficou de fora porque mostra 5%). Loja sem print
+  fica sem o bloco; imagem nova entra pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`;
 - `videos`: os vídeos da loja (`platform` youtube, instagram, tiktok ou facebook, `url` e `title`). A
   seção "Vídeos" aparece antes das perguntas, só em português e só quando a loja tem vídeo; cada item
   abre na rede, em nova aba. Player dentro da página carrega script e cookies de terceiros e depende de

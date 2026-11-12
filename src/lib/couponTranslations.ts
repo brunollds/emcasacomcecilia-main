@@ -1477,6 +1477,8 @@ export const CODE_FIELD_POLICY = {
   relatedContent: 'drop',
   // A seção de vídeos só existe em PT.
   videos: 'drop',
+  // O print vem de um artigo em português.
+  cartPrint: 'drop',
   monthlyHighlight: 'translate',
   affiliateAccountId: 'pt',
   referral: 'pt',

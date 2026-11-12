@@ -2935,6 +2935,15 @@ for (const { pagePath, store } of couponStorePages) {
       assert.ok(at('como-usar') < at('nao-funcionou') && at('nao-funcionou') < at('sobre'), `${pagePath}: "Por que o cupom não funcionou?" fora do lugar`);
       if (at('como-testamos') !== -1) assert.ok(at('como-testamos') < at('nao-funcionou'), `${pagePath}: "Por que o cupom não funcionou?" antes do teste`);
     }
+    // O print do carrinho fecha "Como usar", só em português e só na loja que tem o print, com o link do passo a passo.
+    const print = isPortuguese ? store!.cartPrint : undefined;
+    assert.equal(body.includes('data-cart-print'), Boolean(print), `${pagePath}: print do carrinho fora da regra`);
+    if (print) {
+      const howTo = between(body, 'aria-labelledby="como-usar"', ['</section>']);
+      assert.ok(howTo.includes('data-cart-print'), `${pagePath}: o print do carrinho fora de "Como usar"`);
+      if (print.article) assert.ok(howTo.includes(`href="/reviews/${print.article}"`), `${pagePath}: o print sem o link do passo a passo`);
+      assert.ok(decodeHtml(howTo).includes(print.alt), `${pagePath}: o print sem o alt`);
+    }
     const videos = isPortuguese ? (store!.videos ?? []) : [];
     assert.equal(at('videos') !== -1, videos.length > 0, `${pagePath}: seção de vídeos fora da regra`);
     if (videos.length > 0) {

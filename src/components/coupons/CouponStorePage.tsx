@@ -7,6 +7,7 @@ import { getCouponLanguageLinks, getCouponStorePath } from '@/lib/couponTranslat
 import { getOtherActiveCoupons, getPendingLimitedCodes, type Coupon } from '@/lib/couponsData';
 import { LOCALES, LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+import ReviewInlineImage from '@/components/ReviewInlineImage';
 import { getCouponMetaTitle, getCurrentOfferMonthDate } from '@/lib/offerMonth';
 import { RevealSection } from '@/components/ui/RevealSection';
 import { getShellHomeHref } from '@/lib/i18n/shellDictionary';
@@ -255,6 +256,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
   const stackingRows = stackingCopy && couponCodeOffer?.stacking?.length ? couponCodeOffer.stacking : null;
   const failedCopy = couponCodeOffer ? copy.failed : undefined;
   const videosCopy = copy.videos;
+  const cartPrint = copy.cartPrint && coupon.cartPrint ? coupon.cartPrint : null;
   const videos = videosCopy && coupon.videos?.length ? coupon.videos : null;
   // O mês da oferta pelo calendário: do dia 20 em diante já vale o mês seguinte.
   const highlightDate = getCurrentOfferMonthDate();
@@ -488,7 +490,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                         className={`grid grid-cols-[minmax(0,1fr)_auto] gap-x-3 gap-y-1 px-3 py-3 md:table-row md:p-0 ${index > 0 ? 'border-t-2 border-marinho/15' : ''}`}
                       >
                         <th role="rowheader" scope="row" className="min-w-0 align-top text-[15px] font-extrabold leading-[22px] md:px-3 md:py-3">
-                          {stackingCopy.benefits[row.benefit]}
+                          {row.label ?? stackingCopy.benefits[row.benefit]}
                         </th>
                         <td role="cell" className="align-top text-[15px] font-bold leading-[22px] md:px-3 md:py-3">
                           {stackingCopy.answers[row.stacks]}
@@ -542,6 +544,36 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                   : affiliateLinkOffer?.linkNote || copy.defaultLinkNote
               }
             />
+            {copy.cartPrint && cartPrint && (
+              <div data-cart-print className="mt-5">
+                {/* Print alto (resumo de pedido no celular) não ocupa a tela toda: a largura cai até a altura caber em ~420px. */}
+                <div className="mx-auto" style={{ maxWidth: Math.max(200, Math.round(420 * cartPrint.aspectRatio)) }}>
+                  <ReviewInlineImage
+                    locale={locale}
+                    reviewTitle={coupon.brand}
+                    // O componente é JS e o tipo inferido exige as três; aqui não há loja de artigo.
+                    store={undefined}
+                    stores={undefined}
+                    reviewSlug={undefined}
+                    section={{
+                      image: { src: cartPrint.src, alt: cartPrint.alt, aspectRatio: cartPrint.aspectRatio, objectFit: 'contain' },
+                    }}
+                  />
+                </div>
+                <p className={`mt-3 ${BODY_TEXT}`}>
+                  {copy.cartPrint.caption}
+                  {cartPrint.article && (
+                    <>
+                      {' '}
+                      <Link href={`/reviews/${cartPrint.article}`} className={INLINE_LINK}>
+                        {copy.cartPrint.stepsLabel}
+                      </Link>
+                      .
+                    </>
+                  )}
+                </p>
+              </div>
+            )}
           </section>
 
           {testedAt && (

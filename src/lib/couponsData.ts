@@ -95,6 +95,9 @@ interface CouponBase {
   // "Vídeos" (#videos), antes das perguntas, só em português e só quando a loja tem vídeo de verdade. Cada item
   // abre na rede em que foi publicado; o endereço tem de ser https e do domínio da rede (STORE_VIDEO_HOSTS).
   videos?: StoreVideo[];
+  // Print do código no carrinho, no fim de "Como usar", só em português. Só entra print que mostra o código e o
+  // percentual de hoje; trocou a oferta, troca ou tira o print.
+  cartPrint?: CartPrint;
   monthlyHighlight?: {
     scope: string;
     note: string;
@@ -136,7 +139,13 @@ export type CouponCodeOffer = CouponBase & {
 // 'depende' cobre o que tem condição (o mínimo do frete grátis, o cashback que conta depois do desconto).
 // Descontos em sequência nunca são somados na condição (15% e 2% dão 16,7%), e a linha de outro cupom diz só a regra.
 export type StackingBenefit = 'promocoes' | 'retirada' | 'pix' | 'cashback' | 'outro-cupom' | 'frete';
-export type StackingRow = { benefit: StackingBenefit; stacks: 'sim' | 'nao' | 'depende'; condition: string };
+// `label` troca o nome do benefício quando a loja tem um nome próprio para ele (o giftback da DAMIE).
+export type StackingRow = { benefit: StackingBenefit; stacks: 'sim' | 'nao' | 'depende'; condition: string; label?: string };
+
+// O print do código aplicado no carrinho. Pode ser o mesmo de um artigo "como usar o cupom" da loja (`article` é o
+// slug dele, e a página ganha o link do passo a passo) ou um print próprio da página, sem `article`.
+// É demonstração visual: não diz a data do teste nem promete os valores da imagem. `aspectRatio` é largura / altura.
+export type CartPrint = { article?: string; src: string; alt: string; aspectRatio: number };
 
 export type StoreVideoPlatform = 'youtube' | 'instagram' | 'tiktok' | 'facebook';
 export type StoreVideo = { platform: StoreVideoPlatform; url: string; title: string };
@@ -202,6 +211,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'damie',
+    cartPrint: { article: 'cupom-cecilia12-como-usar', src: '/images/reviews/cupom-cecilia12/4-confirme-desconto.png', alt: 'Resumo do pedido da Damie com desconto aplicado.', aspectRatio: 0.452 },
     brand: 'DAMIE',
     officialUrl: 'https://damie.com.br',
     offerUrl: 'https://damie.com.br',
@@ -235,7 +245,7 @@ const STORE_COUPONS: Coupon[] = [
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Soma com as promoções e descontos do site e com o desconto por quantidade dos consultores no WhatsApp' },
       { benefit: 'pix', stacks: 'sim', condition: 'A DAMIE dá 10% no Pix, e os 12% do cupom entram sobre o preço já com o Pix' },
-      { benefit: 'cashback', stacks: 'nao', condition: 'Não soma com o giftback de 15% da loja' },
+      { benefit: 'cashback', label: 'Giftback', stacks: 'nao', condition: 'Não soma com o giftback de 15% da loja' },
       { benefit: 'outro-cupom', stacks: 'nao', condition: 'O cupom não soma com outro cupom' },
     ],
     lastVerified: '2026-11-11',
@@ -628,6 +638,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'nestle-nutre',
+    cartPrint: { article: 'cupom-ceci-nestle-nutre-como-usar', src: '/images/reviews/nutren/passo-4-cupom-aplicado-10.webp', alt: 'Resumo do pedido na loja da Nestlé Nutre com o cupom CECI aplicado: subtotal de R$ 1.121,84, desconto de R$ 112,18 (10%) e total de R$ 1.009,66.', aspectRatio: 0.562 },
     brand: 'Nestlé Nutre',
     officialUrl: 'https://www.nestlenutre.com.br/',
     offerUrl: 'https://www.nestlenutre.com.br/',
@@ -756,6 +767,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'i-wanna-sleep',
+    cartPrint: { article: 'cupom-ceciemcasa-i-wanna-sleep-como-usar', src: '/images/reviews/iwannasleep/4-confirme-desconto.webp', alt: 'Desconto do cupom CECIEMCASA aplicado na I Wanna Sleep.', aspectRatio: 1.196 },
     brand: 'I Wanna Sleep',
     officialUrl: 'https://www.iwannasleep.com.br',
     offerUrl: 'https://www.iwannasleep.com.br',
@@ -788,7 +800,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable: 'Soma com as promoções vigentes da loja oficial',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço promocional dos produtos da loja' },
-      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com os 5% de desconto do Pix, que a loja mostra na página do produto' },
     ],
     lastVerified: '2026-11-11',
     limitedCodes: [
@@ -870,6 +882,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'magalu',
+    cartPrint: { article: 'cupom-magalu-em-casa-com-cecilia', src: '/images/reviews/magalu/magalu-cupom-aplicado.webp', alt: 'Campo de cupom com desconto aplicado no checkout', aspectRatio: 2.812 },
     brand: 'Magalu',
     officialUrl: 'https://www.magazineluiza.com.br/',
     offerUrl: 'https://www.magazinevoce.com.br/magazineemcasacomcecilia/',
@@ -1007,6 +1020,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'letseatit',
+    cartPrint: { article: 'cupom-mauad-lets-eat-it-como-usar', src: '/images/reviews/letseatit/passo-4-desconto-mauad-resumo.webp', alt: 'Resumo do pedido na Let\'s Eat It: subtotal de R$ 3.582,10, desconto MAUAD de R$ 179,10, frete calculado na próxima etapa e total de R$ 3.403,00', aspectRatio: 2.686 },
     brand: "Let's Eat It",
     officialUrl: 'https://letseatit.com.br/',
     offerUrl:
@@ -1127,6 +1141,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'insider',
+    cartPrint: { article: 'cupom-emcasacomcecilia-insider-store-como-usar', src: '/images/reviews/insider/insider-passo-4-desconto-ativado.webp', alt: 'Mensagem Melhor desconto ativado no checkout da Insider, com a etiqueta do cupom EMCASACOMCECILIA abaixo do campo Cupom de desconto ou Gift Card', aspectRatio: 1.343 },
     brand: 'Insider',
     officialUrl: 'https://www.insiderstore.com.br/',
     offerUrl:
@@ -1439,6 +1454,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'probiotica',
+    cartPrint: { article: 'cupom-probiotica-como-usar', src: '/images/reviews/probiotica/probiotica-cupom-03-desconto-aplicado.webp', alt: 'Resumo do pedido da Probiótica depois do cupom, com o código no lugar do campo e a linha Descontos com sinal de menos entre o subtotal e o total', aspectRatio: 1.021 },
     brand: 'Probiótica',
     officialUrl: 'https://www.probiotica.com.br/',
     offerUrl: 'https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi',
@@ -1466,7 +1482,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional; o percentual do desconto varia por produto' },
-      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, que varia por produto e chega a 5%' },
     ],
     lastVerified: '2026-11-11',
     testedAt: '2026-11-11',
@@ -1557,6 +1573,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'max-titanium',
+    cartPrint: { article: 'cupom-max-titanium-como-usar', src: '/images/reviews/max-titanium/max-titanium-cupom-03-desconto-aplicado.webp', alt: 'Carrinho da Max Titanium depois do cupom, com o código no resumo e no item, a linha Descontos de menos R$ 16,75 e o total de R$ 172,25', aspectRatio: 2.676 },
     brand: 'Max Titanium',
     officialUrl: 'https://www.maxtitanium.com.br/',
     offerUrl: 'https://www.maxtitanium.com.br/',
@@ -1585,7 +1602,7 @@ const STORE_COUPONS: Coupon[] = [
       'Soma com as promoções vigentes do site e com os brindes do carrinho, e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional, e os brindes do carrinho continuam nele; o percentual varia por produto' },
-      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, que varia por produto e chega a 5%' },
     ],
     lastVerified: '2026-11-11',
     testedAt: '2026-11-11',
@@ -1675,6 +1692,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'dr-peanut',
+    cartPrint: { article: 'cupom-dr-peanut-como-usar', src: '/images/reviews/dr-peanut/dr-peanut-cupom-03-desconto-aplicado.webp', alt: 'Resumo do carrinho da Dr. Peanut depois do cupom: código DREMCASACOMCECILIA aceito, Subtotal de R$ 440,16, Descontos de R$ 44,02 e Total de R$ 396,14', aspectRatio: 1.042 },
     brand: 'Dr. Peanut',
     officialUrl: 'https://www.drpeanut.com.br/',
     offerUrl: 'https://www.drpeanut.com.br/',
@@ -1779,6 +1797,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'black-skull',
+    cartPrint: { article: 'cupom-black-skull-como-usar', src: '/images/reviews/black-skull/black-skull-cupom-03-desconto-aplicado.webp', alt: 'Quadro da sacola da Black Skull depois do Adicionar, com CECILIA10 aplicado, Descontos de R$ -36,44 e total de R$ 327,89', aspectRatio: 0.848 },
     brand: 'Black Skull',
     officialUrl: 'https://www.blackskullusa.com.br/',
     offerUrl: 'https://www.blackskullusa.com.br/',
@@ -1951,6 +1970,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'clea-store',
+    cartPrint: { article: 'cupom-clea-store-como-usar', src: '/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp', alt: 'Checkout da Cléa Store depois do cupom, com a linha Desconto de menos R$ 25,80, o Cupom aplicado CSEMCASACOMCECILIA e o cashback de até R$ 23,22', aspectRatio: 0.931 },
     brand: 'Cléa Store',
     officialUrl: 'https://www.cleastore.com.br/',
     offerUrl: 'https://www.cleastore.com.br/',
@@ -2061,6 +2081,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'belive',
+    cartPrint: { article: 'cupom-belive-como-usar', src: '/images/reviews/belive/cupom-belive-resumo-desconto.webp', alt: 'Resumo do pedido da Belive depois do cupom, com o desconto de R$ 57,68, o total de R$ 519,14 e o total no Pix de R$ 493,18 marcados em amarelo', aspectRatio: 1.24 },
     brand: 'Belive',
     officialUrl: 'https://belivebefree.com.br/',
     offerUrl: 'https://belivebefree.com.br/',
@@ -2181,6 +2202,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'mais-mu',
+    cartPrint: { article: 'cupom-mais-mu-como-usar', src: '/images/reviews/mais-mu/mais-mu-cupom-03-desconto-aplicado.webp', alt: 'Resumo do pedido com o cupom aplicado: subtotal de R$ 239,89, Desconto do cupom de R$ 23,99, total de R$ 215,90 e Cupom MMEMCASACOMCECILIA', aspectRatio: 1.017 },
     brand: 'Mais Mu',
     officialUrl: 'https://www.lojamaismu.com.br/',
     offerUrl: 'https://www.lojamaismu.com.br/',
@@ -2314,6 +2336,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'skelt',
+    cartPrint: { article: 'cupom-skelt-como-usar', src: '/images/reviews/skelt/cupom-skelt-sacola-com-cupom.webp', alt: 'Sacola da Skelt com o cupom SKEMCASACOMCECILIA aplicado no campo Cupom de desconto, com a linha do produto já com o desconto e o resumo ao lado', aspectRatio: 1.82 },
     brand: 'Skelt',
     officialUrl: 'https://www.skelt.com.br/',
     offerUrl: 'https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz',
@@ -2446,6 +2469,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'bagaggio',
+    cartPrint: { article: 'cupom-bagaggio-como-usar', src: '/images/reviews/bagaggio/cupom-sacola-com-cupom.webp', alt: 'Sacola da Bagaggio com o CECILIA10 aplicado: etiqueta no campo Cupom de desconto, subtotal de R$ 179,90, descontos de R$ 17,99 e total de R$ 161,91', aspectRatio: 1.306 },
     brand: 'Bagaggio',
     officialUrl: 'https://www.bagaggio.com.br/',
     offerUrl: 'https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz',
