@@ -27,6 +27,7 @@ import {
   type ReviewCategory,
 } from '@/lib/reviewDiscovery';
 import {
+  NEW_ROW_LIMIT,
   OTHERS_SHELF_PATH,
   getOthersShelfContent,
   getReviewsHubContent,
@@ -170,11 +171,34 @@ assert.deepEqual(slugs(hub.articles), [
   'magalu-4',
 ]);
 assert.deepEqual(slugs(hub.newArticles), ['poltrona-damie', 'agua'], 'Novidades: só os listados com isNew');
+assert.equal(hub.newArticlesTotal, 2, 'Novidades: o total é o de artigos com isNew');
 assert.equal(
   hub.intro,
   '9 guias e análises. Guias práticos, experiências reais quando existem e análises baseadas em dados e fontes declaradas.'
 );
-assert.equal(getReviewsHubContent(fixture.map((item) => ({ ...item, isNew: false })), fixtureStores).newArticles.length, 0);
+const noneNew = getReviewsHubContent(fixture.map((item) => ({ ...item, isNew: false })), fixtureStores);
+assert.equal(noneNew.newArticles.length, 0);
+assert.equal(noneNew.newArticlesTotal, 0);
+
+// Novidades: no máximo NEW_ROW_LIMIT artigos, os mais novos pela data, qualquer que seja a ordem de entrada.
+assert.equal(NEW_ROW_LIMIT, 12);
+const newOnDay = (day: number) =>
+  review(100 + day, `novo-${day}`, { publishedAtISO: `2026-11-${String(day).padStart(2, '0')}`, isNew: true });
+const flaggedDays = Array.from({ length: NEW_ROW_LIMIT + 3 }, (_, index) => index + 1);
+const overLimit = getReviewsHubContent([...flaggedDays.map(newOnDay), review(200, 'antigo', { publishedAtISO: '2026-11-30' })], []);
+assert.deepEqual(
+  slugs(overLimit.newArticles),
+  [...flaggedDays]
+    .reverse()
+    .slice(0, NEW_ROW_LIMIT)
+    .map((day) => `novo-${day}`),
+  'Novidades: os 12 mais novos com isNew'
+);
+assert.equal(overLimit.newArticlesTotal, NEW_ROW_LIMIT + 3);
+assert.equal(overLimit.articles.filter(({ isNew }) => isNew).length, NEW_ROW_LIMIT + 3, 'o selo Novo da estante não muda');
+const atLimit = getReviewsHubContent(flaggedDays.slice(0, NEW_ROW_LIMIT).map(newOnDay), []);
+assert.equal(atLimit.newArticles.length, NEW_ROW_LIMIT);
+assert.equal(atLimit.newArticlesTotal, NEW_ROW_LIMIT);
 
 const poltrona = article('poltrona-damie');
 assert.equal(poltrona.href, '/reviews/poltrona-damie');
@@ -531,7 +555,9 @@ assert.throws(
 const listed = sortReviewsByPublishedAt(getListedPortugueseReviews(publishedReviews));
 const real = getReviewsHubContent(publishedReviews);
 assert.deepEqual(slugs(real.articles), slugs(listed));
-assert.deepEqual(slugs(real.newArticles), slugs(listed.filter(({ isNew }) => isNew)));
+const realNew = listed.filter(({ isNew }) => isNew);
+assert.deepEqual(slugs(real.newArticles), slugs(realNew.slice(0, NEW_ROW_LIMIT)));
+assert.equal(real.newArticlesTotal, realNew.length);
 const realOthers = getOthersShelfContent(publishedReviews);
 const realPageStores = sortStoresByNewestArticle(
   getStoreArticlePageSlugs(publishedReviews).map((slug) => store(slug)),
