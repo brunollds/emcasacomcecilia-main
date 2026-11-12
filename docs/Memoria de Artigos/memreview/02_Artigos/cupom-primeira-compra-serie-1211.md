@@ -90,8 +90,10 @@ Sem quadro `decision`: não há dois benefícios para escolher.
   artigo não contradiz a página.
 - **Nunca citar cupom que não é o nosso:** nem de terceiros (agregador, influenciador, imprensa), nem o da
   própria loja (código, percentual, pop-up, newsletter, raspadinha, app). Decisão do Bruno de 12/11.
-- **Cliente antigo:** a frase "vale para quem já comprou" só entra com fato (FAQ publicado ou palavra do Bruno). Em
-  12/11 o Bruno confirmou a Skelt, a I Wanna Sleep, a Toda Up, a Simple Organic e a Cléa Store.
+- **Cliente antigo:** todos os nossos códigos valem para cliente novo e antigo (Bruno, 12/11). A frase "vale
+  para quem já comprou" entra em todo artigo da série. O único com limite é o CECI da Dolce Gusto, por campanha:
+  dado interno, que o artigo não cita. Mecânica própria segue à parte: o SONAR20 da Hostinger não vale em
+  renovação, e o CECILIA010 da YesStyle dá percentual menor depois da primeira compra.
 - **Pix:** o cupom soma com o desconto do Pix por padrão, salvo quando a loja avisa o contrário (Bruno, 12/11).
 - **Link para `/cupons/<loja>`** com a âncora "cupom <loja>", e para o "como usar" da loja.
 - **Catraca:** até 2 datas no corpo, nenhuma em título, legenda ou FAQ; subtítulo de até 180 caracteres.

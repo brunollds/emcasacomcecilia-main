@@ -19,8 +19,9 @@ Valem sobre o molde e sobre o que as fichas propõem nas seções 5 e 7.
   Mu, Skelt, Toda Up, Black Skull e Nestlé Nutre). O que a pesquisa leu fica nas fichas como contexto interno.
 - **O artigo responde com o nosso código:** qual é, quanto dá, onde vale, o que o primeiro pedido exige e que ele
   segue valendo nas compras seguintes. Sem tabela de escolha entre benefícios.
-- **Cliente antigo:** o código vale para quem já comprou na Skelt, na I Wanna Sleep, na Toda Up e na Simple Organic.
-  A onda 3 deixa de esperar: os quatro artigos saem com o capítulo das compras seguintes.
+- **Cliente antigo:** todos os nossos códigos valem para cliente novo e antigo; a frase entra em todo artigo. O
+  único com limite é o CECI da Dolce Gusto, por campanha: dado interno, que o artigo não cita. A onda 3 deixa de
+  esperar. Onde uma ficha marca "compras seguintes: pendente", vale esta decisão.
 - **Bagaggio:** sem falar do cupom do site nem do app. Pode dizer que o CECILIA10 é um dos melhores cupons para a
   primeira compra, no site ou no app. A frase é só da Bagaggio.
 - **Magalu:** artigo curto. **Lejour:** fora da série.
