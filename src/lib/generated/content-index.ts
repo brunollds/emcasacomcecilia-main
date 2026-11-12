@@ -215036,10 +215036,10 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto fica com o Pix",
         "paragraphs": [
           "No Pix, os dois descontos entram, um depois do outro: primeiro o do Pix, depois os 12% do código sobre o que sobrou. A loja informa: o Pix à vista tem 10% de desconto, e o cartão parcela em até 12 vezes sem juros.",
-          "No nosso teste, com o puff avulso do Sofá Damie Modular no carrinho, ficou assim:"
+          "No teste do cupom de 11/11/2026, registrado na nossa página de cupom, o puff avulso do Sofá Damie Modular ficou assim:"
         ],
         "comparisonTable": {
-          "caption": "Teste no carrinho em 11/11/2026, com o puff avulso do Sofá Damie Modular.",
+          "caption": "Puff avulso do Sofá Damie Modular: valores do teste no carrinho, antes do frete.",
           "headers": [
             "Etapa",
             "Valor"
@@ -215100,6 +215100,470 @@ export const reviewsData: unknown[] = [
           "Qual cupom DAMIE vale para quem já é cliente? O mesmo CECILIA12, sem limite de usos por CPF.",
           "O cupom DAMIE de primeira compra soma com o Pix? Sim. O código entra sobre o preço que já tem o desconto do Pix e soma também com as promoções do site. A conta está no capítulo do Pix.",
           "O cupom vale no Mercado Livre? Não. O CECILIA12 só vale no site oficial da DAMIE; nos anúncios da marca no Mercado Livre vale o preço do anúncio."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 912,
+    "slug": "cupom-skelt-primeira-compra",
+    "title": "Cupom Skelt primeira compra: SKEMCASACOMCECILIA dá 10% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom Skelt primeira compra: 10% OFF com SKEMCASACOMCECILIA",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O SKEMCASACOMCECILIA dá 10% em todo o site da Skelt no primeiro pedido e nos seguintes, com kits e combos. Veja o que o pedido exige e como o Pix entra.",
+    "metaDescription": "Para a primeira compra na Skelt, use SKEMCASACOMCECILIA: 10% OFF em todo o site, inclusive kits. O mesmo código vale para quem já comprou.",
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/skelt/cupom-skelt-primeira-compra-capa.webp",
+    "imageAlt": "Frasco do Body Splash Pink Sands da Skelt, em composição oficial com frutas e flores, ao lado da chamada Cupom Skelt primeira compra e do código SKEMCASACOMCECILIA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Skelt pelo botão, monte a sacola e cole o SKEMCASACOMCECILIA no campo Cupom de desconto.",
+      "label": "Ir para a Skelt",
+      "url": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "SKEMCASACOMCECILIA",
+    "affiliate": "skelt",
+    "editorialNote": "Cupom testado no carrinho oficial da Skelt. Podemos receber comissão pelo SKEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-skelt-como-usar"
+      },
+      {
+        "slug": "skelt-e-confiavel"
+      },
+      {
+        "slug": "skelt-reclame-aqui-nota-reputacao"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na Skelt, use SKEMCASACOMCECILIA: 10% OFF em todos os produtos do site, kits e combos inclusive. O desconto soma com o Pix e com as promoções, e o mesmo código vale para quem já comprou. Ele não soma com outro cupom; a regra do frete por região está abaixo."
+        ]
+      },
+      {
+        "heading": "Cupom Skelt primeira compra: qual usar",
+        "paragraphs": [
+          "Use o SKEMCASACOMCECILIA: 10% OFF em todos os produtos do site, kits e combos inclusive, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
+          "É o [cupom Skelt](/cupons/skelt) da nossa parceria com a marca, testado no carrinho. A loja aceita um cupom por pedido: se houver outro no campo, aplique SKEMCASACOMCECILIA e confira o desconto no resumo."
+        ]
+      },
+      {
+        "heading": "O que o primeiro pedido exige",
+        "paragraphs": [
+          "Para o primeiro pedido, confira onde o código vale, o frete do seu endereço e as condições de brinde, quando houver campanha:"
+        ],
+        "bullets": [
+          "**Site oficial.** O código entra pela sacola do site. A Skelt não tem aplicativo, e o cupom não vale no Mercado Livre.",
+          "**Um cupom por pedido.** Aplicar outro código troca o anterior.",
+          "**Frete por região.** A loja informa: o frete é grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste, e a partir de R$ 199 no Norte e no Nordeste, contados sobre o valor final do pedido.",
+          "**Brinde, quando houver campanha.** O mínimo do brinde também conta o pedido depois dos descontos. Se o cupom deixar o total abaixo dele, o brinde sai do carrinho."
+        ],
+        "postParagraphs": [
+          "No Norte e no Nordeste, confira o frete depois de aplicar o código e escolher o pagamento. O valor final pode ficar abaixo do mínimo, mesmo que o pedido estivesse acima dele antes dos descontos."
+        ]
+      },
+      {
+        "heading": "Kit em promoção: onde entram o código e o Pix",
+        "paragraphs": [
+          "O SKEMCASACOMCECILIA entra sobre o preço que já está em promoção. No teste do cupom de 11/11/2026, registrado na nossa página de cupom, o kit de três body splashes ficou assim:"
+        ],
+        "comparisonTable": {
+          "caption": "Kit Fragrâncias: promoção e código no teste do carrinho, antes do Pix e do frete.",
+          "headers": [
+            "Etapa",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Preço do kit",
+              "R$ 297,00"
+            ],
+            [
+              "Na promoção do site",
+              "R$ 237,60"
+            ],
+            [
+              "Com o SKEMCASACOMCECILIA",
+              "R$ 213,84"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Conta nossa, pelos valores do teste: promoção e código juntos tiraram 28% do preço do kit. No Pix, a loja tira mais 5%, e esse desconto entra por último, sobre o total que já tem o código.",
+          "A oferta do dia pode ser outra. Aplique o código ao preço promocional e, se escolher Pix, confira os 5% adicionais no resumo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/cupom-skelt-primeira-compra-body-splash-amalfi-sunset.webp",
+            "alt": "Frasco laranja do Body Splash Amalfi Sunset da Skelt, em foto oficial de frente.",
+            "caption": "Body Splash Amalfi Sunset, um dos três do Kit Fragrâncias usado no teste do cupom. Foto: Skelt.",
+            "objectFit": "square",
+            "href": "https://www.skelt.com.br/kit-solarmuse-hiddenflowers-splashamalfi/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "Você pode usar o SKEMCASACOMCECILIA de novo: ele dá os mesmos 10% para quem já comprou. Serve para repor o autobronzeador que acabou ou levar o body splash que ficou para depois."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "O código vai na sacola, antes de escolher a forma de pagamento:"
+        ],
+        "bullets": [
+          "Monte a sacola no site oficial da Skelt.",
+          "No campo de cupom de desconto, cole SKEMCASACOMCECILIA e aplique.",
+          "Confira o desconto no resumo do pedido. Só depois escolha como pagar."
+        ],
+        "postParagraphs": [
+          "O passo a passo com as telas da sacola está em [como usar o cupom SKEMCASACOMCECILIA](/reviews/cupom-skelt-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Skelt de primeira compra? Sim. O SKEMCASACOMCECILIA dá 10% em todos os produtos do site, no primeiro pedido e nos seguintes.",
+          "Qual cupom Skelt vale para quem já é cliente? O mesmo SKEMCASACOMCECILIA, com os mesmos 10%.",
+          "O cupom Skelt soma com o Pix? Sim, e com as promoções do site. O desconto do Pix entra depois do código; a ordem está no capítulo da conta.",
+          "O cupom Skelt vale no Mercado Livre? Não. Ele vale no site oficial, pela sacola."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 913,
+    "slug": "cupom-probiotica-primeira-compra",
+    "title": "Cupom Probiótica primeira compra: PRO10EMCASACOMCECILIA dá até 10% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom Probiótica primeira compra: PRO10EMCASACOMCECILIA",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O PRO10EMCASACOMCECILIA dá até 10% no site oficial da Probiótica, no primeiro pedido e nos seguintes. Veja como o desconto varia por produto e o que o frete exige.",
+    "metaDescription": "Para a primeira compra na Probiótica, use PRO10EMCASACOMCECILIA: até 10% OFF no site oficial, conforme o produto. O mesmo código vale para quem já comprou.",
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/probiotica/cupom-probiotica-primeira-compra-capa.webp",
+    "imageAlt": "Pote do Hiper 100% Whey da Probiótica, sabor chocolate, em foto oficial de perto, ao lado da chamada Cupom Probiótica primeira compra e do código PRO10EMCASACOMCECILIA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Probiótica pelo botão e cole o PRO10EMCASACOMCECILIA no campo Cupom de Desconto do carrinho.",
+      "label": "Ir para a Probiótica",
+      "url": "https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+      "sponsored": true
+    },
+    "coupon": "PRO10EMCASACOMCECILIA",
+    "affiliate": "probiotica",
+    "editorialNote": "Cupom testado no carrinho oficial da Probiótica. Podemos receber comissão pelo PRO10EMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-probiotica-como-usar"
+      },
+      {
+        "slug": "probiotica-e-confiavel"
+      },
+      {
+        "slug": "probiotica-reclame-aqui-nota-reputacao"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na Probiótica, use PRO10EMCASACOMCECILIA: até 10% OFF no site oficial. O percentual varia por produto, e o mesmo código vale para quem já comprou. Ele soma com as promoções e com o Pix e não vale no Mercado Livre; o mínimo do frete grátis de cada região está abaixo."
+        ]
+      },
+      {
+        "heading": "Cupom Probiótica primeira compra: qual usar",
+        "paragraphs": [
+          "Use o PRO10EMCASACOMCECILIA: até 10% OFF no site oficial. O desconto é por produto, com teto de 10%, e vale no primeiro pedido e nos seguintes.",
+          "É o [cupom Probiótica](/cupons/probiotica) da nossa parceria com a marca, testado no carrinho. O resumo do pedido mostra o desconto aplicado em cada item."
+        ]
+      },
+      {
+        "heading": "O que o primeiro pedido exige",
+        "paragraphs": [
+          "O mínimo para frete grátis muda por região. Para saber se o pedido o alcança, considere o valor final dos produtos depois dos descontos:",
+          "O código entra no carrinho do site oficial, no campo “Cupom de Desconto”. A Probiótica não tem aplicativo. E o desconto varia por produto: alguns itens recebem os 10%, outros menos."
+        ],
+        "comparisonTable": {
+          "caption": "Frete grátis da Probiótica por região, pela política de frete da loja.",
+          "headers": [
+            "Região",
+            "Frete grátis a partir de"
+          ],
+          "rows": [
+            [
+              "São Paulo (capital)",
+              "R$ 104,00"
+            ],
+            [
+              "Sudeste",
+              "R$ 134,00"
+            ],
+            [
+              "Centro-Oeste",
+              "R$ 204,00"
+            ],
+            [
+              "Sul",
+              "R$ 249,00"
+            ],
+            [
+              "Nordeste",
+              "R$ 299,00"
+            ],
+            [
+              "Norte",
+              "R$ 599,00"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A loja informa: se o cupom deixar o valor final abaixo do mínimo da sua região, o frete pode ser cobrado. O frete grátis vale na forma de envio mais barata; quem escolhe o Sedex paga o frete.",
+          "Está perto do mínimo? Aplique o código e olhe o frete de novo antes de pagar."
+        ]
+      },
+      {
+        "heading": "Por que o desconto pode ficar abaixo de 10%",
+        "paragraphs": [
+          "O código pode entrar sobre um produto em promoção sem aplicar os 10% cheios. No teste do cupom de 11/11/2026, registrado na nossa página de cupom, o Hiper 100% Whey de 900 g ficou assim:"
+        ],
+        "comparisonTable": {
+          "caption": "Hiper 100% Whey de 900 g: valores do teste no carrinho, antes do Pix e do frete.",
+          "headers": [
+            "Etapa",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Preço do whey",
+              "R$ 210,39"
+            ],
+            [
+              "Na promoção do site",
+              "R$ 124,90"
+            ],
+            [
+              "Com o PRO10EMCASACOMCECILIA",
+              "R$ 116,16"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Conta nossa, pelos valores do teste: o código tirou 7% do preço em promoção. Numa creatina a preço cheio, no mesmo teste, o percentual foi menor. É por isso que o desconto é “até 10%”: o carrinho mostra quanto cada item recebeu.",
+          "Antes do Pix, o preço desse whey supera o mínimo para São Paulo capital, mas não o do restante do Sudeste. O código soma com o desconto do Pix; confira no pagamento se o valor final atende ao mínimo da sua região e qual modalidade de envio oferece a isenção."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/cupom-probiotica-primeira-compra-hiper-whey-900g.webp",
+            "alt": "Pote azul do Hiper 100% Whey da Probiótica, 900 g, sabor chocolate, em foto oficial de frente.",
+            "caption": "Hiper 100% Whey de 900 g usado no teste do cupom no carrinho. Foto: Probiótica.",
+            "objectFit": "square",
+            "href": "https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+          }
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "Quem já comprou também pode usar PRO10EMCASACOMCECILIA, com até 10% de desconto por produto. O percentual depende do item; cliente novo e antigo usam o mesmo código para comprar no site oficial."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "O código vai no carrinho, antes do pagamento:"
+        ],
+        "bullets": [
+          "Coloque os produtos no carrinho do site oficial da Probiótica.",
+          "No campo “Cupom de Desconto”, cole PRO10EMCASACOMCECILIA, sem espaços, e aplique.",
+          "Confira a linha de descontos e o frete. Só depois pague."
+        ],
+        "postParagraphs": [
+          "O passo a passo com as telas do carrinho está em [como usar o cupom PRO10EMCASACOMCECILIA](/reviews/cupom-probiotica-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Probiótica de primeira compra? Sim. O PRO10EMCASACOMCECILIA dá até 10% no site oficial, no primeiro pedido e nos seguintes.",
+          "Qual cupom Probiótica vale para quem já é cliente? O mesmo PRO10EMCASACOMCECILIA, com o mesmo teto de 10%.",
+          "O cupom Probiótica soma com o Pix e com as promoções? Sim, com os dois. O percentual do código varia por produto; o exemplo está no capítulo da conta.",
+          "O cupom Probiótica vale no Mercado Livre? Não. Ele vale só no site oficial da Probiótica."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 914,
+    "slug": "cupom-insider-primeira-compra",
+    "title": "Cupom Insider primeira compra: EMCASACOMCECILIA dá 15% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom Insider primeira compra: 15% OFF com EMCASACOMCECILIA",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O EMCASACOMCECILIA dá 15% na loja online da Insider no primeiro pedido e nos seguintes, sem valor mínimo. Veja o que fica fora, o que soma e o que o pedido exige no checkout.",
+    "metaDescription": "Para a primeira compra na Insider, use EMCASACOMCECILIA: 15% OFF nos produtos elegíveis da loja online, sem valor mínimo. Vale também para quem já comprou.",
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/insider/cupom-insider-primeira-compra-capa.webp",
+    "imageAlt": "Modelo com a Daily T-shirt azul da Insider, em foto oficial, ao lado da chamada Cupom Insider primeira compra e do código EMCASACOMCECILIA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre na Insider pelo link da parceria e confira se EMCASACOMCECILIA aparece no carrinho. Se precisar, digite o código e veja os 15% nos produtos elegíveis antes de pagar.",
+      "label": "Ir para a Insider",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Cupom testado no checkout oficial da Insider. Podemos receber comissão pelo EMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar"
+      },
+      {
+        "slug": "insider-store-e-confiavel"
+      },
+      {
+        "slug": "insider-store-reclame-aqui-nota-reputacao"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na Insider, use EMCASACOMCECILIA: 15% OFF nos produtos elegíveis da loja online, sem valor mínimo. O mesmo código vale para quem já comprou, e a loja aceita um cupom por pedido. Lançamentos ficam de fora; confira abaixo como o desconto afeta o frete."
+        ]
+      },
+      {
+        "heading": "Cupom Insider primeira compra: qual usar",
+        "paragraphs": [
+          "Use o EMCASACOMCECILIA: 15% OFF nos produtos elegíveis da loja online, sem valor mínimo. Ele vale no primeiro pedido e nos seguintes. Você digita o código direto no checkout, sem cadastro prévio na loja.",
+          "É o [cupom Insider](/cupons/insider) da nossa parceria com a marca, testado no checkout. Em respostas no Reclame Aqui sobre um cupom pessoal divulgado indevidamente, a Insider informou que cancelou e estornou os pedidos."
+        ]
+      },
+      {
+        "heading": "O que o primeiro pedido exige",
+        "paragraphs": [
+          "O cupom não exige valor mínimo, mas há regras de produto, canal de compra e frete:"
+        ],
+        "bullets": [
+          "**Lançamentos ficam de fora.** O carrinho mostra, item a item, quais peças receberam os 15%.",
+          "**Um cupom por pedido.** A loja aceita um só, e descontos de cupons diferentes não se somam.",
+          "**Só na loja online.** Lojas físicas e Mercado Livre ficam de fora, e a Insider não tem aplicativo.",
+          "**Frete grátis acima de R$ 399, depois do desconto.** A loja informa: se o cupom deixar o pedido abaixo desse valor, o envio é cobrado."
+        ],
+        "postParagraphs": []
+      },
+      {
+        "heading": "Kit com brinde: o que o código mudou no teste",
+        "paragraphs": [
+          "No teste do cupom de 11/11/2026, registrado na nossa página de cupom, o EMCASACOMCECILIA entrou num kit com Daily T-shirt e Cueca Boxer Comfort de brinde. O resultado foi este:"
+        ],
+        "comparisonTable": {
+          "caption": "Kit da Daily T-shirt com Cueca Boxer Comfort de brinde: teste do código, antes do Pix e do frete.",
+          "headers": [
+            "Etapa",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Kit sem cupom, com a cueca grátis",
+              "R$ 139,00"
+            ],
+            [
+              "Com o EMCASACOMCECILIA",
+              "R$ 118,15"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nesse kit, a cueca continuou grátis depois do código. Outros brindes dependem das condições de cada oferta.",
+          "O cupom soma com promoções, Outlet e kits em promoção, e também com o desconto do Pix. Lançamentos permanecem fora da regra publicada; confira os itens elegíveis e o total no checkout."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/cupom-insider-primeira-compra-daily-t-shirt-preta.webp",
+            "alt": "Modelo com a Daily T-shirt preta da Insider, em foto oficial de frente.",
+            "caption": "Daily T-shirt, a camiseta do kit usado no teste do cupom. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/daily-t-shirt?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          }
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "O EMCASACOMCECILIA mantém os 15% para quem já comprou, nos produtos elegíveis. Quem começou por uma camiseta pode usar o mesmo código na próxima compra de cueca, calça ou outra peça, seguindo as regras da oferta."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "O botão abre a loja pelo link da parceria. Confira se EMCASACOMCECILIA aparece no carrinho; se não aparecer, digite no campo de cupom e aplique:"
+        ],
+        "bullets": [
+          "Coloque as peças no carrinho da loja online da Insider.",
+          "No campo “Cupom de desconto ou Gift Card”, digite EMCASACOMCECILIA e aplique.",
+          "Confira o desconto nos produtos elegíveis e o frete antes de pagar."
+        ],
+        "postParagraphs": [
+          "O passo a passo com as telas está em [como usar o cupom EMCASACOMCECILIA](/reviews/cupom-emcasacomcecilia-insider-store-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Insider de primeira compra? Sim. O EMCASACOMCECILIA dá 15% nos produtos elegíveis da loja online, no primeiro pedido e nos seguintes.",
+          "Qual cupom Insider vale para quem já é cliente? O mesmo EMCASACOMCECILIA, com os mesmos 15%.",
+          "O cupom Insider soma com o Pix e com as promoções? Sim, com os dois. Lançamentos continuam fora do desconto.",
+          "O cupom Insider vale no Mercado Livre? Não. Ele vale no site oficial, pelo carrinho."
         ]
       }
     ]

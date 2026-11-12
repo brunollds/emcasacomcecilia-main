@@ -7,9 +7,9 @@ parceiro_slug: "skelt"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador (frete e Pix); redação"
+status: "pronto-para-deploy"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "deploy (decisão do Bruno); depois IndexNow e fechamento no vault"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PC-SKELT"
@@ -164,3 +164,34 @@ Corpo: uma foto do kit do teste, com `href` para a loja.
 | Sem limite de usos por CPF | nenhuma fonte | não escrever |
 | A loja anuncia benefício próprio de cliente novo (topo do site) | ficha, seções 2 e 4; home lida em 12/11 | contexto interno; o artigo não afirma |
 | 20 impressões, posição média 10,1 | ficha, seção 2 (Search Console, export de 06/11) | busca; não vai ao texto |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- `/politica-de-frete`: frete grátis sem valor mínimo numa lista de cidades "e para as regiões Sul, Sudeste e Centro-Oeste"; "pedidos com valor final a partir de R$ 199" no Norte e no Nordeste. É a faixa do `couponsData.ts`.
+- `/politica-de-brindes`: o mínimo do brinde "considera o valor final do pedido após a aplicação de descontos"; cupom e Pix podem tirar o brinde do carrinho.
+- Kit Fragrâncias (Solar Muse, Hidden Flowers e Amalfi Sunset), pelo catálogo público: de R$ 297,00 por R$ 237,60. É o preço do teste de 11/11; a conta do `testNote` entrou sem mudança.
+- Faixa do topo do site: "+5% OFF no Pix". O Pix não foi refeito no carrinho (pediria dados no checkout); o texto dá os 5% e a ordem, sem conta nova.
+- Search Console: CSV da linha de base com o Bruno.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-skelt-primeira-compra.json` (id 912), no esqueleto do briefing. Resposta rápida com 53 palavras; "Conta nossa:" com promoção e código juntos (28% do preço do kit: R$ 213,84 sobre R$ 297,00); "A loja informa:" para a regra do frete. O capítulo do pedido ganhou o aviso para o Norte e o Nordeste: o pedido pode cair abaixo do mínimo do frete depois dos 10%.
+
+## Revisão (Job 3, 12/11/2026)
+
+1 a 10: passou. Nenhum efeito no corpo (Anexo Beleza); nenhum benefício da própria loja, código de terceiros, "exclusivo", "maior" ou "melhor"; nada de "sem valor mínimo" para o código nem de limite de usos.
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data (a do teste, na legenda da tabela; a série pede a data do teste, e por isso ela entra apesar do Anexo Beleza). C3, C4, C5: 0.
+- C6: os valores da tabela não voltam; o mínimo do frete aparece uma vez. C7: sem capítulo de método. C8: a foto do kit está no capítulo da conta, com o link de afiliado da loja no `href`.
+- C9: "A loja informa:" 1; "Conta nossa:" 1. C12: a primeira frase de cada capítulo decide. C14: "E na segunda compra?" vem do molde da série.
+- Leitura em voz alta: soa como pessoa ajudando.
+
+## Revisão externa (12/11/2026)
+
+Revisão externa do Farol (com contraprova do GPT-6.1 Terra) em 12/11/2026, em `docs/auditoria-copy-artigos/pc-lote2-revisao-farol-20261112/` (local). O candidato entrou depois de conferido contra o vault e o `couponsData.ts`: a data do teste saiu da legenda da tabela e foi para a prosa (regra da série: nenhuma data em legenda), a legenda diz que os valores são antes do Pix e do frete, e o capítulo das compras seguintes ficou com um parágrafo. Saíram "troque por ele" e "a ordem não muda"; o capítulo da conta virou "Kit em promoção: onde entram o código e o Pix". A foto do kit, com o selo "Favorito da mãe do bebê", foi trocada pela do Body Splash Amalfi Sunset (um dos três do kit), com alt e legenda nossos.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 12/11/2026, no CDN e verificadas)
+
+- **Capa:** `/images/reviews/skelt/cupom-skelt-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da Skelt, "Cupom Skelt primeira compra" e o SKEMCASACOMCECILIA. Alt: Frasco do Body Splash Pink Sands da Skelt, em composição oficial com frutas e flores, ao lado da chamada Cupom Skelt primeira compra e do código SKEMCASACOMCECILIA.
+- **Kit em promoção: onde entram o código e o Pix:** `/images/reviews/skelt/cupom-skelt-primeira-compra-body-splash-amalfi-sunset.webp` (quadrada, `href` com o link de afiliado da página do kit). Alt: Frasco laranja do Body Splash Amalfi Sunset da Skelt, em foto oficial de frente. Legenda: Body Splash Amalfi Sunset, um dos três do Kit Fragrâncias usado no teste do cupom. Foto: Skelt.
+- **Origem:** fotos oficiais da Skelt, das páginas do Body Splash Pink Sands e do Body Splash Amalfi Sunset, lidas em 12/11/2026. A foto do kit ficou fora por trazer um selo publicitário da loja. Nenhuma capa da Skelt usa o Pink Sands. Sem IA.

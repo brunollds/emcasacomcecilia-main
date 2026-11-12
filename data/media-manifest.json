@@ -79881,6 +79881,114 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/cupom-insider-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/insider/cupom-insider-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 105314,
+      "sha256": "faca80973960574a41d8400498ccfdfad5a37bb71b8da173dca497393b02db42",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-insider-primeira-compra-capa.webp",
+      "storage_filename": "cupom-insider-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-insider-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-insider-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-insider-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/insider/cupom-insider-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-insider-primeira-compra.md",
+          "line": 197,
+          "column": 14,
+          "literal": "/images/reviews/insider/cupom-insider-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 215451,
+          "column": 15,
+          "literal": "/images/reviews/insider/cupom-insider-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/faca80973960574a41d8400498ccfdfad5a37bb71b8da173dca497393b02db42/cupom-insider-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/faca80973960574a41d8400498ccfdfad5a37bb71b8da173dca497393b02db42/cupom-insider-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T18:45:46.099Z",
+      "verification_etag_or_digest": "faca80973960574a41d8400498ccfdfad5a37bb71b8da173dca497393b02db42",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/cupom-insider-primeira-compra-daily-t-shirt-preta.webp",
+      "local_url": "/images/reviews/insider/cupom-insider-primeira-compra-daily-t-shirt-preta.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28776,
+      "sha256": "6e9e8096678b513926a8f2e125c34058c8ab0f887e9736003bf38ca3923abf5b",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-insider-primeira-compra-daily-t-shirt-preta.webp",
+      "storage_filename": "cupom-insider-primeira-compra-daily-t-shirt-preta.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-insider-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-insider-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-insider-primeira-compra.json",
+          "line": 103,
+          "column": 19,
+          "literal": "/images/reviews/insider/cupom-insider-primeira-compra-daily-t-shirt-preta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-insider-primeira-compra.md",
+          "line": 198,
+          "column": 41,
+          "literal": "/images/reviews/insider/cupom-insider-primeira-compra-daily-t-shirt-preta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 215532,
+          "column": 21,
+          "literal": "/images/reviews/insider/cupom-insider-primeira-compra-daily-t-shirt-preta.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6e9e8096678b513926a8f2e125c34058c8ab0f887e9736003bf38ca3923abf5b/cupom-insider-primeira-compra-daily-t-shirt-preta.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6e9e8096678b513926a8f2e125c34058c8ab0f887e9736003bf38ca3923abf5b/cupom-insider-primeira-compra-daily-t-shirt-preta.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T18:45:46.100Z",
+      "verification_etag_or_digest": "6e9e8096678b513926a8f2e125c34058c8ab0f887e9736003bf38ca3923abf5b",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/gift-card-insider-como-funciona-cupom-capa-v2.webp",
       "local_url": "/images/reviews/insider/gift-card-insider-como-funciona-cupom-capa-v2.webp",
       "media_kind": "image",
@@ -107974,6 +108082,114 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/probiotica/cupom-probiotica-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/probiotica/cupom-probiotica-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 96386,
+      "sha256": "b73975b0ae5c69fe37f005cdf74e741d95e98eaae9798e6a19ebfb2ce96ed3e1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-probiotica-primeira-compra-capa.webp",
+      "storage_filename": "cupom-probiotica-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-probiotica-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-probiotica-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-probiotica-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/probiotica/cupom-probiotica-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-probiotica-primeira-compra.md",
+          "line": 196,
+          "column": 14,
+          "literal": "/images/reviews/probiotica/cupom-probiotica-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 215275,
+          "column": 15,
+          "literal": "/images/reviews/probiotica/cupom-probiotica-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b73975b0ae5c69fe37f005cdf74e741d95e98eaae9798e6a19ebfb2ce96ed3e1/cupom-probiotica-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b73975b0ae5c69fe37f005cdf74e741d95e98eaae9798e6a19ebfb2ce96ed3e1/cupom-probiotica-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T18:45:46.100Z",
+      "verification_etag_or_digest": "b73975b0ae5c69fe37f005cdf74e741d95e98eaae9798e6a19ebfb2ce96ed3e1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/cupom-probiotica-primeira-compra-hiper-whey-900g.webp",
+      "local_url": "/images/reviews/probiotica/cupom-probiotica-primeira-compra-hiper-whey-900g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 59144,
+      "sha256": "9729a79ab80360ceb39530bb6f359935bea5a4044bc8de8acfccd14e198beb59",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-probiotica-primeira-compra-hiper-whey-900g.webp",
+      "storage_filename": "cupom-probiotica-primeira-compra-hiper-whey-900g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-probiotica-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-probiotica-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-probiotica-primeira-compra.json",
+          "line": 138,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/cupom-probiotica-primeira-compra-hiper-whey-900g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-probiotica-primeira-compra.md",
+          "line": 197,
+          "column": 41,
+          "literal": "/images/reviews/probiotica/cupom-probiotica-primeira-compra-hiper-whey-900g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 215391,
+          "column": 21,
+          "literal": "/images/reviews/probiotica/cupom-probiotica-primeira-compra-hiper-whey-900g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9729a79ab80360ceb39530bb6f359935bea5a4044bc8de8acfccd14e198beb59/cupom-probiotica-primeira-compra-hiper-whey-900g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9729a79ab80360ceb39530bb6f359935bea5a4044bc8de8acfccd14e198beb59/cupom-probiotica-primeira-compra-hiper-whey-900g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T18:45:46.100Z",
+      "verification_etag_or_digest": "9729a79ab80360ceb39530bb6f359935bea5a4044bc8de8acfccd14e198beb59",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-capa-v2.webp",
       "local_url": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-capa-v2.webp",
       "media_kind": "image",
@@ -121839,6 +122055,106 @@
       "uploaded_at": null,
       "verified_at": "2026-10-21T23:21:50.752Z",
       "verification_etag_or_digest": "55a5a985cca7543a4b06d7c3f72b3e2dc9a0ca0177e203db4140faf0253de05c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/cupom-skelt-primeira-compra-body-splash-amalfi-sunset.webp",
+      "local_url": "/images/reviews/skelt/cupom-skelt-primeira-compra-body-splash-amalfi-sunset.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15502,
+      "sha256": "4b174a1682203e523c215eb1699e74d4f3011131a1173bc86cb713232e83ae8f",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-skelt-primeira-compra-body-splash-amalfi-sunset.webp",
+      "storage_filename": "cupom-skelt-primeira-compra-body-splash-amalfi-sunset.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-skelt-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-skelt-primeira-compra.json",
+          "line": 109,
+          "column": 19,
+          "literal": "/images/reviews/skelt/cupom-skelt-primeira-compra-body-splash-amalfi-sunset.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 215215,
+          "column": 21,
+          "literal": "/images/reviews/skelt/cupom-skelt-primeira-compra-body-splash-amalfi-sunset.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4b174a1682203e523c215eb1699e74d4f3011131a1173bc86cb713232e83ae8f/cupom-skelt-primeira-compra-body-splash-amalfi-sunset.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4b174a1682203e523c215eb1699e74d4f3011131a1173bc86cb713232e83ae8f/cupom-skelt-primeira-compra-body-splash-amalfi-sunset.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T18:45:46.100Z",
+      "verification_etag_or_digest": "4b174a1682203e523c215eb1699e74d4f3011131a1173bc86cb713232e83ae8f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/cupom-skelt-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/skelt/cupom-skelt-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 183316,
+      "sha256": "067642f3ccfbcce26d304c99dd720220c9656d97cc17ce8f77216d4d3218140e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-skelt-primeira-compra-capa.webp",
+      "storage_filename": "cupom-skelt-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-skelt-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-skelt-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-skelt-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/skelt/cupom-skelt-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-skelt-primeira-compra.md",
+          "line": 191,
+          "column": 14,
+          "literal": "/images/reviews/skelt/cupom-skelt-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 215128,
+          "column": 15,
+          "literal": "/images/reviews/skelt/cupom-skelt-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/067642f3ccfbcce26d304c99dd720220c9656d97cc17ce8f77216d4d3218140e/cupom-skelt-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/067642f3ccfbcce26d304c99dd720220c9656d97cc17ce8f77216d4d3218140e/cupom-skelt-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T18:45:46.100Z",
+      "verification_etag_or_digest": "067642f3ccfbcce26d304c99dd720220c9656d97cc17ce8f77216d4d3218140e",
       "verification_status": "verified"
     },
     {
