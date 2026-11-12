@@ -34,7 +34,8 @@ Friday. Leituras de 12/11/2026 no navegador do app, sem login e sem finalizar co
   afirmada e sem nome de cliente.
 - **Sem link de afiliado:** a parceria não tem link próprio; o botão vai ao site oficial e a venda conta pelo
   cupom.
-- **Experiência própria:** não há registro de produto recebido ou usado. Ver a pergunta 1.
+- **Sem experiência própria (Bruno, 12/11):** a Cecília não recebeu nem usou produto da Prohall. Os seis saem só
+  por fontes públicas; o PH5 é guia (`category` de guia, sem nota, sem prós e contras de uso e sem "testei").
 
 ## 3. Reclame Aqui (perfil "Prohall Professional", lido em 12/11)
 
@@ -118,7 +119,6 @@ e "O produto é compatível com qualquer química?" (as respostas não foram lid
 
 ## Perguntas para o Bruno
 
-1. **A Cecília recebeu ou usou algum produto da Prohall?** Se sim, quais. Isso decide se o PH5 ("é boa?") sai como
-   guia por fontes públicas ou com experiência própria.
+1. ~~A Cecília recebeu ou usou algum produto da Prohall?~~ **Respondida em 12/11: não, só fontes públicas** (seção 2).
 2. **PH6:** a parceria informou datas ou regras da Black Friday (percentual do cupom na campanha, cupom extra)?
 3. **Clube e app:** o painel da parceria diz se o CECILIAMC vale no app e sobre o preço do Clube?
