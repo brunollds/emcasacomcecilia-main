@@ -386,7 +386,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Qual cupom Dolce Gusto dá 10% para quem já é cliente?',
         answer:
-          'O CECI. Ele dá 10% na loja oficial Nescafé Dolce Gusto, em compras a partir de R$ 100, para quem compra pela primeira vez e para quem já comprou, com até 3 usos por campanha.',
+          'O CECI. Ele dá 10% na loja oficial Nescafé Dolce Gusto, em compras a partir de R$ 100, para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'Existe cupom Dolce Gusto de 20% ou 50%?',
@@ -1696,7 +1696,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'A Dr. Peanut tem frete grátis?',
         answer:
-          'Sim, com valor mínimo por região: a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 no Centro-Oeste, no Norte e no Nordeste, segundo a política de frete da loja. O valor conta depois do cupom: se o desconto deixar o pedido abaixo do mínimo, o frete pode ser cobrado.',
+          'Sim, com valor mínimo por região: a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 no Centro-Oeste, no Norte e no Nordeste, segundo a política de frete da loja. O valor conta depois do cupom: no nosso teste, com entrega em São Paulo, um carrinho de R$ 155,34 tinha frete grátis e, com o cupom, caiu para R$ 139,80 e passou a pagar R$ 12,23 de frete.',
       },
       {
         question: 'O que fazer se o cupom DREMCASACOMCECILIA não funcionar?',
