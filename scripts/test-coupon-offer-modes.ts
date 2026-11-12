@@ -11,6 +11,7 @@ import {
   STORE_VIDEO_HOSTS,
   type AffiliateLinkOffer,
 } from '../src/lib/couponsData';
+import mediaMap from '../src/lib/generated/media-delivery-map.json';
 import { getBrasiliaDate, getCouponMetaTitle, getOfferMonth } from '../src/lib/offerMonth';
 
 const shein = COUPONS.find((coupon) => coupon.slug === 'shein');
@@ -413,13 +414,14 @@ const petzStacking = (() => {
 assert.equal(petzStacking[0]?.benefit, 'retirada', 'petz: "O que acumula" não abre pelo Retire na Loja');
 assert.match(petzStacking[0]?.condition ?? '', /14,5% no total.*acima de R\$ 199/, 'petz: a linha do Retire na Loja sem o total ou sem o mínimo');
 
-// Print do carrinho: o arquivo existe e o alt descreve a imagem; com `article`, é uma imagem do corpo de um artigo da
-// mesma loja, com o mesmo alt.
+// Print do carrinho: a imagem está no mapa de entrega (CDN) ou em public/, e o alt descreve a imagem; com `article`, é
+// uma imagem do corpo de um artigo da mesma loja, com o mesmo alt. Este teste roda no build da Hostinger, e o archive
+// de produção não leva public/images: exigir só o arquivo local derruba o deploy.
 for (const coupon of COUPONS) {
   const print = coupon.cartPrint;
   if (!print) continue;
   const where = `${coupon.slug}: print do carrinho`;
-  assert.ok(existsSync(`public${print.src}`), `${where}: o arquivo public${print.src} não existe`);
+  assert.ok(print.src in mediaMap || existsSync(`public${print.src}`), `${where}: ${print.src} fora do mapa de entrega e de public/`);
   assert.ok(print.aspectRatio > 0.2 && print.aspectRatio < 5, `${where}: aspectRatio fora do esperado`);
   assert.ok(print.alt.trim().length >= 20, `${where}: alt curto demais`);
   if (!print.article) continue;
