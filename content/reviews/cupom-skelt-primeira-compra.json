@@ -132,7 +132,12 @@
       ],
       "postParagraphs": [
         "O passo a passo com as telas da sacola está em [como usar o cupom SKEMCASACOMCECILIA](/reviews/cupom-skelt-como-usar)."
-      ]
+      ],
+      "image": "/images/reviews/skelt/cupom-skelt-sacola-com-cupom.webp",
+      "imageAlt": "Sacola da Skelt com o cupom SKEMCASACOMCECILIA aplicado no campo Cupom de desconto, com a linha do produto já com o desconto e o resumo ao lado.",
+      "imageCaption": "O SKEMCASACOMCECILIA aplicado no pedido da Skelt, em um carrinho de teste. Os valores mudam conforme o seu pedido.",
+      "imageFit": "contain",
+      "imageAspectRatio": 1.82
     },
     {
       "heading": "Perguntas frequentes",

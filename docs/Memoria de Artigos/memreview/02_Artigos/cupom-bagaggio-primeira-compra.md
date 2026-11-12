@@ -7,9 +7,9 @@ parceiro_slug: "bagaggio"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leitura da campanha Leve 3 pague 2 no carrinho; redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PC-BAGAGGIO"
@@ -165,3 +165,32 @@ Corpo: uma foto da mala do Outlet do teste, com `href` para a loja.
 | Desconto de primeira compra da própria loja (site e app) | ficha, seções 1 e 4; home lida em 12/11 | contexto interno; o artigo não afirma |
 | Desconto de 50% na segunda peça e código dela | `couponsData.ts`, `combinable`; ficha, seção 4 (promoção já terminou, segundo o como usar) | não citar |
 | 53 caracteres no seoTitle; sem consultas medidas | ficha, seção 2 | busca; não vai ao texto |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- Mala de Bordo PP Downtown Preta (`/mala-de-bordo-pp-8-kg-abs-4-rodas-185-downtown--preta/p`): de R$ 249,90 por R$ 179,90, ou R$ 170,90 no Pix (5%). É o preço do teste de 11/11; a conta do `testNote` entrou sem mudança.
+- A busca do catálogo público travou; o preço foi lido na página do produto. O carrinho com a campanha "Leve 3 pague 2" e o Pix com o código não foram refeitos: o texto manda conferir o resumo do pedido e não diz se o código entra em campanha.
+- Search Console: CSV da linha de base com o Bruno.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-bagaggio-primeira-compra.json` (id 915), no esqueleto do briefing. Resposta rápida com 53 palavras. A data do teste (11/11/2026) fica na prosa do capítulo da conta, e a legenda da tabela diz o que os valores não incluem, como a revisão externa do lote 2 pediu. "Conta nossa:" com Outlet e código juntos (35% do preço da mala: R$ 161,91 sobre R$ 249,90); "a loja informa" para os 5% do Pix. A frase "um dos melhores cupons para a primeira compra, no site ou no app" está na resposta rápida e no primeiro capítulo (Bruno, 12/11).
+
+## Revisão (Job 3, 12/11/2026)
+
+1 a 10: passou. Sem benefício da própria loja, sem código de terceiros, sem "exclusivo", "maior" ou "melhor" além da frase liberada pelo Bruno só para a Bagaggio. Nada de "sem valor mínimo", limite de usos, valor de frete grátis ou campanha da loja pelo nome; o app não aparece como caminho de primeira compra, só como lugar onde o código vale.
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data no corpo (a do teste, na prosa). C3, C4, C5: 0.
+- C6: os valores da tabela não voltam na prosa nem no FAQ. C7: sem capítulo de método. C8: a foto do produto está no capítulo da conta, com o link de afiliado no `href`.
+- C9: cada rótulo no máximo uma vez. C12: a primeira frase de cada capítulo decide. C14: "E na segunda compra?" vem do molde da série.
+- Leitura em voz alta: soa como pessoa ajudando.
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da loja, a chamada e o CECILIA10. Alt: Homem na calçada com a mala de bordo Downtown preta da Bagaggio, em foto oficial, ao lado da chamada Cupom Bagaggio primeira compra e do código CECILIA10.
+- **Mala do Outlet: onde entram o código e o Pix:** `/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-mala-downtown.webp` (quadrada, `href` com o link de afiliado do produto). Alt: Mala de bordo Downtown preta da Bagaggio, rígida, com quatro rodas e puxador aberto, em foto oficial de três quartos. Legenda: Mala de bordo Downtown, usada no teste do cupom na sacola. Foto: Bagaggio.
+- **Origem:** duas fotos oficiais da galeria da Mala de Bordo PP Downtown Preta (ambientada na capa; de três quartos no corpo), lidas em 12/11/2026. O acervo já tem a foto frontal (`bagaggio-downtown-preta.webp`), que não foi repetida, e nenhuma capa da Bagaggio usa a foto ambientada desta mala. Sem IA.
+
+## Revisão externa (Farol, 12/11/2026)
+
+Aplicado depois de conferir os fatos: "cerca de 35%", "A sacola aceita um código por vez" e legendas mais precisas. A frase "um dos melhores cupons" ficou só na resposta rápida (Bruno, 12/11).

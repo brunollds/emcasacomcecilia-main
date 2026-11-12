@@ -7,9 +7,9 @@ parceiro_slug: "nestle-nutre"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador; redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PC-NESTLENUTRE"
@@ -184,3 +184,33 @@ Capa: logo da Nestlé Nutre, uma lata do produto e o código CECI. Corpo: foto d
 | Benefício de primeira compra da própria loja (faixa do topo, lida em 12/11) | home lida em 12/11 | contexto interno; o artigo não afirma nem cita |
 | Nome antigo da loja (FamilyNes e outro) | FAQ de `couponsData.ts`; agregadores; sem confirmação oficial | não escrever |
 | Percentuais de terceiros (10% e outros) | agregadores do topo | não citar |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- Página do Kit Nutren Senior Zero Lactose Sem Sabor 740 g, 2 unidades (`/senior-kit-sem-sabor-zero-lactose-lata-740`), no navegador: "Compra única R$ 296,50", o preço do teste de 11/11; a conta do `testNote` entrou sem mudança. O texto chama a compra avulsa de "compra única", o nome da opção na página.
+- A página mostra também o preço da assinatura; nenhum percentual de assinatura entrou no texto.
+- Pix e frete grátis: a página do produto não mostra nenhum dos dois; sem percentual nem valor no texto.
+- Search Console: CSV da linha de base com o Bruno.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-nestle-nutre-primeira-compra.json` (id 919), no esqueleto do briefing. Resposta rápida com 51 palavras. A data do teste (11/11/2026) fica na prosa do capítulo da conta, e a legenda da tabela diz o que os valores não incluem, como a revisão externa do lote 2 pediu. A exclusão (Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses) acompanha o desconto na resposta rápida, nos capítulos 2, 3 e 5 e no FAQ. A lei fica no "como usar".
+
+## Revisão (Job 3, 12/11/2026)
+
+1 a 10: passou. Sem benefício da própria loja, sem código de terceiros, sem "exclusivo", "maior" ou "melhor". Nenhuma promessa de saúde nem indicação; sem o código e o percentual da faixa do topo da loja; sem nome antigo da loja; sem "um cupom por pedido"; sem campanha do período.
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data no corpo (a do teste, na prosa). C3, C4, C5: 0.
+- C6: os valores da tabela não voltam na prosa nem no FAQ. C7: sem capítulo de método. C8: a foto do produto está no capítulo da conta, com o link de afiliado no `href`.
+- C9: cada rótulo no máximo uma vez. C12: a primeira frase de cada capítulo decide. C14: "E na segunda compra?" vem do molde da série.
+- Leitura em voz alta: soa como pessoa ajudando.
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da loja, a chamada e o CECI. Alt: Três latas de Nutren Senior, em foto oficial, ao lado da chamada Cupom Nestlé Nutre primeira compra e do código CECI.
+- **Kit de duas latas: a conta na compra única:** `/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-nutren-senior-zero-lactose.webp` (quadrada, `href` com o link de afiliado do produto). Alt: Lata de Nutren Senior Zero Lactose sem sabor, 740 g, em foto oficial de frente. Legenda: Nutren Senior Zero Lactose de 740 g: o kit usado no teste do cupom leva duas latas. Foto: Nestlé Nutre.
+- **Origem:** duas fotos oficiais que já estavam na biblioteca do site: as três latas de Nutren Senior na capa (`nutren-senior-tres-versoes-oficial.webp`) e a lata de 740 g do Zero Lactose sem sabor no corpo (`nutren-senior-hero.webp`). O site da loja recusou o download direto das fotos do kit em 12/11/2026, e eu não contornei. Sem IA.
+
+## Revisão externa (Farol, 12/11/2026)
+
+Aplicado depois de conferir os fatos: Alfamino, Alfaré e fórmulas de 0 a 12 meses nomeados nos metadados e no FAQ; "Compra única" e a assinatura explícitas. Não aplicado: tirar o print do código de outro carrinho. O Bruno decidiu em 12/11 que o print da página de cupom entra em todo artigo da série.

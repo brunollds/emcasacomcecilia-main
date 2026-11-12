@@ -7,9 +7,9 @@ parceiro_slug: "toda-up"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador; redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PC-TODAUP"
@@ -175,3 +175,33 @@ Capa: logo da Toda Up, um sutiã da linha e o código MAUAD. Corpo: foto do suti
 | Valor mínimo, limite de usos, cupons por pedido | ficha: não encontrado; como usar: a loja não publica o limite | sem fonte: não escrever |
 | Definição de cliente novo | não publicada | sem fonte: não escrever |
 | Cupom de 20% ou 30% de agregadores | agregadores do topo | não citar |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- Página do Sutiã Comfort Up (JSON público do produto): R$ 170,91, de R$ 199,90, o preço do teste de 11/11; a conta do `testNote` entrou sem mudança (desconto de R$ 25,63, como o carrinho mostrou).
+- Black VIP: a home ainda leva à coleção `/collections/black-vip` e às peças dela; a exceção ficou no texto e no FAQ. Quando a campanha acabar, tirar da resposta rápida, do capítulo 3 e de duas perguntas do FAQ.
+- Pix: a home não anuncia percentual. O texto diz só "se a loja der desconto no Pix, ele soma com o código".
+- Search Console: CSV da linha de base com o Bruno.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-toda-up-primeira-compra.json` (id 918), no esqueleto do briefing. Resposta rápida com 50 palavras. A data do teste (11/11/2026) fica na prosa do capítulo da conta, e a legenda da tabela diz o que os valores não incluem, como a revisão externa do lote 2 pediu. O link da foto usa o mesmo formato dos outros artigos da loja (`/discount/MAUAD?redirect=/products/sutia-comfort-up`). Sem card de estilo: é guia de cupom.
+
+## Revisão (Job 3, 12/11/2026)
+
+1 a 10: passou. Sem benefício da própria loja, sem código de terceiros, sem "exclusivo", "maior" ou "melhor". Sem "qualquer forma de pagamento", valor mínimo, limite de usos, frete grátis; sem a raspadinha, a troca do primeiro pedido e os códigos dos cards da home; o nome do código não é explicado; sem o percentual antigo.
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data no corpo (a do teste, na prosa). C3, C4, C5: 0.
+- C6: os valores da tabela não voltam na prosa nem no FAQ. C7: sem capítulo de método. C8: a foto do produto está no capítulo da conta, com o link de afiliado no `href`.
+- C9: cada rótulo no máximo uma vez. C12: a primeira frase de cada capítulo decide. C14: "E na segunda compra?" vem do molde da série.
+- Leitura em voz alta: soa como pessoa ajudando.
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/toda-up/cupom-toda-up-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da loja, a chamada e o MAUAD. Alt: Modelo sorrindo com o Sutiã Comfort Up rosé da Toda Up, em foto oficial, ao lado da chamada Cupom Toda Up primeira compra e do código MAUAD.
+- **Sutiã em promoção: quanto fica com o MAUAD:** `/images/reviews/toda-up/cupom-toda-up-primeira-compra-sutia-comfort-up.webp` (quadrada, `href` com o link de afiliado do produto). Alt: Sutiã Comfort Up rosé da Toda Up, sem aro, com alças largas, em foto oficial de frente sobre fundo claro. Legenda: Sutiã Comfort Up, usado no teste do cupom. Foto: Toda Up.
+- **Origem:** duas fotos oficiais da galeria do Sutiã Comfort Up, lidas em 12/11/2026: a modelo com o sutiã rosé na capa e a peça sozinha no corpo. Sem IA.
+
+## Revisão externa (Farol, 12/11/2026)
+
+Aplicado depois de conferir os fatos: a exceção da Black VIP entrou na meta, no subtítulo, no primeiro capítulo, na segunda compra e em duas perguntas do FAQ. A capa foi refeita sem o MAUAD na arte e no alt (o gerador de capas barra o código); no lugar, "15% OFF".

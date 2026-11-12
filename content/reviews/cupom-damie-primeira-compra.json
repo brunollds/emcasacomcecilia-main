@@ -130,7 +130,12 @@
       ],
       "postParagraphs": [
         "A DAMIE não tem aplicativo: a compra é pelo site, que abre no navegador do celular. O passo a passo com as telas está em [como usar o cupom CECILIA12](/reviews/cupom-cecilia12-como-usar)."
-      ]
+      ],
+      "image": "/images/reviews/cupom-cecilia12/4-confirme-desconto.png",
+      "imageAlt": "Resumo do pedido da Damie com desconto aplicado.",
+      "imageCaption": "O CECILIA12 aplicado no pedido da DAMIE, em um carrinho de teste. Os valores mudam conforme o seu pedido.",
+      "imageFit": "contain",
+      "imageAspectRatio": 0.452
     },
     {
       "heading": "Perguntas frequentes",

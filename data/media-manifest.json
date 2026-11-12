@@ -38989,6 +38989,114 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 232966,
+      "sha256": "ea8d83943cfe4561796f1307722369a47f8de624673f810f8c87b922f72eafa8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-bagaggio-primeira-compra-capa.webp",
+      "storage_filename": "cupom-bagaggio-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-bagaggio-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-bagaggio-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-bagaggio-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-bagaggio-primeira-compra.md",
+          "line": 190,
+          "column": 14,
+          "literal": "/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 215592,
+          "column": 15,
+          "literal": "/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ea8d83943cfe4561796f1307722369a47f8de624673f810f8c87b922f72eafa8/cupom-bagaggio-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ea8d83943cfe4561796f1307722369a47f8de624673f810f8c87b922f72eafa8/cupom-bagaggio-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T19:27:29.894Z",
+      "verification_etag_or_digest": "ea8d83943cfe4561796f1307722369a47f8de624673f810f8c87b922f72eafa8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-mala-downtown.webp",
+      "local_url": "/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-mala-downtown.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27364,
+      "sha256": "8580696b67d1fedd464b9e6fc2607815384fa7b1240458b6f7659ba097a400ed",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-bagaggio-primeira-compra-mala-downtown.webp",
+      "storage_filename": "cupom-bagaggio-primeira-compra-mala-downtown.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-bagaggio-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-bagaggio-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-bagaggio-primeira-compra.json",
+          "line": 107,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-mala-downtown.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-bagaggio-primeira-compra.md",
+          "line": 191,
+          "column": 54,
+          "literal": "/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-mala-downtown.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 215677,
+          "column": 21,
+          "literal": "/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-mala-downtown.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8580696b67d1fedd464b9e6fc2607815384fa7b1240458b6f7659ba097a400ed/cupom-bagaggio-primeira-compra-mala-downtown.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8580696b67d1fedd464b9e6fc2607815384fa7b1240458b6f7659ba097a400ed/cupom-bagaggio-primeira-compra-mala-downtown.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T19:27:29.895Z",
+      "verification_etag_or_digest": "8580696b67d1fedd464b9e6fc2607815384fa7b1240458b6f7659ba097a400ed",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/bagaggio/cupom-quadro-conta-downtown.webp",
       "local_url": "/images/reviews/bagaggio/cupom-quadro-conta-downtown.webp",
       "media_kind": "image",
@@ -45520,6 +45628,114 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T17:10:05.129Z",
       "verification_etag_or_digest": "e64fc9f449a6833608e87328978bfc915ae45e5cb9640fcadc728e59434d68a6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/cupom-black-skull-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/black-skull/cupom-black-skull-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 63222,
+      "sha256": "0d27a754fc3cb44b91c72195c8cd88b1394af0c795f96ff1edb5b653c86c3b1b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-black-skull-primeira-compra-capa.webp",
+      "storage_filename": "cupom-black-skull-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-black-skull-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-black-skull-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-black-skull-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/cupom-black-skull-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-black-skull-primeira-compra.md",
+          "line": 202,
+          "column": 14,
+          "literal": "/images/reviews/black-skull/cupom-black-skull-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 215882,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/cupom-black-skull-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0d27a754fc3cb44b91c72195c8cd88b1394af0c795f96ff1edb5b653c86c3b1b/cupom-black-skull-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0d27a754fc3cb44b91c72195c8cd88b1394af0c795f96ff1edb5b653c86c3b1b/cupom-black-skull-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T19:27:29.895Z",
+      "verification_etag_or_digest": "0d27a754fc3cb44b91c72195c8cd88b1394af0c795f96ff1edb5b653c86c3b1b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/cupom-black-skull-primeira-compra-kit-whey-turbo.webp",
+      "local_url": "/images/reviews/black-skull/cupom-black-skull-primeira-compra-kit-whey-turbo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 77004,
+      "sha256": "2a2cddab84aa0bc699ea4e39aa642d87dc5acedc8f6dc555f66517e2a4fd9b52",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-black-skull-primeira-compra-kit-whey-turbo.webp",
+      "storage_filename": "cupom-black-skull-primeira-compra-kit-whey-turbo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-black-skull-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-black-skull-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-black-skull-primeira-compra.json",
+          "line": 111,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/cupom-black-skull-primeira-compra-kit-whey-turbo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-black-skull-primeira-compra.md",
+          "line": 203,
+          "column": 47,
+          "literal": "/images/reviews/black-skull/cupom-black-skull-primeira-compra-kit-whey-turbo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 215971,
+          "column": 21,
+          "literal": "/images/reviews/black-skull/cupom-black-skull-primeira-compra-kit-whey-turbo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2a2cddab84aa0bc699ea4e39aa642d87dc5acedc8f6dc555f66517e2a4fd9b52/cupom-black-skull-primeira-compra-kit-whey-turbo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2a2cddab84aa0bc699ea4e39aa642d87dc5acedc8f6dc555f66517e2a4fd9b52/cupom-black-skull-primeira-compra-kit-whey-turbo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T19:27:29.895Z",
+      "verification_etag_or_digest": "2a2cddab84aa0bc699ea4e39aa642d87dc5acedc8f6dc555f66517e2a4fd9b52",
       "verification_status": "verified"
     },
     {
@@ -96689,6 +96905,114 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86332,
+      "sha256": "497d75ca7190744d6d59dadf292e93286679bf883b2f5314a29bde02f5c802f1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-mais-mu-primeira-compra-capa.webp",
+      "storage_filename": "cupom-mais-mu-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-mais-mu-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-mais-mu-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-mais-mu-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-mais-mu-primeira-compra.md",
+          "line": 201,
+          "column": 14,
+          "literal": "/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 215737,
+          "column": 15,
+          "literal": "/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/497d75ca7190744d6d59dadf292e93286679bf883b2f5314a29bde02f5c802f1/cupom-mais-mu-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/497d75ca7190744d6d59dadf292e93286679bf883b2f5314a29bde02f5c802f1/cupom-mais-mu-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T19:27:29.896Z",
+      "verification_etag_or_digest": "497d75ca7190744d6d59dadf292e93286679bf883b2f5314a29bde02f5c802f1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-whey-pacoquita.webp",
+      "local_url": "/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-whey-pacoquita.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47374,
+      "sha256": "6d4c7614b9fd6e07dfa640d5bc606f86d8d3372f8288c48153c0ee875a198a6d",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-mais-mu-primeira-compra-whey-pacoquita.webp",
+      "storage_filename": "cupom-mais-mu-primeira-compra-whey-pacoquita.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-mais-mu-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-mais-mu-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-mais-mu-primeira-compra.json",
+          "line": 107,
+          "column": 19,
+          "literal": "/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-whey-pacoquita.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-mais-mu-primeira-compra.md",
+          "line": 202,
+          "column": 58,
+          "literal": "/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-whey-pacoquita.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 215822,
+          "column": 21,
+          "literal": "/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-whey-pacoquita.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6d4c7614b9fd6e07dfa640d5bc606f86d8d3372f8288c48153c0ee875a198a6d/cupom-mais-mu-primeira-compra-whey-pacoquita.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6d4c7614b9fd6e07dfa640d5bc606f86d8d3372f8288c48153c0ee875a198a6d/cupom-mais-mu-primeira-compra-whey-pacoquita.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T19:27:29.896Z",
+      "verification_etag_or_digest": "6d4c7614b9fd6e07dfa640d5bc606f86d8d3372f8288c48153c0ee875a198a6d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/mais-mu/mais-mu-barras-mukebar-chocowheyfer-crushbar.webp",
       "local_url": "/images/reviews/mais-mu/mais-mu-barras-mukebar-chocowheyfer-crushbar.webp",
       "media_kind": "image",
@@ -102038,6 +102362,114 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "944387bc114ec6049bfd06433adaefdfcfef21d89180b7014d67b0798140e90b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 99916,
+      "sha256": "d54a8f53a68457b3d967b81ddd85447fa5bd6cb3054b0ae643daadcfa284c9f6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-nestle-nutre-primeira-compra-capa.webp",
+      "storage_filename": "cupom-nestle-nutre-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-nestle-nutre-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-nestle-nutre-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-nestle-nutre-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-nestle-nutre-primeira-compra.md",
+          "line": 210,
+          "column": 14,
+          "literal": "/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 216182,
+          "column": 15,
+          "literal": "/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d54a8f53a68457b3d967b81ddd85447fa5bd6cb3054b0ae643daadcfa284c9f6/cupom-nestle-nutre-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d54a8f53a68457b3d967b81ddd85447fa5bd6cb3054b0ae643daadcfa284c9f6/cupom-nestle-nutre-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T19:27:29.896Z",
+      "verification_etag_or_digest": "d54a8f53a68457b3d967b81ddd85447fa5bd6cb3054b0ae643daadcfa284c9f6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-nutren-senior-zero-lactose.webp",
+      "local_url": "/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-nutren-senior-zero-lactose.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 54370,
+      "sha256": "d198048a8de3b38dae4ded1e4612887256968111b9f5bf6cbd9d975cb27d6e4c",
+      "width": 760,
+      "height": 760,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-nestle-nutre-primeira-compra-nutren-senior-zero-lactose.webp",
+      "storage_filename": "cupom-nestle-nutre-primeira-compra-nutren-senior-zero-lactose.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-nestle-nutre-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-nestle-nutre-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-nestle-nutre-primeira-compra.json",
+          "line": 105,
+          "column": 19,
+          "literal": "/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-nutren-senior-zero-lactose.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-nestle-nutre-primeira-compra.md",
+          "line": 211,
+          "column": 52,
+          "literal": "/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-nutren-senior-zero-lactose.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 216265,
+          "column": 21,
+          "literal": "/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-nutren-senior-zero-lactose.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d198048a8de3b38dae4ded1e4612887256968111b9f5bf6cbd9d975cb27d6e4c/cupom-nestle-nutre-primeira-compra-nutren-senior-zero-lactose.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d198048a8de3b38dae4ded1e4612887256968111b9f5bf6cbd9d975cb27d6e4c/cupom-nestle-nutre-primeira-compra-nutren-senior-zero-lactose.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T19:27:29.896Z",
+      "verification_etag_or_digest": "d198048a8de3b38dae4ded1e4612887256968111b9f5bf6cbd9d975cb27d6e4c",
       "verification_status": "verified"
     },
     {
@@ -125290,6 +125722,114 @@
       "uploaded_at": null,
       "verified_at": "2026-10-26T22:20:26.677Z",
       "verification_etag_or_digest": "dda0d31836e9b0c521ef1ff5a1822d2c0e980eb1f54e4b4834fc6a07f67daba7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/cupom-toda-up-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/toda-up/cupom-toda-up-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 83012,
+      "sha256": "abec933d3a04a0cb9abf32432280609e576e8f6a5c19e14218d9fc098b5ac478",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-toda-up-primeira-compra-capa.webp",
+      "storage_filename": "cupom-toda-up-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-toda-up-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-toda-up-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-toda-up-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/cupom-toda-up-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-toda-up-primeira-compra.md",
+          "line": 201,
+          "column": 14,
+          "literal": "/images/reviews/toda-up/cupom-toda-up-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 216067,
+          "column": 15,
+          "literal": "/images/reviews/toda-up/cupom-toda-up-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/abec933d3a04a0cb9abf32432280609e576e8f6a5c19e14218d9fc098b5ac478/cupom-toda-up-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/abec933d3a04a0cb9abf32432280609e576e8f6a5c19e14218d9fc098b5ac478/cupom-toda-up-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T19:48:12.335Z",
+      "verification_etag_or_digest": "abec933d3a04a0cb9abf32432280609e576e8f6a5c19e14218d9fc098b5ac478",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/cupom-toda-up-primeira-compra-sutia-comfort-up.webp",
+      "local_url": "/images/reviews/toda-up/cupom-toda-up-primeira-compra-sutia-comfort-up.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 67556,
+      "sha256": "9459b367ff21ee6afa6b9ae50665e9e4ebb72414559005a5f5c9edc5ced40999",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-toda-up-primeira-compra-sutia-comfort-up.webp",
+      "storage_filename": "cupom-toda-up-primeira-compra-sutia-comfort-up.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-toda-up-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-toda-up-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-toda-up-primeira-compra.json",
+          "line": 111,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/cupom-toda-up-primeira-compra-sutia-comfort-up.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-toda-up-primeira-compra.md",
+          "line": 202,
+          "column": 52,
+          "literal": "/images/reviews/toda-up/cupom-toda-up-primeira-compra-sutia-comfort-up.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 216121,
+          "column": 21,
+          "literal": "/images/reviews/toda-up/cupom-toda-up-primeira-compra-sutia-comfort-up.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9459b367ff21ee6afa6b9ae50665e9e4ebb72414559005a5f5c9edc5ced40999/cupom-toda-up-primeira-compra-sutia-comfort-up.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9459b367ff21ee6afa6b9ae50665e9e4ebb72414559005a5f5c9edc5ced40999/cupom-toda-up-primeira-compra-sutia-comfort-up.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T19:27:29.896Z",
+      "verification_etag_or_digest": "9459b367ff21ee6afa6b9ae50665e9e4ebb72414559005a5f5c9edc5ced40999",
       "verification_status": "verified"
     },
     {
