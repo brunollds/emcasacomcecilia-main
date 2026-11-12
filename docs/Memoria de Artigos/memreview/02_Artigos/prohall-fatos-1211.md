@@ -23,7 +23,8 @@ Friday. Leituras de 12/11/2026 no navegador do app, sem login e sem finalizar co
 
 ## 2. Regras que valem para os seis
 
-- **Sempre "até 10%".** Nos testes de 12/11 o desconto foi de 7% em todos os carrinhos. Preço de exemplo só de
+- **Sempre "até 10%".** O percentual varia por produto (Bruno, 12/11), como na Max Titanium e na Probiótica; os
+  testes não cobriram o catálogo, e não se sabe quais produtos chegam ao máximo. Nos testes de 12/11 o desconto foi de 7% em todos os carrinhos. Preço de exemplo só de
   carrinho testado (dossiê, seção 1), nunca calculado com 10%.
 - **Snippet:** código e "até 10%" na primeira frase; cabe dizer "nos nossos testes, 7%".
 - **O código vale para cliente novo e antigo** e soma com as promoções do site. Não junta com o cupom de cashback
