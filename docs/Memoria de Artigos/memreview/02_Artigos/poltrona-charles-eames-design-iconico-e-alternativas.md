@@ -75,3 +75,10 @@ Implementação pelo subagente GPT-5.6 Terra e revisão pelo agente principal. A
 - `validate:content`, typecheck e lint focado aprovados. Build completo aprovado em 02/09/2026: 321 páginas geradas e matriz de HTML/idiomas verde. A primeira tentativa falhou por acesso às fontes do Google; a repetição com acesso à rede passou.
 - Commit local autorizado. Os índices foram preparados seletivamente para conter apenas este artigo, preservando as alterações concorrentes do comparativo Genio S fora do commit.
 - Push e deploy não autorizados nesta rodada; o artigo não foi publicado por esta tarefa.
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/damie/poltrona-charles-eames-design-iconico-e-alternativas-capa-v2.webp` (`imageFit: contain`), SHA-256 `50c763e38708ef02642c2b98917486f759c00638a6eda77694af02bcd899a06f`.
+- **Alt:** Cecília sorrindo, sentada em uma poltrona clara e com as mãos apoiadas sobre as pernas, em foto própria indicada pelo Bruno, ao lado da chamada Poltrona decorativa e da pergunta Aurora ou Levita?
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Foto própria indicada pelo Bruno (original 20260609_152050.jpg), zoom aprovado com cabelo, rosto e mãos preservados e os pés fora do quadro; móvel recebido em parceria. O modelo da poltrona clara não foi confirmado: a chamada "Aurora ou Levita?" não identifica a fotografada como um desses modelos. Parecer vigente: lotes/38/revisao-terra/ADENDO-ZOOM-3.md (SHA 50c763e3…).
+- **Lote 38 do piloto de capas (sequência 12 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-SEQUENCIA-12-CLAUDE.zip` (`lotes/38/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/damie/poltrona-decorativa-aurora-levita-capa-discover.webp`) fica no CDN, sem uso como capa.

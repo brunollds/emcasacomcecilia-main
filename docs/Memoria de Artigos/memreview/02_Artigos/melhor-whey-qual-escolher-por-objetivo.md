@@ -253,3 +253,10 @@ Releitura de preço e estoque em 23/10/2026, no dia da publicação: Black Skull
 - **Preços (10/11):** Black Skull, Max e Probiótica pela API VTEX (iguais aos de 07/11); Dr. Peanut e Mais Mu no Chrome. A Mais Mu está em promoção (potes de 450 g a R$ 135,99, Isolado a R$ 179,99, sachês a R$ 203,87 e R$ 216,62).
 - **Preço com o código:** Black Skull (CECILIA10, 10% em todos os itens, simulação VTEX), Dr. Peanut e Mais Mu (10% fixos). Max e Probiótica ficam com o preço da página e "até 10%" (decisão do Bruno). Teste no carrinho anônimo da Max em 10/11: 2% no 100% Whey (pote e refil), no IsoWhey e no Top Whey 3W + Performance; 8,9% no Top Whey 3W + Sabor em promoção. Na Probiótica o cupom fica no checkout (`secure.probiotica.com.br`), que não abriu no Chrome; carrinhos esvaziados.
 - **Contas:** preço × 100 × porção ÷ (peso × proteína), sem arredondar o número de porções (corrige as 7 contas do parecer). Mais Mu: Baunilha 450 g 20 g em 36 g (tabela da página); Isolado 22 g em 27 g (rótulo lido no AG1, 09/11); sachês 20 g cada; pote de Paçoquita sem a tabela na página, e a conta dele fica em aberto.
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/whey/melhor-whey-qual-escolher-por-objetivo-capa-v2.webp` (`imageFit: contain`), SHA-256 `1762cca2e7c5668cc0fb1c92a942bcaac456167280ab7d02df104bd7b69e8806`.
+- **Alt:** Pote Hiper 100% Whey Cookies de 900 g da Probiótica com copo, dosador, mão e cookies, em cena promocional oficial, ao lado da pergunta Qual whey escolher? e do apoio Para cada objetivo.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Hiper 100% Whey Cookies 900 g da Probiótica em imagem oficial; sem teste nem efeito de saúde. Produto em foto real.
+- **Lote 38 do piloto de capas (sequência 12 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-SEQUENCIA-12-CLAUDE.zip` (`lotes/38/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/whey/melhor-whey-qual-escolher-por-objetivo-capa.webp`) fica no CDN, sem uso como capa.

@@ -520,3 +520,10 @@ A escolha aqui é por critério de compra, com os números do rótulo e os preç
 ### Nota de transparência
 
 A Black Skull e a Max Titanium são parceiras do Em Casa com Cecília, cada uma com um cupom da casa. Se você compra com o CECILIA10 ou com o MAX10EMCASACOMCECILIA, o site recebe uma comissão, sem custo a mais para você. A comparação usa só o que as duas lojas publicam: rótulo, lista de ingredientes e preço do catálogo, com as contas por dose e por proteína feitas por nós. Não provamos os produtos, e o texto não fala de sabor nem de resultado. Dose diária, horário e uso por quem tem alguma restrição são conversa para um nutricionista.
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/black-skull/black-skull-ou-max-titanium-capa-v2.webp` (`imageFit: contain`), SHA-256 `f5771b90739c2dcfe26fa59538d392ba8ce58351943d51132dc2ee49fde393ba`.
+- **Alt:** Embalagem de 100% Whey Chocolate de 900 g da Max Titanium com calda de chocolate sobre um pedestal, em peça promocional oficial, ao lado da pergunta Black Skull ou Max? e do apoio Whey e creatina.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. 100% Whey Chocolate 900 g da Max Titanium com calda em cena oficial; sem inferir pote ou refil pelo contorno. Produto em foto real.
+- **Lote 38 do piloto de capas (sequência 12 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-SEQUENCIA-12-CLAUDE.zip` (`lotes/38/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/black-skull/black-skull-ou-max-titanium-capa.webp`) fica no CDN, sem uso como capa.

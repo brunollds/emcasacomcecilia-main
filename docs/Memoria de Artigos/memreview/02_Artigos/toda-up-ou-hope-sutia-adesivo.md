@@ -80,3 +80,10 @@ As duas peças lado a lado: preço (R$ 149,90 nas duas páginas, mas R$ 134,91 n
 ## 7. Pontuação
 
 Dor 20/25, demanda 16/20, valor além do oficial 15/20, visita 10/15, cluster 8/10, conversão 5/10. Total 74.
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/toda-up-ou-hope-sutia-adesivo-capa-v2.webp` (`imageFit: contain`), SHA-256 `54d4876e713c6989db3cf0b2914f1ff858d7fef3a73e593378fefff08f01bff1`.
+- **Alt:** Modelo adulta demonstrando com as mãos o fecho central do sutiã adesivo de silicone da Toda Up, em foto oficial, ao lado da pergunta Toda Up ou Hope? e do apoio Sutiã adesivo.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Foto oficial da Toda Up com demonstração do fecho central do sutiã adesivo; a modelo não é a Cecília. Sem foto da Hope. MAUAD fora da arte e do alt. Produto em foto real.
+- **Lote 37 do piloto de capas (sequência 12 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-SEQUENCIA-12-CLAUDE.zip` (`lotes/37/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/toda-up/toda-up-ou-hope-sutia-adesivo-capa.webp`) fica no CDN, sem uso como capa.
