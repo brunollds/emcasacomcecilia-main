@@ -28,6 +28,11 @@ preço promocional).
 O código `CECILIA10` também foi o da Kopenhagen (pausada) e o primeiro da DAMIE (histórico). Nos
 artigos, o código vale para a loja do `affiliate` do artigo.
 
+Pagamento e frete publicados pela loja, lidos no site dela em 2026-11-12 pela sessão de cupons (estão em `/cupons` desde o #924; reler na rodada mensal):
+
+- Parcelamento: até 8x sem juros no cartão, com parcela mínima de R$ 50; Pix parcelado em 4x sem juros, com a primeira parcela na hora e as demais a cada 15 dias (`/institucional/politica-de-pagamento`).
+- Frete grátis: acima de R$ 199,90 no Sul e no Sudeste, de R$ 249,90 no Centro-Oeste e de R$ 299,90 nas demais regiões, sobre o total do carrinho já com os descontos (`/institucional/politica-de-entrega`). A faixa "frete grátis para todo o Brasil" da home remete a essas regras.
+
 ---
 
 ## 2. Fatos Oficiais & Catálogo (Estáveis)

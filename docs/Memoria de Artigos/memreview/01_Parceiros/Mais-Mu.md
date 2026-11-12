@@ -32,6 +32,10 @@ Paçoquita 450 g (R$ 159,99) e Creatina 100% Pura Sem Sabor refil 500 g em ofert
 R$ 119,00); subtotal de R$ 239,89; com o cupom, "Desconto do cupom − R$ 23,99" e total de R$ 215,90.
 O cupom fica no checkout (depois de "Iniciar compra" no carrinho), em "Adicionar cupom de desconto".
 
+Pagamento e frete publicados pela loja, lidos no site dela em 2026-11-12 pela sessão de cupons (estão em `/cupons` desde o #924; reler na rodada mensal):
+
+- Parcelamento: 3x sem juros no cartão (selo da home).
+
 ---
 
 ## 2. Fatos Oficiais & Catálogo (Estáveis)

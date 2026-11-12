@@ -76,6 +76,10 @@ O redirecionamento da Insider descarta o `utm_source=influmkt` do link, porque e
 do parâmetro `redirect`. `utm_medium`, `utm_campaign` e `cupom` chegam à loja. O link foi mantido
 como a parceria entregou, porque o FAQ proíbe editar o link.
 
+Pagamento e frete publicados pela loja, lidos no site dela em 2026-11-12 pela sessão de cupons (estão em `/cupons` desde o #924; reler na rodada mensal):
+
+- Frete: grátis em compras acima de R$ 399; com cupom, o envio é cobrado se o valor ficar abaixo disso (`/policies/shipping-policy`).
+
 ---
 
 ## 2. Fatos Oficiais & Catálogo (Estáveis)

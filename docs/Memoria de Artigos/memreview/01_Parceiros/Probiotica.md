@@ -36,6 +36,11 @@ quem já comprou. Prints do teste em
 Bruno (25/10/2026): o cupom **soma com as promoções** da loja (como diz o `couponsData.ts`, teste de 13/10
 com creatina em promoção no carrinho).
 
+Pagamento e frete publicados pela loja, lidos no site dela em 2026-11-12 pela sessão de cupons (estão em `/cupons` desde o #924; reler na rodada mensal):
+
+- Parcelamento: 6x sem juros (faixa do topo do site).
+- Frete grátis por região: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte, pelo envio de menor valor; com cupom, o frete pode ser cobrado se o total ficar abaixo do mínimo (`/politica-de-frete-gratis`).
+
 ---
 
 ## 2. Fatos Oficiais & Catálogo (Estáveis)

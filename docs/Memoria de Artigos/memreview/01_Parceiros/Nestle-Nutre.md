@@ -41,6 +41,10 @@ revisao_geral_ate: "2026-09-01"
 >   não por essa proibição. NAN para 1 a 3 anos (art. 3º, III) também não está na proibição.
 > - A mesma vedação alcança mamadeiras, bicos e chupetas (art. 3º, VII).
 
+Pagamento e frete publicados pela loja, lidos no site dela em 2026-11-12 pela sessão de cupons (estão em `/cupons` desde o #924; reler na rodada mensal):
+
+- Parcelamento: até 6x sem juros (home). O "frete grátis acima de R$ 200" da home estava em campanha e não entrou na página.
+
 ---
 
 ## 2. Linhas de Produtos & Fatos Oficiais (Estáveis)
