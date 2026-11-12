@@ -7,9 +7,9 @@ parceiro_slug: "damie"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador; redação"
+status: "pronto-para-deploy"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "deploy (decisão do Bruno); depois IndexNow e fechamento no vault"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PC-DAMIE"
@@ -160,3 +160,42 @@ Corpo: uma foto do produto do teste (o puff do sofá modular), com `href` para a
 | Sem valor mínimo | nenhuma | sem fonte: não escrever |
 | Frete grátis por região | [[DAMIE]], 08/10 e 09/11 | divergente no Centro-Oeste; só com leitura do dia |
 | A loja não anuncia cupom próprio de primeira compra | home lida em 12/11 | contexto interno; o artigo não afirma |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- Puff Damie Na Caixa Modular (`/products/puff-damie-na-caixa-modular`): R$ 1.300,00 em suede, bouclé e linho (corino R$ 1.399,00; couro R$ 2.450,00). É o preço do teste de 11/11, então a conta do `testNote` entrou sem mudança.
+- `/pages/formas-de-pagamento`: "PIX à vista com 10% de desconto"; cartão e PayPal em até 12x sem juros, parcela mínima de R$ 100,00; boleto à vista.
+- Frete por CEP não foi lido: o artigo não cita região.
+- Search Console: o CSV da linha de base não foi guardado por esta sessão (sem acesso); pedido ao Bruno.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-damie-primeira-compra.json` (id 911), no esqueleto do briefing: resposta rápida (59 palavras), "Cupom DAMIE primeira compra: qual usar", "O que o primeiro pedido exige", "Quanto fica com o Pix" (tabela do teste e a foto do puff), "E na segunda compra?", "Onde colar o código" e FAQ com 4 perguntas. A pergunta do cadastro ficou fora: o checkout não foi aberto.
+
+Mudanças sobre os rascunhos do briefing:
+
+- Resposta rápida e snippet: "com todas as formas de pagamento" no lugar de "qualquer forma de pagamento" e de "Pix ou cartão" (`CONTRATOS-DE-CONTEUDO.md`). A resposta rápida ganhou a frase que aponta o capítulo do Pix.
+- "Quanto fica com o Pix": além da conta do teste, uma "Conta nossa:" com o desconto dos dois juntos (20,8% do preço do puff: R$ 1.029,60 sobre R$ 1.300,00), para o leitor não somar 10 com 12.
+- "A loja informa:" para o Pix de 10% e o parcelamento em 12 vezes, lidos hoje.
+
+Matriz de claims: a do briefing vale; acrescentados "cartão em até 12x sem juros" (formas de pagamento, 12/11) e "os dois descontos juntos dão 20,8%" (conta nossa sobre o `testNote`).
+
+## Revisão (Job 3, 12/11/2026)
+
+1 a 10: passou. Disclosure no `editorialNote` (parceria e comissão, sem data); 2 links internos (`/cupons/damie` com a âncora "cupom DAMIE" e o "como usar"); código chamado de cupom, que é o que ele é na loja; uma imagem no corpo além da capa; resposta rápida com 59 palavras e tudo dela repetido nos capítulos.
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data no corpo (a do teste, na legenda da tabela). C3: 0. C4: 0. C5: 0.
+- C6: os valores da tabela não voltam na prosa nem no FAQ; os 12% e os 10% são a oferta.
+- C7: nenhum capítulo de método ou só de encaminho. C8: a foto do puff está no capítulo do teste, com `href` para a página do produto. C8b: não se aplica.
+- C9: "A loja informa:" 1 vez; "Conta nossa:" 1 vez, com a origem dos números; os outros, 0.
+- C10: Anexo Casa-Malas; a conta própria é o centro do capítulo do Pix. C11: o briefing não contradiz a seção 6.
+- C12: a primeira frase de cada capítulo traz a conclusão. C13, C13b, C13c: artigo de cupom, sem veredito por perfil, sem `emphasis` e sem `decision` (regra da série).
+- C14: "E na segunda compra?" vem do molde da série, não do banco de perguntas do dossiê; mantido por ser o molde aprovado.
+- Regras da série: sem benefício da própria loja além de "não soma com o giftback" (sem percentual), sem código de terceiros, sem "exclusivo", "maior" ou "melhor"; sem "sem valor mínimo"; sem frete por região.
+- Leitura em voz alta (resposta rápida e "Quanto fica com o Pix"): soa como pessoa ajudando.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 12/11/2026, no CDN e verificadas)
+
+- **Capa:** `/images/reviews/damie/cupom-damie-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da DAMIE, "Cupom DAMIE primeira compra" e o CECILIA12. Alt: Sofá Damie Modular de 3 lugares, em foto oficial da DAMIE, ao lado da chamada Cupom DAMIE primeira compra e do código CECILIA12.
+- **Quanto fica com o Pix:** `/images/reviews/damie/cupom-damie-primeira-compra-puff-modular.webp` (quadrada, `href` para a página do puff). Alt: Puff do Sofá Damie Modular, em foto oficial da DAMIE. Legenda: O puff avulso do Sofá Damie Modular, o produto do nosso teste. Foto: DAMIE.
+- **Origem:** fotos oficiais da DAMIE, das páginas do Sofá Damie Modular 3 Lugares (suede bege) e do Puff Damie Na Caixa Modular, lidas em 12/11/2026. Nenhuma capa da DAMIE usa a foto do sofá bege (as outras são fotos da Cecília). Sem IA.
