@@ -171,8 +171,8 @@
     {
       "heading": "Frete grátis: onde o kit compensa",
       "paragraphs": [
-        "O frete é grátis quando o valor do carrinho, antes do cupom, chega a R$ 149,90 em São Paulo (capital), no Sudeste e no Sul, e a R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Vale para a entrega mais barata. Abaixo desse valor, a loja cobra o frete.",
-        "O mínimo conta o preço antes do cupom, então o cupom não tira o frete grátis de quem já passou dele. O kit de 3 × 600 g (R$ 158,11) passa o limite do Sudeste e do Sul, mas não o das outras regiões. Os kits de 4 × 600 g (R$ 203,63) e de 5 × 600 g (R$ 252,42) passam o limite em todas as regiões."
+        "O frete é grátis quando o valor do carrinho, depois do cupom, chega a R$ 149,90 em São Paulo (capital), no Sudeste e no Sul, e a R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Vale para a entrega mais barata. Abaixo desse valor, a loja cobra o frete.",
+        "O mínimo conta o valor depois do cupom, então o desconto pode tirar o frete grátis de quem passa por pouco. Sem o cupom, o kit de 3 × 600 g (R$ 158,11) passa o limite do Sudeste e do Sul; com ele, cai para R$ 142,30 e fica abaixo. O kit de 4 × 600 g (R$ 183,27 com o cupom) passa o limite do Sudeste e do Sul, mas não o das outras regiões. O de 5 × 600 g (R$ 227,18 com o cupom) passa o limite em todas as regiões."
       ]
     },
     {
@@ -218,7 +218,7 @@
       },
       "postParagraphs": [
         "Por isso a assinatura com cupom sai abaixo do kit de 250 g com cupom nas quantidades comparadas: R$ 42,46 contra R$ 42,88 com 2, R$ 60,58 contra R$ 61,52 com 3 e R$ 77,67 contra R$ 79,23 com 4, ou seja, R$ 0,42, R$ 0,94 e R$ 1,56 a menos por ciclo. A partir de 4 pastas, R$ 7,77 por 100 g: só os kits de 4 × 600 g (R$ 7,64) e de 5 × 600 g (R$ 7,57) com cupom ficam abaixo. Confira na contratação o valor e as condições das próximas cobranças.",
-        "O frete da assinatura é grátis a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas demais regiões. O mínimo conta o valor antes do cupom. Na assinatura, o aviso do carrinho mostra quando o pedido chega lá."
+        "O frete da assinatura é grátis a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas demais regiões. O mínimo conta o valor depois do cupom. Na assinatura, o aviso do carrinho mostra quando o pedido chega lá."
       ]
     },
     {
@@ -234,7 +234,7 @@
       "emphasis": "Pelos preços da tabela, o kit de 5 × 600 g tem o menor custo por 100 g. Confira se os 3 kg cabem no consumo e na validade das embalagens; depois compare o total com frete.",
       "emphasisAfterParagraph": 5,
       "paragraphs": [
-        "Na tabela, o kit de 5 × 600 g sai a R$ 8,41 por 100 g sem cupom e R$ 7,57 com o código, e o total passa do mínimo de frete grátis em todas as regiões já antes do cupom. Esse resultado favorece o kit se você pretende consumir os 3 kg dentro da validade das embalagens.",
+        "Na tabela, o kit de 5 × 600 g sai a R$ 8,41 por 100 g sem cupom e R$ 7,57 com o código, e o total passa do mínimo de frete grátis em todas as regiões mesmo com o cupom. Esse resultado favorece o kit se você pretende consumir os 3 kg dentro da validade das embalagens.",
         "Para levar um único pote, o de 600 g custa menos por 100 g que o de 250 g: R$ 9,98 sem cupom ou R$ 8,98 com o código, antes do frete.",
         "Para testar a pasta, leve 2 × 250 g em vez do pote avulso de 250 g: sai R$ 9,53 por 100 g, 8% abaixo do avulso. O pote de 250 g sozinho só faz sentido se você quer um pote só.",
         "Para quem busca 1 kg, ou quer potes de 250 g todo mês, a assinatura com o cupom: 4 pastas saem por R$ 77,67, R$ 7,77 por 100 g, abaixo do kit de 4 × 250 g com cupom (R$ 79,23). Sem assinatura, o kit de 4 × 250 g.",

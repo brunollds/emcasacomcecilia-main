@@ -74448,7 +74448,7 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "Na troca por outro produto, o frete de ida e o de volta são seus",
-      "O frete grátis depende do mínimo da região e é conferido antes do cupom",
+      "O frete grátis depende do mínimo da região e o valor conta depois do cupom",
       "Reputação Boa (nota 7,4) nos últimos 6 meses, abaixo da de 12 meses",
       "A política de trocas não informa prazo para a troca por outro produto"
     ],
@@ -74584,7 +74584,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O frete grátis vale na opção de entrega mais barata. Para quem usa cupom, o detalhe que conta é este: o mínimo conta o valor do carrinho antes do desconto. Se o seu carrinho tem R$ 155 e o cupom tira 10%, o total cai para R$ 139,50 e o frete segue grátis no Sudeste. O aviso do carrinho mostra se você chegou lá.",
+          "O frete grátis vale na opção de entrega mais barata. Para quem usa cupom, o detalhe que conta é este: o mínimo conta o valor do carrinho depois do desconto. Se o seu carrinho tem R$ 155 e o cupom tira 10%, o total cai para R$ 139,50, abaixo do mínimo do Sudeste, e a loja cobra o frete. O aviso do carrinho mostra se você chegou lá.",
           "Para pagar, o rodapé do site lista cartões (Visa, Mastercard, Diners, American Express, Elo e Hipercard), boleto, débito online pelos bancos (Itaú, Bradesco e Banco do Brasil) e Pix."
         ]
       },
@@ -74617,7 +74617,7 @@ export const reviewsData: unknown[] = [
         "heading": "Vale a pena comprar no site da Dr. Peanut?",
         "paragraphs": [
           "Do ponto de vista da confiança, sim. O CNPJ está ativo desde 2017, a empresa é uma fábrica brasileira, está ligada à Supley e mostra no rodapé o CNPJ e o endereço. As regras de troca e de frete estão escritas com número e prazo, e o arrependimento sai sem custo para você.",
-          "Os cuidados são pontuais. A troca por outro produto tem o frete por sua conta, então vale conferir o sabor ou o item antes de fechar o carrinho. O frete grátis depende do mínimo da sua região, contado antes do cupom. E, no Reclame Aqui, a reputação dos últimos 6 meses (Boa, 7,4) ficou abaixo da de 12 meses (Ótima, 8,1). Se você já pretendia comprar, vale usar o cupom e conferir o carrinho antes de pagar."
+          "Os cuidados são pontuais. A troca por outro produto tem o frete por sua conta, então vale conferir o sabor ou o item antes de fechar o carrinho. O frete grátis depende do mínimo da sua região, contado depois do cupom. E, no Reclame Aqui, a reputação dos últimos 6 meses (Boa, 7,4) ficou abaixo da de 12 meses (Ótima, 8,1). Se você já pretendia comprar, vale usar o cupom e conferir o carrinho antes de pagar."
         ]
       },
       {
@@ -74630,7 +74630,7 @@ export const reviewsData: unknown[] = [
           "O site da Dr. Peanut é seguro? O site oficial, drpeanut.com.br, mostra o selo \"Site Seguro SSL\", roda na plataforma VTEX e traz CNPJ e endereço no rodapé. Confira sempre o endereço antes de pagar.",
           "Qual é o CNPJ da Dr. Peanut? É 28.324.667/0001-69, da Body Food Fabricantes de Alimentos Saudáveis Ltda., com sede na Rua Martha Gembaroski Tuleski, 320, no bairro CIC, em Curitiba (PR).",
           "Posso trocar um produto da Dr. Peanut? Pode. Por arrependimento, são 7 dias corridos do recebimento, com a embalagem original e o lacre intactos, e a loja paga a devolução. Por defeito, são 30 dias para alimentos e 90 dias para roupas, acessórios e coqueteleiras. Na troca por outro produto, o frete de ida e de volta é seu.",
-          "A Dr. Peanut tem frete grátis? Tem. O mínimo é R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o valor antes do cupom.",
+          "A Dr. Peanut tem frete grátis? Tem. O mínimo é R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o valor depois do cupom.",
           "Tem cupom de primeira compra na Dr. Peanut? Sim: o DREMCASACOMCECILIA dá 10% OFF em todo o site e vale na primeira compra e nas seguintes, em todas as formas de pagamento e somando com as promoções. A [página do cupom da Dr. Peanut](/cupons/dr-peanut) traz as condições atuais."
         ]
       }
@@ -74972,7 +74972,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: como usar o cupom da Dr. Peanut",
         "paragraphs": [
-          "O [cupom Dr. Peanut](/cupons/dr-peanut) é DREMCASACOMCECILIA: dá 10% no site e soma com as promoções. No carrinho, digite o código no campo “Código”, clique em “Adicionar” e confira a linha “Descontos” antes de pagar. O mínimo do frete grátis varia por região e é calculado antes do cupom."
+          "O [cupom Dr. Peanut](/cupons/dr-peanut) é DREMCASACOMCECILIA: dá 10% no site e soma com as promoções. No carrinho, digite o código no campo “Código”, clique em “Adicionar” e confira a linha “Descontos” antes de pagar. O mínimo do frete grátis varia por região e conta depois do cupom."
         ]
       },
       {
@@ -75029,7 +75029,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**O código ao lado de \"Cupom de desconto\":** deve estar escrito DREMCASACOMCECILIA, sem letra faltando.",
           "**A linha \"Descontos\":** é ela que mostra o valor abatido. Se não aparecer, o desconto não foi aplicado.",
-          "**O Total:** é o valor que você paga. O frete grátis não depende dele, porque a loja confere o mínimo antes do desconto."
+          "**O Total:** é o valor que você paga. O mínimo do frete grátis conta depois do desconto: perto dele, confira se o frete continua grátis."
         ],
         "image": "/images/reviews/dr-peanut/dr-peanut-cupom-03-desconto-aplicado.webp",
         "imageAlt": "Resumo do carrinho da Dr. Peanut depois do cupom: código DREMCASACOMCECILIA aceito, Subtotal de R$ 440,16, Descontos de R$ 44,02 e Total de R$ 396,14",
@@ -75066,8 +75066,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O frete grátis vale na opção de entrega mais barata. O mínimo é conferido sobre o valor da compra **antes do cupom**. Testamos em novembro: um carrinho de R$ 163,45 liberou o frete grátis, e ele seguiu grátis com o total em R$ 147,10 depois dos 10%.",
-          "Exemplo (conta ilustrativa, não é do nosso teste): um carrinho de R$ 155,00 passa de R$ 149,90 e segue com frete grátis em São Paulo capital, no Sudeste e no Sul, mesmo com os 10% do cupom levando o total a R$ 139,50.",
+          "O frete grátis vale na opção de entrega mais barata. O mínimo conta o valor da compra **depois do cupom**. No teste mais recente, de novembro, com entrega em São Paulo, um carrinho de R$ 155,34 tinha frete grátis; com o cupom, os produtos caíram para R$ 139,80 e a loja cobrou R$ 12,23 de frete.",
+          "Perto do mínimo, compare o total com e sem o código: nesse carrinho, a economia final com o cupom foi de R$ 3,31.",
           "Depois de aplicar o cupom, confira o Total antes de pagar."
         ]
       },
@@ -75104,7 +75104,7 @@ export const reviewsData: unknown[] = [
           "Tem cupom de primeira compra na Dr. Peanut? Sim: o DREMCASACOMCECILIA vale na primeira compra e nas seguintes, tanto para quem cria a conta agora quanto para quem já comprou.",
           "O cupom da Dr. Peanut vale em produto em promoção? Sim. No nosso teste, o cupom tirou 10% do subtotal, que já incluía uma pasta de amendoim em promoção.",
           "O cupom vale em todas as formas de pagamento? Sim. O DREMCASACOMCECILIA vale em todas as formas de pagamento da loja e soma com as promoções do site.",
-          "O cupom da Dr. Peanut dá frete grátis? Não por si só: o cupom dá 10% de desconto, e o frete grátis é uma regra à parte da loja. Começa em R$ 149,90 em São Paulo capital, Sudeste e Sul e em R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o valor antes do cupom.",
+          "O cupom da Dr. Peanut dá frete grátis? Não por si só: o cupom dá 10% de desconto, e o frete grátis é uma regra à parte da loja. Começa em R$ 149,90 em São Paulo capital, Sudeste e Sul e em R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o valor depois do cupom.",
           "Tem cupom para pasta de amendoim Dr. Peanut? Sim. O DREMCASACOMCECILIA vale em todo o site, então vale nas pastas de amendoim, inclusive nas que estão em promoção. As condições atuais ficam na [página do cupom da Dr. Peanut](/cupons/dr-peanut).",
           "Onde o cupom vale? No site oficial da Dr. Peanut, o drpeanut.com.br, onde o código é digitado no carrinho."
         ]
@@ -79698,15 +79698,15 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 1.0423
       },
       {
-        "heading": "Frete grátis por região: o mínimo conta antes do cupom",
+        "heading": "Frete grátis por região: o mínimo conta depois do cupom",
         "paragraphs": [
-          "O frete grátis da Dr. Peanut depende de onde você mora, e a loja confere o mínimo sobre o valor do carrinho **antes do cupom**. Um carrinho de R$ 163,45 libera o frete grátis em São Paulo, e ele segue grátis depois do cupom, com o total em R$ 147,10, abaixo do mínimo. O frete grátis vale na opção de entrega mais barata."
+          "O frete grátis da Dr. Peanut depende de onde você mora, e o mínimo conta **depois do cupom**. No nosso teste de novembro, com entrega em São Paulo, um carrinho de R$ 155,34 tinha frete grátis; com o cupom, os produtos caíram para R$ 139,80 e a loja passou a cobrar R$ 12,23 de frete. O frete grátis vale na opção de entrega mais barata."
         ],
         "comparisonTable": {
-          "caption": "Frete grátis da Dr. Peanut por região: mínimo da loja, sobre o valor antes do cupom.",
+          "caption": "Frete grátis da Dr. Peanut por região: mínimo da loja, sobre o valor depois do cupom.",
           "headers": [
             "Região",
-            "Frete grátis a partir de (valor antes do cupom)"
+            "Frete grátis a partir de (valor depois do cupom)"
           ],
           "rows": [
             [
@@ -79720,7 +79720,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Um carrinho de R$ 155,00, por exemplo, passa de R$ 149,90 e segue com frete grátis em São Paulo capital, no Sudeste e no Sul, mesmo com os 10% levando o total a R$ 139,50. Se faltar pouco para o mínimo, compare o custo do frete com o de um item extra.",
+          "Perto do mínimo, aplique o cupom, informe o CEP e compare o total com e sem o código antes de pagar.",
           "Os mínimos eram os mesmos em outubro e no início de novembro. Mesmo assim, reconfira o aviso do carrinho: ele mostra o mínimo da sua região no momento da compra."
         ],
         "image": "/images/reviews/dr-peanut/dr-peanut-cupom-01-carrinho-sem-cupom.webp",
@@ -79737,7 +79737,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Código aceito:** o DREMCASACOMCECILIA aparece ao lado de \"Cupom de desconto\", sem letra faltando, e a linha \"Descontos\" mostra o valor abatido em reais. Sem essa linha, o desconto não entrou. A [página do cupom da Dr. Peanut](/cupons/dr-peanut) traz as condições e a data do último teste.",
           "**Preço da promoção:** o subtotal já traz o preço promocional do item. O cupom incide sobre ele.",
-          "**Frete:** a faixa do frete grátis no topo do carrinho conta o valor antes do cupom: compare o subtotal, sem o desconto, com o mínimo da sua região.",
+          "**Frete:** o mínimo do frete grátis conta o valor depois do cupom: compare o total, já com o desconto, com o mínimo da sua região.",
           "**Peso e quantidade:** confira o peso do pote e quantos potes o combo traz. Compare o preço por quilo entre o pote avulso e o combo, em vez de olhar só o preço final. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
           "**Validade e lote:** veja a validade e o lote do produto no rótulo quando o pedido chegar. Se houver avaria, embalagem violada ou item errado, você pode recusar a encomenda na entrega e escrever o motivo no verso da nota fiscal.",
           "**Troca:** arrependimento são 7 dias corridos do recebimento, e a loja paga a devolução. A política da loja pede a embalagem original e o lacre intactos; o direito de arrependimento em 7 dias vale de qualquer jeito. A troca por outro produto tem o frete de ida e de volta por sua conta, então confira o sabor antes de fechar. Os prazos completos (inclusive o de defeito) estão em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel).",
@@ -79752,8 +79752,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Dr. Peanut? A loja não anunciou campanha: em novembro, o site não tinha datas, produtos nem preços de Black Friday. O grande dia é a última sexta-feira de novembro, e a Cyber Monday, a segunda seguinte. Se a campanha sair, o cupom DREMCASACOMCECILIA segue com 10% OFF em todo o site, e o carrinho mostra se ele soma com a oferta.",
           "O cupom DREMCASACOMCECILIA soma com promoção? Soma. Ele dá 10% OFF em todo o site, em todas as formas de pagamento, e vale também sobre a pasta de amendoim que já está em promoção.",
-          "A Dr. Peanut tem frete grátis? Tem, e o mínimo conta o valor antes do cupom: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte.",
-          "Quanto o carrinho precisa ter antes do cupom para ter frete grátis? O mínimo da sua região: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte. O cupom não entra nessa conta.",
+          "A Dr. Peanut tem frete grátis? Tem, e o mínimo conta o valor depois do cupom: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte.",
+          "Quanto o carrinho precisa ter para ter frete grátis com o cupom? O mínimo da sua região, já com o desconto: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte. Se o cupom deixar o total abaixo disso, a loja cobra o frete.",
           "A Dr. Peanut tem desconto no Pix? Tem: a ficha do produto mostra 3%. O cupom vale em todas as formas de pagamento, inclusive no Pix.",
           "Dá para trocar um produto da Dr. Peanut? Dá. Por arrependimento, são 7 dias corridos do recebimento, e a loja paga a devolução (a política da loja pede a embalagem original e o lacre intactos). Na troca por outro produto, o frete de ida e de volta é seu. Por defeito, são 30 dias para alimentos.",
           "Vale esperar a Black Friday para comprar? Se o pedido não é urgente, compare o total do carrinho na semana da Black Friday com o de hoje, já com o cupom. A loja não publicou preço de campanha, então nenhum desconto está garantido."
@@ -82692,7 +82692,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preço e cupom da Dr. Peanut",
         "paragraphs": [
           "O cupom **DREMCASACOMCECILIA** dá 10% de desconto em todo o site da Dr. Peanut. Vale em todas as formas de pagamento e soma com as promoções do site. Os 10% valem num combo de três pastas que já estava em promoção: de R$ 68,35, o total caiu para R$ 61,51. Nas condições de pagamento da página do produto, o Pix tinha 3% de desconto adicional.",
-          "O frete grátis conta o valor antes do cupom. Pela faixa do site, ele vale no Sul e no Sudeste em compras acima de R$ 149,90 e, nas demais regiões, acima de R$ 199,90. Pelo preço de tabela dos potes, o quadro mostra quais compras chegam ao mínimo:"
+          "O frete grátis conta o valor depois do cupom. Pela faixa do site, ele vale no Sul e no Sudeste em compras acima de R$ 149,90 e, nas demais regiões, acima de R$ 199,90. O quadro mostra quais compras chegam ao mínimo pelo preço de tabela, sem o cupom:"
         ],
         "comparisonTable": {
           "headers": [
@@ -82742,10 +82742,10 @@ export const reviewsData: unknown[] = [
               "Sim"
             ]
           ],
-          "caption": "Frete grátis pelo preço de tabela, antes do cupom e sem desconto adicional de pagamento. O frete depende do CEP: confirme no carrinho."
+          "caption": "Frete grátis pelo preço de tabela, sem o cupom e sem desconto adicional de pagamento. Com o cupom, o total cai 10%: confirme o frete do seu CEP no carrinho."
         },
         "postParagraphs": [
-          "O cupom não tira o frete grátis de quem já passou do mínimo: o Combo Best Sellers passa de R$ 149,90 pelo preço de tabela e segue com frete grátis no Sul e no Sudeste mesmo com os 10%. O combo de cinco potes de 250 g, a R$ 109,12 pelo preço de tabela, não chega ao mínimo. Confira o carrinho antes de pagar.",
+          "Com o cupom, a compra que passa do mínimo por pouco pode perder o frete grátis: os 10% baixam o total, e é ele que conta. O combo de cinco potes de 250 g, a R$ 109,12 pelo preço de tabela, não chega ao mínimo com ou sem o código. Aplique o cupom, informe o CEP e confira o frete antes de pagar.",
           "Escolha o sabor antes de fechar o pedido. Na troca por outro produto, o frete de ida e o de volta ficam por sua conta. O passo a passo do código no carrinho está no [Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site](/reviews/cupom-dr-peanut-como-usar), e o código para copiar fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut). Se você pode esperar novembro, veja o que a loja já anunciou em [Black Friday Dr. Peanut 2026: o que a loja já anunciou, o cupom DREMCASACOMCECILIA e o frete grátis](/reviews/black-friday-dr-peanut)."
         ],
         "links": [
@@ -101073,7 +101073,7 @@ export const reviewsData: unknown[] = [
           "Whey: R$ 224,39 o pote de 900 g."
         ],
         "postParagraphs": [
-          "O cupom DREMCASACOMCECILIA dá 10% de desconto em todo o site, em todas as formas de pagamento, e soma com as promoções. O frete grátis conta o valor antes do cupom: a partir de R$ 149,90 em São Paulo capital, no Sudeste e no Sul, e de R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. O passo a passo está em [como usar o cupom da Dr. Peanut](/reviews/cupom-dr-peanut-como-usar), e o código para copiar fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut). Para saber quem fabrica e como funcionam as trocas, veja [se a Dr. Peanut é confiável](/reviews/dr-peanut-e-confiavel)."
+          "O cupom DREMCASACOMCECILIA dá 10% de desconto em todo o site, em todas as formas de pagamento, e soma com as promoções. O frete grátis conta o valor depois do cupom: a partir de R$ 149,90 em São Paulo capital, no Sudeste e no Sul, e de R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. O passo a passo está em [como usar o cupom da Dr. Peanut](/reviews/cupom-dr-peanut-como-usar), e o código para copiar fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut). Para saber quem fabrica e como funcionam as trocas, veja [se a Dr. Peanut é confiável](/reviews/dr-peanut-e-confiavel)."
         ]
       },
       {
@@ -124319,8 +124319,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis: onde o kit compensa",
         "paragraphs": [
-          "O frete é grátis quando o valor do carrinho, antes do cupom, chega a R$ 149,90 em São Paulo (capital), no Sudeste e no Sul, e a R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Vale para a entrega mais barata. Abaixo desse valor, a loja cobra o frete.",
-          "O mínimo conta o preço antes do cupom, então o cupom não tira o frete grátis de quem já passou dele. O kit de 3 × 600 g (R$ 158,11) passa o limite do Sudeste e do Sul, mas não o das outras regiões. Os kits de 4 × 600 g (R$ 203,63) e de 5 × 600 g (R$ 252,42) passam o limite em todas as regiões."
+          "O frete é grátis quando o valor do carrinho, depois do cupom, chega a R$ 149,90 em São Paulo (capital), no Sudeste e no Sul, e a R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Vale para a entrega mais barata. Abaixo desse valor, a loja cobra o frete.",
+          "O mínimo conta o valor depois do cupom, então o desconto pode tirar o frete grátis de quem passa por pouco. Sem o cupom, o kit de 3 × 600 g (R$ 158,11) passa o limite do Sudeste e do Sul; com ele, cai para R$ 142,30 e fica abaixo. O kit de 4 × 600 g (R$ 183,27 com o cupom) passa o limite do Sudeste e do Sul, mas não o das outras regiões. O de 5 × 600 g (R$ 227,18 com o cupom) passa o limite em todas as regiões."
         ]
       },
       {
@@ -124366,7 +124366,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Por isso a assinatura com cupom sai abaixo do kit de 250 g com cupom nas quantidades comparadas: R$ 42,46 contra R$ 42,88 com 2, R$ 60,58 contra R$ 61,52 com 3 e R$ 77,67 contra R$ 79,23 com 4, ou seja, R$ 0,42, R$ 0,94 e R$ 1,56 a menos por ciclo. A partir de 4 pastas, R$ 7,77 por 100 g: só os kits de 4 × 600 g (R$ 7,64) e de 5 × 600 g (R$ 7,57) com cupom ficam abaixo. Confira na contratação o valor e as condições das próximas cobranças.",
-          "O frete da assinatura é grátis a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas demais regiões. O mínimo conta o valor antes do cupom. Na assinatura, o aviso do carrinho mostra quando o pedido chega lá."
+          "O frete da assinatura é grátis a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas demais regiões. O mínimo conta o valor depois do cupom. Na assinatura, o aviso do carrinho mostra quando o pedido chega lá."
         ]
       },
       {
@@ -124382,7 +124382,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "Pelos preços da tabela, o kit de 5 × 600 g tem o menor custo por 100 g. Confira se os 3 kg cabem no consumo e na validade das embalagens; depois compare o total com frete.",
         "emphasisAfterParagraph": 5,
         "paragraphs": [
-          "Na tabela, o kit de 5 × 600 g sai a R$ 8,41 por 100 g sem cupom e R$ 7,57 com o código, e o total passa do mínimo de frete grátis em todas as regiões já antes do cupom. Esse resultado favorece o kit se você pretende consumir os 3 kg dentro da validade das embalagens.",
+          "Na tabela, o kit de 5 × 600 g sai a R$ 8,41 por 100 g sem cupom e R$ 7,57 com o código, e o total passa do mínimo de frete grátis em todas as regiões mesmo com o cupom. Esse resultado favorece o kit se você pretende consumir os 3 kg dentro da validade das embalagens.",
           "Para levar um único pote, o de 600 g custa menos por 100 g que o de 250 g: R$ 9,98 sem cupom ou R$ 8,98 com o código, antes do frete.",
           "Para testar a pasta, leve 2 × 250 g em vez do pote avulso de 250 g: sai R$ 9,53 por 100 g, 8% abaixo do avulso. O pote de 250 g sozinho só faz sentido se você quer um pote só.",
           "Para quem busca 1 kg, ou quer potes de 250 g todo mês, a assinatura com o cupom: 4 pastas saem por R$ 77,67, R$ 7,77 por 100 g, abaixo do kit de 4 × 250 g com cupom (R$ 79,23). Sem assinatura, o kit de 4 × 250 g.",
@@ -126072,7 +126072,7 @@ export const reviewsData: unknown[] = [
           "Black Skull. Cupom CECILIA10, 10% em todo o site. Frete grátis: Sul e Sudeste acima de R$ 199,90; Centro-Oeste acima de R$ 249,90; demais regiões acima de R$ 299,90.",
           "Max Titanium. Cupom MAX10EMCASACOMCECILIA, até 10%. Frete grátis a partir de R$ 104 em São Paulo capital, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte; Sedex é sempre pago.",
           "Probiótica. Cupom PRO10EMCASACOMCECILIA, até 10%. Frete: o valor aparece no carrinho com o CEP.",
-          "Dr. Peanut. Cupom DREMCASACOMCECILIA, 10% em todo o site. Frete grátis a partir de R$ 149,90 em São Paulo capital, Sudeste e Sul, e de R$ 199,90 nas demais regiões, contado antes do cupom.",
+          "Dr. Peanut. Cupom DREMCASACOMCECILIA, 10% em todo o site. Frete grátis a partir de R$ 149,90 em São Paulo capital, Sudeste e Sul, e de R$ 199,90 nas demais regiões, contado depois do cupom.",
           "Skelt. Cupom SKEMCASACOMCECILIA, 10% em todo o site, mais 5% no Pix sobre o total com cupom. Frete na seção Lembrança de beleza."
         ],
         "links": [
@@ -176901,7 +176901,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto custa com o cupom e onde comprar",
         "paragraphs": [
           "O DREMCASACOMCECILIA tira 10% de todo o site, em todas as formas de pagamento, e soma com as promoções: entra até no item que já está com preço promocional. Entra também na assinatura, que só tem pastas de 250 g, com entrega mensal, bimestral ou trimestral e desconto progressivo de 4% com uma pasta a 15% com quatro ou mais; o cupom soma com esse desconto, com os 10% sobre o subtotal. Na comparação de preço, a assinatura com cupom ficou abaixo do kit de 250 g com a mesma quantidade, antes do frete.",
-          "O frete grátis conta o valor antes do cupom: a partir de R$ 149,90 em São Paulo capital, no Sudeste e no Sul, e de R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Um pote de 600 g sozinho não chega; o pote de whey chega em qualquer região. A compra é no site oficial, drpeanut.com.br, e o código para copiar fica na página do [cupom Dr. Peanut](/cupons/dr-peanut)."
+          "O frete grátis conta o valor depois do cupom: a partir de R$ 149,90 em São Paulo capital, no Sudeste e no Sul, e de R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Um pote de 600 g sozinho não chega; o pote de whey chega em qualquer região. A compra é no site oficial, drpeanut.com.br, e o código para copiar fica na página do [cupom Dr. Peanut](/cupons/dr-peanut)."
         ]
       },
       {
@@ -188755,9 +188755,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Frete: o mínimo conta antes do cupom",
+        "heading": "Frete: o mínimo conta depois do cupom",
         "paragraphs": [
-          "A Dr. Peanut dá frete grátis acima de R$ 149,90 no Sul e no Sudeste, e acima de R$ 199,90 nas demais regiões. O mínimo conta o valor antes do cupom, então o cupom não tira o frete grátis de quem já passou dele. O pote de R$ 224,39 passa dos dois mínimos sozinho, e o whey com o cupom DREMCASACOMCECILIA segue com frete grátis. A Max tem a regra de frete dela: veja o total no carrinho antes de comparar."
+          "A Dr. Peanut dá frete grátis acima de R$ 149,90 no Sul e no Sudeste, e acima de R$ 199,90 nas demais regiões. O mínimo conta o valor depois do cupom. O pote de R$ 224,39 sai por R$ 201,95 com o cupom DREMCASACOMCECILIA e segue acima dos dois mínimos. A Max tem a regra de frete dela: veja o total no carrinho antes de comparar."
         ]
       },
       {
@@ -217703,6 +217703,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Os 5% saíram do preço promocional do kit. Com ou sem o código, o valor dos produtos nesse exemplo fica abaixo de R$ 99; informe o CEP para conferir a entrega.",
+          "A política de cupons da loja exclui kits e duos e não soma com promoção. Nos nossos testes, kit e duo entraram, mas a regra existe e a loja pode aplicá-la: confira a linha do desconto no seu pedido.",
           "Se a loja oferecer desconto no Pix, ele soma com o código."
         ],
         "images": [
