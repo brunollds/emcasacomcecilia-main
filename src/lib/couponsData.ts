@@ -2777,7 +2777,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Existe cupom Petz de 15%?',
         answer:
-          'Os códigos de parceiro, como o EMCASA, dão 10%. O "até 15%" que aparece por aí é esse 10% mais os 5% do Retire na Loja, que vale em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste. Como os 5% saem do valor já com o cupom, a soma dá 14,5%.',
+          'O EMCASA dá 10%. Quando aparece "até 15%", em geral é a soma desses 10% com os 5% do Retire na Loja, que vale em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste. Como os 5% saem do valor já com o cupom, a soma dá 14,5%.',
       },
       {
         question: 'Onde coloco o cupom na Petz?',
@@ -2816,7 +2816,7 @@ const STORE_COUPONS: Coupon[] = [
     ],
     monthlyHighlight: {
       scope: 'no site e no app',
-      note: 'Na retirada em loja, em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste, a Petz tira mais 5% do valor já com o cupom: 14,5% no total. Em produto já em promoção, vale o desconto maior',
+      note: 'Na retirada em loja, em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste, a Petz tira mais 5% do valor já com o cupom: 14,5% no total. Em produto já em promoção, o cupom não soma: vale o desconto maior',
     },
     status: 'ativo',
     featured: false,
