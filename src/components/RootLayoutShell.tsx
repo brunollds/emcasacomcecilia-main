@@ -12,6 +12,8 @@ import { LOCALES, findLocaleByHtmlLang, type Locale } from '@/lib/i18n/locales';
 import { SEARCH_ACTION_URL_TEMPLATE } from '@/lib/siteSearch.mjs';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { brandLinks } from '@/lib/brandLinks';
+import { serializeJsonLd } from '@/lib/jsonLd';
+import { SITE_ORGANIZATION_ID, SITE_WEBSITE_ID } from '@/lib/pageSeo';
 
 const SITE_BASE_URL = 'https://emcasacomcecilia.com';
 const SITE_LOGO_URL = new URL(
@@ -130,6 +132,7 @@ export function RootLayoutShell({
   const organizationSchema = {
     '@context': 'https://schema.org',
     '@type': 'Organization',
+    '@id': SITE_ORGANIZATION_ID,
     name: 'Em Casa com Cecília',
     url: 'https://emcasacomcecilia.com',
     logo: SITE_LOGO_URL,
@@ -159,6 +162,8 @@ export function RootLayoutShell({
   const websiteSchema = {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
+    '@id': SITE_WEBSITE_ID,
+    publisher: { '@id': SITE_ORGANIZATION_ID },
     name: 'Em Casa com Cecília',
     url: 'https://emcasacomcecilia.com',
     description: copy.twitterDescription,
@@ -179,11 +184,11 @@ export function RootLayoutShell({
       <body className={`${montserrat.variable} ${lora.variable} ${caveat.variable} ${kalam.variable} antialiased`}>
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+          dangerouslySetInnerHTML={{ __html: serializeJsonLd(organizationSchema) }}
         />
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
+          dangerouslySetInnerHTML={{ __html: serializeJsonLd(websiteSchema) }}
         />
         <Navbar lang={lang} />
         {children}

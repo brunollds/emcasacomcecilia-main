@@ -5,6 +5,10 @@ import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 // data). A página de cupom usa daqui o endereço do site e a imagem da loja.
 
 export const SITE_URL = 'https://emcasacomcecilia.com';
+// Os @id do Organization e do WebSite que o layout emite em toda página: o JSON-LD de uma página aponta para eles
+// em vez de repetir o nó (publisher, isPartOf, reviewedBy).
+export const SITE_ORGANIZATION_ID = `${SITE_URL}/#organization`;
+export const SITE_WEBSITE_ID = `${SITE_URL}/#website`;
 export const SITE_NAME = 'Em Casa com Cecília';
 const SITE_LOGO = '/images/logos/logo-em-casa-com-cecilia.png';
 

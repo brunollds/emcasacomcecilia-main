@@ -1,4 +1,5 @@
 import assert from 'node:assert/strict';
+import { serializeJsonLd } from '../src/lib/jsonLd';
 import { resolveMediaUrl } from '../src/lib/resolve-media.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
@@ -128,8 +129,11 @@ function assertDiscoverHead(pagePath: string, head: string) {
   const robots = head.match(/<meta name="robots" content="([^"]*)"/)?.[1] ?? '';
   assert.ok(robots.includes('max-image-preview:large'), `${pagePath}: robots sem max-image-preview:large (${robots})`);
 }
+// Cada nó do JSON-LD da página: o bloco com @graph (as páginas de loja) conta pelos nós dele.
 const jsonLdOf = (html: string) =>
-  [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].map(([, json]) => JSON.parse(json));
+  [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)]
+    .map(([, json]) => JSON.parse(json))
+    .flatMap((schema) => (Array.isArray(schema['@graph']) ? schema['@graph'] : [schema]));
 
 // A Cecília é uma pessoa só no JSON-LD: o Person da /sobre e o das 9 homes de idioma, e a autoria dos
 // artigos e das receitas dela, levam este mesmo @id. O valor está escrito aqui de propósito: um id que
@@ -771,8 +775,41 @@ for (const { pagePath, store } of couponStorePages) {
   assert.ok(file, `${pagePath}: página não gerada no build`);
   const html = read(file);
   const image = assertShareImage(pagePath, headOf(html), getStoreSocialImage(store));
-  const webPage = jsonLdOf(html).find((schema) => schema['@type'] === 'WebPage');
+  const main = html.match(/<main\b[\s\S]*<\/main>/)?.[0] ?? '';
+  const nodes = jsonLdOf(main);
+  const nodeOf = (type: string) => nodes.find((schema) => schema['@type'] === type);
+  const webPage = nodeOf('WebPage');
   assert.equal(webPage?.primaryImageOfPage, image, `${pagePath}: primaryImageOfPage diferente do og:image`);
+  // Um @graph só, com os nós ligados por @id; o Organization e o WebSite do layout têm os ids que a página cita.
+  const url = `${SITE_URL}${pagePath}`;
+  assert.equal((main.match(/<script type="application\/ld\+json">/g) ?? []).length, 1, `${pagePath}: mais de um bloco de JSON-LD na página de loja`);
+  assert.deepEqual(nodes.map((schema) => schema['@type']).sort(), ['BreadcrumbList', 'FAQPage', 'Offer', 'Organization', 'WebPage'], `${pagePath}: nós do @graph`);
+  const ids = new Set(jsonLdOf(html).map((schema) => schema['@id']).filter(Boolean));
+  const refs = [webPage.isPartOf, webPage.publisher, webPage.about, webPage.mainEntity, webPage.breadcrumb, nodeOf('Offer').offeredBy, nodeOf('Offer').seller, nodeOf('FAQPage').isPartOf];
+  if (webPage.reviewedBy) refs.push(webPage.reviewedBy);
+  for (const ref of refs) assert.ok(ref?.['@id'] && ids.has(ref['@id']), `${pagePath}: referência do JSON-LD sem nó (${JSON.stringify(ref)})`);
+  assert.equal(webPage['@id'], `${url}#webpage`, `${pagePath}: @id do WebPage`);
+  assert.equal(webPage.isPartOf['@id'], `${SITE_URL}/#website`, `${pagePath}: isPartOf`);
+  assert.equal(webPage.publisher['@id'], `${SITE_URL}/#organization`, `${pagePath}: publisher`);
+  assert.equal(webPage.dateModified, store!.lastVerified, `${pagePath}: dateModified do WebPage`);
+  // O Offer só com o que o schema.org define para ele: o código e o desconto vão em additionalProperty e também no
+  // texto da página; nada de couponCode, discount, dateModified nem priceCurrency sem price.
+  const offer = nodeOf('Offer');
+  for (const key of ['couponCode', 'discount', 'dateModified', 'priceCurrency']) assert.ok(!(key in offer), `${pagePath}: o Offer voltou a ter "${key}"`);
+  const properties = Object.fromEntries((offer.additionalProperty ?? []).map((property: { propertyID: string; value: string }) => [property.propertyID, property.value]));
+  assert.equal(properties.discount, store!.discount, `${pagePath}: o desconto do Offer`);
+  assert.equal(properties.couponCode, store!.offerMode === 'discount-code' ? store!.code : undefined, `${pagePath}: o código do Offer`);
+  if (store!.offerMode === 'discount-code') assert.ok(textOf(bodyOf(html)).includes(store!.code), `${pagePath}: o código do JSON-LD fora do texto da página`);
+  // As perguntas do FAQPage são as da loja, na ordem.
+  assert.deepEqual(nodeOf('FAQPage').mainEntity.map((item: { name: string }) => item.name), store!.faqs.map((faq) => faq.question), `${pagePath}: perguntas do FAQPage`);
+}
+// O JSON-LD dentro de <script> não pode ser fechado por um texto com "</script>" (serializeJsonLd), e volta inteiro.
+{
+  const hostile = { text: 'pergunta </script><script>alert(1)</script> & <b>' };
+  const serialized = serializeJsonLd(hostile);
+  assert.ok(!/<\/script/i.test(serialized) && !serialized.includes('<'), 'serializeJsonLd deixou passar "<"');
+  assert.deepEqual(JSON.parse(serialized), hostile, 'serializeJsonLd não devolve o texto original');
+  assert.deepEqual(jsonLdOf(`<script type="application/ld+json">${serialized}</script>`), [hostile], 'o bloco com "</script>" no texto não é lido inteiro');
 }
 
 // O CECILIA010 é código de recompensa, não cupom: vai no campo Reward Code e soma com os cupons da
