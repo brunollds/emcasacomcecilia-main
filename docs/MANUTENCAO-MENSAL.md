@@ -139,7 +139,9 @@ Para cada oferta ativa, reconferir:
   checkout. Vai ao `dateModified`, ao sitemap e ao `llms.txt`;
 - `stacking`: as linhas da tabela "O que acumula com o cupom" (promoções, retirada na loja, Pix,
   cashback, outro cupom e frete), logo depois das regras, só em português. Uma linha por benefício e só
-  com fato já conferido, na página ou no teste: linha sem fato não entra. A condição é uma frase sem
+  com fato já conferido, na página ou no teste: linha sem fato não entra. A exceção é o Pix: o cupom soma
+  com o desconto do Pix por padrão (regra do Bruno, 12/11/2026), então toda loja leva a linha, com o
+  percentual só onde ele já foi lido; a Hostinger, que não tem desconto no Pix, fica sem ela. A condição é uma frase sem
   ponto final, sem data, sem "até X%" com descontos somados, sem contagem de usos; a de outro cupom diz só
   a regra, sem citar código. Reconferir na rodada mensal, junto com o `combinable` e o `shipping`, que
   dizem o mesmo por extenso;

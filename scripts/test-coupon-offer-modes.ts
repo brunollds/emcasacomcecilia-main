@@ -378,6 +378,10 @@ for (const coupon of COUPONS) {
   const rows = coupon.stacking ?? [];
   // A YesStyle tem página própria (YesStyleCouponPage), sem a tabela.
   if (coupon.status === 'ativo' && !coupon.tiers && coupon.slug !== 'yesstyle') assert.ok(rows.length > 0, `${coupon.slug}: loja de código sem "O que acumula com o cupom"`);
+  // O cupom soma com o desconto do Pix por padrão (Bruno, 12/11/2026); a Hostinger não tem desconto no Pix.
+  if (rows.length > 0 && coupon.slug !== 'hostinger') {
+    assert.equal(rows.find((row) => row.benefit === 'pix')?.stacks, 'sim', `${coupon.slug}: "O que acumula" sem a linha do Pix`);
+  }
   assert.equal(new Set(rows.map((row) => row.benefit)).size, rows.length, `${coupon.slug}: benefício repetido em "O que acumula"`);
   for (const row of rows) {
     const where = `${coupon.slug}: "O que acumula", ${row.benefit}`;

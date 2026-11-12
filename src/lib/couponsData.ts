@@ -389,6 +389,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable: 'Soma com as promoções vigentes da loja oficial',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço promocional, inclusive em produtos que já estão em promoção' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
     ],
     lastVerified: '2026-11-11',
     testedAt: '2026-11-11',
@@ -656,6 +657,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable: 'Soma com as promoções vigentes da loja oficial',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço promocional, inclusive em produtos que já estão em promoção' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
     ],
     lastVerified: '2026-11-11',
     testedAt: '2026-11-11',
@@ -786,6 +788,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable: 'Soma com as promoções vigentes da loja oficial',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço promocional dos produtos da loja' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
     ],
     lastVerified: '2026-11-11',
     limitedCodes: [
@@ -1154,6 +1157,7 @@ const STORE_COUPONS: Coupon[] = [
       'Soma com as promoções vigentes da loja online, inclusive os preços de Black Friday, o Outlet e os kits com preço promocional; não acumula com outro cupom: a loja aceita um cupom por pedido',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre os preços de Black Friday, do Outlet e dos kits em promoção; lançamentos ficam de fora' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
       { benefit: 'outro-cupom', stacks: 'nao', condition: 'A loja aceita um cupom por pedido' },
     ],
     lastVerified: '2026-11-11',
@@ -1462,6 +1466,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional; o percentual do desconto varia por produto' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
     ],
     lastVerified: '2026-11-11',
     testedAt: '2026-11-11',
@@ -1580,6 +1585,7 @@ const STORE_COUPONS: Coupon[] = [
       'Soma com as promoções vigentes do site e com os brindes do carrinho, e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional, e os brindes do carrinho continuam nele; o percentual varia por produto' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
     ],
     lastVerified: '2026-11-11',
     testedAt: '2026-11-11',
@@ -1698,6 +1704,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço promocional dos produtos do site' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas demais regiões; o valor conta depois do cupom' },
     ],
     lastVerified: '2026-11-12',
@@ -1800,6 +1807,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço promocional dos produtos do site' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
     ],
     lastVerified: '2026-11-11',
     testedAt: '2026-11-11',
@@ -1972,6 +1980,7 @@ const STORE_COUPONS: Coupon[] = [
       'Soma com as promoções vigentes do site e com o cashback da loja, e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço de campanha e de promoção dos produtos' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
       { benefit: 'cashback', stacks: 'sim', condition: 'O pedido com o cupom continua gerando cashback, calculado sobre o valor já com o desconto' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 599, segundo o aviso do site; abaixo disso, o frete é calculado no checkout' },
     ],
@@ -2599,6 +2608,7 @@ const STORE_COUPONS: Coupon[] = [
       'Soma com as promoções vigentes do site e vale nos produtos que já estão com desconto; na Black VIP, a loja avisa que o cupom de influenciadora não soma com a escada de desconto',
     stacking: [
       { benefit: 'promocoes', stacks: 'depende', condition: 'Entra sobre o preço promocional; na Black VIP, a loja não soma o cupom de influenciadora com a escada de desconto' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
     ],
     lastVerified: '2026-11-11',
     testedAt: '2026-11-11',
@@ -2706,6 +2716,7 @@ const STORE_COUPONS: Coupon[] = [
       'Soma com as promoções do site e vale nos kits: nos nossos testes, os 5% entraram sobre o preço promocional de todos os itens do carrinho',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 5% entram sobre o preço promocional e nos kits' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 99 em produtos; o mínimo conta depois do desconto do cupom' },
     ],
     lastVerified: '2026-11-10',
@@ -2806,6 +2817,7 @@ const STORE_COUPONS: Coupon[] = [
     combinable: 'Soma com as promoções do site, inclusive nos produtos que já estão com desconto, e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 15% entram sobre os produtos que já estão com desconto da loja' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de um mínimo que muda conforme o estado; o carrinho mostra quanto falta para a sua região' },
     ],
     lastVerified: '2026-11-05',
@@ -2924,6 +2936,7 @@ const STORE_COUPONS: Coupon[] = [
     stacking: [
       { benefit: 'retirada', stacks: 'sim', condition: 'Soma com os 5% do Retire na Loja: 14,5% no total, em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste' },
       { benefit: 'promocoes', stacks: 'nao', condition: 'Num produto já em oferta, a sacola fica com o desconto maior' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 199 no Sul e no Sudeste e de R$ 299 nas demais regiões; medicamentos, acima de R$ 199' },
     ],
     lastVerified: '2026-11-11',
