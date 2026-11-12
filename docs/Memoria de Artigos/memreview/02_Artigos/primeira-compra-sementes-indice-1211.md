@@ -29,8 +29,8 @@ Valem sobre o molde e sobre o que as fichas propõem nas seções 5 e 7.
 - **Dr. Peanut:** o mínimo do frete grátis conta antes do cupom.
 - **Let's Eat It:** cashback de 15%, como a home anuncia; o texto com 30% é atualizado.
 - **Nestlé Nutre e Bagaggio:** as páginas de loja não precisam comparar com o cupom de primeira compra da loja.
-- **Cléa Store:** em aberto. O Bruno perguntou como o código "vale de novo" se o voucher é consumido na compra; a
-  frase sobre as compras seguintes da Cléa espera a resposta dele.
+- **Cléa Store:** o CSEMCASACOMCECILIA vale de novo para quem já comprou (Bruno, 12/11). A frase dos termos da
+  loja sobre voucher de uma única compra não muda o texto.
 
 **Efeito no ganho de informação:** sem a comparação, o que o artigo tem de próprio é a resposta direta à busca com
 um código testado, a regra do primeiro pedido (mínimo, frete por região, Pix, produtos fora) e a frase "vale também
@@ -70,7 +70,7 @@ O relatório de IA do Bing (07/11) não traz pergunta de primeira compra. O auto
 | Dr. Peanut | [[primeira-compra-semente-dr-peanut]] | DREMCASACOMCECILIA, 10% | Não encontrado; newsletter sem percentual | Home lida | Espera o conflito do frete (sessão de cupons) |
 | Belive | [[primeira-compra-semente-belive]] | MAUAD, 10% | Não encontrado; Black November de até 30% | Home lida | Pronta |
 | Let's Eat It | [[primeira-compra-semente-letseatit]] | MAUAD, 5% | Não encontrado; cashback de 15% e 5% no Pix | Home lida | Decisão pequena (Pix ou cartão); pode não sustentar o artigo |
-| Cléa Store | [[primeira-compra-semente-clea-store]] | CSEMCASACOMCECILIA, 10% | Não encontrado; cashback de 10% para todos | Home lida | Espera o conflito dos termos (sessão de cupons) |
+| Cléa Store | [[primeira-compra-semente-clea-store]] | CSEMCASACOMCECILIA, 10% | Não encontrado; cashback de 10% para todos | Home lida | Pronta: vale de novo para quem já comprou (Bruno, 12/11) |
 | I Wanna Sleep | [[primeira-compra-semente-i-wanna-sleep]] | CECIEMCASA, 10% | Não encontrado | Home lida: nada | Pronta sem as compras seguintes (pergunta 2) |
 | Simple Organic | [[primeira-compra-semente-simple-organic]] | S-EMCASACOMCECILIA, 5% | Não encontrado; "Lista exclusiva" sem percentual | Home lida | Espera o conflito da política (sessão de cupons) e a pergunta 2 |
 | Hostinger | [[primeira-compra-semente-hostinger]] | SONAR20, 20% só em compra nova | O próprio SONAR20 é o benefício de compra nova | Não | Espera a pergunta 5 |
@@ -96,11 +96,10 @@ O relatório de IA do Bing (07/11) não traz pergunta de primeira compra. O auto
 1. **DAMIE:** é a única com busca medida na primeira página (84 impressões, posição 4,3) e sem artigo.
 2. **Skelt, Probiótica e Insider:** as outras três com busca medida.
 3. **Bagaggio, Mais Mu, Black Skull, Toda Up e Nestlé Nutre.**
-4. **Dolce Gusto, Max Titanium, Dr. Peanut, Belive, HolyFoods, Petz, Let's Eat It, I Wanna Sleep e Simple Organic,**
-   em lotes de quatro ou cinco.
-5. **Cléa Store:** depois da resposta do Bruno sobre as compras seguintes.
-6. **Magalu:** artigo curto.
-7. **Próxima fase:** Hostinger, YesStyle e SHEIN. **Fora:** Lejour.
+4. **Dolce Gusto, Max Titanium, Dr. Peanut, Belive, HolyFoods, Petz, Let's Eat It, I Wanna Sleep, Simple Organic e
+   Cléa Store,** em lotes de quatro ou cinco.
+5. **Magalu:** artigo curto.
+6. **Próxima fase:** Hostinger, YesStyle e SHEIN. **Fora:** Lejour.
 
 ## Perguntas para o Bruno (respondidas em 12/11; ver as decisões no topo)
 
