@@ -6,9 +6,9 @@ parceiro: "[[Insider]], [[Max-Titanium]], [[Dr-Peanut]] e [[Lets-Eat-It]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Presentes"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leitura dos preços, do frete e do prazo das quatro lojas; redação; no ar até o começo de dezembro"
+status: "publicado"
+responsavel: "Job-2 (Claude Opus 5.5)"
+proxima_acao: "01/12: reler preços, frete e prazo das quatro lojas e as regras de troca (seção Publicação)"
 bloqueado_por: "-"
 data_criacao: "2026-11-11"
 pauta_id: "IL2 (absorve a L14 da Let's Eat It)"
@@ -143,3 +143,22 @@ item por capítulo de perfil, com `href` e `store`.
    tempo para indexar.
 2. **Teto de R$ 50:** entra como bloco curto só se houver item que caiba com o frete (a coqueteleira da Max é o
    candidato). Se não houver, fica fora, sem capítulo vazio.
+
+## Publicação (11/11/2026)
+
+- No ar, id 908: PR #883 (squash `9708fbf0`), release `9708fbf0` (deploy 32022707, build 01a1cd51), no ar em 12/11 às 01:18 UTC (22:18 de 11/11 em Brasília), só PT. Foi junto o #881 e o #882 (Toda Up), que já estavam na main. Smoke: página com 200, og:image da capa no CDN, os quatro códigos e 36 links sponsored; `covers:check` 1/1; sitemap e llms.txt com o artigo; IndexNow com 22 URLs (o IL2 e os 21 artigos da Toda Up do mesmo release); captura 43133654946 aprovada pelo Bruno e verde.
+- Título: "Presente de amigo secreto masculino até R$ 50, R$ 100 e R$ 150". seoTitle: "Amigo secreto masculino: ideias até R$ 50, R$ 100 e R$ 150".
+- Artigo de várias lojas: `affiliate: ["insider","max-titanium","dr-peanut","letseatit"]`, sem `coupon` nem `cta`. Faixas de R$ 50, R$ 100 e R$ 150 só com totais conhecidos (Max, Dr. Peanut e Let's Eat It); a Insider num quadro próprio, com o preço com o código antes do frete (decisão do Bruno: sem valor de frete), frete grátis acima de R$ 399 pela política de frete da loja.
+- Preços, frete e prazo lidos no carrinho no CEP 01310-100, sem finalizar; detalhe em [[insider-leituras-il2-1111]]. A coqueteleira rosa da Max sai a R$ 11,96 porque o carrinho aplica a promoção "Max Outlet 45% OFF" e o código soma 10% em cima (relido no checkout). MAUAD a 5% (o briefing dizia 10%).
+- Revisão externa (Farol, com contraprova do GPT-6.1 Terra) em 11/11, em `docs/auditoria-copy-artigos/insider-il2-revisao-farol-20261111/` (local, fora do git). O candidato entrou depois de dois checadores conferirem as políticas nas páginas das lojas e os números contra as leituras; os ajustes estão em `docs/auditoria-copy-artigos/insider-il2-20261111/v2-apos-farol/DECISOES-REVISAO.md` (local). A política de trocas da Dr. Peanut deu 429 e ficou com o dossiê de 14/10.
+- Pendente: 01/12 (seção 4 da Fila).
+
+## Imagens (aprovadas pelo Bruno em 11/11/2026)
+
+- **Capa:** `/images/reviews/presentes/presente-amigo-secreto-masculino-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral do `docs/GUIA-CAPAS-EDITORIAIS.md` sem logo e sem código (quatro lojas; o nome Insider já está na sacola). Foto: Insider Gift Bag (sacola-03), foto oficial do catálogo da Insider, com o fundo de estúdio estendido pelas bordas.
+- **Alt da capa:** Sacola de presente branca da Insider ao lado do título Amigo secreto masculino e da frase Presentes em 4 lojas com código
+- **Para quem treina (Max Titanium):** `/images/reviews/presentes/amigo-secreto-max-coqueteleira-tritan.webp`. Alt: Coqueteleira Tritan da Max Titanium, em foto da loja. Legenda: Coqueteleira Tritan Max Titanium. Foto: Max Titanium.
+- **Para quem gosta de básico (Insider):** `/images/reviews/presentes/amigo-secreto-insider-tech-t-shirt.webp`. Alt: Tech T-Shirt preta da Insider, em foto da loja. Legenda: Tech T-Shirt preta. Foto: Insider.
+- **Para quem gosta de doce (Dr. Peanut):** `/images/reviews/presentes/amigo-secreto-dr-peanut-kit-wafers.webp`. Alt: Embalagens Doctor Wafer de cookies, avelã e doce de leite, em foto da página do Kit Sortido de 6 Wafers da Dr. Peanut. Legenda: Kit Sortido 6 Wafers. Foto: Dr. Peanut.
+- **Para quem cozinha ou faz churrasco (Let's Eat It):** `/images/reviews/presentes/amigo-secreto-letseatit-kit-churrasco-prana.webp`. Alt: Faca, chaira e garfo de cabo branco do Kit Churrasco Prana, da Let's Eat It, em foto da loja. Legenda: Kit Churrasco Garfo e Faca Chaira Prana. Foto: Let's Eat It.
+- **Origem:** fotos oficiais das lojas (catálogo da Insider e da Let's Eat It; página do produto na Max e na Dr. Peanut), em quadrado de 1000 px sobre fundo branco. A foto do kit Prana foi trocada depois da revisão do Farol pela que mostra faca, chaira e garfo inteiros. Sem IA. Folhas em `docs/auditoria-copy-artigos/insider-il2-20261111/` (local).
