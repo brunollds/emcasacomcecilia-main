@@ -297,7 +297,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom inclui frete grátis?',
         answer:
-          'Não. O cupom aplica desconto no valor dos produtos. O frete é calculado separadamente pela loja conforme CEP, produto e política de entrega.',
+          'O cupom não dá frete grátis: ele desconta do valor dos produtos. A DAMIE tem frete grátis em poltronas e sofás com entrega no Sul e no Sudeste; no Centro-Oeste, o frete é calculado pelo CEP.',
       },
       {
         question: 'O que fazer se o cupom CECILIA12 não funcionar?',
@@ -1280,7 +1280,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom dá frete grátis?',
         answer:
-          'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja.',
+          'O cupom não dá frete grátis. A Insider tem frete grátis em compras acima de R$ 399, e o valor conta depois do cupom.',
       },
       {
         question: 'O que fazer se o cupom EMCASACOMCECILIA não funcionar?',
@@ -1572,7 +1572,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom dá frete grátis?',
         answer:
-          'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja.',
+          'O cupom não dá frete grátis. A Probiótica tem frete grátis a partir de um mínimo por região, de R$ 104 na capital de São Paulo a R$ 599 no Norte, e o valor conta depois do cupom. A tabela "O que acumula com o cupom" traz o mínimo de cada região.',
       },
       {
         question: 'O que fazer se o cupom PRO10EMCASACOMCECILIA não funcionar?',
@@ -1692,7 +1692,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom dá frete grátis?',
         answer:
-          'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja.',
+          'O cupom não dá frete grátis. A Max Titanium tem frete grátis a partir de um mínimo por região, de R$ 104 na capital de São Paulo a R$ 599 no Norte, e o valor conta depois do cupom. A tabela "O que acumula com o cupom" traz o mínimo de cada região.',
       },
       {
         question: 'O que fazer se o cupom MAX10EMCASACOMCECILIA não funcionar?',
@@ -1910,7 +1910,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom dá frete grátis?',
         answer:
-          'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja.',
+          'O cupom não dá frete grátis. A Black Skull tem frete grátis acima de R$ 199,90 no Sul e no Sudeste, de R$ 249,90 no Centro-Oeste e de R$ 299,90 nas demais regiões, sobre o total do carrinho já com os descontos.',
       },
       {
         question: 'O que fazer se o cupom CECILIA10 não funcionar?',
