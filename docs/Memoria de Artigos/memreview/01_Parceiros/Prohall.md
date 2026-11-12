@@ -22,7 +22,7 @@ o `offerUrl` é o site oficial.
 | Nos testes de 12/11, o desconto foi de 7% em todos os carrinhos, com produto a preço cheio e em promoção | condicao_comercial_volatil | Carrinho do Bruno e quatro carrinhos da sessão de cupons, 12/11/2026 | 2026-11-12 | 2026-12-12 | A página mostra "Até 10% OFF" e avisa dos 7%. Não escrever "10% OFF" sem o "até" | Alta |
 | O cupom soma com as promoções do site: entra sobre o preço promocional | condicao_comercial_volatil | Testes de 12/11/2026 | 2026-11-12 | 2026-12-12 | — | Alta |
 | Cashback da loja: 10% em compras a partir de R$ 100, como cupom para a compra seguinte, válido por 30 dias, enviado por WhatsApp; "Não junta com outros cupons"; só no site oficial | condicao_comercial_volatil | lojaprohall.com.br/pages/cashback-prohall | 2026-11-12 | 2026-12-12 | O cupom de cashback e o CECILIAMC não entram no mesmo pedido | Alta |
-| Frete grátis por região: a partir de R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste | condicao_comercial_volatil | lojaprohall.com.br/pages/formas-de-pagamento e a home | 2026-11-12 | 2026-12-12 | Não lido se o mínimo conta antes ou depois do cupom: não afirmar | Alta |
+| Frete grátis por região: a partir de R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste | condicao_comercial_volatil | lojaprohall.com.br/pages/formas-de-pagamento e a home | 2026-11-12 | 2026-12-12 | O mínimo conta depois do cupom, sobre o valor já com desconto (Bruno, 12/11) | Alta |
 | Parcelamento em até 10x sem juros, com parcela mínima de R$ 20 | condicao_comercial_volatil | lojaprohall.com.br/pages/formas-de-pagamento | 2026-11-12 | 2026-12-12 | — | Alta |
 | Link da parceria: não há; `offerUrl` = `https://lojaprohall.com.br/` | condicao_comercial_volatil | Bruno, 12/11/2026 ("não tem link utm") | 2026-11-12 | 2026-12-12 | A venda conta pelo cupom | Alta |
 
@@ -36,8 +36,13 @@ com `?discount=CECILIAMC`): Máscara Secar sem Frizz (R$ 69,90) com o kit Shampo
 R$ 159,80 → R$ 148,62; Force Hair, R$ 264,90 → R$ 246,36; Condicionador Bruma Ametista, R$ 44,90 → R$ 41,76;
 Kit Completo Absolut One, R$ 349,90 → R$ 325,41. Todos 7%.
 
-Sem leitura: desconto no Pix, código no app e pesquisa de percentuais em outros sites (por isso a página não
-tem o FAQ "Existe cupom Prohall de X%?").
+Respostas do Bruno em 12/11: o código funciona no app; não aparece desconto extra no Pix; o mínimo do frete grátis
+conta depois do cupom. Cupom com o Clube Prohall (assinatura com 5% automático): sem fonte oficial, omitir. Moedas PH
+com o cupom: o Bruno acredita que entram, sem teste; não afirmar. Leituras do Clube e das Moedas em
+[[prohall-fatos-1211]].
+
+Sem leitura: pesquisa de percentuais em outros sites (por isso a página não tem o FAQ "Existe cupom Prohall de
+X%?").
 
 ---
 
