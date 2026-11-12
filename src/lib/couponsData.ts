@@ -2733,7 +2733,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'diversos',
     shortDescription: 'compras no site e no app da Petz',
     longDescription:
-      'O código da Cecília dá 10% OFF nas compras no site e no app da Petz. Ele não soma com promoção: num produto que já está em oferta, a sacola fica com o desconto maior. Testado no carrinho.',
+      'O código da Cecília dá 10% OFF nas compras no site e no app da Petz e soma com os 5% do Retire na Loja: 14,5% no total, em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste. Num produto que já está em oferta, o cupom não soma: a sacola fica com o desconto maior. Testado no carrinho.',
     metaTitle: 'Cupom Petz: 10% OFF com EMCASA + 5% na retirada',
     metaTitleMonth: true,
     metaDescription:
@@ -2744,7 +2744,7 @@ const STORE_COUPONS: Coupon[] = [
     shipping:
       'Frete grátis acima de R$ 199 no Sul e no Sudeste e acima de R$ 299 no Norte, no Nordeste e no Centro-Oeste (medicamentos: acima de R$ 199 em todo o Brasil); o prazo aparece na sacola depois do CEP',
     combinable:
-      'Não soma com promoções: num produto já em oferta, a sacola mantém o desconto maior. Soma com os 5% do Retire na Loja, que a Petz dá em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste. O desconto da Assinatura Petz não soma com cupons',
+      'Soma com os 5% do Retire na Loja, que a Petz dá em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste: 14,5% no total. Não soma com promoções: num produto já em oferta, a sacola mantém o desconto maior. O desconto da Assinatura Petz não soma com cupons',
     lastVerified: '2026-11-11',
     testedAt: '2026-11-11',
     testNote:

@@ -154,11 +154,13 @@ for (const coupon of COUPONS) {
 }
 
 const petzCoupon = getCouponBySlug('petz');
-assert.match(petzCoupon?.combinable ?? '', /^Não soma com promoções/, 'petz: combinable deve dizer que não soma com promoções');
+assert.match(petzCoupon?.combinable ?? '', /^Soma com os 5% do Retire na Loja/, 'petz: "Junta com outras promoções?" abre com a soma do Retire na Loja');
+assert.match(petzCoupon?.combinable ?? '', /Não soma com promoções/, 'petz: combinable deve dizer que não soma com promoções');
 // A soma com o Retire na Loja dá 14,5% (1 - 0,90 x 0,95), nunca "até 15%"; o percentual da loja segue 10%. Só o FAQ
 // "Existe cupom Petz de 15%?" cita o "até 15%" que circula, entre aspas, para explicar a conta.
 const petzShown = [petzCoupon?.metaTitle, petzCoupon?.metaDescription, petzCoupon?.longDescription, petzCoupon?.combinable, petzCoupon?.monthlyHighlight?.note].join(' ');
 assert.ok(petzShown.includes('14,5%'), 'petz: a soma com a retirada (14,5%) sumiu do topo ou do snippet');
+assert.match(petzCoupon?.longDescription ?? '', /Retire na Loja.*14,5%/, 'petz: o texto do topo, abaixo do 10%, deve dizer que soma com o Retire na Loja (14,5%)');
 for (const banned of [/até 15\s?%/i, /maior cupom/i, /sem valor mínimo/i]) assert.doesNotMatch(petzShown, banned, `petz: ${banned} no texto`);
 assert.equal(petzCoupon?.offerMode === 'discount-code' && petzCoupon.discountNumber, 10, 'petz: o percentual da loja segue 10%');
 
