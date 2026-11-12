@@ -674,3 +674,10 @@ Cinco imagens no corpo, uma por seção, sem repetir a capa. Nenhuma foto de con
 ## Decisão do Bruno (25/10/2026, depois do Job 4)
 
 Probiótica: o PRO10EMCASACOMCECILIA soma com as promoções. A tabela de cupons passou a dizer isso.
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/presentes/presente-natal-quem-treina-capa-v2.webp` (`imageFit: contain`), SHA-256 `1550d13a8af8914df07a8dfb7847c0b7cf3fcdbb43629bd88181ff7bf912b21a`.
+- **Alt:** Coqueteleira rosa de 700 ml da Max Titanium em foto oficial, ao lado da chamada Natal para quem treina e do apoio Ideias de presente. É uma das opções do guia.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Coqueteleira rosa 700 ml da Max Titanium, uma das sugestões do guia; não é imagem de whey. Produto em foto real.
+- **Lote 37 do piloto de capas (sequência 12 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-SEQUENCIA-12-CLAUDE.zip` (`lotes/37/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/presentes/presente-natal-quem-treina-capa.webp`) fica no CDN, sem uso como capa.

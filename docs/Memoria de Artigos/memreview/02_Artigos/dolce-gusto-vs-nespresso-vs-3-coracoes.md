@@ -125,3 +125,10 @@ Correção feita a partir dos preços e volumes fornecidos pelo Bruno para torna
 - cupom CECI descrito como 5% na verificação de 1º de setembro, sempre sujeito à confirmação no checkout;
 - divulgação obrigatória da Amazon adicionada ao aviso de afiliados;
 - hero identificado como ilustração editorial e recomprimido de 2,19 MB para cerca de 167 KB, preservando 1920 px de largura.
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-vs-3-coracoes-capa-v2.webp` (`imageFit: contain`), SHA-256 `de332f01b323a6b4ea34101c10d5a1e4bc27432f0bcff0814dac15cbb1b452f0`.
+- **Alt:** Cecília sorrindo atrás da cafeteira Genio S Touch prata, vista de lado com o reservatório em primeiro plano, em foto própria na cozinha, ao lado da pergunta Dolce Gusto, Nespresso ou 3 Corações? e do apoio Cápsulas e custo por xícara.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Foto própria da Genio S Touch prata, lateral e traseira com o reservatório em primeiro plano; não é a NEO nem uso dos sistemas concorrentes pela equipe.
+- **Lote 39 do piloto de capas (sequência 12 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-SEQUENCIA-12-CLAUDE.zip` (`lotes/39/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-vs-3-coracoes-hero.jpg`) fica no CDN, sem uso como capa.

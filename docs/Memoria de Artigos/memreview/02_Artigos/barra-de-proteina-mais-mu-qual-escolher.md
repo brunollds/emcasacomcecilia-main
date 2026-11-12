@@ -583,3 +583,10 @@ Pasta: `public/images/reviews/mais-mu/`. Caminhos locais no JSON; o resolvedor t
 - **Corpo 3**, mesma seção (`...-tabela-chocowheyfer-max.webp`, `aspectRatio` 0.84, `contain`). Alt: "Tabela nutricional da Chocowheyfer Max Chocolate da Mais Mu, porção de 50 g". Legenda: a mesma do corpo 1. Origem: galeria da página do produto, Chrome, 25/10/2026. Linha da própria Mais Mu, sem ligação com a Max Titanium.
 
 Desvios da folha: o aviso de alérgenos do Veggie Wafer, previsto como corpo 2 no Plano de imagens, não foi montado (a imagem não apareceu entre as fotos baixadas); entrou a Chocowheyfer Max no lugar. A seção de alérgenos segue só com o texto.
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-capa-v2.webp` (`imageFit: contain`), SHA-256 `0dc998ee18ad0aafdff8c6a687c18bbea38e9bae7857b0d6ec03bd35d932b874`.
+- **Alt:** Close de um Chocowheyfer Max Doce de Leite da Mais Mu, cortado, com cobertura clara, calda e parte da embalagem azul, em peça promocional oficial, ao lado da pergunta Barras ou wafers? e do apoio Proteína e açúcar.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Chocowheyfer Max Doce de Leite cortado em cena oficial; não é preparo nem teste da equipe nem promessa de resultado físico. Produto em foto real.
+- **Lote 37 do piloto de capas (sequência 12 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-SEQUENCIA-12-CLAUDE.zip` (`lotes/37/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-capa.webp`) fica no CDN, sem uso como capa.

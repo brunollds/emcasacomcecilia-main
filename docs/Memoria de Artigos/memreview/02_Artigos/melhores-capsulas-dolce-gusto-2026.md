@@ -339,3 +339,10 @@ Fora do FAQ: "Como obter 30 cápsulas grátis" (PAA de "kit") não entra, porque
 - Pendências da seção 11: os ingredientes dos nove chocolates foram relidos em 12/10/2026 (nenhum tem café); a ordem "Mais Vendidos" foi relida na mesma noite e segue com os clássicos no fim, então o guia não faz ranking; o Kit Boas-Vindas II e o Cappuccino Zero Lactose ficaram de fora.
 - Saíram do rascunho: a caixa de 16, a faixa "R$ 22 a R$ 28", o Ristretto, o Espresso Intenso "mais vendido", toda bebida com leite de duas cápsulas e as notas de experiência própria.
 - Revisão Job 3 (12/10/2026): aprovado com ajustes; aplicados os 15 itens. Os principais: "na maioria dos sabores" uma cápsula por bebida (o Chai Tea Latte usa duas), o NEO "para as máquinas NEO" sem contradizer o adaptador, o descafeinado atribuído à loja, a escala de intensidade sem "suave" nem "meio", as tabelas completas (Lungo Chapada, Shakerato, Frappe e Caramel Macchiato), o "10x" das caixas explicado, a sortida como as seleções do DGusta, o link do guia de custo no bloco do CECI e a tabela de ml nos relacionados.
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-2026-capa-v2.webp` (`imageFit: contain`), SHA-256 `b313ff9d8ae74c7577c22f451b357baf607306b13cc555ab2403169c2c396255`.
+- **Alt:** Máquina branca Dolce Gusto com um copo de Pistacchio Latte e cápsula Moça em uma cozinha verde, em cena promocional oficial, ao lado da pergunta Qual cápsula escolher? e do apoio Sabores e sistemas.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Cena promocional oficial de Pistacchio Latte; sem modelo exato de máquina atribuído nem preparo da equipe. Produto em foto real.
+- **Lote 37 do piloto de capas (sequência 12 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-SEQUENCIA-12-CLAUDE.zip` (`lotes/37/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-capa-oficial.webp`) fica no CDN, sem uso como capa.

@@ -81,3 +81,10 @@ O único comparativo das duas linhas, produto por produto, com o MAUAD aplicado:
 ## 7. Pontuação
 
 Dor 19/25, demanda 15/20, valor além do oficial 17/20, visita 10/15, cluster 8/10, conversão 5/10. Total 74.
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/toda-up-ou-zee-rucci-capa-v2.webp` (`imageFit: contain`), SHA-256 `215c3f258fd1cc4bb3ee12ae11be70422cd3c442f6c64369aeb7ebbf16a60539`.
+- **Alt:** Três modelos adultas usando protetores de silicone e segurando embalagens da Toda Up, em foto oficial, ao lado da pergunta Toda Up ou Zee Rucci? e do apoio Fita, sutiã e protetor.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Foto oficial da Toda Up com três modelos adultas, protetores e embalagens; não é a Cecília. Sem foto da Zee Rucci. MAUAD fora da arte e do alt. Produto em foto real.
+- **Lote 39 do piloto de capas (sequência 12 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-SEQUENCIA-12-CLAUDE.zip` (`lotes/39/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/toda-up/toda-up-ou-zee-rucci-capa.webp`) fica no CDN, sem uso como capa.

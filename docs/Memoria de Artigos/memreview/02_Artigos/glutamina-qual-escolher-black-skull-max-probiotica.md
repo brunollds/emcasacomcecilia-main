@@ -146,3 +146,10 @@ Fatos: `glutamina-qual-escolher-black-skull-max-probiotica-fatos-3010.md`, ao la
 
 1. Links no formato que os artigos no ar de cada loja usam; nas tabelas, o nome do produto na 1ª célula vira o link. Tabela com o preço do cartão, datado; cupom numa frase (vale em todas as formas de pagamento, Bruno 30/10). Ninguém do site usou. Pendentes do briefing: conferir no Chrome antes de publicar; sem confirmação, não afirma. Ignorar cadastros de variante única com preço baixo (ex.: `-pp`). Reler preços no dia.
 2. Recomendações aceitas: um artigo para as três lojas; a Turbo (com maltodextrina) entra com aviso de sem estoque; potes de 120/150 g entram. Fora: as promessas das fichas (imunidade, intestino, recuperação) e a Glutamina Pro da Max (nome de atleta). Sem alegação de saúde ou desempenho: só rótulo e preço. Mais Mu fora (caso Bioghen).
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-capa-v2.webp` (`imageFit: contain`), SHA-256 `830a1c80d6a45478fde75ea5ae739bf1028182d7b6e6c7a9811546e3052f5096`.
+- **Alt:** Pote azul de L-Glutamine de 300 g da Probiótica em imagem oficial, ao lado da pergunta Qual glutamina escolher? e do apoio Rótulo e preço.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. L-Glutamine 300 g da Probiótica em imagem oficial; sem teste, preparo nem efeito de saúde. Produto em foto real.
+- **Lote 38 do piloto de capas (sequência 12 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-SEQUENCIA-12-CLAUDE.zip` (`lotes/38/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-capa.webp`) fica no CDN, sem uso como capa.

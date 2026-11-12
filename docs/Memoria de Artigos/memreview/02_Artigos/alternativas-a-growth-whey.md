@@ -94,3 +94,10 @@ Primeira pauta da série "Alternativas a <marca>" (Fila, seção 3), com o GO do
 |---|---|
 | **Artigos** | No ar em 10/11 (#810, release 88429e18). Falta: uma linha com link para a AG1 nos quatro "X ou Growth" e no melhor-whey (Fila, seção 4); releitura dos preços depois de 27/11 |
 | **Bruno** (opcional) | O GSC dos quatro "X ou Growth" para "alternativa whey growth" |
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/whey/alternativas-a-growth-whey-capa-v2.webp` (`imageFit: contain`), SHA-256 `b66e0e0d067369e6c378bf8a37bb6e1bd7ffd26aa2e9da11c869816448753a32`.
+- **Alt:** Refil de Whey 80% HD Morango de 900 g da Black Skull em pedestal claro, em imagem promocional oficial, ao lado da chamada Alternativas à Growth e do apoio Custo por proteína.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Refil 80% HD Morango 900 g da Black Skull em imagem oficial; sem visual da Growth nem promessa de resultado. Produto em foto real.
+- **Lote 38 do piloto de capas (sequência 12 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-SEQUENCIA-12-CLAUDE.zip` (`lotes/38/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/whey/alternativas-a-growth-whey-capa.webp`) fica no CDN, sem uso como capa.

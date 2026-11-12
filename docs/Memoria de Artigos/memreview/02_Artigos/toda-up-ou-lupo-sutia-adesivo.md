@@ -82,3 +82,10 @@ As duas peças lado a lado, com o que muda a escolha: preço (R$ 139,90 da Lupo 
 ## 7. Pontuação
 
 Dor 19/25, demanda 15/20, valor além do oficial 15/20, visita 10/15, cluster 8/10, conversão 5/10. Total 72.
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/toda-up-ou-lupo-sutia-adesivo-capa-v2.webp` (`imageFit: contain`), SHA-256 `f8fad6803e9de6fc271f04e3014c8ce575a6d334bf41b24c64fb14c8f838a922`.
+- **Alt:** Duas modelos adultas, uma usando o sutiã de silicone e segurando a caixa Invisible Up da Toda Up, em foto oficial, ao lado da pergunta Toda Up ou Lupo? e do apoio Sutiã adesivo.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Foto oficial da Toda Up com duas modelos, sutiã e caixa Invisible Up; não é a Cecília. Sem foto da Lupo. MAUAD fora da arte e do alt. Produto em foto real.
+- **Lote 38 do piloto de capas (sequência 12 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-SEQUENCIA-12-CLAUDE.zip` (`lotes/38/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/toda-up/toda-up-ou-lupo-sutia-adesivo-capa.webp`) fica no CDN, sem uso como capa.

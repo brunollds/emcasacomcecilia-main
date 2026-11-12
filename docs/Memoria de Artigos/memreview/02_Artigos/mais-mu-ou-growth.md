@@ -307,3 +307,10 @@ As perguntas acima foram respondidas em 20/10/2026: o Bruno disse "Pode seguir" 
 
 12. **Growth:** os preços são os lidos no Chrome do Bruno em 18/10/2026. No dia da redação, o Claude pede ao Bruno a liberação para reler no navegador; sem ela, o artigo sai com os preços de 18/10/2026, com a data. Nunca contornar o bloqueio do curl.
 13. **Veredito:** a Growth ganha no whey (concentrado e isolado), mesmo contra a Mais Mu de 1,8 kg com cupom e Pix; a Mais Mu ganha na creatina com o cupom e nos sabores de creatina. Sem o cupom, o pouch da Growth no Pix ganha. O texto diz isso sem veredito único.
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/mais-mu/mais-mu-ou-growth-capa-v2.webp` (`imageFit: contain`), SHA-256 `a92f35a6bf2714656022dd2b18ac4e52c8ca19e2156bb79217f82124923b8c61`.
+- **Alt:** Pote de Whey Concentrado Baunilha de 450 g da Mais Mu com dosador e pó sobre uma bancada clara, em cena promocional oficial, ao lado da pergunta Mais Mu ou Growth? e do apoio Whey e creatina.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Whey Concentrado Baunilha 450 g da Mais Mu com dosador em cena oficial; sem foto nem logo da Growth. Produto em foto real.
+- **Lote 37 do piloto de capas (sequência 12 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-SEQUENCIA-12-CLAUDE.zip` (`lotes/37/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/mais-mu/mais-mu-ou-growth-capa-discover.webp`) fica no CDN, sem uso como capa.
