@@ -14,7 +14,7 @@ import {
   videoMetadata,
 } from '@/lib/video-metadata';
 import { buildLocalVideoObject, buildYoutubeVideoObject } from '@/lib/video-schema';
-import { videoPages } from '@/lib/video-pages';
+import { getVideoPageSeo, videoPages } from '@/lib/video-pages';
 import { VIDEO_ASPECTS, isVideoAspect } from '@/lib/videosShelf';
 
 type ContentKind = 'receita' | 'review' | 'página de vídeo';
@@ -60,6 +60,7 @@ const mediaDeliveryMap = JSON.parse(
 );
 
 const errors: string[] = [];
+const warnings: string[] = [];
 let validatedPages = 0;
 let validatedWatchPages = 0;
 
@@ -73,6 +74,20 @@ function isIso8601Date(value: string | undefined): boolean {
 
 function report(kind: ContentKind, slug: string, message: string): void {
   errors.push(`${kind} "${slug}": ${message}`);
+}
+
+function warn(kind: ContentKind, slug: string, message: string): void {
+  warnings.push(`${kind} "${slug}": ${message}`);
+}
+
+// O uploadDate sai no VideoObject como está no registro. Com hora, precisa de fuso. Só a data é
+// válida e vira aviso: a hora real da publicação ainda não foi comprovada, e não se inventa uma.
+function checkUploadDate(kind: ContentKind, slug: string, value: string | undefined): void {
+  if (!isIso8601Date(value)) {
+    report(kind, slug, 'VideoObject sem uploadDate ISO 8601 (data, ou data com hora e fuso)');
+  } else if (/^\d{4}-\d{2}-\d{2}$/.test(value as string)) {
+    warn(kind, slug, `uploadDate só com a data (${value}): falta a hora comprovada da publicação`);
+  }
 }
 
 function validateYoutubeVideoObject(
@@ -104,9 +119,7 @@ function validateYoutubeVideoObject(
   if (!video.thumbnailUrl || !/^https?:\/\//.test(video.thumbnailUrl)) {
     report(kind, slug, 'VideoObject sem thumbnailUrl absoluta');
   }
-  if (!isIso8601Date(video.uploadDate)) {
-    report(kind, slug, 'VideoObject sem uploadDate ISO 8601 válida');
-  }
+  checkUploadDate(kind, slug, video.uploadDate);
   if (video.embedUrl !== expectedEmbedUrl || !video.embedUrl.includes('/embed/')) {
     report(kind, slug, 'embedUrl não corresponde ao player /embed/ do vídeo');
   }
@@ -162,9 +175,7 @@ function validateLocalVideoObject(
   if (!video.thumbnailUrl || !/^https?:\/\//.test(video.thumbnailUrl)) {
     report('review', slug, 'VideoObject local sem thumbnailUrl absoluta');
   }
-  if (!isIso8601Date(video.uploadDate)) {
-    report('review', slug, 'VideoObject local sem uploadDate ISO 8601 válida');
-  }
+  checkUploadDate('review', slug, video.uploadDate);
   if (video.contentUrl !== expectedContentUrl) {
     report('review', slug, 'contentUrl não corresponde ao arquivo MP4 principal');
   }
@@ -340,9 +351,17 @@ for (const videoPage of videoPages) {
     if (!videoObject.thumbnailUrl || !/^https?:\/\//.test(videoObject.thumbnailUrl)) {
       report('página de vídeo', videoPage.slug, 'VideoObject sem thumbnailUrl absoluta');
     }
-    if (!isIso8601Date(videoObject.uploadDate)) {
-      report('página de vídeo', videoPage.slug, 'VideoObject sem uploadDate ISO 8601 válida');
-    }
+    checkUploadDate('página de vídeo', videoPage.slug, videoObject.uploadDate);
+  }
+
+  // O <head>: 65 e 160 caracteres são referência editorial, não limite técnico, e por isso só avisam.
+  // Título longo do YouTube pede seoTitle e descrição longa pede seoDescription (video-pages.js).
+  const seo = getVideoPageSeo(videoPage);
+  if (seo.documentTitle.length > 65) {
+    warn('página de vídeo', videoPage.slug, `<title> com ${seo.documentTitle.length} caracteres (referência: 65): vale um seoTitle de até 42`);
+  }
+  if (seo.description.length > 160) {
+    warn('página de vídeo', videoPage.slug, `meta description com ${seo.description.length} caracteres (referência: 160): vale uma seoDescription`);
   }
 
   const sitemapEntry = sitemapEntries.find((entry) => entry.url === videoPage.canonicalUrl);
@@ -389,6 +408,11 @@ for (const [contentUrl, metadata] of Object.entries(localVideoMetadata)) {
   if (matches.length !== 1) {
     errors.push(`MP4 principal ${contentUrl}: esperado 1 página de exibição, encontradas ${matches.length}`);
   }
+}
+
+if (warnings.length > 0) {
+  console.warn('Avisos da validação de vídeos (não param a build):');
+  for (const warning of warnings) console.warn(`- ${warning}`);
 }
 
 if (errors.length > 0) {

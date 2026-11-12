@@ -2113,6 +2113,10 @@ for (const url of articleUrls) {
   assertDiscoverHead(pagePath, headOf(html));
   const articleSchema = jsonLdOf(html).find((schema) => schema['@type'] === 'Article' || schema['@type'] === 'Review');
   assert.match(String(articleSchema?.dateModified ?? ''), /^\d{4}-\d{2}-\d{2}/, `${pagePath}: Article/Review sem dateModified em ISO`);
+  // Review só com nota: sem reviewRating e itemReviewed o Search Console acusa; sem nota, o artigo sai como Article.
+  if (articleSchema?.['@type'] === 'Review') {
+    assert.ok(articleSchema.reviewRating && articleSchema.itemReviewed, `${pagePath}: Review sem reviewRating ou itemReviewed`);
+  }
   assert.ok(headOf(html).includes('<meta property="article:modified_time"'), `${pagePath}: <head> sem article:modified_time`);
   discoverArticles++;
 

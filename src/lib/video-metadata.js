@@ -22,42 +22,42 @@ export const videoMetadata = {
       'Teste do truque culinário que mistura manteiga e leite integral para aumentar o volume, mostrando o preparo, a textura e o resultado real.',
   },
   brlxM4aUXkk: {
-    uploadDate: '2025-02-26',
+    uploadDate: '2025-02-25T19:00:35-08:00',
     duration: 'PT1M7S',
     title: '🛋️ Poltronas Damie: Conforto Sala de Cinema de LUXO na sua CASA | CUPOM CECILIA12',
     description:
       'As três poltronas reclináveis Damie em linho bege na sala de TV da Cecília: reclinação elétrica, conforto de cinema em casa e uso no dia a dia.',
   },
   MoBWSbcFTbg: {
-    uploadDate: '2025-09-03',
+    uploadDate: '2025-09-03T14:00:33-07:00',
     duration: 'PT1M12S',
     title: 'Esse Sofá é MODULAR, Vem numa Caixa e Tem Suporte para Celular 🤔📱 | CUPOM CECILIA12',
     description:
       'O sofá modular Damie que chega em caixas por módulo: montagem sem ferramenta complexa, puff incluso e suporte para celular no braço.',
   },
   YUAO12eA0oo: {
-    uploadDate: '2026-03-19',
+    uploadDate: '2026-03-19T15:45:05-07:00',
     duration: 'PT42S',
     title: 'Poltronas, Sofás e Camas no aniversário da DAMIE 💆‍♀️✨ | CUPOM CECILIA12',
     description:
       'Visita da Cecília ao aniversário da Damie, mostrando poltronas, sofás e camas da marca e diferentes opções de conforto e acabamento.',
   },
   jC0UZewMARE: {
-    uploadDate: '2026-04-15',
+    uploadDate: '2026-04-15T16:30:29-07:00',
     duration: 'PT37S',
     title: 'Poltrona Levita Damie: Conforto Premium na sua Casa | CUPOM CECILIA12',
     description:
       'Demonstração da Poltrona Levita Damie com dois motores independentes, ajustes de reclinação e pescoço, base giratória e acabamento premium.',
   },
   ep2XlSQ_OiM: {
-    uploadDate: '2026-05-06',
+    uploadDate: '2026-05-06T15:15:04-07:00',
     duration: 'PT54S',
     title: 'A Poltrona Perfeita pra Sua Mãe 🛋️ | Cupom CECILIA12',
     description:
       'Demonstração de uma poltrona reclinável Damie para descanso e amamentação, com apoio para braços, pernas e mudanças de posição na rotina.',
   },
   B8L2YJC8gaE: {
-    uploadDate: '2026-07-20',
+    uploadDate: '2026-07-20T10:00:00-07:00',
     duration: 'PT1M31S',
     title: 'CUPOM DAMIE CECILIA12 | Lançamento Poltrona Reclinável 2.0',
     description:
@@ -78,7 +78,7 @@ export const videoMetadata = {
       'A nova Mine Me 2.0 da Nescafé Dolce Gusto chegou como presente de Dia dos Pais! ☕🎁Neste unboxing ASMR, você acompanha todos os sons da abertura, da máquina sendo preparada e do primeiro café Leite Moça Pistache. Salva para lembrar do cupom CECI!\n\n\n#DolceGusto #MineMe20 #UnboxingASMR #CafeEmCasa #DiaDosPais #CupomCECI',
   },
   xpXX_N002jo: {
-    uploadDate: '2026-08-17',
+    uploadDate: '2026-08-17T12:30:15-07:00',
     duration: 'PT18M17S',
     title: 'Minha primeira lava e seca: Samsung 13 kg, unboxing e primeiro uso',
     description:
