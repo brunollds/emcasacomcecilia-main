@@ -356,6 +356,20 @@ assert.deepEqual(pendingAt('2026-01-22T00:00:00-03:00'), []);
 const linkWithWindows = { ...shein, limitedCodes: sample.limitedCodes } as AffiliateLinkOffer;
 assert.deepEqual(getPendingLimitedCodes(linkWithWindows, Date.parse('2026-01-06T12:00:00-03:00')), [], 'loja de link não tem código com prazo');
 
+// A abertura da página de loja responde "tem cupom <loja>?": começa por "O cupom <loja>" e, nas lojas em que o código vale
+// para cliente novo e antigo, diz isso cedo (Bruno, 12/11/2026, a partir do teste da Insider no Perplexity).
+const storeNameFirst = ['damie', 'dolce-gusto', 'nestle-nutre', 'i-wanna-sleep', 'letseatit', 'insider', 'probiotica', 'max-titanium', 'dr-peanut', 'black-skull', 'clea-store', 'belive', 'mais-mu', 'skelt', 'bagaggio', 'toda-up', 'simple-organic', 'holyfoods', 'petz', 'hostinger'];
+const newAndReturning = ['damie', 'dolce-gusto', 'nestle-nutre', 'letseatit', 'insider', 'probiotica', 'max-titanium', 'dr-peanut', 'black-skull', 'clea-store', 'belive', 'mais-mu', 'bagaggio', 'holyfoods', 'petz', 'hostinger'];
+for (const slug of storeNameFirst) {
+  const coupon = getCouponBySlug(slug);
+  assert.ok(coupon?.longDescription.startsWith(`O cupom ${coupon.brand} `), `${slug}: a abertura começa por "O cupom ${coupon?.brand}"`);
+}
+for (const slug of newAndReturning) {
+  const coupon = getCouponBySlug(slug);
+  assert.match(coupon?.longDescription ?? '', /para quem já é cliente/, `${slug}: a abertura diz que o cupom vale para quem já é cliente`);
+  assert.ok((coupon?.metaDescription.length ?? 0) <= 155, `${slug}: metaDescription com mais de 155 caracteres`);
+}
+
 // A pergunta "está funcionando hoje?" não repete a data do teste: ela envelhece a cada teste novo (a da Insider chamava
 // 31/10 de último teste com o de 11/11 já registrado). A data fica só em "Como testamos o cupom", e nenhuma resposta manda
 // olhar o topo da página, que desde o #874 mostra a validade.
