@@ -45,18 +45,22 @@ do Search Console: a página `/cupons/prohall` entrou no ar no dia da pesquisa.
   fica com onde digitar, o que o resumo mostra e o que fazer quando o código não entra.
 - [[black-friday-prohall]] (PH6): o cupom na campanha.
 
-## O que só este artigo dá (busca de 12/11/2026)
+## O que só este artigo dá (Google em português, 12/11/2026)
 
-A busca feita em 12/11, por ferramenta sem localização no Brasil, não trouxe nenhuma página sobre o cupom da Prohall.
-A redação relê o topo do Google em português antes de escrever e ajusta esta seção.
+Topo de "cupom prohall": a visão geral de IA lista códigos de outras influenciadoras e o cupom de primeira compra
+da própria loja, todos anunciados com 10%, e cita desconto no Pix; depois vêm anúncios de agregadores ("10% hoje"),
+posts da loja e de influenciadoras e páginas da loja. Ninguém mostra o checkout nem diz quanto o código tirou.
 
-- **O percentual de verdade:** a parceria anuncia "até 10%", e o checkout deu 7% em cinco carrinhos. O artigo diz os
-  dois números e mostra a conta de um carrinho testado.
-- **O passo a passo com o nome dos campos:** "Tem um cupom?", "Código do cupom", "Aplicar" e o aviso "Cupom CECILIAMC
-  aplicado", com o print do checkout.
-- **O app:** produto esgotado no site aparece como "baixar o app para comprar", e a busca "cupom app prohall"
-  existe. O artigo diz que o código vale no site e no app.
+- **O percentual conferido no checkout:** o topo repete "10%" sem teste. O artigo diz "até 10%" e mostra que o
+  CECILIAMC tirou 7% em cinco carrinhos, com a conta de um deles. É menos que o anunciado pelos outros, e é o único
+  número conferido da página de resultados.
+- **O passo a passo com o nome dos campos** ("Tem um cupom?", "Código do cupom", "Aplicar") e o print do checkout.
+- **O app:** a loja anuncia que as melhores ofertas estão no app, e a busca "cupom app prohall" existe. O artigo diz
+  que o código vale no site e no app.
 - **O frete depois do cupom:** o mínimo do frete grátis muda por região e conta sobre o valor já com o desconto.
+
+**Risco a levar ao Bruno:** quem lê a página de resultados vê 10% em outros códigos e 7% no nosso. O artigo não
+resolve isso; resolve a parceria, se o CECILIAMC passar a dar 10% de fato.
 
 ## Esqueleto
 
@@ -102,7 +106,9 @@ Sem quadro `decision`.
 - **Clube Prohall:** fora dos seis textos (Bruno, 12/11). Nem "soma", nem "não soma", nem "não sabemos".
 - **Moedas PH com o cupom:** não afirmar (sem teste).
 - **App:** o código vale no site e no app (Bruno, 12/11).
-- **Pix:** não aparece desconto extra (Bruno, 12/11). O cupom vale com todas as formas de pagamento.
+- **Pix:** não aparece desconto extra (Bruno, 12/11). O cupom vale com todas as formas de pagamento. A visão geral de
+  IA do Google cita desconto no Pix, sem fonte da loja: a redação confere no checkout antes de escrever "o Pix não dá
+  desconto a mais"; se aparecer desconto, vale o checkout e a frase muda.
 - **Frete:** o mínimo do frete grátis conta depois do cupom (Bruno, 12/11; sem teste de carrinho registrado). A
   conta de exemplo da ficha (R$ 104 que caem para R$ 96,72 no Sudeste) é cálculo, não teste: se entrar, entra como
   exemplo.
@@ -127,7 +133,7 @@ Sem quadro `decision`.
 2. `/pages/formas-de-pagamento`: frete por região e parcelamento.
 3. `/pages/cashback-prohall`: a frase "não junta com outros cupons".
 4. A página do app nas lojas de aplicativo, para o nome exato do app.
-5. O topo do Google em português para "cupom prohall" e "cupom app prohall".
+5. O Pix no checkout, com o código aplicado: se há ou não desconto a mais.
 
 ## Metadados sugeridos
 

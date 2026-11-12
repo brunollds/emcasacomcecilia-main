@@ -36,19 +36,22 @@ atendimento e reputação.
 
 "prohall é confiável", "site prohall é confiavel", "prohall é brasileira" ([[Pesquisas-de-Pauta]]).
 
-## O que só este artigo dá (busca de 12/11/2026)
+## O que só este artigo dá (Google em português, 12/11/2026)
 
-Na busca de 12/11 (ferramenta sem localização no Brasil), "prohall é confiável" trouxe um verificador automático de
-sites, a página do app na loja de aplicativos e textos de marketplace sobre um produto. Nenhum junta a empresa, as
-regras de troca e a reputação.
+Topo de "prohall é confiável": a visão geral de IA diz que o site oficial é confiável, cita a nota do Reclame
+Aqui e alerta para sites falsos e produto falsificado; depois vêm um vídeo de 2023 ("Site da Prohall é confiável?"),
+vídeos sobre a Select One, a página "Quem somos" da loja, reclamações avulsas do Reclame Aqui e um comunicado
+antigo da marca sobre canais oficiais. "As pessoas também perguntam": "Quem é o dono da Prohall?".
 
 - **A regra de troca, por inteiro:** 30 dias para troca e 7 para desistência, mas com o lacre intacto, o pedido
-  devolvido por completo e a postagem por conta do cliente. É o ponto que mais muda a decisão e que o topo não traz.
-- **Dois sites, uma empresa:** `lojaprohall.com.br` é a loja, e `prohall.com.br` é o institucional. O artigo diz
-  qual é qual, com o CNPJ.
+  devolvido por completo e a postagem por conta do cliente. Nenhum resultado do topo traz.
+- **Como reconhecer o canal oficial:** o topo alerta para sites falsos sem dizer como conferir. O artigo dá os dois
+  endereços (loja e institucional), o CNPJ do rodapé e o nome do app.
+- **Quem é a empresa:** razão social, CNPJ, cidade e ano de fundação, que respondem "quem é o dono" sem nome de pessoa.
 - **Reputação com período** e link para o artigo do Reclame Aqui.
 
-A redação relê o topo do Google em português antes de escrever e ajusta esta seção.
+Registro na Anvisa: a marca afirma que os produtos são regularizados. Só entra com atribuição, ou depois de
+conferir um produto na consulta pública da Anvisa (leitura da redação).
 
 ## Esqueleto
 

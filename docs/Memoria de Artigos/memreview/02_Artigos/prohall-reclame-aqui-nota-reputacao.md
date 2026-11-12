@@ -36,16 +36,19 @@ artigo transforma isso em cuidado prático antes da compra.
 
 "prohall reclame aqui" e variações por produto: progressiva, botox, Select One e Burix One ([[Pesquisas-de-Pauta]]).
 
-## O que só este artigo dá (busca de 12/11/2026)
+## O que só este artigo dá (Google em português, 12/11/2026)
 
-- **A busca confunde as empresas:** no Reclame Aqui, "prohall" traz dez empresas, e só uma é a marca. A busca na web
-  de 12/11 (ferramenta sem localização no Brasil) trouxe o perfil de outra empresa, de nome parecido. O artigo
-  ensina a achar o perfil certo pelo nome e pelo CNPJ, que é o mesmo do rodapé da loja.
-- **Números com período:** a tabela da releitura, com o período na legenda.
-- **Do padrão de reclamação ao cuidado:** as regras da loja (conferir na entrega, pedido inteiro, lacre) explicam
-  parte das queixas e dizem o que fazer antes.
+Topo de "prohall reclame aqui": a visão geral de IA dá a nota 7,2 e lista reações adversas, resultado abaixo do
+esperado, atendimento e entrega; os resultados são reclamações avulsas do próprio Reclame Aqui (queda de cabelo,
+reação a progressiva, pedido sem acompanhamento), a lista de reclamações e a página de cupons do Reclame Aqui. As
+páginas do Reclame Aqui aparecem com notas diferentes (7,2, 7,4 e 7,7), sem dizer o período de cada uma.
 
-A redação relê o topo do Google em português para "prohall reclame aqui" e ajusta esta seção.
+- **Os números com o período:** por que a mesma empresa aparece com três notas, e qual é a do período de seis meses.
+- **O padrão, e não o caso avulso:** o topo é uma fila de reclamações soltas, várias de saúde. O artigo mostra
+  quanto cada tipo de problema pesa (o atraso na entrega é o mais citado) e trata as queixas de saúde como padrão
+  de reclamação, sem causa afirmada.
+- **Do padrão ao cuidado:** as regras da loja (conferir na entrega, pedido inteiro, lacre) dizem o que fazer antes.
+- **O perfil certo:** a busca do Reclame Aqui traz dez empresas para "prohall"; o artigo dá o nome e o CNPJ.
 
 ## Esqueleto
 

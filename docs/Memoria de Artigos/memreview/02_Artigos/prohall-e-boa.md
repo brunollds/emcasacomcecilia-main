@@ -49,20 +49,25 @@ de produto declara e para quem a compra faz sentido.
 - Estoque sem GO ("tem formol?", "progressiva ou selagem", Select One, Force Hair, Absolut One): o PH5 não
   aprofunda nenhum deles. Cada linha ganha um parágrafo, e a dúvida de composição fica para o artigo próprio.
 
-## O que só este artigo dá (busca de 12/11/2026)
+## O que só este artigo dá (Google em português, 12/11/2026)
 
-Na busca de 12/11 (ferramenta sem localização no Brasil), "prohall é boa" trouxe páginas de marketplace e de
-varejo com o texto promocional de um produto e resenhas de um único item (o Select One). Nenhuma olha a marca
-inteira.
+Topo de "prohall é boa": a visão geral de IA já responde (reputação boa, elogios à Select One e à Absolut One,
+"pode pesar em cabelo fino", alerta de falsificados); o resto é vídeo e vídeo curto de quem usou, quase todos sobre
+a Select One, mais reclamações avulsas do Reclame Aqui. "As pessoas também perguntam": "A Prohall Select One tem
+formol?", "O Burix One alisa o cabelo?", "Quanto tempo a progressiva Prohall tem que ficar no cabelo?".
 
-- **A marca por necessidade:** qual linha é para quê, com o que a página de cada produto declara, em vez de um
-  produto só.
-- **O que é de uso profissional e o que é de uso em casa,** pela página do produto.
-- **Avaliações com número e origem:** quantas avaliações a loja mostra em cada produto (são da própria loja, e o
-  texto diz isso), mais a reputação no Reclame Aqui com período.
+**É a pauta mais fraca do pacote.** A página de resultados quer experiência de uso, que não temos, e a pergunta
+geral a visão de IA já responde. O que sobra de próprio:
+
+- **A marca inteira por necessidade:** o topo fala de um produto só. O artigo diz qual linha é para quê, e o que
+  é de uso profissional e o que é de uso em casa, pela página de cada produto.
+- **O que pesa na decisão e nenhum vídeo diz:** a troca exige o lacre intacto, então quem compra para experimentar
+  não devolve depois de abrir.
+- **Avaliações com número e origem** e a reputação com período.
 - **O preço com o cupom, de carrinho testado.**
 
-A redação relê o topo do Google em português antes de escrever e ajusta esta seção.
+As dúvidas de "As pessoas também perguntam" são de composição e de modo de uso: o artigo não responde por conta
+própria (regras do pacote) e elas reforçam as pautas de estoque "tem formol?" e "Select One ou Burix One".
 
 ## Esqueleto
 

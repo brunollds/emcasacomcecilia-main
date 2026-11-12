@@ -48,8 +48,14 @@ O Bruno decidiu em 12/11 que a canibalização não veta a série. A função de
 
 ## O que só este artigo dá (busca de 12/11/2026)
 
-A busca de 12/11, por ferramenta sem localização no Brasil, não trouxe nenhuma página sobre cupom de primeira compra
-da Prohall. A redação relê o topo do Google em português antes de escrever e ajusta esta seção.
+Google em português, 12/11: a visão geral de IA responde com o cupom de primeira compra da própria loja, que a
+loja anuncia com 10% nas redes dela, e cita cupom de app e desconto no Pix; depois vêm anúncios de agregadores,
+vídeos da loja e códigos de influenciadoras com 10%.
+
+**Risco a levar ao Bruno antes da redação:** nesta busca, a própria loja oferece a quem nunca comprou um
+percentual anunciado maior do que o CECILIAMC entregou nos testes (7%). Pela regra da série, o artigo não cita nem
+compara o cupom da loja, e continua verdadeiro: diz "até 10%" e os 7%. Mas o leitor de primeira compra vai ver os
+dois números na mesma página de resultados. O que muda o quadro é a parceria fazer o CECILIAMC dar 10% de fato.
 
 Frase de ganho de informação:
 
