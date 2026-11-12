@@ -1086,11 +1086,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'moda',
     shortDescription: 'compras online na Insider, exceto lançamentos',
     longDescription:
-      'O EMCASACOMCECILIA dá 15% OFF na loja online da Insider, sem valor mínimo, também sobre os preços de Black Friday, no Outlet e nos kits em promoção; não vale em lançamentos nem na loja física.',
+      'O cupom EMCASACOMCECILIA dá 15% OFF na loja online da Insider, na primeira compra e nas seguintes, sem valor mínimo: o desconto não diminui para quem já é cliente. Vale também sobre os preços de Black Friday, no Outlet e nos kits em promoção. Não vale em lançamentos nem na loja física, e a loja aceita um cupom por pedido.',
     metaTitle: 'Cupom Insider: 15% OFF com EMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Insider: EMCASACOMCECILIA dá 15% OFF que soma com os preços de Black Friday e do Outlet, sem mínimo. Não vale em lançamentos.',
+      'Cupom Insider: EMCASACOMCECILIA dá 15% OFF na primeira compra e nas seguintes, sem mínimo. Soma com a Black Friday e o Outlet. Não vale em lançamentos.',
     eligibleCategories: 'Produtos da loja online da Insider, exceto lançamentos',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1119,7 +1119,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Quanto de desconto o cupom EMCASACOMCECILIA dá?',
         answer:
-          'O EMCASACOMCECILIA dá 15% OFF nos produtos elegíveis da loja online, sem valor mínimo. O desconto aparece em cada item do resumo do pedido assim que o código é aceito.',
+          'O EMCASACOMCECILIA dá 15% OFF nos produtos elegíveis da loja online, na primeira compra e nas seguintes, sem valor mínimo. O desconto aparece em cada item do resumo do pedido assim que o código é aceito.',
       },
       {
         question: 'Existe cupom Insider de 20%, 25% ou 30%?',
@@ -1129,12 +1129,17 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom EMCASACOMCECILIA está funcionando hoje?',
         answer:
-          'Sim. No último teste de checkout, em 31/10/2026, o EMCASACOMCECILIA aplicou os 15% em cada item elegível, sobre os preços de Black Friday. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de 11/11/2026, o EMCASACOMCECILIA aplicou os 15% num kit com brinde, que saiu de R$ 139,00 por R$ 118,15. O teste mais recente, com a data, está em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'O cupom Insider vale na primeira compra? É melhor que o de boas-vindas?',
         answer:
           'Vale, e o desconto é o mesmo: o cupom de boas-vindas da Insider, liberado na primeira compra para quem cadastra o e-mail no site, também é de 15%. Como a loja aceita um cupom por pedido, os dois não somam. A diferença é que o EMCASACOMCECILIA não pede cadastro e vale também para quem já comprou.',
+      },
+      {
+        question: 'Qual cupom Insider dá 15% para quem já é cliente?',
+        answer:
+          'O EMCASACOMCECILIA. Ele dá 15% nos produtos elegíveis da loja online para quem compra pela primeira vez e para quem já comprou: o desconto não diminui nas compras seguintes. Lançamentos ficam de fora, e a loja aceita um cupom por pedido.',
       },
       {
         question: 'Posso usar o cupom junto com outro cupom?',

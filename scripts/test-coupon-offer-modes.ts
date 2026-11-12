@@ -58,6 +58,10 @@ assert.ok(insider && insider.offerMode === 'discount-code', 'Insider deve existi
 assert.equal(insider.code, 'EMCASACOMCECILIA');
 assert.equal(insider.discountNumber, 15);
 assert.equal(insider.discount, '15% OFF');
+// O que distingue o código nas buscas e nas respostas de IA: os 15% valem na primeira compra e nas seguintes (Bruno, 12/11/2026).
+for (const [field, text] of [['longDescription', insider.longDescription], ['metaDescription', insider.metaDescription]] as const) {
+  assert.match(text, /na primeira compra e nas seguintes/, `insider: ${field} deve dizer que os 15% valem na primeira compra e nas seguintes`);
+}
 // Link da Influ como veio: o parâmetro cupom= aplica o código no carrinho e os UTMs atribuem a comissão.
 assert.equal(
   insider.offerUrl,
