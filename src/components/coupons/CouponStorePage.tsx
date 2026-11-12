@@ -551,6 +551,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                   <ReviewInlineImage
                     locale={locale}
                     reviewTitle={coupon.brand}
+                    // O componente é JS e o tipo inferido exige as três; aqui não há loja de artigo.
                     store={undefined}
                     stores={undefined}
                     reviewSlug={undefined}
@@ -560,7 +561,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                   />
                 </div>
                 <p className={`mt-3 ${BODY_TEXT}`}>
-                  {copy.cartPrint.caption(coupon.brand)}
+                  {copy.cartPrint.caption}
                   {cartPrint.article && (
                     <>
                       {' '}
