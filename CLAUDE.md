@@ -491,6 +491,12 @@ vídeo, primeiras impressões e uso noturno.
   presença e o lugar de cada uma. O fim de "Como usar" leva o print do código no carrinho (`cartPrint`), também só
   em português: uma imagem do artigo "como usar o cupom" da loja, mostrada pelo `ReviewInlineImage` (com o
   "Ampliar"), como exemplo e sem data de teste.
+- O JSON-LD da página de loja (`getJsonLd`, em `CouponStorePage.tsx`) é um `@graph` só, com os nós ligados por `@id`:
+  `WebPage` (`isPartOf` e `publisher` apontam para o `WebSite` e o `Organization` do layout, `SITE_WEBSITE_ID` e
+  `SITE_ORGANIZATION_ID` de `pageSeo.ts`), `Offer`, a loja, `FAQPage` e `BreadcrumbList`. O `Offer` leva só o que o
+  schema.org define para ele: o código e o desconto vão em `additionalProperty`, nunca em `couponCode` ou `discount`, e
+  a data fica no `WebPage`. Todo JSON-LD sai por `serializeJsonLd` (`src/lib/jsonLd.ts`). O `test:build-output`
+  confere os nós, as referências e o que não pode voltar. As páginas da YesStyle têm JSON-LD próprio, ainda em blocos.
 - A imagem de compartilhamento da loja vem de `getStoreSocialImage` (`src/lib/pageSeo.ts`): a
   `socialImage` de `couponsData.ts`, senão o `brandLogo`. O cartão do X não mostra AVIF, então loja
   com logo AVIF leva `socialImage` em JPG, PNG ou WebP; o `test:build-output` barra o contrário. A

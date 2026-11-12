@@ -11,7 +11,8 @@ import ReviewInlineImage from '@/components/ReviewInlineImage';
 import { getCouponMetaTitle, getCurrentOfferMonthDate } from '@/lib/offerMonth';
 import { RevealSection } from '@/components/ui/RevealSection';
 import { getShellHomeHref } from '@/lib/i18n/shellDictionary';
-import { SITE_NAME, SITE_URL, absoluteUrl, getStoreSocialImage } from '@/lib/pageSeo';
+import { serializeJsonLd } from '@/lib/jsonLd';
+import { SITE_NAME, SITE_ORGANIZATION_ID, SITE_WEBSITE_ID, absoluteUrl, getStoreSocialImage } from '@/lib/pageSeo';
 import { CopyCodeButton, CouponDock } from './CouponActions';
 import {
   BODY_TEXT,
@@ -111,60 +112,65 @@ export function getCouponStoreMetadata(coupon: Coupon, locale: Locale): Metadata
   };
 }
 
+// Um @graph só, com os nós ligados por @id: a página (WebPage) fala da oferta (mainEntity), da loja (about) e é do
+// site (isPartOf, publisher). O Offer leva só vocabulário que o schema.org define para ele; o código e o desconto vão
+// em additionalProperty, e a data de conferência fica no WebPage.
 function getJsonLd(coupon: Coupon, locale: Locale, copy: CouponStoreCopy) {
   const url = absoluteUrl(getCouponStorePath(coupon.slug, locale));
   const offerType = getOfferType(coupon, copy);
+  const ids = { page: `${url}#webpage`, offer: `${url}#offer`, store: `${url}#store`, faq: `${url}#faq`, breadcrumb: `${url}#breadcrumb` };
+
+  const store = {
+    '@type': 'Organization',
+    '@id': ids.store,
+    name: coupon.brand,
+    url: coupon.officialUrl,
+  };
 
   const offer = {
-    '@context': 'https://schema.org',
     '@type': 'Offer',
+    '@id': ids.offer,
     name: coupon.offerMode === 'discount-code'
       ? copy.offerName.code({ discount: coupon.discount, brand: coupon.brand, offerType, code: coupon.code })
       : copy.offerName.link(coupon.discount, coupon.brand),
     description: coupon.longDescription,
     category: coupon.category,
-    // A moeda é a do site da loja em PT; fora dele, a loja cobra na moeda do país de quem compra.
-    ...(locale === 'pt' ? { priceCurrency: 'BRL' } : {}),
-    ...(coupon.offerMode === 'discount-code' ? {
-      discount: `${coupon.discountNumber}`,
-      couponCode: coupon.code,
-    } : {}),
-    offeredBy: {
-      '@type': 'Organization',
-      name: coupon.brand,
-      url: coupon.officialUrl,
-    },
-    seller: {
-      '@type': 'Organization',
-      name: coupon.brand,
-      url: coupon.officialUrl,
-    },
-    dateModified: coupon.lastVerified,
     url,
+    offeredBy: { '@id': ids.store },
+    seller: { '@id': ids.store },
+    additionalProperty: [
+      ...(coupon.offerMode === 'discount-code'
+        ? [{ '@type': 'PropertyValue', propertyID: 'couponCode', name: offerType, value: coupon.code }]
+        : []),
+      { '@type': 'PropertyValue', propertyID: 'discount', name: 'discount', value: coupon.discount },
+    ],
   };
 
   const webPage = {
-    '@context': 'https://schema.org',
     '@type': 'WebPage',
+    '@id': ids.page,
     name: getCouponMetaTitle(coupon),
     description: coupon.metaDescription,
     url,
     inLanguage: LOCALES[locale].htmlLang,
+    isPartOf: { '@id': SITE_WEBSITE_ID },
+    publisher: { '@id': SITE_ORGANIZATION_ID },
+    about: { '@id': ids.store },
+    mainEntity: { '@id': ids.offer },
+    breadcrumb: { '@id': ids.breadcrumb },
     dateModified: coupon.lastVerified,
     // O teste de checkout é da equipe, por isso a revisão vai em nome do site, não de uma pessoa.
     ...(coupon.offerMode === 'discount-code' && coupon.testNote && coupon.testedAt
-      ? {
-          lastReviewed: coupon.testedAt,
-          reviewedBy: { '@type': 'Organization', name: 'Em Casa com Cecília', url: SITE_URL },
-        }
+      ? { lastReviewed: coupon.testedAt, reviewedBy: { '@id': SITE_ORGANIZATION_ID } }
       : {}),
     // A mesma imagem do compartilhamento, pelo endereço de entrega.
     primaryImageOfPage: getStoreSocialImage(coupon).url,
   };
 
   const faq = {
-    '@context': 'https://schema.org',
     '@type': 'FAQPage',
+    '@id': ids.faq,
+    isPartOf: { '@id': ids.page },
     mainEntity: coupon.faqs.map((item) => ({
       '@type': 'Question',
       name: item.question,
@@ -176,8 +182,8 @@ function getJsonLd(coupon: Coupon, locale: Locale, copy: CouponStoreCopy) {
   };
 
   const breadcrumb = {
-    '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
+    '@id': ids.breadcrumb,
     itemListElement: getBreadcrumb(coupon, locale, copy).map((item, index) => ({
       '@type': 'ListItem',
       position: index + 1,
@@ -186,7 +192,7 @@ function getJsonLd(coupon: Coupon, locale: Locale, copy: CouponStoreCopy) {
     })),
   };
 
-  return [webPage, offer, faq, breadcrumb];
+  return { '@context': 'https://schema.org', '@graph': [webPage, offer, store, faq, breadcrumb] };
 }
 
 // Evita "R$" no fim de uma linha e o valor no começo da seguinte.
@@ -275,13 +281,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
 
   return (
     <main className={`${couponFontVariables} min-h-screen bg-white text-marinho`}>
-      {jsonLd.map((schema, index) => (
-        <script
-          key={index}
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
-        />
-      ))}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: serializeJsonLd(jsonLd) }} />
 
       <StoreHero
         watermark={coupon.brandWatermark && resolveMediaUrl(coupon.brandWatermark)}
