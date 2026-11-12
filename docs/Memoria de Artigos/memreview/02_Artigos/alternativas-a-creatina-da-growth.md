@@ -112,3 +112,10 @@ Segunda pauta da série "Alternativas a <marca>". Na noite de 09/11/2026, o Brun
 | Cluster | 10 | 9 | Liga nove artigos de creatina e de Growth e quatro páginas de cupom |
 | Viabilidade | 10 | 5 | Preços mudam no mesmo dia durante a Black Friday |
 | **Total** | 100 | **79** | |
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/creatina/alternativas-a-creatina-da-growth-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pote de Creatine de 1 kg da Max Titanium em imagem oficial, ao lado da chamada Alternativas à Growth e do apoio Creatina em pó, sachê e cápsula. A embalagem mostrada é uma das alternativas em pó.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. O pote de 1 kg da Max Titanium é uma das alternativas citadas; sem foto nem logo da Growth, e o pó não ilustra todas as apresentações do apoio. Sem geração por IA no produto.
+- **Lote 33 do piloto de capas (sequência 10 do Codex, revisão independente do GPT-6.1 Terra):** aprovado visualmente pelo Bruno em 11/11/2026, finais em `docs/auditoria-capas/lote-20261111-33/out/` no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/creatina/alternativas-a-creatina-da-growth-capa.webp`) fica no CDN, sem uso como capa.

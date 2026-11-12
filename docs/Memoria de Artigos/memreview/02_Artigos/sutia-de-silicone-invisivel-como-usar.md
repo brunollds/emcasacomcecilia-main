@@ -310,3 +310,10 @@ Fotos com o seio exposto ou a peça aplicada de frente ficaram de fora. Upload F
 ## Job 4 (JSON, 27/10/2026)
 
 `content/reviews/sutia-de-silicone-invisivel-como-usar.json`, id 621, `guias-praticos-utilidade` / `guia`, type "Guia Prático", `affiliate: toda-up`, `coupon: MAUAD` (fora do texto), `isNew: true`, CTA "Ver na Toda Up" pelo `offerUrl`. FAQ em bullets "Pergunta? resposta".
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/sutia-de-silicone-invisivel-como-usar-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo adulta usando o sutiã de silicone com fecho e segurando a caixa Invisible Up, em foto oficial da Toda Up, ao lado da chamada Sutiã de silicone e do apoio Uso e tipo de roupa.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Sem geração por IA no produto.
+- **Lote 33 do piloto de capas (sequência 10 do Codex, revisão independente do GPT-6.1 Terra):** aprovado visualmente pelo Bruno em 11/11/2026, finais em `docs/auditoria-capas/lote-20261111-33/out/` no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/toda-up/sutia-de-silicone-invisivel-capa-discover.webp`) fica no CDN, sem uso como capa.

@@ -287,3 +287,10 @@ As perguntas acima foram respondidas em 20/10/2026: o Bruno disse "Pode seguir" 
 10. Whey: o 100% Pure Whey pote 900 g contra o Concentrado 900 g da Dux. O refil 900 g da Probiótica entra como segunda linha, como na pauta contra a Growth. O Concentrado 1,8 kg da Dux entra como linha (regra 3), com "tamanho diferente".
 11. Creatina: a conta é a monohidratada 300 g nas duas lojas (5 g). A Dux 600 g fica fora da tabela. O Creapure vai numa frase, com os dois preços por 100 g (Probiótica 150 g e Dux 300 g).
 12. Zero Lactose e 1,8 kg da Probiótica, que não foram verificados, ficam fora.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/probiotica/probiotica-ou-dux-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pote de 100% Pure Whey Baunilha de 900 g da Probiótica com baunilha, biscoitos e sorvete em cena promocional oficial, ao lado da pergunta Probiótica ou Dux? e do apoio Whey e creatina.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Cena promocional oficial; o rótulo da fonte imprime 21 g e o artigo registra 20 g com variação, e nenhuma alegação nutricional nova foi posta no painel. Sem foto nem logo da Dux. Sem geração por IA no produto.
+- **Lote 33 do piloto de capas (sequência 10 do Codex, revisão independente do GPT-6.1 Terra):** aprovado visualmente pelo Bruno em 11/11/2026, finais em `docs/auditoria-capas/lote-20261111-33/out/` no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/probiotica/probiotica-ou-dux-capa-discover.webp`) fica no CDN, sem uso como capa.

@@ -271,3 +271,10 @@ As perguntas acima foram respondidas em 20/10/2026. O que vale é esta seção: 
 **Só desta pauta**
 
 11. Tabela com as três abas (6 meses, 12 meses e geral) e o histórico de 6 meses (de Boa para Regular). O tempo de resposta dos últimos 6 meses (24 dias e 13 horas) entra.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/mais-mu/mais-mu-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Embalagem do Snack de Parmesão de 25 g da parceria Scala e Mais Mu, em mockup oficial do fabricante, ao lado da chamada Mais Mu no Reclame Aqui e do apoio Entrega e atendimento.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Mockup oficial da collab Scala + Mu, do cofabricante, com o rótulo intacto; foto de produto não comprova reputação. Sem geração por IA no produto.
+- **Lote 33 do piloto de capas (sequência 10 do Codex, revisão independente do GPT-6.1 Terra):** aprovado visualmente pelo Bruno em 11/11/2026, finais em `docs/auditoria-capas/lote-20261111-33/out/` no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/mais-mu/mais-mu-reclame-aqui-capa-discover.webp`) fica no CDN, sem uso como capa.

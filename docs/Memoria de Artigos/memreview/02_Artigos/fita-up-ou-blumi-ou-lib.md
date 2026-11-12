@@ -202,3 +202,10 @@ Rodada de 05/11/2026, item R3 (aprovado pelo Bruno). Artigo novo, comparativo. C
 - JSON `content/reviews/fita-up-ou-blumi-ou-lib.json` (id 832). Capa B do Job 6 (modelo com a caixa), aprovada pelo Bruno. Foto no corpo: a embalagem, com o link da Toda Up.
 - Job 3 (Fable): aprovado com 9 ajustes de uma frase, todos aplicados (capítulo "Quem fabrica cada uma" absorvido no primeiro, retirada da Lib "a seco ou com o óleo", editorialNote curto, veredito pessoal no "Qual escolher", sem repetir a tabela no texto).
 - Conta por uso (trocas por semana): não entrou, os pressupostos não foram aprovados.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/fita-up-ou-blumi-ou-lib-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Rolo marrom da Fita Up parcialmente desenrolado, em foto oficial da Toda Up, ao lado da pergunta Fita Up, Blumi ou Lib? e do apoio Formato e onde comprar.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Sem geração por IA no produto.
+- **Lote 32 do piloto de capas (sequência 10 do Codex, revisão independente do GPT-6.1 Terra):** aprovado visualmente pelo Bruno em 11/11/2026, finais em `docs/auditoria-capas/lote-20261111-32/out/` no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/toda-up/fita-up-ou-blumi-ou-lib-capa.webp`) fica no CDN, sem uso como capa.

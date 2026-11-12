@@ -18,9 +18,9 @@
   "publishedAt": "14 Jul 2026",
   "publishedAtISO": "2026-07-14",
   "draft": false,
-  "image": "/images/reviews/dolcegusto/dolce-gusto-e-confiavel-hero.webp",
-  "imageAlt": "Cecília segurando a caixa lacrada da máquina NESCAFÉ Dolce Gusto neo recém-entregue, com o selo \"não aceite se o lacre estiver violado\" visível",
-  "imageFit": "cover",
+  "image": "/images/reviews/dolcegusto/dolce-gusto-e-confiavel-capa-v2.webp",
+  "imageAlt": "Cecília segura a caixa da Dolce Gusto NEO com o lacre visível, em foto própria, ao lado da pergunta Dolce Gusto é confiável? e do apoio Compra, entrega e trocas.",
+  "imageFit": "contain",
   "pros": [],
   "cons": [],
   "contentSections": [
@@ -123,6 +123,6 @@
       "slug": "promocao-dolce-gusto-caixas-mini-me-gratis"
     }
   ],
-  "imageAspect": "square",
+  "imageAspect": "landscape",
   "updatedAt": "2026-11-06"
 }

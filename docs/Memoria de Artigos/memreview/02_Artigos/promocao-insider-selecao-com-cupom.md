@@ -424,3 +424,10 @@ Estado em 15/10, na branch `claude/insider-selecao-outubro`:
   não havia recibo). Refazer o upload, depois `verify-remote --write`, `prepare-delivery --append`,
   `phase5-export --write`/`--check`, `test-delivery-integration`, staging explícito,
   `candidate-proof`, commit, PR e merge após o Gate 1. Deploy só com decisão do Bruno.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/insider/promocao-insider-selecao-com-cupom-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo adulta com casaco Wingsuit Off White da Insider e calça areia, em foto oficial, ao lado da chamada Seleção da Cecília e do cupom EMCASACOMCECILIA.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Sem geração por IA no produto.
+- **Lote 31 do piloto de capas (sequência 10 do Codex, revisão independente do GPT-6.1 Terra):** aprovado visualmente pelo Bruno em 11/11/2026, finais em `docs/auditoria-capas/lote-20261111-31/out/` no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/insider/selecao-insider-capa.webp`) fica no CDN, sem uso como capa.

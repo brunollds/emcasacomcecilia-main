@@ -321,3 +321,10 @@ As perguntas acima foram respondidas em 20/10/2026: o Bruno disse "Pode seguir" 
 ---
 
 Responsável pela coleta: Claude, em 20/10/2026. Arquivos de apoio em `PASTA/aux-max/` (páginas da Max e da Dux em HTML, JSON `NUTRITIONAL_TABLE` extraído, tabelas nutricionais em imagem em `PASTA/aux-max/tabs/`, scripts de extração e de conta em `PASTA/`). Nenhuma página foi aberta com login, carrinho ou link de afiliado.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/max-titanium/max-titanium-ou-dux-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pote de 100% Whey Baunilha de 900 g da Max Titanium sobre pedestal, em imagem promocional oficial, ao lado da pergunta Max Titanium ou Dux? e do apoio Rótulo, dose e preço.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Sem geração por IA no produto.
+- **Lote 32 do piloto de capas (sequência 10 do Codex, revisão independente do GPT-6.1 Terra):** aprovado visualmente pelo Bruno em 11/11/2026, finais em `docs/auditoria-capas/lote-20261111-32/out/` no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/max-titanium/max-titanium-ou-dux-capa-discover.webp`) fica no CDN, sem uso como capa.

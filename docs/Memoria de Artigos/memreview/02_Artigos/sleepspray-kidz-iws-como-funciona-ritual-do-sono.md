@@ -341,3 +341,10 @@ Com a segurança de ser livre de melatonina, a garantia real de 30 dias de teste
 * Conforto térmico na cama: `[[qual-cobertor-escolher-guia-linhas-i-wanna-sleep]]`
 * Diferenciação de suplementos com melatonina para adultos: `[[melatonina-gummy-iws-para-que-serve-como-tomar]]`
 * Hub de descontos da marca: `/cupons/i-wanna-sleep`
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/iwannasleep/sleepspray-kidz-iws-como-funciona-ritual-do-sono-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Frasco de SleepSpray Kidz com lavanda, camomila e laranjas sobre fundo rosa, em imagem oficial de divulgação da I Wanna Sleep, ao lado da chamada Como funciona? e do apoio Uso e cuidados.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Sem geração por IA no produto.
+- **Lote 32 do piloto de capas (sequência 10 do Codex, revisão independente do GPT-6.1 Terra):** aprovado visualmente pelo Bruno em 11/11/2026, finais em `docs/auditoria-capas/lote-20261111-32/out/` no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/iwannasleep/sleepspray-kidz-hero.webp`) fica no CDN, sem uso como capa.

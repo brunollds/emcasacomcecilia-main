@@ -259,3 +259,10 @@ As perguntas acima foram respondidas em 20/10/2026. O que vale é esta seção: 
 **Só desta pauta**
 
 11. **Decisão do Bruno:** a reputação recente vai direta, com os números. A loja é real, com CNPJ desde 2014 e 98% das reclamações respondidas, mas a reputação caiu para Regular nos últimos 6 meses, com entrega como a principal queixa. A dica prática é acompanhar o rastreio e guardar o número do pedido, e o artigo linka o do Reclame Aqui.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/mais-mu/mais-mu-e-confiavel-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Caixa aberta de Chocowheyfer Mini Chocolate da Mais Mu, com embalagens individuais visíveis, em imagem oficial, ao lado da pergunta Mais Mu é confiável?.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Sem geração por IA no produto.
+- **Lote 31 do piloto de capas (sequência 10 do Codex, revisão independente do GPT-6.1 Terra):** aprovado visualmente pelo Bruno em 11/11/2026, finais em `docs/auditoria-capas/lote-20261111-31/out/` no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/mais-mu/mais-mu-confiavel-capa.webp`) fica no CDN, sem uso como capa.

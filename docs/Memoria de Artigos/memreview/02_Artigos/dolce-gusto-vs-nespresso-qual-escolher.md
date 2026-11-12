@@ -326,3 +326,10 @@ A Dolce Gusto ocupa cerca de 15 a 16 cm de largura (corpo arredondado), contra a
 - [x] **7. Gate i18n:** `modo_i18n: somente-pt` e `status_i18n: nao-aplicavel` respeitados.
 - [x] **8. Extensão & Densidade:** Sem cotas mecânicas de palavras; densidade total por cobertura esgotada de dúvidas (proposta de valor, mecânica, custos e rotina de bancada).
 - [x] **9. Capítulos & Keywords Donas:** Zero sobreposição entre os 4 blocos. As 10 keywords do mapa de busca estão alocadas estritamente aos seus blocos donos, sem repetições mecânicas.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Caixas de cápsulas Dolce Gusto Nescau, Galak, Nestea Pêssego e Chai Tea Latte em imagem oficial de catálogo, ao lado da pergunta Dolce Gusto ou Nespresso? e do apoio Cápsulas e bebidas.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Imagem oficial de catálogo, só Dolce Gusto; sem foto nem logo da Nespresso. Sem geração por IA no produto.
+- **Lote 33 do piloto de capas (sequência 10 do Codex, revisão independente do GPT-6.1 Terra):** aprovado visualmente pelo Bruno em 11/11/2026, finais em `docs/auditoria-capas/lote-20261111-33/out/` no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-hero-v2.webp`) fica no CDN, sem uso como capa.
