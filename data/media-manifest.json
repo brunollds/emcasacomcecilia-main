@@ -2002,6 +2002,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/about/partners/prohall-icon.png",
+      "local_url": "/images/about/partners/prohall-icon.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 7675,
+      "sha256": "eca06ac080084fc024d390a56f70c477d08f6e6a09ff82990db723d2c0c77428",
+      "width": 256,
+      "height": 256,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "prohall-icon.png",
+      "storage_filename": "prohall-icon.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Prohall.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Prohall.md",
+          "line": 69,
+          "column": 65,
+          "literal": "/images/about/partners/prohall-icon.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 3125,
+          "column": 17,
+          "literal": "/images/about/partners/prohall-icon.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/eca06ac080084fc024d390a56f70c477d08f6e6a09ff82990db723d2c0c77428/prohall-icon.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/eca06ac080084fc024d390a56f70c477d08f6e6a09ff82990db723d2c0c77428/prohall-icon.png",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:40:32.764Z",
+      "verification_etag_or_digest": "eca06ac080084fc024d390a56f70c477d08f6e6a09ff82990db723d2c0c77428",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/about/partners/prohall.png",
+      "local_url": "/images/about/partners/prohall.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 8991,
+      "sha256": "c59ee6413627a1c7ed2a82140a8aa83137594c9486e0ce7f682168318d7cdfd9",
+      "width": 340,
+      "height": 88,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "prohall.png",
+      "storage_filename": "prohall.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Prohall.md",
+        "src/lib/aboutPage.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Prohall.md",
+          "line": 69,
+          "column": 10,
+          "literal": "/images/about/partners/prohall.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/aboutPage.ts",
+          "line": 83,
+          "column": 28,
+          "literal": "/images/about/partners/prohall.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c59ee6413627a1c7ed2a82140a8aa83137594c9486e0ce7f682168318d7cdfd9/prohall.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c59ee6413627a1c7ed2a82140a8aa83137594c9486e0ce7f682168318d7cdfd9/prohall.png",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:40:32.765Z",
+      "verification_etag_or_digest": "c59ee6413627a1c7ed2a82140a8aa83137594c9486e0ce7f682168318d7cdfd9",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/about/partners/promobit.jpg",
       "local_url": "/images/about/partners/promobit.jpg",
       "media_kind": "image",
@@ -3060,6 +3152,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T19:30:51.016Z",
       "verification_etag_or_digest": "799a2e3c3ce6b12ad77ffb94471f3be52aac1498f9f23643311961d1ebac173d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/bolinhas/prohall.png",
+      "local_url": "/images/logos/bolinhas/prohall.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 10482,
+      "sha256": "9820bdac3f7b7a9cdde915c486f323d28eb2b454c17810f7fe0639a2a2c1ea48",
+      "width": 512,
+      "height": 512,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "prohall.png",
+      "storage_filename": "prohall.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Prohall.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Prohall.md",
+          "line": 70,
+          "column": 13,
+          "literal": "/images/logos/bolinhas/prohall.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 3127,
+          "column": 21,
+          "literal": "/images/logos/bolinhas/prohall.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9820bdac3f7b7a9cdde915c486f323d28eb2b454c17810f7fe0639a2a2c1ea48/prohall.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9820bdac3f7b7a9cdde915c486f323d28eb2b454c17810f7fe0639a2a2c1ea48/prohall.png",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:40:32.765Z",
+      "verification_etag_or_digest": "9820bdac3f7b7a9cdde915c486f323d28eb2b454c17810f7fe0639a2a2c1ea48",
       "verification_status": "verified"
     },
     {
@@ -23512,6 +23650,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-14T02:10:23.872Z",
       "verification_etag_or_digest": "235bf9aba994e0bbaf08eb3a973ed63d955602ef26fa21a910487cb0f1da3643",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/watermarks/prohall.webp",
+      "local_url": "/images/logos/watermarks/prohall.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 7102,
+      "sha256": "de414f835989b536aea27f61f900ccc291878a22b373eaf74888d8a2c8704d84",
+      "width": 480,
+      "height": 124,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "prohall.webp",
+      "storage_filename": "prohall.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Prohall.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Prohall.md",
+          "line": 70,
+          "column": 65,
+          "literal": "/images/logos/watermarks/prohall.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 3128,
+          "column": 22,
+          "literal": "/images/logos/watermarks/prohall.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/de414f835989b536aea27f61f900ccc291878a22b373eaf74888d8a2c8704d84/prohall.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/de414f835989b536aea27f61f900ccc291878a22b373eaf74888d8a2c8704d84/prohall.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:40:32.765Z",
+      "verification_etag_or_digest": "de414f835989b536aea27f61f900ccc291878a22b373eaf74888d8a2c8704d84",
       "verification_status": "verified"
     },
     {
@@ -112131,6 +112315,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-05T23:55:05.660Z",
       "verification_etag_or_digest": "bf0649421e6b1e66d9a757445f22506cf58e198e08db42c651c6c3b87cadb0a5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/cupom-prohall-checkout-com-cupom.webp",
+      "local_url": "/images/reviews/prohall/cupom-prohall-checkout-com-cupom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26698,
+      "sha256": "1960aa914ee447f16b1c50c56f9a77584b563a18c5f226b035263ae0292a644c",
+      "width": 383,
+      "height": 810,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-prohall-checkout-com-cupom.webp",
+      "storage_filename": "cupom-prohall-checkout-com-cupom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Prohall.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Prohall.md",
+          "line": 71,
+          "column": 35,
+          "literal": "/images/reviews/prohall/cupom-prohall-checkout-com-cupom.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 3120,
+          "column": 24,
+          "literal": "/images/reviews/prohall/cupom-prohall-checkout-com-cupom.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1960aa914ee447f16b1c50c56f9a77584b563a18c5f226b035263ae0292a644c/cupom-prohall-checkout-com-cupom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1960aa914ee447f16b1c50c56f9a77584b563a18c5f226b035263ae0292a644c/cupom-prohall-checkout-com-cupom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:40:32.766Z",
+      "verification_etag_or_digest": "1960aa914ee447f16b1c50c56f9a77584b563a18c5f226b035263ae0292a644c",
       "verification_status": "verified"
     },
     {
