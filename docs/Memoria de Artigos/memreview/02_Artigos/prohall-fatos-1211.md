@@ -109,17 +109,18 @@ e "O produto é compatível com qualquer química?" (as respostas não foram lid
   há plano mensal, com valor não lido. Benefícios publicados: "5% OFF em toda a loja", "automático, até em promoção";
   Moedas PH em dobro; "envio grátis acima de R$ 99,90"; promoções e lançamentos só para membros. O preço "CLUBE" dos
   cartões é o do site menos 5% (R$ 49,90 → R$ 47,41).
-- **Cupom sobre o preço do Clube: sem teste.** Exige conta de assinante. Os artigos não afirmam que soma nem que não
-  soma. O Bruno confere quando puder (12/11: "no clube tem que conferir").
+- **Cupom e Clube: omitir (Bruno, 12/11).** Nenhuma fonte oficial diz se o cupom soma com os 5% do Clube. Os artigos
+  não tocam no assunto: nem "soma", nem "não soma", nem "não sabemos". Só entra se a loja publicar a regra.
 - **Moedas PH (lido em 12/11, `/pages/moedas`):** ganham-se em compras, lives e check-in diário; "1.000 moedas =
-  R$ 1,00 de desconto no carrinho"; para quem não é membro do Clube, valem 90 dias. Se entram no mesmo pedido que o
-  cupom: sem teste.
-- **App:** produtos esgotados no site aparecem como "baixar o app para comprar". O Bruno acredita que o CECILIAMC vale
-  no app (12/11), sem teste registrado. Até haver teste, o texto diz onde o código foi testado (o site) e não promete
-  o app; a busca "cupom app prohall" existe, e a resposta entra no PH1 quando o teste sair.
+  R$ 1,00 de desconto no carrinho"; para quem não é membro do Clube, valem 90 dias. Com o cupom no mesmo pedido: o Bruno
+  acredita que entram (12/11), sem teste. Não afirmar nos artigos.
+- **App: o CECILIAMC funciona (Bruno, 12/11).** Produtos esgotados no site aparecem como "baixar o app para comprar",
+  e a busca "cupom app prohall" existe: o PH1 responde que o código vale no site e no app.
 - **Análise capilar:** item do menu, sem leitura.
-- **Desconto no Pix:** sem leitura.
-- **Mínimo do frete grátis antes ou depois do cupom:** sem leitura.
+- **Pix: não aparece desconto extra (Bruno, 12/11).** O cupom vale em todo pagamento, e o Pix não muda o preço.
+- **Frete grátis: o mínimo conta depois do cupom (Bruno, 12/11).** O valor que precisa passar do mínimo da região é
+  o do carrinho já com o desconto. Ex.: no Sudeste (R$ 99), um carrinho de R$ 104 cai para R$ 96,72 com 7% e perde
+  o frete grátis.
 
 ## 7. Estoque para depois (achado na pesquisa, sem GO)
 
@@ -142,9 +143,12 @@ e "O produto é compatível com qualquer química?" (as respostas não foram lid
 3. ~~O cupom vale no app e sobre o preço do Clube?~~ **Respondida em 12/11:** o Bruno acredita que vale no app; no
    Clube, falta conferir (seção 6).
 
-## Testes que faltam (pedem conta ou app)
+## Respostas do Bruno aos testes (12/11)
 
-- CECILIAMC no app da loja.
-- CECILIAMC num carrinho de assinante do Clube (soma com os 5%?).
-- Moedas PH e cupom no mesmo pedido.
-- Desconto no Pix e mínimo do frete grátis antes ou depois do cupom.
+| Teste | Resposta | Como entra nos artigos |
+|---|---|---|
+| CECILIAMC no app | Funciona | Afirmar: vale no site e no app |
+| CECILIAMC com o Clube | Sem fonte oficial | Omitir o assunto |
+| Moedas PH com o cupom | "Acredito que sim", sem teste | Não afirmar |
+| Desconto no Pix | Não aparece desconto extra | Afirmar: o Pix não dá desconto a mais |
+| Mínimo do frete grátis | Conta depois do cupom | Afirmar, com a conta sobre o valor já com desconto |
