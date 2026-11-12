@@ -7,6 +7,9 @@ export const SHELF_CONTAINER = 'mx-auto w-full max-w-[1200px] px-4 md:px-10';
 export const SHELF_TITLE =
   'font-condensada text-[32px] leading-none font-black text-marinho font-stretch-extra-condensed md:text-5xl';
 
+// O título da estante: o "Ver todos" das Novidades leva a ele.
+export const SHELF_TITLE_ID = 'titulo-estante';
+
 // A fila de chips de filtro (as categorias da estante, as lojas de /videos): rola no celular, com o degradê
 // na borda direita enquanto há chip escondido (moreToTheRight, do useRowScroll), e quebra linha a partir do
 // md, sem o degradê. O espaço antes do ${…} deixa o Tailwind ler a classe de antes.

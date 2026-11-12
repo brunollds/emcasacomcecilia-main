@@ -14,7 +14,13 @@ import { flushSync } from 'react-dom';
 import Link from 'next/link';
 import { LayoutGrid, List, Search, X } from 'lucide-react';
 import { ReviewShelfCard, ReviewShelfRow } from '@/components/reviews/ReviewShelfCard';
-import { SHELF_CONTAINER, SHELF_TITLE, filterChipClass, filterChipRowClass } from '@/components/reviews/shelfClasses';
+import {
+  SHELF_CONTAINER,
+  SHELF_TITLE,
+  SHELF_TITLE_ID,
+  filterChipClass,
+  filterChipRowClass,
+} from '@/components/reviews/shelfClasses';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { RevealSection } from '@/components/ui/RevealSection';
 import { runShelfTransition } from '@/components/ui/shelfTransition';
@@ -422,13 +428,13 @@ export function ReviewsBrowser({
 
       {searching ? null : showcase}
 
-      <RevealSection aria-labelledby="titulo-estante" className="pb-10 md:pb-14">
+      <RevealSection aria-labelledby={SHELF_TITLE_ID} className="pb-10 md:pb-14">
         <div ref={shelfRef} className={`${SHELF_CONTAINER} flex flex-col gap-4 md:gap-6`}>
           <h2
             ref={titleRef}
-            id="titulo-estante"
+            id={SHELF_TITLE_ID}
             tabIndex={-1}
-            className={`${titleVisible ? SHELF_TITLE : 'sr-only'} focus:outline-none`}
+            className={`${titleVisible ? SHELF_TITLE : 'sr-only'} scroll-mt-28 focus:outline-none`}
           >
             {titleVisible ? <span className="marca-texto">{searching ? 'Resultados da busca' : heading}</span> : heading}
           </h2>
