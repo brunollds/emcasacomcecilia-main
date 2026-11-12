@@ -200,11 +200,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'casa',
     shortDescription: 'todos os produtos, com todas as formas de pagamento',
     longDescription:
-      'O CECILIA12 dá 12% OFF em todos os produtos do site da DAMIE e soma com os 10% do Pix e com as promoções do site; não soma com outro cupom. Testado no carrinho.',
+      'O cupom DAMIE CECILIA12 dá 12% OFF em todos os produtos do site, para quem compra pela primeira vez e para quem já é cliente, e soma com os 10% do Pix e com as promoções do site; não soma com outro cupom. Testado no carrinho.',
     metaTitle: 'Cupom DAMIE: 12% OFF com CECILIA12, soma com Pix',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom DAMIE: CECILIA12 dá 12% OFF em todos os produtos, soma com os 10% do Pix e com as promoções; não soma com outro cupom.',
+      'Cupom DAMIE: CECILIA12 dá 12% OFF em todos os produtos para cliente novo ou antigo, soma com os 10% do Pix e com as promoções; não soma com outro cupom.',
     eligibleCategories:
       'Todos os produtos do site DAMIE',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
@@ -268,6 +268,11 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom CECILIA12 vale na primeira compra na DAMIE?',
         answer: 'Sim. O CECILIA12 vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'Qual cupom DAMIE dá 12% para quem já é cliente?',
+        answer:
+          'O CECILIA12. Ele dá 12% em todos os produtos do site para quem compra pela primeira vez e para quem já comprou, sem limite de usos por CPF.',
       },
       {
         question: 'O cupom CECILIA12 tem validade?',
@@ -345,11 +350,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'alimentacao',
     shortDescription: 'cápsulas, máquinas e acessórios da loja oficial',
     longDescription:
-      'O CECI dá 10% OFF na loja oficial Nescafé Dolce Gusto em compras a partir de R$ 100 e soma com as promoções. Testado num carrinho de R$ 111,30, com R$ 11,13 de desconto.',
+      'O cupom Dolce Gusto CECI dá 10% OFF na loja oficial Nescafé Dolce Gusto em compras a partir de R$ 100, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções. Testado num carrinho de R$ 111,30, com R$ 11,13 de desconto.',
     metaTitle: 'Código CECI Dolce Gusto: 10% OFF testado',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Dolce Gusto: CECI dá 10% OFF na loja oficial Nescafé Dolce Gusto em compras a partir de R$ 100 e soma com as promoções.',
+      'Cupom Dolce Gusto: CECI dá 10% OFF na loja oficial em compras a partir de R$ 100, para cliente novo ou antigo, e soma com as promoções.',
     eligibleCategories:
       'Todo o site oficial Dolce Gusto, em compras a partir de R$ 100',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
@@ -377,6 +382,11 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O cupom CECI vale na primeira compra na Dolce Gusto?',
         answer:
           'Sim. O CECI vale na primeira compra no site oficial Nescafé Dolce Gusto e também para quem já comprou na loja, em compras a partir de R$ 100.',
+      },
+      {
+        question: 'Qual cupom Dolce Gusto dá 10% para quem já é cliente?',
+        answer:
+          'O CECI. Ele dá 10% na loja oficial Nescafé Dolce Gusto, em compras a partir de R$ 100, para quem compra pela primeira vez e para quem já comprou, com até 3 usos por campanha.',
       },
       {
         question: 'Existe cupom Dolce Gusto de 20% ou 50%?',
@@ -604,11 +614,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'alimentacao',
     shortDescription: 'produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses',
     longDescription:
-      'O CECI dá 10% OFF na loja oficial Nestlé Nutre e soma com as promoções; não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses. Testado num carrinho de R$ 296,50, com R$ 29,65 de desconto.',
+      'O cupom Nestlé Nutre CECI dá 10% OFF na loja oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções; não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses. Testado num carrinho de R$ 296,50, com R$ 29,65 de desconto.',
     metaTitle: 'Cupom Nestlé Nutre: 10% OFF com CECI',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Nestlé Nutre: CECI dá 10% OFF e soma com as promoções. Não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses.',
+      'Cupom Nestlé Nutre: CECI dá 10% OFF para cliente novo ou antigo e soma com as promoções. Não vale em Alfamino, Alfaré nem fórmulas de 0 a 12 meses.',
     eligibleCategories:
       'Produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses (como NAN)',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
@@ -656,6 +666,11 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O cupom CECI vale na primeira compra na Nestlé Nutre?',
         answer:
           'Sim. O CECI vale na primeira compra e também para quem já comprou na loja, nos produtos elegíveis: fora Alfamino, Alfaré e as fórmulas infantis de 0 a 12 meses.',
+      },
+      {
+        question: 'Qual cupom Nestlé Nutre dá 10% para quem já é cliente?',
+        answer:
+          'O CECI. Ele dá 10% nos produtos elegíveis para quem compra pela primeira vez e para quem já comprou na loja. Ficam de fora Alfamino, Alfaré e as fórmulas infantis de 0 a 12 meses.',
       },
       {
         question: 'O cupom CECI vale no Mercado Livre?',
@@ -726,7 +741,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'casa',
     shortDescription: 'todo o site I Wanna Sleep',
     longDescription:
-      'O CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep (colchões, travesseiros e acessórios) e soma com as promoções da loja. Testado numa máscara de dormir em promoção.',
+      'O cupom I Wanna Sleep CECIEMCASA dá 10% OFF em todo o site (colchões, travesseiros e acessórios) e soma com as promoções da loja. Testado numa máscara de dormir em promoção.',
     metaTitle: 'Cupom I Wanna Sleep: 10% OFF com CECIEMCASA',
     metaTitleMonth: true,
     metaDescription:
@@ -835,7 +850,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'diversos',
     shortDescription: 'produtos vendidos e entregues pelo Magalu na loja Magazine Você da Cecília',
     longDescription:
-      'Códigos exclusivos da parceria da Cecília com o Magalu, em 10 faixas de R$ 10 a R$ 100 OFF conforme o valor do carrinho. Válidos apenas na loja Magazine Você da Cecília, em produtos vendidos e entregues pelo Magalu. Testado no carrinho.',
+      'Códigos exclusivos da parceria da Cecília com o Magalu, em 10 faixas de R$ 10 a R$ 100 OFF conforme o valor do carrinho, na primeira compra ou não. Válidos apenas na loja Magazine Você da Cecília, em produtos vendidos e entregues pelo Magalu. Testado no carrinho.',
     metaTitle: 'Cupom Magalu: até R$ 100 OFF com 100EMCASACOMCECILIA',
     metaDescription:
       'Cupom Magalu: 100EMCASACOMCECILIA dá até R$ 100 OFF na loja Magazine Você da Cecília. Vale só no navegador; veja as 10 faixas.',
@@ -966,11 +981,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'casa',
     shortDescription: "todo o site Let's Eat It",
     longDescription:
-      "O código da Cecília dá 5% OFF no site da Let's Eat It, soma com as promoções, a pré-venda e os 5% do Pix, e vale em todas as formas de pagamento. Testado no carrinho.",
+      'O cupom Let\'s Eat It da Cecília dá 5% OFF no site, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções, a pré-venda e os 5% do Pix, e vale em todas as formas de pagamento. Testado no carrinho.',
     metaTitle: "Cupom Let's Eat It: 5% OFF no site, soma com Pix",
     metaTitleMonth: true,
     metaDescription:
-      "Cupom Let's Eat It: 5% OFF no site oficial, somando com promoções, pré-venda e os 5% do Pix. Use o código da Cecília no checkout.",
+      'Cupom Let\'s Eat It: 5% OFF no site oficial para cliente novo ou antigo, somando com promoções, pré-venda e os 5% do Pix. Use o código da Cecília.',
     eligibleCategories: "Todo o site Let's Eat It, conforme regras da loja",
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1002,6 +1017,11 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: "O cupom MAUAD vale na primeira compra na Let's Eat It?",
         answer: 'Sim. O MAUAD vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'Qual cupom Let\'s Eat It dá 5% para quem já é cliente?',
+        answer:
+          'O MAUAD. Ele dá 5% no site da Let\'s Eat It para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'O cupom MAUAD vale no Mercado Livre?',
@@ -1077,7 +1097,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'moda',
     shortDescription: 'compras online na Insider, exceto lançamentos',
     longDescription:
-      'O cupom EMCASACOMCECILIA dá 15% OFF na loja online da Insider, na primeira compra e nas seguintes, sem valor mínimo: o desconto não diminui para quem já é cliente. Vale também sobre os preços de Black Friday, no Outlet e nos kits em promoção. Não vale em lançamentos nem na loja física, e a loja aceita um cupom por pedido.',
+      'O cupom Insider EMCASACOMCECILIA dá 15% OFF na primeira compra e nas seguintes, sem valor mínimo, nos produtos elegíveis da loja online: o desconto não diminui para quem já é cliente. Vale também sobre os preços de Black Friday, no Outlet e nos kits em promoção. Não vale em lançamentos nem na loja física, e a loja aceita um cupom por pedido.',
     metaTitle: 'Cupom Insider: 15% OFF com EMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
@@ -1383,10 +1403,10 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'suplementos no site oficial da Probiótica',
     longDescription:
-      'O PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial da Probiótica, soma com as promoções e vale em todas as formas de pagamento. Testado num whey em promoção e numa creatina a preço cheio: o desconto varia por item.',
+      'O cupom Probiótica PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções e vale em todas as formas de pagamento. Testado num whey em promoção e numa creatina a preço cheio: o desconto varia por item.',
     metaTitle: 'Cupom Probiótica: até 10% OFF com PRO10EMCASACOMCECILIA',
     metaDescription:
-      'Cupom Probiótica: PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial, soma com as promoções e vale no Pix e no cartão.',
+      'Cupom Probiótica: PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial para cliente novo ou antigo, soma com as promoções e vale no Pix e no cartão.',
     eligibleCategories: 'Produtos do site oficial da Probiótica; o desconto chega a 10% e pode ser menor em alguns itens',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1433,6 +1453,11 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O cupom Probiótica vale na primeira compra?',
         answer:
           'Sim. O PRO10EMCASACOMCECILIA vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'Qual cupom Probiótica vale para quem já é cliente?',
+        answer:
+          'O PRO10EMCASACOMCECILIA. Ele dá até 10% no site oficial para quem compra pela primeira vez e para quem já comprou. O percentual varia por produto.',
       },
       {
         question: 'O PRO10EMCASACOMCECILIA é cupom de influenciadora?',
@@ -1492,10 +1517,10 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'suplementos no site oficial da Max Titanium',
     longDescription:
-      'O MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial da Max Titanium, testado num carrinho com Top Whey em promoção: soma com as promoções, mantém os brindes do carrinho e vale em todas as formas de pagamento.',
+      'O cupom Max Titanium MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, testado num carrinho com Top Whey em promoção: soma com as promoções, mantém os brindes do carrinho e vale em todas as formas de pagamento.',
     metaTitle: 'Cupom Max Titanium: até 10% OFF com MAX10EMCASACOMCECILIA',
     metaDescription:
-      'Cupom Max Titanium: MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial, mantém os brindes do carrinho e vale no Pix e no cartão.',
+      'Cupom Max Titanium: MAX10EMCASACOMCECILIA dá até 10% OFF para cliente novo ou antigo, mantém os brindes do carrinho e vale no Pix e no cartão.',
     eligibleCategories: 'Produtos do site oficial da Max Titanium; o desconto chega a 10% e pode ser menor em alguns itens',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1527,6 +1552,11 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom Max Titanium vale na primeira compra?',
         answer: 'Sim. O MAX10EMCASACOMCECILIA vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'Qual cupom Max Titanium vale para quem já é cliente?',
+        answer:
+          'O MAX10EMCASACOMCECILIA. Ele dá até 10% no site oficial para quem compra pela primeira vez e para quem já comprou. O percentual varia por produto.',
       },
       {
         question: 'O MAX10EMCASACOMCECILIA é cupom de influenciadora?',
@@ -1601,11 +1631,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'todo o site Dr. Peanut, com todas as formas de pagamento',
     longDescription:
-      'O DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut, testado com uma pasta de amendoim em promoção: soma com as promoções e vale em todas as formas de pagamento.',
+      'O cupom Dr. Peanut DREMCASACOMCECILIA dá 10% OFF em todo o site, para quem compra pela primeira vez e para quem já é cliente, testado com uma pasta de amendoim em promoção: soma com as promoções e vale em todas as formas de pagamento.',
     metaTitle: 'Cupom Dr. Peanut: 10% OFF com DREMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Dr. Peanut: DREMCASACOMCECILIA dá 10% OFF em todo o site, inclusive nos itens em promoção, e vale no Pix e no cartão.',
+      'Cupom Dr. Peanut: DREMCASACOMCECILIA dá 10% OFF em todo o site para cliente novo ou antigo, inclusive em promoção, e vale no Pix e no cartão.',
     eligibleCategories: 'Todos os produtos do site oficial da Dr. Peanut',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1631,6 +1661,11 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom DREMCASACOMCECILIA vale na primeira compra na Dr. Peanut?',
         answer: 'Sim. O DREMCASACOMCECILIA vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'Qual cupom Dr. Peanut dá 10% para quem já é cliente?',
+        answer:
+          'O DREMCASACOMCECILIA. Ele dá 10% em todo o site para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'O cupom DREMCASACOMCECILIA vale no Mercado Livre?',
@@ -1695,11 +1730,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'todo o site Black Skull, com todas as formas de pagamento',
     longDescription:
-      'O CECILIA10 dá 10% OFF em todo o site da Black Skull, testado com um kit de whey em promoção: soma com as promoções e vale em todas as formas de pagamento.',
+      'O cupom Black Skull CECILIA10 dá 10% OFF em todo o site, para quem compra pela primeira vez e para quem já é cliente, testado com um kit de whey em promoção: soma com as promoções e vale em todas as formas de pagamento.',
     metaTitle: 'Cupom Black Skull: 10% OFF em tudo com CECILIA10',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Black Skull: CECILIA10 dá 10% OFF em todo o site, inclusive nos itens em promoção, e vale no Pix e no cartão.',
+      'Cupom Black Skull: CECILIA10 dá 10% OFF em todo o site para cliente novo ou antigo, inclusive em promoção, e vale no Pix e no cartão.',
     eligibleCategories: 'Todos os produtos do site oficial da Black Skull',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1724,6 +1759,11 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom CECILIA10 vale na primeira compra na Black Skull?',
         answer: 'Sim. O CECILIA10 vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'Qual cupom Black Skull dá 10% para quem já é cliente?',
+        answer:
+          'O CECILIA10. Ele dá 10% em todo o site para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'O cupom CECILIA10 vale no Mercado Livre?',
@@ -1858,11 +1898,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'moda',
     shortDescription: 'todo o site Cléa Store, com todas as formas de pagamento',
     longDescription:
-      'O CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store (alfaiataria, blusas, vestidos e t-shirts), testado num kit em promoção: o desconto soma com a promoção.',
+      'O cupom Cléa Store CSEMCASACOMCECILIA dá 10% OFF em todo o site (alfaiataria, blusas, vestidos e t-shirts), para quem compra pela primeira vez e para quem já é cliente, testado num kit em promoção: o desconto soma com a promoção.',
     metaTitle: 'Cupom Cléa Store: 10% OFF com CSEMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Cléa Store: CSEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as promoções e o cashback e vale no Pix e no cartão.',
+      'Cupom Cléa Store: CSEMCASACOMCECILIA dá 10% OFF em todo o site para cliente novo ou antigo, soma com promoções e cashback e vale no Pix e no cartão.',
     eligibleCategories: 'Todos os produtos do site oficial da Cléa Store',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1888,6 +1928,11 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom CSEMCASACOMCECILIA vale na primeira compra na Cléa Store?',
         answer: 'Sim. O CSEMCASACOMCECILIA vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'Qual cupom Cléa Store dá 10% para quem já é cliente?',
+        answer:
+          'O CSEMCASACOMCECILIA. Ele dá 10% em todo o site para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'O cupom CSEMCASACOMCECILIA vale no Mercado Livre?',
@@ -1957,11 +2002,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'alimentacao',
     shortDescription: 'todo o site Belive, com todas as formas de pagamento',
     longDescription:
-      'O código da Cecília dá 10% OFF em todo o site da Belive e soma com as ofertas e com os 5% do Pix. Testado num combo de pão de batata em oferta.',
+      'O cupom Belive MAUAD dá 10% OFF em todo o site, para quem compra pela primeira vez e para quem já é cliente, e soma com as ofertas e com os 5% do Pix. Testado num combo de pão de batata em oferta.',
     metaTitle: 'Cupom Belive: 10% OFF em tudo e soma com o Pix',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Belive: use MAUAD e ganhe 10% OFF em todo o site, somando com as ofertas e com os 5% de desconto do Pix.',
+      'Cupom Belive: use MAUAD e ganhe 10% OFF em todo o site, cliente novo ou antigo, somando com as ofertas e com os 5% de desconto do Pix.',
     eligibleCategories: 'Todos os produtos do site oficial da Belive',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2004,6 +2049,11 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom MAUAD vale na primeira compra na Belive?',
         answer: 'Sim. O MAUAD vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'Qual cupom Belive dá 10% para quem já é cliente?',
+        answer:
+          'O MAUAD. Ele dá 10% em todo o site da Belive para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'O cupom MAUAD vale no Mercado Livre?',
@@ -2067,11 +2117,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'todo o site Mais Mu, com todas as formas de pagamento',
     longDescription:
-      'O MMEMCASACOMCECILIA dá 10% OFF em todo o site da Mais Mu, soma com as ofertas e com os 3% do Pix, e vale em todas as formas de pagamento. Testado num carrinho com wheys e creatina em promoção.',
+      'O cupom Mais Mu MMEMCASACOMCECILIA dá 10% OFF em todo o site, para quem compra pela primeira vez e para quem já é cliente, soma com as ofertas e com os 3% do Pix, e vale em todas as formas de pagamento. Testado num carrinho com wheys e creatina em promoção.',
     metaTitle: 'Cupom Mais Mu: 10% OFF com MMEMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Mais Mu: MMEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as ofertas e com os 3% do Pix.',
+      'Cupom Mais Mu: MMEMCASACOMCECILIA dá 10% OFF em todo o site para cliente novo ou antigo, soma com as ofertas e com os 3% do Pix.',
     eligibleCategories: 'Todos os produtos do site oficial da Mais Mu',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2120,6 +2170,11 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O cupom Mais Mu vale na primeira compra? É melhor que o de boas-vindas?',
         answer:
           'Vale, e o desconto é o mesmo: quem assina a newsletter da Mais Mu ganha 10% na primeira compra, o mesmo do MMEMCASACOMCECILIA. Como a loja não acumula cupons, os dois não somam. A diferença é que o MMEMCASACOMCECILIA não pede cadastro e vale também para quem já comprou.',
+      },
+      {
+        question: 'Qual cupom Mais Mu dá 10% para quem já é cliente?',
+        answer:
+          'O MMEMCASACOMCECILIA. Ele dá 10% em todo o site para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'O MMEMCASACOMCECILIA é cupom de influenciadora?',
@@ -2188,7 +2243,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'beleza',
     shortDescription: 'todo o site Skelt, com todas as formas de pagamento',
     longDescription:
-      'O SKEMCASACOMCECILIA dá 10% OFF em todo o site da Skelt, soma com as promoções e com os 5% do Pix, e vale em todas as formas de pagamento. Testado num kit de body splashes em promoção.',
+      'O cupom Skelt SKEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as promoções e com os 5% do Pix, e vale em todas as formas de pagamento. Testado num kit de body splashes em promoção.',
     metaTitle: 'Cupom Skelt: 10% OFF com SKEMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
@@ -2309,11 +2364,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'moda',
     shortDescription: 'todo o site Bagaggio, com todas as formas de pagamento',
     longDescription:
-      'O CECILIA10 dá 10% OFF em malas, mochilas e acessórios no site oficial da Bagaggio, soma com as promoções, o Outlet e os 5% do Pix, e vale em todas as formas de pagamento. Testado numa mala de bordo do Outlet.',
+      'O cupom Bagaggio CECILIA10 dá 10% OFF em malas, mochilas e acessórios no site oficial, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções, o Outlet e os 5% do Pix, e vale em todas as formas de pagamento. Testado numa mala de bordo do Outlet.',
     metaTitle: 'Cupom Bagaggio: 10% OFF em tudo com CECILIA10',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Bagaggio: CECILIA10 dá 10% OFF em malas, mochilas e acessórios, somando com as promoções, o Outlet e os 5% do Pix.',
+      'Cupom Bagaggio: CECILIA10 dá 10% OFF em malas e mochilas para cliente novo ou antigo, somando com as promoções, o Outlet e os 5% do Pix.',
     eligibleCategories: 'Todos os produtos do site oficial da Bagaggio, inclusive os do Outlet',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2357,6 +2412,11 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O cupom Bagaggio vale na primeira compra? É melhor que o de boas-vindas?',
         answer:
           'Vale, e rende mais: o desconto de primeira compra da própria Bagaggio é de 5%, e o CECILIA10 dá 10% OFF, também para quem já comprou na loja. Como a Bagaggio não acumula cupons no mesmo pedido, os dois não somam: na primeira compra, fique com o CECILIA10.',
+      },
+      {
+        question: 'Qual cupom Bagaggio dá 10% para quem já é cliente?',
+        answer:
+          'O CECILIA10. Ele dá 10% no site oficial para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'O CECILIA10 é cupom de influenciadora?',
@@ -2431,7 +2491,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'moda',
     shortDescription: 'todo o site Toda Up, inclusive nos produtos em promoção',
     longDescription:
-      'O MAUAD dá 15% OFF em sutiãs, tops, calcinhas e adesivos no site oficial da Toda Up e soma com as promoções do site, inclusive nos produtos que já estão com desconto. Testado num sutiã em promoção.',
+      'O cupom Toda Up MAUAD dá 15% OFF em sutiãs, tops, calcinhas e adesivos no site oficial e soma com as promoções do site, inclusive nos produtos que já estão com desconto. Testado num sutiã em promoção.',
     metaTitle: 'Cupom Toda Up: 15% OFF em tudo com MAUAD',
     metaTitleMonth: true,
     metaDescription:
@@ -2530,7 +2590,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'beleza',
     shortDescription: 'todo o site Simple Organic, inclusive nos produtos em promoção e nos kits',
     longDescription:
-      'O S-EMCASACOMCECILIA dá 5% OFF em séruns, hidratantes, limpeza facial, maquiagem e body splash no site oficial da Simple Organic e entra também nos produtos que já estão em promoção e nos kits. Testado num carrinho com kit, produto em promoção e produto a preço cheio.',
+      'O cupom Simple Organic S-EMCASACOMCECILIA dá 5% OFF em séruns, hidratantes, limpeza facial, maquiagem e body splash no site oficial e entra também nos produtos que já estão em promoção e nos kits. Testado num carrinho com kit, produto em promoção e produto a preço cheio.',
     metaTitle: 'Cupom Simple Organic: 5% OFF em tudo com S-EMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
@@ -2622,11 +2682,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'alimentacao',
     shortDescription: 'todo o site HolyFoods, inclusive nos produtos em promoção',
     longDescription:
-      'O código da Cecília dá 15% OFF em todo o site da HolyFoods e soma com os preços já reduzidos da loja. Testado num carrinho de sopas que já estavam em promoção.',
+      'O cupom HolyFoods EMCASA dá 15% OFF em todo o site, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços já reduzidos da loja. Testado num carrinho de sopas que já estavam em promoção.',
     metaTitle: 'Cupom HolyFoods: 15% OFF com o código EMCASA',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom HolyFoods: use EMCASA e ganhe 15% OFF em sopas, macarrões, risotos e kits, somando com os produtos já em promoção.',
+      'Cupom HolyFoods: use EMCASA e ganhe 15% OFF em sopas, macarrões, risotos e kits, cliente novo ou antigo, somando com os produtos em promoção.',
     eligibleCategories: 'Todos os produtos do site oficial da HolyFoods, avulsos e kits',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2668,6 +2728,11 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom EMCASA vale na primeira compra?',
         answer: 'Sim. O EMCASA vale na primeira compra e também para quem já comprou na HolyFoods.',
+      },
+      {
+        question: 'Qual cupom HolyFoods dá 15% para quem já é cliente?',
+        answer:
+          'O EMCASA. Ele dá 15% em todo o site da HolyFoods para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'O cupom EMCASA vale no Mercado Livre?',
@@ -2729,7 +2794,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'diversos',
     shortDescription: 'compras no site e no app da Petz',
     longDescription:
-      'O código da Cecília dá 10% OFF nas compras no site e no app da Petz e soma com os 5% do Retire na Loja: 14,5% no total, em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste. Num produto que já está em oferta, o cupom não soma: a sacola fica com o desconto maior. Testado no carrinho.',
+      'O cupom Petz EMCASA dá 10% OFF nas compras no site e no app, para quem compra pela primeira vez e para quem já é cliente, e soma com os 5% do Retire na Loja: 14,5% no total, em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste. Num produto que já está em oferta, o cupom não soma: a sacola fica com o desconto maior. Testado no carrinho.',
     metaTitle: 'Cupom Petz: 10% OFF com EMCASA + 5% na retirada',
     metaTitleMonth: true,
     metaDescription:
@@ -2838,7 +2903,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'diversos',
     shortDescription: 'todos os planos da Hostinger, mensais ou anuais, para clientes novos e antigos',
     longDescription:
-      'O SONAR20 dá 20% OFF em todos os planos da Hostinger, mensais ou anuais, para quem está chegando e para quem já é cliente. Cole o código no campo de cupom do carrinho. Testado no plano Startup, sobre o preço de Black Friday. O Em Casa com Cecília roda na Hostinger desde 2024.',
+      'O cupom Hostinger SONAR20 dá 20% OFF em todos os planos, mensais ou anuais, para quem está chegando e para quem já é cliente. Cole o código no campo de cupom do carrinho. Testado no plano Startup, sobre o preço de Black Friday. O Em Casa com Cecília roda na Hostinger desde 2024.',
     metaTitle: 'Cupom Hostinger: 20% OFF em tudo com SONAR20',
     metaTitleMonth: true,
     metaDescription:
