@@ -105714,6 +105714,196 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/presentes/amigo-secreto-dr-peanut-kit-wafers.webp",
+      "local_url": "/images/reviews/presentes/amigo-secreto-dr-peanut-kit-wafers.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 114266,
+      "sha256": "ab1dc39e166fef4b2162d4b0ea71375e76f75ce844f5485cc5fef56087ecfa9d",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amigo-secreto-dr-peanut-kit-wafers.webp",
+      "storage_filename": "amigo-secreto-dr-peanut-kit-wafers.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-amigo-secreto-masculino.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-amigo-secreto-masculino.json",
+          "line": 268,
+          "column": 17,
+          "literal": "/images/reviews/presentes/amigo-secreto-dr-peanut-kit-wafers.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ab1dc39e166fef4b2162d4b0ea71375e76f75ce844f5485cc5fef56087ecfa9d/amigo-secreto-dr-peanut-kit-wafers.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ab1dc39e166fef4b2162d4b0ea71375e76f75ce844f5485cc5fef56087ecfa9d/amigo-secreto-dr-peanut-kit-wafers.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T00:55:18.809Z",
+      "verification_etag_or_digest": "ab1dc39e166fef4b2162d4b0ea71375e76f75ce844f5485cc5fef56087ecfa9d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/presentes/amigo-secreto-insider-tech-t-shirt.webp",
+      "local_url": "/images/reviews/presentes/amigo-secreto-insider-tech-t-shirt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23786,
+      "sha256": "93d01dd255cc5efea74615b767efa9f70ba1b5369ff9296f41ef6fed02f4479e",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amigo-secreto-insider-tech-t-shirt.webp",
+      "storage_filename": "amigo-secreto-insider-tech-t-shirt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-amigo-secreto-masculino.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-amigo-secreto-masculino.json",
+          "line": 221,
+          "column": 17,
+          "literal": "/images/reviews/presentes/amigo-secreto-insider-tech-t-shirt.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/93d01dd255cc5efea74615b767efa9f70ba1b5369ff9296f41ef6fed02f4479e/amigo-secreto-insider-tech-t-shirt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/93d01dd255cc5efea74615b767efa9f70ba1b5369ff9296f41ef6fed02f4479e/amigo-secreto-insider-tech-t-shirt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T00:55:18.810Z",
+      "verification_etag_or_digest": "93d01dd255cc5efea74615b767efa9f70ba1b5369ff9296f41ef6fed02f4479e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/presentes/amigo-secreto-letseatit-kit-churrasco-prana.webp",
+      "local_url": "/images/reviews/presentes/amigo-secreto-letseatit-kit-churrasco-prana.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20338,
+      "sha256": "56493881d22530120e069bdf9f3103c548c9c4351a20749087f52d7ac11b72e4",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amigo-secreto-letseatit-kit-churrasco-prana.webp",
+      "storage_filename": "amigo-secreto-letseatit-kit-churrasco-prana.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-amigo-secreto-masculino.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-amigo-secreto-masculino.json",
+          "line": 291,
+          "column": 17,
+          "literal": "/images/reviews/presentes/amigo-secreto-letseatit-kit-churrasco-prana.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/56493881d22530120e069bdf9f3103c548c9c4351a20749087f52d7ac11b72e4/amigo-secreto-letseatit-kit-churrasco-prana.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/56493881d22530120e069bdf9f3103c548c9c4351a20749087f52d7ac11b72e4/amigo-secreto-letseatit-kit-churrasco-prana.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T00:55:18.810Z",
+      "verification_etag_or_digest": "56493881d22530120e069bdf9f3103c548c9c4351a20749087f52d7ac11b72e4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/presentes/amigo-secreto-max-coqueteleira-tritan.webp",
+      "local_url": "/images/reviews/presentes/amigo-secreto-max-coqueteleira-tritan.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16472,
+      "sha256": "ade4bd06570f2bf866be48bdca6ede8a8e9602e6c998064ef408d79b5bdbab9d",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amigo-secreto-max-coqueteleira-tritan.webp",
+      "storage_filename": "amigo-secreto-max-coqueteleira-tritan.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-amigo-secreto-masculino.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-amigo-secreto-masculino.json",
+          "line": 198,
+          "column": 17,
+          "literal": "/images/reviews/presentes/amigo-secreto-max-coqueteleira-tritan.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ade4bd06570f2bf866be48bdca6ede8a8e9602e6c998064ef408d79b5bdbab9d/amigo-secreto-max-coqueteleira-tritan.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ade4bd06570f2bf866be48bdca6ede8a8e9602e6c998064ef408d79b5bdbab9d/amigo-secreto-max-coqueteleira-tritan.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T00:55:18.810Z",
+      "verification_etag_or_digest": "ade4bd06570f2bf866be48bdca6ede8a8e9602e6c998064ef408d79b5bdbab9d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/presentes/presente-amigo-secreto-masculino-capa.webp",
+      "local_url": "/images/reviews/presentes/presente-amigo-secreto-masculino-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38782,
+      "sha256": "4f182a9c5617b34a2bfcc9691d1888ebc7ac2ed91e0c2cb44a29cb6e79397f1b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-amigo-secreto-masculino-capa.webp",
+      "storage_filename": "presente-amigo-secreto-masculino-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-amigo-secreto-masculino.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-amigo-secreto-masculino.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/presentes/presente-amigo-secreto-masculino-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4f182a9c5617b34a2bfcc9691d1888ebc7ac2ed91e0c2cb44a29cb6e79397f1b/presente-amigo-secreto-masculino-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4f182a9c5617b34a2bfcc9691d1888ebc7ac2ed91e0c2cb44a29cb6e79397f1b/presente-amigo-secreto-masculino-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T00:55:18.810Z",
+      "verification_etag_or_digest": "4f182a9c5617b34a2bfcc9691d1888ebc7ac2ed91e0c2cb44a29cb6e79397f1b",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/presentes/presente-natal-quem-treina-camiseta-feminina-max.webp",
       "local_url": "/images/reviews/presentes/presente-natal-quem-treina-camiseta-feminina-max.webp",
       "media_kind": "image",
