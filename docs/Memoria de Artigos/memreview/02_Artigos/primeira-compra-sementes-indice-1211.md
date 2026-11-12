@@ -9,6 +9,33 @@ e do "como usar" de cada loja, mais leitura pública do site e de três a cinco 
 "recuperado pelo WebFetch" é resumo de modelo pequeno. O que decide o artigo foi relido no navegador do app, sem
 login e sem informar e-mail, e está na coluna "Conferido no navegador".
 
+## Decisões do Bruno (12/11/2026, depois da pesquisa)
+
+Valem sobre o molde e sobre o que as fichas propõem nas seções 5 e 7.
+
+- **Sem cupom da loja no artigo.** O artigo de primeira compra não cita nem compara o cupom, o pop-up, a newsletter
+  ou a raspadinha da própria loja: nem o código, nem o percentual. Bruno: citar cupom alheio, mesmo o da loja, é
+  concorrência desleal com o nosso. Vale para as sete lojas que publicam benefício próprio (Insider, Bagaggio, Mais
+  Mu, Skelt, Toda Up, Black Skull e Nestlé Nutre). O que a pesquisa leu fica nas fichas como contexto interno.
+- **O artigo responde com o nosso código:** qual é, quanto dá, onde vale, o que o primeiro pedido exige e que ele
+  segue valendo nas compras seguintes. Sem tabela de escolha entre benefícios.
+- **Cliente antigo:** o código vale para quem já comprou na Skelt, na I Wanna Sleep, na Toda Up e na Simple Organic.
+  A onda 3 deixa de esperar: os quatro artigos saem com o capítulo das compras seguintes.
+- **Bagaggio:** sem falar do cupom do site nem do app. Pode dizer que o CECILIA10 é um dos melhores cupons para a
+  primeira compra, no site ou no app. A frase é só da Bagaggio.
+- **Magalu:** artigo curto. **Lejour:** fora da série.
+- **Hostinger, YesStyle e SHEIN:** artigo separado, na próxima fase, depois das lojas de código comum.
+- **Simple Organic:** o código entra em tudo, porque funcionou nos testes; a política da loja não muda o texto.
+- **Dr. Peanut:** o mínimo do frete grátis conta antes do cupom.
+- **Let's Eat It:** cashback de 15%, como a home anuncia; o texto com 30% é atualizado.
+- **Nestlé Nutre e Bagaggio:** as páginas de loja não precisam comparar com o cupom de primeira compra da loja.
+- **Cléa Store:** em aberto. O Bruno perguntou como o código "vale de novo" se o voucher é consumido na compra; a
+  frase sobre as compras seguintes da Cléa espera a resposta dele.
+
+**Efeito no ganho de informação:** sem a comparação, o que o artigo tem de próprio é a resposta direta à busca com
+um código testado, a regra do primeiro pedido (mínimo, frete por região, Pix, produtos fora) e a frase "vale também
+para quem já comprou". O briefing de cada loja escreve a frase de ganho de informação com esses três pontos.
+
 ## Buscas reais (Search Console, exports salvos)
 
 Só as 1.000 consultas mais vistas do site entram no export; ausência não é falta de demanda.
@@ -53,25 +80,29 @@ O relatório de IA do Bing (07/11) não traz pergunta de primeira compra. O auto
 
 "Não encontrado" quer dizer que as páginas lidas não mostram; não prova que a loja não tem.
 
-## O que a pesquisa mudou no molde
+## O que a pesquisa mudou no molde (lido antes das decisões acima)
 
 - **Categoria:** `cupons-como-usar`, a mesma dos "como usar" no ar, e não `guias-praticos-utilidade`.
-- **Sete lojas têm comparação real** com um benefício de primeira compra da própria loja: Insider, Bagaggio, Mais Mu,
-  Skelt, Toda Up, Black Skull e Nestlé Nutre. Nelas o capítulo 3 do molde é uma tabela de escolha.
-- **Nas outras, o capítulo 3 vira "A <Loja> tem cupom de primeira compra?"**, com a resposta direta e o que foi lido.
-  O ganho de informação de cada uma está na ficha (frete por região, Pix, assinatura, giftback).
-- **Bagaggio:** o app dá 10% na primeira compra, o mesmo percentual do CECILIA10. A frase "o nosso rende mais" só
-  vale contra os 5% do site.
+- **Sete lojas publicam benefício próprio de primeira compra:** Insider, Bagaggio, Mais Mu, Skelt, Toda Up, Black
+  Skull e Nestlé Nutre. Pela decisão do Bruno, o artigo não cita nem compara esse benefício.
+- **O capítulo 3 do molde saiu.** O que diferencia cada artigo está na ficha: frete por região, Pix, assinatura,
+  giftback, produtos fora.
+- **Bagaggio:** o app dá 10% na primeira compra, o mesmo percentual do CECILIA10. O artigo não diz "o nosso rende
+  mais"; diz "um dos melhores para a primeira compra, no site ou no app".
 - **Black Skull e Toda Up** saem da leitura "boas-vindas a ler": as duas publicam o benefício no site.
 
-## Ordem sugerida para os briefings
+## Ordem dos briefings
 
 1. **DAMIE:** é a única com busca medida na primeira página (84 impressões, posição 4,3) e sem artigo.
 2. **Skelt, Probiótica e Insider:** as outras três com busca medida.
-3. **Bagaggio, Mais Mu, Black Skull, Toda Up e Nestlé Nutre:** têm a comparação pronta e conferida.
-4. As demais, em lotes de quatro ou cinco, conforme as pendências fecharem.
+3. **Bagaggio, Mais Mu, Black Skull, Toda Up e Nestlé Nutre.**
+4. **Dolce Gusto, Max Titanium, Dr. Peanut, Belive, HolyFoods, Petz, Let's Eat It, I Wanna Sleep e Simple Organic,**
+   em lotes de quatro ou cinco.
+5. **Cléa Store:** depois da resposta do Bruno sobre as compras seguintes.
+6. **Magalu:** artigo curto.
+7. **Próxima fase:** Hostinger, YesStyle e SHEIN. **Fora:** Lejour.
 
-## Perguntas para o Bruno
+## Perguntas para o Bruno (respondidas em 12/11; ver as decisões no topo)
 
 1. **Insider:** o artigo pode citar os 15% do pop-up da loja? (pergunta 1 do molde)
 2. **Cliente antigo:** o código vale para quem já comprou na Skelt, na I Wanna Sleep, na Toda Up e na Simple Organic?

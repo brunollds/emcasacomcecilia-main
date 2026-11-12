@@ -53,7 +53,8 @@ promoção progressiva (−R$ 43,28) e mais 10% do MAUAD (−R$ 31,75): R$ 285,7
   conforme `docs/CONTRATO-ARTIGO-AFILIADO.md`. Os artigos de onboarding passam primeiro pela pauta
   (Job 1) e depois pela sessão de artigos.
 - MAUAD é o sobrenome da Cecília: não explicar o nome do código nem destacá-lo.
-- Nunca citar o cupom de primeira compra nem outro código da loja.
+- Nunca citar o cupom de primeira compra nem outro código da loja (reafirmado pelo Bruno em 12/11, também para o
+  artigo de primeira compra).
 - Ainda sem link da marca no Mercado Livre.
 
 ---
