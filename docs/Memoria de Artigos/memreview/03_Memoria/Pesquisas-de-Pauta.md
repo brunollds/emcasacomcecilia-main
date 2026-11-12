@@ -8,6 +8,23 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## Prohall: pacote inicial (12/11/2026)
+
+- **Pedido do Bruno:** parceira nova, com a página `/cupons/prohall` no ar. Pacote inicial: como usar, Reclame Aqui, é confiável, primeira compra, é boa (ou vale a pena) e Black Friday. O que mais aparecer fica para depois.
+- **Search Console:** sem dado; a página entrou no ar no dia da pesquisa.
+- **Autocompletar (Google, pt-BR, 12/11):**
+  - Todas as pautas do pacote têm sugestão: "cupom prohall", "prohall cupom de desconto", "cupom prohall primeira compra", "cupom app prohall", "prohall reclame aqui", "prohall é confiável", "site prohall é confiavel", "prohall é boa", "prohall vale a pena" e "prohall black friday".
+  - "É boa" é o grupo mais largo (dez sugestões, por marca, linha e produto: progressiva, selagem, máscara, escova, tinta). "Vale a pena" tem uma. Por isso um artigo só, com "é boa" no título.
+  - "Reclame aqui" desce a produto: progressiva, botox, Select One e Burix One.
+  - "Prohall ou" traz dez marcas: Borabella, Fashion Gold, Let Me Be, Não Chore Mais, Forever Liss, MyPhios, Mutari, Fioterapia, Cadiveu e Felps.
+  - Dúvidas de produto: "tem formol", "tem ácido glioxílico", "é progressiva ou selagem", "é compatível com outras químicas", "é profissional", "é brasileira", e "como usar" para progressiva, botox, BTX, selagem, ampola, Biomask, queratina e tônico.
+- **Reclame Aqui (perfil "Prohall Professional", 6 meses até 31/10/2026):** reputação Boa, nota 7,2; 127 reclamações, 100% respondidas, 73,7% resolvidas, 56,1% voltariam a fazer negócio. Mesmo CNPJ do rodapé da loja. A busca do Reclame Aqui mistura empresas de nome parecido, de outro ramo. Abas de 12 meses e anos anteriores: sem leitura.
+- **Loja (12/11):** Black Friday já na home ("até 80%", ofertas relâmpago e live); troca em 30 dias e desistência em 7, com lacre intacto, pedido inteiro e postagem por conta do cliente. Apareceram e não foram lidos: preço "Clube", Moedas PH, compra pelo app, Pix.
+- **Conteúdo nosso:** nenhum artigo da Prohall e nenhum de cabelo em `content/reviews`. Não há experiência própria registrada.
+- **Conclusão:** seis pautas com GO (PH1 a PH6) e oito de estoque, na [[Fila-de-Pautas]]. Fatos, fontes, slugs e regras em [[prohall-fatos-1211]]. Cuidados: sempre "até 10%" (7% nos testes); produto de uso profissional só pelo rótulo; queixas de saúde do Reclame Aqui sem causa afirmada; nenhum cupom, cashback ou clube da loja como alternativa ao nosso código.
+
+---
+
 ## Insider: pautas laterais (11/11/2026)
 
 - **Pedido do Bruno:** as vendas do EMCASACOMCECILIA caíram de ~6,3 para ~2,9 por dia em novembro, e "cupom insider" é dominado pelos agregadores. A saída é buscar pautas laterais, pouco exploradas.
