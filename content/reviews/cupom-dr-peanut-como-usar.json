@@ -40,7 +40,7 @@
     {
       "heading": "Resposta rápida: como usar o cupom da Dr. Peanut",
       "paragraphs": [
-        "O [cupom Dr. Peanut](/cupons/dr-peanut) é DREMCASACOMCECILIA: dá 10% no site e soma com as promoções. No carrinho, digite o código no campo “Código”, clique em “Adicionar” e confira a linha “Descontos” antes de pagar. O mínimo do frete grátis varia por região e é calculado antes do cupom."
+        "O [cupom Dr. Peanut](/cupons/dr-peanut) é DREMCASACOMCECILIA: dá 10% no site e soma com as promoções. No carrinho, digite o código no campo “Código”, clique em “Adicionar” e confira a linha “Descontos” antes de pagar. O mínimo do frete grátis varia por região e conta depois do cupom."
       ]
     },
     {
@@ -97,7 +97,7 @@
       "bullets": [
         "**O código ao lado de \"Cupom de desconto\":** deve estar escrito DREMCASACOMCECILIA, sem letra faltando.",
         "**A linha \"Descontos\":** é ela que mostra o valor abatido. Se não aparecer, o desconto não foi aplicado.",
-        "**O Total:** é o valor que você paga. O frete grátis não depende dele, porque a loja confere o mínimo antes do desconto."
+        "**O Total:** é o valor que você paga. O mínimo do frete grátis conta depois do desconto: perto dele, confira se o frete continua grátis."
       ],
       "image": "/images/reviews/dr-peanut/dr-peanut-cupom-03-desconto-aplicado.webp",
       "imageAlt": "Resumo do carrinho da Dr. Peanut depois do cupom: código DREMCASACOMCECILIA aceito, Subtotal de R$ 440,16, Descontos de R$ 44,02 e Total de R$ 396,14",
@@ -134,8 +134,8 @@
         ]
       },
       "postParagraphs": [
-        "O frete grátis vale na opção de entrega mais barata. O mínimo é conferido sobre o valor da compra **antes do cupom**. Testamos em novembro: um carrinho de R$ 163,45 liberou o frete grátis, e ele seguiu grátis com o total em R$ 147,10 depois dos 10%.",
-        "Exemplo (conta ilustrativa, não é do nosso teste): um carrinho de R$ 155,00 passa de R$ 149,90 e segue com frete grátis em São Paulo capital, no Sudeste e no Sul, mesmo com os 10% do cupom levando o total a R$ 139,50.",
+        "O frete grátis vale na opção de entrega mais barata. O mínimo conta o valor da compra **depois do cupom**. No teste mais recente, de novembro, com entrega em São Paulo, um carrinho de R$ 155,34 tinha frete grátis; com o cupom, os produtos caíram para R$ 139,80 e a loja cobrou R$ 12,23 de frete.",
+        "Perto do mínimo, compare o total com e sem o código: nesse carrinho, a economia final com o cupom foi de R$ 3,31.",
         "Depois de aplicar o cupom, confira o Total antes de pagar."
       ]
     },
@@ -172,7 +172,7 @@
         "Tem cupom de primeira compra na Dr. Peanut? Sim: o DREMCASACOMCECILIA vale na primeira compra e nas seguintes, tanto para quem cria a conta agora quanto para quem já comprou.",
         "O cupom da Dr. Peanut vale em produto em promoção? Sim. No nosso teste, o cupom tirou 10% do subtotal, que já incluía uma pasta de amendoim em promoção.",
         "O cupom vale em todas as formas de pagamento? Sim. O DREMCASACOMCECILIA vale em todas as formas de pagamento da loja e soma com as promoções do site.",
-        "O cupom da Dr. Peanut dá frete grátis? Não por si só: o cupom dá 10% de desconto, e o frete grátis é uma regra à parte da loja. Começa em R$ 149,90 em São Paulo capital, Sudeste e Sul e em R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o valor antes do cupom.",
+        "O cupom da Dr. Peanut dá frete grátis? Não por si só: o cupom dá 10% de desconto, e o frete grátis é uma regra à parte da loja. Começa em R$ 149,90 em São Paulo capital, Sudeste e Sul e em R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o valor depois do cupom.",
         "Tem cupom para pasta de amendoim Dr. Peanut? Sim. O DREMCASACOMCECILIA vale em todo o site, então vale nas pastas de amendoim, inclusive nas que estão em promoção. As condições atuais ficam na [página do cupom da Dr. Peanut](/cupons/dr-peanut).",
         "Onde o cupom vale? No site oficial da Dr. Peanut, o drpeanut.com.br, onde o código é digitado no carrinho."
       ]

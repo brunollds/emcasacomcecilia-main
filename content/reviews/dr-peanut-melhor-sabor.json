@@ -436,7 +436,7 @@
       "heading": "Preço e cupom da Dr. Peanut",
       "paragraphs": [
         "O cupom **DREMCASACOMCECILIA** dá 10% de desconto em todo o site da Dr. Peanut. Vale em todas as formas de pagamento e soma com as promoções do site. Os 10% valem num combo de três pastas que já estava em promoção: de R$ 68,35, o total caiu para R$ 61,51. Nas condições de pagamento da página do produto, o Pix tinha 3% de desconto adicional.",
-        "O frete grátis conta o valor antes do cupom. Pela faixa do site, ele vale no Sul e no Sudeste em compras acima de R$ 149,90 e, nas demais regiões, acima de R$ 199,90. Pelo preço de tabela dos potes, o quadro mostra quais compras chegam ao mínimo:"
+        "O frete grátis conta o valor depois do cupom. Pela faixa do site, ele vale no Sul e no Sudeste em compras acima de R$ 149,90 e, nas demais regiões, acima de R$ 199,90. O quadro mostra quais compras chegam ao mínimo pelo preço de tabela, sem o cupom:"
       ],
       "comparisonTable": {
         "headers": [
@@ -486,10 +486,10 @@
             "Sim"
           ]
         ],
-        "caption": "Frete grátis pelo preço de tabela, antes do cupom e sem desconto adicional de pagamento. O frete depende do CEP: confirme no carrinho."
+        "caption": "Frete grátis pelo preço de tabela, sem o cupom e sem desconto adicional de pagamento. Com o cupom, o total cai 10%: confirme o frete do seu CEP no carrinho."
       },
       "postParagraphs": [
-        "O cupom não tira o frete grátis de quem já passou do mínimo: o Combo Best Sellers passa de R$ 149,90 pelo preço de tabela e segue com frete grátis no Sul e no Sudeste mesmo com os 10%. O combo de cinco potes de 250 g, a R$ 109,12 pelo preço de tabela, não chega ao mínimo. Confira o carrinho antes de pagar.",
+        "Com o cupom, a compra que passa do mínimo por pouco pode perder o frete grátis: os 10% baixam o total, e é ele que conta. O combo de cinco potes de 250 g, a R$ 109,12 pelo preço de tabela, não chega ao mínimo com ou sem o código. Aplique o cupom, informe o CEP e confira o frete antes de pagar.",
         "Escolha o sabor antes de fechar o pedido. Na troca por outro produto, o frete de ida e o de volta ficam por sua conta. O passo a passo do código no carrinho está no [Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site](/reviews/cupom-dr-peanut-como-usar), e o código para copiar fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut). Se você pode esperar novembro, veja o que a loja já anunciou em [Black Friday Dr. Peanut 2026: o que a loja já anunciou, o cupom DREMCASACOMCECILIA e o frete grátis](/reviews/black-friday-dr-peanut)."
       ],
       "links": [
