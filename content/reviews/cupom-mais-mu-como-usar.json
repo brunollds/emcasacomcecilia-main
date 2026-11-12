@@ -17,6 +17,7 @@
   "metaDescription": "Passo a passo para aplicar o MMEMCASACOMCECILIA no checkout da Mais Mu: 10% OFF em todo o site, soma com o Pix e não vale no Mercado Livre.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
+  "updatedAt": "2026-11-12",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/mais-mu/cupom-mais-mu-como-usar-capa-v2.webp",
@@ -100,7 +101,7 @@
     {
       "heading": "O que aconteceu no teste do cupom",
       "paragraphs": [
-        "Em 20/10/2026, testamos o cupom no checkout, sem finalizar a compra e sem dados pessoais. O carrinho tinha um whey de R$ 159,99 e uma creatina em oferta, de R$ 79,90 (antes, R$ 119,00, com 33% de desconto)."
+        "Em 11/11/2026, refizemos o teste no checkout, sem finalizar a compra e sem dados pessoais. O carrinho tinha uma creatina refil de 500 g em oferta, de R$ 74,90 (antes, R$ 119,90), e dois wheys Paçoquita de 450 g, de R$ 135,99 cada (antes, R$ 159,99)."
       ],
       "comparisonTable": {
         "headers": [
@@ -110,20 +111,20 @@
         "rows": [
           [
             "Subtotal antes do cupom",
-            "R$ 239,89"
+            "R$ 346,88"
           ],
           [
             "Desconto do cupom",
-            "- R$ 23,99"
+            "- R$ 34,69"
           ],
           [
             "Total depois do cupom",
-            "R$ 215,90"
+            "R$ 312,19"
           ]
         ]
       },
       "postParagraphs": [
-        "No teste, os 10% entraram também na creatina, que já estava em oferta. Foi um carrinho com dois itens, então ele não mostra todos os casos. Confira a linha do desconto no seu carrinho."
+        "No teste, os 10% entraram sobre os preços de oferta dos três itens. As imagens do passo a passo são do primeiro teste, com outro carrinho. Confira a linha do desconto no seu carrinho."
       ],
       "image": {
         "src": "/images/reviews/mais-mu/mais-mu-cupom-capa.webp",

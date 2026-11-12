@@ -18,7 +18,7 @@
   "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It e soma com o Pix. Black Friday: Porto Brasil até 60% OFF, La Maison até 70% e Le Creuset de 15% a 50%.",
   "publishedAt": "9 de outubro de 2026",
   "publishedAtISO": "2026-10-09",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-12",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/letseatit/black-friday-letseatit-capa-v2.webp",
@@ -61,8 +61,8 @@
         },
         {
           "src": "/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
-          "alt": "Página inicial da Let's Eat It com o banner Natal Let's e as faixas de cashback de 30% e de Porto Brasil com até 60% OFF",
-          "caption": "A página inicial da Let's Eat It com o banner Natal Let's e as faixas de cashback de 30% e de Porto Brasil com até 60% OFF.",
+          "alt": "Página inicial da Let's Eat It com o banner Natal Let's e a faixa da Porto Brasil com até 60% OFF",
+          "caption": "A página inicial da Let's Eat It com o banner Natal Let's e a faixa da Porto Brasil com até 60% OFF.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }

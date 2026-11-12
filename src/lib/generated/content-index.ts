@@ -53444,7 +53444,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O EMCASACOMCECILIA dá 15% OFF sem valor mínimo na Insider Store, testado no checkout. Veja como aplicar, onde vale (Outlet e kits) e as exceções.",
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-12",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/insider/cupom-emcasacomcecilia-insider-store-como-usar-capa-v2.webp",
@@ -53551,12 +53551,11 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Frete grátis, primeira compra e outros cupons",
+        "heading": "Frete grátis e primeira compra",
         "paragraphs": [
           "O cupom dá desconto nos produtos, não no frete. Pela política de frete da Insider, a entrega é grátis em compras **acima de R$ 399**, e esse valor é conferido **depois** do desconto do cupom. Se o desconto deixar o pedido abaixo de R$ 399, o frete passa a ser cobrado: um carrinho de R$ 450, por exemplo, cai para R$ 382,50 com os 15% e fica sem frete grátis. O carrinho mostra quanto falta para o frete grátis, então vale olhar esse aviso antes de finalizar.",
-          "Quem procura **cupom Insider para primeira compra** pode usar o EMCASACOMCECILIA normalmente: ele não exige cadastro anterior nem conta na loja, e funcionou no nosso teste sem login. A Insider também oferece um **cupom de boas-vindas** para a primeira compra online: o código chega depois que você cadastra o e-mail no pop-up do site. Se o pop-up não aparecer, a central de ajuda manda conferir o bloqueador do navegador ou abrir o site numa aba anônima.",
-          "Há ainda o programa de indicação, o Member Get Member: a cada compra, o cliente recebe um cupom de R$ 150 para passar a alguém que nunca comprou na loja. Esse cupom vale em compras acima de R$ 399.",
-          "Como a loja aceita só um cupom por pedido, nenhum deles se soma ao outro. Se você tiver mais de um, a conta é simples: aplique um, veja o total, troque pelo outro e fique com o que deixar o pedido mais barato. Lembre que o cupom de indicação só entra em pedidos acima de R$ 399, e que o cupom de boas-vindas vale apenas na primeira compra."
+          "Quem procura **cupom Insider para primeira compra** pode usar o EMCASACOMCECILIA normalmente: ele vale na primeira compra e para quem já comprou, não exige cadastro anterior nem conta na loja, e funcionou no nosso teste sem login.",
+          "A loja aceita só um cupom por pedido."
         ]
       },
       {
@@ -53631,7 +53630,7 @@ export const reviewsData: unknown[] = [
         "heading": "Vale a pena usar o cupom?",
         "paragraphs": [
           "Para quem já decidiu comprar na Insider, sim. O EMCASACOMCECILIA dá 15% OFF e entra em quase todo o catálogo online, inclusive no Outlet e em kits que já têm preço promocional, não exige valor mínimo e mostra o desconto item por item antes do pagamento. As exceções são poucas: os primeiros dias de um lançamento, as lojas físicas e a soma com outro cupom.",
-          "O que eu observaria é o conjunto do pedido. Com o carrinho entre R$ 399 e R$ 469, os 15% fazem o pedido cair abaixo do frete grátis, então vale comparar o desconto com o valor do frete. E, se você tiver outro cupom da própria loja, como o de boas-vindas ou o de indicação, compare os dois antes de pagar, porque só um entra no pedido."
+          "O que eu observaria é o conjunto do pedido. Com o carrinho entre R$ 399 e R$ 469, os 15% fazem o pedido cair abaixo do frete grátis, então vale comparar o desconto com o valor do frete."
         ],
         "links": [
           {
@@ -53654,7 +53653,7 @@ export const reviewsData: unknown[] = [
           "O cupom Insider vale no Outlet? Sim. No nosso teste, o desconto entrou em peça do Outlet e em kit com preço promocional.",
           "O cupom vale para lançamentos? Pode ficar fora de alguns itens, especialmente no início de um lançamento. A etiqueta não decide sozinha: produtos com essa marcação receberam desconto no teste e outros não. Confira a linha do código por item.",
           "O cupom Insider é cumulativo? Ele pode somar com preços promocionais elegíveis e com o Pix, conforme as condições da ação. O que não soma é outro cupom no mesmo pedido; a loja aceita apenas um código.",
-          "Tem cupom Insider para primeira compra? Sim. O EMCASACOMCECILIA vale também na primeira compra, e a própria Insider envia um cupom de boas-vindas a quem cadastra o e-mail no pop-up do site. Quem foi indicado por um cliente pode ter ainda um cupom de R$ 150 em compras acima de R$ 399. Só um cupom entra no pedido, então compare os valores no carrinho.",
+          "Tem cupom Insider para primeira compra? Sim. O EMCASACOMCECILIA vale na primeira compra e para quem já comprou, sem valor mínimo. A loja aceita um cupom por pedido.",
           "O cupom tem valor mínimo? Não. No nosso teste, os 15% entraram até numa meia de R$ 25 sozinha no carrinho.",
           "O cupom da Insider dá frete grátis? Não. O frete é grátis em compras acima de R$ 399, calculadas depois do desconto do cupom.",
           "O cupom vale nas lojas físicas da Insider? Não. O EMCASACOMCECILIA é para compras na loja online.",
@@ -54986,7 +54985,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It e soma com o Pix. Black Friday: Porto Brasil até 60% OFF, La Maison até 70% e Le Creuset de 15% a 50%.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-12",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/letseatit/black-friday-letseatit-capa-v2.webp",
@@ -55029,8 +55028,8 @@ export const reviewsData: unknown[] = [
           },
           {
             "src": "/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
-            "alt": "Página inicial da Let's Eat It com o banner Natal Let's e as faixas de cashback de 30% e de Porto Brasil com até 60% OFF",
-            "caption": "A página inicial da Let's Eat It com o banner Natal Let's e as faixas de cashback de 30% e de Porto Brasil com até 60% OFF.",
+            "alt": "Página inicial da Let's Eat It com o banner Natal Let's e a faixa da Porto Brasil com até 60% OFF",
+            "caption": "A página inicial da Let's Eat It com o banner Natal Let's e a faixa da Porto Brasil com até 60% OFF.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           }
@@ -78099,6 +78098,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Passo a passo para aplicar o MAX10EMCASACOMCECILIA no carrinho da Max Titanium: onde digitar, a linha Descontos e o frete grátis por região.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
+    "updatedAt": "2026-11-12",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/max-titanium/cupom-max-titanium-como-usar-capa-v2.webp",
@@ -78198,7 +78198,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que aconteceu no nosso teste",
         "paragraphs": [
-          "Em 14/10/2026, testamos o cupom no carrinho:"
+          "Em 11/11/2026, refizemos o teste no carrinho, e os valores se repetiram:"
         ],
         "comparisonTable": {
           "caption": "Teste do cupom MAX10EMCASACOMCECILIA no carrinho da Max Titanium",
@@ -78227,10 +78227,10 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**O cupom somou com a promoção.** O whey já estava com preço promocional e o cupom abateu mais R$ 16,75 em cima dele.",
-          "**Os dois brindes continuaram no carrinho.** O cupom não tirou os brindes da Znack That. Brinde é campanha da loja: não dá para garantir que sempre haverá."
+          "**Os brindes continuaram no carrinho.** O cupom não tirou os brindes em nenhum dos testes. Brinde é campanha da loja: não dá para garantir que sempre haverá."
         ],
         "postParagraphs": [
-          "O teste foi com um item só, então ele não mostra quais produtos têm desconto menor que 10%."
+          "Num IsoWhey de 900 g a preço cheio, de R$ 326,18, o desconto foi de R$ 6,52, cerca de 2%. O percentual varia por produto: confira a linha \"Descontos\" antes de pagar."
         ]
       },
       {
@@ -84091,7 +84091,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O código MAUAD dá 10% OFF em todo o site da Belive. Veja como aplicar, quanto sai com o Pix e o frete grátis por região.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-12",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/belive/cupom-belive-como-usar-capa-v2.webp",
@@ -84181,7 +84181,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto sai com o cupom: a conta do nosso teste",
         "paragraphs": [
-          "Teste de checkout feito em 16/10/2026, com os quatro itens do carrinho:"
+          "Refizemos o teste em 11/11/2026: num combo de seis pacotes de pão de batata em oferta, de R$ 106,59, o MAUAD tirou R$ 10,66 e o total caiu para R$ 95,93. A tabela mostra o primeiro teste, com quatro itens e o Pix:"
         ],
         "comparisonTable": {
           "caption": "Teste de checkout do cupom MAUAD no site da Belive",
@@ -103800,6 +103800,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Passo a passo para aplicar o MMEMCASACOMCECILIA no checkout da Mais Mu: 10% OFF em todo o site, soma com o Pix e não vale no Mercado Livre.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
+    "updatedAt": "2026-11-12",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/mais-mu/cupom-mais-mu-como-usar-capa-v2.webp",
@@ -103883,7 +103884,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que aconteceu no teste do cupom",
         "paragraphs": [
-          "Em 20/10/2026, testamos o cupom no checkout, sem finalizar a compra e sem dados pessoais. O carrinho tinha um whey de R$ 159,99 e uma creatina em oferta, de R$ 79,90 (antes, R$ 119,00, com 33% de desconto)."
+          "Em 11/11/2026, refizemos o teste no checkout, sem finalizar a compra e sem dados pessoais. O carrinho tinha uma creatina refil de 500 g em oferta, de R$ 74,90 (antes, R$ 119,90), e dois wheys Paçoquita de 450 g, de R$ 135,99 cada (antes, R$ 159,99)."
         ],
         "comparisonTable": {
           "headers": [
@@ -103893,20 +103894,20 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Subtotal antes do cupom",
-              "R$ 239,89"
+              "R$ 346,88"
             ],
             [
               "Desconto do cupom",
-              "- R$ 23,99"
+              "- R$ 34,69"
             ],
             [
               "Total depois do cupom",
-              "R$ 215,90"
+              "R$ 312,19"
             ]
           ]
         },
         "postParagraphs": [
-          "No teste, os 10% entraram também na creatina, que já estava em oferta. Foi um carrinho com dois itens, então ele não mostra todos os casos. Confira a linha do desconto no seu carrinho."
+          "No teste, os 10% entraram sobre os preços de oferta dos três itens. As imagens do passo a passo são do primeiro teste, com outro carrinho. Confira a linha do desconto no seu carrinho."
         ],
         "image": {
           "src": "/images/reviews/mais-mu/mais-mu-cupom-capa.webp",
