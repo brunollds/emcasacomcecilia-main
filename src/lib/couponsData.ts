@@ -1086,6 +1086,11 @@ const STORE_COUPONS: Coupon[] = [
           'O MAUAD. Ele dá 5% no site da Let\'s Eat It para quem compra pela primeira vez e para quem já comprou.',
       },
       {
+        question: 'Existe cupom Let\'s Eat It de 10%?',
+        answer:
+          'Com código, o desconto que testamos é o do MAUAD: 5% no site. Não testamos os códigos de 10% que aparecem em sites de cupom. O MAUAD soma com as promoções e com os 5% de desconto do Pix que muitos produtos têm: no teste, os 5% entraram sobre o preço promocional.',
+      },
+      {
         question: 'O cupom MAUAD vale no Mercado Livre?',
         answer:
           "Não. O MAUAD é usado no checkout do site oficial da Let's Eat It e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.",
@@ -1752,6 +1757,11 @@ const STORE_COUPONS: Coupon[] = [
           'O DREMCASACOMCECILIA. Ele dá 10% em todo o site para quem compra pela primeira vez e para quem já comprou.',
       },
       {
+        question: 'Existe cupom Dr. Peanut de 15%?',
+        answer:
+          'Com código, o desconto que testamos é o do DREMCASACOMCECILIA: 10% em todo o site. Não testamos os códigos de 15% que aparecem em sites de cupom. Nos produtos em promoção, o cupom soma: no teste, os 10% entraram sobre o preço promocional de uma pasta de amendoim.',
+      },
+      {
         question: 'O cupom DREMCASACOMCECILIA vale no Mercado Livre?',
         answer:
           'Não. O DREMCASACOMCECILIA é usado no checkout do site oficial da Dr. Peanut e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
@@ -2287,6 +2297,11 @@ const STORE_COUPONS: Coupon[] = [
           'O MMEMCASACOMCECILIA. Ele dá 10% em todo o site para quem compra pela primeira vez e para quem já comprou.',
       },
       {
+        question: 'Existe cupom Mais Mu de 15% ou 20%?',
+        answer:
+          'Com código, o desconto que testamos é o do MMEMCASACOMCECILIA: 10% em todo o site. Não testamos os códigos de 15% ou 20% que aparecem em sites de cupom. O cupom soma com as promoções e, no Pix, com os 3% da loja: no teste, os 10% entraram sobre wheys e creatina que já estavam em promoção.',
+      },
+      {
         question: 'O MMEMCASACOMCECILIA é cupom de influenciadora?',
         answer:
           'Sim. É o código da Cecília, do Em Casa com Cecília, testado por nós no checkout. Ele não soma com o cupom de outra pessoa: a Mais Mu não acumula cupons no mesmo pedido.',
@@ -2547,6 +2562,11 @@ const STORE_COUPONS: Coupon[] = [
           'O CECILIA10. Ele dá 10% no site oficial para quem compra pela primeira vez e para quem já comprou.',
       },
       {
+        question: 'Existe cupom Bagaggio de 15% ou 20%?',
+        answer:
+          'Com código, o desconto que testamos é o do CECILIA10: 10% no site oficial, inclusive no Outlet. Não testamos os códigos de 15% ou 20% que aparecem em sites de cupom. O CECILIA10 soma com as promoções e, no Pix, com os 5% da loja: no teste, os 10% entraram sobre uma mala do Outlet, e o Pix tirou mais 5%.',
+      },
+      {
         question: 'O CECILIA10 é cupom de influenciadora?',
         answer:
           'Sim. É o código da Cecília, do Em Casa com Cecília, testado por nós no checkout. Ele não soma com o cupom de outra influenciadora: a Bagaggio não acumula cupons no mesmo pedido.',
@@ -2768,6 +2788,11 @@ const STORE_COUPONS: Coupon[] = [
         question: 'Qual cupom Simple Organic dá 5% para quem já é cliente?',
         answer:
           'O S-EMCASACOMCECILIA. Ele dá 5% no site oficial da Simple Organic para quem compra pela primeira vez e para quem já comprou.',
+      },
+      {
+        question: 'Existe cupom Simple Organic de 10% ou 15%?',
+        answer:
+          'Com código, o desconto que testamos é o do S-EMCASACOMCECILIA: 5% no site oficial. Não testamos os códigos de 10% ou 15% que aparecem em sites de cupom. O nosso entra também nos kits e nos produtos em promoção: nos testes, os 5% entraram sobre o preço promocional.',
       },
       {
         question: 'O cupom soma com produtos em promoção?',

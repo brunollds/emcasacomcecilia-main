@@ -159,6 +159,19 @@ for (const coupon of COUPONS) {
   assert.equal(vague, undefined, `${coupon.slug}: FAQ ainda diz que a soma com promoções pode variar`);
 }
 
+// "Existe cupom <loja> de X%?": só percentual diferente do nosso, e a resposta diz o nosso código. O percentual que
+// circula em sites de cupom não foi testado por nós; a resposta não cita código nem site de terceiros.
+for (const coupon of COUPONS) {
+  if (coupon.offerMode !== 'discount-code') continue;
+  for (const faq of coupon.faqs) {
+    if (!/^Existe cupom .+ de \d+%/.test(faq.question)) continue;
+    const asked = [...faq.question.matchAll(/(\d+)%/g)].map((match) => Number(match[1]));
+    assert.ok(asked.every((percent) => percent !== coupon.discountNumber), `${coupon.slug}: "${faq.question}" pergunta pelo percentual que já é o nosso`);
+    assert.ok(faq.answer.includes(coupon.code), `${coupon.slug}: a resposta de "${faq.question}" não diz o nosso código`);
+    assert.doesNotMatch(faq.answer, /https?:|\.com\b/, `${coupon.slug}: a resposta de "${faq.question}" cita um site`);
+  }
+}
+
 const petzCoupon = getCouponBySlug('petz');
 assert.match(petzCoupon?.combinable ?? '', /^Soma com os 5% do Retire na Loja/, 'petz: "Junta com outras promoções?" abre com a soma do Retire na Loja');
 assert.match(petzCoupon?.combinable ?? '', /Não soma com promoções/, 'petz: combinable deve dizer que não soma com promoções');
