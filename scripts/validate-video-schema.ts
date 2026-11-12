@@ -60,6 +60,7 @@ const mediaDeliveryMap = JSON.parse(
 );
 
 const errors: string[] = [];
+const warnings: string[] = [];
 let validatedPages = 0;
 let validatedWatchPages = 0;
 
@@ -71,17 +72,22 @@ function isIso8601Date(value: string | undefined): boolean {
   );
 }
 
-// O uploadDate que sai no VideoObject: sempre com hora e fuso, como o Google pede.
-function isIso8601DateTimeWithOffset(value: string | undefined): boolean {
-  return Boolean(
-    value &&
-    /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?(?:Z|[+-]\d{2}:\d{2})$/.test(value) &&
-    !Number.isNaN(Date.parse(value))
-  );
-}
-
 function report(kind: ContentKind, slug: string, message: string): void {
   errors.push(`${kind} "${slug}": ${message}`);
+}
+
+function warn(kind: ContentKind, slug: string, message: string): void {
+  warnings.push(`${kind} "${slug}": ${message}`);
+}
+
+// O uploadDate sai no VideoObject como está no registro. Com hora, precisa de fuso. Só a data é
+// válida e vira aviso: a hora real da publicação ainda não foi comprovada, e não se inventa uma.
+function checkUploadDate(kind: ContentKind, slug: string, value: string | undefined): void {
+  if (!isIso8601Date(value)) {
+    report(kind, slug, 'VideoObject sem uploadDate ISO 8601 (data, ou data com hora e fuso)');
+  } else if (/^\d{4}-\d{2}-\d{2}$/.test(value as string)) {
+    warn(kind, slug, `uploadDate só com a data (${value}): falta a hora comprovada da publicação`);
+  }
 }
 
 function validateYoutubeVideoObject(
@@ -113,9 +119,7 @@ function validateYoutubeVideoObject(
   if (!video.thumbnailUrl || !/^https?:\/\//.test(video.thumbnailUrl)) {
     report(kind, slug, 'VideoObject sem thumbnailUrl absoluta');
   }
-  if (!isIso8601DateTimeWithOffset(video.uploadDate)) {
-    report(kind, slug, 'VideoObject sem uploadDate ISO 8601 com hora e fuso');
-  }
+  checkUploadDate(kind, slug, video.uploadDate);
   if (video.embedUrl !== expectedEmbedUrl || !video.embedUrl.includes('/embed/')) {
     report(kind, slug, 'embedUrl não corresponde ao player /embed/ do vídeo');
   }
@@ -171,9 +175,7 @@ function validateLocalVideoObject(
   if (!video.thumbnailUrl || !/^https?:\/\//.test(video.thumbnailUrl)) {
     report('review', slug, 'VideoObject local sem thumbnailUrl absoluta');
   }
-  if (!isIso8601DateTimeWithOffset(video.uploadDate)) {
-    report('review', slug, 'VideoObject local sem uploadDate ISO 8601 com hora e fuso');
-  }
+  checkUploadDate('review', slug, video.uploadDate);
   if (video.contentUrl !== expectedContentUrl) {
     report('review', slug, 'contentUrl não corresponde ao arquivo MP4 principal');
   }
@@ -349,9 +351,7 @@ for (const videoPage of videoPages) {
     if (!videoObject.thumbnailUrl || !/^https?:\/\//.test(videoObject.thumbnailUrl)) {
       report('página de vídeo', videoPage.slug, 'VideoObject sem thumbnailUrl absoluta');
     }
-    if (!isIso8601DateTimeWithOffset(videoObject.uploadDate)) {
-      report('página de vídeo', videoPage.slug, 'VideoObject sem uploadDate ISO 8601 com hora e fuso');
-    }
+    checkUploadDate('página de vídeo', videoPage.slug, videoObject.uploadDate);
   }
 
   // O <head>: título longo do YouTube pede seoTitle e descrição longa pede seoDescription (video-pages.js).
@@ -407,6 +407,11 @@ for (const [contentUrl, metadata] of Object.entries(localVideoMetadata)) {
   if (matches.length !== 1) {
     errors.push(`MP4 principal ${contentUrl}: esperado 1 página de exibição, encontradas ${matches.length}`);
   }
+}
+
+if (warnings.length > 0) {
+  console.warn('Avisos da validação de vídeos (não param a build):');
+  for (const warning of warnings) console.warn(`- ${warning}`);
 }
 
 if (errors.length > 0) {

@@ -24,12 +24,6 @@ function isIso8601Date(value) {
   );
 }
 
-// O Google pede uploadDate com hora e fuso. A data sem hora do registro sai ao meio-dia de Brasília;
-// a que já traz hora e fuso sai como está.
-function toSchemaUploadDate(value) {
-  return /^\d{4}-\d{2}-\d{2}$/.test(value) ? `${value}T12:00:00-03:00` : value;
-}
-
 /**
  * Produz um VideoObject somente quando todos os metadados editoriais mínimos
  * estão completos. Ausência de qualquer campo obrigatório resulta em null.
@@ -71,7 +65,7 @@ export function buildYoutubeVideoObject({
     name,
     description: resolvedDescription,
     thumbnailUrl: resolvedThumbnailUrl,
-    uploadDate: toSchemaUploadDate(resolvedUploadDate),
+    uploadDate: resolvedUploadDate,
     url: watchUrl,
     embedUrl,
     ...(resolvedDuration && { duration: resolvedDuration }),
@@ -109,7 +103,7 @@ export function buildLocalVideoObject({
     name: title,
     description,
     thumbnailUrl: resolvedThumbnailUrl,
-    uploadDate: toSchemaUploadDate(uploadDate),
+    uploadDate,
     contentUrl: resolvedContentUrl,
     ...(duration && { duration }),
   };
