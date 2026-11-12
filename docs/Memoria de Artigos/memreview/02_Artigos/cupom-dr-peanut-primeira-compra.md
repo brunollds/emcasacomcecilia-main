@@ -28,8 +28,8 @@ coupon: "DREMCASACOMCECILIA"
 Série [[cupom-primeira-compra-serie-1211]] (o molde e as regras valem). Pesquisa da loja em
 [[primeira-compra-semente-dr-peanut]]; as decisões do Bruno de 12/11 estão no topo de
 [[primeira-compra-sementes-indice-1211]] e valem sobre a ficha. As seções 5 e 7 da ficha propõem comparação com
-um benefício da própria loja: foram escritas antes da decisão e não entram. A regra do frete segue a palavra do
-Bruno de 12/11 (o mínimo conta antes do cupom); o `couponsData` diz o contrário, e a divergência está em Regras.
+um benefício da própria loja: foram escritas antes da decisão e não entram. A regra do frete segue o teste de carrinho de 12/11 da página da loja (o mínimo conta depois do cupom), que vale
+sobre o que o handoff da pesquisa dizia; ver Regras.
 
 Quem busca vai fazer o primeiro pedido na Dr. Peanut e quer saber se existe cupom e se o carrinho chega ao mínimo
 do frete grátis. O artigo responde com o nosso código, diz como o mínimo do frete entra na conta e que o código vale
@@ -66,11 +66,11 @@ Frase de ganho de informação:
 
 > Este artigo diz a quem faz o primeiro pedido na Dr. Peanut que o DREMCASACOMCECILIA dá 10% em todo o site e soma
 > com as promoções, que o mínimo do frete grátis (R$ 149,90 no Sul e no Sudeste, R$ 199,90 no Centro-Oeste, no Norte
-> e no Nordeste) conta antes do desconto, e que o código não vale no Mercado Livre e segue valendo nas compras
+> e no Nordeste) conta depois do desconto, e que o código não vale no Mercado Livre e segue valendo nas compras
 > seguintes, inclusive na assinatura.
 
-- **O mínimo do frete:** conta antes do cupom (Bruno, 12/11). Um pedido que chega ao mínimo sem o desconto segue com
-  frete grátis mesmo com os 10% (ver o capítulo 3).
+- **O mínimo do frete:** conta depois do cupom. No teste da página da loja, com entrega em São Paulo, um carrinho que
+  tinha frete grátis passou a pagar frete quando os 10% o deixaram abaixo do mínimo (ver o capítulo 3).
 - **Soma com promoção:** o 10% entra sobre o preço promocional. No teste de 11/11, uma pasta de 250 g de R$ 28,90 por
   R$ 25,89 caiu para R$ 23,30 com o código.
 - **Vale de novo:** para quem já comprou (FAQ publicado) e na assinatura de pastas de 250 g, onde soma com o
@@ -81,14 +81,16 @@ Frase de ganho de informação:
 1. **Resposta rápida** (40 a 60 palavras, sem "R$"). Rascunho, 49 palavras:
    > Para a primeira compra na Dr. Peanut, use DREMCASACOMCECILIA: 10% OFF em todo o site, com qualquer forma de
    > pagamento. O código soma com as promoções e vale de novo para quem já comprou. Não vale no Mercado Livre, e o
-   > mínimo do frete grátis conta antes do desconto.
+   > mínimo do frete grátis conta depois do desconto.
 2. **Cupom Dr. Peanut primeira compra: qual usar.** O H2 repete a busca, com a frase-resposta logo abaixo: o código,
    os 10% e "todo o site". Uma frase diz que código achado em site de cupom pode não funcionar, sem citar nenhum.
-3. **O que o primeiro pedido exige.** Só o que a loja publica ou o que o Bruno confirmou:
+3. **O que o primeiro pedido exige.** Só o que a loja publica ou o carrinho mostrou:
    - vale em todos os produtos do site oficial, com qualquer forma de pagamento (FAQ);
    - soma com as promoções do site (`combinable`);
    - frete grátis a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 no Centro-Oeste, no Norte e no Nordeste;
-     o mínimo conta antes do cupom (Bruno, 12/11);
+     o mínimo conta depois do cupom. O teste da página da loja mostra isso, uma vez: com entrega em São Paulo, um
+     carrinho de R$ 155,34 tinha frete grátis; com o código, caiu para R$ 139,80 e passou a pagar R$ 12,23 de frete.
+     Quem está perto do mínimo confere o frete com o cupom aplicado;
    - não vale no Mercado Livre, que vende pelo preço do anúncio;
    - não escrever "sem valor mínimo" do cupom: nenhuma fonte diz isso.
 4. **Quanto fica no primeiro pedido.** A conta do teste de 11/11, uma vez: pasta de 250 g em promoção, de R$ 28,90 por
@@ -106,7 +108,7 @@ Frase de ganho de informação:
    - "O cupom Dr. Peanut soma com produto em promoção?" (sim; o 10% entra sobre o preço promocional)
    - "O cupom Dr. Peanut vale no Mercado Livre?" (não)
    - "Quanto é o frete grátis da Dr. Peanut?" (a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas outras
-     regiões; o mínimo conta antes do cupom)
+     regiões; o mínimo conta depois do cupom)
 
 Sem quadro `decision` e sem tabela de escolha.
 
@@ -115,10 +117,9 @@ Sem quadro `decision` e sem tabela de escolha.
 - Regras da série. **Nunca "exclusivo de primeira compra", "o maior desconto" nem "o melhor cupom".**
 - **Benefício da própria loja:** o artigo não cita nem compara nenhum benefício de primeira compra da Dr. Peanut,
   nem existência nem ausência (Bruno, 12/11). A ficha não achou benefício próprio; isso não entra no texto.
-- **Frete (divergência com a página):** o `couponsData` diz que o valor conta depois do cupom, tanto no campo
-  `shipping` quanto na FAQ ("se o desconto deixar o pedido abaixo do mínimo, o frete pode ser cobrado"). O como usar
-  (seção de frete) diz antes, e o Bruno disse antes em 12/11. O briefing segue o Bruno. Antes de publicar, a sessão de
-  cupons corrige o `shipping` e a FAQ de `/cupons/dr-peanut`; sem isso, o artigo contradiz a página nesse ponto.
+- **Frete:** o mínimo conta depois do cupom. É o que `/cupons/dr-peanut` publica e o que o teste de carrinho de 12/11
+  mostrou (`testNote`; #905). O handoff da pesquisa trazia "antes", por palavra do Bruno do mesmo dia; o teste é
+  posterior e vale. O "como usar" ainda diz antes: alinhar é da sessão de artigos.
 - **Pix:** nenhuma fonte publica o percentual de Pix da Dr. Peanut. O texto diz só que o código vale com todas as
   formas de pagamento (`couponsData`). Percentual de Pix: não escrever.
 - **Assinatura:** a regra da assinatura (o código soma com o progressivo) vem de um teste do Bruno em 24/10, no
@@ -133,10 +134,8 @@ Sem quadro `decision` e sem tabela de escolha.
 
 ## Leituras (no navegador, sem login e sem informar e-mail)
 
-1. Página `/cupons/dr-peanut`: confirmar se o campo `shipping` e a FAQ do frete ainda dizem "depois do cupom". Se
-   disserem, a divergência segue aberta e a sessão de cupons decide antes da publicação.
-2. Carrinho de teste perto do mínimo do Sudeste, sem finalizar, pela sessão de cupons, se o Bruno liberar. O texto
-   não depende disso: segue a palavra do Bruno.
+1. Frete com o cupom aplicado: já testado em 12/11 (página da loja); não pede teste novo.
+2. Política de frete grátis da loja, para os valores por região do dia.
 3. Preço da pasta de 250 g em promoção no dia (conta do capítulo 4).
 4. Search Console: CSV das consultas e das URLs da Dr. Peanut antes de publicar (linha de base da série). Não há
    export no projeto.
@@ -169,8 +168,7 @@ DREMCASACOMCECILIA. Corpo: foto do carrinho do teste de 11/11 ou da pasta em pro
 | Não vale no Mercado Livre | FAQ de `/cupons/dr-peanut` | verificado |
 | Não tem aplicativo; o código vai no campo "Código" do carrinho | FAQ; `cupom-dr-peanut-como-usar` (campo "Código", "Adicionar", "Descontos") | verificado |
 | Frete grátis a partir de R$ 149,90 (Sul e Sudeste) e de R$ 199,90 (Centro-Oeste, Norte e Nordeste) | `couponsData.ts` (`shipping`); faixa do topo da home lida em 12/11 (ficha, FL) | verificado |
-| O mínimo do frete conta antes do cupom | Bruno, 12/11; `cupom-dr-peanut-como-usar` (seção de frete) | Bruno, 12/11. DIVERGE de `couponsData.ts` (`shipping` e FAQ, "depois"): corrigir a página |
-| Exemplo: R$ 150 no Sudeste mantém o frete; com os 10%, R$ 135 e frete grátis | cálculo nosso, pela regra do Bruno | conta, sem teste |
+| O mínimo do frete conta depois do cupom: R$ 155,34 com frete grátis, R$ 139,80 e R$ 12,23 de frete com o código (São Paulo) | `couponsData.ts` (`shipping`, FAQ e `testNote` de 12/11) | verificado; teste da página da loja |
 | Na assinatura, o código entra e soma com o progressivo | dossiê `Dr-Peanut.md`, teste do Bruno de 24/10 | verificado (teste do Bruno); reconferir antes de publicar |
 | Percentual de Pix | nenhuma fonte | não escrever |
 | Benefício de primeira compra da própria loja | nenhuma fonte confirmada | não escrever (Bruno, 12/11) |
