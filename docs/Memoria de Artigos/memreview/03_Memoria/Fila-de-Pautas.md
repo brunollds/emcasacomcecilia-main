@@ -98,6 +98,22 @@ Também sem GO:
 - **"<Marca> é boa?" nos parceiros que faltam:** DAMIE (subdomínio primeiro), YesStyle, Magalu e Hostinger. Depois vem "produto X é bom?".
   - **Hostinger é boa? (proposta em 10/11):** o Bruno preferiu começar pela H10, e a dúvida é achar o equivalente em cada idioma. No autocompletar de 10/11 existem: en "is hostinger good" e "is hostinger worth it"; es "hostinger es bueno"; de "ist hostinger gut" e "hostinger erfahrungen"; fr "hostinger avis" e "hostinger est il fiable"; it "hostinger opinioni"; ja "hostinger 評判"; ko "hostinger 후기"; zh "hostinger 好用吗" e "hostinger怎么样". Em pt: "hostinger é boa", "vale a pena", "vps hostinger é boa". Antes do briefing, ver o que as famílias de reputação já cobrem em cada idioma (como `hostinger-opiniones-trustpilot`): "opinioni", "avis", "評判" e "후기" pedem opinião, e o "é boa" pede para quem compensa.
 
+**Série "Mais vendidos da <loja>" (ideia do Bruno, 12/11; sem GO de briefing).** Um artigo por parceira que publica
+no próprio site uma coleção de mais vendidos, com as peças ou os produtos dessa seleção, o preço já com o nosso
+código e uma orientação de escolha. Saiu da leitura de uma concorrente de cupons, que lista os preços dos mais
+vendidos dentro da página do cupom; aqui vira artigo, e a página de loja não muda por causa dela.
+
+- **Fonte obrigatória:** a coleção ou a ordenação "mais vendidos" que a própria loja publica, com a URL e a data da
+  leitura. A Insider tem coleções masculina e feminina (lido em 12/11). Loja sem a coleção fica fora.
+- **O que o texto pode dizer:** "da seleção de mais vendidos da <loja>". A posição na vitrine não prova ranking de
+  vendas nem quantidade: sem "o mais vendido", sem números de venda e sem contagem de estoque.
+- **Regras de sempre:** preço real lido na semana do texto, com o nosso código aplicado; sem cupom que não é o nosso;
+  artigo de roupa leva o card de estilo; conferir em `content/reviews` o que os guias da loja já cobrem ("qual
+  escolher", "é boa") para não repetir.
+- **Primeiro passo, antes de qualquer briefing:** inventário das parceiras que publicam a coleção (URL, quantos
+  itens, se muda por gênero ou categoria) e o autocompletar de "<loja> mais vendidos" e "melhores produtos <loja>".
+  A evidência vai para [[Pesquisas-de-Pauta]].
+
 **Série universal "Alternativas a <marca>" (decisão do Bruno, 08/11).** Busca a pessoa que procura alternativa a uma marca ou a um produto. Sem limite de marca nem de nicho: vale para parceiro ou concorrente do setor, e nicho com uma parceira só também entra, sem obrigação de cobrir todos. Nas palavras do Bruno: "seja parceiro/ seja o concorrente do setor(nicho)". **Molde de comparação:** a SK1 e a sequência YesStyle × StyleKorean abaixo.
 
 - **O que separa de um "X ou Y" no ar:** quem busca alternativa quer ver opções, então o artigo lista mais de uma opção do setor. Ex.: "Alternativas à HostGator" lista opções, e o `hostinger-ou-hostgator` compara só as duas. Partir de produto ou necessidade equivalente, com composição, quantidade, preço por dose e benefício aplicável. Não abrir "alternativa", "qual é melhor" e "vale a pena" como páginas quase iguais.
