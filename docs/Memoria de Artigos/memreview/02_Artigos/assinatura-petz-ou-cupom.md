@@ -145,3 +145,10 @@ com `href` da página dele na Petz. Fotos pelo navegador ou pelo Bruno.
 - **Alt da capa:** Logo da Petz, pacote da ração Golden Fórmula e a chamada “Assinatura Petz ou cupom?” com o código EMCASA.
 - **A mesma sacola, de duas formas:** `/images/reviews/petz/assinatura-petz-ou-cupom-golden-formula-adultos.webp` (square). Alt: Pacote da ração Golden Fórmula Cães Adultos Frango, Arroz e Vegetais 15 kg, em foto da página do produto na Petz. Legenda: Foto: Petz.
 - **Origem:** foto oficial da página do produto na Petz, capturada no navegador do app em 11/11 na resolução original e recortada sobre fundo branco. Sem geração por IA; nada da Cobasi ou da Petlove nas imagens. Folha de aprovação em `docs/auditoria-copy-artigos/petz-pz5-pz8-20261111/v2-apos-revisao/FOLHA-APROVACAO-IMAGENS.html` (local, fora do git).
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/petz/assinatura-petz-ou-cupom-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Ilustração gerada por IA de um filhote de cachorro caramelo e branco sentado num tapete claro, ao lado da pergunta Assinatura ou cupom? e do código EMCASA da Petz.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Filhote de cachorro em ilustração original gerada por IA (OpenAI), sem referência externa; não é animal de cliente, da equipe, de loja nem de adoção, e o alt diz que é gerada. Parecer vigente: ADENDO-PETZ-FILHOTES.md do lote 35. EMCASA sem percentual na arte.
+- **Lote 35 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/35/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/petz/assinatura-petz-ou-cupom-capa.webp`) fica no CDN, sem uso como capa.

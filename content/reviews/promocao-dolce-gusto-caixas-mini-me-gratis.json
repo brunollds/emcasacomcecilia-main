@@ -18,9 +18,10 @@
   "publishedAt": "29 Jun 2026",
   "publishedAtISO": "2026-06-29",
   "draft": false,
-  "image": "/images/reviews/dolcegusto/promocao-55-caixas-hero.webp",
-  "imageAlt": "Arte da promoção de junho de 2026 da Dolce Gusto, campanha anterior com 55 caixas de cápsulas e máquina Mini Me",
-  "imageFit": "cover",
+  "image": "/images/reviews/dolcegusto/promocao-dolce-gusto-caixas-mini-me-gratis-capa-v2.webp",
+  "imageAlt": "Variações de cor da Mini Me 2.0 com bebidas sobre um pedestal em peça oficial da Dolce Gusto, ao lado da pergunta Mini Me: combo ou avulsa? e do apoio Máquina e cápsulas. São opções de cor, não um kit com quatro máquinas.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "pros": [],
   "cons": [],
   "gallery": [

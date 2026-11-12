@@ -80,3 +80,10 @@ A resposta à confusão do nome: Fita Up é da Toda Up (antiga Fita UP, de Bigua
 ## 7. Pontuação
 
 Dor 21/25, demanda 15/20, valor além do oficial 17/20, visita 10/15, cluster 8/10, conversão 5/10. Total 76.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/fita-up-ou-trifil-up-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo adulta com cabelo curto e franja usando protetores de mamilo ultrafinos e segurando a caixa Invisible Up, em foto oficial da Toda Up, ao lado da pergunta Fita Up ou Trifil Up? e do apoio Fitas e protetores.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Foto oficial da Toda Up; a modelo não é a Cecília. Concorrente só por escrito. Produto em foto real.
+- **Lote 35 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/35/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/toda-up/fita-up-ou-trifil-up-capa.webp`) fica no CDN, sem uso como capa.

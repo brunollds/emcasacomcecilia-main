@@ -591,3 +591,10 @@ O frete grátis segue a mesma tabela nas duas lojas. Em 14/10/2026, a entrega sa
 ### Transparência
 
 A Max Titanium e a Probiótica são parceiras comissionadas do site, e as duas são do mesmo grupo. Comprar pelos links ou com os códigos não muda o preço para você.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/max-titanium/max-titanium-ou-probiotica-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pote de Creatine de 150 g da Max Titanium em imagem oficial, ao lado da pergunta Max Titanium ou Probiótica? e do apoio Whey e creatina.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Creatine 150 g da Max Titanium em imagem oficial. Produto em foto real.
+- **Lote 34 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/34/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/max-titanium/max-titanium-ou-probiotica-capa.webp`) fica no CDN, sem uso como capa.

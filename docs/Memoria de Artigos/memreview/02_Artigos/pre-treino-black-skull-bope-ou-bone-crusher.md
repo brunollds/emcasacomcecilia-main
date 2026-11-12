@@ -220,3 +220,10 @@ Respostas do Bruno de 23/10/2026 ao lote de seis pautas. Ele aprovou as recomend
 - **Os pré-treinos da Black Skull pelo rótulo:** `/images/reviews/black-skull/pre-treino-black-skull-bope-300g.webp`
 - **Os pré-treinos da Black Skull pelo rótulo:** `/images/reviews/black-skull/pre-treino-black-skull-bone-crusher-300g.webp`
 - **BOPE ou Bone Crusher: o que muda no rótulo:** `/images/reviews/black-skull/pre-treino-black-skull-quadro-bope-bone-crusher.webp`
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/black-skull/pre-treino-black-skull-bope-ou-bone-crusher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pote de pré-treino BOPE Frutas Amarelas de 150 g da Black Skull sobre um pedestal, em imagem oficial, ao lado da pergunta BOPE ou Bone Crusher? e do apoio Pré-treinos.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. BOPE 150 g Frutas Amarelas em imagem oficial. Produto em foto real.
+- **Lote 35 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/35/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/black-skull/pre-treino-black-skull-capa.webp`) fica no CDN, sem uso como capa.

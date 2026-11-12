@@ -233,3 +233,10 @@ As perguntas acima foram respondidas em 20/10/2026. O que vale é esta seção: 
 **Só desta pauta**
 
 11. Responde "cupom mais mu primeira compra" sem citar cupom de boas-vindas nem de terceiros: o MMEMCASACOMCECILIA vale para conta nova e antiga (dossiê). "Cupom mais mu mercado livre" é respondido pela regra 8.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/mais-mu/cupom-mais-mu-como-usar-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pote de Whey Protein Paçoquita de 450 g da Mais Mu, com copo recebendo bebida e pedaços de paçoca, em cena promocional oficial, ao lado da chamada Como usar o cupom Mais Mu e do código MMEMCASACOMCECILIA.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Cena oficial do pote Paçoquita 450 g com bebida e paçocas, com o código MMEMCASACOMCECILIA (o mesmo do artigo) na caixa branca, sem percentual; não é preparo nem teste da equipe. Produto em foto real.
+- **Lote 36 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/36/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/mais-mu/cupom-mais-mu-capa-discover.webp`) fica no CDN, sem uso como capa.

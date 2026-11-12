@@ -378,3 +378,10 @@ Desvio: a imagem da Probiótica (pote de creatina pura de 300 g) não foi feita.
 
 O domínio abriu no Chrome (o bloqueio era de 23/10). Creatina Monohidratada Pura 300 g (ficha id 20, /creatina-300g/p): R$ 59,90 no cartão (de R$ 75,10) e R$ 56,90 no Pix, "com 5% de desconto no PIX". Foto oficial do pote (imagem 160144, 1000×1000) aprovada pelo Bruno em 25/10/2026 e enviada ao CDN: `/images/reviews/probiotica/creatina-com-sabor-qual-escolher-probiotica-pura-300g.webp`, quadrada, na seção da Probiótica; alt "Pote de 300 g da Creatina Monohidratada Pura da Probiótica"; legenda "Creatina Monohidratada Pura 300 g. Imagem: Probiótica."
 A frase de cupons da Probiótica passou a dizer que o PRO10EMCASACOMCECILIA soma com as promoções: é o teste de 13/10 registrado no couponsData ("soma com as promoções e vale no Pix e no cartão").
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/black-skull/creatina-com-sabor-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pote de Creatina 7Belo Framboesa de 300 g da Max Titanium em imagem oficial, ao lado da chamada Creatina com sabor e do apoio Rótulo e preço por grama.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Creatina 7Belo Framboesa da Max Titanium, pote de 300 g, com o logo da Max; não é refil nem kit. Produto em foto real.
+- **Lote 36 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/36/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/black-skull/creatina-com-sabor-qual-escolher-capa.webp`) fica no CDN, sem uso como capa.

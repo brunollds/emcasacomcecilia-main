@@ -134,3 +134,10 @@ sacola só se não mostrar dado pessoal (sem login, CEP público).
 - **Alt da capa:** Pacote da areia Pipicat Classic, logo da Petz, a chamada “Expressa ou retirar na loja?” e a caixa com o código EMCASA.
 - **As quatro formas na mesma sacola:** `/images/reviews/petz/petz-entrega-expressa-areia-pipicat-classic.webp` (square). Alt: Pacote da areia Pipicat Classic 4 kg, em foto oficial da página do produto na Petz. Legenda: Areia Pipicat Classic 4 kg, um dos três itens da sacola de teste. Foto: Petz.
 - **Origem:** foto oficial da página do produto na Petz, capturada no navegador do app em 11/11 na resolução original e recortada sobre fundo branco. Sem geração por IA; nada da Cobasi ou da Petlove nas imagens. Folha de aprovação em `docs/auditoria-copy-artigos/petz-pz5-pz8-20261111/v2-apos-revisao/FOLHA-APROVACAO-IMAGENS.html` (local, fora do git).
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/petz/petz-entrega-expressa-ou-retirar-na-loja-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Equipe organizando caixas em foto histórica oficial do centro de distribuição da Petz, ao lado da pergunta Entrega expressa ou retirar? e do cupom EMCASA.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Foto histórica de 2016 do centro de distribuição da Petz; não é prova de serviço nem promessa de prazo. Produto em foto real.
+- **Lote 34 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/34/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/petz/petz-entrega-expressa-ou-retirar-na-loja-capa.webp`) fica no CDN, sem uso como capa.
