@@ -1,4 +1,5 @@
 import assert from 'node:assert/strict';
+import { resolveMediaUrl } from '../src/lib/resolve-media.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import homeEventsConfig from '../content/home-events.json';
@@ -2943,6 +2944,10 @@ for (const { pagePath, store } of couponStorePages) {
       assert.ok(howTo.includes('data-cart-print'), `${pagePath}: o print do carrinho fora de "Como usar"`);
       if (print.article) assert.ok(howTo.includes(`href="/reviews/${print.article}"`), `${pagePath}: o print sem o link do passo a passo`);
       assert.ok(decodeHtml(howTo).includes(print.alt), `${pagePath}: o print sem o alt`);
+      // A imagem sai pelo endereço de entrega (CDN), não pelo caminho local: o componente de cliente não resolve sozinho.
+      if (resolveMediaUrl(print.src) !== print.src) {
+        assert.ok(!howTo.includes(encodeURIComponent(print.src)) && !howTo.includes(`"${print.src}"`), `${pagePath}: o print saiu com o caminho local`);
+      }
     }
     const videos = isPortuguese ? (store!.videos ?? []) : [];
     assert.equal(at('videos') !== -1, videos.length > 0, `${pagePath}: seção de vídeos fora da regra`);
