@@ -52,10 +52,13 @@ Google em português, 12/11: a visão geral de IA responde com o cupom de primei
 loja anuncia com 10% nas redes dela, e cita cupom de app e desconto no Pix; depois vêm anúncios de agregadores,
 vídeos da loja e códigos de influenciadoras com 10%.
 
-**Risco a levar ao Bruno antes da redação:** nesta busca, a própria loja oferece a quem nunca comprou um
-percentual anunciado maior do que o CECILIAMC entregou nos testes (7%). Pela regra da série, o artigo não cita nem
-compara o cupom da loja, e continua verdadeiro: diz "até 10%" e os 7%. Mas o leitor de primeira compra vai ver os
-dois números na mesma página de resultados. O que muda o quadro é a parceria fazer o CECILIAMC dar 10% de fato.
+**Como ler os dois números (Bruno, 12/11):** o CECILIAMC é de até 10%, e o percentual varia por produto, como na
+Max Titanium e na Probiótica. Os testes cobriram cinco carrinhos, não o catálogo: não dá para saber quais produtos
+chegam ao máximo. O artigo mantém "até 10%", mostra os 7% dos carrinhos testados e manda conferir o resumo da compra.
+Nunca "o cupom dá só 7%" nem "10% em tudo".
+
+O cupom de primeira compra da própria loja aparece no topo desta busca; pela regra da série, o artigo não cita nem
+compara.
 
 Frase de ganho de informação:
 

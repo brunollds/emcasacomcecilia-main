@@ -51,16 +51,18 @@ Topo de "cupom prohall": a visão geral de IA lista códigos de outras influenci
 da própria loja, todos anunciados com 10%, e cita desconto no Pix; depois vêm anúncios de agregadores ("10% hoje"),
 posts da loja e de influenciadoras e páginas da loja. Ninguém mostra o checkout nem diz quanto o código tirou.
 
-- **O percentual conferido no checkout:** o topo repete "10%" sem teste. O artigo diz "até 10%" e mostra que o
-  CECILIAMC tirou 7% em cinco carrinhos, com a conta de um deles. É menos que o anunciado pelos outros, e é o único
-  número conferido da página de resultados.
+- **O percentual conferido no checkout:** o topo repete "10%" sem teste. O artigo diz "até 10%", explica que o
+  percentual varia por produto e mostra a conta de um carrinho testado, em que o código tirou 7%. É o único número
+  conferido da página de resultados.
 - **O passo a passo com o nome dos campos** ("Tem um cupom?", "Código do cupom", "Aplicar") e o print do checkout.
 - **O app:** a loja anuncia que as melhores ofertas estão no app, e a busca "cupom app prohall" existe. O artigo diz
   que o código vale no site e no app.
 - **O frete depois do cupom:** o mínimo do frete grátis muda por região e conta sobre o valor já com o desconto.
 
-**Risco a levar ao Bruno:** quem lê a página de resultados vê 10% em outros códigos e 7% no nosso. O artigo não
-resolve isso; resolve a parceria, se o CECILIAMC passar a dar 10% de fato.
+**Como ler os dois números (Bruno, 12/11):** o CECILIAMC é de até 10%, e o percentual varia por produto, como na
+Max Titanium e na Probiótica. Os testes cobriram cinco carrinhos, não o catálogo: não dá para saber quais produtos
+chegam ao máximo. O artigo mantém "até 10%", mostra os 7% dos carrinhos testados e manda conferir o resumo da compra.
+Nunca "o cupom dá só 7%" nem "10% em tudo".
 
 ## Esqueleto
 
@@ -72,7 +74,7 @@ resolve isso; resolve a parceria, se o CECILIAMC passar a dar 10% de fato.
    cupom", "Aplicar"; o resumo passa a mostrar a linha "Cupom CECILIAMC" e o aviso "Cupom CECILIAMC aplicado". Com o
    print do checkout.
 3. **Quanto o cupom tira: até 10%, e 7% nos testes.** A conta do teste da página da loja, uma vez: carrinho de
-   R$ 380,70 que caiu para R$ 354,06, com R$ 26,64 de desconto. Dizer que foi 7% em todos os carrinhos testados, a
+   R$ 380,70 que caiu para R$ 354,06, com R$ 26,64 de desconto. Dizer que o percentual varia por produto e que foi de 7% nos carrinhos testados, a
    preço cheio e em promoção, e que o resumo mostra o valor antes do pagamento.
 4. **O cupom vale no app?** Sim: no site e no app (Bruno, 12/11). Produto esgotado no site pode aparecer com o aviso
    de comprar pelo app. O campo do app só entra descrito se a redação o vir; sem isso, o texto diz só que vale.
@@ -89,7 +91,7 @@ resolve isso; resolve a parceria, se o CECILIAMC passar a dar 10% de fato.
    [[cupom-prohall-primeira-compra]].
 8. **FAQ (3 a 5), sem data:**
    - "Qual é o cupom da Prohall?" (CECILIAMC, até 10%)
-   - "Por que o desconto veio de 7%?" (o cupom é de até 10%; nos nossos testes foi 7%)
+   - "Por que o desconto veio menor que 10%?" (o cupom é de até 10% e varia por produto; nos nossos testes foi 7%)
    - "O cupom Prohall vale no app?" (sim)
    - "O cupom soma com produto em promoção?" (sim)
    - "O cupom dá frete grátis?" (não; o frete grátis depende do mínimo da região, contado depois do cupom)
@@ -98,7 +100,8 @@ Sem quadro `decision`.
 
 ## Regras do pacote (valem para os seis)
 
-- **Sempre "até 10%".** Nunca "10% OFF" sem o "até". Preço de exemplo só de carrinho testado ([[Prohall]], seção 1),
+- **Sempre "até 10%".** Nunca "10% OFF" sem o "até". O percentual varia por produto (Bruno, 12/11), como na Max
+  Titanium e na Probiótica: os testes não cobriram o catálogo, e não se sabe quais produtos chegam ao máximo. Preço de exemplo só de carrinho testado ([[Prohall]], seção 1),
   nunca calculado com 10%.
 - **Cliente novo e antigo.** O código vale para os dois e soma com as promoções do site.
 - **Cashback da loja:** não junta com o nosso código no mesmo pedido. Só entra como regra de soma (PH1 e PH6), nunca
