@@ -7,9 +7,9 @@ parceiro_slug: "holyfoods"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador; redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PC-HOLYFOODS"
@@ -168,3 +168,33 @@ tela Finalizar compra com o campo de cupom (ou da sopa do teste), com `href` par
 | Benefício de primeira compra da própria loja | busca e página `/pages/cupons-de-desconto` (leitura de 12/11) | não escrever (Bruno, 12/11) |
 | Sem valor mínimo do cupom | nenhuma | não escrever |
 | 10% e mínimo de R$ 99 de primeira compra | trechos de busca e agregadores | não usar |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- Produtos do teste, pelo JSON público da loja: Pack Sopa da Vovó a R$ 41,93 e Sopa Detox a R$ 13,93, que somam os R$ 69,79 do teste de 05/11. A página de cupom passou a ter um teste de 12/11 (dois Kits Veganos); o de 05/11 segue registrado nela, e é o que o artigo usa.
+- O teste de 12/11 registra que o checkout abriu com um cupom de campanha da loja no campo. Não entrou no texto, pela regra de não citar cupom da loja.
+- Pix e frete por estado: sem valor no texto.
+- Search Console: CSV da linha de base com o Bruno.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-holyfoods-primeira-compra.json` (id 924), no esqueleto do briefing. Resposta rápida com 57 palavras. A data do teste (11/11/2026) fica na prosa do capítulo da conta, e a legenda da tabela diz o que os valores não incluem, como a revisão externa do lote 2 pediu. O capítulo 3 gira na tela e no campo certos (Finalizar compra, "Inserir cupom de desconto", não o cartão-presente).
+
+## Revisão (Job 3, 12/11/2026)
+
+1 a 10: passou. Sem benefício da própria loja, sem código de terceiros, sem "exclusivo", "maior" ou "melhor". Sem a campanha da loja; sem valores de frete; sem o progressivo; sem promessa de saúde.
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data no corpo (a do teste, na prosa). C3, C4, C5: 0.
+- C6: os valores da tabela não voltam na prosa nem no FAQ. C7: sem capítulo de método. C8: a foto do produto está no capítulo da conta, com o link de afiliado no `href`.
+- C9: cada rótulo no máximo uma vez. C12: a primeira frase de cada capítulo decide. C14: "E na segunda compra?" vem do molde da série.
+- Leitura em voz alta: soa como pessoa ajudando.
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da loja, a chamada e o EMCASA. Alt: Prato de sopa da HolyFoods visto de cima, em foto oficial, ao lado da chamada Cupom HolyFoods primeira compra e do código EMCASA.
+- **Sopas já com desconto: os 15% por cima:** `/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-pack-sopa-da-vovo.webp` (quadrada, `href` com o link de afiliado do produto). Alt: Embalagem amarela do Pack Sopa da Vovó da HolyFoods, com 10 porções, em foto oficial de frente. Legenda: Pack Sopa da Vovó incluído no teste do cupom no checkout. Foto: HolyFoods.
+- **Origem:** duas fotos oficiais da loja, lidas em 12/11/2026: o prato de sopa visto de cima na capa e a embalagem do Pack Sopa da Vovó no corpo. Sem IA.
+
+## Revisão externa (Farol, 12/11/2026)
+
+Aplicado depois de conferir os fatos: instrução neutra de remover um código já aplicado antes de digitar o EMCASA, sem citar a campanha; conferência pelo aviso de EMCASA adicionado e pelo desconto, em vez do nome de uma linha; título do capítulo sem "por cima". Não aplicado: tirar o print do código de outro pedido (decisão do Bruno de 12/11: o print da página de cupom entra em todo artigo da série).

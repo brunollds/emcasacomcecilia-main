@@ -216346,5 +216346,781 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 920,
+    "slug": "cupom-dolce-gusto-primeira-compra",
+    "title": "Cupom Dolce Gusto primeira compra: CECI dá 10% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom Dolce Gusto primeira compra: 10% OFF com CECI",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O CECI dá 10% nos produtos elegíveis da Dolce Gusto, em compras a partir de R$ 100, no primeiro pedido e nos seguintes. Veja o exemplo com caixas em promoção.",
+    "metaDescription": "CECI dá 10% OFF em produtos elegíveis da Dolce Gusto, em compras a partir de R$ 100 no site ou no app. Vale na primeira compra e nas seguintes.",
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-capa.webp",
+    "imageAlt": "Duas cápsulas de Cappuccino Nescafé Dolce Gusto, em foto oficial, ao lado da chamada Cupom Dolce Gusto primeira compra e do código CECI.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre na loja oficial da Dolce Gusto pelo botão, monte um carrinho a partir de R$ 100 e digite CECI no campo de cupom.",
+      "label": "Ir para a Dolce Gusto",
+      "url": "https://www.nescafe-dolcegusto.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "dolce-gusto",
+    "editorialNote": "Cupom testado no carrinho da loja oficial da Dolce Gusto. Podemos receber comissão pelo CECI.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
+      },
+      {
+        "slug": "dolce-gusto-e-confiavel"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na Dolce Gusto, use CECI: 10% OFF em produtos elegíveis, em compras a partir de 100 reais, no site ou no aplicativo oficiais. O desconto entra também em caixas em promoção, e o mesmo percentual vale para quem já comprou. Abaixo de 100 reais, a loja recusa o código."
+        ]
+      },
+      {
+        "heading": "Cupom Dolce Gusto primeira compra: qual usar",
+        "paragraphs": [
+          "Use o CECI: 10% OFF nos produtos elegíveis da loja oficial, em compras a partir de R$ 100 no site ou no aplicativo. Ele vale no primeiro pedido e nos seguintes, com o mesmo mínimo.",
+          "É o [cupom Dolce Gusto](/cupons/dolce-gusto) da nossa parceria com a marca, testado no carrinho. O resumo do pedido mostra o desconto antes do pagamento."
+        ]
+      },
+      {
+        "heading": "O que o primeiro pedido exige",
+        "paragraphs": [
+          "Além do mínimo do carrinho, confira se o produto escolhido aceita o código e como fica o frete:"
+        ],
+        "bullets": [
+          "**Carrinho a partir de R$ 100.** Abaixo disso, a loja recusa o código. Num pedido pequeno, vale juntar mais caixas antes de aplicar.",
+          "**Site ou aplicativo.** O código vale na loja oficial e no aplicativo Nescafé Dolce Gusto, do mesmo jeito.",
+          "**Máquinas.** O CECI pode ser aceito, conforme o produto e a campanha. Confira no checkout se o desconto foi aplicado.",
+          "**Frete à parte.** O desconto entra nos produtos, não no frete, que segue a regra da loja."
+        ],
+        "postParagraphs": [
+          "Carrinho perto dos R$ 100? Aplique o código e veja se a linha do desconto aparece antes de seguir para o pagamento."
+        ]
+      },
+      {
+        "heading": "Sete caixas em promoção: a conta com o CECI",
+        "paragraphs": [
+          "O CECI entra sobre o preço promocional das caixas. No teste do cupom de 11/11/2026, registrado na nossa página de cupom, sete caixas de Cappuccino, de R$ 25,90 por R$ 15,90 cada, ficaram assim:"
+        ],
+        "comparisonTable": {
+          "caption": "Sete caixas de Cappuccino em promoção: valores do teste no carrinho, antes do frete.",
+          "headers": [
+            "Etapa",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Sete caixas, no preço promocional",
+              "R$ 111,30"
+            ],
+            [
+              "Desconto do CECI",
+              "- R$ 11,13"
+            ],
+            [
+              "Total com o código",
+              "R$ 100,17"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Conta nossa: com seis caixas, esse carrinho somaria R$ 95,40 e ficaria abaixo do mínimo do código. Se a loja oferecer desconto no Pix, ele soma com o CECI; confira o total antes de pagar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-caixa-cappuccino.webp",
+            "alt": "Caixa de Cappuccino Nescafé Dolce Gusto com 10 cápsulas, em foto oficial de frente.",
+            "caption": "Caixa de Cappuccino, o sabor incluído no carrinho do teste do cupom. Foto: Nescafé Dolce Gusto.",
+            "objectFit": "square",
+            "href": "https://www.nescafe-dolcegusto.com.br/sabores/cappuccino-capsulas-10"
+          }
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "O CECI vale de novo para quem já comprou, com os mesmos 10% e o mesmo mínimo de R$ 100 no carrinho. Serve para repor as cápsulas quando a caixa acabar."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "O código vai no carrinho, antes do pagamento:"
+        ],
+        "bullets": [
+          "Monte o carrinho na loja oficial ou no aplicativo, com R$ 100 ou mais em produtos.",
+          "No campo de cupom, digite CECI e aplique.",
+          "Confira a linha do desconto e o frete no resumo antes de pagar."
+        ],
+        "postParagraphs": [
+          "O passo a passo com as telas está em [como usar o cupom CECI](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar)."
+        ],
+        "image": "/images/reviews/dolcegusto/cupom-dolce-gusto-carrinho-com-cupom.webp",
+        "imageAlt": "Carrinho da NESCAFÉ Dolce Gusto com o código CECI aplicado e, no resumo do pedido, a linha Você ganhou 10% OFF.",
+        "imageCaption": "O CECI aplicado no carrinho da Dolce Gusto, em outro pedido de teste: o resumo mostra a linha dos 10%.",
+        "imageAspectRatio": 1.263,
+        "imageFit": "contain"
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Dolce Gusto de primeira compra? Sim. O CECI dá 10% nos produtos elegíveis, em compras a partir de R$ 100, no primeiro pedido e nos seguintes.",
+          "Qual cupom Dolce Gusto vale para quem já é cliente? O mesmo CECI: 10% nos produtos elegíveis, em compras a partir de R$ 100.",
+          "O CECI vale em máquinas Dolce Gusto? Pode funcionar, conforme o produto e a campanha. Confira no checkout se o CECI foi aceito e se o desconto apareceu.",
+          "O cupom Dolce Gusto dá frete grátis? O CECI não desconta o frete. Confira o valor da entrega no carrinho."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 921,
+    "slug": "cupom-max-titanium-primeira-compra",
+    "title": "Cupom Max Titanium primeira compra: MAX10EMCASACOMCECILIA dá até 10% OFF e vale nas compras seguintes",
+    "seoTitle": "Max Titanium primeira compra: MAX10EMCASACOMCECILIA até 10%",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O MAX10EMCASACOMCECILIA dá até 10% na Max Titanium no primeiro pedido e nos seguintes. Veja quanto o cupom descontou em dois produtos e o que conferir no frete.",
+    "metaDescription": "Para a primeira compra na Max Titanium, use MAX10EMCASACOMCECILIA: até 10% OFF, conforme o produto. O mesmo código vale para quem já comprou.",
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-capa.webp",
+    "imageAlt": "Pote do Top Whey 3W Mais Sabor da Max Titanium, 900 g, sabor brigadeiro, em foto oficial de frente, ao lado da chamada Cupom Max Titanium primeira compra e do código MAX10EMCASACOMCECILIA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Max Titanium pelo botão e digite MAX10EMCASACOMCECILIA no campo Cupom de Desconto do carrinho.",
+      "label": "Ir para a Max Titanium",
+      "url": "https://www.maxtitanium.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAX10EMCASACOMCECILIA",
+    "affiliate": "max-titanium",
+    "editorialNote": "Cupom testado no carrinho oficial da Max Titanium. Podemos receber comissão pelo MAX10EMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-max-titanium-como-usar"
+      },
+      {
+        "slug": "max-titanium-e-confiavel"
+      },
+      {
+        "slug": "max-titanium-reclame-aqui-nota-reputacao"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na Max Titanium, use MAX10EMCASACOMCECILIA: até 10% OFF no site oficial e no aplicativo, com todas as formas de pagamento. O percentual varia por produto, e o carrinho mostra quanto cada item recebeu. O mesmo código vale para quem já comprou e soma com as promoções do site."
+        ]
+      },
+      {
+        "heading": "Cupom Max Titanium primeira compra: qual usar",
+        "paragraphs": [
+          "Use o MAX10EMCASACOMCECILIA: até 10% OFF no site oficial. O desconto é por produto, com teto de 10%, e vale no primeiro pedido e nos seguintes.",
+          "É o [cupom Max Titanium](/cupons/max-titanium) da nossa parceria com a marca, testado no carrinho. A linha “Descontos” do resumo mostra o valor aplicado."
+        ]
+      },
+      {
+        "heading": "O que o primeiro pedido exige",
+        "paragraphs": [
+          "Para o primeiro pedido, confira onde o código vale, quanto ele tira e como fica a entrega:"
+        ],
+        "bullets": [
+          "**Site ou aplicativo.** O código vale no site oficial e no aplicativo Max Titanium Suplementos, no campo de cupom. No Mercado Livre ele não vale.",
+          "**Percentual por produto.** Alguns itens recebem perto dos 10%, outros bem menos. O carrinho mostra o desconto de cada um.",
+          "**Frete grátis com valor mínimo.** A loja dá frete grátis a partir de um valor que muda por região, e o desconto pode deixar o pedido abaixo dele."
+        ],
+        "postParagraphs": [
+          "Aplique o código, informe seu CEP e confira o frete de novo antes de pagar."
+        ]
+      },
+      {
+        "heading": "Quanto o cupom descontou em dois wheys",
+        "paragraphs": [
+          "No teste do cupom de 11/11/2026, registrado na nossa página de cupom, o MAX10EMCASACOMCECILIA entrou num Top Whey 3W Mais Sabor de 900 g que já estava em promoção:"
+        ],
+        "comparisonTable": {
+          "caption": "Top Whey 3W Mais Sabor de 900 g: valores do teste no carrinho, antes do Pix e do frete.",
+          "headers": [
+            "Etapa",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Preço do whey",
+              "R$ 273,55"
+            ],
+            [
+              "Na promoção do site",
+              "R$ 189,00"
+            ],
+            [
+              "Desconto do código",
+              "- R$ 16,75"
+            ],
+            [
+              "Total com o código",
+              "R$ 172,25"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Pelos valores do teste, o código tirou cerca de 9% do preço promocional do Top Whey. Num IsoWhey de 900 g a preço cheio, no mesmo teste, o desconto ficou em 2%. Os dois resultados mostram por que a oferta é de até 10%.",
+          "A loja anuncia até 5% de desconto no Pix. Esse desconto soma com o código; escolha o Pix no pagamento e confira o total."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-top-whey-3w-sabor.webp",
+            "alt": "Pote do Top Whey 3W Mais Sabor da Max Titanium, 900 g, sabor brigadeiro, em foto oficial de frente.",
+            "caption": "Top Whey 3W Mais Sabor de 900 g incluído no teste do cupom no carrinho. Foto: Max Titanium.",
+            "objectFit": "square",
+            "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p"
+          }
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "O MAX10EMCASACOMCECILIA vale de novo para quem já comprou, com o mesmo teto de 10%. O percentual segue dependendo do produto, na reposição do whey ou em outro item."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "O código vai no carrinho, antes de continuar para o pagamento:"
+        ],
+        "bullets": [
+          "Coloque os produtos no carrinho do site oficial ou do aplicativo.",
+          "No campo “Cupom de Desconto”, digite MAX10EMCASACOMCECILIA, sem espaços, e aplique.",
+          "Confira a linha “Descontos” e o frete do seu CEP antes de pagar."
+        ],
+        "postParagraphs": [
+          "O passo a passo com as telas está em [como usar o cupom MAX10EMCASACOMCECILIA](/reviews/cupom-max-titanium-como-usar)."
+        ],
+        "image": "/images/reviews/max-titanium/max-titanium-cupom-03-desconto-aplicado.webp",
+        "imageAlt": "Carrinho da Max Titanium depois do cupom, com o código no resumo e no item, a linha Descontos de menos R$ 16,75 e o total de R$ 172,25.",
+        "imageCaption": "MAX10EMCASACOMCECILIA aplicado no carrinho: a captura mostra o mesmo pedido da tabela.",
+        "imageFit": "contain",
+        "imageAspectRatio": 2.676
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Max Titanium de primeira compra? Sim. O MAX10EMCASACOMCECILIA dá até 10%, conforme o produto, no primeiro pedido e nos seguintes.",
+          "Qual cupom Max Titanium vale para quem já é cliente? O mesmo MAX10EMCASACOMCECILIA, com o mesmo teto de 10%.",
+          "Quanto de desconto o cupom Max Titanium dá? Até 10%. O percentual varia por produto, e o carrinho mostra o desconto de cada item.",
+          "O cupom Max Titanium vale no aplicativo? Sim, no aplicativo Max Titanium Suplementos.",
+          "O cupom Max Titanium vale no Mercado Livre? Não. Pelo Mercado Livre, vale o preço do anúncio."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 922,
+    "slug": "cupom-dr-peanut-primeira-compra",
+    "title": "Cupom Dr. Peanut primeira compra: DREMCASACOMCECILIA dá 10% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom Dr. Peanut primeira compra: 10% com DREMCASACOMCECILIA",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O DREMCASACOMCECILIA dá 10% em todo o site da Dr. Peanut no primeiro pedido e nos seguintes. Veja como o mínimo do frete grátis entra na conta depois do desconto.",
+    "metaDescription": "DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut na primeira compra. O mesmo código vale para quem já comprou e soma com as promoções.",
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-capa.webp",
+    "imageAlt": "Pote aberto de pasta de amendoim sabor avelã da Dr. Peanut, com uma colher, em foto oficial, ao lado da chamada Cupom Dr. Peanut primeira compra e do código DREMCASACOMCECILIA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site da Dr. Peanut pelo botão e digite DREMCASACOMCECILIA no campo Código do carrinho.",
+      "label": "Ir para a Dr. Peanut",
+      "url": "https://www.drpeanut.com.br/",
+      "sponsored": true
+    },
+    "coupon": "DREMCASACOMCECILIA",
+    "affiliate": "dr-peanut",
+    "editorialNote": "Cupom testado no carrinho oficial da Dr. Peanut. Podemos receber comissão pelo DREMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-dr-peanut-como-usar"
+      },
+      {
+        "slug": "dr-peanut-e-confiavel"
+      },
+      {
+        "slug": "dr-peanut-qual-tamanho-compensa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na Dr. Peanut, use DREMCASACOMCECILIA: 10% OFF em todo o site oficial, com todas as formas de pagamento. O código soma com as promoções e vale de novo para quem já comprou. Ele não vale no Mercado Livre, e o mínimo do frete grátis conta depois do desconto."
+        ]
+      },
+      {
+        "heading": "Cupom Dr. Peanut primeira compra: qual usar",
+        "paragraphs": [
+          "Use o DREMCASACOMCECILIA: 10% OFF em todos os produtos do site oficial, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
+          "É o [cupom Dr. Peanut](/cupons/dr-peanut) da nossa parceria com a marca, testado no carrinho. Pasta, wafer ou kit: o código é o mesmo."
+        ]
+      },
+      {
+        "heading": "O que o primeiro pedido exige",
+        "paragraphs": [
+          "O código não muda de um produto para outro. O que pede atenção no primeiro pedido é o frete:"
+        ],
+        "bullets": [
+          "**Frete grátis por região.** A loja informa: a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 no Centro-Oeste, no Norte e no Nordeste.",
+          "**O mínimo conta depois do desconto.** Se o código deixar o pedido abaixo do valor da sua região, o frete é cobrado.",
+          "**Só no site oficial.** A Dr. Peanut não tem aplicativo, e o código não vale no Mercado Livre."
+        ],
+        "postParagraphs": [
+          "Pedido perto do mínimo? Aplique o código, informe o CEP e olhe o frete de novo antes de pagar."
+        ]
+      },
+      {
+        "heading": "Seis pastas e o frete grátis: o que o código mudou",
+        "paragraphs": [
+          "No teste do cupom de 12/11/2026, registrado na nossa página de cupom, o DREMCASACOMCECILIA entrou num carrinho com seis pastas de amendoim em promoção, com entrega em São Paulo:"
+        ],
+        "comparisonTable": {
+          "caption": "Seis pastas em promoção, com entrega em São Paulo: produtos e frete observados no carrinho. A última coluna é a soma calculada desses valores.",
+          "headers": [
+            "Etapa",
+            "Produtos",
+            "Frete",
+            "Produtos + frete"
+          ],
+          "rows": [
+            [
+              "Sem o código",
+              "R$ 155,34",
+              "Grátis",
+              "R$ 155,34"
+            ],
+            [
+              "Com o DREMCASACOMCECILIA",
+              "R$ 139,80",
+              "R$ 12,23",
+              "R$ 152,03"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com a volta da cobrança do frete, a economia final nesse pedido foi de R$ 3,31. O cupom reduziu o preço das pastas, mas o pedido deixou de atingir o mínimo para entrega grátis.",
+          "Se já pretendia levar outro item, simule o pedido completo e compare o total com o frete. Considere quanto vai pagar pelo item extra antes de aumentar a compra para alcançar a isenção."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-pasta-avela-250g.webp",
+            "alt": "Pote de 250 g da pasta de amendoim sabor avelã da Dr. Peanut, em foto oficial de frente.",
+            "caption": "Pasta de amendoim sabor avelã de 250 g, um dos sabores da loja. Foto: Dr. Peanut.",
+            "objectFit": "square",
+            "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p"
+          }
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "O DREMCASACOMCECILIA vale de novo para quem já comprou, com os mesmos 10%. Na assinatura de pastas da loja, o código também entra e soma com o desconto progressivo."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "O código vai no carrinho do site oficial, que abre também no navegador do celular:"
+        ],
+        "bullets": [
+          "Coloque os produtos no carrinho.",
+          "No campo “Código”, digite DREMCASACOMCECILIA e clique em “Adicionar”.",
+          "Confira a linha “Descontos” e o frete do seu CEP antes de pagar."
+        ],
+        "postParagraphs": [
+          "O passo a passo com as telas está em [como usar o cupom DREMCASACOMCECILIA](/reviews/cupom-dr-peanut-como-usar)."
+        ],
+        "image": "/images/reviews/dr-peanut/dr-peanut-cupom-03-desconto-aplicado.webp",
+        "imageAlt": "Resumo do carrinho da Dr. Peanut depois do cupom: código DREMCASACOMCECILIA aceito, Subtotal de R$ 440,16, Descontos de R$ 44,02 e Total de R$ 396,14.",
+        "imageCaption": "O código aplicado no carrinho da Dr. Peanut, em outro pedido de teste: os 10% aparecem na linha “Descontos”.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.042
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Dr. Peanut de primeira compra? Sim. O DREMCASACOMCECILIA dá 10% em todo o site oficial, no primeiro pedido e nos seguintes.",
+          "Qual cupom Dr. Peanut vale para quem já é cliente? O mesmo DREMCASACOMCECILIA, com os mesmos 10%.",
+          "O cupom Dr. Peanut soma com produto em promoção? Sim. Os 10% entram sobre o preço promocional.",
+          "O cupom Dr. Peanut vale no Mercado Livre? Não. Ele vale no site oficial da Dr. Peanut.",
+          "Quanto é o frete grátis da Dr. Peanut? A partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas outras regiões, pela regra da loja. O mínimo conta depois do desconto do código."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 923,
+    "slug": "cupom-belive-primeira-compra",
+    "title": "Cupom Belive primeira compra: MAUAD dá 10% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom Belive primeira compra: 10% OFF com MAUAD",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O MAUAD dá 10% em todo o site da Belive no primeiro pedido e nos seguintes, inclusive em combos e kits. Veja como ele soma com o Pix e como o frete grátis muda por região.",
+    "metaDescription": "MAUAD dá 10% OFF em todo o site da Belive na primeira compra. O mesmo código vale para quem já comprou e soma com as ofertas e com os 5% do Pix.",
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/belive/cupom-belive-primeira-compra-capa.webp",
+    "imageAlt": "Mão segurando dois pãezinhos de batata da Belive sobre as embalagens, em foto oficial, ao lado da chamada Cupom Belive primeira compra.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Abra o site oficial da Belive pelo botão e digite MAUAD em Código do cupom, no carrinho.",
+      "label": "Ir para a Belive",
+      "url": "https://belivebefree.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "belive",
+    "editorialNote": "Cupom testado no carrinho oficial da Belive. Podemos receber comissão pelo MAUAD.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-belive-como-usar"
+      },
+      {
+        "slug": "belive-e-confiavel"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na Belive, use MAUAD: 10% OFF em todo o site oficial, combos e kits inclusos, com todas as formas de pagamento. O código soma com as ofertas e com os 5% do Pix, e vale de novo para quem já comprou. Ele não vale no Mercado Livre; o frete grátis depende da região."
+        ]
+      },
+      {
+        "heading": "Cupom Belive primeira compra: qual usar",
+        "paragraphs": [
+          "Use o MAUAD: 10% OFF em todos os produtos do site oficial, inclusive combos e kits. Ele vale no primeiro pedido e nos seguintes.",
+          "É o [cupom Belive](/cupons/belive) da nossa parceria com a marca, testado no carrinho. Pão, doce ou snack: o código é o mesmo."
+        ]
+      },
+      {
+        "heading": "O que o primeiro pedido exige",
+        "paragraphs": [
+          "O código entra em qualquer produto. O que muda de um pedido para outro é o frete, que a loja libera por região:"
+        ],
+        "comparisonTable": {
+          "caption": "Frete grátis da Belive por região, pelas regras de frete da loja.",
+          "headers": [
+            "Região",
+            "Frete grátis em compras acima de"
+          ],
+          "rows": [
+            [
+              "SP, MG, RJ, DF e GO",
+              "R$ 170"
+            ],
+            [
+              "Sul",
+              "R$ 250"
+            ],
+            [
+              "Demais estados",
+              "R$ 300"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Abaixo desses valores, o frete é calculado no checkout. A compra é pelo site oficial: a Belive não tem aplicativo, e o código não vale no Mercado Livre.",
+          "Pedido perto do valor da sua região? Aplique o código, informe o CEP e confira no resumo se há cobrança de frete."
+        ]
+      },
+      {
+        "heading": "Combo em oferta: quanto fica com o MAUAD",
+        "paragraphs": [
+          "O MAUAD entra sobre o preço da oferta. No teste do cupom de 11/11/2026, registrado na nossa página de cupom, um combo de seis pacotes de pão de batata ficou assim:"
+        ],
+        "comparisonTable": {
+          "caption": "Combo de seis pacotes de pão de batata: valores do teste no carrinho, antes do Pix e do frete.",
+          "headers": [
+            "Etapa",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Preço do combo",
+              "R$ 125,40"
+            ],
+            [
+              "Na oferta do site",
+              "R$ 106,59"
+            ],
+            [
+              "Desconto do MAUAD",
+              "- R$ 10,66"
+            ],
+            [
+              "Total com o código",
+              "R$ 95,93"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os 10% saíram do preço da oferta. No Pix, a loja ainda dá 5% de desconto, que somam com o código: escolha o Pix no pagamento e confira o total."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/belive/cupom-belive-primeira-compra-pao-de-batata.webp",
+            "alt": "Pacote de 198 g do Pãozinho de Batata sem glúten da Belive, em foto oficial de frente.",
+            "caption": "Pãozinho de Batata de 198 g: o combo incluído no teste do cupom leva seis pacotes. Foto: Belive.",
+            "objectFit": "square",
+            "href": "https://belivebefree.com.br/produto/combo-pao-de-batata-sem-gluten-sem-leite-sem-lactose-belive-6-pacotes-2/"
+          }
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "O MAUAD vale de novo para quem já comprou, com os mesmos 10% e as mesmas regras. Serve para repor o pão ou montar outro combo no pedido seguinte."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "O código vai no carrinho do site oficial:"
+        ],
+        "bullets": [
+          "Coloque os produtos no carrinho.",
+          "No campo “Código do cupom”, digite MAUAD e clique em “Aplicar cupom”.",
+          "Confira os 10% no resumo e o frete antes de pagar."
+        ],
+        "postParagraphs": [
+          "O passo a passo com as telas está em [como usar o cupom MAUAD](/reviews/cupom-belive-como-usar)."
+        ],
+        "image": "/images/reviews/belive/cupom-belive-resumo-desconto.webp",
+        "imageAlt": "Resumo do pedido da Belive depois do cupom, com o desconto de R$ 57,68, o total de R$ 519,14 e o total no Pix de R$ 493,18 marcados em amarelo.",
+        "imageCaption": "O código aplicado no resumo do pedido da Belive, em outro carrinho de teste, com o total no Pix logo abaixo. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.24
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Belive de primeira compra? Sim. O MAUAD dá 10% em todo o site oficial, no primeiro pedido e nos seguintes.",
+          "Qual cupom Belive vale para quem já é cliente? O mesmo MAUAD, com os mesmos 10%.",
+          "O cupom Belive soma com o Pix? Sim, com os 5% de desconto que a loja dá no Pix.",
+          "O cupom Belive vale no Mercado Livre? Não. Ele vale no site oficial da Belive.",
+          "A Belive tem frete grátis? Sim: em compras acima de R$ 170 em SP, MG, RJ, DF e GO; de R$ 250 no Sul; e de R$ 300 nos demais estados. Abaixo desses valores, o frete é calculado no checkout."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 924,
+    "slug": "cupom-holyfoods-primeira-compra",
+    "title": "Cupom HolyFoods primeira compra: EMCASA dá 15% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom HolyFoods primeira compra: 15% OFF com EMCASA",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O EMCASA dá 15% em todo o site da HolyFoods no primeiro pedido e nos seguintes, inclusive nos produtos já em promoção. Veja em que tela o código entra e a conta do teste.",
+    "metaDescription": "EMCASA dá 15% OFF em todo o site da HolyFoods na primeira compra, inclusive em produtos já em promoção. O mesmo código vale para quem já comprou.",
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-capa.webp",
+    "imageAlt": "Prato de sopa da HolyFoods visto de cima, em foto oficial, ao lado da chamada Cupom HolyFoods primeira compra e do código EMCASA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da HolyFoods pelo botão e, na tela Finalizar compra, digite EMCASA. O link não aplica o código sozinho.",
+      "label": "Ir para a HolyFoods",
+      "url": "https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "EMCASA",
+    "affiliate": "holyfoods",
+    "editorialNote": "Cupom testado no checkout oficial da HolyFoods. Podemos receber comissão pelo EMCASA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-holyfoods-como-usar"
+      },
+      {
+        "slug": "holyfoods-e-confiavel"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na HolyFoods, use EMCASA: 15% OFF em todo o site oficial, inclusive em avulsos e kits em promoção. O mesmo código vale para quem já comprou, com todas as formas de pagamento. Aplique na tela “Finalizar compra”, no campo de cupom; o campo “Cartão-presente” não aceita EMCASA."
+        ]
+      },
+      {
+        "heading": "Cupom HolyFoods primeira compra: qual usar",
+        "paragraphs": [
+          "Use o EMCASA: 15% OFF em todos os produtos do site oficial, avulsos e kits, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
+          "É o [cupom HolyFoods](/cupons/holyfoods) da nossa parceria com a marca, testado no checkout. Sopa, macarrão ou risoto: o código é o mesmo."
+        ]
+      },
+      {
+        "heading": "O que o primeiro pedido exige",
+        "paragraphs": [
+          "Na HolyFoods, o cuidado do primeiro pedido é com a tela e o campo em que o código entra:"
+        ],
+        "bullets": [
+          "**Na tela “Finalizar compra”.** É nela que o campo do cupom aparece. O botão desta página abre a loja sem aplicar o código.",
+          "**Campo certo.** Clique em “Inserir cupom de desconto”. O campo “Cartão-presente” não aceita o código.",
+          "**Frete grátis por estado.** O valor mínimo muda conforme o estado, e o carrinho mostra quanto falta para o seu.",
+          "**Só no site oficial.** O código não vale no Mercado Livre."
+        ],
+        "postParagraphs": [
+          "Antes de pagar, confira no resumo se o EMCASA foi adicionado e se o desconto apareceu."
+        ]
+      },
+      {
+        "heading": "Sopas em promoção: preço com o EMCASA",
+        "paragraphs": [
+          "O EMCASA entra sobre o preço que a loja já baixou. No teste do cupom de 05/11/2026, registrado na nossa página de cupom, um Pack Sopa da Vovó e duas Sopas Detox, os três com desconto da loja, ficaram assim:"
+        ],
+        "comparisonTable": {
+          "caption": "Pack Sopa da Vovó e duas Sopas Detox com desconto da loja: valores do teste no checkout, antes do frete.",
+          "headers": [
+            "Etapa",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Carrinho, com o desconto da loja",
+              "R$ 69,79"
+            ],
+            [
+              "Desconto do EMCASA",
+              "- R$ 10,47"
+            ],
+            [
+              "Total com o código",
+              "R$ 59,32"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os 15% saíram inteiros do preço promocional. O código vale com todas as formas de pagamento; se a loja oferecer desconto no Pix, ele soma com o EMCASA. Confira o total antes de pagar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-pack-sopa-da-vovo.webp",
+            "alt": "Embalagem amarela do Pack Sopa da Vovó da HolyFoods, com 10 porções, em foto oficial de frente.",
+            "caption": "Pack Sopa da Vovó incluído no teste do cupom no checkout. Foto: HolyFoods.",
+            "objectFit": "square",
+            "href": "https://www.holyfoods.com.br/products/pack-sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "O EMCASA vale de novo para quem já comprou, com os mesmos 15%. Serve para repor a sopa preferida ou provar outro sabor no pedido seguinte."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "Aplique o EMCASA na tela “Finalizar compra”:"
+        ],
+        "bullets": [
+          "Coloque os produtos no carrinho do site oficial e siga até a tela “Finalizar compra”.",
+          "Clique em “Inserir cupom de desconto”. Se já houver outro código aplicado, remova-o; no campo “Código do cupom”, digite EMCASA e clique em “Adicionar”.",
+          "Confira no resumo se o EMCASA foi adicionado e se o desconto apareceu antes de pagar."
+        ],
+        "postParagraphs": [
+          "O passo a passo com as telas está em [como usar o cupom EMCASA](/reviews/cupom-holyfoods-como-usar)."
+        ],
+        "image": "/images/reviews/holyfoods/cupom-holyfoods-checkout-com-cupom.webp",
+        "imageAlt": "Resumo da compra na HolyFoods com a linha Descontos e o aviso Cupom EMCASA adicionado.",
+        "imageCaption": "O EMCASA aplicado no resumo da compra da HolyFoods, em outro pedido de teste. Os valores mudam conforme o seu pedido.",
+        "imageAspectRatio": 1.341,
+        "imageFit": "contain"
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom HolyFoods de primeira compra? Sim. O EMCASA dá 15% em todo o site oficial, no primeiro pedido e nos seguintes.",
+          "Qual cupom HolyFoods vale para quem já é cliente? O mesmo EMCASA, com os mesmos 15%.",
+          "O cupom HolyFoods soma com produto em promoção? Sim. Os 15% entram sobre o preço que a loja já baixou.",
+          "O cupom HolyFoods vale no Mercado Livre? Não. Ele vale no site oficial da HolyFoods.",
+          "Onde colar o cupom na HolyFoods? Na tela “Finalizar compra”, em “Inserir cupom de desconto”."
+        ]
+      }
+    ]
   }
 ];

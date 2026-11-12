@@ -7,9 +7,9 @@ parceiro_slug: "max-titanium"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador; redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PC-MAX"
@@ -179,3 +179,33 @@ para a loja (sponsored).
 | Definição de cliente novo | não publicada | sem fonte: não escrever |
 | Limite de usos ou teto do código | `reusable: 'Conforme regras da loja'` | sem fonte: não escrever |
 | Cupom de 20% ou 30% de agregador | FAQ da própria página (não testamos) | não citar |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- Página do Top Whey 3W Mais Sabor 900 g, no navegador: preço de R$ 273,55 e R$ 183,33 à vista no Pix; a página não mostra o preço do carrinho, mas o valor no Pix é coerente com os R$ 189,00 do teste. A conta do `testNote` entrou sem mudança.
+- Faixa do site: "Pix e boleto com até 5% OFF". Entrou como "a loja anuncia até 5%".
+- Frete: nenhum valor de mínimo por região no texto.
+- Search Console: CSV da linha de base com o Bruno.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-max-titanium-primeira-compra.json` (id 921), no esqueleto do briefing. Resposta rápida com 52 palavras. A data do teste (11/11/2026) fica na prosa do capítulo da conta, e a legenda da tabela diz o que os valores não incluem, como a revisão externa do lote 2 pediu. "Conta nossa" para o cerca de 9% do Top Whey e os 2% do IsoWhey. O print do carrinho é o mesmo pedido da tabela.
+
+## Revisão (Job 3, 12/11/2026)
+
+1 a 10: passou. Sem benefício da própria loja, sem código de terceiros, sem "exclusivo", "maior" ou "melhor". Sempre "até 10%"; sem brindes do carrinho, Elite Member e fidelidade; sem promessa de resultado.
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data no corpo (a do teste, na prosa). C3, C4, C5: 0.
+- C6: os valores da tabela não voltam na prosa nem no FAQ. C7: sem capítulo de método. C8: a foto do produto está no capítulo da conta, com o link de afiliado no `href`.
+- C9: cada rótulo no máximo uma vez. C12: a primeira frase de cada capítulo decide. C14: "E na segunda compra?" vem do molde da série.
+- Leitura em voz alta: soa como pessoa ajudando.
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da loja, a chamada e o MAX10EMCASACOMCECILIA. Alt: Pote do Top Whey 3W Mais Sabor da Max Titanium, 900 g, sabor brigadeiro, em foto oficial de frente, ao lado da chamada Cupom Max Titanium primeira compra e do código MAX10EMCASACOMCECILIA.
+- **Por que o desconto muda de um whey para outro:** `/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-top-whey-3w-sabor.webp` (quadrada, `href` com o link de afiliado do produto). Alt: Pote do Top Whey 3W Mais Sabor da Max Titanium, 900 g, sabor brigadeiro, em foto oficial de frente. Legenda: Top Whey 3W Mais Sabor de 900 g incluído no teste do cupom no carrinho. Foto: Max Titanium.
+- **Origem:** foto oficial do pote do Top Whey 3W Mais Sabor 900 g (brigadeiro), lida em 12/11/2026, na capa e no corpo. As outras fotos da galeria trazem chamadas publicitárias da loja e ficaram de fora. Sem IA.
+
+## Revisão externa (Farol, 12/11/2026)
+
+Aplicado depois de conferir os fatos: título e subtítulo anunciam quanto o cupom descontou em dois wheys, sem prometer a causa; a soma ficou restrita ao Pix (o boleto saiu).
