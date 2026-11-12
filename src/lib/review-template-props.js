@@ -57,7 +57,8 @@ export function resolveRelatedArticleLinks(review, reviewCorpus = publishedRevie
 
 export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews) {
   const canonicalRating = review.rating ?? review.verdict?.stars;
-  const isProductReview = review.reviewKind === 'produto' || typeof canonicalRating === 'number';
+  // Review só com nota: sem reviewRating e itemReviewed o Google recusa o Review, e o artigo sai como Article.
+  const hasRating = typeof canonicalRating === 'number';
   const youtubeEmbedUrl = getYoutubeEmbedUrl(review.youtubeUrl);
   const relatedArticleLinks = resolveRelatedArticleLinks(review, reviewCorpus);
   const viewModel = normalizeReview(review);
@@ -115,7 +116,7 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
 
   const jsonLd = {
     '@context': 'https://schema.org',
-    '@type': isProductReview ? 'Review' : 'Article',
+    '@type': hasRating ? 'Review' : 'Article',
     name: review.title,
     headline: review.title,
     description: review.description,
@@ -135,7 +136,7 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
     },
     image: review.image ? new URL(resolveMediaUrl(review.image), baseUrl).toString() : undefined,
     ...(videoJsonLd && { video: videoJsonLd }),
-    ...(isProductReview && typeof canonicalRating === 'number'
+    ...(hasRating
       ? {
           reviewRating: {
             '@type': 'Rating',
