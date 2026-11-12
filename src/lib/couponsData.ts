@@ -402,10 +402,10 @@ const STORE_COUPONS: Coupon[] = [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço promocional, inclusive em produtos que já estão em promoção' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
     ],
-    lastVerified: '2026-11-11',
-    testedAt: '2026-11-11',
+    lastVerified: '2026-11-12',
+    testedAt: '2026-11-12',
     testNote:
-      'Num carrinho de sete caixas de Cappuccino em promoção, de R$ 25,90 por R$ 15,90 cada, o CECI tirou R$ 11,13 dos R$ 111,30, os 10%, e o total caiu para R$ 100,17. Em 26/10/2026, com o carrinho abaixo de R$ 100, a loja recusou o cupom.',
+      'Num carrinho de sete caixas de Espresso Intenso, de R$ 19,99 cada, o CECI tirou R$ 13,99 dos R$ 139,93, os 10%, e o total caiu para R$ 125,94. Em 11/11/2026, em sete caixas de Cappuccino em promoção, de R$ 25,90 por R$ 15,90 cada, o CECI tirou R$ 11,13 dos R$ 111,30. Em 26/10/2026, com o carrinho abaixo de R$ 100, a loja recusou o cupom.',
     aboutBrand:
       'A Nescafé Dolce Gusto é uma linha de cafés e bebidas em cápsulas da Nestlé, com máquinas e sabores pensados para preparo rápido em casa. A marca combina praticidade com variedade: cafés intensos, bebidas com leite, cappuccinos, chocolates e opções geladas aparecem no catálogo da loja oficial. O cupom CECI entra como benefício para quem acompanha a Cecília e quer economizar em compras na loja oficial. Como em toda parceria comercial, a recomendação deve ser conferida no checkout: o desconto aparece antes da finalização quando a regra da campanha permite.',
     faqs: [
@@ -2636,10 +2636,10 @@ const STORE_COUPONS: Coupon[] = [
       { benefit: 'promocoes', stacks: 'depende', condition: 'Entra sobre o preço promocional; na Black VIP, a loja não soma o cupom de influenciadora com a escada de desconto' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
     ],
-    lastVerified: '2026-11-11',
-    testedAt: '2026-11-11',
+    lastVerified: '2026-11-12',
+    testedAt: '2026-11-12',
     testNote:
-      'Aplicamos o MAUAD num Sutiã Comfort Up em promoção, de R$ 199,90 por R$ 170,91, e o total caiu para R$ 145,28, com R$ 25,63 de desconto: os 15% entraram sobre o preço promocional. Num sutiã da Black VIP, o checkout não aplicou o cupom e avisou que o cupom de influenciadora não soma com a escada de desconto. Em 26/10/2026, o MAUAD dava 10%.',
+      'Aplicamos o MAUAD numa Fita Up de R$ 116,90: o cupom tirou R$ 17,53 e o total caiu para R$ 99,37, os 15%. Em 11/11/2026, num Sutiã Comfort Up em promoção, de R$ 199,90 por R$ 170,91, o total caiu para R$ 145,28, com R$ 25,63 de desconto: os 15% entraram sobre o preço promocional. No mesmo dia, num sutiã da Black VIP, o checkout não aplicou o cupom e avisou que o cupom de influenciadora não soma com a escada de desconto.',
     codeInstructions: [
       'Copie o código MAUAD no card acima.',
       'Acesse o site oficial da Toda Up pelo botão indicado e coloque os produtos no carrinho.',
@@ -2667,7 +2667,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No nosso teste mais recente, os 15% do MAUAD entraram sobre um sutiã que já estava em promoção. A exceção é a Black VIP: nela, a loja avisa que o cupom de influenciadora não soma com a escada de desconto.',
+          'Sim. Num teste nosso, os 15% do MAUAD entraram sobre um sutiã que já estava em promoção. A exceção é a Black VIP: nela, a loja avisa que o cupom de influenciadora não soma com a escada de desconto.',
       },
       {
         question: 'O cupom MAUAD está funcionando hoje?',
@@ -2746,10 +2746,10 @@ const STORE_COUPONS: Coupon[] = [
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 99 em produtos; o mínimo conta depois do desconto do cupom' },
     ],
-    lastVerified: '2026-11-10',
-    testedAt: '2026-11-10',
+    lastVerified: '2026-11-12',
+    testedAt: '2026-11-12',
     testNote:
-      'No checkout, o S-EMCASACOMCECILIA deu 5% nos 11 kits e nos 13 produtos avulsos que testamos. O frete grátis a partir de R$ 99 conta depois do desconto: o Trio Body Splashes saiu a R$ 99,50 sem o código, com frete grátis, e a R$ 105,41 com ele, com R$ 10,88 de frete. Em 03/11/2026, montamos um carrinho com o kit Rotina Pele Sensível (R$ 91,00), o Hidratante Facial Super Glow em promoção (R$ 27,00) e o Lip Combo People Colour a preço cheio (R$ 64,00). O S-EMCASACOMCECILIA tirou 5% de tudo, R$ 9,10, e o total caiu de R$ 182,00 para R$ 172,90. No mesmo dia, num carrinho com o Duo Antimanchas Noturno, o desconto também entrou sobre o preço promocional: R$ 70,90 viraram R$ 67,36.',
+      'No checkout, o S-EMCASACOMCECILIA tirou R$ 4,55 do kit Rotina Pele Sensível em promoção, de R$ 182,00 por R$ 91,00, e o total caiu para R$ 86,45: os 5% entraram sobre o preço promocional. Em 10/11/2026, o código deu 5% nos 11 kits e nos 13 produtos avulsos que testamos, e o frete grátis a partir de R$ 99 contou depois do desconto: o Trio Body Splashes saiu a R$ 99,50 sem o código, com frete grátis, e a R$ 105,41 com ele, com R$ 10,88 de frete.',
     codeInstructions: [
       'Copie o código S-EMCASACOMCECILIA no card acima.',
       'Acesse o site oficial da Simple Organic pelo botão indicado: ele abre a loja com o cupom aplicado. Depois, coloque os produtos no carrinho.',
@@ -2848,10 +2848,10 @@ const STORE_COUPONS: Coupon[] = [
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de um mínimo que muda conforme o estado; o carrinho mostra quanto falta para a sua região' },
     ],
-    lastVerified: '2026-11-05',
-    testedAt: '2026-11-05',
+    lastVerified: '2026-11-12',
+    testedAt: '2026-11-12',
     testNote:
-      'Aplicamos o EMCASA num carrinho de R$ 69,79 com um Pack Sopa da Vovó e duas Sopas Detox, todos já com desconto da loja, e o cupom tirou R$ 10,47: o total caiu para R$ 59,32, os 15% inteiros sobre o preço promocional.',
+      'Aplicamos o EMCASA num carrinho com dois Kits Veganos de 10 unidades, R$ 250,60: o cupom tirou R$ 37,59 e o total caiu para R$ 213,01, os 15%. O checkout abriu com um cupom de campanha da própria loja no campo, e foi preciso removê-lo para colocar o EMCASA. Em 05/11/2026, num carrinho de R$ 69,79 com um Pack Sopa da Vovó e duas Sopas Detox, todos já com desconto da loja, o cupom tirou R$ 10,47 e o total caiu para R$ 59,32: os 15% inteiros sobre o preço promocional.',
     codeInstructions: [
       'Copie o código EMCASA no card acima.',
       'Acesse o site oficial da HolyFoods pelo botão indicado e coloque os produtos no carrinho.',
@@ -2868,7 +2868,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com os produtos em promoção?',
         answer:
-          'Sim. No nosso teste mais recente, os 15% entraram sobre sopas que já estavam com desconto da loja: R$ 69,79 viraram R$ 59,32.',
+          'Sim. Num teste nosso, os 15% entraram sobre sopas que já estavam com desconto da loja: R$ 69,79 viraram R$ 59,32.',
       },
       {
         question: 'Onde coloco o cupom na HolyFoods?',
@@ -2968,10 +2968,10 @@ const STORE_COUPONS: Coupon[] = [
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 199 no Sul e no Sudeste e de R$ 299 nas demais regiões; medicamentos, acima de R$ 199' },
     ],
-    lastVerified: '2026-11-11',
-    testedAt: '2026-11-11',
+    lastVerified: '2026-11-12',
+    testedAt: '2026-11-12',
     testNote:
-      'Aplicamos o EMCASA numa sacola com uma ração Golden de R$ 22,99 e dois itens em promoção da Royal Canin: um sachê por R$ 9,90 (de R$ 10,99) e uma ração Maxi 12 kg por R$ 279,99 (de R$ 349,99). A Golden caiu para R$ 20,69; o sachê ficou com os 10% sobre o preço cheio, R$ 9,89; e a ração Maxi manteve os 20% da promoção.',
+      'Aplicamos o EMCASA numa sacola com uma Cama Suspensa Cansei de Ser Gato a preço cheio, R$ 319,99: o cupom tirou R$ 32,00 e o total caiu para R$ 287,99, os 10%. Em 11/11/2026, numa sacola com uma ração Golden de R$ 22,99 e dois itens em promoção da Royal Canin, um sachê por R$ 9,90 (de R$ 10,99) e uma ração Maxi 12 kg por R$ 279,99 (de R$ 349,99), a Golden caiu para R$ 20,69; o sachê ficou com os 10% sobre o preço cheio, R$ 9,89; e a ração Maxi manteve os 20% da promoção.',
     codeInstructions: [
       'Copie o código EMCASA no card acima.',
       'Entre na Petz pelo botão desta página e coloque os produtos na sacola.',
@@ -3085,10 +3085,10 @@ const STORE_COUPONS: Coupon[] = [
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 20% entram sobre o preço promocional que a Hostinger já mostra no carrinho' },
     ],
-    lastVerified: '2026-11-07',
-    testedAt: '2026-11-07',
+    lastVerified: '2026-11-12',
+    testedAt: '2026-11-12',
     testNote:
-      'Aplicamos o SONAR20 no campo "Tem um cupom de desconto?" do carrinho da Hostinger com o plano Startup, que não entra no link de indicação. No período de 48 meses, o total foi de R$ 1.919,52 para R$ 1.535,62, R$ 383,90 a menos; no de 1 mês, de R$ 139,99 para R$ 111,99. Os dois deram 20% sobre o preço de Black Friday que a Hostinger já mostrava. No site global, em dólar, no teste de 29/10/2026, o mesmo plano de 48 meses caiu de US$ 383,52 para US$ 306,82.',
+      'Aplicamos o SONAR20 no campo "Tem um cupom de desconto?" do carrinho da Hostinger com o plano Single de 48 meses: o total foi de R$ 287,52 para R$ 230,02, R$ 57,50 a menos, 20% sobre o preço de Black Friday que a Hostinger já mostrava. Em 07/11/2026, com o plano Startup, que não entra no link de indicação, o período de 48 meses foi de R$ 1.919,52 para R$ 1.535,62 e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, em dólar, no teste de 29/10/2026, o mesmo plano Startup de 48 meses caiu de US$ 383,52 para US$ 306,82.',
     codeFieldLabel: 'Tem um cupom de desconto?',
     codeInstructions: [
       'Copie o código SONAR20 no card acima.',
@@ -3102,7 +3102,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom SONAR20 da Hostinger está funcionando hoje?',
         answer:
-          'Sim. No teste mais recente, o SONAR20 tirou 20% do plano Startup nos períodos de 1 e de 48 meses no site brasileiro. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
+          'Sim. No teste mais recente, o SONAR20 tirou 20% do plano Single de 48 meses no site brasileiro. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'O SONAR20 vale para quem já é cliente da Hostinger?',
@@ -3121,7 +3121,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom vale no plano mensal?',
         answer:
-          'Sim. No nosso teste mais recente, o plano Startup de 1 mês caiu de R$ 139,99 para R$ 111,99 com o SONAR20, os mesmos 20% do plano de 48 meses.',
+          'Sim. Num teste nosso, o plano Startup de 1 mês caiu de R$ 139,99 para R$ 111,99 com o SONAR20, os mesmos 20% do plano de 48 meses.',
       },
       {
         question: 'Onde coloco o cupom na Hostinger?',
