@@ -1,4 +1,5 @@
 import assert from 'node:assert/strict';
+import { existsSync, readFileSync } from 'node:fs';
 import {
   COUPONS,
   getAllActiveCouponSlugs,
@@ -398,6 +399,38 @@ const petzStacking = (() => {
 })();
 assert.equal(petzStacking[0]?.benefit, 'retirada', 'petz: "O que acumula" não abre pelo Retire na Loja');
 assert.match(petzStacking[0]?.condition ?? '', /14,5% no total.*acima de R\$ 199/, 'petz: a linha do Retire na Loja sem o total ou sem o mínimo');
+
+// Print do carrinho: o arquivo existe e o alt descreve a imagem; com `article`, é uma imagem do corpo de um artigo da
+// mesma loja, com o mesmo alt.
+for (const coupon of COUPONS) {
+  const print = coupon.cartPrint;
+  if (!print) continue;
+  const where = `${coupon.slug}: print do carrinho`;
+  assert.ok(existsSync(`public${print.src}`), `${where}: o arquivo public${print.src} não existe`);
+  assert.ok(print.aspectRatio > 0.2 && print.aspectRatio < 5, `${where}: aspectRatio fora do esperado`);
+  assert.ok(print.alt.trim().length >= 20, `${where}: alt curto demais`);
+  if (!print.article) continue;
+  const articlePath = `content/reviews/${print.article}.json`;
+  assert.ok(existsSync(articlePath), `${where}: o artigo ${print.article} não existe`);
+  const article = JSON.parse(readFileSync(articlePath, 'utf8')) as {
+    affiliate?: string | string[];
+    contentSections?: { image?: string | { src: string; alt?: string }; imageAlt?: string; images?: { src: string; alt?: string }[] }[];
+  };
+  assert.ok([article.affiliate].flat().includes(coupon.slug), `${where}: o artigo ${print.article} é de outra loja`);
+  const images = (article.contentSections ?? []).flatMap((section) => [
+    ...(typeof section.image === 'string' ? [{ src: section.image, alt: section.imageAlt }] : section.image ? [section.image] : []),
+    ...(section.images ?? []),
+  ]);
+  const inArticle = images.find((image) => image.src === print.src);
+  assert.ok(inArticle, `${where}: ${print.src} não está no corpo do artigo ${print.article}`);
+  assert.equal(print.alt, inArticle.alt, `${where}: o alt é diferente do alt do artigo`);
+}
+for (const coupon of COUPONS) {
+  if (coupon.offerMode !== 'discount-code') continue;
+  for (const row of coupon.stacking ?? []) {
+    assert.ok(!row.label || (row.label.length >= 3 && row.label.length <= 24), `${coupon.slug}: rótulo de "O que acumula" fora do tamanho`);
+  }
+}
 
 // Vídeos da página de loja: https, no domínio da rede declarada, com título e sem repetição.
 for (const coupon of COUPONS) {

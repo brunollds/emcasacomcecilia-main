@@ -488,7 +488,9 @@ vídeo, primeiras impressões e uso noturno.
   funcionou?" (`#nao-funcionou`, depois de "Como testamos o cupom", em toda loja de código, com o canal de aviso
   no `/contato`) e "Vídeos" (`#videos`, antes das perguntas, só quando a loja tem `videos`; cada um abre na rede,
   sem player nem script de terceiros). O `test:coupon-offer-modes` confere os dados e o `test:build-output`, a
-  presença e o lugar de cada uma.
+  presença e o lugar de cada uma. O fim de "Como usar" leva o print do código no carrinho (`cartPrint`), também só
+  em português: uma imagem do artigo "como usar o cupom" da loja, mostrada pelo `ReviewInlineImage` (com o
+  "Ampliar"), como exemplo e sem data de teste.
 - A imagem de compartilhamento da loja vem de `getStoreSocialImage` (`src/lib/pageSeo.ts`): a
   `socialImage` de `couponsData.ts`, senão o `brandLogo`. O cartão do X não mostra AVIF, então loja
   com logo AVIF leva `socialImage` em JPG, PNG ou WebP; o `test:build-output` barra o contrário. A

@@ -55,6 +55,8 @@ export type CouponStoreCopy = {
     // A frase de "Regras sem letra miúda" que leva à tabela.
     rulesPointer: string;
   };
+  // O print do carrinho no fim de "Como usar", só em português: é exemplo, não o teste do mês.
+  cartPrint?: { caption: (brand: string) => string; stepsLabel: string };
   // "Vídeos" (#videos), só em português: cada vídeo abre na rede em que foi publicado, em nova aba.
   videos?: { title: string; platforms: Record<StoreVideoPlatform, string>; watchOn: (platform: string) => string; newTab: string };
   // "Por que o cupom não funcionou?" (#nao-funcionou), só em português: três causas e o canal de aviso no /contato.
@@ -167,6 +169,10 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       },
       answers: { sim: 'Sim', nao: 'Não', depende: 'Depende' },
       rulesPointer: 'Veja o que acumula com o cupom',
+    },
+    cartPrint: {
+      caption: (brand) => `Exemplo do código aplicado no carrinho da ${brand}. Os valores mudam conforme o pedido.`,
+      stepsLabel: 'Veja o passo a passo com imagens',
     },
     videos: {
       title: 'Vídeos',
