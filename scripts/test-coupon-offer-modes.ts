@@ -356,4 +356,17 @@ assert.deepEqual(pendingAt('2026-01-22T00:00:00-03:00'), []);
 const linkWithWindows = { ...shein, limitedCodes: sample.limitedCodes } as AffiliateLinkOffer;
 assert.deepEqual(getPendingLimitedCodes(linkWithWindows, Date.parse('2026-01-06T12:00:00-03:00')), [], 'loja de link não tem código com prazo');
 
+// A pergunta "está funcionando hoje?" não repete a data do teste: ela envelhece a cada teste novo (a da Insider chamava
+// 31/10 de último teste com o de 11/11 já registrado). A data fica só em "Como testamos o cupom", e nenhuma resposta manda
+// olhar o topo da página, que desde o #874 mostra a validade.
+for (const coupon of COUPONS) {
+  if (coupon.status !== 'ativo') continue;
+  for (const faq of coupon.faqs ?? []) {
+    assert.doesNotMatch(faq.answer, /topo desta página/, `${coupon.slug}: "${faq.question}" manda olhar o topo da página, que não mostra mais a data do teste`);
+    if (!/funcionando/i.test(faq.question) || coupon.offerMode !== 'discount-code' || !coupon.testNote || coupon.tiers) continue; // o Magalu (faixas) responde pela conferência no painel
+    assert.doesNotMatch(faq.answer, /\d{1,2}\/\d{1,2}(\/\d{4})?/, `${coupon.slug}: "${faq.question}" cita data de teste; a data fica em "Como testamos o cupom"`);
+    assert.ok(faq.answer.includes('"Como testamos o cupom"'), `${coupon.slug}: "${faq.question}" deve apontar para "Como testamos o cupom"`);
+  }
+}
+
 console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Toda Up, Simple Organic, HolyFoods, Petz, Hostinger e prateleiras do hub conferidos.");

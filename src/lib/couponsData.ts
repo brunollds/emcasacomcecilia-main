@@ -391,7 +391,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom CECI está funcionando hoje?',
         answer:
-          'Sim. No último teste de checkout, o CECI aplicou os 10% num carrinho de cápsulas acima de R$ 100. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de checkout mais recente, o CECI aplicou os 10% num carrinho de cápsulas acima de R$ 100. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'O cupom CECI vale no Mercado Livre?',
@@ -635,7 +635,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom CECI vale nos produtos Nutren?',
         answer:
-          'Sim. A linha Nutren é vendida na loja Nestlé Nutre, e o CECI vale nela como nos outros produtos da loja, exceto Alfamino, Alfaré e as fórmulas infantis de 0 a 12 meses. No teste de 26/10/2026, duas latas de Nutren Fortify, de R$ 283,78, saíram por R$ 255,40.',
+          'Sim. A linha Nutren é vendida na loja Nestlé Nutre, e o CECI vale nela como nos outros produtos da loja, exceto Alfamino, Alfaré e as fórmulas infantis de 0 a 12 meses. No nosso teste mais recente, o Kit Nutren Senior Zero Lactose, com duas latas de 740 g, saiu de R$ 296,50 por R$ 266,85.',
       },
       {
         question: 'O cupom CECI vale para fórmulas infantis NAN?',
@@ -739,15 +739,6 @@ const STORE_COUPONS: Coupon[] = [
     combinable: 'Soma com as promoções vigentes da loja oficial',
     lastVerified: '2026-11-11',
     limitedCodes: [
-      {
-        // Cupom do 11.11 da loja, só no dia 11/11.
-        code: 'CECIEMCASA11',
-        discount: '11% OFF',
-        startsAt: '2026-11-11T00:00:00-03:00',
-        endsAt: '2026-11-11T23:59:59-03:00',
-        testedAt: '2026-11-11',
-        testNote: 'deu 11% no carrinho inteiro, inclusive no kit Pillow Top Magnum',
-      },
       {
         // Upgrade de cupom da Black Friday da loja (26 e 27/11), com o mesmo código.
         code: 'CECIEMCASA15',
@@ -985,7 +976,7 @@ const STORE_COUPONS: Coupon[] = [
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable:
-      'Soma com as promoções vigentes do site, inclusive em pré-venda (teste de 02/10/2026), e com o desconto de 5% do Pix; vale com todas as formas de pagamento; a soma com outros cupons segue as regras da loja',
+      'Soma com as promoções vigentes do site, inclusive em pré-venda, e com o desconto de 5% do Pix; vale com todas as formas de pagamento; a soma com outros cupons segue as regras da loja',
     lastVerified: '2026-11-11',
     testedAt: '2026-11-11',
     testNote:
@@ -1046,7 +1037,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom MAUAD é cumulativo?',
         answer:
-          'O MAUAD soma com o desconto do Pix e, no teste de 02/10/2026, foi aceito em produto que já estava com preço promocional e em item de pré-venda. A soma com outros cupons segue as regras da loja; o valor final do checkout é a referência.',
+          'O MAUAD soma com o desconto do Pix e, nos nossos testes, foi aceito em produto que já estava com preço promocional e em item de pré-venda. A soma com outros cupons segue as regras da loja; o valor final do checkout é a referência.',
       },
       {
         question: 'O link leva para a loja oficial?',
@@ -1096,7 +1087,7 @@ const STORE_COUPONS: Coupon[] = [
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable:
-      'Soma com as promoções vigentes da loja online, inclusive os preços de Black Friday, o Outlet e os kits com preço promocional (testes de 05/10, 26/10 e 31/10/2026); não acumula com outro cupom: a loja aceita um cupom por pedido',
+      'Soma com as promoções vigentes da loja online, inclusive os preços de Black Friday, o Outlet e os kits com preço promocional; não acumula com outro cupom: a loja aceita um cupom por pedido',
     lastVerified: '2026-11-11',
     testedAt: '2026-11-11',
     testNote:
@@ -1129,7 +1120,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom EMCASACOMCECILIA está funcionando hoje?',
         answer:
-          'Sim. No teste de 11/11/2026, o EMCASACOMCECILIA aplicou os 15% num kit com brinde, que saiu de R$ 139,00 por R$ 118,15. O teste mais recente, com a data, está em "Como testamos o cupom", nesta página.',
+          'Sim. No teste de checkout mais recente, o EMCASACOMCECILIA aplicou os 15% num kit com brinde, que saiu de R$ 139,00 por R$ 118,15. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'O cupom Insider vale na primeira compra? É melhor que o de boas-vindas?',
@@ -1154,12 +1145,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom acumula com produtos em promoção?',
         answer:
-          'Sim. Em 31/10/2026, o EMCASACOMCECILIA deu os 15% numa calça do Outlet que já estava 40% mais barata, de R$ 179,00 por R$ 152,15; em 26/10, numa cueca em promoção, e em 05/10, em kits com preço promocional. Lançamentos podem ficar de fora.',
+          'Sim. Nos nossos testes, o EMCASACOMCECILIA deu os 15% numa calça do Outlet que já estava 40% mais barata, de R$ 179,00 por R$ 152,15, numa cueca em promoção e em kits com preço promocional. Lançamentos podem ficar de fora.',
       },
       {
         question: 'O cupom vale na Black Friday da Insider?',
         answer:
-          'Sim. Em 31/10/2026, no esquenta de Black Friday, os 15% entraram sobre os preços já reduzidos: a Tech T-Shirt de R$ 129,00 saiu por R$ 109,65. Como a loja aceita um cupom por pedido, compare os 15% com o cupom da campanha da própria Insider antes de pagar.',
+          'Sim. No nosso teste do esquenta de Black Friday, os 15% entraram sobre os preços já reduzidos: a Tech T-Shirt de R$ 129,00 saiu por R$ 109,65. Como a loja aceita um cupom por pedido, compare os 15% com o cupom da campanha da própria Insider antes de pagar.',
       },
       {
         question: 'O cupom vale nas lojas físicas da Insider?',
@@ -1426,7 +1417,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom PRO10EMCASACOMCECILIA está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout de 26/10/2026, o PRO10EMCASACOMCECILIA foi aceito. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de checkout mais recente, o PRO10EMCASACOMCECILIA foi aceito. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'Onde coloco o cupom na Probiótica?',
@@ -1436,7 +1427,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No teste de 26/10/2026, o cupom deu os 10% também na creatina que já estava com preço promocional.',
+          'Sim. No nosso teste mais recente, o cupom entrou num whey que já estava em promoção: de R$ 124,90 por R$ 116,16, 7% de desconto. O percentual varia por produto.',
       },
       {
         question: 'O cupom Probiótica vale na primeira compra?',
@@ -1556,12 +1547,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção e com os brindes?',
         answer:
-          'Sim. No teste de 26/10/2026, o cupom deu desconto num whey que já estava com preço promocional, e os brindes do carrinho continuaram nele.',
+          'Sim. No nosso teste mais recente, o cupom deu desconto num whey que já estava em promoção, de R$ 189,00 por R$ 172,25. Em outro carrinho, com um whey a preço cheio, a meia de brinde continuou depois do cupom.',
       },
       {
         question: 'O cupom MAX10EMCASACOMCECILIA está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout de 26/10/2026, o MAX10EMCASACOMCECILIA foi aceito. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de checkout mais recente, o MAX10EMCASACOMCECILIA foi aceito. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'Onde coloco o cupom na Max Titanium?',
@@ -1655,12 +1646,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No teste de 26/10/2026, os 10% entraram também num combo de pastas de amendoim que já estava com preço promocional.',
+          'Sim. No nosso teste mais recente, os 10% entraram numa pasta de amendoim que já estava em promoção: de R$ 25,89 por R$ 23,30.',
       },
       {
         question: 'O cupom DREMCASACOMCECILIA está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout de 26/10/2026, o DREMCASACOMCECILIA aplicou os 10%. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de checkout mais recente, o DREMCASACOMCECILIA aplicou os 10%. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'A Dr. Peanut tem frete grátis?',
@@ -1748,12 +1739,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No teste de 24/10/2026, os 10% entraram também no kit de whey que já estava com preço promocional.',
+          'Sim. No nosso teste mais recente, os 10% entraram num kit de whey que já estava em promoção: de R$ 132,81 por R$ 119,53.',
       },
       {
         question: 'O cupom CECILIA10 está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout de 24/10/2026, o CECILIA10 aplicou os 10% em todos os itens. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de checkout mais recente, o CECILIA10 aplicou os 10% no carrinho. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'O cupom dá frete grátis?',
@@ -1912,7 +1903,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No teste de 24/10/2026, os 10% entraram num kit de t-shirts que já estava com preço promocional.',
+          'Sim. No nosso teste mais recente, os 10% entraram num kit de t-shirts que já estava com preço de campanha: de R$ 199,00 por R$ 179,10.',
       },
       {
         question: 'O cupom soma com o cashback da Cléa Store?',
@@ -1922,7 +1913,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom CSEMCASACOMCECILIA está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout de 24/10/2026, o CSEMCASACOMCECILIA aplicou os 10%. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de checkout mais recente, o CSEMCASACOMCECILIA aplicou os 10%. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'A Cléa Store tem frete grátis?',
@@ -2008,7 +1999,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No teste de 24/10/2026, os 10% entraram num combo que já estava em oferta.',
+          'Sim. No nosso teste mais recente, os 10% entraram num combo que já estava em oferta: de R$ 106,59 por R$ 95,93.',
       },
       {
         question: 'O cupom MAUAD vale na primeira compra na Belive?',
@@ -2028,7 +2019,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom MAUAD está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout de 24/10/2026, o MAUAD aplicou os 10% no carrinho. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de checkout mais recente, o MAUAD aplicou os 10% no carrinho. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'Onde coloco o cupom na Belive?',
@@ -2108,7 +2099,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No teste de 20/10/2026, os 10% entraram também na creatina que já estava com 33% de desconto.',
+          'Sim. No nosso teste mais recente, os 10% entraram num carrinho com uma creatina e dois wheys que já estavam em promoção: R$ 346,88 viraram R$ 312,19.',
       },
       {
         question: 'O cupom MMEMCASACOMCECILIA soma com o desconto do Pix?',
@@ -2138,7 +2129,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom MMEMCASACOMCECILIA está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout de 20/10/2026, o MMEMCASACOMCECILIA aplicou os 10% no carrinho. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de checkout mais recente, o MMEMCASACOMCECILIA aplicou os 10% no carrinho. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'O cupom MMEMCASACOMCECILIA vale no Mercado Livre?',
@@ -2234,7 +2225,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No teste de 21/10/2026, os 10% do cupom entraram sobre os preços que já estavam com os 10% da promoção do site.',
+          'Sim. No nosso teste mais recente, os 10% do cupom entraram num kit que já estava com 20% da promoção do site: de R$ 237,60 por R$ 213,84.',
       },
       {
         question: 'O cupom SKEMCASACOMCECILIA soma com o desconto do Pix?',
@@ -2259,7 +2250,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom SKEMCASACOMCECILIA está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout de 21/10/2026, o SKEMCASACOMCECILIA aplicou os 10% no carrinho. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de checkout mais recente, o SKEMCASACOMCECILIA aplicou os 10% no carrinho. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'O cupom SKEMCASACOMCECILIA vale no Mercado Livre?',
@@ -2350,7 +2341,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No teste de 22/10/2026, os 10% do cupom entraram sobre malas que já estavam com desconto no Outlet e também sobre uma mala a preço cheio.',
+          'Sim. No nosso teste mais recente, os 10% do cupom entraram numa mala do Outlet que já estava com desconto: de R$ 179,90 por R$ 161,91.',
       },
       {
         question: 'O cupom CECILIA10 soma com o desconto do Pix?',
@@ -2375,7 +2366,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom CECILIA10 está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout de 22/10/2026, o CECILIA10 aplicou os 10% no carrinho. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de checkout mais recente, o CECILIA10 aplicou os 10% no carrinho. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'O cupom CECILIA10 vale no Mercado Livre?',
@@ -2478,12 +2469,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No teste de 11/11/2026, os 15% do MAUAD entraram sobre um sutiã que já estava em promoção. A exceção é a Black VIP: nela, a loja avisa que o cupom de influenciadora não soma com a escada de desconto.',
+          'Sim. No nosso teste mais recente, os 15% do MAUAD entraram sobre um sutiã que já estava em promoção. A exceção é a Black VIP: nela, a loja avisa que o cupom de influenciadora não soma com a escada de desconto.',
       },
       {
         question: 'O cupom MAUAD está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout de 11/11/2026, o MAUAD aplicou os 15% no carrinho. O teste mais recente, com a data, está em "Como testamos o cupom", nesta página.',
+          'Sim. No teste de checkout mais recente, o MAUAD aplicou os 15% no carrinho. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'Onde coloco o cupom na Toda Up?',
@@ -2550,7 +2541,7 @@ const STORE_COUPONS: Coupon[] = [
     shipping:
       'Frete grátis a partir de R$ 99,00 em produtos; abaixo disso, calculado pelo CEP no checkout, por PAC, Sedex ou JadLog. O pedido sai em 3 a 5 dias úteis depois da confirmação do pagamento',
     combinable:
-      'Soma com as promoções do site e vale nos kits: no teste de 03/11/2026, os 5% entraram sobre o preço promocional de todos os itens do carrinho',
+      'Soma com as promoções do site e vale nos kits: nos nossos testes, os 5% entraram sobre o preço promocional de todos os itens do carrinho',
     lastVerified: '2026-11-10',
     testedAt: '2026-11-10',
     testNote:
@@ -2572,12 +2563,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No teste de 03/11/2026, os 5% entraram sobre o preço promocional de um hidratante e de um duo e sobre um kit que já estava com desconto. O desconto aparece no carrinho antes de pagar.',
+          'Sim. Nos nossos testes, os 5% entraram sobre o preço promocional de um hidratante e de um duo e sobre um kit que já estava com desconto. O desconto aparece no carrinho antes de pagar.',
       },
       {
         question: 'O cupom S-EMCASACOMCECILIA está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout de 03/11/2026, o S-EMCASACOMCECILIA aplicou os 5% no carrinho. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de checkout mais recente, o S-EMCASACOMCECILIA aplicou os 5% no carrinho. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'Onde coloco o cupom na Simple Organic?',
@@ -2662,7 +2653,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com os produtos em promoção?',
         answer:
-          'Sim. No teste de 05/11/2026, os 15% entraram sobre sopas que já estavam com desconto da loja: R$ 69,79 viraram R$ 59,32.',
+          'Sim. No nosso teste mais recente, os 15% entraram sobre sopas que já estavam com desconto da loja: R$ 69,79 viraram R$ 59,32.',
       },
       {
         question: 'Onde coloco o cupom na HolyFoods?',
@@ -2697,7 +2688,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom EMCASA está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout de 05/11/2026, o EMCASA aplicou os 15% no carrinho. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de checkout mais recente, o EMCASA aplicou os 15% no carrinho. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'O que fazer se o cupom EMCASA não funcionar?',
@@ -2772,12 +2763,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com os produtos em promoção?',
         answer:
-          'Não. No teste de 11/11/2026, um sachê em promoção por R$ 9,90 (de R$ 10,99) ficou com os 10% sobre o preço cheio, R$ 9,89, e uma ração com 20% OFF manteve o preço da promoção, R$ 279,99. Nos dois casos, a sacola ficou com o desconto maior.',
+          'Não. No nosso teste, um sachê em promoção por R$ 9,90 (de R$ 10,99) ficou com os 10% sobre o preço cheio, R$ 9,89, e uma ração com 20% OFF manteve o preço da promoção, R$ 279,99. Nos dois casos, a sacola ficou com o desconto maior.',
       },
       {
         question: 'O cupom soma com o desconto do Retire na Loja?',
         answer:
-          'Sim. A Petz dá 5% OFF para retirar o pedido na loja em compras acima de R$ 199, no Centro-Oeste, no Sul e no Sudeste, e esse desconto soma com o EMCASA. No teste de 11/11/2026, duas rações de R$ 189,99 (R$ 379,98) caíram para R$ 341,98 com o cupom e para R$ 324,88 com o cupom e a retirada: 14,5% no total, porque os 5% saem do valor já com o cupom.',
+          'Sim. A Petz dá 5% OFF para retirar o pedido na loja em compras acima de R$ 199, no Centro-Oeste, no Sul e no Sudeste, e esse desconto soma com o EMCASA. No nosso teste, duas rações de R$ 189,99 (R$ 379,98) caíram para R$ 341,98 com o cupom e para R$ 324,88 com o cupom e a retirada: 14,5% no total, porque os 5% saem do valor já com o cupom.',
       },
       {
         question: 'Existe cupom Petz de 15%?',
@@ -2806,7 +2797,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom EMCASA está funcionando hoje?',
         answer:
-          'Sim. No teste de 11/11/2026, o EMCASA aplicou os 10% na sacola. O teste mais recente, com a data, está em "Como testamos o cupom", nesta página.',
+          'Sim. No teste mais recente, o EMCASA aplicou os 10% na sacola. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'O que fazer se o cupom EMCASA não funcionar?',
@@ -2857,7 +2848,7 @@ const STORE_COUPONS: Coupon[] = [
     reusable: 'Vale em compra nova, para clientes novos e para quem já tem conta na Hostinger; na renovação, não há desconto',
     shipping: 'Não se aplica',
     combinable:
-      'Soma com as promoções da Hostinger: no teste de 07/11/2026, os 20% entraram sobre o preço de Black Friday; a soma com outros cupons não foi testada',
+      'Soma com as promoções da Hostinger: no nosso teste mais recente, os 20% entraram sobre o preço de Black Friday; a soma com outros cupons não foi testada',
     lastVerified: '2026-11-07',
     testedAt: '2026-11-07',
     testNote:
@@ -2875,7 +2866,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom SONAR20 da Hostinger está funcionando hoje?',
         answer:
-          'Sim. No teste de 29/10/2026, o SONAR20 tirou 20% do plano Startup nos períodos de 1 e de 48 meses no site brasileiro, e no de 48 meses no site global. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste mais recente, o SONAR20 tirou 20% do plano Startup nos períodos de 1 e de 48 meses no site brasileiro. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'O SONAR20 vale para quem já é cliente da Hostinger?',
@@ -2894,7 +2885,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom vale no plano mensal?',
         answer:
-          'Sim. No teste de 29/10/2026, o plano Startup de 1 mês caiu de R$ 139,99 para R$ 111,99 com o SONAR20, os mesmos 20% do plano de 48 meses.',
+          'Sim. No nosso teste mais recente, o plano Startup de 1 mês caiu de R$ 139,99 para R$ 111,99 com o SONAR20, os mesmos 20% do plano de 48 meses.',
       },
       {
         question: 'Onde coloco o cupom na Hostinger?',
@@ -2909,7 +2900,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom vale na Black Friday da Hostinger?',
         answer:
-          'Sim. No teste de 29/10/2026, os 20% do SONAR20 entraram sobre o preço de Black Friday que a Hostinger já mostrava no carrinho.',
+          'Sim. No nosso teste mais recente, os 20% do SONAR20 entraram sobre o preço de Black Friday que a Hostinger já mostrava no carrinho.',
       },
       {
         question: 'O desconto vale na renovação?',

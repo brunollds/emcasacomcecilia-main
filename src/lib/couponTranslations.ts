@@ -672,7 +672,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Does the Hostinger coupon SONAR20 work today?',
         answer:
-          'Yes. In our October 29, 2026 test, SONAR20 took 20% off the 48-month Startup plan on Hostinger\'s global site. The date of the latest test is at the top of this page.',
+          'Yes. In our October 29, 2026 test, SONAR20 took 20% off the 48-month Startup plan on Hostinger\'s global site. The date and the amounts of the test are in "How we tested the coupon", on this page.',
       },
       {
         question: 'Does SONAR20 work for existing Hostinger customers?',
@@ -762,7 +762,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: '¿El cupón de Hostinger SONAR20 funciona hoy?',
         answer:
-          'Sí. En nuestra prueba del 29 de octubre de 2026, SONAR20 dio un 20% de descuento en el plan Startup de 48 meses en el sitio global de Hostinger. La fecha de la última prueba aparece arriba en esta página.',
+          'Sí. En nuestra prueba del 29 de octubre de 2026, SONAR20 dio un 20% de descuento en el plan Startup de 48 meses en el sitio global de Hostinger. La fecha y los importes de la prueba están en "Cómo probamos el cupón", en esta página.',
       },
       {
         question: '¿SONAR20 funciona para clientes actuales de Hostinger?',
@@ -847,7 +847,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     faqs: [
       {
         question: `Le code promo Hostinger SONAR20 fonctionne-t-il aujourd’hui${NBSP}?`,
-        answer: `Oui. Lors de notre test du 29 octobre 2026, SONAR20 a donné 20${NBSP}% de réduction sur l’offre Startup de 48 mois sur le site international de Hostinger. La date du dernier test figure en haut de cette page.`,
+        answer: `Oui. Lors de notre test du 29 octobre 2026, SONAR20 a donné 20${NBSP}% de réduction sur l’offre Startup de 48 mois sur le site international de Hostinger. La date et les montants du test figurent dans «${NBSP}Comment nous avons testé le code promo${NBSP}», sur cette page.`,
       },
       {
         question: `SONAR20 fonctionne-t-il pour les clients existants de Hostinger${NBSP}?`,
@@ -923,7 +923,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     faqs: [
       {
         question: `Funktioniert der Gutschein SONAR20 heute?`,
-        answer: `Ja. Beim Test am 29. Oktober 2026 hat SONAR20 auf der globalen Hostinger-Seite 20${NBSP}% vom Tarif Startup mit 48 Monaten Laufzeit abgezogen. Das Datum des letzten Tests steht oben auf dieser Seite.`,
+        answer: `Ja. Beim Test am 29. Oktober 2026 hat SONAR20 auf der globalen Hostinger-Seite 20${NBSP}% vom Tarif Startup mit 48 Monaten Laufzeit abgezogen. Das Datum und die Beträge des Tests stehen auf dieser Seite unter „So haben wir den Gutschein getestet“.`,
       },
       {
         question: `Gilt SONAR20 auch für bestehende Hostinger-Kunden?`,
@@ -1004,7 +1004,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Il coupon Hostinger SONAR20 funziona oggi?',
         answer:
-          'Sì. Nel nostro test del 29 ottobre 2026, SONAR20 ha dato il 20% di sconto sul piano Startup da 48 mesi sul sito globale di Hostinger. La data dell’ultimo test è in cima a questa pagina.',
+          'Sì. Nel nostro test del 29 ottobre 2026, SONAR20 ha dato il 20% di sconto sul piano Startup da 48 mesi sul sito globale di Hostinger. La data e gli importi del test sono in "Come abbiamo testato il coupon", su questa pagina.',
       },
       {
         question: 'SONAR20 vale per i clienti Hostinger già esistenti?',
@@ -1094,7 +1094,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Hostinger 쿠폰 SONAR20은 지금도 작동하나요?',
         answer:
-          '네. 2026년 10월 29일 테스트에서 SONAR20은 Hostinger 글로벌 사이트의 48개월 Startup 요금제에 20% 할인을 적용했습니다. 최근 테스트 날짜는 이 페이지 상단에 있습니다.',
+          '네. 2026년 10월 29일 테스트에서 SONAR20은 Hostinger 글로벌 사이트의 48개월 Startup 요금제에 20% 할인을 적용했습니다. 테스트 날짜와 금액은 이 페이지의 "쿠폰 테스트 방법"에 있습니다.',
       },
       {
         question: 'SONAR20은 기존 Hostinger 고객도 쓸 수 있나요?',
@@ -1184,7 +1184,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Hostingerのクーポン SONAR20 は今も使えますか？',
         answer:
-          'はい。2026年10月29日のテストでは、SONAR20はHostingerのグローバルサイトで48か月のStartupプランを20%オフにしました。最新のテスト日はこのページの上部にあります。',
+          'はい。2026年10月29日のテストでは、SONAR20はHostingerのグローバルサイトで48か月のStartupプランを20%オフにしました。テストの日付と金額は、このページの「クーポンのテスト方法」に載っています。',
       },
       {
         question: 'SONAR20は既存のHostinger顧客も使えますか？',
@@ -1274,7 +1274,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Hostinger 優惠碼 SONAR20 現在還能用嗎？',
         answer:
-          '可以。在 2026 年 10 月 29 日的測試中，SONAR20 在 Hostinger 全球網站為 48 個月期的 Startup 方案打了 20% 折扣。最近一次測試日期在本頁頂端。',
+          '可以。在 2026 年 10 月 29 日的測試中，SONAR20 在 Hostinger 全球網站為 48 個月期的 Startup 方案打了 20% 折扣。測試日期與金額請見本頁的「我們如何測試優惠碼」。',
       },
       {
         question: 'SONAR20 適用於既有的 Hostinger 客戶嗎？',
@@ -1364,7 +1364,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Hostinger 优惠码 SONAR20 现在还能用吗？',
         answer:
-          '可以。在 2026 年 10 月 29 日的测试中，SONAR20 在 Hostinger 全球网站为 48 个月期的 Startup 套餐打了 20% 折扣。最近一次测试日期在本页顶部。',
+          '可以。在 2026 年 10 月 29 日的测试中，SONAR20 在 Hostinger 全球网站为 48 个月期的 Startup 套餐打了 20% 折扣。测试日期与金额请见本页的“我们如何测试优惠码”。',
       },
       {
         question: 'SONAR20 适用于现有的 Hostinger 客户吗？',
