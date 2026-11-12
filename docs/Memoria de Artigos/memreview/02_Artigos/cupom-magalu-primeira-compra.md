@@ -7,9 +7,9 @@ parceiro_slug: "magalu"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador; redação curta"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a capa; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PC-MAGALU"
@@ -163,3 +163,27 @@ Capa: logo da Magalu, um produto vendido pela loja e o texto "faixas de R$ 10 a 
 | Código de vendedor ou de agregador | agregadores (WebSearch, 12/11) | não citar |
 | Frete grátis do SuperApp na loja da Cecília | dossiê, média confiança | não escrever |
 | Percentual de Pix por produto | listas de 10/10 (dossiê) | não escrever |
+
+## Leituras da redação (12/11/2026)
+
+- `couponsData.ts` (magalu), lido na main do dia: as respostas de primeira compra, app, conta nova, frete, marketplace e soma com promoções e Pix seguem iguais às do briefing; faixas com lastVerified de 11/11.
+- Central de ajuda e app do Magalu: não lidos (dependiam do navegador do Bruno). O artigo não diz nada sobre cupom da própria loja.
+- Mínimo da faixa pelo preço do cartão ou do Pix: sem teste; o texto manda conferir o resumo.
+- Search Console: sem linha de base registrada; CSV com o Bruno.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-magalu-primeira-compra.json` (id 930), no esqueleto curto do briefing: sem tabela, sem capítulo de conta e sem data no corpo. Resposta rápida com 55 palavras. O capítulo 2 avisa que o número na frente do código é o desconto em reais, não um percentual.
+
+**Campo coupon:** ficou com o 10EMCASACOMCECILIA, igual ao "como usar" da Magalu no ar, para os recortes do artigo se comportarem como os dele. A metaDescription não leva código (a loja está em SNIPPET_EXCEPTION_STORES).
+
+## Revisão (Job 3, 12/11/2026)
+
+Passou. Nenhum cupom da própria loja, de vendedor ou de agregador; sem "exclusivo", "maior" ou "melhor"; "loja Magazine Você da Cecília" em todo o texto; sem percentual de Pix, sem frete grátis, sem Black Friday, sem número de usos.
+
+- C1: 0 "R$" na resposta rápida. C2: 0 datas no corpo. C3, C4, C5: 0.
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/magalu/cupom-magalu-primeira-compra-capa.webp` (imageFit contain), 1600 × 900, painel lateral com o logo, a chamada e "R$ 10 a R$ 100 OFF", sem código. Foto: a imagem oficial da Lu que já estava na biblioteca (a mesma do guia de Black Friday). Sem IA. Alt: Lu, a personagem do Magalu, segurando um celular com o logo da loja, em imagem oficial, ao lado da chamada Cupom Magalu primeira compra, de R$ 10 a R$ 100 OFF.
+- **Onde colar o código:** o print do cartPrint da página de cupom (`/images/reviews/magalu/magalu-cupom-aplicado.webp`), já no CDN. Sem foto de produto: artigo curto.
