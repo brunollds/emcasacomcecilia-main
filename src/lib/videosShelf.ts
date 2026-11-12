@@ -82,8 +82,18 @@ export function formatDuration(totalSeconds: number | undefined): VideoDuration 
   };
 }
 
-// DD/MM/AAAA do dia como está no registro: o de quem publicou, não o de UTC.
+const BRASILIA_DAY = new Intl.DateTimeFormat('pt-BR', {
+  timeZone: 'America/Sao_Paulo',
+  day: '2-digit',
+  month: '2-digit',
+  year: 'numeric',
+});
+
+// DD/MM/AAAA no dia de Brasília: o registro com hora e fuso (o do YouTube vem em -08:00 ou -07:00) é
+// convertido; o que só tem a data fica como está, sem passar por Date, que o leria como meia-noite de UTC.
 export function formatVideoDate(uploadDate: string): string {
+  const instant = uploadDate.length > 10 ? new Date(uploadDate) : null;
+  if (instant && !Number.isNaN(instant.getTime())) return BRASILIA_DAY.format(instant);
   const [year, month, day] = uploadDate.slice(0, 10).split('-');
   return `${day}/${month}/${year}`;
 }

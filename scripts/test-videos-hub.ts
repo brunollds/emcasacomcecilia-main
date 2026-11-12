@@ -260,9 +260,15 @@ assert.equal(formatDuration(Number.NaN), null);
 assert.deepEqual(item('mesmo-dia').duration, formatDuration(67), 'PT1M7S');
 assert.deepEqual(item('sem-loja').duration, formatDuration(60), 'PT1M');
 
-// Data: o dia como está no registro, o de quem publicou (em UTC, o vídeo das 18h35 de -07:00 já é dia 28).
+// Data: o dia de Brasília. O registro com hora e fuso é convertido (19h de -08:00 já é o dia seguinte); o
+// que só tem a data fica no dia dele.
+assert.equal(formatVideoDate('2025-02-25T19:00:35-08:00'), '26/02/2025');
+assert.equal(formatVideoDate('2026-07-20T10:00:00-07:00'), '20/07/2026');
 assert.equal(formatVideoDate('2026-09-27T18:35:34-07:00'), '27/09/2026');
 assert.equal(formatVideoDate('2026-03-19'), '19/03/2026');
+assert.equal(formatVideoDate('2026-07-07'), '07/07/2026');
+assert.equal(formatVideoDate('2026-09-01T01:30:00Z'), '31/08/2026', 'meia-noite e meia de UTC ainda é a véspera em Brasília');
+assert.equal(item('novo-damie').dateLabel, '01/09/2026');
 
 // URL: só uma loja com chip vale; o resto é "Todos". "Todos" tira todo ?loja= e os outros parâmetros ficam.
 const chipSlugs = hub.stores.map(({ slug }) => slug);
