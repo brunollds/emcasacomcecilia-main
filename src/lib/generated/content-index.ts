@@ -214662,5 +214662,300 @@ export const reviewsData: unknown[] = [
         "slug": "camiseta-insider-encolhe-como-lavar"
       }
     ]
+  },
+  {
+    "id": 910,
+    "slug": "cueca-para-academia",
+    "locale": "pt",
+    "title": "Cueca para academia: qual tecido e qual modelo escolher para treinar",
+    "seoTitle": "Cueca para academia: melhor tecido e modelo para treinar",
+    "type": "Guia",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Compare composição, costuras e forro de cuecas para academia, com preços por peça e por kit. Na Insider, veja os valores testados com EMCASACOMCECILIA, antes do frete.",
+    "metaDescription": "Na cueca Performance da Insider, o EMCASACOMCECILIA dá 15% OFF. Veja o tecido e o modelo de cueca para academia, pela ficha de cada marca.",
+    "publishedAt": "11 de novembro de 2026",
+    "publishedAtISO": "2026-11-11",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/insider/cueca-para-academia-capa.webp",
+    "imageAlt": "Modelo com a cueca boxer Performance preta e camiseta branca, ao lado do título Cueca para academia, do logo da Insider e do código EMCASACOMCECILIA",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "As opções desta comparação usam poliamida com elastano; uma delas tem modal na parte interna. Para escolher a cueca de treino, confira o ajuste nas pernas, o forro e a posição das costuras. Veja abaixo como isso muda entre os modelos e compare o preço por peça, sem decidir só pelo nome “antissuor”."
+        ]
+      },
+      {
+        "heading": "O que muda entre os tecidos",
+        "paragraphs": [
+          "Na busca por “microfibra”, abra também a composição em porcentagem. Nas cuecas deste guia aparecem poliamida, elastano e, em uma construção mista, modal por dentro. O nome comercial sozinho não mostra onde fica cada tecido nem como a peça é construída."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "O que aparece na composição",
+            "O que conferir no modelo"
+          ],
+          "rows": [
+            [
+              "Poliamida com elastano",
+              "Percentuais, posição das costuras e informações sobre forro."
+            ],
+            [
+              "Modal com elastano",
+              "Se é a composição da peça inteira ou apenas da parte interna."
+            ],
+            [
+              "Construção mista",
+              "Qual tecido fica por fora e qual entra em contato com a pele."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A composição não mede sozinha secagem, conforto ou estabilidade no treino. Use as informações de construção abaixo para comparar as peças; este guia não é um ranking de tecidos."
+        ]
+      },
+      {
+        "heading": "Modelo e costura: o que olhar para treinar",
+        "paragraphs": [
+          "Olhe a posição das costuras e o comprimento da perna antes de escolher só pelo nome boxer. As três opções abaixo têm esse corte; o que muda é a construção. A escolha entre slip e boxer fica para o guia específico de cortes.",
+          "Na comparação, procure estes detalhes:"
+        ],
+        "bullets": [
+          "Costura lateral: “sem costura nas laterais” descreve uma região da peça, não ausência de toda costura.",
+          "Perna: compare o comprimento nas fotos e nas medidas. A promessa de não enrolar é da marca; ela não substitui acertar o tamanho.",
+          "Forro: veja onde fica e se há camada extra. “Antissuor” pode nomear construções diferentes."
+        ],
+        "postParagraphs": []
+      },
+      {
+        "heading": "Cuecas para treinar, pela ficha",
+        "paragraphs": [
+          "A Performance combina poliamida por fora e modal por dentro. Mizuno e Polo London Club têm composições diferentes e preço por peça menor. Compare também a construção e o cuidado de lavagem antes de escolher pelo preço."
+        ],
+        "comparisonTable": {
+          "caption": "Composição e construção pela ficha de cada produto: a da Insider e a dos anúncios da Mizuno Brasil e da Polo London Club na Amazon. Os preços estão nos quadros seguintes; esta comparação não mede desempenho em treino.",
+          "headers": [
+            "Modelo",
+            "Composição informada",
+            "Costura e forro"
+          ],
+          "rows": [
+            [
+              "[Insider Performance](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-performance?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "Fora: 87,5% poliamida e 12,5% elastano. Dentro: 88% modal e 12% elastano.",
+              "Simples sem costura lateral; Anti Suor com costura lateral e forro duplo atrás."
+            ],
+            [
+              "[Kit 3 Cuecas Boxer Mizuno](https://link.amazon/B06JduKFr)",
+              "94% poliamida, 5% PUE (elastano) e 1% polipropileno.",
+              "A ficha não detalha costura nem forro."
+            ],
+            [
+              "[Polo London Club Seamless Dry](https://link.amazon/B0a0kP1Gn)",
+              "91% poliamida e 9% elastano.",
+              "A ficha descreve laterais sem costura, forro respirável e elástico de 4 cm."
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/insider/cueca-academia-insider-performance-preta.webp",
+            "alt": "Cueca boxer Insider Performance preta, vista de trás, em foto da Insider",
+            "caption": "Performance preta. Foto: Insider.",
+            "objectFit": "square",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-performance?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
+          },
+          {
+            "src": "/images/reviews/insider/cueca-academia-mizuno-kit-3.webp",
+            "alt": "Cueca boxer preta da Mizuno com o nome da marca no elástico, em foto do anúncio da Mizuno Brasil",
+            "caption": "Boxer do kit de 3 da Mizuno. Foto: anúncio da Mizuno Brasil na Amazon.",
+            "objectFit": "square",
+            "href": "https://link.amazon/B06JduKFr"
+          },
+          {
+            "src": "/images/reviews/insider/cueca-academia-polo-london-club-seamless-dry.webp",
+            "alt": "Cueca boxer Polo London Club Seamless Dry azul-marinho com o nome da marca no elástico, em foto do anúncio",
+            "caption": "Polo London Club Seamless Dry. Foto: anúncio na Amazon.",
+            "objectFit": "square",
+            "href": "https://link.amazon/B0a0kP1Gn"
+          }
+        ],
+        "postParagraphs": []
+      },
+      {
+        "heading": "Performance avulsa ou em kit, com EMCASACOMCECILIA",
+        "paragraphs": [
+          "O menor preço por peça fica nos kits, mas o desembolso é maior. Na primeira compra, acertar modelo e tamanho vem antes de levar várias unidades; se você já conhece a Performance, compare as três opções."
+        ],
+        "comparisonTable": {
+          "caption": "Preços do carrinho na campanha de novembro, com EMCASACOMCECILIA, antes do frete. Nos kits, o preço por peça é arredondado. Cor, modelo e tamanho podem mudar o valor.",
+          "headers": [
+            "Compra",
+            "Quantidade",
+            "Total com o código",
+            "Por peça"
+          ],
+          "rows": [
+            [
+              "[Insider Performance](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-performance?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA) — preta M Simples",
+              "1",
+              "R$ 72,25",
+              "R$ 72,25"
+            ],
+            [
+              "[Kit de 3 Performance](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-3-cuecas-boxer-performance?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "3",
+              "R$ 195,41",
+              "R$ 65,14"
+            ],
+            [
+              "[Kit de 5 Performance](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-5-cuecas-performance?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "5",
+              "R$ 318,97",
+              "R$ 63,79"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nos itens testados, o EMCASACOMCECILIA entrou sobre o preço exibido. A Insider aceita um cupom por pedido; lançamentos podem ter condições próprias, então confira a linha do código de cada item antes de pagar.",
+          "O frete não foi calculado neste quadro. Compare o total no checkout antes de decidir pela avulsa ou pelo kit."
+        ],
+        "links": [
+          {
+            "label": "Conferir regras do cupom Insider",
+            "href": "/cupons/insider"
+          }
+        ]
+      },
+      {
+        "heading": "Mizuno e Polo London Club na Amazon",
+        "paragraphs": [
+          "As duas têm preço por peça menor que a Performance. Isso não iguala composição, forro ou desempenho, e a lavagem muda: a Mizuno pede lavagem à mão, e a Polo London Club aceita máquina."
+        ],
+        "comparisonTable": {
+          "caption": "Preços dos anúncios na campanha de novembro, sem o frete e sem o cupom da Insider. A Mizuno vendida pela Mizuno Brasil; a Seamless Dry vendida pela Amazon, que a marca indica como canal exclusivo dessa coleção.",
+          "headers": [
+            "Oferta",
+            "Quantidade",
+            "Preço",
+            "Por peça"
+          ],
+          "rows": [
+            [
+              "[Kit 3 Cuecas Boxer Mizuno](https://link.amazon/B06JduKFr)",
+              "3",
+              "R$ 143,99",
+              "R$ 48,00"
+            ],
+            [
+              "[Polo London Club Seamless Dry](https://link.amazon/B0a0kP1Gn), avulsa",
+              "1",
+              "R$ 29,90",
+              "R$ 29,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O preço muda com a cor, o tamanho e o vendedor: confira o anúncio que abrir."
+        ]
+      },
+      {
+        "heading": "Qual Insider para treinar",
+        "paragraphs": [
+          "Na Insider, a Performance é a linha apresentada para esporte. A diferença entre Simples e Anti Suor está na construção: a Simples não tem costura lateral; a Anti Suor tem essa costura e forro duplo atrás."
+        ],
+        "bullets": [
+          "A Comfort é de 88% modal e 12% elastano e é apresentada pela marca para o dia a dia. Isso não a torna inadequada para todo treino; o artigo não compara seu desempenho com a Performance.",
+          "A Seamless Touch tem 95% poliamida, 4% elastano e 1% polipropileno. Estava indisponível em todas as cores e tamanhos na consulta, por isso fica fora das opções de compra."
+        ],
+        "postParagraphs": [
+          "Para a comparação completa, com a Slip, a versão Anti Suor e os kits, veja [qual cueca Insider escolher](/reviews/cueca-insider-comfort-ou-performance)."
+        ]
+      },
+      {
+        "heading": "\"Anti suor\" na cueca: o que o nome quer dizer",
+        "paragraphs": [
+          "Leia “antissuor” junto da construção. Na Performance Anti Suor, a Insider descreve forro duplo atrás; na Comfort Anti Suor, uma camada extra nessa região. É essa diferença que você consegue conferir antes da compra.",
+          "No anúncio da Polo London Club, “absorção reforçada” aparece com forro respirável, sem composição específica do forro. A ficha da Mizuno não detalha essa parte. A tabela não permite concluir qual das três absorve mais.",
+          "Se o suor é excessivo ou atrapalha a rotina, procure um dermatologista. O nome da cueca não substitui essa avaliação."
+        ]
+      },
+      {
+        "heading": "Tamanho e troca",
+        "paragraphs": [
+          "Escolha pela tabela de medidas do modelo que vai comprar, na página da peça. Uma cueca de outra linha não serve de referência para o tamanho da Performance.",
+          "A política da Insider restringe troca ou devolução de underwear a defeito de fabricação. Não conte com troca por tamanho; use a [orientação de medidas Insider](/reviews/tabela-de-medidas-insider) e confirme a tabela da variante antes de pagar. Antes de levar várias peças, confira também o tamanho que está selecionado no kit."
+        ]
+      },
+      {
+        "heading": "Lavagem depois do treino",
+        "paragraphs": [
+          "Para a Performance, a central da Insider orienta lavar do avesso, em ciclo delicado, com sabão neutro e abaixo de 30 °C, sem alvejante nem amaciante. Não deixe a peça de molho, não torça e não guarde molhada; seque no varal, à sombra, ou na secadora em temperatura baixa. A central avisa que ela pode encolher até 3%.",
+          "Na Comfort, as instruções também permitem ciclo delicado abaixo de 30 °C e secadora baixa ou varal à sombra, sem alvejante ou amaciante. O limite de encolhimento informado é de até 7%, e a orientação é evitar pregador ou cabide enquanto estiver molhada. Confira a etiqueta da peça recebida.",
+          "Nas fichas dos anúncios, a Mizuno pede lavagem à mão e a Polo London Club aceita máquina. Essa diferença pode pesar se você prefere lavar a roupa de treino toda na máquina."
+        ]
+      },
+      {
+        "heading": "Qual cueca considerar para o seu treino",
+        "paragraphs": [
+          "Se o critério é gastar menos por peça, compare Mizuno e Polo London Club, incluindo o frete. A descrição da Polo detalha costuras laterais e forro; a da Mizuno deixa esses pontos em aberto e pede lavagem à mão.",
+          "Na Insider, a Performance é a linha apresentada para esporte. Considere a Simples se procura ausência de costura lateral; a Anti Suor muda a construção, com costura e forro duplo atrás. Não descarte uma Comfort que já atende à sua rotina só porque o catálogo a apresenta para o dia a dia.",
+          "Para uma primeira compra, comece pela medida e por uma unidade. O kit reduz o preço por peça, mas só faz sentido se você quer aquela quantidade no modelo e no tamanho escolhidos."
+        ],
+        "emphasis": "Para uma primeira compra, eu ficaria com uma avulsa: conhecer o caimento vem antes de levar um kit; depois, o preço por peça ajuda a escolher a quantidade."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual o melhor tecido de cueca para academia? A composição é um critério, junto com ajuste, costuras e forro. As opções comparadas usam poliamida e elastano, com modal na parte interna da Performance; a tabela não mede qual seca mais rápido.",
+          "Cueca de algodão serve para treinar? O algodão, sozinho, não decide a escolha. Observe o ajuste e o conforto da peça na sua rotina; as fichas deste guia não comparam o tempo de secagem com outros tecidos.",
+          "Cueca sem costura é melhor para correr? “Sem costura lateral” descreve a construção, não um resultado medido em corrida. Performance Simples e Polo London Club têm essa característica; confira também tamanho e comprimento da perna.",
+          "O cupom vale no kit? No teste, o EMCASACOMCECILIA foi aceito na Performance avulsa e nos kits de três e cinco. Veja o total e o preço por peça no quadro de compra."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer comparar composição, costura lateral e forro antes de escolher a cueca de treino.",
+        "Você já conhece o tamanho e o modelo e quer avaliar um kit pelo total e pelo preço por peça."
+      ],
+      "skipIf": [
+        "Você espera que o nome antissuor ou a ausência de costura lateral garantam desempenho no seu treino.",
+        "Você pretende acertar o tamanho contando com troca posterior de roupa íntima na Insider."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre pelo link da parceria e confira no carrinho a linha do EMCASACOMCECILIA, de 15% OFF.",
+      "label": "Ver a cueca Performance na Insider",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-performance?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Feito com as fichas dos produtos e o teste do cupom no carrinho, sem uso das peças. Podemos receber comissão pelo cupom e pelos links.",
+    "relatedArticles": [
+      {
+        "slug": "cueca-insider-comfort-ou-performance"
+      },
+      {
+        "slug": "tabela-de-medidas-insider"
+      },
+      {
+        "slug": "kit-insider-quando-compensa"
+      }
+    ]
   }
 ];
