@@ -92,15 +92,32 @@ e "O produto é compatível com qualquer química?" (as respostas não foram lid
 - Os cartões de produto da home levam o selo "BLACK FRIDAY até 80%" e descontos de 30% a 75% por produto.
 - Há "Ofertas Relâmpago" com contador e uma live anunciada ("LIVE PROHALL 12 HORAS!").
 - O cupom soma com o preço promocional: nos testes de 12/11, tirou 7% de produtos já em promoção (dossiê).
-- **Não lido:** regulamento, datas da campanha e se o percentual do cupom muda nela.
+- **Segunda leitura (12/11), a pedido do Bruno:** a parceria não passou regras da campanha, então vale só o que é
+  público. A coleção se chama "Black Prohall 2026" (`/collections/black-friday-prohall-ofertas-imperdiveis`): "ofertas
+  de até 80% off", "condições exclusivas por tempo limitado no site oficial". **Não há regulamento nem data de início
+  ou de fim publicados.** O PH6 não cita data; diz "por tempo limitado" com atribuição e relê a coleção na semana do
+  texto.
+- Preços lidos na coleção (12/11, sem o cupom): Select One 1 L, R$ 219,90 (de R$ 309,90); Burix One 1 L, R$ 229,90
+  (de R$ 319,90); Cronograma Capilar Premium, R$ 189,90 (de R$ 299,90); Btx Blend Repair 300 g, R$ 62,90 (de
+  R$ 109,90); Kit Cuidado Diário Absolut One, R$ 139,90 (de R$ 223,90). O Select One e o Burix One estavam
+  "esgotado no site, baixar o app para comprar".
+- **Se o percentual do cupom muda na campanha:** nos testes de 12/11, já com a campanha no ar, foi 7%.
 
 ## 6. O que apareceu na home e ainda não foi lido
 
-- **Clube:** os cartões mostram um preço "CLUBE" menor que o do site (ex.: R$ 49,90 no site e R$ 47,41 no Clube).
-  Regras, custo e se o cupom entra sobre o preço do Clube: sem leitura.
-- **Moedas PH** e **Análise capilar:** itens do menu, sem leitura.
-- **App:** um produto aparecia como "ESGOTADO NO SITE. BAIXAR O APP PARA COMPRAR". Se o CECILIAMC vale no app:
-  sem leitura (a busca "cupom app prohall" existe).
+- **Clube Prohall (lido em 12/11, na home):** assinatura paga. Plano anual de R$ 199,90 ("equivale a R$ 16,65/mês");
+  há plano mensal, com valor não lido. Benefícios publicados: "5% OFF em toda a loja", "automático, até em promoção";
+  Moedas PH em dobro; "envio grátis acima de R$ 99,90"; promoções e lançamentos só para membros. O preço "CLUBE" dos
+  cartões é o do site menos 5% (R$ 49,90 → R$ 47,41).
+- **Cupom sobre o preço do Clube: sem teste.** Exige conta de assinante. Os artigos não afirmam que soma nem que não
+  soma. O Bruno confere quando puder (12/11: "no clube tem que conferir").
+- **Moedas PH (lido em 12/11, `/pages/moedas`):** ganham-se em compras, lives e check-in diário; "1.000 moedas =
+  R$ 1,00 de desconto no carrinho"; para quem não é membro do Clube, valem 90 dias. Se entram no mesmo pedido que o
+  cupom: sem teste.
+- **App:** produtos esgotados no site aparecem como "baixar o app para comprar". O Bruno acredita que o CECILIAMC vale
+  no app (12/11), sem teste registrado. Até haver teste, o texto diz onde o código foi testado (o site) e não promete
+  o app; a busca "cupom app prohall" existe, e a resposta entra no PH1 quando o teste sair.
+- **Análise capilar:** item do menu, sem leitura.
 - **Desconto no Pix:** sem leitura.
 - **Mínimo do frete grátis antes ou depois do cupom:** sem leitura.
 
@@ -120,5 +137,14 @@ e "O produto é compatível com qualquer química?" (as respostas não foram lid
 ## Perguntas para o Bruno
 
 1. ~~A Cecília recebeu ou usou algum produto da Prohall?~~ **Respondida em 12/11: não, só fontes públicas** (seção 2).
-2. **PH6:** a parceria informou datas ou regras da Black Friday (percentual do cupom na campanha, cupom extra)?
-3. **Clube e app:** o painel da parceria diz se o CECILIAMC vale no app e sobre o preço do Clube?
+2. ~~Datas ou regras da Black Friday vindas da parceria?~~ **Respondida em 12/11: não há; usar o que é público**
+   (seção 5: sem regulamento nem datas publicados).
+3. ~~O cupom vale no app e sobre o preço do Clube?~~ **Respondida em 12/11:** o Bruno acredita que vale no app; no
+   Clube, falta conferir (seção 6).
+
+## Testes que faltam (pedem conta ou app)
+
+- CECILIAMC no app da loja.
+- CECILIAMC num carrinho de assinante do Clube (soma com os 5%?).
+- Moedas PH e cupom no mesmo pedido.
+- Desconto no Pix e mínimo do frete grátis antes ou depois do cupom.
