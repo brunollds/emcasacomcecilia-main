@@ -212989,7 +212989,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Black Friday da Petz, o EMCASA dá 10% no site e no app, sem somar com a oferta do produto. Nos testes, a sacola manteve o menor preço por item. Compare também o frete e as condições do Clubz; a campanha está prevista até o fim de novembro."
+          "Na Black Friday da Petz, o maior desconto com o EMCASA vem no Retire na Loja: os 10% do código somam com os 5% da retirada, e a sacola fica 14,5% abaixo do preço cheio. O código vale no site e no app, mas não soma com a oferta da campanha nem com o Clubz."
         ]
       },
       {
@@ -213120,7 +213120,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Na Entrega Padrão, o frete grátis começa acima de R$ 199 no Sul e no Sudeste e acima de R$ 299 no Norte, no Nordeste e no Centro-Oeste. Para medicamentos, o mínimo informado é de R$ 199 em todo o Brasil.",
           "O mínimo é contado depois dos cupons. Se o código deixa o pedido abaixo da faixa, o frete grátis não é aplicado. Aplique o EMCASA e compare o total com e sem ele antes de pagar.",
-          "O Retire na Loja é a exceção que somou com o EMCASA no teste: 5% em compras acima de R$ 199 no Centro-Oeste, Sul e Sudeste. Aguarde a mensagem de liberação; depois dela, há 28 dias corridos para buscar o pedido. No teste com duas rações Golden de 15 kg, a sacola de R$ 379,98 ficou em R$ 360,98 só com a retirada e em R$ 324,88 com retirada e EMCASA. O total corresponde aos dois descontos aplicados em sequência."
+          "O Retire na Loja é a exceção que somou com o EMCASA no teste: 5% em compras acima de R$ 199 no Centro-Oeste, Sul e Sudeste. Aguarde a mensagem de liberação; depois dela, há 28 dias corridos para buscar o pedido. No teste com duas rações Golden de 15 kg, a sacola de R$ 379,98 ficou em R$ 360,98 só com a retirada e em R$ 324,88 com retirada e EMCASA. O total corresponde aos dois descontos aplicados em sequência: 14,5% abaixo do preço cheio."
         ]
       },
       {
