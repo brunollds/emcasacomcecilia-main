@@ -386,7 +386,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Qual cupom Dolce Gusto dá 10% para quem já é cliente?',
         answer:
-          'O CECI. Ele dá 10% na loja oficial Nescafé Dolce Gusto, em compras a partir de R$ 100, para quem compra pela primeira vez e para quem já comprou, com até 3 usos por campanha.',
+          'O CECI. Ele dá 10% na loja oficial Nescafé Dolce Gusto, em compras a partir de R$ 100, para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'Existe cupom Dolce Gusto de 20% ou 50%?',
@@ -1648,9 +1648,9 @@ const STORE_COUPONS: Coupon[] = [
       'Frete grátis a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 no Centro-Oeste, no Norte e no Nordeste, segundo a política de frete da loja; o valor conta depois do cupom',
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
     lastVerified: '2026-11-12',
-    testedAt: '2026-11-11',
+    testedAt: '2026-11-12',
     testNote:
-      'Aplicamos o DREMCASACOMCECILIA numa pasta de amendoim sabor avelã de 250 g em promoção, de R$ 28,90 por R$ 25,89, e o total caiu para R$ 23,30, com R$ 2,59 de desconto: os 10% entraram sobre o preço promocional.',
+      'Aplicamos o DREMCASACOMCECILIA num carrinho com seis pastas de amendoim de R$ 25,89, R$ 155,34 no total, e os itens caíram para R$ 139,80, com R$ 15,54 de desconto, os 10%. Com entrega em São Paulo, o carrinho tinha frete grátis antes do cupom e passou a pagar R$ 12,23 de frete depois dele. Em 11/11/2026, numa pasta sabor avelã de 250 g em promoção, de R$ 28,90 por R$ 25,89, o total caiu para R$ 23,30: os 10% entraram sobre o preço promocional.',
     aboutBrand:
       'A Dr. Peanut é uma marca paranaense de pastas de amendoim, com sabores doces como Bombom Italiano e linha de alfajores, snacks e whey protein vendidos no site oficial. O cupom DREMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções vigentes. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
@@ -1686,7 +1686,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No nosso teste mais recente, os 10% entraram numa pasta de amendoim que já estava em promoção: de R$ 25,89 por R$ 23,30.',
+          'Sim. Nos nossos testes, os 10% entraram numa pasta de amendoim que já estava em promoção: de R$ 25,89 por R$ 23,30.',
       },
       {
         question: 'O cupom DREMCASACOMCECILIA está funcionando hoje?',
@@ -1696,7 +1696,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'A Dr. Peanut tem frete grátis?',
         answer:
-          'Sim, com valor mínimo por região: a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 no Centro-Oeste, no Norte e no Nordeste, segundo a política de frete da loja. O valor conta depois do cupom: se o desconto deixar o pedido abaixo do mínimo, o frete pode ser cobrado.',
+          'Sim, com valor mínimo por região: a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 no Centro-Oeste, no Norte e no Nordeste, segundo a política de frete da loja. O valor conta depois do cupom: no nosso teste, com entrega em São Paulo, um carrinho de R$ 155,34 tinha frete grátis e, com o cupom, caiu para R$ 139,80 e passou a pagar R$ 12,23 de frete.',
       },
       {
         question: 'O que fazer se o cupom DREMCASACOMCECILIA não funcionar?',
