@@ -618,7 +618,7 @@ const STORE_COUPONS: Coupon[] = [
     metaTitle: 'Cupom Nestlé Nutre: 10% OFF com CECI',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Nestlé Nutre: CECI dá 10% OFF para cliente novo ou antigo e soma com as promoções. Não vale em Alfamino, Alfaré nem fórmulas de 0 a 12 meses.',
+      'Cupom Nestlé Nutre: CECI dá 10% OFF para cliente novo ou antigo e soma com as promoções. Fora Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses.',
     eligibleCategories:
       'Produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses (como NAN)',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
@@ -2863,6 +2863,11 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O cupom EMCASA está funcionando hoje?',
         answer:
           'Sim. No teste mais recente, o EMCASA aplicou os 10% na sacola. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
+      },
+      {
+        question: 'O cupom EMCASA vale para quem já é cliente da Petz?',
+        answer:
+          'Sim. O EMCASA dá 10% no site e no app da Petz para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'O que fazer se o cupom EMCASA não funcionar?',
