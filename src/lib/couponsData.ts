@@ -726,7 +726,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'casa',
     shortDescription: 'todo o site I Wanna Sleep',
     longDescription:
-      'O CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep (colchões, travesseiros e acessórios) e soma com as promoções da loja. Testado num carrinho com um box e um kit Pillow Top.',
+      'O CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep (colchões, travesseiros e acessórios) e soma com as promoções da loja. Testado numa máscara de dormir em promoção.',
     metaTitle: 'Cupom I Wanna Sleep: 10% OFF com CECIEMCASA',
     metaTitleMonth: true,
     metaDescription:
@@ -1387,7 +1387,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'suplementos no site oficial da Probiótica',
     longDescription:
-      'O PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial da Probiótica, soma com as promoções e vale em todas as formas de pagamento. Testado num carrinho com colágeno, creatina, camiseta e barra de proteína: o desconto varia por item.',
+      'O PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial da Probiótica, soma com as promoções e vale em todas as formas de pagamento. Testado num whey em promoção e numa creatina a preço cheio: o desconto varia por item.',
     metaTitle: 'Cupom Probiótica: até 10% OFF com PRO10EMCASACOMCECILIA',
     metaDescription:
       'Cupom Probiótica: PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial, soma com as promoções e vale no Pix e no cartão.',
@@ -1605,7 +1605,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'todo o site Dr. Peanut, com todas as formas de pagamento',
     longDescription:
-      'O DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut, testado com um combo de pastas de amendoim em promoção: soma com as promoções e vale em todas as formas de pagamento.',
+      'O DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut, testado com uma pasta de amendoim em promoção: soma com as promoções e vale em todas as formas de pagamento.',
     metaTitle: 'Cupom Dr. Peanut: 10% OFF com DREMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
@@ -1699,7 +1699,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'todo o site Black Skull, com todas as formas de pagamento',
     longDescription:
-      'O CECILIA10 dá 10% OFF em todo o site da Black Skull, testado com um kit de whey em promoção e um whey a preço cheio: soma com as promoções e vale em todas as formas de pagamento.',
+      'O CECILIA10 dá 10% OFF em todo o site da Black Skull, testado com um kit de whey em promoção: soma com as promoções e vale em todas as formas de pagamento.',
     metaTitle: 'Cupom Black Skull: 10% OFF em tudo com CECILIA10',
     metaTitleMonth: true,
     metaDescription:
@@ -1961,7 +1961,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'alimentacao',
     shortDescription: 'todo o site Belive, com todas as formas de pagamento',
     longDescription:
-      'O código da Cecília dá 10% OFF em todo o site da Belive e soma com as ofertas e com os 5% do Pix. Testado num carrinho com um combo em oferta e um pão a preço cheio.',
+      'O código da Cecília dá 10% OFF em todo o site da Belive e soma com as ofertas e com os 5% do Pix. Testado num combo de pão de batata em oferta.',
     metaTitle: 'Cupom Belive: 10% OFF em tudo e soma com o Pix',
     metaTitleMonth: true,
     metaDescription:
@@ -2071,7 +2071,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'todo o site Mais Mu, com todas as formas de pagamento',
     longDescription:
-      'O MMEMCASACOMCECILIA dá 10% OFF em todo o site da Mais Mu, soma com as ofertas e com os 3% do Pix, e vale em todas as formas de pagamento. Testado num carrinho com um whey a preço cheio e uma creatina em oferta.',
+      'O MMEMCASACOMCECILIA dá 10% OFF em todo o site da Mais Mu, soma com as ofertas e com os 3% do Pix, e vale em todas as formas de pagamento. Testado num carrinho com wheys e creatina em promoção.',
     metaTitle: 'Cupom Mais Mu: 10% OFF com MMEMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
@@ -2192,7 +2192,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'beleza',
     shortDescription: 'todo o site Skelt, com todas as formas de pagamento',
     longDescription:
-      'O SKEMCASACOMCECILIA dá 10% OFF em todo o site da Skelt, soma com as promoções e com os 5% do Pix, e vale em todas as formas de pagamento. Testado com body splash e mousse autobronzeador em promoção.',
+      'O SKEMCASACOMCECILIA dá 10% OFF em todo o site da Skelt, soma com as promoções e com os 5% do Pix, e vale em todas as formas de pagamento. Testado num kit de body splashes em promoção.',
     metaTitle: 'Cupom Skelt: 10% OFF com SKEMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
