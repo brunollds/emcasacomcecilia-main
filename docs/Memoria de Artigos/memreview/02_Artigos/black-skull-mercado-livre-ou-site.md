@@ -147,3 +147,10 @@ Só preço, peso do pacote, sabor, tamanho, regras de troca e de frete, e o que 
 3. Creatina Pura 300 g fora: o site não vende o mesmo produto.
 4. Frete: só a regra do site (grátis acima de R$ 199,90 no Sul e no Sudeste, contado depois do desconto). Do ML, nenhuma promessa de frete.
 5. Shopee e Amazon fora. O [[cupom-black-skull-como-usar]] e o [[black-skull-e-confiavel]] entram com uma frase e o link.
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/black-skull/black-skull-mercado-livre-ou-site-capa-v2.webp` (`imageFit: contain`), SHA-256 `a8266d3f4426b73a56759419089e5a51419a9033f89131a9528605697b5df2c5`.
+- **Alt:** Frasco Thermo Flame de 60 comprimidos da Black Skull sobre um pedestal claro, em imagem oficial, ao lado da pergunta Mercado Livre ou site? e do cupom CECILIA10 identificado para uso no site.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Thermo Flame 60 comprimidos, um dos produtos da comparação, com CECILIA10 na caixa branca identificado para uso no site (não é cupom do Mercado Livre); sem percentual na arte. Produto em foto real.
+- **Lote 37 do piloto de capas (sequência 12 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-SEQUENCIA-12-CLAUDE.zip` (`lotes/37/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/black-skull/black-skull-mercado-livre-ou-site-capa.webp`) fica no CDN, sem uso como capa.

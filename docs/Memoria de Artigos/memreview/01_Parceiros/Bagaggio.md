@@ -31,6 +31,10 @@ finalizar): Mala de Bordo PP Downtown Preta, do Outlet, de R$ 249,90 por R$ 179,
 R$ 161,91 (−R$ 17,99); no Pix, R$ 153,81. Mala de Bordo KidGo Preta, a preço cheio, de R$ 1.499,90
 para R$ 1.349,91. Mala de Bordo Detroit Preta, do Outlet, de R$ 249,90 para R$ 224,91.
 
+Pagamento e frete publicados pela loja, lidos no site dela em 2026-11-12 pela sessão de cupons (estão em `/cupons` desde o #924; reler na rodada mensal):
+
+- Parcelamento: até 6x sem juros com parcela mínima de R$ 50, ou até 10x sem juros com parcela mínima de R$ 200 (`/institucional/formas-de-pagamento`).
+
 ---
 
 ## 2. Fatos Oficiais & Catálogo (Estáveis)

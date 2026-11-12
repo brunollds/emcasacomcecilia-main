@@ -23,6 +23,11 @@ revisao_geral_ate: "2027-01-07"
 | Pagamento: Pix à vista com 10% OFF; cartão e PayPal em até 12x sem juros (parcela mínima de R$ 100); boleto à vista, compensa em até 2 dias úteis | regra_oficial | damie.com.br/pages/formas-de-pagamento | 2026-10-08 | 2027-01-08 | O giftback de 15% em 45 dias só aparece na faixa do site, sem regras publicadas. O CECILIA12 soma com o Pix e com as demais promoções e descontos do site; não soma com outro cupom nem com o giftback (Bruno, 08/10/2026) | Alta |
 | Desconto por quantidade nas reclináveis: R$ 500 em 2, R$ 1.000 em 3, R$ 1.500 em 4, R$ 2.000 em 5 | condicao_comercial_volatil | Página de produto da reclinável | 2026-10-08 | 2026-11-08 | Só pelos consultores no WhatsApp; soma com o CECILIA12 (Bruno, 08/10/2026) | Média |
 
+Pagamento e frete publicados pela loja, lidos no site dela em 2026-11-12 pela sessão de cupons (estão em `/cupons` desde o #924; reler na rodada mensal):
+
+- Parcelamento: até 12x sem juros no cartão, com parcela mínima de R$ 100 (`/pages/formas-de-pagamento`).
+- Frete: grátis em poltronas e sofás com entrega no Sul e no Sudeste; no Centro-Oeste e capitais, calculado pelo CEP; Norte e Nordeste são atendidos só pelos anúncios da loja no Mercado Livre (`/pages/fretes-e-entregas`).
+
 ---
 
 ## 2. Catálogo, Tecidos & Mecânica (Estáveis)

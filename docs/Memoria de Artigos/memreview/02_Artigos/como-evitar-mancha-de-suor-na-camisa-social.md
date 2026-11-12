@@ -139,3 +139,10 @@ Moderado, da galeria da loja, com `href`.
 - **Capa:** `/images/reviews/insider/como-evitar-mancha-de-suor-na-camisa-social-capa.webp` (`imageFit: contain`), 1600 × 900. Alt: Homem com undershirt bege sob camisa social branca aberta, ao lado do título Mancha de suor na camisa social, do logo da Insider e do código EMCASACOMCECILIA
 - **O que usar por baixo da camisa social:** `/images/reviews/insider/mancha-suor-undershirt-moderado.webp`. Alt: Detalhe da axila da Undershirt Antissuor Moderado bege, em foto da Insider. Legenda: Foto: Insider.
 - **Origem:** Capa em painel lateral (logo da Insider, título e EMCASACOMCECILIA) com a foto oficial da Undershirt Moderado bege sob camisa aberta; no corpo, o detalhe da axila da mesma galeria. Sem IA.
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/insider/como-evitar-mancha-de-suor-na-camisa-social-capa-v2.webp` (`imageFit: contain`), SHA-256 `4c46fa66eb2b71769409332b4bcb582be3fcf2871e980679cfe8baa32f0f508c`.
+- **Alt:** Modelo adulto com undershirt branca sob camisa azul aberta, em foto oficial da Insider, ao lado da pergunta Mancha de suor na camisa? e do apoio O que usar por baixo.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Foto oficial com modelo adulto de undershirt branca e camisa azul aberta; não é a Cecília nem teste de manchas ou suor. Produto em foto real.
+- **Lote 37 do piloto de capas (sequência 12 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-SEQUENCIA-12-CLAUDE.zip` (`lotes/37/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/insider/como-evitar-mancha-de-suor-na-camisa-social-capa.webp`) fica no CDN, sem uso como capa.

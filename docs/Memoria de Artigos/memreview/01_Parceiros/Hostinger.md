@@ -30,6 +30,10 @@ passou a loja de código: **cupom `SONAR20`** (20%), digitado no carrinho ou pel
 | Compras pelo código ou pelo link podem gerar comissão para o Bruno | condicao_comercial_volatil | Bruno, 29/10/2026 | 2026-10-29 | 2026-11-29 | Nota: "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você." Saiu o "crédito na Hostinger" | Alta |
 | Até 29/10/2026: indicação por link `?REFERRALCODE=SONARDEOFERTAS`, sem cupom, 12 meses ou mais, cliente novo, não somava, crédito para quem indica | historico | página de indicação da Hostinger | 2026-10-19 | — | Código antigo: o `test:review-i18n` barra `SONARDEOFERTAS` em qualquer artigo | Alta |
 
+Pagamento e frete publicados pela loja, lidos no site dela em 2026-11-12 pela sessão de cupons (estão em `/cupons` desde o #924; reler na rodada mensal):
+
+- Parcelamento: o total do plano pode ser dividido em até 12 parcelas no cartão (`hostinger.com/br`); a página não diz "sem juros".
+
 ---
 
 ## 2. Fatos Oficiais (Estáveis)

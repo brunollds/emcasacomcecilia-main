@@ -38,6 +38,10 @@ promoção) e Maxi R$ 279,99 (fica a promoção de 20%). Total R$ 383,97 → R$ 
 O site e a CDN da Petz bloqueiam acesso automático (403 no curl e no WebFetch). Leitura e teste
 mensal: pelo Chrome.
 
+Pagamento e frete publicados pela loja, lidos no site dela em 2026-11-12 pela sessão de cupons (estão em `/cupons` desde o #924; reler na rodada mensal):
+
+- Parcelamento: até 3x sem juros, com parcela mínima de R$ 80 (`/institucional/pagamentos-e-reembolsos`).
+
 ---
 
 ## 2. Fatos Oficiais & Catálogo (Estáveis)

@@ -222,6 +222,14 @@ O que funcionou nos deploys de outubro, na ordem. Cada passo depende do anterior
 10. **Limpeza:** apagar o clone e o archive. No clone, a única mudança esperada é o fim de linha do
     `src/lib/generated/content-index.ts`.
 
+**Teste da cadeia do `build` não lê `public/images` do disco.** O archive de produção só leva `about`, `authors` e
+`logos` de `public/images`; as imagens de artigo e de loja saem pelo CDN. Em 12/11/2026 o build do `e563b067` falhou
+em 49 s, sem publicar nada, porque o `test:coupon-offer-modes` conferia com `existsSync` o print do carrinho de uma
+loja (corrigido no #926: a trava aceita a imagem do `src/lib/generated/media-delivery-map.json`). O build local, o
+`deploy:prepare` e o Gate 1 passam nesse caso, porque rodam no checkout completo. Para provar antes do envio uma
+mudança em teste que roda no build: `git archive HEAD | tar -x -C <pasta de nome curto>`, uma junção do
+`node_modules` nela e `npm run build` ali.
+
 Falhas passageiras conhecidas: o `next/font` antigo (antes das fontes locais) e um HTTP 500 da API da
 Hostinger na captura. Nos dois casos, repetir resolveu.
 

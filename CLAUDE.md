@@ -49,6 +49,11 @@ npm run test:build-output    # depois do build: o header marca a seção atual (
 
 `npm run typecheck` antes do `build`: enumera tudo de uma vez e é muito mais rápido.
 
+Teste que roda na cadeia do `build` (os `test:*` e `validate:*` de antes do `next build`) roda também no build da
+Hostinger, a partir do archive, que não leva as imagens de artigo e de loja de `public/images`: para conferir uma
+imagem, usar o `src/lib/generated/media-delivery-map.json`, nunca o arquivo no disco (`docs/DEPLOY-GUIDE.md`).
+Loja nova em `/cupons`: a checklist "Loja nova" do `docs/MANUTENCAO-MENSAL.md`, seção 2.
+
 ⚠️ **Editou `content/reviews/*.json` ou `content/receitas/*.json` à mão?** O app não lê esses
 arquivos direto em dev — ele lê `src/lib/generated/content-index.ts`, um índice gerado. Rode
 `node scripts/content/build-index.mjs` antes de conferir a mudança no `localhost:3000` (o

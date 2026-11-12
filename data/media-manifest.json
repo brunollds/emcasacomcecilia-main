@@ -37685,6 +37685,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia-capa-v2.webp",
+      "local_url": "/images/reviews/10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 102024,
+      "sha256": "bd213fa4ec63927b2ad617ddfe883abb8bb08f2bc2f89249a3045a33a986380e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia-capa-v2.webp",
+      "storage_filename": "10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia.json",
+          "line": 21,
+          "column": 13,
+          "literal": "/images/reviews/10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia.md",
+          "line": 7,
+          "column": 14,
+          "literal": "/images/reviews/10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bd213fa4ec63927b2ad617ddfe883abb8bb08f2bc2f89249a3045a33a986380e/10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bd213fa4ec63927b2ad617ddfe883abb8bb08f2bc2f89249a3045a33a986380e/10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.173Z",
+      "verification_etag_or_digest": "bd213fa4ec63927b2ad617ddfe883abb8bb08f2bc2f89249a3045a33a986380e",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/airfryer-10-fatos-capa-discover.webp",
       "local_url": "/images/reviews/airfryer-10-fatos-capa-discover.webp",
       "media_kind": "image",
@@ -37872,6 +37918,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-19T15:15:07.800Z",
       "verification_etag_or_digest": "b0a54f6dcbead9a0b4800dcb4a47db1db601042570fcedbeb5b2fb92764b2e2e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/airfryer-uma-breve-historia-capa-v2.webp",
+      "local_url": "/images/reviews/airfryer-uma-breve-historia-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 89114,
+      "sha256": "528f198038fdb27d0c12e7e3ebac52afd930479be7b108e2e6f1368a83a02808",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "airfryer-uma-breve-historia-capa-v2.webp",
+      "storage_filename": "airfryer-uma-breve-historia-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/airfryer-uma-breve-historia.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/airfryer-uma-breve-historia.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/airfryer-uma-breve-historia.json",
+          "line": 21,
+          "column": 13,
+          "literal": "/images/reviews/airfryer-uma-breve-historia-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/airfryer-uma-breve-historia.md",
+          "line": 7,
+          "column": 14,
+          "literal": "/images/reviews/airfryer-uma-breve-historia-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/528f198038fdb27d0c12e7e3ebac52afd930479be7b108e2e6f1368a83a02808/airfryer-uma-breve-historia-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/528f198038fdb27d0c12e7e3ebac52afd930479be7b108e2e6f1368a83a02808/airfryer-uma-breve-historia-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.174Z",
+      "verification_etag_or_digest": "528f198038fdb27d0c12e7e3ebac52afd930479be7b108e2e6f1368a83a02808",
       "verification_status": "verified"
     },
     {
@@ -44173,6 +44265,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/black-skull/black-skull-mercado-livre-ou-site-capa-v2.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-mercado-livre-ou-site-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48642,
+      "sha256": "a8266d3f4426b73a56759419089e5a51419a9033f89131a9528605697b5df2c5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-mercado-livre-ou-site-capa-v2.webp",
+      "storage_filename": "black-skull-mercado-livre-ou-site-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-mercado-livre-ou-site.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-skull-mercado-livre-ou-site.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-mercado-livre-ou-site.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/black-skull-mercado-livre-ou-site-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-skull-mercado-livre-ou-site.md",
+          "line": 153,
+          "column": 14,
+          "literal": "/images/reviews/black-skull/black-skull-mercado-livre-ou-site-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a8266d3f4426b73a56759419089e5a51419a9033f89131a9528605697b5df2c5/black-skull-mercado-livre-ou-site-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a8266d3f4426b73a56759419089e5a51419a9033f89131a9528605697b5df2c5/black-skull-mercado-livre-ou-site-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.174Z",
+      "verification_etag_or_digest": "a8266d3f4426b73a56759419089e5a51419a9033f89131a9528605697b5df2c5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/black-skull/black-skull-mercado-livre-ou-site-capa.webp",
       "local_url": "/images/reviews/black-skull/black-skull-mercado-livre-ou-site-capa.webp",
       "media_kind": "image",
@@ -44736,6 +44874,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-25T18:32:45.245Z",
       "verification_etag_or_digest": "93a04d0a0f30fb7affec16ff5bcfed19973289937abc83cab18bcc1204ff62bb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-ou-max-titanium-capa-v2.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-ou-max-titanium-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 100542,
+      "sha256": "f5771b90739c2dcfe26fa59538d392ba8ce58351943d51132dc2ee49fde393ba",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-ou-max-titanium-capa-v2.webp",
+      "storage_filename": "black-skull-ou-max-titanium-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-ou-max-titanium.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-skull-ou-max-titanium.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-ou-max-titanium.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/black-skull-ou-max-titanium-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-skull-ou-max-titanium.md",
+          "line": 526,
+          "column": 14,
+          "literal": "/images/reviews/black-skull/black-skull-ou-max-titanium-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f5771b90739c2dcfe26fa59538d392ba8ce58351943d51132dc2ee49fde393ba/black-skull-ou-max-titanium-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f5771b90739c2dcfe26fa59538d392ba8ce58351943d51132dc2ee49fde393ba/black-skull-ou-max-titanium-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.174Z",
+      "verification_etag_or_digest": "f5771b90739c2dcfe26fa59538d392ba8ce58351943d51132dc2ee49fde393ba",
       "verification_status": "verified"
     },
     {
@@ -46028,6 +46212,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-31T00:31:43.912Z",
       "verification_etag_or_digest": "4f71890b215d72f3f9901019b38c578499e8f7c845be263afa3452cccd17da1f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-capa-v2.webp",
+      "local_url": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60222,
+      "sha256": "830a1c80d6a45478fde75ea5ae739bf1028182d7b6e6c7a9811546e3052f5096",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "glutamina-qual-escolher-black-skull-max-probiotica-capa-v2.webp",
+      "storage_filename": "glutamina-qual-escolher-black-skull-max-probiotica-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/glutamina-qual-escolher-black-skull-max-probiotica.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/glutamina-qual-escolher-black-skull-max-probiotica.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/glutamina-qual-escolher-black-skull-max-probiotica.md",
+          "line": 152,
+          "column": 14,
+          "literal": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/830a1c80d6a45478fde75ea5ae739bf1028182d7b6e6c7a9811546e3052f5096/glutamina-qual-escolher-black-skull-max-probiotica-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/830a1c80d6a45478fde75ea5ae739bf1028182d7b6e6c7a9811546e3052f5096/glutamina-qual-escolher-black-skull-max-probiotica-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.174Z",
+      "verification_etag_or_digest": "830a1c80d6a45478fde75ea5ae739bf1028182d7b6e6c7a9811546e3052f5096",
       "verification_status": "verified"
     },
     {
@@ -56035,6 +56265,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/poltrona-charles-eames-design-iconico-e-alternativas-capa-v2.webp",
+      "local_url": "/images/reviews/damie/poltrona-charles-eames-design-iconico-e-alternativas-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 76746,
+      "sha256": "50c763e38708ef02642c2b98917486f759c00638a6eda77694af02bcd899a06f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-charles-eames-design-iconico-e-alternativas-capa-v2.webp",
+      "storage_filename": "poltrona-charles-eames-design-iconico-e-alternativas-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-charles-eames-design-iconico-e-alternativas.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/poltrona-charles-eames-design-iconico-e-alternativas.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-charles-eames-design-iconico-e-alternativas.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltrona-charles-eames-design-iconico-e-alternativas-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/poltrona-charles-eames-design-iconico-e-alternativas.md",
+          "line": 81,
+          "column": 14,
+          "literal": "/images/reviews/damie/poltrona-charles-eames-design-iconico-e-alternativas-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/50c763e38708ef02642c2b98917486f759c00638a6eda77694af02bcd899a06f/poltrona-charles-eames-design-iconico-e-alternativas-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/50c763e38708ef02642c2b98917486f759c00638a6eda77694af02bcd899a06f/poltrona-charles-eames-design-iconico-e-alternativas-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.174Z",
+      "verification_etag_or_digest": "50c763e38708ef02642c2b98917486f759c00638a6eda77694af02bcd899a06f",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/poltrona-damie-2-0-almofada-regulavel.webp",
       "local_url": "/images/reviews/damie/poltrona-damie-2-0-almofada-regulavel.webp",
       "media_kind": "image",
@@ -58182,6 +58458,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-26T03:10:39.709Z",
       "verification_etag_or_digest": "ef0c3eab1e22a2f4860e5c28056ff69c5c90e4a6bbded3ec9bf57ed15bb93476",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/valley-inflow-ou-damie-capa-v2.webp",
+      "local_url": "/images/reviews/damie/valley-inflow-ou-damie-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 156150,
+      "sha256": "71a19b819223e4ac231227d9122fc5a68f49e2f9e6f59573d8dd85021a2e273c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "valley-inflow-ou-damie-capa-v2.webp",
+      "storage_filename": "valley-inflow-ou-damie-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/valley-inflow-ou-damie.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/valley-inflow-ou-damie.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/valley-inflow-ou-damie.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/damie/valley-inflow-ou-damie-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/valley-inflow-ou-damie.md",
+          "line": 576,
+          "column": 14,
+          "literal": "/images/reviews/damie/valley-inflow-ou-damie-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/71a19b819223e4ac231227d9122fc5a68f49e2f9e6f59573d8dd85021a2e273c/valley-inflow-ou-damie-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/71a19b819223e4ac231227d9122fc5a68f49e2f9e6f59573d8dd85021a2e273c/valley-inflow-ou-damie-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.174Z",
+      "verification_etag_or_digest": "71a19b819223e4ac231227d9122fc5a68f49e2f9e6f59573d8dd85021a2e273c",
       "verification_status": "verified"
     },
     {
@@ -61449,6 +61771,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-vs-3-coracoes-capa-v2.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-vs-3-coracoes-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 120298,
+      "sha256": "de332f01b323a6b4ea34101c10d5a1e4bc27432f0bcff0814dac15cbb1b452f0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-vs-nespresso-vs-3-coracoes-capa-v2.webp",
+      "storage_filename": "dolce-gusto-vs-nespresso-vs-3-coracoes-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-vs-nespresso-vs-3-coracoes.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/dolce-gusto-vs-nespresso-vs-3-coracoes.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-vs-nespresso-vs-3-coracoes.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-vs-3-coracoes-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/dolce-gusto-vs-nespresso-vs-3-coracoes.md",
+          "line": 131,
+          "column": 14,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-vs-3-coracoes-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/de332f01b323a6b4ea34101c10d5a1e4bc27432f0bcff0814dac15cbb1b452f0/dolce-gusto-vs-nespresso-vs-3-coracoes-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/de332f01b323a6b4ea34101c10d5a1e4bc27432f0bcff0814dac15cbb1b452f0/dolce-gusto-vs-nespresso-vs-3-coracoes-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.174Z",
+      "verification_etag_or_digest": "de332f01b323a6b4ea34101c10d5a1e4bc27432f0bcff0814dac15cbb1b452f0",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-vs-3-coracoes-hero.jpg",
       "local_url": "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-vs-3-coracoes-hero.jpg",
       "media_kind": "image",
@@ -62521,6 +62889,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-2026-capa-v2.webp",
+      "local_url": "/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-2026-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 79354,
+      "sha256": "b313ff9d8ae74c7577c22f451b357baf607306b13cc555ab2403169c2c396255",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhores-capsulas-dolce-gusto-2026-capa-v2.webp",
+      "storage_filename": "melhores-capsulas-dolce-gusto-2026-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/melhores-capsulas-dolce-gusto-2026.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/melhores-capsulas-dolce-gusto-2026.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/melhores-capsulas-dolce-gusto-2026.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-2026-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/melhores-capsulas-dolce-gusto-2026.md",
+          "line": 345,
+          "column": 14,
+          "literal": "/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-2026-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b313ff9d8ae74c7577c22f451b357baf607306b13cc555ab2403169c2c396255/melhores-capsulas-dolce-gusto-2026-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b313ff9d8ae74c7577c22f451b357baf607306b13cc555ab2403169c2c396255/melhores-capsulas-dolce-gusto-2026-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.174Z",
+      "verification_etag_or_digest": "b313ff9d8ae74c7577c22f451b357baf607306b13cc555ab2403169c2c396255",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-2026-hero.webp",
       "local_url": "/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-2026-hero.webp",
       "media_kind": "image",
@@ -63378,6 +63792,52 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "53e228eed0009c9d304fa27ad80a1c2a863063480e484dce882017a25ab33581",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/quanto-custa-capsula-dolce-gusto-capa-v2.webp",
+      "local_url": "/images/reviews/dolcegusto/quanto-custa-capsula-dolce-gusto-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 61640,
+      "sha256": "58253db17c99d7a7feebb5b9e10d5366d5303abdae648e42112c603222db151c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "quanto-custa-capsula-dolce-gusto-capa-v2.webp",
+      "storage_filename": "quanto-custa-capsula-dolce-gusto-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/quanto-custa-capsula-dolce-gusto.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/quanto-custa-capsula-dolce-gusto.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/quanto-custa-capsula-dolce-gusto.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/quanto-custa-capsula-dolce-gusto-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/quanto-custa-capsula-dolce-gusto.md",
+          "line": 319,
+          "column": 14,
+          "literal": "/images/reviews/dolcegusto/quanto-custa-capsula-dolce-gusto-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/58253db17c99d7a7feebb5b9e10d5366d5303abdae648e42112c603222db151c/quanto-custa-capsula-dolce-gusto-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/58253db17c99d7a7feebb5b9e10d5366d5303abdae648e42112c603222db151c/quanto-custa-capsula-dolce-gusto-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.174Z",
+      "verification_etag_or_digest": "58253db17c99d7a7feebb5b9e10d5366d5303abdae648e42112c603222db151c",
       "verification_status": "verified"
     },
     {
@@ -80356,6 +80816,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-30T19:40:38.600Z",
       "verification_etag_or_digest": "5f9b465774e9569e79f721b27a723c1419c7bd364f4b6e519b5e973095ff02d2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/como-evitar-mancha-de-suor-na-camisa-social-capa-v2.webp",
+      "local_url": "/images/reviews/insider/como-evitar-mancha-de-suor-na-camisa-social-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 55386,
+      "sha256": "4c46fa66eb2b71769409332b4bcb582be3fcf2871e980679cfe8baa32f0f508c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "como-evitar-mancha-de-suor-na-camisa-social-capa-v2.webp",
+      "storage_filename": "como-evitar-mancha-de-suor-na-camisa-social-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/como-evitar-mancha-de-suor-na-camisa-social.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/como-evitar-mancha-de-suor-na-camisa-social.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/como-evitar-mancha-de-suor-na-camisa-social.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/como-evitar-mancha-de-suor-na-camisa-social-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/como-evitar-mancha-de-suor-na-camisa-social.md",
+          "line": 145,
+          "column": 14,
+          "literal": "/images/reviews/insider/como-evitar-mancha-de-suor-na-camisa-social-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4c46fa66eb2b71769409332b4bcb582be3fcf2871e980679cfe8baa32f0f508c/como-evitar-mancha-de-suor-na-camisa-social-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4c46fa66eb2b71769409332b4bcb582be3fcf2871e980679cfe8baa32f0f508c/como-evitar-mancha-de-suor-na-camisa-social-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.175Z",
+      "verification_etag_or_digest": "4c46fa66eb2b71769409332b4bcb582be3fcf2871e980679cfe8baa32f0f508c",
       "verification_status": "verified"
     },
     {
@@ -97425,6 +97931,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 76390,
+      "sha256": "0dc998ee18ad0aafdff8c6a687c18bbea38e9bae7857b0d6ec03bd35d932b874",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barra-de-proteina-mais-mu-qual-escolher-capa-v2.webp",
+      "storage_filename": "barra-de-proteina-mais-mu-qual-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barra-de-proteina-mais-mu-qual-escolher.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/barra-de-proteina-mais-mu-qual-escolher.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barra-de-proteina-mais-mu-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/barra-de-proteina-mais-mu-qual-escolher.md",
+          "line": 589,
+          "column": 14,
+          "literal": "/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0dc998ee18ad0aafdff8c6a687c18bbea38e9bae7857b0d6ec03bd35d932b874/barra-de-proteina-mais-mu-qual-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0dc998ee18ad0aafdff8c6a687c18bbea38e9bae7857b0d6ec03bd35d932b874/barra-de-proteina-mais-mu-qual-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.175Z",
+      "verification_etag_or_digest": "0dc998ee18ad0aafdff8c6a687c18bbea38e9bae7857b0d6ec03bd35d932b874",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-capa.webp",
       "local_url": "/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-capa.webp",
       "media_kind": "image",
@@ -98615,6 +99167,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-ou-growth-capa-v2.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-ou-growth-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 54996,
+      "sha256": "a92f35a6bf2714656022dd2b18ac4e52c8ca19e2156bb79217f82124923b8c61",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-ou-growth-capa-v2.webp",
+      "storage_filename": "mais-mu-ou-growth-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mais-mu-ou-growth.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/mais-mu-ou-growth.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mais-mu-ou-growth.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/mais-mu/mais-mu-ou-growth-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/mais-mu-ou-growth.md",
+          "line": 313,
+          "column": 14,
+          "literal": "/images/reviews/mais-mu/mais-mu-ou-growth-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a92f35a6bf2714656022dd2b18ac4e52c8ca19e2156bb79217f82124923b8c61/mais-mu-ou-growth-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a92f35a6bf2714656022dd2b18ac4e52c8ca19e2156bb79217f82124923b8c61/mais-mu-ou-growth-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.175Z",
+      "verification_etag_or_digest": "a92f35a6bf2714656022dd2b18ac4e52c8ca19e2156bb79217f82124923b8c61",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/mais-mu/mais-mu-ou-growth-capa.webp",
       "local_url": "/images/reviews/mais-mu/mais-mu-ou-growth-capa.webp",
       "media_kind": "image",
@@ -99796,6 +100394,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-19T16:50:00.173Z",
       "verification_etag_or_digest": "f190da5af0820c55d2c182de0e8203656d314b63fbb0cfc90887e7dd52d276ef",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/manteiga/minha-experiencia-manteiga-batida-aerada-capa-v2.webp",
+      "local_url": "/images/reviews/manteiga/minha-experiencia-manteiga-batida-aerada-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78062,
+      "sha256": "7c7450392209b885b8ead4c9871bd4c9af6284d54b9eebdda9c4710ae008565c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "minha-experiencia-manteiga-batida-aerada-capa-v2.webp",
+      "storage_filename": "minha-experiencia-manteiga-batida-aerada-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/minha-experiencia-manteiga-batida-aerada.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/minha-experiencia-manteiga-batida-aerada.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/minha-experiencia-manteiga-batida-aerada.json",
+          "line": 11,
+          "column": 13,
+          "literal": "/images/reviews/manteiga/minha-experiencia-manteiga-batida-aerada-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/minha-experiencia-manteiga-batida-aerada.md",
+          "line": 7,
+          "column": 14,
+          "literal": "/images/reviews/manteiga/minha-experiencia-manteiga-batida-aerada-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7c7450392209b885b8ead4c9871bd4c9af6284d54b9eebdda9c4710ae008565c/minha-experiencia-manteiga-batida-aerada-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7c7450392209b885b8ead4c9871bd4c9af6284d54b9eebdda9c4710ae008565c/minha-experiencia-manteiga-batida-aerada-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.175Z",
+      "verification_etag_or_digest": "7c7450392209b885b8ead4c9871bd4c9af6284d54b9eebdda9c4710ae008565c",
       "verification_status": "verified"
     },
     {
@@ -108822,6 +109466,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/presentes/presente-natal-quem-treina-capa-v2.webp",
+      "local_url": "/images/reviews/presentes/presente-natal-quem-treina-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36102,
+      "sha256": "1550d13a8af8914df07a8dfb7847c0b7cf3fcdbb43629bd88181ff7bf912b21a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-natal-quem-treina-capa-v2.webp",
+      "storage_filename": "presente-natal-quem-treina-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-natal-quem-treina.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/presente-natal-quem-treina.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-natal-quem-treina.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/presentes/presente-natal-quem-treina-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/presente-natal-quem-treina.md",
+          "line": 680,
+          "column": 14,
+          "literal": "/images/reviews/presentes/presente-natal-quem-treina-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1550d13a8af8914df07a8dfb7847c0b7cf3fcdbb43629bd88181ff7bf912b21a/presente-natal-quem-treina-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1550d13a8af8914df07a8dfb7847c0b7cf3fcdbb43629bd88181ff7bf912b21a/presente-natal-quem-treina-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.175Z",
+      "verification_etag_or_digest": "1550d13a8af8914df07a8dfb7847c0b7cf3fcdbb43629bd88181ff7bf912b21a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/presentes/presente-natal-quem-treina-capa.webp",
       "local_url": "/images/reviews/presentes/presente-natal-quem-treina-capa.webp",
       "media_kind": "image",
@@ -111444,6 +112134,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/rabanada/conhecendo-mais-rabanada-capa-v2.webp",
+      "local_url": "/images/reviews/rabanada/conhecendo-mais-rabanada-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 131106,
+      "sha256": "f6145aa28db41810332d72898223fb66f4e6c7ce5db235b562f9310bab39339f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "conhecendo-mais-rabanada-capa-v2.webp",
+      "storage_filename": "conhecendo-mais-rabanada-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/conhecendo-mais-rabanada.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/conhecendo-mais-rabanada.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/conhecendo-mais-rabanada.json",
+          "line": 12,
+          "column": 13,
+          "literal": "/images/reviews/rabanada/conhecendo-mais-rabanada-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/conhecendo-mais-rabanada.md",
+          "line": 7,
+          "column": 14,
+          "literal": "/images/reviews/rabanada/conhecendo-mais-rabanada-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f6145aa28db41810332d72898223fb66f4e6c7ce5db235b562f9310bab39339f/conhecendo-mais-rabanada-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f6145aa28db41810332d72898223fb66f4e6c7ce5db235b562f9310bab39339f/conhecendo-mais-rabanada-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.175Z",
+      "verification_etag_or_digest": "f6145aa28db41810332d72898223fb66f4e6c7ce5db235b562f9310bab39339f",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/rabanada/rabanada-caminho-ilustracao.webp",
       "local_url": "/images/reviews/rabanada/rabanada-caminho-ilustracao.webp",
       "media_kind": "image",
@@ -111951,6 +112687,52 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "2c1b011e6a878865ad3bfa646071ec4411e4802fe5ab4a9ba3c8e976f15cd457",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/samsung/samsung-lava-seca-13kg-primeiro-uso-capa-v2.webp",
+      "local_url": "/images/reviews/samsung/samsung-lava-seca-13kg-primeiro-uso-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 129622,
+      "sha256": "6995dcedc4fd7f3c7056966287b20fdc400466106d8798739525bbec63b93b79",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "samsung-lava-seca-13kg-primeiro-uso-capa-v2.webp",
+      "storage_filename": "samsung-lava-seca-13kg-primeiro-uso-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/samsung-lava-seca-13kg-primeiro-uso.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/samsung-lava-seca-13kg-primeiro-uso.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/samsung-lava-seca-13kg-primeiro-uso.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/samsung/samsung-lava-seca-13kg-primeiro-uso-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/samsung-lava-seca-13kg-primeiro-uso.md",
+          "line": 7,
+          "column": 14,
+          "literal": "/images/reviews/samsung/samsung-lava-seca-13kg-primeiro-uso-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6995dcedc4fd7f3c7056966287b20fdc400466106d8798739525bbec63b93b79/samsung-lava-seca-13kg-primeiro-uso-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6995dcedc4fd7f3c7056966287b20fdc400466106d8798739525bbec63b93b79/samsung-lava-seca-13kg-primeiro-uso-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.175Z",
+      "verification_etag_or_digest": "6995dcedc4fd7f3c7056966287b20fdc400466106d8798739525bbec63b93b79",
       "verification_status": "verified"
     },
     {
@@ -130093,6 +130875,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/toda-up/toda-up-ou-hope-sutia-adesivo-capa-v2.webp",
+      "local_url": "/images/reviews/toda-up/toda-up-ou-hope-sutia-adesivo-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 116222,
+      "sha256": "54d4876e713c6989db3cf0b2914f1ff858d7fef3a73e593378fefff08f01bff1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "toda-up-ou-hope-sutia-adesivo-capa-v2.webp",
+      "storage_filename": "toda-up-ou-hope-sutia-adesivo-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/toda-up-ou-hope-sutia-adesivo.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/toda-up-ou-hope-sutia-adesivo.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/toda-up-ou-hope-sutia-adesivo.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/toda-up-ou-hope-sutia-adesivo-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/toda-up-ou-hope-sutia-adesivo.md",
+          "line": 86,
+          "column": 14,
+          "literal": "/images/reviews/toda-up/toda-up-ou-hope-sutia-adesivo-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/54d4876e713c6989db3cf0b2914f1ff858d7fef3a73e593378fefff08f01bff1/toda-up-ou-hope-sutia-adesivo-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/54d4876e713c6989db3cf0b2914f1ff858d7fef3a73e593378fefff08f01bff1/toda-up-ou-hope-sutia-adesivo-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.175Z",
+      "verification_etag_or_digest": "54d4876e713c6989db3cf0b2914f1ff858d7fef3a73e593378fefff08f01bff1",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/toda-up/toda-up-ou-hope-sutia-adesivo-capa.webp",
       "local_url": "/images/reviews/toda-up/toda-up-ou-hope-sutia-adesivo-capa.webp",
       "media_kind": "image",
@@ -130231,6 +131059,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/toda-up/toda-up-ou-lupo-sutia-adesivo-capa-v2.webp",
+      "local_url": "/images/reviews/toda-up/toda-up-ou-lupo-sutia-adesivo-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 106976,
+      "sha256": "f8fad6803e9de6fc271f04e3014c8ce575a6d334bf41b24c64fb14c8f838a922",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "toda-up-ou-lupo-sutia-adesivo-capa-v2.webp",
+      "storage_filename": "toda-up-ou-lupo-sutia-adesivo-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/toda-up-ou-lupo-sutia-adesivo.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/toda-up-ou-lupo-sutia-adesivo.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/toda-up-ou-lupo-sutia-adesivo.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/toda-up-ou-lupo-sutia-adesivo-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/toda-up-ou-lupo-sutia-adesivo.md",
+          "line": 88,
+          "column": 14,
+          "literal": "/images/reviews/toda-up/toda-up-ou-lupo-sutia-adesivo-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f8fad6803e9de6fc271f04e3014c8ce575a6d334bf41b24c64fb14c8f838a922/toda-up-ou-lupo-sutia-adesivo-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f8fad6803e9de6fc271f04e3014c8ce575a6d334bf41b24c64fb14c8f838a922/toda-up-ou-lupo-sutia-adesivo-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.175Z",
+      "verification_etag_or_digest": "f8fad6803e9de6fc271f04e3014c8ce575a6d334bf41b24c64fb14c8f838a922",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/toda-up/toda-up-ou-lupo-sutia-adesivo-capa.webp",
       "local_url": "/images/reviews/toda-up/toda-up-ou-lupo-sutia-adesivo-capa.webp",
       "media_kind": "image",
@@ -130274,6 +131148,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-06T16:04:33.120Z",
       "verification_etag_or_digest": "90d54a427e97045e91e7202bbbcd4ad5bd6f442a9b6563fc649ca0f96f40ac81",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/toda-up-ou-zee-rucci-capa-v2.webp",
+      "local_url": "/images/reviews/toda-up/toda-up-ou-zee-rucci-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 88430,
+      "sha256": "215c3f258fd1cc4bb3ee12ae11be70422cd3c442f6c64369aeb7ebbf16a60539",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "toda-up-ou-zee-rucci-capa-v2.webp",
+      "storage_filename": "toda-up-ou-zee-rucci-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/toda-up-ou-zee-rucci.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/toda-up-ou-zee-rucci.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/toda-up-ou-zee-rucci.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/toda-up-ou-zee-rucci-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/toda-up-ou-zee-rucci.md",
+          "line": 87,
+          "column": 14,
+          "literal": "/images/reviews/toda-up/toda-up-ou-zee-rucci-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/215c3f258fd1cc4bb3ee12ae11be70422cd3c442f6c64369aeb7ebbf16a60539/toda-up-ou-zee-rucci-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/215c3f258fd1cc4bb3ee12ae11be70422cd3c442f6c64369aeb7ebbf16a60539/toda-up-ou-zee-rucci-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.175Z",
+      "verification_etag_or_digest": "215c3f258fd1cc4bb3ee12ae11be70422cd3c442f6c64369aeb7ebbf16a60539",
       "verification_status": "verified"
     },
     {
@@ -130478,6 +131398,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-26T22:20:29.828Z",
       "verification_etag_or_digest": "6e0836cac38a8528bc18d0f6371c2f4ae386998872aa994856bee985021897ab",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/whey/alternativas-a-growth-whey-capa-v2.webp",
+      "local_url": "/images/reviews/whey/alternativas-a-growth-whey-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57704,
+      "sha256": "b66e0e0d067369e6c378bf8a37bb6e1bd7ffd26aa2e9da11c869816448753a32",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "alternativas-a-growth-whey-capa-v2.webp",
+      "storage_filename": "alternativas-a-growth-whey-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/alternativas-a-growth-whey.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/alternativas-a-growth-whey.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/alternativas-a-growth-whey.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/whey/alternativas-a-growth-whey-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/alternativas-a-growth-whey.md",
+          "line": 100,
+          "column": 14,
+          "literal": "/images/reviews/whey/alternativas-a-growth-whey-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b66e0e0d067369e6c378bf8a37bb6e1bd7ffd26aa2e9da11c869816448753a32/alternativas-a-growth-whey-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b66e0e0d067369e6c378bf8a37bb6e1bd7ffd26aa2e9da11c869816448753a32/alternativas-a-growth-whey-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.175Z",
+      "verification_etag_or_digest": "b66e0e0d067369e6c378bf8a37bb6e1bd7ffd26aa2e9da11c869816448753a32",
       "verification_status": "verified"
     },
     {
@@ -130984,6 +131950,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-23T19:59:38.871Z",
       "verification_etag_or_digest": "36bb7e7426b11c21e71428d7cfd501df598d5795c752086ff9b9dcc8d225b122",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/whey/melhor-whey-qual-escolher-por-objetivo-capa-v2.webp",
+      "local_url": "/images/reviews/whey/melhor-whey-qual-escolher-por-objetivo-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 121466,
+      "sha256": "1762cca2e7c5668cc0fb1c92a942bcaac456167280ab7d02df104bd7b69e8806",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-whey-qual-escolher-por-objetivo-capa-v2.webp",
+      "storage_filename": "melhor-whey-qual-escolher-por-objetivo-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/melhor-whey-qual-escolher-por-objetivo.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/melhor-whey-qual-escolher-por-objetivo.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/melhor-whey-qual-escolher-por-objetivo.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/whey/melhor-whey-qual-escolher-por-objetivo-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/melhor-whey-qual-escolher-por-objetivo.md",
+          "line": 259,
+          "column": 14,
+          "literal": "/images/reviews/whey/melhor-whey-qual-escolher-por-objetivo-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1762cca2e7c5668cc0fb1c92a942bcaac456167280ab7d02df104bd7b69e8806/melhor-whey-qual-escolher-por-objetivo-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1762cca2e7c5668cc0fb1c92a942bcaac456167280ab7d02df104bd7b69e8806/melhor-whey-qual-escolher-por-objetivo-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T22:02:11.175Z",
+      "verification_etag_or_digest": "1762cca2e7c5668cc0fb1c92a942bcaac456167280ab7d02df104bd7b69e8806",
       "verification_status": "verified"
     },
     {

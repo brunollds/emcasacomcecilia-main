@@ -26,6 +26,10 @@ Teste de checkout em 2026-10-14 (prints do Bruno, guardados para o futuro artigo
 de 3 t-shirts em promoção, de R$ 387,00 por R$ 258,00; com o cupom, R$ 25,80 de desconto e total de
 R$ 232,20 (10% sobre o preço promocional), e o pedido continuou gerando cashback.
 
+Pagamento e frete publicados pela loja, lidos no site dela em 2026-11-12 pela sessão de cupons (estão em `/cupons` desde o #924; reler na rodada mensal):
+
+- Parcelamento: até 12x no cartão, sendo até 4x sem juros, com parcela mínima de R$ 10 (`/p/termos-de-uso`).
+
 ---
 
 ## 2. Fatos Oficiais & Catálogo (Estáveis)

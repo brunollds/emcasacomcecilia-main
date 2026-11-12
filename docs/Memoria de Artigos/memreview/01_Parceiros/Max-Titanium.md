@@ -31,6 +31,11 @@ Mesma decisão da Probiótica: o título e o número da página dizem 10% OFF, e
 pode ser menor em alguns produtos" fica separado, no destaque, nas regras e na FAQ. O
 `test:coupon-offer-modes` falha se o aviso sumir do destaque.
 
+Pagamento e frete publicados pela loja, lidos no site dela em 2026-11-12 pela sessão de cupons (estão em `/cupons` desde o #924; reler na rodada mensal):
+
+- Frete grátis por região: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte, pelo envio de menor valor; com cupom, o frete pode ser cobrado se o total ficar abaixo do mínimo (`/politicas/politica-de-frete`).
+- Parcelamento: sem dado na página de loja, porque o produto mostra 3x sem juros e a descrição da página, 6x.
+
 ---
 
 ## 2. Fatos Oficiais & Catálogo (Estáveis)

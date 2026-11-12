@@ -34,6 +34,10 @@ Testes de 2026-11-03:
   (R$ 27,00, de R$ 54,00) e o Lip Combo People Colour (R$ 64,00, sem desconto), o carrinho de
   R$ 182,00 teve 5% (−R$ 9,10): R$ 172,90. O carrinho ficou vazio e sem código.
 
+Pagamento e frete publicados pela loja, lidos no site dela em 2026-11-12 pela sessão de cupons (estão em `/cupons` desde o #924; reler na rodada mensal):
+
+- Parcelamento: até 5x sem juros no cartão, com parcela mínima de R$ 30 (`/pages/politica-de-pagamento`).
+
 ---
 
 ## 2. Fatos Oficiais & Catálogo (Estáveis)
