@@ -445,6 +445,21 @@ for (const coupon of COUPONS) {
   }
 }
 
+// "Vantagens além do cupom": o `paymentPerks` só entra em loja com a tabela "O que acumula" (a seção repete o Pix e o
+// frete dela), com frases curtas, sem ponto final, sem data, sem markdown e sem repetir o Pix, que vem do `stacking`.
+for (const coupon of COUPONS) {
+  if (coupon.offerMode !== 'discount-code' || !coupon.paymentPerks) continue;
+  assert.ok(coupon.paymentPerks.length > 0 && coupon.paymentPerks.length <= 3, `${coupon.slug}: paymentPerks vazio ou com mais de 3 frases`);
+  assert.ok((coupon.stacking ?? []).length > 0, `${coupon.slug}: paymentPerks sem a tabela "O que acumula"`);
+  assert.equal(new Set(coupon.paymentPerks).size, coupon.paymentPerks.length, `${coupon.slug}: paymentPerks repetido`);
+  for (const perk of coupon.paymentPerks) {
+    assert.ok(perk.length >= 15 && perk.length <= 170, `${coupon.slug}: frase de paymentPerks fora do tamanho ("${perk}")`);
+    assert.doesNotMatch(perk, /[.!]$/, `${coupon.slug}: frase de paymentPerks com ponto final`);
+    assert.doesNotMatch(perk, /\d{1,2}\/\d{1,2}|\*\*|\]\(/, `${coupon.slug}: frase de paymentPerks com data ou markdown`);
+    assert.doesNotMatch(perk, /desconto (do|no) Pix|% (OFF )?no Pix/i, `${coupon.slug}: o desconto do Pix vai no stacking, não no paymentPerks`);
+  }
+}
+
 // Vídeos da página de loja: https, no domínio da rede declarada, com título e sem repetição.
 for (const coupon of COUPONS) {
   const videos = coupon.videos ?? [];

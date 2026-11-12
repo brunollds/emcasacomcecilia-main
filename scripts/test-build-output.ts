@@ -2973,6 +2973,18 @@ for (const { pagePath, store } of couponStorePages) {
       assert.ok(at('como-usar') < at('nao-funcionou') && at('nao-funcionou') < at('sobre'), `${pagePath}: "Por que o cupom não funcionou?" fora do lugar`);
       if (at('como-testamos') !== -1) assert.ok(at('como-testamos') < at('nao-funcionou'), `${pagePath}: "Por que o cupom não funcionou?" antes do teste`);
     }
+    // "Vantagens além do cupom": só em português e só na loja com `paymentPerks`, entre "Por que o cupom não
+    // funcionou?" e "Sobre a loja", com cada frase do dado e o Pix e o frete da tabela "O que acumula".
+    const perks = isPortuguese && store!.offerMode === 'discount-code' ? (store!.paymentPerks ?? []) : [];
+    assert.equal(at('vantagens') !== -1, perks.length > 0, `${pagePath}: "Vantagens além do cupom" fora da regra`);
+    if (perks.length > 0) {
+      const section = between(body, 'aria-labelledby="vantagens"', ['</section>']);
+      const shown = textOf(section);
+      const repeated = rows.filter((row) => ['pix', 'frete', 'retirada'].includes(row.benefit)).map((row) => row.condition);
+      for (const item of [...perks, ...repeated]) assert.ok(shown.includes(item), `${pagePath}: "Vantagens além do cupom" sem "${item}"`);
+      assert.equal(section.includes('data-perks="shipping"'), rows.some((row) => row.benefit === 'frete' || row.benefit === 'retirada'), `${pagePath}: o cartão de frete das vantagens fora da regra`);
+      assert.ok(at('nao-funcionou') < at('vantagens') && at('vantagens') < at('sobre'), `${pagePath}: "Vantagens além do cupom" fora do lugar`);
+    }
     // O print do carrinho fecha "Como usar", só em português e só na loja que tem o print, com o link do passo a passo.
     const print = isPortuguese ? store!.cartPrint : undefined;
     assert.equal(body.includes('data-cart-print'), Boolean(print), `${pagePath}: print do carrinho fora da regra`);

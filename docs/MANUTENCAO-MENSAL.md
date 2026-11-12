@@ -146,6 +146,10 @@ Para cada oferta ativa, reconferir:
   a regra, sem citar código. Reconferir na rodada mensal, junto com o `combinable` e o `shipping`, que
   dizem o mesmo por extenso. O `label` troca o nome do benefício quando a loja tem nome próprio para
   ele (o "Giftback" da DAMIE);
+- `paymentPerks`: o parcelamento que a loja publica (política de pagamento, FAQ ou faixa do site), em até 3 frases
+  curtas, sem ponto final e sem data. Com ele a página ganha "Vantagens além do cupom", que repete o Pix, o frete
+  grátis e a retirada do `stacking`. Só entra o que foi lido na página da loja; número de parcelas que só aparece
+  num produto, ou que diverge entre páginas, fica de fora. Reconferir na rodada mensal, com o `shipping`;
 - `cartPrint`: o print do código aplicado no carrinho, no fim de "Como usar", só em português. É
   demonstração visual (decisão do Bruno, 12/11/2026): não diz data de teste nem promete os valores da
   imagem, e a legenda avisa que os valores mudam. Pode reaproveitar uma imagem do artigo "como usar o
