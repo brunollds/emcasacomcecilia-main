@@ -36,7 +36,7 @@
   "publishedAtISO": "2026-10-30",
   "updatedAt": "2026-11-07",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
   "imageAlt": "Logo da Hostinger com os ícones de site e de servidor, e a palavra WordPress na faixa",
   "imageFit": "contain",
