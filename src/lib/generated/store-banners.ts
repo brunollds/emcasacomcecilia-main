@@ -894,13 +894,31 @@ export const storeBannersData: StoreBanner[] = [
     },
     "copy": {
       "pt": {
-        "headline": "Black November da Toda Up: a loja com desconto",
+        "headline": "Black November da Toda Up: até 35% OFF",
         "text": "Campanha da própria Toda Up. As condições aparecem no site da loja.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Banner do topo de todaup.com (conferido em 02/11/2026)",
-    "verifiedAt": "2026-11-02"
+    "source": "Banner do topo de todaup.com (\"Black November, até 35% OFF\"), lido no navegador em 11/11/2026",
+    "verifiedAt": "2026-11-11"
+  },
+  {
+    "id": "toda-up-brindes-calcinha-2026",
+    "affiliate": "toda-up",
+    "slot": "mid",
+    "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Toda Up: ganhe calcinha fio dental de brinde",
+        "text": "Campanha da própria Toda Up: acima de R$ 199, uma calcinha fio dental; acima de R$ 299, a calcinha fio dental e o protetor de silicone.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Informado pelo Bruno em 11/11/2026 (\"Ganhe calcinha fio dental acima de R$199, ganhe calcinha fio dental + protetor de silicone acima de R$299\"); banner do topo de todaup.com com os brindes, lido em 11/11/2026; sem prazo informado",
+    "verifiedAt": "2026-11-11"
   },
   {
     "id": "yesstyle-black-friday-sale-2026",
