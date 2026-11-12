@@ -79485,6 +79485,144 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/cueca-academia-insider-performance-preta.webp",
+      "local_url": "/images/reviews/insider/cueca-academia-insider-performance-preta.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33768,
+      "sha256": "2249884dcbcb697a9d05bd39a111f6f33384921dda98b1561664c56a8b81ed16",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cueca-academia-insider-performance-preta.webp",
+      "storage_filename": "cueca-academia-insider-performance-preta.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cueca-para-academia.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cueca-para-academia.json",
+          "line": 108,
+          "column": 19,
+          "literal": "/images/reviews/insider/cueca-academia-insider-performance-preta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 214772,
+          "column": 21,
+          "literal": "/images/reviews/insider/cueca-academia-insider-performance-preta.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2249884dcbcb697a9d05bd39a111f6f33384921dda98b1561664c56a8b81ed16/cueca-academia-insider-performance-preta.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2249884dcbcb697a9d05bd39a111f6f33384921dda98b1561664c56a8b81ed16/cueca-academia-insider-performance-preta.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T03:19:23.634Z",
+      "verification_etag_or_digest": "2249884dcbcb697a9d05bd39a111f6f33384921dda98b1561664c56a8b81ed16",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/cueca-academia-mizuno-kit-3.webp",
+      "local_url": "/images/reviews/insider/cueca-academia-mizuno-kit-3.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 156022,
+      "sha256": "4a6cc76ffb06d5784f59e547acc2f17263e6b689158371cd4549f263dcdc03c2",
+      "width": 1140,
+      "height": 1140,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cueca-academia-mizuno-kit-3.webp",
+      "storage_filename": "cueca-academia-mizuno-kit-3.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cueca-para-academia.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cueca-para-academia.json",
+          "line": 115,
+          "column": 19,
+          "literal": "/images/reviews/insider/cueca-academia-mizuno-kit-3.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 214779,
+          "column": 21,
+          "literal": "/images/reviews/insider/cueca-academia-mizuno-kit-3.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4a6cc76ffb06d5784f59e547acc2f17263e6b689158371cd4549f263dcdc03c2/cueca-academia-mizuno-kit-3.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4a6cc76ffb06d5784f59e547acc2f17263e6b689158371cd4549f263dcdc03c2/cueca-academia-mizuno-kit-3.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T03:19:23.635Z",
+      "verification_etag_or_digest": "4a6cc76ffb06d5784f59e547acc2f17263e6b689158371cd4549f263dcdc03c2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/cueca-academia-polo-london-club-seamless-dry.webp",
+      "local_url": "/images/reviews/insider/cueca-academia-polo-london-club-seamless-dry.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 13258,
+      "sha256": "503d71ad33744ab96fa75589ca281642c30aa0b61528354061a86ba6c3704ca2",
+      "width": 1140,
+      "height": 1140,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cueca-academia-polo-london-club-seamless-dry.webp",
+      "storage_filename": "cueca-academia-polo-london-club-seamless-dry.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cueca-para-academia.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cueca-para-academia.json",
+          "line": 122,
+          "column": 19,
+          "literal": "/images/reviews/insider/cueca-academia-polo-london-club-seamless-dry.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 214786,
+          "column": 21,
+          "literal": "/images/reviews/insider/cueca-academia-polo-london-club-seamless-dry.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/503d71ad33744ab96fa75589ca281642c30aa0b61528354061a86ba6c3704ca2/cueca-academia-polo-london-club-seamless-dry.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/503d71ad33744ab96fa75589ca281642c30aa0b61528354061a86ba6c3704ca2/cueca-academia-polo-london-club-seamless-dry.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T03:19:23.635Z",
+      "verification_etag_or_digest": "503d71ad33744ab96fa75589ca281642c30aa0b61528354061a86ba6c3704ca2",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/cueca-insider-comfort-ou-performance-capa-v2.webp",
       "local_url": "/images/reviews/insider/cueca-insider-comfort-ou-performance-capa-v2.webp",
       "media_kind": "image",
@@ -79520,6 +79658,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T00:02:18.030Z",
       "verification_etag_or_digest": "9e2b4e1a1fb50f7d83a73c87befafe60bcb5747e222278abd8747f737fe3ef24",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/cueca-para-academia-capa.webp",
+      "local_url": "/images/reviews/insider/cueca-para-academia-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 74854,
+      "sha256": "cf099de0aa7b5a6afd6aed76417ebb4a259a752f355ba86c4f656f3fd83fed2d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cueca-para-academia-capa.webp",
+      "storage_filename": "cueca-para-academia-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cueca-para-academia.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cueca-para-academia.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/cueca-para-academia-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 214687,
+          "column": 15,
+          "literal": "/images/reviews/insider/cueca-para-academia-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/cf099de0aa7b5a6afd6aed76417ebb4a259a752f355ba86c4f656f3fd83fed2d/cueca-para-academia-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cf099de0aa7b5a6afd6aed76417ebb4a259a752f355ba86c4f656f3fd83fed2d/cueca-para-academia-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T03:19:23.635Z",
+      "verification_etag_or_digest": "cf099de0aa7b5a6afd6aed76417ebb4a259a752f355ba86c4f656f3fd83fed2d",
       "verification_status": "verified"
     },
     {
