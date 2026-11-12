@@ -212,10 +212,10 @@ const STORE_COUPONS: Coupon[] = [
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable:
       'Soma com todas as promoções e descontos do site, inclusive os 10% do Pix e o desconto por quantidade dos consultores no WhatsApp; não soma com outro cupom nem com o giftback de 15%',
-    lastVerified: '2026-10-24',
-    testedAt: '2026-10-24',
+    lastVerified: '2026-11-11',
+    testedAt: '2026-11-11',
     testNote:
-      'Aplicamos o CECILIA12 num carrinho com um braço intermediário da Linha Cinema, de R$ 200,00, e um brinde, e o total caiu para R$ 176,00: os 12% de desconto apareceram no carrinho, e o brinde continuou no pedido.',
+      'Aplicamos o CECILIA12 no puff avulso do Sofá Damie Modular, de R$ 1.300,00 por R$ 1.170,00 com o desconto do Pix que o checkout já aplica, e o total caiu para R$ 1.029,60, com R$ 140,40 de desconto: os 12% entraram sobre o preço com o Pix.',
     aboutBrand:
       'A DAMIE é uma marca brasileira de móveis estofados premium, com foco em poltronas reclináveis, sofás, camas e soluções de conforto para a casa. A Cecília usa produtos da marca no dia a dia e produziu reviews mostrando montagem, acabamento, conforto e uso real em casa. O cupom CECILIA12 foi criado para quem acompanha o Em Casa com Cecília e quer comprar com desconto direto no checkout. A proposta da parceria é simples: indicar produtos que fazem sentido para uma casa mais confortável, sem esconder que existe relação comercial e comissão de afiliado quando uma compra é feita pelo link ou cupom.',
     faqs: [
@@ -345,7 +345,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'alimentacao',
     shortDescription: 'cápsulas, máquinas e acessórios da loja oficial',
     longDescription:
-      'O CECI dá 10% OFF na loja oficial Nescafé Dolce Gusto em compras a partir de R$ 100 e soma com as promoções. Testado num carrinho de R$ 113,40, com R$ 11,34 de desconto.',
+      'O CECI dá 10% OFF na loja oficial Nescafé Dolce Gusto em compras a partir de R$ 100 e soma com as promoções. Testado num carrinho de R$ 111,30, com R$ 11,13 de desconto.',
     metaTitle: 'Código CECI Dolce Gusto: 10% OFF testado',
     metaTitleMonth: true,
     metaDescription:
@@ -356,10 +356,10 @@ const STORE_COUPONS: Coupon[] = [
     reusable: 'Sim, até 3 usos por campanha',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Soma com as promoções vigentes da loja oficial',
-    lastVerified: '2026-10-26',
-    testedAt: '2026-10-26',
+    lastVerified: '2026-11-11',
+    testedAt: '2026-11-11',
     testNote:
-      'Num carrinho de seis caixas de Cappuccino, de R$ 113,40, o CECI aplicou R$ 11,34 de desconto, os 10%, e o total caiu para R$ 102,06. Com o carrinho abaixo de R$ 100, a loja recusou o cupom.',
+      'Num carrinho de sete caixas de Cappuccino em promoção, de R$ 25,90 por R$ 15,90 cada, o CECI tirou R$ 11,13 dos R$ 111,30, os 10%, e o total caiu para R$ 100,17. Em 26/10/2026, com o carrinho abaixo de R$ 100, a loja recusou o cupom.',
     aboutBrand:
       'A Nescafé Dolce Gusto é uma linha de cafés e bebidas em cápsulas da Nestlé, com máquinas e sabores pensados para preparo rápido em casa. A marca combina praticidade com variedade: cafés intensos, bebidas com leite, cappuccinos, chocolates e opções geladas aparecem no catálogo da loja oficial. O cupom CECI entra como benefício para quem acompanha a Cecília e quer economizar em compras na loja oficial. Como em toda parceria comercial, a recomendação deve ser conferida no checkout: o desconto aparece antes da finalização quando a regra da campanha permite.',
     faqs: [
@@ -604,7 +604,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'alimentacao',
     shortDescription: 'produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses',
     longDescription:
-      'O CECI dá 10% OFF na loja oficial Nestlé Nutre e soma com as promoções; não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses. Testado num carrinho de R$ 283,78, com R$ 28,38 de desconto.',
+      'O CECI dá 10% OFF na loja oficial Nestlé Nutre e soma com as promoções; não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses. Testado num carrinho de R$ 296,50, com R$ 29,65 de desconto.',
     metaTitle: 'Cupom Nestlé Nutre: 10% OFF com CECI',
     metaTitleMonth: true,
     metaDescription:
@@ -615,10 +615,10 @@ const STORE_COUPONS: Coupon[] = [
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Soma com as promoções vigentes da loja oficial',
-    lastVerified: '2026-10-26',
-    testedAt: '2026-10-26',
+    lastVerified: '2026-11-11',
+    testedAt: '2026-11-11',
     testNote:
-      'Num carrinho de R$ 283,78, com duas latas de Nutren Fortify, o CECI aplicou R$ 28,38 de desconto, os 10%, e o total caiu para R$ 255,40.',
+      'Num carrinho com o Kit Nutren Senior Zero Lactose, duas latas de 740 g por R$ 296,50, o CECI aplicou R$ 29,65 de desconto, os 10%, e o total caiu para R$ 266,85.',
     aboutBrand:
       'A Nestlé Nutre é uma loja oficial da Nestlé voltada a produtos de nutrição e suplementação, com opções para diferentes rotinas e necessidades alimentares. Os produtos disponíveis podem fazer parte do dia a dia de quem busca praticidade na alimentação, sempre conforme as indicações do rótulo e, quando necessário, com orientação de um profissional de saúde. O cupom CECI foi criado para quem acompanha o Em Casa com Cecília e quer economizar na loja oficial, com exceção de Alfamino e Alfaré. A loja também vende fórmulas infantis NAN para bebês de 0 a 12 meses; nesses produtos o cupom não deve ser usado, porque o art. 5º do Decreto 9.579/2018 proíbe cupons e descontos promocionais em fórmulas para lactentes, inclusive na internet. Como em toda parceria comercial, a recomendação é conferir o desconto aplicado no checkout antes de finalizar a compra.',
     faqs: [
@@ -726,7 +726,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'casa',
     shortDescription: 'todo o site I Wanna Sleep',
     longDescription:
-      'O CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep (colchões, travesseiros e acessórios) e soma com as promoções da loja. Testado num carrinho com um box e um kit Pillow Top.',
+      'O CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep (colchões, travesseiros e acessórios) e soma com as promoções da loja. Testado numa máscara de dormir em promoção.',
     metaTitle: 'Cupom I Wanna Sleep: 10% OFF com CECIEMCASA',
     metaTitleMonth: true,
     metaDescription:
@@ -737,7 +737,7 @@ const STORE_COUPONS: Coupon[] = [
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Soma com as promoções vigentes da loja oficial',
-    lastVerified: '2026-10-24',
+    lastVerified: '2026-11-11',
     limitedCodes: [
       {
         // Cupom do 11.11 da loja, só no dia 11/11.
@@ -758,9 +758,9 @@ const STORE_COUPONS: Coupon[] = [
         testNote: 'deu 15% no carrinho inteiro, inclusive no kit em promoção',
       },
     ],
-    testedAt: '2026-10-24',
+    testedAt: '2026-11-11',
     testNote:
-      'Aplicamos o CECIEMCASA num carrinho de R$ 6.163,00 com um box IWS Linen Gray e um kit Pillow Top Magnum, e o total caiu para R$ 5.546,70, com R$ 616,30 de desconto: os 10% valeram nos dois itens.',
+      'Aplicamos o CECIEMCASA na Caracol Sleep Mask em promoção, de R$ 177,00 por R$ 160,00, e o total caiu para R$ 144,00, com R$ 16,00 de desconto: os 10% entraram sobre o preço promocional. Em 24/10/2026, num carrinho de R$ 6.163,00 com um box IWS Linen Gray e um kit Pillow Top Magnum, os 10% valeram nos dois itens.',
     aboutBrand:
       'A I Wanna Sleep é uma marca focada em produtos para sono, conforto e bem-estar do quarto, como colchões, travesseiros, lençóis e acessórios pensados para rotinas de descanso. O cupom CECIEMCASA entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar no site oficial. Como regras de desconto, frete e aplicação podem variar por campanha e produto, a recomendação é sempre conferir o desconto no checkout antes de finalizar a compra.',
     faqs: [
@@ -986,10 +986,10 @@ const STORE_COUPONS: Coupon[] = [
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable:
       'Soma com as promoções vigentes do site, inclusive em pré-venda (teste de 02/10/2026), e com o desconto de 5% do Pix; vale com todas as formas de pagamento; a soma com outros cupons segue as regras da loja',
-    lastVerified: '2026-10-24',
-    testedAt: '2026-10-24',
+    lastVerified: '2026-11-11',
+    testedAt: '2026-11-11',
     testNote:
-      'O MAUAD foi aceito num faqueiro de 36 peças de R$ 577,89, que saiu por R$ 549,00, com R$ 28,89 de desconto; no teste de 02/10/2026, ele já tinha valido num carrinho com um item em pré-venda e outro com preço promocional.',
+      'Aplicamos o MAUAD num pote de cerâmica Le Creuset em promoção, de R$ 519,00 por R$ 363,30, e o total caiu para R$ 345,14, com R$ 18,16 de desconto: os 5% entraram sobre o preço promocional. No teste de 02/10/2026, ele já tinha valido num carrinho com um item em pré-venda.',
     aboutBrand:
       "A Let's Eat It é uma loja online brasileira de casa e presentes, com curadoria de marcas como Le Creuset, KitchenAid, Porto Brasil e Bohemia Crystal. O catálogo cobre mesa posta, cozinha, bar, café e chá, decoração, outdoor e eletrodomésticos — itens que conversam com a rotina de quem cozinha e recebe em casa. O cupom MAUAD, com o sobrenome da Cecília, entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar no site oficial. Como regras de desconto, frete e aplicação podem variar por campanha e produto, a recomendação é sempre conferir o desconto no checkout antes de finalizar a compra.",
     faqs: [
@@ -1387,7 +1387,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'suplementos no site oficial da Probiótica',
     longDescription:
-      'O PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial da Probiótica, soma com as promoções e vale em todas as formas de pagamento. Testado num carrinho com colágeno, creatina, camiseta e barra de proteína: o desconto varia por item.',
+      'O PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial da Probiótica, soma com as promoções e vale em todas as formas de pagamento. Testado num whey em promoção e numa creatina a preço cheio: o desconto varia por item.',
     metaTitle: 'Cupom Probiótica: até 10% OFF com PRO10EMCASACOMCECILIA',
     metaDescription:
       'Cupom Probiótica: PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial, soma com as promoções e vale no Pix e no cartão.',
@@ -1396,10 +1396,10 @@ const STORE_COUPONS: Coupon[] = [
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
-    lastVerified: '2026-10-26',
-    testedAt: '2026-10-26',
+    lastVerified: '2026-11-11',
+    testedAt: '2026-11-11',
     testNote:
-      'Aplicamos o PRO10EMCASACOMCECILIA num carrinho de R$ 337,58 com colágeno, creatina em promoção, camiseta e barra de proteína, e o pedido saiu por R$ 320,44, com R$ 17,14 de desconto: a creatina e a camiseta tiveram 10%, e o colágeno e a barra, 2%. O percentual varia por produto.',
+      'Aplicamos o PRO10EMCASACOMCECILIA num Whey Hiper 100% Whey de 900 g em promoção, de R$ 210,39 por R$ 124,90, e o total caiu para R$ 116,16, com R$ 8,74 de desconto (7%). Numa creatina de 100 g a preço cheio, de R$ 33,89, o desconto foi de R$ 0,68 (2%). O percentual varia por produto.',
     aboutBrand:
       'A Probiótica é uma marca brasileira de suplementos alimentares, com linha de whey protein, creatina, colágeno, barras de proteína, pré-treinos e acessórios de treino vendidos no site oficial. O cupom PRO10EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e dá até 10% OFF: o percentual varia conforme o produto, e o carrinho mostra quanto cada item recebeu. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
@@ -1506,10 +1506,10 @@ const STORE_COUPONS: Coupon[] = [
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable:
       'Soma com as promoções vigentes do site e com os brindes do carrinho, e vale com todas as formas de pagamento',
-    lastVerified: '2026-10-26',
-    testedAt: '2026-10-26',
+    lastVerified: '2026-11-11',
+    testedAt: '2026-11-11',
     testNote:
-      'Aplicamos o MAX10EMCASACOMCECILIA num carrinho com um Top Whey 3W 900 g em promoção, a R$ 189,00, mais outros wheys, creatina e pré-treino. O Top Whey saiu por R$ 172,25, com R$ 16,75 de desconto (8,9%), os outros itens tiveram 2%, e os brindes continuaram no carrinho. O percentual varia por produto.',
+      'Aplicamos o MAX10EMCASACOMCECILIA num Top Whey 3W + Sabor de 900 g em promoção, de R$ 273,55 por R$ 189,00, e o total caiu para R$ 172,25, com R$ 16,75 de desconto (8,9%). Num IsoWhey de 900 g a preço cheio, de R$ 326,18, o desconto foi de R$ 6,52 (2%), e a meia de brinde continuou no carrinho. O percentual varia por produto.',
     aboutBrand:
       'A Max Titanium é uma marca brasileira de suplementos alimentares, com linha de whey protein, creatina, pré-treinos, aminoácidos e snacks proteicos vendidos no site oficial. Faz parte do mesmo grupo da Probiótica e da Dr. Peanut. O cupom MAX10EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e dá até 10% OFF: o percentual varia conforme o produto, e o carrinho mostra quanto cada item recebeu. Ele vale com qualquer forma de pagamento e soma com as promoções do site.',
     faqs: [
@@ -1605,7 +1605,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'todo o site Dr. Peanut, com todas as formas de pagamento',
     longDescription:
-      'O DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut, testado com um combo de pastas de amendoim em promoção: soma com as promoções e vale em todas as formas de pagamento.',
+      'O DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut, testado com uma pasta de amendoim em promoção: soma com as promoções e vale em todas as formas de pagamento.',
     metaTitle: 'Cupom Dr. Peanut: 10% OFF com DREMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
@@ -1616,10 +1616,10 @@ const STORE_COUPONS: Coupon[] = [
     shipping:
       'Frete grátis quando o total, já com o cupom, chega a R$ 149,90 (aviso do carrinho em 13/10/2026); abaixo disso, conforme a política da loja',
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
-    lastVerified: '2026-10-26',
-    testedAt: '2026-10-26',
+    lastVerified: '2026-11-11',
+    testedAt: '2026-11-11',
     testNote:
-      'Aplicamos o DREMCASACOMCECILIA num combo de três pastas de amendoim em promoção, de R$ 77,67 por R$ 68,35, e o desconto foi de R$ 6,84: os 10% valeram sobre o preço promocional, e o total caiu para R$ 61,51.',
+      'Aplicamos o DREMCASACOMCECILIA numa pasta de amendoim sabor avelã de 250 g em promoção, de R$ 28,90 por R$ 25,89, e o total caiu para R$ 23,30, com R$ 2,59 de desconto: os 10% entraram sobre o preço promocional.',
     aboutBrand:
       'A Dr. Peanut é uma marca paranaense de pastas de amendoim, com sabores doces como Bombom Italiano e linha de alfajores, snacks e whey protein vendidos no site oficial. O cupom DREMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções vigentes. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
@@ -1699,7 +1699,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'todo o site Black Skull, com todas as formas de pagamento',
     longDescription:
-      'O CECILIA10 dá 10% OFF em todo o site da Black Skull, testado com um kit de whey em promoção e um whey a preço cheio: soma com as promoções e vale em todas as formas de pagamento.',
+      'O CECILIA10 dá 10% OFF em todo o site da Black Skull, testado com um kit de whey em promoção: soma com as promoções e vale em todas as formas de pagamento.',
     metaTitle: 'Cupom Black Skull: 10% OFF em tudo com CECILIA10',
     metaTitleMonth: true,
     metaDescription:
@@ -1709,10 +1709,10 @@ const STORE_COUPONS: Coupon[] = [
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
-    lastVerified: '2026-10-24',
-    testedAt: '2026-10-24',
+    lastVerified: '2026-11-11',
+    testedAt: '2026-11-11',
     testNote:
-      'Aplicamos o CECILIA10 num carrinho de R$ 292,71 com um kit de 2 wheys em promoção, de R$ 139,80 por R$ 132,81, e um Whey 100% HD de R$ 159,90, e o pedido saiu por R$ 263,44, com R$ 29,27 de desconto: os 10% valeram nos dois itens, inclusive no que já estava em promoção.',
+      'Aplicamos o CECILIA10 num kit de 2 wheys Turbo de 907 g em promoção, de R$ 139,80 por R$ 132,81, e o total caiu para R$ 119,53, com R$ 13,28 de desconto: os 10% entraram sobre o preço promocional.',
     aboutBrand:
       'A Black Skull é uma marca de suplementos para quem treina, com whey protein, creatina, pré-treinos, aminoácidos como glutamina e roupas de treino vendidos no site oficial. O cupom CECILIA10 é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções vigentes. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
@@ -1961,7 +1961,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'alimentacao',
     shortDescription: 'todo o site Belive, com todas as formas de pagamento',
     longDescription:
-      'O código da Cecília dá 10% OFF em todo o site da Belive e soma com as ofertas e com os 5% do Pix. Testado num carrinho com um combo em oferta e um pão a preço cheio.',
+      'O código da Cecília dá 10% OFF em todo o site da Belive e soma com as ofertas e com os 5% do Pix. Testado num combo de pão de batata em oferta.',
     metaTitle: 'Cupom Belive: 10% OFF em tudo e soma com o Pix',
     metaTitleMonth: true,
     metaDescription:
@@ -1973,10 +1973,10 @@ const STORE_COUPONS: Coupon[] = [
       'Frete grátis por região, segundo as regras de frete da loja em 16/10/2026: acima de R$ 170 em SP, MG, RJ, DF e GO, de R$ 250 no Sul e de R$ 300 nos demais estados; abaixo disso, o frete é calculado no checkout',
     combinable:
       'Soma com as promoções vigentes do site e com os 5% de desconto do Pix, e vale com todas as formas de pagamento',
-    lastVerified: '2026-10-24',
-    testedAt: '2026-10-24',
+    lastVerified: '2026-11-11',
+    testedAt: '2026-11-11',
     testNote:
-      'Aplicamos o MAUAD num carrinho de R$ 201,89 com um combo de alimentos proteicos em oferta, de R$ 200,29 por R$ 178,99, e um pão de forma de R$ 22,90, e o desconto foi de R$ 20,19: o total caiu para R$ 181,70, com os 10% valendo também no combo em oferta.',
+      'Aplicamos o MAUAD num combo de seis pacotes de pão de batata em oferta, de R$ 125,40 por R$ 106,59, e o total caiu para R$ 95,93, com R$ 10,66 de desconto: os 10% entraram sobre o preço da oferta.',
     codeInstructions: [
       'Copie o código MAUAD no card acima.',
       'Acesse o site oficial da Belive pelo botão indicado e coloque os produtos no carrinho.',
@@ -2071,7 +2071,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'todo o site Mais Mu, com todas as formas de pagamento',
     longDescription:
-      'O MMEMCASACOMCECILIA dá 10% OFF em todo o site da Mais Mu, soma com as ofertas e com os 3% do Pix, e vale em todas as formas de pagamento. Testado num carrinho com um whey a preço cheio e uma creatina em oferta.',
+      'O MMEMCASACOMCECILIA dá 10% OFF em todo o site da Mais Mu, soma com as ofertas e com os 3% do Pix, e vale em todas as formas de pagamento. Testado num carrinho com wheys e creatina em promoção.',
     metaTitle: 'Cupom Mais Mu: 10% OFF com MMEMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
@@ -2083,10 +2083,10 @@ const STORE_COUPONS: Coupon[] = [
       'Frete grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste e acima de R$ 399 no Norte e Nordeste, segundo o site em 20/10/2026; abaixo disso, o frete é calculado no checkout',
     combinable:
       'Soma com as promoções vigentes do site e com os 3% de desconto do Pix, e vale com todas as formas de pagamento; não soma com outro cupom, como o crédito do cashback ou o desconto de boas-vindas',
-    lastVerified: '2026-10-20',
-    testedAt: '2026-10-20',
+    lastVerified: '2026-11-11',
+    testedAt: '2026-11-11',
     testNote:
-      'Aplicamos o MMEMCASACOMCECILIA num carrinho de R$ 239,89 com um whey de R$ 159,99 e uma creatina em oferta, de R$ 79,90, e o desconto foi de R$ 23,99: o total caiu para R$ 215,90, com os 10% valendo também no item que já estava em oferta.',
+      'Aplicamos o MMEMCASACOMCECILIA num carrinho com uma creatina refil de 500 g, de R$ 119,90 por R$ 74,90, e dois wheys Paçoquita de 450 g, de R$ 159,99 por R$ 135,99 cada. O subtotal de R$ 346,88 teve R$ 34,69 de desconto, os 10%, e o total caiu para R$ 312,19; a compra ainda gerou cashback.',
     codeInstructions: [
       'Copie o código MMEMCASACOMCECILIA no card acima.',
       'Acesse o site oficial da Mais Mu pelo botão indicado, coloque os produtos no carrinho e clique em "Iniciar compra".',
@@ -2192,7 +2192,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'beleza',
     shortDescription: 'todo o site Skelt, com todas as formas de pagamento',
     longDescription:
-      'O SKEMCASACOMCECILIA dá 10% OFF em todo o site da Skelt, soma com as promoções e com os 5% do Pix, e vale em todas as formas de pagamento. Testado com body splash e mousse autobronzeador em promoção.',
+      'O SKEMCASACOMCECILIA dá 10% OFF em todo o site da Skelt, soma com as promoções e com os 5% do Pix, e vale em todas as formas de pagamento. Testado num kit de body splashes em promoção.',
     metaTitle: 'Cupom Skelt: 10% OFF com SKEMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
@@ -2204,10 +2204,10 @@ const STORE_COUPONS: Coupon[] = [
       'Frete grátis sem valor mínimo em 12 cidades, como São Paulo, Belo Horizonte, Curitiba e Goiânia; a partir de R$ 199 no Sul, Sudeste e Centro-Oeste e a partir de R$ 299 no Norte e Nordeste, sobre o valor final do pedido, segundo o site em 21/10/2026',
     combinable:
       'Soma com as promoções vigentes do site e com os 5% de desconto do Pix, e vale com todas as formas de pagamento; não soma com outro cupom, como o de primeira compra da loja',
-    lastVerified: '2026-10-21',
-    testedAt: '2026-10-21',
+    lastVerified: '2026-11-11',
+    testedAt: '2026-11-11',
     testNote:
-      'Aplicamos o SKEMCASACOMCECILIA num carrinho com um body splash e um mousse autobronzeador, que já estavam com os 10% da promoção do site e somavam R$ 197,82, e o desconto foi de R$ 19,78: o total caiu para R$ 178,04, e no Pix a loja tirou mais 5%, para R$ 169,13.',
+      'Aplicamos o SKEMCASACOMCECILIA num kit de três body splashes, de R$ 297,00 por R$ 237,60 com os 20% da promoção do site, e o total caiu para R$ 213,84, com R$ 23,76 de desconto: os 10% entraram sobre o preço promocional. Em 21/10/2026, no Pix, a loja tirou mais 5% depois do código.',
     codeInstructions: [
       'Copie o código SKEMCASACOMCECILIA no card acima.',
       'Acesse o site oficial da Skelt pelo botão indicado e coloque os produtos no carrinho.',
@@ -2324,10 +2324,10 @@ const STORE_COUPONS: Coupon[] = [
     shipping: 'Calculado pelo CEP no carrinho; o site também mostra a retirada em lojas próximas, conforme a disponibilidade',
     combinable:
       'Soma com as promoções vigentes do site, inclusive o Outlet, e com os 5% de desconto do Pix, e vale com todas as formas de pagamento; não soma com outro cupom, como o da promoção de 50% na 2ª peça',
-    lastVerified: '2026-10-22',
-    testedAt: '2026-10-22',
+    lastVerified: '2026-11-11',
+    testedAt: '2026-11-11',
     testNote:
-      'Aplicamos o CECILIA10 num carrinho com uma mala de bordo Downtown do Outlet, que já estava de R$ 249,90 por R$ 179,90, e o desconto foi de R$ 17,99: o total caiu para R$ 161,91, e no Pix a loja tirou mais 5%, para R$ 153,81.',
+      'Aplicamos o CECILIA10 numa mala de bordo Downtown do Outlet, de R$ 249,90 por R$ 179,90, e o total caiu para R$ 161,91, com R$ 17,99 de desconto. Em 22/10/2026, no Pix, a loja tirou mais 5% depois do código, para R$ 153,81.',
     codeInstructions: [
       'Copie o código CECILIA10 no card acima.',
       'Acesse o site oficial da Bagaggio pelo botão indicado e coloque os produtos no carrinho.',
