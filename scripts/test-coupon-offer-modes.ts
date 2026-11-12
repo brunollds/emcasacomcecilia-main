@@ -84,7 +84,7 @@ const newPartners = [
   { slug: 'mais-mu', code: 'MMEMCASACOMCECILIA', discountNumber: 10, hubCategory: 'saude', offerUrl: 'https://www.lojamaismu.com.br/' },
   { slug: 'skelt', code: 'SKEMCASACOMCECILIA', discountNumber: 10, hubCategory: 'beleza', offerUrl: 'https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz' },
   { slug: 'bagaggio', code: 'CECILIA10', discountNumber: 10, hubCategory: 'moda', offerUrl: 'https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz' },
-  { slug: 'toda-up', code: 'MAUAD', discountNumber: 10, hubCategory: 'moda', offerUrl: 'https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao' },
+  { slug: 'toda-up', code: 'MAUAD', discountNumber: 15, hubCategory: 'moda', offerUrl: 'https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao' },
   { slug: 'simple-organic', code: 'S-EMCASACOMCECILIA', discountNumber: 5, hubCategory: 'beleza', offerUrl: 'https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA' },
   { slug: 'holyfoods', code: 'EMCASA', discountNumber: 15, hubCategory: 'alimentacao', offerUrl: 'https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz' },
   { slug: 'petz', code: 'EMCASA', discountNumber: 10, hubCategory: 'diversos', offerUrl: 'https://petz.com.br/parceiro/emcasa' },

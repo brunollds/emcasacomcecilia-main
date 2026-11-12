@@ -855,7 +855,7 @@ const STORE_COUPONS: Coupon[] = [
     shipping: 'Calculado separadamente, conforme política do Magalu',
     combinable:
       'Soma com as promoções vigentes da loja e com o desconto do Pix; confirme o valor no checkout',
-    lastVerified: '2026-10-01',
+    lastVerified: '2026-11-11',
     testedAt: '2026-10-01',
     testNote:
       'Aplicamos os códigos no checkout da loja Magazine Você da Cecília, pelo navegador, em produtos vendidos e entregues pelo Magalu, e o desconto em reais da faixa alcançada apareceu no resumo do pedido.',
@@ -910,7 +910,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Cupom Magalu hoje: está funcionando?',
         answer:
-          'A última confirmação dos 10 códigos foi em 1º de outubro de 2026. Todos estavam ativos. Esta página é atualizada sempre que algo muda na campanha — se um código deixar de funcionar, o aviso aparece aqui.',
+          'A última confirmação dos 10 códigos foi em 11 de novembro de 2026, no painel de afiliado da Cecília: todos estavam ativos. Esta página é atualizada sempre que algo muda na campanha — se um código deixar de funcionar, o aviso aparece aqui.',
       },
       {
         question: 'O cupom funciona no celular?',
@@ -2429,28 +2429,28 @@ const STORE_COUPONS: Coupon[] = [
     brandWatermark: '/images/logos/watermarks/toda-up.webp',
     brandColor: '#4A282C',
     code: 'MAUAD',
-    discount: '10% OFF',
-    discountNumber: 10,
+    discount: '15% OFF',
+    discountNumber: 15,
     category: 'Moda íntima e lingerie',
     hubCategory: 'moda',
     shortDescription: 'todo o site Toda Up, inclusive nos produtos em promoção',
     longDescription:
-      'O MAUAD dá 10% OFF em sutiãs, tops, calcinhas e adesivos no site oficial da Toda Up e soma com as promoções do site, inclusive nos produtos que já estão com desconto. Testado num sutiã em promoção.',
-    metaTitle: 'Cupom Toda Up: 10% OFF em tudo com MAUAD',
+      'O MAUAD dá 15% OFF em sutiãs, tops, calcinhas e adesivos no site oficial da Toda Up e soma com as promoções do site, inclusive nos produtos que já estão com desconto. Testado num sutiã em promoção.',
+    metaTitle: 'Cupom Toda Up: 15% OFF em tudo com MAUAD',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Toda Up: MAUAD dá 10% OFF em sutiãs, tops, calcinhas e adesivos e soma com as promoções do site.',
+      'Cupom Toda Up: MAUAD dá 15% OFF em sutiãs, tops, calcinhas e adesivos e soma com as promoções do site.',
     eligibleCategories: 'Todos os produtos do site oficial da Toda Up, inclusive os que já estão em promoção',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping:
       'Calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog; o pedido sai em até 3 dias úteis depois da confirmação do pagamento',
     combinable:
-      'Soma com as promoções vigentes do site e vale nos produtos que já estão com desconto; no teste de 26/10/2026, somou também com o desconto automático por valor do carrinho que a loja tinha no ar',
-    lastVerified: '2026-10-26',
-    testedAt: '2026-10-26',
+      'Soma com as promoções vigentes do site e vale nos produtos que já estão com desconto; na Black VIP, a loja avisa que o cupom de influenciadora não soma com a escada de desconto',
+    lastVerified: '2026-11-11',
+    testedAt: '2026-11-11',
     testNote:
-      'Aplicamos o MAUAD num Sutiã Comfort Up em promoção, de R$ 199,90 por R$ 170,91, e o desconto foi de R$ 17,09: os 10% valeram sobre o preço promocional, e o total caiu para R$ 153,82. Num carrinho de R$ 360,81, o cupom somou com a promoção progressiva da loja: ela tirou 12%, o MAUAD tirou mais 10% do que sobrou, e o total ficou em R$ 285,78.',
+      'Aplicamos o MAUAD num Sutiã Comfort Up em promoção, de R$ 199,90 por R$ 170,91, e o total caiu para R$ 145,28, com R$ 25,63 de desconto: os 15% entraram sobre o preço promocional. Num sutiã da Black VIP, o checkout não aplicou o cupom e avisou que o cupom de influenciadora não soma com a escada de desconto. Em 26/10/2026, o MAUAD dava 10%.',
     codeInstructions: [
       'Copie o código MAUAD no card acima.',
       'Acesse o site oficial da Toda Up pelo botão indicado e coloque os produtos no carrinho.',
@@ -2458,27 +2458,27 @@ const STORE_COUPONS: Coupon[] = [
       'Confira o desconto no resumo do pedido antes de pagar.',
     ],
     aboutBrand:
-      'A Toda Up é uma marca brasileira de moda íntima feminina, de Biguaçu (SC). Começou com as fitas adesivas para decote e hoje vende sutiãs, tops e calcinhas segunda pele, sutiã de silicone, adesivos e acessórios. O cupom MAUAD é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site e soma com as promoções. A recomendação é conferir o resumo do pedido antes de pagar.',
+      'A Toda Up é uma marca brasileira de moda íntima feminina, de Biguaçu (SC). Começou com as fitas adesivas para decote e hoje vende sutiãs, tops e calcinhas segunda pele, sutiã de silicone, adesivos e acessórios. O cupom MAUAD é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 15% OFF em todo o site e soma com as promoções. A recomendação é conferir o resumo do pedido antes de pagar.',
     faqs: [
       {
         question: 'O cupom MAUAD vale para todos os produtos da Toda Up?',
         answer:
-          'Sim. O MAUAD dá 10% OFF em todos os produtos do site oficial da Toda Up: sutiãs, tops, calcinhas, adesivos e acessórios, inclusive os que já estão em promoção.',
+          'Sim. O MAUAD dá 15% OFF em todos os produtos do site oficial da Toda Up: sutiãs, tops, calcinhas, adesivos e acessórios, inclusive os que já estão em promoção.',
       },
       {
         question: 'A Toda Up é a antiga Fita Up? O cupom vale no site todaup.com?',
         answer:
-          'Sim. A loja se chamava Fita Up e hoje é Toda Up, com o site oficial todaup.com. O cupom MAUAD dá 10% OFF em todo o site.',
+          'Sim. A loja se chamava Fita Up e hoje é Toda Up, com o site oficial todaup.com. O cupom MAUAD dá 15% OFF em todo o site.',
       },
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No teste de 26/10/2026, os 10% do MAUAD entraram sobre um sutiã que já estava em promoção e, num carrinho maior, somaram com o desconto automático por valor que a loja tinha no ar naquele dia.',
+          'Sim. No teste de 11/11/2026, os 15% do MAUAD entraram sobre um sutiã que já estava em promoção. A exceção é a Black VIP: nela, a loja avisa que o cupom de influenciadora não soma com a escada de desconto.',
       },
       {
         question: 'O cupom MAUAD está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout de 26/10/2026, o MAUAD aplicou os 10% no carrinho. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de checkout de 11/11/2026, o MAUAD aplicou os 15% no carrinho. O teste mais recente, com a data, está em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'Onde coloco o cupom na Toda Up?',
