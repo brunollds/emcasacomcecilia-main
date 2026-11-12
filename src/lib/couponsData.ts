@@ -2534,7 +2534,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Qual cupom Toda Up dá 15% para quem já é cliente?',
         answer:
-          'O MAUAD. Ele dá 15% no site oficial da Toda Up para quem compra pela primeira vez e para quem já comprou.',
+          'O MAUAD. Ele dá 15% no site oficial da Toda Up para quem compra pela primeira vez e para quem já comprou. A exceção é a Black VIP, em que a loja não soma o cupom de influenciadora.',
       },
       {
         question: 'A Toda Up é a antiga Fita Up? O cupom vale no site todaup.com?',
