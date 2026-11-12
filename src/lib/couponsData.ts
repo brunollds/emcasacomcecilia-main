@@ -1547,7 +1547,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção e com os brindes?',
         answer:
-          'Sim. No nosso teste mais recente, o cupom deu desconto num whey que já estava em promoção, de R$ 189,00 por R$ 172,25, e o brinde continuou no carrinho.',
+          'Sim. No nosso teste mais recente, o cupom deu desconto num whey que já estava em promoção, de R$ 189,00 por R$ 172,25. Em outro carrinho, com um whey a preço cheio, a meia de brinde continuou depois do cupom.',
       },
       {
         question: 'O cupom MAX10EMCASACOMCECILIA está funcionando hoje?',
