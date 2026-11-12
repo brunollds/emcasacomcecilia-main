@@ -50,6 +50,8 @@
 - [x] [[petz-ou-petlove]]: Petz ou Petlove: preço, assinatura e entrega com o mesmo produto (só PT, id 906; PZ7, Petz; no ar em 11/11/2026, PR #870, release `b851a12c`) 🚀
 - [x] [[petz-entrega-expressa-ou-retirar-na-loja]]: Entrega Expressa ou Retire na Loja na Petz: prazo, custo e desconto (só PT, id 907; PZ8, Petz; no ar em 11/11/2026, PR #870, release `b851a12c`) 🚀
 - [x] [[presente-amigo-secreto-masculino]]: Presente de amigo secreto masculino até R$ 50, R$ 100 e R$ 150 (só PT, id 908; IL2, Insider, Max Titanium, Dr. Peanut e Let's Eat It; no ar em 11/11/2026, PR #883, release `9708fbf0`) 🚀
+- [x] [[como-evitar-mancha-de-suor-na-camisa-social]]: Como evitar mancha de suor na camisa social: o que usar por baixo, tecido, cor e lavagem (só PT, id 909; IL1, Insider; no ar em 12/11/2026, PR #887) 🚀
+- [x] [[cueca-para-academia]]: Cueca para academia: qual tecido e qual modelo escolher para treinar (só PT, id 910; IL5, Insider; no ar em 12/11/2026, PR #892) 🚀
 - [x] [[poltrona-do-papai-couro-ou-corino]]: Poltrona do papai de couro ou corino: qual escolher (só PT, id 891; PP4; no ar em 09/11/2026, release d5466fab) 🚀
 - [x] [[simple-organic-ou-principia]]: Simple Organic ou Principia: niacinamida, retinol, vitamina C e gel de limpeza (só PT, id 894; SO1; no ar em 10/11/2026, release f6d704ca) 🚀
 - [x] [[hostinger-ou-locaweb]]: Hostinger ou Locaweb: qual compensa no começo e na renovação? (só PT, id 892; H10; no ar em 10/11/2026, release 9488c72d) 🚀

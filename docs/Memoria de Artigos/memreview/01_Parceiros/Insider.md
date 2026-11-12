@@ -243,3 +243,5 @@ loja física, CNPJ, Insider Business e vagas.
 - [[undershirt-insider-qual-escolher-funciona]] — publicado em 20/10/2026 (PR #188, `d240601`)
 - [[presente-de-natal-insider-kits-gift-card]] — publicado em 20/10/2026 (PR #188, `d240601`)
 - [[presente-amigo-secreto-masculino]] — IL2, artigo de quatro lojas (Insider, Max Titanium, Dr. Peanut e Let's Eat It), publicado em 11/11/2026 (PR #883, `9708fbf0`); a Insider sai com o preço com o código antes do frete
+- [[como-evitar-mancha-de-suor-na-camisa-social]] — IL1, publicado em 12/11/2026 (PR #887, `16b69ffa`); undershirts Leve e Moderado e o kit de 3, com card de estilo
+- [[cueca-para-academia]] — IL5, publicado em 12/11/2026 (PR #892, `df05618c`); Performance avulsa e em kit, com a Mizuno e a Polo London Club pela Amazon

@@ -471,3 +471,5 @@ Os artigos abaixo já existem e o Bing os põe entre a 4ª e a 9ª posição, ou
 ## Pautas laterais da Insider (Bruno, 11/11/2026)
 
 - **IL2** ([[presente-amigo-secreto-masculino]]): no ar em 11/11 (PR #883, release `9708fbf0`), id 908, só PT, artigo de quatro lojas com a L14 da Let's Eat It absorvida. Revisão externa do Farol conferida contra as leituras e as páginas das lojas; imagens aprovadas pelo Bruno no mesmo dia. Saiu da seção 1 da Fila em 11/11; a releitura de 01/12 está na seção 4.
+- **IL1** ([[como-evitar-mancha-de-suor-na-camisa-social]]): no ar em 12/11 (PR #887, release `8f723c3e`), id 909, só PT, com card de estilo. Revisão externa do Farol conferida contra o carrinho, as fichas e a central; imagens aprovadas pelo Bruno em 11/11. Saiu da seção 1 da Fila em 12/11; releitura de 01/12 na seção 4.
+- **IL5** ([[cueca-para-academia]]): no ar em 12/11 (PR #892, release `df05618c`), id 910, só PT, com a Mizuno e a Polo London Club pela Amazon (links de afiliado do Bruno). Revisão externa do Farol aplicada com as fontes do marketplace fechadas; imagens aprovadas pelo Bruno em 12/11. Saiu da seção 1 da Fila em 12/11; releitura de 01/12 na seção 4.

@@ -7,9 +7,9 @@ parceiro_slug: "insider"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador; redação"
+status: "publicado"
+responsavel: "Job-2 (Claude Opus 5.5)"
+proxima_acao: "01/12: reler os preços da campanha de novembro (seção Publicação)"
 bloqueado_por: "-"
 data_criacao: "2026-11-11"
 pauta_id: "IL1"
@@ -123,3 +123,19 @@ Moderado, da galeria da loja, com `href`.
 | O que causa o amarelado | central de ajuda da Insider (pelo [[camiseta-insider-encolhe-como-lavar]]) | a reler na página |
 | Bege aparece menos que branco sob camisa branca; gola V some com o colarinho aberto | fichas das undershirts | a ler (só entra se a ficha disser) |
 | FutureForm: "rápida evaporação de suor" | ficha da calça FutureForm (08/11), atribuído | a reler na ficha da camisa social |
+
+## Publicação (12/11/2026)
+
+- No ar, id 909, só PT: PR #887 (squash `16b69ffa`), no ar em 12/11/2026 no release `8f723c3e` (deploy f52ac688, feito por outra sessão, com os #888 a #891).
+- Título: "Como evitar mancha de suor na camisa social: o que usar por baixo, tecido, cor e lavagem". seoTitle: "Como evitar mancha de suor na camisa social".
+- Smoke do release ficou com a sessão que fez o deploy; o IndexNow da URL foi reenviado em 12/11 junto com o do IL5.
+- Preços lidos no carrinho da Insider em 11/11, com o EMCASACOMCECILIA (Leve R$ 123,25; Moderado R$ 123,25 a R$ 135,15; kit de 3 Moderado R$ 351,16); a Block estava indisponível. Lavagem e mancha de axila pela central da Insider; troca só por defeito pela decisão do Bruno de 20/10.
+- Card de estilo no capítulo "Cor, gola e caimento sob a camisa" (`scripts/styling-required.json`).
+- Revisão externa (Farol, com contraprova do GPT-6.1 Terra) em 11/11, em `docs/auditoria-copy-artigos/insider-il1-revisao-farol-20261111/` (local). O candidato entrou com ajustes: saiu a conta por peça do kit, a data da legenda e a frase sobre "uso por conta"; voltou a orientação da central sobre o antitranspirante; dermatologista em uma frase. Detalhe em `insider-il1-20261111/v2-apos-farol/DECISOES-REVISAO.md` (local).
+- Leituras em [[insider-leituras-il1-1111]]. Releitura em 01/12 (seção 4 da Fila).
+
+## Imagens (aprovadas pelo Bruno)
+
+- **Capa:** `/images/reviews/insider/como-evitar-mancha-de-suor-na-camisa-social-capa.webp` (`imageFit: contain`), 1600 × 900. Alt: Homem com undershirt bege sob camisa social branca aberta, ao lado do título Mancha de suor na camisa social, do logo da Insider e do código EMCASACOMCECILIA
+- **O que usar por baixo da camisa social:** `/images/reviews/insider/mancha-suor-undershirt-moderado.webp`. Alt: Detalhe da axila da Undershirt Antissuor Moderado bege, em foto da Insider. Legenda: Foto: Insider.
+- **Origem:** Capa em painel lateral (logo da Insider, título e EMCASACOMCECILIA) com a foto oficial da Undershirt Moderado bege sob camisa aberta; no corpo, o detalhe da axila da mesma galeria. Sem IA.
