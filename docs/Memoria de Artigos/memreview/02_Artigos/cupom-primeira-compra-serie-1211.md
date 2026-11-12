@@ -54,7 +54,7 @@ percentual maior que o nosso para a primeira compra, sem dizer se ainda funciona
 - **metaDescription:** não abre com "Cupom <loja>" (a catraca barra). Molde: "Para a primeira compra na <Loja>,
   use <CÓDIGO>: X% OFF nos produtos elegíveis. O mesmo percentual vale para quem já comprou." Código e % na primeira
   frase, o código terminando até o caractere 100, até 155 caracteres, sem R$ (salvo a Dolce Gusto).
-- **category / reviewKind / type:** `cupons-como-usar`, `guia`, "Guia de Cupom" (o mesmo dos "como usar" no ar).
+- **category / reviewKind / type:** `cupons-como-usar`, `guia`, "Guia & Cupons" (o `type` de 24 dos "como usar" no ar, conferido em 12/11).
 - **affiliate / coupon:** a loja e o código. Só PT nesta etapa.
 
 ### Resposta rápida (40 a 60 palavras, sem "R$")
