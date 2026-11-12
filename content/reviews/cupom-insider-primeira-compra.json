@@ -126,7 +126,12 @@
       ],
       "postParagraphs": [
         "O passo a passo com as telas está em [como usar o cupom EMCASACOMCECILIA](/reviews/cupom-emcasacomcecilia-insider-store-como-usar)."
-      ]
+      ],
+      "image": "/images/reviews/insider/insider-passo-4-desconto-ativado.webp",
+      "imageAlt": "Mensagem Melhor desconto ativado no checkout da Insider, com a etiqueta do cupom EMCASACOMCECILIA abaixo do campo Cupom de desconto ou Gift Card.",
+      "imageCaption": "O EMCASACOMCECILIA aplicado no pedido da Insider, em um carrinho de teste. Os valores mudam conforme o seu pedido.",
+      "imageFit": "contain",
+      "imageAspectRatio": 1.343
     },
     {
       "heading": "Perguntas frequentes",

@@ -7,9 +7,9 @@ parceiro_slug: "mais-mu"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador (frete e Pix); redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PC-MAISMU"
@@ -175,3 +175,33 @@ Corpo: uma foto da creatina ou do whey do teste, com `href` para a loja.
 | Benefício de cadastro na newsletter da loja, o percentual dele e a regra de uso | ficha, seções 1, 4 e 6; rodapé lido no navegador em 12/11 | contexto interno; o artigo não afirma |
 | Caso Bioghen e Anvisa; tabela nutricional; dose em gramas | ficha, seção 8 (decisão do Bruno, 23/10) | não citar |
 | Consultas e posição | ficha, seção 2 (sem Search Console nesta rodada) | não medido |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- Home da Mais Mu: Whey Paçoquita 450 g de R$ 159,99 por R$ 135,99 e creatina Performance melancia refil 500 g de R$ 119,90 por R$ 74,90, os preços do teste de 11/11; a conta do `testNote` entrou sem mudança.
+- Faixa do site: "Frete grátis acima de R$299 para Sul, Sudeste e CO e R$399 para Norte e Nordeste" e "Pix com 3% OFF". Havia também uma faixa de campanha de frete grátis só do dia, que não entrou.
+- Não conferi se o valor do frete grátis conta antes ou depois do cupom: o texto não afirma, só manda olhar o frete de novo depois de aplicar o código.
+- Search Console: CSV da linha de base com o Bruno.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-mais-mu-primeira-compra.json` (id 916), no esqueleto do briefing. Resposta rápida com 57 palavras. A data do teste (11/11/2026) fica na prosa do capítulo da conta, e a legenda da tabela diz o que os valores não incluem, como a revisão externa do lote 2 pediu. "A loja informa:" para as faixas do frete. O cashback aparece só como o que não entra junto com o código (um cupom por pedido), sem a conta dele.
+
+## Revisão (Job 3, 12/11/2026)
+
+1 a 10: passou. Sem benefício da própria loja, sem código de terceiros, sem "exclusivo", "maior" ou "melhor". Nenhuma alegação de saúde; sem "20%", sem o cadastro da newsletter, sem caso Bioghen, tabela nutricional ou dose; sem "sem valor mínimo".
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data no corpo (a do teste, na prosa). C3, C4, C5: 0.
+- C6: os valores da tabela não voltam na prosa nem no FAQ. C7: sem capítulo de método. C8: a foto do produto está no capítulo da conta, com o link de afiliado no `href`.
+- C9: cada rótulo no máximo uma vez. C12: a primeira frase de cada capítulo decide. C14: "E na segunda compra?" vem do molde da série.
+- Leitura em voz alta: soa como pessoa ajudando.
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da loja, a chamada e o MMEMCASACOMCECILIA. Alt: Pote do whey Paçoquita da Mais Mu ao lado de um copo, em foto oficial, junto da chamada Cupom Mais Mu primeira compra e do código MMEMCASACOMCECILIA.
+- **Carrinho em oferta: onde entram o código e o Pix:** `/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-whey-pacoquita.webp` (quadrada, `href` com o link de afiliado do produto). Alt: Pote azul do Whey Protein Paçoquita da Mais Mu, 450 g, em foto oficial de frente. Legenda: Whey Paçoquita de 450 g, um dos itens do carrinho usado no teste do cupom. Foto: Mais Mu.
+- **Origem:** duas fotos oficiais da galeria do Whey Paçoquita 450 g (na prateleira, com o copo, na capa; o pote de frente no corpo), lidas em 12/11/2026. A capa do "como usar" usa outra foto da mesma galeria (o leite sendo servido). Sem IA.
+
+## Revisão externa (Farol, 12/11/2026)
+
+Aplicado depois de conferir os fatos: a resposta rápida e o subtítulo passaram a dizer que o crédito de cashback não entra junto, porque é usado como outro cupom. Não aplicado: tirar o print do código de outro carrinho. O Bruno decidiu em 12/11 que o print da página de cupom entra em todo artigo da série.

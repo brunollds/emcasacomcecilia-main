@@ -7,9 +7,9 @@ parceiro_slug: "black-skull"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador; redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PC-BLACKSKULL"
@@ -176,3 +176,33 @@ Capa: logo da Black Skull, um kit de whey e o código CECILIA10. Corpo: foto do 
 | Definição de cliente novo da loja | não localizada (home lida em 12/11) | sem fonte: não escrever |
 | Código, percentual e regras de primeira compra da própria loja (página oficial e app) | página oficial lida em 12/11 (WebFetch) | contexto interno; o artigo não afirma nem cita |
 | Percentuais de terceiros (15% e outros) | agregadores do topo | não citar |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- Catálogo público da loja: "Kit com 2 Whey Protein 907g - Whey Turbo" de R$ 139,80 por R$ 132,81, o preço do teste de 11/11; a conta do `testNote` entrou sem mudança.
+- Frete: não reli a política de entrega. O texto diz só que o código não garante frete grátis e que o frete segue a política da loja; nenhum valor nem região.
+- Pix no checkout com o código: não refeito. O texto diz que o código vale com todas as formas de pagamento, Pix inclusive (`combinable`), sem percentual.
+- Search Console: CSV da linha de base com o Bruno.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-black-skull-primeira-compra.json` (id 917), no esqueleto do briefing. Resposta rápida com 58 palavras. A data do teste (11/11/2026) fica na prosa do capítulo da conta, e a legenda da tabela diz o que os valores não incluem, como a revisão externa do lote 2 pediu. A tabela abre o desconto em quatro linhas (preço, promoção, desconto, total), porque a busca é por quanto o código tira de um kit já em promoção.
+
+## Revisão (Job 3, 12/11/2026)
+
+1 a 10: passou. Sem benefício da própria loja, sem código de terceiros, sem "exclusivo", "maior" ou "melhor". Sem valor mínimo, limite de usos, "um cupom por pedido" e definição de cliente novo; sem o código, o percentual e o pop-up da loja; sem percentuais de agregadores; sem uso do produto nem resultado.
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data no corpo (a do teste, na prosa). C3, C4, C5: 0.
+- C6: os valores da tabela não voltam na prosa nem no FAQ. C7: sem capítulo de método. C8: a foto do produto está no capítulo da conta, com o link de afiliado no `href`.
+- C9: cada rótulo no máximo uma vez. C12: a primeira frase de cada capítulo decide. C14: "E na segunda compra?" vem do molde da série.
+- Leitura em voz alta: soa como pessoa ajudando.
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/black-skull/cupom-black-skull-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da loja, a chamada e o CECILIA10. Alt: Embalagem preta do Whey Turbo de 907 g da Black Skull, em foto oficial de frente, ao lado da chamada Cupom Black Skull primeira compra e do código CECILIA10.
+- **Kit em promoção: o que o código tirou:** `/images/reviews/black-skull/cupom-black-skull-primeira-compra-kit-whey-turbo.webp` (quadrada, `href` com o link de afiliado do produto). Alt: Duas embalagens pretas do Whey Turbo de 907 g da Black Skull, lado a lado, em foto oficial do kit. Legenda: Kit com dois Whey Turbo de 907 g, usado no teste do cupom. Foto: Black Skull.
+- **Origem:** duas fotos oficiais da loja, lidas em 12/11/2026: a embalagem do Whey Turbo Refil 907 g na capa e a foto do kit de duas unidades no corpo. Sem IA.
+
+## Revisão externa (Farol, 12/11/2026)
+
+Aplicado depois de conferir os fatos: "Se a loja oferecer desconto no Pix, ele soma com o CECILIA10" e a instrução de informar o CEP para ver o frete. Não aplicado: tirar o print do código de outro carrinho. O Bruno decidiu em 12/11 que o print da página de cupom entra em todo artigo da série.

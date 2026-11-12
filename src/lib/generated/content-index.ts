@@ -215091,7 +215091,12 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "A DAMIE não tem aplicativo: a compra é pelo site, que abre no navegador do celular. O passo a passo com as telas está em [como usar o cupom CECILIA12](/reviews/cupom-cecilia12-como-usar)."
-        ]
+        ],
+        "image": "/images/reviews/cupom-cecilia12/4-confirme-desconto.png",
+        "imageAlt": "Resumo do pedido da Damie com desconto aplicado.",
+        "imageCaption": "O CECILIA12 aplicado no pedido da DAMIE, em um carrinho de teste. Os valores mudam conforme o seu pedido.",
+        "imageFit": "contain",
+        "imageAspectRatio": 0.452
       },
       {
         "heading": "Perguntas frequentes",
@@ -215238,7 +215243,12 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "O passo a passo com as telas da sacola está em [como usar o cupom SKEMCASACOMCECILIA](/reviews/cupom-skelt-como-usar)."
-        ]
+        ],
+        "image": "/images/reviews/skelt/cupom-skelt-sacola-com-cupom.webp",
+        "imageAlt": "Sacola da Skelt com o cupom SKEMCASACOMCECILIA aplicado no campo Cupom de desconto, com a linha do produto já com o desconto e o resumo ao lado.",
+        "imageCaption": "O SKEMCASACOMCECILIA aplicado no pedido da Skelt, em um carrinho de teste. Os valores mudam conforme o seu pedido.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.82
       },
       {
         "heading": "Perguntas frequentes",
@@ -215414,7 +215424,12 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "O passo a passo com as telas do carrinho está em [como usar o cupom PRO10EMCASACOMCECILIA](/reviews/cupom-probiotica-como-usar)."
-        ]
+        ],
+        "image": "/images/reviews/probiotica/probiotica-cupom-03-desconto-aplicado.webp",
+        "imageAlt": "Resumo do pedido da Probiótica depois do cupom, com o código no lugar do campo e a linha Descontos com sinal de menos entre o subtotal e o total.",
+        "imageCaption": "O PRO10EMCASACOMCECILIA aplicado no pedido da Probiótica, em um carrinho de teste. Os valores mudam conforme o seu pedido.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.021
       },
       {
         "heading": "Perguntas frequentes",
@@ -215555,7 +215570,12 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "O passo a passo com as telas está em [como usar o cupom EMCASACOMCECILIA](/reviews/cupom-emcasacomcecilia-insider-store-como-usar)."
-        ]
+        ],
+        "image": "/images/reviews/insider/insider-passo-4-desconto-ativado.webp",
+        "imageAlt": "Mensagem Melhor desconto ativado no checkout da Insider, com a etiqueta do cupom EMCASACOMCECILIA abaixo do campo Cupom de desconto ou Gift Card.",
+        "imageCaption": "O EMCASACOMCECILIA aplicado no pedido da Insider, em um carrinho de teste. Os valores mudam conforme o seu pedido.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.343
       },
       {
         "heading": "Perguntas frequentes",
@@ -215564,6 +215584,765 @@ export const reviewsData: unknown[] = [
           "Qual cupom Insider vale para quem já é cliente? O mesmo EMCASACOMCECILIA, com os mesmos 15%.",
           "O cupom Insider soma com o Pix e com as promoções? Sim, com os dois. Lançamentos continuam fora do desconto.",
           "O cupom Insider vale no Mercado Livre? Não. Ele vale no site oficial, pelo carrinho."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 915,
+    "slug": "cupom-bagaggio-primeira-compra",
+    "title": "Cupom Bagaggio primeira compra: CECILIA10 dá 10% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom Bagaggio primeira compra: 10% OFF com CECILIA10",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O CECILIA10 dá 10% em todo o site da Bagaggio, Outlet incluso, no primeiro pedido e nos seguintes. Veja o que soma com o Pix e como o frete é calculado.",
+    "metaDescription": "Para a primeira compra na Bagaggio, use CECILIA10: 10% OFF em todo o site, inclusive no Outlet. O mesmo percentual vale para quem já comprou.",
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-capa.webp",
+    "imageAlt": "Homem na calçada com a mala de bordo Downtown preta da Bagaggio, em foto oficial, ao lado da chamada Cupom Bagaggio primeira compra e do código CECILIA10.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre na Bagaggio pelo botão, monte a sacola e digite CECILIA10 no campo Cupom de desconto.",
+      "label": "Ir para a Bagaggio",
+      "url": "https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "bagaggio",
+    "editorialNote": "Cupom testado até a sacola da Bagaggio, sem finalizar. Podemos receber comissão pelo CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-bagaggio-como-usar"
+      },
+      {
+        "slug": "bagaggio-e-confiavel"
+      },
+      {
+        "slug": "bagaggio-garantia-vitalicia"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na Bagaggio, use CECILIA10: 10% OFF em todo o site, inclusive no Outlet e em produtos já em promoção. O mesmo percentual vale para quem já comprou, e o código soma com o Pix. Ele é um dos melhores cupons para a primeira compra, no site ou no app."
+        ]
+      },
+      {
+        "heading": "Cupom Bagaggio primeira compra: qual usar",
+        "paragraphs": [
+          "Use o CECILIA10: 10% OFF em todos os produtos do site, Outlet incluso, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes, no site ou no app.",
+          "É o [cupom Bagaggio](/cupons/bagaggio) da nossa parceria com a marca, testado até a sacola. Mala, mochila ou acessório: o código é o mesmo."
+        ]
+      },
+      {
+        "heading": "O que o primeiro pedido exige",
+        "paragraphs": [
+          "Para o primeiro pedido, confira onde o código entra, quantos cupons a sacola aceita e como a entrega é calculada:"
+        ],
+        "bullets": [
+          "**Site ou aplicativo.** O código vai no campo “Cupom de desconto” da sacola, nos dois. No Mercado Livre ele não vale.",
+          "**Um cupom por pedido.** A sacola aceita um código por vez.",
+          "**Frete pelo CEP.** O valor aparece na sacola, depois que você informa o CEP. O site também mostra a retirada em lojas próximas, conforme a disponibilidade."
+        ],
+        "postParagraphs": [
+          "Se a sacola tiver uma campanha da loja, olhe o resumo do pedido depois de aplicar o código: é ele que mostra o que entrou."
+        ]
+      },
+      {
+        "heading": "Mala do Outlet: onde entram o código e o Pix",
+        "paragraphs": [
+          "O CECILIA10 entra sobre o preço do Outlet. No teste do cupom de 11/11/2026, registrado na nossa página de cupom, uma mala de bordo Downtown ficou assim:"
+        ],
+        "comparisonTable": {
+          "caption": "Mala de bordo Downtown, do Outlet: valores do teste na sacola, antes do Pix e do frete.",
+          "headers": [
+            "Etapa",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Preço da mala",
+              "R$ 249,90"
+            ],
+            [
+              "No Outlet",
+              "R$ 179,90"
+            ],
+            [
+              "Com o CECILIA10",
+              "R$ 161,91"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nesse teste, Outlet e código reduziram juntos o preço inicial da mala em cerca de 35%. O código soma também com os 5% do Pix informados pela loja, aplicados depois dele. Escolha o Pix no pagamento e confira o total."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-mala-downtown.webp",
+            "alt": "Mala de bordo Downtown preta da Bagaggio, rígida, com quatro rodas e puxador aberto, em foto oficial de três quartos.",
+            "caption": "Mala de bordo Downtown incluída na sacola do teste do cupom. Foto: Bagaggio.",
+            "objectFit": "square",
+            "href": "https://www.bagaggio.com.br/mala-de-bordo-pp-8-kg-abs-4-rodas-185-downtown--preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "Você pode usar o CECILIA10 de novo: ele dá os mesmos 10% para quem já comprou. Quem levou a mala de bordo agora usa o mesmo código na mochila ou na mala grande da próxima viagem."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "O código vai na sacola, antes de escolher a forma de pagamento:"
+        ],
+        "bullets": [
+          "Monte a sacola no site ou no aplicativo da Bagaggio.",
+          "No campo “Cupom de desconto”, digite CECILIA10 e aplique.",
+          "Confira o desconto no resumo do pedido e o frete do seu CEP antes de pagar."
+        ],
+        "postParagraphs": [
+          "O passo a passo com as telas da sacola está em [como usar o cupom CECILIA10](/reviews/cupom-bagaggio-como-usar)."
+        ],
+        "image": "/images/reviews/bagaggio/cupom-sacola-com-cupom.webp",
+        "imageAlt": "Sacola da Bagaggio com o CECILIA10 aplicado no campo Cupom de desconto: subtotal de R$ 179,90, descontos de R$ 17,99 e total de R$ 161,91.",
+        "imageCaption": "CECILIA10 aplicado na sacola: a captura mostra o mesmo pedido da tabela.",
+        "imageAspectRatio": 1.3056,
+        "imageFit": "contain"
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Bagaggio de primeira compra? Sim. O CECILIA10 dá 10% em todo o site, no primeiro pedido e nos seguintes.",
+          "Qual cupom Bagaggio vale para quem já é cliente? O mesmo CECILIA10, com os mesmos 10%.",
+          "O cupom Bagaggio soma com o Pix? Sim. No Pix, a loja ainda tira o desconto dela depois do código.",
+          "O cupom Bagaggio vale no Mercado Livre? Não. Ele vale no site e no aplicativo da loja."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 916,
+    "slug": "cupom-mais-mu-primeira-compra",
+    "title": "Cupom Mais Mu primeira compra: MMEMCASACOMCECILIA dá 10% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom Mais Mu primeira compra: 10% com MMEMCASACOMCECILIA",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O MMEMCASACOMCECILIA dá 10% na Mais Mu, no primeiro pedido e nos seguintes. Veja como somar as ofertas e o Pix de 3% e por que o crédito de cashback não entra junto.",
+    "metaDescription": "Para a primeira compra na Mais Mu, use MMEMCASACOMCECILIA: 10% OFF em todo o site. O mesmo percentual vale para quem já comprou.",
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-capa.webp",
+    "imageAlt": "Pote do whey Paçoquita da Mais Mu ao lado de um copo, em foto oficial, junto da chamada Cupom Mais Mu primeira compra e do código MMEMCASACOMCECILIA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Mais Mu pelo botão e, no checkout, use Adicionar cupom de desconto para digitar MMEMCASACOMCECILIA.",
+      "label": "Ir para a Mais Mu",
+      "url": "https://www.lojamaismu.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MMEMCASACOMCECILIA",
+    "affiliate": "mais-mu",
+    "editorialNote": "Cupom testado no checkout oficial da Mais Mu. Podemos receber comissão pelo MMEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-mais-mu-como-usar"
+      },
+      {
+        "slug": "mais-mu-e-confiavel"
+      },
+      {
+        "slug": "mais-mu-reclame-aqui-nota-reputacao"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na Mais Mu, use MMEMCASACOMCECILIA: 10% OFF em todo o site oficial, também para quem já comprou. O código soma com as ofertas e com os 3% do Pix. O crédito de cashback não entra junto, porque é usado como outro cupom; confira abaixo o frete por região."
+        ]
+      },
+      {
+        "heading": "Cupom Mais Mu primeira compra: qual usar",
+        "paragraphs": [
+          "Use o MMEMCASACOMCECILIA: 10% OFF em todos os produtos do site, combos inclusive. Ele vale no primeiro pedido e nos seguintes, e você digita o código direto no checkout.",
+          "É o [cupom Mais Mu](/cupons/mais-mu) da nossa parceria com a marca, testado no checkout. Whey, creatina, barra ou combo: o código é o mesmo."
+        ]
+      },
+      {
+        "heading": "O que o primeiro pedido exige",
+        "paragraphs": [
+          "Para o primeiro pedido, confira onde o código entra, o que não soma com ele e o valor do frete grátis da sua região:"
+        ],
+        "bullets": [
+          "**Site oficial.** O código vai em “Adicionar cupom de desconto”, no checkout, depois de “Iniciar compra”. A Mais Mu não tem aplicativo, e o cupom não vale no Mercado Livre.",
+          "**Um cupom por pedido.** O crédito do cashback da loja chega como cupom, então ele não entra junto com o MMEMCASACOMCECILIA.",
+          "**Frete grátis por região.** A loja informa: acima de R$ 299 no Sul, no Sudeste e no Centro-Oeste, e acima de R$ 399 no Norte e no Nordeste. Abaixo disso, o frete é calculado no checkout."
+        ],
+        "postParagraphs": [
+          "Pedido perto do valor do frete grátis? Aplique o código e olhe o frete de novo antes de pagar."
+        ]
+      },
+      {
+        "heading": "Carrinho em oferta: onde entram o código e o Pix",
+        "paragraphs": [
+          "O MMEMCASACOMCECILIA entra sobre os preços de oferta. No teste do cupom de 11/11/2026, registrado na nossa página de cupom, um carrinho com uma creatina refil de 500 g e dois wheys Paçoquita de 450 g, os três em oferta, ficou assim:"
+        ],
+        "comparisonTable": {
+          "caption": "Carrinho com uma creatina e dois wheys em oferta: valores do teste no checkout, antes do Pix e do frete.",
+          "headers": [
+            "Etapa",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Subtotal, com os preços de oferta",
+              "R$ 346,88"
+            ],
+            [
+              "Desconto do MMEMCASACOMCECILIA",
+              "- R$ 34,69"
+            ],
+            [
+              "Total com o código",
+              "R$ 312,19"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os 10% entraram sobre o subtotal inteiro, sem tirar nenhum item em oferta da conta. O código soma também com o desconto de 3% do Pix: escolha o Pix no pagamento e confira o total."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-whey-pacoquita.webp",
+            "alt": "Pote azul do Whey Protein Paçoquita da Mais Mu, 450 g, em foto oficial de frente.",
+            "caption": "Whey Paçoquita de 450 g, um dos itens do carrinho usado no teste do cupom. Foto: Mais Mu.",
+            "objectFit": "square",
+            "href": "https://www.lojamaismu.com.br/produtos/whey-concentrado-pacoquita-pote-450g/"
+          }
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "Você pode usar o MMEMCASACOMCECILIA de novo: ele dá os mesmos 10% para quem já comprou. Serve para repor o whey ou a creatina quando o pote acabar."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "Na Mais Mu, o campo do cupom fica no checkout, não no carrinho:"
+        ],
+        "bullets": [
+          "Monte o carrinho no site oficial e clique em “Iniciar compra”.",
+          "No checkout, abra “Adicionar cupom de desconto” e digite MMEMCASACOMCECILIA, sem espaços.",
+          "Confira o desconto e o frete no resumo antes de pagar."
+        ],
+        "postParagraphs": [
+          "O passo a passo com as telas está em [como usar o cupom MMEMCASACOMCECILIA](/reviews/cupom-mais-mu-como-usar)."
+        ],
+        "image": "/images/reviews/mais-mu/mais-mu-cupom-03-desconto-aplicado.webp",
+        "imageAlt": "Resumo do pedido no checkout da Mais Mu com o MMEMCASACOMCECILIA aplicado: subtotal de R$ 239,89, desconto do cupom de R$ 23,99 e total de R$ 215,90.",
+        "imageCaption": "O código aplicado no checkout da Mais Mu, em outro carrinho de teste: a linha “Desconto do cupom” mostra os 10%.",
+        "imageAspectRatio": 1.017,
+        "imageFit": "contain"
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Mais Mu de primeira compra? Sim. O MMEMCASACOMCECILIA dá 10% em todo o site, no primeiro pedido e nos seguintes.",
+          "Qual cupom Mais Mu vale para quem já é cliente? O mesmo MMEMCASACOMCECILIA, com os mesmos 10%.",
+          "O cupom Mais Mu soma com o Pix? Sim, com os 3% de desconto da loja no Pix.",
+          "O cupom Mais Mu vale no Mercado Livre? Não. Ele vale no site oficial da Mais Mu."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 917,
+    "slug": "cupom-black-skull-primeira-compra",
+    "title": "Cupom Black Skull primeira compra: CECILIA10 dá 10% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom Black Skull primeira compra: 10% OFF com CECILIA10",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O CECILIA10 dá 10% em todo o site da Black Skull, kits e roupas inclusos, no primeiro pedido e nos seguintes. Veja onde o código vale e como ele entra num kit em promoção.",
+    "metaDescription": "Para a primeira compra na Black Skull, use CECILIA10: 10% OFF em todo o site, com todas as formas de pagamento. O mesmo desconto vale para quem já comprou.",
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/black-skull/cupom-black-skull-primeira-compra-capa.webp",
+    "imageAlt": "Embalagem preta do Whey Turbo de 907 g da Black Skull, em foto oficial de frente, ao lado da chamada Cupom Black Skull primeira compra e do código CECILIA10.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Black Skull pelo botão, monte a sacola e digite CECILIA10 no campo de cupom.",
+      "label": "Ir para a Black Skull",
+      "url": "https://www.blackskullusa.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "black-skull",
+    "editorialNote": "Cupom testado no checkout oficial da Black Skull. Podemos receber comissão pelo CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-black-skull-como-usar"
+      },
+      {
+        "slug": "black-skull-e-confiavel"
+      },
+      {
+        "slug": "black-skull-reclame-aqui-nota-reputacao"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na Black Skull, use CECILIA10: 10% OFF em todos os produtos do site oficial, kits e roupas inclusos, com todas as formas de pagamento. O desconto entra sobre o preço promocional, e o mesmo percentual vale para quem já comprou. O código vale também no aplicativo da loja e não vale no Mercado Livre."
+        ]
+      },
+      {
+        "heading": "Cupom Black Skull primeira compra: qual usar",
+        "paragraphs": [
+          "Use o CECILIA10: 10% OFF em todos os produtos do site oficial, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
+          "É o [cupom Black Skull](/cupons/black-skull) da nossa parceria com a marca, testado no checkout. Whey, creatina, kit ou camiseta: o código é o mesmo."
+        ]
+      },
+      {
+        "heading": "O que o primeiro pedido exige",
+        "paragraphs": [
+          "Para o primeiro pedido, confira onde o código vale e como fica a entrega:"
+        ],
+        "bullets": [
+          "**Site ou aplicativo.** O código vale no site oficial e no aplicativo Black Skull USA, para Android e iPhone.",
+          "**Mercado Livre fica de fora.** Pelo anúncio de lá, vale o preço do anúncio, sem o código.",
+          "**Frete à parte.** O código não garante frete grátis: o frete segue a política de entrega da loja e aparece na sacola, pelo CEP."
+        ],
+        "postParagraphs": [
+          "Aplique o código e informe seu CEP para conferir o desconto e o frete no resumo da sacola."
+        ]
+      },
+      {
+        "heading": "Kit em promoção: o que o código tirou",
+        "paragraphs": [
+          "O CECILIA10 entra sobre o preço promocional. No teste do cupom de 11/11/2026, registrado na nossa página de cupom, um kit com dois Whey Turbo de 907 g ficou assim:"
+        ],
+        "comparisonTable": {
+          "caption": "Kit com dois Whey Turbo de 907 g: valores do teste no checkout, antes do frete.",
+          "headers": [
+            "Etapa",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Preço do kit",
+              "R$ 139,80"
+            ],
+            [
+              "Na promoção do site",
+              "R$ 132,81"
+            ],
+            [
+              "Desconto do CECILIA10",
+              "- R$ 13,28"
+            ],
+            [
+              "Total com o código",
+              "R$ 119,53"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os 10% saíram do preço promocional. Se a loja oferecer desconto no Pix, ele soma com o CECILIA10. Confira o total e o frete antes de pagar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/cupom-black-skull-primeira-compra-kit-whey-turbo.webp",
+            "alt": "Duas embalagens pretas do Whey Turbo de 907 g da Black Skull, lado a lado, em foto oficial do kit.",
+            "caption": "Kit com dois Whey Turbo de 907 g incluído no teste do cupom no checkout. Foto: Black Skull.",
+            "objectFit": "square",
+            "href": "https://www.blackskullusa.com.br/kit-2-unidades-whey-protein-907g-whey-turbo/p"
+          }
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "Você pode usar o CECILIA10 de novo: ele dá os mesmos 10% para quem já comprou. Serve para repor o whey ou levar a creatina no pedido seguinte."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "O código vai na sacola, antes do pagamento:"
+        ],
+        "bullets": [
+          "Monte a sacola no site oficial ou no aplicativo da Black Skull.",
+          "No campo de cupom, digite CECILIA10, sem espaços, e aplique.",
+          "Confira a linha “Descontos” e o frete antes de pagar."
+        ],
+        "postParagraphs": [
+          "O passo a passo com as telas está em [como usar o cupom CECILIA10](/reviews/cupom-black-skull-como-usar)."
+        ],
+        "image": "/images/reviews/black-skull/black-skull-cupom-03-desconto-aplicado.webp",
+        "imageAlt": "Quadro da sacola da Black Skull com o CECILIA10 aplicado: subtotal de R$ 364,33, descontos de R$ 36,44 e total de R$ 327,89.",
+        "imageCaption": "O código aplicado na sacola da Black Skull, em outro carrinho de teste: os 10% aparecem na linha “Descontos”. O marca-texto amarelo é nosso.",
+        "imageAspectRatio": 0.8481,
+        "imageFit": "contain"
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Black Skull de primeira compra? Sim. O CECILIA10 dá 10% em todo o site, no primeiro pedido e nos seguintes.",
+          "Qual cupom Black Skull vale para quem já é cliente? O mesmo CECILIA10, com os mesmos 10%.",
+          "O cupom Black Skull vale no aplicativo? Sim, no aplicativo Black Skull USA.",
+          "O cupom Black Skull vale no Mercado Livre? Não. Pelo Mercado Livre, vale o preço do anúncio.",
+          "O cupom Black Skull dá frete grátis? Não garante. O frete segue a política de entrega da loja."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 918,
+    "slug": "cupom-toda-up-primeira-compra",
+    "title": "Cupom Toda Up primeira compra: MAUAD dá 15% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom Toda Up primeira compra: 15% OFF com MAUAD",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "MAUAD dá 15% na Toda Up no primeiro pedido e nos seguintes, inclusive em promoções. A Black VIP fica de fora. Veja como o frete é calculado e a conta do teste.",
+    "metaDescription": "Na primeira compra na Toda Up, use MAUAD: 15% OFF, inclusive em promoção. A Black VIP fica de fora. Vale também para quem já comprou.",
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/toda-up/cupom-toda-up-primeira-compra-capa.webp",
+    "imageAlt": "Modelo sorrindo com o Sutiã Comfort Up rosé da Toda Up, em foto oficial, ao lado da chamada Cupom Toda Up primeira compra.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Toda Up pelo botão: o MAUAD já vem aplicado. Confira a linha de desconto no resumo do pedido.",
+      "label": "Ir para a Toda Up",
+      "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "toda-up",
+    "editorialNote": "Cupom testado no checkout oficial da Toda Up. Podemos receber comissão pelo MAUAD.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-toda-up-como-usar"
+      },
+      {
+        "slug": "toda-up-e-confiavel"
+      },
+      {
+        "slug": "toda-up-reclame-aqui-nota-reputacao"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na Toda Up, use MAUAD: 15% OFF nos produtos do site oficial, inclusive nos que já estão em promoção. O mesmo percentual vale para quem já comprou. A exceção é a Black VIP: enquanto a campanha durar, a loja não aplica o código nas peças dela."
+        ]
+      },
+      {
+        "heading": "Cupom Toda Up primeira compra: qual usar",
+        "paragraphs": [
+          "Use o MAUAD: 15% OFF em peças elegíveis do site oficial, inclusive em promoção. O código vale no primeiro pedido e nos seguintes; a Black VIP fica de fora enquanto durar a campanha.",
+          "É o [cupom Toda Up](/cupons/toda-up) da nossa parceria com a marca, testado no checkout. Pelo botão desta página, o site abre com o código aplicado."
+        ]
+      },
+      {
+        "heading": "O que o primeiro pedido exige",
+        "paragraphs": [
+          "Para o primeiro pedido, confira onde o código entra, a exceção da campanha e como a entrega é calculada:"
+        ],
+        "bullets": [
+          "**No checkout.** O código não aparece na página do produto: o desconto entra no resumo do pedido.",
+          "**Black VIP fica de fora.** Enquanto a campanha durar, o checkout não aplica o MAUAD nas peças dela.",
+          "**Frete pelo CEP.** O valor é calculado no checkout, por Sedex, Loggi ou Jadlog. A loja informa: o pedido sai em até 3 dias úteis depois da confirmação do pagamento."
+        ],
+        "postParagraphs": [
+          "Peça da Black VIP e peça de fora dela no mesmo carrinho? Olhe o resumo do pedido: ele mostra em quais itens o código entrou."
+        ]
+      },
+      {
+        "heading": "Sutiã em promoção: quanto fica com o MAUAD",
+        "paragraphs": [
+          "O MAUAD entra sobre o preço promocional. No teste do cupom de 11/11/2026, registrado na nossa página de cupom, um Sutiã Comfort Up ficou assim:"
+        ],
+        "comparisonTable": {
+          "caption": "Sutiã Comfort Up: valores do teste no checkout, antes do frete.",
+          "headers": [
+            "Etapa",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Preço do sutiã",
+              "R$ 199,90"
+            ],
+            [
+              "Na promoção do site",
+              "R$ 170,91"
+            ],
+            [
+              "Desconto do MAUAD",
+              "- R$ 25,63"
+            ],
+            [
+              "Total com o código",
+              "R$ 145,28"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os 15% saíram do preço promocional, não do preço cheio. Se a loja der desconto no Pix, ele soma com o código: escolha o Pix no pagamento e confira o total."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/cupom-toda-up-primeira-compra-sutia-comfort-up.webp",
+            "alt": "Sutiã Comfort Up rosé da Toda Up, sem aro, com alças largas, em foto oficial de frente sobre fundo claro.",
+            "caption": "Sutiã Comfort Up incluído no teste do cupom no checkout. Foto: Toda Up.",
+            "objectFit": "square",
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          }
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "Você pode usar o MAUAD de novo: ele dá os mesmos 15% para quem já comprou. Quem acertou o tamanho pode usar o código em outra cor ou modelo elegível; a Black VIP fica de fora enquanto durar a campanha."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "Pelo botão desta página, o MAUAD já chega aplicado. Se você entrou por outro caminho, digite no checkout:"
+        ],
+        "bullets": [
+          "Coloque as peças no carrinho do site oficial da Toda Up e siga para o checkout.",
+          "No campo de cupom de desconto, digite MAUAD e aplique.",
+          "Confira a linha de desconto e o frete no resumo do pedido antes de pagar."
+        ],
+        "postParagraphs": [
+          "O passo a passo com as telas, e o que fazer se o código não entrar, está em [como usar o cupom MAUAD](/reviews/cupom-toda-up-como-usar)."
+        ],
+        "image": "/images/reviews/toda-up/cupom-toda-up-checkout-com-cupom.webp",
+        "imageAlt": "Resumo do pedido no checkout da Toda Up com o código MAUAD aplicado na Fita Up e a linha Desconto no pedido.",
+        "imageCaption": "O MAUAD aplicado no checkout da Toda Up, em outro pedido de teste. Os valores mudam conforme o seu pedido.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.071
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Toda Up de primeira compra? Sim. MAUAD dá 15% nas peças elegíveis do site oficial, no primeiro pedido e nos seguintes. A Black VIP fica de fora enquanto durar a campanha.",
+          "Qual cupom Toda Up vale para quem já é cliente? MAUAD dá 15% nas peças elegíveis, inclusive para quem já comprou. A Black VIP fica de fora enquanto durar a campanha.",
+          "O cupom Toda Up soma com produtos em promoção? Sim. A exceção é a Black VIP, enquanto a campanha durar.",
+          "O cupom Toda Up vale na Black VIP? Não, enquanto a campanha durar: o checkout não aplica o código nas peças dela.",
+          "Quanto custa o frete da Toda Up? O valor é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 919,
+    "slug": "cupom-nestle-nutre-primeira-compra",
+    "title": "Cupom Nestlé Nutre primeira compra: CECI dá 10% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom Nestlé Nutre primeira compra: 10% OFF com CECI",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O CECI dá 10% na primeira compra e nas seguintes na Nestlé Nutre. Exceto Alfamino, Alfaré e fórmulas de 0 a 12 meses; só na compra única, sem valor mínimo.",
+    "metaDescription": "CECI: 10% OFF na Nestlé Nutre, na primeira compra e nas seguintes. Exceto Alfamino, Alfaré e fórmulas de 0 a 12 meses; não vale na assinatura.",
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-capa.webp",
+    "imageAlt": "Três latas de Nutren Senior, em foto oficial, ao lado da chamada Cupom Nestlé Nutre primeira compra e do código CECI.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Nestlé Nutre pelo botão e digite CECI no campo de cupom do carrinho, na compra única.",
+      "label": "Ir para a Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Cupom testado no checkout oficial da Nestlé Nutre. Podemos receber comissão pelo CECI.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
+      },
+      {
+        "slug": "nestle-nutre-e-confiavel"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na Nestlé Nutre, use CECI: 10% OFF nos produtos elegíveis do site oficial, sem valor mínimo. O mesmo percentual vale para quem já comprou. Ficam de fora Alfamino, Alfaré e as fórmulas infantis de 0 a 12 meses, e a assinatura da loja não aceita o código."
+        ]
+      },
+      {
+        "heading": "Cupom Nestlé Nutre primeira compra: qual usar",
+        "paragraphs": [
+          "Use o CECI: 10% OFF nos produtos elegíveis do site oficial, sem valor mínimo, na opção “Compra única”. Ele vale no primeiro pedido e nos seguintes. Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses ficam de fora; a assinatura não aceita o código.",
+          "É o [cupom Nestlé Nutre](/cupons/nestle-nutre) da nossa parceria com a loja, testado no checkout. O carrinho mostra o desconto antes do pagamento."
+        ]
+      },
+      {
+        "heading": "O que o primeiro pedido exige",
+        "paragraphs": [
+          "O código não pede valor mínimo. O que muda o desconto é o produto e o jeito de comprar:"
+        ],
+        "bullets": [
+          "**Produtos de fora.** Alfamino, Alfaré e as fórmulas infantis para bebês de 0 a 12 meses, como NAN, não recebem o desconto.",
+          "**Compra única.** A assinatura da loja não aceita o CECI: aplique o código na opção “Compra única”, nos produtos elegíveis.",
+          "**Frete à parte.** O desconto entra nos produtos elegíveis, não no frete, que segue a regra da loja.",
+          "**Só no site oficial.** A Nestlé Nutre não tem aplicativo, e o código não vale no Mercado Livre."
+        ],
+        "postParagraphs": [
+          "Carrinho com mais de um produto? Confira se algum deles está na lista de fora: o resumo mostra onde o desconto entrou."
+        ]
+      },
+      {
+        "heading": "Kit de duas latas: a conta na compra única",
+        "paragraphs": [
+          "No teste do cupom de 11/11/2026, registrado na nossa página de cupom, o CECI entrou num kit com duas latas de 740 g do Nutren Senior Zero Lactose, na compra única:"
+        ],
+        "comparisonTable": {
+          "caption": "Kit Nutren Senior Zero Lactose, duas latas de 740 g: valores do teste no carrinho, antes do frete.",
+          "headers": [
+            "Etapa",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Preço do kit",
+              "R$ 296,50"
+            ],
+            [
+              "Desconto do CECI",
+              "- R$ 29,65"
+            ],
+            [
+              "Total com o código",
+              "R$ 266,85"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nos produtos elegíveis da compra única, o CECI soma com promoções e, quando houver, com o desconto do Pix. Alfamino, Alfaré e fórmulas para bebês de 0 a 12 meses ficam de fora; confira o total antes de pagar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-nutren-senior-zero-lactose.webp",
+            "alt": "Lata de Nutren Senior Zero Lactose sem sabor, 740 g, em foto oficial de frente.",
+            "caption": "Nutren Senior Zero Lactose de 740 g: o kit usado no teste do cupom leva duas latas. Foto: Nestlé Nutre.",
+            "objectFit": "square",
+            "href": "https://www.nestlenutre.com.br/senior-kit-sem-sabor-zero-lactose-lata-740"
+          }
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "O CECI vale de novo para quem já comprou, com os mesmos 10% nos produtos elegíveis da compra única. Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses ficam de fora; a assinatura não aceita o código. Se houver limite de uso, o checkout informa."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "O código vai no carrinho, antes do pagamento:"
+        ],
+        "bullets": [
+          "Coloque os produtos no carrinho do site oficial, na opção de compra única.",
+          "No campo de cupom, digite CECI, sem espaços, e aplique.",
+          "Confira o desconto e o frete no resumo antes de pagar."
+        ],
+        "postParagraphs": [
+          "O passo a passo com as telas está em [como usar o cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar)."
+        ],
+        "image": "/images/reviews/nutren/passo-4-cupom-aplicado-10.webp",
+        "imageAlt": "Resumo do pedido na loja da Nestlé Nutre com o CECI aplicado: subtotal de R$ 1.121,84, desconto de R$ 112,18 e total de R$ 1.009,66.",
+        "imageCaption": "O CECI aplicado no resumo do pedido, em outro carrinho de teste: os 10% aparecem na linha do desconto.",
+        "imageAspectRatio": 0.562,
+        "imageFit": "contain"
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Nestlé Nutre de primeira compra? Sim. CECI dá 10% nos produtos elegíveis da compra única, no primeiro pedido e nos seguintes. Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses ficam de fora; a assinatura não aceita o código.",
+          "Qual cupom Nestlé Nutre vale para quem já é cliente? O mesmo CECI, com 10% nos produtos elegíveis da compra única. Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses ficam de fora; a assinatura não aceita o código.",
+          "O CECI vale na assinatura? Não. A assinatura da loja não aceita o código.",
+          "O CECI vale para fórmula infantil? Não, em nenhuma fórmula para bebês de 0 a 12 meses.",
+          "O cupom Nestlé Nutre dá frete grátis? O CECI não desconta o frete. Confira o valor e as condições de entrega no carrinho."
         ]
       }
     ]

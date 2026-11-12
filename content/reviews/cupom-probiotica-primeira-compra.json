@@ -161,7 +161,12 @@
       ],
       "postParagraphs": [
         "O passo a passo com as telas do carrinho está em [como usar o cupom PRO10EMCASACOMCECILIA](/reviews/cupom-probiotica-como-usar)."
-      ]
+      ],
+      "image": "/images/reviews/probiotica/probiotica-cupom-03-desconto-aplicado.webp",
+      "imageAlt": "Resumo do pedido da Probiótica depois do cupom, com o código no lugar do campo e a linha Descontos com sinal de menos entre o subtotal e o total.",
+      "imageCaption": "O PRO10EMCASACOMCECILIA aplicado no pedido da Probiótica, em um carrinho de teste. Os valores mudam conforme o seu pedido.",
+      "imageFit": "contain",
+      "imageAspectRatio": 1.021
     },
     {
       "heading": "Perguntas frequentes",
