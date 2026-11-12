@@ -217122,5 +217122,822 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 925,
+    "slug": "cupom-petz-primeira-compra",
+    "title": "Cupom Petz primeira compra: EMCASA dá 10% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom Petz primeira compra: 10% OFF com EMCASA",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O EMCASA dá 10% no site e no app da Petz no primeiro pedido e nos seguintes. Em item já em promoção, a sacola mantém o desconto maior. Veja a conta e a soma com a retirada.",
+    "metaDescription": "EMCASA dá 10% OFF no site e no app da Petz na primeira compra e nas seguintes. Em produto já em oferta, a sacola fica com o desconto maior.",
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/petz/cupom-petz-primeira-compra-capa.webp",
+    "imageAlt": "Pacote da ração Royal Canin Maxi Adult, em foto oficial de frente, ao lado da chamada Cupom Petz primeira compra e do código EMCASA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre pelo botão: ele abre a loja emcasa dentro da Petz, sem o cupom aplicado. Cole o EMCASA no campo “Digite seu cupom” da sacola.",
+      "label": "Ir para a Petz",
+      "url": "https://petz.com.br/parceiro/emcasa",
+      "sponsored": true
+    },
+    "coupon": "EMCASA",
+    "affiliate": "petz",
+    "editorialNote": "Cupom testado na sacola do site da Petz, sem uso dos produtos. Podemos receber comissão pelo EMCASA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-petz-como-usar"
+      },
+      {
+        "slug": "petz-e-confiavel"
+      },
+      {
+        "slug": "assinatura-petz-ou-cupom"
+      },
+      {
+        "slug": "petz-entrega-expressa-ou-retirar-na-loja"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na Petz, use EMCASA: 10% OFF no site e no aplicativo, também para quem já comprou. Em produto em promoção, a sacola mantém o desconto maior; o cupom não soma com o desconto da Assinatura Petz. Cole EMCASA no campo “Digite seu cupom” e confira o total antes de pagar."
+        ]
+      },
+      {
+        "heading": "Cupom Petz primeira compra: qual usar",
+        "paragraphs": [
+          "Use o EMCASA: 10% OFF nas compras no site e no aplicativo da Petz, no primeiro pedido e nos seguintes. Num item já em promoção, vale o desconto maior, não os dois.",
+          "É o [cupom Petz](/cupons/petz) da nossa parceria com a loja, testado na sacola. Ração, areia ou acessório: o código é o mesmo."
+        ]
+      },
+      {
+        "heading": "O que o primeiro pedido exige",
+        "paragraphs": [
+          "Antes de fechar o primeiro pedido, veja onde o código entra e com o que ele não soma:"
+        ],
+        "bullets": [
+          "**Site ou aplicativo.** O código vale nos dois, no campo “Digite seu cupom” da sacola.",
+          "**Promoção ou cupom, não os dois.** Em cada item, a sacola aplica o desconto maior. O que está a preço cheio recebe os 10%.",
+          "**Assinatura à parte.** O desconto da Assinatura Petz não soma com cupom.",
+          "**Frete grátis por região.** A loja informa: acima de R$ 199 no Sul e no Sudeste e de R$ 299 no Norte, no Nordeste e no Centro-Oeste."
+        ],
+        "postParagraphs": [
+          "Antes de pagar, confira a linha “Total de descontos” no resumo do pedido."
+        ]
+      },
+      {
+        "heading": "Preço cheio e promoção na mesma sacola: o que o EMCASA fez",
+        "paragraphs": [
+          "No teste do cupom de 11/11/2026, registrado na nossa página de cupom, o EMCASA entrou numa sacola com uma ração a preço cheio e dois itens da Royal Canin em promoção:"
+        ],
+        "comparisonTable": {
+          "caption": "Três itens da mesma sacola: valores do teste, antes do frete.",
+          "headers": [
+            "Item",
+            "Preço na sacola",
+            "Com o EMCASA"
+          ],
+          "rows": [
+            [
+              "Ração Golden, a preço cheio",
+              "R$ 22,99",
+              "R$ 20,69"
+            ],
+            [
+              "Sachê Royal Canin, em oferta (de R$ 10,99)",
+              "R$ 9,90",
+              "R$ 9,89"
+            ],
+            [
+              "Ração Royal Canin Maxi 12 kg, em oferta (de R$ 349,99)",
+              "R$ 279,99",
+              "R$ 279,99"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na Golden, os 10% entraram inteiros. No sachê, o cupom sobre o preço cheio ficou um centavo abaixo da oferta, e a sacola usou o cupom. Na Maxi, a oferta da loja era maior, e o preço não mudou.",
+          "Num teste de 12/11/2026 com um único item a preço cheio, uma cama suspensa para gatos, o código tirou os 10% do valor do produto."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/petz/cupom-petz-primeira-compra-sache-royal-canin.webp",
+            "alt": "Sachê de ração úmida Royal Canin Instinctive de 85 g, para gatos adultos, em foto oficial de frente.",
+            "caption": "Sachê Royal Canin Instinctive de 85 g, um dos itens em oferta incluídos no teste do cupom. Foto: Petz.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Retirada na loja: o desconto que soma com o código",
+        "paragraphs": [
+          "No Centro-Oeste, no Sul e no Sudeste, a Petz dá 5% no Retire na Loja em compras acima de R$ 199. Os 5% da retirada somam com o EMCASA: quando o item recebe os 10% do código, o desconto combinado é de 14,5%, porque a retirada incide sobre o valor restante. A opção aparece na sacola do site ou do aplicativo.",
+          "Vale para quem pode buscar o pedido numa loja da rede. O passo a passo está em [entrega expressa ou retirar na loja](/reviews/petz-entrega-expressa-ou-retirar-na-loja)."
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "O EMCASA vale de novo para quem já comprou, com os mesmos 10% e as mesmas regras. Serve para repor a ração ou a areia no pedido seguinte."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "O código vai na sacola, no site ou no aplicativo:"
+        ],
+        "bullets": [
+          "Entre na Petz pelo botão desta página e coloque os produtos na sacola.",
+          "No campo “Digite seu cupom”, cole EMCASA e aplique.",
+          "Confira a linha “Total de descontos” antes de ir para o pagamento."
+        ],
+        "postParagraphs": [
+          "O passo a passo com as telas está em [como usar o cupom EMCASA](/reviews/cupom-petz-como-usar)."
+        ],
+        "image": "/images/reviews/petz/cupom-petz-sacola-celular-com-cupom.webp",
+        "imageAlt": "Sacola da Petz no celular com o produto, o cupom EMCASA aplicado no campo Cupom de desconto e a linha Desconto Aplicado.",
+        "imageCaption": "O EMCASA aplicado na sacola da Petz, no celular, em outro pedido de teste.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.013
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Petz de primeira compra? Sim. O EMCASA dá 10% no site e no aplicativo, no primeiro pedido e nos seguintes. Em item já em promoção, vale o desconto maior.",
+          "Qual cupom Petz vale para quem já é cliente? O mesmo EMCASA, com 10% no site e no aplicativo. Em item em promoção, a sacola mantém o desconto maior; o cupom não soma com o desconto da assinatura.",
+          "O cupom Petz soma com promoção? Não. Em cada item, a sacola fica com o desconto maior: a oferta ou os 10% do código.",
+          "O cupom Petz vale no aplicativo? Sim, no aplicativo e no site.",
+          "O cupom Petz soma com a Assinatura Petz? Não. O desconto da assinatura não soma com cupom."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 926,
+    "slug": "cupom-letseatit-primeira-compra",
+    "title": "Cupom Let's Eat It primeira compra: MAUAD dá 5% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom Let's Eat It primeira compra: 5% OFF com MAUAD",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O MAUAD dá 5% no site da Let's Eat It no primeiro pedido e nos seguintes, inclusive em produto em promoção. Veja a conta do teste e o campo do checkout em que o código entra.",
+    "metaDescription": "MAUAD dá 5% OFF no site da Let's Eat It na primeira compra. O mesmo código vale para quem já comprou e soma com as promoções do site.",
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/cupom-letseatit-primeira-compra-capa.webp",
+    "imageAlt": "Potes de cerâmica pretos com tampa de madeira da Le Creuset sobre uma bancada, em foto oficial, ao lado da chamada Cupom Let's Eat It primeira compra.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Let's Eat It pelo botão e digite MAUAD no campo Código de desconto do checkout.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Cupom testado no checkout oficial da Let's Eat It. Podemos receber comissão pelo MAUAD.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-mauad-lets-eat-it-como-usar"
+      },
+      {
+        "slug": "lets-eat-it-e-confiavel"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na Let's Eat It, use MAUAD: 5% OFF no site oficial, com todas as formas de pagamento. O código soma com as promoções, entra em item em pré-venda e vale de novo para quem já comprou. Ele vai no checkout, no campo “Código de desconto”, e não vale no Mercado Livre."
+        ]
+      },
+      {
+        "heading": "Cupom Let's Eat It primeira compra: qual usar",
+        "paragraphs": [
+          "Use o MAUAD: 5% OFF nas compras no site oficial, no primeiro pedido e nos seguintes. Ele soma com as promoções do site.",
+          "É o [cupom Let's Eat It](/cupons/letseatit) da nossa parceria com a loja, testado no checkout. Panela, louça ou presente: o código é o mesmo."
+        ]
+      },
+      {
+        "heading": "O que o primeiro pedido exige",
+        "paragraphs": [
+          "Na Let's Eat It, o cuidado do primeiro pedido é achar o campo do código:"
+        ],
+        "bullets": [
+          "**No checkout, não no carrinho.** O campo “Código de desconto” fica no resumo do pedido, na finalização da compra. No celular, abra o resumo se ele estiver recolhido.",
+          "**Só no site oficial.** A Let's Eat It não tem aplicativo, e o código não vale no Mercado Livre.",
+          "**Frete à parte.** O frete aparece na etapa seguinte do checkout e é calculado para o CEP informado."
+        ],
+        "postParagraphs": [
+          "Antes de pagar, confira a linha do MAUAD no resumo."
+        ]
+      },
+      {
+        "heading": "Pote em promoção: quanto fica com o MAUAD",
+        "paragraphs": [
+          "O MAUAD entra sobre o preço promocional. No teste do cupom de 11/11/2026, registrado na nossa página de cupom, um pote de cerâmica Le Creuset em promoção ficou assim:"
+        ],
+        "comparisonTable": {
+          "caption": "Pote de cerâmica Le Creuset em promoção: valores do teste no checkout, antes do Pix e do frete.",
+          "headers": [
+            "Etapa",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Preço do pote",
+              "R$ 519,00"
+            ],
+            [
+              "Na promoção do site",
+              "R$ 363,30"
+            ],
+            [
+              "Desconto do MAUAD",
+              "- R$ 18,16"
+            ],
+            [
+              "Total com o código",
+              "R$ 345,14"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os 5% saíram do preço promocional. Nos produtos em que a loja marca desconto no Pix, ele soma com o código: escolha o Pix no pagamento e confira o total."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/cupom-letseatit-primeira-compra-pote-le-creuset.webp",
+            "alt": "Pote de cerâmica preto com tampa de madeira da Le Creuset, de 1,1 litro, em foto oficial de frente.",
+            "caption": "Pote de cerâmica Le Creuset com tampa de madeira, de 1,1 L, incluído no teste do cupom. Foto: Let's Eat It.",
+            "objectFit": "square",
+            "href": "https://letseatit.com.br/products/pote-ceramica-com-tampa-de-madeira-scand-black-onyx-1-1l-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "O MAUAD vale de novo para quem já comprou, com os mesmos 5%. Serve para completar a mesa ou escolher um presente no pedido seguinte."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "O código vai no checkout:"
+        ],
+        "bullets": [
+          "Coloque os produtos no carrinho e siga para a finalização da compra.",
+          "No resumo do pedido, digite MAUAD no campo “Código de desconto” e clique em “Aplicar”.",
+          "Confira a linha do desconto antes de pagar; o frete aparece na etapa seguinte."
+        ],
+        "postParagraphs": [
+          "O passo a passo com as telas está em [como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar)."
+        ],
+        "image": "/images/reviews/letseatit/passo-4-desconto-mauad-resumo.webp",
+        "imageAlt": "Resumo do pedido na Let's Eat It: subtotal de R$ 3.582,10, desconto MAUAD de R$ 179,10, frete calculado na próxima etapa e total de R$ 3.403,00.",
+        "imageCaption": "O MAUAD aplicado no resumo do pedido, em outro carrinho de teste: a linha do desconto aparece antes do frete.",
+        "imageFit": "contain",
+        "imageAspectRatio": 2.686
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Let's Eat It de primeira compra? Sim. O MAUAD dá 5% no site oficial, no primeiro pedido e nos seguintes.",
+          "Qual cupom Let's Eat It vale para quem já é cliente? O mesmo MAUAD, com os mesmos 5%.",
+          "O cupom Let's Eat It soma com produto em promoção? Sim. Os 5% entram sobre o preço promocional.",
+          "O cupom Let's Eat It vale no Mercado Livre? Não. Ele vale no site oficial da Let's Eat It.",
+          "Onde colar o cupom na Let's Eat It? No checkout, no campo “Código de desconto” do resumo do pedido."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 927,
+    "slug": "cupom-i-wanna-sleep-primeira-compra",
+    "title": "Cupom I Wanna Sleep primeira compra: CECIEMCASA dá 10% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom I Wanna Sleep primeira compra: 10% com CECIEMCASA",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O CECIEMCASA dá 10% em todo o site da I Wanna Sleep no primeiro pedido e nos seguintes, inclusive em produto em promoção. Veja a conta do teste e onde o código entra.",
+    "metaDescription": "CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep na primeira compra. O mesmo código vale para quem já comprou e soma com as promoções.",
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-capa.webp",
+    "imageAlt": "Mulher ajustando a Caracol Sleep Mask cinza sobre os olhos, em foto oficial da I Wanna Sleep, ao lado da chamada Cupom I Wanna Sleep primeira compra e do código CECIEMCASA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da I Wanna Sleep pelo botão e digite CECIEMCASA em Adicionar cupom de desconto, no checkout.",
+      "label": "Ir para a I Wanna Sleep",
+      "url": "https://www.iwannasleep.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECIEMCASA",
+    "affiliate": "i-wanna-sleep",
+    "editorialNote": "Cupom testado no carrinho oficial da I Wanna Sleep. Podemos receber comissão pelo CECIEMCASA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
+      },
+      {
+        "slug": "i-wanna-sleep-e-confiavel"
+      },
+      {
+        "slug": "i-wanna-sleep-reclame-aqui-nota-reputacao"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na I Wanna Sleep, use CECIEMCASA: 10% OFF em todo o site oficial, com todas as formas de pagamento. O código soma com as promoções da loja e com o desconto do Pix, e vale de novo para quem já comprou. Ele vai no checkout, em “Adicionar cupom de desconto”."
+        ]
+      },
+      {
+        "heading": "Cupom I Wanna Sleep primeira compra: qual usar",
+        "paragraphs": [
+          "Use o CECIEMCASA: 10% OFF em todos os produtos do site oficial, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
+          "É o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) da nossa parceria com a marca, testado no carrinho. Travesseiro, cobertor ou acessório: o código é o mesmo."
+        ]
+      },
+      {
+        "heading": "O que o primeiro pedido exige",
+        "paragraphs": [
+          "O código vale no site inteiro. No primeiro pedido, confira onde ele entra e como fica a entrega:"
+        ],
+        "bullets": [
+          "**No checkout.** O campo se chama “Adicionar cupom de desconto”. Digite o código em maiúsculas e sem espaços.",
+          "**Só no site oficial.** A I Wanna Sleep não tem aplicativo: a compra é pelo site, que abre no navegador do celular.",
+          "**Frete à parte.** O frete é calculado pelo CEP, conforme a política da loja."
+        ],
+        "postParagraphs": [
+          "Antes de pagar, confira se a linha do desconto apareceu no resumo."
+        ]
+      },
+      {
+        "heading": "Máscara de dormir em promoção: a conta com o CECIEMCASA",
+        "paragraphs": [
+          "O CECIEMCASA entra sobre o preço promocional. No teste do cupom de 11/11/2026, registrado na nossa página de cupom, uma Caracol Sleep Mask em promoção ficou assim:"
+        ],
+        "comparisonTable": {
+          "caption": "Caracol Sleep Mask em promoção: valores do teste no carrinho, antes do Pix e do frete.",
+          "headers": [
+            "Etapa",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Preço da máscara",
+              "R$ 177,00"
+            ],
+            [
+              "Na promoção do site",
+              "R$ 160,00"
+            ],
+            [
+              "Desconto do CECIEMCASA",
+              "- R$ 16,00"
+            ],
+            [
+              "Total com o código",
+              "R$ 144,00"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os 10% saíram do preço promocional. A página da Caracol Sleep Mask mostra 5% de desconto no Pix, que soma com o código. Escolha o pagamento e confira o total."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-caracol-sleep-mask.webp",
+            "alt": "Embalagem cilíndrica roxa da Caracol SoftSeal Sleep Mask da I Wanna Sleep, com a máscara cinza enrolada ao lado, em foto oficial.",
+            "caption": "Caracol Sleep Mask incluída no teste do cupom no carrinho. Foto: I Wanna Sleep.",
+            "objectFit": "square",
+            "href": "https://www.iwannasleep.com.br/products/caracol-softseal-sleep-mask"
+          }
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "O CECIEMCASA vale de novo para quem já comprou, com os mesmos 10%. Serve para a fronha, o travesseiro ou o cobertor do pedido seguinte."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "O código vai no checkout do site oficial:"
+        ],
+        "bullets": [
+          "Coloque os produtos no carrinho e siga para o checkout.",
+          "Em “Adicionar cupom de desconto”, digite CECIEMCASA e aplique.",
+          "Confira a linha do desconto e o frete do seu CEP antes de pagar."
+        ],
+        "postParagraphs": [
+          "O passo a passo com as telas está em [como usar o cupom CECIEMCASA](/reviews/cupom-ceciemcasa-i-wanna-sleep-como-usar)."
+        ],
+        "image": "/images/reviews/iwannasleep/4-confirme-desconto.webp",
+        "imageAlt": "Resumo de outro pedido com um travesseiro I Wanna Sleep, código CECIEMCASA aplicado e desconto de R$ 69,79; frete a calcular.",
+        "imageCaption": "O CECIEMCASA aplicado em outro pedido de teste, com frete ainda a calcular.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.196
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom I Wanna Sleep de primeira compra? Sim. O CECIEMCASA dá 10% em todo o site oficial, no primeiro pedido e nos seguintes.",
+          "Qual cupom I Wanna Sleep vale para quem já é cliente? O mesmo CECIEMCASA, com os mesmos 10%.",
+          "O cupom I Wanna Sleep soma com produto em promoção? Sim. Os 10% entram sobre o preço promocional.",
+          "O cupom I Wanna Sleep soma com o Pix? Sim. Na página da Caracol Sleep Mask, a loja mostra 5% no Pix; confira a condição e o total no seu pedido.",
+          "O cupom I Wanna Sleep vale no aplicativo? A I Wanna Sleep não tem aplicativo. O código vale no site oficial, que abre no navegador do celular."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 928,
+    "slug": "cupom-simple-organic-primeira-compra",
+    "title": "Cupom Simple Organic primeira compra: S-EMCASACOMCECILIA dá 5% OFF e vale nas compras seguintes",
+    "seoTitle": "Simple Organic primeira compra: 5% com S-EMCASACOMCECILIA",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O S-EMCASACOMCECILIA dá 5% em todo o site da Simple Organic no primeiro pedido e nos seguintes, inclusive em kits e promoções. Veja a conta do teste e o cuidado com o frete.",
+    "metaDescription": "S-EMCASACOMCECILIA dá 5% OFF em todo o site da Simple Organic na primeira compra, inclusive em kits e promoções. Vale também para quem já comprou.",
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-capa.webp",
+    "imageAlt": "Kit Rotina Pele Sensível da Simple Organic, com três produtos, em foto oficial, ao lado da chamada Cupom Simple Organic primeira compra e do código S-EMCASACOMCECILIA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial pelo botão: ele abre a loja com o cupom aplicado. Confira a linha do desconto no resumo do pedido antes de pagar.",
+      "label": "Ir para a Simple Organic",
+      "url": "https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "S-EMCASACOMCECILIA",
+    "affiliate": "simple-organic",
+    "editorialNote": "Cupom testado no checkout oficial da Simple Organic, sem uso dos produtos. Podemos receber comissão pelo S-EMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-simple-organic-como-usar"
+      },
+      {
+        "slug": "simple-organic-e-confiavel"
+      },
+      {
+        "slug": "kit-skincare-presente-simple-organic"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na Simple Organic, use S-EMCASACOMCECILIA: 5% OFF em todo o site oficial, inclusive nos kits e nos produtos em promoção. O mesmo código vale para quem já comprou, com todas as formas de pagamento. O botão desta página abre a loja com o código aplicado; confira a linha do desconto antes de pagar."
+        ]
+      },
+      {
+        "heading": "Cupom Simple Organic primeira compra: qual usar",
+        "paragraphs": [
+          "Use o S-EMCASACOMCECILIA: 5% OFF em todos os produtos da loja online, inclusive nos kits e no que já está em promoção. Ele vale no primeiro pedido e nos seguintes.",
+          "É o [cupom Simple Organic](/cupons/simple-organic) da nossa parceria com a marca, testado no checkout. Sérum, hidratante ou maquiagem: o código é o mesmo."
+        ]
+      },
+      {
+        "heading": "O que o primeiro pedido exige",
+        "paragraphs": [
+          "O código entra em qualquer produto. O que pede atenção no primeiro pedido é o frete:"
+        ],
+        "bullets": [
+          "**Código aplicado pelo botão.** O link da parceria abre a loja com o S-EMCASACOMCECILIA. Se ele não aparecer em “Desconto”, no carrinho, cole o código nesse campo.",
+          "**Frete grátis a partir de R$ 99.** O mínimo conta depois do desconto do código.",
+          "**Loja online.** O S-EMCASACOMCECILIA é o código do site oficial."
+        ],
+        "postParagraphs": [
+          "Pedido perto de R$ 99? Aplique o código, informe o CEP e confira o frete de novo antes de pagar."
+        ]
+      },
+      {
+        "heading": "Kit em promoção: quanto o código tira",
+        "paragraphs": [
+          "O S-EMCASACOMCECILIA entra sobre o preço promocional. No teste do cupom de 12/11/2026, registrado na nossa página de cupom, o kit Rotina Pele Sensível em promoção ficou assim:"
+        ],
+        "comparisonTable": {
+          "caption": "Kit Rotina Pele Sensível em promoção: valores do teste no checkout, antes do frete.",
+          "headers": [
+            "Etapa",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Preço do kit",
+              "R$ 182,00"
+            ],
+            [
+              "Na promoção do site",
+              "R$ 91,00"
+            ],
+            [
+              "Desconto do código",
+              "- R$ 4,55"
+            ],
+            [
+              "Total com o código",
+              "R$ 86,45"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os 5% saíram do preço promocional do kit. Com ou sem o código, o valor dos produtos nesse exemplo fica abaixo de R$ 99; informe o CEP para conferir a entrega.",
+          "Se a loja oferecer desconto no Pix, ele soma com o código."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-rotina-pele-sensivel.webp",
+            "alt": "Kit Rotina Pele Sensível da Simple Organic, com gel de limpeza suave, balm antiolheiras e hidratante facial, em foto oficial.",
+            "caption": "Kit Rotina Pele Sensível incluído no teste do cupom no checkout. Foto: Simple Organic.",
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/rotina-pele-sensivel"
+          }
+        ]
+      },
+      {
+        "heading": "Quando o cupom muda o frete",
+        "paragraphs": [
+          "No teste de 10/11/2026, para o CEP 01310-100, em São Paulo, um Trio Body Splashes ficou assim com o envio mais barato disponível:"
+        ],
+        "comparisonTable": {
+          "caption": "Trio Body Splashes: comparação no CEP de São Paulo testado, com o envio mais barato disponível.",
+          "headers": [
+            "Pedido",
+            "Produtos",
+            "Frete",
+            "Total"
+          ],
+          "rows": [
+            [
+              "Sem o código",
+              "R$ 99,50",
+              "Grátis",
+              "R$ 99,50"
+            ],
+            [
+              "Com o S-EMCASACOMCECILIA",
+              "R$ 94,53",
+              "R$ 10,88",
+              "R$ 105,41"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nesse pedido, usar o código aumentou o total em R$ 5,91, porque o valor dos produtos caiu abaixo do mínimo do frete grátis. Perto do mínimo, compare o total com e sem o código para o seu CEP."
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "O S-EMCASACOMCECILIA vale de novo para quem já comprou, com os mesmos 5%. Serve para repor o gel de limpeza ou o hidratante no pedido seguinte."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "Pelo botão desta página, o código já chega aplicado:"
+        ],
+        "bullets": [
+          "Entre na loja pelo botão e coloque os produtos no carrinho.",
+          "No carrinho, confira se o S-EMCASACOMCECILIA aparece em “Desconto”. Se não aparecer, cole o código nesse campo e clique em “Aplicar”.",
+          "Confira a linha do desconto e o frete no resumo antes de pagar."
+        ],
+        "postParagraphs": [
+          "O passo a passo com as telas está em [como usar o cupom S-EMCASACOMCECILIA](/reviews/cupom-simple-organic-como-usar)."
+        ],
+        "image": "/images/reviews/simple-organic/cupom-simple-organic-checkout-com-cupom.webp",
+        "imageAlt": "Resumo do pedido no checkout da Simple Organic com o código S-EMCASACOMCECILIA aplicado e a linha Desconto no pedido.",
+        "imageCaption": "S-EMCASACOMCECILIA aplicado no kit Rotina Pele Sensível: a captura mostra os mesmos valores da tabela do kit, antes do frete.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.039
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Simple Organic de primeira compra? Sim. O S-EMCASACOMCECILIA dá 5% em todo o site oficial, no primeiro pedido e nos seguintes.",
+          "Qual cupom Simple Organic vale para quem já é cliente? O mesmo S-EMCASACOMCECILIA, com os mesmos 5%.",
+          "O cupom Simple Organic vale em kit e em promoção? Sim. Os 5% entram nos kits e sobre o preço promocional.",
+          "A Simple Organic tem frete grátis? Sim, a partir de R$ 99 em produtos. O mínimo conta depois do desconto do código.",
+          "Preciso digitar o cupom na Simple Organic? Pelo botão desta página, a loja abre com o código aplicado. Se ele não aparecer em “Desconto”, cole no carrinho."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 929,
+    "slug": "cupom-clea-store-primeira-compra",
+    "title": "Cupom Cléa Store primeira compra: CSEMCASACOMCECILIA dá 10% OFF e vale nas compras seguintes",
+    "seoTitle": "Cléa Store primeira compra: 10% com CSEMCASACOMCECILIA",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O CSEMCASACOMCECILIA dá 10% na Cléa Store, no primeiro pedido e nos seguintes. Veja como entrou no kit em campanha e a regra de um código por pedido.",
+    "metaDescription": "CSEMCASACOMCECILIA dá 10% OFF na Cléa Store para cliente novo ou antigo. Testado em kit com preço de campanha; um código por pedido.",
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/clea-store/cupom-clea-store-primeira-compra-capa.webp",
+    "imageAlt": "Modelo de camiseta preta segurando a caixa do kit de camisetas da Cléa Store, em foto oficial, ao lado da chamada Cupom Cléa Store primeira compra e do código CSEMCASACOMCECILIA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre na Cléa Store pelo botão e digite CSEMCASACOMCECILIA no resumo do pedido, em Cupom de desconto.",
+      "label": "Ir para a Cléa Store",
+      "url": "https://www.cleastore.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CSEMCASACOMCECILIA",
+    "affiliate": "clea-store",
+    "editorialNote": "Cupom testado no carrinho oficial da Cléa Store. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-clea-store-como-usar"
+      },
+      {
+        "slug": "clea-store-e-confiavel"
+      },
+      {
+        "slug": "clea-store-mercado-livre-ou-site"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na Cléa Store, use CSEMCASACOMCECILIA: 10% OFF no site oficial, também para quem já comprou. No teste, os 10% entraram no kit em campanha. A loja aceita um código por pedido; no resumo, confira o desconto e a indicação de cashback antes de pagar."
+        ]
+      },
+      {
+        "heading": "Cupom Cléa Store primeira compra: qual usar",
+        "paragraphs": [
+          "Use o CSEMCASACOMCECILIA: 10% OFF em todos os produtos do site oficial, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
+          "É o [cupom Cléa Store](/cupons/clea-store) da nossa parceria com a marca, testado no carrinho. Alfaiataria, vestido ou t-shirt: o código é o mesmo."
+        ]
+      },
+      {
+        "heading": "O que o primeiro pedido exige",
+        "paragraphs": [
+          "O código vale no site inteiro. No primeiro pedido, confira três pontos:"
+        ],
+        "bullets": [
+          "**Um código por pedido.** Os termos de uso da loja preveem um voucher por pedido. Se já houver outro aplicado, troque pelo CSEMCASACOMCECILIA.",
+          "**No resumo do pedido.** O campo “Cupom de desconto” fica no carrinho, ao lado dos itens.",
+          "**Frete grátis acima de R$ 599.** É o que o aviso do site informa; abaixo disso, o frete é calculado no checkout."
+        ],
+        "postParagraphs": [
+          "Antes de pagar, confira a linha “Desconto” no resumo."
+        ]
+      },
+      {
+        "heading": "Kit de camisetas em promoção: quanto fica com o código",
+        "paragraphs": [
+          "No teste do cupom de 08/11/2026, registrado na nossa página de cupom, o CSEMCASACOMCECILIA entrou no Kit 3 T-Shirts Oversized Classic, que já estava com preço de campanha:"
+        ],
+        "comparisonTable": {
+          "caption": "Kit 3 T-Shirts Oversized Classic em campanha: valores do teste no carrinho, antes do frete.",
+          "headers": [
+            "Etapa",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Preço do kit",
+              "R$ 387,00"
+            ],
+            [
+              "Na campanha do site",
+              "R$ 199,00"
+            ],
+            [
+              "Desconto do código",
+              "- R$ 19,90"
+            ],
+            [
+              "Total com o código",
+              "R$ 179,10"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nesse kit, os 10% entraram sobre o preço da campanha. A indicação de cashback no resumo do pedido considera o valor já com o desconto.",
+          "Se a loja oferecer desconto no Pix, ele soma com o código; confira o total antes de pagar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/cupom-clea-store-primeira-compra-kit-3-t-shirts.webp",
+            "alt": "Arte oficial do Kit 3 T-Shirts Oversized Clássico da Cléa Store, com três camisetas: off-white, marrom e preta.",
+            "caption": "Kit 3 T-Shirts Oversized Classic incluído no teste do cupom no carrinho. Foto: Cléa Store.",
+            "objectFit": "square",
+            "href": "https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-classic-3951"
+          }
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "O CSEMCASACOMCECILIA vale de novo para quem já comprou, com os mesmos 10%. Serve para a próxima peça de alfaiataria ou para repor as camisetas."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "O código vai no carrinho, no “Resumo do pedido”:"
+        ],
+        "bullets": [
+          "Escolha as peças e abra o carrinho.",
+          "Clique em “Adicionar” ao lado de “Cupom de desconto”, digite CSEMCASACOMCECILIA e confirme.",
+          "Confira a linha “Desconto” antes de pagar."
+        ],
+        "postParagraphs": [
+          "O passo a passo com as telas está em [como usar o cupom CSEMCASACOMCECILIA](/reviews/cupom-clea-store-como-usar)."
+        ],
+        "image": "/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp",
+        "imageAlt": "Checkout da Cléa Store depois do cupom, com a linha Desconto de menos R$ 25,80, o Cupom aplicado CSEMCASACOMCECILIA e o cashback de até R$ 23,22.",
+        "imageCaption": "O código aplicado no checkout da Cléa Store, em outro pedido de teste: a linha “Desconto” e o cashback aparecem no resumo.",
+        "imageFit": "contain",
+        "imageAspectRatio": 0.931
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Cléa Store de primeira compra? Sim. O CSEMCASACOMCECILIA dá 10% em todo o site oficial, no primeiro pedido e nos seguintes.",
+          "Qual cupom Cléa Store vale para quem já é cliente? O mesmo CSEMCASACOMCECILIA, com os mesmos 10%.",
+          "O cupom Cléa Store soma com peça em promoção? Sim: no teste, os 10% entraram sobre o preço de campanha do kit de camisetas. Confira o desconto no resumo antes de pagar.",
+          "Posso usar dois cupons no mesmo pedido da Cléa Store? Não. Os termos de uso da loja preveem um voucher por pedido.",
+          "A Cléa Store tem frete grátis? Acima de R$ 599, segundo o aviso do site. Abaixo disso, o frete é calculado no checkout."
+        ]
+      }
+    ]
   }
 ];

@@ -7,9 +7,9 @@ parceiro_slug: "simple-organic"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leitura da política de cupons no navegador; redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PC-SIMPLEORGANIC"
@@ -172,3 +172,33 @@ testado, com link para a loja, só se houver foto do acervo; sem foto, sem image
 | Cadastro, lista exclusiva e newsletter da loja | ficha: não encontrado | não citar (decisão de 12/11) |
 | Percentuais de agregador | `[terceiro]` da ficha | não citar |
 | Promessa de resultado de pele | nenhuma fonte | não escrever |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- Página do produto: kit Rotina Pele Sensível a R$ 91,00 (de R$ 182,00), os valores do teste de 12/11.
+- O teste de 03/11 do briefing não está mais no testNote; o artigo usa o de 12/11 e, para o frete, o de 10/11 (Trio Body Splashes), os dois registrados na página de cupom.
+- Número de usos do código: fora do texto. A divergência com a política da loja segue sem mudar o texto (decisão do Bruno).
+- Search Console: CSV da linha de base com o Bruno.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-simple-organic-primeira-compra.json` (id 928), no esqueleto do briefing. Resposta rápida com 57 palavras. As datas dos testes (12/11 e 10/11/2026) ficam na prosa do capítulo da conta, e a legenda da tabela diz o que os valores não incluem, como a revisão externa do lote 2 pediu. O capítulo da conta leva um segundo parágrafo com o caso do frete: o desconto que tira o pedido do mínimo de R$ 99. Duas datas no corpo (12/11 e 10/11).
+
+## Revisão (Job 3, 12/11/2026)
+
+1 a 10: passou. Sem benefício da própria loja, sem código de terceiros, sem "exclusivo", "maior" ou "melhor". Sem promessa de pele ("Pele Sensível" só como nome do kit); sem incentivo a comprar mais para ganhar frete: o texto manda comparar o total com e sem o código.
+
+- C1: 0 "R$" na resposta rápida. C2: 2 datas no corpo (as dos testes, na prosa). C3, C4, C5: 0.
+- C6: os valores da tabela não voltam na prosa nem no FAQ. C7: sem capítulo de método. C8: a foto do produto está no capítulo da conta, com o link de afiliado no `href`.
+- C9: cada rótulo no máximo uma vez. C12: a primeira frase de cada capítulo decide. C14: "E na segunda compra?" vem do molde da série.
+- Leitura em voz alta: soa como pessoa ajudando.
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da loja, a chamada e o S-EMCASACOMCECILIA. Alt: Kit Rotina Pele Sensível da Simple Organic, com três produtos, em foto oficial, ao lado da chamada Cupom Simple Organic primeira compra e do código S-EMCASACOMCECILIA.
+- **Kit em promoção: quanto o código tira:** `/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-rotina-pele-sensivel.webp` (quadrada, `href` com o link de afiliado do produto). Alt: Kit Rotina Pele Sensível da Simple Organic, com gel de limpeza suave, balm antiolheiras e hidratante facial, em foto oficial. Legenda: Kit Rotina Pele Sensível incluído no teste do cupom no checkout. Foto: Simple Organic.
+- **Origem:** uma foto oficial da loja, lida em 12/11/2026: o kit Rotina Pele Sensível, na capa e no corpo. Sem IA.
+
+## Revisão externa (Farol, 12/11/2026)
+
+Aplicado: capítulo "Quando o cupom muda o frete", com tabela do Trio Body Splashes no CEP 01310-100 (o mesmo do SO7) e o acréscimo de R$ 5,91; a legenda do print passa a dizer que são os valores da tabela do kit (conferido na imagem). Não aplicado: a frase sobre a política da loja restringir cupons em kits e promoções, pela decisão do Bruno de não mudar o texto por essa divergência.

@@ -7,9 +7,9 @@ parceiro_slug: "petz"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador (Chrome); redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PC-PETZ"
@@ -174,3 +174,33 @@ foto da sacola com o campo "Digite seu cupom" e a linha "Total de descontos", co
 | Mercado Livre não aceita o código | nenhuma no FAQ da Petz | não escrever |
 | Benefício de primeira compra da própria loja | agregadores; nenhuma fonte oficial lida | não escrever (Bruno, 12/11) |
 | 10%, 15%, 20% no app | agregadores (trechos de busca, WebFetch) | não usar |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- Petz pelo navegador: Cama Suspensa Cansei de Ser Gato a R$ 319,99, como no teste de 12/11. O download das fotos do site foi recusado (403) e não foi contornado: capa e corpo usam fotos oficiais que já estavam na biblioteca.
+- A conta do artigo é a do teste de 11/11 (Golden, sachê e Maxi), que mostra a regra de promoção; o teste de 12/11 entra numa frase, sem valores.
+- Sem Pix, Clubz, campanha ou código de convite. A retirada ficou num capítulo próprio, fora da resposta rápida.
+- Search Console: CSV da linha de base com o Bruno.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-petz-primeira-compra.json` (id 925), no esqueleto do briefing. Resposta rápida com 58 palavras. As datas dos testes (11/11 e 12/11/2026) ficam na prosa do capítulo da conta, e a legenda da tabela diz o que os valores não incluem, como a revisão externa do lote 2 pediu. A tabela tem três itens e três colunas (preço na sacola e com o EMCASA) no lugar das etapas, porque a regra é por item. Capítulo extra: "Retirada na loja: o desconto que soma com o código". Duas datas no corpo (11/11 e 12/11).
+
+## Revisão (Job 3, 12/11/2026)
+
+1 a 10: passou. Sem benefício da própria loja, sem código de terceiros, sem "exclusivo", "maior" ou "melhor". Sem Pix; a Assinatura só como "não soma com cupom"; frete e retirada como "a loja informa".
+
+- C1: 0 "R$" na resposta rápida. C2: 2 datas no corpo (as dos testes, na prosa). C3, C4, C5: 0.
+- C6: os valores da tabela não voltam na prosa nem no FAQ. C7: sem capítulo de método. C8: a foto do produto está no capítulo da conta, com o link de afiliado no `href`.
+- C9: cada rótulo no máximo uma vez. C12: a primeira frase de cada capítulo decide. C14: "E na segunda compra?" vem do molde da série.
+- Leitura em voz alta: soa como pessoa ajudando.
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/petz/cupom-petz-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da loja, a chamada e o EMCASA. Alt: Pacote da ração Royal Canin Maxi Adult, em foto oficial de frente, ao lado da chamada Cupom Petz primeira compra e do código EMCASA.
+- **Preço cheio e promoção na mesma sacola: o que o EMCASA fez:** `/images/reviews/petz/cupom-petz-primeira-compra-sache-royal-canin.webp` (quadrada, sem link). Alt: Sachê de ração úmida Royal Canin Instinctive de 85 g, para gatos adultos, em foto oficial de frente. Legenda: Sachê Royal Canin Instinctive de 85 g, um dos itens em oferta incluídos no teste do cupom. Foto: Petz.
+- **Origem:** duas fotos oficiais já na biblioteca (página do produto na Petz): a ração Royal Canin Maxi Adult na capa e o sachê Royal Canin Instinctive no corpo. Sem IA. A foto do corpo não tem link, como nos outros artigos da Petz.
+
+## Revisão externa (Farol, 12/11/2026)
+
+Aplicado, depois de conferir os fatos: resposta rápida em três frases; os 14,5% da retirada só quando o item recebe os 10% do código; o FAQ do cliente antigo repete as condições.

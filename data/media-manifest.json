@@ -49433,6 +49433,114 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/clea-store/cupom-clea-store-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/clea-store/cupom-clea-store-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 70172,
+      "sha256": "d11e785a99492619759a2baa23ee1d9bafb49084addc6dcaff7b4d7c0b227cf7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-clea-store-primeira-compra-capa.webp",
+      "storage_filename": "cupom-clea-store-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-clea-store-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-clea-store-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-clea-store-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/cupom-clea-store-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-clea-store-primeira-compra.md",
+          "line": 205,
+          "column": 14,
+          "literal": "/images/reviews/clea-store/cupom-clea-store-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 217777,
+          "column": 15,
+          "literal": "/images/reviews/clea-store/cupom-clea-store-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d11e785a99492619759a2baa23ee1d9bafb49084addc6dcaff7b4d7c0b227cf7/cupom-clea-store-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d11e785a99492619759a2baa23ee1d9bafb49084addc6dcaff7b4d7c0b227cf7/cupom-clea-store-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T21:52:59.724Z",
+      "verification_etag_or_digest": "d11e785a99492619759a2baa23ee1d9bafb49084addc6dcaff7b4d7c0b227cf7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/cupom-clea-store-primeira-compra-kit-3-t-shirts.webp",
+      "local_url": "/images/reviews/clea-store/cupom-clea-store-primeira-compra-kit-3-t-shirts.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28038,
+      "sha256": "db1066ca5f439096c5c739e1f29d96c88477191263fb593dbe274ec5b546cd9a",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-clea-store-primeira-compra-kit-3-t-shirts.webp",
+      "storage_filename": "cupom-clea-store-primeira-compra-kit-3-t-shirts.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-clea-store-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-clea-store-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-clea-store-primeira-compra.json",
+          "line": 112,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/cupom-clea-store-primeira-compra-kit-3-t-shirts.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-clea-store-primeira-compra.md",
+          "line": 206,
+          "column": 64,
+          "literal": "/images/reviews/clea-store/cupom-clea-store-primeira-compra-kit-3-t-shirts.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 217867,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/cupom-clea-store-primeira-compra-kit-3-t-shirts.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/db1066ca5f439096c5c739e1f29d96c88477191263fb593dbe274ec5b546cd9a/cupom-clea-store-primeira-compra-kit-3-t-shirts.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/db1066ca5f439096c5c739e1f29d96c88477191263fb593dbe274ec5b546cd9a/cupom-clea-store-primeira-compra-kit-3-t-shirts.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T21:52:59.724Z",
+      "verification_etag_or_digest": "db1066ca5f439096c5c739e1f29d96c88477191263fb593dbe274ec5b546cd9a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/clea-store/looks-camiseta-basica-barrel-azul-claro.webp",
       "local_url": "/images/reviews/clea-store/looks-camiseta-basica-barrel-azul-claro.webp",
       "media_kind": "image",
@@ -87104,6 +87212,114 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 155222,
+      "sha256": "74415c27adeeb907cae9a68dd28f9d6c46b05951c576e760df327f0726cfc289",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-i-wanna-sleep-primeira-compra-capa.webp",
+      "storage_filename": "cupom-i-wanna-sleep-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-i-wanna-sleep-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-i-wanna-sleep-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-i-wanna-sleep-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-i-wanna-sleep-primeira-compra.md",
+          "line": 195,
+          "column": 14,
+          "literal": "/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 217465,
+          "column": 15,
+          "literal": "/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/74415c27adeeb907cae9a68dd28f9d6c46b05951c576e760df327f0726cfc289/cupom-i-wanna-sleep-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/74415c27adeeb907cae9a68dd28f9d6c46b05951c576e760df327f0726cfc289/cupom-i-wanna-sleep-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T21:52:59.725Z",
+      "verification_etag_or_digest": "74415c27adeeb907cae9a68dd28f9d6c46b05951c576e760df327f0726cfc289",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-caracol-sleep-mask.webp",
+      "local_url": "/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-caracol-sleep-mask.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 70840,
+      "sha256": "8ff9a8b672df02d489f7d7f0b60f737b52135608f2cc50ab336c907f8823fdc4",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-i-wanna-sleep-primeira-compra-caracol-sleep-mask.webp",
+      "storage_filename": "cupom-i-wanna-sleep-primeira-compra-caracol-sleep-mask.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-i-wanna-sleep-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-i-wanna-sleep-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-i-wanna-sleep-primeira-compra.json",
+          "line": 111,
+          "column": 19,
+          "literal": "/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-caracol-sleep-mask.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-i-wanna-sleep-primeira-compra.md",
+          "line": 196,
+          "column": 65,
+          "literal": "/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-caracol-sleep-mask.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 217554,
+          "column": 21,
+          "literal": "/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-caracol-sleep-mask.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8ff9a8b672df02d489f7d7f0b60f737b52135608f2cc50ab336c907f8823fdc4/cupom-i-wanna-sleep-primeira-compra-caracol-sleep-mask.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8ff9a8b672df02d489f7d7f0b60f737b52135608f2cc50ab336c907f8823fdc4/cupom-i-wanna-sleep-primeira-compra-caracol-sleep-mask.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T21:52:59.725Z",
+      "verification_etag_or_digest": "8ff9a8b672df02d489f7d7f0b60f737b52135608f2cc50ab336c907f8823fdc4",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/iwannasleep/i-wanna-sleep-cobertor-igloo-ficha-tecnica-capa-v2.webp",
       "local_url": "/images/reviews/iwannasleep/i-wanna-sleep-cobertor-igloo-ficha-tecnica-capa-v2.webp",
       "media_kind": "image",
@@ -91336,6 +91552,114 @@
       "uploaded_at": null,
       "verified_at": "2026-11-02T22:42:31.463Z",
       "verification_etag_or_digest": "c464ec888826ab6f7e2e1e05d8d520857762c12f4a10acd5223bb0877629040e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/cupom-letseatit-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/letseatit/cupom-letseatit-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 96774,
+      "sha256": "6d4b20741c5d46d5ac896cda8a9934c15ba7079779541a3c1120b64ee033e476",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-letseatit-primeira-compra-capa.webp",
+      "storage_filename": "cupom-letseatit-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-letseatit-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-letseatit-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-letseatit-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/cupom-letseatit-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-letseatit-primeira-compra.md",
+          "line": 195,
+          "column": 14,
+          "literal": "/images/reviews/letseatit/cupom-letseatit-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 217313,
+          "column": 15,
+          "literal": "/images/reviews/letseatit/cupom-letseatit-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6d4b20741c5d46d5ac896cda8a9934c15ba7079779541a3c1120b64ee033e476/cupom-letseatit-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6d4b20741c5d46d5ac896cda8a9934c15ba7079779541a3c1120b64ee033e476/cupom-letseatit-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T21:52:59.725Z",
+      "verification_etag_or_digest": "6d4b20741c5d46d5ac896cda8a9934c15ba7079779541a3c1120b64ee033e476",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/cupom-letseatit-primeira-compra-pote-le-creuset.webp",
+      "local_url": "/images/reviews/letseatit/cupom-letseatit-primeira-compra-pote-le-creuset.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24538,
+      "sha256": "e91ef9fd4a8230c8897d002338e4f5a86cd56376820176e13b3db1f0f5d7ba6b",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-letseatit-primeira-compra-pote-le-creuset.webp",
+      "storage_filename": "cupom-letseatit-primeira-compra-pote-le-creuset.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-letseatit-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-letseatit-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-letseatit-primeira-compra.json",
+          "line": 108,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/cupom-letseatit-primeira-compra-pote-le-creuset.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-letseatit-primeira-compra.md",
+          "line": 196,
+          "column": 51,
+          "literal": "/images/reviews/letseatit/cupom-letseatit-primeira-compra-pote-le-creuset.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 217399,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/cupom-letseatit-primeira-compra-pote-le-creuset.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e91ef9fd4a8230c8897d002338e4f5a86cd56376820176e13b3db1f0f5d7ba6b/cupom-letseatit-primeira-compra-pote-le-creuset.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e91ef9fd4a8230c8897d002338e4f5a86cd56376820176e13b3db1f0f5d7ba6b/cupom-letseatit-primeira-compra-pote-le-creuset.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T21:52:59.725Z",
+      "verification_etag_or_digest": "e91ef9fd4a8230c8897d002338e4f5a86cd56376820176e13b3db1f0f5d7ba6b",
       "verification_status": "verified"
     },
     {
@@ -106159,6 +106483,114 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/petz/cupom-petz-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/petz/cupom-petz-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 65468,
+      "sha256": "9f39e3c70c29d6cd94d3b424ea2d1e8da53bf03e608c93eb5256df975ac43442",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-petz-primeira-compra-capa.webp",
+      "storage_filename": "cupom-petz-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-petz-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-petz-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-petz-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/petz/cupom-petz-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-petz-primeira-compra.md",
+          "line": 200,
+          "column": 14,
+          "literal": "/images/reviews/petz/cupom-petz-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 217147,
+          "column": 15,
+          "literal": "/images/reviews/petz/cupom-petz-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9f39e3c70c29d6cd94d3b424ea2d1e8da53bf03e608c93eb5256df975ac43442/cupom-petz-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9f39e3c70c29d6cd94d3b424ea2d1e8da53bf03e608c93eb5256df975ac43442/cupom-petz-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T21:52:59.725Z",
+      "verification_etag_or_digest": "9f39e3c70c29d6cd94d3b424ea2d1e8da53bf03e608c93eb5256df975ac43442",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/cupom-petz-primeira-compra-sache-royal-canin.webp",
+      "local_url": "/images/reviews/petz/cupom-petz-primeira-compra-sache-royal-canin.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31710,
+      "sha256": "d2ba3dfdcbc72e08dad6987ae1f20657580def62e61c0568148e43e4a0dd87b7",
+      "width": 684,
+      "height": 684,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-petz-primeira-compra-sache-royal-canin.webp",
+      "storage_filename": "cupom-petz-primeira-compra-sache-royal-canin.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-petz-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-petz-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-petz-primeira-compra.json",
+          "line": 116,
+          "column": 19,
+          "literal": "/images/reviews/petz/cupom-petz-primeira-compra-sache-royal-canin.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-petz-primeira-compra.md",
+          "line": 201,
+          "column": 68,
+          "literal": "/images/reviews/petz/cupom-petz-primeira-compra-sache-royal-canin.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 217241,
+          "column": 21,
+          "literal": "/images/reviews/petz/cupom-petz-primeira-compra-sache-royal-canin.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d2ba3dfdcbc72e08dad6987ae1f20657580def62e61c0568148e43e4a0dd87b7/cupom-petz-primeira-compra-sache-royal-canin.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d2ba3dfdcbc72e08dad6987ae1f20657580def62e61c0568148e43e4a0dd87b7/cupom-petz-primeira-compra-sache-royal-canin.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T21:52:59.725Z",
+      "verification_etag_or_digest": "d2ba3dfdcbc72e08dad6987ae1f20657580def62e61c0568148e43e4a0dd87b7",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/petz/cupom-petz-sacola-celular-com-cupom.webp",
       "local_url": "/images/reviews/petz/cupom-petz-sacola-celular-com-cupom.webp",
       "media_kind": "image",
@@ -119894,6 +120326,114 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T17:10:05.129Z",
       "verification_etag_or_digest": "0417b8d538532548392b39eb0205e90d8796b91d077b420a3c13d76abcd58c72",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 54154,
+      "sha256": "01112183ce344a9246d205c481d3e83f288eceac94d4df89e94e59311467c2d6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-simple-organic-primeira-compra-capa.webp",
+      "storage_filename": "cupom-simple-organic-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-simple-organic-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-simple-organic-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-simple-organic-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-simple-organic-primeira-compra.md",
+          "line": 198,
+          "column": 14,
+          "literal": "/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 217620,
+          "column": 15,
+          "literal": "/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/01112183ce344a9246d205c481d3e83f288eceac94d4df89e94e59311467c2d6/cupom-simple-organic-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/01112183ce344a9246d205c481d3e83f288eceac94d4df89e94e59311467c2d6/cupom-simple-organic-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T21:52:59.725Z",
+      "verification_etag_or_digest": "01112183ce344a9246d205c481d3e83f288eceac94d4df89e94e59311467c2d6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-rotina-pele-sensivel.webp",
+      "local_url": "/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-rotina-pele-sensivel.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38142,
+      "sha256": "06dd4263572e59ea4bf89681bcb27a711e342fa373ee054fa2143f6bb50f2b09",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-simple-organic-primeira-compra-rotina-pele-sensivel.webp",
+      "storage_filename": "cupom-simple-organic-primeira-compra-rotina-pele-sensivel.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-simple-organic-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-simple-organic-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-simple-organic-primeira-compra.json",
+          "line": 113,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-rotina-pele-sensivel.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-simple-organic-primeira-compra.md",
+          "line": 199,
+          "column": 47,
+          "literal": "/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-rotina-pele-sensivel.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 217711,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-rotina-pele-sensivel.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/06dd4263572e59ea4bf89681bcb27a711e342fa373ee054fa2143f6bb50f2b09/cupom-simple-organic-primeira-compra-rotina-pele-sensivel.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/06dd4263572e59ea4bf89681bcb27a711e342fa373ee054fa2143f6bb50f2b09/cupom-simple-organic-primeira-compra-rotina-pele-sensivel.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T21:52:59.725Z",
+      "verification_etag_or_digest": "06dd4263572e59ea4bf89681bcb27a711e342fa373ee054fa2143f6bb50f2b09",
       "verification_status": "verified"
     },
     {
