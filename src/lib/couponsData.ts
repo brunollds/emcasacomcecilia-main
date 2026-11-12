@@ -367,6 +367,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'dolce-gusto',
+    cartPrint: { src: '/images/reviews/dolcegusto/cupom-dolce-gusto-carrinho-com-cupom.webp', alt: 'Carrinho da NESCAFÉ Dolce Gusto com o código CECI aplicado e, no resumo do pedido, a linha Você ganhou 10% OFF', aspectRatio: 1.263 },
     brand: 'Dolce Gusto',
     officialUrl: 'https://www.nescafe-dolcegusto.com.br/',
     offerUrl: 'https://www.nescafe-dolcegusto.com.br/',
@@ -2601,6 +2602,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'toda-up',
+    cartPrint: { src: '/images/reviews/toda-up/cupom-toda-up-checkout-com-cupom.webp', alt: 'Resumo do pedido no checkout da Toda Up com o código MAUAD aplicado na Fita Up e a linha Desconto no pedido', aspectRatio: 1.071 },
     brand: 'Toda Up',
     officialUrl: 'https://todaup.com/',
     offerUrl:
@@ -2708,6 +2710,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'simple-organic',
+    cartPrint: { src: '/images/reviews/simple-organic/cupom-simple-organic-checkout-com-cupom.webp', alt: 'Resumo do pedido no checkout da Simple Organic com o código S-EMCASACOMCECILIA aplicado e a linha Desconto no pedido', aspectRatio: 1.039 },
     brand: 'Simple Organic',
     officialUrl: 'https://simpleorganic.com.br/',
     // Link da parceria como veio (03/11/2026): abre o site com o cupom aplicado. Com redirect para um produto o
@@ -2812,6 +2815,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'holyfoods',
+    cartPrint: { src: '/images/reviews/holyfoods/cupom-holyfoods-checkout-com-cupom.webp', alt: 'Resumo da compra na HolyFoods com a linha Descontos e o aviso Cupom EMCASA adicionado', aspectRatio: 1.341 },
     brand: 'HolyFoods',
     officialUrl: 'https://holyfoods.com.br/',
     offerUrl: 'https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz',
@@ -2927,6 +2931,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'petz',
+    cartPrint: { src: '/images/reviews/petz/cupom-petz-sacola-celular-com-cupom.webp', alt: 'Sacola da Petz no celular com o produto, o cupom EMCASA aplicado no campo Cupom de desconto e a linha Desconto Aplicado', aspectRatio: 1.013 },
     brand: 'Petz',
     officialUrl: 'https://www.petz.com.br/',
     // Loja da Cecília no programa Parceiro Petz (11/11/2026): o link marca a compra para a parceria, mas não aplica o
@@ -3047,6 +3052,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'hostinger',
+    cartPrint: { src: '/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom.webp', alt: 'Resumo do pedido no carrinho da Hostinger com a linha Cupom aplicado e a etiqueta SONAR20', aspectRatio: 1.096 },
     brand: 'Hostinger',
     officialUrl: 'https://www.hostinger.com/',
     // Programa de agências do Bruno (29/10/2026): o SONAR20 vale digitado no carrinho e também vai no link de
