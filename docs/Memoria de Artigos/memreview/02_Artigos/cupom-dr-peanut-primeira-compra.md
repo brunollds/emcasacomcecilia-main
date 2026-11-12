@@ -7,9 +7,9 @@ parceiro_slug: "dr-peanut"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador; redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PC-DRPEANUT"
@@ -175,3 +175,33 @@ DREMCASACOMCECILIA. Corpo: foto do carrinho do teste de 11/11 ou da pasta em pro
 | Sem valor mínimo do cupom | nenhuma | não escrever |
 | 10%, 15% e 2% de primeira compra nos agregadores | trechos de busca (ficha, seção 6) | não usar |
 | Frete: "a loja não confirma se o mínimo conta antes" | ficha, seção 9, item 1 | superado pela palavra do Bruno (12/11); não aparece no texto |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- Página da Pasta de amendoim sabor Avelã, no navegador: de R$ 28,90 por R$ 25,89, o preço das pastas do teste.
+- Faixa do topo: frete grátis para Sul e Sudeste acima de R$ 149,90 e demais regiões acima de R$ 199,90, igual ao `shipping`.
+- O artigo usa só o teste de 12/11 do `testNote` (seis pastas, entrega em São Paulo), que mostra o frete passando a ser cobrado depois do código.
+- Search Console: CSV da linha de base com o Bruno.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-dr-peanut-primeira-compra.json` (id 922), no esqueleto do briefing. Resposta rápida com 52 palavras. A data do teste (11/11/2026) fica na prosa do capítulo da conta, e a legenda da tabela diz o que os valores não incluem, como a revisão externa do lote 2 pediu. "Conta nossa" para o total de R$ 152,03 (produtos mais frete). A frase da assinatura vem do teste do Bruno de 24/10, sem data no texto.
+
+## Revisão (Job 3, 12/11/2026)
+
+1 a 10: passou. Sem benefício da própria loja, sem código de terceiros, sem "exclusivo", "maior" ou "melhor". Sem promessa de saúde nem de composição; sem percentual de Pix; sem campanha nem brinde; sem benefício da loja. O mínimo do frete conta depois do cupom, como a página de cupom publica.
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data no corpo (a do teste, na prosa). C3, C4, C5: 0.
+- C6: os valores da tabela não voltam na prosa nem no FAQ. C7: sem capítulo de método. C8: a foto do produto está no capítulo da conta, com o link de afiliado no `href`.
+- C9: cada rótulo no máximo uma vez. C12: a primeira frase de cada capítulo decide. C14: "E na segunda compra?" vem do molde da série.
+- Leitura em voz alta: soa como pessoa ajudando.
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da loja, a chamada e o DREMCASACOMCECILIA. Alt: Pote aberto de pasta de amendoim sabor avelã da Dr. Peanut, com uma colher, em foto oficial, ao lado da chamada Cupom Dr. Peanut primeira compra e do código DREMCASACOMCECILIA.
+- **Seis pastas e o frete grátis: o que o código mudou:** `/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-pasta-avela-250g.webp` (quadrada, `href` com o link de afiliado do produto). Alt: Pote de 250 g da pasta de amendoim sabor avelã da Dr. Peanut, em foto oficial de frente. Legenda: Pasta de amendoim sabor avelã de 250 g, um dos sabores da loja. Foto: Dr. Peanut.
+- **Origem:** duas fotos oficiais da galeria da pasta sabor avelã, lidas em 12/11/2026: o pote aberto com a colher na capa e o pote de 250 g no corpo. Sem IA.
+
+## Revisão externa (Farol, 12/11/2026)
+
+Aplicado depois de conferir os fatos: tabela com a coluna "Produtos + frete" (soma calculada) e a economia final de R$ 3,31; saiu o incentivo a pôr um item a mais só pelo frete. Não aplicado: tirar o print do código de outro pedido (decisão do Bruno de 12/11: o print da página de cupom entra em todo artigo da série).

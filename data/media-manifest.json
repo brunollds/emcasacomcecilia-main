@@ -43039,6 +43039,114 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/belive/cupom-belive-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/belive/cupom-belive-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 109744,
+      "sha256": "08bf1470cd9905cddc160e91a8535cb4e50bbc3e753617ed0a401926bace03ce",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-belive-primeira-compra-capa.webp",
+      "storage_filename": "cupom-belive-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-belive-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-belive-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-belive-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/belive/cupom-belive-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-belive-primeira-compra.md",
+          "line": 190,
+          "column": 14,
+          "literal": "/images/reviews/belive/cupom-belive-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 216829,
+          "column": 15,
+          "literal": "/images/reviews/belive/cupom-belive-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/08bf1470cd9905cddc160e91a8535cb4e50bbc3e753617ed0a401926bace03ce/cupom-belive-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/08bf1470cd9905cddc160e91a8535cb4e50bbc3e753617ed0a401926bace03ce/cupom-belive-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T21:14:01.491Z",
+      "verification_etag_or_digest": "08bf1470cd9905cddc160e91a8535cb4e50bbc3e753617ed0a401926bace03ce",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/cupom-belive-primeira-compra-pao-de-batata.webp",
+      "local_url": "/images/reviews/belive/cupom-belive-primeira-compra-pao-de-batata.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 67302,
+      "sha256": "3a3c217255e0064eb2e1bde90e039efadc7924c56939f2e7b93a29049019b897",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-belive-primeira-compra-pao-de-batata.webp",
+      "storage_filename": "cupom-belive-primeira-compra-pao-de-batata.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-belive-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-belive-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-belive-primeira-compra.json",
+          "line": 125,
+          "column": 19,
+          "literal": "/images/reviews/belive/cupom-belive-primeira-compra-pao-de-batata.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-belive-primeira-compra.md",
+          "line": 191,
+          "column": 50,
+          "literal": "/images/reviews/belive/cupom-belive-primeira-compra-pao-de-batata.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 216932,
+          "column": 21,
+          "literal": "/images/reviews/belive/cupom-belive-primeira-compra-pao-de-batata.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3a3c217255e0064eb2e1bde90e039efadc7924c56939f2e7b93a29049019b897/cupom-belive-primeira-compra-pao-de-batata.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3a3c217255e0064eb2e1bde90e039efadc7924c56939f2e7b93a29049019b897/cupom-belive-primeira-compra-pao-de-batata.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T21:14:01.492Z",
+      "verification_etag_or_digest": "3a3c217255e0064eb2e1bde90e039efadc7924c56939f2e7b93a29049019b897",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/belive/cupom-belive-resumo-desconto.webp",
       "local_url": "/images/reviews/belive/cupom-belive-resumo-desconto.webp",
       "media_kind": "image",
@@ -59531,6 +59639,114 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-caixa-cappuccino.webp",
+      "local_url": "/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-caixa-cappuccino.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41282,
+      "sha256": "88112a06f139ac5358dbf8032146d56b62eecf84497dfc5dcd9a2ad0b6ec74c8",
+      "width": 815,
+      "height": 815,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-dolce-gusto-primeira-compra-caixa-cappuccino.webp",
+      "storage_filename": "cupom-dolce-gusto-primeira-compra-caixa-cappuccino.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-dolce-gusto-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-dolce-gusto-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-dolce-gusto-primeira-compra.json",
+          "line": 105,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-caixa-cappuccino.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-dolce-gusto-primeira-compra.md",
+          "line": 208,
+          "column": 64,
+          "literal": "/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-caixa-cappuccino.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 216454,
+          "column": 21,
+          "literal": "/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-caixa-cappuccino.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/88112a06f139ac5358dbf8032146d56b62eecf84497dfc5dcd9a2ad0b6ec74c8/cupom-dolce-gusto-primeira-compra-caixa-cappuccino.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/88112a06f139ac5358dbf8032146d56b62eecf84497dfc5dcd9a2ad0b6ec74c8/cupom-dolce-gusto-primeira-compra-caixa-cappuccino.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T21:14:01.492Z",
+      "verification_etag_or_digest": "88112a06f139ac5358dbf8032146d56b62eecf84497dfc5dcd9a2ad0b6ec74c8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57072,
+      "sha256": "b9116e2658c13de8ff4986a8573aa19e0378368c2582f81092c0b415e99332b4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-dolce-gusto-primeira-compra-capa.webp",
+      "storage_filename": "cupom-dolce-gusto-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-dolce-gusto-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-dolce-gusto-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-dolce-gusto-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-dolce-gusto-primeira-compra.md",
+          "line": 207,
+          "column": 14,
+          "literal": "/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 216371,
+          "column": 15,
+          "literal": "/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b9116e2658c13de8ff4986a8573aa19e0378368c2582f81092c0b415e99332b4/cupom-dolce-gusto-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b9116e2658c13de8ff4986a8573aa19e0378368c2582f81092c0b415e99332b4/cupom-dolce-gusto-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T21:14:01.492Z",
+      "verification_etag_or_digest": "b9116e2658c13de8ff4986a8573aa19e0378368c2582f81092c0b415e99332b4",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dolcegusto/dolce-gusto-cafe-au-lait-e-latte-macchiato-oficial.webp",
       "local_url": "/images/reviews/dolcegusto/dolce-gusto-cafe-au-lait-e-latte-macchiato-oficial.webp",
       "media_kind": "image",
@@ -63797,6 +64013,114 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 243456,
+      "sha256": "da178fe5b95b0d78f2348ef02fa7d9d6169d852ab7819f78a5581ff7874bef06",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-dr-peanut-primeira-compra-capa.webp",
+      "storage_filename": "cupom-dr-peanut-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-dr-peanut-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-dr-peanut-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-dr-peanut-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-dr-peanut-primeira-compra.md",
+          "line": 201,
+          "column": 14,
+          "literal": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 216675,
+          "column": 15,
+          "literal": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/da178fe5b95b0d78f2348ef02fa7d9d6169d852ab7819f78a5581ff7874bef06/cupom-dr-peanut-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/da178fe5b95b0d78f2348ef02fa7d9d6169d852ab7819f78a5581ff7874bef06/cupom-dr-peanut-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T21:14:01.492Z",
+      "verification_etag_or_digest": "da178fe5b95b0d78f2348ef02fa7d9d6169d852ab7819f78a5581ff7874bef06",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-pasta-avela-250g.webp",
+      "local_url": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-pasta-avela-250g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 79174,
+      "sha256": "931c30e9bfdfb8161a04a5903491dc36602724dbc493146749057c4bf70271c1",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-dr-peanut-primeira-compra-pasta-avela-250g.webp",
+      "storage_filename": "cupom-dr-peanut-primeira-compra-pasta-avela-250g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-dr-peanut-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-dr-peanut-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-dr-peanut-primeira-compra.json",
+          "line": 110,
+          "column": 19,
+          "literal": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-pasta-avela-250g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-dr-peanut-primeira-compra.md",
+          "line": 202,
+          "column": 60,
+          "literal": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-pasta-avela-250g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 216763,
+          "column": 21,
+          "literal": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-pasta-avela-250g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/931c30e9bfdfb8161a04a5903491dc36602724dbc493146749057c4bf70271c1/cupom-dr-peanut-primeira-compra-pasta-avela-250g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/931c30e9bfdfb8161a04a5903491dc36602724dbc493146749057c4bf70271c1/cupom-dr-peanut-primeira-compra-pasta-avela-250g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T21:14:01.492Z",
+      "verification_etag_or_digest": "931c30e9bfdfb8161a04a5903491dc36602724dbc493146749057c4bf70271c1",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dr-peanut/dr-peanut-12-sabores-potes-2710.webp",
       "local_url": "/images/reviews/dr-peanut/dr-peanut-12-sabores-potes-2710.webp",
       "media_kind": "image",
@@ -66147,6 +66471,114 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T17:10:05.129Z",
       "verification_etag_or_digest": "cf44c64c42f8ac09b00ebbe9a703a5e6b7398a40d2591cd5dd9f637bc6098d2c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 100676,
+      "sha256": "cde9ff5a9992b4d4dc0dc8a1aed73886357458d733e5ba830734c94b71e39833",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-holyfoods-primeira-compra-capa.webp",
+      "storage_filename": "cupom-holyfoods-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-holyfoods-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-holyfoods-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-holyfoods-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-holyfoods-primeira-compra.md",
+          "line": 194,
+          "column": 14,
+          "literal": "/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 216998,
+          "column": 15,
+          "literal": "/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/cde9ff5a9992b4d4dc0dc8a1aed73886357458d733e5ba830734c94b71e39833/cupom-holyfoods-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cde9ff5a9992b4d4dc0dc8a1aed73886357458d733e5ba830734c94b71e39833/cupom-holyfoods-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T21:14:01.492Z",
+      "verification_etag_or_digest": "cde9ff5a9992b4d4dc0dc8a1aed73886357458d733e5ba830734c94b71e39833",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-pack-sopa-da-vovo.webp",
+      "local_url": "/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-pack-sopa-da-vovo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 70398,
+      "sha256": "5ed4211123cc364476d99c69a4bc682f450c00a2adeb933d124091595e8508fe",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-holyfoods-primeira-compra-pack-sopa-da-vovo.webp",
+      "storage_filename": "cupom-holyfoods-primeira-compra-pack-sopa-da-vovo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-holyfoods-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-holyfoods-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-holyfoods-primeira-compra.json",
+          "line": 105,
+          "column": 19,
+          "literal": "/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-pack-sopa-da-vovo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-holyfoods-primeira-compra.md",
+          "line": 195,
+          "column": 48,
+          "literal": "/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-pack-sopa-da-vovo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 217081,
+          "column": 21,
+          "literal": "/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-pack-sopa-da-vovo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5ed4211123cc364476d99c69a4bc682f450c00a2adeb933d124091595e8508fe/cupom-holyfoods-primeira-compra-pack-sopa-da-vovo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5ed4211123cc364476d99c69a4bc682f450c00a2adeb933d124091595e8508fe/cupom-holyfoods-primeira-compra-pack-sopa-da-vovo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T21:14:01.492Z",
+      "verification_etag_or_digest": "5ed4211123cc364476d99c69a4bc682f450c00a2adeb933d124091595e8508fe",
       "verification_status": "verified"
     },
     {
@@ -99424,6 +99856,114 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T17:10:05.129Z",
       "verification_etag_or_digest": "26897197a5805a9a62c72ec03598271d55a0da9f6287e3a2730372ccf266fc35",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 118314,
+      "sha256": "19f3e716cc502a37e1e921222e7185d342b86af66f2a037328733d1f364e8b75",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-max-titanium-primeira-compra-capa.webp",
+      "storage_filename": "cupom-max-titanium-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-max-titanium-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-max-titanium-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-max-titanium-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-max-titanium-primeira-compra.md",
+          "line": 205,
+          "column": 14,
+          "literal": "/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 216519,
+          "column": 15,
+          "literal": "/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/19f3e716cc502a37e1e921222e7185d342b86af66f2a037328733d1f364e8b75/cupom-max-titanium-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/19f3e716cc502a37e1e921222e7185d342b86af66f2a037328733d1f364e8b75/cupom-max-titanium-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T21:14:01.492Z",
+      "verification_etag_or_digest": "19f3e716cc502a37e1e921222e7185d342b86af66f2a037328733d1f364e8b75",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-top-whey-3w-sabor.webp",
+      "local_url": "/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-top-whey-3w-sabor.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 142658,
+      "sha256": "20f9cea700c12bd815bd54e265652ed67fee07ee8310432e0d579258fec7c03a",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-max-titanium-primeira-compra-top-whey-3w-sabor.webp",
+      "storage_filename": "cupom-max-titanium-primeira-compra-top-whey-3w-sabor.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-max-titanium-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-max-titanium-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-max-titanium-primeira-compra.json",
+          "line": 112,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-top-whey-3w-sabor.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-max-titanium-primeira-compra.md",
+          "line": 206,
+          "column": 55,
+          "literal": "/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-top-whey-3w-sabor.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 216609,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-top-whey-3w-sabor.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/20f9cea700c12bd815bd54e265652ed67fee07ee8310432e0d579258fec7c03a/cupom-max-titanium-primeira-compra-top-whey-3w-sabor.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/20f9cea700c12bd815bd54e265652ed67fee07ee8310432e0d579258fec7c03a/cupom-max-titanium-primeira-compra-top-whey-3w-sabor.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-12T21:14:01.492Z",
+      "verification_etag_or_digest": "20f9cea700c12bd815bd54e265652ed67fee07ee8310432e0d579258fec7c03a",
       "verification_status": "verified"
     },
     {

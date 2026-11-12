@@ -7,9 +7,9 @@ parceiro_slug: "belive"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador; redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PC-BELIVE"
@@ -164,3 +164,33 @@ MAUAD. Corpo: foto do resumo do pedido do teste de 11/11 ou do carrinho do como 
 | Black November, até 30% | faixa do topo (trecho lido por WebFetch) | não entra (campanha fora) |
 | Teste de 16/10, com quatro combos e R$ 576,82 | `cupom-belive-como-usar` e dossiê | conflita com o 11/11 do `couponsData`; não usar no texto |
 | Agregadores dizem que não há cupom ativo | resultado de busca | não usar |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- Página do combo de seis pacotes de pão de batata, no navegador: de R$ 125,40 por R$ 106,59, e R$ 101,26 no Pix (5%). É o preço do teste de 11/11.
+- Página de regras de frete, no navegador: SP, MG, RJ, DF e GO acima de R$ 170; Sul acima de R$ 250; demais estados acima de R$ 300.
+- A ordem do frete (antes ou depois do cupom) não está publicada: o texto não diz, só manda olhar o frete de novo.
+- Search Console: CSV da linha de base com o Bruno.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-belive-primeira-compra.json` (id 923), no esqueleto do briefing. Resposta rápida com 57 palavras. A data do teste (11/11/2026) fica na prosa do capítulo da conta, e a legenda da tabela diz o que os valores não incluem, como a revisão externa do lote 2 pediu. A capa não leva o MAUAD na arte nem no alt (regra das capas); no lugar, "10% OFF".
+
+## Revisão (Job 3, 12/11/2026)
+
+1 a 10: passou. Sem benefício da própria loja, sem código de terceiros, sem "exclusivo", "maior" ou "melhor". Sem a campanha do topo; sem newsletter; sem "sem valor mínimo"; nenhuma promessa de saúde.
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data no corpo (a do teste, na prosa). C3, C4, C5: 0.
+- C6: os valores da tabela não voltam na prosa nem no FAQ. C7: sem capítulo de método. C8: a foto do produto está no capítulo da conta, com o link de afiliado no `href`.
+- C9: cada rótulo no máximo uma vez. C12: a primeira frase de cada capítulo decide. C14: "E na segunda compra?" vem do molde da série.
+- Leitura em voz alta: soa como pessoa ajudando.
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/belive/cupom-belive-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da loja, a chamada e o MAUAD. Alt: Mão segurando dois pãezinhos de batata da Belive sobre as embalagens, em foto oficial, ao lado da chamada Cupom Belive primeira compra.
+- **Combo em oferta: o código e o Pix juntos:** `/images/reviews/belive/cupom-belive-primeira-compra-pao-de-batata.webp` (quadrada, `href` com o link de afiliado do produto). Alt: Pacote de 198 g do Pãozinho de Batata sem glúten da Belive, em foto oficial de frente. Legenda: Pãozinho de Batata de 198 g: o combo incluído no teste do cupom leva seis pacotes. Foto: Belive.
+- **Origem:** duas fotos oficiais da galeria do Pãozinho de Batata, lidas em 12/11/2026: a mão com dois pãezinhos na capa e o pacote de 198 g no corpo. A foto do combo traz um selo de oferta da loja e ficou de fora. Sem IA.
+
+## Revisão externa (Farol, 12/11/2026)
+
+Aplicado depois de conferir os fatos: título do capítulo da conta sem o Pix (a tabela termina antes dele); FAQ do frete com os estados de cada faixa; instrução de informar o CEP. Não aplicado: tirar o print do código de outro pedido (decisão do Bruno de 12/11: o print da página de cupom entra em todo artigo da série).

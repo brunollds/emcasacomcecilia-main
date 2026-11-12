@@ -7,9 +7,9 @@ parceiro_slug: "dolce-gusto"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador; redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PC-DOLCEGUSTO"
@@ -181,3 +181,33 @@ loja (sponsored).
 | Definição de cliente novo | regulamento não lido (HTTP 403) | sem fonte: não escrever |
 | Pontos do Club por cadastro ou newsletter | resumo de busca; regras não abertas | fora do artigo |
 | Percentuais de terceiros (10% com validade, cupons de 20% ou 50%) | agregadores do topo; Cupoland (11/11) | não citar |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- Página das Cápsulas Cappuccino (`/sabores/cappuccino-capsulas-10`), no navegador: de R$ 25,90 por R$ 15,90, o preço do teste de 11/11. A página de cupom passou a ter um teste de 12/11 (Espresso Intenso); o de 11/11 segue registrado nela, e é o que o artigo usa.
+- Pix: a página do produto não anuncia desconto; o texto diz só "se a loja oferecer".
+- Máquinas: não refiz leitura; o texto diz que o checkout informa.
+- Search Console: CSV da linha de base com o Bruno.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-dolce-gusto-primeira-compra.json` (id 920), no esqueleto do briefing. Resposta rápida com 53 palavras. A data do teste (11/11/2026) fica na prosa do capítulo da conta, e a legenda da tabela diz o que os valores não incluem, como a revisão externa do lote 2 pediu. O capítulo da conta gira no mínimo de R$ 100: "conta nossa" para as seis caixas (R$ 95,40). A resposta rápida usa "100 reais".
+
+## Revisão (Job 3, 12/11/2026)
+
+1 a 10: passou. Sem benefício da própria loja, sem código de terceiros, sem "exclusivo", "maior" ou "melhor". Sem limite de usos nem "sem limite"; sem cupom nem Club da loja; sem combo ou campanha de caixas; sem CNPJ; sem Mercado Livre (não achei a fonte em `couponsData.ts`).
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data no corpo (a do teste, na prosa). C3, C4, C5: 0.
+- C6: os valores da tabela não voltam na prosa nem no FAQ. C7: sem capítulo de método. C8: a foto do produto está no capítulo da conta, com o link de afiliado no `href`.
+- C9: cada rótulo no máximo uma vez. C12: a primeira frase de cada capítulo decide. C14: "E na segunda compra?" vem do molde da série.
+- Leitura em voz alta: soa como pessoa ajudando.
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da loja, a chamada e o CECI. Alt: Duas cápsulas de Cappuccino Nescafé Dolce Gusto, em foto oficial, ao lado da chamada Cupom Dolce Gusto primeira compra e do código CECI.
+- **Sete caixas em promoção: o código no limite dos R$ 100:** `/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-caixa-cappuccino.webp` (quadrada, `href` com o link de afiliado do produto). Alt: Caixa de Cappuccino Nescafé Dolce Gusto com 10 cápsulas, em foto oficial de frente. Legenda: Caixa de Cappuccino, o sabor incluído no carrinho do teste do cupom. Foto: Nescafé Dolce Gusto.
+- **Origem:** duas fotos oficiais que já estavam na biblioteca do site: as duas cápsulas de Cappuccino na capa (`dolce-gusto-cappuccino-duas-capsulas-oficial.webp`) e a caixa de Cappuccino no corpo, recortada de `dolce-gusto-espresso-intenso-e-cappuccino-oficial.webp`. O site recusou o download direto em 12/11/2026, e eu não contornei. Sem IA.
+
+## Revisão externa (Farol, 12/11/2026)
+
+Aplicado depois de conferir os fatos: "produtos elegíveis" junto do mínimo de R$ 100 na resposta rápida, na meta, no subtítulo e no FAQ; máquinas com "pode ser aceito, conforme o produto e a campanha"; título do capítulo da conta sem "no limite". Não aplicado: tirar o print do código de outro pedido (decisão do Bruno de 12/11: o print da página de cupom entra em todo artigo da série).
