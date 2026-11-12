@@ -1,0 +1,162 @@
+---
+titulo_provisorio: "Como usar o cupom CECILIAMC na Prohall: até 10% OFF no site e no app"
+seo_title: "Cupom Prohall: como usar o CECILIAMC, até 10% OFF"
+slug_sugerido: "cupom-prohall-como-usar"
+parceiro: "[[Prohall]]"
+parceiro_slug: "prohall"
+category: "cupons-como-usar"
+reviewKind: "guia"
+type: "Guia & Cupons"
+status: "pauta-aprovada"
+responsavel: "Job-1"
+proxima_acao: "leituras no navegador; redação"
+bloqueado_por: "-"
+data_criacao: "2026-11-12"
+pauta_id: "PH1"
+i18n_cluster: null
+translationKey: null
+modo_i18n: "somente-pt"
+idioma_fonte: "pt"
+idiomas_alvo: []
+status_i18n: "nao-aplicavel"
+affiliate: "prohall"
+coupon: "CECILIAMC"
+---
+
+# Briefing: Como usar o cupom CECILIAMC na Prohall (PH1)
+
+Primeiro artigo do pacote inicial da Prohall (GO do Bruno, 12/11/2026). Modelo: [[cupom-petz-como-usar]]. Fatos,
+fontes e respostas do Bruno em [[prohall-fatos-1211]]; dados comerciais no dossiê [[Prohall]] e em `couponsData.ts`
+(loja `prohall`). As regras do pacote, abaixo, valem para os seis.
+
+Quem busca já escolheu o produto e quer saber onde digitar o código, quanto ele tira e por que o desconto veio
+menor que o anunciado. O artigo mostra o passo a passo, diz que o desconto é de até 10% e foi de 7% nos testes, e
+resolve os casos em que o código não entra.
+
+## Busca (autocompletar de 12/11/2026)
+
+"cupom prohall", "prohall cupom de desconto", "cupom app prohall" ([[Pesquisas-de-Pauta]], seção Prohall). Sem dado
+do Search Console: a página `/cupons/prohall` entrou no ar no dia da pesquisa.
+
+## Canibalização
+
+- `/cupons/prohall`: qual código está ativo e as condições. O artigo não contradiz a página.
+- [[cupom-prohall-primeira-compra]] (PH4): responde "tem cupom de primeira compra?" e as compras seguintes. O PH1
+  fica com onde digitar, o que o resumo mostra e o que fazer quando o código não entra.
+- [[black-friday-prohall]] (PH6): o cupom na campanha.
+
+## O que só este artigo dá (busca de 12/11/2026)
+
+A busca feita em 12/11, por ferramenta sem localização no Brasil, não trouxe nenhuma página sobre o cupom da Prohall.
+A redação relê o topo do Google em português antes de escrever e ajusta esta seção.
+
+- **O percentual de verdade:** a parceria anuncia "até 10%", e o checkout deu 7% em cinco carrinhos. O artigo diz os
+  dois números e mostra a conta de um carrinho testado.
+- **O passo a passo com o nome dos campos:** "Tem um cupom?", "Código do cupom", "Aplicar" e o aviso "Cupom CECILIAMC
+  aplicado", com o print do checkout.
+- **O app:** produto esgotado no site aparece como "baixar o app para comprar", e a busca "cupom app prohall"
+  existe. O artigo diz que o código vale no site e no app.
+- **O frete depois do cupom:** o mínimo do frete grátis muda por região e conta sobre o valor já com o desconto.
+
+## Esqueleto
+
+1. **Resposta rápida** (40 a 60 palavras, sem "R$"). Rascunho, 51 palavras:
+   > O cupom da Prohall é CECILIAMC: até 10% OFF no site oficial e no app. No checkout, toque em "Tem um cupom?",
+   > digite o código e toque em "Aplicar". Nos nossos testes, o desconto foi de 7%, em produtos a preço cheio e em
+   > promoção. Vale para cliente novo e antigo.
+2. **Onde digitar o cupom na Prohall.** Passo a passo do checkout do site: "Tem um cupom?", campo "Código do
+   cupom", "Aplicar"; o resumo passa a mostrar a linha "Cupom CECILIAMC" e o aviso "Cupom CECILIAMC aplicado". Com o
+   print do checkout.
+3. **Quanto o cupom tira: até 10%, e 7% nos testes.** A conta do teste da página da loja, uma vez: carrinho de
+   R$ 380,70 que caiu para R$ 354,06, com R$ 26,64 de desconto. Dizer que foi 7% em todos os carrinhos testados, a
+   preço cheio e em promoção, e que o resumo mostra o valor antes do pagamento.
+4. **O cupom vale no app?** Sim: no site e no app (Bruno, 12/11). Produto esgotado no site pode aparecer com o aviso
+   de comprar pelo app. O campo do app só entra descrito se a redação o vir; sem isso, o texto diz só que vale.
+5. **Soma com promoção, Pix e frete.**
+   - promoção: soma; o desconto entra sobre o preço promocional (testes de 12/11);
+   - pagamento: vale com todas as formas; o Pix não dá desconto a mais (Bruno, 12/11); até 10x sem juros no cartão,
+     com parcela mínima de R$ 20;
+   - frete grátis por região: a partir de R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte
+     e no Nordeste. O mínimo conta depois do cupom: quem está perto do valor confere o frete com o código aplicado.
+6. **O cupom não entrou: o que conferir.** Código sem espaços, no campo certo, no site oficial ou no app; o cupom
+   de cashback da loja no mesmo pedido (a loja avisa que ele não junta com outros cupons); o desconto pode ser menor
+   que 10%. Se nada resolver, o contato do site.
+7. **Vale para quem já comprou?** Sim: cliente novo e antigo, em mais de uma compra, segundo a parceria. Link para
+   [[cupom-prohall-primeira-compra]].
+8. **FAQ (3 a 5), sem data:**
+   - "Qual é o cupom da Prohall?" (CECILIAMC, até 10%)
+   - "Por que o desconto veio de 7%?" (o cupom é de até 10%; nos nossos testes foi 7%)
+   - "O cupom Prohall vale no app?" (sim)
+   - "O cupom soma com produto em promoção?" (sim)
+   - "O cupom dá frete grátis?" (não; o frete grátis depende do mínimo da região, contado depois do cupom)
+
+Sem quadro `decision`.
+
+## Regras do pacote (valem para os seis)
+
+- **Sempre "até 10%".** Nunca "10% OFF" sem o "até". Preço de exemplo só de carrinho testado ([[Prohall]], seção 1),
+  nunca calculado com 10%.
+- **Cliente novo e antigo.** O código vale para os dois e soma com as promoções do site.
+- **Cashback da loja:** não junta com o nosso código no mesmo pedido. Só entra como regra de soma (PH1 e PH6), nunca
+  como alternativa ao código.
+- **Clube Prohall:** fora dos seis textos (Bruno, 12/11). Nem "soma", nem "não soma", nem "não sabemos".
+- **Moedas PH com o cupom:** não afirmar (sem teste).
+- **App:** o código vale no site e no app (Bruno, 12/11).
+- **Pix:** não aparece desconto extra (Bruno, 12/11). O cupom vale com todas as formas de pagamento.
+- **Frete:** o mínimo do frete grátis conta depois do cupom (Bruno, 12/11; sem teste de carrinho registrado). A
+  conta de exemplo da ficha (R$ 104 que caem para R$ 96,72 no Sudeste) é cálculo, não teste: se entrar, entra como
+  exemplo.
+- **Produto de uso profissional** (progressiva, selagem, BTX, alisantes): só pelo rótulo e pela página do produto,
+  sem promessa de resultado, sem orientação de aplicação que não seja a do fabricante e sem "sem formol" por conta
+  própria.
+- **Queixas de saúde no Reclame Aqui** (alergia, queda de cabelo): só como padrão de reclamação, sem causa afirmada
+  e sem nome de cliente.
+- **Sem experiência própria (Bruno, 12/11):** a Cecília não recebeu nem usou produto da Prohall. Nada de "testei",
+  nota de uso ou prós e contras de uso. "Testamos" só o cupom no checkout.
+- **Sem link de afiliado:** `affiliate: "prohall"`, botão para o site oficial (`offerUrl`), link interno para
+  `/cupons/prohall` com a âncora "cupom Prohall".
+- **Data de teste:** a conta é a do teste da página da loja (`testNote` e `testedAt` de `couponsData.ts`), citada com
+  a data dele. Publicar o artigo não cria teste novo.
+- **Catraca:** resposta rápida de 40 a 60 palavras, sem "R$"; até 2 datas no corpo, nenhuma em título, legenda ou
+  FAQ; snippet com o código e "até 10%" na primeira frase, sem abrir com "Cupom Prohall"; subtítulo de até 180.
+- **Nunca código de terceiros.**
+
+## Leituras (no navegador, sem login e sem informar e-mail)
+
+1. O checkout com o código, pelo link de carrinho, para conferir os nomes dos campos e o percentual do dia.
+2. `/pages/formas-de-pagamento`: frete por região e parcelamento.
+3. `/pages/cashback-prohall`: a frase "não junta com outros cupons".
+4. A página do app nas lojas de aplicativo, para o nome exato do app.
+5. O topo do Google em português para "cupom prohall" e "cupom app prohall".
+
+## Metadados sugeridos
+
+- **title:** Como usar o cupom CECILIAMC na Prohall: até 10% OFF no site e no app (68 caracteres)
+- **seoTitle:** Cupom Prohall: como usar o CECILIAMC, até 10% OFF (49 caracteres)
+- **metaDescription (rascunho):** CECILIAMC dá até 10% OFF na Prohall, no site e no app; nos nossos testes, 7%. Veja onde digitar o código e o que fazer se ele não entrar. (137 caracteres; o código termina no caractere 9)
+- **description (subtítulo, até 180):** O CECILIAMC vale no site e no app da Prohall e deu 7% nos nossos testes. Veja onde digitar, como fica com promoção e frete, e o que conferir se o código não entrar. (164 caracteres)
+- **editorialNote:** Cupom testado no checkout da Prohall. Não usamos os produtos. Podemos receber comissão pelo cupom.
+- **cta:** Ir para a Prohall; o `offerUrl` da loja.
+- **relatedArticles:** os outros artigos do pacote que já estiverem no ar (PH4, PH3 e PH2, nessa ordem).
+
+## Plano de imagens (para o Job 6)
+
+Capa: logo da Prohall, um produto da marca (foto oficial) e o código CECILIAMC. Corpo: o print do checkout com o
+cupom (`/images/reviews/prohall/cupom-prohall-checkout-com-cupom.webp`, já no site) e uma foto oficial de produto.
+
+## Matriz de claims
+
+| Afirmação | Fonte | Status |
+|---|---|---|
+| CECILIAMC dá até 10%; uso em mais de uma compra | painel da parceria, pelo Bruno; `couponsData.ts` | verificado |
+| 7% em cinco carrinhos, a preço cheio e em promoção | testes de 12/11 ([[Prohall]], seção 1) | verificado |
+| Conta: R$ 380,70 para R$ 354,06, menos R$ 26,64 | `testNote` de 12/11 | verificado |
+| Campos "Tem um cupom?", "Código do cupom", "Aplicar"; aviso "Cupom CECILIAMC aplicado" | teste do Bruno de 12/11; FAQ de `/cupons/prohall` | verificado; reler |
+| Vale no app | Bruno, 12/11 | palavra do Bruno, sem teste nosso |
+| Soma com as promoções do site | testes de 12/11 | verificado |
+| O Pix não dá desconto a mais | Bruno, 12/11 | palavra do Bruno |
+| Frete grátis por região (R$ 99, R$ 149, R$ 179 e R$ 199) | `/pages/formas-de-pagamento`, 12/11 | verificado; reler |
+| O mínimo do frete conta depois do cupom | Bruno, 12/11 | palavra do Bruno, sem teste de carrinho |
+| Cashback não junta com outros cupons | `/pages/cashback-prohall`, 12/11 | verificado; reler |
+| Até 10x sem juros, parcela mínima de R$ 20 | `/pages/formas-de-pagamento`, 12/11 | verificado; reler |
+| Cupom com o Clube; Moedas PH com o cupom | sem fonte oficial; sem teste | não escrever |

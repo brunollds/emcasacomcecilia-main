@@ -1,0 +1,123 @@
+---
+titulo_provisorio: "Prohall no Reclame Aqui: nota, reputação e o que mais gera reclamação"
+seo_title: "Prohall no Reclame Aqui: nota, reputação e reclamações"
+slug_sugerido: "prohall-reclame-aqui-nota-reputacao"
+parceiro: "[[Prohall]]"
+parceiro_slug: "prohall"
+category: "confianca-reputacao"
+reviewKind: "editorial"
+type: "Análise de Reputação"
+status: "pauta-aprovada"
+responsavel: "Job-1"
+proxima_acao: "reler o perfil e as abas de 12 meses e anos anteriores na semana do texto; redação"
+bloqueado_por: "-"
+data_criacao: "2026-11-12"
+pauta_id: "PH2"
+i18n_cluster: null
+translationKey: null
+modo_i18n: "somente-pt"
+idioma_fonte: "pt"
+idiomas_alvo: []
+status_i18n: "nao-aplicavel"
+affiliate: "prohall"
+coupon: "CECILIAMC"
+---
+
+# Briefing: Prohall no Reclame Aqui (PH2)
+
+Pacote inicial da Prohall. Modelo: [[petz-reclame-aqui-nota-reputacao]]. Regras do pacote em
+[[cupom-prohall-como-usar]]; números em [[prohall-fatos-1211]], seção 3 (leitura de 12/11).
+
+O leitor quer saber se a nota é boa e o que dá errado quando dá. Os dados respondem: reputação Boa, todas as
+reclamações respondidas, cerca de três em quatro resolvidas, e o atraso na entrega como o problema mais citado. O
+artigo transforma isso em cuidado prático antes da compra.
+
+## Busca (autocompletar de 12/11/2026)
+
+"prohall reclame aqui" e variações por produto: progressiva, botox, Select One e Burix One ([[Pesquisas-de-Pauta]]).
+
+## O que só este artigo dá (busca de 12/11/2026)
+
+- **A busca confunde as empresas:** no Reclame Aqui, "prohall" traz dez empresas, e só uma é a marca. A busca na web
+  de 12/11 (ferramenta sem localização no Brasil) trouxe o perfil de outra empresa, de nome parecido. O artigo
+  ensina a achar o perfil certo pelo nome e pelo CNPJ, que é o mesmo do rodapé da loja.
+- **Números com período:** a tabela da releitura, com o período na legenda.
+- **Do padrão de reclamação ao cuidado:** as regras da loja (conferir na entrega, pedido inteiro, lacre) explicam
+  parte das queixas e dizem o que fazer antes.
+
+A redação relê o topo do Google em português para "prohall reclame aqui" e ajusta esta seção.
+
+## Esqueleto
+
+1. **Resposta rápida** (40 a 60 palavras, sem "R$"). Rascunho, 52 palavras:
+   > A Prohall tem reputação Boa no Reclame Aqui, com nota 7,2 em seis meses. A empresa respondeu todas as
+   > reclamações do período e resolveu cerca de três em cada quatro. O problema mais citado é atraso na entrega. O
+   > perfil certo se chama Prohall Professional e tem o mesmo CNPJ da loja.
+2. **A nota em números.** Tabela com os indicadores do perfil "Prohall Professional": reputação, nota, reclamações
+   recebidas, respondidas, resolvidas, voltariam a fazer negócio, nota do consumidor e tempo médio de resposta. O
+   período vai na legenda e conta como uma das duas datas do corpo. Números da releitura, não os de 12/11.
+3. **Como a nota mudou.** O histórico mensal (Ótima em maio de 2026, Boa de junho a outubro) e as abas de 12 meses e
+   de anos anteriores, se a releitura conseguir abrir. Sem as abas, a seção fica só com o histórico mensal.
+4. **O que mais gera reclamação.** Atraso na entrega primeiro; depois pedido não recebido ou devolvido por endereço,
+   e produto que não deu o resultado esperado. As queixas de saúde (reação alérgica, queda de cabelo) entram como
+   padrão de reclamação, em uma frase, sem causa afirmada, sem nome de cliente e sem dizer que o produto causa ou
+   não causa. Uma frase lembra que é produto de uso profissional e que o rótulo traz o modo de uso e os avisos.
+5. **Qual perfil é a Prohall.** O nome exato, o CNPJ 24.815.160/0001-57 (o mesmo do rodapé de `lojaprohall.com.br`),
+   o site institucional cadastrado no perfil e o link que a própria loja tem para o perfil no rodapé. Empresa de
+   nome parecido e de outro ramo só é citada por nome depois de conferir o CNPJ no navegador, sem julgar a
+   reputação dela.
+6. **Como evitar dor de cabeça.** Conferir o CEP e o prazo no checkout; conferir a caixa na entrega e recusar se
+   faltar item (a loja não aceita reclamação posterior de item faltante); guardar o lacre se pensar em trocar; a
+   troca é do pedido inteiro, com a postagem por conta do cliente.
+7. **Se der problema.** Os canais da loja primeiro (WhatsApp, e-mail e central), depois o Reclame Aqui.
+8. **FAQ (3 a 5), sem data:** "A Prohall é confiável no Reclame Aqui?", "A Prohall responde as reclamações?", "O que
+   fazer se o pedido da Prohall não chegou?", "Dá para devolver um produto aberto?" (a regra do lacre).
+
+Sem quadro `decision` (editorial). O cupom aparece uma vez, no fim, com o link para `/cupons/prohall`.
+
+## Cuidados
+
+- Os números mudam todo mês: o JSON leva os da releitura, com o período na legenda.
+- O 33º lugar no ranking da categoria só entra com a posição exata e o nome da categoria; nada de "uma das melhores".
+- **Saúde:** nenhuma frase liga produto a reação ou queda de cabelo. O artigo não orienta tratamento; em reação, o
+  texto pode dizer para parar o uso e procurar atendimento médico, que é o que o rótulo de cosmético costuma trazer:
+  conferir no rótulo antes de escrever.
+- Sem experiência própria de compra: o texto lê as reclamações e as regras.
+- Sem comparar com outra marca.
+
+## Leituras (no navegador)
+
+1. Perfil `reclameaqui.com.br/empresa/prohall-cosmetic/`: a aba de 6 meses e, se abrirem, as de 12 meses, 2025 e
+   2024. Se o Reclame Aqui bloquear, parar e usar o Chrome.
+2. As dez reclamações mais recentes, só os títulos e o tipo de problema.
+3. A busca "prohall" no Reclame Aqui, para o capítulo 5.
+4. `/pages/trocas-e-devolucoes` e `/pages/politica-de-frete-e-entrega`.
+
+## Metadados sugeridos
+
+- **title:** Prohall no Reclame Aqui: nota, reputação e o que mais gera reclamação (69 caracteres)
+- **seoTitle:** Prohall no Reclame Aqui: nota, reputação e reclamações (54 caracteres)
+- **metaDescription (rascunho):** CECILIAMC dá até 10% OFF na Prohall. Antes, veja a nota no Reclame Aqui, o que mais gera reclamação e o que conferir na entrega e na troca. (139 caracteres; o código termina no caractere 9)
+- **description (subtítulo, até 180):** A nota da Prohall no Reclame Aqui, o que os clientes mais reclamam e o que conferir antes de comprar, na entrega e na hora de trocar. (133 caracteres)
+- **editorialNote:** Feito com os dados públicos do Reclame Aqui e as políticas da loja. Não usamos os produtos. Podemos receber comissão pelo cupom.
+- **cta:** Ir para a Prohall; o `offerUrl` da loja.
+- **relatedArticles:** os outros artigos do pacote que já estiverem no ar (PH3, PH1 e PH5, nessa ordem).
+
+## Plano de imagens (para o Job 6)
+
+Capa no modelo de reputação, sem a nota na imagem. Corpo: print do painel do Reclame Aqui, tirado na semana do
+texto pelo navegador.
+
+## Matriz de claims
+
+| Afirmação | Fonte | Status |
+|---|---|---|
+| Reputação Boa, nota 7,2; 127 reclamações; 100% respondidas; 73,7% resolvidas; 56,1% voltariam; nota do consumidor 6,33; resposta em 1 dia e 19 horas | perfil, aba de 6 meses (01/05 a 31/10/2026), 12/11 | verificado; reler |
+| Ótima em maio de 2026; Boa de junho a outubro | perfil, 12/11 | verificado; reler |
+| Mesmo CNPJ do rodapé da loja | perfil e rodapé, 12/11 | verificado |
+| A busca "prohall" traz dez empresas | Reclame Aqui, 12/11 | verificado; reler |
+| Principais problemas: atraso (21,69%), categoria cabelos, produto "cabeleireiro" | aba geral, 12/11 | verificado; reler |
+| Títulos das últimas reclamações (CEP incorreto, pedido não recebido, reação alérgica, não alisou, queda de cabelo) | perfil, 12/11 | verificado; só como padrão, sem causa |
+| Regras de entrega e de troca | `/pages/trocas-e-devolucoes`, 12/11 | verificado; reler |
+| Abas de 12 meses, 2025 e 2024 | não lidas | a ler |
+| 33º em "Melhor empresa", Higiene Pessoal | perfil, 12/11 | verificado; só com a posição exata |
