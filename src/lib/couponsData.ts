@@ -1640,9 +1640,9 @@ const STORE_COUPONS: Coupon[] = [
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping:
-      'Frete grátis quando o total, já com o cupom, chega a R$ 149,90 (aviso do carrinho em 13/10/2026); abaixo disso, conforme a política da loja',
+      'Frete grátis a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 no Centro-Oeste, no Norte e no Nordeste, segundo a política de frete da loja; o valor conta depois do cupom',
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
-    lastVerified: '2026-11-11',
+    lastVerified: '2026-11-12',
     testedAt: '2026-11-11',
     testNote:
       'Aplicamos o DREMCASACOMCECILIA numa pasta de amendoim sabor avelã de 250 g em promoção, de R$ 28,90 por R$ 25,89, e o total caiu para R$ 23,30, com R$ 2,59 de desconto: os 10% entraram sobre o preço promocional.',
@@ -1691,7 +1691,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'A Dr. Peanut tem frete grátis?',
         answer:
-          'Em 13/10/2026, o carrinho avisava frete grátis quando o total, já com o cupom aplicado, chega a R$ 149,90. Abaixo disso, o frete é calculado pela loja.',
+          'Sim, com valor mínimo por região: a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 no Centro-Oeste, no Norte e no Nordeste, segundo a política de frete da loja. O valor conta depois do cupom: se o desconto deixar o pedido abaixo do mínimo, o frete pode ser cobrado.',
       },
       {
         question: 'O que fazer se o cupom DREMCASACOMCECILIA não funcionar?',
@@ -1906,10 +1906,10 @@ const STORE_COUPONS: Coupon[] = [
     eligibleCategories: 'Todos os produtos do site oficial da Cléa Store',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
-    shipping: 'Frete grátis acima de R$ 599, segundo a faixa do site em 14/10/2026; abaixo disso, conforme a política da loja',
+    shipping: 'Frete grátis acima de R$ 599, segundo o aviso do site; abaixo disso, conforme a política da loja',
     combinable:
       'Soma com as promoções vigentes do site e com o cashback da loja, e vale com todas as formas de pagamento',
-    lastVerified: '2026-11-08',
+    lastVerified: '2026-11-12',
     testedAt: '2026-11-08',
     testNote:
       'Aplicamos o CSEMCASACOMCECILIA no Kit 3 T-Shirts Oversized Classic, de R$ 387,00 por R$ 199,00 na campanha, e o carrinho caiu para R$ 179,10. Com um vestido de R$ 697,00, a R$ 487,90 com 30% OFF, o subtotal de R$ 686,90 teve R$ 68,69 de desconto e fechou em R$ 618,21: os 10% entraram sobre os preços da campanha.',
@@ -1963,7 +1963,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'A Cléa Store tem frete grátis?',
         answer:
-          'Em 14/10/2026, o site anunciava frete grátis acima de R$ 599. Abaixo disso, o frete é calculado pela loja no checkout.',
+          'O site anuncia frete grátis acima de R$ 599. Abaixo disso, o frete é calculado pela loja no checkout.',
       },
       {
         question: 'O que fazer se o cupom CSEMCASACOMCECILIA não funcionar?',
@@ -2011,10 +2011,10 @@ const STORE_COUPONS: Coupon[] = [
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping:
-      'Frete grátis por região, segundo as regras de frete da loja em 16/10/2026: acima de R$ 170 em SP, MG, RJ, DF e GO, de R$ 250 no Sul e de R$ 300 nos demais estados; abaixo disso, o frete é calculado no checkout',
+      'Frete grátis por região, segundo as regras de frete da loja: acima de R$ 170 em SP, MG, RJ, DF e GO, de R$ 250 no Sul e de R$ 300 nos demais estados; abaixo disso, o frete é calculado no checkout',
     combinable:
       'Soma com as promoções vigentes do site e com os 5% de desconto do Pix, e vale com todas as formas de pagamento',
-    lastVerified: '2026-11-11',
+    lastVerified: '2026-11-12',
     testedAt: '2026-11-11',
     testNote:
       'Aplicamos o MAUAD num combo de seis pacotes de pão de batata em oferta, de R$ 125,40 por R$ 106,59, e o total caiu para R$ 95,93, com R$ 10,66 de desconto: os 10% entraram sobre o preço da oferta.',
@@ -2078,7 +2078,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'A Belive tem frete grátis?',
         answer:
-          'Sim, com valor mínimo por região. Em 16/10/2026, as regras de frete da loja davam frete grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. Abaixo disso, o frete é calculado no checkout.',
+          'Sim, com valor mínimo por região. As regras de frete da loja dão frete grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. Abaixo disso, o frete é calculado no checkout.',
       },
       {
         question: 'O que fazer se o cupom MAUAD não funcionar?',
@@ -2126,10 +2126,10 @@ const STORE_COUPONS: Coupon[] = [
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping:
-      'Frete grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste e acima de R$ 399 no Norte e Nordeste, segundo o site em 20/10/2026; abaixo disso, o frete é calculado no checkout',
+      'Frete grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste e acima de R$ 399 no Norte e Nordeste, segundo o aviso do site; abaixo disso, o frete é calculado no checkout',
     combinable:
       'Soma com as promoções vigentes do site e com os 3% de desconto do Pix, e vale com todas as formas de pagamento; não soma com outro cupom, como o crédito do cashback ou o desconto de boas-vindas',
-    lastVerified: '2026-11-11',
+    lastVerified: '2026-11-12',
     testedAt: '2026-11-11',
     testNote:
       'Aplicamos o MMEMCASACOMCECILIA num carrinho com uma creatina refil de 500 g, de R$ 119,90 por R$ 74,90, e dois wheys Paçoquita de 450 g, de R$ 159,99 por R$ 135,99 cada. O subtotal de R$ 346,88 teve R$ 34,69 de desconto, os 10%, e o total caiu para R$ 312,19; a compra ainda gerou cashback.',
@@ -2204,7 +2204,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'A Mais Mu tem frete grátis?',
         answer:
-          'Sim, com valor mínimo por região. Em 20/10/2026, o site dava frete grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste e acima de R$ 399 no Norte e Nordeste. Abaixo disso, o frete é calculado no checkout.',
+          'Sim, com valor mínimo por região. O site dá frete grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste e acima de R$ 399 no Norte e Nordeste. Abaixo disso, o frete é calculado no checkout.',
       },
       {
         question: 'O que fazer se o cupom MMEMCASACOMCECILIA não funcionar?',
@@ -2252,10 +2252,10 @@ const STORE_COUPONS: Coupon[] = [
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping:
-      'Frete grátis sem valor mínimo em 12 cidades, como São Paulo, Belo Horizonte, Curitiba e Goiânia; a partir de R$ 199 no Sul, Sudeste e Centro-Oeste e a partir de R$ 299 no Norte e Nordeste, sobre o valor final do pedido, segundo o site em 21/10/2026',
+      'Frete grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste e a partir de R$ 199 no Norte e no Nordeste, sobre o valor final do pedido, segundo a política de frete da loja',
     combinable:
       'Soma com as promoções vigentes do site e com os 5% de desconto do Pix, e vale com todas as formas de pagamento; não soma com outro cupom, como o de primeira compra da loja',
-    lastVerified: '2026-11-11',
+    lastVerified: '2026-11-12',
     testedAt: '2026-11-11',
     testNote:
       'Aplicamos o SKEMCASACOMCECILIA num kit de três body splashes, de R$ 297,00 por R$ 237,60 com os 20% da promoção do site, e o total caiu para R$ 213,84, com R$ 23,76 de desconto: os 10% entraram sobre o preço promocional. Em 21/10/2026, no Pix, a loja tirou mais 5% depois do código.',
@@ -2288,9 +2288,9 @@ const STORE_COUPONS: Coupon[] = [
           'Sim. O cupom vale com todas as formas de pagamento e, no Pix, a Skelt ainda tira os 5% de desconto dela.',
       },
       {
-        question: 'O SKEMCASACOMCECILIA vale na primeira compra? Soma com o PRIMEIRA10?',
+        question: 'O SKEMCASACOMCECILIA vale na primeira compra? Soma com o PRIMEIRA5?',
         answer:
-          'Vale, mas não soma: a Skelt aceita um cupom por pedido, e aplicar outro código troca o anterior. Na primeira compra, fique com um dos dois; os dois dão 10%.',
+          'Vale, mas não soma: a Skelt aceita um cupom por pedido, e aplicar outro código troca o anterior. Na primeira compra, fique com o SKEMCASACOMCECILIA: ele dá 10%, e o PRIMEIRA5, o cupom de primeira compra da loja, dá 5%.',
       },
       {
         question: 'O SKEMCASACOMCECILIA é cupom de influenciadora?',
@@ -2325,7 +2325,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'A Skelt tem frete grátis?',
         answer:
-          'Sim. Em 21/10/2026, o frete era grátis sem valor mínimo em 12 cidades, como São Paulo, Belo Horizonte, Curitiba e Goiânia; a partir de R$ 199 no Sul, Sudeste e Centro-Oeste; e a partir de R$ 299 no Norte e Nordeste. O valor conta o pedido já com os descontos.',
+          'Sim. Pela política de frete da loja, o frete é grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste e a partir de R$ 199 no Norte e no Nordeste. O valor conta o pedido já com os descontos.',
       },
       {
         question: 'O que fazer se o cupom SKEMCASACOMCECILIA não funcionar?',
