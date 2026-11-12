@@ -2734,10 +2734,10 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'compras no site e no app da Petz',
     longDescription:
       'O código da Cecília dá 10% OFF nas compras no site e no app da Petz. Ele não soma com promoção: num produto que já está em oferta, a sacola fica com o desconto maior. Testado no carrinho.',
-    metaTitle: 'Cupom Petz: 10% OFF com o código EMCASA',
+    metaTitle: 'Cupom Petz: 10% OFF com EMCASA + 5% na retirada',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Petz: use EMCASA e ganhe 10% OFF no site e no app. Em produto já em promoção, a sacola fica com o desconto maior.',
+      'Cupom Petz: use EMCASA e ganhe 10% OFF no site e no app. Com os 5% do Retire na Loja, o total foi 14,5% no nosso teste. Em promoção, vale o desconto maior.',
     eligibleCategories: 'Produtos do site e do app da Petz; num item já em promoção, vale o desconto maior',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2772,7 +2772,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com o desconto do Retire na Loja?',
         answer:
-          'Sim. A Petz dá 5% OFF para retirar o pedido na loja em compras acima de R$ 199, no Centro-Oeste, no Sul e no Sudeste, e esse desconto soma com o EMCASA. No teste de 11/11/2026, duas rações de R$ 189,99 (R$ 379,98) caíram para R$ 341,98 com o cupom e para R$ 324,88 com o cupom e a retirada.',
+          'Sim. A Petz dá 5% OFF para retirar o pedido na loja em compras acima de R$ 199, no Centro-Oeste, no Sul e no Sudeste, e esse desconto soma com o EMCASA. No teste de 11/11/2026, duas rações de R$ 189,99 (R$ 379,98) caíram para R$ 341,98 com o cupom e para R$ 324,88 com o cupom e a retirada: 14,5% no total, porque os 5% saem do valor já com o cupom.',
+      },
+      {
+        question: 'Existe cupom Petz de 15%?',
+        answer:
+          'O EMCASA dá 10%. Quando aparece "até 15%", em geral é a soma desses 10% com os 5% do Retire na Loja, que vale em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste. Como os 5% saem do valor já com o cupom, a soma dá 14,5%.',
       },
       {
         question: 'Onde coloco o cupom na Petz?',
@@ -2796,7 +2801,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom EMCASA está funcionando hoje?',
         answer:
-          'Sim. No teste de 11/11/2026, o EMCASA aplicou os 10% na sacola. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de 11/11/2026, o EMCASA aplicou os 10% na sacola. O teste mais recente, com a data, está em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'O que fazer se o cupom EMCASA não funcionar?',
@@ -2811,7 +2816,7 @@ const STORE_COUPONS: Coupon[] = [
     ],
     monthlyHighlight: {
       scope: 'no site e no app',
-      note: 'Em produto já em promoção, vale o desconto maior',
+      note: 'Na retirada em loja, em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste, a Petz tira mais 5% do valor já com o cupom: 14,5% no total. Em produto já em promoção, o cupom não soma: vale o desconto maior',
     },
     status: 'ativo',
     featured: false,
