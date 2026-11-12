@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 import { CalendarDays, Check, Copy, ExternalLink, Layers, Repeat, ShoppingBag, Truck } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { getCouponHubPath } from '@/lib/couponHub';
@@ -488,6 +489,18 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
               <p className={`mt-4 ${BODY_TEXT}`}>
                 <strong>{copy.testedBy(testedAt)}</strong> {couponCodeOffer?.testNote}
               </p>
+              {copy.testFooter && (
+                <p className={`mt-3 ${BODY_TEXT}`} data-coupon="metodo">
+                  <Link href={copy.testFooter.methodHref} className={`font-bold underline underline-offset-2 ${FOCUS_RING}`}>
+                    {copy.testFooter.methodLabel}
+                  </Link>
+                  . {copy.testFooter.failedPrompt}{' '}
+                  <Link href={copy.testFooter.failedHref} className={`font-bold underline underline-offset-2 ${FOCUS_RING}`}>
+                    {copy.testFooter.failedLabel}
+                  </Link>
+                  .
+                </p>
+              )}
             </section>
           )}
 

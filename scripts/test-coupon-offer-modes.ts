@@ -198,9 +198,9 @@ const untested = COUPONS.filter(
 assert.deepEqual(untested, [], `Lojas com código sem testNote: ${untested.join(', ')}`);
 
 // O teste no carrinho tem data própria (testedAt), que só muda com teste real. O lastVerified, a conferência das
-// condições, nunca é anterior a ele. Código perene sem teste há mais de 90 dias avisa, sem parar o build: o teste
-// volta quando a oferta muda, quando alguém avisa que o código falhou ou nesse prazo.
-const TEST_WARNING_DAYS = 90;
+// condições, nunca é anterior a ele. Desde 12/11/2026 a rodada de testes é mensal e começa no dia 1: código sem teste
+// há mais de 45 dias ficou de fora de uma rodada e avisa, sem parar o build. A data só avança com o teste feito.
+const TEST_WARNING_DAYS = 45;
 const todayInBrasilia = getBrasiliaDate();
 for (const coupon of COUPONS) {
   if (coupon.offerMode !== 'discount-code') continue;

@@ -2903,6 +2903,11 @@ for (const { pagePath, store } of couponStorePages) {
   if (store!.offerMode === 'discount-code' && store!.testNote) {
     const cutout = textOf(elementAt(body, body.indexOf('<section id="cupom"')));
     assert.ok(cutout.includes(store!.validity), `${pagePath}: o topo sem a validade da parceria`);
+    // "Como testamos o cupom" fecha, só em português, com o link do método na /sobre e o canal de aviso no /contato.
+    const method = between(body, 'aria-labelledby="como-testamos"', ['</section>']);
+    const isPortuguese = pagePath.startsWith('/cupons/');
+    assert.equal(method.includes('href="/sobre#titulo-como-testamos"'), isPortuguese, `${pagePath}: o link do método em "Como testamos o cupom"`);
+    assert.equal(method.includes('href="/contato"'), isPortuguese, `${pagePath}: o canal de aviso em "Como testamos o cupom"`);
   }
   assertCopyCutouts(pagePath, body, expected);
   if (store.referral) {
