@@ -137,11 +137,22 @@ Para cada oferta ativa, reconferir:
 - `offerUrl` e links de campanhas;
 - `lastVerified` com a data real (`YYYY-MM-DD`) da última conferência das condições, com ou sem
   checkout. Vai ao `dateModified`, ao sitemap e ao `llms.txt`;
+- `stacking`: as linhas da tabela "O que acumula com o cupom" (promoções, retirada na loja, Pix,
+  cashback, outro cupom e frete), logo depois das regras, só em português. Uma linha por benefício e só
+  com fato já conferido, na página ou no teste: linha sem fato não entra. A condição é uma frase sem
+  ponto final, sem data, sem "até X%" com descontos somados, sem contagem de usos; a de outro cupom diz só
+  a regra, sem citar código. Reconferir na rodada mensal, junto com o `combinable` e o `shipping`, que
+  dizem o mesmo por extenso;
+- `videos`: os vídeos da loja (`platform` youtube, instagram, tiktok ou facebook, `url` e `title`). A
+  seção "Vídeos" aparece antes das perguntas, só em português e só quando a loja tem vídeo; cada item
+  abre na rede, em nova aba. Player dentro da página carrega script e cookies de terceiros e depende de
+  decisão do Bruno (aviso de cookies e `/privacidade`);
 - `testedAt` e `testNote`: o dia e o que a equipe viu no último teste no carrinho, juntos, só com teste
   real, refeito na rodada mensal. Se o percentual, o mínimo ou o exemplo de carrinho mudarem, testar de
   novo e reescrever os dois. A seção "Como testamos o cupom" da página em português fecha com o link
-  do método na `/sobre` (`#titulo-como-testamos`) e com o canal de aviso no `/contato`
-  (`testFooter`, em `couponStoreCopy.tsx`); `test:coupon-offer-modes` falha se uma loja com código ficar sem eles;
+  do método na `/sobre` (`#titulo-como-testamos`; `testFooter`, em `couponStoreCopy.tsx`); o canal de
+  aviso no `/contato` fica na seção seguinte, "Por que o cupom não funcionou?" (`failed`, no mesmo
+  arquivo), que toda loja de código tem; `test:coupon-offer-modes` falha se uma loja com código ficar sem eles;
 - `metaTitle` e `metaDescription` quando contiverem código ou percentual. Desde 24/10/2026 o título
   segue a ordem que sobrevive ao corte do Google: loja, percentual, código e o mês no fim, como
   `(nov/2026)`, só quando cabe em 60 caracteres (com código longo, o mês sai). Desde 11/11/2026 o mês

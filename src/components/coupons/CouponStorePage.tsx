@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import { CalendarDays, Check, Copy, ExternalLink, Layers, Repeat, ShoppingBag, Truck } from 'lucide-react';
+import { CalendarDays, Check, Copy, ExternalLink, Layers, Play, Repeat, ShoppingBag, Truck } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { getCouponHubPath } from '@/lib/couponHub';
 import { getCouponLanguageLinks, getCouponStorePath } from '@/lib/couponTranslations';
@@ -41,6 +41,8 @@ import {
   StoreHero,
   StoreTransparency,
 } from './StoreLayout';
+
+const INLINE_LINK = `font-bold underline underline-offset-2 ${FOCUS_RING}`;
 
 function getBreadcrumb(coupon: Coupon, locale: Locale, copy: CouponStoreCopy) {
   const store = { name: coupon.brand, path: getCouponStorePath(coupon.slug, locale) };
@@ -248,6 +250,10 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
     : affiliateLinkOffer?.linkInstructions || copy.instructions.link(coupon.brand);
   const lastVerified = formatLongDate(coupon.lastVerified);
   const testedAt = couponCodeOffer?.testNote && couponCodeOffer.testedAt ? formatLongDate(couponCodeOffer.testedAt) : null;
+  // As duas seções só existem onde o copy do idioma as tem (hoje, o português).
+  const stackingRows = copy.stacking && couponCodeOffer?.stacking?.length ? couponCodeOffer.stacking : null;
+  const failedCopy = couponCodeOffer ? copy.failed : undefined;
+  const videos = copy.videos && coupon.videos?.length ? coupon.videos : null;
   // O mês da oferta pelo calendário: do dia 20 em diante já vale o mês seguinte.
   const highlightDate = getCurrentOfferMonthDate();
   const highlightMonthYear = `${highlightDate.toLocaleDateString(copy.dateLocale, {
@@ -444,7 +450,48 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
           <section aria-labelledby="regras">
             <SectionHeading id="regras">{copy.rulesTitle}</SectionHeading>
             <RuleList rules={rules} />
+            {copy.stacking && stackingRows && (
+              <p className={`mt-4 ${BODY_TEXT}`}>
+                <a href="#o-que-acumula" className={INLINE_LINK}>
+                  {copy.stacking.rulesPointer}
+                </a>
+                .
+              </p>
+            )}
           </section>
+
+          {copy.stacking && stackingRows && (
+            <section aria-labelledby="o-que-acumula">
+              <SectionHeading id="o-que-acumula">{copy.stacking.title}</SectionHeading>
+              <div className="mt-4 overflow-x-auto rounded-xl border-2 border-marinho">
+                <table className="w-full border-collapse text-left">
+                  <caption className="sr-only">{copy.stacking.caption(coupon.brand)}</caption>
+                  <thead className="bg-amarelo-cupom">
+                    <tr className="border-b-2 border-marinho">
+                      {[copy.stacking.headers.benefit, copy.stacking.headers.stacks, copy.stacking.headers.condition].map((header) => (
+                        <th key={header} scope="col" className="px-3 py-2.5 text-[13px] font-extrabold leading-[18px]">
+                          {header}
+                        </th>
+                      ))}
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {stackingRows.map((row, index) => (
+                      <tr key={row.benefit} className={index > 0 ? 'border-t-2 border-marinho/15' : undefined}>
+                        <th scope="row" className="px-3 py-3 align-top text-[15px] font-extrabold leading-[22px]">
+                          {copy.stacking!.benefits[row.benefit]}
+                        </th>
+                        <td className="px-3 py-3 align-top text-[15px] font-bold leading-[22px]">{copy.stacking!.answers[row.stacks]}</td>
+                        <td className="min-w-[11rem] px-3 py-3 align-top text-[15px] font-medium leading-[22px] text-marinho-suave">
+                          {row.condition}
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </section>
+          )}
 
           {coupon.referral && (
             <section aria-labelledby="indicacao">
@@ -491,16 +538,41 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
               </p>
               {copy.testFooter && (
                 <p className={`mt-3 ${BODY_TEXT}`} data-coupon="metodo">
-                  <Link href={copy.testFooter.methodHref} className={`font-bold underline underline-offset-2 ${FOCUS_RING}`}>
+                  <Link href={copy.testFooter.methodHref} className={INLINE_LINK}>
                     {copy.testFooter.methodLabel}
-                  </Link>
-                  . {copy.testFooter.failedPrompt}{' '}
-                  <Link href={copy.testFooter.failedHref} className={`font-bold underline underline-offset-2 ${FOCUS_RING}`}>
-                    {copy.testFooter.failedLabel}
                   </Link>
                   .
                 </p>
               )}
+            </section>
+          )}
+
+          {failedCopy && (
+            <section aria-labelledby="nao-funcionou">
+              <SectionHeading id="nao-funcionou">{failedCopy.title}</SectionHeading>
+              <ul className={`mt-4 list-disc space-y-2 pl-5 ${BODY_TEXT}`}>
+                <li>{failedCopy.field(codeFieldLabel)}</li>
+                <li>{failedCopy.eligible(coupon.eligibleCategories)}</li>
+                <li>
+                  {failedCopy.otherBenefit}
+                  {stackingRows && (
+                    <>
+                      {' '}
+                      <a href="#o-que-acumula" className={INLINE_LINK}>
+                        {failedCopy.stackingLinkLabel}
+                      </a>
+                      .
+                    </>
+                  )}
+                </li>
+              </ul>
+              <p className={`mt-3 ${BODY_TEXT}`}>
+                {failedCopy.reportPrompt}{' '}
+                <Link href={failedCopy.reportHref} className={INLINE_LINK}>
+                  {failedCopy.reportLabel}
+                </Link>
+                .
+              </p>
             </section>
           )}
 
@@ -522,6 +594,34 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                   </RelatedLink>
                 ))}
               </div>
+            </section>
+          )}
+
+          {copy.videos && videos && (
+            <section aria-labelledby="videos">
+              <SectionHeading id="videos">{copy.videos.title}</SectionHeading>
+              <ul className="mt-5 grid gap-2.5 md:grid-cols-2">
+                {videos.map((video) => (
+                  <li key={video.url}>
+                    <a
+                      href={video.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className={`flex h-full items-center gap-3 rounded-xl border-2 border-marinho px-3.5 py-3 transition-colors hover:bg-creme ${FOCUS_RING}`}
+                    >
+                      <Play aria-hidden="true" className="h-5 w-5 shrink-0" />
+                      <span className="flex min-w-0 flex-1 flex-col gap-1">
+                        <span className="text-xs font-extrabold leading-4 text-marinho-suave">
+                          {copy.videos!.watchOn(copy.videos!.platforms[video.platform])}
+                          <span className="sr-only"> ({copy.videos!.newTab})</span>
+                        </span>
+                        <span className="text-[15px] font-bold leading-[21px]">{video.title}</span>
+                      </span>
+                      <ExternalLink aria-hidden="true" className="h-4 w-4 shrink-0" />
+                    </a>
+                  </li>
+                ))}
+              </ul>
             </section>
           )}
 
