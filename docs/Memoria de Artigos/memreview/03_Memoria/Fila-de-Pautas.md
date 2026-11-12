@@ -26,6 +26,8 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | IL4 | Camiseta anti odor funciona? O que o tecido faz, o que não faz e como lavar | Insider | PT | [[camiseta-anti-odor-funciona]] | GO do Bruno em 11/11. Página de tecnologia e etiquetas; redação. Sem afirmar que funciona nem que não funciona |
 | IL6 | Cueca slip ou boxer: corte, uso e preço por peça | Insider | PT | [[cueca-slip-ou-boxer]] | GO do Bruno em 11/11. Slip e boxer no carrinho (o kit de slip não foi testado); redação |
 | IL7 | Calça para viagem de avião: tecido, cós e bolsos | Insider | PT | [[calca-para-viagem-de-aviao]] | GO do Bruno em 11/11. Fichas das calças masculinas e femininas; redação. Perguntas no briefing: os dois gêneros e a Bagaggio por link interno |
+| PC, onda 1 | Cupom <loja> primeira compra: Insider, Bagaggio e Mais Mu (boas-vindas da loja já comparado na página) | Insider, Bagaggio, Mais Mu | PT | [[cupom-primeira-compra-serie-1211]] | Decisão do Bruno em 12/11: série para todas as parceiras. Reler o boas-vindas no site; guardar o CSV do Search Console antes; redação. Pergunta 1 do briefing (número do boas-vindas da Insider) |
+| PC, onda 2 | Cupom <loja> primeira compra: DAMIE, Dolce Gusto, Nestlé Nutre, Let's Eat It, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Cléa Store, Belive, HolyFoods, Petz e Hostinger | 13 lojas | PT | [[cupom-primeira-compra-serie-1211]] | Ler em cada site se a loja tem benefício de cliente novo; redação em lotes de quatro ou cinco |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
@@ -41,6 +43,8 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | — | YesStyle volta a entregar no Brasil | YesStyle | Reverter as frases de "sem entrega" em `yesstyle-entrega-no-brasil-e-portugal`, `yesstyle-e-confiavel`, `yesstyle-app-como-comprar-codigo-de-recompensa`, `yesstyle-trustpilot-nota-reclamacoes`, `black-friday-yesstyle` e no dossiê | Bruno avisa |
 | — | Item 11 da otimização do GSC de 11/10 (cupom da Dolce Gusto) | Dolce Gusto | O export filtrado do GSC | Bruno |
 | — | Sofás nos dois domínios: `sofa-na-caixa-inflow-ou-damie` (site) e `inflow-ou-sofa-na-caixa-ou-damie` (subdomínio) têm a mesma intenção | DAMIE | Olhar o GSC antes de mexer. O lado do subdomínio é da sessão de lá | Bruno |
+| PC, onda 3 | Cupom <loja> primeira compra: Skelt, I Wanna Sleep, Toda Up e Simple Organic ([[cupom-primeira-compra-serie-1211]]) | Skelt, I Wanna Sleep, Toda Up, Simple Organic | Saber se o código vale para quem já comprou. O artigo pode sair antes, sem a frase das compras seguintes | Bruno |
+| PC, adaptadas | YesStyle (código de recompensa: 5% na primeira e 2% nas seguintes), SHEIN (código de indicação) e Magalu (sem exigência de primeira compra); a Lejour fica fora ([[cupom-primeira-compra-serie-1211]]) | YesStyle, SHEIN, Magalu | Decidir se a Magalu entra; as famílias de idiomas ficam para depois do PT | Bruno |
 
 ## 3. Estoque: volta quando o Bruno chamar ou quando o sinal mudar
 
@@ -213,6 +217,6 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 | Antes da Black Friday | Reler os preços da Insider (I6), do melhor whey, da Probiótica, da Max e da Hostinger. Na DAMIE, a campanha e os preços |
 | Antes de 27/11 | Famílias da Hostinger (Reach, HostGator e WordPress): reler os preços |
 | ~14/11 | Remedir "cupom max titanium", "cupom probiótica" e "cupom insider" (posição e URL); na Max, decidir a dona ([[cupom-loja-primeira-pagina-0511]]) |
-| ~14/11 | "Primeira compra" (análise das 23 lojas, 05/11): sem série nem artigo agora. A loja que passar de ~50 impressões por mês sem a /cupons/<loja> aparecer ganha um artigo de decisão ("boas-vindas da loja ou nosso cupom?"). As boas-vindas lidas em 05/11 (#601): Insider 15% e Mais Mu 10%, iguais aos nossos códigos; Bagaggio 5%, menos que o CECILIA10. Com valor igual, o artigo só se paga se a busca crescer. Magalu, SHEIN e Dolce Gusto ficam fora: o resultado é da resposta de IA do Google e dos sites de cupom, e na Magalu o código não vale no app |
+| ~14/11 | "Primeira compra": a decisão de 05/11 (sem série nem artigo) foi trocada pelo Bruno em 12/11. Toda parceira ganha o artigo; briefing-molde em [[cupom-primeira-compra-serie-1211]] e as ondas nas seções 1 e 2. Fica a medição: Search Console e as três perguntas no Perplexity, de 3 a 5 vezes cada |
 | 27/11 | Insider: refazer o teste da soma do cupom com a Black Friday |
 | Black Friday | Bagaggio: testar se a promoção "não cumulativa" soma com o CECILIA10 |

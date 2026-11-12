@@ -84,7 +84,7 @@ Semana, Canaltech): quase todas unissex, com ideias soltas ("kit de barbear", "b
 | Insider, EMCASACOMCECILIA (15%) | Cueca boxer Comfort ou Performance, Seamless Touch, Slip, meia SneakIN | Tech T-Shirt | [[Insider]] (09/10 e 12/10), [[cueca-insider-comfort-ou-performance]] (20/10) |
 | Max Titanium, MAX10EMCASACOMCECILIA (até 10%) | Coqueteleira 700 ml, Creatina 300 g, Camiseta Heavy Club | Coqueteleira Tritan, Camiseta Oversized | [[presente-natal-quem-treina]] (25/10) |
 | Dr. Peanut, DREMCASACOMCECILIA (10%) | Kit de 5 alfajores, kit de 6 wafers, pasta 600 g com 3 alfajores | Display de 8 barras, kit de 10 alfajores, kit de 12 wafers | [[presente-natal-quem-treina]] (24/10) |
-| Let's Eat It, MAUAD (10%) | Faca de churrasco Fracalanza, utensílio KitchenAid, formas Baker's Secret | Canecas Le Creuset de 100 ml, caneca Egan, mini tábua petisqueira | [[presente-natal-quem-gosta-de-cozinhar]] |
+| Let's Eat It, MAUAD (5%) | Faca de churrasco Fracalanza, utensílio KitchenAid, formas Baker's Secret | Canecas Le Creuset de 100 ml, caneca Egan, mini tábua petisqueira | [[presente-natal-quem-gosta-de-cozinhar]] |
 
 Os preços dessas fontes são de outubro. Entra o que couber no teto no dia da leitura, com o código e o frete.
 
@@ -133,7 +133,7 @@ item por capítulo de perfil, com `href` e `store`.
 | EMCASACOMCECILIA 15%, sem mínimo, um cupom por pedido; frete grátis acima de R$ 399 depois do desconto | [[Insider]], seção 1 | verificado (reler o frete) |
 | Insider: underwear só troca por defeito; troca de presente por vale em 21 dias, sem nota | [[Insider]], seção 3 | verificado |
 | Dr. Peanut: DREMCASACOMCECILIA 10% em todos os itens; frete grátis a partir de R$ 149,90 no Sudeste e no Sul | [[Dr-Peanut]] | verificado em outubro; reler |
-| Let's Eat It: MAUAD 10%, soma com o Pix; sem frete grátis publicado; troca em 30 dias | [[Lets-Eat-It]] | verificado em outubro; reler |
+| Let's Eat It: MAUAD 5% (o briefing de 11/11 dizia 10%, por engano), soma com o Pix; sem frete grátis publicado; troca em 30 dias | [[Lets-Eat-It]] | verificado em outubro; reler |
 | Max: MAX10EMCASACOMCECILIA até 10%, percentual por produto | [[Max-Titanium]] | a testar por item |
 | Preço, frete e prazo de cada candidato | — | a ler no dia |
 
