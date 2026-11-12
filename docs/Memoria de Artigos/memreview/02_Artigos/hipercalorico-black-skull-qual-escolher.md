@@ -184,3 +184,10 @@ Introdução curta: a Black Skull vende dois hipercalóricos em tamanhos diferen
 3. Caseína e "acima de 19 anos" do Monstrous entram como linhas do rótulo, sem comentário.
 4. Conta sem Pix: o site não dá desconto no Pix; o CECILIA10 vale em toda forma de pagamento.
 5. Sem dose recomendada nem promessa de ganho de peso ou massa; uma frase indicando nutricionista.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/black-skull/hipercalorico-black-skull-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pote do hipercalórico Monstrous Chocolate de 2,7 kg da Black Skull sobre um pedestal, em imagem oficial, ao lado da chamada Hipercalórico Black Skull e da pergunta Masstodon ou Monstrous?.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Monstrous Chocolate 2,7 kg, reaproveitamento justificado da capa do próprio artigo. Produto em foto real.
+- **Lote 34 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/34/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/black-skull/hipercalorico-black-skull-capa.webp`) fica no CDN, sem uso como capa.

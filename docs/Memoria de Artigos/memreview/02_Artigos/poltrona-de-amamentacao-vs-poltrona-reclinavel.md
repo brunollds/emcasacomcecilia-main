@@ -245,3 +245,10 @@ Escolher os móveis do quarto do bebê não precisa ser uma fonte de ansiedade o
 Se a sua realidade hoje pede uma opção pontual e mais acessível com puff, abrace essa escolha com tranquilidade. Se o planejamento permite investir no conforto sustentável e duradouro de uma poltrona reclinável elétrica com balanço, faça a compra com a certeza de que o descanso colhido nas noites difíceis se transformará em bem-estar para você e para o seu bebê por muitos e muitos anos.
 
 Respire fundo, faça sua escolha com clareza e aproveite cada instante desse novo capítulo em casa.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/damie/poltrona-de-amamentacao-vs-poltrona-reclinavel-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Cecília sentada na poltrona bege da Damie, acolhendo o filho no colo, em foto própria de casa, ao lado da pergunta Amamentação ou reclinável? e do apoio Uso e conforto.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Foto própria da Cecília com o filho no colo na poltrona Damie, recebida em parceria; a foto não mostra amamentação nem comprova durabilidade. Produto em foto real.
+- **Lote 36 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/36/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/damie/poltrona-amamentacao-ou-reclinavel-capa-discover.webp`) fica no CDN, sem uso como capa.

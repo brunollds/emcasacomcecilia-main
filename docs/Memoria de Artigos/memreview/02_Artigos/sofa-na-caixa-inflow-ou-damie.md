@@ -240,3 +240,10 @@ FAQ:
 ## Ajuste de 26/10/2026 (decisão do Bruno)
 
 Garantia da Inflow corrigida para "3 meses na ficha do produto; 90 dias para relatar defeito na política" (tabela, capítulo de garantia e FAQ), pela leitura de 25/10 da pauta `valley-inflow-ou-damie`. Nota da Inflow no Reclame Aqui atualizada para 8,5 (releitura de 25/10/2026, mesmo período de 01/04 a 30/09/2026); o print de 14/10, que mostra 8,6, ficou e o texto avisa a diferença. O "Qual escolher" ganhou o link para `valley-inflow-ou-damie` (#298).
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/damie/sofa-na-caixa-inflow-ou-damie-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Cecília com as mãos apoiadas no puff do sofá modular azul da Damie, em foto própria de casa já usada neste mesmo artigo, ao lado da pergunta Sofá na Caixa, Inflow ou Damie? e do apoio Materiais e montagem.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Foto própria e exclusiva do próprio artigo, a Cecília inclinada no puff, reutilização justificada; móveis recebidos em parceria. Sem foto da Inflow. Produto em foto real.
+- **Lote 35 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/35/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/damie/sofa-na-caixa-inflow-ou-damie-capa-discover.webp`) fica no CDN, sem uso como capa.

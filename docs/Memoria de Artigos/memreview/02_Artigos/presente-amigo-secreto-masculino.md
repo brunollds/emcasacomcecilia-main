@@ -162,3 +162,10 @@ item por capítulo de perfil, com `href` e `store`.
 - **Para quem gosta de doce (Dr. Peanut):** `/images/reviews/presentes/amigo-secreto-dr-peanut-kit-wafers.webp`. Alt: Embalagens Doctor Wafer de cookies, avelã e doce de leite, em foto da página do Kit Sortido de 6 Wafers da Dr. Peanut. Legenda: Kit Sortido 6 Wafers. Foto: Dr. Peanut.
 - **Para quem cozinha ou faz churrasco (Let's Eat It):** `/images/reviews/presentes/amigo-secreto-letseatit-kit-churrasco-prana.webp`. Alt: Faca, chaira e garfo de cabo branco do Kit Churrasco Prana, da Let's Eat It, em foto da loja. Legenda: Kit Churrasco Garfo e Faca Chaira Prana. Foto: Let's Eat It.
 - **Origem:** fotos oficiais das lojas (catálogo da Insider e da Let's Eat It; página do produto na Max e na Dr. Peanut), em quadrado de 1000 px sobre fundo branco. A foto do kit Prana foi trocada depois da revisão do Farol pela que mostra faca, chaira e garfo inteiros. Sem IA. Folhas em `docs/auditoria-copy-artigos/insider-il2-20261111/` (local).
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/presentes/presente-amigo-secreto-masculino-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Par de meias SneakIN pretas da Insider em foto oficial, ao lado da chamada Amigo secreto masculino e do apoio Ideias de presente. As meias são uma das opções do guia.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Meias SneakIN pretas da Insider, uma das sugestões do guia; o logo identifica a foto e não atribui as outras sugestões à marca. Sem preço, estoque nem prazo. Produto em foto real.
+- **Lote 36 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/36/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/presentes/presente-amigo-secreto-masculino-capa.webp`) fica no CDN, sem uso como capa.

@@ -191,3 +191,10 @@ Fatos: `probiotica-ou-integralmedica-fatos-2810.md`, ao lado (vale sobre o nome 
 - Redação: Fable 5.1, revisão do Claude. Capa aprovada pelo Bruno em 28/10 (`/images/reviews/probiotica/probiotica-ou-integralmedica-capa.webp`), no CDN.
 - A capa mostra o Kit 2x 100% Pure Whey refil e a creatina 100 g: o whey 900 g e a creatina 300 g já estavam nas capas de Probiótica ou Dux e ou Growth (troca pedida pelo Bruno em 28/10).
 - Pendente: reler preços antes da Black Friday.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/probiotica/probiotica-ou-integralmedica-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pote de Creatina de 100 g da Probiótica com um copo de líquido alaranjado e uma colher em cena promocional oficial, ao lado da pergunta Probiótica ou Integralmédica? e do apoio Whey e creatina.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Creatina 100 g da Probiótica em cena oficial com copo e colher; não é preparo nem teste da equipe. Sem foto da Integralmédica. Produto em foto real.
+- **Lote 35 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/35/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/probiotica/probiotica-ou-integralmedica-capa.webp`) fica no CDN, sem uso como capa.

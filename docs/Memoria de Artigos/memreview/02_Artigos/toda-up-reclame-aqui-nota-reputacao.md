@@ -309,3 +309,10 @@ Upload FTPS, verificação HTTPS (18/18 da Toda Up), `prepare-delivery --append`
 ## Retrofit "Fita Up" (decisão do Bruno, 26/10/2026; aplicado em 27/10/2026)
 
 Redigido pelo Fable 5.1, conferido pelo Claude: title com "(antiga Fita Up)" e seoTitle "Fita Up (Toda Up) no Reclame Aqui: nota e reputação". Títulos dos relacionados atualizados em 616 a 619.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/toda-up-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo adulta com cabelo preso usando o sutiã Comfort Slim marrom, em foto oficial da Toda Up, ao lado da chamada Toda Up no Reclame Aqui e do apoio Antes de comprar.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Foto oficial do Comfort Slim; a modelo não é a Cecília nem experiência da equipe. Produto em foto real.
+- **Lote 34 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/34/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/toda-up/toda-up-reclame-aqui-capa-discover.webp`) fica no CDN, sem uso como capa.

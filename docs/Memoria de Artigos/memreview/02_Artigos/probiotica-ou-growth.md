@@ -267,3 +267,10 @@ As perguntas acima foram respondidas em 18/10/2026: o Bruno aceitou as recomenda
 ### Publicação (18/10/2026)
 
 No ar em 18/10/2026 (19/10 02:56 UTC), PR #155, release `e0bcc67`, build `01a15214-8516-73f5-bc1c-ef4402f162bf`. Smoke 200 (página e imagens no CDN), sitemap e IndexNow ok.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/probiotica/probiotica-ou-growth-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pote de 100% Pure Whey Zero Lactose Baunilha de 900 g da Probiótica com copo de bebida clara e flor de baunilha, em cena promocional oficial, ao lado da pergunta Probiótica ou Growth? e do apoio Whey e creatina.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. 100% Pure Whey Zero Lactose Baunilha 900 g da Probiótica (não o Pure Whey comum); sem foto nem logo da Growth. Produto em foto real.
+- **Lote 36 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/36/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/probiotica/probiotica-ou-growth-capa-discover.webp`) fica no CDN, sem uso como capa.

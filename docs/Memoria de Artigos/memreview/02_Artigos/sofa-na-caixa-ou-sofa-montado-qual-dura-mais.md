@@ -218,3 +218,10 @@ FAQ:
 - Job 3 em 14/10/2026 (revisão pedida pelo Bruno antes do deploy): fatos, garantias, CDC e tabela conferidos; nenhum ajuste de fato.
 - Bruno confirmou (14/10/2026): tomada USB e suporte por indução para celular e tablet são opcionais do sofá dela.
 - Ajustes de texto: rótulos de link com o título exato, sem bastidor, sem afirmação genérica sem fonte, menos repetição.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/damie/sofa-na-caixa-ou-sofa-montado-qual-dura-mais-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Cecília sentada no sofá modular azul da Damie, com as mãos no colo, em foto própria de casa, ao lado da pergunta Sofá na caixa ou montado? e do apoio Construção e durabilidade.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Foto própria da Cecília sentada de lado no sofá azul da Damie, recebido em parceria; não comprova durabilidade comparativa. Produto em foto real.
+- **Lote 36 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/36/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/damie/sofa-na-caixa-ou-montado-capa-discover.webp`) fica no CDN, sem uso como capa.

@@ -243,3 +243,10 @@ Página `drpeanut.com.br/whey-dr-peanut/p`, aberta no Chrome do Bruno:
 - JSON `content/reviews/whey-dr-peanut-max-titanium.json` (id 833). Capa B do Job 6 (pote Avelã e o código), aprovada pelo Bruno. Foto no corpo: a Paçoca, com o link do produto na Dr. Peanut.
 - Job 3 (Fable): aprovado com 12 ajustes, mas lido antes da correção do Bruno (cinco sabores nas duas lojas, código da Max funcionando). O texto foi refeito com os fatos corrigidos, aplicando o que seguia valendo (alérgenos, abertura pelo aviso de glúten e lactose, conta sem repetir a tabela, link na foto, parágrafo de veredito, FAQ).
 - Mudanças nos artigos no ar: nenhuma (o `dr-peanut-e-boa` estava certo sobre os cinco sabores).
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/dr-peanut/whey-dr-peanut-max-titanium-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pote aberto do 100% Whey Dr. Peanut Avelã de 900 g e pessoa colocando o pó na coqueteleira, em cena promocional oficial, ao lado da chamada Whey Dr. Peanut e da pergunta Max ou Dr. Peanut?
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Cena oficial do pote de Whey Avelã de 900 g, aberto, com pessoa colocando pó na coqueteleira; não é refil, receita nem teste próprio. Co-branding original preservado. Produto em foto real.
+- **Lote 34 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/34/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/dr-peanut/whey-dr-peanut-max-titanium-capa.webp`) fica no CDN, sem uso como capa.

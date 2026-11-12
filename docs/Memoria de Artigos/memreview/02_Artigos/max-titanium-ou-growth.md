@@ -317,3 +317,10 @@ Conta: por porção = preço ÷ porções; por 1.000 kcal = preço ÷ (porções
 ### Publicação (18/10/2026)
 
 No ar em 18/10/2026 (19/10 02:56 UTC), PR #155, release `e0bcc67`, build `01a15214-8516-73f5-bc1c-ef4402f162bf`. Smoke 200 (página e imagens no CDN), sitemap e IndexNow ok.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/max-titanium/max-titanium-ou-growth-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Refil de Mass Titanium 17500 Baunilha de 3 kg da Max Titanium em imagem oficial, ao lado da pergunta Max Titanium ou Growth? e do apoio Whey, creatina e hipercalórico.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Mass Titanium 17500 refil 3 kg Baunilha em imagem oficial; sem foto nem logo da Growth. Produto em foto real.
+- **Lote 35 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/35/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/max-titanium/max-titanium-ou-growth-capa-discover.webp`) fica no CDN, sem uso como capa.

@@ -129,3 +129,10 @@ Como no PZ6: só Petz (logo, produto da cesta e código), nada da Petlove.
 - **Alt da capa:** Pacote da ração Royal Canin Medium Adult, logo da Petz, a chamada “Petz ou Petlove?” e o código EMCASA.
 - **Rações para cães:** `/images/reviews/petz/petz-ou-petlove-royal-canin-medium-adult.webp` (square). Alt: Pacote da ração Royal Canin Medium Adult 12 kg, em foto oficial da página do produto na Petz. Legenda: Foto: Petz.
 - **Origem:** foto oficial da página do produto na Petz, capturada no navegador do app em 11/11 na resolução original e recortada sobre fundo branco. Sem geração por IA; nada da Cobasi ou da Petlove nas imagens. Folha de aprovação em `docs/auditoria-copy-artigos/petz-pz5-pz8-20261111/v2-apos-revisao/FOLHA-APROVACAO-IMAGENS.html` (local, fora do git).
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/petz/petz-ou-petlove-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Ilustração gerada por IA de um gatinho cinza e branco sobre uma manta clara, ao lado da pergunta Petz ou Petlove? e do cupom EMCASA da Petz.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Gatinho em ilustração original gerada por IA (OpenAI), sem referência externa; não é animal de cliente, da equipe, de loja nem de adoção, e o alt diz que é gerada. Parecer vigente: ADENDO-PETZ-FILHOTES.md do lote 35. Sem foto nem logo da Petlove.
+- **Lote 35 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/35/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/petz/petz-ou-petlove-capa.webp`) fica no CDN, sem uso como capa.

@@ -381,3 +381,10 @@ Fase 2 do retrofit pedido pelo Bruno em 12/10/2026; folha de contato aprovada po
 - "Como saber se o link é oficial: checklist": `magazine-voce-endereco-e-selo.webp`, print do Bruno com a barra de endereço e o topo da loja, sem login e sem CEP; o contorno no endereço e o marca-texto no selo são nossos.
 - "O que o Reclame Aqui mostra": `reclame-aqui-magazine-luiza-loja-online-6-meses-2026-10-13.webp`, print do Bruno da coluna Desempenho do perfil Magazine Luiza - Loja Online (dados de 01/04 a 30/09/2026). Os números do texto passaram aos do print: 54.989 reclamações e 29.012 avaliadas (eram 54.992 e 28.975 na leitura de 12/10). O perfil "Influenciador Magalu (Magazine Você)" fica sem print, por decisão do Bruno: a Magazine Luiza não responde nele e as reclamações são de quem tem loja.
 - O RDAP do registro.br não virou imagem: a resposta traz o nome e o e-mail de uma pessoa e o IP de quem consulta, e o aviso do Nic.br proíbe reproduzir os dados. O texto segue citando titular, CNPJ e datas.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/magalu/magazine-voce-e-confiavel-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Recorte do busto da Lu do Magalu com blazer azul, em peça oficial da marca, ao lado da pergunta Magazine Você é confiável? e do apoio Como funciona a loja.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Avatar oficial Lu, com recorte estreito registrado; fonte de tamanho limitado aprovada para leitura de cartão, sem reconstrução por IA. Produto em foto real.
+- **Lote 35 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/35/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/magalu/magazine-voce-e-confiavel-capa-discover.webp`) fica no CDN, sem uso como capa.

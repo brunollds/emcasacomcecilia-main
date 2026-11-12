@@ -178,3 +178,10 @@ Tanto para retráteis quanto modulares, tecidos com trama fechada e sem fios pux
 
 ## Nota de Transparência
 Este comparativo foi desenvolvido com base em critérios ergonômicos de arquitetura, manuais de fabricantes e dados públicos de órgãos de defesa do consumidor. O site Em Casa com Cecília mantém parceria comercial com a DAMIE por meio do cupom CECILIA12, garantindo comissão sem custo adicional para o leitor.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/sofa-modular-ou-retratil-qual-escolher-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Cecília em pé ao lado do sofá modular azul da Damie e de módulos separados, em foto própria de casa, ao lado da pergunta Sofá modular ou retrátil? e do apoio Espaço e conforto.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Foto própria da Cecília em pé ao lado dos módulos da Damie, recebidos em parceria; não comprova durabilidade comparativa. Produto em foto real.
+- **Lote 34 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/34/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/sofa-modular-ou-retratil-hero.webp`) fica no CDN, sem uso como capa.

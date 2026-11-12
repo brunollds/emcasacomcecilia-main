@@ -92,3 +92,10 @@ Dor 18/25, demanda 13/20, valor além do oficial 17/20, visita 10/15, cluster 8/
 - **Troca, nos três:** por higiene, só sem sinal de uso e com a embalagem intacta; com defeito, a devolução é garantida.
 - **Preços para o texto:** a Toda Up entra com o MAUAD (Fita Up R$ 105,21, ou R$ 84,17 cada no Leve 2; sutiã R$ 134,91; protetor R$ 53,91); a Intimissimi, com o preço da página (não há cupom nosso nela). Com isso: protetor da Toda Up pela metade do preço; copas da Intimissimi R$ 25,91 mais baratas; fita da Intimissimi mais barata na unidade e a Fita Up no Leve 2.
 - **Rascunho:** a sessão de pautas escreveu um JSON por engano (fora do Job 1), na branch `claude/f11-toda-up-ou-intimissimi`, sem capa enviada e sem Job 3. A sessão de artigos pode usar ou descartar.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/toda-up-ou-intimissimi-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo adulta com tranças curtas usando protetores ultrafinos e segurando a caixa Invisible Up, em foto oficial da Toda Up, ao lado da pergunta Toda Up ou Intimissimi? e do apoio Fitas e adesivos.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Foto oficial da Toda Up com modelo de tranças curtas; não é a Cecília. Sem foto da Intimissimi. Produto em foto real.
+- **Lote 36 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/36/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/toda-up/toda-up-ou-intimissimi-capa.webp`) fica no CDN, sem uso como capa.

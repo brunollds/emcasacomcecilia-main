@@ -208,3 +208,10 @@ Saber que a loja possui CNPJ regular, emite nota fiscal, responde a 100% dos cha
 | Cupom MAUAD: 5% OFF em todo o catálogo, link comissionado com UTMs da Inbazz | src/lib/couponsData.ts (slug: letseatit) | Confirmado |
 | Link relativo para a página de cupom (/cupons/letseatit) | docs/CONTRATO-ARTIGO-AFILIADO.md | Confirmado |
 | Ausência de sobrenome "Mauad" solto em destaques de cupons | docs/MANUTENCAO-MENSAL.md | Confirmado |
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/letseatit/lets-eat-it-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Taça Palm Tree com desenho de folhas em uma mesa posta, em foto de catálogo da Let's Eat It, ao lado da chamada Let's Eat It no Reclame Aqui e do apoio Entrega e atendimento.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Cena oficial do Palm Tree com copo; não é prova de atendimento nem de reputação. MAUAD fora da arte e do alt. Produto em foto real.
+- **Lote 34 do piloto de capas (sequência 11 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-11-CLAUDE.zip` (`lotes/34/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/letseatit/lets-eat-it-reclame-aqui-capa-discover.webp`) fica no CDN, sem uso como capa.
