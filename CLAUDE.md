@@ -479,7 +479,7 @@ vídeo, primeiras impressões e uso noturno.
   `reviewedBy` (o site, porque o teste é da equipe). O recorte do topo e o bloco da loja nos artigos mostram a
   validade da parceria (`validity`), sem data. O `lastVerified` é a última conferência das condições (com ou
   sem checkout) e vai ao `dateModified`, ao sitemap e ao `llms.txt`. As duas datas só avançam com conferência
-  ou teste real; o `test:coupon-offer-modes` avisa depois de 90 dias sem teste. O mês do título
+  ou teste real; a rodada de testes é mensal, a partir do dia 1, e o `test:coupon-offer-modes` avisa depois de 45 dias sem teste. O mês do título
   (`metaTitleMonth`), do quadro do mês e de `/cupons` segue o calendário no build (`src/lib/offerMonth.ts`).
   SHEIN e YesStyle seguem com "Conferido em". Regras em `docs/MANUTENCAO-MENSAL.md`, seção 1.
 - A imagem de compartilhamento da loja vem de `getStoreSocialImage` (`src/lib/pageSeo.ts`): a

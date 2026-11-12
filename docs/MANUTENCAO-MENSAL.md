@@ -35,10 +35,11 @@ depende do tipo:
   de creator que valem "enquanto a parceria estiver vigente": `letseatit`, `insider`, `probiotica`,
   `max-titanium`, `dr-peanut`, `black-skull`, `clea-store`, `belive`, `mais-mu`, `skelt`,
   `bagaggio`, `toda-up`, `simple-organic`, `holyfoods`, `petz` e `hostinger`.
-- **Validade, conferência e teste são três coisas (decisão do Bruno, 11/11/2026):** o checkout mensal
-  deixou de ser condição para mostrar um código perene ativo. Antes, uma data só (`lastVerified`) dizia
-  o teste, o mês do título, o `dateModified` e o sitemap, e sem a rodada do dia 1 a página e as
-  respostas de IA mostravam "testado em outubro" em novembro. Agora:
+- **Validade, conferência e teste são três coisas (decisão do Bruno, 11/11/2026):** o checkout não é
+  condição para mostrar um código perene ativo, e cada registro tem o seu evento. Antes, uma data só
+  (`lastVerified`) dizia o teste, o mês do título, o `dateModified` e o sitemap. Em 12/11/2026 o Bruno
+  trouxe de volta a rodada mensal de testes, a partir do dia 1 (ver "Rodada mensal de testes", abaixo);
+  os três registros seguem separados:
   - **Validade:** o código perene vale enquanto a parceria estiver ativa (`validity`). O topo da página
     da loja e o bloco da loja nos artigos mostram essa frase, sem data. Campanhas seguem com os prazos
     reais (`limitedCodes`, `content/campanhas/`).
@@ -49,9 +50,11 @@ depende do tipo:
     seguem o mesmo calendário. O mês não afirma teste nenhum.
   - **Último teste no carrinho:** `testedAt` + `testNote`, com a data e o cenário realmente testados
     (o kit, o carrinho), na seção "Como testamos o cupom" e no `lastReviewed` do schema. Refazer
-    quando mudar a oferta, o percentual ou a elegibilidade, ou quando alguém avisar que o código
-    falhou. O `test:coupon-offer-modes` avisa (sem parar o build) depois de 90 dias sem teste, prazo
-    operacional nosso, não regra de SEO.
+    na rodada mensal e, fora dela, quando mudar a oferta, o percentual ou a elegibilidade, ou quando
+    alguém avisar que o código falhou. Só avança quando o código foi aplicado num carrinho: ler a
+    política de frete não avança o `testedAt`. O `test:coupon-offer-modes` avisa (sem parar o build)
+    depois de 45 dias sem teste, sinal de que a loja ficou de fora de uma rodada; é prazo operacional
+    nosso, não regra de SEO.
   - **Última conferência das condições:** `lastVerified`, que pode vir da página da loja, do painel
     do programa ou de um aviso da marca, sem checkout. Ela alimenta o `dateModified`, o `<lastmod>`
     do sitemap e o "verificado em" do `llms.txt`, e só avança com uma conferência real. Nunca é
@@ -70,11 +73,36 @@ depende do tipo:
   `docs/plans/2026-10-04-cupom-nutre-ceci-10.md`; os 15 artigos da Dolce Gusto que citam o
   percentual estão listados no fim desse mesmo arquivo.
 
+### Rodada mensal de testes (a partir do dia 1)
+
+Decisão do Bruno de 12/11/2026: todas as ofertas voltam a ser testadas todo mês. O Bruno chama a sessão
+de cupons no dia 1; não há tarefa agendada. A primeira rodada por esta regra é a de 01/12/2026, e nela
+se mede o tempo gasto.
+
+- **Começa no dia 1 e não precisa acabar nem ir ao ar no mesmo dia.** Loja testada no dia 3 recebe a
+  data do dia 3.
+- **A data só avança onde a conferência aconteceu.** Site bloqueado ou carrinho que falhou: a loja fica
+  com a data antiga e entra na lista de pendências. Nada de atualização em bloco.
+- **Roteiro da loja de código comum (cerca de 20):** o mesmo tipo de produto todo mês; o total antes e
+  depois do código; o Pix; a faixa do topo e a campanha vigente; o cashback, onde houver.
+- **Frete:** registrar o CEP usado, porque ele prova só aquele cenário. Para o mínimo do frete grátis,
+  um carrinho abaixo e um acima dele, anotando se a base é antes ou depois do cupom. Regra de outra
+  região só com fonte própria (a política da loja).
+- **Mecânica própria, com roteiro próprio:** SHEIN, Magalu, Lejour, Hostinger e YesStyle. O
+  `validate:yesstyle` confere os nossos dados; não prova que a loja aceitou o código.
+- **Sem login, sem cadastro e sem finalizar compra.** Site que bloqueia robôs (Petz) vai pelo navegador.
+- **Campanhas com prazo** seguem com a revisão no vencimento; a rodada complementa.
+- **O que sai de cada rodada:** uma linha de evidência por loja (data, produto, valores, CEP e o que
+  mudou), a lista de pendências e um PR só com os dados conferidos. Mudança de regra que afeta artigo
+  vai por handoff à sessão de artigos. Deploy só com o GO do Bruno.
+- **O que a rodada não promete:** teste novo não garante a data que o Google ou as IAs mostram. O teste
+  é da equipe, e as páginas seguem atribuindo ao site, não à Cecília pessoalmente.
+
 ### No último dia útil ou no dia 1
 
-- reconferir as condições dos perenes (página da loja, painel ou aviso da marca) e avançar o
-  `lastVerified` só das conferidas; testar no carrinho os que mudaram de oferta, os que alguém disse
-  que falharam e os que o `test:coupon-offer-modes` avisou (90 dias);
+- começar a rodada mensal de testes (acima) e reconferir as condições dos perenes (página da loja,
+  painel ou aviso da marca), avançando o `lastVerified` só das conferidas e o `testedAt` só das
+  testadas no carrinho;
 - registrar a **data real** de cada conferência e de cada teste;
 - o mês do título e da página vira no build: fazer um deploy a partir do dia 20 de cada mês (o mês seguinte) e outro no começo do mês, senão o título fica no mês do último deploy; os de ciclo só mudam de condição com o ciclo
   seguinte confirmado;
@@ -110,8 +138,10 @@ Para cada oferta ativa, reconferir:
 - `lastVerified` com a data real (`YYYY-MM-DD`) da última conferência das condições, com ou sem
   checkout. Vai ao `dateModified`, ao sitemap e ao `llms.txt`;
 - `testedAt` e `testNote`: o dia e o que a equipe viu no último teste no carrinho, juntos, só com teste
-  real. Se o percentual, o mínimo ou o exemplo de carrinho mudarem, testar de novo e reescrever os
-  dois; `test:coupon-offer-modes` falha se uma loja com código ficar sem eles;
+  real, refeito na rodada mensal. Se o percentual, o mínimo ou o exemplo de carrinho mudarem, testar de
+  novo e reescrever os dois. A seção "Como testamos o cupom" da página em português fecha com o link
+  do método na `/sobre` (`#titulo-como-testamos`) e com o canal de aviso no `/contato`
+  (`testFooter`, em `couponStoreCopy.tsx`); `test:coupon-offer-modes` falha se uma loja com código ficar sem eles;
 - `metaTitle` e `metaDescription` quando contiverem código ou percentual. Desde 24/10/2026 o título
   segue a ordem que sobrevive ao corte do Google: loja, percentual, código e o mês no fim, como
   `(nov/2026)`, só quando cabe em 60 caracteres (com código longo, o mês sai). Desde 11/11/2026 o mês

@@ -107,7 +107,7 @@ export type CouponCodeOffer = CouponBase & {
   discountNumber: number;
   // O último teste no carrinho: o dia (AAAA-MM-DD) e o que a equipe viu. Vão juntos e só mudam com teste
   // real, quando a oferta, o percentual ou a elegibilidade mudam ou alguém avisa que o código falhou; o
-  // test:coupon-offer-modes avisa depois de 90 dias. A página ganha a seção "Como testamos o cupom". O
+  // test:coupon-offer-modes avisa depois de 45 dias (a rodada de testes é mensal, a partir do dia 1). A página ganha a seção "Como testamos o cupom". O
   // lastVerified é outra data: a última conferência das condições, que pode ser na página da loja, no painel
   // ou num aviso da marca, sem checkout.
   testedAt?: string;

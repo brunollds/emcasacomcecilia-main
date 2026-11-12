@@ -42,6 +42,8 @@ export type CouponStoreCopy = {
   // Lojas com testNote: a seção "Como testamos" conta o último teste no carrinho, com a data dele.
   testTitle: string;
   testedBy: (date: string) => string;
+  // Fim da seção, só em português (a /sobre e o /contato não têm tradução): o método e o canal de aviso.
+  testFooter?: { methodLabel: string; methodHref: string; failedPrompt: string; failedLabel: string; failedHref: string };
   highlight: {
     code: (offer: { offerType: string; brand: string; code: string; discount: string; scope: string; monthYear: string }) => string;
     link: (offer: { brand: string; discount: string; scope: string; monthYear: string }) => string;
@@ -118,6 +120,13 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     verifiedOn: (date) => `Conferido em ${date}`,
     testTitle: 'Como testamos o cupom',
     testedBy: (date) => `Testado pela equipe do Em Casa com Cecília em ${date}.`,
+    testFooter: {
+      methodLabel: 'Veja como testamos e escolhemos',
+      methodHref: '/sobre#titulo-como-testamos',
+      failedPrompt: 'O cupom não funcionou?',
+      failedLabel: 'Avise a gente',
+      failedHref: '/contato',
+    },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>
         `${capitalize(offerType)} ${brand} atualizado: ${code} — ${discount} ${scope} (${monthYear}).`,
