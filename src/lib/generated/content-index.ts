@@ -212561,7 +212561,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Retire na Loja",
-              "5% em compras acima de R$ 199, no Centro-Oeste, Sul e Sudeste; retirada em até 28 dias corridos depois do aviso de liberação"
+              "5% em compras acima de R$ 199, no Centro-Oeste, Sul e Sudeste, que somam com o EMCASA (14,5% no total); retirada em até 28 dias corridos depois do aviso de liberação"
             ]
           ],
           "caption": "Regras da política de entrega e do frete grátis."
@@ -212896,7 +212896,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Confira o prazo pelo CEP antes de pagar. A entrega padrão chega em até 3 dias úteis em algumas regiões. A Entrega Expressa leva poucas horas, por região, e não aceita boleto. Se a expressa atrasar, a Petz devolve o frete em dobro como crédito.",
-          "Use o Retire na Loja quando der. Ele dá 5% em compras acima de R$ 199, no Centro-Oeste, Sul e Sudeste, e a retirada precisa ser feita em até 28 dias depois do aviso por e-mail ou WhatsApp. Para somar o EMCASA com esses 5%, veja [como usar o cupom EMCASA na Petz](/reviews/cupom-petz-como-usar).",
+          "Use o Retire na Loja quando der. Ele dá 5% em compras acima de R$ 199, no Centro-Oeste, Sul e Sudeste, e a retirada precisa ser feita em até 28 dias depois do aviso por e-mail ou WhatsApp. Para somar o EMCASA com esses 5%, até 14,5% no total, veja [como usar o cupom EMCASA na Petz](/reviews/cupom-petz-como-usar).",
           "Confira o pedido na entrega. Antes de assinar o recebimento, compare os itens e as quantidades com o que está em Meus Pedidos. Se faltar algo ou vier outro produto, registre isso logo, pelo canal da compra.",
           "Para desistir da compra online, são 7 dias corridos após o recebimento. Para reclamar de defeito aparente, são 30 dias da entrega para itens não duráveis e 90 para duráveis.",
           "Anote o Alô Petz: (11) 3434-6980. De segunda a sexta, das 8h às 21h; sábado, das 8h às 18h; domingo e feriados, das 9h às 16h."
@@ -213153,7 +213153,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O cupom soma com a Black Friday da Petz? Não: pelo regulamento, cupom não soma com a oferta da campanha nem com o desconto do Clubz, e a sacola fica com o maior. O desconto de retirada na loja soma com o cupom, como mostra o capítulo de frete.",
+          "O cupom soma com a Black Friday da Petz? Não: pelo regulamento, cupom não soma com a oferta da campanha nem com o desconto do Clubz, e a sacola fica com o maior. O desconto de retirada na loja soma com o cupom, 14,5% no total nos itens fora da oferta, como mostra o capítulo de frete.",
           "Quando é a Black Friday da Petz? A campanha está no ar, prevista até o fim de novembro, e inclui a sexta da Black Friday.",
           "O que é o Clubz? É o programa de níveis da Petz, com Bronze, Prata, Ouro e Diamante. Ouro e Diamante recebem 5% em CashPetz, e o Diamante tem frete grátis na Entrega Padrão, sem mínimo.",
           "Tem frete grátis na Black Friday? Na Entrega Padrão, valem as faixas do capítulo de frete; se o cupom deixar o pedido abaixo do mínimo, a gratuidade não é aplicada. Para Clubz Diamante, o regulamento informa frete grátis sem mínimo.",
@@ -213222,7 +213222,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A assinatura Petz e o EMCASA dão 10% no site e no app e não somam. Na simulação, eles empataram quando comparados na mesma modalidade; a retirada reduziu os dois totais. Para escolher, veja se prefere programar compras no cartão ou comprar avulso com o código, sem definir uma frequência."
+          "A assinatura Petz e o EMCASA dão 10% no site e no app e não somam. Na simulação, eles empataram na mesma modalidade, e o Retire na Loja somou 5% aos dois: 14,5% no total nos itens fora de oferta. Para escolher, veja se prefere programar compras no cartão ou comprar avulso com o código, sem definir uma frequência."
         ]
       },
       {
@@ -213300,7 +213300,7 @@ export const reviewsData: unknown[] = [
         "heading": "Frete e retirada",
         "paragraphs": [
           "Na entrega padrão, as páginas divergem sobre o frete grátis no Centro-Oeste. A política de frete diz acima de R$ 199 no Sul e no Sudeste, e acima de R$ 299 no Norte, no Nordeste e no Centro-Oeste. A página da assinatura põe o Centro-Oeste na faixa de R$ 199. Nessa região, confira o frete na sacola antes de pagar. Pela regra informada, o mínimo é contado depois do desconto do cupom.",
-          "A retirada soma com as duas formas. A loja dá 5% em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste, e o teste mostrou esse desconto com o EMCASA e com a assinatura. A regra de frete e de retirada do cupom está no [guia do EMCASA](/reviews/cupom-petz-como-usar)."
+          "A retirada soma com as duas formas: 10% mais 5% dá 14,5% no total nos itens fora de oferta, porque os 5% saem do valor já com o desconto. A loja dá 5% em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste, e o teste mostrou esse desconto com o EMCASA e com a assinatura. A regra de frete e de retirada do cupom está no [guia do EMCASA](/reviews/cupom-petz-como-usar)."
         ]
       },
       {
@@ -213546,7 +213546,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Na Petz, a Entrega Padrão tem frete grátis acima de R$ 199 no Sul e no Sudeste. Na sacola consultada em São Paulo, o frete dessa modalidade ficou grátis, mas o resumo cobrou R$ 5,90 de taxa de serviço. A Expressa mostrou até 4 horas, com frete de R$ 7,90 mais essa taxa.",
           "A política da Cobasi informa frete grátis acima de R$ 149 no Sul, Sudeste e Centro-Oeste; para areia, sílica e granulados, a condição é apenas no Sudeste. Para a entrega Econômica em São Paulo e no Rio de Janeiro, a página informa mínimo acima de R$ 199. Na simulação com uma ração de R$ 179,99 para um CEP de São Paulo, a Econômica custou R$ 11,90 e a Cobasi Já, R$ 9,90. Confira as modalidades disponíveis no seu CEP.",
-          "Na Petz, a retirada tem 5% acima de R$ 199 no Sul, Sudeste e Centro-Oeste. Na sacola testada, os 5% somaram ao EMCASA e não apareceu taxa de serviço. O prazo depende da loja e do estoque: algumas opções mostraram retirada a partir de 45 minutos, outras em data posterior. Aguarde o e-mail de liberação. Na Cobasi, o regulamento da Black Friday prevê 5% na retirada acima de R$ 199 nessas regiões, após outros descontos e sem frete. A página de retirada traz mínimos diferentes; confira o desconto e o prazo no carrinho."
+          "Na Petz, a retirada tem 5% acima de R$ 199 no Sul, Sudeste e Centro-Oeste. Na sacola testada, os 5% somaram ao EMCASA, 14,5% no total nos itens fora de oferta, e não apareceu taxa de serviço. O prazo depende da loja e do estoque: algumas opções mostraram retirada a partir de 45 minutos, outras em data posterior. Aguarde o e-mail de liberação. Na Cobasi, o regulamento da Black Friday prevê 5% na retirada acima de R$ 199 nessas regiões, após outros descontos e sem frete. A página de retirada traz mínimos diferentes; confira o desconto e o prazo no carrinho."
         ]
       },
       {
@@ -213589,7 +213589,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Sua lista tem rações sem oferta, como Golden e Premier de 15 kg, e você compra pelo site ou app com o EMCASA: nesses itens, a Petz fica 10% abaixo do preço de página da Cobasi.",
-        "Você prefere retirar na loja: na sacola testada, a retirada da Petz somou 5% ao EMCASA e não teve taxa de serviço, desde que o prazo da loja atenda ao seu pedido."
+        "Você prefere retirar na loja: na sacola testada, a retirada da Petz somou 5% ao EMCASA, 14,5% no total, e não teve taxa de serviço, desde que o prazo da loja atenda ao seu pedido."
       ],
       "skipIf": [
         "Seu carrinho tem Royal Canin Medium de 12 kg, Bravecto ou Simparic Trio: nesses itens, a Cobasi ficou abaixo da Petz nas páginas lidas, antes do frete.",
@@ -213828,7 +213828,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você quer retirar a compra numa loja física: a Petz tem 5% na retirada, que soma com o EMCASA, e a Petlove não mostrou desconto para isso.",
+        "Você quer retirar a compra numa loja física: a Petz tem 5% na retirada, que soma com o EMCASA (14,5% no total nos itens fora de oferta), e a Petlove não mostrou desconto para isso.",
         "Você já é membro do Clube Petlove: com o preço de membro, a Petlove ficou abaixo em três dos cinco itens comparáveis com esse preço."
       ],
       "skipIf": [
@@ -213893,7 +213893,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "No teste em São Paulo, a Expressa mostrou até quatro horas e teve frete e taxa; a retirada teve menor total, mas o prazo variou por loja. O EMCASA funcionou com a Expressa e somou aos 5% da retirada elegível. Compare prazo de liberação, custos e deslocamento antes de pagar."
+          "No teste em São Paulo, a Expressa mostrou até quatro horas e teve frete e taxa; a retirada teve menor total, mas o prazo variou por loja. O EMCASA funcionou com a Expressa e, somado aos 5% da retirada elegível, chegou a 14,5% no total. Compare prazo de liberação, custos e deslocamento antes de pagar."
         ]
       },
       {

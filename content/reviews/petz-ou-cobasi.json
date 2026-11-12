@@ -177,7 +177,7 @@
       "paragraphs": [
         "Na Petz, a Entrega Padrão tem frete grátis acima de R$ 199 no Sul e no Sudeste. Na sacola consultada em São Paulo, o frete dessa modalidade ficou grátis, mas o resumo cobrou R$ 5,90 de taxa de serviço. A Expressa mostrou até 4 horas, com frete de R$ 7,90 mais essa taxa.",
         "A política da Cobasi informa frete grátis acima de R$ 149 no Sul, Sudeste e Centro-Oeste; para areia, sílica e granulados, a condição é apenas no Sudeste. Para a entrega Econômica em São Paulo e no Rio de Janeiro, a página informa mínimo acima de R$ 199. Na simulação com uma ração de R$ 179,99 para um CEP de São Paulo, a Econômica custou R$ 11,90 e a Cobasi Já, R$ 9,90. Confira as modalidades disponíveis no seu CEP.",
-        "Na Petz, a retirada tem 5% acima de R$ 199 no Sul, Sudeste e Centro-Oeste. Na sacola testada, os 5% somaram ao EMCASA e não apareceu taxa de serviço. O prazo depende da loja e do estoque: algumas opções mostraram retirada a partir de 45 minutos, outras em data posterior. Aguarde o e-mail de liberação. Na Cobasi, o regulamento da Black Friday prevê 5% na retirada acima de R$ 199 nessas regiões, após outros descontos e sem frete. A página de retirada traz mínimos diferentes; confira o desconto e o prazo no carrinho."
+        "Na Petz, a retirada tem 5% acima de R$ 199 no Sul, Sudeste e Centro-Oeste. Na sacola testada, os 5% somaram ao EMCASA, 14,5% no total nos itens fora de oferta, e não apareceu taxa de serviço. O prazo depende da loja e do estoque: algumas opções mostraram retirada a partir de 45 minutos, outras em data posterior. Aguarde o e-mail de liberação. Na Cobasi, o regulamento da Black Friday prevê 5% na retirada acima de R$ 199 nessas regiões, após outros descontos e sem frete. A página de retirada traz mínimos diferentes; confira o desconto e o prazo no carrinho."
       ]
     },
     {
@@ -220,7 +220,7 @@
   "decision": {
     "takeIf": [
       "Sua lista tem rações sem oferta, como Golden e Premier de 15 kg, e você compra pelo site ou app com o EMCASA: nesses itens, a Petz fica 10% abaixo do preço de página da Cobasi.",
-      "Você prefere retirar na loja: na sacola testada, a retirada da Petz somou 5% ao EMCASA e não teve taxa de serviço, desde que o prazo da loja atenda ao seu pedido."
+      "Você prefere retirar na loja: na sacola testada, a retirada da Petz somou 5% ao EMCASA, 14,5% no total, e não teve taxa de serviço, desde que o prazo da loja atenda ao seu pedido."
     ],
     "skipIf": [
       "Seu carrinho tem Royal Canin Medium de 12 kg, Bravecto ou Simparic Trio: nesses itens, a Cobasi ficou abaixo da Petz nas páginas lidas, antes do frete.",
