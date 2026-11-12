@@ -99,3 +99,10 @@ Perfil `reclameaqui.com.br/empresa/nescafe-dolce-gusto/`, CNPJ 60.409.075/0001-5
 - Assistência: (11) 2060-9777, o número do bloco geral do FAQ da Dolce Gusto, e o buscador de postos da Arno (arno.com.br/assistencia-tecnica, que cobre Nescafé Dolce Gusto). O FAQ tem outro número numa resposta sobre peça faltando, (11) 2915-4400, que ficou fora.
 - Cupom: o CECI soma com as promoções, salvo no carrinho com resgate de pontos do Club (regulamento). Decisão do Bruno (05/11): omitir as ressalvas de acessórios e de combos.
 - Imagens aprovadas pelo Bruno (05/11): capa B (cinco máquinas + print do perfil no RA) e dois quadros nossos (períodos e principais problemas).
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/dolcegusto/dolce-gusto-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Máquina Dolce Gusto vermelha com bebida e cápsulas ao redor, em composição promocional oficial, ao lado da chamada Dolce Gusto no Reclame Aqui.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Sem geração por IA no produto.
+- **Lote 32 do piloto de capas (sequência 10 do Codex, revisão independente do GPT-6.1 Terra):** aprovado visualmente pelo Bruno em 11/11/2026, finais em `docs/auditoria-capas/lote-20261111-32/out/` no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/dolcegusto/dolce-gusto-reclame-aqui-capa.webp`) fica no CDN, sem uso como capa.

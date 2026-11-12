@@ -243,3 +243,10 @@ isso ao que fazer (seção 7), pela política da loja.
 - Redação em outra sessão; Job 3 aplicado e revisado pelo Claude em 14/10/2026: "nosso teste" no lugar de "testei", a frase do médico ou nutricionista uma vez e a campanha da capa citada no texto alternativo (Bruno, 14/10: manter a campanha).
 - JSON `content/reviews/max-titanium-reclame-aqui-nota-reputacao.json`, id 431.
 - Imagens (prints de tela de 14/10/2026, recortados e com marca-texto nosso): `max-titanium-reclame-aqui-capa.webp`, `max-titanium-reclame-aqui-principais-problemas.webp`.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/max-titanium/max-titanium-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Copo de bebida clara, pó e embalagem de 100% Whey Baunilha, em cena promocional oficial da Max Titanium, ao lado da chamada Max Titanium no Reclame Aqui.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Sem geração por IA no produto.
+- **Lote 31 do piloto de capas (sequência 10 do Codex, revisão independente do GPT-6.1 Terra):** aprovado visualmente pelo Bruno em 11/11/2026, finais em `docs/auditoria-capas/lote-20261111-31/out/` no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/max-titanium/max-titanium-reclame-aqui-capa-discover.webp`) fica no CDN, sem uso como capa.

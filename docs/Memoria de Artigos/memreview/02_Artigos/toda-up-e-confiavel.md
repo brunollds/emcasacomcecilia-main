@@ -342,3 +342,10 @@ Upload FTPS, verificação HTTPS (18/18 da Toda Up), `prepare-delivery --append`
 ## Retrofit "Fita Up" (decisão do Bruno, 26/10/2026; aplicado em 27/10/2026)
 
 Redigido pelo Fable 5.1, conferido pelo Claude: title e seoTitle com "Fita Up (Toda Up)", metaDescription e resposta rápida com o nome antigo, seção nova "Onde comprar a Fita Up hoje" (só o site oficial; www.fitaup.com e o blog antigo redirecionam; sem revendedor nem marketplace, leitura de 26/10/2026) e FAQ "A Fita Up é golpe?" com link ao 617. Títulos dos relacionados atualizados em 616 a 619.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/toda-up-e-confiavel-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Modelo adulta de cabelos grisalhos veste Comfort Up preto e calcinha clara, em foto oficial da Toda Up, ao lado da pergunta Toda Up é confiável?.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Sem geração por IA no produto.
+- **Lote 31 do piloto de capas (sequência 10 do Codex, revisão independente do GPT-6.1 Terra):** aprovado visualmente pelo Bruno em 11/11/2026, finais em `docs/auditoria-capas/lote-20261111-31/out/` no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/toda-up/toda-up-e-confiavel-capa-discover.webp`) fica no CDN, sem uso como capa.

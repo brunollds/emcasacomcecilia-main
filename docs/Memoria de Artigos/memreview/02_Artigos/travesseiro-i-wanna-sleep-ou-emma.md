@@ -245,3 +245,10 @@ Pedido do Bruno de 12/10/2026; folha de contato aprovada por ele em 13/10/2026. 
 - "Emma: quatro modelos com camadas": gráfico nosso, sem palavras, `travesseiro-ajuste-flocos-ou-camadas.webp`. Sem foto da Emma: não temos licença.
 - "Teste, troca e garantia": gráfico nosso, sem palavras, `travesseiros-teste-troca-garantia.webp`; a legenda dá o nome das marcas.
 - Tabela: modo compacto das tabelas de 6 colunas ou mais (escolha do Bruno), com o "R$" preso ao número.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/iwannasleep/travesseiro-i-wanna-sleep-ou-emma-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Travesseiros da I Wanna Sleep sobre cadeira rosa, um deles com espuma exposta, em imagem oficial, ao lado da pergunta IWS, Emma ou Ortobom? e dos critérios altura, firmeza e teste.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Imagem oficial só da I Wanna Sleep; sem Emma nem Ortobom na arte. Sem geração por IA no produto.
+- **Lote 31 do piloto de capas (sequência 10 do Codex, revisão independente do GPT-6.1 Terra):** aprovado visualmente pelo Bruno em 11/11/2026, finais em `docs/auditoria-capas/lote-20261111-31/out/` no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex-v2.webp`) fica no CDN, sem uso como capa.

@@ -341,3 +341,10 @@ As perguntas acima foram respondidas em 20/10/2026: o Bruno disse "Pode seguir" 
 
 12. **Veredito:** a Mais Mu é mais barata por 100 g de proteína no concentrado (900 g e 1,8 kg) e no isolado, e por grama de creatina no refil de 500 g. A Dux leva a proteína por porção (20 g em 30 g contra 20 g em 36 g), o Pix de 5% e a única Creapure declarada.
 13. **Dux:** valem as regras de `DECISOES-COMUNS.md` da série Dux para os números dela: 1,8 kg com 60 porções pela gramatura (a página diz 30), isolado com porção de 30 g (R$ 77,90 e R$ 74,01 por 100 g de proteína), "contém glúten" do isolado atribuído à página. Sem link, conforme a decisão do Bruno de 20/10/2026 para a série.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/mais-mu/mais-mu-ou-dux-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Whey Isolado Baunilha da Mais Mu com copo de bebida clara e scoop com pó, em cena promocional oficial, ao lado da pergunta Mais Mu ou Dux? e do apoio Whey e creatina.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Sem geração por IA no produto.
+- **Lote 32 do piloto de capas (sequência 10 do Codex, revisão independente do GPT-6.1 Terra):** aprovado visualmente pelo Bruno em 11/11/2026, finais em `docs/auditoria-capas/lote-20261111-32/out/` no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/mais-mu/mais-mu-ou-dux-capa-discover.webp`) fica no CDN, sem uso como capa.

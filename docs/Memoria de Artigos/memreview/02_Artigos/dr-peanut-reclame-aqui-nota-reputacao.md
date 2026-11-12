@@ -175,3 +175,10 @@ FAQ:
 ## Publicação (14/10/2026)
 
 No ar desde 14/10/2026 17:28 UTC: PR #93 (`fd0700d`), deploy `894e4a1e…`, build `01a13b73…`. Smoke ok e IndexNow enviado.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/dr-peanut/dr-peanut-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Alfajores Leite em Pó da Dr. Peanut empilhados, com um deles aberto e parte da embalagem à vista em cena promocional oficial sobre fundo amarelo, ao lado da chamada Dr. Peanut no Reclame Aqui e do apoio Entrega e atendimento.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Sem geração por IA no produto.
+- **Lote 33 do piloto de capas (sequência 10 do Codex, revisão independente do GPT-6.1 Terra):** aprovado visualmente pelo Bruno em 11/11/2026, finais em `docs/auditoria-capas/lote-20261111-33/out/` no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/dr-peanut/dr-peanut-reclame-aqui-capa-discover.webp`) fica no CDN, sem uso como capa.

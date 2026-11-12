@@ -232,3 +232,10 @@ FAQ:
 ## Publicação (14/10/2026)
 
 No ar desde 14/10/2026 17:28 UTC: PR #93 (`fd0700d`), deploy `894e4a1e…`, build `01a13b73…`. Smoke ok e IndexNow enviado.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/dr-peanut/dr-peanut-e-confiavel-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Colher com pasta de amendoim sobre pote aberto de Bombom Italiano, em cena promocional oficial da Dr. Peanut, ao lado da pergunta Dr. Peanut é confiável?.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Sem geração por IA no produto.
+- **Lote 31 do piloto de capas (sequência 10 do Codex, revisão independente do GPT-6.1 Terra):** aprovado visualmente pelo Bruno em 11/11/2026, finais em `docs/auditoria-capas/lote-20261111-31/out/` no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/dr-peanut/dr-peanut-confiavel-capa-discover.webp`) fica no CDN, sem uso como capa.

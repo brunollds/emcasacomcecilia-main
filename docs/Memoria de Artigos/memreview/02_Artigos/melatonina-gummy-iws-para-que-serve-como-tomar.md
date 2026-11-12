@@ -104,3 +104,10 @@ primárias.
 - `npm run lint`: aprovado.
 - `npm run build`: aprovado, 309 páginas.
 - Inspeção local: cinco imagens carregam; hero sem preenchimento branco; imagens quadradas avulsas limitadas a 520 px; tabela e 10 FAQs renderizam; link de cupom permanece interno e links da loja usam `rel="sponsored"`.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/iwannasleep/melatonina-gummy-iws-para-que-serve-como-tomar-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Três potes de Melatonina Gummy Maracujá Doce da I Wanna Sleep, com uma mão sobre o pote central, frutas e gomas em cena oficial de divulgação, ao lado da chamada Melatonina Gummy IWS e do apoio Uso e cuidados.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Sem geração por IA no produto.
+- **Lote 33 do piloto de capas (sequência 10 do Codex, revisão independente do GPT-6.1 Terra):** aprovado visualmente pelo Bruno em 11/11/2026, finais em `docs/auditoria-capas/lote-20261111-33/out/` no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/iwannasleep/melatonina-gummy-iws-capa-discover.webp`) fica no CDN, sem uso como capa.

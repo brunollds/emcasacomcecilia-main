@@ -431,3 +431,10 @@ O Em Casa com Cecília é parceiro da Dr. Peanut e recebe comissão pelas compra
 ## Atualização de 25/10/2026 (Bruno)
 
 O Chocolate Branco saiu da loja (não está no sitemap de produtos em 25/10/2026). O guia passou a dizer 10 sabores à venda; a foto dos potes e a linha do quadro do Chocolate Branco ficam, com a data de 16/10 e "fora de venda em 25/10/2026", e ele saiu das recomendações por perfil e das listas.
+
+## Capa v2 (11/11/2026)
+
+- **Capa:** `/images/reviews/dr-peanut/dr-peanut-melhor-sabor-capa-v2.webp` (`imageFit: contain`).
+- **Alt:** Pote aberto de pasta de amendoim Brownie de 600 g, com colher e pedaços de brownie sobre madeira, em cena promocional oficial da Dr. Peanut, ao lado da pergunta Qual sabor escolher?.
+- **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Sem geração por IA no produto.
+- **Lote 32 do piloto de capas (sequência 10 do Codex, revisão independente do GPT-6.1 Terra):** aprovado visualmente pelo Bruno em 11/11/2026, finais em `docs/auditoria-capas/lote-20261111-32/out/` no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/dr-peanut/dr-peanut-melhor-sabor-capa.webp`) fica no CDN, sem uso como capa.
