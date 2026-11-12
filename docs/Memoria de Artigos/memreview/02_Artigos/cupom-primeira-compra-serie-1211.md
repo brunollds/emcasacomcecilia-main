@@ -94,7 +94,11 @@ Sem quadro `decision`: não há dois benefícios para escolher.
   para quem já comprou" entra em todo artigo da série. O único com limite é o CECI da Dolce Gusto, por campanha:
   dado interno, que o artigo não cita. Mecânica própria segue à parte: o SONAR20 da Hostinger não vale em
   renovação, e o CECILIA010 da YesStyle dá percentual menor depois da primeira compra.
-- **Pix:** o cupom soma com o desconto do Pix por padrão, salvo quando a loja avisa o contrário (Bruno, 12/11).
+- **Pix:** o cupom soma com o desconto do Pix por padrão, salvo quando a loja avisa o contrário (Bruno, 12/11). Não
+  pede teste novo; o percentual do Pix só entra com a leitura do dia.
+- **Data de teste:** a conta do artigo é a do teste da página da loja (`testNote` e `testedAt` de `couponsData.ts`),
+  citada como o teste da página, com a data dele. Publicar o artigo não cria teste novo nem avança o `testedAt`;
+  reler preço é leitura, não teste.
 - **Link para `/cupons/<loja>`** com a âncora "cupom <loja>", e para o "como usar" da loja.
 - **Catraca:** até 2 datas no corpo, nenhuma em título, legenda ou FAQ; subtítulo de até 180 caracteres.
 - **Texto próprio em cada loja.** O molde dá a ordem; os parágrafos não são copiados de uma loja para a outra, e a
@@ -154,6 +158,25 @@ O Bruno confirmou em 12/11 que o código vale para quem já comprou nas quatro: 
 
 A Hostinger (onda 2), a YesStyle e a SHEIN ganham artigo separado na próxima fase, depois das lojas de código comum
 (Bruno, 12/11).
+
+## Briefings por loja (12/11/2026)
+
+Cada loja de código comum tem o briefing dela, que vale sobre a linha da loja nas tabelas acima:
+
+- **Lote 1:** [[cupom-damie-primeira-compra]].
+- **Lote 2 (busca medida):** [[cupom-skelt-primeira-compra]], [[cupom-probiotica-primeira-compra]] e
+  [[cupom-insider-primeira-compra]].
+- **Lote 3:** [[cupom-bagaggio-primeira-compra]], [[cupom-mais-mu-primeira-compra]],
+  [[cupom-black-skull-primeira-compra]], [[cupom-toda-up-primeira-compra]] e [[cupom-nestle-nutre-primeira-compra]].
+- **Lote 4:** [[cupom-dolce-gusto-primeira-compra]], [[cupom-max-titanium-primeira-compra]],
+  [[cupom-dr-peanut-primeira-compra]], [[cupom-belive-primeira-compra]] e [[cupom-holyfoods-primeira-compra]].
+- **Lote 5:** [[cupom-petz-primeira-compra]], [[cupom-letseatit-primeira-compra]],
+  [[cupom-i-wanna-sleep-primeira-compra]], [[cupom-simple-organic-primeira-compra]] e
+  [[cupom-clea-store-primeira-compra]].
+- **Artigo curto:** [[cupom-magalu-primeira-compra]].
+
+Os briefings saíram das fichas, de `couponsData.ts` e dos dossiês, sem leitura nova de site e sem teste de carrinho.
+O que cada um marca "a ler" é leitura da redação, no navegador.
 
 ## Medição
 

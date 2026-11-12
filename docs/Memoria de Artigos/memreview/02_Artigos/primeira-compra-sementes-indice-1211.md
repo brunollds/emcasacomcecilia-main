@@ -27,7 +27,9 @@ Valem sobre o molde e sobre o que as fichas propõem nas seções 5 e 7.
 - **Magalu:** artigo curto. **Lejour:** fora da série.
 - **Hostinger, YesStyle e SHEIN:** artigo separado, na próxima fase, depois das lojas de código comum.
 - **Simple Organic:** o código entra em tudo, porque funcionou nos testes; a política da loja não muda o texto.
-- **Dr. Peanut:** o mínimo do frete grátis conta antes do cupom.
+- **Dr. Peanut:** o mínimo do frete grátis conta antes do cupom. *Corrigido no mesmo dia:* o teste de carrinho da
+  sessão de cupons mostrou que conta depois (R$ 155,34 com frete grátis; R$ 139,80 e R$ 12,23 de frete com o código),
+  e é isso que a página e o briefing dizem.
 - **Let's Eat It:** cashback de 15%, como a home anuncia; o texto com 30% é atualizado.
 - **Nestlé Nutre e Bagaggio:** as páginas de loja não precisam comparar com o cupom de primeira compra da loja.
 - **Cléa Store:** o CSEMCASACOMCECILIA vale de novo para quem já comprou (Bruno, 12/11). A frase dos termos da
