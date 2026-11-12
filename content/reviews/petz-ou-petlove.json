@@ -206,7 +206,7 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "Você quer retirar a compra numa loja física: a Petz tem 5% na retirada, que soma com o EMCASA, e a Petlove não mostrou desconto para isso.",
+      "Você quer retirar a compra numa loja física: a Petz tem 5% na retirada, que soma com o EMCASA (14,5% no total nos itens fora de oferta), e a Petlove não mostrou desconto para isso.",
       "Você já é membro do Clube Petlove: com o preço de membro, a Petlove ficou abaixo em três dos cinco itens comparáveis com esse preço."
     ],
     "skipIf": [
