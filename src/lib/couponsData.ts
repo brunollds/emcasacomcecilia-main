@@ -3143,14 +3143,14 @@ const STORE_COUPONS: Coupon[] = [
     eligibleCategories: 'Produtos do site oficial da Prohall; o desconto chega a 10% e pode ser menor: nos nossos testes, foi de 7%',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Pode ser usado em mais de uma compra, segundo a parceria',
-    shipping: 'Frete grátis a partir de um mínimo por região, segundo a página de pagamento e envio da loja: R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste',
+    shipping: 'Frete grátis a partir de um mínimo por região, segundo a página de pagamento e envio da loja: R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste; o mínimo conta depois do cupom',
     combinable:
       'Soma com as promoções vigentes do site e vale com todas as formas de pagamento; não junta com o cupom de cashback da loja',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: nos testes, tirou 7% de produtos que já estavam com desconto' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
       { benefit: 'cashback', stacks: 'nao', condition: 'O cashback da loja chega como cupom para a compra seguinte e não junta com outro cupom' },
-      { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste; o mínimo conta depois do cupom' },
     ],
     paymentPerks: [
       'Até 10x sem juros no cartão, com parcela mínima de R$ 20',
@@ -3207,9 +3207,13 @@ const STORE_COUPONS: Coupon[] = [
           'No checkout do site oficial: toque em "Tem um cupom?", digite CECILIAMC no campo "Código do cupom" e toque em "Aplicar". O resumo da compra passa a mostrar a linha "Cupom CECILIAMC".',
       },
       {
+        question: 'O cupom CECILIAMC vale no app da Prohall?',
+        answer: 'Sim. O CECILIAMC vale no site oficial e no app da Prohall.',
+      },
+      {
         question: 'O cupom dá frete grátis?',
         answer:
-          'O cupom não dá frete grátis. A Prohall tem frete grátis a partir de R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste.',
+          'O cupom não dá frete grátis. A Prohall tem frete grátis a partir de R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste. O mínimo conta depois do cupom: é o valor do carrinho já com o desconto que precisa chegar a ele.',
       },
       {
         question: 'O que fazer se o cupom CECILIAMC não funcionar?',
