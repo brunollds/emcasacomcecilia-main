@@ -84,7 +84,7 @@
         "Los 20% valen solo en el primer período, así que el ciclo que eliges en el primer pedido decide durante cuántos meses rinde el descuento. Un ciclo corto sirve para probar el hosting, pero el ahorro es menor y la renovación llega pronto. Un ciclo largo, como el de 48 meses, sirve para quien ya decidió quedarse: los 20% valen sobre el período entero, y la renovación solo llega al final de ese período."
       ],
       "comparisonTable": {
-        "caption": "Plan Startup en el carrito del sitio global, el 29 de octubre de 2026: precio sin el código y con SONAR20",
+        "caption": "Plan Startup en el carrito del sitio global, el 13 de noviembre de 2026: precio sin el código y con SONAR20",
         "headers": [
           "Ciclo",
           "Sin el código",
@@ -92,6 +92,12 @@
           "Cuándo renueva"
         ],
         "rows": [
+          [
+            "1 mes",
+            "US$ 27,99",
+            "US$ 22,39",
+            "Al final del primer mes"
+          ],
           [
             "48 meses",
             "US$ 383,52",
@@ -107,7 +113,7 @@
     {
       "heading": "Cuánto ahorras",
       "paragraphs": [
-        "Nuestra cuenta, con los precios del carrito de la prueba: en el ciclo de 48 meses, los 20% restan US$ 76,70 del total. Los 20% valen en el primer período del ciclo que elijas; el porcentaje es el mismo en todos los ciclos, y el ahorro en dólares depende del precio de cada uno.",
+        "Nuestra cuenta, con los precios del carrito de la prueba: en el ciclo de 48 meses, los 20% restan US$ 76,70 del total, y en el de 1 mes, US$ 5,60. Los 20% valen en el primer período del ciclo que elijas; el porcentaje es el mismo en todos los ciclos, y el ahorro en dólares depende del precio de cada uno.",
         "Los 20% se aplican sobre el precio que el carrito ya muestra, que en nuestra prueba era el de la [Black Friday de Hostinger](/es/reviews/black-friday-hostinger-ofertas). El precio de campaña cambia; revisa el total en el resumen antes de pagar."
       ]
     },
@@ -137,13 +143,22 @@
       "postParagraphs": [
         "El enlace de este artículo incluye SONAR20, pero no todos los planes entran con el código aplicado. Comprueba el descuento en el resumen; si no aparece, pega el código en el campo.",
         "Para saber qué cubre el código en cada plan, mira [cómo usar el cupón Hostinger](/es/reviews/cupon-hostinger-codigo-de-referido)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-carrinho-global.webp",
+          "alt": "Carrito de Hostinger con el plan Startup de 48 meses y el resumen del pedido, que muestra la línea «Coupon applied» con la etiqueta SONAR20 y el total de US$ 306,82.",
+          "caption": "SONAR20 aplicado en el resumen del pedido, en nuestra prueba con el plan Startup de 48 meses: la línea del cupón muestra -US$ 76,70. La cifra de «You're saving» suma la campaña de la tienda al cupón. Imagen: captura de pantalla de Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.829
+        }
       ]
     },
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
         "¿Hay cupón Hostinger para la primera compra? Sí: SONAR20 da 20% en el primer período de un plan nuevo.",
-        "¿El cupón Hostinger vale en el plan mensual? Nuestra prueba, en el sitio global, fue solo con el ciclo de 48 meses. En el plan mensual, comprueba el descuento en el carrito antes de pagar.",
+        "¿El cupón Hostinger vale en el plan mensual? En nuestra prueba, sí: el plan de 1 mes también recibió los 20%. Comprueba el descuento en el carrito para el ciclo que elijas.",
         "¿SONAR20 da descuento en la renovación? No. La renovación sale a precio de lista, que aparece en el carrito debajo del plan.",
         "¿El cupón vale para dominios? No para un dominio suelto. Vale en compras nuevas de hosting, VPS, correo profesional y Reach."
       ]
