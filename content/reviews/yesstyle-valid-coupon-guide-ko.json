@@ -24,9 +24,10 @@
       "initials": "BL"
     }
   ],
-  "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
-  "imageAlt": "YesStyle에서 할인 중인 K-뷰티와 한국 화장품 모음.",
-  "imageFit": "cover",
+  "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-ko-v2.webp",
+  "imageAlt": "분홍색 헤어밴드를 착용한 Cecília가 분홍색 Abib 하이드로겔 아이패치의 열린 용기를 보여 주는 자체 영상 장면. 제목은 “쿠폰 찾고 함께 쓰는 법”, 부제는 “매장 쿠폰 + 리워드 코드”이며 리워드 코드 CECILIA010가 표시되어 있다.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "pros": [
     "결제 단계에서 실수하지 않도록 Coupon Code와 Reward Code의 차이를 알려 줍니다",
     "이달의 쿠폰과 CECILIA010을 함께 쓰는 중복 적용(스태킹) 방법을 설명합니다",

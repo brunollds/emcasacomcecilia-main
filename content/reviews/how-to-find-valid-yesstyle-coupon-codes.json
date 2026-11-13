@@ -25,9 +25,10 @@
       "initials": "BL"
     }
   ],
-  "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
-  "imageAlt": "A selection of K-beauty products and Korean cosmetics on sale at YesStyle.",
-  "imageFit": "cover",
+  "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-en-v2.webp",
+  "imageAlt": "Cecília with a pink headband showing an open jar of pink Abib hydrogel eye patches in a frame from her own video. Cover text: “How to find and stack coupons” and “Store coupon + Reward Code”, with Reward Code CECILIA010.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "pros": [
     "Teaches you to tell a Coupon Code from a Reward Code so you avoid checkout mistakes",
     "Explains stacking: adding the month's coupon on top of CECILIA010",

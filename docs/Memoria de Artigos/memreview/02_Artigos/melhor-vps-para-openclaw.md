@@ -272,3 +272,20 @@ Lida no Chrome do Bruno, sem abrir link de indicação nem carrinho. As páginas
 - **O que mudou nas 10 versões:** `coupon: "SONAR20"`; links `?REFERRALCODE=SONAR20` com o caminho mantido (PT em `/br`); saíram "não há código", "só no link", "12 meses ou mais", "só cliente novo" e "não soma"; "com/sem a indicação" virou "com/sem o SONAR20"; a nota de transparência fala em comissão, sem o "crédito na Hostinger".
 - **Renovação:** o SONAR20 não dá desconto na renovação (termos do programa, 05/11; os artigos foram corrigidos no #580). O texto diz "a renovação sai pelo preço da tabela"; os preços de renovação lidos na página seguem nas tabelas como preço de tabela.
 - **Regras daqui em diante:** as do dossiê [[Hostinger]] (seção 3). As instruções de "indicação, sem código" acima ficam só como histórico.
+
+## Capa v2 (12/11/2026)
+
+- **Capas:** uma por idioma, com a chamada no idioma da página (`imageFit: contain`; parecer vigente na Origem):
+  - de (`bester-vps-fuer-openclaw`): `/images/reviews/hostinger/melhor-vps-para-openclaw-capa-de-v2.webp`, SHA-256 `d415c917c3492cba1442a2cf6ac512735279b811a56a47a573e6057b64505f0a`
+  - en (`best-vps-for-openclaw`): `/images/reviews/hostinger/melhor-vps-para-openclaw-capa-en-v2.webp`, SHA-256 `ae5218ef47ba0ba520a6dcd5e4c9c88e75894d556b9f4c3125eaa926d1045a01`
+  - es (`mejor-vps-para-openclaw`): `/images/reviews/hostinger/melhor-vps-para-openclaw-capa-es-v2.webp`, SHA-256 `f00d0e471a877beae299c7c4e90a3c52fdfcd9207bbb44eb718b343e0cb4b25b`
+  - fr (`meilleur-vps-pour-openclaw`): `/images/reviews/hostinger/melhor-vps-para-openclaw-capa-fr-v2.webp`, SHA-256 `dba6f7b19aca3e33247d2280139bc3141d3e55f1436854343095edb6f71c0547`
+  - it (`miglior-vps-per-openclaw`): `/images/reviews/hostinger/melhor-vps-para-openclaw-capa-it-v2.webp`, SHA-256 `35a7497a6473358e95627f33c3228078688684671eb67226bd13288a73a703d8`
+  - ja (`best-vps-for-openclaw-ja`): `/images/reviews/hostinger/melhor-vps-para-openclaw-capa-ja-v2.webp`, SHA-256 `7ad31f0cbc11c57c30d1bf6fb477610d00bc5e53715c23ea3747574bafe34e28`
+  - ko (`best-vps-for-openclaw-ko`): `/images/reviews/hostinger/melhor-vps-para-openclaw-capa-ko-v2.webp`, SHA-256 `9ee26a548060d7fab6d9d9227f2fbfd1911f27280cc7ece763b11b845edabaa4`
+  - pt (`melhor-vps-para-openclaw`): `/images/reviews/hostinger/melhor-vps-para-openclaw-capa-pt-v2.webp`, SHA-256 `fef724627cef50ff0ced29b8089668afd2cf7603d069f7b7d9201b2788da2cb2`
+  - zh-hans (`best-vps-for-openclaw-zh-hans`): `/images/reviews/hostinger/melhor-vps-para-openclaw-capa-zh-hans-v2.webp`, SHA-256 `35b26601e36285135810153bdff92e5258fdf302d6f68d9cabbd1420a526e447`
+  - zh-hant (`best-vps-for-openclaw-zh-hant`): `/images/reviews/hostinger/melhor-vps-para-openclaw-capa-zh-hant-v2.webp`, SHA-256 `27fffab303d6b22b74a9bd46ccbe8e6e0c23b7a3328d57ff210650e84d5097fc`
+- **Alt (PT):** Detalhe de conexões e cabos de rede, em foto ilustrativa com o logo da Hostinger e os textos «Qual VPS para o OpenClaw?» / «Memória e modelo de IA» e SONAR20.
+- **Origem:** conexões e cabos de rede, foto ilustrativa; fonte, autoria e licença específicas no registro do lote (Stock Burst/Shopify ou Kaboompics, nem todas CC0). Não representa datacenter, hardware, interface nem teste contratado na Hostinger. O SONAR20 sai sem o rótulo de planos novos em todos os idiomas (parecer vigente: lotes/42/revisao-terra/ADENDO-SEM-ROTULO.json); as condições de uso do código seguem no artigo.
+- **Lote 42 do piloto de capas (sequência 14 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-80-HEROES-80-PAGINAS-SEQUENCIA-14-CLAUDE.zip` (`lotes/42/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp`) fica no CDN, sem uso como capa.

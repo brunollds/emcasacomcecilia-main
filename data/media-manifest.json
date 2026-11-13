@@ -51201,6 +51201,386 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-de-v2.webp",
+      "local_url": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-de-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 74862,
+      "sha256": "8eb2bf1a17c71a06af3daaeba0b3bfc4dd52dde03a2ad12db47efd4687af647d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "como-encontrar-cupons-yesstyle-validos-capa-de-v2.webp",
+      "storage_filename": "como-encontrar-cupons-yesstyle-validos-capa-de-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/gueltige-yesstyle-gutscheincodes-finden.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/gueltige-yesstyle-gutscheincodes-finden.json",
+          "line": 27,
+          "column": 13,
+          "literal": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-de-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/8eb2bf1a17c71a06af3daaeba0b3bfc4dd52dde03a2ad12db47efd4687af647d/como-encontrar-cupons-yesstyle-validos-capa-de-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8eb2bf1a17c71a06af3daaeba0b3bfc4dd52dde03a2ad12db47efd4687af647d/como-encontrar-cupons-yesstyle-validos-capa-de-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.200Z",
+      "verification_etag_or_digest": "8eb2bf1a17c71a06af3daaeba0b3bfc4dd52dde03a2ad12db47efd4687af647d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-en-v2.webp",
+      "local_url": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-en-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 73458,
+      "sha256": "4ca5fd10e4dd2cca1c640da3baf2c439e6dc49e6e02a530e7b34fface642a1dd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "como-encontrar-cupons-yesstyle-validos-capa-en-v2.webp",
+      "storage_filename": "como-encontrar-cupons-yesstyle-validos-capa-en-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/how-to-find-valid-yesstyle-coupon-codes.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/how-to-find-valid-yesstyle-coupon-codes.json",
+          "line": 28,
+          "column": 13,
+          "literal": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-en-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4ca5fd10e4dd2cca1c640da3baf2c439e6dc49e6e02a530e7b34fface642a1dd/como-encontrar-cupons-yesstyle-validos-capa-en-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4ca5fd10e4dd2cca1c640da3baf2c439e6dc49e6e02a530e7b34fface642a1dd/como-encontrar-cupons-yesstyle-validos-capa-en-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "4ca5fd10e4dd2cca1c640da3baf2c439e6dc49e6e02a530e7b34fface642a1dd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-es-v2.webp",
+      "local_url": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-es-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 81180,
+      "sha256": "7be54cd5c9aa837bcf6553bae57915e19b822f03e56b8e7a2a531105a7fe46dc",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "como-encontrar-cupons-yesstyle-validos-capa-es-v2.webp",
+      "storage_filename": "como-encontrar-cupons-yesstyle-validos-capa-es-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/como-encontrar-cupones-yesstyle-validos.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/como-encontrar-cupones-yesstyle-validos.json",
+          "line": 27,
+          "column": 13,
+          "literal": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-es-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7be54cd5c9aa837bcf6553bae57915e19b822f03e56b8e7a2a531105a7fe46dc/como-encontrar-cupons-yesstyle-validos-capa-es-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7be54cd5c9aa837bcf6553bae57915e19b822f03e56b8e7a2a531105a7fe46dc/como-encontrar-cupons-yesstyle-validos-capa-es-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "7be54cd5c9aa837bcf6553bae57915e19b822f03e56b8e7a2a531105a7fe46dc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-fr-v2.webp",
+      "local_url": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-fr-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 76300,
+      "sha256": "a257f3cfc225ab21d5cee3d4670ef6c66ceeb716ce797670e0d6ffdcac45051b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "como-encontrar-cupons-yesstyle-validos-capa-fr-v2.webp",
+      "storage_filename": "como-encontrar-cupons-yesstyle-validos-capa-fr-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/comment-trouver-des-codes-promo-yesstyle-valides.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/comment-trouver-des-codes-promo-yesstyle-valides.json",
+          "line": 27,
+          "column": 13,
+          "literal": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-fr-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a257f3cfc225ab21d5cee3d4670ef6c66ceeb716ce797670e0d6ffdcac45051b/como-encontrar-cupons-yesstyle-validos-capa-fr-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a257f3cfc225ab21d5cee3d4670ef6c66ceeb716ce797670e0d6ffdcac45051b/como-encontrar-cupons-yesstyle-validos-capa-fr-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "a257f3cfc225ab21d5cee3d4670ef6c66ceeb716ce797670e0d6ffdcac45051b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-it-v2.webp",
+      "local_url": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-it-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 80870,
+      "sha256": "98ed4659ab06bbad908ed7e0fe2401c3527a713b8460d04e77e6432e10457089",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "como-encontrar-cupons-yesstyle-validos-capa-it-v2.webp",
+      "storage_filename": "como-encontrar-cupons-yesstyle-validos-capa-it-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/come-trovare-codici-sconto-yesstyle-validi.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/come-trovare-codici-sconto-yesstyle-validi.json",
+          "line": 28,
+          "column": 13,
+          "literal": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-it-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/98ed4659ab06bbad908ed7e0fe2401c3527a713b8460d04e77e6432e10457089/como-encontrar-cupons-yesstyle-validos-capa-it-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/98ed4659ab06bbad908ed7e0fe2401c3527a713b8460d04e77e6432e10457089/como-encontrar-cupons-yesstyle-validos-capa-it-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "98ed4659ab06bbad908ed7e0fe2401c3527a713b8460d04e77e6432e10457089",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-ja-v2.webp",
+      "local_url": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-ja-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 73646,
+      "sha256": "7b769e1cc003be56296d0bbdc87098d533a58ce8046a4bc5f054a6945c2aff7b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "como-encontrar-cupons-yesstyle-validos-capa-ja-v2.webp",
+      "storage_filename": "como-encontrar-cupons-yesstyle-validos-capa-ja-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-valid-coupon-guide-ja.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-valid-coupon-guide-ja.json",
+          "line": 27,
+          "column": 13,
+          "literal": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-ja-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7b769e1cc003be56296d0bbdc87098d533a58ce8046a4bc5f054a6945c2aff7b/como-encontrar-cupons-yesstyle-validos-capa-ja-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7b769e1cc003be56296d0bbdc87098d533a58ce8046a4bc5f054a6945c2aff7b/como-encontrar-cupons-yesstyle-validos-capa-ja-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "7b769e1cc003be56296d0bbdc87098d533a58ce8046a4bc5f054a6945c2aff7b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-ko-v2.webp",
+      "local_url": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-ko-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 68694,
+      "sha256": "e5b1228dc982a9f72aec4a804b6a6cab3f18051b324718d2b4b8c5fecff928e3",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "como-encontrar-cupons-yesstyle-validos-capa-ko-v2.webp",
+      "storage_filename": "como-encontrar-cupons-yesstyle-validos-capa-ko-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-valid-coupon-guide-ko.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-valid-coupon-guide-ko.json",
+          "line": 27,
+          "column": 13,
+          "literal": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-ko-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e5b1228dc982a9f72aec4a804b6a6cab3f18051b324718d2b4b8c5fecff928e3/como-encontrar-cupons-yesstyle-validos-capa-ko-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e5b1228dc982a9f72aec4a804b6a6cab3f18051b324718d2b4b8c5fecff928e3/como-encontrar-cupons-yesstyle-validos-capa-ko-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "e5b1228dc982a9f72aec4a804b6a6cab3f18051b324718d2b4b8c5fecff928e3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-pt-v2.webp",
+      "local_url": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 82696,
+      "sha256": "317c6f38adfe63b781d27bf5e2e96cbe53c042ff74e1f32d93063921a4bd9b60",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "como-encontrar-cupons-yesstyle-validos-capa-pt-v2.webp",
+      "storage_filename": "como-encontrar-cupons-yesstyle-validos-capa-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/como-encontrar-cupons-yesstyle-validos.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/como-encontrar-cupons-yesstyle-validos.json",
+          "line": 28,
+          "column": 13,
+          "literal": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/317c6f38adfe63b781d27bf5e2e96cbe53c042ff74e1f32d93063921a4bd9b60/como-encontrar-cupons-yesstyle-validos-capa-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/317c6f38adfe63b781d27bf5e2e96cbe53c042ff74e1f32d93063921a4bd9b60/como-encontrar-cupons-yesstyle-validos-capa-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "317c6f38adfe63b781d27bf5e2e96cbe53c042ff74e1f32d93063921a4bd9b60",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-zh-hans-v2.webp",
+      "local_url": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-zh-hans-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 80372,
+      "sha256": "a773c61a8474d3eae9825b0b41a762282b96f517ec8b56a4ae6244a140b1e352",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "como-encontrar-cupons-yesstyle-validos-capa-zh-hans-v2.webp",
+      "storage_filename": "como-encontrar-cupons-yesstyle-validos-capa-zh-hans-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-valid-coupon-guide-zh-hans.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-valid-coupon-guide-zh-hans.json",
+          "line": 27,
+          "column": 13,
+          "literal": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-zh-hans-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a773c61a8474d3eae9825b0b41a762282b96f517ec8b56a4ae6244a140b1e352/como-encontrar-cupons-yesstyle-validos-capa-zh-hans-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a773c61a8474d3eae9825b0b41a762282b96f517ec8b56a4ae6244a140b1e352/como-encontrar-cupons-yesstyle-validos-capa-zh-hans-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "a773c61a8474d3eae9825b0b41a762282b96f517ec8b56a4ae6244a140b1e352",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-zh-hant-v2.webp",
+      "local_url": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-zh-hant-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 80286,
+      "sha256": "efb6048f497d0a577956359f9e0afab2bb4c374c76f1951f312bbe12ccb2ef85",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "como-encontrar-cupons-yesstyle-validos-capa-zh-hant-v2.webp",
+      "storage_filename": "como-encontrar-cupons-yesstyle-validos-capa-zh-hant-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-valid-coupon-guide-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-valid-coupon-guide-zh-hant.json",
+          "line": 27,
+          "column": 13,
+          "literal": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-zh-hant-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/efb6048f497d0a577956359f9e0afab2bb4c374c76f1951f312bbe12ccb2ef85/como-encontrar-cupons-yesstyle-validos-capa-zh-hant-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/efb6048f497d0a577956359f9e0afab2bb4c374c76f1951f312bbe12ccb2ef85/como-encontrar-cupons-yesstyle-validos-capa-zh-hant-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "efb6048f497d0a577956359f9e0afab2bb4c374c76f1951f312bbe12ccb2ef85",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/cupons/cupom-ceci-nescafe-dolce-gusto-como-usar-capa-v2.webp",
       "local_url": "/images/reviews/cupons/cupom-ceci-nescafe-dolce-gusto-como-usar-capa-v2.webp",
       "media_kind": "image",
@@ -75685,6 +76065,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-capa-de-v2.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-de-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 328126,
+      "sha256": "d415c917c3492cba1442a2cf6ac512735279b811a56a47a573e6057b64505f0a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-capa-de-v2.webp",
+      "storage_filename": "melhor-vps-para-openclaw-capa-de-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bester-vps-fuer-openclaw.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bester-vps-fuer-openclaw.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-de-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d415c917c3492cba1442a2cf6ac512735279b811a56a47a573e6057b64505f0a/melhor-vps-para-openclaw-capa-de-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d415c917c3492cba1442a2cf6ac512735279b811a56a47a573e6057b64505f0a/melhor-vps-para-openclaw-capa-de-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "d415c917c3492cba1442a2cf6ac512735279b811a56a47a573e6057b64505f0a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
       "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
       "media_kind": "image",
@@ -75792,6 +76210,348 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T18:58:08.588Z",
       "verification_etag_or_digest": "b1d203771ac00ef8e4b0d4da6c58cf92cf924ef3c34bbbd6ccb0c1ff72dd0a59",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-capa-en-v2.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-en-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 325346,
+      "sha256": "ae5218ef47ba0ba520a6dcd5e4c9c88e75894d556b9f4c3125eaa926d1045a01",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-capa-en-v2.webp",
+      "storage_filename": "melhor-vps-para-openclaw-capa-en-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/best-vps-for-openclaw.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/best-vps-for-openclaw.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-en-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ae5218ef47ba0ba520a6dcd5e4c9c88e75894d556b9f4c3125eaa926d1045a01/melhor-vps-para-openclaw-capa-en-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ae5218ef47ba0ba520a6dcd5e4c9c88e75894d556b9f4c3125eaa926d1045a01/melhor-vps-para-openclaw-capa-en-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "ae5218ef47ba0ba520a6dcd5e4c9c88e75894d556b9f4c3125eaa926d1045a01",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-capa-es-v2.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-es-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 326126,
+      "sha256": "f00d0e471a877beae299c7c4e90a3c52fdfcd9207bbb44eb718b343e0cb4b25b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-capa-es-v2.webp",
+      "storage_filename": "melhor-vps-para-openclaw-capa-es-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mejor-vps-para-openclaw.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mejor-vps-para-openclaw.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-es-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f00d0e471a877beae299c7c4e90a3c52fdfcd9207bbb44eb718b343e0cb4b25b/melhor-vps-para-openclaw-capa-es-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f00d0e471a877beae299c7c4e90a3c52fdfcd9207bbb44eb718b343e0cb4b25b/melhor-vps-para-openclaw-capa-es-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "f00d0e471a877beae299c7c4e90a3c52fdfcd9207bbb44eb718b343e0cb4b25b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-capa-fr-v2.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-fr-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 325710,
+      "sha256": "dba6f7b19aca3e33247d2280139bc3141d3e55f1436854343095edb6f71c0547",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-capa-fr-v2.webp",
+      "storage_filename": "melhor-vps-para-openclaw-capa-fr-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/meilleur-vps-pour-openclaw.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/meilleur-vps-pour-openclaw.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-fr-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/dba6f7b19aca3e33247d2280139bc3141d3e55f1436854343095edb6f71c0547/melhor-vps-para-openclaw-capa-fr-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dba6f7b19aca3e33247d2280139bc3141d3e55f1436854343095edb6f71c0547/melhor-vps-para-openclaw-capa-fr-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "dba6f7b19aca3e33247d2280139bc3141d3e55f1436854343095edb6f71c0547",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-capa-it-v2.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-it-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 325502,
+      "sha256": "35a7497a6473358e95627f33c3228078688684671eb67226bd13288a73a703d8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-capa-it-v2.webp",
+      "storage_filename": "melhor-vps-para-openclaw-capa-it-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/miglior-vps-per-openclaw.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/miglior-vps-per-openclaw.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-it-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/35a7497a6473358e95627f33c3228078688684671eb67226bd13288a73a703d8/melhor-vps-para-openclaw-capa-it-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/35a7497a6473358e95627f33c3228078688684671eb67226bd13288a73a703d8/melhor-vps-para-openclaw-capa-it-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "35a7497a6473358e95627f33c3228078688684671eb67226bd13288a73a703d8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-capa-ja-v2.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-ja-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 325154,
+      "sha256": "7ad31f0cbc11c57c30d1bf6fb477610d00bc5e53715c23ea3747574bafe34e28",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-capa-ja-v2.webp",
+      "storage_filename": "melhor-vps-para-openclaw-capa-ja-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/best-vps-for-openclaw-ja.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/best-vps-for-openclaw-ja.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-ja-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7ad31f0cbc11c57c30d1bf6fb477610d00bc5e53715c23ea3747574bafe34e28/melhor-vps-para-openclaw-capa-ja-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7ad31f0cbc11c57c30d1bf6fb477610d00bc5e53715c23ea3747574bafe34e28/melhor-vps-para-openclaw-capa-ja-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "7ad31f0cbc11c57c30d1bf6fb477610d00bc5e53715c23ea3747574bafe34e28",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-capa-ko-v2.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-ko-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 323692,
+      "sha256": "9ee26a548060d7fab6d9d9227f2fbfd1911f27280cc7ece763b11b845edabaa4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-capa-ko-v2.webp",
+      "storage_filename": "melhor-vps-para-openclaw-capa-ko-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/best-vps-for-openclaw-ko.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/best-vps-for-openclaw-ko.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-ko-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9ee26a548060d7fab6d9d9227f2fbfd1911f27280cc7ece763b11b845edabaa4/melhor-vps-para-openclaw-capa-ko-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9ee26a548060d7fab6d9d9227f2fbfd1911f27280cc7ece763b11b845edabaa4/melhor-vps-para-openclaw-capa-ko-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "9ee26a548060d7fab6d9d9227f2fbfd1911f27280cc7ece763b11b845edabaa4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-capa-pt-v2.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 333542,
+      "sha256": "fef724627cef50ff0ced29b8089668afd2cf7603d069f7b7d9201b2788da2cb2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-capa-pt-v2.webp",
+      "storage_filename": "melhor-vps-para-openclaw-capa-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/melhor-vps-para-openclaw.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/melhor-vps-para-openclaw.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/fef724627cef50ff0ced29b8089668afd2cf7603d069f7b7d9201b2788da2cb2/melhor-vps-para-openclaw-capa-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fef724627cef50ff0ced29b8089668afd2cf7603d069f7b7d9201b2788da2cb2/melhor-vps-para-openclaw-capa-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "fef724627cef50ff0ced29b8089668afd2cf7603d069f7b7d9201b2788da2cb2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-capa-zh-hans-v2.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-zh-hans-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 325696,
+      "sha256": "35b26601e36285135810153bdff92e5258fdf302d6f68d9cabbd1420a526e447",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-capa-zh-hans-v2.webp",
+      "storage_filename": "melhor-vps-para-openclaw-capa-zh-hans-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/best-vps-for-openclaw-zh-hans.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/best-vps-for-openclaw-zh-hans.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-zh-hans-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/35b26601e36285135810153bdff92e5258fdf302d6f68d9cabbd1420a526e447/melhor-vps-para-openclaw-capa-zh-hans-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/35b26601e36285135810153bdff92e5258fdf302d6f68d9cabbd1420a526e447/melhor-vps-para-openclaw-capa-zh-hans-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "35b26601e36285135810153bdff92e5258fdf302d6f68d9cabbd1420a526e447",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-capa-zh-hant-v2.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-zh-hant-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 327202,
+      "sha256": "27fffab303d6b22b74a9bd46ccbe8e6e0c23b7a3328d57ff210650e84d5097fc",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-capa-zh-hant-v2.webp",
+      "storage_filename": "melhor-vps-para-openclaw-capa-zh-hant-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/best-vps-for-openclaw-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/best-vps-for-openclaw-zh-hant.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-zh-hant-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/27fffab303d6b22b74a9bd46ccbe8e6e0c23b7a3328d57ff210650e84d5097fc/melhor-vps-para-openclaw-capa-zh-hant-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/27fffab303d6b22b74a9bd46ccbe8e6e0c23b7a3328d57ff210650e84d5097fc/melhor-vps-para-openclaw-capa-zh-hant-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "27fffab303d6b22b74a9bd46ccbe8e6e0c23b7a3328d57ff210650e84d5097fc",
       "verification_status": "verified"
     },
     {
@@ -76436,6 +77196,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-de-v2.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-de-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 205972,
+      "sha256": "ef89a5382c256067ca83d40e0592f27730a360b75601558a0a1fdfb02ecb5382",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-de-v2.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-de-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-verwaltet-oder-vps.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-verwaltet-oder-vps.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-de-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ef89a5382c256067ca83d40e0592f27730a360b75601558a0a1fdfb02ecb5382/openclaw-hostinger-gerenciado-ou-vps-capa-de-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ef89a5382c256067ca83d40e0592f27730a360b75601558a0a1fdfb02ecb5382/openclaw-hostinger-gerenciado-ou-vps-capa-de-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "ef89a5382c256067ca83d40e0592f27730a360b75601558a0a1fdfb02ecb5382",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
       "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
       "media_kind": "image",
@@ -76543,6 +77341,348 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T18:58:08.588Z",
       "verification_etag_or_digest": "0ec00f7b3b41f76268d34d6b1872e788fd0037463a54df90d52350f4f996cb6f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-en-v2.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-en-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 194972,
+      "sha256": "7066821d3f57abe10fe75a2b97eb793f35d4891697025d713e5ef380749ffffa",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-en-v2.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-en-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-managed-or-vps.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-en-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7066821d3f57abe10fe75a2b97eb793f35d4891697025d713e5ef380749ffffa/openclaw-hostinger-gerenciado-ou-vps-capa-en-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7066821d3f57abe10fe75a2b97eb793f35d4891697025d713e5ef380749ffffa/openclaw-hostinger-gerenciado-ou-vps-capa-en-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "7066821d3f57abe10fe75a2b97eb793f35d4891697025d713e5ef380749ffffa",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-es-v2.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-es-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 201570,
+      "sha256": "e8f953f58048370014278e7dfa7c8375b6f2a8bf0e8181111e6b45bee75379e7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-es-v2.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-es-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-gestionado-o-vps.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-gestionado-o-vps.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-es-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e8f953f58048370014278e7dfa7c8375b6f2a8bf0e8181111e6b45bee75379e7/openclaw-hostinger-gerenciado-ou-vps-capa-es-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e8f953f58048370014278e7dfa7c8375b6f2a8bf0e8181111e6b45bee75379e7/openclaw-hostinger-gerenciado-ou-vps-capa-es-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "e8f953f58048370014278e7dfa7c8375b6f2a8bf0e8181111e6b45bee75379e7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-fr-v2.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-fr-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 192278,
+      "sha256": "71238acaa2a63b2a8e93185a6bcc16ff028a0b37f061310c275a8418f9d5fa32",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-fr-v2.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-fr-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-gere-ou-vps.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-gere-ou-vps.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-fr-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/71238acaa2a63b2a8e93185a6bcc16ff028a0b37f061310c275a8418f9d5fa32/openclaw-hostinger-gerenciado-ou-vps-capa-fr-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/71238acaa2a63b2a8e93185a6bcc16ff028a0b37f061310c275a8418f9d5fa32/openclaw-hostinger-gerenciado-ou-vps-capa-fr-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "71238acaa2a63b2a8e93185a6bcc16ff028a0b37f061310c275a8418f9d5fa32",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-it-v2.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-it-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 199256,
+      "sha256": "bb13ddd01226032e86bbeb35b6500125c7b831d5837d59008ee0be22b605e871",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-it-v2.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-it-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-gestito-o-vps.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-gestito-o-vps.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-it-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bb13ddd01226032e86bbeb35b6500125c7b831d5837d59008ee0be22b605e871/openclaw-hostinger-gerenciado-ou-vps-capa-it-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bb13ddd01226032e86bbeb35b6500125c7b831d5837d59008ee0be22b605e871/openclaw-hostinger-gerenciado-ou-vps-capa-it-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "bb13ddd01226032e86bbeb35b6500125c7b831d5837d59008ee0be22b605e871",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-ja-v2.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-ja-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 205994,
+      "sha256": "003a006184f4760b31bd9ea2d74545c352a63d4c6eb4b0165e915c79431e060c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-ja-v2.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-ja-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-managed-or-vps-ja.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps-ja.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-ja-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/003a006184f4760b31bd9ea2d74545c352a63d4c6eb4b0165e915c79431e060c/openclaw-hostinger-gerenciado-ou-vps-capa-ja-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/003a006184f4760b31bd9ea2d74545c352a63d4c6eb4b0165e915c79431e060c/openclaw-hostinger-gerenciado-ou-vps-capa-ja-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "003a006184f4760b31bd9ea2d74545c352a63d4c6eb4b0165e915c79431e060c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-ko-v2.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-ko-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 203458,
+      "sha256": "276f5d9c585d340c24396aeca151d9609c09d6ec3da009283644daadaaf23f56",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-ko-v2.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-ko-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-managed-or-vps-ko.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps-ko.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-ko-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/276f5d9c585d340c24396aeca151d9609c09d6ec3da009283644daadaaf23f56/openclaw-hostinger-gerenciado-ou-vps-capa-ko-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/276f5d9c585d340c24396aeca151d9609c09d6ec3da009283644daadaaf23f56/openclaw-hostinger-gerenciado-ou-vps-capa-ko-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "276f5d9c585d340c24396aeca151d9609c09d6ec3da009283644daadaaf23f56",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-pt-v2.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 203158,
+      "sha256": "6dc2ed1d02460952ee198b55b4a79a0f55170f3e77eb8bb4c0256c389ca7f4d2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-pt-v2.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-gerenciado-ou-vps.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-gerenciado-ou-vps.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6dc2ed1d02460952ee198b55b4a79a0f55170f3e77eb8bb4c0256c389ca7f4d2/openclaw-hostinger-gerenciado-ou-vps-capa-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6dc2ed1d02460952ee198b55b4a79a0f55170f3e77eb8bb4c0256c389ca7f4d2/openclaw-hostinger-gerenciado-ou-vps-capa-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "6dc2ed1d02460952ee198b55b4a79a0f55170f3e77eb8bb4c0256c389ca7f4d2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-zh-hans-v2.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-zh-hans-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 197966,
+      "sha256": "9b56eefdcd9e55095a383f67ac4fd78993e8398ee8d57c3f376275cec5fc3e48",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-zh-hans-v2.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-zh-hans-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-managed-or-vps-zh-hans.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps-zh-hans.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-zh-hans-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9b56eefdcd9e55095a383f67ac4fd78993e8398ee8d57c3f376275cec5fc3e48/openclaw-hostinger-gerenciado-ou-vps-capa-zh-hans-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9b56eefdcd9e55095a383f67ac4fd78993e8398ee8d57c3f376275cec5fc3e48/openclaw-hostinger-gerenciado-ou-vps-capa-zh-hans-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "9b56eefdcd9e55095a383f67ac4fd78993e8398ee8d57c3f376275cec5fc3e48",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-zh-hant-v2.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-zh-hant-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 199642,
+      "sha256": "6c188447c4a944d2a15dc7eb8b7e36461f8a575849b4be294b06b7446249e688",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-zh-hant-v2.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-zh-hant-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-managed-or-vps-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps-zh-hant.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-zh-hant-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6c188447c4a944d2a15dc7eb8b7e36461f8a575849b4be294b06b7446249e688/openclaw-hostinger-gerenciado-ou-vps-capa-zh-hant-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6c188447c4a944d2a15dc7eb8b7e36461f8a575849b4be294b06b7446249e688/openclaw-hostinger-gerenciado-ou-vps-capa-zh-hant-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "6c188447c4a944d2a15dc7eb8b7e36461f8a575849b4be294b06b7446249e688",
       "verification_status": "verified"
     },
     {
@@ -77647,6 +78787,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-de-v2.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-de-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 467972,
+      "sha256": "13801cd7d2b9325735c79847f3f5b9c4a1258635ac09f46039437853ef00fcc0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-capa-de-v2.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-capa-de-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-oder-hermes-agent.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-oder-hermes-agent.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-de-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/13801cd7d2b9325735c79847f3f5b9c4a1258635ac09f46039437853ef00fcc0/openclaw-ou-hermes-agent-capa-de-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/13801cd7d2b9325735c79847f3f5b9c4a1258635ac09f46039437853ef00fcc0/openclaw-ou-hermes-agent-capa-de-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "13801cd7d2b9325735c79847f3f5b9c4a1258635ac09f46039437853ef00fcc0",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
       "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
       "media_kind": "image",
@@ -77754,6 +78932,348 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T18:58:08.588Z",
       "verification_etag_or_digest": "7f356cfa438672c40fe9509a20fe190ba5d4364518f9cfe2f6ac2df5526a4342",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-en-v2.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-en-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 466316,
+      "sha256": "f5316b6a338c4fd6a44c5aee2bdd2eb7b0460a666e3422dd6c6244166054989d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-capa-en-v2.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-capa-en-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-vs-hermes-agent.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-vs-hermes-agent.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-en-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f5316b6a338c4fd6a44c5aee2bdd2eb7b0460a666e3422dd6c6244166054989d/openclaw-ou-hermes-agent-capa-en-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f5316b6a338c4fd6a44c5aee2bdd2eb7b0460a666e3422dd6c6244166054989d/openclaw-ou-hermes-agent-capa-en-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "f5316b6a338c4fd6a44c5aee2bdd2eb7b0460a666e3422dd6c6244166054989d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-es-v2.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-es-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 466066,
+      "sha256": "88b281e20f15346ad0fcd576f24d0e649fe3a8ad5e7919d1e312b8f83c14df5b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-capa-es-v2.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-capa-es-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-o-hermes-agent.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-o-hermes-agent.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-es-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/88b281e20f15346ad0fcd576f24d0e649fe3a8ad5e7919d1e312b8f83c14df5b/openclaw-ou-hermes-agent-capa-es-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/88b281e20f15346ad0fcd576f24d0e649fe3a8ad5e7919d1e312b8f83c14df5b/openclaw-ou-hermes-agent-capa-es-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "88b281e20f15346ad0fcd576f24d0e649fe3a8ad5e7919d1e312b8f83c14df5b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-fr-v2.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-fr-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 466710,
+      "sha256": "eefb1a4e8f749ef198899cb4d630c4fd83d0642db0ba311f6c44e6a36a385a3b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-capa-fr-v2.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-capa-fr-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-ou-hermes-agent-que-choisir.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-ou-hermes-agent-que-choisir.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-fr-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/eefb1a4e8f749ef198899cb4d630c4fd83d0642db0ba311f6c44e6a36a385a3b/openclaw-ou-hermes-agent-capa-fr-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/eefb1a4e8f749ef198899cb4d630c4fd83d0642db0ba311f6c44e6a36a385a3b/openclaw-ou-hermes-agent-capa-fr-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "eefb1a4e8f749ef198899cb4d630c4fd83d0642db0ba311f6c44e6a36a385a3b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-it-v2.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-it-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 465206,
+      "sha256": "b90ef39caea987cd7951f017425a58d200a07fe19bad30d920e5896f0f894ba5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-capa-it-v2.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-capa-it-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-o-hermes-agent-quale-scegliere.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-o-hermes-agent-quale-scegliere.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-it-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b90ef39caea987cd7951f017425a58d200a07fe19bad30d920e5896f0f894ba5/openclaw-ou-hermes-agent-capa-it-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b90ef39caea987cd7951f017425a58d200a07fe19bad30d920e5896f0f894ba5/openclaw-ou-hermes-agent-capa-it-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "b90ef39caea987cd7951f017425a58d200a07fe19bad30d920e5896f0f894ba5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-ja-v2.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-ja-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 466678,
+      "sha256": "a383ab1155216e66eaa276228a09f74b4d9588cc07faeea45e1d0d4339d495c1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-capa-ja-v2.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-capa-ja-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-vs-hermes-agent-ja.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-vs-hermes-agent-ja.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-ja-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a383ab1155216e66eaa276228a09f74b4d9588cc07faeea45e1d0d4339d495c1/openclaw-ou-hermes-agent-capa-ja-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a383ab1155216e66eaa276228a09f74b4d9588cc07faeea45e1d0d4339d495c1/openclaw-ou-hermes-agent-capa-ja-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "a383ab1155216e66eaa276228a09f74b4d9588cc07faeea45e1d0d4339d495c1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-ko-v2.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-ko-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 470304,
+      "sha256": "155b82e805dc46674b89c4fc3d48eaa98be831480e0eb5e9981b3df770d746aa",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-capa-ko-v2.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-capa-ko-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-vs-hermes-agent-ko.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-vs-hermes-agent-ko.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-ko-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/155b82e805dc46674b89c4fc3d48eaa98be831480e0eb5e9981b3df770d746aa/openclaw-ou-hermes-agent-capa-ko-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/155b82e805dc46674b89c4fc3d48eaa98be831480e0eb5e9981b3df770d746aa/openclaw-ou-hermes-agent-capa-ko-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "155b82e805dc46674b89c4fc3d48eaa98be831480e0eb5e9981b3df770d746aa",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-pt-v2.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 465644,
+      "sha256": "f6b63415f3f3c51c7e15dfd4e2e2c9d094ac57639abbf7e882afaec528b5e790",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-capa-pt-v2.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-capa-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-ou-hermes-agent.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-ou-hermes-agent.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f6b63415f3f3c51c7e15dfd4e2e2c9d094ac57639abbf7e882afaec528b5e790/openclaw-ou-hermes-agent-capa-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f6b63415f3f3c51c7e15dfd4e2e2c9d094ac57639abbf7e882afaec528b5e790/openclaw-ou-hermes-agent-capa-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "f6b63415f3f3c51c7e15dfd4e2e2c9d094ac57639abbf7e882afaec528b5e790",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-zh-hans-v2.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-zh-hans-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 468376,
+      "sha256": "680a2c89a8f0431f3ef9870ee4c63f09f66274d6ee2630e1729378efda7ae812",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-capa-zh-hans-v2.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-capa-zh-hans-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-vs-hermes-agent-zh-hans.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-vs-hermes-agent-zh-hans.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-zh-hans-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/680a2c89a8f0431f3ef9870ee4c63f09f66274d6ee2630e1729378efda7ae812/openclaw-ou-hermes-agent-capa-zh-hans-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/680a2c89a8f0431f3ef9870ee4c63f09f66274d6ee2630e1729378efda7ae812/openclaw-ou-hermes-agent-capa-zh-hans-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "680a2c89a8f0431f3ef9870ee4c63f09f66274d6ee2630e1729378efda7ae812",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-zh-hant-v2.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-zh-hant-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 468794,
+      "sha256": "32cc024f6b3043298d634500d7b6a1683b6c75e56a52d650289e28ea4c3ae9ce",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-capa-zh-hant-v2.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-capa-zh-hant-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-vs-hermes-agent-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-vs-hermes-agent-zh-hant.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-zh-hant-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/32cc024f6b3043298d634500d7b6a1683b6c75e56a52d650289e28ea4c3ae9ce/openclaw-ou-hermes-agent-capa-zh-hant-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/32cc024f6b3043298d634500d7b6a1683b6c75e56a52d650289e28ea4c3ae9ce/openclaw-ou-hermes-agent-capa-zh-hant-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "32cc024f6b3043298d634500d7b6a1683b6c75e56a52d650289e28ea4c3ae9ce",
       "verification_status": "verified"
     },
     {
@@ -78398,6 +79918,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-capa-de-v2.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-de-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 87898,
+      "sha256": "acc0a31e717bcc2d402610ce67aaa276bc6333561f556248f9e0af285fc467b9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-capa-de-v2.webp",
+      "storage_filename": "paperclip-ai-hostinger-capa-de-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-hostinger-anleitung.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-anleitung.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-de-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/acc0a31e717bcc2d402610ce67aaa276bc6333561f556248f9e0af285fc467b9/paperclip-ai-hostinger-capa-de-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/acc0a31e717bcc2d402610ce67aaa276bc6333561f556248f9e0af285fc467b9/paperclip-ai-hostinger-capa-de-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "acc0a31e717bcc2d402610ce67aaa276bc6333561f556248f9e0af285fc467b9",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-capa-discover.webp",
       "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-discover.webp",
       "media_kind": "image",
@@ -78505,6 +80063,348 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T18:58:08.588Z",
       "verification_etag_or_digest": "e2bed1638e3c8af46351f0adb01f19317f1f5ef8db6ff8a6bbcf4be614f41e0a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-capa-en-v2.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-en-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 93300,
+      "sha256": "ca5e53e5d9800d6807922213572546001e45ff2c67f74fcb450bc2efe9663288",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-capa-en-v2.webp",
+      "storage_filename": "paperclip-ai-hostinger-capa-en-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-hostinger-guide.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-guide.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-en-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ca5e53e5d9800d6807922213572546001e45ff2c67f74fcb450bc2efe9663288/paperclip-ai-hostinger-capa-en-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ca5e53e5d9800d6807922213572546001e45ff2c67f74fcb450bc2efe9663288/paperclip-ai-hostinger-capa-en-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "ca5e53e5d9800d6807922213572546001e45ff2c67f74fcb450bc2efe9663288",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-capa-es-v2.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-es-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 91364,
+      "sha256": "346d5241fb01130286179c3586c85cc418a2311574d477f1e4981ef36745fd02",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-capa-es-v2.webp",
+      "storage_filename": "paperclip-ai-hostinger-capa-es-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-que-es-hostinger.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-que-es-hostinger.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-es-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/346d5241fb01130286179c3586c85cc418a2311574d477f1e4981ef36745fd02/paperclip-ai-hostinger-capa-es-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/346d5241fb01130286179c3586c85cc418a2311574d477f1e4981ef36745fd02/paperclip-ai-hostinger-capa-es-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "346d5241fb01130286179c3586c85cc418a2311574d477f1e4981ef36745fd02",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-capa-fr-v2.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-fr-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 92842,
+      "sha256": "d053dcd3f9a2ef27bee44c15ccf1a2efaca7c051d31c7d124849265f00c1afb7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-capa-fr-v2.webp",
+      "storage_filename": "paperclip-ai-hostinger-capa-fr-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-hostinger-guide-fr.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-guide-fr.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-fr-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d053dcd3f9a2ef27bee44c15ccf1a2efaca7c051d31c7d124849265f00c1afb7/paperclip-ai-hostinger-capa-fr-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d053dcd3f9a2ef27bee44c15ccf1a2efaca7c051d31c7d124849265f00c1afb7/paperclip-ai-hostinger-capa-fr-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "d053dcd3f9a2ef27bee44c15ccf1a2efaca7c051d31c7d124849265f00c1afb7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-capa-it-v2.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-it-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 88308,
+      "sha256": "6715e024f0c4abfd1e49b84ba962d63c9e3a684c6ff1b5f020fd6e1f8943edf3",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-capa-it-v2.webp",
+      "storage_filename": "paperclip-ai-hostinger-capa-it-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-hostinger-guida.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-guida.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-it-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6715e024f0c4abfd1e49b84ba962d63c9e3a684c6ff1b5f020fd6e1f8943edf3/paperclip-ai-hostinger-capa-it-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6715e024f0c4abfd1e49b84ba962d63c9e3a684c6ff1b5f020fd6e1f8943edf3/paperclip-ai-hostinger-capa-it-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "6715e024f0c4abfd1e49b84ba962d63c9e3a684c6ff1b5f020fd6e1f8943edf3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-capa-ja-v2.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-ja-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 89692,
+      "sha256": "5c684b50b47d5af5fb10d7bbd02856af0cbdd29ad80e02162bab331c8f0d5210",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-capa-ja-v2.webp",
+      "storage_filename": "paperclip-ai-hostinger-capa-ja-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-hostinger-ja.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-ja.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-ja-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5c684b50b47d5af5fb10d7bbd02856af0cbdd29ad80e02162bab331c8f0d5210/paperclip-ai-hostinger-capa-ja-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5c684b50b47d5af5fb10d7bbd02856af0cbdd29ad80e02162bab331c8f0d5210/paperclip-ai-hostinger-capa-ja-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "5c684b50b47d5af5fb10d7bbd02856af0cbdd29ad80e02162bab331c8f0d5210",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-capa-ko-v2.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-ko-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 87588,
+      "sha256": "9e6b22b17fb24ed5fa0a6e43cbe448cc2c33ef67905c9680a8b5c59f30d8e809",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-capa-ko-v2.webp",
+      "storage_filename": "paperclip-ai-hostinger-capa-ko-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-hostinger-ko.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-ko.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-ko-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9e6b22b17fb24ed5fa0a6e43cbe448cc2c33ef67905c9680a8b5c59f30d8e809/paperclip-ai-hostinger-capa-ko-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9e6b22b17fb24ed5fa0a6e43cbe448cc2c33ef67905c9680a8b5c59f30d8e809/paperclip-ai-hostinger-capa-ko-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "9e6b22b17fb24ed5fa0a6e43cbe448cc2c33ef67905c9680a8b5c59f30d8e809",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-capa-pt-v2.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 90184,
+      "sha256": "ab42d7ca03ab820dc81cf10d3bc388969020d6528d091334b86c58af664a5d2e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-capa-pt-v2.webp",
+      "storage_filename": "paperclip-ai-hostinger-capa-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-hostinger.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-hostinger.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ab42d7ca03ab820dc81cf10d3bc388969020d6528d091334b86c58af664a5d2e/paperclip-ai-hostinger-capa-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ab42d7ca03ab820dc81cf10d3bc388969020d6528d091334b86c58af664a5d2e/paperclip-ai-hostinger-capa-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "ab42d7ca03ab820dc81cf10d3bc388969020d6528d091334b86c58af664a5d2e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-capa-zh-hans-v2.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-zh-hans-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 89144,
+      "sha256": "ef519ac97a7696e48f7356b2cab208cbd2fab348945ac627156ccbbcbbcab789",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-capa-zh-hans-v2.webp",
+      "storage_filename": "paperclip-ai-hostinger-capa-zh-hans-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-hostinger-zh-hans.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-zh-hans.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-zh-hans-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ef519ac97a7696e48f7356b2cab208cbd2fab348945ac627156ccbbcbbcab789/paperclip-ai-hostinger-capa-zh-hans-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ef519ac97a7696e48f7356b2cab208cbd2fab348945ac627156ccbbcbbcab789/paperclip-ai-hostinger-capa-zh-hans-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "ef519ac97a7696e48f7356b2cab208cbd2fab348945ac627156ccbbcbbcab789",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-capa-zh-hant-v2.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-zh-hant-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 90034,
+      "sha256": "ca41ab678baa533688a07ff09ff0685f7e5181c224384bbb033770ff31316453",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-capa-zh-hant-v2.webp",
+      "storage_filename": "paperclip-ai-hostinger-capa-zh-hant-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-hostinger-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-zh-hant.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-zh-hant-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ca41ab678baa533688a07ff09ff0685f7e5181c224384bbb033770ff31316453/paperclip-ai-hostinger-capa-zh-hant-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ca41ab678baa533688a07ff09ff0685f7e5181c224384bbb033770ff31316453/paperclip-ai-hostinger-capa-zh-hant-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "ca41ab678baa533688a07ff09ff0685f7e5181c224384bbb033770ff31316453",
       "verification_status": "verified"
     },
     {
@@ -138447,6 +140347,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-de-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-de-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38816,
+      "sha256": "19df231ed097f64ba973f5fecdc5d521711f1af1ab8bdf94602c43c6856e08f5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-app-como-comprar-codigo-de-recompensa-capa-de-v2.webp",
+      "storage_filename": "yesstyle-app-como-comprar-codigo-de-recompensa-capa-de-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-app-bestellen-reward-code.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-app-bestellen-reward-code.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-de-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/19df231ed097f64ba973f5fecdc5d521711f1af1ab8bdf94602c43c6856e08f5/yesstyle-app-como-comprar-codigo-de-recompensa-capa-de-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/19df231ed097f64ba973f5fecdc5d521711f1af1ab8bdf94602c43c6856e08f5/yesstyle-app-como-comprar-codigo-de-recompensa-capa-de-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "19df231ed097f64ba973f5fecdc5d521711f1af1ab8bdf94602c43c6856e08f5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-discover.webp",
       "local_url": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-discover.webp",
       "media_kind": "image",
@@ -138472,6 +140410,348 @@
       "uploaded_at": null,
       "verified_at": "2026-11-02T22:42:31.463Z",
       "verification_etag_or_digest": "2b2c76d40a5b9b05889d107e9e56cf841eed5cd52aed1582b9312a8e62478126",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-en-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-en-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40308,
+      "sha256": "55e0a01a703f0f2b4bd7fd2b358dcd3bf1aea8775183eb751ea7f29dbbf2fdb2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-app-como-comprar-codigo-de-recompensa-capa-en-v2.webp",
+      "storage_filename": "yesstyle-app-como-comprar-codigo-de-recompensa-capa-en-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-app-how-to-buy-reward-code.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-app-how-to-buy-reward-code.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-en-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/55e0a01a703f0f2b4bd7fd2b358dcd3bf1aea8775183eb751ea7f29dbbf2fdb2/yesstyle-app-como-comprar-codigo-de-recompensa-capa-en-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/55e0a01a703f0f2b4bd7fd2b358dcd3bf1aea8775183eb751ea7f29dbbf2fdb2/yesstyle-app-como-comprar-codigo-de-recompensa-capa-en-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "55e0a01a703f0f2b4bd7fd2b358dcd3bf1aea8775183eb751ea7f29dbbf2fdb2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-es-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-es-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43806,
+      "sha256": "f1fae3c79decbb65650fd85368f5859cda1a747e6bff34e7dfd71a86ed6ea398",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-app-como-comprar-codigo-de-recompensa-capa-es-v2.webp",
+      "storage_filename": "yesstyle-app-como-comprar-codigo-de-recompensa-capa-es-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/app-yesstyle-como-comprar-codigo-de-recompensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/app-yesstyle-como-comprar-codigo-de-recompensa.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-es-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f1fae3c79decbb65650fd85368f5859cda1a747e6bff34e7dfd71a86ed6ea398/yesstyle-app-como-comprar-codigo-de-recompensa-capa-es-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f1fae3c79decbb65650fd85368f5859cda1a747e6bff34e7dfd71a86ed6ea398/yesstyle-app-como-comprar-codigo-de-recompensa-capa-es-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "f1fae3c79decbb65650fd85368f5859cda1a747e6bff34e7dfd71a86ed6ea398",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-fr-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-fr-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41288,
+      "sha256": "7049ff4414668a0909ff2e6a34e4644a44b38d70dc9e8eeee71984d965b07ea9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-app-como-comprar-codigo-de-recompensa-capa-fr-v2.webp",
+      "storage_filename": "yesstyle-app-como-comprar-codigo-de-recompensa-capa-fr-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/application-yesstyle-acheter-code-recompense.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/application-yesstyle-acheter-code-recompense.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-fr-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7049ff4414668a0909ff2e6a34e4644a44b38d70dc9e8eeee71984d965b07ea9/yesstyle-app-como-comprar-codigo-de-recompensa-capa-fr-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7049ff4414668a0909ff2e6a34e4644a44b38d70dc9e8eeee71984d965b07ea9/yesstyle-app-como-comprar-codigo-de-recompensa-capa-fr-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "7049ff4414668a0909ff2e6a34e4644a44b38d70dc9e8eeee71984d965b07ea9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-it-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-it-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40074,
+      "sha256": "0b8733f47004ca4cc9804e6476cfb2e22d79e7c97dd03f00527349456a2dce3b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-app-como-comprar-codigo-de-recompensa-capa-it-v2.webp",
+      "storage_filename": "yesstyle-app-como-comprar-codigo-de-recompensa-capa-it-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/app-yesstyle-come-acquistare-codice-ricompensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/app-yesstyle-come-acquistare-codice-ricompensa.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-it-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0b8733f47004ca4cc9804e6476cfb2e22d79e7c97dd03f00527349456a2dce3b/yesstyle-app-como-comprar-codigo-de-recompensa-capa-it-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0b8733f47004ca4cc9804e6476cfb2e22d79e7c97dd03f00527349456a2dce3b/yesstyle-app-como-comprar-codigo-de-recompensa-capa-it-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "0b8733f47004ca4cc9804e6476cfb2e22d79e7c97dd03f00527349456a2dce3b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-ja-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-ja-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 37830,
+      "sha256": "a8cabc4b694a101e4b8bd7124034594f19d036d41e1f036c4bf3b3b62ddb6632",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-app-como-comprar-codigo-de-recompensa-capa-ja-v2.webp",
+      "storage_filename": "yesstyle-app-como-comprar-codigo-de-recompensa-capa-ja-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-app-reward-code-ja.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-app-reward-code-ja.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-ja-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a8cabc4b694a101e4b8bd7124034594f19d036d41e1f036c4bf3b3b62ddb6632/yesstyle-app-como-comprar-codigo-de-recompensa-capa-ja-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a8cabc4b694a101e4b8bd7124034594f19d036d41e1f036c4bf3b3b62ddb6632/yesstyle-app-como-comprar-codigo-de-recompensa-capa-ja-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "a8cabc4b694a101e4b8bd7124034594f19d036d41e1f036c4bf3b3b62ddb6632",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-ko-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-ko-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34792,
+      "sha256": "d36f2fb06f5144768b6516dab373625ce565c0ccc670340254da13724adda259",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-app-como-comprar-codigo-de-recompensa-capa-ko-v2.webp",
+      "storage_filename": "yesstyle-app-como-comprar-codigo-de-recompensa-capa-ko-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-app-reward-code-ko.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-app-reward-code-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-ko-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d36f2fb06f5144768b6516dab373625ce565c0ccc670340254da13724adda259/yesstyle-app-como-comprar-codigo-de-recompensa-capa-ko-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d36f2fb06f5144768b6516dab373625ce565c0ccc670340254da13724adda259/yesstyle-app-como-comprar-codigo-de-recompensa-capa-ko-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "d36f2fb06f5144768b6516dab373625ce565c0ccc670340254da13724adda259",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-pt-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 42338,
+      "sha256": "44f3e6a1747a3514b58b2b8730f262e47a580da0763370a4091ce43dc8d2bb92",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-app-como-comprar-codigo-de-recompensa-capa-pt-v2.webp",
+      "storage_filename": "yesstyle-app-como-comprar-codigo-de-recompensa-capa-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-app-como-comprar-codigo-de-recompensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-app-como-comprar-codigo-de-recompensa.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/44f3e6a1747a3514b58b2b8730f262e47a580da0763370a4091ce43dc8d2bb92/yesstyle-app-como-comprar-codigo-de-recompensa-capa-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/44f3e6a1747a3514b58b2b8730f262e47a580da0763370a4091ce43dc8d2bb92/yesstyle-app-como-comprar-codigo-de-recompensa-capa-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "44f3e6a1747a3514b58b2b8730f262e47a580da0763370a4091ce43dc8d2bb92",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-zh-hans-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-zh-hans-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38516,
+      "sha256": "f3a8a04255233fbd0b798eb5de5157ffea55ae47ba4390241c651835d8e3ea95",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-app-como-comprar-codigo-de-recompensa-capa-zh-hans-v2.webp",
+      "storage_filename": "yesstyle-app-como-comprar-codigo-de-recompensa-capa-zh-hans-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-app-reward-code-zh-hans.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-app-reward-code-zh-hans.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-zh-hans-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f3a8a04255233fbd0b798eb5de5157ffea55ae47ba4390241c651835d8e3ea95/yesstyle-app-como-comprar-codigo-de-recompensa-capa-zh-hans-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f3a8a04255233fbd0b798eb5de5157ffea55ae47ba4390241c651835d8e3ea95/yesstyle-app-como-comprar-codigo-de-recompensa-capa-zh-hans-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "f3a8a04255233fbd0b798eb5de5157ffea55ae47ba4390241c651835d8e3ea95",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-zh-hant-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-zh-hant-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39174,
+      "sha256": "7fd1d2b08a276dc077b00acdde81d9819473396dec1bf01dc624d6a1c996697e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-app-como-comprar-codigo-de-recompensa-capa-zh-hant-v2.webp",
+      "storage_filename": "yesstyle-app-como-comprar-codigo-de-recompensa-capa-zh-hant-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-app-reward-code-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-app-reward-code-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-zh-hant-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7fd1d2b08a276dc077b00acdde81d9819473396dec1bf01dc624d6a1c996697e/yesstyle-app-como-comprar-codigo-de-recompensa-capa-zh-hant-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7fd1d2b08a276dc077b00acdde81d9819473396dec1bf01dc624d6a1c996697e/yesstyle-app-como-comprar-codigo-de-recompensa-capa-zh-hant-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "7fd1d2b08a276dc077b00acdde81d9819473396dec1bf01dc624d6a1c996697e",
       "verification_status": "verified"
     },
     {
@@ -139602,6 +141882,386 @@
       "uploaded_at": null,
       "verified_at": "2026-10-13T01:32:03.288Z",
       "verification_etag_or_digest": "fa13b920dcab7872947f0932a73a67f9c457de5b5d72666d288cad2ec31b0457",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-de-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-de-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 193794,
+      "sha256": "1d6d4d1d25ce84b0f8419973d2b773d4a4a75bc3862ab01dabe79989d927ca0f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-entrega-no-brasil-e-portugal-capa-de-v2.webp",
+      "storage_filename": "yesstyle-entrega-no-brasil-e-portugal-capa-de-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-versand-deutschland-oesterreich-schweiz.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-versand-deutschland-oesterreich-schweiz.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-de-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1d6d4d1d25ce84b0f8419973d2b773d4a4a75bc3862ab01dabe79989d927ca0f/yesstyle-entrega-no-brasil-e-portugal-capa-de-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1d6d4d1d25ce84b0f8419973d2b773d4a4a75bc3862ab01dabe79989d927ca0f/yesstyle-entrega-no-brasil-e-portugal-capa-de-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "1d6d4d1d25ce84b0f8419973d2b773d4a4a75bc3862ab01dabe79989d927ca0f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-en-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-en-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 192888,
+      "sha256": "a0d425c97098a310655e4a81ecfcb19a0629dd36d6e674ee39c7efa6a584d558",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-entrega-no-brasil-e-portugal-capa-en-v2.webp",
+      "storage_filename": "yesstyle-entrega-no-brasil-e-portugal-capa-en-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-shipping-us-uk-canada-australia.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-shipping-us-uk-canada-australia.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-en-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a0d425c97098a310655e4a81ecfcb19a0629dd36d6e674ee39c7efa6a584d558/yesstyle-entrega-no-brasil-e-portugal-capa-en-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a0d425c97098a310655e4a81ecfcb19a0629dd36d6e674ee39c7efa6a584d558/yesstyle-entrega-no-brasil-e-portugal-capa-en-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "a0d425c97098a310655e4a81ecfcb19a0629dd36d6e674ee39c7efa6a584d558",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-es-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-es-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 196668,
+      "sha256": "72d63ae87565d9558d3b9bf740ef02805167f29df9dd9de343dbc753b19cb0f0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-entrega-no-brasil-e-portugal-capa-es-v2.webp",
+      "storage_filename": "yesstyle-entrega-no-brasil-e-portugal-capa-es-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-es-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/72d63ae87565d9558d3b9bf740ef02805167f29df9dd9de343dbc753b19cb0f0/yesstyle-entrega-no-brasil-e-portugal-capa-es-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/72d63ae87565d9558d3b9bf740ef02805167f29df9dd9de343dbc753b19cb0f0/yesstyle-entrega-no-brasil-e-portugal-capa-es-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "72d63ae87565d9558d3b9bf740ef02805167f29df9dd9de343dbc753b19cb0f0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-fr-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-fr-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 195326,
+      "sha256": "324d542316c145a585589a322e4938d6c66875b05e7a770b30c3f63e419775f1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-entrega-no-brasil-e-portugal-capa-fr-v2.webp",
+      "storage_filename": "yesstyle-entrega-no-brasil-e-portugal-capa-fr-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-livraison-france-belgique-canada.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-livraison-france-belgique-canada.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-fr-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/324d542316c145a585589a322e4938d6c66875b05e7a770b30c3f63e419775f1/yesstyle-entrega-no-brasil-e-portugal-capa-fr-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/324d542316c145a585589a322e4938d6c66875b05e7a770b30c3f63e419775f1/yesstyle-entrega-no-brasil-e-portugal-capa-fr-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "324d542316c145a585589a322e4938d6c66875b05e7a770b30c3f63e419775f1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-it-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-it-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 190028,
+      "sha256": "373c141e6247160f394b7167ee0a85febddd2ac13ab04d93c3c9e4df9bb1f488",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-entrega-no-brasil-e-portugal-capa-it-v2.webp",
+      "storage_filename": "yesstyle-entrega-no-brasil-e-portugal-capa-it-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-spedizione-italia-tempi-costi-dogana.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-spedizione-italia-tempi-costi-dogana.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-it-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/373c141e6247160f394b7167ee0a85febddd2ac13ab04d93c3c9e4df9bb1f488/yesstyle-entrega-no-brasil-e-portugal-capa-it-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/373c141e6247160f394b7167ee0a85febddd2ac13ab04d93c3c9e4df9bb1f488/yesstyle-entrega-no-brasil-e-portugal-capa-it-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "373c141e6247160f394b7167ee0a85febddd2ac13ab04d93c3c9e4df9bb1f488",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-ja-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-ja-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 191022,
+      "sha256": "4a957a71b26723380f3dcb9345fea1808dceb26b978ad1ffb821374a2b5632e2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-entrega-no-brasil-e-portugal-capa-ja-v2.webp",
+      "storage_filename": "yesstyle-entrega-no-brasil-e-portugal-capa-ja-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-shipping-japan-ja.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-shipping-japan-ja.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-ja-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4a957a71b26723380f3dcb9345fea1808dceb26b978ad1ffb821374a2b5632e2/yesstyle-entrega-no-brasil-e-portugal-capa-ja-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4a957a71b26723380f3dcb9345fea1808dceb26b978ad1ffb821374a2b5632e2/yesstyle-entrega-no-brasil-e-portugal-capa-ja-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "4a957a71b26723380f3dcb9345fea1808dceb26b978ad1ffb821374a2b5632e2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-ko-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-ko-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 187606,
+      "sha256": "79925c530cb6ebf916ded294a894c10370f1b73a52322436ce71468d62d61bbb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-entrega-no-brasil-e-portugal-capa-ko-v2.webp",
+      "storage_filename": "yesstyle-entrega-no-brasil-e-portugal-capa-ko-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-shipping-korea-ko.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-shipping-korea-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-ko-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/79925c530cb6ebf916ded294a894c10370f1b73a52322436ce71468d62d61bbb/yesstyle-entrega-no-brasil-e-portugal-capa-ko-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/79925c530cb6ebf916ded294a894c10370f1b73a52322436ce71468d62d61bbb/yesstyle-entrega-no-brasil-e-portugal-capa-ko-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "79925c530cb6ebf916ded294a894c10370f1b73a52322436ce71468d62d61bbb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-pt-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 195130,
+      "sha256": "10954ac1ea8a5634557e8f5fff7d01368c08c9825e42b636e2fdf4454d3e1055",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-entrega-no-brasil-e-portugal-capa-pt-v2.webp",
+      "storage_filename": "yesstyle-entrega-no-brasil-e-portugal-capa-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-entrega-no-brasil-e-portugal.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-entrega-no-brasil-e-portugal.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/10954ac1ea8a5634557e8f5fff7d01368c08c9825e42b636e2fdf4454d3e1055/yesstyle-entrega-no-brasil-e-portugal-capa-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/10954ac1ea8a5634557e8f5fff7d01368c08c9825e42b636e2fdf4454d3e1055/yesstyle-entrega-no-brasil-e-portugal-capa-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "10954ac1ea8a5634557e8f5fff7d01368c08c9825e42b636e2fdf4454d3e1055",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-zh-hans-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-zh-hans-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 194406,
+      "sha256": "37b4c022cbbc1e2cb31fa5a6fdab6fbfe7c89d66757db30ef43e59824e1050b4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-entrega-no-brasil-e-portugal-capa-zh-hans-v2.webp",
+      "storage_filename": "yesstyle-entrega-no-brasil-e-portugal-capa-zh-hans-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-shipping-singapore-malaysia-zh-hans.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-shipping-singapore-malaysia-zh-hans.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-zh-hans-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/37b4c022cbbc1e2cb31fa5a6fdab6fbfe7c89d66757db30ef43e59824e1050b4/yesstyle-entrega-no-brasil-e-portugal-capa-zh-hans-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/37b4c022cbbc1e2cb31fa5a6fdab6fbfe7c89d66757db30ef43e59824e1050b4/yesstyle-entrega-no-brasil-e-portugal-capa-zh-hans-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "37b4c022cbbc1e2cb31fa5a6fdab6fbfe7c89d66757db30ef43e59824e1050b4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-zh-hant-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-zh-hant-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 194184,
+      "sha256": "ef78a5efb31da4a72a0875342ccfa30bd23ddd31f7cc728d1d6b5c20cbf827ff",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-entrega-no-brasil-e-portugal-capa-zh-hant-v2.webp",
+      "storage_filename": "yesstyle-entrega-no-brasil-e-portugal-capa-zh-hant-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-no-brasil-e-portugal-capa-zh-hant-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ef78a5efb31da4a72a0875342ccfa30bd23ddd31f7cc728d1d6b5c20cbf827ff/yesstyle-entrega-no-brasil-e-portugal-capa-zh-hant-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ef78a5efb31da4a72a0875342ccfa30bd23ddd31f7cc728d1d6b5c20cbf827ff/yesstyle-entrega-no-brasil-e-portugal-capa-zh-hant-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "ef78a5efb31da4a72a0875342ccfa30bd23ddd31f7cc728d1d6b5c20cbf827ff",
       "verification_status": "verified"
     },
     {
@@ -140854,6 +143514,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-de-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-de-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 90584,
+      "sha256": "d8d666b93f52dbd60609ad47f2bed8f22489eab8f283146689a66b3ce4805777",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-ou-olive-young-capa-de-v2.webp",
+      "storage_filename": "yesstyle-ou-olive-young-capa-de-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-oder-olive-young-welcher-shop.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-oder-olive-young-welcher-shop.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-de-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d8d666b93f52dbd60609ad47f2bed8f22489eab8f283146689a66b3ce4805777/yesstyle-ou-olive-young-capa-de-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d8d666b93f52dbd60609ad47f2bed8f22489eab8f283146689a66b3ce4805777/yesstyle-ou-olive-young-capa-de-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "d8d666b93f52dbd60609ad47f2bed8f22489eab8f283146689a66b3ce4805777",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
       "local_url": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
       "media_kind": "image",
@@ -140961,6 +143659,348 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T07:19:07.769Z",
       "verification_etag_or_digest": "5d3fbd49e921b4fffe673dbf33513834eb61e3b6597f9c942caafed226c9ef28",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-en-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-en-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 88466,
+      "sha256": "b7d1fa25f8c60b4c95688da92b5fc618109ef36136b5020ecf25eb40bb7b32ac",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-ou-olive-young-capa-en-v2.webp",
+      "storage_filename": "yesstyle-ou-olive-young-capa-en-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-vs-olive-young.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-en-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b7d1fa25f8c60b4c95688da92b5fc618109ef36136b5020ecf25eb40bb7b32ac/yesstyle-ou-olive-young-capa-en-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b7d1fa25f8c60b4c95688da92b5fc618109ef36136b5020ecf25eb40bb7b32ac/yesstyle-ou-olive-young-capa-en-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "b7d1fa25f8c60b4c95688da92b5fc618109ef36136b5020ecf25eb40bb7b32ac",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-es-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-es-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 91604,
+      "sha256": "30b82f7acaf14627a25c3ead7f4451c04bc0d94a8d6112f518f944e2e2cd4816",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-ou-olive-young-capa-es-v2.webp",
+      "storage_filename": "yesstyle-ou-olive-young-capa-es-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-o-olive-young-cual-elegir.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-o-olive-young-cual-elegir.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-es-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/30b82f7acaf14627a25c3ead7f4451c04bc0d94a8d6112f518f944e2e2cd4816/yesstyle-ou-olive-young-capa-es-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/30b82f7acaf14627a25c3ead7f4451c04bc0d94a8d6112f518f944e2e2cd4816/yesstyle-ou-olive-young-capa-es-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "30b82f7acaf14627a25c3ead7f4451c04bc0d94a8d6112f518f944e2e2cd4816",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-fr-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-fr-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 90370,
+      "sha256": "0c8415f8700c4663550176e59ae56385ef33284d3109e94b8dbd30753170b7aa",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-ou-olive-young-capa-fr-v2.webp",
+      "storage_filename": "yesstyle-ou-olive-young-capa-fr-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-ou-olive-young-que-choisir.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-ou-olive-young-que-choisir.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-fr-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0c8415f8700c4663550176e59ae56385ef33284d3109e94b8dbd30753170b7aa/yesstyle-ou-olive-young-capa-fr-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0c8415f8700c4663550176e59ae56385ef33284d3109e94b8dbd30753170b7aa/yesstyle-ou-olive-young-capa-fr-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "0c8415f8700c4663550176e59ae56385ef33284d3109e94b8dbd30753170b7aa",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-it-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-it-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 89126,
+      "sha256": "872b4f7b01aa989d575d918fbbc510074007f97419b71bf6f48dc1376a37e8fb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-ou-olive-young-capa-it-v2.webp",
+      "storage_filename": "yesstyle-ou-olive-young-capa-it-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-o-olive-young-quale-scegliere.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-o-olive-young-quale-scegliere.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-it-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/872b4f7b01aa989d575d918fbbc510074007f97419b71bf6f48dc1376a37e8fb/yesstyle-ou-olive-young-capa-it-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/872b4f7b01aa989d575d918fbbc510074007f97419b71bf6f48dc1376a37e8fb/yesstyle-ou-olive-young-capa-it-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "872b4f7b01aa989d575d918fbbc510074007f97419b71bf6f48dc1376a37e8fb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-ja-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-ja-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 88816,
+      "sha256": "806a5f03a00174ee28f2da38f9e6f517b92c3338404c86d1919a1d89226c65ed",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-ou-olive-young-capa-ja-v2.webp",
+      "storage_filename": "yesstyle-ou-olive-young-capa-ja-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-vs-olive-young-ja.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-ja.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-ja-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/806a5f03a00174ee28f2da38f9e6f517b92c3338404c86d1919a1d89226c65ed/yesstyle-ou-olive-young-capa-ja-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/806a5f03a00174ee28f2da38f9e6f517b92c3338404c86d1919a1d89226c65ed/yesstyle-ou-olive-young-capa-ja-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "806a5f03a00174ee28f2da38f9e6f517b92c3338404c86d1919a1d89226c65ed",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-ko-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-ko-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86570,
+      "sha256": "9cdae9f69052b0451ae00e2be154604636f7c1e658c093bf24078138b4992890",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-ou-olive-young-capa-ko-v2.webp",
+      "storage_filename": "yesstyle-ou-olive-young-capa-ko-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-vs-olive-young-ko.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-ko-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9cdae9f69052b0451ae00e2be154604636f7c1e658c093bf24078138b4992890/yesstyle-ou-olive-young-capa-ko-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9cdae9f69052b0451ae00e2be154604636f7c1e658c093bf24078138b4992890/yesstyle-ou-olive-young-capa-ko-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "9cdae9f69052b0451ae00e2be154604636f7c1e658c093bf24078138b4992890",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-pt-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 90934,
+      "sha256": "4e2f1a49ff9fb2e92403b193a8fa2d6d67f995b027a1eb3ff03c1063475078d4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-ou-olive-young-capa-pt-v2.webp",
+      "storage_filename": "yesstyle-ou-olive-young-capa-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-ou-olive-young.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-ou-olive-young.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4e2f1a49ff9fb2e92403b193a8fa2d6d67f995b027a1eb3ff03c1063475078d4/yesstyle-ou-olive-young-capa-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4e2f1a49ff9fb2e92403b193a8fa2d6d67f995b027a1eb3ff03c1063475078d4/yesstyle-ou-olive-young-capa-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "4e2f1a49ff9fb2e92403b193a8fa2d6d67f995b027a1eb3ff03c1063475078d4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-zh-hans-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-zh-hans-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 89966,
+      "sha256": "480765e734c3845e72178ba80247de8c02743c3eeeb746f4a1a7d35c62a3ca82",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-ou-olive-young-capa-zh-hans-v2.webp",
+      "storage_filename": "yesstyle-ou-olive-young-capa-zh-hans-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-vs-olive-young-zh-hans.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-zh-hans.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-zh-hans-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/480765e734c3845e72178ba80247de8c02743c3eeeb746f4a1a7d35c62a3ca82/yesstyle-ou-olive-young-capa-zh-hans-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/480765e734c3845e72178ba80247de8c02743c3eeeb746f4a1a7d35c62a3ca82/yesstyle-ou-olive-young-capa-zh-hans-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "480765e734c3845e72178ba80247de8c02743c3eeeb746f4a1a7d35c62a3ca82",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-zh-hant-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-zh-hant-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 89274,
+      "sha256": "e16cdbfe4748e45757707296ca246e999f9e63877f79ab475c66066dcdb1b21b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-ou-olive-young-capa-zh-hant-v2.webp",
+      "storage_filename": "yesstyle-ou-olive-young-capa-zh-hant-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-vs-olive-young-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-zh-hant-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e16cdbfe4748e45757707296ca246e999f9e63877f79ab475c66066dcdb1b21b/yesstyle-ou-olive-young-capa-zh-hant-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e16cdbfe4748e45757707296ca246e999f9e63877f79ab475c66066dcdb1b21b/yesstyle-ou-olive-young-capa-zh-hant-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T02:54:59.201Z",
+      "verification_etag_or_digest": "e16cdbfe4748e45757707296ca246e999f9e63877f79ab475c66066dcdb1b21b",
       "verification_status": "verified"
     },
     {
