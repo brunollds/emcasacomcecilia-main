@@ -7,9 +7,9 @@ parceiro_slug: "shein"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia do Código de Indicação"
-status: "pronto-para-deploy"
+status: "no-ar"
 responsavel: "Claude"
-proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
+proxima_acao: "revisão mensal de dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "PC-S (série primeira compra, próxima fase)"
@@ -18,7 +18,7 @@ translationKey: "shein-primeira-compra"
 modo_i18n: "familia-10-idiomas"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
-status_i18n: "escrito-10-idiomas"
+status_i18n: "no-ar-10-idiomas"
 affiliate: "shein"
 coupon: "4CW5Y"
 ---
@@ -211,3 +211,5 @@ A revisão dos 30 artigos da série (pasta `docs/auditoria-copy-artigos/pc-multi
 - Recusado: tirar a frase sobre valores de primeira compra de sites de cupom sem fonte da SHEIN (decisão do briefing).
 - Em aberto: en usa "some" e es "algunos" onde o PT diz "costumam"; o Fable deixou a uniformização para o Bruno.
 - Pendente: a reconferência da campanha `shein-novos-usuarios` (`verifiedAt` de 02/11), da sessão de campanhas.
+
+- No ar desde 13/11/2026, release `b9fcbf67` (deploy c305618e, build 01a1d6d1), com o #964 e a revisão Farol (#965). `deploy:finish` ok (2 workers); smoke das 30 páginas contra o JSON (título, capítulos, primeira frase de cada capítulo, og:image e lang), as seis capas com 200, sitemap e llms.txt com as 30; `covers:check` 6/6; IndexNow com 37 URLs; captura 43511941705 à espera da aprovação do Bruno.
