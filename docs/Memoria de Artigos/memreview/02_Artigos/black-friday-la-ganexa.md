@@ -7,9 +7,9 @@ parceiro_slug: "la-ganexa"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2), com prazo: o Esquenta já está na home"
+proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "LG6"
@@ -136,3 +136,34 @@ produto de cada linha da tabela, com `href` para a loja.
 | Frete grátis R$ 250 / R$ 350, mínimo depois do cupom; brinde acima de R$ 180 depois dos cupons | regras da loja; Bruno, 13/11 | verificado; frete "depois" é palavra do Bruno |
 | Reclamação contestando o preço "de" de Black Friday | Reclame Aqui, 13/11 | verificado; só como padrão |
 | Datas de início e de fim da campanha; regras do grupo VIP | nenhuma | não escrever |
+
+## Leituras da redação (13/11/2026, catálogo e páginas da loja, sem login)
+
+- Home: faixa "Esquenta Black Friday · ofertas quentes", "Descontos por tempo limitado", "Aproveite antes da Black" e "Corre que acaba"; contador "A promoção acaba em 15 min"; selos de percentual nos cartões (-18% no Doce de Leite Zero 400 g, -24% no Brigadeiro de Colher 250 g) e a etiqueta "Oferta Black". Sem regulamento e sem datas. A home também anuncia app, cashback de 5% e um grupo VIP: fora do texto.
+- Preços do catálogo (`/products.json`), relidos na redação (preço / riscado): Cookies Cacau com Gotas de Chocolate 50 g, R$ 18,14 / R$ 32,90; Kit Degustação Pasta de Amendoim 6 sabores, R$ 139,99 / R$ 149,99; Kit Degustação Cookies de Cacau e de Baunilha, R$ 36,28 / R$ 65,80; Doce de Leite Zero 400 g, R$ 69,99 / R$ 84,99; Pasta sabor Natural 1 kg, R$ 59,99 / R$ 69,99. A coluna "Com o CECILIA" é a nossa conta (10% a menos, arredondado); as quatro primeiras linhas somam R$ 237,96, o total do teste.
+- `/pages/politica-de-frete`: envio em até 24 horas úteis depois da confirmação do pagamento; entrega em média de 2 a 5 dias úteis depois da postagem; o prazo "poderá se estender" em "períodos de grande demanda". O FAQ da loja fala em envio em 1 a 2 dias úteis; o texto usa a política, com atribuição.
+- `/pages/politica-de-troca-e-devolucao`: 7 dias corridos depois do recebimento; sem uso, na embalagem original e com nota fiscal; avaria em até 48 horas; pedido pelo WhatsApp ou pelo Instagram; análise em até 15 dias úteis; restituição pela forma de pagamento ou em vale-troca.
+- Reclame Aqui (13/11): a reclamação recente sobre o preço "de" de uma oferta de Black Friday (respondida) entra só como padrão, em uma frase, sem nome.
+- Kit 2 Doce de Leite e Kit 2 Brigadeiros de Colher: regra e teste como no LG1.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/black-friday-la-ganexa.json` (id 938), no esqueleto do briefing. Duas datas no corpo: a do teste (13 de novembro de 2026) e a da leitura dos preços, na legenda da tabela. A tabela tem três colunas (produto, preço lido, com o CECILIA): a semana do texto é a da leitura, e não há coluna "de". O contador da home entra como "contador regressivo de minutos", sem dizer que reinicia. Sem link para o LG3 e o LG4; o relacionado é o LG1.
+
+## Revisão (Job 3, 13/11/2026, Fable 5.2)
+
+Contas da tabela, preços do catálogo e textos da home conferidos pelo revisor. Aplicado:
+
+- os títulos em pergunta, fora do banco de buscas (C14), viraram diretos: "O Esquenta Black Friday já está no ar" e "O cupom soma com o preço da campanha"; as perguntas seguem no FAQ;
+- "soma com a Black Friday" virou "soma com o Esquenta" no capítulo do cupom e no snippet: o teste foi com o Esquenta no ar, e a parceria não passou regras da Black Friday;
+- quadro: "os kits de degustação de pasta e de cookies da tabela" (o catálogo tem outros kits de degustação);
+- frete: a conta com "Por exemplo" e a instrução de aplicar o código e ver o frete antes de pagar;
+- a primeira frase do capítulo da tabela entrega a conclusão (C12); a legenda não repete o total do teste (C6); alt da capa com a chamada da arte e alt da foto do kit de cookies (caixa creme e marrom); fechamento da troca diferente do da Prohall.
+
+C1: 0 "R$" na resposta rápida. C2: 2 datas no corpo e nenhuma em título, legenda ou FAQ. Snippet: 154 caracteres, código até o caractere 7. Subtítulo: 153.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 13/11/2026)
+
+- **Capa:** `/images/reviews/laganexa/black-friday-la-ganexa-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da La Ganexa, a chamada "Black Friday 2026", "o cupom soma" e o CECILIA. Foto oficial do Kit Degustação Pasta de Amendoim com 6 sabores (CDN da loja), inédita no site. Sem IA.
+- **O que está em oferta:** três fotos oficiais quadradas, cada uma com `href` para a página do produto: `black-friday-la-ganexa-cookies-cacau.webp` (tigela de cookies), `black-friday-la-ganexa-kit-degustacao-cookies.webp` e `black-friday-la-ganexa-pasta-natural.webp` (500 × 500, o tamanho da foto oficial; a única foto maior da página da pasta de 1 kg mostra o pote de 450 g). O Kit Degustação Pasta está na capa e o Doce de Leite Zero, na capa do LG1: ficaram fora do corpo para não repetir foto.
+- **CDN:** as imagens novas do artigo subiram em 13/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
