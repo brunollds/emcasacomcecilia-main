@@ -7,9 +7,9 @@ parceiro_slug: "la-ganexa"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2)"
+proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "LG3"
@@ -132,3 +132,31 @@ pelo navegador.
 | WhatsApp e horário | Reclame Aqui e rodapé, 13/11 | verificado; reler |
 | Sem glúten; "diabéticos podem consumir", com o médico ou o nutricionista | FAQ da loja, 13/11 | só com atribuição |
 | Reputação Ótima, nota 9,2; 100% respondidas | Reclame Aqui, 6 meses até 31/10/2026 | verificado; reler |
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/la-ganexa-e-confiavel.json` (id 940), no esqueleto do briefing. Ficaram fora, por falta de fonte ou por regra: a razão social (o site só mostra o CNPJ), a frase ambígua sobre "todos os itens do pedido de devolução", cashback, app e Mercado Livre, o diretório que dá São Paulo como sede e outros anos de fundação, as notas do Reclame Aqui vindas de busca (vale a releitura de 13/11) e a reclamação de 2023 sobre a Leitinho. Sem link para o LG5, que ainda não existe.
+
+## Revisão (Job 3, 13/11/2026, Fable 5.2)
+
+Conferido contra as políticas da loja, a releitura do Reclame Aqui e o LG2. Aplicado:
+
+- site oficial: as duas respostas da loja no Reclame Aqui separadas (numa, a plataforma do outro canal cuida da venda; noutra, a loja pediu a nota fiscal), sem virar regra da loja; "O endereço laganexa.com.br, sem o “loja” na frente, não abre a loja e não leva a ela", sem o "ainda aparece em buscas" e sem o "hoje"; o link do rodapé para o perfil do Reclame Aqui (conferido no HTML da home: o selo RA1000 leva ao perfil);
+- entrega: as duas fontes do prazo de postagem e a entrega "em média de 2 a 5 dias úteis", que varia com a região;
+- troca: "Confira a caixa no dia da entrega" e fotografar antes de mexer, porque a loja orienta não abrir a embalagem avariada (o texto mandava abrir); "produto aberto não volta por arrependimento", também no FAQ, com a avaria como outro caso;
+- clientes: o ano mais fraco (2024, nota 8,5) e "De 2025 para cá, ela ficou acima de 9", no lugar das cinco notas em fila; "cerca de um terço dos problemas comentados nos últimos três anos" e "pedido que constava como entregue sem ter chegado";
+- saúde: a orientação profissional abre o capítulo (C12), e a frase da loja vem depois, atribuída ao FAQ;
+- "a página “Sobre” diz"; "São números da própria marca.", sem o bastidor; no FAQ, o CNPJ uma vez a menos e "Confirme o horário pelo WhatsApp antes de ir".
+
+Mantido: "diabéticos podem consumir", atribuído ao FAQ da loja e depois da orientação profissional, pela regra do pacote (o parecer deixou como opção do Bruno tirar a frase, S1); o Pix sem desconto a mais (Bruno, 13/11).
+
+C1: 0 "R$" na resposta rápida (57 palavras, 3 frases). C2: 1 data no corpo ("de maio a outubro de 2026", em "O que dizem os clientes"), e nenhuma em título, legenda ou FAQ. Snippet: 140 caracteres, código até o caractere 7. Subtítulo: 162.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 13/11/2026)
+
+- **Capa:** `/images/reviews/laganexa/la-ganexa-e-confiavel-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral verde com o logo e "La Ganexa / é confiável? / site, entrega e trocas". Foto oficial da loja de 2024 (ALFAJOR_COOKIES-2, criada em 23/10/2024 no `products.json`): um alfajor de cookies partido ao meio. O Bruno escolheu esta entre três opções; as outras eram imagens da loja de 2026 (o pote Leitinho de 450 g e o pote natural com tapioca).
+- **O site oficial:** print do rodapé do site (`la-ganexa-e-confiavel-rodape-cnpj.webp`), completado dos lados com a cor de fundo do rodapé até 647 × 647, para caber no formato quadrado sem corte. Mostra o logo, o endereço em Peruíbe, o WhatsApp, a nota 4,8 no Google e a linha do CNPJ; o selo RA1000, com o link do perfil, fica na faixa de selos, fora do recorte.
+- **De onde é a La Ganexa:** foto oficial de janeiro de 2025 do pote de 450 g da pasta Leitinho ao lado de uma tigela (`la-ganexa-e-confiavel-leitinho.webp`, 500 × 500, com `href` para a página do produto). A legenda cita o "A MAIS FAMOSA!" da descrição da loja.
+- **Imagens da loja geradas por IA:** o Bruno liberou em 13/11/2026 ("Se a imagem de IA é da própria empresa, não podemos fazer nada. Pode usar."). Mesmo assim, a capa ficou com foto real.
+- **CDN:** as seis imagens do LG2 e do LG3 subiram em 13/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
+

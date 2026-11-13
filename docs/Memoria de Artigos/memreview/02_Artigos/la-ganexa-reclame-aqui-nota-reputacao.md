@@ -7,9 +7,9 @@ parceiro_slug: "la-ganexa"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2), depois da releitura do Reclame Aqui"
+proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "LG2"
@@ -128,9 +128,38 @@ pelo navegador.
 | 4º em "Melhor empresa", categoria Fabricantes MultiMarcas | perfil, 13/11 | verificado; só com a posição exata |
 | Mesmo CNPJ do rodapé da loja; o rodapé tem link para o perfil | perfil e rodapé, 13/11 | verificado |
 | "Loja Ganexa Ltda", tabacaria, sem relação | busca do Reclame Aqui, 13/11 | verificado; reler |
-| Principal problema: atraso na entrega, 35,71% | aba geral, 13/11 | verificado; reler |
+| Principal problema: atraso na entrega, 35,54% (a primeira leitura do dia deu 35,71%) | aba geral, releitura de 13/11 | verificado; reler |
 | Títulos das últimas reclamações (pasta aberta, embalagem aberta, sabor estragado, preço "de" de Black Friday) | perfil, 13/11 | verificado; só como padrão |
 | Reclamações sobre a pasta Leitinho | títulos no Google, 13/11 | a ler antes de escrever |
 | 48 horas para avaria; 7 dias para devolver; análise em até 15 dias úteis; reembolso da postagem sem logística reversa | `/pages/politica-de-troca-e-devolucao`, 13/11 | verificado; reler |
 | Envio em até 24 horas úteis; entrega de 2 a 5 dias úteis | `/pages/politica-de-frete`, 13/11 | verificado; reler |
 | Abas de 12 meses, 2025, 2024 e Geral | não lidas | a ler |
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/la-ganexa-reclame-aqui-nota-reputacao.json` (id 939), no esqueleto do briefing, com os números da releitura do Reclame Aqui de 13/11 (35,54% de atraso na aba geral). Ficaram fora: a reclamação de 2023 sobre a Leitinho (mais de três anos), a de conduta de influenciador, a reputação da LOJA GANEXA LTDA (só a categoria entra), o diretório que dá São Paulo como sede, cashback e app. O RA1000 aparece nas tabelas sem explicação, porque nenhuma fonte lida define o selo.
+
+## Revisão (Job 3, 13/11/2026, Fable 5.2)
+
+As duas tabelas foram conferidas linha a linha contra a releitura. Aplicado:
+
+- nota: "Em 2025 a nota passou de nove, e segue assim nos últimos doze meses" no lugar de "voltou a subir" (não há aba anterior a 2024); a aba geral "fica um pouco abaixo das abas recentes: ela inclui 2024";
+- reclamações: os 35,54% como classificação das reclamações publicadas, não dos pedidos; "Nas reclamações mais recentes" no lugar de "Depois do atraso"; a compra em outro canal como versão da empresa; "No caso lido" (só um caso foi lido); a reclamação do preço "de" sem gênero e sem data;
+- Leitinho: parágrafo dividido em dois; "o jeito carinhoso padrão do atendimento"; "A reclamação terminou como resolvida"; a reclamação antiga "tem mais de três anos e já não conta para a nota do perfil"; a frase de método trocada pela instrução de ler a descrição e ver a foto do pote de 1 kg;
+- perfil: "Não é o perfil para onde o rodapé da loja aponta"; saiu a frase da cidade no Reclame Aqui, vista só num resumo do Google;
+- cuidados: o prazo de postagem com as duas fontes da loja (política de frete: 24 horas úteis; perguntas frequentes: 1 a 2 dias úteis) e a entrega "em média, de 2 a 5 dias úteis", também no FAQ; "Peça a devolução em até 7 dias corridos"; a orientação de troca como a política diz; "Os outros itens são as regras de entrega e de devolução" (o parecer dizia "os outros dois"; são três: prazo, tentativas de entrega e devolução);
+- se der problema: o horário do WhatsApp atribuído ao perfil do Reclame Aqui; "A devolução se pede pelo WhatsApp ou pelo Instagram"; o extravio pela política de frete (valor integral dos produtos), no lugar do caso que repetia o capítulo das reclamações;
+- a legenda da segunda tabela sem a data repetida.
+
+Não aplicado: explicar o RA1000 (S13), sem fonte lida. O tipo "Análise de Reputação" fica fora da lista do C10, igual ao modelo da Prohall.
+
+C1: 0 "R$" na resposta rápida (54 palavras, 3 frases). C2: 2 datas no corpo, as duas na legenda da primeira tabela (`bodyDatesReason: reclame-aqui`), e nenhuma em título, legenda de foto ou FAQ. Snippet: 135 caracteres, código até o caractere 7. Subtítulo: 158.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 13/11/2026)
+
+- **Capa:** `/images/reviews/laganexa/la-ganexa-reclame-aqui-nota-reputacao-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral verde com o logo e "La Ganexa no / Reclame Aqui / nota e reclamações", no modelo da Prohall. Foto oficial da loja de 2024 (DOCEDELEITES_F, criada em 28/11/2024 no `products.json`): o pote de 450 g da pasta sabor Doce de Leite com Castanha de Caju.
+- **A nota em números:** print do painel de 6 meses do perfil (`la-ganexa-reclame-aqui-painel-6-meses.webp`, 712 × 590), com as duas metades do painel lado a lado, como a legenda avisa; `contain` com `aspectRatio` 1,2068. Sem nome de consumidor.
+- **O que mais gera reclamação:** a foto da loja do pote de 1 kg da pasta Leitinho aberto, com as lascas de chocolate por cima (`la-ganexa-reclame-aqui-nota-reputacao-leitinho-1kg.webp`, 1000 × 1000, com `href` para a página do produto). O parágrafo da Black Friday passou para antes dos dois da Leitinho, para a foto vir logo depois do conselho de ver a foto desse tamanho. A descrição da pasta de 450 g diz, em maiúsculas, que só o pote de 450 g tem o "berço" que separa o chocolate e que o de 1 kg leva lascas por cima; a descrição longa do pote de 1 kg no `products.json` não traz esse aviso, e a "descrição curta" que a loja cita no Reclame Aqui não foi lida na página.
+- **Imagens da loja geradas por IA:** o Bruno liberou em 13/11/2026 ("Se a imagem de IA é da própria empresa, não podemos fazer nada. Pode usar."). Mesmo assim, a capa ficou com foto real.
+- **CDN:** as seis imagens do LG2 e do LG3 subiram em 13/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
+

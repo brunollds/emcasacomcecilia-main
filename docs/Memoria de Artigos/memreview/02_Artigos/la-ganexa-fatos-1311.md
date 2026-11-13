@@ -77,7 +77,7 @@ URL: `https://www.reclameaqui.com.br/empresa/la-ganexa-produtos-alimenticios/`. 
 - **É o mesmo CNPJ da loja:** 31.315.158/0001-84, igual ao rodapé de `lojalaganexa.com.br`. O rodapé da loja tem
   link para esse perfil.
 - **Busca "la ganexa" no Reclame Aqui:** aparece também uma "LOJA GANEXA LTDA", de tabacaria, sem relação.
-- **Principal problema (aba geral, até 3 anos):** atraso na entrega, 35,71%.
+- **Principal problema (aba geral, até 3 anos):** atraso na entrega, 35,54% na releitura de 13/11 (a primeira leitura do mesmo dia deu 35,71%).
 - **Últimas reclamações lidas (títulos):** pasta de amendoim que chegou aberta; embalagem aberta; pasta com sabor
   estragado; preço "de" de uma oferta de Black Friday contestado por quem tinha comprado antes. Todas respondidas.
 - **Fica fora dos textos:** uma reclamação sobre a conduta de um influenciador parceiro da marca. Não é sobre
