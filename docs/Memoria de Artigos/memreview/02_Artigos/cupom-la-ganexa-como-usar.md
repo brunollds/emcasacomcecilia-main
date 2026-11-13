@@ -7,9 +7,9 @@ parceiro_slug: "la-ganexa"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pronto-para-deploy"
+status: "no-ar"
 responsavel: "Claude"
-proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
+proxima_acao: "revisão mensal de dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "LG1"
@@ -208,3 +208,11 @@ C1: 0 "R$" na resposta rápida. C2: 1 data no corpo e nenhuma em título, legend
 - **Onde digitar o cupom:** o print do `cartPrint` da página de cupom, já no site.
 - **Quanto o cupom tira:** duas fotos reais da loja, de abril de 2026 (500 × 500, com `href` para a página do produto), de itens do carrinho do teste: `cupom-la-ganexa-como-usar-doce-de-leite.webp` (Doce de Leite Zero 400 g) e `cupom-la-ganexa-como-usar-cookies-baunilha.webp` (cookies de baunilha do Kit Degustação Cookies). O Bruno pediu ao menos mais uma foto de produto no artigo.
 - **CDN:** as imagens novas do artigo subiram em 13/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
+
+## Publicação (13/11/2026)
+
+- No ar em 13/11/2026, id 937: PR #953 (squash `eecf287e`) e a troca das fotos no PR #954 (squash `682d23af`), release `682d23af` (deploy d7881d9a, build 01a1d57e), só PT. O #953 não foi ao ar sozinho: as fotos de IA saíram no #954, antes do deploy, e os dois foram juntos.
+- Smoke: a página com 200, o og:image na capa `-capa-v2`, as duas fotos do corpo pelo CDN e nenhuma referência às fotos antigas; sitemap e llms.txt com o artigo; `covers:check` ok; IndexNow com 7 URLs (os dois artigos, `/reviews`, a home, `/cupons/la-ganexa`, sitemap e llms.txt); captura 43452862558 disparada, à espera da aprovação do Bruno.
+- Título: "Como usar o cupom CECILIA na La Ganexa: 10% OFF, inclusive em promoção". seoTitle: "Cupom La Ganexa: como usar o CECILIA, 10% OFF".
+- Pendente: revisão mensal de dezembro de 2026: reler o CECILIA no checkout, o frete grátis por região, as regras das promoções (os dois kits que não acumulam e o brinde acima de R$ 180) e os preços do carrinho do teste.
+- Pendente: o capítulo "Vale para quem já comprou?" volta, com o link, quando o LG4 for publicado; o link para o LG3 entra quando ele for ao ar.
