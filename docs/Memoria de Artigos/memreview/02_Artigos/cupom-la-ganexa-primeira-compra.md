@@ -7,9 +7,9 @@ parceiro_slug: "la-ganexa"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pronto-para-deploy"
+status: "no-ar"
 responsavel: "Claude"
-proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
+proxima_acao: "revisão mensal de dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "LG4"
@@ -163,3 +163,9 @@ C1: 0 "R$" na resposta rápida (46 palavras, 3 frases). C2: 1 data no corpo ("13
 - **Imagens da loja geradas por IA:** o Bruno liberou em 13/11/2026 ("Se a imagem de IA é da própria empresa, não podemos fazer nada. Pode usar."). As legendas dizem "Imagem: La Ganexa." e os alts, "imagem publicada pela loja", porque os arquivos são renders da loja, não fotos.
 - **CDN:** as duas imagens subiram em 13/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
 
+## Publicação (13/11/2026)
+
+- No ar em 13/11/2026, id 941: PR #959 (squash `d550fc0a`), release `d550fc0a` (deploy f9c9848d, build 01a1d5e9), só PT, com o GO do Bruno.
+- Smoke: a página com 200, o og:image na capa pelo CDN, as imagens do corpo pelo CDN e nenhum "PROVISÓRIO" no HTML; os links novos no LG1 (o capítulo "Vale para quem já comprou?"), no LG2, no LG3 e no LG6; sitemap e llms.txt com os dois artigos; `covers:check` 2/2; IndexNow com 12 URLs (os seis artigos da La Ganexa, `/reviews`, `/reviews/loja/la-ganexa`, a home, `/cupons/la-ganexa`, sitemap e llms.txt); captura 43472180274 disparada, à espera da aprovação do Bruno.
+- Título: "Cupom La Ganexa primeira compra: CECILIA dá 10% OFF e vale nas compras seguintes". seoTitle: "Cupom La Ganexa primeira compra: 10% OFF com CECILIA".
+- Pendente: revisão mensal de dezembro de 2026: reler o CECILIA no checkout, o frete grátis por região e o preço da pasta Crocante de 450 g.
