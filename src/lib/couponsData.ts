@@ -331,7 +331,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom DAMIE vale na Black Friday?',
         answer:
-          'Vale. O cupom DAMIE CECILIA12 dá 12% OFF e soma com as promoções, os brindes e o desconto do Pix; só não soma com outro cupom nem com o giftback.',
+          'O cupom DAMIE CECILIA12 dá 12% OFF e soma com as promoções, os brindes e o desconto do Pix; só não soma com outro cupom nem com o giftback.',
       },
       {
         question: 'Comprar com o cupom muda o preço para mim?',
@@ -911,7 +911,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Tem cupom I Wanna Sleep na Black Friday?',
         answer:
-          'Tem. O cupom I Wanna Sleep CECIEMCASA dá 10% OFF em todo o site, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+          'Tem. O cupom I Wanna Sleep CECIEMCASA dá 10% OFF em todo o site, em todas as formas de pagamento.',
       },
       {
         question: 'O cupom I Wanna Sleep vale na Black Friday?',
