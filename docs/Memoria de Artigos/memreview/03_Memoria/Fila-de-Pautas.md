@@ -129,6 +129,16 @@ vendidos dentro da página do cupom; aqui vira artigo, e a página de loja não 
 | Depois | Moveleiro, Gran Belo, Herval, Stressless e Natuzzi, um artigo por marca | Fatos abaixo. Reler ao abrir |
 | Reserva | Ortobom e Tempus | Fatos abaixo |
 
+**DAMIE nos marketplaces (ideia do Bruno, 12/11; fora da pausa da série).** A DAMIE atende o Norte e o Nordeste só pelos anúncios dela no Mercado Livre, e as poltronas dos marketplaces são modelos diferentes das do site, mesmo quando o nome é igual (Bruno, 12/11). Fatos, regras e o que falta ler em [[damie-marketplaces-1211]]; evidência em [[Pesquisas-de-Pauta]] (DAMIE, 12/11).
+
+| Código | Pauta | Condição |
+|---|---|---|
+| DM1 | DAMIE no Mercado Livre ou no site: onde comprar | Espera a leitura dos cinco anúncios (Chrome do Bruno). Modelo do anúncio é outro: preço nunca lado a lado como mesma poltrona. Amazon como capítulo |
+| DM2 | DAMIE entrega na minha região? Frete e prazo por região | Página de fretes lida em 12/11; falta o frete e o prazo de um CEP do Norte e um do Nordeste no anúncio |
+| DM3 | As poltronas da DAMIE que só existem nos marketplaces | Espera a descrição do que muda no assento e a leitura dos anúncios. Sem teste próprio: só ficha e avaliações |
+
+Site principal ou subdomínio: decisão do Bruno, ainda aberta. A PP5 (acima) continua pausada.
+
 - **Regras:** guia amplo de categoria pode citar várias marcas; "X ou Y" continua um por marca. Em comparativo direto, concorrente sem link, sem foto e sem cupom. Em guia amplo, a alternativa vendida onde há comissão (Amazon, Magalu, Mercado Livre) leva link de afiliado e foto; a que não gera comissão fica sem os dois (Bruno, 09/11). Sem teste próprio, entra pela ficha e, se couber, pelo Reclame Aqui, dizendo que não foi testado.
 - **Fatos da DAMIE:** tudo recebido em parceria. A Levita gira até 280°, nunca 360°. CECILIA12: 12%, toda forma de pagamento, soma com promoções, Pix e quantidade, não soma com outro cupom nem com o giftback de 15%, não vale no Mercado Livre. Campanha até 27/11: reler antes de citar. Foto ambientada da DAMIE com cara de IA não entra.
 - **Google Trends** (Brasil, 09/11/2025 a 09/11/2026, partindo de "poltrona do papai premium"; índice relativo, sem somar linhas): poltrona reclinável 100 (-20%); poltrona do papai reclinável 100 (-20%); cadeira do papai 44 (-20%); poltrona eletrica 15 (+20%); poltrona do papai eletrica 15 (+10%); poltrona do papai corino 12 (+30%); poltrona do papai preço 11 (-10%); poltrona do papai massageadora 10 (+20%); poltrona do papai magazine luiza 10 (-10%); poltrona do papai casas bahia 8 (-30%); poltrona do papai mercado livre 6 (-20%); poltrona do papai promoção 5 (+20%); poltrona do papai em couro 4 (+30%); poltrona damie 4 (+6%).
