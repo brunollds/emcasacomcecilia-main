@@ -24,6 +24,9 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | IL4 | Camiseta anti odor funciona? O que o tecido faz, o que não faz e como lavar | Insider | PT | [[camiseta-anti-odor-funciona]] | GO do Bruno em 11/11. Página de tecnologia e etiquetas; redação. Sem afirmar que funciona nem que não funciona |
 | IL6 | Cueca slip ou boxer: corte, uso e preço por peça | Insider | PT | [[cueca-slip-ou-boxer]] | GO do Bruno em 11/11. Slip e boxer no carrinho (o kit de slip não foi testado); redação |
 | IL7 | Calça para viagem de avião: tecido, cós e bolsos | Insider | PT | [[calca-para-viagem-de-aviao]] | GO do Bruno em 11/11. Fichas das calças masculinas e femininas; redação. Perguntas no briefing: os dois gêneros e a Bagaggio por link interno |
+| PC-H | Cupom Hostinger primeira compra: SONAR20 no primeiro período, e o ciclo como decisão do primeiro pedido (Bruno, 13/11: separado do `cupom-hostinger-indicacao`, sem "conta nova") | Hostinger | 10 idiomas | [[cupom-hostinger-primeira-compra]] | Redação PT, depois a família (`hostinger-primeira-compra`); reler o carrinho de 48 meses e de 1 mês |
+| PC-Y | YesStyle primeira compra: CECILIA010, 5% no primeiro pedido e 2% nos seguintes, como código de recompensa (sem o boas-vindas da loja) | YesStyle | 10 idiomas | [[codigo-yesstyle-primeira-compra-cecilia010]] | Redação PT, depois a família (`yesstyle-primeira-compra`); reler a entrega ao Brasil |
+| PC-S | Cupom SHEIN primeira compra: o 4CW5Y como código de indicação, no primeiro pedido e nos seguintes (a campanha de novo usuário só pelo banner) | SHEIN | 10 idiomas | [[cupom-shein-primeira-compra]] | Redação PT, depois a família (`shein-primeira-compra`) |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
@@ -39,7 +42,6 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | — | YesStyle volta a entregar no Brasil | YesStyle | Reverter as frases de "sem entrega" em `yesstyle-entrega-no-brasil-e-portugal`, `yesstyle-e-confiavel`, `yesstyle-app-como-comprar-codigo-de-recompensa`, `yesstyle-trustpilot-nota-reclamacoes`, `black-friday-yesstyle` e no dossiê | Bruno avisa |
 | — | Item 11 da otimização do GSC de 11/10 (cupom da Dolce Gusto) | Dolce Gusto | O export filtrado do GSC | Bruno |
 | — | Sofás nos dois domínios: `sofa-na-caixa-inflow-ou-damie` (site) e `inflow-ou-sofa-na-caixa-ou-damie` (subdomínio) têm a mesma intenção | DAMIE | Olhar o GSC antes de mexer. O lado do subdomínio é da sessão de lá | Bruno |
-| PC, próxima fase | Cupom <loja> primeira compra na Hostinger (SONAR20 só em compra nova), na YesStyle (código de recompensa) e na SHEIN (código de indicação): artigo separado; a Lejour fica fora ([[cupom-primeira-compra-serie-1211]]) | Hostinger, YesStyle, SHEIN | O Bruno chamar a próxima fase, depois das lojas de código comum (12/11) | Bruno |
 
 ## 3. Estoque: volta quando o Bruno chamar ou quando o sinal mudar
 
