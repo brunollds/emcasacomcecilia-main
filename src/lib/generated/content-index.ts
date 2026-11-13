@@ -220532,7 +220532,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O carrinho também mostra o preço de renovação abaixo do plano. Confira esse valor antes de escolher o ciclo, porque é ele que você paga quando o período acaba."
+          "Cada valor da tabela é o total do primeiro período, cobrado na contratação. Antes de escolher o ciclo, compare esse custo inicial com o preço de renovação mostrado no carrinho."
         ]
       },
       {
@@ -220657,7 +220657,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Indicação não é cupom de checkout",
         "paragraphs": [
-          "O 4CW5Y não vai no campo de cupom do carrinho. Pesquisado no app ou no site, ele abre a página da SHEIN ligada ao código, e o desconto aparece nas peças dessa seleção.",
+          "O 4CW5Y não vai no campo de cupom do carrinho. Pesquisado no app ou no site, abre a página da SHEIN ligada ao código: uma seleção de promoções e descontos.",
           "A loja informa: as vantagens aparecem nas páginas de campanha e de produto e mudam com frequência. Quanto e em quais peças, quem decide é a SHEIN.",
           "Por isso, ao montar o carrinho, confira o preço final de cada peça antes de pagar."
         ],
@@ -220665,7 +220665,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
             "alt": "Página da SHEIN aberta pela pesquisa do 4CW5Y, com o título \"Acho que você pode gostar\" e peças com selo de desconto",
-            "caption": "A página que a pesquisa pelo 4CW5Y abre: o desconto aparece marcado em cada peça.",
+            "caption": "Seleção aberta pela pesquisa de 4CW5Y, com peças marcadas com selo de desconto.",
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
@@ -220764,7 +220764,7 @@ export const reviewsData: unknown[] = [
         "heading": "YesStyle primeira compra: o que usar",
         "paragraphs": [
           "Vai fazer o primeiro pedido na YesStyle? Use o CECILIA010 no campo Reward Code. A loja informa: 5% na primeira compra e 2% nas seguintes.",
-          "Código achado em site de cupom pode não funcionar. O que vale é a linha do desconto no resumo do pedido, antes de pagar. As condições estão na página do [código de recompensa YesStyle](/cupons/yesstyle)."
+          "Código achado em site de cupom pode não funcionar: confira a linha do desconto no resumo antes de pagar. As condições estão na página do [código de recompensa YesStyle](/cupons/yesstyle)."
         ]
       },
       {
@@ -220894,7 +220894,7 @@ export const reviewsData: unknown[] = [
         "heading": "Hostinger first-time coupon: which one to use",
         "paragraphs": [
           "Use SONAR20. It gives 20% off the first period of a new Hostinger plan, and you paste the code into the cart's coupon field.",
-          "A code found on a coupon aggregator may not work. SONAR20 is the one we tested in the cart, and its conditions are on the [Hostinger coupon](/en/coupons/hostinger) page."
+          "A code found on a coupon site may not work. SONAR20 is the one we tested in the cart, and its conditions are on the [Hostinger coupon](/en/coupons/hostinger) page."
         ]
       },
       {
@@ -220920,7 +220920,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "The cart also shows the renewal price below the plan. Check that amount before you choose a term, because it is what you pay when the period ends."
+          "The table shows the total billed at purchase for the first term. Compare that initial cost with the renewal price shown in the cart before choosing a term."
         ]
       },
       {
@@ -221039,14 +221039,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Para tu primera compra en Hostinger, usa SONAR20: 20% de descuento en el primer período del plan, también sobre el precio de campaña. El descuento vale en una compra nueva, no en la renovación ni en un dominio suelto. Elige el ciclo con calma, porque los 20% valen solo en el primer período; abajo está la cuenta del plan de 48 meses."
+          "Para tu primera compra en Hostinger, usa SONAR20: 20% de descuento en el primer período del plan, también sobre el precio de campaña. Vale para contratar un producto nuevo, no para renovaciones ni dominios sueltos. Elige el ciclo con calma, porque los 20% valen solo en el primer período; abajo está la cuenta del plan de 48 meses."
         ]
       },
       {
         "heading": "Cupón Hostinger primera compra: cuál usar",
         "paragraphs": [
           "Usa SONAR20. Da 20% en el primer período de un plan nuevo en Hostinger, y el código se introduce en el campo de cupón del carrito.",
-          "Un código sacado de una web de cupones puede no funcionar. SONAR20 es el que probamos en el carrito, y sus condiciones están en la página del [cupón Hostinger](/es/coupons/hostinger)."
+          "Un código sacado de una web de cupones puede no funcionar. Probamos SONAR20 en el carrito; consulta sus condiciones en la página del [cupón Hostinger](/es/coupons/hostinger)."
         ]
       },
       {
@@ -221072,7 +221072,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "El carrito también muestra el precio de renovación debajo del plan. Revisa ese valor antes de elegir el ciclo, porque es el que pagas cuando termina el período."
+          "La tabla muestra el total del primer período, que se cobra al contratar. Antes de elegir el ciclo, compara ese importe inicial con el precio de renovación que aparece en el carrito."
         ]
       },
       {
@@ -221106,7 +221106,7 @@ export const reviewsData: unknown[] = [
           "Comprueba el descuento en el total antes de pagar."
         ],
         "postParagraphs": [
-          "El enlace de este artículo ya lleva SONAR20, pero no todos los planes entran con el código aplicado. Si la línea del cupón no aparece en el resumen, pega el código en el campo.",
+          "El enlace de este artículo incluye SONAR20, pero no todos los planes entran con el código aplicado. Comprueba el descuento en el resumen; si no aparece, pega el código en el campo.",
           "Para saber qué cubre el código en cada plan, mira [cómo usar el cupón Hostinger](/es/reviews/cupon-hostinger-codigo-de-referido)."
         ]
       },
@@ -221114,7 +221114,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿Hay cupón Hostinger para la primera compra? Sí: SONAR20 da 20% en el primer período de un plan nuevo.",
-          "¿El cupón Hostinger vale en el plan mensual? Los 20% valen en el primer período del ciclo que elijas. Comprueba el descuento en el carrito del ciclo elegido antes de pagar.",
+          "¿El cupón Hostinger vale en el plan mensual? Nuestra prueba, en el sitio global, fue solo con el ciclo de 48 meses. En el plan mensual, comprueba el descuento en el carrito antes de pagar.",
           "¿SONAR20 da descuento en la renovación? No. La renovación sale a precio de lista, que aparece en el carrito debajo del plan.",
           "¿El cupón vale para dominios? No para un dominio suelto. Vale en compras nuevas de hosting, VPS, correo profesional y Reach."
         ]
@@ -221207,7 +221207,7 @@ export const reviewsData: unknown[] = [
           "Les 20 % ne valent que sur la première période : la durée choisie à la première commande décide donc de combien de temps la réduction joue, et de la date à laquelle le prix catalogue s'applique. Si vous hésitez encore, une durée courte laisse le renouvellement arriver plus tôt ; si vous avez déjà décidé de rester, une durée longue étend les 20 % sur toute la période, et le renouvellement n'arrive qu'à la fin."
         ],
         "comparisonTable": {
-          "caption": "Forfait Cloud Startup, panier du site global, le 7 novembre 2026 : prix sans le code et avec SONAR20",
+          "caption": "Forfait Cloud Startup, panier du site global, le 29 octobre 2026 : prix sans le code et avec SONAR20",
           "headers": [
             "Durée",
             "Sans le code",
@@ -221224,7 +221224,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Le panier affiche aussi le prix de renouvellement sous le forfait. Vérifiez cette valeur avant de choisir la durée, car c'est elle que vous payez quand la période se termine."
+          "Le tableau indique le montant total facturé à la souscription pour la période initiale. Avant de choisir la durée, comparez ce montant au prix de renouvellement affiché dans le panier."
         ]
       },
       {
@@ -221258,7 +221258,7 @@ export const reviewsData: unknown[] = [
           "Vérifiez la réduction dans le total avant de payer."
         ],
         "postParagraphs": [
-          "Le lien de cet article contient déjà SONAR20, mais tous les forfaits ne l'appliquent pas automatiquement. Si la réduction n'apparaît pas dans le récapitulatif, collez le code dans le champ.",
+          "Le lien de cet article contient SONAR20, mais tous les forfaits ne l'appliquent pas automatiquement. Vérifiez la réduction dans le récapitulatif ; si elle ne s'affiche pas, saisissez le code dans le champ.",
           "Pour ce que le code couvre dans chaque forfait, voyez [comment utiliser le code promo Hostinger](/fr/reviews/code-promo-hostinger-parrainage)."
         ]
       },
@@ -221376,7 +221376,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Der Warenkorb zeigt unter dem Tarif auch den Verlängerungspreis. Prüfen Sie diesen Betrag vor der Wahl der Laufzeit, denn er wird fällig, wenn der Zeitraum endet. Die 20 % gelten auch bei anderen Laufzeiten für den ersten Zeitraum; den Betrag zeigt der Warenkorb der gewählten Laufzeit."
+          "Die Tabelle zeigt den Gesamtpreis für den ersten Zeitraum; er wird beim Kauf berechnet. Vergleichen Sie ihn vor der Buchung mit dem Verlängerungspreis, den der Warenkorb anzeigt."
         ]
       },
       {
@@ -221410,7 +221410,7 @@ export const reviewsData: unknown[] = [
           "Prüfen Sie den Rabatt in der Summe, bevor Sie zahlen."
         ],
         "postParagraphs": [
-          "Der Link in diesem Artikel enthält SONAR20 bereits, aber nicht jeder Tarif übernimmt ihn von selbst. Erscheint in der Bestellübersicht keine Zeile mit dem angewendeten Gutschein, fügen Sie den Code im Feld ein.",
+          "Der Link dieses Artikels enthält SONAR20, aber nicht jeder Tarif übernimmt ihn von selbst. Prüfen Sie den Rabatt in der Bestellübersicht; erscheint er dort nicht, geben Sie den Code im Gutscheinfeld ein.",
           "Was der Code bei jedem Tarif abdeckt, steht in [Hostinger-Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
         ]
       },
@@ -221418,7 +221418,7 @@ export const reviewsData: unknown[] = [
         "heading": "Häufige Fragen",
         "bullets": [
           "Gibt es einen Hostinger-Gutschein für den ersten Kauf? Ja: SONAR20 gibt 20 % auf den ersten Zeitraum eines neuen Tarifs.",
-          "Gilt der Hostinger-Gutschein beim Monatstarif? Die 20 % gelten für den ersten Zeitraum der gewählten Laufzeit. Prüfen Sie den Rabatt im Warenkorb der Laufzeit, die Sie wählen.",
+          "Gilt der Hostinger-Gutschein beim Monatstarif? Getestet haben wir nur die Laufzeit von 48 Monaten. Prüfen Sie beim Monatstarif den Rabatt im Warenkorb, bevor Sie zahlen.",
           "Gibt SONAR20 Rabatt auf die Verlängerung? Nein. Die Verlängerung läuft zum Tabellenpreis, den der Warenkorb unter dem Tarif zeigt.",
           "Gilt der Gutschein für eine Domain? Nicht für die einzelne Domain. Er gilt beim Neukauf von Hosting, VPS, professioneller E-Mail und Reach."
         ]
@@ -221527,7 +221527,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Il carrello mostra anche il prezzo di rinnovo sotto il piano. Controllalo prima di scegliere il periodo, perché è quello che paghi alla scadenza."
+          "La tabella mostra il totale del primo periodo, addebitato al momento dell'acquisto. Prima di scegliere la durata, confronta questo costo iniziale con il prezzo di rinnovo indicato nel carrello."
         ]
       },
       {
@@ -221560,7 +221560,7 @@ export const reviewsData: unknown[] = [
           "Controlla lo sconto nel totale prima di pagare."
         ],
         "postParagraphs": [
-          "Il link di questo articolo include già SONAR20, ma non ogni piano si apre con il codice applicato. Se nel riepilogo non compare la riga dello sconto, incolla il codice nel campo.",
+          "Il link di questo articolo include SONAR20, ma non ogni piano si apre con il codice applicato. Controlla lo sconto nel riepilogo; se non compare, inserisci il codice nel campo.",
           "Per cosa copre il codice in ogni piano, vedi [come usare il coupon Hostinger](/it/reviews/coupon-hostinger-codice-invito)."
         ]
       },
@@ -221568,7 +221568,7 @@ export const reviewsData: unknown[] = [
         "heading": "Domande frequenti",
         "bullets": [
           "Esiste un coupon Hostinger per il primo acquisto? Sì: SONAR20 dà il 20% sul primo periodo di un piano nuovo.",
-          "Il coupon Hostinger vale sul piano mensile? Il 20% vale sul primo periodo del piano che scegli. Controlla lo sconto nel carrello del periodo scelto prima di pagare.",
+          "Il coupon Hostinger vale sul piano mensile? Il test riportato qui, sul sito globale, riguarda solo 48 mesi. Sul piano mensile, controlla lo sconto nel carrello prima di pagare.",
           "SONAR20 dà sconto sul rinnovo? No. Il rinnovo costa il prezzo di listino, che il carrello mostra sotto il piano.",
           "Il coupon vale per i domini? Non per il dominio singolo. Vale sugli acquisti nuovi di hosting, VPS, e-mail professionale e Reach."
         ]
@@ -221679,7 +221679,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "カートにはプランの下に更新料も表示されます。期間が終わると支払うのはその金額なので、期間を選ぶ前に確認してください。"
+          "表の金額は、初回の契約期間（48か月）の総額です。契約期間を選ぶ前に、この総額とカートに表示される更新料を比べてください。"
         ]
       },
       {
@@ -221798,7 +221798,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "Hostinger 첫 구매에는 **SONAR20**을 쓰세요. 코드는 장바구니 쿠폰 칸에 넣습니다. 플랜의 첫 기간이 20% 할인되고, 캠페인 가격에서도 빠집니다. 신규 구매에 적용되며 갱신과 도메인 단독 구매는 제외됩니다. 20%는 첫 기간에만 적용되므로 계약 기간을 신중하게 고르세요. 결제 전에 총액에서 20%가 빠졌는지 확인하고, 기간별 계산은 아래에 있습니다."
+          "Hostinger 첫 구매에는 **SONAR20**을 쓰세요. 코드는 장바구니 쿠폰 칸에 넣습니다. 플랜의 첫 기간이 20% 할인되고, 캠페인 가격에서도 빠집니다. 신규 구매에 적용되며 갱신과 도메인 단독 구매는 제외됩니다. 20%는 첫 기간에만 적용되므로 계약 기간을 신중하게 고르세요. 결제 전에 총액에서 20%가 빠졌는지 확인하고, 48개월 계산은 아래에 있습니다."
         ]
       },
       {
@@ -221814,7 +221814,7 @@ export const reviewsData: unknown[] = [
           "20%는 첫 기간에만 적용되므로, 첫 주문에서 고른 계약 기간이 할인이 몇 개월 동안 이어지는지를 정합니다. 짧은 기간은 호스팅을 먼저 써 보려는 분에게 맞고, 갱신도 그만큼 일찍 옵니다. 긴 기간은 계속 쓰기로 정한 분에게 맞습니다. 20%가 기간 전체에 적용되고 갱신은 그 기간이 끝난 뒤에 옵니다. 20%는 장바구니에 표시된 가격에서 빠지므로, 결제 전에 선택한 기간의 총액을 확인하세요."
         ],
         "comparisonTable": {
-          "caption": "글로벌 사이트 장바구니의 Cloud Startup 플랜 48개월, 2026년 11월 7일: 코드 없는 가격과 SONAR20 적용 가격",
+          "caption": "글로벌 사이트 장바구니의 Cloud Startup 플랜 48개월, 2026년 10월 29일: 코드 없는 가격과 SONAR20 적용 가격",
           "headers": [
             "계약 기간",
             "코드 없이",
@@ -221831,7 +221831,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "장바구니에는 플랜 아래에 갱신 가격도 표시됩니다. 기간이 끝나면 내는 금액이므로 계약 기간을 고르기 전에 확인하세요."
+          "표의 금액은 첫 계약 기간의 총액이며, 구매할 때 청구됩니다. 계약 기간을 고르기 전에 이 금액과 장바구니에 표시된 갱신 가격을 비교하세요."
         ]
       },
       {
@@ -221865,7 +221865,7 @@ export const reviewsData: unknown[] = [
           "결제 전에 총액에 할인이 반영됐는지 확인하세요."
         ],
         "postParagraphs": [
-          "이 글의 링크에도 SONAR20이 들어 있지만 모든 플랜에 자동으로 적용되는 것은 아닙니다. 요약에 할인이 보이지 않으면 코드를 입력란에 직접 넣으세요.",
+          "이 글의 링크에도 SONAR20이 들어 있지만 모든 플랜에 자동으로 적용되는 것은 아닙니다. 주문 요약에서 할인을 확인하고, 표시되지 않으면 쿠폰 입력란에 직접 넣으세요.",
           "플랜별로 코드가 어디까지 적용되는지는 [Hostinger 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)을 참고하세요."
         ]
       },
@@ -221984,13 +221984,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "購物車也會在方案下方顯示續訂價格。選擇訂閱期間之前先看一下這個金額，因為首期結束後你要付的就是它。"
+          "表中金額是首期的總額，購買時收取。選擇訂閱期間前，請將這筆金額與購物車顯示的續訂價格比較。"
         ]
       },
       {
         "heading": "實際省多少",
         "paragraphs": [
-          "我們的計算，以測試購物車的價格為準：48 個月的 Startup 方案，20% 從總額扣掉 US$ 76.70。折扣比例固定，訂閱期間越長，省下的實際金額越多。",
+          "我們以測試購物車的價格計算：48 個月的 Startup 方案，20% 從總額扣掉 US$ 76.70。折扣比例固定，其他期間省下的金額取決於購物車顯示的價格。",
           "20% 是從購物車已顯示的價格扣掉的，我們測試時顯示的是 [Hostinger 黑色星期五](/zh-hant/reviews/hostinger-black-friday-zh-hant)的價格。活動價會變動，付款前請在訂單摘要確認總額。"
         ]
       },
@@ -222026,7 +222026,7 @@ export const reviewsData: unknown[] = [
         "heading": "常見問題",
         "bullets": [
           "Hostinger 有首次購買優惠碼嗎？有：SONAR20 為新方案首期享 20% 折扣。",
-          "Hostinger 優惠碼適用於月付方案嗎？可能適用，請以購物車為準：20% 折扣涵蓋你所選訂閱期間的首期，付款前在訂單摘要確認折扣。",
+          "Hostinger 優惠碼適用於月付方案嗎？本文只在全球站測試過 48 個月的方案；月付方案請在付款前於購物車確認折扣。",
           "SONAR20 對續訂有折扣嗎？沒有。續訂按價目表計價，購物車會在方案下方顯示。",
           "優惠碼適用於網域嗎？單買網域不適用。它適用於新購買的網站主機、VPS、專業電郵和 Reach。"
         ]
@@ -222135,7 +222135,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "购物车还会在套餐下方显示续费价格。选周期之前请先看这个数字，因为周期结束后你付的就是它。"
+          "表中金额是这一计费周期的总额，购买时收取。选周期之前，请把它和购物车套餐下方显示的续费价格比较，周期结束后你付的就是那个价格。"
         ]
       },
       {
@@ -222246,7 +222246,7 @@ export const reviewsData: unknown[] = [
         "heading": "YesStyle first order: what to use",
         "paragraphs": [
           "Placing your first order at YesStyle? Use CECILIA010 in the Reward Code field. The store lists 5% on the first order and 2% on later ones.",
-          "A code from a coupon site may not work. What counts is the discount line in the order summary, before you pay. The conditions are on the [YesStyle Reward Code page](/en/coupons/yesstyle)."
+          "A code from a coupon site may not work. Check the discount line in the order summary before paying. See the conditions on the [YesStyle Reward Code page](/en/coupons/yesstyle)."
         ]
       },
       {
@@ -222361,7 +222361,7 @@ export const reviewsData: unknown[] = [
         "heading": "YesStyle primera compra: qué usar",
         "paragraphs": [
           "¿Vas a hacer tu primer pedido en YesStyle? Usa CECILIA010 en el campo Reward Code. La tienda informa: 5 % en la primera compra y 2 % en las siguientes.",
-          "Un código encontrado en una web de cupones puede no funcionar. Lo que cuenta es la línea del descuento en el resumen del pedido, antes de pagar. Las condiciones están en la página del [código de recompensa de YesStyle](/es/coupons/yesstyle)."
+          "Un código encontrado en una web de cupones puede no funcionar. Revisa la línea del descuento en el resumen del pedido antes de pagar. Las condiciones están en la página del [código de recompensa de YesStyle](/es/coupons/yesstyle)."
         ]
       },
       {
@@ -222400,7 +222400,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.4382
         },
         "postParagraphs": [
-          "En nuestra prueba en la app, el código fue aceptado y el resumen mostró la línea Influencer Code Discount (5 % OFF; en los pedidos siguientes, el 2 %). El paso a paso con pantallas del sitio web está en [cómo usar CECILIA010](/es/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010)."
+          "En nuestra prueba en la app, el código fue aceptado y el resumen mostró la línea Influencer Code Discount (5% OFF). El paso a paso con pantallas del sitio web está en [cómo usar CECILIA010](/es/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010)."
         ]
       },
       {
@@ -222476,7 +222476,7 @@ export const reviewsData: unknown[] = [
         "heading": "YesStyle première commande : quel code utiliser",
         "paragraphs": [
           "Vous passez votre première commande sur YesStyle ? Saisissez CECILIA010 dans le champ Reward Code. Selon la boutique, c'est 5 % sur la première commande et 2 % sur les suivantes.",
-          "Un code trouvé sur un site de coupons peut ne pas fonctionner. Ce qui compte, c'est la ligne de remise dans le récapitulatif de commande, avant de payer. Les conditions sont sur la page du [code de récompense YesStyle](/fr/coupons/yesstyle)."
+          "Un code trouvé sur un site de coupons peut ne pas fonctionner. Vérifiez la ligne de remise dans le récapitulatif de commande avant de payer. Les conditions sont sur la page du [code de récompense YesStyle](/fr/coupons/yesstyle)."
         ]
       },
       {
@@ -222591,7 +222591,7 @@ export const reviewsData: unknown[] = [
         "heading": "YesStyle erste Bestellung: was Sie eingeben",
         "paragraphs": [
           "Sie machen Ihre erste Bestellung bei YesStyle? Geben Sie CECILIA010 im Feld Reward Code ein. Laut Shop gibt es 5 % auf die erste Bestellung und 2 % auf die folgenden.",
-          "Codes von Gutschein-Seiten funktionieren womöglich nicht. Entscheidend ist die Rabattzeile in der Bestellübersicht, bevor Sie bezahlen. Die Bedingungen stehen auf der Seite zum [YesStyle-Belohnungscode](/de/coupons/yesstyle)."
+          "Codes von Gutschein-Seiten funktionieren womöglich nicht. Prüfen Sie vor dem Bezahlen die Rabattzeile in der Bestellübersicht. Die Bedingungen stehen auf der Seite zum [YesStyle-Belohnungscode](/de/coupons/yesstyle)."
         ]
       },
       {
@@ -222705,7 +222705,7 @@ export const reviewsData: unknown[] = [
         "heading": "YesStyle primo ordine: cosa usare",
         "paragraphs": [
           "Stai per fare il primo ordine su YesStyle? Usa CECILIA010 nel campo Reward Code. Lo shop indica: 5% sul primo ordine e 2% sui successivi.",
-          "Un codice trovato su un sito di coupon può non funzionare. Conta la riga di sconto nel riepilogo dell'ordine, prima di pagare. Le condizioni sono nella pagina del [codice ricompensa YesStyle](/it/coupons/yesstyle)."
+          "Un codice trovato su un sito di coupon può non funzionare. Controlla la riga di sconto nel riepilogo dell'ordine prima di pagare. Le condizioni sono nella pagina del [codice ricompensa YesStyle](/it/coupons/yesstyle)."
         ]
       },
       {
@@ -222776,8 +222776,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyleのCECILIA010は、初回注文で5%、2回目以降は2%が追加されるコードです。入力はReward Code欄。注文ごとの違いと、事前に確認したい点をまとめました。",
-    "metaDescription": "CECILIA010はYesStyleのリワードコード。初回購入5%、2回目以降2%、入力はReward Code欄です。初回注文の前に確認したい点をまとめました。",
+    "description": "YesStyleのCECILIA010は、初回注文で5%、2回目以降は2%の追加割引を受けられるコードです。入力はReward Code欄。注文ごとの違いと、事前に確認したい点をまとめました。",
+    "metaDescription": "CECILIA010はYesStyleのリワードコード。初回購入5%、2回目以降2%の追加割引で、入力はReward Code欄です。初回注文の前に確認したい点をまとめました。",
     "publishedAt": "13 Nov 2026",
     "publishedAtISO": "2026-11-13",
     "updatedAt": "2026-11-13",
@@ -222790,7 +222790,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "CECILIA010をReward Code欄に入力すると、初回購入で5%、2回目以降で2%が追加されます。",
+      "text": "CECILIA010をReward Code欄に入力すると、初回購入で5%、2回目以降で2%の追加割引を受けられます。",
       "label": "YesStyleへ進む",
       "url": "https://ystyle.co/rQYQv",
       "sponsored": true
@@ -222813,26 +222813,26 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論から",
         "paragraphs": [
-          "YesStyleの初回購入では、CECILIA010で5%が追加されます。2回目以降は2%です。これはクーポンではなくリワードコードなので、クーポン欄とは別のReward Code欄に入力します。購入前に、YesStyleがお住まいの国へ配送しているかを確認してください。"
+          "YesStyleでは、CECILIA010で初回購入は5%、2回目以降は2%の追加割引を受けられます。クーポンではなくリワードコードなので、クーポン欄とは別のReward Code欄に入力します。購入前に、YesStyleがお住まいの国や地域へ配送しているか確認してください。"
         ]
       },
       {
         "heading": "YesStyle初回購入：使うコードは",
         "paragraphs": [
-          "初めてYesStyleで注文するなら、Reward Code欄にCECILIA010を入力してください。YesStyleの案内では、初回購入は5%、2回目以降は2%の追加です。",
-          "クーポンサイトで見つけたコードは、使えないことがあります。大切なのは、支払い前の注文概要に割引の行が出ているかどうかです。条件は[YesStyleリワードコードのページ](/ja/coupons/yesstyle)にまとめています。"
+          "初めてYesStyleで注文するなら、Reward Code欄にCECILIA010を入力してください。YesStyleの案内では、初回購入は5%、2回目以降は2%の追加割引です。",
+          "クーポンサイトで見つけたコードは、使えないことがあります。支払い前に、注文概要の割引の行を確認してください。条件は[YesStyleリワードコードのページ](/ja/coupons/yesstyle)にまとめています。"
         ]
       },
       {
         "heading": "リワードコードはクーポンではありません",
         "paragraphs": [
-          "チェックアウトにはコードの欄が2つあります。クーポン用の欄と、Reward Code欄です。CECILIA010はリワードコードなので、Reward Code欄に入力します。クーポン欄は使いません。"
+          "チェックアウトにはクーポン欄とReward Code欄があります。CECILIA010はリワードコードなので、Reward Code欄に入力します。クーポン欄はふさがりません。"
         ]
       },
       {
         "heading": "2回目の購入では？",
         "paragraphs": [
-          "2回目以降も、CECILIA010は使えて、2%が追加されます。コードも入力欄も同じで、変わるのは割引率だけです。"
+          "2回目以降も、CECILIA010は使えて、2%の追加割引が適用されます。コードも入力欄も同じで、変わるのは割引率だけです。"
         ]
       },
       {
@@ -222865,8 +222865,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "YesStyleに初回購入向けのコードはありますか？あります。CECILIA010は、初回注文で5%、2回目以降は2%が追加されるコードで、Reward Code欄に入力します。",
-          "CECILIA010は2回目の購入でも使えますか？使えます。2回目以降の注文では2%が追加されます。",
+          "YesStyleに初回購入向けのコードはありますか？あります。CECILIA010は、初回注文で5%、2回目以降は2%の追加割引を受けられるコードで、Reward Code欄に入力します。",
+          "CECILIA010は2回目の購入でも使えますか？使えます。2回目以降の注文では2%の追加割引が適用されます。",
           "CECILIA010はどの欄に入力しますか？Reward Code欄です。クーポン欄とは別で、リワードコードとして扱われます。",
           "CECILIA010はアプリでも使えますか？使えます。「Enter Code」画面の「Influencer / Rewards Code」欄に入力してください。"
         ]
@@ -222891,8 +222891,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle에서 CECILIA010은 Reward Code 칸에 입력하면 첫 주문에 5%, 이후 주문에 2%가 추가됩니다. 주문마다 달라지는 점과 결제 전에 확인할 것을 정리했습니다.",
-    "metaDescription": "CECILIA010은 YesStyle 리워드 코드입니다. Reward Code 칸에 입력하면 첫 구매 5%, 이후 구매 2%가 추가됩니다. 첫 주문 전에 확인할 점을 정리했습니다.",
+    "description": "YesStyle에서 CECILIA010은 Reward Code 칸에 입력하면 첫 주문에 5%, 이후 주문에 2%의 추가 할인이 적용됩니다. 주문마다 달라지는 점과 결제 전에 확인할 것을 정리했습니다.",
+    "metaDescription": "CECILIA010은 YesStyle 리워드 코드입니다. Reward Code 칸에 입력하면 첫 구매 5%, 이후 구매 2%의 추가 할인이 적용됩니다. 첫 주문 전에 확인할 점을 정리했습니다.",
     "publishedAt": "13 Nov 2026",
     "publishedAtISO": "2026-11-13",
     "updatedAt": "2026-11-13",
@@ -222906,7 +222906,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Reward Code 칸에 CECILIA010을 입력하세요. 첫 구매 5%, 이후 구매 2%가 추가됩니다.",
+      "text": "Reward Code 칸에 CECILIA010을 입력하세요. 첫 구매 5%, 이후 구매 2%의 추가 할인이 적용됩니다.",
       "label": "YesStyle로 이동",
       "url": "https://ystyle.co/rQYQv",
       "sponsored": true
@@ -222929,26 +222929,26 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "YesStyle 첫 구매에서 CECILIA010은 5%, 이후 구매에서는 2%가 추가됩니다. 쿠폰이 아니라 리워드 코드이므로 쿠폰 칸이 아닌 Reward Code 칸에 입력합니다. 장바구니를 채우기 전에, YesStyle이 거주 국가로 배송하는지 먼저 확인하세요."
+          "YesStyle 첫 구매에서 CECILIA010은 5% 추가 할인을, 이후 구매에서는 2% 추가 할인을 제공합니다. 쿠폰이 아니라 리워드 코드이므로, 쿠폰 칸과 별도인 Reward Code 칸에 입력합니다. 장바구니를 채우기 전에 거주 국가로 배송하는지 확인하세요."
         ]
       },
       {
         "heading": "YesStyle 첫 구매: 무엇을 쓸까",
         "paragraphs": [
           "YesStyle에서 처음 주문하시나요? Reward Code 칸에 CECILIA010을 입력하세요. YesStyle이 안내하는 혜택은 첫 구매 5%, 이후 구매 2%입니다.",
-          "쿠폰 사이트에서 찾은 코드는 작동하지 않을 수 있습니다. 중요한 것은 결제 전에 주문 요약에 할인 줄이 실제로 나타나는지입니다. 조건은 [YesStyle 리워드 코드](/ko/coupons/yesstyle) 페이지에서 확인하세요."
+          "쿠폰 사이트에서 찾은 코드는 작동하지 않을 수 있습니다. 결제 전에 주문 요약의 할인 내역을 확인하세요. 조건은 [YesStyle 리워드 코드](/ko/coupons/yesstyle) 페이지에 정리해 두었습니다."
         ]
       },
       {
         "heading": "리워드 코드는 쿠폰이 아닙니다",
         "paragraphs": [
-          "결제 화면에는 코드 입력 칸이 두 개 있습니다. 쿠폰 칸과 Reward Code 칸입니다. CECILIA010은 리워드 코드이므로 Reward Code 칸에 입력하며, 쿠폰 칸은 비워 둡니다."
+          "결제 화면에는 쿠폰 칸과 Reward Code 칸이 따로 있습니다. CECILIA010은 리워드 코드이므로 Reward Code 칸에 입력하며, 쿠폰 칸은 차지하지 않습니다."
         ]
       },
       {
         "heading": "두 번째 구매에서는?",
         "paragraphs": [
-          "두 번째 구매에서도 CECILIA010은 계속 유효하며 2%가 추가됩니다. 코드와 입력 칸은 그대로이고, 달라지는 것은 할인율뿐입니다."
+          "두 번째 구매에서도 CECILIA010은 계속 유효하며 2%의 추가 할인이 적용됩니다. 코드와 입력 칸은 그대로이고, 달라지는 것은 할인율뿐입니다."
         ]
       },
       {
@@ -222981,8 +222981,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "YesStyle 첫 구매 코드가 있나요? 있습니다. CECILIA010은 Reward Code 칸에 입력하면 첫 주문에 5%, 이후 주문에 2%가 추가됩니다.",
-          "CECILIA010은 두 번째 구매에도 유효한가요? 유효합니다. 이후 주문에는 2%가 추가됩니다.",
+          "YesStyle 첫 구매 코드가 있나요? 있습니다. CECILIA010은 Reward Code 칸에 입력하면 첫 주문에 5%, 이후 주문에 2%의 추가 할인이 적용됩니다.",
+          "CECILIA010은 두 번째 구매에도 유효한가요? 유효합니다. 이후 주문에는 2%의 추가 할인이 적용됩니다.",
           "CECILIA010은 어느 칸에 입력하나요? 쿠폰 칸이 아닌 Reward Code 칸에 입력합니다. 리워드 코드이기 때문입니다.",
           "CECILIA010은 앱에서도 유효한가요? 유효합니다. Enter Code 화면의 Influencer / Rewards Code 칸에 코드를 입력하세요."
         ]
@@ -223051,7 +223051,7 @@ export const reviewsData: unknown[] = [
         "heading": "YesStyle 首購：該用什麼",
         "paragraphs": [
           "要在 YesStyle 完成第一筆訂單嗎？把 CECILIA010 填在 Reward Code 欄位。依商店說明：首購 5%，之後的訂單 2%。",
-          "在優惠券網站找到的代碼不一定有效。以付款前訂單摘要中的折扣行為準。相關條件請見[YesStyle 獎勵碼頁面](/zh-hant/coupons/yesstyle)。"
+          "在優惠券網站找到的代碼不一定有效。付款前請確認訂單摘要中的折扣。使用條件請見[YesStyle 獎勵碼頁面](/zh-hant/coupons/yesstyle)。"
         ]
       },
       {
@@ -223165,7 +223165,7 @@ export const reviewsData: unknown[] = [
         "heading": "YesStyle 首单：该用什么代码",
         "paragraphs": [
           "要在 YesStyle 下第一单？把 CECILIA010 填入 Reward Code 栏位。商店的说明是：首单 5%，之后的订单 2%。",
-          "在优惠券网站上找到的代码不一定能用。以付款前订单摘要中显示的折扣为准。使用条件见[YesStyle 奖励码](/zh-hans/coupons/yesstyle)页面。"
+          "在优惠券网站上找到的代码不一定能用。付款前请确认订单摘要中的折扣。使用条件见[YesStyle 奖励码](/zh-hans/coupons/yesstyle)页面。"
         ]
       },
       {
@@ -223280,13 +223280,13 @@ export const reviewsData: unknown[] = [
         "heading": "SHEIN first order coupon: what to use",
         "paragraphs": [
           "For your first SHEIN order, use 4CW5Y, Cecília's referral code: you search it in the search bar of the app or website, not in the coupon field.",
-          "First-order amounts advertised on coupon sites usually come without a source from SHEIN: before counting on one, check it on SHEIN itself. The campaigns currently running are on our [SHEIN coupon](/en/coupons/shein) page."
+          "Some coupon sites advertise first-order amounts with no SHEIN source behind them: before counting on one, check it on SHEIN itself. The campaigns currently running are on our [SHEIN coupon](/en/coupons/shein) page."
         ]
       },
       {
         "heading": "A referral code is not a checkout coupon",
         "paragraphs": [
-          "4CW5Y does not go in the cart's coupon field. Searched in the app or on the website, it opens the SHEIN page linked to the code, and the discount shows on the items in that selection.",
+          "4CW5Y does not go in the cart's coupon field. Searched in the app or on the website, it opens the SHEIN page linked to the code: a selection of promotions and discounts.",
           "The store says the perks appear on campaign and product pages and change often. How much and on which pieces is up to SHEIN.",
           "So, when you build your cart, check the final price of each item before you pay."
         ],
@@ -223294,7 +223294,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
             "alt": "SHEIN page opened by searching 4CW5Y, titled \"Acho que você pode gostar\" (\"I think you might like\"), with items marked with a discount badge",
-            "caption": "The page the search for 4CW5Y opens: the discount is marked on each item.",
+            "caption": "Page opened by searching for 4CW5Y. The screenshot is in Portuguese, with prices in reais.",
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
@@ -223349,7 +223349,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "El 4CW5Y no es un cupón del carrito: buscado en la app o en el sitio de SHEIN, abre una selección de promociones y descuentos, en el primero y en los siguientes. Dónde buscarlo.",
+    "description": "El 4CW5Y no es un cupón del carrito: buscado en la app o en el sitio, abre una selección de promociones y descuentos, en el primer pedido y en los siguientes. Dónde buscarlo.",
     "metaDescription": "El 4CW5Y es un código de referido de SHEIN para el primer pedido y los siguientes: búscalo en la app o en el sitio y mira su selección de descuentos.",
     "publishedAt": "13 de noviembre de 2026",
     "publishedAtISO": "2026-11-13",
@@ -223394,13 +223394,13 @@ export const reviewsData: unknown[] = [
         "heading": "Cupón SHEIN primera compra: qué usar",
         "paragraphs": [
           "Para tu primera compra en SHEIN, usa el 4CW5Y, el código de referido de Cecília: se busca en el buscador de la app o del sitio, y no en el campo de cupón.",
-          "Los valores de primera compra que anuncian los sitios de cupones suelen no tener respaldo de SHEIN: antes de contar con alguno, compruébalo en la propia SHEIN. Las campañas vigentes están en nuestra página de [cupón SHEIN](/es/coupons/shein)."
+          "Los valores de primera compra que anuncian algunos sitios de cupones no tienen respaldo de SHEIN: antes de contar con uno, compruébalo en la propia SHEIN. Las campañas vigentes están en nuestra página de [cupón SHEIN](/es/coupons/shein)."
         ]
       },
       {
         "heading": "Un código de referido no es un cupón del carrito",
         "paragraphs": [
-          "El 4CW5Y no va en el campo de cupón del carrito. Al buscarlo en la app o en el sitio, abre la página de SHEIN vinculada al código, y el descuento aparece en las prendas de esa selección.",
+          "El 4CW5Y no va en el campo de cupón del carrito. Al buscarlo en la app o en el sitio, abre la página de SHEIN vinculada al código: una selección de promociones y descuentos.",
           "La tienda lo explica así: las ventajas aparecen en las páginas de campaña y de producto y cambian con frecuencia. Cuánto y en qué prendas lo decide SHEIN.",
           "Por eso, al armar el carrito, revisa el precio final de cada prenda antes de pagar."
         ],
@@ -223408,7 +223408,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
             "alt": "Página de SHEIN abierta con la búsqueda de 4CW5Y, con el título \"Acho que você pode gostar\" (\"Creo que te puede gustar\") y prendas con etiqueta de descuento",
-            "caption": "La página que abre la búsqueda de 4CW5Y: el descuento aparece marcado en cada prenda.",
+            "caption": "Selección que se abre al buscar 4CW5Y. La captura es de la página en portugués; los precios que aparecen pueden no ser los tuyos.",
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
@@ -223501,20 +223501,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Pour une première commande sur SHEIN, utilisez le 4CW5Y, le code de parrainage de Cecília : recherchez-le dans l'application ou sur le site et voyez une sélection de produits, de promotions et de réductions. Le montant et les pièces concernées, c'est SHEIN qui les décide. Il ne se saisit pas dans le champ du code promo et fonctionne aussi pour qui a déjà commandé."
+          "Pour la première commande SHEIN, utilisez le 4CW5Y, le code de parrainage de Cecília : recherchez-le dans l'application ou sur le site et voyez une sélection de produits, de promotions et de réductions. Le montant et les pièces, c'est SHEIN qui les décide. Il ne se saisit pas dans le champ du code promo et fonctionne aussi après la première commande."
         ]
       },
       {
         "heading": "Code promo SHEIN première commande : que faut-il utiliser ?",
         "paragraphs": [
           "Pour une première commande sur SHEIN, utilisez le 4CW5Y, le code de parrainage de Cecília : il se recherche dans la barre de recherche de l'application ou du site, et non dans le champ du code promo.",
-          "Les montants de première commande annoncés sur les sites de codes promo viennent souvent sans source SHEIN : avant de compter sur l'un d'eux, vérifiez-le sur SHEIN même. Les campagnes en cours se trouvent sur notre page [code de parrainage SHEIN](/fr/coupons/shein)."
+          "Les montants de première commande annoncés sur les sites de codes promo viennent souvent sans source officielle de SHEIN : avant de compter sur l'un d'eux, vérifiez-le sur SHEIN même. Les campagnes en cours se trouvent sur notre page [code de parrainage SHEIN](/fr/coupons/shein)."
         ]
       },
       {
         "heading": "Un code de parrainage n'est pas un code promo de paiement",
         "paragraphs": [
-          "Le 4CW5Y ne se saisit pas dans le champ du code promo du panier. Recherché dans l'application ou sur le site, il ouvre la page SHEIN liée au code, et la réduction apparaît sur les pièces de cette sélection.",
+          "Le 4CW5Y ne se saisit pas dans le champ du code promo du panier. Recherché dans l'application ou sur le site, il ouvre la page SHEIN liée au code : une sélection de promotions et de réductions.",
           "La boutique l'indique : les avantages s'affichent sur les pages de campagne et de produit, et changent souvent. Le montant et les pièces concernées, c'est SHEIN qui les décide.",
           "Du coup, en remplissant le panier, vérifiez le prix final de chaque pièce avant de payer."
         ],
@@ -223522,7 +223522,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
             "alt": "Page SHEIN ouverte après la recherche de 4CW5Y, avec le titre « Acho que você pode gostar » (« Je pense que vous pourriez aimer ») et des pièces avec un badge de réduction",
-            "caption": "La page qu'ouvre la recherche de 4CW5Y : la réduction est indiquée sur chaque pièce.",
+            "caption": "Sélection ouverte en recherchant 4CW5Y. La capture est en portugais, avec des prix en réaux (R$).",
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
@@ -223622,13 +223622,13 @@ export const reviewsData: unknown[] = [
         "heading": "Für die Erstbestellung: was Sie nutzen",
         "paragraphs": [
           "Für die erste Bestellung bei SHEIN nutzen Sie 4CW5Y, den Empfehlungscode von Cecília: Er wird in der Suche der App oder der Website eingegeben und nicht im Gutscheinfeld.",
-          "Beträge für die Erstbestellung, die auf Gutscheinseiten genannt werden, haben meist keine Quelle bei SHEIN: Prüfen Sie sie direkt bei SHEIN, bevor Sie mit einem davon rechnen. Die laufenden Kampagnen stehen auf unserer [SHEIN-Seite](/de/coupons/shein)."
+          "Beträge für die Erstbestellung, die auf Gutscheinseiten genannt werden, haben oft keine Quelle bei SHEIN: Prüfen Sie sie direkt bei SHEIN, bevor Sie mit einem davon rechnen. Die laufenden Kampagnen stehen auf unserer [SHEIN-Seite](/de/coupons/shein)."
         ]
       },
       {
         "heading": "Empfehlungscode ist kein Gutschein für den Checkout",
         "paragraphs": [
-          "4CW5Y gehört nicht ins Gutscheinfeld des Warenkorbs. In der App oder auf der Website gesucht, öffnet er die mit dem Code verknüpfte SHEIN-Seite, und der Rabatt erscheint bei den Artikeln dieser Auswahl.",
+          "4CW5Y gehört nicht ins Gutscheinfeld des Warenkorbs. Suchen Sie den Code in der App oder auf der Website: Er öffnet die mit dem Code verknüpfte SHEIN-Seite, eine Auswahl an Aktionen und Rabatten.",
           "Der Shop teilt mit: Die Vorteile erscheinen auf den Kampagnen- und Produktseiten und ändern sich häufig. Wie hoch und auf welche Teile, entscheidet SHEIN.",
           "Prüfen Sie deshalb beim Füllen des Warenkorbs vor dem Bezahlen den Endpreis jedes Artikels."
         ],
@@ -223636,7 +223636,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
             "alt": "SHEIN-Seite, geöffnet durch die Suche nach 4CW5Y, mit dem Titel \"Acho que você pode gostar\" („Ich glaube, das könnte Ihnen gefallen“) und Artikeln mit Rabattsiegel",
-            "caption": "Die Seite, die die Suche nach 4CW5Y öffnet: Der Rabatt ist bei jedem Artikel markiert.",
+            "caption": "Auswahl, die sich bei der Suche nach 4CW5Y öffnet. Der Screenshot ist auf Portugiesisch und zeigt Preise in Real (R$).",
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
@@ -223742,7 +223742,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Il codice invito non è un coupon del carrello",
         "paragraphs": [
-          "Il 4CW5Y non va nel campo del coupon del carrello. Cercato nell'app o nel sito, apre la pagina SHEIN collegata al codice, e lo sconto compare sui capi di quella selezione.",
+          "Il 4CW5Y non va nel campo del coupon del carrello. Cercato nell'app o nel sito, apre la pagina SHEIN collegata al codice: una selezione di promozioni e sconti.",
           "Il negozio spiega che i vantaggi compaiono nelle pagine di campagna e di prodotto e cambiano spesso. Quanto e su quali capi lo decide SHEIN.",
           "Per questo, quando prepari il carrello, controlla il prezzo finale di ogni capo prima di pagare."
         ],
@@ -223750,7 +223750,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
             "alt": "Pagina SHEIN aperta dalla ricerca di 4CW5Y, con il titolo \"Acho que você pode gostar\" (\"Penso che potrebbe piacerti\") e capi con il bollino di sconto",
-            "caption": "La pagina che apre la ricerca di 4CW5Y: lo sconto compare indicato su ogni capo.",
+            "caption": "Selezione aperta cercando 4CW5Y. La schermata è in portoghese, con i prezzi in real (R$).",
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
@@ -223856,7 +223856,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "紹介コードはチェックアウトのクーポンではありません",
         "paragraphs": [
-          "4CW5Yはカートのクーポン欄には入力しません。アプリまたはサイトで検索すると、コードに紐づくSHEINのページが開き、そのセレクションの商品に割引が表示されます。",
+          "4CW5Yはカートのクーポン欄には入力しません。アプリまたはサイトで検索すると、コードに紐づくSHEINのページが開きます。セールと割引の特集です。",
           "SHEINによると、特典はキャンペーンページと商品ページに表示され、頻繁に変わります。割引の大きさと対象の商品はSHEINが決めます。",
           "そのため、カートを作るときは、支払う前に各商品の最終価格を確認してください。"
         ],
@@ -223864,7 +223864,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
             "alt": "4CW5Yの検索で開いたSHEINのページ。タイトルは「Acho que você pode gostar」（「お気に入りが見つかるかも」）で、割引ラベルのついた商品が表示されている",
-            "caption": "4CW5Yの検索で開くページ。割引は各商品に表示されます。",
+            "caption": "4CW5Yを検索して開いた商品一覧。画面はポルトガル語で、価格はレアル表示です。",
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
@@ -223970,7 +223970,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "추천 코드는 결제용 쿠폰이 아닙니다",
         "paragraphs": [
-          "4CW5Y는 장바구니의 쿠폰 칸에 입력하지 않습니다. 앱이나 사이트에서 검색하면 코드에 연결된 SHEIN 페이지가 열리고, 그 모음에 속한 상품에 할인이 표시됩니다.",
+          "4CW5Y는 장바구니의 쿠폰 칸에 입력하지 않습니다. 앱이나 사이트에서 검색하면 코드에 연결된 SHEIN 페이지가 열리고, 그 페이지에는 프로모션과 할인이 붙은 상품이 모여 있습니다.",
           "SHEIN에 따르면 혜택은 캠페인 페이지와 상품 페이지에 표시되며 자주 바뀝니다. 할인 폭과 대상 상품은 SHEIN이 정합니다.",
           "따라서 장바구니를 채울 때는 결제 전에 상품별 최종 가격을 확인하세요."
         ],
@@ -223978,7 +223978,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
             "alt": "4CW5Y 검색으로 열린 SHEIN 페이지. 제목은 \"Acho que você pode gostar\"(\"마음에 드실 만한 상품\")이고 할인 표시가 붙은 상품이 보인다",
-            "caption": "4CW5Y를 검색하면 열리는 페이지입니다. 할인은 상품마다 표시됩니다.",
+            "caption": "4CW5Y를 검색해 열린 상품 목록입니다. 캡처 화면은 포르투갈어이고 가격은 헤알(R$)로 표시되어 있습니다.",
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
@@ -224078,13 +224078,13 @@ export const reviewsData: unknown[] = [
         "heading": "SHEIN 首購優惠：該用什麼",
         "paragraphs": [
           "第一次在 SHEIN 購物，可以用 Cecília 的推薦碼 4CW5Y：它要在 App 或網站的搜尋欄裡搜尋，而不是填進優惠券欄。",
-          "優惠券網站上宣傳的首購金額，常常沒有 SHEIN 的出處：依靠之前，請先到 SHEIN 本身確認。目前進行中的活動，請看本站的 [SHEIN 推薦碼與進行中的活動](/zh-hant/coupons/shein) 頁面。"
+          "優惠券網站上宣傳的首購金額，常常找不到 SHEIN 官方的依據，使用前請先到 SHEIN 官方網站或 App 確認。目前進行中的活動，請看本站的 [SHEIN 推薦碼與進行中的活動](/zh-hant/coupons/shein) 頁面。"
         ]
       },
       {
         "heading": "推薦碼不是結帳優惠券",
         "paragraphs": [
-          "4CW5Y 不填進購物車的優惠券欄。在 App 或網站搜尋後，它會開啟與推薦碼連結的 SHEIN 頁面，折扣就顯示在該精選頁面的商品上。",
+          "4CW5Y 不填進購物車的優惠券欄。在 App 或網站搜尋後，它會開啟與推薦碼連結的 SHEIN 頁面，裡面是一組含促銷和折扣的精選商品。",
           "SHEIN 說明：優惠顯示在活動頁和商品頁上，而且經常變化。折扣多少、適用哪些單品，由 SHEIN 決定。",
           "因此在放進購物車之後，付款前請先確認每件商品的最終價格。"
         ],
@@ -224092,7 +224092,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
             "alt": "搜尋 4CW5Y 後開啟的 SHEIN 頁面，標題為「Acho que você pode gostar」（「你可能會喜歡」），商品帶有折扣標籤",
-            "caption": "搜尋 4CW5Y 後開啟的頁面：折扣標示在每件商品上。",
+            "caption": "搜尋 4CW5Y 後開啟的頁面。截圖為葡萄牙文介面，價格以雷亞爾（R$）顯示。",
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
@@ -224198,7 +224198,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "推荐码不是结账优惠券",
         "paragraphs": [
-          "4CW5Y 不填在购物车的优惠券栏。在应用或网站搜索它，会打开与该推荐码关联的 SHEIN 页面，折扣就显示在这组精选商品上。",
+          "4CW5Y 不填在购物车的优惠券栏。在应用或网站搜索它，会打开与该推荐码关联的 SHEIN 页面，里面是一组含促销和折扣的精选商品。",
           "SHEIN 说明：优惠展示在活动页和商品页上，并且经常变化。折扣多少、适用哪些单品，由 SHEIN 决定。",
           "所以在装满购物车之后，付款前请逐件核对最终价格。"
         ],
@@ -224206,7 +224206,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
             "alt": "搜索 4CW5Y 后打开的 SHEIN 页面，标题为“Acho que você pode gostar”（“你可能会喜欢”），商品上带有折扣标签",
-            "caption": "搜索 4CW5Y 后打开的页面：每件商品上都标出了折扣。",
+            "caption": "搜索 4CW5Y 后打开的商品列表。截图为葡萄牙语界面，价格以雷亚尔（R$）显示。",
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }

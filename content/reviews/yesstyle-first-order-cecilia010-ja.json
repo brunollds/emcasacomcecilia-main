@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "YesStyleのCECILIA010は、初回注文で5%、2回目以降は2%が追加されるコードです。入力はReward Code欄。注文ごとの違いと、事前に確認したい点をまとめました。",
-  "metaDescription": "CECILIA010はYesStyleのリワードコード。初回購入5%、2回目以降2%、入力はReward Code欄です。初回注文の前に確認したい点をまとめました。",
+  "description": "YesStyleのCECILIA010は、初回注文で5%、2回目以降は2%の追加割引を受けられるコードです。入力はReward Code欄。注文ごとの違いと、事前に確認したい点をまとめました。",
+  "metaDescription": "CECILIA010はYesStyleのリワードコード。初回購入5%、2回目以降2%の追加割引で、入力はReward Code欄です。初回注文の前に確認したい点をまとめました。",
   "publishedAt": "13 Nov 2026",
   "publishedAtISO": "2026-11-13",
   "updatedAt": "2026-11-13",
@@ -29,7 +29,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "CECILIA010をReward Code欄に入力すると、初回購入で5%、2回目以降で2%が追加されます。",
+    "text": "CECILIA010をReward Code欄に入力すると、初回購入で5%、2回目以降で2%の追加割引を受けられます。",
     "label": "YesStyleへ進む",
     "url": "https://ystyle.co/rQYQv",
     "sponsored": true
@@ -52,26 +52,26 @@
     {
       "heading": "結論から",
       "paragraphs": [
-        "YesStyleの初回購入では、CECILIA010で5%が追加されます。2回目以降は2%です。これはクーポンではなくリワードコードなので、クーポン欄とは別のReward Code欄に入力します。購入前に、YesStyleがお住まいの国へ配送しているかを確認してください。"
+        "YesStyleでは、CECILIA010で初回購入は5%、2回目以降は2%の追加割引を受けられます。クーポンではなくリワードコードなので、クーポン欄とは別のReward Code欄に入力します。購入前に、YesStyleがお住まいの国や地域へ配送しているか確認してください。"
       ]
     },
     {
       "heading": "YesStyle初回購入：使うコードは",
       "paragraphs": [
-        "初めてYesStyleで注文するなら、Reward Code欄にCECILIA010を入力してください。YesStyleの案内では、初回購入は5%、2回目以降は2%の追加です。",
-        "クーポンサイトで見つけたコードは、使えないことがあります。大切なのは、支払い前の注文概要に割引の行が出ているかどうかです。条件は[YesStyleリワードコードのページ](/ja/coupons/yesstyle)にまとめています。"
+        "初めてYesStyleで注文するなら、Reward Code欄にCECILIA010を入力してください。YesStyleの案内では、初回購入は5%、2回目以降は2%の追加割引です。",
+        "クーポンサイトで見つけたコードは、使えないことがあります。支払い前に、注文概要の割引の行を確認してください。条件は[YesStyleリワードコードのページ](/ja/coupons/yesstyle)にまとめています。"
       ]
     },
     {
       "heading": "リワードコードはクーポンではありません",
       "paragraphs": [
-        "チェックアウトにはコードの欄が2つあります。クーポン用の欄と、Reward Code欄です。CECILIA010はリワードコードなので、Reward Code欄に入力します。クーポン欄は使いません。"
+        "チェックアウトにはクーポン欄とReward Code欄があります。CECILIA010はリワードコードなので、Reward Code欄に入力します。クーポン欄はふさがりません。"
       ]
     },
     {
       "heading": "2回目の購入では？",
       "paragraphs": [
-        "2回目以降も、CECILIA010は使えて、2%が追加されます。コードも入力欄も同じで、変わるのは割引率だけです。"
+        "2回目以降も、CECILIA010は使えて、2%の追加割引が適用されます。コードも入力欄も同じで、変わるのは割引率だけです。"
       ]
     },
     {
@@ -104,8 +104,8 @@
     {
       "heading": "よくある質問",
       "bullets": [
-        "YesStyleに初回購入向けのコードはありますか？あります。CECILIA010は、初回注文で5%、2回目以降は2%が追加されるコードで、Reward Code欄に入力します。",
-        "CECILIA010は2回目の購入でも使えますか？使えます。2回目以降の注文では2%が追加されます。",
+        "YesStyleに初回購入向けのコードはありますか？あります。CECILIA010は、初回注文で5%、2回目以降は2%の追加割引を受けられるコードで、Reward Code欄に入力します。",
+        "CECILIA010は2回目の購入でも使えますか？使えます。2回目以降の注文では2%の追加割引が適用されます。",
         "CECILIA010はどの欄に入力しますか？Reward Code欄です。クーポン欄とは別で、リワードコードとして扱われます。",
         "CECILIA010はアプリでも使えますか？使えます。「Enter Code」画面の「Influencer / Rewards Code」欄に入力してください。"
       ]

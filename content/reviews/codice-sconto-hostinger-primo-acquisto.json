@@ -100,7 +100,7 @@
         ]
       },
       "postParagraphs": [
-        "Il carrello mostra anche il prezzo di rinnovo sotto il piano. Controllalo prima di scegliere il periodo, perché è quello che paghi alla scadenza."
+        "La tabella mostra il totale del primo periodo, addebitato al momento dell'acquisto. Prima di scegliere la durata, confronta questo costo iniziale con il prezzo di rinnovo indicato nel carrello."
       ]
     },
     {
@@ -133,7 +133,7 @@
         "Controlla lo sconto nel totale prima di pagare."
       ],
       "postParagraphs": [
-        "Il link di questo articolo include già SONAR20, ma non ogni piano si apre con il codice applicato. Se nel riepilogo non compare la riga dello sconto, incolla il codice nel campo.",
+        "Il link di questo articolo include SONAR20, ma non ogni piano si apre con il codice applicato. Controlla lo sconto nel riepilogo; se non compare, inserisci il codice nel campo.",
         "Per cosa copre il codice in ogni piano, vedi [come usare il coupon Hostinger](/it/reviews/coupon-hostinger-codice-invito)."
       ]
     },
@@ -141,7 +141,7 @@
       "heading": "Domande frequenti",
       "bullets": [
         "Esiste un coupon Hostinger per il primo acquisto? Sì: SONAR20 dà il 20% sul primo periodo di un piano nuovo.",
-        "Il coupon Hostinger vale sul piano mensile? Il 20% vale sul primo periodo del piano che scegli. Controlla lo sconto nel carrello del periodo scelto prima di pagare.",
+        "Il coupon Hostinger vale sul piano mensile? Il test riportato qui, sul sito globale, riguarda solo 48 mesi. Sul piano mensile, controlla lo sconto nel carrello prima di pagare.",
         "SONAR20 dà sconto sul rinnovo? No. Il rinnovo costa il prezzo di listino, che il carrello mostra sotto il piano.",
         "Il coupon vale per i domini? Non per il dominio singolo. Vale sugli acquisti nuovi di hosting, VPS, e-mail professionale e Reach."
       ]

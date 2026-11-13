@@ -84,7 +84,7 @@
         "Les 20 % ne valent que sur la première période : la durée choisie à la première commande décide donc de combien de temps la réduction joue, et de la date à laquelle le prix catalogue s'applique. Si vous hésitez encore, une durée courte laisse le renouvellement arriver plus tôt ; si vous avez déjà décidé de rester, une durée longue étend les 20 % sur toute la période, et le renouvellement n'arrive qu'à la fin."
       ],
       "comparisonTable": {
-        "caption": "Forfait Cloud Startup, panier du site global, le 7 novembre 2026 : prix sans le code et avec SONAR20",
+        "caption": "Forfait Cloud Startup, panier du site global, le 29 octobre 2026 : prix sans le code et avec SONAR20",
         "headers": [
           "Durée",
           "Sans le code",
@@ -101,7 +101,7 @@
         ]
       },
       "postParagraphs": [
-        "Le panier affiche aussi le prix de renouvellement sous le forfait. Vérifiez cette valeur avant de choisir la durée, car c'est elle que vous payez quand la période se termine."
+        "Le tableau indique le montant total facturé à la souscription pour la période initiale. Avant de choisir la durée, comparez ce montant au prix de renouvellement affiché dans le panier."
       ]
     },
     {
@@ -135,7 +135,7 @@
         "Vérifiez la réduction dans le total avant de payer."
       ],
       "postParagraphs": [
-        "Le lien de cet article contient déjà SONAR20, mais tous les forfaits ne l'appliquent pas automatiquement. Si la réduction n'apparaît pas dans le récapitulatif, collez le code dans le champ.",
+        "Le lien de cet article contient SONAR20, mais tous les forfaits ne l'appliquent pas automatiquement. Vérifiez la réduction dans le récapitulatif ; si elle ne s'affiche pas, saisissez le code dans le champ.",
         "Pour ce que le code couvre dans chaque forfait, voyez [comment utiliser le code promo Hostinger](/fr/reviews/code-promo-hostinger-parrainage)."
       ]
     },
