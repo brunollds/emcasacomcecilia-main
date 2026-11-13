@@ -245,3 +245,17 @@ A revisão dos 30 artigos da série (pasta `docs/auditoria-copy-artigos/pc-multi
 - Pendente: imagem no corpo das 9 versões fora do PT. Falta o arquivo do print do site global de 29/10; o print em reais não entra como prova do checkout global.
 
 - No ar desde 13/11/2026, release `b9fcbf67` (deploy c305618e, build 01a1d6d1), com o #964 e a revisão Farol (#965). `deploy:finish` ok (2 workers); smoke das 30 páginas contra o JSON (título, capítulos, primeira frase de cada capítulo, og:image e lang), as seis capas com 200, sitemap e llms.txt com as 30; `covers:check` 6/6; IndexNow com 37 URLs; captura 43511941705 à espera da aprovação do Bruno.
+
+## Carrinho global relido e imagem das traduções (13/11/2026)
+
+O Bruno pediu um print novo do carrinho global e confirmou que vale a página da loja: o plano de 1 mês também tem os 20%. Releitura no Chrome (`cart.hostinger.com`, plano Startup, sem login), com o aviso "Black Friday price applied":
+
+| Ciclo | Preço do carrinho | Com o SONAR20 | Linha do cupom |
+|---|---|---|---|
+| 1 mês | US$ 27,99 | US$ 22,39 | -US$ 5,60 |
+| 48 meses | US$ 383,52 | US$ 306,82 | -US$ 76,70 |
+
+- 12 e 24 meses não foram lidos: as traduções não dão valor para eles.
+- As 9 versões passaram a ter a tabela com as duas linhas e a data de 13/11, a conta de 1 mês em "quanto fica" e, onde havia a pergunta do plano mensal, a resposta "no nosso teste, sim" (edição pelo Sonnet 5.5, diff conferido pela sessão).
+- Imagem do corpo das 9 versões: `/images/reviews/hostinger/cupom-hostinger-primeira-compra-carrinho-global.webp` (captura nossa do carrinho de 48 meses com "Coupon applied: SONAR20"), em "Onde colar o código", com alt e legenda no idioma. No CDN pelo fluxo de mídia; manifesto só com a inserção.
+- A pendência do plano mensal fora do PT está fechada. Segue a de reler o carrinho depois da Black Friday.

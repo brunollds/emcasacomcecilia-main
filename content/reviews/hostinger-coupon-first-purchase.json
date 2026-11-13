@@ -84,7 +84,7 @@
         "The 20% covers only the first period, so the term you pick on your first order decides how many months the discount covers. A short term suits someone who wants to try the hosting first, and the renewal arrives sooner. A longer term suits someone who has already decided to stay: the 20% applies to the whole period, and renewal only arrives at the end of it."
       ],
       "comparisonTable": {
-        "caption": "Cloud Startup plan in the global-site cart on October 29, 2026: price without the code and with SONAR20",
+        "caption": "Cloud Startup plan in the global-site cart on November 13, 2026: price without the code and with SONAR20",
         "headers": [
           "Term",
           "Without the code",
@@ -92,6 +92,12 @@
           "When it renews"
         ],
         "rows": [
+          [
+            "1 month",
+            "US$ 27.99",
+            "US$ 22.39",
+            "At the end of the first month"
+          ],
           [
             "48 months",
             "US$ 383.52",
@@ -107,7 +113,7 @@
     {
       "heading": "How much you save",
       "paragraphs": [
-        "Our math, from the cart prices in the test: on the 48-month term, the 20% takes US$ 76.70 off the total. The 20% comes off the first period of whichever term you choose, so the amount you save depends on that term.",
+        "Our math, from the cart prices in the test: on the 1-month term, the 20% takes US$ 5.60 off the total, and on the 48-month term it takes US$ 76.70 off. The percentage is the same; the 20% comes off the first period of whichever term you choose, so the amount you save depends on that term.",
         "The 20% applies to the price the cart already shows, which in our test was the [Hostinger Black Friday](/en/reviews/hostinger-black-friday) price. Campaign prices change; check the total in the order summary before you pay."
       ]
     },
@@ -137,6 +143,15 @@
       "postParagraphs": [
         "If the discount does not show up in the summary, paste the code into the field yourself.",
         "For what the code covers on each plan, see [how to use the Hostinger coupon](/en/reviews/hostinger-coupon-code-referral)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-carrinho-global.webp",
+          "alt": "Hostinger cart with the Startup plan for 48 months and the order summary showing the Coupon applied line with the SONAR20 tag and the total of US$ 306.82",
+          "caption": "SONAR20 applied in the order summary, in our test with the 48-month Startup plan: the coupon line shows -US$ 76.70. The \"You're saving\" figure adds the store's campaign to the coupon. Image: screenshot by Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.829
+        }
       ]
     },
     {

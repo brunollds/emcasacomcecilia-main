@@ -84,7 +84,7 @@
         "Les 20 % ne valent que sur la première période : la durée choisie à la première commande décide donc de combien de temps la réduction joue, et de la date à laquelle le prix catalogue s'applique. Si vous hésitez encore, une durée courte laisse le renouvellement arriver plus tôt ; si vous avez déjà décidé de rester, une durée longue étend les 20 % sur toute la période, et le renouvellement n'arrive qu'à la fin."
       ],
       "comparisonTable": {
-        "caption": "Forfait Cloud Startup, panier du site global, le 29 octobre 2026 : prix sans le code et avec SONAR20",
+        "caption": "Forfait Cloud Startup, panier du site global, le 13 novembre 2026 : prix sans le code et avec SONAR20",
         "headers": [
           "Durée",
           "Sans le code",
@@ -92,6 +92,12 @@
           "Renouvellement"
         ],
         "rows": [
+          [
+            "1 mois",
+            "27,99 USD",
+            "22,39 USD",
+            "À la fin du premier mois"
+          ],
           [
             "48 mois",
             "383,52 USD",
@@ -107,7 +113,7 @@
     {
       "heading": "Combien vous économisez",
       "paragraphs": [
-        "Notre calcul, avec les prix du panier testé : sur la durée de 48 mois, les 20 % retirent 76,70 USD du total. Le pourcentage est le même quelle que soit la durée ; le montant économisé grandit avec le prix de la période choisie.",
+        "Notre calcul, avec les prix du panier testé : sur la durée de 48 mois, les 20 % retirent 76,70 USD du total ; sur la durée de 1 mois, ils en retirent 5,60 USD. Le pourcentage est le même quelle que soit la durée ; le montant économisé grandit avec le prix de la période choisie.",
         "Les 20 % s'appliquent sur le prix que le panier affiche déjà, qui était, lors de notre test, celui du [Black Friday de Hostinger](/fr/reviews/black-friday-hostinger-offres). Le prix de campagne change ; vérifiez le total dans le récapitulatif avant de payer."
       ]
     },
@@ -137,6 +143,15 @@
       "postParagraphs": [
         "Le lien de cet article contient SONAR20, mais tous les forfaits ne l'appliquent pas automatiquement. Vérifiez la réduction dans le récapitulatif ; si elle ne s'affiche pas, saisissez le code dans le champ.",
         "Pour ce que le code couvre dans chaque forfait, voyez [comment utiliser le code promo Hostinger](/fr/reviews/code-promo-hostinger-parrainage)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-carrinho-global.webp",
+          "alt": "Panier Hostinger avec le forfait Startup sur 48 mois et le récapitulatif de la commande, qui montre la ligne Coupon applied avec l'étiquette SONAR20 et le total de 306,82 USD.",
+          "caption": "SONAR20 appliqué dans le récapitulatif de la commande, dans notre test avec le forfait Startup sur 48 mois : la ligne du coupon affiche -76,70 USD. Le montant « You're saving » additionne la campagne de la boutique et le coupon. Image : capture d'écran d'Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.829
+        }
       ]
     },
     {

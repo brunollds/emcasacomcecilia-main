@@ -84,7 +84,7 @@
         "Die 20 % gelten nur für den ersten Zeitraum, also bestimmt die Laufzeit, die Sie bei der ersten Bestellung wählen, wie lange der Rabatt wirkt. Bei einer Laufzeit von 48 Monaten gilt der Rabatt für den gesamten gebuchten Zeitraum, und die Verlängerung kommt erst an dessen Ende."
       ],
       "comparisonTable": {
-        "caption": "Tarif Cloud Startup im Warenkorb, am 29. Oktober 2026, in US-Dollar: Preis ohne den Code und mit SONAR20",
+        "caption": "Tarif Cloud Startup im Warenkorb, am 13. November 2026, in US-Dollar: Preis ohne den Code und mit SONAR20",
         "headers": [
           "Laufzeit",
           "Ohne den Code",
@@ -92,6 +92,12 @@
           "Wann sich der Tarif verlängert"
         ],
         "rows": [
+          [
+            "1 Monat",
+            "27,99 US$",
+            "22,39 US$",
+            "Am Ende des ersten Monats"
+          ],
           [
             "48 Monate",
             "383,52 US$",
@@ -107,7 +113,7 @@
     {
       "heading": "Was Sie sparen",
       "paragraphs": [
-        "Unsere Rechnung mit den Preisen aus dem Testwarenkorb: Bei 48 Monaten nehmen die 20 % 76,70 US$ vom Gesamtbetrag ab. Andere Laufzeiten rechnen Sie im Warenkorb der gewählten Laufzeit nach.",
+        "Unsere Rechnung mit den Preisen aus dem Testwarenkorb: Bei 48 Monaten nehmen die 20 % 76,70 US$ vom Gesamtbetrag ab, bei 1 Monat 5,60 US$. Der Prozentsatz bleibt gleich, der Betrag hängt von der Laufzeit ab; andere Laufzeiten rechnen Sie im Warenkorb der gewählten Laufzeit nach.",
         "Die 20 % werden auf den Preis berechnet, den der Warenkorb ohnehin schon zeigt, und der enthält die Aktion der Hostinger. Der Aktionspreis ändert sich; prüfen Sie den Gesamtbetrag in der Übersicht vor der Zahlung."
       ]
     },
@@ -134,6 +140,15 @@
         "Klicken Sie in der Bestellübersicht auf „Have a coupon code?“, fügen Sie SONAR20 ein und wenden Sie ihn an.",
         "Prüfen Sie den Rabatt in der Summe, bevor Sie zahlen."
       ],
+      "images": [
+        {
+          "src": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-carrinho-global.webp",
+          "alt": "Hostinger-Warenkorb mit dem Tarif Startup für 48 Monate und der Bestellübersicht, in der die Zeile „Coupon applied“ mit dem Label SONAR20 und die Summe von 306,82 US$ stehen.",
+          "caption": "SONAR20 in der Bestellübersicht angewendet, in unserem Test mit dem Tarif Startup für 48 Monate: Die Gutscheinzeile zeigt −76,70 US$. Der Betrag bei „You're saving“ addiert die Aktion des Shops zum Gutschein. Bild: Screenshot von Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.829
+        }
+      ],
       "postParagraphs": [
         "Der Link dieses Artikels enthält SONAR20, aber nicht jeder Tarif übernimmt ihn von selbst. Prüfen Sie den Rabatt in der Bestellübersicht; erscheint er dort nicht, geben Sie den Code im Gutscheinfeld ein.",
         "Was der Code bei jedem Tarif abdeckt, steht in [Hostinger-Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
@@ -143,7 +158,7 @@
       "heading": "Häufige Fragen",
       "bullets": [
         "Gibt es einen Hostinger-Gutschein für den ersten Kauf? Ja: SONAR20 gibt 20 % auf den ersten Zeitraum eines neuen Tarifs.",
-        "Gilt der Hostinger-Gutschein beim Monatstarif? Getestet haben wir nur die Laufzeit von 48 Monaten. Prüfen Sie beim Monatstarif den Rabatt im Warenkorb, bevor Sie zahlen.",
+        "Gilt der Hostinger-Gutschein beim Monatstarif? Ja, in unserem Test bekam auch der Monatstarif die 20 %. Prüfen Sie den Rabatt im Warenkorb für die Laufzeit, die Sie wählen, bevor Sie zahlen.",
         "Gibt SONAR20 Rabatt auf die Verlängerung? Nein. Die Verlängerung läuft zum Tabellenpreis, den der Warenkorb unter dem Tarif zeigt.",
         "Gilt der Gutschein für eine Domain? Nicht für die einzelne Domain. Er gilt beim Neukauf von Hosting, VPS, professioneller E-Mail und Reach."
       ]

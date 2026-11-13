@@ -220903,7 +220903,7 @@ export const reviewsData: unknown[] = [
           "The 20% covers only the first period, so the term you pick on your first order decides how many months the discount covers. A short term suits someone who wants to try the hosting first, and the renewal arrives sooner. A longer term suits someone who has already decided to stay: the 20% applies to the whole period, and renewal only arrives at the end of it."
         ],
         "comparisonTable": {
-          "caption": "Cloud Startup plan in the global-site cart on October 29, 2026: price without the code and with SONAR20",
+          "caption": "Cloud Startup plan in the global-site cart on November 13, 2026: price without the code and with SONAR20",
           "headers": [
             "Term",
             "Without the code",
@@ -220911,6 +220911,12 @@ export const reviewsData: unknown[] = [
             "When it renews"
           ],
           "rows": [
+            [
+              "1 month",
+              "US$ 27.99",
+              "US$ 22.39",
+              "At the end of the first month"
+            ],
             [
               "48 months",
               "US$ 383.52",
@@ -220926,7 +220932,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "How much you save",
         "paragraphs": [
-          "Our math, from the cart prices in the test: on the 48-month term, the 20% takes US$ 76.70 off the total. The 20% comes off the first period of whichever term you choose, so the amount you save depends on that term.",
+          "Our math, from the cart prices in the test: on the 1-month term, the 20% takes US$ 5.60 off the total, and on the 48-month term it takes US$ 76.70 off. The percentage is the same; the 20% comes off the first period of whichever term you choose, so the amount you save depends on that term.",
           "The 20% applies to the price the cart already shows, which in our test was the [Hostinger Black Friday](/en/reviews/hostinger-black-friday) price. Campaign prices change; check the total in the order summary before you pay."
         ]
       },
@@ -220956,6 +220962,15 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "If the discount does not show up in the summary, paste the code into the field yourself.",
           "For what the code covers on each plan, see [how to use the Hostinger coupon](/en/reviews/hostinger-coupon-code-referral)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-carrinho-global.webp",
+            "alt": "Hostinger cart with the Startup plan for 48 months and the order summary showing the Coupon applied line with the SONAR20 tag and the total of US$ 306.82",
+            "caption": "SONAR20 applied in the order summary, in our test with the 48-month Startup plan: the coupon line shows -US$ 76.70. The \"You're saving\" figure adds the store's campaign to the coupon. Image: screenshot by Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.829
+          }
         ]
       },
       {
@@ -221055,7 +221070,7 @@ export const reviewsData: unknown[] = [
           "Los 20% valen solo en el primer período, así que el ciclo que eliges en el primer pedido decide durante cuántos meses rinde el descuento. Un ciclo corto sirve para probar el hosting, pero el ahorro es menor y la renovación llega pronto. Un ciclo largo, como el de 48 meses, sirve para quien ya decidió quedarse: los 20% valen sobre el período entero, y la renovación solo llega al final de ese período."
         ],
         "comparisonTable": {
-          "caption": "Plan Startup en el carrito del sitio global, el 29 de octubre de 2026: precio sin el código y con SONAR20",
+          "caption": "Plan Startup en el carrito del sitio global, el 13 de noviembre de 2026: precio sin el código y con SONAR20",
           "headers": [
             "Ciclo",
             "Sin el código",
@@ -221063,6 +221078,12 @@ export const reviewsData: unknown[] = [
             "Cuándo renueva"
           ],
           "rows": [
+            [
+              "1 mes",
+              "US$ 27,99",
+              "US$ 22,39",
+              "Al final del primer mes"
+            ],
             [
               "48 meses",
               "US$ 383,52",
@@ -221078,7 +221099,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cuánto ahorras",
         "paragraphs": [
-          "Nuestra cuenta, con los precios del carrito de la prueba: en el ciclo de 48 meses, los 20% restan US$ 76,70 del total. Los 20% valen en el primer período del ciclo que elijas; el porcentaje es el mismo en todos los ciclos, y el ahorro en dólares depende del precio de cada uno.",
+          "Nuestra cuenta, con los precios del carrito de la prueba: en el ciclo de 48 meses, los 20% restan US$ 76,70 del total, y en el de 1 mes, US$ 5,60. Los 20% valen en el primer período del ciclo que elijas; el porcentaje es el mismo en todos los ciclos, y el ahorro en dólares depende del precio de cada uno.",
           "Los 20% se aplican sobre el precio que el carrito ya muestra, que en nuestra prueba era el de la [Black Friday de Hostinger](/es/reviews/black-friday-hostinger-ofertas). El precio de campaña cambia; revisa el total en el resumen antes de pagar."
         ]
       },
@@ -221108,13 +221129,22 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "El enlace de este artículo incluye SONAR20, pero no todos los planes entran con el código aplicado. Comprueba el descuento en el resumen; si no aparece, pega el código en el campo.",
           "Para saber qué cubre el código en cada plan, mira [cómo usar el cupón Hostinger](/es/reviews/cupon-hostinger-codigo-de-referido)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-carrinho-global.webp",
+            "alt": "Carrito de Hostinger con el plan Startup de 48 meses y el resumen del pedido, que muestra la línea «Coupon applied» con la etiqueta SONAR20 y el total de US$ 306,82.",
+            "caption": "SONAR20 aplicado en el resumen del pedido, en nuestra prueba con el plan Startup de 48 meses: la línea del cupón muestra -US$ 76,70. La cifra de «You're saving» suma la campaña de la tienda al cupón. Imagen: captura de pantalla de Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.829
+          }
         ]
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿Hay cupón Hostinger para la primera compra? Sí: SONAR20 da 20% en el primer período de un plan nuevo.",
-          "¿El cupón Hostinger vale en el plan mensual? Nuestra prueba, en el sitio global, fue solo con el ciclo de 48 meses. En el plan mensual, comprueba el descuento en el carrito antes de pagar.",
+          "¿El cupón Hostinger vale en el plan mensual? En nuestra prueba, sí: el plan de 1 mes también recibió los 20%. Comprueba el descuento en el carrito para el ciclo que elijas.",
           "¿SONAR20 da descuento en la renovación? No. La renovación sale a precio de lista, que aparece en el carrito debajo del plan.",
           "¿El cupón vale para dominios? No para un dominio suelto. Vale en compras nuevas de hosting, VPS, correo profesional y Reach."
         ]
@@ -221207,7 +221237,7 @@ export const reviewsData: unknown[] = [
           "Les 20 % ne valent que sur la première période : la durée choisie à la première commande décide donc de combien de temps la réduction joue, et de la date à laquelle le prix catalogue s'applique. Si vous hésitez encore, une durée courte laisse le renouvellement arriver plus tôt ; si vous avez déjà décidé de rester, une durée longue étend les 20 % sur toute la période, et le renouvellement n'arrive qu'à la fin."
         ],
         "comparisonTable": {
-          "caption": "Forfait Cloud Startup, panier du site global, le 29 octobre 2026 : prix sans le code et avec SONAR20",
+          "caption": "Forfait Cloud Startup, panier du site global, le 13 novembre 2026 : prix sans le code et avec SONAR20",
           "headers": [
             "Durée",
             "Sans le code",
@@ -221215,6 +221245,12 @@ export const reviewsData: unknown[] = [
             "Renouvellement"
           ],
           "rows": [
+            [
+              "1 mois",
+              "27,99 USD",
+              "22,39 USD",
+              "À la fin du premier mois"
+            ],
             [
               "48 mois",
               "383,52 USD",
@@ -221230,7 +221266,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Combien vous économisez",
         "paragraphs": [
-          "Notre calcul, avec les prix du panier testé : sur la durée de 48 mois, les 20 % retirent 76,70 USD du total. Le pourcentage est le même quelle que soit la durée ; le montant économisé grandit avec le prix de la période choisie.",
+          "Notre calcul, avec les prix du panier testé : sur la durée de 48 mois, les 20 % retirent 76,70 USD du total ; sur la durée de 1 mois, ils en retirent 5,60 USD. Le pourcentage est le même quelle que soit la durée ; le montant économisé grandit avec le prix de la période choisie.",
           "Les 20 % s'appliquent sur le prix que le panier affiche déjà, qui était, lors de notre test, celui du [Black Friday de Hostinger](/fr/reviews/black-friday-hostinger-offres). Le prix de campagne change ; vérifiez le total dans le récapitulatif avant de payer."
         ]
       },
@@ -221260,6 +221296,15 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Le lien de cet article contient SONAR20, mais tous les forfaits ne l'appliquent pas automatiquement. Vérifiez la réduction dans le récapitulatif ; si elle ne s'affiche pas, saisissez le code dans le champ.",
           "Pour ce que le code couvre dans chaque forfait, voyez [comment utiliser le code promo Hostinger](/fr/reviews/code-promo-hostinger-parrainage)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-carrinho-global.webp",
+            "alt": "Panier Hostinger avec le forfait Startup sur 48 mois et le récapitulatif de la commande, qui montre la ligne Coupon applied avec l'étiquette SONAR20 et le total de 306,82 USD.",
+            "caption": "SONAR20 appliqué dans le récapitulatif de la commande, dans notre test avec le forfait Startup sur 48 mois : la ligne du coupon affiche -76,70 USD. Le montant « You're saving » additionne la campagne de la boutique et le coupon. Image : capture d'écran d'Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.829
+          }
         ]
       },
       {
@@ -221359,7 +221404,7 @@ export const reviewsData: unknown[] = [
           "Die 20 % gelten nur für den ersten Zeitraum, also bestimmt die Laufzeit, die Sie bei der ersten Bestellung wählen, wie lange der Rabatt wirkt. Bei einer Laufzeit von 48 Monaten gilt der Rabatt für den gesamten gebuchten Zeitraum, und die Verlängerung kommt erst an dessen Ende."
         ],
         "comparisonTable": {
-          "caption": "Tarif Cloud Startup im Warenkorb, am 29. Oktober 2026, in US-Dollar: Preis ohne den Code und mit SONAR20",
+          "caption": "Tarif Cloud Startup im Warenkorb, am 13. November 2026, in US-Dollar: Preis ohne den Code und mit SONAR20",
           "headers": [
             "Laufzeit",
             "Ohne den Code",
@@ -221367,6 +221412,12 @@ export const reviewsData: unknown[] = [
             "Wann sich der Tarif verlängert"
           ],
           "rows": [
+            [
+              "1 Monat",
+              "27,99 US$",
+              "22,39 US$",
+              "Am Ende des ersten Monats"
+            ],
             [
               "48 Monate",
               "383,52 US$",
@@ -221382,7 +221433,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Was Sie sparen",
         "paragraphs": [
-          "Unsere Rechnung mit den Preisen aus dem Testwarenkorb: Bei 48 Monaten nehmen die 20 % 76,70 US$ vom Gesamtbetrag ab. Andere Laufzeiten rechnen Sie im Warenkorb der gewählten Laufzeit nach.",
+          "Unsere Rechnung mit den Preisen aus dem Testwarenkorb: Bei 48 Monaten nehmen die 20 % 76,70 US$ vom Gesamtbetrag ab, bei 1 Monat 5,60 US$. Der Prozentsatz bleibt gleich, der Betrag hängt von der Laufzeit ab; andere Laufzeiten rechnen Sie im Warenkorb der gewählten Laufzeit nach.",
           "Die 20 % werden auf den Preis berechnet, den der Warenkorb ohnehin schon zeigt, und der enthält die Aktion der Hostinger. Der Aktionspreis ändert sich; prüfen Sie den Gesamtbetrag in der Übersicht vor der Zahlung."
         ]
       },
@@ -221409,6 +221460,15 @@ export const reviewsData: unknown[] = [
           "Klicken Sie in der Bestellübersicht auf „Have a coupon code?“, fügen Sie SONAR20 ein und wenden Sie ihn an.",
           "Prüfen Sie den Rabatt in der Summe, bevor Sie zahlen."
         ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-carrinho-global.webp",
+            "alt": "Hostinger-Warenkorb mit dem Tarif Startup für 48 Monate und der Bestellübersicht, in der die Zeile „Coupon applied“ mit dem Label SONAR20 und die Summe von 306,82 US$ stehen.",
+            "caption": "SONAR20 in der Bestellübersicht angewendet, in unserem Test mit dem Tarif Startup für 48 Monate: Die Gutscheinzeile zeigt −76,70 US$. Der Betrag bei „You're saving“ addiert die Aktion des Shops zum Gutschein. Bild: Screenshot von Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.829
+          }
+        ],
         "postParagraphs": [
           "Der Link dieses Artikels enthält SONAR20, aber nicht jeder Tarif übernimmt ihn von selbst. Prüfen Sie den Rabatt in der Bestellübersicht; erscheint er dort nicht, geben Sie den Code im Gutscheinfeld ein.",
           "Was der Code bei jedem Tarif abdeckt, steht in [Hostinger-Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
@@ -221418,7 +221478,7 @@ export const reviewsData: unknown[] = [
         "heading": "Häufige Fragen",
         "bullets": [
           "Gibt es einen Hostinger-Gutschein für den ersten Kauf? Ja: SONAR20 gibt 20 % auf den ersten Zeitraum eines neuen Tarifs.",
-          "Gilt der Hostinger-Gutschein beim Monatstarif? Getestet haben wir nur die Laufzeit von 48 Monaten. Prüfen Sie beim Monatstarif den Rabatt im Warenkorb, bevor Sie zahlen.",
+          "Gilt der Hostinger-Gutschein beim Monatstarif? Ja, in unserem Test bekam auch der Monatstarif die 20 %. Prüfen Sie den Rabatt im Warenkorb für die Laufzeit, die Sie wählen, bevor Sie zahlen.",
           "Gibt SONAR20 Rabatt auf die Verlängerung? Nein. Die Verlängerung läuft zum Tabellenpreis, den der Warenkorb unter dem Tarif zeigt.",
           "Gilt der Gutschein für eine Domain? Nicht für die einzelne Domain. Er gilt beim Neukauf von Hosting, VPS, professioneller E-Mail und Reach."
         ]
@@ -221510,7 +221570,7 @@ export const reviewsData: unknown[] = [
           "Il 20% vale solo sul primo periodo, quindi il periodo che scegli al primo ordine decide per quanti mesi lo sconto rende. Un periodo breve serve per provare l'hosting, ma il mese costa di più e il rinnovo arriva presto. Un periodo lungo serve a chi ha già deciso di restare: il 20% vale sull'intero periodo e il rinnovo arriva solo alla fine."
         ],
         "comparisonTable": {
-          "caption": "Piano Cloud Startup da 48 mesi nel carrello del sito globale, il 29 ottobre 2026: prezzo senza codice e con SONAR20",
+          "caption": "Piano Cloud Startup da 1 e da 48 mesi nel carrello del sito globale, il 13 novembre 2026: prezzo senza codice e con SONAR20",
           "headers": [
             "Periodo",
             "Senza codice",
@@ -221518,6 +221578,12 @@ export const reviewsData: unknown[] = [
             "Quando si rinnova"
           ],
           "rows": [
+            [
+              "1 mese",
+              "27,99 USD",
+              "22,39 USD",
+              "Alla fine del primo mese"
+            ],
             [
               "48 mesi",
               "383,52 USD",
@@ -221533,7 +221599,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto resta",
         "paragraphs": [
-          "Il nostro conto, con i prezzi del carrello di prova: sul periodo di 48 mesi, SONAR20 toglie 76,70 USD dal totale. Il 20% si applica al prezzo che il carrello mostra già, che nel nostro test era quello della [Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte). Il prezzo della campagna cambia: controlla il totale nel riepilogo prima di pagare."
+          "Il nostro conto, con i prezzi del carrello di prova: sul periodo di 48 mesi, SONAR20 toglie 76,70 USD dal totale; sul periodo di 1 mese ne toglie 5,60. La percentuale è la stessa, l'importo dipende dal periodo. Il 20% si applica al prezzo che il carrello mostra già, che nel nostro test era quello della [Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte). Il prezzo della campagna cambia: controlla il totale nel riepilogo prima di pagare."
         ]
       },
       {
@@ -221559,6 +221625,15 @@ export const reviewsData: unknown[] = [
           "Nel riepilogo dell'ordine clicca su «Have a coupon code?», incolla SONAR20 e applica.",
           "Controlla lo sconto nel totale prima di pagare."
         ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-carrinho-global.webp",
+            "alt": "Carrello Hostinger con il piano Startup da 48 mesi e il riepilogo dell'ordine con la riga «Coupon applied», l'etichetta SONAR20 e il totale di 306,82 USD.",
+            "caption": "SONAR20 applicato nel riepilogo dell'ordine, nel nostro test con il piano Startup da 48 mesi: la riga del coupon mostra -76,70 USD. Il valore «You're saving» somma al coupon la campagna del negozio. Immagine: screenshot di Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.829
+          }
+        ],
         "postParagraphs": [
           "Il link di questo articolo include SONAR20, ma non ogni piano si apre con il codice applicato. Controlla lo sconto nel riepilogo; se non compare, inserisci il codice nel campo.",
           "Per cosa copre il codice in ogni piano, vedi [come usare il coupon Hostinger](/it/reviews/coupon-hostinger-codice-invito)."
@@ -221568,7 +221643,7 @@ export const reviewsData: unknown[] = [
         "heading": "Domande frequenti",
         "bullets": [
           "Esiste un coupon Hostinger per il primo acquisto? Sì: SONAR20 dà il 20% sul primo periodo di un piano nuovo.",
-          "Il coupon Hostinger vale sul piano mensile? Il test riportato qui, sul sito globale, riguarda solo 48 mesi. Sul piano mensile, controlla lo sconto nel carrello prima di pagare.",
+          "Il coupon Hostinger vale sul piano mensile? Nel nostro test, sì: anche il piano di 1 mese ha ricevuto il 20%. Controlla lo sconto nel carrello per il periodo che scegli, prima di pagare.",
           "SONAR20 dà sconto sul rinnovo? No. Il rinnovo costa il prezzo di listino, che il carrello mostra sotto il piano.",
           "Il coupon vale per i domini? Non per il dominio singolo. Vale sugli acquisti nuovi di hosting, VPS, e-mail professionale e Reach."
         ]
@@ -221607,7 +221682,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "SONAR20はHostingerのプランの最初の期間が20%オフになるコードです。48か月プランのカートでの金額と、対象になるもの、ならないもの、期間の選び方を紹介します。",
+    "description": "SONAR20はHostingerのプランの最初の期間が20%オフになるコードです。1か月と48か月プランのカートでの金額と、対象になるもの、ならないもの、期間の選び方を紹介します。",
     "metaDescription": "Hostingerのはじめての購入には SONAR20 で最初の期間が20%オフ。更新は通常料金なので、契約期間は先に決めておきましょう。",
     "publishedAt": "2026年11月13日",
     "publishedAtISO": "2026-11-13",
@@ -221645,7 +221720,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "Hostingerのはじめての購入には SONAR20 を使いましょう。プランの最初の期間が20%オフになり、キャンペーン価格にも適用されます。対象は新規購入で、更新と単体のドメインは対象外です。20%が効くのは最初の期間だけなので、契約期間は慎重に選んでください。下の表で48か月プランの金額を確認できます。"
+          "Hostingerのはじめての購入には SONAR20 を使いましょう。プランの最初の期間が20%オフになり、キャンペーン価格にも適用されます。対象は新規購入で、更新と単体のドメインは対象外です。20%が効くのは最初の期間だけなので、契約期間は慎重に選んでください。下の表で1か月と48か月プランの金額を確認できます。"
         ]
       },
       {
@@ -221659,10 +221734,10 @@ export const reviewsData: unknown[] = [
         "heading": "最初の注文で期間が決まる",
         "paragraphs": [
           "20%が効くのは最初の期間だけです。つまり、最初の注文で選ぶ契約期間によって、割引が何か月分に効くかが決まります。使い続けると決めている人は、長い期間を選ぶと最初の期間全体に20%が効き、更新は期間が終わってからです。20%は選んだサイクルの最初の期間に適用されます。",
-          "私たちのテストはグローバルサイトで行いました。2026年10月29日のカートで、Cloud Startupプランの48か月は、クーポンなしで383.52米ドル、SONAR20 ありで306.82米ドルでした。他の期間の金額はここでは示しません。"
+          "私たちのテストはグローバルサイトで行いました。2026年11月13日のカートで、Cloud Startupプランの48か月は、クーポンなしで383.52米ドル、SONAR20 ありで306.82米ドルでした。1か月は、クーポンなしで27.99米ドル、SONAR20 ありで22.39米ドルでした。12か月と24か月は確認していないため、金額は示しません。"
         ],
         "comparisonTable": {
-          "caption": "グローバルサイトのカートでの Cloud Startup（48か月）。米ドル。",
+          "caption": "2026年11月13日、グローバルサイトのカートでの Cloud Startup（1か月と48か月）。米ドル。",
           "headers": [
             "期間",
             "コードなし",
@@ -221670,6 +221745,12 @@ export const reviewsData: unknown[] = [
             "更新のタイミング"
           ],
           "rows": [
+            [
+              "1か月",
+              "US$27.99",
+              "US$22.39",
+              "最初の1か月の終了時"
+            ],
             [
               "48か月",
               "US$383.52",
@@ -221679,13 +221760,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "表の金額は、初回の契約期間（48か月）の総額です。契約期間を選ぶ前に、この総額とカートに表示される更新料を比べてください。"
+          "表の金額は、選んだ初回の契約期間（1か月または48か月）の総額です。契約期間を選ぶ前に、この総額とカートに表示される更新料を比べてください。"
         ]
       },
       {
         "heading": "いくら安くなる？",
         "paragraphs": [
-          "私たちの計算：このテストでは、20%の割引で48か月の合計から76.70米ドルが引かれました。割合はどの期間でも同じです。",
+          "私たちの計算：このテストでは、20%の割引で48か月の合計から76.70米ドル、1か月の合計から5.60米ドルが引かれました。割合はどの期間でも同じで、金額は期間によって変わります。",
           "20%はカートにすでに表示されている価格から引かれます。私たちのテストでは、それは[Hostingerのブラックフライデー](/ja/reviews/hostinger-black-friday-ja)の価格でした。キャンペーン価格は変わるので、支払う前に注文の概要で合計を確認してください。"
         ]
       },
@@ -221715,13 +221796,22 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "この記事のリンクにはすでに SONAR20 が入っていますが、すべてのプランに自動で適用されるとは限りません。注文の概要に割引が反映されていない場合は、コードをクーポン欄に入力してください。",
           "各プランでコードが何をカバーするかは、[Hostingerクーポンの使い方](/ja/reviews/hostinger-referral-code-ja)をご覧ください。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-carrinho-global.webp",
+            "alt": "Cloud Startupプランの48か月が入ったHostingerのカートと、SONAR20のタグ付きで「Coupon applied」の行が表示され、合計が306.82米ドルになっている注文の概要。",
+            "caption": "注文の概要に適用された SONAR20。私たちのテストでは Cloud Startupプランの48か月で、クーポンの行は-76.70米ドルでした。「You're saving」の金額には、クーポンにストアのキャンペーン分が加わっています。画像：Em Casa com Cecília のスクリーンショット。",
+            "objectFit": "contain",
+            "aspectRatio": 1.829
+          }
         ]
       },
       {
         "heading": "よくある質問",
         "bullets": [
           "Hostingerのはじめての購入に使えるクーポンはありますか？ あります。SONAR20 で新しいプランの最初の期間が20%オフになります。",
-          "Hostingerのクーポンは月払いのプランでも使えますか？ 期間によって異なる場合があるので、選んだ期間のカートで割引が表示されるか確認してください。ここで金額を示しているのは48か月プランだけです。",
+          "Hostingerのクーポンは月払いのプランでも使えますか？ はい。私たちのテストでは、1か月プランでも20%の割引が適用されました。選ぶ期間のカートで割引が表示されているか確認してください。",
           "SONAR20 で更新も割引になりますか？ いいえ。更新は通常料金で、カートでプランの下に表示されます。",
           "クーポンはドメインにも使えますか？ 単体のドメインには使えません。ホスティング、VPS、ビジネスメール、Reach の新規購入で使えます。"
         ]
@@ -221814,7 +221904,7 @@ export const reviewsData: unknown[] = [
           "20%는 첫 기간에만 적용되므로, 첫 주문에서 고른 계약 기간이 할인이 몇 개월 동안 이어지는지를 정합니다. 짧은 기간은 호스팅을 먼저 써 보려는 분에게 맞고, 갱신도 그만큼 일찍 옵니다. 긴 기간은 계속 쓰기로 정한 분에게 맞습니다. 20%가 기간 전체에 적용되고 갱신은 그 기간이 끝난 뒤에 옵니다. 20%는 장바구니에 표시된 가격에서 빠지므로, 결제 전에 선택한 기간의 총액을 확인하세요."
         ],
         "comparisonTable": {
-          "caption": "글로벌 사이트 장바구니의 Cloud Startup 플랜 48개월, 2026년 10월 29일: 코드 없는 가격과 SONAR20 적용 가격",
+          "caption": "글로벌 사이트 장바구니의 Cloud Startup 플랜 1개월과 48개월, 2026년 11월 13일: 코드 없는 가격과 SONAR20 적용 가격",
           "headers": [
             "계약 기간",
             "코드 없이",
@@ -221822,6 +221912,12 @@ export const reviewsData: unknown[] = [
             "갱신 시점"
           ],
           "rows": [
+            [
+              "1개월",
+              "27.99달러",
+              "22.39달러",
+              "첫 1개월이 끝난 뒤"
+            ],
             [
               "48개월",
               "383.52달러",
@@ -221837,7 +221933,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "얼마나 절약될까",
         "paragraphs": [
-          "테스트 장바구니 가격으로 계산하면, 48개월 Cloud Startup 플랜에서 20%는 총액에서 76.70달러를 줄여 줍니다. 할인율은 같아도 기간이 길수록 절약되는 금액이 커집니다.",
+          "테스트 장바구니 가격으로 계산하면, Cloud Startup 플랜에서 20%는 1개월 기간에는 총액에서 5.60달러, 48개월 기간에는 76.70달러를 줄여 줍니다. 할인율은 같아도 기간이 길수록 절약되는 금액이 커집니다.",
           "20%는 장바구니에 이미 표시된 가격에서 빠지며, 테스트 당시 그 가격은 [Hostinger 블랙프라이데이](/ko/reviews/hostinger-black-friday-ko) 가격이었습니다. 캠페인 가격은 바뀌니, 결제 전에 요약의 총액을 확인하세요."
         ]
       },
@@ -221867,6 +221963,15 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "이 글의 링크에도 SONAR20이 들어 있지만 모든 플랜에 자동으로 적용되는 것은 아닙니다. 주문 요약에서 할인을 확인하고, 표시되지 않으면 쿠폰 입력란에 직접 넣으세요.",
           "플랜별로 코드가 어디까지 적용되는지는 [Hostinger 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)을 참고하세요."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-carrinho-global.webp",
+            "alt": "48개월 Startup 플랜이 담긴 Hostinger 장바구니와, SONAR20 태그가 붙은 Coupon applied 줄과 총액 306.82달러가 보이는 주문 요약 화면.",
+            "caption": "주문 요약에 적용된 SONAR20. 저희 테스트에서는 48개월 Startup 플랜으로 쿠폰 줄에 -76.70달러가 표시됐습니다. You're saving 금액에는 쿠폰에 더해 스토어의 캠페인 할인도 합산됩니다. 이미지: Em Casa com Cecília 스크린샷.",
+            "objectFit": "contain",
+            "aspectRatio": 1.829
+          }
         ]
       },
       {
@@ -221964,10 +222069,10 @@ export const reviewsData: unknown[] = [
         "heading": "第一筆訂單決定訂閱期間",
         "paragraphs": [
           "20% 只算首期，所以你在第一筆訂單選的訂閱期間，決定折扣能撐多久。月付方案適合先試用主機，續訂在每個月底就會到來。年付以上的期間適合已經決定長期使用的人：20% 折扣涵蓋整個首期，續訂要等到首期結束才會出現。",
-          "20% 折扣涵蓋所選訂閱期間的首期。我們在全球站實測的是 48 個月的 Startup 方案，其他期間的金額請以購物車顯示為準。"
+          "20% 折扣涵蓋所選訂閱期間的首期。我們在全球站實測了 1 個月和 48 個月的 Startup 方案，其他期間的金額請以購物車顯示為準。"
         ],
         "comparisonTable": {
-          "caption": "2026 年 10 月 29 日，全球站購物車中的 Startup 方案：未使用與使用 SONAR20 的價格",
+          "caption": "2026 年 11 月 13 日，全球站購物車中的 Startup 方案：未使用與使用 SONAR20 的價格",
           "headers": [
             "訂閱期間",
             "未使用優惠碼",
@@ -221975,6 +222080,12 @@ export const reviewsData: unknown[] = [
             "何時續訂"
           ],
           "rows": [
+            [
+              "1 個月",
+              "US$ 27.99",
+              "US$ 22.39",
+              "第一個月結束時"
+            ],
             [
               "48 個月",
               "US$ 383.52",
@@ -221990,7 +222101,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "實際省多少",
         "paragraphs": [
-          "我們以測試購物車的價格計算：48 個月的 Startup 方案，20% 從總額扣掉 US$ 76.70。折扣比例固定，其他期間省下的金額取決於購物車顯示的價格。",
+          "我們以測試購物車的價格計算：1 個月的 Startup 方案，20% 從總額扣掉 US$ 5.60；48 個月的 Startup 方案，扣掉 US$ 76.70。折扣比例固定，省下的金額取決於所選的訂閱期間。",
           "20% 是從購物車已顯示的價格扣掉的，我們測試時顯示的是 [Hostinger 黑色星期五](/zh-hant/reviews/hostinger-black-friday-zh-hant)的價格。活動價會變動，付款前請在訂單摘要確認總額。"
         ]
       },
@@ -222020,13 +222131,22 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "本文的連結已帶有 SONAR20，但並非每個方案都會自動套用：我們測試時，表格裡的 Startup 方案經由連結進入並沒有套用。如果訂單摘要沒有出現折扣，請直接在優惠碼欄位輸入。",
           "優惠碼在各方案涵蓋的範圍，見[如何使用 Hostinger 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-carrinho-global.webp",
+            "alt": "Hostinger 購物車顯示 48 個月的 Startup 方案，訂單摘要中有帶 SONAR20 標籤的 Coupon applied 一行，總額為 US$ 306.82。",
+            "caption": "SONAR20 已套用在訂單摘要中，這是我們以 48 個月 Startup 方案測試的畫面：優惠碼一行顯示 -US$ 76.70。「You're saving」的金額把商店的活動折扣和優惠碼加在一起。圖片：Em Casa com Cecília 截圖。",
+            "objectFit": "contain",
+            "aspectRatio": 1.829
+          }
         ]
       },
       {
         "heading": "常見問題",
         "bullets": [
           "Hostinger 有首次購買優惠碼嗎？有：SONAR20 為新方案首期享 20% 折扣。",
-          "Hostinger 優惠碼適用於月付方案嗎？本文只在全球站測試過 48 個月的方案；月付方案請在付款前於購物車確認折扣。",
+          "Hostinger 優惠碼適用於月付方案嗎？在我們的測試中，月付（1 個月）方案同樣享有 20% 折扣；請在付款前於購物車確認你所選訂閱期間的折扣。",
           "SONAR20 對續訂有折扣嗎？沒有。續訂按價目表計價，購物車會在方案下方顯示。",
           "優惠碼適用於網域嗎？單買網域不適用。它適用於新購買的網站主機、VPS、專業電郵和 Reach。"
         ]
@@ -222065,7 +222185,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "SONAR20 可让 Hostinger 套餐首个计费周期减 20%。看看 48 个月周期的算账、哪些适用哪些不适用，以及为什么周期决定你能省多少。",
+    "description": "SONAR20 可让 Hostinger 套餐首个计费周期减 20%。看看 48 个月和 1 个月周期的算账、哪些适用哪些不适用，以及为什么周期决定你能省多少。",
     "metaDescription": "首次购买 Hostinger 请用 SONAR20：套餐首个计费周期减 20%。续费按标价，请先选好周期。",
     "publishedAt": "2026年11月13日",
     "publishedAtISO": "2026-11-13",
@@ -222118,7 +222238,7 @@ export const reviewsData: unknown[] = [
           "20% 只在首个计费周期有效，所以第一单选的周期，决定折扣覆盖多长时间。20% 适用于你所选周期的首个计费周期；续费要等这个周期结束才会到来。"
         ],
         "comparisonTable": {
-          "caption": "Cloud Startup 套餐在全球站购物车中，2026 年 10 月 29 日测试：不用优惠码与使用 SONAR20 的价格",
+          "caption": "Cloud Startup 套餐在全球站购物车中，2026 年 11 月 13 日测试：不用优惠码与使用 SONAR20 的价格",
           "headers": [
             "周期",
             "不用优惠码",
@@ -222126,6 +222246,12 @@ export const reviewsData: unknown[] = [
             "何时续费"
           ],
           "rows": [
+            [
+              "1 个月",
+              "US$ 27.99",
+              "US$ 22.39",
+              "第一个月结束时"
+            ],
             [
               "48 个月",
               "US$ 383.52",
@@ -222141,7 +222267,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "能省多少",
         "paragraphs": [
-          "我们的计算：用购物车里的价格，48 个月周期里 20% 让总额少 US$ 76.70（US$ 383.52 变成 US$ 306.82）。",
+          "我们的计算：用购物车里的价格，48 个月周期里 20% 让总额少 US$ 76.70（US$ 383.52 变成 US$ 306.82），1 个月周期里少 US$ 5.60（US$ 27.99 变成 US$ 22.39）。折扣比例相同，省多少取决于所选周期。",
           "20% 是在购物车已经显示的价格上扣的，其中可能已含活动价，例如[Hostinger 黑色星期五](/zh-hans/reviews/hostinger-black-friday-zh-hans)。活动价会变化，付款前请在订单摘要中确认总额。"
         ]
       },
@@ -222171,6 +222297,15 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "本文的链接已带有 SONAR20。如果订单摘要里没有出现折扣行，请把代码粘贴到优惠码栏。",
           "各套餐的适用范围，见[如何使用 Hostinger 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-carrinho-global.webp",
+            "alt": "Hostinger 购物车中选择了 48 个月的 Startup 套餐，订单摘要显示带有 SONAR20 标签的 “Coupon applied” 行，总额为 US$ 306.82",
+            "caption": "订单摘要中已应用 SONAR20，这是我们用 48 个月 Startup 套餐的测试：优惠码行显示 -US$ 76.70。“You're saving” 的数字把商店的活动优惠和优惠码加在了一起。图片：Em Casa com Cecília 截图。",
+            "objectFit": "contain",
+            "aspectRatio": 1.829
+          }
         ]
       },
       {

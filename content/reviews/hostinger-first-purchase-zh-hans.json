@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "SONAR20 可让 Hostinger 套餐首个计费周期减 20%。看看 48 个月周期的算账、哪些适用哪些不适用，以及为什么周期决定你能省多少。",
+  "description": "SONAR20 可让 Hostinger 套餐首个计费周期减 20%。看看 48 个月和 1 个月周期的算账、哪些适用哪些不适用，以及为什么周期决定你能省多少。",
   "metaDescription": "首次购买 Hostinger 请用 SONAR20：套餐首个计费周期减 20%。续费按标价，请先选好周期。",
   "publishedAt": "2026年11月13日",
   "publishedAtISO": "2026-11-13",
@@ -83,7 +83,7 @@
         "20% 只在首个计费周期有效，所以第一单选的周期，决定折扣覆盖多长时间。20% 适用于你所选周期的首个计费周期；续费要等这个周期结束才会到来。"
       ],
       "comparisonTable": {
-        "caption": "Cloud Startup 套餐在全球站购物车中，2026 年 10 月 29 日测试：不用优惠码与使用 SONAR20 的价格",
+        "caption": "Cloud Startup 套餐在全球站购物车中，2026 年 11 月 13 日测试：不用优惠码与使用 SONAR20 的价格",
         "headers": [
           "周期",
           "不用优惠码",
@@ -91,6 +91,12 @@
           "何时续费"
         ],
         "rows": [
+          [
+            "1 个月",
+            "US$ 27.99",
+            "US$ 22.39",
+            "第一个月结束时"
+          ],
           [
             "48 个月",
             "US$ 383.52",
@@ -106,7 +112,7 @@
     {
       "heading": "能省多少",
       "paragraphs": [
-        "我们的计算：用购物车里的价格，48 个月周期里 20% 让总额少 US$ 76.70（US$ 383.52 变成 US$ 306.82）。",
+        "我们的计算：用购物车里的价格，48 个月周期里 20% 让总额少 US$ 76.70（US$ 383.52 变成 US$ 306.82），1 个月周期里少 US$ 5.60（US$ 27.99 变成 US$ 22.39）。折扣比例相同，省多少取决于所选周期。",
         "20% 是在购物车已经显示的价格上扣的，其中可能已含活动价，例如[Hostinger 黑色星期五](/zh-hans/reviews/hostinger-black-friday-zh-hans)。活动价会变化，付款前请在订单摘要中确认总额。"
       ]
     },
@@ -136,6 +142,15 @@
       "postParagraphs": [
         "本文的链接已带有 SONAR20。如果订单摘要里没有出现折扣行，请把代码粘贴到优惠码栏。",
         "各套餐的适用范围，见[如何使用 Hostinger 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-carrinho-global.webp",
+          "alt": "Hostinger 购物车中选择了 48 个月的 Startup 套餐，订单摘要显示带有 SONAR20 标签的 “Coupon applied” 行，总额为 US$ 306.82",
+          "caption": "订单摘要中已应用 SONAR20，这是我们用 48 个月 Startup 套餐的测试：优惠码行显示 -US$ 76.70。“You're saving” 的数字把商店的活动优惠和优惠码加在了一起。图片：Em Casa com Cecília 截图。",
+          "objectFit": "contain",
+          "aspectRatio": 1.829
+        }
       ]
     },
     {

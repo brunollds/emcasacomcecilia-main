@@ -83,7 +83,7 @@
         "Il 20% vale solo sul primo periodo, quindi il periodo che scegli al primo ordine decide per quanti mesi lo sconto rende. Un periodo breve serve per provare l'hosting, ma il mese costa di più e il rinnovo arriva presto. Un periodo lungo serve a chi ha già deciso di restare: il 20% vale sull'intero periodo e il rinnovo arriva solo alla fine."
       ],
       "comparisonTable": {
-        "caption": "Piano Cloud Startup da 48 mesi nel carrello del sito globale, il 29 ottobre 2026: prezzo senza codice e con SONAR20",
+        "caption": "Piano Cloud Startup da 1 e da 48 mesi nel carrello del sito globale, il 13 novembre 2026: prezzo senza codice e con SONAR20",
         "headers": [
           "Periodo",
           "Senza codice",
@@ -91,6 +91,12 @@
           "Quando si rinnova"
         ],
         "rows": [
+          [
+            "1 mese",
+            "27,99 USD",
+            "22,39 USD",
+            "Alla fine del primo mese"
+          ],
           [
             "48 mesi",
             "383,52 USD",
@@ -106,7 +112,7 @@
     {
       "heading": "Quanto resta",
       "paragraphs": [
-        "Il nostro conto, con i prezzi del carrello di prova: sul periodo di 48 mesi, SONAR20 toglie 76,70 USD dal totale. Il 20% si applica al prezzo che il carrello mostra già, che nel nostro test era quello della [Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte). Il prezzo della campagna cambia: controlla il totale nel riepilogo prima di pagare."
+        "Il nostro conto, con i prezzi del carrello di prova: sul periodo di 48 mesi, SONAR20 toglie 76,70 USD dal totale; sul periodo di 1 mese ne toglie 5,60. La percentuale è la stessa, l'importo dipende dal periodo. Il 20% si applica al prezzo che il carrello mostra già, che nel nostro test era quello della [Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte). Il prezzo della campagna cambia: controlla il totale nel riepilogo prima di pagare."
       ]
     },
     {
@@ -132,6 +138,15 @@
         "Nel riepilogo dell'ordine clicca su «Have a coupon code?», incolla SONAR20 e applica.",
         "Controlla lo sconto nel totale prima di pagare."
       ],
+      "images": [
+        {
+          "src": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-carrinho-global.webp",
+          "alt": "Carrello Hostinger con il piano Startup da 48 mesi e il riepilogo dell'ordine con la riga «Coupon applied», l'etichetta SONAR20 e il totale di 306,82 USD.",
+          "caption": "SONAR20 applicato nel riepilogo dell'ordine, nel nostro test con il piano Startup da 48 mesi: la riga del coupon mostra -76,70 USD. Il valore «You're saving» somma al coupon la campagna del negozio. Immagine: screenshot di Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.829
+        }
+      ],
       "postParagraphs": [
         "Il link di questo articolo include SONAR20, ma non ogni piano si apre con il codice applicato. Controlla lo sconto nel riepilogo; se non compare, inserisci il codice nel campo.",
         "Per cosa copre il codice in ogni piano, vedi [come usare il coupon Hostinger](/it/reviews/coupon-hostinger-codice-invito)."
@@ -141,7 +156,7 @@
       "heading": "Domande frequenti",
       "bullets": [
         "Esiste un coupon Hostinger per il primo acquisto? Sì: SONAR20 dà il 20% sul primo periodo di un piano nuovo.",
-        "Il coupon Hostinger vale sul piano mensile? Il test riportato qui, sul sito globale, riguarda solo 48 mesi. Sul piano mensile, controlla lo sconto nel carrello prima di pagare.",
+        "Il coupon Hostinger vale sul piano mensile? Nel nostro test, sì: anche il piano di 1 mese ha ricevuto il 20%. Controlla lo sconto nel carrello per il periodo che scegli, prima di pagare.",
         "SONAR20 dà sconto sul rinnovo? No. Il rinnovo costa il prezzo di listino, che il carrello mostra sotto il piano.",
         "Il coupon vale per i domini? Non per il dominio singolo. Vale sugli acquisti nuovi di hosting, VPS, e-mail professionale e Reach."
       ]
