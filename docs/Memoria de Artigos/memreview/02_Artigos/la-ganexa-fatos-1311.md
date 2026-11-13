@@ -45,7 +45,9 @@ Leituras de 13/11/2026 no navegador do app, sem login e sem finalizar compra. Os
 - **Dr. Peanut também é parceira:** uma marca por artigo. O comparativo existe (ver seção 7).
 - **Sem link de afiliado:** `affiliate: "la-ganexa"`, botão para o site oficial, link interno para
   `/cupons/la-ganexa`.
-- **Experiência própria:** sem registro. Ver a pergunta 1.
+- **Sem experiência própria (Bruno, 13/11):** a Cecília não recebeu nem usou produto da La Ganexa. Os artigos saem
+  só por fontes públicas; o LG5 é guia (sem nota, sem prós e contras de uso, sem "provei") e o LG7 compara pelo
+  rótulo e pelo preço, sem dizer qual é mais gostosa.
 - **Frete grátis: o mínimo conta depois do cupom (Bruno, 13/11).** No Sul e no Sudeste (R$ 250), um carrinho de
   R$ 270 cai para R$ 243 com o cupom e perde o frete grátis.
 - **App:** o Bruno não viu app (13/11). Os textos não falam de app.
@@ -133,8 +135,7 @@ Envio, pagamento e a fábrica em Peruíbe estão no dossiê (seções 1 e 2).
 
 ## Perguntas para o Bruno
 
-1. **A Cecília recebeu ou usou algum produto da La Ganexa?** Se sim, quais. Decide se o LG5 sai como guia por fontes
-   públicas ou com experiência própria.
+1. ~~A Cecília recebeu ou usou algum produto da La Ganexa?~~ **Não (13/11): só fontes públicas** (seção 2).
 2. ~~Black Friday: a parceria informou datas ou regras?~~ **Não (13/11): só o que é público.**
 3. ~~`dr-peanut-ou-la-ganexa`: revisar?~~ **Sim (13/11): comparativo neutro para as duas. Pauta LG7.**
 4. ~~App, cashback e frete?~~ **13/11: não viu app; o mínimo do frete conta depois do cupom; cashback com cupom,
