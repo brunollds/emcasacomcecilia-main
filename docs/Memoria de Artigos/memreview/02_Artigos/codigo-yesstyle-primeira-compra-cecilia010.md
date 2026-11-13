@@ -7,9 +7,9 @@ parceiro_slug: "yesstyle"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redação PT (Job 2), depois a família de 10 idiomas"
+proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "PC-Y (série primeira compra, próxima fase)"
@@ -18,7 +18,7 @@ translationKey: "yesstyle-primeira-compra"
 modo_i18n: "familia-10-idiomas"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
-status_i18n: "pendente"
+status_i18n: "escrito-10-idiomas"
 affiliate: "yesstyle"
 coupon: "CECILIA010"
 ---
@@ -182,3 +182,38 @@ com o código no resumo (`/images/reviews/yesstyle/yesstyle-app-codigo-checkout-
 | Entrega ao Brasil suspensa | Bruno no app, 28/10; Brasil fora da lista de prazos de Natal, 13/11 | reler no dia |
 | Limite de usos; definição de cliente novo | nenhuma | não escrever |
 | Boas-vindas de novo membro, estudantes, cupons de campanha | [[primeira-compra-semente-yesstyle]] | contexto interno; o artigo não cita |
+
+## Rascunho PT (Job 2, 13/11/2026)
+
+Redigido em `content/reviews/codigo-yesstyle-primeira-compra-cecilia010.json` (id 944, locale pt), registrado no fim do `_manifest.json`. Capítulos: Resposta rápida; YesStyle primeira compra: o que usar; Código de recompensa não é cupom; E na segunda compra?; Antes do primeiro pedido: a entrega; Onde colar o código (com a imagem do app); Perguntas frequentes (4).
+
+Matriz de claims do rascunho:
+
+| Afirmação no texto | Fonte | Status |
+|---|---|---|
+| 5% na primeira compra, 2% nas seguintes ("A loja informa") | `data/coupons/yesstyle.json`; `influencers.html` | verificado |
+| Reward Code no site; Influencer / Rewards Code no app, embaixo do Coupon Code | teste no app, sem finalizar compra | verificado |
+| Código aceito no app e linha Influencer Code Discount (5% OFF) no resumo | print do teste de 28/10, destino Estados Unidos | verificado |
+| Brasil sem entrega ("segue suspensa", "em 28/10, no app") | Bruno no app, 28/10 | reler no dia |
+| Brasil fora da lista de prazos de Natal da loja | leitura de 13/11 | reler no dia |
+| Portugal recebe (guia de entrega) | `yesstyle-entrega-no-brasil-e-portugal` | verificado |
+| Segunda compra: 2% extra | `data/coupons/yesstyle.json` | verificado |
+| Limite de usos, cliente novo, benefícios da própria loja | nenhuma | não escrito |
+
+## Revisão, capa e família (13/11/2026)
+
+PT com o id 944; as 9 versões com os ids 955 a 963 e os slugs do briefing.
+
+**Processo.** Job 2 em português; checagem de fatos e Job 3 (Fable 5.2) em paralelo, aplicados; as 9 versões geradas pelo Sonnet 5.5 a partir do PT revisado e conferidas uma a uma contra o PT, o briefing e o `test:review-i18n`. Fora do PT: `isNew` false e `hideFromPortugueseListings` true.
+
+**Capa (Job 6; aprovada pelo Bruno em 13/11/2026).** O Bruno não quis o nome da loja repetido embaixo do logo: no lugar dele vai "Bem-vindo" na capa do PT e "Welcome" na capa das outras 9 versões. Por isso a família tem dois arquivos de capa, `-capa.webp` (PT) e `-capa-en.webp` (os 9). As duas estão no CDN (`upload-ftps.py`, `verify-remote.mjs`, `prepare-delivery.mjs --append`), e o manifesto recebeu só inserções.
+- Foto da capa: mulher sorrindo com creme na bochecha e o tubo na mão, foto oficial da Beauty of Joseon (home da marca), marca vendida na YesStyle. O Bruno pediu "mulheres usando cosméticos" no lugar do packshot e escolheu a opção B. Não achamos foto de campanha da própria YesStyle com pessoa. O painel traz "Reward Code:" e o CECILIA010, sem a palavra cupom.
+
+**Decisões do texto.**
+
+- A entrega ao Brasil fica em uma frase, sem data: "a entrega está suspensa no site e no app, e o código não muda isso". Reler no dia da revisão mensal.
+- O FAQ planejado "O CECILIA010 é cupom?" virou "Em que campo entra o CECILIA010?", para não usar "cupom" com o nosso código no FAQ.
+- O `cta` não repete o do como-usar: diz o campo Reward Code e os dois percentuais, sem promessa de frete ou prazo.
+- Fora do PT: sem Brasil e sem Portugal; o capítulo da entrega manda conferir se a YesStyle entrega no país do leitor, com o link do guia de entrega do idioma. Em zh-hans, o guia do idioma cobre só Singapura e Malásia.
+
+- Pendente: decidir se a família `yesstyle-primeira-compra` entra em `src/lib/i18n/clusters/yesstyle.ts` (hoje não está, e os gates passam); é mudança em `src/`, da sessão do Redesenho.
