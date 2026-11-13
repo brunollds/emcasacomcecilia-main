@@ -7,9 +7,9 @@ parceiro_slug: "la-ganexa"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2)"
+proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "LG4"
@@ -135,3 +135,31 @@ Capa: logo da La Ganexa, um produto da marca (foto oficial) e o código CECILIA.
 | Frete grátis acima de R$ 250 (S e SE) e R$ 350 (demais); mínimo depois do cupom | `/pages/politica-de-frete`, 13/11; Bruno, 13/11 | valores verificados; "depois" é palavra do Bruno |
 | Sem valor mínimo; um cupom por pedido | nenhuma | não escrever |
 | Cupom de boas-vindas, cupom em reais, cashback, grupo VIP e brinde da loja | [[la-ganexa-fatos-1311]] | contexto interno; o artigo não cita |
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-la-ganexa-primeira-compra.json` (id 941), no esqueleto do briefing e no molde do `cupom-prohall-primeira-compra`. Ficaram fora, por falta de fonte ou por regra: exigência de primeiro pedido ou cadastro, "sem valor mínimo" e "um cupom por pedido" (sem fonte); brinde, cupom de boas-vindas, cupom em reais, cashback, grupo VIP e app (regra do pacote); os dois kits que não acumulam, que ficam no LG1 com um ponteiro no bullet da promoção.
+
+## Revisão (Job 3, 13/11/2026, Fable 5.2, e checagem de fatos)
+
+Aprovado com 4 correções obrigatórias de frase, todas aplicadas:
+
+- "O que o primeiro pedido exige" abre com a conclusão ("O primeiro pedido não pede nada diferente dos outros: o CECILIA é o mesmo código para cliente novo e antigo"), sem atribuir às políticas da loja algo que elas não dizem;
+- "Para saber como a loja trata trocas e entregas, veja…" no lugar da vírgula entre sujeito e verbo;
+- "Releia o preço no dia da compra" no lugar do infinitivo solto;
+- o parágrafo da Crocante virou "Num pote só a conta é a mesma: os 10% saem do preço que a página mostra no dia".
+
+Sugestões aplicadas: o bullet da promoção aponta os dois kits que a loja deixa fora da soma (no como usar); no FAQ, "Na maior parte do site, sim", com a ressalva dos kits; o segundo parágrafo da segunda compra sem a quarta menção de "conta depois do cupom"; o primeiro passo de "Onde colar o código" sem "no resumo da compra" repetido; a imagem da Crocante como "imagem de divulgação" e "Imagem: La Ganexa.".
+
+Não aplicado da checagem de fatos: a resposta rápida e o subtítulo com a exceção dos kits (o briefing deixa os kits no LG1, e "o desconto entra sobre produtos já em promoção" não diz que vale em tudo); "vale no Pix e no cartão" segue pela regra do pacote (vale em toda forma de pagamento), sem teste de cada uma; o parcelamento de 4 a 12 vezes com juros, que não muda a decisão.
+
+C1: 0 "R$" na resposta rápida (46 palavras, 3 frases). C2: 1 data no corpo ("13 de novembro de 2026", no capítulo da conta) e nenhuma em título, legenda ou FAQ. Snippet: 149 caracteres, código até o caractere 44. Subtítulo: 156.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 13/11/2026)
+
+- **Capa:** `/images/reviews/laganexa/cupom-la-ganexa-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral verde com o logo, "Cupom de 10% / primeira compra" e o CECILIA. Imagem da loja do pote de Pistache de 450 g (opção B; a A era o Doce de Leite Zero com panquecas). O Bruno pediu para tirar o subtítulo "vale nas seguintes".
+- **Quanto o cupom tira:** a imagem da loja do pote de 450 g da pasta Crocante (`cupom-la-ganexa-primeira-compra-crocante.webp`, 1000 × 1000, com `href` para a página do produto).
+- **Onde colar o código:** o print do resumo com o cupom, o mesmo arquivo do LG1, como o briefing pede.
+- **Imagens da loja geradas por IA:** o Bruno liberou em 13/11/2026 ("Se a imagem de IA é da própria empresa, não podemos fazer nada. Pode usar."). As legendas dizem "Imagem: La Ganexa." e os alts, "imagem publicada pela loja", porque os arquivos são renders da loja, não fotos.
+- **CDN:** as duas imagens subiram em 13/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
+

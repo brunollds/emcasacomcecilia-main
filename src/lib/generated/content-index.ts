@@ -219108,6 +219108,9 @@ export const reviewsData: unknown[] = [
         "slug": "black-friday-la-ganexa"
       },
       {
+        "slug": "cupom-la-ganexa-primeira-compra"
+      },
+      {
         "slug": "la-ganexa-e-confiavel"
       },
       {
@@ -219200,6 +219203,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Vale para quem já comprou?",
+        "paragraphs": [
+          "Vale. O CECILIA é o mesmo código no primeiro pedido e nos seguintes, e os 10% saem da mesma forma na segunda compra.",
+          "O que pesa no primeiro pedido, do frete ao pagamento, está em [cupom La Ganexa na primeira compra](/reviews/cupom-la-ganexa-primeira-compra)."
+        ]
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da La Ganexa? CECILIA, o código da Cecília: 10% OFF no site oficial, para cliente novo e antigo.",
@@ -219260,6 +219270,9 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "cupom-la-ganexa-como-usar"
+      },
+      {
+        "slug": "cupom-la-ganexa-primeira-compra"
       },
       {
         "slug": "la-ganexa-e-confiavel"
@@ -219447,6 +219460,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "black-friday-la-ganexa"
+      },
+      {
+        "slug": "la-ganexa-e-boa"
       }
     ],
     "contentSections": [
@@ -219677,6 +219693,9 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com dados públicos da empresa e as políticas da loja. Não usamos os produtos. Podemos receber comissão pelo cupom.",
     "relatedArticles": [
       {
+        "slug": "la-ganexa-e-boa"
+      },
+      {
         "slug": "la-ganexa-reclame-aqui-nota-reputacao"
       },
       {
@@ -219761,7 +219780,7 @@ export const reviewsData: unknown[] = [
         "heading": "Os produtos e a saúde",
         "paragraphs": [
           "Quem tem diabetes ou alguma restrição alimentar decide com o médico ou o nutricionista, que é o que a própria loja recomenda.",
-          "No FAQ, a loja diz que os produtos são feitos sem glúten e que diabéticos podem consumir. A tabela nutricional de cada produto está na página dele."
+          "No FAQ, a loja diz que os produtos são feitos sem glúten e que diabéticos podem consumir. A tabela nutricional de cada produto está na página dele. O que cada pote declara, sabor por sabor, está em [La Ganexa é boa?](/reviews/la-ganexa-e-boa)."
         ]
       },
       {
@@ -219779,6 +219798,443 @@ export const reviewsData: unknown[] = [
           "Qual é o site oficial da La Ganexa? É o lojalaganexa.com.br. O CNPJ do rodapé é o mesmo do perfil da empresa no Reclame Aqui.",
           "Dá para comprar na fábrica da La Ganexa? Sim. A loja diz que a fábrica também é ponto de venda, de segunda a sexta, das 8h às 18h. Confirme o horário pelo WhatsApp antes de ir.",
           "A La Ganexa troca produto aberto? Por arrependimento, não: a regra pede produto sem uso e na embalagem original, em até 7 dias depois do recebimento. Avaria é outro caso, com aviso em até 48 horas."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 941,
+    "slug": "cupom-la-ganexa-primeira-compra",
+    "locale": "pt",
+    "title": "Cupom La Ganexa primeira compra: CECILIA dá 10% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom La Ganexa primeira compra: 10% OFF com CECILIA",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O CECILIA dá 10% na La Ganexa no primeiro pedido e nos seguintes, inclusive em promoção. Veja o que o pedido exige e como fica o frete grátis da sua região.",
+    "metaDescription": "Na primeira compra na La Ganexa, use CECILIA: 10% OFF, inclusive em promoção. Vale também para quem já comprou; o frete grátis conta depois do cupom.",
+    "publishedAt": "13 de novembro de 2026",
+    "publishedAtISO": "2026-11-13",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/laganexa/cupom-la-ganexa-primeira-compra-capa.webp",
+    "imageAlt": "Logo da La Ganexa, a chamada Cupom de 10% na primeira compra e o código CECILIA, ao lado do pote de 450 g da pasta de amendoim sabor Pistache",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Abra o site oficial da La Ganexa pelo botão e digite CECILIA em “Inserir cupom de desconto”, no resumo da compra. Confira a linha “Descontos” antes de pagar.",
+      "label": "Ir para a La Ganexa",
+      "url": "https://lojalaganexa.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIA",
+    "affiliate": "la-ganexa",
+    "editorialNote": "Cupom testado no checkout da La Ganexa. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-la-ganexa-como-usar"
+      },
+      {
+        "slug": "la-ganexa-e-confiavel"
+      },
+      {
+        "slug": "la-ganexa-reclame-aqui-nota-reputacao"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na La Ganexa, use CECILIA: 10% OFF no site oficial, e o desconto entra sobre produtos já em promoção. O mínimo do frete grátis conta depois do cupom. O mesmo código vale para quem já comprou, seja no Pix ou no cartão."
+        ]
+      },
+      {
+        "heading": "Cupom La Ganexa primeira compra: qual usar",
+        "paragraphs": [
+          "Use o CECILIA. Ele dá 10% OFF no site oficial da La Ganexa, e o mesmo código serve para o primeiro pedido e para os seguintes.",
+          "Código achado em site de cupom pode não funcionar. O CECILIA foi testado por nós no checkout, e as condições dele estão na página do [cupom La Ganexa](/cupons/la-ganexa)."
+        ]
+      },
+      {
+        "heading": "O que o primeiro pedido exige",
+        "paragraphs": [
+          "O primeiro pedido não pede nada diferente dos outros: o CECILIA é o mesmo código para cliente novo e antigo. O que muda a conta é o pagamento, a promoção e o frete."
+        ],
+        "bullets": [
+          "**Pagamento.** Vale no Pix e no cartão. A loja não dá desconto extra no Pix, e no cartão parcela em até 3 vezes sem juros.",
+          "**Promoção.** Soma. O desconto entra sobre o preço promocional do site, como aconteceu no nosso teste. Os dois kits que a loja deixa fora da soma estão no como usar, linkado no fim.",
+          "**Frete grátis.** Acima de R$ 250 no Sul e no Sudeste, e acima de R$ 350 nas demais regiões. O mínimo conta depois do cupom: um carrinho de R$ 270 no Sudeste cai para R$ 243 e perde o frete grátis."
+        ],
+        "postParagraphs": [
+          "Perto do mínimo da sua região, informe o CEP e veja o frete antes de pagar. Para saber como a loja trata trocas e entregas, veja [La Ganexa é confiável?](/reviews/la-ganexa-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Quanto o cupom tira",
+        "paragraphs": [
+          "O CECILIA tira 10% do valor dos produtos. No teste de 13 de novembro de 2026, num carrinho de quatro itens em promoção, o total caiu de R$ 264,40 para R$ 237,96.",
+          "Conta nossa: 10% de R$ 264,40 são R$ 26,44, a mesma linha de desconto que aparece no resumo. Releia o preço no dia da compra: a promoção pode mudar, e o valor que vale é o do resumo.",
+          "Num pote só a conta é a mesma: os 10% saem do preço que a página mostra no dia, como o da pasta Crocante de 450 g."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/laganexa/cupom-la-ganexa-primeira-compra-crocante.webp",
+            "alt": "Pote de 450 g da pasta de amendoim Crocante da La Ganexa, com selo vegano, sobre fundo escuro, em imagem de divulgação da loja",
+            "caption": "Pote de 450 g da pasta sabor Crocante. Imagem: La Ganexa.",
+            "objectFit": "square",
+            "href": "https://lojalaganexa.com.br/products/crocante"
+          }
+        ]
+      },
+      {
+        "heading": "Na segunda compra, o cupom segue valendo",
+        "paragraphs": [
+          "O CECILIA não some depois do primeiro pedido. Quem já comprou aplica o mesmo código no pedido seguinte e tem os mesmos 10%.",
+          "A conta é a mesma, e a regra do frete grátis também não muda."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "Não acha onde digitar? Fica no resumo da compra, antes do pagamento."
+        ],
+        "bullets": [
+          "Toque em “Inserir cupom de desconto”.",
+          "Digite CECILIA no campo “Cupom (opcional)” e toque em “Adicionar”.",
+          "Confira o aviso “Cupom adicionado.” e a linha “Descontos” antes de pagar."
+        ],
+        "postParagraphs": [
+          "Se o código não entrar, o passo a passo com o que conferir está em [como usar o cupom La Ganexa](/reviews/cupom-la-ganexa-como-usar)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/laganexa/cupom-laganexa-checkout-com-cupom.webp",
+            "alt": "Resumo da compra no checkout da La Ganexa com CECILIA no campo Cupom (opcional), a linha Descontos de menos R$ 26,44 e o total de R$ 237,96",
+            "caption": "O CECILIA aplicado no resumo da compra da La Ganexa, no nosso teste: a linha “Descontos” mostra quanto saiu do total.",
+            "objectFit": "contain",
+            "aspectRatio": 1.4726
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom La Ganexa de primeira compra? Tem: o CECILIA dá 10% OFF no site oficial e vale no primeiro pedido e nos seguintes.",
+          "Qual cupom La Ganexa vale para quem já é cliente? O mesmo CECILIA, para cliente novo e antigo.",
+          "O cupom soma com produto em promoção? Na maior parte do site, sim: no nosso teste, o desconto entrou sobre o preço promocional. A loja deixa dois kits fora da soma com cupom.",
+          "O primeiro pedido tem frete grátis? Depende da região: acima de R$ 250 no Sul e no Sudeste e acima de R$ 350 nas demais. O mínimo conta depois do cupom."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 942,
+    "slug": "la-ganexa-e-boa",
+    "locale": "pt",
+    "title": "La Ganexa é boa? As pastas e o doce de leite pelo rótulo e pelo preço com cupom",
+    "seoTitle": "La Ganexa é boa? Os produtos pelo rótulo e pelo preço",
+    "type": "Guia de Marca",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "As pastas e o doce de leite da La Ganexa pelo rótulo: proteína, açúcares, adoçantes e o preço por 100 g com o cupom. Sem degustação, só o que a marca declara.",
+    "metaDescription": "CECILIA dá 10% OFF na La Ganexa. Veja o que cada rótulo declara, das pastas só de amendoim aos doces sem adição de açúcar, e o preço por 100 g.",
+    "publishedAt": "13 de novembro de 2026",
+    "publishedAtISO": "2026-11-13",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/laganexa/la-ganexa-e-boa-capa.webp",
+    "imageAlt": "Logo da La Ganexa e a pergunta La Ganexa é boa?, ao lado dos seis potes de 150 g do kit de degustação de pastas de amendoim",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Leve a Natural ou a Crocante se quer pasta só de amendoim, com a lista sem adoçante.",
+        "Leve uma pasta de sobremesa se quer sabor doce sem adição de açúcar e aceita maltitol ou sucralose na lista.",
+        "Leve o kit de degustação se ainda não sabe o sabor."
+      ],
+      "skipIf": [
+        "Passe se evita maltitol ou sucralose e queria um sabor doce.",
+        "Passe se precisa de dieta orientada: nesse caso, o nutricionista vem antes da compra.",
+        "Passe se pensa em provar um pote grande e devolver se não gostar, porque a troca pede produto sem uso."
+      ]
+    },
+    "cta": {
+      "text": "Se a La Ganexa faz sentido para a sua compra, abra o site oficial pelo botão e digite CECILIA em “Inserir cupom de desconto”, no resumo da compra.",
+      "label": "Ir para a La Ganexa",
+      "url": "https://lojalaganexa.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIA",
+    "affiliate": "la-ganexa",
+    "editorialNote": "Feito com os rótulos e as páginas dos produtos, o Reclame Aqui e as políticas da loja, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "la-ganexa-e-confiavel"
+      },
+      {
+        "slug": "la-ganexa-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "cupom-la-ganexa-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A La Ganexa é uma marca brasileira de pastas de amendoim e doces sem adição de açúcar, segundo a marca, com reputação Ótima no Reclame Aqui. A Natural e a Crocante não têm adoçante na lista; as pastas de sobremesa levam maltitol ou sucralose. O que muda a escolha é o adoçante: a tabela das pastas mostra sabor por sabor."
+        ]
+      },
+      {
+        "heading": "O que a La Ganexa vende",
+        "paragraphs": [
+          "A La Ganexa fabrica em Peruíbe (SP) e vende pastas de amendoim, doce de leite, cookies e snacks. O grupo da pasta já diz boa parte do que o rótulo traz: a só de amendoim tem lista curta, e a de sobremesa tem adoçante.",
+          "A tabela traz o que a marca declara e o preço de um produto de cada grupo."
+        ],
+        "comparisonTable": {
+          "caption": "Preço lido em 13 de novembro de 2026, com o Esquenta Black Friday no site. O preço com o cupom é o do dia menos 10%, e a campanha pode mudar. Fora da conta: suspiro, panqueca, alfajor e brigadeiro de colher.",
+          "headers": [
+            "Tipo",
+            "O que o rótulo declara",
+            "Produto de exemplo",
+            "Preço por 100 g com o cupom"
+          ],
+          "rows": [
+            [
+              "Pasta só de amendoim",
+              "Amendoim torrado na lista, sem adoçante; a página diz zero açúcar, zero lactose e zero glúten",
+              "[Pasta Natural, 1 kg](https://lojalaganexa.com.br/products/natural)",
+              "R$ 5,40"
+            ],
+            [
+              "Pasta de sobremesa",
+              "Lista com maltitol ou sucralose; a tabela mostra zero de açúcar adicionado",
+              "[Leitinho, 1 kg](https://lojalaganexa.com.br/products/pasta-de-leitinho-com-whey-protein-1kg)",
+              "R$ 8,99"
+            ],
+            [
+              "Doce de leite",
+              "Leite integral, com sorbitol, eritritol e sucralose; a página diz zero lactose, pela enzima lactase",
+              "[Doce de Leite Zero, 400 g](https://lojalaganexa.com.br/products/doce-de-leite-zero-400g)",
+              "R$ 15,75"
+            ],
+            [
+              "Cookies",
+              "A página diz zero açúcar, sem lactose e sem glúten; o kit traz os dois sabores, 100 g no total",
+              "[Kit Degustação Cookies de Cacau e de Baunilha](https://lojalaganexa.com.br/products/kit-degustacao-biscoito-de-cacau-e-de-baunilha)",
+              "R$ 32,65"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "As pastas de amendoim, sabor por sabor",
+        "paragraphs": [
+          "A Natural e a Crocante têm a lista mais curta entre as pastas com lista publicada e estão no topo em proteína, com a Avelã Vegana empatada com elas.",
+          "Na página, as duas são vendidas como veganas e sem lactose, e a marca diz zero açúcar. A tabela de cada pote confirma o zero de açúcar adicionado, e a linha de açúcares totais fica ao lado."
+        ],
+        "comparisonTable": {
+          "caption": "Por 100 g, pela tabela publicada na página ou no kit de cada sabor. A loja publica a mesma tabela para a Natural e a Crocante. “A tabela não informa” quer dizer que ela não traz a linha de polióis. Fora da tabela: a Mousse de Brigadeiro, sem tabela na página, e a Cookies, com números diferentes no pote de 450 g e no de 1 kg.",
+          "headers": [
+            "Pasta",
+            "Proteína",
+            "Açúcares totais",
+            "Polióis",
+            "Sódio"
+          ],
+          "rows": [
+            [
+              "Natural e Crocante (mesma tabela)",
+              "24 g",
+              "5 g",
+              "a tabela não informa",
+              "6 mg"
+            ],
+            [
+              "Avelã Vegana",
+              "24 g",
+              "4,8 g",
+              "a tabela não informa",
+              "5,9 mg"
+            ],
+            [
+              "Doce de Leite com Castanha de Caju",
+              "23 g",
+              "8 g",
+              "a tabela não informa",
+              "80 mg"
+            ],
+            [
+              "Chocolate Branco",
+              "22 g",
+              "8,4 g",
+              "2,9 g",
+              "88 mg"
+            ],
+            [
+              "Chocrante",
+              "22 g",
+              "6 g",
+              "7,1 g",
+              "96 mg"
+            ],
+            [
+              "Leitinho, 1 kg",
+              "21 g",
+              "14 g",
+              "7 g",
+              "195 mg"
+            ],
+            [
+              "Leitinho Black, 1 kg",
+              "21 g",
+              "13 g",
+              "8,4 g",
+              "139 mg"
+            ],
+            [
+              "Pistache",
+              "19 g",
+              "7 g",
+              "a tabela não informa",
+              "122 mg"
+            ],
+            [
+              "Creme de Avelã, 1 kg",
+              "18 g",
+              "5,3 g",
+              "a tabela não informa",
+              "194 mg"
+            ],
+            [
+              "Caramelo e Flor de Sal",
+              "16 g",
+              "7,1 g",
+              "a tabela não informa",
+              "324 mg"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/laganexa/la-ganexa-e-boa-chocolate-branco.webp",
+            "alt": "Pote de 450 g da pasta de amendoim crocante sabor Chocolate Branco da La Ganexa, com o selo sem adição de açúcares, em imagem publicada pela loja",
+            "caption": "Pasta sabor Chocolate Branco, pote de 450 g. Imagem: La Ganexa.",
+            "objectFit": "square",
+            "href": "https://lojalaganexa.com.br/products/chocolate-branco-crocante"
+          },
+          {
+            "src": "/images/reviews/laganexa/la-ganexa-e-boa-tabela-natural.webp",
+            "alt": "Tabela nutricional da Pasta sabor Natural da La Ganexa, com valores por 100 g e por porção de 20 g",
+            "caption": "Tabela nutricional da Pasta Natural, na página de 1 kg; a loja publica a mesma para a Crocante. Tabela: La Ganexa.",
+            "objectFit": "contain",
+            "aspectRatio": 1.1312
+          }
+        ]
+      },
+      {
+        "heading": "Maltitol e sucralose nas pastas de sobremesa",
+        "paragraphs": [
+          "Nas pastas de sobremesa, o adoçante é a regra: todas as que mostram a lista de ingredientes trazem maltitol ou sucralose. Quando a tabela tem a linha de polióis, ela aparece ali, separada dos açúcares; é a lista de ingredientes que diz qual adoçante o pote leva.",
+          "A Leitinho é a pasta que a própria loja chama de a mais famosa. Ela declara whey protein e leite em pó na lista e traz o aviso de contém lactose; a tabela do pote de 1 kg mostra os polióis.",
+          "As páginas da Leitinho e da Leitinho Black avisam que o chocolate pode derreter no transporte, e a loja não trata isso como defeito. Se a aparência do chocolate importa para você, pese isso antes de pedir.",
+          "A Avelã Vegana, a Chocrante e a Chocolate Branco declaram “aromatizante sintético idêntico ao natural” na lista. A Chocrante também leva whey protein."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/laganexa/la-ganexa-e-boa-com-avela.webp",
+            "alt": "Pote de 450 g da Pasta de Amendoim com Avelã da La Ganexa, com selo vegano, em imagem publicada pela loja",
+            "caption": "Pasta Avelã Vegana, pote de 450 g. Imagem: La Ganexa.",
+            "objectFit": "square",
+            "href": "https://lojalaganexa.com.br/products/com-avela"
+          },
+          {
+            "src": "/images/reviews/laganexa/la-ganexa-e-boa-chocrante.webp",
+            "alt": "Pote de 450 g da pasta de amendoim sabor Chocolate Crocante da La Ganexa, com selo de whey protein, em imagem publicada pela loja",
+            "caption": "Pasta Chocrante, pote de 450 g. Imagem: La Ganexa.",
+            "objectFit": "square",
+            "href": "https://lojalaganexa.com.br/products/chocrante"
+          },
+          {
+            "src": "/images/reviews/laganexa/la-ganexa-e-boa-leitinho-black.webp",
+            "alt": "Pote de 450 g da pasta de amendoim Leitinho Black da La Ganexa, com selo de whey protein, em imagem publicada pela loja",
+            "caption": "Pasta Leitinho Black, pote de 450 g. Imagem: La Ganexa.",
+            "objectFit": "square",
+            "href": "https://lojalaganexa.com.br/products/leitinho-black-com-whey-protein"
+          }
+        ]
+      },
+      {
+        "heading": "O doce de leite zero e os outros doces",
+        "paragraphs": [
+          "No Doce de Leite Zero, o que pede atenção são os polióis: a página fala em 28 g por 100 g, ao lado de 11 g de açúcares que ela diz serem do próprio leite.",
+          "A lista traz leite integral, sorbitol, eritritol e sucralose. A página diz zero lactose, pela enzima lactase, mas também diz que o produto não é vegano, porque leva leite integral.",
+          "A loja informa: a validade é de um ano e, depois de aberto, o pote fica na geladeira, entre 4 °C e 7 °C, por até 7 dias. A própria página manda conferir a tabela e conversar com o médico ou o nutricionista antes de incluir o doce na rotina.",
+          "Suspiro, panqueca, alfajor e brigadeiro de colher têm kit de degustação no site; antes de levar, abra a tabela na página de cada um."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/laganexa/la-ganexa-e-boa-doce-de-leite-zero.webp",
+            "alt": "Pote de vidro de 400 g do Doce de Leite Zero da La Ganexa, com rótulo de manchas de vaca e a faixa zero adição de açúcares, sem amido e zero lactose, em imagem publicada pela loja",
+            "caption": "Doce de Leite Zero, pote de 400 g. Imagem: La Ganexa.",
+            "objectFit": "square",
+            "href": "https://lojalaganexa.com.br/products/doce-de-leite-zero-400g"
+          }
+        ]
+      },
+      {
+        "heading": "La Ganexa é saudável?",
+        "paragraphs": [
+          "Nenhum rótulo diz sozinho se um produto é saudável para a sua rotina, e nas pastas da La Ganexa o que dá para ler é a tabela de cada pote e a lista de ingredientes.",
+          "No FAQ, a loja diz que os produtos são feitos sem glúten e que diabéticos podem consumir, sempre consultando o médico ou o nutricionista. Na página do Doce de Leite Zero ela é mais cautelosa e pede essa conversa antes de incluir o produto na rotina. Na dúvida, o médico ou o nutricionista.",
+          "Para dieta, a conta é a do rótulo. As pastas da tabela ficam entre 543 e 597 kcal por 100 g, o que dá de 109 a 119 kcal na porção de 20 g. O Doce de Leite Zero tem 204 kcal por 100 g, e a página dele avisa: “Este não é um alimento baixo ou reduzido em valor energético”.",
+          "Zero açúcar, no rótulo, é zero de açúcar adicionado. A tabela ainda traz carboidratos, açúcares totais e, em alguns sabores, polióis."
+        ]
+      },
+      {
+        "heading": "O que os clientes dizem",
+        "paragraphs": [
+          "A reputação no Reclame Aqui é Ótima, com nota 9,2 e 93,5% das reclamações resolvidas nos últimos seis meses.",
+          "No histórico do perfil, o problema mais citado é o atraso na entrega. Também aparecem embalagem que chega aberta e pedido marcado como entregue sem ter chegado.",
+          "Os números de cada aba e o padrão das queixas estão no [artigo do Reclame Aqui](/reviews/la-ganexa-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Para quem vale e quanto sai com o cupom",
+        "paragraphs": [
+          "Depende do que você procura. Para pasta só de amendoim, a Natural e a Crocante entregam a lista curta e o menor preço por 100 g da tabela. Para sabor doce, vale se maltitol ou sucralose não incomodam. Não vale para quem quer abrir, provar e devolver: a troca pede produto sem uso.",
+          "Conta nossa, pelo preço do site com o cupom: o kit de degustação de seis pastas de 150 g sai por R$ 125,99, cerca de R$ 14,00 por 100 g. É mais caro por grama que o pote de 1 kg; o que ele compra é a chance de provar seis sabores antes de escolher.",
+          "A troca pede produto sem uso e sem indícios de uso, na embalagem original, em até 7 dias corridos depois do recebimento; a regra inteira está em [La Ganexa é confiável?](/reviews/la-ganexa-e-confiavel).",
+          "O frete grátis começa acima de R$ 250 no Sul e no Sudeste e acima de R$ 350 nas outras regiões, e o mínimo conta depois do cupom. O exemplo está em [como usar o cupom La Ganexa](/reviews/cupom-la-ganexa-como-usar).",
+          "Se decidir comprar, o CECILIA dá 10% OFF no site oficial, e as regras do código estão na página do [cupom La Ganexa](/cupons/la-ganexa)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A La Ganexa é boa? Depende do sabor. A pasta só de amendoim tem a lista mais curta, e as de sobremesa levam maltitol ou sucralose. O guia compara rótulo, preço e reputação.",
+          "A pasta de amendoim La Ganexa tem açúcar? A marca diz que não tem adição de açúcar, e a tabela mostra zero de açúcar adicionado. Os açúcares totais ficam ao lado, no capítulo das pastas.",
+          "La Ganexa engorda? Depende de quanto entra no seu dia. A tabela de cada pote traz as calorias por porção de 20 g, e nenhum rótulo promete emagrecer. Os números estão no capítulo “La Ganexa é saudável?”.",
+          "A La Ganexa tem glúten? A loja diz que os produtos são feitos sem glúten e sem risco de contaminação cruzada, nas palavras dela. Quem tem restrição confere a embalagem que chegar.",
+          "Qual pasta La Ganexa tem mais proteína? Natural, Crocante e Avelã Vegana empatam no topo da tabela do capítulo das pastas."
         ]
       }
     ]

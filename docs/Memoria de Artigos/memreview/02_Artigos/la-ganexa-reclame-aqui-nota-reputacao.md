@@ -170,3 +170,5 @@ C1: 0 "R$" na resposta rápida (54 palavras, 3 frases). C2: 2 datas no corpo, as
 - Título: "La Ganexa no Reclame Aqui: nota, reputação e o que mais gera reclamação". seoTitle: "La Ganexa no Reclame Aqui: nota, reputação e reclamações".
 - Pendente: revisão mensal de dezembro de 2026: reler as abas do perfil (6 e 12 meses, geral), o percentual do atraso e as reclamações recentes.
 - Pendente: a "descrição curta" do pote de 1 kg da Leitinho, citada pela loja no Reclame Aqui, não foi lida na página do produto.
+
+- No PR do LG4 e do LG5: o LG5 entrou nos relacionados.

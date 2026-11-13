@@ -96107,6 +96107,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/laganexa/cupom-la-ganexa-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/laganexa/cupom-la-ganexa-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 163592,
+      "sha256": "97c53117c2fce6af7a5e8bbc4fe657a39062adce95b4a8c0dfbe140aa0212ee9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-la-ganexa-primeira-compra-capa.webp",
+      "storage_filename": "cupom-la-ganexa-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-la-ganexa-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-la-ganexa-primeira-compra.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/laganexa/cupom-la-ganexa-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 219827,
+          "column": 15,
+          "literal": "/images/reviews/laganexa/cupom-la-ganexa-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/97c53117c2fce6af7a5e8bbc4fe657a39062adce95b4a8c0dfbe140aa0212ee9/cupom-la-ganexa-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/97c53117c2fce6af7a5e8bbc4fe657a39062adce95b4a8c0dfbe140aa0212ee9/cupom-la-ganexa-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T17:01:55.408Z",
+      "verification_etag_or_digest": "97c53117c2fce6af7a5e8bbc4fe657a39062adce95b4a8c0dfbe140aa0212ee9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/laganexa/cupom-la-ganexa-primeira-compra-crocante.webp",
+      "local_url": "/images/reviews/laganexa/cupom-la-ganexa-primeira-compra-crocante.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 179430,
+      "sha256": "b13f4564fba482f7a54ec5834c2e868577ace1269dcb9a33d4b0aa4eb2ca76e0",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-la-ganexa-primeira-compra-crocante.webp",
+      "storage_filename": "cupom-la-ganexa-primeira-compra-crocante.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-la-ganexa-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-la-ganexa-primeira-compra.json",
+          "line": 86,
+          "column": 19,
+          "literal": "/images/reviews/laganexa/cupom-la-ganexa-primeira-compra-crocante.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 219890,
+          "column": 21,
+          "literal": "/images/reviews/laganexa/cupom-la-ganexa-primeira-compra-crocante.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b13f4564fba482f7a54ec5834c2e868577ace1269dcb9a33d4b0aa4eb2ca76e0/cupom-la-ganexa-primeira-compra-crocante.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b13f4564fba482f7a54ec5834c2e868577ace1269dcb9a33d4b0aa4eb2ca76e0/cupom-la-ganexa-primeira-compra-crocante.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T17:01:55.408Z",
+      "verification_etag_or_digest": "b13f4564fba482f7a54ec5834c2e868577ace1269dcb9a33d4b0aa4eb2ca76e0",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/laganexa/cupom-laganexa-checkout-com-cupom.webp",
       "local_url": "/images/reviews/laganexa/cupom-laganexa-checkout-com-cupom.webp",
       "media_kind": "image",
@@ -96150,6 +96242,328 @@
       "uploaded_at": null,
       "verified_at": "2026-11-13T12:35:15.930Z",
       "verification_etag_or_digest": "f77fd18f4cfb16843b38bf80f9f16854ef051ca5e82997fafc19cc4e32064e36",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/laganexa/la-ganexa-e-boa-capa.webp",
+      "local_url": "/images/reviews/laganexa/la-ganexa-e-boa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 161448,
+      "sha256": "d6584ab1b76aa807bf713c775174e89522dbbfcb56af300918b0403e6d8c5040",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "la-ganexa-e-boa-capa.webp",
+      "storage_filename": "la-ganexa-e-boa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/la-ganexa-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/la-ganexa-e-boa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/laganexa/la-ganexa-e-boa-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 219961,
+          "column": 15,
+          "literal": "/images/reviews/laganexa/la-ganexa-e-boa-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d6584ab1b76aa807bf713c775174e89522dbbfcb56af300918b0403e6d8c5040/la-ganexa-e-boa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d6584ab1b76aa807bf713c775174e89522dbbfcb56af300918b0403e6d8c5040/la-ganexa-e-boa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T17:01:55.408Z",
+      "verification_etag_or_digest": "d6584ab1b76aa807bf713c775174e89522dbbfcb56af300918b0403e6d8c5040",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/laganexa/la-ganexa-e-boa-chocolate-branco.webp",
+      "local_url": "/images/reviews/laganexa/la-ganexa-e-boa-chocolate-branco.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 107430,
+      "sha256": "a9d1bc2d73218e960a2f095b059d6dfb34b2a72f4cc72b33861488d0dd1a8c2e",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "la-ganexa-e-boa-chocolate-branco.webp",
+      "storage_filename": "la-ganexa-e-boa-chocolate-branco.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/la-ganexa-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/la-ganexa-e-boa.json",
+          "line": 200,
+          "column": 19,
+          "literal": "/images/reviews/laganexa/la-ganexa-e-boa-chocolate-branco.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 220138,
+          "column": 21,
+          "literal": "/images/reviews/laganexa/la-ganexa-e-boa-chocolate-branco.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a9d1bc2d73218e960a2f095b059d6dfb34b2a72f4cc72b33861488d0dd1a8c2e/la-ganexa-e-boa-chocolate-branco.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a9d1bc2d73218e960a2f095b059d6dfb34b2a72f4cc72b33861488d0dd1a8c2e/la-ganexa-e-boa-chocolate-branco.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T17:01:55.408Z",
+      "verification_etag_or_digest": "a9d1bc2d73218e960a2f095b059d6dfb34b2a72f4cc72b33861488d0dd1a8c2e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/laganexa/la-ganexa-e-boa-chocrante.webp",
+      "local_url": "/images/reviews/laganexa/la-ganexa-e-boa-chocrante.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 127910,
+      "sha256": "47d91c2c37e2c1e56b54e1f66e22835fd229fef83a1d9111050a3751f675a4d8",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "la-ganexa-e-boa-chocrante.webp",
+      "storage_filename": "la-ganexa-e-boa-chocrante.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/la-ganexa-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/la-ganexa-e-boa.json",
+          "line": 232,
+          "column": 19,
+          "literal": "/images/reviews/laganexa/la-ganexa-e-boa-chocrante.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 220169,
+          "column": 21,
+          "literal": "/images/reviews/laganexa/la-ganexa-e-boa-chocrante.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/47d91c2c37e2c1e56b54e1f66e22835fd229fef83a1d9111050a3751f675a4d8/la-ganexa-e-boa-chocrante.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/47d91c2c37e2c1e56b54e1f66e22835fd229fef83a1d9111050a3751f675a4d8/la-ganexa-e-boa-chocrante.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T17:01:55.408Z",
+      "verification_etag_or_digest": "47d91c2c37e2c1e56b54e1f66e22835fd229fef83a1d9111050a3751f675a4d8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/laganexa/la-ganexa-e-boa-com-avela.webp",
+      "local_url": "/images/reviews/laganexa/la-ganexa-e-boa-com-avela.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 165466,
+      "sha256": "4e527a5100054f15d71b243106528cb88738c16a1a9b2138d219e9b756a71897",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "la-ganexa-e-boa-com-avela.webp",
+      "storage_filename": "la-ganexa-e-boa-com-avela.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/la-ganexa-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/la-ganexa-e-boa.json",
+          "line": 225,
+          "column": 19,
+          "literal": "/images/reviews/laganexa/la-ganexa-e-boa-com-avela.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 220162,
+          "column": 21,
+          "literal": "/images/reviews/laganexa/la-ganexa-e-boa-com-avela.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4e527a5100054f15d71b243106528cb88738c16a1a9b2138d219e9b756a71897/la-ganexa-e-boa-com-avela.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4e527a5100054f15d71b243106528cb88738c16a1a9b2138d219e9b756a71897/la-ganexa-e-boa-com-avela.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T17:01:55.408Z",
+      "verification_etag_or_digest": "4e527a5100054f15d71b243106528cb88738c16a1a9b2138d219e9b756a71897",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/laganexa/la-ganexa-e-boa-doce-de-leite-zero.webp",
+      "local_url": "/images/reviews/laganexa/la-ganexa-e-boa-doce-de-leite-zero.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 79510,
+      "sha256": "1104aaadf440fd2605e47160932a54476030340e8db37a1c7927a55c374a9e63",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "la-ganexa-e-boa-doce-de-leite-zero.webp",
+      "storage_filename": "la-ganexa-e-boa-doce-de-leite-zero.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/la-ganexa-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/la-ganexa-e-boa.json",
+          "line": 257,
+          "column": 19,
+          "literal": "/images/reviews/laganexa/la-ganexa-e-boa-doce-de-leite-zero.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 220194,
+          "column": 21,
+          "literal": "/images/reviews/laganexa/la-ganexa-e-boa-doce-de-leite-zero.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1104aaadf440fd2605e47160932a54476030340e8db37a1c7927a55c374a9e63/la-ganexa-e-boa-doce-de-leite-zero.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1104aaadf440fd2605e47160932a54476030340e8db37a1c7927a55c374a9e63/la-ganexa-e-boa-doce-de-leite-zero.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T17:01:55.408Z",
+      "verification_etag_or_digest": "1104aaadf440fd2605e47160932a54476030340e8db37a1c7927a55c374a9e63",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/laganexa/la-ganexa-e-boa-leitinho-black.webp",
+      "local_url": "/images/reviews/laganexa/la-ganexa-e-boa-leitinho-black.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 179118,
+      "sha256": "41fa116a5b5057515f80dd1921f7be71a4e36bcb761ff8a991e608141e3af9d5",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "la-ganexa-e-boa-leitinho-black.webp",
+      "storage_filename": "la-ganexa-e-boa-leitinho-black.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/la-ganexa-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/la-ganexa-e-boa.json",
+          "line": 239,
+          "column": 19,
+          "literal": "/images/reviews/laganexa/la-ganexa-e-boa-leitinho-black.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 220176,
+          "column": 21,
+          "literal": "/images/reviews/laganexa/la-ganexa-e-boa-leitinho-black.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/41fa116a5b5057515f80dd1921f7be71a4e36bcb761ff8a991e608141e3af9d5/la-ganexa-e-boa-leitinho-black.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/41fa116a5b5057515f80dd1921f7be71a4e36bcb761ff8a991e608141e3af9d5/la-ganexa-e-boa-leitinho-black.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T17:01:55.408Z",
+      "verification_etag_or_digest": "41fa116a5b5057515f80dd1921f7be71a4e36bcb761ff8a991e608141e3af9d5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/laganexa/la-ganexa-e-boa-tabela-natural.webp",
+      "local_url": "/images/reviews/laganexa/la-ganexa-e-boa-tabela-natural.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43510,
+      "sha256": "0943e6e12a2e9b0a3f551b44af6b747c88c276b109269f4ab642e31efec735a5",
+      "width": 500,
+      "height": 442,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "la-ganexa-e-boa-tabela-natural.webp",
+      "storage_filename": "la-ganexa-e-boa-tabela-natural.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/la-ganexa-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/la-ganexa-e-boa.json",
+          "line": 207,
+          "column": 19,
+          "literal": "/images/reviews/laganexa/la-ganexa-e-boa-tabela-natural.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 220145,
+          "column": 21,
+          "literal": "/images/reviews/laganexa/la-ganexa-e-boa-tabela-natural.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0943e6e12a2e9b0a3f551b44af6b747c88c276b109269f4ab642e31efec735a5/la-ganexa-e-boa-tabela-natural.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0943e6e12a2e9b0a3f551b44af6b747c88c276b109269f4ab642e31efec735a5/la-ganexa-e-boa-tabela-natural.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T17:01:55.408Z",
+      "verification_etag_or_digest": "0943e6e12a2e9b0a3f551b44af6b747c88c276b109269f4ab642e31efec735a5",
       "verification_status": "verified"
     },
     {
