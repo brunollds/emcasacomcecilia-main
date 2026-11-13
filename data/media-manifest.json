@@ -112664,6 +112664,406 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/prohall/cupom-prohall-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/prohall/cupom-prohall-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58104,
+      "sha256": "fec46c104582e5698722f924e0c64c3808c8177a38503b31ced4198b75a664fc",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-prohall-primeira-compra-capa.webp",
+      "storage_filename": "cupom-prohall-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-prohall-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-prohall-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-prohall-primeira-compra.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/cupom-prohall-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-prohall-primeira-compra.md",
+          "line": 169,
+          "column": 14,
+          "literal": "/images/reviews/prohall/cupom-prohall-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 218433,
+          "column": 15,
+          "literal": "/images/reviews/prohall/cupom-prohall-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fec46c104582e5698722f924e0c64c3808c8177a38503b31ced4198b75a664fc/cupom-prohall-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fec46c104582e5698722f924e0c64c3808c8177a38503b31ced4198b75a664fc/cupom-prohall-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T00:29:43.985Z",
+      "verification_etag_or_digest": "fec46c104582e5698722f924e0c64c3808c8177a38503b31ced4198b75a664fc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/prohall-e-boa-capa.webp",
+      "local_url": "/images/reviews/prohall/prohall-e-boa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 61624,
+      "sha256": "a6687c90b28a8bb7e5d22d25bc09c145600dd232bc77bcafe4536dbc32e29abb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "prohall-e-boa-capa.webp",
+      "storage_filename": "prohall-e-boa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/prohall-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/prohall-e-boa.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/prohall-e-boa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/prohall-e-boa-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/prohall-e-boa.md",
+          "line": 175,
+          "column": 14,
+          "literal": "/images/reviews/prohall/prohall-e-boa-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 218900,
+          "column": 15,
+          "literal": "/images/reviews/prohall/prohall-e-boa-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a6687c90b28a8bb7e5d22d25bc09c145600dd232bc77bcafe4536dbc32e29abb/prohall-e-boa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a6687c90b28a8bb7e5d22d25bc09c145600dd232bc77bcafe4536dbc32e29abb/prohall-e-boa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T00:29:43.986Z",
+      "verification_etag_or_digest": "a6687c90b28a8bb7e5d22d25bc09c145600dd232bc77bcafe4536dbc32e29abb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/prohall-e-boa-kit-absolut-one.webp",
+      "local_url": "/images/reviews/prohall/prohall-e-boa-kit-absolut-one.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 52644,
+      "sha256": "8810bc81e55503240e73088a24ac1591b12d24845d26f3901eea277755ae50a9",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "prohall-e-boa-kit-absolut-one.webp",
+      "storage_filename": "prohall-e-boa-kit-absolut-one.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/prohall-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/prohall-e-boa.json",
+          "line": 116,
+          "column": 19,
+          "literal": "/images/reviews/prohall/prohall-e-boa-kit-absolut-one.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 218993,
+          "column": 21,
+          "literal": "/images/reviews/prohall/prohall-e-boa-kit-absolut-one.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8810bc81e55503240e73088a24ac1591b12d24845d26f3901eea277755ae50a9/prohall-e-boa-kit-absolut-one.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8810bc81e55503240e73088a24ac1591b12d24845d26f3901eea277755ae50a9/prohall-e-boa-kit-absolut-one.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T00:29:43.986Z",
+      "verification_etag_or_digest": "8810bc81e55503240e73088a24ac1591b12d24845d26f3901eea277755ae50a9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/prohall-e-boa-select-one-1l.webp",
+      "local_url": "/images/reviews/prohall/prohall-e-boa-select-one-1l.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18868,
+      "sha256": "e861957f23a9cd6bd7f4a390b48d26a5889abf9ce973502f7577a027a32b8a16",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "prohall-e-boa-select-one-1l.webp",
+      "storage_filename": "prohall-e-boa-select-one-1l.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/prohall-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/prohall-e-boa.json",
+          "line": 133,
+          "column": 19,
+          "literal": "/images/reviews/prohall/prohall-e-boa-select-one-1l.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 219010,
+          "column": 21,
+          "literal": "/images/reviews/prohall/prohall-e-boa-select-one-1l.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e861957f23a9cd6bd7f4a390b48d26a5889abf9ce973502f7577a027a32b8a16/prohall-e-boa-select-one-1l.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e861957f23a9cd6bd7f4a390b48d26a5889abf9ce973502f7577a027a32b8a16/prohall-e-boa-select-one-1l.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T00:29:43.986Z",
+      "verification_etag_or_digest": "e861957f23a9cd6bd7f4a390b48d26a5889abf9ce973502f7577a027a32b8a16",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/prohall-e-confiavel-capa.webp",
+      "local_url": "/images/reviews/prohall/prohall-e-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36000,
+      "sha256": "a69cd389fb259e7a78dfdd3f491e0ae636bf63be5c70d692b5333e021123e2e8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "prohall-e-confiavel-capa.webp",
+      "storage_filename": "prohall-e-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/prohall-e-confiavel.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/prohall-e-confiavel.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/prohall-e-confiavel.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/prohall/prohall-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/prohall-e-confiavel.md",
+          "line": 159,
+          "column": 14,
+          "literal": "/images/reviews/prohall/prohall-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 218753,
+          "column": 15,
+          "literal": "/images/reviews/prohall/prohall-e-confiavel-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a69cd389fb259e7a78dfdd3f491e0ae636bf63be5c70d692b5333e021123e2e8/prohall-e-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a69cd389fb259e7a78dfdd3f491e0ae636bf63be5c70d692b5333e021123e2e8/prohall-e-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T00:29:43.986Z",
+      "verification_etag_or_digest": "a69cd389fb259e7a78dfdd3f491e0ae636bf63be5c70d692b5333e021123e2e8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/prohall-e-confiavel-cronograma-capilar-premium.webp",
+      "local_url": "/images/reviews/prohall/prohall-e-confiavel-cronograma-capilar-premium.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28730,
+      "sha256": "1f7a74f66cad06a902f34ee1deef6ae826976c261e689a6c6a37fc7f1db8fb5e",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "prohall-e-confiavel-cronograma-capilar-premium.webp",
+      "storage_filename": "prohall-e-confiavel-cronograma-capilar-premium.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/prohall-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/prohall-e-confiavel.json",
+          "line": 64,
+          "column": 19,
+          "literal": "/images/reviews/prohall/prohall-e-confiavel-cronograma-capilar-premium.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 218788,
+          "column": 21,
+          "literal": "/images/reviews/prohall/prohall-e-confiavel-cronograma-capilar-premium.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1f7a74f66cad06a902f34ee1deef6ae826976c261e689a6c6a37fc7f1db8fb5e/prohall-e-confiavel-cronograma-capilar-premium.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1f7a74f66cad06a902f34ee1deef6ae826976c261e689a6c6a37fc7f1db8fb5e/prohall-e-confiavel-cronograma-capilar-premium.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T00:29:43.986Z",
+      "verification_etag_or_digest": "1f7a74f66cad06a902f34ee1deef6ae826976c261e689a6c6a37fc7f1db8fb5e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/prohall-reclame-aqui-burix-one-1l.webp",
+      "local_url": "/images/reviews/prohall/prohall-reclame-aqui-burix-one-1l.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15650,
+      "sha256": "516a1923810cd2b88a8b39f6c52223b9a3d259157bfdd1f55b9403155e51a822",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "prohall-reclame-aqui-burix-one-1l.webp",
+      "storage_filename": "prohall-reclame-aqui-burix-one-1l.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/prohall-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/prohall-reclame-aqui-nota-reputacao.json",
+          "line": 138,
+          "column": 19,
+          "literal": "/images/reviews/prohall/prohall-reclame-aqui-burix-one-1l.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 218672,
+          "column": 21,
+          "literal": "/images/reviews/prohall/prohall-reclame-aqui-burix-one-1l.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/516a1923810cd2b88a8b39f6c52223b9a3d259157bfdd1f55b9403155e51a822/prohall-reclame-aqui-burix-one-1l.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/516a1923810cd2b88a8b39f6c52223b9a3d259157bfdd1f55b9403155e51a822/prohall-reclame-aqui-burix-one-1l.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T00:29:43.986Z",
+      "verification_etag_or_digest": "516a1923810cd2b88a8b39f6c52223b9a3d259157bfdd1f55b9403155e51a822",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/prohall-reclame-aqui-nota-reputacao-capa.webp",
+      "local_url": "/images/reviews/prohall/prohall-reclame-aqui-nota-reputacao-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36276,
+      "sha256": "ae03ddc66a11d6e19e48935909e576236f73b2ed40f76267c52fa2351b3ca3c3",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "prohall-reclame-aqui-nota-reputacao-capa.webp",
+      "storage_filename": "prohall-reclame-aqui-nota-reputacao-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/prohall-reclame-aqui-nota-reputacao.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/prohall-reclame-aqui-nota-reputacao.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/prohall-reclame-aqui-nota-reputacao.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/prohall/prohall-reclame-aqui-nota-reputacao-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/prohall-reclame-aqui-nota-reputacao.md",
+          "line": 154,
+          "column": 14,
+          "literal": "/images/reviews/prohall/prohall-reclame-aqui-nota-reputacao-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 218564,
+          "column": 15,
+          "literal": "/images/reviews/prohall/prohall-reclame-aqui-nota-reputacao-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ae03ddc66a11d6e19e48935909e576236f73b2ed40f76267c52fa2351b3ca3c3/prohall-reclame-aqui-nota-reputacao-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ae03ddc66a11d6e19e48935909e576236f73b2ed40f76267c52fa2351b3ca3c3/prohall-reclame-aqui-nota-reputacao-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T00:29:43.986Z",
+      "verification_etag_or_digest": "ae03ddc66a11d6e19e48935909e576236f73b2ed40f76267c52fa2351b3ca3c3",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/rabanada/conhecendo-mais-rabanada-capa-v2.webp",
       "local_url": "/images/reviews/rabanada/conhecendo-mais-rabanada-capa-v2.webp",
       "media_kind": "image",

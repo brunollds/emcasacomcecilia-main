@@ -7,9 +7,9 @@ parceiro_slug: "prohall"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador; redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PH4"
@@ -145,3 +145,27 @@ cupom (`/images/reviews/prohall/cupom-prohall-checkout-com-cupom.webp`).
 | Conta: R$ 380,70 para R$ 354,06 | `testNote` de 12/11 | verificado; reler o preço |
 | Sem valor mínimo; um cupom por pedido | nenhuma | não escrever |
 | Cashback, Clube e Moedas PH | [[prohall-fatos-1211]] | contexto interno; o artigo não cita |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- Checkout pelo link de carrinho com o código: 7% em seis produtos (ver a nota do PH1).
+- Pix no checkout com o código: total igual ao do cartão (R$ 213,81 no Burix One).
+- `/pages/formas-de-pagamento`: frete grátis por região e 10x sem juros com parcela mínima de R$ 20. Igual ao dossiê.
+- Search Console: sem dado (a página da loja entrou no ar em 12/11).
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-prohall-primeira-compra.json` (id 933), no molde da série. Resposta rápida com 46 palavras, a do briefing. A conta do teste aparece uma vez, com a data dele. Sem tabela e sem `decision`.
+
+## Revisão (Job 3, 12/11/2026)
+
+Passou. Nenhum benefício da própria loja: sem cupom da loja, cashback, Clube ou Moedas PH. Sem "exclusivo", "maior" ou "melhor"; sem "sem valor mínimo" e sem "um cupom por pedido". Sem campanha.
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data no corpo. Snippet com 137 caracteres, código até o caractere 48, "até 10%" na primeira frase.
+- Skill de copywriting aplicada: a primeira frase de cada capítulo responde; frases verificáveis, sem "não é X, é Y".
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/prohall/cupom-prohall-primeira-compra-capa.webp`, painel lateral com o logo, a chamada "Cupom Prohall primeira compra", "até 10% OFF" e o CECILIAMC. Foto oficial do Kit Force Hair.
+- **Onde colar o código:** o print do `cartPrint` da página de cupom, já no site. Sem foto nova no corpo.
+- Origem: fotos oficiais do CDN da loja (cdn.shopify.com), lidas em 12/11/2026; logo de `/images/about/partners/prohall.png`. Sem IA.

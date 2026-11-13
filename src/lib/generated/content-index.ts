@@ -218096,7 +218096,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cupom testado no checkout da Prohall. Não usamos os produtos. Podemos receber comissão pelo cupom.",
     "relatedArticles": [
       {
-        "slug": "black-friday-prohall"
+        "slug": "cupom-prohall-primeira-compra"
+      },
+      {
+        "slug": "prohall-e-confiavel"
+      },
+      {
+        "slug": "prohall-reclame-aqui-nota-reputacao"
       }
     ],
     "contentSections": [
@@ -218181,7 +218187,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale para quem já comprou?",
         "paragraphs": [
-          "Vale. O CECILIAMC serve para cliente novo e antigo e pode ser usado em mais de uma compra, segundo a parceria. Você usa a conta que já tem na loja."
+          "Vale. O CECILIAMC serve para cliente novo e antigo e pode ser usado em mais de uma compra, segundo a parceria. Você usa a conta que já tem na loja.",
+          "A resposta para o primeiro pedido está em [cupom Prohall primeira compra](/reviews/cupom-prohall-primeira-compra)."
         ]
       },
       {
@@ -218246,6 +218253,12 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "cupom-prohall-como-usar"
+      },
+      {
+        "slug": "cupom-prohall-primeira-compra"
+      },
+      {
+        "slug": "prohall-e-confiavel"
       }
     ],
     "contentSections": [
@@ -218381,7 +218394,7 @@ export const reviewsData: unknown[] = [
           "Na troca, a postagem fica por conta do cliente."
         ],
         "postParagraphs": [
-          "Confira o pacote na entrega e guarde o número do pedido."
+          "Confira o pacote na entrega e guarde o número do pedido. A regra completa está em [Prohall é confiável?](/reviews/prohall-e-confiavel)."
         ]
       },
       {
@@ -218391,6 +218404,646 @@ export const reviewsData: unknown[] = [
           "Quando acaba a Black Friday da Prohall? A loja diz que as ofertas são por tempo limitado e não publica data de fim.",
           "O cupom vale no app da Prohall? Sim. O CECILIAMC vale no site oficial e no app.",
           "Tem frete grátis na Black Friday da Prohall? Tem, a partir de um valor mínimo que muda por região e conta depois do cupom."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 933,
+    "slug": "cupom-prohall-primeira-compra",
+    "locale": "pt",
+    "title": "Cupom Prohall primeira compra: CECILIAMC dá até 10% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom Prohall primeira compra: até 10% OFF com CECILIAMC",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O CECILIAMC dá até 10% na Prohall no primeiro pedido e nos seguintes; nos nossos testes, 7%. Veja o que o pedido exige e como fica o frete da sua região.",
+    "metaDescription": "Para a primeira compra na Prohall, use CECILIAMC: até 10% OFF no site e no app; nos testes, 7%. O mesmo código vale para quem já comprou.",
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/prohall/cupom-prohall-primeira-compra-capa.webp",
+    "imageAlt": "Kit Force Hair da Prohall, com shampoo, máscara e tônico, em foto oficial da loja, ao lado da chamada Cupom Prohall primeira compra, até 10% OFF, e do código CECILIAMC.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Abra o site oficial da Prohall pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout. Confira a linha do desconto antes de pagar.",
+      "label": "Ir para a Prohall",
+      "url": "https://lojaprohall.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIAMC",
+    "affiliate": "prohall",
+    "editorialNote": "Cupom testado no checkout da Prohall. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-prohall-como-usar"
+      },
+      {
+        "slug": "prohall-e-confiavel"
+      },
+      {
+        "slug": "prohall-reclame-aqui-nota-reputacao"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na Prohall, use CECILIAMC: até 10% OFF no site oficial e no app. Nos nossos testes, o desconto foi de 7%, inclusive em produtos que já estavam em promoção. O mesmo código vale para quem já comprou, com qualquer forma de pagamento."
+        ]
+      },
+      {
+        "heading": "Cupom Prohall primeira compra: qual usar",
+        "paragraphs": [
+          "Use o CECILIAMC, o código da Cecília. Ele dá até 10% OFF no primeiro pedido, e o percentual varia por produto: nos carrinhos que testamos, foi de 7%.",
+          "Código achado em site de cupom pode não funcionar. O CECILIAMC foi testado por nós no checkout, e as condições dele ficam na página do [cupom Prohall](/cupons/prohall)."
+        ]
+      },
+      {
+        "heading": "O que o primeiro pedido exige",
+        "paragraphs": [
+          "Não é preciso cadastro especial nem link. O que vale no primeiro pedido:"
+        ],
+        "bullets": [
+          "**Site e app.** O código vale no site oficial e no app da Prohall.",
+          "**Pagamento.** Vale no cartão e no Pix. No checkout, o total com o Pix foi o mesmo, sem desconto a mais. No cartão, a loja parcela em até 10 vezes sem juros, com parcela mínima de R$ 20.",
+          "**Promoção.** Soma com as promoções do site: o desconto entra sobre o preço promocional.",
+          "**Frete grátis.** A partir de R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste. O mínimo conta depois do cupom."
+        ],
+        "postParagraphs": [
+          "Se o carrinho está perto do mínimo da sua região, aplique o código, informe o CEP e veja o frete antes de pagar."
+        ]
+      },
+      {
+        "heading": "Quanto fica",
+        "paragraphs": [
+          "No teste de 12 de novembro de 2026, um carrinho de quatro itens caiu de R$ 380,70 para R$ 354,06 com o CECILIAMC: R$ 26,64 a menos, ou 7%. Parte dos produtos já estava em promoção.",
+          "O valor do seu pedido aparece na linha “Cupom CECILIAMC” do resumo da compra, antes do pagamento."
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "O CECILIAMC vale de novo. Ele serve para quem já comprou e pode ser usado em mais de uma compra, segundo a parceria, com a mesma conta."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "No checkout do site oficial:"
+        ],
+        "bullets": [
+          "Toque em “Tem um cupom?”.",
+          "Digite CECILIAMC no campo “Código do cupom”.",
+          "Toque em “Aplicar” e confira a linha “Cupom CECILIAMC” no resumo."
+        ],
+        "postParagraphs": [
+          "O passo a passo completo, com o que fazer se o código não entrar, está em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/cupom-prohall-checkout-com-cupom.webp",
+            "alt": "Resumo da compra no checkout da Prohall com o aviso \"Cupom CECILIAMC aplicado\", a linha Cupom CECILIAMC de menos R$ 26,64 e o total de R$ 354,06",
+            "caption": "O CECILIAMC aplicado no checkout da Prohall, no nosso teste.",
+            "objectFit": "contain",
+            "aspectRatio": 0.473
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Prohall de primeira compra? Tem: o CECILIAMC dá até 10% OFF no primeiro pedido e vale também nos seguintes.",
+          "Qual cupom Prohall vale para quem já é cliente? O mesmo CECILIAMC. Ele serve para cliente novo e antigo.",
+          "O cupom Prohall vale no app? Sim. O CECILIAMC vale no site oficial e no app da Prohall.",
+          "O cupom soma com produto em promoção? Sim. No nosso teste, o desconto entrou sobre o preço promocional."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 934,
+    "slug": "prohall-reclame-aqui-nota-reputacao",
+    "locale": "pt",
+    "title": "Prohall no Reclame Aqui: nota, reputação e o que mais gera reclamação",
+    "seoTitle": "Prohall no Reclame Aqui: nota, reputação e reclamações",
+    "type": "Análise de Reputação",
+    "bodyDatesReason": "reclame-aqui",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIAMC",
+    "affiliate": "prohall",
+    "description": "A nota da Prohall no Reclame Aqui, o que os clientes mais reclamam e o que conferir antes de comprar, na entrega e na hora de trocar.",
+    "metaDescription": "CECILIAMC dá até 10% OFF na Prohall. Antes, veja a nota no Reclame Aqui, o que mais gera reclamação e o que conferir na entrega e na troca.",
+    "image": "/images/reviews/prohall/prohall-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Pote do Btx Blend Repair da Prohall, em foto oficial da loja, ao lado da chamada Prohall no Reclame Aqui: nota e reclamações.",
+    "cta": {
+      "text": "Se a Prohall faz sentido para a sua compra, abra o site oficial pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout.",
+      "label": "Ir para a Prohall",
+      "url": "https://lojaprohall.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com os dados públicos do Reclame Aqui e as políticas da loja. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "prohall-e-confiavel"
+      },
+      {
+        "slug": "cupom-prohall-como-usar"
+      },
+      {
+        "slug": "prohall-e-boa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Prohall tem reputação Boa no Reclame Aqui, com nota 7,2 em seis meses. A empresa respondeu todas as reclamações do período e resolveu cerca de três em cada quatro. O problema mais citado é atraso na entrega. O perfil certo se chama Prohall Professional e tem o mesmo CNPJ da loja."
+        ]
+      },
+      {
+        "heading": "A nota em números",
+        "paragraphs": [
+          "O perfil “Prohall Professional” tem o selo de empresa verificada e mostra os indicadores por período. Os dois recortes mais recentes ficam assim:"
+        ],
+        "comparisonTable": {
+          "caption": "Perfil “Prohall Professional” no Reclame Aqui. 6 meses: maio a outubro de 2026. 12 meses: novembro de 2025 a outubro de 2026. As janelas se sobrepõem.",
+          "headers": [
+            "Indicador",
+            "6 meses",
+            "12 meses"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Boa",
+              "Ótima"
+            ],
+            [
+              "Nota",
+              "7,2",
+              "8,1"
+            ],
+            [
+              "Reclamações recebidas",
+              "127",
+              "348"
+            ],
+            [
+              "Respondidas",
+              "100%",
+              "100%"
+            ],
+            [
+              "Resolvidas",
+              "73,7%",
+              "84,2%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "56,1%",
+              "67,9%"
+            ],
+            [
+              "Avaliadas",
+              "69",
+              "202"
+            ],
+            [
+              "Nota média do consumidor",
+              "6,33",
+              "7,37"
+            ],
+            [
+              "Tempo médio de resposta",
+              "1 dia e 19 horas",
+              "1 dia e 16 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "É por isso que a mesma empresa aparece no Google com notas diferentes: cada resultado guarda um período ou uma leitura de outra data. A nota de seis meses é 7,2; a de doze meses é 8,1.",
+          "No ranking do Reclame Aqui, o perfil está em 33º lugar em “Melhor empresa” na categoria Higiene Pessoal."
+        ]
+      },
+      {
+        "heading": "Como a nota mudou",
+        "paragraphs": [
+          "O histórico mensal do perfil mostra reputação Ótima em maio de 2026 e Boa de junho a outubro.",
+          "Os dois recortes contam a mesma história. Das 348 reclamações de doze meses, 127 são dos últimos seis: o volume caiu. O índice de solução, porém, é menor no recorte recente, de 73,7%, contra 84,2% em doze meses. O perfil não informa o motivo."
+        ]
+      },
+      {
+        "heading": "O que mais gera reclamação",
+        "paragraphs": [
+          "Atraso na entrega. Na aba geral, que reúne até três anos de registros, o Reclame Aqui aponta atraso como o problema mais citado (21,69%) e Cabelos como a categoria principal (20,48%). São classificações das reclamações publicadas, não percentuais de todos os pedidos.",
+          "As reclamações mais recentes seguem três linhas: pedido que não chegou ou voltou por erro de endereço, produto que não deu o resultado esperado e relatos de reação alérgica e de queda de cabelo. O Reclame Aqui publica o relato do consumidor e não aponta a causa; este artigo também não.",
+          "Parte do catálogo da Prohall é de uso profissional. O rótulo e a página de cada produto trazem o modo de uso e as precauções do fabricante."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/prohall-reclame-aqui-burix-one-1l.webp",
+            "alt": "Frasco marrom de 1 litro do Burix One da Prohall, com rótulo verde, em foto oficial da loja",
+            "caption": "Burix One 1 L, um dos produtos da marca para aplicação com calor. Foto: Prohall.",
+            "objectFit": "square",
+            "href": "https://lojaprohall.com.br/products/reestruturacao-molecular-tanino-organica-burix-one-1l"
+          }
+        ]
+      },
+      {
+        "heading": "Qual perfil é a Prohall",
+        "paragraphs": [
+          "A busca por “prohall” no Reclame Aqui traz dez empresas, a maioria de nome parecido e de outros ramos. O perfil da marca é o “Prohall Professional”, na categoria Cabelos e Produtos Capilares, com o site prohall.com.br.",
+          "Para conferir, compare o CNPJ: o perfil mostra 24.815.160/0001-57, o mesmo do rodapé de lojaprohall.com.br. O rodapé da loja também tem um link direto para esse perfil."
+        ]
+      },
+      {
+        "heading": "Como evitar dor de cabeça",
+        "paragraphs": [
+          "As regras da loja respondem às queixas mais comuns:"
+        ],
+        "bullets": [
+          "**Endereço e prazo.** Confira o CEP e o prazo no checkout. A loja informa que posta o pedido em até 24 horas úteis depois da confirmação do pagamento, e o prazo de entrega varia por localidade.",
+          "**Acompanhamento.** O aviso do pedido chega por e-mail (olhe a caixa de spam), e o status fica na conta do cliente no site.",
+          "**Caixa na entrega.** Se a embalagem chegar avariada, recuse. Se faltar item, recuse e registre com o entregador: a loja não aceita reclamação posterior de produto faltante.",
+          "**Lacre.** A troca vale por 30 dias corridos a partir do recebimento, mas só com o lacre intacto e sem sinais de uso. Se o lacre externo já chegar violado, não abra e fale com o atendimento.",
+          "**Pedido inteiro.** A loja não aceita devolução parcial, e a postagem da troca fica por conta do cliente."
+        ]
+      },
+      {
+        "heading": "Se der problema",
+        "paragraphs": [
+          "Comece pelos canais da loja: WhatsApp (14) 99905-2648, telefone (14) 3436-1028, e-mail contato@prohall.com.br e a central de ajuda, em central.prohall.com.br. O atendimento funciona de segunda a sexta, das 9h às 12h e das 14h às 17h.",
+          "Para produto com defeito ou avaria, a loja pede uma foto pelo e-mail SAC@prohall.com.br e dá retorno em até 30 dias depois de receber o produto. Se o atendimento não resolver, registre a queixa no Reclame Aqui, com o número do pedido."
+        ]
+      },
+      {
+        "heading": "O que os números indicam",
+        "paragraphs": [
+          "A Prohall responde todas as reclamações, em menos de dois dias, e resolveu cerca de três em cada quatro nos últimos seis meses. O risco mais citado é o prazo, e a regra que mais pesa é a do lacre: produto aberto não entra em troca. Quem é a empresa e como funciona a devolução está em [Prohall é confiável?](/reviews/prohall-e-confiavel).",
+          "Se decidir comprar, o CECILIAMC dá até 10% OFF no site e no app. As condições estão na página do [cupom Prohall](/cupons/prohall)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Prohall é confiável no Reclame Aqui? O perfil Prohall Professional tem reputação Boa nos últimos seis meses e Ótima em doze, com todas as reclamações respondidas.",
+          "A Prohall responde as reclamações? Sim. O perfil mostra 100% de respostas nos dois períodos, com tempo médio abaixo de dois dias.",
+          "O que fazer se o pedido da Prohall não chegou? Fale primeiro com a loja, pelo WhatsApp ou pelo e-mail, com o número do pedido. Se não resolver, registre a queixa no Reclame Aqui.",
+          "Dá para devolver um produto aberto? Pela política da loja, não. Troca e devolução exigem o lacre intacto e o produto sem sinais de uso; defeito e avaria têm análise própria, com foto para o SAC."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 935,
+    "slug": "prohall-e-confiavel",
+    "locale": "pt",
+    "title": "Prohall é confiável? CNPJ, site oficial, entrega e trocas",
+    "seoTitle": "Prohall é confiável? CNPJ, site oficial e trocas",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIAMC",
+    "affiliate": "prohall",
+    "description": "Quem é a Prohall, qual é o site oficial, como chega o pedido e o que a regra de troca exige: lacre intacto, pedido inteiro e postagem por sua conta.",
+    "metaDescription": "CECILIAMC dá até 10% OFF na Prohall. Antes, veja quem é a empresa, qual é o site oficial e como funcionam a entrega e a troca de 30 dias.",
+    "image": "/images/reviews/prohall/prohall-e-confiavel-capa.webp",
+    "imageAlt": "Frasco de 1 litro do Select One da Prohall, em foto oficial da loja, ao lado da pergunta Prohall é confiável?",
+    "cta": {
+      "text": "Se a Prohall faz sentido para a sua compra, abra o site oficial pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout.",
+      "label": "Ir para a Prohall",
+      "url": "https://lojaprohall.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com dados públicos da empresa e as políticas da loja. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "prohall-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "prohall-e-boa"
+      },
+      {
+        "slug": "cupom-prohall-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Prohall é uma marca brasileira de produtos para cabelo, fundada em 2017 em Lençóis Paulista, no interior de São Paulo. A loja oficial tem CNPJ no rodapé e reputação Boa no Reclame Aqui. A troca vale por 30 dias, com o lacre intacto e o pedido devolvido por inteiro."
+        ]
+      },
+      {
+        "heading": "Quem é a Prohall",
+        "paragraphs": [
+          "A Prohall Professional é brasileira. A empresa por trás da loja é a M.D. Boso Comércio de Cosméticos LTDA, CNPJ 24.815.160/0001-57, com endereço em Lençóis Paulista (SP), onde a marca foi fundada em 2017.",
+          "O catálogo é de produtos para cabelo: shampoos, condicionadores, máscaras, finalizadores, kits de cronograma e produtos de uso profissional, como o Select One e o Burix One. A marca diz estar presente em mais de 30 países."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/prohall-e-confiavel-cronograma-capilar-premium.webp",
+            "alt": "Três potes de máscara capilar da Prohall, Biomask, Extreme Repair e Proboo Fiber, em foto oficial da loja",
+            "caption": "Cronograma Capilar Premium, kit de três máscaras da marca. Foto: Prohall.",
+            "objectFit": "square",
+            "href": "https://lojaprohall.com.br/products/kit-cronograma-capilar-profissional-premium"
+          }
+        ]
+      },
+      {
+        "heading": "Qual é o site oficial",
+        "paragraphs": [
+          "São dois endereços. A loja fica em lojaprohall.com.br; o site institucional, em prohall.com.br, tem um botão que leva à loja. A Prohall também vende pelo app, anunciado na própria loja.",
+          "Para conferir se você está no lugar certo, role até o rodapé: a loja mostra o CNPJ 24.815.160/0001-57 e o endereço de Lençóis Paulista, e a página “Quem somos” traz a razão social. Desconfie de anúncio ou perfil que leve a um endereço diferente desses dois."
+        ]
+      },
+      {
+        "heading": "Os produtos são originais?",
+        "paragraphs": [
+          "A loja responde a essa pergunta no FAQ dela: “Sim, o nosso site é oficial da marca”. Comprando em lojaprohall.com.br, você compra da própria Prohall.",
+          "Sobre anúncios em marketplaces, não temos leitura para dizer quais são da marca. Nesses casos, confira quem é o vendedor antes de pagar."
+        ]
+      },
+      {
+        "heading": "Entrega",
+        "paragraphs": [
+          "A loja informa que posta o pedido em até 24 horas úteis depois da confirmação do pagamento. O prazo de entrega varia por localidade e aparece no checkout, com o CEP. As transportadoras são Total Express, Mandaê, Jamef e Jadlog.",
+          "O frete grátis depende da região: a partir de R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste, pela página de pagamento da loja. O FAQ da loja ainda fala em R$ 199 para todo o Brasil; vale o que o carrinho mostrar para o seu CEP."
+        ]
+      },
+      {
+        "heading": "Troca e devolução",
+        "paragraphs": [
+          "A política tem prazo folgado e condições rígidas. O que ela diz:"
+        ],
+        "bullets": [
+          "**Prazos.** Troca em até 30 dias corridos a partir do recebimento. Desistência da compra, com reembolso, em 7 dias a partir do recebimento.",
+          "**Lacre.** O produto volta na embalagem original, com o lacre intacto e sem sinais de uso. Produto aberto ou usado não é aceito.",
+          "**Pedido inteiro.** A loja não aceita devolução parcial: o pedido é devolvido por completo, com os brindes e a nota fiscal.",
+          "**Postagem.** As despesas de envio da troca são do cliente.",
+          "**Cancelamento.** Antes do despacho, o reembolso é integral. Depois do envio, o produto precisa voltar, e o reembolso desconta o frete.",
+          "**Defeito ou avaria.** Se a avaria aparece na entrega, recuse o pacote. Depois, a loja pede uma foto pelo e-mail SAC@prohall.com.br e conclui a análise em até 30 dias depois de receber o produto.",
+          "**Estorno.** No cartão, aparece em até duas faturas. Em compra por boleto, o depósito sai em até 30 dias úteis depois da devolução aprovada."
+        ],
+        "postParagraphs": [
+          "Produto devolvido fora dessas condições volta para o cliente, com o frete cobrado e sem a troca."
+        ]
+      },
+      {
+        "heading": "Pagamento",
+        "paragraphs": [
+          "No cartão, a loja parcela em até 10 vezes sem juros, com parcela mínima de R$ 20. O boleto é só à vista. O Pix também é aceito; no checkout que abrimos, o total com ele foi o mesmo do cartão, sem desconto a mais."
+        ]
+      },
+      {
+        "heading": "Atendimento",
+        "paragraphs": [
+          "A loja publica quatro canais: WhatsApp (14) 99905-2648, telefone (14) 3436-1028, e-mail contato@prohall.com.br e a central de ajuda, em central.prohall.com.br. O horário é de segunda a sexta, das 9h às 12h e das 14h às 17h."
+        ]
+      },
+      {
+        "heading": "O que dizem os clientes",
+        "paragraphs": [
+          "No Reclame Aqui, o perfil Prohall Professional tem reputação Boa e nota 7,2 de maio a outubro de 2026, com todas as reclamações respondidas. O atraso na entrega é o problema mais citado. Os números por período e o que fazer para evitar cada queixa estão em [Prohall no Reclame Aqui](/reviews/prohall-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Uso profissional",
+        "paragraphs": [
+          "Parte do catálogo é de uso profissional. A política da loja diz que esses produtos devem ser usados conforme as instruções do fabricante e que ela não se responsabiliza por danos decorrentes de uso inadequado."
+        ]
+      },
+      {
+        "heading": "Vale comprar na Prohall?",
+        "paragraphs": [
+          "Os dados públicos mostram uma empresa identificável: razão social, CNPJ, endereço, canais de atendimento e um perfil no Reclame Aqui em que todas as reclamações têm resposta.",
+          "O ponto de atenção é a troca. Quem abre o produto não troca, e quem troca devolve o pedido inteiro e paga a postagem. Para quem vai experimentar um produto pela primeira vez, esse é o risco da compra.",
+          "Se decidir comprar, o CECILIAMC dá até 10% OFF no site e no app. As condições estão na página do [cupom Prohall](/cupons/prohall)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Prohall é brasileira? Sim. A marca foi fundada em 2017 em Lençóis Paulista, no interior de São Paulo.",
+          "Qual é o site oficial da Prohall? A loja fica em lojaprohall.com.br, e o site institucional, em prohall.com.br. O rodapé da loja mostra o CNPJ da empresa.",
+          "A Prohall troca produto aberto? Não. A política exige a embalagem original, o lacre intacto e o produto sem sinais de uso.",
+          "Quem paga o frete da devolução? O cliente. As despesas de postagem da troca são de quem comprou, segundo a política da loja."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 936,
+    "slug": "prohall-e-boa",
+    "locale": "pt",
+    "title": "Prohall é boa? As linhas da marca, o que os clientes dizem e para quem vale a pena",
+    "seoTitle": "Prohall é boa? Linhas, avaliações e se vale a pena",
+    "type": "Guia de Marca",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "As linhas da Prohall por necessidade, o que cada página de produto declara, o que os clientes dizem e para quem a compra vale a pena, com o preço já com o cupom.",
+    "metaDescription": "CECILIAMC dá até 10% OFF na Prohall; nos testes, 7%. Veja as linhas da marca, o que cada produto declara, o que os clientes dizem e para quem vale.",
+    "publishedAt": "12 de novembro de 2026",
+    "publishedAtISO": "2026-11-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/prohall/prohall-e-boa-capa.webp",
+    "imageAlt": "Frasco do Select One e kit Absolut One da Prohall, com shampoo, condicionador e máscara, em fotos oficiais da loja, ao lado da pergunta Prohall é boa?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você já usa a marca ou já sabe qual linha procura.",
+        "O carrinho passa do mínimo do frete grátis da sua região já com o cupom."
+      ],
+      "skipIf": [
+        "Você quer testar e devolver se não gostar: produto aberto não entra em troca.",
+        "Você pretende aplicar um antifrizz térmico sem ler o modo de uso do fabricante."
+      ]
+    },
+    "cta": {
+      "text": "Se a Prohall faz sentido para o seu cabelo, abra o site oficial pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout.",
+      "label": "Ir para a Prohall",
+      "url": "https://lojaprohall.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIAMC",
+    "affiliate": "prohall",
+    "editorialNote": "Feito com as páginas dos produtos, as avaliações publicadas pela loja e o Reclame Aqui, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "prohall-e-confiavel"
+      },
+      {
+        "slug": "prohall-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "cupom-prohall-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Prohall é uma marca brasileira de produtos para cabelo, com linhas de lavagem e tratamento e os antifrizz térmicos Select One e Burix One. Tem reputação Boa no Reclame Aqui e troca em 30 dias, só com o lacre intacto. Vale mais para quem já sabe que linha procura: produto aberto não volta."
+        ]
+      },
+      {
+        "heading": "O que a Prohall vende",
+        "paragraphs": [
+          "A loja organiza o catálogo por necessidade. As linhas mais buscadas, com o que a página de cada produto declara:"
+        ],
+        "comparisonTable": {
+          "caption": "O que a marca declara na página de cada produto no site oficial. Não usamos os produtos: a coluna da direita é a descrição do fabricante.",
+          "headers": [
+            "Para quê",
+            "Linha",
+            "O que a página declara"
+          ],
+          "rows": [
+            [
+              "Reduzir frizz e volume",
+              "[Select One](https://lojaprohall.com.br/products/select-one-um-so-passo-1l-344426850)",
+              "Máscara antifrizz para “controle do frizz e do volume excessivo”, com tecnologia de “cristalização térmica”"
+            ],
+            [
+              "Reduzir frizz e volume",
+              "[Burix One](https://lojaprohall.com.br/products/reestruturacao-molecular-tanino-organica-burix-one-1l)",
+              "“Tratamento antifrizz térmico de longa duração”, com tanino e buriti"
+            ],
+            [
+              "Selagem",
+              "[Btx Blend Repair](https://lojaprohall.com.br/products/btx-capilar-organico-blend-repair-300g)",
+              "Selagem das cutículas e redução de frizz e volume; age de 40 a 60 minutos e é enxaguado"
+            ],
+            [
+              "Lavagem e cuidado diário",
+              "[Absolut One](https://lojaprohall.com.br/products/shampoo-condicionador-mascara-absolut-one-prohall-limpeza-hidratacao-e-reconstrucao-para-fios-macios-e-brilhantes)",
+              "Shampoo, condicionador e máscara para hidratação, maciez e brilho"
+            ],
+            [
+              "Cronograma capilar",
+              "[Cronograma Capilar Premium](https://lojaprohall.com.br/products/kit-cronograma-capilar-profissional-premium)",
+              "Três máscaras: hidratação, nutrição e reconstrução"
+            ],
+            [
+              "Fios enfraquecidos",
+              "[Force Hair](https://lojaprohall.com.br/products/kit-crescimento-capilar-force-hair-shampoo-mascara-tonico-8x)",
+              "Shampoo, máscara e tônico “fortificante”, indicados pela marca para fios com queda e quebra"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O menu da loja tem ainda linhas para cachos, para loiros, matizadores, finalizadores, óleos, um item infantil e um masculino."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/prohall-e-boa-kit-absolut-one.webp",
+            "alt": "Kit Absolut One da Prohall com shampoo, condicionador e máscara em embalagens vermelhas, em foto oficial da loja",
+            "caption": "Kit Cuidado Capilar Diário Absolut One: shampoo, condicionador e máscara. Foto: Prohall.",
+            "objectFit": "square",
+            "href": "https://lojaprohall.com.br/products/shampoo-condicionador-mascara-absolut-one-prohall-limpeza-hidratacao-e-reconstrucao-para-fios-macios-e-brilhantes"
+          }
+        ]
+      },
+      {
+        "heading": "Select One, Burix One e Btx: o que dá para dizer",
+        "paragraphs": [
+          "São os produtos mais buscados da marca e os que mais pedem atenção ao modo de uso. Select One e Burix One são descritos pela Prohall como tratamentos antifrizz ativados por calor; o Btx Blend Repair, como selagem que age por 40 a 60 minutos e é enxaguada.",
+          "Os rótulos trazem a indicação de uso profissional. A política da loja diz que produtos de uso profissional devem ser usados conforme as instruções do fabricante, e o FAQ dela recomenda o teste de mecha antes de aplicar sobre outra química.",
+          "Não usamos os produtos, por isso este guia não diz quanto alisa nem quanto dura. Para dúvida de composição ou de saúde, valem o rótulo e um profissional."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/prohall-e-boa-select-one-1l.webp",
+            "alt": "Frasco branco de 1 litro do Select One da Prohall, com rótulo azul e a indicação de uso profissional, em foto oficial da loja",
+            "caption": "Select One Um Só Passo 1 L. O rótulo traz a indicação de uso profissional. Foto: Prohall.",
+            "objectFit": "square",
+            "href": "https://lojaprohall.com.br/products/select-one-um-so-passo-1l-344426850"
+          }
+        ]
+      },
+      {
+        "heading": "Os tratamentos de rotina",
+        "paragraphs": [
+          "A Absolut One é a linha de lavagem: shampoo, condicionador e máscara, que a marca indica para hidratação, maciez e brilho. Os cronogramas reúnem três máscaras, uma para cada etapa: hidratação, nutrição e reconstrução.",
+          "A Force Hair tem shampoo, máscara e tônico, indicados pela marca para fios enfraquecidos. A página fala em crescimento e em redução de queda; são declarações do fabricante, sem teste nosso."
+        ]
+      },
+      {
+        "heading": "O que os clientes dizem",
+        "paragraphs": [
+          "Na loja, o Select One de 300 ml aparece com nota 4,9 e 1.104 avaliações, e o finalizador 12 em 1 da Absolut One, com 4,9 e 635. São avaliações publicadas pela própria Prohall, no site dela.",
+          "No Reclame Aqui, o perfil da marca tem reputação Boa e nota 7,2 em seis meses, com todas as reclamações respondidas. As queixas mais comuns são de atraso na entrega e de produto que não deu o resultado esperado. Os números estão em [Prohall no Reclame Aqui](/reviews/prohall-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Prohall vale a pena?",
+        "paragraphs": [
+          "Depende de você já saber o que quer. A troca vale por 30 dias, mas só com o lacre intacto: quem compra para experimentar não consegue devolver depois de abrir. A regra inteira está em [Prohall é confiável?](/reviews/prohall-e-confiavel).",
+          "No preço, o CECILIAMC dá até 10% OFF. Nos nossos testes de 12 de novembro de 2026, tirou 7%: o Kit Completo Absolut One foi de R$ 349,90 para R$ 325,41, e um carrinho da linha Force Hair, de R$ 264,90 para R$ 246,36.",
+          "O frete grátis começa em R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste, com o mínimo contado depois do cupom. As condições do código estão na página do [cupom Prohall](/cupons/prohall)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Prohall é uma marca boa? É uma marca brasileira com reputação Boa no Reclame Aqui e milhares de avaliações publicadas na própria loja. Não usamos os produtos; o guia mostra o que cada linha declara e o que pesa na compra.",
+          "Prohall vale a pena? Vale mais para quem já sabe qual linha procura, porque produto aberto não entra em troca. O cupom CECILIAMC dá até 10% OFF.",
+          "A Prohall é profissional? Os rótulos trazem a indicação de uso profissional, e a loja pede que esses produtos sejam usados conforme as instruções do fabricante.",
+          "Onde comprar Prohall original? No site oficial, lojaprohall.com.br, e no app da marca. No FAQ, a loja afirma que o site é o oficial da marca."
         ]
       }
     ]

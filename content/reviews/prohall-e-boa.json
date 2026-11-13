@@ -1,0 +1,173 @@
+{
+  "id": 936,
+  "slug": "prohall-e-boa",
+  "locale": "pt",
+  "title": "Prohall é boa? As linhas da marca, o que os clientes dizem e para quem vale a pena",
+  "seoTitle": "Prohall é boa? Linhas, avaliações e se vale a pena",
+  "type": "Guia de Marca",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "As linhas da Prohall por necessidade, o que cada página de produto declara, o que os clientes dizem e para quem a compra vale a pena, com o preço já com o cupom.",
+  "metaDescription": "CECILIAMC dá até 10% OFF na Prohall; nos testes, 7%. Veja as linhas da marca, o que cada produto declara, o que os clientes dizem e para quem vale.",
+  "publishedAt": "12 de novembro de 2026",
+  "publishedAtISO": "2026-11-12",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/prohall/prohall-e-boa-capa.webp",
+  "imageAlt": "Frasco do Select One e kit Absolut One da Prohall, com shampoo, condicionador e máscara, em fotos oficiais da loja, ao lado da pergunta Prohall é boa?",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "Você já usa a marca ou já sabe qual linha procura.",
+      "O carrinho passa do mínimo do frete grátis da sua região já com o cupom."
+    ],
+    "skipIf": [
+      "Você quer testar e devolver se não gostar: produto aberto não entra em troca.",
+      "Você pretende aplicar um antifrizz térmico sem ler o modo de uso do fabricante."
+    ]
+  },
+  "cta": {
+    "text": "Se a Prohall faz sentido para o seu cabelo, abra o site oficial pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout.",
+    "label": "Ir para a Prohall",
+    "url": "https://lojaprohall.com.br/",
+    "sponsored": true
+  },
+  "coupon": "CECILIAMC",
+  "affiliate": "prohall",
+  "editorialNote": "Feito com as páginas dos produtos, as avaliações publicadas pela loja e o Reclame Aqui, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "prohall-e-confiavel"
+    },
+    {
+      "slug": "prohall-reclame-aqui-nota-reputacao"
+    },
+    {
+      "slug": "cupom-prohall-como-usar"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Prohall é uma marca brasileira de produtos para cabelo, com linhas de lavagem e tratamento e os antifrizz térmicos Select One e Burix One. Tem reputação Boa no Reclame Aqui e troca em 30 dias, só com o lacre intacto. Vale mais para quem já sabe que linha procura: produto aberto não volta."
+      ]
+    },
+    {
+      "heading": "O que a Prohall vende",
+      "paragraphs": [
+        "A loja organiza o catálogo por necessidade. As linhas mais buscadas, com o que a página de cada produto declara:"
+      ],
+      "comparisonTable": {
+        "caption": "O que a marca declara na página de cada produto no site oficial. Não usamos os produtos: a coluna da direita é a descrição do fabricante.",
+        "headers": [
+          "Para quê",
+          "Linha",
+          "O que a página declara"
+        ],
+        "rows": [
+          [
+            "Reduzir frizz e volume",
+            "[Select One](https://lojaprohall.com.br/products/select-one-um-so-passo-1l-344426850)",
+            "Máscara antifrizz para “controle do frizz e do volume excessivo”, com tecnologia de “cristalização térmica”"
+          ],
+          [
+            "Reduzir frizz e volume",
+            "[Burix One](https://lojaprohall.com.br/products/reestruturacao-molecular-tanino-organica-burix-one-1l)",
+            "“Tratamento antifrizz térmico de longa duração”, com tanino e buriti"
+          ],
+          [
+            "Selagem",
+            "[Btx Blend Repair](https://lojaprohall.com.br/products/btx-capilar-organico-blend-repair-300g)",
+            "Selagem das cutículas e redução de frizz e volume; age de 40 a 60 minutos e é enxaguado"
+          ],
+          [
+            "Lavagem e cuidado diário",
+            "[Absolut One](https://lojaprohall.com.br/products/shampoo-condicionador-mascara-absolut-one-prohall-limpeza-hidratacao-e-reconstrucao-para-fios-macios-e-brilhantes)",
+            "Shampoo, condicionador e máscara para hidratação, maciez e brilho"
+          ],
+          [
+            "Cronograma capilar",
+            "[Cronograma Capilar Premium](https://lojaprohall.com.br/products/kit-cronograma-capilar-profissional-premium)",
+            "Três máscaras: hidratação, nutrição e reconstrução"
+          ],
+          [
+            "Fios enfraquecidos",
+            "[Force Hair](https://lojaprohall.com.br/products/kit-crescimento-capilar-force-hair-shampoo-mascara-tonico-8x)",
+            "Shampoo, máscara e tônico “fortificante”, indicados pela marca para fios com queda e quebra"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O menu da loja tem ainda linhas para cachos, para loiros, matizadores, finalizadores, óleos, um item infantil e um masculino."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/prohall/prohall-e-boa-kit-absolut-one.webp",
+          "alt": "Kit Absolut One da Prohall com shampoo, condicionador e máscara em embalagens vermelhas, em foto oficial da loja",
+          "caption": "Kit Cuidado Capilar Diário Absolut One: shampoo, condicionador e máscara. Foto: Prohall.",
+          "objectFit": "square",
+          "href": "https://lojaprohall.com.br/products/shampoo-condicionador-mascara-absolut-one-prohall-limpeza-hidratacao-e-reconstrucao-para-fios-macios-e-brilhantes"
+        }
+      ]
+    },
+    {
+      "heading": "Select One, Burix One e Btx: o que dá para dizer",
+      "paragraphs": [
+        "São os produtos mais buscados da marca e os que mais pedem atenção ao modo de uso. Select One e Burix One são descritos pela Prohall como tratamentos antifrizz ativados por calor; o Btx Blend Repair, como selagem que age por 40 a 60 minutos e é enxaguada.",
+        "Os rótulos trazem a indicação de uso profissional. A política da loja diz que produtos de uso profissional devem ser usados conforme as instruções do fabricante, e o FAQ dela recomenda o teste de mecha antes de aplicar sobre outra química.",
+        "Não usamos os produtos, por isso este guia não diz quanto alisa nem quanto dura. Para dúvida de composição ou de saúde, valem o rótulo e um profissional."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/prohall/prohall-e-boa-select-one-1l.webp",
+          "alt": "Frasco branco de 1 litro do Select One da Prohall, com rótulo azul e a indicação de uso profissional, em foto oficial da loja",
+          "caption": "Select One Um Só Passo 1 L. O rótulo traz a indicação de uso profissional. Foto: Prohall.",
+          "objectFit": "square",
+          "href": "https://lojaprohall.com.br/products/select-one-um-so-passo-1l-344426850"
+        }
+      ]
+    },
+    {
+      "heading": "Os tratamentos de rotina",
+      "paragraphs": [
+        "A Absolut One é a linha de lavagem: shampoo, condicionador e máscara, que a marca indica para hidratação, maciez e brilho. Os cronogramas reúnem três máscaras, uma para cada etapa: hidratação, nutrição e reconstrução.",
+        "A Force Hair tem shampoo, máscara e tônico, indicados pela marca para fios enfraquecidos. A página fala em crescimento e em redução de queda; são declarações do fabricante, sem teste nosso."
+      ]
+    },
+    {
+      "heading": "O que os clientes dizem",
+      "paragraphs": [
+        "Na loja, o Select One de 300 ml aparece com nota 4,9 e 1.104 avaliações, e o finalizador 12 em 1 da Absolut One, com 4,9 e 635. São avaliações publicadas pela própria Prohall, no site dela.",
+        "No Reclame Aqui, o perfil da marca tem reputação Boa e nota 7,2 em seis meses, com todas as reclamações respondidas. As queixas mais comuns são de atraso na entrega e de produto que não deu o resultado esperado. Os números estão em [Prohall no Reclame Aqui](/reviews/prohall-reclame-aqui-nota-reputacao)."
+      ]
+    },
+    {
+      "heading": "Prohall vale a pena?",
+      "paragraphs": [
+        "Depende de você já saber o que quer. A troca vale por 30 dias, mas só com o lacre intacto: quem compra para experimentar não consegue devolver depois de abrir. A regra inteira está em [Prohall é confiável?](/reviews/prohall-e-confiavel).",
+        "No preço, o CECILIAMC dá até 10% OFF. Nos nossos testes de 12 de novembro de 2026, tirou 7%: o Kit Completo Absolut One foi de R$ 349,90 para R$ 325,41, e um carrinho da linha Force Hair, de R$ 264,90 para R$ 246,36.",
+        "O frete grátis começa em R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste, com o mínimo contado depois do cupom. As condições do código estão na página do [cupom Prohall](/cupons/prohall)."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "A Prohall é uma marca boa? É uma marca brasileira com reputação Boa no Reclame Aqui e milhares de avaliações publicadas na própria loja. Não usamos os produtos; o guia mostra o que cada linha declara e o que pesa na compra.",
+        "Prohall vale a pena? Vale mais para quem já sabe qual linha procura, porque produto aberto não entra em troca. O cupom CECILIAMC dá até 10% OFF.",
+        "A Prohall é profissional? Os rótulos trazem a indicação de uso profissional, e a loja pede que esses produtos sejam usados conforme as instruções do fabricante.",
+        "Onde comprar Prohall original? No site oficial, lojaprohall.com.br, e no app da marca. No FAQ, a loja afirma que o site é o oficial da marca."
+      ]
+    }
+  ]
+}
