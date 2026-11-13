@@ -20,7 +20,7 @@ UTM: o `offerUrl` é o site oficial.
 |---|---|---|---|---|---|---|
 | Cupom `CECILIA`: 10% OFF | condicao_comercial_volatil | `src/lib/couponsData.ts` (slug: `la-ganexa`); Bruno, 13/11/2026 | 2026-11-13 | 2026-12-13 | Sem leitura de valor mínimo nem de limite de usos: não afirmar "sem mínimo" | Alta |
 | O cupom soma com as promoções do site: entra sobre o preço promocional | condicao_comercial_volatil | Carrinho do Bruno, 13/11/2026 (os quatro itens com preço riscado no catálogo) | 2026-11-13 | 2026-12-13 | Exceção na linha abaixo | Alta |
-| Kit 2 Doce de Leite e Kit 2 Brigadeiros de Colher: "não cumulativo com outras promoções, cupons ou descontos"; o de Doce de Leite também não conta para o frete grátis | condicao_comercial_volatil | lojalaganexa.com.br/pages/regras-das-promocoes | 2026-11-13 | 2026-12-13 | Regra da loja, sem teste nosso | Média |
+| Kit 2 Doce de Leite e Kit 2 Brigadeiros de Colher: "não cumulativo com outras promoções, cupons ou descontos"; o de Doce de Leite também não conta para o frete grátis | condicao_comercial_volatil | lojalaganexa.com.br/pages/regras-das-promocoes | 2026-11-13 | 2026-12-13 | Regra escrita da loja. No teste de 13/11, o checkout aceitou o CECILIA no Kit 2 Doce de Leite (R$ 127,99 → R$ 115,19); o de Brigadeiros segue sem teste. Nos textos: dizer a regra e o resultado do teste, e mandar conferir a linha Descontos | Média |
 | Frete grátis acima de R$ 250 no Sul e no Sudeste e de R$ 350 nas demais regiões | condicao_comercial_volatil | lojalaganexa.com.br/pages/politica-de-frete e /pages/regras-das-promocoes | 2026-11-13 | 2026-12-13 | A política fala em "valor de produto mínimo"; não lido se conta antes ou depois do cupom: não afirmar | Alta |
 | Pagamento: Pix ou cartão, até 3x sem juros; de 4x a 12x com juros da operadora | condicao_comercial_volatil | lojalaganexa.com.br/pages/perguntas-frequentes | 2026-11-13 | 2026-12-13 | — | Alta |
 | Brinde surpresa em compras acima de R$ 180, contados depois de todos os descontos e cupons | condicao_comercial_volatil | lojalaganexa.com.br/pages/regras-das-promocoes | 2026-11-13 | 2026-12-13 | Promoção por tempo limitado; fora da página | Média |
@@ -33,7 +33,9 @@ R$ 264,40 → R$ 237,96 com o CECILIA (menos R$ 26,44, 10%). O campo fica no Res
 desconto" → "Cupom (opcional)" → "Adicionar"; o desconto aparece na linha "Descontos". Os preços "de" vêm do
 catálogo da loja (`/products.json`), lido no mesmo dia.
 
-A sessão de cupons não fez teste próprio de carrinho em 13/11: o navegador da sessão estava fora do ar.
+Teste da sessão de cupons, 2026-11-13 (Chrome, sem login e sem finalizar): Kit 2 Doce de Leite Zero 400g, R$ 127,99. Pelo botão
+"Finalizar a compra" (checkout da Yampi, `seguro.lojalaganexa.com.br`), o CECILIA foi aceito ("Cupom adicionado.") e o total
+ficou em R$ 115,19. Pelo link de carrinho da Shopify com `?discount=CECILIA`, o desconto foi de R$ 12,79.
 
 Sem leitura: desconto no Pix, cashback de 5% anunciado na faixa do site ("Compre e receba 5% de cashback"),
 código no app (a loja tem app para Android e iOS), valor mínimo do cupom e pesquisa de percentuais em outros
