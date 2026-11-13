@@ -8,6 +8,23 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## La Ganexa: pacote inicial (13/11/2026)
+
+- **Pedido do Bruno:** parceira nova, cupom CECILIA. Pacote inicial: Reclame Aqui, é confiável, como usar o cupom, primeira compra, é boa (ou vale a pena) e Black Friday.
+- **Search Console:** sem dado da loja. O comparativo `dr-peanut-ou-la-ganexa` está no ar desde 25/10; as consultas dele não foram lidas.
+- **Autocompletar (Google, pt-BR, 13/11):**
+  - Todas as pautas do pacote têm sugestão: "cupom la ganexa", "cupom la ganexa primeira compra", "cupom desconto la ganexa", "loja la ganexa reclame aqui", "la ganexa é confiavel", "la ganexa é boa", "la ganexa black friday". "Vale a pena" não tem.
+  - "É boa" e "é bom" descem a produto (pasta, panqueca, suspiro) e a saúde ("é saudável", "é bom para dieta", "engorda").
+  - Produto: o doce de leite zero é o mais buscado (tabela nutricional, ingredientes, calorias, zero lactose, 250 g, 1 kg); depois a pasta de amendoim (1 kg, 450 g, sabores), o suspiro, a panqueca e o brigadeiro de colher.
+  - Canal: "la ganexa mercado livre" com seis sugestões, "la ganexa onde comprar", "la ganexa frete gratis".
+  - Comparação: "la ganexa ou dr peanut" (três formas) e "doce de leite la ganexa ou hey mu".
+  - Há "cupom la ganexa 20": percentual de terceiros, que não entra nos textos.
+- **Reclame Aqui (6 meses até 31/10/2026):** reputação Ótima, nota 9,2; 40 reclamações, 100% respondidas, 93,5% resolvidas, 90,3% voltariam a fazer negócio; 4 anos no site; mesmo CNPJ do rodapé da loja. Principal problema da aba geral: atraso na entrega (35,71%).
+- **Loja (13/11):** "Esquenta Black Friday" na home; devolução e troca em 7 dias corridos, avaria em 48 horas; brinde acima de R$ 180 contado depois dos cupons; cashback de 5% anunciado nos cartões, sem leitura das regras.
+- **Conclusão:** seis pautas com GO (LG1 a LG6) e seis de estoque, na [[Fila-de-Pautas]]. Fatos, fontes, slugs e regras em [[la-ganexa-fatos-1311]]. O comparativo com a Dr. Peanut pede revisão, porque as duas são parceiras agora.
+
+---
+
 ## DAMIE nos marketplaces (12/11/2026)
 
 - **Pedido do Bruno:** série da DAMIE nos marketplaces: compradores das regiões que a marca manda para o Mercado Livre, poltronas que só existem lá e "site ou Mercado Livre", com link de afiliado do marketplace e o CECILIA12 para quem compra no site.
