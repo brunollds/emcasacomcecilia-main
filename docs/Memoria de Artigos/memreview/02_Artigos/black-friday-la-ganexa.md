@@ -185,3 +185,5 @@ O Bruno colou o relatório da revisão de copy dos sete artigos da La Ganexa (`d
 
 - Entrou: o subtítulo, a metaDescription e o `cta`; a resposta rápida com "sem data de fim publicada"; o Esquenta no presente, com "ofertas quentes", "descontos por tempo limitado" e "Oferta Black" conferidos na home; o FAQ dos kits com os dois kits, o teste e a linha “Descontos”; a troca com o motivo de conferir a caixa (aviso de avaria em 48 horas).
 - Recusado: "Segundo sua política geral" (regra 18 da Voz); "não publica regulamento" (a loja publica as Regras das Promoções); "sem aviso" (sem fonte). O contador de 15 minutos da home não entra.
+
+- Revisão Farol: No ar desde 13/11/2026, release `e0a228c1` (deploy 6e02e402, build 01a1d65b), com o LG7 (#961) e a revisão Farol dos sete artigos (#962). `deploy:finish` ok (2 workers); smoke dos sete artigos contra o JSON (títulos, capítulos, a primeira frase de cada capítulo, imagens e og:image) ok; IndexNow com 12 URLs; captura 43492401172 à espera da aprovação do Bruno.
