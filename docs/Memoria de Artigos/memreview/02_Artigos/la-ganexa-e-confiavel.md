@@ -175,3 +175,5 @@ O Bruno colou o relatório da revisão de copy dos sete artigos da La Ganexa (`d
 - Entrou: o subtítulo novo; a resposta rápida com fábrica em Peruíbe (SP) e CNPJ no rodapé; o CNPJ do site coincide com o do perfil no Reclame Aqui (31.315.158/0001-84); "O que pesa na decisão" com a regra de troca e a avaria em 48 horas; o FAQ "troca produto aberto?" com resposta direta pela política.
 - Recusado: renomear "Os produtos e a saúde"; tirar a frase do FAQ da loja sobre glúten e diabéticos (segue como opção do Bruno); a "leitura de 13/11" do domínio laganexa.com.br, que não foi relido.
 - O corpo está com 2 datas, no limite: data nova pede `bodyDatesReason` "reclame-aqui".
+
+- Revisão Farol: No ar desde 13/11/2026, release `e0a228c1` (deploy 6e02e402, build 01a1d65b), com o LG7 (#961) e a revisão Farol dos sete artigos (#962). `deploy:finish` ok (2 workers); smoke dos sete artigos contra o JSON (títulos, capítulos, a primeira frase de cada capítulo, imagens e og:image) ok; IndexNow com 12 URLs; captura 43492401172 à espera da aprovação do Bruno.

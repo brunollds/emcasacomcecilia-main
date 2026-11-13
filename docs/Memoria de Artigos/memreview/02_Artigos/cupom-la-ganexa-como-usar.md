@@ -223,3 +223,5 @@ O Bruno colou o relatório da revisão de copy dos sete artigos da La Ganexa (`d
 
 - Entrou: a linha “Descontos” como o lugar onde aparece o valor descontado (a frase anterior dizia que ali aparecia o valor do pedido), e o FAQ dos kits com o Kit 2 Brigadeiros de Colher sem teste.
 - Recusado: "carrinho elegível" e "compras elegíveis". Nenhuma fonte fala em elegibilidade, e a regra do pacote é 10% para cliente novo e antigo, com a ressalva só dos dois kits.
+
+- Revisão Farol: No ar desde 13/11/2026, release `e0a228c1` (deploy 6e02e402, build 01a1d65b), com o LG7 (#961) e a revisão Farol dos sete artigos (#962). `deploy:finish` ok (2 workers); smoke dos sete artigos contra o JSON (títulos, capítulos, a primeira frase de cada capítulo, imagens e og:image) ok; IndexNow com 12 URLs; captura 43492401172 à espera da aprovação do Bruno.

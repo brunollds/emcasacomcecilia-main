@@ -8,7 +8,7 @@ reviewKind: "guia"
 type: "Comparativo de Suplemento"
 status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy da revisão LG7 com o GO do Bruno; depois, smoke, covers:check e IndexNow"
+proxima_acao: "reler os preços das duas lojas depois da Black Friday; revisão mensal de dezembro de 2026"
 bloqueado_por: null
 score_autoridade: 66
 score_conversao: 80
@@ -557,3 +557,5 @@ O Bruno colou o relatório da revisão de copy dos sete artigos da La Ganexa (`d
 
 - Entrou: a tabela de preço em três colunas; o capítulo "Onde cada marca custa menos por 100 g"; a mesma ressalva do açúcar total nas duas marcas ("0 g de açúcares adicionados não é o mesmo que sem açúcar"); "Quem escolhe o quê" e o FAQ 1 por perfil, sem repetir a conta do pote de 250 g; a resposta rápida com dois apoios para cada marca; o método do preço dito uma vez.
 - Recusado: o `type` "Comparativo de Alimentos" (os 22 comparativos "-ou-" usam "Comparativo de Suplemento"); tirar a coluna de polióis das tabelas de rótulo e criar dois capítulos só de polióis; "no catálogo consultado" na linha dos sabores; o artigo antes dos códigos na metaDescription.
+
+- Revisão LG7 e revisão Farol: No ar desde 13/11/2026, release `e0a228c1` (deploy 6e02e402, build 01a1d65b), com o LG7 (#961) e a revisão Farol dos sete artigos (#962). `deploy:finish` ok (2 workers); smoke dos sete artigos contra o JSON (títulos, capítulos, a primeira frase de cada capítulo, imagens e og:image) ok; IndexNow com 12 URLs; captura 43492401172 à espera da aprovação do Bruno. `covers:check` 1/1, e as cinco imagens novas saem do CDN. O artigo não aparece no `/llms.txt`, que lista os 20 mais novos pela data de publicação (25/10).

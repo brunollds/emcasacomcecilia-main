@@ -180,3 +180,5 @@ O Bruno colou o relatório da revisão de copy dos sete artigos da La Ganexa (`d
 - Entrou: o subtítulo com os prazos atribuídos à loja; o histórico em tabela de quatro colunas, com a reputação na prosa; o bastidor do domínio antigo saiu, e ficou só o link para o LG3; "Como evitar dor de cabeça" com os prazos da política dados uma vez na abertura e os bullets em voz ativa; o FAQ de respostas com "100%".
 - Ajustado: a resposta rápida abre com "A La Ganexa vai bem no Reclame Aqui". O perfil LOJA GANEXA LTDA fica com a categoria que o Reclame Aqui mostra, sem o "sem relação com a marca" do candidato, que não foi conferido.
 - Mantido: "Resolvidas", o rótulo da tela de 13/11, no lugar do "Índice de solução" do candidato, e o título "Como evitar dor de cabeça".
+
+- Revisão Farol: No ar desde 13/11/2026, release `e0a228c1` (deploy 6e02e402, build 01a1d65b), com o LG7 (#961) e a revisão Farol dos sete artigos (#962). `deploy:finish` ok (2 workers); smoke dos sete artigos contra o JSON (títulos, capítulos, a primeira frase de cada capítulo, imagens e og:image) ok; IndexNow com 12 URLs; captura 43492401172 à espera da aprovação do Bruno.

@@ -177,3 +177,5 @@ O Bruno colou o relatório da revisão de copy dos sete artigos da La Ganexa (`d
 - Entrou: o `imageAlt` da capa com o pote de Chocolate Branco com Pistache; o bullet "Promoção e kits" e o FAQ com "Soma" e a regra dos dois kits, com o resultado do teste. A decisão de deixar os kits só no LG1 deixou de valer: a regra do pacote manda citar a regra e o teste onde o kit aparece.
 - Também: no frete, a loja diz que o Kit 2 Doce de Leite não entra na conta do mínimo; "Na segunda compra" diz que o código, o frete e os kits não mudam; a foto da Crocante volta a ser citada no texto; o código com artigo ("o CECILIA").
 - Mantido: "Código achado em site de cupom pode não funcionar" (decisão do Job 2).
+
+- Revisão Farol: No ar desde 13/11/2026, release `e0a228c1` (deploy 6e02e402, build 01a1d65b), com o LG7 (#961) e a revisão Farol dos sete artigos (#962). `deploy:finish` ok (2 workers); smoke dos sete artigos contra o JSON (títulos, capítulos, a primeira frase de cada capítulo, imagens e og:image) ok; IndexNow com 12 URLs; captura 43492401172 à espera da aprovação do Bruno.
