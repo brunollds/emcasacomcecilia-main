@@ -14,30 +14,29 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Dr. Peanut ou La Ganexa comparadas pelo rótulo, pela proteína, pela lactose e pelo preço por 100 g, com a conta do cupom da Dr. Peanut em 25/10/2026.",
-  "metaDescription": "Com o DREMCASACOMCECILIA, 10% OFF na Dr. Peanut: Dr. Peanut ou La Ganexa, qual pasta de amendoim escolher pelo rótulo e pelo preço por 100 g.",
+  "description": "Dr. Peanut ou La Ganexa comparadas pelo rótulo, pela proteína, pela lactose e pelo preço por 100 g, já com o código de cada loja.",
+  "metaDescription": "DREMCASACOMCECILIA (10%) na Dr. Peanut e CECILIA (10%) na La Ganexa: qual pasta de amendoim escolher pelo rótulo e pelo preço por 100 g.",
   "publishedAt": "25 de outubro de 2026",
   "publishedAtISO": "2026-10-25",
+  "updatedAt": "2026-11-13",
   "draft": false,
   "isNew": false,
-  "image": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-capa-v2.webp",
-  "imageAlt": "Pote aberto de pasta de amendoim Bueníssimo da Dr. Peanut com colher, avelãs e wafer, em cena promocional oficial, ao lado da pergunta Dr. Peanut ou La Ganexa?.",
+  "image": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-capa-v3.webp",
+  "imageAlt": "Logos da Dr. Peanut e da La Ganexa, a pergunta Dr. Peanut ou La Ganexa? e os códigos DREMCASACOMCECILIA e CECILIA, ao lado do pote de Avelã da Dr. Peanut e do pote de 1 kg de Creme de Avelã da La Ganexa",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Não há vencedora geral: a La Ganexa tem pasta só de amendoim, vegana ou sem lactose, e o pote de 1 kg dela costuma ter menor custo por 100 g. A Dr. Peanut custa menos nos potes pequenos com sabor de sobremesa, com o código DREMCASACOMCECILIA, que dá 10% no site oficial; o que decide é o seu perfil."
+        "Não há vencedora geral: a La Ganexa tem as pastas que a página diz sem lactose, e a Dr. Peanut tem preço igual em todos os sabores. No pote de 1 kg, a La Ganexa sai mais barata por 100 g na maioria dos sabores; no pote pequeno de sobremesa, a Dr. Peanut. Quem decide é o seu perfil."
       ]
     },
     {
       "heading": "O que muda entre as duas",
-      "image": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-pote-buenissimo-600g.webp",
-      "imageAlt": "Pote de 600 g de pasta de amendoim Dr. Peanut sabor Bueníssimo, em foto oficial da loja",
-      "imageCaption": "Pote de 600 g da Dr. Peanut, sabor Bueníssimo, em foto oficial da loja. A porção do rótulo é de 15 g.",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.7614,
+      "paragraphs": [
+        "O que separa as duas no rótulo é o adoçante e a porção. A comparação é só de rótulo e preço: sem degustação, sabor e textura ficam de fora."
+      ],
       "comparisonTable": {
         "headers": [
           "Ponto",
@@ -46,52 +45,74 @@
         ],
         "rows": [
           [
-            "Sabores à venda",
-            "10",
+            "Sabores de pasta à venda",
+            "11",
             "13"
           ],
           [
             "Pasta só de amendoim",
             "Não tem",
-            "Natural e Crocante, com amendoim torrado como único ingrediente"
+            "Natural e Crocante, com amendoim torrado na lista"
           ],
           [
-            "Lactose",
-            "Os 10 sabores dizem \"CONTÉM LACTOSE\"",
-            "Natural, Crocante e Avelã Vegana dizem \"NÃO CONTÉM LACTOSE\"; os outros 10 contêm"
+            "Lactose, pela página",
+            "Os 11 sabores: a página diz “CONTÉM LACTOSE”",
+            "Natural, Crocante e Avelã Vegana: a página diz “zero lactose”; as outras dizem que contêm lactose, e a página da Mousse não traz a lista de ingredientes"
           ],
           [
-            "Edulcorantes",
-            "Maltitol, xilitol, sucralose e acessulfame de potássio em todos",
-            "Natural e Crocante não têm nenhum; Avelã Vegana tem sucralose; as de sobremesa têm maltitol e sucralose"
+            "Adoçantes na lista",
+            "Maltitol, xilitol, sucralose e acessulfame de potássio em todos; esteviol no Brownie e no Banoffee",
+            "Natural e Crocante não têm adoçante; a Avelã Vegana tem sucralose; as de sobremesa com lista na página têm maltitol, sucralose ou os dois, e esteviol no Cookies e no Pistache"
           ],
           [
             "Tamanhos",
-            "250 g e 600 g",
-            "450 g e 1 kg"
+            "250 g e 600 g, conforme o sabor",
+            "450 g e 1 kg, conforme o sabor"
           ],
           [
-            "Porção no rótulo",
-            "15 g",
-            "20 g"
+            "Porção do rótulo",
+            "15 g (1 colher de sopa)",
+            "20 g na maioria dos sabores (2 colheres de sopa; em alguns, 1)"
           ]
         ]
       },
       "postParagraphs": [
-        "Na Dr. Peanut, Banoffee e Beijinho saem só no pote de 600 g, e o Caramelo Salgado só no de 250 g. Na La Ganexa, Mousse de Brigadeiro, Pistache e Caramelo e Flor de Sal existem só em 450 g. A página da La Ganexa não mostrava a tabela do Cookies, só os ingredientes, então ele fica fora da tabela por sabor."
+        "Na Dr. Peanut, Banoffee e Chocolate Branco saem só no pote de 600 g; Avelã, Bombom Italiano, Caramelo Salgado, Doce de Leite e Leite em Pó, só no de 250 g. Na La Ganexa, Mousse de Brigadeiro, Pistache e Caramelo e Flor de Sal existem só em 450 g. A Dr. Peanut não vende 1 kg, e a La Ganexa não vende pasta de 250 g nem de 600 g."
       ],
-      "paragraphs": [
-        "As contas usam 100 g para igualar porções e tamanhos diferentes."
+      "links": [
+        {
+          "label": "Bueníssimo 600 g na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/pasta-de-amendoim-buenissimo-com-whey-proteine/p?skuId=11",
+          "sponsored": true,
+          "store": "dr-peanut"
+        },
+        {
+          "label": "Avelã 250 g na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p?skuId=9",
+          "sponsored": true,
+          "store": "dr-peanut"
+        },
+        {
+          "label": "Natural na La Ganexa",
+          "href": "https://lojalaganexa.com.br/products/natural",
+          "sponsored": true,
+          "store": "la-ganexa"
+        },
+        {
+          "label": "Avelã Vegana na La Ganexa",
+          "href": "https://lojalaganexa.com.br/products/com-avela",
+          "sponsored": true,
+          "store": "la-ganexa"
+        }
       ]
     },
     {
-      "heading": "Proteína, açúcares e polióis por 100 g",
+      "heading": "Dr. Peanut: o rótulo por 100 g",
       "paragraphs": [
-        "As duas lojas usam porções diferentes no rótulo: 15 g na Dr. Peanut e 20 g na La Ganexa. Por isso o texto compara sempre por 100 g, e não por pote nem por porção.",
-        "Na Dr. Peanut, os 10 sabores têm de 17 a 20 g de proteína por 100 g. Os açúcares totais vão de 4,6 a 10 g, e os polióis, de 6,4 a 20 g. Os sabores um a um estão em [Dr. Peanut: qual o melhor sabor?](/reviews/dr-peanut-melhor-sabor).",
-        "Na La Ganexa, a tabela publicada pela loja traz, por 100 g, para os 12 sabores com tabela:"
+        "Os sabores ficam bem próximos em proteína, e o açúcar total muda mais de um para outro. Os sabores um a um estão em [Dr. Peanut, sabor por sabor](/reviews/dr-peanut-melhor-sabor)."
       ],
       "comparisonTable": {
+        "caption": "Tabela publicada pela Dr. Peanut, por 100 g, dos 11 sabores à venda.",
         "headers": [
           "Sabor",
           "Proteína",
@@ -101,17 +122,119 @@
         ],
         "rows": [
           [
-            "Natural",
-            "24 g",
-            "5 g",
-            "0",
-            "6 mg"
+            "Avelã",
+            "20 g",
+            "5,5 g",
+            "6,4 g",
+            "160 mg"
           ],
           [
-            "Crocante",
+            "Banoffee",
+            "17 g",
+            "6,7 g",
+            "18 g",
+            "147 mg"
+          ],
+          [
+            "Bombom Italiano",
+            "17 g",
+            "7,4 g",
+            "17 g",
+            "151 mg"
+          ],
+          [
+            "Brownie",
+            "19 g",
+            "4,7 g",
+            "6,7 g",
+            "127 mg"
+          ],
+          [
+            "Bueníssimo",
+            "19 g",
+            "6,6 g",
+            "6,7 g",
+            "139 mg"
+          ],
+          [
+            "Caramelo Salgado",
+            "17 g",
+            "8,7 g",
+            "19 g",
+            "326 mg"
+          ],
+          [
+            "Chocolate Branco",
+            "17 g",
+            "5,1 g",
+            "19 g",
+            "167 mg"
+          ],
+          [
+            "Cookies & Cream",
+            "17 g",
+            "4,6 g",
+            "20 g",
+            "151 mg"
+          ],
+          [
+            "Doce de Leite",
+            "18 g",
+            "9 g",
+            "12 g",
+            "193 mg"
+          ],
+          [
+            "Leite em Pó",
+            "20 g",
+            "8,5 g",
+            "8,4 g",
+            "193 mg"
+          ],
+          [
+            "Pistache",
+            "19 g",
+            "7,6 g",
+            "16 g",
+            "147 mg"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Todos declaram 0 g de açúcar adicionado: é “sem adição de açúcar”, não sem açúcar, e os totais estão na tabela. No sódio, o Caramelo Salgado tem mais que o dobro do Brownie, o menor da lista."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-pote-buenissimo-600g.webp",
+          "alt": "Pote de 600 g de pasta de amendoim Dr. Peanut sabor Bueníssimo, em foto oficial da loja",
+          "caption": "Pote de 600 g da Dr. Peanut, sabor Bueníssimo. A porção do rótulo é de 15 g. Foto: Dr. Peanut.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7614,
+          "href": "https://www.drpeanut.com.br/pasta-de-amendoim-buenissimo-com-whey-proteine/p?skuId=11",
+          "store": "dr-peanut"
+        }
+      ]
+    },
+    {
+      "heading": "La Ganexa: o rótulo por 100 g",
+      "paragraphs": [
+        "Na La Ganexa, a proteína muda bastante de um sabor para outro: as pastas só de amendoim e a Avelã Vegana ficam no topo, e o Caramelo e Flor de Sal, no fim. A linha de polióis só aparece em quatro das dez linhas; onde falta, a célula diz “não informa”. Os sabores um a um estão em [La Ganexa é boa?](/reviews/la-ganexa-e-boa)."
+      ],
+      "comparisonTable": {
+        "caption": "Tabela publicada pela La Ganexa, por 100 g. A loja publica a mesma tabela para a Natural e a Crocante. A Mousse de Brigadeiro fica fora, porque a página não traz tabela; o Cookies também, porque o pote de 450 g e o de 1 kg trazem tabelas com valores diferentes. “Não informa”: a tabela não traz a linha.",
+        "headers": [
+          "Sabor",
+          "Proteína",
+          "Açúcares totais",
+          "Polióis",
+          "Sódio"
+        ],
+        "rows": [
+          [
+            "Natural e Crocante (mesma tabela)",
             "24 g",
             "5 g",
-            "0",
+            "não informa; a lista não tem adoçante",
             "6 mg"
           ],
           [
@@ -125,7 +248,7 @@
             "Doce de Leite com Castanha de Caju",
             "23 g",
             "8 g",
-            "não informa (os ingredientes têm maltitol)",
+            "não informa (a lista tem maltitol)",
             "80 mg"
           ],
           [
@@ -136,7 +259,7 @@
             "88 mg"
           ],
           [
-            "Chocolate ao Leite Crocante",
+            "Chocrante",
             "22 g",
             "6 g",
             "7,1 g",
@@ -157,20 +280,6 @@
             "139 mg"
           ],
           [
-            "Mousse de Brigadeiro",
-            "19 g",
-            "10 g",
-            "8,5 g",
-            "109 mg"
-          ],
-          [
-            "Pistache",
-            "19 g",
-            "7 g",
-            "não informa (os ingredientes têm maltitol)",
-            "122 mg"
-          ],
-          [
             "Creme de Avelã",
             "18 g",
             "5,3 g",
@@ -178,34 +287,55 @@
             "194 mg"
           ],
           [
+            "Pistache",
+            "19 g",
+            "7 g",
+            "não informa (a lista tem maltitol)",
+            "122 mg"
+          ],
+          [
             "Caramelo e Flor de Sal",
             "16 g",
             "7,1 g",
-            "não informa (os ingredientes têm maltitol)",
+            "não informa (a lista tem maltitol)",
             "324 mg"
           ]
         ]
       },
       "postParagraphs": [
-        "As duas lojas declaram 0 g de açúcar adicionado nas tabelas. Por isso o texto diz \"sem adição de açúcar\" e põe os açúcares totais ao lado: de 4,6 a 10 g na Dr. Peanut e de 4,8 a 14 g na La Ganexa. Por 100 g, o sódio da Dr. Peanut vai de 127 a 193 mg (conta nossa, a partir da porção de 15 g); o da La Ganexa, de 5,9 a 324 mg, de um sabor para outro."
+        "Como na Dr. Peanut, a tabela declara 0 g de açúcar adicionado. O menor sódio é o da Avelã Vegana, e o maior, o do Caramelo e Flor de Sal."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-la-ganexa-doce-de-leite-com-castanha.webp",
+          "alt": "Pote de 450 g de pasta de amendoim La Ganexa sabor Doce de Leite com Castanha de Caju, em imagem da loja",
+          "caption": "Pote de 450 g da La Ganexa, sabor Doce de Leite com Castanha de Caju. Imagem: La Ganexa.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://lojalaganexa.com.br/products/doce-de-leite-com-castanha-de-caju",
+          "store": "la-ganexa"
+        }
       ]
     },
     {
       "heading": "Lactose, glúten e adoçantes",
       "paragraphs": [
-        "Os 10 sabores da Dr. Peanut dizem \"CONTÉM LACTOSE\" e \"NÃO CONTÉM GLÚTEN\". Na La Ganexa, o Natural, o Crocante e o Avelã Vegana dizem \"NÃO CONTÉM LACTOSE\", e a loja vende essas três como veganas. As outras dez contêm lactose. Os rótulos publicados dizem \"NÃO CONTÉM GLÚTEN\".",
-        "Quem tem intolerância à lactose ou alergia deve ler o rótulo do pote na hora da compra. O rótulo da Dr. Peanut linha a linha está em [Dr. Peanut é saudável? O que a pasta, o alfajor, a Doctor Bar, a Doctor Wafer e o whey trazem no rótulo](/reviews/dr-peanut-e-saudavel). Dúvidas sobre dieta: fale com um nutricionista ou um médico."
+        "Para quem precisa de pasta sem lactose, só a La Ganexa tem opção: a página da Natural, da Crocante e da Avelã Vegana diz “zero lactose”. Na Dr. Peanut, a página dos 11 sabores diz “CONTÉM LACTOSE” e “NÃO CONTÉM GLÚTEN”.",
+        "A La Ganexa diz que todos os sabores são feitos sem glúten. Os adoçantes de cada marca estão no quadro do começo: mudam de pote para pote, então leia a lista do sabor que escolher. Com restrição ou dúvida sobre dieta, fale com um nutricionista ou um médico."
       ]
     },
     {
-      "heading": "Preço por 100 g",
-      "image": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-quadro-preco-100g.webp",
-      "imageAlt": "Quadro com o preço por 100 g da Dr. Peanut (250 g e 600 g) e da La Ganexa (450 g e 1 kg), com os preços do site",
-      "imageCaption": "Preço por 100 g, conta nossa com os preços do site. Com o cupom, a Dr. Peanut sai a R$ 9,32 (250 g) e R$ 8,98 (600 g).",
+      "heading": "Preço por 100 g com o código de cada loja",
+      "paragraphs": [
+        "O que decide o preço por 100 g é o tamanho do pote e o sabor da La Ganexa: o mesmo tamanho muda muito de uma pasta para outra."
+      ],
+      "image": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-quadro-preco-100g-v2.webp",
+      "imageAlt": "Quadro com o preço por 100 g com o código da Dr. Peanut (250 g e 600 g) e da La Ganexa (450 g e 1 kg)",
+      "imageCaption": "Preço por 100 g com o código de cada loja, nos potes menores e nos maiores.",
       "imageFit": "contain",
       "imageAspectRatio": 1.3333,
       "comparisonTable": {
-        "caption": "Preços do site em 25/10/2026, sem frete, no preço \"por\" de cada site; conta nossa por 100 g.",
+        "caption": "Preços do site lidos em 13 de novembro de 2026, no preço “por” de cada loja, sem frete. As duas lojas estão em campanha, e os preços mudam.",
         "headers": [
           "Pote",
           "Dr. Peanut",
@@ -214,91 +344,116 @@
         "rows": [
           [
             "Menor",
-            "250 g, R$ 25,89 (R$ 10,36 por 100 g)",
-            "450 g, de R$ 39,99 a R$ 79,99 (de R$ 8,89 a R$ 17,78 por 100 g)"
+            "250 g: R$ 9,32 por 100 g (R$ 25,89 no site)",
+            "450 g: de R$ 8,00 (Natural e Crocante) a R$ 16,00 (Pistache, Caramelo e Flor de Sal), de R$ 39,99 a R$ 79,99 no site"
           ],
           [
             "Maior",
-            "600 g, R$ 59,89 (R$ 9,98 por 100 g)",
-            "1 kg, de R$ 59,99 a R$ 99,91 (de R$ 6,00 a R$ 9,99 por 100 g)"
+            "600 g: R$ 8,98 por 100 g (R$ 59,89 no site)",
+            "1 kg: de R$ 5,40 (Natural e Crocante) a R$ 10,35 (Creme de Avelã), de R$ 59,99 a R$ 114,99 no site"
           ]
         ]
       },
       "postParagraphs": [
-        "Na Dr. Peanut, o preço é o mesmo em todos os sabores do mesmo tamanho. Na La Ganexa, ele muda por sabor. Com o cupom DREMCASACOMCECILIA, que vale 10% também sobre o preço já em promoção, a Dr. Peanut sai a R$ 9,32 por 100 g no pote de 250 g e a R$ 8,98 no de 600 g. Na comparação com cupom, a La Ganexa entra pelo preço \"por\" do site, sem cupom. O Pix não entra nessas contas. O código para copiar fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut)."
+        "Conta nossa: preço do dia, vezes 0,9, dividido pelos gramas e multiplicado por 100. Na Dr. Peanut, o preço é o mesmo em todos os sabores de cada tamanho; na La Ganexa, muda por sabor, e o capítulo seguinte compara sabor por sabor.",
+        "O desconto incide sobre o preço “por”, que já vem com a promoção. O “de” riscado não entra na conta. Os códigos estão no [cupom Dr. Peanut](/cupons/dr-peanut) e no [cupom La Ganexa](/cupons/la-ganexa).",
+        "Frete: na Dr. Peanut, o grátis vale acima de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas demais regiões; na La Ganexa, acima de R$ 250 no Sul e no Sudeste e de R$ 350 nas demais. Nas duas, o mínimo conta depois do cupom. Como o mínimo da Dr. Peanut é mais baixo, o pedido que ganha frete grátis numa loja pode não ganhar na outra: confira no carrinho."
       ]
     },
     {
+      "heading": "Sabor contra sabor, com os dois códigos",
       "paragraphs": [
-        "Sabor contra sabor, com o cupom da Dr. Peanut:"
+        "Entre os potes de 450 g da La Ganexa, só a Natural e a Crocante saem abaixo das duas Dr. Peanut por 100 g, com os dois códigos na conta. São só amendoim, e a Dr. Peanut não tem pasta assim."
       ],
       "bullets": [
-        "A Dr. Peanut sai abaixo de Leitinho, Leitinho Black e Creme de Avelã de 1 kg (R$ 9,99 por 100 g) e de todos os potes de 450 g com sabor da La Ganexa, a partir de R$ 11,11 por 100 g.",
-        "As de 1 kg da La Ganexa saem mais baratas que a Dr. Peanut mesmo com o cupom: Natural e Crocante (R$ 6,00), Avelã Vegana, Chocolate Branco Crocante e Chocolate ao Leite Crocante (R$ 7,49), Doce de Leite com Castanha de Caju e Cookies (R$ 7,99).",
-        "A Natural e a Crocante de 450 g (R$ 8,89 por 100 g) ficam abaixo da Dr. Peanut mesmo com o cupom, mas são só amendoim, sem equivalente na Dr. Peanut.",
-        "Mousse de Brigadeiro, Pistache e Caramelo e Flor de Sal, da La Ganexa, só têm 450 g, entre R$ 13,33 e R$ 17,78 por 100 g. A Dr. Peanut sai mais barata que elas, com ou sem cupom."
+        "No pote de 1 kg, a La Ganexa fica abaixo da Dr. Peanut de 600 g em sete dos dez sabores: Natural, Crocante, Avelã Vegana, Chocolate Branco Crocante, Chocrante, Doce de Leite com Castanha de Caju e Cookies (este entra pelo preço; só a tabela de rótulo dele ficou de fora). Leitinho e Leitinho Black ficam um centavo acima, e o Creme de Avelã, bem acima.",
+        "Mousse de Brigadeiro, Pistache e Caramelo e Flor de Sal, com o código, ficam acima das duas Dr. Peanut."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-dr-peanut-doce-de-leite.webp",
+          "alt": "Pote de 250 g de pasta de amendoim Dr. Peanut sabor Doce de Leite, em imagem da loja",
+          "caption": "Pote de 250 g da Dr. Peanut, sabor Doce de Leite. Imagem: Dr. Peanut.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-doce-de-leite/p?skuId=62",
+          "store": "dr-peanut"
+        },
+        {
+          "src": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-la-ganexa-creme-de-avela.webp",
+          "alt": "Pote de 450 g de pasta de amendoim La Ganexa sabor Creme de Avelã, em imagem da loja",
+          "caption": "Pote de 450 g da La Ganexa, sabor Creme de Avelã. Imagem: La Ganexa.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://lojalaganexa.com.br/products/copia-de-leitinho-com-whey-protein",
+          "store": "la-ganexa"
+        }
       ]
     },
     {
-      "heading": "Onde cada uma ganha",
-      "paragraphs": [
-        "Pelos rótulos e pelos preços:"
-      ],
-      "emphasis": "Para quem compra o pote grande, a La Ganexa de 1 kg sai mais barata por 100 g na maioria dos sabores, mesmo contra a Dr. Peanut com cupom. Nos potes pequenos com sabor de sobremesa, a Dr. Peanut leva vantagem.",
+      "heading": "Quem escolhe o quê",
+      "emphasis": "O preço por 100 g só desempata depois do rótulo. Primeiro veja se a lactose e o adoçante do pote servem para você; depois faça a conta.",
       "emphasisAfterParagraph": 1,
+      "paragraphs": [
+        "Quem decide pelo pote pequeno de sobremesa, com o mesmo preço em todos os sabores, escolhe na Dr. Peanut. Quem decide pelo adoçante ou pela lactose escolhe na La Ganexa.",
+        "Pelos rótulos e pelos preços desta leitura:"
+      ],
       "bullets": [
-        "Quer pasta só de amendoim, vegana ou sem lactose: La Ganexa, com a Natural, a Crocante e a Avelã Vegana. Nenhuma pasta da Dr. Peanut é sem lactose.",
-        "Quer mais proteína por 100 g: a La Ganexa tem 24 g na Natural, na Crocante e na Avelã Vegana e de 22 a 23 g nas de chocolate e de doce de leite. Nos outros sabores de sobremesa, as duas ficam perto: de 17 a 20 g na Dr. Peanut e de 16 a 21 g na La Ganexa.",
-        "Quer o pote grande mais barato: a La Ganexa de 1 kg, na maioria dos sabores, mesmo contra a Dr. Peanut com cupom.",
-        "Quer pote pequeno com sabor de sobremesa pelo menor preço: a Dr. Peanut de 250 g, a R$ 10,36 por 100 g e a R$ 9,32 com o cupom, com o mesmo preço em todos os sabores. Os potes de 450 g com sabor da La Ganexa partem de R$ 11,11 por 100 g.",
-        "Quer menos sódio: a La Ganexa Natural, a Crocante e a Avelã Vegana, com 5,9 a 6 mg por 100 g. Nas de sobremesa, a La Ganexa vai de 80 a 324 mg, e a Dr. Peanut fica entre 127 e 193 mg.",
-        "Quer comparar açúcares totais: as faixas se sobrepõem, então compare sabor a sabor. Por 100 g, a Dr. Peanut vai de 4,6 a 10 g e a La Ganexa, de 4,8 a 14 g; Leitinho e Leitinho Black têm os maiores valores da La Ganexa."
+        "**Quer pasta sem adoçante na lista:** Natural ou Crocante, da La Ganexa. A Avelã Vegana, da mesma marca, tem sucralose.",
+        "**Quer pote pequeno de sobremesa, com o mesmo preço em todos os sabores:** a Dr. Peanut de 250 g. Na La Ganexa, os de 450 g de sobremesa começam em R$ 10,00 por 100 g, com o código.",
+        "**Quer pasta que a página diz sem lactose:** Natural, Crocante ou Avelã Vegana, da La Ganexa. Os 11 sabores da Dr. Peanut dizem que contêm lactose.",
+        "**Quer chegar ao frete grátis com um pedido menor:** a Dr. Peanut, com o mínimo mais baixo nas duas faixas de região.",
+        "**Quer mais proteína por 100 g:** Natural, Crocante ou Avelã Vegana, da La Ganexa, com 24 g. Na Dr. Peanut, a Avelã e o Leite em Pó chegam a 20 g.",
+        "**Quer menos açúcares totais:** Cookies & Cream e Brownie, da Dr. Peanut; na La Ganexa, a Avelã Vegana, quase empatada.",
+        "**Quer menos sódio:** Avelã Vegana, Natural ou Crocante, da La Ganexa, bem abaixo de qualquer Dr. Peanut. Na Dr. Peanut, o menor é o do Brownie.",
+        "**Quer pote grande com o menor preço por 100 g:** o de 1 kg da La Ganexa, em sete dos dez sabores. A Dr. Peanut de 600 g sai mais cara por 100 g nesses sete."
       ],
       "postParagraphs": [
-        "Não há vencedora geral. Os números são de 25/10/2026, data em que as duas lojas estavam em promoção: refaça a conta com o preço do dia antes de comprar. Sabor e textura ficam de fora: o texto compara rótulo e preço, sem degustação."
+        "Os preços são de campanha nas duas lojas e mudam. Refaça a conta com o preço do dia antes de comprar, e confira o frete no carrinho."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Dr. Peanut ou La Ganexa, qual é melhor? Depende do perfil. A La Ganexa leva vantagem em pasta só de amendoim, em pasta sem lactose e no pote de 1 kg; a Dr. Peanut, no pote de 250 g com sabor de sobremesa e com o cupom.",
-        "Qual tem mais proteína por 100 g? A La Ganexa tem de 16 a 24 g, e a Dr. Peanut, de 17 a 20 g. A Natural, a Crocante e a Avelã Vegana da La Ganexa têm 24 g.",
-        "Qual pasta de amendoim não tem lactose? Entre as duas marcas, só a La Ganexa tem: a Natural, a Crocante e a Avelã Vegana, que dizem \"NÃO CONTÉM LACTOSE\". As dez pastas da Dr. Peanut contêm lactose.",
-        "Qual sai mais barata por 100 g? No pote grande, a La Ganexa de 1 kg, na maioria dos sabores, mesmo contra a Dr. Peanut com o cupom. No pote pequeno com sabor de sobremesa, a Dr. Peanut de 250 g, a R$ 9,32 por 100 g com o cupom. Confira o preço atual antes de decidir.",
-        "A La Ganexa tem cupom do site? Não. A La Ganexa não é parceira do site, e este texto não traz cupom dela. O cupom DREMCASACOMCECILIA é da Dr. Peanut."
+        "Dr. Peanut ou La Ganexa, qual é melhor? Depende do rótulo que você quer: a La Ganexa tem três pastas que a página diz sem lactose, e a Dr. Peanut tem pote pequeno de sobremesa com o mesmo preço em todos os sabores. O capítulo Quem escolhe o quê mostra cada caso.",
+        "Qual pasta de amendoim não tem lactose? Natural, Crocante e Avelã Vegana, da La Ganexa, cuja página diz “zero lactose”. Os 11 sabores da Dr. Peanut dizem que contêm.",
+        "Qual sai mais barata por 100 g? No pote grande, o de 1 kg da La Ganexa, na maioria dos sabores. Entre as pastas de sobremesa, a Dr. Peanut de 250 g sai abaixo dos potes de 450 g da La Ganexa. A conta está no capítulo Preço por 100 g.",
+        "Tem cupom para as duas? Sim: DREMCASACOMCECILIA na Dr. Peanut e CECILIA na La Ganexa, com 10% em cada site. Cada código vale só na loja dele, em pedidos separados.",
+        "Os cupons somam com a promoção? Sim, nas duas. Na La Ganexa, a loja marca dois kits como não cumulativos com cupom; no nosso teste, o checkout aceitou o código num deles, então confira a linha Descontos antes de pagar."
       ]
     }
   ],
   "decision": {
     "takeIf": [
-      "Quem quer pasta só de amendoim, vegana ou sem lactose: a La Ganexa, única com essas opções.",
-      "Quem quer pote pequeno com sabor de sobremesa pelo menor preço: a Dr. Peanut de 250 g, com o cupom."
+      "Dr. Peanut: você quer pote pequeno de sobremesa, com o mesmo preço em todos os sabores.",
+      "Dr. Peanut: você quer chegar ao frete grátis com um pedido menor, porque o mínimo dela é mais baixo nas duas faixas de região.",
+      "La Ganexa: você quer pasta só de amendoim, pasta que a página diz sem lactose ou o pote de 1 kg, mais barato por 100 g na maioria dos sabores."
     ],
     "skipIf": [
-      "Quem quer o pote grande mais barato: a Dr. Peanut perde na maioria dos sabores de 1 kg da La Ganexa, mesmo com cupom.",
-      "Quem quer pote pequeno da La Ganexa com sabor: ela parte de um preço por 100 g acima da Dr. Peanut de 250 g com cupom."
+      "Dr. Peanut: você precisa de pasta sem lactose; os 11 sabores dizem que contêm.",
+      "La Ganexa: você quer pasta de sobremesa em pote pequeno; as de 450 g saem mais caras por 100 g que a Dr. Peanut de 250 g, com os dois códigos.",
+      "As duas: você evita maltitol e sucralose e quer pasta de sobremesa; as de sobremesa com lista na página levam ao menos um dos dois."
     ]
   },
   "pros": [],
   "cons": [],
-  "cta": {
-    "text": "Entre no site da Dr. Peanut e digite o cupom DREMCASACOMCECILIA no carrinho: são 10% OFF em todo o site.",
-    "label": "Ir para a Dr. Peanut",
-    "url": "https://www.drpeanut.com.br/",
-    "sponsored": true
-  },
-  "coupon": "DREMCASACOMCECILIA",
-  "affiliate": "dr-peanut",
-  "editorialNote": "Podemos receber comissão pela Dr. Peanut. A La Ganexa não é parceira. Sem degustação.",
+  "affiliate": [
+    "dr-peanut",
+    "la-ganexa"
+  ],
+  "editorialNote": "Podemos receber comissão pelas duas lojas. Sem degustação: comparamos rótulo e preço.",
   "relatedArticles": [
-    {
-      "slug": "dr-peanut-qual-tamanho-compensa"
-    },
     {
       "slug": "dr-peanut-melhor-sabor"
     },
     {
-      "slug": "dr-peanut-e-saudavel"
+      "slug": "la-ganexa-e-boa"
+    },
+    {
+      "slug": "cupom-dr-peanut-como-usar"
+    },
+    {
+      "slug": "cupom-la-ganexa-como-usar"
     }
   ]
 }

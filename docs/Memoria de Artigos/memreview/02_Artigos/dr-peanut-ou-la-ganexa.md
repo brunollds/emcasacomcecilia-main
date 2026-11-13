@@ -8,7 +8,7 @@ reviewKind: "guia"
 type: "Comparativo de Suplemento"
 status: "publicado"
 responsavel: "Claude"
-proxima_acao: "revisão LG7 (Job 2): comparativo neutro das duas parceiras, na mesma URL"
+proxima_acao: "deploy da revisão LG7 com o GO do Bruno; depois, smoke, covers:check e IndexNow"
 bloqueado_por: null
 score_autoridade: 66
 score_conversao: 80
@@ -504,3 +504,50 @@ Contas e fatos da revisão do Fable conferidos contra a seção 5 do briefing e 
 - **Alt:** Pote aberto de pasta de amendoim Bueníssimo da Dr. Peanut com colher, avelãs e wafer, em cena promocional oficial, ao lado da pergunta Dr. Peanut ou La Ganexa?.
 - **Origem:** cena promocional oficial do Bueníssimo 600 g com pote aberto, colher, avelãs e wafer, a partir da fonte de 1200 px, com a advertência frontal e o peso preservados; sem foto nem logo da La Ganexa e sem preparo da equipe. Sem geração por IA.
 - **Lote 30 do piloto de capas (sequência 9 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-9-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo, no padrão vigente das capas (não é exceção nova ao Job 6). A capa anterior (`/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-capa-buenissimo.webp`) fica no CDN, sem uso como capa.
+
+## Revisão LG7 feita (13/11/2026): Job 2, Job 3 e Job 6
+
+O JSON virou artigo de várias lojas (`affiliate: ["dr-peanut", "la-ganexa"]`, sem `coupon` e sem `cta`, `updatedAt` 2026-11-13), na mesma URL, com o título e o `seoTitle` de antes. Description e metaDescription pelos rascunhos acima; `editorialNote` "Podemos receber comissão pelas duas lojas. Sem degustação: comparamos rótulo e preço." (os artigos da La Ganexa no ar já dizem que podemos receber comissão pelo cupom).
+
+**Leituras de 13/11/2026.**
+
+- Dr. Peanut, no Chrome (a API pública da VTEX deu 429): 11 sabores de pasta à venda. O Beijinho saiu. O Chocolate Branco voltou, só em 600 g. Só 250 g: Avelã, Bombom Italiano, Caramelo Salgado, Doce de Leite e Leite em Pó. Só 600 g: Banoffee e Chocolate Branco. Os dois tamanhos: Brownie, Bueníssimo, Cookies & Cream e Pistache.
+- Preços da Dr. Peanut: R$ 25,89 (de R$ 28,90) no 250 g e R$ 59,89 (de R$ 64,90) no 600 g, iguais em todos os sabores.
+- Tabelas da Dr. Peanut: as 11 foram lidas nas imagens do vteximg e batem com o quadro de 16/10.
+- Frete da Dr. Peanut: o topo do site diz "acima de R$ 149,90" no Sul e no Sudeste e "acima de R$ 199,90" nas demais regiões. O site não mostra Pix.
+- La Ganexa: o catálogo e as tabelas lidos para o LG5 no mesmo dia. A Natural e a Crocante têm o mesmo arquivo de tabela. A Mousse de Brigadeiro está sem tabela. A Cookies tem tabelas diferentes no pote de 450 g e no de 1 kg.
+
+**Erros do texto de 25/10 corrigidos:**
+
+- o sódio da Dr. Peanut vai até 326 mg (Caramelo Salgado), não até 193 mg;
+- o Creme de Avelã de 1 kg custa R$ 114,99, não R$ 99,91;
+- o açúcar total máximo da Dr. Peanut é 9 g, não 10 g;
+- são 11 sabores, não 10.
+
+**Contas com o código das duas (preço × 0,9 por 100 g):**
+
+- Dr. Peanut: R$ 9,32 no 250 g e R$ 8,98 no 600 g.
+- La Ganexa: de R$ 8,00 a R$ 16,00 no 450 g e de R$ 5,40 a R$ 10,35 no 1 kg.
+- No pote de 1 kg, a La Ganexa sai abaixo da Dr. Peanut de 600 g em 7 dos 10 sabores. A Leitinho e a Leitinho Black ficam um centavo acima.
+
+**Job 3 (Fable 5.2) e as duas leituras à parte (checagem de fatos e neutralidade).** As 11 correções obrigatórias do Fable foram aplicadas: o esteviol do Cookies e do Pistache, as legendas do Cookies e da porção, o glúten da La Ganexa pelo FAQ, o bastidor e os números repetidos no veredito, a abertura do capítulo da La Ganexa, o destaque. Pela neutralidade:
+
+- quatro relacionados, dois de cada marca;
+- a foto do Bueníssimo ganhou link;
+- uma foto por marca em cada capítulo de rótulo, e uma de cada no "sabor contra sabor";
+- dois links de produto de cada loja;
+- o link para o LG5 no capítulo da La Ganexa, no mesmo lugar do link da Dr. Peanut para os sabores;
+- o perfil do frete grátis com pedido menor (Dr. Peanut) no veredito;
+- a lactose das duas marcas citada pela página;
+- o quadro `decision` por marca;
+- o frete das duas com a mesma frase: o mínimo conta depois do cupom nas duas. Para a La Ganexa, a fonte é a palavra do Bruno de 13/11, o mesmo do LG1 e do LG4, e o dossiê foi alinhado.
+
+C1: 0 "R$" na resposta rápida (59 palavras, 3 frases). C2: 1 data no corpo, na legenda da tabela de preço. Snippet: 136 caracteres, o primeiro código até o caractere 18. Subtítulo: 129.
+
+**Capa e imagens (Job 6; aprovadas pelo Bruno em 13/11/2026):**
+
+- **Capa:** `dr-peanut-ou-la-ganexa-capa-v3.webp`, painel lateral verde com os dois logos, "Dr. Peanut ou / La Ganexa?", "rótulo e preço por 100 g" e os dois códigos, cada um com o nome da loja. A foto é o pote de Avelã de 250 g da Dr. Peanut ao lado do pote de 1 kg de Creme de Avelã da La Ganexa (opção A; a B era Brownie e Mousse de Brigadeiro).
+- **Quadro de preço:** `dr-peanut-ou-la-ganexa-quadro-preco-100g-v2.webp` (1200 × 900), refeito com o preço do site e o preço com o código das duas, sem destaque para nenhuma marca.
+- **Fotos do corpo:** o Bueníssimo de 600 g (já no ar), o Doce de Leite de 250 g da Dr. Peanut, o Doce de Leite com Castanha de Caju e o Creme de Avelã de 450 g da La Ganexa. Todas com `href` e `store`. As da La Ganexa são renders da loja ("Imagem: La Ganexa.").
+- **CDN:** as cinco imagens novas subiram em 13/11/2026 (`upload-ftps.py`, `verify-remote.mjs`, `prepare-delivery.mjs --append`). Os JSONs seguem com os caminhos locais.
+
