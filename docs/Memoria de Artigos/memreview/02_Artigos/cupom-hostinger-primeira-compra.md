@@ -7,9 +7,9 @@ parceiro_slug: "hostinger"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redação PT (Job 2), depois a família de 10 idiomas"
+proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "PC-H (série primeira compra, próxima fase)"
@@ -18,7 +18,7 @@ translationKey: "hostinger-primeira-compra"
 modo_i18n: "familia-10-idiomas"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
-status_i18n: "pendente"
+status_i18n: "escrito-10-idiomas"
 affiliate: "hostinger"
 coupon: "SONAR20"
 ---
@@ -204,3 +204,32 @@ print do carrinho com o código (o do `cupom-hostinger-indicacao`, já no site),
 | Domínio avulso fora | FAQ; contrato | verificado |
 | Plano mensal em todo caso | contrato x teste | pendência 1: "testado no plano de 1 mês" |
 | Mínimo, teto, Pix, soma com outro cupom, definição de cliente novo | nenhuma | não escrever |
+
+## Redação e família (13/11/2026)
+
+PT em `content/reviews/cupom-hostinger-primeira-compra.json` (id 943); as 9 versões com os ids 946 a 954 e os slugs do briefing.
+
+**Processo.** Job 2 em português; checagem de fatos e Job 3 (Fable 5.2) em paralelo, aplicados; as 9 versões geradas pelo Sonnet 5.5 a partir do PT revisado e conferidas uma a uma contra o PT, o briefing e o `test:review-i18n`. Fora do PT: `isNew` false e `hideFromPortugueseListings` true.
+
+**Capa (Job 6; aprovada pelo Bruno em 13/11/2026).** O Bruno não quis o nome da loja repetido embaixo do logo: no lugar dele vai "Bem-vindo" na capa do PT e "Welcome" na capa das outras 9 versões. Por isso a família tem dois arquivos de capa, `-capa.webp` (PT) e `-capa-en.webp` (os 9). As duas estão no CDN (`upload-ftps.py`, `verify-remote.mjs`, `prepare-delivery.mjs --append`), e o manifesto recebeu só inserções.
+- Foto da capa: a tela do painel hPanel, da página oficial `hostinger.com/br/cupom` (opção A da primeira folha). A tela de demonstração mostra "+23%" de visitantes; o Bruno aprovou assim.
+
+**Releitura do carrinho (Chrome, 13/11/2026, `hostinger.com/br`, sem login).** O plano aparece como "Cloud Startup" na página e "Startup" no carrinho, com o aviso "Preço da Black Friday já aplicado".
+
+| Ciclo | Preço do carrinho | Com o SONAR20 | Renovação que o carrinho mostra |
+|---|---|---|---|
+| 1 mês | R$ 139,99 | R$ 111,99 | R$ 139,99 por mês |
+| 12 meses | R$ 479,88 | R$ 383,90 | R$ 129,99 por mês, a cada 12 meses |
+| 24 meses | R$ 959,76 | R$ 767,81 | R$ 129,99 por mês, a cada 12 meses |
+| 48 meses | R$ 1.919,52 | R$ 1.535,62 | R$ 129,99 por mês, a cada 12 meses |
+
+Os valores de 48 meses e de 1 mês são os do teste de 07/11. A tabela do PT passou a ter os quatro ciclos, com a data de 13/11. O valor da renovação não entra no texto.
+
+**Decisões do texto.**
+
+- "Mensal ou anual" saiu da resposta rápida, do snippet e do FAQ 1 (pendência 1 do briefing). O FAQ do plano mensal diz "No nosso teste, sim".
+- A imagem do carrinho (plano Single de 48 meses) fica em "Onde colar o código", com a legenda dizendo o plano e que a economia da linha soma a campanha com o cupom.
+- "Onde colar o código" avisa que o Cloud Startup não entrou pelo link no teste: se a linha "Cupom aplicado" não aparecer, cole o código.
+- Fora do PT: só o teste do site global de 29/10 (US$ 383,52 por US$ 306,82), como o dossiê registra; a tabela fica com a linha de 48 meses, e o texto não afirma valor de outro ciclo. As versões da família `hostinger-cupom-como-funciona` citam 07/11 para o mesmo teste: vale alinhar numa revisão.
+
+- Pendente: reler o carrinho depois da Black Friday (o preço de campanha muda) e, se houver teste do plano mensal no site global, a frase do mensal fora do PT.

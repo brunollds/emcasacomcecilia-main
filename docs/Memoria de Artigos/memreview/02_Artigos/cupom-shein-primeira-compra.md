@@ -7,9 +7,9 @@ parceiro_slug: "shein"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia do Código de Indicação"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redação PT (Job 2), depois a família de 10 idiomas"
+proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "PC-S (série primeira compra, próxima fase)"
@@ -18,7 +18,7 @@ translationKey: "shein-primeira-compra"
 modo_i18n: "familia-10-idiomas"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
-status_i18n: "pendente"
+status_i18n: "escrito-10-idiomas"
 affiliate: "shein"
 coupon: "4CW5Y"
 ---
@@ -181,3 +181,23 @@ pesquisa do código (a do `codigo-de-indicacao-shein`, já no site).
 | Funciona para quem já comprou | `codigo-de-indicacao-shein` | verificado |
 | Percentual, valor, "toda compra", "só no app" | nenhuma | não escrever |
 | Benefício de novo usuário, K49L457, cupons da plataforma | campanha `shein-novos-usuarios`; [[primeira-compra-semente-shein]] | só pelo banner automático; o corpo não cita |
+
+## Redação e família (13/11/2026)
+
+PT em `content/reviews/cupom-shein-primeira-compra.json` (id 945); as 9 versões com os ids 964 a 972 e os slugs do briefing.
+
+**Processo.** Job 2 em português; checagem de fatos e Job 3 (Fable 5.2) em paralelo, aplicados; as 9 versões geradas pelo Sonnet 5.5 a partir do PT revisado e conferidas uma a uma contra o PT, o briefing e o `test:review-i18n`. Fora do PT: `isNew` false e `hideFromPortugueseListings` true.
+
+**Capa (Job 6; aprovada pelo Bruno em 13/11/2026).** O Bruno não quis o nome da loja repetido embaixo do logo: no lugar dele vai "Bem-vindo" na capa do PT e "Welcome" na capa das outras 9 versões. Por isso a família tem dois arquivos de capa, `-capa.webp` (PT) e `-capa-en.webp` (os 9). As duas estão no CDN (`upload-ftps.py`, `verify-remote.mjs`, `prepare-delivery.mjs --append`), e o manifesto recebeu só inserções.
+- Foto da capa: duas mulheres escolhendo vestidos numa arara, com sacola de compra, da sala de imprensa oficial da SHEIN Group. O Bruno pediu "mulheres comprando roupas" e escolheu a opção A. Sem percentual na capa.
+
+**Decisões do texto.**
+
+- O 4CW5Y é sempre "código de indicação": pesquisado no app ou no site, abre a seleção de promoções e descontos. Sem percentual, sem valor e sem "só no app".
+- "Funciona no primeiro pedido e nos seguintes" vem da palavra do Bruno no handoff de 13/11.
+- O passo a passo ficou em três linhas, com o link para o `codigo-de-indicacao-shein`; a imagem do corpo é a do resultado da pesquisa.
+- A campanha de novo usuário (K49L457) não entra no corpo: aparece sozinha, pelo banner.
+
+- Pendente: a campanha `shein-novos-usuarios` está com `verifiedAt` de 02/11 (mais de 7 dias): avisar a sessão de campanhas. Reler no navegador a pesquisa do 4CW5Y sem login.
+- Título do PT: "Cupom da SHEIN na primeira compra: ..." no lugar de "Cupom SHEIN primeira compra: ...". O `test:build-output` barra as palavras "Cupom SHEIN" no painel da SHEIN na home, onde o título do artigo aparece. O `seoTitle` segue com a consulta exata.
+- Hostinger (regra do site): as 10 versões levam a assinatura do Bruno em `authors`, como toda a loja.

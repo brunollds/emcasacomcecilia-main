@@ -220411,5 +220411,3837 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 943,
+    "slug": "cupom-hostinger-primeira-compra",
+    "locale": "pt",
+    "translationKey": "hostinger-primeira-compra",
+    "title": "Cupom Hostinger primeira compra: SONAR20 dá 20% no primeiro período do plano",
+    "seoTitle": "Cupom Hostinger primeira compra: SONAR20 dá 20%",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "O SONAR20 tira 20% do primeiro período do plano na Hostinger. Veja a conta de quatro ciclos, o que entra e o que fica fora, e por que o ciclo decide quanto você economiza.",
+    "metaDescription": "Para a primeira compra na Hostinger, use SONAR20: 20% no primeiro período do plano. A renovação sai pelo preço de tabela; escolha o ciclo antes.",
+    "publishedAt": "13 de novembro de 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa.webp",
+    "imageAlt": "Painel lateral verde com o logo da Hostinger, a palavra \"Bem-vindo\" e o código SONAR20, ao lado da tela do painel de controle hPanel, com o menu lateral e a lista de sites.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Use SONAR20 no campo de cupom do carrinho e confira os 20% no primeiro período antes de pagar. A renovação sai pelo preço de tabela, sem esse desconto.",
+      "label": "Ver os planos com desconto",
+      "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Cupom testado no carrinho da Hostinger. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-hostinger-indicacao"
+      },
+      {
+        "slug": "hostinger-renovacao-cupom-sonar20"
+      },
+      {
+        "slug": "hostinger-e-confiavel"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na Hostinger, use SONAR20: 20% OFF no primeiro período do plano, também sobre o preço de campanha. O desconto vale em compra nova, não na renovação nem em domínio avulso. Escolha o ciclo com calma, porque os 20% valem só no primeiro período; veja abaixo a conta de cada ciclo."
+        ]
+      },
+      {
+        "heading": "Cupom Hostinger primeira compra: qual usar",
+        "paragraphs": [
+          "Use o SONAR20. Ele dá 20% no primeiro período de um plano novo na Hostinger, e o código entra no campo de cupom do carrinho.",
+          "Código achado em site de cupom pode não funcionar. O SONAR20 é o que testamos no carrinho, e as condições dele estão na página do [cupom Hostinger](/cupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "O primeiro pedido decide o ciclo",
+        "paragraphs": [
+          "Os 20% valem só no primeiro período, então o ciclo que você escolhe no primeiro pedido decide por quantos meses o desconto rende. O plano de 1 mês serve para testar a hospedagem: você paga menos agora, mas o mês sai mais caro e a renovação chega ao fim do mês. Os ciclos de 12, 24 e 48 meses servem para quem já decidiu ficar: os 20% valem sobre o período inteiro, e a renovação só chega no fim dele."
+        ],
+        "comparisonTable": {
+          "caption": "Plano Cloud Startup no carrinho, em 13/11/2026: preço sem o código e com o SONAR20",
+          "headers": [
+            "Ciclo",
+            "Sem o código",
+            "Com o SONAR20",
+            "Quando renova"
+          ],
+          "rows": [
+            [
+              "1 mês",
+              "R$ 139,99",
+              "R$ 111,99",
+              "Ao fim do primeiro mês"
+            ],
+            [
+              "12 meses",
+              "R$ 479,88",
+              "R$ 383,90",
+              "Ao fim dos 12 meses"
+            ],
+            [
+              "24 meses",
+              "R$ 959,76",
+              "R$ 767,81",
+              "Ao fim dos 24 meses"
+            ],
+            [
+              "48 meses",
+              "R$ 1.919,52",
+              "R$ 1.535,62",
+              "Ao fim dos 48 meses"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O carrinho também mostra o preço de renovação abaixo do plano. Confira esse valor antes de escolher o ciclo, porque é ele que você paga quando o período acaba."
+        ]
+      },
+      {
+        "heading": "Quanto fica",
+        "paragraphs": [
+          "Nossa conta, com os preços do carrinho do teste: no ciclo de 48 meses, os 20% tiram R$ 383,90 do total; no de 12 meses, R$ 95,98; no de 1 mês, R$ 28,00. Em reais, o ciclo longo economiza mais; o percentual é o mesmo em todos.",
+          "Os 20% entram sobre o preço que o carrinho já mostra, que no nosso teste era o da [Black Friday da Hostinger](/reviews/black-friday-hostinger). O preço de campanha muda; confira o total no resumo antes de pagar."
+        ]
+      },
+      {
+        "heading": "O que entra e o que fica fora",
+        "paragraphs": [
+          "O SONAR20 vale em compra nova de planos de hospedagem, de VPS, de e-mail profissional e do Reach, a ferramenta de e-mail marketing da Hostinger. Ficam fora o registro de domínio avulso e a renovação de qualquer produto."
+        ]
+      },
+      {
+        "heading": "E depois do primeiro pedido?",
+        "paragraphs": [
+          "Quem já tem conta na Hostinger também usa o SONAR20 ao contratar um produto novo, mas a renovação do que já tem não entra.",
+          "O preço de renovação de cada plano e o reembolso estão em [renovação da Hostinger](/reviews/hostinger-renovacao-cupom-sonar20)."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "O caminho é o mesmo de qualquer plano:"
+        ],
+        "bullets": [
+          "Escolha o plano e o período e siga para o carrinho.",
+          "No resumo do pedido, clique em “Tem um cupom de desconto?”, cole SONAR20 e aplique.",
+          "Confira o desconto no total antes de pagar."
+        ],
+        "postParagraphs": [
+          "O link deste artigo já leva o SONAR20, mas nem todo plano entra com ele aplicado: no nosso teste, o Cloud Startup da tabela não entrou pelo link. Se a linha “Cupom aplicado” não aparecer no resumo, cole o código no campo.",
+          "Para o que o código cobre em cada plano, veja [como usar o cupom Hostinger](/reviews/cupom-hostinger-indicacao)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom.webp",
+            "alt": "Resumo do pedido no carrinho da Hostinger com o plano Single de 48 meses, a linha Cupom aplicado e a etiqueta SONAR20",
+            "caption": "O SONAR20 aplicado no resumo do pedido, num teste nosso com o plano Single de 48 meses. A economia da linha soma a campanha da loja com o cupom. Imagem: captura do Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.096
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Hostinger de primeira compra? Tem: o SONAR20 dá 20% no primeiro período de um plano novo.",
+          "O cupom Hostinger vale no plano mensal? No nosso teste, sim: o plano de 1 mês também teve os 20%. Confira o desconto no carrinho do ciclo que você escolher.",
+          "O SONAR20 dá desconto na renovação? Não. A renovação sai pelo preço de tabela, que aparece no carrinho abaixo do plano.",
+          "O cupom vale para domínio? Não no domínio avulso. Ele vale em compra nova de hospedagem, VPS, e-mail profissional e Reach."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 945,
+    "slug": "cupom-shein-primeira-compra",
+    "locale": "pt",
+    "translationKey": "shein-primeira-compra",
+    "title": "Cupom da SHEIN na primeira compra: o que o código de indicação 4CW5Y faz no primeiro pedido",
+    "seoTitle": "Cupom SHEIN primeira compra: o que o 4CW5Y faz",
+    "type": "Guia do Código de Indicação",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O 4CW5Y não é cupom de checkout: pesquisado no app ou no site da SHEIN, abre uma seleção de promoções e descontos, no primeiro pedido e nos seguintes. Veja onde pesquisar.",
+    "metaDescription": "O 4CW5Y é código de indicação da SHEIN para o primeiro pedido e os seguintes: pesquise no app ou no site e veja a seleção de promoções e descontos.",
+    "publishedAt": "13 de novembro de 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/shein/cupom-shein-primeira-compra-capa.webp",
+    "imageAlt": "Painel lateral verde com o logo da SHEIN, a palavra \"Bem-vindo\" e o código de indicação 4CW5Y, ao lado de duas mulheres escolhendo vestidos em uma arara com sacolas de compras, em foto de divulgação da SHEIN.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Abra a SHEIN pelo link da Cecília ou copie o 4CW5Y e pesquise no app ou no site da SHEIN",
+      "label": "Abrir a SHEIN",
+      "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Regras das páginas oficiais da SHEIN. Podemos receber comissão pelas compras.",
+    "relatedArticles": [
+      {
+        "slug": "codigo-de-indicacao-shein"
+      },
+      {
+        "slug": "shein-e-confiavel"
+      },
+      {
+        "slug": "black-friday-shein"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na primeira compra na SHEIN, use o 4CW5Y, o código de indicação da Cecília: pesquise o código no app ou no site e veja uma seleção de produtos, promoções e descontos. Quanto e em quais peças, quem decide é a SHEIN. Ele não vai no campo de cupom e funciona também para quem já comprou."
+        ]
+      },
+      {
+        "heading": "Cupom SHEIN primeira compra: o que usar",
+        "paragraphs": [
+          "Para a primeira compra na SHEIN, use o 4CW5Y, o código de indicação da Cecília: ele se pesquisa na busca do app ou do site, e não no campo de cupom.",
+          "Os valores de primeira compra anunciados em sites de cupom costumam vir sem fonte da SHEIN: antes de contar com um deles, confira na própria SHEIN. As campanhas em vigor ficam na nossa página de [cupom SHEIN](/cupons/shein)."
+        ]
+      },
+      {
+        "heading": "Indicação não é cupom de checkout",
+        "paragraphs": [
+          "O 4CW5Y não vai no campo de cupom do carrinho. Pesquisado no app ou no site, ele abre a página da SHEIN ligada ao código, e o desconto aparece nas peças dessa seleção.",
+          "A loja informa: as vantagens aparecem nas páginas de campanha e de produto e mudam com frequência. Quanto e em quais peças, quem decide é a SHEIN.",
+          "Por isso, ao montar o carrinho, confira o preço final de cada peça antes de pagar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+            "alt": "Página da SHEIN aberta pela pesquisa do 4CW5Y, com o título \"Acho que você pode gostar\" e peças com selo de desconto",
+            "caption": "A página que a pesquisa pelo 4CW5Y abre: o desconto aparece marcado em cada peça.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7581
+          }
+        ]
+      },
+      {
+        "heading": "Nos pedidos seguintes, o código segue valendo",
+        "paragraphs": [
+          "Para os pedidos seguintes, o código é o mesmo: o 4CW5Y segue valendo como código de indicação.",
+          "A página abre até sem login: o código não depende de ser o primeiro pedido."
+        ]
+      },
+      {
+        "heading": "Onde pesquisar o código",
+        "paragraphs": [
+          "São três passos, no app ou no site da SHEIN:"
+        ],
+        "bullets": [
+          "Pesquise 4CW5Y na busca do app ou do site.",
+          "Escolha as peças da página que abrir.",
+          "Monte o carrinho a partir dela."
+        ],
+        "postParagraphs": [
+          "O caminho mais curto é o botão da loja aqui no guia: o link da Cecília já abre a página do 4CW5Y, sem copiar nada. O passo a passo com as telas da busca está em [Código de indicação SHEIN: onde colocar e como usar](/reviews/codigo-de-indicacao-shein)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom SHEIN de primeira compra? Para o primeiro pedido, o código da Cecília é o 4CW5Y, um código de indicação: pesquise no app ou no site e veja a seleção que a busca abre.",
+          "O 4CW5Y é cupom? Não. É código de indicação, pesquisado no app ou no site, e não vai no campo de cupom do carrinho.",
+          "O 4CW5Y funciona para quem já comprou? Funciona. O código vale também nos pedidos seguintes, e a pesquisa não exige login.",
+          "O 4CW5Y vale no site e no app? Vale nos dois: a busca do app e a do site abrem a página do código."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 944,
+    "slug": "codigo-yesstyle-primeira-compra-cecilia010",
+    "locale": "pt",
+    "translationKey": "yesstyle-primeira-compra",
+    "title": "YesStyle primeira compra: CECILIA010 dá 5% no código de recompensa e 2% nas seguintes",
+    "seoTitle": "Código CECILIA010 na YesStyle: 5% na 1ª compra, 2% depois",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Na YesStyle, o CECILIA010 dá 5% extra no primeiro pedido e 2% nos seguintes, no campo Reward Code. Veja o que muda de um pedido para o outro e o que conferir antes.",
+    "metaDescription": "CECILIA010 é código de recompensa da YesStyle: 5% na 1ª compra e 2% nas seguintes, no campo Reward Code. Veja o que conferir no 1º pedido.",
+    "publishedAt": "13 de novembro de 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa.webp",
+    "imageAlt": "Painel lateral verde com o logo da YesStyle, a palavra \"Bem-vindo\", o rótulo \"Reward Code:\" e o código de recompensa CECILIA010, ao lado de uma mulher sorrindo, com hidratante na bochecha, segurando um tubo da Beauty of Joseon.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Cole o CECILIA010 no campo Reward Code: 5% extra na primeira compra e 2% nas seguintes.",
+      "label": "Ir para a YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Links de afiliado: podemos receber comissão pelos links e pelo Reward Code CECILIA010.",
+    "relatedArticles": [
+      {
+        "slug": "codigo-cecilia010-yesstyle-como-usar"
+      },
+      {
+        "slug": "yesstyle-app-como-comprar-codigo-de-recompensa"
+      },
+      {
+        "slug": "yesstyle-entrega-no-brasil-e-portugal"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na primeira compra na YesStyle, o CECILIA010 dá 5% extra; nas seguintes, 2%. É código de recompensa, não cupom: vai no campo Reward Code, separado do campo de cupom. A entrega ao Brasil está suspensa: antes de montar o carrinho, confira se a loja entrega no seu país."
+        ]
+      },
+      {
+        "heading": "YesStyle primeira compra: o que usar",
+        "paragraphs": [
+          "Vai fazer o primeiro pedido na YesStyle? Use o CECILIA010 no campo Reward Code. A loja informa: 5% na primeira compra e 2% nas seguintes.",
+          "Código achado em site de cupom pode não funcionar. O que vale é a linha do desconto no resumo do pedido, antes de pagar. As condições estão na página do [código de recompensa YesStyle](/cupons/yesstyle)."
+        ]
+      },
+      {
+        "heading": "Código de recompensa não é cupom",
+        "paragraphs": [
+          "O checkout tem dois campos de código: o de cupom e o Reward Code. O CECILIA010 é código de recompensa e vai no Reward Code, sem ocupar o campo de cupom."
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "Na segunda compra, o CECILIA010 segue valendo, com 2% extra. O código e o campo são os mesmos: só o percentual muda."
+        ]
+      },
+      {
+        "heading": "Antes do primeiro pedido: a entrega",
+        "paragraphs": [
+          "Antes de montar o carrinho, veja o destino. A YesStyle entrega em Portugal. Para o Brasil, a entrega está suspensa no site e no app, e o código não muda isso.",
+          "Quem mora em Portugal encontra o prazo, o frete e o imposto no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
+        ]
+      },
+      {
+        "heading": "Onde colar o código",
+        "paragraphs": [
+          "O campo muda de nome conforme a tela. Estes são os dois caminhos:"
+        ],
+        "bullets": [
+          "**No site:** no checkout, o campo se chama Reward Code ou Código de Recompensa. Digite CECILIA010 e aplique.",
+          "**No app:** toque em Enter Code e digite no campo Influencer / Rewards Code, que fica embaixo do Coupon Code. Toque em Apply."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "Três telas do app da YesStyle: a sacola com a linha Coupon or Influencer / Rewards Code, a tela Enter Code com os campos Coupon Code e Influencer / Rewards Code, e o resumo com o CECILIA010 aplicado",
+          "caption": "Os três passos no app Android, com a conta em inglês e entrega nos Estados Unidos, sem finalizar compra.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "postParagraphs": [
+          "No nosso teste no app, o código foi aceito e o resumo mostrou a linha Influencer Code Discount (5% OFF). O passo a passo com telas do site está em [como usar o CECILIA010](/reviews/codigo-cecilia010-yesstyle-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem código YesStyle de primeira compra? Tem: o CECILIA010 dá 5% extra no primeiro pedido e 2% nos seguintes, no campo Reward Code.",
+          "O CECILIA010 vale na segunda compra? Vale, com 2% extra nos pedidos seguintes.",
+          "Em que campo entra o CECILIA010? No Reward Code, separado do campo de cupom: ele é um código de recompensa.",
+          "O CECILIA010 vale no app? Vale: digite o código no campo Influencer / Rewards Code, na tela Enter Code."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 946,
+    "slug": "hostinger-coupon-first-purchase",
+    "locale": "en",
+    "translationKey": "hostinger-primeira-compra",
+    "title": "Hostinger coupon for your first purchase: SONAR20 takes 20% off the first billing period",
+    "seoTitle": "Hostinger coupon first time: SONAR20 gives 20% off",
+    "type": "Coupon Guide",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Editing and analysis",
+        "initials": "BL"
+      }
+    ],
+    "description": "SONAR20 takes 20% off the first billing period of a Hostinger plan. See the cart math, what is covered and what is left out, and why the billing term decides how much you save.",
+    "metaDescription": "For your first Hostinger purchase, use SONAR20: 20% off the first period of the plan. Renewal is charged at the list price, so pick your term first.",
+    "publishedAt": "November 13, 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+    "imageAlt": "Green side panel with the Hostinger logo, the word \"Welcome\" and the code SONAR20, next to the Hostinger control panel (hPanel) screen showing the side menu and the list of websites.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Enter SONAR20 in the cart's coupon field and check the 20% off the first period before you pay. Renewal is charged at the list price, without this discount.",
+      "label": "See plans with SONAR20",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Coupon tested in the Hostinger cart. We may earn a commission from the code.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-coupon-code-referral"
+      },
+      {
+        "slug": "hostinger-renewal-price-coupon-sonar20"
+      },
+      {
+        "slug": "is-hostinger-legit"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "For your first Hostinger purchase, use SONAR20: 20% off the first period of the plan, taken from the campaign price too. The discount applies to a new purchase, not to renewals or standalone domains. Choose your billing term with care, because the 20% covers only the first period; the math is below."
+        ]
+      },
+      {
+        "heading": "Hostinger first-time coupon: which one to use",
+        "paragraphs": [
+          "Use SONAR20. It gives 20% off the first period of a new Hostinger plan, and you paste the code into the cart's coupon field.",
+          "A code found on a coupon aggregator may not work. SONAR20 is the one we tested in the cart, and its conditions are on the [Hostinger coupon](/en/coupons/hostinger) page."
+        ]
+      },
+      {
+        "heading": "Your first order decides the term",
+        "paragraphs": [
+          "The 20% covers only the first period, so the term you pick on your first order decides how many months the discount covers. A short term suits someone who wants to try the hosting first, and the renewal arrives sooner. A longer term suits someone who has already decided to stay: the 20% applies to the whole period, and renewal only arrives at the end of it."
+        ],
+        "comparisonTable": {
+          "caption": "Cloud Startup plan in the global-site cart on October 29, 2026: price without the code and with SONAR20",
+          "headers": [
+            "Term",
+            "Without the code",
+            "With SONAR20",
+            "When it renews"
+          ],
+          "rows": [
+            [
+              "48 months",
+              "US$ 383.52",
+              "US$ 306.82",
+              "At the end of the 48 months"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "The cart also shows the renewal price below the plan. Check that amount before you choose a term, because it is what you pay when the period ends."
+        ]
+      },
+      {
+        "heading": "How much you save",
+        "paragraphs": [
+          "Our math, from the cart prices in the test: on the 48-month term, the 20% takes US$ 76.70 off the total. The 20% comes off the first period of whichever term you choose, so the amount you save depends on that term.",
+          "The 20% applies to the price the cart already shows, which in our test was the [Hostinger Black Friday](/en/reviews/hostinger-black-friday) price. Campaign prices change; check the total in the order summary before you pay."
+        ]
+      },
+      {
+        "heading": "What is covered and what is left out",
+        "paragraphs": [
+          "SONAR20 applies to a new purchase of hosting plans, VPS, professional email and Reach, Hostinger's email marketing tool. A standalone domain registration and the renewal of any product are left out."
+        ]
+      },
+      {
+        "heading": "And after the first order?",
+        "paragraphs": [
+          "If you are already a Hostinger customer, you can still use SONAR20 when you buy a new product, but the renewal of something you already have is not covered.",
+          "The renewal price of each plan and the refund rules are in [Hostinger renewal](/en/reviews/hostinger-renewal-price-coupon-sonar20)."
+        ]
+      },
+      {
+        "heading": "Where to paste the code",
+        "paragraphs": [
+          "The path is the same for any plan:"
+        ],
+        "bullets": [
+          "Choose the plan and the period and go to the cart.",
+          "In the order summary, click “Have a coupon code?”, paste SONAR20 and apply it.",
+          "Check the discount in the total before you pay."
+        ],
+        "postParagraphs": [
+          "If the discount does not show up in the summary, paste the code into the field yourself.",
+          "For what the code covers on each plan, see [how to use the Hostinger coupon](/en/reviews/hostinger-coupon-code-referral)."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Is there a Hostinger coupon for first-time buyers? Yes: SONAR20 gives 20% off the first period of a new plan.",
+          "Does SONAR20 give a discount on renewal? No. Renewal is charged at the list price, which the cart shows below the plan.",
+          "Does the coupon work on a domain? Not on a standalone domain. It applies to a new purchase of hosting, VPS, professional email and Reach.",
+          "Does the 20% last the whole time I have the plan? No. It covers the first period of the term you choose; after that, the renewal price applies."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 947,
+    "slug": "cupon-hostinger-primera-compra",
+    "locale": "es",
+    "translationKey": "hostinger-primeira-compra",
+    "title": "Cupón Hostinger primera compra: SONAR20 da 20% en el primer período del plan",
+    "seoTitle": "Cupón Hostinger primera compra: SONAR20 da 20%",
+    "type": "Guía & Cupones",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edición y análisis",
+        "initials": "BL"
+      }
+    ],
+    "description": "SONAR20 descuenta 20% del primer período del plan en Hostinger. Mira la cuenta del plan de 48 meses, qué entra y qué queda fuera, y por qué el ciclo decide cuánto ahorras.",
+    "metaDescription": "Para tu primera compra en Hostinger, usa SONAR20: 20% en el primer período del plan. La renovación sale a precio de lista; elige el ciclo antes de pagar.",
+    "publishedAt": "13 de noviembre de 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+    "imageAlt": "Panel lateral verde con el logo de Hostinger, la palabra \"Welcome\" y el código SONAR20, junto a la pantalla del panel de control hPanel con el menú lateral y la lista de sitios web.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Usa SONAR20 en el campo de cupón del carrito y comprueba el 20% en el primer período antes de pagar. La renovación sale a precio de lista, sin ese descuento.",
+      "label": "Ver los planes con descuento",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Cupón probado en el carrito de Hostinger. Podemos recibir una comisión por el cupón.",
+    "relatedArticles": [
+      {
+        "slug": "cupon-hostinger-codigo-de-referido"
+      },
+      {
+        "slug": "hostinger-renovacion-cupon-sonar20"
+      },
+      {
+        "slug": "hostinger-es-confiable"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Para tu primera compra en Hostinger, usa SONAR20: 20% de descuento en el primer período del plan, también sobre el precio de campaña. El descuento vale en una compra nueva, no en la renovación ni en un dominio suelto. Elige el ciclo con calma, porque los 20% valen solo en el primer período; abajo está la cuenta del plan de 48 meses."
+        ]
+      },
+      {
+        "heading": "Cupón Hostinger primera compra: cuál usar",
+        "paragraphs": [
+          "Usa SONAR20. Da 20% en el primer período de un plan nuevo en Hostinger, y el código se introduce en el campo de cupón del carrito.",
+          "Un código sacado de una web de cupones puede no funcionar. SONAR20 es el que probamos en el carrito, y sus condiciones están en la página del [cupón Hostinger](/es/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "El primer pedido decide el ciclo",
+        "paragraphs": [
+          "Los 20% valen solo en el primer período, así que el ciclo que eliges en el primer pedido decide durante cuántos meses rinde el descuento. Un ciclo corto sirve para probar el hosting, pero el ahorro es menor y la renovación llega pronto. Un ciclo largo, como el de 48 meses, sirve para quien ya decidió quedarse: los 20% valen sobre el período entero, y la renovación solo llega al final de ese período."
+        ],
+        "comparisonTable": {
+          "caption": "Plan Startup en el carrito del sitio global, el 29 de octubre de 2026: precio sin el código y con SONAR20",
+          "headers": [
+            "Ciclo",
+            "Sin el código",
+            "Con SONAR20",
+            "Cuándo renueva"
+          ],
+          "rows": [
+            [
+              "48 meses",
+              "US$ 383,52",
+              "US$ 306,82",
+              "Al final de los 48 meses"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "El carrito también muestra el precio de renovación debajo del plan. Revisa ese valor antes de elegir el ciclo, porque es el que pagas cuando termina el período."
+        ]
+      },
+      {
+        "heading": "Cuánto ahorras",
+        "paragraphs": [
+          "Nuestra cuenta, con los precios del carrito de la prueba: en el ciclo de 48 meses, los 20% restan US$ 76,70 del total. Los 20% valen en el primer período del ciclo que elijas; el porcentaje es el mismo en todos los ciclos, y el ahorro en dólares depende del precio de cada uno.",
+          "Los 20% se aplican sobre el precio que el carrito ya muestra, que en nuestra prueba era el de la [Black Friday de Hostinger](/es/reviews/black-friday-hostinger-ofertas). El precio de campaña cambia; revisa el total en el resumen antes de pagar."
+        ]
+      },
+      {
+        "heading": "Qué entra y qué queda fuera",
+        "paragraphs": [
+          "SONAR20 vale en compras nuevas de planes de hosting, de VPS, de correo profesional y de Reach, la herramienta de email marketing de Hostinger. Quedan fuera el registro de un dominio suelto y la renovación de cualquier producto."
+        ]
+      },
+      {
+        "heading": "¿Y después del primer pedido?",
+        "paragraphs": [
+          "Quien ya es cliente de Hostinger también puede usar SONAR20 al contratar un producto nuevo, pero la renovación de lo que ya tiene no entra.",
+          "El precio de renovación de cada plan y el reembolso están en [renovación de Hostinger](/es/reviews/hostinger-renovacion-cupon-sonar20)."
+        ]
+      },
+      {
+        "heading": "Dónde pegar el código",
+        "paragraphs": [
+          "El camino es el mismo para cualquier plan:"
+        ],
+        "bullets": [
+          "Elige el plan y el período y pasa al carrito.",
+          "En el resumen del pedido, haz clic en «Have a coupon code?», pega SONAR20 y aplícalo.",
+          "Comprueba el descuento en el total antes de pagar."
+        ],
+        "postParagraphs": [
+          "El enlace de este artículo ya lleva SONAR20, pero no todos los planes entran con el código aplicado. Si la línea del cupón no aparece en el resumen, pega el código en el campo.",
+          "Para saber qué cubre el código en cada plan, mira [cómo usar el cupón Hostinger](/es/reviews/cupon-hostinger-codigo-de-referido)."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Hay cupón Hostinger para la primera compra? Sí: SONAR20 da 20% en el primer período de un plan nuevo.",
+          "¿El cupón Hostinger vale en el plan mensual? Los 20% valen en el primer período del ciclo que elijas. Comprueba el descuento en el carrito del ciclo elegido antes de pagar.",
+          "¿SONAR20 da descuento en la renovación? No. La renovación sale a precio de lista, que aparece en el carrito debajo del plan.",
+          "¿El cupón vale para dominios? No para un dominio suelto. Vale en compras nuevas de hosting, VPS, correo profesional y Reach."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 948,
+    "slug": "code-promo-hostinger-premier-achat",
+    "locale": "fr",
+    "translationKey": "hostinger-primeira-compra",
+    "title": "Code promo Hostinger premier achat : SONAR20 donne 20 % sur la première période du forfait",
+    "seoTitle": "Code promo Hostinger premier achat : SONAR20, 20 %",
+    "type": "Guide du code promo",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Édition et analyse",
+        "initials": "BL"
+      }
+    ],
+    "description": "SONAR20 retire 20 % de la première période du forfait chez Hostinger. Voyez le calcul d'un panier testé, ce qui est couvert et pourquoi la durée choisie décide de votre économie.",
+    "metaDescription": "Pour un premier achat chez Hostinger, utilisez SONAR20 : 20 % sur la première période du forfait. Le renouvellement est au prix catalogue ; choisissez la durée avant de payer.",
+    "publishedAt": "13 novembre 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+    "imageAlt": "Bandeau latéral vert avec le logo Hostinger, le mot \"Welcome\" et le code SONAR20, à côté de l'écran du panneau de contrôle hPanel avec son menu latéral et la liste des sites.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Saisissez SONAR20 dans le champ de code promo du panier et vérifiez les 20 % sur la première période avant de payer. Le renouvellement est facturé au prix catalogue, sans cette réduction.",
+      "label": "Voir les forfaits avec la réduction",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Code testé dans le panier de Hostinger. Nous pouvons recevoir une commission grâce au code.",
+    "relatedArticles": [
+      {
+        "slug": "code-promo-hostinger-parrainage"
+      },
+      {
+        "slug": "hostinger-renouvellement-code-sonar20"
+      },
+      {
+        "slug": "hostinger-est-il-fiable"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Pour un premier achat chez [Hostinger](/fr/coupons/hostinger), utilisez **SONAR20** : 20 % de réduction sur la première période du forfait, y compris sur le prix de la campagne. La réduction vaut pour un nouvel achat, pas pour le renouvellement ni pour un domaine seul. Choisissez la durée avec soin, car les 20 % ne valent que sur la première période."
+        ]
+      },
+      {
+        "heading": "Code promo Hostinger premier achat : lequel utiliser",
+        "paragraphs": [
+          "Utilisez SONAR20. Il donne 20 % sur la première période d'un nouveau forfait chez Hostinger, et le code se saisit dans le champ de code promo du panier.",
+          "Un code trouvé sur un site de coupons peut ne pas fonctionner. SONAR20 est celui que nous avons testé dans le panier, et ses conditions figurent sur la [page du code promo Hostinger](/fr/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Le premier achat décide de la durée",
+        "paragraphs": [
+          "Les 20 % ne valent que sur la première période : la durée choisie à la première commande décide donc de combien de temps la réduction joue, et de la date à laquelle le prix catalogue s'applique. Si vous hésitez encore, une durée courte laisse le renouvellement arriver plus tôt ; si vous avez déjà décidé de rester, une durée longue étend les 20 % sur toute la période, et le renouvellement n'arrive qu'à la fin."
+        ],
+        "comparisonTable": {
+          "caption": "Forfait Cloud Startup, panier du site global, le 7 novembre 2026 : prix sans le code et avec SONAR20",
+          "headers": [
+            "Durée",
+            "Sans le code",
+            "Avec SONAR20",
+            "Renouvellement"
+          ],
+          "rows": [
+            [
+              "48 mois",
+              "383,52 USD",
+              "306,82 USD",
+              "À la fin des 48 mois"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Le panier affiche aussi le prix de renouvellement sous le forfait. Vérifiez cette valeur avant de choisir la durée, car c'est elle que vous payez quand la période se termine."
+        ]
+      },
+      {
+        "heading": "Combien vous économisez",
+        "paragraphs": [
+          "Notre calcul, avec les prix du panier testé : sur la durée de 48 mois, les 20 % retirent 76,70 USD du total. Le pourcentage est le même quelle que soit la durée ; le montant économisé grandit avec le prix de la période choisie.",
+          "Les 20 % s'appliquent sur le prix que le panier affiche déjà, qui était, lors de notre test, celui du [Black Friday de Hostinger](/fr/reviews/black-friday-hostinger-offres). Le prix de campagne change ; vérifiez le total dans le récapitulatif avant de payer."
+        ]
+      },
+      {
+        "heading": "Ce qui est couvert et ce qui ne l'est pas",
+        "paragraphs": [
+          "SONAR20 vaut pour un nouvel achat de forfaits d'hébergement, de VPS, de messagerie professionnelle et de Reach, l'outil d'e-mail marketing de Hostinger. Sont exclus l'enregistrement d'un domaine seul et le renouvellement de n'importe quel produit."
+        ]
+      },
+      {
+        "heading": "Et après la première commande ?",
+        "paragraphs": [
+          "Un client existant de Hostinger peut aussi utiliser SONAR20 pour souscrire un nouveau produit, mais le renouvellement de ce qu'il a déjà n'est pas couvert.",
+          "Le prix de renouvellement de chaque forfait et le remboursement sont détaillés dans [le renouvellement chez Hostinger](/fr/reviews/hostinger-renouvellement-code-sonar20)."
+        ]
+      },
+      {
+        "heading": "Où coller le code",
+        "paragraphs": [
+          "Le chemin est le même pour tous les forfaits :"
+        ],
+        "bullets": [
+          "Choisissez le forfait et la période, puis passez au panier.",
+          "Dans le récapitulatif de la commande, cliquez sur « Have a coupon code? », collez SONAR20 et appliquez-le.",
+          "Vérifiez la réduction dans le total avant de payer."
+        ],
+        "postParagraphs": [
+          "Le lien de cet article contient déjà SONAR20, mais tous les forfaits ne l'appliquent pas automatiquement. Si la réduction n'apparaît pas dans le récapitulatif, collez le code dans le champ.",
+          "Pour ce que le code couvre dans chaque forfait, voyez [comment utiliser le code promo Hostinger](/fr/reviews/code-promo-hostinger-parrainage)."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Existe-t-il un code promo Hostinger pour un premier achat ? Oui : SONAR20 donne 20 % sur la première période d'un nouveau forfait.",
+          "SONAR20 donne-t-il une réduction sur le renouvellement ? Non. Le renouvellement est facturé au prix catalogue, affiché dans le panier sous le forfait.",
+          "Les 20 % valent-ils sur toute la durée du forfait ? Ils valent sur la première période de la durée choisie. Vérifiez le total dans le panier avant de payer.",
+          "Le code vaut-il pour un domaine ? Pas pour un domaine seul. Il vaut pour un nouvel achat d'hébergement, de VPS, de messagerie professionnelle et de Reach."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 949,
+    "slug": "hostinger-gutschein-erster-kauf",
+    "locale": "de",
+    "translationKey": "hostinger-primeira-compra",
+    "title": "Hostinger-Gutschein für den ersten Kauf: SONAR20 gibt 20 % auf den ersten Zeitraum",
+    "seoTitle": "Hostinger-Gutschein erster Kauf: SONAR20 gibt 20 %",
+    "type": "Gutschein-Ratgeber",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redaktion und Analyse",
+        "initials": "BL"
+      }
+    ],
+    "description": "SONAR20 nimmt 20 % vom ersten Zeitraum Ihres Hostinger-Tarifs. Was die Laufzeit kostet, was der Code abdeckt und warum die gewählte Laufzeit über die Ersparnis entscheidet.",
+    "metaDescription": "Für Ihren ersten Hostinger-Kauf: SONAR20 gibt 20 % auf den ersten Zeitraum. Die Verlängerung läuft zum Tabellenpreis; wählen Sie die Laufzeit vorher.",
+    "publishedAt": "13. November 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+    "imageAlt": "Grünes Seitenfeld mit dem Hostinger-Logo, dem Wort \"Welcome\" und dem Code SONAR20, daneben der Bildschirm des Hostinger-Kontrollpanels (hPanel) mit Seitenmenü und Liste der Websites.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Geben Sie SONAR20 im Gutscheinfeld des Warenkorbs ein und prüfen Sie vor der Zahlung die 20 % auf den ersten Zeitraum. Die Verlängerung läuft zum Tabellenpreis, ohne diesen Rabatt.",
+      "label": "Tarife mit Rabatt ansehen",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Gutschein im Hostinger-Warenkorb getestet. Wir erhalten möglicherweise eine Provision über den Code.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-gutschein-empfehlungscode"
+      },
+      {
+        "slug": "hostinger-verlaengerung-code-sonar20"
+      },
+      {
+        "slug": "ist-hostinger-serioes"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Kurze Antwort",
+        "paragraphs": [
+          "Für Ihren ersten Kauf bei Hostinger verwenden Sie SONAR20: 20 % Rabatt auf den ersten Zeitraum des Tarifs, auch auf den Aktionspreis. Der Rabatt gilt bei einem Neukauf, nicht bei der Verlängerung und nicht bei einer einzelnen Domain. Wählen Sie die Laufzeit mit Bedacht, denn die 20 % gelten nur für den ersten Zeitraum; unten sehen Sie die Rechnung."
+        ]
+      },
+      {
+        "heading": "Hostinger-Gutschein für den ersten Kauf: welchen Code Sie nehmen",
+        "paragraphs": [
+          "Verwenden Sie SONAR20. Er gibt 20 % auf den ersten Zeitraum eines neuen Tarifs bei Hostinger, und Sie tragen ihn im Gutscheinfeld des Warenkorbs ein.",
+          "Codes von Gutscheinseiten funktionieren womöglich nicht. SONAR20 haben wir im Warenkorb getestet, und seine Bedingungen stehen auf der Seite zum [Hostinger-Gutschein](/de/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Die erste Bestellung entscheidet über die Laufzeit",
+        "paragraphs": [
+          "Die 20 % gelten nur für den ersten Zeitraum, also bestimmt die Laufzeit, die Sie bei der ersten Bestellung wählen, wie lange der Rabatt wirkt. Bei einer Laufzeit von 48 Monaten gilt der Rabatt für den gesamten gebuchten Zeitraum, und die Verlängerung kommt erst an dessen Ende."
+        ],
+        "comparisonTable": {
+          "caption": "Tarif Cloud Startup im Warenkorb, am 29. Oktober 2026, in US-Dollar: Preis ohne den Code und mit SONAR20",
+          "headers": [
+            "Laufzeit",
+            "Ohne den Code",
+            "Mit SONAR20",
+            "Wann sich der Tarif verlängert"
+          ],
+          "rows": [
+            [
+              "48 Monate",
+              "383,52 US$",
+              "306,82 US$",
+              "Am Ende der 48 Monate"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Der Warenkorb zeigt unter dem Tarif auch den Verlängerungspreis. Prüfen Sie diesen Betrag vor der Wahl der Laufzeit, denn er wird fällig, wenn der Zeitraum endet. Die 20 % gelten auch bei anderen Laufzeiten für den ersten Zeitraum; den Betrag zeigt der Warenkorb der gewählten Laufzeit."
+        ]
+      },
+      {
+        "heading": "Was Sie sparen",
+        "paragraphs": [
+          "Unsere Rechnung mit den Preisen aus dem Testwarenkorb: Bei 48 Monaten nehmen die 20 % 76,70 US$ vom Gesamtbetrag ab. Andere Laufzeiten rechnen Sie im Warenkorb der gewählten Laufzeit nach.",
+          "Die 20 % werden auf den Preis berechnet, den der Warenkorb ohnehin schon zeigt, und der enthält die Aktion der Hostinger. Der Aktionspreis ändert sich; prüfen Sie den Gesamtbetrag in der Übersicht vor der Zahlung."
+        ]
+      },
+      {
+        "heading": "Was abgedeckt ist und was nicht",
+        "paragraphs": [
+          "SONAR20 gilt beim Neukauf von Hosting-Tarifen, VPS, professionellen E-Mail-Postfächern und Reach, dem E-Mail-Marketing-Tool von Hostinger. Ausgenommen sind die einzelne Domain-Registrierung und die Verlängerung jedes Produkts."
+        ]
+      },
+      {
+        "heading": "Und nach der ersten Bestellung?",
+        "paragraphs": [
+          "Auch wer schon ein Hostinger-Konto hat, kann SONAR20 beim Kauf eines neuen Produkts nutzen, aber die Verlängerung bestehender Produkte ist nicht eingeschlossen.",
+          "Verlängerungspreis je Tarif und Erstattung stehen in [Hostinger-Verlängerung](/de/reviews/hostinger-verlaengerung-code-sonar20)."
+        ]
+      },
+      {
+        "heading": "Wo der Code hingehört",
+        "paragraphs": [
+          "Der Weg ist bei jedem Tarif derselbe:"
+        ],
+        "bullets": [
+          "Wählen Sie Tarif und Laufzeit und gehen Sie zum Warenkorb.",
+          "Klicken Sie in der Bestellübersicht auf „Have a coupon code?“, fügen Sie SONAR20 ein und wenden Sie ihn an.",
+          "Prüfen Sie den Rabatt in der Summe, bevor Sie zahlen."
+        ],
+        "postParagraphs": [
+          "Der Link in diesem Artikel enthält SONAR20 bereits, aber nicht jeder Tarif übernimmt ihn von selbst. Erscheint in der Bestellübersicht keine Zeile mit dem angewendeten Gutschein, fügen Sie den Code im Feld ein.",
+          "Was der Code bei jedem Tarif abdeckt, steht in [Hostinger-Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Gibt es einen Hostinger-Gutschein für den ersten Kauf? Ja: SONAR20 gibt 20 % auf den ersten Zeitraum eines neuen Tarifs.",
+          "Gilt der Hostinger-Gutschein beim Monatstarif? Die 20 % gelten für den ersten Zeitraum der gewählten Laufzeit. Prüfen Sie den Rabatt im Warenkorb der Laufzeit, die Sie wählen.",
+          "Gibt SONAR20 Rabatt auf die Verlängerung? Nein. Die Verlängerung läuft zum Tabellenpreis, den der Warenkorb unter dem Tarif zeigt.",
+          "Gilt der Gutschein für eine Domain? Nicht für die einzelne Domain. Er gilt beim Neukauf von Hosting, VPS, professioneller E-Mail und Reach."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 950,
+    "slug": "codice-sconto-hostinger-primo-acquisto",
+    "locale": "it",
+    "translationKey": "hostinger-primeira-compra",
+    "title": "Coupon Hostinger primo acquisto: SONAR20 dà il 20% sul primo periodo del piano",
+    "seoTitle": "Coupon Hostinger primo acquisto: SONAR20 dà il 20%",
+    "type": "Guida e coupon",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redazione e analisi",
+        "initials": "BL"
+      }
+    ],
+    "description": "SONAR20 toglie il 20% dal primo periodo del piano Hostinger. Il conto su 48 mesi, cosa include e cosa no, e perché il periodo scelto decide quanto risparmi.",
+    "metaDescription": "Per il primo acquisto su Hostinger usa SONAR20: 20% di sconto sul primo periodo del piano. Il rinnovo costa il prezzo di listino: scegli prima il periodo.",
+    "publishedAt": "13 novembre 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+    "imageAlt": "Pannello laterale verde con il logo Hostinger, la parola \"Welcome\" e il codice SONAR20, accanto alla schermata del pannello di controllo hPanel con il menu laterale e l'elenco dei siti.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Inserisci SONAR20 nel campo coupon del carrello e controlla il 20% sul primo periodo prima di pagare. Il rinnovo costa il prezzo di listino, senza questo sconto.",
+      "label": "Vedi i piani con lo sconto",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Coupon provato nel carrello di Hostinger. Potremmo ricevere una commissione dal codice.",
+    "relatedArticles": [
+      {
+        "slug": "coupon-hostinger-codice-invito"
+      },
+      {
+        "slug": "hostinger-rinnovo-codice-sonar20"
+      },
+      {
+        "slug": "hostinger-e-affidabile"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Per il primo acquisto su [Hostinger](/it/coupons/hostinger) usa SONAR20: 20% di sconto sul primo periodo del piano, applicato anche al prezzo della campagna. Lo sconto vale sugli acquisti nuovi, non sul rinnovo né sui domini singoli. Scegli il periodo con calma, perché il 20% vale solo sul primo periodo."
+        ]
+      },
+      {
+        "heading": "Coupon Hostinger primo acquisto: quale usare",
+        "paragraphs": [
+          "Usa SONAR20. Dà il 20% sul primo periodo di un piano nuovo su Hostinger e il codice si inserisce nel campo coupon del carrello.",
+          "Un codice trovato su un sito di coupon può non funzionare. SONAR20 è quello che abbiamo provato nel carrello, e le condizioni sono nella pagina del [coupon Hostinger](/it/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Il primo ordine decide il periodo",
+        "paragraphs": [
+          "Il 20% vale solo sul primo periodo, quindi il periodo che scegli al primo ordine decide per quanti mesi lo sconto rende. Un periodo breve serve per provare l'hosting, ma il mese costa di più e il rinnovo arriva presto. Un periodo lungo serve a chi ha già deciso di restare: il 20% vale sull'intero periodo e il rinnovo arriva solo alla fine."
+        ],
+        "comparisonTable": {
+          "caption": "Piano Cloud Startup da 48 mesi nel carrello del sito globale, il 29 ottobre 2026: prezzo senza codice e con SONAR20",
+          "headers": [
+            "Periodo",
+            "Senza codice",
+            "Con SONAR20",
+            "Quando si rinnova"
+          ],
+          "rows": [
+            [
+              "48 mesi",
+              "383,52 USD",
+              "306,82 USD",
+              "Alla fine dei 48 mesi"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Il carrello mostra anche il prezzo di rinnovo sotto il piano. Controllalo prima di scegliere il periodo, perché è quello che paghi alla scadenza."
+        ]
+      },
+      {
+        "heading": "Quanto resta",
+        "paragraphs": [
+          "Il nostro conto, con i prezzi del carrello di prova: sul periodo di 48 mesi, SONAR20 toglie 76,70 USD dal totale. Il 20% si applica al prezzo che il carrello mostra già, che nel nostro test era quello della [Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte). Il prezzo della campagna cambia: controlla il totale nel riepilogo prima di pagare."
+        ]
+      },
+      {
+        "heading": "Cosa include e cosa no",
+        "paragraphs": [
+          "SONAR20 vale sugli acquisti nuovi di piani di hosting, VPS, e-mail professionale e Reach, lo strumento di e-mail marketing di Hostinger. Restano fuori la registrazione di un dominio singolo e il rinnovo di qualsiasi prodotto."
+        ]
+      },
+      {
+        "heading": "E dopo il primo ordine?",
+        "paragraphs": [
+          "Anche chi è già cliente di Hostinger può usare SONAR20 per acquistare un prodotto nuovo, ma il rinnovo di quello che ha già non rientra.",
+          "Il prezzo di rinnovo di ogni piano e il rimborso sono spiegati in [rinnovo Hostinger](/it/reviews/hostinger-rinnovo-codice-sonar20)."
+        ]
+      },
+      {
+        "heading": "Dove incollare il codice",
+        "paragraphs": [
+          "Il percorso è lo stesso per ogni piano:"
+        ],
+        "bullets": [
+          "Scegli il piano e il periodo e vai al carrello.",
+          "Nel riepilogo dell'ordine clicca su «Have a coupon code?», incolla SONAR20 e applica.",
+          "Controlla lo sconto nel totale prima di pagare."
+        ],
+        "postParagraphs": [
+          "Il link di questo articolo include già SONAR20, ma non ogni piano si apre con il codice applicato. Se nel riepilogo non compare la riga dello sconto, incolla il codice nel campo.",
+          "Per cosa copre il codice in ogni piano, vedi [come usare il coupon Hostinger](/it/reviews/coupon-hostinger-codice-invito)."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Esiste un coupon Hostinger per il primo acquisto? Sì: SONAR20 dà il 20% sul primo periodo di un piano nuovo.",
+          "Il coupon Hostinger vale sul piano mensile? Il 20% vale sul primo periodo del piano che scegli. Controlla lo sconto nel carrello del periodo scelto prima di pagare.",
+          "SONAR20 dà sconto sul rinnovo? No. Il rinnovo costa il prezzo di listino, che il carrello mostra sotto il piano.",
+          "Il coupon vale per i domini? Non per il dominio singolo. Vale sugli acquisti nuovi di hosting, VPS, e-mail professionale e Reach."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 951,
+    "slug": "hostinger-first-purchase-ja",
+    "locale": "ja",
+    "translationKey": "hostinger-primeira-compra",
+    "title": "Hostingerのはじめての購入にクーポン：SONAR20で最初の期間が20%オフ",
+    "seoTitle": "Hostingerはじめての購入：SONAR20で20%オフ",
+    "type": "クーポンガイド",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "編集・分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "SONAR20はHostingerのプランの最初の期間が20%オフになるコードです。48か月プランのカートでの金額と、対象になるもの、ならないもの、期間の選び方を紹介します。",
+    "metaDescription": "Hostingerのはじめての購入には SONAR20 で最初の期間が20%オフ。更新は通常料金なので、契約期間は先に決めておきましょう。",
+    "publishedAt": "2026年11月13日",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+    "imageAlt": "Hostingerのロゴ、\"Welcome\"の文字、コードSONAR20が入った緑のサイドパネルと、サイドメニューとサイト一覧が表示されたコントロールパネル(hPanel)の画面。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "カートのクーポン欄に SONAR20 を入力し、最初の期間に20%割引が適用されたことを支払い前に確認してください。更新は通常料金で、この割引はありません。",
+      "label": "割引つきのプランを見る",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "カートで確認したクーポンです。このコードから手数料を受け取る場合があります。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-referral-code-ja"
+      },
+      {
+        "slug": "hostinger-renewal-sonar20-ja"
+      },
+      {
+        "slug": "hostinger-trust-guide-ja"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "クイックアンサー",
+        "paragraphs": [
+          "Hostingerのはじめての購入には SONAR20 を使いましょう。プランの最初の期間が20%オフになり、キャンペーン価格にも適用されます。対象は新規購入で、更新と単体のドメインは対象外です。20%が効くのは最初の期間だけなので、契約期間は慎重に選んでください。下の表で48か月プランの金額を確認できます。"
+        ]
+      },
+      {
+        "heading": "Hostingerはじめての購入：どのクーポンを使う？",
+        "paragraphs": [
+          "使うのは SONAR20 です。新しいプランの最初の期間が20%オフになり、コードはカートのクーポン欄に入力します。",
+          "クーポンサイトで見つけたコードは使えないことがあります。私たちがカートで確認したのは SONAR20 で、条件は[Hostingerクーポン](/ja/coupons/hostinger)のページにまとめています。"
+        ]
+      },
+      {
+        "heading": "最初の注文で期間が決まる",
+        "paragraphs": [
+          "20%が効くのは最初の期間だけです。つまり、最初の注文で選ぶ契約期間によって、割引が何か月分に効くかが決まります。使い続けると決めている人は、長い期間を選ぶと最初の期間全体に20%が効き、更新は期間が終わってからです。20%は選んだサイクルの最初の期間に適用されます。",
+          "私たちのテストはグローバルサイトで行いました。2026年10月29日のカートで、Cloud Startupプランの48か月は、クーポンなしで383.52米ドル、SONAR20 ありで306.82米ドルでした。他の期間の金額はここでは示しません。"
+        ],
+        "comparisonTable": {
+          "caption": "グローバルサイトのカートでの Cloud Startup（48か月）。米ドル。",
+          "headers": [
+            "期間",
+            "コードなし",
+            "SONAR20 あり",
+            "更新のタイミング"
+          ],
+          "rows": [
+            [
+              "48か月",
+              "US$383.52",
+              "US$306.82",
+              "48か月の終了時"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "カートにはプランの下に更新料も表示されます。期間が終わると支払うのはその金額なので、期間を選ぶ前に確認してください。"
+        ]
+      },
+      {
+        "heading": "いくら安くなる？",
+        "paragraphs": [
+          "私たちの計算：このテストでは、20%の割引で48か月の合計から76.70米ドルが引かれました。割合はどの期間でも同じです。",
+          "20%はカートにすでに表示されている価格から引かれます。私たちのテストでは、それは[Hostingerのブラックフライデー](/ja/reviews/hostinger-black-friday-ja)の価格でした。キャンペーン価格は変わるので、支払う前に注文の概要で合計を確認してください。"
+        ]
+      },
+      {
+        "heading": "対象になるもの、ならないもの",
+        "paragraphs": [
+          "SONAR20 はホスティング、VPS、ビジネスメール、Hostingerのメールマーケティングツール Reach の新規購入で使えます。単体のドメイン登録と、あらゆる商品の更新は対象外です。"
+        ]
+      },
+      {
+        "heading": "最初の注文のあとは？",
+        "paragraphs": [
+          "すでに Hostinger のアカウントがある人も、新しい商品を契約するときに SONAR20 を使えます。ただし、いま使っている商品の更新は対象外です。",
+          "プランごとの更新料と返金については、[Hostingerの更新](/ja/reviews/hostinger-renewal-sonar20-ja)で説明しています。"
+        ]
+      },
+      {
+        "heading": "コードを入力する場所",
+        "paragraphs": [
+          "どのプランでも手順は同じです。"
+        ],
+        "bullets": [
+          "プランと期間を選んで、カートに進みます。",
+          "注文の概要で「Have a coupon code?」をクリックし、SONAR20 を貼り付けて適用します。",
+          "支払う前に、合計に割引が反映されているか確認します。"
+        ],
+        "postParagraphs": [
+          "この記事のリンクにはすでに SONAR20 が入っていますが、すべてのプランに自動で適用されるとは限りません。注文の概要に割引が反映されていない場合は、コードをクーポン欄に入力してください。",
+          "各プランでコードが何をカバーするかは、[Hostingerクーポンの使い方](/ja/reviews/hostinger-referral-code-ja)をご覧ください。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "Hostingerのはじめての購入に使えるクーポンはありますか？ あります。SONAR20 で新しいプランの最初の期間が20%オフになります。",
+          "Hostingerのクーポンは月払いのプランでも使えますか？ 期間によって異なる場合があるので、選んだ期間のカートで割引が表示されるか確認してください。ここで金額を示しているのは48か月プランだけです。",
+          "SONAR20 で更新も割引になりますか？ いいえ。更新は通常料金で、カートでプランの下に表示されます。",
+          "クーポンはドメインにも使えますか？ 単体のドメインには使えません。ホスティング、VPS、ビジネスメール、Reach の新規購入で使えます。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 952,
+    "slug": "hostinger-first-purchase-ko",
+    "locale": "ko",
+    "translationKey": "hostinger-primeira-compra",
+    "title": "Hostinger 첫 구매 쿠폰: SONAR20으로 플랜 첫 기간 20% 할인",
+    "seoTitle": "Hostinger 첫 구매 쿠폰: SONAR20 20% 할인",
+    "type": "쿠폰 가이드",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "편집 및 분석",
+        "initials": "BL"
+      }
+    ],
+    "description": "SONAR20은 Hostinger 플랜의 첫 기간에서 20%를 할인해 줍니다. 48개월 장바구니 계산, 적용 범위, 첫 주문에서 계약 기간을 고르는 일이 왜 중요한지 정리했습니다.",
+    "metaDescription": "Hostinger 첫 구매에는 SONAR20: 플랜 첫 기간 20% 할인. 갱신은 정가로 청구되니 결제 전에 계약 기간부터 고르세요.",
+    "publishedAt": "2026년 11월 13일",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+    "imageAlt": "Hostinger 로고, \"Welcome\" 문구, 코드 SONAR20이 들어간 초록색 사이드 패널과 그 옆에 사이드 메뉴와 웹사이트 목록이 보이는 호스팅 제어판(hPanel) 화면.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "장바구니 쿠폰 칸에 SONAR20을 입력하고 결제 전에 첫 기간 20% 할인이 반영됐는지 확인하세요. 갱신은 이 할인 없이 정가로 청구됩니다.",
+      "label": "할인 요금제 보기",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Hostinger 장바구니에서 테스트한 쿠폰입니다. 쿠폰을 통해 수수료를 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-referral-code-ko"
+      },
+      {
+        "slug": "hostinger-renewal-sonar20-ko"
+      },
+      {
+        "slug": "hostinger-trust-guide-ko"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "Hostinger 첫 구매에는 **SONAR20**을 쓰세요. 코드는 장바구니 쿠폰 칸에 넣습니다. 플랜의 첫 기간이 20% 할인되고, 캠페인 가격에서도 빠집니다. 신규 구매에 적용되며 갱신과 도메인 단독 구매는 제외됩니다. 20%는 첫 기간에만 적용되므로 계약 기간을 신중하게 고르세요. 결제 전에 총액에서 20%가 빠졌는지 확인하고, 기간별 계산은 아래에 있습니다."
+        ]
+      },
+      {
+        "heading": "Hostinger 첫 구매 쿠폰: 어떤 코드를 쓸까",
+        "paragraphs": [
+          "SONAR20을 쓰세요. Hostinger 새 플랜의 첫 기간에 20%를 할인해 주며, 코드는 장바구니의 쿠폰 입력란에 넣습니다.",
+          "쿠폰 사이트에서 찾은 코드는 작동하지 않을 수 있습니다. SONAR20은 저희가 장바구니에서 직접 테스트한 코드이고, 조건은 [Hostinger 쿠폰 페이지](/ko/coupons/hostinger)에 있습니다."
+        ]
+      },
+      {
+        "heading": "첫 주문이 계약 기간을 정합니다",
+        "paragraphs": [
+          "20%는 첫 기간에만 적용되므로, 첫 주문에서 고른 계약 기간이 할인이 몇 개월 동안 이어지는지를 정합니다. 짧은 기간은 호스팅을 먼저 써 보려는 분에게 맞고, 갱신도 그만큼 일찍 옵니다. 긴 기간은 계속 쓰기로 정한 분에게 맞습니다. 20%가 기간 전체에 적용되고 갱신은 그 기간이 끝난 뒤에 옵니다. 20%는 장바구니에 표시된 가격에서 빠지므로, 결제 전에 선택한 기간의 총액을 확인하세요."
+        ],
+        "comparisonTable": {
+          "caption": "글로벌 사이트 장바구니의 Cloud Startup 플랜 48개월, 2026년 11월 7일: 코드 없는 가격과 SONAR20 적용 가격",
+          "headers": [
+            "계약 기간",
+            "코드 없이",
+            "SONAR20 적용",
+            "갱신 시점"
+          ],
+          "rows": [
+            [
+              "48개월",
+              "383.52달러",
+              "306.82달러",
+              "48개월이 끝난 뒤"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "장바구니에는 플랜 아래에 갱신 가격도 표시됩니다. 기간이 끝나면 내는 금액이므로 계약 기간을 고르기 전에 확인하세요."
+        ]
+      },
+      {
+        "heading": "얼마나 절약될까",
+        "paragraphs": [
+          "테스트 장바구니 가격으로 계산하면, 48개월 Cloud Startup 플랜에서 20%는 총액에서 76.70달러를 줄여 줍니다. 할인율은 같아도 기간이 길수록 절약되는 금액이 커집니다.",
+          "20%는 장바구니에 이미 표시된 가격에서 빠지며, 테스트 당시 그 가격은 [Hostinger 블랙프라이데이](/ko/reviews/hostinger-black-friday-ko) 가격이었습니다. 캠페인 가격은 바뀌니, 결제 전에 요약의 총액을 확인하세요."
+        ]
+      },
+      {
+        "heading": "적용되는 것과 제외되는 것",
+        "paragraphs": [
+          "SONAR20은 호스팅 플랜, VPS, 비즈니스 이메일, 그리고 Hostinger의 이메일 마케팅 도구 Reach의 신규 구매에 적용됩니다. 도메인 단독 등록과 모든 제품의 갱신은 제외됩니다."
+        ]
+      },
+      {
+        "heading": "첫 주문 이후에는",
+        "paragraphs": [
+          "이미 Hostinger를 쓰는 고객도 새 제품을 구매할 때 SONAR20을 쓸 수 있지만, 이미 쓰고 있는 제품의 갱신에는 적용되지 않습니다.",
+          "플랜별 갱신 가격과 환불은 [Hostinger 갱신 가이드](/ko/reviews/hostinger-renewal-sonar20-ko)에서 확인하세요."
+        ]
+      },
+      {
+        "heading": "코드를 넣을 곳",
+        "paragraphs": [
+          "어떤 플랜이든 방법은 같습니다."
+        ],
+        "bullets": [
+          "플랜과 기간을 고르고 장바구니로 넘어가세요.",
+          "주문 요약에서 “Have a coupon code?”를 누르고 SONAR20을 붙여넣어 적용하세요.",
+          "결제 전에 총액에 할인이 반영됐는지 확인하세요."
+        ],
+        "postParagraphs": [
+          "이 글의 링크에도 SONAR20이 들어 있지만 모든 플랜에 자동으로 적용되는 것은 아닙니다. 요약에 할인이 보이지 않으면 코드를 입력란에 직접 넣으세요.",
+          "플랜별로 코드가 어디까지 적용되는지는 [Hostinger 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)을 참고하세요."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "Hostinger 첫 구매 쿠폰이 있나요? 네. SONAR20은 새 플랜의 첫 기간을 20% 할인합니다.",
+          "계약 기간을 바꾸면 할인도 달라지나요? 20%는 고른 계약 기간의 첫 기간에 적용됩니다. 기간을 바꿀 때마다 장바구니에서 총액을 확인하세요.",
+          "SONAR20은 갱신도 할인해 주나요? 아니요. 갱신은 플랜 아래에 장바구니가 보여 주는 정가로 청구됩니다.",
+          "쿠폰은 도메인에도 적용되나요? 도메인 단독 구매에는 적용되지 않습니다. 호스팅, VPS, 비즈니스 이메일, Reach의 신규 구매에 적용됩니다."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 953,
+    "slug": "hostinger-first-purchase-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "hostinger-primeira-compra",
+    "title": "Hostinger 首次購買優惠碼：SONAR20 為方案首期打 8 折",
+    "seoTitle": "Hostinger 首次購買優惠碼：SONAR20 首期 20% 折扣",
+    "type": "指南與優惠碼",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "編輯與分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "SONAR20 為 Hostinger 方案首期減 20%。看看 48 個月方案的計算、哪些適用、哪些不適用，以及為什麼訂閱期間決定你省多少。",
+    "metaDescription": "首次購買 Hostinger 請用 SONAR20：方案首期享 20% 折扣。續訂按價目表計價，請先選好訂閱期間。",
+    "publishedAt": "2026年11月13日",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+    "imageAlt": "綠色側邊面板上有 Hostinger 標誌、\"Welcome\" 字樣和代碼 SONAR20，旁邊是附有側邊選單與網站清單的 Hostinger 控制面板（hPanel）畫面。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "在購物車的優惠碼欄位輸入 SONAR20，付款前確認首期已享 20% 折扣。續訂按價目表計價，不含這項折扣。",
+      "label": "查看享有折扣的方案",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "優惠碼已在 Hostinger 購物車測試。我們可能因優惠碼獲得傭金。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-referral-code-zh-hant"
+      },
+      {
+        "slug": "hostinger-renewal-sonar20-zh-hant"
+      },
+      {
+        "slug": "hostinger-trust-guide-zh-hant"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "首次購買 Hostinger 請用 **SONAR20**：方案首期享 20% 折扣，連活動價也一併折抵。優惠碼適用於新購訂單，不適用於續訂，也不適用於單買網域。請先想清楚訂閱期間，因為 20% 只算首期；下文以 48 個月方案為例。"
+        ]
+      },
+      {
+        "heading": "Hostinger 首次購買優惠碼：該用哪一個",
+        "paragraphs": [
+          "用 SONAR20。它為 [Hostinger](/zh-hant/coupons/hostinger) 的新方案首期減 20%，優惠碼輸入在購物車的優惠碼欄位。",
+          "優惠碼網站上找到的代碼不一定有效。SONAR20 是我們在購物車實測過的，條件列在[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+        ]
+      },
+      {
+        "heading": "第一筆訂單決定訂閱期間",
+        "paragraphs": [
+          "20% 只算首期，所以你在第一筆訂單選的訂閱期間，決定折扣能撐多久。月付方案適合先試用主機，續訂在每個月底就會到來。年付以上的期間適合已經決定長期使用的人：20% 折扣涵蓋整個首期，續訂要等到首期結束才會出現。",
+          "20% 折扣涵蓋所選訂閱期間的首期。我們在全球站實測的是 48 個月的 Startup 方案，其他期間的金額請以購物車顯示為準。"
+        ],
+        "comparisonTable": {
+          "caption": "2026 年 10 月 29 日，全球站購物車中的 Startup 方案：未使用與使用 SONAR20 的價格",
+          "headers": [
+            "訂閱期間",
+            "未使用優惠碼",
+            "使用 SONAR20",
+            "何時續訂"
+          ],
+          "rows": [
+            [
+              "48 個月",
+              "US$ 383.52",
+              "US$ 306.82",
+              "48 個月結束時"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "購物車也會在方案下方顯示續訂價格。選擇訂閱期間之前先看一下這個金額，因為首期結束後你要付的就是它。"
+        ]
+      },
+      {
+        "heading": "實際省多少",
+        "paragraphs": [
+          "我們的計算，以測試購物車的價格為準：48 個月的 Startup 方案，20% 從總額扣掉 US$ 76.70。折扣比例固定，訂閱期間越長，省下的實際金額越多。",
+          "20% 是從購物車已顯示的價格扣掉的，我們測試時顯示的是 [Hostinger 黑色星期五](/zh-hant/reviews/hostinger-black-friday-zh-hant)的價格。活動價會變動，付款前請在訂單摘要確認總額。"
+        ]
+      },
+      {
+        "heading": "哪些適用，哪些不適用",
+        "paragraphs": [
+          "SONAR20 適用於新購買的網站主機、VPS、專業電郵和 Reach（Hostinger 的電郵行銷工具）方案。單買網域和任何產品的續訂不適用。"
+        ]
+      },
+      {
+        "heading": "第一筆訂單之後呢",
+        "paragraphs": [
+          "已經是 Hostinger 客戶的人，購買新產品時也能使用 SONAR20，但已有產品的續訂不適用。",
+          "各方案的續訂價與退款說明，見 [Hostinger 續訂](/zh-hant/reviews/hostinger-renewal-sonar20-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "在哪裡輸入優惠碼",
+        "paragraphs": [
+          "步驟對所有方案都一樣："
+        ],
+        "bullets": [
+          "選好方案和訂閱期間，進入購物車。",
+          "在訂單摘要點擊「Have a coupon code?」，貼上 SONAR20 並套用。",
+          "付款前確認總額已出現折扣。"
+        ],
+        "postParagraphs": [
+          "本文的連結已帶有 SONAR20，但並非每個方案都會自動套用：我們測試時，表格裡的 Startup 方案經由連結進入並沒有套用。如果訂單摘要沒有出現折扣，請直接在優惠碼欄位輸入。",
+          "優惠碼在各方案涵蓋的範圍，見[如何使用 Hostinger 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "Hostinger 有首次購買優惠碼嗎？有：SONAR20 為新方案首期享 20% 折扣。",
+          "Hostinger 優惠碼適用於月付方案嗎？可能適用，請以購物車為準：20% 折扣涵蓋你所選訂閱期間的首期，付款前在訂單摘要確認折扣。",
+          "SONAR20 對續訂有折扣嗎？沒有。續訂按價目表計價，購物車會在方案下方顯示。",
+          "優惠碼適用於網域嗎？單買網域不適用。它適用於新購買的網站主機、VPS、專業電郵和 Reach。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 954,
+    "slug": "hostinger-first-purchase-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "hostinger-primeira-compra",
+    "title": "Hostinger 首次购买优惠码：SONAR20 让套餐首个计费周期减 20%",
+    "seoTitle": "Hostinger 首次购买优惠码：SONAR20 减 20%",
+    "type": "指南与优惠码",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "编辑与分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "SONAR20 可让 Hostinger 套餐首个计费周期减 20%。看看 48 个月周期的算账、哪些适用哪些不适用，以及为什么周期决定你能省多少。",
+    "metaDescription": "首次购买 Hostinger 请用 SONAR20：套餐首个计费周期减 20%。续费按标价，请先选好周期。",
+    "publishedAt": "2026年11月13日",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+    "imageAlt": "绿色侧边面板上有 Hostinger 标志、\"Welcome\" 字样和代码 SONAR20，旁边是带侧边菜单和网站列表的 Hostinger 控制面板（hPanel）界面。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "在购物车的优惠码栏输入 SONAR20，付款前确认首个计费周期已享 20% 折扣。续费按标价收费，不含此折扣。",
+      "label": "查看享有折扣的套餐",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "优惠码已在 Hostinger 购物车中测试。通过该优惠码购买，我们可能获得佣金。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-referral-code-zh-hans"
+      },
+      {
+        "slug": "hostinger-renewal-sonar20-zh-hans"
+      },
+      {
+        "slug": "hostinger-trust-guide-zh-hans"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "首次购买 Hostinger，请用 SONAR20：套餐首个计费周期减 20%，在活动价基础上同样适用。它适用于新购买，不适用于续费，也不适用于单买域名。选周期要慎重，因为 20% 只在首个周期有效；具体算账见下文。"
+        ]
+      },
+      {
+        "heading": "Hostinger 首次购买优惠码：用哪个",
+        "paragraphs": [
+          "用 SONAR20。它让 Hostinger 新套餐的首个计费周期减 20%，代码填在购物车的优惠码栏。",
+          "优惠码网站上找到的代码未必有效。SONAR20 是我们在购物车里测试过的，条件写在 [Hostinger 优惠码](/zh-hans/coupons/hostinger)页面。"
+        ]
+      },
+      {
+        "heading": "第一单决定周期",
+        "paragraphs": [
+          "20% 只在首个计费周期有效，所以第一单选的周期，决定折扣覆盖多长时间。20% 适用于你所选周期的首个计费周期；续费要等这个周期结束才会到来。"
+        ],
+        "comparisonTable": {
+          "caption": "Cloud Startup 套餐在全球站购物车中，2026 年 10 月 29 日测试：不用优惠码与使用 SONAR20 的价格",
+          "headers": [
+            "周期",
+            "不用优惠码",
+            "使用 SONAR20",
+            "何时续费"
+          ],
+          "rows": [
+            [
+              "48 个月",
+              "US$ 383.52",
+              "US$ 306.82",
+              "48 个月结束时"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "购物车还会在套餐下方显示续费价格。选周期之前请先看这个数字，因为周期结束后你付的就是它。"
+        ]
+      },
+      {
+        "heading": "能省多少",
+        "paragraphs": [
+          "我们的计算：用购物车里的价格，48 个月周期里 20% 让总额少 US$ 76.70（US$ 383.52 变成 US$ 306.82）。",
+          "20% 是在购物车已经显示的价格上扣的，其中可能已含活动价，例如[Hostinger 黑色星期五](/zh-hans/reviews/hostinger-black-friday-zh-hans)。活动价会变化，付款前请在订单摘要中确认总额。"
+        ]
+      },
+      {
+        "heading": "适用与不适用",
+        "paragraphs": [
+          "SONAR20 适用于新购买的主机套餐、VPS、专业邮箱和 Hostinger 的邮件营销工具 Reach。单买域名注册和任何产品的续费不适用。"
+        ]
+      },
+      {
+        "heading": "第一单之后呢？",
+        "paragraphs": [
+          "已有 Hostinger 账户的人，在购买新产品时也可以使用 SONAR20，但已有产品的续费不适用。",
+          "各套餐的续费价格和退款，见 [Hostinger 续费](/zh-hans/reviews/hostinger-renewal-sonar20-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "在哪里输入代码",
+        "paragraphs": [
+          "任何套餐的步骤都一样："
+        ],
+        "bullets": [
+          "选好套餐和周期，进入购物车。",
+          "在订单摘要里找到 “Have a coupon code?” 栏，粘贴 SONAR20 并应用。",
+          "付款前在总额里确认折扣。"
+        ],
+        "postParagraphs": [
+          "本文的链接已带有 SONAR20。如果订单摘要里没有出现折扣行，请把代码粘贴到优惠码栏。",
+          "各套餐的适用范围，见[如何使用 Hostinger 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "Hostinger 有首次购买的优惠码吗？ 有：SONAR20 让新套餐的首个计费周期减 20%。",
+          "SONAR20 对续费有折扣吗？ 没有。续费按标价收费，价格显示在购物车的套餐下方。",
+          "优惠码适用于域名吗？ 单买域名不适用。它适用于新购买的主机、VPS、专业邮箱和 Reach。",
+          "20% 是在整个周期里都有效吗？ 20% 适用于你所选周期的首个计费周期，之后续费按标价。付款前请在购物车确认。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 955,
+    "slug": "yesstyle-first-order-reward-code-cecilia010",
+    "locale": "en",
+    "translationKey": "yesstyle-primeira-compra",
+    "title": "YesStyle first order: CECILIA010 gives 5% as a Reward Code, then 2%",
+    "seoTitle": "CECILIA010 on YesStyle: 5% on order 1, 2% after",
+    "type": "Guide & Coupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "At YesStyle, CECILIA010 gives 5% extra on your first order and 2% on later ones, in the Reward Code field. See what changes from one order to the next and what to check first.",
+    "metaDescription": "CECILIA010 is a YesStyle Reward Code: 5% extra on the first order and 2% on later ones, in the Reward Code field. What to check before your first order.",
+    "publishedAt": "13 Nov 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "hideFromPortugueseListings": true,
+    "isNew": false,
+    "image": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+    "imageAlt": "Green side panel with the YesStyle logo, the word \"Welcome\", the label \"Reward Code:\" and the Reward Code CECILIA010, next to a smiling woman with moisturizer on her cheek holding a tube of Beauty of Joseon.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Paste CECILIA010 into the Reward Code field: 5% extra on your first order and 2% on later ones.",
+      "label": "Go to YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Affiliate links: we may earn a commission from the links and from the Reward Code CECILIA010.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-reward-code-coupon-cecilia010"
+      },
+      {
+        "slug": "yesstyle-app-how-to-buy-reward-code"
+      },
+      {
+        "slug": "yesstyle-shipping-us-uk-canada-australia"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "On your first YesStyle order, CECILIA010 gives 5% extra; on later orders, 2%. It is a Reward Code, not a coupon: it goes in the Reward Code field, separate from the coupon field. Before you fill your cart, check that YesStyle delivers to your country."
+        ]
+      },
+      {
+        "heading": "YesStyle first order: what to use",
+        "paragraphs": [
+          "Placing your first order at YesStyle? Use CECILIA010 in the Reward Code field. The store lists 5% on the first order and 2% on later ones.",
+          "A code from a coupon site may not work. What counts is the discount line in the order summary, before you pay. The conditions are on the [YesStyle Reward Code page](/en/coupons/yesstyle)."
+        ]
+      },
+      {
+        "heading": "A Reward Code is not a coupon",
+        "paragraphs": [
+          "Checkout has two code fields: the coupon field and the Reward Code field. CECILIA010 is a Reward Code and goes in the Reward Code field, so it does not take up the coupon field."
+        ]
+      },
+      {
+        "heading": "What about the second order?",
+        "paragraphs": [
+          "On the second order, CECILIA010 still works, with 2% extra. The code and the field are the same: only the percentage changes."
+        ]
+      },
+      {
+        "heading": "Before your first order: delivery",
+        "paragraphs": [
+          "Before you fill your cart, check your destination: confirm that YesStyle delivers to your country, because the code does not change where the store ships.",
+          "Delivery times, shipping costs and taxes for the US, UK, Canada, Australia, Ireland and New Zealand are in the [YesStyle shipping guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia)."
+        ]
+      },
+      {
+        "heading": "Where to enter the code",
+        "paragraphs": [
+          "The field name changes depending on the screen. These are the two paths:"
+        ],
+        "bullets": [
+          "**On the website:** at checkout, the field is called Reward Code. Type CECILIA010 and apply it.",
+          "**In the app:** tap Enter Code and type it in the Influencer / Rewards Code field, below Coupon Code. Tap Apply."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "Three screens of the YesStyle app: the bag with the Coupon or Influencer / Rewards Code line, the Enter Code screen with the Coupon Code and Influencer / Rewards Code fields, and the summary with CECILIA010 applied",
+          "caption": "The three steps in the Android app, on an account in English with delivery to the United States, without placing an order.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "postParagraphs": [
+          "In our app test, the code was accepted and the summary showed an Influencer Code Discount (5% OFF) line. The step-by-step with website screens is in [how to use CECILIA010](/en/reviews/yesstyle-reward-code-coupon-cecilia010)."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Is there a YesStyle first-order code? Yes: CECILIA010 gives 5% extra on the first order and 2% on later ones, in the Reward Code field.",
+          "Does CECILIA010 work on a second order? Yes, with 2% extra on later orders.",
+          "Which field does CECILIA010 go in? The Reward Code field, separate from the coupon field: it is a Reward Code.",
+          "Does CECILIA010 work in the app? Yes: type the code in the Influencer / Rewards Code field on the Enter Code screen."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 956,
+    "slug": "yesstyle-primera-compra-codigo-cecilia010",
+    "locale": "es",
+    "translationKey": "yesstyle-primeira-compra",
+    "title": "YesStyle primera compra: CECILIA010 da un 5 % con el código de recompensa y un 2 % en las siguientes",
+    "seoTitle": "Código CECILIA010 en YesStyle: 5 % en la 1.ª compra, 2 % después",
+    "type": "Guía & Cupones",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "En YesStyle, CECILIA010 da un 5 % extra en el primer pedido y un 2 % en los siguientes, en el campo Reward Code. Mira qué cambia de un pedido a otro y qué revisar antes.",
+    "metaDescription": "CECILIA010 es un código de recompensa de YesStyle: 5 % en la 1.ª compra y 2 % en las siguientes, en el campo Reward Code. Qué revisar en el 1.er pedido.",
+    "publishedAt": "13 de noviembre de 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+    "imageAlt": "Panel lateral verde con el logo de YesStyle, la palabra \"Welcome\", la etiqueta \"Reward Code:\" y el código de recompensa CECILIA010, junto a una mujer sonriente con crema hidratante en la mejilla que sostiene un tubo de Beauty of Joseon.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Pega CECILIA010 en el campo Reward Code: 5 % extra en la primera compra y 2 % en las siguientes.",
+      "label": "Ir a YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Enlaces de afiliado: podemos recibir una comisión por los enlaces y por el código de recompensa CECILIA010.",
+    "relatedArticles": [
+      {
+        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
+      },
+      {
+        "slug": "app-yesstyle-como-comprar-codigo-de-recompensa"
+      },
+      {
+        "slug": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "En la primera compra en YesStyle, CECILIA010 da un 5 % extra; en las siguientes, un 2 %. Es un código de recompensa, no un cupón: va en el campo Reward Code, aparte del campo de cupón. Antes de armar el carrito, comprueba si la tienda entrega en tu país."
+        ]
+      },
+      {
+        "heading": "YesStyle primera compra: qué usar",
+        "paragraphs": [
+          "¿Vas a hacer tu primer pedido en YesStyle? Usa CECILIA010 en el campo Reward Code. La tienda informa: 5 % en la primera compra y 2 % en las siguientes.",
+          "Un código encontrado en una web de cupones puede no funcionar. Lo que cuenta es la línea del descuento en el resumen del pedido, antes de pagar. Las condiciones están en la página del [código de recompensa de YesStyle](/es/coupons/yesstyle)."
+        ]
+      },
+      {
+        "heading": "Un código de recompensa no es un cupón",
+        "paragraphs": [
+          "El checkout tiene dos campos de código: el de cupón y el Reward Code. CECILIA010 es un código de recompensa y va en el Reward Code, sin ocupar el campo de cupón."
+        ]
+      },
+      {
+        "heading": "¿Y en la segunda compra?",
+        "paragraphs": [
+          "En la segunda compra, CECILIA010 sigue valiendo, con un 2 % extra, frente al 5 % de la primera. El código y el campo son los mismos: solo cambia el porcentaje."
+        ]
+      },
+      {
+        "heading": "Antes del primer pedido: el envío",
+        "paragraphs": [
+          "Antes de armar el carrito, mira el destino: comprueba si YesStyle entrega en tu país, porque el código no cambia dónde llega el pedido.",
+          "El plazo, el costo de envío y los impuestos para España y varios países de América Latina están en la [guía de envíos de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia)."
+        ]
+      },
+      {
+        "heading": "Dónde pegar el código",
+        "paragraphs": [
+          "El campo cambia de nombre según la pantalla. Estos son los dos caminos:"
+        ],
+        "bullets": [
+          "**En la web:** en el checkout, el campo se llama Reward Code o Código de Recompensa. Escribe CECILIA010 y aplica.",
+          "**En la app:** toca Enter Code y escribe en el campo Influencer / Rewards Code, que está debajo de Coupon Code. Toca Apply."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "Tres pantallas de la app de YesStyle: la bolsa con la línea Coupon or Influencer / Rewards Code, la pantalla Enter Code con los campos Coupon Code e Influencer / Rewards Code, y el resumen con CECILIA010 aplicado",
+          "caption": "Los tres pasos en la app de Android, con la cuenta en inglés y entrega en Estados Unidos, sin finalizar la compra.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "postParagraphs": [
+          "En nuestra prueba en la app, el código fue aceptado y el resumen mostró la línea Influencer Code Discount (5 % OFF; en los pedidos siguientes, el 2 %). El paso a paso con pantallas del sitio web está en [cómo usar CECILIA010](/es/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010)."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Hay un código de YesStyle para la primera compra? Sí: CECILIA010 da un 5 % extra en el primer pedido y un 2 % en los siguientes, en el campo Reward Code.",
+          "¿CECILIA010 vale en la segunda compra? Sí, con un 2 % extra en los pedidos siguientes; en la primera compra, el descuento es del 5 %.",
+          "¿En qué campo va CECILIA010? En el Reward Code, aparte del campo de cupón: es un código de recompensa.",
+          "¿CECILIA010 vale en la app? Sí: escribe el código en el campo Influencer / Rewards Code, en la pantalla Enter Code."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 957,
+    "slug": "yesstyle-premiere-commande-code-cecilia010",
+    "locale": "fr",
+    "translationKey": "yesstyle-primeira-compra",
+    "title": "YesStyle première commande : CECILIA010 donne 5 % avec le code de récompense, puis 2 %",
+    "seoTitle": "Code CECILIA010 YesStyle : 5 % dès la 1re commande, 2 % ensuite",
+    "type": "Guide & Coupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Sur YesStyle, CECILIA010 donne 5 % en plus sur la 1re commande et 2 % sur les suivantes, dans le Reward Code. Ce qui change d'une commande à l'autre et ce qu'il faut vérifier.",
+    "metaDescription": "CECILIA010 est un code de récompense : 5 % sur la 1re commande et 2 % sur les suivantes, dans le champ Reward Code. Ce qu'il faut vérifier avant de payer.",
+    "publishedAt": "13 novembre 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "hideFromPortugueseListings": true,
+    "isNew": false,
+    "image": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+    "imageAlt": "Bandeau latéral vert avec le logo YesStyle, le mot \"Welcome\", l'étiquette \"Reward Code:\" et le code de récompense CECILIA010, à côté d'une femme souriante, de la crème hydratante sur la joue, qui tient un tube de Beauty of Joseon.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Saisissez CECILIA010 dans le champ Reward Code : 5 % en plus sur la première commande et 2 % sur les suivantes.",
+      "label": "Aller sur YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Lien d'affiliation : nous pouvons toucher une commission via le lien et via le code récompense CECILIA010.",
+    "relatedArticles": [
+      {
+        "slug": "code-recompense-yesstyle-cecilia010"
+      },
+      {
+        "slug": "application-yesstyle-acheter-code-recompense"
+      },
+      {
+        "slug": "yesstyle-livraison-france-belgique-canada"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Sur YesStyle, CECILIA010 donne 5 % en plus sur la première commande et 2 % sur les suivantes. C'est un code de récompense, pas un coupon : il se saisit dans le champ Reward Code, distinct du champ coupon. Avant de remplir le panier, vérifiez que YesStyle livre dans votre pays."
+        ]
+      },
+      {
+        "heading": "YesStyle première commande : quel code utiliser",
+        "paragraphs": [
+          "Vous passez votre première commande sur YesStyle ? Saisissez CECILIA010 dans le champ Reward Code. Selon la boutique, c'est 5 % sur la première commande et 2 % sur les suivantes.",
+          "Un code trouvé sur un site de coupons peut ne pas fonctionner. Ce qui compte, c'est la ligne de remise dans le récapitulatif de commande, avant de payer. Les conditions sont sur la page du [code de récompense YesStyle](/fr/coupons/yesstyle)."
+        ]
+      },
+      {
+        "heading": "Un code de récompense n'est pas un coupon",
+        "paragraphs": [
+          "Le paiement propose deux champs : celui du coupon et le Reward Code. CECILIA010 est un code de récompense : il va dans le Reward Code, sans occuper le champ coupon."
+        ]
+      },
+      {
+        "heading": "Et pour la deuxième commande ?",
+        "paragraphs": [
+          "À la deuxième commande, CECILIA010 reste valable, avec 2 % en plus. Le code et le champ sont les mêmes : seul le pourcentage change."
+        ]
+      },
+      {
+        "heading": "Avant la première commande : vérifiez que YesStyle livre dans votre pays",
+        "paragraphs": [
+          "Avant de remplir le panier, vérifiez la destination : confirmez que YesStyle livre dans votre pays. Le code ne change rien à cela.",
+          "Pour les délais, les frais de port et les taxes en France, en Belgique et au Canada, consultez [YesStyle livre-t-il en France, en Belgique et au Canada ? Délais, frais de port et taxes](/fr/reviews/yesstyle-livraison-france-belgique-canada)."
+        ]
+      },
+      {
+        "heading": "Où saisir le code",
+        "paragraphs": [
+          "Le champ change de nom selon l'écran. Voici les deux chemins :"
+        ],
+        "bullets": [
+          "**Sur le site :** au paiement, le champ s'appelle Reward Code ou Code de récompense. Saisissez CECILIA010 et appliquez.",
+          "**Dans l'appli :** touchez Enter Code et saisissez le code dans le champ Influencer / Rewards Code, placé sous Coupon Code. Touchez Apply."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "Trois écrans de l'appli YesStyle : le panier avec la ligne Coupon or Influencer / Rewards Code, l'écran Enter Code avec les champs Coupon Code et Influencer / Rewards Code, et le récapitulatif avec CECILIA010 appliqué",
+          "caption": "Les trois étapes dans l'appli Android, avec un compte en anglais et une livraison aux États-Unis, sans finaliser l'achat.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "postParagraphs": [
+          "Lors de notre test dans l'appli, le code a été accepté et le récapitulatif affichait la ligne Influencer Code Discount (5% OFF). Le pas à pas avec les écrans du site se trouve dans [comment utiliser CECILIA010](/fr/reviews/code-recompense-yesstyle-cecilia010)."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Existe-t-il un code YesStyle pour la première commande ? Oui : CECILIA010 donne 5 % en plus sur la première commande et 2 % sur les suivantes, dans le champ Reward Code.",
+          "CECILIA010 est-il valable à la deuxième commande ? Oui, avec 2 % en plus sur les commandes suivantes.",
+          "Dans quel champ saisir CECILIA010 ? Dans le Reward Code, distinct du champ coupon : c'est un code de récompense.",
+          "CECILIA010 fonctionne-t-il dans l'appli ? Oui : saisissez le code dans le champ Influencer / Rewards Code, sur l'écran Enter Code."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 958,
+    "slug": "yesstyle-erste-bestellung-code-cecilia010",
+    "locale": "de",
+    "translationKey": "yesstyle-primeira-compra",
+    "title": "YesStyle erste Bestellung: CECILIA010 gibt 5 % als Reward Code, danach 2 %",
+    "seoTitle": "CECILIA010 bei YesStyle: 5 % auf die 1. Bestellung, danach 2 %",
+    "type": "Ratgeber & Gutscheine",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Bei YesStyle gibt CECILIA010 5 % extra auf die erste Bestellung und 2 % auf die folgenden, im Feld Reward Code. Was sich zwischen den Bestellungen ändert und was Sie vorher prüfen.",
+    "metaDescription": "CECILIA010 ist ein Belohnungscode von YesStyle: 5 % auf die 1. Bestellung, 2 % auf die folgenden, im Feld Reward Code. Das sollten Sie vor der 1. Bestellung prüfen.",
+    "publishedAt": "13. November 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+    "imageAlt": "Grünes Seitenfeld mit dem YesStyle-Logo, dem Wort \"Welcome\", der Beschriftung \"Reward Code:\" und dem Belohnungscode CECILIA010, daneben eine lächelnde Frau mit Feuchtigkeitscreme auf der Wange, die eine Tube Beauty of Joseon hält.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Geben Sie CECILIA010 im Feld Reward Code ein: 5 % extra auf die erste Bestellung und 2 % auf die folgenden.",
+      "label": "Zu YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Affiliate-Links: Wir können über die Links und den Reward Code CECILIA010 eine Provision erhalten.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-reward-code-rabatt-cecilia010"
+      },
+      {
+        "slug": "yesstyle-app-bestellen-reward-code"
+      },
+      {
+        "slug": "yesstyle-versand-deutschland-oesterreich-schweiz"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Die Antwort in Kürze",
+        "paragraphs": [
+          "Bei der ersten Bestellung bei YesStyle gibt CECILIA010 5 % extra, bei den folgenden 2 %. Es ist ein Belohnungscode, kein Gutschein: Er gehört ins Feld Reward Code, getrennt vom Feld für Gutscheine. Bevor Sie den Warenkorb füllen, prüfen Sie, ob YesStyle in Ihr Land liefert."
+        ]
+      },
+      {
+        "heading": "YesStyle erste Bestellung: was Sie eingeben",
+        "paragraphs": [
+          "Sie machen Ihre erste Bestellung bei YesStyle? Geben Sie CECILIA010 im Feld Reward Code ein. Laut Shop gibt es 5 % auf die erste Bestellung und 2 % auf die folgenden.",
+          "Codes von Gutschein-Seiten funktionieren womöglich nicht. Entscheidend ist die Rabattzeile in der Bestellübersicht, bevor Sie bezahlen. Die Bedingungen stehen auf der Seite zum [YesStyle-Belohnungscode](/de/coupons/yesstyle)."
+        ]
+      },
+      {
+        "heading": "Belohnungscode ist kein Gutschein",
+        "paragraphs": [
+          "Der Checkout hat zwei Codefelder: das für Gutscheine und das Feld Reward Code. CECILIA010 ist ein Belohnungscode und gehört ins Feld Reward Code, ohne das Gutscheinfeld zu belegen."
+        ]
+      },
+      {
+        "heading": "Und bei der zweiten Bestellung?",
+        "paragraphs": [
+          "Bei der zweiten Bestellung gilt CECILIA010 weiter, mit 2 % extra statt 5 % bei der ersten. Code und Feld bleiben gleich: Nur der Prozentsatz ändert sich."
+        ]
+      },
+      {
+        "heading": "Vor der ersten Bestellung: die Lieferung",
+        "paragraphs": [
+          "Bevor Sie den Warenkorb füllen, prüfen Sie das Lieferland: Nicht jedes Land wird beliefert, und der Code ändert daran nichts. Schauen Sie vorab nach, ob YesStyle in Ihr Land liefert.",
+          "Lieferzeit, Versandkosten und Zoll für Deutschland, Österreich und die Schweiz finden Sie im [Versand-Ratgeber zu YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz)."
+        ]
+      },
+      {
+        "heading": "Wo Sie den Code eingeben",
+        "paragraphs": [
+          "Das Feld heißt je nach Bildschirm anders. Das sind die zwei Wege:"
+        ],
+        "bullets": [
+          "**Auf der Website:** Im Checkout heißt das Feld Reward Code oder Belohnungscode. Geben Sie CECILIA010 ein und wenden Sie ihn an.",
+          "**In der App:** Tippen Sie auf Enter Code und geben Sie den Code im Feld Influencer / Rewards Code ein, das unter dem Coupon Code steht. Tippen Sie auf Apply."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "Drei Bildschirme der YesStyle-App: die Tasche mit der Zeile Coupon or Influencer / Rewards Code, der Bildschirm Enter Code mit den Feldern Coupon Code und Influencer / Rewards Code und die Übersicht mit angewendetem CECILIA010",
+          "caption": "Die drei Schritte in der Android-App, mit englischem Konto und Lieferung in die USA, ohne Bestellung abzuschließen.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "postParagraphs": [
+          "In unserem Test in der App wurde der Code akzeptiert, und die Übersicht zeigte die Zeile Influencer Code Discount (5% OFF). Die Anleitung mit Bildschirmen der Website steht unter [CECILIA010 bei YesStyle nutzen](/de/reviews/yesstyle-reward-code-rabatt-cecilia010)."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Gibt es einen YesStyle-Code für die erste Bestellung? Ja: CECILIA010 gibt 5 % extra auf die erste Bestellung und 2 % auf die folgenden, im Feld Reward Code.",
+          "Gilt CECILIA010 bei der zweiten Bestellung? Ja: 2 % extra auf die folgenden Bestellungen, statt 5 % bei der ersten.",
+          "In welches Feld gehört CECILIA010? In das Feld Reward Code, getrennt vom Gutscheinfeld: Es ist ein Belohnungscode.",
+          "Gilt CECILIA010 in der App? Ja: Geben Sie den Code im Feld Influencer / Rewards Code auf dem Bildschirm Enter Code ein."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 959,
+    "slug": "yesstyle-primo-ordine-codice-cecilia010",
+    "locale": "it",
+    "translationKey": "yesstyle-primeira-compra",
+    "title": "YesStyle primo ordine: CECILIA010 dà il 5% con il codice ricompensa e il 2% sui successivi",
+    "seoTitle": "Codice CECILIA010 su YesStyle: 5% al 1º ordine, 2% dopo",
+    "type": "Guida e coupon",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Su YesStyle, CECILIA010 dà il 5% extra sul primo ordine e il 2% sui successivi, nel campo Reward Code. Scopri cosa cambia da un ordine all'altro e cosa controllare prima di pagare.",
+    "metaDescription": "CECILIA010 è un codice ricompensa di YesStyle: 5% sul 1º ordine e 2% sui successivi, nel campo Reward Code. Cosa controllare prima del primo ordine.",
+    "publishedAt": "13 novembre 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+    "imageAlt": "Pannello laterale verde con il logo YesStyle, la parola \"Welcome\", l'etichetta \"Reward Code:\" e il codice ricompensa CECILIA010, accanto a una donna sorridente con crema idratante sulla guancia che tiene un tubetto di Beauty of Joseon.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Incolla CECILIA010 nel campo Reward Code: 5% extra sul primo ordine e 2% sui successivi.",
+      "label": "Vai su YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Link di affiliazione: possiamo ricevere una commissione dai link e dal Reward Code CECILIA010.",
+    "relatedArticles": [
+      {
+        "slug": "codice-ricompensa-yesstyle-cecilia010"
+      },
+      {
+        "slug": "app-yesstyle-come-acquistare-codice-ricompensa"
+      },
+      {
+        "slug": "yesstyle-spedizione-italia-tempi-costi-dogana"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Al primo ordine su YesStyle, CECILIA010 dà il 5% extra; sui successivi, il 2%. È un codice ricompensa, non un coupon: va nel campo Reward Code, separato dal campo del coupon. Prima di riempire il carrello, controlla che YesStyle spedisca nel tuo paese."
+        ]
+      },
+      {
+        "heading": "YesStyle primo ordine: cosa usare",
+        "paragraphs": [
+          "Stai per fare il primo ordine su YesStyle? Usa CECILIA010 nel campo Reward Code. Lo shop indica: 5% sul primo ordine e 2% sui successivi.",
+          "Un codice trovato su un sito di coupon può non funzionare. Conta la riga di sconto nel riepilogo dell'ordine, prima di pagare. Le condizioni sono nella pagina del [codice ricompensa YesStyle](/it/coupons/yesstyle)."
+        ]
+      },
+      {
+        "heading": "Il codice ricompensa non è un coupon",
+        "paragraphs": [
+          "Il checkout ha due campi per i codici: uno per i coupon e uno per il Reward Code. Il codice ricompensa va nel Reward Code, senza occupare il campo dei coupon."
+        ]
+      },
+      {
+        "heading": "E al secondo ordine?",
+        "paragraphs": [
+          "Al secondo ordine CECILIA010 continua a valere: 2% extra invece del 5% del primo ordine. Il codice e il campo sono gli stessi: cambia solo la percentuale."
+        ]
+      },
+      {
+        "heading": "Prima del primo ordine: la spedizione",
+        "paragraphs": [
+          "Prima di riempire il carrello, controlla la destinazione e verifica che YesStyle spedisca nel tuo paese. Il codice non cambia le regole di spedizione.",
+          "Se vivi in Italia, tempi, spese e dogana sono nella guida [YesStyle: spedizione in Italia, tempi, costi e dogana](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana)."
+        ]
+      },
+      {
+        "heading": "Dove incollare il codice",
+        "paragraphs": [
+          "Il campo cambia nome a seconda della schermata. Ecco i due percorsi:"
+        ],
+        "bullets": [
+          "**Sul sito:** al checkout, il campo si chiama Reward Code o Codice ricompensa. Digita CECILIA010 e applica.",
+          "**Nell'app:** tocca Enter Code e digita nel campo Influencer / Rewards Code, che sta sotto Coupon Code. Tocca Apply."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "Tre schermate dell'app di YesStyle: la borsa con la riga Coupon or Influencer / Rewards Code, la schermata Enter Code con i campi Coupon Code e Influencer / Rewards Code, e il riepilogo con CECILIA010 applicato",
+          "caption": "I tre passaggi nell'app Android, con l'account in inglese e consegna negli Stati Uniti, senza concludere l'acquisto.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "postParagraphs": [
+          "Nel nostro test nell'app il codice è stato accettato e il riepilogo ha mostrato la riga Influencer Code Discount (5% OFF). La guida passo passo con le schermate del sito è in [come usare CECILIA010](/it/reviews/codice-ricompensa-yesstyle-cecilia010)."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Esiste un codice YesStyle per il primo ordine? Sì: CECILIA010 dà il 5% extra sul primo ordine e il 2% sui successivi, nel campo Reward Code.",
+          "CECILIA010 vale anche al secondo ordine? Sì: 2% extra sugli ordini successivi, invece del 5% del primo ordine.",
+          "In quale campo va CECILIA010? Nel Reward Code, separato dal campo del coupon: è un codice ricompensa.",
+          "CECILIA010 vale nell'app? Sì: digita il codice nel campo Influencer / Rewards Code, nella schermata Enter Code."
+        ]
+      }
+    ],
+    "hideFromPortugueseListings": true
+  },
+  {
+    "id": 960,
+    "slug": "yesstyle-first-order-cecilia010-ja",
+    "locale": "ja",
+    "translationKey": "yesstyle-primeira-compra",
+    "title": "YesStyle初回購入：CECILIA010は初回5%、2回目以降2%のリワードコード",
+    "seoTitle": "YesStyleのCECILIA010：初回5%・2回目以降2%",
+    "type": "ガイド＆クーポン",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "YesStyleのCECILIA010は、初回注文で5%、2回目以降は2%が追加されるコードです。入力はReward Code欄。注文ごとの違いと、事前に確認したい点をまとめました。",
+    "metaDescription": "CECILIA010はYesStyleのリワードコード。初回購入5%、2回目以降2%、入力はReward Code欄です。初回注文の前に確認したい点をまとめました。",
+    "publishedAt": "13 Nov 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+    "imageAlt": "YesStyleのロゴ、\"Welcome\"の文字、\"Reward Code:\"のラベルとリワードコードCECILIA010が入った緑のサイドパネルと、頬に保湿クリームをつけて微笑み、Beauty of Joseonのチューブを持つ女性。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "CECILIA010をReward Code欄に入力すると、初回購入で5%、2回目以降で2%が追加されます。",
+      "label": "YesStyleへ進む",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "アフィリエイトリンク：リンクとReward Code CECILIA010を通じて、報酬を受け取る場合があります。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-reward-code-cecilia010-ja"
+      },
+      {
+        "slug": "yesstyle-app-reward-code-ja"
+      },
+      {
+        "slug": "yesstyle-shipping-japan-ja"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "結論から",
+        "paragraphs": [
+          "YesStyleの初回購入では、CECILIA010で5%が追加されます。2回目以降は2%です。これはクーポンではなくリワードコードなので、クーポン欄とは別のReward Code欄に入力します。購入前に、YesStyleがお住まいの国へ配送しているかを確認してください。"
+        ]
+      },
+      {
+        "heading": "YesStyle初回購入：使うコードは",
+        "paragraphs": [
+          "初めてYesStyleで注文するなら、Reward Code欄にCECILIA010を入力してください。YesStyleの案内では、初回購入は5%、2回目以降は2%の追加です。",
+          "クーポンサイトで見つけたコードは、使えないことがあります。大切なのは、支払い前の注文概要に割引の行が出ているかどうかです。条件は[YesStyleリワードコードのページ](/ja/coupons/yesstyle)にまとめています。"
+        ]
+      },
+      {
+        "heading": "リワードコードはクーポンではありません",
+        "paragraphs": [
+          "チェックアウトにはコードの欄が2つあります。クーポン用の欄と、Reward Code欄です。CECILIA010はリワードコードなので、Reward Code欄に入力します。クーポン欄は使いません。"
+        ]
+      },
+      {
+        "heading": "2回目の購入では？",
+        "paragraphs": [
+          "2回目以降も、CECILIA010は使えて、2%が追加されます。コードも入力欄も同じで、変わるのは割引率だけです。"
+        ]
+      },
+      {
+        "heading": "初回の注文の前に：配送先を確認",
+        "paragraphs": [
+          "カートに商品を入れる前に、配送先を確認しましょう。YesStyleは国や地域によって配送の可否や条件が異なり、コードがそれを変えることはありません。",
+          "まずはYesStyleがお住まいの国へ配送しているかを確認してください。日本向けの日数・送料・関税は[YesStyleの日本への配送](/ja/reviews/yesstyle-shipping-japan-ja)にまとめています。"
+        ]
+      },
+      {
+        "heading": "コードの入力場所",
+        "paragraphs": [
+          "入力欄の名前は画面によって違います。次の2通りです。"
+        ],
+        "bullets": [
+          "**サイトの場合：** チェックアウトの「Reward Code」(リワードコード)欄にCECILIA010を入力して、適用します。",
+          "**アプリの場合：** 「Enter Code」をタップし、Coupon Codeの下にある「Influencer / Rewards Code」欄に入力します。続けて「Apply」をタップします。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "YesStyleアプリの3つの画面。Coupon or Influencer / Rewards Codeの行があるバッグ、Coupon CodeとInfluencer / Rewards Codeの欄があるEnter Code画面、CECILIA010を適用した注文概要",
+          "caption": "Androidアプリでの3ステップ。アカウントは英語表示、配送先は米国で、注文は確定していません。",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "postParagraphs": [
+          "アプリでのテストでは、コードが受け付けられ、注文概要に「Influencer Code Discount (5% OFF)」の行が表示されました。サイトの画面つき手順は[CECILIA010の使い方](/ja/reviews/yesstyle-reward-code-cecilia010-ja)をご覧ください。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "YesStyleに初回購入向けのコードはありますか？あります。CECILIA010は、初回注文で5%、2回目以降は2%が追加されるコードで、Reward Code欄に入力します。",
+          "CECILIA010は2回目の購入でも使えますか？使えます。2回目以降の注文では2%が追加されます。",
+          "CECILIA010はどの欄に入力しますか？Reward Code欄です。クーポン欄とは別で、リワードコードとして扱われます。",
+          "CECILIA010はアプリでも使えますか？使えます。「Enter Code」画面の「Influencer / Rewards Code」欄に入力してください。"
+        ]
+      }
+    ],
+    "hideFromPortugueseListings": true
+  },
+  {
+    "id": 961,
+    "slug": "yesstyle-first-order-cecilia010-ko",
+    "locale": "ko",
+    "translationKey": "yesstyle-primeira-compra",
+    "title": "YesStyle 첫 구매: CECILIA010 리워드 코드로 첫 주문 5%, 이후 주문 2% 추가",
+    "seoTitle": "YesStyle CECILIA010: 첫 구매 5%, 이후 2% 리워드 코드",
+    "type": "가이드 & 쿠폰",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "YesStyle에서 CECILIA010은 Reward Code 칸에 입력하면 첫 주문에 5%, 이후 주문에 2%가 추가됩니다. 주문마다 달라지는 점과 결제 전에 확인할 것을 정리했습니다.",
+    "metaDescription": "CECILIA010은 YesStyle 리워드 코드입니다. Reward Code 칸에 입력하면 첫 구매 5%, 이후 구매 2%가 추가됩니다. 첫 주문 전에 확인할 점을 정리했습니다.",
+    "publishedAt": "13 Nov 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+    "imageAlt": "YesStyle 로고, \"Welcome\" 문구, \"Reward Code:\" 라벨과 리워드 코드 CECILIA010이 들어간 초록색 사이드 패널과 그 옆에 뺨에 보습제를 바르고 웃으며 Beauty of Joseon 튜브를 든 여성.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Reward Code 칸에 CECILIA010을 입력하세요. 첫 구매 5%, 이후 구매 2%가 추가됩니다.",
+      "label": "YesStyle로 이동",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "제휴 링크: 이 링크와 리워드 코드 CECILIA010을 통해 수수료를 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-reward-code-cecilia010-ko"
+      },
+      {
+        "slug": "yesstyle-app-reward-code-ko"
+      },
+      {
+        "slug": "yesstyle-shipping-korea-ko"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "YesStyle 첫 구매에서 CECILIA010은 5%, 이후 구매에서는 2%가 추가됩니다. 쿠폰이 아니라 리워드 코드이므로 쿠폰 칸이 아닌 Reward Code 칸에 입력합니다. 장바구니를 채우기 전에, YesStyle이 거주 국가로 배송하는지 먼저 확인하세요."
+        ]
+      },
+      {
+        "heading": "YesStyle 첫 구매: 무엇을 쓸까",
+        "paragraphs": [
+          "YesStyle에서 처음 주문하시나요? Reward Code 칸에 CECILIA010을 입력하세요. YesStyle이 안내하는 혜택은 첫 구매 5%, 이후 구매 2%입니다.",
+          "쿠폰 사이트에서 찾은 코드는 작동하지 않을 수 있습니다. 중요한 것은 결제 전에 주문 요약에 할인 줄이 실제로 나타나는지입니다. 조건은 [YesStyle 리워드 코드](/ko/coupons/yesstyle) 페이지에서 확인하세요."
+        ]
+      },
+      {
+        "heading": "리워드 코드는 쿠폰이 아닙니다",
+        "paragraphs": [
+          "결제 화면에는 코드 입력 칸이 두 개 있습니다. 쿠폰 칸과 Reward Code 칸입니다. CECILIA010은 리워드 코드이므로 Reward Code 칸에 입력하며, 쿠폰 칸은 비워 둡니다."
+        ]
+      },
+      {
+        "heading": "두 번째 구매에서는?",
+        "paragraphs": [
+          "두 번째 구매에서도 CECILIA010은 계속 유효하며 2%가 추가됩니다. 코드와 입력 칸은 그대로이고, 달라지는 것은 할인율뿐입니다."
+        ]
+      },
+      {
+        "heading": "첫 주문 전에: 배송 확인",
+        "paragraphs": [
+          "장바구니를 채우기 전에 배송지부터 확인하세요. YesStyle이 거주 국가로 배송하는지는 주문 전에 직접 확인해야 하며, 코드가 이를 바꿔 주지는 않습니다.",
+          "배송 기간, 배송비, 관세는 국가마다 다릅니다. 한국으로 받는 경우는 [YesStyle 한국 배송](/ko/reviews/yesstyle-shipping-korea-ko)에 정리해 두었습니다."
+        ]
+      },
+      {
+        "heading": "코드를 입력하는 곳",
+        "paragraphs": [
+          "칸의 이름은 화면에 따라 다릅니다. 두 가지 경로는 다음과 같습니다."
+        ],
+        "bullets": [
+          "**웹사이트:** 결제 화면에서 칸 이름은 Reward Code(리워드 코드)입니다. CECILIA010을 입력하고 적용하세요.",
+          "**앱:** Enter Code를 누르고, Coupon Code 아래에 있는 Influencer / Rewards Code 칸에 입력합니다. 그다음 Apply를 누릅니다."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "YesStyle 앱의 세 화면. Coupon or Influencer / Rewards Code 줄이 있는 장바구니, Coupon Code와 Influencer / Rewards Code 칸이 있는 Enter Code 화면, CECILIA010이 적용된 주문 요약",
+          "caption": "영어 계정과 미국 배송지로 본 Android 앱의 세 단계입니다. 구매는 완료하지 않았습니다.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "postParagraphs": [
+          "앱에서 직접 테스트했을 때 코드가 적용됐고 주문 요약에 Influencer Code Discount (5% OFF) 줄이 표시됐습니다. 웹사이트 화면을 포함한 단계별 안내는 [CECILIA010 사용법](/ko/reviews/yesstyle-reward-code-cecilia010-ko)에서 볼 수 있습니다."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "YesStyle 첫 구매 코드가 있나요? 있습니다. CECILIA010은 Reward Code 칸에 입력하면 첫 주문에 5%, 이후 주문에 2%가 추가됩니다.",
+          "CECILIA010은 두 번째 구매에도 유효한가요? 유효합니다. 이후 주문에는 2%가 추가됩니다.",
+          "CECILIA010은 어느 칸에 입력하나요? 쿠폰 칸이 아닌 Reward Code 칸에 입력합니다. 리워드 코드이기 때문입니다.",
+          "CECILIA010은 앱에서도 유효한가요? 유효합니다. Enter Code 화면의 Influencer / Rewards Code 칸에 코드를 입력하세요."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 962,
+    "slug": "yesstyle-first-order-cecilia010-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "yesstyle-primeira-compra",
+    "title": "YesStyle 首購優惠：CECILIA010 獎勵碼享 5%，之後訂單享 2%",
+    "seoTitle": "YesStyle 首購代碼 CECILIA010：首購 5%、之後 2%",
+    "type": "指南與優惠碼",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "在 YesStyle，CECILIA010 首次下單額外享 5%，之後的訂單享 2%，填在 Reward Code 欄位。看看兩次訂單之間有什麼不同，以及下單前該確認什麼。",
+    "metaDescription": "CECILIA010 是 YesStyle 獎勵碼：首購 5%、之後訂單 2%，填在 Reward Code 欄位。第一次下單前，看看該確認什麼。",
+    "publishedAt": "2026年11月13日",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+    "imageAlt": "綠色側邊面板上有 YesStyle 標誌、\"Welcome\" 字樣、\"Reward Code:\" 標籤和獎勵碼 CECILIA010，旁邊是一位臉頰抹著保濕霜、微笑著手拿 Beauty of Joseon 軟管的女士。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "把 CECILIA010 貼在 Reward Code 欄位：首購額外 5%，之後的訂單額外 2%。",
+      "label": "前往 YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "聯盟連結：我們可能會透過連結和獎勵碼 CECILIA010 獲得佣金。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-reward-code-cecilia010-zh-hant"
+      },
+      {
+        "slug": "yesstyle-app-reward-code-zh-hant"
+      },
+      {
+        "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "在 YesStyle 第一次下單，CECILIA010 額外享 5%；之後的訂單享 2%。它是獎勵碼，不是優惠券：要填在 Reward Code 欄位，與優惠券欄位分開。建立購物車之前，請先確認 YesStyle 是否寄送到你所在的國家或地區。"
+        ]
+      },
+      {
+        "heading": "YesStyle 首購：該用什麼",
+        "paragraphs": [
+          "要在 YesStyle 完成第一筆訂單嗎？把 CECILIA010 填在 Reward Code 欄位。依商店說明：首購 5%，之後的訂單 2%。",
+          "在優惠券網站找到的代碼不一定有效。以付款前訂單摘要中的折扣行為準。相關條件請見[YesStyle 獎勵碼頁面](/zh-hant/coupons/yesstyle)。"
+        ]
+      },
+      {
+        "heading": "獎勵碼不是優惠券",
+        "paragraphs": [
+          "結帳頁有兩個代碼欄位：優惠券欄位與 Reward Code 欄位。CECILIA010 是獎勵碼，填在 Reward Code，不會佔用優惠券欄位。"
+        ]
+      },
+      {
+        "heading": "第二次下單呢？",
+        "paragraphs": [
+          "第二次下單時，CECILIA010 仍然有效，額外享 2%。代碼和欄位都一樣，只有百分比不同。"
+        ]
+      },
+      {
+        "heading": "第一次下單前：確認配送",
+        "paragraphs": [
+          "建立購物車之前，請先確認 YesStyle 是否寄送到你所在的國家或地區。代碼不會改變配送範圍。",
+          "運費、送達時間與稅費會依收件地而異。寄送台灣、香港與澳門的情況，請見[YesStyle 寄送台灣、香港與澳門](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "代碼要填在哪裡",
+        "paragraphs": [
+          "欄位名稱會依畫面而不同。以下是兩條路徑："
+        ],
+        "bullets": [
+          "**網站：** 在結帳頁，欄位名為 Reward Code（獎勵碼）。輸入 CECILIA010 並套用。",
+          "**App：** 點選 Enter Code，在 Coupon Code 下方的 Influencer / Rewards Code 欄位輸入，再點選 Apply。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "YesStyle App 的三個畫面：帶有 Coupon or Influencer / Rewards Code 行的購物袋、帶有 Coupon Code 和 Influencer / Rewards Code 欄位的 Enter Code 畫面，以及已套用 CECILIA010 的訂單摘要",
+          "caption": "Android App 上的三個步驟，帳號語言為英文、收件地在美國，未完成下單。",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "postParagraphs": [
+          "我們在 App 中測試時，代碼被接受，摘要出現 Influencer Code Discount (5% OFF) 這一行。網站版附畫面的步驟請見[如何使用 CECILIA010](/zh-hant/reviews/yesstyle-reward-code-cecilia010-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "常見問題（FAQ）",
+        "bullets": [
+          "YesStyle 有首購代碼嗎？有：CECILIA010 在第一次下單額外享 5%，之後的訂單享 2%，填在 Reward Code 欄位。",
+          "CECILIA010 第二次下單還能用嗎？可以，之後的訂單額外享 2%。",
+          "CECILIA010 要填在哪個欄位？填在 Reward Code，與優惠券欄位分開：它是獎勵碼。",
+          "CECILIA010 在 App 可以用嗎？可以：在 Enter Code 畫面的 Influencer / Rewards Code 欄位輸入代碼。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 963,
+    "slug": "yesstyle-first-order-cecilia010-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "yesstyle-primeira-compra",
+    "title": "YesStyle 首单：奖励码 CECILIA010 首单额外 5%，之后订单额外 2%",
+    "seoTitle": "YesStyle 奖励码 CECILIA010：首单 5%，之后 2%",
+    "type": "指南与优惠码",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "在 YesStyle，CECILIA010 首单额外 5%，之后的订单额外 2%，填在 Reward Code 栏位。看看两种订单有什么不同，以及下单前该确认什么。",
+    "metaDescription": "CECILIA010 是 YesStyle 的奖励码：首单额外 5%，之后订单额外 2%，填在 Reward Code 栏位。看看首单前该确认什么。",
+    "publishedAt": "2026年11月13日",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "image": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+    "imageAlt": "绿色侧边面板上有 YesStyle 标志、\"Welcome\" 字样、\"Reward Code:\" 标签和奖励码 CECILIA010，旁边是一位脸颊抹着保湿霜、微笑着手拿 Beauty of Joseon 软管的女士。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "把 CECILIA010 填入 Reward Code 栏位：首单额外 5%，之后订单额外 2%。",
+      "label": "前往 YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "联盟链接：我们可能会通过链接和 Reward Code CECILIA010 获得佣金。",
+    "hideFromPortugueseListings": true,
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-reward-code-cecilia010-zh-hans"
+      },
+      {
+        "slug": "yesstyle-app-reward-code-zh-hans"
+      },
+      {
+        "slug": "yesstyle-shipping-singapore-malaysia-zh-hans"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "简要回答",
+        "paragraphs": [
+          "在 YesStyle 首次下单时，CECILIA010 额外优惠 5%；之后的订单额外优惠 2%。它是奖励码，不是优惠券：要填在 Reward Code 栏位，与优惠券栏位分开。下单前，请先确认 YesStyle 是否配送到你所在的国家或地区。"
+        ]
+      },
+      {
+        "heading": "YesStyle 首单：该用什么代码",
+        "paragraphs": [
+          "要在 YesStyle 下第一单？把 CECILIA010 填入 Reward Code 栏位。商店的说明是：首单 5%，之后的订单 2%。",
+          "在优惠券网站上找到的代码不一定能用。以付款前订单摘要中显示的折扣为准。使用条件见[YesStyle 奖励码](/zh-hans/coupons/yesstyle)页面。"
+        ]
+      },
+      {
+        "heading": "奖励码不是优惠券",
+        "paragraphs": [
+          "结账页有两个代码栏位：优惠券栏位和 Reward Code 栏位。CECILIA010 是奖励码，填在 Reward Code，不占用优惠券栏位。"
+        ]
+      },
+      {
+        "heading": "第二单呢？",
+        "paragraphs": [
+          "第二单起，CECILIA010 依然有效，额外优惠 2%。代码和栏位都不变，只有比例不同：首单 5%，之后 2%。"
+        ]
+      },
+      {
+        "heading": "首单之前：确认配送",
+        "paragraphs": [
+          "加入购物车之前，先确认收货地址。请查看 YesStyle 是否配送到你所在的国家或地区；奖励码改变不了这一点。",
+          "配送时间、运费和税费因目的地而异。寄往新加坡与马来西亚的情况见[YesStyle 寄往新加坡与马来西亚](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "在哪里填入代码",
+        "paragraphs": [
+          "栏位名称会因页面不同而变化，两种方式如下："
+        ],
+        "bullets": [
+          "**网站：** 在结账页，栏位叫 Reward Code（奖励码）。输入 CECILIA010 并应用。",
+          "**App：** 点击 Enter Code，把代码填入 Influencer / Rewards Code 栏位，它位于 Coupon Code 下方。然后点击 Apply。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+          "alt": "YesStyle App 的三个界面：带有 Coupon or Influencer / Rewards Code 一行的购物袋，带有 Coupon Code 和 Influencer / Rewards Code 栏位的 Enter Code 界面，以及已应用 CECILIA010 的订单摘要",
+          "caption": "Android App 上的三个步骤，账户语言为英文，收货地为美国，未完成下单。",
+          "objectFit": "contain",
+          "aspectRatio": 1.4382
+        },
+        "postParagraphs": [
+          "我们在 App 里测试时，代码被接受，订单摘要显示了 Influencer Code Discount (5% OFF) 一行。网站界面的分步截图见[如何使用 CECILIA010](/zh-hans/reviews/yesstyle-reward-code-cecilia010-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "有 YesStyle 首单代码吗？有：CECILIA010 首单额外 5%，之后的订单额外 2%，填在 Reward Code 栏位。",
+          "CECILIA010 第二单还能用吗？能，之后的订单额外 2%，首单则是 5%。",
+          "CECILIA010 填在哪个栏位？填在 Reward Code，与优惠券栏位分开：它是奖励码。",
+          "CECILIA010 在 App 里能用吗？能：在 Enter Code 界面，把代码填入 Influencer / Rewards Code 栏位。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 964,
+    "slug": "shein-first-order-referral-code",
+    "locale": "en",
+    "translationKey": "shein-primeira-compra",
+    "title": "SHEIN first order coupon: what referral code 4CW5Y does on your first purchase",
+    "seoTitle": "SHEIN first order coupon: what 4CW5Y does",
+    "type": "Referral Code Guide",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "4CW5Y is not a checkout coupon: searched in the SHEIN app or website, it opens a selection of promotions and discounts, on your first order and later ones. See where to search.",
+    "metaDescription": "4CW5Y is a SHEIN referral code for your first order and later ones: search it in the app or on the website to see promotions and discounts.",
+    "publishedAt": "November 13, 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+    "imageAlt": "Green side panel with the SHEIN logo, the word \"Welcome\" and the referral code 4CW5Y, next to two women choosing dresses on a clothing rack with shopping bags, in a SHEIN press photo.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Open SHEIN through Cecília's link or copy 4CW5Y and search it in the SHEIN app or on the website",
+      "label": "Open SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "SHEIN's official page rules. We may earn a commission on purchases.",
+    "relatedArticles": [
+      {
+        "slug": "shein-referral-code-where-to-enter"
+      },
+      {
+        "slug": "is-shein-legit-and-safe"
+      },
+      {
+        "slug": "shein-black-friday-dates-taxes"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "For your first SHEIN order, use 4CW5Y, Cecília's referral code: search the code in the app or on the website and see a selection of products, promotions and discounts. How much and on which pieces is up to SHEIN. It does not go in the coupon field, and it works for returning customers too."
+        ]
+      },
+      {
+        "heading": "SHEIN first order coupon: what to use",
+        "paragraphs": [
+          "For your first SHEIN order, use 4CW5Y, Cecília's referral code: you search it in the search bar of the app or website, not in the coupon field.",
+          "First-order amounts advertised on coupon sites usually come without a source from SHEIN: before counting on one, check it on SHEIN itself. The campaigns currently running are on our [SHEIN coupon](/en/coupons/shein) page."
+        ]
+      },
+      {
+        "heading": "A referral code is not a checkout coupon",
+        "paragraphs": [
+          "4CW5Y does not go in the cart's coupon field. Searched in the app or on the website, it opens the SHEIN page linked to the code, and the discount shows on the items in that selection.",
+          "The store says the perks appear on campaign and product pages and change often. How much and on which pieces is up to SHEIN.",
+          "So, when you build your cart, check the final price of each item before you pay."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+            "alt": "SHEIN page opened by searching 4CW5Y, titled \"Acho que você pode gostar\" (\"I think you might like\"), with items marked with a discount badge",
+            "caption": "The page the search for 4CW5Y opens: the discount is marked on each item.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7581
+          }
+        ]
+      },
+      {
+        "heading": "On later orders, the code still works",
+        "paragraphs": [
+          "For later orders, the code is the same: 4CW5Y keeps working as a referral code.",
+          "The page opens even without logging in: the code does not depend on it being your first order."
+        ]
+      },
+      {
+        "heading": "Where to search the code",
+        "paragraphs": [
+          "Three steps, in the SHEIN app or on the website:"
+        ],
+        "bullets": [
+          "Search 4CW5Y in the search bar of the app or website.",
+          "Pick your items from the page that opens.",
+          "Build your cart from there."
+        ],
+        "postParagraphs": [
+          "The shortest way is the store button here in the guide: Cecília's link already opens the 4CW5Y page, with nothing to copy. The step-by-step with the search screens is in [SHEIN referral code: where to enter it and how it works](/en/reviews/shein-referral-code-where-to-enter)."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Is there a SHEIN first order coupon? For your first order, Cecília's code is 4CW5Y, a referral code: search it in the app or on the website and see the selection the search opens.",
+          "Is 4CW5Y a coupon? No. It is a referral code, searched in the app or on the website, and it does not go in the cart's coupon field.",
+          "Does 4CW5Y work for customers who have already ordered? Yes. The code also works on later orders, and the search does not require a login.",
+          "Does 4CW5Y work on the website and in the app? Yes, on both: the search in the app and on the website open the code's page."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 965,
+    "slug": "cupon-shein-primera-compra",
+    "locale": "es",
+    "translationKey": "shein-primeira-compra",
+    "title": "Cupón SHEIN primera compra: qué hace el código de referido 4CW5Y en tu primer pedido",
+    "seoTitle": "Cupón SHEIN primera compra: qué hace el 4CW5Y",
+    "type": "Guía del código de referido",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "El 4CW5Y no es un cupón del carrito: buscado en la app o en el sitio de SHEIN, abre una selección de promociones y descuentos, en el primero y en los siguientes. Dónde buscarlo.",
+    "metaDescription": "El 4CW5Y es un código de referido de SHEIN para el primer pedido y los siguientes: búscalo en la app o en el sitio y mira su selección de descuentos.",
+    "publishedAt": "13 de noviembre de 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+    "imageAlt": "Panel lateral verde con el logo de SHEIN, la palabra \"Welcome\" y el código de referido 4CW5Y, junto a dos mujeres que eligen vestidos en un perchero con bolsas de compras, en una foto de prensa de SHEIN.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Abre SHEIN con el enlace de Cecília o copia 4CW5Y y búscalo en la app o en el sitio de SHEIN",
+      "label": "Abrir SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Reglas de las páginas oficiales de SHEIN. Podemos recibir comisión por las compras.",
+    "relatedArticles": [
+      {
+        "slug": "codigo-de-referido-shein-donde-ponerlo"
+      },
+      {
+        "slug": "shein-es-confiable-y-seguro"
+      },
+      {
+        "slug": "black-friday-shein-fechas-impuestos"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "En tu primera compra en SHEIN, usa el 4CW5Y, el código de referido de Cecília: búscalo en la app o en el sitio y verás una selección de productos, promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN. No va en el campo de cupón y también sirve para quien ya compró."
+        ]
+      },
+      {
+        "heading": "Cupón SHEIN primera compra: qué usar",
+        "paragraphs": [
+          "Para tu primera compra en SHEIN, usa el 4CW5Y, el código de referido de Cecília: se busca en el buscador de la app o del sitio, y no en el campo de cupón.",
+          "Los valores de primera compra que anuncian los sitios de cupones suelen no tener respaldo de SHEIN: antes de contar con alguno, compruébalo en la propia SHEIN. Las campañas vigentes están en nuestra página de [cupón SHEIN](/es/coupons/shein)."
+        ]
+      },
+      {
+        "heading": "Un código de referido no es un cupón del carrito",
+        "paragraphs": [
+          "El 4CW5Y no va en el campo de cupón del carrito. Al buscarlo en la app o en el sitio, abre la página de SHEIN vinculada al código, y el descuento aparece en las prendas de esa selección.",
+          "La tienda lo explica así: las ventajas aparecen en las páginas de campaña y de producto y cambian con frecuencia. Cuánto y en qué prendas lo decide SHEIN.",
+          "Por eso, al armar el carrito, revisa el precio final de cada prenda antes de pagar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+            "alt": "Página de SHEIN abierta con la búsqueda de 4CW5Y, con el título \"Acho que você pode gostar\" (\"Creo que te puede gustar\") y prendas con etiqueta de descuento",
+            "caption": "La página que abre la búsqueda de 4CW5Y: el descuento aparece marcado en cada prenda.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7581
+          }
+        ]
+      },
+      {
+        "heading": "En los pedidos siguientes, el código sigue valiendo",
+        "paragraphs": [
+          "Para los pedidos siguientes, el código es el mismo: el 4CW5Y sigue valiendo como código de referido.",
+          "La página se abre incluso sin iniciar sesión: el código no depende de que sea tu primer pedido."
+        ]
+      },
+      {
+        "heading": "Dónde buscar el código",
+        "paragraphs": [
+          "Son tres pasos, en la app o en el sitio de SHEIN:"
+        ],
+        "bullets": [
+          "Busca 4CW5Y en el buscador de la app o del sitio.",
+          "Elige las prendas de la página que se abra.",
+          "Arma el carrito a partir de ahí."
+        ],
+        "postParagraphs": [
+          "El camino más corto es el botón de la tienda en esta guía: el enlace de Cecília ya abre la página del 4CW5Y, sin copiar nada. El paso a paso con las pantallas de la búsqueda está en [Código de referido de SHEIN: dónde ponerlo y cómo usarlo](/es/reviews/codigo-de-referido-shein-donde-ponerlo)."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Hay un cupón SHEIN de primera compra? Para el primer pedido, el código de Cecília es el 4CW5Y, un código de referido: búscalo en la app o en el sitio y mira la selección que abre la búsqueda.",
+          "¿El 4CW5Y es un cupón? No. Es un código de referido, que se busca en la app o en el sitio y no va en el campo de cupón del carrito.",
+          "¿El 4CW5Y funciona para quien ya compró? Sí. El código vale también en los pedidos siguientes, y la búsqueda no exige iniciar sesión.",
+          "¿El 4CW5Y vale en el sitio y en la app? Vale en los dos: el buscador de la app y el del sitio abren la página del código."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 966,
+    "slug": "code-promo-shein-premiere-commande",
+    "locale": "fr",
+    "translationKey": "shein-primeira-compra",
+    "title": "Code promo SHEIN première commande : ce que fait le code de parrainage 4CW5Y",
+    "seoTitle": "Code promo SHEIN première commande : le 4CW5Y",
+    "type": "Guide du code de parrainage",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Le 4CW5Y n'est pas un code promo : saisi dans la recherche de SHEIN, il ouvre une sélection de promotions et de réductions, en première commande comme ensuite. Où le saisir.",
+    "metaDescription": "Le 4CW5Y est un code de parrainage SHEIN, pour la première commande et les suivantes : saisissez-le dans la recherche, appli ou site, et voyez la sélection de promotions.",
+    "publishedAt": "13 novembre 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+    "imageAlt": "Bandeau latéral vert avec le logo SHEIN, le mot \"Welcome\" et le code de parrainage 4CW5Y, à côté de deux femmes qui choisissent des robes sur un portant avec des sacs de shopping, sur une photo de presse SHEIN.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Ouvrez SHEIN via le lien de Cecília ou copiez 4CW5Y et recherchez-le dans l'application ou sur le site SHEIN",
+      "label": "Ouvrir SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Règles des pages officielles de SHEIN. Nous pouvons percevoir une commission sur les achats.",
+    "relatedArticles": [
+      {
+        "slug": "code-de-parrainage-shein-ou-le-mettre"
+      },
+      {
+        "slug": "shein-est-il-fiable-et-sur"
+      },
+      {
+        "slug": "black-friday-shein-dates-et-taxes"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Pour une première commande sur SHEIN, utilisez le 4CW5Y, le code de parrainage de Cecília : recherchez-le dans l'application ou sur le site et voyez une sélection de produits, de promotions et de réductions. Le montant et les pièces concernées, c'est SHEIN qui les décide. Il ne se saisit pas dans le champ du code promo et fonctionne aussi pour qui a déjà commandé."
+        ]
+      },
+      {
+        "heading": "Code promo SHEIN première commande : que faut-il utiliser ?",
+        "paragraphs": [
+          "Pour une première commande sur SHEIN, utilisez le 4CW5Y, le code de parrainage de Cecília : il se recherche dans la barre de recherche de l'application ou du site, et non dans le champ du code promo.",
+          "Les montants de première commande annoncés sur les sites de codes promo viennent souvent sans source SHEIN : avant de compter sur l'un d'eux, vérifiez-le sur SHEIN même. Les campagnes en cours se trouvent sur notre page [code de parrainage SHEIN](/fr/coupons/shein)."
+        ]
+      },
+      {
+        "heading": "Un code de parrainage n'est pas un code promo de paiement",
+        "paragraphs": [
+          "Le 4CW5Y ne se saisit pas dans le champ du code promo du panier. Recherché dans l'application ou sur le site, il ouvre la page SHEIN liée au code, et la réduction apparaît sur les pièces de cette sélection.",
+          "La boutique l'indique : les avantages s'affichent sur les pages de campagne et de produit, et changent souvent. Le montant et les pièces concernées, c'est SHEIN qui les décide.",
+          "Du coup, en remplissant le panier, vérifiez le prix final de chaque pièce avant de payer."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+            "alt": "Page SHEIN ouverte après la recherche de 4CW5Y, avec le titre « Acho que você pode gostar » (« Je pense que vous pourriez aimer ») et des pièces avec un badge de réduction",
+            "caption": "La page qu'ouvre la recherche de 4CW5Y : la réduction est indiquée sur chaque pièce.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7581
+          }
+        ]
+      },
+      {
+        "heading": "Pour les commandes suivantes, le code reste valable",
+        "paragraphs": [
+          "Pour les commandes suivantes, le code est le même : le 4CW5Y reste valable comme code de parrainage.",
+          "La page s'ouvre même sans connexion : le code ne dépend pas de la première commande."
+        ]
+      },
+      {
+        "heading": "Où rechercher le code",
+        "paragraphs": [
+          "Trois étapes, dans l'application ou sur le site SHEIN :"
+        ],
+        "bullets": [
+          "Recherchez 4CW5Y dans la barre de recherche de l'application ou du site.",
+          "Choisissez vos articles sur la page qui s'ouvre.",
+          "Remplissez le panier à partir de cette page."
+        ],
+        "postParagraphs": [
+          "Le plus court, c'est le bouton de la boutique dans ce guide : le lien de Cecília ouvre déjà la page du 4CW5Y, sans rien copier. Le pas à pas avec les écrans de la recherche se trouve dans [Code de parrainage SHEIN : où le mettre et comment l'utiliser](/fr/reviews/code-de-parrainage-shein-ou-le-mettre)."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Existe-t-il un code promo SHEIN pour la première commande ? Pour la première commande, le code de Cecília est le 4CW5Y, un code de parrainage : recherchez-le dans l'application ou sur le site et voyez la sélection qu'ouvre la recherche.",
+          "Le 4CW5Y est-il un code promo ? Non. C'est un code de parrainage, qui se recherche dans l'application ou sur le site, et non dans le champ du code promo du panier.",
+          "Le 4CW5Y fonctionne-t-il pour qui a déjà commandé ? Oui. Le code reste valable pour les commandes suivantes, et la recherche n'exige pas de connexion.",
+          "Le 4CW5Y est-il valable sur le site et dans l'application ? Dans les deux : la recherche de l'application comme celle du site ouvrent la page du code."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 967,
+    "slug": "shein-gutschein-erstbestellung",
+    "locale": "de",
+    "translationKey": "shein-primeira-compra",
+    "title": "SHEIN-Gutschein für die Erstbestellung: was der Empfehlungscode 4CW5Y bei der ersten Bestellung bewirkt",
+    "seoTitle": "SHEIN-Gutschein Erstbestellung: was 4CW5Y bewirkt",
+    "type": "Empfehlungscode-Ratgeber",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "4CW5Y ist kein Gutschein für den Checkout: In der App oder auf der Website von SHEIN gesucht, öffnet er eine Auswahl an Aktionen und Rabatten, bei der ersten Bestellung und danach.",
+    "metaDescription": "4CW5Y ist der SHEIN-Empfehlungscode für die erste und alle weiteren Bestellungen: In der App oder auf der Website suchen und die Auswahl an Aktionen und Rabatten ansehen.",
+    "publishedAt": "13. November 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+    "imageAlt": "Grünes Seitenfeld mit dem SHEIN-Logo, dem Wort \"Welcome\" und dem Empfehlungscode 4CW5Y, daneben zwei Frauen, die an einer Kleiderstange Kleider auswählen, mit Einkaufstüten, auf einem SHEIN-Pressefoto.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Öffnen Sie SHEIN über Cecílias Link oder kopieren Sie 4CW5Y und suchen Sie in der SHEIN-App oder auf der Website danach",
+      "label": "SHEIN öffnen",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Regeln der offiziellen SHEIN-Seiten. Wir können für Käufe eine Provision erhalten.",
+    "relatedArticles": [
+      {
+        "slug": "shein-empfehlungscode-wo-eingeben"
+      },
+      {
+        "slug": "ist-shein-serioes-und-sicher"
+      },
+      {
+        "slug": "shein-black-friday-termine-steuern"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Kurze Antwort",
+        "paragraphs": [
+          "Bei der ersten Bestellung bei SHEIN nutzen Sie 4CW5Y, den Empfehlungscode von Cecília: Suchen Sie den Code in der App oder auf der Website und sehen Sie eine Auswahl an Produkten, Aktionen und Rabatten. Wie hoch und auf welche Teile, entscheidet SHEIN. Er gehört nicht ins Gutscheinfeld und funktioniert auch für Kundinnen und Kunden, die schon bestellt haben."
+        ]
+      },
+      {
+        "heading": "Für die Erstbestellung: was Sie nutzen",
+        "paragraphs": [
+          "Für die erste Bestellung bei SHEIN nutzen Sie 4CW5Y, den Empfehlungscode von Cecília: Er wird in der Suche der App oder der Website eingegeben und nicht im Gutscheinfeld.",
+          "Beträge für die Erstbestellung, die auf Gutscheinseiten genannt werden, haben meist keine Quelle bei SHEIN: Prüfen Sie sie direkt bei SHEIN, bevor Sie mit einem davon rechnen. Die laufenden Kampagnen stehen auf unserer [SHEIN-Seite](/de/coupons/shein)."
+        ]
+      },
+      {
+        "heading": "Empfehlungscode ist kein Gutschein für den Checkout",
+        "paragraphs": [
+          "4CW5Y gehört nicht ins Gutscheinfeld des Warenkorbs. In der App oder auf der Website gesucht, öffnet er die mit dem Code verknüpfte SHEIN-Seite, und der Rabatt erscheint bei den Artikeln dieser Auswahl.",
+          "Der Shop teilt mit: Die Vorteile erscheinen auf den Kampagnen- und Produktseiten und ändern sich häufig. Wie hoch und auf welche Teile, entscheidet SHEIN.",
+          "Prüfen Sie deshalb beim Füllen des Warenkorbs vor dem Bezahlen den Endpreis jedes Artikels."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+            "alt": "SHEIN-Seite, geöffnet durch die Suche nach 4CW5Y, mit dem Titel \"Acho que você pode gostar\" („Ich glaube, das könnte Ihnen gefallen“) und Artikeln mit Rabattsiegel",
+            "caption": "Die Seite, die die Suche nach 4CW5Y öffnet: Der Rabatt ist bei jedem Artikel markiert.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7581
+          }
+        ]
+      },
+      {
+        "heading": "Bei weiteren Bestellungen gilt der Code weiter",
+        "paragraphs": [
+          "Für weitere Bestellungen bleibt der Code derselbe: 4CW5Y gilt weiterhin als Empfehlungscode.",
+          "Die Seite öffnet sich sogar ohne Anmeldung: Der Code hängt nicht davon ab, dass es die erste Bestellung ist."
+        ]
+      },
+      {
+        "heading": "Wo Sie den Code suchen",
+        "paragraphs": [
+          "Es sind drei Schritte, in der App oder auf der Website von SHEIN:"
+        ],
+        "bullets": [
+          "Suchen Sie 4CW5Y in der Suche der App oder der Website.",
+          "Wählen Sie Artikel auf der Seite, die sich öffnet.",
+          "Füllen Sie von dort aus den Warenkorb."
+        ],
+        "postParagraphs": [
+          "Der kürzeste Weg ist der Shop-Button hier im Ratgeber: Cecílias Link öffnet die Seite von 4CW5Y direkt, ohne etwas zu kopieren. Die Anleitung mit den Screenshots der Suche steht in [SHEIN-Empfehlungscode: wo eingeben und wie er funktioniert](/de/reviews/shein-empfehlungscode-wo-eingeben)."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Welcher Code gilt bei der ersten Bestellung bei SHEIN? Cecílias Code 4CW5Y, ein Empfehlungscode: In der App oder auf der Website suchen und die Auswahl ansehen, die die Suche öffnet.",
+          "Ist 4CW5Y ein Gutschein? Nein. Es ist ein Empfehlungscode, der in der App oder auf der Website gesucht wird und nicht ins Gutscheinfeld des Warenkorbs gehört.",
+          "Funktioniert 4CW5Y auch für Kundinnen und Kunden, die schon bestellt haben? Ja. Der Code gilt auch bei weiteren Bestellungen, und die Suche verlangt keine Anmeldung.",
+          "Gilt 4CW5Y auf der Website und in der App? Auf beidem: Die Suche der App und die der Website öffnen die Seite des Codes."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 968,
+    "slug": "codice-sconto-shein-primo-ordine",
+    "locale": "it",
+    "translationKey": "shein-primeira-compra",
+    "title": "Codice sconto SHEIN primo ordine: cosa fa il codice invito 4CW5Y al primo acquisto",
+    "seoTitle": "Codice sconto SHEIN primo ordine: cosa fa il 4CW5Y",
+    "type": "Guida al codice invito",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Il 4CW5Y non è un coupon del carrello: cercato nell'app o nel sito SHEIN, apre una selezione di promozioni e sconti, al primo ordine e ai successivi. Ecco dove cercarlo.",
+    "metaDescription": "Il 4CW5Y è il codice invito SHEIN per il primo ordine e per i successivi: cercalo nell'app o nel sito e guarda la selezione di promozioni e sconti.",
+    "publishedAt": "13 novembre 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+    "imageAlt": "Pannello laterale verde con il logo SHEIN, la parola \"Welcome\" e il codice invito 4CW5Y, accanto a due donne che scelgono abiti su un appendiabiti con shopper, in una foto stampa di SHEIN.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Apri SHEIN con il link di Cecília o copia 4CW5Y e cercalo nell'app o nel sito di SHEIN",
+      "label": "Apri SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Regole delle pagine ufficiali di SHEIN. Possiamo ricevere una commissione sugli acquisti.",
+    "relatedArticles": [
+      {
+        "slug": "codice-invito-shein-dove-inserirlo"
+      },
+      {
+        "slug": "shein-e-affidabile-e-sicuro"
+      },
+      {
+        "slug": "black-friday-shein-date-e-tasse"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Per il primo ordine su SHEIN usa il 4CW5Y, il codice invito di Cecília: cercalo nell'app o nel sito e guarda una selezione di prodotti, promozioni e sconti. Quanto e su quali capi lo decide SHEIN. Non va nel campo del coupon e funziona anche per chi ha già acquistato."
+        ]
+      },
+      {
+        "heading": "Codice sconto SHEIN primo ordine: cosa usare",
+        "paragraphs": [
+          "Per il primo ordine su SHEIN usa il 4CW5Y, il codice invito di Cecília: si cerca nella barra di ricerca dell'app o del sito, non nel campo del coupon.",
+          "Gli importi per il primo ordine pubblicati sui siti di coupon di solito non hanno una fonte SHEIN: prima di contare su uno di essi, controlla sul sito di SHEIN. Le campagne in corso sono nella nostra pagina del [codice sconto SHEIN](/it/coupons/shein)."
+        ]
+      },
+      {
+        "heading": "Il codice invito non è un coupon del carrello",
+        "paragraphs": [
+          "Il 4CW5Y non va nel campo del coupon del carrello. Cercato nell'app o nel sito, apre la pagina SHEIN collegata al codice, e lo sconto compare sui capi di quella selezione.",
+          "Il negozio spiega che i vantaggi compaiono nelle pagine di campagna e di prodotto e cambiano spesso. Quanto e su quali capi lo decide SHEIN.",
+          "Per questo, quando prepari il carrello, controlla il prezzo finale di ogni capo prima di pagare."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+            "alt": "Pagina SHEIN aperta dalla ricerca di 4CW5Y, con il titolo \"Acho que você pode gostar\" (\"Penso che potrebbe piacerti\") e capi con il bollino di sconto",
+            "caption": "La pagina che apre la ricerca di 4CW5Y: lo sconto compare indicato su ogni capo.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7581
+          }
+        ]
+      },
+      {
+        "heading": "Negli ordini successivi il codice continua a valere",
+        "paragraphs": [
+          "Per gli ordini successivi il codice è lo stesso: il 4CW5Y continua a valere come codice invito.",
+          "La pagina si apre anche senza accesso: il codice non dipende dal fatto che sia il primo ordine."
+        ]
+      },
+      {
+        "heading": "Dove cercare il codice",
+        "paragraphs": [
+          "Bastano tre passaggi, nell'app o nel sito SHEIN:"
+        ],
+        "bullets": [
+          "Cerca 4CW5Y nella barra di ricerca dell'app o del sito.",
+          "Scegli i capi dalla pagina che si apre.",
+          "Riempi il carrello partendo da lì."
+        ],
+        "postParagraphs": [
+          "La via più breve è il pulsante del negozio qui nella guida: il link di Cecília apre già la pagina del 4CW5Y, senza copiare nulla. La guida passo passo con le schermate della ricerca è in [Codice invito SHEIN: dove inserirlo e come usarlo](/it/reviews/codice-invito-shein-dove-inserirlo)."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "C'è un codice sconto SHEIN per il primo ordine? Per il primo ordine il codice di Cecília è il 4CW5Y, un codice invito: cercalo nell'app o nel sito e guarda la selezione che la ricerca apre.",
+          "Il 4CW5Y è un coupon? No. È un codice invito, che si cerca nell'app o nel sito e non va nel campo del coupon del carrello.",
+          "Il 4CW5Y funziona per chi ha già acquistato? Sì. Il codice vale anche negli ordini successivi, e la ricerca non richiede l'accesso.",
+          "Il 4CW5Y vale sul sito e nell'app? Vale su entrambi: la ricerca dell'app e quella del sito aprono la pagina del codice."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 969,
+    "slug": "shein-first-order-ja",
+    "locale": "ja",
+    "translationKey": "shein-primeira-compra",
+    "title": "SHEINの初回クーポン：紹介コード4CW5Yが最初の注文でできること",
+    "seoTitle": "SHEINの初回クーポン：4CW5Yでできること",
+    "type": "紹介コードガイド",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "4CW5Yはチェックアウトのクーポンではありません。SHEINのアプリまたはサイトで検索すると、セールと割引の特集が開きます。最初の注文でも、その後の注文でも使えます。",
+    "metaDescription": "4CW5Yは初回注文にも2回目以降にも使えるSHEINの紹介コードです。アプリまたはサイトで検索すると、セールと割引の特集ページが開きます。",
+    "publishedAt": "2026年11月13日",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+    "imageAlt": "SHEINのロゴ、\"Welcome\"の文字、紹介コード4CW5Yが入った緑のサイドパネルと、ショッピングバッグを持ち、ラックのドレスを選ぶ2人の女性。SHEINの広報写真。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "CecíliaのリンクからSHEINを開くか、4CW5YをコピーしてSHEINのアプリまたはサイトで検索してください",
+      "label": "SHEIN を開く",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "SHEIN公式ページの規約に基づいています。購入に応じて手数料を受け取ることがあります。",
+    "relatedArticles": [
+      {
+        "slug": "shein-referral-code-ja"
+      },
+      {
+        "slug": "shein-trust-guide-ja"
+      },
+      {
+        "slug": "shein-black-friday-ja"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "クイックアンサー",
+        "paragraphs": [
+          "SHEINの最初の注文には、Cecíliaの紹介コード4CW5Yを使います。アプリまたはサイトで検索すると、商品、セール、割引の特集が開きます。割引の大きさと対象の商品はSHEINが決めます。クーポン欄には入力せず、すでに購入したことがある人も使えます。"
+        ]
+      },
+      {
+        "heading": "SHEINの初回クーポン：使うもの",
+        "paragraphs": [
+          "SHEINの最初の注文には、Cecíliaの紹介コード4CW5Yを使います。入力先はクーポン欄ではなく、アプリまたはサイトの検索です。",
+          "クーポンサイトに載っている初回注文の金額や割引は、SHEINの情報源が示されていないものが多くあります。頼りにする前に、SHEINのページで確認してください。実施中のキャンペーンは、このサイトの[SHEINのクーポン](/ja/coupons/shein)のページにあります。"
+        ]
+      },
+      {
+        "heading": "紹介コードはチェックアウトのクーポンではありません",
+        "paragraphs": [
+          "4CW5Yはカートのクーポン欄には入力しません。アプリまたはサイトで検索すると、コードに紐づくSHEINのページが開き、そのセレクションの商品に割引が表示されます。",
+          "SHEINによると、特典はキャンペーンページと商品ページに表示され、頻繁に変わります。割引の大きさと対象の商品はSHEINが決めます。",
+          "そのため、カートを作るときは、支払う前に各商品の最終価格を確認してください。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+            "alt": "4CW5Yの検索で開いたSHEINのページ。タイトルは「Acho que você pode gostar」（「お気に入りが見つかるかも」）で、割引ラベルのついた商品が表示されている",
+            "caption": "4CW5Yの検索で開くページ。割引は各商品に表示されます。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7581
+          }
+        ]
+      },
+      {
+        "heading": "2回目以降の注文でも、コードは使えます",
+        "paragraphs": [
+          "2回目以降の注文でも、コードは同じです。4CW5Yは引き続き紹介コードとして使えます。",
+          "ページはログインなしでも開きます。初めての注文かどうかに、コードは左右されません。"
+        ]
+      },
+      {
+        "heading": "コードを検索する場所",
+        "paragraphs": [
+          "SHEINのアプリまたはサイトで、手順は3つです。"
+        ],
+        "bullets": [
+          "アプリまたはサイトの検索で4CW5Yを検索します。",
+          "開いたページから商品を選びます。",
+          "そのページからカートを作ります。"
+        ],
+        "postParagraphs": [
+          "いちばん早いのは、このガイドのストアボタンです。Cecíliaのリンクなら、コードをコピーしなくても4CW5Yのページが開きます。検索画面つきの手順は、[SHEINの紹介コード：入力する場所と使い方](/ja/reviews/shein-referral-code-ja)にあります。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "SHEINに初回注文のクーポンはありますか？ 最初の注文には、Cecíliaのコード4CW5Yを使います。紹介コードです。アプリまたはサイトで検索すると、特集ページが開きます。",
+          "4CW5Yはクーポンですか？ いいえ。紹介コードです。アプリまたはサイトで検索して使い、カートのクーポン欄には入力しません。",
+          "4CW5Yは購入したことがある人も使えますか？ 使えます。2回目以降の注文でも使え、検索にログインは必要ありません。",
+          "4CW5Yはサイトとアプリのどちらで使えますか？ どちらでも使えます。アプリの検索でも、サイトの検索でも、コードのページが開きます。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 970,
+    "slug": "shein-first-order-ko",
+    "locale": "ko",
+    "translationKey": "shein-primeira-compra",
+    "title": "SHEIN 첫 구매 쿠폰: 추천 코드 4CW5Y는 첫 주문에서 무엇을 해 주나요",
+    "seoTitle": "SHEIN 첫 구매 쿠폰: 추천 코드 4CW5Y 사용법",
+    "type": "추천 코드 가이드",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "4CW5Y는 결제용 쿠폰이 아니라 추천 코드입니다. SHEIN 앱이나 사이트의 검색창에 검색하면 프로모션과 할인 모음 페이지가 열리며, 첫 주문과 이후 주문에 같은 방법으로 씁니다. 할인 폭과 대상 상품은 SHEIN이 정하므로 검색하는 곳과 결제 전 최종 가격을 확인하세요.",
+    "metaDescription": "4CW5Y는 첫 주문과 이후 주문에 쓰는 SHEIN 추천 코드입니다. 앱이나 사이트에서 검색하면 프로모션과 할인 모음 페이지가 열립니다.",
+    "publishedAt": "2026년 11월 13일",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+    "imageAlt": "SHEIN 로고, \"Welcome\" 문구, 추천 코드 4CW5Y가 들어간 초록색 사이드 패널과 그 옆에 쇼핑백과 함께 옷걸이의 원피스를 고르는 두 여성이 담긴 SHEIN 보도 사진.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Cecília의 링크로 SHEIN을 열거나, 4CW5Y를 복사해 SHEIN 앱이나 사이트에서 검색하세요",
+      "label": "SHEIN 열기",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "SHEIN 공식 페이지의 규정에 따랐습니다. 구매에 대해 수수료를 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "shein-referral-code-ko"
+      },
+      {
+        "slug": "shein-trust-guide-ko"
+      },
+      {
+        "slug": "shein-black-friday-ko"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "SHEIN 첫 구매에는 Cecília의 추천 코드 4CW5Y를 사용하세요. 앱이나 사이트에서 코드를 검색하면 상품, 프로모션, 할인을 모은 페이지가 열립니다. 할인 폭과 대상 상품은 SHEIN이 정합니다. 쿠폰 칸에 입력하는 코드가 아니며, 이미 구매한 적이 있는 분도 쓸 수 있습니다."
+        ]
+      },
+      {
+        "heading": "SHEIN 첫 구매 쿠폰: 무엇을 쓰나요",
+        "paragraphs": [
+          "SHEIN 첫 구매에는 Cecília의 추천 코드 4CW5Y를 사용하세요. 쿠폰 칸이 아니라 앱이나 사이트의 검색창에서 검색합니다.",
+          "쿠폰 사이트에 올라온 첫 구매 혜택 금액은 SHEIN의 출처 없이 게시된 경우가 많습니다. 기대하기 전에 SHEIN에서 직접 확인하세요. 진행 중인 캠페인은 이 사이트의 [SHEIN 페이지](/ko/coupons/shein)에서 볼 수 있습니다."
+        ]
+      },
+      {
+        "heading": "추천 코드는 결제용 쿠폰이 아닙니다",
+        "paragraphs": [
+          "4CW5Y는 장바구니의 쿠폰 칸에 입력하지 않습니다. 앱이나 사이트에서 검색하면 코드에 연결된 SHEIN 페이지가 열리고, 그 모음에 속한 상품에 할인이 표시됩니다.",
+          "SHEIN에 따르면 혜택은 캠페인 페이지와 상품 페이지에 표시되며 자주 바뀝니다. 할인 폭과 대상 상품은 SHEIN이 정합니다.",
+          "따라서 장바구니를 채울 때는 결제 전에 상품별 최종 가격을 확인하세요."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+            "alt": "4CW5Y 검색으로 열린 SHEIN 페이지. 제목은 \"Acho que você pode gostar\"(\"마음에 드실 만한 상품\")이고 할인 표시가 붙은 상품이 보인다",
+            "caption": "4CW5Y를 검색하면 열리는 페이지입니다. 할인은 상품마다 표시됩니다.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7581
+          }
+        ]
+      },
+      {
+        "heading": "이후 주문에서도 코드는 계속 유효합니다",
+        "paragraphs": [
+          "이후 주문에도 같은 코드를 씁니다. 4CW5Y는 계속 추천 코드로 사용할 수 있습니다.",
+          "로그인하지 않아도 페이지가 열립니다. 코드는 첫 주문 여부와 상관이 없습니다."
+        ]
+      },
+      {
+        "heading": "코드를 검색하는 곳",
+        "paragraphs": [
+          "SHEIN 앱이나 사이트에서 세 단계로 진행합니다."
+        ],
+        "bullets": [
+          "앱이나 사이트의 검색창에 4CW5Y를 입력해 검색합니다.",
+          "열린 페이지에서 상품을 고릅니다.",
+          "그 페이지에서 장바구니를 채웁니다."
+        ],
+        "postParagraphs": [
+          "가장 빠른 방법은 이 가이드의 SHEIN 버튼입니다. Cecília의 링크로 4CW5Y 페이지가 바로 열리므로 복사할 필요가 없습니다. 검색 화면을 보여 주는 단계별 안내는 [SHEIN 추천 코드: 입력하는 곳과 사용법](/ko/reviews/shein-referral-code-ko)에 있습니다."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "SHEIN 첫 구매 쿠폰이 있나요? 첫 주문에는 Cecília의 코드 4CW5Y를 쓰세요. 추천 코드이며, 앱이나 사이트에서 검색하면 열리는 모음 페이지에서 상품을 고르면 됩니다.",
+          "4CW5Y는 쿠폰인가요? 아니요. 추천 코드이며 앱이나 사이트에서 검색합니다. 장바구니의 쿠폰 칸에는 입력하지 않습니다.",
+          "이미 구매한 적이 있어도 4CW5Y를 쓸 수 있나요? 네. 이후 주문에도 유효하며, 검색에 로그인이 필요하지 않습니다.",
+          "4CW5Y는 사이트와 앱 모두에서 쓸 수 있나요? 네. 앱 검색과 사이트 검색 모두 코드 페이지를 엽니다."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 971,
+    "slug": "shein-first-order-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "shein-primeira-compra",
+    "title": "SHEIN 首購優惠：推薦碼 4CW5Y 在第一筆訂單能做什麼",
+    "seoTitle": "SHEIN 首購優惠：推薦碼 4CW5Y 的用法",
+    "type": "推薦碼指南",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "4CW5Y 不是結帳優惠券：在 SHEIN 的 App 或網站搜尋後，會開啟一個含促銷和折扣的精選頁面，第一筆訂單和之後的訂單都能用。看看要在哪裡搜尋。",
+    "metaDescription": "4CW5Y 是 SHEIN 的推薦碼，第一筆和之後的訂單都能用：在 App 或網站搜尋，就能看到精選的促銷和折扣。",
+    "publishedAt": "2026年11月13日",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+    "imageAlt": "綠色側邊面板上有 SHEIN 標誌、\"Welcome\" 字樣和推薦碼 4CW5Y，旁邊是兩位在衣架前挑選洋裝、帶著購物袋的女士，為 SHEIN 宣傳照。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "透過 Cecília 的連結開啟 SHEIN，或複製 4CW5Y 在 SHEIN App 或網站上搜尋",
+      "label": "開啟 SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "依據 SHEIN 官方頁面的規則。購物後我們可能獲得傭金。",
+    "relatedArticles": [
+      {
+        "slug": "shein-referral-code-zh-hant"
+      },
+      {
+        "slug": "shein-trust-guide-zh-hant"
+      },
+      {
+        "slug": "shein-black-friday-zh-hant"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "第一次在 SHEIN 購物，可以用 Cecília 的推薦碼 4CW5Y：在 App 或網站搜尋這個推薦碼，就能看到一組精選商品、促銷和折扣。折扣多少、適用哪些單品由 SHEIN 決定。它不填在優惠券欄，已經買過的人也能用。"
+        ]
+      },
+      {
+        "heading": "SHEIN 首購優惠：該用什麼",
+        "paragraphs": [
+          "第一次在 SHEIN 購物，可以用 Cecília 的推薦碼 4CW5Y：它要在 App 或網站的搜尋欄裡搜尋，而不是填進優惠券欄。",
+          "優惠券網站上宣傳的首購金額，常常沒有 SHEIN 的出處：依靠之前，請先到 SHEIN 本身確認。目前進行中的活動，請看本站的 [SHEIN 推薦碼與進行中的活動](/zh-hant/coupons/shein) 頁面。"
+        ]
+      },
+      {
+        "heading": "推薦碼不是結帳優惠券",
+        "paragraphs": [
+          "4CW5Y 不填進購物車的優惠券欄。在 App 或網站搜尋後，它會開啟與推薦碼連結的 SHEIN 頁面，折扣就顯示在該精選頁面的商品上。",
+          "SHEIN 說明：優惠顯示在活動頁和商品頁上，而且經常變化。折扣多少、適用哪些單品，由 SHEIN 決定。",
+          "因此在放進購物車之後，付款前請先確認每件商品的最終價格。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+            "alt": "搜尋 4CW5Y 後開啟的 SHEIN 頁面，標題為「Acho que você pode gostar」（「你可能會喜歡」），商品帶有折扣標籤",
+            "caption": "搜尋 4CW5Y 後開啟的頁面：折扣標示在每件商品上。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7581
+          }
+        ]
+      },
+      {
+        "heading": "之後的訂單，推薦碼依然有效",
+        "paragraphs": [
+          "之後的訂單用的是同一個推薦碼：4CW5Y 依然是有效的推薦碼。",
+          "這個頁面甚至不用登入就能開啟：推薦碼不限於第一筆訂單。"
+        ]
+      },
+      {
+        "heading": "在哪裡搜尋推薦碼",
+        "paragraphs": [
+          "只要三個步驟，在 SHEIN 的 App 或網站都能做："
+        ],
+        "bullets": [
+          "在 App 或網站的搜尋欄搜尋 4CW5Y。",
+          "從開啟的頁面挑選商品。",
+          "從該頁面開始加入購物車。"
+        ],
+        "postParagraphs": [
+          "最快的方式是本攻略裡的商店按鈕：Cecília 的連結會直接開啟 4CW5Y 的頁面，不用複製任何東西。附搜尋畫面截圖的步驟，請看 [SHEIN 推薦碼：在哪裡輸入、怎麼用](/zh-hant/reviews/shein-referral-code-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "SHEIN 有首購優惠嗎？第一筆訂單可以用 Cecília 的推薦碼 4CW5Y，它是推薦碼：在 App 或網站搜尋，就能看到搜尋開啟的精選頁面。",
+          "4CW5Y 是優惠券嗎？不是。它是推薦碼，要在 App 或網站搜尋，不填進購物車的優惠券欄。",
+          "已經買過的人也能用 4CW5Y 嗎？可以。推薦碼在之後的訂單也有效，而且搜尋不需要登入。",
+          "4CW5Y 在網站和 App 都能用嗎？都能用：App 和網站的搜尋，都會開啟推薦碼的頁面。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 972,
+    "slug": "shein-first-order-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "shein-primeira-compra",
+    "title": "SHEIN 首单优惠：推荐码 4CW5Y 在首次下单时有什么用",
+    "seoTitle": "SHEIN 首单优惠：推荐码 4CW5Y 的用法",
+    "type": "推荐码指南",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "4CW5Y 不是结账优惠券：在 SHEIN 应用或网站搜索它，会打开一个含促销和折扣的精选页面，首单和之后的订单都适用。看看在哪里搜索。",
+    "metaDescription": "4CW5Y 是 SHEIN 的推荐码，首单和之后的订单都能用：在应用或网站搜索，就能看到精选的促销和折扣页面。",
+    "publishedAt": "2026年11月13日",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+    "imageAlt": "绿色侧边面板上有 SHEIN 标志、\"Welcome\" 字样和推荐码 4CW5Y，旁边是两位在衣架前挑选连衣裙、带着购物袋的女士，为 SHEIN 宣传照。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "通过 Cecília 的链接打开 SHEIN，或复制 4CW5Y 在 SHEIN App 或网站上搜索",
+      "label": "打开 SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "依据 SHEIN 官方页面的规则。购物后我们可能获得佣金。",
+    "relatedArticles": [
+      {
+        "slug": "shein-referral-code-zh-hans"
+      },
+      {
+        "slug": "shein-trust-guide-zh-hans"
+      },
+      {
+        "slug": "shein-black-friday-zh-hans"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "在 SHEIN 首次下单时，请使用 Cecília 的推荐码 4CW5Y：在应用或网站上搜索这个推荐码，就能看到一组精选商品、促销和折扣。折扣多少、适用哪些单品由 SHEIN 决定。它不填在优惠券栏里，已经买过的人同样可以用。"
+        ]
+      },
+      {
+        "heading": "SHEIN 首单优惠：用什么",
+        "paragraphs": [
+          "首次在 SHEIN 下单，请使用 Cecília 的推荐码 4CW5Y：它在应用或网站的搜索栏里搜索，而不是填进优惠券栏。",
+          "优惠券网站上宣传的首单优惠金额，往往没有 SHEIN 的出处：指望它之前，请先到 SHEIN 官网或应用核实。目前进行中的活动在本站的 [SHEIN 优惠页](/zh-hans/coupons/shein)上。"
+        ]
+      },
+      {
+        "heading": "推荐码不是结账优惠券",
+        "paragraphs": [
+          "4CW5Y 不填在购物车的优惠券栏。在应用或网站搜索它，会打开与该推荐码关联的 SHEIN 页面，折扣就显示在这组精选商品上。",
+          "SHEIN 说明：优惠展示在活动页和商品页上，并且经常变化。折扣多少、适用哪些单品，由 SHEIN 决定。",
+          "所以在装满购物车之后，付款前请逐件核对最终价格。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+            "alt": "搜索 4CW5Y 后打开的 SHEIN 页面，标题为“Acho que você pode gostar”（“你可能会喜欢”），商品上带有折扣标签",
+            "caption": "搜索 4CW5Y 后打开的页面：每件商品上都标出了折扣。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7581
+          }
+        ]
+      },
+      {
+        "heading": "之后的订单，推荐码依然有效",
+        "paragraphs": [
+          "之后下单时，推荐码还是同一个：4CW5Y 继续作为推荐码使用。",
+          "这个页面甚至不用登录就能打开：推荐码并不要求必须是首单。"
+        ]
+      },
+      {
+        "heading": "在哪里搜索推荐码",
+        "paragraphs": [
+          "一共三步，在 SHEIN 应用或网站上进行："
+        ],
+        "bullets": [
+          "在应用或网站的搜索栏里搜索 4CW5Y。",
+          "从打开的页面里挑选商品。",
+          "从该页面开始加入购物车。"
+        ],
+        "postParagraphs": [
+          "最快的方法是本指南里的商店按钮：Cecília 的链接会直接打开 4CW5Y 的页面，无需复制任何内容。带搜索截图的分步说明见 [SHEIN 推荐码：在哪里输入、怎么用](/zh-hans/reviews/shein-referral-code-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "SHEIN 有首单优惠吗？首单可以用 Cecília 的推荐码 4CW5Y：在应用或网站搜索它，就能看到搜索打开的精选页面。",
+          "4CW5Y 是优惠券吗？不是。它是推荐码，在应用或网站里搜索，不填进购物车的优惠券栏。",
+          "买过东西的人能用 4CW5Y 吗？可以。这个推荐码在之后的订单里同样有效，而且搜索不需要登录。",
+          "4CW5Y 在网站和应用上都能用吗？都能用：应用和网站的搜索都会打开该推荐码的页面。"
+        ]
+      }
+    ]
   }
 ];

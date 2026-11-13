@@ -69632,6 +69632,218 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+      "local_url": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45516,
+      "sha256": "8d8e00a9dad343c11a78f993c06f0199af0651af6d373973841b0cbc27f2067e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-hostinger-primeira-compra-capa-en.webp",
+      "storage_filename": "cupom-hostinger-primeira-compra-capa-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/code-promo-hostinger-premier-achat.json",
+        "content/reviews/codice-sconto-hostinger-primo-acquisto.json",
+        "content/reviews/cupon-hostinger-primera-compra.json",
+        "content/reviews/hostinger-coupon-first-purchase.json",
+        "content/reviews/hostinger-first-purchase-ja.json",
+        "content/reviews/hostinger-first-purchase-ko.json",
+        "content/reviews/hostinger-first-purchase-zh-hans.json",
+        "content/reviews/hostinger-first-purchase-zh-hant.json",
+        "content/reviews/hostinger-gutschein-erster-kauf.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/code-promo-hostinger-premier-achat.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/codice-sconto-hostinger-primo-acquisto.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cupon-hostinger-primera-compra.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-coupon-first-purchase.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-first-purchase-ja.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-first-purchase-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-first-purchase-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-first-purchase-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-gutschein-erster-kauf.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 220830,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 220967,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 221104,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 221241,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 221377,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 221513,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 221651,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 221788,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 221925,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8d8e00a9dad343c11a78f993c06f0199af0651af6d373973841b0cbc27f2067e/cupom-hostinger-primeira-compra-capa-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8d8e00a9dad343c11a78f993c06f0199af0651af6d373973841b0cbc27f2067e/cupom-hostinger-primeira-compra-capa-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T20:16:10.265Z",
+      "verification_etag_or_digest": "8d8e00a9dad343c11a78f993c06f0199af0651af6d373973841b0cbc27f2067e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45546,
+      "sha256": "1c05fa67059531c4300a051c33504e02eae16d903c8d2f2b92a2001fe2e1ccb1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-hostinger-primeira-compra-capa.webp",
+      "storage_filename": "cupom-hostinger-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-hostinger-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-hostinger-primeira-compra.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 220439,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1c05fa67059531c4300a051c33504e02eae16d903c8d2f2b92a2001fe2e1ccb1/cupom-hostinger-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1c05fa67059531c4300a051c33504e02eae16d903c8d2f2b92a2001fe2e1ccb1/cupom-hostinger-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T20:16:09.958Z",
+      "verification_etag_or_digest": "1c05fa67059531c4300a051c33504e02eae16d903c8d2f2b92a2001fe2e1ccb1",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-de.webp",
       "local_url": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-de.webp",
       "media_kind": "image",
@@ -120501,6 +120713,218 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+      "local_url": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 106990,
+      "sha256": "63d61ed98285d7c971c042730abe9f7de35532520fc2809b293ea44406c1e0ca",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-shein-primeira-compra-capa-en.webp",
+      "storage_filename": "cupom-shein-primeira-compra-capa-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/code-promo-shein-premiere-commande.json",
+        "content/reviews/codice-sconto-shein-primo-ordine.json",
+        "content/reviews/cupon-shein-primera-compra.json",
+        "content/reviews/shein-first-order-ja.json",
+        "content/reviews/shein-first-order-ko.json",
+        "content/reviews/shein-first-order-referral-code.json",
+        "content/reviews/shein-first-order-zh-hans.json",
+        "content/reviews/shein-first-order-zh-hant.json",
+        "content/reviews/shein-gutschein-erstbestellung.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/code-promo-shein-premiere-commande.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/codice-sconto-shein-primo-ordine.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cupon-shein-primera-compra.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-first-order-ja.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-first-order-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-first-order-referral-code.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-first-order-zh-hans.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-first-order-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-gutschein-erstbestellung.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 223096,
+          "column": 15,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 223210,
+          "column": 15,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 223324,
+          "column": 15,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 223438,
+          "column": 15,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 223552,
+          "column": 15,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 223666,
+          "column": 15,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 223780,
+          "column": 15,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 223894,
+          "column": 15,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 224008,
+          "column": 15,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/63d61ed98285d7c971c042730abe9f7de35532520fc2809b293ea44406c1e0ca/cupom-shein-primeira-compra-capa-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/63d61ed98285d7c971c042730abe9f7de35532520fc2809b293ea44406c1e0ca/cupom-shein-primeira-compra-capa-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T20:16:11.626Z",
+      "verification_etag_or_digest": "63d61ed98285d7c971c042730abe9f7de35532520fc2809b293ea44406c1e0ca",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/cupom-shein-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/shein/cupom-shein-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 107050,
+      "sha256": "8a1a5bd5efed6ac4a6c13ebd915184976d39383ab1f5a6fd55cabdbf84163e84",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-shein-primeira-compra-capa.webp",
+      "storage_filename": "cupom-shein-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-shein-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-shein-primeira-compra.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 220602,
+          "column": 15,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8a1a5bd5efed6ac4a6c13ebd915184976d39383ab1f5a6fd55cabdbf84163e84/cupom-shein-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8a1a5bd5efed6ac4a6c13ebd915184976d39383ab1f5a6fd55cabdbf84163e84/cupom-shein-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T20:16:11.318Z",
+      "verification_etag_or_digest": "8a1a5bd5efed6ac4a6c13ebd915184976d39383ab1f5a6fd55cabdbf84163e84",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
       "local_url": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
       "media_kind": "image",
@@ -141615,6 +142039,218 @@
       "uploaded_at": null,
       "verified_at": "2026-10-11T20:26:35.881Z",
       "verification_etag_or_digest": "acc8bfa0eab2bc36e1a9d5c0d11262ba6a242324c6ea1055aeb5194ab11e1658",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+      "local_url": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 115740,
+      "sha256": "92c44ec1b3c5d7796d2ce168b84d03d4d3c59717763de4821d4e5707c2b37d15",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+      "storage_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-erste-bestellung-code-cecilia010.json",
+        "content/reviews/yesstyle-first-order-cecilia010-ja.json",
+        "content/reviews/yesstyle-first-order-cecilia010-ko.json",
+        "content/reviews/yesstyle-first-order-cecilia010-zh-hans.json",
+        "content/reviews/yesstyle-first-order-cecilia010-zh-hant.json",
+        "content/reviews/yesstyle-first-order-reward-code-cecilia010.json",
+        "content/reviews/yesstyle-premiere-commande-code-cecilia010.json",
+        "content/reviews/yesstyle-primera-compra-codigo-cecilia010.json",
+        "content/reviews/yesstyle-primo-ordine-codice-cecilia010.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-erste-bestellung-code-cecilia010.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-first-order-cecilia010-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-first-order-cecilia010-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-first-order-cecilia010-zh-hans.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-first-order-cecilia010-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-first-order-reward-code-cecilia010.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-premiere-commande-code-cecilia010.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-primera-compra-codigo-cecilia010.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-primo-ordine-codice-cecilia010.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 222062,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 222177,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 222292,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 222407,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 222521,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 222636,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 222752,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 222867,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 222980,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/92c44ec1b3c5d7796d2ce168b84d03d4d3c59717763de4821d4e5707c2b37d15/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/92c44ec1b3c5d7796d2ce168b84d03d4d3c59717763de4821d4e5707c2b37d15/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T20:16:10.968Z",
+      "verification_etag_or_digest": "92c44ec1b3c5d7796d2ce168b84d03d4d3c59717763de4821d4e5707c2b37d15",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa.webp",
+      "local_url": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 115654,
+      "sha256": "c640cd61248812dfd73d00b1558d2cd2b38b81e2984491abbc91b605c7faedbd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa.webp",
+      "storage_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/codigo-yesstyle-primeira-compra-cecilia010.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/codigo-yesstyle-primeira-compra-cecilia010.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 220715,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c640cd61248812dfd73d00b1558d2cd2b38b81e2984491abbc91b605c7faedbd/codigo-yesstyle-primeira-compra-cecilia010-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c640cd61248812dfd73d00b1558d2cd2b38b81e2984491abbc91b605c7faedbd/codigo-yesstyle-primeira-compra-cecilia010-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T20:16:10.611Z",
+      "verification_etag_or_digest": "c640cd61248812dfd73d00b1558d2cd2b38b81e2984491abbc91b605c7faedbd",
       "verification_status": "verified"
     },
     {
