@@ -7,9 +7,9 @@ parceiro_slug: "prohall"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "reler o perfil e as abas de 12 meses e anos anteriores na semana do texto; redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PH2"
@@ -124,3 +124,33 @@ texto pelo navegador.
 | Regras de entrega e de troca | `/pages/trocas-e-devolucoes`, 12/11 | verificado; reler |
 | Abas de 12 meses, 2025 e 2024 | não lidas | a ler |
 | 33º em "Melhor empresa", Higiene Pessoal | perfil, 12/11 | verificado; só com a posição exata |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- Perfil `reclameaqui.com.br/empresa/prohall-cosmetic/` ("Prohall Professional", verificada). Aba de 6 meses (01/05 a 31/10/2026): Boa, 7,2; 127 reclamações; 100% respondidas; 73,7% resolvidas; 56,1% voltariam; 69 avaliadas; nota do consumidor 6,33; resposta em 1 dia e 19 horas. Igual à leitura do Job 1.
+- Aba de 12 meses (01/11/2025 a 31/10/2026): Ótima, 8,1; 348 reclamações; 100% respondidas; 84,2% resolvidas; 67,9% voltariam; 202 avaliadas; nota do consumidor 7,37; resposta em 1 dia e 16 horas.
+- Abas de 2025, 2024 e Geral: não abriram (o painel do navegador estava oculto e o clique não trocou a aba). O texto usa só 6 e 12 meses. Não sei de que período são o 7,4 e o 7,7 que aparecem no Google; o artigo diz que cada resultado guarda um período ou uma data.
+- Histórico mensal: Ótima em maio de 2026; Boa de junho a outubro. Aba geral (até 3 anos): atraso 21,69%, categoria Cabelos 20,48%. Ranking: 33º em "Melhor empresa", Higiene Pessoal. CNPJ do perfil: 24.815.160/0001-57.
+- Últimas reclamações (só o tipo): pedido devolvido por CEP incorreto, pedido não recebido, produto que não alisou, relato de alergia e relato de queda de cabelo. Entram como padrão, sem causa e sem nome.
+- Busca "prohall" no Reclame Aqui: 10 empresas; só a Prohall Professional é da marca.
+- `/pages/trocas-e-devolucoes`: troca em até 30 dias corridos do recebimento; desistência em 7 dias; embalagem original, lacre intacto, sem sinais de uso; sem devolução parcial; postagem da troca por conta do cliente; cancelamento após o envio com reembolso descontado o frete; recusar na entrega se houver avaria ou falta de item; defeito com foto para SAC@prohall.com.br e análise em até 30 dias; uso profissional conforme as instruções do fabricante.
+- `/pages/politica-de-frete-e-entrega`: estorno no cartão em até duas faturas; boleto em até 30 dias úteis.
+- `/pages/perguntas-frequentes`: "Os produtos são originais? Sim, o nosso site é oficial da marca."; postagem em até 24 horas úteis; boleto só à vista; teste de mecha antes de outra química. **Divergência:** o FAQ diz frete grátis acima de R$ 199 para todo o Brasil; a página de pagamento traz os mínimos por região. O PH3 registra as duas e manda conferir o carrinho.
+- `/pages/fale-conosco`: telefone (14) 3436-1028, central.prohall.com.br, atendimento de segunda a sexta, das 9h às 12h e das 14h às 17h.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/prohall-reclame-aqui-nota-reputacao.json` (id 934), no esqueleto do briefing, com a tabela de 6 e 12 meses e o período na legenda. O capítulo "Como a nota mudou" ficou com o histórico mensal e a comparação dos dois recortes, sem os anos fechados. Sem quadro `decision`. O cupom aparece uma vez, no fim.
+
+## Revisão (Job 3, 12/11/2026)
+
+Passou. Nenhuma frase liga produto a reação ou queda de cabelo; as queixas de saúde aparecem em uma frase, como relato, e o texto diz que nem o Reclame Aqui nem o artigo apontam a causa. Sem nome de cliente, sem comparação com outra marca, sem nota na capa. O 33º lugar entra com a posição e a categoria exatas.
+
+- C1: 0 "R$" na resposta rápida (52 palavras). Datas do corpo: só o período, na legenda da tabela e no histórico. Snippet com 139 caracteres, código até o caractere 9.
+- Skill de copywriting aplicada: a primeira frase de cada capítulo responde; frases verificáveis, sem "não é X, é Y".
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/prohall/prohall-reclame-aqui-nota-reputacao-capa.webp`, painel lateral com o logo e a chamada "Prohall no Reclame Aqui, nota e reclamações", sem nota e sem código. Foto oficial do Btx Blend Repair.
+- **O que mais gera reclamação:** `prohall-reclame-aqui-burix-one-1l.webp` (recorte da foto oficial, sem o selo de brinde, `href` para o produto). O print do painel do Reclame Aqui não saiu: o navegador não capturou a tela.
+- Origem: fotos oficiais do CDN da loja (cdn.shopify.com), lidas em 12/11/2026; logo de `/images/about/partners/prohall.png`. Sem IA.

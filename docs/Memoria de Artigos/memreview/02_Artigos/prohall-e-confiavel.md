@@ -7,9 +7,9 @@ parceiro_slug: "prohall"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador; redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PH3"
@@ -131,3 +131,31 @@ pelo navegador.
 | Resposta da loja a "os produtos são originais?" | FAQ da loja | a ler |
 | Nome e desenvolvedor do app | loja de aplicativos | a ler |
 | O Pix não dá desconto a mais | Bruno, 12/11 | palavra do Bruno |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- Rodapé de `lojaprohall.com.br`: CNPJ 24.815.160/0001-57, endereço em Lençóis Paulista (SP), WhatsApp (14) 99905-2648, contato@prohall.com.br, link para o perfil do Reclame Aqui. `/pages/prohall-quem-somos`: razão social M.D. Boso Comércio de Cosméticos LTDA, fundação em 2017, "+32 países". O institucional `prohall.com.br` fala em "mais de 30 países": o texto usa "mais de 30", com atribuição.
+- `/pages/trocas-e-devolucoes`: troca em até 30 dias corridos do recebimento; desistência em 7 dias; embalagem original, lacre intacto, sem sinais de uso; sem devolução parcial; postagem da troca por conta do cliente; cancelamento após o envio com reembolso descontado o frete; recusar na entrega se houver avaria ou falta de item; defeito com foto para SAC@prohall.com.br e análise em até 30 dias; uso profissional conforme as instruções do fabricante.
+- `/pages/politica-de-frete-e-entrega`: estorno no cartão em até duas faturas; boleto em até 30 dias úteis.
+- `/pages/perguntas-frequentes`: "Os produtos são originais? Sim, o nosso site é oficial da marca."; postagem em até 24 horas úteis; boleto só à vista; teste de mecha antes de outra química. **Divergência:** o FAQ diz frete grátis acima de R$ 199 para todo o Brasil; a página de pagamento traz os mínimos por região. O PH3 registra as duas e manda conferir o carrinho.
+- `/pages/fale-conosco`: telefone (14) 3436-1028, central.prohall.com.br, atendimento de segunda a sexta, das 9h às 12h e das 14h às 17h.
+- Nome do app nas lojas de aplicativo e consulta à Anvisa: não lidos. O texto diz só "app" e não cita a Anvisa.
+- Pix no checkout com o código: total igual ao do cartão (R$ 213,81 no Burix One).
+- Perfil `reclameaqui.com.br/empresa/prohall-cosmetic/` ("Prohall Professional", verificada). Aba de 6 meses (01/05 a 31/10/2026): Boa, 7,2; 127 reclamações; 100% respondidas; 73,7% resolvidas; 56,1% voltariam; 69 avaliadas; nota do consumidor 6,33; resposta em 1 dia e 19 horas. Igual à leitura do Job 1.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/prohall-e-confiavel.json` (id 935), no esqueleto do briefing. A regra de troca entra inteira, em lista. "Dono" responde-se com a razão social e o CNPJ. Sem quadro `decision`, sem cashback, sem Clube.
+
+## Revisão (Job 3, 12/11/2026)
+
+Passou. Sem nome de pessoa, sem Anvisa, sem afirmar nada sobre anúncio de marketplace. "Mais de 30 países" com atribuição à marca. O Pix aparece como leitura do checkout.
+
+- C1: 0 "R$" na resposta rápida (50 palavras). Datas do corpo: só o período do Reclame Aqui. Snippet com 137 caracteres, código até o caractere 9.
+- Skill de copywriting aplicada: a primeira frase de cada capítulo responde; frases verificáveis, sem "não é X, é Y".
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/prohall/prohall-e-confiavel-capa.webp`, painel lateral com o logo e a chamada "Prohall é confiável? CNPJ, site e trocas". Recorte da foto oficial do Select One 1 L, sem o selo de brinde.
+- **Quem é a Prohall:** `prohall-e-confiavel-cronograma-capilar-premium.webp` (foto oficial, `href` para o produto). O print do rodapé com o CNPJ não saiu: o navegador não capturou a tela.
+- Origem: fotos oficiais do CDN da loja (cdn.shopify.com), lidas em 12/11/2026; logo de `/images/about/partners/prohall.png`. Sem IA.

@@ -7,9 +7,9 @@ parceiro_slug: "prohall"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Marca"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leitura das páginas de produto no navegador; redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PH5"
@@ -148,3 +148,30 @@ tabela, com `href` para a loja.
 | Frete por região, mínimo depois do cupom | dossiê; Bruno, 12/11 | verificado; "depois" é palavra do Bruno |
 | Respostas do FAQ da loja (originais, Select One ou Select Blond, químicas) | FAQ da loja | a ler; só com atribuição |
 | Resultado de qualquer produto; "sem formol" | nenhuma fonte nossa | não escrever como afirmação do site |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- Páginas de produto (`/products/<handle>.js`): Select One ("controle do frizz e do volume excessivo", "Cristalização Térmica"), Burix One ("tratamento antifrizz térmico de longa duração", tanino, buriti), Btx Blend Repair (selagem; modo de uso com 40 a 60 minutos e enxágue), Absolut One (shampoo, condicionador e máscara), Cronograma Capilar Premium (três máscaras), Force Hair (shampoo, máscara e tônico; a página fala em crescimento e queda).
+- **Uso profissional:** a indicação "uso profissional" aparece no rótulo também do shampoo e das máscaras de rotina, não só nos antifrizz. Por isso a tabela não separa "em casa" de "profissional", como o briefing previa: separa por necessidade e pelo que a página declara. A resposta rápida do briefing foi ajustada.
+- Avaliações publicadas pela loja: Select One 300 ml, 4,9 com 1.104; finalizador 12 em 1 Absolut One, 4,9 com 635.
+- Menu da loja: antifrizz (Select One, Burix One, Select Blond, BTX), necessidades, shampoo, condicionador, máscaras, óleos e séruns, finalizadores, cronogramas, matizadores, perfume capilar, masculino (1 item), kids (1 item).
+- Kit Completo Absolut One a R$ 349,90 na coleção, igual ao do teste. O "Force Hair" de R$ 264,90 é o carrinho do teste da página da loja.
+- Perfil `reclameaqui.com.br/empresa/prohall-cosmetic/` ("Prohall Professional", verificada). Aba de 6 meses (01/05 a 31/10/2026): Boa, 7,2; 127 reclamações; 100% respondidas; 73,7% resolvidas; 56,1% voltariam; 69 avaliadas; nota do consumidor 6,33; resposta em 1 dia e 19 horas. Igual à leitura do Job 1.
+- `/pages/trocas-e-devolucoes`: troca em até 30 dias corridos do recebimento; desistência em 7 dias; embalagem original, lacre intacto, sem sinais de uso; sem devolução parcial; postagem da troca por conta do cliente; cancelamento após o envio com reembolso descontado o frete; recusar na entrega se houver avaria ou falta de item; defeito com foto para SAC@prohall.com.br e análise em até 30 dias; uso profissional conforme as instruções do fabricante.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/prohall-e-boa.json` (id 936). Guia de marca sem experiência de uso: tabela por necessidade com link em cada produto, o que dá para dizer dos antifrizz e do Btx, avaliações com origem, preço com o cupom só de carrinho testado e quadro `decision`.
+
+## Revisão (Job 3, 12/11/2026)
+
+Passou. Toda descrição de efeito vem com "a marca declara", "a página" ou aspas. Sem formol, sem compatibilidade química por conta própria (a frase do teste de mecha é do FAQ da loja, com atribuição), sem promessa de alisamento, duração, crescimento ou queda. Sem comparação com outra marca e sem preço de campanha.
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data no corpo (a do teste), mais o período do Reclame Aqui. Snippet com código até o caractere 9 e "até 10%" na primeira frase. O `decision` não tem "R$".
+- Skill de copywriting aplicada: a primeira frase de cada capítulo responde; frases verificáveis, sem "não é X, é Y".
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/prohall/prohall-e-boa-capa.webp`, painel lateral com o logo e a chamada "Prohall é boa? linhas e avaliações", sem nota e sem código. Montagem de duas fotos oficiais: Select One 1 L (sem o selo de brinde) e Kit Cuidado Capilar Diário Absolut One.
+- **O que a Prohall vende:** `prohall-e-boa-kit-absolut-one.webp`. **Select One, Burix One e Btx:** `prohall-e-boa-select-one-1l.webp`. As duas com `href` para o produto.
+- Origem: fotos oficiais do CDN da loja (cdn.shopify.com), lidas em 12/11/2026; logo de `/images/about/partners/prohall.png`. Sem IA.
