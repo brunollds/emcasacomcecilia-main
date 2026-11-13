@@ -216,3 +216,10 @@ C1: 0 "R$" na resposta rápida. C2: 1 data no corpo e nenhuma em título, legend
 - Título: "Como usar o cupom CECILIA na La Ganexa: 10% OFF, inclusive em promoção". seoTitle: "Cupom La Ganexa: como usar o CECILIA, 10% OFF".
 - Pendente: revisão mensal de dezembro de 2026: reler o CECILIA no checkout, o frete grátis por região, as regras das promoções (os dois kits que não acumulam e o brinde acima de R$ 180) e os preços do carrinho do teste.
 - No PR do LG4 e do LG5: o capítulo "Vale para quem já comprou?" voltou, antes do FAQ, com duas frases e o link para o LG4, que também entrou nos relacionados. O LG3 e o LG2 entraram nos relacionados no PR deles.
+
+## Revisão externa (Farol, GPT-6.1 Terra), conferida em 13/11/2026
+
+O Bruno colou o relatório da revisão de copy dos sete artigos da La Ganexa (`docs/auditoria-copy-artigos/la-ganexa-revisao-farol-20261113/`, fora do repositório versionado). Cada mudança do candidato foi conferida contra as fontes e as regras do pacote. Depois, o Job 3 (Fable 5.2) leu o resultado, e as correções dele foram aplicadas.
+
+- Entrou: a linha “Descontos” como o lugar onde aparece o valor descontado (a frase anterior dizia que ali aparecia o valor do pedido), e o FAQ dos kits com o Kit 2 Brigadeiros de Colher sem teste.
+- Recusado: "carrinho elegível" e "compras elegíveis". Nenhuma fonte fala em elegibilidade, e a regra do pacote é 10% para cliente novo e antigo, com a ressalva só dos dois kits.

@@ -28,14 +28,14 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "Leve a Natural ou a Crocante se quer pasta só de amendoim, com a lista sem adoçante.",
-      "Leve uma pasta de sobremesa se quer sabor doce sem adição de açúcar e aceita maltitol ou sucralose na lista.",
-      "Leve o kit de degustação se ainda não sabe o sabor."
+      "Você quer pasta só de amendoim: a lista da Natural e da Crocante traz amendoim torrado e nenhum adoçante.",
+      "Você procura uma pasta de sobremesa e aceita os adoçantes listados no sabor escolhido.",
+      "Você quer conhecer seis sabores em potes de 150 g antes de escolher uma embalagem maior."
     ],
     "skipIf": [
-      "Passe se evita maltitol ou sucralose e queria um sabor doce.",
-      "Passe se precisa de dieta orientada: nesse caso, o nutricionista vem antes da compra.",
-      "Passe se pensa em provar um pote grande e devolver se não gostar, porque a troca pede produto sem uso."
+      "Você evita maltitol ou sucralose e o sabor de sobremesa escolhido declara esses ingredientes.",
+      "Você tem alergia ou restrição alimentar que o rótulo do sabor escolhido não atende.",
+      "Você quer provar um pote grande e devolver se não gostar: a troca pede produto sem uso."
     ]
   },
   "cta": {
@@ -62,7 +62,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A La Ganexa é uma marca brasileira de pastas de amendoim e doces sem adição de açúcar, segundo a marca, com reputação Ótima no Reclame Aqui. A Natural e a Crocante não têm adoçante na lista; as pastas de sobremesa levam maltitol ou sucralose. O que muda a escolha é o adoçante: a tabela das pastas mostra sabor por sabor."
+        "A La Ganexa vende pastas de amendoim e doces que a página diz não ter adição de açúcar, e tem reputação Ótima no Reclame Aqui. A Natural e a Crocante levam só amendoim torrado; as pastas de sobremesa levam maltitol ou sucralose. O que muda a escolha é o adoçante de cada sabor e o preço por 100 g."
       ]
     },
     {
@@ -82,13 +82,13 @@
         "rows": [
           [
             "Pasta só de amendoim",
-            "Amendoim torrado na lista, sem adoçante; a página diz zero açúcar, zero lactose e zero glúten",
+            "Amendoim torrado na lista, sem adoçante; a tabela informa zero de açúcar adicionado",
             "[Pasta Natural, 1 kg](https://lojalaganexa.com.br/products/natural)",
             "R$ 5,40"
           ],
           [
             "Pasta de sobremesa",
-            "Lista com maltitol ou sucralose; a tabela mostra zero de açúcar adicionado",
+            "Lista com maltitol ou sucralose; a tabela informa zero de açúcar adicionado",
             "[Leitinho, 1 kg](https://lojalaganexa.com.br/products/pasta-de-leitinho-com-whey-protein-1kg)",
             "R$ 8,99"
           ],
@@ -100,7 +100,7 @@
           ],
           [
             "Cookies",
-            "A página diz zero açúcar, sem lactose e sem glúten; o kit traz os dois sabores, 100 g no total",
+            "Kit com dois sabores, 100 g no total; a página anuncia cookies sem lactose e sem glúten",
             "[Kit Degustação Cookies de Cacau e de Baunilha](https://lojalaganexa.com.br/products/kit-degustacao-biscoito-de-cacau-e-de-baunilha)",
             "R$ 32,65"
           ]
@@ -110,16 +110,15 @@
     {
       "heading": "As pastas de amendoim, sabor por sabor",
       "paragraphs": [
-        "A Natural e a Crocante têm a lista mais curta entre as pastas com lista publicada e estão no topo em proteína, com a Avelã Vegana empatada com elas.",
-        "Na página, as duas são vendidas como veganas e sem lactose, e a marca diz zero açúcar. A tabela de cada pote confirma o zero de açúcar adicionado, e a linha de açúcares totais fica ao lado."
+        "A Natural e a Crocante têm a lista de ingredientes mais curta entre as pastas com lista publicada e, empatadas com a Avelã Vegana, a maior proteína da tabela.",
+        "Na página, Natural e Crocante são vendidas como veganas e sem lactose, e não têm adição de açúcar; a tabela mostra os açúcares totais ao lado."
       ],
       "comparisonTable": {
-        "caption": "Por 100 g, pela tabela publicada na página ou no kit de cada sabor. A loja publica a mesma tabela para a Natural e a Crocante. “A tabela não informa” quer dizer que ela não traz a linha de polióis. Fora da tabela: a Mousse de Brigadeiro, sem tabela na página, e a Cookies, com números diferentes no pote de 450 g e no de 1 kg.",
+        "caption": "Por 100 g, pela tabela publicada na página ou no kit de cada sabor. A loja publica a mesma tabela para Natural e Crocante. Fora: Mousse de Brigadeiro, sem tabela na página, e Cookies, com números diferentes nos potes de 450 g e de 1 kg.",
         "headers": [
           "Pasta",
           "Proteína",
           "Açúcares totais",
-          "Polióis",
           "Sódio"
         ],
         "rows": [
@@ -127,70 +126,60 @@
             "Natural e Crocante (mesma tabela)",
             "24 g",
             "5 g",
-            "a tabela não informa",
             "6 mg"
           ],
           [
             "Avelã Vegana",
             "24 g",
             "4,8 g",
-            "a tabela não informa",
             "5,9 mg"
           ],
           [
             "Doce de Leite com Castanha de Caju",
             "23 g",
             "8 g",
-            "a tabela não informa",
             "80 mg"
           ],
           [
             "Chocolate Branco",
             "22 g",
             "8,4 g",
-            "2,9 g",
             "88 mg"
           ],
           [
             "Chocrante",
             "22 g",
             "6 g",
-            "7,1 g",
             "96 mg"
           ],
           [
             "Leitinho, 1 kg",
             "21 g",
             "14 g",
-            "7 g",
             "195 mg"
           ],
           [
             "Leitinho Black, 1 kg",
             "21 g",
             "13 g",
-            "8,4 g",
             "139 mg"
           ],
           [
             "Pistache",
             "19 g",
             "7 g",
-            "a tabela não informa",
             "122 mg"
           ],
           [
             "Creme de Avelã, 1 kg",
             "18 g",
             "5,3 g",
-            "a tabela não informa",
             "194 mg"
           ],
           [
             "Caramelo e Flor de Sal",
             "16 g",
             "7,1 g",
-            "a tabela não informa",
             "324 mg"
           ]
         ]
@@ -215,7 +204,7 @@
     {
       "heading": "Maltitol e sucralose nas pastas de sobremesa",
       "paragraphs": [
-        "Nas pastas de sobremesa, o adoçante é a regra: todas as que mostram a lista de ingredientes trazem maltitol ou sucralose. Quando a tabela tem a linha de polióis, ela aparece ali, separada dos açúcares; é a lista de ingredientes que diz qual adoçante o pote leva.",
+        "Nas pastas de sobremesa com lista publicada, todas trazem maltitol ou sucralose, e é a lista de ingredientes que diz qual adoçante o pote leva. A tabela abaixo reúne os sabores cujo rótulo traz a linha de polióis; nos outros a linha não aparece, mesmo quando a lista tem maltitol.",
         "A Leitinho é a pasta que a própria loja chama de a mais famosa. Ela declara whey protein e leite em pó na lista e traz o aviso de contém lactose; a tabela do pote de 1 kg mostra os polióis.",
         "As páginas da Leitinho e da Leitinho Black avisam que o chocolate pode derreter no transporte, e a loja não trata isso como defeito. Se a aparência do chocolate importa para você, pese isso antes de pedir.",
         "A Avelã Vegana, a Chocrante e a Chocolate Branco declaram “aromatizante sintético idêntico ao natural” na lista. A Chocrante também leva whey protein."
@@ -242,7 +231,32 @@
           "objectFit": "square",
           "href": "https://lojalaganexa.com.br/products/leitinho-black-com-whey-protein"
         }
-      ]
+      ],
+      "comparisonTable": {
+        "caption": "Polióis por 100 g, nas tabelas publicadas dos sabores indicados.",
+        "headers": [
+          "Pasta",
+          "Polióis por 100 g"
+        ],
+        "rows": [
+          [
+            "Chocolate Branco",
+            "2,9 g"
+          ],
+          [
+            "Chocrante",
+            "7,1 g"
+          ],
+          [
+            "Leitinho, 1 kg",
+            "7 g"
+          ],
+          [
+            "Leitinho Black, 1 kg",
+            "8,4 g"
+          ]
+        ]
+      }
     },
     {
       "heading": "O doce de leite zero e os outros doces",
@@ -266,25 +280,25 @@
       "heading": "La Ganexa é saudável?",
       "paragraphs": [
         "Nenhum rótulo diz sozinho se um produto é saudável para a sua rotina, e nas pastas da La Ganexa o que dá para ler é a tabela de cada pote e a lista de ingredientes.",
-        "No FAQ, a loja diz que os produtos são feitos sem glúten e que diabéticos podem consumir, sempre consultando o médico ou o nutricionista. Na página do Doce de Leite Zero ela é mais cautelosa e pede essa conversa antes de incluir o produto na rotina. Na dúvida, o médico ou o nutricionista.",
+        "No FAQ, a loja diz que diabéticos podem consumir os produtos, e recomenda consultar o médico nutricionista. Na dúvida, o médico ou o nutricionista.",
         "Para dieta, a conta é a do rótulo. As pastas da tabela ficam entre 543 e 597 kcal por 100 g, o que dá de 109 a 119 kcal na porção de 20 g. O Doce de Leite Zero tem 204 kcal por 100 g, e a página dele avisa: “Este não é um alimento baixo ou reduzido em valor energético”.",
-        "Zero açúcar, no rótulo, é zero de açúcar adicionado. A tabela ainda traz carboidratos, açúcares totais e, em alguns sabores, polióis."
+        "“Sem adição de açúcar” não quer dizer sem açúcar. A tabela traz os açúcares adicionados numa linha e os totais em outra, e em alguns sabores há ainda a linha de polióis."
       ]
     },
     {
-      "heading": "O que os clientes dizem",
+      "heading": "O que aparece no Reclame Aqui",
       "paragraphs": [
-        "A reputação no Reclame Aqui é Ótima, com nota 9,2 e 93,5% das reclamações resolvidas nos últimos seis meses.",
-        "No histórico do perfil, o problema mais citado é o atraso na entrega. Também aparecem embalagem que chega aberta e pedido marcado como entregue sem ter chegado.",
+        "No Reclame Aqui, o perfil mostrava reputação Ótima, nota 9,2 e 93,5% resolvidas no período de maio a outubro de 2026.",
+        "Na aba Geral, que cobre até três anos, atraso na entrega é o problema mais citado. Também aparecem embalagem que chega aberta, pedido que não chegou e reclamação de sabor estragado.",
         "Os números de cada aba e o padrão das queixas estão no [artigo do Reclame Aqui](/reviews/la-ganexa-reclame-aqui-nota-reputacao)."
       ]
     },
     {
       "heading": "Para quem vale e quanto sai com o cupom",
       "paragraphs": [
-        "Depende do que você procura. Para pasta só de amendoim, a Natural e a Crocante entregam a lista curta e o menor preço por 100 g da tabela. Para sabor doce, vale se maltitol ou sucralose não incomodam. Não vale para quem quer abrir, provar e devolver: a troca pede produto sem uso.",
+        "Para pasta só de amendoim, a Natural de 1 kg é também o menor preço por 100 g da primeira tabela. Se quiser uma versão de sobremesa, veja se maltitol ou sucralose incomodam antes de escolher o sabor e confira a lista do pote.",
         "Conta nossa, pelo preço do site com o cupom: o kit de degustação de seis pastas de 150 g sai por R$ 125,99, cerca de R$ 14,00 por 100 g. É mais caro por grama que o pote de 1 kg; o que ele compra é a chance de provar seis sabores antes de escolher.",
-        "A troca pede produto sem uso e sem indícios de uso, na embalagem original, em até 7 dias corridos depois do recebimento; a regra inteira está em [La Ganexa é confiável?](/reviews/la-ganexa-e-confiavel).",
+        "A troca e a devolução pedem produto sem indícios de uso, na embalagem original, e pedido em até 7 dias corridos depois do recebimento. As condições estão em [La Ganexa é confiável?](/reviews/la-ganexa-e-confiavel).",
         "O frete grátis começa acima de R$ 250 no Sul e no Sudeste e acima de R$ 350 nas outras regiões, e o mínimo conta depois do cupom. O exemplo está em [como usar o cupom La Ganexa](/reviews/cupom-la-ganexa-como-usar).",
         "A comparação com a Dr. Peanut, pelo rótulo e pelo preço por 100 g, está em [Dr. Peanut ou La Ganexa](/reviews/dr-peanut-ou-la-ganexa).",
         "Se decidir comprar, o CECILIA dá 10% OFF no site oficial, e as regras do código estão na página do [cupom La Ganexa](/cupons/la-ganexa)."
@@ -293,9 +307,9 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A La Ganexa é boa? Depende do sabor. A pasta só de amendoim tem a lista mais curta, e as de sobremesa levam maltitol ou sucralose. O guia compara rótulo, preço e reputação.",
-        "A pasta de amendoim La Ganexa tem açúcar? A marca diz que não tem adição de açúcar, e a tabela mostra zero de açúcar adicionado. Os açúcares totais ficam ao lado, no capítulo das pastas.",
-        "La Ganexa engorda? Depende de quanto entra no seu dia. A tabela de cada pote traz as calorias por porção de 20 g, e nenhum rótulo promete emagrecer. Os números estão no capítulo “La Ganexa é saudável?”.",
+        "A La Ganexa é boa? Natural e Crocante atendem a quem quer pasta só de amendoim; nas versões de sobremesa, a escolha depende dos ingredientes e adoçantes do sabor. O guia compara o rótulo e o preço por 100 g de cada grupo.",
+        "A pasta de amendoim La Ganexa tem açúcar? Adicionado, não: nos rótulos comparados, a linha de açúcares adicionados é zero. Os açúcares totais vão de 4,8 g a 14 g por 100 g, e mudam de sabor para sabor.",
+        "La Ganexa engorda? O rótulo informa calorias por 100 g e por porção, e “sem adição de açúcar” não significa baixo valor energético. Veja os números no capítulo “La Ganexa é saudável?”.",
         "A La Ganexa tem glúten? A loja diz que os produtos são feitos sem glúten e sem risco de contaminação cruzada, nas palavras dela. Quem tem restrição confere a embalagem que chegar.",
         "Qual pasta La Ganexa tem mais proteína? Natural, Crocante e Avelã Vegana empatam no topo da tabela do capítulo das pastas."
       ]

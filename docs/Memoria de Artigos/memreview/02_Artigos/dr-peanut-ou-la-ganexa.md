@@ -551,3 +551,9 @@ C1: 0 "R$" na resposta rápida (59 palavras, 3 frases). C2: 1 data no corpo, na 
 - **Fotos do corpo:** o Bueníssimo de 600 g (já no ar), o Doce de Leite de 250 g da Dr. Peanut, o Doce de Leite com Castanha de Caju e o Creme de Avelã de 450 g da La Ganexa. Todas com `href` e `store`. As da La Ganexa são renders da loja ("Imagem: La Ganexa.").
 - **CDN:** as cinco imagens novas subiram em 13/11/2026 (`upload-ftps.py`, `verify-remote.mjs`, `prepare-delivery.mjs --append`). Os JSONs seguem com os caminhos locais.
 
+## Revisão externa (Farol, GPT-6.1 Terra), conferida em 13/11/2026
+
+O Bruno colou o relatório da revisão de copy dos sete artigos da La Ganexa (`docs/auditoria-copy-artigos/la-ganexa-revisao-farol-20261113/`, fora do repositório versionado). Cada mudança do candidato foi conferida contra as fontes e as regras do pacote. Depois, o Job 3 (Fable 5.2) leu o resultado, e as correções dele foram aplicadas.
+
+- Entrou: a tabela de preço em três colunas; o capítulo "Onde cada marca custa menos por 100 g"; a mesma ressalva do açúcar total nas duas marcas ("0 g de açúcares adicionados não é o mesmo que sem açúcar"); "Quem escolhe o quê" e o FAQ 1 por perfil, sem repetir a conta do pote de 250 g; a resposta rápida com dois apoios para cada marca; o método do preço dito uma vez.
+- Recusado: o `type` "Comparativo de Alimentos" (os 22 comparativos "-ou-" usam "Comparativo de Suplemento"); tirar a coluna de polióis das tabelas de rótulo e criar dois capítulos só de polióis; "no catálogo consultado" na linha dos sabores; o artigo antes dos códigos na metaDescription.

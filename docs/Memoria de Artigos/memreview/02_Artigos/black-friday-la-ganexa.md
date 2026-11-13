@@ -178,3 +178,10 @@ C1: 0 "R$" na resposta rápida. C2: 2 datas no corpo e nenhuma em título, legen
 - Pendente: revisão mensal de dezembro de 2026.
 - No PR do LG4 e do LG5: o LG4 entrou nos relacionados.
 - No PR do LG2 e do LG3: os dois entram nos relacionados; a frase do preço “de” ganha o link para o LG2, e o fim da troca, o link para o LG3. A mesma frase da troca trocou "Abra a caixa assim que ela chegar" por "Confira a caixa no dia da entrega": a loja orienta não abrir a embalagem avariada, a correção que o Job 3 fez no LG3.
+
+## Revisão externa (Farol, GPT-6.1 Terra), conferida em 13/11/2026
+
+O Bruno colou o relatório da revisão de copy dos sete artigos da La Ganexa (`docs/auditoria-copy-artigos/la-ganexa-revisao-farol-20261113/`, fora do repositório versionado). Cada mudança do candidato foi conferida contra as fontes e as regras do pacote. Depois, o Job 3 (Fable 5.2) leu o resultado, e as correções dele foram aplicadas.
+
+- Entrou: o subtítulo, a metaDescription e o `cta`; a resposta rápida com "sem data de fim publicada"; o Esquenta no presente, com "ofertas quentes", "descontos por tempo limitado" e "Oferta Black" conferidos na home; o FAQ dos kits com os dois kits, o teste e a linha “Descontos”; a troca com o motivo de conferir a caixa (aviso de avaria em 48 horas).
+- Recusado: "Segundo sua política geral" (regra 18 da Voz); "não publica regulamento" (a loja publica as Regras das Promoções); "sem aviso" (sem fonte). O contador de 15 minutos da home não entra.

@@ -201,3 +201,11 @@ C1: 0 "R$" na resposta rápida (60 palavras, 3 frases). C2: 1 data no corpo, na 
 - Título: "La Ganexa é boa? As pastas e o doce de leite pelo rótulo e pelo preço com cupom". seoTitle: "La Ganexa é boa? Os produtos pelo rótulo e pelo preço".
 - Pendente: revisão mensal de dezembro de 2026: reler os preços da tabela (lidos no Esquenta Black Friday), as tabelas nutricionais, a Mousse de Brigadeiro (sem tabela em 13/11) e a pasta Cookies (duas tabelas diferentes).
 - No PR do LG7: o capítulo "Para quem vale e quanto sai com o cupom" ganhou o link para o LG7, a única menção à Dr. Peanut no artigo, como o briefing pede.
+
+## Revisão externa (Farol, GPT-6.1 Terra), conferida em 13/11/2026
+
+O Bruno colou o relatório da revisão de copy dos sete artigos da La Ganexa (`docs/auditoria-copy-artigos/la-ganexa-revisao-farol-20261113/`, fora do repositório versionado). Cada mudança do candidato foi conferida contra as fontes e as regras do pacote. Depois, o Job 3 (Fable 5.2) leu o resultado, e as correções dele foram aplicadas.
+
+- Entrou: o quadro `decision` em forma de situação; a resposta rápida reescrita; a tabela de pastas sem a coluna de polióis e uma tabela própria dos quatro sabores que trazem a linha (Chocolate Branco 2,9 g, Chocrante 7,1 g, Leitinho 7 g, Leitinho Black 8,4 g); o aviso de que a lista de ingredientes diz o adoçante, mesmo quando a linha de polióis não aparece; "Sem adição de açúcar não quer dizer sem açúcar"; o FAQ de açúcar com os totais de 4,8 g a 14 g; o título "O que aparece no Reclame Aqui".
+- Recusado: o parágrafo com a ficha da Natural (números repetidos e a porção que não fecha com o 100 g) e "São relatos sobre a compra e a entrega" (há queixa de sabor estragado).
+- Preço do Doce de Leite Zero 400 g conferido no Chrome em 13/11: R$ 69,99 (de R$ 84,99) no preço da página e na variante. O "R$ 64,99" só existe numa linha antiga da descrição, no HTML, sem aparecer na tela.

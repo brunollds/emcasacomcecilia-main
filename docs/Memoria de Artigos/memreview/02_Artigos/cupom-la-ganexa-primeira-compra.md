@@ -169,3 +169,11 @@ C1: 0 "R$" na resposta rápida (46 palavras, 3 frases). C2: 1 data no corpo ("13
 - Smoke: a página com 200, o og:image na capa pelo CDN, as imagens do corpo pelo CDN e nenhum "PROVISÓRIO" no HTML; os links novos no LG1 (o capítulo "Vale para quem já comprou?"), no LG2, no LG3 e no LG6; sitemap e llms.txt com os dois artigos; `covers:check` 2/2; IndexNow com 12 URLs (os seis artigos da La Ganexa, `/reviews`, `/reviews/loja/la-ganexa`, a home, `/cupons/la-ganexa`, sitemap e llms.txt); captura 43472180274 disparada, à espera da aprovação do Bruno.
 - Título: "Cupom La Ganexa primeira compra: CECILIA dá 10% OFF e vale nas compras seguintes". seoTitle: "Cupom La Ganexa primeira compra: 10% OFF com CECILIA".
 - Pendente: revisão mensal de dezembro de 2026: reler o CECILIA no checkout, o frete grátis por região e o preço da pasta Crocante de 450 g.
+
+## Revisão externa (Farol, GPT-6.1 Terra), conferida em 13/11/2026
+
+O Bruno colou o relatório da revisão de copy dos sete artigos da La Ganexa (`docs/auditoria-copy-artigos/la-ganexa-revisao-farol-20261113/`, fora do repositório versionado). Cada mudança do candidato foi conferida contra as fontes e as regras do pacote. Depois, o Job 3 (Fable 5.2) leu o resultado, e as correções dele foram aplicadas.
+
+- Entrou: o `imageAlt` da capa com o pote de Chocolate Branco com Pistache; o bullet "Promoção e kits" e o FAQ com "Soma" e a regra dos dois kits, com o resultado do teste. A decisão de deixar os kits só no LG1 deixou de valer: a regra do pacote manda citar a regra e o teste onde o kit aparece.
+- Também: no frete, a loja diz que o Kit 2 Doce de Leite não entra na conta do mínimo; "Na segunda compra" diz que o código, o frete e os kits não mudam; a foto da Crocante volta a ser citada no texto; o código com artigo ("o CECILIA").
+- Mantido: "Código achado em site de cupom pode não funcionar" (decisão do Job 2).

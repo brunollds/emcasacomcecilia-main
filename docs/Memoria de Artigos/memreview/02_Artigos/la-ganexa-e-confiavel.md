@@ -167,3 +167,11 @@ C1: 0 "R$" na resposta rápida (57 palavras, 3 frases). C2: 1 data no corpo ("de
 - Título: "La Ganexa é confiável? De onde é, site oficial, entrega e trocas". seoTitle: "La Ganexa é confiável? De onde é, site oficial e trocas".
 - Pendente: revisão mensal de dezembro de 2026: reler as políticas de frete e de troca, o FAQ e o rodapé.
 - No PR do LG4 e do LG5: o capítulo "Os produtos e a saúde" ganhou o link para o LG5 ("O que cada pote declara, sabor por sabor, está em La Ganexa é boa?"), que também entrou nos relacionados.
+
+## Revisão externa (Farol, GPT-6.1 Terra), conferida em 13/11/2026
+
+O Bruno colou o relatório da revisão de copy dos sete artigos da La Ganexa (`docs/auditoria-copy-artigos/la-ganexa-revisao-farol-20261113/`, fora do repositório versionado). Cada mudança do candidato foi conferida contra as fontes e as regras do pacote. Depois, o Job 3 (Fable 5.2) leu o resultado, e as correções dele foram aplicadas.
+
+- Entrou: o subtítulo novo; a resposta rápida com fábrica em Peruíbe (SP) e CNPJ no rodapé; o CNPJ do site coincide com o do perfil no Reclame Aqui (31.315.158/0001-84); "O que pesa na decisão" com a regra de troca e a avaria em 48 horas; o FAQ "troca produto aberto?" com resposta direta pela política.
+- Recusado: renomear "Os produtos e a saúde"; tirar a frase do FAQ da loja sobre glúten e diabéticos (segue como opção do Bruno); a "leitura de 13/11" do domínio laganexa.com.br, que não foi relido.
+- O corpo está com 2 datas, no limite: data nova pede `bodyDatesReason` "reclame-aqui".

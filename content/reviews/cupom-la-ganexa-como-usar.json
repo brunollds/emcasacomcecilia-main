@@ -85,7 +85,7 @@
       "paragraphs": [
         "O CECILIA dá 10% OFF. No teste de 13 de novembro de 2026, num carrinho de quatro itens, todos com preço promocional, o código tirou R$ 26,44 de R$ 264,40, e o total caiu para R$ 237,96: os 10% entraram sobre os preços da promoção.",
         "Estavam no carrinho o Kit Degustação Pasta de Amendoim com 6 sabores, o Doce de Leite Zero 400 g, os Cookies Cacau com Gotas de Chocolate e o Kit Degustação Cookies de Cacau e de Baunilha.",
-        "O valor do seu pedido aparece na linha “Descontos” do resumo, antes do pagamento."
+        "O valor descontado aparece na linha “Descontos”; confira também o total antes do pagamento."
       ],
       "images": [
         {
@@ -146,7 +146,7 @@
       "bullets": [
         "Qual é o cupom da La Ganexa? CECILIA, o código da Cecília: 10% OFF no site oficial, para cliente novo e antigo.",
         "O cupom La Ganexa soma com produto em promoção? Sim. No nosso teste, o desconto entrou sobre o preço promocional.",
-        "O cupom vale nos kits? A loja diz que o Kit 2 Doce de Leite e o Kit 2 Brigadeiros de Colher não acumulam com cupom. No nosso teste, o checkout aceitou o código no Kit 2 Doce de Leite: confira a linha “Descontos” antes de pagar.",
+        "O cupom vale nos kits? A loja diz que o Kit 2 Doce de Leite e o Kit 2 Brigadeiros de Colher não acumulam com cupom. No nosso teste, o checkout aceitou o CECILIA no Kit 2 Doce de Leite; o de Brigadeiros não foi testado. Confira a linha “Descontos” antes de pagar.",
         "O cupom dá frete grátis? Não. O frete grátis depende do mínimo da sua região, contado depois do cupom.",
         "Tem desconto no Pix na La Ganexa? Não. A loja não dá desconto a mais no Pix, e o cupom vale com ele."
       ]
