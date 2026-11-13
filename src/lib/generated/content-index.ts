@@ -54594,6 +54594,7 @@ export const reviewsData: unknown[] = [
           "Quais máquinas estão em oferta na Black Friday da Dolce Gusto? Nos banners, a Mini Me 2.0 a R$ 369,90, a Genio S Basic a R$ 409,90 e a Genio S Plus a R$ 499,90, todas com 30 cápsulas e em 10 vezes sem juros, abaixo do preço de outubro e do anunciado na Black Friday de 2024.",
           "Vale a pena comprar cafeteira Dolce Gusto na Black Friday? Nas máquinas, vale: a Mini Me 2.0 e as Genio S ficaram abaixo dos preços de outubro e incluíam 30 cápsulas. Antes de fechar, compare o valor do seu modelo, a voltagem e o frete. Nas cápsulas, compare a oferta do dia com as referências da tabela.",
           "Tem cupom Dolce Gusto para a Black Friday? O CECI dá 10% OFF em compras a partir de R$ 100 na loja oficial. No nosso teste, ele somou com um combo da Black Friday; o resumo do carrinho mostra o desconto antes de pagar.",
+          "O cupom CECI vale na Black Friday? Vale. No nosso teste com a campanha no ar, os 10% do cupom Dolce Gusto CECI entraram sobre um combo especial de Black Friday. Nas outras ofertas, o resumo do carrinho mostra se o desconto entrou.",
           "As cápsulas Dolce Gusto ficam mais baratas na Black Friday? Em 2024, a Nestlé anunciou caixas a partir de R$ 13,90 e DGusta a partir de R$ 1,39 a cápsula; em outubro, as promoções partiam de R$ 17,90 e R$ 1,79.",
           "Cápsula NEO serve na Mini Me ou na Genio S? Só com o Adaptador NEO Start, e apenas nos cinco cafés NEO da linha. Sem o adaptador, as cápsulas NEO não servem diretamente nessas máquinas.",
           "A Black Friday da Dolce Gusto tem frete grátis? Tem: o banner da campanha dá frete grátis acima de R$ 100, e a assinatura, em todos os pedidos. O carrinho mostra se o seu pedido entrou.",
@@ -54938,6 +54939,7 @@ export const reviewsData: unknown[] = [
           "Poltrona reclinável fica mais barata na Black Friday? Compare antes de comprar. Antes da campanha, a reclinável elétrica com giro e balanço da DAMIE saía por R$ 4.299, ou R$ 3.869,10 no Pix, contra R$ 5.299 do preço cheio.",
           "Qual o preço da poltrona DAMIE? Antes da campanha, a reclinável ia de R$ 2.969 (manual, em suede, bouclé ou linho) a R$ 6.149 (elétrica com elevação, em couro), com 10% de desconto no Pix à vista.",
           "Tem cupom DAMIE para a Black Friday? O CECILIA12 dá 12% OFF em todos os produtos do site da DAMIE, com todas as formas de pagamento e sem limite de usos por CPF, e soma com as promoções, os brindes e o desconto do Pix. Só não soma com outro cupom nem com o giftback.",
+          "O cupom CECILIA12 vale na Black Friday? Vale. O cupom DAMIE CECILIA12 dá 12% OFF e soma com o preço de campanha, com os brindes e com o Pix. Só não entra junto com outro cupom nem com o giftback.",
           "O cupom CECILIA12 soma com o desconto do Pix? Soma. Pagando no Pix, entram os 12% do cupom e os 10% do Pix: antes da campanha, pela nossa conta, a reclinável elétrica com giro e balanço em suede saía por R$ 3.404,81.",
           "Qual o prazo de entrega da DAMIE? Varia por região e aparece no cálculo do frete, antes de pagar. O prazo começa a contar na confirmação do pagamento, e o frete é grátis no Sul e no Sudeste.",
           "A DAMIE entrega no Nordeste? Sim, pelos anúncios oficiais da marca no Mercado Livre, que é como a DAMIE atende o Norte e o Nordeste. O frete e o prazo aparecem ao simular o CEP no anúncio."
@@ -55223,7 +55225,7 @@ export const reviewsData: unknown[] = [
           "Panelas Le Creuset em promoção valem a pena? Compare o preço do dia com o preço cheio da tabela deste guia. Em outubro, as promoções da Let's Eat It eram de 15% a 33% e ficavam numa seleção de peças e cores; na Black Friday, a coleção de promoção vai de 15% a 50%, e a maioria das panelas Signature tem 25%.",
           "A Let's Eat It tem frete grátis? Só em casos específicos: a política de frete cita Le Creuset e Zwilling em pedidos acima de R$ 1.000 em produtos dessas marcas. No resto, o frete é calculado pelo CEP e pelo peso do pedido, e o carrinho mostra o valor. O envio da devolução sai por conta da loja.",
           "Tem cupom de primeira compra na Let's Eat It? Use o MAUAD, que dá 5% OFF em todo o site. A loja não divulga outro cupom de boas-vindas.",
-          "O cupom MAUAD vale na Black Friday? Vale. O MAUAD dá 5% OFF e soma com os preços da Black November: no nosso teste, o cupom entrou sobre o preço da campanha.",
+          "O cupom MAUAD vale na Black Friday? Vale. O cupom Let’s Eat It MAUAD dá 5% OFF e soma com os preços da Black November: no nosso teste, o cupom entrou sobre o preço da campanha.",
           "O cupom MAUAD soma com o desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% da loja: pela nossa conta, a panela Redonda Signature de 20 cm, a R$ 1.746,75 na promoção, sai por R$ 1.576,44, sem o frete.",
           "O cashback da Let's Eat It vale na Black Friday? A faixa da campanha anuncia 15% de cashback. O cupom só pode ser usado a partir de 7 dias depois da compra que o gerou, vale 30 dias, e a nova compra precisa ser de pelo menos 7 vezes o valor do cupom. Para usar na sexta da Black Friday, a compra que gera o cupom precisa ser de pelo menos 7 dias antes; os termos estão na página do cashback.",
           "A Let's Eat It tem loja física? Tem a Casa Let's, na Av. Pacaembu, 1105, em São Paulo, com 15% de desconto nas compras presenciais, exceto Le Creuset e Trussardi. Ela não faz retirada de pedidos do site.",
@@ -55574,7 +55576,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da I Wanna Sleep? A home já traz os Kits Exclusivos Black, com brindes, sem data de fim publicada. O grande dia é a última sexta-feira de novembro, dia 27, e a Cyber Monday, a segunda seguinte. Compare os kits com as tabelas deste guia.",
           "Dá para comprar colchão da I Wanna Sleep pelo site? Não. Os colchões e a base box aparecem no site, mas são vendidos só nas lojas físicas, em Belo Horizonte, com as consultoras do sono. Pelo site, a peça para a cama é o Pillow Top Magnum.",
-          "O cupom CECIEMCASA vale na Black Friday? Vale. O CECIEMCASA dá 10% OFF em todo o site e soma com os preços da Black Friday. Nos kits da campanha, o carrinho mostra se o cupom entrou antes do pagamento.",
+          "O cupom CECIEMCASA vale na Black Friday? Vale. O cupom I Wanna Sleep CECIEMCASA dá 10% OFF em todo o site e soma com os preços da Black Friday. Nos kits da campanha, o carrinho mostra se o cupom entrou antes do pagamento.",
           "O cupom CECIEMCASA soma com o desconto do Pix? Soma. O CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento, e no Pix entram também os 5% da loja: pela nossa conta, o Pillow Top Magnum casal, de R$ 1.848, sai por R$ 1.580,04.",
           "O que é o Sleeptest da I Wanna Sleep? É o teste em casa: 30 dias para o travesseiro e o pillow top e 100 dias para o colchão, com pelo menos 15 dias de uso antes de pedir a troca. No travesseiro e no pillow top, a troca vira crédito na loja.",
           "A I Wanna Sleep tem frete grátis? Tem, acima de R$ 150, em travesseiros, pillow top, cobertores e no resto da linha leve. Em outubro, o Pillow Top Magnum casal teve frete grátis para o centro de 12 capitais.",
@@ -55906,7 +55908,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Insider? Já começou, com até 50% OFF em itens selecionados, em janelas curtas que mudam ao longo de novembro, até a última sexta-feira do mês, dia 27, e a Cyber Monday, na segunda seguinte. A loja não publicou data de fim.",
           "Vale usar o cupom da campanha da própria Insider no lugar do EMCASACOMCECILIA? No teste do Compre 1, Ganhe 1, não: o cupom que o banner da loja divulga deu 5%, e o EMCASACOMCECILIA deu 15% e manteve a peça grátis. A loja aceita um cupom por pedido, então confira os dois no carrinho e fique com o que der o menor total.",
-          "O cupom EMCASACOMCECILIA vale na Black Friday? Vale. Ele dá 15% OFF na loja online, com todas as formas de pagamento, e soma com os preços da Black Friday e com o desconto do Pix, salvo quando a promoção disser o contrário. Não vale na loja física, pode não entrar nos primeiros dias de um lançamento, e a loja aceita um cupom por pedido.",
+          "O cupom EMCASACOMCECILIA vale na Black Friday? Vale. O cupom Insider EMCASACOMCECILIA dá 15% OFF na loja online, com todas as formas de pagamento, e soma com os preços da Black Friday e com o desconto do Pix, salvo quando a promoção disser o contrário. Não vale na loja física, pode não entrar nos primeiros dias de um lançamento, e a loja aceita um cupom por pedido.",
           "O cupom soma com o esquenta da Black Friday da Insider? Soma. No teste de fim de outubro, a Tech T-Shirt, a R$ 129 no site, saiu por R$ 109,65 com o cupom, e no Outlet o desconto entrou por cima do preço riscado. A loja aceita um cupom por pedido: compare o total com as condições da campanha antes de pagar.",
           "Quanto custa a Tech T-Shirt na Black Friday? No preço de outubro, ela estava a R$ 129, contra R$ 169 do preço riscado. No teste do fim de outubro, com o cupom EMCASACOMCECILIA, saiu por R$ 109,65. Esses valores são históricos: confira a peça e o desconto no carrinho de hoje.",
           "O kit de Tech T-Shirt compensa? Depende do dia e do kit. No preço de outubro, não: três Tech T-Shirts avulsas saíam por R$ 387, e o kit de três, por R$ 456. No fim de outubro, o kit de três mais barato estava a R$ 356, abaixo das três avulsas. Nos kits de cueca e de Core T-Shirt, o preço por peça era menor que o da avulsa.",
@@ -56213,7 +56215,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Insider? Já começou, com até 50% OFF em itens selecionados, em janelas curtas que mudam ao longo de novembro, até a última sexta-feira do mês, dia 27, e a Cyber Monday, na segunda seguinte. A loja não publicou data de fim.",
           "Vale usar o cupom da campanha da própria Insider no lugar do EMCASACOMCECILIA? No teste do Compre 1, Ganhe 1, não: o cupom que o banner da loja divulga deu 5%, e o EMCASACOMCECILIA deu 15% e manteve a peça grátis. A loja aceita um cupom por pedido, então confira os dois no carrinho e fique com o que der o menor total.",
-          "O cupom EMCASACOMCECILIA vale na Black Friday? Vale. Ele dá 15% OFF na loja online, com todas as formas de pagamento, e soma com os preços da Black Friday e com o desconto do Pix, salvo quando a promoção disser o contrário. Não vale na loja física, pode não entrar nos primeiros dias de um lançamento, e a loja aceita um cupom por pedido.",
+          "O cupom EMCASACOMCECILIA vale na Black Friday? Vale. O cupom Insider EMCASACOMCECILIA dá 15% OFF na loja online, com todas as formas de pagamento, e soma com os preços da Black Friday e com o desconto do Pix, salvo quando a promoção disser o contrário. Não vale na loja física, pode não entrar nos primeiros dias de um lançamento, e a loja aceita um cupom por pedido.",
           "O cupom soma com o Outlet feminino? Soma. No teste de fim de outubro, a Calça Pantalona InLounge, a R$ 179 no Outlet, saiu por R$ 152,15 com o cupom, e ele entrou até nos sutiãs Nakedfeel, que estavam com etiqueta de lançamento.",
           "Quanto custa a Tech T-Shirt feminina na Black Friday? No preço de outubro, R$ 129, contra R$ 169 do preço riscado. Com o cupom, sai por R$ 109,65, se ele entrar: a peça aparece com a etiqueta de lançamento, e o carrinho mostra se o desconto foi aplicado. Um selo de novembro só é vantagem se o preço do dia ficar abaixo de R$ 129.",
           "Qual tamanho da Tech T-Shirt feminina escolher? A loja descreve o caimento como levemente ajustado, sem comprimir, do PP ao XGG. Meça uma camiseta sua deitada e compare o busto e a largura com a tabela oficial, que está no [guia de medidas Insider](/reviews/tabela-de-medidas-insider). Camiseta troca por tamanho em 21 dias corridos; calcinha e sutiã, não.",
@@ -56565,6 +56567,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Nestlé Nutre? Já começou: a loja chama novembro de Black Month, \"novembro inteiro de ofertas\" em Nutrição Especializada, Nutrição Infantil, Nutrição Adulta e Vitaminas, com até 25% OFF e mais 10% com cupom. O esquenta, com até 25% OFF em Materna, Ascenda, Nestonutri, Molico e Vital, vai até o dia 22 ou enquanto durarem os estoques. O grande dia é a última sexta-feira de novembro, dia 27, e a Cyber Monday, a segunda seguinte.",
           "Qual cupom usar nos 10% adicionais do Black Month da Nestlé Nutre? O CECI: 10% OFF, com todas as formas de pagamento, sobre os preços da campanha. A loja aceita um cupom por pedido, e o CECI não vale em fórmulas infantis de 0 a 12 meses.",
+          "O cupom CECI vale na Black Friday? Vale. O cupom Nestlé Nutre CECI dá 10% OFF sobre os preços do Black Month, nos produtos elegíveis, e não vale em fórmulas infantis de 0 a 12 meses.",
           "O Nutren Senior entrou na Black Friday da Nestlé Nutre? A ausência dele numa arte não permite concluir que a linha esteja fora. Confira o SKU que você procura e compare o preço atual com a referência de outubro deste guia.",
           "Quanto custa o Nutren Senior 740 g? Em outubro, a lata de café com leite saía por R$ 169,37 na compra única (preço riscado de R$ 188,19), e a zero lactose sem sabor, por R$ 190,61 (riscado de R$ 211,79). O kit com duas latas sem sabor saía por R$ 263,49.",
           "O Nutren Senior fica mais barato na Black Friday? Depende do produto e da oferta. Compare o mesmo SKU, tamanho, quantidade, pagamento e frete. Na tabela de outubro, o kit de duas latas sem sabor aparecia a R$ 263,49; isso não é preço atual nem comprova economia de toda a linha.",
@@ -56881,6 +56884,7 @@ export const reviewsData: unknown[] = [
           "Quando começa e quanto dura a Black Friday do Magalu? O grande dia é a última sexta-feira de novembro, dia 27, mas o Magalu chama o mês inteiro de Black das Blacks: as ofertas antecipadas com o selo Oferta Black já estão no ar, com novidades todo domingo no app e às segundas nas lojas físicas, e as ofertas seguem até a Cyber Monday.",
           "O que é o selo Oferta Black do Magalu? É a marca das ofertas antecipadas: a loja o chama de garantia de preço da Black Friday. No app, ainda entra um cupom extra por dia sobre essas ofertas, que não vale no navegador nem com o código da Cecília.",
           "Tem cupom Magalu para a Black Friday? Tem: os códigos da Cecília dão de R$ 10 a R$ 100 OFF, conforme o valor do carrinho, na loja Magazine Você da Cecília, pelo navegador, em produtos vendidos e entregues pelo Magalu. Eles valem sobre o preço da Black Friday e com todas as formas de pagamento.",
+          "O cupom 10EMCASACOMCECILIA vale na Black Friday? Vale. Os cupons da Cecília no Magalu, de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, entram sobre o preço da Black Friday, na loja Magazine Você da Cecília, pelo navegador. As ofertas exclusivas do app ficam fora.",
           "O cupom da Cecília funciona no app do Magalu? Não. Os códigos só funcionam pelo navegador, na loja Magazine Você da Cecília, então as ofertas exclusivas do app ficam fora deles.",
           "Posso usar o código da Cecília junto com o cupom do Magalu? Não, vale um cupom por pedido. O código da Cecília é para quando o produto não tem cupom do próprio Magalu, ou quando ele não vale para o que você quer comprar. O cupom extra diário da Black Friday é só do app, onde o código da Cecília não entra.",
           "Qual código usar na compra de uma geladeira? Depende do valor da sacola. Pela tabela de preços, a geladeira Consul Frost Free de 377 litros custava R$ 2.727,54 e ficava na faixa do 50EMCASACOMCECILIA, de R$ 50 OFF.",
@@ -79290,6 +79294,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Black Skull? A Black November já começou, com desconto progressivo de 15% a 25% nos produtos da página da campanha. A página da loja diz que as ofertas ficam disponíveis durante todo o mês e que a Black Friday acontece na última sexta-feira de novembro; a loja não informa data de fim.",
           "Qual é o cupom da Black Skull na Black Friday? O CECILIA10, 10% em todo o site, em todas as formas de pagamento. É o mesmo código do resto do ano, e as condições do dia ficam na página do cupom da Black Skull.",
+          "O cupom CECILIA10 vale na Black Friday? Vale. O cupom Black Skull CECILIA10 somou com as promoções que testamos, e a regra do cupom é somar também com o desconto progressivo da Black November. Confira a linha de descontos na sacola antes de pagar.",
           "O cupom CECILIA10 vale em produto em promoção? Vale. Ele dá 10% em todo o site e soma com as promoções vigentes: numa sacola de outubro, o cupom tirou R$ 36,44 de um subtotal de R$ 364,33 que já tinha itens com preço riscado. Com o desconto progressivo, o cupom também soma; a linha Descontos da sacola mostra o valor abatido.",
           "O CECILIA10 vale em qualquer forma de pagamento? Vale em todas as formas de pagamento da loja: cartão em até 8 vezes sem juros (parcela mínima de R$ 50), Pix, Pix parcelado em 4 vezes sem juros e boleto à vista.",
           "O frete da Black Skull é grátis? Depende da região. O frete grátis valia acima de R$ 199,90 no Sul e no Sudeste, R$ 249,90 no Centro-Oeste e R$ 299,90 nas demais regiões, contado sobre o total já com o desconto do cupom.",
@@ -79587,7 +79592,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Max Titanium? O Max November já está no ar e vai o mês inteiro, até o último dia de novembro, com a Black Friday do calendário na última sexta-feira. A home anuncia cashback de até 16% acima de R$ 150, um par de meias de brinde acima de R$ 199,90, roupas e acessórios com 50% OFF, brindes por faixa de valor e Pix e boleto anunciados com até 5%, conforme o item.",
-          "O cupom da Max Titanium vale na Black Friday? O MAX10EMCASACOMCECILIA é o mesmo código do resto do ano: vale em todas as formas de pagamento e soma com as promoções do site e com o Pix. Nos produtos com preço do Max November, a linha Descontos do carrinho mostra o valor do cupom antes de pagar.",
+          "O cupom MAX10EMCASACOMCECILIA vale na Black Friday? Vale. O cupom Max Titanium MAX10EMCASACOMCECILIA dá até 10% OFF: vale em todas as formas de pagamento e soma com as promoções do site e com o Pix. Nos produtos com preço do Max November, a linha Descontos do carrinho mostra o valor do cupom antes de pagar.",
           "O cupom vale com produto em promoção? Sim. O cupom abateu R$ 16,75 de um Top Whey 3W que já estava com preço promocional. Se o Max November tiver regra própria para o cupom, o carrinho mostra antes de pagar.",
           "O cupom soma com o cashback do Max November? Não dá para afirmar pelo carrinho: o cupom abate o preço na hora, e o cashback é um crédito da loja com regras próprias. Confira na campanha os produtos e clientes elegíveis, o prazo e como o saldo poderá ser usado.",
           "O cupom soma com o desconto do Pix? Sim. O desconto de pagamento anunciado para Pix e boleto pode ser menor que 5% por item. Confira no carrinho o valor dos produtos, o cupom, o pagamento e o frete antes de pagar.",
@@ -79754,7 +79759,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Dr. Peanut? A loja não anunciou campanha: em novembro, o site não tinha datas, produtos nem preços de Black Friday. O grande dia é a última sexta-feira de novembro, e a Cyber Monday, a segunda seguinte. Se a campanha sair, o cupom DREMCASACOMCECILIA segue com 10% OFF em todo o site, e o carrinho mostra se ele soma com a oferta.",
-          "O cupom DREMCASACOMCECILIA soma com promoção? Soma. Ele dá 10% OFF em todo o site, em todas as formas de pagamento, e vale também sobre a pasta de amendoim que já está em promoção.",
+          "O cupom DREMCASACOMCECILIA vale na Black Friday? Vale. O cupom Dr. Peanut DREMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as promoções no ar: no nosso teste, entrou também sobre a pasta de amendoim que já estava em promoção.",
           "A Dr. Peanut tem frete grátis? Tem, e o mínimo conta o valor depois do cupom: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte.",
           "Quanto o carrinho precisa ter para ter frete grátis com o cupom? O mínimo da sua região, já com o desconto: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte. Se o cupom deixar o total abaixo disso, a loja cobra o frete.",
           "A Dr. Peanut tem desconto no Pix? Tem: a ficha do produto mostra 3%. O cupom vale em todas as formas de pagamento, inclusive no Pix.",
@@ -79950,7 +79955,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Probiótica? O Novembro PRO já está no ar, por tempo limitado, sem data de fim publicada. A Black Friday do calendário é a última sexta de novembro. As ofertas podem sair do site sem aviso quando o estoque acaba; confirme as disponíveis no dia da compra.",
           "O cupom PRO10EMCASACOMCECILIA vale no Novembro PRO? Ele vale no site oficial, em todas as formas de pagamento, dá até 10% OFF, com percentual menor em alguns produtos, e soma com o preço promocional. Em produto com preço do Novembro PRO, a linha Descontos do carrinho mostra o valor antes de pagar.",
-          "O cupom soma com produto em promoção? Soma com o preço promocional: numa creatina em promoção, o carrinho aceitou o cupom. Kit é outra regra, porque a loja não aplica promoções aos kits.",
+          "O cupom PRO10EMCASACOMCECILIA vale na Black Friday? Vale. O cupom Probiótica PRO10EMCASACOMCECILIA dá até 10% OFF e soma com o preço promocional: numa creatina em promoção, o carrinho aceitou o cupom. Kit é outra regra, porque a loja não aplica promoções aos kits.",
           "O cupom vale no Pix? Vale, em todas as formas de pagamento. O desconto do Pix é da loja: ela anunciava até 5% OFF no Pix e no boleto, e o checkout mostra o valor final.",
           "A Probiótica tem frete grátis? Tem, a partir de R$ 104 (capital de SP) a R$ 599 (Norte), na forma de envio mais barata e fora o Sedex. Cupom pode derrubar o total abaixo do mínimo.",
           "O brinde conta o valor com ou sem cupom? Conta o valor final, depois de todos os descontos. Se o cupom ou o Pix levar o pedido para baixo do valor do brinde, ele pode não entrar.",
@@ -80175,7 +80180,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Cléa Store na Black Friday? O cupom da nossa parceria é o CSEMCASACOMCECILIA, com 10% OFF em todo o site, em todas as formas de pagamento.",
-          "O cupom vale nos preços da Black Friday? No teste com a campanha no ar, sim: os 10% entraram sobre o Kit 3 T-Shirts de R$ 199,00, que fechou em R$ 179,10, e sobre um vestido com os 30% OFF. Os termos da loja preveem exceções: confira a linha Desconto antes de pagar.",
+          "O cupom CSEMCASACOMCECILIA vale na Black Friday? Vale. No teste com a campanha no ar, os 10% do cupom Cléa Store CSEMCASACOMCECILIA entraram sobre o Kit 3 T-Shirts de R$ 199,00, que fechou em R$ 179,10, e sobre um vestido com os 30% OFF. Os termos da loja preveem exceções: confira a linha Desconto antes de pagar.",
           "O cupom soma com o cashback? Sim, mas o cashback é crédito futuro: no nosso teste, o checkout mostrou até R$ 23,22 de créditos previstos sobre o valor depois do cupom. Esse benefício não reduz o valor pago no pedido. Confira a previsão antes de pagar.",
           "Posso usar dois cupons no mesmo pedido? Não. Pelos termos da loja, cada cliente usa um voucher por pedido.",
           "O cupom dá frete grátis? Não. O frete grátis é regra da loja e valia acima de R$ 599. Abaixo disso, o frete é calculado pelo CEP no carrinho.",
@@ -84600,7 +84605,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Belive? A Black November já está no ar, com até 30% em todo o site e 5% a mais no Pix. A loja não publicou data de fim; a Black Friday do calendário é a última sexta-feira de novembro.",
-          "O MAUAD vale na Black Friday? Vale. Ele dá 10% em todas as formas de pagamento e soma com as ofertas do site e com o Pix. No nosso teste com a Black November no ar, o cupom entrou sobre o preço da campanha.",
+          "O cupom MAUAD vale na Black Friday? Vale. O cupom Belive MAUAD dá 10% em todas as formas de pagamento e soma com as ofertas do site e com o Pix. No nosso teste com a Black November no ar, o cupom entrou sobre o preço da campanha.",
           "O MAUAD soma com o Pix? Sim. No teste de checkout, o Pix de 5% entrou depois do cupom.",
           "O MAUAD vale no Mercado Livre? Não. Lá a Belive também vende, mas o cupom não vale.",
           "Quanto é o desconto da Black November da Belive? Até 30% em todo o site, mais 5% no Pix. O percentual é por produto; o teto é o da campanha.",
@@ -104147,7 +104152,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Mais Mu? Já começou: a Mais Mu chama a campanha de Blue Friday, com até 50% OFF e 3% no Pix, sem data de fim publicada. A Black Friday do calendário é a última sexta-feira de novembro.",
-          "O cupom da Mais Mu vale na Black Friday? O MMEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as ofertas e com o Pix e não soma com o cashback. Em produto com o preço das ofertas de novembro, o resumo do pedido mostra a linha Desconto do cupom antes de pagar.",
+          "O cupom MMEMCASACOMCECILIA vale na Black Friday? Vale. O cupom Mais Mu MMEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as ofertas e com o Pix e não soma com o cashback. Em produto com o preço das ofertas de novembro, o resumo do pedido mostra a linha Desconto do cupom antes de pagar.",
           "O cupom vale com produto em promoção? Sim. Os 10% entram também na creatina que já está em oferta.",
           "O cupom soma com o desconto do Pix? Sim. O cupom soma com o desconto de 3% que a loja dá no Pix.",
           "Posso usar o cupom junto com o crédito do cashback? Não. A loja não acumula cupons, e o crédito do cashback conta como cupom.",
@@ -118841,7 +118846,7 @@ export const reviewsData: unknown[] = [
           "Quando é a Black Friday de 2026? Na última sexta de novembro. A Cyber Monday vem na segunda seguinte. A Skelt teve uma ação de descontos e brindes no começo de novembro, já encerrada.",
           "A Skelt tem Black Friday? A loja usou coleções com esse nome e anunciou uma ação de desconto progressivo e brindes no começo de novembro. Essa ação já terminou; confira na loja as condições da campanha vigente.",
           "O que era “BF - Live”? Era o nome da coleção que indicava uma live de aquecimento. O nome, por si só, não comprovava desconto.",
-          "O cupom vale na Black Friday? O SKEMCASACOMCECILIA dá 10% OFF no site. O desconto progressivo da ação encerrada não garante as condições de outra campanha. Confira o total na sacola antes de pagar.",
+          "O cupom SKEMCASACOMCECILIA vale na Black Friday? O cupom Skelt SKEMCASACOMCECILIA dá 10% OFF no site. O desconto progressivo da ação encerrada não garante as condições de outra campanha. Confira o total na sacola antes de pagar.",
           "Vale a pena esperar? Compare o preço final do mesmo produto, com cupom, forma de pagamento e frete. A tabela datada de outubro ajuda a verificar se a oferta de novembro ficou melhor.",
           "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio. Link da marca no [Mercado Livre](https://meli.la/2unTb7k).",
           "O desconto de uma ação anterior vale na sexta da Black Friday? Não presuma que sim. Prazo, percentual e brindes podem mudar; confira as condições da campanha e o resumo do pedido."
@@ -119856,7 +119861,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Bagaggio? Já começou: a página de Black Friday da loja anuncia até 70% OFF, e a home traz o leve 3, pague 2. A Black Friday é na última sexta de novembro, e a loja não publica a data de fim da campanha.",
-          "O cupom CECILIA10 vale na Black Friday? Ele vale em todo o site, com o Pix. Nos preços da campanha, aplique na sacola e confira a linha do desconto antes de pagar.",
+          "O cupom CECILIA10 vale na Black Friday? Vale. O cupom Bagaggio CECILIA10 entra em todo o site, com o Pix. Nos preços da campanha, aplique na sacola e confira a linha do desconto antes de pagar.",
           "O leve 3, pague 2 soma com o cupom? A promoção é da loja, e a página da campanha não diz se algum cupom soma com ela. Confira o total da sacola com o cupom antes de pagar.",
           "Garantia vitalícia vale para mochila? Não. Ela vale só para malas da marca compradas depois do início do programa.",
           "Dá para retirar na loja? Sim, quando há loja perto. Espere o aviso de pedido pronto, sem contar só com o prazo de 3 horas que a página cita. Precisa do titular da compra, com documento original com foto.",
@@ -129184,7 +129189,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Toda Up? Já começou: a home anuncia a Black November, com todo o site em desconto, selos de até 40% OFF e brindes por valor de pedido. A Black Friday é na última sexta de novembro, e a loja não publica a data de fim da campanha.",
           "A Toda Up tem Black Friday? Sim. Em outubro, o site mostrava a \"Black Antecipada\", com desconto progressivo de 12%, 15% e 20% pelo carrinho; agora mostra a \"Black November\", com desconto por peça.",
-          "O cupom da Toda Up vale na Black November? O MAUAD dá 15%. Em outubro, na Black Antecipada, quando dava 10%, o cupom saiu depois do desconto da campanha. Na Black VIP, enquanto durar, o checkout não aceita o cupom de influenciadora: avisa que não soma com a escada de desconto. Nos preços da Black November, confira a linha do cupom no carrinho.",
+          "O cupom MAUAD vale na Black Friday? O cupom Toda Up MAUAD dá 15%. Em outubro, na Black Antecipada, quando dava 10%, o cupom saiu depois do desconto da campanha. Na Black VIP, enquanto durar, o checkout não aceita o cupom de influenciadora: avisa que não soma com a escada de desconto. Nos preços da Black November, confira a linha do cupom no carrinho.",
           "Quanto dá o desconto da campanha? Na Black November, o desconto é por peça, com selos de 15%, 16%, 20% e até 40% nos produtos. Na Black Antecipada de outubro, era 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499, sobre o subtotal.",
           "A Black November da Toda Up tem brinde? Tem, pelo banner da campanha: acima de R$ 199, uma calcinha fio dental; acima de R$ 299, uma calcinha e um protetor de silicone. Confira o brinde no carrinho antes de pagar.",
           "A Black November tem frete grátis? A faixa do topo da home anuncia frete fixo de R$ 4,90 para todo o Brasil, não frete grátis; o brinde é que começa em R$ 199 de pedido. Na Black Antecipada de outubro, a faixa anunciava frete grátis em todo o site. Confira o frete pelo CEP no carrinho.",
@@ -176289,7 +176294,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Simple Organic tem Black Friday? Tem, com o nome de Clean Friday: o banner da home anuncia tudo com até 50% OFF, e o desconto já está no preço de cada produto.",
           "Quando é a Black Friday da Simple Organic? A Clean Friday já começou e vai até o fim de novembro, enquanto durarem os estoques; a loja não anunciou regra diferente para a sexta.",
-          "O cupom da Simple Organic vale na Clean Friday? No nosso teste, o S-EMCASACOMCECILIA entrou em itens com preço de campanha: confira a linha do cupom no carrinho, como mostra o capítulo do cupom.",
+          "O cupom S-EMCASACOMCECILIA vale na Black Friday? Vale. No nosso teste, o cupom Simple Organic S-EMCASACOMCECILIA entrou em itens com preço de campanha: confira a linha do cupom no carrinho, como mostra o capítulo do cupom.",
           "A Simple Organic tem frete grátis na Clean Friday? Tem, a partir de R$ 99 em produtos, contados depois do cupom, como fora da campanha; abaixo disso, o frete é pelo CEP.",
           "Tem cupom de primeira compra na Simple Organic? O cupom que temos é o S-EMCASACOMCECILIA, de 5% na loja online, e ele vale na primeira compra."
         ]
@@ -188140,7 +188145,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Precisa de cupom para ter os 30% da Black da HolyFoods? Não: os 30% já estão no preço, nos avulsos e nos kits. O EMCASA é um desconto a mais, na tela de finalizar a compra.",
           "Até quando vai a Black Friday da HolyFoods? A loja não publicou a data de fim: vale enquanto a campanha estiver no ar, e o capítulo da campanha diz como conferir.",
-          "O cupom EMCASA soma com a Black? Somou nos nossos testes, com 15% sobre o preço que já tinha os 30%; o capítulo do cupom traz os dois carrinhos.",
+          "O cupom EMCASA vale na Black Friday? Vale. Nos nossos testes, o cupom HolyFoods EMCASA somou com a Black: 15% sobre o preço que já tinha os 30%. O capítulo do cupom traz os dois carrinhos.",
           "Qual kit da Black da HolyFoods escolher para começar? A loja indica o Descoberta para conhecer a linha; a comparação dos três está no capítulo \"Qual kit levar\".",
           "A HolyFoods tem frete grátis na Black? Tem, a partir de um mínimo que muda por estado; a tabela está no capítulo do frete."
         ]
@@ -213157,7 +213162,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O cupom soma com a Black Friday da Petz? Não: pelo regulamento, cupom não soma com a oferta da campanha nem com o desconto do Clubz, e a sacola fica com o maior. O desconto de retirada na loja soma com o cupom, 14,5% no total nos itens fora da oferta, como mostra o capítulo de frete.",
+          "O cupom EMCASA vale na Black Friday? O cupom Petz EMCASA vale no site e no app, mas não soma com a oferta: pelo regulamento, cupom não soma com a oferta da campanha nem com o desconto do Clubz, e a sacola fica com o maior. O desconto de retirada na loja soma com o cupom, 14,5% no total nos itens fora da oferta, como mostra o capítulo de frete.",
           "Quando é a Black Friday da Petz? A campanha está no ar, prevista até o fim de novembro, e inclui a sexta da Black Friday.",
           "O que é o Clubz? É o programa de níveis da Petz, com Bronze, Prata, Ouro e Diamante. Ouro e Diamante recebem 5% em CashPetz, e o Diamante tem frete grátis na Entrega Padrão, sem mínimo.",
           "Tem frete grátis na Black Friday? Na Entrega Padrão, valem as faixas do capítulo de frete; se o cupom deixar o pedido abaixo do mínimo, a gratuidade não é aplicada. Para Clubz Diamante, o regulamento informa frete grátis sem mínimo.",
@@ -218403,7 +218408,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O cupom soma com a Black Friday da Prohall? Sim. O CECILIAMC dá até 10% OFF em cima do preço da campanha; nos nossos testes, tirou 7% de produtos já em promoção.",
+          "O cupom CECILIAMC vale na Black Friday? Vale. O cupom Prohall CECILIAMC dá até 10% OFF em cima do preço da campanha; nos nossos testes, tirou 7% de produtos já em promoção.",
           "Quando acaba a Black Friday da Prohall? A loja diz que as ofertas são por tempo limitado e não publica data de fim.",
           "O cupom vale no app da Prohall? Sim. O CECILIAMC vale no site oficial e no app.",
           "Tem frete grátis na Black Friday da Prohall? Tem, a partir de um valor mínimo que muda por região e conta depois do cupom."
