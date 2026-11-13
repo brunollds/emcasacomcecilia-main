@@ -75,3 +75,7 @@ X%?").
 - Bolinha: `/images/logos/bolinhas/prohall.png`. Marca-d'água: `/images/logos/watermarks/prohall.webp`.
 - Print do checkout com o cupom: `/images/reviews/prohall/cupom-prohall-checkout-com-cupom.webp` (do teste
   do Bruno; demonstração visual, sem data).
+
+## Artigos no ar (12/11/2026)
+
+O pacote inicial está publicado, só em PT (release `4320a43e`): [[cupom-prohall-como-usar]], [[black-friday-prohall]], [[prohall-reclame-aqui-nota-reputacao]], [[prohall-e-confiavel]], [[cupom-prohall-primeira-compra]] e [[prohall-e-boa]]. Leituras da redação de 12/11: o código tirou 7% em seis produtos da coleção da Black Friday, e o total com o Pix selecionado foi o mesmo do cartão. O FAQ da loja fala em frete grátis acima de R$ 199 para todo o Brasil; a página de pagamento traz os mínimos por região.

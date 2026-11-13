@@ -7,9 +7,9 @@ parceiro_slug: "prohall"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "em-conformacao-json"
-responsavel: "Job-2 (Claude Fable 5.2)"
-proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
+status: "no-ar"
+responsavel: "-"
+proxima_acao: "revisão mensal de dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PH1"
@@ -190,8 +190,15 @@ Passou. Sempre "até 10%"; nenhum "10% OFF" sem o "até", nenhum "só 7%", nenhu
 - C1: 0 "R$" na resposta rápida. C2: 1 data no corpo. C3, C4, C5: 0 (nenhuma data em título, legenda ou FAQ). Snippet: 137 caracteres, código até o caractere 9, "até 10%" na primeira frase. Subtítulo: 164.
 - Skill de copywriting aplicada (situação B: briefing com ângulo e rascunho): frases curtas e verificáveis, a primeira frase de cada capítulo responde, sem "não é X, é Y" e sem lista de negações.
 
-## Capa e imagens (Job 6; aprovação do Bruno pendente)
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 12/11/2026)
 
 - **Capa:** `/images/reviews/prohall/cupom-prohall-como-usar-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da Prohall, a chamada "Cupom Prohall, como usar", "até 10% OFF" e o CECILIAMC. Foto oficial do Kit Cuidado Capilar Diário Absolut One (CDN da loja). Sem IA.
 - **Onde digitar o cupom na Prohall:** o print do `cartPrint` da página de cupom (`/images/reviews/prohall/cupom-prohall-checkout-com-cupom.webp`), já no site.
 - **Quanto o cupom tira:** `/images/reviews/prohall/cupom-prohall-como-usar-shampoo-condicionador-absolut-one.webp` (quadrada, `href` para a página do produto no site oficial). Foto oficial do Shampoo + Condicionador Absolut One, item do carrinho do teste.
+
+## Publicação (12/11/2026)
+
+- No ar em 12/11/2026, id 931: PR #939 (squash `acbf3f07`), release `4320a43e` (deploy cb87ba96, build 01a1d261), só PT. Smoke: a página com 200, título, capa pelo CDN e fotos do corpo; sitemap e llms.txt com o artigo; `covers:check` ok; IndexNow no lote do release (11 URLs); captura 43340697881 aprovada pelo Bruno.
+- Título: "Como usar o cupom CECILIAMC na Prohall: até 10% OFF no site e no app". seoTitle: "Cupom Prohall: como usar o CECILIAMC, até 10% OFF".
+- Pendente: Revisão mensal de dezembro de 2026: reler o CECILIAMC no checkout (percentual), o frete por região e o Pix.
+- Pendente: Nome do app nas lojas de aplicativo: não lido; o texto diz só "app da Prohall".
