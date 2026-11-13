@@ -7,9 +7,9 @@ parceiro_slug: "la-ganexa"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2)"
+proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "LG1"
@@ -175,3 +175,35 @@ já no site) e uma foto oficial de produto do carrinho testado, com `href` para 
 | Brinde acima de R$ 180, depois de descontos e cupons | `/pages/regras-das-promocoes`, 13/11 | verificado; reler (por tempo limitado) |
 | Valor mínimo e limite de usos do cupom | nenhuma | não escrever |
 | Cashback de 5% com o cupom; app | sem teste; Bruno não viu app | não escrever |
+
+## Leituras da redação (13/11/2026, catálogo e páginas da loja, sem login)
+
+- Catálogo (`/products.json`), relido na redação: os preços do carrinho do teste seguem iguais (Cookies Cacau com Gotas de Chocolate, R$ 18,14; Kit Degustação Pasta de Amendoim com 6 sabores, R$ 139,99; Kit Degustação Cookies de Cacau e de Baunilha, R$ 36,28; Doce de Leite Zero 400 g, R$ 69,99), e o Kit 2 Doce de Leite Zero segue a R$ 127,99.
+- `/pages/regras-das-promocoes`: o Kit 2 Doce de Leite "não é cumulativa com outras promoções, cupons ou descontos e não contabiliza para a regra de frete grátis"; o Kit 2 Brigadeiros de Colher, "Não cumulativo com outras promoções, cupons ou descontos"; brinde nas compras acima de R$ 180, com o mínimo "considerado após a aplicação de todos os descontos, cupons e ofertas promocionais", "por tempo limitado ou enquanto durarem os estoques". Sob o frete grátis, a página diz que o mínimo "considera as condições promocionais aplicáveis ao pedido": ambíguo; o texto segue o Bruno (o mínimo conta depois do cupom).
+- `/pages/politica-de-frete`: frete grátis acima de R$ 250 (Sul e Sudeste) e de R$ 350 (demais regiões). `/pages/perguntas-frequentes`: Pix ou cartão, até 3x sem juros, de 4x a 12x com juros da operadora.
+- Campos do checkout: os do teste do Bruno e do teste da sessão de cupons (dossiê, seção 1), sem carrinho novo. "Finalizar a compra" leva ao checkout da Yampi (`seguro.lojalaganexa.com.br`); no resumo da compra ficam "Inserir cupom de desconto", "Cupom (opcional)" e "Adicionar", com o aviso "Cupom adicionado." e a linha "Descontos". O print do resumo mostra "Remover" ao lado do campo.
+- Contato: WhatsApp (13) 99630-5971, de segunda a quinta das 8h às 18h e sexta das 8h às 17h (perfil do Reclame Aqui, relido em 13/11).
+- A home anuncia app e cashback de 5%: fora do texto, pelas regras do pacote.
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-la-ganexa-como-usar.json` (id 937), no esqueleto do briefing. A conta do teste da página da loja aparece uma vez, com a data dele (13 de novembro de 2026), a única data do corpo. As contas do frete (R$ 270 para R$ 243) e do brinde (R$ 195 para R$ 175,50) entram como exemplo. Sem link para o LG3 e o LG4, que ainda não estão no ar: o único relacionado é o LG6, que sai no mesmo PR.
+
+## Revisão (Job 3, 13/11/2026, Fable 5.2)
+
+Fatos e contas conferidos pelo revisor contra o catálogo, as páginas da loja e o `couponsData.ts`. Aplicado:
+
+- alt da capa com a chamada como está na arte, e alt da foto dos cookies (caixa creme e marrom);
+- resposta rápida de 4 para 3 frases (55 palavras);
+- saiu o capítulo "Vale para quem já comprou?", de uma frase, que repetia a resposta rápida e o FAQ (C7 e C14). Volta, com o link, quando o LG4 for publicado;
+- frete: os valores vêm da política da loja; "o mínimo conta depois do cupom" fica numa frase própria, e a conta entra com "Por exemplo";
+- o item da promoção não repete o capítulo anterior; "todas as formas de pagamento do checkout"; o "Remover" fica só em "O cupom não entrou".
+
+C1: 0 "R$" na resposta rápida. C2: 1 data no corpo e nenhuma em título, legenda ou FAQ. Snippet: 152 caracteres, código até o caractere 7. Subtítulo: 158.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 13/11/2026)
+
+- **Capa:** `/images/reviews/laganexa/cupom-la-ganexa-como-usar-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral (`docs/GUIA-CAPAS-EDITORIAIS.md`) com o logo da La Ganexa, a chamada "Cupom de 10%", "como usar", "soma com promoção" e o CECILIA, sem repetir o nome do logo. Foto oficial do Doce de Leite Zero 400 g (CDN da loja), inédita no site. Sem IA.
+- **Onde digitar o cupom:** o print do `cartPrint` da página de cupom, já no site.
+- **Quanto o cupom tira:** `cupom-la-ganexa-como-usar-cookies-cacau.webp` (1000 × 1000, `href` para a página do produto), foto oficial dos Cookies Cacau com Gotas de Chocolate, item do carrinho do teste.
+- **CDN:** as imagens novas do artigo subiram em 13/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
