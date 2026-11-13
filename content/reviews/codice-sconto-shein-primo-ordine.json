@@ -66,7 +66,7 @@
     {
       "heading": "Il codice invito non è un coupon del carrello",
       "paragraphs": [
-        "Il 4CW5Y non va nel campo del coupon del carrello. Cercato nell'app o nel sito, apre la pagina SHEIN collegata al codice, e lo sconto compare sui capi di quella selezione.",
+        "Il 4CW5Y non va nel campo del coupon del carrello. Cercato nell'app o nel sito, apre la pagina SHEIN collegata al codice: una selezione di promozioni e sconti.",
         "Il negozio spiega che i vantaggi compaiono nelle pagine di campagna e di prodotto e cambiano spesso. Quanto e su quali capi lo decide SHEIN.",
         "Per questo, quando prepari il carrello, controlla il prezzo finale di ogni capo prima di pagare."
       ],
@@ -74,7 +74,7 @@
         {
           "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
           "alt": "Pagina SHEIN aperta dalla ricerca di 4CW5Y, con il titolo \"Acho que você pode gostar\" (\"Penso che potrebbe piacerti\") e capi con il bollino di sconto",
-          "caption": "La pagina che apre la ricerca di 4CW5Y: lo sconto compare indicato su ogni capo.",
+          "caption": "Selezione aperta cercando 4CW5Y. La schermata è in portoghese, con i prezzi in real (R$).",
           "objectFit": "contain",
           "aspectRatio": 0.7581
         }

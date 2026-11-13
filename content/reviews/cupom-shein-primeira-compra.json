@@ -65,7 +65,7 @@
     {
       "heading": "Indicação não é cupom de checkout",
       "paragraphs": [
-        "O 4CW5Y não vai no campo de cupom do carrinho. Pesquisado no app ou no site, ele abre a página da SHEIN ligada ao código, e o desconto aparece nas peças dessa seleção.",
+        "O 4CW5Y não vai no campo de cupom do carrinho. Pesquisado no app ou no site, abre a página da SHEIN ligada ao código: uma seleção de promoções e descontos.",
         "A loja informa: as vantagens aparecem nas páginas de campanha e de produto e mudam com frequência. Quanto e em quais peças, quem decide é a SHEIN.",
         "Por isso, ao montar o carrinho, confira o preço final de cada peça antes de pagar."
       ],
@@ -73,7 +73,7 @@
         {
           "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
           "alt": "Página da SHEIN aberta pela pesquisa do 4CW5Y, com o título \"Acho que você pode gostar\" e peças com selo de desconto",
-          "caption": "A página que a pesquisa pelo 4CW5Y abre: o desconto aparece marcado em cada peça.",
+          "caption": "Seleção aberta pela pesquisa de 4CW5Y, com peças marcadas com selo de desconto.",
           "objectFit": "contain",
           "aspectRatio": 0.7581
         }

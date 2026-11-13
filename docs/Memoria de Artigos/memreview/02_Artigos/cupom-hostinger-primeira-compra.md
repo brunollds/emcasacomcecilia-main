@@ -233,3 +233,13 @@ Os valores de 48 meses e de 1 mês são os do teste de 07/11. A tabela do PT pas
 - Fora do PT: só o teste do site global de 29/10 (US$ 383,52 por US$ 306,82), como o dossiê registra; a tabela fica com a linha de 48 meses, e o texto não afirma valor de outro ciclo. As versões da família `hostinger-cupom-como-funciona` citam 07/11 para o mesmo teste: vale alinhar numa revisão.
 
 - Pendente: reler o carrinho depois da Black Friday (o preço de campanha muda) e, se houver teste do plano mensal no site global, a frase do mensal fora do PT.
+
+## Revisão externa (Farol, GPT-6.1 Terra), conferida em 13/11/2026
+
+A revisão dos 30 artigos da série (pasta `docs/auditoria-copy-artigos/pc-multilingue-pr964-revisao-farol-20261113/`, fora do git) foi conferida mudança a mudança, um agente por artigo e idioma, contra o briefing, o dossiê e os dados da loja. Depois o Job 3 (Fable 5.2) leu a família inteira e as correções dele entraram.
+
+- Entrou, nos 10 idiomas: a frase depois da tabela dizendo que cada valor é o total do primeiro período, cobrado na contratação, e mandando comparar com o preço de renovação do carrinho.
+- Entrou, fora do PT: o FAQ do plano mensal de es, de, it e zh-hant deixou de confirmar o desconto no mensal (o teste do site global é só o de 48 meses); fr e ko com a data do teste global em 29/10; zh-hant sem o relato do link, que era do carrinho brasileiro.
+- Recusado: tirar "Código achado em site de cupom pode não funcionar" (o esqueleto do briefing pede a frase) e trocar por texto genérico a explicação de para quem serve cada ciclo.
+- A conferir pelo Bruno: `couponTranslations.ts` (FAQ da página da loja em en e es) diz que o plano de 1 mês também caiu 20% no teste de 29/10 no site global; o briefing diz que o teste do mensal não tem par no global. Os artigos seguem o briefing.
+- Pendente: imagem no corpo das 9 versões fora do PT. Falta o arquivo do print do site global de 29/10; o print em reais não entra como prova do checkout global.

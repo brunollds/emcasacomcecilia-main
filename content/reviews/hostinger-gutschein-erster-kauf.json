@@ -101,7 +101,7 @@
         ]
       },
       "postParagraphs": [
-        "Der Warenkorb zeigt unter dem Tarif auch den Verlängerungspreis. Prüfen Sie diesen Betrag vor der Wahl der Laufzeit, denn er wird fällig, wenn der Zeitraum endet. Die 20 % gelten auch bei anderen Laufzeiten für den ersten Zeitraum; den Betrag zeigt der Warenkorb der gewählten Laufzeit."
+        "Die Tabelle zeigt den Gesamtpreis für den ersten Zeitraum; er wird beim Kauf berechnet. Vergleichen Sie ihn vor der Buchung mit dem Verlängerungspreis, den der Warenkorb anzeigt."
       ]
     },
     {
@@ -135,7 +135,7 @@
         "Prüfen Sie den Rabatt in der Summe, bevor Sie zahlen."
       ],
       "postParagraphs": [
-        "Der Link in diesem Artikel enthält SONAR20 bereits, aber nicht jeder Tarif übernimmt ihn von selbst. Erscheint in der Bestellübersicht keine Zeile mit dem angewendeten Gutschein, fügen Sie den Code im Feld ein.",
+        "Der Link dieses Artikels enthält SONAR20, aber nicht jeder Tarif übernimmt ihn von selbst. Prüfen Sie den Rabatt in der Bestellübersicht; erscheint er dort nicht, geben Sie den Code im Gutscheinfeld ein.",
         "Was der Code bei jedem Tarif abdeckt, steht in [Hostinger-Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
       ]
     },
@@ -143,7 +143,7 @@
       "heading": "Häufige Fragen",
       "bullets": [
         "Gibt es einen Hostinger-Gutschein für den ersten Kauf? Ja: SONAR20 gibt 20 % auf den ersten Zeitraum eines neuen Tarifs.",
-        "Gilt der Hostinger-Gutschein beim Monatstarif? Die 20 % gelten für den ersten Zeitraum der gewählten Laufzeit. Prüfen Sie den Rabatt im Warenkorb der Laufzeit, die Sie wählen.",
+        "Gilt der Hostinger-Gutschein beim Monatstarif? Getestet haben wir nur die Laufzeit von 48 Monaten. Prüfen Sie beim Monatstarif den Rabatt im Warenkorb, bevor Sie zahlen.",
         "Gibt SONAR20 Rabatt auf die Verlängerung? Nein. Die Verlängerung läuft zum Tabellenpreis, den der Warenkorb unter dem Tarif zeigt.",
         "Gilt der Gutschein für eine Domain? Nicht für die einzelne Domain. Er gilt beim Neukauf von Hosting, VPS, professioneller E-Mail und Reach."
       ]

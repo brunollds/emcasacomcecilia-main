@@ -66,7 +66,7 @@
     {
       "heading": "推荐码不是结账优惠券",
       "paragraphs": [
-        "4CW5Y 不填在购物车的优惠券栏。在应用或网站搜索它，会打开与该推荐码关联的 SHEIN 页面，折扣就显示在这组精选商品上。",
+        "4CW5Y 不填在购物车的优惠券栏。在应用或网站搜索它，会打开与该推荐码关联的 SHEIN 页面，里面是一组含促销和折扣的精选商品。",
         "SHEIN 说明：优惠展示在活动页和商品页上，并且经常变化。折扣多少、适用哪些单品，由 SHEIN 决定。",
         "所以在装满购物车之后，付款前请逐件核对最终价格。"
       ],
@@ -74,7 +74,7 @@
         {
           "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
           "alt": "搜索 4CW5Y 后打开的 SHEIN 页面，标题为“Acho que você pode gostar”（“你可能会喜欢”），商品上带有折扣标签",
-          "caption": "搜索 4CW5Y 后打开的页面：每件商品上都标出了折扣。",
+          "caption": "搜索 4CW5Y 后打开的商品列表。截图为葡萄牙语界面，价格以雷亚尔（R$）显示。",
           "objectFit": "contain",
           "aspectRatio": 0.7581
         }

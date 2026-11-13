@@ -201,3 +201,13 @@ PT em `content/reviews/cupom-shein-primeira-compra.json` (id 945); as 9 versões
 - Pendente: a campanha `shein-novos-usuarios` está com `verifiedAt` de 02/11 (mais de 7 dias): avisar a sessão de campanhas. Reler no navegador a pesquisa do 4CW5Y sem login.
 - Título do PT: "Cupom da SHEIN na primeira compra: ..." no lugar de "Cupom SHEIN primeira compra: ...". O `test:build-output` barra as palavras "Cupom SHEIN" no painel da SHEIN na home, onde o título do artigo aparece. O `seoTitle` segue com a consulta exata.
 - Hostinger (regra do site): as 10 versões levam a assinatura do Bruno em `authors`, como toda a loja.
+
+## Revisão externa (Farol, GPT-6.1 Terra), conferida em 13/11/2026
+
+A revisão dos 30 artigos da série (pasta `docs/auditoria-copy-artigos/pc-multilingue-pr964-revisao-farol-20261113/`, fora do git) foi conferida mudança a mudança, um agente por artigo e idioma, contra o briefing, o dossiê e os dados da loja. Depois o Job 3 (Fable 5.2) leu a família inteira e as correções dele entraram.
+
+- Entrou, nos 10 idiomas: o texto deixou de dizer que o desconto aparece em todas as peças. Agora o código abre "a página da SHEIN ligada ao código: uma seleção de promoções e descontos", e a legenda diz "peças marcadas com selo de desconto".
+- Entrou, nas 9 traduções: a legenda da captura diz que a tela está em português, com preços em R$, sem citar o país.
+- Recusado: tirar a frase sobre valores de primeira compra de sites de cupom sem fonte da SHEIN (decisão do briefing).
+- Em aberto: en usa "some" e es "algunos" onde o PT diz "costumam"; o Fable deixou a uniformização para o Bruno.
+- Pendente: a reconferência da campanha `shein-novos-usuarios` (`verifiedAt` de 02/11), da sessão de campanhas.

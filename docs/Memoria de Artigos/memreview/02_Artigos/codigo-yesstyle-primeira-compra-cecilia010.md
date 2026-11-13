@@ -217,3 +217,10 @@ PT com o id 944; as 9 versões com os ids 955 a 963 e os slugs do briefing.
 - Fora do PT: sem Brasil e sem Portugal; o capítulo da entrega manda conferir se a YesStyle entrega no país do leitor, com o link do guia de entrega do idioma. Em zh-hans, o guia do idioma cobre só Singapura e Malásia.
 
 - Pendente: decidir se a família `yesstyle-primeira-compra` entra em `src/lib/i18n/clusters/yesstyle.ts` (hoje não está, e os gates passam); é mudança em `src/`, da sessão do Redesenho.
+
+## Revisão externa (Farol, GPT-6.1 Terra), conferida em 13/11/2026
+
+A revisão dos 30 artigos da série (pasta `docs/auditoria-copy-artigos/pc-multilingue-pr964-revisao-farol-20261113/`, fora do git) foi conferida mudança a mudança, um agente por artigo e idioma, contra o briefing, o dossiê e os dados da loja. Depois o Job 3 (Fable 5.2) leu a família inteira e as correções dele entraram.
+
+- Entrou: em ja e ko, os 5% e os 2% passam a ser ditos como desconto adicional, e saiu a instrução de deixar o campo de cupom vazio (o código tem campo próprio e não ocupa o de cupom); em es, o print que mostra 5% ficou separado da regra dos pedidos seguintes; em es, fr, it e zh-hans, a frase de conferir a linha do desconto no resumo antes de pagar.
+- Recusado: tirar o aviso de código achado em site de cupom (decisão do briefing, igual no PT).
