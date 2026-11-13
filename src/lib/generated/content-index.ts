@@ -29526,7 +29526,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Na nossa página, a lista de cupons da YesStyle está atualizada em 9 de novembro de 2026.",
+      "text": "Na nossa página, a lista de cupons da YesStyle está atualizada em 12 de novembro de 2026.",
       "label": "Ver cupons ativos da YesStyle",
       "url": "/cupons/yesstyle",
       "sponsored": false
@@ -36898,7 +36898,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "On our page, the YesStyle coupon list is current as of November 9, 2026.",
+      "text": "On our page, the YesStyle coupon list is current as of November 12, 2026.",
       "label": "View Active YesStyle Coupons",
       "url": "/en/coupons/yesstyle",
       "sponsored": false
@@ -37117,7 +37117,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "En nuestra página, la lista de cupones de YesStyle está actualizada al 9 de noviembre de 2026.",
+      "text": "En nuestra página, la lista de cupones de YesStyle está actualizada al 12 de noviembre de 2026.",
       "label": "Ver cupones activos de YesStyle",
       "url": "/es/coupons/yesstyle",
       "sponsored": false
@@ -37336,7 +37336,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Sur notre page, la liste des coupons YesStyle est à jour au 9 novembre 2026.",
+      "text": "Sur notre page, la liste des coupons YesStyle est à jour au 12 novembre 2026.",
       "label": "Voir les coupons YesStyle actifs",
       "url": "/fr/coupons/yesstyle",
       "sponsored": false
@@ -37555,7 +37555,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Auf unserer Seite ist die Liste der YesStyle-Gutscheine auf dem Stand vom 9. November 2026.",
+      "text": "Auf unserer Seite ist die Liste der YesStyle-Gutscheine auf dem Stand vom 12. November 2026.",
       "label": "Aktive YesStyle-Gutscheine ansehen",
       "url": "/de/coupons/yesstyle",
       "sponsored": false
@@ -37774,7 +37774,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "저희 페이지의 YesStyle 쿠폰 목록은 2026년 11월 9일 기준입니다.",
+      "text": "저희 페이지의 YesStyle 쿠폰 목록은 2026년 11월 12일 기준입니다.",
       "label": "사용 가능한 YesStyle 쿠폰 보기",
       "url": "/ko/coupons/yesstyle",
       "sponsored": false
@@ -37993,7 +37993,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "当サイトのYesStyleクーポン一覧は2026年11月9日時点の内容です。",
+      "text": "当サイトのYesStyleクーポン一覧は2026年11月12日時点の内容です。",
       "label": "利用できるYesStyleクーポンを見る",
       "url": "/ja/coupons/yesstyle",
       "sponsored": false
@@ -38212,7 +38212,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "本站頁面的 YesStyle 優惠碼列表更新於2026年11月9日。",
+      "text": "本站頁面的 YesStyle 優惠碼列表更新於2026年11月12日。",
       "label": "查看 YesStyle 優惠碼",
       "url": "/zh-hant/coupons/yesstyle",
       "sponsored": false
@@ -38431,7 +38431,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "本站页面的 YesStyle 优惠码列表更新于2026年11月9日。",
+      "text": "本站页面的 YesStyle 优惠码列表更新于2026年11月12日。",
       "label": "查看 YesStyle 优惠码",
       "url": "/zh-hans/coupons/yesstyle",
       "sponsored": false
@@ -49348,7 +49348,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Sulla nostra pagina, l'elenco dei coupon YesStyle è aggiornato al 9 novembre 2026.",
+      "text": "Sulla nostra pagina, l'elenco dei coupon YesStyle è aggiornato al 12 novembre 2026.",
       "label": "Vedi i coupon YesStyle attivi",
       "url": "/it/coupons/yesstyle",
       "sponsored": false
@@ -54394,7 +54394,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Dolce Gusto 2026",
         "paragraphs": [
-          "A Black Friday da NESCAFÉ Dolce Gusto já começou, com promoções novas todos os dias, Mini Me 2.0 e Genio S com 30 cápsulas e assinatura com desconto no primeiro pedido. O grande dia é 27 de novembro. O cupom CECI dá 10% OFF; se ele soma com a oferta do dia, o carrinho mostra antes de pagar."
+          "A Black Friday da NESCAFÉ Dolce Gusto já começou, com promoções novas todos os dias, Mini Me 2.0 e Genio S com 30 cápsulas e assinatura com desconto no primeiro pedido. O grande dia é 27 de novembro. O cupom CECI dá 10% OFF e, no nosso teste, somou com um combo da Black Friday."
         ]
       },
       {
@@ -54562,7 +54562,7 @@ export const reviewsData: unknown[] = [
         },
         "paragraphs": [
           "O **CECI**, cupom da parceria com a loja oficial, dá 10% OFF a partir de R$ 100.",
-          "Na Black Friday, quem decide é o carrinho. Algumas campanhas aceitam o cupom junto com o preço promocional, outras não. Monte o pedido, aplique o CECI no campo do cupom e veja se os 10% aparecem no resumo antes de pagar. Se não aparecerem, confira se o pedido passa de R$ 100 e se o item está numa campanha que não soma com cupom.",
+          "No nosso teste com a campanha no ar, o CECI somou: o Combo Queridinhos 30% OFF, um combo especial de Black Friday a R$ 145,04, caiu para R$ 130,54. O teste cobriu esse combo, não todas as ofertas. Monte o pedido, aplique o CECI no campo do cupom e veja se os 10% aparecem no resumo antes de pagar. Se não aparecerem, confira se o pedido passa de R$ 100 e se o item está numa campanha que não soma com cupom.",
           "Três regras do site valem para qualquer promoção: ela pode acabar sem aviso, o item no carrinho não garante o desconto se a promoção terminar, e nenhuma promoção soma com o resgate de pontos do Club. A data do último teste do CECI fica na página do cupom."
         ],
         "links": [
@@ -54593,7 +54593,7 @@ export const reviewsData: unknown[] = [
           "Quando começa e quanto dura a Black Friday da Dolce Gusto? A campanha já começou no site oficial, com anúncio de promoções novas todos os dias, e o grande dia é a última sexta-feira de novembro. Em 2023 e 2024, a Nestlé anunciou ofertas durante novembro inteiro.",
           "Quais máquinas estão em oferta na Black Friday da Dolce Gusto? Nos banners, a Mini Me 2.0 a R$ 369,90, a Genio S Basic a R$ 409,90 e a Genio S Plus a R$ 499,90, todas com 30 cápsulas e em 10 vezes sem juros, abaixo do preço de outubro e do anunciado na Black Friday de 2024.",
           "Vale a pena comprar cafeteira Dolce Gusto na Black Friday? Nas máquinas, vale: a Mini Me 2.0 e as Genio S ficaram abaixo dos preços de outubro e incluíam 30 cápsulas. Antes de fechar, compare o valor do seu modelo, a voltagem e o frete. Nas cápsulas, compare a oferta do dia com as referências da tabela.",
-          "Tem cupom Dolce Gusto para a Black Friday? O CECI dá 10% OFF em compras a partir de R$ 100 na loja oficial. Se ele soma com a oferta do dia, o carrinho mostra antes de pagar.",
+          "Tem cupom Dolce Gusto para a Black Friday? O CECI dá 10% OFF em compras a partir de R$ 100 na loja oficial. No nosso teste, ele somou com um combo da Black Friday; o resumo do carrinho mostra o desconto antes de pagar.",
           "As cápsulas Dolce Gusto ficam mais baratas na Black Friday? Em 2024, a Nestlé anunciou caixas a partir de R$ 13,90 e DGusta a partir de R$ 1,39 a cápsula; em outubro, as promoções partiam de R$ 17,90 e R$ 1,79.",
           "Cápsula NEO serve na Mini Me ou na Genio S? Só com o Adaptador NEO Start, e apenas nos cinco cafés NEO da linha. Sem o adaptador, as cápsulas NEO não servem diretamente nessas máquinas.",
           "A Black Friday da Dolce Gusto tem frete grátis? Tem: o banner da campanha dá frete grátis acima de R$ 100, e a assinatura, em todos os pedidos. O carrinho mostra se o seu pedido entrou.",
@@ -55167,6 +55167,7 @@ export const reviewsData: unknown[] = [
           "**Cashback:** a faixa da Black Friday anuncia 15% de cashback; em outubro, a loja anunciava 30%. Pela página do cashback, depois da compra a loja manda pelo WhatsApp um cupom com esse valor, válido por 30 dias, que só entra numa compra de pelo menos 7 vezes o valor do cupom, sem contar o frete (um trecho da mesma página fala em 5 vezes). Na prática, um cashback de R$ 150 pede uma compra de R$ 1.050 e vira cerca de 14% de desconto nela.",
           "**Cashback e a sexta:** pela página do cashback, o cupom só pode ser usado a partir de 7 dias depois da compra que o gerou e vale 30 dias. Para usar o cashback na sexta da Black Friday, a compra que o gera precisa ser feita pelo menos 7 dias antes; uma compra na semana da data gera um cupom que só vale depois dela. Os termos estão na página do cashback.",
           "**Cupom:** o MAUAD dá 5% OFF em todo o site, com todas as formas de pagamento. Ele foi aceito num carrinho com item em promoção e item em pré-venda, e o desconto saiu do subtotal, antes do frete.",
+          "**Cupom e Black November:** somam. No nosso teste com a campanha no ar, o Bowl Porcelana Dubai, a R$ 102,90 na coleção Black November, caiu para R$ 97,76 com o MAUAD.",
           "**Pix com o cupom:** os dois somam. Na panela Redonda Signature de 20 cm, a R$ 1.746,75 com os 25% da promoção, o MAUAD tira R$ 87,34, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 1.576,44, sem o frete. O resumo do checkout mostra o valor exato antes de pagar.",
           "**O que não confirmamos:** se o cupom do cashback e o MAUAD entram no mesmo pedido. A página do cashback manda consultar as condições do dia, e o checkout mostra o total antes de pagar.",
           "**Frete:** frete grátis só para Le Creuset e Zwilling, em pedidos acima de R$ 1.000 em produtos dessas marcas, segundo a política de frete da loja. No resto, o frete é calculado pelo CEP e pelo peso do pedido: confira o valor no carrinho antes de pagar."
@@ -55222,6 +55223,7 @@ export const reviewsData: unknown[] = [
           "Panelas Le Creuset em promoção valem a pena? Compare o preço do dia com o preço cheio da tabela deste guia. Em outubro, as promoções da Let's Eat It eram de 15% a 33% e ficavam numa seleção de peças e cores; na Black Friday, a coleção de promoção vai de 15% a 50%, e a maioria das panelas Signature tem 25%.",
           "A Let's Eat It tem frete grátis? Só em casos específicos: a política de frete cita Le Creuset e Zwilling em pedidos acima de R$ 1.000 em produtos dessas marcas. No resto, o frete é calculado pelo CEP e pelo peso do pedido, e o carrinho mostra o valor. O envio da devolução sai por conta da loja.",
           "Tem cupom de primeira compra na Let's Eat It? Use o MAUAD, que dá 5% OFF em todo o site. A loja não divulga outro cupom de boas-vindas.",
+          "O cupom MAUAD vale na Black Friday? Vale. O MAUAD dá 5% OFF e soma com os preços da Black November: no nosso teste, o cupom entrou sobre o preço da campanha.",
           "O cupom MAUAD soma com o desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% da loja: pela nossa conta, a panela Redonda Signature de 20 cm, a R$ 1.746,75 na promoção, sai por R$ 1.576,44, sem o frete.",
           "O cashback da Let's Eat It vale na Black Friday? A faixa da campanha anuncia 15% de cashback. O cupom só pode ser usado a partir de 7 dias depois da compra que o gerou, vale 30 dias, e a nova compra precisa ser de pelo menos 7 vezes o valor do cupom. Para usar na sexta da Black Friday, a compra que gera o cupom precisa ser de pelo menos 7 dias antes; os termos estão na página do cashback.",
           "A Let's Eat It tem loja física? Tem a Casa Let's, na Av. Pacaembu, 1105, em São Paulo, com 15% de desconto nas compras presenciais, exceto Le Creuset e Trussardi. Ela não faz retirada de pedidos do site.",
@@ -55572,6 +55574,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da I Wanna Sleep? A home já traz os Kits Exclusivos Black, com brindes, sem data de fim publicada. O grande dia é a última sexta-feira de novembro, dia 27, e a Cyber Monday, a segunda seguinte. Compare os kits com as tabelas deste guia.",
           "Dá para comprar colchão da I Wanna Sleep pelo site? Não. Os colchões e a base box aparecem no site, mas são vendidos só nas lojas físicas, em Belo Horizonte, com as consultoras do sono. Pelo site, a peça para a cama é o Pillow Top Magnum.",
+          "O cupom CECIEMCASA vale na Black Friday? Vale. O CECIEMCASA dá 10% OFF em todo o site e soma com os preços da Black Friday. Nos kits da campanha, o carrinho mostra se o cupom entrou antes do pagamento.",
           "O cupom CECIEMCASA soma com o desconto do Pix? Soma. O CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento, e no Pix entram também os 5% da loja: pela nossa conta, o Pillow Top Magnum casal, de R$ 1.848, sai por R$ 1.580,04.",
           "O que é o Sleeptest da I Wanna Sleep? É o teste em casa: 30 dias para o travesseiro e o pillow top e 100 dias para o colchão, com pelo menos 15 dias de uso antes de pedir a troca. No travesseiro e no pillow top, a troca vira crédito na loja.",
           "A I Wanna Sleep tem frete grátis? Tem, acima de R$ 150, em travesseiros, pillow top, cobertores e no resto da linha leve. Em outubro, o Pillow Top Magnum casal teve frete grátis para o centro de 12 capitais.",
@@ -84553,7 +84556,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O cupom entrou sobre o preço de oferta de cada item, e a regra do MAUAD é somar com as ofertas do site e com o Pix. Sobre produto com preço de Black November, o desconto do cupom não está confirmado: antes de pagar, confira a linha de descontos no carrinho. As regras atuais do cupom ficam na [página do cupom da Belive](/cupons/belive), e o passo a passo no carrinho está em [Cupom Belive: como usar o MAUAD](/reviews/cupom-belive-como-usar)."
+          "O cupom entrou sobre o preço de oferta de cada item, e a regra do MAUAD é somar com as ofertas do site e com o Pix. Com a Black November no ar, testamos o cupom num produto da campanha: quatro pães de cenoura, a R$ 58,52 com os 30% da Black Friday, caíram para R$ 52,67 com o MAUAD e para R$ 50,04 no Pix. As regras atuais do cupom ficam na [página do cupom da Belive](/cupons/belive), e o passo a passo no carrinho está em [Cupom Belive: como usar o MAUAD](/reviews/cupom-belive-como-usar)."
         ]
       },
       {
@@ -84597,7 +84600,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Belive? A Black November já está no ar, com até 30% em todo o site e 5% a mais no Pix. A loja não publicou data de fim; a Black Friday do calendário é a última sexta-feira de novembro.",
-          "O MAUAD vale na Black Friday? Ele dá 10% em todas as formas de pagamento e soma com as ofertas do site e com o Pix. Sobre produto com preço de Black November, o desconto do cupom não está confirmado: confira a linha de descontos no carrinho antes de pagar.",
+          "O MAUAD vale na Black Friday? Vale. Ele dá 10% em todas as formas de pagamento e soma com as ofertas do site e com o Pix. No nosso teste com a Black November no ar, o cupom entrou sobre o preço da campanha.",
           "O MAUAD soma com o Pix? Sim. No teste de checkout, o Pix de 5% entrou depois do cupom.",
           "O MAUAD vale no Mercado Livre? Não. Lá a Belive também vende, mas o cupom não vale.",
           "Quanto é o desconto da Black November da Belive? Até 30% em todo o site, mais 5% no Pix. O percentual é por produto; o teto é o da campanha.",
