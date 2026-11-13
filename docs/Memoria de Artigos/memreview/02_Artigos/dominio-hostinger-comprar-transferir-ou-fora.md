@@ -175,3 +175,10 @@ Fatos: `dominio-hostinger-comprar-transferir-ou-fora-fatos-2810.md`, ao lado (va
 - **O que mudou nas 10 versões:** `coupon: "SONAR20"`; links `?REFERRALCODE=SONAR20` com o caminho mantido (PT em `/br`); saíram "não há código", "só no link", "12 meses ou mais", "só cliente novo" e "não soma"; "com/sem a indicação" virou "com/sem o SONAR20"; a nota de transparência fala em comissão, sem o "crédito na Hostinger".
 - **Renovação:** o SONAR20 não dá desconto na renovação (termos do programa, 05/11; os artigos foram corrigidos no #580). O texto diz "a renovação sai pelo preço da tabela"; os preços de renovação lidos na página seguem nas tabelas como preço de tabela.
 - **Regras daqui em diante:** as do dossiê [[Hostinger]] (seção 3). As instruções de "indicação, sem código" acima ficam só como histórico.
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa-v2.webp` (`imageFit: contain`), SHA-256 `079cf218564242da83cb42695e40a22354c51a4dc28ed13c902a83b623c44606`, a mesma nas 10 versões da família (`hostinger-dominio`), com o alt de cada idioma.
+- **Alt (PT):** Detalhe de teclado preto, com o logo da Hostinger e as extensões .com, .net e .org.
+- **Origem:** foto editorial de teclado preto, com origem e licença registradas; não é instalação nem cliente da Hostinger.
+- **Lote 40 do piloto de capas (sequência 13 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-88-HEROES-160-PAGINAS-SEQUENCIA-13-CLAUDE.zip` (`lotes/40/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp`) fica no CDN, sem uso como capa.

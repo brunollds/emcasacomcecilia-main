@@ -163,3 +163,10 @@ Fatos: `wordpress-na-hostinger-fatos-3010.md`, ao lado.
 - No ar em 30/10/2026 15:15 UTC, PR #365, release `64ab17e2`, ids 719, 738–746 (10 idiomas). Capa sem texto de idioma, uma para a família, e um quadro por idioma.
 - Domínio grátis em todos os planos (do Premium para cima, por 1 ano). Fora do PT, sem Single (o site global não tem), 3 linhas no quadro, e o crédito do Google Ads com o valor de um país do idioma, segundo os termos.
 - Preços de 30/10/2026, na campanha de Black Friday: reler antes de 27/11.
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/hostinger/wordpress-na-hostinger-capa-v2.webp` (`imageFit: contain`), SHA-256 `792ab51edd8e16807627732e0669d24f686f0973c53e7eccc9521811de65b09b`, a mesma nas 10 versões da família (`hostinger-wordpress`), com o alt de cada idioma.
+- **Alt (PT):** Caneca branca com Wapuu e o símbolo do WordPress diante de um teclado, com o logo da Hostinger e o nome WordPress.
+- **Origem:** foto editorial da caneca do WordPress, com origem e licença registradas; não é cliente nem atendimento da Hostinger.
+- **Lote 40 do piloto de capas (sequência 13 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-88-HEROES-160-PAGINAS-SEQUENCIA-13-CLAUDE.zip` (`lotes/40/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/hostinger/wordpress-na-hostinger-capa.webp`) fica no CDN, sem uso como capa.

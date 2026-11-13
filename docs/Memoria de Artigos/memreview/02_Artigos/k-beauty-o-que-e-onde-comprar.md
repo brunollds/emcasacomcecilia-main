@@ -114,3 +114,10 @@ Bruno rodou uma revisão técnica externa sobre o commit `c545eee` e aprovou a a
 - Um segundo revisor (ChatGPT) conferiu o commit anterior (`35756e3`) e aprovou as 5 correções (CTA, category, seletor genérico, `imageAspect`, blocos de imagem separados) — só fez uma observação de nomenclatura (são "blocos independentes", não "capítulos", já que não têm heading próprio nem entram no índice) e confirmou que o comportamento visual já era o desejado antes desta rodada.
 - Todos os gates + `npm run build` rodados de novo — verdes. Verificado ao vivo via DOM order (`H2 → IMG` sequence) que a Expo Korea está dentro de "O que é K-Beauty" e o logo aparece logo após o `<h2>` de "Onde a YesStyle entra nisso", antes de qualquer parágrafo.
 - Ainda commitado localmente, sem push/deploy.
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/cupons/k-beauty-o-que-e-onde-comprar-capa-v2.webp` (`imageFit: contain`), SHA-256 `82aab31dbf486ba802694288a2dccd5e5c8d10faaf7e10349faae8ace72d1d41`, a mesma nas 10 versões da família (`yesstyle-kbeauty`), com o alt de cada idioma.
+- **Alt (PT):** Cecília segurando o pote aberto e um adesivo de hidrogel rosado da Abib, em foto própria, com o logo YesStyle, K-Beauty e o código de recompensa CECILIA010.
+- **Origem:** foto própria da Cecília com o pote aberto e o adesivo de hidrogel rosado, reutilização deliberada por escolha do Bruno, sem alegação de ineditismo nem de resultado na pele. Pareceres vigentes: lotes/40/revisao-terra/ADENDO-CECILIA-5-6.json e ADENDO-ALTS-CECILIA-20.json. A foto oficial da Anua, substituída, não entrou.
+- **Lote 40 do piloto de capas (sequência 13 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-88-HEROES-160-PAGINAS-SEQUENCIA-13-CLAUDE.zip` (`lotes/40/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/cupons/k-beauty-o-que-e-capa-discover.webp`) fica no CDN, sem uso como capa.

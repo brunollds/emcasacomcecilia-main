@@ -366,3 +366,10 @@ Caíram na verificação:
 
 ## Publicação (04/11/2026)
 - No ar em 04/11/2026: PR #564, release `0863ea63` (build 01a1a8b8), ids 804–813, nos 10 idiomas. Smoke das 20 URLs das duas famílias (o resultado está na nota do [[shein-vale-a-pena]]), com os dois links das camisetas como sponsored nos 10 idiomas; IndexNow com as 74 URLs do release; captura 41927781548 verde.
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/shein/tamanho-shein-brasil-capa-v2.webp` (`imageFit: contain`), SHA-256 `0cffaf92f09b61334bc8b9d72e728d9d92acb4741fc740e75d487e81f49ed0dd`, a mesma nas 10 versões da família (`shein-tamanho`), com o alt de cada idioma.
+- **Alt (PT):** Modelo de frente com camiseta preta SHEIN Essnce e jeans, em foto oficial, com o logo SHEIN, as letras S, M e L e a unidade cm.
+- **Origem:** foto oficial da SHEIN com a camiseta Essnce de frente; não é compra própria.
+- **Lote 40 do piloto de capas (sequência 13 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-88-HEROES-160-PAGINAS-SEQUENCIA-13-CLAUDE.zip` (`lotes/40/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/shein/tamanho-shein-capa.webp`) fica no CDN, sem uso como capa.

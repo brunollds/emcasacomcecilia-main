@@ -223,3 +223,10 @@ Ainda não publicado. Próximo passo: Job 6 (capa e folha de aprovação) e reda
   - `hostinger-renovacao-cupom-sonar20-cobranca-<l>.webp` (1200×1240), em "Quando a Hostinger cobra a renovação": linha do tempo da cobrança e dos 30 dias de reembolso.
   - `hostinger-renovacao-cupom-sonar20-reembolso-<l>.webp` (1200×1100), em "Reembolso depois da renovação": hospedagem, VPS KVM e domínio.
 - Origem: quadros nossos, pelas páginas de planos, pela central de ajuda e pela política de reembolso da Hostinger (leituras de 04 e 05/11). 31 arquivos no CDN, `verified` no manifesto, mapa de entrega com `--append`.
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-capa-v2.webp` (`imageFit: contain`), SHA-256 `095cda180944b692f3f22c8e00f12cde21de019021db72bd0d97600521b6fca3`, a mesma nas 10 versões da família (`hostinger-renovacao-cupom`), com o alt de cada idioma.
+- **Alt (PT):** Mão escrevendo em uma agenda, com o logo da Hostinger e um símbolo de renovação.
+- **Origem:** foto editorial com origem e licença registradas; a renovação aparece por símbolo, sem o SONAR20 na arte.
+- **Lote 40 do piloto de capas (sequência 13 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-88-HEROES-160-PAGINAS-SEQUENCIA-13-CLAUDE.zip` (`lotes/40/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-capa.webp`) fica no CDN, sem uso como capa.

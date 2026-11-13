@@ -179,3 +179,20 @@ Fatos: `hostinger-horizons-vale-a-pena-fatos-2810.md`, ao lado (vale sobre o nom
 - **O que mudou nas 10 versões:** `coupon: "SONAR20"`; links `?REFERRALCODE=SONAR20` com o caminho mantido (PT em `/br`); saíram "não há código", "só no link", "12 meses ou mais", "só cliente novo" e "não soma"; "com/sem a indicação" virou "com/sem o SONAR20"; a nota de transparência fala em comissão, sem o "crédito na Hostinger".
 - **Renovação:** o SONAR20 não dá desconto na renovação (termos do programa, 05/11; os artigos foram corrigidos no #580). O texto diz "a renovação sai pelo preço da tabela"; os preços de renovação lidos na página seguem nas tabelas como preço de tabela.
 - **Regras daqui em diante:** as do dossiê [[Hostinger]] (seção 3). As instruções de "indicação, sem código" acima ficam só como histórico.
+
+## Capa v2 (12/11/2026)
+
+- **Capas:** uma por idioma, com a chamada no idioma da página (`imageFit: contain`; parecer vigente `lotes/41/titulos-localizados/revisao-terra/REVISAO-LOCALIZADA.json`):
+  - de (`hostinger-ki-builder-lohnt-sich`): `/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-de-v2.webp`, SHA-256 `9993bd0bb6a248c2f358e7e78d775e9e52dc722dcbc799db32f60a9bc57570ba`
+  - en (`hostinger-ai-builder-worth-it`): `/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-en-v2.webp`, SHA-256 `09266b990c5e226c1cd05c3fed86f956d7013f75686f7052692d33055f3b4e68`
+  - es (`creador-ia-hostinger-vale-la-pena`): `/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-es-v2.webp`, SHA-256 `2f006ad09376105da4ed6a3b82e499ddb3624d542514a2af2a580bfc90eb3bcf`
+  - fr (`createur-ia-hostinger-avis`): `/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-fr-v2.webp`, SHA-256 `44dfd4e13376ffcd2dd8c2d9d6b99a26ed9e7e901159b82feb7818c6d4a2af0a`
+  - it (`creatore-ia-hostinger-conviene`): `/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-it-v2.webp`, SHA-256 `12bd7d9fb823d1bbaabf19e0c871abc672b2c4ee32b60f42b137eafd06e65eb9`
+  - ja (`hostinger-ai-builder-ja`): `/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-ja-v2.webp`, SHA-256 `7ce1abdd1c652f37064051bbeccf97bfff2e4c54bee62f5bafa90c6d76ff94f3`
+  - ko (`hostinger-ai-builder-ko`): `/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-ko-v2.webp`, SHA-256 `131dff4a84b08c478f830f3d5f3c9d716f2bec9a2946ad2bbff13758b093f024`
+  - pt (`hostinger-horizons-vale-a-pena`): `/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-pt-v2.webp`, SHA-256 `c4373c1d736caba416d7d9af8c2fe5732fabdbb969d87fb41081ca1a022f47a2`
+  - zh-hans (`hostinger-ai-builder-zh-hans`): `/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-zh-hans-v2.webp`, SHA-256 `f491e990fc3985c6b23f2ad95ea0a224ab7329fd0d257525af6af5057438b306`
+  - zh-hant (`hostinger-ai-builder-zh-hant`): `/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-zh-hant-v2.webp`, SHA-256 `7bc2d91bcef6508db6b01d8cc40e54c9d781377c257cd9b25b23ac9bd13339bf`
+- **Alt (PT):** Caderno em branco e fones de ouvido sobre fundo amarelo, em foto ilustrativa com o logo da Hostinger e os textos «Criador com IA ou WordPress?» / «Qual vale a pena?».
+- **Origem:** foto ilustrativa de caderno e fones sobre fundo amarelo, fonte no registro do lote; não é cliente nem atendimento da Hostinger.
+- **Lote 41 do piloto de capas (sequência 13 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-88-HEROES-160-PAGINAS-SEQUENCIA-13-CLAUDE.zip` (`lotes/41/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp`) fica no CDN, sem uso como capa.

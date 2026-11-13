@@ -450,3 +450,20 @@ quatro lojas. A Cecília é afiliada das quatro; a Shopee só no Brasil.
 
 ## Regra do 4CW5Y (decisão do Bruno, 07/11/2026, #716 a #720)
 Já no ar. O 4CW5Y é código de indicação da SHEIN, não é cupom de checkout, não soma e nunca vai ao checkout. Pelo link do botão, ou copiado e pesquisado no app ou no site, abre uma seleção da SHEIN com promoções e descontos. O texto diz que o código dá desconto; quanto e em quais peças, a SHEIN decide. Sem percentual nem valor, sem prometer desconto em toda compra, sem "pode não ter desconto", sem "só no app". A SHEIN é plataforma global (regra de 02/11/2026, #493): nenhum texto diz "SHEIN Brasil", as traduções não levam aviso de país, e o código e as campanhas valem em todo idioma. As linhas "sem 4CW5Y na description e na meta" das releituras do Job 4 registram o que cada tradução trazia nessa leitura. Fonte viva: `content/reviews/shein-ou-shopee-temu.json`.
+
+## Capa v2 (12/11/2026)
+
+- **Capas:** uma por idioma, com a chamada no idioma da página (`imageFit: contain`; parecer vigente `lotes/41/titulos-localizados/revisao-terra/REVISAO-LOCALIZADA.json`):
+  - de (`shein-oder-temu-was-waehlen`): `/images/reviews/shein/shein-ou-shopee-temu-capa-de-v2.webp`, SHA-256 `b3838f84537c10129b027484ad1522d400a9b07d00cd77e26dbe69983012f8ff`
+  - en (`shein-vs-temu-which-to-choose`): `/images/reviews/shein/shein-ou-shopee-temu-capa-en-v2.webp`, SHA-256 `b36be0352d98794f9ef8c875da287d2ebb77dba503568dbb76099cd4b5064f51`
+  - es (`shein-o-temu-cual-elegir`): `/images/reviews/shein/shein-ou-shopee-temu-capa-es-v2.webp`, SHA-256 `f419a6e33e340ea26cc1522415b7f6ed26bacfa28f3f02f8d227d5fb0194d9a2`
+  - fr (`shein-ou-temu-comment-choisir`): `/images/reviews/shein/shein-ou-shopee-temu-capa-fr-v2.webp`, SHA-256 `680b3b203589f26ee130eaf9bbc5dd3f65c0c15eb9e3464a0e8a932d8d8c80d0`
+  - it (`shein-o-temu-come-scegliere`): `/images/reviews/shein/shein-ou-shopee-temu-capa-it-v2.webp`, SHA-256 `44917be6cfe1fa03ddaa19046ebbc7269ad089122555b168b8c6601a2edf08ef`
+  - ja (`shein-vs-temu-ja`): `/images/reviews/shein/shein-ou-shopee-temu-capa-ja-v2.webp`, SHA-256 `a3d8ff2ed3d92a3ea09f475165d129571a1e708778ba9f5027b1f198d21deb07`
+  - ko (`shein-vs-temu-vs-ali-ko`): `/images/reviews/shein/shein-ou-shopee-temu-capa-ko-v2.webp`, SHA-256 `03f74813c1e6d86fea6275135cede8158a70bf4bd8a12e5f59fab7a698a1cd8b`
+  - pt (`shein-ou-shopee-temu`): `/images/reviews/shein/shein-ou-shopee-temu-capa-pt-v2.webp`, SHA-256 `db9f3f57d41492b05feff2b775a0a77e0fa6c1fcae1b5cd2b53f1c46e2f8586f`
+  - zh-hans (`shein-vs-temu-zh-hans`): `/images/reviews/shein/shein-ou-shopee-temu-capa-zh-hans-v2.webp`, SHA-256 `8da556b13fb7aff201528b0709ccf836d6f870df4c78a78f652b1758ebcbb27b`
+  - zh-hant (`shein-vs-shopee-zh-hant`): `/images/reviews/shein/shein-ou-shopee-temu-capa-zh-hant-v2.webp`, SHA-256 `2f017f29a75aa6e2a59643cbb19f0467f193a27c1fb9ce928f98915e904021fb`
+- **Alt (PT):** Duas modelos com vestidos rosa floral e branco à beira-mar, em foto institucional da SHEIN. Na capa, “Onde comprar suas roupas?”, “SHEIN, Shopee, Temu ou AliExpress?” e o código de indicação 4CW5Y.
+- **Origem:** foto institucional da SHEIN (duas modelos à beira-mar). O PT compara SHEIN, Shopee, Temu e AliExpress; os nove idiomas, só SHEIN e Temu. Concorrentes só por escrito.
+- **Lote 41 do piloto de capas (sequência 13 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-88-HEROES-160-PAGINAS-SEQUENCIA-13-CLAUDE.zip` (`lotes/41/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/shein/shein-ou-shopee-temu-capa-discover.webp`) fica no CDN, sem uso como capa.
