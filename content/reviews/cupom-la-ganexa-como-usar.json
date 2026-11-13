@@ -26,8 +26,8 @@
   "affiliate": "la-ganexa",
   "description": "O CECILIA entra sobre o preço promocional da La Ganexa. Veja onde digitar o código, o que a loja diz dos kits e como o cupom mexe no frete grátis e no brinde.",
   "metaDescription": "CECILIA dá 10% OFF na La Ganexa e soma com as promoções. Veja onde digitar o código, o que muda nos kits e por que o frete grátis conta depois do cupom.",
-  "image": "/images/reviews/laganexa/cupom-la-ganexa-como-usar-capa.webp",
-  "imageAlt": "Pote de vidro do Doce de Leite Zero 400 g da La Ganexa, em foto oficial da loja, ao lado do logo da marca, da chamada Cupom de 10%: como usar, soma com promoção, e do código CECILIA.",
+  "image": "/images/reviews/laganexa/cupom-la-ganexa-como-usar-capa-v2.webp",
+  "imageAlt": "Pote da Pasta de Amendoim com Cookies 450 g da La Ganexa e uma tigela com a pasta, em foto oficial da loja, ao lado do logo da marca, da chamada Cupom de 10%: como usar, soma com promoção, e do código CECILIA.",
   "cta": {
     "text": "Abra o site oficial da La Ganexa pelo botão e digite CECILIA em “Inserir cupom de desconto”, no resumo da compra. Confira a linha “Descontos” antes de pagar.",
     "label": "Ir para a La Ganexa",
@@ -80,11 +80,18 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/laganexa/cupom-la-ganexa-como-usar-cookies-cacau.webp",
-          "alt": "Caixa creme e marrom dos Cookies Cacau com Gotas de Chocolate da La Ganexa, de 50 gramas, sob luz alaranjada num fundo escuro, em foto oficial da loja",
-          "caption": "Cookies Cacau com Gotas de Chocolate, um dos itens do carrinho do teste. Foto: La Ganexa.",
+          "src": "/images/reviews/laganexa/cupom-la-ganexa-como-usar-doce-de-leite.webp",
+          "alt": "Colher cheia de doce de leite cremoso sobre o pote aberto do Doce de Leite Zero da La Ganexa, com fundo lilás, em foto oficial da loja",
+          "caption": "Doce de Leite Zero 400 g, um dos itens do carrinho do teste. Foto: La Ganexa.",
           "objectFit": "square",
-          "href": "https://lojalaganexa.com.br/products/biscoito-de-cacau-com-gotas-sabor-chocolate-meio-amargo"
+          "href": "https://lojalaganexa.com.br/products/doce-de-leite-zero-400g"
+        },
+        {
+          "src": "/images/reviews/laganexa/cupom-la-ganexa-como-usar-cookies-baunilha.webp",
+          "alt": "Cookies de baunilha com gotas de chocolate da La Ganexa espalhados sobre fundo azul, vistos de cima, em foto oficial da loja",
+          "caption": "Cookies de baunilha, do Kit Degustação Cookies de Cacau e de Baunilha, outro item do carrinho do teste. Foto: La Ganexa.",
+          "objectFit": "square",
+          "href": "https://lojalaganexa.com.br/products/kit-degustacao-biscoito-de-cacau-e-de-baunilha"
         }
       ]
     },

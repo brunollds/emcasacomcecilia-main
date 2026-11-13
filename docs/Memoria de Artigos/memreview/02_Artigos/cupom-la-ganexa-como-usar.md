@@ -201,9 +201,10 @@ Fatos e contas conferidos pelo revisor contra o catálogo, as páginas da loja e
 
 C1: 0 "R$" na resposta rápida. C2: 1 data no corpo e nenhuma em título, legenda ou FAQ. Snippet: 152 caracteres, código até o caractere 7. Subtítulo: 158.
 
-## Capa e imagens (Job 6; aprovadas pelo Bruno em 13/11/2026)
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 13/11/2026; fotos trocadas no mesmo dia)
 
-- **Capa:** `/images/reviews/laganexa/cupom-la-ganexa-como-usar-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral (`docs/GUIA-CAPAS-EDITORIAIS.md`) com o logo da La Ganexa, a chamada "Cupom de 10%", "como usar", "soma com promoção" e o CECILIA, sem repetir o nome do logo. Foto oficial do Doce de Leite Zero 400 g (CDN da loja), inédita no site. Sem IA.
+- **Troca antes do deploy (Bruno, 13/11/2026):** as fotos da primeira versão (a capa com o Doce de Leite Zero e a caixa de Cookies Cacau no corpo) eram da série de 1254 × 1254 px da loja, o mesmo tamanho dos arquivos que a própria loja chama de "ChatGPTImage…". O arquivo da caixa se chama "Caixa_de_Cookies_La_Ganexa_em_Destaque.png", e o texto lateral da embalagem sai embaralhado. Pelo Job 6, o produto entra em foto real: o Bruno mandou trocar antes do deploy. Os arquivos antigos ficam no repositório e no CDN, fora dos artigos.
+- **Capa:** `/images/reviews/laganexa/cupom-la-ganexa-como-usar-capa-v2.webp` (`imageFit: contain`), 1600 × 900, com o mesmo painel e o mesmo texto da versão aprovada. Foto oficial da loja de 2024, anterior às imagens geradas: o pote da Pasta de Amendoim com Cookies 450 g ao lado de uma tigela com a pasta. O rótulo é o mesmo das fotos atuais do produto.
 - **Onde digitar o cupom:** o print do `cartPrint` da página de cupom, já no site.
-- **Quanto o cupom tira:** `cupom-la-ganexa-como-usar-cookies-cacau.webp` (1000 × 1000, `href` para a página do produto), foto oficial dos Cookies Cacau com Gotas de Chocolate, item do carrinho do teste.
+- **Quanto o cupom tira:** duas fotos reais da loja, de abril de 2026 (500 × 500, com `href` para a página do produto), de itens do carrinho do teste: `cupom-la-ganexa-como-usar-doce-de-leite.webp` (Doce de Leite Zero 400 g) e `cupom-la-ganexa-como-usar-cookies-baunilha.webp` (cookies de baunilha do Kit Degustação Cookies). O Bruno pediu ao menos mais uma foto de produto no artigo.
 - **CDN:** as imagens novas do artigo subiram em 13/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.

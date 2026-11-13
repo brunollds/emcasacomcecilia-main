@@ -95493,6 +95493,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/laganexa/black-friday-la-ganexa-capa-v2.webp",
+      "local_url": "/images/reviews/laganexa/black-friday-la-ganexa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 216204,
+      "sha256": "19eff41fb9284def5d2dc5904dce308da3b18aab564c01e3eefe7cec0e4cf26d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-la-ganexa-capa-v2.webp",
+      "storage_filename": "black-friday-la-ganexa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-la-ganexa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-la-ganexa.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/laganexa/black-friday-la-ganexa-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 219236,
+          "column": 15,
+          "literal": "/images/reviews/laganexa/black-friday-la-ganexa-capa-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/19eff41fb9284def5d2dc5904dce308da3b18aab564c01e3eefe7cec0e4cf26d/black-friday-la-ganexa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/19eff41fb9284def5d2dc5904dce308da3b18aab564c01e3eefe7cec0e4cf26d/black-friday-la-ganexa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T15:04:06.146Z",
+      "verification_etag_or_digest": "19eff41fb9284def5d2dc5904dce308da3b18aab564c01e3eefe7cec0e4cf26d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/laganexa/black-friday-la-ganexa-capa.webp",
       "local_url": "/images/reviews/laganexa/black-friday-la-ganexa-capa.webp",
       "media_kind": "image",
@@ -95547,6 +95593,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/laganexa/black-friday-la-ganexa-cookies-baunilha.webp",
+      "local_url": "/images/reviews/laganexa/black-friday-la-ganexa-cookies-baunilha.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31336,
+      "sha256": "9fb79e6d41c6e7ab13c54a8ec7c8ec2e6701db4a1a2bb8fdcecfa5189887004e",
+      "width": 500,
+      "height": 500,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-la-ganexa-cookies-baunilha.webp",
+      "storage_filename": "black-friday-la-ganexa-cookies-baunilha.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-la-ganexa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-la-ganexa.json",
+          "line": 126,
+          "column": 19,
+          "literal": "/images/reviews/laganexa/black-friday-la-ganexa-cookies-baunilha.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 219333,
+          "column": 21,
+          "literal": "/images/reviews/laganexa/black-friday-la-ganexa-cookies-baunilha.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9fb79e6d41c6e7ab13c54a8ec7c8ec2e6701db4a1a2bb8fdcecfa5189887004e/black-friday-la-ganexa-cookies-baunilha.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9fb79e6d41c6e7ab13c54a8ec7c8ec2e6701db4a1a2bb8fdcecfa5189887004e/black-friday-la-ganexa-cookies-baunilha.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T15:04:06.147Z",
+      "verification_etag_or_digest": "9fb79e6d41c6e7ab13c54a8ec7c8ec2e6701db4a1a2bb8fdcecfa5189887004e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/laganexa/black-friday-la-ganexa-cookies-cacau-v2.webp",
+      "local_url": "/images/reviews/laganexa/black-friday-la-ganexa-cookies-cacau-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32582,
+      "sha256": "391bdc44b80d20a9ebb34024d6e5510fa3b3bea45ef7b11b5a1eab02e3931174",
+      "width": 500,
+      "height": 500,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-la-ganexa-cookies-cacau-v2.webp",
+      "storage_filename": "black-friday-la-ganexa-cookies-cacau-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-la-ganexa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-la-ganexa.json",
+          "line": 119,
+          "column": 19,
+          "literal": "/images/reviews/laganexa/black-friday-la-ganexa-cookies-cacau-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 219326,
+          "column": 21,
+          "literal": "/images/reviews/laganexa/black-friday-la-ganexa-cookies-cacau-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/391bdc44b80d20a9ebb34024d6e5510fa3b3bea45ef7b11b5a1eab02e3931174/black-friday-la-ganexa-cookies-cacau-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/391bdc44b80d20a9ebb34024d6e5510fa3b3bea45ef7b11b5a1eab02e3931174/black-friday-la-ganexa-cookies-cacau-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T15:04:06.147Z",
+      "verification_etag_or_digest": "391bdc44b80d20a9ebb34024d6e5510fa3b3bea45ef7b11b5a1eab02e3931174",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/laganexa/black-friday-la-ganexa-cookies-cacau.webp",
       "local_url": "/images/reviews/laganexa/black-friday-la-ganexa-cookies-cacau.webp",
       "media_kind": "image",
@@ -95590,6 +95728,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-13T14:15:51.305Z",
       "verification_etag_or_digest": "989cdeac304814b345ec3aac29cfdf4f63cea763c20fcb2b0e8bc378d9a872c1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/laganexa/black-friday-la-ganexa-doce-de-leite.webp",
+      "local_url": "/images/reviews/laganexa/black-friday-la-ganexa-doce-de-leite.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 7954,
+      "sha256": "c99b6e2cc799b2d30b754ebd76e3fecd83ea5c8fc9ff5a1dec68f2ff61fb5992",
+      "width": 500,
+      "height": 500,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-la-ganexa-doce-de-leite.webp",
+      "storage_filename": "black-friday-la-ganexa-doce-de-leite.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-la-ganexa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-la-ganexa.json",
+          "line": 133,
+          "column": 19,
+          "literal": "/images/reviews/laganexa/black-friday-la-ganexa-doce-de-leite.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 219340,
+          "column": 21,
+          "literal": "/images/reviews/laganexa/black-friday-la-ganexa-doce-de-leite.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c99b6e2cc799b2d30b754ebd76e3fecd83ea5c8fc9ff5a1dec68f2ff61fb5992/black-friday-la-ganexa-doce-de-leite.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c99b6e2cc799b2d30b754ebd76e3fecd83ea5c8fc9ff5a1dec68f2ff61fb5992/black-friday-la-ganexa-doce-de-leite.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T15:04:06.147Z",
+      "verification_etag_or_digest": "c99b6e2cc799b2d30b754ebd76e3fecd83ea5c8fc9ff5a1dec68f2ff61fb5992",
       "verification_status": "verified"
     },
     {
@@ -95685,6 +95869,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/laganexa/cupom-la-ganexa-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/laganexa/cupom-la-ganexa-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 221084,
+      "sha256": "a8ca7c56a9a0fcd18b4d4a7c3a1334f3af1bf207e9da87abb206c6be1495611c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-la-ganexa-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-la-ganexa-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-la-ganexa-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-la-ganexa-como-usar.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/laganexa/cupom-la-ganexa-como-usar-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 219097,
+          "column": 15,
+          "literal": "/images/reviews/laganexa/cupom-la-ganexa-como-usar-capa-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a8ca7c56a9a0fcd18b4d4a7c3a1334f3af1bf207e9da87abb206c6be1495611c/cupom-la-ganexa-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a8ca7c56a9a0fcd18b4d4a7c3a1334f3af1bf207e9da87abb206c6be1495611c/cupom-la-ganexa-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T15:04:06.147Z",
+      "verification_etag_or_digest": "a8ca7c56a9a0fcd18b4d4a7c3a1334f3af1bf207e9da87abb206c6be1495611c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/laganexa/cupom-la-ganexa-como-usar-capa.webp",
       "local_url": "/images/reviews/laganexa/cupom-la-ganexa-como-usar-capa.webp",
       "media_kind": "image",
@@ -95739,6 +95969,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/laganexa/cupom-la-ganexa-como-usar-cookies-baunilha.webp",
+      "local_url": "/images/reviews/laganexa/cupom-la-ganexa-como-usar-cookies-baunilha.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 55236,
+      "sha256": "ec79f1d28338f612147d2cdbebee0882fe5880033f96591a5f40bea4fbb44ffe",
+      "width": 500,
+      "height": 500,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-la-ganexa-como-usar-cookies-baunilha.webp",
+      "storage_filename": "cupom-la-ganexa-como-usar-cookies-baunilha.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-la-ganexa-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-la-ganexa-como-usar.json",
+          "line": 90,
+          "column": 19,
+          "literal": "/images/reviews/laganexa/cupom-la-ganexa-como-usar-cookies-baunilha.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 219158,
+          "column": 21,
+          "literal": "/images/reviews/laganexa/cupom-la-ganexa-como-usar-cookies-baunilha.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ec79f1d28338f612147d2cdbebee0882fe5880033f96591a5f40bea4fbb44ffe/cupom-la-ganexa-como-usar-cookies-baunilha.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ec79f1d28338f612147d2cdbebee0882fe5880033f96591a5f40bea4fbb44ffe/cupom-la-ganexa-como-usar-cookies-baunilha.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T15:04:06.147Z",
+      "verification_etag_or_digest": "ec79f1d28338f612147d2cdbebee0882fe5880033f96591a5f40bea4fbb44ffe",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/laganexa/cupom-la-ganexa-como-usar-cookies-cacau.webp",
       "local_url": "/images/reviews/laganexa/cupom-la-ganexa-como-usar-cookies-cacau.webp",
       "media_kind": "image",
@@ -95782,6 +96058,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-13T14:15:51.305Z",
       "verification_etag_or_digest": "5d92b5ffd2f2295bd650d695af8077e1f4de97c9eb6e19a151125cf48ce04871",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/laganexa/cupom-la-ganexa-como-usar-doce-de-leite.webp",
+      "local_url": "/images/reviews/laganexa/cupom-la-ganexa-como-usar-doce-de-leite.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 13566,
+      "sha256": "dcec9e5e28c057404c1f8627e29eab2ae5df29fa81b806cf66679c1b532706fa",
+      "width": 500,
+      "height": 500,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-la-ganexa-como-usar-doce-de-leite.webp",
+      "storage_filename": "cupom-la-ganexa-como-usar-doce-de-leite.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-la-ganexa-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-la-ganexa-como-usar.json",
+          "line": 83,
+          "column": 19,
+          "literal": "/images/reviews/laganexa/cupom-la-ganexa-como-usar-doce-de-leite.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 219151,
+          "column": 21,
+          "literal": "/images/reviews/laganexa/cupom-la-ganexa-como-usar-doce-de-leite.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/dcec9e5e28c057404c1f8627e29eab2ae5df29fa81b806cf66679c1b532706fa/cupom-la-ganexa-como-usar-doce-de-leite.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dcec9e5e28c057404c1f8627e29eab2ae5df29fa81b806cf66679c1b532706fa/cupom-la-ganexa-como-usar-doce-de-leite.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T15:04:06.147Z",
+      "verification_etag_or_digest": "dcec9e5e28c057404c1f8627e29eab2ae5df29fa81b806cf66679c1b532706fa",
       "verification_status": "verified"
     },
     {
