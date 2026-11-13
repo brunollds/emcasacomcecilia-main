@@ -371,3 +371,20 @@ As perguntas acima foram respondidas em 21/10/2026. O Bruno decidiu que a StyleK
    O artigo não faz ranking de "qual é melhor": compara frete grátis, prazo, imposto, devolução e programa de membros, país a país.
 9. **Tabela de envio da Olive Young de 21/10/2026:** tem 11 países a mais que a leitura de 12/10 e substitui a anterior. A correção da família `yesstyle-vs-alternatives` (seção 6.2 e o texto das 10 versões) vai no reforço dessa família, junto com as seções da StyleKorean, em PR à parte (ver `yesstyle-ou-stylekorean`).
 10. **Links:** cada versão linka a família `yesstyle-vs-alternatives` do mesmo idioma ("as outras lojas"), e a família existente passa a linkar esta, no mesmo PR do reforço.
+
+## Capa v2 (12/11/2026)
+
+- **Capas:** uma por idioma, com a chamada no idioma da página (`imageFit: contain`; parecer vigente na Origem):
+  - de (`yesstyle-oder-olive-young-welcher-shop`): `/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-de-v2.webp`, SHA-256 `d8d666b93f52dbd60609ad47f2bed8f22489eab8f283146689a66b3ce4805777`
+  - en (`yesstyle-vs-olive-young`): `/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-en-v2.webp`, SHA-256 `b7d1fa25f8c60b4c95688da92b5fc618109ef36136b5020ecf25eb40bb7b32ac`
+  - es (`yesstyle-o-olive-young-cual-elegir`): `/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-es-v2.webp`, SHA-256 `30b82f7acaf14627a25c3ead7f4451c04bc0d94a8d6112f518f944e2e2cd4816`
+  - fr (`yesstyle-ou-olive-young-que-choisir`): `/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-fr-v2.webp`, SHA-256 `0c8415f8700c4663550176e59ae56385ef33284d3109e94b8dbd30753170b7aa`
+  - it (`yesstyle-o-olive-young-quale-scegliere`): `/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-it-v2.webp`, SHA-256 `872b4f7b01aa989d575d918fbbc510074007f97419b71bf6f48dc1376a37e8fb`
+  - ja (`yesstyle-vs-olive-young-ja`): `/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-ja-v2.webp`, SHA-256 `806a5f03a00174ee28f2da38f9e6f517b92c3338404c86d1919a1d89226c65ed`
+  - ko (`yesstyle-vs-olive-young-ko`): `/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-ko-v2.webp`, SHA-256 `9cdae9f69052b0451ae00e2be154604636f7c1e658c093bf24078138b4992890`
+  - pt (`yesstyle-ou-olive-young`): `/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-pt-v2.webp`, SHA-256 `4e2f1a49ff9fb2e92403b193a8fa2d6d67f995b027a1eb3ff03c1063475078d4`
+  - zh-hans (`yesstyle-vs-olive-young-zh-hans`): `/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-zh-hans-v2.webp`, SHA-256 `480765e734c3845e72178ba80247de8c02743c3eeeb746f4a1a7d35c62a3ca82`
+  - zh-hant (`yesstyle-vs-olive-young-zh-hant`): `/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-zh-hant-v2.webp`, SHA-256 `e16cdbfe4748e45757707296ca246e999f9e63877f79ab475c66066dcdb1b21b`
+- **Alt (PT):** Cecília com faixa rosa segurando a bisnaga Abib Booster Crème 2.5, em frame de vídeo próprio. Na capa, “YesStyle ou Olive Young?”, “Frete, imposto e devolução” e o código de recompensa CECILIA010.
+- **Origem:** frame de vídeo próprio da Cecília com a bisnaga Abib Booster Crème 2.5; recorte aprovado, sem pessoa, produto, resultado na pele nem legenda gerados. Olive Young só por escrito. Parecer vigente: REVISAO-LOCALIZADA.json do lote 42.
+- **Lote 42 do piloto de capas (sequência 14 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-80-HEROES-80-PAGINAS-SEQUENCIA-14-CLAUDE.zip` (`lotes/42/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp`) fica no CDN, sem uso como capa.

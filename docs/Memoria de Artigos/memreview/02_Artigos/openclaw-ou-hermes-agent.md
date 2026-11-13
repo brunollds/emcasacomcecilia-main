@@ -269,3 +269,20 @@ Lida no Chrome do Bruno, sem abrir link de indicação nem carrinho. As páginas
 - **O que mudou nas 10 versões:** `coupon: "SONAR20"`; links `?REFERRALCODE=SONAR20` com o caminho mantido (PT em `/br`); saíram "não há código", "só no link", "12 meses ou mais", "só cliente novo" e "não soma"; "com/sem a indicação" virou "com/sem o SONAR20"; a nota de transparência fala em comissão, sem o "crédito na Hostinger".
 - **Renovação:** o SONAR20 não dá desconto na renovação (termos do programa, 05/11; os artigos foram corrigidos no #580). O texto diz "a renovação sai pelo preço da tabela"; os preços de renovação lidos na página seguem nas tabelas como preço de tabela.
 - **Regras daqui em diante:** as do dossiê [[Hostinger]] (seção 3). As instruções de "indicação, sem código" acima ficam só como histórico.
+
+## Capa v2 (12/11/2026)
+
+- **Capas:** uma por idioma, com a chamada no idioma da página (`imageFit: contain`; parecer vigente na Origem):
+  - de (`openclaw-oder-hermes-agent`): `/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-de-v2.webp`, SHA-256 `13801cd7d2b9325735c79847f3f5b9c4a1258635ac09f46039437853ef00fcc0`
+  - en (`openclaw-vs-hermes-agent`): `/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-en-v2.webp`, SHA-256 `f5316b6a338c4fd6a44c5aee2bdd2eb7b0460a666e3422dd6c6244166054989d`
+  - es (`openclaw-o-hermes-agent`): `/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-es-v2.webp`, SHA-256 `88b281e20f15346ad0fcd576f24d0e649fe3a8ad5e7919d1e312b8f83c14df5b`
+  - fr (`openclaw-ou-hermes-agent-que-choisir`): `/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-fr-v2.webp`, SHA-256 `eefb1a4e8f749ef198899cb4d630c4fd83d0642db0ba311f6c44e6a36a385a3b`
+  - it (`openclaw-o-hermes-agent-quale-scegliere`): `/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-it-v2.webp`, SHA-256 `b90ef39caea987cd7951f017425a58d200a07fe19bad30d920e5896f0f894ba5`
+  - ja (`openclaw-vs-hermes-agent-ja`): `/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-ja-v2.webp`, SHA-256 `a383ab1155216e66eaa276228a09f74b4d9588cc07faeea45e1d0d4339d495c1`
+  - ko (`openclaw-vs-hermes-agent-ko`): `/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-ko-v2.webp`, SHA-256 `155b82e805dc46674b89c4fc3d48eaa98be831480e0eb5e9981b3df770d746aa`
+  - pt (`openclaw-ou-hermes-agent`): `/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-pt-v2.webp`, SHA-256 `f6b63415f3f3c51c7e15dfd4e2e2c9d094ac57639abbf7e882afaec528b5e790`
+  - zh-hans (`openclaw-vs-hermes-agent-zh-hans`): `/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-zh-hans-v2.webp`, SHA-256 `680a2c89a8f0431f3ef9870ee4c63f09f66274d6ee2630e1729378efda7ae812`
+  - zh-hant (`openclaw-vs-hermes-agent-zh-hant`): `/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-zh-hant-v2.webp`, SHA-256 `32cc024f6b3043298d634500d7b6a1683b6c75e56a52d650289e28ea4c3ae9ce`
+- **Alt (PT):** Detalhe das câmeras de um celular visto por trás no bolso de jeans, em foto ilustrativa com o logo da Hostinger e os textos «OpenClaw ou Hermes Agent?» / «Canais e memória» e SONAR20.
+- **Origem:** celular no bolso de jeans visto por trás, foto ilustrativa; fonte, autoria e licença específicas no registro do lote (Stock Burst/Shopify ou Kaboompics, nem todas CC0). Não representa datacenter, hardware, interface nem teste contratado na Hostinger. O SONAR20 sai sem o rótulo de planos novos em todos os idiomas (parecer vigente: lotes/42/revisao-terra/ADENDO-SEM-ROTULO.json); as condições de uso do código seguem no artigo. Concorrente só por escrito.
+- **Lote 42 do piloto de capas (sequência 14 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-80-HEROES-80-PAGINAS-SEQUENCIA-14-CLAUDE.zip` (`lotes/42/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp`) fica no CDN, sem uso como capa.

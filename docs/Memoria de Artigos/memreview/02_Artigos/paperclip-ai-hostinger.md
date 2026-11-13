@@ -330,3 +330,20 @@ Lida no Chrome do Bruno, sem abrir link de indicação nem carrinho. As páginas
 - **O que mudou nas 10 versões:** `coupon: "SONAR20"`; links `?REFERRALCODE=SONAR20` com o caminho mantido (PT em `/br`); saíram "não há código", "só no link", "12 meses ou mais", "só cliente novo" e "não soma"; "com/sem a indicação" virou "com/sem o SONAR20"; a nota de transparência fala em comissão, sem o "crédito na Hostinger".
 - **Renovação:** o SONAR20 não dá desconto na renovação (termos do programa, 05/11; os artigos foram corrigidos no #580). O texto diz "a renovação sai pelo preço da tabela"; os preços de renovação lidos na página seguem nas tabelas como preço de tabela.
 - **Regras daqui em diante:** as do dossiê [[Hostinger]] (seção 3). As instruções de "indicação, sem código" acima ficam só como histórico.
+
+## Capa v2 (12/11/2026)
+
+- **Capas:** uma por idioma, com a chamada no idioma da página (`imageFit: contain`; parecer vigente na Origem):
+  - de (`paperclip-ai-hostinger-anleitung`): `/images/reviews/hostinger/paperclip-ai-hostinger-capa-de-v2.webp`, SHA-256 `acc0a31e717bcc2d402610ce67aaa276bc6333561f556248f9e0af285fc467b9`
+  - en (`paperclip-ai-hostinger-guide`): `/images/reviews/hostinger/paperclip-ai-hostinger-capa-en-v2.webp`, SHA-256 `ca5e53e5d9800d6807922213572546001e45ff2c67f74fcb450bc2efe9663288`
+  - es (`paperclip-ai-que-es-hostinger`): `/images/reviews/hostinger/paperclip-ai-hostinger-capa-es-v2.webp`, SHA-256 `346d5241fb01130286179c3586c85cc418a2311574d477f1e4981ef36745fd02`
+  - fr (`paperclip-ai-hostinger-guide-fr`): `/images/reviews/hostinger/paperclip-ai-hostinger-capa-fr-v2.webp`, SHA-256 `d053dcd3f9a2ef27bee44c15ccf1a2efaca7c051d31c7d124849265f00c1afb7`
+  - it (`paperclip-ai-hostinger-guida`): `/images/reviews/hostinger/paperclip-ai-hostinger-capa-it-v2.webp`, SHA-256 `6715e024f0c4abfd1e49b84ba962d63c9e3a684c6ff1b5f020fd6e1f8943edf3`
+  - ja (`paperclip-ai-hostinger-ja`): `/images/reviews/hostinger/paperclip-ai-hostinger-capa-ja-v2.webp`, SHA-256 `5c684b50b47d5af5fb10d7bbd02856af0cbdd29ad80e02162bab331c8f0d5210`
+  - ko (`paperclip-ai-hostinger-ko`): `/images/reviews/hostinger/paperclip-ai-hostinger-capa-ko-v2.webp`, SHA-256 `9e6b22b17fb24ed5fa0a6e43cbe448cc2c33ef67905c9680a8b5c59f30d8e809`
+  - pt (`paperclip-ai-hostinger`): `/images/reviews/hostinger/paperclip-ai-hostinger-capa-pt-v2.webp`, SHA-256 `ab42d7ca03ab820dc81cf10d3bc388969020d6528d091334b86c58af664a5d2e`
+  - zh-hans (`paperclip-ai-hostinger-zh-hans`): `/images/reviews/hostinger/paperclip-ai-hostinger-capa-zh-hans-v2.webp`, SHA-256 `ef519ac97a7696e48f7356b2cab208cbd2fab348945ac627156ccbbcbbcab789`
+  - zh-hant (`paperclip-ai-hostinger-zh-hant`): `/images/reviews/hostinger/paperclip-ai-hostinger-capa-zh-hant-v2.webp`, SHA-256 `ca41ab678baa533688a07ff09ff0685f7e5181c224384bbb033770ff31316453`
+- **Alt (PT):** Clipe metálico sobre papel claro, em foto ilustrativa com o logo da Hostinger e os textos «Paperclip AI: como começar?» / «Equipes de agentes e hospedagem» e SONAR20.
+- **Origem:** clipe metálico sobre papel, foto ilustrativa; fonte, autoria e licença específicas no registro do lote (Stock Burst/Shopify ou Kaboompics, nem todas CC0). Não representa datacenter, hardware, interface nem teste contratado na Hostinger. O SONAR20 sai sem o rótulo de planos novos em todos os idiomas (parecer vigente: lotes/42/revisao-terra/ADENDO-SEM-ROTULO.json); as condições de uso do código seguem no artigo.
+- **Lote 42 do piloto de capas (sequência 14 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-80-HEROES-80-PAGINAS-SEQUENCIA-14-CLAUDE.zip` (`lotes/42/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/hostinger/paperclip-ai-hostinger-capa-discover.webp`) fica no CDN, sem uso como capa.

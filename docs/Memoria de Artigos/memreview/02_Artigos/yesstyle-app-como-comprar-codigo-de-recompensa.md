@@ -146,3 +146,20 @@ Nunca: "cupom" para o CECILIA010 ("usar com outros cupons" fica fora). A regra d
 
 ## Publicação (28/10/2026)
 Família `yesstyle-app`, ids 630–639, no ar pelo PR #336 (release `040fcb1b`). Redação do Fable 5.1, revisão do Claude. Imagens: `yesstyle-app-codigo-checkout-2810.webp` (os 3 passos), `yesstyle-app-home-2810.webp` e a capa. Fora do PT, o FAQ do Brasil saiu (en, es e fr: "entrega no meu país?" com o guia de entrega do idioma).
+
+## Capa v2 (12/11/2026)
+
+- **Capas:** uma por idioma, com a chamada no idioma da página (`imageFit: contain`; parecer vigente na Origem):
+  - de (`yesstyle-app-bestellen-reward-code`): `/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-de-v2.webp`, SHA-256 `19df231ed097f64ba973f5fecdc5d521711f1af1ab8bdf94602c43c6856e08f5`
+  - en (`yesstyle-app-how-to-buy-reward-code`): `/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-en-v2.webp`, SHA-256 `55e0a01a703f0f2b4bd7fd2b358dcd3bf1aea8775183eb751ea7f29dbbf2fdb2`
+  - es (`app-yesstyle-como-comprar-codigo-de-recompensa`): `/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-es-v2.webp`, SHA-256 `f1fae3c79decbb65650fd85368f5859cda1a747e6bff34e7dfd71a86ed6ea398`
+  - fr (`application-yesstyle-acheter-code-recompense`): `/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-fr-v2.webp`, SHA-256 `7049ff4414668a0909ff2e6a34e4644a44b38d70dc9e8eeee71984d965b07ea9`
+  - it (`app-yesstyle-come-acquistare-codice-ricompensa`): `/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-it-v2.webp`, SHA-256 `0b8733f47004ca4cc9804e6476cfb2e22d79e7c97dd03f00527349456a2dce3b`
+  - ja (`yesstyle-app-reward-code-ja`): `/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-ja-v2.webp`, SHA-256 `a8cabc4b694a101e4b8bd7124034594f19d036d41e1f036c4bf3b3b62ddb6632`
+  - ko (`yesstyle-app-reward-code-ko`): `/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-ko-v2.webp`, SHA-256 `d36f2fb06f5144768b6516dab373625ce565c0ccc670340254da13724adda259`
+  - pt (`yesstyle-app-como-comprar-codigo-de-recompensa`): `/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-pt-v2.webp`, SHA-256 `44f3e6a1747a3514b58b2b8730f262e47a580da0763370a4091ce43dc8d2bb92`
+  - zh-hans (`yesstyle-app-reward-code-zh-hans`): `/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-zh-hans-v2.webp`, SHA-256 `f3a8a04255233fbd0b798eb5de5157ffea55ae47ba4390241c651835d8e3ea95`
+  - zh-hant (`yesstyle-app-reward-code-zh-hant`): `/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-zh-hant-v2.webp`, SHA-256 `7fd1d2b08a276dc077b00acdde81d9819473396dec1bf01dc624d6a1c996697e`
+- **Alt (PT):** Recorte de captura real do app YesStyle em inglês, com os campos Coupon Code e Influencer / Rewards Code vazios. Na capa, “Como comprar pelo app?”, “Onde entra o código de recompensa” e o código de recompensa CECILIA010.
+- **Origem:** recorte de captura real do app da YesStyle em inglês, com os campos vazios, igual em todos os idiomas, sem interface recriada nem campo preenchido. CECILIA010 é código de recompensa. Parecer vigente: REVISAO-LOCALIZADA.json do lote 42.
+- **Lote 42 do piloto de capas (sequência 14 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-80-HEROES-80-PAGINAS-SEQUENCIA-14-CLAUDE.zip` (`lotes/42/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-discover.webp`) fica no CDN, sem uso como capa.

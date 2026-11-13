@@ -25,9 +25,10 @@
       "initials": "BL"
     }
   ],
-  "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
-  "imageAlt": "Seleção de produtos de K-beauty e cosméticos coreanos em promoção na YesStyle.",
-  "imageFit": "cover",
+  "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-pt-v2.webp",
+  "imageAlt": "Cecília com faixa rosa mostrando o pote aberto de adesivos de hidrogel rosados da Abib, em frame de vídeo próprio. Na capa, “Como achar e combinar cupons?”, “Cupom da loja + código de recompensa” e o código de recompensa CECILIA010.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "pros": [
     "Ensina a diferenciar Coupon Code de Reward Code para não ter erros no checkout",
     "Explica o empilhamento (stacking) para somar cupom do mês com o CECILIA010",

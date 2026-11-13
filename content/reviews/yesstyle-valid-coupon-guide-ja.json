@@ -24,9 +24,10 @@
       "initials": "BL"
     }
   ],
-  "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
-  "imageAlt": "セール中のK-ビューティー・韓国コスメが並ぶYesStyleの商品セレクション。",
-  "imageFit": "cover",
+  "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-validos-capa-ja-v2.webp",
+  "imageAlt": "ピンクのヘアバンドを着けたCecíliaが、Abibのピンク色のハイドロゲルアイパッチの開いた容器を見せる、自社撮影の動画の一場面。見出し「クーポンの探し方 併用はどうする？」、補足「ショップクーポン＋ リワードコード」、リワードコードCECILIA010を配置。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "pros": [
     "決済画面でのミスを防ぐために、Coupon CodeとReward Codeの違いがわかる",
     "今月のクーポンとCECILIA010を重ねる併用（スタッキング）の仕組みがわかる",

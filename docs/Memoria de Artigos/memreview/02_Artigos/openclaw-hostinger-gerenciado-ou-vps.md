@@ -301,3 +301,20 @@ Lida no Chrome do Bruno, sem abrir link de indicação nem carrinho. As páginas
 - **O que mudou nas 10 versões:** `coupon: "SONAR20"`; links `?REFERRALCODE=SONAR20` com o caminho mantido (PT em `/br`); saíram "não há código", "só no link", "12 meses ou mais", "só cliente novo" e "não soma"; "com/sem a indicação" virou "com/sem o SONAR20"; a nota de transparência fala em comissão, sem o "crédito na Hostinger".
 - **Renovação:** o SONAR20 não dá desconto na renovação (termos do programa, 05/11; os artigos foram corrigidos no #580). O texto diz "a renovação sai pelo preço da tabela"; os preços de renovação lidos na página seguem nas tabelas como preço de tabela.
 - **Regras daqui em diante:** as do dossiê [[Hostinger]] (seção 3). As instruções de "indicação, sem código" acima ficam só como histórico.
+
+## Capa v2 (12/11/2026)
+
+- **Capas:** uma por idioma, com a chamada no idioma da página (`imageFit: contain`; parecer vigente na Origem):
+  - de (`openclaw-hostinger-verwaltet-oder-vps`): `/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-de-v2.webp`, SHA-256 `ef89a5382c256067ca83d40e0592f27730a360b75601558a0a1fdfb02ecb5382`
+  - en (`openclaw-hostinger-managed-or-vps`): `/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-en-v2.webp`, SHA-256 `7066821d3f57abe10fe75a2b97eb793f35d4891697025d713e5ef380749ffffa`
+  - es (`openclaw-hostinger-gestionado-o-vps`): `/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-es-v2.webp`, SHA-256 `e8f953f58048370014278e7dfa7c8375b6f2a8bf0e8181111e6b45bee75379e7`
+  - fr (`openclaw-hostinger-gere-ou-vps`): `/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-fr-v2.webp`, SHA-256 `71238acaa2a63b2a8e93185a6bcc16ff028a0b37f061310c275a8418f9d5fa32`
+  - it (`openclaw-hostinger-gestito-o-vps`): `/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-it-v2.webp`, SHA-256 `bb13ddd01226032e86bbeb35b6500125c7b831d5837d59008ee0be22b605e871`
+  - ja (`openclaw-hostinger-managed-or-vps-ja`): `/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-ja-v2.webp`, SHA-256 `003a006184f4760b31bd9ea2d74545c352a63d4c6eb4b0165e915c79431e060c`
+  - ko (`openclaw-hostinger-managed-or-vps-ko`): `/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-ko-v2.webp`, SHA-256 `276f5d9c585d340c24396aeca151d9609c09d6ec3da009283644daadaaf23f56`
+  - pt (`openclaw-hostinger-gerenciado-ou-vps`): `/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-pt-v2.webp`, SHA-256 `6dc2ed1d02460952ee198b55b4a79a0f55170f3e77eb8bb4c0256c389ca7f4d2`
+  - zh-hans (`openclaw-hostinger-managed-or-vps-zh-hans`): `/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-zh-hans-v2.webp`, SHA-256 `9b56eefdcd9e55095a383f67ac4fd78993e8398ee8d57c3f376275cec5fc3e48`
+  - zh-hant (`openclaw-hostinger-managed-or-vps-zh-hant`): `/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-zh-hant-v2.webp`, SHA-256 `6c188447c4a944d2a15dc7eb8b7e36461f8a575849b4be294b06b7446249e688`
+- **Alt (PT):** Peças de madeira com as letras A e I sobre papel claro, em foto ilustrativa com o logo da Hostinger e os textos «OpenClaw: gerenciado ou VPS?» / «Quem cuida do servidor?» e SONAR20.
+- **Origem:** peças de madeira com as letras A e I, foto ilustrativa; fonte, autoria e licença específicas no registro do lote (Stock Burst/Shopify ou Kaboompics, nem todas CC0). Não representa datacenter, hardware, interface nem teste contratado na Hostinger. O SONAR20 sai sem o rótulo de planos novos em todos os idiomas (parecer vigente: lotes/42/revisao-terra/ADENDO-SEM-ROTULO.json); as condições de uso do código seguem no artigo.
+- **Lote 42 do piloto de capas (sequência 14 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-80-HEROES-80-PAGINAS-SEQUENCIA-14-CLAUDE.zip` (`lotes/42/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp`) fica no CDN, sem uso como capa.
