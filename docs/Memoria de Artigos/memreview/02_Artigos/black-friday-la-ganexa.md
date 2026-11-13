@@ -7,9 +7,9 @@ parceiro_slug: "la-ganexa"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pronto-para-deploy"
+status: "no-ar"
 responsavel: "Claude"
-proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
+proxima_acao: "reler a home e os preços quando a loja trocar o Esquenta pela Black Friday; depois, revisão mensal de dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "LG6"
@@ -168,3 +168,11 @@ C1: 0 "R$" na resposta rápida. C2: 2 datas no corpo e nenhuma em título, legen
 - **Capa:** `/images/reviews/laganexa/black-friday-la-ganexa-capa-v2.webp` (`imageFit: contain`), 1600 × 900, com o mesmo painel e o mesmo texto da versão aprovada. Foto oficial da loja de 2024, anterior às imagens geradas: torrada com a pasta de amendoim sabor creme de avelã.
 - **O que está em oferta:** quatro fotos oficiais quadradas, cada uma com `href` para a página do produto: `black-friday-la-ganexa-cookies-cacau-v2.webp` e `black-friday-la-ganexa-cookies-baunilha.webp` (cookies de perto, fundo azul, abril de 2026), `black-friday-la-ganexa-doce-de-leite.webp` (colher de doce de leite, fundo lilás, abril de 2026) e `black-friday-la-ganexa-pasta-natural.webp` (2024, 500 × 500). O LG1 usa outras fotos das mesmas sessões.
 - **CDN:** as imagens novas do artigo subiram em 13/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
+
+## Publicação (13/11/2026)
+
+- No ar em 13/11/2026, id 938: PR #953 (squash `eecf287e`) e a troca das fotos no PR #954 (squash `682d23af`), release `682d23af` (deploy d7881d9a, build 01a1d57e), só PT. O #953 não foi ao ar sozinho: as fotos de IA saíram no #954, antes do deploy, e os dois foram juntos.
+- Smoke: a página com 200, o og:image na capa `-capa-v2`, as quatro fotos de "O que está em oferta" pelo CDN e nenhuma referência às fotos antigas; sitemap e llms.txt com o artigo; `covers:check` ok; IndexNow com 7 URLs (os dois artigos, `/reviews`, a home, `/cupons/la-ganexa`, sitemap e llms.txt); captura 43452862558 disparada, à espera da aprovação do Bruno.
+- Título: "Black Friday La Ganexa 2026: o que está em oferta e como o cupom entra". seoTitle: "Black Friday La Ganexa 2026: ofertas e cupom CECILIA".
+- Pendente: quando a loja trocar o Esquenta pela Black Friday, reler a home, os preços da tabela e se há regulamento ou datas. O texto fala do Esquenta e dos preços lidos em 13/11.
+- Pendente: revisão mensal de dezembro de 2026.
