@@ -172,3 +172,11 @@ C1: 0 "R$" na resposta rápida (54 palavras, 3 frases). C2: 2 datas no corpo, as
 - Pendente: a "descrição curta" do pote de 1 kg da Leitinho, citada pela loja no Reclame Aqui, não foi lida na página do produto.
 
 - No PR do LG4 e do LG5: o LG5 entrou nos relacionados.
+
+## Revisão externa (Farol, GPT-6.1 Terra), conferida em 13/11/2026
+
+O Bruno colou o relatório da revisão de copy dos sete artigos da La Ganexa (`docs/auditoria-copy-artigos/la-ganexa-revisao-farol-20261113/`, fora do repositório versionado). Cada mudança do candidato foi conferida contra as fontes e as regras do pacote. Depois, o Job 3 (Fable 5.2) leu o resultado, e as correções dele foram aplicadas.
+
+- Entrou: o subtítulo com os prazos atribuídos à loja; o histórico em tabela de quatro colunas, com a reputação na prosa; o bastidor do domínio antigo saiu, e ficou só o link para o LG3; "Como evitar dor de cabeça" com os prazos da política dados uma vez na abertura e os bullets em voz ativa; o FAQ de respostas com "100%".
+- Ajustado: a resposta rápida abre com "A La Ganexa vai bem no Reclame Aqui". O perfil LOJA GANEXA LTDA fica com a categoria que o Reclame Aqui mostra, sem o "sem relação com a marca" do candidato, que não foi conferido.
+- Mantido: "Resolvidas", o rótulo da tela de 13/11, no lugar do "Índice de solução" do candidato, e o título "Como evitar dor de cabeça".
