@@ -135,9 +135,9 @@ vendidos dentro da página do cupom; aqui vira artigo, e a página de loja não 
 
 | Código | Pauta | Condição |
 |---|---|---|
-| DM1 | DAMIE no Mercado Livre ou no site: onde comprar | Espera a leitura dos cinco anúncios (Chrome do Bruno). Modelo do anúncio é outro: preço nunca lado a lado como mesma poltrona. Amazon como capítulo |
-| DM2 | DAMIE entrega na minha região? Frete e prazo por região | Página de fretes lida em 12/11; falta o frete e o prazo de um CEP do Norte e um do Nordeste no anúncio |
-| DM3 | As poltronas da DAMIE que só existem nos marketplaces | Espera a descrição do que muda no assento e a leitura dos anúncios. Sem teste próprio: só ficha e avaliações |
+| DM1 | DAMIE no Mercado Livre ou no site: onde comprar, região por região | **Briefing pronto (13/11):** [[damie-mercado-livre-ou-site]]. Espera a redação; pendências do Bruno (assento, assistência no marketplace, links de afiliado, site principal) não travam |
+| DM2 | Prazo de entrega da DAMIE: site e Mercado Livre, região por região (reformulada em 13/11: a busca é "damie prazo de entrega") | **Briefing pronto (13/11):** [[damie-prazo-de-entrega]]. Redação depois da DM1 |
+| DM3 | Poltrona DAMIE Florença, Levita, Moon e Nina: os modelos dos marketplaces (reformulada em 13/11 pelos nomes, que têm busca) | **Briefing pronto (13/11):** [[poltronas-damie-florenca-levita-moon]]. Melhor com a descrição do assento pelo Bruno |
 
 Site principal ou subdomínio: decisão do Bruno, ainda aberta. A PP5 (acima) continua pausada.
 
