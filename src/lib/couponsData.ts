@@ -3440,6 +3440,125 @@ const STORE_COUPONS: Coupon[] = [
   },
   {
     offerMode: 'discount-code',
+    slug: 'la-ganexa',
+    cartPrint: { src: '/images/reviews/laganexa/cupom-laganexa-checkout-com-cupom.webp', alt: 'Resumo da compra no checkout da La Ganexa com o cupom CECILIA no campo de cupom, a linha Descontos de menos R$ 26,44 e o total de R$ 237,96', aspectRatio: 1.473 },
+    brand: 'La Ganexa',
+    officialUrl: 'https://lojalaganexa.com.br/',
+    offerUrl: 'https://lojalaganexa.com.br/',
+    brandIcon: 'LG',
+    brandLogo: '/images/about/partners/laganexa-icon.png',
+    brandLogoAlt: 'Marca La Ganexa',
+    bubble: { src: '/images/logos/bolinhas/laganexa.png' },
+    brandWatermark: '/images/logos/watermarks/laganexa.webp',
+    brandColor: '#2B1408',
+    code: 'CECILIA',
+    codeFieldLabel: 'Cupom (opcional)',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Pastas de amendoim e doces zero açúcar',
+    hubCategory: 'alimentacao',
+    shortDescription: 'pastas de amendoim e doces zero açúcar no site oficial da La Ganexa',
+    longDescription:
+      'O cupom La Ganexa CECILIA dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções: no nosso teste, tirou 10% de um carrinho só com produtos em promoção. Vale em todas as formas de pagamento.',
+    metaTitle: 'Cupom La Ganexa: 10% OFF com CECILIA',
+    metaTitleMonth: true,
+    metaDescription:
+      'Cupom La Ganexa: CECILIA dá 10% OFF para cliente novo ou antigo, soma com as promoções do site e vale no Pix e no cartão. Testado no checkout.',
+    eligibleCategories: 'Produtos do site oficial da La Ganexa; os kits que a loja marca como não cumulativos ficam de fora',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Pode ser usado por clientes novos e antigos',
+    shipping: 'Frete grátis acima de R$ 250 no Sul e no Sudeste e de R$ 350 nas demais regiões, segundo a política de frete da loja; os kits promocionais que a loja deixa fora da regra não contam para o mínimo',
+    combinable:
+      'Soma com as promoções vigentes do site e vale com todas as formas de pagamento; os kits que a loja marca como não cumulativos não aceitam cupom',
+    stacking: [
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional; os kits de 2 Doce de Leite e de 2 Brigadeiros de Colher não acumulam com cupom, pelas regras da loja' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 250 no Sul e no Sudeste e de R$ 350 nas demais regiões' },
+    ],
+    paymentPerks: [
+      'Até 3x sem juros no cartão; de 4x a 12x, com juros da operadora',
+    ],
+    lastVerified: '2026-11-13',
+    testedAt: '2026-11-13',
+    testNote:
+      'Num carrinho de quatro itens, todos com preço promocional, entre eles o Kit Degustação Pasta de Amendoim com 6 sabores, de R$ 149,99 por R$ 139,99, e o Doce de Leite Zero 400g, de R$ 84,99 por R$ 69,99, o CECILIA tirou R$ 26,44 dos R$ 264,40 e o total caiu para R$ 237,96: os 10% entraram sobre os preços em promoção.',
+    aboutBrand:
+      'A La Ganexa é uma marca brasileira de pastas de amendoim e doces zero açúcar e zero glúten, com fábrica em Peruíbe (SP): pastas de amendoim, doce de leite, cookies, panquecas, suspiros e alfajores, vendidos no site oficial. O cupom CECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, com qualquer forma de pagamento e sobre os preços em promoção do site.',
+    faqs: [
+      {
+        question: 'Quanto de desconto o cupom CECILIA dá?',
+        answer:
+          '10% OFF. No nosso teste, o cupom tirou R$ 26,44 de um carrinho de R$ 264,40, e o resumo da compra mostrou o valor na linha Descontos.',
+      },
+      {
+        question: 'O cupom CECILIA vale no Pix, no cartão e em outras formas de pagamento?',
+        answer:
+          'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, e o desconto não depende do meio escolhido.',
+      },
+      {
+        question: 'O cupom La Ganexa vale na primeira compra?',
+        answer: 'Sim. O CECILIA vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'Qual cupom La Ganexa vale para quem já é cliente?',
+        answer:
+          'O CECILIA. Ele dá 10% no site oficial para quem compra pela primeira vez e para quem já comprou.',
+      },
+      {
+        question: 'O CECILIA é cupom de influenciadora?',
+        answer:
+          'Sim. É o código da Cecília, do Em Casa com Cecília, testado por nós no checkout. Não testamos a soma com o cupom de outra pessoa; o resumo da compra mostra qual código ficou aplicado.',
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No nosso teste, todos os produtos do carrinho já estavam com preço promocional, e o cupom tirou os 10% do total. A exceção são os kits que a loja marca como não cumulativos, como o de 2 Doce de Leite e o de 2 Brigadeiros de Colher.',
+      },
+      {
+        question: 'O cupom CECILIA está funcionando hoje?',
+        answer:
+          'Sim. No teste de checkout mais recente, o CECILIA foi aceito. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
+      },
+      {
+        question: 'Onde coloco o cupom na La Ganexa?',
+        answer:
+          'No checkout do site oficial: no Resumo da compra, toque em "Inserir cupom de desconto", digite CECILIA no campo "Cupom (opcional)" e toque em "Adicionar". O resumo passa a mostrar a linha "Descontos".',
+      },
+      {
+        question: 'Tem cupom La Ganexa na Black Friday?',
+        answer:
+          'Tem. O cupom La Ganexa CECILIA dá 10% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+      },
+      {
+        question: 'O cupom La Ganexa vale na Black Friday?',
+        answer:
+          'O cupom La Ganexa CECILIA dá 10% OFF e soma com os preços promocionais do site: no nosso teste, entrou num carrinho só com produtos em promoção. Os kits que a loja marca como não cumulativos ficam de fora; confira a linha Descontos antes de pagar.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'O cupom não dá frete grátis. A La Ganexa tem frete grátis acima de R$ 250 no Sul e no Sudeste e de R$ 350 nas demais regiões.',
+      },
+      {
+        question: 'O que fazer se o cupom CECILIA não funcionar?',
+        answer:
+          'Confira se o código foi digitado no campo "Cupom (opcional)", sem espaços, no site oficial da La Ganexa, e se o carrinho não tem só kits que a loja marca como não cumulativos com cupom. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'no site oficial',
+      note: 'Soma com os preços em promoção do site',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
     slug: 'hostinger',
     cartPrint: { src: '/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom.webp', alt: 'Resumo do pedido no carrinho da Hostinger com a linha Cupom aplicado e a etiqueta SONAR20', aspectRatio: 1.096 },
     brand: 'Hostinger',
