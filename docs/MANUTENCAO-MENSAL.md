@@ -276,6 +276,13 @@ com os fatos do dossiê; campanhas com prazo vão em `content/campanhas/` (`docs
 
 Ficaram sem dado, por leitura que não fechou. Reler na rodada de 01/12/2026:
 
+- **FAQ de Black Friday:** 21 lojas têm, desde 12/11, as perguntas "Tem cupom <Loja> na Black Friday?" e
+  "O cupom <Loja> vale na Black Friday?" (Lejour, YesStyle e SHEIN ficaram de fora; a Hostinger tem só a segunda,
+  porque pergunta nova no PT pede a mesma nas 9 traduções da loja). São sazonais: na rodada de
+  01/12, tirar ou reescrever para o que valer depois da campanha. Skelt e Bagaggio seguem sem teste com campanha
+  no ar, e Probiótica, Max Titanium, Mais Mu, Black Skull, Toda Up e Dr. Peanut mandam conferir o carrinho:
+  testar na semana da Black Friday e trocar a resposta pelo resultado. O guia `black-friday-<loja>` responde a
+  mesma coisa pela pergunta com o código; mudou um, conferir o outro.
 - **Parcelamento:** Max Titanium (3x sem juros no produto, 6x na descrição da página), Dr. Peanut ("em até 4x",
   sem dizer se é sem juros), Toda Up, Skelt, Dolce Gusto, Insider, Let's Eat It, I Wanna Sleep, HolyFoods e Magalu.
 - **Frete:** I Wanna Sleep (R$ 150 na central de ajuda, R$ 399 na home), Toda Up (faixa de campanha com frete grátis

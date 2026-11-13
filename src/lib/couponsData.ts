@@ -324,6 +324,16 @@ const STORE_COUPONS: Coupon[] = [
           'O cupom está ativo enquanto a parceria estiver vigente. Esta página mostra a data da última verificação para você saber quando a informação foi revisada.',
       },
       {
+        question: 'Tem cupom DAMIE na Black Friday?',
+        answer:
+          'Tem. O cupom DAMIE CECILIA12 dá 12% OFF em todos os produtos do site, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+      },
+      {
+        question: 'O cupom DAMIE vale na Black Friday?',
+        answer:
+          'O cupom DAMIE CECILIA12 dá 12% OFF e soma com as promoções, os brindes e o desconto do Pix; só não soma com outro cupom nem com o giftback.',
+      },
+      {
         question: 'Comprar com o cupom muda o preço para mim?',
         answer:
           'Não no sentido de custo extra. Você recebe o desconto informado quando o cupom é aceito, e o Em Casa com Cecília pode receber comissão da marca por indicação.',
@@ -413,7 +423,7 @@ const STORE_COUPONS: Coupon[] = [
     lastVerified: '2026-11-12',
     testedAt: '2026-11-12',
     testNote:
-      'Num carrinho de sete caixas de Espresso Intenso, de R$ 19,99 cada, o CECI tirou R$ 13,99 dos R$ 139,93, os 10%, e o total caiu para R$ 125,94. Em 11/11/2026, em sete caixas de Cappuccino em promoção, de R$ 25,90 por R$ 15,90 cada, o CECI tirou R$ 11,13 dos R$ 111,30. Em 26/10/2026, com o carrinho abaixo de R$ 100, a loja recusou o cupom.',
+      'Num carrinho de sete caixas de Espresso Intenso, de R$ 19,99 cada, o CECI tirou R$ 13,99 dos R$ 139,93, os 10%, e o total caiu para R$ 125,94. No mesmo dia, num combo da Black Friday, de R$ 207,20 por R$ 145,04, o CECI tirou R$ 14,50 e o total caiu para R$ 130,54. Em 11/11/2026, em sete caixas de Cappuccino em promoção, de R$ 25,90 por R$ 15,90 cada, o CECI tirou R$ 11,13 dos R$ 111,30. Em 26/10/2026, com o carrinho abaixo de R$ 100, a loja recusou o cupom.',
     aboutBrand:
       'A Nescafé Dolce Gusto é uma linha de cafés e bebidas em cápsulas da Nestlé, com máquinas e sabores pensados para preparo rápido em casa. A marca combina praticidade com variedade: cafés intensos, bebidas com leite, cappuccinos, chocolates e opções geladas aparecem no catálogo da loja oficial. O cupom CECI entra como benefício para quem acompanha a Cecília e quer economizar em compras na loja oficial. Como em toda parceria comercial, a recomendação deve ser conferida no checkout: o desconto aparece antes da finalização quando a regra da campanha permite.',
     faqs: [
@@ -477,6 +487,16 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O link leva para a loja oficial?',
         answer:
           'Sim. O botão de compra aponta para o site oficial Nescafé Dolce Gusto Brasil informado pela parceria.',
+      },
+      {
+        question: 'Tem cupom Dolce Gusto na Black Friday?',
+        answer:
+          'Tem. O cupom Dolce Gusto CECI dá 10% OFF na loja oficial, em compras a partir de R$ 100, e é o mesmo código do resto do ano.',
+      },
+      {
+        question: 'O cupom Dolce Gusto vale na Black Friday?',
+        answer:
+          'Vale. O cupom Dolce Gusto CECI dá 10% OFF em compras a partir de R$ 100 e somou com um combo da Black Friday no nosso teste: o desconto entrou sobre o preço da campanha.',
       },
       {
         question: 'O que fazer se o cupom CECI não funcionar?',
@@ -756,6 +776,16 @@ const STORE_COUPONS: Coupon[] = [
           'Sim. O botão de compra aponta para o site oficial Nestlé Nutre informado pela parceria.',
       },
       {
+        question: 'Tem cupom Nestlé Nutre na Black Friday?',
+        answer:
+          'Tem. O cupom Nestlé Nutre CECI dá 10% OFF nos produtos elegíveis da loja, em todas as formas de pagamento; não vale em fórmulas infantis de 0 a 12 meses.',
+      },
+      {
+        question: 'O cupom Nestlé Nutre vale na Black Friday?',
+        answer:
+          'Vale. O cupom Nestlé Nutre CECI dá 10% OFF sobre os preços do Black Month, a campanha de novembro da loja, nos produtos elegíveis. A loja aceita um cupom por pedido.',
+      },
+      {
         question: 'O que fazer se o cupom CECI não funcionar?',
         answer:
           'Verifique se o produto não é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses, se o código foi digitado corretamente e se a campanha ainda está ativa. Se ainda assim não funcionar, avise pelo contato do site para que a informação seja revisada.',
@@ -879,6 +909,16 @@ const STORE_COUPONS: Coupon[] = [
           'Sim. O botão de compra aponta para o site oficial da I Wanna Sleep informado pela parceria.',
       },
       {
+        question: 'Tem cupom I Wanna Sleep na Black Friday?',
+        answer:
+          'Tem. O cupom I Wanna Sleep CECIEMCASA dá 10% OFF em todo o site, em todas as formas de pagamento.',
+      },
+      {
+        question: 'O cupom I Wanna Sleep vale na Black Friday?',
+        answer:
+          'Vale. O cupom I Wanna Sleep CECIEMCASA dá 10% OFF e soma com os preços da Black Friday. Nos kits da campanha, o carrinho mostra se o cupom entrou antes do pagamento.',
+      },
+      {
         question: 'O que fazer se o cupom CECIEMCASA não funcionar?',
         answer:
           'Verifique se o código foi digitado corretamente e se a campanha ainda está ativa. Se ainda assim não funcionar, avise pelo contato do site para que a informação seja revisada.',
@@ -997,6 +1037,16 @@ const STORE_COUPONS: Coupon[] = [
           'Sim, Magalu é o nome curto do Magazine Luiza. Nesta campanha, os códigos da Cecília funcionam exclusivamente na loja Magazine Você da Cecília, que é operada pelo próprio Magazine Luiza dentro do programa Influenciador Magalu.',
       },
       {
+        question: 'Tem cupom Magalu na Black Friday?',
+        answer:
+          'Tem. Os cupons Magalu da Cecília dão de R$ 10 a R$ 100 OFF, conforme o valor do carrinho, em produtos vendidos e entregues pelo Magalu, na loja Magazine Você da Cecília.',
+      },
+      {
+        question: 'O cupom Magalu vale na Black Friday?',
+        answer:
+          'Vale. Os cupons Magalu da Cecília, de R$ 10 a R$ 100 OFF, valem sobre o preço da Black Friday, com todas as formas de pagamento, na loja Magazine Você da Cecília, pelo navegador.',
+      },
+      {
         question: 'Comprar com o cupom gera comissão para a Cecília?',
         answer:
           'Sim, e vale ser transparente: compras feitas na loja Magazine Você da Cecília geram uma comissão paga pelo Magalu, sem custo extra para você. E quando você usa qualquer um destes cupons, o valor do desconto é abatido da comissão que a Cecília receberia pelo pedido — ou seja, o desconto sai da comissão dela, não do seu bolso.',
@@ -1065,10 +1115,10 @@ const STORE_COUPONS: Coupon[] = [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Soma com as promoções do site, inclusive em pré-venda' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com os 5% de desconto do Pix que muitos produtos têm' },
     ],
-    lastVerified: '2026-11-11',
-    testedAt: '2026-11-11',
+    lastVerified: '2026-11-12',
+    testedAt: '2026-11-12',
     testNote:
-      'Aplicamos o MAUAD num pote de cerâmica Le Creuset em promoção, de R$ 519,00 por R$ 363,30, e o total caiu para R$ 345,14, com R$ 18,16 de desconto: os 5% entraram sobre o preço promocional. No teste de 02/10/2026, ele já tinha valido num carrinho com um item em pré-venda.',
+      'Com a Black November no ar, aplicamos o MAUAD num bowl de porcelana da campanha, de R$ 171,50 por R$ 102,90, e o total caiu para R$ 97,76, com R$ 5,14 de desconto: os 5% entraram sobre o preço da campanha. Em 11/11/2026, num pote de cerâmica Le Creuset em promoção, de R$ 519,00 por R$ 363,30, o total caiu para R$ 345,14. No teste de 02/10/2026, ele já tinha valido num carrinho com um item em pré-venda.',
     aboutBrand:
       "A Let's Eat It é uma loja online brasileira de casa e presentes, com curadoria de marcas como Le Creuset, KitchenAid, Porto Brasil e Bohemia Crystal. O catálogo cobre mesa posta, cozinha, bar, café e chá, decoração, outdoor e eletrodomésticos — itens que conversam com a rotina de quem cozinha e recebe em casa. O cupom MAUAD, com o sobrenome da Cecília, entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar no site oficial. Como regras de desconto, frete e aplicação podem variar por campanha e produto, a recomendação é sempre conferir o desconto no checkout antes de finalizar a compra.",
     faqs: [
@@ -1141,6 +1191,16 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O link leva para a loja oficial?',
         answer:
           "Sim. O botão de compra aponta para o site oficial da Let's Eat It, com a identificação da parceria da Cecília.",
+      },
+      {
+        question: "Tem cupom Let's Eat It na Black Friday?",
+        answer:
+          "Tem. O cupom Let's Eat It MAUAD dá 5% OFF em todo o site, em todas as formas de pagamento, e é o mesmo código do resto do ano.",
+      },
+      {
+        question: "O cupom Let's Eat It vale na Black Friday?",
+        answer:
+          "Vale. O cupom Let's Eat It MAUAD dá 5% OFF e soma com os preços da Black November, a campanha da loja: no nosso teste, o desconto entrou sobre um produto da campanha.",
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
@@ -1253,9 +1313,14 @@ const STORE_COUPONS: Coupon[] = [
           'Sim. Nos nossos testes, o EMCASACOMCECILIA deu os 15% numa calça do Outlet que já estava 40% mais barata, de R$ 179,00 por R$ 152,15, numa cueca em promoção e em kits com preço promocional. Lançamentos podem ficar de fora.',
       },
       {
-        question: 'O cupom vale na Black Friday da Insider?',
+        question: 'Tem cupom Insider na Black Friday?',
         answer:
-          'Sim. No nosso teste do esquenta de Black Friday, os 15% entraram sobre os preços já reduzidos: a Tech T-Shirt de R$ 129,00 saiu por R$ 109,65. Como a loja aceita um cupom por pedido, compare os 15% com o cupom da campanha da própria Insider antes de pagar.',
+          'Tem. O cupom Insider EMCASACOMCECILIA dá 15% OFF na loja online, em todas as formas de pagamento, fora os lançamentos, e é o mesmo código do resto do ano.',
+      },
+      {
+        question: 'O cupom Insider vale na Black Friday?',
+        answer:
+          'Vale. O cupom Insider EMCASACOMCECILIA dá 15% OFF e entrou sobre os preços já reduzidos no nosso teste do esquenta de Black Friday: a Tech T-Shirt de R$ 129,00 saiu por R$ 109,65. Como a loja aceita um cupom por pedido, compare os 15% com o cupom da campanha da própria Insider antes de pagar.',
       },
       {
         question: 'O cupom vale nas lojas físicas da Insider?',
@@ -1580,6 +1645,16 @@ const STORE_COUPONS: Coupon[] = [
           'Lembre que o desconto varia por produto: alguns itens recebem menos de 10%, e o resumo do pedido mostra quanto cada um teve. Confira se o código foi colado no campo "Cupom de Desconto" do carrinho, sem espaços, e se a compra é no site oficial, não no Mercado Livre. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
+        question: 'Tem cupom Probiótica na Black Friday?',
+        answer:
+          'Tem. O cupom Probiótica PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial, em todas as formas de pagamento; o percentual é menor em alguns produtos.',
+      },
+      {
+        question: 'O cupom Probiótica vale na Black Friday?',
+        answer:
+          'O cupom Probiótica PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial e soma com o preço promocional. Em produto com preço do Novembro PRO, a campanha da loja, a linha Descontos do carrinho mostra o valor antes de pagar.',
+      },
+      {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
         answer:
           'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
@@ -1700,6 +1775,16 @@ const STORE_COUPONS: Coupon[] = [
           'Lembre que o desconto varia por produto: alguns itens recebem menos de 10%, e o resumo do pedido mostra quanto cada um teve. Confira se o código foi colado no campo "Cupom de Desconto", sem espaços, no site oficial ou no app da Max Titanium; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
+        question: 'Tem cupom Max Titanium na Black Friday?',
+        answer:
+          'Tem. O cupom Max Titanium MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial, em todas as formas de pagamento; o percentual é menor em alguns produtos.',
+      },
+      {
+        question: 'O cupom Max Titanium vale na Black Friday?',
+        answer:
+          'O cupom Max Titanium MAX10EMCASACOMCECILIA dá até 10% OFF, é o mesmo código do resto do ano e soma com as promoções do site e com o Pix. Nos produtos com preço do Max November, a linha Descontos do carrinho mostra o valor do cupom antes de pagar.',
+      },
+      {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
         answer:
           'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
@@ -1810,6 +1895,16 @@ const STORE_COUPONS: Coupon[] = [
           'Confira se o código foi digitado sem espaços no campo de cupom do site oficial da Dr. Peanut. Ele vale em todos os produtos e soma com as promoções; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
+        question: 'Tem cupom Dr. Peanut na Black Friday?',
+        answer:
+          'Tem. O cupom Dr. Peanut DREMCASACOMCECILIA dá 10% OFF em todo o site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+      },
+      {
+        question: 'O cupom Dr. Peanut vale na Black Friday?',
+        answer:
+          'O cupom Dr. Peanut DREMCASACOMCECILIA dá 10% OFF e soma com as promoções do site, inclusive em produto que já está em promoção. Se a loja abrir campanha de Black Friday, o carrinho mostra se ele soma com a oferta.',
+      },
+      {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
         answer:
           'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
@@ -1916,6 +2011,16 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O que fazer se o cupom CECILIA10 não funcionar?',
         answer:
           'Confira se o código foi digitado sem espaços no campo de cupom do site oficial ou do app Black Skull USA. Ele vale em todos os produtos e soma com as promoções; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Tem cupom Black Skull na Black Friday?',
+        answer:
+          'Tem. O cupom Black Skull CECILIA10 dá 10% OFF em todo o site, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+      },
+      {
+        question: 'O cupom Black Skull vale na Black Friday?',
+        answer:
+          'O cupom Black Skull CECILIA10 dá 10% OFF em todo o site e soma com as promoções vigentes e com o desconto progressivo. Na Black Friday, a linha Descontos da sacola mostra o valor abatido antes de pagar.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
@@ -2102,6 +2207,16 @@ const STORE_COUPONS: Coupon[] = [
           'Confira se o código foi digitado sem espaços no campo de cupom do site oficial da Cléa Store. Ele vale em todos os produtos e soma com as promoções e com o cashback da loja; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
+        question: 'Tem cupom Cléa Store na Black Friday?',
+        answer:
+          'Tem. O cupom Cléa Store CSEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+      },
+      {
+        question: 'O cupom Cléa Store vale na Black Friday?',
+        answer:
+          'Vale. O cupom Cléa Store CSEMCASACOMCECILIA dá 10% OFF sobre os preços da Black Friday: no nosso teste com a campanha no ar, entrou num kit e num vestido que já tinham o desconto da campanha. Os termos da loja preveem exceções: confira a linha Desconto antes de pagar.',
+      },
+      {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
         answer:
           'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
@@ -2155,9 +2270,9 @@ const STORE_COUPONS: Coupon[] = [
       'Até 2x sem juros no cartão',
     ],
     lastVerified: '2026-11-12',
-    testedAt: '2026-11-11',
+    testedAt: '2026-11-12',
     testNote:
-      'Aplicamos o MAUAD num combo de seis pacotes de pão de batata em oferta, de R$ 125,40 por R$ 106,59, e o total caiu para R$ 95,93, com R$ 10,66 de desconto: os 10% entraram sobre o preço da oferta.',
+      'Com a Black November no ar, aplicamos o MAUAD em quatro pães de cenoura com o preço da campanha, de R$ 20,90 por R$ 14,63 cada, e o total caiu de R$ 58,52 para R$ 52,67, com R$ 5,85 de desconto: os 10% entraram sobre o preço da campanha, e o Pix ainda tirou os 5% dele. Em 11/11/2026, num combo de seis pacotes de pão de batata em oferta, de R$ 125,40 por R$ 106,59, o total caiu para R$ 95,93.',
     codeInstructions: [
       'Copie o código MAUAD no card acima.',
       'Acesse o site oficial da Belive pelo botão indicado e coloque os produtos no carrinho.',
@@ -2224,6 +2339,16 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O que fazer se o cupom MAUAD não funcionar?',
         answer:
           'Confira se o código foi colado no campo "Código do cupom" do carrinho, sem espaços, e se você clicou em "Aplicar cupom". Ele vale em todos os produtos do site oficial belivebefree.com.br; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Tem cupom Belive na Black Friday?',
+        answer:
+          'Tem. O cupom Belive MAUAD dá 10% OFF em todo o site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+      },
+      {
+        question: 'O cupom Belive vale na Black Friday?',
+        answer:
+          'Vale. O cupom Belive MAUAD dá 10% OFF e soma com os preços da Black November, a campanha da loja: no nosso teste, entrou sobre um produto da campanha, e o Pix ainda deu os 5% dele.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
@@ -2368,6 +2493,16 @@ const STORE_COUPONS: Coupon[] = [
           'Confira se não há outro código no pedido, como o crédito do cashback ou o desconto de boas-vindas: a Mais Mu não acumula cupons. O código vai em "Adicionar cupom de desconto", no checkout, depois de "Iniciar compra"; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
+        question: 'Tem cupom Mais Mu na Black Friday?',
+        answer:
+          'Tem. O cupom Mais Mu MMEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+      },
+      {
+        question: 'O cupom Mais Mu vale na Black Friday?',
+        answer:
+          'O cupom Mais Mu MMEMCASACOMCECILIA dá 10% OFF, soma com as ofertas do site e com o Pix e não soma com o cashback. Em produto com o preço das ofertas de novembro, o resumo do pedido mostra a linha Desconto do cupom antes de pagar.',
+      },
+      {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
         answer:
           'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
@@ -2499,6 +2634,16 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O que fazer se o cupom SKEMCASACOMCECILIA não funcionar?',
         answer:
           'Confira se não há outro cupom no pedido, como o de primeira compra: a Skelt aceita um por pedido, e o último aplicado troca o anterior. Se o brinde sumiu ao aplicar o cupom, é o mínimo da campanha, que conta o pedido já com o desconto. O cupom vale no site oficial, não no Mercado Livre. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Tem cupom Skelt na Black Friday?',
+        answer:
+          'Tem. O cupom Skelt SKEMCASACOMCECILIA dá 10% OFF em todo o site, inclusive em kits e combos, em todas as formas de pagamento.',
+      },
+      {
+        question: 'O cupom Skelt vale na Black Friday?',
+        answer:
+          'O cupom Skelt SKEMCASACOMCECILIA dá 10% OFF em todo o site. Ainda não testamos o código com uma campanha de Black Friday no ar: confira o total na sacola antes de pagar.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
@@ -2641,6 +2786,16 @@ const STORE_COUPONS: Coupon[] = [
           'Veja se não há outro cupom no carrinho, como o da promoção de 50% na 2ª peça: a Bagaggio não acumula cupons. O código vai no campo de cupom do carrinho, no site ou no app, sem espaços; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
+        question: 'Tem cupom Bagaggio na Black Friday?',
+        answer:
+          'Tem. O cupom Bagaggio CECILIA10 dá 10% OFF em todo o site, inclusive no Outlet, em todas as formas de pagamento.',
+      },
+      {
+        question: 'O cupom Bagaggio vale na Black Friday?',
+        answer:
+          'O cupom Bagaggio CECILIA10 dá 10% OFF em todo o site, com o Pix. Nos preços da campanha de Black Friday, aplique o código na sacola e confira a linha do desconto antes de pagar.',
+      },
+      {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
         answer:
           'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no carrinho quando o cupom é aceito.',
@@ -2747,6 +2902,16 @@ const STORE_COUPONS: Coupon[] = [
         question: 'Posso trocar ou devolver a compra feita com o cupom?',
         answer:
           'Sim. A Toda Up aceita troca de modelo, tamanho ou cor e devolução por arrependimento em até 30 dias corridos depois do recebimento, pelo portal de trocas da loja.',
+      },
+      {
+        question: 'Tem cupom Toda Up na Black Friday?',
+        answer:
+          'Tem. O cupom Toda Up MAUAD dá 15% OFF em todo o site, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+      },
+      {
+        question: 'O cupom Toda Up vale na Black Friday?',
+        answer:
+          'O cupom Toda Up MAUAD dá 15% OFF e vale nos produtos em promoção. Na Black VIP, enquanto durar, o checkout não aceita o cupom, porque ele não soma com a escada de desconto. Nos preços da Black November, confira a linha do cupom no carrinho.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
@@ -2860,6 +3025,16 @@ const STORE_COUPONS: Coupon[] = [
         question: 'Posso trocar ou devolver a compra feita com o cupom?',
         answer:
           'Sim. A Simple Organic aceita troca ou desistência em até 7 dias corridos depois do recebimento, com o produto na embalagem original, sem uso e com o lacre inviolado. O pedido de troca vai pelo e-mail de atendimento da loja.',
+      },
+      {
+        question: 'Tem cupom Simple Organic na Black Friday?',
+        answer:
+          'Tem. O cupom Simple Organic S-EMCASACOMCECILIA dá 5% OFF em todo o site, inclusive nos kits, em todas as formas de pagamento.',
+      },
+      {
+        question: 'O cupom Simple Organic vale na Black Friday?',
+        answer:
+          'Vale. O cupom Simple Organic S-EMCASACOMCECILIA dá 5% OFF e, no nosso teste, entrou em itens com preço da Clean Friday, a campanha da loja. Confira a linha do cupom no carrinho.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
@@ -2976,6 +3151,16 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O que fazer se o cupom EMCASA não funcionar?',
         answer:
           'Confira se o código foi colado no campo "Código do cupom" da tela "Finalizar compra", sem espaços, e se você clicou em "Adicionar". O campo "Cartão-presente" não aceita cupons. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Tem cupom HolyFoods na Black Friday?',
+        answer:
+          'Tem. O cupom HolyFoods EMCASA dá 15% OFF em todo o site, em avulsos e kits, na tela de finalizar a compra.',
+      },
+      {
+        question: 'O cupom HolyFoods vale na Black Friday?',
+        answer:
+          'Vale. O cupom HolyFoods EMCASA dá 15% OFF e somou com a Black da loja nos nossos testes: o desconto entrou sobre o preço que já tinha os 30% da campanha.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
@@ -3102,6 +3287,16 @@ const STORE_COUPONS: Coupon[] = [
           'Confira se o código foi colado no campo "Digite seu cupom" da sacola, sem espaços. Se o produto estiver numa promoção maior que 10%, a sacola mantém o preço da promoção. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
+        question: 'Tem cupom Petz na Black Friday?',
+        answer:
+          'Tem. O cupom Petz EMCASA dá 10% OFF no site e no app, e é o mesmo código do resto do ano.',
+      },
+      {
+        question: 'O cupom Petz vale na Black Friday?',
+        answer:
+          'O cupom Petz EMCASA não soma com a oferta da Black Friday: pelo regulamento da campanha, a sacola fica com o desconto maior em cada item. Nos itens fora da oferta, ele dá os 10% e soma com o desconto de retirada na loja.',
+      },
+      {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
         answer:
           'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no resumo do pedido quando o cupom é aceito.',
@@ -3221,6 +3416,16 @@ const STORE_COUPONS: Coupon[] = [
           'Confira se o código foi digitado no campo "Código do cupom", sem espaços, no site oficial da Prohall, e se o cupom de cashback da loja não está aplicado no mesmo pedido. Lembre que o desconto pode ser menor que 10%. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
+        question: 'Tem cupom Prohall na Black Friday?',
+        answer:
+          'Tem. O cupom Prohall CECILIAMC dá até 10% OFF no site oficial e no app, em todas as formas de pagamento; nos nossos testes, o desconto foi de 7%.',
+      },
+      {
+        question: 'O cupom Prohall vale na Black Friday?',
+        answer:
+          'Vale. O cupom Prohall CECILIAMC dá até 10% OFF em cima do preço da campanha: nos nossos testes, tirou 7% de produtos que já estavam em promoção.',
+      },
+      {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
         answer:
           'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
@@ -3321,9 +3526,9 @@ const STORE_COUPONS: Coupon[] = [
           'Confira o resumo do pedido: se não aparecer "Cupom aplicado", cole o SONAR20 no campo de cupom. O link desta página abre a Hostinger com a indicação do mesmo código.',
       },
       {
-        question: 'O cupom vale na Black Friday da Hostinger?',
+        question: 'O cupom Hostinger vale na Black Friday?',
         answer:
-          'Sim. No nosso teste mais recente, os 20% do SONAR20 entraram sobre o preço de Black Friday que a Hostinger já mostrava no carrinho.',
+          'Vale. O cupom Hostinger SONAR20 dá 20% OFF em compra nova e, no nosso teste mais recente, entrou sobre o preço de Black Friday que a Hostinger já mostrava no carrinho.',
       },
       {
         question: 'O desconto vale na renovação?',
