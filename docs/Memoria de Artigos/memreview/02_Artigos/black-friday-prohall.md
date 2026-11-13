@@ -7,9 +7,9 @@ parceiro_slug: "prohall"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "reler a coleção da campanha na semana do texto; redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PH6"
@@ -126,3 +126,33 @@ produto de cada tipo da tabela, com `href` para a loja.
 | Cashback não junta com outros cupons | `/pages/cashback-prohall`, 12/11 | verificado |
 | Troca em 30 dias, desistência em 7, lacre, pedido inteiro, postagem do cliente | `/pages/trocas-e-devolucoes`, 12/11 | verificado; reler |
 | Datas de início e de fim da campanha | nenhuma | não escrever |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- Coleção `/collections/black-friday-prohall-ofertas-imperdiveis`: título "Black Prohall 2026 | Promoções de Até 80% OFF no Site Oficial Prohall"; a descrição fala em "ofertas de até 80% off" e "condições exclusivas por tempo limitado no site oficial da Prohall"; selo "BLACK FRIDAY até 80%" nos cartões; 42 produtos; sem regulamento e sem datas.
+- Preços da coleção (campanha / "de"): Select One 1 L, R$ 219,90 / R$ 309,90; Burix One 1 L, R$ 229,90 / R$ 319,90; Cronograma Capilar Premium, R$ 189,90 / R$ 299,90; Btx Blend Repair 300 g, R$ 62,90 / R$ 109,90; Kit Cuidado Capilar Diário Absolut One, R$ 139,90 / R$ 223,90; Kit Force Hair, R$ 99,90 / R$ 289,90.
+- Aviso "ESGOTADO NO SITE | BAIXAR O APP PARA COMPRAR" visto em cartão da coleção; a home traz "Benefícios especiais no APP" e "PROHALL LIVE 12 HORAS" (a live ficou fora do texto).
+- Brindes por valor do pedido: as fotos do Select One e do Burix One trazem um selo "compre e ganhe", mas não li a regra; ficou fora do texto, e o selo foi recortado da foto do Select One.
+- `/pages/trocas-e-devolucoes`: troca em até 30 dias corridos, desistência em 7 dias, embalagem original, lacre intacto, sem uso, sem devolução parcial, postagem da troca por conta do cliente.
+- Checkout pelo link de carrinho, com o código na URL e sem informar e-mail: o desconto foi de 7% em seis produtos da coleção da Black Friday (Kit Cuidado Capilar Diário Absolut One, R$ 139,90 para R$ 130,11; Cronograma Capilar Premium, R$ 189,90 para R$ 176,61; Btx Blend Repair 300 g, R$ 62,90 para R$ 58,50; Select One 1 L, R$ 219,90 para R$ 204,51; Burix One 1 L, R$ 229,90 para R$ 213,81; Kit Force Hair, R$ 99,90 para R$ 92,91).
+- Pix no checkout, com o código aplicado: selecionado o Pix (Mercado Pago), o total ficou igual (R$ 213,81 no Burix One). Não apareceu desconto a mais; confirma o que o Bruno disse.
+- A tela de pagamento (checkout da Shopify) tem o campo "Adicionar desconto" / "Código de desconto"; o "Tem um cupom?" / "Código do cupom" do teste do Bruno fica no resumo da compra do site.
+- `/pages/formas-de-pagamento`: até 10x sem juros, parcela mínima de R$ 20; frete grátis a partir de R$ 99 (Sudeste), R$ 149 (Sul), R$ 179 (Centro-Oeste) e R$ 199 (Norte e Nordeste). Igual ao dossiê.
+- `/pages/cashback-prohall`: "Não junta com outros cupons", cupom por WhatsApp para o pedido seguinte. Igual ao dossiê.
+- Nome do app nas lojas de aplicativo: não lido (a home não traz link para as lojas). O texto diz só "app da Prohall".
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/black-friday-prohall.json` (id 932), no esqueleto do briefing. Resposta rápida com 52 palavras, a do rascunho do briefing. A tabela tem seis produtos, todos com o total lido no checkout com o código (coluna "Com o CECILIAMC"), nenhum calculado. A única data do corpo é a da leitura (12 de novembro de 2026), na prosa; não há data de campanha. "Até 80%" e "por tempo limitado" aparecem sempre atribuídos à loja. Sem link para o PH3, que ainda não está no ar.
+
+## Revisão (Job 3, 12/11/2026)
+
+Passou. Sempre "até 10%"; sem data de início ou de fim de campanha; sem lista de esgotados; sem "melhor preço"; sem Clube, Moedas PH ou código de terceiros. O uso profissional entra pelo rótulo do Select One, sem promessa de resultado e sem orientação própria de aplicação. O quadro `decision` não tem "R$".
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data no corpo. C3, C4, C5: 0. Snippet: 143 caracteres, código até o caractere 9, "até 10%" na primeira frase. Subtítulo: 146.
+- Skill de copywriting aplicada (situação B: briefing com ângulo e rascunho): frases curtas e verificáveis, a primeira frase de cada capítulo responde, sem "não é X, é Y" e sem lista de negações.
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/prohall/black-friday-prohall-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo, a chamada "Black Friday Prohall 2026", "o cupom soma" e o CECILIAMC. Foto oficial do Cronograma Capilar Premium (CDN da loja). Sem IA.
+- **O que está em oferta:** três fotos oficiais quadradas, cada uma com `href` para a página do produto no site oficial: `black-friday-prohall-select-one-1l.webp` (recorte da foto oficial, sem o selo de brinde), `black-friday-prohall-btx-blend-repair-300g.webp` e `black-friday-prohall-kit-force-hair.webp`.

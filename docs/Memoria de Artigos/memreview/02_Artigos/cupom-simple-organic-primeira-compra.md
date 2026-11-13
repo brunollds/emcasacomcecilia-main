@@ -203,4 +203,4 @@ O texto está em `content/reviews/cupom-simple-organic-primeira-compra.json` (id
 
 Aplicado: capítulo "Quando o cupom muda o frete", com tabela do Trio Body Splashes no CEP 01310-100 (o mesmo do SO7) e o acréscimo de R$ 5,91; a legenda do print passa a dizer que são os valores da tabela do kit (conferido na imagem). Não aplicado: a frase sobre a política da loja restringir cupons em kits e promoções, pela decisão do Bruno de não mudar o texto por essa divergência.
 
-- 13/11/2026: entrou o alerta sucinto sobre a política de cupons da loja (kits, duos e promoção), a pedido do Bruno, como nos outros dois artigos da Simple Organic.
+- 12/11/2026: entrou o alerta sucinto sobre a política de cupons da loja (kits, duos e promoção), a pedido do Bruno, como nos outros dois artigos da Simple Organic.

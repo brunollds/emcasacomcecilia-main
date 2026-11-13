@@ -112318,6 +112318,198 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/prohall/black-friday-prohall-btx-blend-repair-300g.webp",
+      "local_url": "/images/reviews/prohall/black-friday-prohall-btx-blend-repair-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18396,
+      "sha256": "d91996d846169f31ec24b6573f4a8f6045a6b8f85aa62fe7cda38d267aaf04aa",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-prohall-btx-blend-repair-300g.webp",
+      "storage_filename": "black-friday-prohall-btx-blend-repair-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-prohall.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-prohall.json",
+          "line": 139,
+          "column": 19,
+          "literal": "/images/reviews/prohall/black-friday-prohall-btx-blend-repair-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 218337,
+          "column": 21,
+          "literal": "/images/reviews/prohall/black-friday-prohall-btx-blend-repair-300g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d91996d846169f31ec24b6573f4a8f6045a6b8f85aa62fe7cda38d267aaf04aa/black-friday-prohall-btx-blend-repair-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d91996d846169f31ec24b6573f4a8f6045a6b8f85aa62fe7cda38d267aaf04aa/black-friday-prohall-btx-blend-repair-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T00:15:22.168Z",
+      "verification_etag_or_digest": "d91996d846169f31ec24b6573f4a8f6045a6b8f85aa62fe7cda38d267aaf04aa",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/black-friday-prohall-capa.webp",
+      "local_url": "/images/reviews/prohall/black-friday-prohall-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48200,
+      "sha256": "82be80492c7054ae13a31e2f87703e2e6c893412806698a240edeeb16b34a357",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-prohall-capa.webp",
+      "storage_filename": "black-friday-prohall-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-prohall.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-prohall.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-prohall.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/prohall/black-friday-prohall-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-prohall.md",
+          "line": 157,
+          "column": 14,
+          "literal": "/images/reviews/prohall/black-friday-prohall-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 218227,
+          "column": 15,
+          "literal": "/images/reviews/prohall/black-friday-prohall-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/82be80492c7054ae13a31e2f87703e2e6c893412806698a240edeeb16b34a357/black-friday-prohall-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/82be80492c7054ae13a31e2f87703e2e6c893412806698a240edeeb16b34a357/black-friday-prohall-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T00:15:22.169Z",
+      "verification_etag_or_digest": "82be80492c7054ae13a31e2f87703e2e6c893412806698a240edeeb16b34a357",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/black-friday-prohall-kit-force-hair.webp",
+      "local_url": "/images/reviews/prohall/black-friday-prohall-kit-force-hair.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41924,
+      "sha256": "d2a265f8be19df956e8a4e44b50358de71ad609ca3d85d07914f919ad1c231b9",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-prohall-kit-force-hair.webp",
+      "storage_filename": "black-friday-prohall-kit-force-hair.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-prohall.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-prohall.json",
+          "line": 146,
+          "column": 19,
+          "literal": "/images/reviews/prohall/black-friday-prohall-kit-force-hair.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 218344,
+          "column": 21,
+          "literal": "/images/reviews/prohall/black-friday-prohall-kit-force-hair.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d2a265f8be19df956e8a4e44b50358de71ad609ca3d85d07914f919ad1c231b9/black-friday-prohall-kit-force-hair.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d2a265f8be19df956e8a4e44b50358de71ad609ca3d85d07914f919ad1c231b9/black-friday-prohall-kit-force-hair.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T00:15:22.169Z",
+      "verification_etag_or_digest": "d2a265f8be19df956e8a4e44b50358de71ad609ca3d85d07914f919ad1c231b9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/black-friday-prohall-select-one-1l.webp",
+      "local_url": "/images/reviews/prohall/black-friday-prohall-select-one-1l.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18868,
+      "sha256": "e861957f23a9cd6bd7f4a390b48d26a5889abf9ce973502f7577a027a32b8a16",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-prohall-select-one-1l.webp",
+      "storage_filename": "black-friday-prohall-select-one-1l.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-prohall.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-prohall.json",
+          "line": 132,
+          "column": 19,
+          "literal": "/images/reviews/prohall/black-friday-prohall-select-one-1l.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 218330,
+          "column": 21,
+          "literal": "/images/reviews/prohall/black-friday-prohall-select-one-1l.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e861957f23a9cd6bd7f4a390b48d26a5889abf9ce973502f7577a027a32b8a16/black-friday-prohall-select-one-1l.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e861957f23a9cd6bd7f4a390b48d26a5889abf9ce973502f7577a027a32b8a16/black-friday-prohall-select-one-1l.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T00:15:22.169Z",
+      "verification_etag_or_digest": "e861957f23a9cd6bd7f4a390b48d26a5889abf9ce973502f7577a027a32b8a16",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/prohall/cupom-prohall-checkout-com-cupom.webp",
       "local_url": "/images/reviews/prohall/cupom-prohall-checkout-com-cupom.webp",
       "media_kind": "image",
@@ -112361,6 +112553,114 @@
       "uploaded_at": null,
       "verified_at": "2026-11-12T22:40:32.766Z",
       "verification_etag_or_digest": "1960aa914ee447f16b1c50c56f9a77584b563a18c5f226b035263ae0292a644c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/cupom-prohall-como-usar-capa.webp",
+      "local_url": "/images/reviews/prohall/cupom-prohall-como-usar-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64350,
+      "sha256": "3894fc147f360acb3056ba02f37668d70ced327cabee7bf2d771e54a6597b020",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-prohall-como-usar-capa.webp",
+      "storage_filename": "cupom-prohall-como-usar-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-prohall-como-usar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-prohall-como-usar.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-prohall-como-usar.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/prohall/cupom-prohall-como-usar-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-prohall-como-usar.md",
+          "line": 195,
+          "column": 14,
+          "literal": "/images/reviews/prohall/cupom-prohall-como-usar-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 218088,
+          "column": 15,
+          "literal": "/images/reviews/prohall/cupom-prohall-como-usar-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3894fc147f360acb3056ba02f37668d70ced327cabee7bf2d771e54a6597b020/cupom-prohall-como-usar-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3894fc147f360acb3056ba02f37668d70ced327cabee7bf2d771e54a6597b020/cupom-prohall-como-usar-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T00:15:22.169Z",
+      "verification_etag_or_digest": "3894fc147f360acb3056ba02f37668d70ced327cabee7bf2d771e54a6597b020",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/cupom-prohall-como-usar-shampoo-condicionador-absolut-one.webp",
+      "local_url": "/images/reviews/prohall/cupom-prohall-como-usar-shampoo-condicionador-absolut-one.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43324,
+      "sha256": "9f99bcb91d6c791b7dbe5b3b44041971c1e0e966ed79460dadc0c5b0515593be",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-prohall-como-usar-shampoo-condicionador-absolut-one.webp",
+      "storage_filename": "cupom-prohall-como-usar-shampoo-condicionador-absolut-one.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-prohall-como-usar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-prohall-como-usar.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-prohall-como-usar.json",
+          "line": 83,
+          "column": 19,
+          "literal": "/images/reviews/prohall/cupom-prohall-como-usar-shampoo-condicionador-absolut-one.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-prohall-como-usar.md",
+          "line": 197,
+          "column": 29,
+          "literal": "/images/reviews/prohall/cupom-prohall-como-usar-shampoo-condicionador-absolut-one.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 218142,
+          "column": 21,
+          "literal": "/images/reviews/prohall/cupom-prohall-como-usar-shampoo-condicionador-absolut-one.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9f99bcb91d6c791b7dbe5b3b44041971c1e0e966ed79460dadc0c5b0515593be/cupom-prohall-como-usar-shampoo-condicionador-absolut-one.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9f99bcb91d6c791b7dbe5b3b44041971c1e0e966ed79460dadc0c5b0515593be/cupom-prohall-como-usar-shampoo-condicionador-absolut-one.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T00:15:22.169Z",
+      "verification_etag_or_digest": "9f99bcb91d6c791b7dbe5b3b44041971c1e0e966ed79460dadc0c5b0515593be",
       "verification_status": "verified"
     },
     {
