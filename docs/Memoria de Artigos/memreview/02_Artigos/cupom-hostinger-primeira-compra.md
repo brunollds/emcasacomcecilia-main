@@ -7,9 +7,9 @@ parceiro_slug: "hostinger"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pronto-para-deploy"
+status: "no-ar"
 responsavel: "Claude"
-proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
+proxima_acao: "revisão mensal de dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "PC-H (série primeira compra, próxima fase)"
@@ -18,7 +18,7 @@ translationKey: "hostinger-primeira-compra"
 modo_i18n: "familia-10-idiomas"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
-status_i18n: "escrito-10-idiomas"
+status_i18n: "no-ar-10-idiomas"
 affiliate: "hostinger"
 coupon: "SONAR20"
 ---
@@ -243,3 +243,5 @@ A revisão dos 30 artigos da série (pasta `docs/auditoria-copy-artigos/pc-multi
 - Recusado: tirar "Código achado em site de cupom pode não funcionar" (o esqueleto do briefing pede a frase) e trocar por texto genérico a explicação de para quem serve cada ciclo.
 - A conferir pelo Bruno: `couponTranslations.ts` (FAQ da página da loja em en e es) diz que o plano de 1 mês também caiu 20% no teste de 29/10 no site global; o briefing diz que o teste do mensal não tem par no global. Os artigos seguem o briefing.
 - Pendente: imagem no corpo das 9 versões fora do PT. Falta o arquivo do print do site global de 29/10; o print em reais não entra como prova do checkout global.
+
+- No ar desde 13/11/2026, release `b9fcbf67` (deploy c305618e, build 01a1d6d1), com o #964 e a revisão Farol (#965). `deploy:finish` ok (2 workers); smoke das 30 páginas contra o JSON (título, capítulos, primeira frase de cada capítulo, og:image e lang), as seis capas com 200, sitemap e llms.txt com as 30; `covers:check` 6/6; IndexNow com 37 URLs; captura 43511941705 à espera da aprovação do Bruno.

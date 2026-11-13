@@ -7,9 +7,9 @@ parceiro_slug: "yesstyle"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pronto-para-deploy"
+status: "no-ar"
 responsavel: "Claude"
-proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
+proxima_acao: "revisão mensal de dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "PC-Y (série primeira compra, próxima fase)"
@@ -18,7 +18,7 @@ translationKey: "yesstyle-primeira-compra"
 modo_i18n: "familia-10-idiomas"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
-status_i18n: "escrito-10-idiomas"
+status_i18n: "no-ar-10-idiomas"
 affiliate: "yesstyle"
 coupon: "CECILIA010"
 ---
@@ -224,3 +224,5 @@ A revisão dos 30 artigos da série (pasta `docs/auditoria-copy-artigos/pc-multi
 
 - Entrou: em ja e ko, os 5% e os 2% passam a ser ditos como desconto adicional, e saiu a instrução de deixar o campo de cupom vazio (o código tem campo próprio e não ocupa o de cupom); em es, o print que mostra 5% ficou separado da regra dos pedidos seguintes; em es, fr, it e zh-hans, a frase de conferir a linha do desconto no resumo antes de pagar.
 - Recusado: tirar o aviso de código achado em site de cupom (decisão do briefing, igual no PT).
+
+- No ar desde 13/11/2026, release `b9fcbf67` (deploy c305618e, build 01a1d6d1), com o #964 e a revisão Farol (#965). `deploy:finish` ok (2 workers); smoke das 30 páginas contra o JSON (título, capítulos, primeira frase de cada capítulo, og:image e lang), as seis capas com 200, sitemap e llms.txt com as 30; `covers:check` 6/6; IndexNow com 37 URLs; captura 43511941705 à espera da aprovação do Bruno.
