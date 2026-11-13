@@ -8,6 +8,19 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## DAMIE nos marketplaces (12/11/2026)
+
+- **Pedido do Bruno:** série da DAMIE nos marketplaces: compradores das regiões que a marca manda para o Mercado Livre, poltronas que só existem lá e "site ou Mercado Livre", com link de afiliado do marketplace e o CECILIA12 para quem compra no site.
+- **Página de fretes da DAMIE (12/11):** Norte e Nordeste "exclusivamente" pelos anúncios oficiais no Mercado Livre, com cinco anúncios indicados; frete grátis no Sul e no Sudeste; Centro-Oeste pelo CEP.
+- **Modelos:** o Bruno confirmou que as poltronas dos marketplaces são modelos diferentes das do site, mesmo com nome igual, principalmente no assento. Na Amazon aparecem "Florença", "Nina" e "2.0"; no site, a busca por esses nomes devolve as Damie 1.0 e 2.0.
+- **Autocompletar (Google, pt-BR, 12/11):** "damie mercado livre", "poltrona damie mercado livre", "poltrona damie amazon", "damie entrega", "damie prazo de entrega", "loja oficial damie". Sem sugestão: "damie magalu", "damie magazine luiza", "damie shopee", "damie casas bahia", "damie frete", "damie entrega no nordeste", "sofa damie mercado livre".
+- **Search Console (3 meses até 06/11, 1.000 consultas):** nenhuma consulta de DAMIE com marketplace. De marketplace, só "cupom insider mercado livre" (11 impressões).
+- **Leituras que falharam:** o Mercado Livre pediu login e a busca da Magalu não carregou. Preços e fichas dos anúncios não foram lidos.
+- **Conteúdo nosso:** `black-friday-damie`, `cupom-damie-primeira-compra` e `poltronas-reclinaveis-damie-vale-o-investimento` já dizem que o Norte e o Nordeste compram pelo Mercado Livre. O formato "Mercado Livre ou site" existe para Insider, Black Skull e Cléa.
+- **Conclusão:** três pautas (DM1 a DM3) na [[Fila-de-Pautas]], todas esperando a leitura dos anúncios. Fatos e regras em [[damie-marketplaces-1211]].
+
+---
+
 ## Prohall: pacote inicial (12/11/2026)
 
 - **Pedido do Bruno:** parceira nova, com a página `/cupons/prohall` no ar. Pacote inicial: como usar, Reclame Aqui, é confiável, primeira compra, é boa (ou vale a pena) e Black Friday. O que mais aparecer fica para depois.
