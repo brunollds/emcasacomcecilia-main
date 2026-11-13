@@ -3448,7 +3448,7 @@ const STORE_COUPONS: Coupon[] = [
     brandIcon: 'LG',
     brandLogo: '/images/about/partners/laganexa-icon.png',
     brandLogoAlt: 'Marca La Ganexa',
-    bubble: { src: '/images/logos/bolinhas/laganexa.png' },
+    bubble: { src: '/images/logos/bolinhas/laganexa-letreiro.png', background: '#2B1408' },
     brandWatermark: '/images/logos/watermarks/laganexa.webp',
     brandColor: '#2B1408',
     code: 'CECILIA',

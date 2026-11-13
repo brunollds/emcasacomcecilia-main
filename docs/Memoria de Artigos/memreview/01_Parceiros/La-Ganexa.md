@@ -37,7 +37,8 @@ Teste da sessão de cupons, 2026-11-13 (Chrome, sem login e sem finalizar): Kit 
 "Finalizar a compra" (checkout da Yampi, `seguro.lojalaganexa.com.br`), o CECILIA foi aceito ("Cupom adicionado.") e o total
 ficou em R$ 115,19. Pelo link de carrinho da Shopify com `?discount=CECILIA`, o desconto foi de R$ 12,79.
 
-Sem leitura: desconto no Pix, cashback de 5% anunciado na faixa do site ("Compre e receba 5% de cashback"),
+O Bruno informou em 13/11 que a loja não dá desconto extra no Pix; a linha do Pix da página segue a genérica
+("quando a loja oferece"), por decisão dele. Sem leitura: cashback de 5% anunciado na faixa do site ("Compre e receba 5% de cashback"),
 código no app (a loja tem app para Android e iOS), valor mínimo do cupom e pesquisa de percentuais em outros
 sites (por isso a página não tem o FAQ "Existe cupom La Ganexa de X%?"). A página `/pages/cupons` da loja
 lista cupons próprios dela, que não entram nos nossos textos.
@@ -73,6 +74,10 @@ lista cupons próprios dela, que não entram nos nossos textos.
 ## 4. Mídia da Marca
 
 - Logo: `/images/about/partners/laganexa.png` (página /sobre) e `/images/about/partners/laganexa-icon.png`.
-- Bolinha: `/images/logos/bolinhas/laganexa.png`. Marca-d'água: `/images/logos/watermarks/laganexa.webp`.
+- Bolinha: `/images/logos/bolinhas/laganexa-letreiro.png`, com `background: '#2B1408'`. Origem:
+  `https://lojalaganexa.com.br/cdn/shop/files/logo-laganexa.png?v=1722368781`, baixado em 13/11/2026; ajuste: só o
+  letreiro creme do logo, sem o selo marrom e sem o contorno laranja, na largura toda do arquivo. A primeira
+  bolinha (`laganexa.png`, o logo inteiro) ficava pequena e ilegível na vitrine e saiu de uso no mesmo dia.
+- Marca-d'água: `/images/logos/watermarks/laganexa.webp`.
 - Print do resumo com o cupom: `/images/reviews/laganexa/cupom-laganexa-checkout-com-cupom.webp` (do teste do
   Bruno; demonstração visual, sem data).
