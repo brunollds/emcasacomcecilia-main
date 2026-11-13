@@ -7,9 +7,9 @@ parceiro_slug: "la-ganexa"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "pronto-para-deploy"
+status: "no-ar"
 responsavel: "Claude"
-proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
+proxima_acao: "revisão mensal de dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "LG3"
@@ -160,3 +160,10 @@ C1: 0 "R$" na resposta rápida (57 palavras, 3 frases). C2: 1 data no corpo ("de
 - **Imagens da loja geradas por IA:** o Bruno liberou em 13/11/2026 ("Se a imagem de IA é da própria empresa, não podemos fazer nada. Pode usar."). Mesmo assim, a capa ficou com foto real.
 - **CDN:** as seis imagens do LG2 e do LG3 subiram em 13/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
 
+## Publicação (13/11/2026)
+
+- No ar em 13/11/2026, id 940: PR #957 (squash `cae1f2f7`), release `cae1f2f7` (deploy 889ae6e0, build 01a1d5ad), só PT, com o GO do Bruno.
+- Smoke: a página com 200, o og:image na capa pelo CDN, as imagens do corpo pelo CDN e nenhum "PROVISÓRIO" no HTML; sitemap e llms.txt com o artigo; `covers:check` ok; IndexNow com 10 URLs (os quatro artigos da La Ganexa, `/reviews`, `/reviews/loja/la-ganexa`, que passou a existir com os quatro artigos, a home, `/cupons/la-ganexa`, sitemap e llms.txt); captura 43460954400 disparada, à espera da aprovação do Bruno.
+- Título: "La Ganexa é confiável? De onde é, site oficial, entrega e trocas". seoTitle: "La Ganexa é confiável? De onde é, site oficial e trocas".
+- Pendente: revisão mensal de dezembro de 2026: reler as políticas de frete e de troca, o FAQ e o rodapé.
+- Pendente: o link para o LG5 (`la-ganexa-e-boa`) entra quando ele for ao ar.

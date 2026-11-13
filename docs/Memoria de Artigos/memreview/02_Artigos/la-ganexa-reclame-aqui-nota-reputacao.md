@@ -7,9 +7,9 @@ parceiro_slug: "la-ganexa"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "pronto-para-deploy"
+status: "no-ar"
 responsavel: "Claude"
-proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
+proxima_acao: "revisão mensal de dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "LG2"
@@ -163,3 +163,10 @@ C1: 0 "R$" na resposta rápida (54 palavras, 3 frases). C2: 2 datas no corpo, as
 - **Imagens da loja geradas por IA:** o Bruno liberou em 13/11/2026 ("Se a imagem de IA é da própria empresa, não podemos fazer nada. Pode usar."). Mesmo assim, a capa ficou com foto real.
 - **CDN:** as seis imagens do LG2 e do LG3 subiram em 13/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
 
+## Publicação (13/11/2026)
+
+- No ar em 13/11/2026, id 939: PR #957 (squash `cae1f2f7`), release `cae1f2f7` (deploy 889ae6e0, build 01a1d5ad), só PT, com o GO do Bruno.
+- Smoke: a página com 200, o og:image na capa pelo CDN, as imagens do corpo pelo CDN e nenhum "PROVISÓRIO" no HTML; sitemap e llms.txt com o artigo; `covers:check` ok; IndexNow com 10 URLs (os quatro artigos da La Ganexa, `/reviews`, `/reviews/loja/la-ganexa`, que passou a existir com os quatro artigos, a home, `/cupons/la-ganexa`, sitemap e llms.txt); captura 43460954400 disparada, à espera da aprovação do Bruno.
+- Título: "La Ganexa no Reclame Aqui: nota, reputação e o que mais gera reclamação". seoTitle: "La Ganexa no Reclame Aqui: nota, reputação e reclamações".
+- Pendente: revisão mensal de dezembro de 2026: reler as abas do perfil (6 e 12 meses, geral), o percentual do atraso e as reclamações recentes.
+- Pendente: a "descrição curta" do pote de 1 kg da Leitinho, citada pela loja no Reclame Aqui, não foi lida na página do produto.
