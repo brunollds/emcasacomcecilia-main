@@ -56312,6 +56312,158 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/damie-mercado-livre-ou-site-capa.webp",
+      "local_url": "/images/reviews/damie/damie-mercado-livre-ou-site-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 168854,
+      "sha256": "6851f095306afff11d7371b0575f31b8482fce1ff8d650f73f135ec5e0621be6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "damie-mercado-livre-ou-site-capa.webp",
+      "storage_filename": "damie-mercado-livre-ou-site-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/damie-mercado-livre-ou-site.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/damie-mercado-livre-ou-site.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/damie/damie-mercado-livre-ou-site-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6851f095306afff11d7371b0575f31b8482fce1ff8d650f73f135ec5e0621be6/damie-mercado-livre-ou-site-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6851f095306afff11d7371b0575f31b8482fce1ff8d650f73f135ec5e0621be6/damie-mercado-livre-ou-site-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T23:41:06.949Z",
+      "verification_etag_or_digest": "6851f095306afff11d7371b0575f31b8482fce1ff8d650f73f135ec5e0621be6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/damie-mercado-livre-ou-site-eletrica-fixa-site.webp",
+      "local_url": "/images/reviews/damie/damie-mercado-livre-ou-site-eletrica-fixa-site.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 55920,
+      "sha256": "3d1b59d97d797dc9cdced7e5535cee16d55a4f455ae1b59d2757ae22d4e94542",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "damie-mercado-livre-ou-site-eletrica-fixa-site.webp",
+      "storage_filename": "damie-mercado-livre-ou-site-eletrica-fixa-site.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/damie-mercado-livre-ou-site.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/damie-mercado-livre-ou-site.json",
+          "line": 145,
+          "column": 19,
+          "literal": "/images/reviews/damie/damie-mercado-livre-ou-site-eletrica-fixa-site.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3d1b59d97d797dc9cdced7e5535cee16d55a4f455ae1b59d2757ae22d4e94542/damie-mercado-livre-ou-site-eletrica-fixa-site.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3d1b59d97d797dc9cdced7e5535cee16d55a4f455ae1b59d2757ae22d4e94542/damie-mercado-livre-ou-site-eletrica-fixa-site.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T23:41:07.919Z",
+      "verification_etag_or_digest": "3d1b59d97d797dc9cdced7e5535cee16d55a4f455ae1b59d2757ae22d4e94542",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/damie-prazo-de-entrega-capa.webp",
+      "local_url": "/images/reviews/damie/damie-prazo-de-entrega-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 121808,
+      "sha256": "ab5b7c5a00cf229ad1b787b8b79099a9b8daf80b504f4511f63d41123e97144b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "damie-prazo-de-entrega-capa.webp",
+      "storage_filename": "damie-prazo-de-entrega-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/damie-prazo-de-entrega.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/damie-prazo-de-entrega.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/damie/damie-prazo-de-entrega-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ab5b7c5a00cf229ad1b787b8b79099a9b8daf80b504f4511f63d41123e97144b/damie-prazo-de-entrega-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ab5b7c5a00cf229ad1b787b8b79099a9b8daf80b504f4511f63d41123e97144b/damie-prazo-de-entrega-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T23:41:07.610Z",
+      "verification_etag_or_digest": "ab5b7c5a00cf229ad1b787b8b79099a9b8daf80b504f4511f63d41123e97144b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/damie-prazo-de-entrega-eletrica-fixa-frente.webp",
+      "local_url": "/images/reviews/damie/damie-prazo-de-entrega-eletrica-fixa-frente.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 96018,
+      "sha256": "292ed26592bf9793853d87e56cc127c1f08617f414f6f36896977d14408565ab",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "damie-prazo-de-entrega-eletrica-fixa-frente.webp",
+      "storage_filename": "damie-prazo-de-entrega-eletrica-fixa-frente.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/damie-prazo-de-entrega.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/damie-prazo-de-entrega.json",
+          "line": 173,
+          "column": 19,
+          "literal": "/images/reviews/damie/damie-prazo-de-entrega-eletrica-fixa-frente.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/292ed26592bf9793853d87e56cc127c1f08617f414f6f36896977d14408565ab/damie-prazo-de-entrega-eletrica-fixa-frente.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/292ed26592bf9793853d87e56cc127c1f08617f414f6f36896977d14408565ab/damie-prazo-de-entrega-eletrica-fixa-frente.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T23:41:08.561Z",
+      "verification_etag_or_digest": "292ed26592bf9793853d87e56cc127c1f08617f414f6f36896977d14408565ab",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/damie-reclame-aqui-capa-discover.webp",
       "local_url": "/images/reviews/damie/damie-reclame-aqui-capa-discover.webp",
       "media_kind": "image",
@@ -58762,6 +58914,82 @@
       "uploaded_at": null,
       "verified_at": "2026-10-07T04:20:28.832Z",
       "verification_etag_or_digest": "a1c1c511d0733970d879350384dab8dd1ac76490d512f703de2c92a436b6a894",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltronas-damie-florenca-anuncio-frente.webp",
+      "local_url": "/images/reviews/damie/poltronas-damie-florenca-anuncio-frente.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22060,
+      "sha256": "c103651f568b2e5a755fd31dcf5b9e7da08e2dce458b888fd38fc8b4ac7734b8",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltronas-damie-florenca-anuncio-frente.webp",
+      "storage_filename": "poltronas-damie-florenca-anuncio-frente.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltronas-damie-florenca-levita-moon.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltronas-damie-florenca-levita-moon.json",
+          "line": 70,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltronas-damie-florenca-anuncio-frente.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c103651f568b2e5a755fd31dcf5b9e7da08e2dce458b888fd38fc8b4ac7734b8/poltronas-damie-florenca-anuncio-frente.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c103651f568b2e5a755fd31dcf5b9e7da08e2dce458b888fd38fc8b4ac7734b8/poltronas-damie-florenca-anuncio-frente.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T23:41:08.209Z",
+      "verification_etag_or_digest": "c103651f568b2e5a755fd31dcf5b9e7da08e2dce458b888fd38fc8b4ac7734b8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltronas-damie-florenca-levita-moon-capa.webp",
+      "local_url": "/images/reviews/damie/poltronas-damie-florenca-levita-moon-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34488,
+      "sha256": "bcefe7ba52e5ff6cb1fa8e38eda214edc1afc111f9f589504494546d0988db6c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltronas-damie-florenca-levita-moon-capa.webp",
+      "storage_filename": "poltronas-damie-florenca-levita-moon-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltronas-damie-florenca-levita-moon.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltronas-damie-florenca-levita-moon.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltronas-damie-florenca-levita-moon-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bcefe7ba52e5ff6cb1fa8e38eda214edc1afc111f9f589504494546d0988db6c/poltronas-damie-florenca-levita-moon-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bcefe7ba52e5ff6cb1fa8e38eda214edc1afc111f9f589504494546d0988db6c/poltronas-damie-florenca-levita-moon-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T23:41:07.255Z",
+      "verification_etag_or_digest": "bcefe7ba52e5ff6cb1fa8e38eda214edc1afc111f9f589504494546d0988db6c",
       "verification_status": "verified"
     },
     {
