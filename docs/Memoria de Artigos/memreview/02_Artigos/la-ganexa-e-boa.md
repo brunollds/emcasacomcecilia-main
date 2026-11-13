@@ -7,9 +7,9 @@ parceiro_slug: "la-ganexa"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Marca"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2)"
+proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "LG5"
@@ -159,3 +159,38 @@ foto oficial por tipo da tabela, com `href` para a loja, e o print da tabela nut
 | Devolução em 7 dias, produto sem uso na embalagem original | `/pages/politica-de-troca-e-devolucao`, 13/11 | verificado |
 | Preço por 100 g com o cupom | catálogo | a ler na semana do texto |
 | Sabor, textura, "a melhor", efeito no corpo | nenhuma fonte nossa | não escrever |
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/la-ganexa-e-boa.json` (id 942), no molde do `holyfoods-e-boa` e do `prohall-e-boa`, com quadro `decision`. Fontes: o catálogo da loja (`products.json`) e as tabelas nutricionais publicadas nas páginas e nos kits, lidas em 13/11/2026. Ficaram fora, por falta de fonte ou divergência: as avaliações da loja (o aplicativo de avaliações deu 429); a Mousse de Brigadeiro (sem tabela na página; os números de 24/10 não foram reencontrados); a pasta Cookies (duas tabelas diferentes, 450 g e 1 kg); suspiro, panqueca, alfajor e brigadeiro de colher (sem ficha lida); o aviso de efeito laxativo (não achado no rótulo nem na página); o "25 de proteína" do endereço da Chocrante de 1 kg (a tabela diz 22 g); o "sem aromatizantes" do texto do kit para a Pistache (a lista traz aromatizantes); sabor e textura (sem fonte).
+
+Divergências da loja registradas: a Natural e a Crocante têm o mesmo arquivo de tabela (mesmo md5), e o artigo junta as duas numa linha ("mesma tabela"); o Doce de Leite Zero 400 g tem R$ 69,99 na variante e R$ 64,99 no texto da página (vale o da variante, o do carrinho).
+
+## Revisão (Job 3, 13/11/2026, Fable 5.2, e checagem de fatos)
+
+O parecer devolveu o texto com 12 correções obrigatórias, todas aplicadas:
+
+- resposta rápida sem o "lidas hoje", fechando no que muda a escolha; "marca brasileira" sustentada no capítulo 2 (fábrica em Peruíbe, como no LG3);
+- bastidor fora do corpo ("hoje", "não lido", "não escolhemos"): a linha "não lido" da primeira tabela saiu e virou "Fora da conta" na legenda; a Mousse e a Cookies foram para a legenda da tabela das pastas;
+- o aviso de derretimento vale para a Leitinho e a Leitinho Black, e a loja diz que não é defeito ("uma particularidade deste sabor");
+- "a lista mais curta entre as pastas com lista publicada", no lugar de "do catálogo";
+- o Doce de Leite Zero abre com os polióis (28 g por 100 g) e os 11 g de açúcares do leite, uma vez; "A loja informa:" passou para a validade e a geladeira;
+- saúde: a frase dos diabéticos atribuída ao FAQ, com a página do Doce de Leite Zero mais cautelosa; as calorias das pastas (543 a 597 kcal por 100 g, 109 a 119 kcal na porção de 20 g) e do doce (204 kcal), com o aviso da página "Este não é um alimento baixo ou reduzido em valor energético"; "Zero açúcar, no rótulo, é zero de açúcar adicionado";
+- FAQ sem o "emagrecer" repassado da loja, e "Na dúvida, o médico ou o nutricionista" só uma vez, no capítulo da saúde;
+- o último capítulo virou "Para quem vale e quanto sai com o cupom", com o veredito por perfil e o CECILIA no fim;
+- imagens: o Doce de Leite Zero ganhou foto; a Chocrante passou para o pote de 450 g, com o `href` da página dele.
+
+Sugestões aplicadas: o título "La Ganexa é boa? As pastas e o doce de leite pelo rótulo e pelo preço com cupom" (o do briefing prometia "os produtos, um a um"); "maltitol ou sucralose" na linha da pasta de sobremesa; a conta do kit com o que ele compra; o aromatizante da Chocolate Branco; o link para o LG3 na troca; "No histórico do perfil" para o atraso. Da checagem de fatos: a linha de polióis da tabela não diz qual adoçante (a lista diz); a troca "sem indícios de uso", como a política diz; as legendas como "Imagem: La Ganexa.".
+
+C1: 0 "R$" na resposta rápida (60 palavras, 3 frases). C2: 1 data no corpo, na legenda da tabela de preço, e nenhuma em título, legenda de foto ou FAQ. Snippet: 143 caracteres, código até o caractere 7. Subtítulo: 158.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 13/11/2026)
+
+- **Capa:** `/images/reviews/laganexa/la-ganexa-e-boa-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral verde com o logo e "La Ganexa / é boa? / rótulo e preço". Imagem da loja dos seis potes de 150 g do kit de degustação de pastas (opção A; a B juntava o pote de Leitinho e o Doce de Leite Zero, como o briefing pedia, mas os fundos não combinavam).
+- **As pastas:** o pote de 450 g da Chocolate Branco e a tabela nutricional da Natural (500 × 442, `contain` com `aspectRatio` 1,1312, sem `href`).
+- **Maltitol e sucralose:** carrossel com os potes de 450 g da Avelã Vegana, da Chocrante e da Leitinho Black.
+- **O doce de leite zero:** o pote de 400 g do Doce de Leite Zero.
+- As fotos de produto têm 1000 × 1000 e `href` para a página de cada produto; nenhuma repete imagem do LG1, LG2, LG3, LG4 ou LG6.
+- **Imagens da loja geradas por IA:** o Bruno liberou em 13/11/2026 ("Se a imagem de IA é da própria empresa, não podemos fazer nada. Pode usar."). As legendas dizem "Imagem: La Ganexa." e os alts, "imagem publicada pela loja", porque os arquivos são renders da loja, não fotos.
+- **CDN:** as sete imagens subiram em 13/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
+

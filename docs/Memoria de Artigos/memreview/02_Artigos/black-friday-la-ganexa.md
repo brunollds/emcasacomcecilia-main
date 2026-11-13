@@ -176,4 +176,5 @@ C1: 0 "R$" na resposta rápida. C2: 2 datas no corpo e nenhuma em título, legen
 - Título: "Black Friday La Ganexa 2026: o que está em oferta e como o cupom entra". seoTitle: "Black Friday La Ganexa 2026: ofertas e cupom CECILIA".
 - Pendente: quando a loja trocar o Esquenta pela Black Friday, reler a home, os preços da tabela e se há regulamento ou datas. O texto fala do Esquenta e dos preços lidos em 13/11.
 - Pendente: revisão mensal de dezembro de 2026.
+- No PR do LG4 e do LG5: o LG4 entrou nos relacionados.
 - No PR do LG2 e do LG3: os dois entram nos relacionados; a frase do preço “de” ganha o link para o LG2, e o fim da troca, o link para o LG3. A mesma frase da troca trocou "Abra a caixa assim que ela chegar" por "Confira a caixa no dia da entrega": a loja orienta não abrir a embalagem avariada, a correção que o Job 3 fez no LG3.

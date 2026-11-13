@@ -166,4 +166,4 @@ C1: 0 "R$" na resposta rápida (57 palavras, 3 frases). C2: 1 data no corpo ("de
 - Smoke: a página com 200, o og:image na capa pelo CDN, as imagens do corpo pelo CDN e nenhum "PROVISÓRIO" no HTML; sitemap e llms.txt com o artigo; `covers:check` ok; IndexNow com 10 URLs (os quatro artigos da La Ganexa, `/reviews`, `/reviews/loja/la-ganexa`, que passou a existir com os quatro artigos, a home, `/cupons/la-ganexa`, sitemap e llms.txt); captura 43460954400 disparada, à espera da aprovação do Bruno.
 - Título: "La Ganexa é confiável? De onde é, site oficial, entrega e trocas". seoTitle: "La Ganexa é confiável? De onde é, site oficial e trocas".
 - Pendente: revisão mensal de dezembro de 2026: reler as políticas de frete e de troca, o FAQ e o rodapé.
-- Pendente: o link para o LG5 (`la-ganexa-e-boa`) entra quando ele for ao ar.
+- No PR do LG4 e do LG5: o capítulo "Os produtos e a saúde" ganhou o link para o LG5 ("O que cada pote declara, sabor por sabor, está em La Ganexa é boa?"), que também entrou nos relacionados.

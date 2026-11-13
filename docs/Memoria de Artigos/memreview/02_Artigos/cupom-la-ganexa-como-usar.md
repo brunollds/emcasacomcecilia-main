@@ -215,4 +215,4 @@ C1: 0 "R$" na resposta rápida. C2: 1 data no corpo e nenhuma em título, legend
 - Smoke: a página com 200, o og:image na capa `-capa-v2`, as duas fotos do corpo pelo CDN e nenhuma referência às fotos antigas; sitemap e llms.txt com o artigo; `covers:check` ok; IndexNow com 7 URLs (os dois artigos, `/reviews`, a home, `/cupons/la-ganexa`, sitemap e llms.txt); captura 43452862558 disparada, à espera da aprovação do Bruno.
 - Título: "Como usar o cupom CECILIA na La Ganexa: 10% OFF, inclusive em promoção". seoTitle: "Cupom La Ganexa: como usar o CECILIA, 10% OFF".
 - Pendente: revisão mensal de dezembro de 2026: reler o CECILIA no checkout, o frete grátis por região, as regras das promoções (os dois kits que não acumulam e o brinde acima de R$ 180) e os preços do carrinho do teste.
-- Pendente: o capítulo "Vale para quem já comprou?" volta, com o link, quando o LG4 for publicado. O LG3 e o LG2 entraram nos relacionados no PR deles.
+- No PR do LG4 e do LG5: o capítulo "Vale para quem já comprou?" voltou, antes do FAQ, com duas frases e o link para o LG4, que também entrou nos relacionados. O LG3 e o LG2 entraram nos relacionados no PR deles.
