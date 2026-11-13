@@ -2,29 +2,138 @@
 titulo_provisorio: "Dr. Peanut ou La Ganexa: qual pasta de amendoim escolher (rótulo, proteína e preço por 100 g)"
 seo_title: "Dr. Peanut ou La Ganexa: qual pasta de amendoim escolher"
 slug_sugerido: "dr-peanut-ou-la-ganexa"
-parceiro: "[[Dr-Peanut]]"
+parceiro: "[[Dr-Peanut]] e [[La-Ganexa]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
 status: "publicado"
-responsavel: "-"
-proxima_acao: "reler preços na Black Friday"
+responsavel: "Claude"
+proxima_acao: "revisão LG7 (Job 2): comparativo neutro das duas parceiras, na mesma URL"
 bloqueado_por: null
 score_autoridade: 66
 score_conversao: 80
 score_ponderado_total: 79
 data_criacao: "2026-10-24"
+pauta_id: "A5; revisão LG7 em 13/11/2026"
 i18n_cluster: null
 translationKey: null
 modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
-affiliate: "dr-peanut"
-coupon: "DREMCASACOMCECILIA"
+affiliate: ["dr-peanut", "la-ganexa"]
+coupon: null
 ---
 
 # Briefing de Pauta: Dr. Peanut ou La Ganexa
+
+## Revisão LG7 (13/11/2026): comparativo neutro entre as duas parceiras
+
+**GO do Bruno, 13/11:** a La Ganexa virou parceira (CECILIA, 10%, `/cupons/la-ganexa`), e o artigo de 25/10 a trata como
+concorrente, sem link e sem cupom. A revisão faz dele "um artigo comparativo até mais neutro pras 2" (Bruno). Fatos da
+La Ganexa em [[la-ganexa-fatos-1311]] e no dossiê [[La-Ganexa]]; regras do pacote da La Ganexa em
+[[cupom-la-ganexa-como-usar]]; Dr. Peanut no dossiê [[Dr-Peanut]] e em `couponsData.ts`.
+
+**Esta seção manda.** O briefing original (A5), abaixo, fica como histórico e como base dos dados de rótulo de 24/10.
+Onde ele diz "La Ganexa sem link, sem cupom, sem foto", "comparação com a Dr. Peanut com cupom e a La Ganexa sem" ou
+"cashback da concorrente fora", vale o que está aqui.
+
+### Por que a mesma URL, e o que não pode mudar
+
+- `dr-peanut-ou-la-ganexa` é o 1º resultado do Google em português para "dr peanut ou la ganexa" (13/11/2026), à
+  frente de vídeos, listas de "melhores pastas" e fóruns. A revisão mantém a URL, o título (H1) e o `seoTitle`, que
+  respondem a busca.
+- O eixo continua o mesmo, e é o que dá a posição: rótulo por 100 g (proteína, açúcares, polióis, lactose,
+  adoçantes) e preço por 100 g, com o veredito por perfil e sem vencedora geral. O que muda é o preço: agora com o
+  código das duas.
+
+### Formato: artigo de várias lojas (confirmado)
+
+- `affiliate: ["dr-peanut", "la-ganexa"]`, **sem `coupon` e sem `cta`** ([[project-artigo-varias-lojas]];
+  `scripts/multi-store-checks.ts`). As duas lojas são de código comum (`offerMode: 'discount-code'`, sem `codeKind` e
+  sem faixas), então cabem no formato. O artigo é só PT, sem `translationKey`.
+- O topo, a lateral e o fim mostram uma linha por loja (`ArticleStoreCodes`), sem banners de campanha. Link de seção,
+  foto com link e peça de card levam `store`.
+- **Link da La Ganexa:** não há link de afiliado; o `offerUrl` dela é o site oficial. Os links de produto da La Ganexa
+  vão para as páginas de produto do site oficial, com `store: "la-ganexa"`.
+- **metaDescription à mão** (o `checkSnippet` não vale sem `coupon`), com os dois códigos. Rascunho: "DREMCASACOMCECILIA
+  (10%) na Dr. Peanut e CECILIA (10%) na La Ganexa: qual pasta de amendoim escolher pelo rótulo e pelo preço por
+  100 g." (136 caracteres; o primeiro código termina no caractere 18.)
+- **editorialNote:** "Podemos receber comissão pelas duas lojas. Sem degustação: comparamos rótulo e preço." Sai o "A La
+  Ganexa não é parceira".
+- **description** (subtítulo): sai a data e o "cupom da Dr. Peanut". Rascunho: "Dr. Peanut ou La Ganexa comparadas pelo
+  rótulo, pela proteína, pela lactose e pelo preço por 100 g, já com o código de cada loja." (129 caracteres.)
+- **relatedArticles:** um da Dr. Peanut ([[dr-peanut-melhor-sabor]]) e os da La Ganexa que já estiverem no ar
+  ([[la-ganexa-e-boa]] primeiro). O artigo de várias lojas entra na estante das duas lojas sozinho.
+
+### O que muda no texto
+
+1. **Preço por 100 g com o código das duas,** lido na semana do texto, no preço do dia de cada site (as duas somam o
+   código com a promoção). Tabela no modelo atual (pote menor e pote maior, uma coluna por loja), agora com o preço com o
+   código das duas. A lista "sabor contra sabor" é refeita do zero: a de 25/10 punha a Dr. Peanut com 10% contra a La
+   Ganexa sem cupom, e muitas conclusões mudam com os 10% dos dois lados (exemplo: a vantagem da Dr. Peanut de 250 g
+   contra os potes com sabor de 450 g da La Ganexa precisa ser refeita).
+2. **Veredito por perfil, sem vencedora geral, refeito com os preços novos.** Os perfis de rótulo (só amendoim,
+   vegana, sem lactose, sem edulcorante, mais proteína, menos sódio) seguem iguais se os rótulos não mudaram. Os de
+   preço ("pote grande mais barato", "pote pequeno com sabor") saem da conta nova.
+3. **Quadro `decision` neutro:** hoje o `takeIf` e o `skipIf` misturam as duas marcas ("Passe se quer o pote grande
+   mais barato: a Dr. Peanut perde..."). Passa a ser por marca e por perfil, com o mesmo tom para as duas, por exemplo
+   "Leve a La Ganexa se quer pasta só de amendoim, sem adoçante ou sem lactose" e "Leve a Dr. Peanut se quer o mesmo
+   preço em todos os sabores e pote pequeno de sobremesa", e o `skipIf` com o que não serve a ninguém das duas (por
+   exemplo, quem evita maltitol e sucralose e quer sabor doce). Frases sem "R$", de 1 a 3 por lado.
+4. **FAQ:** sai "A La Ganexa tem cupom do site?". Entram "Tem cupom para as duas?" (sim, os dois códigos, 10% cada, em
+   pedidos separados: são duas lojas) e "Os cupons somam com a promoção?" (sim, nas duas; na La Ganexa, a regra dos
+   dois kits marcados como não cumulativos, com o resultado do teste). As outras perguntas ficam, com as respostas
+   relidas.
+5. **Frete, nas duas, contado depois do cupom:** Dr. Peanut grátis a partir de R$ 149,90 no Sul e no Sudeste e de
+   R$ 199,90 no Centro-Oeste, no Norte e no Nordeste ([[Dr-Peanut]] e `couponsData.ts`, frete relido em 12/11);
+   La Ganexa acima de R$ 250 no Sul e no Sudeste e de R$ 350 nas demais regiões. Uma frase: o pote de 1 kg
+   da La Ganexa e o de 600 g da Dr. Peanut chegam ao mínimo de formas diferentes; sem conta de frete por pedido.
+6. **Fotos e imagens:** a La Ganexa ganha foto oficial dos potes (CDN da loja), com `href` e `store: "la-ganexa"`. O
+   quadro de preço por 100 g (`dr-peanut-ou-la-ganexa-quadro-preco-100g.webp`) e a capa precisam ser refeitos (Job 6):
+   a capa nova leva as duas marcas e os dois códigos, sem dizer qual é melhor.
+7. **Fontes:** a La Ganexa passa a ter link nas Fontes (site oficial e páginas de produto).
+
+### O que não muda (regras que seguem)
+
+- **Sem degustação:** a Cecília não usou produto da La Ganexa (Bruno, 13/11), e o artigo de 25/10 já era sem
+  degustação. Nada de "mais gostosa" ou "mais cremosa" para nenhuma das duas.
+- **Saúde:** só rótulo. "Zero açúcar" das duas vira "sem adição de açúcar", com os açúcares totais ao lado; nada de
+  "saudável", "engorda", "fit", "ganho de massa".
+- **Cashback das duas e cupons próprios das lojas:** fora. O cashback de 5% da La Ganexa não entra, nem como soma.
+- **Pix:** fora das contas. A La Ganexa não dá desconto a mais no Pix (Bruno, 13/11); o da Dr. Peanut só entra se a
+  releitura mostrar e se o carrinho confirmar a soma com o código.
+- **Uma marca por artigo nos outros textos:** este é o único lugar em que as duas parceiras se comparam.
+- **Catraca:** até 2 datas no corpo, nenhuma em título, legenda ou FAQ. O slug não está nas
+  listas de antes da regra (`review-prose-baseline.json` e `review-snippet-baseline.json`): a catraca vale inteira.
+
+### Leituras (no navegador, sem login)
+
+1. Dr. Peanut: a listagem de pastas (sabores, tamanhos, preço do dia) e uma tabela por sabor para conferir se mudou
+   desde 16/10. O Chocolate Branco tinha sumido da listagem em 24/10: conferir.
+2. La Ganexa: o catálogo de pastas (sabores, tamanhos, preço do dia) e as abas "Tabela Nutricional" dos sabores da
+   tabela de 24/10. Se o `/products.json` limitar, parar e usar o Chrome, como em 24/10.
+3. Um carrinho com o código em cada loja, para o desconto do dia sobre o preço promocional.
+4. As duas políticas de frete.
+5. O topo do Google para "dr peanut ou la ganexa" depois da publicação, para ver se a posição se manteve.
+
+### Matriz de claims da revisão
+
+| Afirmação | Fonte | Status |
+|---|---|---|
+| CECILIA, 10%, soma com promoção; cliente novo e antigo | `couponsData.ts` (`la-ganexa`); teste de 13/11 | verificado |
+| DREMCASACOMCECILIA, 10%, soma com promoção | `couponsData.ts` (`dr-peanut`) | verificado |
+| Dois kits da La Ganexa "não cumulativos"; o checkout aceitou no Kit 2 Doce de Leite | regras da loja; teste de 13/11 | verificado; só se o texto falar de kit |
+| Frete: Dr. Peanut R$ 149,90 / R$ 199,90; La Ganexa R$ 250 / R$ 350; os dois depois do cupom | `couponsData.ts`; Bruno, 13/11 | verificado; reler |
+| Preços e tabelas por 100 g das duas | catálogos | a ler na semana do texto |
+| O artigo é o 1º do Google para "dr peanut ou la ganexa" | Google em português, 13/11 | verificado; contexto, não entra no texto |
+| Sabor, textura, "a melhor" | nenhuma fonte nossa | não escrever |
+
+---
+
+# Briefing original (A5, 24/10/2026), mantido como histórico
+
+Tudo abaixo é a pauta de quando a La Ganexa não era parceira. Onde contradiz a revisão LG7, vale a LG7.
 
 Pauta A5 da seção "Afiliados com poucas vendas" da [[Fila-de-Pautas]]. Parada em 23/10/2026 porque o site antigo da La Ganexa (`laganexa.com.br`) devolvia erro 525; em 24/10 o domínio seguia fora do ar, e o Bruno achou a loja oficial nova, `lojalaganexa.com.br` (Shopify). Formato da série 1 a 1 (`<marca>-ou-growth`, [[skelt-ou-best-bronze]]): a parceira contra uma marca não parceira, pelo rótulo e pelo preço, com o texto justo onde a outra ganha. Base da Dr. Peanut: [[dr-peanut-melhor-sabor]] (tabelas por sabor, seção 9.1, lidas em 16/10/2026).
 
