@@ -1338,6 +1338,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/about/partners/laganexa-icon.png",
+      "local_url": "/images/about/partners/laganexa-icon.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 25080,
+      "sha256": "b0b8e53850cdbffab6f80c5b31d967f603edd51d5bd48be5a6391d73003887ab",
+      "width": 256,
+      "height": 256,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "laganexa-icon.png",
+      "storage_filename": "laganexa-icon.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/La-Ganexa.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/La-Ganexa.md",
+          "line": 73,
+          "column": 66,
+          "literal": "/images/about/partners/laganexa-icon.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 3449,
+          "column": 17,
+          "literal": "/images/about/partners/laganexa-icon.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b0b8e53850cdbffab6f80c5b31d967f603edd51d5bd48be5a6391d73003887ab/laganexa-icon.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b0b8e53850cdbffab6f80c5b31d967f603edd51d5bd48be5a6391d73003887ab/laganexa-icon.png",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T12:35:15.929Z",
+      "verification_etag_or_digest": "b0b8e53850cdbffab6f80c5b31d967f603edd51d5bd48be5a6391d73003887ab",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/about/partners/laganexa.png",
+      "local_url": "/images/about/partners/laganexa.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 15345,
+      "sha256": "f8acf9817830e8bc0eb70e29b617160813f2ad07b6c39bb041e344f972556bff",
+      "width": 136,
+      "height": 88,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "laganexa.png",
+      "storage_filename": "laganexa.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/La-Ganexa.md",
+        "src/lib/aboutPage.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/La-Ganexa.md",
+          "line": 73,
+          "column": 10,
+          "literal": "/images/about/partners/laganexa.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/aboutPage.ts",
+          "line": 84,
+          "column": 30,
+          "literal": "/images/about/partners/laganexa.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f8acf9817830e8bc0eb70e29b617160813f2ad07b6c39bb041e344f972556bff/laganexa.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f8acf9817830e8bc0eb70e29b617160813f2ad07b6c39bb041e344f972556bff/laganexa.png",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T12:35:15.930Z",
+      "verification_etag_or_digest": "f8acf9817830e8bc0eb70e29b617160813f2ad07b6c39bb041e344f972556bff",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/about/partners/laticinios-ubari.jpg",
       "local_url": "/images/about/partners/laticinios-ubari.jpg",
       "media_kind": "image",
@@ -2928,6 +3020,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T19:30:51.016Z",
       "verification_etag_or_digest": "64dc3f5be178b07d3f845decff4dbbbb05a980ce446f84ecde674777f8059329",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/bolinhas/laganexa.png",
+      "local_url": "/images/logos/bolinhas/laganexa.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 63279,
+      "sha256": "000ea2dbdf9091eef20c7cd466901b2bf75cc668f7f831056a2e3b93729cdab5",
+      "width": 512,
+      "height": 512,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "laganexa.png",
+      "storage_filename": "laganexa.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/La-Ganexa.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/La-Ganexa.md",
+          "line": 74,
+          "column": 13,
+          "literal": "/images/logos/bolinhas/laganexa.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 3451,
+          "column": 21,
+          "literal": "/images/logos/bolinhas/laganexa.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/000ea2dbdf9091eef20c7cd466901b2bf75cc668f7f831056a2e3b93729cdab5/laganexa.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/000ea2dbdf9091eef20c7cd466901b2bf75cc668f7f831056a2e3b93729cdab5/laganexa.png",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T12:35:15.930Z",
+      "verification_etag_or_digest": "000ea2dbdf9091eef20c7cd466901b2bf75cc668f7f831056a2e3b93729cdab5",
       "verification_status": "verified"
     },
     {
@@ -23356,6 +23494,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-05T19:55:06.188Z",
       "verification_etag_or_digest": "003b7121e83b2ecb27bf3d80f806cfa2270fba28b1b5ca5a29a46880b3abb2f9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/watermarks/laganexa.webp",
+      "local_url": "/images/logos/watermarks/laganexa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23348,
+      "sha256": "d5636bbcb25ddf8571eb207a62a7092c8c87ffa3c571efe6c9e5124341a051b8",
+      "width": 480,
+      "height": 309,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "laganexa.webp",
+      "storage_filename": "laganexa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/La-Ganexa.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/La-Ganexa.md",
+          "line": 74,
+          "column": 66,
+          "literal": "/images/logos/watermarks/laganexa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 3452,
+          "column": 22,
+          "literal": "/images/logos/watermarks/laganexa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d5636bbcb25ddf8571eb207a62a7092c8c87ffa3c571efe6c9e5124341a051b8/laganexa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d5636bbcb25ddf8571eb207a62a7092c8c87ffa3c571efe6c9e5124341a051b8/laganexa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T12:35:15.930Z",
+      "verification_etag_or_digest": "d5636bbcb25ddf8571eb207a62a7092c8c87ffa3c571efe6c9e5124341a051b8",
       "verification_status": "verified"
     },
     {
@@ -95278,6 +95462,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-13T03:46:35.514Z",
       "verification_etag_or_digest": "5734842e67aecaded75e7595aaf564b694146a2ce0aa3e827dfa0c9891cdafd6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/laganexa/cupom-laganexa-checkout-com-cupom.webp",
+      "local_url": "/images/reviews/laganexa/cupom-laganexa-checkout-com-cupom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 7486,
+      "sha256": "f77fd18f4cfb16843b38bf80f9f16854ef051ca5e82997fafc19cc4e32064e36",
+      "width": 349,
+      "height": 237,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-laganexa-checkout-com-cupom.webp",
+      "storage_filename": "cupom-laganexa-checkout-com-cupom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/La-Ganexa.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/La-Ganexa.md",
+          "line": 75,
+          "column": 33,
+          "literal": "/images/reviews/laganexa/cupom-laganexa-checkout-com-cupom.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 3444,
+          "column": 24,
+          "literal": "/images/reviews/laganexa/cupom-laganexa-checkout-com-cupom.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f77fd18f4cfb16843b38bf80f9f16854ef051ca5e82997fafc19cc4e32064e36/cupom-laganexa-checkout-com-cupom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f77fd18f4cfb16843b38bf80f9f16854ef051ca5e82997fafc19cc4e32064e36/cupom-laganexa-checkout-com-cupom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T12:35:15.930Z",
+      "verification_etag_or_digest": "f77fd18f4cfb16843b38bf80f9f16854ef051ca5e82997fafc19cc4e32064e36",
       "verification_status": "verified"
     },
     {

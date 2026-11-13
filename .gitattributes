@@ -54,6 +54,8 @@ public/images/about/partners/insider-icon.png -text export-ignore
 public/images/about/partners/insider.png -text export-ignore
 public/images/about/partners/itatiaia.webp -text export-ignore
 public/images/about/partners/kopenhagen.jpg -text export-ignore
+public/images/about/partners/laganexa-icon.png -text export-ignore
+public/images/about/partners/laganexa.png -text export-ignore
 public/images/about/partners/laticinios-ubari.jpg -text export-ignore
 public/images/about/partners/lejour-icon.png -text export-ignore
 public/images/about/partners/lejour.png -text export-ignore
@@ -98,6 +100,7 @@ public/images/logos/bolinhas/holyfoods.png -text export-ignore
 public/images/logos/bolinhas/hostinger.png -text export-ignore
 public/images/logos/bolinhas/i-wanna-sleep.png -text export-ignore
 public/images/logos/bolinhas/insider.png -text export-ignore
+public/images/logos/bolinhas/laganexa.png -text export-ignore
 public/images/logos/bolinhas/lejour.png -text export-ignore
 public/images/logos/bolinhas/letseatit.png -text export-ignore
 public/images/logos/bolinhas/magalu.png -text export-ignore
@@ -124,6 +127,7 @@ public/images/logos/watermarks/holyfoods.webp -text export-ignore
 public/images/logos/watermarks/hostinger.webp -text export-ignore
 public/images/logos/watermarks/i-wanna-sleep.webp -text export-ignore
 public/images/logos/watermarks/insider.webp -text export-ignore
+public/images/logos/watermarks/laganexa.webp -text export-ignore
 public/images/logos/watermarks/lejour.webp -text export-ignore
 public/images/logos/watermarks/letseatit.webp -text export-ignore
 public/images/logos/watermarks/magalu.webp -text export-ignore
@@ -1445,6 +1449,7 @@ public/images/reviews/iwannasleep/travesseiro-snow-hero.webp -text export-ignore
 public/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex-v2.webp -text export-ignore
 public/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex.webp -text export-ignore
 public/images/reviews/iwannasleep/travesseiros-teste-troca-garantia.webp -text export-ignore
+public/images/reviews/laganexa/cupom-laganexa-checkout-com-cupom.webp -text export-ignore
 public/images/reviews/lejour/black-friday-lejour-capa-discover.webp -text export-ignore
 public/images/reviews/lejour/black-friday-lejour-capa-v2.webp -text export-ignore
 public/images/reviews/lejour/black-friday-lejour-home.webp -text export-ignore

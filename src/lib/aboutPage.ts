@@ -81,6 +81,7 @@ const PARTNERS: AboutPartner[] = [
   { name: 'HolyFoods', src: '/images/about/partners/holyfoods.png', href: 'https://holyfoods.com.br' },
   { name: 'Petz', src: '/images/about/partners/petz.png', href: 'https://www.petz.com.br' },
   { name: 'Prohall', src: '/images/about/partners/prohall.png', href: 'https://lojaprohall.com.br' },
+  { name: 'La Ganexa', src: '/images/about/partners/laganexa.png', href: 'https://lojalaganexa.com.br' },
 ];
 
 const PORTUGUESE_LONG_DATE = new Intl.DateTimeFormat('pt-BR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
