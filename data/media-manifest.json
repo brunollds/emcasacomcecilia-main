@@ -66545,6 +66545,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-capa-v3.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-capa-v3.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 216358,
+      "sha256": "9bab6042abaaa7223c65dde1504fc58b7cc83426b6513fdb63a5b2b3f696a099",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-ou-la-ganexa-capa-v3.webp",
+      "storage_filename": "dr-peanut-ou-la-ganexa-capa-v3.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-ou-la-ganexa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-ou-la-ganexa.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-capa-v3.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 125400,
+          "column": 15,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-capa-v3.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9bab6042abaaa7223c65dde1504fc58b7cc83426b6513fdb63a5b2b3f696a099/dr-peanut-ou-la-ganexa-capa-v3.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9bab6042abaaa7223c65dde1504fc58b7cc83426b6513fdb63a5b2b3f696a099/dr-peanut-ou-la-ganexa-capa-v3.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T18:13:04.285Z",
+      "verification_etag_or_digest": "9bab6042abaaa7223c65dde1504fc58b7cc83426b6513fdb63a5b2b3f696a099",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-capa.webp",
       "local_url": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-capa.webp",
       "media_kind": "image",
@@ -66573,6 +66619,144 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-dr-peanut-doce-de-leite.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-dr-peanut-doce-de-leite.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 74432,
+      "sha256": "01e0ceeddd038c9158a9d866f00aab098835cb23602fb6fcfecc3b62564c8601",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-ou-la-ganexa-dr-peanut-doce-de-leite.webp",
+      "storage_filename": "dr-peanut-ou-la-ganexa-dr-peanut-doce-de-leite.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-ou-la-ganexa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-ou-la-ganexa.json",
+          "line": 374,
+          "column": 19,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-dr-peanut-doce-de-leite.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 125750,
+          "column": 21,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-dr-peanut-doce-de-leite.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/01e0ceeddd038c9158a9d866f00aab098835cb23602fb6fcfecc3b62564c8601/dr-peanut-ou-la-ganexa-dr-peanut-doce-de-leite.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/01e0ceeddd038c9158a9d866f00aab098835cb23602fb6fcfecc3b62564c8601/dr-peanut-ou-la-ganexa-dr-peanut-doce-de-leite.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T18:13:04.286Z",
+      "verification_etag_or_digest": "01e0ceeddd038c9158a9d866f00aab098835cb23602fb6fcfecc3b62564c8601",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-la-ganexa-creme-de-avela.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-la-ganexa-creme-de-avela.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 72864,
+      "sha256": "e6b3c39cbb0e6b06a811bc533db6aa8b82256fbf2ccc64e4c0f57940816460a6",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-ou-la-ganexa-la-ganexa-creme-de-avela.webp",
+      "storage_filename": "dr-peanut-ou-la-ganexa-la-ganexa-creme-de-avela.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-ou-la-ganexa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-ou-la-ganexa.json",
+          "line": 383,
+          "column": 19,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-la-ganexa-creme-de-avela.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 125759,
+          "column": 21,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-la-ganexa-creme-de-avela.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e6b3c39cbb0e6b06a811bc533db6aa8b82256fbf2ccc64e4c0f57940816460a6/dr-peanut-ou-la-ganexa-la-ganexa-creme-de-avela.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e6b3c39cbb0e6b06a811bc533db6aa8b82256fbf2ccc64e4c0f57940816460a6/dr-peanut-ou-la-ganexa-la-ganexa-creme-de-avela.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T18:13:04.286Z",
+      "verification_etag_or_digest": "e6b3c39cbb0e6b06a811bc533db6aa8b82256fbf2ccc64e4c0f57940816460a6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-la-ganexa-doce-de-leite-com-castanha.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-la-ganexa-doce-de-leite-com-castanha.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 168862,
+      "sha256": "9e706d8c752c9f22e8580017482bf1939735e40af5f2105be14974f917f2d756",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-ou-la-ganexa-la-ganexa-doce-de-leite-com-castanha.webp",
+      "storage_filename": "dr-peanut-ou-la-ganexa-la-ganexa-doce-de-leite-com-castanha.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-ou-la-ganexa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-ou-la-ganexa.json",
+          "line": 310,
+          "column": 19,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-la-ganexa-doce-de-leite-com-castanha.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 125686,
+          "column": 21,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-la-ganexa-doce-de-leite-com-castanha.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9e706d8c752c9f22e8580017482bf1939735e40af5f2105be14974f917f2d756/dr-peanut-ou-la-ganexa-la-ganexa-doce-de-leite-com-castanha.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9e706d8c752c9f22e8580017482bf1939735e40af5f2105be14974f917f2d756/dr-peanut-ou-la-ganexa-la-ganexa-doce-de-leite-com-castanha.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T18:13:04.286Z",
+      "verification_etag_or_digest": "9e706d8c752c9f22e8580017482bf1939735e40af5f2105be14974f917f2d756",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-pote-buenissimo-600g.webp",
       "local_url": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-pote-buenissimo-600g.webp",
       "media_kind": "image",
@@ -66598,6 +66782,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-25T20:41:44.781Z",
       "verification_etag_or_digest": "9df287130fb98b8669b6b5bbcbb12b2d5332e4bb38b75cddd16572b17de3aa09",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-quadro-preco-100g-v2.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-quadro-preco-100g-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 66020,
+      "sha256": "bdc1bd44433f4851545f1d13b660e600ddf1d1441e3d79141a38776b3202679f",
+      "width": 1200,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-ou-la-ganexa-quadro-preco-100g-v2.webp",
+      "storage_filename": "dr-peanut-ou-la-ganexa-quadro-preco-100g-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-ou-la-ganexa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-ou-la-ganexa.json",
+          "line": 332,
+          "column": 17,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-quadro-preco-100g-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 125708,
+          "column": 19,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-quadro-preco-100g-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bdc1bd44433f4851545f1d13b660e600ddf1d1441e3d79141a38776b3202679f/dr-peanut-ou-la-ganexa-quadro-preco-100g-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bdc1bd44433f4851545f1d13b660e600ddf1d1441e3d79141a38776b3202679f/dr-peanut-ou-la-ganexa-quadro-preco-100g-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-13T18:13:04.286Z",
+      "verification_etag_or_digest": "bdc1bd44433f4851545f1d13b660e600ddf1d1441e3d79141a38776b3202679f",
       "verification_status": "verified"
     },
     {
