@@ -7,9 +7,9 @@ parceiro_slug: "prohall"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "em-conformacao-json"
-responsavel: "Job-2 (Claude Fable 5.2)"
-proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
+status: "no-ar"
+responsavel: "-"
+proxima_acao: "revisão mensal de dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PH3"
@@ -154,8 +154,15 @@ Passou. Sem nome de pessoa, sem Anvisa, sem afirmar nada sobre anúncio de marke
 - C1: 0 "R$" na resposta rápida (50 palavras). Datas do corpo: só o período do Reclame Aqui. Snippet com 137 caracteres, código até o caractere 9.
 - Skill de copywriting aplicada: a primeira frase de cada capítulo responde; frases verificáveis, sem "não é X, é Y".
 
-## Capa e imagens (Job 6; aprovação do Bruno pendente)
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 12/11/2026)
 
 - **Capa:** `/images/reviews/prohall/prohall-e-confiavel-capa.webp`, painel lateral com o logo e a chamada "Prohall é confiável? CNPJ, site e trocas". Recorte da foto oficial do Select One 1 L, sem o selo de brinde.
 - **Quem é a Prohall:** `prohall-e-confiavel-cronograma-capilar-premium.webp` (foto oficial, `href` para o produto). O print do rodapé com o CNPJ não saiu: o navegador não capturou a tela.
 - Origem: fotos oficiais do CDN da loja (cdn.shopify.com), lidas em 12/11/2026; logo de `/images/about/partners/prohall.png`. Sem IA.
+
+## Publicação (12/11/2026)
+
+- No ar em 12/11/2026, id 935: PR #940 (squash `4320a43e`), release `4320a43e` (deploy cb87ba96, build 01a1d261), só PT. Smoke: a página com 200, título, capa pelo CDN e fotos do corpo; sitemap e llms.txt com o artigo; `covers:check` ok; IndexNow no lote do release (11 URLs); captura 43340697881 aprovada pelo Bruno.
+- Título: "Prohall é confiável? CNPJ, site oficial, entrega e trocas". seoTitle: "Prohall é confiável? CNPJ, site oficial e trocas".
+- Pendente: Frete grátis: o FAQ da loja diz R$ 199 para todo o Brasil e a página de pagamento traz mínimos por região; o texto cita as duas. O Bruno não sabe qual vale (12/11) e imagina que acima de R$ 199 é grátis no Brasil todo.
+- Pendente: Nome do app e consulta à Anvisa: não lidos, fora do texto.

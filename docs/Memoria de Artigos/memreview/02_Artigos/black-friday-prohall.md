@@ -7,9 +7,9 @@ parceiro_slug: "prohall"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "em-conformacao-json"
-responsavel: "Job-2 (Claude Fable 5.2)"
-proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
+status: "no-ar"
+responsavel: "-"
+proxima_acao: "revisão mensal de dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PH6"
@@ -152,7 +152,15 @@ Passou. Sempre "até 10%"; sem data de início ou de fim de campanha; sem lista 
 - C1: 0 "R$" na resposta rápida. C2: 1 data no corpo. C3, C4, C5: 0. Snippet: 143 caracteres, código até o caractere 9, "até 10%" na primeira frase. Subtítulo: 146.
 - Skill de copywriting aplicada (situação B: briefing com ângulo e rascunho): frases curtas e verificáveis, a primeira frase de cada capítulo responde, sem "não é X, é Y" e sem lista de negações.
 
-## Capa e imagens (Job 6; aprovação do Bruno pendente)
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 12/11/2026)
 
 - **Capa:** `/images/reviews/prohall/black-friday-prohall-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo, a chamada "Black Friday Prohall 2026", "o cupom soma" e o CECILIAMC. Foto oficial do Cronograma Capilar Premium (CDN da loja). Sem IA.
 - **O que está em oferta:** três fotos oficiais quadradas, cada uma com `href` para a página do produto no site oficial: `black-friday-prohall-select-one-1l.webp` (recorte da foto oficial, sem o selo de brinde), `black-friday-prohall-btx-blend-repair-300g.webp` e `black-friday-prohall-kit-force-hair.webp`.
+
+## Publicação (12/11/2026)
+
+- No ar em 12/11/2026, id 932: PR #939 (squash `acbf3f07`), release `4320a43e` (deploy cb87ba96, build 01a1d261), só PT. Smoke: a página com 200, título, capa pelo CDN e fotos do corpo; sitemap e llms.txt com o artigo; `covers:check` ok; IndexNow no lote do release (11 URLs); captura 43340697881 aprovada pelo Bruno.
+- Título: "Black Friday Prohall 2026: o que está em oferta e como o cupom entra". seoTitle: "Black Friday Prohall 2026: ofertas e cupom CECILIAMC".
+- Pendente: Reler a coleção e os seis preços da tabela na semana da Black Friday (27/11).
+- Pendente: Quando a coleção sair do ar: virar guia de 2027 ou despublicar.
+- Pendente: Brindes por valor do pedido ("compre e ganhe"): regra não lida, fora do texto.

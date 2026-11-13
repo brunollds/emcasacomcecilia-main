@@ -7,9 +7,9 @@ parceiro_slug: "prohall"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "em-conformacao-json"
-responsavel: "Job-2 (Claude Fable 5.2)"
-proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
+status: "no-ar"
+responsavel: "-"
+proxima_acao: "revisão mensal de dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PH4"
@@ -164,8 +164,14 @@ Passou. Nenhum benefício da própria loja: sem cupom da loja, cashback, Clube o
 - C1: 0 "R$" na resposta rápida. C2: 1 data no corpo. Snippet com 137 caracteres, código até o caractere 48, "até 10%" na primeira frase.
 - Skill de copywriting aplicada: a primeira frase de cada capítulo responde; frases verificáveis, sem "não é X, é Y".
 
-## Capa e imagens (Job 6; aprovação do Bruno pendente)
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 12/11/2026)
 
 - **Capa:** `/images/reviews/prohall/cupom-prohall-primeira-compra-capa.webp`, painel lateral com o logo, a chamada "Cupom Prohall primeira compra", "até 10% OFF" e o CECILIAMC. Foto oficial do Kit Force Hair.
 - **Onde colar o código:** o print do `cartPrint` da página de cupom, já no site. Sem foto nova no corpo.
 - Origem: fotos oficiais do CDN da loja (cdn.shopify.com), lidas em 12/11/2026; logo de `/images/about/partners/prohall.png`. Sem IA.
+
+## Publicação (12/11/2026)
+
+- No ar em 12/11/2026, id 933: PR #940 (squash `4320a43e`), release `4320a43e` (deploy cb87ba96, build 01a1d261), só PT. Smoke: a página com 200, título, capa pelo CDN e fotos do corpo; sitemap e llms.txt com o artigo; `covers:check` ok; IndexNow no lote do release (11 URLs); captura 43340697881 aprovada pelo Bruno.
+- Título: "Cupom Prohall primeira compra: CECILIAMC dá até 10% OFF e vale nas compras seguintes". seoTitle: "Cupom Prohall primeira compra: até 10% OFF com CECILIAMC".
+- Pendente: Revisão mensal de dezembro de 2026: reler o percentual no checkout.

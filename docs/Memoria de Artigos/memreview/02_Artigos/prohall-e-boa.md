@@ -7,9 +7,9 @@ parceiro_slug: "prohall"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Marca"
-status: "em-conformacao-json"
-responsavel: "Job-2 (Claude Fable 5.2)"
-proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
+status: "no-ar"
+responsavel: "-"
+proxima_acao: "revisão mensal de dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PH5"
@@ -170,8 +170,15 @@ Passou. Toda descrição de efeito vem com "a marca declara", "a página" ou asp
 - C1: 0 "R$" na resposta rápida. C2: 1 data no corpo (a do teste), mais o período do Reclame Aqui. Snippet com código até o caractere 9 e "até 10%" na primeira frase. O `decision` não tem "R$".
 - Skill de copywriting aplicada: a primeira frase de cada capítulo responde; frases verificáveis, sem "não é X, é Y".
 
-## Capa e imagens (Job 6; aprovação do Bruno pendente)
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 12/11/2026)
 
 - **Capa:** `/images/reviews/prohall/prohall-e-boa-capa.webp`, painel lateral com o logo e a chamada "Prohall é boa? linhas e avaliações", sem nota e sem código. Montagem de duas fotos oficiais: Select One 1 L (sem o selo de brinde) e Kit Cuidado Capilar Diário Absolut One.
 - **O que a Prohall vende:** `prohall-e-boa-kit-absolut-one.webp`. **Select One, Burix One e Btx:** `prohall-e-boa-select-one-1l.webp`. As duas com `href` para o produto.
 - Origem: fotos oficiais do CDN da loja (cdn.shopify.com), lidas em 12/11/2026; logo de `/images/about/partners/prohall.png`. Sem IA.
+
+## Publicação (12/11/2026)
+
+- No ar em 12/11/2026, id 936: PR #940 (squash `4320a43e`), release `4320a43e` (deploy cb87ba96, build 01a1d261), só PT. Smoke: a página com 200, título, capa pelo CDN e fotos do corpo; sitemap e llms.txt com o artigo; `covers:check` ok; IndexNow no lote do release (11 URLs); captura 43340697881 aprovada pelo Bruno.
+- Título: "Prohall é boa? As linhas da marca, o que os clientes dizem e para quem vale a pena". seoTitle: "Prohall é boa? Linhas, avaliações e se vale a pena".
+- Pendente: A tabela separa por necessidade, não por "em casa ou profissional": o rótulo de uso profissional está também nos produtos de rotina.
+- Pendente: Reler o número de avaliações e os preços do capítulo "vale a pena" na revisão de dezembro de 2026.

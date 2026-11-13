@@ -7,9 +7,9 @@ parceiro_slug: "prohall"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "em-conformacao-json"
-responsavel: "Job-2 (Claude Fable 5.2)"
-proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
+status: "no-ar"
+responsavel: "-"
+proxima_acao: "revisão mensal de dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PH2"
@@ -149,8 +149,15 @@ Passou. Nenhuma frase liga produto a reação ou queda de cabelo; as queixas de 
 - C1: 0 "R$" na resposta rápida (52 palavras). Datas do corpo: só o período, na legenda da tabela e no histórico. Snippet com 139 caracteres, código até o caractere 9.
 - Skill de copywriting aplicada: a primeira frase de cada capítulo responde; frases verificáveis, sem "não é X, é Y".
 
-## Capa e imagens (Job 6; aprovação do Bruno pendente)
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 12/11/2026)
 
 - **Capa:** `/images/reviews/prohall/prohall-reclame-aqui-nota-reputacao-capa.webp`, painel lateral com o logo e a chamada "Prohall no Reclame Aqui, nota e reclamações", sem nota e sem código. Foto oficial do Btx Blend Repair.
 - **O que mais gera reclamação:** `prohall-reclame-aqui-burix-one-1l.webp` (recorte da foto oficial, sem o selo de brinde, `href` para o produto). O print do painel do Reclame Aqui não saiu: o navegador não capturou a tela.
 - Origem: fotos oficiais do CDN da loja (cdn.shopify.com), lidas em 12/11/2026; logo de `/images/about/partners/prohall.png`. Sem IA.
+
+## Publicação (12/11/2026)
+
+- No ar em 12/11/2026, id 934: PR #940 (squash `4320a43e`), release `4320a43e` (deploy cb87ba96, build 01a1d261), só PT. Smoke: a página com 200, título, capa pelo CDN e fotos do corpo; sitemap e llms.txt com o artigo; `covers:check` ok; IndexNow no lote do release (11 URLs); captura 43340697881 aprovada pelo Bruno.
+- Título: "Prohall no Reclame Aqui: nota, reputação e o que mais gera reclamação". seoTitle: "Prohall no Reclame Aqui: nota, reputação e reclamações".
+- Pendente: Os números mudam todo mês: reler o perfil na revisão de dezembro de 2026.
+- Pendente: Abas de 2025 e 2024 não lidas; o texto usa 6 e 12 meses. Print do painel não capturado.
