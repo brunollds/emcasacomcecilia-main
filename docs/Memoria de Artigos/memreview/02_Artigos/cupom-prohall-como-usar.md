@@ -7,9 +7,9 @@ parceiro_slug: "prohall"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "leituras no navegador; redação"
+status: "em-conformacao-json"
+responsavel: "Job-2 (Claude Fable 5.2)"
+proxima_acao: "Bruno aprovar a folha de imagens; upload ao CDN; PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-12"
 pauta_id: "PH1"
@@ -169,3 +169,29 @@ cupom (`/images/reviews/prohall/cupom-prohall-checkout-com-cupom.webp`, já no s
 | Cashback não junta com outros cupons | `/pages/cashback-prohall`, 12/11 | verificado; reler |
 | Até 10x sem juros, parcela mínima de R$ 20 | `/pages/formas-de-pagamento`, 12/11 | verificado; reler |
 | Cupom com o Clube; Moedas PH com o cupom | sem fonte oficial; sem teste | não escrever |
+
+## Leituras da redação (12/11/2026, navegador do app, sem login)
+
+- Checkout pelo link de carrinho, com o código na URL e sem informar e-mail: o desconto foi de 7% em seis produtos da coleção da Black Friday (Kit Cuidado Capilar Diário Absolut One, R$ 139,90 para R$ 130,11; Cronograma Capilar Premium, R$ 189,90 para R$ 176,61; Btx Blend Repair 300 g, R$ 62,90 para R$ 58,50; Select One 1 L, R$ 219,90 para R$ 204,51; Burix One 1 L, R$ 229,90 para R$ 213,81; Kit Force Hair, R$ 99,90 para R$ 92,91).
+- Pix no checkout, com o código aplicado: selecionado o Pix (Mercado Pago), o total ficou igual (R$ 213,81 no Burix One). Não apareceu desconto a mais; confirma o que o Bruno disse.
+- A tela de pagamento (checkout da Shopify) tem o campo "Adicionar desconto" / "Código de desconto"; o "Tem um cupom?" / "Código do cupom" do teste do Bruno fica no resumo da compra do site.
+- `/pages/formas-de-pagamento`: até 10x sem juros, parcela mínima de R$ 20; frete grátis a partir de R$ 99 (Sudeste), R$ 149 (Sul), R$ 179 (Centro-Oeste) e R$ 199 (Norte e Nordeste). Igual ao dossiê.
+- `/pages/cashback-prohall`: "Não junta com outros cupons", cupom por WhatsApp para o pedido seguinte. Igual ao dossiê.
+- Nome do app nas lojas de aplicativo: não lido (a home não traz link para as lojas). O texto diz só "app da Prohall".
+
+## Rascunho (Job 2)
+
+O texto está em `content/reviews/cupom-prohall-como-usar.json` (id 931), no esqueleto do briefing. Resposta rápida com 51 palavras, a do rascunho do briefing. A conta do teste da página da loja aparece uma vez, com a data dele (12 de novembro de 2026), e é a única data do corpo. O exemplo do frete (R$ 104 que caem para R$ 96,72) entra como "exemplo de conta". O capítulo do app diz que a regra vem da parceria e que o nosso teste foi no site. Sem link para o PH4, que ainda não está no ar: entra quando ele for publicado, com o `relatedArticles`.
+
+## Revisão (Job 3, 12/11/2026)
+
+Passou. Sempre "até 10%"; nenhum "10% OFF" sem o "até", nenhum "só 7%", nenhum preço calculado com 10%. Sem Clube, sem Moedas PH, sem código de terceiros. O cashback aparece só como regra de soma. Nada de "testei" nem de promessa de resultado.
+
+- C1: 0 "R$" na resposta rápida. C2: 1 data no corpo. C3, C4, C5: 0 (nenhuma data em título, legenda ou FAQ). Snippet: 137 caracteres, código até o caractere 9, "até 10%" na primeira frase. Subtítulo: 164.
+- Skill de copywriting aplicada (situação B: briefing com ângulo e rascunho): frases curtas e verificáveis, a primeira frase de cada capítulo responde, sem "não é X, é Y" e sem lista de negações.
+
+## Capa e imagens (Job 6; aprovação do Bruno pendente)
+
+- **Capa:** `/images/reviews/prohall/cupom-prohall-como-usar-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da Prohall, a chamada "Cupom Prohall, como usar", "até 10% OFF" e o CECILIAMC. Foto oficial do Kit Cuidado Capilar Diário Absolut One (CDN da loja). Sem IA.
+- **Onde digitar o cupom na Prohall:** o print do `cartPrint` da página de cupom (`/images/reviews/prohall/cupom-prohall-checkout-com-cupom.webp`), já no site.
+- **Quanto o cupom tira:** `/images/reviews/prohall/cupom-prohall-como-usar-shampoo-condicionador-absolut-one.webp` (quadrada, `href` para a página do produto no site oficial). Foto oficial do Shampoo + Condicionador Absolut One, item do carrinho do teste.
