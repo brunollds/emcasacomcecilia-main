@@ -163,3 +163,20 @@ Fatos: `hostinger-reach-ou-mailchimp-brevo-fatos-3010.md`, ao lado.
 - No ar em 30/10/2026 15:15 UTC, PR #365, release `64ab17e2`, ids 717, 720–728 (10 idiomas). Capa sem texto de idioma, uma para a família, e um quadro por idioma.
 - Fora do PT, preços do Reach em US$ do site global (12 meses e renovação; sem 24 meses lidos) e o Mailchimp e o Brevo só pelo plano grátis, porque os preços pagos deles não foram lidos em US$. SONAR20: "testamos no site brasileiro, no Reach 500 de 24 meses", sem os valores em R$.
 - Preços de 30/10/2026, na campanha de Black Friday: reler antes de 27/11.
+
+## Capa v2 (12/11/2026)
+
+- **Capas:** uma por idioma, com a chamada no idioma da página (`imageFit: contain`; parecer vigente `lotes/41/titulos-localizados/revisao-terra/REVISAO-LOCALIZADA.json`):
+  - de (`hostinger-reach-oder-mailchimp-brevo`): `/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa-de-v2.webp`, SHA-256 `516d369cb01e9697a0dada037f3511ab016e5aacf6a97f72e408a7b0ee658eae`
+  - en (`hostinger-reach-vs-mailchimp-brevo`): `/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa-en-v2.webp`, SHA-256 `5a0471b7e0d87778216d695477069ccbaa2f59e38e204559ccac7678097ad86a`
+  - es (`hostinger-reach-o-mailchimp-brevo`): `/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa-es-v2.webp`, SHA-256 `1ab4cdff569becc2b25e780b4830416b50104f22d5bfb087bfe69a533cf889c0`
+  - fr (`hostinger-reach-mailchimp-ou-brevo`): `/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa-fr-v2.webp`, SHA-256 `9cbc4cecc88881b8cdda9845fedb00230c1aa912ac9d93bc415f523ada29016b`
+  - it (`hostinger-reach-mailchimp-o-brevo`): `/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa-it-v2.webp`, SHA-256 `f7ff27cc1b60027a8c13a8e4b4bb17cda84f08d6e75c509d7a7a65bcad8ea429`
+  - ja (`hostinger-reach-ja`): `/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa-ja-v2.webp`, SHA-256 `0c413816a1dabf123ec1023fbf75a653a905bdf2cf77c5fb2de25d59186efb2f`
+  - ko (`hostinger-reach-ko`): `/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa-ko-v2.webp`, SHA-256 `c362120fc41962a1c4b1ad09a2cce4fb4e7ec45c9262a91b906114a65eecc365`
+  - pt (`hostinger-reach-ou-mailchimp-brevo`): `/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa-pt-v2.webp`, SHA-256 `916142b321fde2b69c6f368020c49ccf307f1725ffcd4197cb9f64be4ad8aabf`
+  - zh-hans (`hostinger-reach-zh-hans`): `/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa-zh-hans-v2.webp`, SHA-256 `1807faaed9c17dac9b70272f4d2865506adfac24b83fe373dbf1f60a67e9ba74`
+  - zh-hant (`hostinger-reach-zh-hant`): `/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa-zh-hant-v2.webp`, SHA-256 `be005b761f9e4662cbf210bd18be0f40dd3e1bce7abdd2fda0cb3bffe132f80f`
+- **Alt (PT):** Envelopes e papel sobre uma mesa de madeira, em foto ilustrativa com o logo da Hostinger e os textos «Qual ferramenta de e-mail usar?» / «Reach, Mailchimp ou Brevo?».
+- **Origem:** foto ilustrativa de envelopes e papel sobre a mesa, fonte no registro do lote; concorrentes só por escrito, sem foto, logo nem imitação visual.
+- **Lote 41 do piloto de capas (sequência 13 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-88-HEROES-160-PAGINAS-SEQUENCIA-13-CLAUDE.zip` (`lotes/41/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp`) fica no CDN, sem uso como capa.

@@ -388,3 +388,20 @@ Caíram na verificação, entre os 16:
 
 ## Publicação (04/11/2026)
 - No ar em 04/11/2026: PR #564, release `0863ea63` (build 01a1a8b8), ids 794–803, nos 10 idiomas. Smoke das 20 URLs das duas famílias: título, descrição, canonical, hreflang dos 10 idiomas com x-default em inglês, capa e imagens do corpo no CDN, FAQ igual ao FAQPage, trilha igual ao BreadcrumbList, o 4CW5Y com o termo de cada idioma e nenhum Brasil fora do PT (949 de 949 conferências); sitemap, llms.txt, /reviews, as 9 /<locale>/reviews e os índices de busca; IndexNow com as 74 URLs do release; captura 41927781548 verde.
+
+## Capa v2 (12/11/2026)
+
+- **Capas:** uma por idioma, com a chamada no idioma da página (`imageFit: contain`; parecer vigente `lotes/41/titulos-localizados/revisao-terra/REVISAO-LOCALIZADA.json`):
+  - de (`lohnt-sich-shein`): `/images/reviews/shein/shein-vale-a-pena-capa-de-v2.webp`, SHA-256 `15b19bf1f3a4748f0c19473cfdcb65f9ad1196342b141d3d9b3494d063c8ce03`
+  - en (`is-shein-worth-it`): `/images/reviews/shein/shein-vale-a-pena-capa-en-v2.webp`, SHA-256 `029487fecce569650b6462baf0ca4ffac977b0e0a23da7f67364bc7016016cc4`
+  - es (`vale-la-pena-shein`): `/images/reviews/shein/shein-vale-a-pena-capa-es-v2.webp`, SHA-256 `6b152e8c0e9fd147d103f981018f17c7c866eb2f08a2af28b72a6d306e33aebb`
+  - fr (`shein-ca-vaut-le-coup`): `/images/reviews/shein/shein-vale-a-pena-capa-fr-v2.webp`, SHA-256 `135819f2a022d6db10f98e7fbcbdc347c8460de4fe132e4edde241e06e5b63c4`
+  - it (`shein-conviene`): `/images/reviews/shein/shein-vale-a-pena-capa-it-v2.webp`, SHA-256 `d99bb9339321e9f25aa1bf02f43944af6fdf246f661f383733975d98d7baad8f`
+  - ja (`shein-worth-it-ja`): `/images/reviews/shein/shein-vale-a-pena-capa-ja-v2.webp`, SHA-256 `99bd92861082c15444c512d3b087d4a24607adf482d185076a42884e0893f62f`
+  - ko (`shein-worth-it-ko`): `/images/reviews/shein/shein-vale-a-pena-capa-ko-v2.webp`, SHA-256 `4ea7a9ace1684469eed8117eca26702637fe73ed777193f976e25fea817f0082`
+  - pt (`shein-vale-a-pena`): `/images/reviews/shein/shein-vale-a-pena-capa-pt-v2.webp`, SHA-256 `d73bc2558369051547ac20045931a4dbe8bad1151a7a3df66aed9e8abdd929bd`
+  - zh-hans (`shein-worth-it-zh-hans`): `/images/reviews/shein/shein-vale-a-pena-capa-zh-hans-v2.webp`, SHA-256 `6657e973f90ae7fd84f294f29af748569e3cb0ac6fe8a759371b7e09b0cf38e3`
+  - zh-hant (`shein-worth-it-zh-hant`): `/images/reviews/shein/shein-vale-a-pena-capa-zh-hant-v2.webp`, SHA-256 `71b434f20c73f3127fb1ceb705a8aa8cd971780cfd2b96a4444e3806f9f41e0c`
+- **Alt (PT):** Modelo com casaco longo MOTF PREMIUM creme fechado, bolsa e botas, em foto oficial da SHEIN. Na capa, “SHEIN: quando vale a pena?”, “Preço, medidas e devolução” e o código de indicação 4CW5Y.
+- **Origem:** foto de produto da SHEIN com o casaco MOTF creme do artigo; não é compra própria nem satisfação.
+- **Lote 41 do piloto de capas (sequência 13 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-88-HEROES-160-PAGINAS-SEQUENCIA-13-CLAUDE.zip` (`lotes/41/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/shein/shein-vale-a-pena-capa.webp`) fica no CDN, sem uso como capa.

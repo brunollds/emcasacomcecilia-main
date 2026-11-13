@@ -158,3 +158,10 @@ Fatos: `hostinger-ou-hostgator-fatos-3010.md`, ao lado.
 - No ar em 30/10/2026 15:15 UTC, PR #365, release `64ab17e2`, ids 718, 729–737 (10 idiomas). Capa sem texto de idioma, uma para a família, e um quadro por idioma.
 - PT com o VPS da Hostinger relido em 30/10 e o teste do SONAR20 no Startup de e-commerce (29/10), no e-mail profissional e no Reach (30/10); hospedagem e VPS sem teste. Fora do PT, slug e título sem a HostGator: a seção de preços dela e o "lado a lado" viraram critérios gerais, com Premium, Unlimited e Cloud Startup em US$.
 - Preços de 30/10/2026, na campanha de Black Friday: reler antes de 27/11.
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/hostinger/hostinger-ou-hostgator-capa-v2.webp` (`imageFit: contain`), SHA-256 `4cddb7c2d2b52270455e7b1e9718cf68b939111b1559908c7c3922665410273e`, a mesma nas 10 versões da família (`hostinger-ou-hostgator`), com o alt de cada idioma.
+- **Alt (PT):** Foto ilustrativa de um rack de servidores com cabos, com o logo da Hostinger e os nomes Hostinger e HostGator.
+- **Origem:** foto editorial de servidores (rack), com alt explicitamente ilustrativo; não é a infraestrutura da Hostinger. Concorrente só por escrito.
+- **Lote 40 do piloto de capas (sequência 13 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-88-HEROES-160-PAGINAS-SEQUENCIA-13-CLAUDE.zip` (`lotes/40/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp`) fica no CDN, sem uso como capa.

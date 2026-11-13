@@ -339,3 +339,10 @@ Em termos práticos: se a YesStyle estiver rodando uma promoção de 10% ou 15% 
   - Cap 2: `abib adesivo para olhos hidrogel pdrn retinal`, `eye patch coreano abib`, `como usar adesivo de hidrogel para olhos`
   - Cap 3: `abib pdrn volume fill-it booster creme resenha`, `creme abib pdrn booster tube vale a pena`, `retinaldeido para iniciantes`
   - Cap 4: `abib pdrn collagen lip mask glazed jelly`, `codigo de desconto yesstyle cecilia010`, `yesstyle produtos coreanos vale a pena`
+
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/yesstyle/skincare-coreano-30-anos-rotina-iniciante-yesstyle-capa-v2.webp` (`imageFit: contain`), SHA-256 `f4279fd032c7a14cde0e6c281e4eadbbee2a11129350361d02d5b8a668b4300e`, a mesma nas 10 versões da família (`yesstyle-skincare-30`), com o alt de cada idioma.
+- **Alt (PT):** Cecília segurando as caixas de três produtos da Abib, em foto própria, com o logo YesStyle, Abib e o código de recompensa CECILIA010.
+- **Origem:** foto própria da Cecília com as três caixas da rotina Abib, reutilização deliberada por escolha do Bruno, sem alegação de ineditismo nem de resultado na pele. Pareceres vigentes: lotes/40/revisao-terra/ADENDO-CECILIA-5-6.json e ADENDO-ALTS-CECILIA-20.json. A bisnaga isolada, substituída, não entrou.
+- **Lote 40 do piloto de capas (sequência 13 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-88-HEROES-160-PAGINAS-SEQUENCIA-13-CLAUDE.zip` (`lotes/40/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp`) fica no CDN, sem uso como capa.

@@ -441,3 +441,9 @@ Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, 
 
 ## Regra do 4CW5Y (decisão do Bruno, 07/11/2026, #716 a #720)
 Já no ar. O 4CW5Y segue sendo código de indicação da SHEIN, não é cupom de checkout, não soma com nada e não se cola no checkout. Pelo link do botão, ou copiando o código e pesquisando no app ou no site da SHEIN, abre uma página da SHEIN com uma seleção de produtos, promoções e descontos. O texto diz com clareza que o código dá desconto; quanto e em quais peças, quem decide é a SHEIN. Sem percentual nem valor, sem promessa de desconto em toda compra, sem "pode não ter desconto", sem "só no app". Fontes vivas: `content/reviews/shein-e-confiavel.json`, `src/lib/couponsData.ts` (SHEIN, `referral`), `src/lib/couponTranslations.ts`, `articleCopy.ts` e `sidebarCopy.ts`.
+## Capa v2 (12/11/2026)
+
+- **Capa:** `/images/reviews/shein/shein-e-confiavel-capa-v2.webp` (`imageFit: contain`), SHA-256 `592bfbceb41e45ed6fd637b2020b145dae64ab72588188e59d040e42d06eea50`, a mesma nas 10 versões da família (`shein-trust`), com o alt de cada idioma.
+- **Alt (PT):** Modelo com vestido terracota em uma foto de espelho da loja parceira na SHEIN, com o logo SHEIN e o código de indicação 4CW5Y.
+- **Origem:** foto de espelho da loja parceira na SHEIN, modelo com vestido terracota; não é compra própria nem prova de reputação.
+- **Lote 40 do piloto de capas (sequência 13 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-88-HEROES-160-PAGINAS-SEQUENCIA-13-CLAUDE.zip` (`lotes/40/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/shein/shein-e-confiavel-capa-discover.webp`) fica no CDN, sem uso como capa.

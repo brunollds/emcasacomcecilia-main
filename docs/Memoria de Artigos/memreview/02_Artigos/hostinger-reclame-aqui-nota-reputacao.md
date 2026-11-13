@@ -231,3 +231,20 @@ Nenhuma pergunta aberta para o PT. Para o Job 4: confirmar se o Bruno quer o Tru
 - **O que mudou nas 10 versões:** `coupon: "SONAR20"`; links `?REFERRALCODE=SONAR20` com o caminho mantido (PT em `/br`); saíram "não há código", "só no link", "12 meses ou mais", "só cliente novo" e "não soma"; "com/sem a indicação" virou "com/sem o SONAR20"; a nota de transparência fala em comissão, sem o "crédito na Hostinger".
 - **Renovação:** o SONAR20 não dá desconto na renovação (termos do programa, 05/11; os artigos foram corrigidos no #580). O texto diz "a renovação sai pelo preço da tabela"; os preços de renovação lidos na página seguem nas tabelas como preço de tabela.
 - **Regras daqui em diante:** as do dossiê [[Hostinger]] (seção 3). As instruções de "indicação, sem código" acima ficam só como histórico.
+
+## Capa v2 (12/11/2026)
+
+- **Capas:** uma por idioma, com a chamada no idioma da página (`imageFit: contain`; parecer vigente `lotes/41/titulos-localizados/revisao-terra/REVISAO-LOCALIZADA.json`):
+  - de (`hostinger-trustpilot-bewertungen`): `/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-de-v2.webp`, SHA-256 `ab0b97b763e16c408dd09dbc5d44879e51b0a71876e21e0e05e04da03462fc2a`
+  - en (`hostinger-trustpilot-reviews`): `/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-en-v2.webp`, SHA-256 `154afdba42ca3c1dbd51481871fe3868f171fa3541897c7c004fadddc5e2800b`
+  - es (`hostinger-opiniones-trustpilot`): `/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-es-v2.webp`, SHA-256 `880e214d837e1ef2f031a60877fb9da4316ad1f05e4a67c10cca065731ba7c4e`
+  - fr (`hostinger-avis-trustpilot`): `/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-fr-v2.webp`, SHA-256 `dc2501ea2100fd240e8db05a03d35f535311e48972594c9ab1926d3f6f9119d3`
+  - it (`hostinger-recensioni-trustpilot`): `/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-it-v2.webp`, SHA-256 `04b47acef87892ef6c954fe1247d61d4f7cb3bc8b8e8dbe0ce167c43278cc90d`
+  - ja (`hostinger-trustpilot-reviews-ja`): `/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-ja-v2.webp`, SHA-256 `cd4e7e9026a5c80ac5501310d447ea409b222bb7cc543850d8908960eb392691`
+  - ko (`hostinger-trustpilot-reviews-ko`): `/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-ko-v2.webp`, SHA-256 `9795a9790eb094b2a595601d5e50c4d1de046f1a65674216922f8e387d1aaeda`
+  - pt (`hostinger-reclame-aqui-nota-reputacao`): `/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-pt-v2.webp`, SHA-256 `60a1ced35cb6f76d9ce052191c9ac4a2a0a49c6aeebef489851c0bf4087cd25d`
+  - zh-hans (`hostinger-trustpilot-reviews-zh-hans`): `/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-zh-hans-v2.webp`, SHA-256 `bb5833a93cc411250188c22154437b623a57be5d108f85fa00459b284573dd62`
+  - zh-hant (`hostinger-trustpilot-reviews-zh-hant`): `/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-zh-hant-v2.webp`, SHA-256 `b71775bdd837b1e40ecbfb8913fcab779fedf5e920c6de1dfd2a9e967cde6a3b`
+- **Alt (PT):** Detalhe de fones de ouvido sobre uma mesa, em foto ilustrativa com o logo da Hostinger e os textos «Hostinger no Reclame Aqui» / «O que dizem as queixas» e SONAR20.
+- **Origem:** foto editorial ilustrativa de fone sobre a mesa. O PT trata o Reclame Aqui e os nove idiomas tratam o Trustpilot, sem nota nem estrelas inventadas.
+- **Lote 41 do piloto de capas (sequência 13 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-88-HEROES-160-PAGINAS-SEQUENCIA-13-CLAUDE.zip` (`lotes/41/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-discover.webp`) fica no CDN, sem uso como capa.

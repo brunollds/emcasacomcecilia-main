@@ -304,3 +304,20 @@ Fechamento do briefing feito na sessão de artigos (Job 2 do artigo: `hostinger-
 - **O que mudou nas 10 versões:** `coupon: "SONAR20"`; links `?REFERRALCODE=SONAR20` com o caminho mantido (PT em `/br`); saíram "não há código", "só no link", "12 meses ou mais", "só cliente novo" e "não soma"; "com/sem a indicação" virou "com/sem o SONAR20"; a nota de transparência fala em comissão, sem o "crédito na Hostinger".
 - **Renovação:** o SONAR20 não dá desconto na renovação (termos do programa, 05/11; os artigos foram corrigidos no #580). O texto diz "a renovação sai pelo preço da tabela"; os preços de renovação lidos na página seguem nas tabelas como preço de tabela.
 - **Regras daqui em diante:** as do dossiê [[Hostinger]] (seção 3). As instruções de "indicação, sem código" acima ficam só como histórico.
+
+## Capa v2 (12/11/2026)
+
+- **Capas:** uma por idioma, com a chamada no idioma da página (`imageFit: contain`; parecer vigente `lotes/41/titulos-localizados/revisao-terra/REVISAO-LOCALIZADA.json`):
+  - de (`ist-hostinger-serioes`): `/images/reviews/hostinger/hostinger-e-confiavel-capa-de-v2.webp`, SHA-256 `a0ab906030b2fd71727ba3233c011ef78357fb8e0a0d1c1da0d2183f30eae82b`
+  - en (`is-hostinger-legit`): `/images/reviews/hostinger/hostinger-e-confiavel-capa-en-v2.webp`, SHA-256 `47a5bf7bf7a11faeae1a8bee01dfc56f70b07f20cf955ee6b1545a352ffb31b8`
+  - es (`hostinger-es-confiable`): `/images/reviews/hostinger/hostinger-e-confiavel-capa-es-v2.webp`, SHA-256 `a817384299d9bcffca97706a27e3d2c623581a134256148fc4bdf2c757156b08`
+  - fr (`hostinger-est-il-fiable`): `/images/reviews/hostinger/hostinger-e-confiavel-capa-fr-v2.webp`, SHA-256 `c95e980285fec035c276b58f5c95d9a3cd53e68c3462ce87a1037dddccfe2ca0`
+  - it (`hostinger-e-affidabile`): `/images/reviews/hostinger/hostinger-e-confiavel-capa-it-v2.webp`, SHA-256 `dbb8a4cb6972ab6c0df5a407597dccbbc93f105b4bef85fef277a0baff897960`
+  - ja (`hostinger-trust-guide-ja`): `/images/reviews/hostinger/hostinger-e-confiavel-capa-ja-v2.webp`, SHA-256 `aa57ba9361536e2b586077a2fe3ccb7cdb46fc68b07b54730cd7c74dfc11fa0f`
+  - ko (`hostinger-trust-guide-ko`): `/images/reviews/hostinger/hostinger-e-confiavel-capa-ko-v2.webp`, SHA-256 `4866026b5dc1a8792131a56ea9fc231d64fe4fdcc328ede917807da2a7117243`
+  - pt (`hostinger-e-confiavel`): `/images/reviews/hostinger/hostinger-e-confiavel-capa-pt-v2.webp`, SHA-256 `7c621047b44e6691a7bd5562bd1fea3dbe0835c6098b929c4d58f9561bc74983`
+  - zh-hans (`hostinger-trust-guide-zh-hans`): `/images/reviews/hostinger/hostinger-e-confiavel-capa-zh-hans-v2.webp`, SHA-256 `54834cbe650d39acc4733bf5e9f87046e97eaff110f536fc094b02452e1d3061`
+  - zh-hant (`hostinger-trust-guide-zh-hant`): `/images/reviews/hostinger/hostinger-e-confiavel-capa-zh-hant-v2.webp`, SHA-256 `838499447995e39dbbcd6c46898cd7ee82f6aa8863d4b1b4a61e69b9c6a3bc65`
+- **Alt (PT):** Painel de parede com planta, cabos e fones de ouvido, em foto ilustrativa com o logo da Hostinger e os textos «Hostinger é confiável?» / «Reembolso e renovação» e SONAR20 para planos novos.
+- **Origem:** foto editorial ilustrativa (parede com planta, cabos e fone); onde o apoio fala de renovação, o SONAR20 leva o rótulo de planos novos.
+- **Lote 41 do piloto de capas (sequência 13 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-88-HEROES-160-PAGINAS-SEQUENCIA-13-CLAUDE.zip` (`lotes/41/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp`) fica no CDN, sem uso como capa.

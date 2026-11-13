@@ -319,3 +319,20 @@ Fatos: `shein-reclame-aqui-nota-reputacao-fatos-2810.md`, ao lado; autocompletar
 ## Correção: sem "SHEIN Brasil" (04/11/2026)
 - Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, e `03_Memoria/Clusters-Multilingues/SHEIN.md`): a SHEIN é plataforma global, e nenhum texto diz "SHEIN Brasil", nem em português. Na decisão 3 de 28/10, o 4CW5Y passa a ser "código de indicação da SHEIN".
 - No PT, a frase da Trustpilot terminava em "não do atendimento da SHEIN Brasil" e agora termina em "não do atendimento no Brasil". O fato (o perfil é global e não separa o Brasil) não mudou, nem as 9 traduções. PR #566.
+
+## Capa v2 (12/11/2026)
+
+- **Capas:** uma por idioma, com a chamada no idioma da página (`imageFit: contain`; parecer vigente `lotes/41/titulos-localizados/revisao-terra/REVISAO-LOCALIZADA.json`):
+  - de (`shein-trustpilot-bewertungen`): `/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa-de-v2.webp`, SHA-256 `5cacebc50ec1dafb9f5f9f6f2cc3781e883c86aff0924fc9d4b3bc43fc54f989`
+  - en (`shein-trustpilot-reviews`): `/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa-en-v2.webp`, SHA-256 `6b944a0446c4903f658941eca534ffc8a5189532e5a20f7dc8e7d4039c25a302`
+  - es (`shein-opiniones-trustpilot`): `/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa-es-v2.webp`, SHA-256 `5721462b9b9781430700b0325dbd810ca9db7b00d5c1b278a3d0dfd37abe0152`
+  - fr (`shein-avis-trustpilot`): `/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa-fr-v2.webp`, SHA-256 `9f34c8deb4a077f6c7b3668b80d7630fc78b2efd842cdc69d6b0328d84cb391e`
+  - it (`shein-recensioni-trustpilot`): `/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa-it-v2.webp`, SHA-256 `627c28734a635d0c323d129e4b6c7cdb10da714266692785e741433ac66181c9`
+  - ja (`shein-trustpilot-reviews-ja`): `/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa-ja-v2.webp`, SHA-256 `bb11b6093442e83447fa4d89d0fe3f7948795a95492ec0d9da32a96e20b6e24b`
+  - ko (`shein-trustpilot-reviews-ko`): `/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa-ko-v2.webp`, SHA-256 `7cfdf22612da106ca45a9e0f1a3e5f52567a4a747da7ce881865a16a7894e444`
+  - pt (`shein-reclame-aqui-nota-reputacao`): `/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa-pt-v2.webp`, SHA-256 `58be0470d01e564204e9e0d46c841998f17f2e25a5703bab0387efa22eb92876`
+  - zh-hans (`shein-trustpilot-reviews-zh-hans`): `/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa-zh-hans-v2.webp`, SHA-256 `ea1a674d00a7138e34d2ebe1bb5798e34e65eb09927fdb2bdd6c8660c5775d15`
+  - zh-hant (`shein-trustpilot-reviews-zh-hant`): `/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa-zh-hant-v2.webp`, SHA-256 `34d26d8372531863c1fefeecd864d01df5f0a532cac2eabe540de35e7b9e7af2`
+- **Alt (PT):** Modelo de jaqueta marrom e jeans, com celular e bolsa junto à parede de pedra, em foto institucional da SHEIN. Na capa, “SHEIN no Reclame Aqui”, “Entrega e reembolso” e o código de indicação 4CW5Y.
+- **Origem:** foto institucional da SHEIN; não é compra, satisfação nem prova de reputação. O PT trata o Reclame Aqui e os nove idiomas tratam o Trustpilot.
+- **Lote 41 do piloto de capas (sequência 13 do Codex, revisão independente do GPT-6.1 Terra):** aprovado pelo Bruno em 12/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-88-HEROES-160-PAGINAS-SEQUENCIA-13-CLAUDE.zip` (`lotes/41/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior da família (`/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp`) fica no CDN, sem uso como capa.
