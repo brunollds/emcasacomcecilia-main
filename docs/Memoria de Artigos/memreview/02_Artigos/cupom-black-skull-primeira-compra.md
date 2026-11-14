@@ -206,3 +206,10 @@ O texto está em `content/reviews/cupom-black-skull-primeira-compra.json` (id 91
 ## Revisão externa (Farol, 12/11/2026)
 
 Aplicado depois de conferir os fatos: "Se a loja oferecer desconto no Pix, ele soma com o CECILIA10" e a instrução de informar o CEP para ver o frete. Não aplicado: tirar o print do código de outro carrinho. O Bruno decidiu em 12/11 que o print da página de cupom entra em todo artigo da série.
+
+## Capa v2 (14/11/2026)
+
+- **Capa:** `/images/reviews/black-skull/cupom-black-skull-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `bf1d3fce62fb470dd733e53216bb1f80b2472fe39f795a8b1bf1dada35358fab`.
+- **Alt:** Pote de Beta-Alanine da Black Skull sobre pedestal claro, em imagem oficial do catálogo, com logo da marca, “Primeira compra na Black Skull?” e cupom CECILIA10.
+- **Origem:** imagem oficial do catálogo, pote de Beta-Alanine; ilustra a marca, não é o whey do teste de carrinho. Capa sem subtítulo; os rótulos dos códigos foram mantidos. Técnica de produção das imagens das lojas não determinada: sem afirmar foto real nem IA.
+- **Lote 46 do piloto de capas (sequência 16 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/46/revisao-terra/ADENDO-SEM-SUBTITULOS.json`):** aprovado pelo Bruno em 14/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-16-CLAUDE.zip` (`lotes/46/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/black-skull/cupom-black-skull-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

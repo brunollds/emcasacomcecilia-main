@@ -213,3 +213,20 @@ A revisão dos 30 artigos da série (pasta `docs/auditoria-copy-artigos/pc-multi
 - Pendente: a reconferência da campanha `shein-novos-usuarios` (`verifiedAt` de 02/11), da sessão de campanhas.
 
 - No ar desde 13/11/2026, release `b9fcbf67` (deploy c305618e, build 01a1d6d1), com o #964 e a revisão Farol (#965). `deploy:finish` ok (2 workers); smoke das 30 páginas contra o JSON (título, capítulos, primeira frase de cada capítulo, og:image e lang), as seis capas com 200, sitemap e llms.txt com as 30; `covers:check` 6/6; IndexNow com 37 URLs; captura 43511941705 à espera da aprovação do Bruno.
+
+## Capa v2 (14/11/2026)
+
+- **Capas:** uma por idioma, com a chamada no idioma da página (`imageFit: contain`):
+  - de (`shein-gutschein-erstbestellung`): `/images/reviews/shein/cupom-shein-primeira-compra-capa-de-v2.webp`, SHA-256 `a643bb363de35c72acc9aa599da60fa58f9dea411e2c5930d9a045c7cb178354`
+  - en (`shein-first-order-referral-code`): `/images/reviews/shein/cupom-shein-primeira-compra-capa-en-v2.webp`, SHA-256 `171c30d0f94fa1eae16a5299f025e3eb42bd24580338741241da59644bb4bdaf`
+  - es (`cupon-shein-primera-compra`): `/images/reviews/shein/cupom-shein-primeira-compra-capa-es-v2.webp`, SHA-256 `7036ea813df5b2c9b39a8d4e808e6a445a37801998e93e37bddf948a158bbc51`
+  - fr (`code-promo-shein-premiere-commande`): `/images/reviews/shein/cupom-shein-primeira-compra-capa-fr-v2.webp`, SHA-256 `c30620b0794838e866841fda79fb64374e4de6be2a4f92d768579facd7d556f7`
+  - it (`codice-sconto-shein-primo-ordine`): `/images/reviews/shein/cupom-shein-primeira-compra-capa-it-v2.webp`, SHA-256 `f2528103e9e6c8e16b744d1532a6807807122995898ae8b84eafd0bba64c341f`
+  - ja (`shein-first-order-ja`): `/images/reviews/shein/cupom-shein-primeira-compra-capa-ja-v2.webp`, SHA-256 `108211b4d0be296390c328dbc78627d585875a205abb31e4dbb0ea84ea48656f`
+  - ko (`shein-first-order-ko`): `/images/reviews/shein/cupom-shein-primeira-compra-capa-ko-v2.webp`, SHA-256 `29c40f9f133d1f2a641dd023a4355fdb7532e8001df967f38f3839e6de438c42`
+  - pt (`cupom-shein-primeira-compra`): `/images/reviews/shein/cupom-shein-primeira-compra-capa-pt-v2.webp`, SHA-256 `ebe157213bfd3388c86689467ae47d5186c1d0611c0d322326968e3ffb35a3ee`
+  - zh-hans (`shein-first-order-zh-hans`): `/images/reviews/shein/cupom-shein-primeira-compra-capa-zh-hans-v2.webp`, SHA-256 `42d1e26a4ff9183b1c9b4a72ba2cf733785bf24c046d684a289a01dd7619acec`
+  - zh-hant (`shein-first-order-zh-hant`): `/images/reviews/shein/cupom-shein-primeira-compra-capa-zh-hant-v2.webp`, SHA-256 `348de3343fba721a3a1b2d074e8a0fd16eb6477d99a9f7c4977bceb0acdb37c8`
+- **Alt (PT):** Mulher e menina com roupas brancas diante de fundo rosa, em foto institucional da SHEIN, ao lado do logo SHEIN, da chamada “Primeira compra na SHEIN?” e do código de indicação 4CW5Y.
+- **Origem:** foto institucional da SHEIN com mulher e menina, sem inferir parentesco. 4CW5Y é código de indicação, sem percentual. Capa sem subtítulo; os rótulos dos códigos foram mantidos. Técnica de produção das imagens das lojas não determinada: sem afirmar foto real nem IA.
+- **Lote 46 do piloto de capas (sequência 16 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/46/revisao-terra/ADENDO-SEM-SUBTITULOS.json`):** aprovado pelo Bruno em 14/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-16-CLAUDE.zip` (`lotes/46/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/shein/cupom-shein-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

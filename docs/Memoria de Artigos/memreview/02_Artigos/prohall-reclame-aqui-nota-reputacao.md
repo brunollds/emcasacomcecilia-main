@@ -161,3 +161,10 @@ Passou. Nenhuma frase liga produto a reação ou queda de cabelo; as queixas de 
 - Título: "Prohall no Reclame Aqui: nota, reputação e o que mais gera reclamação". seoTitle: "Prohall no Reclame Aqui: nota, reputação e reclamações".
 - Pendente: Os números mudam todo mês: reler o perfil na revisão de dezembro de 2026.
 - Pendente: Abas de 2025 e 2024 não lidas; o texto usa 6 e 12 meses. Print do painel não capturado.
+
+## Capa v2 (14/11/2026)
+
+- **Capa:** `/images/reviews/prohall/prohall-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`), SHA-256 `5e294229fdb4f66f84ffe80deeccda4f74ef6d960ab13ecbbd5b79a268503fd4`.
+- **Alt:** Mão segurando frasco de Sérum Noturno Adaptativo Raízes & Vibes 120 ml junto a cabelo cacheado, em cena oficial da loja Prohall, com o logo Prohall, a chamada “Prohall no Reclame Aqui” e o cupom CECILIAMC.
+- **Origem:** cena oficial com o Sérum Noturno Adaptativo Raízes & Vibes 120 ml, no enquadramento v4 (recorte 0/200/470/600 da fonte), sem a faixa "Loja oficial", cartão branco nem medalha de garantia; parte do texto do frasco acompanha a curvatura, sem alegar legibilidade nem eficácia. Parecer: lotes/48/CORRECOES-ENQUADRAMENTO-3.md. Capa sem subtítulo; os rótulos dos códigos foram mantidos. Técnica de produção das imagens das lojas não determinada: sem afirmar foto real nem IA.
+- **Lote 48 do piloto de capas (sequência 16 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/48/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 14/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-16-CLAUDE.zip` (`lotes/48/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/prohall/prohall-reclame-aqui-nota-reputacao-capa.webp`) fica no CDN, sem uso como capa.

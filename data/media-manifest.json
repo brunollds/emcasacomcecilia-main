@@ -46479,6 +46479,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/black-skull/cupom-black-skull-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/black-skull/cupom-black-skull-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57234,
+      "sha256": "bf1d3fce62fb470dd733e53216bb1f80b2472fe39f795a8b1bf1dada35358fab",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-black-skull-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-black-skull-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-black-skull-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-black-skull-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/cupom-black-skull-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bf1d3fce62fb470dd733e53216bb1f80b2472fe39f795a8b1bf1dada35358fab/cupom-black-skull-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bf1d3fce62fb470dd733e53216bb1f80b2472fe39f795a8b1bf1dada35358fab/cupom-black-skull-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.240Z",
+      "verification_etag_or_digest": "bf1d3fce62fb470dd733e53216bb1f80b2472fe39f795a8b1bf1dada35358fab",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/black-skull/cupom-black-skull-primeira-compra-capa.webp",
       "local_url": "/images/reviews/black-skull/cupom-black-skull-primeira-compra-capa.webp",
       "media_kind": "image",
@@ -70624,6 +70662,82 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-de-v2.webp",
+      "local_url": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-de-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 159776,
+      "sha256": "2fe19ac1196ed7781a0b9a490395b49fd9c81b785c8880593d8232eb42b52109",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-hostinger-primeira-compra-capa-de-v2.webp",
+      "storage_filename": "cupom-hostinger-primeira-compra-capa-de-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-gutschein-erster-kauf.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-gutschein-erster-kauf.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-de-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2fe19ac1196ed7781a0b9a490395b49fd9c81b785c8880593d8232eb42b52109/cupom-hostinger-primeira-compra-capa-de-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2fe19ac1196ed7781a0b9a490395b49fd9c81b785c8880593d8232eb42b52109/cupom-hostinger-primeira-compra-capa-de-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "2fe19ac1196ed7781a0b9a490395b49fd9c81b785c8880593d8232eb42b52109",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en-v2.webp",
+      "local_url": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 154704,
+      "sha256": "3dc88ff38c5ac229298c095dfdebddf4dae9d3a1dee76a4a8206833abcfa9b08",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-hostinger-primeira-compra-capa-en-v2.webp",
+      "storage_filename": "cupom-hostinger-primeira-compra-capa-en-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-coupon-first-purchase.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-coupon-first-purchase.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3dc88ff38c5ac229298c095dfdebddf4dae9d3a1dee76a4a8206833abcfa9b08/cupom-hostinger-primeira-compra-capa-en-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3dc88ff38c5ac229298c095dfdebddf4dae9d3a1dee76a4a8206833abcfa9b08/cupom-hostinger-primeira-compra-capa-en-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "3dc88ff38c5ac229298c095dfdebddf4dae9d3a1dee76a4a8206833abcfa9b08",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
       "local_url": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en.webp",
       "media_kind": "image",
@@ -70787,6 +70901,310 @@
       "uploaded_at": null,
       "verified_at": "2026-11-13T20:16:10.265Z",
       "verification_etag_or_digest": "8d8e00a9dad343c11a78f993c06f0199af0651af6d373973841b0cbc27f2067e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-es-v2.webp",
+      "local_url": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-es-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 153812,
+      "sha256": "2a6786052139a8fecd961dc55c72a8f78a190bca980acd8f61354b1c9d2aebb5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-hostinger-primeira-compra-capa-es-v2.webp",
+      "storage_filename": "cupom-hostinger-primeira-compra-capa-es-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupon-hostinger-primera-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupon-hostinger-primera-compra.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-es-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2a6786052139a8fecd961dc55c72a8f78a190bca980acd8f61354b1c9d2aebb5/cupom-hostinger-primeira-compra-capa-es-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2a6786052139a8fecd961dc55c72a8f78a190bca980acd8f61354b1c9d2aebb5/cupom-hostinger-primeira-compra-capa-es-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "2a6786052139a8fecd961dc55c72a8f78a190bca980acd8f61354b1c9d2aebb5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-fr-v2.webp",
+      "local_url": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-fr-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 159872,
+      "sha256": "2850fcf263ae503946c7d4222854516f2a6371c72fbfaadc225c586379495a5c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-hostinger-primeira-compra-capa-fr-v2.webp",
+      "storage_filename": "cupom-hostinger-primeira-compra-capa-fr-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/code-promo-hostinger-premier-achat.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/code-promo-hostinger-premier-achat.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-fr-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2850fcf263ae503946c7d4222854516f2a6371c72fbfaadc225c586379495a5c/cupom-hostinger-primeira-compra-capa-fr-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2850fcf263ae503946c7d4222854516f2a6371c72fbfaadc225c586379495a5c/cupom-hostinger-primeira-compra-capa-fr-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "2850fcf263ae503946c7d4222854516f2a6371c72fbfaadc225c586379495a5c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-it-v2.webp",
+      "local_url": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-it-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 160538,
+      "sha256": "5a45556df8bd0c7df88a4ffcdc9204c60b43556b4cb5934429e176f52cd39d30",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-hostinger-primeira-compra-capa-it-v2.webp",
+      "storage_filename": "cupom-hostinger-primeira-compra-capa-it-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/codice-sconto-hostinger-primo-acquisto.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/codice-sconto-hostinger-primo-acquisto.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-it-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5a45556df8bd0c7df88a4ffcdc9204c60b43556b4cb5934429e176f52cd39d30/cupom-hostinger-primeira-compra-capa-it-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5a45556df8bd0c7df88a4ffcdc9204c60b43556b4cb5934429e176f52cd39d30/cupom-hostinger-primeira-compra-capa-it-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "5a45556df8bd0c7df88a4ffcdc9204c60b43556b4cb5934429e176f52cd39d30",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-ja-v2.webp",
+      "local_url": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-ja-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 164870,
+      "sha256": "f43c8afd7da9aedad98a3b2a4e29a061cd1c8ed2ad11334cf36b4f7f78c5a810",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-hostinger-primeira-compra-capa-ja-v2.webp",
+      "storage_filename": "cupom-hostinger-primeira-compra-capa-ja-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-first-purchase-ja.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-first-purchase-ja.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-ja-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f43c8afd7da9aedad98a3b2a4e29a061cd1c8ed2ad11334cf36b4f7f78c5a810/cupom-hostinger-primeira-compra-capa-ja-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f43c8afd7da9aedad98a3b2a4e29a061cd1c8ed2ad11334cf36b4f7f78c5a810/cupom-hostinger-primeira-compra-capa-ja-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "f43c8afd7da9aedad98a3b2a4e29a061cd1c8ed2ad11334cf36b4f7f78c5a810",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-ko-v2.webp",
+      "local_url": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-ko-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 158778,
+      "sha256": "db457568bfc9c4e6b062fb06564d9d5aebe957090643d3826a4d8141fa864cd7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-hostinger-primeira-compra-capa-ko-v2.webp",
+      "storage_filename": "cupom-hostinger-primeira-compra-capa-ko-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-first-purchase-ko.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-first-purchase-ko.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-ko-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/db457568bfc9c4e6b062fb06564d9d5aebe957090643d3826a4d8141fa864cd7/cupom-hostinger-primeira-compra-capa-ko-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/db457568bfc9c4e6b062fb06564d9d5aebe957090643d3826a4d8141fa864cd7/cupom-hostinger-primeira-compra-capa-ko-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "db457568bfc9c4e6b062fb06564d9d5aebe957090643d3826a4d8141fa864cd7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-pt-v2.webp",
+      "local_url": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 159926,
+      "sha256": "0646cdd373a387e1c133fdf46f60ab3df3186bd34cfefee6fa285766e0c25bf9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-hostinger-primeira-compra-capa-pt-v2.webp",
+      "storage_filename": "cupom-hostinger-primeira-compra-capa-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-hostinger-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-hostinger-primeira-compra.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0646cdd373a387e1c133fdf46f60ab3df3186bd34cfefee6fa285766e0c25bf9/cupom-hostinger-primeira-compra-capa-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0646cdd373a387e1c133fdf46f60ab3df3186bd34cfefee6fa285766e0c25bf9/cupom-hostinger-primeira-compra-capa-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "0646cdd373a387e1c133fdf46f60ab3df3186bd34cfefee6fa285766e0c25bf9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-zh-hans-v2.webp",
+      "local_url": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-zh-hans-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 155858,
+      "sha256": "9ece0ddd45e62ca5a606220bb9073622d54cb8ce0a6a9716335c43effc5b2e8f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-hostinger-primeira-compra-capa-zh-hans-v2.webp",
+      "storage_filename": "cupom-hostinger-primeira-compra-capa-zh-hans-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-first-purchase-zh-hans.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-first-purchase-zh-hans.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-zh-hans-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9ece0ddd45e62ca5a606220bb9073622d54cb8ce0a6a9716335c43effc5b2e8f/cupom-hostinger-primeira-compra-capa-zh-hans-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9ece0ddd45e62ca5a606220bb9073622d54cb8ce0a6a9716335c43effc5b2e8f/cupom-hostinger-primeira-compra-capa-zh-hans-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "9ece0ddd45e62ca5a606220bb9073622d54cb8ce0a6a9716335c43effc5b2e8f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-zh-hant-v2.webp",
+      "local_url": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-zh-hant-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 157112,
+      "sha256": "3b73e6b78c144a2828b6eecff2226443639b7593d505fa36f3f48afe9177886e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-hostinger-primeira-compra-capa-zh-hant-v2.webp",
+      "storage_filename": "cupom-hostinger-primeira-compra-capa-zh-hant-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-first-purchase-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-first-purchase-zh-hant.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-zh-hant-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3b73e6b78c144a2828b6eecff2226443639b7593d505fa36f3f48afe9177886e/cupom-hostinger-primeira-compra-capa-zh-hant-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3b73e6b78c144a2828b6eecff2226443639b7593d505fa36f3f48afe9177886e/cupom-hostinger-primeira-compra-capa-zh-hant-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "3b73e6b78c144a2828b6eecff2226443639b7593d505fa36f3f48afe9177886e",
       "verification_status": "verified"
     },
     {
@@ -87655,6 +88073,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/cueca-para-academia-capa-v2.webp",
+      "local_url": "/images/reviews/insider/cueca-para-academia-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 51750,
+      "sha256": "e594a1cdf44c46eb0e27b977fce9af65a5ee908d60eeafd26ab11772acc45300",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cueca-para-academia-capa-v2.webp",
+      "storage_filename": "cueca-para-academia-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cueca-para-academia.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cueca-para-academia.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/cueca-para-academia-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e594a1cdf44c46eb0e27b977fce9af65a5ee908d60eeafd26ab11772acc45300/cueca-para-academia-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e594a1cdf44c46eb0e27b977fce9af65a5ee908d60eeafd26ab11772acc45300/cueca-para-academia-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "e594a1cdf44c46eb0e27b977fce9af65a5ee908d60eeafd26ab11772acc45300",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/cueca-para-academia-capa.webp",
       "local_url": "/images/reviews/insider/cueca-para-academia-capa.webp",
       "media_kind": "image",
@@ -94324,6 +94780,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 96946,
+      "sha256": "31d737a0d288da7af79dd1c264f3e98ebec2da435f8496c73712071a65ad15fc",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-i-wanna-sleep-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-i-wanna-sleep-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-i-wanna-sleep-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-i-wanna-sleep-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/31d737a0d288da7af79dd1c264f3e98ebec2da435f8496c73712071a65ad15fc/cupom-i-wanna-sleep-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/31d737a0d288da7af79dd1c264f3e98ebec2da435f8496c73712071a65ad15fc/cupom-i-wanna-sleep-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "31d737a0d288da7af79dd1c264f3e98ebec2da435f8496c73712071a65ad15fc",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-capa.webp",
       "local_url": "/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-capa.webp",
       "media_kind": "image",
@@ -97419,6 +97913,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/laganexa/black-friday-la-ganexa-capa-v3.webp",
+      "local_url": "/images/reviews/laganexa/black-friday-la-ganexa-capa-v3.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 114398,
+      "sha256": "0e22f25a67c0c5509c398b15f5fd140b7f5b9ac6a4f9870e7c9ada51ecf30013",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-la-ganexa-capa-v3.webp",
+      "storage_filename": "black-friday-la-ganexa-capa-v3.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-la-ganexa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-la-ganexa.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/laganexa/black-friday-la-ganexa-capa-v3.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0e22f25a67c0c5509c398b15f5fd140b7f5b9ac6a4f9870e7c9ada51ecf30013/black-friday-la-ganexa-capa-v3.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0e22f25a67c0c5509c398b15f5fd140b7f5b9ac6a4f9870e7c9ada51ecf30013/black-friday-la-ganexa-capa-v3.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "0e22f25a67c0c5509c398b15f5fd140b7f5b9ac6a4f9870e7c9ada51ecf30013",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/laganexa/black-friday-la-ganexa-capa.webp",
       "local_url": "/images/reviews/laganexa/black-friday-la-ganexa-capa.webp",
       "media_kind": "image",
@@ -97795,6 +98327,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/laganexa/cupom-la-ganexa-como-usar-capa-v3.webp",
+      "local_url": "/images/reviews/laganexa/cupom-la-ganexa-como-usar-capa-v3.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 176352,
+      "sha256": "12921129f5c1ba5cbd92f4c0bad2f3e10e59a829b9d4c8e9c5cf5e1cf4411768",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-la-ganexa-como-usar-capa-v3.webp",
+      "storage_filename": "cupom-la-ganexa-como-usar-capa-v3.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-la-ganexa-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-la-ganexa-como-usar.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/laganexa/cupom-la-ganexa-como-usar-capa-v3.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/12921129f5c1ba5cbd92f4c0bad2f3e10e59a829b9d4c8e9c5cf5e1cf4411768/cupom-la-ganexa-como-usar-capa-v3.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/12921129f5c1ba5cbd92f4c0bad2f3e10e59a829b9d4c8e9c5cf5e1cf4411768/cupom-la-ganexa-como-usar-capa-v3.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "12921129f5c1ba5cbd92f4c0bad2f3e10e59a829b9d4c8e9c5cf5e1cf4411768",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/laganexa/cupom-la-ganexa-como-usar-capa.webp",
       "local_url": "/images/reviews/laganexa/cupom-la-ganexa-como-usar-capa.webp",
       "media_kind": "image",
@@ -97987,6 +98557,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/laganexa/cupom-la-ganexa-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/laganexa/cupom-la-ganexa-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 146032,
+      "sha256": "5dbdb277900d06a4ce907fdf54b510b0a02f64f0b5852b197aa582df4175b3d1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-la-ganexa-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-la-ganexa-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-la-ganexa-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-la-ganexa-primeira-compra.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/laganexa/cupom-la-ganexa-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5dbdb277900d06a4ce907fdf54b510b0a02f64f0b5852b197aa582df4175b3d1/cupom-la-ganexa-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5dbdb277900d06a4ce907fdf54b510b0a02f64f0b5852b197aa582df4175b3d1/cupom-la-ganexa-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "5dbdb277900d06a4ce907fdf54b510b0a02f64f0b5852b197aa582df4175b3d1",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/laganexa/cupom-la-ganexa-primeira-compra-capa.webp",
       "local_url": "/images/reviews/laganexa/cupom-la-ganexa-primeira-compra-capa.webp",
       "media_kind": "image",
@@ -98122,6 +98730,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-13T12:35:15.930Z",
       "verification_etag_or_digest": "f77fd18f4cfb16843b38bf80f9f16854ef051ca5e82997fafc19cc4e32064e36",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/laganexa/la-ganexa-e-boa-capa-v2.webp",
+      "local_url": "/images/reviews/laganexa/la-ganexa-e-boa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 180316,
+      "sha256": "14b18f5bbd2481475bed35672a97135d7090d7168e3f894959aa80b26d4552be",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "la-ganexa-e-boa-capa-v2.webp",
+      "storage_filename": "la-ganexa-e-boa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/la-ganexa-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/la-ganexa-e-boa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/laganexa/la-ganexa-e-boa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/14b18f5bbd2481475bed35672a97135d7090d7168e3f894959aa80b26d4552be/la-ganexa-e-boa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/14b18f5bbd2481475bed35672a97135d7090d7168e3f894959aa80b26d4552be/la-ganexa-e-boa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "14b18f5bbd2481475bed35672a97135d7090d7168e3f894959aa80b26d4552be",
       "verification_status": "verified"
     },
     {
@@ -98447,6 +99093,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/laganexa/la-ganexa-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/laganexa/la-ganexa-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 99856,
+      "sha256": "7a333720df31bb7b1883357c5a5595bac306afb4f7753b6b0a0501e4e5094f7e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "la-ganexa-e-confiavel-capa-v2.webp",
+      "storage_filename": "la-ganexa-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/la-ganexa-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/la-ganexa-e-confiavel.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/laganexa/la-ganexa-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7a333720df31bb7b1883357c5a5595bac306afb4f7753b6b0a0501e4e5094f7e/la-ganexa-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7a333720df31bb7b1883357c5a5595bac306afb4f7753b6b0a0501e4e5094f7e/la-ganexa-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "7a333720df31bb7b1883357c5a5595bac306afb4f7753b6b0a0501e4e5094f7e",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/laganexa/la-ganexa-e-confiavel-capa.webp",
       "local_url": "/images/reviews/laganexa/la-ganexa-e-confiavel-capa.webp",
       "media_kind": "image",
@@ -98582,6 +99266,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-13T15:55:35.616Z",
       "verification_etag_or_digest": "ab8b977ca44b8855a22fe4e5b16cce4cb252c7bbe008da04ee729b7237765778",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/laganexa/la-ganexa-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "local_url": "/images/reviews/laganexa/la-ganexa-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 191780,
+      "sha256": "fc03652780c7a048506a65abf2115213dce9adfaec5e9ae8e114dce2a7844b55",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "la-ganexa-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "storage_filename": "la-ganexa-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/la-ganexa-reclame-aqui-nota-reputacao.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/la-ganexa-reclame-aqui-nota-reputacao.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/laganexa/la-ganexa-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/fc03652780c7a048506a65abf2115213dce9adfaec5e9ae8e114dce2a7844b55/la-ganexa-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fc03652780c7a048506a65abf2115213dce9adfaec5e9ae8e114dce2a7844b55/la-ganexa-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "fc03652780c7a048506a65abf2115213dce9adfaec5e9ae8e114dce2a7844b55",
       "verification_status": "verified"
     },
     {
@@ -120440,6 +121162,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/prohall/black-friday-prohall-capa-v2.webp",
+      "local_url": "/images/reviews/prohall/black-friday-prohall-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 121368,
+      "sha256": "1a9e51627cef4d211d1097cb85fe6d48d14bd73bc5135276bd8871cc4a85a685",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-prohall-capa-v2.webp",
+      "storage_filename": "black-friday-prohall-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-prohall.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-prohall.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/prohall/black-friday-prohall-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1a9e51627cef4d211d1097cb85fe6d48d14bd73bc5135276bd8871cc4a85a685/black-friday-prohall-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1a9e51627cef4d211d1097cb85fe6d48d14bd73bc5135276bd8871cc4a85a685/black-friday-prohall-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "1a9e51627cef4d211d1097cb85fe6d48d14bd73bc5135276bd8871cc4a85a685",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/prohall/black-friday-prohall-capa.webp",
       "local_url": "/images/reviews/prohall/black-friday-prohall-capa.webp",
       "media_kind": "image",
@@ -120632,6 +121392,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/prohall/cupom-prohall-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/prohall/cupom-prohall-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 115396,
+      "sha256": "08f9c5fbc98b32e28d262ab0b0a47576ff6656078eb31356b1b01feedaf4b77d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-prohall-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-prohall-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-prohall-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-prohall-como-usar.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/prohall/cupom-prohall-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/08f9c5fbc98b32e28d262ab0b0a47576ff6656078eb31356b1b01feedaf4b77d/cupom-prohall-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/08f9c5fbc98b32e28d262ab0b0a47576ff6656078eb31356b1b01feedaf4b77d/cupom-prohall-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "08f9c5fbc98b32e28d262ab0b0a47576ff6656078eb31356b1b01feedaf4b77d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/prohall/cupom-prohall-como-usar-capa.webp",
       "local_url": "/images/reviews/prohall/cupom-prohall-como-usar-capa.webp",
       "media_kind": "image",
@@ -120740,6 +121538,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/prohall/cupom-prohall-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/prohall/cupom-prohall-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 91142,
+      "sha256": "0baf0184c2671cae8627876fd938340cfb8b101bbd55adefe29de1b360482646",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-prohall-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-prohall-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-prohall-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-prohall-primeira-compra.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/cupom-prohall-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0baf0184c2671cae8627876fd938340cfb8b101bbd55adefe29de1b360482646/cupom-prohall-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0baf0184c2671cae8627876fd938340cfb8b101bbd55adefe29de1b360482646/cupom-prohall-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "0baf0184c2671cae8627876fd938340cfb8b101bbd55adefe29de1b360482646",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/prohall/cupom-prohall-primeira-compra-capa.webp",
       "local_url": "/images/reviews/prohall/cupom-prohall-primeira-compra-capa.webp",
       "media_kind": "image",
@@ -120791,6 +121627,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-13T00:29:43.985Z",
       "verification_etag_or_digest": "fec46c104582e5698722f924e0c64c3808c8177a38503b31ced4198b75a664fc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/prohall-e-boa-capa-v2.webp",
+      "local_url": "/images/reviews/prohall/prohall-e-boa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 75202,
+      "sha256": "96503694cd9040c96c484946ddb977822165737c62c4bd8745c567928450d9dd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "prohall-e-boa-capa-v2.webp",
+      "storage_filename": "prohall-e-boa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/prohall-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/prohall-e-boa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/prohall-e-boa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/96503694cd9040c96c484946ddb977822165737c62c4bd8745c567928450d9dd/prohall-e-boa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/96503694cd9040c96c484946ddb977822165737c62c4bd8745c567928450d9dd/prohall-e-boa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "96503694cd9040c96c484946ddb977822165737c62c4bd8745c567928450d9dd",
       "verification_status": "verified"
     },
     {
@@ -120940,6 +121814,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/prohall/prohall-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/prohall/prohall-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 76894,
+      "sha256": "7133f2dad5da1b304b92aa0209b8dda86a9d65454c4c6a03ec218a1b875565fd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "prohall-e-confiavel-capa-v2.webp",
+      "storage_filename": "prohall-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/prohall-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/prohall-e-confiavel.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/prohall/prohall-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7133f2dad5da1b304b92aa0209b8dda86a9d65454c4c6a03ec218a1b875565fd/prohall-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7133f2dad5da1b304b92aa0209b8dda86a9d65454c4c6a03ec218a1b875565fd/prohall-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "7133f2dad5da1b304b92aa0209b8dda86a9d65454c4c6a03ec218a1b875565fd",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/prohall/prohall-e-confiavel-capa.webp",
       "local_url": "/images/reviews/prohall/prohall-e-confiavel-capa.webp",
       "media_kind": "image",
@@ -121083,6 +121995,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-13T00:29:43.986Z",
       "verification_etag_or_digest": "516a1923810cd2b88a8b39f6c52223b9a3d259157bfdd1f55b9403155e51a822",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/prohall-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "local_url": "/images/reviews/prohall/prohall-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 164538,
+      "sha256": "5e294229fdb4f66f84ffe80deeccda4f74ef6d960ab13ecbbd5b79a268503fd4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "prohall-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "storage_filename": "prohall-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/prohall-reclame-aqui-nota-reputacao.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/prohall-reclame-aqui-nota-reputacao.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/prohall/prohall-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5e294229fdb4f66f84ffe80deeccda4f74ef6d960ab13ecbbd5b79a268503fd4/prohall-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5e294229fdb4f66f84ffe80deeccda4f74ef6d960ab13ecbbd5b79a268503fd4/prohall-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.241Z",
+      "verification_etag_or_digest": "5e294229fdb4f66f84ffe80deeccda4f74ef6d960ab13ecbbd5b79a268503fd4",
       "verification_status": "verified"
     },
     {
@@ -122455,6 +123405,82 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/shein/cupom-shein-primeira-compra-capa-de-v2.webp",
+      "local_url": "/images/reviews/shein/cupom-shein-primeira-compra-capa-de-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 120164,
+      "sha256": "a643bb363de35c72acc9aa599da60fa58f9dea411e2c5930d9a045c7cb178354",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-shein-primeira-compra-capa-de-v2.webp",
+      "storage_filename": "cupom-shein-primeira-compra-capa-de-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-gutschein-erstbestellung.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-gutschein-erstbestellung.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-de-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a643bb363de35c72acc9aa599da60fa58f9dea411e2c5930d9a045c7cb178354/cupom-shein-primeira-compra-capa-de-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a643bb363de35c72acc9aa599da60fa58f9dea411e2c5930d9a045c7cb178354/cupom-shein-primeira-compra-capa-de-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.242Z",
+      "verification_etag_or_digest": "a643bb363de35c72acc9aa599da60fa58f9dea411e2c5930d9a045c7cb178354",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/cupom-shein-primeira-compra-capa-en-v2.webp",
+      "local_url": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 119298,
+      "sha256": "171c30d0f94fa1eae16a5299f025e3eb42bd24580338741241da59644bb4bdaf",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-shein-primeira-compra-capa-en-v2.webp",
+      "storage_filename": "cupom-shein-primeira-compra-capa-en-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-first-order-referral-code.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-first-order-referral-code.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/171c30d0f94fa1eae16a5299f025e3eb42bd24580338741241da59644bb4bdaf/cupom-shein-primeira-compra-capa-en-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/171c30d0f94fa1eae16a5299f025e3eb42bd24580338741241da59644bb4bdaf/cupom-shein-primeira-compra-capa-en-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.242Z",
+      "verification_etag_or_digest": "171c30d0f94fa1eae16a5299f025e3eb42bd24580338741241da59644bb4bdaf",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
       "local_url": "/images/reviews/shein/cupom-shein-primeira-compra-capa-en.webp",
       "media_kind": "image",
@@ -122618,6 +123644,310 @@
       "uploaded_at": null,
       "verified_at": "2026-11-13T20:16:11.626Z",
       "verification_etag_or_digest": "63d61ed98285d7c971c042730abe9f7de35532520fc2809b293ea44406c1e0ca",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/cupom-shein-primeira-compra-capa-es-v2.webp",
+      "local_url": "/images/reviews/shein/cupom-shein-primeira-compra-capa-es-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 120128,
+      "sha256": "7036ea813df5b2c9b39a8d4e808e6a445a37801998e93e37bddf948a158bbc51",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-shein-primeira-compra-capa-es-v2.webp",
+      "storage_filename": "cupom-shein-primeira-compra-capa-es-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupon-shein-primera-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupon-shein-primera-compra.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-es-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7036ea813df5b2c9b39a8d4e808e6a445a37801998e93e37bddf948a158bbc51/cupom-shein-primeira-compra-capa-es-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7036ea813df5b2c9b39a8d4e808e6a445a37801998e93e37bddf948a158bbc51/cupom-shein-primeira-compra-capa-es-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.242Z",
+      "verification_etag_or_digest": "7036ea813df5b2c9b39a8d4e808e6a445a37801998e93e37bddf948a158bbc51",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/cupom-shein-primeira-compra-capa-fr-v2.webp",
+      "local_url": "/images/reviews/shein/cupom-shein-primeira-compra-capa-fr-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 126722,
+      "sha256": "c30620b0794838e866841fda79fb64374e4de6be2a4f92d768579facd7d556f7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-shein-primeira-compra-capa-fr-v2.webp",
+      "storage_filename": "cupom-shein-primeira-compra-capa-fr-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/code-promo-shein-premiere-commande.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/code-promo-shein-premiere-commande.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-fr-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c30620b0794838e866841fda79fb64374e4de6be2a4f92d768579facd7d556f7/cupom-shein-primeira-compra-capa-fr-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c30620b0794838e866841fda79fb64374e4de6be2a4f92d768579facd7d556f7/cupom-shein-primeira-compra-capa-fr-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.242Z",
+      "verification_etag_or_digest": "c30620b0794838e866841fda79fb64374e4de6be2a4f92d768579facd7d556f7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/cupom-shein-primeira-compra-capa-it-v2.webp",
+      "local_url": "/images/reviews/shein/cupom-shein-primeira-compra-capa-it-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 119054,
+      "sha256": "f2528103e9e6c8e16b744d1532a6807807122995898ae8b84eafd0bba64c341f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-shein-primeira-compra-capa-it-v2.webp",
+      "storage_filename": "cupom-shein-primeira-compra-capa-it-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/codice-sconto-shein-primo-ordine.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/codice-sconto-shein-primo-ordine.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-it-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f2528103e9e6c8e16b744d1532a6807807122995898ae8b84eafd0bba64c341f/cupom-shein-primeira-compra-capa-it-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f2528103e9e6c8e16b744d1532a6807807122995898ae8b84eafd0bba64c341f/cupom-shein-primeira-compra-capa-it-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.242Z",
+      "verification_etag_or_digest": "f2528103e9e6c8e16b744d1532a6807807122995898ae8b84eafd0bba64c341f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/cupom-shein-primeira-compra-capa-ja-v2.webp",
+      "local_url": "/images/reviews/shein/cupom-shein-primeira-compra-capa-ja-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 120466,
+      "sha256": "108211b4d0be296390c328dbc78627d585875a205abb31e4dbb0ea84ea48656f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-shein-primeira-compra-capa-ja-v2.webp",
+      "storage_filename": "cupom-shein-primeira-compra-capa-ja-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-first-order-ja.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-first-order-ja.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-ja-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/108211b4d0be296390c328dbc78627d585875a205abb31e4dbb0ea84ea48656f/cupom-shein-primeira-compra-capa-ja-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/108211b4d0be296390c328dbc78627d585875a205abb31e4dbb0ea84ea48656f/cupom-shein-primeira-compra-capa-ja-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.242Z",
+      "verification_etag_or_digest": "108211b4d0be296390c328dbc78627d585875a205abb31e4dbb0ea84ea48656f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/cupom-shein-primeira-compra-capa-ko-v2.webp",
+      "local_url": "/images/reviews/shein/cupom-shein-primeira-compra-capa-ko-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 116968,
+      "sha256": "29c40f9f133d1f2a641dd023a4355fdb7532e8001df967f38f3839e6de438c42",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-shein-primeira-compra-capa-ko-v2.webp",
+      "storage_filename": "cupom-shein-primeira-compra-capa-ko-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-first-order-ko.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-first-order-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-ko-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/29c40f9f133d1f2a641dd023a4355fdb7532e8001df967f38f3839e6de438c42/cupom-shein-primeira-compra-capa-ko-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/29c40f9f133d1f2a641dd023a4355fdb7532e8001df967f38f3839e6de438c42/cupom-shein-primeira-compra-capa-ko-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.242Z",
+      "verification_etag_or_digest": "29c40f9f133d1f2a641dd023a4355fdb7532e8001df967f38f3839e6de438c42",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/cupom-shein-primeira-compra-capa-pt-v2.webp",
+      "local_url": "/images/reviews/shein/cupom-shein-primeira-compra-capa-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 120722,
+      "sha256": "ebe157213bfd3388c86689467ae47d5186c1d0611c0d322326968e3ffb35a3ee",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-shein-primeira-compra-capa-pt-v2.webp",
+      "storage_filename": "cupom-shein-primeira-compra-capa-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-shein-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-shein-primeira-compra.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ebe157213bfd3388c86689467ae47d5186c1d0611c0d322326968e3ffb35a3ee/cupom-shein-primeira-compra-capa-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ebe157213bfd3388c86689467ae47d5186c1d0611c0d322326968e3ffb35a3ee/cupom-shein-primeira-compra-capa-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.242Z",
+      "verification_etag_or_digest": "ebe157213bfd3388c86689467ae47d5186c1d0611c0d322326968e3ffb35a3ee",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/cupom-shein-primeira-compra-capa-zh-hans-v2.webp",
+      "local_url": "/images/reviews/shein/cupom-shein-primeira-compra-capa-zh-hans-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 119812,
+      "sha256": "42d1e26a4ff9183b1c9b4a72ba2cf733785bf24c046d684a289a01dd7619acec",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-shein-primeira-compra-capa-zh-hans-v2.webp",
+      "storage_filename": "cupom-shein-primeira-compra-capa-zh-hans-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-first-order-zh-hans.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-first-order-zh-hans.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-zh-hans-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/42d1e26a4ff9183b1c9b4a72ba2cf733785bf24c046d684a289a01dd7619acec/cupom-shein-primeira-compra-capa-zh-hans-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/42d1e26a4ff9183b1c9b4a72ba2cf733785bf24c046d684a289a01dd7619acec/cupom-shein-primeira-compra-capa-zh-hans-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.242Z",
+      "verification_etag_or_digest": "42d1e26a4ff9183b1c9b4a72ba2cf733785bf24c046d684a289a01dd7619acec",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/cupom-shein-primeira-compra-capa-zh-hant-v2.webp",
+      "local_url": "/images/reviews/shein/cupom-shein-primeira-compra-capa-zh-hant-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 118792,
+      "sha256": "348de3343fba721a3a1b2d074e8a0fd16eb6477d99a9f7c4977bceb0acdb37c8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-shein-primeira-compra-capa-zh-hant-v2.webp",
+      "storage_filename": "cupom-shein-primeira-compra-capa-zh-hant-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-first-order-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-first-order-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/cupom-shein-primeira-compra-capa-zh-hant-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/348de3343fba721a3a1b2d074e8a0fd16eb6477d99a9f7c4977bceb0acdb37c8/cupom-shein-primeira-compra-capa-zh-hant-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/348de3343fba721a3a1b2d074e8a0fd16eb6477d99a9f7c4977bceb0acdb37c8/cupom-shein-primeira-compra-capa-zh-hant-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.242Z",
+      "verification_etag_or_digest": "348de3343fba721a3a1b2d074e8a0fd16eb6477d99a9f7c4977bceb0acdb37c8",
       "verification_status": "verified"
     },
     {
@@ -143860,6 +145190,82 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-de-v2.webp",
+      "local_url": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-de-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 121492,
+      "sha256": "2ea386a4a64f8d19256c049b4cb6d61ab81d3d0eb053e7a080550b2c720187c5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-de-v2.webp",
+      "storage_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-de-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-erste-bestellung-code-cecilia010.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-erste-bestellung-code-cecilia010.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-de-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2ea386a4a64f8d19256c049b4cb6d61ab81d3d0eb053e7a080550b2c720187c5/codigo-yesstyle-primeira-compra-cecilia010-capa-de-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2ea386a4a64f8d19256c049b4cb6d61ab81d3d0eb053e7a080550b2c720187c5/codigo-yesstyle-primeira-compra-cecilia010-capa-de-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.242Z",
+      "verification_etag_or_digest": "2ea386a4a64f8d19256c049b4cb6d61ab81d3d0eb053e7a080550b2c720187c5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en-v2.webp",
+      "local_url": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 120242,
+      "sha256": "17712a17484ff2edf98a1132c70d4c5243b9d0bc027636b5712115793b6f6ab5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-en-v2.webp",
+      "storage_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-en-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-first-order-reward-code-cecilia010.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-first-order-reward-code-cecilia010.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/17712a17484ff2edf98a1132c70d4c5243b9d0bc027636b5712115793b6f6ab5/codigo-yesstyle-primeira-compra-cecilia010-capa-en-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/17712a17484ff2edf98a1132c70d4c5243b9d0bc027636b5712115793b6f6ab5/codigo-yesstyle-primeira-compra-cecilia010-capa-en-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.242Z",
+      "verification_etag_or_digest": "17712a17484ff2edf98a1132c70d4c5243b9d0bc027636b5712115793b6f6ab5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
       "local_url": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en.webp",
       "media_kind": "image",
@@ -144023,6 +145429,310 @@
       "uploaded_at": null,
       "verified_at": "2026-11-13T20:16:10.968Z",
       "verification_etag_or_digest": "92c44ec1b3c5d7796d2ce168b84d03d4d3c59717763de4821d4e5707c2b37d15",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-es-v2.webp",
+      "local_url": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-es-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 122098,
+      "sha256": "e992f42f64a5fa611fc7f40a851ba24abce6b639a087d0d0b786496522ea5712",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-es-v2.webp",
+      "storage_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-es-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-primera-compra-codigo-cecilia010.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-primera-compra-codigo-cecilia010.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-es-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e992f42f64a5fa611fc7f40a851ba24abce6b639a087d0d0b786496522ea5712/codigo-yesstyle-primeira-compra-cecilia010-capa-es-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e992f42f64a5fa611fc7f40a851ba24abce6b639a087d0d0b786496522ea5712/codigo-yesstyle-primeira-compra-cecilia010-capa-es-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.242Z",
+      "verification_etag_or_digest": "e992f42f64a5fa611fc7f40a851ba24abce6b639a087d0d0b786496522ea5712",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-fr-v2.webp",
+      "local_url": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-fr-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 126572,
+      "sha256": "4dc6c281c3bcc719a915c0d71d552e21eb335fb93f52081226f0bc81fabfb572",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-fr-v2.webp",
+      "storage_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-fr-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-premiere-commande-code-cecilia010.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-premiere-commande-code-cecilia010.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-fr-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4dc6c281c3bcc719a915c0d71d552e21eb335fb93f52081226f0bc81fabfb572/codigo-yesstyle-primeira-compra-cecilia010-capa-fr-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4dc6c281c3bcc719a915c0d71d552e21eb335fb93f52081226f0bc81fabfb572/codigo-yesstyle-primeira-compra-cecilia010-capa-fr-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.242Z",
+      "verification_etag_or_digest": "4dc6c281c3bcc719a915c0d71d552e21eb335fb93f52081226f0bc81fabfb572",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-it-v2.webp",
+      "local_url": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-it-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 122104,
+      "sha256": "eb83053a2c0f5cd6d171379c64c1954b0a57456adebd5d602c309a89b22ed6ab",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-it-v2.webp",
+      "storage_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-it-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-primo-ordine-codice-cecilia010.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-primo-ordine-codice-cecilia010.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-it-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/eb83053a2c0f5cd6d171379c64c1954b0a57456adebd5d602c309a89b22ed6ab/codigo-yesstyle-primeira-compra-cecilia010-capa-it-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/eb83053a2c0f5cd6d171379c64c1954b0a57456adebd5d602c309a89b22ed6ab/codigo-yesstyle-primeira-compra-cecilia010-capa-it-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.242Z",
+      "verification_etag_or_digest": "eb83053a2c0f5cd6d171379c64c1954b0a57456adebd5d602c309a89b22ed6ab",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-ja-v2.webp",
+      "local_url": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-ja-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 121620,
+      "sha256": "846b540216665c8ad44fd64168204e5b6ed675a872db262a724e6b68a8968896",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-ja-v2.webp",
+      "storage_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-ja-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-first-order-cecilia010-ja.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-first-order-cecilia010-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-ja-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/846b540216665c8ad44fd64168204e5b6ed675a872db262a724e6b68a8968896/codigo-yesstyle-primeira-compra-cecilia010-capa-ja-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/846b540216665c8ad44fd64168204e5b6ed675a872db262a724e6b68a8968896/codigo-yesstyle-primeira-compra-cecilia010-capa-ja-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.242Z",
+      "verification_etag_or_digest": "846b540216665c8ad44fd64168204e5b6ed675a872db262a724e6b68a8968896",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-ko-v2.webp",
+      "local_url": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-ko-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 117578,
+      "sha256": "000a2ceab38569aaea5ea9f8b7a3d1ae225dfa33d9bbe4e36bebcfb013dd9890",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-ko-v2.webp",
+      "storage_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-ko-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-first-order-cecilia010-ko.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-first-order-cecilia010-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-ko-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/000a2ceab38569aaea5ea9f8b7a3d1ae225dfa33d9bbe4e36bebcfb013dd9890/codigo-yesstyle-primeira-compra-cecilia010-capa-ko-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/000a2ceab38569aaea5ea9f8b7a3d1ae225dfa33d9bbe4e36bebcfb013dd9890/codigo-yesstyle-primeira-compra-cecilia010-capa-ko-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.242Z",
+      "verification_etag_or_digest": "000a2ceab38569aaea5ea9f8b7a3d1ae225dfa33d9bbe4e36bebcfb013dd9890",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-pt-v2.webp",
+      "local_url": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 121854,
+      "sha256": "3b566cd999e093c8c599316235702ed710c78c035cd41ec324e94c1430fe209b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-pt-v2.webp",
+      "storage_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/codigo-yesstyle-primeira-compra-cecilia010.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/codigo-yesstyle-primeira-compra-cecilia010.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3b566cd999e093c8c599316235702ed710c78c035cd41ec324e94c1430fe209b/codigo-yesstyle-primeira-compra-cecilia010-capa-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3b566cd999e093c8c599316235702ed710c78c035cd41ec324e94c1430fe209b/codigo-yesstyle-primeira-compra-cecilia010-capa-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.242Z",
+      "verification_etag_or_digest": "3b566cd999e093c8c599316235702ed710c78c035cd41ec324e94c1430fe209b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-zh-hans-v2.webp",
+      "local_url": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-zh-hans-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 120414,
+      "sha256": "3ad4233ba58fdc2482b51de317c8f295a18a735e71580d2faa80b16c28e3607c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-zh-hans-v2.webp",
+      "storage_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-zh-hans-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-first-order-cecilia010-zh-hans.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-first-order-cecilia010-zh-hans.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-zh-hans-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3ad4233ba58fdc2482b51de317c8f295a18a735e71580d2faa80b16c28e3607c/codigo-yesstyle-primeira-compra-cecilia010-capa-zh-hans-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3ad4233ba58fdc2482b51de317c8f295a18a735e71580d2faa80b16c28e3607c/codigo-yesstyle-primeira-compra-cecilia010-capa-zh-hans-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.242Z",
+      "verification_etag_or_digest": "3ad4233ba58fdc2482b51de317c8f295a18a735e71580d2faa80b16c28e3607c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-zh-hant-v2.webp",
+      "local_url": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-zh-hant-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 119742,
+      "sha256": "1718627e410b475991bda8c31969dbde285f401fd87be66bf695889baaaee57a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-zh-hant-v2.webp",
+      "storage_filename": "codigo-yesstyle-primeira-compra-cecilia010-capa-zh-hant-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-first-order-cecilia010-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-first-order-cecilia010-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-zh-hant-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1718627e410b475991bda8c31969dbde285f401fd87be66bf695889baaaee57a/codigo-yesstyle-primeira-compra-cecilia010-capa-zh-hant-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1718627e410b475991bda8c31969dbde285f401fd87be66bf695889baaaee57a/codigo-yesstyle-primeira-compra-cecilia010-capa-zh-hant-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:46:39.242Z",
+      "verification_etag_or_digest": "1718627e410b475991bda8c31969dbde285f401fd87be66bf695889baaaee57a",
       "verification_status": "verified"
     },
     {

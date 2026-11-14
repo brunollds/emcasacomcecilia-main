@@ -199,3 +199,10 @@ O texto está em `content/reviews/cupom-i-wanna-sleep-primeira-compra.json` (id 
 ## Revisão externa (Farol, 12/11/2026)
 
 Aplicado: os 5% do Pix atribuídos à página da Caracol Sleep Mask; alt e legenda do print descrevem o outro pedido (travesseiro, desconto de R$ 69,79), conferidos na imagem.
+
+## Capa v2 (14/11/2026)
+
+- **Capa:** `/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `31d737a0d288da7af79dd1c264f3e98ebec2da435f8496c73712071a65ad15fc`.
+- **Alt:** Máscara Caracol SoftSeal enrolada ao lado da embalagem cilíndrica roxa, em composição oficial da I Wanna Sleep, com logo da marca, “Primeira compra na I Wanna Sleep?” e cupom CECIEMCASA.
+- **Origem:** composição oficial da máscara Caracol SoftSeal enrolada com a embalagem; sem promessa de sono nem uso pela equipe. Capa sem subtítulo; os rótulos dos códigos foram mantidos. Técnica de produção das imagens das lojas não determinada: sem afirmar foto real nem IA.
+- **Lote 46 do piloto de capas (sequência 16 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/46/revisao-terra/ADENDO-SEM-SUBTITULOS.json`):** aprovado pelo Bruno em 14/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-16-CLAUDE.zip` (`lotes/46/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.
