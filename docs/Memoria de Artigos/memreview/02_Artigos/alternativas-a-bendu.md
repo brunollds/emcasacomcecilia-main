@@ -7,9 +7,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Snacks"
 anexo_tipo: "nenhum"
-status: "pronto-para-deploy"
+status: "no-ar"
 responsavel: "Claude"
-proxima_acao: "deploy com o GO do Bruno; reler os preços depois da Black Bendu (30/11) e rever o capítulo do doce de leite"
+proxima_acao: "no ar desde 14/11/2026 (release 7a890ba0); reler os preços depois da Black Bendu (30/11) e rever o capítulo do doce de leite"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 74
