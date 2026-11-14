@@ -44207,6 +44207,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bendu/alternativas-a-bendu-capa.webp",
+      "local_url": "/images/reviews/bendu/alternativas-a-bendu-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 108672,
+      "sha256": "78c69b5ada21ba36ec293c51bde8fdded614bd0688cac325ded8bf03c670eb93",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "alternativas-a-bendu-capa.webp",
+      "storage_filename": "alternativas-a-bendu-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/alternativas-a-bendu.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/alternativas-a-bendu.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/bendu/alternativas-a-bendu-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 225333,
+          "column": 15,
+          "literal": "/images/reviews/bendu/alternativas-a-bendu-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/78c69b5ada21ba36ec293c51bde8fdded614bd0688cac325ded8bf03c670eb93/alternativas-a-bendu-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/78c69b5ada21ba36ec293c51bde8fdded614bd0688cac325ded8bf03c670eb93/alternativas-a-bendu-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T18:51:46.549Z",
+      "verification_etag_or_digest": "78c69b5ada21ba36ec293c51bde8fdded614bd0688cac325ded8bf03c670eb93",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/black-skull/black-friday-black-skull-capa-discover.webp",
       "local_url": "/images/reviews/black-skull/black-friday-black-skull-capa-discover.webp",
       "media_kind": "image",

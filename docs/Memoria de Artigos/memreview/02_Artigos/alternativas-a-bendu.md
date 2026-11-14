@@ -7,9 +7,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Snacks"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2) com a Black Bendu lida (14 a 30/11)"
+proxima_acao: "deploy com o GO do Bruno; reler os preços depois da Black Bendu (30/11) e rever o capítulo do doce de leite"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 74
@@ -199,3 +199,22 @@ linha. São quatro parceiras porque cada linha tem uma vencedora diferente.
 | Cluster | 10 | 9 | Liga os artigos de snacks de quatro parceiras |
 | Viabilidade | 10 | 5 | A Black Bendu pode tirar linhas; quatro lojas para reler |
 | **Total** | 100 | **72** | |
+
+## 11. Redação e fechamento (14/11/2026)
+
+Artigo `alternativas-a-bendu` (id 977), no formato de várias lojas, com as quatro parceiras. Texto revisado pelo Bruno e
+pelo Farol / ChatGPT (`docs/auditoria-copy-artigos/bd1-alternativas-bendu-20261114/`).
+
+- **Black Bendu lida em 14/11:** 10% a partir de 3 unidades do mesmo produto (na página do display, a unidade é o
+  display) e 5% no Pix. Cada tabela mostra a Bendu nesse cenário, o mais barato dela.
+- **Linhas que ficaram:** Salty Chips (Belive), Crispy Wafer (Chocowheyfer Max e de 25 g), Soft Bar (Doctor Bar), creme de
+  avelã (pasta sabor avelã da Dr. Peanut) e doce de leite (La Ganexa).
+- **Doce de leite, decisão do Bruno:** fica. Com o CECILIA sai a R$ 19,12 por 100 g: ganha de um pote da Bendu no Pix
+  (R$ 20,61) e perde para três potes no Pix (R$ 18,55). O capítulo, o "Passe se" e o FAQ dizem as duas coisas.
+- **Saíram:** a Mukebar (só ganha em promoção) e a pasta sabor pistache (preço e rótulo não lidos).
+- **Rótulos conferidos nas páginas em 14/11:** Doctor Bar Cookies e Cream declara "contém lactose" e "contém glúten"; a
+  pasta sabor avelã, "contém lactose" e "não contém glúten"; a página do Chocowheyfer Max não declara nenhum dos dois, e o
+  texto manda conferir a embalagem. Os 20 g de proteína e o zero açúcar da pasta saíram: a página não os mostra em texto.
+- **Doctor Bar:** ganha por proteína, mas custa mais por barra (R$ 13,73 contra R$ 9,97 da Soft Bar no cenário da tabela).
+- **Capa:** painel verde "Alternativas à Bendu" e "Com cupom", com snack Belive, Doce de Leite Zero, Doctor Bar e pasta
+  sabor avelã; sem a Mais Mu (falta foto limpa do Chocowheyfer) e sem logo ou foto da Bendu. Aprovada pelo Bruno em 14/11.
