@@ -29,7 +29,7 @@
   "cons": [],
   "cta": {
     "text": "No site da DAMIE, digite CECILIA12 no campo de cupom do checkout: são 12%, que somam com o Pix. Confira a linha do desconto no resumo antes de pagar.",
-    "label": "Ver o cupom CECILIA12 no site da DAMIE",
+    "label": "Ver as regras do CECILIA12",
     "url": "/cupons/damie"
   },
   "coupon": "CECILIA12",
@@ -50,13 +50,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Depende da região: no Sul e no Sudeste, o site da DAMIE tem frete grátis e aceita o cupom CECILIA12, que dá 12% e soma com o Pix. No Norte e no Nordeste, a DAMIE vende só pelo Mercado Livre. O modelo dos anúncios é outro, mesmo com nome igual: veja abaixo a ficha antes do preço."
+        "No Sul e no Sudeste, o site da DAMIE tem frete grátis e aceita o cupom CECILIA12, que dá 12% e soma com o Pix. No Norte e no Nordeste, a DAMIE vende só pelos anúncios oficiais no Mercado Livre. O modelo dos anúncios é outro, mesmo com nome igual: compare a ficha e o frete antes do preço."
       ]
     },
     {
       "heading": "Onde a DAMIE vende, região por região",
       "paragraphs": [
-        "A DAMIE separa os canais por região, e a página de fretes diz isso com todas as letras: para Norte e Nordeste, a loja atende “exclusivamente pelos nossos anúncios oficiais no Mercado Livre”."
+        "Na página de fretes, a DAMIE diz que atende o Norte e o Nordeste “exclusivamente pelos nossos anúncios oficiais no Mercado Livre”. No Sul, no Sudeste e no Centro-Oeste, o site vende, e os anúncios do Mercado Livre também atendem capitais dessas regiões, com o frete que o anúncio mostra para o seu CEP."
       ],
       "comparisonTable": {
         "headers": [
@@ -68,15 +68,15 @@
         "rows": [
           [
             "Sul e Sudeste",
-            "Site",
-            "Grátis em poltronas e sofás",
-            "Vale no site"
+            "Site e anúncios",
+            "Site: grátis em poltronas e sofás. Anúncio: pelo CEP, na página do anúncio",
+            "Vale só no site"
           ],
           [
             "Centro-Oeste",
-            "Site",
-            "Calculado pelo CEP no carrinho",
-            "Vale no site"
+            "Site e anúncios",
+            "Pelo CEP, no carrinho do site ou no anúncio",
+            "Vale só no site"
           ],
           [
             "Norte e Nordeste",
@@ -91,7 +91,7 @@
       ],
       "links": [
         {
-          "label": "Ir para o site da DAMIE com o CECILIA12",
+          "label": "Ver poltronas no site da DAMIE",
           "href": "https://damie.com.br",
           "sponsored": true
         }
@@ -100,9 +100,9 @@
     {
       "heading": "No anúncio, o modelo é outro",
       "paragraphs": [
-        "Pela informação da parceria, a poltrona vendida nos anúncios é outro modelo, mesmo quando o nome se repete: o formato muda, principalmente o do assento. As fichas não mostram essa diferença, então o nome não basta para comparar: confira as medidas e o peso suportado no anúncio.",
-        "As medidas publicadas são parecidas. A Elétrica Fixa do site tem 85 cm de largura, e a Elétrica de Tecido Conforto do anúncio, 87 cm; o site informa 52 cm de profundidade no assento, e o anúncio, 58 × 52 cm no que chama de “colchão”. A Levita tem o mesmo nome nos dois canais e peso máximo diferente: 120 kg no site, 150 kg no anúncio. A densidade da espuma só aparece nos anúncios.",
-        "A experiência que temos é com as poltronas do site. A Cecília recebeu a Poltrona Reclinável 2.0 em parceria, e o que ela achou está no [teste da 2.0](/reviews/poltrona-damie-e-boa). Os modelos dos anúncios, não testamos nenhum deles: eles entram aqui pela ficha e pelas avaliações públicas, e o [guia dos modelos dos anúncios](/reviews/poltronas-damie-florenca-levita-moon) traz cada um."
+        "Pela informação da parceria, a poltrona dos anúncios é outro modelo, mesmo quando o nome se repete: o formato muda, principalmente o do assento. As fichas não mostram essa diferença. Antes de comparar preço, confira no anúncio as medidas, o mecanismo e o peso suportado.",
+        "As medidas publicadas são parecidas. A Elétrica Fixa do site tem 85 cm de largura, e a Elétrica de Tecido Conforto do anúncio, 87 cm; o site informa 52 cm de profundidade no assento, e o anúncio, 58 × 52 cm no que chama de “colchão”. A Levita tem o mesmo nome nos dois canais e peso máximo diferente: 120 kg no site, 150 kg no anúncio. Os anúncios informam a densidade da espuma; a página da Elétrica Fixa do site não informa.",
+        "A Cecília recebeu a Poltrona Reclinável 2.0 do site em parceria, e o que ela achou está no [teste da 2.0](/reviews/poltrona-damie-e-boa). Não testamos os modelos dos anúncios do Mercado Livre e da Amazon: eles entram aqui pela ficha e pelas avaliações públicas, e o [guia dos modelos dos anúncios](/reviews/poltronas-damie-florenca-levita-moon) traz cada um."
       ]
     },
     {
@@ -156,7 +156,7 @@
     {
       "heading": "Preço nos anúncios",
       "paragraphs": [
-        "Nos anúncios vale o preço do anúncio, sem cupom: o CECILIA12 só funciona no site. Cor e tecido mudam o preço dentro do mesmo anúncio, então confira a variação que você escolher. Os preços são do mesmo dia da tabela do site e não se comparam com ela, porque os modelos são outros."
+        "Nos anúncios vale o preço do anúncio, sem cupom: o CECILIA12 só funciona no site. Cor e tecido mudam o preço dentro do mesmo anúncio, então confira a variação que você escolher e o frete para o seu CEP. Os preços são do mesmo dia da tabela do site e não se comparam com ela, porque os modelos são outros."
       ],
       "comparisonTable": {
         "headers": [
@@ -267,8 +267,8 @@
     {
       "heading": "Poltrona DAMIE na Amazon",
       "paragraphs": [
-        "A DAMIE também vende na Amazon, com o vendedor Damie Poltronas, e a regra é a do Mercado Livre: vale o preço do anúncio, sem o CECILIA12. Não testamos esses anúncios. A Florença manual em corino tem as mesmas medidas do anúncio do Mercado Livre.",
-        "Massagem e aquecimento aparecem nos anúncios da Amazon. No site, a massagem é um opcional pago do configurador, e o aquecimento não aparece nas fichas do site. O nome Florença também não aparece no site."
+        "A DAMIE também aparece na Amazon: nos dois anúncios que abrimos, o vendedor era Damie Poltronas. Confira o vendedor na página do anúncio. Vale o mesmo que no Mercado Livre: o preço do anúncio, sem o CECILIA12. A Florença manual em corino tem as mesmas medidas do anúncio do Mercado Livre.",
+        "Massagem e aquecimento aparecem nos anúncios da Amazon. No site, a massagem é um opcional do configurador: confira os opcionais na configuração que você escolher. O aquecimento não aparece na página da Elétrica Fixa do site, e a busca do site não devolve produto com o nome Florença."
       ]
     },
     {
@@ -281,12 +281,12 @@
     {
       "heading": "Onde comprar, por perfil",
       "paragraphs": [
-        "A região decide primeiro. No Sul e no Sudeste, se o modelo que você quer está no site, compre no site com o CECILIA12 e o Pix, que juntos tiram 20,8% do preço do catálogo. No Centro-Oeste, o site também vende, com o frete calculado pelo CEP: simule no carrinho antes de fechar. No Norte e no Nordeste, o caminho é o anúncio do Mercado Livre.",
-        "Se o modelo que você quer só existe em anúncio, como a Florença, a escolha é pelo anúncio, em qualquer região. Nesse caso, leia a ficha antes do preço, porque o modelo é outro."
+        "A região decide primeiro. No Sul e no Sudeste, se o modelo que você quer está no site, compre no site com o CECILIA12 e o Pix, que juntos tiram 20,8% do preço do catálogo. No Centro-Oeste, o site também vende, com o frete calculado pelo CEP: simule o frete no carrinho do site e no anúncio antes de fechar. No Norte e no Nordeste, o caminho é o anúncio do Mercado Livre.",
+        "Se o modelo que você quer só aparece em anúncio, como a Florença, a escolha é pelo anúncio, em qualquer região. Confira se ele entrega no seu CEP e leia a ficha antes do preço, porque o modelo é outro."
       ],
       "links": [
         {
-          "label": "Ir para o site da DAMIE com o CECILIA12",
+          "label": "Ver poltronas no site da DAMIE",
           "href": "https://damie.com.br",
           "sponsored": true
         },
@@ -302,17 +302,17 @@
       "bullets": [
         "A DAMIE vende no Mercado Livre? Sim, pelos anúncios oficiais da própria loja. Para Norte e Nordeste, a página de fretes diz que é só por lá.",
         "O cupom CECILIA12 vale no Mercado Livre? Não. Ele vale só no site da DAMIE e soma com o Pix; a conta está na tabela de preço do site.",
-        "A DAMIE entrega no Nordeste? Sim, pelo Mercado Livre, com o frete que o anúncio mostra para o seu CEP.",
+        "A DAMIE entrega no Nordeste? Sim, pelos anúncios oficiais no Mercado Livre. O frete e a previsão de entrega aparecem ao simular o seu CEP no anúncio.",
         "A poltrona do Mercado Livre é a mesma do site? Pela informação da parceria, não: o modelo é outro, mesmo com nome igual, e o formato, principalmente o do assento, muda.",
-        "Tem poltrona DAMIE na Amazon? Tem. Os anúncios são do vendedor Damie Poltronas, com preço próprio e sem o CECILIA12; estão na tabela de preço dos anúncios."
+        "Tem poltrona DAMIE na Amazon? Tem. Nos dois anúncios que abrimos, o vendedor era Damie Poltronas; o preço é o do anúncio, sem o CECILIA12, e está na tabela de preço dos anúncios."
       ]
     }
   ],
   "decision": {
     "takeIf": [
       "Quem mora no Sul ou no Sudeste e quer um modelo que está no site: compre no site, com o CECILIA12 e o Pix.",
-      "Quem mora no Norte ou no Nordeste: a DAMIE vende por anúncios no Mercado Livre, com o frete do anúncio para o seu CEP.",
-      "Quem quer um modelo que não está no site, como a Florença: o anúncio, em qualquer região, depois de ler a ficha."
+      "Quem mora no Norte ou no Nordeste: a DAMIE vende pelos anúncios oficiais no Mercado Livre, com o frete que o anúncio mostra para o seu CEP.",
+      "Quem quer um modelo que não está no site, como a Florença: o anúncio, em qualquer região, depois de ler a ficha e conferir a entrega para o seu CEP."
     ],
     "skipIf": [
       "Quem compara só o preço: o modelo do anúncio é outro, mesmo com nome igual.",

@@ -224410,7 +224410,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "No site da DAMIE, digite CECILIA12 no campo de cupom do checkout: são 12%, que somam com o Pix. Confira a linha do desconto no resumo antes de pagar.",
-      "label": "Ver o cupom CECILIA12 no site da DAMIE",
+      "label": "Ver as regras do CECILIA12",
       "url": "/cupons/damie"
     },
     "coupon": "CECILIA12",
@@ -224431,13 +224431,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Depende da região: no Sul e no Sudeste, o site da DAMIE tem frete grátis e aceita o cupom CECILIA12, que dá 12% e soma com o Pix. No Norte e no Nordeste, a DAMIE vende só pelo Mercado Livre. O modelo dos anúncios é outro, mesmo com nome igual: veja abaixo a ficha antes do preço."
+          "No Sul e no Sudeste, o site da DAMIE tem frete grátis e aceita o cupom CECILIA12, que dá 12% e soma com o Pix. No Norte e no Nordeste, a DAMIE vende só pelos anúncios oficiais no Mercado Livre. O modelo dos anúncios é outro, mesmo com nome igual: compare a ficha e o frete antes do preço."
         ]
       },
       {
         "heading": "Onde a DAMIE vende, região por região",
         "paragraphs": [
-          "A DAMIE separa os canais por região, e a página de fretes diz isso com todas as letras: para Norte e Nordeste, a loja atende “exclusivamente pelos nossos anúncios oficiais no Mercado Livre”."
+          "Na página de fretes, a DAMIE diz que atende o Norte e o Nordeste “exclusivamente pelos nossos anúncios oficiais no Mercado Livre”. No Sul, no Sudeste e no Centro-Oeste, o site vende, e os anúncios do Mercado Livre também atendem capitais dessas regiões, com o frete que o anúncio mostra para o seu CEP."
         ],
         "comparisonTable": {
           "headers": [
@@ -224449,15 +224449,15 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Sul e Sudeste",
-              "Site",
-              "Grátis em poltronas e sofás",
-              "Vale no site"
+              "Site e anúncios",
+              "Site: grátis em poltronas e sofás. Anúncio: pelo CEP, na página do anúncio",
+              "Vale só no site"
             ],
             [
               "Centro-Oeste",
-              "Site",
-              "Calculado pelo CEP no carrinho",
-              "Vale no site"
+              "Site e anúncios",
+              "Pelo CEP, no carrinho do site ou no anúncio",
+              "Vale só no site"
             ],
             [
               "Norte e Nordeste",
@@ -224472,7 +224472,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Ir para o site da DAMIE com o CECILIA12",
+            "label": "Ver poltronas no site da DAMIE",
             "href": "https://damie.com.br",
             "sponsored": true
           }
@@ -224481,9 +224481,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "No anúncio, o modelo é outro",
         "paragraphs": [
-          "Pela informação da parceria, a poltrona vendida nos anúncios é outro modelo, mesmo quando o nome se repete: o formato muda, principalmente o do assento. As fichas não mostram essa diferença, então o nome não basta para comparar: confira as medidas e o peso suportado no anúncio.",
-          "As medidas publicadas são parecidas. A Elétrica Fixa do site tem 85 cm de largura, e a Elétrica de Tecido Conforto do anúncio, 87 cm; o site informa 52 cm de profundidade no assento, e o anúncio, 58 × 52 cm no que chama de “colchão”. A Levita tem o mesmo nome nos dois canais e peso máximo diferente: 120 kg no site, 150 kg no anúncio. A densidade da espuma só aparece nos anúncios.",
-          "A experiência que temos é com as poltronas do site. A Cecília recebeu a Poltrona Reclinável 2.0 em parceria, e o que ela achou está no [teste da 2.0](/reviews/poltrona-damie-e-boa). Os modelos dos anúncios, não testamos nenhum deles: eles entram aqui pela ficha e pelas avaliações públicas, e o [guia dos modelos dos anúncios](/reviews/poltronas-damie-florenca-levita-moon) traz cada um."
+          "Pela informação da parceria, a poltrona dos anúncios é outro modelo, mesmo quando o nome se repete: o formato muda, principalmente o do assento. As fichas não mostram essa diferença. Antes de comparar preço, confira no anúncio as medidas, o mecanismo e o peso suportado.",
+          "As medidas publicadas são parecidas. A Elétrica Fixa do site tem 85 cm de largura, e a Elétrica de Tecido Conforto do anúncio, 87 cm; o site informa 52 cm de profundidade no assento, e o anúncio, 58 × 52 cm no que chama de “colchão”. A Levita tem o mesmo nome nos dois canais e peso máximo diferente: 120 kg no site, 150 kg no anúncio. Os anúncios informam a densidade da espuma; a página da Elétrica Fixa do site não informa.",
+          "A Cecília recebeu a Poltrona Reclinável 2.0 do site em parceria, e o que ela achou está no [teste da 2.0](/reviews/poltrona-damie-e-boa). Não testamos os modelos dos anúncios do Mercado Livre e da Amazon: eles entram aqui pela ficha e pelas avaliações públicas, e o [guia dos modelos dos anúncios](/reviews/poltronas-damie-florenca-levita-moon) traz cada um."
         ]
       },
       {
@@ -224537,7 +224537,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço nos anúncios",
         "paragraphs": [
-          "Nos anúncios vale o preço do anúncio, sem cupom: o CECILIA12 só funciona no site. Cor e tecido mudam o preço dentro do mesmo anúncio, então confira a variação que você escolher. Os preços são do mesmo dia da tabela do site e não se comparam com ela, porque os modelos são outros."
+          "Nos anúncios vale o preço do anúncio, sem cupom: o CECILIA12 só funciona no site. Cor e tecido mudam o preço dentro do mesmo anúncio, então confira a variação que você escolher e o frete para o seu CEP. Os preços são do mesmo dia da tabela do site e não se comparam com ela, porque os modelos são outros."
         ],
         "comparisonTable": {
           "headers": [
@@ -224648,8 +224648,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Poltrona DAMIE na Amazon",
         "paragraphs": [
-          "A DAMIE também vende na Amazon, com o vendedor Damie Poltronas, e a regra é a do Mercado Livre: vale o preço do anúncio, sem o CECILIA12. Não testamos esses anúncios. A Florença manual em corino tem as mesmas medidas do anúncio do Mercado Livre.",
-          "Massagem e aquecimento aparecem nos anúncios da Amazon. No site, a massagem é um opcional pago do configurador, e o aquecimento não aparece nas fichas do site. O nome Florença também não aparece no site."
+          "A DAMIE também aparece na Amazon: nos dois anúncios que abrimos, o vendedor era Damie Poltronas. Confira o vendedor na página do anúncio. Vale o mesmo que no Mercado Livre: o preço do anúncio, sem o CECILIA12. A Florença manual em corino tem as mesmas medidas do anúncio do Mercado Livre.",
+          "Massagem e aquecimento aparecem nos anúncios da Amazon. No site, a massagem é um opcional do configurador: confira os opcionais na configuração que você escolher. O aquecimento não aparece na página da Elétrica Fixa do site, e a busca do site não devolve produto com o nome Florença."
         ]
       },
       {
@@ -224662,12 +224662,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar, por perfil",
         "paragraphs": [
-          "A região decide primeiro. No Sul e no Sudeste, se o modelo que você quer está no site, compre no site com o CECILIA12 e o Pix, que juntos tiram 20,8% do preço do catálogo. No Centro-Oeste, o site também vende, com o frete calculado pelo CEP: simule no carrinho antes de fechar. No Norte e no Nordeste, o caminho é o anúncio do Mercado Livre.",
-          "Se o modelo que você quer só existe em anúncio, como a Florença, a escolha é pelo anúncio, em qualquer região. Nesse caso, leia a ficha antes do preço, porque o modelo é outro."
+          "A região decide primeiro. No Sul e no Sudeste, se o modelo que você quer está no site, compre no site com o CECILIA12 e o Pix, que juntos tiram 20,8% do preço do catálogo. No Centro-Oeste, o site também vende, com o frete calculado pelo CEP: simule o frete no carrinho do site e no anúncio antes de fechar. No Norte e no Nordeste, o caminho é o anúncio do Mercado Livre.",
+          "Se o modelo que você quer só aparece em anúncio, como a Florença, a escolha é pelo anúncio, em qualquer região. Confira se ele entrega no seu CEP e leia a ficha antes do preço, porque o modelo é outro."
         ],
         "links": [
           {
-            "label": "Ir para o site da DAMIE com o CECILIA12",
+            "label": "Ver poltronas no site da DAMIE",
             "href": "https://damie.com.br",
             "sponsored": true
           },
@@ -224683,17 +224683,17 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A DAMIE vende no Mercado Livre? Sim, pelos anúncios oficiais da própria loja. Para Norte e Nordeste, a página de fretes diz que é só por lá.",
           "O cupom CECILIA12 vale no Mercado Livre? Não. Ele vale só no site da DAMIE e soma com o Pix; a conta está na tabela de preço do site.",
-          "A DAMIE entrega no Nordeste? Sim, pelo Mercado Livre, com o frete que o anúncio mostra para o seu CEP.",
+          "A DAMIE entrega no Nordeste? Sim, pelos anúncios oficiais no Mercado Livre. O frete e a previsão de entrega aparecem ao simular o seu CEP no anúncio.",
           "A poltrona do Mercado Livre é a mesma do site? Pela informação da parceria, não: o modelo é outro, mesmo com nome igual, e o formato, principalmente o do assento, muda.",
-          "Tem poltrona DAMIE na Amazon? Tem. Os anúncios são do vendedor Damie Poltronas, com preço próprio e sem o CECILIA12; estão na tabela de preço dos anúncios."
+          "Tem poltrona DAMIE na Amazon? Tem. Nos dois anúncios que abrimos, o vendedor era Damie Poltronas; o preço é o do anúncio, sem o CECILIA12, e está na tabela de preço dos anúncios."
         ]
       }
     ],
     "decision": {
       "takeIf": [
         "Quem mora no Sul ou no Sudeste e quer um modelo que está no site: compre no site, com o CECILIA12 e o Pix.",
-        "Quem mora no Norte ou no Nordeste: a DAMIE vende por anúncios no Mercado Livre, com o frete do anúncio para o seu CEP.",
-        "Quem quer um modelo que não está no site, como a Florença: o anúncio, em qualquer região, depois de ler a ficha."
+        "Quem mora no Norte ou no Nordeste: a DAMIE vende pelos anúncios oficiais no Mercado Livre, com o frete que o anúncio mostra para o seu CEP.",
+        "Quem quer um modelo que não está no site, como a Florença: o anúncio, em qualquer região, depois de ler a ficha e conferir a entrega para o seu CEP."
       ],
       "skipIf": [
         "Quem compara só o preço: o modelo do anúncio é outro, mesmo com nome igual.",
@@ -224706,7 +224706,7 @@ export const reviewsData: unknown[] = [
     "id": 974,
     "slug": "poltronas-damie-florenca-levita-moon",
     "locale": "pt",
-    "title": "Poltrona DAMIE Florença, Levita e Moon: os modelos dos marketplaces, pela ficha",
+    "title": "Poltronas DAMIE Florença, Levita e Moon: diferenças e onde comprar",
     "seoTitle": "Poltrona DAMIE Florença, Levita e Moon: o que são",
     "type": "Guia de Compra",
     "category": "guias-praticos-utilidade",
@@ -224718,14 +224718,14 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Florença, Levita e Moon são poltronas dos anúncios da DAMIE, não as do site. Veja o assento, o peso máximo e o preço que cada anúncio informa e onde cada uma é vendida.",
+    "description": "Florença, Levita e Moon dos marketplaces são modelos diferentes dos vendidos no site. Compare mecanismo, medidas, peso máximo e preço de cada anúncio antes de escolher.",
     "metaDescription": "CECILIA12 dá 12% só no site da DAMIE. Florença, Levita e Moon são modelos dos anúncios: veja o assento e o peso máximo de cada um e onde cada um é vendido.",
     "publishedAt": "13 de novembro de 2026",
     "publishedAtISO": "2026-11-13",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/damie/poltronas-damie-florenca-levita-moon-capa.webp",
-    "imageAlt": "Logo da DAMIE e duas poltronas de anúncios do Mercado Livre, a Florença manual e a elétrica de tecido, em fotos do próprio anúncio.",
+    "imageAlt": "Poltrona DAMIE Florença manual em corino preto, ao lado do logo da marca e da chamada Florença, Levita e Moon.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -224754,37 +224754,37 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Florença, Levita e Moon são poltronas dos anúncios da DAMIE no Mercado Livre, e a Florença também na Amazon. Não são as do site, mesmo com nome igual: a Florença reclina, a Moon é decorativa e giratória, e a Levita do anúncio tem outra ficha. O CECILIA12 vale só no site; nos anúncios, confira a ficha abaixo."
+          "Florença, Levita e Moon são poltronas dos anúncios da DAMIE no Mercado Livre, e a Florença também na Amazon. A Florença é reclinável, manual ou elétrica; a Levita é elétrica; a Moon é anunciada como decorativa e giratória. São modelos diferentes dos vendidos no site, mesmo com nome igual. O CECILIA12 dá 12% só no site."
         ]
       },
       {
-        "heading": "Por que o nome não garante o modelo",
+        "heading": "O que conferir antes de escolher",
         "paragraphs": [
-          "A parceria nos informou que as poltronas vendidas nos marketplaces são outros modelos, com formato e assento próprios, mesmo quando levam o nome das do site. Por isso, confira o anúncio, e não o nome, antes de comprar.",
-          "A parceria ainda não descreveu a diferença no assento. Aqui entra o que cada anúncio informa: espuma, molas, medidas e peso máximo. Não testamos nenhum desses modelos; a experiência da Cecília é com as poltronas do site."
+          "Comece pelo movimento: a Florença do Mercado Livre abre por mecanismo manual; a Levita e a elétrica de tecido usam motor; a Moon é anunciada como decorativa e giratória. Depois, meça o espaço e confira o peso máximo de cada anúncio.",
+          "A parceria nos informou que as poltronas dos marketplaces são outros modelos, com formato e assento próprios, mesmo quando levam o nome das do site. Não testamos nenhum deles: aqui entra o que cada anúncio informa, e a experiência da Cecília é com as poltronas do site."
         ]
       },
       {
         "heading": "Florença: reclinável manual ou elétrica",
         "paragraphs": [
-          "A Florença é a poltrona reclinável dos anúncios: manual em corino ou suede, ou elétrica em linho ou suede. A manual em corino está no Mercado Livre e na Amazon; as outras, só na Amazon.",
-          "No Mercado Livre, o anúncio se chama “Poltrona do Papai Reclinável Manual em Corino Damie Florença”. Ele diz que a poltrona reclina por mecanismo manual importado, aguenta até 150 kg e tem espuma D26 no assento. Ela mede 87 × 95 × 110 cm (largura, profundidade e altura) e pesa 40 kg: meça o espaço antes. Quem comprou deu nota 5,0, em 15 opiniões.",
-          "Na Amazon, a Florença manual em corino é vendida pela Damie Poltronas, com nota 4,5 em 8 avaliações e as mesmas medidas do anúncio do Mercado Livre. Da manual em suede e da elétrica, este texto traz só o tecido e o preço: leia o anúncio inteiro antes de escolher uma delas."
+          "A Florença é a reclinável dos anúncios. A manual em corino está no Mercado Livre e na Amazon; na busca da Amazon aparecem também uma manual em suede e uma elétrica em linho ou suede.",
+          "No Mercado Livre, o anúncio se chama “Poltrona do Papai Reclinável Manual em Corino Damie Florença”. Ele informa mecanismo manual importado, até 150 kg e espuma D26 no assento. A poltrona mede 87 × 95 × 110 cm (largura, profundidade e altura) e pesa 40 kg. Quem comprou deu nota 5,0, em 15 opiniões.",
+          "Na Amazon, a Florença manual em corino é vendida pela Damie Poltronas, com nota 4,5 em 8 avaliações e as mesmas medidas do anúncio do Mercado Livre. Da manual em suede e da elétrica, vimos só o tecido e o preço na busca: leia o anúncio inteiro antes de escolher uma delas."
         ],
         "images": [
           {
             "src": "/images/reviews/damie/poltronas-damie-florenca-anuncio-frente.webp",
             "alt": "Poltrona Damie Florença manual em corino preto, vista de frente, com porta-copos nos dois braços",
-            "caption": "A Florença manual em corino, na foto do anúncio do Mercado Livre. Não testamos este modelo. Imagem: DAMIE.",
+            "caption": "Florença manual em corino, na foto do anúncio do Mercado Livre. Imagem: DAMIE.",
             "objectFit": "contain",
             "aspectRatio": 1
           }
         ]
       },
       {
-        "heading": "Levita: o nome igual, a ficha diferente",
+        "heading": "Levita: nome igual, ficha diferente",
         "paragraphs": [
-          "A Levita é o modelo em que o nome é igual nos dois canais e a ficha muda. O site publica até 120 kg; o anúncio do Mercado Livre, até 150 kg."
+          "A Levita elétrica existe nos dois canais, e a do anúncio é outro modelo. O site publica até 120 kg; o anúncio do Mercado Livre, até 150 kg."
         ],
         "comparisonTable": {
           "caption": "Levita: o que o site publica e o que o anúncio informa.",
@@ -224812,16 +224812,16 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O anúncio traz ainda 77 × 90 × 104 cm, assento de 53 × 55 cm e abertura por botões ou controle. A espuma aparece de dois jeitos nele, “média” num campo e D26 na descrição: pergunte ao vendedor se a densidade pesa na sua escolha. Quem comprou deu nota 4,8, em 6 opiniões.",
+          "O anúncio traz ainda 77 × 90 × 104 cm, assento de 53 × 55 cm e abertura por botões ou controle. A espuma aparece como “média” na ficha e como D26 na descrição: pergunte ao vendedor se a densidade pesa na sua escolha. Quem comprou deu nota 4,8, em 6 opiniões.",
           "Se quem vai sentar pesa perto de 120 kg, o limite decide: confira o peso máximo na página em que for comprar. A Levita do site está no [artigo sobre a Levita](/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto)."
         ]
       },
       {
         "heading": "Moon: decorativa e giratória",
         "paragraphs": [
-          "O anúncio chama a Moon de decorativa e giratória, não de reclinável. Ela vem em linho ou bouclé, com espuma D33 soft, até 130 kg e 75 × 80 × 75 cm.",
+          "A Moon dos anúncios é descrita como decorativa e giratória. O anúncio informa linho ou bouclé, espuma D33 soft, até 130 kg e 75 × 80 × 75 cm.",
           "Os dois anúncios da Moon aparecem como indisponíveis e sem nota. Confira no Mercado Livre se voltaram antes de contar com ela.",
-          "A Moon que a Cecília tem na sala é a de que fala o [artigo sobre a Moon](/reviews/poltrona-moon-design-que-parece-obra-de-arte). A do anúncio é outro modelo, e dela temos só o que o anúncio informa."
+          "A Moon que a Cecília tem na sala está no [artigo sobre a Moon](/reviews/poltrona-moon-design-que-parece-obra-de-arte). A do anúncio é outro modelo, e dela temos só o que o anúncio informa."
         ]
       },
       {
@@ -224832,16 +224832,16 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Anúncio da elétrica de tecido no Mercado Livre",
+            "label": "Anúncios da DAMIE no Mercado Livre",
             "href": "https://meli.la/25cdWK4",
             "sponsored": true
           }
         ]
       },
       {
-        "heading": "Resumo: o assento de cada anúncio",
+        "heading": "Compare os assentos",
         "paragraphs": [
-          "A tabela junta o que cada anúncio informa sobre o assento; o preço vem na seção seguinte, à parte."
+          "Use a tabela para comparar o tipo e o assento que cada anúncio declara. As medidas e o peso máximo estão no capítulo de cada modelo."
         ],
         "comparisonTable": {
           "caption": "Tipo e assento, pelo que cada anúncio informa.",
@@ -224856,13 +224856,13 @@ export const reviewsData: unknown[] = [
               "Florença manual",
               "Manual, em corino",
               "Espuma D26 com fibra siliconada; molas zig-zag e pocket de 8 cm",
-              "Mercado Livre; Amazon (manual em corino, vendido pela Damie Poltronas; manual em suede, anúncio não aberto)"
+              "Mercado Livre e Amazon (corino); na busca da Amazon, também em suede"
             ],
             [
               "Florença elétrica",
               "Elétrica, em linho ou suede",
               "Confira no anúncio",
-              "Amazon (anúncio não aberto)"
+              "Amazon (vista só na busca)"
             ],
             [
               "Levita",
@@ -224888,10 +224888,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada anúncio",
         "paragraphs": [
-          "Os preços são de 13/11, do anúncio, sem frete e sem cupom. Cada linha é uma variação, e a variação muda o preço."
+          "Os preços são de 13/11, sem frete, e o CECILIA12 não entra neles: vale só no site. Cada linha é uma variação, e a variação muda o preço; some o frete do seu CEP antes de decidir."
         ],
         "comparisonTable": {
-          "caption": "Preço de cada anúncio, sem frete e sem cupom.",
+          "caption": "Preço de cada anúncio, sem frete.",
           "headers": [
             "Modelo",
             "Canal",
@@ -224937,9 +224937,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar cada modelo",
         "paragraphs": [
-          "Os modelos deste texto se compram pelo anúncio, que é também o único caminho no Norte e no Nordeste. A regra completa por região está no [guia de onde comprar](/reviews/damie-mercado-livre-ou-site), e o frete e o prazo por capital, no [guia de prazo de entrega](/reviews/damie-prazo-de-entrega).",
+          "Estes modelos são vendidos só pelos anúncios. No Norte e no Nordeste, a DAMIE atende só pelos anúncios do Mercado Livre: simule o seu CEP dentro do anúncio para ver o frete e o prazo. A regra completa por região está no [guia de onde comprar](/reviews/damie-mercado-livre-ou-site), e o frete e o prazo por capital, no [guia de prazo de entrega](/reviews/damie-prazo-de-entrega).",
           "O CECILIA12 dá 12% só no site da DAMIE, onde soma com o desconto do Pix; as condições estão na página do [cupom DAMIE](/cupons/damie). Nos anúncios, vale o preço do anúncio.",
-          "Os anúncios informam 1 ano de garantia. O site publica 1 ano de garantia e peças de reposição a preço de custo, e nenhuma das páginas diz se isso cobre a compra feita no marketplace. Se a assistência pesa na sua escolha, pergunte ao vendedor antes de fechar."
+          "Os anúncios do Mercado Livre informam 1 ano de garantia. O site publica 1 ano de garantia e peças de reposição a preço de custo, e as páginas não dizem se a assistência e a reposição do site atendem à compra feita no marketplace. Se isso pesa na sua escolha, pergunte ao vendedor antes de fechar."
         ],
         "links": [
           {
@@ -224957,11 +224957,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A poltrona Damie Florença é boa? Não testamos, então a resposta vem de quem comprou: a nota do anúncio está no capítulo da Florença, com o assento e as medidas.",
+          "A poltrona DAMIE Florença é boa? Não testamos; o que há são as notas de quem comprou a manual em corino, no Mercado Livre e na Amazon. Elas estão no capítulo da Florença, com o mecanismo, as medidas e o peso máximo.",
           "A Florença é vendida no site da DAMIE? Não aparece na busca do site. Ela está nos anúncios do Mercado Livre e da Amazon.",
           "A Levita do Mercado Livre é a mesma do site? Não. O nome é igual e o modelo é outro: o peso máximo que cada página publica é diferente, como mostra a tabela da Levita.",
-          "A poltrona Moon reclina? Pelo anúncio, não: ela é decorativa e giratória.",
-          "O cupom CECILIA12 vale nesses modelos? Não. O CECILIA12 dá 12% só no site da DAMIE; nos anúncios do Mercado Livre e da Amazon ele não entra."
+          "A poltrona Moon reclina? O anúncio a chama de “Poltrona Decorativa Giratória” e não a vende como reclinável. Se você precisa de reclinável, veja a Florença, a Levita ou a elétrica de tecido; na dúvida, pergunte ao vendedor.",
+          "O cupom CECILIA12 vale nesses modelos? Não. O CECILIA12 dá 12% só no site da DAMIE; nos anúncios do Mercado Livre e da Amazon ele não vale."
         ]
       }
     ]
@@ -224981,7 +224981,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quantos dias úteis a poltrona da DAMIE leva para chegar pelo site, quanto custa o frete do Mercado Livre em 12 capitais e o que conferir no dia da entrega.",
+    "description": "Quantos dias úteis a poltrona da DAMIE leva para chegar pelo site, o frete e a previsão de entrega do Mercado Livre em 12 capitais e o que conferir no dia da entrega.",
     "metaDescription": "CECILIA12 dá 12% no site da DAMIE, com frete grátis no Sul e no Sudeste. Veja o prazo e o frete do Mercado Livre nas outras regiões e como é a entrega.",
     "publishedAt": "13 de novembro de 2026",
     "publishedAtISO": "2026-11-13",
@@ -225017,26 +225017,28 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "No Sul e no Sudeste, o site tem frete grátis em poltronas e sofás, e a página da DAMIE informa de 4 a 10 dias úteis, dependendo do estado. No Norte e no Nordeste, a compra é pelo Mercado Livre, e o frete e a previsão mudam por anúncio: a tabela por capital mostra cada um."
+          "No Sul e no Sudeste, o site tem frete grátis em poltronas e sofás, e as páginas de produto informam de 4 a 10 dias úteis, dependendo do estado. No Norte e no Nordeste, a compra é pelo Mercado Livre, e o frete e a previsão mudam por anúncio: as tabelas por capital mostram os dois."
         ]
       },
       {
         "heading": "Prazo e frete no site",
         "paragraphs": [
           "Pelo site, as páginas de produto da elétrica fixa e da elevação informavam 4 a 8 dias úteis para SP, PR, SC e RS, e 5 a 10 para RJ, MG, ES, DF, GO, MT e MS. O prazo começa na confirmação do pagamento e aparece no cálculo do frete, com o seu CEP, antes de você pagar.",
-          "Os prazos acima vêm de uma consulta fora do pico de vendas: na época de pico, confira o número no cálculo do frete.",
-          "O frete é grátis em poltronas e sofás com entrega no Sul e no Sudeste. No Centro-Oeste e nas capitais, o frete é calculado pelo CEP, com \"valores subsidiados de fábrica\". Para alguns CEPs do Centro-Oeste, o cálculo já saiu com frete grátis: confira o seu CEP no carrinho antes de contar com isso.",
+          "Os prazos acima vêm de uma consulta fora do pico de vendas: na época de pico, confira o número no cálculo do frete. Se ele não mostrar o prazo para o seu endereço, a página do produto oferece a consulta com o vendedor pelo WhatsApp.",
+          "O frete é grátis em poltronas e sofás com entrega no Sul e no Sudeste. No Centro-Oeste, o frete é calculado pelo CEP, com \"valores subsidiados de fábrica\". Na consulta por estado da página do produto, o Centro-Oeste já apareceu com frete grátis: confira o seu CEP no carrinho antes de contar com isso.",
           "No Norte e no Nordeste, a DAMIE diz que atende exclusivamente pelos anúncios oficiais dela no Mercado Livre. Aí o prazo e o frete são os do anúncio, e o CECILIA12, que só vale no site, fica de fora.",
-          "Na página da elétrica fixa, do site, a DAMIE também diz \"98% das entregas no prazo ou antes\". Essa frase fala das compras no site."
+          "Na página da elétrica fixa do site, a DAMIE também diz \"98% das entregas no prazo ou antes\". A página não diz se a frase vale para os anúncios do Mercado Livre."
         ]
       },
       {
-        "heading": "Frete e previsão no Mercado Livre, por capital",
+        "heading": "Mercado Livre: Sul, Sudeste e Centro-Oeste",
         "paragraphs": [
-          "No [Mercado Livre, pelo link da DAMIE](https://meli.la/25cdWK4), o frete e a previsão de entrega mudam com o CEP e com o anúncio. Os três anúncios de reclinável da tabela são outros modelos, mesmo quando o nome se repete. Não testamos esses anúncios: o [guia dos modelos](/reviews/poltronas-damie-florenca-levita-moon) mostra o que cada um declara. Em 13/11, para um CEP do centro de cada capital, o frete estava assim."
+          "No [Mercado Livre, pelo link da DAMIE](https://meli.la/25cdWK4), o frete e a previsão de entrega mudam com o CEP e com o anúncio. Os três anúncios de reclinável das tabelas são modelos diferentes dos do site, mesmo quando o nome se repete. Não testamos esses anúncios: o [guia dos modelos](/reviews/poltronas-damie-florenca-levita-moon) mostra o que cada um declara.",
+          "As tabelas trazem o frete e a previsão de entrega de 13/11 para um CEP do centro de cada capital, com a previsão em dias corridos a contar daquele dia. São as estimativas do Mercado Livre na consulta, sem promessa de prazo: vale a data que o anúncio mostrar para o seu CEP.",
+          "Nestas quatro capitais, o frete saiu grátis em todos os anúncios consultados."
         ],
         "comparisonTable": {
-          "caption": "Frete de cada anúncio, por capital. O traço indica frete não consultado naquele anúncio.",
+          "caption": "Frete e previsão de entrega, em dias corridos a contar da consulta. O traço indica anúncio não consultado naquele CEP.",
           "headers": [
             "Capital",
             "Elétrica Motor Tecido Conforto",
@@ -225046,82 +225048,114 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "São Paulo",
-              "Grátis",
-              "Grátis",
-              "Grátis"
+              "Grátis, em 6 dias",
+              "Grátis, em 6 dias",
+              "Grátis, em 6 dias"
             ],
             [
               "Belo Horizonte",
-              "Grátis",
+              "Grátis, em 8 dias",
               "—",
               "—"
             ],
             [
               "Porto Alegre",
-              "Grátis",
-              "Grátis",
+              "Grátis, em 13 dias",
+              "Grátis, em 13 dias",
               "—"
             ],
             [
               "Brasília",
-              "Grátis",
-              "Grátis",
+              "Grátis, em 10 dias",
+              "Grátis, em 10 dias",
               "—"
-            ],
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Mercado Livre: Nordeste",
+        "paragraphs": [
+          "A elétrica de tecido pagava frete nas quatro capitais do Nordeste consultadas, e a Florença, nas três em que foi consultada. A Levita saiu com frete grátis em Salvador e no Recife."
+        ],
+        "comparisonTable": {
+          "caption": "Mesma consulta: frete e previsão de entrega em dias corridos. O traço indica anúncio não consultado naquele CEP.",
+          "headers": [
+            "Capital",
+            "Elétrica Motor Tecido Conforto",
+            "Florença manual",
+            "Levita"
+          ],
+          "rows": [
             [
               "Salvador",
-              "R$ 172,99",
-              "R$ 214,99",
-              "Grátis"
+              "R$ 172,99, em 10 dias",
+              "R$ 214,99, em 10 dias",
+              "Grátis, em 10 dias"
             ],
             [
               "Recife",
-              "R$ 252,99",
-              "R$ 301,99",
-              "Grátis"
+              "R$ 252,99, em 12 dias",
+              "R$ 301,99, em 12 dias",
+              "Grátis, em 12 dias"
             ],
             [
               "Fortaleza",
-              "R$ 252,99",
-              "R$ 301,99",
+              "R$ 252,99, em 12 dias",
+              "R$ 301,99, em 12 dias",
               "—"
             ],
             [
               "Teresina",
-              "R$ 252,99",
+              "R$ 252,99, em 16 dias",
               "—",
               "—"
-            ],
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Mercado Livre: Norte",
+        "paragraphs": [
+          "Em Porto Velho, Rio Branco e Palmas, a elétrica de tecido saiu com frete grátis e a Florença pagava. Em Belém, as duas pagavam. A Levita saiu com frete grátis nas quatro capitais."
+        ],
+        "comparisonTable": {
+          "caption": "Mesma consulta: frete e previsão de entrega em dias corridos. O traço indica anúncio não consultado naquele CEP.",
+          "headers": [
+            "Capital",
+            "Elétrica Motor Tecido Conforto",
+            "Florença manual",
+            "Levita"
+          ],
+          "rows": [
             [
               "Belém",
-              "R$ 252,99",
-              "R$ 301,99",
-              "Grátis"
+              "R$ 252,99, em 9 dias",
+              "R$ 301,99, em 9 dias",
+              "Grátis, em 9 dias"
             ],
             [
               "Porto Velho",
-              "Grátis",
-              "R$ 149,99",
-              "Grátis"
+              "Grátis, em 16 dias",
+              "R$ 149,99, em 16 dias",
+              "Grátis, em 16 dias"
             ],
             [
               "Rio Branco",
-              "Grátis",
-              "R$ 149,99",
-              "Grátis"
+              "Grátis, em 13 dias",
+              "R$ 149,99, em 13 dias",
+              "Grátis, em 13 dias"
             ],
             [
               "Palmas",
-              "Grátis",
-              "R$ 149,99",
-              "Grátis"
+              "Grátis, em 15 dias",
+              "R$ 149,99, em 15 dias",
+              "Grátis, em 15 dias"
             ]
           ]
         },
         "postParagraphs": [
-          "O frete muda de um anúncio para outro na mesma capital: a Levita saiu grátis em todas as capitais consultadas, e a elétrica de tecido saiu grátis em Porto Velho, Rio Branco e Palmas, onde a Florença paga.",
-          "As previsões de entrega do mesmo dia também variam de anúncio para anúncio e de capital para capital. São a previsão do Mercado Livre para aquele dia, não uma promessa de prazo: vale a data que o anúncio mostrar para o seu CEP.",
-          "Para Manaus, Macapá e Boa Vista, o anúncio não mostrou opção de frete para os CEPs que consultamos. Isso não quer dizer que o anúncio não entrega: simule o seu CEP dentro do anúncio antes de decidir."
+          "Manaus, Macapá e Boa Vista ficaram fora das tabelas: simule o seu CEP dentro do anúncio para ver o frete e a previsão."
         ]
       },
       {
@@ -225133,7 +225167,7 @@ export const reviewsData: unknown[] = [
           "Transportadora especializada em móveis, com seguro.",
           "Em prédio, a entrega vai até o hall.",
           "A montagem é feita pelo cliente, por encaixe.",
-          "O produto é conferido com a transportadora esperando."
+          "Se houver avaria ou divergência, recuse a mercadoria: a DAMIE diz que emite novo envio."
         ],
         "postParagraphs": [
           "Meça a porta antes: a página da elétrica fixa, no site, diz que ela passa em portas de 65 cm. Se a compra for pelo Mercado Livre, pergunte no anúncio antes de pagar: a página de fretes não diz se essas regras valem para ele."
@@ -225152,7 +225186,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Site ou anúncio, pelo prazo",
         "paragraphs": [
-          "Com entrega no Sul ou no Sudeste, o site resolve: frete grátis em poltronas e sofás, prazo no carrinho antes de pagar e o [cupom CECILIA12 da DAMIE](/cupons/damie), que dá 12% e soma com o Pix. No Centro-Oeste, o frete sai pelo CEP no carrinho. No Norte e no Nordeste, decidem o frete e a previsão do anúncio para o seu CEP, e o modelo do anúncio é outro, mesmo com nome igual. Para escolher entre os dois canais, leia [DAMIE no Mercado Livre ou no site](/reviews/damie-mercado-livre-ou-site)."
+          "Com entrega no Sul ou no Sudeste, o site tem frete grátis em poltronas e sofás, mostra o prazo no carrinho antes de pagar e aceita o [cupom CECILIA12 da DAMIE](/cupons/damie), que dá 12% e soma com o Pix. No Centro-Oeste, o frete do site sai pelo CEP no carrinho.",
+          "No Norte e no Nordeste, o que conta é o frete e a previsão que o anúncio mostra para o seu CEP. O CECILIA12 não vale no Mercado Livre, e o modelo do anúncio é outro, mesmo com nome igual. Para escolher entre os dois canais, leia [DAMIE no Mercado Livre ou no site](/reviews/damie-mercado-livre-ou-site)."
         ]
       },
       {
@@ -225161,8 +225196,8 @@ export const reviewsData: unknown[] = [
           "Quanto tempo a DAMIE demora para entregar? Pelo site, as páginas de produto informavam de 4 a 10 dias úteis depois da confirmação do pagamento, dependendo do estado; o prazo do seu pedido aparece no cálculo do frete. No Mercado Livre, vale a previsão do anúncio para o seu CEP.",
           "A DAMIE entrega no Nordeste? Sim, pelos anúncios oficiais dela no Mercado Livre, porque o site não atende o Norte e o Nordeste.",
           "O frete da DAMIE é grátis? No Sul e no Sudeste, sim, para poltronas e sofás comprados no site. No Centro-Oeste, o frete é calculado pelo CEP; no Norte e no Nordeste, é o do anúncio.",
-          "A DAMIE monta a poltrona? Não. A montagem é feita pelo cliente, por encaixe, como diz a página de fretes.",
-          "A entrega sobe até o apartamento? Não. Em prédio, a entrega vai até o hall, pela página de fretes."
+          "A DAMIE monta a poltrona? Não. Nas compras pelo site, a montagem é feita pelo cliente, por encaixe, como diz a página de fretes. No Mercado Livre, pergunte no anúncio.",
+          "A entrega sobe até o apartamento? Nas compras pelo site, não: em prédio, a entrega vai até o hall, como diz a página de fretes. No Mercado Livre, pergunte no anúncio."
         ]
       }
     ]
