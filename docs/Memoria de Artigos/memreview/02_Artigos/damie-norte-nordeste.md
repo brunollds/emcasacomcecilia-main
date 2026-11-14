@@ -7,9 +7,9 @@ parceiro_slug: "damie"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pronto-para-deploy"
+status: "no-ar"
 responsavel: "Claude"
-proxima_acao: "PR e deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
+proxima_acao: "reler os preços e os fretes dos anúncios (são de 13/11); revisão mensal de dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-14"
 pauta_id: "Regional (pauta nova do realinhamento de 13/11)"
@@ -41,3 +41,5 @@ Pauta que nasceu no realinhamento de 13/11 (adendo do Farol / ChatGPT, aceito pe
 **Capa e imagem.** Capa aprovada pelo Bruno em 14/11: painel verde, "Norte e Nordeste", etiqueta "pelo Mercado Livre", sem código, com a Florença preta do anúncio. No corpo, a foto da Florença de frente (`poltronas-damie-florenca-anuncio-frente.webp`), que tinha sobrado do DM3 antigo.
 
 - Pendente: fretes e previsões são de 13/11. Reler se o deploy atrasar.
+
+- No ar desde 14/11/2026, release `197be4fe` (#971; deploy 56b9d755, build 01a1db29). `deploy:finish` ok (2 workers); smoke dos quatro artigos contra o JSON ok (títulos, capítulos, primeira frase de cada capítulo, og:image, sitemap e llms.txt); `covers:check` 4/4; IndexNow com 7 URLs; captura 43623199592 à espera da aprovação do Bruno.

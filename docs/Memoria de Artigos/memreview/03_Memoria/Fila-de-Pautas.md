@@ -143,10 +143,10 @@ vendidos dentro da página do cupom; aqui vira artigo, e a página de loja não 
 
 | Código | Pauta | Condição |
 |---|---|---|
-| DM1 | Onde é melhor comprar sua nova DAMIE: no site oficial ou no Mercado Livre? (refeita em 14/11) | **Escrita e revisada (14/11):** [[damie-mercado-livre-ou-site]]. No branch `claude/damie-marketplaces`, à espera do PR e do deploy |
-| DM2 | Prazo de entrega da DAMIE: quanto demora e como consultar (refeita em 14/11) | **Escrita e revisada (14/11):** [[damie-prazo-de-entrega]]. No mesmo branch |
-| Regional | DAMIE no Norte e no Nordeste: como comprar pelo Mercado Livre (pauta nova do realinhamento) | **Escrita e revisada (14/11):** [[damie-norte-nordeste]]. No mesmo branch |
-| DM3 | Poltronas DAMIE no Mercado Livre: modelos que você não encontra no site (refeita em 13/11; a Florença, a Levita e a Moon saíram) | **Escrita e revisada (13/11):** [[poltronas-damie-no-mercado-livre]]. No mesmo branch |
+| DM1 | Onde é melhor comprar sua nova DAMIE: no site oficial ou no Mercado Livre? (refeita em 14/11) | **Escrita e revisada (14/11):** [[damie-mercado-livre-ou-site]]. No ar desde 14/11/2026 (#971, release `197be4fe`) |
+| DM2 | Prazo de entrega da DAMIE: quanto demora e como consultar (refeita em 14/11) | **Escrita e revisada (14/11):** [[damie-prazo-de-entrega]]. No ar desde 14/11/2026 (#971, release `197be4fe`) |
+| Regional | DAMIE no Norte e no Nordeste: como comprar pelo Mercado Livre (pauta nova do realinhamento) | **Escrita e revisada (14/11):** [[damie-norte-nordeste]]. No ar desde 14/11/2026 (#971, release `197be4fe`) |
+| DM3 | Poltronas DAMIE no Mercado Livre: modelos que você não encontra no site (refeita em 13/11; a Florença, a Levita e a Moon saíram) | **Escrita e revisada (13/11):** [[poltronas-damie-no-mercado-livre]]. No ar desde 14/11/2026 (#971, release `197be4fe`) |
 
 Site principal ou subdomínio: decisão do Bruno, ainda aberta. A PP5 (acima) continua pausada.
 
