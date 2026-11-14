@@ -7,9 +7,9 @@ parceiro_slug: "damie"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pronto-para-deploy"
+status: "no-ar"
 responsavel: "Claude"
-proxima_acao: "PR e deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
+proxima_acao: "reler os preços e os fretes dos anúncios (são de 13/11); revisão mensal de dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "DM3 (reformulada em 13/11 pelos nomes dos modelos)"
@@ -148,3 +148,5 @@ O guia "Florença, Levita e Moon" nunca foi ao ar. Motivo: a Florença é a Recl
 - Capa B e 8 fotos dos anúncios aprovadas pelo Bruno e no CDN.
 
 - Pendente: a capa antiga `poltronas-damie-florenca-levita-moon-capa.webp` segue no repositório e no CDN, sem uso.
+
+- No ar desde 14/11/2026, release `197be4fe` (#971; deploy 56b9d755, build 01a1db29). `deploy:finish` ok (2 workers); smoke dos quatro artigos contra o JSON ok (títulos, capítulos, primeira frase de cada capítulo, og:image, sitemap e llms.txt); `covers:check` 4/4; IndexNow com 7 URLs; captura 43623199592 à espera da aprovação do Bruno.

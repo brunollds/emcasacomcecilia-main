@@ -7,9 +7,9 @@ parceiro_slug: "damie"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pronto-para-deploy"
+status: "no-ar"
 responsavel: "Claude"
-proxima_acao: "PR e deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
+proxima_acao: "reler os preços e os fretes dos anúncios (são de 13/11); revisão mensal de dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "DM1"
@@ -179,3 +179,5 @@ Título novo, do Bruno: "Onde é melhor comprar sua nova DAMIE: no site oficial 
 **Capa e imagem.** As aprovadas pelo Bruno em 13/11: painel verde, "Site ou Mercado Livre?" e o CECILIA12, com a 2.0 bege do site; no corpo, a Elétrica Fixa bege do site.
 
 - Pendente: os preços dos anúncios são de 13/11 e não foram relidos em 14/11 (Chrome desconectado). Reler antes ou logo depois do deploy.
+
+- No ar desde 14/11/2026, release `197be4fe` (#971; deploy 56b9d755, build 01a1db29). `deploy:finish` ok (2 workers); smoke dos quatro artigos contra o JSON ok (títulos, capítulos, primeira frase de cada capítulo, og:image, sitemap e llms.txt); `covers:check` 4/4; IndexNow com 7 URLs; captura 43623199592 à espera da aprovação do Bruno.
