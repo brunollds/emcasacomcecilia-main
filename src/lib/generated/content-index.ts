@@ -123841,7 +123841,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. Doctor Bar, alfajor ou Doctor Wafer: proteína, açúcar, calorias e preço por unidade.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-14",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-capa-v2.webp",
@@ -124116,7 +124116,8 @@ export const reviewsData: unknown[] = [
           "**Meio-termo:** o alfajor, com 4 a 4,7 g de proteína e 158 a 183 kcal por R$ 12,99."
         ],
         "postParagraphs": [
-          "Nada disso diz qual snack tem o melhor sabor, nem qual cabe na sua dieta. Essa decisão é de um nutricionista ou médico. O rótulo completo, com ingredientes e adoçantes, está no [guia de ingredientes da Dr. Peanut](/reviews/dr-peanut-e-saudavel)."
+          "Nada disso diz qual snack tem o melhor sabor, nem qual cabe na sua dieta. Essa decisão é de um nutricionista ou médico. O rótulo completo, com ingredientes e adoçantes, está no [guia de ingredientes da Dr. Peanut](/reviews/dr-peanut-e-saudavel).",
+          "Se você já decidiu pelo wafer, o [guia de wafer proteico](/reviews/wafer-proteico-qual-escolher) compara a Doctor Wafer com os wafers em caixa de outra marca, por preço e proteína."
         ]
       },
       {
@@ -127180,7 +127181,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom MMEMCASACOMCECILIA dá 10% OFF no site da Mais Mu. Mukebar, Crush Bar, Chocowheyfer e Veggie Wafer: proteína, açúcar, calorias e preço por unidade.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-14",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-capa-v2.webp",
@@ -127447,7 +127448,8 @@ export const reviewsData: unknown[] = [
           "**Wafer maior, com mais proteína por unidade:** Chocowheyfer Max, com 50 g e 12 g de proteína. Os quatro sabores variam em calorias e açúcar, como mostra a tabela."
         ],
         "postParagraphs": [
-          "Compare a quantidade que pretende comer e as restrições do rótulo. Se há uma restrição alimentar, converse com nutricionista ou médico com a embalagem em mãos."
+          "Compare a quantidade que pretende comer e as restrições do rótulo. Se há uma restrição alimentar, converse com nutricionista ou médico com a embalagem em mãos.",
+          "Se você já decidiu pelo wafer, o [guia de wafer proteico](/reviews/wafer-proteico-qual-escolher) compara tamanho da compra, proteína declarada, preço com código e a opção avulsa de outra marca. Aqui, a escolha continua sendo entre os formatos de snack da Mais Mu."
         ],
         "emphasis": "Para mais proteína em uma unidade maior, a Mukebar 720 g é a opção da comparação; para gastar menos por unidade, era a Sem Cobertura nos preços de referência. São escolhas por critérios diferentes.",
         "emphasisAfterParagraph": 1
@@ -225651,6 +225653,325 @@ export const reviewsData: unknown[] = [
           "A Doctor Bar custa menos que a Soft Bar? Por grama de proteína, sim, nas condições comparadas. Por unidade, a Doctor Bar custa mais e é uma barra maior.",
           "Tem doce de leite zero lactose mais barato que o da Bendu? O Doce de Leite Zero da La Ganexa, com o CECILIA, custa menos por 100 g que um pote da Bendu. Quem compra três potes da Bendu no Pix paga um pouco menos, fora de oferta.",
           "A pasta sabor avelã substitui o creme da Bendu? Ela atende quem aceita base de amendoim e lactose para pagar menos por 100 g. Confira a composição antes de trocar."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 978,
+    "slug": "wafer-proteico-qual-escolher",
+    "locale": "pt",
+    "title": "Wafer proteico: qual escolher por preço, porção e composição",
+    "seoTitle": "Wafer proteico: qual escolher",
+    "type": "Comparativo de Snacks",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Chocowheyfer, Max, Veggie Wafer e Doctor Wafer: compare preço com código, tamanho da unidade e da compra, proteína e composição antes de escolher.",
+    "metaDescription": "MMEMCASACOMCECILIA dá 10% na Mais Mu. Compare wafers por preço, proteína e tamanho da compra, incluindo a unidade avulsa da Dr. Peanut.",
+    "publishedAt": "14 de novembro de 2026",
+    "publishedAtISO": "2026-11-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/wafer/wafer-proteico-qual-escolher-capa.webp",
+    "imageAlt": "Caixas do Chocowheyfer Sem Cobertura, do Chocowheyfer Max e do Veggie Wafer da Mais Mu e uma Doctor Wafer da Dr. Peanut, ao lado da chamada Wafer proteico: qual escolher e do apoio Com cupom.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "decision": {
+      "takeIf": [
+        "Você quer experimentar uma unidade sem comprar caixa: a Doctor Wafer, somando o frete.",
+        "Você já quer uma caixa e prioriza o custo por proteína: o Chocowheyfer Sem Cobertura.",
+        "Você prefere uma unidade maior: o Chocowheyfer Max, com uma caixa e um desembolso maiores."
+      ],
+      "skipIf": [
+        "Você precisa de wafer zero lactose ou sem glúten: os rótulos lidos aqui declaram os dois, e o Max pede a conferência da embalagem.",
+        "Você escolheu o Veggie para evitar leite: o aviso da página diz que ele pode conter leite."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "affiliate": [
+      "mais-mu",
+      "dr-peanut"
+    ],
+    "editorialNote": "Comparação de preços e rótulos; não provamos os produtos. Podemos receber comissão da Mais Mu e da Dr. Peanut.",
+    "relatedArticles": [
+      {
+        "slug": "barra-de-proteina-mais-mu-qual-escolher"
+      },
+      {
+        "slug": "snacks-dr-peanut-qual-escolher"
+      },
+      {
+        "slug": "alternativas-a-bendu"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para experimentar sem comprar uma caixa, a Doctor Wafer permite levar uma unidade; pelo menor custo por proteína entre os selecionados, escolha o Chocowheyfer Sem Cobertura. O Max oferece uma unidade maior; o Veggie usa proteína vegetal. Confira a composição e os alergênicos do sabor antes de escolher."
+        ]
+      },
+      {
+        "heading": "Comece pelo tamanho da compra",
+        "paragraphs": [
+          "Se você ainda quer experimentar o formato, o desembolso com um wafer avulso pode pesar mais que o preço por proteína. Se já pretende comprar uma caixa, faz sentido comparar quanto custa cada unidade e a proteína declarada."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Você procura",
+            "Opção para considerar",
+            "O que muda"
+          ],
+          "rows": [
+            [
+              "Uma unidade para experimentar",
+              "Doctor Wafer",
+              "Compra avulsa, com custo maior por proteína"
+            ],
+            [
+              "Menor custo por proteína",
+              "Chocowheyfer Sem Cobertura",
+              "Caixa de 12; menor valor entre os selecionados"
+            ],
+            [
+              "Uma unidade maior",
+              "Chocowheyfer Max",
+              "Wafer de 50 g, em caixa de 20"
+            ],
+            [
+              "Receita com proteína vegetal",
+              "Veggie Wafer",
+              "Proteína de ervilha; o aviso diz que pode conter leite"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Preço por wafer e por grama de proteína",
+        "paragraphs": [
+          "Os preços são dos sites em 14 de novembro de 2026 e já incluem o código de 10% de cada loja, sem frete e sem o desconto do Pix. O primeiro valor usa o preço de referência; a oferta do dia aparece à parte."
+        ],
+        "comparisonTable": {
+          "caption": "Nos produtos vendidos em caixa, o custo por unidade é uma conta nossa: a compra é da caixa inteira.",
+          "headers": [
+            "Wafer",
+            "Unidade e proteína",
+            "Por unidade",
+            "Por grama de proteína"
+          ],
+          "rows": [
+            [
+              "[Chocowheyfer Sem Cobertura](https://www.lojamaismu.com.br/produtos/chocowheyfer-sem-cobertura-chocolate-rm7ps/), caixa de 12",
+              "25 g; 6 g",
+              "R$ 5,39; em oferta, R$ 4,04",
+              "R$ 0,90; em oferta, R$ 0,67"
+            ],
+            [
+              "[Chocowheyfer Max](https://www.lojamaismu.com.br/produtos/chocowheyfer-max-mais-mu-chocolate-caixa-20-unidades-1mr93/), caixa de 20",
+              "50 g; 12 g",
+              "R$ 11,61; em oferta, R$ 8,71",
+              "R$ 0,97; em oferta, R$ 0,73"
+            ],
+            [
+              "[Chocowheyfer](https://www.lojamaismu.com.br/produtos/chocowheyfer-chocolate-300g/), caixa de 12",
+              "25 g; 6 g",
+              "R$ 6,29; em oferta, R$ 4,72",
+              "R$ 1,05; em oferta, R$ 0,79"
+            ],
+            [
+              "[Veggie Wafer](https://www.lojamaismu.com.br/produtos/chocowheyfer-chocolate-vegetal-300g/), caixa de 12",
+              "25 g; 5 g",
+              "R$ 6,29; em oferta, R$ 5,35",
+              "R$ 1,26; em oferta, R$ 1,07"
+            ],
+            [
+              "[Doctor Wafer](https://www.drpeanut.com.br/doctor-wafer-doce-de-leite/p), avulsa",
+              "25 g; 5 g a 6 g, conforme o sabor",
+              "R$ 10,31",
+              "R$ 1,72 a R$ 2,06"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Quando a Doctor Wafer faz sentido",
+        "paragraphs": [
+          "O preço por proteína da Doctor Wafer é maior, mas você pode comprar uma unidade com o DREMCASACOMCECILIA. Para quem quer experimentar ou já está montando um pedido na Dr. Peanut, isso evita comprar uma caixa de wafers.",
+          "O frete entra na decisão: compare o total do pedido. A unidade avulsa está à venda nos sabores Cookies & Cream e Doce de Leite; o Avelã aparece só no display de 12. A proteína muda de 5 g a 6 g conforme o sabor. Os outros formatos da marca estão em [snacks da Dr. Peanut: qual escolher](/reviews/snacks-dr-peanut-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/wafer/wafer-proteico-qual-escolher-doctor-wafer-doce-de-leite.webp",
+            "alt": "Embalagem de 25 g da Doctor Wafer sabor Doce de Leite, da Dr. Peanut, em foto oficial",
+            "caption": "Doctor Wafer Doce de Leite, 25 g. Foto oficial da Dr. Peanut.",
+            "href": "https://www.drpeanut.com.br/doctor-wafer-doce-de-leite/p",
+            "objectFit": "square",
+            "aspectRatio": 1,
+            "store": "dr-peanut"
+          }
+        ]
+      },
+      {
+        "heading": "Quando vale olhar as caixas da Mais Mu",
+        "paragraphs": [
+          "O Sem Cobertura tem o menor custo por proteína entre os produtos desta comparação, na referência e na oferta. O Chocowheyfer de 25 g com cobertura entra para quem prefere esse formato e quer mais sabores, como Chocolate, Pistache e Paçoquita.",
+          "O Max é a unidade maior. Os 12 g em 50 g são a mesma proporção de proteína dos 6 g em 25 g dos outros Chocowheyfer: a quantidade por unidade acompanha o tamanho, não é o dobro de concentração.",
+          "Antes de escolher, confira o valor da caixa. Na referência com o código, o Sem Cobertura fica em R$ 64,69 por 12 unidades, e o Max, em R$ 232,20 por 20. O segundo pede um desembolso maior, mesmo com custo por proteína próximo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/wafer/wafer-proteico-qual-escolher-chocowheyfer-sem-cobertura.webp",
+            "alt": "Caixa com 12 unidades do Chocowheyfer Sem Cobertura sabor Chocolate, da Mais Mu, em imagem oficial",
+            "caption": "Chocowheyfer Sem Cobertura Chocolate, caixa de 12. Imagem: Mais Mu.",
+            "href": "https://www.lojamaismu.com.br/produtos/chocowheyfer-sem-cobertura-chocolate-rm7ps/",
+            "objectFit": "square",
+            "aspectRatio": 1,
+            "store": "mais-mu"
+          },
+          {
+            "src": "/images/reviews/wafer/wafer-proteico-qual-escolher-chocowheyfer-max.webp",
+            "alt": "Caixa com 20 unidades do Chocowheyfer Max sabor Chocolate, da Mais Mu, com 12 g de proteína por unidade, em imagem oficial",
+            "caption": "Chocowheyfer Max Chocolate, caixa de 20. Imagem: Mais Mu.",
+            "href": "https://www.lojamaismu.com.br/produtos/chocowheyfer-max-mais-mu-chocolate-caixa-20-unidades-1mr93/",
+            "objectFit": "square",
+            "aspectRatio": 1,
+            "store": "mais-mu"
+          },
+          {
+            "src": "/images/reviews/wafer/wafer-proteico-qual-escolher-chocowheyfer.webp",
+            "alt": "Caixa com 12 unidades do Chocowheyfer sabor Chocolate, da Mais Mu, em imagem oficial",
+            "caption": "Chocowheyfer Chocolate, caixa de 12. Imagem: Mais Mu.",
+            "href": "https://www.lojamaismu.com.br/produtos/chocowheyfer-chocolate-300g/",
+            "objectFit": "square",
+            "aspectRatio": 1,
+            "store": "mais-mu"
+          }
+        ]
+      },
+      {
+        "heading": "Ingredientes e avisos de leite, lactose e glúten",
+        "paragraphs": [
+          "A Mais Mu apresenta o Veggie Wafer como vegetal e usa proteína de ervilha na lista de ingredientes. O aviso da página informa que ele pode conter leite e que contém glúten. O nome “vegetal” não substitui a leitura dos alergênicos.",
+          "As páginas do Chocowheyfer Chocolate, do Sem Cobertura Chocolate e da Doctor Wafer nos sabores Avelã e Doce de Leite declaram lactose e glúten. A página do Max Chocolate não traz essa declaração: confira a embalagem. Para os outros sabores, veja o aviso de cada página, sem transferir a informação de um sabor para outro.",
+          "Para dúvidas sobre restrição alimentar, converse com nutricionista ou médico com a embalagem em mãos."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/wafer/wafer-proteico-qual-escolher-veggie-wafer.webp",
+            "alt": "Caixa com 12 unidades do Veggie Wafer sabor Chocolate Vegetal, da Mais Mu, em imagem oficial",
+            "caption": "Veggie Wafer Chocolate, caixa de 12. Imagem: Mais Mu.",
+            "href": "https://www.lojamaismu.com.br/produtos/chocowheyfer-chocolate-vegetal-300g/",
+            "objectFit": "square",
+            "aspectRatio": 1,
+            "store": "mais-mu"
+          }
+        ]
+      },
+      {
+        "heading": "Calorias e açúcar nas porções declaradas",
+        "comparisonTable": {
+          "headers": [
+            "Wafer e sabor",
+            "Porção",
+            "Calorias",
+            "Açúcares totais"
+          ],
+          "rows": [
+            [
+              "Sem Cobertura, Chocolate",
+              "25 g",
+              "126 kcal",
+              "0,3 g"
+            ],
+            [
+              "Chocowheyfer, Chocolate",
+              "25 g",
+              "126 kcal",
+              "0,4 g"
+            ],
+            [
+              "Veggie Wafer, Chocolate",
+              "25 g",
+              "121 kcal",
+              "0,1 g"
+            ],
+            [
+              "Doctor Wafer, Doce de Leite",
+              "25 g",
+              "118 kcal",
+              "2 g"
+            ],
+            [
+              "Doctor Wafer, Avelã",
+              "25 g",
+              "127 kcal",
+              "1 g"
+            ],
+            [
+              "Chocowheyfer Max, Chocolate",
+              "50 g",
+              "260 kcal",
+              "0,6 g"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Max usa uma porção de 50 g; as outras linhas, de 25 g. Os valores são dos sabores da tabela, não de todos os sabores de cada linha.",
+          "Nas tabelas desses sabores, os açúcares adicionados aparecem como 0 g. Zero adicionado não quer dizer zero açúcar: o total de cada um está na última coluna."
+        ]
+      },
+      {
+        "heading": "E quem procura wafer zero lactose?",
+        "paragraphs": [
+          "Entre os wafers das duas lojas lidos para este guia, nenhum é declarado zero lactose. A lista de ingredientes do Veggie e o aviso de que ele pode conter leite não equivalem a essa declaração.",
+          "Como referência da categoria, a Bendu declara o Crispy Wafer zero lactose; ele contém glúten. Procure a declaração do fabricante no sabor que pretende comprar."
+        ]
+      },
+      {
+        "heading": "Códigos das duas lojas",
+        "comparisonTable": {
+          "headers": [
+            "Loja",
+            "Código",
+            "Desconto",
+            "Regras"
+          ],
+          "rows": [
+            [
+              "Mais Mu",
+              "MMEMCASACOMCECILIA",
+              "10%",
+              "[Cupom Mais Mu](/cupons/mais-mu)"
+            ],
+            [
+              "Dr. Peanut",
+              "DREMCASACOMCECILIA",
+              "10%",
+              "[Cupom Dr. Peanut](/cupons/dr-peanut)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Cada código vale só na loja dele. Confira o desconto no resumo do pedido; as regras com oferta e forma de pagamento estão nas páginas acima.",
+          "Se você ainda está escolhendo entre barra e wafer da mesma marca, veja o [guia de barras e wafers da Mais Mu](/reviews/barra-de-proteina-mais-mu-qual-escolher). Para comparar outros formatos com os da Bendu, veja [alternativas à Bendu](/reviews/alternativas-a-bendu)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual wafer proteico custa menos por proteína? Entre os selecionados, o Chocowheyfer Sem Cobertura tem o menor valor com o código, na referência e na oferta. A compra é de uma caixa.",
+          "Dá para comprar só uma unidade? A Doctor Wafer é vendida avulsa. Os wafers da Mais Mu comparados aqui são vendidos em caixa; compare também o frete.",
+          "O Veggie Wafer é sem leite? A lista publicada usa proteína vegetal e não tem leite como ingrediente, mas o aviso diz que pode conter leite. Confira a embalagem para a sua restrição.",
+          "Tem wafer proteico zero lactose? A Bendu declara o Crispy Wafer zero lactose. Entre os wafers das duas lojas lidos aqui, nenhum traz essa declaração.",
+          "Zero açúcar adicionado significa zero açúcar total? Não. Nas tabelas lidas, os adicionados aparecem como zero, mas há açúcares totais. Confira as duas linhas na porção do seu produto."
         ]
       }
     ]

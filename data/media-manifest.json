@@ -142311,6 +142311,282 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/wafer/wafer-proteico-qual-escolher-capa.webp",
+      "local_url": "/images/reviews/wafer/wafer-proteico-qual-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 95322,
+      "sha256": "ac16fc4f43bdaf7310c791bc5f914ef377071378df05206fd00f58d98bc0c175",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "wafer-proteico-qual-escolher-capa.webp",
+      "storage_filename": "wafer-proteico-qual-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/wafer-proteico-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/wafer-proteico-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/wafer/wafer-proteico-qual-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 225682,
+          "column": 15,
+          "literal": "/images/reviews/wafer/wafer-proteico-qual-escolher-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ac16fc4f43bdaf7310c791bc5f914ef377071378df05206fd00f58d98bc0c175/wafer-proteico-qual-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ac16fc4f43bdaf7310c791bc5f914ef377071378df05206fd00f58d98bc0c175/wafer-proteico-qual-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:57:06.959Z",
+      "verification_etag_or_digest": "ac16fc4f43bdaf7310c791bc5f914ef377071378df05206fd00f58d98bc0c175",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/wafer/wafer-proteico-qual-escolher-chocowheyfer-max.webp",
+      "local_url": "/images/reviews/wafer/wafer-proteico-qual-escolher-chocowheyfer-max.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 55874,
+      "sha256": "c5398ca75481fec775bdf5b0b43a33880cedb9c94be51bed12f62b6656d2375d",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "wafer-proteico-qual-escolher-chocowheyfer-max.webp",
+      "storage_filename": "wafer-proteico-qual-escolher-chocowheyfer-max.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/wafer-proteico-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/wafer-proteico-qual-escolher.json",
+          "line": 181,
+          "column": 19,
+          "literal": "/images/reviews/wafer/wafer-proteico-qual-escolher-chocowheyfer-max.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 225840,
+          "column": 21,
+          "literal": "/images/reviews/wafer/wafer-proteico-qual-escolher-chocowheyfer-max.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c5398ca75481fec775bdf5b0b43a33880cedb9c94be51bed12f62b6656d2375d/wafer-proteico-qual-escolher-chocowheyfer-max.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c5398ca75481fec775bdf5b0b43a33880cedb9c94be51bed12f62b6656d2375d/wafer-proteico-qual-escolher-chocowheyfer-max.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:57:07.275Z",
+      "verification_etag_or_digest": "c5398ca75481fec775bdf5b0b43a33880cedb9c94be51bed12f62b6656d2375d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/wafer/wafer-proteico-qual-escolher-chocowheyfer-sem-cobertura.webp",
+      "local_url": "/images/reviews/wafer/wafer-proteico-qual-escolher-chocowheyfer-sem-cobertura.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 96802,
+      "sha256": "7e1385dafd05ef6e5644c9e038b2cd68666e556ed6dd7da8ae38eee12d5f802b",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "wafer-proteico-qual-escolher-chocowheyfer-sem-cobertura.webp",
+      "storage_filename": "wafer-proteico-qual-escolher-chocowheyfer-sem-cobertura.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/wafer-proteico-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/wafer-proteico-qual-escolher.json",
+          "line": 172,
+          "column": 19,
+          "literal": "/images/reviews/wafer/wafer-proteico-qual-escolher-chocowheyfer-sem-cobertura.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 225831,
+          "column": 21,
+          "literal": "/images/reviews/wafer/wafer-proteico-qual-escolher-chocowheyfer-sem-cobertura.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7e1385dafd05ef6e5644c9e038b2cd68666e556ed6dd7da8ae38eee12d5f802b/wafer-proteico-qual-escolher-chocowheyfer-sem-cobertura.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7e1385dafd05ef6e5644c9e038b2cd68666e556ed6dd7da8ae38eee12d5f802b/wafer-proteico-qual-escolher-chocowheyfer-sem-cobertura.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:57:07.621Z",
+      "verification_etag_or_digest": "7e1385dafd05ef6e5644c9e038b2cd68666e556ed6dd7da8ae38eee12d5f802b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/wafer/wafer-proteico-qual-escolher-chocowheyfer.webp",
+      "local_url": "/images/reviews/wafer/wafer-proteico-qual-escolher-chocowheyfer.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 89530,
+      "sha256": "534d8624e33590bd3bc3d7811f733ee1ba07f0d1ed23b62db0039f738cae0e7e",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "wafer-proteico-qual-escolher-chocowheyfer.webp",
+      "storage_filename": "wafer-proteico-qual-escolher-chocowheyfer.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/wafer-proteico-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/wafer-proteico-qual-escolher.json",
+          "line": 190,
+          "column": 19,
+          "literal": "/images/reviews/wafer/wafer-proteico-qual-escolher-chocowheyfer.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 225849,
+          "column": 21,
+          "literal": "/images/reviews/wafer/wafer-proteico-qual-escolher-chocowheyfer.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/534d8624e33590bd3bc3d7811f733ee1ba07f0d1ed23b62db0039f738cae0e7e/wafer-proteico-qual-escolher-chocowheyfer.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/534d8624e33590bd3bc3d7811f733ee1ba07f0d1ed23b62db0039f738cae0e7e/wafer-proteico-qual-escolher-chocowheyfer.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:57:07.970Z",
+      "verification_etag_or_digest": "534d8624e33590bd3bc3d7811f733ee1ba07f0d1ed23b62db0039f738cae0e7e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/wafer/wafer-proteico-qual-escolher-doctor-wafer-doce-de-leite.webp",
+      "local_url": "/images/reviews/wafer/wafer-proteico-qual-escolher-doctor-wafer-doce-de-leite.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50170,
+      "sha256": "f895b4662d05deb07a3137c9d7f41fff1bb299f09a869545d9ea919355c0f554",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "wafer-proteico-qual-escolher-doctor-wafer-doce-de-leite.webp",
+      "storage_filename": "wafer-proteico-qual-escolher-doctor-wafer-doce-de-leite.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/wafer-proteico-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/wafer-proteico-qual-escolher.json",
+          "line": 153,
+          "column": 19,
+          "literal": "/images/reviews/wafer/wafer-proteico-qual-escolher-doctor-wafer-doce-de-leite.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 225812,
+          "column": 21,
+          "literal": "/images/reviews/wafer/wafer-proteico-qual-escolher-doctor-wafer-doce-de-leite.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f895b4662d05deb07a3137c9d7f41fff1bb299f09a869545d9ea919355c0f554/wafer-proteico-qual-escolher-doctor-wafer-doce-de-leite.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f895b4662d05deb07a3137c9d7f41fff1bb299f09a869545d9ea919355c0f554/wafer-proteico-qual-escolher-doctor-wafer-doce-de-leite.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:57:08.290Z",
+      "verification_etag_or_digest": "f895b4662d05deb07a3137c9d7f41fff1bb299f09a869545d9ea919355c0f554",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/wafer/wafer-proteico-qual-escolher-veggie-wafer.webp",
+      "local_url": "/images/reviews/wafer/wafer-proteico-qual-escolher-veggie-wafer.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 92344,
+      "sha256": "bb5a82e7d82c52b88d927585c027f58df5ce80972b543efafc5f2db7f541b342",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "wafer-proteico-qual-escolher-veggie-wafer.webp",
+      "storage_filename": "wafer-proteico-qual-escolher-veggie-wafer.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/wafer-proteico-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/wafer-proteico-qual-escolher.json",
+          "line": 209,
+          "column": 19,
+          "literal": "/images/reviews/wafer/wafer-proteico-qual-escolher-veggie-wafer.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 225868,
+          "column": 21,
+          "literal": "/images/reviews/wafer/wafer-proteico-qual-escolher-veggie-wafer.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bb5a82e7d82c52b88d927585c027f58df5ce80972b543efafc5f2db7f541b342/wafer-proteico-qual-escolher-veggie-wafer.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bb5a82e7d82c52b88d927585c027f58df5ce80972b543efafc5f2db7f541b342/wafer-proteico-qual-escolher-veggie-wafer.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T19:57:08.628Z",
+      "verification_etag_or_digest": "bb5a82e7d82c52b88d927585c027f58df5ce80972b543efafc5f2db7f541b342",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/whey/alternativas-a-growth-whey-capa-v2.webp",
       "local_url": "/images/reviews/whey/alternativas-a-growth-whey-capa-v2.webp",
       "media_kind": "image",
