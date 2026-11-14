@@ -224564,7 +224564,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A DAMIE vende no Mercado Livre? Sim, por anúncios oficiais da própria loja. Para o Norte e o Nordeste, é o canal que a DAMIE indica.",
-          "O cupom CECILIA12 vale no Mercado Livre? Não. Ele vale só no site da DAMIE, onde soma com o Pix.",
+          "O cupom CECILIA12 vale no Mercado Livre? Não. Ele vale só no site da DAMIE, onde soma com o Pix. Para o Mercado Livre, veja a nossa [curadoria de cupons do Mercado Livre](https://dicas.emcasacomcecilia.com/cupons/mercado-livre/) e confira no carrinho se algum entra no anúncio.",
           "A poltrona do Mercado Livre é a mesma do site? Depende do anúncio. A Florença e a Elétrica Motor Tecido Conforto são a Reclinável 1.0 do site com outro nome; a Colton, a Imperial e a Eames são modelos que o site não vende.",
           "Onde a DAMIE sai mais barata? Para a mesma poltrona, a conta do site com o CECILIA12 e o Pix dá o menor preço do produto. Some o frete para o seu endereço antes de decidir.",
           "Dá para parcelar a DAMIE em 24 vezes? Em anúncios do Mercado Livre, sim, no cartão de crédito do próprio Mercado Livre. No site, o limite é de 12 vezes sem juros."
@@ -224848,7 +224848,7 @@ export const reviewsData: unknown[] = [
           "A DAMIE tem poltrona manual giratória? Tem, no Mercado Livre: os anúncios da Colton, em linho e em corino, e da Imperial combinam reclinação manual, giro e balanço. No site, giro e balanço só aparecem nas elétricas.",
           "Qual das manuais deste guia tem o menor preço? A Imperial em linho, a R$ 3.058 na condição registrada. Compare o frete e a variação escolhida antes de fechar o pedido.",
           "A Eames gira e balança? O anúncio selecionado é da Eames elétrica de base fixa, sem giro ou balanço.",
-          "O cupom CECILIA12 vale no Mercado Livre? Não. Ele dá 12% no site oficial da DAMIE e não entra nos anúncios.",
+          "O cupom CECILIA12 vale no Mercado Livre? Não. Ele dá 12% no site oficial da DAMIE e não entra nos anúncios. Para o Mercado Livre, veja a nossa [curadoria de cupons do Mercado Livre](https://dicas.emcasacomcecilia.com/cupons/mercado-livre/) e confira no carrinho se algum entra no anúncio.",
           "Qual é o tamanho dessas poltronas? Os anúncios informam só as medidas da caixa, de 91 × 80 × 84 cm. Peça ao vendedor as medidas da poltrona montada e reclinada antes de comprar."
         ]
       }
@@ -225270,7 +225270,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Vendedor e produto.** Confira se a venda é da DAMIE e se o anúncio é o do modelo que você escolheu.",
           "**Cor e revestimento.** Selecione a variação antes de comparar valores: ela pode mudar o preço e a entrega.",
-          "**Seu CEP.** Veja se há entrega, quanto custa e qual é a previsão. Se não aparecer opção, pergunte à DAMIE pelo anúncio antes de fechar.",
+          "**Seu CEP.** Muitos anúncios da DAMIE aparecem com frete grátis, mas o valor muda com o CEP e com o modelo. Veja se há entrega, quanto custa e qual é a previsão. Se não aparecer opção, pergunte à DAMIE pelo anúncio antes de fechar.",
           "**Parcelamento.** Os anúncios da DAMIE aparecem com 12, 18 ou 24 vezes, conforme o anúncio; acima de 12 vezes, só no cartão de crédito do próprio Mercado Livre. Confira as parcelas, se há juros e o total.",
           "**Espaço.** Confira as medidas no anúncio e o caminho até o cômodo. A Florença manual mede 87 cm de largura, 95 cm de profundidade e 110 cm de altura, pelo anúncio."
         ]
@@ -225285,7 +225285,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O CECILIA12 vale nessa compra?",
         "paragraphs": [
-          "O CECILIA12 dá 12% no site oficial da DAMIE e não vale no Mercado Livre. As regras do código estão na página do [cupom DAMIE](/cupons/damie), e a comparação entre os dois canais, no guia [site oficial ou Mercado Livre](/reviews/damie-mercado-livre-ou-site)."
+          "O CECILIA12 dá 12% no site oficial da DAMIE e não vale no Mercado Livre. As regras do código estão na página do [cupom DAMIE](/cupons/damie), e a comparação entre os dois canais, no guia [site oficial ou Mercado Livre](/reviews/damie-mercado-livre-ou-site).",
+          "**Procurando cupom para a compra no Mercado Livre?** Veja a nossa [curadoria de cupons do Mercado Livre](https://dicas.emcasacomcecilia.com/cupons/mercado-livre/). Os cupons de lá mudam com frequência: confira no carrinho se algum entra no anúncio da DAMIE."
         ]
       },
       {
@@ -225294,7 +225295,7 @@ export const reviewsData: unknown[] = [
           "A DAMIE entrega no Nordeste? A marca atende a região pelos anúncios oficiais dela no Mercado Livre. Informe o seu CEP no anúncio para ver a entrega, o frete e a previsão.",
           "A DAMIE entrega no Norte? O caminho que a marca indica também é o Mercado Livre. A entrega se confere pelo CEP, no anúncio da poltrona que você quer.",
           "O site da DAMIE entrega no Norte e no Nordeste? Não. A página de fretes diz que essas regiões são atendidas exclusivamente pelos anúncios oficiais no Mercado Livre.",
-          "O CECILIA12 vale no Mercado Livre? Não. Ele dá 12% somente no site oficial da DAMIE.",
+          "O CECILIA12 vale no Mercado Livre? Não. Ele dá 12% somente no site oficial da DAMIE. Para o Mercado Livre, veja a nossa [curadoria de cupons do Mercado Livre](https://dicas.emcasacomcecilia.com/cupons/mercado-livre/) e confira no carrinho se algum entra no anúncio.",
           "Como saber o prazo para a minha cidade? Escolha a variação da poltrona e informe o seu CEP no anúncio. Se não aparecer opção, pergunte à DAMIE antes de pagar."
         ],
         "links": [
