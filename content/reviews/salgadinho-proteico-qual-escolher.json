@@ -245,7 +245,8 @@
       },
       "postParagraphs": [
         "Cada código vale só na loja dele. Confira o desconto no resumo do pedido e o frete: se comprar apenas um pacote, veja quanto a entrega acrescenta ao total.",
-        "Se você também considera outro formato, veja [wafer proteico: qual escolher](/reviews/wafer-proteico-qual-escolher). A comparação com os produtos da Bendu está em [alternativas à Bendu](/reviews/alternativas-a-bendu)."
+        "Se você também considera outro formato, veja [wafer proteico: qual escolher](/reviews/wafer-proteico-qual-escolher). A comparação com os produtos da Bendu está em [alternativas à Bendu](/reviews/alternativas-a-bendu).",
+        "Para um lanche doce, veja [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher), com seis barras de quatro lojas."
       ]
     },
     {
@@ -258,5 +259,6 @@
         "Dá para comprar só um pacote? Sim, os dois têm venda avulsa. Compare o total com o frete antes de comprar."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-14"
 }

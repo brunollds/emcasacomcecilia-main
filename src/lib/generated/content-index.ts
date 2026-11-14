@@ -124117,7 +124117,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Nada disso diz qual snack tem o melhor sabor, nem qual cabe na sua dieta. Essa decisão é de um nutricionista ou médico. O rótulo completo, com ingredientes e adoçantes, está no [guia de ingredientes da Dr. Peanut](/reviews/dr-peanut-e-saudavel).",
-          "Se você já decidiu pelo wafer, o [guia de wafer proteico](/reviews/wafer-proteico-qual-escolher) compara a Doctor Wafer com os wafers em caixa de outra marca, por preço e proteína."
+          "Se você já decidiu pelo wafer, o [guia de wafer proteico](/reviews/wafer-proteico-qual-escolher) compara a Doctor Wafer com os wafers em caixa de outra marca, por preço e proteína.",
+          "Para comparar a Doctor Bar com barras de outras marcas, veja [o guia de barras de proteína](/reviews/barra-de-proteina-qual-escolher). Aqui, a escolha é entre barra, alfajor e wafer da Dr. Peanut."
         ]
       },
       {
@@ -127449,7 +127450,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Compare a quantidade que pretende comer e as restrições do rótulo. Se há uma restrição alimentar, converse com nutricionista ou médico com a embalagem em mãos.",
-          "Se você já decidiu pelo wafer, o [guia de wafer proteico](/reviews/wafer-proteico-qual-escolher) compara tamanho da compra, proteína declarada, preço com código e a opção avulsa de outra marca. Aqui, a escolha continua sendo entre os formatos de snack da Mais Mu."
+          "Se você já decidiu pelo wafer, o [guia de wafer proteico](/reviews/wafer-proteico-qual-escolher) compara tamanho da compra, proteína declarada, preço com código e a opção avulsa de outra marca. Aqui, a escolha continua sendo entre os formatos de snack da Mais Mu.",
+          "Se você já decidiu comprar barra e quer comparar outras marcas, veja [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher), com preço por grama de proteína e açúcar adicionado."
         ],
         "emphasis": "Para mais proteína em uma unidade maior, a Mukebar 720 g é a opção da comparação; para gastar menos por unidade, era a Sem Cobertura nos preços de referência. São escolhas por critérios diferentes.",
         "emphasisAfterParagraph": 1
@@ -225551,7 +225553,8 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Olhe também o preço de cada barra. No display com o código, a Doctor Bar fica em R$ 13,73 por barra; a Soft Bar, no cenário da tabela, em R$ 9,97. A vantagem da Doctor Bar é por proteína: cada barra é maior e custa mais.",
-          "Os outros formatos estão em [snacks da Dr. Peanut: qual escolher](/reviews/snacks-dr-peanut-qual-escolher), e as barras da Mais Mu, em [barra de proteína Mais Mu: qual escolher](/reviews/barra-de-proteina-mais-mu-qual-escolher)."
+          "Os outros formatos estão em [snacks da Dr. Peanut: qual escolher](/reviews/snacks-dr-peanut-qual-escolher), e as barras da Mais Mu, em [barra de proteína Mais Mu: qual escolher](/reviews/barra-de-proteina-mais-mu-qual-escolher).",
+          "Quer comparar outras barras além desta alternativa? Veja [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher), com opções de quatro lojas."
         ],
         "images": [
           {
@@ -225658,7 +225661,8 @@ export const reviewsData: unknown[] = [
           "A pasta sabor avelã substitui o creme da Bendu? Ela atende quem aceita base de amendoim e lactose para pagar menos por 100 g. Confira a composição antes de trocar."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-14"
   },
   {
     "id": 978,
@@ -225964,7 +225968,8 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Cada código vale só na loja dele. Confira o desconto no resumo do pedido; as regras com oferta e forma de pagamento estão nas páginas acima.",
-          "Se você ainda está escolhendo entre barra e wafer da mesma marca, veja o [guia de barras e wafers da Mais Mu](/reviews/barra-de-proteina-mais-mu-qual-escolher). Para comparar outros formatos com os da Bendu, veja [alternativas à Bendu](/reviews/alternativas-a-bendu)."
+          "Se você ainda está escolhendo entre barra e wafer da mesma marca, veja o [guia de barras e wafers da Mais Mu](/reviews/barra-de-proteina-mais-mu-qual-escolher). Para comparar outros formatos com os da Bendu, veja [alternativas à Bendu](/reviews/alternativas-a-bendu).",
+          "Se a dúvida é entre wafer e barra, veja [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher), com seis barras de quatro lojas."
         ]
       },
       {
@@ -225977,7 +225982,8 @@ export const reviewsData: unknown[] = [
           "Zero açúcar adicionado significa zero açúcar total? Não. Nas tabelas lidas, os adicionados aparecem como zero, mas há açúcares totais. Confira as duas linhas na porção do seu produto."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-14"
   },
   {
     "id": 979,
@@ -226226,7 +226232,8 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Cada código vale só na loja dele. Confira o desconto no resumo do pedido e o frete: se comprar apenas um pacote, veja quanto a entrega acrescenta ao total.",
-          "Se você também considera outro formato, veja [wafer proteico: qual escolher](/reviews/wafer-proteico-qual-escolher). A comparação com os produtos da Bendu está em [alternativas à Bendu](/reviews/alternativas-a-bendu)."
+          "Se você também considera outro formato, veja [wafer proteico: qual escolher](/reviews/wafer-proteico-qual-escolher). A comparação com os produtos da Bendu está em [alternativas à Bendu](/reviews/alternativas-a-bendu).",
+          "Para um lanche doce, veja [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher), com seis barras de quatro lojas."
         ]
       },
       {
@@ -226237,6 +226244,395 @@ export const reviewsData: unknown[] = [
           "Tem salgadinho proteico sem leite? A Belive declara o snack dela sem leite e zero lactose. O parmesão da Mais Mu também é declarado zero lactose, mas contém derivados de leite.",
           "Como comparar o sódio? Olhe a porção e o sabor na tabela. Os pacotes têm pesos diferentes, e os quatro sabores da Belive têm valores diferentes entre si.",
           "Dá para comprar só um pacote? Sim, os dois têm venda avulsa. Compare o total com o frete antes de comprar."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-14"
+  },
+  {
+    "id": 980,
+    "slug": "barra-de-proteina-qual-escolher",
+    "locale": "pt",
+    "title": "Barra de proteína: qual escolher por grama de proteína, açúcar e preço",
+    "seoTitle": "Barra de proteína: qual escolher e quanto custa",
+    "type": "Comparativo de Snacks",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Compare seis barras da Probiótica, Black Skull, Dr. Peanut e Mais Mu por proteína, açúcar adicionado e preço por unidade, com os códigos de cada loja e a oferta separada.",
+    "metaDescription": "CECILIA10 dá 10% na Black Skull. Compare seis barras de proteína de quatro lojas por açúcar adicionado, tamanho e preço por grama de proteína.",
+    "publishedAt": "14 de novembro de 2026",
+    "publishedAtISO": "2026-11-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-capa.webp",
+    "imageAlt": "Caixas da Whey Bar da Probiótica, da Whey Bar Gourmet Zero da Black Skull, da Doctor Bar da Dr. Peanut e da Mukebar da Mais Mu, ao lado da chamada Barra de proteína: qual escolher e do apoio Com cupom.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "decision": {
+      "takeIf": [
+        "Você quer o menor custo por proteína desta seleção e aceita açúcar adicionado: a Whey Bar da Probiótica.",
+        "Você quer zero açúcar adicionado pelo menor preço por barra: a Whey Bar Creamy da Probiótica; se a declaração sem glúten pesa, a Gourmet Zero da Black Skull.",
+        "Você quer a maior quantidade de proteína em uma unidade entre as seis: a Doctor Bar da Dr. Peanut."
+      ],
+      "skipIf": [
+        "Você precisa de uma barra declarada zero lactose: nenhuma das seis traz essa declaração.",
+        "Você quer experimentar uma unidade antes de comprar a caixa: as apresentações comparadas são caixas."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "affiliate": [
+      "probiotica",
+      "black-skull",
+      "dr-peanut",
+      "mais-mu"
+    ],
+    "editorialNote": "Comparação de preços e rótulos; não provamos as barras. Podemos receber comissão das quatro lojas.",
+    "relatedArticles": [
+      {
+        "slug": "barra-de-proteina-mais-mu-qual-escolher"
+      },
+      {
+        "slug": "snacks-dr-peanut-qual-escolher"
+      },
+      {
+        "slug": "alternativas-a-bendu"
+      },
+      {
+        "slug": "wafer-proteico-qual-escolher"
+      },
+      {
+        "slug": "salgadinho-proteico-qual-escolher"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Entre as seis barras comparadas, a Whey Bar da Probiótica custa menos por grama de proteína, mas leva açúcar adicionado. Para evitar açúcar adicionado, a Creamy da mesma marca tem o menor preço por barra. A Doctor Bar tem mais proteína por unidade nesta seleção; a página da Gourmet Zero da Black Skull declara que ela não contém glúten."
+        ]
+      },
+      {
+        "heading": "Escolha pelo que você quer comparar",
+        "paragraphs": [
+          "O preço da caixa mostra o valor dos produtos antes do frete; o preço por barra ajuda a comparar o lanche. Para saber quanto custa a proteína, olhe também o preço por grama: as embalagens e o tamanho das barras mudam entre as marcas.",
+          "Aqui são seis opções de quatro lojas. A comparação não cobre todos os produtos dessas marcas nem elege a melhor barra do mercado.",
+          "O açúcar tem duas linhas no rótulo. A de açúcares totais inclui os adicionados. Uma barra pode declarar zero adição de açúcar e ainda ter açúcar total, como acontece nas opções abaixo."
+        ]
+      },
+      {
+        "heading": "Proteína e açúcar: o que muda entre as barras",
+        "paragraphs": [
+          "Valores por unidade, das tabelas publicadas nas páginas. Onde há faixa, ela cobre os sabores indicados."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Barra e sabores",
+            "Peso e proteína",
+            "Açúcares adicionados",
+            "Açúcares totais"
+          ],
+          "rows": [
+            [
+              "Whey Bar, Probiótica (cinco sabores)",
+              "40 g; 15 g",
+              "4,5 a 4,6 g",
+              "4,9 a 5 g"
+            ],
+            [
+              "Whey Bar Creamy, Probiótica (quatro sabores)",
+              "38 g; 10 a 11 g",
+              "0 g",
+              "1,8 a 2,8 g"
+            ],
+            [
+              "Gourmet Zero, Black Skull (mesma tabela nos sete sabores)",
+              "45 g; 12 g",
+              "0 g",
+              "4,2 g"
+            ],
+            [
+              "Doctor Bar, Dr. Peanut (Avelã, Cookies & Cream, Doce de Leite e Chocolate com Coco)",
+              "62 g; 21 g",
+              "0,1 a 0,4 g",
+              "1,2 a 2,9 g"
+            ],
+            [
+              "Mukebar, Mais Mu (Chocolate com Avelã)",
+              "60 g; 15 g",
+              "0 g",
+              "3,7 g"
+            ],
+            [
+              "Crush Bar, Mais Mu (Chocolate e Morango)",
+              "35 g; 10 g",
+              "0 g",
+              "0,7 g"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Doctor Bar tem a maior quantidade de proteína por unidade desta seleção e também é a maior barra. A Crush Bar é a menor e tem o menor açúcar total. Na Creamy, a proteína muda com o sabor: 11 g em Morango e Cookies & Cream, 10 g em Chocolate e Coco."
+        ]
+      },
+      {
+        "heading": "Preço por caixa, por barra e por grama de proteína",
+        "paragraphs": [
+          "Preços dos sites em 14 de novembro de 2026, no cartão, sem frete nem desconto do Pix. Na Black Skull, na Dr. Peanut e na Mais Mu, as contas já incluem o código de 10% de cada loja. A Probiótica aparece sem código: o dela dá até 10%, conforme o produto, e o valor final aparece no carrinho.",
+          "Na Mais Mu, esta tabela usa o preço exibido antes da oferta; a oferta vem logo abaixo."
+        ],
+        "comparisonTable": {
+          "caption": "Conta nossa: o preço da caixa dividido pelas barras e pela proteína de cada uma, arredondado para centavos.",
+          "headers": [
+            "Barra e caixa",
+            "Preço da caixa",
+            "Por barra",
+            "Por grama de proteína"
+          ],
+          "rows": [
+            [
+              "[Whey Bar, Probiótica](https://www.probiotica.com.br/whey-bar-24-un-/p), 24 unidades, sem código",
+              "R$ 139,88",
+              "R$ 5,83",
+              "R$ 0,39"
+            ],
+            [
+              "[Whey Bar Creamy, Probiótica](https://www.probiotica.com.br/whey-bar-creamy/p), 12 unidades, sem código",
+              "R$ 77,89",
+              "R$ 6,49",
+              "R$ 0,59 a R$ 0,65"
+            ],
+            [
+              "[Doctor Bar, Dr. Peanut](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p), 8 unidades",
+              "R$ 109,83",
+              "R$ 13,73",
+              "R$ 0,65"
+            ],
+            [
+              "[Gourmet Zero, Black Skull](https://www.blackskullusa.com.br/barra-de-proteina-whey-bar-gourmet-zero-caixa-12-unidades/p), 12 unidades",
+              "R$ 98,91",
+              "R$ 8,24",
+              "R$ 0,69"
+            ],
+            [
+              "[Mukebar, Mais Mu](https://www.lojamaismu.com.br/produtos/mukebar-barra-de-proteina-chocolate-com-avela-720g/), 12 unidades",
+              "R$ 161,89",
+              "R$ 13,49",
+              "R$ 0,90"
+            ],
+            [
+              "[Crush Bar, Mais Mu](https://www.lojamaismu.com.br/produtos/crushbar-barra-de-proteina-mu-chocolate-caixa-12-unidades/), 12 unidades",
+              "R$ 118,69",
+              "R$ 9,89",
+              "R$ 0,99"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Quanto a oferta da Mais Mu muda a conta",
+        "paragraphs": [
+          "Com a oferta do dia e o MMEMCASACOMCECILIA, as duas caixas ficam assim:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Barra",
+            "Caixa com o código",
+            "Por barra",
+            "Por grama de proteína"
+          ],
+          "rows": [
+            [
+              "Mukebar, 12 unidades",
+              "R$ 137,61",
+              "R$ 11,47",
+              "R$ 0,76"
+            ],
+            [
+              "Crush Bar, 12 unidades",
+              "R$ 83,09",
+              "R$ 6,92",
+              "R$ 0,69"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nessa oferta, a Crush Bar se aproxima da Gourmet Zero por grama de proteína. A Whey Bar da Probiótica continua na frente, mesmo sem desconto. O frete pode mudar qual caixa fica mais barata no pedido."
+        ]
+      },
+      {
+        "heading": "Probiótica: menor custo por proteína ou zero açúcar adicionado",
+        "paragraphs": [
+          "A escolha entre as duas começa pelo açúcar adicionado. A Whey Bar tem o menor custo por proteína do guia; a Creamy é a de menor preço por barra entre as que declaram zero açúcar adicionado.",
+          "O tamanho do pedido também muda: a caixa da Whey Bar traz 24 barras, o dobro da Creamy. Quem quer gastar menos de uma vez deve comparar o total da caixa.",
+          "O PRO10EMCASACOMCECILIA dá até 10%, conforme o produto. Confira o desconto aplicado à caixa no resumo do pedido."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-whey-bar-probiotica.webp",
+            "alt": "Caixa com 24 unidades da Whey Bar da Probiótica, sabor Chocolate, com uma barra de 40 g à frente, em imagem oficial",
+            "caption": "Whey Bar, caixa de 24. Imagem: Probiótica.",
+            "href": "https://www.probiotica.com.br/whey-bar-24-un-/p",
+            "objectFit": "square",
+            "aspectRatio": 1,
+            "store": "probiotica"
+          }
+        ]
+      },
+      {
+        "heading": "Black Skull: Gourmet Zero e a declaração sem glúten",
+        "paragraphs": [
+          "A página da Whey Bar Gourmet Zero declara que a barra não contém glúten e que contém lactose. Entre as seis, é a única com essa declaração sobre glúten. Confira a embalagem do sabor escolhido antes de comprar.",
+          "Ela também declara zero açúcar adicionado, com a mesma tabela publicada para os sete sabores. O preço por grama de proteína fica acima do da Creamy; a declaração sobre glúten é a diferença que pesa nesta escolha."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-whey-bar-gourmet-zero-black-skull.webp",
+            "alt": "Display com 12 unidades da Whey Bar Gourmet Zero da Black Skull, sabor Chocolate, com 12 g de proteína por barra, em imagem oficial",
+            "caption": "Whey Bar Gourmet Zero, display de 12. Imagem: Black Skull.",
+            "href": "https://www.blackskullusa.com.br/barra-de-proteina-whey-bar-gourmet-zero-caixa-12-unidades/p",
+            "objectFit": "square",
+            "aspectRatio": 1,
+            "store": "black-skull"
+          }
+        ]
+      },
+      {
+        "heading": "Dr. Peanut: Doctor Bar para mais proteína em uma barra",
+        "paragraphs": [
+          "Entre as seis, a Doctor Bar é a que tem mais proteína por unidade. Isso não a torna a mais barata por barra: ela é maior, e a caixa de oito também precisa caber no pedido.",
+          "As tabelas dos sabores publicados declaram uma pequena quantidade de açúcar adicionado. A faixa da tabela acima não inclui o Speculoos, que não tem tabela publicada.",
+          "Para comparar a barra com o alfajor e o wafer da mesma marca, veja [snacks da Dr. Peanut: qual escolher](/reviews/snacks-dr-peanut-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dr-peanut/dr-peanut-e-boa-doctor-bar-avela.webp",
+            "alt": "Display e barra de proteína Doctor Bar da Dr. Peanut, sabor Avelã, em foto oficial da marca",
+            "caption": "Doctor Bar, aqui no sabor Avelã. Foto oficial da Dr. Peanut.",
+            "href": "https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p",
+            "objectFit": "square",
+            "aspectRatio": 1,
+            "store": "dr-peanut"
+          }
+        ]
+      },
+      {
+        "heading": "Mais Mu: uma barra maior ou uma menor com menos açúcar total",
+        "paragraphs": [
+          "A Mukebar é a barra maior, com zero açúcar adicionado no sabor comparado. A Crush Bar é a menor e tem menos açúcar total. Nenhuma das duas lidera o preço por grama de proteína desta seleção.",
+          "A oferta reduz bastante essa diferença, sobretudo na Crush Bar. Quem já prefere uma delas pode usar as duas tabelas para ver quanto a promoção muda o custo, sem contar com o mesmo preço depois da oferta.",
+          "Para escolher também entre barras e wafers da marca, veja o [guia da Mais Mu](/reviews/barra-de-proteina-mais-mu-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-mukebar-mais-mu.webp",
+            "alt": "Caixa com 12 unidades da Mukebar da Mais Mu, sabor Chocolate com Avelã, com 15 g de proteína por barra, em imagem oficial",
+            "caption": "Mukebar Chocolate com Avelã, caixa de 12. Imagem: Mais Mu.",
+            "href": "https://www.lojamaismu.com.br/produtos/mukebar-barra-de-proteina-chocolate-com-avela-720g/",
+            "objectFit": "square",
+            "aspectRatio": 1,
+            "store": "mais-mu"
+          }
+        ]
+      },
+      {
+        "heading": "Lactose e glúten: confira o aviso do sabor",
+        "comparisonTable": {
+          "headers": [
+            "Página lida",
+            "Lactose",
+            "Glúten"
+          ],
+          "rows": [
+            [
+              "Whey Bar e Whey Bar Creamy, Probiótica",
+              "Contém",
+              "Contém"
+            ],
+            [
+              "Whey Bar Gourmet Zero, Black Skull",
+              "Contém",
+              "Não contém"
+            ],
+            [
+              "Doctor Bar Avelã, Dr. Peanut",
+              "Contém",
+              "Contém"
+            ],
+            [
+              "Mukebar Chocolate com Avelã, Mais Mu",
+              "Contém",
+              "Contém"
+            ],
+            [
+              "Crush Bar Chocolate, Mais Mu",
+              "Contém",
+              "A página traz as duas declarações"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nenhuma das páginas lidas declara a barra zero lactose. Na Crush Bar Chocolate, o aviso de alergênicos diz que contém glúten e outro trecho da mesma página diz que não contém: vale a embalagem.",
+          "Para dúvidas sobre restrição alimentar, converse com nutricionista ou médico com a embalagem em mãos."
+        ]
+      },
+      {
+        "heading": "Códigos de desconto das quatro lojas",
+        "comparisonTable": {
+          "headers": [
+            "Loja",
+            "Código",
+            "Desconto",
+            "Regras"
+          ],
+          "rows": [
+            [
+              "Probiótica",
+              "PRO10EMCASACOMCECILIA",
+              "Até 10%, conforme o produto",
+              "[Cupom Probiótica](/cupons/probiotica)"
+            ],
+            [
+              "Black Skull",
+              "CECILIA10",
+              "10%",
+              "[Cupom Black Skull](/cupons/black-skull)"
+            ],
+            [
+              "Dr. Peanut",
+              "DREMCASACOMCECILIA",
+              "10%",
+              "[Cupom Dr. Peanut](/cupons/dr-peanut)"
+            ],
+            [
+              "Mais Mu",
+              "MMEMCASACOMCECILIA",
+              "10%",
+              "[Cupom Mais Mu](/cupons/mais-mu)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Cada código vale só na loja dele. Confira o desconto e o frete no resumo do pedido para comparar o total que vai pagar.",
+          "A Max Titanium também vende barras de proteína. As regras do código da marca estão em [cupom Max Titanium](/cupons/max-titanium).",
+          "Se você quer outro formato de lanche, compare também [wafers proteicos](/reviews/wafer-proteico-qual-escolher) e [salgadinhos proteicos](/reviews/salgadinho-proteico-qual-escolher)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual barra tem o menor preço por grama de proteína? Entre as seis comparadas, a Whey Bar da Probiótica, mesmo sem aplicar o código. Ela leva açúcar adicionado.",
+          "Qual barra de proteína não tem açúcar? Nenhuma das seis tem zero açúcar total. Creamy, Gourmet Zero, Mukebar e Crush Bar declaram zero açúcar adicionado nos rótulos comparados.",
+          "A Gourmet Zero da Black Skull é zero lactose? Não. A página declara que ela contém lactose; o aviso de que não contém glúten é outra informação.",
+          "Qual barra tem mais proteína por unidade? Entre as seis deste guia, a Doctor Bar da Dr. Peanut. A comparação não cobre todo o catálogo das quatro lojas.",
+          "Dá para comprar uma barra avulsa? As apresentações comparadas aqui são caixas, de 8, 12 ou 24 unidades. Confira no anúncio se a loja oferece outra apresentação."
         ]
       }
     ]
