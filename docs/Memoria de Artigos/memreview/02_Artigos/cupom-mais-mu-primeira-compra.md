@@ -205,3 +205,10 @@ O texto está em `content/reviews/cupom-mais-mu-primeira-compra.json` (id 916), 
 ## Revisão externa (Farol, 12/11/2026)
 
 Aplicado depois de conferir os fatos: a resposta rápida e o subtítulo passaram a dizer que o crédito de cashback não entra junto, porque é usado como outro cupom. Não aplicado: tirar o print do código de outro carrinho. O Bruno decidiu em 12/11 que o print da página de cupom entra em todo artigo da série.
+
+## Capa v2 (13/11/2026)
+
+- **Capa:** `/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `b6cecaaae36a9e24bcb7450770eec0b03b82d5ade49b504a2b1b7fe7aaf3a9f5`.
+- **Alt:** Pote de Whey Protein Paçoquita 450 g da Mais Mu e copo de bebida em cozinha, em imagem oficial, com a chamada Primeira compra na Mais Mu? e o código MMEMCASACOMCECILIA.
+- **Origem:** outra foto da galeria oficial do Whey Paçoquita 450 g, exclusiva desta página; não é preparo da equipe.
+- **Lote 44 do piloto de capas (sequência 15 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/44/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 13/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-48-HEROES-48-PAGINAS-SEQUENCIA-15-CLAUDE.zip` (`lotes/44/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

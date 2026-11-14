@@ -325,3 +325,10 @@ Fase 2 do retrofit pedido pelo Bruno em 12/10/2026; folha de contato aprovada po
 - "Nutren Protein ou Nutren Senior": `nutren-protein-baunilha-e-senior-cafe-com-leite.webp`, montagem das fotos oficiais das duas latas que o texto compara, fora de escala.
 - A lata do Just Protein passou a quadrada (`objectFit: square`), sem as faixas do quadro 16:9.
 - YoPRO e whey seguem sem imagem.
+
+## Capa v2 (13/11/2026)
+
+- **Capa:** `/images/reviews/nutren/nutren-protein-ou-whey-capa-v2.webp` (`imageFit: contain`), SHA-256 `ba7750af721abda4c8f07d1a8cd964f158c50422bf8140561112978eb2ff6989`.
+- **Alt:** Garrafa de Nutren Protein chocolate pronta para beber, em foto oficial, com logo Nestlé Nutre, “Nutren Protein ou whey?”, “O que muda no rótulo” e cupom CECI.
+- **Origem:** foto oficial só da garrafa pronta de chocolate, não da lata da capa antiga; sem números de formulação.
+- **Lote 43 do piloto de capas (sequência 15 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/43/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 13/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-48-HEROES-48-PAGINAS-SEQUENCIA-15-CLAUDE.zip` (`lotes/43/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/nutren/nutren-protein-po-e-pronto-para-beber-oficial.webp`) fica no CDN, sem uso como capa.

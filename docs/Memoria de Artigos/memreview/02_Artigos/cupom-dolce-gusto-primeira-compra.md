@@ -211,3 +211,10 @@ O texto está em `content/reviews/cupom-dolce-gusto-primeira-compra.json` (id 92
 ## Revisão externa (Farol, 12/11/2026)
 
 Aplicado depois de conferir os fatos: "produtos elegíveis" junto do mínimo de R$ 100 na resposta rápida, na meta, no subtítulo e no FAQ; máquinas com "pode ser aceito, conforme o produto e a campanha"; título do capítulo da conta sem "no limite". Não aplicado: tirar o print do código de outro pedido (decisão do Bruno de 12/11: o print da página de cupom entra em todo artigo da série).
+
+## Capa v2 (13/11/2026)
+
+- **Capa:** `/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `7d9e8dad4084a69bfc00a248ff35a6cd99bf209edd1c6593f6936c6e191cc0b9`.
+- **Alt:** Máquina Dolce Gusto prateada preparando uma bebida em copo de vidro, em foto própria, com a chamada Primeira compra na Dolce Gusto? e o código CECI.
+- **Origem:** foto própria da máquina preparando a bebida.
+- **Lote 44 do piloto de capas (sequência 15 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/44/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 13/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-48-HEROES-48-PAGINAS-SEQUENCIA-15-CLAUDE.zip` (`lotes/44/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

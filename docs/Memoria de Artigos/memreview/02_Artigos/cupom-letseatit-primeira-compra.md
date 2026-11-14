@@ -199,3 +199,10 @@ O texto está em `content/reviews/cupom-letseatit-primeira-compra.json` (id 926)
 ## Revisão externa (Farol, 12/11/2026)
 
 Aplicado: o frete descrito pela ordem das telas, sem sugerir base de mínimo.
+
+## Capa v2 (13/11/2026)
+
+- **Capa:** `/images/reviews/letseatit/cupom-letseatit-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `b9c4cdce4d2f5bee67211a56bf96830b37a1473ca9372ae2d761362d69498c9d`.
+- **Alt:** Mesa posta com pratos verdes, guardanapos claros e vasos de flores, em foto oficial da galeria da Let’s Eat It, com o logo da loja e as chamadas “Primeira compra na Let’s Eat It?” e “O mesmo cupom nas seguintes”.
+- **Origem:** foto oficial da galeria da loja, mesa posta com louças verdes e flores, no lugar do pote isolado, a pedido do Bruno (v4; o v3 não é final). Pareceres vigentes: lotes/45/ADENDO-TROCA-6.md e lotes/45/revisao-terra/ADENDO-TROCA-6.json. MAUAD fora da arte e do alt, sem código substituto; o nome da loja fica na chamada para identificar o monograma L.
+- **Lote 45 do piloto de capas (sequência 15 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/45/revisao-terra/ADENDO-TROCA-6.json`):** aprovado pelo Bruno em 13/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-48-HEROES-48-PAGINAS-SEQUENCIA-15-CLAUDE.zip` (`lotes/45/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/letseatit/cupom-letseatit-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

@@ -201,3 +201,10 @@ Revisão externa do Farol (com contraprova do GPT-6.1 Terra) em 12/11/2026, em `
 - **Capa:** `/images/reviews/insider/cupom-insider-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da Insider, "Cupom Insider primeira compra" e o EMCASACOMCECILIA. Alt: Modelo com a Daily T-shirt azul da Insider, em foto oficial, ao lado da chamada Cupom Insider primeira compra e do código EMCASACOMCECILIA.
 - **Quanto fica, com promoção e Pix:** `/images/reviews/insider/cupom-insider-primeira-compra-daily-t-shirt-preta.webp` (quadrada, `href` com o link de afiliado da Daily T-shirt). Alt: Modelo com a Daily T-shirt preta da Insider, em foto oficial de frente. Legenda: A Daily T-shirt, a peça do kit do nosso teste. Foto: Insider.
 - **Origem:** duas fotos oficiais da galeria da Daily T-shirt (Blue Dive na capa, preta no corpo), lidas em 12/11/2026. Conferi oito capas da Insider e nenhuma usa a Daily azul. Sem IA.
+
+## Capa v2 (13/11/2026)
+
+- **Capa:** `/images/reviews/insider/cupom-insider-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `332af52c52131fbb2fe822daf9e7d439f8d2ee192b98839ca313cb5a524061f6`.
+- **Alt:** Modelo adulto veste a Daily T-shirt Mineral Orange em foto oficial da Insider, com logo da marca, “Primeira compra?”, “O mesmo cupom nas seguintes” e cupom EMCASACOMCECILIA.
+- **Origem:** foto oficial com modelo adulto de Daily T-shirt Mineral Orange; não é a Cecília.
+- **Lote 44 do piloto de capas (sequência 15 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/44/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 13/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-48-HEROES-48-PAGINAS-SEQUENCIA-15-CLAUDE.zip` (`lotes/44/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/insider/cupom-insider-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

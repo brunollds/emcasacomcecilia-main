@@ -194,3 +194,10 @@ O texto está em `content/reviews/cupom-belive-primeira-compra.json` (id 923), n
 ## Revisão externa (Farol, 12/11/2026)
 
 Aplicado depois de conferir os fatos: título do capítulo da conta sem o Pix (a tabela termina antes dele); FAQ do frete com os estados de cada faixa; instrução de informar o CEP. Não aplicado: tirar o print do código de outro pedido (decisão do Bruno de 12/11: o print da página de cupom entra em todo artigo da série).
+
+## Capa v2 (13/11/2026)
+
+- **Capa:** `/images/reviews/belive/cupom-belive-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `cbf2dfc48ba040ad2147787c93b834221ef20539a12ec86297173110da4b22dd`.
+- **Alt:** Pãezinhos de batata da Belive sobre uma tábua, um deles aberto, em foto oficial, com logo Belive, “Primeira compra?” e “O mesmo cupom nas seguintes”.
+- **Origem:** foto oficial dos pãezinhos de batata; não é receita da equipe. MAUAD fora da arte e do alt, sem código substituto.
+- **Lote 45 do piloto de capas (sequência 15 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/45/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 13/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-48-HEROES-48-PAGINAS-SEQUENCIA-15-CLAUDE.zip` (`lotes/45/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/belive/cupom-belive-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

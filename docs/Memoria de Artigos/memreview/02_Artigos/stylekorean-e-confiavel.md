@@ -132,3 +132,20 @@ As 9 traduções saíram pelo Sonnet e foram relidas, cada uma, por outro agente
 | Cluster | 10 | 9 | Liga SK1, família de confiança e página da loja |
 | Viabilidade | 10 | 6 | Nota muda, mas o artigo não depende de preço |
 | **Total** | 100 | **77** | |
+
+## Capa v2 (13/11/2026)
+
+- **Capas:** uma por idioma, com a chamada no idioma da página (`imageFit: contain`):
+  - de (`ist-stylekorean-serioes`): `/images/reviews/yesstyle/stylekorean-e-confiavel-capa-de-v2.webp`, SHA-256 `3ea31d4c1b0dcd22394d53b06e445d17733e5425bfa3412a82d591e2b8bda79e`
+  - en (`is-stylekorean-legit`): `/images/reviews/yesstyle/stylekorean-e-confiavel-capa-en-v2.webp`, SHA-256 `e984cb13ad95d88bd7b4e1a7eaa02e017c78dff28134f8bc59f41a8973fb0ced`
+  - es (`stylekorean-es-confiable`): `/images/reviews/yesstyle/stylekorean-e-confiavel-capa-es-v2.webp`, SHA-256 `0a7846c31c6845fd8b81b0161bfeeec451cdd6bd50a4a917bd47b9d9caefce8a`
+  - fr (`stylekorean-fiable-avis`): `/images/reviews/yesstyle/stylekorean-e-confiavel-capa-fr-v2.webp`, SHA-256 `5c1e4c8f18f272216077c9815d1f60e950ace4b6d2c47781edae0d4c93805c8b`
+  - it (`stylekorean-e-affidabile`): `/images/reviews/yesstyle/stylekorean-e-confiavel-capa-it-v2.webp`, SHA-256 `c78cee1ba0653c94c77574d5d1c1b6d8678f605f30a77f9610752b6f0d90f62f`
+  - ja (`stylekorean-reliable-ja`): `/images/reviews/yesstyle/stylekorean-e-confiavel-capa-ja-v2.webp`, SHA-256 `856b6e27bf19ece8fd5e6d5413546eb73d19f08902287dea39dd1368bf8f2e5b`
+  - ko (`stylekorean-reliable-ko`): `/images/reviews/yesstyle/stylekorean-e-confiavel-capa-ko-v2.webp`, SHA-256 `9f7750374a4cb5b1d35ae270838542dc1b8dc61a558efb2a53ec3c5f98db2664`
+  - pt (`stylekorean-e-confiavel`): `/images/reviews/yesstyle/stylekorean-e-confiavel-capa-pt-v2.webp`, SHA-256 `ca8cfcb0cc09f3f4ddb3f860b8d33f6dbd68bae33d85b93641bc1b1ae1b47fd1`
+  - zh-hans (`stylekorean-reliable-zh-hans`): `/images/reviews/yesstyle/stylekorean-e-confiavel-capa-zh-hans-v2.webp`, SHA-256 `14876c528009bf88df4a3ce92b47c752a89607e906171e585b46770b2816d5df`
+  - zh-hant (`stylekorean-reliable-zh-hant`): `/images/reviews/yesstyle/stylekorean-e-confiavel-capa-zh-hant-v2.webp`, SHA-256 `26d65e1265fa2ad0a078df9202edaa778aae39b60e0e3e111577f7a195dc8aac`
+- **Alt (PT):** Imagem oficial do frasco de 100 ml da ampola Madagascar Centella da SKIN1004 diante de um espelho, com seu reflexo, com logo YesStyle, a chamada “StyleKorean é confiável?”, o apoio “Entrega, taxas e reembolso” e Recompensa YesStyle: CECILIA010.
+- **Origem:** foto de catálogo da ampola Madagascar Centella da SKIN1004; não é compra própria nem prova de reputação. O rótulo diz que o CECILIA010 é recompensa da YesStyle, não da StyleKorean.
+- **Lote 43 do piloto de capas (sequência 15 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/43/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 13/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-48-HEROES-48-PAGINAS-SEQUENCIA-15-CLAUDE.zip` (`lotes/43/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp`) fica no CDN, sem uso como capa.
