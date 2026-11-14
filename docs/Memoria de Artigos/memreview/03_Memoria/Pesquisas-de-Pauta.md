@@ -8,6 +8,20 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## Haier e a air fryer com espeto giratório (14/11/2026)
+
+- **Pedido do Bruno:** a Cecília tem uma air fryer da Haier e publicou um vídeo de primeiras impressões; a marca não é parceira, mas pode vir a ser. Dois artigos ligados, com E-E-A-T: apresentação da marca e primeiras impressões, com links de afiliado de marketplace.
+- **Autocompletar (Google, pt-BR, 14/11):**
+  - Marca: "haier brasil", "haier é boa marca", "haier é boa", "haier é de onde", "haier é chinesa", "haier brasil onde comprar", "haier brasil reclame aqui", "haier brasil assistência técnica tv"; por produto, geladeira, TV, ar-condicionado e lava e seca; "haier ou hisense", "ou samsung", "ou lg", "ou tcl", "ou midea".
+  - Air fryer da marca: em português quase nada. "Haier air fryer" e "air fryer haier" devolvem "price in pakistan", "worten", "opiniões", "serie 5", "5l", "7l". Sem sugestão: "air fryer haier é boa", "como usar", "reclame aqui", "air fryer haier ou".
+  - Recurso: "air fryer com espeto giratório" tem dez sugestões (Electrolux, Philco, Oster, Mondial, 16 litros, "para frango", "e cesto"); "air fryer espetinho" tem dez ("para espetinho", "assa espetinho", "quanto tempo", "suporte", "acessórios").
+- **Site da Haier no Brasil (14/11):** três air fryers nos eletroportáteis (5 L, 7 L e 12 L Air Fryer Oven HSAF-EV1201BBR, com rotisserie e "janelas superior e inferior com iluminação interna"). A página institucional traz os números do grupo (fundado em 1984, marcas GE Appliances, Fisher & Paykel e Candy).
+- **Amazon (14/11, lista de busca):** a de 12 L com rotisserie a R$ 607,05 (220 V) e R$ 611,70 (127 V); a de 7 L a R$ 399,00. Vendedor não conferido. O Mercado Livre pede login.
+- **Conteúdo nosso:** dois guias de air fryer de abril (`airfryer-uma-breve-historia` e os "10 fatos") e nove receitas que citam air fryer, de 192. Nenhum artigo de modelo ou de marca de air fryer.
+- **Conclusão:** o gancho de busca é o espeto giratório, não a marca: a HA2 abre pelo recurso. A HA1 responde "de onde é" e "é boa marca". Pautas na [[Fila-de-Pautas]]; fatos, regras e perguntas em [[haier-air-fryer-1411]]. Falta ler quando a Haier chegou ao Brasil.
+
+---
+
 ## La Ganexa: pacote inicial (13/11/2026)
 
 - **Pedido do Bruno:** parceira nova, cupom CECILIA. Pacote inicial: Reclame Aqui, é confiável, como usar o cupom, primeira compra, é boa (ou vale a pena) e Black Friday.
