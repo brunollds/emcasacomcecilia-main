@@ -58993,6 +58993,420 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/poltronas-damie-no-mercado-livre-capa.webp",
+      "local_url": "/images/reviews/damie/poltronas-damie-no-mercado-livre-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 72232,
+      "sha256": "6c228740082ca6b66627d04f8bd317c0ae0f4c2550e96541fdfb8c52e81c5d88",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltronas-damie-no-mercado-livre-capa.webp",
+      "storage_filename": "poltronas-damie-no-mercado-livre-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltronas-damie-no-mercado-livre.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltronas-damie-no-mercado-livre.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltronas-damie-no-mercado-livre-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 224756,
+          "column": 15,
+          "literal": "/images/reviews/damie/poltronas-damie-no-mercado-livre-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6c228740082ca6b66627d04f8bd317c0ae0f4c2550e96541fdfb8c52e81c5d88/poltronas-damie-no-mercado-livre-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6c228740082ca6b66627d04f8bd317c0ae0f4c2550e96541fdfb8c52e81c5d88/poltronas-damie-no-mercado-livre-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T02:51:18.372Z",
+      "verification_etag_or_digest": "6c228740082ca6b66627d04f8bd317c0ae0f4c2550e96541fdfb8c52e81c5d88",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltronas-damie-no-mercado-livre-colton-frente.webp",
+      "local_url": "/images/reviews/damie/poltronas-damie-no-mercado-livre-colton-frente.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 75078,
+      "sha256": "9b288ea279c48d62ee7854d8e5f6032b5a6fe9c00150f3fb694003d69812abbc",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltronas-damie-no-mercado-livre-colton-frente.webp",
+      "storage_filename": "poltronas-damie-no-mercado-livre-colton-frente.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltronas-damie-no-mercado-livre.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltronas-damie-no-mercado-livre.json",
+          "line": 103,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltronas-damie-no-mercado-livre-colton-frente.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 224836,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltronas-damie-no-mercado-livre-colton-frente.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9b288ea279c48d62ee7854d8e5f6032b5a6fe9c00150f3fb694003d69812abbc/poltronas-damie-no-mercado-livre-colton-frente.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9b288ea279c48d62ee7854d8e5f6032b5a6fe9c00150f3fb694003d69812abbc/poltronas-damie-no-mercado-livre-colton-frente.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T02:51:18.762Z",
+      "verification_etag_or_digest": "9b288ea279c48d62ee7854d8e5f6032b5a6fe9c00150f3fb694003d69812abbc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltronas-damie-no-mercado-livre-colton-reclinada.webp",
+      "local_url": "/images/reviews/damie/poltronas-damie-no-mercado-livre-colton-reclinada.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36494,
+      "sha256": "bd2ecaa7fe6b2e8ccc6ee6bd79f13983e44a2c6b17fcf4ba9f45fbe5a3f27c9b",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltronas-damie-no-mercado-livre-colton-reclinada.webp",
+      "storage_filename": "poltronas-damie-no-mercado-livre-colton-reclinada.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltronas-damie-no-mercado-livre.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltronas-damie-no-mercado-livre.json",
+          "line": 110,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltronas-damie-no-mercado-livre-colton-reclinada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 224843,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltronas-damie-no-mercado-livre-colton-reclinada.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bd2ecaa7fe6b2e8ccc6ee6bd79f13983e44a2c6b17fcf4ba9f45fbe5a3f27c9b/poltronas-damie-no-mercado-livre-colton-reclinada.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bd2ecaa7fe6b2e8ccc6ee6bd79f13983e44a2c6b17fcf4ba9f45fbe5a3f27c9b/poltronas-damie-no-mercado-livre-colton-reclinada.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T02:51:19.020Z",
+      "verification_etag_or_digest": "bd2ecaa7fe6b2e8ccc6ee6bd79f13983e44a2c6b17fcf4ba9f45fbe5a3f27c9b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltronas-damie-no-mercado-livre-corino-frente.webp",
+      "local_url": "/images/reviews/damie/poltronas-damie-no-mercado-livre-corino-frente.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28642,
+      "sha256": "cfa258c738e11e6cecb3f6f857e3fc3ed6f6161c69f476c22018743eaf9143a4",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltronas-damie-no-mercado-livre-corino-frente.webp",
+      "storage_filename": "poltronas-damie-no-mercado-livre-corino-frente.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltronas-damie-no-mercado-livre.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltronas-damie-no-mercado-livre.json",
+          "line": 164,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltronas-damie-no-mercado-livre-corino-frente.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 224897,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltronas-damie-no-mercado-livre-corino-frente.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/cfa258c738e11e6cecb3f6f857e3fc3ed6f6161c69f476c22018743eaf9143a4/poltronas-damie-no-mercado-livre-corino-frente.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cfa258c738e11e6cecb3f6f857e3fc3ed6f6161c69f476c22018743eaf9143a4/poltronas-damie-no-mercado-livre-corino-frente.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T02:51:19.315Z",
+      "verification_etag_or_digest": "cfa258c738e11e6cecb3f6f857e3fc3ed6f6161c69f476c22018743eaf9143a4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltronas-damie-no-mercado-livre-corino-reclinada.webp",
+      "local_url": "/images/reviews/damie/poltronas-damie-no-mercado-livre-corino-reclinada.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23938,
+      "sha256": "98eed11237acae63f74bc12ca119426df96de253da85c7bda0e29db26d4854ec",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltronas-damie-no-mercado-livre-corino-reclinada.webp",
+      "storage_filename": "poltronas-damie-no-mercado-livre-corino-reclinada.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltronas-damie-no-mercado-livre.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltronas-damie-no-mercado-livre.json",
+          "line": 171,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltronas-damie-no-mercado-livre-corino-reclinada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 224904,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltronas-damie-no-mercado-livre-corino-reclinada.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/98eed11237acae63f74bc12ca119426df96de253da85c7bda0e29db26d4854ec/poltronas-damie-no-mercado-livre-corino-reclinada.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/98eed11237acae63f74bc12ca119426df96de253da85c7bda0e29db26d4854ec/poltronas-damie-no-mercado-livre-corino-reclinada.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T02:51:19.544Z",
+      "verification_etag_or_digest": "98eed11237acae63f74bc12ca119426df96de253da85c7bda0e29db26d4854ec",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltronas-damie-no-mercado-livre-eames-frente.webp",
+      "local_url": "/images/reviews/damie/poltronas-damie-no-mercado-livre-eames-frente.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19008,
+      "sha256": "3e40a81938784acb5421f00571abbe11a369960baf807da666c2fee03f26daf8",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltronas-damie-no-mercado-livre-eames-frente.webp",
+      "storage_filename": "poltronas-damie-no-mercado-livre-eames-frente.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltronas-damie-no-mercado-livre.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltronas-damie-no-mercado-livre.json",
+          "line": 208,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltronas-damie-no-mercado-livre-eames-frente.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 224941,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltronas-damie-no-mercado-livre-eames-frente.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3e40a81938784acb5421f00571abbe11a369960baf807da666c2fee03f26daf8/poltronas-damie-no-mercado-livre-eames-frente.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3e40a81938784acb5421f00571abbe11a369960baf807da666c2fee03f26daf8/poltronas-damie-no-mercado-livre-eames-frente.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T02:51:19.826Z",
+      "verification_etag_or_digest": "3e40a81938784acb5421f00571abbe11a369960baf807da666c2fee03f26daf8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltronas-damie-no-mercado-livre-eames-reclinada.webp",
+      "local_url": "/images/reviews/damie/poltronas-damie-no-mercado-livre-eames-reclinada.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 21524,
+      "sha256": "0e537b88a06928c895d00eae19dd08287ccde76ff0225f3237e22979cac568aa",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltronas-damie-no-mercado-livre-eames-reclinada.webp",
+      "storage_filename": "poltronas-damie-no-mercado-livre-eames-reclinada.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltronas-damie-no-mercado-livre.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltronas-damie-no-mercado-livre.json",
+          "line": 215,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltronas-damie-no-mercado-livre-eames-reclinada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 224948,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltronas-damie-no-mercado-livre-eames-reclinada.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0e537b88a06928c895d00eae19dd08287ccde76ff0225f3237e22979cac568aa/poltronas-damie-no-mercado-livre-eames-reclinada.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0e537b88a06928c895d00eae19dd08287ccde76ff0225f3237e22979cac568aa/poltronas-damie-no-mercado-livre-eames-reclinada.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T02:51:20.098Z",
+      "verification_etag_or_digest": "0e537b88a06928c895d00eae19dd08287ccde76ff0225f3237e22979cac568aa",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltronas-damie-no-mercado-livre-imperial-frente.webp",
+      "local_url": "/images/reviews/damie/poltronas-damie-no-mercado-livre-imperial-frente.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 65398,
+      "sha256": "e8e06d21ad31de991e3251086fe701323434f08cac0e7133efe1854f204d4ff3",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltronas-damie-no-mercado-livre-imperial-frente.webp",
+      "storage_filename": "poltronas-damie-no-mercado-livre-imperial-frente.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltronas-damie-no-mercado-livre.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltronas-damie-no-mercado-livre.json",
+          "line": 133,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltronas-damie-no-mercado-livre-imperial-frente.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 224866,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltronas-damie-no-mercado-livre-imperial-frente.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e8e06d21ad31de991e3251086fe701323434f08cac0e7133efe1854f204d4ff3/poltronas-damie-no-mercado-livre-imperial-frente.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e8e06d21ad31de991e3251086fe701323434f08cac0e7133efe1854f204d4ff3/poltronas-damie-no-mercado-livre-imperial-frente.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T02:51:20.392Z",
+      "verification_etag_or_digest": "e8e06d21ad31de991e3251086fe701323434f08cac0e7133efe1854f204d4ff3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltronas-damie-no-mercado-livre-imperial-reclinada.webp",
+      "local_url": "/images/reviews/damie/poltronas-damie-no-mercado-livre-imperial-reclinada.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34816,
+      "sha256": "931cdf7e2e0164d3994349ef43dd37d0a7b89ab56f461b3a3d9a18b0f357af0d",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltronas-damie-no-mercado-livre-imperial-reclinada.webp",
+      "storage_filename": "poltronas-damie-no-mercado-livre-imperial-reclinada.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltronas-damie-no-mercado-livre.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltronas-damie-no-mercado-livre.json",
+          "line": 140,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltronas-damie-no-mercado-livre-imperial-reclinada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 224873,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltronas-damie-no-mercado-livre-imperial-reclinada.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/931cdf7e2e0164d3994349ef43dd37d0a7b89ab56f461b3a3d9a18b0f357af0d/poltronas-damie-no-mercado-livre-imperial-reclinada.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/931cdf7e2e0164d3994349ef43dd37d0a7b89ab56f461b3a3d9a18b0f357af0d/poltronas-damie-no-mercado-livre-imperial-reclinada.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T02:51:20.666Z",
+      "verification_etag_or_digest": "931cdf7e2e0164d3994349ef43dd37d0a7b89ab56f461b3a3d9a18b0f357af0d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/poltronas-reclinaveis-damie-capa-discover.webp",
       "local_url": "/images/reviews/damie/poltronas-reclinaveis-damie-capa-discover.webp",
       "media_kind": "image",
