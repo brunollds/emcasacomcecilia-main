@@ -182,3 +182,10 @@ Passou. Toda descrição de efeito vem com "a marca declara", "a página" ou asp
 - Título: "Prohall é boa? As linhas da marca, o que os clientes dizem e para quem vale a pena". seoTitle: "Prohall é boa? Linhas, avaliações e se vale a pena".
 - Pendente: A tabela separa por necessidade, não por "em casa ou profissional": o rótulo de uso profissional está também nos produtos de rotina.
 - Pendente: Reler o número de avaliações e os preços do capítulo "vale a pena" na revisão de dezembro de 2026.
+
+## Capa v2 (14/11/2026)
+
+- **Capa:** `/images/reviews/prohall/prohall-e-boa-capa-v2.webp` (`imageFit: contain`), SHA-256 `96503694cd9040c96c484946ddb977822165737c62c4bd8745c567928450d9dd`.
+- **Alt:** Frasco Burix One da Prohall com tampa e rótulo visíveis, em recorte de arte oficial da marca, com logo, “Prohall é boa?” e cupom CECILIAMC.
+- **Origem:** recorte de arte oficial com a embalagem Burix One visível (v4); a textura isolada foi rejeitada por parecer alimento, e a arte original com callouts é só prova documental. Pareceres: lotes/47/CORRECOES-DA-REVISAO.md e pesquisa-b/ADENDO-PROHALL-EMBALAGEM.md. Capa sem subtítulo; os rótulos dos códigos foram mantidos. Técnica de produção das imagens das lojas não determinada: sem afirmar foto real nem IA.
+- **Lote 47 do piloto de capas (sequência 16 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/47/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 14/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-16-CLAUDE.zip` (`lotes/47/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/prohall/prohall-e-boa-capa.webp`) fica no CDN, sem uso como capa.

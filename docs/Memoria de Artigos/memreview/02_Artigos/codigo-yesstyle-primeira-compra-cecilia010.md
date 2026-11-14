@@ -226,3 +226,20 @@ A revisão dos 30 artigos da série (pasta `docs/auditoria-copy-artigos/pc-multi
 - Recusado: tirar o aviso de código achado em site de cupom (decisão do briefing, igual no PT).
 
 - No ar desde 13/11/2026, release `b9fcbf67` (deploy c305618e, build 01a1d6d1), com o #964 e a revisão Farol (#965). `deploy:finish` ok (2 workers); smoke das 30 páginas contra o JSON (título, capítulos, primeira frase de cada capítulo, og:image e lang), as seis capas com 200, sitemap e llms.txt com as 30; `covers:check` 6/6; IndexNow com 37 URLs; captura 43511941705 à espera da aprovação do Bruno.
+
+## Capa v2 (14/11/2026)
+
+- **Capas:** uma por idioma, com a chamada no idioma da página (`imageFit: contain`):
+  - de (`yesstyle-erste-bestellung-code-cecilia010`): `/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-de-v2.webp`, SHA-256 `2ea386a4a64f8d19256c049b4cb6d61ab81d3d0eb053e7a080550b2c720187c5`
+  - en (`yesstyle-first-order-reward-code-cecilia010`): `/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-en-v2.webp`, SHA-256 `17712a17484ff2edf98a1132c70d4c5243b9d0bc027636b5712115793b6f6ab5`
+  - es (`yesstyle-primera-compra-codigo-cecilia010`): `/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-es-v2.webp`, SHA-256 `e992f42f64a5fa611fc7f40a851ba24abce6b639a087d0d0b786496522ea5712`
+  - fr (`yesstyle-premiere-commande-code-cecilia010`): `/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-fr-v2.webp`, SHA-256 `4dc6c281c3bcc719a915c0d71d552e21eb335fb93f52081226f0bc81fabfb572`
+  - it (`yesstyle-primo-ordine-codice-cecilia010`): `/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-it-v2.webp`, SHA-256 `eb83053a2c0f5cd6d171379c64c1954b0a57456adebd5d602c309a89b22ed6ab`
+  - ja (`yesstyle-first-order-cecilia010-ja`): `/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-ja-v2.webp`, SHA-256 `846b540216665c8ad44fd64168204e5b6ed675a872db262a724e6b68a8968896`
+  - ko (`yesstyle-first-order-cecilia010-ko`): `/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-ko-v2.webp`, SHA-256 `000a2ceab38569aaea5ea9f8b7a3d1ae225dfa33d9bbe4e36bebcfb013dd9890`
+  - pt (`codigo-yesstyle-primeira-compra-cecilia010`): `/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-pt-v2.webp`, SHA-256 `3b566cd999e093c8c599316235702ed710c78c035cd41ec324e94c1430fe209b`
+  - zh-hans (`yesstyle-first-order-cecilia010-zh-hans`): `/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-zh-hans-v2.webp`, SHA-256 `3ad4233ba58fdc2482b51de317c8f295a18a735e71580d2faa80b16c28e3607c`
+  - zh-hant (`yesstyle-first-order-cecilia010-zh-hant`): `/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-zh-hant-v2.webp`, SHA-256 `1718627e410b475991bda8c31969dbde285f401fd87be66bf695889baaaee57a`
+- **Alt (PT):** Modelo sorrindo com tubo Green Plum Refreshing Cleanser da Beauty of Joseon, em imagem promocional oficial, ao lado do logo YesStyle, da chamada “Primeira compra na YesStyle?” e do código de recompensa CECILIA010.
+- **Origem:** imagem promocional oficial com modelo e o Green Plum Refreshing Cleanser da Beauty of Joseon; não é a Cecília nem teste próprio, e o texto promocional do topo da fonte ficou fora. CECILIA010 é código de recompensa. Capa sem subtítulo; os rótulos dos códigos foram mantidos. Técnica de produção das imagens das lojas não determinada: sem afirmar foto real nem IA.
+- **Lote 46 do piloto de capas (sequência 16 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/46/revisao-terra/ADENDO-SEM-SUBTITULOS.json`):** aprovado pelo Bruno em 14/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-16-CLAUDE.zip` (`lotes/46/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa.webp`) fica no CDN, sem uso como capa.

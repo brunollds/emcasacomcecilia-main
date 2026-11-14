@@ -131,3 +131,10 @@ tabela, com `href`.
 - **Cuecas para treinar, pela ficha:** `/images/reviews/insider/cueca-academia-mizuno-kit-3.webp`. Alt: Cueca boxer preta da Mizuno com o nome da marca no elástico, em foto do anúncio da Mizuno Brasil. Legenda: Boxer do kit de 3 da Mizuno. Foto: anúncio da Mizuno Brasil na Amazon.
 - **Cuecas para treinar, pela ficha:** `/images/reviews/insider/cueca-academia-polo-london-club-seamless-dry.webp`. Alt: Cueca boxer Polo London Club Seamless Dry azul-marinho com o nome da marca no elástico, em foto do anúncio. Legenda: Polo London Club Seamless Dry. Foto: anúncio na Amazon.
 - **Origem:** Capa em painel lateral (logo da Insider, título e EMCASACOMCECILIA) com a foto oficial da Performance preta, de frente. No corpo, a Performance preta (galeria oficial), a boxer do kit da Mizuno (anúncio da Mizuno Brasil) e a Polo London Club Seamless Dry (anúncio na Amazon, recortada sem o modelo). Sem IA.
+
+## Capa v2 (14/11/2026)
+
+- **Capa:** `/images/reviews/insider/cueca-para-academia-capa-v2.webp` (`imageFit: contain`), SHA-256 `e594a1cdf44c46eb0e27b977fce9af65a5ee908d60eeafd26ab11772acc45300`.
+- **Alt:** Modelo de camiseta branca e cueca boxer Performance cinza-clara em imagem oficial da Insider, ao lado do logo da marca, da chamada “Cueca para academia: qual escolher?” e do código EMCASACOMCECILIA.
+- **Origem:** imagem oficial da Insider com modelo e a cueca boxer Performance; não é teste da equipe. Capa sem subtítulo; os rótulos dos códigos foram mantidos. Técnica de produção das imagens das lojas não determinada: sem afirmar foto real nem IA.
+- **Lote 47 do piloto de capas (sequência 16 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/47/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 14/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-16-CLAUDE.zip` (`lotes/47/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/insider/cueca-para-academia-capa.webp`) fica no CDN, sem uso como capa.

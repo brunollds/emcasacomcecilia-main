@@ -166,3 +166,10 @@ Passou. Sem nome de pessoa, sem Anvisa, sem afirmar nada sobre anúncio de marke
 - Título: "Prohall é confiável? CNPJ, site oficial, entrega e trocas". seoTitle: "Prohall é confiável? CNPJ, site oficial e trocas".
 - Pendente: Frete grátis: o FAQ da loja diz R$ 199 para todo o Brasil e a página de pagamento traz mínimos por região; o texto cita as duas. O Bruno não sabe qual vale (12/11) e imagina que acima de R$ 199 é grátis no Brasil todo.
 - Pendente: Nome do app e consulta à Anvisa: não lidos, fora do texto.
+
+## Capa v2 (14/11/2026)
+
+- **Capa:** `/images/reviews/prohall/prohall-e-confiavel-capa-v2.webp` (`imageFit: contain`), SHA-256 `7133f2dad5da1b304b92aa0209b8dda86a9d65454c4c6a03ec218a1b875565fd`.
+- **Alt:** Potes de máscara Extreme Repair, Proboo Fiber e Biomask da Prohall empilhados em cena oficial, com o logo Prohall, a chamada “Prohall é confiável?” e o cupom CECILIAMC.
+- **Origem:** cena oficial dos potes de máscara empilhados; não prova qualidade, entrega nem reputação. Capa sem subtítulo; os rótulos dos códigos foram mantidos. Técnica de produção das imagens das lojas não determinada: sem afirmar foto real nem IA.
+- **Lote 48 do piloto de capas (sequência 16 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/48/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 14/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-16-CLAUDE.zip` (`lotes/48/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/prohall/prohall-e-confiavel-capa.webp`) fica no CDN, sem uso como capa.

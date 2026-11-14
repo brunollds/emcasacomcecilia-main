@@ -164,3 +164,10 @@ Passou. Sempre "até 10%"; sem data de início ou de fim de campanha; sem lista 
 - Pendente: Reler a coleção e os seis preços da tabela na semana da Black Friday (27/11).
 - Pendente: Quando a coleção sair do ar: virar guia de 2027 ou despublicar.
 - Pendente: Brindes por valor do pedido ("compre e ganhe"): regra não lida, fora do texto.
+
+## Capa v2 (14/11/2026)
+
+- **Capa:** `/images/reviews/prohall/black-friday-prohall-capa-v2.webp` (`imageFit: contain`), SHA-256 `1a9e51627cef4d211d1097cb85fe6d48d14bd73bc5135276bd8871cc4a85a685`.
+- **Alt:** Frasco Select One da Prohall em cenário oficial com cocos e suportes brancos, com logo da marca, “Black Friday Prohall” e cupom CECILIAMC.
+- **Origem:** cenário oficial do frasco Select One. Capa sem subtítulo; os rótulos dos códigos foram mantidos. Técnica de produção das imagens das lojas não determinada: sem afirmar foto real nem IA.
+- **Lote 47 do piloto de capas (sequência 16 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/47/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 14/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-16-CLAUDE.zip` (`lotes/47/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/prohall/black-friday-prohall-capa.webp`) fica no CDN, sem uso como capa.
