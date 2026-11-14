@@ -198,3 +198,10 @@ O texto está em `content/reviews/cupom-holyfoods-primeira-compra.json` (id 924)
 ## Revisão externa (Farol, 12/11/2026)
 
 Aplicado depois de conferir os fatos: instrução neutra de remover um código já aplicado antes de digitar o EMCASA, sem citar a campanha; conferência pelo aviso de EMCASA adicionado e pelo desconto, em vez do nome de uma linha; título do capítulo sem "por cima". Não aplicado: tirar o print do código de outro pedido (decisão do Bruno de 12/11: o print da página de cupom entra em todo artigo da série).
+
+## Capa v2 (13/11/2026)
+
+- **Capa:** `/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `79a3a2b3577c26669f15483e8aea33862ec4cc5c9090edb7230fb527bb498e7d`.
+- **Alt:** Prato de Sopa da Vovó HolyFoods visto de cima, sobre fundo pêssego, em foto promocional oficial, com a chamada Primeira compra na HolyFoods? e o código EMCASA.
+- **Origem:** foto promocional oficial da Sopa da Vovó, fotografia da própria página; não é receita nem teste da equipe.
+- **Lote 45 do piloto de capas (sequência 15 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/45/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 13/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-48-HEROES-48-PAGINAS-SEQUENCIA-15-CLAUDE.zip` (`lotes/45/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

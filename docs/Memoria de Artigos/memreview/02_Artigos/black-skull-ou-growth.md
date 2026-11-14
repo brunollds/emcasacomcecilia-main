@@ -262,3 +262,10 @@ Lido nas páginas de produto, que abriram sem verificação no navegador.
 ### Publicação (18/10/2026)
 
 No ar em 18/10/2026 (19/10 01:04 UTC), PR #151, release `4b1177e`, build `01a151ad-cfdb-7172-9ff0-402ef1786ff7`, junto com o preço da creatina Growth no guia da Nutren. Smoke 200 (página e capa no CDN), sitemap e IndexNow ok. Pendente para a próxima rodada: a frase da FTW no guia da Nutren ainda compara com o CECI de 5%.
+
+## Capa v2 (13/11/2026)
+
+- **Capa:** `/images/reviews/black-skull/black-skull-ou-growth-capa-v2.webp` (`imageFit: contain`), SHA-256 `55f6ae5e1ef83f1a4e0f7f6b2b836b56fc31c916749a22156e78263d34dfc9a5`.
+- **Alt:** Pote de Creatine sem sabor de 300 g da Black Skull, em imagem oficial, com o logo da marca, a chamada “Black Skull ou Growth?”, o apoio “Whey e creatina por rótulo e custo” e o código CECILIA10.
+- **Origem:** imagem oficial do pote de Creatine sem sabor 300 g da Black Skull; sem foto nem logo da Growth.
+- **Lote 43 do piloto de capas (sequência 15 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/43/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 13/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-48-HEROES-48-PAGINAS-SEQUENCIA-15-CLAUDE.zip` (`lotes/43/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/black-skull/black-skull-ou-growth-capa-discover.webp`) fica no CDN, sem uso como capa.

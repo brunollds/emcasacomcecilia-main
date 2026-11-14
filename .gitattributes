@@ -230,6 +230,7 @@ public/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-detroit-preta
 public/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-malta-branca-marrom.webp -text export-ignore
 public/images/reviews/bagaggio/cupom-bagaggio-como-usar-capa-v2.webp -text export-ignore
 public/images/reviews/bagaggio/cupom-bagaggio-como-usar-capa.webp -text export-ignore
+public/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-capa-v2.webp -text export-ignore
 public/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-capa.webp -text export-ignore
 public/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-mala-downtown.webp -text export-ignore
 public/images/reviews/bagaggio/cupom-quadro-conta-downtown.webp -text export-ignore
@@ -339,6 +340,7 @@ public/images/reviews/belive/cupom-belive-campo-mauad.webp -text export-ignore
 public/images/reviews/belive/cupom-belive-capa-discover.webp -text export-ignore
 public/images/reviews/belive/cupom-belive-capa.webp -text export-ignore
 public/images/reviews/belive/cupom-belive-como-usar-capa-v2.webp -text export-ignore
+public/images/reviews/belive/cupom-belive-primeira-compra-capa-v2.webp -text export-ignore
 public/images/reviews/belive/cupom-belive-primeira-compra-capa.webp -text export-ignore
 public/images/reviews/belive/cupom-belive-primeira-compra-pao-de-batata.webp -text export-ignore
 public/images/reviews/belive/cupom-belive-resumo-desconto.webp -text export-ignore
@@ -380,6 +382,7 @@ public/images/reviews/black-skull/black-skull-ou-dux-embalagens-creatina.webp -t
 public/images/reviews/black-skull/black-skull-ou-dux-embalagens-whey.webp -text export-ignore
 public/images/reviews/black-skull/black-skull-ou-dux-proteina-por-dose.webp -text export-ignore
 public/images/reviews/black-skull/black-skull-ou-growth-capa-discover.webp -text export-ignore
+public/images/reviews/black-skull/black-skull-ou-growth-capa-v2.webp -text export-ignore
 public/images/reviews/black-skull/black-skull-ou-growth-capa.webp -text export-ignore
 public/images/reviews/black-skull/black-skull-ou-integralmedica-capa.webp -text export-ignore
 public/images/reviews/black-skull/black-skull-ou-integralmedica-quadro-preco-100g-proteina.webp -text export-ignore
@@ -585,6 +588,7 @@ public/images/reviews/damie/black-friday-damie-banner-esquenta.webp -text export
 public/images/reviews/damie/black-friday-damie-capa-faixa.webp -text export-ignore
 public/images/reviews/damie/black-friday-damie-capa-v2.webp -text export-ignore
 public/images/reviews/damie/black-friday-damie-cecilia-poltrona-reclinavel.webp -text export-ignore
+public/images/reviews/damie/cupom-damie-primeira-compra-capa-v2.webp -text export-ignore
 public/images/reviews/damie/cupom-damie-primeira-compra-capa.webp -text export-ignore
 public/images/reviews/damie/cupom-damie-primeira-compra-puff-modular.webp -text export-ignore
 public/images/reviews/damie/damie-reclame-aqui-capa-discover.webp -text export-ignore
@@ -700,6 +704,7 @@ public/images/reviews/dolcegusto/clube-dolce-gusto-resgate-pontos.webp -text exp
 public/images/reviews/dolcegusto/clube-dolce-gusto-tutorial-cadastro.webp -text export-ignore
 public/images/reviews/dolcegusto/cupom-dolce-gusto-carrinho-com-cupom.webp -text export-ignore
 public/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-caixa-cappuccino.webp -text export-ignore
+public/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-capa-v2.webp -text export-ignore
 public/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-capa.webp -text export-ignore
 public/images/reviews/dolcegusto/descalcificacao-4-etapas.webp -text export-ignore
 public/images/reviews/dolcegusto/descalcificacao-calcario-hero.webp -text export-ignore
@@ -787,6 +792,7 @@ public/images/reviews/dr-peanut/black-friday-dr-peanut-capa-v2.webp -text export
 public/images/reviews/dr-peanut/black-friday-dr-peanut-home.webp -text export-ignore
 public/images/reviews/dr-peanut/cupom-dr-peanut-capa-discover.webp -text export-ignore
 public/images/reviews/dr-peanut/cupom-dr-peanut-como-usar-capa-v2.webp -text export-ignore
+public/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-capa-v2.webp -text export-ignore
 public/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-capa.webp -text export-ignore
 public/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-pasta-avela-250g.webp -text export-ignore
 public/images/reviews/dr-peanut/dr-peanut-12-sabores-potes-2710.webp -text export-ignore
@@ -852,6 +858,7 @@ public/images/reviews/holyfoods/black-friday-holyfoods-risoto-funghi.webp -text 
 public/images/reviews/holyfoods/cupom-holyfoods-capa.webp -text export-ignore
 public/images/reviews/holyfoods/cupom-holyfoods-checkout-com-cupom.webp -text export-ignore
 public/images/reviews/holyfoods/cupom-holyfoods-como-usar-capa-v2.webp -text export-ignore
+public/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-capa-v2.webp -text export-ignore
 public/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-capa.webp -text export-ignore
 public/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-pack-sopa-da-vovo.webp -text export-ignore
 public/images/reviews/holyfoods/cupom-holyfoods-risoto-al-mare.webp -text export-ignore
@@ -1133,6 +1140,16 @@ public/images/reviews/hostinger/paperclip-ai-hostinger-organograma-ko.webp -text
 public/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp -text export-ignore
 public/images/reviews/hostinger/paperclip-ai-hostinger-organograma-zh-hans.webp -text export-ignore
 public/images/reviews/hostinger/paperclip-ai-hostinger-organograma-zh-hant.webp -text export-ignore
+public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-de-v2.webp -text export-ignore
+public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-en-v2.webp -text export-ignore
+public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-es-v2.webp -text export-ignore
+public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-fr-v2.webp -text export-ignore
+public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-it-v2.webp -text export-ignore
+public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-ja-v2.webp -text export-ignore
+public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-ko-v2.webp -text export-ignore
+public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-pt-v2.webp -text export-ignore
+public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-zh-hans-v2.webp -text export-ignore
+public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-zh-hant-v2.webp -text export-ignore
 public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp -text export-ignore
 public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-de.webp -text export-ignore
 public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp -text export-ignore
@@ -1232,6 +1249,7 @@ public/images/reviews/insider/cueca-insider-comfort-ou-performance-capa-v2.webp 
 public/images/reviews/insider/cueca-para-academia-capa.webp -text export-ignore
 public/images/reviews/insider/cupom-emcasacomcecilia-insider-store-como-usar-capa-discover.webp -text export-ignore
 public/images/reviews/insider/cupom-emcasacomcecilia-insider-store-como-usar-capa-v2.webp -text export-ignore
+public/images/reviews/insider/cupom-insider-primeira-compra-capa-v2.webp -text export-ignore
 public/images/reviews/insider/cupom-insider-primeira-compra-capa.webp -text export-ignore
 public/images/reviews/insider/cupom-insider-primeira-compra-daily-t-shirt-preta.webp -text export-ignore
 public/images/reviews/insider/gift-card-insider-como-funciona-cupom-capa-v2.webp -text export-ignore
@@ -1519,6 +1537,7 @@ public/images/reviews/letseatit/black-friday-letseatit-home-black-friday.webp -t
 public/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp -text export-ignore
 public/images/reviews/letseatit/casa-lets-fachada.webp -text export-ignore
 public/images/reviews/letseatit/cupom-lets-eat-it-como-usar-capa-discover.webp -text export-ignore
+public/images/reviews/letseatit/cupom-letseatit-primeira-compra-capa-v2.webp -text export-ignore
 public/images/reviews/letseatit/cupom-letseatit-primeira-compra-capa.webp -text export-ignore
 public/images/reviews/letseatit/cupom-letseatit-primeira-compra-pote-le-creuset.webp -text export-ignore
 public/images/reviews/letseatit/cupom-mauad-checkout-aplicado.webp -text export-ignore
@@ -1626,6 +1645,7 @@ public/images/reviews/magalu/black-friday-magalu-capa-v2.webp -text export-ignor
 public/images/reviews/magalu/black-friday-magalu-lu.webp -text export-ignore
 public/images/reviews/magalu/cupom-magalu-em-casa-com-cecilia-capa-discover.webp -text export-ignore
 public/images/reviews/magalu/cupom-magalu-em-casa-com-cecilia-capa-v2.webp -text export-ignore
+public/images/reviews/magalu/cupom-magalu-primeira-compra-capa-v2.webp -text export-ignore
 public/images/reviews/magalu/cupom-magalu-primeira-compra-capa.webp -text export-ignore
 public/images/reviews/magalu/magalu-cupom-aplicado.webp -text export-ignore
 public/images/reviews/magalu/magalu-hero.webp -text export-ignore
@@ -1647,6 +1667,7 @@ public/images/reviews/mais-mu/black-friday-mais-mu-capa-v2.webp -text export-ign
 public/images/reviews/mais-mu/black-friday-mais-mu-capa.webp -text export-ignore
 public/images/reviews/mais-mu/cupom-mais-mu-capa-discover.webp -text export-ignore
 public/images/reviews/mais-mu/cupom-mais-mu-como-usar-capa-v2.webp -text export-ignore
+public/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-capa-v2.webp -text export-ignore
 public/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-capa.webp -text export-ignore
 public/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-whey-pacoquita.webp -text export-ignore
 public/images/reviews/mais-mu/mais-mu-barras-mukebar-chocowheyfer-crushbar.webp -text export-ignore
@@ -1710,6 +1731,7 @@ public/images/reviews/max-titanium/creatina-max-titanium-qual-pote-creatina-500g
 public/images/reviews/max-titanium/creatina-max-titanium-qual-pote-tabela-300g.webp -text export-ignore
 public/images/reviews/max-titanium/cupom-max-titanium-capa-discover.webp -text export-ignore
 public/images/reviews/max-titanium/cupom-max-titanium-como-usar-capa-v2.webp -text export-ignore
+public/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-capa-v2.webp -text export-ignore
 public/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-capa.webp -text export-ignore
 public/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-top-whey-3w-sabor.webp -text export-ignore
 public/images/reviews/max-titanium/max-titanium-confiavel-capa-discover.webp -text export-ignore
@@ -1790,6 +1812,7 @@ public/images/reviews/nutren/fibermais-sem-sabor-beneficios-oficial.webp -text e
 public/images/reviews/nutren/fibermais-sem-sabor-lata-oficial-v2.webp -text export-ignore
 public/images/reviews/nutren/guia-linha-ninho-capa-discover-v2.webp -text export-ignore
 public/images/reviews/nutren/guia-linha-ninho-capa-discover.webp -text export-ignore
+public/images/reviews/nutren/guia-linha-ninho-nestle-leite-vs-composto-lacteo-capa-v2.webp -text export-ignore
 public/images/reviews/nutren/isosource-1-5-ou-trophic-1-5-capa.webp -text export-ignore
 public/images/reviews/nutren/isosource-1-5-sem-sabor-capa.webp -text export-ignore
 public/images/reviews/nutren/isosource-1-5-sem-sabor-instrucoes.webp -text export-ignore
@@ -1833,6 +1856,7 @@ public/images/reviews/nutren/nutren-linha-senior-protein-control-active-v2.webp 
 public/images/reviews/nutren/nutren-linha-senior-protein-control-active.webp -text export-ignore
 public/images/reviews/nutren/nutren-protein-15g-o-que-quer-dizer.webp -text export-ignore
 public/images/reviews/nutren/nutren-protein-baunilha-e-senior-cafe-com-leite.webp -text export-ignore
+public/images/reviews/nutren/nutren-protein-ou-whey-capa-v2.webp -text export-ignore
 public/images/reviews/nutren/nutren-protein-po-e-pronto-para-beber-oficial.webp -text export-ignore
 public/images/reviews/nutren/nutren-protein-pronto-selo-zero-lactose.webp -text export-ignore
 public/images/reviews/nutren/nutren-senior-como-tomar-sem-empelotar-capa-v2.webp -text export-ignore
@@ -1863,6 +1887,7 @@ public/images/reviews/petz/black-friday-petz-sache-royal-canin-instinctive.webp 
 public/images/reviews/petz/cupom-petz-como-usar-capa-v2.webp -text export-ignore
 public/images/reviews/petz/cupom-petz-como-usar-capa.webp -text export-ignore
 public/images/reviews/petz/cupom-petz-como-usar-royal-canin-maxi.webp -text export-ignore
+public/images/reviews/petz/cupom-petz-primeira-compra-capa-v2.webp -text export-ignore
 public/images/reviews/petz/cupom-petz-primeira-compra-capa.webp -text export-ignore
 public/images/reviews/petz/cupom-petz-primeira-compra-sache-royal-canin.webp -text export-ignore
 public/images/reviews/petz/cupom-petz-sacola-celular-com-cupom.webp -text export-ignore
@@ -1930,6 +1955,7 @@ public/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-creapu
 public/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-pure-monster-150g.webp -text export-ignore
 public/images/reviews/probiotica/cupom-probiotica-capa-discover.webp -text export-ignore
 public/images/reviews/probiotica/cupom-probiotica-como-usar-capa-v2.webp -text export-ignore
+public/images/reviews/probiotica/cupom-probiotica-primeira-compra-capa-v2.webp -text export-ignore
 public/images/reviews/probiotica/cupom-probiotica-primeira-compra-capa.webp -text export-ignore
 public/images/reviews/probiotica/cupom-probiotica-primeira-compra-hiper-whey-900g.webp -text export-ignore
 public/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-capa-v2.webp -text export-ignore
@@ -2121,6 +2147,7 @@ public/images/reviews/simple-organic/body-splash-blossom-kiss.webp -text export-
 public/images/reviews/simple-organic/cupom-simple-organic-capa.webp -text export-ignore
 public/images/reviews/simple-organic/cupom-simple-organic-checkout-com-cupom.webp -text export-ignore
 public/images/reviews/simple-organic/cupom-simple-organic-como-usar-capa-v2.webp -text export-ignore
+public/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-capa-v2.webp -text export-ignore
 public/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-capa.webp -text export-ignore
 public/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-rotina-pele-sensivel.webp -text export-ignore
 public/images/reviews/simple-organic/duo-limpeza-regeneracao.webp -text export-ignore
@@ -2199,6 +2226,7 @@ public/images/reviews/skelt/cupom-skelt-capa.webp -text export-ignore
 public/images/reviews/skelt/cupom-skelt-como-usar-capa-v2.webp -text export-ignore
 public/images/reviews/skelt/cupom-skelt-preco-mousse.webp -text export-ignore
 public/images/reviews/skelt/cupom-skelt-primeira-compra-body-splash-amalfi-sunset.webp -text export-ignore
+public/images/reviews/skelt/cupom-skelt-primeira-compra-capa-v2.webp -text export-ignore
 public/images/reviews/skelt/cupom-skelt-primeira-compra-capa.webp -text export-ignore
 public/images/reviews/skelt/cupom-skelt-sacola-com-cupom.webp -text export-ignore
 public/images/reviews/skelt/cupom-skelt-sem-e-com-cupom.webp -text export-ignore
@@ -2402,6 +2430,16 @@ public/images/reviews/yesstyle/lojas-kbeauty-produto-aberto-devolucao.webp -text
 public/images/reviews/yesstyle/round-lab-1025-dokdo-toner-yesstyle.webp -text export-ignore
 public/images/reviews/yesstyle/skin1004-madagascar-centella-ampoule-yesstyle.webp -text export-ignore
 public/images/reviews/yesstyle/skincare-coreano-30-anos-rotina-iniciante-yesstyle-capa-v2.webp -text export-ignore
+public/images/reviews/yesstyle/stylekorean-e-confiavel-capa-de-v2.webp -text export-ignore
+public/images/reviews/yesstyle/stylekorean-e-confiavel-capa-en-v2.webp -text export-ignore
+public/images/reviews/yesstyle/stylekorean-e-confiavel-capa-es-v2.webp -text export-ignore
+public/images/reviews/yesstyle/stylekorean-e-confiavel-capa-fr-v2.webp -text export-ignore
+public/images/reviews/yesstyle/stylekorean-e-confiavel-capa-it-v2.webp -text export-ignore
+public/images/reviews/yesstyle/stylekorean-e-confiavel-capa-ja-v2.webp -text export-ignore
+public/images/reviews/yesstyle/stylekorean-e-confiavel-capa-ko-v2.webp -text export-ignore
+public/images/reviews/yesstyle/stylekorean-e-confiavel-capa-pt-v2.webp -text export-ignore
+public/images/reviews/yesstyle/stylekorean-e-confiavel-capa-zh-hans-v2.webp -text export-ignore
+public/images/reviews/yesstyle/stylekorean-e-confiavel-capa-zh-hant-v2.webp -text export-ignore
 public/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp -text export-ignore
 public/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp -text export-ignore
 public/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-de-v2.webp -text export-ignore
@@ -2488,7 +2526,17 @@ public/images/reviews/yesstyle/yesstyle-reembolso-alfandega-fr-2026-10-13.webp -
 public/images/reviews/yesstyle/yesstyle-reembolso-alfandega-it-2026-10-13.webp -text export-ignore
 public/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp -text export-ignore
 public/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp -text export-ignore
+public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-de-v2.webp -text export-ignore
 public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-discover.webp -text export-ignore
+public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-en-v2.webp -text export-ignore
+public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-es-v2.webp -text export-ignore
+public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-fr-v2.webp -text export-ignore
+public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-it-v2.webp -text export-ignore
+public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-ja-v2.webp -text export-ignore
+public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-ko-v2.webp -text export-ignore
+public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-pt-v2.webp -text export-ignore
+public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-zh-hans-v2.webp -text export-ignore
+public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-zh-hant-v2.webp -text export-ignore
 public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa.webp -text export-ignore
 public/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp -text export-ignore
 public/images/universe/damie-hero-cecilia.webp -text export-ignore

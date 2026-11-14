@@ -187,3 +187,10 @@ Passou. Nenhum cupom da própria loja, de vendedor ou de agregador; sem "exclusi
 
 - **Capa:** `/images/reviews/magalu/cupom-magalu-primeira-compra-capa.webp` (imageFit contain), 1600 × 900, painel lateral com o logo, a chamada e "R$ 10 a R$ 100 OFF", sem código. Foto: a imagem oficial da Lu que já estava na biblioteca (a mesma do guia de Black Friday). Sem IA. Alt: Lu, a personagem do Magalu, segurando um celular com o logo da loja, em imagem oficial, ao lado da chamada Cupom Magalu primeira compra, de R$ 10 a R$ 100 OFF.
 - **Onde colar o código:** o print do cartPrint da página de cupom (`/images/reviews/magalu/magalu-cupom-aplicado.webp`), já no CDN. Sem foto de produto: artigo curto.
+
+## Capa v2 (13/11/2026)
+
+- **Capa:** `/images/reviews/magalu/cupom-magalu-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `f92e2959c16dbb8dc9c64f68bbbba12b592badcd1e97f5c57cacfc9b1d992658`.
+- **Alt:** Lu, personagem virtual do Magalu, de blazer azul em pose de três-quartos na arte oficial, com a chamada Primeira compra no Magalu? e o aviso O código depende do carrinho.
+- **Origem:** avatar oficial Lu, sem interface de aplicativo. Sem código isolado na arte, porque o artigo trata dez faixas com mínimos; as condições são de navegador e Magazine Você.
+- **Lote 44 do piloto de capas (sequência 15 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/44/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 13/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-48-HEROES-48-PAGINAS-SEQUENCIA-15-CLAUDE.zip` (`lotes/44/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/magalu/cupom-magalu-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

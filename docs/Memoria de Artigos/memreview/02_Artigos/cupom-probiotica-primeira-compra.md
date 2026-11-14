@@ -200,3 +200,10 @@ Revisão externa do Farol (com contraprova do GPT-6.1 Terra) em 12/11/2026, em `
 - **Capa:** `/images/reviews/probiotica/cupom-probiotica-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da Probiótica, "Cupom Probiótica primeira compra" e o PRO10EMCASACOMCECILIA. Alt: Pote do Hiper 100% Whey da Probiótica, sabor chocolate, em foto oficial de perto, ao lado da chamada Cupom Probiótica primeira compra e do código PRO10EMCASACOMCECILIA.
 - **Quanto fica, com promoção e Pix:** `/images/reviews/probiotica/cupom-probiotica-primeira-compra-hiper-whey-900g.webp` (quadrada, `href` com o link de afiliado da página do whey). Alt: Pote azul do Hiper 100% Whey da Probiótica, 900 g, sabor chocolate, em foto oficial de frente. Legenda: O Hiper 100% Whey de 900 g, o produto do nosso teste. Foto: Probiótica.
 - **Origem:** duas fotos oficiais da galeria do Hiper 100% Whey 900 g (de perto, na capa; de frente, no corpo), lidas em 12/11/2026. Nenhuma capa da Probiótica usa o Hiper Whey. Sem IA.
+
+## Capa v2 (13/11/2026)
+
+- **Capa:** `/images/reviews/probiotica/cupom-probiotica-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `a12d9f9f4d89f8b5698749faf3f89e72f6b5a59bdf1ab1f5fcad43af8dfc5885`.
+- **Alt:** Pote de Hiper 100% Whey Chocolate 900 g da Probiótica, em imagem oficial de frente, com a chamada Primeira compra na Probiótica? e o código PRO10EMCASACOMCECILIA.
+- **Origem:** imagem oficial do Hiper 100% Whey Chocolate 900 g, fotografia da própria página preservada.
+- **Lote 45 do piloto de capas (sequência 15 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/45/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 13/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-48-HEROES-48-PAGINAS-SEQUENCIA-15-CLAUDE.zip` (`lotes/45/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/probiotica/cupom-probiotica-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

@@ -205,3 +205,10 @@ O texto está em `content/reviews/cupom-dr-peanut-primeira-compra.json` (id 922)
 ## Revisão externa (Farol, 12/11/2026)
 
 Aplicado depois de conferir os fatos: tabela com a coluna "Produtos + frete" (soma calculada) e a economia final de R$ 3,31; saiu o incentivo a pôr um item a mais só pelo frete. Não aplicado: tirar o print do código de outro pedido (decisão do Bruno de 12/11: o print da página de cupom entra em todo artigo da série).
+
+## Capa v2 (13/11/2026)
+
+- **Capa:** `/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `bba56f7a17a95c09e0f60ea43429048d1ee93c0617314fdcc574e1c5cf33c5f7`.
+- **Alt:** Pote aberto de pasta de amendoim Avelã da Dr. Peanut com colher, em cena promocional oficial, com a chamada Primeira compra na Dr. Peanut? e o código DREMCASACOMCECILIA.
+- **Origem:** cena promocional oficial da pasta de Avelã, fotografia da própria página, recuperada do acervo local depois de um 429, sem contornar o endpoint.
+- **Lote 45 do piloto de capas (sequência 15 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/45/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 13/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-48-HEROES-48-PAGINAS-SEQUENCIA-15-CLAUDE.zip` (`lotes/45/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

@@ -204,3 +204,10 @@ O texto está em `content/reviews/cupom-petz-primeira-compra.json` (id 925), no 
 ## Revisão externa (Farol, 12/11/2026)
 
 Aplicado, depois de conferir os fatos: resposta rápida em três frases; os 14,5% da retirada só quando o item recebe os 10% do código; o FAQ do cliente antigo repete as condições.
+
+## Capa v2 (13/11/2026)
+
+- **Capa:** `/images/reviews/petz/cupom-petz-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `a813ae656b0d66bef615a4d66266af6fcf1c315c7ee199490a0cda83d90a9847`.
+- **Alt:** Filhote de cachorro marrom e branco deitado ao ar livre diante de um graveto, em foto ilustrativa, com a chamada Primeira compra na Petz? e o cupom EMCASA.
+- **Origem:** foto de banco de imagens (Burst, Some Rights Reserved, não CC0), ilustrativa; o filhote não tem vínculo com a loja nem com a equipe.
+- **Lote 44 do piloto de capas (sequência 15 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/44/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 13/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-48-HEROES-48-PAGINAS-SEQUENCIA-15-CLAUDE.zip` (`lotes/44/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/petz/cupom-petz-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

@@ -180,3 +180,20 @@ Fatos: `vps-ou-hospedagem-compartilhada-qual-escolher-fatos-2810.md`, ao lado (v
 - **O que mudou nas 10 versões:** `coupon: "SONAR20"`; links `?REFERRALCODE=SONAR20` com o caminho mantido (PT em `/br`); saíram "não há código", "só no link", "12 meses ou mais", "só cliente novo" e "não soma"; "com/sem a indicação" virou "com/sem o SONAR20"; a nota de transparência fala em comissão, sem o "crédito na Hostinger".
 - **Renovação:** o SONAR20 não dá desconto na renovação (termos do programa, 05/11; os artigos foram corrigidos no #580). O texto diz "a renovação sai pelo preço da tabela"; os preços de renovação lidos na página seguem nas tabelas como preço de tabela.
 - **Regras daqui em diante:** as do dossiê [[Hostinger]] (seção 3). As instruções de "indicação, sem código" acima ficam só como histórico.
+
+## Capa v2 (13/11/2026)
+
+- **Capas:** uma por idioma, com a chamada no idioma da página (`imageFit: contain`):
+  - de (`vps-oder-shared-hosting`): `/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-de-v2.webp`, SHA-256 `01a0051eef6106791c07014140f01126c032696990b7f64d52e82d694178e64a`
+  - en (`vps-or-shared-hosting-which-to-choose`): `/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-en-v2.webp`, SHA-256 `6161279270310bf5587f3087272e62e04b44ff38d4f8161d9126d90f8f4c1199`
+  - es (`vps-o-hosting-compartido-cual-elegir`): `/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-es-v2.webp`, SHA-256 `118ac80d43d255d6ae14d52fba50a3018f8ed9811303ee95705d5219e18802ee`
+  - fr (`vps-ou-hebergement-mutualise`): `/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-fr-v2.webp`, SHA-256 `f4abd4554dbfd5c1590812a91f38680819177825785a60bd9396856b0ba5bbd0`
+  - it (`vps-o-hosting-condiviso`): `/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-it-v2.webp`, SHA-256 `76a126d4dc3f12f8289f7895ad76de24c1f38fae27cbf90aa268fa0e98dbe9b9`
+  - ja (`vps-or-shared-hosting-ja`): `/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-ja-v2.webp`, SHA-256 `11d713605e6de2056ed3cad9e546cf1936adb2eae2770cd3f6c064e996e31e77`
+  - ko (`vps-or-shared-hosting-ko`): `/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-ko-v2.webp`, SHA-256 `33817f614638e229b4c4348839a98844f7ee98939d4526f05e38a6e20fbe7b61`
+  - pt (`vps-ou-hospedagem-compartilhada-qual-escolher`): `/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-pt-v2.webp`, SHA-256 `34d609ffadabaa4a3f33234a5daa1cd58a244b7ea4b146567aa2e262d9e9a48f`
+  - zh-hans (`vps-or-shared-hosting-zh-hans`): `/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-zh-hans-v2.webp`, SHA-256 `8807b6be0f7f44cb9be2191659724c53be1018c1ba87ee828f47ca0d49920695`
+  - zh-hant (`vps-or-shared-hosting-zh-hant`): `/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-zh-hant-v2.webp`, SHA-256 `0c5ddeaaae9678ff9d33c306ac6b4bb5956d74ce8300327a305aec471924e5d0`
+- **Alt (PT):** Foto ilustrativa de conectores laranja ligados a portas de rede amarelas, com logo Hostinger, a chamada “VPS ou compartilhada?”, o apoio “Controle e manutenção” e o código SONAR20.
+- **Origem:** foto ilustrativa de conectores e portas de rede; não é datacenter nem hardware da Hostinger. SONAR20 sem o rótulo de planos novos em todos os idiomas, sem percentual.
+- **Lote 43 do piloto de capas (sequência 15 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/43/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 13/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-48-HEROES-48-PAGINAS-SEQUENCIA-15-CLAUDE.zip` (`lotes/43/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp`) fica no CDN, sem uso como capa.

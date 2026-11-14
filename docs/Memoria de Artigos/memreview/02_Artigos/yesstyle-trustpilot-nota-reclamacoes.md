@@ -320,3 +320,20 @@ Fatos: `yesstyle-trustpilot-nota-reclamacoes-fatos-2810.md`, ao lado; autocomple
 - Imagens no CDN: capa, barras de estrelas da Trustpilot, print do perfil (29/10, no navegador do app, versão celular) num celular e uma tela de rastreio desenhada sem palavras (pedido do Bruno: "mais lúdico").
 - No mesmo PR: `yesstyle-entrega-no-brasil-e-portugal` e o registro de mudanças do `yesstyle-e-confiavel` com a suspensão das entregas ao Brasil. Quando a YesStyle voltar a entregar, reverter (lista em [[YesStyle]]).
 - Pendente: reler a Trustpilot e o Reclame Aqui na revisão mensal de novembro de 2026.
+
+## Capa v2 (13/11/2026)
+
+- **Capas:** uma por idioma, com a chamada no idioma da página (`imageFit: contain`):
+  - de (`yesstyle-trustpilot-bewertungen`): `/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-de-v2.webp`, SHA-256 `25070ac9f30ab3517edd8ce9f46734d03faabcfa6e37952e1732c1a96e7398b9`
+  - en (`yesstyle-trustpilot-reviews`): `/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-en-v2.webp`, SHA-256 `83ba3ff98e61022681d91ec7212af670c723b51952819d9cdd178624f4120e5a`
+  - es (`yesstyle-opiniones-trustpilot`): `/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-es-v2.webp`, SHA-256 `ef9b671001cb761661ebf271c3e5af8fabcf4c181a97e0b8000f17351bdcfc57`
+  - fr (`yesstyle-avis-trustpilot`): `/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-fr-v2.webp`, SHA-256 `4c6c57664d76a1ad38d67edda2d8dfb623d315ad389202ae6067c30d8a10ccd2`
+  - it (`yesstyle-recensioni-trustpilot`): `/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-it-v2.webp`, SHA-256 `d3609d162f0fdeca84df447b11d02742a14c4ba65dbb5ee28118cc16d5845dcd`
+  - ja (`yesstyle-trustpilot-reviews-ja`): `/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-ja-v2.webp`, SHA-256 `4c679a66edabfb0b54537f2783a8e345edf1474945c79c005996758089627552`
+  - ko (`yesstyle-trustpilot-reviews-ko`): `/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-ko-v2.webp`, SHA-256 `52f17e6949ab11656a7da12555b0462dcb8c1668b8367f0abcbfd0b66276906e`
+  - pt (`yesstyle-trustpilot-nota-reclamacoes`): `/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-pt-v2.webp`, SHA-256 `ad388867663dc519b8fbf5469183589c2a41ff0443b13792326391cfc4d96b08`
+  - zh-hans (`yesstyle-trustpilot-reviews-zh-hans`): `/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-zh-hans-v2.webp`, SHA-256 `5bc864233be6b32f8070643b3ae52899ff146b24a08890663030e931d1168c47`
+  - zh-hant (`yesstyle-trustpilot-reviews-zh-hant`): `/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-zh-hant-v2.webp`, SHA-256 `f4869d5b36b34446cf32711c8580c00bcc527b7a87f8c7e7bb129827e14e67ad`
+- **Alt (PT):** Cecília ajustando um adesivo de hidrogel sob o olho, com faixa e rolinho no cabelo, com logo YesStyle, a chamada “YesStyle na Trustpilot”, o apoio “O que dizem as avaliações” e Código de recompensa: CECILIA010.
+- **Origem:** foto própria da Cecília com o adesivo de hidrogel sob o olho; não é prova de reputação nem de resultado na pele. CECILIA010 é código de recompensa.
+- **Lote 43 do piloto de capas (sequência 15 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/43/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 13/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-48-HEROES-48-PAGINAS-SEQUENCIA-15-CLAUDE.zip` (`lotes/43/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-discover.webp`) fica no CDN, sem uso como capa.
