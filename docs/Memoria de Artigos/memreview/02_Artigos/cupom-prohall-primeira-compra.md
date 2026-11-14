@@ -175,3 +175,10 @@ Passou. Nenhum benefício da própria loja: sem cupom da loja, cashback, Clube o
 - No ar em 12/11/2026, id 933: PR #940 (squash `4320a43e`), release `4320a43e` (deploy cb87ba96, build 01a1d261), só PT. Smoke: a página com 200, título, capa pelo CDN e fotos do corpo; sitemap e llms.txt com o artigo; `covers:check` ok; IndexNow no lote do release (11 URLs); captura 43340697881 aprovada pelo Bruno.
 - Título: "Cupom Prohall primeira compra: CECILIAMC dá até 10% OFF e vale nas compras seguintes". seoTitle: "Cupom Prohall primeira compra: até 10% OFF com CECILIAMC".
 - Pendente: Revisão mensal de dezembro de 2026: reler o percentual no checkout.
+
+## Capa v2 (14/11/2026)
+
+- **Capa:** `/images/reviews/prohall/cupom-prohall-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `0baf0184c2671cae8627876fd938340cfb8b101bbd55adefe29de1b360482646`.
+- **Alt:** Mão segurando frasco branco do tônico Force Hair da Prohall, em cena oficial, com o logo Prohall, a chamada “Primeira compra na Prohall?” e o cupom CECILIAMC.
+- **Origem:** cena oficial com mão e o tônico Force Hair; não é aplicação pela equipe. Capa sem subtítulo; os rótulos dos códigos foram mantidos. Técnica de produção das imagens das lojas não determinada: sem afirmar foto real nem IA.
+- **Lote 48 do piloto de capas (sequência 16 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/48/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 14/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-16-CLAUDE.zip` (`lotes/48/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/prohall/cupom-prohall-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

@@ -182,3 +182,10 @@ O Bruno colou o relatório da revisão de copy dos sete artigos da La Ganexa (`d
 - Mantido: "Resolvidas", o rótulo da tela de 13/11, no lugar do "Índice de solução" do candidato, e o título "Como evitar dor de cabeça".
 
 - Revisão Farol: No ar desde 13/11/2026, release `e0a228c1` (deploy 6e02e402, build 01a1d65b), com o LG7 (#961) e a revisão Farol dos sete artigos (#962). `deploy:finish` ok (2 workers); smoke dos sete artigos contra o JSON (títulos, capítulos, a primeira frase de cada capítulo, imagens e og:image) ok; IndexNow com 12 URLs; captura 43492401172 à espera da aprovação do Bruno.
+
+## Capa v2 (14/11/2026)
+
+- **Capa:** `/images/reviews/laganexa/la-ganexa-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`), SHA-256 `fc03652780c7a048506a65abf2115213dce9adfaec5e9ae8e114dce2a7844b55`.
+- **Alt:** Caixa de cookies de cacau com gotas de chocolate da La Ganexa sobre uma mesa com biscoitos, em imagem oficial da loja, com logo, “La Ganexa no Reclame Aqui” e cupom CECILIA.
+- **Origem:** imagem oficial da caixa de cookies de cacau; não prova reputação. Capa sem subtítulo; os rótulos dos códigos foram mantidos. Técnica de produção das imagens das lojas não determinada: sem afirmar foto real nem IA.
+- **Lote 48 do piloto de capas (sequência 16 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/48/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 14/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-16-CLAUDE.zip` (`lotes/48/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/laganexa/la-ganexa-reclame-aqui-nota-reputacao-capa.webp`) fica no CDN, sem uso como capa.

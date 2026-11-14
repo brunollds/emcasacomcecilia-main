@@ -26,8 +26,8 @@
   "affiliate": "prohall",
   "description": "A campanha já está no site da Prohall, sem data de fim publicada. Veja o que está em oferta e como o CECILIAMC entra em cima do preço promocional.",
   "metaDescription": "CECILIAMC dá até 10% OFF na Prohall e soma com a Black Friday 2026: nos testes, tirou 7% de produtos já em promoção. Veja o que está em oferta.",
-  "image": "/images/reviews/prohall/black-friday-prohall-capa.webp",
-  "imageAlt": "Três potes de máscara capilar da Prohall, Biomask, Extreme Repair e Proboo Fiber, em foto oficial da loja, ao lado da chamada Black Friday Prohall 2026, o cupom soma, e do código CECILIAMC.",
+  "image": "/images/reviews/prohall/black-friday-prohall-capa-v2.webp",
+  "imageAlt": "Frasco Select One da Prohall em cenário oficial com cocos e suportes brancos, com logo da marca, “Black Friday Prohall” e cupom CECILIAMC.",
   "decision": {
     "takeIf": [
       "O produto que você já usa está na coleção da campanha.",

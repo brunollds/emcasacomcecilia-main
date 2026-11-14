@@ -259,3 +259,20 @@ O Bruno pediu um print novo do carrinho global e confirmou que vale a página da
 - As 9 versões passaram a ter a tabela com as duas linhas e a data de 13/11, a conta de 1 mês em "quanto fica" e, onde havia a pergunta do plano mensal, a resposta "no nosso teste, sim" (edição pelo Sonnet 5.5, diff conferido pela sessão).
 - Imagem do corpo das 9 versões: `/images/reviews/hostinger/cupom-hostinger-primeira-compra-carrinho-global.webp` (captura nossa do carrinho de 48 meses com "Coupon applied: SONAR20"), em "Onde colar o código", com alt e legenda no idioma. No CDN pelo fluxo de mídia; manifesto só com a inserção.
 - A pendência do plano mensal fora do PT está fechada. Segue a de reler o carrinho depois da Black Friday.
+
+## Capa v2 (14/11/2026)
+
+- **Capas:** uma por idioma, com a chamada no idioma da página (`imageFit: contain`):
+  - de (`hostinger-gutschein-erster-kauf`): `/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-de-v2.webp`, SHA-256 `2fe19ac1196ed7781a0b9a490395b49fd9c81b785c8880593d8232eb42b52109`
+  - en (`hostinger-coupon-first-purchase`): `/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-en-v2.webp`, SHA-256 `3dc88ff38c5ac229298c095dfdebddf4dae9d3a1dee76a4a8206833abcfa9b08`
+  - es (`cupon-hostinger-primera-compra`): `/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-es-v2.webp`, SHA-256 `2a6786052139a8fecd961dc55c72a8f78a190bca980acd8f61354b1c9d2aebb5`
+  - fr (`code-promo-hostinger-premier-achat`): `/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-fr-v2.webp`, SHA-256 `2850fcf263ae503946c7d4222854516f2a6371c72fbfaadc225c586379495a5c`
+  - it (`codice-sconto-hostinger-primo-acquisto`): `/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-it-v2.webp`, SHA-256 `5a45556df8bd0c7df88a4ffcdc9204c60b43556b4cb5934429e176f52cd39d30`
+  - ja (`hostinger-first-purchase-ja`): `/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-ja-v2.webp`, SHA-256 `f43c8afd7da9aedad98a3b2a4e29a061cd1c8ed2ad11334cf36b4f7f78c5a810`
+  - ko (`hostinger-first-purchase-ko`): `/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-ko-v2.webp`, SHA-256 `db457568bfc9c4e6b062fb06564d9d5aebe957090643d3826a4d8141fa864cd7`
+  - pt (`cupom-hostinger-primeira-compra`): `/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-pt-v2.webp`, SHA-256 `0646cdd373a387e1c133fdf46f60ab3df3186bd34cfefee6fa285766e0c25bf9`
+  - zh-hans (`hostinger-first-purchase-zh-hans`): `/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-zh-hans-v2.webp`, SHA-256 `9ece0ddd45e62ca5a606220bb9073622d54cb8ce0a6a9716335c43effc5b2e8f`
+  - zh-hant (`hostinger-first-purchase-zh-hant`): `/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-zh-hant-v2.webp`, SHA-256 `3b73e6b78c144a2828b6eecff2226443639b7593d505fa36f3f48afe9177886e`
+- **Alt (PT):** Foto ilustrativa de compra online com mãos segurando cartão, teclado de notebook, carteira e celular sem interface visível, ao lado do logo Hostinger, da chamada “Primeira compra na Hostinger?” e do código SONAR20.
+- **Origem:** foto de banco de imagens de compra online (cartão, notebook, celular sem interface); não é o checkout da Hostinger, compra da equipe nem prova de meio de pagamento. SONAR20 sem o rótulo de planos novos em todos os idiomas. Capa sem subtítulo; os rótulos dos códigos foram mantidos. Técnica de produção das imagens das lojas não determinada: sem afirmar foto real nem IA.
+- **Lote 46 do piloto de capas (sequência 16 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/46/revisao-terra/ADENDO-SEM-SUBTITULOS.json`):** aprovado pelo Bruno em 14/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-16-CLAUDE.zip` (`lotes/46/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

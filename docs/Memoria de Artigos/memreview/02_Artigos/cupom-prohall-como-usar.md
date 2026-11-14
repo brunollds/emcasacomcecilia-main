@@ -202,3 +202,10 @@ Passou. Sempre "até 10%"; nenhum "10% OFF" sem o "até", nenhum "só 7%", nenhu
 - Título: "Como usar o cupom CECILIAMC na Prohall: até 10% OFF no site e no app". seoTitle: "Cupom Prohall: como usar o CECILIAMC, até 10% OFF".
 - Pendente: Revisão mensal de dezembro de 2026: reler o CECILIAMC no checkout (percentual), o frete por região e o Pix.
 - Pendente: Nome do app nas lojas de aplicativo: não lido; o texto diz só "app da Prohall".
+
+## Capa v2 (14/11/2026)
+
+- **Capa:** `/images/reviews/prohall/cupom-prohall-como-usar-capa-v2.webp` (`imageFit: contain`), SHA-256 `08f9c5fbc98b32e28d262ab0b0a47576ff6656078eb31356b1b01feedaf4b77d`.
+- **Alt:** Frascos vermelhos da Máscara em Spray Absolut One da Prohall vistos de perto em diagonal, em foto oficial, com logo da marca, “Cupom Prohall: como usar?” e código CECILIAMC.
+- **Origem:** foto oficial dos frascos da Máscara em Spray Absolut One. Capa sem subtítulo; os rótulos dos códigos foram mantidos. Técnica de produção das imagens das lojas não determinada: sem afirmar foto real nem IA.
+- **Lote 47 do piloto de capas (sequência 16 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/47/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 14/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-16-CLAUDE.zip` (`lotes/47/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/prohall/cupom-prohall-como-usar-capa.webp`) fica no CDN, sem uso como capa.
