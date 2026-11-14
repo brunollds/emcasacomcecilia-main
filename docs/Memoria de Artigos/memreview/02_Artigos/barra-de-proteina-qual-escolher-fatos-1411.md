@@ -80,3 +80,23 @@ Preço da caixa no cartão, sem Pix. "Com o código" é a conta de 10% sobre ess
   e o Reddit.
 - As listas são de "melhores" por sabor e marca. Não li cada uma por inteiro: a redação confere se alguma faz a conta
   por grama de proteína com o preço do dia.
+
+## Redação (14/11/2026): o que a releitura mudou
+
+Artigo `barra-de-proteina-qual-escolher` (id 980), revisado pelo Bruno e pelo Farol / ChatGPT
+(`docs/auditoria-copy-artigos/bp1-barra-de-proteina-20261114/`). Capa e fotos aprovadas pelo Bruno em 14/11.
+
+- **Whey Bar, Probiótica:** tabelas dos cinco sabores lidas. Todos com 15 g de proteína; açúcar adicionado de 4,5 g
+  (Amendoim) a 4,6 g; total de 4,9 a 5 g; 151 a 153 kcal. A página declara CONTÉM LACTOSE e CONTÉM GLÚTEN.
+- **Whey Bar Creamy, Probiótica:** a proteína muda com o sabor: 11 g em Morango e Cookies & Cream, 10 g em Chocolate e
+  Coco. Açúcar adicionado 0 g; total de 1,8 a 2,8 g; 161 a 171 kcal. Por grama de proteína, de R$ 0,59 a R$ 0,65 sem
+  código. A página declara CONTÉM LACTOSE e CONTÉM GLÚTEN.
+- **Gourmet Zero, Black Skull:** a loja publica a mesma imagem de tabela nos sete sabores (45 g, 187 kcal, 12 g, 0 g
+  adicionado, 4,2 g total).
+- **Mais Mu:** preço riscado de R$ 179,88 (Mukebar 720 g) e R$ 131,88 (Crush Bar); oferta de R$ 152,90 e R$ 92,32. O
+  artigo usa o riscado como referência e a oferta numa tabela à parte. Link e foto da Mukebar são do sabor Chocolate
+  com Avelã, o do rótulo. A página da Crush Bar Chocolate declara lactose e traz duas frases opostas sobre glúten.
+- **Probiótica, código:** sem teste de carrinho; a tabela de preço mostra a Probiótica sem código.
+- **Dr. Peanut:** o preço do display é o lido pelo Job 1 em 14/11; a busca da loja não abriu na redação.
+- **Max Titanium:** ficou só numa frase com link para `/cupons/max-titanium` (o Bruno não pediu a troca).
+- **Links de volta:** guias da Mais Mu e da Dr. Peanut, BD1, BD2 e BD3.

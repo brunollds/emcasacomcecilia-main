@@ -41687,6 +41687,190 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-capa.webp",
+      "local_url": "/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 120432,
+      "sha256": "8e0c94c13180c85a07e53ab3701a7031fc333a4f9b16fca33958f197e5a60c2b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barra-de-proteina-qual-escolher-capa.webp",
+      "storage_filename": "barra-de-proteina-qual-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barra-de-proteina-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barra-de-proteina-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 226274,
+          "column": 15,
+          "literal": "/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8e0c94c13180c85a07e53ab3701a7031fc333a4f9b16fca33958f197e5a60c2b/barra-de-proteina-qual-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8e0c94c13180c85a07e53ab3701a7031fc333a4f9b16fca33958f197e5a60c2b/barra-de-proteina-qual-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T23:49:50.700Z",
+      "verification_etag_or_digest": "8e0c94c13180c85a07e53ab3701a7031fc333a4f9b16fca33958f197e5a60c2b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-mukebar-mais-mu.webp",
+      "local_url": "/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-mukebar-mais-mu.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 91712,
+      "sha256": "6bc9d22d907ad1e807c0c5895714449a0325c2e11883842c2456f13cd1ec62ab",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barra-de-proteina-qual-escolher-mukebar-mais-mu.webp",
+      "storage_filename": "barra-de-proteina-qual-escolher-mukebar-mais-mu.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barra-de-proteina-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barra-de-proteina-qual-escolher.json",
+          "line": 284,
+          "column": 19,
+          "literal": "/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-mukebar-mais-mu.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 226535,
+          "column": 21,
+          "literal": "/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-mukebar-mais-mu.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6bc9d22d907ad1e807c0c5895714449a0325c2e11883842c2456f13cd1ec62ab/barra-de-proteina-qual-escolher-mukebar-mais-mu.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6bc9d22d907ad1e807c0c5895714449a0325c2e11883842c2456f13cd1ec62ab/barra-de-proteina-qual-escolher-mukebar-mais-mu.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T23:49:51.001Z",
+      "verification_etag_or_digest": "6bc9d22d907ad1e807c0c5895714449a0325c2e11883842c2456f13cd1ec62ab",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-whey-bar-gourmet-zero-black-skull.webp",
+      "local_url": "/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-whey-bar-gourmet-zero-black-skull.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 98588,
+      "sha256": "594c4b05b77107b888d46e542b4c2607dad27cda29cbf569d75cb521ca05394b",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barra-de-proteina-qual-escolher-whey-bar-gourmet-zero-black-skull.webp",
+      "storage_filename": "barra-de-proteina-qual-escolher-whey-bar-gourmet-zero-black-skull.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barra-de-proteina-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barra-de-proteina-qual-escolher.json",
+          "line": 246,
+          "column": 19,
+          "literal": "/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-whey-bar-gourmet-zero-black-skull.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 226497,
+          "column": 21,
+          "literal": "/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-whey-bar-gourmet-zero-black-skull.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/594c4b05b77107b888d46e542b4c2607dad27cda29cbf569d75cb521ca05394b/barra-de-proteina-qual-escolher-whey-bar-gourmet-zero-black-skull.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/594c4b05b77107b888d46e542b4c2607dad27cda29cbf569d75cb521ca05394b/barra-de-proteina-qual-escolher-whey-bar-gourmet-zero-black-skull.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T23:49:51.277Z",
+      "verification_etag_or_digest": "594c4b05b77107b888d46e542b4c2607dad27cda29cbf569d75cb521ca05394b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-whey-bar-probiotica.webp",
+      "local_url": "/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-whey-bar-probiotica.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 107534,
+      "sha256": "35556c4db140409cd9ee9d206c86f9b6df1def7ecb3fd57c793a56b72dc140b6",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barra-de-proteina-qual-escolher-whey-bar-probiotica.webp",
+      "storage_filename": "barra-de-proteina-qual-escolher-whey-bar-probiotica.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barra-de-proteina-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barra-de-proteina-qual-escolher.json",
+          "line": 228,
+          "column": 19,
+          "literal": "/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-whey-bar-probiotica.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 226479,
+          "column": 21,
+          "literal": "/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-whey-bar-probiotica.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/35556c4db140409cd9ee9d206c86f9b6df1def7ecb3fd57c793a56b72dc140b6/barra-de-proteina-qual-escolher-whey-bar-probiotica.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/35556c4db140409cd9ee9d206c86f9b6df1def7ecb3fd57c793a56b72dc140b6/barra-de-proteina-qual-escolher-whey-bar-probiotica.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T23:49:51.604Z",
+      "verification_etag_or_digest": "35556c4db140409cd9ee9d206c86f9b6df1def7ecb3fd57c793a56b72dc140b6",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/belive/belive-black-november-pagina-2026-10-19.webp",
       "local_url": "/images/reviews/belive/belive-black-november-pagina-2026-10-19.webp",
       "media_kind": "image",

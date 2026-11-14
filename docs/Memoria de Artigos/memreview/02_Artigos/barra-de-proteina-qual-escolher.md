@@ -7,9 +7,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Snacks"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2), depois do BD2 e do BD3"
+proxima_acao: "deploy com o GO do Bruno; reler preços e rótulos na revisão mensal de dezembro de 2026; testar o código da Probiótica na barra"
 bloqueado_por: null
 score_autoridade: 72
 score_conversao: 76
