@@ -59,7 +59,7 @@ Já cobertos: tomara que caia, decote, protetor de mamilo, kit, Comfort Up e Sli
 | Código | Pauta | Parceiros | Busca (autocompletar do Google, 13/11) | Nota |
 |---|---|---|---|---|
 | BD2 | Wafer proteico: qual escolher, por grama de proteína | Mais Mu e Dr. Peanut (várias lojas) | "wafer proteico", "wafer proteico mais mu", "wafer proteico bendu" | Redigido em 14/11 (`wafer-proteico-qual-escolher`, id 978; nota [[wafer-proteico-qual-escolher]]); espera o deploy. A Doctor Wafer entrou pela venda avulsa, com o preço por proteína maior à vista. Conferir canibalização com `barra-de-proteina-mais-mu-qual-escolher` e `snacks-dr-peanut-qual-escolher` |
-| BD3 | Salgadinho proteico: qual escolher, por grama de proteína e por restrição | Belive e Mais Mu (várias lojas) | "salgadinho proteico", "salgadinho proteico belive" | Ler a proteína do snack de parmesão da Mais Mu. Conferir canibalização com `snack-proteico-ou-snack-de-arroz-belive` |
+| BD3 | Salgadinho proteico: qual escolher, por grama de proteína e por restrição | Belive e Mais Mu (várias lojas) | "salgadinho proteico", "salgadinho proteico belive" | Redigido em 14/11 (`salgadinho-proteico-qual-escolher`, id 979; nota [[salgadinho-proteico-qual-escolher]]); espera o deploy. O guia da Belive segue com proteico ou arroz e ganhou o parágrafo de ligação. |
 
 **HolyFoods: depois do onboarding** (05/11/2026). O Bruno aprovou primeiro o onboarding e a Black Friday (HO1 a HO4, seção 1): a HF1 virou o HO1 e o HO2, e a HF5 virou o HO3. As outras ficam aqui até o GO. Os fatos estão em `02_Artigos/holyfoods-fatos-0511.md`.
 - **Cuidado:** o site e os nomes dos kits prometem emagrecimento. Os textos descrevem o produto, o rótulo e o preço, sem promessa de peso ou saúde.

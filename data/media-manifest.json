@@ -122360,6 +122360,144 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/salgadinho/salgadinho-proteico-qual-escolher-capa.webp",
+      "local_url": "/images/reviews/salgadinho/salgadinho-proteico-qual-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78914,
+      "sha256": "cef59c8c99c5b97d84777beb1b21986959c72489725e22ef611b22660a8936c0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "salgadinho-proteico-qual-escolher-capa.webp",
+      "storage_filename": "salgadinho-proteico-qual-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/salgadinho-proteico-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/salgadinho-proteico-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/salgadinho/salgadinho-proteico-qual-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 226004,
+          "column": 15,
+          "literal": "/images/reviews/salgadinho/salgadinho-proteico-qual-escolher-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/cef59c8c99c5b97d84777beb1b21986959c72489725e22ef611b22660a8936c0/salgadinho-proteico-qual-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cef59c8c99c5b97d84777beb1b21986959c72489725e22ef611b22660a8936c0/salgadinho-proteico-qual-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T21:48:37.143Z",
+      "verification_etag_or_digest": "cef59c8c99c5b97d84777beb1b21986959c72489725e22ef611b22660a8936c0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/salgadinho/salgadinho-proteico-qual-escolher-snack-de-parmesao-mais-mu.webp",
+      "local_url": "/images/reviews/salgadinho/salgadinho-proteico-qual-escolher-snack-de-parmesao-mais-mu.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44712,
+      "sha256": "8f699464bf7f3060ed525c6b975b65d78ad6a1bfa73e327109ad635d6abc4569",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "salgadinho-proteico-qual-escolher-snack-de-parmesao-mais-mu.webp",
+      "storage_filename": "salgadinho-proteico-qual-escolher-snack-de-parmesao-mais-mu.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/salgadinho-proteico-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/salgadinho-proteico-qual-escolher.json",
+          "line": 156,
+          "column": 19,
+          "literal": "/images/reviews/salgadinho/salgadinho-proteico-qual-escolher-snack-de-parmesao-mais-mu.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 226137,
+          "column": 21,
+          "literal": "/images/reviews/salgadinho/salgadinho-proteico-qual-escolher-snack-de-parmesao-mais-mu.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8f699464bf7f3060ed525c6b975b65d78ad6a1bfa73e327109ad635d6abc4569/salgadinho-proteico-qual-escolher-snack-de-parmesao-mais-mu.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8f699464bf7f3060ed525c6b975b65d78ad6a1bfa73e327109ad635d6abc4569/salgadinho-proteico-qual-escolher-snack-de-parmesao-mais-mu.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T21:48:37.465Z",
+      "verification_etag_or_digest": "8f699464bf7f3060ed525c6b975b65d78ad6a1bfa73e327109ad635d6abc4569",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/salgadinho/salgadinho-proteico-qual-escolher-snack-de-parmesao-tabela.webp",
+      "local_url": "/images/reviews/salgadinho/salgadinho-proteico-qual-escolher-snack-de-parmesao-tabela.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31184,
+      "sha256": "baaf37dfb14cd28a05f3baaa43aa57097b72fb7a824f632a764f459a1365c6bc",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "salgadinho-proteico-qual-escolher-snack-de-parmesao-tabela.webp",
+      "storage_filename": "salgadinho-proteico-qual-escolher-snack-de-parmesao-tabela.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/salgadinho-proteico-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/salgadinho-proteico-qual-escolher.json",
+          "line": 214,
+          "column": 19,
+          "literal": "/images/reviews/salgadinho/salgadinho-proteico-qual-escolher-snack-de-parmesao-tabela.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 226195,
+          "column": 21,
+          "literal": "/images/reviews/salgadinho/salgadinho-proteico-qual-escolher-snack-de-parmesao-tabela.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/baaf37dfb14cd28a05f3baaa43aa57097b72fb7a824f632a764f459a1365c6bc/salgadinho-proteico-qual-escolher-snack-de-parmesao-tabela.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/baaf37dfb14cd28a05f3baaa43aa57097b72fb7a824f632a764f459a1365c6bc/salgadinho-proteico-qual-escolher-snack-de-parmesao-tabela.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T21:48:37.767Z",
+      "verification_etag_or_digest": "baaf37dfb14cd28a05f3baaa43aa57097b72fb7a824f632a764f459a1365c6bc",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/samsung/amelia-chegou-embalada.webp",
       "local_url": "/images/reviews/samsung/amelia-chegou-embalada.webp",
       "media_kind": "image",
