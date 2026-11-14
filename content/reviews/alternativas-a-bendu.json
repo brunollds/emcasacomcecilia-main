@@ -1,0 +1,347 @@
+{
+  "id": 977,
+  "slug": "alternativas-a-bendu",
+  "locale": "pt",
+  "title": "Alternativas à Bendu: salgadinho, wafer, barra, doce de leite e pasta por menos",
+  "seoTitle": "Alternativas à Bendu, com cupom",
+  "type": "Comparativo de Snacks",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Salgadinho, wafer, barra, doce de leite e pasta: compare alternativas à Bendu por proteína ou por 100 g, com o código aplicado e as diferenças de composição.",
+  "metaDescription": "MAUAD dá 10% na Belive. Compare alternativas à Bendu em salgadinho, wafer, barra, doce de leite e pasta, com os códigos de cada loja.",
+  "publishedAt": "14 de novembro de 2026",
+  "publishedAtISO": "2026-11-14",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/bendu/alternativas-a-bendu-capa.webp",
+  "imageAlt": "Snack proteico da Belive, Doce de Leite Zero da La Ganexa, Doctor Bar e pasta sabor avelã da Dr. Peanut ao lado da chamada Alternativas à Bendu e do apoio Com cupom.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "decision": {
+    "takeIf": [
+      "Você quer um salgadinho proteico declarado sem leite, zero lactose e sem glúten: o snack da Belive.",
+      "Você aceita a composição dos produtos e quer pagar menos por proteína: os wafers da Mais Mu e a Doctor Bar, conferindo também o custo da caixa e de cada unidade.",
+      "Você quer doce de leite zero lactose em pote maior, ou aceita pasta de amendoim com lactose no lugar do creme de avelã."
+    ],
+    "skipIf": [
+      "Você precisa manter o wafer ou a pasta sem lactose: o Chocowheyfer de 25 g e a pasta contêm lactose; no Max, confira a embalagem.",
+      "Você quer gastar menos com cada barra: a Doctor Bar ganha por proteína, mas cada barra custa mais.",
+      "Você compra três potes de doce de leite da Bendu de uma vez e paga no Pix: fora de oferta, a troca não reduz o preço."
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "affiliate": [
+    "belive",
+    "la-ganexa",
+    "mais-mu",
+    "dr-peanut"
+  ],
+  "editorialNote": "Comparação de preços e rótulos; não provamos os produtos. Podemos receber comissão das quatro alternativas; a Bendu não é parceira.",
+  "relatedArticles": [
+    {
+      "slug": "snack-proteico-ou-snack-de-arroz-belive"
+    },
+    {
+      "slug": "barra-de-proteina-mais-mu-qual-escolher"
+    },
+    {
+      "slug": "snacks-dr-peanut-qual-escolher"
+    },
+    {
+      "slug": "cupom-la-ganexa-como-usar"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "O snack da Belive é uma alternativa ao Salty Chips para pagar menos por grama de proteína, também sem lactose. Para wafer e barra, há opções da Mais Mu e da Dr. Peanut com essa vantagem. O Doce de Leite Zero da La Ganexa e a pasta sabor avelã da Dr. Peanut entram na comparação por 100 g."
+      ]
+    },
+    {
+      "heading": "Antes de escolher",
+      "paragraphs": [
+        "O preço por grama de proteína ajuda a comparar snacks de tamanhos diferentes; nos potes, a comparação é por 100 g. Confira também o valor da caixa ou do pote que vai comprar e o frete: uma barra maior pode custar mais por unidade mesmo saindo melhor por proteína.",
+        "Os preços são dos sites em 14 de novembro de 2026, sem frete. Nas alternativas, o primeiro valor usa o preço de referência com o código aplicado, e a oferta do dia aparece à parte.",
+        "A Bendu está em campanha: dá 10% a partir de três unidades do mesmo produto e 5% no Pix. As tabelas usam esse cenário, o mais barato dela, com três displays ou três potes no Pix; confira a condição no resumo do pedido. As alternativas ficam abaixo dele pelo critério de cada capítulo, e a exceção, o doce de leite, está explicada no capítulo dele."
+      ]
+    },
+    {
+      "heading": "No lugar do Salty Chips: snack proteico da Belive",
+      "paragraphs": [
+        "O snack da Belive é o mesmo tipo de lanche salgado e custa menos por grama de proteína com o MAUAD. A loja declara proteína vegetal, sem whey, e o produto sem leite, zero lactose e sem glúten."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Produto",
+          "Unidade e proteína",
+          "Por grama de proteína",
+          "Declaração do produto"
+        ],
+        "rows": [
+          [
+            "Salty Chips Bendu, display de 12",
+            "40 g; 11 g",
+            "R$ 0,84, com três displays e Pix",
+            "Zero lactose; zero glúten"
+          ],
+          [
+            "[Snack proteico Belive](https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/)",
+            "35 g; 10 g",
+            "R$ 0,72; em oferta, R$ 0,57",
+            "Sem leite; zero lactose; sem glúten"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "É a troca mais direta do guia, para quem precisa manter as declarações de zero lactose e sem glúten. Os outros snacks da marca estão no guia [snack proteico ou snack de arroz da Belive](/reviews/snack-proteico-ou-snack-de-arroz-belive)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/belive/belive-e-boa-snack-proteico-queijo.webp",
+          "alt": "Pacote de 35 g do Snack Proteico sabor queijo da Belive, salgadinho sem glúten, sem leite e zero lactose",
+          "caption": "Snack proteico sabor queijo, 35 g. Foto oficial da Belive.",
+          "href": "https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "store": "belive"
+        }
+      ]
+    },
+    {
+      "heading": "No lugar do doce de leite: Doce de Leite Zero da La Ganexa",
+      "paragraphs": [
+        "O Doce de Leite Zero da La Ganexa vem em pote de 400 g, quase o dobro do pote de 230 g da Bendu, e a loja o declara zero lactose, zero açúcar e zero glúten. Com o CECILIA, ele custa menos por 100 g que um pote da Bendu, mesmo no Pix."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Produto",
+          "Pote",
+          "Por 100 g",
+          "Declaração do produto"
+        ],
+        "rows": [
+          [
+            "Doce de leite Bendu",
+            "230 g",
+            "R$ 20,61, um pote no Pix; R$ 18,55, com três potes e Pix",
+            "Zero lactose"
+          ],
+          [
+            "[Doce de Leite Zero La Ganexa](https://lojalaganexa.com.br/products/doce-de-leite-zero-400g)",
+            "400 g",
+            "R$ 19,12; em oferta, R$ 15,75",
+            "Zero lactose; zero açúcar; zero glúten"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Aqui a vantagem depende de quanto você compra. Quem leva três potes da Bendu de uma vez e paga no Pix fica um pouco abaixo do preço de referência da La Ganexa. Na oferta do dia, a La Ganexa volta a custar menos.",
+        "O kit com dois potes sai mais barato por 100 g, mas a página de regras da loja diz que ele não acumula com cupom. No nosso teste, o checkout aceitou o CECILIA nele: confira o desconto no resumo antes de pagar. Os detalhes estão em [como usar o cupom La Ganexa](/reviews/cupom-la-ganexa-como-usar)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/laganexa/la-ganexa-e-boa-doce-de-leite-zero.webp",
+          "alt": "Pote de vidro de 400 g do Doce de Leite Zero da La Ganexa, com rótulo de manchas de vaca",
+          "caption": "Doce de Leite Zero, 400 g. Imagem publicada pela La Ganexa.",
+          "href": "https://lojalaganexa.com.br/products/doce-de-leite-zero-400g",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "store": "la-ganexa"
+        }
+      ]
+    },
+    {
+      "heading": "No lugar do Crispy Wafer: Chocowheyfer da Mais Mu",
+      "paragraphs": [
+        "O Chocowheyfer Max, da Mais Mu, custa menos por grama de proteína com o MMEMCASACOMCECILIA. O wafer da Bendu é zero lactose; o Chocowheyfer de 25 g contém lactose, e os dois contêm glúten."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Produto",
+          "Unidade e proteína",
+          "Por grama de proteína",
+          "Lactose e glúten"
+        ],
+        "rows": [
+          [
+            "Crispy Wafer Bendu, display de 12",
+            "40 g; 10 g",
+            "R$ 1,19, com três displays e Pix",
+            "Zero lactose; contém glúten"
+          ],
+          [
+            "[Chocowheyfer Max](https://www.lojamaismu.com.br/produtos/chocowheyfer-max-mais-mu-chocolate-caixa-20-unidades-1mr93/), caixa de 20",
+            "50 g; 12 g",
+            "R$ 0,97; em oferta, R$ 0,73",
+            "Confira na embalagem"
+          ],
+          [
+            "[Chocowheyfer](https://www.lojamaismu.com.br/produtos/chocowheyfer-chocolate-300g/), caixa de 12",
+            "25 g; 6 g",
+            "R$ 1,05; em oferta, R$ 0,79",
+            "Contém lactose e glúten"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O Max tem o menor preço por proteína entre os dois e o tamanho mais próximo do Crispy Wafer. O de 25 g é uma unidade menor. A página do Max não traz a declaração de lactose e glúten: confira a embalagem se isso decide a sua compra."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-tabela-chocowheyfer-max.webp",
+          "alt": "Tabela nutricional da Chocowheyfer Max Chocolate da Mais Mu, porção de 50 g, com 12 g de proteínas",
+          "caption": "Tabela nutricional do Chocowheyfer Max Chocolate. Imagem: Mais Mu.",
+          "href": "https://www.lojamaismu.com.br/produtos/chocowheyfer-max-mais-mu-chocolate-caixa-20-unidades-1mr93/",
+          "objectFit": "contain",
+          "aspectRatio": 0.84,
+          "store": "mais-mu"
+        }
+      ]
+    },
+    {
+      "heading": "No lugar da Soft Bar: Doctor Bar da Dr. Peanut",
+      "paragraphs": [
+        "A Doctor Bar custa menos por grama de proteína com o DREMCASACOMCECILIA. A página do sabor Cookies e Cream declara que ela contém lactose e glúten; a Soft Bar é zero lactose."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Produto",
+          "Unidade e proteína",
+          "Por grama de proteína",
+          "Lactose e glúten"
+        ],
+        "rows": [
+          [
+            "Soft Bar Bendu, display de 12",
+            "45 g; 12 g",
+            "R$ 0,83, com três displays e Pix",
+            "Zero lactose"
+          ],
+          [
+            "[Doctor Bar Cookies e Cream](https://www.drpeanut.com.br/display-barra-de-proteina-doctor-bar-sabor-cookies-e-cream-62g---8-un/p?skuId=161), display de 8",
+            "62 g; 21 g",
+            "R$ 0,65",
+            "Contém lactose e glúten"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Olhe também o preço de cada barra. No display com o código, a Doctor Bar fica em R$ 13,73 por barra; a Soft Bar, no cenário da tabela, em R$ 9,97. A vantagem da Doctor Bar é por proteína: cada barra é maior e custa mais.",
+        "Os outros formatos estão em [snacks da Dr. Peanut: qual escolher](/reviews/snacks-dr-peanut-qual-escolher), e as barras da Mais Mu, em [barra de proteína Mais Mu: qual escolher](/reviews/barra-de-proteina-mais-mu-qual-escolher)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/dr-peanut/dr-peanut-e-boa-doctor-bar-avela.webp",
+          "alt": "Display e barra de proteína Doctor Bar da Dr. Peanut, sabor Avelã, em foto oficial da marca",
+          "caption": "Doctor Bar, aqui no sabor Avelã. Foto oficial da Dr. Peanut.",
+          "href": "https://www.drpeanut.com.br/display-barra-de-proteina-doctor-bar-sabor-cookies-e-cream-62g---8-un/p?skuId=161",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "store": "dr-peanut"
+        }
+      ]
+    },
+    {
+      "heading": "Para passar no pão: pasta de amendoim sabor avelã da Dr. Peanut",
+      "paragraphs": [
+        "Esta não é a mesma coisa que o creme de avelã da Bendu: a pasta da Dr. Peanut tem base de amendoim, sabor avelã, e contém lactose. Ela serve a quem quer esse sabor no pão ou na fruta, aceita a mudança de composição e quer pagar menos por 100 g."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Produto",
+          "Pote",
+          "Por 100 g",
+          "Composição"
+        ],
+        "rows": [
+          [
+            "Creme de avelã Bendu",
+            "300 g",
+            "R$ 17,07, com três potes e Pix",
+            "Zero lactose"
+          ],
+          [
+            "[Pasta de amendoim sabor avelã Dr. Peanut](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p)",
+            "250 g",
+            "R$ 10,40; em oferta, R$ 9,32",
+            "Base de amendoim; contém lactose; sem glúten"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A diferença de preço vem com uma receita diferente. Antes de trocar, confira os ingredientes e os alergênicos da embalagem."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-pasta-avela-250g.webp",
+          "alt": "Pote de 250 g da pasta de amendoim sabor avelã da Dr. Peanut, em foto oficial de frente",
+          "caption": "Pasta de amendoim sabor avelã, 250 g. Foto oficial da Dr. Peanut.",
+          "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "store": "dr-peanut"
+        }
+      ]
+    },
+    {
+      "heading": "Os quatro códigos",
+      "comparisonTable": {
+        "headers": [
+          "Loja",
+          "Código",
+          "Desconto",
+          "Regras"
+        ],
+        "rows": [
+          [
+            "Belive",
+            "MAUAD",
+            "10%",
+            "[Cupom Belive](/cupons/belive)"
+          ],
+          [
+            "La Ganexa",
+            "CECILIA",
+            "10%",
+            "[Cupom La Ganexa](/cupons/la-ganexa)"
+          ],
+          [
+            "Mais Mu",
+            "MMEMCASACOMCECILIA",
+            "10%",
+            "[Cupom Mais Mu](/cupons/mais-mu)"
+          ],
+          [
+            "Dr. Peanut",
+            "DREMCASACOMCECILIA",
+            "10%",
+            "[Cupom Dr. Peanut](/cupons/dr-peanut)"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Cada código vale só na loja dele. Confira o desconto no resumo do pedido; as regras de cada um com promoção e forma de pagamento estão nas páginas acima. Na Dr. Peanut, o nosso teste aplicou o código sobre o preço promocional da pasta.",
+        "Para restrição alimentar, converse com nutricionista ou médico com a embalagem em mãos: este guia compara preço e rótulo."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Tem salgadinho proteico sem lactose como o da Bendu? O snack proteico da Belive é declarado sem leite, zero lactose e sem glúten, e sai mais barato por grama de proteína com o MAUAD nas condições comparadas.",
+        "Qual alternativa ao wafer da Bendu custa menos por proteína? Os dois Chocowheyfer da Mais Mu ficam abaixo com o código, e o Max tem o menor custo entre eles. O de 25 g contém lactose; no Max, confira a embalagem.",
+        "A Doctor Bar custa menos que a Soft Bar? Por grama de proteína, sim, nas condições comparadas. Por unidade, a Doctor Bar custa mais e é uma barra maior.",
+        "Tem doce de leite zero lactose mais barato que o da Bendu? O Doce de Leite Zero da La Ganexa, com o CECILIA, custa menos por 100 g que um pote da Bendu. Quem compra três potes da Bendu no Pix paga um pouco menos, fora de oferta.",
+        "A pasta sabor avelã substitui o creme da Bendu? Ela atende quem aceita base de amendoim e lactose para pagar menos por 100 g. Confira a composição antes de trocar."
+      ]
+    }
+  ]
+}
