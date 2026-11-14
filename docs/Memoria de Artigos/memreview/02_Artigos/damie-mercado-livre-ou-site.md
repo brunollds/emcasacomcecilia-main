@@ -1,15 +1,15 @@
 ---
-titulo_provisorio: "DAMIE no Mercado Livre ou no site: onde comprar a poltrona, região por região"
-seo_title: "DAMIE: Mercado Livre ou site, onde comprar a poltrona"
+titulo_provisorio: "Onde é melhor comprar sua nova DAMIE: no site oficial ou no Mercado Livre?"
+seo_title: "DAMIE: site oficial ou Mercado Livre, onde comprar"
 slug_sugerido: "damie-mercado-livre-ou-site"
 parceiro: "[[DAMIE]]"
 parceiro_slug: "damie"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2); links de afiliado dos anúncios pelo Bruno"
+proxima_acao: "PR e deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "DM1"
@@ -45,7 +45,7 @@ nordeste" e "damie frete" vieram vazios: a região entra como capítulo, não co
 - `/cupons/damie`: o código e as condições; já diz que Norte e Nordeste são atendidos pelos anúncios no Mercado Livre.
 - [[poltrona-damie-e-boa]] e os artigos da série poltrona do papai (PP1 a PP4): as poltronas do site, com a experiência
   da Cecília. A DM1 não repete a avaliação: linka.
-- DM3 ([[poltronas-damie-florenca-levita-moon]]): cada modelo de marketplace pela ficha. A DM1 diz em uma frase que os
+- DM3 ([[poltronas-damie-no-mercado-livre]]): cada modelo de marketplace pela ficha. A DM1 diz em uma frase que os
   modelos são outros e linka.
 - DM2 ([[damie-prazo-de-entrega]]): o prazo por região em detalhe. A DM1 usa a tabela curta de frete e linka.
 
@@ -158,3 +158,24 @@ com a frase do Norte e do Nordeste e uma foto oficial de anúncio, com `href` de
 | Preços do site por modelo | catálogo, 13/11 | verificado; reler |
 | Amazon: vendedor Damie Poltronas, Florença com as medidas do anúncio | Amazon, 13/11 | verificado; reler |
 | Assistência do site na compra do marketplace | nenhuma | pendência 2 |
+
+## DM1 refeito (14/11/2026)
+
+> **Realinhamento de 13 e 14/11/2026.** O briefing acima é o da primeira versão, que não foi ao ar. Vale o que está abaixo e a seção 6 de [[damie-marketplaces-1211]].
+
+Título novo, do Bruno: "Onde é melhor comprar sua nova DAMIE: no site oficial ou no Mercado Livre?". O texto abre pelo menor total e responde pelo que a pessoa quer: preço, parcelas, região e modelos fora do site.
+
+**Processo.** Texto completo em rascunho para o Bruno e para o Farol / ChatGPT (pasta `docs/auditoria-copy-artigos/damie-marketplaces-revisao-farol-20261113` do checkout principal), parecer conferido contra as fontes, e só então o JSON. Gates e build completo passaram no branch `claude/damie-marketplaces`.
+
+**Decisões do texto.**
+
+- A Florença do anúncio é a Reclinável 1.0 do site com outro nome (Bruno, 13/11): a tabela compara a mesma poltrona, manual em corino. Site com CECILIA12 e Pix, R$ 2.414,81; site com CECILIA12 em até 12 vezes, R$ 2.683,12 (o cupom vale no parcelado, Bruno, 14/11); anúncio, R$ 2.957 em até 24 vezes (lista do Bruno de 13/11). Conta sobre os R$ 3.049 do catálogo.
+- Os links `meli.la/2JpgBUN` e `meli.la/2xqP2UV` são a Florença em cores diferentes; a Elétrica Motor Tecido Conforto (`meli.la/1XAN4Lq`) é a 1.0 elétrica (Bruno, 14/11), R$ 3.733 em até 24 vezes pela mesma lista.
+- O texto avisa que os preços dos dois canais podem mudar sem aviso (pedido do Bruno) e manda somar o frete antes de decidir.
+- Do Farol: "faça a conta no site" no lugar de "compre no site", sem a frase da parcela pela metade, "O que considerar no site oficial" e o botão "Ver as poltronas no site da DAMIE". Não seguimos o Farol em tirar a comparação da mesma poltrona e o preço do anúncio: as respostas do Bruno resolveram os dois.
+- Acima de 12 vezes, só no cartão de crédito do próprio Mercado Livre; 12, 18 ou 24 vezes conforme o anúncio (Bruno, 13/11).
+- Amazon em uma linha, com o link da loja (`link.amazon/B0bCzZu4D`).
+
+**Capa e imagem.** As aprovadas pelo Bruno em 13/11: painel verde, "Site ou Mercado Livre?" e o CECILIA12, com a 2.0 bege do site; no corpo, a Elétrica Fixa bege do site.
+
+- Pendente: os preços dos anúncios são de 13/11 e não foram relidos em 14/11 (Chrome desconectado). Reler antes ou logo depois do deploy.

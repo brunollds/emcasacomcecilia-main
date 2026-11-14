@@ -224378,5 +224378,933 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 973,
+    "slug": "damie-mercado-livre-ou-site",
+    "locale": "pt",
+    "title": "Onde é melhor comprar sua nova DAMIE: no site oficial ou no Mercado Livre?",
+    "seoTitle": "DAMIE: site oficial ou Mercado Livre, onde comprar",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "13 de novembro de 2026",
+    "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-14",
+    "draft": false,
+    "isNew": true,
+    "description": "A mesma poltrona sai por menos no site, com o cupom e o Pix. O Mercado Livre ganha no parcelamento longo, na entrega para o Norte e o Nordeste e nos modelos que o site não tem.",
+    "metaDescription": "CECILIA12 dá 12% no site da DAMIE e soma com o Pix. Veja quando o Mercado Livre compensa: parcelas mais longas, Norte e Nordeste e modelos fora do site.",
+    "image": "/images/reviews/damie/damie-mercado-livre-ou-site-capa.webp",
+    "imageAlt": "Poltrona reclinável da DAMIE em suede bege, numa sala, ao lado do logo da DAMIE, da pergunta Site ou Mercado Livre? e do cupom CECILIA12.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "No site da DAMIE, digite CECILIA12 no campo de cupom do checkout: são 12%, que somam com o Pix. Confira a linha do desconto no resumo antes de pagar.",
+      "label": "Ver as regras do CECILIA12",
+      "url": "/cupons/damie"
+    },
+    "coupon": "CECILIA12",
+    "affiliate": "damie",
+    "editorialNote": "A DAMIE é parceira do site, e a Cecília recebeu a Reclinável 2.0. As contas usam os preços do site e dos anúncios; não compramos pelo Mercado Livre. Podemos receber comissão pelo cupom e pelos links.",
+    "relatedArticles": [
+      {
+        "slug": "poltronas-damie-no-mercado-livre"
+      },
+      {
+        "slug": "damie-prazo-de-entrega"
+      },
+      {
+        "slug": "poltrona-damie-e-boa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Quer pagar menos no total? Faça a conta no site da DAMIE: o cupom CECILIA12 dá 12% e soma com os 10% do Pix, e o frete é grátis no Sul e no Sudeste. O Mercado Livre compensa para parcelar em mais vezes, para receber no Norte e no Nordeste e para os modelos que o site não vende."
+        ]
+      },
+      {
+        "heading": "Qual canal combina com a sua compra",
+        "comparisonTable": {
+          "headers": [
+            "Você quer",
+            "Por onde começar",
+            "O que pesa"
+          ],
+          "rows": [
+            [
+              "Pagar menos por um modelo do site",
+              "Site",
+              "CECILIA12, Pix e o frete para o seu endereço"
+            ],
+            [
+              "Parcelar em mais de 12 vezes",
+              "Mercado Livre",
+              "As parcelas do anúncio e o cartão exigido"
+            ],
+            [
+              "Receber no Norte ou no Nordeste",
+              "Mercado Livre",
+              "O frete do anúncio para o seu CEP"
+            ],
+            [
+              "Uma manual que gira e balança, ou a Eames",
+              "Mercado Livre",
+              "Modelos que não estão no site"
+            ],
+            [
+              "Escolher couro, cor e opcionais",
+              "Site",
+              "O configurador de cada modelo"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "A mesma poltrona, nos dois canais",
+        "paragraphs": [
+          "A poltrona que o Mercado Livre anuncia como Florença é a Reclinável 1.0 do site, com outro nome. Por isso dá para comparar o preço da manual em corino nos dois canais."
+        ],
+        "comparisonTable": {
+          "caption": "Reclinável 1.0 manual, em corino: preço do produto, sem frete.",
+          "headers": [
+            "Onde",
+            "Total",
+            "Como paga"
+          ],
+          "rows": [
+            [
+              "Site, com CECILIA12 e Pix",
+              "R$ 2.414,81",
+              "À vista, no Pix"
+            ],
+            [
+              "Site, com CECILIA12",
+              "R$ 2.683,12",
+              "Até 12 vezes sem juros"
+            ],
+            [
+              "Mercado Livre, anúncio da Florença",
+              "R$ 2.957,00",
+              "Até 24 vezes sem juros"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A conta do site é nossa, sobre o preço de R$ 3.049 do catálogo: os 12% do cupom entram depois dos 10% do Pix, e juntos tiram 20,8%. O preço do anúncio é o de 13/11. Os preços dos dois canais podem mudar sem aviso: confira o resumo do pedido e o anúncio antes de pagar.",
+          "A Florença em corino tem anúncio em [uma cor](https://meli.la/2JpgBUN) e em [outra](https://meli.la/2xqP2UV): é a mesma poltrona.",
+          "Na elétrica, a conta é parecida. A Elétrica Base Fixa 1.0 em suede custa R$ 3.749 no site: R$ 2.969,21 com o cupom e o Pix, ou R$ 3.299,12 em até 12 vezes com o cupom. No Mercado Livre, a [Elétrica Motor Tecido Conforto](https://meli.la/1XAN4Lq), que também é a 1.0, estava por R$ 3.733 em até 24 vezes sem juros.",
+          "Some o frete antes de decidir. No Sul e no Sudeste, o site entrega com frete grátis; no Centro-Oeste, o frete do site sai pelo CEP no carrinho. No anúncio, o frete aparece quando você informa o CEP."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/damie/damie-mercado-livre-ou-site-eletrica-fixa-site.webp",
+            "alt": "Poltrona Reclinável Elétrica Base Fixa Damie 1.0 em suede bege, vista em perspectiva, com porta-copos nos braços e bolso lateral",
+            "caption": "A Elétrica Fixa do site, em suede bege: é nos modelos do site que o CECILIA12 vale. Imagem: DAMIE.",
+            "href": "https://damie.com.br",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver as poltronas no site da DAMIE",
+            "href": "https://damie.com.br",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Quando o Mercado Livre compensa",
+        "paragraphs": [
+          "**Para parcelar em mais vezes.** O site divide em até 12 vezes sem juros. Os anúncios da DAMIE aparecem com 12, 18 ou 24 vezes, conforme o anúncio, e acima de 12 vezes só no cartão de crédito do próprio Mercado Livre. A parcela fica menor e o total, maior: você paga o preço do anúncio, sem o cupom. Confira no anúncio o número de parcelas e se há juros.",
+          "**Para receber no Norte e no Nordeste.** A página de fretes da DAMIE diz que atende essas regiões “exclusivamente” pelos anúncios oficiais no Mercado Livre. O frete é o do anúncio para o seu CEP: na mesma consulta, a Florença tinha frete de R$ 214,99 para Salvador e de R$ 301,99 para Recife e Belém. O [guia de prazo de entrega da DAMIE](/reviews/damie-prazo-de-entrega) mostra como consultar.",
+          "**Para os modelos que o site não tem.** O site vende a manual só com base fixa. As manuais que giram e balançam, como a Colton e a Imperial, e a Eames elétrica estão nos anúncios. O guia das [poltronas DAMIE no Mercado Livre](/reviews/poltronas-damie-no-mercado-livre) mostra cada uma."
+        ],
+        "links": [
+          {
+            "label": "Ver as poltronas da DAMIE no Mercado Livre",
+            "href": "https://meli.la/2Uk6QB5",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "O que considerar no site oficial",
+        "paragraphs": [
+          "Além do preço com o CECILIA12, o site tem o configurador: você escolhe entre suede, corino importado e couro bovino, a cor e os opcionais de cada modelo. As regras do código estão na página do [cupom DAMIE](/cupons/damie).",
+          "A Reclinável 2.0, que a Cecília recebeu e avaliou no [teste da 2.0](/reviews/poltrona-damie-e-boa), a elétrica com elevação e a Levita também estão no site. A Levita tem anúncio no [Mercado Livre](https://meli.la/1FwHe2p), em couro bovino."
+        ]
+      },
+      {
+        "heading": "Garantia e assistência",
+        "paragraphs": [
+          "O site publica 1 ano de garantia, peças de reposição a preço de custo e 30 dias para experimentar em casa. Os anúncios do Mercado Livre informam 1 ano de garantia do vendedor.",
+          "As páginas não dizem se as peças a preço de custo e os 30 dias valem para a compra feita no anúncio. Se isso pesa na sua escolha, confirme com a DAMIE antes de pagar."
+        ]
+      },
+      {
+        "heading": "E na Amazon?",
+        "paragraphs": [
+          "A DAMIE também tem [loja na Amazon](https://link.amazon/B0bCzZu4D), com a Florença e outros modelos, em até 12 vezes sem juros. O CECILIA12 não vale lá: confira o modelo, o frete e o pagamento no anúncio."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A DAMIE vende no Mercado Livre? Sim, por anúncios oficiais da própria loja. Para o Norte e o Nordeste, é o canal que a DAMIE indica.",
+          "O cupom CECILIA12 vale no Mercado Livre? Não. Ele vale só no site da DAMIE, onde soma com o Pix.",
+          "A poltrona do Mercado Livre é a mesma do site? Depende do anúncio. A Florença e a Elétrica Motor Tecido Conforto são a Reclinável 1.0 do site com outro nome; a Colton, a Imperial e a Eames são modelos que o site não vende.",
+          "Onde a DAMIE sai mais barata? Para a mesma poltrona, a conta do site com o CECILIA12 e o Pix dá o menor preço do produto. Some o frete para o seu endereço antes de decidir.",
+          "Dá para parcelar a DAMIE em 24 vezes? Em anúncios do Mercado Livre, sim, no cartão de crédito do próprio Mercado Livre. No site, o limite é de 12 vezes sem juros."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Pelo site: você mora no Sul ou no Sudeste e quer pagar menos, com frete grátis, CECILIA12 e Pix.",
+        "Pelo site: você quer escolher revestimento, cor e opcionais no configurador.",
+        "Pelo Mercado Livre: você mora no Norte ou no Nordeste, precisa de mais de 12 parcelas ou quer um modelo que só está nos anúncios."
+      ],
+      "skipIf": [
+        "Não conte com o CECILIA12 no Mercado Livre: o cupom só vale no site.",
+        "Não escolha só pela parcela: em mais vezes, o total do anúncio fica acima do total do site com o cupom."
+      ]
+    }
+  },
+  {
+    "id": 974,
+    "slug": "poltronas-damie-no-mercado-livre",
+    "locale": "pt",
+    "title": "Poltronas DAMIE no Mercado Livre: modelos que você não encontra no site",
+    "seoTitle": "Poltronas DAMIE no Mercado Livre que o site não tem",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Conheça as poltronas manuais da DAMIE que giram e balançam e a elétrica Eames, no Mercado Livre. Compare movimentos, revestimentos e preços antes de escolher.",
+    "metaDescription": "CECILIA12 dá 12% no site da DAMIE. Conheça no Mercado Livre as manuais com giro e balanço e a Eames elétrica, com desenho diferente.",
+    "publishedAt": "13 de novembro de 2026",
+    "publishedAtISO": "2026-11-13",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/damie/poltronas-damie-no-mercado-livre-capa.webp",
+    "imageAlt": "Poltrona DAMIE Colton em linho cinza-claro, ao lado do logo da marca e da chamada Poltronas exclusivas no Mercado Livre.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Prefere uma poltrona do site? Lá o CECILIA12 dá 12% e soma com o desconto do Pix: digite o código no checkout e confira o resumo antes de pagar. Ele não vale nos anúncios do Mercado Livre.",
+      "label": "Ir para a DAMIE",
+      "url": "https://damie.com.br",
+      "sponsored": true
+    },
+    "coupon": "CECILIA12",
+    "affiliate": "damie",
+    "editorialNote": "A DAMIE é parceira do site. A Cecília recebeu a Reclinável 2.0, mas não testamos as poltronas deste guia. As informações vêm dos anúncios, e podemos receber comissão pelos links e pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "damie-mercado-livre-ou-site"
+      },
+      {
+        "slug": "damie-prazo-de-entrega"
+      },
+      {
+        "slug": "poltrona-damie-e-boa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "No Mercado Livre, a DAMIE oferece manuais com giro e balanço, como Colton e Imperial, além da Eames elétrica. A diferença das manuais para o catálogo do site é combinar os três movimentos sem motor; a Eames se destaca pelo desenho. O CECILIA12 dá 12% somente no site oficial."
+        ]
+      },
+      {
+        "heading": "Para reclinar, girar e balançar sem motor",
+        "paragraphs": [
+          "No catálogo do site, a manual tem base fixa; giro e balanço vêm nas versões elétricas. Os anúncios da Colton, em linho e em corino, e da Imperial reúnem outra combinação: reclinação manual, giro e balanço na mesma poltrona.",
+          "Essa é a principal razão para considerar essas poltronas. Você pode procurar primeiro o revestimento e o desenho que prefere, respeitando o peso máximo declarado para cada uma."
+        ],
+        "comparisonTable": {
+          "caption": "Preço total em 12 vezes sem juros no cartão Mercado Pago, como cada anúncio informa, sem frete.",
+          "headers": [
+            "Modelo",
+            "Revestimento",
+            "Peso máximo declarado",
+            "Preço total parcelado"
+          ],
+          "rows": [
+            [
+              "[Colton](https://meli.la/1mbWGjP)",
+              "Linho",
+              "140 kg",
+              "R$ 3.424"
+            ],
+            [
+              "[Imperial](https://meli.la/2MmXerq)",
+              "Linho",
+              "136 kg",
+              "R$ 3.058"
+            ],
+            [
+              "[Colton em corino](https://meli.la/29LXCut)",
+              "Corino importado",
+              "136 kg",
+              "R$ 3.359"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os preços são de 13/11. Cor e revestimento podem alterar o valor."
+        ]
+      },
+      {
+        "heading": "Colton: linho e almofada de cabeça",
+        "paragraphs": [
+          "A Colton tem assento de espuma D40 soft e suporta até 140 kg, segundo o anúncio. Nas fotos, ela tem uma almofada de cabeça na parte superior do encosto, que a Imperial não tem.",
+          "Se você quer linho e está comparando as duas, a Imperial tem o menor preço nesta leitura. A Colton entra na escolha pelo desenho do encosto e pelas especificações declaradas; a densidade da espuma, sozinha, não permite afirmar qual é mais confortável."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/damie/poltronas-damie-no-mercado-livre-colton-frente.webp",
+            "alt": "Poltrona DAMIE Colton em linho cinza-claro, vista de frente, com almofada de cabeça, alavanca lateral e porta-copos nos dois braços",
+            "caption": "A Colton em linho, na foto do anúncio. Imagem: DAMIE.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/damie/poltronas-damie-no-mercado-livre-colton-reclinada.webp",
+            "alt": "Poltrona DAMIE Colton em linho cinza-claro, reclinada, com o apoio dos pés aberto sobre a base giratória",
+            "caption": "A Colton reclinada, com a base giratória à mostra. Imagem: DAMIE.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver a Colton no Mercado Livre",
+            "href": "https://meli.la/1mbWGjP",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Imperial: o menor preço entre as manuais",
+        "paragraphs": [
+          "A Imperial em linho custa R$ 3.058 nesta comparação. O anúncio informa espuma D26 no assento e limite de 136 kg. Nas fotos, o encosto é liso, sem almofada de cabeça.",
+          "Para quem quer giro e balanço com abertura manual e prefere linho, é a opção de menor preço entre as três da tabela. Frete e variação escolhida ainda entram na conta final."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/damie/poltronas-damie-no-mercado-livre-imperial-frente.webp",
+            "alt": "Poltrona DAMIE Imperial em linho cinza-claro, vista de frente, com encosto liso, alavanca lateral e porta-copos nos dois braços",
+            "caption": "A Imperial em linho, na foto do anúncio. Imagem: DAMIE.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/damie/poltronas-damie-no-mercado-livre-imperial-reclinada.webp",
+            "alt": "Poltrona DAMIE Imperial em linho cinza-claro, reclinada, com o apoio dos pés aberto sobre a base giratória",
+            "caption": "A Imperial reclinada. Imagem: DAMIE.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver a Imperial no Mercado Livre",
+            "href": "https://meli.la/2MmXerq",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Colton em corino: outra opção de revestimento",
+        "paragraphs": [
+          "O anúncio “Cadeira de Balanço Giratória Manual Reclinável Tecido Corino” é o da Colton em corino importado. Ele informa assento D26 e limite de 136 kg; o da Colton em linho informa D40 soft e 140 kg.",
+          "O preço registrado foi de R$ 3.359. Se você prefere corino, essa é a opção para comparar com as duas manuais de linho. Para a limpeza, o anúncio orienta pano umedecido com água e, se preciso, sabão neutro.",
+          "A loja também anuncia a [Imperial em corino](https://meli.la/192LzPK): confira o preço e a ficha no anúncio."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/damie/poltronas-damie-no-mercado-livre-corino-frente.webp",
+            "alt": "Poltrona DAMIE Colton em corino preto, vista de frente, com almofada de cabeça, alavanca lateral e porta-copos nos dois braços",
+            "caption": "A Colton em corino, na foto do anúncio. Imagem: DAMIE.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/damie/poltronas-damie-no-mercado-livre-corino-reclinada.webp",
+            "alt": "Poltrona DAMIE Colton em corino preto, reclinada, com o apoio dos pés aberto sobre a base giratória",
+            "caption": "A Colton em corino reclinada. Imagem: DAMIE.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver a Colton em corino no Mercado Livre",
+            "href": "https://meli.la/29LXCut",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Imperial em corino no Mercado Livre",
+            "href": "https://meli.la/192LzPK",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Como funciona a abertura manual",
+        "paragraphs": [
+          "Os três anúncios descrevem reclinação por alavanca lateral, até 165 graus. Para reclinar, usa-se o peso do corpo; para fechar o apoio dos pés, é preciso empurrá-lo com as pernas.",
+          "A DAMIE informa nesses anúncios que não recomenda as manuais para uso pós-cirúrgico, pessoas com limitações de movimento ou idosos com dificuldade de locomoção. Se você precisa evitar esse esforço, confirme com o vendedor como funciona a abertura e o fechamento do modelo que pretende comprar."
+        ]
+      },
+      {
+        "heading": "Eames: elétrica com braços retos e porta-copos",
+        "paragraphs": [
+          "A Eames é uma elétrica de base fixa, sem giro ou balanço. O anúncio informa reclinação até 165 graus, com parada em qualquer posição, assento de espuma D40 soft e peso máximo de 140 kg. A variação selecionada é em suede.",
+          "O preço total registrado foi de R$ 3.658, na mesma condição de parcelamento da tabela.",
+          "O diferencial visível nas fotos está nos braços retos, com porta-copos na parte superior. A função elétrica também existe nas linhas do site; a Eames interessa a quem prefere esse desenho.",
+          "O anúncio permite escolher acionamento por botões ou controle e orienta combinar a opção pelo chat após a compra. Pergunte antes de pagar quais alternativas estão disponíveis e como registrar a escolha."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/damie/poltronas-damie-no-mercado-livre-eames-frente.webp",
+            "alt": "Poltrona DAMIE Eames elétrica em suede preto, vista de frente, com braços retos e porta-copos na parte superior",
+            "caption": "A Eames em suede, na foto do anúncio. Imagem: DAMIE.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/damie/poltronas-damie-no-mercado-livre-eames-reclinada.webp",
+            "alt": "Poltrona DAMIE Eames elétrica em suede preto, reclinada, com o apoio dos pés aberto",
+            "caption": "A Eames reclinada. Imagem: DAMIE.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver a Eames no Mercado Livre",
+            "href": "https://meli.la/1jyqjmj",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Medidas, montagem e garantia",
+        "paragraphs": [
+          "Os anúncios informam 91 × 80 × 84 cm para a caixa, não para a poltrona montada. Peça ao vendedor largura, profundidade e altura do móvel, além do espaço ocupado com o encosto reclinado. Confira também o caminho até o cômodo em que ela vai ficar.",
+          "As descrições apresentam estrutura de madeira multilaminada de eucalipto, molas zig-zag e pocket no assento e percintas elásticas no encosto. Esses dados descrevem a construção; não substituem uma experiência de uso.",
+          "A garantia anunciada é de um ano, e a montagem é por encaixe, feita por quem compra, com manual por código QR. Os anúncios pedem que a embalagem original seja guardada: sem ela, a loja diz que não faz a coleta de devolução."
+        ]
+      },
+      {
+        "heading": "Preço final e cupom",
+        "paragraphs": [
+          "Os valores deste guia são os totais parcelados dos anúncios selecionados. Antes de comprar, confira a cor, o revestimento, o frete e as condições de pagamento disponíveis para você.",
+          "O CECILIA12 dá 12% no site oficial e soma com o desconto do Pix. Ele não se aplica aos anúncios do Mercado Livre. As regras estão na página do [cupom DAMIE](/cupons/damie).",
+          "Se você também considera uma poltrona do site, o [comparativo entre site e Mercado Livre](/reviews/damie-mercado-livre-ou-site) ajuda a avaliar os canais."
+        ]
+      },
+      {
+        "heading": "Onde comprar",
+        "paragraphs": [
+          "Use os links dos modelos para chegar ao anúncio correspondente e confira se o vendedor é a DAMIE. Informe seu CEP para consultar frete e previsão de entrega. O [guia de entrega da DAMIE](/reviews/damie-prazo-de-entrega) explica como consultar o prazo e se preparar para receber.",
+          "Para escolher: Imperial para o menor preço registrado entre as manuais; Colton para quem prefere a almofada de cabeça; a Colton em corino para quem busca esse revestimento; Eames para quem quer acionamento elétrico e o desenho com porta-copos."
+        ],
+        "links": [
+          {
+            "label": "Ver as poltronas da DAMIE no Mercado Livre",
+            "href": "https://meli.la/2Uk6QB5",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A DAMIE tem poltrona manual giratória? Tem, no Mercado Livre: os anúncios da Colton, em linho e em corino, e da Imperial combinam reclinação manual, giro e balanço. No site, giro e balanço só aparecem nas elétricas.",
+          "Qual das manuais deste guia tem o menor preço? A Imperial em linho, a R$ 3.058 na condição registrada. Compare o frete e a variação escolhida antes de fechar o pedido.",
+          "A Eames gira e balança? O anúncio selecionado é da Eames elétrica de base fixa, sem giro ou balanço.",
+          "O cupom CECILIA12 vale no Mercado Livre? Não. Ele dá 12% no site oficial da DAMIE e não entra nos anúncios.",
+          "Qual é o tamanho dessas poltronas? Os anúncios informam só as medidas da caixa, de 91 × 80 × 84 cm. Peça ao vendedor as medidas da poltrona montada e reclinada antes de comprar."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 975,
+    "slug": "damie-prazo-de-entrega",
+    "title": "Prazo de entrega da DAMIE: quanto demora e como consultar",
+    "seoTitle": "Prazo de entrega da DAMIE: quanto demora",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O prazo da DAMIE varia por endereço e canal. Veja como consultar antes de comprar, exemplos em quatro capitais e as orientações para receber a poltrona em casa.",
+    "metaDescription": "CECILIA12 dá 12% no site da DAMIE. Veja como consultar o prazo de entrega antes de comprar, exemplos por capital e como é o recebimento da poltrona.",
+    "publishedAt": "13 de novembro de 2026",
+    "publishedAtISO": "2026-11-13",
+    "draft": false,
+    "isNew": true,
+    "locale": "pt",
+    "image": "/images/reviews/damie/damie-prazo-de-entrega-capa.webp",
+    "imageAlt": "Poltrona reclinável da DAMIE em suede cinza, reclinada, ao lado do logo da DAMIE, do título Prazo de entrega e do cupom CECILIA12.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "No site, o frete aparece no cálculo com o seu CEP antes de você pagar. Use CECILIA12 no campo de cupom.",
+      "label": "Ver o cupom CECILIA12 da DAMIE",
+      "url": "/cupons/damie"
+    },
+    "coupon": "CECILIA12",
+    "affiliate": "damie",
+    "editorialNote": "A DAMIE é parceira do site, e a Cecília recebeu a Reclinável 2.0. As regras vêm das páginas da DAMIE, e os exemplos de previsão, de consultas aos anúncios, sem compra. Podemos receber comissão pelo cupom e pelos links.",
+    "relatedArticles": [
+      {
+        "slug": "damie-mercado-livre-ou-site"
+      },
+      {
+        "slug": "damie-norte-nordeste"
+      },
+      {
+        "slug": "poltronas-damie-no-mercado-livre"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O prazo da DAMIE depende do endereço e do canal de compra. No site, a contagem começa após a confirmação do pagamento: consulte a página do produto ou o carrinho e, se não houver previsão, fale com o atendimento. No Mercado Livre, informe o seu CEP no anúncio para ver a data estimada."
+        ]
+      },
+      {
+        "heading": "Onde consultar o prazo antes de comprar",
+        "comparisonTable": {
+          "headers": [
+            "Onde você compra",
+            "Como consultar",
+            "O que conferir"
+          ],
+          "rows": [
+            [
+              "Site da DAMIE",
+              "“Consulte sua entrega”, na página do produto, e o cálculo do frete no carrinho",
+              "Prazo e condições para o estado e o CEP de entrega"
+            ],
+            [
+              "Site, sem previsão na tela",
+              "Atendimento da DAMIE pelo WhatsApp",
+              "Previsão para o modelo e o endereço escolhidos"
+            ],
+            [
+              "Mercado Livre",
+              "Campo de CEP do anúncio, com a variação selecionada",
+              "Frete e data estimada de chegada"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No site, a consulta da página do produto lista os estados do Sul, do Sudeste e do Centro-Oeste. Se ela encaminhar ao vendedor ou não mostrar previsão, fale com o atendimento antes de pagar. A página de fretes diz que os prazos variam por região e aparecem no cálculo do frete."
+        ]
+      },
+      {
+        "heading": "Quanto custa o frete no site",
+        "paragraphs": [
+          "O frete é grátis em poltronas e sofás com entrega no Sul e no Sudeste. No Centro-Oeste, ele é calculado pelo CEP no carrinho. O valor considera o tamanho e o peso do produto e a distância.",
+          "O CECILIA12 dá 12% no site e soma com o desconto do Pix; as regras estão na página do [cupom DAMIE](/cupons/damie)."
+        ],
+        "links": [
+          {
+            "label": "Ver as poltronas no site da DAMIE",
+            "href": "https://damie.com.br",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Exemplos de previsão no Mercado Livre",
+        "paragraphs": [
+          "No anúncio, a data estimada aparece quando você informa o CEP. A tabela reúne exemplos dos anúncios da [Elétrica Motor Tecido Conforto](https://meli.la/1XAN4Lq) e da [Florença manual](https://meli.la/2JpgBUN), para um CEP do centro de cada capital.",
+          "Os dias são corridos, contados de 13/11, o dia da consulta, até a data de chegada que o Mercado Livre estimou para cada anúncio e CEP. São exemplos daquela consulta, não um prazo contado a partir de uma nova compra. “Não consultado” indica uma combinação sem registro."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Capital",
+            "Elétrica Motor Tecido Conforto",
+            "Florença manual"
+          ],
+          "rows": [
+            [
+              "São Paulo",
+              "Grátis, em 6 dias",
+              "Grátis, em 6 dias"
+            ],
+            [
+              "Belo Horizonte",
+              "Grátis, em 8 dias",
+              "Não consultado"
+            ],
+            [
+              "Brasília",
+              "Grátis, em 10 dias",
+              "Grátis, em 10 dias"
+            ],
+            [
+              "Porto Alegre",
+              "Grátis, em 13 dias",
+              "Grátis, em 13 dias"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na sua compra, confira a previsão do anúncio para o seu endereço: a estimativa pode mudar. Para as capitais do Norte e do Nordeste, os exemplos e o caminho da compra estão no guia [DAMIE no Norte e no Nordeste](/reviews/damie-norte-nordeste)."
+        ]
+      },
+      {
+        "heading": "Quando o prazo começa a contar",
+        "paragraphs": [
+          "Nas compras pelo site, a DAMIE informa que o prazo começa após a confirmação do pagamento, não no dia do pedido. No despacho, a marca envia a nota fiscal e o código de rastreio.",
+          "Se você precisa da poltrona para uma data certa, confirme a previsão com a DAMIE antes de pagar. Na compra pelo Mercado Livre, acompanhe a estimativa e as atualizações do próprio pedido."
+        ]
+      },
+      {
+        "heading": "Como é o dia da entrega",
+        "paragraphs": [
+          "Estas são as regras que a DAMIE publica para as compras pelo site:"
+        ],
+        "bullets": [
+          "**Quem entrega.** Transportadora especializada em móveis, com seguro incluso, em horário comercial.",
+          "**Até onde vai.** Até a porta de casa; em prédio, até o hall de entrada. Confira o acesso pelo elevador ou pela escada.",
+          "**Conferência.** Veja o produto na hora, com a transportadora esperando. Com avaria ou divergência, a DAMIE orienta recusar o recebimento e faz novo envio.",
+          "**Quem recebe.** Pode ser outra pessoa, informada no pedido com nome completo e CPF ou RG.",
+          "**Montagem.** Feita pelo cliente, por encaixe, sem ferramentas."
+        ],
+        "postParagraphs": [
+          "A página da Elétrica Fixa 1.0 informa passagem por portas de 65 cm. Para outro modelo, confirme as medidas, e meça também o caminho até o cômodo antes da entrega.",
+          "Na compra pelo Mercado Livre, pergunte no anúncio até onde a entrega vai e como é a montagem do pedido que você pretende fazer."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/damie/damie-prazo-de-entrega-eletrica-fixa-frente.webp",
+            "alt": "Poltrona Reclinável Elétrica Base Fixa Damie 1.0 em suede bege, vista de frente",
+            "caption": "A Elétrica Fixa 1.0 do site: a página dela informa passagem por portas de 65 cm. Imagem: DAMIE.",
+            "href": "https://damie.com.br",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quanto tempo a DAMIE demora para entregar? O prazo depende do endereço e do canal. No site, consulte a página do produto ou o carrinho; se não houver previsão, fale com o atendimento. No Mercado Livre, informe o CEP no anúncio.",
+          "O frete da DAMIE é grátis? No Sul e no Sudeste, sim, para poltronas e sofás comprados no site. No Centro-Oeste, ele é calculado pelo CEP. No Mercado Livre, confira o frete do anúncio escolhido.",
+          "A DAMIE entrega no Norte e no Nordeste? A marca atende essas regiões pelos anúncios oficiais no Mercado Livre. Informe o seu CEP no anúncio para ver a entrega, o frete e a previsão.",
+          "A DAMIE monta a poltrona? Nas compras pelo site, a montagem é do cliente, por encaixe e sem ferramentas. Na compra pelo Mercado Livre, confirme no anúncio.",
+          "A entrega sobe até o apartamento? Nas compras pelo site, a entrega vai até o hall do prédio. No Mercado Livre, confirme até onde ela vai antes de comprar."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-14",
+    "decision": {
+      "takeIf": [
+        "A previsão que apareceu para o seu endereço atende à data em que você precisa da poltrona.",
+        "Você mediu a porta, o elevador ou a escada e o caminho até o cômodo.",
+        "Você combinou quem recebe a transportadora e conferiu como é a montagem do seu pedido."
+      ],
+      "skipIf": [
+        "A tela não mostrou previsão para o seu endereço: fale com o atendimento da DAMIE antes de pagar.",
+        "Você precisa da poltrona numa data certa: confirme o prazo com a DAMIE antes de fechar."
+      ]
+    }
+  },
+  {
+    "id": 976,
+    "slug": "damie-norte-nordeste",
+    "locale": "pt",
+    "title": "DAMIE no Norte e no Nordeste: como comprar pelo Mercado Livre",
+    "seoTitle": "DAMIE entrega no Norte e no Nordeste? Como comprar",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "14 de novembro de 2026",
+    "publishedAtISO": "2026-11-14",
+    "updatedAt": "2026-11-14",
+    "draft": false,
+    "isNew": true,
+    "description": "A DAMIE orienta comprar pelo Mercado Livre no Norte e no Nordeste. Conheça os modelos, veja exemplos de frete em oito capitais e saiba o que conferir antes de fechar o pedido.",
+    "metaDescription": "CECILIA12 dá 12% só no site da DAMIE. No Norte e no Nordeste, a compra é pelo Mercado Livre: veja os modelos, o frete por capital e o parcelamento.",
+    "image": "/images/reviews/damie/damie-norte-nordeste-capa.webp",
+    "imageAlt": "Poltrona reclinável da DAMIE em corino preto, ao lado do logo da DAMIE, do título Norte e Nordeste e da etiqueta pelo Mercado Livre.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "O CECILIA12 dá 12% no site oficial da DAMIE e soma com o desconto do Pix. Ele não vale nos anúncios do Mercado Livre.",
+      "label": "Ir para a DAMIE",
+      "url": "https://damie.com.br",
+      "sponsored": true
+    },
+    "coupon": "CECILIA12",
+    "affiliate": "damie",
+    "editorialNote": "A DAMIE é parceira do site, e a Cecília recebeu a Reclinável 2.0. As informações e os exemplos de entrega vêm de consultas aos anúncios, sem compra. Podemos receber comissão pelos links e pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "damie-mercado-livre-ou-site"
+      },
+      {
+        "slug": "poltronas-damie-no-mercado-livre"
+      },
+      {
+        "slug": "damie-prazo-de-entrega"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "A poltrona vai para um endereço do Norte ou do Nordeste: o caminho que a DAMIE indica é o anúncio oficial no Mercado Livre.",
+        "O frete e a previsão que o anúncio mostra para o seu CEP cabem no seu plano."
+      ],
+      "skipIf": [
+        "O anúncio não mostra opção de entrega para o seu CEP: pergunte à DAMIE pelo anúncio antes de pagar.",
+        "As peças a preço de custo e os 30 dias do site são decisivos para você: confirme com a marca se valem na compra pelo anúncio."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para comprar DAMIE no Norte ou no Nordeste, a marca orienta usar os anúncios oficiais dela no Mercado Livre. Escolha o modelo e informe o seu CEP no anúncio para ver se há entrega, o frete e a previsão. O cupom CECILIA12 vale só no site, então nessa compra conta o preço do anúncio."
+        ]
+      },
+      {
+        "heading": "Por onde começar a compra",
+        "paragraphs": [
+          "A página de fretes da DAMIE diz que atende o Norte e o Nordeste “exclusivamente pelos nossos anúncios oficiais no Mercado Livre”. O frete e o prazo aparecem quando você simula o CEP dentro do anúncio.",
+          "Comece pela loja da DAMIE e abra a poltrona que você quer. Selecione a cor e o revestimento, informe o CEP e confira o vendedor e o valor final antes de pagar."
+        ],
+        "links": [
+          {
+            "label": "Ver a loja da DAMIE no Mercado Livre",
+            "href": "https://meli.la/2Uk6QB5",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Que poltronas você pode procurar",
+        "paragraphs": [
+          "Os anúncios incluem manuais, elétricas e modelos com giro e balanço. Estes são exemplos para começar a escolha."
+        ],
+        "comparisonTable": {
+          "caption": "Preço do produto no anúncio, sem frete.",
+          "headers": [
+            "Você procura",
+            "Anúncio para conferir",
+            "Preço registrado"
+          ],
+          "rows": [
+            [
+              "Reclinável manual em corino",
+              "[Florença](https://meli.la/2JpgBUN)",
+              "R$ 2.957"
+            ],
+            [
+              "Reclinável elétrica em tecido",
+              "[Elétrica Motor Tecido Conforto](https://meli.la/1XAN4Lq)",
+              "R$ 3.733"
+            ],
+            [
+              "Elétrica com elevação",
+              "[Elétrica com elevação](https://meli.la/1g13bq9)",
+              "R$ 4.958"
+            ],
+            [
+              "Elétrica em couro bovino",
+              "[Levita](https://meli.la/1FwHe2p)",
+              "R$ 7.400"
+            ],
+            [
+              "Manual com giro e balanço",
+              "[Colton](https://meli.la/1mbWGjP) ou [Imperial](https://meli.la/2MmXerq)",
+              "Veja no guia dos modelos"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os preços são os que registramos nos anúncios e podem mudar sem aviso: confira o preço e a condição de pagamento da variação que você escolher.",
+          "Se você quer girar e balançar sem motor, vale olhar a Colton e a Imperial. O guia das [poltronas DAMIE no Mercado Livre](/reviews/poltronas-damie-no-mercado-livre) mostra essas opções e a Eames elétrica."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/damie/poltronas-damie-florenca-anuncio-frente.webp",
+            "alt": "Poltrona Damie Florença manual em corino preto, vista de frente, com porta-copos nos dois braços",
+            "caption": "A Florença manual em corino, na foto do anúncio do Mercado Livre. Imagem: DAMIE.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Exemplos de frete no Nordeste",
+        "paragraphs": [
+          "O frete muda bastante de uma poltrona para outra: confira a entrega de cada modelo que você está considerando. As tabelas mostram o frete e a previsão de entrega para um CEP do centro de cada capital, numa consulta de 13/11. “Não consultado” quer dizer que não temos registro daquela combinação."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Capital",
+            "Elétrica Motor Tecido Conforto",
+            "Florença manual",
+            "Levita"
+          ],
+          "rows": [
+            [
+              "Salvador",
+              "R$ 172,99, em 10 dias",
+              "R$ 214,99, em 10 dias",
+              "Grátis, em 10 dias"
+            ],
+            [
+              "Recife",
+              "R$ 252,99, em 12 dias",
+              "R$ 301,99, em 12 dias",
+              "Grátis, em 12 dias"
+            ],
+            [
+              "Fortaleza",
+              "R$ 252,99, em 12 dias",
+              "R$ 301,99, em 12 dias",
+              "Não consultado"
+            ],
+            [
+              "Teresina",
+              "R$ 252,99, em 16 dias",
+              "Não consultado",
+              "Não consultado"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Exemplos de frete no Norte",
+        "comparisonTable": {
+          "headers": [
+            "Capital",
+            "Elétrica Motor Tecido Conforto",
+            "Florença manual",
+            "Levita"
+          ],
+          "rows": [
+            [
+              "Belém",
+              "R$ 252,99, em 9 dias",
+              "R$ 301,99, em 9 dias",
+              "Grátis, em 9 dias"
+            ],
+            [
+              "Porto Velho",
+              "Grátis, em 16 dias",
+              "R$ 149,99, em 16 dias",
+              "Grátis, em 16 dias"
+            ],
+            [
+              "Rio Branco",
+              "Grátis, em 13 dias",
+              "R$ 149,99, em 13 dias",
+              "Grátis, em 13 dias"
+            ],
+            [
+              "Palmas",
+              "Grátis, em 15 dias",
+              "R$ 149,99, em 15 dias",
+              "Grátis, em 15 dias"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os dias são a previsão que o Mercado Livre deu no dia da consulta para aqueles endereços, não um prazo garantido: vale o que o anúncio mostrar para o seu CEP.",
+          "A Levita teve frete grátis nos seis CEPs em que foi pesquisada. Isso não faz dela a compra mais barata: compare o preço da poltrona somado à entrega.",
+          "Para Manaus, Macapá, Boa Vista ou qualquer outra cidade, informe o seu CEP no anúncio e confira as opções para a compra que você pretende fazer."
+        ]
+      },
+      {
+        "heading": "O que conferir antes de pagar",
+        "bullets": [
+          "**Vendedor e produto.** Confira se a venda é da DAMIE e se o anúncio é o do modelo que você escolheu.",
+          "**Cor e revestimento.** Selecione a variação antes de comparar valores: ela pode mudar o preço e a entrega.",
+          "**Seu CEP.** Veja se há entrega, quanto custa e qual é a previsão. Se não aparecer opção, pergunte à DAMIE pelo anúncio antes de fechar.",
+          "**Parcelamento.** Os anúncios da DAMIE aparecem com 12, 18 ou 24 vezes, conforme o anúncio; acima de 12 vezes, só no cartão de crédito do próprio Mercado Livre. Confira as parcelas, se há juros e o total.",
+          "**Espaço.** Confira as medidas no anúncio e o caminho até o cômodo. A Florença manual mede 87 cm de largura, 95 cm de profundidade e 110 cm de altura, pelo anúncio."
+        ]
+      },
+      {
+        "heading": "Garantia, assistência e recebimento",
+        "paragraphs": [
+          "Os anúncios informam 1 ano de garantia do vendedor. O site da DAMIE também publica peças de reposição a preço de custo e 30 dias para experimentar em casa; se essas duas condições valem para a compra pelo Mercado Livre, confirme com a marca.",
+          "Pergunte no anúncio como é o recebimento no seu endereço, até onde a entrega vai e quem monta a poltrona: as regras que a DAMIE publica são as das compras pelo site. O [guia de prazo de entrega da DAMIE](/reviews/damie-prazo-de-entrega) explica como consultar a previsão e se preparar para receber."
+        ]
+      },
+      {
+        "heading": "O CECILIA12 vale nessa compra?",
+        "paragraphs": [
+          "O CECILIA12 dá 12% no site oficial da DAMIE e não vale no Mercado Livre. As regras do código estão na página do [cupom DAMIE](/cupons/damie), e a comparação entre os dois canais, no guia [site oficial ou Mercado Livre](/reviews/damie-mercado-livre-ou-site)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A DAMIE entrega no Nordeste? A marca atende a região pelos anúncios oficiais dela no Mercado Livre. Informe o seu CEP no anúncio para ver a entrega, o frete e a previsão.",
+          "A DAMIE entrega no Norte? O caminho que a marca indica também é o Mercado Livre. A entrega se confere pelo CEP, no anúncio da poltrona que você quer.",
+          "O site da DAMIE entrega no Norte e no Nordeste? Não. A página de fretes diz que essas regiões são atendidas exclusivamente pelos anúncios oficiais no Mercado Livre.",
+          "O CECILIA12 vale no Mercado Livre? Não. Ele dá 12% somente no site oficial da DAMIE.",
+          "Como saber o prazo para a minha cidade? Escolha a variação da poltrona e informe o seu CEP no anúncio. Se não aparecer opção, pergunte à DAMIE antes de pagar."
+        ],
+        "links": [
+          {
+            "label": "Ver a loja da DAMIE no Mercado Livre",
+            "href": "https://meli.la/2Uk6QB5",
+            "sponsored": true
+          }
+        ]
+      }
+    ]
   }
 ];

@@ -1,15 +1,15 @@
 ---
-titulo_provisorio: "Poltrona DAMIE Florença, Levita, Moon e Nina: os modelos dos marketplaces, pela ficha"
-seo_title: "Poltrona DAMIE Florença, Levita e Moon: o que são"
-slug_sugerido: "poltronas-damie-florenca-levita-moon"
+titulo_provisorio: "Poltronas DAMIE no Mercado Livre: modelos que você não encontra no site"
+seo_title: "Poltronas DAMIE no Mercado Livre que o site não tem"
+slug_sugerido: "poltronas-damie-no-mercado-livre"
 parceiro: "[[DAMIE]]"
 parceiro_slug: "damie"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2); melhor com a descrição do assento pelo Bruno"
+proxima_acao: "PR e deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "DM3 (reformulada em 13/11 pelos nomes dos modelos)"
@@ -132,3 +132,19 @@ modelo, com `href` de afiliado.
 | O site não tem Florença nem Nina | busca do site, 12/11 | verificado; reler |
 | Modelos de marketplace diferentes, mesmo com nome igual | Bruno, 12/11 | informação da parceria |
 | Nina | busca da Amazon, 12/11 | anúncio não aberto |
+
+## DM3 refeito (13/11/2026)
+
+> **Realinhamento de 13 e 14/11/2026.** O briefing acima é o da primeira versão, que não foi ao ar. Vale o que está abaixo e a seção 6 de [[damie-marketplaces-1211]].
+
+O guia "Florença, Levita e Moon" nunca foi ao ar. Motivo: a Florença é a Reclinável 1.0 do site com outro nome, a Levita está no site e a Moon saiu de linha (Bruno, 13/11). O artigo novo, `poltronas-damie-no-mercado-livre` (id 974), mostra o que de fato não está no site: as manuais com giro e balanço (Colton em linho, Colton em corino e Imperial) e a Eames elétrica.
+
+**Processo.** Texto completo em rascunho para o Bruno e para o Farol / ChatGPT (pasta `docs/auditoria-copy-artigos/damie-marketplaces-revisao-farol-20261113` do checkout principal), parecer conferido contra as fontes, e só então o JSON. Gates e build completo passaram no branch `claude/damie-marketplaces`.
+
+- Links: Colton `meli.la/1mbWGjP`, Imperial `meli.la/2MmXerq`, Colton em corino `meli.la/29LXCut` (o anúncio "Cadeira de Balanço Giratória Manual Reclinável Tecido Corino"), Imperial em corino `meli.la/192LzPK`, Eames `meli.la/1jyqjmj`.
+- Colton e Imperial descritas pelas fotos dos anúncios; a ficha da Colton em corino (D26, 136 kg) difere da em linho (D40 soft, 140 kg).
+- "Pós-cirúrgico" nunca entra como recomendação nossa. "Exclusivas do Mercado Livre" só na capa aprovada ("Poltronas exclusivas" + "no Mercado Livre"); o título diz "que você não encontra no site".
+- O `cta` aponta para o site, para o "Ir para a loja" dos recortes do CECILIA12 não ir ao Mercado Livre.
+- Capa B e 8 fotos dos anúncios aprovadas pelo Bruno e no CDN.
+
+- Pendente: a capa antiga `poltronas-damie-florenca-levita-moon-capa.webp` segue no repositório e no CDN, sem uso.

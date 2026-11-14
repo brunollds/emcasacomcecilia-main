@@ -1,15 +1,15 @@
 ---
-titulo_provisorio: "Prazo de entrega da DAMIE: site e Mercado Livre, região por região"
-seo_title: "Prazo de entrega da DAMIE: quanto demora e quanto custa"
+titulo_provisorio: "Prazo de entrega da DAMIE: quanto demora e como consultar"
+seo_title: "Prazo de entrega da DAMIE: quanto demora"
 slug_sugerido: "damie-prazo-de-entrega"
 parceiro: "[[DAMIE]]"
 parceiro_slug: "damie"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2), depois da DM1"
+proxima_acao: "PR e deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
 bloqueado_por: "-"
 data_criacao: "2026-11-13"
 pauta_id: "DM2 (reformulada em 13/11: a busca é de prazo, não de região)"
@@ -122,3 +122,22 @@ Capa: logo da DAMIE e uma poltrona embalada ou a da página de fretes, sem preç
 | "Passa em portas de 65 cm"; "98% das entregas no prazo ou antes" | página da elétrica fixa, 13/11 | frase da DAMIE, com atribuição |
 | Frete e data por capital no Mercado Livre | API do Mercado Livre, 13/11 | verificado; reler |
 | Manaus, Macapá e Boa Vista | API sem opção | não afirmar |
+
+## DM2 refeito (14/11/2026)
+
+> **Realinhamento de 13 e 14/11/2026.** O briefing acima é o da primeira versão, que não foi ao ar. Vale o que está abaixo e a seção 6 de [[damie-marketplaces-1211]].
+
+O guia ficou só com a entrega: onde consultar o prazo antes de comprar, o frete do site, exemplos de previsão em quatro capitais, quando o prazo começa a contar e o dia da entrega.
+
+**Processo.** Texto completo em rascunho para o Bruno e para o Farol / ChatGPT (pasta `docs/auditoria-copy-artigos/damie-marketplaces-revisao-farol-20261113` do checkout principal), parecer conferido contra as fontes, e só então o JSON. Gates e build completo passaram no branch `claude/damie-marketplaces`.
+
+**Decisões do texto.**
+
+- Saíram as faixas de 4 a 8 e de 5 a 10 dias úteis: a página da Elétrica Fixa 1.0 lida em 13/11 não as mostra mais; ela tem o "Consulte sua entrega" por estado e manda falar com o vendedor pelo WhatsApp.
+- A tabela ficou com São Paulo, Belo Horizonte, Brasília e Porto Alegre; Norte e Nordeste foram para o [[damie-norte-nordeste]]. As previsões vão em dias corridos contados de 13/11 (decisão do Bruno), com a frase de que são exemplos daquela consulta.
+- Os 65 cm de porta são da página da Elétrica Fixa 1.0, não de toda a linha (Farol).
+- Hall do prédio, conferência e montagem são regras das compras pelo site; o FAQ diz isso e manda confirmar no anúncio na compra pelo Mercado Livre (Farol).
+- Os "98% das entregas no prazo" ficaram fora: não informam a previsão da compra de quem lê (Farol).
+- Saiu o capítulo de escolha de canal, que é do DM1.
+
+**Capa e imagem.** As aprovadas em 13/11: "Prazo de entrega" com o CECILIA12 e a manual cinza reclinada; no corpo, a Elétrica Fixa de frente.
