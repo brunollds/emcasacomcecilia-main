@@ -224857,8 +224857,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 975,
     "slug": "damie-prazo-de-entrega",
-    "title": "Prazo de entrega da DAMIE: site e Mercado Livre, região por região",
-    "seoTitle": "Prazo de entrega da DAMIE: quanto demora e quanto custa",
+    "title": "Prazo de entrega da DAMIE: quanto demora e como consultar",
+    "seoTitle": "Prazo de entrega da DAMIE: quanto demora",
     "type": "Guia de Compra",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -224869,15 +224869,15 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quantos dias úteis a poltrona da DAMIE leva para chegar pelo site, o frete e a previsão de entrega do Mercado Livre em 12 capitais e o que conferir no dia da entrega.",
-    "metaDescription": "CECILIA12 dá 12% no site da DAMIE, com frete grátis no Sul e no Sudeste. Veja o prazo e o frete do Mercado Livre nas outras regiões e como é a entrega.",
+    "description": "O prazo da DAMIE varia por endereço e canal. Veja como consultar antes de comprar, exemplos em quatro capitais e as orientações para receber a poltrona em casa.",
+    "metaDescription": "CECILIA12 dá 12% no site da DAMIE. Veja como consultar o prazo de entrega antes de comprar, exemplos por capital e como é o recebimento da poltrona.",
     "publishedAt": "13 de novembro de 2026",
     "publishedAtISO": "2026-11-13",
     "draft": false,
     "isNew": true,
     "locale": "pt",
     "image": "/images/reviews/damie/damie-prazo-de-entrega-capa.webp",
-    "imageAlt": "Logo da DAMIE e uma poltrona da marca, ao lado da chamada Prazo de entrega da DAMIE.",
+    "imageAlt": "Poltrona reclinável da DAMIE em suede cinza, reclinada, ao lado do logo da DAMIE, do título Prazo de entrega e do cupom CECILIA12.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -224889,182 +224889,136 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "A DAMIE é parceira do site. Feito com a página de fretes dela e o frete dos anúncios do Mercado Livre, sem compra. Podemos receber comissão pelo cupom e pelos links.",
+    "editorialNote": "A DAMIE é parceira do site, e a Cecília recebeu a Reclinável 2.0. As regras vêm das páginas da DAMIE, e os exemplos de previsão, de consultas aos anúncios, sem compra. Podemos receber comissão pelo cupom e pelos links.",
     "relatedArticles": [
       {
         "slug": "damie-mercado-livre-ou-site"
       },
       {
-        "slug": "poltronas-damie-no-mercado-livre"
+        "slug": "damie-norte-nordeste"
       },
       {
-        "slug": "poltrona-damie-e-boa"
+        "slug": "poltronas-damie-no-mercado-livre"
       }
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "No Sul e no Sudeste, o site tem frete grátis em poltronas e sofás, e as páginas de produto informam de 4 a 10 dias úteis, dependendo do estado. No Norte e no Nordeste, a compra é pelo Mercado Livre, e o frete e a previsão mudam por anúncio: as tabelas por capital mostram os dois."
+          "O prazo da DAMIE depende do endereço e do canal de compra. No site, a contagem começa após a confirmação do pagamento: consulte a página do produto ou o carrinho e, se não houver previsão, fale com o atendimento. No Mercado Livre, informe o seu CEP no anúncio para ver a data estimada."
         ]
       },
       {
-        "heading": "Prazo e frete no site",
-        "paragraphs": [
-          "Pelo site, as páginas de produto da elétrica fixa e da elevação informavam 4 a 8 dias úteis para SP, PR, SC e RS, e 5 a 10 para RJ, MG, ES, DF, GO, MT e MS. O prazo começa na confirmação do pagamento e aparece no cálculo do frete, com o seu CEP, antes de você pagar.",
-          "Os prazos acima vêm de uma consulta fora do pico de vendas: na época de pico, confira o número no cálculo do frete. Se ele não mostrar o prazo para o seu endereço, a página do produto oferece a consulta com o vendedor pelo WhatsApp.",
-          "O frete é grátis em poltronas e sofás com entrega no Sul e no Sudeste. No Centro-Oeste, o frete é calculado pelo CEP, com \"valores subsidiados de fábrica\". Na consulta por estado da página do produto, o Centro-Oeste já apareceu com frete grátis: confira o seu CEP no carrinho antes de contar com isso.",
-          "No Norte e no Nordeste, a DAMIE diz que atende exclusivamente pelos anúncios oficiais dela no Mercado Livre. Aí o prazo e o frete são os do anúncio, e o CECILIA12, que só vale no site, fica de fora.",
-          "Na página da elétrica fixa do site, a DAMIE também diz \"98% das entregas no prazo ou antes\". A página não diz se a frase vale para os anúncios do Mercado Livre."
+        "heading": "Onde consultar o prazo antes de comprar",
+        "comparisonTable": {
+          "headers": [
+            "Onde você compra",
+            "Como consultar",
+            "O que conferir"
+          ],
+          "rows": [
+            [
+              "Site da DAMIE",
+              "“Consulte sua entrega”, na página do produto, e o cálculo do frete no carrinho",
+              "Prazo e condições para o estado e o CEP de entrega"
+            ],
+            [
+              "Site, sem previsão na tela",
+              "Atendimento da DAMIE pelo WhatsApp",
+              "Previsão para o modelo e o endereço escolhidos"
+            ],
+            [
+              "Mercado Livre",
+              "Campo de CEP do anúncio, com a variação selecionada",
+              "Frete e data estimada de chegada"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No site, a consulta da página do produto lista os estados do Sul, do Sudeste e do Centro-Oeste. Se ela encaminhar ao vendedor ou não mostrar previsão, fale com o atendimento antes de pagar. A página de fretes diz que os prazos variam por região e aparecem no cálculo do frete."
         ]
       },
       {
-        "heading": "Mercado Livre: Sul, Sudeste e Centro-Oeste",
+        "heading": "Quanto custa o frete no site",
         "paragraphs": [
-          "No [Mercado Livre, pelo link da DAMIE](https://meli.la/2Uk6QB5), o frete e a previsão de entrega mudam com o CEP e com o anúncio. Os três anúncios de reclinável das tabelas são modelos diferentes dos do site, mesmo quando o nome se repete. Não testamos esses anúncios: o [guia dos modelos](/reviews/poltronas-damie-no-mercado-livre) mostra o que cada um declara.",
-          "As tabelas trazem o frete e a previsão de entrega de 13/11 para um CEP do centro de cada capital, com a previsão em dias corridos a contar daquele dia. São as estimativas do Mercado Livre na consulta, sem promessa de prazo: vale a data que o anúncio mostrar para o seu CEP.",
-          "Nestas quatro capitais, o frete saiu grátis em todos os anúncios consultados."
+          "O frete é grátis em poltronas e sofás com entrega no Sul e no Sudeste. No Centro-Oeste, ele é calculado pelo CEP no carrinho. O valor considera o tamanho e o peso do produto e a distância.",
+          "O CECILIA12 dá 12% no site e soma com o desconto do Pix; as regras estão na página do [cupom DAMIE](/cupons/damie)."
+        ],
+        "links": [
+          {
+            "label": "Ver as poltronas no site da DAMIE",
+            "href": "https://damie.com.br",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Exemplos de previsão no Mercado Livre",
+        "paragraphs": [
+          "No anúncio, a data estimada aparece quando você informa o CEP. A tabela reúne exemplos dos anúncios da [Elétrica Motor Tecido Conforto](https://meli.la/1XAN4Lq) e da [Florença manual](https://meli.la/2JpgBUN), para um CEP do centro de cada capital.",
+          "Os dias são corridos, contados de 13/11, o dia da consulta, até a data de chegada que o Mercado Livre estimou para cada anúncio e CEP. São exemplos daquela consulta, não um prazo contado a partir de uma nova compra. “Não consultado” indica uma combinação sem registro."
         ],
         "comparisonTable": {
-          "caption": "Frete e previsão de entrega, em dias corridos a contar da consulta. O traço indica anúncio não consultado naquele CEP.",
           "headers": [
             "Capital",
             "Elétrica Motor Tecido Conforto",
-            "Florença manual",
-            "Levita"
+            "Florença manual"
           ],
           "rows": [
             [
               "São Paulo",
-              "Grátis, em 6 dias",
               "Grátis, em 6 dias",
               "Grátis, em 6 dias"
             ],
             [
               "Belo Horizonte",
               "Grátis, em 8 dias",
-              "—",
-              "—"
-            ],
-            [
-              "Porto Alegre",
-              "Grátis, em 13 dias",
-              "Grátis, em 13 dias",
-              "—"
+              "Não consultado"
             ],
             [
               "Brasília",
               "Grátis, em 10 dias",
-              "Grátis, em 10 dias",
-              "—"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "Mercado Livre: Nordeste",
-        "paragraphs": [
-          "A elétrica de tecido pagava frete nas quatro capitais do Nordeste consultadas, e a Florença, nas três em que foi consultada. A Levita saiu com frete grátis em Salvador e no Recife."
-        ],
-        "comparisonTable": {
-          "caption": "Mesma consulta: frete e previsão de entrega em dias corridos. O traço indica anúncio não consultado naquele CEP.",
-          "headers": [
-            "Capital",
-            "Elétrica Motor Tecido Conforto",
-            "Florença manual",
-            "Levita"
-          ],
-          "rows": [
-            [
-              "Salvador",
-              "R$ 172,99, em 10 dias",
-              "R$ 214,99, em 10 dias",
               "Grátis, em 10 dias"
             ],
             [
-              "Recife",
-              "R$ 252,99, em 12 dias",
-              "R$ 301,99, em 12 dias",
-              "Grátis, em 12 dias"
-            ],
-            [
-              "Fortaleza",
-              "R$ 252,99, em 12 dias",
-              "R$ 301,99, em 12 dias",
-              "—"
-            ],
-            [
-              "Teresina",
-              "R$ 252,99, em 16 dias",
-              "—",
-              "—"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "Mercado Livre: Norte",
-        "paragraphs": [
-          "Em Porto Velho, Rio Branco e Palmas, a elétrica de tecido saiu com frete grátis e a Florença pagava. Em Belém, as duas pagavam. A Levita saiu com frete grátis nas quatro capitais."
-        ],
-        "comparisonTable": {
-          "caption": "Mesma consulta: frete e previsão de entrega em dias corridos. O traço indica anúncio não consultado naquele CEP.",
-          "headers": [
-            "Capital",
-            "Elétrica Motor Tecido Conforto",
-            "Florença manual",
-            "Levita"
-          ],
-          "rows": [
-            [
-              "Belém",
-              "R$ 252,99, em 9 dias",
-              "R$ 301,99, em 9 dias",
-              "Grátis, em 9 dias"
-            ],
-            [
-              "Porto Velho",
-              "Grátis, em 16 dias",
-              "R$ 149,99, em 16 dias",
-              "Grátis, em 16 dias"
-            ],
-            [
-              "Rio Branco",
+              "Porto Alegre",
               "Grátis, em 13 dias",
-              "R$ 149,99, em 13 dias",
               "Grátis, em 13 dias"
-            ],
-            [
-              "Palmas",
-              "Grátis, em 15 dias",
-              "R$ 149,99, em 15 dias",
-              "Grátis, em 15 dias"
             ]
           ]
         },
         "postParagraphs": [
-          "Manaus, Macapá e Boa Vista ficaram fora das tabelas: simule o seu CEP dentro do anúncio para ver o frete e a previsão."
+          "Na sua compra, confira a previsão do anúncio para o seu endereço: a estimativa pode mudar. Para as capitais do Norte e do Nordeste, os exemplos e o caminho da compra estão no guia [DAMIE no Norte e no Nordeste](/reviews/damie-norte-nordeste)."
         ]
       },
       {
-        "heading": "No dia da entrega",
+        "heading": "Quando o prazo começa a contar",
         "paragraphs": [
-          "Deixe alguém em casa com tempo no dia: a poltrona é conferida com a transportadora esperando, e a montagem fica com você. A página de fretes da DAMIE diz, para poltronas e sofás comprados no site:"
+          "Nas compras pelo site, a DAMIE informa que o prazo começa após a confirmação do pagamento, não no dia do pedido. No despacho, a marca envia a nota fiscal e o código de rastreio.",
+          "Se você precisa da poltrona para uma data certa, confirme a previsão com a DAMIE antes de pagar. Na compra pelo Mercado Livre, acompanhe a estimativa e as atualizações do próprio pedido."
+        ]
+      },
+      {
+        "heading": "Como é o dia da entrega",
+        "paragraphs": [
+          "Estas são as regras que a DAMIE publica para as compras pelo site:"
         ],
         "bullets": [
-          "Transportadora especializada em móveis, com seguro.",
-          "Em prédio, a entrega vai até o hall.",
-          "A montagem é feita pelo cliente, por encaixe.",
-          "Se houver avaria ou divergência, recuse a mercadoria: a DAMIE diz que emite novo envio."
+          "**Quem entrega.** Transportadora especializada em móveis, com seguro incluso, em horário comercial.",
+          "**Até onde vai.** Até a porta de casa; em prédio, até o hall de entrada. Confira o acesso pelo elevador ou pela escada.",
+          "**Conferência.** Veja o produto na hora, com a transportadora esperando. Com avaria ou divergência, a DAMIE orienta recusar o recebimento e faz novo envio.",
+          "**Quem recebe.** Pode ser outra pessoa, informada no pedido com nome completo e CPF ou RG.",
+          "**Montagem.** Feita pelo cliente, por encaixe, sem ferramentas."
         ],
         "postParagraphs": [
-          "Meça a porta antes: a página da elétrica fixa, no site, diz que ela passa em portas de 65 cm. Se a compra for pelo Mercado Livre, pergunte no anúncio antes de pagar: a página de fretes não diz se essas regras valem para ele."
+          "A página da Elétrica Fixa 1.0 informa passagem por portas de 65 cm. Para outro modelo, confirme as medidas, e meça também o caminho até o cômodo antes da entrega.",
+          "Na compra pelo Mercado Livre, pergunte no anúncio até onde a entrega vai e como é a montagem do pedido que você pretende fazer."
         ],
         "images": [
           {
             "src": "/images/reviews/damie/damie-prazo-de-entrega-eletrica-fixa-frente.webp",
             "alt": "Poltrona Reclinável Elétrica Base Fixa Damie 1.0 em suede bege, vista de frente",
-            "caption": "A Elétrica Fixa do site, a que a página diz passar em portas de 65 cm. Imagem: DAMIE.",
+            "caption": "A Elétrica Fixa 1.0 do site: a página dela informa passagem por portas de 65 cm. Imagem: DAMIE.",
             "href": "https://damie.com.br",
             "objectFit": "contain",
             "aspectRatio": 1
@@ -225072,23 +225026,28 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Site ou anúncio, pelo prazo",
-        "paragraphs": [
-          "Com entrega no Sul ou no Sudeste, o site tem frete grátis em poltronas e sofás, mostra o prazo no carrinho antes de pagar e aceita o [cupom CECILIA12 da DAMIE](/cupons/damie), que dá 12% e soma com o Pix. No Centro-Oeste, o frete do site sai pelo CEP no carrinho.",
-          "No Norte e no Nordeste, o que conta é o frete e a previsão que o anúncio mostra para o seu CEP. O CECILIA12 não vale no Mercado Livre, e o modelo do anúncio é outro, mesmo com nome igual. Para escolher entre os dois canais, leia [DAMIE no Mercado Livre ou no site](/reviews/damie-mercado-livre-ou-site)."
-        ]
-      },
-      {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quanto tempo a DAMIE demora para entregar? Pelo site, as páginas de produto informavam de 4 a 10 dias úteis depois da confirmação do pagamento, dependendo do estado; o prazo do seu pedido aparece no cálculo do frete. No Mercado Livre, vale a previsão do anúncio para o seu CEP.",
-          "A DAMIE entrega no Nordeste? Sim, pelos anúncios oficiais dela no Mercado Livre, porque o site não atende o Norte e o Nordeste.",
-          "O frete da DAMIE é grátis? No Sul e no Sudeste, sim, para poltronas e sofás comprados no site. No Centro-Oeste, o frete é calculado pelo CEP; no Norte e no Nordeste, é o do anúncio.",
-          "A DAMIE monta a poltrona? Não. Nas compras pelo site, a montagem é feita pelo cliente, por encaixe, como diz a página de fretes. No Mercado Livre, pergunte no anúncio.",
-          "A entrega sobe até o apartamento? Nas compras pelo site, não: em prédio, a entrega vai até o hall, como diz a página de fretes. No Mercado Livre, pergunte no anúncio."
+          "Quanto tempo a DAMIE demora para entregar? O prazo depende do endereço e do canal. No site, consulte a página do produto ou o carrinho; se não houver previsão, fale com o atendimento. No Mercado Livre, informe o CEP no anúncio.",
+          "O frete da DAMIE é grátis? No Sul e no Sudeste, sim, para poltronas e sofás comprados no site. No Centro-Oeste, ele é calculado pelo CEP. No Mercado Livre, confira o frete do anúncio escolhido.",
+          "A DAMIE entrega no Norte e no Nordeste? A marca atende essas regiões pelos anúncios oficiais no Mercado Livre. Informe o seu CEP no anúncio para ver a entrega, o frete e a previsão.",
+          "A DAMIE monta a poltrona? Nas compras pelo site, a montagem é do cliente, por encaixe e sem ferramentas. Na compra pelo Mercado Livre, confirme no anúncio.",
+          "A entrega sobe até o apartamento? Nas compras pelo site, a entrega vai até o hall do prédio. No Mercado Livre, confirme até onde ela vai antes de comprar."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-14",
+    "decision": {
+      "takeIf": [
+        "A previsão que apareceu para o seu endereço atende à data em que você precisa da poltrona.",
+        "Você mediu a porta, o elevador ou a escada e o caminho até o cômodo.",
+        "Você combinou quem recebe a transportadora e conferiu como é a montagem do seu pedido."
+      ],
+      "skipIf": [
+        "A tela não mostrou previsão para o seu endereço: fale com o atendimento da DAMIE antes de pagar.",
+        "Você precisa da poltrona numa data certa: confirme o prazo com a DAMIE antes de fechar."
+      ]
+    }
   },
   {
     "id": 976,

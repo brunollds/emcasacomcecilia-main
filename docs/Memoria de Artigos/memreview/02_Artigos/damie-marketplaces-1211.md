@@ -139,4 +139,49 @@ damie nina". Vazios: "damie frete", "damie nordeste", "poltrona damie nordeste",
 
 ### Briefings (13/11)
 
-DM1 em [[damie-mercado-livre-ou-site]]; DM2 reformulada como [[damie-prazo-de-entrega]] (a busca é de prazo, não de região); DM3 reformulada pelos nomes dos modelos como [[poltronas-damie-florenca-levita-moon]]. Os slugs da seção 1 ficam como histórico.
+DM1 em [[damie-mercado-livre-ou-site]]; DM2 reformulada como [[damie-prazo-de-entrega]] (a busca é de prazo, não de região); DM3 reformulada pelos nomes dos modelos como [[poltronas-damie-no-mercado-livre]]. Os slugs da seção 1 ficam como histórico.
+
+## 6. Realinhamento (13 e 14/11/2026)
+
+A primeira versão das três pautas não foi ao ar. O Bruno corrigiu o fato de 12/11 e o Farol / ChatGPT propôs o realinhamento (`ADENDO-REALINHAMENTO-PAUTAS.md`, na pasta de auditoria do checkout principal).
+
+**Correções do Bruno (13/11).**
+
+- "Modelo diferente" não vale para tudo. A Florença (Mercado Livre e Amazon) é a Reclinável 1.0 do site com outro nome; a Elétrica Motor Tecido Conforto é a 1.0 elétrica (14/11); a Levita também está no site.
+- Fora do site de fato: as manuais com base giratória e balanço (Colton em linho e em corino, Imperial) e a linha Eames, no Mercado Livre, e a "Giratória Balanço Reclinável Manual Massagem Aquecimento", que só está na Amazon e na Magalu. No site, a manual só tem base fixa.
+- A Moon saiu de linha: fora de todos os textos.
+- Mercado Livre: acima de 12 vezes, só no cartão de crédito do próprio Mercado Livre; o anúncio pode ter 12, 18 ou 24 vezes.
+- O braço entre os lugares da Linha Cinema é opcional no configurador do site (R$ 200 por vão).
+- Conferir modelo a modelo pelo catálogo do site (`damie.com.br/products.json`) antes de dizer "é outro modelo" ou "não tem no site".
+
+**As quatro peças.**
+
+| Peça | Título | Slug | Pergunta |
+|---|---|---|---|
+| DM1 | Onde é melhor comprar sua nova DAMIE: no site oficial ou no Mercado Livre? | `damie-mercado-livre-ou-site` | Qual canal, pelo que eu quero comprar? |
+| Regional | DAMIE no Norte e no Nordeste: como comprar pelo Mercado Livre | `damie-norte-nordeste` | Moro onde o site não atende: como compro? |
+| DM2 | Prazo de entrega da DAMIE: quanto demora e como consultar | `damie-prazo-de-entrega` | Quando chega e como é o recebimento? |
+| DM3 | Poltronas DAMIE no Mercado Livre: modelos que você não encontra no site | `poltronas-damie-no-mercado-livre` | O que o Mercado Livre tem que o site não tem? |
+
+**Links de afiliado (Bruno, 13 e 14/11).**
+
+| Destino | Link |
+|---|---|
+| Loja no Mercado Livre | `meli.la/2Uk6QB5` |
+| Loja na Amazon | `link.amazon/B0bCzZu4D` |
+| Florença manual em corino (duas cores) | `meli.la/2JpgBUN` e `meli.la/2xqP2UV` |
+| Elétrica Motor Tecido Conforto | `meli.la/1XAN4Lq` |
+| Levita | `meli.la/1FwHe2p` |
+| Elétrica com elevação | `meli.la/1g13bq9` |
+| Colton em linho | `meli.la/1mbWGjP` |
+| Colton em corino | `meli.la/29LXCut` |
+| Imperial em linho | `meli.la/2MmXerq` |
+| Imperial em corino | `meli.la/192LzPK` |
+| Eames elétrica | `meli.la/1jyqjmj` |
+| Amazon, Florença manual em corino cinza | `link.amazon/B06OvgSgF` |
+| Amazon, Elétrica Fixa com Massagem e Aquecimento | `link.amazon/B0jl3HoHH` |
+| Amazon e Magalu, giratória manual com massagem e aquecimento | `link.amazon/B01LLXpuf` e `magazineluiza.onelink.me/589508454/lcwsfmah` |
+
+**Preços registrados.** Site (catálogo relido em 14/11, igual ao de 13/11): manual 1.0 em suede R$ 2.969, corino R$ 3.049, couro R$ 4.440; Elétrica Fixa 1.0 R$ 3.749, R$ 3.849 e R$ 5.199; com elevação R$ 4.969, R$ 5.049 e R$ 6.149; giro e balanço elétrica R$ 4.299, R$ 4.399 e R$ 5.699; Levita em linho R$ 6.400 e em couro R$ 7.400. Mercado Livre (lista colada pelo Bruno em 13/11): Florença manual em corino R$ 2.957 em 24 vezes; Elétrica Motor Tecido Conforto R$ 3.733 em 24 vezes; elevação R$ 4.958 em 24 vezes (14/11). A leitura dos anúncios pelo Chrome em 13/11 tinha dado R$ 3.049 e R$ 3.749; o Bruno mandou ficar com os da lista e avisar que os preços mudam sem aviso.
+
+**Pauta nova na Fila.** Sofá reclinável com braço entre os assentos (Linha Cinema) nos marketplaces: conferir antes o configurador do site, que tem o braço como opcional.
