@@ -194,3 +194,10 @@ O texto está em `content/reviews/cupom-bagaggio-primeira-compra.json` (id 915),
 ## Revisão externa (Farol, 12/11/2026)
 
 Aplicado depois de conferir os fatos: "cerca de 35%", "A sacola aceita um código por vez" e legendas mais precisas. A frase "um dos melhores cupons" ficou só na resposta rápida (Bruno, 12/11).
+
+## Capa v2 (13/11/2026)
+
+- **Capa:** `/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `d543ac639283f4982d8e35283a8c402074d07b5c993d0b0eb39ed722d1b681bc`.
+- **Alt:** Mala de bordo Downtown preta inteira, em foto oficial da Bagaggio, com logo da loja, “Primeira compra?”, “O mesmo cupom nas seguintes” e cupom CECILIA10.
+- **Origem:** foto oficial da mala de bordo Downtown preta.
+- **Lote 44 do piloto de capas (sequência 15 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/44/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 13/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-48-HEROES-48-PAGINAS-SEQUENCIA-15-CLAUDE.zip` (`lotes/44/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

@@ -291,3 +291,10 @@ Cuidar do lar vai muito além de escolher receitas gostosas: passa pelo cuidado 
 Saber que a despensa está abastecida com produtos de procedência impecável, data de validade fresca e adquiridos pelo preço mais justo traz um alívio enorme para a nossa rotina. Quando a gente coloca as compras na ponta do lápis com inteligência — combinando lotes econômicos, assinatura sem burocracia e o nosso cupom **`CECI`** —, as contas fecham com folga e sobra tempo e paz para desfrutar o que realmente importa ao redor da mesa. 
 
 Faça suas compras com tranquilidade e até o próximo post!
+
+## Capa v2 (13/11/2026)
+
+- **Capa:** `/images/reviews/nutren/guia-linha-ninho-nestle-leite-vs-composto-lacteo-capa-v2.webp` (`imageFit: contain`), SHA-256 `10f6f8f109559d81dc6f32ee25ee2e677d00050ef13a57eb22b65dff62668954`.
+- **Alt:** Composição com fotos oficiais da lata Ninho Leite Integral Instantâneo e do sachê Ninho Forti+ com fibras, com logo Nestlé Nutre, “Leite Ninho ou composto?”, “Como identificar cada versão” e cupom CECI.
+- **Origem:** composição com duas fotos oficiais (lata Ninho Leite Integral Instantâneo e sachê Ninho Forti+); não é kit comercial nem escala física entre as embalagens.
+- **Lote 43 do piloto de capas (sequência 15 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/43/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 13/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-48-HEROES-48-PAGINAS-SEQUENCIA-15-CLAUDE.zip` (`lotes/43/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/nutren/guia-linha-ninho-capa-discover-v2.webp`) fica no CDN, sem uso como capa.

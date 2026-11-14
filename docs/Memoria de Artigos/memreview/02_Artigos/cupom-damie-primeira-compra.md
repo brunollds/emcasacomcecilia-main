@@ -199,3 +199,10 @@ Matriz de claims: a do briefing vale; acrescentados "cartão em até 12x sem jur
 - **Capa:** `/images/reviews/damie/cupom-damie-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da DAMIE, "Cupom DAMIE primeira compra" e o CECILIA12. Alt: Sofá Damie Modular de 3 lugares, em foto oficial da DAMIE, ao lado da chamada Cupom DAMIE primeira compra e do código CECILIA12.
 - **Quanto fica com o Pix:** `/images/reviews/damie/cupom-damie-primeira-compra-puff-modular.webp` (quadrada, `href` para a página do puff). Alt: Puff do Sofá Damie Modular, em foto oficial da DAMIE. Legenda: O puff avulso do Sofá Damie Modular, o produto do nosso teste. Foto: DAMIE.
 - **Origem:** fotos oficiais da DAMIE, das páginas do Sofá Damie Modular 3 Lugares (suede bege) e do Puff Damie Na Caixa Modular, lidas em 12/11/2026. Nenhuma capa da DAMIE usa a foto do sofá bege (as outras são fotos da Cecília). Sem IA.
+
+## Capa v2 (13/11/2026)
+
+- **Capa:** `/images/reviews/damie/cupom-damie-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `d9aa582b499dd7db7cf537eca81f14836e5992e35e5e2935a2e0bd02d5b9eb8c`.
+- **Alt:** Cecília sentada na poltrona Levita da DAMIE, com braço e controles visíveis em foto própria, com logo DAMIE, “Primeira compra?”, “O mesmo cupom nas seguintes” e cupom CECILIA12.
+- **Origem:** foto própria da Cecília na poltrona Levita, recebida em parceria.
+- **Lote 44 do piloto de capas (sequência 15 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/44/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 13/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-48-HEROES-48-PAGINAS-SEQUENCIA-15-CLAUDE.zip` (`lotes/44/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/damie/cupom-damie-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

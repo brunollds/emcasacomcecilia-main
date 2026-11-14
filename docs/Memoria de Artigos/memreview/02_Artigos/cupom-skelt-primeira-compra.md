@@ -195,3 +195,10 @@ Revisão externa do Farol (com contraprova do GPT-6.1 Terra) em 12/11/2026, em `
 - **Capa:** `/images/reviews/skelt/cupom-skelt-primeira-compra-capa.webp` (`imageFit: contain`), 1600 × 900, painel lateral com o logo da Skelt, "Cupom Skelt primeira compra" e o SKEMCASACOMCECILIA. Alt: Frasco do Body Splash Pink Sands da Skelt, em composição oficial com frutas e flores, ao lado da chamada Cupom Skelt primeira compra e do código SKEMCASACOMCECILIA.
 - **Kit em promoção: onde entram o código e o Pix:** `/images/reviews/skelt/cupom-skelt-primeira-compra-body-splash-amalfi-sunset.webp` (quadrada, `href` com o link de afiliado da página do kit). Alt: Frasco laranja do Body Splash Amalfi Sunset da Skelt, em foto oficial de frente. Legenda: Body Splash Amalfi Sunset, um dos três do Kit Fragrâncias usado no teste do cupom. Foto: Skelt.
 - **Origem:** fotos oficiais da Skelt, das páginas do Body Splash Pink Sands e do Body Splash Amalfi Sunset, lidas em 12/11/2026. A foto do kit ficou fora por trazer um selo publicitário da loja. Nenhuma capa da Skelt usa o Pink Sands. Sem IA.
+
+## Capa v2 (13/11/2026)
+
+- **Capa:** `/images/reviews/skelt/cupom-skelt-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `3a907f3a180fc08889ac1b7bb1db2d485552402d8b9b97692b27c65eb73079ce`.
+- **Alt:** Modelo adulta segura o Body Splash Amalfi Sunset da Skelt junto ao colo, em foto oficial que mostra boca, queixo, mão e frasco, com logo Skelt, “Primeira compra?”, “O mesmo cupom nas seguintes” e cupom SKEMCASACOMCECILIA.
+- **Origem:** foto oficial com modelo adulta e o Body Splash Amalfi Sunset; não é a Cecília.
+- **Lote 45 do piloto de capas (sequência 15 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/45/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 13/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-48-HEROES-48-PAGINAS-SEQUENCIA-15-CLAUDE.zip` (`lotes/45/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/skelt/cupom-skelt-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

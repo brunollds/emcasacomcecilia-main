@@ -209,3 +209,10 @@ O texto está em `content/reviews/cupom-max-titanium-primeira-compra.json` (id 9
 ## Revisão externa (Farol, 12/11/2026)
 
 Aplicado depois de conferir os fatos: título e subtítulo anunciam quanto o cupom descontou em dois wheys, sem prometer a causa; a soma ficou restrita ao Pix (o boleto saiu).
+
+## Capa v2 (13/11/2026)
+
+- **Capa:** `/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `c4895b474c2211a59792b8870fae03b975b81efbc861ac6b7c78280f6edcd84d`.
+- **Alt:** Copo com bebida de chocolate e brigadeiros em cena promocional oficial da Max Titanium, com a chamada Primeira compra na Max Titanium? e o código MAX10EMCASACOMCECILIA.
+- **Origem:** close promocional oficial de bebida, com os limites de enquadramento registrados; sem os claims publicitários que ficaram fora do recorte, sem receita, dose nem resultado.
+- **Lote 45 do piloto de capas (sequência 15 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/45/revisao-terra/REVISAO-LOCALIZADA.json`):** aprovado pelo Bruno em 13/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-48-HEROES-48-PAGINAS-SEQUENCIA-15-CLAUDE.zip` (`lotes/45/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

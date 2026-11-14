@@ -39477,6 +39477,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 54454,
+      "sha256": "d543ac639283f4982d8e35283a8c402074d07b5c993d0b0eb39ed722d1b681bc",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-bagaggio-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-bagaggio-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-bagaggio-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-bagaggio-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d543ac639283f4982d8e35283a8c402074d07b5c993d0b0eb39ed722d1b681bc/cupom-bagaggio-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d543ac639283f4982d8e35283a8c402074d07b5c993d0b0eb39ed722d1b681bc/cupom-bagaggio-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.175Z",
+      "verification_etag_or_digest": "d543ac639283f4982d8e35283a8c402074d07b5c993d0b0eb39ed722d1b681bc",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-capa.webp",
       "local_url": "/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-capa.webp",
       "media_kind": "image",
@@ -43527,6 +43565,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/belive/cupom-belive-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/belive/cupom-belive-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 127134,
+      "sha256": "cbf2dfc48ba040ad2147787c93b834221ef20539a12ec86297173110da4b22dd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-belive-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-belive-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-belive-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-belive-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/belive/cupom-belive-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/cbf2dfc48ba040ad2147787c93b834221ef20539a12ec86297173110da4b22dd/cupom-belive-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cbf2dfc48ba040ad2147787c93b834221ef20539a12ec86297173110da4b22dd/cupom-belive-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "cbf2dfc48ba040ad2147787c93b834221ef20539a12ec86297173110da4b22dd",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/belive/cupom-belive-primeira-compra-capa.webp",
       "local_url": "/images/reviews/belive/cupom-belive-primeira-compra-capa.webp",
       "media_kind": "image",
@@ -45168,6 +45244,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T06:29:00.251Z",
       "verification_etag_or_digest": "bc8f727dc43fd5d08576e32a691dd7e71f1252159ddb2190731676cf54fa45fa",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-ou-growth-capa-v2.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-ou-growth-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49268,
+      "sha256": "55f6ae5e1ef83f1a4e0f7f6b2b836b56fc31c916749a22156e78263d34dfc9a5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-ou-growth-capa-v2.webp",
+      "storage_filename": "black-skull-ou-growth-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-ou-growth.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-ou-growth.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/black-skull-ou-growth-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/55f6ae5e1ef83f1a4e0f7f6b2b836b56fc31c916749a22156e78263d34dfc9a5/black-skull-ou-growth-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/55f6ae5e1ef83f1a4e0f7f6b2b836b56fc31c916749a22156e78263d34dfc9a5/black-skull-ou-growth-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "55f6ae5e1ef83f1a4e0f7f6b2b836b56fc31c916749a22156e78263d34dfc9a5",
       "verification_status": "verified"
     },
     {
@@ -56204,6 +56318,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/cupom-damie-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/damie/cupom-damie-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 101144,
+      "sha256": "d9aa582b499dd7db7cf537eca81f14836e5992e35e5e2935a2e0bd02d5b9eb8c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-damie-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-damie-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-damie-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-damie-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/damie/cupom-damie-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d9aa582b499dd7db7cf537eca81f14836e5992e35e5e2935a2e0bd02d5b9eb8c/cupom-damie-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d9aa582b499dd7db7cf537eca81f14836e5992e35e5e2935a2e0bd02d5b9eb8c/cupom-damie-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "d9aa582b499dd7db7cf537eca81f14836e5992e35e5e2935a2e0bd02d5b9eb8c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/cupom-damie-primeira-compra-capa.webp",
       "local_url": "/images/reviews/damie/cupom-damie-primeira-compra-capa.webp",
       "media_kind": "image",
@@ -61017,6 +61169,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 83074,
+      "sha256": "7d9e8dad4084a69bfc00a248ff35a6cd99bf209edd1c6593f6936c6e191cc0b9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-dolce-gusto-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-dolce-gusto-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-dolce-gusto-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-dolce-gusto-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7d9e8dad4084a69bfc00a248ff35a6cd99bf209edd1c6593f6936c6e191cc0b9/cupom-dolce-gusto-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7d9e8dad4084a69bfc00a248ff35a6cd99bf209edd1c6593f6936c6e191cc0b9/cupom-dolce-gusto-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "7d9e8dad4084a69bfc00a248ff35a6cd99bf209edd1c6593f6936c6e191cc0b9",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-capa.webp",
       "local_url": "/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-capa.webp",
       "media_kind": "image",
@@ -65475,6 +65665,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 242690,
+      "sha256": "bba56f7a17a95c09e0f60ea43429048d1ee93c0617314fdcc574e1c5cf33c5f7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-dr-peanut-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-dr-peanut-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-dr-peanut-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-dr-peanut-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bba56f7a17a95c09e0f60ea43429048d1ee93c0617314fdcc574e1c5cf33c5f7/cupom-dr-peanut-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bba56f7a17a95c09e0f60ea43429048d1ee93c0617314fdcc574e1c5cf33c5f7/cupom-dr-peanut-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "bba56f7a17a95c09e0f60ea43429048d1ee93c0617314fdcc574e1c5cf33c5f7",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-capa.webp",
       "local_url": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-capa.webp",
       "media_kind": "image",
@@ -68163,6 +68391,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T17:10:05.129Z",
       "verification_etag_or_digest": "cf44c64c42f8ac09b00ebbe9a703a5e6b7398a40d2591cd5dd9f637bc6098d2c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 105444,
+      "sha256": "79a3a2b3577c26669f15483e8aea33862ec4cc5c9090edb7230fb527bb498e7d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-holyfoods-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-holyfoods-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-holyfoods-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-holyfoods-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/79a3a2b3577c26669f15483e8aea33862ec4cc5c9090edb7230fb527bb498e7d/cupom-holyfoods-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/79a3a2b3577c26669f15483e8aea33862ec4cc5c9090edb7230fb527bb498e7d/cupom-holyfoods-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "79a3a2b3577c26669f15483e8aea33862ec4cc5c9090edb7230fb527bb498e7d",
       "verification_status": "verified"
     },
     {
@@ -81731,6 +81997,386 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-de-v2.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-de-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 82416,
+      "sha256": "01a0051eef6106791c07014140f01126c032696990b7f64d52e82d694178e64a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa-de-v2.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa-de-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-oder-shared-hosting.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-oder-shared-hosting.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-de-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/01a0051eef6106791c07014140f01126c032696990b7f64d52e82d694178e64a/vps-ou-hospedagem-compartilhada-qual-escolher-capa-de-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/01a0051eef6106791c07014140f01126c032696990b7f64d52e82d694178e64a/vps-ou-hospedagem-compartilhada-qual-escolher-capa-de-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "01a0051eef6106791c07014140f01126c032696990b7f64d52e82d694178e64a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-en-v2.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-en-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 81800,
+      "sha256": "6161279270310bf5587f3087272e62e04b44ff38d4f8161d9126d90f8f4c1199",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa-en-v2.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa-en-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-or-shared-hosting-which-to-choose.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-or-shared-hosting-which-to-choose.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-en-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6161279270310bf5587f3087272e62e04b44ff38d4f8161d9126d90f8f4c1199/vps-ou-hospedagem-compartilhada-qual-escolher-capa-en-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6161279270310bf5587f3087272e62e04b44ff38d4f8161d9126d90f8f4c1199/vps-ou-hospedagem-compartilhada-qual-escolher-capa-en-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "6161279270310bf5587f3087272e62e04b44ff38d4f8161d9126d90f8f4c1199",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-es-v2.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-es-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 83826,
+      "sha256": "118ac80d43d255d6ae14d52fba50a3018f8ed9811303ee95705d5219e18802ee",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa-es-v2.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa-es-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-o-hosting-compartido-cual-elegir.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-o-hosting-compartido-cual-elegir.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-es-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/118ac80d43d255d6ae14d52fba50a3018f8ed9811303ee95705d5219e18802ee/vps-ou-hospedagem-compartilhada-qual-escolher-capa-es-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/118ac80d43d255d6ae14d52fba50a3018f8ed9811303ee95705d5219e18802ee/vps-ou-hospedagem-compartilhada-qual-escolher-capa-es-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "118ac80d43d255d6ae14d52fba50a3018f8ed9811303ee95705d5219e18802ee",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-fr-v2.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-fr-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 81332,
+      "sha256": "f4abd4554dbfd5c1590812a91f38680819177825785a60bd9396856b0ba5bbd0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa-fr-v2.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa-fr-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-ou-hebergement-mutualise.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-ou-hebergement-mutualise.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-fr-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f4abd4554dbfd5c1590812a91f38680819177825785a60bd9396856b0ba5bbd0/vps-ou-hospedagem-compartilhada-qual-escolher-capa-fr-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f4abd4554dbfd5c1590812a91f38680819177825785a60bd9396856b0ba5bbd0/vps-ou-hospedagem-compartilhada-qual-escolher-capa-fr-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "f4abd4554dbfd5c1590812a91f38680819177825785a60bd9396856b0ba5bbd0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-it-v2.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-it-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 83058,
+      "sha256": "76a126d4dc3f12f8289f7895ad76de24c1f38fae27cbf90aa268fa0e98dbe9b9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa-it-v2.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa-it-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-o-hosting-condiviso.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-o-hosting-condiviso.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-it-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/76a126d4dc3f12f8289f7895ad76de24c1f38fae27cbf90aa268fa0e98dbe9b9/vps-ou-hospedagem-compartilhada-qual-escolher-capa-it-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/76a126d4dc3f12f8289f7895ad76de24c1f38fae27cbf90aa268fa0e98dbe9b9/vps-ou-hospedagem-compartilhada-qual-escolher-capa-it-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "76a126d4dc3f12f8289f7895ad76de24c1f38fae27cbf90aa268fa0e98dbe9b9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-ja-v2.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-ja-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86446,
+      "sha256": "11d713605e6de2056ed3cad9e546cf1936adb2eae2770cd3f6c064e996e31e77",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa-ja-v2.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa-ja-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-or-shared-hosting-ja.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-or-shared-hosting-ja.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-ja-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/11d713605e6de2056ed3cad9e546cf1936adb2eae2770cd3f6c064e996e31e77/vps-ou-hospedagem-compartilhada-qual-escolher-capa-ja-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/11d713605e6de2056ed3cad9e546cf1936adb2eae2770cd3f6c064e996e31e77/vps-ou-hospedagem-compartilhada-qual-escolher-capa-ja-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "11d713605e6de2056ed3cad9e546cf1936adb2eae2770cd3f6c064e996e31e77",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-ko-v2.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-ko-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 81154,
+      "sha256": "33817f614638e229b4c4348839a98844f7ee98939d4526f05e38a6e20fbe7b61",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa-ko-v2.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa-ko-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-or-shared-hosting-ko.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-or-shared-hosting-ko.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-ko-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/33817f614638e229b4c4348839a98844f7ee98939d4526f05e38a6e20fbe7b61/vps-ou-hospedagem-compartilhada-qual-escolher-capa-ko-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/33817f614638e229b4c4348839a98844f7ee98939d4526f05e38a6e20fbe7b61/vps-ou-hospedagem-compartilhada-qual-escolher-capa-ko-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "33817f614638e229b4c4348839a98844f7ee98939d4526f05e38a6e20fbe7b61",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-pt-v2.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 82694,
+      "sha256": "34d609ffadabaa4a3f33234a5daa1cd58a244b7ea4b146567aa2e262d9e9a48f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa-pt-v2.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-ou-hospedagem-compartilhada-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-ou-hospedagem-compartilhada-qual-escolher.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/34d609ffadabaa4a3f33234a5daa1cd58a244b7ea4b146567aa2e262d9e9a48f/vps-ou-hospedagem-compartilhada-qual-escolher-capa-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/34d609ffadabaa4a3f33234a5daa1cd58a244b7ea4b146567aa2e262d9e9a48f/vps-ou-hospedagem-compartilhada-qual-escolher-capa-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "34d609ffadabaa4a3f33234a5daa1cd58a244b7ea4b146567aa2e262d9e9a48f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-zh-hans-v2.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-zh-hans-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 85128,
+      "sha256": "8807b6be0f7f44cb9be2191659724c53be1018c1ba87ee828f47ca0d49920695",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa-zh-hans-v2.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa-zh-hans-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-or-shared-hosting-zh-hans.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-or-shared-hosting-zh-hans.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-zh-hans-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/8807b6be0f7f44cb9be2191659724c53be1018c1ba87ee828f47ca0d49920695/vps-ou-hospedagem-compartilhada-qual-escolher-capa-zh-hans-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8807b6be0f7f44cb9be2191659724c53be1018c1ba87ee828f47ca0d49920695/vps-ou-hospedagem-compartilhada-qual-escolher-capa-zh-hans-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "8807b6be0f7f44cb9be2191659724c53be1018c1ba87ee828f47ca0d49920695",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-zh-hant-v2.webp",
+      "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-zh-hant-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86652,
+      "sha256": "0c5ddeaaae9678ff9d33c306ac6b4bb5956d74ce8300327a305aec471924e5d0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa-zh-hant-v2.webp",
+      "storage_filename": "vps-ou-hospedagem-compartilhada-qual-escolher-capa-zh-hant-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/vps-or-shared-hosting-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/vps-or-shared-hosting-zh-hant.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-zh-hant-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0c5ddeaaae9678ff9d33c306ac6b4bb5956d74ce8300327a305aec471924e5d0/vps-ou-hospedagem-compartilhada-qual-escolher-capa-zh-hant-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0c5ddeaaae9678ff9d33c306ac6b4bb5956d74ce8300327a305aec471924e5d0/vps-ou-hospedagem-compartilhada-qual-escolher-capa-zh-hant-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "0c5ddeaaae9678ff9d33c306ac6b4bb5956d74ce8300327a305aec471924e5d0",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
       "local_url": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
       "media_kind": "image",
@@ -86392,6 +87038,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T17:10:05.129Z",
       "verification_etag_or_digest": "fbfb447db5f88cbef2c9752dcd1bfb391b0f28b2d14273877a8c127bd6a53365",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/cupom-insider-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/insider/cupom-insider-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58956,
+      "sha256": "332af52c52131fbb2fe822daf9e7d439f8d2ee192b98839ca313cb5a524061f6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-insider-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-insider-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-insider-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-insider-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/insider/cupom-insider-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/332af52c52131fbb2fe822daf9e7d439f8d2ee192b98839ca313cb5a524061f6/cupom-insider-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/332af52c52131fbb2fe822daf9e7d439f8d2ee192b98839ca313cb5a524061f6/cupom-insider-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "332af52c52131fbb2fe822daf9e7d439f8d2ee192b98839ca313cb5a524061f6",
       "verification_status": "verified"
     },
     {
@@ -98607,6 +99291,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/cupom-letseatit-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/letseatit/cupom-letseatit-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 136864,
+      "sha256": "b9c4cdce4d2f5bee67211a56bf96830b37a1473ca9372ae2d761362d69498c9d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-letseatit-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-letseatit-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-letseatit-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-letseatit-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/cupom-letseatit-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b9c4cdce4d2f5bee67211a56bf96830b37a1473ca9372ae2d761362d69498c9d/cupom-letseatit-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b9c4cdce4d2f5bee67211a56bf96830b37a1473ca9372ae2d761362d69498c9d/cupom-letseatit-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "b9c4cdce4d2f5bee67211a56bf96830b37a1473ca9372ae2d761362d69498c9d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/cupom-letseatit-primeira-compra-capa.webp",
       "local_url": "/images/reviews/letseatit/cupom-letseatit-primeira-compra-capa.webp",
       "media_kind": "image",
@@ -104011,6 +104733,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/magalu/cupom-magalu-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/magalu/cupom-magalu-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 73528,
+      "sha256": "f92e2959c16dbb8dc9c64f68bbbba12b592badcd1e97f5c57cacfc9b1d992658",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-magalu-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-magalu-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-magalu-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-magalu-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/magalu/cupom-magalu-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f92e2959c16dbb8dc9c64f68bbbba12b592badcd1e97f5c57cacfc9b1d992658/cupom-magalu-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f92e2959c16dbb8dc9c64f68bbbba12b592badcd1e97f5c57cacfc9b1d992658/cupom-magalu-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "f92e2959c16dbb8dc9c64f68bbbba12b592badcd1e97f5c57cacfc9b1d992658",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/magalu/cupom-magalu-primeira-compra-capa.webp",
       "local_url": "/images/reviews/magalu/cupom-magalu-primeira-compra-capa.webp",
       "media_kind": "image",
@@ -104866,6 +105626,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-12T02:03:30.759Z",
       "verification_etag_or_digest": "b6b0a0867dccbc179f389e13472d7a07bdb1c885dc6db94586dd3e417fc5ea34",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86540,
+      "sha256": "b6cecaaae36a9e24bcb7450770eec0b03b82d5ade49b504a2b1b7fe7aaf3a9f5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-mais-mu-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-mais-mu-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-mais-mu-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-mais-mu-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b6cecaaae36a9e24bcb7450770eec0b03b82d5ade49b504a2b1b7fe7aaf3a9f5/cupom-mais-mu-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b6cecaaae36a9e24bcb7450770eec0b03b82d5ade49b504a2b1b7fe7aaf3a9f5/cupom-mais-mu-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "b6cecaaae36a9e24bcb7450770eec0b03b82d5ade49b504a2b1b7fe7aaf3a9f5",
       "verification_status": "verified"
     },
     {
@@ -107424,6 +108222,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T17:10:05.129Z",
       "verification_etag_or_digest": "26897197a5805a9a62c72ec03598271d55a0da9f6287e3a2730372ccf266fc35",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 147330,
+      "sha256": "c4895b474c2211a59792b8870fae03b975b81efbc861ac6b7c78280f6edcd84d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-max-titanium-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-max-titanium-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-max-titanium-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-max-titanium-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c4895b474c2211a59792b8870fae03b975b81efbc861ac6b7c78280f6edcd84d/cupom-max-titanium-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c4895b474c2211a59792b8870fae03b975b81efbc861ac6b7c78280f6edcd84d/cupom-max-titanium-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "c4895b474c2211a59792b8870fae03b975b81efbc861ac6b7c78280f6edcd84d",
       "verification_status": "verified"
     },
     {
@@ -110703,6 +111539,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/guia-linha-ninho-nestle-leite-vs-composto-lacteo-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/guia-linha-ninho-nestle-leite-vs-composto-lacteo-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 128680,
+      "sha256": "10f6f8f109559d81dc6f32ee25ee2e677d00050ef13a57eb22b65dff62668954",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "guia-linha-ninho-nestle-leite-vs-composto-lacteo-capa-v2.webp",
+      "storage_filename": "guia-linha-ninho-nestle-leite-vs-composto-lacteo-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/guia-linha-ninho-nestle-leite-vs-composto-lacteo-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/10f6f8f109559d81dc6f32ee25ee2e677d00050ef13a57eb22b65dff62668954/guia-linha-ninho-nestle-leite-vs-composto-lacteo-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/10f6f8f109559d81dc6f32ee25ee2e677d00050ef13a57eb22b65dff62668954/guia-linha-ninho-nestle-leite-vs-composto-lacteo-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "10f6f8f109559d81dc6f32ee25ee2e677d00050ef13a57eb22b65dff62668954",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/isosource-1-5-ou-trophic-1-5-capa.webp",
       "local_url": "/images/reviews/nutren/isosource-1-5-ou-trophic-1-5-capa.webp",
       "media_kind": "image",
@@ -112426,6 +113300,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/nutren-protein-ou-whey-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/nutren-protein-ou-whey-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 55186,
+      "sha256": "ba7750af721abda4c8f07d1a8cd964f158c50422bf8140561112978eb2ff6989",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-protein-ou-whey-capa-v2.webp",
+      "storage_filename": "nutren-protein-ou-whey-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-protein-ou-whey.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-protein-ou-whey.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-protein-ou-whey-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ba7750af721abda4c8f07d1a8cd964f158c50422bf8140561112978eb2ff6989/nutren-protein-ou-whey-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ba7750af721abda4c8f07d1a8cd964f158c50422bf8140561112978eb2ff6989/nutren-protein-ou-whey-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "ba7750af721abda4c8f07d1a8cd964f158c50422bf8140561112978eb2ff6989",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/nutren-protein-po-e-pronto-para-beber-oficial.webp",
       "local_url": "/images/reviews/nutren/nutren-protein-po-e-pronto-para-beber-oficial.webp",
       "media_kind": "image",
@@ -113724,6 +114636,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T19:18:55.200Z",
       "verification_etag_or_digest": "e52df9f051a02981f35065eee40544e04988bb2972a665ef526aec9c4bca3254",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/cupom-petz-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/petz/cupom-petz-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 237040,
+      "sha256": "a813ae656b0d66bef615a4d66266af6fcf1c315c7ee199490a0cda83d90a9847",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-petz-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-petz-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-petz-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-petz-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/petz/cupom-petz-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a813ae656b0d66bef615a4d66266af6fcf1c315c7ee199490a0cda83d90a9847/cupom-petz-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a813ae656b0d66bef615a4d66266af6fcf1c315c7ee199490a0cda83d90a9847/cupom-petz-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "a813ae656b0d66bef615a4d66266af6fcf1c315c7ee199490a0cda83d90a9847",
       "verification_status": "verified"
     },
     {
@@ -116857,6 +117807,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T17:10:05.129Z",
       "verification_etag_or_digest": "b2f0f11deedd1ad234380a7ae0ed72c937ebd97e66f94dbcb1cf47b10316735a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/cupom-probiotica-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/probiotica/cupom-probiotica-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 90736,
+      "sha256": "a12d9f9f4d89f8b5698749faf3f89e72f6b5a59bdf1ab1f5fcad43af8dfc5885",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-probiotica-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-probiotica-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-probiotica-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-probiotica-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/probiotica/cupom-probiotica-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a12d9f9f4d89f8b5698749faf3f89e72f6b5a59bdf1ab1f5fcad43af8dfc5885/cupom-probiotica-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a12d9f9f4d89f8b5698749faf3f89e72f6b5a59bdf1ab1f5fcad43af8dfc5885/cupom-probiotica-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "a12d9f9f4d89f8b5698749faf3f89e72f6b5a59bdf1ab1f5fcad43af8dfc5885",
       "verification_status": "verified"
     },
     {
@@ -130285,6 +131273,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 71050,
+      "sha256": "095489011f2f76bb5d5f87088dc95b57d9dae05e50c0f57d38c1de8c49c4da5e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-simple-organic-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-simple-organic-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-simple-organic-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-simple-organic-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/095489011f2f76bb5d5f87088dc95b57d9dae05e50c0f57d38c1de8c49c4da5e/cupom-simple-organic-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/095489011f2f76bb5d5f87088dc95b57d9dae05e50c0f57d38c1de8c49c4da5e/cupom-simple-organic-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "095489011f2f76bb5d5f87088dc95b57d9dae05e50c0f57d38c1de8c49c4da5e",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-capa.webp",
       "local_url": "/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-capa.webp",
       "media_kind": "image",
@@ -133681,6 +134707,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-12T18:45:46.100Z",
       "verification_etag_or_digest": "4b174a1682203e523c215eb1699e74d4f3011131a1173bc86cb713232e83ae8f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/cupom-skelt-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/skelt/cupom-skelt-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 142812,
+      "sha256": "3a907f3a180fc08889ac1b7bb1db2d485552402d8b9b97692b27c65eb73079ce",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-skelt-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-skelt-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-skelt-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-skelt-primeira-compra.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/skelt/cupom-skelt-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3a907f3a180fc08889ac1b7bb1db2d485552402d8b9b97692b27c65eb73079ce/cupom-skelt-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3a907f3a180fc08889ac1b7bb1db2d485552402d8b9b97692b27c65eb73079ce/cupom-skelt-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.176Z",
+      "verification_etag_or_digest": "3a907f3a180fc08889ac1b7bb1db2d485552402d8b9b97692b27c65eb73079ce",
       "verification_status": "verified"
     },
     {
@@ -142594,6 +143658,386 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/yesstyle/stylekorean-e-confiavel-capa-de-v2.webp",
+      "local_url": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-de-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 90442,
+      "sha256": "3ea31d4c1b0dcd22394d53b06e445d17733e5425bfa3412a82d591e2b8bda79e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "stylekorean-e-confiavel-capa-de-v2.webp",
+      "storage_filename": "stylekorean-e-confiavel-capa-de-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/ist-stylekorean-serioes.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/ist-stylekorean-serioes.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-de-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3ea31d4c1b0dcd22394d53b06e445d17733e5425bfa3412a82d591e2b8bda79e/stylekorean-e-confiavel-capa-de-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3ea31d4c1b0dcd22394d53b06e445d17733e5425bfa3412a82d591e2b8bda79e/stylekorean-e-confiavel-capa-de-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.177Z",
+      "verification_etag_or_digest": "3ea31d4c1b0dcd22394d53b06e445d17733e5425bfa3412a82d591e2b8bda79e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/stylekorean-e-confiavel-capa-en-v2.webp",
+      "local_url": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-en-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 87562,
+      "sha256": "e984cb13ad95d88bd7b4e1a7eaa02e017c78dff28134f8bc59f41a8973fb0ced",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "stylekorean-e-confiavel-capa-en-v2.webp",
+      "storage_filename": "stylekorean-e-confiavel-capa-en-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-stylekorean-legit.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-stylekorean-legit.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-en-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e984cb13ad95d88bd7b4e1a7eaa02e017c78dff28134f8bc59f41a8973fb0ced/stylekorean-e-confiavel-capa-en-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e984cb13ad95d88bd7b4e1a7eaa02e017c78dff28134f8bc59f41a8973fb0ced/stylekorean-e-confiavel-capa-en-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.177Z",
+      "verification_etag_or_digest": "e984cb13ad95d88bd7b4e1a7eaa02e017c78dff28134f8bc59f41a8973fb0ced",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/stylekorean-e-confiavel-capa-es-v2.webp",
+      "local_url": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-es-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 91346,
+      "sha256": "0a7846c31c6845fd8b81b0161bfeeec451cdd6bd50a4a917bd47b9d9caefce8a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "stylekorean-e-confiavel-capa-es-v2.webp",
+      "storage_filename": "stylekorean-e-confiavel-capa-es-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/stylekorean-es-confiable.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/stylekorean-es-confiable.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-es-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0a7846c31c6845fd8b81b0161bfeeec451cdd6bd50a4a917bd47b9d9caefce8a/stylekorean-e-confiavel-capa-es-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0a7846c31c6845fd8b81b0161bfeeec451cdd6bd50a4a917bd47b9d9caefce8a/stylekorean-e-confiavel-capa-es-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.177Z",
+      "verification_etag_or_digest": "0a7846c31c6845fd8b81b0161bfeeec451cdd6bd50a4a917bd47b9d9caefce8a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/stylekorean-e-confiavel-capa-fr-v2.webp",
+      "local_url": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-fr-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 91640,
+      "sha256": "5c1e4c8f18f272216077c9815d1f60e950ace4b6d2c47781edae0d4c93805c8b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "stylekorean-e-confiavel-capa-fr-v2.webp",
+      "storage_filename": "stylekorean-e-confiavel-capa-fr-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/stylekorean-fiable-avis.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/stylekorean-fiable-avis.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-fr-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5c1e4c8f18f272216077c9815d1f60e950ace4b6d2c47781edae0d4c93805c8b/stylekorean-e-confiavel-capa-fr-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5c1e4c8f18f272216077c9815d1f60e950ace4b6d2c47781edae0d4c93805c8b/stylekorean-e-confiavel-capa-fr-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.177Z",
+      "verification_etag_or_digest": "5c1e4c8f18f272216077c9815d1f60e950ace4b6d2c47781edae0d4c93805c8b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/stylekorean-e-confiavel-capa-it-v2.webp",
+      "local_url": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-it-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 92200,
+      "sha256": "c78cee1ba0653c94c77574d5d1c1b6d8678f605f30a77f9610752b6f0d90f62f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "stylekorean-e-confiavel-capa-it-v2.webp",
+      "storage_filename": "stylekorean-e-confiavel-capa-it-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/stylekorean-e-affidabile.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/stylekorean-e-affidabile.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-it-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c78cee1ba0653c94c77574d5d1c1b6d8678f605f30a77f9610752b6f0d90f62f/stylekorean-e-confiavel-capa-it-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c78cee1ba0653c94c77574d5d1c1b6d8678f605f30a77f9610752b6f0d90f62f/stylekorean-e-confiavel-capa-it-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.177Z",
+      "verification_etag_or_digest": "c78cee1ba0653c94c77574d5d1c1b6d8678f605f30a77f9610752b6f0d90f62f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/stylekorean-e-confiavel-capa-ja-v2.webp",
+      "local_url": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-ja-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 91482,
+      "sha256": "856b6e27bf19ece8fd5e6d5413546eb73d19f08902287dea39dd1368bf8f2e5b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "stylekorean-e-confiavel-capa-ja-v2.webp",
+      "storage_filename": "stylekorean-e-confiavel-capa-ja-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/stylekorean-reliable-ja.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/stylekorean-reliable-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-ja-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/856b6e27bf19ece8fd5e6d5413546eb73d19f08902287dea39dd1368bf8f2e5b/stylekorean-e-confiavel-capa-ja-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/856b6e27bf19ece8fd5e6d5413546eb73d19f08902287dea39dd1368bf8f2e5b/stylekorean-e-confiavel-capa-ja-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.177Z",
+      "verification_etag_or_digest": "856b6e27bf19ece8fd5e6d5413546eb73d19f08902287dea39dd1368bf8f2e5b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/stylekorean-e-confiavel-capa-ko-v2.webp",
+      "local_url": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-ko-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 87726,
+      "sha256": "9f7750374a4cb5b1d35ae270838542dc1b8dc61a558efb2a53ec3c5f98db2664",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "stylekorean-e-confiavel-capa-ko-v2.webp",
+      "storage_filename": "stylekorean-e-confiavel-capa-ko-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/stylekorean-reliable-ko.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/stylekorean-reliable-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-ko-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9f7750374a4cb5b1d35ae270838542dc1b8dc61a558efb2a53ec3c5f98db2664/stylekorean-e-confiavel-capa-ko-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9f7750374a4cb5b1d35ae270838542dc1b8dc61a558efb2a53ec3c5f98db2664/stylekorean-e-confiavel-capa-ko-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.177Z",
+      "verification_etag_or_digest": "9f7750374a4cb5b1d35ae270838542dc1b8dc61a558efb2a53ec3c5f98db2664",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/stylekorean-e-confiavel-capa-pt-v2.webp",
+      "local_url": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 90482,
+      "sha256": "ca8cfcb0cc09f3f4ddb3f860b8d33f6dbd68bae33d85b93641bc1b1ae1b47fd1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "stylekorean-e-confiavel-capa-pt-v2.webp",
+      "storage_filename": "stylekorean-e-confiavel-capa-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/stylekorean-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/stylekorean-e-confiavel.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ca8cfcb0cc09f3f4ddb3f860b8d33f6dbd68bae33d85b93641bc1b1ae1b47fd1/stylekorean-e-confiavel-capa-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ca8cfcb0cc09f3f4ddb3f860b8d33f6dbd68bae33d85b93641bc1b1ae1b47fd1/stylekorean-e-confiavel-capa-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.177Z",
+      "verification_etag_or_digest": "ca8cfcb0cc09f3f4ddb3f860b8d33f6dbd68bae33d85b93641bc1b1ae1b47fd1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/stylekorean-e-confiavel-capa-zh-hans-v2.webp",
+      "local_url": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-zh-hans-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 89852,
+      "sha256": "14876c528009bf88df4a3ce92b47c752a89607e906171e585b46770b2816d5df",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "stylekorean-e-confiavel-capa-zh-hans-v2.webp",
+      "storage_filename": "stylekorean-e-confiavel-capa-zh-hans-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/stylekorean-reliable-zh-hans.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/stylekorean-reliable-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-zh-hans-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/14876c528009bf88df4a3ce92b47c752a89607e906171e585b46770b2816d5df/stylekorean-e-confiavel-capa-zh-hans-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/14876c528009bf88df4a3ce92b47c752a89607e906171e585b46770b2816d5df/stylekorean-e-confiavel-capa-zh-hans-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.177Z",
+      "verification_etag_or_digest": "14876c528009bf88df4a3ce92b47c752a89607e906171e585b46770b2816d5df",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/stylekorean-e-confiavel-capa-zh-hant-v2.webp",
+      "local_url": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-zh-hant-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 90088,
+      "sha256": "26d65e1265fa2ad0a078df9202edaa778aae39b60e0e3e111577f7a195dc8aac",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "stylekorean-e-confiavel-capa-zh-hant-v2.webp",
+      "storage_filename": "stylekorean-e-confiavel-capa-zh-hant-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/stylekorean-reliable-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/stylekorean-reliable-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-zh-hant-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/26d65e1265fa2ad0a078df9202edaa778aae39b60e0e3e111577f7a195dc8aac/stylekorean-e-confiavel-capa-zh-hant-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/26d65e1265fa2ad0a078df9202edaa778aae39b60e0e3e111577f7a195dc8aac/stylekorean-e-confiavel-capa-zh-hant-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.177Z",
+      "verification_etag_or_digest": "26d65e1265fa2ad0a078df9202edaa778aae39b60e0e3e111577f7a195dc8aac",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
       "local_url": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa.webp",
       "media_kind": "image",
@@ -147682,6 +149126,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-de-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-de-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 98790,
+      "sha256": "25070ac9f30ab3517edd8ce9f46734d03faabcfa6e37952e1732c1a96e7398b9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-trustpilot-nota-reclamacoes-capa-de-v2.webp",
+      "storage_filename": "yesstyle-trustpilot-nota-reclamacoes-capa-de-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-trustpilot-bewertungen.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-trustpilot-bewertungen.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-de-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/25070ac9f30ab3517edd8ce9f46734d03faabcfa6e37952e1732c1a96e7398b9/yesstyle-trustpilot-nota-reclamacoes-capa-de-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/25070ac9f30ab3517edd8ce9f46734d03faabcfa6e37952e1732c1a96e7398b9/yesstyle-trustpilot-nota-reclamacoes-capa-de-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.177Z",
+      "verification_etag_or_digest": "25070ac9f30ab3517edd8ce9f46734d03faabcfa6e37952e1732c1a96e7398b9",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-discover.webp",
       "local_url": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-discover.webp",
       "media_kind": "image",
@@ -147707,6 +149189,348 @@
       "uploaded_at": null,
       "verified_at": "2026-11-02T22:42:31.463Z",
       "verification_etag_or_digest": "800d84cb5d21dea9ed44060c79cc7ce457b05b518ffc0cb0c2773cc5044e644e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-en-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-en-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 97836,
+      "sha256": "83ba3ff98e61022681d91ec7212af670c723b51952819d9cdd178624f4120e5a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-trustpilot-nota-reclamacoes-capa-en-v2.webp",
+      "storage_filename": "yesstyle-trustpilot-nota-reclamacoes-capa-en-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-trustpilot-reviews.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-trustpilot-reviews.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-en-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/83ba3ff98e61022681d91ec7212af670c723b51952819d9cdd178624f4120e5a/yesstyle-trustpilot-nota-reclamacoes-capa-en-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/83ba3ff98e61022681d91ec7212af670c723b51952819d9cdd178624f4120e5a/yesstyle-trustpilot-nota-reclamacoes-capa-en-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.177Z",
+      "verification_etag_or_digest": "83ba3ff98e61022681d91ec7212af670c723b51952819d9cdd178624f4120e5a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-es-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-es-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 100232,
+      "sha256": "ef9b671001cb761661ebf271c3e5af8fabcf4c181a97e0b8000f17351bdcfc57",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-trustpilot-nota-reclamacoes-capa-es-v2.webp",
+      "storage_filename": "yesstyle-trustpilot-nota-reclamacoes-capa-es-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-opiniones-trustpilot.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-opiniones-trustpilot.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-es-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ef9b671001cb761661ebf271c3e5af8fabcf4c181a97e0b8000f17351bdcfc57/yesstyle-trustpilot-nota-reclamacoes-capa-es-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ef9b671001cb761661ebf271c3e5af8fabcf4c181a97e0b8000f17351bdcfc57/yesstyle-trustpilot-nota-reclamacoes-capa-es-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.177Z",
+      "verification_etag_or_digest": "ef9b671001cb761661ebf271c3e5af8fabcf4c181a97e0b8000f17351bdcfc57",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-fr-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-fr-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 98714,
+      "sha256": "4c6c57664d76a1ad38d67edda2d8dfb623d315ad389202ae6067c30d8a10ccd2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-trustpilot-nota-reclamacoes-capa-fr-v2.webp",
+      "storage_filename": "yesstyle-trustpilot-nota-reclamacoes-capa-fr-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-avis-trustpilot.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-avis-trustpilot.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-fr-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4c6c57664d76a1ad38d67edda2d8dfb623d315ad389202ae6067c30d8a10ccd2/yesstyle-trustpilot-nota-reclamacoes-capa-fr-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4c6c57664d76a1ad38d67edda2d8dfb623d315ad389202ae6067c30d8a10ccd2/yesstyle-trustpilot-nota-reclamacoes-capa-fr-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.177Z",
+      "verification_etag_or_digest": "4c6c57664d76a1ad38d67edda2d8dfb623d315ad389202ae6067c30d8a10ccd2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-it-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-it-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 99224,
+      "sha256": "d3609d162f0fdeca84df447b11d02742a14c4ba65dbb5ee28118cc16d5845dcd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-trustpilot-nota-reclamacoes-capa-it-v2.webp",
+      "storage_filename": "yesstyle-trustpilot-nota-reclamacoes-capa-it-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-recensioni-trustpilot.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-recensioni-trustpilot.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-it-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d3609d162f0fdeca84df447b11d02742a14c4ba65dbb5ee28118cc16d5845dcd/yesstyle-trustpilot-nota-reclamacoes-capa-it-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d3609d162f0fdeca84df447b11d02742a14c4ba65dbb5ee28118cc16d5845dcd/yesstyle-trustpilot-nota-reclamacoes-capa-it-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.177Z",
+      "verification_etag_or_digest": "d3609d162f0fdeca84df447b11d02742a14c4ba65dbb5ee28118cc16d5845dcd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-ja-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-ja-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 97252,
+      "sha256": "4c679a66edabfb0b54537f2783a8e345edf1474945c79c005996758089627552",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-trustpilot-nota-reclamacoes-capa-ja-v2.webp",
+      "storage_filename": "yesstyle-trustpilot-nota-reclamacoes-capa-ja-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-trustpilot-reviews-ja.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-trustpilot-reviews-ja.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-ja-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4c679a66edabfb0b54537f2783a8e345edf1474945c79c005996758089627552/yesstyle-trustpilot-nota-reclamacoes-capa-ja-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4c679a66edabfb0b54537f2783a8e345edf1474945c79c005996758089627552/yesstyle-trustpilot-nota-reclamacoes-capa-ja-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.177Z",
+      "verification_etag_or_digest": "4c679a66edabfb0b54537f2783a8e345edf1474945c79c005996758089627552",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-ko-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-ko-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 95394,
+      "sha256": "52f17e6949ab11656a7da12555b0462dcb8c1668b8367f0abcbfd0b66276906e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-trustpilot-nota-reclamacoes-capa-ko-v2.webp",
+      "storage_filename": "yesstyle-trustpilot-nota-reclamacoes-capa-ko-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-trustpilot-reviews-ko.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-trustpilot-reviews-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-ko-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/52f17e6949ab11656a7da12555b0462dcb8c1668b8367f0abcbfd0b66276906e/yesstyle-trustpilot-nota-reclamacoes-capa-ko-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/52f17e6949ab11656a7da12555b0462dcb8c1668b8367f0abcbfd0b66276906e/yesstyle-trustpilot-nota-reclamacoes-capa-ko-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.177Z",
+      "verification_etag_or_digest": "52f17e6949ab11656a7da12555b0462dcb8c1668b8367f0abcbfd0b66276906e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-pt-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 100776,
+      "sha256": "ad388867663dc519b8fbf5469183589c2a41ff0443b13792326391cfc4d96b08",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-trustpilot-nota-reclamacoes-capa-pt-v2.webp",
+      "storage_filename": "yesstyle-trustpilot-nota-reclamacoes-capa-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-trustpilot-nota-reclamacoes.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-trustpilot-nota-reclamacoes.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ad388867663dc519b8fbf5469183589c2a41ff0443b13792326391cfc4d96b08/yesstyle-trustpilot-nota-reclamacoes-capa-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ad388867663dc519b8fbf5469183589c2a41ff0443b13792326391cfc4d96b08/yesstyle-trustpilot-nota-reclamacoes-capa-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.177Z",
+      "verification_etag_or_digest": "ad388867663dc519b8fbf5469183589c2a41ff0443b13792326391cfc4d96b08",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-zh-hans-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-zh-hans-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 99564,
+      "sha256": "5bc864233be6b32f8070643b3ae52899ff146b24a08890663030e931d1168c47",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-trustpilot-nota-reclamacoes-capa-zh-hans-v2.webp",
+      "storage_filename": "yesstyle-trustpilot-nota-reclamacoes-capa-zh-hans-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-trustpilot-reviews-zh-hans.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-trustpilot-reviews-zh-hans.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-zh-hans-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5bc864233be6b32f8070643b3ae52899ff146b24a08890663030e931d1168c47/yesstyle-trustpilot-nota-reclamacoes-capa-zh-hans-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5bc864233be6b32f8070643b3ae52899ff146b24a08890663030e931d1168c47/yesstyle-trustpilot-nota-reclamacoes-capa-zh-hans-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.177Z",
+      "verification_etag_or_digest": "5bc864233be6b32f8070643b3ae52899ff146b24a08890663030e931d1168c47",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-zh-hant-v2.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-zh-hant-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 99532,
+      "sha256": "f4869d5b36b34446cf32711c8580c00bcc527b7a87f8c7e7bb129827e14e67ad",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-trustpilot-nota-reclamacoes-capa-zh-hant-v2.webp",
+      "storage_filename": "yesstyle-trustpilot-nota-reclamacoes-capa-zh-hant-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-trustpilot-reviews-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-trustpilot-reviews-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-zh-hant-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f4869d5b36b34446cf32711c8580c00bcc527b7a87f8c7e7bb129827e14e67ad/yesstyle-trustpilot-nota-reclamacoes-capa-zh-hant-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f4869d5b36b34446cf32711c8580c00bcc527b7a87f8c7e7bb129827e14e67ad/yesstyle-trustpilot-nota-reclamacoes-capa-zh-hant-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-14T00:56:28.177Z",
+      "verification_etag_or_digest": "f4869d5b36b34446cf32711c8580c00bcc527b7a87f8c7e7bb129827e14e67ad",
       "verification_status": "verified"
     },
     {
