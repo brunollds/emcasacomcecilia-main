@@ -15,11 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "YesStyleのCECILIA010は、初回注文で5%、2回目以降は2%の追加割引を受けられるコードです。入力はReward Code欄。注文ごとの違いと、事前に確認したい点をまとめました。",
-  "metaDescription": "CECILIA010はYesStyleのリワードコード。初回購入5%、2回目以降2%の追加割引で、入力はReward Code欄です。初回注文の前に確認したい点をまとめました。",
+  "description": "YesStyleのクーポンの探し方、CECILIA010と組み合わせる方法、入力する欄を紹介します。追加割引は初回5%、2回目以降2%で、サイトでもアプリでも使えます。",
+  "metaDescription": "CECILIA010はYesStyleの初回購入で5%、2回目以降は2%の追加割引になるコードで、入力はReward Code欄です。初回注文で足せるストアのクーポンの探し方も解説します。",
   "publishedAt": "13 Nov 2026",
   "publishedAtISO": "2026-11-13",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-15",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-ja-v2.webp",
@@ -42,6 +42,12 @@
       "slug": "yesstyle-reward-code-cecilia010-ja"
     },
     {
+      "slug": "yesstyle-valid-coupon-guide-ja"
+    },
+    {
+      "slug": "yesstyle-trust-guide-ja"
+    },
+    {
       "slug": "yesstyle-app-reward-code-ja"
     },
     {
@@ -52,26 +58,58 @@
     {
       "heading": "結論から",
       "paragraphs": [
-        "YesStyleでは、CECILIA010で初回購入は5%、2回目以降は2%の追加割引を受けられます。クーポンではなくリワードコードなので、クーポン欄とは別のReward Code欄に入力します。購入前に、YesStyleがお住まいの国や地域へ配送しているか確認してください。"
+        "YesStyleの初回購入では、CECILIA010を「Reward Code」欄に入力すると追加割引が初回5%、2回目以降2%になり、ストアのクーポンがあれば「Coupon Code」欄に入力して一緒に使えます。キャンペーンのクーポンは[YesStyleクーポンのページ](/ja/coupons/yesstyle)にあり、個人向けのクーポンは、あれば「Account > Coupons」に表示されます。購入前に、YesStyleがお住まいの国や地域へ配送しているか確認してください。"
       ]
     },
     {
-      "heading": "YesStyle初回購入：使うコードは",
+      "heading": "YesStyle初回購入：ストアと使うコード",
       "paragraphs": [
-        "初めてYesStyleで注文するなら、Reward Code欄にCECILIA010を入力してください。YesStyleの案内では、初回購入は5%、2回目以降は2%の追加割引です。",
-        "クーポンサイトで見つけたコードは、使えないことがあります。支払い前に、注文概要の割引の行を確認してください。条件は[YesStyleリワードコードのページ](/ja/coupons/yesstyle)にまとめています。"
+        "YesStyleは香港のオンラインストアで、2006年から韓国コスメやアジアのビューティー、ファッションを150以上の国と地域に販売しています。初めての注文で信頼できるか迷っているなら、会社情報と返品ルールを[YesStyleは信頼できる？](/ja/reviews/yesstyle-trust-guide-ja)にまとめています。",
+        "初回注文の割引は、2か所から入ります。YesStyle自身のクーポン（注文に使える有効なものがある場合）と、当サイトのリワードコードであるCECILIA010です。このコードは、YesStyleの案内で初回購入5%、2回目以降2%の追加割引です。",
+        "他のサイトでコピーしたコードは、期限切れのことがあります。支払い前に、注文概要の割引の行を確認してください。"
       ]
     },
     {
-      "heading": "リワードコードはクーポンではありません",
+      "heading": "クーポンとReward Code：1回の注文で2つの割引",
       "paragraphs": [
-        "チェックアウトにはクーポン欄とReward Code欄があります。CECILIA010はリワードコードなので、Reward Code欄に入力します。クーポン欄はふさがりません。"
+        "YesStyleのチェックアウトにはコード欄が2つあり、入力するものがそれぞれ違います。"
+      ],
+      "bullets": [
+        "**YesStyleのクーポン：**「Coupon Code」欄に入力します。キャンペーンごとに変わり、期限があり、最低購入額が必要なことが多いです。1回の注文で使えるのは1つです。",
+        "**CECILIA010：**「Reward Code」欄に入力します。固定のコードで、キャンペーンが変わっても同じです。追加割引は初回5%、2回目以降2%です。"
+      ],
+      "postParagraphs": [
+        "欄が別なので、リワードコードがクーポンの場所をふさぐことはありません。注文に使えるクーポンがあれば、2つが一緒に入ります。支払い前に、注文概要で2つの割引の行を確認してください。",
+        "2つとも、当サイトの[YesStyleクーポンのページ](/ja/coupons/yesstyle)にまとめています。キャンペーンごとに更新する有効なクーポンと、CECILIA010です。"
+      ]
+    },
+    {
+      "heading": "YesStyleのクーポンはどこで見つかる？",
+      "paragraphs": [
+        "キャンペーンのクーポンは数日で終わることが多いので、購入時に期限を確認してください。次の4か所で探します。"
+      ],
+      "bullets": [
+        "**当サイトのクーポンページ：**[YesStyleクーポン](/ja/coupons/yesstyle)のページには、公式サイトで確認した、今のキャンペーンのクーポンと期限を載せています。",
+        "**YesStyleのアカウント：** 英語表示のアプリで「Account」、続けて「Coupons」をタップします。アカウントに結び付いた個人向けのクーポンがそこに表示され、一覧が空のこともあります。",
+        "**メール：** YesStyleはクーポンをメールで送ります。既存のお客様には、限定クーポンが届くこともあります。注文を確定する前に、受信トレイとプロモーションのフォルダを見ておきましょう。",
+        "**ストアのトップページ：** サイトでもアプリでも、キャンペーンのクーポンはバナーに出ていることが多く、コードをそのままコピーできます。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+        "alt": "YesStyleアプリの3つの画面：バナーにキャンペーンのクーポンが出ているトップページ、「Coupons」の項目がある「My Account」画面、アカウントにクーポンがない状態の「YesStyle Coupons」画面",
+        "caption": "英語表示のAndroidアプリの画面です。トップページにキャンペーンのクーポン、「Account > Coupons」に個人向けのクーポンがあります。この画面ではアカウントに個人向けのクーポンがなく、バナーのコードは隠しています。",
+        "objectFit": "contain",
+        "aspectRatio": 1.5127
+      },
+      "postParagraphs": [
+        "キャンペーンのクーポンとアカウントのクーポンは別のことがあり、1回の注文で使えるのは1つだけです。カートに使えるものが複数あれば、条件を比べ、注文概要で割引が大きくなるほうを選んでください。チェックアウトでクーポンが拒否されたときの主な理由は、[YesStyleの有効なクーポンの探し方と組み合わせ方](/ja/reviews/yesstyle-valid-coupon-guide-ja)にあります。"
       ]
     },
     {
       "heading": "2回目の購入では？",
       "paragraphs": [
-        "2回目以降も、CECILIA010は使えて、2%の追加割引が適用されます。コードも入力欄も同じで、変わるのは割引率だけです。"
+        "2回目以降も、CECILIA010は使えて、2%の追加割引が適用されます。コードも入力欄も同じで、変わるのは割引率だけです。",
+        "ストアのクーポンは別枠のままです。アカウントのCouponsの項目とメールをもう一度確認しましょう。既存のお客様に限定クーポンが届くことがありますが、毎回の注文で届くわけではありません。"
       ]
     },
     {
@@ -82,13 +120,13 @@
       ]
     },
     {
-      "heading": "コードの入力場所",
+      "heading": "コードごとの入力場所",
       "paragraphs": [
-        "入力欄の名前は画面によって違います。次の2通りです。"
+        "アカウントにログインしてからコードを入力してください。入力欄の名前は画面によって違います。次の2通りです。"
       ],
       "bullets": [
-        "**サイトの場合：** チェックアウトの「Reward Code」(リワードコード)欄にCECILIA010を入力して、適用します。",
-        "**アプリの場合：** 「Enter Code」をタップし、Coupon Codeの下にある「Influencer / Rewards Code」欄に入力します。続けて「Apply」をタップします。"
+        "**サイトの場合：** チェックアウトで、ストアのクーポンがあれば「Coupon Code」欄に入力します。CECILIA010は別の「Reward Code」(リワードコード)欄です。入力して、適用します。",
+        "**アプリの場合：** 「Enter Code」をタップします。ストアのクーポンがあれば「Coupon Code」欄に、CECILIA010はすぐ下の「Influencer / Rewards Code」欄に入力します。続けて「Apply」をタップします。"
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
@@ -105,6 +143,9 @@
       "heading": "よくある質問",
       "bullets": [
         "YesStyleに初回購入向けのコードはありますか？あります。CECILIA010は、初回注文で5%、2回目以降は2%の追加割引を受けられるコードで、Reward Code欄に入力します。",
+        "今有効なYesStyleのクーポンはどこで見つかりますか？キャンペーンのクーポンは当サイトの[YesStyleクーポンのページ](/ja/coupons/yesstyle)とストアのバナーにあります。アカウントのCouponsの項目とYesStyleのメールには、個人向けのクーポンが届くことがあります。",
+        "YesStyleのクーポンとCECILIA010は同じ注文で使えますか？対象のクーポンがあれば使えます。クーポンは「Coupon Code」欄に、CECILIA010は「Reward Code」欄に入力します。",
+        "既存のお客様にもYesStyleのクーポンは届きますか？届くことがありますが、保証はありません。YesStyleは限定クーポンをメールで送り、アカウントのCouponsの項目に使えるものが表示されます。",
         "CECILIA010は2回目の購入でも使えますか？使えます。2回目以降の注文では2%の追加割引が適用されます。",
         "CECILIA010はどの欄に入力しますか？Reward Code欄です。クーポン欄とは別で、リワードコードとして扱われます。",
         "CECILIA010はアプリでも使えますか？使えます。「Enter Code」画面の「Influencer / Rewards Code」欄に入力してください。"

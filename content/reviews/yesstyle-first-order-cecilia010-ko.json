@@ -15,11 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "YesStyle에서 CECILIA010은 Reward Code 칸에 입력하면 첫 주문에 5%, 이후 주문에 2%의 추가 할인이 적용됩니다. 주문마다 달라지는 점과 결제 전에 확인할 것을 정리했습니다.",
-  "metaDescription": "CECILIA010은 YesStyle 리워드 코드입니다. Reward Code 칸에 입력하면 첫 구매 5%, 이후 구매 2%의 추가 할인이 적용됩니다. 첫 주문 전에 확인할 점을 정리했습니다.",
+  "description": "YesStyle 쿠폰을 찾는 곳, CECILIA010과 함께 쓰는 법, 칸별 입력 방법을 안내합니다. 첫 구매 5%, 이후 구매 2% 추가이며 웹사이트와 앱 모두 해당합니다.",
+  "metaDescription": "CECILIA010은 YesStyle 첫 구매에 5%, 이후 구매에 2%를 추가하며 Reward Code 칸에 입력합니다. 첫 주문에 더할 매장 쿠폰을 찾는 곳을 안내합니다.",
   "publishedAt": "13 Nov 2026",
   "publishedAtISO": "2026-11-13",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-15",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -43,6 +43,12 @@
       "slug": "yesstyle-reward-code-cecilia010-ko"
     },
     {
+      "slug": "yesstyle-valid-coupon-guide-ko"
+    },
+    {
+      "slug": "yesstyle-trust-guide-ko"
+    },
+    {
       "slug": "yesstyle-app-reward-code-ko"
     },
     {
@@ -53,26 +59,58 @@
     {
       "heading": "빠른 답변",
       "paragraphs": [
-        "YesStyle 첫 구매에서 CECILIA010은 5% 추가 할인을, 이후 구매에서는 2% 추가 할인을 제공합니다. 쿠폰이 아니라 리워드 코드이므로, 쿠폰 칸과 별도인 Reward Code 칸에 입력합니다. 장바구니를 채우기 전에 거주 국가로 배송하는지 확인하세요."
+        "YesStyle 첫 구매에서 CECILIA010은 Reward Code 칸에서 5% 추가 할인(이후 구매는 2%)을 주며, Coupon Code 칸에 입력하는 매장 쿠폰과 함께 사용할 수 있습니다. 캠페인 쿠폰은 [YesStyle 쿠폰](/ko/coupons/yesstyle) 페이지에 있고, 개인 쿠폰이 있다면 내 계정의 Account > Coupons에 표시됩니다. 장바구니를 채우기 전에 거주 국가로 배송하는지 확인하세요."
       ]
     },
     {
-      "heading": "YesStyle 첫 구매: 무엇을 쓸까",
+      "heading": "YesStyle 첫 구매: 매장 소개와 사용할 것",
       "paragraphs": [
-        "YesStyle에서 처음 주문하시나요? Reward Code 칸에 CECILIA010을 입력하세요. YesStyle이 안내하는 혜택은 첫 구매 5%, 이후 구매 2%입니다.",
-        "쿠폰 사이트에서 찾은 코드는 작동하지 않을 수 있습니다. 결제 전에 주문 요약의 할인 내역을 확인하세요. 조건은 [YesStyle 리워드 코드](/ko/coupons/yesstyle) 페이지에 정리해 두었습니다."
+        "YesStyle은 2006년부터 운영해 온 홍콩 기반 쇼핑몰로, 한국 뷰티, 아시아 화장품, 패션을 150개가 넘는 나라에 판매합니다. 첫 주문인데 믿고 써도 되는지 아직 모르겠다면, 회사 정보와 반품 규정을 [YesStyle은 믿을 만한가요?](/ko/reviews/yesstyle-trust-guide-ko)에 정리해 두었습니다.",
+        "첫 주문의 할인은 두 곳에서 올 수 있습니다. 내 주문에 유효한 쿠폰이 있을 때의 YesStyle 자체 쿠폰, 그리고 저희 리워드 코드인 CECILIA010입니다. 이 코드로 YesStyle이 안내하는 혜택은 첫 구매 5%, 이후 구매 2%의 추가 할인입니다.",
+        "다른 사이트에서 복사한 코드는 만료되었을 수 있습니다. 결제 전에 주문 요약의 할인 내역을 확인하세요."
       ]
     },
     {
-      "heading": "리워드 코드는 쿠폰이 아닙니다",
+      "heading": "쿠폰 + Reward Code: 한 주문에 두 가지 할인",
       "paragraphs": [
-        "결제 화면에는 쿠폰 칸과 Reward Code 칸이 따로 있습니다. CECILIA010은 리워드 코드이므로 Reward Code 칸에 입력하며, 쿠폰 칸은 차지하지 않습니다."
+        "YesStyle 결제 화면에는 코드 입력 칸이 두 개 있고, 칸마다 넣을 수 있는 것이 다릅니다."
+      ],
+      "bullets": [
+        "**YesStyle 쿠폰:** Coupon Code 칸에 입력합니다. 캠페인마다 바뀌고, 기한이 있으며, 최소 구매 금액이 필요한 경우가 많습니다. 한 주문에 하나만 사용할 수 있습니다.",
+        "**CECILIA010:** Reward Code 칸에 입력합니다. 고정된 코드라 캠페인이 바뀌어도 그대로이며, 첫 구매 5%, 이후 구매 2%의 추가 할인이 적용됩니다."
+      ],
+      "postParagraphs": [
+        "칸이 따로 있으므로 리워드 코드가 쿠폰 칸을 차지하지 않습니다. 주문에 사용할 수 있는 쿠폰이 있으면 두 할인이 함께 적용되니, 결제 전에 주문 요약에서 할인 두 줄을 확인하세요.",
+        "지금 유효한 쿠폰은 캠페인마다 갱신하며, CECILIA010과 함께 [YesStyle 쿠폰](/ko/coupons/yesstyle) 페이지에 모아 두었습니다."
+      ]
+    },
+    {
+      "heading": "YesStyle 쿠폰은 어디서 찾나요",
+      "paragraphs": [
+        "캠페인 쿠폰은 보통 며칠밖에 유효하지 않으므로 구매할 때 유효 기간을 확인하세요. 다음 네 곳에서 찾아보세요."
+      ],
+      "bullets": [
+        "**저희 쿠폰 페이지:** [YesStyle 쿠폰](/ko/coupons/yesstyle) 페이지에는 공식 사이트에서 확인한, 진행 중인 캠페인 쿠폰과 그 기한이 표시됩니다.",
+        "**YesStyle 내 계정:** 영어 인터페이스의 앱에서 Account를 누른 뒤 Coupons를 누르세요. 내 계정에 연결된 개인 쿠폰이 그곳에 표시되며, 목록이 비어 있을 수도 있습니다.",
+        "**이메일:** YesStyle은 쿠폰을 이메일로 보내며, 이미 구매한 적이 있는 고객은 전용 쿠폰을 받을 수도 있습니다. 주문을 마치기 전에 받은편지함과 프로모션 메일함을 확인하세요.",
+        "**매장 첫 화면:** 웹사이트와 앱의 배너에 진행 중인 캠페인 쿠폰이 표시되는 경우가 많고, 코드를 바로 복사할 수 있습니다."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+        "alt": "YesStyle 앱의 세 화면: 배너에 캠페인 쿠폰이 표시된 첫 화면, Coupons 메뉴가 있는 My Account 화면, 계정에 쿠폰이 없는 YesStyle Coupons 화면",
+        "caption": "영어 Android 앱 화면입니다. 첫 화면에는 캠페인 쿠폰이, Account > Coupons에는 개인 쿠폰이 표시됩니다. 이 캡처에서는 계정에 개인 쿠폰이 없었고, 캠페인 코드는 가려 두었습니다.",
+        "objectFit": "contain",
+        "aspectRatio": 1.5127
+      },
+      "postParagraphs": [
+        "캠페인 쿠폰과 내 계정의 쿠폰은 서로 다를 수 있고, 주문에는 하나만 적용됩니다. 둘 이상이 장바구니에 맞으면 조건을 비교해 주문 요약에서 할인이 가장 큰 쿠폰을 고르세요. 결제 화면에서 쿠폰이 거부된다면, 흔한 이유를 [YesStyle 유효 쿠폰 찾는 법과 조합법](/ko/reviews/yesstyle-valid-coupon-guide-ko)에 정리해 두었습니다."
       ]
     },
     {
       "heading": "두 번째 구매에서는?",
       "paragraphs": [
-        "두 번째 구매에서도 CECILIA010은 계속 유효하며 2%의 추가 할인이 적용됩니다. 코드와 입력 칸은 그대로이고, 달라지는 것은 할인율뿐입니다."
+        "두 번째 구매에서도 CECILIA010은 계속 유효하며 2%의 추가 할인이 적용됩니다. 코드와 입력 칸은 그대로이고, 달라지는 것은 할인율뿐입니다.",
+        "매장 쿠폰은 따로 움직입니다. 계정의 Coupons 메뉴와 이메일을 다시 확인해 보세요. 이미 구매한 고객은 전용 쿠폰을 받을 수 있지만, 모든 주문마다 오는 것은 아닙니다."
       ]
     },
     {
@@ -83,13 +121,13 @@
       ]
     },
     {
-      "heading": "코드를 입력하는 곳",
+      "heading": "코드별로 입력하는 곳",
       "paragraphs": [
-        "칸의 이름은 화면에 따라 다릅니다. 두 가지 경로는 다음과 같습니다."
+        "YesStyle 계정에 로그인한 뒤 코드를 적용하세요. 칸의 이름은 화면에 따라 다르며, 두 가지 경로는 다음과 같습니다."
       ],
       "bullets": [
-        "**웹사이트:** 결제 화면에서 칸 이름은 Reward Code(리워드 코드)입니다. CECILIA010을 입력하고 적용하세요.",
-        "**앱:** Enter Code를 누르고, Coupon Code 아래에 있는 Influencer / Rewards Code 칸에 입력합니다. 그다음 Apply를 누릅니다."
+        "**웹사이트:** 결제 화면에서 매장 쿠폰이 있다면 Coupon Code 칸에 입력합니다. CECILIA010은 다른 칸인 Reward Code(리워드 코드)에 입력합니다. 입력한 뒤 적용하세요.",
+        "**앱:** Enter Code를 누릅니다. 매장 쿠폰이 있다면 Coupon Code 칸에 입력하고, CECILIA010은 바로 아래 Influencer / Rewards Code 칸에 입력합니다. 그다음 Apply를 누릅니다."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
@@ -106,6 +144,9 @@
       "heading": "자주 묻는 질문",
       "bullets": [
         "YesStyle 첫 구매 코드가 있나요? 있습니다. CECILIA010은 Reward Code 칸에 입력하면 첫 주문에 5%, 이후 주문에 2%의 추가 할인이 적용됩니다.",
+        "지금 유효한 YesStyle 쿠폰은 어디서 찾나요? 캠페인 쿠폰은 저희 [YesStyle 쿠폰](/ko/coupons/yesstyle) 페이지와 매장 배너에 있습니다. 계정의 Coupons 메뉴와 YesStyle 이메일에는 개인 쿠폰이 있을 수 있습니다.",
+        "YesStyle 쿠폰과 CECILIA010을 한 주문에 함께 쓸 수 있나요? 사용할 수 있는 쿠폰이 있으면 가능합니다. 쿠폰은 Coupon Code 칸에, CECILIA010은 Reward Code 칸에 입력하세요.",
+        "이미 구매한 고객도 YesStyle 쿠폰을 받나요? 받을 수도 있지만 보장되지는 않습니다. 매장이 전용 쿠폰을 이메일로 보내며, 계정의 Coupons 메뉴에서 사용 가능한 쿠폰을 볼 수 있습니다.",
         "CECILIA010은 두 번째 구매에도 유효한가요? 유효합니다. 이후 주문에는 2%의 추가 할인이 적용됩니다.",
         "CECILIA010은 어느 칸에 입력하나요? 쿠폰 칸이 아닌 Reward Code 칸에 입력합니다. 리워드 코드이기 때문입니다.",
         "CECILIA010은 앱에서도 유효한가요? 유효합니다. Enter Code 화면의 Influencer / Rewards Code 칸에 코드를 입력하세요."

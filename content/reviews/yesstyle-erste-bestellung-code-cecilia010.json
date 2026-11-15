@@ -15,11 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Bei YesStyle gibt CECILIA010 5 % extra auf die erste Bestellung und 2 % auf die folgenden, im Feld Reward Code. Was sich zwischen den Bestellungen ändert und was Sie vorher prüfen.",
-  "metaDescription": "CECILIA010 ist ein Belohnungscode von YesStyle: 5 % auf die 1. Bestellung, 2 % auf die folgenden, im Feld Reward Code. Das sollten Sie vor der 1. Bestellung prüfen.",
+  "description": "So finden Sie den YesStyle-Gutschein und nutzen ihn mit CECILIA010, je in einem eigenen Feld: 5 % extra bei der ersten Bestellung, danach 2 %, auf Website und App.",
+  "metaDescription": "CECILIA010 gibt bei YesStyle 5 % extra auf die 1. Bestellung, danach 2 %, im Feld Reward Code. So finden Sie den Shop-Gutschein zum Kombinieren.",
   "publishedAt": "13. November 2026",
   "publishedAtISO": "2026-11-13",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-15",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -43,6 +43,12 @@
       "slug": "yesstyle-reward-code-rabatt-cecilia010"
     },
     {
+      "slug": "gueltige-yesstyle-gutscheincodes-finden"
+    },
+    {
+      "slug": "ist-yesstyle-serioes-und-sicher"
+    },
+    {
       "slug": "yesstyle-app-bestellen-reward-code"
     },
     {
@@ -53,26 +59,58 @@
     {
       "heading": "Die Antwort in Kürze",
       "paragraphs": [
-        "Bei der ersten Bestellung bei YesStyle gibt CECILIA010 5 % extra, bei den folgenden 2 %. Es ist ein Belohnungscode, kein Gutschein: Er gehört ins Feld Reward Code, getrennt vom Feld für Gutscheine. Bevor Sie den Warenkorb füllen, prüfen Sie, ob YesStyle in Ihr Land liefert."
+        "Bei der ersten Bestellung bei YesStyle gibt CECILIA010 im Feld Reward Code 5 % extra (bei den folgenden Bestellungen 2 %) und lässt sich zusammen mit einem Shop-Gutschein im Feld Coupon Code nutzen. Den Gutschein der Aktion finden Sie auf unserer Seite zu [YesStyle-Gutscheinen](/de/coupons/yesstyle); persönliche Gutscheine, falls vorhanden, stehen in Ihrem Konto unter Account > Coupons. Bevor Sie den Warenkorb füllen, prüfen Sie, ob YesStyle in Ihr Land liefert."
       ]
     },
     {
-      "heading": "YesStyle erste Bestellung: was Sie eingeben",
+      "heading": "YesStyle erste Bestellung: der Shop und was Sie nutzen",
       "paragraphs": [
-        "Sie machen Ihre erste Bestellung bei YesStyle? Geben Sie CECILIA010 im Feld Reward Code ein. Laut Shop gibt es 5 % auf die erste Bestellung und 2 % auf die folgenden.",
-        "Codes von Gutschein-Seiten funktionieren womöglich nicht. Prüfen Sie vor dem Bezahlen die Rabattzeile in der Bestellübersicht. Die Bedingungen stehen auf der Seite zum [YesStyle-Belohnungscode](/de/coupons/yesstyle)."
+        "YesStyle ist ein Shop aus Hongkong, seit 2006 online, mit koreanischer Beauty, asiatischer Kosmetik und Mode für mehr als 150 Länder. Wenn dies Ihre erste Bestellung ist und Sie nicht sicher sind, ob Sie dem Shop vertrauen können, finden Sie Firmendaten und Rückgaberegeln unter [Ist YesStyle seriös?](/de/reviews/ist-yesstyle-serioes-und-sicher).",
+        "Bei der ersten Bestellung kann der Rabatt aus zwei Quellen kommen: einem Gutschein von YesStyle selbst, sofern einer für Ihre Bestellung gilt, und unserem Belohnungscode CECILIA010. Mit dem Code nennt der Shop 5 % extra auf die erste Bestellung und 2 % auf die folgenden.",
+        "Von anderen Seiten kopierte Codes sind womöglich abgelaufen. Prüfen Sie vor dem Bezahlen die Rabattzeile in der Bestellübersicht."
       ]
     },
     {
-      "heading": "Belohnungscode ist kein Gutschein",
+      "heading": "Gutschein und Reward Code: zwei Rabatte in einer Bestellung",
       "paragraphs": [
-        "Der Checkout hat zwei Codefelder: das für Gutscheine und das Feld Reward Code. CECILIA010 ist ein Belohnungscode und gehört ins Feld Reward Code, ohne das Gutscheinfeld zu belegen."
+        "Der Checkout von YesStyle hat zwei Codefelder, und jedes Feld nimmt nur eine Art von Code an:"
+      ],
+      "bullets": [
+        "**YesStyle-Gutschein:** gehört ins Feld Coupon Code. Er ändert sich mit jeder Aktion, hat eine Frist und verlangt oft einen Mindestbestellwert. Der Shop akzeptiert einen pro Bestellung.",
+        "**CECILIA010:** gehört ins Feld Reward Code. Er ist fest und ändert sich nicht von Aktion zu Aktion: 5 % extra auf die erste Bestellung und 2 % auf die folgenden."
+      ],
+      "postParagraphs": [
+        "Da die Felder getrennt sind, nimmt der Belohnungscode nicht den Platz des Gutscheins ein. Gibt es einen passenden Gutschein für Ihre Bestellung, gelten beide zusammen: Prüfen Sie vor dem Bezahlen beide Rabattzeilen in der Bestellübersicht.",
+        "Beides steht zusammen auf unserer Seite zu [YesStyle-Gutscheinen](/de/coupons/yesstyle): der aktuell gültige Gutschein, bei jeder Aktion aktualisiert, und CECILIA010."
+      ]
+    },
+    {
+      "heading": "Wo Sie den YesStyle-Gutschein finden",
+      "paragraphs": [
+        "Der Gutschein einer Aktion gilt oft nur wenige Tage, prüfen Sie die Gültigkeit also beim Kauf. Suchen Sie an diesen vier Orten:"
+      ],
+      "bullets": [
+        "**Unsere Gutscheinseite:** Die Seite zu [YesStyle-Gutscheinen](/de/coupons/yesstyle) zeigt den Gutschein der laufenden Aktion, auf der offiziellen Website geprüft, mit seiner Frist.",
+        "**Ihr Konto bei YesStyle:** Tippen Sie in der App mit englischer Oberfläche auf Account und dann auf Coupons. Dort stehen persönliche Gutscheine, die zu Ihrem Konto gehören, und die Liste kann leer sein.",
+        "**Ihr E-Mail-Postfach:** YesStyle verschickt Gutscheine per E-Mail, und Bestandskunden können exklusive Gutscheine erhalten. Schauen Sie in den Posteingang und in den Werbeordner, bevor Sie die Bestellung abschließen.",
+        "**Die Startseite des Shops:** Website und App zeigen den Gutschein der Aktion meist in einem Banner, mit dem Code zum Kopieren."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+        "alt": "Drei Bildschirme der YesStyle-App: die Startseite mit dem Gutschein der Aktion im Banner, der Bildschirm My Account mit dem Eintrag Coupons und der Bildschirm YesStyle Coupons ohne Gutschein im Konto",
+        "caption": "Gutschein der Aktion auf dem Startbildschirm und persönliche Gutscheine unter Account > Coupons, in der englischen Android-App. In diesem Screenshot hatte das Konto keine persönlichen Gutscheine, und der Code der Aktion wurde abgedeckt.",
+        "objectFit": "contain",
+        "aspectRatio": 1.5127
+      },
+      "postParagraphs": [
+        "Der Gutschein der Aktion und die Gutscheine Ihres Kontos können sich unterscheiden, und nur einer gilt pro Bestellung. Passen mehrere zu Ihrem Warenkorb, vergleichen Sie die Bedingungen und nehmen Sie den mit dem größten Rabatt in der Übersicht. Lehnt der Checkout den Gutschein ab, stehen die häufigsten Gründe unter [YesStyle-Gutscheine finden und kombinieren](/de/reviews/gueltige-yesstyle-gutscheincodes-finden)."
       ]
     },
     {
       "heading": "Und bei der zweiten Bestellung?",
       "paragraphs": [
-        "Bei der zweiten Bestellung gilt CECILIA010 weiter, mit 2 % extra statt 5 % bei der ersten. Code und Feld bleiben gleich: Nur der Prozentsatz ändert sich."
+        "Bei der zweiten Bestellung gilt CECILIA010 weiter, mit 2 % extra statt 5 % bei der ersten. Code und Feld bleiben gleich: Nur der Prozentsatz ändert sich.",
+        "Die Gutscheine des Shops laufen getrennt weiter. Schauen Sie erneut in den Bereich Coupons im Konto und in Ihre E-Mails: Bestandskunden können exklusive Gutscheine erhalten, aber nicht bei jeder Bestellung."
       ]
     },
     {
@@ -83,13 +121,13 @@
       ]
     },
     {
-      "heading": "Wo Sie den Code eingeben",
+      "heading": "Wo Sie jeden Code eingeben",
       "paragraphs": [
-        "Das Feld heißt je nach Bildschirm anders. Das sind die zwei Wege:"
+        "Melden Sie sich in Ihrem YesStyle-Konto an, bevor Sie die Codes anwenden. Der Feldname ändert sich je nach Bildschirm; das sind die zwei Wege:"
       ],
       "bullets": [
-        "**Auf der Website:** Im Checkout heißt das Feld Reward Code oder Belohnungscode. Geben Sie CECILIA010 ein und wenden Sie ihn an.",
-        "**In der App:** Tippen Sie auf Enter Code und geben Sie den Code im Feld Influencer / Rewards Code ein, das unter dem Coupon Code steht. Tippen Sie auf Apply."
+        "**Auf der Website:** Im Checkout gehört der Shop-Gutschein, falls vorhanden, ins Feld Coupon Code. CECILIA010 gehört in ein anderes Feld, Reward Code oder Belohnungscode. Geben Sie ihn ein und wenden Sie ihn an.",
+        "**In der App:** Tippen Sie auf Enter Code. Der Shop-Gutschein, falls vorhanden, kommt ins Feld Coupon Code, CECILIA010 direkt darunter ins Feld Influencer / Rewards Code. Tippen Sie auf Apply."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
@@ -106,6 +144,9 @@
       "heading": "Häufige Fragen",
       "bullets": [
         "Gibt es einen YesStyle-Code für die erste Bestellung? Ja: CECILIA010 gibt 5 % extra auf die erste Bestellung und 2 % auf die folgenden, im Feld Reward Code.",
+        "Wo finde ich den aktuellen YesStyle-Gutschein? Der Gutschein der Aktion steht auf unserer Seite zu [YesStyle-Gutscheinen](/de/coupons/yesstyle) und in den Bannern des Shops. Der Bereich Coupons im Konto und die E-Mails von YesStyle können persönliche Gutscheine enthalten.",
+        "Kann ich den YesStyle-Gutschein und CECILIA010 in derselben Bestellung nutzen? Ja, mit passendem Gutschein: Der Gutschein kommt ins Feld Coupon Code, CECILIA010 ins Feld Reward Code.",
+        "Erhalten Bestandskunden Gutscheine von YesStyle? Möglich, aber ohne Garantie: Der Shop schickt exklusive Gutscheine per E-Mail, und der Bereich Coupons im Konto zeigt die verfügbaren.",
         "Gilt CECILIA010 bei der zweiten Bestellung? Ja: 2 % extra auf die folgenden Bestellungen, statt 5 % bei der ersten.",
         "In welches Feld gehört CECILIA010? In das Feld Reward Code, getrennt vom Gutscheinfeld: Es ist ein Belohnungscode.",
         "Gilt CECILIA010 in der App? Ja: Geben Sie den Code im Feld Influencer / Rewards Code auf dem Bildschirm Enter Code ein."

@@ -15,11 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "在 YesStyle，CECILIA010 首次下單額外享 5%，之後的訂單享 2%，填在 Reward Code 欄位。看看兩次訂單之間有什麼不同，以及下單前該確認什麼。",
-  "metaDescription": "CECILIA010 是 YesStyle 獎勵碼：首購 5%、之後訂單 2%，填在 Reward Code 欄位。第一次下單前，看看該確認什麼。",
+  "description": "看看哪裡找得到 YesStyle 優惠券，以及如何搭配 CECILIA010：首購額外 5%、之後 2%，網站和 App 都能用，各填各的欄位。",
+  "metaDescription": "CECILIA010 在 YesStyle 首購額外享 5%、之後 2%，填在 Reward Code 欄位。看看哪裡找得到商店優惠券，第一筆訂單就能一起用。",
   "publishedAt": "2026年11月13日",
   "publishedAtISO": "2026-11-13",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-15",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -43,6 +43,12 @@
       "slug": "yesstyle-reward-code-cecilia010-zh-hant"
     },
     {
+      "slug": "yesstyle-valid-coupon-guide-zh-hant"
+    },
+    {
+      "slug": "yesstyle-trust-guide-zh-hant"
+    },
+    {
       "slug": "yesstyle-app-reward-code-zh-hant"
     },
     {
@@ -53,26 +59,58 @@
     {
       "heading": "快速解答",
       "paragraphs": [
-        "在 YesStyle 第一次下單，CECILIA010 額外享 5%；之後的訂單享 2%。它是獎勵碼，不是優惠券：要填在 Reward Code 欄位，與優惠券欄位分開。建立購物車之前，請先確認 YesStyle 是否寄送到你所在的國家或地區。"
+        "在 YesStyle 第一次下單，CECILIA010 填在 Reward Code 欄位，首購額外享 5%（之後的訂單享 2%），並可和商店優惠券一起使用，優惠券填在 Coupon Code 欄位。活動優惠券在我們的[YesStyle 優惠券頁面](/zh-hant/coupons/yesstyle)；個人優惠券（如果有）會出現在你的帳號 Account > Coupons。建立購物車之前，請先確認 YesStyle 是否寄送到你所在的國家或地區。"
       ]
     },
     {
-      "heading": "YesStyle 首購：該用什麼",
+      "heading": "YesStyle 首購：商店介紹與該用什麼",
       "paragraphs": [
-        "要在 YesStyle 完成第一筆訂單嗎？把 CECILIA010 填在 Reward Code 欄位。依商店說明：首購 5%，之後的訂單 2%。",
-        "在優惠券網站找到的代碼不一定有效。付款前請確認訂單摘要中的折扣。使用條件請見[YesStyle 獎勵碼頁面](/zh-hant/coupons/yesstyle)。"
+        "YesStyle 是總部在香港的商店，2006 年起營運，販售韓國美妝、亞洲保養品與時尚，寄送全球 150 多個國家和地區。如果這是你的第一筆訂單，還不確定能不能信任，公司資料與退貨規則請見[YesStyle 可靠嗎？](/zh-hant/reviews/yesstyle-trust-guide-zh-hant)。",
+        "第一筆訂單的折扣可能來自兩個地方：YesStyle 自家的優惠券（有適用於你這筆訂單的有效券時），以及我們的獎勵碼 CECILIA010。使用獎勵碼，商店說明首購額外享 5%，之後的訂單享 2%。",
+        "從其他網站複製的代碼可能已過期：付款前請確認訂單摘要中的折扣行。"
       ]
     },
     {
-      "heading": "獎勵碼不是優惠券",
+      "heading": "優惠券 + Reward Code：同一筆訂單用兩種折扣",
       "paragraphs": [
-        "結帳頁有兩個代碼欄位：優惠券欄位與 Reward Code 欄位。CECILIA010 是獎勵碼，填在 Reward Code，不會佔用優惠券欄位。"
+        "YesStyle 結帳頁有兩個代碼欄位，各自接受不同的東西："
+      ],
+      "bullets": [
+        "**YesStyle 優惠券：** 填在 Coupon Code 欄位。每檔活動都不同，有期限，通常有最低消費門檻。每筆訂單只能用一張。",
+        "**CECILIA010：** 填在 Reward Code 欄位。它是固定的，不會隨活動改變：首購額外享 5%，之後的訂單享 2%。"
+      ],
+      "postParagraphs": [
+        "欄位是分開的，所以獎勵碼不會佔用優惠券的位置。如果有適用於你訂單的優惠券，兩者會一起生效：付款前請確認訂單摘要中的兩行折扣。",
+        "兩個折扣一起放在我們的[YesStyle 優惠券頁面](/zh-hant/coupons/yesstyle)：目前有效的優惠券（每檔活動更新），以及 CECILIA010。"
+      ]
+    },
+    {
+      "heading": "哪裡找得到 YesStyle 優惠券",
+      "paragraphs": [
+        "活動優惠券通常只維持幾天，所以購買時請確認期限。請從這四個地方找："
+      ],
+      "bullets": [
+        "**我們的優惠券頁面：** [YesStyle 優惠券](/zh-hant/coupons/yesstyle)頁面顯示目前進行中的活動優惠券，已對照官方網站確認，並附上期限。",
+        "**你的 YesStyle 帳號：** 在英文介面的 App 點選 Account，再點選 Coupons。綁定你帳號的個人優惠券會出現在那裡，清單也可能是空的。",
+        "**你的電子郵件：** YesStyle 會寄優惠券到信箱，老顧客也可能收到專屬優惠券。下單前請查看收件匣與促銷郵件分類。",
+        "**商店首頁：** 網站和 App 通常會在橫幅顯示該檔活動的優惠券，代碼可以直接複製。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+        "alt": "YesStyle App 的三個畫面：橫幅顯示活動優惠券的首頁、有 Coupons 入口的 My Account 畫面，以及帳號內沒有優惠券的 YesStyle Coupons 畫面",
+        "caption": "Android 英文介面 App 畫面：首頁橫幅上的活動優惠券，以及個人優惠券所在的 Account > Coupons。這張截圖中帳號沒有個人優惠券，活動優惠券的代碼已遮住。",
+        "objectFit": "contain",
+        "aspectRatio": 1.5127
+      },
+      "postParagraphs": [
+        "活動優惠券和帳號裡的優惠券可能不同，一筆訂單只能用一張。如果有多張適用於你的購物車，請比較條件，選擇訂單摘要中折扣最大的那一張。如果結帳頁拒絕優惠券，常見原因請見[如何找到並搭配 YesStyle 優惠券](/zh-hant/reviews/yesstyle-valid-coupon-guide-zh-hant)。"
       ]
     },
     {
       "heading": "第二次下單呢？",
       "paragraphs": [
-        "第二次下單時，CECILIA010 仍然有效，額外享 2%。代碼和欄位都一樣，只有百分比不同。"
+        "第二次下單時，CECILIA010 仍然有效，額外享 2%。代碼和欄位都一樣，只有百分比不同。",
+        "商店優惠券另外計算。可以再看一次帳號中的 Coupons 區與電子郵件：老顧客可能收到專屬優惠券，但不是每筆訂單都有。"
       ]
     },
     {
@@ -83,13 +121,13 @@
       ]
     },
     {
-      "heading": "代碼要填在哪裡",
+      "heading": "每個代碼填在哪裡",
       "paragraphs": [
-        "欄位名稱會依畫面而不同。以下是兩條路徑："
+        "請先登入 YesStyle 帳號再套用代碼。欄位名稱會依畫面而不同，以下是兩條路徑："
       ],
       "bullets": [
-        "**網站：** 在結帳頁，欄位名為 Reward Code（獎勵碼）。輸入 CECILIA010 並套用。",
-        "**App：** 點選 Enter Code，在 Coupon Code 下方的 Influencer / Rewards Code 欄位輸入，再點選 Apply。"
+        "**網站：** 在結帳頁，商店優惠券（如果有）填在 Coupon Code 欄位。CECILIA010 填在另一個欄位 Reward Code（獎勵碼）。輸入後套用。",
+        "**App：** 點選 Enter Code。商店優惠券（如果有）填在 Coupon Code 欄位，CECILIA010 填在正下方的 Influencer / Rewards Code 欄位，再點選 Apply。"
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
@@ -106,6 +144,9 @@
       "heading": "常見問題（FAQ）",
       "bullets": [
         "YesStyle 有首購代碼嗎？有：CECILIA010 在第一次下單額外享 5%，之後的訂單享 2%，填在 Reward Code 欄位。",
+        "哪裡找得到目前有效的 YesStyle 優惠券？活動優惠券在我們的[YesStyle 優惠券頁面](/zh-hant/coupons/yesstyle)和商店橫幅上。帳號的 Coupons 區與 YesStyle 的電子郵件可能有個人優惠券。",
+        "YesStyle 優惠券和 CECILIA010 可以用在同一筆訂單嗎？可以，需有符合資格的優惠券：優惠券填在 Coupon Code 欄位，CECILIA010 填在 Reward Code。",
+        "老顧客會收到 YesStyle 優惠券嗎？有可能，但沒有保證：商店會以電子郵件寄送專屬優惠券，帳號的 Coupons 區會顯示目前可用的。",
         "CECILIA010 第二次下單還能用嗎？可以，之後的訂單額外享 2%。",
         "CECILIA010 要填在哪個欄位？填在 Reward Code，與優惠券欄位分開：它是獎勵碼。",
         "CECILIA010 在 App 可以用嗎？可以：在 Enter Code 畫面的 Influencer / Rewards Code 欄位輸入代碼。"
