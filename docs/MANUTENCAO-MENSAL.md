@@ -330,7 +330,15 @@ compra de fora) e qual link vale fora do português. Sem essa resposta, a loja e
    ou vender fora do Brasil não prova isso. Sem a confirmação, a loja não entra na lista: as páginas dos 9 idiomas saem do
    mesmo jeito, e as campanhas dos 10 idiomas levam um link que valha em todos. Na lista, o `test:coupon-translations` barra
    loja ativa sem página nos 9 idiomas.
-5. Rodar `npm run typecheck`, `npm run test:coupon-translations`, `npm run test:locale-home` e o `npm run build`.
+5. "O que acumula" e o print fora do PT não entram sozinhos: cada um só sai na página do idioma se a tradução trouxer
+   o dado (`stacking` na loja de código, `cartPrint` nas duas). Vale só o que foi visto no site que a página do idioma
+   abre (o global, não o brasileiro): as linhas da tabela vêm de teste ou regra lida nesse site, e o print é uma captura
+   dele em inglês, sem login e sem concluir compra, em arquivo `-en.webp` (um só para os nove idiomas, com o alt de cada
+   um; na loja de link, também a legenda própria). Se a loja tem o artigo do passo a passo nos 10 idiomas, pôr o print
+   também no artigo e o `article` de cada idioma na tradução, para a página ganhar o link. "Vantagens além do cupom",
+   "Por que o cupom não funcionou?" e "Vídeos" seguem só em português. Registrar no dossiê a data, o site, a moeda e
+   as condições de cada evidência.
+6. Rodar `npm run typecheck`, `npm run test:coupon-translations`, `npm run test:locale-home` e o `npm run build`.
 
 **Entra sozinho com a entrada do passo 2:** as páginas `/<idioma>/coupons/<loja>` com hreflang, o cartão no hub
 `/<idioma>/coupons`, a bolinha e a aba na home de cada idioma, o nome da loja no FAQ, a busca de cada idioma, o sitemap, o
