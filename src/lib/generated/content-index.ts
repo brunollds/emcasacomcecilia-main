@@ -215258,6 +215258,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Para a primeira compra na DAMIE, use CECILIA12: 12% OFF em todos os produtos do site, com todas as formas de pagamento. Vale de novo para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/damie/cupom-damie-primeira-compra-capa-v2.webp",
@@ -215296,6 +215297,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom DAMIE primeira compra: qual usar",
         "paragraphs": [
+          "A DAMIE vende poltronas reclináveis e sofás modulares no site oficial. Se você quer conhecer o atendimento antes do primeiro pedido, veja [DAMIE no Reclame Aqui: o que os dados mostram](/reviews/damie-reclame-aqui-o-que-os-dados-mostram).",
           "O cupom para a primeira compra na DAMIE é o CECILIA12: 12% de desconto em todos os produtos do site, da poltrona reclinável ao sofá modular, sem restrição de categoria ou de modelo.",
           "Ele é o código da parceria da Cecília com a marca, o mesmo [cupom DAMIE](/cupons/damie) que conferimos no carrinho. Código achado em site de cupom pode estar vencido. Se o desconto não aparecer no resumo do pedido, apague o que você digitou e use o CECILIA12 antes de pagar."
         ]
@@ -215381,7 +215383,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom DAMIE de primeira compra? Sim. O CECILIA12 dá 12% em todos os produtos do site, no primeiro pedido e nos seguintes.",
+          "Como conseguir desconto na primeira compra na DAMIE? O CECILIA12 dá 12% em todos os produtos do site, no primeiro pedido e nos seguintes.",
           "Qual cupom DAMIE vale para quem já é cliente? O mesmo CECILIA12, sem limite de usos por CPF.",
           "O cupom DAMIE de primeira compra soma com o Pix? Sim. O código entra sobre o preço que já tem o desconto do Pix e soma também com as promoções do site. A conta está no capítulo do Pix.",
           "O cupom vale no Mercado Livre? Não. O CECILIA12 só vale no site oficial da DAMIE; nos anúncios da marca no Mercado Livre vale o preço do anúncio."
@@ -216497,6 +216499,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "CECI: 10% OFF na Nestlé Nutre, na primeira compra e nas seguintes. Exceto Alfamino, Alfaré e fórmulas de 0 a 12 meses; não vale na assinatura.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-capa.webp",
@@ -216532,6 +216535,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Nestlé Nutre primeira compra: qual usar",
         "paragraphs": [
+          "A Nestlé Nutre é uma loja online da Nestlé voltada a produtos de nutrição. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Nestlé Nutre é confiável?](/reviews/nestle-nutre-e-confiavel).",
           "Use o CECI: 10% OFF nos produtos elegíveis do site oficial, sem valor mínimo, na opção “Compra única”. Ele vale no primeiro pedido e nos seguintes. Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses ficam de fora; a assinatura não aceita o código.",
           "É o [cupom Nestlé Nutre](/cupons/nestle-nutre) da nossa parceria com a loja, testado no checkout. O carrinho mostra o desconto antes do pagamento."
         ]
@@ -216618,7 +216622,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom Nestlé Nutre de primeira compra? Sim. CECI dá 10% nos produtos elegíveis da compra única, no primeiro pedido e nos seguintes. Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses ficam de fora; a assinatura não aceita o código.",
+          "Como conseguir desconto na primeira compra na Nestlé Nutre? CECI dá 10% nos produtos elegíveis da compra única, no primeiro pedido e nos seguintes. Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses ficam de fora; a assinatura não aceita o código.",
           "Qual cupom Nestlé Nutre vale para quem já é cliente? O mesmo CECI, com 10% nos produtos elegíveis da compra única. Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses ficam de fora; a assinatura não aceita o código.",
           "O CECI vale na assinatura? Não. A assinatura da loja não aceita o código.",
           "O CECI vale para fórmula infantil? Não, em nenhuma fórmula para bebês de 0 a 12 meses.",
@@ -216646,6 +216650,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "CECI dá 10% OFF em produtos elegíveis da Dolce Gusto, em compras a partir de R$ 100 no site ou no app. Vale na primeira compra e nas seguintes.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dolcegusto/cupom-dolce-gusto-primeira-compra-capa-v2.webp",
@@ -216681,6 +216686,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Dolce Gusto primeira compra: qual usar",
         "paragraphs": [
+          "A loja oficial da NESCAFÉ Dolce Gusto vende máquinas, cápsulas e acessórios. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Dolce Gusto é confiável?](/reviews/dolce-gusto-e-confiavel).",
           "Use o CECI: 10% OFF nos produtos elegíveis da loja oficial, em compras a partir de R$ 100 no site ou no aplicativo. Ele vale no primeiro pedido e nos seguintes, com o mesmo mínimo.",
           "É o [cupom Dolce Gusto](/cupons/dolce-gusto) da nossa parceria com a marca, testado no carrinho. O resumo do pedido mostra o desconto antes do pagamento."
         ]
@@ -216767,7 +216773,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom Dolce Gusto de primeira compra? Sim. O CECI dá 10% nos produtos elegíveis, em compras a partir de R$ 100, no primeiro pedido e nos seguintes.",
+          "Como conseguir desconto na primeira compra na Dolce Gusto? O CECI dá 10% nos produtos elegíveis, em compras a partir de R$ 100, no primeiro pedido e nos seguintes.",
           "Qual cupom Dolce Gusto vale para quem já é cliente? O mesmo CECI: 10% nos produtos elegíveis, em compras a partir de R$ 100.",
           "O CECI vale em máquinas Dolce Gusto? Pode funcionar, conforme o produto e a campanha. Confira no checkout se o CECI foi aceito e se o desconto apareceu.",
           "O cupom Dolce Gusto dá frete grátis? O CECI não desconta o frete. Confira o valor da entrega no carrinho."
@@ -217422,6 +217428,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "EMCASA dá 10% OFF no site e no app da Petz na primeira compra e nas seguintes. Em produto já em oferta, a sacola fica com o desconto maior.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/petz/cupom-petz-primeira-compra-capa-v2.webp",
@@ -217463,6 +217470,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Petz primeira compra: qual usar",
         "paragraphs": [
+          "A Petz é uma rede de pet shops com lojas físicas, site e aplicativo, onde vende rações, itens de higiene e acessórios para animais. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Petz é confiável?](/reviews/petz-e-confiavel).",
           "Use o EMCASA: 10% OFF nas compras no site e no aplicativo da Petz, no primeiro pedido e nos seguintes. Num item já em promoção, vale o desconto maior, não os dois.",
           "É o [cupom Petz](/cupons/petz) da nossa parceria com a loja, testado na sacola. Ração, areia ou acessório: o código é o mesmo."
         ]
@@ -217560,7 +217568,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom Petz de primeira compra? Sim. O EMCASA dá 10% no site e no aplicativo, no primeiro pedido e nos seguintes. Em item já em promoção, vale o desconto maior.",
+          "Qual é o desconto na primeira compra na Petz? Use EMCASA para 10% de desconto no site e no app, no primeiro pedido e nos seguintes. Em item em promoção, vale o desconto maior; o cupom não acumula com a Assinatura Petz.",
           "Qual cupom Petz vale para quem já é cliente? O mesmo EMCASA, com 10% no site e no aplicativo. Em item em promoção, a sacola mantém o desconto maior; o cupom não soma com o desconto da assinatura.",
           "O cupom Petz soma com promoção? Não. Em cada item, a sacola fica com o desconto maior: a oferta ou os 10% do código.",
           "O cupom Petz vale no aplicativo? Sim, no aplicativo e no site.",
@@ -217588,6 +217596,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "MAUAD dá 5% OFF no site da Let's Eat It na primeira compra. O mesmo código vale para quem já comprou e soma com as promoções do site.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/letseatit/cupom-letseatit-primeira-compra-capa-v2.webp",
@@ -217623,6 +217632,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Let's Eat It primeira compra: qual usar",
         "paragraphs": [
+          "A Let's Eat It vende panelas, louças e utensílios de cozinha na sua loja online. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Let's Eat It é confiável?](/reviews/lets-eat-it-e-confiavel).",
           "Use o MAUAD: 5% OFF nas compras no site oficial, no primeiro pedido e nos seguintes. Ele soma com as promoções do site.",
           "É o [cupom Let's Eat It](/cupons/letseatit) da nossa parceria com a loja, testado no checkout. Panela, louça ou presente: o código é o mesmo."
         ]
@@ -217712,7 +217722,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom Let's Eat It de primeira compra? Sim. O MAUAD dá 5% no site oficial, no primeiro pedido e nos seguintes.",
+          "Como conseguir desconto na primeira compra na Let's Eat It? O MAUAD dá 5% no site oficial, no primeiro pedido e nos seguintes.",
           "Qual cupom Let's Eat It vale para quem já é cliente? O mesmo MAUAD, com os mesmos 5%.",
           "O cupom Let's Eat It soma com produto em promoção? Sim. Os 5% entram sobre o preço promocional.",
           "O cupom Let's Eat It vale no Mercado Livre? Não. Ele vale no site oficial da Let's Eat It.",
@@ -218237,9 +218247,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Os códigos da Cecília no Magalu dão de R$ 10 a R$ 100 OFF conforme o valor do carrinho, na primeira compra e nas seguintes. Veja as regras antes de pagar.",
-    "metaDescription": "Para a primeira compra no Magalu, use os códigos por faixa da Cecília: não há exigência de primeira compra, e eles valem só no navegador.",
+    "metaDescription": "10EMCASACOMCECILIA dá R$ 10 a partir de R$ 499,90, em itens vendidos e entregues pelo Magalu, na loja Magazine Você da Cecília pelo navegador.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/magalu/cupom-magalu-primeira-compra-capa-v2.webp",
@@ -218269,12 +218280,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "No Magalu, os códigos da Cecília não exigem primeira compra: valem para cliente novo e antigo, em qualquer pedido que atinja o mínimo da faixa. Eles funcionam só pelo navegador, na loja Magazine Você da Cecília, e não no aplicativo do Magalu. Vale um código por pedido, o da maior faixa que o carrinho alcançar."
+          "Na primeira compra, use 10EMCASACOMCECILIA para 10 reais de desconto a partir de 499,90 reais, na loja Magazine Você da Cecília. Os códigos têm outras faixas e valem só pelo navegador, em produtos vendidos e entregues pelo Magalu. Também servem para quem já comprou; não funcionam no app."
         ]
       },
       {
         "heading": "Cupom Magalu primeira compra: qual código usar",
         "paragraphs": [
+          "O Magalu reúne produtos próprios e de lojistas parceiros. Os códigos deste guia são da loja Magazine Você da Cecília, que faz parte do programa de influenciadores do Magalu e é acessada pelo navegador. Veja [Magazine Você é confiável?](/reviews/magazine-voce-e-confiavel) para entender quem vende, cobra e entrega.",
           "Use o código da faixa do seu carrinho. São dez, de 10EMCASACOMCECILIA (R$ 10 OFF em compras a partir de R$ 499,90) a 100EMCASACOMCECILIA (R$ 100 OFF a partir de R$ 4.999,90). Vale o da maior faixa que o carrinho alcançar.",
           "O número na frente do código é o desconto em reais, não um percentual. A lista das dez faixas está na página do [cupom Magalu](/cupons/magalu)."
         ]
@@ -218282,8 +218294,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Navegador ou aplicativo",
         "paragraphs": [
-          "Os códigos só são aceitos pelo navegador, do celular ou do computador, na loja Magazine Você da Cecília. No aplicativo do Magalu, o código não é aplicado.",
-          "A loja Magazine Você faz parte do programa de influenciadores do Magalu; em [Magazine Você é confiável?](/reviews/magazine-voce-e-confiavel) explicamos quem vende e quem entrega."
+          "Os códigos só são aceitos pelo navegador, do celular ou do computador, na loja Magazine Você da Cecília. No aplicativo do Magalu, o código não é aplicado."
         ]
       },
       {
@@ -218329,7 +218340,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom Magalu de primeira compra? Não há exigência de primeira compra: os códigos da Cecília valem em qualquer pedido que atinja o mínimo da faixa, na loja Magazine Você da Cecília.",
+          "Como conseguir desconto na primeira compra no Magalu? Na loja Magazine Você da Cecília, pelo navegador, o 10EMCASACOMCECILIA dá R$ 10 de desconto em compras a partir de R$ 499,90, em produtos vendidos e entregues pelo Magalu. Há outras faixas, até R$ 100; os códigos também valem para quem já comprou e não funcionam no app.",
           "O cupom Magalu vale no app? Não. Os códigos da Cecília valem só pelo navegador, na loja Magazine Você da Cecília.",
           "Preciso criar uma conta nova? Não. Você entra com a sua conta Magalu de sempre.",
           "O cupom dá frete grátis? Não. O desconto entra só no valor dos produtos, e o frete é calculado à parte."
@@ -220078,6 +220089,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Na primeira compra na La Ganexa, use o CECILIA: 10% OFF, inclusive em promoção. Vale também para quem já comprou; o frete grátis conta depois do cupom.",
     "publishedAt": "13 de novembro de 2026",
     "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/laganexa/cupom-la-ganexa-primeira-compra-capa-v2.webp",
@@ -220116,6 +220128,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom La Ganexa primeira compra: qual usar",
         "paragraphs": [
+          "A La Ganexa vende doces e pastas, como doce de leite, brigadeiro de colher e pasta de amendoim. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [La Ganexa é confiável?](/reviews/la-ganexa-e-confiavel).",
           "Use o CECILIA. Ele dá 10% OFF no site oficial da La Ganexa, e o mesmo código serve para o primeiro pedido e para os seguintes.",
           "Código achado em site de cupom pode não funcionar. O CECILIA foi testado por nós no checkout, e as condições dele estão na página do [cupom La Ganexa](/cupons/la-ganexa)."
         ]
@@ -220131,7 +220144,7 @@ export const reviewsData: unknown[] = [
           "**Frete grátis.** Acima de R$ 250 no Sul e no Sudeste, e acima de R$ 350 nas demais regiões. O mínimo conta depois do cupom: por exemplo, um carrinho de R$ 270 no Sudeste cai para R$ 243 e perde o frete grátis. A loja diz que o Kit 2 Doce de Leite não entra na conta do mínimo."
         ],
         "postParagraphs": [
-          "Perto do mínimo da sua região, informe o CEP e veja o frete antes de pagar. Para saber como a loja trata trocas e entregas, veja [La Ganexa é confiável?](/reviews/la-ganexa-e-confiavel)."
+          "Perto do mínimo da sua região, informe o CEP e veja o frete antes de pagar."
         ]
       },
       {
@@ -220183,7 +220196,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom La Ganexa de primeira compra? Tem: o CECILIA dá 10% OFF no site oficial e vale no primeiro pedido e nos seguintes.",
+          "Como conseguir desconto na primeira compra na La Ganexa? O CECILIA dá 10% OFF no site oficial e vale no primeiro pedido e nos seguintes.",
           "Qual cupom La Ganexa vale para quem já é cliente? O CECILIA, para cliente novo e antigo.",
           "O cupom soma com produto em promoção? Soma: o desconto entra sobre o preço promocional. Dois kits a loja marca como não cumulativos com cupom: o Kit 2 Doce de Leite, que aceitou o CECILIA no nosso teste, e o Kit 2 Brigadeiros de Colher, que não testamos.",
           "O primeiro pedido tem frete grátis? Depende da região: acima de R$ 250 no Sul e no Sudeste e acima de R$ 350 nas demais. O mínimo conta depois do cupom."
