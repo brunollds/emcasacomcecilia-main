@@ -96,7 +96,7 @@ Artigo `barra-de-proteina-qual-escolher` (id 980), revisado pelo Bruno e pelo Fa
 - **Mais Mu:** preço riscado de R$ 179,88 (Mukebar 720 g) e R$ 131,88 (Crush Bar); oferta de R$ 152,90 e R$ 92,32. O
   artigo usa o riscado como referência e a oferta numa tabela à parte. Link e foto da Mukebar são do sabor Chocolate
   com Avelã, o do rótulo. A página da Crush Bar Chocolate declara lactose e traz duas frases opostas sobre glúten.
-- **Probiótica, código:** sem teste de carrinho; a tabela de preço mostra a Probiótica sem código.
+- **Probiótica, código:** teste de carrinho em 14/11 (sem comprar), com uma caixa de Whey Bar Chocolate e uma de Creamy Chocolate: o PRO10EMCASACOMCECILIA tirou 2% de cada uma (R$ 139,88 para R$ 137,08 e R$ 77,89 para R$ 76,33). A tabela de preço usa esses valores. Com o código aplicado, o brinde do squeeze saiu do carrinho e ficou só o kit de amostras; não investiguei a regra.
 - **Dr. Peanut:** o preço do display é o lido pelo Job 1 em 14/11; a busca da loja não abriu na redação.
 - **Max Titanium:** ficou só numa frase com link para `/cupons/max-titanium` (o Bruno não pediu a troca).
 - **Links de volta:** guias da Mais Mu e da Dr. Peanut, BD1, BD2 e BD3.

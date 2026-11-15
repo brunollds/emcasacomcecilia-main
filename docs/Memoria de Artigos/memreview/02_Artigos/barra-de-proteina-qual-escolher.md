@@ -9,7 +9,7 @@ type: "Comparativo de Snacks"
 anexo_tipo: "nenhum"
 status: "no-ar"
 responsavel: "Claude"
-proxima_acao: "no ar desde 14/11/2026 (release 67d3ac5e); reler preços e rótulos na revisão mensal de dezembro de 2026; testar o código da Probiótica na barra"
+proxima_acao: "no ar desde 14/11/2026 (release 67d3ac5e); reler preços e rótulos na revisão mensal de dezembro de 2026"
 bloqueado_por: null
 score_autoridade: 72
 score_conversao: 76
