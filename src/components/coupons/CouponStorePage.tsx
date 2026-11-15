@@ -258,7 +258,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
   const testedAt = couponCodeOffer?.testNote && couponCodeOffer.testedAt ? formatLongDate(couponCodeOffer.testedAt) : null;
   // As duas seções só existem onde o copy do idioma as tem (hoje, o português).
   const stackingCopy = copy.stacking;
-  const stackingRows = stackingCopy && couponCodeOffer?.stacking?.length ? couponCodeOffer.stacking : null;
+  const stackingRows = couponCodeOffer?.stacking?.length ? couponCodeOffer.stacking : null;
   const failedCopy = couponCodeOffer ? copy.failed : undefined;
   // "Vantagens além do cupom": o parcelamento vem do `paymentPerks`; o Pix, o frete grátis e a retirada repetem a
   // condição do `stacking`, a mesma fonte da tabela.
@@ -275,7 +275,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
         .filter((group) => group.items.length > 0)
     : [];
   const videosCopy = copy.videos;
-  const cartPrint = copy.cartPrint && coupon.cartPrint ? coupon.cartPrint : null;
+  const cartPrint = coupon.cartPrint ?? null;
   const videos = videosCopy && coupon.videos?.length ? coupon.videos : null;
   // O mês da oferta pelo calendário: do dia 20 em diante já vale o mês seguinte.
   const highlightDate = getCurrentOfferMonthDate();
@@ -467,17 +467,16 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
           <section aria-labelledby="regras">
             <SectionHeading id="regras">{copy.rulesTitle}</SectionHeading>
             <RuleList rules={rules} />
-            {stackingCopy && stackingRows && (
+            {stackingRows && (
               <p className={`mt-4 ${BODY_TEXT}`}>
                 <a href={`#${STACKING_SECTION_ID}`} className={INLINE_LINK}>
                   {stackingCopy.rulesPointer}
                 </a>
-                .
               </p>
             )}
           </section>
 
-          {stackingCopy && stackingRows && (
+          {stackingRows && (
             <StackingTable
               title={stackingCopy.title}
               caption={stackingCopy.caption(coupon.brand)}
@@ -526,7 +525,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                   : affiliateLinkOffer?.linkNote || copy.defaultLinkNote
               }
             />
-            {copy.cartPrint && cartPrint && (
+            {cartPrint && (
               <CartPrintFigure
                 locale={locale}
                 brand={coupon.brand}

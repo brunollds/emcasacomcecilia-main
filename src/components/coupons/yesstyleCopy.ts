@@ -38,16 +38,17 @@ export type PageCopy = {
   // Respostas aos rótulos das regras da página de loja: Vale para, Junta com outras promoções?,
   // Validade e Frete.
   policyRules: { eligible: string; combinable: string; validity: string; shipping: string };
-  // "O que acumula na YesStyle", só em português, logo depois das regras. Só entra combinação com fonte: os
+  // "O que acumula na YesStyle", logo depois das regras. Só entra combinação com fonte: os
   // termos dos cupons da loja ou um teste nosso. {code} vale no nome da linha e na condição.
-  stacking?: {
+  stacking: {
     title: string;
     captionTemplate: string;
     rulesPointer: string;
     rows: { label: string; stacks: StackingRow['stacks']; condition: string }[];
   };
-  // O print do código aplicado, no fim de "Como aplicar", só em português. É exemplo, sem data nem promessa de valor.
-  cartPrint?: CartPrint & { caption: string };
+  // O print do código aplicado, no fim de "Como aplicar", com o artigo do app no idioma da página. É exemplo, sem
+  // data nem promessa de valor.
+  cartPrint: CartPrint & { caption: string };
   instructionsTitleTemplate: string;
   instructionsTemplates: string[];
   emptyPromoInstructionsTemplates: string[];
@@ -180,6 +181,24 @@ const pages: Record<Locale, PageCopy> = {
       validity: 'Each coupon has its own deadline, in GMT.',
       shipping: 'The discount applies to product prices only. Shipping, reshipping and other fees are excluded.',
     },
+    stacking: {
+      title: 'What stacks at YesStyle',
+      captionTemplate: 'What stacks with YesStyle coupons and the code {code}',
+      rulesPointer: 'See what stacks at checkout',
+      rows: [
+        { label: 'Store coupon and {code} code', stacks: 'sim', condition: 'Each goes in its own field: the coupon in Coupon Code and {code} in Reward Code' },
+        { label: 'Store coupon and sale price', stacks: 'sim', condition: 'The coupon works together with the sale price on participating products' },
+        { label: 'Store coupon and YS Points', stacks: 'sim', condition: 'Points are applied at the payment step of checkout' },
+        { label: 'Two store coupons', stacks: 'nao', condition: 'YesStyle accepts one coupon per order' },
+      ],
+    },
+    cartPrint: {
+      article: 'yesstyle-app-how-to-buy-reward-code',
+      src: '/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp',
+      alt: 'Three screens of the YesStyle app: the checkout with the Coupon or Influencer / Rewards Code line, the Enter Code screen with the Coupon Code and Influencer / Rewards Code fields, and the checkout with CECILIA010 applied',
+      aspectRatio: 1.4382,
+      caption: 'Example of the reward code applied in the YesStyle app, in the Influencer / Rewards Code field. Values change depending on the order.',
+    },
     instructionsTitleTemplate: 'How to combine coupons and code {code}',
     instructionsTemplates: [
       'Copy any active promo coupon (e.g. {promoCode}).',
@@ -244,6 +263,24 @@ const pages: Record<Locale, PageCopy> = {
       validity: 'Cada cupón tiene su propio plazo, en horario GMT.',
       shipping: 'El descuento se aplica solo al precio de los productos. Envío, reenvío y otras tarifas quedan fuera.',
     },
+    stacking: {
+      title: 'Qué se acumula en YesStyle',
+      captionTemplate: 'Qué se acumula con los cupones de YesStyle y con el código {code}',
+      rulesPointer: 'Mira qué se acumula al pagar',
+      rows: [
+        { label: 'Cupón de la tienda y código {code}', stacks: 'sim', condition: 'Cada uno va en su campo: el cupón en Coupon Code y {code} en Reward Code' },
+        { label: 'Cupón de la tienda y precio rebajado', stacks: 'sim', condition: 'El cupón vale junto con el precio rebajado, en los productos que participan' },
+        { label: 'Cupón de la tienda y YS Points', stacks: 'sim', condition: 'Los puntos se aplican en el paso de pago del checkout' },
+        { label: 'Dos cupones de la tienda', stacks: 'nao', condition: 'YesStyle acepta un cupón por pedido' },
+      ],
+    },
+    cartPrint: {
+      article: 'app-yesstyle-como-comprar-codigo-de-recompensa',
+      src: '/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp',
+      alt: 'Tres pantallas de la app de YesStyle: el checkout con la línea Coupon or Influencer / Rewards Code, la pantalla Enter Code con los campos Coupon Code e Influencer / Rewards Code, y el checkout con el CECILIA010 aplicado',
+      aspectRatio: 1.4382,
+      caption: 'Ejemplo del código de recompensa aplicado en la app de YesStyle, en el campo Influencer / Rewards Code. Los valores cambian según el pedido.',
+    },
     instructionsTitleTemplate: 'Cómo usar {code} y cupones',
     instructionsTemplates: [
       'Copia el cupón promocional activo (ej: {promoCode}).',
@@ -306,6 +343,24 @@ const pages: Record<Locale, PageCopy> = {
       combinable: `Oui, avec les prix soldés, avec {code} dans le champ Reward Code et avec les YS Points. Pas avec un autre coupon${NBSP}: un seul par commande.`,
       validity: 'Chaque coupon a sa propre date limite, à l’heure GMT.',
       shipping: 'La réduction porte uniquement sur le prix des produits. Livraison, réexpédition et autres frais sont exclus.',
+    },
+    stacking: {
+      title: 'Ce qui se cumule chez YesStyle',
+      captionTemplate: 'Ce qui se cumule avec les coupons YesStyle et le code {code}',
+      rulesPointer: 'Voir ce qui se cumule au paiement',
+      rows: [
+        { label: 'Coupon de la boutique et code {code}', stacks: 'sim', condition: 'Chacun va dans son champ : le coupon dans Coupon Code et {code} dans Reward Code' },
+        { label: 'Coupon de la boutique et prix soldé', stacks: 'sim', condition: 'Le coupon s’applique en plus du prix soldé, sur les produits concernés' },
+        { label: 'Coupon de la boutique et YS Points', stacks: 'sim', condition: 'Les points s’utilisent à l’étape de paiement' },
+        { label: 'Deux coupons de la boutique', stacks: 'nao', condition: 'YesStyle accepte un coupon par commande' },
+      ],
+    },
+    cartPrint: {
+      article: 'application-yesstyle-acheter-code-recompense',
+      src: '/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp',
+      alt: 'Trois écrans de l\'appli YesStyle : la validation de commande avec la ligne Coupon or Influencer / Rewards Code, l\'écran Enter Code avec les champs Coupon Code et Influencer / Rewards Code, et la validation de commande avec le CECILIA010 appliqué',
+      aspectRatio: 1.4382,
+      caption: 'Exemple du code récompense appliqué dans l’application YesStyle, dans le champ Influencer / Rewards Code. Les montants changent selon la commande.',
     },
     instructionsTitleTemplate: 'Comment utiliser {code} et les coupons',
     instructionsTemplates: [
@@ -370,6 +425,24 @@ const pages: Record<Locale, PageCopy> = {
       validity: 'Jeder Gutschein hat eine eigene Frist, nach GMT.',
       shipping: 'Der Rabatt gilt nur für den Warenpreis. Versand, erneuter Versand und andere Gebühren sind ausgenommen.',
     },
+    stacking: {
+      title: 'Was sich bei YesStyle kombinieren lässt',
+      captionTemplate: 'Was sich mit den YesStyle-Gutscheinen und dem Code {code} kombinieren lässt',
+      rulesPointer: 'Sehen Sie, was sich an der Kasse kombinieren lässt',
+      rows: [
+        { label: 'Shop-Gutschein und Code {code}', stacks: 'sim', condition: 'Jeder kommt in sein eigenes Feld: der Gutschein in Coupon Code und {code} in Reward Code' },
+        { label: 'Shop-Gutschein und reduzierter Preis', stacks: 'sim', condition: 'Der Gutschein gilt zusätzlich zum reduzierten Preis, bei den teilnehmenden Produkten' },
+        { label: 'Shop-Gutschein und YS Points', stacks: 'sim', condition: 'Die Punkte werden im Zahlungsschritt der Kasse eingesetzt' },
+        { label: 'Zwei Shop-Gutscheine', stacks: 'nao', condition: 'YesStyle akzeptiert einen Gutschein pro Bestellung' },
+      ],
+    },
+    cartPrint: {
+      article: 'yesstyle-app-bestellen-reward-code',
+      src: '/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp',
+      alt: 'Drei Bildschirme der YesStyle-App: der Checkout mit der Zeile Coupon or Influencer / Rewards Code, der Bildschirm Enter Code mit den Feldern Coupon Code und Influencer / Rewards Code und der Checkout mit angewendetem CECILIA010',
+      aspectRatio: 1.4382,
+      caption: 'Beispiel für den Reward Code in der YesStyle-App, im Feld Influencer / Rewards Code. Die Beträge ändern sich je nach Bestellung.',
+    },
     instructionsTitleTemplate: 'So verwendest du {code} & Gutscheine',
     instructionsTemplates: [
       'Kopiere den aktiven Aktionsgutschein (z. B. {promoCode}).',
@@ -432,6 +505,24 @@ const pages: Record<Locale, PageCopy> = {
       combinable: 'Sì, con i prezzi scontati, con {code} nel campo Reward Code e con gli YS Points. Non con un altro coupon: uno per ordine.',
       validity: 'Ogni coupon ha la sua scadenza, in orario GMT.',
       shipping: 'Lo sconto vale solo sul prezzo dei prodotti. Spedizione, rispedizione e altre tariffe sono escluse.',
+    },
+    stacking: {
+      title: 'Cosa si cumula su YesStyle',
+      captionTemplate: 'Cosa si cumula con i coupon di YesStyle e con il codice {code}',
+      rulesPointer: 'Scopri cosa si cumula al checkout',
+      rows: [
+        { label: 'Coupon del negozio e codice {code}', stacks: 'sim', condition: 'Ognuno va nel suo campo: il coupon in Coupon Code e {code} in Reward Code' },
+        { label: 'Coupon del negozio e prezzo in offerta', stacks: 'sim', condition: 'Il coupon vale insieme al prezzo in offerta, sui prodotti che partecipano' },
+        { label: 'Coupon del negozio e YS Points', stacks: 'sim', condition: 'I punti si usano nella fase di pagamento del checkout' },
+        { label: 'Due coupon del negozio', stacks: 'nao', condition: 'YesStyle accetta un coupon per ordine' },
+      ],
+    },
+    cartPrint: {
+      article: 'app-yesstyle-come-acquistare-codice-ricompensa',
+      src: '/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp',
+      alt: 'Tre schermate dell\'app di YesStyle: il checkout con la riga Coupon or Influencer / Rewards Code, la schermata Enter Code con i campi Coupon Code e Influencer / Rewards Code, e il checkout con il CECILIA010 applicato',
+      aspectRatio: 1.4382,
+      caption: 'Esempio del codice ricompensa applicato nell’app di YesStyle, nel campo Influencer / Rewards Code. Gli importi cambiano in base all’ordine.',
     },
     instructionsTitleTemplate: 'Come usare {code} e i coupon al checkout',
     instructionsTemplates: [
@@ -496,6 +587,24 @@ const pages: Record<Locale, PageCopy> = {
       validity: '쿠폰마다 기한이 다르며 GMT 기준입니다.',
       shipping: '할인은 상품 가격에만 적용되며 배송비, 재발송 비용, 기타 수수료는 제외됩니다.',
     },
+    stacking: {
+      title: 'YesStyle에서 함께 쓸 수 있는 혜택',
+      captionTemplate: 'YesStyle 쿠폰 및 {code} 코드와 함께 쓸 수 있는 혜택',
+      rulesPointer: '결제 단계에서 함께 쓸 수 있는 혜택 보기',
+      rows: [
+        { label: '쇼핑몰 쿠폰과 {code} 코드', stacks: 'sim', condition: '각각 해당 칸에 입력합니다. 쿠폰은 Coupon Code, {code}은 Reward Code에 입력하세요' },
+        { label: '쇼핑몰 쿠폰과 할인가', stacks: 'sim', condition: '쿠폰은 참여 상품의 할인가와 함께 적용됩니다' },
+        { label: '쇼핑몰 쿠폰과 YS Points', stacks: 'sim', condition: '포인트는 체크아웃의 결제 단계에서 사용합니다' },
+        { label: '쇼핑몰 쿠폰 2장', stacks: 'nao', condition: 'YesStyle은 주문당 쿠폰 1장만 사용할 수 있습니다' },
+      ],
+    },
+    cartPrint: {
+      article: 'yesstyle-app-reward-code-ko',
+      src: '/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp',
+      alt: 'YesStyle 앱의 세 화면. Coupon or Influencer / Rewards Code 줄이 있는 결제 화면, Coupon Code와 Influencer / Rewards Code 칸이 있는 Enter Code 화면, CECILIA010이 적용된 결제 화면',
+      aspectRatio: 1.4382,
+      caption: 'YesStyle 앱의 Influencer / Rewards Code 칸에 리워드 코드를 적용한 예시입니다. 금액은 주문에 따라 달라집니다.',
+    },
     instructionsTitleTemplate: '{code} 및 쿠폰 사용 방법',
     instructionsTemplates: [
       '활성 프로모션 쿠폰(예: {promoCode})을 복사하세요.',
@@ -558,6 +667,24 @@ const pages: Record<Locale, PageCopy> = {
       combinable: 'はい。セール価格、Reward Code 欄の{code}、YS Pointsと併用できます。ほかのクーポンとは併用できず、1回の注文に1枚までです。',
       validity: 'クーポンごとに期限があり、時刻はGMT基準です。',
       shipping: '割引は商品価格のみが対象です。送料、再発送料、その他の手数料は対象外です。',
+    },
+    stacking: {
+      title: 'YesStyleで併用できるもの',
+      captionTemplate: 'YesStyleのクーポンとコード{code}と併用できるもの',
+      rulesPointer: 'チェックアウトで併用できるものを見る',
+      rows: [
+        { label: 'ショップのクーポンとコード{code}', stacks: 'sim', condition: 'それぞれ専用の欄に入力します。クーポンはCoupon Code、{code}はReward Codeです' },
+        { label: 'ショップのクーポンとセール価格', stacks: 'sim', condition: 'クーポンは、対象商品のセール価格と併用できます' },
+        { label: 'ショップのクーポンとYS Points', stacks: 'sim', condition: 'ポイントはチェックアウトの支払いステップで使います' },
+        { label: 'ショップのクーポン2枚', stacks: 'nao', condition: 'YesStyleでは1回の注文にクーポン1枚まで使えます' },
+      ],
+    },
+    cartPrint: {
+      article: 'yesstyle-app-reward-code-ja',
+      src: '/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp',
+      alt: 'YesStyleアプリの3つの画面。Coupon or Influencer / Rewards Codeの行があるチェックアウト、Coupon CodeとInfluencer / Rewards Codeの欄があるEnter Code画面、CECILIA010を適用したチェックアウト',
+      aspectRatio: 1.4382,
+      caption: 'YesStyleアプリのInfluencer / Rewards Code欄にリワードコードを適用した例です。金額は注文内容によって変わります。',
     },
     instructionsTitleTemplate: '{code} とクーポンの使い方',
     instructionsTemplates: [
@@ -622,6 +749,24 @@ const pages: Record<Locale, PageCopy> = {
       validity: '每個優惠碼都有各自的期限，以 GMT 時間計算。',
       shipping: '折扣只適用於商品價格，運費、重新寄送費用及其他收費除外。',
     },
+    stacking: {
+      title: '在 YesStyle 可同時使用的項目',
+      captionTemplate: '可與 YesStyle 優惠碼和代碼 {code} 同時使用的項目',
+      rulesPointer: '查看結帳時可同時使用的項目',
+      rows: [
+        { label: '商店優惠碼和代碼 {code}', stacks: 'sim', condition: '各自輸入在專屬欄位：優惠碼輸入 Coupon Code，{code} 輸入 Reward Code' },
+        { label: '商店優惠碼和特價', stacks: 'sim', condition: '優惠碼可與參加活動商品的特價同時使用' },
+        { label: '商店優惠碼和 YS Points', stacks: 'sim', condition: '點數在結帳的付款步驟使用' },
+        { label: '兩張商店優惠碼', stacks: 'nao', condition: 'YesStyle 每張訂單只接受一個優惠碼' },
+      ],
+    },
+    cartPrint: {
+      article: 'yesstyle-app-reward-code-zh-hant',
+      src: '/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp',
+      alt: 'YesStyle App 的三個畫面：帶有 Coupon or Influencer / Rewards Code 行的結帳頁、帶有 Coupon Code 和 Influencer / Rewards Code 欄位的 Enter Code 畫面，以及已套用 CECILIA010 的結帳頁',
+      aspectRatio: 1.4382,
+      caption: '在 YesStyle App 的 Influencer / Rewards Code 欄位套用獎勵碼的範例。金額會依訂單而不同。',
+    },
     instructionsTitleTemplate: '如何組合使用 {code} 與優惠碼',
     instructionsTemplates: [
       '複製有效的促銷優惠碼（例如 {promoCode}）。',
@@ -684,6 +829,24 @@ const pages: Record<Locale, PageCopy> = {
       combinable: '可以，特价、Reward Code 栏位的 {code} 和 YS Points 都能叠加使用。但不能与其他优惠码叠加，每笔订单只限一个。',
       validity: '每个优惠码都有各自的期限，按 GMT 时间计算。',
       shipping: '折扣仅适用于商品价格，运费、重新寄送费用和其他费用除外。',
+    },
+    stacking: {
+      title: '在 YesStyle 可叠加的项目',
+      captionTemplate: '可与 YesStyle 优惠码和代码 {code} 叠加的项目',
+      rulesPointer: '查看结账时可叠加的项目',
+      rows: [
+        { label: '商店优惠码和代码 {code}', stacks: 'sim', condition: '各自填写在专属栏位：优惠码填 Coupon Code，{code} 填 Reward Code' },
+        { label: '商店优惠码和特价', stacks: 'sim', condition: '优惠码可与参加活动商品的特价同时使用' },
+        { label: '商店优惠码和 YS Points', stacks: 'sim', condition: '积分在结账的付款步骤使用' },
+        { label: '两张商店优惠码', stacks: 'nao', condition: 'YesStyle 每笔订单只接受一个优惠码' },
+      ],
+    },
+    cartPrint: {
+      article: 'yesstyle-app-reward-code-zh-hans',
+      src: '/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp',
+      alt: 'YesStyle App 的三个界面：带有 Coupon or Influencer / Rewards Code 行的结账页、带有 Coupon Code 和 Influencer / Rewards Code 输入框的 Enter Code 界面，以及已应用 CECILIA010 的结账页',
+      aspectRatio: 1.4382,
+      caption: '在 YesStyle App 的 Influencer / Rewards Code 栏位应用奖励码的示例。金额会因订单而不同。',
     },
     instructionsTitleTemplate: '如何组合使用 {code} 与优惠码',
     instructionsTemplates: [
