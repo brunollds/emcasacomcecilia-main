@@ -208,3 +208,6 @@ caro dos shorts" no Outlet feminino, "itens elegíveis" no "vale a pena", a FAQ 
 - Pendente, fora deste lote: três respostas rápidas de artigos com `affiliate: "insider"` ainda sem código e percentual
   (`camiseta-insider-encolhe-como-lavar`, `como-evitar-mancha-de-suor-na-camisa-social`, `cueca-para-academia`). São
   textos informacionais; decidir por intenção de cada um, sem link por automatismo.
+
+**No ar em 15/11/2026:** release `82955af8` (deploy `15349979`, build `01a1e11a`), com o #1007, o #1008 e o #1009 (os dois códigos na
+resposta rápida de `dr-peanut-ou-la-ganexa`). Smoke 12/12 nos artigos, IndexNow com 16 URLs, captura `43764060042`.
