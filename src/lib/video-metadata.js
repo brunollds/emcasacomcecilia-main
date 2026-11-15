@@ -104,6 +104,13 @@ export const videoMetadata = {
     title: 'Mac n Cheese Holyfoods',
     description: 'Cecília prepara o Mac Queijo da HolyFoods na panela, do pacote ao prato.',
   },
+  jodyBX3E7dY: {
+    uploadDate: '2026-11-14T13:45:14-08:00',
+    duration: 'PT1M17S',
+    title: 'Air Fryer com Espetinho Giratório! Nem Parecia Air Fryer!',
+    description:
+      'Cecília testa a air fryer forno de 12 litros da Haier: batata congelada no cesto giratório e espetinhos de camarão e de batata no suporte que gira.',
+  },
 };
 
 /**
@@ -169,6 +176,11 @@ export const localVideoMetadata = {
     classification: 'secondary',
     reviewSlug: 'camiseta-insider-encolhe-como-lavar',
     reason: 'Trecho de 8 s do short da Cecília (lavagem da Perfect Top sem sabão); o short completo fica no YouTube.',
+  },
+  '/videos/reviews/haier/air-fryer-haier-12l-espetinhos-girando.mp4': {
+    classification: 'decorative',
+    reviewSlug: 'air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes',
+    reason: 'Loop mudo de 2,4 s dos espetinhos girando, cortado do short da Cecília; o vídeo editorial principal é o do YouTube.',
   },
 };
 

@@ -7,10 +7,10 @@ category: "produtos-experiencias"
 reviewKind: "editorial"
 type: "Primeiras impressões"
 anexo_tipo: "nenhum"
-status: "briefing"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2), antes da HA1 ou no mesmo deploy"
-bloqueado_por: "etiqueta do modelo, fotos e dados do galeto (Bruno)"
+proxima_acao: "deploy com o GO do Bruno, HA1 e HA2 juntas; reler o Reclame Aqui em 60 dias"
+bloqueado_por: ""
 score_autoridade: 80
 score_conversao: 74
 score_ponderado_total: 77

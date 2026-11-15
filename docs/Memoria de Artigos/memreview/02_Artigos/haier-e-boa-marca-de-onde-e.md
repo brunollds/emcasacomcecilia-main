@@ -7,10 +7,10 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Marca"
 anexo_tipo: "nenhum"
-status: "briefing"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redação (Job 2), depois da HA2 ou no mesmo deploy"
-bloqueado_por: "HA2 (o trecho da air fryer e os links de afiliado saem dela)"
+proxima_acao: "deploy com o GO do Bruno, HA1 e HA2 juntas; reler o Reclame Aqui em 60 dias"
+bloqueado_por: ""
 score_autoridade: 70
 score_conversao: 52
 score_ponderado_total: 66

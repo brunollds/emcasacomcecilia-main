@@ -205,3 +205,33 @@ District, Qingdao, Shandong, China. Serve de fonte para "a Haier é de Qingdao" 
 
 **Código do modelo:** o manual oficial é da HSAF-EV1201BBR; o Bruno informou HSAF-EV1203BBR. Segue pendente a
 etiqueta do aparelho.
+
+## 9. Redação (14 e 15/11/2026): o que mudou
+
+Artigos `air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes` (id 981) e `haier-e-boa-marca-de-onde-e`
+(id 982), revisados pelo Bruno e pelo Farol / ChatGPT (`docs/auditoria-copy-artigos/ha-haier-20261114/`).
+
+- **Modelo:** o Bruno confirmou a etiqueta, HSAF-EV1201BBR. O EV1203 que ele tinha passado é o do anúncio sem
+  rotisserie.
+- **Quatro códigos de 12 L** (busca do Mercado Livre e fichas da Amazon, 14/11): EV1201 com rotisserie em 127 V,
+  EV1202 com rotisserie em 220 V, EV1203 sem rotisserie em 127 V e EV1204 sem rotisserie em 220 V. O anúncio da
+  Amazon de R$ 579 (ASIN B01CK2YRH2) é o EV1203 e não cita giro; o "com função rotisserie" (ASIN B01CK354LE) é o
+  EV1201.
+- **Links do Bruno:** `https://link.amazon/B08irJgVj` (com rotisserie, 127 V; botão do fim da HA2),
+  `https://meli.la/2Pw4iTN` (com rotisserie, 220 V) e `https://meli.la/1nC8rj1` (sem rotisserie, 127 V), cada um
+  com o aviso de versão e voltagem. O `https://link.amazon/B0hNyveyU` (EV1203) ficou fora. Os links de afiliado
+  não foram abertos: a associação é a informada pelo Bruno.
+- **Preço:** nenhum no texto. O R$ 559 do Mercado Livre é preço "com cupom" da loja, e os demais estavam em oferta
+  de Black Friday.
+- **Espetinhos:** a 180 °C (Bruno, 15/11); batata e cebola 10 minutos, depois o camarão, mais 10.
+- **Galeto:** fora dos dois textos por decisão do Bruno (15/11). Segue no estoque como receita.
+- **Manual:** o digital é igual ao impresso (Bruno, 15/11).
+- **Garantia e porta que pausa:** vinham do anúncio do EV1203 e saíram.
+- **Qingdao:** fora da HA1 (Farol: endereço do fabricante não prova a sede do grupo).
+- **Vídeo:** entra (Bruno, 14/11), pelo `youtubeUrl` da HA2. A HA2 também leva um loop de 2,4 s dos espetinhos
+  girando, cortado do vídeo original.
+- **Imagens:** capas e fotos são quadros do vídeo da Cecília; a única oficial é a lateral com a grade de
+  ventilação.
+- **Reclame Aqui, relido em 14/11:** sem reputação, 3 reclamações, 2 avaliadas, 100% respondidas, 3 dias e 23
+  horas. SAC: segunda a sexta, 8h às 20h; sábado, 8h às 14h.
+- **Categoria da HA1:** ficou `guias-praticos-utilidade`; o Farol sugeriu `confianca-reputacao`.

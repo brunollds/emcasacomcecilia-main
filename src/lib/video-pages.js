@@ -126,6 +126,14 @@ const videoPageDefinitions = [
     sourceTitle: 'Como usar o cupom EMCASA na HolyFoods e onde ele vale',
   },
   {
+    slug: 'air-fryer-haier-espetinho-giratorio',
+    kind: 'youtube',
+    aspect: 'vertical',
+    videoId: 'jodyBX3E7dY',
+    sourcePath: '/reviews/air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes',
+    sourceTitle: 'Air fryer com espeto giratório: primeiras impressões da Haier de 12 litros',
+  },
+  {
     slug: 'como-usar-cupom-ceciemcasa-i-wanna-sleep',
     seoTitle: 'Cupom CECIEMCASA na I Wanna Sleep em vídeo',
     kind: 'local',
