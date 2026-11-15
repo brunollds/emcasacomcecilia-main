@@ -237,4 +237,5 @@ desconto…"), com código, benefício, condição e recorrência. `publishedAt`
   - Ajustes do ChatGPT no rascunho PT: a FAQ abre pelo código; "Você pode procurar cupons nestes lugares"; "a SHEIN e
     os vendedores da plataforma podem oferecer cupons". As 9 versões: Sonnet 5.5 gerou, a sessão revisou.
 - **No ar:** os Lotes 1 a 3 no release `24478c84` (15/11; smoke 22/22, IndexNow com 25 URLs, captura `43751972930`).
-  O Lote 4 (#1003) e o Lote 5 estão na main e esperam o deploy.
+  O Lote 4 (#1003) e o Lote 5 (#1004) no release `157ac93f` (15/11; deploy `e32d17f1`, build `01a1e0c9`; smoke 20/20,
+  IndexNow com 21 URLs, a da HolyFoods inclusive; captura `43755730228`). Série toda no ar.
