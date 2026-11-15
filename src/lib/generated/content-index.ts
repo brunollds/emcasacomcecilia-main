@@ -215410,6 +215410,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Para a primeira compra na Skelt, use SKEMCASACOMCECILIA: 10% OFF em todo o site, inclusive kits. O mesmo código vale para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/skelt/cupom-skelt-primeira-compra-capa-v2.webp",
@@ -215448,6 +215449,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Skelt primeira compra: qual usar",
         "paragraphs": [
+          "A Skelt vende cosméticos, como autobronzeadores, body splashes e produtos para o corpo. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Skelt é confiável?](/reviews/skelt-e-confiavel).",
           "Use o SKEMCASACOMCECILIA: 10% OFF em todos os produtos do site, kits e combos inclusive, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
           "É o [cupom Skelt](/cupons/skelt) da nossa parceria com a marca, testado no carrinho. A loja aceita um cupom por pedido: se houver outro no campo, aplique SKEMCASACOMCECILIA e confira o desconto no resumo."
         ]
@@ -215535,7 +215537,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom Skelt de primeira compra? Sim. O SKEMCASACOMCECILIA dá 10% em todos os produtos do site, no primeiro pedido e nos seguintes.",
+          "Como conseguir desconto na primeira compra na Skelt? O SKEMCASACOMCECILIA dá 10% em todos os produtos do site, no primeiro pedido e nos seguintes.",
           "Qual cupom Skelt vale para quem já é cliente? O mesmo SKEMCASACOMCECILIA, com os mesmos 10%.",
           "O cupom Skelt soma com o Pix? Sim, e com as promoções do site. O desconto do Pix entra depois do código; a ordem está no capítulo da conta.",
           "O cupom Skelt vale no Mercado Livre? Não. Ele vale no site oficial, pela sacola."
@@ -215562,6 +215564,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Para a primeira compra na Probiótica, use PRO10EMCASACOMCECILIA: até 10% OFF no site oficial, conforme o produto. O mesmo código vale para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/probiotica/cupom-probiotica-primeira-compra-capa-v2.webp",
@@ -215600,6 +215603,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Probiótica primeira compra: qual usar",
         "paragraphs": [
+          "A Probiótica é uma marca de suplementos, com produtos como whey, creatina e barras na loja oficial. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Probiótica é confiável?](/reviews/probiotica-e-confiavel).",
           "Use o PRO10EMCASACOMCECILIA: até 10% OFF no site oficial. O desconto é por produto, com teto de 10%, e vale no primeiro pedido e nos seguintes.",
           "É o [cupom Probiótica](/cupons/probiotica) da nossa parceria com a marca, testado no carrinho. O resumo do pedido mostra o desconto aplicado em cada item."
         ]
@@ -215716,7 +215720,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom Probiótica de primeira compra? Sim. O PRO10EMCASACOMCECILIA dá até 10% no site oficial, no primeiro pedido e nos seguintes.",
+          "Como conseguir desconto na primeira compra na Probiótica? O PRO10EMCASACOMCECILIA dá até 10% no site oficial, no primeiro pedido e nos seguintes.",
           "Qual cupom Probiótica vale para quem já é cliente? O mesmo PRO10EMCASACOMCECILIA, com o mesmo teto de 10%.",
           "O cupom Probiótica soma com o Pix e com as promoções? Sim, com os dois. O percentual do código varia por produto; o exemplo está no capítulo da conta.",
           "O cupom Probiótica vale no Mercado Livre? Não. Ele vale só no site oficial da Probiótica."
@@ -215743,6 +215747,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Para a primeira compra na Insider, use EMCASACOMCECILIA: 15% OFF nos produtos elegíveis da loja online, sem valor mínimo. Vale também para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/insider/cupom-insider-primeira-compra-capa-v2.webp",
@@ -215781,6 +215786,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Insider primeira compra: qual usar",
         "paragraphs": [
+          "A Insider vende roupas, como camisetas, camisas, calças e peças íntimas. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Insider Store é confiável?](/reviews/insider-store-e-confiavel).",
           "Use o EMCASACOMCECILIA: 15% OFF nos produtos elegíveis da loja online, sem valor mínimo. Ele vale no primeiro pedido e nos seguintes. Você digita o código direto no checkout, sem cadastro prévio na loja.",
           "É o [cupom Insider](/cupons/insider) da nossa parceria com a marca, testado no checkout. Em respostas no Reclame Aqui sobre um cupom pessoal divulgado indevidamente, a Insider informou que cancelou e estornou os pedidos."
         ]
@@ -215862,7 +215868,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom Insider de primeira compra? Sim. O EMCASACOMCECILIA dá 15% nos produtos elegíveis da loja online, no primeiro pedido e nos seguintes.",
+          "Como conseguir desconto na primeira compra na Insider? O EMCASACOMCECILIA dá 15% nos produtos elegíveis da loja online, no primeiro pedido e nos seguintes.",
           "Qual cupom Insider vale para quem já é cliente? O mesmo EMCASACOMCECILIA, com os mesmos 15%.",
           "O cupom Insider soma com o Pix e com as promoções? Sim, com os dois. Lançamentos continuam fora do desconto.",
           "O cupom Insider vale no Mercado Livre? Não. Ele vale no site oficial, pelo carrinho."
@@ -215889,6 +215895,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Para a primeira compra na Bagaggio, use CECILIA10: 10% OFF em todo o site, inclusive no Outlet. O mesmo percentual vale para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-capa-v2.webp",
@@ -215927,6 +215934,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Bagaggio primeira compra: qual usar",
         "paragraphs": [
+          "A Bagaggio vende malas, mochilas e acessórios de viagem, com loja online e aplicativo. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel).",
           "Use o CECILIA10: 10% OFF em todos os produtos do site, Outlet incluso, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes, no site ou no app.",
           "É o [cupom Bagaggio](/cupons/bagaggio) da nossa parceria com a marca, testado até a sacola. Mala, mochila ou acessório: o código é o mesmo."
         ]
@@ -216012,7 +216020,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom Bagaggio de primeira compra? Sim. O CECILIA10 dá 10% em todo o site, no primeiro pedido e nos seguintes.",
+          "Como conseguir desconto na primeira compra na Bagaggio? O CECILIA10 dá 10% em todo o site, no primeiro pedido e nos seguintes.",
           "Qual cupom Bagaggio vale para quem já é cliente? O mesmo CECILIA10, com os mesmos 10%.",
           "O cupom Bagaggio soma com o Pix? Sim. No Pix, a loja ainda tira o desconto dela depois do código.",
           "O cupom Bagaggio vale no Mercado Livre? Não. Ele vale no site e no aplicativo da loja."
@@ -216039,6 +216047,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Para a primeira compra na Mais Mu, use MMEMCASACOMCECILIA: 10% OFF em todo o site. O mesmo percentual vale para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-capa-v2.webp",
@@ -216077,6 +216086,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Mais Mu primeira compra: qual usar",
         "paragraphs": [
+          "A Mais Mu vende suplementos e alimentos, como whey, creatina, barras e wafers. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel).",
           "Use o MMEMCASACOMCECILIA: 10% OFF em todos os produtos do site, combos inclusive. Ele vale no primeiro pedido e nos seguintes, e você digita o código direto no checkout.",
           "É o [cupom Mais Mu](/cupons/mais-mu) da nossa parceria com a marca, testado no checkout. Whey, creatina, barra ou combo: o código é o mesmo."
         ]
@@ -216162,7 +216172,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom Mais Mu de primeira compra? Sim. O MMEMCASACOMCECILIA dá 10% em todo o site, no primeiro pedido e nos seguintes.",
+          "Como conseguir desconto na primeira compra na Mais Mu? O MMEMCASACOMCECILIA dá 10% em todo o site, no primeiro pedido e nos seguintes.",
           "Qual cupom Mais Mu vale para quem já é cliente? O mesmo MMEMCASACOMCECILIA, com os mesmos 10%.",
           "O cupom Mais Mu soma com o Pix? Sim, com os 3% de desconto da loja no Pix.",
           "O cupom Mais Mu vale no Mercado Livre? Não. Ele vale no site oficial da Mais Mu."
@@ -216189,6 +216199,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Para a primeira compra na Black Skull, use CECILIA10: 10% OFF em todo o site, com todas as formas de pagamento. O mesmo desconto vale para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/black-skull/cupom-black-skull-primeira-compra-capa-v2.webp",
@@ -216227,6 +216238,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Black Skull primeira compra: qual usar",
         "paragraphs": [
+          "A Black Skull é uma marca de suplementos; sua loja online também vende kits e roupas. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Black Skull é confiável?](/reviews/black-skull-e-confiavel).",
           "Use o CECILIA10: 10% OFF em todos os produtos do site oficial, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
           "É o [cupom Black Skull](/cupons/black-skull) da nossa parceria com a marca, testado no checkout. Whey, creatina, kit ou camiseta: o código é o mesmo."
         ]
@@ -216316,7 +216328,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom Black Skull de primeira compra? Sim. O CECILIA10 dá 10% em todo o site, no primeiro pedido e nos seguintes.",
+          "Como conseguir desconto na primeira compra na Black Skull? O CECILIA10 dá 10% em todo o site, no primeiro pedido e nos seguintes.",
           "Qual cupom Black Skull vale para quem já é cliente? O mesmo CECILIA10, com os mesmos 10%.",
           "O cupom Black Skull vale no aplicativo? Sim, no aplicativo Black Skull USA.",
           "O cupom Black Skull vale no Mercado Livre? Não. Pelo Mercado Livre, vale o preço do anúncio.",
@@ -216344,6 +216356,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Na primeira compra na Toda Up, use MAUAD: 15% OFF, inclusive em promoção. A Black VIP fica de fora. Vale também para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/toda-up/cupom-toda-up-primeira-compra-capa.webp",
@@ -216382,6 +216395,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Toda Up primeira compra: qual usar",
         "paragraphs": [
+          "A Toda Up vende sutiãs, fitas e acessórios para usar com diferentes decotes e peças de roupa. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Fita Up (Toda Up) é confiável?](/reviews/toda-up-e-confiavel).",
           "Use o MAUAD: 15% OFF em peças elegíveis do site oficial, inclusive em promoção. O código vale no primeiro pedido e nos seguintes; a Black VIP fica de fora enquanto durar a campanha.",
           "É o [cupom Toda Up](/cupons/toda-up) da nossa parceria com a marca, testado no checkout. Pelo botão desta página, o site abre com o código aplicado."
         ]
@@ -216471,7 +216485,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom Toda Up de primeira compra? Sim. MAUAD dá 15% nas peças elegíveis do site oficial, no primeiro pedido e nos seguintes. A Black VIP fica de fora enquanto durar a campanha.",
+          "Como conseguir desconto na primeira compra na Toda Up? MAUAD dá 15% nas peças elegíveis do site oficial, no primeiro pedido e nos seguintes. A Black VIP fica de fora enquanto durar a campanha.",
           "Qual cupom Toda Up vale para quem já é cliente? MAUAD dá 15% nas peças elegíveis, inclusive para quem já comprou. A Black VIP fica de fora enquanto durar a campanha.",
           "O cupom Toda Up soma com produtos em promoção? Sim. A exceção é a Black VIP, enquanto a campanha durar.",
           "O cupom Toda Up vale na Black VIP? Não, enquanto a campanha durar: o checkout não aplica o código nas peças dela.",
@@ -216800,6 +216814,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Para a primeira compra na Max Titanium, use MAX10EMCASACOMCECILIA: até 10% OFF, conforme o produto. O mesmo código vale para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-capa-v2.webp",
@@ -216838,6 +216853,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Max Titanium primeira compra: qual usar",
         "paragraphs": [
+          "A Max Titanium é uma marca de suplementos, com produtos como whey e creatina na loja oficial. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Max Titanium é confiável?](/reviews/max-titanium-e-confiavel).",
           "Use o MAX10EMCASACOMCECILIA: até 10% OFF no site oficial. O desconto é por produto, com teto de 10%, e vale no primeiro pedido e nos seguintes.",
           "É o [cupom Max Titanium](/cupons/max-titanium) da nossa parceria com a marca, testado no carrinho. A linha “Descontos” do resumo mostra o valor aplicado."
         ]
@@ -216928,7 +216944,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom Max Titanium de primeira compra? Sim. O MAX10EMCASACOMCECILIA dá até 10%, conforme o produto, no primeiro pedido e nos seguintes.",
+          "Como conseguir desconto na primeira compra na Max Titanium? O MAX10EMCASACOMCECILIA dá até 10%, conforme o produto, no primeiro pedido e nos seguintes.",
           "Qual cupom Max Titanium vale para quem já é cliente? O mesmo MAX10EMCASACOMCECILIA, com o mesmo teto de 10%.",
           "Quanto de desconto o cupom Max Titanium dá? Até 10%. O percentual varia por produto, e o carrinho mostra o desconto de cada item.",
           "O cupom Max Titanium vale no aplicativo? Sim, no aplicativo Max Titanium Suplementos.",
@@ -216956,6 +216972,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut na primeira compra. O mesmo código vale para quem já comprou e soma com as promoções.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-capa-v2.webp",
@@ -216994,6 +217011,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Dr. Peanut primeira compra: qual usar",
         "paragraphs": [
+          "A Dr. Peanut vende pastas de amendoim e snacks, como barras, alfajores e wafers. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Dr. Peanut é confiável?](/reviews/dr-peanut-e-confiavel).",
           "Use o DREMCASACOMCECILIA: 10% OFF em todos os produtos do site oficial, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
           "É o [cupom Dr. Peanut](/cupons/dr-peanut) da nossa parceria com a marca, testado no carrinho. Pasta, wafer ou kit: o código é o mesmo."
         ]
@@ -217082,7 +217100,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom Dr. Peanut de primeira compra? Sim. O DREMCASACOMCECILIA dá 10% em todo o site oficial, no primeiro pedido e nos seguintes.",
+          "Como conseguir desconto na primeira compra na Dr. Peanut? O DREMCASACOMCECILIA dá 10% em todo o site oficial, no primeiro pedido e nos seguintes.",
           "Qual cupom Dr. Peanut vale para quem já é cliente? O mesmo DREMCASACOMCECILIA, com os mesmos 10%.",
           "O cupom Dr. Peanut soma com produto em promoção? Sim. Os 10% entram sobre o preço promocional.",
           "O cupom Dr. Peanut vale no Mercado Livre? Não. Ele vale no site oficial da Dr. Peanut.",
@@ -217110,6 +217128,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "MAUAD dá 10% OFF em todo o site da Belive na primeira compra. O mesmo código vale para quem já comprou e soma com as ofertas e com os 5% do Pix.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/belive/cupom-belive-primeira-compra-capa-v2.webp",
@@ -217145,6 +217164,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Belive primeira compra: qual usar",
         "paragraphs": [
+          "A Belive vende alimentos como pães, doces e snacks na sua loja online. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Belive é confiável?](/reviews/belive-e-confiavel).",
           "Use o MAUAD: 10% OFF em todos os produtos do site oficial, inclusive combos e kits. Ele vale no primeiro pedido e nos seguintes.",
           "É o [cupom Belive](/cupons/belive) da nossa parceria com a marca, testado no carrinho. Pão, doce ou snack: o código é o mesmo."
         ]
@@ -217251,7 +217271,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom Belive de primeira compra? Sim. O MAUAD dá 10% em todo o site oficial, no primeiro pedido e nos seguintes.",
+          "Como conseguir desconto na primeira compra na Belive? O MAUAD dá 10% em todo o site oficial, no primeiro pedido e nos seguintes.",
           "Qual cupom Belive vale para quem já é cliente? O mesmo MAUAD, com os mesmos 10%.",
           "O cupom Belive soma com o Pix? Sim, com os 5% de desconto que a loja dá no Pix.",
           "O cupom Belive vale no Mercado Livre? Não. Ele vale no site oficial da Belive.",
@@ -217279,6 +217299,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "EMCASA dá 15% OFF em todo o site da HolyFoods na primeira compra, inclusive em produtos já em promoção. O mesmo código vale para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-capa-v2.webp",
@@ -217314,6 +217335,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom HolyFoods primeira compra: qual usar",
         "paragraphs": [
+          "A HolyFoods vende refeições prontas para preparar em casa, como sopas, risotos e macarrões. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [HolyFoods é confiável?](/reviews/holyfoods-e-confiavel).",
           "Use o EMCASA: 15% OFF em todos os produtos do site oficial, avulsos e kits, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
           "É o [cupom HolyFoods](/cupons/holyfoods) da nossa parceria com a marca, testado no checkout. Sopa, macarrão ou risoto: o código é o mesmo."
         ]
@@ -217400,7 +217422,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom HolyFoods de primeira compra? Sim. O EMCASA dá 15% em todo o site oficial, no primeiro pedido e nos seguintes.",
+          "Como conseguir desconto na primeira compra na HolyFoods? O EMCASA dá 15% em todo o site oficial, no primeiro pedido e nos seguintes.",
           "Qual cupom HolyFoods vale para quem já é cliente? O mesmo EMCASA, com os mesmos 15%.",
           "O cupom HolyFoods soma com produto em promoção? Sim. Os 15% entram sobre o preço que a loja já baixou.",
           "O cupom HolyFoods vale no Mercado Livre? Não. Ele vale no site oficial da HolyFoods.",
@@ -217750,6 +217772,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep na primeira compra. O mesmo código vale para quem já comprou e soma com as promoções.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/iwannasleep/cupom-i-wanna-sleep-primeira-compra-capa-v2.webp",
@@ -217788,6 +217811,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom I Wanna Sleep primeira compra: qual usar",
         "paragraphs": [
+          "A I Wanna Sleep vende travesseiros, cobertores e acessórios para o quarto. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [I Wanna Sleep é confiável?](/reviews/i-wanna-sleep-e-confiavel).",
           "Use o CECIEMCASA: 10% OFF em todos os produtos do site oficial, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
           "É o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) da nossa parceria com a marca, testado no carrinho. Travesseiro, cobertor ou acessório: o código é o mesmo."
         ]
@@ -217877,7 +217901,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom I Wanna Sleep de primeira compra? Sim. O CECIEMCASA dá 10% em todo o site oficial, no primeiro pedido e nos seguintes.",
+          "Como conseguir desconto na primeira compra na I Wanna Sleep? O CECIEMCASA dá 10% em todo o site oficial, no primeiro pedido e nos seguintes.",
           "Qual cupom I Wanna Sleep vale para quem já é cliente? O mesmo CECIEMCASA, com os mesmos 10%.",
           "O cupom I Wanna Sleep soma com produto em promoção? Sim. Os 10% entram sobre o preço promocional.",
           "O cupom I Wanna Sleep soma com o Pix? Sim. Na página da Caracol Sleep Mask, a loja mostra 5% no Pix; confira a condição e o total no seu pedido.",
@@ -217905,6 +217929,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "S-EMCASACOMCECILIA dá 5% OFF em todo o site da Simple Organic na primeira compra, inclusive em kits e promoções. Vale também para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-capa-v2.webp",
@@ -217943,6 +217968,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Simple Organic primeira compra: qual usar",
         "paragraphs": [
+          "A Simple Organic vende cosméticos, como produtos de skincare e maquiagem. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Simple Organic é confiável?](/reviews/simple-organic-e-confiavel).",
           "Use o S-EMCASACOMCECILIA: 5% OFF em todos os produtos da loja online, inclusive nos kits e no que já está em promoção. Ele vale no primeiro pedido e nos seguintes.",
           "É o [cupom Simple Organic](/cupons/simple-organic) da nossa parceria com a marca, testado no checkout. Sérum, hidratante ou maquiagem: o código é o mesmo."
         ]
@@ -218066,7 +218092,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom Simple Organic de primeira compra? Sim. O S-EMCASACOMCECILIA dá 5% em todo o site oficial, no primeiro pedido e nos seguintes.",
+          "Como conseguir desconto na primeira compra na Simple Organic? O S-EMCASACOMCECILIA dá 5% em todo o site oficial, no primeiro pedido e nos seguintes.",
           "Qual cupom Simple Organic vale para quem já é cliente? O mesmo S-EMCASACOMCECILIA, com os mesmos 5%.",
           "O cupom Simple Organic vale em kit e em promoção? Sim. Os 5% entram nos kits e sobre o preço promocional.",
           "A Simple Organic tem frete grátis? Sim, a partir de R$ 99 em produtos. O mínimo conta depois do desconto do código.",
@@ -218094,6 +218120,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "CSEMCASACOMCECILIA dá 10% OFF na Cléa Store para cliente novo ou antigo. Testado em kit com preço de campanha; um código por pedido.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/clea-store/cupom-clea-store-primeira-compra-capa.webp",
@@ -218132,6 +218159,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Cléa Store primeira compra: qual usar",
         "paragraphs": [
+          "A Cléa Store vende roupas femininas, de camisetas a vestidos e peças de alfaiataria. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Cléa Store é confiável?](/reviews/clea-store-e-confiavel).",
           "Use o CSEMCASACOMCECILIA: 10% OFF em todos os produtos do site oficial, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
           "É o [cupom Cléa Store](/cupons/clea-store) da nossa parceria com a marca, testado no carrinho. Alfaiataria, vestido ou t-shirt: o código é o mesmo."
         ]
@@ -218222,7 +218250,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom Cléa Store de primeira compra? Sim. O CSEMCASACOMCECILIA dá 10% em todo o site oficial, no primeiro pedido e nos seguintes.",
+          "Como conseguir desconto na primeira compra na Cléa Store? O CSEMCASACOMCECILIA dá 10% em todo o site oficial, no primeiro pedido e nos seguintes.",
           "Qual cupom Cléa Store vale para quem já é cliente? O mesmo CSEMCASACOMCECILIA, com os mesmos 10%.",
           "O cupom Cléa Store soma com peça em promoção? Sim: no teste, os 10% entraram sobre o preço de campanha do kit de camisetas. Confira o desconto no resumo antes de pagar.",
           "Posso usar dois cupons no mesmo pedido da Cléa Store? Não. Os termos de uso da loja preveem um voucher por pedido.",
@@ -218719,6 +218747,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Para a primeira compra na Prohall, use CECILIAMC: até 10% OFF no site e no app; nos testes, 7%. O mesmo código vale para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/prohall/cupom-prohall-primeira-compra-capa-v2.webp",
@@ -218757,6 +218786,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Prohall primeira compra: qual usar",
         "paragraphs": [
+          "A Prohall vende cosméticos para cabelos, como shampoos, condicionadores e máscaras. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Prohall é confiável?](/reviews/prohall-e-confiavel).",
           "Use o CECILIAMC, o código da Cecília. Ele dá até 10% OFF no primeiro pedido, e o percentual varia por produto: nos carrinhos que testamos, foi de 7%.",
           "Código achado em site de cupom pode não funcionar. O CECILIAMC foi testado por nós no checkout, e as condições dele ficam na página do [cupom Prohall](/cupons/prohall)."
         ]
@@ -218815,7 +218845,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom Prohall de primeira compra? Tem: o CECILIAMC dá até 10% OFF no primeiro pedido e vale também nos seguintes.",
+          "Como conseguir desconto na primeira compra na Prohall? O CECILIAMC dá até 10% OFF no primeiro pedido e vale também nos seguintes.",
           "Qual cupom Prohall vale para quem já é cliente? O mesmo CECILIAMC. Ele serve para cliente novo e antigo.",
           "O cupom Prohall vale no app? Sim. O CECILIAMC vale no site oficial e no app da Prohall.",
           "O cupom soma com produto em promoção? Sim. No nosso teste, o desconto entrou sobre o preço promocional."

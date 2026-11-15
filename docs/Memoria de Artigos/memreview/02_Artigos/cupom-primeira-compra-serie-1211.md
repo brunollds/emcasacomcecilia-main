@@ -210,5 +210,8 @@ desconto…"), com código, benefício, condição e recorrência. `publishedAt`
   de amendoim" (o "cremes para passar no pão" da pauta não aparece nos nossos artigos da loja).
 - YesStyle: só conferida; a FAQ[0] segue "Tem código YesStyle de primeira compra?" e o conteúdo proposto está nas três
   primeiras perguntas.
-- Lotes 2 (suplementos e alimentação), 3 (moda, beleza, quarto e viagem), 4 (Hostinger, 10 idiomas) e 5 (SHEIN, 10
-  idiomas, com o percurso do cupom de checkout): a fazer, um por vez.
+- **Lotes 2 e 3 (PT):** Belive, Black Skull, Dr. Peanut, HolyFoods, Mais Mu, Max Titanium e Probiótica; Bagaggio, Cléa
+  Store, I Wanna Sleep, Insider, Prohall, Simple Organic, Skelt e Toda Up. Mesma mudança, com os textos da pauta; na
+  HolyFoods, "refeições prontas para preparar em casa, como sopas, risotos e macarrões" no lugar de "desidratados".
+  "Até 10%" segue na Max Titanium, na Probiótica e na Prohall, e a exceção da Black VIP, na Toda Up.
+- Lotes 4 (Hostinger, 10 idiomas) e 5 (SHEIN, 10 idiomas, com o percurso do cupom de checkout): a fazer, um por vez.
