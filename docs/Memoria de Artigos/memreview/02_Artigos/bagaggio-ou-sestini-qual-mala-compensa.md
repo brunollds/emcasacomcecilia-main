@@ -7,10 +7,10 @@ parceiro_slug: "bagaggio"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Marcas"
-status: "briefing"
+status: "pronto-para-deploy"
 score: 78
 responsavel: "Job-1 (Claude Fable 5.2)"
-proxima_acao: "redação (Job 2), depois do teste do Pix no carrinho da Bagaggio e da leitura do prazo da Super Garantia"
+proxima_acao: "deploy com o GO do Bruno e IndexNow"
 bloqueado_por: "-"
 data_criacao: "2026-11-15"
 i18n_cluster: null
@@ -141,3 +141,65 @@ O nome de cada modelo da Bagaggio na tabela vira link de afiliado do produto. Os
 - Teste do Pix no carrinho da Bagaggio (Job 2 ou Bruno).
 - Prazo da Super Garantia da Sestini: ler o guia que a página linka.
 - Releitura de preços, frete e disponibilidade na semana do texto.
+
+## Redação e releitura (Job 2, 15/11/2026)
+
+Pauta aprovada pelo Bruno em 15/11. A releitura do mesmo dia, no Chrome (APIs públicas das duas lojas e carrinho da
+Bagaggio sem login, sem finalizar), corrigiu três pontos do briefing:
+
+- **Pix da Sestini:** 10% só nas malas a preço cheio (Basic). Nas PP Essencial 2, que já estavam em promoção, o Pix deu
+  3% (R$ 359,90 → R$ 349,10; R$ 429,90 → R$ 417,00; R$ 519,90 → R$ 504,30). A tabela do briefing aplicava 10% em todas.
+- **Pix da Bagaggio:** confirmado no carrinho. Route média: R$ 449,90 → R$ 404,91 com o CECILIA10 ("Cupom UGC") →
+  R$ 384,66 escolhendo Pix ("PIX 5 % EXTRA - PRA SEMPRE"). No boleto, os 5% não entram. O rótulo "Boleto Bancário" que
+  o Job 1 viu na simulação é do cadastro da loja; `/cupons/bagaggio` e os artigos estão certos.
+- **Supergarantia da Sestini:** o guia em PDF (uma página) também não diz o prazo. Diz o que cobre (cor ou estampa,
+  componentes, estrutura, costura, tecido) e o que não cobre (impacto, desgaste, riscos, zíper esgarçado, casco
+  trincado, excesso de peso, entre outros).
+
+Tese nova: com o CECILIA10, a Bagaggio sai mais barata em cinco de seis pares; na média de ABS preta ou prata, a Sestini
+fica R$ 0,90 abaixo no Pix. Entrou um sexto par, a grande de polipropileno (Route × PP Essencial 2).
+
+### Matriz de claims (leitura de 15/11)
+
+| Par | Bagaggio: página → CECILIA10 → com Pix | Sestini: página → Pix |
+|---|---|---|
+| Bordo ABS | Detroit 249,90 → 224,91 → 213,66 | Basic 299,90 → 269,91 |
+| Bordo PP | Route 299,90 → 269,91 → 256,41 | PP Essencial 2 359,90 → 349,10 |
+| Média ABS | Detroit II preta 379,90 → 341,91 → 324,81 (rosé 349,90 → 314,91) | Basic 359,90 → 323,91 |
+| Média PP | Route 449,90 → 404,91 → 384,66 (carrinho) | PP Essencial 2 429,90 → 417,00 |
+| Grande ABS | Detroit II preta 349,90 → 314,91 → 299,16 | Basic 429,90 → 386,91 |
+| Grande PP | Route 399,90 → 359,91 → 341,91 | PP Essencial 2 519,90 → 504,30 |
+
+Só a Route média teve o Pix visto no carrinho; os outros valores de Pix da Bagaggio são conta (5% sobre o preço com o
+código). Peso, medidas e litros são os da ficha de cada loja. Frete: simulação pública para o CEP 01001-000, entrega
+mais barata de cada loja; as duas devolveram pontos de retirada grátis, inclusive nas grandes. Parcelas sem juros: de
+4 a 8 nas duas, conforme o valor. A medida "55 × 35 × 25 cm" de LATAM, GOL e Azul vem do
+[[mala-de-bordo-bagaggio-qual-compensa]].
+
+### Revisão (Job 3)
+
+Revisor: subagente Claude Fable 5.2, 15/11. Tabelas conferidas célula a célula, sem correção de número. Seis bloqueios
+de frase, todos aplicados: resposta rápida com 64 palavras e "igual" que não existia; "a distância cresce com o
+tamanho" (falso: cai do bordo para a média); "o preço da Sestini sobe mais do que o tamanho" (falso); "é no parcelado
+que ela fica mais à frente" (só vale contra as Basic); "não usamos as malas" no FAQ; e um "Passe se" que não era
+motivo para passar. As melhorias também entraram (percentuais do Pix só em Pagamento, litros como dado declarado,
+"todas as formas de pagamento", "entre outros" na lista da Supergarantia).
+
+## Capa e imagens (Job 6)
+
+- **Capa:** `/images/reviews/bagaggio/bagaggio-ou-sestini-qual-mala-compensa-capa.webp`, 1600 × 900, painel verde à
+  esquerda com o logo oficial, "Bagaggio ou Sestini?", "Qual mala compensa" e o cupom CECILIA10. Foto oficial da
+  Bagaggio, ainda não usada no site: Route azul média com a modelo da loja
+  (`lojabagaggio.vteximg.com.br/arquivos/ids/2402853/0018644030004---MALA-ROUTE-MED--AZUL-M_H.jpg`, baixada em
+  15/11/2026). Tratamento: corte do rodapé, que trazia o selo "modelo mede 1,62 m" da loja; sem outro retoque. O painel
+  ficou com 627 px, e não 550, para a foto entrar inteira. Sem logo, produto ou foto da Sestini. Montagem: Claude
+  Fable 5.2 (Pillow, Segoe UI).
+- **Corpo:** cinco fotos oficiais que já estão no CDN, de outros artigos da loja, cada uma no capítulo do produto e
+  com o link de afiliado dele: Detroit de bordo e Route de bordo (`mala-de-bordo-bagaggio-qual-compensa-*`), Detroit II
+  média, Route média e Route grande (`tamanho-mala-bagaggio-p-m-g-*`).
+- **Aprovação e upload:** capa aprovada pelo Bruno em 15/11/2026. SHA-256 `221fd25cccf93a9008b271eae7a3e6bc5ee4f342702fda31c0fa33220c1d5df8`, 173.280 bytes; no CDN, verificada por HTTPS e no mapa de entrega.
+- **Alt da capa:** "Modelo da loja ao lado da mala Route azul de 23 kg da Bagaggio, em foto oficial, com a pergunta Bagaggio ou Sestini? e o cupom CECILIA10."
+
+## Gates (Job 5, 15/11/2026)
+
+`validate:content`, `typecheck`, `test:article-d2`, `test:internal-links`, `lint`, `npm run build` e os gates de mídia passaram.
