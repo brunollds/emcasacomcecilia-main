@@ -220,4 +220,21 @@ desconto…"), com código, benefício, condição e recorrência. `publishedAt`
   `test:review-i18n` (falso positivo) e virou "續訂時沒有這項折扣".
 - HolyFoods (ajuste depois do parecer do ChatGPT): "sopas, risotos e macarrões de despensa, que ficam prontos no fogão
   em 15 a 20 minutos" (dado de `holyfoods-fatos-0511`).
-- Lote 5 (SHEIN, 10 idiomas, com o percurso do cupom de checkout): a fazer, depois da conferência no Chrome.
+- **Lote 5 (SHEIN, 10 idiomas):** introdução com o link do "é confiável" de cada idioma; seção nova "Onde achar um
+  cupom de checkout da SHEIN", depois de "Indicação não é cupom de checkout" (nossa página de cupons, a área de cupons
+  da conta e o site e o app); FAQ[0] "Como encontrar desconto na primeira compra na SHEIN?", que abre pelo 4CW5Y e
+  termina no link da página de cupons. Três links para `/cupons/shein` (ou `/<locale>/coupons/shein`) por versão. O
+  4CW5Y nunca é chamado de cupom e não vai no campo de cupom. Sem promessa de cupom automático.
+  - Conferência no Chrome em 15/11, só leitura e sem login: a política de cupons do br.shein.com
+    (`/Coupon-Policy-a-1302.html`) diz que conta nova pode receber cupom, que os cupons saem na página inicial, na
+    página do pedido e em pop-ups e nem sempre ficam ligados à conta, que cada um tem validade e uso único, e que o
+    pedido aceita um cupom da SHEIN mais um cupom de loja de vendedor local. O menu da conta mostra "Meus Cupons". As
+    políticas da França e da Alemanha dizem um cupom por pedido e cupons consultados na conta. A dos EUA não abriu, e o
+    rótulo do campo no checkout não foi conferido (pede login).
+  - Por isso o PT cita "Meus Cupons", o link da política e a regra do vendedor local; os 9 espelhos dizem só "a área de
+    cupons da conta", sem nome de menu, sem a regra do vendedor local e sem link de política, e avisam que as regras
+    podem mudar de um site de país da SHEIN para outro.
+  - Ajustes do ChatGPT no rascunho PT: a FAQ abre pelo código; "Você pode procurar cupons nestes lugares"; "a SHEIN e
+    os vendedores da plataforma podem oferecer cupons". As 9 versões: Sonnet 5.5 gerou, a sessão revisou.
+- **No ar:** os Lotes 1 a 3 no release `24478c84` (15/11; smoke 22/22, IndexNow com 25 URLs, captura `43751972930`).
+  O Lote 4 (#1003) e o Lote 5 estão na main e esperam o deploy.
