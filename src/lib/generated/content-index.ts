@@ -53456,6 +53456,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
     "updatedAt": "2026-11-15",
+    "bodyDatesReason": "campanha",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/insider/cupom-emcasacomcecilia-insider-store-como-usar-capa-v2.webp",
@@ -53478,7 +53479,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: como usar o cupom da Insider",
         "paragraphs": [
-          "O [cupom Insider](/cupons/insider) é EMCASACOMCECILIA e dá 15% OFF nas compras do site, inclusive no Outlet, em kits e sobre os preços de Black Friday, sem valor mínimo. Você digita o código no checkout ou entra pelo link da parceria. Ele não vale nas lojas físicas, pode não entrar nos primeiros dias de um lançamento, e a loja aceita um cupom por pedido."
+          "O [cupom Insider](/cupons/insider) é EMCASACOMCECILIA e dá 15% OFF nos itens elegíveis do site, inclusive no Outlet, em kits e sobre os preços de Black Friday, sem valor mínimo. Você digita o código no checkout ou entra pelo link da parceria. Ele não vale nas lojas físicas, pode não entrar nos primeiros dias de um lançamento, e a loja aceita um cupom por pedido."
         ]
       },
       {
@@ -53551,7 +53552,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "As regras oficiais do programa são curtas: o cupom vale nas compras da loja online, pode não entrar nos primeiros dias de um **lançamento**, não vale nas **lojas físicas** da Insider e não é cumulativo com outro cupom, porque a loja aceita só um por pedido.",
           "Para saber como isso funciona no dia a dia, testamos o cupom no checkout oficial em 5 de outubro de 2026, sem finalizar a compra. O desconto entrou numa Tech T-Shirt, numa Undershirt Antissuor, num kit com três Tech T-Shirts femininas que já estava com preço promocional e numa peça do Outlet. Também testamos uma meia de R$ 25 sozinha no carrinho, e o desconto entrou: não encontramos valor mínimo de pedido para usar o cupom. Em todos esses itens o desconto foi de 15% do preço, o que voltamos a conferir no checkout dias depois.",
-          "No fim de outubro, no esquenta de Black Friday da loja, repetimos o teste, e os 15% entraram sobre o preço já reduzido. A Tech T-Shirt, de R$ 169,00 por R$ 129,00, saiu por R$ 109,65, e uma Calça Pantalona InLounge do Outlet, de R$ 299,00 por R$ 179,00, saiu por R$ 152,15.",
+          "Em 31/10/2026, no esquenta de Black Friday da loja, repetimos o teste, e os 15% entraram sobre o preço já reduzido. A Tech T-Shirt, de R$ 169,00 por R$ 129,00, saiu por R$ 109,65, e uma Calça Pantalona InLounge do Outlet, de R$ 299,00 por R$ 179,00, saiu por R$ 152,15.",
           "No teste, um vestido com etiqueta de lançamento ficou sem desconto, enquanto Tech T-Shirt e sutiãs Nakedfeel do Outlet receberam o cupom apesar da mesma etiqueta. Portanto, a etiqueta sozinha não decide: confira a linha do código de cada item."
         ],
         "bullets": [
@@ -53663,7 +53664,7 @@ export const reviewsData: unknown[] = [
           "Quanto de desconto dá o cupom EMCASACOMCECILIA? 15% OFF nos produtos elegíveis da loja online, sem valor mínimo. Uma Core T-Shirt de R$ 189,00, por exemplo, sai por R$ 160,65. O desconto aparece em cada item do resumo do pedido assim que o cupom é aceito.",
           "Onde digito o cupom na Insider? No campo Cupom de desconto ou Gift Card do checkout, clicando em Aplicar. Pelo link da parceria, o cupom já vem aplicado.",
           "O cupom Insider vale no Outlet? Sim. No nosso teste, o desconto entrou em peça do Outlet e em kit com preço promocional.",
-          "O cupom Insider vale na Black Friday? Sim. No nosso teste do esquenta de Black Friday, os 15% entraram sobre o preço já reduzido: a Tech T-Shirt de R$ 129,00 saiu por R$ 109,65. A loja aceita um cupom por pedido.",
+          "O cupom Insider vale na Black Friday? Sim. No teste do esquenta, o EMCASACOMCECILIA deu 15% sobre o preço promocional da Tech T-Shirt: de R$ 129,00 para R$ 109,65. Confira os itens elegíveis no checkout; a loja aceita um cupom por pedido.",
           "O cupom vale para lançamentos? Pode ficar fora de alguns itens, especialmente no início de um lançamento. A etiqueta não decide sozinha: produtos com essa marcação receberam desconto no teste e outros não. Confira a linha do código por item.",
           "O cupom Insider é cumulativo? Ele pode somar com preços promocionais elegíveis e com o Pix, conforme as condições da ação. O que não soma é outro cupom no mesmo pedido; a loja aceita apenas um código.",
           "Tem cupom Insider para primeira compra? Sim. O EMCASACOMCECILIA vale na primeira compra e para quem já comprou, sem valor mínimo. A loja aceita um cupom por pedido.",
@@ -167563,7 +167564,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O cupom EMCASACOMCECILIA dá 15% na loja online, um por pedido, e não vale na loja física. Nos primeiros dias de um lançamento, pode não entrar; depois, entra mesmo com a etiqueta de lançamento. A regra publicada não exclui kit.",
           "No kit de 5 Tech, o carrinho mostra cinco camisetas com o desconto do kit em cada uma, e o cupom entra por cima. O total ficou em R$ 462,75, ou R$ 92,55 por camiseta, com frete grátis. Em outro kit, confira a linha do código em cada peça antes de pagar.",
-          "A Daily não aceita o cupom: a página avisa que o desconto dela já é o máximo.",
+          "O kit de 3 Daily desta comparação não aceitou o cupom: a página avisava que o desconto dele já era o máximo. Isso não exclui a linha inteira: em outro teste, o kit da Daily T-shirt com cueca de brinde recebeu os 15%. Confira a oferta e a linha do código no seu pedido.",
           "O Pix tem desconto próprio, que aparece no checkout e soma com o cupom."
         ],
         "links": [
@@ -167601,7 +167602,7 @@ export const reviewsData: unknown[] = [
           "Kit Insider compensa? Compensa em camiseta Tech de 5 ou 10 peças, Heavy de 3 ou 5 e Slip de 10. Na cueca, o kit de 2 Comfort é o que mais economiza.",
           "Kit de cueca vale a pena? O de 2 Comfort sai a R$ 49,01 por peça. Os de 3 e 5 Comfort ou Performance economizam de 3% a 5%, e o de 5 Slip, 10%.",
           "Kit de camiseta tem desconto? A Tech tem: o kit de 5 economiza 16%. A Daily quase não tem: 2% no kit de 3.",
-          "O cupom vale no kit? No kit de 5 Tech, o cupom EMCASACOMCECILIA entrou por cima do desconto do kit, e o total ficou em R$ 462,75. Cada peça precisa ser elegível (a Daily, por exemplo, não aceita o cupom): confira a linha do código de cada item no resumo do pedido.",
+          "O cupom vale no kit? No kit de 5 Tech, o EMCASACOMCECILIA entrou por cima do desconto do kit, e o total ficou em R$ 462,75. O kit de 3 Daily desta comparação não aceitou o código; já o kit da Daily com cueca de brinde recebeu os 15% em outro teste. Confira a linha do código de cada item no resumo do pedido.",
           "Kit tem frete grátis? Acima de R$ 399, depois do desconto. O kit de 5 Tech com o cupom ficou com frete grátis.",
           "Dá para escolher cor e tamanho no kit? Dá. Cada peça do kit tem cor e tamanho próprios.",
           "Dá para trocar o tamanho do kit? A camiseta troca por tamanho em 21 dias. Cueca e undershirt só trocam por defeito."
