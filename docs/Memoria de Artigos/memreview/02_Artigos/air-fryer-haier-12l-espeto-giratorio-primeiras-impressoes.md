@@ -7,9 +7,9 @@ category: "produtos-experiencias"
 reviewKind: "editorial"
 type: "Primeiras impressões"
 anexo_tipo: "nenhum"
-status: "pronto-para-deploy"
+status: "no-ar"
 responsavel: "Claude"
-proxima_acao: "deploy com o GO do Bruno, HA1 e HA2 juntas; reler o Reclame Aqui em 60 dias"
+proxima_acao: "reler o Reclame Aqui da Haier em meados de janeiro de 2027; trocar a lateral oficial por foto própria se o Bruno mandar"
 bloqueado_por: ""
 score_autoridade: 80
 score_conversao: 74
