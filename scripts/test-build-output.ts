@@ -2947,12 +2947,12 @@ for (const { pagePath, store } of couponStorePages) {
     assert.equal(method.includes('href="/sobre#titulo-como-testamos"'), pagePath.startsWith('/cupons/'), `${pagePath}: o link do método em "Como testamos o cupom"`);
     assert.ok(!method.includes('href="/contato"'), `${pagePath}: o canal de aviso voltou para "Como testamos o cupom"`);
   }
-  // As seções que só existem em português: "O que acumula" (só com linhas no dado), "Por que o cupom não
-  // funcionou?" (toda loja de código) e "Vídeos" (só com vídeo cadastrado), cada uma no lugar dela.
+  // "O que acumula" (só com linhas no dado do idioma) e o print (só com o print do idioma) saem em todo idioma. Só em
+  // português: "Por que o cupom não funcionou?" (toda loja de código), "Vantagens além do cupom" e "Vídeos".
   {
     const isPortuguese = pagePath.startsWith('/cupons/');
     const isCode = store!.offerMode === 'discount-code';
-    const rows = isPortuguese && store!.offerMode === 'discount-code' ? (store!.stacking ?? []) : [];
+    const rows = store!.offerMode === 'discount-code' ? (store!.stacking ?? []) : [];
     const at = (id: string) => body.indexOf(`aria-labelledby="${id}"`);
     assert.equal(at('o-que-acumula') !== -1, rows.length > 0, `${pagePath}: "O que acumula com o cupom" fora da regra`);
     assert.equal(body.includes('href="#o-que-acumula"'), rows.length > 0, `${pagePath}: link para "O que acumula" sem a seção, ou a seção sem o link`);
@@ -2985,13 +2985,15 @@ for (const { pagePath, store } of couponStorePages) {
       assert.equal(section.includes('data-perks="shipping"'), rows.some((row) => row.benefit === 'frete' || row.benefit === 'retirada'), `${pagePath}: o cartão de frete das vantagens fora da regra`);
       assert.ok(at('nao-funcionou') < at('vantagens') && at('vantagens') < at('sobre'), `${pagePath}: "Vantagens além do cupom" fora do lugar`);
     }
-    // O print do carrinho fecha "Como usar", só em português e só na loja que tem o print, com o link do passo a passo.
-    const print = isPortuguese ? store!.cartPrint : undefined;
+    // O print do carrinho fecha "Como usar", só na loja que tem o print no idioma da página; com `article`, leva o link
+    // do passo a passo, no idioma da página. Fora do PT o print é o do site em inglês.
+    const print = store!.cartPrint;
+    if (!isPortuguese && print) assert.ok(/-en\.webp$/.test(print.src), `${pagePath}: fora do PT o print é o do site em inglês`);
     assert.equal(body.includes('data-cart-print'), Boolean(print), `${pagePath}: print do carrinho fora da regra`);
     if (print) {
       const howTo = between(body, 'aria-labelledby="como-usar"', ['</section>']);
       assert.ok(howTo.includes('data-cart-print'), `${pagePath}: o print do carrinho fora de "Como usar"`);
-      if (print.article) assert.ok(howTo.includes(`href="/reviews/${print.article}"`), `${pagePath}: o print sem o link do passo a passo`);
+      if (print.article) assert.ok(howTo.includes(`href="${pagePath.split(/\/(?:cupons|coupons)\//)[0]}/reviews/${print.article}"`), `${pagePath}: o print sem o link do passo a passo do idioma`);
       assert.ok(decodeHtml(howTo).includes(print.alt), `${pagePath}: o print sem o alt`);
       // Legenda própria (código que não entra no carrinho): sai no lugar da padrão, sem cupom, data nem valor.
       if (print.caption) {
@@ -3049,12 +3051,12 @@ for (const { locale, hubPath } of yesStyleHubs) {
   assert.equal(elementsWithClass(list, 'recorte').length, promos, `${hubPath}: os cupons da lista sem o .recorte`);
   yesStyleWithoutPromos ||= promos === 0;
   assertStorePageBanners(hubPath, body, 'yesstyle', 'YesStyle', locale, 'como-funcionam');
-  // A tabela "O que acumula na YesStyle" e o print do código aplicado só existem em português, cada um no lugar
-  // dele, e nenhum dos dois chama o código de recompensa de cupom.
+  // A tabela "O que acumula na YesStyle" e o print do código aplicado saem nos 10 idiomas, cada um no lugar dele,
+  // e nenhum dos dois chama o código de recompensa de cupom. O print leva ao artigo do app no idioma da página.
   {
     const at = (id: string) => body.indexOf(`aria-labelledby="${id}"`);
-    const rows = resolved.stacking?.rows ?? [];
-    assert.equal(rows.length > 0, locale === 'pt', `${hubPath}: a tabela "O que acumula" é só do português`);
+    const rows = resolved.stacking.rows;
+    assert.equal(rows.length, 4, `${hubPath}: a tabela "O que acumula" sem as quatro combinações`);
     assert.equal(at('o-que-acumula') !== -1, rows.length > 0, `${hubPath}: "O que acumula na YesStyle" fora da regra`);
     assert.equal(body.includes('href="#o-que-acumula"'), rows.length > 0, `${hubPath}: link para "O que acumula" sem a seção, ou a seção sem o link`);
     if (rows.length > 0) {
@@ -3069,12 +3071,13 @@ for (const { locale, hubPath } of yesStyleHubs) {
       assert.ok(!new RegExp(`cupom (de recompensa )?${resolved.rewardCode}`, 'i').test(textOf(table)), `${hubPath}: "O que acumula" chama o ${resolved.rewardCode} de cupom`);
     }
     const print = resolved.cartPrint;
-    assert.equal(Boolean(print), locale === 'pt', `${hubPath}: o print do código aplicado é só do português`);
     assert.equal(body.includes('data-cart-print'), Boolean(print), `${hubPath}: print do código aplicado fora da regra`);
     if (print) {
       const howTo = between(body, 'aria-labelledby="como-usar"', ['</section>']);
       assert.ok(howTo.includes('data-cart-print'), `${hubPath}: o print fora de "Como aplicar"`);
-      assert.ok(print.article && howTo.includes(`href="/reviews/${print.article}"`), `${hubPath}: o print sem o link do passo a passo`);
+      const articleHref = `${locale === 'pt' ? '' : `/${locale}`}/reviews/${print.article}`;
+      assert.ok(print.article && howTo.includes(`href="${articleHref}"`), `${hubPath}: o print sem o link do passo a passo do idioma`);
+      assert.ok(publishedReviews.some((review) => review.slug === print.article && (review.locale ?? 'pt') === locale), `${hubPath}: o artigo do print é de outro idioma`);
       assert.ok(decodeHtml(howTo).includes(print.alt) && textOf(howTo).includes(print.caption), `${hubPath}: o print sem o alt ou sem a legenda`);
       assert.ok(!/cupom/i.test(print.caption + print.alt) && !/\d{1,2}\/\d{1,2}|R\$|US\$/.test(print.caption), `${hubPath}: a legenda do print fala em cupom, data ou valor`);
       if (resolveMediaUrl(print.src) !== print.src) {

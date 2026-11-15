@@ -45,8 +45,8 @@ export type CouponStoreCopy = {
   testedBy: (date: string) => string;
   // Fim da seção, só em português (a /sobre não tem tradução): o link do método.
   testFooter?: { methodLabel: string; methodHref: string };
-  // "O que acumula com o cupom" (#o-que-acumula), só em português: a tabela vem do `stacking` da loja.
-  stacking?: {
+  // "O que acumula com o cupom" (#o-que-acumula): a tabela vem do `stacking` da loja, no idioma da página.
+  stacking: {
     title: string;
     caption: (brand: string) => string;
     headers: { benefit: string; stacks: string; condition: string };
@@ -57,8 +57,8 @@ export type CouponStoreCopy = {
   };
   // "Vantagens além do cupom" (#vantagens), só em português: pagamento e frete, a partir do `paymentPerks` da loja.
   perks?: { title: string; groups: { payment: string; shipping: string } };
-  // O print do carrinho no fim de "Como usar", só em português: é exemplo, não o teste do mês.
-  cartPrint?: { caption: string; stepsLabel: string };
+  // O print do carrinho no fim de "Como usar": é exemplo, não o teste do mês.
+  cartPrint: { caption: string; stepsLabel: string };
   // "Vídeos" (#videos), só em português: cada vídeo abre na rede em que foi publicado, em nova aba.
   videos?: { title: string; platforms: Record<StoreVideoPlatform, string>; watchOn: (platform: string) => string; newTab: string };
   // "Por que o cupom não funcionou?" (#nao-funcionou), só em português: três causas e o canal de aviso no /contato.
@@ -302,6 +302,22 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     verifiedOn: (date) => `Checked on ${date}`,
     testTitle: 'How we tested the coupon',
     testedBy: (date) => `Tested by the Em Casa com Cecília team on ${date}.`,
+    stacking: {
+      title: 'What stacks with the coupon',
+      caption: (brand) => `What stacks with the ${brand} coupon`,
+      headers: { benefit: 'Benefit', stacks: 'Stacks?', condition: 'Condition' },
+      benefits: {
+        promocoes: 'Promotions',
+        retirada: 'In-store pickup',
+        pix: 'Pix',
+        cashback: 'Cashback',
+        'outro-cupom': 'Another coupon',
+        frete: 'Free shipping',
+      },
+      answers: { sim: 'Yes', nao: 'No', depende: 'It depends' },
+      rulesPointer: 'See what stacks with the coupon',
+    },
+    cartPrint: { caption: 'Example of the code applied in the cart. Values change depending on the order.', stepsLabel: 'See the step-by-step with images' },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>
         `Updated ${brand} ${offerType}: ${code} — ${discount} ${scope} (${monthYear}).`,
@@ -403,6 +419,22 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     verifiedOn: (date) => `Comprobado el ${date}`,
     testTitle: 'Cómo probamos el cupón',
     testedBy: (date) => `Probado por el equipo de Em Casa com Cecília el ${date}.`,
+    stacking: {
+      title: 'Qué se acumula con el cupón',
+      caption: (brand) => `Qué se acumula con el cupón ${brand}`,
+      headers: { benefit: 'Beneficio', stacks: '¿Se acumula?', condition: 'Condición' },
+      benefits: {
+        promocoes: 'Promociones',
+        retirada: 'Recogida en tienda',
+        pix: 'Pix',
+        cashback: 'Cashback',
+        'outro-cupom': 'Otro cupón',
+        frete: 'Envío gratis',
+      },
+      answers: { sim: 'Sí', nao: 'No', depende: 'Depende' },
+      rulesPointer: 'Mira qué se acumula con el cupón',
+    },
+    cartPrint: { caption: 'Ejemplo del código aplicado en el carrito. Los valores cambian según el pedido.', stepsLabel: 'Mira el paso a paso con imágenes' },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>
         `${capitalize(offerType)} ${brand} actualizado: ${code} — ${discount} ${scope} (${monthYear}).`,
@@ -504,6 +536,22 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     verifiedOn: (date) => `Vérifié le ${date}`,
     testTitle: 'Comment nous avons testé le code promo',
     testedBy: (date) => `Testé par l'équipe d'Em Casa com Cecília le ${date}.`,
+    stacking: {
+      title: 'Ce qui se cumule avec le code promo',
+      caption: (brand) => `Ce qui se cumule avec le code promo ${brand}`,
+      headers: { benefit: 'Avantage', stacks: 'Cumulable ?', condition: 'Condition' },
+      benefits: {
+        promocoes: 'Promotions',
+        retirada: 'Retrait en magasin',
+        pix: 'Pix',
+        cashback: 'Cashback',
+        'outro-cupom': 'Autre code promo',
+        frete: 'Livraison gratuite',
+      },
+      answers: { sim: 'Oui', nao: 'Non', depende: 'Ça dépend' },
+      rulesPointer: 'Voir ce qui se cumule avec le code promo',
+    },
+    cartPrint: { caption: 'Exemple du code appliqué dans le panier. Les montants changent selon la commande.', stepsLabel: 'Voir le pas à pas en images' },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>
         `${capitalize(offerType)} ${brand} mis à jour${NBSP}: ${code} — ${discount} ${scope} (${monthYear}).`,
@@ -608,6 +656,22 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     verifiedOn: (date) => `Geprüft am ${date}`,
     testTitle: 'So haben wir den Gutschein getestet',
     testedBy: (date) => `Getestet vom Team von Em Casa com Cecília am ${date}.`,
+    stacking: {
+      title: 'Was sich mit dem Gutschein kombinieren lässt',
+      caption: (brand) => `Was sich mit dem ${brand}-Gutschein kombinieren lässt`,
+      headers: { benefit: 'Vorteil', stacks: 'Kombinierbar?', condition: 'Bedingung' },
+      benefits: {
+        promocoes: 'Aktionen',
+        retirada: 'Abholung im Geschäft',
+        pix: 'Pix',
+        cashback: 'Cashback',
+        'outro-cupom': 'Weiterer Gutschein',
+        frete: 'Kostenloser Versand',
+      },
+      answers: { sim: 'Ja', nao: 'Nein', depende: 'Kommt darauf an' },
+      rulesPointer: 'Sieh dir an, was sich mit dem Gutschein kombinieren lässt',
+    },
+    cartPrint: { caption: 'Beispiel für den im Warenkorb eingelösten Code. Die Beträge ändern sich je nach Bestellung.', stepsLabel: 'Die Schritt-für-Schritt-Anleitung mit Bildern ansehen' },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>
         `${brand}-${offerType} aktualisiert: ${code} — ${discount} ${scope} (${monthYear}).`,
@@ -710,6 +774,22 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     verifiedOn: (date) => `Verificato il ${date}`,
     testTitle: 'Come abbiamo testato il coupon',
     testedBy: (date) => `Testato dal team di Em Casa com Cecília il ${date}.`,
+    stacking: {
+      title: 'Cosa si cumula con il coupon',
+      caption: (brand) => `Cosa si cumula con il coupon ${brand}`,
+      headers: { benefit: 'Vantaggio', stacks: 'Si cumula?', condition: 'Condizione' },
+      benefits: {
+        promocoes: 'Promozioni',
+        retirada: 'Ritiro in negozio',
+        pix: 'Pix',
+        cashback: 'Cashback',
+        'outro-cupom': 'Un altro coupon',
+        frete: 'Spedizione gratuita',
+      },
+      answers: { sim: 'Sì', nao: 'No', depende: 'Dipende' },
+      rulesPointer: 'Scopri cosa si cumula con il coupon',
+    },
+    cartPrint: { caption: 'Esempio del codice applicato nel carrello. Gli importi cambiano in base all’ordine.', stepsLabel: 'Guarda il passo passo con le immagini' },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>
         `${capitalize(offerType)} ${brand} aggiornato: ${code} — ${discount} ${scope} (${monthYear}).`,
@@ -811,6 +891,22 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     verifiedOn: (date) => `${date} 확인`,
     testTitle: '쿠폰 테스트 방법',
     testedBy: (date) => `Em Casa com Cecília 팀이 ${date}에 테스트했습니다.`,
+    stacking: {
+      title: '쿠폰과 함께 쓸 수 있는 혜택',
+      caption: (brand) => `${brand} 쿠폰과 함께 쓸 수 있는 혜택`,
+      headers: { benefit: '혜택', stacks: '중복 적용', condition: '조건' },
+      benefits: {
+        promocoes: '프로모션',
+        retirada: '매장 수령',
+        pix: 'Pix',
+        cashback: '캐시백',
+        'outro-cupom': '다른 쿠폰',
+        frete: '무료 배송',
+      },
+      answers: { sim: '가능', nao: '불가', depende: '경우에 따라 다름' },
+      rulesPointer: '쿠폰과 함께 쓸 수 있는 혜택 보기',
+    },
+    cartPrint: { caption: '장바구니에 코드를 적용한 예시입니다. 금액은 주문에 따라 달라집니다.', stepsLabel: '이미지와 함께 단계별 방법 보기' },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>
         `${brand} ${offerType} 업데이트: ${code} — ${discount} ${scope} (${monthYear}).`,
@@ -910,6 +1006,22 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     verifiedOn: (date) => `${date}に確認`,
     testTitle: 'クーポンのテスト方法',
     testedBy: (date) => `Em Casa com Cecília チームが${date}にテストしました。`,
+    stacking: {
+      title: 'クーポンと併用できるもの',
+      caption: (brand) => `${brand}のクーポンと併用できるもの`,
+      headers: { benefit: '特典', stacks: '併用', condition: '条件' },
+      benefits: {
+        promocoes: 'プロモーション',
+        retirada: '店舗受け取り',
+        pix: 'Pix',
+        cashback: 'キャッシュバック',
+        'outro-cupom': 'ほかのクーポン',
+        frete: '送料無料',
+      },
+      answers: { sim: '可', nao: '不可', depende: '場合による' },
+      rulesPointer: 'クーポンと併用できるものを見る',
+    },
+    cartPrint: { caption: 'カートでコードを適用した例です。金額は注文内容によって変わります。', stepsLabel: '画像つきの手順を見る' },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>
         `${brand} の${offerType}を更新：${code} — ${discount} ${scope}（${monthYear}）。`,
@@ -1008,6 +1120,22 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     verifiedOn: (date) => `已於 ${date} 核實`,
     testTitle: '我們如何測試優惠碼',
     testedBy: (date) => `Em Casa com Cecília 團隊於 ${date} 測試。`,
+    stacking: {
+      title: '可與優惠碼同時使用的項目',
+      caption: (brand) => `可與 ${brand} 優惠碼同時使用的項目`,
+      headers: { benefit: '優惠', stacks: '可同時使用？', condition: '條件' },
+      benefits: {
+        promocoes: '促銷活動',
+        retirada: '門市取貨',
+        pix: 'Pix',
+        cashback: '現金回饋',
+        'outro-cupom': '其他優惠碼',
+        frete: '免運費',
+      },
+      answers: { sim: '可以', nao: '不可以', depende: '視情況而定' },
+      rulesPointer: '查看可與優惠碼同時使用的項目',
+    },
+    cartPrint: { caption: '在購物車套用代碼的範例。金額會依訂單而不同。', stepsLabel: '查看附圖的操作步驟' },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>
         `${brand} ${offerType}已更新：${code} — ${discount} ${scope}（${monthYear}）。`,
@@ -1107,6 +1235,22 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     verifiedOn: (date) => `已于 ${date} 核实`,
     testTitle: '我们如何测试优惠码',
     testedBy: (date) => `Em Casa com Cecília 团队于 ${date} 测试。`,
+    stacking: {
+      title: '可与优惠码同时使用的项目',
+      caption: (brand) => `可与 ${brand} 优惠码同时使用的项目`,
+      headers: { benefit: '优惠', stacks: '可叠加？', condition: '条件' },
+      benefits: {
+        promocoes: '促销活动',
+        retirada: '门店自提',
+        pix: 'Pix',
+        cashback: '现金返还',
+        'outro-cupom': '其他优惠码',
+        frete: '免运费',
+      },
+      answers: { sim: '可以', nao: '不可以', depende: '视情况而定' },
+      rulesPointer: '查看可与优惠码同时使用的项目',
+    },
+    cartPrint: { caption: '在购物车应用代码的示例。金额会因订单而不同。', stepsLabel: '查看带图片的操作步骤' },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>
         `${brand} ${offerType}已更新：${code} — ${discount} ${scope}（${monthYear}）。`,

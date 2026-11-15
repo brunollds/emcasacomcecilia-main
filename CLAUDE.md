@@ -487,15 +487,19 @@ vídeo, primeiras impressões e uso noturno.
   ou teste real; a rodada de testes é mensal, a partir do dia 1, e o `test:coupon-offer-modes` avisa depois de 45 dias sem teste. O mês do título
   (`metaTitleMonth`), do quadro do mês e de `/cupons` segue o calendário no build (`src/lib/offerMonth.ts`).
   SHEIN e YesStyle seguem com "Conferido em". Regras em `docs/MANUTENCAO-MENSAL.md`, seção 1.
-- Três seções da página de loja só existem em português (o texto fica só no `pt` de `couponStoreCopy.tsx`, e os
-  campos são `drop` na `CODE_FIELD_POLICY`): "O que acumula com o cupom" (`#o-que-acumula`, logo depois das
-  regras: a tabela do `stacking` da loja, uma linha por benefício e só com fato conferido), "Por que o cupom não
+- "O que acumula com o cupom" (`#o-que-acumula`, logo depois das regras: a tabela do `stacking` da loja, uma linha
+  por benefício e só com fato conferido) e o print do código no carrinho (`cartPrint`, no fim de "Como usar": uma
+  imagem mostrada pelo `ReviewInlineImage`, com o "Ampliar", como exemplo e sem data de teste) saem em todo idioma
+  em que a loja tem o dado. Os rótulos estão nos 10 idiomas de `couponStoreCopy.tsx`. Fora do PT os dois campos
+  são `translate` na `CODE_FIELD_POLICY`: a tradução traz só as linhas vistas no site que a página do idioma abre
+  (na Hostinger, o global) e o print desse site em inglês (`-en.webp`), com o alt do idioma; o `article` da tradução dá o link do passo a
+  passo no idioma da página (na Hostinger o print é uma imagem desse artigo, com o mesmo alt);
+  sem eles, a página do idioma fica sem a tabela e sem o print. O print do PT nunca passa para outro idioma.
+- Duas seções só existem em português (o texto fica só no `pt` de `couponStoreCopy.tsx`): "Por que o cupom não
   funcionou?" (`#nao-funcionou`, depois de "Como testamos o cupom", em toda loja de código, com o canal de aviso
   no `/contato`) e "Vídeos" (`#videos`, antes das perguntas, só quando a loja tem `videos`; cada um abre na rede,
-  sem player nem script de terceiros). O `test:coupon-offer-modes` confere os dados e o `test:build-output`, a
-  presença e o lugar de cada uma. O fim de "Como usar" leva o print do código no carrinho (`cartPrint`), também só
-  em português: uma imagem do artigo "como usar o cupom" da loja, mostrada pelo `ReviewInlineImage` (com o
-  "Ampliar"), como exemplo e sem data de teste.
+  sem player nem script de terceiros). O `test:coupon-offer-modes` confere os dados do PT, o
+  `test:coupon-translations`, os dos outros idiomas, e o `test:build-output`, a presença e o lugar de cada seção.
 - "Vantagens além do cupom" (`#vantagens`, entre "Por que o cupom não funcionou?" e "Sobre a loja"), também só em
   português: aparece na loja com `paymentPerks` (o parcelamento que a loja publica) e junta a ele o Pix, o frete
   grátis e a retirada do `stacking`, a mesma fonte da tabela. Fato de frete novo entra no `shipping` e na linha
@@ -527,8 +531,9 @@ vídeo, primeiras impressões e uso noturno.
   `src/components/YesStyleCouponPage.tsx` usam a mesma moldura,
   `src/components/coupons/StoreLayout.tsx`, e o `CouponDock` de `CouponActions.tsx`: no celular,
   o dock aparece depois que o recorte `#cupom` sobe e sai da tela. A tabela "O que acumula" (`StackingTable`) e o
-  print do código aplicado (`CartPrintFigure`) são os mesmos nas duas, de `src/components/coupons/StoreEvidence.tsx`,
-  só em português. Na YesStyle, as linhas e o print vêm do `stacking` e do `cartPrint` do PT de `yesstyleCopy.ts`:
+  print do código aplicado (`CartPrintFigure`) são os mesmos nas duas, de `src/components/coupons/StoreEvidence.tsx`.
+  Na YesStyle, as linhas e o print vêm do `stacking` e do `cartPrint` de cada idioma de `yesstyleCopy.ts` (as mesmas
+  quatro combinações nos 10; o print é o do app, em inglês, com o alt e o link do artigo do app no idioma da página):
   linha nova só com fonte (os termos dos cupons da loja ou um teste nosso), e a legenda do print diz que é o código
   de recompensa, sem data nem valor. Loja de link não tem código no carrinho: o `cartPrint` dela leva `caption` própria (a SHEIN,
   com o 4CW5Y na busca), e o `test:coupon-offer-modes` cobra.

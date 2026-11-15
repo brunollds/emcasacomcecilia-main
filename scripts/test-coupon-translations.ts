@@ -1,4 +1,5 @@
 import assert from 'node:assert/strict';
+import { existsSync } from 'node:fs';
 import { getActiveCoupons, getAllActiveCouponSlugs, getCouponBySlug, type CouponCodeOffer } from '../src/lib/couponsData';
 import {
   CODE_FIELD_POLICY,
@@ -10,6 +11,8 @@ import {
   type CodeOfferTranslation,
   type TranslatedLocale,
 } from '../src/lib/couponTranslations';
+import mediaMap from '../src/lib/generated/media-delivery-map.json';
+import { publishedReviews } from '../src/lib/data';
 import { LOCALE_KEYS } from '../src/lib/i18n/locales';
 import { getCouponStorePath, getTranslatedCouponSlugs } from '../src/lib/couponTranslations';
 import { getCouponCardLabels, getCouponHubAlternates, getCouponHubEntries, getCouponHubItemName } from '../src/lib/couponHub';
@@ -117,6 +120,36 @@ for (const locale of TRANSLATED_LOCALES) {
   }
 }
 
+// O print fora do PT é o do site em inglês, já no mapa de entrega, com o
+// alt do idioma. A linha de "O que acumula" repete a resposta do PT para o mesmo benefício, sem data nem "R$".
+for (const { slug, locale } of routes) {
+  const localized = getLocalizedCoupon(slug, locale)!;
+  const pt = getCouponBySlug(slug)!;
+  const print = localized.cartPrint;
+  if (print) {
+    const where = `${slug}/${locale}: print`;
+    assert.ok(/-en\.webp$/.test(print.src) && print.src !== pt.cartPrint?.src, `${where}: é o do PT`);
+    assert.ok(print.src in mediaMap || existsSync(`public${print.src}`), `${where}: ${print.src} fora do mapa de entrega e de public/`);
+    // O link do passo a passo, quando existe, vai a um artigo da mesma loja no idioma da página.
+    if (print.article) {
+      const article = publishedReviews.find((review) => review.slug === print.article);
+      assert.ok(article && article.locale === locale && [article.affiliate].flat().includes(slug), `${where}: ${print.article} não é artigo da loja neste idioma`);
+      // Quando o print é uma imagem do artigo, o alt é o do artigo.
+      const inArticle = (article.contentSections ?? []).flatMap((section) => section.images ?? []).find((image) => image.src === print.src);
+      if (inArticle) assert.equal(print.alt, inArticle.alt, `${where}: o alt é diferente do alt do artigo`);
+    }
+    assert.ok(print.alt.trim().length >= 10, `${where}: alt curto demais`);
+    assert.equal(Boolean(print.caption), localized.offerMode === 'affiliate-link', `${where}: legenda própria só em loja de link, e nela sempre`);
+    assert.doesNotMatch(print.caption ?? '', /\d{1,2}\/\d{1,2}|R\$|US\$|\d\s?%/, `${where}: legenda com data ou valor`);
+  }
+  if (localized.offerMode !== 'discount-code' || pt.offerMode !== 'discount-code') continue;
+  for (const row of localized.stacking ?? []) {
+    const ptRow = pt.stacking?.find((item) => item.benefit === row.benefit);
+    assert.equal(row.stacks, ptRow?.stacks, `${slug}/${locale}: "O que acumula", ${row.benefit}: resposta diferente da do PT`);
+    assert.doesNotMatch(row.condition, /\.$|\d{1,2}\/\d{1,2}|20\d\d|R\$/, `${slug}/${locale}: "O que acumula", ${row.benefit}: ponto final, data ou R$`);
+  }
+}
+
 // O teste no carrinho fora do PT vem da tradução (testedAt e testNote juntos): sem a data, a página do idioma
 // perderia em silêncio o "Como testamos" e o lastReviewed. A data nunca passa da conferência do PT.
 for (const { slug, locale } of routes) {
@@ -143,6 +176,9 @@ for (const locale of TRANSLATED_LOCALES) {
   assert.equal(hostinger.codeFieldLabel, 'Have a coupon code?', `hostinger/${locale}: o campo é o do carrinho global, em inglês`);
   assert.match(hostinger.testNote ?? '', /383[.,]52/, `hostinger/${locale}: testNote sem o teste do site global`);
   assert.match(hostinger.testNote ?? '', /306[.,]82/, `hostinger/${locale}: testNote sem o total com o cupom`);
+  // "O que acumula" fora do PT só leva o que o teste do site global mostrou: os 20% sobre o preço promocional.
+  assert.deepEqual(hostinger.stacking?.map((row) => [row.benefit, row.stacks]), [['promocoes', 'sim']], `hostinger/${locale}: "O que acumula" além do teste do site global`);
+  assert.equal(hostinger.paymentPerks, undefined, `hostinger/${locale}: as vantagens de pagamento são do site brasileiro`);
   assert.doesNotMatch(hostinger.testNote ?? '', /R\$/, `hostinger/${locale}: testNote cita o teste em reais do /br`);
   assert.equal(hostinger.codeInstructions?.length, 4, `hostinger/${locale}: passos do cupom`);
   for (const [path, text] of leaves(hostinger)) {

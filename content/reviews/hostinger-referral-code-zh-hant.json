@@ -60,6 +60,15 @@
       "heading": "在哪裡輸入優惠碼",
       "paragraphs": [
         "選好方案和期間，進入購物車。在訂單摘要中點擊「Have a coupon code?」，貼上 **SONAR20** 並套用。20% 折扣會出現在首期總價上，付款前就能看到。優惠碼也列在[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom-en.webp",
+          "alt": "Hostinger 購物車中的訂單摘要，顯示 Coupon applied 一行和 SONAR20 標籤",
+          "caption": "已套用 SONAR20 的訂單摘要。",
+          "objectFit": "contain",
+          "aspectRatio": 0.6737
+        }
       ]
     },
     {

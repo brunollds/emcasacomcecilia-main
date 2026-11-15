@@ -158,7 +158,11 @@ Para cada oferta ativa, reconferir:
   curtas, sem ponto final e sem data. Com ele a página ganha "Vantagens além do cupom", que repete o Pix, o frete
   grátis e a retirada do `stacking`. Só entra o que foi lido na página da loja; número de parcelas que só aparece
   num produto, ou que diverge entre páginas, fica de fora. Reconferir na rodada mensal, com o `shipping`;
-- `cartPrint`: o print do código aplicado no carrinho, no fim de "Como usar", só em português. É
+- `cartPrint`: o print do código aplicado no carrinho, no fim de "Como usar". Fora do PT (hoje a SHEIN e a
+  Hostinger, em `couponTranslations.ts`), o print é o do site em inglês (arquivo `-en.webp`, um só para os nove
+  idiomas, com o alt de cada um e o link do artigo no idioma da página: o do código de indicação na SHEIN e o
+  do cupom SONAR20 na Hostinger, que leva o mesmo print na seção "Onde colar o código"), e a tabela "O que acumula" só leva o que foi visto nesse
+  site: print ou linha do site brasileiro não passa para outro idioma. É
   demonstração visual (decisão do Bruno, 12/11/2026): não diz data de teste nem promete os valores da
   imagem, e a legenda avisa que os valores mudam. Pode reaproveitar uma imagem do artigo "como usar o
   cupom" da loja (`article`, `src` e o mesmo `alt`; a página ganha o link do passo a passo) ou ser um
@@ -282,6 +286,11 @@ Ficaram sem dado, por leitura que não fechou. Reler na rodada de 01/12/2026:
   aceita código com login. Falta, com a conta do Bruno: o `CECILIA010` num item em promoção e com YS Points (as duas
   linhas que a tabela ainda não tem) e um print do site. O passo a passo da página ainda chama o campo de "Reward
   Code"; no app ele se chama "Influencer / Rewards Code", e o nome no site fica para o mesmo teste.
+- **Prints em inglês (14/11/2026, Chrome, sem login):** o carrinho global da Hostinger (`hostinger.com`, em dólar,
+  plano Startup de 48 meses com o preço de Black Friday: US$ 383,52 → US$ 306,82 com o `SONAR20`, linha "Coupon
+  savings applied" de US$ 76,70) e a busca do `us.shein.com` com o `4CW5Y`, que levou a uma página de seleção ("My
+  Picks for You") com preços em dólar. São os prints das páginas dos nove idiomas. Na Hostinger fora do PT, a
+  tabela só tem a linha das promoções; parcelas e meios de pagamento do site global não foram lidos.
 - **SHEIN, busca do 4CW5Y no app:** o print de `/cupons/shein` é o do site no celular, sem login (o mesmo do artigo
   `codigo-de-indicacao-shein`). Falta o print da busca no aplicativo, que pede a conta do Bruno; quando vier, entra
   com nome novo de arquivo e o `lastVerified` só avança se a página do código for relida no mesmo dia.
@@ -321,7 +330,15 @@ compra de fora) e qual link vale fora do português. Sem essa resposta, a loja e
    ou vender fora do Brasil não prova isso. Sem a confirmação, a loja não entra na lista: as páginas dos 9 idiomas saem do
    mesmo jeito, e as campanhas dos 10 idiomas levam um link que valha em todos. Na lista, o `test:coupon-translations` barra
    loja ativa sem página nos 9 idiomas.
-5. Rodar `npm run typecheck`, `npm run test:coupon-translations`, `npm run test:locale-home` e o `npm run build`.
+5. "O que acumula" e o print fora do PT não entram sozinhos: cada um só sai na página do idioma se a tradução trouxer
+   o dado (`stacking` na loja de código, `cartPrint` nas duas). Vale só o que foi visto no site que a página do idioma
+   abre (o global, não o brasileiro): as linhas da tabela vêm de teste ou regra lida nesse site, e o print é uma captura
+   dele em inglês, sem login e sem concluir compra, em arquivo `-en.webp` (um só para os nove idiomas, com o alt de cada
+   um; na loja de link, também a legenda própria). Se a loja tem o artigo do passo a passo nos 10 idiomas, pôr o print
+   também no artigo e o `article` de cada idioma na tradução, para a página ganhar o link. "Vantagens além do cupom",
+   "Por que o cupom não funcionou?" e "Vídeos" seguem só em português. Registrar no dossiê a data, o site, a moeda e
+   as condições de cada evidência.
+6. Rodar `npm run typecheck`, `npm run test:coupon-translations`, `npm run test:locale-home` e o `npm run build`.
 
 **Entra sozinho com a entrada do passo 2:** as páginas `/<idioma>/coupons/<loja>` com hreflang, o cartão no hub
 `/<idioma>/coupons`, a bolinha e a aba na home de cada idioma, o nome da loja no FAQ, a busca de cada idioma, o sitemap, o
