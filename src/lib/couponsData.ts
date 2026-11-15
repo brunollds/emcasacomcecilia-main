@@ -1101,11 +1101,11 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'casa',
     shortDescription: "todo o site Let's Eat It",
     longDescription:
-      'O cupom Let\'s Eat It da Cecília dá 5% OFF no site, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções, a pré-venda e os 5% do Pix, e vale em todas as formas de pagamento. Testado no carrinho.',
-    metaTitle: "Cupom Let's Eat It: 5% OFF no site, soma com Pix",
+      'O cupom Let\'s Eat It MAUAD dá 5% OFF no site, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções, a pré-venda e os 5% do Pix, e vale em todas as formas de pagamento. Testado no carrinho.',
+    metaTitle: "Cupom Let's Eat It: 5% OFF com MAUAD, soma com Pix",
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Let\'s Eat It: 5% OFF no site oficial para cliente novo ou antigo, somando com promoções, pré-venda e os 5% do Pix. Use o código da Cecília.',
+      'Cupom Let\'s Eat It: MAUAD dá 5% OFF no site oficial para cliente novo ou antigo, somando com promoções, pré-venda e os 5% do Pix.',
     eligibleCategories: "Todo o site Let's Eat It, conforme regras da loja",
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -3280,6 +3280,11 @@ const STORE_COUPONS: Coupon[] = [
           'Não. A Petz informa que o desconto da assinatura não soma com outros cupons. O EMCASA entra nas compras avulsas.',
       },
       {
+        question: 'De quem é o cupom EMCASA da Petz?',
+        answer:
+          'EMCASA é o cupom do Em Casa com Cecília no programa Parceiro Petz. Dá 10% de desconto no site e no app da Petz, na primeira compra e para quem já é cliente. Se o produto estiver em promoção, a sacola aplica o maior desconto.',
+      },
+      {
         question: 'O cupom EMCASA está funcionando hoje?',
         answer:
           'Sim. No teste mais recente, o EMCASA aplicou os 10% na sacola. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
@@ -3515,7 +3520,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O CECILIA é cupom de influenciadora?',
         answer:
-          'Sim. É o código da Cecília, do Em Casa com Cecília, testado por nós no checkout. Não testamos a soma com o cupom de outra pessoa; o resumo da compra mostra qual código ficou aplicado.',
+          'Sim. CECILIA é o cupom do Em Casa com Cecília na La Ganexa e dá 10% OFF no site oficial para clientes novos e antigos. No nosso teste, o desconto entrou sobre quatro produtos que já estavam em promoção. Veja o print em “Como usar o cupom CECILIA”.',
       },
       {
         question: 'O cupom soma com produtos em promoção?',
