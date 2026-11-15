@@ -134,7 +134,7 @@
     {
       "heading": "Preço por caixa, por barra e por grama de proteína",
       "paragraphs": [
-        "Preços dos sites em 14 de novembro de 2026, no cartão, sem frete nem desconto do Pix. Na Black Skull, na Dr. Peanut e na Mais Mu, as contas já incluem o código de 10% de cada loja. A Probiótica aparece sem código: o dela dá até 10%, conforme o produto, e o valor final aparece no carrinho.",
+        "Preços dos sites em 14 de novembro de 2026, no cartão, sem frete nem desconto do Pix. As contas já incluem o código de cada loja: 10% na Black Skull, na Dr. Peanut e na Mais Mu. Na Probiótica, o código dá até 10%, conforme o produto; no nosso teste de carrinho, tirou 2% das duas caixas de barra, e é esse o valor da tabela.",
         "Na Mais Mu, esta tabela usa o preço exibido antes da oferta; a oferta vem logo abaixo."
       ],
       "comparisonTable": {
@@ -147,16 +147,16 @@
         ],
         "rows": [
           [
-            "[Whey Bar, Probiótica](https://www.probiotica.com.br/whey-bar-24-un-/p), 24 unidades, sem código",
-            "R$ 139,88",
-            "R$ 5,83",
-            "R$ 0,39"
+            "[Whey Bar, Probiótica](https://www.probiotica.com.br/whey-bar-24-un-/p), 24 unidades",
+            "R$ 137,08",
+            "R$ 5,71",
+            "R$ 0,38"
           ],
           [
-            "[Whey Bar Creamy, Probiótica](https://www.probiotica.com.br/whey-bar-creamy/p), 12 unidades, sem código",
-            "R$ 77,89",
-            "R$ 6,49",
-            "R$ 0,59 a R$ 0,65"
+            "[Whey Bar Creamy, Probiótica](https://www.probiotica.com.br/whey-bar-creamy/p), 12 unidades",
+            "R$ 76,33",
+            "R$ 6,36",
+            "R$ 0,58 a R$ 0,64"
           ],
           [
             "[Doctor Bar, Dr. Peanut](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p), 8 unidades",
@@ -213,7 +213,7 @@
         ]
       },
       "postParagraphs": [
-        "Nessa oferta, a Crush Bar se aproxima da Gourmet Zero por grama de proteína. A Whey Bar da Probiótica continua na frente, mesmo sem desconto. O frete pode mudar qual caixa fica mais barata no pedido."
+        "Nessa oferta, a Crush Bar se aproxima da Gourmet Zero por grama de proteína. A Whey Bar da Probiótica continua na frente. O frete pode mudar qual caixa fica mais barata no pedido."
       ]
     },
     {
@@ -221,7 +221,7 @@
       "paragraphs": [
         "A escolha entre as duas começa pelo açúcar adicionado. A Whey Bar tem o menor custo por proteína do guia; a Creamy é a de menor preço por barra entre as que declaram zero açúcar adicionado.",
         "O tamanho do pedido também muda: a caixa da Whey Bar traz 24 barras, o dobro da Creamy. Quem quer gastar menos de uma vez deve comparar o total da caixa.",
-        "O PRO10EMCASACOMCECILIA dá até 10%, conforme o produto. Confira o desconto aplicado à caixa no resumo do pedido."
+        "O PRO10EMCASACOMCECILIA dá até 10%, conforme o produto. Nas duas caixas de barra, o carrinho do nosso teste mostrou 2%. Confira o desconto no resumo do pedido."
       ],
       "images": [
         {
@@ -345,7 +345,7 @@
           [
             "Probiótica",
             "PRO10EMCASACOMCECILIA",
-            "Até 10%, conforme o produto",
+            "Até 10%; 2% nas barras, no nosso teste",
             "[Cupom Probiótica](/cupons/probiotica)"
           ],
           [
@@ -377,12 +377,13 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual barra tem o menor preço por grama de proteína? Entre as seis comparadas, a Whey Bar da Probiótica, mesmo sem aplicar o código. Ela leva açúcar adicionado.",
+        "Qual barra tem o menor preço por grama de proteína? Entre as seis comparadas, a Whey Bar da Probiótica, já com o código de cada loja. Ela leva açúcar adicionado.",
         "Qual barra de proteína não tem açúcar? Nenhuma das seis tem zero açúcar total. Creamy, Gourmet Zero, Mukebar e Crush Bar declaram zero açúcar adicionado nos rótulos comparados.",
         "A Gourmet Zero da Black Skull é zero lactose? Não. A página declara que ela contém lactose; o aviso de que não contém glúten é outra informação.",
         "Qual barra tem mais proteína por unidade? Entre as seis deste guia, a Doctor Bar da Dr. Peanut. A comparação não cobre todo o catálogo das quatro lojas.",
         "Dá para comprar uma barra avulsa? As apresentações comparadas aqui são caixas, de 8, 12 ou 24 unidades. Confira no anúncio se a loja oferece outra apresentação."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-15"
 }
