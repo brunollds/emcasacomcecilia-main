@@ -195,3 +195,20 @@ O que cada um marca "a ler" é leitura da redação, no navegador.
 3. **Magalu:** entra com artigo curto ou fica fora, com o FAQ da página?
 4. **Ritmo:** sugestão de sair a onda 1 primeiro (três artigos, com a comparação pronta) e a onda 2 em lotes de
    quatro ou cinco, para o Job 3 e a capa de cada um não virarem fila.
+
+## Reforma de 15/11/2026 (Job 1 por lotes, depois do #999 da YesStyle)
+
+Pauta em `docs/analise-primeira-compra-gsc-20261115/JOB-1-REFORMA-PRIMEIRA-COMPRA-LOTES.md` (fora do git), aprovada pelo
+Bruno: todo artigo da série ganha uma apresentação curta da loja com o link de confiança, abrindo o primeiro capítulo
+depois da resposta rápida, e a FAQ[0] vira "Como conseguir desconto na primeira compra na <loja>?" (ou "Qual é o
+desconto…"), com código, benefício, condição e recorrência. `publishedAt` e capas não mudam; `updatedAt` 15/11.
+
+- **Lote 1 (PT):** Magalu, Petz, Dolce Gusto, Nestlé Nutre, DAMIE, La Ganexa e Let's Eat It. No Magalu, a
+  `metaDescription` e a resposta rápida passaram a abrir com o 10EMCASACOMCECILIA, e o link do "Magazine Você é
+  confiável?" saiu de "Navegador ou aplicativo" para a introdução. Na La Ganexa, o link de confiança repetido saiu de
+  "O que o primeiro pedido exige", e a introdução diz "doces e pastas, como doce de leite, brigadeiro de colher e pasta
+  de amendoim" (o "cremes para passar no pão" da pauta não aparece nos nossos artigos da loja).
+- YesStyle: só conferida; a FAQ[0] segue "Tem código YesStyle de primeira compra?" e o conteúdo proposto está nas três
+  primeiras perguntas.
+- Lotes 2 (suplementos e alimentação), 3 (moda, beleza, quarto e viagem), 4 (Hostinger, 10 idiomas) e 5 (SHEIN, 10
+  idiomas, com o percurso do cupom de checkout): a fazer, um por vez.
