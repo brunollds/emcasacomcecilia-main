@@ -227879,14 +227879,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nas malas rígidas de entrada, Bagaggio e Sestini vendem produtos parecidos em peso e medidas. Com o cupom CECILIA10, de 10% OFF, a Bagaggio saiu mais barata em cinco dos seis pares comparados; na média de ABS preta, a Sestini fica centavos abaixo no Pix. Depois do preço, pesa o frete da mala média e da grande: veja abaixo."
+          "Com o CECILIA10, de 10% OFF, a Bagaggio ficou mais barata nos seis pares comparados no cartão e em cinco no Pix, antes do frete. A Sestini ganhou por centavos na mala média de ABS preta ou prata paga no Pix. Compare o total com frete e as condições da garantia antes de escolher."
         ]
       },
       {
         "heading": "O que as duas vendem",
         "paragraphs": [
-          "Na primeira mala rígida, Bagaggio e Sestini vendem quase o mesmo produto: as duas têm loja física e site, e as duas vendem mala de bordo, de 23 kg e de 32 kg com quatro rodas duplas e cadeado embutido. Na faixa de entrada, o casco é de ABS ou de polipropileno; a diferença entre os materiais está em [mala de policarbonato ou ABS](/reviews/mala-policarbonato-ou-abs-bagaggio).",
-          "Como o produto é parecido, a escolha sai da conta: o preço que se paga em cada tamanho, o frete e a garantia. Abaixo, cada par tem o mesmo tamanho e o mesmo material: Detroit e Route, da Bagaggio, contra Basic e PP Essencial 2, da Sestini.",
+          "Bagaggio e Sestini têm lojas físicas e site, com malas rígidas de entrada nos tamanhos bordo, médio e grande. Os modelos comparados têm quatro rodas duplas e cadeado embutido. Na faixa de entrada, o casco é de ABS ou de polipropileno; a diferença entre os materiais está em [mala de policarbonato ou ABS](/reviews/mala-policarbonato-ou-abs-bagaggio).",
+          "Entre modelos parecidos em material, peso e medidas, a escolha sai da conta: o preço que se paga em cada tamanho, o frete e a garantia. Abaixo, cada par tem o mesmo tamanho e o mesmo material: Detroit e Route, da Bagaggio, contra Basic e PP Essencial 2, da Sestini.",
           "Na Bagaggio, os preços já levam o [cupom Bagaggio](/cupons/bagaggio) CECILIA10, que dá 10% OFF em todo o site e vale em todas as formas de pagamento. Na Sestini, vale o preço da página."
         ]
       },
@@ -227966,7 +227966,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mala média de 23 kg: onde a Sestini encosta",
         "paragraphs": [
-          "A mala média é o tamanho em que a conta aperta. No ABS, a Sestini Basic no Pix fica abaixo da Detroit II preta com o cupom, e quem também paga a Bagaggio no Pix quase empata. No polipropileno, a Bagaggio volta a ficar na frente."
+          "Na mala média de ABS, a Sestini Basic ficou R$ 0,90 mais barata com as duas pagas no Pix, antes do frete. No cartão, a vantagem ficou com a Detroit II preta da Bagaggio. No polipropileno, a Route ficou mais barata nas duas formas de pagamento."
         ],
         "comparisonTable": {
           "caption": "Mesmas condições da primeira tabela.",
@@ -228137,7 +228137,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Garantia: vitalícia de um lado, prazo não informado do outro",
         "paragraphs": [
-          "A garantia é a diferença mais clara entre as duas. A loja informa: a Bagaggio dá garantia vitalícia contra defeito de fabricação nas malas da própria marca compradas desde o fim de abril de 2024. As regras e o que fica de fora estão em [garantia vitalícia Bagaggio](/reviews/bagaggio-garantia-vitalicia).",
+          "A Bagaggio informa garantia vitalícia contra defeitos de fabricação nas malas da marca compradas a partir de 29/04/2024. Ela não cobre o desgaste do uso nem danos no transporte, que a loja atribui à companhia aérea. Veja as condições em [garantia vitalícia Bagaggio](/reviews/bagaggio-garantia-vitalicia).",
           "A Sestini dá os 90 dias da lei e, além deles, a Supergarantia, com conserto e, em alguns casos, troca. O guia dela cobre falha na cor ou na estampa, perda de componentes, desalinhamento da estrutura e problemas de costura e de tecido. Ficam de fora, entre outros, marcas de impacto, desgaste por uso, riscos, zíper esgarçado, casco trincado e dano por excesso de peso.",
           "Nem a página nem o guia da Supergarantia dizem por quanto tempo ela vale. Se a garantia pesa na sua escolha, pergunte o prazo à Sestini antes de comprar e guarde o cupom fiscal, que ela pede para o atendimento."
         ]
@@ -228145,23 +228145,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pagamento: o Pix de cada uma",
         "paragraphs": [
-          "No Pix, o desconto das duas funciona de jeitos diferentes. Na Bagaggio, os 5% do Pix entram depois do CECILIA10: foi o que o carrinho mostrou na Route média. Na Sestini, o Pix deu 10% nas malas a preço cheio e 3% nas que já estavam em promoção.",
+          "Na Bagaggio, os 5% do Pix entram depois do CECILIA10, como conferimos no carrinho da Route média. Nas tabelas, calculamos o Pix das demais malas com essa mesma condição; confirme o total no seu pedido. Na Sestini, o Pix deu 10% nas malas a preço cheio e 3% nas que já estavam em promoção.",
           "No cartão, as malas da comparação saem em 4 a 8 parcelas sem juros nas duas lojas, e o número de parcelas sobe com o valor. Como o cupom da Bagaggio vale em todas as formas de pagamento, no parcelado ela fica mais à frente das Basic, que têm 10% no Pix. Contra as PP Essencial 2, a diferença é quase a mesma no cartão e no Pix."
         ]
       },
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Pelo preço, a Bagaggio com o CECILIA10 é a escolha em cinco dos seis pares, e a maior distância está na mala grande: no cartão, passa de R$ 100 nos dois materiais. A Sestini só encosta na mala média de ABS, e só para quem paga no Pix, quer a cor preta ou a prata e retira na loja; com a entrega do nosso CEP, a Bagaggio volta à frente.",
-          "Na dúvida entre duas malas de preço parecido, a garantia desempata: a da Bagaggio é vitalícia nas malas da marca, e a da Sestini não tem o prazo publicado. E, na mala média e na grande, some o frete antes de comparar."
+          "No cartão, a Bagaggio com o CECILIA10 ficou mais barata nos seis pares comparados; na mala grande, a diferença passou de R$ 100 nos dois materiais. No Pix, ganhou em cinco pares. A exceção foi a mala média de ABS preta ou prata: a Sestini ficou R$ 0,90 abaixo, antes do frete. Nesse par, compare também entrega e retirada; na simulação para o centro de São Paulo, o frete devolveu a vantagem à Bagaggio.",
+          "Com preços próximos, eu daria preferência à Bagaggio pela garantia vitalícia contra defeitos de fabricação. Na Sestini, pediria o prazo da Supergarantia por escrito antes de decidir. Na mala média e na grande, some também o frete."
         ],
-        "emphasis": "Com preço parecido, eu ficaria com a mala que diz por escrito até quando vale a garantia além dos 90 dias."
+        "emphasis": "Com preço parecido, eu ficaria com a Bagaggio pela garantia vitalícia contra defeitos de fabricação. Na Sestini, confirmaria o prazo adicional por escrito."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Bagaggio ou Sestini: qual é mais barata? Com o cupom CECILIA10, a Bagaggio saiu mais barata em cinco dos seis pares comparados. Na mala média de ABS preta ou prata, a Sestini fica centavos abaixo no Pix.",
-          "Qual tem garantia maior? A Bagaggio dá garantia vitalícia contra defeito de fabricação nas malas da marca. A Sestini dá os 90 dias da lei mais a Supergarantia, sem informar o prazo dela.",
+          "Bagaggio ou Sestini: qual é mais barata? Com o CECILIA10, de 10% OFF, a Bagaggio ficou mais barata nos seis pares no cartão e em cinco no Pix, antes do frete. A Sestini ficou ligeiramente abaixo na mala média de ABS preta ou prata paga no Pix.",
+          "Qual tem garantia maior? A Bagaggio informa garantia vitalícia contra defeitos de fabricação. A Sestini oferece os 90 dias mais a Supergarantia, mas não encontramos o prazo adicional nos documentos dela. Confirme esse prazo com a Sestini antes de comparar a duração das duas.",
           "O cupom da Bagaggio vale na Sestini? Não. O CECILIA10 dá 10% OFF só no site da Bagaggio, em todas as formas de pagamento.",
           "As duas têm loja física? Têm, e as duas ofereceram retirada grátis em loja na simulação de frete.",
           "Qual é a melhor mala, Bagaggio ou Sestini? Depende do tamanho e de como você paga. As malas de entrada das duas são parecidas em peso e medidas; o que muda é o preço, o frete e a garantia, e a conta está em Qual escolher."
@@ -228173,8 +228173,8 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Você quer mala de bordo ou mala grande: nesses tamanhos a Bagaggio com o CECILIA10 saiu mais barata nos dois materiais, parcelando ou no Pix.",
-        "Você vai parcelar: o cupom vale em todas as formas de pagamento, e o desconto à vista da Sestini apareceu só no Pix.",
-        "A garantia pesa na sua escolha: a da Bagaggio é vitalícia nas malas da marca."
+        "Você vai parcelar: com o CECILIA10, a Bagaggio ficou mais barata nos seis pares comparados no cartão, antes do frete.",
+        "Você prioriza a cobertura contra defeitos de fabricação: a Bagaggio informa garantia vitalícia para as malas da marca."
       ],
       "skipIf": [
         "Você quer a mala média de ABS preta ou prata, paga no Pix e retira na loja: nesse par, a Sestini ficou centavos abaixo."
