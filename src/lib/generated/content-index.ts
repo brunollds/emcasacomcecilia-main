@@ -226727,5 +226727,496 @@ export const reviewsData: unknown[] = [
       }
     ],
     "updatedAt": "2026-11-15"
+  },
+  {
+    "id": 981,
+    "slug": "air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes",
+    "locale": "pt",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "publishedAt": "15 de novembro de 2026",
+    "publishedAtISO": "2026-11-15",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "editorialNote": "Recebemos o aparelho para teste. Não há contrato, pagamento nem cupom, e a marca não leu este texto antes da publicação.",
+    "title": "Air fryer com espeto giratório: primeiras impressões da Haier de 12 litros",
+    "seoTitle": "Air fryer com espeto giratório: Haier 12 L na prática",
+    "type": "Primeiras impressões",
+    "category": "produtos-experiencias",
+    "reviewKind": "editorial",
+    "description": "Cinco dias com a air fryer forno de 12 L da Haier: 400 g de batata congelada, espetinhos no suporte giratório, acabamento, montagem e espaço necessário na bancada.",
+    "metaDescription": "Usamos a air fryer Haier de 12 L por cinco dias. Veja a batata, os espetinhos, o encaixe dos acessórios e o espaço que ela pede na bancada.",
+    "image": "/images/reviews/haier/air-fryer-haier-12l-espeto-giratorio-capa.webp",
+    "imageAlt": "Cecília apoiada na bancada da cozinha ao lado da air fryer forno Haier de 12 litros, com espetinhos assados atrás da janela de vidro, em quadro do nosso vídeo, ao lado do título Air fryer com espeto giratório",
+    "productName": "Air Fryer Oven Digital Haier 12 litros com rotisserie",
+    "brand": "Haier",
+    "productSpec": [
+      {
+        "key": "Marca",
+        "value": "Haier"
+      },
+      {
+        "key": "Modelo",
+        "value": "HSAF-EV1201BBR"
+      },
+      {
+        "key": "Capacidade",
+        "value": "12 litros"
+      },
+      {
+        "key": "Potência",
+        "value": "1.800 W, segundo o manual"
+      },
+      {
+        "key": "Voltagem da unidade",
+        "value": "127 V"
+      },
+      {
+        "key": "Dimensões (C × L × A)",
+        "value": "329 × 317 × 397 mm, segundo o manual"
+      },
+      {
+        "key": "Acessórios que giram",
+        "value": "Cesto, suporte de espetinhos e suporte de frango"
+      }
+    ],
+    "pros": [
+      "Cesto e suportes giratórios para variar os preparos",
+      "Duas janelas de vidro com luz interna para acompanhar a comida",
+      "Embalagem e acabamento dos acessórios agradaram ao Bruno",
+      "Barulho leve na impressão do Bruno"
+    ],
+    "cons": [
+      "A saída de ar quente pede folga atrás e dos lados",
+      "Encaixar os espetos e os suportes pede prática",
+      "Várias peças para lavar depois do uso",
+      "O manual impresso tem erros de português"
+    ],
+    "youtubeUrl": "https://youtube.com/shorts/jodyBX3E7dY",
+    "cta": {
+      "text": "Haier de 12 litros com rotisserie, em anúncio de 127 V. Confira a voltagem e o código do modelo antes de comprar.",
+      "label": "Ver na Amazon",
+      "url": "https://link.amazon/B08irJgVj",
+      "sponsored": true
+    },
+    "relatedArticles": [
+      {
+        "slug": "haier-e-boa-marca-de-onde-e"
+      },
+      {
+        "slug": "airfryer-uma-breve-historia"
+      },
+      {
+        "slug": "10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Haier de 12 litros que usamos gira o cesto e os espetinhos, com janelas em cima e na frente. Em cinco dias, o destaque foram os 400 g de batata congelada, prontos em 15 minutos no programa de 30. O encaixe dos espetos pede prática, e a saída de ar quente exige espaço livre na bancada."
+        ]
+      },
+      {
+        "heading": "O que é uma air fryer com espeto giratório",
+        "paragraphs": [
+          "É uma air fryer em formato de forno, com porta na frente, bandejas e um motor para girar os acessórios. Na nossa Haier, a HSAF-EV1201BBR, há cesto giratório, suporte de espetinhos e suporte para frango.",
+          "No cesto, o giro movimenta as batatas durante o preparo. Nos espetinhos, muda a posição dos alimentos sem precisar abrir a porta para virá-los à mão. As duas janelas de vidro, uma em cima e outra na frente, permitem acompanhar o preparo com a luz interna.",
+          "Usamos o aparelho por cinco dias e fizemos batata congelada e espetinhos. Estas são as primeiras impressões desse uso; a durabilidade fica para uma avaliação depois de mais tempo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/haier/air-fryer-haier-12l-cecilia-bancada.webp",
+            "alt": "Cecília na bancada da cozinha ao lado da air fryer forno Haier de 12 litros, com os espetinhos prontos atrás da janela da frente",
+            "caption": "A Haier de 12 litros na nossa bancada, com os espetinhos já assados.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "O que vem na caixa",
+        "comparisonTable": {
+          "headers": [
+            "Acessório",
+            "Para que serve"
+          ],
+          "rows": [
+            [
+              "Cesto giratório",
+              "Movimentar os alimentos durante o preparo"
+            ],
+            [
+              "Suporte de espetinhos",
+              "Manter os espetos presos ao conjunto que gira"
+            ],
+            [
+              "Suporte de frango",
+              "Prender a ave ao eixo giratório"
+            ],
+            [
+              "Bandeja de tela plana e bandeja de tela côncava",
+              "Preparos sem giro, no uso como forno"
+            ],
+            [
+              "Bandeja coletora",
+              "Recolher gordura e resíduos no fundo"
+            ],
+            [
+              "Garfo de retirada",
+              "Retirar os acessórios quentes, conforme as instruções do manual"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A embalagem chamou a atenção do Bruno: os acessórios vieram separados e bem acomodados. Na opinião dele, os acessórios têm qualidade acima da média. A pintura e o acabamento também agradaram; ele os colocou no mesmo nível da Philips Walita que temos.",
+          "O manual impresso é completo, segundo o Bruno, embora tenha alguns erros de português."
+        ]
+      },
+      {
+        "heading": "Antes do primeiro uso",
+        "paragraphs": [
+          "O manual orienta lavar os acessórios e fazer um ciclo de 15 minutos com o aparelho vazio, na função de fritar a ar. Ele avisa que pode haver um pouco de cheiro e fumaça nesse primeiro ciclo. Na nossa unidade, houve cheiro.",
+          "Faça essa preparação conforme o manual que acompanha o seu aparelho, em local ventilado, antes de cozinhar."
+        ]
+      },
+      {
+        "heading": "Batata frita congelada",
+        "paragraphs": [
+          "Colocamos 400 g de batata congelada no cesto giratório, no programa de batata, a 200 °C. O programa indicava 30 minutos, mas paramos aos 15 porque a batata já estava pronta. Esse resultado é do nosso preparo, com essa quantidade; não significa que toda carga ficará pronta no mesmo tempo.",
+          "Para o Bruno, foi a melhor batata que ele já provou feita em air fryer e a que mais se aproximou da frita em óleo quente. É a impressão dele sobre aquele preparo.",
+          "A Cecília já usou a Wap Prosdócimo, a Itatiaia de 12 litros e a iChef da Polishop, entre outras. Essa é a experiência dela com a categoria; aqui, a opinião sobre a batata é do Bruno."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/haier/air-fryer-haier-12l-cesto-batata.webp",
+            "alt": "Mãos segurando o cesto giratório de tela com batata congelada, prestes a encaixá-lo na air fryer forno Haier",
+            "caption": "O cesto giratório com a batata congelada, antes de entrar no forno.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Espetinhos no suporte giratório",
+        "paragraphs": [
+          "Fizemos espetinhos de batata com cebola e de camarão com queijo e alho, com azeite borrifado, a 180 °C. Os de batata e cebola entraram primeiro, por 10 minutos. Depois acrescentamos os de camarão e deixamos tudo girar por mais 10.",
+          "A montagem foi a parte que pediu prática: encaixar os espetos no suporte e depois colocar o conjunto dentro do forno. É um ponto para observar antes do primeiro preparo, principalmente na hora de retirar os acessórios quentes com o utensílio que acompanha o aparelho."
+        ],
+        "video": {
+          "mp4": "/videos/reviews/haier/air-fryer-haier-12l-espetinhos-girando.mp4",
+          "webm": "/videos/reviews/haier/air-fryer-haier-12l-espetinhos-girando.webm",
+          "poster": "/images/reviews/haier/air-fryer-haier-12l-espetinhos-girando-poster.webp",
+          "alt": "Espetinhos de camarão com queijo e de batata girando dentro da air fryer forno Haier, vistos pela janela da frente",
+          "aspect": "square"
+        },
+        "images": [
+          {
+            "src": "/images/reviews/haier/air-fryer-haier-12l-espetos-encaixe.webp",
+            "alt": "Mão encaixando no forno aberto o suporte com espetinhos de batata e cebola",
+            "caption": "O suporte com os espetos de batata e cebola entrando no forno.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "O que pede cuidado",
+        "bullets": [
+          "**Saída de ar quente.** O Bruno percebeu calor saindo pelos lados, além da parte de trás. Na avaliação dele, vale ficar atento também à gordura que pode alcançar o entorno. Não conte só com o tamanho do corpo do aparelho para escolher onde ele vai ficar.",
+          "**Folga na bancada.** O manual pede pelo menos 10 cm livres atrás e dos lados, sem objetos em cima durante o uso. Essa folga precisa entrar na medida do espaço disponível.",
+          "**Montagem dos acessórios.** Os suportes de espetinhos e de frango pedem familiaridade. Vale conhecer os encaixes antes de colocá-los em uso.",
+          "**Limpeza das peças.** Há cesto, suportes e bandejas para lavar. Segundo o manual, o cesto e as bandejas podem ir à lava-louças; o revestimento antiaderente pede utensílios e esponja que não o risquem."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/haier/air-fryer-haier-12l-lateral.webp",
+            "alt": "Lateral da air fryer forno Haier de 12 litros, com a grade de ventilação perto da base, em imagem oficial",
+            "caption": "A lateral, com uma das grades de ventilação. Imagem: Haier.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Barulho, tamanho e painel",
+        "paragraphs": [
+          "Para o Bruno, o barulho é leve: entre as air fryers que passaram pela casa, esta ficou entre as mais silenciosas.",
+          "O manual consultado informa 329 × 317 × 397 mm, nas dimensões comprimento, largura e altura. O Bruno achou o aparelho compacto, mas a folga necessária para a saída de ar aumenta o espaço que ele pede na bancada.",
+          "O painel permite ajustar tempo e temperatura e acionar a luz e a rotação. Os programas incluem batata, camarão e frango, entre outros. No nosso preparo de batata, o tempo automático serviu como ponto de partida: acompanhamos o alimento e encerramos o ciclo antes."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/haier/air-fryer-haier-12l-janela-superior.webp",
+            "alt": "Air fryer forno Haier vista de cima, com os espetinhos de camarão e de batata aparecendo pela janela superior e parte do painel de toque",
+            "caption": "A janela de cima, com os espetinhos girando, e a ponta do painel.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Para quem faz sentido",
+        "paragraphs": [
+          "O recurso que mais interessa aqui é o giro. Se você procura um forno que também movimente batatas, espetinhos e frango, os acessórios ampliam as possibilidades de preparo e foram a parte que mais chamou a nossa atenção.",
+          "Antes de escolher, confira o espaço na bancada e se você quer lidar com a montagem e a lavagem dessas peças. Para quem pretende usar só um cesto comum, vale comparar uma air fryer de gaveta com as medidas e o preço do modelo específico, em vez de escolher apenas pelos 12 litros anunciados."
+        ]
+      },
+      {
+        "heading": "Onde comprar e qual versão escolher",
+        "paragraphs": [
+          "O aparelho destas primeiras impressões é o HSAF-EV1201BBR, com rotisserie. A Haier vende quatro versões da air fryer forno de 12 litros: com rotisserie em 127 V (HSAF-EV1201BBR, a nossa) e em 220 V (HSAF-EV1202BBR), e sem rotisserie em 127 V (HSAF-EV1203BBR) e em 220 V (HSAF-EV1204BBR). O nome dos anúncios é quase igual, então confira o código."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Versão",
+            "Voltagem do anúncio",
+            "Giro dos acessórios",
+            "Link"
+          ],
+          "rows": [
+            [
+              "Com rotisserie (a nossa)",
+              "127 V",
+              "Tem a função de giro descrita neste relato",
+              "[Ver a Haier 12 L com rotisserie, 127 V](https://link.amazon/B08irJgVj)"
+            ],
+            [
+              "Com rotisserie",
+              "220 V",
+              "Tem a função de giro descrita neste relato",
+              "[Ver a Haier 12 L com rotisserie, 220 V](https://meli.la/2Pw4iTN)"
+            ],
+            [
+              "Sem rotisserie",
+              "127 V",
+              "Não gira espeto nem cesto",
+              "[Ver a Haier 12 L sem rotisserie, 127 V](https://meli.la/1nC8rj1)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**Atenção:** há dois anúncios de 127 V na tabela, e só o primeiro tem rotisserie. Os preparos com espeto e cesto giratórios deste artigo foram feitos na versão com essa função. O primeiro link leva à Amazon e os outros dois, ao Mercado Livre.",
+          "Compare também vendedor, frete, total e condição de parcelamento. A garantia precisa ser a do anúncio e do modelo escolhidos.",
+          "Os links de compra são de afiliado: se você comprar por eles, podemos receber uma comissão, sem custo extra para você.",
+          "A Haier é um grupo chinês de eletrodomésticos. Para conhecer a operação brasileira e os canais de atendimento, veja [Haier é boa marca?](/reviews/haier-e-boa-marca-de-onde-e)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A air fryer Haier com rotisserie assa frango inteiro? O manual lista um suporte para frango, que ainda não entrou neste relato. Confira o limite de peso e a montagem permitida no manual do seu modelo.",
+          "Quanto tempo leva o espetinho na air fryer? No nosso preparo, a 180 °C, batata e cebola ficaram 20 minutos, e camarão com queijo e alho ficou 10. O tempo depende do alimento, da quantidade e da temperatura; esses números descrevem o preparo relatado acima.",
+          "Air fryer forno precisa de espaço em volta? O manual consultado da Haier pede pelo menos 10 cm livres atrás e dos lados e nada sobre o aparelho durante o uso.",
+          "A air fryer solta cheiro no primeiro uso? A nossa soltou. O manual avisa que pode haver cheiro e um pouco de fumaça no ciclo inicial, que deve ser feito antes do preparo de alimentos.",
+          "Os acessórios podem ir à lava-louças? O manual consultado permite para o cesto e as bandejas. Confira a orientação de cada peça no manual que acompanha a sua unidade."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 982,
+    "slug": "haier-e-boa-marca-de-onde-e",
+    "locale": "pt",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "publishedAt": "15 de novembro de 2026",
+    "publishedAtISO": "2026-11-15",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "editorialNote": "Recebemos o aparelho para teste. Não há contrato, pagamento nem cupom, e a marca não leu este texto antes da publicação.",
+    "title": "Haier é boa marca? De onde é, o que vende no Brasil e como é o atendimento",
+    "seoTitle": "Haier é boa marca? De onde é e o que vende no Brasil",
+    "type": "Guia de Marca",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "description": "De onde é a Haier, quais marcas fazem parte do grupo, o que vende no Brasil, como procurar assistência e o que cinco dias com a air fryer permitem contar.",
+    "metaDescription": "Conheça a Haier, sua chegada oficial ao Brasil, os canais de atendimento e o perfil no Reclame Aqui. Nossa experiência é com a air fryer de 12 L.",
+    "image": "/images/reviews/haier/haier-e-boa-marca-capa.webp",
+    "imageAlt": "Air fryer forno Haier de 12 litros na nossa bancada, com espetinhos de camarão e de batata girando atrás da janela de vidro, em quadro do nosso vídeo, ao lado da pergunta Haier é boa marca?",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você encontrou um modelo que atende ao que procura e confirmou a assistência para ele na sua região.",
+        "Você entendeu as condições de entrega, garantia e devolução do anúncio que pretende comprar."
+      ],
+      "skipIf": [
+        "Você precisa de um histórico de atendimento no Brasil que estes registros ainda não permitem avaliar.",
+        "Você busca uma avaliação nossa de geladeira, TV, lavadora ou ar-condicionado: esses produtos não foram testados aqui."
+      ]
+    },
+    "relatedArticles": [
+      {
+        "slug": "air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes"
+      },
+      {
+        "slug": "airfryer-uma-breve-historia"
+      },
+      {
+        "slug": "10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Haier é um grupo chinês de eletrodomésticos, fundado em 1984, com marcas como GE Appliances e Candy. Sua operação oficial no Brasil começou em maio de 2026 e ainda não tem nota no Reclame Aqui. Nossa experiência se limita a cinco dias com a air fryer de 12 litros, que agradou nesse primeiro contato."
+        ]
+      },
+      {
+        "heading": "De onde é a Haier",
+        "paragraphs": [
+          "A Haier é chinesa e foi fundada em 1984. Na [apresentação institucional do grupo](https://www.haier.com/br/about-haier/corporation-profile/), a empresa informa receita global de US$ 55,9 bilhões e mais de 130 mil funcionários no retrato mais recente que publica.",
+          "Esses números ajudam a entender o porte da empresa. A experiência com um produto e o atendimento disponível no Brasil precisam ser avaliados separadamente."
+        ]
+      },
+      {
+        "heading": "As marcas que fazem parte do grupo",
+        "paragraphs": [
+          "Além da Haier, a página institucional lista GE Appliances, Fisher & Paykel, Candy, Casarte, Leader e AQUA.",
+          "GE Appliances é a marca de eletrodomésticos. O nome na lista não significa que toda empresa ou produto com a sigla GE pertença à Haier."
+        ]
+      },
+      {
+        "heading": "A Haier no Brasil",
+        "paragraphs": [
+          "A Haier oficializou a entrada de sua operação no Brasil em maio de 2026, em um evento em São Paulo, com TVs, geladeiras, lavadoras, lava e seca e ar-condicionado. Casas Bahia e Fast Shop foram os varejistas anunciados na estreia. As informações são das reportagens do [Hardware.com.br](https://www.hardware.com.br/noticias/haier-eletrodomesticos-brasil-geladeiras-tvs-vendas/) e do [Showmetech](https://www.showmetech.com.br/haier-gigante-chinesa-de-eletrodomesticos-chega-ao-brasil/).",
+          "Isso não significa que nenhum produto com o nome Haier existisse antes nas lojas brasileiras: a reportagem do Showmetech já menciona aparelhos de ar-condicionado disponíveis anteriormente.",
+          "A expansão anunciada inclui um centro de distribuição no Espírito Santo e planos para fabricação própria no país. São informações sobre a operação da empresa, não avaliações da qualidade de cada produto. A reportagem do [ES Hoje](https://eshoje.com.br/economia/2026/10/lider-mundial-em-eletrodomesticos-gigante-chinesa-haier-escolhe-o-es-para-expansao-no-brasil/) acompanha essa expansão."
+        ]
+      },
+      {
+        "heading": "O que vende aqui e onde procurar",
+        "paragraphs": [
+          "O site brasileiro apresenta geladeiras, máquinas de lavar, ar-condicionado, TVs, aquecedores de água e eletroportáteis. Entre os eletroportáteis, o catálogo consultado para este texto lista air fryers, aspiradores e cafeteira.",
+          "Casas Bahia e Fast Shop aparecem nas notícias da estreia. A air fryer de 12 litros também tem anúncios na Amazon e no Mercado Livre; para comprar, é importante conferir qual versão está sendo vendida e quem é o vendedor.",
+          "Nosso uso se limita à air fryer. Não testamos geladeiras, TVs, lavadoras ou aparelhos de ar-condicionado da Haier."
+        ]
+      },
+      {
+        "heading": "Atendimento e assistência técnica",
+        "paragraphs": [
+          "O [site brasileiro da Haier](https://www.haier.com/br-pt/service-support/) publica estes canais:"
+        ],
+        "bullets": [
+          "**Telefone:** 0800 700 7001. A home informa atendimento de segunda a sexta, das 8h às 20h, e aos sábados, das 8h às 14h.",
+          "**WhatsApp:** (11) 99364-2416.",
+          "**E-mail:** sac.br@haier.com."
+        ],
+        "postParagraphs": [
+          "Na apresentação da marca ao mercado, um executivo declarou que a Haier já tinha mais de mil pontos de assistência no país, conforme a reportagem do Hardware.com.br. Essa declaração não informa qual posto atende a sua cidade e a categoria que você pretende comprar.",
+          "Antes da compra, pergunte ao SAC qual assistência atende o modelo no seu CEP e como funciona o encaminhamento em caso de defeito. Os canais estão publicados; o atendimento da marca não foi avaliado neste texto."
+        ]
+      },
+      {
+        "heading": "O que o Reclame Aqui mostra",
+        "paragraphs": [
+          "O perfil correto é [Haier Smart Home do Brasil](https://www.reclameaqui.com.br/empresa/haier-smart-home-do-brasil-ltda/). Ele está sem reputação definida. A própria página explica que precisa de pelo menos dez reclamações avaliadas para calcular a reputação; no recorte consultado, havia duas.",
+          "No painel de seis meses, fechado em outubro, foram três reclamações recebidas, todas respondidas, com tempo médio de resposta de 3 dias e 23 horas. Resposta não significa, por si só, solução: o painel não disponibiliza um índice de resolução nesse recorte. Esses registros ainda são poucos para sustentar uma avaliação do atendimento.",
+          "O perfil também aparece como não verificado. Esse é um status da plataforma; não o usamos como conclusão sobre a qualidade dos produtos.",
+          "Há ainda um perfil chamado “Haier Designer | Sergipe”, que não é o da fabricante tratada neste artigo. Confira o nome antes de comparar reclamações."
+        ]
+      },
+      {
+        "heading": "A air fryer de 12 litros que usamos",
+        "paragraphs": [
+          "Nossa experiência foi com a Haier HSAF-EV1201BBR, com espeto e cesto giratórios, durante cinco dias. Fizemos batata congelada e espetinhos.",
+          "A batata foi o destaque para o Bruno: ele a considerou a que mais se aproximou da frita em óleo quente entre as que já provou feitas em air fryer. Os espetinhos giram no suporte, mas o encaixe pede prática. A saída de ar quente pelos lados também precisa ser considerada ao escolher o lugar na bancada.",
+          "O relato completo, com o preparo de batata e o uso dos acessórios, está em [primeiras impressões da Haier de 12 litros com espeto giratório](/reviews/air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes).",
+          "Há três opções de anúncio, com funções e voltagens diferentes. As duas com rotisserie, em 127 V e em 220 V, têm o giro dos acessórios descrito nas nossas primeiras impressões. A sem rotisserie, em 127 V, é a alternativa para quem dispensa o giro de espeto e cesto e não corresponde à função demonstrada no relato."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/haier/air-fryer-haier-12l-cecilia-bancada.webp",
+            "alt": "Cecília na bancada da cozinha ao lado da air fryer forno Haier de 12 litros, com os espetinhos prontos atrás da janela da frente",
+            "caption": "A air fryer forno de 12 litros na nossa bancada.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ],
+        "links": [
+          {
+            "label": "Haier 12 L com rotisserie, 127 V",
+            "href": "https://link.amazon/B08irJgVj",
+            "sponsored": true
+          },
+          {
+            "label": "Haier 12 L com rotisserie, 220 V",
+            "href": "https://meli.la/2Pw4iTN",
+            "sponsored": true
+          },
+          {
+            "label": "Haier 12 L sem rotisserie, 127 V",
+            "href": "https://meli.la/1nC8rj1",
+            "sponsored": true
+          }
+        ],
+        "postParagraphs": [
+          "Os links de compra são de afiliado: se você comprar por eles, podemos receber uma comissão, sem custo extra para você."
+        ]
+      },
+      {
+        "heading": "Então, a Haier é boa marca?",
+        "paragraphs": [
+          "A Haier tem uma trajetória internacional longa. A air fryer agradou no primeiro contato da nossa casa, com ressalvas de montagem e espaço, mas isso não permite avaliar uma geladeira, uma TV ou a durabilidade dos aparelhos.",
+          "Para decidir sobre outro produto, procure informações daquele modelo e confirme a assistência disponível para ele. Nossa indicação, por enquanto, fica restrita às primeiras impressões da air fryer descritas no artigo; não é uma recomendação de todo o catálogo."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Haier é de qual país? A Haier é chinesa. O grupo informa que foi fundado em 1984.",
+          "A Haier é dona da GE? A marca de eletrodomésticos GE Appliances faz parte do grupo Haier. Essa informação não abrange toda empresa ou produto que use a sigla GE.",
+          "Onde comprar produtos da Haier no Brasil? Casas Bahia e Fast Shop foram anunciadas na estreia. Há também anúncios da air fryer na Amazon e no Mercado Livre; confira modelo, voltagem e vendedor.",
+          "A Haier tem assistência técnica no Brasil? A empresa declarou ter mais de mil pontos. Para saber qual atende o seu produto e CEP, consulte os canais oficiais listados acima.",
+          "A Haier tem nota no Reclame Aqui? O perfil consultado está sem reputação definida porque ainda não atingiu o mínimo de reclamações avaliadas exigido pela plataforma."
+        ]
+      }
+    ]
   }
 ];
