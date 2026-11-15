@@ -60,6 +60,15 @@
       "heading": "在哪里输入代码",
       "paragraphs": [
         "选好套餐和周期，进入购物车。在订单摘要中点击 “Have a coupon code?”，粘贴 **SONAR20** 并应用。20% 的折扣会在付款前显示在首个周期的总价中。代码也列在[本站的 Hostinger 页面](/zh-hans/coupons/hostinger)。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom-en.webp",
+          "alt": "Hostinger 购物车中的订单摘要，显示 Coupon applied 一行和 SONAR20 标签",
+          "caption": "已应用 SONAR20 的订单摘要。",
+          "objectFit": "contain",
+          "aspectRatio": 0.6737
+        }
       ]
     },
     {

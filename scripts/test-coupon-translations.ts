@@ -12,6 +12,7 @@ import {
   type TranslatedLocale,
 } from '../src/lib/couponTranslations';
 import mediaMap from '../src/lib/generated/media-delivery-map.json';
+import { publishedReviews } from '../src/lib/data';
 import { LOCALE_KEYS } from '../src/lib/i18n/locales';
 import { getCouponStorePath, getTranslatedCouponSlugs } from '../src/lib/couponTranslations';
 import { getCouponCardLabels, getCouponHubAlternates, getCouponHubEntries, getCouponHubItemName } from '../src/lib/couponHub';
@@ -119,7 +120,7 @@ for (const locale of TRANSLATED_LOCALES) {
   }
 }
 
-// O print fora do PT é o do site em inglês, já no mapa de entrega, sem artigo (o passo a passo é em português), com o
+// O print fora do PT é o do site em inglês, já no mapa de entrega, com o
 // alt do idioma. A linha de "O que acumula" repete a resposta do PT para o mesmo benefício, sem data nem "R$".
 for (const { slug, locale } of routes) {
   const localized = getLocalizedCoupon(slug, locale)!;
@@ -129,7 +130,14 @@ for (const { slug, locale } of routes) {
     const where = `${slug}/${locale}: print`;
     assert.ok(/-en\.webp$/.test(print.src) && print.src !== pt.cartPrint?.src, `${where}: é o do PT`);
     assert.ok(print.src in mediaMap || existsSync(`public${print.src}`), `${where}: ${print.src} fora do mapa de entrega e de public/`);
-    assert.equal(print.article, undefined, `${where}: link para artigo em português`);
+    // O link do passo a passo, quando existe, vai a um artigo da mesma loja no idioma da página.
+    if (print.article) {
+      const article = publishedReviews.find((review) => review.slug === print.article);
+      assert.ok(article && article.locale === locale && [article.affiliate].flat().includes(slug), `${where}: ${print.article} não é artigo da loja neste idioma`);
+      // Quando o print é uma imagem do artigo, o alt é o do artigo.
+      const inArticle = (article.contentSections ?? []).flatMap((section) => section.images ?? []).find((image) => image.src === print.src);
+      if (inArticle) assert.equal(print.alt, inArticle.alt, `${where}: o alt é diferente do alt do artigo`);
+    }
     assert.ok(print.alt.trim().length >= 10, `${where}: alt curto demais`);
     assert.equal(Boolean(print.caption), localized.offerMode === 'affiliate-link', `${where}: legenda própria só em loja de link, e nela sempre`);
     assert.doesNotMatch(print.caption ?? '', /\d{1,2}\/\d{1,2}|R\$|US\$|\d\s?%/, `${where}: legenda com data ou valor`);

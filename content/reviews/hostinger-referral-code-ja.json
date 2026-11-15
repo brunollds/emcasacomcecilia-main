@@ -59,6 +59,15 @@
       "heading": "コードを入れる場所",
       "paragraphs": [
         "プランと期間を選んで、カートに進みます。注文の概要で「Have a coupon code?」をクリックし、**SONAR20** を貼り付けて適用してください。20%割引は、支払う前に最初の期間の合計に表示されます。コードは[このサイトのHostingerページ](/ja/coupons/hostinger)にもあります。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom-en.webp",
+          "alt": "HostingerのカートにあるCoupon applied行とSONAR20のラベルが表示された注文概要",
+          "caption": "SONAR20を適用した注文概要。",
+          "objectFit": "contain",
+          "aspectRatio": 0.6737
+        }
       ]
     },
     {

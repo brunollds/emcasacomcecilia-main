@@ -60,6 +60,15 @@
       "heading": "Where to paste the code",
       "paragraphs": [
         "Choose the plan and the period and go to the cart. In the order summary, click “Have a coupon code?”, paste **SONAR20** and apply it. The 20% discount shows up in the first-period total before you pay. The code is also on the [Hostinger page here on the site](/en/coupons/hostinger)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom-en.webp",
+          "alt": "Order summary in the Hostinger cart with the Coupon applied line and the SONAR20 tag",
+          "caption": "The order summary with SONAR20 applied.",
+          "objectFit": "contain",
+          "aspectRatio": 0.6737
+        }
       ]
     },
     {
