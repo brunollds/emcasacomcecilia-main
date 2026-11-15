@@ -116,10 +116,8 @@ interrompe o funcionamento; garantia de 12 meses com troca do produto inteiro em
 
 - **Código do modelo:** o site da Haier lista HSAF-EV1201BBR; o do Bruno é HSAF-EV1203BBR. Conferir na etiqueta ou no
   manual e usar o do aparelho.
-- **Qual anúncio da Amazon é o do link:** há um de 12 L "com função rotisserie" (R$ 611,70 em 127 V) e outro sem a
-  palavra no título (R$ 579,00). O link tem de ir ao modelo com o espeto giratório, na voltagem certa.
-- **Lista oficial de acessórios:** foto da página do manual ou da caixa. A página de manuais da Haier não mostrou a
-  air fryer na primeira tela.
+- **Link da Amazon:** o Bruno confirmou em 14/11 que o link `link.amazon/B0hNyveyU` (R$ 579) é o do aparelho.
+- **Lista oficial de acessórios:** lida no manual (seção 8). Falta só conferir com a caixa de vocês, pelas fotos.
 - **Mercado Livre:** vendedor e ficha do anúncio (pede login no navegador do app).
 - **Fotos** da caixa, dos acessórios, do espeto montado e da saída de ar. Até lá, quadros do vídeo.
 - **Galeto:** tempo, temperatura e resultado, já que não foi gravado.
@@ -149,3 +147,61 @@ interrompe o funcionamento; garantia de 12 meses com troca do produto inteiro em
 - **Sede e fundação:** a página oficial lida diz "fundada em 1984" e não cita a cidade. Qingdao só entra com fonte
   lida na semana do texto.
 - **Sem leitura:** garantia por categoria, rede de assistência para eletroportáteis, e se a air fryer é importada.
+
+## 8. Manual oficial (baixado do site da Haier em 14/11/2026)
+
+Fonte: `https://download.haier.com/br/small-appliances/W020260210572300958290.pdf`, o manual da
+HSAF-EV1201BBR (127 V) listado na página de manuais do site brasileiro em inglês (`haier.com/br/service-support/product-guide/`).
+São 14 páginas, **em inglês**; a página de manuais em português não lista as air fryers. O manual impresso que veio na
+caixa é em português (Bruno), então os nomes abaixo são tradução nossa: conferir com o impresso antes de citar.
+
+**O que vem na caixa (packing list, uma unidade de cada):**
+
+| No manual | Em português (tradução nossa) |
+|---|---|
+| Air Fryer | o aparelho |
+| Circular Drum | cesto giratório (tambor) |
+| Roasted Chicken Frame | suporte de frango assado (rotisserie) |
+| Pickup Fork | garfo para retirar os acessórios quentes |
+| Shish Kebab Grill | suporte de espetinhos |
+| Oil Tray | bandeja coletora de gordura |
+| Concave Mesh Baking Tray | bandeja de tela côncava |
+| Flat Mesh Baking Tray | bandeja de tela plana |
+| Instruction Manual | manual |
+
+**Ficha técnica:** 127 V, 60 Hz, 1.800 W, 12 L, 329 × 317 × 397 mm (comprimento × largura × altura).
+
+**Painel:** liga/desliga, menu, iniciar/pausar, luz interna, rotação, mais e menos de temperatura e de tempo.
+Temperatura de 5 em 5 °C, tempo de 1 em 1 minuto.
+
+**Doze programas:** bolo, bife, batata frita, assar, grelhar, fritar a ar, reaquecer, legumes, frutas secas, peixe
+grelhado, camarão grelhado e frango assado. A tabela de tempo e temperatura de cada um está em imagem no PDF e não foi
+extraída: ler no manual impresso.
+
+**Uso:**
+- **Rotação:** com o cesto giratório, o suporte de frango ou o de espetinhos, o botão de rotação liga o giro; o
+  segundo toque para, o terceiro inverte o sentido.
+- **Luz interna:** acende pelo botão e apaga sozinha depois de 30 segundos.
+- **Pré-aquecimento:** sem alimento; somar 3 minutos ao tempo, deixar rodar 3 minutos e só então pôr a comida.
+- **Fim do ciclo:** "OFF" no visor e cinco bipes longos.
+- **Bandeja de gordura:** vai no fundo da cavidade antes de cozinhar.
+
+**Antes do primeiro uso (confirma o que o Bruno contou):** lavar os acessórios e rodar a função fritar a ar por 15
+minutos, vazia; "a slight smell and some smoke may occur", tratado pelo manual como normal no primeiro uso.
+
+**Espaço em volta (confirma a saída de ar):** "Keep a free space of at least 10cm on the back and sides", nada em
+cima do aparelho em uso, e não bloquear as saídas de ar, por onde sai vapor quente.
+
+**Limpeza:** cesto e bandejas podem ir à lava-louças ou ser lavados com água quente, detergente e esponja não
+abrasiva; nada de utensílio de metal no antiaderente; resistência limpa com escova.
+
+**Erros:** E-1 e E-2 são falhas do sensor de temperatura: desligar da tomada e chamar o suporte.
+
+**Garantia:** o manual remete às condições do representante no país. Os 12 meses com troca do produto vêm do anúncio
+da Amazon (seção 5), não do manual.
+
+**Fabricante no manual:** Qingdao Haier Intelligent Household Appliances Co., Ltd., Haier Industrial Park, Laoshan
+District, Qingdao, Shandong, China. Serve de fonte para "a Haier é de Qingdao" na HA1 e indica aparelho importado.
+
+**Código do modelo:** o manual oficial é da HSAF-EV1201BBR; o Bruno informou HSAF-EV1203BBR. Segue pendente a
+etiqueta do aparelho.
