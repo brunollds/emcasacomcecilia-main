@@ -431,3 +431,14 @@ Estado em 15/10, na branch `claude/insider-selecao-outubro`:
 - **Alt:** Modelo adulta com casaco Wingsuit Off White da Insider e calça areia, em foto oficial, ao lado da chamada Seleção da Cecília e do cupom EMCASACOMCECILIA.
 - **Origem:** a do alt; fonte, montagem e assinatura no registro do lote. Sem geração por IA no produto.
 - **Lote 31 do piloto de capas (sequência 10 do Codex, revisão independente do GPT-6.1 Terra):** aprovado visualmente pelo Bruno em 11/11/2026, finais em `docs/auditoria-capas/lote-20261111-31/out/` no checkout principal, no padrão vigente das capas (painel verde à esquerda; não é exceção nova ao Job 6). A capa anterior (`/images/reviews/insider/selecao-insider-capa.webp`) fica no CDN, sem uso como capa.
+
+## Curadoria de Black Friday (15/11/2026)
+
+- **Promessa nova:** "O que comprar na Insider na Black Friday". A seleção de outubro (20 peças) virou régua; ficam 16 peças e entram os kits. Slug, capa e links de creator não mudam.
+- **Fontes da leitura de 15/11:** catálogo público da loja (`/products.json` e `/collections/mais-vendidos/products.json`), a sacola (`/cart`) sem código e com o EMCASACOMCECILIA, a política de troca (`/policies/refund-policy`) e a de frete (`/policies/shipping-policy`).
+- **Sacola:** os 15% entraram nas 20 peças e em 11 kits (Kit 5 Tech T-Shirt masculino, feminino e gola V feminina; Kit 5 Core; Kits 3 e 5 de cueca Comfort e Performance; Kit 3 Hot Pant Safe; Kits 3 e 5 Brief), sem trava. Frete grátis a partir de R$ 399,00 depois do cupom (a sacola mostra "Faltam R$ 60" na Camisa FutureForm a R$ 339,07). Frete simulado na sacola, CEP 01310-100: Logan Express R$ 13 (valor arredondado pela loja).
+- **Saíram:** Maxi Saia NYIN (R$ 369,00, mais cara que em outubro), Short Endorphine (R$ 167,00 só no PP Beetroot), Short Serotonin (R$ 215,00 em poucos tamanhos) e Regata Intech (R$ 119,00 em um ou dois tamanhos por cor).
+- **"Mais vendidos":** só para peças da coleção `/collections/mais-vendidos/` na leitura (Tech T-Shirt, Boxer Comfort, Boxer Performance, Gola V Feminina, Brief, Perfect Top, Wingsuit, Hot Pant Safe, Skin Cropped).
+- **Troca (política lida em 15/11):** arrependimento 7 dias úteis, insatisfação 21 dias corridos, defeito 180 dias; underwear e beachwear só com defeito comprovado.
+- **Conexão:** `black-friday-insider` e `black-friday-insider-feminino` ganharam o link para a seleção no capítulo de preços e nos relacionados.
+- **Reler:** preços e grade na semana de 27/11.
