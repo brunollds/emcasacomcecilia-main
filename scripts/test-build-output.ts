@@ -2993,6 +2993,11 @@ for (const { pagePath, store } of couponStorePages) {
       assert.ok(howTo.includes('data-cart-print'), `${pagePath}: o print do carrinho fora de "Como usar"`);
       if (print.article) assert.ok(howTo.includes(`href="/reviews/${print.article}"`), `${pagePath}: o print sem o link do passo a passo`);
       assert.ok(decodeHtml(howTo).includes(print.alt), `${pagePath}: o print sem o alt`);
+      // Legenda própria (código que não entra no carrinho): sai no lugar da padrão, sem cupom, data nem valor.
+      if (print.caption) {
+        assert.ok(textOf(howTo).includes(print.caption), `${pagePath}: o print sem a legenda da loja`);
+        assert.ok(!/cupom|carrinho/i.test(print.caption) && !/\d{1,2}\/\d{1,2}|R\$|\d\s?%/.test(print.caption), `${pagePath}: a legenda do print fala em cupom, carrinho, data ou valor`);
+      }
       // A imagem sai pelo endereço de entrega (CDN), não pelo caminho local: o componente de cliente não resolve sozinho.
       if (resolveMediaUrl(print.src) !== print.src) {
         assert.ok(!howTo.includes(encodeURIComponent(print.src)) && !howTo.includes(`"${print.src}"`), `${pagePath}: o print saiu com o caminho local`);

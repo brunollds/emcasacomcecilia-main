@@ -282,6 +282,9 @@ Ficaram sem dado, por leitura que não fechou. Reler na rodada de 01/12/2026:
   aceita código com login. Falta, com a conta do Bruno: o `CECILIA010` num item em promoção e com YS Points (as duas
   linhas que a tabela ainda não tem) e um print do site. O passo a passo da página ainda chama o campo de "Reward
   Code"; no app ele se chama "Influencer / Rewards Code", e o nome no site fica para o mesmo teste.
+- **SHEIN, busca do 4CW5Y no app:** o print de `/cupons/shein` é o do site no celular, sem login (o mesmo do artigo
+  `codigo-de-indicacao-shein`). Falta o print da busca no aplicativo, que pede a conta do Bruno; quando vier, entra
+  com nome novo de arquivo e o `lastVerified` só avança se a página do código for relida no mesmo dia.
 - **FAQ de Black Friday:** 21 lojas têm, desde 12/11, as perguntas "Tem cupom <Loja> na Black Friday?" e
   "O cupom <Loja> vale na Black Friday?" (Lejour, YesStyle e SHEIN ficaram de fora; a Hostinger tem só a segunda,
   porque pergunta nova no PT pede a mesma nas 9 traduções da loja). São sazonais: na rodada de

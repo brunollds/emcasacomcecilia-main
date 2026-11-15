@@ -96,7 +96,7 @@ interface CouponBase {
   // abre na rede em que foi publicado; o endereço tem de ser https e do domínio da rede (STORE_VIDEO_HOSTS).
   videos?: StoreVideo[];
   // Print do código no carrinho, no fim de "Como usar", só em português. Só entra print que mostra o código e o
-  // percentual de hoje; trocou a oferta, troca ou tira o print.
+  // percentual de hoje; trocou a oferta, troca ou tira o print. Na SHEIN, é o código de indicação na busca.
   cartPrint?: CartPrint;
   monthlyHighlight?: {
     scope: string;
@@ -149,7 +149,8 @@ export type StackingRow = { benefit: StackingBenefit; stacks: 'sim' | 'nao' | 'd
 // O print do código aplicado no carrinho. Pode ser o mesmo de um artigo "como usar o cupom" da loja (`article` é o
 // slug dele, e a página ganha o link do passo a passo) ou um print próprio da página, sem `article`.
 // É demonstração visual: não diz a data do teste nem promete os valores da imagem. `aspectRatio` é largura / altura.
-export type CartPrint = { article?: string; src: string; alt: string; aspectRatio: number };
+// `caption` troca a legenda padrão quando o código não entra no carrinho (o de indicação da SHEIN, que se pesquisa).
+export type CartPrint = { article?: string; src: string; alt: string; aspectRatio: number; caption?: string };
 
 export type StoreVideoPlatform = 'youtube' | 'instagram' | 'tiktok' | 'facebook';
 export type StoreVideo = { platform: StoreVideoPlatform; url: string; title: string };
@@ -1459,6 +1460,13 @@ const STORE_COUPONS: Coupon[] = [
     ],
     linkNote:
       'O link da Cecília já abre a página do 4CW5Y, com promoções e descontos escolhidos pela SHEIN. Os códigos de indicação e de campanha também podem ser pesquisados no app ou no site, e nenhum deles vai no checkout.',
+    cartPrint: {
+      article: 'codigo-de-indicacao-shein',
+      src: '/images/reviews/shein/shein-busca-4cw5y.webp',
+      alt: 'Barra de busca da SHEIN com o código 4CW5Y digitado, que aparece na tela como 4Cw5y',
+      aspectRatio: 1.4722,
+      caption: 'Exemplo do 4CW5Y na busca da SHEIN, que é onde o código de indicação entra. A pesquisa abre uma página de promoções, e o desconto de cada peça é a SHEIN que define.',
+    },
     affiliateAccountId: '6177013015',
     referral: {
       code: '4CW5Y',

@@ -531,7 +531,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                 locale={locale}
                 brand={coupon.brand}
                 print={cartPrint}
-                caption={copy.cartPrint.caption}
+                caption={cartPrint.caption ?? copy.cartPrint.caption}
                 stepsLabel={copy.cartPrint.stepsLabel}
               />
             )}
