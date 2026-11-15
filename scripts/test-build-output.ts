@@ -1720,7 +1720,7 @@ let endProsCons = 0;
 let endFullRelated = 0;
 let endBrunoBoxes = 0;
 // Quem o Bruno assina: todo artigo da Hostinger (a conta do site é dele) e, fora dela, a família do guia de
-// cupons da YesStyle, a Dolce Gusto Genio S Touch, a Mini Me 2.0 (teste dele) e as duas poltronas da Damie.
+// cupons da YesStyle, a Dolce Gusto Genio S Touch, a Mini Me 2.0 (teste dele), as duas poltronas da Damie e os dois artigos da Haier (a opinião da batata é dele).
 // Família nova da Hostinger entra sozinha; artigo que perde a assinatura por engano, ou que ganha uma fora desta
 // regra, para aqui.
 const BRUNO_OUTSIDE_HOSTINGER = new Set([
@@ -1729,6 +1729,8 @@ const BRUNO_OUTSIDE_HOSTINGER = new Set([
   'dolce-gusto-mini-me-2-0-vale-a-pena',
   'poltrona-damie-e-boa',
   'poltronas-reclinaveis-damie-vale-o-investimento',
+  'air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes',
+  'haier-e-boa-marca-de-onde-e',
 ]);
 for (const url of articleUrls) {
   const pagePath = new URL(url).pathname;
