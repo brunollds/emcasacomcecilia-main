@@ -277,6 +277,11 @@ com os fatos do dossiê; campanhas com prazo vão em `content/campanhas/` (`docs
 
 Ficaram sem dado, por leitura que não fechou. Reler na rodada de 01/12/2026:
 
+- **YesStyle, teste do código no site:** em 14/11/2026, em `yesstyle.com/en` (sem login, entrega nos Estados Unidos, em
+  dólar), a sacola com um item em promoção mostrava a linha "Coupon or Influencer / Rewards Code", mas o campo só
+  aceita código com login. Falta, com a conta do Bruno: o `CECILIA010` num item em promoção e com YS Points (as duas
+  linhas que a tabela ainda não tem) e um print do site. O passo a passo da página ainda chama o campo de "Reward
+  Code"; no app ele se chama "Influencer / Rewards Code", e o nome no site fica para o mesmo teste.
 - **FAQ de Black Friday:** 21 lojas têm, desde 12/11, as perguntas "Tem cupom <Loja> na Black Friday?" e
   "O cupom <Loja> vale na Black Friday?" (Lejour, YesStyle e SHEIN ficaram de fora; a Hostinger tem só a segunda,
   porque pergunta nova no PT pede a mesma nas 9 traduções da loja). São sazonais: na rodada de
@@ -394,6 +399,12 @@ crescente de valor e de desconto. Modelo, com o MIDS26 de outubro de 2026:
 As regras que valem para todos os cupons (quem pode usar, combinação, prazo e frete) não ficam
 no JSON: estão em `policyRules`, nos 10 idiomas de `yesstyleCopy.ts`. Se a política da YesStyle
 mudar, atualize os 10.
+
+A página em português tem ainda a tabela "O que acumula na YesStyle" (`stacking`) e o print do código aplicado
+(`cartPrint`), no PT de `yesstyleCopy.ts`. As quatro linhas da tabela saem dos termos dos cupons da loja (relidos em
+14/11/2026 em `help/section.html/hsi.2865`): o cupom vale junto com preços em promoção, Rewards Codes e YS Points, e
+é um por pedido. Na rodada mensal, reler os termos do cupom em vigor e acertar a tabela se mudarem. O print é o do
+app, de 28/10/2026 (Android, conta em inglês, entrega nos Estados Unidos, em dólar).
 
 O `npm run validate:yesstyle` confere o JSON e roda em todo `npm run build`; o
 `npm run test:yesstyle-data` testa o próprio validador. O validador recusa campo desconhecido,

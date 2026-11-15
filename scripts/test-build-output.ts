@@ -3044,6 +3044,39 @@ for (const { locale, hubPath } of yesStyleHubs) {
   assert.equal(elementsWithClass(list, 'recorte').length, promos, `${hubPath}: os cupons da lista sem o .recorte`);
   yesStyleWithoutPromos ||= promos === 0;
   assertStorePageBanners(hubPath, body, 'yesstyle', 'YesStyle', locale, 'como-funcionam');
+  // A tabela "O que acumula na YesStyle" e o print do código aplicado só existem em português, cada um no lugar
+  // dele, e nenhum dos dois chama o código de recompensa de cupom.
+  {
+    const at = (id: string) => body.indexOf(`aria-labelledby="${id}"`);
+    const rows = resolved.stacking?.rows ?? [];
+    assert.equal(rows.length > 0, locale === 'pt', `${hubPath}: a tabela "O que acumula" é só do português`);
+    assert.equal(at('o-que-acumula') !== -1, rows.length > 0, `${hubPath}: "O que acumula na YesStyle" fora da regra`);
+    assert.equal(body.includes('href="#o-que-acumula"'), rows.length > 0, `${hubPath}: link para "O que acumula" sem a seção, ou a seção sem o link`);
+    if (rows.length > 0) {
+      const table = between(body, 'aria-labelledby="o-que-acumula"', ['</section>']);
+      assert.equal((table.match(/<th role="rowheader"/g) ?? []).length, rows.length, `${hubPath}: linhas de "O que acumula"`);
+      for (const row of rows) {
+        assert.ok(textOf(table).includes(row.label) && textOf(table).includes(row.condition), `${hubPath}: "O que acumula" sem a linha ${row.label}`);
+        assert.ok(!/\{\w+\}/.test(row.label + row.condition), `${hubPath}: marcação sem preencher em "O que acumula"`);
+      }
+      assert.ok(between(body, 'aria-labelledby="como-funcionam"', ['</section>']).includes('href="#o-que-acumula"'), `${hubPath}: as regras sem o link para "O que acumula"`);
+      assert.ok(at('como-funcionam') < at('o-que-acumula') && at('o-que-acumula') < at('como-usar'), `${hubPath}: "O que acumula" fora do lugar`);
+      assert.ok(!new RegExp(`cupom (de recompensa )?${resolved.rewardCode}`, 'i').test(textOf(table)), `${hubPath}: "O que acumula" chama o ${resolved.rewardCode} de cupom`);
+    }
+    const print = resolved.cartPrint;
+    assert.equal(Boolean(print), locale === 'pt', `${hubPath}: o print do código aplicado é só do português`);
+    assert.equal(body.includes('data-cart-print'), Boolean(print), `${hubPath}: print do código aplicado fora da regra`);
+    if (print) {
+      const howTo = between(body, 'aria-labelledby="como-usar"', ['</section>']);
+      assert.ok(howTo.includes('data-cart-print'), `${hubPath}: o print fora de "Como aplicar"`);
+      assert.ok(print.article && howTo.includes(`href="/reviews/${print.article}"`), `${hubPath}: o print sem o link do passo a passo`);
+      assert.ok(decodeHtml(howTo).includes(print.alt) && textOf(howTo).includes(print.caption), `${hubPath}: o print sem o alt ou sem a legenda`);
+      assert.ok(!/cupom/i.test(print.caption + print.alt) && !/\d{1,2}\/\d{1,2}|R\$|US\$/.test(print.caption), `${hubPath}: a legenda do print fala em cupom, data ou valor`);
+      if (resolveMediaUrl(print.src) !== print.src) {
+        assert.ok(!howTo.includes(encodeURIComponent(print.src)) && !howTo.includes(`"${print.src}"`), `${hubPath}: o print saiu com o caminho local`);
+      }
+    }
+  }
   storeCutouts += 1 + promos;
   couponMotionPages++;
 }
