@@ -95620,6 +95620,15 @@ export const reviewsData: unknown[] = [
         "heading": "Onde colar o código",
         "paragraphs": [
           "Escolha o plano e o período e siga para o carrinho. No resumo do pedido, clique em \"Tem um cupom de desconto?\" (no site global, \"Have a coupon code?\"), cole **SONAR20** e aplique. O desconto de 20% aparece no total do primeiro período antes do pagamento. O código também está na [página da Hostinger aqui no site](/cupons/hostinger)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom.webp",
+            "alt": "Resumo do pedido no carrinho da Hostinger com a linha Cupom aplicado e a etiqueta SONAR20",
+            "caption": "O resumo do pedido com o SONAR20 aplicado.",
+            "objectFit": "contain",
+            "aspectRatio": 1.096
+          }
         ]
       },
       {
@@ -95805,6 +95814,15 @@ export const reviewsData: unknown[] = [
         "heading": "Where to paste the code",
         "paragraphs": [
           "Choose the plan and the period and go to the cart. In the order summary, click “Have a coupon code?”, paste **SONAR20** and apply it. The 20% discount shows up in the first-period total before you pay. The code is also on the [Hostinger page here on the site](/en/coupons/hostinger)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom-en.webp",
+            "alt": "Order summary in the Hostinger cart with the Coupon applied line and the SONAR20 tag",
+            "caption": "The order summary with SONAR20 applied.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6737
+          }
         ]
       },
       {
@@ -95932,6 +95950,15 @@ export const reviewsData: unknown[] = [
         "heading": "Dónde pegar el código",
         "paragraphs": [
           "Elige el plan y el período y pasa al carrito. En el resumen del pedido, haz clic en «Have a coupon code?», pega **SONAR20** y aplícalo. El descuento del 20% aparece en el total del primer período antes de pagar. El código también está en la [página de Hostinger aquí en el sitio](/es/coupons/hostinger)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom-en.webp",
+            "alt": "Resumen del pedido en el carrito de Hostinger con la línea Coupon applied y la etiqueta SONAR20",
+            "caption": "El resumen del pedido con SONAR20 aplicado.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6737
+          }
         ]
       },
       {
@@ -96059,6 +96086,15 @@ export const reviewsData: unknown[] = [
         "heading": "Où coller le code",
         "paragraphs": [
           "Choisissez le forfait et la période, puis allez au panier. Dans le récapitulatif de la commande, cliquez sur « Have a coupon code? », collez **SONAR20** et appliquez-le. La réduction de 20 % apparaît dans le total de la première période avant le paiement. Le code figure aussi sur la [page Hostinger de ce site](/fr/coupons/hostinger)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom-en.webp",
+            "alt": "Récapitulatif de commande dans le panier Hostinger avec la ligne Coupon applied et l’étiquette SONAR20",
+            "caption": "Le récapitulatif de la commande avec SONAR20 appliqué.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6737
+          }
         ]
       },
       {
@@ -96186,6 +96222,15 @@ export const reviewsData: unknown[] = [
         "heading": "Wo der Code hingehört",
         "paragraphs": [
           "Wählen Sie Tarif und Laufzeit und gehen Sie zum Warenkorb. Klicken Sie in der Bestellübersicht auf „Have a coupon code?“, fügen Sie **SONAR20** ein und wenden Sie ihn an. Der Rabatt von 20 % erscheint vor der Zahlung in der Summe des ersten Zeitraums. Den Code finden Sie auch auf der [Hostinger-Seite hier auf der Website](/de/coupons/hostinger)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom-en.webp",
+            "alt": "Bestellübersicht im Hostinger-Warenkorb mit der Zeile Coupon applied und dem Etikett SONAR20",
+            "caption": "Die Bestellübersicht mit angewendetem SONAR20.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6737
+          }
         ]
       },
       {
@@ -96313,6 +96358,15 @@ export const reviewsData: unknown[] = [
         "heading": "Dove incollare il codice",
         "paragraphs": [
           "Scegli il piano e il periodo e vai al carrello. Nel riepilogo dell'ordine, clicca su «Have a coupon code?», incolla **SONAR20** e applica. Lo sconto del 20% compare nel totale del primo periodo prima del pagamento. Il codice è anche nella [pagina Hostinger qui sul sito](/it/coupons/hostinger)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom-en.webp",
+            "alt": "Riepilogo dell’ordine nel carrello Hostinger con la riga Coupon applied e l’etichetta SONAR20",
+            "caption": "Il riepilogo dell’ordine con SONAR20 applicato.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6737
+          }
         ]
       },
       {
@@ -96440,6 +96494,15 @@ export const reviewsData: unknown[] = [
         "heading": "코드를 넣을 곳",
         "paragraphs": [
           "플랜과 기간을 고르고 장바구니로 넘어갑니다. 주문 요약에서 “Have a coupon code?”를 누르고 **SONAR20**을 붙여넣어 적용하세요. 20% 할인은 결제 전에 첫 기간 총액에 나타납니다. 코드는 [이 사이트의 Hostinger 페이지](/ko/coupons/hostinger)에도 있습니다."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom-en.webp",
+            "alt": "Hostinger 장바구니의 주문 요약. Coupon applied 줄과 SONAR20 라벨이 보입니다",
+            "caption": "SONAR20이 적용된 주문 요약.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6737
+          }
         ]
       },
       {
@@ -96566,6 +96629,15 @@ export const reviewsData: unknown[] = [
         "heading": "コードを入れる場所",
         "paragraphs": [
           "プランと期間を選んで、カートに進みます。注文の概要で「Have a coupon code?」をクリックし、**SONAR20** を貼り付けて適用してください。20%割引は、支払う前に最初の期間の合計に表示されます。コードは[このサイトのHostingerページ](/ja/coupons/hostinger)にもあります。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom-en.webp",
+            "alt": "HostingerのカートにあるCoupon applied行とSONAR20のラベルが表示された注文概要",
+            "caption": "SONAR20を適用した注文概要。",
+            "objectFit": "contain",
+            "aspectRatio": 0.6737
+          }
         ]
       },
       {
@@ -96694,6 +96766,15 @@ export const reviewsData: unknown[] = [
         "heading": "在哪裡輸入優惠碼",
         "paragraphs": [
           "選好方案和期間，進入購物車。在訂單摘要中點擊「Have a coupon code?」，貼上 **SONAR20** 並套用。20% 折扣會出現在首期總價上，付款前就能看到。優惠碼也列在[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom-en.webp",
+            "alt": "Hostinger 購物車中的訂單摘要，顯示 Coupon applied 一行和 SONAR20 標籤",
+            "caption": "已套用 SONAR20 的訂單摘要。",
+            "objectFit": "contain",
+            "aspectRatio": 0.6737
+          }
         ]
       },
       {
@@ -96821,6 +96902,15 @@ export const reviewsData: unknown[] = [
         "heading": "在哪里输入代码",
         "paragraphs": [
           "选好套餐和周期，进入购物车。在订单摘要中点击 “Have a coupon code?”，粘贴 **SONAR20** 并应用。20% 的折扣会在付款前显示在首个周期的总价中。代码也列在[本站的 Hostinger 页面](/zh-hans/coupons/hostinger)。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom-en.webp",
+            "alt": "Hostinger 购物车中的订单摘要，显示 Coupon applied 一行和 SONAR20 标签",
+            "caption": "已应用 SONAR20 的订单摘要。",
+            "objectFit": "contain",
+            "aspectRatio": 0.6737
+          }
         ]
       },
       {

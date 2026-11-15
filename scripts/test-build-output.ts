@@ -2986,16 +2986,14 @@ for (const { pagePath, store } of couponStorePages) {
       assert.ok(at('nao-funcionou') < at('vantagens') && at('vantagens') < at('sobre'), `${pagePath}: "Vantagens além do cupom" fora do lugar`);
     }
     // O print do carrinho fecha "Como usar", só na loja que tem o print no idioma da página; com `article`, leva o link
-    // do passo a passo. Fora do PT o print é o do site em inglês, sem artigo.
+    // do passo a passo, no idioma da página. Fora do PT o print é o do site em inglês.
     const print = store!.cartPrint;
-    if (!isPortuguese && print) {
-      assert.ok(!print.article && /-en\.webp$/.test(print.src), `${pagePath}: fora do PT o print é o do site em inglês, sem link de artigo`);
-    }
+    if (!isPortuguese && print) assert.ok(/-en\.webp$/.test(print.src), `${pagePath}: fora do PT o print é o do site em inglês`);
     assert.equal(body.includes('data-cart-print'), Boolean(print), `${pagePath}: print do carrinho fora da regra`);
     if (print) {
       const howTo = between(body, 'aria-labelledby="como-usar"', ['</section>']);
       assert.ok(howTo.includes('data-cart-print'), `${pagePath}: o print do carrinho fora de "Como usar"`);
-      if (print.article) assert.ok(howTo.includes(`href="/reviews/${print.article}"`), `${pagePath}: o print sem o link do passo a passo`);
+      if (print.article) assert.ok(howTo.includes(`href="${pagePath.split(/\/(?:cupons|coupons)\//)[0]}/reviews/${print.article}"`), `${pagePath}: o print sem o link do passo a passo do idioma`);
       assert.ok(decodeHtml(howTo).includes(print.alt), `${pagePath}: o print sem o alt`);
       // Legenda própria (código que não entra no carrinho): sai no lugar da padrão, sem cupom, data nem valor.
       if (print.caption) {

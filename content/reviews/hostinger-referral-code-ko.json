@@ -60,6 +60,15 @@
       "heading": "코드를 넣을 곳",
       "paragraphs": [
         "플랜과 기간을 고르고 장바구니로 넘어갑니다. 주문 요약에서 “Have a coupon code?”를 누르고 **SONAR20**을 붙여넣어 적용하세요. 20% 할인은 결제 전에 첫 기간 총액에 나타납니다. 코드는 [이 사이트의 Hostinger 페이지](/ko/coupons/hostinger)에도 있습니다."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom-en.webp",
+          "alt": "Hostinger 장바구니의 주문 요약. Coupon applied 줄과 SONAR20 라벨이 보입니다",
+          "caption": "SONAR20이 적용된 주문 요약.",
+          "objectFit": "contain",
+          "aspectRatio": 0.6737
+        }
       ]
     },
     {

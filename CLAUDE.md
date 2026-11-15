@@ -492,7 +492,8 @@ vídeo, primeiras impressões e uso noturno.
   imagem mostrada pelo `ReviewInlineImage`, com o "Ampliar", como exemplo e sem data de teste) saem em todo idioma
   em que a loja tem o dado. Os rótulos estão nos 10 idiomas de `couponStoreCopy.tsx`. Fora do PT os dois campos
   são `translate` na `CODE_FIELD_POLICY`: a tradução traz só as linhas vistas no site que a página do idioma abre
-  (na Hostinger, o global) e o print desse site em inglês (`-en.webp`), com o alt do idioma e sem link de artigo;
+  (na Hostinger, o global) e o print desse site em inglês (`-en.webp`), com o alt do idioma; o `article` da tradução dá o link do passo a
+  passo no idioma da página (na Hostinger o print é uma imagem desse artigo, com o mesmo alt);
   sem eles, a página do idioma fica sem a tabela e sem o print. O print do PT nunca passa para outro idioma.
 - Duas seções só existem em português (o texto fica só no `pt` de `couponStoreCopy.tsx`): "Por que o cupom não
   funcionou?" (`#nao-funcionou`, depois de "Como testamos o cupom", em toda loja de código, com o canal de aviso

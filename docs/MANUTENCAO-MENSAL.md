@@ -160,7 +160,8 @@ Para cada oferta ativa, reconferir:
   num produto, ou que diverge entre páginas, fica de fora. Reconferir na rodada mensal, com o `shipping`;
 - `cartPrint`: o print do código aplicado no carrinho, no fim de "Como usar". Fora do PT (hoje a SHEIN e a
   Hostinger, em `couponTranslations.ts`), o print é o do site em inglês (arquivo `-en.webp`, um só para os nove
-  idiomas, com o alt de cada um e sem link de artigo), e a tabela "O que acumula" só leva o que foi visto nesse
+  idiomas, com o alt de cada um e o link do artigo no idioma da página: o do código de indicação na SHEIN e o
+  do cupom SONAR20 na Hostinger, que leva o mesmo print na seção "Onde colar o código"), e a tabela "O que acumula" só leva o que foi visto nesse
   site: print ou linha do site brasileiro não passa para outro idioma. É
   demonstração visual (decisão do Bruno, 12/11/2026): não diz data de teste nem promete os valores da
   imagem, e a legenda avisa que os valores mudam. Pode reaproveitar uma imagem do artigo "como usar o

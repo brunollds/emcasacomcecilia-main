@@ -45,7 +45,8 @@ export type AffiliateOfferTranslation = OfferTranslationBase & {
   offerActionLabel: string;
   linkInstructions: string[];
   linkNote: string;
-  // O print do site em inglês, com o alt e a legenda do idioma. Sem ele, a página do idioma fica sem print.
+  // O print do site em inglês, com o alt e a legenda do idioma. Sem ele, a página do idioma fica sem print. O
+  // `article` é o passo a passo no idioma da página.
   cartPrint?: CartPrint;
 };
 
@@ -63,7 +64,8 @@ export type CodeOfferTranslation = OfferTranslationBase & {
   codeInstructions?: string[];
   monthlyHighlight?: CouponCodeOffer['monthlyHighlight'];
   // Só o que foi visto no site que a página do idioma abre: as linhas de "O que acumula" e o print do carrinho
-  // em inglês, com o alt do idioma. Sem eles, a tabela e o print ficam fora da página.
+  // em inglês, com o alt do idioma e o `article` do passo a passo no idioma. Sem eles, a tabela e o print ficam fora
+  // da página.
   stacking?: StackingRow[];
   cartPrint?: CartPrint;
 };
@@ -140,6 +142,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     ],
     cartPrint: {
       ...SHEIN_GLOBAL_PRINT,
+      article: 'shein-referral-code-where-to-enter',
       alt: 'SHEIN website search bar with the code 4CW5Y typed in',
       caption: 'Example of 4CW5Y in the SHEIN search, which is where the referral code goes. The search opens a promotions page, and SHEIN sets the discount on each item.',
     },
@@ -211,6 +214,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     ],
     cartPrint: {
       ...SHEIN_GLOBAL_PRINT,
+      article: 'codigo-de-referido-shein-donde-ponerlo',
       alt: 'Barra de búsqueda del sitio de SHEIN con el código 4CW5Y escrito',
       caption: 'Ejemplo del 4CW5Y en la búsqueda de SHEIN, que es donde entra el código de referido. La búsqueda abre una página de promociones, y el descuento de cada artículo lo define SHEIN.',
     },
@@ -280,6 +284,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     ],
     cartPrint: {
       ...SHEIN_GLOBAL_PRINT,
+      article: 'code-de-parrainage-shein-ou-le-mettre',
       alt: 'Barre de recherche du site SHEIN avec le code 4CW5Y saisi',
       caption: 'Exemple de 4CW5Y dans la recherche SHEIN, là où se saisit le code de parrainage. La recherche ouvre une page de promotions, et c’est SHEIN qui fixe la réduction de chaque article.',
     },
@@ -350,6 +355,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     ],
     cartPrint: {
       ...SHEIN_GLOBAL_PRINT,
+      article: 'shein-empfehlungscode-wo-eingeben',
       alt: 'Suchleiste der SHEIN-Website mit dem eingegebenen Code 4CW5Y',
       caption: 'Beispiel für 4CW5Y in der SHEIN-Suche, wo der Empfehlungscode eingegeben wird. Die Suche öffnet eine Aktionsseite, und den Rabatt auf jeden Artikel legt SHEIN fest.',
     },
@@ -421,6 +427,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     ],
     cartPrint: {
       ...SHEIN_GLOBAL_PRINT,
+      article: 'codice-invito-shein-dove-inserirlo',
       alt: 'Barra di ricerca del sito SHEIN con il codice 4CW5Y digitato',
       caption: 'Esempio di 4CW5Y nella ricerca di SHEIN, che è dove si inserisce il codice invito. La ricerca apre una pagina di promozioni, e lo sconto su ogni articolo lo decide SHEIN.',
     },
@@ -491,6 +498,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     ],
     cartPrint: {
       ...SHEIN_GLOBAL_PRINT,
+      article: 'shein-referral-code-ko',
       alt: '4CW5Y 코드를 입력한 SHEIN 웹사이트 검색창',
       caption: 'SHEIN 검색창에 4CW5Y를 입력한 예시입니다. 추천 코드는 여기에 입력합니다. 검색하면 프로모션 페이지가 열리며, 상품별 할인은 SHEIN이 정합니다.',
     },
@@ -561,6 +569,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     ],
     cartPrint: {
       ...SHEIN_GLOBAL_PRINT,
+      article: 'shein-referral-code-ja',
       alt: 'SHEINサイトの検索バーに4CW5Yを入力したところ',
       caption: 'SHEINの検索での4CW5Yの例です。紹介コードはここに入力します。検索するとプロモーションのページが開き、各商品の割引はSHEINが決めます。',
     },
@@ -628,6 +637,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     ],
     cartPrint: {
       ...SHEIN_GLOBAL_PRINT,
+      article: 'shein-referral-code-zh-hant',
       alt: 'SHEIN 網站搜尋列中輸入了代碼 4CW5Y',
       caption: '4CW5Y 在 SHEIN 搜尋中的範例，推薦碼就是在這裡輸入。搜尋後會開啟促銷頁面，每件商品的折扣由 SHEIN 決定。',
     },
@@ -694,6 +704,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     ],
     cartPrint: {
       ...SHEIN_GLOBAL_PRINT,
+      article: 'shein-referral-code-zh-hans',
       alt: 'SHEIN 网站搜索栏中输入了代码 4CW5Y',
       caption: '4CW5Y 在 SHEIN 搜索中的示例，推荐码就是在这里输入。搜索后会打开促销页面，每件商品的折扣由 SHEIN 决定。',
     },
@@ -784,7 +795,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       },
     ],
     stacking: [{ benefit: 'promocoes', stacks: 'sim', condition: 'The 20% applies on top of the promotional price Hostinger already shows in the cart' }],
-    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, alt: 'Order summary in the Hostinger cart with the Coupon applied line and the SONAR20 tag' },
+    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, article: 'hostinger-coupon-code-referral', alt: 'Order summary in the Hostinger cart with the Coupon applied line and the SONAR20 tag' },
     testedAt: '2026-11-14',
     testNote:
       'We applied SONAR20 in the "Have a coupon code?" field of Hostinger\'s cart with the Startup plan, which the referral link does not cover. On the 48-month term, the total went from $383.52 to $306.82, $76.70 less: 20% on top of the Black Friday price Hostinger was already showing.',
@@ -876,7 +887,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       },
     ],
     stacking: [{ benefit: 'promocoes', stacks: 'sim', condition: 'El 20% se aplica sobre el precio promocional que Hostinger ya muestra en el carrito' }],
-    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, alt: 'Resumen del pedido en el carrito de Hostinger con la línea Coupon applied y la etiqueta SONAR20' },
+    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, article: 'cupon-hostinger-codigo-de-referido', alt: 'Resumen del pedido en el carrito de Hostinger con la línea Coupon applied y la etiqueta SONAR20' },
     testedAt: '2026-11-14',
     testNote:
       'Aplicamos SONAR20 en el campo "Have a coupon code?" del carrito de Hostinger con el plan Startup, que el enlace de referido no cubre. En el período de 48 meses, el total pasó de $383.52 a $306.82, $76.70 menos: el 20% sobre el precio de Black Friday que Hostinger ya mostraba.',
@@ -955,7 +966,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       },
     ],
     stacking: [{ benefit: 'promocoes', stacks: 'sim', condition: 'Les 20 % s’appliquent sur le prix promotionnel que Hostinger affiche déjà dans le panier' }],
-    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, alt: 'Récapitulatif de commande dans le panier Hostinger avec la ligne Coupon applied et l’étiquette SONAR20' },
+    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, article: 'code-promo-hostinger-parrainage', alt: 'Récapitulatif de commande dans le panier Hostinger avec la ligne Coupon applied et l’étiquette SONAR20' },
     testedAt: '2026-11-14',
     testNote: `Nous avons appliqué SONAR20 dans le champ "Have a coupon code${NBSP}?" du panier de Hostinger, avec l’offre Startup, que le lien de parrainage ne couvre pas. Sur la période de 48 mois, le total est passé de $383.52 à $306.82, soit $76.70 de moins${NBSP}: 20${NBSP}% sur le prix Black Friday que Hostinger affichait déjà.`,
     codeFieldLabel: 'Have a coupon code?',
@@ -1033,7 +1044,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       },
     ],
     stacking: [{ benefit: 'promocoes', stacks: 'sim', condition: 'Die 20 % gelten auf den Aktionspreis, den Hostinger bereits im Warenkorb anzeigt' }],
-    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, alt: 'Bestellübersicht im Hostinger-Warenkorb mit der Zeile Coupon applied und dem Etikett SONAR20' },
+    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, article: 'hostinger-gutschein-empfehlungscode', alt: 'Bestellübersicht im Hostinger-Warenkorb mit der Zeile Coupon applied und dem Etikett SONAR20' },
     testedAt: '2026-11-14',
     testNote: `Wir haben SONAR20 im Feld „Have a coupon code?“ im Warenkorb von Hostinger mit dem Tarif Startup angewendet, den der Empfehlungslink nicht abdeckt. Bei 48 Monaten Laufzeit sank die Summe von $383.52 auf $306.82, also $76.70 weniger: 20${NBSP}% auf den Black-Friday-Preis, den Hostinger schon anzeigte.`,
     codeFieldLabel: 'Have a coupon code?',
@@ -1124,7 +1135,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       },
     ],
     stacking: [{ benefit: 'promocoes', stacks: 'sim', condition: 'Il 20% si applica sul prezzo promozionale che Hostinger mostra già nel carrello' }],
-    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, alt: 'Riepilogo dell’ordine nel carrello Hostinger con la riga Coupon applied e l’etichetta SONAR20' },
+    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, article: 'coupon-hostinger-codice-invito', alt: 'Riepilogo dell’ordine nel carrello Hostinger con la riga Coupon applied e l’etichetta SONAR20' },
     testedAt: '2026-11-14',
     testNote:
       'Abbiamo applicato SONAR20 nel campo "Have a coupon code?" del carrello di Hostinger con il piano Startup, che il link di referral non copre. Con la durata di 48 mesi il totale è passato da $383.52 a $306.82, $76.70 in meno: il 20% sul prezzo Black Friday che Hostinger mostrava già.',
@@ -1216,7 +1227,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       },
     ],
     stacking: [{ benefit: 'promocoes', stacks: 'sim', condition: 'Hostinger가 장바구니에 이미 보여 주는 프로모션 가격에 20%가 적용됩니다' }],
-    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, alt: 'Hostinger 장바구니의 주문 요약. Coupon applied 줄과 SONAR20 라벨이 보입니다' },
+    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, article: 'hostinger-referral-code-ko', alt: 'Hostinger 장바구니의 주문 요약. Coupon applied 줄과 SONAR20 라벨이 보입니다' },
     testedAt: '2026-11-14',
     testNote:
       '장바구니에서 Hostinger의 Startup 요금제에 SONAR20을 "Have a coupon code?" 입력란에 적용했습니다. 추천 링크로는 적용되지 않는 요금제입니다. 48개월 기간에서 총액은 $383.52에서 $306.82로, $76.70 줄었습니다. Hostinger가 이미 보여 주던 블랙 프라이데이 가격에 20%가 추가로 적용된 금액입니다.',
@@ -1308,7 +1319,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       },
     ],
     stacking: [{ benefit: 'promocoes', stacks: 'sim', condition: 'Hostingerがカートにすでに表示しているプロモーション価格に、20%が適用されます' }],
-    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, alt: 'HostingerのカートにあるCoupon applied行とSONAR20のラベルが表示された注文概要' },
+    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, article: 'hostinger-referral-code-ja', alt: 'HostingerのカートにあるCoupon applied行とSONAR20のラベルが表示された注文概要' },
     testedAt: '2026-11-14',
     testNote:
       '「Have a coupon code?」欄にSONAR20を入力し、Hostingerのカートで Startup プランに適用しました。このプランは紹介リンクの対象外です。48か月の期間で合計は$383.52から$306.82になり、$76.70安くなりました。Hostingerがすでに表示していたブラックフライデー価格からさらに20%割り引かれています。',
@@ -1400,7 +1411,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       },
     ],
     stacking: [{ benefit: 'promocoes', stacks: 'sim', condition: '20% 折扣會套用在 Hostinger 購物車已顯示的促銷價上' }],
-    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, alt: 'Hostinger 購物車中的訂單摘要，顯示 Coupon applied 一行和 SONAR20 標籤' },
+    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, article: 'hostinger-referral-code-zh-hant', alt: 'Hostinger 購物車中的訂單摘要，顯示 Coupon applied 一行和 SONAR20 標籤' },
     testedAt: '2026-11-14',
     testNote:
       '我們在 Hostinger 購物車的「Have a coupon code?」欄位套用 SONAR20，方案為 Startup，推薦連結並不涵蓋此方案。48 個月期的總額從 $383.52 降到 $306.82，少了 $76.70：也就是在 Hostinger 已顯示的黑色星期五價格上再打 20%。',
@@ -1492,7 +1503,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       },
     ],
     stacking: [{ benefit: 'promocoes', stacks: 'sim', condition: '20% 折扣会应用在 Hostinger 购物车已显示的促销价上' }],
-    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, alt: 'Hostinger 购物车中的订单摘要，显示 Coupon applied 一行和 SONAR20 标签' },
+    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, article: 'hostinger-referral-code-zh-hans', alt: 'Hostinger 购物车中的订单摘要，显示 Coupon applied 一行和 SONAR20 标签' },
     testedAt: '2026-11-14',
     testNote:
       '我们在 Hostinger 购物车的「Have a coupon code?」栏应用了 SONAR20，套餐为 Startup，推荐链接并不涵盖该套餐。48 个月期的总额从 $383.52 降到 $306.82，少了 $76.70：也就是在 Hostinger 已显示的黑色星期五价格上再打 20%。',
