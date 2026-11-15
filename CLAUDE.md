@@ -530,7 +530,8 @@ vídeo, primeiras impressões e uso noturno.
   print do código aplicado (`CartPrintFigure`) são os mesmos nas duas, de `src/components/coupons/StoreEvidence.tsx`,
   só em português. Na YesStyle, as linhas e o print vêm do `stacking` e do `cartPrint` do PT de `yesstyleCopy.ts`:
   linha nova só com fonte (os termos dos cupons da loja ou um teste nosso), e a legenda do print diz que é o código
-  de recompensa, sem data nem valor.
+  de recompensa, sem data nem valor. Loja de link não tem código no carrinho: o `cartPrint` dela leva `caption` própria (a SHEIN,
+  com o 4CW5Y na busca), e o `test:coupon-offer-modes` cobra.
 - O recorte do topo (`StoreCutout`) recebe `copyable`. Com botão de copiar, ele é um `.recorte`: fica verde e
   se solta ao copiar, e a tesoura dele corre pela linha. Sem botão (faixas ou só link), a tesoura fica parada.
   A caixa de indicação, os cupons da lista da YesStyle e as caixas de código dos "Outros cupons" também são

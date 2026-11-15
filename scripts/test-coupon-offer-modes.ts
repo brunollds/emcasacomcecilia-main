@@ -426,6 +426,8 @@ for (const coupon of COUPONS) {
   assert.ok(print.src in mediaMap || existsSync(`public${print.src}`), `${where}: ${print.src} fora do mapa de entrega e de public/`);
   assert.ok(print.aspectRatio > 0.2 && print.aspectRatio < 5, `${where}: aspectRatio fora do esperado`);
   assert.ok(print.alt.trim().length >= 20, `${where}: alt curto demais`);
+  // Loja de link não tem código no carrinho: o print dela leva legenda própria. Hoje é só a SHEIN, com o código de indicação.
+  assert.equal(Boolean(print.caption), coupon.offerMode === 'affiliate-link', `${where}: legenda própria só em loja de link, e nela sempre`);
   if (!print.article) continue;
   const articlePath = `content/reviews/${print.article}.json`;
   assert.ok(existsSync(articlePath), `${where}: o artigo ${print.article} não existe`);

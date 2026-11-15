@@ -1572,7 +1572,8 @@ export function localizeCoupon(coupon: Coupon, translation: CouponTranslation, l
   };
 
   if (coupon.offerMode === 'affiliate-link' && translation.offerMode === 'affiliate-link') {
-    return { ...coupon, ...translation.locales[locale], ...shared, monthlyHighlight: undefined };
+    // O print e a legenda dele só existem em PT.
+    return { ...coupon, ...translation.locales[locale], ...shared, monthlyHighlight: undefined, cartPrint: undefined };
   }
   if (coupon.offerMode === 'discount-code' && translation.offerMode === 'discount-code') {
     // As faixas trazem valores em R$ e o aviso do Magazine Você, que só existem em PT.
