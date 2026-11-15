@@ -125491,7 +125491,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "DREMCASACOMCECILIA (10%) na Dr. Peanut e CECILIA (10%) na La Ganexa: qual pasta de amendoim escolher pelo rótulo e pelo preço por 100 g.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-capa-v3.webp",
@@ -125502,7 +125502,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sem vencedora. A La Ganexa anuncia zero lactose em três pastas; a Dr. Peanut, preço igual em todos os sabores. Com os códigos, a de 250 g custa menos por 100 g que as sobremesas de 450 g da La Ganexa; no 1 kg, a La Ganexa fica abaixo da Dr. Peanut de 600 g em sete de dez sabores."
+          "Sem vencedora. A La Ganexa anuncia zero lactose em três pastas; a Dr. Peanut, preço igual em todos os sabores. Com os códigos DREMCASACOMCECILIA (10% OFF na Dr. Peanut) e CECILIA (10% OFF na La Ganexa), a Dr. Peanut de 250 g custa menos por 100 g que as sobremesas de 450 g da La Ganexa; no 1 kg, a La Ganexa fica abaixo da Dr. Peanut de 600 g em sete de dez sabores."
         ]
       },
       {
