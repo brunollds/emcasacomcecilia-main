@@ -34,9 +34,6 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
 
   // Botões, trilha e notas de rodapé usam os mesmos textos das outras páginas de loja.
   const ui = COUPON_STORE_COPY[resolved.locale];
-  // A tabela e o print só existem em português: precisam do texto da página e dos rótulos das páginas de loja.
-  const stacking = ui.stacking && resolved.stacking ? { ui: ui.stacking, page: resolved.stacking } : null;
-  const cartPrint = ui.cartPrint && resolved.cartPrint ? { ui: ui.cartPrint, page: resolved.cartPrint } : null;
   const breadcrumbItems = getYesStyleBreadcrumbItems(resolved.locale, resolved.canonicalUrl, resolved.homeLabel, resolved.couponsLabel);
 
   // Schemas JSON-LD B2
@@ -192,42 +189,36 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
                 { icon: Truck, label: ui.rules.shipping, value: resolved.policyRules.shipping },
               ]}
             />
-            {stacking && (
-              <p className={`mt-4 ${BODY_TEXT}`}>
-                <a href={`#${STACKING_SECTION_ID}`} className={INLINE_LINK}>
-                  {stacking.page.rulesPointer}
-                </a>
-                .
-              </p>
-            )}
+            <p className={`mt-4 ${BODY_TEXT}`}>
+              <a href={`#${STACKING_SECTION_ID}`} className={INLINE_LINK}>
+                {resolved.stacking.rulesPointer}
+              </a>
+            </p>
           </section>
 
-          {stacking && (
-            <StackingTable
-              title={stacking.page.title}
-              caption={stacking.page.caption}
-              headers={stacking.ui.headers}
-              rows={stacking.page.rows.map((row) => ({
-                key: row.label,
-                label: row.label,
-                answer: stacking.ui.answers[row.stacks],
-                condition: row.condition,
-              }))}
-            />
-          )}
+          {/* O texto das linhas é da página da YesStyle; os rótulos das colunas e das respostas, das páginas de loja. */}
+          <StackingTable
+            title={resolved.stacking.title}
+            caption={resolved.stacking.caption}
+            headers={ui.stacking.headers}
+            rows={resolved.stacking.rows.map((row) => ({
+              key: row.label,
+              label: row.label,
+              answer: ui.stacking.answers[row.stacks],
+              condition: row.condition,
+            }))}
+          />
 
           <section aria-labelledby="como-usar">
             <SectionHeading id="como-usar">{resolved.instructionsTitle}</SectionHeading>
             <StepList steps={resolved.instructions} note={resolved.note} />
-            {cartPrint && (
-              <CartPrintFigure
-                locale={resolved.locale}
-                brand="YesStyle"
-                print={cartPrint.page}
-                caption={cartPrint.page.caption}
-                stepsLabel={cartPrint.ui.stepsLabel}
-              />
-            )}
+            <CartPrintFigure
+              locale={resolved.locale}
+              brand="YesStyle"
+              print={resolved.cartPrint}
+              caption={resolved.cartPrint.caption}
+              stepsLabel={ui.cartPrint.stepsLabel}
+            />
           </section>
 
           <section aria-labelledby="leia-antes">

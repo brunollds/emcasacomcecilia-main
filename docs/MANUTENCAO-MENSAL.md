@@ -158,7 +158,10 @@ Para cada oferta ativa, reconferir:
   curtas, sem ponto final e sem data. Com ele a página ganha "Vantagens além do cupom", que repete o Pix, o frete
   grátis e a retirada do `stacking`. Só entra o que foi lido na página da loja; número de parcelas que só aparece
   num produto, ou que diverge entre páginas, fica de fora. Reconferir na rodada mensal, com o `shipping`;
-- `cartPrint`: o print do código aplicado no carrinho, no fim de "Como usar", só em português. É
+- `cartPrint`: o print do código aplicado no carrinho, no fim de "Como usar". Fora do PT (hoje a SHEIN e a
+  Hostinger, em `couponTranslations.ts`), o print é o do site em inglês (arquivo `-en.webp`, um só para os nove
+  idiomas, com o alt de cada um e sem link de artigo), e a tabela "O que acumula" só leva o que foi visto nesse
+  site: print ou linha do site brasileiro não passa para outro idioma. É
   demonstração visual (decisão do Bruno, 12/11/2026): não diz data de teste nem promete os valores da
   imagem, e a legenda avisa que os valores mudam. Pode reaproveitar uma imagem do artigo "como usar o
   cupom" da loja (`article`, `src` e o mesmo `alt`; a página ganha o link do passo a passo) ou ser um
@@ -282,6 +285,11 @@ Ficaram sem dado, por leitura que não fechou. Reler na rodada de 01/12/2026:
   aceita código com login. Falta, com a conta do Bruno: o `CECILIA010` num item em promoção e com YS Points (as duas
   linhas que a tabela ainda não tem) e um print do site. O passo a passo da página ainda chama o campo de "Reward
   Code"; no app ele se chama "Influencer / Rewards Code", e o nome no site fica para o mesmo teste.
+- **Prints em inglês (14/11/2026, Chrome, sem login):** o carrinho global da Hostinger (`hostinger.com`, em dólar,
+  plano Startup de 48 meses com o preço de Black Friday: US$ 383,52 → US$ 306,82 com o `SONAR20`, linha "Coupon
+  savings applied" de US$ 76,70) e a busca do `us.shein.com` com o `4CW5Y`, que levou a uma página de seleção ("My
+  Picks for You") com preços em dólar. São os prints das páginas dos nove idiomas. Na Hostinger fora do PT, a
+  tabela só tem a linha das promoções; parcelas e meios de pagamento do site global não foram lidos.
 - **SHEIN, busca do 4CW5Y no app:** o print de `/cupons/shein` é o do site no celular, sem login (o mesmo do artigo
   `codigo-de-indicacao-shein`). Falta o print da busca no aplicativo, que pede a conta do Bruno; quando vier, entra
   com nome novo de arquivo e o `lastVerified` só avança se a página do código for relida no mesmo dia.

@@ -1,9 +1,11 @@
 import {
   getCouponBySlug,
+  type CartPrint,
   type Coupon,
   type CouponCodeOffer,
   type CouponFAQ,
   type CouponReferral,
+  type StackingRow,
 } from './couponsData';
 import { LOCALE_KEYS, type Locale } from './i18n/locales';
 
@@ -43,6 +45,8 @@ export type AffiliateOfferTranslation = OfferTranslationBase & {
   offerActionLabel: string;
   linkInstructions: string[];
   linkNote: string;
+  // O print do site em inglês, com o alt e a legenda do idioma. Sem ele, a página do idioma fica sem print.
+  cartPrint?: CartPrint;
 };
 
 // Loja de código. Sem os campos opcionais, a página usa os textos padrão do idioma
@@ -58,7 +62,16 @@ export type CodeOfferTranslation = OfferTranslationBase & {
   codeFieldLabel?: string;
   codeInstructions?: string[];
   monthlyHighlight?: CouponCodeOffer['monthlyHighlight'];
+  // Só o que foi visto no site que a página do idioma abre: as linhas de "O que acumula" e o print do carrinho
+  // em inglês, com o alt do idioma. Sem eles, a tabela e o print ficam fora da página.
+  stacking?: StackingRow[];
+  cartPrint?: CartPrint;
 };
+
+// Os prints do site em inglês (14/11/2026, sem login): a busca do us.shein.com com o 4CW5Y e o resumo do pedido do
+// carrinho global da Hostinger, em dólar, com o SONAR20. Cada idioma leva o alt e, na SHEIN, a legenda.
+const SHEIN_GLOBAL_PRINT = { src: '/images/reviews/shein/shein-busca-4cw5y-en.webp', aspectRatio: 4.9286 };
+const HOSTINGER_GLOBAL_PRINT = { src: '/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom-en.webp', aspectRatio: 0.6737 };
 
 // Francês e alemão separam o número do % com espaço, que não pode quebrar a linha.
 const NBSP = '\u00a0';
@@ -125,6 +138,11 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       'Check eligibility, products and deadlines directly on SHEIN.',
       'Check the final price before completing your purchase.',
     ],
+    cartPrint: {
+      ...SHEIN_GLOBAL_PRINT,
+      alt: 'SHEIN website search bar with the code 4CW5Y typed in',
+      caption: 'Example of 4CW5Y in the SHEIN search, which is where the referral code goes. The search opens a promotions page, and SHEIN sets the discount on each item.',
+    },
     linkNote:
       "Cecília's link opens SHEIN with the current campaigns. The 4CW5Y selection and the campaign codes appear when you search for them in the SHEIN app or website, not at checkout; check the discount on each item before paying.",
     referral: {
@@ -191,6 +209,11 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       'Consulta la elegibilidad, los productos y el plazo directamente en SHEIN.',
       'Comprueba el precio final antes de completar la compra.',
     ],
+    cartPrint: {
+      ...SHEIN_GLOBAL_PRINT,
+      alt: 'Barra de búsqueda del sitio de SHEIN con el código 4CW5Y escrito',
+      caption: 'Ejemplo del 4CW5Y en la búsqueda de SHEIN, que es donde entra el código de referido. La búsqueda abre una página de promociones, y el descuento de cada artículo lo define SHEIN.',
+    },
     linkNote:
       'El enlace de Cecília abre SHEIN con las campañas vigentes. La selección del 4CW5Y y los códigos de campaña aparecen al buscarlos en la app o en la web de SHEIN, no al pagar; mira el descuento de cada artículo antes de pagar.',
     referral: {
@@ -255,6 +278,11 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       "Vérifiez l'éligibilité, les produits et les délais directement sur SHEIN.",
       "Vérifiez le prix final avant de finaliser l'achat.",
     ],
+    cartPrint: {
+      ...SHEIN_GLOBAL_PRINT,
+      alt: 'Barre de recherche du site SHEIN avec le code 4CW5Y saisi',
+      caption: 'Exemple de 4CW5Y dans la recherche SHEIN, là où se saisit le code de parrainage. La recherche ouvre une page de promotions, et c’est SHEIN qui fixe la réduction de chaque article.',
+    },
     linkNote: `Le lien de Cecília ouvre SHEIN avec les campagnes en cours. La sélection 4CW5Y et les codes de campagne s'affichent quand vous les recherchez dans l'appli ou sur le site SHEIN, pas au paiement${NBSP}; vérifiez la réduction de chaque article avant de payer.`,
     referral: {
       label: 'Code de parrainage de Cecília',
@@ -320,6 +348,11 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       'Prüfen Sie Berechtigung, Produkte und Laufzeit direkt bei SHEIN.',
       'Prüfen Sie den Endpreis, bevor Sie den Kauf abschließen.',
     ],
+    cartPrint: {
+      ...SHEIN_GLOBAL_PRINT,
+      alt: 'Suchleiste der SHEIN-Website mit dem eingegebenen Code 4CW5Y',
+      caption: 'Beispiel für 4CW5Y in der SHEIN-Suche, wo der Empfehlungscode eingegeben wird. Die Suche öffnet eine Aktionsseite, und den Rabatt auf jeden Artikel legt SHEIN fest.',
+    },
     linkNote:
       'Cecílias Link öffnet SHEIN mit den aktuellen Aktionen. Die 4CW5Y-Auswahl und die Aktionscodes erscheinen, wenn Sie in der SHEIN-App oder auf der Website danach suchen, nicht an der Kasse; prüfen Sie vor dem Bezahlen den Rabatt jedes Artikels.',
     referral: {
@@ -386,6 +419,11 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       'Controlla idoneità, prodotti e scadenze direttamente su SHEIN.',
       "Verifica il prezzo finale prima di completare l'acquisto.",
     ],
+    cartPrint: {
+      ...SHEIN_GLOBAL_PRINT,
+      alt: 'Barra di ricerca del sito SHEIN con il codice 4CW5Y digitato',
+      caption: 'Esempio di 4CW5Y nella ricerca di SHEIN, che è dove si inserisce il codice invito. La ricerca apre una pagina di promozioni, e lo sconto su ogni articolo lo decide SHEIN.',
+    },
     linkNote:
       "Il link di Cecília apre SHEIN con le campagne in corso. La selezione di 4CW5Y e i codici di campagna compaiono cercandoli nell'app o sul sito SHEIN, non al pagamento; controlla lo sconto di ogni articolo prima di pagare.",
     referral: {
@@ -451,6 +489,11 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       '대상 여부, 상품, 기간은 SHEIN에서 직접 확인하세요.',
       '구매를 완료하기 전에 최종 금액을 확인하세요.',
     ],
+    cartPrint: {
+      ...SHEIN_GLOBAL_PRINT,
+      alt: '4CW5Y 코드를 입력한 SHEIN 웹사이트 검색창',
+      caption: 'SHEIN 검색창에 4CW5Y를 입력한 예시입니다. 추천 코드는 여기에 입력합니다. 검색하면 프로모션 페이지가 열리며, 상품별 할인은 SHEIN이 정합니다.',
+    },
     linkNote:
       'Cecília의 링크는 진행 중인 캠페인과 함께 SHEIN을 엽니다. 4CW5Y 상품과 캠페인 코드는 SHEIN 앱이나 웹사이트에서 검색하면 나타나며, 결제 단계에서 입력하지 않습니다. 결제 전에 상품별 할인을 확인하세요.',
     referral: {
@@ -516,6 +559,11 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       '対象条件・商品・期間は SHEIN で直接確認します。',
       '購入を確定する前に最終金額を確認します。',
     ],
+    cartPrint: {
+      ...SHEIN_GLOBAL_PRINT,
+      alt: 'SHEINサイトの検索バーに4CW5Yを入力したところ',
+      caption: 'SHEINの検索での4CW5Yの例です。紹介コードはここに入力します。検索するとプロモーションのページが開き、各商品の割引はSHEINが決めます。',
+    },
     linkNote:
       'Cecília のリンクは、開催中のキャンペーンとともに SHEIN を開きます。4CW5Y の商品とキャンペーンコードは SHEIN アプリまたはサイトで検索すると表示され、決済時には入力しません。支払い前に商品ごとの割引をご確認ください。',
     referral: {
@@ -578,6 +626,11 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       '請直接在 SHEIN 查看資格、商品及期限。',
       '完成購買前請確認最終金額。',
     ],
+    cartPrint: {
+      ...SHEIN_GLOBAL_PRINT,
+      alt: 'SHEIN 網站搜尋列中輸入了代碼 4CW5Y',
+      caption: '4CW5Y 在 SHEIN 搜尋中的範例，推薦碼就是在這裡輸入。搜尋後會開啟促銷頁面，每件商品的折扣由 SHEIN 決定。',
+    },
     linkNote:
       'Cecília 的連結會開啟 SHEIN 的進行中活動。4CW5Y 的商品和活動代碼要在 SHEIN App 或網站搜尋才會出現，不在結帳時輸入；付款前請確認每件商品的折扣。',
     referral: {
@@ -639,6 +692,11 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       '请直接在 SHEIN 查看资格、商品和期限。',
       '完成购买前请确认最终金额。',
     ],
+    cartPrint: {
+      ...SHEIN_GLOBAL_PRINT,
+      alt: 'SHEIN 网站搜索栏中输入了代码 4CW5Y',
+      caption: '4CW5Y 在 SHEIN 搜索中的示例，推荐码就是在这里输入。搜索后会打开促销页面，每件商品的折扣由 SHEIN 决定。',
+    },
     linkNote: 'Cecília 的链接会打开 SHEIN 的进行中活动。4CW5Y 的商品和活动代码要在 SHEIN App 或网站搜索才会出现，不在结账时输入；付款前请确认每件商品的折扣。',
     referral: {
       label: 'Cecília 的推荐码',
@@ -725,6 +783,8 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           'Yes, a purchase with SONAR20 may earn Em Casa com Cecília a commission, at no extra cost to you.',
       },
     ],
+    stacking: [{ benefit: 'promocoes', stacks: 'sim', condition: 'The 20% applies on top of the promotional price Hostinger already shows in the cart' }],
+    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, alt: 'Order summary in the Hostinger cart with the Coupon applied line and the SONAR20 tag' },
     testedAt: '2026-11-14',
     testNote:
       'We applied SONAR20 in the "Have a coupon code?" field of Hostinger\'s cart with the Startup plan, which the referral link does not cover. On the 48-month term, the total went from $383.52 to $306.82, $76.70 less: 20% on top of the Black Friday price Hostinger was already showing.',
@@ -815,6 +875,8 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           'Sí, una compra con SONAR20 puede generar una comisión para Em Casa com Cecília, sin costo extra para ti.',
       },
     ],
+    stacking: [{ benefit: 'promocoes', stacks: 'sim', condition: 'El 20% se aplica sobre el precio promocional que Hostinger ya muestra en el carrito' }],
+    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, alt: 'Resumen del pedido en el carrito de Hostinger con la línea Coupon applied y la etiqueta SONAR20' },
     testedAt: '2026-11-14',
     testNote:
       'Aplicamos SONAR20 en el campo "Have a coupon code?" del carrito de Hostinger con el plan Startup, que el enlace de referido no cubre. En el período de 48 meses, el total pasó de $383.52 a $306.82, $76.70 menos: el 20% sobre el precio de Black Friday que Hostinger ya mostraba.',
@@ -892,6 +954,8 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
         answer: 'Oui, un achat avec SONAR20 peut rapporter une commission à Em Casa com Cecília, sans frais supplémentaires pour vous.',
       },
     ],
+    stacking: [{ benefit: 'promocoes', stacks: 'sim', condition: 'Les 20 % s’appliquent sur le prix promotionnel que Hostinger affiche déjà dans le panier' }],
+    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, alt: 'Récapitulatif de commande dans le panier Hostinger avec la ligne Coupon applied et l’étiquette SONAR20' },
     testedAt: '2026-11-14',
     testNote: `Nous avons appliqué SONAR20 dans le champ "Have a coupon code${NBSP}?" du panier de Hostinger, avec l’offre Startup, que le lien de parrainage ne couvre pas. Sur la période de 48 mois, le total est passé de $383.52 à $306.82, soit $76.70 de moins${NBSP}: 20${NBSP}% sur le prix Black Friday que Hostinger affichait déjà.`,
     codeFieldLabel: 'Have a coupon code?',
@@ -968,6 +1032,8 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
         answer: 'Ja, ein Kauf mit SONAR20 kann Em Casa com Cecília eine Provision einbringen, ohne Mehrkosten für Sie.',
       },
     ],
+    stacking: [{ benefit: 'promocoes', stacks: 'sim', condition: 'Die 20 % gelten auf den Aktionspreis, den Hostinger bereits im Warenkorb anzeigt' }],
+    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, alt: 'Bestellübersicht im Hostinger-Warenkorb mit der Zeile Coupon applied und dem Etikett SONAR20' },
     testedAt: '2026-11-14',
     testNote: `Wir haben SONAR20 im Feld „Have a coupon code?“ im Warenkorb von Hostinger mit dem Tarif Startup angewendet, den der Empfehlungslink nicht abdeckt. Bei 48 Monaten Laufzeit sank die Summe von $383.52 auf $306.82, also $76.70 weniger: 20${NBSP}% auf den Black-Friday-Preis, den Hostinger schon anzeigte.`,
     codeFieldLabel: 'Have a coupon code?',
@@ -1057,6 +1123,8 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           'Sì, un acquisto con SONAR20 può far guadagnare a Em Casa com Cecília una commissione, senza costi extra per te.',
       },
     ],
+    stacking: [{ benefit: 'promocoes', stacks: 'sim', condition: 'Il 20% si applica sul prezzo promozionale che Hostinger mostra già nel carrello' }],
+    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, alt: 'Riepilogo dell’ordine nel carrello Hostinger con la riga Coupon applied e l’etichetta SONAR20' },
     testedAt: '2026-11-14',
     testNote:
       'Abbiamo applicato SONAR20 nel campo "Have a coupon code?" del carrello di Hostinger con il piano Startup, che il link di referral non copre. Con la durata di 48 mesi il totale è passato da $383.52 a $306.82, $76.70 in meno: il 20% sul prezzo Black Friday che Hostinger mostrava già.',
@@ -1147,6 +1215,8 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           '네. SONAR20으로 구매하면 추가 비용 없이 Em Casa com Cecília가 수수료를 받을 수 있습니다.',
       },
     ],
+    stacking: [{ benefit: 'promocoes', stacks: 'sim', condition: 'Hostinger가 장바구니에 이미 보여 주는 프로모션 가격에 20%가 적용됩니다' }],
+    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, alt: 'Hostinger 장바구니의 주문 요약. Coupon applied 줄과 SONAR20 라벨이 보입니다' },
     testedAt: '2026-11-14',
     testNote:
       '장바구니에서 Hostinger의 Startup 요금제에 SONAR20을 "Have a coupon code?" 입력란에 적용했습니다. 추천 링크로는 적용되지 않는 요금제입니다. 48개월 기간에서 총액은 $383.52에서 $306.82로, $76.70 줄었습니다. Hostinger가 이미 보여 주던 블랙 프라이데이 가격에 20%가 추가로 적용된 금액입니다.',
@@ -1237,6 +1307,8 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           'はい。SONAR20での購入は、追加費用なしにEm Casa com Cecíliaへの紹介料が発生する場合があります。',
       },
     ],
+    stacking: [{ benefit: 'promocoes', stacks: 'sim', condition: 'Hostingerがカートにすでに表示しているプロモーション価格に、20%が適用されます' }],
+    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, alt: 'HostingerのカートにあるCoupon applied行とSONAR20のラベルが表示された注文概要' },
     testedAt: '2026-11-14',
     testNote:
       '「Have a coupon code?」欄にSONAR20を入力し、Hostingerのカートで Startup プランに適用しました。このプランは紹介リンクの対象外です。48か月の期間で合計は$383.52から$306.82になり、$76.70安くなりました。Hostingerがすでに表示していたブラックフライデー価格からさらに20%割り引かれています。',
@@ -1327,6 +1399,8 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           '會。使用 SONAR20 購買，可能讓 Em Casa com Cecília 獲得佣金，你不需要額外付費。',
       },
     ],
+    stacking: [{ benefit: 'promocoes', stacks: 'sim', condition: '20% 折扣會套用在 Hostinger 購物車已顯示的促銷價上' }],
+    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, alt: 'Hostinger 購物車中的訂單摘要，顯示 Coupon applied 一行和 SONAR20 標籤' },
     testedAt: '2026-11-14',
     testNote:
       '我們在 Hostinger 購物車的「Have a coupon code?」欄位套用 SONAR20，方案為 Startup，推薦連結並不涵蓋此方案。48 個月期的總額從 $383.52 降到 $306.82，少了 $76.70：也就是在 Hostinger 已顯示的黑色星期五價格上再打 20%。',
@@ -1417,6 +1491,8 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           '会。使用 SONAR20 购买，可能为 Em Casa com Cecília 带来佣金，你无需额外付费。',
       },
     ],
+    stacking: [{ benefit: 'promocoes', stacks: 'sim', condition: '20% 折扣会应用在 Hostinger 购物车已显示的促销价上' }],
+    cartPrint: { ...HOSTINGER_GLOBAL_PRINT, alt: 'Hostinger 购物车中的订单摘要，显示 Coupon applied 一行和 SONAR20 标签' },
     testedAt: '2026-11-14',
     testNote:
       '我们在 Hostinger 购物车的「Have a coupon code?」栏应用了 SONAR20，套餐为 Startup，推荐链接并不涵盖该套餐。48 个月期的总额从 $383.52 降到 $306.82，少了 $76.70：也就是在 Hostinger 已显示的黑色星期五价格上再打 20%。',
@@ -1477,8 +1553,8 @@ export const CODE_FIELD_POLICY = {
   relatedContent: 'drop',
   // A seção de vídeos só existe em PT.
   videos: 'drop',
-  // O print vem de um artigo em português.
-  cartPrint: 'drop',
+  // O print do PT é do site brasileiro: fora do PT vale o do site global, que a tradução traz.
+  cartPrint: 'translate',
   monthlyHighlight: 'translate',
   affiliateAccountId: 'pt',
   referral: 'pt',
@@ -1493,8 +1569,9 @@ export const CODE_FIELD_POLICY = {
   tiers: 'drop',
   // O aviso do código com prazo só existe em PT.
   limitedCodes: 'drop',
-  // "O que acumula com o cupom" só existe em PT.
-  stacking: 'drop',
+  // "O que acumula com o cupom" fora do PT só leva o que foi visto no site global; as vantagens de pagamento
+  // (parcelas, Pix) são do site brasileiro e ficam no PT.
+  stacking: 'translate',
   paymentPerks: 'drop',
 } as const satisfies Record<keyof CouponCodeOffer, 'pt' | 'translate' | 'drop'>;
 
@@ -1572,8 +1649,8 @@ export function localizeCoupon(coupon: Coupon, translation: CouponTranslation, l
   };
 
   if (coupon.offerMode === 'affiliate-link' && translation.offerMode === 'affiliate-link') {
-    // O print e a legenda dele só existem em PT.
-    return { ...coupon, ...translation.locales[locale], ...shared, monthlyHighlight: undefined, cartPrint: undefined };
+    // O print do PT e a legenda dele não passam para o idioma: vale o da tradução, ou nenhum.
+    return { ...coupon, ...translation.locales[locale], ...shared, monthlyHighlight: undefined, cartPrint: translation.locales[locale].cartPrint };
   }
   if (coupon.offerMode === 'discount-code' && translation.offerMode === 'discount-code') {
     // As faixas trazem valores em R$ e o aviso do Magazine Você, que só existem em PT.

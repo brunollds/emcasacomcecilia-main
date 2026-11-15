@@ -106,10 +106,9 @@ export function CartPrintFigure({
         {print.article && (
           <>
             {' '}
-            <Link href={`/reviews/${print.article}`} className={INLINE_LINK}>
+            <Link href={`${locale === 'pt' ? '' : `/${locale}`}/reviews/${print.article}`} className={INLINE_LINK}>
               {stepsLabel}
             </Link>
-            .
           </>
         )}
       </p>
