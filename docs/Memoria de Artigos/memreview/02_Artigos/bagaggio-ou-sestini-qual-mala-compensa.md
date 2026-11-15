@@ -7,10 +7,10 @@ parceiro_slug: "bagaggio"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Marcas"
-status: "pronto-para-deploy"
+status: "publicado"
 score: 78
 responsavel: "Job-1 (Claude Fable 5.2)"
-proxima_acao: "deploy com o GO do Bruno e IndexNow"
+proxima_acao: "reler os preços se a Black Friday mudar as tabelas"
 bloqueado_por: "-"
 data_criacao: "2026-11-15"
 i18n_cluster: null
@@ -213,3 +213,7 @@ Parecer em `docs/auditoria-copy-artigos/g9-bagaggio-sestini-20261115-farol/REVIS
 - Garantias: entraram as exclusões da Bagaggio (desgaste do uso e danos no transporte, pelo [[bagaggio-garantia-vitalicia]]; "acidentes", da proposta, não entrou porque não foi conferido), a data 29/04/2024 no lugar de "fim de abril", e o veredito deixou de sugerir que a Supergarantia dura menos.
 - Pix: o texto diz que só a Route média foi conferida no carrinho e que as outras malas são conta.
 - O aviso do lint é do `DesktopNav.tsx` (`closeNow` fora das dependências de um `useEffect`), anterior ao artigo.
+
+## No ar (15/11/2026)
+
+Release `5bdf87b3` (deploy `0a5eb32b`, build `01a1e190`), com o #1014 e o #1015. Smoke do artigo ok (título, resposta rápida, tabelas, garantia, quadro, link de afiliado, capa pelo CDN, nenhum link para a Sestini), presente em /reviews, em /reviews/loja/bagaggio e no sitemap. IndexNow enviado; captura `43775977371`.
