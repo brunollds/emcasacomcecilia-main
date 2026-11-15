@@ -217335,7 +217335,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom HolyFoods primeira compra: qual usar",
         "paragraphs": [
-          "A HolyFoods vende refeições prontas para preparar em casa, como sopas, risotos e macarrões. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [HolyFoods é confiável?](/reviews/holyfoods-e-confiavel).",
+          "A HolyFoods vende sopas, risotos e macarrões de despensa, que ficam prontos no fogão em 15 a 20 minutos. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [HolyFoods é confiável?](/reviews/holyfoods-e-confiavel).",
           "Use o EMCASA: 15% OFF em todos os produtos do site oficial, avulsos e kits, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
           "É o [cupom HolyFoods](/cupons/holyfoods) da nossa parceria com a marca, testado no checkout. Sopa, macarrão ou risoto: o código é o mesmo."
         ]
@@ -220588,7 +220588,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Para a primeira compra na Hostinger, use SONAR20: 20% no primeiro período do plano. A renovação sai pelo preço de tabela; escolha o ciclo antes.",
     "publishedAt": "13 de novembro de 2026",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-pt-v2.webp",
@@ -220627,6 +220627,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Hostinger primeira compra: qual usar",
         "paragraphs": [
+          "A Hostinger oferece hospedagem, domínios e ferramentas para criar sites. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Hostinger é confiável?](/reviews/hostinger-e-confiavel).",
           "Use o SONAR20. Ele dá 20% no primeiro período de um plano novo na Hostinger, e o código entra no campo de cupom do carrinho.",
           "Código achado em site de cupom pode não funcionar. O SONAR20 é o que testamos no carrinho, e as condições dele estão na página do [cupom Hostinger](/cupons/hostinger)."
         ]
@@ -220722,7 +220723,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom Hostinger de primeira compra? Tem: o SONAR20 dá 20% no primeiro período de um plano novo.",
+          "Qual é o desconto na primeira compra na Hostinger? O SONAR20 dá 20% no primeiro período de um plano novo. O desconto não se estende à renovação; escolha o ciclo e confira o total no carrinho.",
           "O cupom Hostinger vale no plano mensal? No nosso teste, sim: o plano de 1 mês também teve os 20%. Confira o desconto no carrinho do ciclo que você escolher.",
           "O SONAR20 dá desconto na renovação? Não. A renovação sai pelo preço de tabela, que aparece no carrinho abaixo do plano.",
           "O cupom vale para domínio? Não no domínio avulso. Ele vale em compra nova de hospedagem, VPS, e-mail profissional e Reach."
@@ -221034,7 +221035,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "For your first Hostinger purchase, use SONAR20: 20% off the first period of the plan. Renewal is charged at the list price, so pick your term first.",
     "publishedAt": "November 13, 2026",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -221074,6 +221075,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hostinger first-time coupon: which one to use",
         "paragraphs": [
+          "Hostinger offers hosting, domains and tools for building websites. Before your first order, see the company details and what to check before buying in [Is Hostinger legit?](/en/reviews/is-hostinger-legit).",
           "Use SONAR20. It gives 20% off the first period of a new Hostinger plan, and you paste the code into the cart's coupon field.",
           "A code found on a coupon site may not work. SONAR20 is the one we tested in the cart, and its conditions are on the [Hostinger coupon](/en/coupons/hostinger) page."
         ]
@@ -221157,7 +221159,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Is there a Hostinger coupon for first-time buyers? Yes: SONAR20 gives 20% off the first period of a new plan.",
+          "What is the discount on a first Hostinger purchase? SONAR20 gives 20% off the first period of a new plan. The discount does not apply to renewal; choose your billing cycle and check the total in the cart.",
           "Does SONAR20 give a discount on renewal? No. Renewal is charged at the list price, which the cart shows below the plan.",
           "Does the coupon work on a domain? Not on a standalone domain. It applies to a new purchase of hosting, VPS, professional email and Reach.",
           "Does the 20% last the whole time I have the plan? No. It covers the first period of the term you choose; after that, the renewal price applies."
@@ -221201,7 +221203,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Para tu primera compra en Hostinger, usa SONAR20: 20% en el primer período del plan. La renovación sale a precio de lista; elige el ciclo antes de pagar.",
     "publishedAt": "13 de noviembre de 2026",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -221241,6 +221243,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupón Hostinger primera compra: cuál usar",
         "paragraphs": [
+          "Hostinger ofrece hosting, dominios y herramientas para crear sitios web. Antes de tu primer pedido, consulta los datos de la empresa y qué revisar antes de contratar en [¿Es confiable Hostinger?](/es/reviews/hostinger-es-confiable).",
           "Usa SONAR20. Da 20% en el primer período de un plan nuevo en Hostinger, y el código se introduce en el campo de cupón del carrito.",
           "Un código sacado de una web de cupones puede no funcionar. Probamos SONAR20 en el carrito; consulta sus condiciones en la página del [cupón Hostinger](/es/coupons/hostinger)."
         ]
@@ -221324,7 +221327,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Hay cupón Hostinger para la primera compra? Sí: SONAR20 da 20% en el primer período de un plan nuevo.",
+          "¿Qué descuento hay en la primera compra de Hostinger? SONAR20 da 20% en el primer período de un plan nuevo. El descuento no se extiende a la renovación; elige el ciclo y comprueba el total en el carrito.",
           "¿El cupón Hostinger vale en el plan mensual? En nuestra prueba, sí: el plan de 1 mes también recibió los 20%. Comprueba el descuento en el carrito para el ciclo que elijas.",
           "¿SONAR20 da descuento en la renovación? No. La renovación sale a precio de lista, que aparece en el carrito debajo del plan.",
           "¿El cupón vale para dominios? No para un dominio suelto. Vale en compras nuevas de hosting, VPS, correo profesional y Reach."
@@ -221368,7 +221371,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Pour un premier achat chez Hostinger, utilisez SONAR20 : 20 % sur la première période du forfait. Le renouvellement est au prix catalogue ; choisissez la durée avant de payer.",
     "publishedAt": "13 novembre 2026",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -221408,6 +221411,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Code promo Hostinger premier achat : lequel utiliser",
         "paragraphs": [
+          "Hostinger propose de l'hébergement, des noms de domaine et des outils pour créer des sites web. Avant votre première commande, consultez les informations sur l'entreprise et les points à vérifier avant de souscrire dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable).",
           "Utilisez SONAR20. Il donne 20 % sur la première période d'un nouveau forfait chez Hostinger, et le code se saisit dans le champ de code promo du panier.",
           "Un code trouvé sur un site de coupons peut ne pas fonctionner. SONAR20 est celui que nous avons testé dans le panier, et ses conditions figurent sur la [page du code promo Hostinger](/fr/coupons/hostinger)."
         ]
@@ -221491,7 +221495,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Existe-t-il un code promo Hostinger pour un premier achat ? Oui : SONAR20 donne 20 % sur la première période d'un nouveau forfait.",
+          "Quelle est la réduction sur un premier achat chez Hostinger ? SONAR20 donne 20 % sur la première période d'un nouveau forfait. La réduction ne s'applique pas au renouvellement ; choisissez la durée et vérifiez le total dans le panier.",
           "SONAR20 donne-t-il une réduction sur le renouvellement ? Non. Le renouvellement est facturé au prix catalogue, affiché dans le panier sous le forfait.",
           "Les 20 % valent-ils sur toute la durée du forfait ? Ils valent sur la première période de la durée choisie. Vérifiez le total dans le panier avant de payer.",
           "Le code vaut-il pour un domaine ? Pas pour un domaine seul. Il vaut pour un nouvel achat d'hébergement, de VPS, de messagerie professionnelle et de Reach."
@@ -221535,7 +221539,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Für Ihren ersten Hostinger-Kauf: SONAR20 gibt 20 % auf den ersten Zeitraum. Die Verlängerung läuft zum Tabellenpreis; wählen Sie die Laufzeit vorher.",
     "publishedAt": "13. November 2026",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -221575,6 +221579,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hostinger-Gutschein für den ersten Kauf: welchen Code Sie nehmen",
         "paragraphs": [
+          "Hostinger bietet Hosting, Domains und Werkzeuge zum Erstellen von Websites. Vor Ihrer ersten Bestellung finden Sie die Unternehmensdaten und was Sie vor dem Kauf prüfen sollten in [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes).",
           "Verwenden Sie SONAR20. Er gibt 20 % auf den ersten Zeitraum eines neuen Tarifs bei Hostinger, und Sie tragen ihn im Gutscheinfeld des Warenkorbs ein.",
           "Codes von Gutscheinseiten funktionieren womöglich nicht. SONAR20 haben wir im Warenkorb getestet, und seine Bedingungen stehen auf der Seite zum [Hostinger-Gutschein](/de/coupons/hostinger)."
         ]
@@ -221658,7 +221663,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Gibt es einen Hostinger-Gutschein für den ersten Kauf? Ja: SONAR20 gibt 20 % auf den ersten Zeitraum eines neuen Tarifs.",
+          "Welchen Rabatt gibt es beim ersten Kauf bei Hostinger? SONAR20 gibt 20 % auf den ersten Zeitraum eines neuen Tarifs. Der Rabatt gilt nicht für die Verlängerung; wählen Sie die Laufzeit und prüfen Sie die Summe im Warenkorb.",
           "Gilt der Hostinger-Gutschein beim Monatstarif? Ja, in unserem Test bekam auch der Monatstarif die 20 %. Prüfen Sie den Rabatt im Warenkorb für die Laufzeit, die Sie wählen, bevor Sie zahlen.",
           "Gibt SONAR20 Rabatt auf die Verlängerung? Nein. Die Verlängerung läuft zum Tabellenpreis, den der Warenkorb unter dem Tarif zeigt.",
           "Gilt der Gutschein für eine Domain? Nicht für die einzelne Domain. Er gilt beim Neukauf von Hosting, VPS, professioneller E-Mail und Reach."
@@ -221702,7 +221707,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Per il primo acquisto su Hostinger usa SONAR20: 20% di sconto sul primo periodo del piano. Il rinnovo costa il prezzo di listino: scegli prima il periodo.",
     "publishedAt": "13 novembre 2026",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-it-v2.webp",
@@ -221741,6 +221746,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Coupon Hostinger primo acquisto: quale usare",
         "paragraphs": [
+          "Hostinger offre hosting, domini e strumenti per creare siti web. Prima del primo ordine, trovi i dati dell'azienda e cosa controllare prima di acquistare in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile).",
           "Usa SONAR20. Dà il 20% sul primo periodo di un piano nuovo su Hostinger e il codice si inserisce nel campo coupon del carrello.",
           "Un codice trovato su un sito di coupon può non funzionare. SONAR20 è quello che abbiamo provato nel carrello, e le condizioni sono nella pagina del [coupon Hostinger](/it/coupons/hostinger)."
         ]
@@ -221823,7 +221829,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Esiste un coupon Hostinger per il primo acquisto? Sì: SONAR20 dà il 20% sul primo periodo di un piano nuovo.",
+          "Che sconto c'è sul primo acquisto da Hostinger? SONAR20 dà il 20% sul primo periodo di un piano nuovo. Lo sconto non si estende al rinnovo; scegli il periodo e controlla il totale nel carrello.",
           "Il coupon Hostinger vale sul piano mensile? Nel nostro test, sì: anche il piano di 1 mese ha ricevuto il 20%. Controlla lo sconto nel carrello per il periodo che scegli, prima di pagare.",
           "SONAR20 dà sconto sul rinnovo? No. Il rinnovo costa il prezzo di listino, che il carrello mostra sotto il piano.",
           "Il coupon vale per i domini? Non per il dominio singolo. Vale sugli acquisti nuovi di hosting, VPS, e-mail professionale e Reach."
@@ -221867,7 +221873,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostingerのはじめての購入には SONAR20 で最初の期間が20%オフ。更新は通常料金なので、契約期間は先に決めておきましょう。",
     "publishedAt": "2026年11月13日",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -221907,6 +221913,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hostingerはじめての購入：どのクーポンを使う？",
         "paragraphs": [
+          "Hostingerは、ホスティング、ドメイン、サイト作成ツールを提供しています。最初の注文の前に、会社の情報や購入前に確認することを[Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja)で確認してください。",
           "使うのは SONAR20 です。新しいプランの最初の期間が20%オフになり、コードはカートのクーポン欄に入力します。",
           "クーポンサイトで見つけたコードは使えないことがあります。私たちがカートで確認したのは SONAR20 で、条件は[Hostingerクーポン](/ja/coupons/hostinger)のページにまとめています。"
         ]
@@ -221991,7 +221998,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "Hostingerのはじめての購入に使えるクーポンはありますか？ あります。SONAR20 で新しいプランの最初の期間が20%オフになります。",
+          "Hostingerのはじめての購入では、どれくらい割引になりますか？ SONAR20 で新しいプランの最初の期間が20%オフになります。割引は更新には適用されません。期間を選んで、カートで合計金額を確認してください。",
           "Hostingerのクーポンは月払いのプランでも使えますか？ はい。私たちのテストでは、1か月プランでも20%の割引が適用されました。選ぶ期間のカートで割引が表示されているか確認してください。",
           "SONAR20 で更新も割引になりますか？ いいえ。更新は通常料金で、カートでプランの下に表示されます。",
           "クーポンはドメインにも使えますか？ 単体のドメインには使えません。ホスティング、VPS、ビジネスメール、Reach の新規購入で使えます。"
@@ -222035,7 +222042,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger 첫 구매에는 SONAR20: 플랜 첫 기간 20% 할인. 갱신은 정가로 청구되니 결제 전에 계약 기간부터 고르세요.",
     "publishedAt": "2026년 11월 13일",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -222075,6 +222082,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hostinger 첫 구매 쿠폰: 어떤 코드를 쓸까",
         "paragraphs": [
+          "Hostinger는 호스팅, 도메인, 웹사이트 제작 도구를 제공합니다. 첫 주문 전에 회사 정보와 결제 전 확인할 점은 [호스팅어는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에서 확인하세요.",
           "SONAR20을 쓰세요. Hostinger 새 플랜의 첫 기간에 20%를 할인해 주며, 코드는 장바구니의 쿠폰 입력란에 넣습니다.",
           "쿠폰 사이트에서 찾은 코드는 작동하지 않을 수 있습니다. SONAR20은 저희가 장바구니에서 직접 테스트한 코드이고, 조건은 [Hostinger 쿠폰 페이지](/ko/coupons/hostinger)에 있습니다."
         ]
@@ -222158,7 +222166,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "Hostinger 첫 구매 쿠폰이 있나요? 네. SONAR20은 새 플랜의 첫 기간을 20% 할인합니다.",
+          "Hostinger 첫 구매 시 할인은 얼마인가요? SONAR20은 새 플랜의 첫 기간을 20% 할인합니다. 할인은 갱신에는 적용되지 않으니, 결제 주기를 고르고 장바구니에서 총액을 확인하세요.",
           "계약 기간을 바꾸면 할인도 달라지나요? 20%는 고른 계약 기간의 첫 기간에 적용됩니다. 기간을 바꿀 때마다 장바구니에서 총액을 확인하세요.",
           "SONAR20은 갱신도 할인해 주나요? 아니요. 갱신은 플랜 아래에 장바구니가 보여 주는 정가로 청구됩니다.",
           "쿠폰은 도메인에도 적용되나요? 도메인 단독 구매에는 적용되지 않습니다. 호스팅, VPS, 비즈니스 이메일, Reach의 신규 구매에 적용됩니다."
@@ -222202,7 +222210,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "首次購買 Hostinger 請用 SONAR20：方案首期享 20% 折扣。續訂按價目表計價，請先選好訂閱期間。",
     "publishedAt": "2026年11月13日",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -222242,6 +222250,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hostinger 首次購買優惠碼：該用哪一個",
         "paragraphs": [
+          "Hostinger 提供主機、網域和建站工具。第一次下單前，請到[Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)查看公司資料和下單前要確認的事項。",
           "用 SONAR20。它為 [Hostinger](/zh-hant/coupons/hostinger) 的新方案首期減 20%，優惠碼輸入在購物車的優惠碼欄位。",
           "優惠碼網站上找到的代碼不一定有效。SONAR20 是我們在購物車實測過的，條件列在[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
         ]
@@ -222326,7 +222335,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "Hostinger 有首次購買優惠碼嗎？有：SONAR20 為新方案首期享 20% 折扣。",
+          "Hostinger 首次購買可以折扣多少？SONAR20 為新方案首期減 20%。續訂時沒有這項折扣；請選好訂閱期間，並在購物車確認總額。",
           "Hostinger 優惠碼適用於月付方案嗎？在我們的測試中，月付（1 個月）方案同樣享有 20% 折扣；請在付款前於購物車確認你所選訂閱期間的折扣。",
           "SONAR20 對續訂有折扣嗎？沒有。續訂按價目表計價，購物車會在方案下方顯示。",
           "優惠碼適用於網域嗎？單買網域不適用。它適用於新購買的網站主機、VPS、專業電郵和 Reach。"
@@ -222370,7 +222379,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "首次购买 Hostinger 请用 SONAR20：套餐首个计费周期减 20%。续费按标价，请先选好周期。",
     "publishedAt": "2026年11月13日",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-zh-hans-v2.webp",
@@ -222409,6 +222418,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hostinger 首次购买优惠码：用哪个",
         "paragraphs": [
+          "Hostinger 提供主机、域名和建站工具。第一次下单前，请在[Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)查看公司信息和下单前要确认的事项。",
           "用 SONAR20。它让 Hostinger 新套餐的首个计费周期减 20%，代码填在购物车的优惠码栏。",
           "优惠码网站上找到的代码未必有效。SONAR20 是我们在购物车里测试过的，条件写在 [Hostinger 优惠码](/zh-hans/coupons/hostinger)页面。"
         ]
@@ -222492,7 +222502,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "Hostinger 有首次购买的优惠码吗？ 有：SONAR20 让新套餐的首个计费周期减 20%。",
+          "Hostinger 首次购买能优惠多少？ SONAR20 让新套餐的首个计费周期减 20%。折扣不适用于续费；请选好计费周期，并在购物车里确认总额。",
           "SONAR20 对续费有折扣吗？ 没有。续费按标价收费，价格显示在购物车的套餐下方。",
           "优惠码适用于域名吗？ 单买域名不适用。它适用于新购买的主机、VPS、专业邮箱和 Reach。",
           "20% 是在整个周期里都有效吗？ 20% 适用于你所选周期的首个计费周期，之后续费按标价。付款前请在购物车确认。"

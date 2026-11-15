@@ -214,4 +214,10 @@ desconto…"), com código, benefício, condição e recorrência. `publishedAt`
   Store, I Wanna Sleep, Insider, Prohall, Simple Organic, Skelt e Toda Up. Mesma mudança, com os textos da pauta; na
   HolyFoods, "refeições prontas para preparar em casa, como sopas, risotos e macarrões" no lugar de "desidratados".
   "Até 10%" segue na Max Titanium, na Probiótica e na Prohall, e a exceção da Black VIP, na Toda Up.
-- Lotes 4 (Hostinger, 10 idiomas) e 5 (SHEIN, 10 idiomas, com o percurso do cupom de checkout): a fazer, um por vez.
+- **Lote 4 (Hostinger, 10 idiomas):** introdução com o link do "é confiável" de cada idioma e FAQ[0] "Qual é o desconto na
+  primeira compra na Hostinger?" (SONAR20, 20% no primeiro período de um plano novo, sem renovação). As 9 versões:
+  Sonnet 5.5 gerou, a sessão revisou. Em zh-hant, "折扣不適用於續訂" esbarrava na trava de renovação do
+  `test:review-i18n` (falso positivo) e virou "續訂時沒有這項折扣".
+- HolyFoods (ajuste depois do parecer do ChatGPT): "sopas, risotos e macarrões de despensa, que ficam prontos no fogão
+  em 15 a 20 minutos" (dado de `holyfoods-fatos-0511`).
+- Lote 5 (SHEIN, 10 idiomas, com o percurso do cupom de checkout): a fazer, depois da conferência no Chrome.

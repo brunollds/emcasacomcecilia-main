@@ -34,7 +34,7 @@
   "metaDescription": "首次购买 Hostinger 请用 SONAR20：套餐首个计费周期减 20%。续费按标价，请先选好周期。",
   "publishedAt": "2026年11月13日",
   "publishedAtISO": "2026-11-13",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-15",
   "draft": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-zh-hans-v2.webp",
@@ -73,6 +73,7 @@
     {
       "heading": "Hostinger 首次购买优惠码：用哪个",
       "paragraphs": [
+        "Hostinger 提供主机、域名和建站工具。第一次下单前，请在[Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)查看公司信息和下单前要确认的事项。",
         "用 SONAR20。它让 Hostinger 新套餐的首个计费周期减 20%，代码填在购物车的优惠码栏。",
         "优惠码网站上找到的代码未必有效。SONAR20 是我们在购物车里测试过的，条件写在 [Hostinger 优惠码](/zh-hans/coupons/hostinger)页面。"
       ]
@@ -156,7 +157,7 @@
     {
       "heading": "常见问题",
       "bullets": [
-        "Hostinger 有首次购买的优惠码吗？ 有：SONAR20 让新套餐的首个计费周期减 20%。",
+        "Hostinger 首次购买能优惠多少？ SONAR20 让新套餐的首个计费周期减 20%。折扣不适用于续费；请选好计费周期，并在购物车里确认总额。",
         "SONAR20 对续费有折扣吗？ 没有。续费按标价收费，价格显示在购物车的套餐下方。",
         "优惠码适用于域名吗？ 单买域名不适用。它适用于新购买的主机、VPS、专业邮箱和 Reach。",
         "20% 是在整个周期里都有效吗？ 20% 适用于你所选周期的首个计费周期，之后续费按标价。付款前请在购物车确认。"
