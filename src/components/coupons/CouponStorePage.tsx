@@ -7,7 +7,6 @@ import { getCouponLanguageLinks, getCouponStorePath } from '@/lib/couponTranslat
 import { getOtherActiveCoupons, getPendingLimitedCodes, type Coupon } from '@/lib/couponsData';
 import { LOCALES, LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
-import ReviewInlineImage from '@/components/ReviewInlineImage';
 import { getCouponMetaTitle, getCurrentOfferMonthDate } from '@/lib/offerMonth';
 import { RevealSection } from '@/components/ui/RevealSection';
 import { getShellHomeHref } from '@/lib/i18n/shellDictionary';
@@ -26,6 +25,7 @@ import {
 } from './CouponBlocks';
 import { OtherCouponCard } from './CouponCards';
 import { LimitedCodeNotices, LimitedCodePointers } from './LimitedCodeNotice';
+import { CartPrintFigure, INLINE_LINK, STACKING_SECTION_ID, StackingTable } from './StoreEvidence';
 import { StorePageBanners } from './StorePageBanners';
 import { COUPON_STORE_COPY, type CouponStoreCopy } from './couponStoreCopy';
 import {
@@ -44,7 +44,6 @@ import {
   StoreTransparency,
 } from './StoreLayout';
 
-const INLINE_LINK = `font-bold underline underline-offset-2 ${FOCUS_RING}`;
 
 function getBreadcrumb(coupon: Coupon, locale: Locale, copy: CouponStoreCopy) {
   const store = { name: coupon.brand, path: getCouponStorePath(coupon.slug, locale) };
@@ -470,7 +469,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
             <RuleList rules={rules} />
             {stackingCopy && stackingRows && (
               <p className={`mt-4 ${BODY_TEXT}`}>
-                <a href="#o-que-acumula" className={INLINE_LINK}>
+                <a href={`#${STACKING_SECTION_ID}`} className={INLINE_LINK}>
                   {stackingCopy.rulesPointer}
                 </a>
                 .
@@ -479,48 +478,17 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
           </section>
 
           {stackingCopy && stackingRows && (
-            <section aria-labelledby="o-que-acumula">
-              <SectionHeading id="o-que-acumula">{stackingCopy.title}</SectionHeading>
-              {/* Abaixo do md, três colunas não cabem: cada linha vira benefício e resposta lado a lado, com a
-                  condição embaixo na largura toda. Os roles seguram a tabela para o leitor de tela, porque o
-                  display: grid na linha tira a semântica em alguns navegadores. */}
-              <div className="mt-4 overflow-hidden rounded-xl border-2 border-marinho">
-                <table role="table" className="block w-full border-collapse text-left md:table">
-                  <caption className="sr-only">{stackingCopy.caption(coupon.brand)}</caption>
-                  <thead role="rowgroup" className="bg-amarelo-cupom max-md:sr-only">
-                    <tr role="row" className="border-b-2 border-marinho">
-                      {[stackingCopy.headers.benefit, stackingCopy.headers.stacks, stackingCopy.headers.condition].map((header) => (
-                        <th key={header} role="columnheader" scope="col" className="px-3 py-2.5 text-[13px] font-extrabold leading-[18px]">
-                          {header}
-                        </th>
-                      ))}
-                    </tr>
-                  </thead>
-                  <tbody role="rowgroup" className="block md:table-row-group">
-                    {stackingRows.map((row, index) => (
-                      <tr
-                        key={row.benefit}
-                        role="row"
-                        className={`grid grid-cols-[minmax(0,1fr)_auto] gap-x-3 gap-y-1 px-3 py-3 md:table-row md:p-0 ${index > 0 ? 'border-t-2 border-marinho/15' : ''}`}
-                      >
-                        <th role="rowheader" scope="row" className="min-w-0 align-top text-[15px] font-extrabold leading-[22px] md:px-3 md:py-3">
-                          {row.label ?? stackingCopy.benefits[row.benefit]}
-                        </th>
-                        <td role="cell" className="align-top text-[15px] font-bold leading-[22px] md:px-3 md:py-3">
-                          {stackingCopy.answers[row.stacks]}
-                        </td>
-                        <td
-                          role="cell"
-                          className="col-span-2 min-w-0 align-top text-[15px] font-medium leading-[22px] text-marinho-suave md:min-w-[11rem] md:px-3 md:py-3"
-                        >
-                          {row.condition}
-                        </td>
-                      </tr>
-                    ))}
-                  </tbody>
-                </table>
-              </div>
-            </section>
+            <StackingTable
+              title={stackingCopy.title}
+              caption={stackingCopy.caption(coupon.brand)}
+              headers={stackingCopy.headers}
+              rows={stackingRows.map((row) => ({
+                key: row.benefit,
+                label: row.label ?? stackingCopy.benefits[row.benefit],
+                answer: stackingCopy.answers[row.stacks],
+                condition: row.condition,
+              }))}
+            />
           )}
 
           {coupon.referral && (
@@ -559,35 +527,13 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
               }
             />
             {copy.cartPrint && cartPrint && (
-              <div data-cart-print className="mt-5">
-                {/* Print alto (resumo de pedido no celular) não ocupa a tela toda: a largura cai até a altura caber em ~420px. */}
-                <div className="mx-auto" style={{ maxWidth: Math.max(200, Math.round(420 * cartPrint.aspectRatio)) }}>
-                  <ReviewInlineImage
-                    locale={locale}
-                    reviewTitle={coupon.brand}
-                    // O componente é JS e o tipo inferido exige as três; aqui não há loja de artigo.
-                    store={undefined}
-                    stores={undefined}
-                    reviewSlug={undefined}
-                    section={{
-                      // O componente é de cliente e não resolve o caminho: o endereço de entrega (CDN) sai daqui, como nos artigos.
-                      image: { src: resolveMediaUrl(cartPrint.src), alt: cartPrint.alt, aspectRatio: cartPrint.aspectRatio, objectFit: 'contain' },
-                    }}
-                  />
-                </div>
-                <p className={`mt-3 ${BODY_TEXT}`}>
-                  {copy.cartPrint.caption}
-                  {cartPrint.article && (
-                    <>
-                      {' '}
-                      <Link href={`/reviews/${cartPrint.article}`} className={INLINE_LINK}>
-                        {copy.cartPrint.stepsLabel}
-                      </Link>
-                      .
-                    </>
-                  )}
-                </p>
-              </div>
+              <CartPrintFigure
+                locale={locale}
+                brand={coupon.brand}
+                print={cartPrint}
+                caption={copy.cartPrint.caption}
+                stepsLabel={copy.cartPrint.stepsLabel}
+              />
             )}
           </section>
 
@@ -619,7 +565,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                   {stackingRows && (
                     <>
                       {' '}
-                      <a href="#o-que-acumula" className={INLINE_LINK}>
+                      <a href={`#${STACKING_SECTION_ID}`} className={INLINE_LINK}>
                         {failedCopy.stackingLinkLabel}
                       </a>
                       .

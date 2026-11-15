@@ -1,3 +1,4 @@
+import type { CartPrint, StackingRow } from '@/lib/couponsData';
 import type { Locale } from '@/lib/i18n/locales';
 
 // O francês pede espaço antes de : ; ? e %, e ele não pode quebrar a linha.
@@ -37,6 +38,16 @@ export type PageCopy = {
   // Respostas aos rótulos das regras da página de loja: Vale para, Junta com outras promoções?,
   // Validade e Frete.
   policyRules: { eligible: string; combinable: string; validity: string; shipping: string };
+  // "O que acumula na YesStyle", só em português, logo depois das regras. Só entra combinação com fonte: os
+  // termos dos cupons da loja ou um teste nosso. {code} vale no nome da linha e na condição.
+  stacking?: {
+    title: string;
+    captionTemplate: string;
+    rulesPointer: string;
+    rows: { label: string; stacks: StackingRow['stacks']; condition: string }[];
+  };
+  // O print do código aplicado, no fim de "Como aplicar", só em português. É exemplo, sem data nem promessa de valor.
+  cartPrint?: CartPrint & { caption: string };
   instructionsTitleTemplate: string;
   instructionsTemplates: string[];
   emptyPromoInstructionsTemplates: string[];
@@ -85,6 +96,24 @@ const pages: Record<Locale, PageCopy> = {
       combinable: 'Sim, com preços em promoção, com o {code} no campo Reward Code e com os YS Points. Com outro cupom, não: é um por pedido.',
       validity: 'Cada cupom tem o seu prazo, no horário GMT, 3 horas à frente de Brasília.',
       shipping: 'O desconto vale só para o preço dos produtos. Frete, reenvio e outras taxas ficam de fora.',
+    },
+    stacking: {
+      title: 'O que acumula na YesStyle',
+      captionTemplate: 'O que acumula com os cupons da YesStyle e com o código {code}',
+      rulesPointer: 'Veja o que acumula no checkout',
+      rows: [
+        { label: 'Cupom da loja e código {code}', stacks: 'sim', condition: 'Cada um vai no seu campo: o cupom em Coupon Code e o {code} em Reward Code' },
+        { label: 'Cupom da loja e preço em promoção', stacks: 'sim', condition: 'O cupom vale junto com o preço em promoção, nos produtos que participam' },
+        { label: 'Cupom da loja e YS Points', stacks: 'sim', condition: 'Os pontos entram na etapa de pagamento do checkout' },
+        { label: 'Dois cupons da loja', stacks: 'nao', condition: 'A YesStyle aceita um cupom por pedido' },
+      ],
+    },
+    cartPrint: {
+      article: 'yesstyle-app-como-comprar-codigo-de-recompensa',
+      src: '/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp',
+      alt: 'Três telas do app da YesStyle: a sacola com a linha Coupon or Influencer / Rewards Code, a tela Enter Code com os campos Coupon Code e Influencer / Rewards Code, e o resumo com o CECILIA010 aplicado',
+      aspectRatio: 1.4382,
+      caption: 'Exemplo do código de recompensa aplicado no app da YesStyle, no campo Influencer / Rewards Code. Os valores mudam conforme o pedido.',
     },
     instructionsTitleTemplate: 'Como aplicar cupons e o código {code} no checkout',
     instructionsTemplates: [

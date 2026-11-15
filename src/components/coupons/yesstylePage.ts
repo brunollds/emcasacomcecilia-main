@@ -65,6 +65,8 @@ export interface ResolvedYesStylePage {
   activePromoOffers: ResolvedPromoOffer[];
   policyTitle: string;
   policyRules: PageCopy['policyRules'];
+  stacking?: { title: string; caption: string; rulesPointer: string; rows: NonNullable<PageCopy['stacking']>['rows'] };
+  cartPrint?: PageCopy['cartPrint'];
   instructionsTitle: string;
   instructions: string[];
   note: string;
@@ -285,6 +287,17 @@ export function resolveYesStylePage(
       validity: fillPlaceholders(page.policyRules.validity, reward, firstPromoCode),
       shipping: fillPlaceholders(page.policyRules.shipping, reward, firstPromoCode),
     },
+    stacking: page.stacking && {
+      title: page.stacking.title,
+      caption: fillPlaceholders(page.stacking.captionTemplate, reward, firstPromoCode),
+      rulesPointer: page.stacking.rulesPointer,
+      rows: page.stacking.rows.map((row) => ({
+        ...row,
+        label: fillPlaceholders(row.label, reward, firstPromoCode),
+        condition: fillPlaceholders(row.condition, reward, firstPromoCode),
+      })),
+    },
+    cartPrint: page.cartPrint,
     instructionsTitle: fillPlaceholders(page.instructionsTitleTemplate, reward, firstPromoCode),
     instructions: instructionsTemplatesToUse.map((item) => fillPlaceholders(item, reward, firstPromoCode)),
     note: fillPlaceholders(page.noteTemplate, reward, firstPromoCode),
