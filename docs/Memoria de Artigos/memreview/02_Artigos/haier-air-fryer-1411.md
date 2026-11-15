@@ -65,11 +65,12 @@ separado e bem acomodado; os acessórios são muitos (vários cestos, espetos) e
 
 ## 4. Regras
 
-- **Transparência (Bruno, 14/11):** a air fryer não foi enviada pela Haier nem comprada: chegou por um terceiro
-  interessado na divulgação. A nota editorial diz isso com essas palavras ("recebemos o aparelho de um terceiro
-  interessado na divulgação, não da Haier; não há parceria nem cupom"). O vídeo diz "eu comprei": o artigo não repete
-  a frase, e o Bruno decide se ajusta a descrição do vídeo. Opinião livre: "podemos ser sinceros independente de
-  qualquer coisa". Se houver acordo com a Haier depois, a nota muda no mesmo dia.
+- **Transparência (Bruno, 14/11):** o aparelho foi recebido para teste, sem custo para o site. Quem cedeu não é
+  identificado: o texto não diz quem foi, nem "terceiro", nem de onde veio. A nota editorial é esta, e só esta:
+  "Recebemos o aparelho para teste. Não há contrato, pagamento nem cupom, e a marca não leu este texto antes da
+  publicação." Não escrever "comprada" nem "compramos" (não foi compra nossa) e não escrever "não veio da Haier". O
+  artigo não comenta a frase "eu comprei" do vídeo. Opinião livre: "podemos ser sinceros independente de qualquer
+  coisa". Se houver acordo com a Haier depois, a nota muda no mesmo dia.
 - **Primeiras impressões, não review.** Sem nota em estrelas e sem veredito de durabilidade. O texto diz quantos
   dias e quantos preparos sustentam a opinião.
 - **Comparação com a Philips Walita** só como impressão de acabamento, dita como opinião de quem tem as duas em
@@ -84,7 +85,7 @@ separado e bem acomodado; os acessórios são muitos (vários cestos, espetos) e
 
 | Ponto | Resposta |
 |---|---|
-| Origem do aparelho | Não veio da Haier: foi enviado por um interessado na divulgação |
+| Origem do aparelho | Recebido para teste, sem custo para o site. Quem cedeu não é identificado (regra da seção 4) |
 | Modelo | "Fritadeira De Ar Air Fryer Oven Digital Haier 12 Litros - HSAF-EV1203BBR", 127 V |
 | Acessórios | "Vem tudo que está no manual, bastante coisa": usar a lista oficial (falta ler, abaixo) |
 | Comparação | A Cecília usou a Wap Prosdócimo, a air fryer de 12 L da Itatiaia e a iChef da Polishop, entre outras |
