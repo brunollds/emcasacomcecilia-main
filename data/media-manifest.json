@@ -148184,6 +148184,187 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 124676,
+      "sha256": "97e467f366f4c984346f5433fa3a4ce9558f5b47881a4fa87bd2317495fe89d4",
+      "width": 1732,
+      "height": 1145,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-app-onde-achar-cupom-1511.webp",
+      "storage_filename": "yesstyle-app-onde-achar-cupom-1511.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/codigo-yesstyle-primeira-compra-cecilia010.json",
+        "content/reviews/yesstyle-erste-bestellung-code-cecilia010.json",
+        "content/reviews/yesstyle-first-order-cecilia010-ja.json",
+        "content/reviews/yesstyle-first-order-cecilia010-ko.json",
+        "content/reviews/yesstyle-first-order-cecilia010-zh-hans.json",
+        "content/reviews/yesstyle-first-order-cecilia010-zh-hant.json",
+        "content/reviews/yesstyle-first-order-reward-code-cecilia010.json",
+        "content/reviews/yesstyle-premiere-commande-code-cecilia010.json",
+        "content/reviews/yesstyle-primera-compra-codigo-cecilia010.json",
+        "content/reviews/yesstyle-primo-ordine-codice-cecilia010.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/codigo-yesstyle-primeira-compra-cecilia010.json",
+          "line": 98,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-erste-bestellung-code-cecilia010.json",
+          "line": 99,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-first-order-cecilia010-ja.json",
+          "line": 98,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-first-order-cecilia010-ko.json",
+          "line": 99,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-first-order-cecilia010-zh-hans.json",
+          "line": 98,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-first-order-cecilia010-zh-hant.json",
+          "line": 99,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-first-order-reward-code-cecilia010.json",
+          "line": 99,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-premiere-commande-code-cecilia010.json",
+          "line": 99,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-primera-compra-codigo-cecilia010.json",
+          "line": 99,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-primo-ordine-codice-cecilia010.json",
+          "line": 98,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 220900,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 222558,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 222714,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 222870,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 223026,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 223181,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 223337,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 223494,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 223650,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 223805,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/97e467f366f4c984346f5433fa3a4ce9558f5b47881a4fa87bd2317495fe89d4/yesstyle-app-onde-achar-cupom-1511.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/97e467f366f4c984346f5433fa3a4ce9558f5b47881a4fa87bd2317495fe89d4/yesstyle-app-onde-achar-cupom-1511.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-15T17:53:24.901Z",
+      "verification_etag_or_digest": "97e467f366f4c984346f5433fa3a4ce9558f5b47881a4fa87bd2317495fe89d4",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
       "local_url": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
       "media_kind": "image",

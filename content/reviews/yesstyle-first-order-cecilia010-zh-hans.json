@@ -15,11 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "在 YesStyle，CECILIA010 首单额外 5%，之后的订单额外 2%，填在 Reward Code 栏位。看看两种订单有什么不同，以及下单前该确认什么。",
-  "metaDescription": "CECILIA010 是 YesStyle 的奖励码：首单额外 5%，之后订单额外 2%，填在 Reward Code 栏位。看看首单前该确认什么。",
+  "description": "了解在哪里找到 YesStyle 商店优惠券，如何与 CECILIA010 搭配，以及各填在哪个栏位：首单额外 5%，之后 2%，网站和 App 都适用。",
+  "metaDescription": "CECILIA010 在 YesStyle 首单额外 5%，之后 2%，填在 Reward Code 栏位。看看在哪里找到商店优惠券，与它用于同一订单。",
   "publishedAt": "2026年11月13日",
   "publishedAtISO": "2026-11-13",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-15",
   "draft": false,
   "image": "/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa-zh-hans-v2.webp",
   "imageAlt": "官方宣传图片中，微笑的模特拿着Beauty of Joseon Green Plum Refreshing Cleanser软管。旁边有YesStyle标志、标题“第一次在 YesStyle下单？”和奖励码CECILIA010。",
@@ -42,6 +42,12 @@
       "slug": "yesstyle-reward-code-cecilia010-zh-hans"
     },
     {
+      "slug": "yesstyle-valid-coupon-guide-zh-hans"
+    },
+    {
+      "slug": "yesstyle-trust-guide-zh-hans"
+    },
+    {
       "slug": "yesstyle-app-reward-code-zh-hans"
     },
     {
@@ -52,26 +58,58 @@
     {
       "heading": "简要回答",
       "paragraphs": [
-        "在 YesStyle 首次下单时，CECILIA010 额外优惠 5%；之后的订单额外优惠 2%。它是奖励码，不是优惠券：要填在 Reward Code 栏位，与优惠券栏位分开。下单前，请先确认 YesStyle 是否配送到你所在的国家或地区。"
+        "在 YesStyle 首次下单，CECILIA010 填在 Reward Code 栏位，首单额外 5%（之后的订单 2%），并且可以与商店优惠券一起使用，优惠券填在 Coupon Code 栏位。活动优惠券见我们的 [YesStyle 优惠券](/zh-hans/coupons/yesstyle)页面；如果有账户专属优惠券，会出现在你的账户里：Account > Coupons。下单前，请先确认 YesStyle 是否配送到你所在的国家或地区。"
       ]
     },
     {
-      "heading": "YesStyle 首单：该用什么代码",
+      "heading": "YesStyle 首单：商店简介与该用什么",
       "paragraphs": [
-        "要在 YesStyle 下第一单？把 CECILIA010 填入 Reward Code 栏位。商店的说明是：首单 5%，之后的订单 2%。",
-        "在优惠券网站上找到的代码不一定能用。付款前请确认订单摘要中的折扣。使用条件见[YesStyle 奖励码](/zh-hans/coupons/yesstyle)页面。"
+        "YesStyle 是一家总部在香港的商店，2006 年上线，向 150 多个国家和地区销售韩国美妆、亚洲护肤品和时尚服饰。如果这是你的第一单，还不确定能不能放心，公司资料和退换规则见[YesStyle 可靠吗？](/zh-hans/reviews/yesstyle-trust-guide-zh-hans)。",
+        "首单的折扣可以来自两处：YesStyle 自家的优惠券（如果有适用于你订单的有效券），以及我们的奖励码 CECILIA010。使用该奖励码，商店说明首单额外 5%，之后的订单额外 2%。",
+        "从其他网站复制的代码可能已经过期：付款前，请先在订单摘要中确认折扣一行。"
       ]
     },
     {
-      "heading": "奖励码不是优惠券",
+      "heading": "优惠券 + Reward Code：同一订单两项折扣",
       "paragraphs": [
-        "结账页有两个代码栏位：优惠券栏位和 Reward Code 栏位。CECILIA010 是奖励码，填在 Reward Code，不占用优惠券栏位。"
+        "YesStyle 的结账页有两个代码栏位，各接受一种代码："
+      ],
+      "bullets": [
+        "**YesStyle 优惠券：** 填在 Coupon Code 栏位。每次活动都会变，有期限，通常要求最低消费。商店每单只接受一张。",
+        "**CECILIA010：** 填在 Reward Code 栏位。它是固定的，不随活动变化：首单额外 5%，之后的订单额外 2%。"
+      ],
+      "postParagraphs": [
+        "两个栏位是分开的，奖励码不会占用优惠券的位置。如果有适用于你订单的优惠券，两者会一起生效：付款前，请在订单摘要中确认两行折扣。",
+        "两者都在我们的 [YesStyle 优惠券](/zh-hans/coupons/yesstyle)页面：当前有效的优惠券（每次活动都会更新）和 CECILIA010。"
+      ]
+    },
+    {
+      "heading": "在哪里找到 YesStyle 优惠券",
+      "paragraphs": [
+        "活动优惠券通常只持续几天，所以下单时请确认有效期。请在这四个地方找："
+      ],
+      "bullets": [
+        "**我们的优惠券页面：** [YesStyle 优惠券](/zh-hans/coupons/yesstyle)页面显示当前活动的优惠券，已在官方网站核对，并标明期限。",
+        "**你的 YesStyle 账户：** 在英文界面的 App 里，点击 Account，再点击 Coupons。绑定你账户的专属优惠券会显示在这里，列表也可能是空的。",
+        "**你的邮箱：** YesStyle 会通过邮件发送优惠券，老顾客也可能收到专属优惠券。下单前请看一下收件箱和促销邮件。",
+        "**商店首页：** 网站和 App 通常会在横幅里显示当前活动的优惠券，代码可以直接复制。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp",
+        "alt": "YesStyle App 的三个界面：横幅显示活动优惠券的首页、带 Coupons 入口的 My Account 界面，以及账户里没有优惠券的 YesStyle Coupons 界面",
+        "caption": "Android 英文界面 App：首页横幅上的活动优惠券，以及 Account > Coupons 里的账户专属优惠券。这张截图里账户没有专属优惠券，活动优惠券的代码已遮住。",
+        "objectFit": "contain",
+        "aspectRatio": 1.5127
+      },
+      "postParagraphs": [
+        "活动优惠券和账户里的优惠券可能不同，每单只能用一张。如果有多张适用于你的购物车，请比较条件，选订单摘要里折扣最大的那张。如果结账时优惠券被拒绝，常见原因见[如何找到并搭配有效的 YesStyle 优惠券](/zh-hans/reviews/yesstyle-valid-coupon-guide-zh-hans)。"
       ]
     },
     {
       "heading": "第二单呢？",
       "paragraphs": [
-        "第二单起，CECILIA010 依然有效，额外优惠 2%。代码和栏位都不变，只有比例不同：首单 5%，之后 2%。"
+        "第二单起，CECILIA010 依然有效，额外优惠 2%。代码和栏位都不变，只有比例不同：首单 5%，之后 2%。",
+        "商店的优惠券是另一回事。可以再看看账户里的 Coupons 栏目和邮箱：老顾客可能收到专属优惠券，但并不是每单都有。"
       ]
     },
     {
@@ -82,13 +120,13 @@
       ]
     },
     {
-      "heading": "在哪里填入代码",
+      "heading": "分别在哪里填入代码",
       "paragraphs": [
-        "栏位名称会因页面不同而变化，两种方式如下："
+        "登录 YesStyle 账户后再应用代码。栏位名称会因页面不同而变化，两种方式如下："
       ],
       "bullets": [
-        "**网站：** 在结账页，栏位叫 Reward Code（奖励码）。输入 CECILIA010 并应用。",
-        "**App：** 点击 Enter Code，把代码填入 Influencer / Rewards Code 栏位，它位于 Coupon Code 下方。然后点击 Apply。"
+        "**网站：** 在结账页，商店优惠券（如果有）填在 Coupon Code。CECILIA010 填在另一个栏位 Reward Code（奖励码）。输入并应用。",
+        "**App：** 点击 Enter Code。商店优惠券（如果有）填在 Coupon Code，CECILIA010 填在它下方的 Influencer / Rewards Code 栏位。然后点击 Apply。"
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
@@ -105,6 +143,9 @@
       "heading": "常见问题",
       "bullets": [
         "有 YesStyle 首单代码吗？有：CECILIA010 首单额外 5%，之后的订单额外 2%，填在 Reward Code 栏位。",
+        "在哪里能找到当前有效的 YesStyle 优惠券？活动优惠券在我们的 [YesStyle 优惠券](/zh-hans/coupons/yesstyle)页面和商店横幅上。账户里的 Coupons 栏目和 YesStyle 的邮件可能有账户专属优惠券。",
+        "YesStyle 优惠券和 CECILIA010 能用于同一订单吗？可以，前提是优惠券符合条件：优惠券填在 Coupon Code 栏位，CECILIA010 填在 Reward Code。",
+        "老顾客会收到 YesStyle 优惠券吗？可能会，但没有保证：商店会通过邮件发送专属优惠券，账户的 Coupons 栏目会显示当前可用的优惠券。",
         "CECILIA010 第二单还能用吗？能，之后的订单额外 2%，首单则是 5%。",
         "CECILIA010 填在哪个栏位？填在 Reward Code，与优惠券栏位分开：它是奖励码。",
         "CECILIA010 在 App 里能用吗？能：在 Enter Code 界面，把代码填入 Influencer / Rewards Code 栏位。"

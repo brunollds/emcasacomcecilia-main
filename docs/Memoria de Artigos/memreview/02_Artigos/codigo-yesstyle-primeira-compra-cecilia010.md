@@ -243,3 +243,50 @@ A revisão dos 30 artigos da série (pasta `docs/auditoria-copy-artigos/pc-multi
 - **Alt (PT):** Modelo sorrindo com tubo Green Plum Refreshing Cleanser da Beauty of Joseon, em imagem promocional oficial, ao lado do logo YesStyle, da chamada “Primeira compra na YesStyle?” e do código de recompensa CECILIA010.
 - **Origem:** imagem promocional oficial com modelo e o Green Plum Refreshing Cleanser da Beauty of Joseon; não é a Cecília nem teste próprio, e o texto promocional do topo da fonte ficou fora. CECILIA010 é código de recompensa. Capa sem subtítulo; os rótulos dos códigos foram mantidos. Técnica de produção das imagens das lojas não determinada: sem afirmar foto real nem IA.
 - **Lote 46 do piloto de capas (sequência 16 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/46/revisao-terra/ADENDO-SEM-SUBTITULOS.json`):** aprovado pelo Bruno em 14/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-16-CLAUDE.zip` (`lotes/46/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/yesstyle/codigo-yesstyle-primeira-compra-cecilia010-capa.webp`) fica no CDN, sem uso como capa.
+
+## Revisão de 15/11/2026: onde achar o cupom (pedido do Bruno)
+
+O Bruno leu o artigo no ar e apontou: ficou pequeno e quem chega para a primeira compra entende o Reward Code, mas não
+vê onde achar o cupom da loja. A regra "nenhum benefício da própria loja" deste briefing muda neste ponto: o artigo
+passa a dizer **onde achar** o cupom da YesStyle, sem citar código nem percentual de cupom nenhum (o código atualizado
+fica só em `/cupons/yesstyle`).
+
+- **Capítulo 1** ("YesStyle primeira compra: a loja e o que usar") abre com uma apresentação curta da loja (Hong Kong,
+  desde 2006, mais de 150 países, dados do `yesstyle-e-confiavel`) e o link para o é confiável.
+- **Capítulo 2** ("Cupom + Reward Code: dois descontos no mesmo pedido") absorveu o antigo "Código de recompensa não é
+  cupom": os dois campos, um cupom por pedido, o CECILIA010 fixo, e o link para a página de cupons, onde está o cupom
+  em vigor.
+- **Capítulo novo** ("Onde achar o cupom da YesStyle"): nossa página de cupons, a seção de cupons da conta
+  (Account > Coupons), o e-mail (quem já é cliente pode receber cupons exclusivos) e o banner da loja. Link para o
+  `como-encontrar-cupons-yesstyle-validos`.
+- "E na segunda compra?" ganhou a frase dos cupons exclusivos de quem já é cliente; "Onde colar o código" virou "Onde
+  colar cada código" (cupom em Coupon Code, CECILIA010 em Reward Code); o FAQ foi de 4 para 7 perguntas.
+- Resposta rápida, `description` e `metaDescription` passaram a citar o cupom da loja. Título, `seoTitle`, slug e capa
+  não mudaram. Entrega ao Brasil: "suspensa temporariamente" (termo do Bruno).
+- Fontes: seção Coupons da conta e cupons exclusivos por e-mail são fato do Bruno (15/11); um cupom por pedido, nas
+  regras gerais de cupons da YesStyle (relidas em 15/11); soma do cupom com o Reward Code, na tabela de
+  `/cupons/yesstyle`.
+- As 9 versões seguem o PT (Sonnet 5.5 gerou, a sessão revisou), sem Brasil nem Portugal, com os links do idioma.
+- **Print do app (15/11):** `/images/reviews/yesstyle/yesstyle-app-onde-achar-cupom-1511.webp` (1732 × 1145, SHA-256
+  `97e467f366f4c984346f5433fa3a4ce9558f5b47881a4fa87bd2317495fe89d4`), no capítulo "Onde achar o cupom da YesStyle"
+  das 10 versões. Origem: três prints do Bruno no app Android em 15/11 (página inicial com o cupom da campanha no
+  banner, My Account com o atalho Coupons, YesStyle Coupons com a lista vazia), sem a barra de status e com o nome da
+  conta já coberto no original. Com os prints, o item da conta passou a dizer "no app, toque em Account e depois em
+  Coupons" e que a lista pode estar vazia. O código do cupom do dia, no banner, foi coberto a pedido do Bruno; a legenda avisa que o
+  código muda a cada campanha.
+
+### Parecer externo (Farol / ChatGPT), conferido em 15/11/2026
+
+Parecer em `docs/auditoria-copy-artigos/yesstyle-primeira-compra-20261115/revisao-farol/` (fora do git), conferido ponto
+a ponto e propagado aos 9 idiomas (Sonnet 5.5 gerou, a sessão revisou).
+
+- Entrou: o CECILIA010 "pode ser usado junto com um cupom da loja" (sem prometer dois descontos); cupom da campanha
+  (nossa página e banner) separado dos cupons pessoais (conta e e-mail), que podem ser diferentes; escolher o cupom pelo
+  maior desconto no resumo, não só pela compra mínima; "no app com a interface em inglês, toque em Account e depois em
+  Coupons" (saiu a frase sobre o site, sem confirmação); cupons exclusivos "não chegam em todo pedido"; entrar na conta
+  antes de aplicar os códigos; o subtítulo e a legenda da imagem propostos.
+- Recusado: inverter a ordem dos capítulos (a ordem é a pedida pelo Bruno: capítulo 2 com o benefício e o link da
+  página de cupons); cortar o FAQ de 7 para 5 ("Tem código YesStyle de primeira compra?" responde à busca); trocar o
+  texto do botão; tirar "costuma durar poucos dias" (as campanhas de `data/coupons/yesstyle.json` duram de 3 a 4 dias).
+- Meio-termo: o aviso de código de site de cupom (pedido do briefing) virou "Código copiado de outros sites pode estar
+  vencido: confira a linha do desconto no resumo antes de pagar."
