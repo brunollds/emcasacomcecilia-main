@@ -664,7 +664,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     reusable: 'Works on new purchases, for new customers and for those who already have a Hostinger account; renewals are not discounted',
     shipping: 'Does not apply',
     combinable:
-      "Works on top of Hostinger's Black Friday price (in our October 29, 2026 test, the 20% came off the sale price); stacking with other coupons has not been tested",
+      "Works on top of Hostinger's Black Friday price (in our November 14, 2026 test, the 20% came off the sale price); stacking with other coupons has not been tested",
     aboutBrand:
       'Hostinger is a web hosting company offering hosting plans, a website builder, VPS, domains and email. Em Casa com Cecília has run on Hostinger since 2024, as a Node.js app. SONAR20 is the partnership coupon: 20% off every plan, for new and existing customers.',
     brandLogoAlt: 'Hostinger logo',
@@ -672,7 +672,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Does the Hostinger coupon SONAR20 work today?',
         answer:
-          'Yes. In our October 29, 2026 test, SONAR20 took 20% off the 48-month Startup plan on Hostinger\'s global site. The date and the amounts of the test are in "How we tested the coupon", on this page.',
+          'Yes. In our November 14, 2026 test, SONAR20 took 20% off the 48-month Startup plan on Hostinger\'s global site. The date and the amounts of the test are in "How we tested the coupon", on this page.',
       },
       {
         question: 'Does SONAR20 work for existing Hostinger customers?',
@@ -707,7 +707,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Does the coupon work during Hostinger\'s Black Friday?',
         answer:
-          'Yes. In our October 29, 2026 test, the 20% from SONAR20 came off the Black Friday price Hostinger was already showing in the cart.',
+          'Yes. In our November 14, 2026 test, the 20% from SONAR20 came off the Black Friday price Hostinger was already showing in the cart.',
       },
       {
         question: 'Does the discount apply to renewals?',
@@ -725,7 +725,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           'Yes, a purchase with SONAR20 may earn Em Casa com Cecília a commission, at no extra cost to you.',
       },
     ],
-    testedAt: '2026-10-29',
+    testedAt: '2026-11-14',
     testNote:
       'We applied SONAR20 in the "Have a coupon code?" field of Hostinger\'s cart with the Startup plan, which the referral link does not cover. On the 48-month term, the total went from $383.52 to $306.82, $76.70 less: 20% on top of the Black Friday price Hostinger was already showing.',
     codeFieldLabel: 'Have a coupon code?',
@@ -754,7 +754,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     reusable: 'Funciona en compras nuevas, para clientes nuevos y para quienes ya tienen cuenta en Hostinger; la renovación no tiene descuento',
     shipping: 'No aplica',
     combinable:
-      'Funciona sobre el precio de Black Friday de Hostinger (en nuestra prueba del 29 de octubre de 2026, el 20% se aplicó sobre el precio de oferta); no se ha probado combinarlo con otros cupones',
+      'Funciona sobre el precio de Black Friday de Hostinger (en nuestra prueba del 14 de noviembre de 2026, el 20% se aplicó sobre el precio de oferta); no se ha probado combinarlo con otros cupones',
     aboutBrand:
       'Hostinger es una empresa de hosting web que ofrece planes de hosting, creador de sitios web, VPS, dominios y correo electrónico. Em Casa com Cecília funciona en Hostinger desde 2024, como aplicación Node.js. SONAR20 es el cupón de la colaboración: 20% de descuento en todos los planes, para clientes nuevos y actuales.',
     brandLogoAlt: 'Logotipo de Hostinger',
@@ -762,7 +762,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: '¿El cupón de Hostinger SONAR20 funciona hoy?',
         answer:
-          'Sí. En nuestra prueba del 29 de octubre de 2026, SONAR20 dio un 20% de descuento en el plan Startup de 48 meses en el sitio global de Hostinger. La fecha y los importes de la prueba están en "Cómo probamos el cupón", en esta página.',
+          'Sí. En nuestra prueba del 14 de noviembre de 2026, SONAR20 dio un 20% de descuento en el plan Startup de 48 meses en el sitio global de Hostinger. La fecha y los importes de la prueba están en "Cómo probamos el cupón", en esta página.',
       },
       {
         question: '¿SONAR20 funciona para clientes actuales de Hostinger?',
@@ -797,7 +797,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: '¿El cupón funciona durante el Black Friday de Hostinger?',
         answer:
-          'Sí. En nuestra prueba del 29 de octubre de 2026, el 20% de SONAR20 se aplicó sobre el precio de Black Friday que Hostinger ya mostraba en el carrito.',
+          'Sí. En nuestra prueba del 14 de noviembre de 2026, el 20% de SONAR20 se aplicó sobre el precio de Black Friday que Hostinger ya mostraba en el carrito.',
       },
       {
         question: '¿El descuento se aplica a las renovaciones?',
@@ -815,7 +815,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           'Sí, una compra con SONAR20 puede generar una comisión para Em Casa com Cecília, sin costo extra para ti.',
       },
     ],
-    testedAt: '2026-10-29',
+    testedAt: '2026-11-14',
     testNote:
       'Aplicamos SONAR20 en el campo "Have a coupon code?" del carrito de Hostinger con el plan Startup, que el enlace de referido no cubre. En el período de 48 meses, el total pasó de $383.52 a $306.82, $76.70 menos: el 20% sobre el precio de Black Friday que Hostinger ya mostraba.',
     codeFieldLabel: 'Have a coupon code?',
@@ -841,13 +841,13 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     validity: 'Code promo valable pendant toute la durée du partenariat',
     reusable: `Valable sur les nouveaux achats, pour les nouveaux clients et pour ceux qui ont déjà un compte Hostinger${NBSP}; pas de réduction sur le renouvellement`,
     shipping: 'Sans objet',
-    combinable: `S’applique en plus du prix Black Friday de Hostinger (lors de notre test du 29 octobre 2026, les 20${NBSP}% ont été appliqués au prix soldé)${NBSP}; le cumul avec d’autres codes promo n’a pas été testé`,
+    combinable: `S’applique en plus du prix Black Friday de Hostinger (lors de notre test du 14 novembre 2026, les 20${NBSP}% ont été appliqués au prix soldé)${NBSP}; le cumul avec d’autres codes promo n’a pas été testé`,
     aboutBrand: `Hostinger est un hébergeur web qui propose des offres d’hébergement, un créateur de site, des VPS, des noms de domaine et des e-mails. Em Casa com Cecília est hébergé chez Hostinger depuis 2024, en tant qu’application Node.js. SONAR20 est le code promo du partenariat${NBSP}: 20${NBSP}% de réduction sur chaque offre, pour les nouveaux clients et les clients existants.`,
     brandLogoAlt: 'Logo Hostinger',
     faqs: [
       {
         question: `Le code promo Hostinger SONAR20 fonctionne-t-il aujourd’hui${NBSP}?`,
-        answer: `Oui. Lors de notre test du 29 octobre 2026, SONAR20 a donné 20${NBSP}% de réduction sur l’offre Startup de 48 mois sur le site international de Hostinger. La date et les montants du test figurent dans «${NBSP}Comment nous avons testé le code promo${NBSP}», sur cette page.`,
+        answer: `Oui. Lors de notre test du 14 novembre 2026, SONAR20 a donné 20${NBSP}% de réduction sur l’offre Startup de 48 mois sur le site international de Hostinger. La date et les montants du test figurent dans «${NBSP}Comment nous avons testé le code promo${NBSP}», sur cette page.`,
       },
       {
         question: `SONAR20 fonctionne-t-il pour les clients existants de Hostinger${NBSP}?`,
@@ -877,7 +877,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       },
       {
         question: `Le code fonctionne-t-il pendant le Black Friday de Hostinger${NBSP}?`,
-        answer: `Oui. Lors de notre test du 29 octobre 2026, les 20${NBSP}% de SONAR20 se sont appliqués au prix Black Friday que Hostinger affichait déjà dans le panier.`,
+        answer: `Oui. Lors de notre test du 14 novembre 2026, les 20${NBSP}% de SONAR20 se sont appliqués au prix Black Friday que Hostinger affichait déjà dans le panier.`,
       },
       {
         question: `La réduction s’applique-t-elle aux renouvellements${NBSP}?`,
@@ -892,7 +892,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
         answer: 'Oui, un achat avec SONAR20 peut rapporter une commission à Em Casa com Cecília, sans frais supplémentaires pour vous.',
       },
     ],
-    testedAt: '2026-10-29',
+    testedAt: '2026-11-14',
     testNote: `Nous avons appliqué SONAR20 dans le champ "Have a coupon code${NBSP}?" du panier de Hostinger, avec l’offre Startup, que le lien de parrainage ne couvre pas. Sur la période de 48 mois, le total est passé de $383.52 à $306.82, soit $76.70 de moins${NBSP}: 20${NBSP}% sur le prix Black Friday que Hostinger affichait déjà.`,
     codeFieldLabel: 'Have a coupon code?',
     codeInstructions: [
@@ -917,13 +917,13 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     validity: 'Gutschein gültig, solange die Partnerschaft läuft',
     reusable: 'Gilt bei Neukäufen, für Neukunden und für alle, die bereits ein Hostinger-Konto haben; Verlängerungen sind nicht rabattiert',
     shipping: 'Entfällt',
-    combinable: `Gilt zusätzlich zum Black-Friday-Preis von Hostinger (beim Test am 29. Oktober 2026 wurden die 20${NBSP}% vom Aktionspreis abgezogen); die Kombination mit anderen Gutscheinen wurde nicht getestet`,
+    combinable: `Gilt zusätzlich zum Black-Friday-Preis von Hostinger (beim Test am 14. November 2026 wurden die 20${NBSP}% vom Aktionspreis abgezogen); die Kombination mit anderen Gutscheinen wurde nicht getestet`,
     aboutBrand: `Hostinger ist ein Webhosting-Anbieter mit Hosting-Tarifen, Website-Baukasten, VPS, Domains und E-Mail. Em Casa com Cecília läuft seit 2024 bei Hostinger als Node.js-Anwendung. SONAR20 ist der Partnergutschein: 20${NBSP}% Rabatt auf alle Tarife, für Neu- und Bestandskunden.`,
     brandLogoAlt: 'Hostinger-Logo',
     faqs: [
       {
         question: `Funktioniert der Gutschein SONAR20 heute?`,
-        answer: `Ja. Beim Test am 29. Oktober 2026 hat SONAR20 auf der globalen Hostinger-Seite 20${NBSP}% vom Tarif Startup mit 48 Monaten Laufzeit abgezogen. Das Datum und die Beträge des Tests stehen auf dieser Seite unter „So haben wir den Gutschein getestet“.`,
+        answer: `Ja. Beim Test am 14. November 2026 hat SONAR20 auf der globalen Hostinger-Seite 20${NBSP}% vom Tarif Startup mit 48 Monaten Laufzeit abgezogen. Das Datum und die Beträge des Tests stehen auf dieser Seite unter „So haben wir den Gutschein getestet“.`,
       },
       {
         question: `Gilt SONAR20 auch für bestehende Hostinger-Kunden?`,
@@ -953,7 +953,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       },
       {
         question: `Gilt der Gutschein während des Black Friday von Hostinger?`,
-        answer: `Ja. Beim Test am 29. Oktober 2026 wurden die 20${NBSP}% von SONAR20 auf den Black-Friday-Preis abgezogen, den Hostinger im Warenkorb schon anzeigte.`,
+        answer: `Ja. Beim Test am 14. November 2026 wurden die 20${NBSP}% von SONAR20 auf den Black-Friday-Preis abgezogen, den Hostinger im Warenkorb schon anzeigte.`,
       },
       {
         question: `Gilt der Rabatt auch bei Verlängerungen?`,
@@ -968,7 +968,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
         answer: 'Ja, ein Kauf mit SONAR20 kann Em Casa com Cecília eine Provision einbringen, ohne Mehrkosten für Sie.',
       },
     ],
-    testedAt: '2026-10-29',
+    testedAt: '2026-11-14',
     testNote: `Wir haben SONAR20 im Feld „Have a coupon code?“ im Warenkorb von Hostinger mit dem Tarif Startup angewendet, den der Empfehlungslink nicht abdeckt. Bei 48 Monaten Laufzeit sank die Summe von $383.52 auf $306.82, also $76.70 weniger: 20${NBSP}% auf den Black-Friday-Preis, den Hostinger schon anzeigte.`,
     codeFieldLabel: 'Have a coupon code?',
     codeInstructions: [
@@ -996,7 +996,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     reusable: 'Vale sui nuovi acquisti, per i nuovi clienti e per chi ha già un account Hostinger; il rinnovo non è scontato',
     shipping: 'Non applicabile',
     combinable:
-      'Vale in aggiunta al prezzo Black Friday di Hostinger (nel nostro test del 29 ottobre 2026 il 20% è stato applicato sul prezzo scontato); la combinazione con altri coupon non è stata testata',
+      'Vale in aggiunta al prezzo Black Friday di Hostinger (nel nostro test del 14 novembre 2026 il 20% è stato applicato sul prezzo scontato); la combinazione con altri coupon non è stata testata',
     aboutBrand:
       'Hostinger è un’azienda di web hosting che offre piani di hosting, website builder, VPS, domini ed e-mail. Em Casa com Cecília è ospitato su Hostinger dal 2024, come applicazione Node.js. SONAR20 è il coupon della partnership: 20% di sconto su ogni piano, per clienti nuovi ed esistenti.',
     brandLogoAlt: 'Logo di Hostinger',
@@ -1004,7 +1004,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Il coupon Hostinger SONAR20 funziona oggi?',
         answer:
-          'Sì. Nel nostro test del 29 ottobre 2026, SONAR20 ha dato il 20% di sconto sul piano Startup da 48 mesi sul sito globale di Hostinger. La data e gli importi del test sono in "Come abbiamo testato il coupon", su questa pagina.',
+          'Sì. Nel nostro test del 14 novembre 2026, SONAR20 ha dato il 20% di sconto sul piano Startup da 48 mesi sul sito globale di Hostinger. La data e gli importi del test sono in "Come abbiamo testato il coupon", su questa pagina.',
       },
       {
         question: 'SONAR20 vale per i clienti Hostinger già esistenti?',
@@ -1039,7 +1039,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Il coupon funziona durante il Black Friday di Hostinger?',
         answer:
-          'Sì. Nel nostro test del 29 ottobre 2026, il 20% di SONAR20 è stato applicato sul prezzo Black Friday che Hostinger già mostrava nel carrello.',
+          'Sì. Nel nostro test del 14 novembre 2026, il 20% di SONAR20 è stato applicato sul prezzo Black Friday che Hostinger già mostrava nel carrello.',
       },
       {
         question: 'Lo sconto vale anche per i rinnovi?',
@@ -1057,7 +1057,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           'Sì, un acquisto con SONAR20 può far guadagnare a Em Casa com Cecília una commissione, senza costi extra per te.',
       },
     ],
-    testedAt: '2026-10-29',
+    testedAt: '2026-11-14',
     testNote:
       'Abbiamo applicato SONAR20 nel campo "Have a coupon code?" del carrello di Hostinger con il piano Startup, che il link di referral non copre. Con la durata di 48 mesi il totale è passato da $383.52 a $306.82, $76.70 in meno: il 20% sul prezzo Black Friday che Hostinger mostrava già.',
     codeFieldLabel: 'Have a coupon code?',
@@ -1086,7 +1086,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     reusable: '신규 구매 시 신규 고객과 이미 Hostinger 계정이 있는 고객 모두 사용 가능(갱신은 할인 없음)',
     shipping: '해당 없음',
     combinable:
-      'Hostinger의 블랙 프라이데이 가격에 추가로 적용됩니다(2026년 10월 29일 테스트에서 20%는 할인가에 적용됨). 다른 쿠폰과의 중복 사용은 테스트하지 않았습니다',
+      'Hostinger의 블랙 프라이데이 가격에 추가로 적용됩니다(2026년 11월 14일 테스트에서 20%는 할인가에 적용됨). 다른 쿠폰과의 중복 사용은 테스트하지 않았습니다',
     aboutBrand:
       'Hostinger는 웹 호스팅 회사로, 호스팅 요금제, 웹사이트 빌더, VPS, 도메인, 이메일을 제공합니다. Em Casa com Cecília는 2024년부터 Node.js 애플리케이션으로 Hostinger에서 운영 중입니다. SONAR20은 파트너십 쿠폰으로, 모든 요금제에서 20% 할인되며 신규 및 기존 고객이 사용할 수 있습니다.',
     brandLogoAlt: 'Hostinger 로고',
@@ -1094,7 +1094,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Hostinger 쿠폰 SONAR20은 지금도 작동하나요?',
         answer:
-          '네. 2026년 10월 29일 테스트에서 SONAR20은 Hostinger 글로벌 사이트의 48개월 Startup 요금제에 20% 할인을 적용했습니다. 테스트 날짜와 금액은 이 페이지의 "쿠폰 테스트 방법"에 있습니다.',
+          '네. 2026년 11월 14일 테스트에서 SONAR20은 Hostinger 글로벌 사이트의 48개월 Startup 요금제에 20% 할인을 적용했습니다. 테스트 날짜와 금액은 이 페이지의 "쿠폰 테스트 방법"에 있습니다.',
       },
       {
         question: 'SONAR20은 기존 Hostinger 고객도 쓸 수 있나요?',
@@ -1129,7 +1129,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: '쿠폰은 Hostinger 블랙 프라이데이 기간에도 적용되나요?',
         answer:
-          '네. 2026년 10월 29일 테스트에서 SONAR20의 20%는 장바구니에 이미 표시된 블랙 프라이데이 가격에 적용되었습니다.',
+          '네. 2026년 11월 14일 테스트에서 SONAR20의 20%는 장바구니에 이미 표시된 블랙 프라이데이 가격에 적용되었습니다.',
       },
       {
         question: '할인은 갱신에도 적용되나요?',
@@ -1147,7 +1147,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           '네. SONAR20으로 구매하면 추가 비용 없이 Em Casa com Cecília가 수수료를 받을 수 있습니다.',
       },
     ],
-    testedAt: '2026-10-29',
+    testedAt: '2026-11-14',
     testNote:
       '장바구니에서 Hostinger의 Startup 요금제에 SONAR20을 "Have a coupon code?" 입력란에 적용했습니다. 추천 링크로는 적용되지 않는 요금제입니다. 48개월 기간에서 총액은 $383.52에서 $306.82로, $76.70 줄었습니다. Hostinger가 이미 보여 주던 블랙 프라이데이 가격에 20%가 추가로 적용된 금액입니다.',
     codeFieldLabel: 'Have a coupon code?',
@@ -1176,7 +1176,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     reusable: '新規購入なら、新規のお客様にも、すでにHostingerのアカウントをお持ちの方にも使えます（更新は割引なし）',
     shipping: '該当なし',
     combinable:
-      'Hostingerのブラックフライデー価格にさらに適用されます（2026年10月29日のテストでは、20%はセール価格から割り引かれました）。他のクーポンとの併用はテストしていません',
+      'Hostingerのブラックフライデー価格にさらに適用されます（2026年11月14日のテストでは、20%はセール価格から割り引かれました）。他のクーポンとの併用はテストしていません',
     aboutBrand:
       'Hostingerは、ホスティングプラン、Webサイトビルダー、VPS、ドメイン、メールを提供するWebホスティング会社です。Em Casa com CecíliaはNode.jsアプリとして2024年からHostingerで運営しています。SONAR20はパートナーシップのクーポンで、すべてのプランが20%オフになり、新規・既存の顧客が利用できます。',
     brandLogoAlt: 'Hostingerのロゴ',
@@ -1184,7 +1184,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Hostingerのクーポン SONAR20 は今も使えますか？',
         answer:
-          'はい。2026年10月29日のテストでは、SONAR20はHostingerのグローバルサイトで48か月のStartupプランを20%オフにしました。テストの日付と金額は、このページの「クーポンのテスト方法」に載っています。',
+          'はい。2026年11月14日のテストでは、SONAR20はHostingerのグローバルサイトで48か月のStartupプランを20%オフにしました。テストの日付と金額は、このページの「クーポンのテスト方法」に載っています。',
       },
       {
         question: 'SONAR20は既存のHostinger顧客も使えますか？',
@@ -1219,7 +1219,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Hostingerのブラックフライデー期間中もクーポンは使えますか？',
         answer:
-          'はい。2026年10月29日のテストでは、SONAR20の20%は、カートにすでに表示されていたブラックフライデー価格から割り引かれました。',
+          'はい。2026年11月14日のテストでは、SONAR20の20%は、カートにすでに表示されていたブラックフライデー価格から割り引かれました。',
       },
       {
         question: '更新時の料金にも割引は適用されますか？',
@@ -1237,7 +1237,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           'はい。SONAR20での購入は、追加費用なしにEm Casa com Cecíliaへの紹介料が発生する場合があります。',
       },
     ],
-    testedAt: '2026-10-29',
+    testedAt: '2026-11-14',
     testNote:
       '「Have a coupon code?」欄にSONAR20を入力し、Hostingerのカートで Startup プランに適用しました。このプランは紹介リンクの対象外です。48か月の期間で合計は$383.52から$306.82になり、$76.70安くなりました。Hostingerがすでに表示していたブラックフライデー価格からさらに20%割り引かれています。',
     codeFieldLabel: 'Have a coupon code?',
@@ -1266,7 +1266,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     reusable: '新購買時，新客與已有 Hostinger 帳戶的客戶皆適用（續約不打折）',
     shipping: '不適用',
     combinable:
-      '可疊加在 Hostinger 的黑色星期五價格上（在 2026 年 10 月 29 日的測試中，20% 是在特價上再打折）；與其他優惠碼併用尚未測試',
+      '可疊加在 Hostinger 的黑色星期五價格上（在 2026 年 11 月 14 日的測試中，20% 是在特價上再打折）；與其他優惠碼併用尚未測試',
     aboutBrand:
       'Hostinger 是一家網站主機公司，提供主機方案、網站建置工具、VPS、網域與電子郵件。Em Casa com Cecília 自 2024 年起以 Node.js 應用程式架設在 Hostinger 上。SONAR20 是合作優惠碼：所有方案享 20% 折扣，新客與既有客戶皆可使用。',
     brandLogoAlt: 'Hostinger 標誌',
@@ -1274,7 +1274,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Hostinger 優惠碼 SONAR20 現在還能用嗎？',
         answer:
-          '可以。在 2026 年 10 月 29 日的測試中，SONAR20 在 Hostinger 全球網站為 48 個月期的 Startup 方案打了 20% 折扣。測試日期與金額請見本頁的「我們如何測試優惠碼」。',
+          '可以。在 2026 年 11 月 14 日的測試中，SONAR20 在 Hostinger 全球網站為 48 個月期的 Startup 方案打了 20% 折扣。測試日期與金額請見本頁的「我們如何測試優惠碼」。',
       },
       {
         question: 'SONAR20 適用於既有的 Hostinger 客戶嗎？',
@@ -1309,7 +1309,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Hostinger 黑色星期五期間也能用嗎？',
         answer:
-          '可以。在 2026 年 10 月 29 日的測試中，SONAR20 的 20% 是疊加在購物車裡已顯示的黑色星期五價格上。',
+          '可以。在 2026 年 11 月 14 日的測試中，SONAR20 的 20% 是疊加在購物車裡已顯示的黑色星期五價格上。',
       },
       {
         question: '折扣也適用於續約嗎？',
@@ -1327,7 +1327,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           '會。使用 SONAR20 購買，可能讓 Em Casa com Cecília 獲得佣金，你不需要額外付費。',
       },
     ],
-    testedAt: '2026-10-29',
+    testedAt: '2026-11-14',
     testNote:
       '我們在 Hostinger 購物車的「Have a coupon code?」欄位套用 SONAR20，方案為 Startup，推薦連結並不涵蓋此方案。48 個月期的總額從 $383.52 降到 $306.82，少了 $76.70：也就是在 Hostinger 已顯示的黑色星期五價格上再打 20%。',
     codeFieldLabel: 'Have a coupon code?',
@@ -1356,7 +1356,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     reusable: '新购买时，新客户和已拥有 Hostinger 账户的客户均可使用（续费不打折）',
     shipping: '不适用',
     combinable:
-      '可叠加在 Hostinger 的黑色星期五价格上（在 2026 年 10 月 29 日的测试中，20% 是在促销价基础上再打折）；与其他优惠码叠加尚未测试',
+      '可叠加在 Hostinger 的黑色星期五价格上（在 2026 年 11 月 14 日的测试中，20% 是在促销价基础上再打折）；与其他优惠码叠加尚未测试',
     aboutBrand:
       'Hostinger 是一家网站主机公司，提供主机套餐、建站工具、VPS、域名和电子邮箱。Em Casa com Cecília 自 2024 年起以 Node.js 应用运行在 Hostinger 上。SONAR20 是合作优惠码：所有套餐享 20% 折扣，新客户和现有客户均可使用。',
     brandLogoAlt: 'Hostinger 标志',
@@ -1364,7 +1364,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Hostinger 优惠码 SONAR20 现在还能用吗？',
         answer:
-          '可以。在 2026 年 10 月 29 日的测试中，SONAR20 在 Hostinger 全球网站为 48 个月期的 Startup 套餐打了 20% 折扣。测试日期与金额请见本页的“我们如何测试优惠码”。',
+          '可以。在 2026 年 11 月 14 日的测试中，SONAR20 在 Hostinger 全球网站为 48 个月期的 Startup 套餐打了 20% 折扣。测试日期与金额请见本页的“我们如何测试优惠码”。',
       },
       {
         question: 'SONAR20 适用于现有的 Hostinger 客户吗？',
@@ -1399,7 +1399,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Hostinger 黑色星期五期间也能用吗？',
         answer:
-          '可以。在 2026 年 10 月 29 日的测试中，SONAR20 的 20% 是叠加在购物车里已显示的黑色星期五价格上。',
+          '可以。在 2026 年 11 月 14 日的测试中，SONAR20 的 20% 是叠加在购物车里已显示的黑色星期五价格上。',
       },
       {
         question: '折扣也适用于续费吗？',
@@ -1417,7 +1417,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           '会。使用 SONAR20 购买，可能为 Em Casa com Cecília 带来佣金，你无需额外付费。',
       },
     ],
-    testedAt: '2026-10-29',
+    testedAt: '2026-11-14',
     testNote:
       '我们在 Hostinger 购物车的「Have a coupon code?」栏应用了 SONAR20，套餐为 Startup，推荐链接并不涵盖该套餐。48 个月期的总额从 $383.52 降到 $306.82，少了 $76.70：也就是在 Hostinger 已显示的黑色星期五价格上再打 20%。',
     codeFieldLabel: 'Have a coupon code?',

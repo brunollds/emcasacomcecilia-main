@@ -3596,10 +3596,10 @@ const STORE_COUPONS: Coupon[] = [
     paymentPerks: [
       'O total do plano pode ser dividido em até 12 parcelas no cartão',
     ],
-    lastVerified: '2026-11-12',
+    lastVerified: '2026-11-14',
     testedAt: '2026-11-12',
     testNote:
-      'Aplicamos o SONAR20 no campo "Tem um cupom de desconto?" do carrinho da Hostinger com o plano Single de 48 meses: o total foi de R$ 287,52 para R$ 230,02, R$ 57,50 a menos, 20% sobre o preço de Black Friday que a Hostinger já mostrava. Em 07/11/2026, com o plano Startup, que não entra no link de indicação, o período de 48 meses foi de R$ 1.919,52 para R$ 1.535,62 e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, em dólar, no teste de 29/10/2026, o mesmo plano Startup de 48 meses caiu de US$ 383,52 para US$ 306,82.',
+      'Aplicamos o SONAR20 no campo "Tem um cupom de desconto?" do carrinho da Hostinger com o plano Single de 48 meses: o total foi de R$ 287,52 para R$ 230,02, R$ 57,50 a menos, 20% sobre o preço de Black Friday que a Hostinger já mostrava. Em 07/11/2026, com o plano Startup, que não entra no link de indicação, o período de 48 meses foi de R$ 1.919,52 para R$ 1.535,62 e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, em dólar, no teste de 14/11/2026, o mesmo plano Startup de 48 meses caiu de US$ 383,52 para US$ 306,82, os mesmos valores do teste de 29/10/2026.',
     codeFieldLabel: 'Tem um cupom de desconto?',
     codeInstructions: [
       'Copie o código SONAR20 no card acima.',
