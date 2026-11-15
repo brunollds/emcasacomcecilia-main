@@ -8,6 +8,31 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## Três sementes do Bruno: kits La Ganexa, Bagaggio ou Sestini e areia na Petz (15/11/2026)
+
+Sementes em formato de pré-briefing, recebidas em 15/11. Autocompletar de google.com.br e primeira página do Google lidos no mesmo dia.
+
+### Bagaggio ou Sestini (virou a G9, com briefing)
+
+- **Autocompletar:** "bagaggio ou sestini", "bagaggio ou sestini qual o melhor", "mala bagaggio ou sestini", "qual melhor mala bagaggio ou sestini"; pelo outro lado, "sestini ou bagaggio qual o melhor". É o primeiro par sugerido para "bagaggio ou " e para "sestini ou ". "sestini é boa" tem dez sugestões.
+- **Primeira página:** top-malas.com com o título exato; o resto é Reclame Aqui, lista de marcas, as duas lojas e comparação de franquias.
+- **Conclusão:** o sinal mais forte das três e a que tem menos concorrência. Fatos em [[bagaggio-ou-sestini-fatos-1511]].
+
+### Kits da La Ganexa (estoque, LG8)
+
+- **Autocompletar:** "kit la ganexa", "kit degustação la ganexa", "kit pasta de amendoim la ganexa", "la ganexa kit degustação", "pasta de amendoim la ganexa kit degustação". "combo la ganexa" e "kit doce de leite la ganexa" não têm sugestão.
+- **Primeira página de "kit la ganexa":** a própria loja (coleção Kits e os kits de degustação), Shopee e Mercado Livre. Nenhum texto de terceiro.
+- **Catálogo (`/products.json`, 15/11):** 133 produtos, 76 deles kit, combo ou degustação: 34 "Kit N" (Kit 2 Doce de Leite Zero 400 g a R$ 127,99; Kit 2 Brigadeiro de Colher 250 g a R$ 83,99; Kit 2 Pastas sabor Leitinho 450 g a R$ 102,99), 22 combos (pasta mais alfajores, de R$ 149,99 a R$ 193,99 nos lidos), 10 de degustação (4 sabores a R$ 99,99; Pasta de Amendoim 6 sabores a R$ 139,99; Alfajores 6 sabores a R$ 79,50; Suspiros 5 sabores a R$ 59,95) e 10 outros ("com Você!", Café da Manhã).
+- **Conclusão:** a busca pede o kit de degustação, não a conta de kit contra avulso. O recorte proposto é "Kit degustação La Ganexa: o que vem, quanto sai cada pote e se o CECILIA entra", com a conta de kit contra avulso como capítulo. Testar o cupom nos 76 kits não cabe: o teste vai por família (um Kit N de cada linha, um combo, um de degustação, um "com Você!"). O único teste registrado é o do Kit 2 Doce de Leite, de 13/11 ([[la-ganexa-fatos-1311]]). O catálogo pela linha de comando devolveu limite de requisições; a leitura foi pelo Chrome.
+
+### Areia para gato na Petz (estoque, PZ11)
+
+- **Autocompletar:** "areia para gato petz" (biodegradável, pipicat, marca petz, mandioca, 12kg, katbom, 10kg, viva verde); "areia petz" (milho e mandioca, "milho e mandioca é boa", ultra absorção, "ultra absorção é boa", alergia, "é boa"); "viva verde ou " (meau, cansei de ser gato, katbom, catbio, pipicat, "grãos finos ou grossos"); "melhor areia para gatos" (custo benefício, que não deixa cheiro, de apartamento, biodegradável, barata); "qual areia de gato rende mais".
+- **Primeira página:** "areia para gato petz" é toda da Petz (categoria e blog). "melhor areia para gatos custo benefício" tem Reddit duas vezes, blog da Cobasi, empirepet, my-best, Petlove e blog da Petz. "areia viva verde ou pipicat" tem Reddit, YouTube e melhores.com.
+- **Conclusão:** é a PZ11 do estoque de 11/11. A busca tem duas portas: a areia da marca Petz ("é boa") e o custo-benefício entre marcas. O recorte da semente (custo por quilo, composição e rótulo, sem "qual rende mais") serve às duas. Na leitura de 11/11 a Pipicat Classic 4 kg estava em oferta, e o EMCASA não soma com oferta: a tabela precisa de três colunas (oferta, cheio com o EMCASA e Retire na Loja). Petz só pelo Chrome.
+
+---
+
 ## Haier e a air fryer com espeto giratório (14/11/2026)
 
 - **Pedido do Bruno:** a Cecília tem uma air fryer da Haier e publicou um vídeo de primeiras impressões; a marca não é parceira, mas pode vir a ser. Dois artigos ligados, com E-E-A-T: apresentação da marca e primeiras impressões, com links de afiliado de marketplace.
