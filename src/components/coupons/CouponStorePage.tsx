@@ -276,7 +276,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
     : [];
   const videosCopy = copy.videos;
   const cartPrint = coupon.cartPrint ?? null;
-  const videos = videosCopy && coupon.videos?.length ? coupon.videos : null;
+  const videos = coupon.videos?.length ? coupon.videos : null;
   // O mês da oferta pelo calendário: do dia 20 em diante já vale o mês seguinte.
   const highlightDate = getCurrentOfferMonthDate();
   const highlightMonthYear = `${highlightDate.toLocaleDateString(copy.dateLocale, {
@@ -624,7 +624,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
             </section>
           )}
 
-          {videosCopy && videos && (
+          {videos && (
             <section aria-labelledby="videos">
               <SectionHeading id="videos">{videosCopy.title}</SectionHeading>
               <ul className="mt-5 grid gap-2.5 md:grid-cols-2">

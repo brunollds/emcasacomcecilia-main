@@ -323,7 +323,7 @@ compra de fora) e qual link vale fora do português. Sem essa resposta, a loja e
    textos dos 9 idiomas e, se a loja tiver um diferente do brasileiro, o link internacional em `offerUrl`. Loja com faixas
    (`tiers`) não aceita tradução. Na loja de código, a `CODE_FIELD_POLICY` decide o que herda do PT.
 3. Textos: a sessão escreve o português, o Sonnet gera os 9 idiomas e a sessão revisa. Nenhum texto fora do PT cita o
-   Brasil; alemão com "Sie"; francês com espaço sem quebra (NBSP) antes de `:`, `;`, `?` e `%`.
+   Brasil; alemão com "du" nas páginas de loja, como o resto delas (Bruno, 15/11/2026; os artigos seguem com "Sie"); francês com espaço sem quebra (NBSP) antes de `:`, `;`, `?` e `%`.
 4. Só com a confirmação do Bruno de que a loja corrige o link e o código para a região do visitante, nos links que a
    parceria usa (e de que a oferta vale para quem compra de fora), pôr o slug em `INTERNATIONAL_STORES`
    (`src/lib/storeBanners.ts`). Essa lista libera link de um país só nas campanhas dos 10 idiomas, e ter link internacional
@@ -335,8 +335,9 @@ compra de fora) e qual link vale fora do português. Sem essa resposta, a loja e
    abre (o global, não o brasileiro): as linhas da tabela vêm de teste ou regra lida nesse site, e o print é uma captura
    dele em inglês, sem login e sem concluir compra, em arquivo `-en.webp` (um só para os nove idiomas, com o alt de cada
    um; na loja de link, também a legenda própria). Se a loja tem o artigo do passo a passo nos 10 idiomas, pôr o print
-   também no artigo e o `article` de cada idioma na tradução, para a página ganhar o link. "Vantagens além do cupom",
-   "Por que o cupom não funcionou?" e "Vídeos" seguem só em português. Registrar no dossiê a data, o site, a moeda e
+   também no artigo e o `article` de cada idioma na tradução, para a página ganhar o link. Os vídeos seguem a mesma regra: a seção sai no idioma
+   se a tradução trouxer `videos`, com o título no idioma; os do PT não passam. "Vantagens além do cupom" e "Por que o
+   cupom não funcionou?" seguem só em português. Registrar no dossiê a data, o site, a moeda e
    as condições de cada evidência.
 6. Rodar `npm run typecheck`, `npm run test:coupon-translations`, `npm run test:locale-home` e o `npm run build`.
 
