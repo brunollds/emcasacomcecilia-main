@@ -90,8 +90,9 @@ e "como é o atendimento", e opina só sobre a air fryer, que foi o que a Cecíl
 - **Sem veredito sobre a marca.** Nada de "é confiável", "pode comprar sem medo" nem o contrário. Sem nota e sem
   estrelas.
 - **"Chinesa" e a sede:** as reportagens chamam a Haier de chinesa, e a página oficial lida diz "fundada em 1984",
-  sem a cidade (relida em 14/11: `haier.com/br-pt/about-haier/` também não cita). Qingdao só entra com fonte lida na
-  semana do texto.
+  sem a cidade (relida em 14/11: `haier.com/br-pt/about-haier/` também não cita). O manual da air fryer dá o
+  endereço do fabricante, uma empresa do grupo, em Qingdao, na província de Shandong (ficha, seção 8): dá para
+  escrever "de Qingdao, na China", com o manual como fonte. "Sede do grupo" só com fonte lida.
 - **Números da empresa sempre com atribuição e data:** ranking da Euromonitor (16 anos seguidos em grandes
   eletrodomésticos, segundo a Haier), receita de US$ 55,9 bilhões em 2024, 163 fábricas, mais de 130 mil
   funcionários ("dados de junho de 2025", na página da empresa). Escolher dois ou três; não despejar a lista.
