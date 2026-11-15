@@ -2948,7 +2948,8 @@ for (const { pagePath, store } of couponStorePages) {
     assert.ok(!method.includes('href="/contato"'), `${pagePath}: o canal de aviso voltou para "Como testamos o cupom"`);
   }
   // "O que acumula" (só com linhas no dado do idioma) e o print (só com o print do idioma) saem em todo idioma. Só em
-  // português: "Por que o cupom não funcionou?" (toda loja de código), "Vantagens além do cupom" e "Vídeos".
+  // português: "Por que o cupom não funcionou?" (toda loja de código) e "Vantagens além do cupom". "Vídeos" sai em todo
+  // idioma em que a loja tem vídeo cadastrado.
   {
     const isPortuguese = pagePath.startsWith('/cupons/');
     const isCode = store!.offerMode === 'discount-code';
@@ -3005,7 +3006,7 @@ for (const { pagePath, store } of couponStorePages) {
         assert.ok(!howTo.includes(encodeURIComponent(print.src)) && !howTo.includes(`"${print.src}"`), `${pagePath}: o print saiu com o caminho local`);
       }
     }
-    const videos = isPortuguese ? (store!.videos ?? []) : [];
+    const videos = store!.videos ?? [];
     assert.equal(at('videos') !== -1, videos.length > 0, `${pagePath}: seção de vídeos fora da regra`);
     if (videos.length > 0) {
       const section = between(body, 'aria-labelledby="videos"', ['</section>']);

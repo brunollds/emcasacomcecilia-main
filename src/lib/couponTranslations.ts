@@ -6,6 +6,7 @@ import {
   type CouponFAQ,
   type CouponReferral,
   type StackingRow,
+  type StoreVideo,
 } from './couponsData';
 import { LOCALE_KEYS, type Locale } from './i18n/locales';
 
@@ -35,6 +36,9 @@ type OfferTranslationBase = {
   aboutBrand: string;
   brandLogoAlt: string;
   faqs: CouponFAQ[];
+  // Os vídeos que a página do idioma mostra, com o título no idioma. Os do PT não passam para outro idioma: sem
+  // este campo, a página fica sem a seção.
+  videos?: StoreVideo[];
   // Só na loja com código de indicação e campanhas no cupom em PT (a SHEIN).
   referral?: Pick<CouponReferral, 'label' | 'instructions'>;
 };
@@ -1562,8 +1566,8 @@ export const CODE_FIELD_POLICY = {
   featured: 'pt',
   featuredPitch: 'drop',
   relatedContent: 'drop',
-  // A seção de vídeos só existe em PT.
-  videos: 'drop',
+  // Os vídeos do PT não passam para outro idioma: valem os da tradução, com o título no idioma.
+  videos: 'translate',
   // O print do PT é do site brasileiro: fora do PT vale o do site global, que a tradução traz.
   cartPrint: 'translate',
   monthlyHighlight: 'translate',
@@ -1635,9 +1639,14 @@ export function getTranslatedCouponRoutes() {
   return getTranslatedCouponSlugs().flatMap((slug) => TRANSLATED_LOCALES.map((locale) => ({ locale, slug })));
 }
 
+// A tradução de uma loja, para os testes montarem variações dela.
+export function getCouponTranslation(slug: string): CouponTranslation | undefined {
+  return COUPON_TRANSLATIONS[slug];
+}
+
 export function getLocalizedCoupon(slug: string, locale: TranslatedLocale): Coupon | undefined {
   const coupon = getCouponBySlug(slug);
-  const translation = COUPON_TRANSLATIONS[slug];
+  const translation = getCouponTranslation(slug);
   if (!coupon || !translation) return undefined;
   return localizeCoupon(coupon, translation, locale);
 }
@@ -1660,8 +1669,8 @@ export function localizeCoupon(coupon: Coupon, translation: CouponTranslation, l
   };
 
   if (coupon.offerMode === 'affiliate-link' && translation.offerMode === 'affiliate-link') {
-    // O print do PT e a legenda dele não passam para o idioma: vale o da tradução, ou nenhum.
-    return { ...coupon, ...translation.locales[locale], ...shared, monthlyHighlight: undefined, cartPrint: translation.locales[locale].cartPrint };
+    // O print, a legenda dele e os vídeos do PT não passam para o idioma: valem os da tradução, ou nenhum.
+    return { ...coupon, ...translation.locales[locale], ...shared, monthlyHighlight: undefined, cartPrint: text.cartPrint, videos: text.videos };
   }
   if (coupon.offerMode === 'discount-code' && translation.offerMode === 'discount-code') {
     // As faixas trazem valores em R$ e o aviso do Magazine Você, que só existem em PT.

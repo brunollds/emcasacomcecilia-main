@@ -495,10 +495,10 @@ vídeo, primeiras impressões e uso noturno.
   (na Hostinger, o global) e o print desse site em inglês (`-en.webp`), com o alt do idioma; o `article` da tradução dá o link do passo a
   passo no idioma da página (na Hostinger o print é uma imagem desse artigo, com o mesmo alt);
   sem eles, a página do idioma fica sem a tabela e sem o print. O print do PT nunca passa para outro idioma.
-- Duas seções só existem em português (o texto fica só no `pt` de `couponStoreCopy.tsx`): "Por que o cupom não
-  funcionou?" (`#nao-funcionou`, depois de "Como testamos o cupom", em toda loja de código, com o canal de aviso
-  no `/contato`) e "Vídeos" (`#videos`, antes das perguntas, só quando a loja tem `videos`; cada um abre na rede,
-  sem player nem script de terceiros). O `test:coupon-offer-modes` confere os dados do PT, o
+- "Vídeos" (`#videos`, antes das perguntas, só quando a loja tem `videos`; cada um abre na rede, sem player nem
+  script de terceiros) sai em todo idioma: fora do PT, só com os `videos` da tradução, com o título no idioma (os do
+  PT nunca passam). "Por que o cupom não funcionou?" (`#nao-funcionou`, depois de "Como testamos o cupom", em toda
+  loja de código, com o canal de aviso no `/contato`) só existe em português. O `test:coupon-offer-modes` confere os dados do PT, o
   `test:coupon-translations`, os dos outros idiomas, e o `test:build-output`, a presença e o lugar de cada seção.
 - "Vantagens além do cupom" (`#vantagens`, entre "Por que o cupom não funcionou?" e "Sobre a loja"), também só em
   português: aparece na loja com `paymentPerks` (o parcelamento que a loja publica) e junta a ele o Pix, o frete

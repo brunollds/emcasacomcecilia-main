@@ -59,8 +59,8 @@ export type CouponStoreCopy = {
   perks?: { title: string; groups: { payment: string; shipping: string } };
   // O print do carrinho no fim de "Como usar": é exemplo, não o teste do mês.
   cartPrint: { caption: string; stepsLabel: string };
-  // "Vídeos" (#videos), só em português: cada vídeo abre na rede em que foi publicado, em nova aba.
-  videos?: { title: string; platforms: Record<StoreVideoPlatform, string>; watchOn: (platform: string) => string; newTab: string };
+  // "Vídeos" (#videos): cada vídeo abre na rede em que foi publicado, em nova aba.
+  videos: { title: string; platforms: Record<StoreVideoPlatform, string>; watchOn: (platform: string) => string; newTab: string };
   // "Por que o cupom não funcionou?" (#nao-funcionou), só em português: três causas e o canal de aviso no /contato.
   failed?: {
     title: string;
@@ -318,6 +318,12 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       rulesPointer: 'See what stacks with the coupon',
     },
     cartPrint: { caption: 'Example of the code applied in the cart. Values change depending on the order.', stepsLabel: 'See the step-by-step with images' },
+    videos: {
+      title: 'Videos',
+      platforms: { youtube: 'YouTube', instagram: 'Instagram', tiktok: 'TikTok', facebook: 'Facebook' },
+      watchOn: (platform) => `Watch on ${platform}`,
+      newTab: 'opens in a new tab',
+    },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>
         `Updated ${brand} ${offerType}: ${code} — ${discount} ${scope} (${monthYear}).`,
@@ -435,6 +441,12 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       rulesPointer: 'Mira qué se acumula con el cupón',
     },
     cartPrint: { caption: 'Ejemplo del código aplicado en el carrito. Los valores cambian según el pedido.', stepsLabel: 'Mira el paso a paso con imágenes' },
+    videos: {
+      title: 'Vídeos',
+      platforms: { youtube: 'YouTube', instagram: 'Instagram', tiktok: 'TikTok', facebook: 'Facebook' },
+      watchOn: (platform) => `Ver en ${platform}`,
+      newTab: 'se abre en una pestaña nueva',
+    },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>
         `${capitalize(offerType)} ${brand} actualizado: ${code} — ${discount} ${scope} (${monthYear}).`,
@@ -552,6 +564,12 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       rulesPointer: 'Voir ce qui se cumule avec le code promo',
     },
     cartPrint: { caption: 'Exemple du code appliqué dans le panier. Les montants changent selon la commande.', stepsLabel: 'Voir le pas à pas en images' },
+    videos: {
+      title: 'Vidéos',
+      platforms: { youtube: 'YouTube', instagram: 'Instagram', tiktok: 'TikTok', facebook: 'Facebook' },
+      watchOn: (platform) => `Regarder sur ${platform}`,
+      newTab: 's’ouvre dans un nouvel onglet',
+    },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>
         `${capitalize(offerType)} ${brand} mis à jour${NBSP}: ${code} — ${discount} ${scope} (${monthYear}).`,
@@ -672,6 +690,12 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       rulesPointer: 'Sieh dir an, was sich mit dem Gutschein kombinieren lässt',
     },
     cartPrint: { caption: 'Beispiel für den im Warenkorb eingelösten Code. Die Beträge ändern sich je nach Bestellung.', stepsLabel: 'Die Schritt-für-Schritt-Anleitung mit Bildern ansehen' },
+    videos: {
+      title: 'Videos',
+      platforms: { youtube: 'YouTube', instagram: 'Instagram', tiktok: 'TikTok', facebook: 'Facebook' },
+      watchOn: (platform) => `Auf ${platform} ansehen`,
+      newTab: 'öffnet in neuem Tab',
+    },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>
         `${brand}-${offerType} aktualisiert: ${code} — ${discount} ${scope} (${monthYear}).`,
@@ -790,6 +814,12 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       rulesPointer: 'Scopri cosa si cumula con il coupon',
     },
     cartPrint: { caption: 'Esempio del codice applicato nel carrello. Gli importi cambiano in base all’ordine.', stepsLabel: 'Guarda il passo passo con le immagini' },
+    videos: {
+      title: 'Video',
+      platforms: { youtube: 'YouTube', instagram: 'Instagram', tiktok: 'TikTok', facebook: 'Facebook' },
+      watchOn: (platform) => `Guarda su ${platform}`,
+      newTab: 'si apre in una nuova scheda',
+    },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>
         `${capitalize(offerType)} ${brand} aggiornato: ${code} — ${discount} ${scope} (${monthYear}).`,
@@ -907,6 +937,12 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       rulesPointer: '쿠폰과 함께 쓸 수 있는 혜택 보기',
     },
     cartPrint: { caption: '장바구니에 코드를 적용한 예시입니다. 금액은 주문에 따라 달라집니다.', stepsLabel: '이미지와 함께 단계별 방법 보기' },
+    videos: {
+      title: '동영상',
+      platforms: { youtube: 'YouTube', instagram: 'Instagram', tiktok: 'TikTok', facebook: 'Facebook' },
+      watchOn: (platform) => `${platform}에서 보기`,
+      newTab: '새 탭에서 열림',
+    },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>
         `${brand} ${offerType} 업데이트: ${code} — ${discount} ${scope} (${monthYear}).`,
@@ -1022,6 +1058,12 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       rulesPointer: 'クーポンと併用できるものを見る',
     },
     cartPrint: { caption: 'カートでコードを適用した例です。金額は注文内容によって変わります。', stepsLabel: '画像つきの手順を見る' },
+    videos: {
+      title: '動画',
+      platforms: { youtube: 'YouTube', instagram: 'Instagram', tiktok: 'TikTok', facebook: 'Facebook' },
+      watchOn: (platform) => `${platform}で見る`,
+      newTab: '新しいタブで開きます',
+    },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>
         `${brand} の${offerType}を更新：${code} — ${discount} ${scope}（${monthYear}）。`,
@@ -1136,6 +1178,12 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       rulesPointer: '查看可與優惠碼同時使用的項目',
     },
     cartPrint: { caption: '在購物車套用代碼的範例。金額會依訂單而不同。', stepsLabel: '查看附圖的操作步驟' },
+    videos: {
+      title: '影片',
+      platforms: { youtube: 'YouTube', instagram: 'Instagram', tiktok: 'TikTok', facebook: 'Facebook' },
+      watchOn: (platform) => `在${platform}觀看`,
+      newTab: '在新分頁開啟',
+    },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>
         `${brand} ${offerType}已更新：${code} — ${discount} ${scope}（${monthYear}）。`,
@@ -1251,6 +1299,12 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       rulesPointer: '查看可与优惠码同时使用的项目',
     },
     cartPrint: { caption: '在购物车应用代码的示例。金额会因订单而不同。', stepsLabel: '查看带图片的操作步骤' },
+    videos: {
+      title: '视频',
+      platforms: { youtube: 'YouTube', instagram: 'Instagram', tiktok: 'TikTok', facebook: 'Facebook' },
+      watchOn: (platform) => `在${platform}观看`,
+      newTab: '在新标签页打开',
+    },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>
         `${brand} ${offerType}已更新：${code} — ${discount} ${scope}（${monthYear}）。`,

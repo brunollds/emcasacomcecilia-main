@@ -1,10 +1,11 @@
 import assert from 'node:assert/strict';
 import { existsSync } from 'node:fs';
-import { getActiveCoupons, getAllActiveCouponSlugs, getCouponBySlug, type CouponCodeOffer } from '../src/lib/couponsData';
+import { STORE_VIDEO_HOSTS, getActiveCoupons, getAllActiveCouponSlugs, getCouponBySlug, type CouponCodeOffer } from '../src/lib/couponsData';
 import {
   CODE_FIELD_POLICY,
   TRANSLATED_LOCALES,
   getCouponLanguageLinks,
+  getCouponTranslation,
   getLocalizedCoupon,
   getTranslatedCouponRoutes,
   localizeCoupon,
@@ -147,6 +148,32 @@ for (const { slug, locale } of routes) {
     const ptRow = pt.stacking?.find((item) => item.benefit === row.benefit);
     assert.equal(row.stacks, ptRow?.stacks, `${slug}/${locale}: "O que acumula", ${row.benefit}: resposta diferente da do PT`);
     assert.doesNotMatch(row.condition, /\.$|\d{1,2}\/\d{1,2}|20\d\d|R\$/, `${slug}/${locale}: "O que acumula", ${row.benefit}: ponto final, data ou R$`);
+  }
+}
+
+// Vídeos fora do PT: só os da tradução, https, no domínio da rede declarada, com título no idioma e sem repetição.
+for (const { slug, locale } of routes) {
+  const localized = getLocalizedCoupon(slug, locale)!;
+  const ptTitles = new Set((getCouponBySlug(slug)!.videos ?? []).map((video) => video.title));
+  const videos = localized.videos ?? [];
+  assert.equal(new Set(videos.map((video) => video.url)).size, videos.length, `${slug}/${locale}: vídeo repetido`);
+  for (const video of videos) {
+    const url = new URL(video.url);
+    assert.equal(url.protocol, 'https:', `${slug}/${locale}: vídeo sem https (${video.url})`);
+    assert.ok(STORE_VIDEO_HOSTS[video.platform].includes(url.hostname.replace(/^(www|m|vm)\./, '')), `${slug}/${locale}: ${video.url} não é do ${video.platform}`);
+    assert.ok(video.title.trim().length >= 5 && !ptTitles.has(video.title), `${slug}/${locale}: vídeo sem título no idioma (${video.url})`);
+  }
+}
+// Os vídeos do PT nunca passam para outro idioma, na loja de link e na de código; os da tradução saem.
+{
+  const ptVideo = { platform: 'youtube' as const, url: 'https://www.youtube.com/watch?v=pt', title: 'Como usar o cupom da loja' };
+  const enVideo = { platform: 'youtube' as const, url: 'https://www.youtube.com/watch?v=en', title: 'How to use the store coupon' };
+  for (const slug of ['shein', 'hostinger']) {
+    const pt = { ...getCouponBySlug(slug)!, videos: [ptVideo] };
+    const translation = getCouponTranslation(slug)!;
+    assert.equal(localizeCoupon(pt, translation, 'en').videos, undefined, `${slug}: vídeo do PT na página em inglês`);
+    const withVideo = { ...translation, locales: { ...translation.locales, en: { ...translation.locales.en, videos: [enVideo] } } } as typeof translation;
+    assert.deepEqual(localizeCoupon(pt, withVideo, 'en').videos, [enVideo], `${slug}: vídeo da tradução fora da página em inglês`);
   }
 }
 
