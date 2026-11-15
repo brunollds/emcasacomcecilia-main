@@ -537,19 +537,19 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     testTitle: 'Comment nous avons testé le code promo',
     testedBy: (date) => `Testé par l'équipe d'Em Casa com Cecília le ${date}.`,
     stacking: {
-      title: 'Ce qui se cumule avec le coupon',
-      caption: (brand) => `Ce qui se cumule avec le coupon ${brand}`,
+      title: 'Ce qui se cumule avec le code promo',
+      caption: (brand) => `Ce qui se cumule avec le code promo ${brand}`,
       headers: { benefit: 'Avantage', stacks: 'Cumulable ?', condition: 'Condition' },
       benefits: {
         promocoes: 'Promotions',
         retirada: 'Retrait en magasin',
         pix: 'Pix',
         cashback: 'Cashback',
-        'outro-cupom': 'Autre coupon',
+        'outro-cupom': 'Autre code promo',
         frete: 'Livraison gratuite',
       },
       answers: { sim: 'Oui', nao: 'Non', depende: 'Ça dépend' },
-      rulesPointer: 'Voir ce qui se cumule avec le coupon',
+      rulesPointer: 'Voir ce qui se cumule avec le code promo',
     },
     cartPrint: { caption: 'Exemple du code appliqué dans le panier. Les montants changent selon la commande.', stepsLabel: 'Voir le pas à pas en images' },
     highlight: {
@@ -669,7 +669,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
         frete: 'Kostenloser Versand',
       },
       answers: { sim: 'Ja', nao: 'Nein', depende: 'Kommt darauf an' },
-      rulesPointer: 'Sehen Sie, was sich mit dem Gutschein kombinieren lässt',
+      rulesPointer: 'Sieh dir an, was sich mit dem Gutschein kombinieren lässt',
     },
     cartPrint: { caption: 'Beispiel für den im Warenkorb eingelösten Code. Die Beträge ändern sich je nach Bestellung.', stepsLabel: 'Die Schritt-für-Schritt-Anleitung mit Bildern ansehen' },
     highlight: {

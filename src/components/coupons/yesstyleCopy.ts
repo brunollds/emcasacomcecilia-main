@@ -428,7 +428,7 @@ const pages: Record<Locale, PageCopy> = {
     stacking: {
       title: 'Was sich bei YesStyle kombinieren lässt',
       captionTemplate: 'Was sich mit den YesStyle-Gutscheinen und dem Code {code} kombinieren lässt',
-      rulesPointer: 'Sehen Sie, was sich an der Kasse kombinieren lässt',
+      rulesPointer: 'Sieh dir an, was sich an der Kasse kombinieren lässt',
       rows: [
         { label: 'Shop-Gutschein und Code {code}', stacks: 'sim', condition: 'Jeder kommt in sein eigenes Feld: der Gutschein in Coupon Code und {code} in Reward Code' },
         { label: 'Shop-Gutschein und reduzierter Preis', stacks: 'sim', condition: 'Der Gutschein gilt zusätzlich zum reduzierten Preis, bei den teilnehmenden Produkten' },
