@@ -290,3 +290,8 @@ a ponto e propagado aos 9 idiomas (Sonnet 5.5 gerou, a sessão revisou).
   texto do botão; tirar "costuma durar poucos dias" (as campanhas de `data/coupons/yesstyle.json` duram de 3 a 4 dias).
 - Meio-termo: o aviso de código de site de cupom (pedido do briefing) virou "Código copiado de outros sites pode estar
   vencido: confira a linha do desconto no resumo antes de pagar."
+
+- Revisão no ar desde 15/11/2026, release `8edc73aa` (deploy 6a52cdec, build 01a1e06c), com o #999. `deploy:finish` ok
+  (2 workers); smoke das 10 páginas contra o JSON (capítulos, resposta rápida, item da conta, subtítulo, imagem pelo
+  CDN) e sitemap; `llms.txt` com o PT; IndexNow com 13 URLs; captura 43746226623 na fila, atrás da 43675080620, à espera
+  da aprovação do Bruno.
