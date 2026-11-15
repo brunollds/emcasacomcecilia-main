@@ -65,9 +65,11 @@ separado e bem acomodado; os acessórios são muitos (vários cestos, espetos) e
 
 ## 4. Regras
 
-- **Transparência antes de tudo.** O vídeo diz "eu comprei"; o Bruno diz "recebemos uma air fryer deles". O artigo
-  não sai sem essa resposta (pergunta 1): a nota editorial diz exatamente como o produto chegou e que não há
-  parceria nem cupom. Se houver acordo depois, a nota muda no mesmo dia.
+- **Transparência (Bruno, 14/11):** a air fryer não foi enviada pela Haier nem comprada: chegou por um terceiro
+  interessado na divulgação. A nota editorial diz isso com essas palavras ("recebemos o aparelho de um terceiro
+  interessado na divulgação, não da Haier; não há parceria nem cupom"). O vídeo diz "eu comprei": o artigo não repete
+  a frase, e o Bruno decide se ajusta a descrição do vídeo. Opinião livre: "podemos ser sinceros independente de
+  qualquer coisa". Se houver acordo com a Haier depois, a nota muda no mesmo dia.
 - **Primeiras impressões, não review.** Sem nota em estrelas e sem veredito de durabilidade. O texto diz quantos
   dias e quantos preparos sustentam a opinião.
 - **Comparação com a Philips Walita** só como impressão de acabamento, dita como opinião de quem tem as duas em
@@ -78,19 +80,46 @@ separado e bem acomodado; os acessórios são muitos (vários cestos, espetos) e
 - **Preço:** o de tabela lido no dia, com data; conferir a voltagem do anúncio.
 - **"Marca nova no Brasil"** só depois de ler quando ela chegou; a frase do vídeo não é fonte.
 
-## Perguntas para o Bruno
+## 5. Respostas do Bruno (14/11/2026)
 
-1. **A air fryer foi comprada ou enviada pela Haier?** O vídeo diz "comprei". É a frase que define a nota editorial.
-2. **O modelo é a 12 L Air Fryer Oven HSAF-EV1201BBR?** Qual a voltagem da de vocês?
-3. **O que veio na caixa?** Lista dos acessórios (quantos cestos ou bandejas, espetos, garfo de rotisserie, pegador,
-   bandeja coletora) e o que o manual traz.
-4. **Com quais air fryers a Cecília compara?** Quais ela tem ou já usou (a Philips Walita é uma delas?).
-5. **Uso até agora:** quantos dias, quais preparos além da batata e dos espetinhos, e o que incomodou (barulho,
-   tamanho na bancada, limpeza do espeto, calor na porta, cheiro nas primeiras vezes, painel).
-6. **Os "dois visores" são janelas de vidro** (uma em cima e uma na frente) ou telas do painel? A página fala em
-   "janelas superior e inferior com iluminação interna".
-7. **A função batata marca 30 minutos:** a que temperatura, e quanta batata foi no teste de 15 minutos?
-8. **Quanto custou e onde foi comprada** (se foi comprada)? E quais links de afiliado já existem (o do Mercado
-   Livre para o modelo exato).
-9. **Fotos:** há fotos da caixa, dos acessórios e do espeto montado, além do vídeo?
-10. **O possível acordo com a Haier** muda alguma coisa no que pode ser dito agora (prazo, aprovação de texto)?
+| Ponto | Resposta |
+|---|---|
+| Origem do aparelho | Não veio da Haier: foi enviado por um interessado na divulgação |
+| Modelo | "Fritadeira De Ar Air Fryer Oven Digital Haier 12 Litros - HSAF-EV1203BBR", 127 V |
+| Acessórios | "Vem tudo que está no manual, bastante coisa": usar a lista oficial (falta ler, abaixo) |
+| Comparação | A Cecília usou a Wap Prosdócimo, a air fryer de 12 L da Itatiaia e a iChef da Polishop, entre outras |
+| Uso | 5 dias. Além da batata e dos espetinhos, um galeto, que não foi gravado |
+| Cheiro | Existe no primeiro uso; o manual avisa e manda fazer um ciclo antes de usar, e lavar os acessórios |
+| Barulho | Leve; "entre um dos mais silenciosos" |
+| Acessórios na prática | Por ser novidade, alguns pedem prática, como encaixar os espetos |
+| Tamanho | Padrão de compacto |
+| Saída de ar | Em volta do aparelho, não só atrás: esquenta ao redor e pode engordurar os lados (a frente não). Pede espaço livre em volta |
+| "Dois visores" | São vidros: uma janela em cima e uma na frente |
+| Batata | Função batata a 200 °C; 400 g de batata congelada ficaram prontos em 15 minutos, com o programa marcando 30 |
+| Preço e links | Mercado Livre: `https://meli.la/1nC8rj1`, R$ 559 em 15x sem juros no cartão do Mercado Livre. Amazon: `https://link.amazon/B0hNyveyU`, R$ 579 em 10x |
+| Fotos | Ainda não há; o Bruno pode mandar depois |
+| Acordo com a Haier | Não limita o texto |
+
+**Opinião do Bruno, para o texto:** pelo valor, é uma air fryer para quem procura um aparelho mais completo,
+principalmente famílias. A batata frita foi a melhor que ele já provou feita em air fryer: entre a feita no óleo e a
+de air fryer, foi a que mais se aproximou do óleo quente. Atribuir ao Bruno, que assina com a Cecília
+(`bruno-luiz` em `review.authors`), ou à Cecília só se ela disser o mesmo.
+
+**Lido na Amazon em 14/11** (anúncio "Haier Fritadeira Air Fryer Oven Digital 12L, 1800W Preta 127V", R$ 579,00,
+vendido e enviado pela Amazon): resistência na parte de trás da cavidade ("Ultra Air"); "janelas superior e
+frontal, com iluminação interna"; 12 receitas pré-programadas no painel touch; timer de até 12 horas; a porta aberta
+interrompe o funcionamento; garantia de 12 meses com troca do produto inteiro em defeito de fabricação comprovado;
+1.800 W; "para 4 a 6 pessoas". São textos do anúncio: entram com atribuição.
+
+## 6. Falta para o briefing
+
+- **Código do modelo:** o site da Haier lista HSAF-EV1201BBR; o do Bruno é HSAF-EV1203BBR. Conferir na etiqueta ou no
+  manual e usar o do aparelho.
+- **Qual anúncio da Amazon é o do link:** há um de 12 L "com função rotisserie" (R$ 611,70 em 127 V) e outro sem a
+  palavra no título (R$ 579,00). O link tem de ir ao modelo com o espeto giratório, na voltagem certa.
+- **Lista oficial de acessórios:** foto da página do manual ou da caixa. A página de manuais da Haier não mostrou a
+  air fryer na primeira tela.
+- **Mercado Livre:** vendedor e ficha do anúncio (pede login no navegador do app).
+- **Quando a Haier chegou ao Brasil**, para a HA1 e para a frase "marca nova no Brasil".
+- **Fotos** da caixa, dos acessórios, do espeto montado e da saída de ar. Até lá, quadros do vídeo.
+- **Galeto:** tempo, temperatura e resultado, já que não foi gravado.
