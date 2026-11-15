@@ -175,3 +175,23 @@ Cuidar da casa e das compras da nossa família é, no fim das contas, buscar equ
 - **Alt:** Modelo com Tech T-Shirt feminina Indigo e pantalona branca da Insider, em foto oficial, ao lado do código EMCASACOMCECILIA.
 - **Origem:** foto oficial da Tech T-Shirt feminina Indigo com pantalona branca e o código EMCASACOMCECILIA. Sem geração por IA.
 - **Lote 22 do piloto de capas (sequência 7 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-7-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/insider/cupom-emcasacomcecilia-insider-store-como-usar-capa-discover.webp`) fica no CDN, sem uso como capa.
+
+## Revisão de 15/11/2026 (lote da Insider: Black Friday, Pix e respostas rápidas)
+
+Briefing colado pelo Bruno com três frentes. Boa parte já estava feita na main (a seleção de outubro no passado, "o mais
+caro dos shorts" no Outlet feminino, "itens elegíveis" no "vale a pena", a FAQ do kit com a exceção da Daily, o 15% no
+"Mercado Livre ou site" e o código nos dois artigos de reputação). O que entrou:
+
+- **Este guia:** os preços de Black Friday ao lado do Outlet e dos kits na `description`, na `metaDescription`, na
+  resposta rápida e no "Vale a pena usar o cupom?"; parágrafo novo em "Onde o cupom vale" com o teste do esquenta (Tech
+  T-Shirt de R$ 169,00 por R$ 129,00 → R$ 109,65; Calça Pantalona InLounge do Outlet de R$ 299,00 por R$ 179,00 →
+  R$ 152,15, os números de `/cupons/insider`); FAQ nova "O cupom Insider vale na Black Friday?"; e a soma com o Pix no
+  passo 4, com a frase da página de cupons ("quando a loja oferece"; sem citar percentual, que a página não traz).
+- O teste aparece como "no fim de outubro", sem o dia: o corpo já tinha duas datas, o limite do `validate:content`. O dia
+  (31/10) fica em `/cupons/insider`.
+- **Respostas rápidas:** "de 15% OFF" no kit e no Outlet masculino; link `[cupom Insider](/cupons/insider)` antes do
+  código em `black-friday-insider`, no Reclame Aqui e nos seis guias (tabela de medidas, cueca, camiseta, camiseta
+  feminina, undershirt e presente de Natal).
+- **Não aplicado:** a data de 30/10 acima das duas tabelas do kit (o artigo já a traz em "Como ler a conta do kit" e está
+  no limite de datas); e "o cupom não vale na compra de gift card" no presente de Natal, porque o nosso teste mostra o
+  contrário: o cupom tirou 15% do cartão, e o que não aceita cupom é o pedido pago com o gift card.

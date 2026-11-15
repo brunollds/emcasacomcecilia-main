@@ -53137,6 +53137,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "EMCASACOMCECILIA dá 15% nos itens elegíveis da Insider. No Reclame Aqui: nota 9,0 e 92,6% de solução entre as avaliadas, de abril a setembro.",
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/insider/insider-store-reclame-aqui-nota-reputacao-capa-v2.webp",
@@ -53163,7 +53164,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "No recorte de abril a setembro, a Insider tinha reputação RA1000 e nota 9,0, com 99,4% das reclamações respondidas e 92,6% resolvidas entre as avaliadas. A entrega é o tema mais citado nas queixas, e o cupom EMCASACOMCECILIA dá 15% nos itens elegíveis no site."
+          "No recorte de abril a setembro, a Insider tinha reputação RA1000 e nota 9,0, com 99,4% das reclamações respondidas e 92,6% resolvidas entre as avaliadas. A entrega é o tema mais citado nas queixas, e o [cupom Insider](/cupons/insider) EMCASACOMCECILIA dá 15% nos itens elegíveis no site."
         ]
       },
       {
@@ -53450,11 +53451,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O cupom EMCASACOMCECILIA dá 15% OFF na Insider Store, sem valor mínimo, inclusive no Outlet e em kits. Veja como aplicar no checkout e as exceções em que ele não entra.",
-    "metaDescription": "O EMCASACOMCECILIA dá 15% OFF sem valor mínimo na Insider Store, testado no checkout. Veja como aplicar, onde vale (Outlet e kits) e as exceções.",
+    "description": "O cupom EMCASACOMCECILIA dá 15% OFF na Insider Store, sem valor mínimo, inclusive no Outlet, em kits e nos preços de Black Friday. Veja como aplicar no checkout e as exceções.",
+    "metaDescription": "O EMCASACOMCECILIA dá 15% OFF sem valor mínimo na Insider Store, testado no checkout. Veja como aplicar e onde vale: Outlet, kits e preços de Black Friday.",
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
-    "updatedAt": "2026-11-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/insider/cupom-emcasacomcecilia-insider-store-como-usar-capa-v2.webp",
@@ -53477,7 +53478,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: como usar o cupom da Insider",
         "paragraphs": [
-          "O [cupom Insider](/cupons/insider) é EMCASACOMCECILIA e dá 15% OFF nas compras do site, inclusive no Outlet e em kits, sem valor mínimo. Você digita o código no checkout ou entra pelo link da parceria. Ele não vale nas lojas físicas, pode não entrar nos primeiros dias de um lançamento, e a loja aceita um cupom por pedido; veja abaixo como conferir o desconto."
+          "O [cupom Insider](/cupons/insider) é EMCASACOMCECILIA e dá 15% OFF nas compras do site, inclusive no Outlet, em kits e sobre os preços de Black Friday, sem valor mínimo. Você digita o código no checkout ou entra pelo link da parceria. Ele não vale nas lojas físicas, pode não entrar nos primeiros dias de um lançamento, e a loja aceita um cupom por pedido."
         ]
       },
       {
@@ -53537,7 +53538,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Quando o código é aceito, o checkout pode exibir “Melhor desconto ativado”. Confira também a etiqueta EMCASACOMCECILIA abaixo do campo e a linha de desconto de cada item. O × ao lado da etiqueta remove o código; a loja aceita um cupom por pedido.",
           "No teste de outubro, cada item elegível mostrou a linha “Código de desconto” com EMCASACOMCECILIA e o valor abatido. A Core T-Shirt passou de R$ 189,00 para R$ 160,65, economia de R$ 28,35. Se algum produto não mostrar a linha do código, não conte com o desconto nele: confira as condições daquele item e a mensagem do checkout.",
-          "Depois disso, é só preencher os dados de entrega e escolher o pagamento. Pelos termos de uso da loja, as opções são Pix à vista, Pix parcelado em até 4 vezes sem juros, cartão de crédito em até 3 vezes sem juros (ou de 4 a 10 vezes com juros) e boleto à vista."
+          "Depois disso, é só preencher os dados de entrega e escolher o pagamento. Pelos termos de uso da loja, as opções são Pix à vista, Pix parcelado em até 4 vezes sem juros, cartão de crédito em até 3 vezes sem juros (ou de 4 a 10 vezes com juros) e boleto à vista. O EMCASACOMCECILIA soma com o desconto do Pix, quando a loja oferece um: o percentual aparece na hora do pagamento."
         ],
         "image": "/images/reviews/insider/insider-passo-4-desconto-ativado.webp",
         "imageAlt": "Mensagem Melhor desconto ativado no checkout da Insider, com a etiqueta do cupom EMCASACOMCECILIA abaixo do campo Cupom de desconto ou Gift Card",
@@ -53550,6 +53551,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "As regras oficiais do programa são curtas: o cupom vale nas compras da loja online, pode não entrar nos primeiros dias de um **lançamento**, não vale nas **lojas físicas** da Insider e não é cumulativo com outro cupom, porque a loja aceita só um por pedido.",
           "Para saber como isso funciona no dia a dia, testamos o cupom no checkout oficial em 5 de outubro de 2026, sem finalizar a compra. O desconto entrou numa Tech T-Shirt, numa Undershirt Antissuor, num kit com três Tech T-Shirts femininas que já estava com preço promocional e numa peça do Outlet. Também testamos uma meia de R$ 25 sozinha no carrinho, e o desconto entrou: não encontramos valor mínimo de pedido para usar o cupom. Em todos esses itens o desconto foi de 15% do preço, o que voltamos a conferir no checkout dias depois.",
+          "No fim de outubro, no esquenta de Black Friday da loja, repetimos o teste, e os 15% entraram sobre o preço já reduzido. A Tech T-Shirt, de R$ 169,00 por R$ 129,00, saiu por R$ 109,65, e uma Calça Pantalona InLounge do Outlet, de R$ 299,00 por R$ 179,00, saiu por R$ 152,15.",
           "No teste, um vestido com etiqueta de lançamento ficou sem desconto, enquanto Tech T-Shirt e sutiãs Nakedfeel do Outlet receberam o cupom apesar da mesma etiqueta. Portanto, a etiqueta sozinha não decide: confira a linha do código de cada item."
         ],
         "bullets": [
@@ -53639,7 +53641,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena usar o cupom?",
         "paragraphs": [
-          "Para quem já decidiu comprar na Insider, sim. O EMCASACOMCECILIA dá 15% OFF e entra em quase todo o catálogo online, inclusive no Outlet e em kits que já têm preço promocional, não exige valor mínimo e mostra o desconto item por item antes do pagamento. As exceções são poucas: os primeiros dias de um lançamento, as lojas físicas e a soma com outro cupom.",
+          "Para quem já decidiu comprar na Insider, sim. O EMCASACOMCECILIA dá 15% OFF e entra em quase todo o catálogo online, inclusive no Outlet, em kits que já têm preço promocional e nos preços de Black Friday, não exige valor mínimo e mostra o desconto item por item antes do pagamento. As exceções são poucas: os primeiros dias de um lançamento, as lojas físicas e a soma com outro cupom.",
           "O que eu observaria é o conjunto do pedido. Com o carrinho entre R$ 399 e R$ 469, os 15% fazem o pedido cair abaixo do frete grátis, então vale comparar o desconto com o valor do frete."
         ],
         "links": [
@@ -53661,6 +53663,7 @@ export const reviewsData: unknown[] = [
           "Quanto de desconto dá o cupom EMCASACOMCECILIA? 15% OFF nos produtos elegíveis da loja online, sem valor mínimo. Uma Core T-Shirt de R$ 189,00, por exemplo, sai por R$ 160,65. O desconto aparece em cada item do resumo do pedido assim que o cupom é aceito.",
           "Onde digito o cupom na Insider? No campo Cupom de desconto ou Gift Card do checkout, clicando em Aplicar. Pelo link da parceria, o cupom já vem aplicado.",
           "O cupom Insider vale no Outlet? Sim. No nosso teste, o desconto entrou em peça do Outlet e em kit com preço promocional.",
+          "O cupom Insider vale na Black Friday? Sim. No nosso teste do esquenta de Black Friday, os 15% entraram sobre o preço já reduzido: a Tech T-Shirt de R$ 129,00 saiu por R$ 109,65. A loja aceita um cupom por pedido.",
           "O cupom vale para lançamentos? Pode ficar fora de alguns itens, especialmente no início de um lançamento. A etiqueta não decide sozinha: produtos com essa marcação receberam desconto no teste e outros não. Confira a linha do código por item.",
           "O cupom Insider é cumulativo? Ele pode somar com preços promocionais elegíveis e com o Pix, conforme as condições da ação. O que não soma é outro cupom no mesmo pedido; a loja aceita apenas um código.",
           "Tem cupom Insider para primeira compra? Sim. O EMCASACOMCECILIA vale na primeira compra e para quem já comprou, sem valor mínimo. A loja aceita um cupom por pedido.",
@@ -55638,7 +55641,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Insider 2026: EMCASACOMCECILIA dá 15% OFF e soma com as ofertas. No carrinho, o cupom divulgado pela própria loja deu só 5%.",
     "publishedAt": "10 de outubro de 2026",
     "publishedAtISO": "2026-10-10",
-    "updatedAt": "2026-11-11",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/insider/black-friday-insider-capa-v2.webp",
@@ -55662,7 +55665,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Insider 2026",
         "paragraphs": [
-          "A Black Friday da Insider já está no ar, com até 50% OFF em itens selecionados, em janelas curtas até o grande dia, 27 de novembro. Este guia cobre a linha masculina: Tech T-Shirt, kits e cuecas. O cupom EMCASACOMCECILIA dá 15% OFF e, no teste de fim de outubro, entrou por cima dos preços da campanha."
+          "A Black Friday da Insider já está no ar, com até 50% OFF em itens selecionados, em janelas curtas até o grande dia, 27 de novembro. Este guia cobre a linha masculina: Tech T-Shirt, kits e cuecas. O [cupom Insider](/cupons/insider) EMCASACOMCECILIA dá 15% OFF e, no teste de fim de outubro, entrou por cima dos preços da campanha."
         ]
       },
       {
@@ -62055,6 +62058,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Tabela de medidas Insider em texto, com o cupom EMCASACOMCECILIA de 15% OFF: Tech T-Shirt, Daily, Core, feminina, cueca e calcinha, e como medir.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/insider/tabela-de-medidas-insider-capa-v2.webp",
@@ -62067,7 +62071,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Insider mede a peça deitada, não o corpo, então o mais seguro é comparar uma camiseta sua que veste bem com a tabela da peça. Pela política de trocas da Insider, cuecas e calcinhas só têm troca por defeito. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
+          "A Insider mede a peça deitada, não o corpo, então o mais seguro é comparar uma camiseta sua que veste bem com a tabela da peça. Pela política de trocas da Insider, cuecas e calcinhas só têm troca por defeito. Na loja online da Insider, o [cupom Insider](/cupons/insider) EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
         ]
       },
       {
@@ -101244,7 +101248,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Cueca Insider Comfort ou Performance, com o cupom EMCASACOMCECILIA de 15% OFF: tecido, uso, Anti Suor, Seamless e Slip, preço por peça nos kits e a troca.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/insider/cueca-insider-comfort-ou-performance-capa-v2.webp",
@@ -101255,7 +101259,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para treino, a Performance; para o dia a dia, a Comfort, pelo uso que a Insider indica. Compare o preço da variante escolhida: cor e tamanho podem mudar o valor. Na loja online, o cupom EMCASACOMCECILIA dá 15% em itens elegíveis, exceto em lançamentos."
+          "Para treino, a Performance; para o dia a dia, a Comfort, pelo uso que a Insider indica. Compare o preço da variante escolhida: cor e tamanho podem mudar o valor. Na loja online, o [cupom Insider](/cupons/insider) EMCASACOMCECILIA dá 15% em itens elegíveis, exceto em lançamentos."
         ]
       },
       {
@@ -101519,7 +101523,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom EMCASACOMCECILIA dá 15% OFF na Insider. Undershirt Leve, Moderado ou Block: nível de suor, construção nas axilas, cores, tamanho e troca.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/insider/undershirt-insider-qual-escolher-funciona-capa-v2.webp",
@@ -101530,7 +101534,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha pelo nível de transpiração, como a Insider indica: Leve para suor leve, Moderado para moderado e Block para excessivo. Nenhuma das três trata ou elimina o suor, e o Block estava esgotado em outubro. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
+          "Escolha pelo nível de transpiração, como a Insider indica: Leve para suor leve, Moderado para moderado e Block para excessivo. Nenhuma das três trata ou elimina o suor, e o Block estava esgotado em outubro. Na loja online da Insider, o [cupom Insider](/cupons/insider) EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
         ]
       },
       {
@@ -101832,7 +101836,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom EMCASACOMCECILIA dá 15% OFF nos kits da Insider. Presente de Natal: kits por preço, kits com cueca, gift card, sacola, troca e prazo de entrega.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
-    "updatedAt": "2026-11-09",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/insider/presente-de-natal-insider-kits-gift-card-capa-v2.webp",
@@ -101843,7 +101847,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para presentear com a Insider, escolha um kit se souber os tamanhos ou o gift card se a escolha ficar com a pessoa. Na loja, cuecas, calcinhas e sutiãs só trocam por defeito; confira as medidas antes de comprar. O cupom EMCASACOMCECILIA dá 15% OFF nos itens elegíveis da loja online, mas não entra em pedido pago com gift card."
+          "Para presentear com a Insider, escolha um kit se souber os tamanhos ou o gift card se a escolha ficar com a pessoa. Na loja, cuecas, calcinhas e sutiãs só trocam por defeito; confira as medidas antes de comprar. O [cupom Insider](/cupons/insider) EMCASACOMCECILIA dá 15% OFF nos itens elegíveis da loja online, mas não entra em pedido pago com gift card."
         ]
       },
       {
@@ -166386,6 +166390,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Camiseta masculina Insider com o EMCASACOMCECILIA e 15% OFF: Tech, Heavy, Core, Daily, Polo e Henley comparadas por tecido e preço, e a troca.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/insider/camiseta-insider-qual-escolher-capa-v2.webp",
@@ -166396,7 +166401,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para o dia a dia, a Tech T-Shirt é a básica de 92% modal e 8% elastano. Segundo a Insider, a Heavy é 20% mais encorpada que a Tech; a Core tem viscose, modelagem regular e textura leve. O EMCASACOMCECILIA dá 15% OFF nos itens elegíveis da loja online, exceto em lançamentos."
+          "Para o dia a dia, a Tech T-Shirt é a básica de 92% modal e 8% elastano. Segundo a Insider, a Heavy é 20% mais encorpada que a Tech; a Core tem viscose, modelagem regular e textura leve. O [cupom Insider](/cupons/insider) EMCASACOMCECILIA dá 15% OFF nos itens elegíveis da loja online, exceto em lançamentos."
         ]
       },
       {
@@ -167246,7 +167251,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Kit Insider com o cupom EMCASACOMCECILIA de 15% OFF, testado no carrinho: a conta por peça de Tech, Heavy, Daily, cueca e undershirt contra o avulso.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "locale": "pt",
@@ -167258,7 +167263,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Compensa para quem já quer cinco ou dez camisetas Tech: na tabela, o kit de 5 custa menos por peça que a avulsa, e o cupom EMCASACOMCECILIA entra por cima do kit de 5. No kit de 3, a economia é pequena."
+          "Compensa para quem já quer cinco ou dez camisetas Tech: na tabela, o kit de 5 custa menos por peça que a avulsa, e o cupom EMCASACOMCECILIA, de 15% OFF, entra por cima do kit de 5. No kit de 3, a economia é pequena."
         ]
       },
       {
@@ -168208,6 +168213,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Camiseta feminina Insider com o EMCASACOMCECILIA e 15% OFF: Tech, Gola V, Manga Longa, Daily, NEXTECH e Perfect Top por tecido e preço.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-capa-v2.webp",
@@ -168218,7 +168224,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para o dia a dia, a Tech T-Shirt feminina é o ponto de partida, em PP a XGG. A Gola V muda o decote, e a Tech de manga longa é a opção para o frio. O cupom EMCASACOMCECILIA dá 15% OFF nos itens elegíveis da loja online; confira a aplicação em cada peça."
+          "Para o dia a dia, a Tech T-Shirt feminina é o ponto de partida, em PP a XGG. A Gola V muda o decote, e a Tech de manga longa é a opção para o frio. O [cupom Insider](/cupons/insider) EMCASACOMCECILIA dá 15% OFF nos itens elegíveis da loja online; confira a aplicação em cada peça."
         ]
       },
       {
@@ -173253,6 +173259,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Outlet Insider masculino com o EMCASACOMCECILIA e 15% OFF: o preço de cada Tech T-Shirt, regata e short, o que sobrou na grade e a conta do kit.",
     "publishedAt": "31 de outubro de 2026",
     "publishedAtISO": "2026-10-31",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "locale": "pt",
@@ -173264,7 +173271,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Vale a pena se a sua cor e o seu tamanho estiverem na página: são cinco peças, todas com 40% ou mais de desconto sobre o preço riscado, e o cupom EMCASACOMCECILIA ainda entra por cima. O que pesa é a grade curta, com cores que sobram num tamanho só; a tabela de cada grupo mostra o que ficou."
+          "Vale a pena se a sua cor e o seu tamanho estiverem na página: são cinco peças, todas com 40% ou mais de desconto sobre o preço riscado, e o cupom EMCASACOMCECILIA, de 15% OFF, ainda entra por cima. O que pesa é a grade curta, com cores que sobram num tamanho só; a tabela de cada grupo mostra o que ficou."
         ]
       },
       {
