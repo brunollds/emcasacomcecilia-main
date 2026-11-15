@@ -203,3 +203,13 @@ motivo para passar. As melhorias também entraram (percentuais do Pix só em Pag
 ## Gates (Job 5, 15/11/2026)
 
 `validate:content`, `typecheck`, `test:article-d2`, `test:internal-links`, `lint`, `npm run build` e os gates de mídia passaram.
+
+## Ajustes depois do parecer do ChatGPT (15/11/2026)
+
+Parecer em `docs/auditoria-copy-artigos/g9-bagaggio-sestini-20261115-farol/REVISAO-PR-1014.md` (fora do git). Aplicado:
+
+- O resultado por forma de pagamento: seis pares no cartão e cinco no Pix, antes do frete, na resposta rápida, no veredito, no FAQ e no quadro.
+- "Quase o mesmo produto" saiu: o texto descreve os modelos comparados, sem dizer que são equivalentes.
+- Garantias: entraram as exclusões da Bagaggio (desgaste do uso e danos no transporte, pelo [[bagaggio-garantia-vitalicia]]; "acidentes", da proposta, não entrou porque não foi conferido), a data 29/04/2024 no lugar de "fim de abril", e o veredito deixou de sugerir que a Supergarantia dura menos.
+- Pix: o texto diz que só a Route média foi conferida no carrinho e que as outras malas são conta.
+- O aviso do lint é do `DesktopNav.tsx` (`closeNow` fora das dependências de um `useEffect`), anterior ao artigo.
