@@ -195,3 +195,16 @@ caro dos shorts" no Outlet feminino, "itens elegíveis" no "vale a pena", a FAQ 
 - **Não aplicado:** a data de 30/10 acima das duas tabelas do kit (o artigo já a traz em "Como ler a conta do kit" e está
   no limite de datas); e "o cupom não vale na compra de gift card" no presente de Natal, porque o nosso teste mostra o
   contrário: o cupom tirou 15% do cartão, e o que não aceita cupom é o pedido pago com o gift card.
+
+### Ajustes depois do parecer do ChatGPT (15/11, mesmo dia)
+
+- O teste do esquenta leva o dia, 31/10/2026, uma vez no corpo, com `bodyDatesReason: "campanha"`. Isso substitui o
+  "no fim de outubro" registrado acima.
+- A FAQ da Black Friday cita o EMCASACOMCECILIA na resposta, sem data.
+- Resposta rápida: "15% OFF nos itens elegíveis do site" no lugar de "nas compras do site".
+- `kit-insider-quando-compensa`: a recusa do cupom ficou limitada ao kit de 3 Daily daquela comparação, no corpo e na
+  FAQ. O kit "Compre 1 Daily T-shirt e ganhe 1 Cueca Boxer Comfort" recebeu os 15% (R$ 139,00 por R$ 118,15, registro
+  de `/cupons/insider`), então "a Daily não aceita o cupom" era generalização.
+- Pendente, fora deste lote: três respostas rápidas de artigos com `affiliate: "insider"` ainda sem código e percentual
+  (`camiseta-insider-encolhe-como-lavar`, `como-evitar-mancha-de-suor-na-camisa-social`, `cueca-para-academia`). São
+  textos informacionais; decidir por intenção de cada um, sem link por automatismo.
