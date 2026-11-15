@@ -18,7 +18,7 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 - **Site da Haier no Brasil (14/11):** três air fryers nos eletroportáteis (5 L, 7 L e 12 L Air Fryer Oven HSAF-EV1201BBR, com rotisserie e "janelas superior e inferior com iluminação interna"). A página institucional traz os números do grupo (fundado em 1984, marcas GE Appliances, Fisher & Paykel e Candy).
 - **Amazon (14/11, lista de busca):** a de 12 L com rotisserie a R$ 607,05 (220 V) e R$ 611,70 (127 V); a de 7 L a R$ 399,00. Vendedor não conferido. O Mercado Livre pede login.
 - **Conteúdo nosso:** dois guias de air fryer de abril (`airfryer-uma-breve-historia` e os "10 fatos") e nove receitas que citam air fryer, de 192. Nenhum artigo de modelo ou de marca de air fryer.
-- **Conclusão:** o gancho de busca é o espeto giratório, não a marca: a HA2 abre pelo recurso. A HA1 responde "de onde é" e "é boa marca". Pautas na [[Fila-de-Pautas]]; fatos, regras e perguntas em [[haier-air-fryer-1411]]. Falta ler quando a Haier chegou ao Brasil.
+- **Conclusão:** o gancho de busca é o espeto giratório, não a marca: a HA2 abre pelo recurso. A HA1 responde "de onde é" e "é boa marca". Pautas na [[Fila-de-Pautas]]; fatos, regras e perguntas em [[haier-air-fryer-1411]]. A chegada ao Brasil foi lida depois (estreia oficial em São Paulo em 14/05/2026, com Casas Bahia e Fast Shop; perfil no Reclame Aqui ainda sem reputação): ficha, seção 7.
 
 ---
 

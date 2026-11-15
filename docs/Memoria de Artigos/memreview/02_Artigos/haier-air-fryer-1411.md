@@ -121,6 +121,31 @@ interrompe o funcionamento; garantia de 12 meses com troca do produto inteiro em
 - **Lista oficial de acessórios:** foto da página do manual ou da caixa. A página de manuais da Haier não mostrou a
   air fryer na primeira tela.
 - **Mercado Livre:** vendedor e ficha do anúncio (pede login no navegador do app).
-- **Quando a Haier chegou ao Brasil**, para a HA1 e para a frase "marca nova no Brasil".
 - **Fotos** da caixa, dos acessórios, do espeto montado e da saída de ar. Até lá, quadros do vídeo.
 - **Galeto:** tempo, temperatura e resultado, já que não foi gravado.
+
+## 7. HA1: a Haier no Brasil (lido em 14/11/2026)
+
+| Fato | Fonte |
+|---|---|
+| Estreia oficial no Brasil num evento em São Paulo, na quinta-feira 14/05/2026 | Hardware.com.br, 17/05/2026 (`hardware.com.br/noticias/haier-eletrodomesticos-brasil-geladeiras-tvs-vendas/`) |
+| Chegou com TVs, geladeiras, lavadoras e lava e seca e ar-condicionado (split, janela e portátil) | idem; Showmetech, 15/05/2026 (`showmetech.com.br/haier-gigante-chinesa-de-eletrodomesticos-chega-ao-brasil/`) |
+| Varejistas da largada: Casas Bahia e Fast Shop | as duas reportagens |
+| Meta declarada: estar entre as três maiores do país em cinco anos | Hardware.com.br. O Showmetech também traz "marca número um" num trecho: usar "top 3", que aparece nas duas |
+| "Já temos mais de mil pontos de assistência técnica pelo Brasil" (Vinicius Borri, da Haier); 200 posições de atendimento | Hardware.com.br; declaração da empresa, com atribuição |
+| Plano de dez categorias de eletroportáteis, entre elas air fryer, cafeteira, liquidificador e aspirador; micro-ondas em 2027 | Showmetech |
+| Centro de distribuição no Terminal Industrial Multimodal da Serra (ES); TVs e ar-condicionado distribuídos de lá vêm da Zona Franca de Manaus; previsão de 60 mil unidades e cerca de R$ 40 milhões na operação capixaba em 2026 | ES Hoje, 20/10/2026 (`eshoje.com.br/economia/2026/10/lider-mundial-em-eletrodomesticos-gigante-chinesa-haier-escolhe-o-es-para-expansao-no-brasil/`) |
+| Fábrica própria no Brasil: o Showmetech fala em previsão para 2028; em outubro, o ES Hoje diz que a empresa ainda estuda se e onde | **Fontes divergem:** escrever "a empresa fala em fábrica própria, sem endereço anunciado" |
+| Atendimento: 0800 700 7001, WhatsApp +55 11 99364-2416, sac.br@haier.com | `haier.com/br-pt/service-support/` |
+| Reclame Aqui: perfil "HAIER SMART HOME DO BRASIL LTDA", CNPJ 62.847.820/0001-70, há 10 meses no site, não verificado, sem reputação definida (3 reclamações de 01/05 a 31/10/2026, todas respondidas, tempo médio de 3 dias e 23 horas) | `reclameaqui.com.br/empresa/haier-smart-home-do-brasil-ltda/` |
+
+- **"Marca nova no Brasil" se sustenta:** a estreia oficial é de maio de 2026. Ressalva do Showmetech: quem procurava
+  ar-condicionado "já tinha visto opções da Haier" antes. Escrever "estreou oficialmente no Brasil em maio de 2026".
+- **Reclame Aqui:** três reclamações não fazem reputação. A HA1 diz que ainda não há nota e por quê (menos de dez
+  reclamações avaliadas), sem "é confiável" nem o contrário. Há um perfil "HAIER DESIGNER | Sergipe", de outra
+  empresa: não confundir.
+- **A air fryer no Brasil:** as reportagens de maio não trazem eletroportáteis na largada. O site brasileiro lista
+  três air fryers e a Amazon vende a de 12 L (seção 2). Data de lançamento da air fryer aqui: sem leitura.
+- **Sede e fundação:** a página oficial lida diz "fundada em 1984" e não cita a cidade. Qingdao só entra com fonte
+  lida na semana do texto.
+- **Sem leitura:** garantia por categoria, rede de assistência para eletroportáteis, e se a air fryer é importada.
