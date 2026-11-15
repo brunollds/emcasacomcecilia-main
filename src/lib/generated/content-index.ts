@@ -220752,7 +220752,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O 4CW5Y é código de indicação da SHEIN para o primeiro pedido e os seguintes: pesquise no app ou no site e veja a seleção de promoções e descontos.",
     "publishedAt": "13 de novembro de 2026",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/shein/cupom-shein-primeira-compra-capa-pt-v2.webp",
@@ -220791,6 +220791,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SHEIN primeira compra: o que usar",
         "paragraphs": [
+          "A SHEIN é uma loja online de moda, acessórios e produtos para a casa. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [SHEIN é confiável?](/reviews/shein-e-confiavel).",
           "Para a primeira compra na SHEIN, use o 4CW5Y, o código de indicação da Cecília: ele se pesquisa na busca do app ou do site, e não no campo de cupom.",
           "Os valores de primeira compra anunciados em sites de cupom costumam vir sem fonte da SHEIN: antes de contar com um deles, confira na própria SHEIN. As campanhas em vigor ficam na nossa página de [cupom SHEIN](/cupons/shein)."
         ]
@@ -220810,6 +220811,21 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
+        ]
+      },
+      {
+        "heading": "Onde achar um cupom de checkout da SHEIN",
+        "paragraphs": [
+          "O 4CW5Y abre a seleção de promoções. Cupom de checkout é outra coisa: a SHEIN e os vendedores da plataforma podem oferecer cupons para o fechamento do pedido. Você pode procurar cupons nestes lugares:"
+        ],
+        "bullets": [
+          "**Nossa página de cupons:** os códigos das campanhas em vigor ficam em [cupom SHEIN](/cupons/shein), com as condições de cada um.",
+          "**Sua conta na SHEIN:** entre na conta e abra Meus Cupons, no menu do perfil. Ali ficam os cupons ligados à sua conta, com a validade e a regra de cada um.",
+          "**Site e app da SHEIN:** a loja também oferece cupons na página inicial, em janelas de campanha e no carrinho. Esses nem sempre ficam guardados na conta."
+        ],
+        "postParagraphs": [
+          "Pela [política de cupons da SHEIN](https://br.shein.com/Coupon-Policy-a-1302.html), quem cria uma conta pode receber um cupom depois do cadastro, mas a loja não garante. Cada cupom tem validade e só pode ser usado uma vez. Por pedido entra um cupom da SHEIN; produtos de vendedores locais podem ter também o cupom da própria loja.",
+          "O cupom é aplicado no fechamento do pedido: confira o desconto no resumo antes de pagar. O 4CW5Y não ocupa o campo de cupom, porque só abre a seleção."
         ]
       },
       {
@@ -220836,7 +220852,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom SHEIN de primeira compra? Para o primeiro pedido, o código da Cecília é o 4CW5Y, um código de indicação: pesquise no app ou no site e veja a seleção que a busca abre.",
+          "Como encontrar desconto na primeira compra na SHEIN? Pesquise 4CW5Y na busca do site ou do app para acessar a seleção de promoções e descontos da Cecília. Quanto e em quais peças, quem decide é a SHEIN. O código não vai no campo de cupom. Para cupons de checkout, veja as campanhas em [cupom SHEIN](/cupons/shein).",
           "O 4CW5Y é cupom? Não. É código de indicação, pesquisado no app ou no site, e não vai no campo de cupom do carrinho.",
           "O 4CW5Y funciona para quem já comprou? Funciona. O código vale também nos pedidos seguintes, e a pesquisa não exige login.",
           "O 4CW5Y vale no site e no app? Vale nos dois: a busca do app e a do site abrem a página do código."
@@ -223934,7 +223950,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "4CW5Y is a SHEIN referral code for your first order and later ones: search it in the app or on the website to see promotions and discounts.",
     "publishedAt": "November 13, 2026",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -223974,6 +223990,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN first order coupon: what to use",
         "paragraphs": [
+          "SHEIN is an online store for fashion, accessories and home products. Before your first order, see the company details and what to check before buying in [Is SHEIN legit and safe?](/en/reviews/is-shein-legit-and-safe).",
           "For your first SHEIN order, use 4CW5Y, Cecília's referral code: you search it in the search bar of the app or website, not in the coupon field.",
           "Some coupon sites advertise first-order amounts with no SHEIN source behind them: before counting on one, check it on SHEIN itself. The campaigns currently running are on our [SHEIN coupon](/en/coupons/shein) page."
         ]
@@ -223993,6 +224010,21 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
+        ]
+      },
+      {
+        "heading": "Where to find a SHEIN checkout coupon",
+        "paragraphs": [
+          "4CW5Y opens the selection of promotions. A checkout coupon is a different thing: SHEIN and the sellers on the platform can offer coupons to use at checkout. You can look for coupons in these places:"
+        ],
+        "bullets": [
+          "**Our coupons page:** the codes of the campaigns running now are on [SHEIN coupon](/en/coupons/shein), with the conditions of each one.",
+          "**Your SHEIN account:** sign in and open the coupons area of your account. The coupons linked to your account are there, with each one's expiry date and rules.",
+          "**SHEIN site and app:** the store also offers coupons on the home page, in campaign pop-ups and in the cart. These are not always saved to your account."
+        ],
+        "postParagraphs": [
+          "SHEIN may give a new account a coupon after sign-up, but it does not guarantee one. Each coupon has an expiry date and can be used only once, and the rules can change from one SHEIN country site to another: read the conditions shown with the coupon.",
+          "The coupon is applied at checkout: check the discount in the order summary before paying. 4CW5Y does not take up the coupon field, because it only opens the selection."
         ]
       },
       {
@@ -224019,7 +224051,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Is there a SHEIN first order coupon? For your first order, Cecília's code is 4CW5Y, a referral code: search it in the app or on the website and see the selection the search opens.",
+          "How do I find a discount on my first SHEIN order? Search 4CW5Y in the site or app search to reach Cecília's selection of promotions and discounts. How much and on which items is up to SHEIN. The code does not go in the coupon field. For checkout coupons, see the campaigns on [SHEIN coupon](/en/coupons/shein).",
           "Is 4CW5Y a coupon? No. It is a referral code, searched in the app or on the website, and it does not go in the cart's coupon field.",
           "Does 4CW5Y work for customers who have already ordered? Yes. The code also works on later orders, and the search does not require a login.",
           "Does 4CW5Y work on the website and in the app? Yes, on both: the search in the app and on the website open the code's page."
@@ -224048,7 +224080,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "El 4CW5Y es un código de referido de SHEIN para el primer pedido y los siguientes: búscalo en la app o en el sitio y mira su selección de descuentos.",
     "publishedAt": "13 de noviembre de 2026",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -224088,6 +224120,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupón SHEIN primera compra: qué usar",
         "paragraphs": [
+          "SHEIN es una tienda en línea de moda, accesorios y productos para el hogar. Antes de tu primer pedido, consulta los datos de la empresa y qué conviene comprobar antes de comprar en [¿SHEIN es confiable y segura?](/es/reviews/shein-es-confiable-y-seguro).",
           "Para tu primera compra en SHEIN, usa el 4CW5Y, el código de referido de Cecília: se busca en el buscador de la app o del sitio, y no en el campo de cupón.",
           "Los valores de primera compra que anuncian algunos sitios de cupones no tienen respaldo de SHEIN: antes de contar con uno, compruébalo en la propia SHEIN. Las campañas vigentes están en nuestra página de [cupón SHEIN](/es/coupons/shein)."
         ]
@@ -224107,6 +224140,21 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
+        ]
+      },
+      {
+        "heading": "Dónde encontrar un cupón SHEIN para el pago",
+        "paragraphs": [
+          "El 4CW5Y abre la selección de promociones. Un cupón para el pago es otra cosa: SHEIN y los vendedores de la plataforma pueden ofrecer cupones para usar al pagar. Puedes buscar cupones en estos lugares:"
+        ],
+        "bullets": [
+          "**Nuestra página de cupones:** los códigos de las campañas vigentes están en [cupón SHEIN](/es/coupons/shein), con las condiciones de cada uno.",
+          "**Tu cuenta de SHEIN:** inicia sesión y abre el área de cupones de tu cuenta. Ahí están los cupones vinculados a tu cuenta, con la fecha de vencimiento y las reglas de cada uno.",
+          "**Sitio y app de SHEIN:** la tienda también ofrece cupones en la página de inicio, en ventanas de campaña y en el carrito. No siempre se guardan en tu cuenta."
+        ],
+        "postParagraphs": [
+          "SHEIN puede dar un cupón a una cuenta nueva después del registro, pero no lo garantiza. Cada cupón tiene fecha de vencimiento y se puede usar una sola vez, y las reglas pueden cambiar de un sitio de SHEIN a otro según el país: lee las condiciones que aparecen junto al cupón.",
+          "El cupón se aplica al pagar: revisa el descuento en el resumen del pedido antes de pagar. El 4CW5Y no ocupa el campo de cupón, porque solo abre la selección."
         ]
       },
       {
@@ -224133,7 +224181,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Hay un cupón SHEIN de primera compra? Para el primer pedido, el código de Cecília es el 4CW5Y, un código de referido: búscalo en la app o en el sitio y mira la selección que abre la búsqueda.",
+          "¿Cómo encuentro un descuento en mi primera compra en SHEIN? Busca el 4CW5Y en el buscador del sitio o de la app para llegar a la selección de promociones y descuentos de Cecília. Cuánto y en qué prendas lo decide SHEIN. El código no va en el campo de cupón. Para cupones de pago, mira las campañas en [cupón SHEIN](/es/coupons/shein).",
           "¿El 4CW5Y es un cupón? No. Es un código de referido, que se busca en la app o en el sitio y no va en el campo de cupón del carrito.",
           "¿El 4CW5Y funciona para quien ya compró? Sí. El código vale también en los pedidos siguientes, y la búsqueda no exige iniciar sesión.",
           "¿El 4CW5Y vale en el sitio y en la app? Vale en los dos: el buscador de la app y el del sitio abren la página del código."
@@ -224162,7 +224210,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Le 4CW5Y est un code de parrainage SHEIN, pour la première commande et les suivantes : saisissez-le dans la recherche, appli ou site, et voyez la sélection de promotions.",
     "publishedAt": "13 novembre 2026",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -224202,6 +224250,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Code promo SHEIN première commande : que faut-il utiliser ?",
         "paragraphs": [
+          "SHEIN est une boutique en ligne de mode, d'accessoires et de produits pour la maison. Avant votre première commande, consultez les informations sur l'entreprise et ce qu'il faut vérifier avant d'acheter dans [SHEIN est-il fiable et sûr ?](/fr/reviews/shein-est-il-fiable-et-sur).",
           "Pour une première commande sur SHEIN, utilisez le 4CW5Y, le code de parrainage de Cecília : il se recherche dans la barre de recherche de l'application ou du site, et non dans le champ du code promo.",
           "Les montants de première commande annoncés sur les sites de codes promo viennent souvent sans source officielle de SHEIN : avant de compter sur l'un d'eux, vérifiez-le sur SHEIN même. Les campagnes en cours se trouvent sur notre page [code de parrainage SHEIN](/fr/coupons/shein)."
         ]
@@ -224221,6 +224270,21 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
+        ]
+      },
+      {
+        "heading": "Où trouver un code promo de paiement SHEIN",
+        "paragraphs": [
+          "Le 4CW5Y ouvre la sélection de promotions. Un code promo de paiement, c'est autre chose : SHEIN et les vendeurs de la plateforme peuvent proposer des codes promo à utiliser au paiement. Vous pouvez les chercher à ces endroits :"
+        ],
+        "bullets": [
+          "**Notre page de codes promo :** les codes des campagnes en cours se trouvent sur [code promo SHEIN](/fr/coupons/shein), avec les conditions de chacun.",
+          "**Votre compte SHEIN :** connectez-vous et ouvrez l'espace des codes promo de votre compte. Les codes liés à votre compte y figurent, avec la date d'expiration et les règles de chacun.",
+          "**Site et application SHEIN :** la boutique propose aussi des codes promo sur la page d'accueil, dans les fenêtres de campagne et dans le panier. Ils ne sont pas toujours enregistrés dans votre compte."
+        ],
+        "postParagraphs": [
+          "SHEIN peut offrir un code promo à un nouveau compte après l'inscription, mais ne le garantit pas. Chaque code a une date d'expiration et ne peut servir qu'une fois, et les règles peuvent changer d'un site SHEIN national à un autre : lisez les conditions affichées avec le code.",
+          "Le code promo s'applique au paiement : vérifiez la réduction dans le récapitulatif de la commande avant de payer. Le 4CW5Y n'occupe pas le champ du code promo, car il ne fait qu'ouvrir la sélection."
         ]
       },
       {
@@ -224247,7 +224311,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Existe-t-il un code promo SHEIN pour la première commande ? Pour la première commande, le code de Cecília est le 4CW5Y, un code de parrainage : recherchez-le dans l'application ou sur le site et voyez la sélection qu'ouvre la recherche.",
+          "Comment trouver une réduction pour ma première commande SHEIN ? Recherchez le 4CW5Y dans la barre de recherche du site ou de l'application pour accéder à la sélection de promotions et de réductions de Cecília. Le montant et les pièces concernées, c'est SHEIN qui les décide. Le code ne se saisit pas dans le champ du code promo. Pour les codes promo de paiement, consultez les campagnes sur [code promo SHEIN](/fr/coupons/shein).",
           "Le 4CW5Y est-il un code promo ? Non. C'est un code de parrainage, qui se recherche dans l'application ou sur le site, et non dans le champ du code promo du panier.",
           "Le 4CW5Y fonctionne-t-il pour qui a déjà commandé ? Oui. Le code reste valable pour les commandes suivantes, et la recherche n'exige pas de connexion.",
           "Le 4CW5Y est-il valable sur le site et dans l'application ? Dans les deux : la recherche de l'application comme celle du site ouvrent la page du code."
@@ -224276,7 +224340,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "4CW5Y ist der SHEIN-Empfehlungscode für die erste und alle weiteren Bestellungen: In der App oder auf der Website suchen und die Auswahl an Aktionen und Rabatten ansehen.",
     "publishedAt": "13. November 2026",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -224316,6 +224380,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Für die Erstbestellung: was Sie nutzen",
         "paragraphs": [
+          "SHEIN ist ein Online-Shop für Mode, Accessoires und Haushaltsprodukte. Vor Ihrer ersten Bestellung finden Sie die Angaben zum Unternehmen und was Sie vor dem Kauf prüfen sollten in [Ist SHEIN seriös und sicher?](/de/reviews/ist-shein-serioes-und-sicher).",
           "Für die erste Bestellung bei SHEIN nutzen Sie 4CW5Y, den Empfehlungscode von Cecília: Er wird in der Suche der App oder der Website eingegeben und nicht im Gutscheinfeld.",
           "Beträge für die Erstbestellung, die auf Gutscheinseiten genannt werden, haben oft keine Quelle bei SHEIN: Prüfen Sie sie direkt bei SHEIN, bevor Sie mit einem davon rechnen. Die laufenden Kampagnen stehen auf unserer [SHEIN-Seite](/de/coupons/shein)."
         ]
@@ -224335,6 +224400,21 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
+        ]
+      },
+      {
+        "heading": "Wo Sie einen SHEIN-Gutschein für den Checkout finden",
+        "paragraphs": [
+          "4CW5Y öffnet die Auswahl an Aktionen. Ein Gutschein für den Checkout ist etwas anderes: SHEIN und die Verkäufer der Plattform können Gutscheine anbieten, die Sie beim Bezahlen einlösen. Gutscheine finden Sie an diesen Stellen:"
+        ],
+        "bullets": [
+          "**Unsere Gutscheinseite:** Die Codes der laufenden Kampagnen stehen unter [SHEIN-Gutschein](/de/coupons/shein), jeweils mit den Bedingungen.",
+          "**Ihr SHEIN-Konto:** Melden Sie sich an und öffnen Sie den Gutscheinbereich Ihres Kontos. Die mit Ihrem Konto verknüpften Gutscheine stehen dort, mit Ablaufdatum und Regeln.",
+          "**SHEIN-Website und App:** Der Shop bietet Gutscheine auch auf der Startseite, in Kampagnen-Pop-ups und im Warenkorb an. Sie werden nicht immer in Ihrem Konto gespeichert."
+        ],
+        "postParagraphs": [
+          "SHEIN kann einem neuen Konto nach der Registrierung einen Gutschein geben, garantiert ihn aber nicht. Jeder Gutschein hat ein Ablaufdatum und lässt sich nur einmal einlösen, und die Regeln können sich von einer SHEIN-Länderseite zur anderen unterscheiden: Lesen Sie die Bedingungen, die beim Gutschein stehen.",
+          "Der Gutschein wird beim Bezahlen angewendet: Prüfen Sie den Rabatt in der Bestellübersicht, bevor Sie bezahlen. 4CW5Y belegt das Gutscheinfeld nicht, denn er öffnet nur die Auswahl."
         ]
       },
       {
@@ -224361,7 +224441,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Welcher Code gilt bei der ersten Bestellung bei SHEIN? Cecílias Code 4CW5Y, ein Empfehlungscode: In der App oder auf der Website suchen und die Auswahl ansehen, die die Suche öffnet.",
+          "Wie finde ich einen Rabatt für meine erste SHEIN-Bestellung? Suchen Sie 4CW5Y in der Suche der Website oder der App, um zu Cecílias Auswahl an Aktionen und Rabatten zu gelangen. Wie hoch und auf welche Teile, entscheidet SHEIN. Der Code gehört nicht ins Gutscheinfeld. Für Gutscheine beim Checkout sehen Sie sich die Kampagnen unter [SHEIN-Gutschein](/de/coupons/shein) an.",
           "Ist 4CW5Y ein Gutschein? Nein. Es ist ein Empfehlungscode, der in der App oder auf der Website gesucht wird und nicht ins Gutscheinfeld des Warenkorbs gehört.",
           "Funktioniert 4CW5Y auch für Kundinnen und Kunden, die schon bestellt haben? Ja. Der Code gilt auch bei weiteren Bestellungen, und die Suche verlangt keine Anmeldung.",
           "Gilt 4CW5Y auf der Website und in der App? Auf beidem: Die Suche der App und die der Website öffnen die Seite des Codes."
@@ -224390,7 +224470,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Il 4CW5Y è il codice invito SHEIN per il primo ordine e per i successivi: cercalo nell'app o nel sito e guarda la selezione di promozioni e sconti.",
     "publishedAt": "13 novembre 2026",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -224430,6 +224510,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Codice sconto SHEIN primo ordine: cosa usare",
         "paragraphs": [
+          "SHEIN è un negozio online di moda, accessori e prodotti per la casa. Prima del primo ordine, trova i dati dell'azienda e cosa controllare prima di acquistare in [SHEIN è affidabile e sicuro?](/it/reviews/shein-e-affidabile-e-sicuro).",
           "Per il primo ordine su SHEIN usa il 4CW5Y, il codice invito di Cecília: si cerca nella barra di ricerca dell'app o del sito, non nel campo del coupon.",
           "Gli importi per il primo ordine pubblicati sui siti di coupon di solito non hanno una fonte SHEIN: prima di contare su uno di essi, controlla sul sito di SHEIN. Le campagne in corso sono nella nostra pagina del [codice sconto SHEIN](/it/coupons/shein)."
         ]
@@ -224449,6 +224530,21 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
+        ]
+      },
+      {
+        "heading": "Dove trovare un coupon SHEIN per il checkout",
+        "paragraphs": [
+          "Il 4CW5Y apre la selezione di promozioni. Un coupon per il checkout è un'altra cosa: SHEIN e i venditori della piattaforma possono offrire coupon da usare al momento del pagamento. Puoi cercare i coupon in questi posti:"
+        ],
+        "bullets": [
+          "**La nostra pagina dei coupon:** i codici delle campagne in corso sono nella pagina [coupon SHEIN](/it/coupons/shein), con le condizioni di ciascuno.",
+          "**Il tuo account SHEIN:** accedi e apri l'area dei coupon del tuo account. I coupon collegati al tuo account sono lì, con la scadenza e le regole di ciascuno.",
+          "**Sito e app di SHEIN:** il negozio offre coupon anche nella home page, nei pop-up delle campagne e nel carrello. Non sempre vengono salvati nel tuo account."
+        ],
+        "postParagraphs": [
+          "SHEIN può dare un coupon a un nuovo account dopo la registrazione, ma non lo garantisce. Ogni coupon ha una scadenza e si può usare una sola volta, e le regole possono cambiare da un sito SHEIN nazionale all'altro: leggi le condizioni mostrate con il coupon.",
+          "Il coupon si applica al checkout: controlla lo sconto nel riepilogo dell'ordine prima di pagare. Il 4CW5Y non occupa il campo del coupon, perché apre soltanto la selezione."
         ]
       },
       {
@@ -224475,7 +224571,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "C'è un codice sconto SHEIN per il primo ordine? Per il primo ordine il codice di Cecília è il 4CW5Y, un codice invito: cercalo nell'app o nel sito e guarda la selezione che la ricerca apre.",
+          "Come trovo uno sconto per il mio primo ordine su SHEIN? Cerca il 4CW5Y nella ricerca del sito o dell'app per arrivare alla selezione di promozioni e sconti di Cecília. Quanto e su quali capi lo decide SHEIN. Il codice non va nel campo del coupon. Per i coupon del checkout, guarda le campagne nella pagina [coupon SHEIN](/it/coupons/shein).",
           "Il 4CW5Y è un coupon? No. È un codice invito, che si cerca nell'app o nel sito e non va nel campo del coupon del carrello.",
           "Il 4CW5Y funziona per chi ha già acquistato? Sì. Il codice vale anche negli ordini successivi, e la ricerca non richiede l'accesso.",
           "Il 4CW5Y vale sul sito e nell'app? Vale su entrambi: la ricerca dell'app e quella del sito aprono la pagina del codice."
@@ -224504,7 +224600,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "4CW5Yは初回注文にも2回目以降にも使えるSHEINの紹介コードです。アプリまたはサイトで検索すると、セールと割引の特集ページが開きます。",
     "publishedAt": "2026年11月13日",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -224544,6 +224640,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEINの初回クーポン：使うもの",
         "paragraphs": [
+          "SHEINはファッション、アクセサリー、ホーム用品のオンラインストアです。最初の注文の前に、会社の情報と購入前に確認することを[SHEIN は安全？](/ja/reviews/shein-trust-guide-ja)で確認してください。",
           "SHEINの最初の注文には、Cecíliaの紹介コード4CW5Yを使います。入力先はクーポン欄ではなく、アプリまたはサイトの検索です。",
           "クーポンサイトに載っている初回注文の金額や割引は、SHEINの情報源が示されていないものが多くあります。頼りにする前に、SHEINのページで確認してください。実施中のキャンペーンは、このサイトの[SHEINのクーポン](/ja/coupons/shein)のページにあります。"
         ]
@@ -224563,6 +224660,21 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
+        ]
+      },
+      {
+        "heading": "SHEINのチェックアウト用クーポンを探す場所",
+        "paragraphs": [
+          "4CW5Yが開くのは、セールと割引の特集です。チェックアウト用のクーポンは別のものです。SHEINやプラットフォームの出店者が、支払い時に使えるクーポンを出すことがあります。クーポンは次の場所で探せます。"
+        ],
+        "bullets": [
+          "**このサイトのクーポンページ：**実施中のキャンペーンのコードは[SHEINのクーポン](/ja/coupons/shein)にあり、それぞれの条件も載せています。",
+          "**SHEINのアカウント：**ログインして、アカウントのクーポンの欄を開きます。アカウントに紐づくクーポンが、有効期限とルールとともに表示されます。",
+          "**SHEINのサイトとアプリ：**ストアは、ホーム画面、キャンペーンのポップアップ、カートでもクーポンを出します。アカウントに保存されるとは限りません。"
+        ],
+        "postParagraphs": [
+          "SHEINは新しいアカウントに登録後クーポンを出すことがありますが、必ず出るとは限りません。クーポンにはそれぞれ有効期限があり、使えるのは1回だけです。ルールはSHEINの国別サイトによって変わることがあるので、クーポンに表示された条件を読んでください。",
+          "クーポンはチェックアウトで適用されます。支払う前に、注文内容の概要で割引を確認してください。4CW5Yはクーポン欄を使いません。特集を開くだけだからです。"
         ]
       },
       {
@@ -224589,7 +224701,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "SHEINに初回注文のクーポンはありますか？ 最初の注文には、Cecíliaのコード4CW5Yを使います。紹介コードです。アプリまたはサイトで検索すると、特集ページが開きます。",
+          "SHEINの初回注文で割引を見つけるには？ サイトまたはアプリの検索で4CW5Yを検索すると、Cecíliaのセールと割引の特集に進めます。割引の大きさと対象の商品はSHEINが決めます。コードはクーポン欄には入力しません。チェックアウト用のクーポンは、[SHEINのクーポン](/ja/coupons/shein)のキャンペーンを見てください。",
           "4CW5Yはクーポンですか？ いいえ。紹介コードです。アプリまたはサイトで検索して使い、カートのクーポン欄には入力しません。",
           "4CW5Yは購入したことがある人も使えますか？ 使えます。2回目以降の注文でも使え、検索にログインは必要ありません。",
           "4CW5Yはサイトとアプリのどちらで使えますか？ どちらでも使えます。アプリの検索でも、サイトの検索でも、コードのページが開きます。"
@@ -224618,7 +224730,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "4CW5Y는 첫 주문과 이후 주문에 쓰는 SHEIN 추천 코드입니다. 앱이나 사이트에서 검색하면 프로모션과 할인 모음 페이지가 열립니다.",
     "publishedAt": "2026년 11월 13일",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -224658,6 +224770,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN 첫 구매 쿠폰: 무엇을 쓰나요",
         "paragraphs": [
+          "SHEIN은 패션, 액세서리, 생활용품을 판매하는 온라인 스토어입니다. 첫 주문 전에 회사 정보와 구매 전에 확인할 점을 [SHEIN(쉬인)은 믿을 만하고 안전한가요?](/ko/reviews/shein-trust-guide-ko)에서 살펴보세요.",
           "SHEIN 첫 구매에는 Cecília의 추천 코드 4CW5Y를 사용하세요. 쿠폰 칸이 아니라 앱이나 사이트의 검색창에서 검색합니다.",
           "쿠폰 사이트에 올라온 첫 구매 혜택 금액은 SHEIN의 출처 없이 게시된 경우가 많습니다. 기대하기 전에 SHEIN에서 직접 확인하세요. 진행 중인 캠페인은 이 사이트의 [SHEIN 페이지](/ko/coupons/shein)에서 볼 수 있습니다."
         ]
@@ -224677,6 +224790,21 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
+        ]
+      },
+      {
+        "heading": "SHEIN 결제용 쿠폰을 찾는 곳",
+        "paragraphs": [
+          "4CW5Y는 프로모션 모음 페이지를 엽니다. 결제용 쿠폰은 다른 것입니다. SHEIN과 플랫폼의 판매자는 결제할 때 쓰는 쿠폰을 제공할 수 있습니다. 쿠폰은 다음 곳에서 찾아볼 수 있습니다."
+        ],
+        "bullets": [
+          "**이 사이트의 쿠폰 페이지:** 진행 중인 캠페인의 코드는 [SHEIN 쿠폰](/ko/coupons/shein)에 있으며, 각 코드의 조건도 함께 적혀 있습니다.",
+          "**내 SHEIN 계정:** 로그인한 뒤 계정의 쿠폰 영역을 여세요. 계정에 연결된 쿠폰이 유효 기간과 규칙과 함께 보입니다.",
+          "**SHEIN 사이트와 앱:** 스토어는 홈 화면, 캠페인 팝업, 장바구니에서도 쿠폰을 제공합니다. 계정에 항상 저장되는 것은 아닙니다."
+        ],
+        "postParagraphs": [
+          "SHEIN은 새 계정에 가입 후 쿠폰을 줄 수 있지만 반드시 주는 것은 아닙니다. 쿠폰마다 유효 기간이 있고 한 번만 쓸 수 있으며, 규칙은 SHEIN의 국가별 사이트에 따라 달라질 수 있습니다. 쿠폰과 함께 표시되는 조건을 읽어 보세요.",
+          "쿠폰은 결제 단계에서 적용됩니다. 결제하기 전에 주문 요약에서 할인을 확인하세요. 4CW5Y는 쿠폰 칸을 쓰지 않습니다. 모음 페이지를 열기만 하기 때문입니다."
         ]
       },
       {
@@ -224703,7 +224831,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "SHEIN 첫 구매 쿠폰이 있나요? 첫 주문에는 Cecília의 코드 4CW5Y를 쓰세요. 추천 코드이며, 앱이나 사이트에서 검색하면 열리는 모음 페이지에서 상품을 고르면 됩니다.",
+          "SHEIN 첫 주문에서 할인은 어떻게 찾나요? 사이트나 앱의 검색창에서 4CW5Y를 검색하면 Cecília의 프로모션과 할인 모음 페이지로 이동합니다. 할인 폭과 대상 상품은 SHEIN이 정합니다. 코드는 쿠폰 칸에 입력하지 않습니다. 결제용 쿠폰은 [SHEIN 쿠폰](/ko/coupons/shein)에서 캠페인을 확인하세요.",
           "4CW5Y는 쿠폰인가요? 아니요. 추천 코드이며 앱이나 사이트에서 검색합니다. 장바구니의 쿠폰 칸에는 입력하지 않습니다.",
           "이미 구매한 적이 있어도 4CW5Y를 쓸 수 있나요? 네. 이후 주문에도 유효하며, 검색에 로그인이 필요하지 않습니다.",
           "4CW5Y는 사이트와 앱 모두에서 쓸 수 있나요? 네. 앱 검색과 사이트 검색 모두 코드 페이지를 엽니다."
@@ -224732,7 +224860,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "4CW5Y 是 SHEIN 的推薦碼，第一筆和之後的訂單都能用：在 App 或網站搜尋，就能看到精選的促銷和折扣。",
     "publishedAt": "2026年11月13日",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -224772,6 +224900,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN 首購優惠：該用什麼",
         "paragraphs": [
+          "SHEIN 是販售服飾、配件和居家用品的線上商店。第一次下單前，請在 [SHEIN 可靠嗎？](/zh-hant/reviews/shein-trust-guide-zh-hant)中查看公司資訊和購買前要確認的事。",
           "第一次在 SHEIN 購物，可以用 Cecília 的推薦碼 4CW5Y：它要在 App 或網站的搜尋欄裡搜尋，而不是填進優惠券欄。",
           "優惠券網站上宣傳的首購金額，常常找不到 SHEIN 官方的依據，使用前請先到 SHEIN 官方網站或 App 確認。目前進行中的活動，請看本站的 [SHEIN 推薦碼與進行中的活動](/zh-hant/coupons/shein) 頁面。"
         ]
@@ -224791,6 +224920,21 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
+        ]
+      },
+      {
+        "heading": "在哪裡找 SHEIN 結帳優惠券",
+        "paragraphs": [
+          "4CW5Y 開啟的是促銷精選頁。結帳優惠券是另一回事：SHEIN 和平台上的賣家可以提供在結帳時使用的優惠券。可以在這些地方找優惠券："
+        ],
+        "bullets": [
+          "**本站的優惠券頁面：**目前進行中的活動代碼在 [SHEIN 優惠券](/zh-hant/coupons/shein)頁面，並附有每個代碼的條件。",
+          "**你的 SHEIN 帳號：**登入後，打開帳號裡的優惠券區域。與帳號連結的優惠券都在那裡，並標有各自的有效期限和規則。",
+          "**SHEIN 網站和 App：**商店也會在首頁、活動彈出視窗和購物車裡提供優惠券。它們不一定會儲存到你的帳號。"
+        ],
+        "postParagraphs": [
+          "SHEIN 可能在新帳號註冊後發放優惠券，但並不保證一定有。每張優惠券都有有效期限，只能使用一次，而且規則可能因 SHEIN 各國家或地區站點而不同：請閱讀優惠券旁顯示的條件。",
+          "優惠券在結帳時使用：付款前，請在訂單摘要裡確認折扣。4CW5Y 不占用優惠券欄，因為它只是開啟精選頁。"
         ]
       },
       {
@@ -224817,7 +224961,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "SHEIN 有首購優惠嗎？第一筆訂單可以用 Cecília 的推薦碼 4CW5Y，它是推薦碼：在 App 或網站搜尋，就能看到搜尋開啟的精選頁面。",
+          "SHEIN 首購怎麼找到優惠？在 App 或網站的搜尋欄搜尋 4CW5Y，就能進入 Cecília 的促銷和折扣精選頁。折扣多少、適用哪些單品，由 SHEIN 決定。這個代碼不填進優惠券欄。想找結帳優惠券，請到 [SHEIN 優惠券](/zh-hant/coupons/shein)頁面看目前的活動。",
           "4CW5Y 是優惠券嗎？不是。它是推薦碼，要在 App 或網站搜尋，不填進購物車的優惠券欄。",
           "已經買過的人也能用 4CW5Y 嗎？可以。推薦碼在之後的訂單也有效，而且搜尋不需要登入。",
           "4CW5Y 在網站和 App 都能用嗎？都能用：App 和網站的搜尋，都會開啟推薦碼的頁面。"
@@ -224846,7 +224990,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "4CW5Y 是 SHEIN 的推荐码，首单和之后的订单都能用：在应用或网站搜索，就能看到精选的促销和折扣页面。",
     "publishedAt": "2026年11月13日",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -224886,6 +225030,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN 首单优惠：用什么",
         "paragraphs": [
+          "SHEIN 是销售服饰、配饰和家居用品的网上商店。首次下单前，请在 [SHEIN 可靠吗？](/zh-hans/reviews/shein-trust-guide-zh-hans)中查看公司信息和购买前要确认的事。",
           "首次在 SHEIN 下单，请使用 Cecília 的推荐码 4CW5Y：它在应用或网站的搜索栏里搜索，而不是填进优惠券栏。",
           "优惠券网站上宣传的首单优惠金额，往往没有 SHEIN 的出处：指望它之前，请先到 SHEIN 官网或应用核实。目前进行中的活动在本站的 [SHEIN 优惠页](/zh-hans/coupons/shein)上。"
         ]
@@ -224905,6 +225050,21 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
+        ]
+      },
+      {
+        "heading": "在哪里找 SHEIN 结账优惠券",
+        "paragraphs": [
+          "4CW5Y 打开的是促销精选页。结账优惠券是另一回事：SHEIN 和平台上的卖家可以提供在结账时使用的优惠券。可以在这些地方找优惠券："
+        ],
+        "bullets": [
+          "**本站的优惠券页面：**目前进行中的活动的代码在 [SHEIN 优惠券](/zh-hans/coupons/shein)页面，并附有每个代码的条件。",
+          "**你的 SHEIN 账户：**登录后，打开账户里的优惠券区域。与账户关联的优惠券都在那里，并标有各自的有效期和规则。",
+          "**SHEIN 网站和应用：**商店也会在首页、活动弹窗和购物车里提供优惠券。它们不一定会保存到你的账户。"
+        ],
+        "postParagraphs": [
+          "SHEIN 可能在新账户注册后发放优惠券，但并不保证一定有。每张优惠券都有有效期，只能使用一次，而且规则可能因 SHEIN 各国家或地区站点而不同：请阅读优惠券旁显示的条件。",
+          "优惠券在结账时使用：付款前，请在订单摘要里核对折扣。4CW5Y 不占用优惠券栏，因为它只是打开精选页。"
         ]
       },
       {
@@ -224931,7 +225091,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "SHEIN 有首单优惠吗？首单可以用 Cecília 的推荐码 4CW5Y：在应用或网站搜索它，就能看到搜索打开的精选页面。",
+          "SHEIN 首单怎么找到优惠？在应用或网站的搜索栏搜索 4CW5Y，就能进入 Cecília 的促销和折扣精选页。折扣多少、适用哪些单品，由 SHEIN 决定。这个代码不填进优惠券栏。想找结账优惠券，请到 [SHEIN 优惠券](/zh-hans/coupons/shein)页面看目前的活动。",
           "4CW5Y 是优惠券吗？不是。它是推荐码，在应用或网站里搜索，不填进购物车的优惠券栏。",
           "买过东西的人能用 4CW5Y 吗？可以。这个推荐码在之后的订单里同样有效，而且搜索不需要登录。",
           "4CW5Y 在网站和应用上都能用吗？都能用：应用和网站的搜索都会打开该推荐码的页面。"
