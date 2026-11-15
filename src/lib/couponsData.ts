@@ -1281,7 +1281,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Existe cupom Insider de 20%, 25% ou 30%?',
         answer:
-          'Com código, o maior desconto que testamos na Insider é o do EMCASACOMCECILIA: 15%. Não testamos os códigos de 20% a 30% que aparecem em sites de cupom. O que rende mais é somar: os 15% entram sobre os preços de Black Friday e do Outlet, que já vêm reduzidos.',
+          'Com código, o maior desconto que testamos na Insider é o do EMCASACOMCECILIA: 15% OFF para clientes novos e antigos, sem valor mínimo, nos produtos elegíveis da loja online, inclusive Outlet, kits e preços de Black Friday. Lançamentos ficam de fora. Ao comparar com percentuais maiores, confira se o desconto anunciado vem de um código, de uma seleção promocional ou da combinação de benefícios.',
       },
       {
         question: 'O cupom EMCASACOMCECILIA está funcionando hoje?',
