@@ -81,7 +81,7 @@ texto mostra as duas colunas (Pix e cartão) e deixa o leitor ver onde vira.
    preço com o CECILIA10 e preço da Sestini no Pix e no cartão. Medidas ao lado do limite que cada companhia
    publica, com link para [[mala-de-bordo-bagaggio-qual-compensa]]. Sem dizer que uma mala "passa" ou "não passa".
 4. Mala média de 23 kg: os dois pares, mesma tabela. É onde a Sestini ganha no Pix (polipropileno). Link para
-   [[artigo-bagaggio-mala-23kg]] e [[tamanho-mala-bagaggio-p-m-g]].
+   [[mala-23kg-medidas-latam-gol-azul]] e [[tamanho-mala-bagaggio-p-m-g]].
 5. Mala grande de 32 kg: um par (ABS).
 6. Frete e retirada: a simulação de um CEP, com a cidade dita, e a retirada em loja grátis nas duas. Convite a
    simular o próprio CEP.
@@ -132,7 +132,7 @@ O nome de cada modelo da Bagaggio na tabela vira link de afiliado do produto. Os
 
 - `affiliate: "bagaggio"`, `coupon: "CECILIA10"`, `category: "guias-praticos-utilidade"`, `reviewKind: "guia"`,
   `type: "Comparativo de Marcas"`, com o campo `decision`. Só PT.
-- `relatedArticles`: `mala-de-bordo-bagaggio-qual-compensa`, `artigo-bagaggio-mala-23kg`,
+- `relatedArticles`: `mala-de-bordo-bagaggio-qual-compensa`, `mala-23kg-medidas-latam-gol-azul`,
   `bagaggio-garantia-vitalicia`, `mala-policarbonato-ou-abs-bagaggio`, `cupom-bagaggio-como-usar`.
 - Imagens: fotos de produto só da Bagaggio. Capa pelo Job 6, sem o logo nem produto da Sestini.
 
