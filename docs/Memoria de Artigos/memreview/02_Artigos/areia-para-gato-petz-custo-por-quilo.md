@@ -7,10 +7,10 @@ parceiro_slug: "petz"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "redigido"
+status: "publicado"
 score: 74
 responsavel: "Job-1 (Claude Fable 5.2)"
-proxima_acao: "revisão do Bruno no PR e deploy"
+proxima_acao: "reler os preços se a Black Friday mudar as ofertas"
 bloqueado_por: "-"
 data_criacao: "2026-11-15"
 i18n_cluster: null
@@ -137,3 +137,4 @@ que o rótulo declara e como o cupom, a oferta e a retirada mudam o valor.
   de 20 kg no grupo natural; conclusão da marca Petz limitada aos produtos comparados; tabelas com nome e pacote
   na mesma coluna (quatro colunas) e divididas em dez quadros (argila por marca, madeira e vegetais por tamanho,
   sílica natural e em cristal). A frase do vaso sanitário fica como declaração da embalagem da Petz Cereais.
+- **No ar em 15/11/2026:** PR #1018, release `c65b78df` (deploy `c6a06f69`, build `01a1e1ec`), smoke da página, do sitemap e do llms.txt; IndexNow enviado; captura `43785608541`.
