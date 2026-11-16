@@ -1,8 +1,12 @@
 // Regras do `affiliate` no validate:content: o slug de uma loja ou, no artigo de várias lojas, a lista delas
-// (docs/superpowers/plans/2026-11-09-artigo-varias-lojas.md). A lista vale só em português, de 2 a 4 lojas de código
-// comum, sem `coupon` nem `cta`: o código e o link de cada loja vêm de couponsData.ts.
+// (docs/superpowers/plans/2026-11-09-artigo-varias-lojas.md). A lista vale só em português, de 2 a 4 lojas, sem `coupon`
+// nem `cta`: o código e o link de cada loja vêm de couponsData.ts ou, no afiliado sem página, de affiliateStores.ts.
+// Entram a loja de código comum, a loja só de link (com ou sem código de indicação, como a SHEIN) e o afiliado sem
+// página que vale no idioma do artigo; o código de recompensa (YesStyle) e a loja com faixas ficam de fora.
+import { affiliateStoreServesLocale, getAffiliateStore } from '../src/lib/affiliateStores';
 import { resolveReviewLocale } from '../src/lib/content/review-i18n';
 import type { Coupon } from '../src/lib/couponsData';
+import { getStoreCode } from '../src/lib/homeStores';
 
 export const MIN_REVIEW_STORES = 2;
 export const MAX_REVIEW_STORES = 4;
@@ -77,12 +81,13 @@ export function storeFieldProblems(review: SectionReview): string[] {
 const CODE_LIKE = /\b(?=[A-Z0-9]*(?:\d|CECI|MAUAD|EMCASA))[A-Z0-9]{5,}\b/g;
 
 // Aviso (não erro) no artigo de várias lojas: código no texto que não é de nenhuma loja do artigo. Pega o código antigo
-// que ficou no parágrafo depois de a loja trocar o dela: os botões vêm de couponsData.ts, o texto não.
+// que ficou no parágrafo depois de a loja trocar o dela: os botões vêm de couponsData.ts, o texto não. O código de
+// indicação (o 4CW5Y da SHEIN) conta como código atual; a loja sem código e o afiliado sem página não têm o que conferir.
 export function staleCodeWarnings(review: SectionReview, coupons: readonly Coupon[]): string[] {
   if (!Array.isArray(review.affiliate)) return [];
   const slugs = new Set(review.affiliate as string[]);
   const current = new Set(
-    coupons.filter((coupon) => slugs.has(coupon.slug) && coupon.offerMode === 'discount-code').map((coupon) => (coupon as { code: string }).code.toUpperCase())
+    coupons.filter((coupon) => slugs.has(coupon.slug)).flatMap((coupon) => getStoreCode(coupon)?.toUpperCase() ?? [])
   );
   const found = new Set<string>();
   for (const section of review.contentSections ?? []) {
@@ -94,11 +99,11 @@ export function staleCodeWarnings(review: SectionReview, coupons: readonly Coupo
 
 // O idioma resolvido (sem locale é português); locale inválido não conta como português, e o validate:content já o
 // acusa à parte.
-function isPortuguese(locale: string | undefined): boolean {
+function localeOf(locale: string | undefined): string | undefined {
   try {
-    return resolveReviewLocale(locale) === 'pt';
+    return resolveReviewLocale(locale);
   } catch {
-    return false;
+    return undefined;
   }
 }
 
@@ -112,7 +117,12 @@ export function affiliateProblems(
   const bySlug = new Map(coupons.map((coupon) => [coupon.slug, coupon]));
 
   if (typeof affiliate === 'string') {
-    return bySlug.has(affiliate) ? [] : [`affiliate "${affiliate}" não é o slug de nenhuma loja de couponsData.ts`];
+    if (bySlug.has(affiliate)) return [];
+    // O afiliado sem página não tem recorte, bloco da loja nem dock: só existe como uma das linhas da lista.
+    if (getAffiliateStore(affiliate)) {
+      return [`affiliate "${affiliate}" é afiliado sem página (affiliateStores.ts): só entra em lista, no artigo de várias lojas`];
+    }
+    return [`affiliate "${affiliate}" não é o slug de nenhuma loja de couponsData.ts`];
   }
   if (!Array.isArray(affiliate) || affiliate.some((slug) => typeof slug !== 'string')) {
     return ['affiliate tem de ser o slug de uma loja ou uma lista de slugs'];
@@ -128,15 +138,23 @@ export function affiliateProblems(
   }
   const repeated = affiliate.filter((slug, index) => affiliate.indexOf(slug) !== index);
   if (repeated.length) problems.push(`affiliate com loja repetida: ${[...new Set(repeated)].join(', ')}`);
+  const locale = localeOf(review.locale);
   for (const slug of new Set(affiliate as string[])) {
     const coupon = bySlug.get(slug);
-    if (!coupon) problems.push(`affiliate "${slug}" não é o slug de nenhuma loja de couponsData.ts`);
-    else if (coupon.offerMode !== 'discount-code' || coupon.codeKind || coupon.tiers?.length) {
-      // Fora: loja só de link (e a de indicação, como a SHEIN), código de recompensa (YesStyle) e loja com faixas.
-      problems.push(`affiliate "${slug}": o artigo de várias lojas só aceita loja de código comum, sem faixas`);
+    if (coupon) {
+      // Fora: código de recompensa (YesStyle) e loja com faixas. A loja só de link entra, com ou sem código de indicação.
+      if (coupon.offerMode === 'discount-code' && (coupon.codeKind || coupon.tiers?.length)) {
+        problems.push(`affiliate "${slug}": o artigo de várias lojas não aceita código de recompensa nem loja com faixas`);
+      }
+      continue;
+    }
+    const linkOnly = getAffiliateStore(slug);
+    if (!linkOnly) problems.push(`affiliate "${slug}" não é o slug de nenhuma loja de couponsData.ts nem de affiliateStores.ts`);
+    else if (locale && !affiliateStoreServesLocale(linkOnly, locale)) {
+      problems.push(`affiliate "${slug}": o link da loja não vale em artigo em ${locale} (locales em affiliateStores.ts)`);
     }
   }
-  if (!isPortuguese(review.locale)) problems.push('affiliate em lista só em artigo em português');
+  if (locale !== 'pt') problems.push('affiliate em lista só em artigo em português');
   if (review.translationKey !== undefined) problems.push('affiliate em lista não aceita translationKey: a família traduzida fica para depois');
   if (review.coupon !== undefined) problems.push('affiliate em lista sem coupon: o código de cada loja vem de couponsData.ts');
   if (review.cta !== undefined) problems.push('affiliate em lista sem cta: o link de cada loja vem de couponsData.ts');

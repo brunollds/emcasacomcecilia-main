@@ -2,9 +2,9 @@ import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { resolveYesStylePage } from '@/components/coupons/yesstylePage';
 import { getArticleCopy } from '@/components/review/articleCopy';
 import type { CouponCopyLocale } from '@/components/review/couponCopyLocale';
+import { affiliateStoreServesLocale, getAffiliateStore } from '@/lib/affiliateStores';
 import {
   formatBrasiliaDay,
-  getActiveCoupons,
   getCouponBySlug,
   getPendingLimitedCodes,
   getStoreCodeKind,
@@ -15,7 +15,7 @@ import { getCouponStorePath, getLocalizedCoupon, isTranslatedLocale } from '@/li
 import { publishedReviews, type Review } from '@/lib/data';
 import { getStoreArticlesPath, getStoreCode, hasArticlesPage } from '@/lib/homeStores';
 import { isInternalLink } from '@/lib/internalLinks';
-import { getReviewStores, getSingleStoreSlug, isMultiStoreReview, reviewHasStore } from '@/lib/reviewStores';
+import { getReviewStoreSlugs, getSingleStoreSlug, isMultiStoreReview, reviewHasStore } from '@/lib/reviewStores';
 import { isListedInPortuguese } from '@/lib/reviewVisibility.mjs';
 
 // Server-only: lê o índice de artigos (@/lib/data) e os dados de cupom. Nada 'use client' importa este arquivo.
@@ -173,12 +173,20 @@ export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, n
   };
 }
 
-// O artigo de várias lojas: um bloco por loja ativa da lista, na ordem do artigo, cada um como o do artigo de uma loja
-// que usa o código de sempre dela (sem cta: o link é o de afiliado da loja). O artigo de uma loja e o sem loja dão [].
+// O artigo de várias lojas: um bloco por loja da lista, na ordem do artigo. A loja ativa de couponsData.ts sai como a
+// do artigo de uma loja que usa o código de sempre dela (o de indicação, na SHEIN; sem cta: o link é o de afiliado da
+// loja), e a pausada fica de fora. O afiliado sem página dá só o nome e o link, e só no idioma em que vale. O artigo de
+// uma loja e o sem loja dão [].
 export function getArticleStoreBlocks(review: Review, locale: CouponCopyLocale, now = Date.now()): ArticleStoreBlock[] {
   if (!isMultiStoreReview(review)) return [];
-  return getReviewStores(review, getActiveCoupons()).flatMap((store) => {
-    const block = getArticleStoreBlock({ ...review, affiliate: store.slug, coupon: getStoreCode(store), cta: undefined }, locale, now);
-    return block ? [block] : [];
+  return getReviewStoreSlugs(review).flatMap((slug) => {
+    const store = getCouponBySlug(slug);
+    if (store) {
+      const block = getArticleStoreBlock({ ...review, affiliate: slug, coupon: getStoreCode(store), cta: undefined }, locale, now);
+      return block ? [block] : [];
+    }
+    const linkOnly = getAffiliateStore(slug);
+    if (!linkOnly || !affiliateStoreServesLocale(linkOnly, locale)) return [];
+    return [{ brand: linkOnly.brand, slug, rules: [], storeHref: linkOnly.offerUrl, storeSponsored: true }];
   });
 }

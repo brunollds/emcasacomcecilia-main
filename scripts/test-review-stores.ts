@@ -1,5 +1,6 @@
-// O artigo de várias lojas nas listagens: `affiliate` em lista (src/lib/reviewStores.ts). Nenhum artigo publicado usa
-// lista ainda; o teste monta os casos com artigos de mentira e confere que o de uma loja segue como sempre.
+// O artigo de várias lojas nas listagens: `affiliate` em lista (src/lib/reviewStores.ts). O teste monta os casos com
+// artigos de mentira e confere que o de uma loja segue como sempre. Nenhum artigo publicado tem loja só de link nem
+// afiliado sem página na lista ainda: esses casos (SHEIN e Shopee) também são de mentira.
 import assert from 'node:assert/strict';
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
@@ -7,14 +8,17 @@ import { renderToStaticMarkup } from 'react-dom/server';
 import { ArticleCodeCopyProvider, HighlightCoupon } from '@/components/review/HighlightCoupon';
 import { ArticleStoreCodes } from '@/components/review/article/ArticleStoreCodes';
 import { ArticleStyling } from '@/components/review/article/ArticleStyling';
-import { getArticleCopy } from '@/components/review/articleCopy';
-import { getArticleStoreBlock, getArticleStoreBlocks } from '@/lib/articleStore';
+import { getArticleCopy, getStoreListTitle } from '@/components/review/articleCopy';
+import { getSidebarCopy, getViewStoresLabel } from '@/components/review/sidebarCopy';
+import { AFFILIATE_STORES, getAffiliateStore } from '@/lib/affiliateStores';
+import { getArticleStoreBlock, getArticleStoreBlocks, type ArticleStoreBlock } from '@/lib/articleStore';
 import { COUPONS, getActiveCoupons, getPendingLimitedCodes } from '@/lib/couponsData';
 import { publishedReviews } from '@/lib/data';
 import { resolveActiveHomeEvent } from '@/lib/homeEvents';
-import { getHomeLatest, getHomeStoreTabs, getStoreArticlesPage, sortStoresByNewestArticle } from '@/lib/homeStores';
+import { getHomeLatest, getHomeStoreTabs, getStoreArticlePageSlugs, getStoreArticlesPage, getStoreCode, sortStoresByNewestArticle } from '@/lib/homeStores';
 import { pickRelatedReviews } from '@/lib/relatedReviews';
 import {
+  everyStoreHasCode,
   getReviewStoreLabel,
   getReviewStoreSlugs,
   getReviewStores,
@@ -153,6 +157,31 @@ assert.deepEqual(
 );
 assert.deepEqual(getRelatedShelfCards([multi], 'en').map(({ store: label }) => label), [undefined]);
 
+// O afiliado sem página (a Shopee) na lista: o artigo segue sendo da SHEIN em toda listagem, e a Shopee não ganha
+// aba, bolinha, subpágina, nome no cartão nem entra em contagem.
+const linkStores = [...stores, store('shein')];
+const sheinShopee = review(20, 'shein-ou-shopee', ['shein', 'shopee'], '2026-11-16');
+const withLinkOnly = [...fixtures, sheinShopee, review(21, 'shein-1', 'shein', '2026-10-05'), review(22, 'shein-2', 'shein', '2026-10-06')];
+assert.equal(getReviewStoreLabel(sheinShopee, linkStores), 'SHEIN', 'o cartão leva só a loja com página');
+const linkTabs = getHomeStoreTabs(withLinkOnly, linkStores, Date.parse('2026-11-16T12:00:00-03:00'));
+assert.ok(linkTabs.find(({ slug }) => slug === 'shein')?.articles.some(({ slug }) => slug === 'shein-ou-shopee'), 'aba da SHEIN com o artigo');
+assert.ok(!linkTabs.some(({ slug }) => slug === 'shopee'), 'a Shopee não ganha aba na home');
+assert.equal(sortStoresByNewestArticle(linkStores, withLinkOnly)[0].slug, 'shein', 'o artigo mais novo põe a SHEIN na frente');
+assert.ok(!sortStoresByNewestArticle(linkStores, withLinkOnly).some(({ slug }) => slug === 'shopee'), 'a Shopee não entra na ordem das bolinhas');
+assert.equal(getHomeLatest(withLinkOnly, linkStores).find(({ slug }) => slug === 'shein-ou-shopee')?.store, 'SHEIN');
+assert.equal(getStoreArticlesPage(withLinkOnly, 'shein', linkStores)?.articles.length, 3, 'o artigo conta para a subpágina da SHEIN');
+assert.equal(getStoreArticlesPage(withLinkOnly, 'shopee', linkStores), null, 'a Shopee não tem subpágina');
+assert.ok(!getStoreArticlePageSlugs(withLinkOnly, linkStores).includes('shopee'), 'nenhuma rota /reviews/loja/shopee');
+const linkHub = getReviewsHubContent(withLinkOnly, linkStores);
+assert.equal(linkHub.articles.find(({ slug }) => slug === 'shein-ou-shopee')?.store, 'SHEIN');
+assert.ok(!linkHub.stores.some(({ slug }) => slug === 'shopee'), 'a Shopee não ganha bolinha em /reviews');
+assert.equal(linkHub.stores.find(({ slug }) => slug === 'shein')?.total, 3, 'a bolinha da SHEIN conta o artigo');
+assert.ok(
+  !getOthersShelfContent(withLinkOnly, linkStores)?.articles.some(({ slug }) => slug === 'shein-ou-shopee'),
+  'o artigo com a SHEIN ativa não cai em Outros'
+);
+assert.equal(pickRelatedReviews(sheinShopee, withLinkOnly)[0].slug, 'shein-2', 'relacionados: os da SHEIN primeiro');
+
 // Data comercial: o cartão do artigo de várias lojas leva os nomes e nenhum botão de código.
 const event = resolveActiveHomeEvent(
   {
@@ -228,8 +257,7 @@ listProblem({ affiliate: ['damie'] }, /uma loja só/, 'lista de 1');
 listProblem({ affiliate: [...FOUR, 'damie'] }, /de 2 a 4 lojas \(tem 5\)/, 'lista de 5');
 listProblem({ affiliate: ['damie', 'damie'] }, /repetida: damie/, 'repetida');
 listProblem({ affiliate: ['damie', 'loja-que-nao-existe'] }, /"loja-que-nao-existe" não é o slug/, 'inexistente');
-listProblem({ affiliate: ['damie', 'yesstyle'] }, /"yesstyle": .*código comum/, 'recompensa');
-listProblem({ affiliate: ['damie', 'shein'] }, /"shein": .*código comum/, 'indicação');
+listProblem({ affiliate: ['damie', 'yesstyle'] }, /"yesstyle": .*código de recompensa/, 'recompensa');
 listProblem({ ...ok, locale: 'en' }, /só em artigo em português/, 'idioma');
 listProblem({ ...ok, locale: 'xx' }, /só em artigo em português|locale/, 'idioma inválido não passa como PT');
 listProblem({ ...ok, translationKey: 'familia' }, /translationKey/, 'família');
@@ -237,7 +265,25 @@ listProblem({ ...ok, coupon: 'CECILIA10' }, /sem coupon/, 'coupon');
 listProblem({ ...ok, cta: { url: 'https://x', label: 'x' } }, /sem cta/, 'cta');
 listProblem({ affiliate: [1, 2] }, /slug de uma loja ou uma lista/, 'lista de números');
 assert.ok((store('magalu') as { tiers?: unknown[] }).tiers?.length, 'a Magalu tem faixas');
-listProblem({ affiliate: ['damie', 'magalu'] }, /"magalu": .*sem faixas/, 'loja com faixas');
+listProblem({ affiliate: ['damie', 'magalu'] }, /"magalu": .*loja com faixas/, 'loja com faixas');
+
+// A loja só de link e o afiliado sem página: só na lista, e o afiliado sem página só no idioma em que vale.
+assert.equal(store('shein').offerMode, 'affiliate-link', 'a SHEIN é loja de link');
+const linkOnly = COUPONS.find((coupon) => coupon.offerMode === 'affiliate-link' && !coupon.referral);
+assert.deepEqual(affiliateProblems({ affiliate: ['shein', 'shopee'] }, COUPONS, true), [], 'SHEIN e Shopee em português');
+assert.deepEqual(affiliateProblems({ affiliate: ['damie', 'shein'] }, COUPONS, true), [], 'loja de código com a de indicação');
+if (linkOnly) assert.deepEqual(affiliateProblems({ affiliate: ['damie', linkOnly.slug] }, COUPONS, true), [], 'loja de link sem código');
+assert.deepEqual(affiliateProblems({ affiliate: 'shein' }, COUPONS), [], 'a SHEIN sozinha segue como sempre');
+const alone = affiliateProblems({ affiliate: 'shopee' }, COUPONS);
+assert.equal(alone.length, 1);
+assert.match(alone[0], /"shopee" é afiliado sem página.*só entra em lista/, 'a Shopee sozinha, em texto');
+const english = affiliateProblems({ affiliate: ['shein', 'shopee'], locale: 'en' }, COUPONS, true).join('|');
+assert.match(english, /"shopee": o link da loja não vale em artigo em en/, 'a Shopee fora do idioma dela');
+assert.match(english, /só em artigo em português/, 'e a trava do português segue');
+assert.doesNotMatch(english, /"shein"/, 'a SHEIN não é barrada pelo idioma');
+listProblem({ affiliate: ['shein', 'shopee', 'yesstyle'] }, /"yesstyle": .*código de recompensa/, 'recompensa ao lado da Shopee');
+listProblem({ affiliate: ['shopee', 'shopee'] }, /repetida: shopee/, 'afiliado sem página repetido');
+listProblem({ affiliate: ['shein', 'shopee'], translationKey: 'familia' }, /translationKey/, 'família segue fora');
 
 // O `store` dos links de loja: só no artigo de várias lojas, e nele em todo link de loja, uma das lojas do artigo.
 const sections = (store?: string, extra: Record<string, unknown> = {}) => [
@@ -271,6 +317,17 @@ assert.match(
   /CECILIA05/
 );
 assert.deepEqual(staleCodeWarnings({ affiliate: 'black-skull', contentSections: [{ paragraphs: ['CECILIA05'] }] }, COUPONS), [], 'só no artigo de várias lojas');
+// A loja de link: o código de indicação da SHEIN é código atual, e a Shopee, sem código, não dá aviso nem quebra.
+const sheinCode = getStoreCode(store('shein'));
+assert.ok(sheinCode, 'a SHEIN tem código de indicação');
+assert.deepEqual(
+  staleCodeWarnings({ affiliate: ['shein', 'shopee'], contentSections: [{ paragraphs: [`Pesquise ${sheinCode} no app da SHEIN; na Shopee não há código.`] }] }, COUPONS),
+  []
+);
+assert.match(
+  staleCodeWarnings({ affiliate: ['shein', 'shopee'], contentSections: [{ paragraphs: ['O antigo CECILIA05 não vale.'] }] }, COUPONS).join('|'),
+  /CECILIA05/
+);
 
 // O artigo: um bloco por loja ativa, na ordem do artigo, com o código e o link de afiliado de sempre de cada uma. Os
 // blocos leem as lojas de verdade: a pausada da lista é uma loja de código que está pausada hoje, e o esperado sai do
@@ -322,8 +379,48 @@ const withIwsRows = renderToStaticMarkup(
 assert.ok(!withIwsRows.includes('CECIEMCASA15'), 'o código com prazo fica fora do HTML (só no navegador)');
 assert.equal(getArticleStoreBlock(multiReview, 'pt', now), null, 'o artigo com lista não tem o bloco de uma loja');
 
-const render = (variant: 'top' | 'end' | 'sidebar' | 'drawer') =>
-  renderToStaticMarkup(createElement(ArticleStoreCodes, { variant, blocks, locale: 'pt', reviewSlug: 'x' }));
+// A lista com a SHEIN e a Shopee: os blocos na ordem do artigo, misturando os dois cadastros. O da SHEIN é o do artigo
+// dela com o código de indicação; o da Shopee, só o nome e o link, e só no idioma em que ela vale.
+const shopee = getAffiliateStore('shopee');
+assert.ok(shopee, 'a Shopee está em affiliateStores.ts');
+const shopeeBlock: ArticleStoreBlock = { brand: shopee.brand, slug: 'shopee', rules: [], storeHref: shopee.offerUrl, storeSponsored: true };
+const sheinActive = activeSlugs.has('shein');
+if (!sheinActive) console.log('ℹ️ a SHEIN está pausada: o bloco dela na lista com a Shopee não teve o que conferir.');
+for (const order of [['shein', 'shopee'], ['shopee', 'black-skull', 'shein']]) {
+  const mixed = getArticleStoreBlocks({ ...multiReview, affiliate: order }, 'pt', now);
+  assert.deepEqual(
+    mixed.map(({ slug }) => slug),
+    order.filter((slug) => slug === 'shopee' || activeSlugs.has(slug)),
+    `${order.join(', ')}: a ordem do artigo`
+  );
+  assert.deepEqual(mixed.find(({ slug }) => slug === 'shopee'), shopeeBlock, 'o bloco da Shopee: nome e link, sem código nem página');
+}
+const linkBlocks = getArticleStoreBlocks({ ...multiReview, affiliate: ['shein', 'shopee'] }, 'pt', now);
+const sheinBlock = linkBlocks.find(({ slug }) => slug === 'shein');
+assert.equal(Boolean(sheinBlock), sheinActive);
+if (sheinBlock) {
+  assert.equal(sheinBlock.code, sheinCode, 'SHEIN: o código de indicação');
+  assert.equal(sheinBlock.codeKind, 'referral');
+  assert.equal(sheinBlock.couponPageHref, '/cupons/shein');
+  assert.equal(sheinBlock.storeHref, store('shein').offerUrl);
+  assert.equal(sheinBlock.storeSponsored, true);
+  assert.deepEqual(sheinBlock, getArticleStoreBlock({ ...multiReview, affiliate: 'shein', coupon: sheinCode }, 'pt', now), 'o mesmo bloco do artigo da SHEIN');
+}
+for (const locale of ['en', 'ja'] as const) {
+  assert.ok(
+    !getArticleStoreBlocks({ ...multiReview, affiliate: ['shein', 'shopee'] }, locale, now).some(({ slug }) => slug === 'shopee'),
+    `${locale}: a Shopee fica fora do idioma em que não vale`
+  );
+}
+// Toda loja do cadastro dá o bloco mínimo no idioma dela, na posição dela na lista.
+for (const item of AFFILIATE_STORES) {
+  const locale = item.locales === 'all' ? 'pt' : item.locales[0];
+  const [first] = getArticleStoreBlocks({ ...multiReview, affiliate: [item.slug, 'black-skull'] }, locale, now);
+  assert.deepEqual(first, { brand: item.brand, slug: item.slug, rules: [], storeHref: item.offerUrl, storeSponsored: true }, `${item.slug}: bloco mínimo`);
+}
+
+const render = (variant: 'top' | 'end' | 'sidebar' | 'drawer', rows: Parameters<typeof ArticleStoreCodes>[0]['blocks'] = blocks) =>
+  renderToStaticMarkup(createElement(ArticleStoreCodes, { variant, blocks: rows, locale: 'pt', reviewSlug: 'x' }));
 const top = render('top');
 assert.match(top, /<section id="cupom-artigo" data-store-codes="top"/);
 assert.ok(top.includes('Códigos deste artigo'));
@@ -354,6 +451,38 @@ assert.match(drawer, /data-store-codes="drawer"/);
 assert.equal(drawer.match(/data-store-code="/g)?.length, blocks.length, 'a gaveta: uma linha por loja ativa');
 assert.doesNotMatch(render('end'), /Códigos deste artigo/, 'no fim, o título vem do ArticleEnd');
 
+// O título e o botão do dock: "códigos" quando toda loja tem o dela; com uma loja sem código, "lojas".
+assert.equal(everyStoreHasCode(blocks), true);
+assert.equal(everyStoreHasCode(linkBlocks), false);
+assert.equal(everyStoreHasCode([]), true);
+assert.equal(getStoreListTitle(getArticleCopy('pt'), blocks), 'Códigos deste artigo');
+assert.equal(getStoreListTitle(getArticleCopy('pt'), linkBlocks), 'Lojas deste artigo');
+assert.equal(getViewStoresLabel(getSidebarCopy('pt'), blocks), `Ver códigos (${blocks.length})`);
+assert.equal(getViewStoresLabel(getSidebarCopy('pt'), linkBlocks), `Ver lojas (${linkBlocks.length})`);
+assert.equal(getStoreListTitle(getArticleCopy('ja'), [shopeeBlock]), 'この記事のストア');
+assert.equal(getViewStoresLabel(getSidebarCopy('de'), [shopeeBlock, shopeeBlock]), 'Shops ansehen (2)');
+
+// As linhas com a loja sem código: o título fala de lojas, a linha da Shopee tem só o nome e o "Ir à loja" patrocinado
+// (nenhum botão de copiar nem link de regras), e a da SHEIN segue com o código dela.
+for (const variant of ['top', 'sidebar', 'drawer', 'end'] as const) {
+  const html = render(variant, linkBlocks);
+  assert.deepEqual([...html.matchAll(/data-store-code="([^"]+)"/g)].map(([, slug]) => slug), linkBlocks.map(({ slug }) => slug), `${variant}: as linhas na ordem`);
+  assert.ok(!html.includes('Códigos deste artigo'), `${variant}: sem "Códigos deste artigo" com loja sem código`);
+  assert.equal(html.includes('Lojas deste artigo'), variant !== 'end', `${variant}: o título das lojas (no fim, vem do ArticleEnd)`);
+  if (variant !== 'end') assert.match(html, /<section[^>]*aria-label="Lojas deste artigo"/, `${variant}: o nome da seção`);
+  const row = html.split('data-store-code="shopee"')[1].split('data-store-code="')[0];
+  assert.doesNotMatch(row, /<button\b/, `${variant}: a Shopee sem botão de copiar`);
+  assert.doesNotMatch(row, /Regras/, `${variant}: a Shopee sem link de regras`);
+  const links = row.match(/<a\b[^>]*>/g) ?? [];
+  assert.equal(links.length, 1, `${variant}: um link só na linha da Shopee`);
+  assert.ok(links[0].includes(`href="${shopee.offerUrl}"`), `${variant}: o link de afiliado da Shopee`);
+  assert.match(links[0], /rel="[^"]*sponsored/, `${variant}: a Shopee com sponsored`);
+  assert.match(links[0], /aria-label="Ir à loja: Shopee"/, `${variant}: o link diz qual loja`);
+  // No cartão do topo, o "Ir à loja" ocupa o lugar do código (mt-auto), alinhado ao código do vizinho.
+  assert.equal(/class="[^"]*\bmt-auto\b/.test(links[0]), variant === 'top' && linkBlocks.length > 1, `${variant}: o lugar do link da Shopee`);
+  if (sheinBlock) assert.ok(html.includes(`aria-label="Copiar o código ${sheinBlock.code} (SHEIN)"`), `${variant}: a SHEIN com o código`);
+}
+
 // Código no texto: cada um copia com a loja dele; o que duas lojas dividem só fica destacado.
 const inline = (code: string, slug: string) => ({ code, brand: store(slug).brand, slug, reviewSlug: 'x', locale: 'pt' as const });
 const text = renderToStaticMarkup(
@@ -372,6 +501,9 @@ assert.ok(single.includes('data-copy-code="CECILIA10"'), 'uma loja: copia como s
 // (multiStores vazio), também. A loja ativa segue com os links, e o artigo de uma loja (sem multiStores), como sempre.
 // (O ReviewSectionContent não roda no tsx, porque o ReviewInlineImage é .js com JSX: as regras do link e da foto são
 // as funções que ele e o ReviewSectionContent usam.)
+// O mapa do template sai dos blocos: com a Shopee nele, o link, a foto e a peça dela seguem com o link.
+const linkStoresMap = Object.fromEntries(linkBlocks.map(({ slug, brand, code }) => [slug, { brand, code }]));
+assert.deepEqual(linkStoresMap.shopee, { brand: 'Shopee', code: undefined });
 const multiStoresOf = (...slugs: string[]) => Object.fromEntries(slugs.map((slug) => [slug, { brand: store(slug).brand, code: codeOf(slug) }]));
 const linksOf = (storeSlug?: string) => [
   { label: 'Loja', href: 'https://loja.example/whey', sponsored: true, ...(storeSlug && { store: storeSlug }) },
@@ -402,6 +534,7 @@ for (const [name, storeSlug, multiStores] of [
 }
 for (const [name, storeSlug, multiStores] of [
   ['loja ativa', 'black-skull', multiStoresOf('black-skull')],
+  ['afiliado sem página', 'shopee', linkStoresMap],
   ['uma loja', undefined, undefined],
 ] as const) {
   assert.deepEqual(labels(withoutPausedStoreLinks(linksOf(storeSlug), multiStores)), ['Loja', 'Cupons', 'Fonte'], `${name}: todos os links`);
@@ -410,4 +543,4 @@ for (const [name, storeSlug, multiStores] of [
   for (const path of ['c', 's']) assert.ok(html.includes(`https://loja.example/${path}`), `${name}: link da peça ${path}`);
 }
 
-console.log('✅ várias lojas nas listagens: home, /reviews, subpáginas, Outros, relacionados, data comercial, vídeo e snippet; regras do affiliate e do store; aviso de código antigo; blocos e linhas de código do artigo; código no texto; links, fotos e peças de loja pausada sem link');
+console.log('✅ várias lojas nas listagens: home, /reviews, subpáginas, Outros, relacionados, data comercial, vídeo e snippet; regras do affiliate e do store; aviso de código antigo; loja de link e afiliado sem página na lista; blocos e linhas de código do artigo; código no texto; links, fotos e peças de loja pausada sem link');

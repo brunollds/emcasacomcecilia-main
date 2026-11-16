@@ -6,13 +6,13 @@ import path from 'node:path';
 import homeEventsConfig from '../content/home-events.json';
 import { resolveYesStylePage } from '../src/components/coupons/yesstylePage';
 import { COUPON_STORE_COPY } from '../src/components/coupons/couponStoreCopy';
-import { getArticleCopy, getTemplateUi } from '../src/components/review/articleCopy';
+import { getArticleCopy, getStoreListTitle, getTemplateUi } from '../src/components/review/articleCopy';
 import { getStylingCopy } from '../src/components/review/stylingCopy';
 import { getBodySections } from '../src/components/review/bodySections';
 import { getCouponCopyLabels } from '../src/components/review/couponCopyLocale';
 import { getSearchCopy } from '../src/components/search/searchCopy';
 import { getGalleryCopy } from '../src/components/review/galleryCopy';
-import { getCodeHints, getCodeTitle, getSidebarCopy } from '../src/components/review/sidebarCopy';
+import { getCodeHints, getCodeTitle, getSidebarCopy, getViewStoresLabel } from '../src/components/review/sidebarCopy';
 import { CECILIA_PHOTO_COPY_PT } from '../src/components/sections/CeciliaProfile';
 import { getLocaleHomeCopy } from '../src/components/sections/localeHomeCopy';
 import { PT_HOME_CHROME, getHomeCopy, type HomeChromeCopy } from '../src/components/sections/homeCopy';
@@ -1555,10 +1555,11 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
     if (/<code\b|\sdata-copied=/.test(store.html)) problems.push('bloco do link de afiliado com código');
   } else if (store && expected.storeBlocks.length > 0) {
     // O artigo de várias lojas: o título e uma linha por loja ativa, na ordem do artigo, com o código, o link da loja
-    // e o das regras dela.
+    // e o das regras dela. A loja só de link não tem código nem regras, e com ela o título fala de lojas.
     const texts = shownTextsOf(store.html);
     const hrefs = hrefsOf(store.html);
-    if (!texts.includes(copy.storeCodesTitle)) problems.push(`fim sem "${copy.storeCodesTitle}"`);
+    const title = getStoreListTitle(copy, expected.storeBlocks);
+    if (!texts.includes(title)) problems.push(`fim sem "${title}"`);
     if (!store.html.includes('data-store-codes="end"')) problems.push('fim sem as linhas de código');
     const slugs = [...store.html.matchAll(/data-store-code="([^"]+)"/g)].map(([, slug]) => slug);
     if (slugs.join() !== expected.storeBlocks.map(({ slug }) => slug).join()) problems.push(`linhas do fim ${slugs.join(', ')} fora das lojas ativas`);
@@ -1678,6 +1679,23 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
   assert.notDeepEqual(articleEndProblems(ctaEnd.replace('rel="sponsored noopener noreferrer"', 'rel="noopener noreferrer"'), ctaExpected), [], 'link patrocinado sem rel="sponsored" passou');
   assert.notDeepEqual(articleEndProblems(ctaEnd, { ...ctaExpected, affiliateCta: { ...cta, sponsored: false } }), [], 'link sem patrocínio com rel="sponsored" passou');
   assert.notDeepEqual(articleEndProblems(ctaEnd.replace(`<p>${cta.text}</p>`, '<code>CECILIA12</code>'), ctaExpected), [], 'bloco do link com código e sem o texto passou');
+
+  // Várias lojas: com código em todas, "Códigos deste artigo"; com uma loja só de link (sem código nem regras), "Lojas
+  // deste artigo", e a linha dela só deve o link da loja.
+  const coded: ArticleStoreBlock = { brand: 'Loja A', slug: 'loja-a', code: 'LOJA10', rules: [], storeHref: 'https://a.example/', storeSponsored: true, couponPageHref: '/cupons/loja-a' };
+  const linkOnly: ArticleStoreBlock = { brand: 'Loja B', slug: 'loja-b', rules: [], storeHref: 'https://b.example/', storeSponsored: true };
+  const rowOf = ({ slug, code, storeHref, couponPageHref }: ArticleStoreBlock) =>
+    `<li data-store-code="${slug}"><a href="${storeHref}">${pt.storeGoShort}</a>` +
+    `${couponPageHref ? `<a href="${couponPageHref}">${pt.storeRulesShort}</a>` : ''}${code ? `<button>${code}</button>` : ''}</li>`;
+  const multiEnd = (title: string, blocks: ArticleStoreBlock[]) =>
+    end.replace(tagsWith(end, 'id="loja"')[0].html, `<section id="loja"><h2>${title}</h2><section data-store-codes="end"><ul>${blocks.map(rowOf).join('')}</ul></section></section>`);
+  const multiExpected = (blocks: ArticleStoreBlock[]) => ({ ...expected, storeBlock: null, storeBlocks: blocks });
+  assert.deepEqual(articleEndProblems(multiEnd(pt.storeCodesTitle, [coded, coded]), multiExpected([coded, coded])), []);
+  assert.deepEqual(articleEndProblems(multiEnd(pt.storeListTitle, [coded, linkOnly]), multiExpected([coded, linkOnly])), []);
+  assert.notDeepEqual(articleEndProblems(multiEnd(pt.storeCodesTitle, [coded, linkOnly]), multiExpected([coded, linkOnly])), [], '"Códigos deste artigo" com loja sem código passou');
+  assert.notDeepEqual(articleEndProblems(multiEnd(pt.storeListTitle, [coded, coded]), multiExpected([coded, coded])), [], '"Lojas deste artigo" com código em todas passou');
+  assert.notDeepEqual(articleEndProblems(multiEnd(pt.storeListTitle, [coded]), multiExpected([coded, linkOnly])), [], 'fim sem a linha da loja só de link passou');
+  assert.notDeepEqual(articleEndProblems(multiEnd(pt.storeListTitle, [linkOnly, coded]), multiExpected([coded, linkOnly])), [], 'linhas fora da ordem do artigo passaram');
 }
 // O fundo editorial dos artigos é branco e sem a camada de manchas (::before); o das receitas segue como está.
 assert.match(css, /\.editorial-ambient-bg-review\{[^}]*background-color:(?:#fff|#ffffff|white)\b/, 'CSS: o fundo dos artigos não é branco');
@@ -1783,15 +1801,16 @@ for (const url of articleUrls) {
   const storeBlock = getArticleStoreBlock(review, locale, builtTime.getTime());
   const copy = getSidebarCopy(locale);
 
-  // O artigo de várias lojas troca o botão de copiar do dock pelo "Ver códigos (N)", que abre a gaveta nas linhas de
-  // cada loja ativa (sem o id do recorte do topo, que é do corpo); o de uma loja não tem nem o botão nem as linhas.
+  // O artigo de várias lojas troca o botão de copiar do dock pelo "Ver códigos (N)" ("Ver lojas (N)" quando alguma loja
+  // não tem código), que abre a gaveta nas linhas de cada loja ativa (sem o id do recorte do topo, que é do corpo); o de
+  // uma loja não tem nem o botão nem as linhas.
   const dockHtml = body.slice(body.lastIndexOf('<div', body.lastIndexOf('<div', progressbar) - 1), dialogStart);
   const multiBlocks = getArticleStoreBlocks(review, locale, builtTime.getTime());
   if (multiBlocks.length > 0) {
     multiStoreArticles++;
     const count = multiBlocks.length;
     assert.ok(dockHtml.includes(`data-dock-codes="${count}"`), `${pagePath}: dock sem o "Ver códigos" das ${count} lojas`);
-    assert.ok(dockHtml.includes(`>${copy.viewCodes(count)}<`), `${pagePath}: "Ver códigos" sem o texto do idioma`);
+    assert.ok(dockHtml.includes(`>${getViewStoresLabel(copy, multiBlocks)}<`), `${pagePath}: "Ver códigos" sem o texto do idioma`);
     assert.ok(!dockHtml.includes('data-copied='), `${pagePath}: dock do artigo de várias lojas com botão de copiar`);
     assert.ok(dialog.includes('data-store-codes="drawer"'), `${pagePath}: gaveta sem as linhas de código`);
     assert.deepEqual(
@@ -2088,8 +2107,9 @@ for (const url of articleUrls) {
       assert.doesNotMatch(body, new RegExp(`<a\\b[^>]*\\shref="${hrefPattern}"[^>]*\\saria-label=`), `${pagePath}: foto da loja pausada ${store ?? '(sem store)'} com o link ${href}`);
       continue;
     }
+    // No artigo de várias lojas, a loja da foto é a do bloco dela (a de couponsData.ts ou o afiliado sem página).
     const storeSlug = store ?? getSingleStoreSlug(review);
-    const photoStore = storeSlug ? getCouponBySlug(storeSlug) : undefined;
+    const photoStore = multiBlocks.find(({ slug }) => slug === storeSlug) ?? (storeSlug ? getCouponBySlug(storeSlug) : undefined);
     const viewLabel = escapeHtml(getGalleryCopy(locale).viewProduct(photoStore ? { slug: photoStore.slug, brand: photoStore.brand } : undefined));
     const start = body.search(new RegExp(`<a\\b[^>]*\\shref="${hrefPattern}"[^>]*\\saria-label="${viewLabel.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`));
     assert.ok(start >= 0, `${pagePath}: foto sem o link de produto ${href} com o nome "${viewLabel}…"`);
