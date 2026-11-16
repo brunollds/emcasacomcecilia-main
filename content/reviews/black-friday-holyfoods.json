@@ -14,11 +14,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "A Black da HolyFoods dá 30% no site todo, já no preço, e o cupom EMCASA tirou mais 15% por cima nos nossos testes. Veja qual dos três kits compensa e o mínimo do frete grátis.",
+  "description": "A Black da HolyFoods dá 30% no site todo, e o cupom EMCASA tirou mais 15% por cima nos três kits. Veja o que levar, a conta das sopas por 100 g e o mínimo do frete grátis.",
   "metaDescription": "Black Friday HolyFoods: use o cupom EMCASA e tire mais 15% por cima dos 30% do site, na tela de finalizar a compra. Veja os kits, o frete e a garantia.",
   "publishedAt": "5 de novembro de 2026",
   "publishedAtISO": "2026-11-05",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-16",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/holyfoods/black-friday-holyfoods-capa-v2.webp",
@@ -76,10 +76,12 @@
             "R$ 8,81"
           ]
         ],
-        "caption": "Preços da loja, 05/11, já com os 30%; o \"de\" é o preço de lista e o \"por refeição\" é a conta da loja, que conta cada sachê de pack como uma refeição."
+        "caption": "Preços da loja no começo de novembro, iguais em meados do mês, já com os 30%; o \"de\" é o preço de lista e o \"por refeição\" é a conta da loja, que conta cada sachê de pack como uma refeição."
       },
       "postParagraphs": [
-        "Conta nossa, pelos preços da tabela: multiplique o avulso pelo número de itens e chega no preço de cada kit, nem um centavo a menos. O \"por refeição\" menor do Despensa Cheia vem dos dois packs de sopa: o sachê do pack sai por menos de um terço de um risoto ou de um mac, e a loja conta cada sachê como uma refeição. Massa e risoto custam o mesmo em qualquer kit, então quem não quer sopa não ganha nada no kit grande.",
+        "Conta nossa, pelos preços da tabela: multiplique o avulso pelo número de itens e chega no preço de cada kit, nem um centavo a menos. Massa e risoto custam R$ 13,93 a unidade em qualquer kit, e cada unidade é uma refeição.",
+        "A média de R$ 8,81 do Despensa Cheia mistura duas coisas. Dos R$ 334,60, R$ 250,74 são as 18 massas e risotos, a R$ 13,93 cada, e R$ 83,86 são os dois packs de sopa, com 20 sachês a R$ 4,19. Quem não quer sopa não ganha nada no kit grande; quem quer sopa pode comprar só os packs.",
+        "A home da loja também mostra o Projeto 30 Dias, com três packs de sopa: são 30 sachês por R$ 125,79, os mesmos R$ 4,19 por sachê do pack avulso.",
         "O Mac Queijo vem nos três kits; no vídeo do fim do artigo, a Cecília prepara um na panela."
       ],
       "images": [
@@ -115,7 +117,7 @@
             "[Pack Sopa da Vovó](https://www.holyfoods.com.br/products/pack-sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
             "R$ 59,90",
             "R$ 41,93",
-            "10 sachês individuais"
+            "10 sachês de 43 g; 3,5 litros, 10 porções de 350 ml"
           ],
           [
             "[Risoto Funghi](https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
@@ -130,11 +132,12 @@
             "1 refeição, 380 g"
           ]
         ],
-        "caption": "Preços da loja, 05/11, com os 30% já no preço; o rendimento é o da página de cada produto."
+        "caption": "Preços da loja no começo de novembro, iguais em meados do mês, com os 30% já no preço; o rendimento é o da página de cada produto."
       },
       "postParagraphs": [
-        "A sopa avulsa sai a R$ 3,48 por porção de 250 g, e o pack, de 10 sachês individuais, a R$ 4,19 por sachê, pelo número que a loja mostra no card dele. Pelos números dela, o sachê do pack sai mais caro que a porção do avulso. Confira o peso de cada sachê na embalagem que chegar.",
-        "Risoto e mac são uma refeição por embalagem, com 20 g de proteína. A página dos produtos diz que são sem glúten e que alguns levam leite e lactose, então confira o rótulo se isso importa na sua casa. Ficam fechados na despensa, sem congelador, e o preparo é de 15 a 20 minutos no fogão. Quem quer rendimento pelo preço vai no avulso; quem quer a porção separada de sopa vai no pack."
+        "Sopa avulsa e pack não se comparam pela porção, porque as porções têm tamanhos diferentes: a avulsa rende 4 porções de 250 g, a R$ 3,48 cada, e o sachê do pack rende uma porção de 350 ml, a R$ 4,19. A régua que vale é o peso da mistura seca. A Sopa da Vovó avulsa traz 130 g de mistura e o pack, 430 g: por 100 g, a avulsa sai a R$ 10,72 e o pack, a R$ 9,75, cerca de 9% a menos. Pelo rendimento preparado, a conta aponta para o mesmo lado: R$ 13,93 por litro na avulsa e R$ 11,98 por litro no pack.",
+        "O pack só compensa para quem vai tomar os dez sachês; para provar um sabor, a avulsa custa um terço do pack. A conta por sabor está em [HolyFoods é boa?](/reviews/holyfoods-e-boa).",
+        "Risoto e mac são uma refeição por embalagem, com 20 g de proteína. Ficam fechados na despensa, sem congelador, e o preparo é de 15 a 20 minutos no fogão."
       ],
       "images": [
         {
@@ -147,10 +150,28 @@
       ]
     },
     {
+      "heading": "Rótulo por sabor: o que cada um declara para alérgicos",
+      "paragraphs": [
+        "A declaração de alérgicos muda de sabor para sabor. Copiamos abaixo o texto da página de cada produto, como a loja publica. Em caso de alergia, vale o rótulo da embalagem que chegar e a orientação do seu médico; este guia não indica produto para alérgicos."
+      ],
+      "bullets": [
+        "**Sopas avulsas:** \"ALÉRGICOS: CONTÉM DERIVADOS DE SOJA. PODE CONTER CRUSTÁCEOS (CAMARÃO), PEIXES, LEITE, OVOS, AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN.\"",
+        "**Packs de sopa:** \"ALÉRGICOS: CONTÉM DERIVADOS DE SOJA. PODE CONTER DERIVADOS DE LEITE, OVOS, PEIXES, CRUSTÁCEOS (CAMARÃO), AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN.\"",
+        "**Mac Queijo:** \"ALÉRGICOS: CONTÉM DERIVADOS DE LEITE E SOJA. PODE CONTER OVOS, PEIXES, CRUSTÁCEOS (CAMARÃO), AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN. CONTÉM LACTOSE.\"",
+        "**Mac Alfredo:** \"ALÉRGICOS: CONTÉM DERIVADOS DE LEITE. PODE CONTER SOJA, OVOS, PEIXES, CRUSTÁCEOS (CAMARÃO), AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN. CONTÉM LACTOSE.\"",
+        "**Risoto Funghi:** \"ALÉRGICOS: PODE CONTER DERIVADOS DE LEITE, SOJA, OVOS, PEIXES, CRUSTÁCEOS (CAMARÃO), AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN.\"",
+        "**Risoto Al Mare:** \"ALÉRGICOS: CONTÉM PEIXES E CRUSTÁCEOS (CAMARÃO). PODE CONTER OVOS, LEITE, SOJA, AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN.\"",
+        "**Risoto de Queijo:** \"ALÉRGICOS: CONTÉM DERIVADOS DE LEITE. PODE CONTER DERIVADOS DE SOJA, OVOS, PEIXES, CRUSTÁCEOS (CAMARÃO), AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN. CONTÉM LACTOSE.\""
+      ],
+      "postParagraphs": [
+        "Isso pesa na escolha do kit: os três trazem Mac Queijo, Mac Alfredo e Risoto Al Mare, e a Rotina Resolvida ainda traz o Risoto de Queijo. Quem evita leite, lactose, peixe ou camarão monta o pedido pelos avulsos, que custam o mesmo."
+      ]
+    },
+    {
       "heading": "O cupom EMCASA na Black: o que os testes mostraram",
       "paragraphs": [
-        "O EMCASA tirou 15% por cima dos 30% da Black nos dois testes que fizemos, e só entra numa tela: a de finalizar a compra, no endereço seguro.holyfoods.com.br, que é o checkout da própria loja. No carrinho ele não entra, e o link da parceria também não o aplica: ele abre a loja, mas o código você copia e cola.",
-        "Os dois testes feitos nessa tela estão na tabela, e o passo a passo vem logo abaixo:"
+        "O EMCASA tirou 15% por cima dos 30% da Black nos quatro testes que fizemos, e só entra numa tela: a de finalizar a compra, no endereço seguro.holyfoods.com.br, que é o checkout da própria loja. No carrinho ele não entra, e o link da parceria também não o aplica: ele abre a loja, mas o código você copia e cola.",
+        "Os quatro testes feitos nessa tela estão na tabela, e o passo a passo vem logo abaixo:"
       ],
       "bullets": [
         "Monte o carrinho com os itens ou com o kit e clique em \"Finalizar compra\".",
@@ -175,18 +196,32 @@
             "R$ 59,32"
           ],
           [
-            "Despensa",
-            "20 itens: 2 packs de sopa, massas e risotos, com frete grátis",
+            "Descoberta",
+            "8 itens: massas e risotos",
+            "R$ 111,44",
+            "−R$ 16,72",
+            "R$ 94,72"
+          ],
+          [
+            "Rotina Resolvida",
+            "15 itens: massas e risotos",
+            "R$ 208,95",
+            "−R$ 31,34",
+            "R$ 177,61"
+          ],
+          [
+            "Despensa Cheia",
+            "20 itens: 2 packs de sopa, massas e risotos",
             "R$ 334,60",
             "−R$ 50,19",
             "R$ 284,41"
           ]
         ],
-        "caption": "Testes na tela \"Finalizar compra\", 05/11, com os 30% da Black já nos preços."
+        "caption": "Testes na tela \"Finalizar compra\", em novembro, com os 30% da Black já nos preços. Os carrinhos de sopas e do Despensa Cheia são do começo do mês; os do Descoberta e da Rotina Resolvida, de meados."
       },
       "postParagraphs": [
-        "Nos dois, o desconto foi de 15% sobre o preço que já tinha os 30%. O segundo carrinho tem os itens e o preço do Despensa Cheia, e como todo kit entra na sacola como itens avulsos, o EMCASA foi testado num carrinho igual ao dele. O Descoberta e a Rotina Resolvida não passaram pelo teste: confira a linha \"Descontos\" no checkout antes de pagar.",
-        "Os dois descontos não dão 45%: no carrinho igual ao Despensa Cheia, o preço final ficou 40,5% abaixo do de lista. As condições do dia estão na página do [cupom HolyFoods](/cupons/holyfoods), e o passo a passo com as soluções para o código que não entra, em [Como usar o cupom da HolyFoods](/reviews/cupom-holyfoods-como-usar). O EMCASA é da loja online: no Mercado Livre vale o preço do anúncio."
+        "Nos quatro, o desconto foi de 15% sobre o preço que já tinha os 30%. Como todo kit entra na sacola como itens avulsos, o cupom age do mesmo jeito num kit ou num carrinho montado por você. Com o EMCASA, a massa ou o risoto sai por R$ 11,84 a unidade, e o sachê do pack de sopa, por R$ 3,56. Confira a linha \"Descontos\" no checkout antes de pagar.",
+        "Os dois descontos não dão 45%: o preço final fica 40,5% abaixo do de lista. As condições do dia estão na página do [cupom HolyFoods](/cupons/holyfoods), e o passo a passo com as soluções para o código que não entra, em [Como usar o cupom da HolyFoods](/reviews/cupom-holyfoods-como-usar). O EMCASA é da loja online: no Mercado Livre vale o preço do anúncio."
       ]
     },
     {
@@ -220,7 +255,8 @@
         "caption": "Mínimos da campanha da Black, no FAQ da home da loja."
       },
       "postParagraphs": [
-        "O mínimo considera o preço depois dos descontos dos produtos, e a loja não diz se o EMCASA entra nessa conta. Pelos preços de tabela, o Descoberta fica abaixo dos três mínimos, a Rotina Resolvida passa só o de SP e a Despensa Cheia passa os três. Com os 15% do cupom (conta nossa), a Rotina Resolvida cai a R$ 177,61, abaixo do mínimo de SP, e a Despensa Cheia, a R$ 284,41, abaixo dos R$ 289 de GO, SC, ES e RS. Na prática, um carrinho igual ao da Despensa Cheia saiu com frete grátis a R$ 284,41; no seu CEP, confira o frete no resumo depois de aplicar o EMCASA.",
+        "O mínimo considera o preço depois dos descontos dos produtos, e a loja não diz se o EMCASA entra nessa conta. Pelos preços de tabela, o Descoberta fica abaixo dos três mínimos, a Rotina Resolvida passa só o de SP e a Despensa Cheia passa os três. Com o cupom, o Descoberta fica em R$ 94,72, a Rotina Resolvida, em R$ 177,61, abaixo do mínimo de SP, e a Despensa Cheia, em R$ 284,41, abaixo dos R$ 289 de GO, SC, ES e RS. No começo de novembro, um carrinho igual ao da Despensa Cheia saiu com frete grátis a R$ 284,41; nos testes do Descoberta e da Rotina Resolvida, o frete não foi lido, porque a loja só o mostra depois da identificação.",
+        "Decida pelo total entregue, com produtos, cupom e frete. Um carrinho pouco abaixo do mínimo pode sair mais caro que o mesmo carrinho com um item a mais, mas só complete com o que você vai comer: confira o frete no resumo, depois de aplicar o EMCASA, com e sem o item extra.",
         "Frete grátis não é prazo. A política da loja diz que a preparação para postagem leva até 3 dias úteis depois da aprovação do pagamento, e o transporte soma a isso; o prazo para o seu CEP aparece no checkout. A reclamação mais comum no Reclame Aqui é produto não recebido, e os números estão em [HolyFoods no Reclame Aqui](/reviews/holyfoods-reclame-aqui-nota-reputacao). Guarde o número do pedido e use o \"Rastrear pedido\" do menu da loja."
       ]
     },
@@ -228,6 +264,7 @@
       "heading": "Garantia de 30 dias: como pedir um kit grande com folga",
       "paragraphs": [
         "A garantia de 30 dias é o que tira o medo do kit grande: ela vale depois de receber e aceita uma unidade aberta, desde que as demais estejam fechadas. A devolução não tem custo, e o reembolso inclui a unidade que você abriu.",
+        "Ela é uma política da loja e não se confunde com o direito de arrependimento do artigo 49 do Código de Defesa do Consumidor, que dá 7 dias corridos do recebimento para desistir de qualquer compra feita pela internet, com a devolução do que foi pago, frete inclusive. Dentro dos 7 dias, vale a lei; a garantia da loja estende o prazo para 30 dias, nas condições dela.",
         "O pedido é por e-mail, em contato@holyfoods.com.br, com o número do pedido. O reembolso volta pelo meio de pagamento da compra: no Pix, até 7 dias úteis depois de validada a devolução; no cartão, pode aparecer em até duas faturas.",
         "Na prática: se você vai pedir o Despensa Cheia sem conhecer a linha, abra uma unidade e mantenha as outras fechadas até decidir."
       ]
@@ -235,10 +272,11 @@
     {
       "heading": "Qual kit levar na Black",
       "paragraphs": [
-        "Pelos números da tabela, o perfil decide:",
-        "**Primeira vez na loja:** o Descoberta. É o menor, a loja o indica para conhecer, e a garantia cobre a unidade aberta. Ele fica abaixo dos três mínimos publicados do frete grátis, então some o frete na conta.",
-        "**Abastecer a despensa:** o Despensa Cheia. Antes do cupom, é o que passa os três mínimos publicados do frete grátis, e é o único com o carrinho testado no EMCASA (o frete saiu grátis a R$ 284,41; confira o resumo no seu CEP). O custo por refeição menor vem das sopas; se você não quer sopa, a Rotina Resolvida é só massa e risoto, com 15 refeições.",
-        "**Pedido avulso:** a sopa, o risoto e o mac custam o mesmo na Black. Escolha pelo rendimento da tabela de avulsos.",
+        "Pelos números das tabelas, o perfil decide:",
+        "**Primeira vez na loja:** o Descoberta. É o menor, a loja o indica para conhecer, e a garantia cobre a unidade aberta. Com o EMCASA, saiu por R$ 94,72 no nosso teste. Ele fica abaixo dos três mínimos publicados do frete grátis, então some o frete na conta.",
+        "**Massa e risoto para o mês:** a Rotina Resolvida, com 15 refeições e sem sopa, por R$ 177,61 com o EMCASA. Só vale para quem vai comer as 15: a unidade custa o mesmo no avulso, então dá para montar um carrinho menor com os sabores que você prefere.",
+        "**Massa, risoto e sopa:** o Despensa Cheia, por R$ 284,41 com o EMCASA. Antes do cupom, é o que passa os três mínimos publicados do frete grátis. A média por refeição menor vem das sopas.",
+        "**Só sopa:** os packs. Por 100 g de mistura, o pack sai cerca de 9% abaixo da sopa avulsa, e a avulsa serve para provar o sabor antes.",
         "Antes de pagar:"
       ],
       "bullets": [
@@ -247,7 +285,7 @@
         "Veja a linha \"Descontos\" e o frete antes de pagar.",
         "Guarde o número do pedido: você vai precisar dele no rastreio e na garantia."
       ],
-      "emphasis": "Pela contagem da loja, quem quer abastecer a despensa fecha a menor média por refeição no Despensa Cheia, que inclui sachês de sopa; quem só quer conhecer começa pelo Descoberta.",
+      "emphasis": "Massa e risoto custam o mesmo em qualquer kit e no avulso. O tamanho do pedido se decide pelo que você vai comer e pelo frete, e não pela média por refeição.",
       "emphasisAfterParagraph": 1
     },
     {
@@ -255,9 +293,12 @@
       "bullets": [
         "Precisa de cupom para ter os 30% da Black da HolyFoods? Não: os 30% já estão no preço, nos avulsos e nos kits. O EMCASA é um desconto a mais, na tela de finalizar a compra.",
         "Até quando vai a Black Friday da HolyFoods? A loja não publicou a data de fim: vale enquanto a campanha estiver no ar, e o capítulo da campanha diz como conferir.",
-        "O cupom EMCASA vale na Black Friday? Vale. Nos nossos testes, o cupom HolyFoods EMCASA somou com a Black: 15% sobre o preço que já tinha os 30%. O capítulo do cupom traz os dois carrinhos.",
+        "O cupom EMCASA vale na Black Friday? Vale. Nos nossos testes, o cupom HolyFoods EMCASA somou com a Black: 15% sobre o preço que já tinha os 30%. O capítulo do cupom traz os quatro carrinhos.",
+        "O cupom EMCASA vale nos kits da Black da HolyFoods? Vale. Nos nossos testes na tela de finalizar a compra, ele tirou 15% do Descoberta, da Rotina Resolvida e de um carrinho igual ao Despensa Cheia, sobre o preço que já tinha os 30%.",
         "Qual kit da Black da HolyFoods escolher para começar? A loja indica o Descoberta para conhecer a linha; a comparação dos três está no capítulo \"Qual kit levar\".",
-        "A HolyFoods tem frete grátis na Black? Tem, a partir de um mínimo que muda por estado; a tabela está no capítulo do frete."
+        "A HolyFoods tem frete grátis na Black? Tem, a partir de um mínimo que muda por estado; a tabela está no capítulo do frete.",
+        "Pack de sopa ou sopa avulsa da HolyFoods: qual sai mais em conta? Por 100 g de mistura seca, o pack sai cerca de 9% abaixo da avulsa. A porção do sachê é maior que a da avulsa, então a comparação por porção engana.",
+        "Qual a diferença entre a garantia de 30 dias da HolyFoods e o direito de arrependimento? O arrependimento é da lei: 7 dias corridos do recebimento para desistir da compra online. A garantia é da loja: 30 dias, com uma unidade aberta e as demais fechadas."
       ]
     }
   ],
@@ -270,7 +311,7 @@
     ],
     "skipIf": [
       "Você espera que o cupom entre pelo carrinho ou pelo link da parceria: o código só entra na tela de finalizar, e você precisa copiá-lo.",
-      "Vai pedir o Descoberta ou a Rotina Resolvida contando com o EMCASA sem conferir: só o carrinho igual ao Despensa Cheia foi testado.",
+      "Não quer sopa: a média por refeição menor do Despensa Cheia vem dos sachês de sopa. Massa e risoto custam o mesmo em qualquer kit e no avulso.",
       "Precisa da entrega num dia certo: a preparação leva até 3 dias úteis e o transporte soma a isso."
     ]
   },

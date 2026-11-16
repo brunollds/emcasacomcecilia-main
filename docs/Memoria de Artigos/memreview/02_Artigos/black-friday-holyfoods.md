@@ -314,3 +314,11 @@ No ar em 05/11/2026, release `040b1515` (build `01a1ac5f`), com o vídeo da Cec�
 - **Alt (PT):** Risoto de funghi servido em um prato, com a embalagem HolyFoods ao fundo, em foto oficial da marca.
 - **Origem:** foto oficial do risoto funghi servido ao lado da caixa, sem degustação nossa nem benefício nutricional. Sem geração por IA.
 - **Lote 16 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/holyfoods/black-friday-holyfoods-capa.webp`) fica no CDN, sem uso como capa.
+
+## Curadoria de Black Friday (16/11/2026)
+
+- **O que mudou no guia:** sopas comparadas por 100 g de mistura seca e por litro preparado (a frase "o sachê do pack sai mais caro que a porção do avulso" saiu: as porções têm tamanhos diferentes); a média de R$ 8,81 do Despensa Cheia aberta em massas e risotos (18 × R$ 13,93) e sopas (20 sachês a R$ 4,19); capítulo com a declaração de alérgicos de cada sabor, copiada da página; garantia de 30 dias separada do art. 49 do CDC; `decision.skipIf` atualizado.
+- **Leitura de 16/11:** preços iguais aos de 05/11 (avulsos R$ 13,93, packs R$ 41,93, kits R$ 111,44, R$ 208,95 e R$ 334,60). A home também traz o "Projeto 30 Dias" (3 packs, R$ 125,79).
+- **Testes no checkout (seguro.holyfoods.com.br, sem dados pessoais):** Descoberta R$ 111,44 → R$ 94,72; Rotina Resolvida R$ 208,95 → R$ 177,61. Com os dois de 05/11, são quatro carrinhos com 15% por cima dos 30%.
+- **Não lido:** frete dos dois kits (a loja só mostra depois da identificação).
+- **Pesos:** o guia usa os do `holyfoods-e-boa` (Vovó avulsa 130 g, pack 10 × 43 g; pack cerca de 9% mais barato por 100 g). A página da avulsa informa porção de 33 g, ¼ da embalagem.

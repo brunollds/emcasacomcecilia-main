@@ -157,3 +157,14 @@ Senior" e "Black Friday Nutren".
 - **Alt (PT):** Lata de Nutren Active sabor chocolate, de 400 gramas, em foto oficial da linha adulta.
 - **Origem:** foto oficial do Nutren Active chocolate, que ilustra a linha; a cotação do artigo não vale para esse rótulo. Sem geração por IA.
 - **Lote 17 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/nutren/black-friday-nestle-nutre-capa-discover.webp`) fica no CDN, sem uso como capa.
+
+## Curadoria de Black Friday (16/11/2026)
+
+- **O que mudou no guia:** tabela "outubro e novembro" com o resultado por produto, capítulo do Nutren Senior por tamanho (R$ por 100 g com o CECI), capítulo do Just Protein, creatina e FiberMais por porção, Zero Lactose separada de APLV, FAQ dos kits.
+- **Leitura de 16/11 (compra única):** Senior 740 g R$ 169,37, Zero Lactose R$ 190,61, kit 2×740 g Sem Sabor R$ 263,49 e kit Zero Lactose R$ 296,50 (todos iguais a outubro); Senior 370 g R$ 85,67 (era R$ 100,79); Just Protein R$ 103,03 (era R$ 115,91); combo Just Protein R$ 167,43 (era R$ 193,18); FiberMais lata R$ 115,91 (era R$ 144,89); display de 10 sachês R$ 45,51; Control Baunilha R$ 161,17 (era R$ 171,91); Active Baunilha R$ 63,49 (era R$ 50,79: subiu).
+- **CECI no carrinho (sem login):** 10% nos nove itens de uma vez, kits inclusive (carrinho de R$ 1.437,52, desconto de R$ 143,75). Control e Active não entraram no teste: os valores com o cupom deles são conta nossa.
+- **Contas:** Just Protein 280 ÷ 15 = 18,67 porções e 242,67 g de proteína; com o CECI, R$ 4,97 por porção e R$ 38,21 por 100 g de proteína (combo: R$ 31,05).
+- **Pendências:**
+  - Nutren Creatina 300 g não foi localizada no site (busca e URL): o guia mantém só a referência de outubro.
+  - Assinatura: o guia segue com "15% a partir da 4ª recorrência", da FAQ da loja; o handoff falava em 3ª. Não relido.
+  - Frete não estimado nesta leitura.
