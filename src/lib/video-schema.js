@@ -16,10 +16,16 @@ function getAbsoluteUrl(url, baseUrl) {
   }
 }
 
-function isIso8601Date(value) {
+/**
+ * Data, hora e fuso, o formato que o uploadDate do VideoObject pede: só a data, ou a hora sem fuso, o Google
+ * Vídeos acusa ("Falta o fuso horário da propriedade uploadDate").
+ * @param {unknown} value
+ * @returns {boolean}
+ */
+export function isIso8601DateTime(value) {
   return (
     typeof value === 'string' &&
-    /^\d{4}-\d{2}-\d{2}(?:T\d{2}:\d{2}:\d{2}(?:\.\d+)?(?:Z|[+-]\d{2}:\d{2}))?$/.test(value) &&
+    /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?(?:Z|[+-]\d{2}:\d{2})$/.test(value) &&
     !Number.isNaN(Date.parse(value))
   );
 }
@@ -53,7 +59,7 @@ export function buildYoutubeVideoObject({
     !name ||
     !resolvedDescription ||
     !resolvedThumbnailUrl ||
-    !isIso8601Date(resolvedUploadDate) ||
+    !isIso8601DateTime(resolvedUploadDate) ||
     !embedUrl ||
     !watchUrl
   ) {
@@ -93,7 +99,7 @@ export function buildLocalVideoObject({
     !description ||
     !resolvedContentUrl ||
     !resolvedThumbnailUrl ||
-    !isIso8601Date(uploadDate)
+    !isIso8601DateTime(uploadDate)
   ) {
     return null;
   }

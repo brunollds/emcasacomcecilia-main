@@ -119,6 +119,10 @@ export const videoMetadata = {
  * Apenas registros `primary` podem gerar VideoObject. Os demais permanecem
  * visíveis na página, mas não competem com o vídeo principal no schema.
  *
+ * Campo `uploadDate`: data, hora e fuso, como no YouTube. O Google Vídeos avisa quando falta o fuso, e só a
+ * data não gera VideoObject. MP4 sem hora de publicação registrada leva o meio-dia de Brasília do dia em que
+ * foi ao ar (`T12:00:00-03:00`).
+ *
  * Campo `reviewSlug`:
  * - Para `primary`: sempre uma string (single owner, used for schema/sitemap/display page)
  * - Para `secondary`/`decorative`: pode ser string ou array (múltiplos reviews podem reutilizar o mesmo MP4)
@@ -131,7 +135,7 @@ export const localVideoMetadata = {
     description:
       'Demonstração do site da I Wanna Sleep e do caminho para escolher produtos, avançar ao checkout e aplicar o cupom CECIEMCASA.',
     thumbnailUrl: '/images/reviews/iwannasleep/i-wanna-sleep-site-1-poster.jpg',
-    uploadDate: '2026-07-07',
+    uploadDate: '2026-07-07T12:00:00-03:00',
   },
   '/videos/reviews/dolcegusto/genio-s-touch-loop-1.mp4': {
     classification: 'primary',
@@ -140,7 +144,7 @@ export const localVideoMetadata = {
     description:
       'Demonstração do primeiro uso da Genio S Touch, com a colocação da cápsula e o início do preparo de uma bebida na máquina.',
     thumbnailUrl: '/images/reviews/dolcegusto/genio-s-touch-loop-1-poster.webp',
-    uploadDate: '2026-07-23',
+    uploadDate: '2026-07-23T12:00:00-03:00',
   },
   '/videos/reviews/damie/poltrona-reclinavel-damie-2-0-hero-loop.mp4': {
     classification: 'decorative',
