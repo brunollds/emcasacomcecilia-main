@@ -178,3 +178,4 @@ O guia ganhou três capítulos de escolha (pillow top e kits, travesseiro por po
 - **Não conferido:** se os brindes entram no carrinho e se os kits levam os brindes das peças avulsas; frete por CEP.
 - **Fora, por divergir dos nossos guias:** "100% lavável" do Airgelly (o guia diz lavável à mão) e o bolso com zíper do Puffer (o guia não confirma).
 - **Reler:** em 26/11, com a janela do CECIEMCASA15 aberta.
+- **Revisão Farol (16/11):** parecer em `docs/auditoria-copy-artigos/bf-todaup-dolcegusto-iws-20261116-farol/`, conferido e aplicado. Tabelas de outubro só com registros de outubro (saíram as cinco linhas já atualizadas); "No site" no lugar de "Na sacola"; Pix e 19,25% marcados como conta; código de 15% como previsto; kit com Bao Bao sem "um pedido só"; resposta rápida sem colchão.

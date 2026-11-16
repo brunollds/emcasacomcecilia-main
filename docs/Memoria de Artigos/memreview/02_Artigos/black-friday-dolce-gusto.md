@@ -162,3 +162,4 @@ O guia ganhou três capítulos de escolha: primeira máquina, custo por bebida e
 - **Correção:** o texto separa o mínimo de R$ 100 do CECI da regra de frete de cada oferta; não diz que DGusta abaixo de R$ 100 perde o frete.
 - **Não conferido:** CECI em caixas avulsas, no DGusta e na NEO nesta leitura (o teste anterior é o do Combo Queridinhos). O cupom de primeira compra da loja aparece no regulamento e ficou fora do artigo.
 - **Fatos de máquina:** dos nossos guias (`dolce-gusto-maquinas-qual-escolher`, `dolce-gusto-genio-s-touch-vale-a-pena`).
+- **Revisão Farol (16/11):** parecer em `docs/auditoria-copy-artigos/bf-todaup-dolcegusto-iws-20261116-farol/`, conferido e aplicado. Mini Me, Basic e Plus nomeadas na queda de preço (a Touch subiu); capítulo de sistemas sem repetição, virou Outlet e promoções com muitas caixas; tabelas em quatro colunas; "Referência exibida pela loja" no lugar de "Preço cheio"; assinatura sem recomendação pelo desconto inicial.

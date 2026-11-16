@@ -54421,7 +54421,7 @@ export const reviewsData: unknown[] = [
           "caption": "Máquinas nos banners da Black Friday do site oficial, com 30 cápsulas e 10 vezes sem juros, ao lado do preço cheio e do preço de outubro. As ofertas mudam sem aviso: confira na loja.",
           "headers": [
             "Máquina",
-            "Preço cheio",
+            "Referência exibida pela loja",
             "Em outubro",
             "Na Black Friday"
           ],
@@ -54448,7 +54448,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Nas bebidas, a campanha funciona por oferta do dia: numa delas, a caixa de Mochaccino caía de R$ 25,90 para R$ 15,90. Fora dela, os banners traziam 25% OFF nos cafés Lungos NEO, até 25% OFF em acessórios, frete grátis acima de R$ 100 e uma Mini Me vermelha de brinde na compra de 80 caixas de bebidas.",
-          "A assinatura entrou na campanha com desconto em todas as bebidas no primeiro pedido, 35% OFF num banner e 30% OFF noutro, com \"benefícios garantidos até janeiro\", e frete grátis em todos os pedidos. A conta vale para quem toma café todo dia; o desconto maior é só na primeira entrega.",
+          "A assinatura entrou na campanha com desconto em todas as bebidas no primeiro pedido, 35% OFF num banner e 30% OFF noutro, com \"benefícios garantidos até janeiro\", e frete grátis em todos os pedidos. Antes de assinar, confira qual oferta vale para a sua modalidade e o preço das entregas seguintes. O desconto maior anunciado é do primeiro pedido.",
           "Pelo regulamento do site, as ofertas diárias valem só no site oficial, enquanto durarem os estoques, e não são cumulativas com combo com máquinas, combo de bebidas e resgate de pontos. Essa é a regra da oferta; a do cupom está no capítulo do CECI.",
           "Na leitura de 16 de novembro, os três preços da tabela seguiam no site. A Genio S Touch estava por R$ 799,90, acima dos R$ 689,90 de outubro."
         ],
@@ -54478,44 +54478,38 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "caption": "Site oficial na leitura de novembro. O CECI foi simulado na Mini Me 2.0; nas outras, o valor é o preço da página menos 10%. Pelo regulamento, a máquina da linha Original leva 30 cápsulas",
           "headers": [
-            "Máquina",
-            "Para quem",
+            "Máquina e indicação",
             "No site",
             "Com o CECI",
-            "Em outubro"
+            "Outubro, sem cupom"
           ],
           "rows": [
             [
-              "Mini Me 2.0",
-              "Quer gastar menos e não precisa do XL",
+              "Mini Me 2.0: quer gastar menos e não precisa do XL",
               "R$ 369,90",
               "R$ 332,91",
               "R$ 429,90 a R$ 449,90"
             ],
             [
-              "Genio S Basic",
-              "Quer a função XL pelo menor preço",
+              "Genio S Basic: quer a função XL pelo menor preço",
               "R$ 409,90",
               "R$ 368,91",
               "R$ 479,90"
             ],
             [
-              "Genio S Plus",
-              "Quer XL, quatro temperaturas e Espresso Boost",
+              "Genio S Plus: quer XL, quatro temperaturas e Espresso Boost",
               "R$ 499,90",
               "R$ 449,91",
               "R$ 589,90"
             ],
             [
-              "Genio S Touch",
-              "Faz questão do painel de toque",
+              "Genio S Touch: faz questão do painel de toque",
               "R$ 799,90",
               "R$ 719,91",
               "R$ 689,90"
             ],
             [
-              "NEO",
-              "Toma só café preto e quer reservatório de 1 litro",
+              "NEO: toma só café preto e quer reservatório de 1 litro",
               "a partir de R$ 799",
               "confira no carrinho",
               "sem registro"
@@ -54539,50 +54533,43 @@ export const reviewsData: unknown[] = [
           "caption": "Caixas de 10 cápsulas no site oficial na leitura de novembro, na oferta do dia e sem cupom. O custo por bebida é conta nossa",
           "headers": [
             "Bebida",
-            "Cápsulas por bebida",
-            "Caixa",
+            "Caixa de 10 cápsulas",
             "Bebidas por caixa",
-            "Por bebida"
+            "Custo por bebida"
           ],
           "rows": [
             [
               "Café au Lait Desnatado",
-              "1",
               "R$ 15,90",
               "10",
               "R$ 1,59"
             ],
             [
               "Espresso, Café au Lait ou Pingado",
-              "1",
               "R$ 17,90",
               "10",
               "R$ 1,79"
             ],
             [
               "Mochaccino Canela",
-              "1",
               "R$ 19,90",
               "10",
               "R$ 1,99"
             ],
             [
               "Chai Tea Latte ou Vanilla Latte Macchiato",
-              "2",
               "R$ 15,90",
               "5",
               "R$ 3,18"
             ],
             [
               "Cappuccino ou Chococino",
-              "2",
               "R$ 19,90",
               "5",
               "R$ 3,98"
             ],
             [
               "Latte Macchiato",
-              "2",
               "R$ 22,90",
               "5",
               "R$ 4,58"
@@ -54627,7 +54614,7 @@ export const reviewsData: unknown[] = [
           "caption": "Preços do site oficial em outubro e ofertas anunciadas pela Nestlé para a Black Friday de 2024. Os preços mudam quase todo dia.",
           "headers": [
             "Produto",
-            "Preço cheio no site",
+            "Referência exibida pela loja",
             "Em outubro",
             "Black Friday 2024"
           ],
@@ -54677,17 +54664,15 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A tabela mostra duas coisas. Nas máquinas, a Black Friday deste ano já bateu as duas réguas: a Mini Me 2.0 e as Genio S estão abaixo de outubro e abaixo do anunciado em 2024, e ainda com 30 cápsulas. Nas cápsulas, a régua de 2024 segue bem abaixo das promoções de outubro: é nela que vale medir a oferta do dia.",
+          "A Mini Me 2.0, a Genio S Basic e a Genio S Plus estão abaixo dos preços registrados em outubro. A Genio S Touch subiu de R$ 689,90 para R$ 799,90. Os anúncios de 2024 ficam como contexto histórico: confira o modelo e os itens incluídos antes de comparar. Nas cápsulas, compare a oferta atual da bebida que você toma com o histórico da mesma caixa.",
           "Se o plano é encher a despensa, espere a oferta do dia da bebida que você toma e compare com as duas colunas antes de fechar."
         ]
       },
       {
-        "heading": "Máquina na Black Friday: Original, NEO e Outlet",
+        "heading": "Máquina de Outlet e promoções com muitas caixas",
         "paragraphs": [
-          "Antes do preço, escolha o sistema. As máquinas Original, como a Mini Me e a linha Genio S, usam as cápsulas Original: cafés, lattes, chocolates e chás. As máquinas NEO usam as cápsulas NEO, só de cafés. As duas linhas não são compatíveis entre si.",
-          "Para quem já tem uma máquina Original e quer provar os cafés NEO, existe o Adaptador NEO Start, que funciona com cinco cafés da linha. O site oficial tem promoções que dão o adaptador em combos de cafés NEO, limitadas a um adaptador por CPF.",
           "O site também vende **Máquinas de Outlet**: aparelhos devolvidos que passam por inspeção técnica e higienização e têm a mesma garantia das novas. No início de outubro, a Genio S Basic de Outlet saía por R$ 399,90.",
-          "Outra forma de levar uma máquina é o combo que dá uma Mini Me na compra de muitas caixas de cápsulas Original. A quantidade muda a cada poucos dias: nas últimas semanas, variou entre 45 e 65 caixas. As regras estão no guia da promoção."
+          "Há também a promoção que dá uma Mini Me na compra de muitas caixas. A quantidade exigida muda: confira a condição atual em [caixas de cápsulas + Mini Me grátis](/reviews/promocao-dolce-gusto-caixas-mini-me-gratis)."
         ],
         "image": {
           "src": "/images/reviews/dolcegusto/dolce-gusto-cinco-maquinas-oficial.webp",
@@ -54738,7 +54723,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como não cair em desconto falso",
         "bullets": [
-          "**Compare com a tabela de outubro.** O preço riscado no site é o preço cheio. Em outubro, a Genio S Basic já estava R$ 200 abaixo dele; use esse preço como referência para avaliar a oferta.",
+          "**Compare com outubro.** O valor de referência exibido pela loja não mostra, sozinho, quanto a máquina custava antes. A Genio S Basic já era vendida por R$ 479,90 em outubro; compare esse registro com o preço atual.",
           "**Some o frete.** Nas caixas avulsas e nos cafés NEO, o frete é grátis acima de R$ 100; no DGusta, o regulamento dá frete grátis na modalidade; na assinatura, em todos os pedidos. Pedido com máquina fica fora. O carrinho mostra o valor para o seu CEP.",
           "**Confira o sistema.** Cápsula NEO não serve em máquina Original sem o adaptador, e cápsula Original não serve em máquina NEO.",
           "**Escolha a voltagem com calma.** No combo da Mini Me, ela é escolhida no carrinho e não pode ser trocada depois.",
@@ -54753,10 +54738,10 @@ export const reviewsData: unknown[] = [
           "Quais máquinas estão em oferta na Black Friday da Dolce Gusto? Nos banners, a Mini Me 2.0 a R$ 369,90, a Genio S Basic a R$ 409,90 e a Genio S Plus a R$ 499,90, todas com 30 cápsulas e em 10 vezes sem juros, abaixo do preço de outubro e do anunciado na Black Friday de 2024.",
           "Qual cafeteira Dolce Gusto comprar na Black Friday? Para gastar menos, a Mini Me 2.0, que saiu por R$ 332,91 com o CECI. Para ter a função XL, a Genio S Basic. Para XL, quatro temperaturas e Espresso Boost, a Genio S Plus. A Genio S Touch estava mais cara que em outubro.",
           "Combo de cápsulas ou caixas avulsas na Dolce Gusto? Compare a mesma quantidade. Na nossa leitura, oito caixas de Espresso na oferta do dia saíam mais baratas que o combo Leve 8 Pague 6; no Mochaccino Canela, o combo ganhava por pouco.",
-          "Vale a pena comprar cafeteira Dolce Gusto na Black Friday? Nas máquinas, vale: a Mini Me 2.0 e as Genio S ficaram abaixo dos preços de outubro e incluíam 30 cápsulas. Antes de fechar, compare o valor do seu modelo, a voltagem e o frete. Nas cápsulas, compare a oferta do dia com as referências da tabela.",
+          "Vale a pena comprar cafeteira Dolce Gusto na Black Friday? Na Mini Me 2.0, na Genio S Basic e na Genio S Plus, os preços ficaram abaixo dos registrados em outubro, com 30 cápsulas na oferta. A Touch ficou mais cara. Escolha o modelo e confira a voltagem, o cupom e o frete antes de pagar.",
           "Tem cupom Dolce Gusto para a Black Friday? O CECI dá 10% OFF em compras a partir de R$ 100 na loja oficial. No nosso teste, ele somou com um combo da Black Friday; o resumo do carrinho mostra o desconto antes de pagar.",
           "O cupom CECI vale na Black Friday? Vale. O cupom Dolce Gusto CECI dá 10% OFF em pedidos a partir de R$ 100. No nosso teste, entrou por cima do preço de Black Friday da Mini Me 2.0 e de um combo de cápsulas. A oferta de acessórios não soma com cupons, pelo regulamento.",
-          "As cápsulas Dolce Gusto ficam mais baratas na Black Friday? Em 2024, a Nestlé anunciou caixas a partir de R$ 13,90 e DGusta a partir de R$ 1,39 a cápsula; em outubro, as promoções partiam de R$ 17,90 e R$ 1,79.",
+          "As cápsulas Dolce Gusto ficam mais baratas na Black Friday? Depende da bebida e da oferta do dia. Nesta leitura, as caixas partiam de R$ 15,90. As referências de outubro e de 2024 ajudam a comparar, mas confira a mesma bebida e o mesmo número de cápsulas.",
           "Cápsula NEO serve na Mini Me ou na Genio S? Só com o Adaptador NEO Start, e apenas nos cinco cafés NEO da linha. Sem o adaptador, as cápsulas NEO não servem diretamente nessas máquinas.",
           "A Black Friday da Dolce Gusto tem frete grátis? Depende da oferta. Nas caixas avulsas e nos cafés NEO, acima de R$ 100; no DGusta, o regulamento dá frete grátis na modalidade; na assinatura, em todos os pedidos. Pedido com máquina não entra. O carrinho mostra o valor.",
           "A oferta do dia da Dolce Gusto soma com outras promoções? Não com combo de máquina, combo de bebidas nem resgate de pontos, pelo regulamento do site. Se soma com o cupom CECI, o carrinho mostra antes de pagar."
@@ -55461,7 +55446,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday I Wanna Sleep 2026",
         "paragraphs": [
-          "A I Wanna Sleep está com kits de Black Friday e brindes na home. O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF em todo o site e soma com os 5% do Pix. Na quinta e na sexta da Black Friday, a parceria tem um código de 15%. Para escolher, comece pelo que você quer resolver: colchão, travesseiro ou cobertor."
+          "O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF e soma com os 5% do Pix. O Pillow Top Magnum casal ficou abaixo do preço de outubro. Nos kits, confira a economia e os brindes antes de escolher. Pelo site, você compra pillow top, travesseiros e cobertores; colchões ficam nas lojas físicas."
         ]
       },
       {
@@ -55478,12 +55463,12 @@ export const reviewsData: unknown[] = [
           "Pelo site, a peça para a cama é o Pillow Top Magnum, que vai por cima do colchão que você já tem. Na leitura de 16 de novembro, ele estava abaixo do preço de outubro no casal e no queen, e a página anunciava dois travesseiros Magnum de brinde."
         ],
         "comparisonTable": {
-          "caption": "Sacola da I Wanna Sleep na leitura de novembro. Simulamos o cupom no Pillow Top casal e no kit com dois Snow; nas outras linhas, o valor é o preço da página menos 10%",
+          "caption": "Site da I Wanna Sleep na leitura de novembro. Simulamos o cupom no Pillow Top casal e no kit com dois Snow; nas outras linhas, o valor é o preço da página menos 10%",
           "headers": [
             "Produto",
-            "Na sacola",
+            "No site",
             "Com o CECIEMCASA",
-            "Em outubro, na sacola"
+            "Outubro, sem cupom"
           ],
           "rows": [
             [
@@ -55521,21 +55506,21 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "**Só o pillow top:** é a compra de quem quer mudar a sensação do colchão e já tem travesseiro. O super king estava esgotado na leitura.",
           "**Kit com dois Snow:** para quem ia comprar o pillow top e os travesseiros. O kit casal sai por R$ 2.326; o pillow top casal mais o kit de dois Snow regular, comprados separados, somam R$ 2.415. São R$ 89 de diferença antes do cupom. A página do pillow top avulso anuncia os dois travesseiros Magnum de brinde: veja se o brinde aparece também no kit antes de decidir.",
-          "**Kit com Bao Bao e Igloo:** junta o pillow top, o jogo de cama e o cobertor. No casal, custa R$ 4.157, contra R$ 4.181 das três peças separadas. A diferença é pequena, e as três peças avulsas anunciavam brinde próprio. O kit vale para quem quer as três e prefere um pedido só.",
+          "**Kit com Bao Bao e Igloo:** no casal, custa R$ 4.157, contra R$ 4.181 dos mesmos três produtos comprados avulsos. A economia é de R$ 24 antes do cupom. Como as páginas das três peças anunciam brindes próprios, confira quais entram em cada carrinho. O kit faz sentido se você quer as três peças e os brindes das avulsas não mudam a sua escolha.",
           "Para saber se o pillow top resolve o seu caso, veja [Pillow Top Magnum IWS vale a pena?](/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas). Colchão e box a loja vende só nas lojas físicas, em Belo Horizonte."
         ]
       },
       {
         "heading": "Travesseiro: escolha pela posição de dormir",
         "paragraphs": [
-          "O preço muda pouco entre as linhas. O que decide é como você dorme e se já sabe a altura que funciona."
+          "Entre os modelos da tabela, os preços vão de R$ 207 a R$ 455 antes do cupom. Compare a altura, a regulagem e os cuidados de lavagem com o que você procura."
         ],
         "comparisonTable": {
-          "caption": "Sacola da I Wanna Sleep na mesma leitura. O Snow regular foi simulado com o cupom; nos outros, o valor é o preço da página menos 10%",
+          "caption": "Site da I Wanna Sleep na mesma leitura. O Snow regular foi simulado com o cupom; nos outros, o valor é o preço da página menos 10%",
           "headers": [
             "Para quem",
             "Travesseiro",
-            "Na sacola",
+            "No site",
             "Com o CECIEMCASA"
           ],
           "rows": [
@@ -55584,7 +55569,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "**Snow:** chega alto, e você tira o enchimento até achar o ponto. É a escolha segura para quem nunca acertou a altura.",
+          "**Snow:** você pode retirar parte do enchimento para ajustar a altura. É uma opção para quem quer fazer esse ajuste em casa.",
           "**Original Látex:** vem em alturas fixas. O G estava esgotado na leitura.",
           "**Cervical:** o Coluna Relax tem o formato côncavo e é o mais barato da lista. O Neck Plus Gel soma partículas de gel; o Neck Plus Charcoal, com carvão ativado na espuma, estava por R$ 353. Com dor persistente, procure um profissional de saúde.",
           "**Airgelly 2.0 e Skin:** o Airgelly é lavável à mão. O Skin tem a capa que reduz o atrito no rosto.",
@@ -55597,11 +55582,11 @@ export const reviewsData: unknown[] = [
           "Aqui a pergunta é quanto frio faz no quarto e quem divide a cama com você."
         ],
         "comparisonTable": {
-          "caption": "Sacola da I Wanna Sleep na mesma leitura, tamanho casal/queen. Com o cupom, o valor é o preço da página menos 10%",
+          "caption": "Site da I Wanna Sleep na mesma leitura, tamanho casal/queen. Com o cupom, o valor é o preço da página menos 10%",
           "headers": [
             "Para quem",
             "Cobertor",
-            "Na sacola",
+            "No site",
             "Com o CECIEMCASA"
           ],
           "rows": [
@@ -55636,7 +55621,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços de outubro do Pillow Top Magnum, para comparar",
         "paragraphs": [
-          "O Pillow Top Magnum, que vai por cima do colchão, tinha cerca de 14% de desconto sobre o preço riscado em todos os tamanhos em outubro, e a home já mostra 17% no solteiro. Os kits com ele saem com desconto maior, de 18% a 22%."
+          "Em outubro, o Pillow Top Magnum já tinha cerca de 14% de desconto sobre o preço riscado em todos os tamanhos. O preço riscado é uma referência exibida pela loja, não prova do preço praticado antes: compare a mesma versão com o registro abaixo."
         ],
         "image": {
           "src": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-hero.webp",
@@ -55645,18 +55630,13 @@ export const reviewsData: unknown[] = [
           "objectFit": "square"
         },
         "comparisonTable": {
-          "caption": "Pillow Top Magnum e kits na I Wanna Sleep: preço riscado na página e preço do dia em 9 de outubro de 2026. O solteiro e o kit com 2 travesseiros Snow já estão com o preço de novembro; nos outros tamanhos, confira o preço do dia na loja. No Pix, a página do produto mostra mais 5% de desconto.",
+          "caption": "Valores registrados no site em 9 de outubro de 2026, antes do cupom. Para os preços da leitura atual, veja a tabela de Pillow Top e kits deste guia.",
           "headers": [
             "Produto",
             "Preço riscado",
-            "Preço do dia"
+            "Preço em 9/10, sem cupom"
           ],
           "rows": [
-            [
-              "Pillow Top Magnum, solteiro (1,00 x 2,00 m)",
-              "R$ 1.489",
-              "R$ 1.233"
-            ],
             [
               "Pillow Top Magnum, casal (1,40 x 2,00 m)",
               "R$ 2.149",
@@ -55671,11 +55651,6 @@ export const reviewsData: unknown[] = [
               "Pillow Top Magnum, super king (2,00 x 2,00 m)",
               "R$ 2.839",
               "R$ 2.441"
-            ],
-            [
-              "Kit Pillow Top Magnum casal + 2 travesseiros Snow regular",
-              "R$ 2.987",
-              "R$ 2.326"
             ],
             [
               "Kit Pillow Top Magnum + Bao Bao + Igloo, casal",
@@ -55697,7 +55672,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços de outubro de travesseiros e cobertores",
         "paragraphs": [
-          "Nos travesseiros e cobertores, o selo de desconto também já estava lá em outubro, entre 12% e 17%, e o Snow regular está em 20% na home."
+          "Estes são os preços registrados em outubro para comparar com a oferta atual. Confira sempre o mesmo modelo e tamanho."
         ],
         "image": {
           "src": "/images/reviews/iwannasleep/qual-cobertor-escolher-hero-grid.webp",
@@ -55706,18 +55681,13 @@ export const reviewsData: unknown[] = [
           "objectFit": "square"
         },
         "comparisonTable": {
-          "caption": "Travesseiros e cobertores na I Wanna Sleep: preço riscado na página e preço do dia. O Snow regular, o Igloo e o Huggy já estão com o preço de novembro; nos demais, o preço é o de outubro: confira na loja. No Pix, a página do produto mostra mais 5% de desconto.",
+          "caption": "Valores registrados em outubro, antes do cupom. Os preços atuais dos modelos relidos estão nos quadros de escolha deste guia.",
           "headers": [
             "Produto",
             "Preço riscado",
-            "Preço do dia"
+            "Preço de outubro, sem cupom"
           ],
           "rows": [
-            [
-              "Travesseiro Snow, regular (50 x 70 cm)",
-              "R$ 419",
-              "R$ 335"
-            ],
             [
               "Travesseiro Snow, plus (50 x 90 cm)",
               "R$ 459",
@@ -55744,19 +55714,9 @@ export const reviewsData: unknown[] = [
               "R$ 377"
             ],
             [
-              "Cobertor Igloo, casal/queen",
-              "R$ 1.099",
-              "R$ 931"
-            ],
-            [
               "Cobertor Igloo, king/super king",
               "R$ 1.299",
               "R$ 1.143"
-            ],
-            [
-              "Cobertor Huggy, casal/queen",
-              "R$ 699",
-              "R$ 565"
             ],
             [
               "Cobertor Cozy, casal/queen",
@@ -55812,8 +55772,8 @@ export const reviewsData: unknown[] = [
           "**Pix:** a página de cada produto dá 5% de desconto, só à vista.",
           "**Cartão:** parcelado sem juros; o número de parcelas aparece na página do produto. A aprovação do cartão leva até 24 horas, e a do boleto, até 72 horas.",
           "**Cupom:** o CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento. Na leitura de novembro, ele entrou por cima dos preços da campanha no Pillow Top Magnum, no kit com dois Snow e no travesseiro Snow.",
-          "**Código de 15%:** nos dias 26 e 27 de novembro, a parceria tem um código de 15%, que aparece neste artigo nos dois dias. Fora deles, o checkout não aceita: testamos antes da data, e ele não entrou. Quando a janela abrir, confira a linha do desconto no carrinho.",
-          "**Pix com o cupom:** os dois somam, um sobre o outro. Com o CECIEMCASA, de 10%, a redução total fica em 14,5%. Com o código de 15%, em 19,25%. No Pillow Top Magnum casal, de R$ 1.779, o cupom de 10% leva a R$ 1.601,10, e a conta com o Pix dá perto de R$ 1.521. O resumo do checkout mostra o valor exato antes de pagar."
+          "**Código de 15%:** a parceria tem um código de 15% previsto para os dias 26 e 27 de novembro, que aparece neste artigo nos dois dias. Antes da data, o checkout não aceitou. Quando a janela abrir, confira a linha do desconto no carrinho.",
+          "**Pix com o cupom:** a loja anuncia 5% no Pix. Aplicados sobre o valor já com o CECIEMCASA, os descontos dão uma redução total de 14,5%; se o código de 15% e o Pix se aplicarem juntos, a conta chega a 19,25%. No Pillow Top casal de R$ 1.779, o cupom foi testado e levou o preço a R$ 1.601,10; com os 5% adicionais, a conta fica em R$ 1.521,05. O Pix não foi refeito nesta rodada: confirme a soma no pagamento."
         ],
         "links": [
           {
@@ -55907,9 +55867,9 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da I Wanna Sleep? A home já traz os Kits Exclusivos Black, com brindes, sem data de fim publicada. O grande dia é a última sexta-feira de novembro, dia 27, e a Cyber Monday, a segunda seguinte. Compare os kits com as tabelas deste guia.",
           "Dá para comprar colchão da I Wanna Sleep pelo site? Não. Os colchões e a base box aparecem no site, mas são vendidos só nas lojas físicas, em Belo Horizonte, com as consultoras do sono. Pelo site, a peça para a cama é o Pillow Top Magnum.",
-          "O cupom CECIEMCASA vale na Black Friday? Vale. O cupom I Wanna Sleep CECIEMCASA dá 10% OFF em todo o site e entrou por cima dos preços da campanha nos carrinhos que testamos. Na quinta e na sexta da Black Friday, a parceria tem um código de 15%.",
-          "O cupom CECIEMCASA soma com o desconto do Pix? Soma. Os 5% do Pix entram sobre o valor já com o cupom: a redução total fica em 14,5% com o CECIEMCASA e em 19,25% com o código de 15%. Confira o valor no resumo do checkout.",
-          "Qual travesseiro da I Wanna Sleep comprar na Black Friday? Quem dorme de lado e não sabe a altura certa fica com o Snow, que é ajustável. Quem já sabe a altura pode ir no Original Látex. Para apoio cervical, o Coluna Relax é o mais barato da linha.",
+          "O cupom CECIEMCASA vale na Black Friday? Vale. O cupom I Wanna Sleep CECIEMCASA dá 10% OFF em todo o site e entrou por cima dos preços da campanha nos carrinhos que testamos. Para a quinta e a sexta da Black Friday, a parceria tem um código de 15% previsto.",
+          "O cupom CECIEMCASA soma com o desconto do Pix? A loja anuncia 5% no Pix, e o cupom vale em todas as formas de pagamento. Aplicados um sobre o outro, dão 14,5% de redução com o CECIEMCASA. O Pix não foi refeito nesta rodada: confira o valor no resumo do checkout.",
+          "Qual travesseiro da I Wanna Sleep comprar na Black Friday? Quem dorme de lado e quer ajustar a altura em casa pode ir no Snow. Quem já sabe a altura tem o Original Látex. Para apoio cervical, o Coluna Relax é o mais barato da linha.",
           "Kit ou peças avulsas na I Wanna Sleep? No casal, o kit do pillow top com dois Snow saiu R$ 89 abaixo das peças separadas, antes do cupom. No kit com Bao Bao e Igloo, a diferença foi de R$ 24. Veja se os brindes das peças avulsas aparecem também no kit.",
           "O que é o Sleeptest da I Wanna Sleep? É o teste em casa: 30 dias para o travesseiro e o pillow top e 100 dias para o colchão, com pelo menos 15 dias de uso antes de pedir a troca. No travesseiro e no pillow top, a troca vira crédito na loja.",
           "A I Wanna Sleep tem frete grátis? Tem, acima de R$ 150, em travesseiros, pillow top, cobertores e no resto da linha leve. Em outubro, o Pillow Top Magnum casal teve frete grátis para o centro de 12 capitais.",
@@ -129914,7 +129874,7 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "Comfort Up, Top Segunda Pele e calcinhas SkinUp estão mais caros que em outubro",
-      "Na Black VIP, o checkout não aceita o cupom",
+      "Na Black VIP, o checkout avisa que o cupom de influenciadora não soma",
       "O kit de um conjunto exige o mesmo tamanho de top e de calcinha"
     ],
     "cta": {
@@ -129944,39 +129904,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Toda Up está em Black November, com desconto por peça e brinde por valor de pedido. O cupom MAUAD dá 10% em todo o site e entrou por cima dos preços da campanha nos carrinhos que testamos. Na Black VIP, o checkout não aceita o cupom. Para escolher, comece pela roupa, confira a grade e depois compare o kit."
+          "O cupom MAUAD dá 10% OFF no site aberto da Toda Up e somou com a Black November nos itens testados. Na Black VIP, não entrou no Comfort Up. Os tops Cotton Up e o Protetor estão abaixo de outubro. Para escolher, confira o tamanho e compare o kit com as peças que você já ia comprar."
         ]
       },
       {
         "heading": "O que a Black November da Toda Up mostra",
         "paragraphs": [
-          "A home da Toda Up anuncia a \"Black November: todo site com desconto\", e os produtos aparecem com selos de 15%, 16%, 20% e até 40%, este no protetor de silicone. O banner do começo da campanha falava em até 35% OFF e já saiu da home. O desconto é por peça, e o que vale é o preço na página de cada uma: compare com a tabela de outubro deste guia, mais abaixo.",
+          "A home da Toda Up anuncia a \"Black November: todo site com desconto\", e os produtos aparecem com selos de 15%, 16%, 20% e até 40%, este no protetor de silicone. A faixa do topo do site fala em até 35% OFF no site todo. O desconto é por peça, e o que vale é o preço na página de cada uma: compare com a tabela de outubro deste guia, mais abaixo.",
           "O banner trazia, e os selos dos produtos seguem anunciando, brindes por valor de pedido: acima de R$ 199, uma calcinha fio dental; acima de R$ 299, uma calcinha e um protetor de silicone. O banner não diz o modelo nem o tamanho do brinde: confira se ele entra no carrinho antes de pagar.",
-          "A loja não publica até quando a Black November vale nem se a regra muda na sexta, 27/11/2026. Confira o desconto no seu carrinho antes de pagar.",
-          "Em outubro, a campanha se chamava \"Black Antecipada\", com \"até 20% OFF\" e frete grátis em todo o site, e o desconto era progressivo: entrava sozinho no carrinho, sem código, pelo subtotal dos produtos. É essa regra que os carrinhos abaixo usam. Se a progressiva segue valendo na Black November, o site não diz: veja se a linha da campanha aparece no seu carrinho."
-        ],
-        "comparisonTable": {
-          "headers": [
-            "Subtotal do carrinho",
-            "Desconto da campanha"
-          ],
-          "rows": [
-            [
-              "Acima de R$ 299",
-              "12%"
-            ],
-            [
-              "Acima de R$ 399",
-              "15%"
-            ],
-            [
-              "Acima de R$ 499",
-              "20%"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "No carrinho do teste de outubro, a linha do desconto apareceu como \"Flash Sale · 12% OFF acima de R$ 299\". Abaixo de R$ 299, a campanha não tirava nada, e sobrava só o cupom."
+          "A loja não publica até quando a Black November vale nem se a regra muda na sexta, 27/11/2026. Confira o desconto no seu carrinho antes de pagar."
         ],
         "image": {
           "src": "/images/reviews/toda-up/black-friday-toda-up-banner-black-november.webp",
@@ -129994,79 +129930,68 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "caption": "Site da Toda Up na leitura de novembro; a última coluna é o preço de venda registrado em outubro, sem cupom",
           "headers": [
-            "Para usar com",
-            "Peça",
+            "Peça e uso",
             "No site",
             "Com o MAUAD",
-            "Em outubro"
+            "Outubro, sem cupom"
           ],
           "rows": [
             [
-              "Dia a dia, com sustentação e sem aro",
-              "Sutiã Comfort Up",
+              "Sutiã Comfort Up: dia a dia, com sustentação e sem aro",
               "R$ 189,90",
               "R$ 170,91",
               "R$ 170,91"
             ],
             [
-              "Tomara que caia ou alças cruzadas",
-              "Sutiã Comfort Line",
+              "Sutiã Comfort Line: tomara que caia ou alças cruzadas",
               "R$ 189,90",
               "R$ 170,91",
               "R$ 189,90"
             ],
             [
-              "Regata ou tecido fino, com pouco volume",
-              "Sutiã Comfort Slim",
+              "Sutiã Comfort Slim: regata ou tecido fino, com pouco volume",
               "R$ 189,90",
               "R$ 170,91",
               "R$ 189,90"
             ],
             [
-              "Roupa justa, sem marcar",
-              "Top Segunda Pele SkinUp",
+              "Top Segunda Pele SkinUp: roupa justa, sem marcar",
               "R$ 169,90",
               "R$ 152,91",
               "R$ 152,91"
             ],
             [
-              "Roupa justa, com alça fina e fecho",
-              "Sutiã Top Alça Fina SkinUp",
+              "Sutiã Top Alça Fina SkinUp: roupa justa, com alça fina e fecho",
               "R$ 199,90",
               "R$ 179,91",
               "R$ 179,90"
             ],
             [
-              "Roupa justa, com bojo fixo",
-              "Sutiã Clássico SkinUp",
+              "Sutiã Clássico SkinUp: roupa justa, com bojo fixo",
               "R$ 208,90",
               "R$ 188,01",
               "R$ 219,90"
             ],
             [
-              "Básico de algodão",
-              "Top Faixa ou Triangular Cotton Up",
+              "Top Faixa ou Triangular Cotton Up: básico de algodão",
               "R$ 132,90",
               "R$ 119,61",
               "R$ 149,90"
             ],
             [
-              "Decote profundo ou costas nuas",
-              "Sutiã de Silicone Invisível",
+              "Sutiã de Silicone Invisível: decote profundo ou costas nuas",
               "R$ 149,90",
               "R$ 134,91",
               "R$ 149,90"
             ],
             [
-              "Decote profundo, com levantamento",
-              "Fita Up",
+              "Fita Up: decote profundo, com levantamento",
               "R$ 116,90",
               "R$ 105,21",
               "R$ 119,90"
             ],
             [
-              "Roupa sem sutiã",
-              "Protetor de Silicone Ultrafino",
+              "Protetor de Silicone Ultrafino: roupa sem sutiã",
               "R$ 59,90",
               "R$ 53,91",
               "R$ 69,90"
@@ -130077,7 +130002,7 @@ export const reviewsData: unknown[] = [
           "**Comfort:** o Up é o do dia a dia, com fecho e alças reguláveis. O Line tem faixas internas de silicone e alças que saem ou cruzam. O Slim é o mais discreto. A comparação dos três está em [sutiã Toda Up: qual escolher](/reviews/sutia-toda-up-qual-escolher).",
           "**SkinUp e Cotton Up:** a SkinUp é a linha sem costura, para não marcar. O Top Segunda Pele tem alça larga e não tem fecho; o Clássico é a única peça das duas linhas com bojo fixo. A Cotton Up é o básico de algodão, com o Top Faixa de decote reto e o Triangular em V. Veja [SkinUp ou Cotton Up](/reviews/skinup-ou-cotton-up-toda-up).",
           "**Adesivos:** cada um pede um jeito de aplicar. Os passos estão em [sutiã de silicone invisível](/reviews/sutia-de-silicone-invisivel-como-usar), [protetor de silicone](/reviews/protetor-de-silicone-mamilo-como-usar) e [Fita Up](/reviews/fita-up-como-usar).",
-          "Nem tudo ficou mais barato em novembro. O Comfort Up e o Top Segunda Pele custam hoje mais que em outubro; com o cupom, saem pelo preço que tinham em outubro sem ele. Os tops Cotton Up, o Clássico e o Protetor estão abaixo de outubro."
+          "O Comfort Up custa R$ 170,91 com o MAUAD, o mesmo preço de outubro sem cupom. No teste de outubro, com o código, ele saiu por R$ 153,82: agora são R$ 17,09 a mais, antes do frete. O Top Segunda Pele também só volta ao preço de outubro depois do cupom. Já os tops Cotton Up, o Clássico e o Protetor ficaram abaixo dos preços de outubro antes do cupom."
         ]
       },
       {
@@ -130099,66 +130024,58 @@ export const reviewsData: unknown[] = [
         "heading": "Qual kit compensa para a quantidade que você quer",
         "paragraphs": [
           "Compare o kit com as peças avulsas dentro da quantidade que você já ia comprar. O kit maior baixa o preço por peça e aumenta o total: só vale para quem vai usar tudo.",
-          "Os valores são do site na leitura de novembro, sem cupom. O MAUAD tira 10% dos dois lados, então a ordem não muda com ele."
+          "A tabela compara o preço dos kits com a soma das peças avulsas, antes do cupom. Não concluímos o teste do MAUAD nos kits nesta rodada. Se os 10% entrarem nos dois carrinhos, a ordem da comparação se mantém. No Cotton Up de três conjuntos, confira também se a oferta \"compre 2, leve 3\" continua aplicada."
         ],
         "comparisonTable": {
           "caption": "Site da Toda Up na leitura de novembro, sem cupom. A soma das avulsas é conta nossa com os preços das páginas",
           "headers": [
-            "Você quer",
             "Kit",
-            "Preço do kit",
-            "Peças avulsas",
-            "Diferença"
+            "Kit, sem cupom",
+            "Avulsas, sem cupom",
+            "Economia, sem cupom"
           ],
           "rows": [
             [
-              "1 sutiã e 1 protetor",
               "Kit Sutiã Comfort Up + Protetor",
               "R$ 190,90",
               "R$ 249,80",
-              "Kit, por R$ 58,90"
+              "R$ 58,90"
             ],
             [
-              "1 sutiã e 1 protetor",
               "Kit Sutiã Comfort Slim + Protetor",
               "R$ 202,35",
               "R$ 249,80",
-              "Kit, por R$ 47,45"
+              "R$ 47,45"
             ],
             [
-              "1 conjunto SkinUp",
               "Kit Top e Calcinha Biquíni SkinUp",
               "R$ 199,90",
               "R$ 219,80",
-              "Kit, por R$ 19,90"
+              "R$ 19,90"
             ],
             [
-              "1 conjunto Cotton Up",
               "Kit Top e Calcinha Biquíni Cotton Up",
               "R$ 155,52",
               "R$ 172,80",
-              "Kit, por R$ 17,28"
+              "R$ 17,28"
             ],
             [
-              "3 conjuntos SkinUp",
               "Kit de 3 conjuntos SkinUp",
               "R$ 499,90",
               "R$ 659,40",
-              "Kit, por R$ 159,50"
+              "R$ 159,50"
             ],
             [
-              "3 conjuntos Cotton Up",
               "Kit de 3 conjuntos Cotton Up",
               "R$ 373,18",
               "R$ 385,50",
-              "Kit, por R$ 12,32"
+              "R$ 12,32"
             ],
             [
-              "3 sutiãs Comfort",
               "Kit Comfort Up (Up, Slim e Line)",
               "R$ 398,79",
               "R$ 569,70",
-              "Kit, por R$ 170,91"
+              "R$ 170,91"
             ]
           ]
         },
@@ -130167,15 +130084,15 @@ export const reviewsData: unknown[] = [
           "**Um conjunto:** a diferença é pequena, e o kit pede o mesmo tamanho de top e de calcinha. Quem veste tamanhos diferentes compra as peças avulsas.",
           "**Três conjuntos:** para quem já ia levar três. Na Cotton Up, a conta das avulsas usa a opção \"compre 2, leve 3\" da página do top; por isso a vantagem do kit é menor que na SkinUp.",
           "**Adesivos:** o Kit Invisible Up junta as soluções de silicone, com ou sem a case. Não lemos o preço dele nesta rodada: a conta está em [kit Toda Up: quando compensa](/reviews/kit-toda-up-quando-compensa).",
-          "Antes de pagar, veja se o brinde da campanha continua no carrinho depois do cupom: o Kit SkinUp de um conjunto, de R$ 199,90, cai para R$ 179,91 com o MAUAD."
+          "O Kit SkinUp de um conjunto custa R$ 199,90 e ficaria em R$ 179,91 se o MAUAD aplicasse os 10%. Como não confirmamos a regra de valor mínimo do brinde, confira se ele continua no carrinho depois do cupom."
         ]
       },
       {
         "heading": "O cupom, a campanha e a Black VIP",
         "paragraphs": [
           "O cupom da Toda Up é o MAUAD, de 10% em todo o site. Em 16 de novembro, ele entrou por cima dos preços da Black November: uma Fita Up de R$ 116,90 saiu por R$ 105,21 no checkout, e um Comfort Up de R$ 189,90, por R$ 170,91. Por alguns dias de novembro, o mesmo código deu 15%; o percentual pode mudar de novo, então confira a linha do desconto antes de pagar.",
-          "A Black VIP é outra campanha da loja, com páginas próprias. Nela, o checkout não aceita o cupom. Nas páginas que lemos, o Comfort Up da Black VIP custava R$ 170,91 e o Top Segunda Pele, R$ 152,91: os mesmos valores do site aberto com o MAUAD. Nos tops Cotton Up, o site aberto com o cupom saiu melhor: R$ 119,61, contra R$ 149,90 na Black VIP.",
-          "Em outubro, na Black Antecipada, o desconto da loja era progressivo pelo subtotal, e o cupom, também de 10% na época, entrava depois dele: de R$ 360,81, os 12% da campanha tiraram R$ 43,28, e os 10% do cupom saíram dos R$ 317,53 restantes. O passo a passo está em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
+          "A Black VIP é outra campanha da loja, com páginas próprias. Nela, o checkout avisa que o cupom de influenciadora não soma com a escada de desconto: num Comfort Up dessa seleção, o MAUAD não entrou. Nas páginas que lemos, o Comfort Up da Black VIP custava R$ 170,91 e o Top Segunda Pele, R$ 152,91: os mesmos valores do site aberto com o MAUAD. Nos tops Cotton Up, o site aberto com o cupom saiu melhor: R$ 119,61, contra R$ 149,90 na Black VIP.",
+          "O passo a passo do código está em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
         ],
         "image": {
           "src": "/images/reviews/toda-up/black-friday-toda-up-faixas-progressiva-2610.webp",
@@ -130186,9 +130103,25 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Três carrinhos de outubro, para comparar",
+        "heading": "Frete, prazo e troca",
         "paragraphs": [
-          "Na regra da Black Antecipada, o que pesava nos carrinhos era o subtotal: abaixo de R$ 299 só o cupom tirava, acima entrava a progressiva. Os carrinhos A e B são os do teste de outubro, com os números que a tela mostrou. O carrinho C é conta nossa, com a regra da faixa de 20% e os preços das coleções públicas; não foi montado no site. Na Black November, o desconto é por peça, então o seu carrinho pode sair diferente destes."
+          "A loja liberou frete grátis na Black Antecipada de outubro; na Black November, a faixa do topo da home anuncia frete fixo de R$ 4,90 para todo o Brasil. Fora de campanha, o frete é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog. Confira o valor no carrinho antes de pagar, em qualquer época.",
+          "Pela política de frete da loja, o pedido é despachado em até 3 dias úteis depois da confirmação do pagamento, e o código de rastreio chega por e-mail. Na semana da Black Friday, conte esse prazo mais o da transportadora para o seu CEP.",
+          "Troca de modelo, tamanho ou cor e devolução por arrependimento valem em até 30 dias corridos depois do recebimento, pelo portal de trocas da loja, com o CPF da titular e o número do pedido. A própria política diz que os 30 dias ampliam os 7 dias da lei. Antes de comprar, confira no portal de trocas da Toda Up as condições para a peça escolhida."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/toda-up-guia-medidas-comfort-line.webp",
+          "alt": "Guia de medidas do Sutiã Comfort Line da Toda Up, com tamanhos de P a G1, sob busto e busto em centímetros",
+          "caption": "Guia de medidas do Sutiã Comfort Line, do site da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Histórico de outubro: como funcionava a Black Antecipada",
+        "paragraphs": [
+          "Em outubro, a Black Antecipada dava desconto progressivo pelo subtotal, seguido dos 10% do MAUAD: 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499. Os carrinhos abaixo mostram aquela regra: A e B foram testados; C foi calculado. Eles ajudam a comparar com a condição atual, mas não representam a campanha de novembro.",
+          "No carrinho B, de R$ 360,81, os 12% da campanha tiraram R$ 43,28, e os 10% do cupom saíram dos R$ 317,53 restantes: os dois juntos tiraram R$ 75,03, perto de 21%. No carrinho C, a conta chega a 28% do subtotal, e é só conta."
         ],
         "comparisonTable": {
           "headers": [
@@ -130226,10 +130159,6 @@ export const reviewsData: unknown[] = [
             ]
           ]
         },
-        "postParagraphs": [
-          "No carrinho B, os dois descontos juntos tiraram R$ 75,03 de R$ 360,81, perto de 21%. No carrinho C, a conta chega a 28% do subtotal, mas é conta: confira no seu carrinho se três unidades do mesmo item entram com esse desconto antes de contar com ele.",
-          "A faixa de 15% (acima de R$ 399) fica entre o carrinho B e o C. A regra é a mesma: 15% sobre o subtotal, e o cupom sobre o que sobra."
-        ],
         "image": {
           "src": "/images/reviews/toda-up/black-friday-toda-up-tres-carrinhos.webp",
           "alt": "Quadro com três carrinhos da Toda Up: Comfort Up por R$ 153,82, Comfort Up mais Comfort Line por R$ 285,78 e três Comfort Up por R$ 369,16, com a progressiva e o cupom",
@@ -130343,8 +130272,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os cinco kits SkinUp e Comfort da coleção Conjuntos estavam esgotados; só o kit Cotton Up aparecia disponível. O preço do site muda sem aviso: confira o produto no dia da compra, e use esta tabela como régua para a semana da Black Friday.",
-          "Se a progressiva seguir valendo, para passar da faixa de R$ 299 com peças pequenas, as calcinhas ajudam: o Comfort Up com três Calcinhas Biquíni SkinUp (R$ 134,73) dá R$ 305,64 e entra nos 12%. É conta com os preços da tabela de outubro, não teste."
+          "Os cinco kits SkinUp e Comfort da coleção Conjuntos estavam esgotados; só o kit Cotton Up aparecia disponível. O preço do site muda sem aviso: confira o produto no dia da compra, e use esta tabela como régua para a semana da Black Friday."
         ],
         "image": {
           "src": "/images/reviews/toda-up/black-friday-toda-up-catalogo.webp",
@@ -130355,21 +130283,6 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Frete, prazo e troca",
-        "paragraphs": [
-          "A loja liberou frete grátis na Black Antecipada de outubro; na Black November, a faixa do topo da home anuncia frete fixo de R$ 4,90 para todo o Brasil. Fora de campanha, o frete é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog. Confira o valor no carrinho antes de pagar, em qualquer época.",
-          "Pela política de frete da loja, o pedido é despachado em até 3 dias úteis depois da confirmação do pagamento, e o código de rastreio chega por e-mail. Na semana da Black Friday, conte esse prazo mais o da transportadora para o seu CEP.",
-          "Troca de modelo, tamanho ou cor e devolução por arrependimento valem em até 30 dias corridos depois do recebimento, pelo portal de trocas da loja, com o CPF da titular e o número do pedido. A própria política diz que os 30 dias ampliam os 7 dias da lei."
-        ],
-        "image": {
-          "src": "/images/reviews/toda-up/toda-up-guia-medidas-comfort-line.webp",
-          "alt": "Guia de medidas do Sutiã Comfort Line da Toda Up, com tamanhos de P a G1, sob busto e busto em centímetros",
-          "caption": "Guia de medidas do Sutiã Comfort Line, do site da loja.",
-          "objectFit": "contain",
-          "aspectRatio": 1
-        }
-      },
-      {
         "heading": "Antes de pagar",
         "paragraphs": [
           "Vale na campanha e fora dela:"
@@ -130377,7 +130290,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Confira o tamanho no guia de medidas da página de cada produto: a troca por tamanho é grátis só na primeira vez.",
           "Veja o desconto de cada peça na página dela e se alguma linha da campanha apareceu no carrinho.",
-          "Aplique o cupom e confira o total: na leitura de novembro, o MAUAD tirou 10% por cima do preço da campanha. Na Black VIP, o checkout não aceita o cupom.",
+          "Aplique o MAUAD e confira o desconto: na leitura de novembro, ele tirou 10% dos itens testados no site aberto. No Comfort Up da Black VIP, não entrou.",
           "Confira o frete e o prazo pelo seu CEP.",
           "Compre só pelo site oficial, todaup.com, pelo link da parceria. O rodapé traz o CNPJ da FITA UP LTDA; a empresa, a troca de nome e as políticas estão em [Toda Up é confiável?](/reviews/toda-up-e-confiavel).",
           "Guarde o print do carrinho e o número do pedido; o portal de trocas pede o número e o CPF da titular."
@@ -130408,8 +130321,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Toda Up? Já começou: a home anuncia a Black November, com todo o site em desconto, selos de até 40% OFF e brindes por valor de pedido. A Black Friday é na última sexta de novembro, e a loja não publica a data de fim da campanha.",
           "A Toda Up tem Black Friday? Sim. Em outubro, o site mostrava a \"Black Antecipada\", com desconto progressivo de 12%, 15% e 20% pelo carrinho; agora mostra a \"Black November\", com desconto por peça.",
-          "O cupom MAUAD vale na Black Friday? Vale. O cupom Toda Up MAUAD dá 10% em todo o site e entrou por cima dos preços da Black November nos carrinhos que testamos. Na Black VIP, o checkout não aceita o cupom de influenciadora.",
-          "Kit ou peça avulsa na Black Friday da Toda Up? Para um sutiã com protetor, o kit sai bem abaixo das duas peças. No kit de um conjunto, a diferença é pequena e o tamanho do top e da calcinha tem de ser o mesmo. O kit de três só vale para quem ia comprar três.",
+          "O cupom MAUAD vale na Black Friday? Vale. O cupom Toda Up MAUAD dá 10% OFF no site aberto e somou com os preços da Black November nos itens testados. No Comfort Up da Black VIP, o código não entrou.",
+          "Kit ou peça avulsa na Black Friday da Toda Up? Antes do cupom, o kit de sutiã com protetor sai bem abaixo das duas peças. No kit de um conjunto, a diferença é pequena e o tamanho do top e da calcinha tem de ser o mesmo. O kit de três só vale para quem ia comprar três.",
           "Black VIP ou site aberto com o cupom? Depende da peça. No Comfort Up e no Top Segunda Pele, os dois caminhos davam o mesmo valor na nossa leitura. Nos tops Cotton Up, o site aberto com o MAUAD saiu mais barato.",
           "Quanto dá o desconto da campanha? Na Black November, o desconto é por peça, com selos de 15%, 16%, 20% e até 40% nos produtos. Na Black Antecipada de outubro, era 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499, sobre o subtotal.",
           "A Black November da Toda Up tem brinde? Tem, pelo banner da campanha: acima de R$ 199, uma calcinha fio dental; acima de R$ 299, uma calcinha e um protetor de silicone. Confira o brinde no carrinho antes de pagar.",
