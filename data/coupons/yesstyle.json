@@ -501,6 +501,45 @@
     "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2909",
     "affiliateUrl": "https://ystyle.co/rQYQv",
     "membersOnly": true,
+    "status": "expired",
+    "regions": ["GLOBAL"]
+  },
+  {
+    "id": "prebf26-promo",
+    "code": "PREBF26",
+    "type": "coupon",
+    "discount": {
+      "kind": "percentage",
+      "value": 15
+    },
+    "startsAt": "2026-11-16",
+    "expiresAt": "2026-11-22",
+    "verifiedAt": "2026-11-16",
+    "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2911",
+    "affiliateUrl": "https://ystyle.co/rQYQv",
+    "membersOnly": true,
+    "status": "active",
+    "regions": ["US", "GB", "CA"]
+  },
+  {
+    "id": "win26-promo",
+    "code": "WIN26",
+    "type": "coupon",
+    "discount": {
+      "kind": "tiers",
+      "currency": "USD",
+      "tiers": [
+        { "minSpend": 79, "percent": 8 },
+        { "minSpend": 149, "percent": 10 },
+        { "minSpend": 199, "percent": 15 }
+      ]
+    },
+    "startsAt": "2026-11-16",
+    "expiresAt": "2026-11-19",
+    "verifiedAt": "2026-11-16",
+    "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2915",
+    "affiliateUrl": "https://ystyle.co/rQYQv",
+    "membersOnly": true,
     "status": "active",
     "regions": ["GLOBAL"]
   }
