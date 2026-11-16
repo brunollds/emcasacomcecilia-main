@@ -32,7 +32,8 @@ Desenho aprovado pelo Bruno em 16/11, em fases:
   decidir o que a página diz sobre desconto (texto de oferta sem número ou lista de cupons da loja, que pede exceção
   do Bruno).
 
-**O SV1 espera a F2 na main; o SV2 e o SV3, a F3.** Mercado Livre e Amazon ficam fora desta rodada; YesStyle na lista, só
+**F1, F2 e F3 estão na main desde 16/11 (#1036, #1038 e #1042).** O SV1 espera só a amostra de produtos; o SV2 e o
+SV3 podem ir à redação. Temu e AliExpress já têm página em `/cupons` e nos 9 idiomas. Mercado Livre e Amazon ficam fora desta rodada; YesStyle na lista, só
 quando houver artigo que precise.
 
 ## 3. O que muda no JSON
