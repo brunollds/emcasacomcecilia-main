@@ -54427,19 +54427,19 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Mini Me 2.0",
+              "[Mini Me 2.0](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/mini-me-2)",
               "R$ 599,90",
               "R$ 429,90 a R$ 449,90, conforme a cor",
               "R$ 369,90, com 30 cápsulas"
             ],
             [
-              "Genio S Basic",
+              "[Genio S Basic](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genios)",
               "R$ 679,90",
               "R$ 479,90",
               "R$ 409,90, com 30 cápsulas"
             ],
             [
-              "Genio S Plus",
+              "[Genio S Plus](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genios)",
               "R$ 779,90",
               "R$ 589,90",
               "R$ 499,90, com 30 cápsulas"
@@ -54447,10 +54447,10 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Nas bebidas, a campanha funciona por oferta do dia: numa delas, a caixa de Mochaccino caía de R$ 25,90 para R$ 15,90. Fora dela, os banners traziam 25% OFF nos cafés Lungos NEO, até 25% OFF em acessórios, frete grátis acima de R$ 100 e uma Mini Me vermelha de brinde na compra de 80 caixas de bebidas.",
-          "A assinatura entrou na campanha com desconto em todas as bebidas no primeiro pedido, 35% OFF num banner e 30% OFF noutro, com \"benefícios garantidos até janeiro\", e frete grátis em todos os pedidos. Antes de assinar, confira qual oferta vale para a sua modalidade e o preço das entregas seguintes. O desconto maior anunciado é do primeiro pedido.",
+          "Nas bebidas, a campanha funciona por oferta do dia: numa delas, a caixa de [Mochaccino](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-mochaccino-canela-10caps) caía de R$ 25,90 para R$ 15,90. Fora dela, os banners traziam 25% OFF nos cafés Lungos NEO, até 25% OFF em acessórios, frete grátis acima de R$ 100 e uma Mini Me vermelha de brinde na compra de 80 caixas de bebidas.",
+          "A [assinatura](https://www.nescafe-dolcegusto.com.br/assinatura) entrou na campanha com desconto em todas as bebidas no primeiro pedido, 35% OFF num banner e 30% OFF noutro, com \"benefícios garantidos até janeiro\", e frete grátis em todos os pedidos. Antes de assinar, confira qual oferta vale para a sua modalidade e o preço das entregas seguintes. O desconto maior anunciado é do primeiro pedido.",
           "Pelo regulamento do site, as ofertas diárias valem só no site oficial, enquanto durarem os estoques, e não são cumulativas com combo com máquinas, combo de bebidas e resgate de pontos. Essa é a regra da oferta; a do cupom está no capítulo do CECI.",
-          "Na leitura de 16 de novembro, os três preços da tabela seguiam no site. A Genio S Touch estava por R$ 799,90, acima dos R$ 689,90 de outubro."
+          "Na leitura de 16 de novembro, os três preços da tabela seguiam no site. A [Genio S Touch](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1) estava por R$ 799,90, acima dos R$ 689,90 de outubro."
         ],
         "images": [
           {
@@ -54485,31 +54485,31 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Mini Me 2.0: quer gastar menos e não precisa do XL",
+              "[Mini Me 2.0](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/mini-me-2): quer gastar menos e não precisa do XL",
               "R$ 369,90",
               "R$ 332,91",
               "R$ 429,90 a R$ 449,90"
             ],
             [
-              "Genio S Basic: quer a função XL pelo menor preço",
+              "[Genio S Basic](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genios): quer a função XL pelo menor preço",
               "R$ 409,90",
               "R$ 368,91",
               "R$ 479,90"
             ],
             [
-              "Genio S Plus: quer XL, quatro temperaturas e Espresso Boost",
+              "[Genio S Plus](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genios): quer XL, quatro temperaturas e Espresso Boost",
               "R$ 499,90",
               "R$ 449,91",
               "R$ 589,90"
             ],
             [
-              "Genio S Touch: faz questão do painel de toque",
+              "[Genio S Touch](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1): faz questão do painel de toque",
               "R$ 799,90",
               "R$ 719,91",
               "R$ 689,90"
             ],
             [
-              "NEO: toma só café preto e quer reservatório de 1 litro",
+              "[NEO](https://www.nescafe-dolcegusto.com.br/maquinas-cafe-neo): toma só café preto e quer reservatório de 1 litro",
               "a partir de R$ 799",
               "confira no carrinho",
               "sem registro"
@@ -54517,17 +54517,17 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "**Mini Me 2.0:** é a mais barata e usa as mesmas cápsulas das Genio S. É a menos funda das quatro do sistema Original, com 24 cm, e a mais alta, com 30,5 cm: meça o vão embaixo do armário.",
-          "**Genio S Basic e Plus:** as Genio S têm 11,2 cm de largura. A Basic é a entrada no XL. A Plus soma as quatro temperaturas, o Espresso Boost e a bandeja de metal, por R$ 81 a mais com o cupom.",
-          "**Genio S Touch:** hoje custa R$ 110 a mais que em outubro, e a Plus também tem XL e Espresso Boost. No nosso teste, o modo frio não refrigera a água: para bebida gelada, o gelo vai no copo. Veja em [Genio S Touch vale a pena?](/reviews/dolce-gusto-genio-s-touch-vale-a-pena).",
-          "**NEO:** é a máquina que a Cecília usa. Quem já tem uma máquina Original e quer provar os cafés NEO pode começar pelo [Adaptador NEO Start](/reviews/adaptador-neo-start-o-que-e).",
+          "[Mini Me 2.0](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/mini-me-2): é a mais barata e usa as mesmas cápsulas das Genio S. É a menos funda das quatro do sistema Original, com 24 cm, e a mais alta, com 30,5 cm: meça o vão embaixo do armário.",
+          "[Genio S Basic e Plus](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genios): as Genio S têm 11,2 cm de largura. A Basic é a entrada no XL. A Plus soma as quatro temperaturas, o Espresso Boost e a bandeja de metal, por R$ 81 a mais com o cupom.",
+          "[Genio S Touch](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1): hoje custa R$ 110 a mais que em outubro, e a Plus também tem XL e Espresso Boost. No nosso teste, o modo frio não refrigera a água: para bebida gelada, o gelo vai no copo. Veja em [Genio S Touch vale a pena?](/reviews/dolce-gusto-genio-s-touch-vale-a-pena).",
+          "[NEO](https://www.nescafe-dolcegusto.com.br/maquinas-cafe-neo): é a máquina que a Cecília usa. Quem já tem uma máquina Original e quer provar os cafés NEO pode começar pelo [Adaptador NEO Start](/reviews/adaptador-neo-start-o-que-e).",
           "A comparação completa está em [máquinas Dolce Gusto: qual escolher](/reviews/dolce-gusto-maquinas-qual-escolher) e em [Genio S Basic, Plus ou Touch](/reviews/dolce-gusto-genio-s-basic-vs-plus-vs-touch); a Mini Me, em [Mini Me 2.0 vale a pena?](/reviews/dolce-gusto-mini-me-2-0-vale-a-pena)."
         ]
       },
       {
         "heading": "Cápsulas: a conta é por bebida",
         "paragraphs": [
-          "Duas caixas de 10 cápsulas pelo mesmo preço podem render quantidades diferentes. Cafés, o Café au Lait, o Pingado e o Mochaccino usam uma cápsula por bebida: a caixa rende 10. O Cappuccino, o Latte Macchiato, o Chococino e o Chai Tea Latte usam duas, uma de leite e uma de café, chocolate ou chá: a caixa rende 5."
+          "Duas caixas de 10 cápsulas pelo mesmo preço podem render quantidades diferentes. Cafés, o [Café au Lait](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-cafe-au-lait-10), o [Pingado](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-pingado-10) e o [Mochaccino](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-mochaccino-canela-10caps) usam uma cápsula por bebida: a caixa rende 10. O [Cappuccino](https://www.nescafe-dolcegusto.com.br/sabores/cappuccino-capsulas-10), o Latte Macchiato, o Chococino e o Chai Tea Latte usam duas, uma de leite e uma de café, chocolate ou chá: a caixa rende 5."
         ],
         "comparisonTable": {
           "caption": "Caixas de 10 cápsulas no site oficial na leitura de novembro, na oferta do dia e sem cupom. O custo por bebida é conta nossa",
@@ -54539,37 +54539,37 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Café au Lait Desnatado",
+              "[Café au Lait Desnatado](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-cafe-au-lait-desnatado-10)",
               "R$ 15,90",
               "10",
               "R$ 1,59"
             ],
             [
-              "Espresso, Café au Lait ou Pingado",
+              "[Espresso](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-espresso-10), [Café au Lait](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-cafe-au-lait-10) ou [Pingado](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-pingado-10)",
               "R$ 17,90",
               "10",
               "R$ 1,79"
             ],
             [
-              "Mochaccino Canela",
+              "[Mochaccino Canela](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-mochaccino-canela-10caps)",
               "R$ 19,90",
               "10",
               "R$ 1,99"
             ],
             [
-              "Chai Tea Latte ou Vanilla Latte Macchiato",
+              "[Chai Tea Latte](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-chai-tea-latte-10) ou [Vanilla Latte Macchiato](https://www.nescafe-dolcegusto.com.br/sabores/vanilla-latte-macchiatto-1)",
               "R$ 15,90",
               "5",
               "R$ 3,18"
             ],
             [
-              "Cappuccino ou Chococino",
+              "[Cappuccino](https://www.nescafe-dolcegusto.com.br/sabores/cappuccino-capsulas-10) ou [Chococino](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-chococino-nestle)",
               "R$ 19,90",
               "5",
               "R$ 3,98"
             ],
             [
-              "Latte Macchiato",
+              "[Latte Macchiato](https://www.nescafe-dolcegusto.com.br/sabores/latte-macchiato-capsulas-10)",
               "R$ 22,90",
               "5",
               "R$ 4,58"
@@ -54577,7 +54577,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A bebida de uma cápsula só custa a metade da de duas quando as duas caixas têm o mesmo preço e o mesmo número de cápsulas. No quadro, o Espresso sai por R$ 1,79 a xícara e o Cappuccino, por R$ 3,98, porque a caixa do Cappuccino também é mais cara.",
+          "A bebida de uma cápsula só custa a metade da de duas quando as duas caixas têm o mesmo preço e o mesmo número de cápsulas. No quadro, o [Espresso](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-espresso-10) sai por R$ 1,79 a xícara e o Cappuccino, por R$ 3,98, porque a caixa do Cappuccino também é mais cara.",
           "As ofertas trocam todo dia. A conta de cada bebida, fora de promoção, está em [quanto custa a cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto), e as nossas escolhas, em [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026)."
         ]
       },
@@ -54588,13 +54588,13 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Caixas avulsas na oferta do dia:** para quem toma sempre as mesmas bebidas e quer escolher uma a uma. Na leitura, a oferta partia de R$ 15,90 a caixa, com frete grátis acima de R$ 100.",
-          "**Combo fechado:** confira contra as avulsas. O Combo Espresso Leve 8 Pague 6 custava R$ 155,40, e oito caixas de Espresso na oferta do dia somavam R$ 143,20. No Mochaccino Canela, o combo de mesmo preço ficava R$ 3,80 abaixo das oito avulsas.",
+          "**Combo fechado:** confira contra as avulsas. O [Combo Espresso Leve 8 Pague 6](https://www.nescafe-dolcegusto.com.br/sabores/combo-espresso-leve8-pague6-2) custava R$ 155,40, e oito caixas de [Espresso](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-espresso-10) na oferta do dia somavam R$ 143,20. No [Mochaccino Canela](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-mochaccino-canela-10caps), o combo de mesmo preço ficava R$ 3,80 abaixo das oito avulsas.",
           "**DGusta:** para quem quer misturar sabores em caixas de 50 ou 100 cápsulas. O regulamento da oferta fala em cápsulas a partir de R$ 1,59, com frete grátis próprio.",
-          "**Assinatura:** para quem toma café todo dia e quer entrega recorrente, com frete grátis em todos os pedidos. O desconto maior é o do primeiro pedido. Veja a conta em [assinatura Dolce Gusto vale a pena?](/reviews/assinatura-dolce-gusto-vale-a-pena)."
+          "[Assinatura](https://www.nescafe-dolcegusto.com.br/assinatura): para quem toma café todo dia e quer entrega recorrente, com frete grátis em todos os pedidos. O desconto maior é o do primeiro pedido. Veja a conta em [assinatura Dolce Gusto vale a pena?](/reviews/assinatura-dolce-gusto-vale-a-pena)."
         ],
         "postParagraphs": [
           "São duas regras separadas. O cupom CECI pede pedido a partir de R$ 100. O frete depende da oferta: nas caixas avulsas e nos cafés NEO, é grátis acima de R$ 100; no DGusta, o regulamento dá frete grátis na própria modalidade; pedido com máquina fica fora do frete grátis.",
-          "Um exemplo: o Combo Cappuccino Leve 5 com 30% OFF custava R$ 89,90. Sozinho, ele fica abaixo dos R$ 100 do CECI e do frete grátis das caixas. Antes de pôr mais uma caixa só para passar do mínimo, compare o total entregue dos dois carrinhos, com o frete, e leve o que você vai de fato tomar.",
+          "Um exemplo: o [Combo Cappuccino Leve 5 com 30% OFF](https://www.nescafe-dolcegusto.com.br/sabores/combo-cappucino-5caixas-30off) custava R$ 89,90. Sozinho, ele fica abaixo dos R$ 100 do CECI e do frete grátis das caixas. Antes de pôr mais uma caixa só para passar do mínimo, compare o total entregue dos dois carrinhos, com o frete, e leve o que você vai de fato tomar.",
           "Para quem já vai comprar muitas caixas, existe o combo que dá uma Mini Me: as regras estão em [caixas de cápsulas + Mini Me grátis](/reviews/promocao-dolce-gusto-caixas-mini-me-gratis)."
         ]
       },
@@ -54620,25 +54620,25 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Mini Me 2.0",
+              "[Mini Me 2.0](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/mini-me-2)",
               "R$ 599,90",
               "R$ 429,90 a R$ 449,90, conforme a cor",
               "Mini Me a partir de R$ 399,90"
             ],
             [
-              "Genio S Basic",
+              "[Genio S Basic](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genios)",
               "R$ 679,90",
               "R$ 479,90",
               "A partir de R$ 499,90"
             ],
             [
-              "Genio S Plus",
+              "[Genio S Plus](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genios)",
               "R$ 779,90",
               "R$ 589,90",
               "A partir de R$ 599,90"
             ],
             [
-              "Genio S Touch",
+              "[Genio S Touch](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1)",
               "R$ 979,90",
               "R$ 689,90",
               "Genio Touch a partir de R$ 699,90"
@@ -54656,7 +54656,7 @@ export const reviewsData: unknown[] = [
               "A partir de R$ 1,39"
             ],
             [
-              "Cafés NEO",
+              "[Cafés NEO](https://www.nescafe-dolcegusto.com.br/categoriaprodutos/capsulas/neo)",
               "—",
               "A partir de R$ 21,90 (em promoção)",
               "A partir de R$ 19,90"
@@ -54664,7 +54664,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A Mini Me 2.0, a Genio S Basic e a Genio S Plus estão abaixo dos preços registrados em outubro. A Genio S Touch subiu de R$ 689,90 para R$ 799,90. Os anúncios de 2024 ficam como contexto histórico: confira o modelo e os itens incluídos antes de comparar. Nas cápsulas, compare a oferta atual da bebida que você toma com o histórico da mesma caixa.",
+          "A Mini Me 2.0, a Genio S Basic e a Genio S Plus estão abaixo dos preços registrados em outubro. A [Genio S Touch](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1) subiu de R$ 689,90 para R$ 799,90. Os anúncios de 2024 ficam como contexto histórico: confira o modelo e os itens incluídos antes de comparar. Nas cápsulas, compare a oferta atual da bebida que você toma com o histórico da mesma caixa.",
           "Se o plano é encher a despensa, espere a oferta do dia da bebida que você toma e compare com as duas colunas antes de fechar."
         ]
       },
@@ -54705,7 +54705,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O **CECI**, cupom da parceria com a loja oficial, dá 10% OFF a partir de R$ 100.",
           "Em 16 de novembro, o CECI entrou na Mini Me 2.0 em preço de Black Friday: de R$ 369,90 para R$ 332,91, com as 30 cápsulas da promoção no carrinho.",
-          "No nosso teste com a campanha no ar, o CECI somou: o Combo Queridinhos 30% OFF, um combo especial de Black Friday a R$ 145,04, caiu para R$ 130,54. O teste cobriu esse combo, não todas as ofertas. Monte o pedido, aplique o CECI no campo do cupom e veja se os 10% aparecem no resumo antes de pagar. Se não aparecerem, confira se o pedido passa de R$ 100 e se o item está numa campanha que não soma com cupom.",
+          "No nosso teste com a campanha no ar, o CECI somou: o [Combo Queridinhos 30% OFF](https://www.nescafe-dolcegusto.com.br/sabores/combo-queridinhos-8-cxs-30off-black), um combo especial de Black Friday a R$ 145,04, caiu para R$ 130,54. O teste cobriu esse combo, não todas as ofertas. Monte o pedido, aplique o CECI no campo do cupom e veja se os 10% aparecem no resumo antes de pagar. Se não aparecerem, confira se o pedido passa de R$ 100 e se o item está numa campanha que não soma com cupom.",
           "Três regras do site valem para qualquer promoção: ela pode acabar sem aviso, o item no carrinho não garante o desconto se a promoção terminar, e nenhuma promoção soma com o resgate de pontos do Club. A data do último teste do CECI fica na página do cupom.",
           "Uma exceção está no regulamento: a oferta de acessórios com até 25% OFF não soma com cupons."
         ],
@@ -54832,7 +54832,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que a DAMIE anunciou para a Black Friday 2026",
         "paragraphs": [
           "A faixa do topo do site chama a campanha de \"Black Friday - a maior promoção do ano\" e lista o que vem na compra de uma poltrona: porta-copos, carregador USB, massagem e frete grátis, que a loja soma como R$ 1.150 de economia. No começo de novembro, a página de ofertas da DAMIE detalhava as condições; em meados do mês, ela estava sem conteúdo, e o que vale é o que o carrinho mostra.",
-          "Os preços de venda das poltronas, do sofá e da Poltrona Cinema são os mesmos de antes da campanha. O desconto de R$ 1.000 nas poltronas já vinha no preço em outubro. O que mudou foi o brinde, que agora inclui a massagem."
+          "Os preços de venda das poltronas, do sofá e da [Poltrona Cinema](https://www.damie.com.br/products/poltrona-cinema-damie-2-0) são os mesmos de antes da campanha. O desconto de R$ 1.000 nas poltronas já vinha no preço em outubro. O que mudou foi o brinde, que agora inclui a massagem."
         ],
         "bullets": [
           "**Brindes na compra de uma poltrona:** sistema de massagem, entrada USB (tipo A e tipo C) e porta-copos.",
@@ -54850,32 +54850,32 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Motor do apoio de cabeça (pescoço)",
+              "[Motor do apoio de cabeça](https://www.damie.com.br/products/motor-exclusivo-para-movimentar-o-apoio-da-cabeca) (pescoço)",
               "R$ 1.700",
               "R$ 1.000"
             ],
             [
-              "Carregador de celular por indução",
+              "[Carregador de celular por indução](https://www.damie.com.br/products/suporte-com-carregador-para-smartphone-por-inducao)",
               "R$ 990",
               "R$ 590"
             ],
             [
-              "Baú de apoio para o sofá modular",
+              "[Baú de apoio](https://www.damie.com.br/products/bau-de-apoio-central) para o sofá modular",
               "R$ 1.090",
               "R$ 890"
             ],
             [
-              "Massageador por vibração",
+              "[Massageador por vibração](https://www.damie.com.br/products/massageador-por-vibracao-com-controle-remoto)",
               "R$ 700",
               "R$ 550"
             ],
             [
-              "Mesa de apoio",
+              "[Mesa de apoio](https://www.damie.com.br/products/mesa-de-apoio)",
               "R$ 790",
               "R$ 490"
             ],
             [
-              "Porta-taça",
+              "[Porta-taça](https://www.damie.com.br/products/porta-tacas)",
               "R$ 669",
               "R$ 299"
             ]
@@ -54907,25 +54907,25 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Manual com gatilho, base fixa",
+              "[Manual com gatilho, base fixa](https://www.damie.com.br/products/poltrona-reclinavel-damie-manual-com-gatilho)",
               "R$ 2.969",
               "R$ 2.612,72",
               "R$ 2.351,45"
             ],
             [
-              "Elétrica de base fixa",
+              "[Elétrica de base fixa](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-fixa)",
               "R$ 3.749",
               "R$ 3.299,12",
               "R$ 2.969,21"
             ],
             [
-              "Elétrica com giro e balanço",
+              "[Elétrica com giro e balanço](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-com-giro-e-balanco)",
               "R$ 4.299",
               "R$ 3.783,12",
               "R$ 3.404,81"
             ],
             [
-              "Elétrica com elevação",
+              "[Elétrica com elevação](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-fixa-com-elevacao)",
               "R$ 4.969",
               "R$ 4.372,72",
               "R$ 3.935,45"
@@ -54933,11 +54933,11 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**Elétrica com giro e balanço:** reclina até 145°, gira 180° e balança. É a que a marca indica para amamentação e a que temos em casa na versão 2.0. Na nossa sacola de novembro, o CECILIA12 levou os R$ 4.299 a R$ 3.783,12.",
-          "**Elétrica de base fixa:** reclina mais, até 170°, pelo botão, sem giro nem balanço. Para quem quer deitar quase por completo e não precisa do movimento.",
-          "**Elétrica com elevação:** inclina a base para a frente para ajudar a levantar. A marca a pensa para idosos e pós-operatório.",
-          "**Manual com gatilho:** o menor desembolso. Reclina com o peso do corpo e pede força das pernas para fechar, o que pesa para quem tem pouca mobilidade.",
-          "**1.0 ou 2.0:** o preço é o mesmo. A 2.0 traz almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés.",
+          "[Elétrica com giro e balanço](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-com-giro-e-balanco): reclina até 145°, gira 180° e balança. É a que a marca indica para amamentação e a que temos em casa na versão 2.0. Na nossa sacola de novembro, o CECILIA12 levou os R$ 4.299 a R$ 3.783,12.",
+          "[Elétrica de base fixa](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-fixa): reclina mais, até 170°, pelo botão, sem giro nem balanço. Para quem quer deitar quase por completo e não precisa do movimento.",
+          "[Elétrica com elevação](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-fixa-com-elevacao): inclina a base para a frente para ajudar a levantar. A marca a pensa para idosos e pós-operatório.",
+          "[Manual com gatilho](https://www.damie.com.br/products/poltrona-reclinavel-damie-manual-com-gatilho): o menor desembolso. Reclina com o peso do corpo e pede força das pernas para fechar, o que pesa para quem tem pouca mobilidade.",
+          "1.0 ou [2.0](https://www.damie.com.br/products/poltrona-reclinavel-2-0): o preço é o mesmo. A 2.0 traz almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés.",
           "**Suede, bouclé ou linho:** toque de tecido e a menor faixa de preço. Nossa primeira reclinável, em linho bege, tem mais de um ano de uso diário e acompanhou a amamentação.",
           "**Courino Importado:** praticamente impermeável e limpo com pano úmido. É o da nossa 2.0 caramelo. Em outubro, custava de R$ 80 a R$ 100 a mais que o tecido.",
           "**Couro bovino:** a faixa de cima, de R$ 4.440 a R$ 6.149 conforme a base, antes do cupom."
@@ -54968,9 +54968,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Levita, Aurora ou Moon: as linhas de cima",
         "bullets": [
-          "**Levita elétrica:** a poltrona de função da marca, com dois motores independentes, que ajustam o encosto e o apoio de pés em separado, apoio de cabeça de ajuste manual e base giratória. Em linho, R$ 6.400 no site, R$ 5.632,00 com o CECILIA12 e R$ 5.068,80 com o cupom e o Pix. Em couro, R$ 7.400, R$ 6.512,00 e R$ 5.860,80.",
-          "**Alternativa à Levita:** o motor do apoio de cabeça, a R$ 1.000 na campanha antes do cupom, instalado numa Reclinável 2.0. Fica abaixo do preço da Levita e não tem os dois motores de encosto e pés.",
-          "**Aurora giratória com puff:** reclina por alavanca lateral, gira 360° e vem com puff independente. Em linho, R$ 5.400 no site, R$ 4.752,00 com o CECILIA12 e R$ 4.276,80 com o cupom e o Pix. Em couro, R$ 6.400, R$ 5.632,00 e R$ 5.068,80.",
+          "[Levita elétrica](https://www.damie.com.br/products/poltrona-reclinavel-damie-levita): a poltrona de função da marca, com dois motores independentes, que ajustam o encosto e o apoio de pés em separado, apoio de cabeça de ajuste manual e base giratória. Em linho, R$ 6.400 no site, R$ 5.632,00 com o CECILIA12 e R$ 5.068,80 com o cupom e o Pix. Em couro, R$ 7.400, R$ 6.512,00 e R$ 5.860,80.",
+          "**Alternativa à Levita:** o [motor do apoio de cabeça](https://www.damie.com.br/products/motor-exclusivo-para-movimentar-o-apoio-da-cabeca), a R$ 1.000 na campanha antes do cupom, instalado numa [Reclinável 2.0](https://www.damie.com.br/products/poltrona-reclinavel-2-0). Fica abaixo do preço da Levita e não tem os dois motores de encosto e pés.",
+          "[Aurora giratória com puff](https://www.damie.com.br/products/poltrona-reclinavel-aurora): reclina por alavanca lateral, gira 360° e vem com puff independente. Em linho, R$ 5.400 no site, R$ 4.752,00 com o CECILIA12 e R$ 4.276,80 com o cupom e o Pix. Em couro, R$ 6.400, R$ 5.632,00 e R$ 5.068,80.",
           "**Moon:** poltrona de desenho, giratória 360°, em bouclé ou linho, com espuma D33. Não reclina: é para quem quer presença na sala, no quarto ou no consultório. Na nossa leitura de novembro, ela não aparecia no catálogo do site; confirme a disponibilidade e o preço com a DAMIE."
         ],
         "postParagraphs": [
@@ -54980,10 +54980,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para a sala inteira: sofá modular e Poltrona Cinema",
         "bullets": [
-          "**Sofá Modular de 2 lugares com puff:** R$ 3.850 no site, R$ 3.388,00 com o CECILIA12 e R$ 3.049,20 com o cupom e o Pix.",
-          "**Sofá Modular de 3 lugares com puff:** R$ 5.100 no site, R$ 4.488,00 com o CECILIA12 e R$ 4.039,20 com o cupom e o Pix. É o que usamos em casa há mais de um ano.",
+          "[Sofá Modular de 2 lugares com puff](https://www.damie.com.br/products/sofa-damie-na-caixa-modular-2-lugares): R$ 3.850 no site, R$ 3.388,00 com o CECILIA12 e R$ 3.049,20 com o cupom e o Pix.",
+          "[Sofá Modular de 3 lugares com puff](https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares): R$ 5.100 no site, R$ 4.488,00 com o CECILIA12 e R$ 4.039,20 com o cupom e o Pix. É o que usamos em casa há mais de um ano.",
           "**Por que modular:** cada módulo chegou na própria caixa, o que resolve corredor com curva, porta estreita e elevador. O puff solto serve de chaise ou de assento extra.",
-          "**Poltrona Cinema 2.0:** fileira reclinável de 2 a 9 lugares. A de 2 lugares parte de R$ 5.438 no site, R$ 4.785,44 com o CECILIA12 e R$ 4.306,90 com o cupom e o Pix. Em outubro, a de 3 lugares custava R$ 8.457."
+          "[Poltrona Cinema 2.0](https://www.damie.com.br/products/poltrona-cinema-damie-2-0): fileira reclinável de 2 a 9 lugares. A de 2 lugares parte de R$ 5.438 no site, R$ 4.785,44 com o CECILIA12 e R$ 4.306,90 com o cupom e o Pix. Em outubro, a de 3 lugares custava R$ 8.457."
         ],
         "postParagraphs": [
           "Escolha o número de lugares pela sala e por quem senta nela, e não pelo desconto de uma configuração maior. Entrega, puff e tecido do sofá estão em [Sofá Damie Modular: vale a pena? Entrega, puff, tecido e o que observar antes de comprar](/reviews/sofa-damie-modular-vale-a-pena)."
@@ -55005,28 +55005,28 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Manual base fixa",
+              "[Manual base fixa](https://www.damie.com.br/products/poltrona-reclinavel-damie-manual-com-gatilho)",
               "R$ 3.969",
               "R$ 2.969",
               "R$ 2.672,10",
               "R$ 4.440"
             ],
             [
-              "Elétrica base fixa",
+              "[Elétrica base fixa](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-fixa)",
               "R$ 4.749",
               "R$ 3.749",
               "R$ 3.374,10",
               "R$ 5.199"
             ],
             [
-              "Elétrica com giro e balanço",
+              "[Elétrica com giro e balanço](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-com-giro-e-balanco)",
               "R$ 5.299",
               "R$ 4.299",
               "R$ 3.869,10",
               "R$ 5.699"
             ],
             [
-              "Elétrica com elevação",
+              "[Elétrica com elevação](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-fixa-com-elevacao)",
               "R$ 5.969",
               "R$ 4.969",
               "R$ 4.472,10",
@@ -55052,49 +55052,49 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Levita elétrica, em linho",
+              "[Levita elétrica](https://www.damie.com.br/products/poltrona-reclinavel-damie-levita), em linho",
               "R$ 7.900",
               "R$ 6.400"
             ],
             [
-              "Levita elétrica, em couro",
+              "[Levita elétrica](https://www.damie.com.br/products/poltrona-reclinavel-damie-levita), em couro",
               "R$ 9.400",
               "R$ 7.400"
             ],
             [
-              "Aurora giratória com puff, em linho",
+              "[Aurora giratória com puff](https://www.damie.com.br/products/poltrona-reclinavel-aurora), em linho",
               "R$ 7.400",
               "R$ 5.400"
             ],
             [
-              "Aurora giratória com puff, em couro",
+              "[Aurora giratória com puff](https://www.damie.com.br/products/poltrona-reclinavel-aurora), em couro",
               "R$ 8.400",
               "R$ 6.400"
             ],
             [
-              "Sofá Modular, 2 lugares",
+              "[Sofá Modular, 2 lugares](https://www.damie.com.br/products/sofa-damie-na-caixa-modular-2-lugares)",
               "R$ 5.150",
               "R$ 3.850"
             ],
             [
-              "Sofá Modular, 3 lugares",
+              "[Sofá Modular, 3 lugares](https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares)",
               "R$ 6.100",
               "R$ 5.100"
             ],
             [
-              "Poltrona Cinema 2.0, 2 lugares",
+              "[Poltrona Cinema 2.0](https://www.damie.com.br/products/poltrona-cinema-damie-2-0), 2 lugares",
               "R$ 5.938",
               "R$ 5.438"
             ],
             [
-              "Poltrona Cinema 2.0, 3 lugares",
+              "[Poltrona Cinema 2.0](https://www.damie.com.br/products/poltrona-cinema-damie-2-0), 3 lugares",
               "R$ 9.457",
               "R$ 8.457"
             ]
           ]
         },
         "postParagraphs": [
-          "Na Aurora, o desconto era de R$ 2.000; na Levita, de R$ 1.500 em linho e R$ 2.000 em couro. A Poltrona Cinema tinha o menor: R$ 500 na de 2 lugares. Em meados de novembro, a Levita, a Aurora e o sofá modular de 2 e de 3 lugares seguiam nos mesmos preços da tabela, e a Poltrona Cinema continuava a partir de R$ 5.438. A página de formas de pagamento da DAMIE dá 10% de desconto no Pix à vista também nessas linhas."
+          "Na [Aurora](https://www.damie.com.br/products/poltrona-reclinavel-aurora), o desconto era de R$ 2.000; na [Levita](https://www.damie.com.br/products/poltrona-reclinavel-damie-levita), de R$ 1.500 em linho e R$ 2.000 em couro. A [Poltrona Cinema](https://www.damie.com.br/products/poltrona-cinema-damie-2-0) tinha o menor: R$ 500 na de 2 lugares. Em meados de novembro, a Levita, a Aurora e o sofá modular de 2 e de 3 lugares seguiam nos mesmos preços da tabela, e a Poltrona Cinema continuava a partir de R$ 5.438. A página de formas de pagamento da DAMIE dá 10% de desconto no Pix à vista também nessas linhas."
         ]
       },
       {
@@ -55104,9 +55104,9 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Desconto da página:** já vem no preço do produto. Era de R$ 1.000 em todas as reclináveis, em outubro e na campanha.",
-          "**Pix à vista:** 10% de desconto. A página do produto já mostra o preço no Pix com o desconto da página aplicado: R$ 3.869,10 na elétrica com giro e balanço em suede, por exemplo.",
+          "**Pix à vista:** 10% de desconto. A página do produto já mostra o preço no Pix com o desconto da página aplicado: R$ 3.869,10 na [elétrica com giro e balanço](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-com-giro-e-balanco) em suede, por exemplo.",
           "**Cupom CECILIA12:** 12% OFF em todos os produtos, com todas as formas de pagamento. Na nossa sacola de novembro, a giro e balanço em suede foi de R$ 4.299 a R$ 3.783,12, um desconto de R$ 515,88, em até 12x sem juros no cartão. No Pix, entram também os 10%: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 3.404,81. O resumo do checkout mostra o valor exato antes de pagar.",
-          "**Desconto por quantidade:** de R$ 500 em 2 poltronas a R$ 2.000 em 5, nas reclináveis e na Poltrona Cinema. Em outubro, ele era dado pelos consultores no WhatsApp, não pelo carrinho, e somava com o CECILIA12: confirme com a DAMIE antes de fechar.",
+          "**Desconto por quantidade:** de R$ 500 em 2 poltronas a R$ 2.000 em 5, nas reclináveis e na [Poltrona Cinema](https://www.damie.com.br/products/poltrona-cinema-damie-2-0). Em outubro, ele era dado pelos consultores no WhatsApp, não pelo carrinho, e somava com o CECILIA12: confirme com a DAMIE antes de fechar.",
           "**Giftback, para gerar:** a página do giftback promete 15% do valor da compra em bônus, liberado como cupom a partir do dia seguinte. Ela não diz se uma compra feita com cupom gera o bônus: se isso pesa na sua decisão, pergunte à DAMIE antes de pagar.",
           "**Giftback, para usar:** vale 30 dias corridos (em outubro, a faixa do site falava em 45), só cobre até 20% do novo pedido (um bônus de R$ 150 pede uma compra de pelo menos R$ 750), não vale em acessórios e não soma com cupons de desconto. Na compra em que você usar o giftback, o CECILIA12 não entra. Uma compra nova substitui o bônus anterior, e troca ou devolução cancela o bônus gerado.",
           "**Giftback e o preço de hoje:** o bônus não reduz o que você paga agora. Nas contas deste guia, ele fica de fora.",
@@ -55136,7 +55136,7 @@ export const reviewsData: unknown[] = [
         "heading": "Antes de comprar na Black Friday",
         "bullets": [
           "**Compare com a tabela de outubro.** O preço riscado é o cheio; em outubro, todas as reclináveis já estavam R$ 1.000 abaixo dele.",
-          "**Confira o revestimento e os opcionais.** O preço muda com o tecido: na giro e balanço, o couro custava R$ 1.400 a mais que o suede. Opcionais como a mesa de apoio e a luminária somam ao total.",
+          "**Confira o revestimento e os opcionais.** O preço muda com o tecido: na [giro e balanço](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-com-giro-e-balanco), o couro custava R$ 1.400 a mais que o suede. Opcionais como a [mesa de apoio](https://www.damie.com.br/products/mesa-de-apoio) e a [luminária](https://www.damie.com.br/products/luminaria-de-embutir) somam ao total.",
           "**Aplique o CECILIA12 antes de pagar.** Ele não soma com outro cupom. Se a loja lançar um código próprio na Black Friday, teste os dois no carrinho e fique com o que der mais desconto.",
           "**Simule o frete e o prazo.** Fora do Sul e do Sudeste, confirme o frete pelo CEP; no Norte e no Nordeste, a compra é feita pelo Mercado Livre.",
           "**Vai comprar mais de uma?** Fale com a DAMIE no WhatsApp antes de fechar: o desconto por quantidade, de R$ 500 a R$ 2.000, não aparece no carrinho."
@@ -55254,7 +55254,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Le Creuset na Black Friday: preços de outubro para comparar",
         "paragraphs": [
-          "Na Black Friday, a Le Creuset tem coleção própria de promoção, anunciada na home com o banner \"Le Creuset até 50% OFF\". Os descontos da coleção vão de 15% a 50%: a maioria das peças tem 30%, e quase todas as panelas Signature têm 25%. A panela Redonda Signature de 20 cm, a R$ 2.329 pelo preço cheio, está por R$ 1.746,75.",
+          "Na Black Friday, a Le Creuset tem coleção própria de promoção, anunciada na home com o banner \"Le Creuset até 50% OFF\". Os descontos da coleção vão de 15% a 50%: a maioria das peças tem 30%, e quase todas as panelas Signature têm 25%. A [panela Redonda Signature de 20 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), a R$ 2.329 pelo preço cheio, está por R$ 1.746,75.",
           "Em outubro, a Le Creuset na Let's Eat It estava quase toda pelo preço cheio, que é o mesmo na maioria das cores de cada modelo. O desconto aparecia só numa seleção de peças, quase sempre numa cor específica. É essa a tabela de referência."
         ],
         "image": {
@@ -55273,49 +55273,49 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Panela Redonda Signature 20 cm, 2,4 L",
+              "[Panela Redonda Signature 20 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 2,4 L",
               "R$ 2.329",
               "Sem desconto"
             ],
             [
-              "Panela Redonda Signature 24 cm, 4,2 L",
+              "[Panela Redonda Signature 24 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-camomille-4-2l-24cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 4,2 L",
               "R$ 2.949",
               "Sem desconto"
             ],
             [
-              "Panela Redonda Signature 26 cm, 5,3 L",
+              "[Panela Redonda Signature 26 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-rhone-5-3l-26cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 5,3 L",
               "R$ 3.089",
               "Sem desconto"
             ],
             [
-              "Panela Oval Signature 31 cm, 6,3 L",
+              "[Panela Oval Signature 31 cm](https://letseatit.com.br/products/panela-le-creuset-oval-signature-sage-6-3l-31cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 6,3 L",
               "R$ 3.399",
               "R$ 2.889,15 na cor laranja (15% OFF)"
             ],
             [
-              "Molheira Signature 18 cm, 1,8 L",
+              "[Molheira Signature 18 cm](https://letseatit.com.br/products/panela-le-creuset-molheira-signature-azure-1-8l-18cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 1,8 L",
               "R$ 2.299",
               "R$ 1.954,15 na cor laranja (15% OFF)"
             ],
             [
-              "Skillet Signature com alça, 26 cm",
+              "[Skillet Signature com alça](https://letseatit.com.br/products/skillet-redonda-com-alca-signature-azure-blue-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 26 cm",
               "R$ 1.739",
               "Sem desconto"
             ],
             [
-              "Caneca de cerâmica, 400 ml",
+              "[Caneca de cerâmica](https://letseatit.com.br/products/caneca-ceramica-nectar-400ml-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 400 ml",
               "R$ 189",
               "R$ 132,30 na cor Nectar, em pré-venda (30% OFF)"
             ],
             [
-              "Mini Cocotte de cerâmica, 250 ml",
+              "[Mini Cocotte de cerâmica](https://letseatit.com.br/products/mini-cocotte-ceramica-flint-250ml-14cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 250 ml",
               "R$ 239",
               "R$ 167,30 nas cores Flint e Nectar (30% OFF)"
             ]
           ]
         },
         "postParagraphs": [
-          "Na Le Creuset, a comparação é direta: em outubro, quase tudo estava pelo preço cheio, e em meados de novembro as panelas redondas de 20, 24 e 26 cm da tabela aparecem com 25% OFF nas cores da promoção. A oval de 31 cm foi de R$ 2.889,15 para R$ 2.549,25. A caneca de 400 ml e a mini cocotte seguem no mesmo preço de outubro, agora em mais cores. Se o preço riscado subir, compare com a tabela, não com o riscado.",
+          "Na Le Creuset, a comparação é direta: em outubro, quase tudo estava pelo preço cheio, e em meados de novembro as panelas redondas de 20, 24 e 26 cm da tabela aparecem com 25% OFF nas cores da promoção. A [oval de 31 cm](https://letseatit.com.br/products/panela-le-creuset-oval-signature-sage-6-3l-31cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) foi de R$ 2.889,15 para R$ 2.549,25. A [caneca de 400 ml](https://letseatit.com.br/products/caneca-ceramica-nectar-400ml-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e a [mini cocotte](https://letseatit.com.br/products/mini-cocotte-ceramica-flint-250ml-14cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) seguem no mesmo preço de outubro, agora em mais cores. Se o preço riscado subir, compare com a tabela, não com o riscado.",
           "A Let's Eat It aparece no localizador de lojas do site oficial da Le Creuset Brasil."
         ],
         "links": [
@@ -55340,37 +55340,37 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Redonda 20 cm, 2,4 L",
+              "[Redonda 20 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 2,4 L",
               "R$ 2.329",
               "R$ 1.746,75",
               "R$ 1.576,44"
             ],
             [
-              "Redonda 22 cm, 3,3 L",
+              "[Redonda 22 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-sage-3-3l-22cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 3,3 L",
               "R$ 2.619",
               "R$ 1.964,25",
               "R$ 1.772,74"
             ],
             [
-              "Redonda 24 cm, 4,2 L",
+              "[Redonda 24 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-camomille-4-2l-24cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 4,2 L",
               "R$ 2.949",
               "R$ 2.211,75",
               "R$ 1.996,10"
             ],
             [
-              "Redonda 26 cm, 5,3 L",
+              "[Redonda 26 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-rhone-5-3l-26cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 5,3 L",
               "R$ 3.089",
               "R$ 2.316,75",
               "R$ 2.090,87"
             ],
             [
-              "Caçarola Buffet 30 cm, 3,5 L",
+              "[Caçarola Buffet 30 cm](https://letseatit.com.br/products/cacarola-buffet-signature-sage-3-5l-30cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 3,5 L",
               "R$ 2.999",
               "R$ 2.249,25",
               "R$ 2.029,95"
             ],
             [
-              "Oval 31 cm, 6,3 L",
+              "[Oval 31 cm](https://letseatit.com.br/products/panela-le-creuset-oval-signature-sage-6-3l-31cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 6,3 L",
               "R$ 3.399",
               "R$ 2.549,25",
               "R$ 2.300,70"
@@ -55378,12 +55378,12 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**Redonda de 20 cm:** a de entrada, para porções pequenas e acompanhamentos. Na promoção nas cores Azure, Bleu Riviera e Flint.",
-          "**Redonda de 22 cm:** R$ 217,50 a mais que a de 20 cm por quase 1 litro extra. Na promoção nas cores Sage, Camomille, Bleu Riviera e Rhone.",
-          "**Redonda de 24 cm:** o tamanho intermediário, com 4,2 L. Com 25%, só na cor Camomille; na cor Sea Salt, o desconto é de 15%, a R$ 2.506,65.",
-          "**Redonda de 26 cm:** para quem cozinha em quantidade ou recebe. Na promoção nas cores Chambray, Rhone e Artichaut.",
-          "**Caçarola Buffet de 30 cm:** baixa e larga, vai do fogão à mesa. Na promoção na cor Sage.",
-          "**Oval de 31 cm:** o formato para peças inteiras de carne e aves. Na promoção nas cores Sage e Rhone."
+          "[Redonda de 20 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico): a de entrada, para porções pequenas e acompanhamentos. Na promoção nas cores Azure, Bleu Riviera e Flint.",
+          "[Redonda de 22 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-sage-3-3l-22cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico): R$ 217,50 a mais que a de 20 cm por quase 1 litro extra. Na promoção nas cores Sage, Camomille, Bleu Riviera e Rhone.",
+          "[Redonda de 24 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-camomille-4-2l-24cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico): o tamanho intermediário, com 4,2 L. Com 25%, só na cor Camomille; na cor Sea Salt, o desconto é de 15%, a R$ 2.506,65.",
+          "[Redonda de 26 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-rhone-5-3l-26cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico): para quem cozinha em quantidade ou recebe. Na promoção nas cores Chambray, Rhone e Artichaut.",
+          "[Caçarola Buffet de 30 cm](https://letseatit.com.br/products/cacarola-buffet-signature-sage-3-5l-30cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico): baixa e larga, vai do fogão à mesa. Na promoção na cor Sage.",
+          "[Oval de 31 cm](https://letseatit.com.br/products/panela-le-creuset-oval-signature-sage-6-3l-31cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico): o formato para peças inteiras de carne e aves. Na promoção nas cores Sage e Rhone."
         ],
         "postParagraphs": [
           "Cor fora da promoção custa o preço cheio: se a cor importa mais que o desconto, compare as duas contas antes de decidir. Peça marcada como pré-venda tem prazo de envio próprio, informado na página do produto.",
@@ -55411,22 +55411,22 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Aparelho de jantar Stoneware Orgânico, 30 peças (Preto Matte, Petroleum ou Arauco)",
+              "[Aparelho de jantar Stoneware Orgânico, 30 peças](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-petroleum-night-sky-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) (Preto Matte, Petroleum ou Arauco)",
               "R$ 1.446,67",
               "R$ 868"
             ],
             [
-              "Aparelho de jantar Stoneware Bio Oceano, 30 peças",
+              "[Aparelho de jantar Stoneware Bio Oceano, 30 peças](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-oceano-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 1.398,33",
               "R$ 839"
             ],
             [
-              "Aparelho de jantar Stoneware Orgânico Gold, 30 peças (Lua, Shimeji ou Forest)",
+              "[Aparelho de jantar Stoneware Orgânico Gold, 30 peças](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-shimeji-gold-porto-brasil-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) (Lua, Shimeji ou Forest)",
               "R$ 3.416,50",
               "R$ 2.049,90"
             ],
             [
-              "Jogo de 6 pratos multiuso Stoneware Linho, 18,6 cm",
+              "[Jogo de 6 pratos multiuso Stoneware Linho](https://letseatit.com.br/products/conjunto-com-6-pratos-multiuso-linho-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 18,6 cm",
               "R$ 722,25",
               "R$ 288,90"
             ],
@@ -55438,7 +55438,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Em meados de novembro, os aparelhos de 30 peças da linha Orgânico nas cores Preto Matte e Petroleum aparecem a R$ 756,84, e os das linhas Arauco, Bio Oceano, Bio Latte e Bio Breeze, a R$ 778,84: os dois preços estão abaixo dos de outubro. Os aparelhos Orgânico Gold seguem a R$ 2.049,90 e o jogo de 6 pratos multiuso Linho, a R$ 288,90, sem mudança."
+          "Em meados de novembro, os aparelhos de 30 peças da linha Orgânico nas cores Preto Matte e Petroleum aparecem a R$ 756,84, e os das linhas Arauco, [Bio Oceano](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-oceano-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), Bio Latte e Bio Breeze, a R$ 778,84: os dois preços estão abaixo dos de outubro. Os aparelhos Orgânico Gold seguem a R$ 2.049,90 e o jogo de 6 pratos multiuso [Linho](https://letseatit.com.br/products/conjunto-com-6-pratos-multiuso-linho-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), a R$ 288,90, sem mudança."
         ]
       },
       {
@@ -55455,32 +55455,32 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Aparelho Porto Brasil Stoneware Orgânico, 30 peças",
+              "[Aparelho Porto Brasil Stoneware Orgânico, 30 peças](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-petroleum-night-sky-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 756,84",
               "R$ 683,05"
             ],
             [
-              "Aparelho Porto Brasil Stoneware Bio, 30 peças",
+              "[Aparelho Porto Brasil Stoneware Bio, 30 peças](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-oceano-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 778,84",
               "R$ 702,90"
             ],
             [
-              "Jogo de 6 pratos rasos Porto Brasil Orgânico, 26,5 cm",
+              "[Jogo de 6 pratos rasos Porto Brasil Orgânico](https://letseatit.com.br/products/conjunto-6-pratos-rasos-organico-stoneware-preto-matte-26-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 26,5 cm",
               "R$ 285,90",
               "R$ 258,02"
             ],
             [
-              "Faqueiro La Maison, 24 peças",
+              "[Faqueiro La Maison, 24 peças](https://letseatit.com.br/products/faqueiro-24-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 389,00",
               "R$ 351,07"
             ],
             [
-              "Faqueiro Laguiole La Maison Luxo, 12 peças",
+              "[Faqueiro Laguiole La Maison Luxo, 12 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 469,00",
               "R$ 423,27"
             ],
             [
-              "Faqueiro Laguiole La Maison Luxo, 30 peças",
+              "[Faqueiro Laguiole La Maison Luxo, 30 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 1.099,00",
               "R$ 991,85"
             ]
@@ -55488,11 +55488,11 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**Aparelho de 30 peças:** traz 6 pratos rasos, 6 de sobremesa, 6 fundos, 6 xícaras e 6 pires. Para quem vai montar a mesa do zero, sai por menos que os três jogos de pratos comprados à parte, que somavam R$ 788,70 sem as xícaras.",
-          "**Jogo de 6 pratos:** para quem só precisa repor um tipo de prato. O de sobremesa da linha Bio estava a R$ 236,90 e o de pratos fundos, a R$ 265,90.",
-          "**Aparelho de 16 peças:** o Bio Latte de 16 peças estava a R$ 659,00. Por peça, custa mais que o de 30; faz sentido para mesa de 4 lugares e pouco espaço no armário.",
-          "**Faqueiro La Maison:** 12 peças por R$ 199,00 e 24 peças por R$ 389,00, em aço inox, em várias cores de cabo. É o caminho de menor preço para 6 lugares.",
-          "**Faqueiro Laguiole La Maison Luxo:** 12, 18 ou 30 peças, por R$ 469,00, R$ 729,00 e R$ 1.099,00. Os preços são os mesmos do fim de outubro, e a maior parte das cores estava em pré-venda.",
-          "**Taças da Linha Sintonia:** o jogo de 6 taças para água de base geométrica Trio, de 400 ml, estava a R$ 499,00, e o Trésor incolor, de 515 ml, a R$ 519,00. Os jogos de base esfera da linha Pure apareciam em pré-venda."
+          "**Jogo de 6 pratos:** para quem só precisa repor um tipo de prato. O [de sobremesa da linha Bio](https://letseatit.com.br/products/conjunto-com-6-pratos-de-sobremesa-bio-latte-21-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) estava a R$ 236,90 e o [de pratos fundos](https://letseatit.com.br/products/conjunto-com-6-pratos-fundos-bio-latte-22-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), a R$ 265,90.",
+          "**Aparelho de 16 peças:** o [Bio Latte de 16 peças](https://letseatit.com.br/products/pre-venda-aparelho-de-jantar-stoneware-bio-latte-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) estava a R$ 659,00. Por peça, custa mais que o de 30; faz sentido para mesa de 4 lugares e pouco espaço no armário.",
+          "**Faqueiro La Maison:** [12 peças](https://letseatit.com.br/products/faqueiro-12-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) por R$ 199,00 e [24 peças](https://letseatit.com.br/products/faqueiro-24-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) por R$ 389,00, em aço inox, em várias cores de cabo. É o caminho de menor preço para 6 lugares.",
+          "**Faqueiro Laguiole La Maison Luxo:** [12](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [18](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) ou [30](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) peças, por R$ 469,00, R$ 729,00 e R$ 1.099,00. Os preços são os mesmos do fim de outubro, e a maior parte das cores estava em pré-venda.",
+          "**Taças da Linha Sintonia:** o jogo de 6 taças para água de [base geométrica Trio, de 400 ml](https://letseatit.com.br/products/jogo-de-6-tacas-para-agua-vidro-base-geometrica-trio-linha-sintonia-400ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), estava a R$ 499,00, e o [Trésor incolor, de 515 ml](https://letseatit.com.br/products/jogo-de-6-tacas-para-agua-gioia-vidro-incolor-linha-sintonia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), a R$ 519,00. Os jogos de base esfera da linha Pure apareciam em pré-venda."
         ],
         "postParagraphs": [
           "Várias cores de aparelho apareciam como esgotadas na nossa leitura, e o Bio Breeze, em pré-venda: confira a disponibilidade da cor na página antes de planejar a mesa em torno dela.",
@@ -55502,9 +55502,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Presentes Le Creuset por faixa de preço",
         "bullets": [
-          "**Até R$ 150: Caneca de cerâmica de 400 ml.** R$ 132,30 na promoção, com 30% OFF. Na nossa sacola, o MAUAD levou o preço a R$ 125,69, e com o Pix a conta chega a R$ 119,40.",
-          "**Até R$ 200: Mini Cocotte de cerâmica de 250 ml.** R$ 167,30 na promoção, R$ 150,99 com MAUAD e Pix. Vai à mesa como porção individual.",
-          "**Até R$ 500: Travessa retangular Heritage de 32 cm.** R$ 496,30 na promoção, R$ 447,91 com MAUAD e Pix."
+          "Até R$ 150: [Caneca de cerâmica de 400 ml](https://letseatit.com.br/products/caneca-ceramica-nectar-400ml-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). R$ 132,30 na promoção, com 30% OFF. Na nossa sacola, o MAUAD levou o preço a R$ 125,69, e com o Pix a conta chega a R$ 119,40.",
+          "Até R$ 200: [Mini Cocotte de cerâmica de 250 ml](https://letseatit.com.br/products/mini-cocotte-ceramica-flint-250ml-14cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). R$ 167,30 na promoção, R$ 150,99 com MAUAD e Pix. Vai à mesa como porção individual.",
+          "Até R$ 500: [Travessa retangular Heritage de 32 cm](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-mist-grey-32cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). R$ 496,30 na promoção, R$ 447,91 com MAUAD e Pix."
         ],
         "postParagraphs": [
           "Em presente pequeno, o frete pesa: a caneca sozinha pagou R$ 40,90 de frete para a capital paulista no nosso teste. Compare o total entregue antes de fechar. Parte das cores da caneca e da mini cocotte estava em pré-venda; se o presente tem data, escolha uma cor em estoque."
@@ -55515,7 +55515,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Pix:** a página do produto dá 5% de desconto nas compras por Pix.",
           "**Cupom:** o MAUAD dá 5% OFF em todo o site, com todas as formas de pagamento. Em meados de novembro, ele entrou sobre o preço de promoção de uma panela Le Creuset e de uma caneca, e o desconto saiu do subtotal, antes do frete.",
-          "**Pix com o cupom:** os dois somam. Na panela Redonda Signature de 20 cm, a R$ 1.746,75 com os 25% da promoção, o MAUAD tirou R$ 87,33 na sacola, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 1.576,44, sem o frete. O resumo do checkout mostra o valor exato antes de pagar.",
+          "**Pix com o cupom:** os dois somam. Na [panela Redonda Signature de 20 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), a R$ 1.746,75 com os 25% da promoção, o MAUAD tirou R$ 87,33 na sacola, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 1.576,44, sem o frete. O resumo do checkout mostra o valor exato antes de pagar.",
           "**Cashback:** vale para a compra seguinte e fica fora da conta do preço pago agora. As condições da página do cashback:",
           "**1. Valor:** 15% do total da compra, em cupom enviado pelo WhatsApp cadastrado.",
           "**2. Quando usar:** só a partir de 7 dias depois da compra que gerou o cupom.",
@@ -55656,15 +55656,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A I Wanna Sleep tem Black Friday?",
         "paragraphs": [
-          "Tem uma campanha enxuta: a home da I Wanna Sleep traz os Kits Exclusivos Black, com brindes (dois travesseiros Magnum no Pillow Top, um travesseiro Bubble Gel no cobertor Igloo, meias no Huggy) e até 39% de desconto em kits, sem data de fim publicada. Não encontramos campanha oficial nos anos anteriores: a busca do site não traz nada com o termo, e o blog da marca não fala da data. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
-          "O que a loja já fazia em outubro era vender o Pillow Top Magnum, os travesseiros e os cobertores com selo de desconto, e kits como o Pillow Top Magnum + Bao Bao + Igloo, que entrou no site em 6 de outubro.",
+          "Tem uma campanha enxuta: a home da I Wanna Sleep traz os Kits Exclusivos Black, com brindes (dois [travesseiros Magnum](https://www.iwannasleep.com.br/products/trv-magnum-pluma-airfiber-iws) no Pillow Top, um [travesseiro Bubble Gel](https://www.iwannasleep.com.br/products/travesseiro-iws-bubble-gel) no [cobertor Igloo](https://www.iwannasleep.com.br/products/cobertor-iws-igloo), meias no [Huggy](https://www.iwannasleep.com.br/products/cobertor-iws-huggy)) e até 39% de desconto em kits, sem data de fim publicada. Não encontramos campanha oficial nos anos anteriores: a busca do site não traz nada com o termo, e o blog da marca não fala da data. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
+          "O que a loja já fazia em outubro era vender o [Pillow Top Magnum](https://www.iwannasleep.com.br/products/pillow-top-magnum-pluma-airfiber-iws), os travesseiros e os cobertores com selo de desconto, e kits como o [Pillow Top Magnum + Bao Bao + Igloo](https://www.iwannasleep.com.br/products/kit-pillow-top-baobao-igloo), que entrou no site em 6 de outubro.",
           "Compare os kits com as tabelas deste guia, sempre no mesmo tamanho e composição, porque a referência é histórica. O carrinho mostra se o cupom entra em cada kit, e vale checar se o brinde anunciado serve para você."
         ]
       },
       {
         "heading": "Para melhorar o colchão: Pillow Top Magnum e kits",
         "paragraphs": [
-          "Pelo site, a peça para a cama é o Pillow Top Magnum, que vai por cima do colchão que você já tem. Na leitura de 16 de novembro, ele estava abaixo do preço de outubro no casal e no queen, e a página anunciava dois travesseiros Magnum de brinde."
+          "Pelo site, a peça para a cama é o [Pillow Top Magnum](https://www.iwannasleep.com.br/products/pillow-top-magnum-pluma-airfiber-iws), que vai por cima do colchão que você já tem. Na leitura de 16 de novembro, ele estava abaixo do preço de outubro no casal e no queen, e a página anunciava dois [travesseiros Magnum](https://www.iwannasleep.com.br/products/trv-magnum-pluma-airfiber-iws) de brinde."
         ],
         "comparisonTable": {
           "caption": "Site da I Wanna Sleep na leitura de novembro. Simulamos o cupom no Pillow Top casal e no kit com dois Snow; nas outras linhas, o valor é o preço da página menos 10%",
@@ -55682,13 +55682,13 @@ export const reviewsData: unknown[] = [
               "sem registro"
             ],
             [
-              "Pillow Top Magnum, casal",
+              "[Pillow Top Magnum, casal](https://www.iwannasleep.com.br/products/pillow-top-magnum-pluma-airfiber-iws)",
               "R$ 1.779",
               "R$ 1.601,10",
               "R$ 1.848"
             ],
             [
-              "Pillow Top Magnum, queen",
+              "[Pillow Top Magnum, queen](https://www.iwannasleep.com.br/products/pillow-top-magnum-pluma-airfiber-iws)",
               "R$ 2.052",
               "R$ 1.846,80",
               "R$ 2.131"
@@ -55709,8 +55709,8 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "**Só o pillow top:** é a compra de quem quer mudar a sensação do colchão e já tem travesseiro. O super king estava esgotado na leitura.",
-          "**Kit com dois Snow:** para quem ia comprar o pillow top e os travesseiros. O kit casal sai por R$ 2.326; o pillow top casal mais o kit de dois Snow regular, comprados separados, somam R$ 2.415. São R$ 89 de diferença antes do cupom. A página do pillow top avulso anuncia os dois travesseiros Magnum de brinde: veja se o brinde aparece também no kit antes de decidir.",
-          "**Kit com Bao Bao e Igloo:** no casal, custa R$ 4.157, contra R$ 4.181 dos mesmos três produtos comprados avulsos. A economia é de R$ 24 antes do cupom. Como as páginas das três peças anunciam brindes próprios, confira quais entram em cada carrinho. O kit faz sentido se você quer as três peças e os brindes das avulsas não mudam a sua escolha.",
+          "[Kit com dois Snow](https://www.iwannasleep.com.br/products/kit-pillow-top-magnum-pluma-airfiber-iws-2x-snow): para quem ia comprar o pillow top e os travesseiros. O kit casal sai por R$ 2.326; o pillow top casal mais o kit de dois Snow regular, comprados separados, somam R$ 2.415. São R$ 89 de diferença antes do cupom. A página do pillow top avulso anuncia os dois travesseiros Magnum de brinde: veja se o brinde aparece também no kit antes de decidir.",
+          "[Kit com Bao Bao e Igloo](https://www.iwannasleep.com.br/products/kit-pillow-top-baobao-igloo): no casal, custa R$ 4.157, contra R$ 4.181 dos mesmos três produtos comprados avulsos. A economia é de R$ 24 antes do cupom. Como as páginas das três peças anunciam brindes próprios, confira quais entram em cada carrinho. O kit faz sentido se você quer as três peças e os brindes das avulsas não mudam a sua escolha.",
           "Para saber se o pillow top resolve o seu caso, veja [Pillow Top Magnum IWS vale a pena?](/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas). Colchão e box a loja vende só nas lojas físicas, em Belo Horizonte."
         ]
       },
@@ -55736,7 +55736,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "O mesmo, em travesseiro mais largo",
-              "Snow plus (50 x 90 cm)",
+              "[Snow plus (50 x 90 cm)](https://www.iwannasleep.com.br/products/travesseiro-snow)",
               "R$ 376",
               "R$ 338,40"
             ],
@@ -55773,10 +55773,10 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "**Snow:** você pode retirar parte do enchimento para ajustar a altura. É uma opção para quem quer fazer esse ajuste em casa.",
-          "**Original Látex:** vem em alturas fixas. O G estava esgotado na leitura.",
-          "**Cervical:** o Coluna Relax tem o formato côncavo e é o mais barato da lista. O Neck Plus Gel soma partículas de gel; o Neck Plus Charcoal, com carvão ativado na espuma, estava por R$ 353. Com dor persistente, procure um profissional de saúde.",
-          "**Airgelly 2.0 e Skin:** o Airgelly é lavável à mão. O Skin tem a capa que reduz o atrito no rosto.",
+          "[Snow](https://www.iwannasleep.com.br/products/travesseiro-snow): você pode retirar parte do enchimento para ajustar a altura. É uma opção para quem quer fazer esse ajuste em casa.",
+          "[Original Látex](https://www.iwannasleep.com.br/products/travesseiro-iws-original-latex): vem em alturas fixas. O G estava esgotado na leitura.",
+          "**Cervical:** o [Coluna Relax](https://www.iwannasleep.com.br/products/travesseiro-cervical-coluna-relax-1) tem o formato côncavo e é o mais barato da lista. O [Neck Plus Gel](https://www.iwannasleep.com.br/products/cervical-neck-plus-gel) soma partículas de gel; o [Neck Plus Charcoal](https://www.iwannasleep.com.br/products/cervical-neck-plus-charcoal), com carvão ativado na espuma, estava por R$ 353. Com dor persistente, procure um profissional de saúde.",
+          "[Airgelly 2.0](https://www.iwannasleep.com.br/products/travesseiro-airgelly) e [Skin](https://www.iwannasleep.com.br/products/travesseiro-iws-skin): o Airgelly é lavável à mão. O Skin tem a capa que reduz o atrito no rosto.",
           "As linhas, as alturas e a regulagem do Snow estão em [qual travesseiro escolher](/reviews/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep)."
         ]
       },
@@ -55815,17 +55815,17 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "**Igloo:** tem um lado de toque frio e um lado de aconchego. É o cobertor que a Cecília mostrou em vídeo. A página anunciava um travesseiro Bubble Gel de brinde. No king/super king, custa R$ 1.101.",
-          "**Huggy:** fleece com sherpa sintética. A página anunciava meias de brinde. No king/super king, R$ 609.",
-          "**Cozy:** a superfície tem os relevos que a marca chama de 3D Dots. Vem também em solteiro, por R$ 497, e em king/super king, por R$ 548.",
-          "**Puffer Ultralight:** o mais leve da linha estava esgotado nos dois tamanhos.",
+          "[Igloo](https://www.iwannasleep.com.br/products/cobertor-iws-igloo): tem um lado de toque frio e um lado de aconchego. É o cobertor que a Cecília mostrou em vídeo. A página anunciava um [travesseiro Bubble Gel](https://www.iwannasleep.com.br/products/travesseiro-iws-bubble-gel) de brinde. No king/super king, custa R$ 1.101.",
+          "[Huggy](https://www.iwannasleep.com.br/products/cobertor-iws-huggy): fleece com sherpa sintética. A página anunciava meias de brinde. No king/super king, R$ 609.",
+          "[Cozy](https://www.iwannasleep.com.br/products/cobertor-cozy-iws): a superfície tem os relevos que a marca chama de 3D Dots. Vem também em solteiro, por R$ 497, e em king/super king, por R$ 548.",
+          "[Puffer Ultralight](https://www.iwannasleep.com.br/products/cobertor-puffer-ultralight-%E2%84%A2): o mais leve da linha estava esgotado nos dois tamanhos.",
           "Os brindes são os que a página de cada produto anuncia: confira se entram no carrinho. A comparação das quatro linhas está em [qual cobertor escolher](/reviews/qual-cobertor-escolher-guia-linhas-i-wanna-sleep), e a ficha do Igloo, em [Cobertor IWS Igloo](/reviews/i-wanna-sleep-cobertor-igloo-ficha-tecnica)."
         ]
       },
       {
         "heading": "Preços de outubro do Pillow Top Magnum, para comparar",
         "paragraphs": [
-          "Em outubro, o Pillow Top Magnum já tinha cerca de 14% de desconto sobre o preço riscado em todos os tamanhos. O preço riscado é uma referência exibida pela loja, não prova do preço praticado antes: compare a mesma versão com o registro abaixo."
+          "Em outubro, o [Pillow Top Magnum](https://www.iwannasleep.com.br/products/pillow-top-magnum-pluma-airfiber-iws) já tinha cerca de 14% de desconto sobre o preço riscado em todos os tamanhos. O preço riscado é uma referência exibida pela loja, não prova do preço praticado antes: compare a mesma versão com o registro abaixo."
         ],
         "image": {
           "src": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-hero.webp",
@@ -55842,22 +55842,22 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Pillow Top Magnum, casal (1,40 x 2,00 m)",
+              "[Pillow Top Magnum, casal (1,40 x 2,00 m)](https://www.iwannasleep.com.br/products/pillow-top-magnum-pluma-airfiber-iws)",
               "R$ 2.149",
               "R$ 1.848"
             ],
             [
-              "Pillow Top Magnum, queen (1,60 x 2,00 m)",
+              "[Pillow Top Magnum, queen (1,60 x 2,00 m)](https://www.iwannasleep.com.br/products/pillow-top-magnum-pluma-airfiber-iws)",
               "R$ 2.479",
               "R$ 2.131"
             ],
             [
-              "Pillow Top Magnum, super king (2,00 x 2,00 m)",
+              "[Pillow Top Magnum, super king (2,00 x 2,00 m)](https://www.iwannasleep.com.br/products/pillow-top-magnum-pluma-airfiber-iws)",
               "R$ 2.839",
               "R$ 2.441"
             ],
             [
-              "Kit Pillow Top Magnum + Bao Bao + Igloo, casal",
+              "[Kit Pillow Top Magnum + Bao Bao + Igloo, casal](https://www.iwannasleep.com.br/products/kit-pillow-top-baobao-igloo)",
               "R$ 5.067",
               "R$ 4.157"
             ]
@@ -55893,49 +55893,49 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Travesseiro Snow, plus (50 x 90 cm)",
+              "[Travesseiro Snow, plus (50 x 90 cm)](https://www.iwannasleep.com.br/products/travesseiro-snow)",
               "R$ 459",
               "R$ 390"
             ],
             [
-              "Travesseiro Airgelly 2.0",
+              "[Travesseiro Airgelly 2.0](https://www.iwannasleep.com.br/products/travesseiro-airgelly)",
               "R$ 549",
               "R$ 472"
             ],
             [
-              "Travesseiro Skin",
+              "[Travesseiro Skin](https://www.iwannasleep.com.br/products/travesseiro-iws-skin)",
               "R$ 419",
               "R$ 356"
             ],
             [
-              "Travesseiro Cervical Coluna Relax",
+              "[Travesseiro Cervical Coluna Relax](https://www.iwannasleep.com.br/products/travesseiro-cervical-coluna-relax-1)",
               "R$ 259",
               "R$ 214"
             ],
             [
-              "Travesseiro Cervical Neck Plus Gel",
+              "[Travesseiro Cervical Neck Plus Gel](https://www.iwannasleep.com.br/products/cervical-neck-plus-gel)",
               "R$ 429",
               "R$ 377"
             ],
             [
-              "Cobertor Igloo, king/super king",
+              "[Cobertor Igloo, king/super king](https://www.iwannasleep.com.br/products/cobertor-iws-igloo)",
               "R$ 1.299",
               "R$ 1.143"
             ],
             [
-              "Cobertor Cozy, casal/queen",
+              "[Cobertor Cozy, casal/queen](https://www.iwannasleep.com.br/products/cobertor-cozy-iws)",
               "R$ 619",
               "R$ 526"
             ],
             [
-              "Kit com 10 travesseiros Snow",
+              "[Kit com 10 travesseiros Snow](https://www.iwannasleep.com.br/products/kit-10-trv-iws-snow)",
               "R$ 4.190",
               "R$ 2.726"
             ]
           ]
         },
         "postParagraphs": [
-          "O cobertor Igloo é o da capa: a Cecília mostrou em vídeo o lado de toque gelado e o lado quente."
+          "O [cobertor Igloo](https://www.iwannasleep.com.br/products/cobertor-iws-igloo) é o da capa: a Cecília mostrou em vídeo o lado de toque gelado e o lado quente."
         ],
         "links": [
           {
@@ -55956,7 +55956,7 @@ export const reviewsData: unknown[] = [
         "heading": "Colchão e box: só nas lojas físicas",
         "paragraphs": [
           "Os colchões da I Wanna Sleep (Zen, I3, Hush, Breeze Plush e Star) e a base box aparecem no site, mas não são vendidos por ele: a página de cada um diz que eles estão disponíveis para experimentar nas lojas físicas e manda falar com as consultoras do sono da loja mais próxima.",
-          "As lojas ficam em Belo Horizonte: são sete, entre elas as do BH Shopping, do Del Rey e do Ponteio. Pelo site, a peça para a cama é o Pillow Top Magnum, que vai por cima do colchão que você já tem."
+          "As lojas ficam em Belo Horizonte: são sete, entre elas as do BH Shopping, do Del Rey e do Ponteio. Pelo site, a peça para a cama é o [Pillow Top Magnum](https://www.iwannasleep.com.br/products/pillow-top-magnum-pluma-airfiber-iws), que vai por cima do colchão que você já tem."
         ],
         "image": {
           "src": "/images/reviews/iwannasleep/iws-loja-fisica.webp",
@@ -55975,7 +55975,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Pix:** a página de cada produto dá 5% de desconto, só à vista.",
           "**Cartão:** parcelado sem juros; o número de parcelas aparece na página do produto. A aprovação do cartão leva até 24 horas, e a do boleto, até 72 horas.",
-          "**Cupom:** o CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento. Na leitura de novembro, ele entrou por cima dos preços da campanha no Pillow Top Magnum, no kit com dois Snow e no travesseiro Snow.",
+          "**Cupom:** o CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento. Na leitura de novembro, ele entrou por cima dos preços da campanha no [Pillow Top Magnum](https://www.iwannasleep.com.br/products/pillow-top-magnum-pluma-airfiber-iws), no [kit com dois Snow](https://www.iwannasleep.com.br/products/kit-pillow-top-magnum-pluma-airfiber-iws-2x-snow) e no [travesseiro Snow](https://www.iwannasleep.com.br/products/travesseiro-snow).",
           "**Código de 15%:** a parceria tem um código de 15% previsto para os dias 26 e 27 de novembro, que aparece neste artigo nos dois dias. Antes da data, o checkout não aceitou. Quando a janela abrir, confira a linha do desconto no carrinho.",
           "**Pix com o cupom:** a loja anuncia 5% no Pix. Aplicados sobre o valor já com o CECIEMCASA, os descontos dão uma redução total de 14,5%; se o código de 15% e o Pix se aplicarem juntos, a conta chega a 19,25%. No Pillow Top casal de R$ 1.779, o cupom foi testado e levou o preço a R$ 1.601,10; com os 5% adicionais, a conta fica em R$ 1.521,05. O Pix não foi refeito nesta rodada: confirme a soma no pagamento."
         ],
@@ -56014,7 +56014,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A I Wanna Sleep não publica prazos por região: o carrinho mostra o prazo depois do CEP. Em outubro, o Pillow Top Magnum casal teve frete grátis com o CEP do centro de 12 capitais. A loja calcula prazo e frete pelo CEP, então a condição pode mudar para outro endereço ou outro pedido.",
           "A tabela traz nossa estimativa, com um dia útil de folga, de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira. Ela não é um calendário de entrega garantida.",
-          "O frete grátis acima de R$ 150 cobre as escolhas deste guia mesmo depois dos descontos: o item mais barato dos quadros, o Cervical Coluna Relax, sai por R$ 186,30 com o cupom. Confira no carrinho se a regra vale para o seu CEP."
+          "O frete grátis acima de R$ 150 cobre as escolhas deste guia mesmo depois dos descontos: o item mais barato dos quadros, o [Cervical Coluna Relax](https://www.iwannasleep.com.br/products/travesseiro-cervical-coluna-relax-1), sai por R$ 186,30 com o cupom. Confira no carrinho se a regra vale para o seu CEP."
         ],
         "comparisonTable": {
           "caption": "Prazos em outubro com um CEP central por capital e o Pillow Top Magnum casal. Datas estimadas por nós, com um dia útil de folga; confira com o seu CEP e considere a aprovação do pagamento.",
@@ -56193,22 +56193,22 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Tech T-Shirt, gola U masculina",
+              "[Tech T-Shirt, gola U masculina](https://creators.insiderstore.com.br/axB7p3y)",
               "R$ 169",
               "R$ 129"
             ],
             [
-              "Tech T-Shirt Gola V",
+              "[Tech T-Shirt Gola V](https://creators.insiderstore.com.br/6YciBPd)",
               "R$ 169",
               "R$ 129"
             ],
             [
-              "Tech T-Shirt Manga Longa Masculina",
+              "[Tech T-Shirt Manga Longa Masculina](https://creators.insiderstore.com.br/xAZHBLg)",
               "R$ 239",
               "R$ 199"
             ],
             [
-              "Core T-Shirt",
+              "[Core T-Shirt](https://creators.insiderstore.com.br/c5rL74B)",
               "R$ 189",
               "R$ 179 a R$ 189, conforme a cor"
             ],
@@ -56218,7 +56218,7 @@ export const reviewsData: unknown[] = [
               "R$ 456"
             ],
             [
-              "Kit 5 Core T-Shirt",
+              "[Kit 5 Core T-Shirt](https://creators.insiderstore.com.br/nSNRDxm)",
               "R$ 945",
               "R$ 805,50"
             ]
@@ -56250,22 +56250,22 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Cueca Boxer Comfort",
+              "[Cueca Boxer Comfort](https://creators.insiderstore.com.br/ptFyZqS)",
               "R$ 85",
               "R$ 79"
             ],
             [
-              "Kit 3 cuecas Boxer Comfort",
+              "[Kit 3 cuecas Boxer Comfort](https://creators.insiderstore.com.br/hxbKq9S)",
               "R$ 255",
               "R$ 229,89"
             ],
             [
-              "Kit 5 cuecas Comfort",
+              "[Kit 5 cuecas Comfort](https://creators.insiderstore.com.br/rhM3Vog)",
               "R$ 425",
               "R$ 375,25"
             ],
             [
-              "Cueca Boxer Performance",
+              "[Cueca Boxer Performance](https://creators.insiderstore.com.br/nD3bAuj)",
               "R$ 95",
               "R$ 89"
             ]
@@ -56279,14 +56279,14 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom, Pix e frete grátis: o que soma",
         "bullets": [
           "**Cupom:** o EMCASACOMCECILIA dá 15% OFF na loja online, sem valor mínimo, com todas as formas de pagamento, e soma com os preços da Black Friday, salvo quando a promoção disser o contrário. A loja aceita um cupom por pedido.",
-          "**Esquenta (teste no carrinho):** o cupom entrou por cima dos preços da campanha. A Tech T-Shirt, de R$ 169 por R$ 129 no site, saiu por R$ 109,65, e no Outlet o desconto também entrou por cima do preço riscado. A loja aceita um cupom por pedido: compare o resultado dos 15% com as condições da campanha da própria Insider antes de pagar.",
+          "**Esquenta (teste no carrinho):** o cupom entrou por cima dos preços da campanha. A [Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y), de R$ 169 por R$ 129 no site, saiu por R$ 109,65, e no Outlet o desconto também entrou por cima do preço riscado. A loja aceita um cupom por pedido: compare o resultado dos 15% com as condições da campanha da própria Insider antes de pagar.",
           "**Compre 1, Ganhe 1 (teste no carrinho):** o banner da loja manda usar o cupom da campanha, que deu 5%. No kit Daily T-shirt + Cueca Boxer Comfort, de R$ 139 com a cueca grátis, esse cupom deixou o total em R$ 132,05; o EMCASACOMCECILIA deixou em R$ 118,15, com a cueca grátis mantida. Como a loja aceita um cupom por pedido, fique com o EMCASACOMCECILIA.",
           "**Promoção com regra própria:** quando a página do produto avisa que o desconto não acumula com cupons, como na promoção de R$ 100 OFF, o cupom não entra naquele item, mas continua valendo nos outros do carrinho.",
           "**Lançamentos:** nos primeiros dias, o lançamento pode ficar fora do cupom. Depois, mesmo com a etiqueta de lançamento, o desconto entra: no nosso teste, a Tech T-Shirt recebeu os 15%. O resumo do pedido mostra a linha do cupom em cada item que entrou nele.",
           "**Pix:** em outubro, a loja anunciava desconto no Pix, também na coleção da Black Friday, mas o percentual mudava entre a barra do site e os banners; confira o percentual no checkout. Os termos de uso trazem ainda o Pix parcelado em até 4 vezes sem juros; o checkout mostra se o desconto vale nessa opção. O desconto do Pix não vale na compra de gift card.",
           "**Cartão e boleto:** cartão em até 3 vezes sem juros, ou de 4 a 10 vezes com juros, e boleto à vista.",
           "**Frete grátis:** a partir de R$ 399, valor contado depois do desconto do cupom. Em algumas janelas da campanha, como a de fim de outubro, o frete foi grátis em qualquer pedido.",
-          "**Exemplo:** quatro Tech T-Shirts e duas cuecas Comfort somavam R$ 674 em outubro. O cupom tira R$ 101,10, e o pedido fica em R$ 572,90, ainda acima dos R$ 399 do frete grátis. No Pix, entra também o desconto da loja, que o resumo do checkout mostra antes de pagar."
+          "**Exemplo:** quatro Tech T-Shirts e duas [cuecas Comfort](https://creators.insiderstore.com.br/ptFyZqS) somavam R$ 674 em outubro. O cupom tira R$ 101,10, e o pedido fica em R$ 572,90, ainda acima dos R$ 399 do frete grátis. No Pix, entra também o desconto da loja, que o resumo do checkout mostra antes de pagar."
         ],
         "links": [
           {
@@ -56337,7 +56337,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Insider não publica prazos por região: o carrinho mostra as opções de entrega depois do CEP, e o prazo começa a contar quando o pagamento é aprovado. A central de ajuda avisa que os prazos podem mudar em períodos de alta demanda, como a Black Friday.",
           "Vale levar o aviso a sério: no Reclame Aqui, nos últimos 12 meses, mais de dois terços das reclamações contra a Insider vieram do semestre que inclui a Black Friday e o Natal, e a entrega é o problema mais citado. Isso serve de contexto para planejar a compra com folga, não como previsão do prazo do seu pedido.",
-          "O prazo do frete grátis para quatro Tech T-Shirts (R$ 516, acima do frete grátis), com o CEP do centro de 12 capitais, somado a um dia útil de folga, dá a data limite para o pedido chegar até 24 de dezembro, uma quinta-feira."
+          "O prazo do frete grátis para quatro [Tech T-Shirts](https://creators.insiderstore.com.br/axB7p3y) (R$ 516, acima do frete grátis), com o CEP do centro de 12 capitais, somado a um dia útil de folga, dá a data limite para o pedido chegar até 24 de dezembro, uma quinta-feira."
         ],
         "comparisonTable": {
           "caption": "Simulação com quatro Tech T-Shirts e o CEP do centro de cada capital. As datas-limite são estimativas nossas, não garantia de entrega. Refaça a simulação com seu CEP e considere o prazo de aprovação do pagamento.",
@@ -56577,14 +56577,14 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O kit de três Tech femininas saía a R$ 118,50 por camiseta, contra R$ 129 da avulsa: economia de R$ 31,50 no kit. No de cinco, cada uma saía por R$ 108,88. O Kit 3 Daily quase empata com as avulsas, R$ 290,76 contra R$ 297. A conta de cada kit está no [guia do kit Insider](/reviews/kit-insider-quando-compensa); as diferenças de tecido e caimento entre as linhas, em [Camiseta feminina Insider: qual escolher](/reviews/camiseta-feminina-insider-qual-escolher).",
-          "Com o cupom, a Gola V de R$ 129 sai por R$ 109,65 e a Manga Longa de R$ 199, por R$ 169,15. A Tech feminina, a NEXTECH, a The Perfect Top T-Shirt e as Skin Cropped aparecem na loja com a etiqueta de lançamento, e o cupom pode ficar de fora delas nos primeiros dias: o resumo do carrinho mostra a linha do cupom em cada item que entrou. A Daily masculina avisa na página que não aceita cupom; na feminina, confira no carrinho. Os preços mudam ao longo da campanha: confira no site no dia.",
+          "Com o cupom, a Gola V de R$ 129 sai por R$ 109,65 e a Manga Longa de R$ 199, por R$ 169,15. A Tech feminina, a NEXTECH, a [The Perfect Top T-Shirt](https://creators.insiderstore.com.br/ZxySZ23) e as Skin Cropped aparecem na loja com a etiqueta de lançamento, e o cupom pode ficar de fora delas nos primeiros dias: o resumo do carrinho mostra a linha do cupom em cada item que entrou. A [Daily masculina](https://creators.insiderstore.com.br/bRopqTz) avisa na página que não aceita cupom; na feminina, confira no carrinho. Os preços mudam ao longo da campanha: confira no site no dia.",
           "Para saber o que comprar agora, peça por peça, veja [O que comprar na Insider na Black Friday](/reviews/promocao-insider-selecao-com-cupom): a seleção traz calcinhas, blusas, vestidos e o casaco com o preço conferido na sacola e o total com o cupom EMCASACOMCECILIA."
         ]
       },
       {
         "heading": "Calcinhas, sutiãs e underwear feminino",
         "paragraphs": [
-          "Nos exemplos de underwear feminino de outubro, os kits de calcinha saíam mais baratos por peça que a avulsa, e os valores do Outlet eram menores. A Calcinha Biquíni Brief estava a R$ 49, de R$ 69, e o Kit 3 Calcinhas Brief a R$ 139,90, de R$ 207. No fim do mês, o mesmo kit de três apareceu no Outlet a R$ 118,20, e o de cinco a R$ 190,19, de R$ 345."
+          "Nos exemplos de underwear feminino de outubro, os kits de calcinha saíam mais baratos por peça que a avulsa, e os valores do Outlet eram menores. A [Calcinha Biquíni Brief](https://creators.insiderstore.com.br/yqQ53TN) estava a R$ 49, de R$ 69, e o Kit 3 Calcinhas Brief a R$ 139,90, de R$ 207. No fim do mês, o mesmo kit de três apareceu no Outlet a R$ 118,20, e o de cinco a R$ 190,19, de R$ 345."
         ],
         "image": {
           "src": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-kit-5-brief.webp",
@@ -56647,13 +56647,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os kits de calcinha do Outlet são fechados: o de cinco deixa escolher até duas cores, e os de três não deixam escolher cor nem tamanho. Os três sutiãs Nakedfeel (Decote V, Top e com alças removíveis) estavam no preço cheio, de R$ 189 a R$ 199, e neles só o cupom baixa. A política da Insider restringe a troca comercial de calcinhas e sutiãs a defeito; confira o tamanho e as condições antes de fechar."
+          "Os kits de calcinha do Outlet são fechados: o de cinco deixa escolher até duas cores, e os de três não deixam escolher cor nem tamanho. Os três [sutiãs Nakedfeel](https://creators.insiderstore.com.br/eh8ym4n) (Decote V, Top e com alças removíveis) estavam no preço cheio, de R$ 189 a R$ 199, e neles só o cupom baixa. A política da Insider restringe a troca comercial de calcinhas e sutiãs a defeito; confira o tamanho e as condições antes de fechar."
         ]
       },
       {
         "heading": "Outlet feminino: o que vale a pena",
         "paragraphs": [
-          "O Outlet é a seção de últimas unidades da Insider: peças e cores que saíram de linha, com desconto de 32% a 50% e sem reposição. A página feminina tinha 41 peças no fim de outubro, 39 à venda, a maioria com 40% OFF, e a grade de cada uma só encolhe. Vale a pena quando a sua cor e o seu tamanho ainda aparecem: a Tech feminina e a Gola V a R$ 99, a Regata Intech a R$ 83, a Tech Manga Longa a R$ 143, vestidos, saia, calças e shorts.",
+          "O Outlet é a seção de últimas unidades da Insider: peças e cores que saíram de linha, com desconto de 32% a 50% e sem reposição. A página feminina tinha 41 peças no fim de outubro, 39 à venda, a maioria com 40% OFF, e a grade de cada uma só encolhe. Vale a pena quando a sua cor e o seu tamanho ainda aparecem: a Tech feminina e a Gola V a R$ 99, a [Regata Intech](https://creators.insiderstore.com.br/2LrFuhV) a R$ 83, a Tech Manga Longa a R$ 143, vestidos, saia, calças e shorts.",
           "As 39 peças, por tipo, com o preço final e os tamanhos que sobraram, estão em [Outlet Insider feminino: o que vale a pena](/reviews/outlet-insider-feminino-vale-a-pena). Na Black Friday, compare o preço do Outlet com o da coleção da campanha: a mesma peça pode estar nos dois lugares com preços diferentes."
         ]
       },
@@ -56662,12 +56662,12 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Cupom:** o EMCASACOMCECILIA dá 15% OFF na loja online, sem valor mínimo, com todas as formas de pagamento, e soma com os preços da Black Friday, salvo quando a promoção disser o contrário. A loja aceita um cupom por pedido.",
           "**Compre 1, Ganhe 1 (teste no carrinho):** o banner da loja manda usar o cupom da campanha, que deu 5%. No kit Daily T-shirt + Cueca Boxer Comfort, de R$ 139 com a cueca grátis, esse cupom deixou o total em R$ 132,05; o EMCASACOMCECILIA deixou em R$ 118,15, com a cueca grátis mantida. Como a loja aceita um cupom por pedido, fique com o EMCASACOMCECILIA.",
-          "**Teste no carrinho:** no fim de outubro, a Calça Pantalona InLounge, de R$ 299 por R$ 179 no Outlet, saiu por R$ 152,15 com o cupom. Ele também entrou em peças com etiqueta de lançamento, como os sutiãs Nakedfeel e o Perfect Body Manga Longa.",
+          "**Teste no carrinho:** no fim de outubro, a [Calça Pantalona InLounge](https://creators.insiderstore.com.br/n8gNau3), de R$ 299 por R$ 179 no Outlet, saiu por R$ 152,15 com o cupom. Ele também entrou em peças com etiqueta de lançamento, como os [sutiãs Nakedfeel](https://creators.insiderstore.com.br/eh8ym4n) e o [Perfect Body Manga Longa](https://creators.insiderstore.com.br/nn8AbUa).",
           "**Promoção com regra própria:** quando a página do produto avisa que o desconto não acumula com cupons, como na janela de R$ 100 OFF, o cupom não entra naquele item, mas continua valendo nos outros do carrinho.",
           "**Pix:** a loja anunciava desconto no Pix também na coleção da Black Friday, e ele soma com o cupom. O percentual muda entre a barra do site e os banners; confira no checkout. O desconto do Pix não vale em gift card.",
           "**Cartão e boleto:** cartão em até 3 vezes sem juros, ou de 4 a 10 vezes com juros, e boleto à vista.",
           "**Frete grátis:** a partir de R$ 399, valor contado depois do desconto do cupom. Em algumas janelas da campanha, como a de fim de outubro, o frete foi grátis em qualquer pedido.",
-          "**Exemplo:** três Tech femininas avulsas e o Kit 3 Calcinhas Brief, nos preços de outubro, somam R$ 526,90. O cupom tira R$ 79,04, e o pedido fica em R$ 447,86, ainda acima dos R$ 399 do frete grátis. No Pix, entra também o desconto da loja, que o resumo do checkout mostra antes de pagar.",
+          "**Exemplo:** três [Tech femininas](https://creators.insiderstore.com.br/52ZMYx2) avulsas e o [Kit 3 Calcinhas Brief](https://creators.insiderstore.com.br/x4Qv8HF), nos preços de outubro, somam R$ 526,90. O cupom tira R$ 79,04, e o pedido fica em R$ 447,86, ainda acima dos R$ 399 do frete grátis. No Pix, entra também o desconto da loja, que o resumo do checkout mostra antes de pagar.",
           "**Loja física:** o cupom não vale na Concept Store do MorumbiShopping, em São Paulo. Cupons e cashback são só do site, e pedidos do site não são retirados nem trocados lá."
         ],
         "links": [
@@ -56686,7 +56686,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A troca é grátis e sai pelo portal de trocas do site, pelo titular da compra. Por arrependimento, o prazo é de 7 dias úteis depois do recebimento; por tamanho, cor ou modelo, 21 dias corridos, com a peça sem uso, com etiqueta e sem sinal de lavagem; por defeito, 180 dias, com fotos. Calcinhas, sutiãs e moda praia não têm troca voluntária, só por defeito, e isso vale para cada peça de um kit; o arrependimento da compra online segue valendo no prazo acima.",
           "Para presente, quem ganhou pede a troca sem nota fiscal e sem a embalagem, e recebe um vale-troca no valor do item para usar no site, em até 21 dias corridos depois da entrega. O prazo conta da entrega, não do Natal. Se o pedido veio com brinde e a peça volta, o brinde volta junto.",
-          "Antes de escolher o tamanho, use a [tabela de medidas Insider](/reviews/tabela-de-medidas-insider): a Tech feminina vai do PP ao XGG, com caimento levemente ajustado, sem comprimir, e a tabela mede o busto e a largura da peça deitada. A Gola V feminina vai do PP ao GG."
+          "Antes de escolher o tamanho, use a [tabela de medidas Insider](/reviews/tabela-de-medidas-insider): a [Tech feminina](https://creators.insiderstore.com.br/52ZMYx2) vai do PP ao XGG, com caimento levemente ajustado, sem comprimir, e a tabela mede o busto e a largura da peça deitada. A [Gola V feminina](https://creators.insiderstore.com.br/hwvgusR) vai do PP ao GG."
         ],
         "image": {
           "src": "/images/reviews/insider/insider-tabela-medidas-tech-t-shirt-feminina.webp",
@@ -56807,7 +56807,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que já está no ar na Black Month da Nestlé Nutre",
         "paragraphs": [
           "\"Começou a Black Month Nestlé Nutre\", diz a home da loja. Na mensagem que a Nestlé Nutre mandou aos clientes, o Black Month é \"novembro inteiro de ofertas\" nas categorias Nutrição Especializada, Nutrição Infantil, Nutrição Adulta e Vitaminas, com \"até 25% OFF\" e \"+10% OFF adicional com cupom\". Esse cupom, para quem compra pelo site, é o CECI: 10% OFF, com todas as formas de pagamento. A loja aceita um cupom por pedido, então o CECI entra no lugar de qualquer outro código, não junto.",
-          "A arte de início de novembro, pela Nutrição Adulta, mostra o Nutren Just Protein e o Nutren Control, sem percentual por produto. O esquenta em Materna, Ascenda, Nestonutri, Molico e Vital vai de 1º a 22 de novembro ou enquanto durarem os estoques, com até 25% OFF pelo banner da loja, exceto fórmulas infantis para lactentes e de seguimento para lactentes. Esses materiais não mostram todos os produtos em promoção; confira o preço do item escolhido no site.",
+          "A arte de início de novembro, pela Nutrição Adulta, mostra o [Nutren Just Protein](https://www.nestlenutre.com.br/nutren-just-protein-280g) e o Nutren Control, sem percentual por produto. O esquenta em Materna, Ascenda, Nestonutri, Molico e Vital vai de 1º a 22 de novembro ou enquanto durarem os estoques, com até 25% OFF pelo banner da loja, exceto fórmulas infantis para lactentes e de seguimento para lactentes. Esses materiais não mostram todos os produtos em promoção; confira o preço do item escolhido no site.",
           "Use as tabelas de outubro como referência para o mesmo SKU, tamanho, quantidade e forma de compra. Some o frete e confira o CECI no carrinho. Para o Just Protein e o Nutren Control, a tabela deles está mais abaixo. A Black Friday de 2026 é em 27/11 e a Cyber Monday em 30/11; uma oferta anterior ou posterior pode ser melhor para o seu pedido.",
           "Dois cuidados: o CECI não vale em fórmulas infantis de 0 a 12 meses, e o Nestonutri, para crianças de 1 a 3 anos, segue a indicação do rótulo; na dúvida, o pediatra."
         ]
@@ -56833,13 +56833,13 @@ export const reviewsData: unknown[] = [
               "Igual"
             ],
             [
-              "Nutren Senior Zero Lactose Sem Sabor, 740 g",
+              "[Nutren Senior Zero Lactose Sem Sabor, 740 g](https://www.nestlenutre.com.br/senior-sem-sabor-zero-lactose-lata-740)",
               "R$ 190,61",
               "R$ 190,61",
               "Igual"
             ],
             [
-              "Kit Nutren Senior Sem Sabor, 2 latas de 740 g",
+              "[Kit Nutren Senior Sem Sabor, 2 latas de 740 g](https://www.nestlenutre.com.br/kit-nutren-senior-740g-1)",
               "R$ 263,49",
               "R$ 263,49",
               "Igual"
@@ -56851,31 +56851,31 @@ export const reviewsData: unknown[] = [
               "Melhorou"
             ],
             [
-              "Nutren Just Protein, 280 g",
+              "[Nutren Just Protein, 280 g](https://www.nestlenutre.com.br/nutren-just-protein-280g)",
               "R$ 115,91",
               "R$ 103,03",
               "Melhorou"
             ],
             [
-              "Combo Nutren Just Protein, 2 latas de 280 g",
+              "[Combo Nutren Just Protein, 2 latas de 280 g](https://www.nestlenutre.com.br/combo-nutren-just-protein-lata-2-unidades)",
               "R$ 193,18",
               "R$ 167,43",
               "Melhorou"
             ],
             [
-              "FiberMais Sem Sabor, lata de 260 g",
+              "[FiberMais Sem Sabor, lata de 260 g](https://www.nestlenutre.com.br/nutricao-adulta/fibermais-sem-sabor-lata-260g)",
               "R$ 144,89",
               "R$ 115,91",
               "Melhorou"
             ],
             [
-              "Nutren Control Baunilha, 740 g",
+              "[Nutren Control Baunilha, 740 g](https://www.nestlenutre.com.br/nutren-control-baunilha-740g)",
               "R$ 171,91",
               "R$ 161,17",
               "Melhorou"
             ],
             [
-              "Nutren Active Baunilha, 400 g",
+              "[Nutren Active Baunilha, 400 g](https://www.nestlenutre.com.br/nutren-active-baunilha-lata-400g)",
               "R$ 50,79",
               "R$ 63,49",
               "Subiu"
@@ -56919,19 +56919,19 @@ export const reviewsData: unknown[] = [
               "R$ 20,60"
             ],
             [
-              "Kit com 2 latas de 740 g, Sem Sabor",
+              "[Kit com 2 latas de 740 g, Sem Sabor](https://www.nestlenutre.com.br/kit-nutren-senior-740g-1)",
               "R$ 263,49",
               "R$ 237,14",
               "R$ 16,02"
             ],
             [
-              "Zero Lactose, lata de 740 g",
+              "[Zero Lactose, lata de 740 g](https://www.nestlenutre.com.br/senior-sem-sabor-zero-lactose-lata-740)",
               "R$ 190,61",
               "R$ 171,55",
               "R$ 23,18"
             ],
             [
-              "Kit Zero Lactose, 2 latas de 740 g",
+              "[Kit Zero Lactose, 2 latas de 740 g](https://www.nestlenutre.com.br/senior-kit-sem-sabor-zero-lactose-lata-740)",
               "R$ 296,50",
               "R$ 266,85",
               "R$ 18,03"
@@ -56952,12 +56952,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Just Protein, creatina e FiberMais: a conta por porção",
         "bullets": [
-          "**Nutren Just Protein, 280 g:** whey isolado sem sabor. A porção é de 15 g, com 13 g de proteína: a lata rende 18,67 porções e 242,67 g de proteína. No nosso carrinho, o CECI levou os R$ 103,03 a R$ 92,72, o que dá R$ 4,97 por porção e R$ 38,21 por 100 g de proteína.",
-          "**Combo com 2 latas de Just Protein:** de R$ 167,43 a R$ 150,69 com o CECI, ou R$ 31,05 por 100 g de proteína. O rótulo pede usar o conteúdo em até 30 dias depois de aberto; o combo serve a quem já usa o produto todo mês.",
+          "[Nutren Just Protein, 280 g](https://www.nestlenutre.com.br/nutren-just-protein-280g): whey isolado sem sabor. A porção é de 15 g, com 13 g de proteína: a lata rende 18,67 porções e 242,67 g de proteína. No nosso carrinho, o CECI levou os R$ 103,03 a R$ 92,72, o que dá R$ 4,97 por porção e R$ 38,21 por 100 g de proteína.",
+          "[Combo com 2 latas de Just Protein](https://www.nestlenutre.com.br/combo-nutren-just-protein-lata-2-unidades): de R$ 167,43 a R$ 150,69 com o CECI, ou R$ 31,05 por 100 g de proteína. O rótulo pede usar o conteúdo em até 30 dias depois de aberto; o combo serve a quem já usa o produto todo mês.",
           "**Antes de escolher o Just Protein:** o rótulo informa que ele contém lactose e derivados de leite e de soja, e que gestantes, lactantes e crianças não devem consumir.",
           "**Nutren Creatina, 300 g:** não localizamos o produto no site na leitura de novembro. Em outubro, o sachê custava R$ 59,90, com porção de 3 g e 100 porções por embalagem. Se ele voltar, o CECI deve entrar como nos outros itens; confira no carrinho.",
-          "**FiberMais Sem Sabor, lata de 260 g:** de R$ 115,91 a R$ 104,32 com o CECI. A porção é de 3 colheres de chá (7,6 g), cerca de 34 por lata, o que dá perto de R$ 3,05 por porção. Depois de aberta, a lata deve ser consumida em até 60 dias.",
-          "**FiberMais em sachês, display com 10 de 5 g:** de R$ 45,51 a R$ 40,96 com o CECI, ou R$ 4,10 por sachê. Por 100 g, sai pelo dobro da lata (R$ 81,92 contra R$ 40,12). É a opção para levar na bolsa ou para testar o produto antes de comprar a lata.",
+          "[FiberMais Sem Sabor, lata de 260 g](https://www.nestlenutre.com.br/nutricao-adulta/fibermais-sem-sabor-lata-260g): de R$ 115,91 a R$ 104,32 com o CECI. A porção é de 3 colheres de chá (7,6 g), cerca de 34 por lata, o que dá perto de R$ 3,05 por porção. Depois de aberta, a lata deve ser consumida em até 60 dias.",
+          "[FiberMais em sachês, display com 10 de 5 g](https://www.nestlenutre.com.br/fibermais-sem-sabor-display-10-sache-5): de R$ 45,51 a R$ 40,96 com o CECI, ou R$ 4,10 por sachê. Por 100 g, sai pelo dobro da lata (R$ 81,92 contra R$ 40,12). É a opção para levar na bolsa ou para testar o produto antes de comprar a lata.",
           "**Como usar o FiberMais:** a Nestlé orienta acrescentar o pó ao fim do preparo, sem ferver.",
           "**Nutren Control e Nutren Active:** o Control ficou mais barato que em outubro, e o Active, mais caro. Se o Active é o que você toma, compare com o que pagou da última vez antes de repor."
         ],
@@ -56994,31 +56994,31 @@ export const reviewsData: unknown[] = [
               "R$ 150,55"
             ],
             [
-              "Nutren Senior Zero Lactose Sem Sabor, lata de 740 g",
+              "[Nutren Senior Zero Lactose Sem Sabor, lata de 740 g](https://www.nestlenutre.com.br/senior-sem-sabor-zero-lactose-lata-740)",
               "R$ 211,79",
               "R$ 190,61",
               "R$ 169,43"
             ],
             [
-              "Kit Nutren Senior Sem Sabor, 2 latas de 740 g",
+              "[Kit Nutren Senior Sem Sabor, 2 latas de 740 g](https://www.nestlenutre.com.br/kit-nutren-senior-740g-1)",
               "—",
               "R$ 263,49",
               "R$ 237,14"
             ],
             [
-              "Kit Nutren Senior Zero Lactose Sem Sabor, 2 latas de 740 g",
+              "[Kit Nutren Senior Zero Lactose Sem Sabor, 2 latas de 740 g](https://www.nestlenutre.com.br/senior-kit-sem-sabor-zero-lactose-lata-740)",
               "—",
               "R$ 296,50",
               "R$ 266,85"
             ],
             [
-              "Combo Nutren Senior Sem Sabor, 2 latas de 740 g",
+              "[Combo Nutren Senior Sem Sabor, 2 latas de 740 g](https://www.nestlenutre.com.br/combo-nutren-senior-po-740g-2-unidades)",
               "R$ 376,38",
               "R$ 319,92",
               "R$ 282,29"
             ],
             [
-              "Nutren Senior Café com Leite, lata de 370 g",
+              "[Nutren Senior Café com Leite, lata de 370 g](https://www.nestlenutre.com.br/nutren-senior-cafe-leite-po-lata-370g)",
               "—",
               "R$ 100,79",
               "R$ 90,71"
@@ -57070,13 +57070,13 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Nutren Just Protein, lata de 280 g",
+              "[Nutren Just Protein, lata de 280 g](https://www.nestlenutre.com.br/nutren-just-protein-280g)",
               "R$ 128,79",
               "R$ 115,91",
               "R$ 103,03"
             ],
             [
-              "Combo Nutren Just Protein, 2 latas de 280 g",
+              "[Combo Nutren Just Protein, 2 latas de 280 g](https://www.nestlenutre.com.br/combo-nutren-just-protein-lata-2-unidades)",
               "R$ 257,58",
               "R$ 193,18",
               "R$ 167,43"
@@ -57088,19 +57088,19 @@ export const reviewsData: unknown[] = [
               "R$ 53,91"
             ],
             [
-              "FiberMais Sem Sabor, lata de 260 g",
+              "[FiberMais Sem Sabor, lata de 260 g](https://www.nestlenutre.com.br/nutricao-adulta/fibermais-sem-sabor-lata-260g)",
               "—",
               "R$ 144,89",
               "R$ 130,40"
             ],
             [
-              "Nutren Control Baunilha, lata de 740 g",
+              "[Nutren Control Baunilha, lata de 740 g](https://www.nestlenutre.com.br/nutren-control-baunilha-740g)",
               "R$ 214,89",
               "R$ 171,91",
               "R$ 150,42"
             ],
             [
-              "Nutren Active Baunilha, lata de 400 g",
+              "[Nutren Active Baunilha, lata de 400 g](https://www.nestlenutre.com.br/nutren-active-baunilha-lata-400g)",
               "R$ 63,49",
               "R$ 50,79",
               "R$ 44,44"
@@ -57137,8 +57137,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Assinatura:** a FAQ da loja informa 10% OFF nos três primeiros pedidos e 15% a partir da 4ª recorrência consecutiva, em assinaturas acima de R$ 200, sobre o preço de compra única. As entregas são a cada 30, 60 ou 90 dias. As tabelas acima registram os preços de assinatura vistos em outubro, sem garantir o valor de uma cobrança futura.",
           "**Regras da assinatura:** uma assinatura ativa por CPF, paga só no cartão de crédito, com frete grátis acima de R$ 200. Dá para pular até duas entregas por ano e cancelar sem custo.",
-          "**Compra única com o CECI:** o cupom dá 10% OFF, com todas as formas de pagamento, e soma com os preços da Black Month. No nosso carrinho de novembro, ele entrou em nove itens de uma vez, kits inclusive: a lata de 740 g do Nutren Senior Zero Lactose foi de R$ 190,61 a R$ 171,55, e o kit com duas latas sem sabor, de R$ 263,49 a R$ 237,14.",
-          "**Qual sai mais barato?** Em novembro, a diferença entre os dois caminhos é pequena. A lata de 740 g do Nutren Senior custa R$ 150,55 na assinatura e R$ 152,43 na compra única com o CECI; a Zero Lactose, R$ 169,43 e R$ 171,55; o Just Protein, R$ 90,15 e R$ 92,72; o kit sem sabor, R$ 237,14 nos dois. A assinatura só compensa para quem vai repor no ritmo das entregas: o desconto progressivo exige recorrências consecutivas.",
+          "**Compra única com o CECI:** o cupom dá 10% OFF, com todas as formas de pagamento, e soma com os preços da Black Month. No nosso carrinho de novembro, ele entrou em nove itens de uma vez, kits inclusive: a lata de 740 g do [Nutren Senior Zero Lactose](https://www.nestlenutre.com.br/senior-sem-sabor-zero-lactose-lata-740) foi de R$ 190,61 a R$ 171,55, e o kit com duas latas sem sabor, de R$ 263,49 a R$ 237,14.",
+          "**Qual sai mais barato?** Em novembro, a diferença entre os dois caminhos é pequena. A lata de 740 g do Nutren Senior custa R$ 150,55 na assinatura e R$ 152,43 na compra única com o CECI; a Zero Lactose, R$ 169,43 e R$ 171,55; o [Just Protein](https://www.nestlenutre.com.br/nutren-just-protein-280g), R$ 90,15 e R$ 92,72; o kit sem sabor, R$ 237,14 nos dois. A assinatura só compensa para quem vai repor no ritmo das entregas: o desconto progressivo exige recorrências consecutivas.",
           "**Frete grátis:** acima de R$ 400 na compra única, na transportadora que o site define, e acima de R$ 200 na assinatura. Uma lata de 740 g sozinha não chega a R$ 400; três latas zero lactose passam do valor mesmo com o cupom (R$ 514,65, pela nossa conta)."
         ],
         "links": [
@@ -57171,7 +57171,7 @@ export const reviewsData: unknown[] = [
         "heading": "Entrega e prazo para o Natal",
         "paragraphs": [
           "O prazo atual aparece no cálculo de frete pelo CEP. Pelos termos de uso, o pedido pode levar até 48 horas para ser processado, e o prazo de entrega conta a partir da nota fiscal enviada por e-mail. A tabela abaixo usa os prazos de outubro com essa premissa; não é data de entrega contratada para novembro ou dezembro. Refaça o cálculo para o endereço de entrega.",
-          "Em outubro, o calculador de frete da loja deu o prazo de três latas de 740 g do Nutren Senior Zero Lactose (R$ 571,83, acima do frete grátis) com o CEP do centro de 12 capitais. Somando os dois dias de processamento e um dia útil de folga, a tabela mostra até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
+          "Em outubro, o calculador de frete da loja deu o prazo de três latas de 740 g do [Nutren Senior Zero Lactose](https://www.nestlenutre.com.br/senior-sem-sabor-zero-lactose-lata-740) (R$ 571,83, acima do frete grátis) com o CEP do centro de 12 capitais. Somando os dois dias de processamento e um dia útil de folga, a tabela mostra até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
         ],
         "comparisonTable": {
           "caption": "Prazo do frete grátis no calculador da Nestlé Nutre em outubro, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça o cálculo com o seu CEP.",
@@ -57453,67 +57453,67 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Geladeira Electrolux Cycle Defrost 260 L (DC35A)",
+              "[Geladeira Electrolux Cycle Defrost 260 L (DC35A)](https://www.magazinevoce.com.br/magazineemcasacomcecilia/geladeira-electrolux-cycle-defrost-260l-super-freezer-duplex-branca-dc35a/p/013070701/ed/ref2/)",
               "R$ 2.199,00",
               "R$ 2.089,05",
               "Melhorou"
             ],
             [
-              "Geladeira Consul Frost Free 377 L (CRM44MBBNA)",
+              "[Geladeira Consul Frost Free 377 L (CRM44MBBNA)](https://www.magazinevoce.com.br/magazineemcasacomcecilia/geladeira-refrigerador-consul-smart-frost-free-duplex-branca-377l-crm44mbana/p/240424900/ed/refr/)",
               "R$ 2.999,00",
               "R$ 2.849,05",
               "Subiu"
             ],
             [
-              "Geladeira Electrolux Frost Free 400 L (IF44)",
+              "[Geladeira Electrolux Frost Free 400 L (IF44)](https://www.magazinevoce.com.br/magazineemcasacomcecilia/geladeira-refrigerador-electrolux-frost-free-duplex-branca-400l-if44/p/241076000/ed/refr/)",
               "R$ 2.841,05",
               "R$ 2.699,00",
               "Melhorou no cartão, igual no Pix"
             ],
             [
-              "Geladeira Brastemp Frost Free Inox 512 L (BRM62AK)",
+              "[Geladeira Brastemp Frost Free Inox 512 L (BRM62AK)](https://www.magazinevoce.com.br/magazineemcasacomcecilia/geladeira-refrigerador-brastemp-frost-free-duplex-inox-512l-brm62ak-bivolt/p/241074500/ed/refr/)",
               "R$ 3.916,49",
               "R$ 3.799,00",
               "Subiu"
             ],
             [
-              "Lavadora Electrolux 15 kg (LEC15)",
+              "[Lavadora Electrolux 15 kg (LEC15)](https://www.magazinevoce.com.br/magazineemcasacomcecilia/lavadora-de-roupas-electrolux-15kg-cesto-inox-11-programas-de-lavagem-branco-premium-care-jet-clean-e-time-control-lec15/p/238284500/ed/lava/)",
               "R$ 2.099,00",
               "R$ 1.994,05",
               "Praticamente igual"
             ],
             [
-              "Lavadora Brastemp 14 kg (BWJ14ABANA)",
+              "[Lavadora Brastemp 14 kg (BWJ14ABANA)](https://www.magazinevoce.com.br/magazineemcasacomcecilia/lavadora-de-roupas-brastemp-14kg-cesto-inox-12-programas-de-lavagem-branca-bwj14abana/p/240738000/ed/lava/)",
               "R$ 2.099,00",
               "R$ 1.994,05",
               "Subiu"
             ],
             [
-              "Micro-ondas Electrolux 34 L (MEO44)",
+              "[Micro-ondas Electrolux 34 L (MEO44)](https://www.magazinevoce.com.br/magazineemcasacomcecilia/micro-ondas-electrolux-de-bancada-branco-com-funcao-tira-odor-e-manter-aquecido-34l-meo44/p/011398601/ed/mond/)",
               "R$ 649,00",
               "R$ 616,55",
               "Igual"
             ],
             [
-              "Fogão 4 bocas Esmaltec Ideal Pop 4120",
+              "[Fogão 4 bocas Esmaltec Ideal Pop 4120](https://www.magazinevoce.com.br/magazineemcasacomcecilia/fogao-4-bocas-esmaltec-preto-ideal-pop-4120/p/238635100/ed/fg4b/)",
               "R$ 659,00",
               "R$ 606,28",
               "Subiu"
             ],
             [
-              "Fogão 4 bocas Consul Inox (CFO4NARUNA)",
+              "[Fogão 4 bocas Consul Inox (CFO4NARUNA)](https://www.magazinevoce.com.br/magazineemcasacomcecilia/fogao-4-bocas-consul-inox-cfo4naruna/p/214469000/ed/fg4b/)",
               "R$ 1.282,04",
               "R$ 1.217,94",
               "Melhorou"
             ],
             [
-              "Panela de pressão elétrica digital Mondial 5 L",
+              "[Panela de pressão elétrica digital Mondial 5 L](https://www.magazinevoce.com.br/magazineemcasacomcecilia/panela-de-pressao-eletrica-digital-mondial-5l-900w-digital-master-cooker-pe-38/p/236680300/ep/eppe/)",
               "R$ 368,32",
               "R$ 349,90",
               "Melhorou"
             ],
             [
-              "Aspirador vertical Electrolux STK14",
+              "[Aspirador vertical Electrolux STK14](https://www.magazinevoce.com.br/magazineemcasacomcecilia/aspirador-de-po-vertical-e-portatil-electrolux-filtro-hepa-1450w-plus-stk14-denim-blue/p/230023900/ep/elat/)",
               "R$ 177,89",
               "R$ 177,89",
               "Melhorou"
@@ -57539,49 +57539,49 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Geladeira Electrolux 260 L (DC35A)",
+              "[Geladeira Electrolux 260 L (DC35A)](https://www.magazinevoce.com.br/magazineemcasacomcecilia/geladeira-electrolux-cycle-defrost-260l-super-freezer-duplex-branca-dc35a/p/013070701/ed/ref2/)",
               "40EMCASACOMCECILIA",
               "R$ 2.159,00",
               "R$ 2.049,05"
             ],
             [
-              "Geladeira Electrolux Frost Free 400 L (IF44)",
+              "[Geladeira Electrolux Frost Free 400 L (IF44)](https://www.magazinevoce.com.br/magazineemcasacomcecilia/geladeira-refrigerador-electrolux-frost-free-duplex-branca-400l-if44/p/241076000/ed/refr/)",
               "50EMCASACOMCECILIA",
               "R$ 2.791,05",
               "R$ 2.649,00"
             ],
             [
-              "Geladeira Consul Frost Free 377 L",
+              "[Geladeira Consul Frost Free 377 L](https://www.magazinevoce.com.br/magazineemcasacomcecilia/geladeira-refrigerador-consul-smart-frost-free-duplex-branca-377l-crm44mbana/p/240424900/ed/refr/)",
               "50EMCASACOMCECILIA",
               "R$ 2.949,00",
               "R$ 2.799,05"
             ],
             [
-              "Geladeira Brastemp Inox 512 L",
+              "[Geladeira Brastemp Inox 512 L](https://www.magazinevoce.com.br/magazineemcasacomcecilia/geladeira-refrigerador-brastemp-frost-free-duplex-inox-512l-brm62ak-bivolt/p/241074500/ed/refr/)",
               "70EMCASACOMCECILIA",
               "R$ 3.846,49",
               "R$ 3.729,00"
             ],
             [
-              "Lavadoras Electrolux 15 kg e Brastemp 14 kg",
+              "Lavadoras [Electrolux 15 kg](https://www.magazinevoce.com.br/magazineemcasacomcecilia/lavadora-de-roupas-electrolux-15kg-cesto-inox-11-programas-de-lavagem-branco-premium-care-jet-clean-e-time-control-lec15/p/238284500/ed/lava/) e [Brastemp 14 kg](https://www.magazinevoce.com.br/magazineemcasacomcecilia/lavadora-de-roupas-brastemp-14kg-cesto-inox-12-programas-de-lavagem-branca-bwj14abana/p/240738000/ed/lava/)",
               "40 ou 30EMCASACOMCECILIA",
               "R$ 2.059,00",
               "R$ 1.964,05"
             ],
             [
-              "Fogão Consul Inox 4 bocas",
+              "[Fogão Consul Inox 4 bocas](https://www.magazinevoce.com.br/magazineemcasacomcecilia/fogao-4-bocas-consul-inox-cfo4naruna/p/214469000/ed/fg4b/)",
               "20EMCASACOMCECILIA",
               "R$ 1.262,04",
               "R$ 1.197,94"
             ],
             [
-              "Fogão Esmaltec Ideal Pop",
+              "[Fogão Esmaltec Ideal Pop](https://www.magazinevoce.com.br/magazineemcasacomcecilia/fogao-4-bocas-esmaltec-preto-ideal-pop-4120/p/238635100/ed/fg4b/)",
               "10EMCASACOMCECILIA",
               "R$ 649,00",
               "R$ 596,28"
             ],
             [
-              "Micro-ondas Electrolux 34 L",
+              "[Micro-ondas Electrolux 34 L](https://www.magazinevoce.com.br/magazineemcasacomcecilia/micro-ondas-electrolux-de-bancada-branco-com-funcao-tira-odor-e-manter-aquecido-34l-meo44/p/011398601/ed/mond/)",
               "10EMCASACOMCECILIA",
               "R$ 639,00",
               "R$ 606,55"
@@ -57615,47 +57615,47 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Geladeira Electrolux Cycle Defrost Duplex 260 L (DC35A)",
+              "[Geladeira Electrolux Cycle Defrost Duplex 260 L (DC35A)](https://www.magazinevoce.com.br/magazineemcasacomcecilia/geladeira-electrolux-cycle-defrost-260l-super-freezer-duplex-branca-dc35a/p/013070701/ed/ref2/)",
               "R$ 2.298,40",
               "R$ 2.160,50"
             ],
             [
-              "Geladeira Consul Frost Free Duplex 377 L (CRM44MBBNA)",
+              "[Geladeira Consul Frost Free Duplex 377 L (CRM44MBBNA)](https://www.magazinevoce.com.br/magazineemcasacomcecilia/geladeira-refrigerador-consul-smart-frost-free-duplex-branca-377l-crm44mbana/p/240424900/ed/refr/)",
               "R$ 2.727,54",
               "R$ 2.591,16"
             ],
             [
-              "Geladeira Electrolux Frost Free Duplex 400 L (IF44)",
+              "[Geladeira Electrolux Frost Free Duplex 400 L (IF44)](https://www.magazinevoce.com.br/magazineemcasacomcecilia/geladeira-refrigerador-electrolux-frost-free-duplex-branca-400l-if44/p/241076000/ed/refr/)",
               "R$ 2.902,15",
               "R$ 2.699,00"
             ],
             [
-              "Geladeira Brastemp Frost Free Duplex Inox 512 L (BRM62AK)",
+              "[Geladeira Brastemp Frost Free Duplex Inox 512 L (BRM62AK)](https://www.magazinevoce.com.br/magazineemcasacomcecilia/geladeira-refrigerador-brastemp-frost-free-duplex-inox-512l-brm62ak-bivolt/p/241074500/ed/refr/)",
               "R$ 3.788,42",
               "R$ 3.599,00"
             ],
             [
-              "Lavadora Electrolux 15 kg (LEC15)",
+              "[Lavadora Electrolux 15 kg (LEC15)](https://www.magazinevoce.com.br/magazineemcasacomcecilia/lavadora-de-roupas-electrolux-15kg-cesto-inox-11-programas-de-lavagem-branco-premium-care-jet-clean-e-time-control-lec15/p/238284500/ed/lava/)",
               "R$ 2.104,21",
               "R$ 1.999,00"
             ],
             [
-              "Lavadora Brastemp 14 kg (BWJ14ABANA)",
+              "[Lavadora Brastemp 14 kg (BWJ14ABANA)](https://www.magazinevoce.com.br/magazineemcasacomcecilia/lavadora-de-roupas-brastemp-14kg-cesto-inox-12-programas-de-lavagem-branca-bwj14abana/p/240738000/ed/lava/)",
               "R$ 1.980,47",
               "R$ 1.881,45"
             ],
             [
-              "Micro-ondas Electrolux 34 L (MEO44)",
+              "[Micro-ondas Electrolux 34 L (MEO44)](https://www.magazinevoce.com.br/magazineemcasacomcecilia/micro-ondas-electrolux-de-bancada-branco-com-funcao-tira-odor-e-manter-aquecido-34l-meo44/p/011398601/ed/mond/)",
               "R$ 649,00",
               "R$ 616,55"
             ],
             [
-              "Fogão 4 bocas Esmaltec Ideal Pop 4120",
+              "[Fogão 4 bocas Esmaltec Ideal Pop 4120](https://www.magazinevoce.com.br/magazineemcasacomcecilia/fogao-4-bocas-esmaltec-preto-ideal-pop-4120/p/238635100/ed/fg4b/)",
               "R$ 598,12",
               "R$ 556,25"
             ],
             [
-              "Fogão 4 bocas Consul Inox (CFO4NARUNA)",
+              "[Fogão 4 bocas Consul Inox (CFO4NARUNA)](https://www.magazinevoce.com.br/magazineemcasacomcecilia/fogao-4-bocas-consul-inox-cfo4naruna/p/214469000/ed/fg4b/)",
               "R$ 1.325,00",
               "R$ 1.258,75"
             ],
@@ -57670,12 +57670,12 @@ export const reviewsData: unknown[] = [
               "R$ 519,00"
             ],
             [
-              "Panela de pressão elétrica digital Mondial 5 L",
+              "[Panela de pressão elétrica digital Mondial 5 L](https://www.magazinevoce.com.br/magazineemcasacomcecilia/panela-de-pressao-eletrica-digital-mondial-5l-900w-digital-master-cooker-pe-38/p/236680300/ep/eppe/)",
               "R$ 398,95",
               "R$ 379,00"
             ],
             [
-              "Aspirador vertical Electrolux STK14",
+              "[Aspirador vertical Electrolux STK14](https://www.magazinevoce.com.br/magazineemcasacomcecilia/aspirador-de-po-vertical-e-portatil-electrolux-filtro-hepa-1450w-plus-stk14-denim-blue/p/230023900/ep/elat/)",
               "R$ 198,95",
               "R$ 189,00"
             ]
@@ -79960,25 +79960,25 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Whey 80% HD Refil 900 g: 23 g em 30 g",
+              "[Whey 80% HD Refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p): 23 g em 30 g",
               "R$ 139,90 → R$ 125,91",
               "R$ 4,20",
               "R$ 18,25"
             ],
             [
-              "Whey 100% HD Refil 900 g: 21 g em 35 g",
+              "[Whey 100% HD Refil 900 g](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p): 21 g em 35 g",
               "R$ 114,90 → R$ 103,41",
               "R$ 4,02",
               "R$ 19,15"
             ],
             [
-              "Whey 100% HD 1,8 kg: 21 g em 35 g",
+              "[Whey 100% HD 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p): 21 g em 35 g",
               "R$ 239,90 → R$ 215,91",
               "R$ 4,20",
               "R$ 19,99"
             ],
             [
-              "Whey 100% HD Pote 900 g: 21 g em 35 g",
+              "[Whey 100% HD Pote 900 g](https://www.blackskullusa.com.br/whey-100-hd-black-skull-900g-wpc-wpi-e-wph/p): 21 g em 35 g",
               "R$ 124,90 → R$ 112,41",
               "R$ 4,37",
               "R$ 20,82"
@@ -79986,13 +79986,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**Whey 80% HD Refil:** a escolha principal. Tem a maior concentração de proteína da tabela e o menor custo por 100 g de proteína. Em outubro custava R$ 159,90; o preço melhorou.",
-          "**Whey 100% HD Refil:** a alternativa de menor desembolso. O pacote custa menos, mas a porção é maior e rende menos proteína, então o custo por proteína fica um pouco acima. Estava a R$ 139,90 em outubro.",
-          "**Whey 100% HD de 1,8 kg:** para quem já usa esse whey e quer comprar menos vezes. A proteína sai mais cara que em dois refis de 900 g, mas o pedido passou do mínimo do frete grátis em São Paulo mesmo com o cupom.",
+          "[Whey 80% HD Refil](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p): a escolha principal. Tem a maior concentração de proteína da tabela e o menor custo por 100 g de proteína. Em outubro custava R$ 159,90; o preço melhorou.",
+          "[Whey 100% HD Refil](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p): a alternativa de menor desembolso. O pacote custa menos, mas a porção é maior e rende menos proteína, então o custo por proteína fica um pouco acima. Estava a R$ 139,90 em outubro.",
+          "[Whey 100% HD de 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p): para quem já usa esse whey e quer comprar menos vezes. A proteína sai mais cara que em dois refis de 900 g, mas o pedido passou do mínimo do frete grátis em São Paulo mesmo com o cupom.",
           "**Pote ou refil:** o conteúdo é o mesmo. O pote custa R$ 10 a mais e faz sentido para quem não tem onde guardar o refil."
         ],
         "postParagraphs": [
-          "Três produtos de nome parecido ficam fora dessa conta porque entregam menos proteína por porção. O Whey Gourmet tem 12 g de proteína em 30 g e custava R$ 95,90 no refil de 900 g. O Whey Protein (WPI, WPC, WPH) em refil tem 11 g em 25 g, a R$ 99,90. O Whey Turbo é um hipercalórico: a porção é de 120 g, com 30 g de proteína e 75 g de carboidrato, a R$ 59,40 no refil de 907 g. Todos os wheys desta seção trazem o aviso \"Contém lactose\" no rótulo.",
+          "Três produtos de nome parecido ficam fora dessa conta porque entregam menos proteína por porção. O [Whey Gourmet](https://www.blackskullusa.com.br/whey-100-gourmet-refil-900/p) tem 12 g de proteína em 30 g e custava R$ 95,90 no refil de 900 g. O [Whey Protein (WPI, WPC, WPH)](https://www.blackskullusa.com.br/whey-protein-refil-black-skull--900g-wpi-wpc-wph/p) em refil tem 11 g em 25 g, a R$ 99,90. O [Whey Turbo](https://www.blackskullusa.com.br/whey-turbo-refil--907g/p) é um hipercalórico: a porção é de 120 g, com 30 g de proteína e 75 g de carboidrato, a R$ 59,40 no refil de 907 g. Todos os wheys desta seção trazem o aviso \"Contém lactose\" no rótulo.",
           "Sabores, versões e a tabela completa estão em [Whey Black Skull: qual escolher entre 80% HD, 100% HD, 3W Core, Gourmet e Turbo](/reviews/whey-black-skull-qual-escolher). Para quem procura ganho calórico, o guia é [Hipercalórico Black Skull: Masstodon 3 kg ou Monstrous 2,7 kg](/reviews/hipercalorico-black-skull-qual-escolher)."
         ]
       },
@@ -80010,32 +80010,32 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Creator Refil 500 g: 100 porções de 5 g",
+              "[Creator Refil 500 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p): 100 porções de 5 g",
               "R$ 39,90 → R$ 35,91",
               "R$ 0,36"
             ],
             [
-              "Creator Pote 300 g: 60 porções de 5 g",
+              "[Creator Pote 300 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--300g/p): 60 porções de 5 g",
               "R$ 29,90 → R$ 26,91",
               "R$ 0,45"
             ],
             [
-              "Creatine Pote 300 g: 60 porções de 5 g",
+              "[Creatine Pote 300 g](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-300g/p): 60 porções de 5 g",
               "R$ 49,90 → R$ 44,91",
               "R$ 0,75"
             ],
             [
-              "Creatine Turbo Pote 300 g: 30 porções de 10 g",
+              "[Creatine Turbo Pote 300 g](https://www.blackskullusa.com.br/creatine-turbo--300g/p): 30 porções de 10 g",
               "R$ 39,90 → R$ 35,91",
               "R$ 1,20"
             ]
           ]
         },
         "bullets": [
-          "**Creator Refil 500 g:** a escolha principal, com o menor custo por porção. O refil vem sem dosador: quem não tem a colher medida de um pote anterior precisa de uma balança de cozinha.",
-          "**Creator Pote 300 g:** para quem está começando e quer o pote com dosador. O preço é o mesmo de outubro.",
-          "**Creatine 300 g:** mesma porção de 5 g, por um preço maior. Subiu de R$ 41,90 em outubro para R$ 49,90.",
-          "**Creatine Turbo:** só para quem quer a creatina já misturada com carboidrato. Cada porção custa mais que o triplo da porção do refil da Creator."
+          "[Creator Refil 500 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p): a escolha principal, com o menor custo por porção. O refil vem sem dosador: quem não tem a colher medida de um pote anterior precisa de uma balança de cozinha.",
+          "[Creator Pote 300 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--300g/p): para quem está começando e quer o pote com dosador. O preço é o mesmo de outubro.",
+          "[Creatine 300 g](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-300g/p): mesma porção de 5 g, por um preço maior. Subiu de R$ 41,90 em outubro para R$ 49,90.",
+          "[Creatine Turbo](https://www.blackskullusa.com.br/creatine-turbo--300g/p): só para quem quer a creatina já misturada com carboidrato. Cada porção custa mais que o triplo da porção do refil da Creator."
         ],
         "postParagraphs": [
           "Nenhuma das três traz o selo Creapure. A comparação pelo rótulo e a conta por grama estão em [Creatina Black Skull: Creator, Creatine ou Turbo, qual escolher e qual pote compensa](/reviews/creatina-black-skull-qual-escolher)."
@@ -80056,19 +80056,19 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "BOPE: 40 porções de 7,5 g",
+              "[BOPE](https://www.blackskullusa.com.br/pre-treino-bope-300g/p): 40 porções de 7,5 g",
               "135 mg e 750 mg",
               "R$ 64,90 → R$ 58,41",
               "R$ 1,46"
             ],
             [
-              "Bone Crusher: 40 porções de 7,5 g",
+              "[Bone Crusher](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula-300g/p): 40 porções de 7,5 g",
               "140 mg e 2 g",
               "R$ 69,90 → R$ 62,91",
               "R$ 1,57"
             ],
             [
-              "Legacy: 30 porções de 10 g",
+              "[Legacy](https://www.blackskullusa.com.br/pre-treino-legacy/p): 30 porções de 10 g",
               "200 mg e 2 g",
               "R$ 71,30 → R$ 64,17",
               "R$ 2,14"
@@ -80076,10 +80076,10 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**BOPE:** o menor custo por porção e a menor dose de beta-alanina dos três. Tem também 3 g de creatina por porção.",
-          "**Bone Crusher:** cafeína quase igual à do BOPE, com 2 g de beta-alanina e 3 g de creatina. O preço é o mesmo de outubro.",
-          "**Legacy:** a maior dose de cafeína por porção e a porção mais cara, com 2 g de creatina.",
-          "**Potes de 150 g:** o BOPE sai por R$ 31,41 e o Bone Crusher por R$ 40,41 com o código. São a quantidade para provar um sabor, com a porção mais cara que no pote de 300 g."
+          "[BOPE](https://www.blackskullusa.com.br/pre-treino-bope-300g/p): o menor custo por porção e a menor dose de beta-alanina dos três. Tem também 3 g de creatina por porção.",
+          "[Bone Crusher](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula-300g/p): cafeína quase igual à do BOPE, com 2 g de beta-alanina e 3 g de creatina. O preço é o mesmo de outubro.",
+          "[Legacy](https://www.blackskullusa.com.br/pre-treino-legacy/p): a maior dose de cafeína por porção e a porção mais cara, com 2 g de creatina.",
+          "**Potes de 150 g:** o [BOPE](https://www.blackskullusa.com.br/pre-treino-bope-150g/p) sai por R$ 31,41 e o [Bone Crusher](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula--150g/p) por R$ 40,41 com o código. São a quantidade para provar um sabor, com a porção mais cara que no pote de 300 g."
         ],
         "postParagraphs": [
           "O BOPE e o Bone Crusher já levam 3 g de creatina por porção: quem usa creatina à parte deve somar as duas fontes na conta do dia. A tabela completa dos rótulos está em [Pré-treino Black Skull: BOPE ou Bone Crusher, pela tabela do rótulo e pelo preço por dose](/reviews/pre-treino-black-skull-bope-ou-bone-crusher).",
@@ -80108,61 +80108,61 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Whey 100% HD 1,8 kg",
+              "[Whey 100% HD 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p)",
               "R$ 279,90",
               "R$ 239,90",
               "Melhorou"
             ],
             [
-              "Whey 100% HD refil 900 g",
+              "[Whey 100% HD refil 900 g](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p)",
               "R$ 139,90",
               "R$ 114,90",
               "Melhorou"
             ],
             [
-              "Whey Turbo refil 907 g",
+              "[Whey Turbo refil 907 g](https://www.blackskullusa.com.br/whey-turbo-refil--907g/p)",
               "R$ 79,90",
               "R$ 59,40",
               "Melhorou"
             ],
             [
-              "Kit com 2 Whey Turbo 907 g",
+              "[Kit com 2 Whey Turbo 907 g](https://www.blackskullusa.com.br/kit-2-unidades-whey-protein-907g-whey-turbo/p)",
               "R$ 132,81",
               "R$ 112,86",
               "Melhorou"
             ],
             [
-              "Creatina Creator 300 g",
+              "[Creatina Creator 300 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--300g/p)",
               "R$ 29,90",
               "R$ 29,90",
               "Igual"
             ],
             [
-              "Creatina Creator refil 500 g",
+              "[Creatina Creator refil 500 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p)",
               "R$ 39,90",
               "R$ 39,90",
               "Igual"
             ],
             [
-              "Creatine 300 g",
+              "[Creatine 300 g](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-300g/p)",
               "R$ 41,90",
               "R$ 49,90",
               "Subiu"
             ],
             [
-              "Pré-treino Bone Crusher 300 g",
+              "[Pré-treino Bone Crusher 300 g](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula-300g/p)",
               "R$ 69,90",
               "R$ 69,90",
               "Igual"
             ],
             [
-              "Pré-treino Bone Crusher 150 g",
+              "[Pré-treino Bone Crusher 150 g](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula--150g/p)",
               "R$ 44,90",
               "R$ 44,90",
               "Igual"
             ],
             [
-              "Pré-treino Legacy 300 g",
+              "[Pré-treino Legacy 300 g](https://www.blackskullusa.com.br/pre-treino-legacy/p)",
               "R$ 71,30",
               "R$ 71,30",
               "Igual"
@@ -80170,7 +80170,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os wheys ficaram mais baratos que em outubro. As creatinas Creator e os pré-treinos seguem no mesmo preço, e a Creatine de 300 g subiu. Em outubro, o combo de whey 3W Core 900 g com Creator 500 g saía por R$ 303,81 e a Glutamine de 300 g, por R$ 79,90; não relemos esses dois em novembro.",
+          "Os wheys ficaram mais baratos que em outubro. As creatinas Creator e os pré-treinos seguem no mesmo preço, e a Creatine de 300 g subiu. Em outubro, o combo de [whey 3W Core 900 g](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p) com [Creator 500 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p) saía por R$ 303,81 e a [Glutamine de 300 g](https://www.blackskullusa.com.br/glutamine-caveira-preta--glutamina--300g/p), por R$ 79,90; não relemos esses dois em novembro.",
           "Compare o mesmo produto, sabor, peso e quantidade, com a mesma forma de pagamento, cupom e frete. Selo de desconto sozinho não basta: o número que importa é o preço do dia contra o da tabela."
         ]
       },
@@ -80178,7 +80178,7 @@ export const reviewsData: unknown[] = [
         "heading": "O CECILIA10 vale em produto em promoção?",
         "paragraphs": [
           "Vale. O **CECILIA10** dá 10% de desconto em todo o site da Black Skull, vale com todas as formas de pagamento e soma com as promoções vigentes. O desconto vem em cima do preço já reduzido, sem substituí-lo.",
-          "Em meados de novembro, aplicamos o código em wheys, creatinas e pré-treinos da página da campanha, um por vez e em conjunto: o desconto foi de 10% sobre o preço do site em todos. O Whey 80% HD Refil foi de R$ 139,90 para R$ 125,91, e a sacola com esse whey e a Creator em refil de 500 g, de R$ 179,80 para R$ 161,82.",
+          "Em meados de novembro, aplicamos o código em wheys, creatinas e pré-treinos da página da campanha, um por vez e em conjunto: o desconto foi de 10% sobre o preço do site em todos. O [Whey 80% HD Refil](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p) foi de R$ 139,90 para R$ 125,91, e a sacola com esse whey e a [Creator em refil de 500 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p), de R$ 179,80 para R$ 161,82.",
           "Em outubro, numa sacola com uma regata, um kit de whey, creatina e pré-treino e uma glutamina, dois itens já apareciam com o preço antigo riscado. O subtotal era de R$ 364,33, o cupom tirou R$ 36,44, e o total ficou em **R$ 327,89**.",
           "O passo a passo do campo do cupom está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar). As condições do dia ficam na [página do cupom da Black Skull](/cupons/black-skull)."
         ],
@@ -80192,7 +80192,7 @@ export const reviewsData: unknown[] = [
         "heading": "Frete grátis, Pix e parcelamento",
         "paragraphs": [
           "A campanha anuncia frete grátis para todo o Brasil, com consulta às regras. A política de entrega fixa mínimos por região, aplicados ao total depois dos descontos, então o frete grátis não vale para todo pedido.",
-          "Conferimos na sacola, com um CEP da capital paulista. O Whey 100% HD de 1,8 kg, a R$ 215,91 com o CECILIA10, seguiu com frete grátis. A sacola com o Whey 80% HD Refil e a Creator em refil de 500 g ficou em R$ 161,82 com o código, abaixo do mínimo de R$ 199,90, e pagou R$ 11,09 de frete. Em pedido que passa do mínimo por pouco, confira o total com o cupom aplicado antes de pagar: completar a sacola só para ganhar o frete compensa apenas se o item a mais já estava na sua lista."
+          "Conferimos na sacola, com um CEP da capital paulista. O [Whey 100% HD de 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p), a R$ 215,91 com o CECILIA10, seguiu com frete grátis. A sacola com o [Whey 80% HD Refil](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p) e a [Creator em refil de 500 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p) ficou em R$ 161,82 com o código, abaixo do mínimo de R$ 199,90, e pagou R$ 11,09 de frete. Em pedido que passa do mínimo por pouco, confira o total com o cupom aplicado antes de pagar: completar a sacola só para ganhar o frete compensa apenas se o item a mais já estava na sua lista."
         ],
         "comparisonTable": {
           "caption": "Frete grátis da Black Skull por região de entrega, conforme a política de entrega, com o mínimo calculado sobre o total após descontos.",
@@ -80398,43 +80398,43 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Whey Blend Nova Fórmula: 25 g em 40 g",
+              "[Whey Blend Nova Fórmula](https://www.maxtitanium.com.br/whey-blend-900g-nova-formula/p): 25 g em 40 g",
               "R$ 79,00 → R$ 72,00",
               "R$ 3,20",
               "R$ 12,80"
             ],
             [
-              "100% Whey Refil: 21 g em 30 g",
+              "[100% Whey Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p): 21 g em 30 g",
               "R$ 196,39 → R$ 192,46",
               "R$ 6,42",
               "R$ 30,55"
             ],
             [
-              "Top Whey 3W + Sabor: 25 g em 40 g",
+              "[Top Whey 3W + Sabor](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p): 25 g em 40 g",
               "R$ 189,00 → R$ 172,25",
               "R$ 7,66",
               "R$ 30,62"
             ],
             [
-              "100% Whey Pote: 21 g em 30 g",
+              "[100% Whey Pote](https://www.maxtitanium.com.br/100-whey-pote-900g/p): 21 g em 30 g",
               "R$ 210,39 → R$ 206,18",
               "R$ 6,87",
               "R$ 32,73"
             ],
             [
-              "Top Whey 3W + Performance: 32 g em 40 g",
+              "[Top Whey 3W + Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p): 32 g em 40 g",
               "R$ 273,55 → R$ 268,08",
               "R$ 11,91",
               "R$ 37,23"
             ],
             [
-              "IsoWhey: 26 g em 30 g",
+              "[IsoWhey](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p): 26 g em 30 g",
               "R$ 326,18 → R$ 319,66",
               "R$ 10,66",
               "R$ 40,98"
             ],
             [
-              "Super Whey: 30 g em 120 g",
+              "[Super Whey](https://www.maxtitanium.com.br/super-whey-900g/p): 30 g em 120 g",
               "R$ 94,62 → R$ 92,73",
               "R$ 12,36",
               "R$ 41,21"
@@ -80442,10 +80442,10 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**Entrada:** o Whey Blend é uma mistura proteica, com 10 g de carboidrato por porção, e tem o menor custo por proteína da tabela. O Super Whey parece barato pelo pote, mas a porção é de 120 g, com 79 g de carboidrato: o pote rende 7,5 porções, e a proteína dele é a mais cara da lista.",
-          "**Concentrado padrão:** o 100% Whey. O refil e o pote levam o mesmo pó, e o refil sai R$ 13,72 mais barato com o código.",
-          "**Três proteínas do soro:** o Top Whey 3W + Sabor e o + Performance têm o mesmo preço de lista. O Sabor estava em promoção e recebeu o desconto maior do código; o Performance, a preço cheio, recebeu 2%. A diferença no carrinho chegou a R$ 95,83. O Performance entrega mais proteína por porção e traz vitaminas e minerais, e mesmo assim a proteína do Sabor saiu mais barata.",
-          "**Isolado:** o IsoWhey, com 26 g de proteína e 2,3 g de carboidrato por porção de 30 g. É o mais caro por pote e contém lactose."
+          "**Entrada:** o [Whey Blend](https://www.maxtitanium.com.br/whey-blend-900g-nova-formula/p) é uma mistura proteica, com 10 g de carboidrato por porção, e tem o menor custo por proteína da tabela. O [Super Whey](https://www.maxtitanium.com.br/super-whey-900g/p) parece barato pelo pote, mas a porção é de 120 g, com 79 g de carboidrato: o pote rende 7,5 porções, e a proteína dele é a mais cara da lista.",
+          "**Concentrado padrão:** o [100% Whey](https://www.maxtitanium.com.br/100-whey-refil-900g/p). O refil e o pote levam o mesmo pó, e o refil sai R$ 13,72 mais barato com o código.",
+          "**Três proteínas do soro:** o [Top Whey 3W + Sabor](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p) e o [+ Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p) têm o mesmo preço de lista. O Sabor estava em promoção e recebeu o desconto maior do código; o Performance, a preço cheio, recebeu 2%. A diferença no carrinho chegou a R$ 95,83. O Performance entrega mais proteína por porção e traz vitaminas e minerais, e mesmo assim a proteína do Sabor saiu mais barata.",
+          "**Isolado:** o [IsoWhey](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p), com 26 g de proteína e 2,3 g de carboidrato por porção de 30 g. É o mais caro por pote e contém lactose."
         ],
         "postParagraphs": [
           "Os preços dos wheys eram os mesmos de outubro: o que mudou a conta foi o código. As comparações com outras marcas estão em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica), [Max Titanium ou Growth](/reviews/max-titanium-ou-growth), [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Melhor whey em 2026: qual escolher para cada objetivo](/reviews/melhor-whey-qual-escolher-por-objetivo)."
@@ -80466,19 +80466,19 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Creatina 500g",
+              "[Creatina 500g](https://www.maxtitanium.com.br/creatine-pote-500g/p)",
               "R$ 69,90 → R$ 68,50",
               "R$ 13,70",
               "R$ 0,69"
             ],
             [
-              "Creatina 300 g",
+              "[Creatina 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p)",
               "R$ 59,90 → R$ 58,70",
               "R$ 19,57",
               "R$ 0,98"
             ],
             [
-              "Creatina Creapure 250g",
+              "[Creatina Creapure 250g](https://www.maxtitanium.com.br/creatina-creapure-250g/p)",
               "R$ 139,89 → R$ 137,09",
               "R$ 54,84",
               "R$ 2,74"
@@ -80486,9 +80486,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**Menor custo por porção:** o pote de 500 g, que estava R$ 17,63 abaixo do preço de outubro. Ele custava R$ 10 a mais que o de 300 g e rende 40 porções a mais.",
-          "**Selo Creapure:** só existe no pote de 250 g. A porção sai mais cara pela matéria-prima alemã certificada, e a fórmula leva só creatina, sem antiumectante.",
-          "**Pote de 100 g:** estava sem estoque na nossa leitura. A loja também vende um pote de 1 kg, que não entrou no nosso guia de creatina: confira a tabela dele na página antes de comparar."
+          "**Menor custo por porção:** o [pote de 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p), que estava R$ 17,63 abaixo do preço de outubro. Ele custava R$ 10 a mais que o de 300 g e rende 40 porções a mais.",
+          "**Selo Creapure:** só existe no [pote de 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p). A porção sai mais cara pela matéria-prima alemã certificada, e a fórmula leva só creatina, sem antiumectante.",
+          "[Pote de 100 g](https://www.maxtitanium.com.br/creatina-pote-100g/p): estava sem estoque na nossa leitura. A loja também vende um [pote de 1 kg](https://www.maxtitanium.com.br/creatina-1kg/p), que não entrou no nosso guia de creatina: confira a tabela dele na página antes de comparar."
         ],
         "postParagraphs": [
           "O Pix mexeu na conta de um jeito diferente em cada pote: tirou cerca de 3% na Creatina 500g e cerca de 6,5% na de 300 g, que foi a R$ 54,90 com o código. A escolha entre os potes está em [Creatina Max Titanium: qual pote compensa](/reviews/creatina-max-titanium-qual-pote), e a versão com sabor, em [Creatina com sabor: qual escolher](/reviews/creatina-com-sabor-qual-escolher)."
@@ -80497,7 +80497,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pré-treinos: cafeína do rótulo e preço por porção",
         "paragraphs": [
-          "Nos pré-treinos, o rótulo muda mais que o preço do pote. A conta abaixo divide o pote de 300 g pela porção do rótulo, sem arredondar o número de porções: o Hórus, com porção de 8,4 g, rende 35,7 porções, e o Égide, com porção de 6 g, rende 50."
+          "Nos pré-treinos, o rótulo muda mais que o preço do pote. A conta abaixo divide o pote de 300 g pela porção do rótulo, sem arredondar o número de porções: o [Hórus](https://www.maxtitanium.com.br/horus/p), com porção de 8,4 g, rende 35,7 porções, e o [Égide](https://www.maxtitanium.com.br/egide-300g/p), com porção de 6 g, rende 50."
         ],
         "comparisonTable": {
           "caption": "Pré-treinos da Max Titanium em pote de 300 g: porção e cafeína do rótulo, preço do site e valor no carrinho com o MAX10EMCASACOMCECILIA, na nossa leitura de novembro. O preço por porção usa o valor depois do código.",
@@ -80509,25 +80509,25 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Égide",
+              "[Égide](https://www.maxtitanium.com.br/egide-300g/p)",
               "6 g; 200 mg",
               "R$ 89,90 → R$ 88,10",
               "R$ 1,76"
             ],
             [
-              "Hórus",
+              "[Hórus](https://www.maxtitanium.com.br/horus/p)",
               "8,4 g; 150 mg",
               "R$ 88,89 → R$ 87,11",
               "R$ 2,44"
             ],
             [
-              "Shook",
+              "[Shook](https://www.maxtitanium.com.br/pre-treino-shook-rafael-brandao-300g/p)",
               "8 g; 200 mg",
               "R$ 109,89 → R$ 107,69",
               "R$ 2,87"
             ],
             [
-              "Night Train",
+              "[Night Train](https://www.maxtitanium.com.br/night-train-/p)",
               "8,4 g; sem cafeína no rótulo",
               "R$ 109,89 → R$ 107,69",
               "R$ 3,02"
@@ -80536,8 +80536,8 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**Égide ou Hórus:** os dois potes custavam quase o mesmo, e o Égide saiu mais barato por porção, R$ 1,76 contra R$ 2,44. O Égide tem mais cafeína, leva tirosina e tem 0,8 g de carboidrato por porção; o Hórus tem 3,3 g de carboidrato, com 1,8 g de açúcares adicionados.",
-          "**Sem cafeína:** o Night Train não traz linha de cafeína no rótulo e tinha a porção mais cara dos quatro.",
-          "**Pote menor:** o Égide de 150 g estava a R$ 53,90, ou R$ 52,82 com o código. É a opção de menor desembolso, com a porção mais cara que a do pote de 300 g: R$ 2,11."
+          "**Sem cafeína:** o [Night Train](https://www.maxtitanium.com.br/night-train-/p) não traz linha de cafeína no rótulo e tinha a porção mais cara dos quatro.",
+          "**Pote menor:** o [Égide de 150 g](https://www.maxtitanium.com.br/egide-150g/p) estava a R$ 53,90, ou R$ 52,82 com o código. É a opção de menor desembolso, com a porção mais cara que a do pote de 300 g: R$ 2,11."
         ],
         "postParagraphs": [
           "A comparação de rótulo está em [Pré-treino Max Titanium: Hórus ou Égide](/reviews/pre-treino-max-titanium-horus-ou-egide). Se um suplemento com cafeína faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista. Antes de pagar, confira também o frete: o mínimo do frete grátis vai de R$ 104 na capital de São Paulo a R$ 599 no Norte, e conta o valor depois do código."
@@ -80546,7 +80546,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços de outubro: whey e creatina para comparar",
         "paragraphs": [
-          "O jeito mais seguro de saber se uma oferta de novembro é boa é ter o preço de antes. Estes são os preços que o site oficial mostrava em outubro, antes do cupom e do desconto de Pix e boleto. Onde o site mostra dois valores, aparece o preço de lista (riscado) e o preço de venda do dia. Produtos sem estoque em outubro, como a Creatina Creapure 250g, a Creatina 100g e alguns kits, ficaram de fora."
+          "O jeito mais seguro de saber se uma oferta de novembro é boa é ter o preço de antes. Estes são os preços que o site oficial mostrava em outubro, antes do cupom e do desconto de Pix e boleto. Onde o site mostra dois valores, aparece o preço de lista (riscado) e o preço de venda do dia. Produtos sem estoque em outubro, como a [Creatina Creapure 250g](https://www.maxtitanium.com.br/creatina-creapure-250g/p), a [Creatina 100g](https://www.maxtitanium.com.br/creatina-pote-100g/p) e alguns kits, ficaram de fora."
         ],
         "image": {
           "src": "/images/reviews/max-titanium/black-friday-max-titanium-home.webp",
@@ -80565,55 +80565,55 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Whey Blend 900g Nova Fórmula",
+              "[Whey Blend 900g Nova Fórmula](https://www.maxtitanium.com.br/whey-blend-900g-nova-formula/p)",
               "R$ 121,99",
               "R$ 79,00",
               "R$ 8,78"
             ],
             [
-              "Super Whey 900G",
+              "[Super Whey 900G](https://www.maxtitanium.com.br/super-whey-900g/p)",
               "sem preço riscado",
               "R$ 94,62",
               "R$ 10,51"
             ],
             [
-              "Top Whey 3W + Sabor 900G",
+              "[Top Whey 3W + Sabor 900G](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p)",
               "R$ 273,55",
               "R$ 189,00",
               "R$ 21,00"
             ],
             [
-              "100% Whey Refil 900G",
+              "[100% Whey Refil 900G](https://www.maxtitanium.com.br/100-whey-refil-900g/p)",
               "sem preço riscado",
               "R$ 196,39",
               "R$ 21,82"
             ],
             [
-              "100% Whey Pote 900G",
+              "[100% Whey Pote 900G](https://www.maxtitanium.com.br/100-whey-pote-900g/p)",
               "sem preço riscado",
               "R$ 210,39",
               "R$ 23,38"
             ],
             [
-              "Top Whey 3W + Performance 900G",
+              "[Top Whey 3W + Performance 900G](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p)",
               "sem preço riscado",
               "R$ 273,55",
               "R$ 30,39"
             ],
             [
-              "IsoWhey 900g",
+              "[IsoWhey 900g](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p)",
               "sem preço riscado",
               "R$ 326,18",
               "R$ 36,24"
             ],
             [
-              "Creatina 500g",
+              "[Creatina 500g](https://www.maxtitanium.com.br/creatine-pote-500g/p)",
               "R$ 115,60",
               "R$ 87,53",
               "R$ 17,51"
             ],
             [
-              "Creatina 300 g",
+              "[Creatina 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p)",
               "R$ 75,10",
               "R$ 59,90",
               "R$ 19,97"
@@ -80621,7 +80621,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os preços de lista só aparecem nos itens que a loja já vendia com desconto. Pela nossa conta, o Whey Blend estava 35% abaixo do preço de lista, o Top Whey 3W + Sabor, 31%, a Creatina 500g, 24%, e a Creatina 300 g, 20%. O Top Whey 3W + Sabor e o Top Whey 3W + Performance têm o mesmo preço de lista, R$ 273,55, mas em outubro o primeiro custava R$ 84,55 a menos.",
+          "Os preços de lista só aparecem nos itens que a loja já vendia com desconto. Pela nossa conta, o [Whey Blend](https://www.maxtitanium.com.br/whey-blend-900g-nova-formula/p) estava 35% abaixo do preço de lista, o [Top Whey 3W + Sabor](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p), 31%, a [Creatina 500g](https://www.maxtitanium.com.br/creatine-pote-500g/p), 24%, e a [Creatina 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p), 20%. O Top Whey 3W + Sabor e o Top Whey 3W + Performance têm o mesmo preço de lista, R$ 273,55, mas em outubro o primeiro custava R$ 84,55 a menos.",
           "Na creatina de outubro, o pote de 500 g tinha menor preço por peso: R$ 17,51 por 100 g, contra R$ 19,97 no de 300 g. No whey, o preço por 100 g de pó não mede o custo por proteína, porque fórmulas e teores diferem; não use essa coluna sozinha para escolher.",
           "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
           "Para comparar com outubro, use o mesmo produto, sabor e tamanho: a tabela registra preços de venda antes de cupom e Pix. Para decidir a compra de hoje, confira também cupom, pagamento e frete no total. Um benefício adicional pode ter valor para você, mesmo sem redução do preço do produto.",
@@ -80632,7 +80632,7 @@ export const reviewsData: unknown[] = [
         "heading": "O cupom MAX10EMCASACOMCECILIA, o Pix e a promoção: o que soma",
         "paragraphs": [
           "A regra da parceria é até 10% com o código **MAX10EMCASACOMCECILIA** e até 5% no Pix, conforme o produto. O percentual muda de item para item, e a linha \"Descontos\" do resumo do pedido mostra o valor que o código abateu de verdade.",
-          "O cupom entrou em cima do preço promocional do site. O Top Whey 3W + Sabor 900G Brigadeiro estava em promoção:"
+          "O cupom entrou em cima do preço promocional do site. O [Top Whey 3W + Sabor 900G](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p) Brigadeiro estava em promoção:"
         ],
         "image": "/images/reviews/max-titanium/max-titanium-cupom-03-desconto-aplicado.webp",
         "imageAlt": "Carrinho da Max Titanium com o código MAX10EMCASACOMCECILIA aplicado, a linha Descontos de menos R$ 16,75 e o total de R$ 172,25",
@@ -80669,7 +80669,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**Perto de 9% em dois produtos.** No Top Whey 3W + Sabor e no Whey Blend, que estavam em promoção, o código abateu R$ 16,75 e R$ 7,00.",
+          "**Perto de 9% em dois produtos.** No Top Whey 3W + Sabor e no [Whey Blend](https://www.maxtitanium.com.br/whey-blend-900g-nova-formula/p), que estavam em promoção, o código abateu R$ 16,75 e R$ 7,00.",
           "**2% nos demais.** Em outros 13 produtos que pusemos no carrinho em novembro, entre wheys, creatinas e pré-treinos, a linha \"Descontos\" ficou em 2% do preço.",
           "**O Pix também varia.** Depois do código, o Pix tirou cerca de 3% na maioria dos itens e cerca de 6,5% na Creatina 300 g. Confira no carrinho o valor do Pix antes de pagar.",
           "**Cashback é crédito da loja.** A linha \"Descontos\" do carrinho mostra só o abatimento do cupom, não o cashback recebido. Confira elegibilidade, prazo e condições do crédito antes de contar com ele."
@@ -80826,13 +80826,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para provar sabores: pote de 250 g ou combo pequeno",
         "paragraphs": [
-          "Quem ainda não escolheu o sabor não precisa de pote grande. O pote de 250 g serve para provar um sabor, e os combos de 2 ou 3 potes de 250 g baixam o preço por 100 g sem encher o armário. Na nossa leitura de novembro, nove sabores tinham pote de 250 g: Avelã, Bombom Italiano, Brownie, Bueníssimo, Caramelo Salgado, Cookies & Cream, Doce de Leite, Leite em Pó e Pistache.",
+          "Quem ainda não escolheu o sabor não precisa de pote grande. O pote de 250 g serve para provar um sabor, e os combos de 2 ou 3 potes de 250 g baixam o preço por 100 g sem encher o armário. Na nossa leitura de novembro, nove sabores tinham pote de 250 g: [Avelã](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p), [Bombom Italiano](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-bombom-italiano/p), [Brownie](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-brownie/p), [Bueníssimo](https://www.drpeanut.com.br/pasta-de-amendoim-buenissimo-com-whey-proteine/p), [Caramelo Salgado](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-caramelo-salgado/p), [Cookies & Cream](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-cookies---cream/p), [Doce de Leite](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-doce-de-leite/p), [Leite em Pó](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-leite-em-po/p) e [Pistache](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-pistache/p).",
           "Pelo rótulo, três critérios ajudam a escolher:"
         ],
         "bullets": [
           "**Mais proteína:** Avelã e Leite em Pó, com 20 g por 100 g.",
           "**Menos açúcares totais:** Cookies & Cream e Brownie, com 4,6 g e 4,7 g por 100 g. Nenhum sabor tem açúcar adicionado; todos são adoçados com edulcorantes.",
-          "**O trio que a loja reúne:** Avelã, Bueníssimo e Cookies & Cream, no combo Os Favoritos da Galera, de 3 potes de 250 g."
+          "**O trio que a loja reúne:** Avelã, Bueníssimo e Cookies & Cream, no combo [Os Favoritos da Galera](https://www.drpeanut.com.br/combo-favoritos-da-galera/p), de 3 potes de 250 g."
         ],
         "comparisonTable": {
           "caption": "Pastas de 250 g da Dr. Peanut: preço do site na nossa leitura de novembro e a conta com o cupom DREMCASACOMCECILIA (10%), sem frete.",
@@ -80872,7 +80872,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para repor: pote de 600 g, combos e o frete grátis",
         "paragraphs": [
-          "Para quem já consome a pasta, a conta é o preço por 100 g e o total entregue, com o frete. A loja não vende pote de 1 kg: o equivalente é o combo de 4 potes de 250 g, que deixa variar os sabores. Na nossa leitura, o pote de 600 g existia em quatro sabores (Bueníssimo, Chocolate Branco, Cookies & Cream e Pistache), e os combos de 600 g vinham com um sabor só, Bueníssimo ou Cookies & Cream."
+          "Para quem já consome a pasta, a conta é o preço por 100 g e o total entregue, com o frete. A loja não vende pote de 1 kg: o equivalente é o combo de 4 potes de 250 g, que deixa variar os sabores. Na nossa leitura, o pote de 600 g existia em quatro sabores ([Bueníssimo](https://www.drpeanut.com.br/pasta-de-amendoim-buenissimo-com-whey-proteine/p), [Chocolate Branco](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-chocolate-branco/p), [Cookies & Cream](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-cookies---cream/p) e [Pistache](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-pistache/p)), e os combos de 600 g vinham com um sabor só, Bueníssimo ou Cookies & Cream."
         ],
         "comparisonTable": {
           "caption": "Pastas da Dr. Peanut para repor: preço do site na nossa leitura de novembro, conta com o cupom DREMCASACOMCECILIA (10%) e frete grátis em São Paulo capital, Sudeste e Sul, onde o mínimo é de R$ 149,90 depois do cupom.",
@@ -80942,7 +80942,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Snacks: Doctor Bar, alfajor ou Doctor Wafer",
         "paragraphs": [
-          "Os três snacks têm tamanhos e propostas diferentes, e a forma de venda pesa na escolha: a Doctor Bar só é vendida no display fechado de 8 barras."
+          "Os três snacks têm tamanhos e propostas diferentes, e a forma de venda pesa na escolha: a [Doctor Bar](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p) só é vendida no display fechado de 8 barras."
         ],
         "comparisonTable": {
           "caption": "Snacks da Dr. Peanut: rótulo por unidade, forma de venda e preço por unidade no site, na nossa leitura de novembro, com a conta de 10% do cupom DREMCASACOMCECILIA.",
@@ -80955,7 +80955,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Doctor Bar (62 g)",
+              "[Doctor Bar](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p) (62 g)",
               "21 g; 260 a 268 kcal",
               "Só no display de 8 (R$ 122,03)",
               "R$ 15,25",
@@ -80971,7 +80971,7 @@ export const reviewsData: unknown[] = [
             [
               "Doctor Wafer (25 g)",
               "5 a 6 g; 118 a 127 kcal",
-              "Avulso, display de 12 (R$ 137,52) ou kit sortido de 12 (R$ 130,68)",
+              "Avulso, display de 12 (R$ 137,52) ou [kit sortido de 12](https://www.drpeanut.com.br/kit-sortido-duplo-wafers/p) (R$ 130,68)",
               "R$ 11,46 (R$ 10,89 no kit)",
               "R$ 10,31 (R$ 9,80 no kit)"
             ]
@@ -80979,7 +80979,7 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**Mais proteína por real:** a Doctor Bar. Com 21 g por barra, é a que entrega a proteína mais barata dos três, mas pede a compra de 8 de uma vez. No nosso carrinho, o display caiu de R$ 122,03 para R$ 109,83 com o cupom e ficou abaixo do mínimo do frete grátis.",
-          "**Menos calorias e menor preço por unidade:** o Doctor Wafer. O kit sortido traz os três sabores e baixa o preço da unidade; há também um kit de 6.",
+          "**Menos calorias e menor preço por unidade:** o Doctor Wafer. O kit sortido traz os três sabores e baixa o preço da unidade; há também um [kit de 6](https://www.drpeanut.com.br/kit-sortido-wafers/p).",
           "**Formato intermediário:** o alfajor, com 0,8 g a 1,3 g de açúcares totais por unidade. O display de 12 tem o mesmo preço por unidade do avulso."
         ],
         "postParagraphs": [
@@ -81148,43 +81148,43 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Iso Protein Blend: 25 g em 40 g",
+              "[Iso Protein Blend](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): 25 g em 40 g",
               "R$ 79,00 → R$ 73,47 (7%)",
               "R$ 13,06"
             ],
             [
-              "Hiper 100% Whey: 23 g em 40 g",
+              "[Hiper 100% Whey](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): 23 g em 40 g",
               "R$ 124,90 → R$ 116,16 (7%)",
               "R$ 22,45"
             ],
             [
-              "100% Pure Whey Zero Lactose: 21 g em 30 g",
+              "[100% Pure Whey Zero Lactose](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): 21 g em 30 g",
               "R$ 241,97 → R$ 237,13 (2%)",
               "R$ 37,64"
             ],
             [
-              "100% Pure Whey Refil: 20 g em 30 g",
+              "[100% Pure Whey Refil](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): 20 g em 30 g",
               "R$ 235,65 → R$ 230,94 (2%)",
               "R$ 38,49"
             ],
             [
-              "100% Pure Whey Pote: 20 g em 30 g",
+              "[100% Pure Whey Pote](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): 20 g em 30 g",
               "R$ 252,49 → R$ 247,44 (2%)",
               "R$ 41,24"
             ],
             [
-              "Iso Pro Whey: 26 g em 30 g",
+              "[Iso Pro Whey](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): 26 g em 30 g",
               "R$ 346,28 → R$ 339,35 (2%)",
               "R$ 43,51"
             ]
           ]
         },
         "bullets": [
-          "**Iso Protein Blend:** o menor custo por proteína, com uma ressalva de composição. Ele mistura proteína isolada de soja com whey concentrado; o rótulo avisa que contém derivados de leite e de soja, pode conter ovo e contém lactose. É a escolha de quem aceita a soja na fórmula.",
-          "**Hiper 100% Whey:** a opção só de whey com o menor custo por proteína entre as que testamos, a R$ 124,90 contra o preço riscado de R$ 210,39.",
-          "**100% Pure Whey, refil ou pote:** o conteúdo é o mesmo, e o refil custa R$ 16,84 a menos. O kit com 2 refis saiu por R$ 461,87 com o cupom, e dois refis avulsos, por R$ 461,88: o kit não dá desconto, então só leve dois se for usar os dois.",
-          "**Zero Lactose:** a versão para quem evita lactose, com custo por proteína um pouco abaixo do Pure Whey em refil.",
-          "**Iso Pro Whey:** a maior concentração de proteína da tabela, 26 g em 30 g, e o maior preço. Isolado não é automaticamente zero lactose: o rótulo do Iso Pro avisa que contém lactose."
+          "[Iso Protein Blend](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): o menor custo por proteína, com uma ressalva de composição. Ele mistura proteína isolada de soja com whey concentrado; o rótulo avisa que contém derivados de leite e de soja, pode conter ovo e contém lactose. É a escolha de quem aceita a soja na fórmula.",
+          "[Hiper 100% Whey](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): a opção só de whey com o menor custo por proteína entre as que testamos, a R$ 124,90 contra o preço riscado de R$ 210,39.",
+          "100% Pure Whey, [refil](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) ou [pote](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): o conteúdo é o mesmo, e o refil custa R$ 16,84 a menos. O [kit com 2 refis](https://www.probiotica.com.br/pack-100-whey/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) saiu por R$ 461,87 com o cupom, e dois refis avulsos, por R$ 461,88: o kit não dá desconto, então só leve dois se for usar os dois.",
+          "[Zero Lactose](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): a versão para quem evita lactose, com custo por proteína um pouco abaixo do Pure Whey em refil.",
+          "[Iso Pro Whey](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): a maior concentração de proteína da tabela, 26 g em 30 g, e o maior preço. Isolado não é automaticamente zero lactose: o rótulo do Iso Pro avisa que contém lactose."
         ],
         "postParagraphs": [
           "A comparação com outra marca pelo mesmo critério está em [Probiótica ou Integralmédica: whey e creatina pelo rótulo](/reviews/probiotica-ou-integralmedica), e a escolha por objetivo, em [Melhor whey em 2026: qual escolher para cada objetivo](/reviews/melhor-whey-qual-escolher-por-objetivo)."
@@ -81193,7 +81193,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: pote, Creapure ou sachê",
         "paragraphs": [
-          "A creatina da Probiótica aparece em cinco versões em pó, e a conta que as separa é o custo da porção. A tabela nutricional traz 5 g de creatina por porção, com uma exceção: a Pure Creatina Monster tem porção de 3 g."
+          "A creatina da Probiótica aparece em cinco versões em pó, e a conta que as separa é o custo da porção. A tabela nutricional traz 5 g de creatina por porção, com uma exceção: a [Pure Creatina Monster](https://www.probiotica.com.br/pure-creatina-150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) tem porção de 3 g."
         ],
         "comparisonTable": {
           "caption": "Creatinas da Probiótica na nossa leitura de novembro: preço do site, preço com o cupom PRO10EMCASACOMCECILIA no carrinho e custo por porção do rótulo.",
@@ -81204,38 +81204,38 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Monohidratada Pura 300 g: 60 porções de 5 g",
+              "[Monohidratada Pura 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): 60 porções de 5 g",
               "R$ 59,90 → R$ 58,70",
               "R$ 0,98"
             ],
             [
-              "Monohidratada Pura 100 g: 20 porções de 5 g",
+              "[Monohidratada Pura 100 g](https://www.probiotica.com.br/creatina-100g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): 20 porções de 5 g",
               "R$ 33,89 → R$ 33,21",
               "R$ 1,66"
             ],
             [
-              "Pure Creatina Monster 150 g: 50 porções de 3 g",
+              "[Pure Creatina Monster 150 g](https://www.probiotica.com.br/pure-creatina-150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): 50 porções de 3 g",
               "R$ 99,89 → R$ 97,89",
               "R$ 1,96"
             ],
             [
-              "Monodose: 30 sachês",
+              "[Monodose](https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): 30 sachês",
               "R$ 69,89 → R$ 68,49",
               "R$ 2,28"
             ],
             [
-              "Creapure 150 g: 30 porções de 5 g",
+              "[Creapure 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): 30 porções de 5 g",
               "R$ 99,89 → R$ 97,89",
               "R$ 3,26"
             ]
           ]
         },
         "bullets": [
-          "**Pote de 300 g:** a escolha principal, com o menor custo por porção. O preço é o mesmo de outubro.",
-          "**Pote de 100 g:** para quem quer a menor quantidade. A porção custa bem mais que no pote de 300 g.",
-          "**Creapure 150 g:** para quem faz questão da matéria-prima com esse selo. A porção custa mais que o triplo da porção do pote de 300 g.",
+          "[Pote de 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): a escolha principal, com o menor custo por porção. O preço é o mesmo de outubro.",
+          "[Pote de 100 g](https://www.probiotica.com.br/creatina-100g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): para quem quer a menor quantidade. A porção custa bem mais que no pote de 300 g.",
+          "[Creapure 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): para quem faz questão da matéria-prima com esse selo. A porção custa mais que o triplo da porção do pote de 300 g.",
           "**Pure Creatina Monster:** custa o mesmo que a Creapure, com porção de 3 g. Para comparar com as outras, use o preço por grama.",
-          "**Monodose:** o sachê é a dose pronta para levar. A praticidade custa mais que o dobro da porção do pote de 300 g."
+          "[Monodose](https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): o sachê é a dose pronta para levar. A praticidade custa mais que o dobro da porção do pote de 300 g."
         ],
         "postParagraphs": [
           "A conta por 100 g de cada versão está em [Creatina Probiótica: qual versão compensa pelo preço por 100 g e pelo rótulo](/reviews/creatina-probiotica-qual-compensa), e a do sachê, em [Monodose Probiótica: sachê ou pote, qual compensa pelo preço por 100 g](/reviews/monodose-probiotica-sache-ou-pote)."
@@ -81244,8 +81244,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Barra e colágeno: a compra de conveniência",
         "bullets": [
-          "**Whey Bar Creamy, caixa com 12:** R$ 77,89 no site e R$ 76,33 com o cupom, R$ 6,36 por barra. Cada barra tem de 10 g a 11 g de proteína, conforme o sabor. Serve para quem quer o lanche pronto; como fonte de proteína, o whey em pó custa menos.",
-          "**Pro Collagen 330 g:** R$ 129,89 no site e R$ 127,29 com o cupom, R$ 4,24 por porção de 11 g, em 30 porções. É colágeno hidrolisado com ácido hialurônico. O rótulo informa que não contém lactose e que pode conter derivados de leite, ovo e soja."
+          "[Whey Bar Creamy, caixa com 12](https://www.probiotica.com.br/whey-bar-creamy/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): R$ 77,89 no site e R$ 76,33 com o cupom, R$ 6,36 por barra. Cada barra tem de 10 g a 11 g de proteína, conforme o sabor. Serve para quem quer o lanche pronto; como fonte de proteína, o whey em pó custa menos.",
+          "[Pro Collagen 330 g](https://www.probiotica.com.br/pro-collagen/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): R$ 129,89 no site e R$ 127,29 com o cupom, R$ 4,24 por porção de 11 g, em 30 porções. É colágeno hidrolisado com ácido hialurônico. O rótulo informa que não contém lactose e que pode conter derivados de leite, ovo e soja."
         ],
         "postParagraphs": [
           "Os dois estavam no mesmo preço de outubro. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
@@ -81266,31 +81266,31 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Whey Protein Iso Protein Blend 900g (sabor Chocolate)",
+              "[Whey Protein Iso Protein Blend 900g](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) (sabor Chocolate)",
               "R$ 79,00 (riscado R$ 121,99)",
               "R$ 79,00",
               "Igual"
             ],
             [
-              "Whey 100% Pure 900g, pote",
+              "[Whey 100% Pure 900g, pote](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "R$ 252,49",
               "R$ 252,49",
               "Igual"
             ],
             [
-              "Creatina Monohidratada Pura 300g",
+              "[Creatina Monohidratada Pura 300g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "R$ 59,90 (riscado R$ 75,10)",
               "R$ 59,90",
               "Igual"
             ],
             [
-              "Whey Bar Creamy, caixa com 12 unidades",
+              "[Whey Bar Creamy, caixa com 12 unidades](https://www.probiotica.com.br/whey-bar-creamy/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "R$ 77,89",
               "R$ 77,89",
               "Igual"
             ],
             [
-              "Pro Collagen 330g",
+              "[Pro Collagen 330g](https://www.probiotica.com.br/pro-collagen/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "R$ 129,89",
               "R$ 129,89",
               "Igual"
@@ -81299,7 +81299,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Nos cinco produtos, o preço de novembro é o mesmo de outubro. Até aqui, o Novembro PRO não mexeu nesses itens: o que muda o total é o cupom, o frete e os brindes.",
-          "O Iso Protein Blend segue R$ 42,99 abaixo do preço riscado, cerca de 35% antes do cupom, e a creatina de 300 g, R$ 15,20 abaixo, cerca de 20%. Esses descontos já existiam em outubro."
+          "O [Iso Protein Blend](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) segue R$ 42,99 abaixo do preço riscado, cerca de 35% antes do cupom, e a [creatina de 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), R$ 15,20 abaixo, cerca de 20%. Esses descontos já existiam em outubro."
         ],
         "image": "/images/reviews/probiotica/probiotica-cupom-01-carrinho-sem-cupom.webp",
         "imageAlt": "Carrinho da Probiótica em 13/10/2026 com a creatina de 300g a R$ 59,90, com o preço de R$ 75,10 riscado, junto de um kit de colágeno, uma camiseta e uma barra de proteína",
@@ -81310,7 +81310,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom, Pix e frete grátis: o que soma",
         "paragraphs": [
-          "O cupom **PRO10EMCASACOMCECILIA** dá até 10% OFF no site oficial, e o percentual varia por produto. Nos nossos carrinhos de meados de novembro, ele tirou 2% do Pure Whey, do Zero Lactose, do Iso Pro Whey, das creatinas, da Whey Bar e do Pro Collagen, e 7% do Iso Protein Blend e do Hiper 100% Whey, que estavam em oferta. Em outubro, num carrinho de R$ 659,35 com uma creatina em promoção, o desconto foi de R$ 54,75. A linha \"Descontos\" do resumo do pedido mostra quanto o cupom abateu de verdade.",
+          "O cupom **PRO10EMCASACOMCECILIA** dá até 10% OFF no site oficial, e o percentual varia por produto. Nos nossos carrinhos de meados de novembro, ele tirou 2% do Pure Whey, do [Zero Lactose](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), do [Iso Pro Whey](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), das creatinas, da Whey Bar e do [Pro Collagen](https://www.probiotica.com.br/pro-collagen/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), e 7% do [Iso Protein Blend](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) e do [Hiper 100% Whey](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), que estavam em oferta. Em outubro, num carrinho de R$ 659,35 com uma creatina em promoção, o desconto foi de R$ 54,75. A linha \"Descontos\" do resumo do pedido mostra quanto o cupom abateu de verdade.",
           "Ele vale em todas as formas de pagamento, para conta nova e para quem já comprou. Os outros descontos e regras que mexem no total:"
         ],
         "bullets": [
@@ -81365,7 +81365,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kits e trocas: o que a loja diz nos termos",
         "paragraphs": [
-          "Os termos da loja dizem que promoções não valem para kits, porque eles já têm desconto. No kit que conferimos, o de 2 refis de 100% Pure Whey, o preço foi o mesmo de dois refis avulsos, com e sem o cupom. Compare o kit com os mesmos itens avulsos antes de levar a quantidade maior.",
+          "Os termos da loja dizem que promoções não valem para kits, porque eles já têm desconto. No kit que conferimos, o de [2 refis de 100% Pure Whey](https://www.probiotica.com.br/pack-100-whey/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), o preço foi o mesmo de dois refis avulsos, com e sem o cupom. Compare o kit com os mesmos itens avulsos antes de levar a quantidade maior.",
           "Os prazos de troca e devolução:"
         ],
         "bullets": [
@@ -81465,7 +81465,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a Black Friday da Cléa Store mostra agora",
         "paragraphs": [
-          "A faixa do topo do site anuncia a campanha assim: quem compra qualquer peça ganha uma T-shirt oversized. Ao lado vêm as regras de sempre da loja, frete grátis acima de R$ 599, 10% de cashback e devolução grátis. A página Black Friday reúne os descontos por produto: 33% nos kits de 3 camisetas, 30% nos bodies Gola Alta Manga Longa e Regata Duplo, 50% no Body Ombro Único e 20% na Camiseta Comfort.",
+          "A faixa do topo do site anuncia a campanha assim: quem compra qualquer peça ganha uma T-shirt oversized. Ao lado vêm as regras de sempre da loja, frete grátis acima de R$ 599, 10% de cashback e devolução grátis. A página Black Friday reúne os descontos por produto: 33% nos kits de 3 camisetas, 30% nos bodies [Gola Alta Manga Longa](https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047) e [Regata Duplo](https://www.cleastore.com.br/produto/body-regata-second-skin-duplo-4045), 50% no [Body Ombro Único](https://www.cleastore.com.br/produto/body-ombro-unico-com-detalhe-nas-costas-4230) e 20% na [Camiseta Comfort](https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434).",
           "A campanha mudou desde o começo de novembro. Naquela fase, a faixa anunciava 30% OFF em todo o site e o Kit 3 T-Shirts saía por R$ 199,00. Na leitura mais recente, o kit estava a R$ 258,00, o mesmo valor de outubro, e o brinde tinha entrado no lugar do desconto geral.",
           "A sexta da Black Friday cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. A loja não publica quando a campanha termina nem se as ofertas mudam de novo até lá. Por isso as tabelas deste guia trazem o preço do site, a conta com o cupom e, quando existe, o preço de outubro."
         ],
@@ -81480,13 +81480,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camisetas: Comfort, oversized avulsa ou kit de 3",
         "paragraphs": [
-          "A Cléa Store vende dois cortes de camiseta. A **Camiseta Comfort Algodão Peruano** tem caimento regular, que acompanha o corpo sem ficar justa nem ampla, em malha interlock de 100% algodão peruano e três cores. A **T-Shirt Oversized Algodão** tem o corte amplo, dez cores e é a que forma os kits de 3.",
+          "A Cléa Store vende dois cortes de camiseta. A [Camiseta Comfort Algodão Peruano](https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434) tem caimento regular, que acompanha o corpo sem ficar justa nem ampla, em malha interlock de 100% algodão peruano e três cores. A [T-Shirt Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189) tem o corte amplo, dez cores e é a que forma os kits de 3.",
           "A escolha começa pelo corte e termina na quantidade:"
         ],
         "bullets": [
           "**Uma camiseta de corte regular:** a Comfort. Ela não tem kit, e o desconto da campanha já aparece na página.",
           "**Uma oversized:** a avulsa, que estava sem desconto na campanha.",
-          "**Duas ou três oversized:** o kit de 3. Ele custa o mesmo que duas avulsas, então a terceira camiseta não aumenta o pedido. Os kits Classic, Colorful e Intense vêm com as cores fechadas; no Essenciais, você monta o trio entre as dez cores."
+          "**Duas ou três oversized:** o kit de 3. Ele custa o mesmo que duas avulsas, então a terceira camiseta não aumenta o pedido. Os kits [Classic](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-classic-3951), [Colorful](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-colorful-4421) e [Intense](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-intense-4422) vêm com as cores fechadas; no [Essenciais](https://www.cleastore.com.br/produto/kit-3-t-shirts-essenciais-monte-seu-kit-4229), você monta o trio entre as dez cores."
         ],
         "comparisonTable": {
           "caption": "Camisetas da Cléa Store: preço do site na nossa leitura de novembro e a conta com o cupom CSEMCASACOMCECILIA. O kit foi testado no carrinho; as outras duas linhas são conta nossa de 10%.",
@@ -81498,19 +81498,19 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Camiseta Comfort Algodão Peruano (caimento regular)",
+              "[Camiseta Comfort Algodão Peruano](https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434) (caimento regular)",
               "R$ 159,92",
               "R$ 143,93",
               "R$ 143,93"
             ],
             [
-              "T-Shirt Oversized Algodão, avulsa",
+              "[T-Shirt Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189), avulsa",
               "R$ 129,00",
               "R$ 116,10",
               "R$ 116,10"
             ],
             [
-              "Kit 3 T-Shirts Oversized (Classic, Colorful, Intense ou Monte Seu Kit)",
+              "Kit 3 T-Shirts Oversized ([Classic](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-classic-3951), [Colorful](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-colorful-4421), [Intense](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-intense-4422) ou [Monte Seu Kit](https://www.cleastore.com.br/produto/kit-3-t-shirts-essenciais-monte-seu-kit-4229))",
               "R$ 258,00",
               "R$ 232,20",
               "R$ 77,40"
@@ -81519,7 +81519,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O brinde entra por cima dessa conta. Com qualquer peça na sacola, o bloco \"Brindes disponíveis\" libera uma T-Shirt Oversized Algodão por R$ 0,00, e você escolhe cor e tamanho. Quem compra a Comfort, portanto, leva também uma oversized. A loja não publica as regras do brinde além da faixa do site: confira se ele aparece na sacola antes de pagar.",
-          "O kit Brazil Edition estava sem tamanhos disponíveis na nossa leitura. Tecido, lavagem e medidas das duas camisetas estão em [Camiseta Cléa Store é boa? Tecido, modelagem, tamanhos, kit e preço por peça](/reviews/camiseta-clea-store-e-boa)."
+          "O [kit Brazil Edition](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-brazil-edition-4333) estava sem tamanhos disponíveis na nossa leitura. Tecido, lavagem e medidas das duas camisetas estão em [Camiseta Cléa Store é boa? Tecido, modelagem, tamanhos, kit e preço por peça](/reviews/camiseta-clea-store-e-boa)."
         ]
       },
       {
@@ -81528,9 +81528,9 @@ export const reviewsData: unknown[] = [
           "Os bodies da linha Second Skin têm a mesma composição, 90% poliamida e 10% elastano, e mudam no recorte. É o recorte que decide a compra:"
         ],
         "bullets": [
-          "**Trabalho, frio ou sob blazer:** o Gola Alta Manga Longa e o Regata Duplo, que tem a gola alta e dispensa a manga. São os dois com a opção de 3 unidades na página.",
-          "**Ocasião e noite:** o Frente Única, de decote profundo, e o Ombro Único, de decote assimétrico.",
-          "**Decote na frente ou nas costas:** o Decote Reversível. **Calor e menor preço:** o Regata Cavado. Os dois estavam sem tamanhos disponíveis na nossa leitura."
+          "**Trabalho, frio ou sob blazer:** o [Gola Alta Manga Longa](https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047) e o [Regata Duplo](https://www.cleastore.com.br/produto/body-regata-second-skin-duplo-4045), que tem a gola alta e dispensa a manga. São os dois com a opção de 3 unidades na página.",
+          "**Ocasião e noite:** o [Frente Única](https://www.cleastore.com.br/produto/body-frente-unica-decote-second-skin-design-especial-4128), de decote profundo, e o [Ombro Único](https://www.cleastore.com.br/produto/body-ombro-unico-com-detalhe-nas-costas-4230), de decote assimétrico.",
+          "Decote na frente ou nas costas: o [Decote Reversível](https://www.cleastore.com.br/produto/body-decote-reversivel-second-skin-design-especial-4194). Calor e menor preço: o [Regata Cavado](https://www.cleastore.com.br/produto/body-regata-cavado-second-skin-4185). Os dois estavam sem tamanhos disponíveis na nossa leitura."
         ],
         "comparisonTable": {
           "caption": "Bodies Second Skin da Cléa Store: preço de uma unidade no site na nossa leitura de novembro, a conta de 10% do cupom (nossa conta, sem teste no carrinho) e o preço de outubro, sem cupom.",
@@ -81542,25 +81542,25 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Gola Alta Manga Longa: trabalho, frio, sob blazer",
+              "[Gola Alta Manga Longa](https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047): trabalho, frio, sob blazer",
               "R$ 118,30",
               "R$ 106,47",
               "R$ 135,20"
             ],
             [
-              "Regata Duplo: gola alta sem manga, com alfaiataria ou jeans",
+              "[Regata Duplo](https://www.cleastore.com.br/produto/body-regata-second-skin-duplo-4045): gola alta sem manga, com alfaiataria ou jeans",
               "R$ 111,30",
               "R$ 100,17",
               "R$ 127,20"
             ],
             [
-              "Frente Única Decote: ocasião e noite",
+              "[Frente Única Decote](https://www.cleastore.com.br/produto/body-frente-unica-decote-second-skin-design-especial-4128): ocasião e noite",
               "R$ 124,00",
               "R$ 111,60",
               "R$ 95,40"
             ],
             [
-              "Ombro Único: ocasião",
+              "[Ombro Único](https://www.cleastore.com.br/produto/body-ombro-unico-com-detalhe-nas-costas-4230): ocasião",
               "R$ 79,50",
               "R$ 71,55",
               "R$ 79,50"
@@ -81579,8 +81579,8 @@ export const reviewsData: unknown[] = [
           "A Cléa Store não vende conjunto de alfaiataria pronto. Blazer, colete, calça e shorts são produtos separados, cada um com a sua grade, e o conjunto é você quem monta. As peças de alfaiataria não estavam na página Black Friday na nossa leitura; nelas, a campanha entra pelo brinde, e o cupom, pelos 10%."
         ],
         "bullets": [
-          "**Para o trabalho:** blazer com um body de gola alta por baixo ou com a Camisa Clássica Tricoline, que estava a R$ 207,20 na campanha (R$ 186,48 na conta com o cupom). As combinações com preço estão em [Look de trabalho com alfaiataria: combinações com peças da Cléa Store](/reviews/look-trabalho-alfaiataria-feminina-clea-store).",
-          "**Para o verão:** as peças de linho, como o blazer e o shorts rosa ou o colete com a calça de linho. Nem toda peça de cor parecida tem o mesmo tecido: confira a composição de cada uma em [Alfaiataria de verão na Cléa Store: dá para montar conjunto com peças avulsas](/reviews/alfaiataria-verao-clea-store).",
+          "**Para o trabalho:** blazer com um body de gola alta por baixo ou com a [Camisa Clássica Tricoline](https://www.cleastore.com.br/produto/camisa-classica-feminina-tricoline-off-white-4355), que estava a R$ 207,20 na campanha (R$ 186,48 na conta com o cupom). As combinações com preço estão em [Look de trabalho com alfaiataria: combinações com peças da Cléa Store](/reviews/look-trabalho-alfaiataria-feminina-clea-store).",
+          "**Para o verão:** as peças de linho, como o [blazer](https://www.cleastore.com.br/produto/blazer-alfaiataria-rosa-linho-4404) e o [shorts rosa](https://www.cleastore.com.br/produto/shorts-alfaiataria-rosa-linho-4402) ou o colete com a calça de linho. Nem toda peça de cor parecida tem o mesmo tecido: confira a composição de cada uma em [Alfaiataria de verão na Cléa Store: dá para montar conjunto com peças avulsas](/reviews/alfaiataria-verao-clea-store).",
           "**Grade:** na nossa leitura, várias peças tinham um ou dois tamanhos e algumas estavam esgotadas. Antes de escolher o blazer, confira se a parte de baixo existe no seu tamanho."
         ],
         "postParagraphs": [
@@ -81623,22 +81623,22 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Kit 3 T-Shirts Oversized Classic",
+              "[Kit 3 T-Shirts Oversized Classic](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-classic-3951)",
               "R$ 387,00",
               "R$ 258,00 (promoção \"leve 3 pague 2\", aplicada no carrinho)"
             ],
             [
-              "Body Gola Alta Manga Longa Second Skin",
+              "[Body Gola Alta Manga Longa Second Skin](https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047)",
               "R$ 169,00",
               "R$ 135,20"
             ],
             [
-              "Body Regata Second Skin Duplo",
+              "[Body Regata Second Skin Duplo](https://www.cleastore.com.br/produto/body-regata-second-skin-duplo-4045)",
               "R$ 159,00",
               "R$ 127,20"
             ],
             [
-              "Body Tule Gola Alta Second Skin",
+              "[Body Tule Gola Alta Second Skin](https://www.cleastore.com.br/produto/body-tule-gola-alta-second-skin-tule-4019)",
               "R$ 159,00",
               "R$ 127,20"
             ]
@@ -81653,7 +81653,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Os termos da Cléa Store dizem que o voucher não vale em \"produtos já remarcados, salvo exceção comunicada pela loja\". Por isso testamos no checkout, em outubro e mais duas vezes com a campanha no ar. Nas três, o cupom **CSEMCASACOMCECILIA** entrou sobre o preço já baixado.",
           "Na leitura mais recente, com o kit de volta a R$ 258,00, a linha \"Desconto\" mostrou R$ 25,80 e o pedido fechou em R$ 232,20. A T-shirt de brinde continuou disponível com o cupom aplicado. Com a Camiseta Comfort no mesmo carrinho, o aviso do frete grátis passou a descontar os 10% também sobre ela.",
-          "No teste de outubro, o carrinho tinha só o Kit 3 T-Shirts Oversized Classic. O cupom de 10% incidiu sobre o preço promocional, não sobre os R$ 387,00."
+          "No teste de outubro, o carrinho tinha só o [Kit 3 T-Shirts Oversized Classic](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-classic-3951). O cupom de 10% incidiu sobre o preço promocional, não sobre os R$ 387,00."
         ],
         "comparisonTable": {
           "caption": "Teste do cupom CSEMCASACOMCECILIA no Kit 3 T-Shirts Oversized Classic, feito antes da campanha Black Friday.",
@@ -85994,25 +85994,25 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Pão de mel sem açúcar, 45 g",
+              "[Pão de mel sem açúcar](https://belivebefree.com.br/produto/pao-de-mel-sem-gluten-sem-acucar-sem-leite-belive/), 45 g",
               "R$ 7,57",
               "R$ 74,12",
               "R$ 6,34"
             ],
             [
-              "Pão de mel proteico, 45 g",
+              "[Pão de mel proteico](https://belivebefree.com.br/produto/pao-de-mel-proteico-sem-gluten-sem-acucar-sem-leite-belive/), 45 g",
               "R$ 8,07",
               "R$ 78,96",
               "R$ 6,75"
             ],
             [
-              "Brownie de chocolate sem açúcar, 40 g",
+              "[Brownie de chocolate sem açúcar](https://belivebefree.com.br/produto/brownie-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/), 40 g",
               "R$ 6,62",
               "R$ 64,82",
               "R$ 5,54"
             ],
             [
-              "Brownie proteico Double Chocolate sem açúcar, 40 g",
+              "[Brownie proteico Double Chocolate sem açúcar](https://belivebefree.com.br/produto/brownie-proteico-double-chocolate-sem-acucar-sem-gluten-sem-leite-belive/), 40 g",
               "R$ 7,57",
               "R$ 74,12",
               "R$ 6,34"
@@ -86020,7 +86020,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**Comum ou proteico:** pela tabela nutricional, o pão de mel comum tem 2 g de proteína por unidade, e o proteico, 6 g. No brownie, a versão de chocolate tem 1,8 g, e o proteico Double Chocolate, 6 g. A diferença de preço é de R$ 0,50 a R$ 0,95 por unidade na sacola.",
+          "**Comum ou proteico:** pela tabela nutricional, o [pão de mel comum](https://belivebefree.com.br/produto/pao-de-mel-sem-gluten-sem-acucar-sem-leite-belive/) tem 2 g de proteína por unidade, e o proteico, 6 g. No brownie, a [versão de chocolate](https://belivebefree.com.br/produto/brownie-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/) tem 1,8 g, e o [proteico Double Chocolate](https://belivebefree.com.br/produto/brownie-proteico-double-chocolate-sem-acucar-sem-gluten-sem-leite-belive/), 6 g. A diferença de preço é de R$ 0,50 a R$ 0,95 por unidade na sacola.",
           "**Unidade:** para provar um sabor antes de levar dez. Com a campanha, a unidade avulsa está 5% abaixo do preço cheio.",
           "**Kit de 10:** cada unidade sai cerca de 2% mais barata que a avulsa. A economia é pequena: o kit serve a quem vai consumir dez unidades do mesmo sabor."
         ],
@@ -86057,8 +86057,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**Snack Proteico:** para quem quer proteína no lanche. A unidade está com 20% da campanha, e o combo de 16 custa exatamente 16 unidades avulsas.",
-          "**Snack de Arroz:** o salgadinho do dia a dia, mais barato. Com os 10% da campanha na unidade, o pacote avulso está saindo por menos que no combo de 20.",
+          "**Snack Proteico:** para quem quer proteína no lanche. A unidade está com 20% da campanha, e o [combo de 16](https://belivebefree.com.br/produto/combo-snacks-proteicos-salgadinhos-sem-gluten-sem-leite-zero-lactose-belive-35g-16-unid/) custa exatamente 16 unidades avulsas.",
+          "**Snack de Arroz:** o salgadinho do dia a dia, mais barato. Com os 10% da campanha na unidade, o pacote avulso está saindo por menos que no [combo de 20](https://belivebefree.com.br/produto/combo-salgadinhos-sem-gluten-sem-leite-snacks-de-arroz-belive/).",
           "**Combos:** vêm com os quatro sabores em quantidades fixas. Como o preço por unidade empata ou perde para o avulso, monte a sacola com os sabores e a quantidade que você quer."
         ],
         "postParagraphs": [
@@ -86068,10 +86068,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Lancheira, pães e panetone",
         "bullets": [
-          "**Bolinho sem açúcar, 40 g:** R$ 5,12 a unidade e R$ 50,13 o kit de 10 na sacola. Com MAUAD e Pix, o kit sai por R$ 42,86, ou R$ 4,29 por bolinho.",
-          "**Kit Lanche Escolar com 25 bolinhos:** R$ 124,90 na sacola e R$ 106,79 com MAUAD e Pix, R$ 4,27 por bolinho. O preço por unidade é quase o do kit de 10: escolha pela quantidade que a lancheira consome antes do vencimento.",
-          "**Pão sem glúten Tradicional ou Multigrãos:** de R$ 22,90 por R$ 16,03 na sacola, com 30% da campanha, e R$ 13,71 com MAUAD e Pix. O combo de 4 pacotes tradicionais estava a R$ 82,44, mais caro que quatro pacotes avulsos, que somavam R$ 64,12.",
-          "**Panetone de frutas ou de chocolate, 420 g:** R$ 59,90, contra R$ 64,90 no começo de novembro, e R$ 51,21 com MAUAD e Pix. O kit de 3 custa R$ 179,70, o mesmo que três avulsos; a vantagem do kit é passar do mínimo do frete grátis de R$ 170 em SP, MG, RJ, DF e GO."
+          "[Bolinho sem açúcar, 40 g](https://belivebefree.com.br/produto/bolinho-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/): R$ 5,12 a unidade e R$ 50,13 o [kit de 10](https://belivebefree.com.br/produto/kit-10-bolinhos-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/) na sacola. Com MAUAD e Pix, o kit sai por R$ 42,86, ou R$ 4,29 por bolinho.",
+          "[Kit Lanche Escolar com 25 bolinhos](https://belivebefree.com.br/produto/kit-lanche-escolar-bolinho-sem-gluten-belive/): R$ 124,90 na sacola e R$ 106,79 com MAUAD e Pix, R$ 4,27 por bolinho. O preço por unidade é quase o do kit de 10: escolha pela quantidade que a lancheira consome antes do vencimento.",
+          "[Pão sem glúten Tradicional](https://belivebefree.com.br/produto/pao-sem-gluten-sem-lactose-sem-leite-tradicional-belive/) ou [Multigrãos](https://belivebefree.com.br/produto/pao-sem-gluten-sem-lactose-sem-leite-multigraos-belive/): de R$ 22,90 por R$ 16,03 na sacola, com 30% da campanha, e R$ 13,71 com MAUAD e Pix. O [combo de 4 pacotes tradicionais](https://belivebefree.com.br/produto/combo-pao-sem-gluten-sem-lactose-sem-leite-tradicionais-belive/) estava a R$ 82,44, mais caro que quatro pacotes avulsos, que somavam R$ 64,12.",
+          "[Panetone de frutas](https://belivebefree.com.br/produto/panetone-zero-acucar-sem-gluten-zero-lactose-frutas-cristalizadas-belive/) ou [de chocolate](https://belivebefree.com.br/produto/panetone-sem-gluten-zero-acucar-zero-lactose-chocolate-belive/), 420 g: R$ 59,90, contra R$ 64,90 no começo de novembro, e R$ 51,21 com MAUAD e Pix. O kit de 3 custa R$ 179,70, o mesmo que três avulsos; a vantagem do kit é passar do mínimo do frete grátis de R$ 170 em SP, MG, RJ, DF e GO."
         ],
         "postParagraphs": [
           "Os guias de cada produto: [Bolinho kids da Belive para a lancheira](/reviews/bolinho-kids-belive-lancheira), [Bolinho sem açúcar: Belive ou Suavipan, pelo rótulo de cada um](/reviews/bolinho-sem-acucar-belive-ou-suavipan) e [Panetone Belive é bom? Chocotone, zero açúcar e sem glúten pelo rótulo](/reviews/panetone-belive-e-bom)."
@@ -86083,11 +86083,11 @@ export const reviewsData: unknown[] = [
           "A Belive declara os produtos sem glúten, sem leite e sem lactose. Isso não torna a linha inteira adequada a qualquer alergia: quase todos os doces levam ovo e soja, e os panetones levam amêndoas. A informação que vale é a frase de alérgicos da página e da embalagem de cada produto. As que lemos em novembro:"
         ],
         "bullets": [
-          "**Pão de mel, comum e proteico:** \"NÃO CONTÉM GLÚTEN. ALÉRGICOS: CONTÉM DERIVADOS DE SOJA E OVO.\"",
-          "**Brownie de chocolate sem açúcar:** \"NÃO CONTÉM GLÚTEN. ALÉRGICOS: CONTÉM OVO E DERIVADO DE SOJA.\"",
-          "**Panetone de frutas:** \"ALÉRGICOS: CONTÉM AMÊNDOAS, DERIVADOS DE OVO E DERIVADOS DE SOJA. NÃO CONTÉM GLÚTEN.\"",
-          "**Panetone de chocolate:** \"ALÉRGICOS: CONTÉM DERIVADOS DE AMÊNDOAS, DERIVADOS DE OVO E DERIVADOS DE SOJA. NÃO CONTÉM GLÚTEN.\"",
-          "**Snack Proteico de queijo e Snack de Arroz de cebola e salsa:** \"ALÉRGICOS: CONTÉM DERIVADOS DE SOJA.\""
+          "Pão de mel, [comum](https://belivebefree.com.br/produto/pao-de-mel-sem-gluten-sem-acucar-sem-leite-belive/) e [proteico](https://belivebefree.com.br/produto/pao-de-mel-proteico-sem-gluten-sem-acucar-sem-leite-belive/): \"NÃO CONTÉM GLÚTEN. ALÉRGICOS: CONTÉM DERIVADOS DE SOJA E OVO.\"",
+          "[Brownie de chocolate sem açúcar](https://belivebefree.com.br/produto/brownie-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/): \"NÃO CONTÉM GLÚTEN. ALÉRGICOS: CONTÉM OVO E DERIVADO DE SOJA.\"",
+          "[Panetone de frutas](https://belivebefree.com.br/produto/panetone-zero-acucar-sem-gluten-zero-lactose-frutas-cristalizadas-belive/): \"ALÉRGICOS: CONTÉM AMÊNDOAS, DERIVADOS DE OVO E DERIVADOS DE SOJA. NÃO CONTÉM GLÚTEN.\"",
+          "[Panetone de chocolate](https://belivebefree.com.br/produto/panetone-sem-gluten-zero-acucar-zero-lactose-chocolate-belive/): \"ALÉRGICOS: CONTÉM DERIVADOS DE AMÊNDOAS, DERIVADOS DE OVO E DERIVADOS DE SOJA. NÃO CONTÉM GLÚTEN.\"",
+          "[Snack Proteico de queijo](https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/) e [Snack de Arroz de cebola e salsa](https://belivebefree.com.br/produto/salgadinho-de-cebola-e-salsa-sem-gluten-sem-leite-snack-de-arroz-belive/): \"ALÉRGICOS: CONTÉM DERIVADOS DE SOJA.\""
         ],
         "postParagraphs": [
           "Os brownies com nozes, avelã e caramelo salgado trazem ainda a lista de castanhas que contêm e as que podem conter. Sabor muda o rótulo: leia o bloco do sabor que você vai comprar.",
@@ -86117,56 +86117,56 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Brownie de chocolate sem açúcar, 1 un.",
+              "[Brownie de chocolate sem açúcar](https://belivebefree.com.br/produto/brownie-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/), 1 un.",
               "R$ 6,97",
               "R$ 6,62",
               "R$ 6,27",
               "R$ 5,96"
             ],
             [
-              "Kit com 10 brownies de chocolate sem açúcar",
+              "[Kit com 10 brownies de chocolate sem açúcar](https://belivebefree.com.br/produto/kit-10-brownies-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)",
               "R$ 64,82 (de R$ 69,70)",
               "R$ 61,58",
               "R$ 58,34",
               "R$ 55,42"
             ],
             [
-              "Pão sem glúten tradicional (pão de forma)",
+              "[Pão sem glúten tradicional](https://belivebefree.com.br/produto/pao-sem-gluten-sem-lactose-sem-leite-tradicional-belive/) (pão de forma)",
               "R$ 22,90",
               "R$ 21,76",
               "R$ 20,61",
               "R$ 19,58"
             ],
             [
-              "Pãozinho de batata sem glúten, pacote",
+              "[Pãozinho de batata sem glúten](https://belivebefree.com.br/produto/pao-de-batata-sem-gluten-sem-leite-sem-lactose-paozinho-belive/), pacote",
               "R$ 20,90",
               "R$ 19,86",
               "R$ 18,81",
               "R$ 17,87"
             ],
             [
-              "Bolinho de chocolate fit sem açúcar, 1 un.",
+              "[Bolinho de chocolate fit sem açúcar](https://belivebefree.com.br/produto/bolinho-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/), 1 un.",
               "R$ 4,58 (de R$ 5,39)",
               "R$ 4,35",
               "R$ 4,12",
               "R$ 3,91"
             ],
             [
-              "Kit com 10 bolinhos de chocolate fit sem açúcar",
+              "[Kit com 10 bolinhos de chocolate fit sem açúcar](https://belivebefree.com.br/produto/kit-10-bolinhos-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/)",
               "R$ 50,13 (de R$ 53,90)",
               "R$ 47,62",
               "R$ 45,12",
               "R$ 42,86"
             ],
             [
-              "Combo de salgadinhos snacks de arroz, 20 un.",
+              "[Combo de salgadinhos snacks de arroz](https://belivebefree.com.br/produto/combo-salgadinhos-sem-gluten-sem-leite-snacks-de-arroz-belive/), 20 un.",
               "R$ 95,90 (de R$ 103,80)",
               "R$ 91,11",
               "R$ 86,31",
               "R$ 81,99"
             ],
             [
-              "Salgadinho de queijo snack de arroz, 35 g",
+              "[Salgadinho de queijo snack de arroz](https://belivebefree.com.br/produto/salgadinho-de-queijo-sem-gluten-sem-leite-snack-de-arroz-belive/), 35 g",
               "R$ 4,15 (de R$ 5,19)",
               "R$ 3,94",
               "R$ 3,74",
@@ -86175,7 +86175,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Em meados de novembro, contra essa tabela: o brownie de chocolate avulso caiu para R$ 6,62 na sacola e o pão sem glúten tradicional, para R$ 16,03. O kit com 10 brownies, o kit com 10 bolinhos e o combo de 20 snacks de arroz seguem no mesmo preço. O bolinho de chocolate avulso, que estava em oferta relâmpago, foi a R$ 5,12, e o snack de arroz de queijo, a R$ 4,67: os dois subiram em relação a outubro. Não relemos o pãozinho de batata.",
+          "Em meados de novembro, contra essa tabela: o [brownie de chocolate](https://belivebefree.com.br/produto/brownie-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/) avulso caiu para R$ 6,62 na sacola e o [pão sem glúten tradicional](https://belivebefree.com.br/produto/pao-sem-gluten-sem-lactose-sem-leite-tradicional-belive/), para R$ 16,03. O [kit com 10 brownies](https://belivebefree.com.br/produto/kit-10-brownies-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/), o [kit com 10 bolinhos](https://belivebefree.com.br/produto/kit-10-bolinhos-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/) e o [combo de 20 snacks de arroz](https://belivebefree.com.br/produto/combo-salgadinhos-sem-gluten-sem-leite-snacks-de-arroz-belive/) seguem no mesmo preço. O [bolinho de chocolate](https://belivebefree.com.br/produto/bolinho-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/) avulso, que estava em oferta relâmpago, foi a R$ 5,12, e o [snack de arroz de queijo](https://belivebefree.com.br/produto/salgadinho-de-queijo-sem-gluten-sem-leite-snack-de-arroz-belive/), a R$ 4,67: os dois subiram em relação a outubro. Não relemos o [pãozinho de batata](https://belivebefree.com.br/produto/pao-de-batata-sem-gluten-sem-leite-sem-lactose-paozinho-belive/).",
           "Compare o mesmo produto e a mesma quantidade, com o total depois de cupom, forma de pagamento e frete. Um percentual maior sobre o preço riscado não garante uma compra mais barata."
         ]
       },
@@ -86218,7 +86218,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O cupom entrou sobre o preço de oferta de cada item, e a regra do MAUAD é somar com as ofertas do site e com o Pix. Com a Black November no ar, testamos o cupom num produto da campanha: quatro pães de cenoura, a R$ 58,52 com os 30% da Black Friday, caíram para R$ 52,67 com o MAUAD e para R$ 50,04 no Pix. As regras atuais do cupom ficam na [página do cupom da Belive](/cupons/belive), e o passo a passo no carrinho está em [Cupom Belive: como usar o MAUAD](/reviews/cupom-belive-como-usar)."
+          "O cupom entrou sobre o preço de oferta de cada item, e a regra do MAUAD é somar com as ofertas do site e com o Pix. Com a Black November no ar, testamos o cupom num produto da campanha: quatro [pães de cenoura](https://belivebefree.com.br/produto/pao-de-cenoura-sem-gluten-sem-leite-zero-lactose-belive-200g/), a R$ 58,52 com os 30% da Black Friday, caíram para R$ 52,67 com o MAUAD e para R$ 50,04 no Pix. As regras atuais do cupom ficam na [página do cupom da Belive](/cupons/belive), e o passo a passo no carrinho está em [Cupom Belive: como usar o MAUAD](/reviews/cupom-belive-como-usar)."
         ]
       },
       {
@@ -104847,14 +104847,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Probiótica 100% Pure Whey, Baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p), 900 g",
+              "[Probiótica 100% Pure Whey, Baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), 900 g",
               "30 g, 20 g de proteína",
               "30",
               "R$ 252,49",
               "R$ 42,08"
             ],
             [
-              "[Probiótica 100% Pure Whey Refil, Baunilha](https://www.probiotica.com.br/100-pure-whey-refil-900g/p), 900 g",
+              "[Probiótica 100% Pure Whey Refil, Baunilha](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), 900 g",
               "30 g, 20 g de proteína",
               "30",
               "R$ 235,65",
@@ -104929,7 +104929,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Probiótica Creatina Monohidratada Pura](https://www.probiotica.com.br/creatina-300g/p), 300 g",
+              "[Probiótica Creatina Monohidratada Pura](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), 300 g",
               "60",
               "R$ 59,90",
               "R$ 19,97"
@@ -105019,12 +105019,12 @@ export const reviewsData: unknown[] = [
         "emphasis": "Pelos números da tabela, para o menor preço por grama no whey, na creatina e na Creapure a escolha é a Probiótica; para a lista de ingredientes mais enxuta nas versões indicadas, a escolha é a Dux.",
         "emphasisAfterParagraph": 1,
         "bullets": [
-          "Quer o menor preço por 100 g de proteína no whey: [100% Pure Whey Refil, 900 g](https://www.probiotica.com.br/100-pure-whey-refil-900g/p), a R$ 38,10 no Pix, ou R$ 34,29 com o cupom no teto.",
-          "Prefere o pote rígido de 900 g: [100% Pure Whey, pote de 900 g](https://www.probiotica.com.br/100-pure-whey-pote-900g/p), a R$ 40,82 no Pix, ou R$ 36,74 com o cupom no teto.",
+          "Quer o menor preço por 100 g de proteína no whey: [100% Pure Whey Refil, 900 g](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), a R$ 38,10 no Pix, ou R$ 34,29 com o cupom no teto.",
+          "Prefere o pote rígido de 900 g: [100% Pure Whey, pote de 900 g](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), a R$ 40,82 no Pix, ou R$ 36,74 com o cupom no teto.",
           "Quer whey concentrado da Dux: o pote de 900 g Baunilha sai a R$ 58,41 por 100 g de proteína no Pix. Fica acima da Probiótica nessa conta.",
-          "Quer a creatina mais barata por grama: [Creatina Monohidratada Pura de 300 g](https://www.probiotica.com.br/creatina-300g/p), a R$ 18,97 no Pix, ou R$ 17,07 com o cupom no teto.",
+          "Quer a creatina mais barata por grama: [Creatina Monohidratada Pura de 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), a R$ 18,97 no Pix, ou R$ 17,07 com o cupom no teto.",
           "Quer a creatina com a lista de um ingrediente só: a monohidratada de 300 g da Dux, a R$ 20,55 por 100 g no Pix, sem antiumectante.",
-          "Quer Creapure: [Creatina Creapure de 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p), a R$ 64,59 por 100 g no Pix. Se a declaração de Creapure da Dux pesa mais, o pote de 300 g da Dux sai a R$ 87,05 por 100 g no Pix."
+          "Quer Creapure: [Creatina Creapure de 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), a R$ 64,59 por 100 g no Pix. Se a declaração de Creapure da Dux pesa mais, o pote de 300 g da Dux sai a R$ 87,05 por 100 g no Pix."
         ],
         "postParagraphs": [
           "Se o preço mudar, a conta muda. Refaça as contas com o preço do dia antes de comprar."
@@ -105826,19 +105826,19 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Creatina 100% Pura sem sabor, refil 500 g",
+              "[Creatina 100% Pura sem sabor, refil 500 g](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/)",
               "R$ 119,00",
               "R$ 79,90",
               "R$ 77,50"
             ],
             [
-              "Whey Isolado baunilha, refil 900 g",
+              "[Whey Isolado baunilha, refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/)",
               "sem preço riscado",
               "R$ 520,00",
               "R$ 504,40"
             ],
             [
-              "Whey Concentrado paçoquita, pote 450 g",
+              "[Whey Concentrado paçoquita, pote 450 g](https://www.lojamaismu.com.br/produtos/whey-concentrado-pacoquita-pote-450g/)",
               "sem preço riscado",
               "R$ 159,99",
               "R$ 155,19"
@@ -105846,7 +105846,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Uma oferta do \"até 50%\" só vale a pena se o preço do dia ficar abaixo desta tabela. Na vitrine da home, em novembro, a creatina refil de 500 g aparecia a R$ 74,90 (de R$ 119,90) e o whey concentrado paçoquita de 450 g a R$ 135,99 (de R$ 159,99), abaixo da tabela de outubro. Compare o mesmo produto, sabor e tamanho, e confira o total com cupom e frete, porque o preço do site muda sem aviso."
+          "Uma oferta do \"até 50%\" só vale a pena se o preço do dia ficar abaixo desta tabela. Na vitrine da home, em novembro, a [creatina refil de 500 g](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/) aparecia a R$ 74,90 (de R$ 119,90) e o [whey concentrado paçoquita de 450 g](https://www.lojamaismu.com.br/produtos/whey-concentrado-pacoquita-pote-450g/) a R$ 135,99 (de R$ 159,99), abaixo da tabela de outubro. Compare o mesmo produto, sabor e tamanho, e confira o total com cupom e frete, porque o preço do site muda sem aviso."
         ],
         "images": [
           {
@@ -105917,8 +105917,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina e pré-treino: o que estava em oferta",
         "paragraphs": [
-          "A **Creatina 100% Pura, refil de 500 g**, sem sabor, estava a R$ 74,90, de R$ 119,90, abaixo dos R$ 79,90 de outubro. É o item em que já testamos o cupom sobre o preço de oferta: os 10% entraram, e o refil sai por R$ 67,41, ou R$ 13,48 por 100 g. A dose do rótulo é de 3 g, e a loja fala em cerca de 167 doses por refil.",
-          "No pré-treino **Exquenta**, a dose é de 20 g, com 150 mg de cafeína. O pote de 500 g no sabor Amora e Melancia estava a R$ 89,99, de R$ 179,99: com o cupom, R$ 80,99, ou R$ 3,24 por dose. O de 300 g no sabor Tropical estava a R$ 96,75, e a dose saía por R$ 5,81 com o cupom. Nem todo sabor de 500 g estava com o mesmo desconto: confira o preço do sabor que você quer."
+          "A [Creatina 100% Pura, refil de 500 g](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/), sem sabor, estava a R$ 74,90, de R$ 119,90, abaixo dos R$ 79,90 de outubro. É o item em que já testamos o cupom sobre o preço de oferta: os 10% entraram, e o refil sai por R$ 67,41, ou R$ 13,48 por 100 g. A dose do rótulo é de 3 g, e a loja fala em cerca de 167 doses por refil.",
+          "No pré-treino **Exquenta**, a dose é de 20 g, com 150 mg de cafeína. O [pote de 500 g no sabor Amora e Melancia](https://www.lojamaismu.com.br/produtos/exquenta-amora-e-melancia-500g/) estava a R$ 89,99, de R$ 179,99: com o cupom, R$ 80,99, ou R$ 3,24 por dose. O de [300 g no sabor Tropical](https://www.lojamaismu.com.br/produtos/exquenta-tropical-300g/) estava a R$ 96,75, e a dose saía por R$ 5,81 com o cupom. Nem todo sabor de 500 g estava com o mesmo desconto: confira o preço do sabor que você quer."
         ],
         "postParagraphs": [
           "O rótulo de cada versão, inclusive as sem cafeína, está em [Exquenta Mais Mu: o que o rótulo mostra em cada sabor, sachê e versão sem cafeína](/reviews/pre-treino-exquenta-mais-mu-e-bom). Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
@@ -105945,7 +105945,7 @@ export const reviewsData: unknown[] = [
               "R$ 0,76"
             ],
             [
-              "Chocowheyfer Max 50 g, caixa de 20",
+              "[Chocowheyfer Max 50 g](https://www.lojamaismu.com.br/produtos/chocowheyfer-max-mais-mu-chocolate-caixa-20-unidades-1mr93/), caixa de 20",
               "12 g; 259 a 264 kcal",
               "R$ 9,68 → R$ 8,71",
               "R$ 0,73"
@@ -105957,7 +105957,7 @@ export const reviewsData: unknown[] = [
               "R$ 0,69"
             ],
             [
-              "Chocowheyfer Sem Cobertura 25 g, caixa de 12",
+              "[Chocowheyfer Sem Cobertura 25 g](https://www.lojamaismu.com.br/produtos/chocowheyfer-sem-cobertura-chocolate-rm7ps/), caixa de 12",
               "6 g; 126 a 130 kcal",
               "R$ 4,49 → R$ 4,04",
               "R$ 0,67"
@@ -105966,11 +105966,11 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**Mais proteína por unidade:** a Mukebar de 60 g, com 15 g por barra. A caixa estava a R$ 152,90.",
-          "**Menos calorias e menor preço por unidade:** o Chocowheyfer Sem Cobertura, de 25 g. A caixa estava a R$ 53,91, a mais barata das quatro.",
-          "**No meio do caminho:** a Crush Bar, de 35 g e 10 g de proteína, e o Chocowheyfer Max, que vem em caixa de 20 e pede o maior desembolso."
+          "**Menos calorias e menor preço por unidade:** o [Chocowheyfer Sem Cobertura](https://www.lojamaismu.com.br/produtos/chocowheyfer-sem-cobertura-chocolate-rm7ps/), de 25 g. A caixa estava a R$ 53,91, a mais barata das quatro.",
+          "**No meio do caminho:** a Crush Bar, de 35 g e 10 g de proteína, e o [Chocowheyfer Max](https://www.lojamaismu.com.br/produtos/chocowheyfer-max-mais-mu-chocolate-caixa-20-unidades-1mr93/), que vem em caixa de 20 e pede o maior desembolso."
         ],
         "postParagraphs": [
-          "O Veggie Wafer aparecia só dentro de um combo na nossa leitura. Açúcares, ingredientes e a tabela de cada sabor estão em [Barrinhas e wafers proteicos da Mais Mu: Mukebar, Crush Bar e Chocowheyfer, qual escolher](/reviews/barra-de-proteina-mais-mu-qual-escolher)."
+          "O [Veggie Wafer](https://www.lojamaismu.com.br/produtos/chocowheyfer-chocolate-vegetal-300g/) aparecia só dentro de um combo na nossa leitura. Açúcares, ingredientes e a tabela de cada sabor estão em [Barrinhas e wafers proteicos da Mais Mu: Mukebar, Crush Bar e Chocowheyfer, qual escolher](/reviews/barra-de-proteina-mais-mu-qual-escolher)."
         ]
       },
       {
@@ -120666,8 +120666,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "**Primeira vez:** o Mousse é o que a Skelt indica para iniciante. Tem cor-guia, um pigmento que mostra onde o produto já passou e sai no banho, e a marca fala em 5 a 8 aplicações por frasco. Nenhum frasco vem com a luva; por isso o Kit Iniciante, mais abaixo, é a compra de quem está começando.",
-          "**Mais vendido da categoria:** na ordenação por mais vendidos do site, o Bifásico aparece na frente dos outros autobronzeadores. Ele leva a fragrância do body splash Grand Bahama. A página não diz se tem cor-guia nem quantas aplicações rende.",
+          "**Primeira vez:** o Mousse é o que a Skelt indica para iniciante. Tem cor-guia, um pigmento que mostra onde o produto já passou e sai no banho, e a marca fala em 5 a 8 aplicações por frasco. Nenhum frasco vem com a luva; por isso o [Kit Iniciante](https://www.skelt.com.br/kitiniciante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), mais abaixo, é a compra de quem está começando.",
+          "**Mais vendido da categoria:** na ordenação por mais vendidos do site, o Bifásico aparece na frente dos outros autobronzeadores. Ele leva a fragrância do [body splash Grand Bahama](https://www.skelt.com.br/body-splash-grand-bahama/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz). A página não diz se tem cor-guia nem quantas aplicações rende.",
           "**Quem já sabe aplicar:** as versões Dark, que a ficha classifica como nível expert, estão pela metade do preço e saem mais baratas que as tradicionais. A Água e o Gel são incolores e não mostram onde o produto já passou. Espere secar antes de se vestir, seguindo as instruções da loja.",
           "**Removedor:** pela metade do preço, vale para quem aplica com frequência. Como ele funciona está em [removedor de autobronzeador Skelt](/reviews/removedor-autobronzeador-skelt-como-tirar).",
           "A comparação completa dos sete, com intensidade e tempo de pausa, está em [Autobronzeador Skelt: qual escolher](/reviews/autobronzeador-skelt-qual-escolher). Para cor que sai no banho, sem esperar a reação, veja [bronzeado instantâneo ou autobronzeador](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador)."
@@ -120692,12 +120692,12 @@ export const reviewsData: unknown[] = [
               "R$ 80,92"
             ],
             [
-              "Hidden Flowers, Amalfi Sunset, Mystic Bloom, Velvet Milano, Unexpected Day e Urban Beat",
+              "[Hidden Flowers](https://www.skelt.com.br/body-splash-hidden-flowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), [Amalfi Sunset](https://www.skelt.com.br/body-splash-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), [Mystic Bloom](https://www.skelt.com.br/body-splash-mystic-bloom/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), [Velvet Milano](https://www.skelt.com.br/body-splash-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), [Unexpected Day](https://www.skelt.com.br/body-splash-unexpected-day/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) e [Urban Beat](https://www.skelt.com.br/body-splash-urban-beat/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
               "R$ 89,91",
               "R$ 80,92"
             ],
             [
-              "Pink Sands, Grand Bahama e Milos Breeze",
+              "[Pink Sands](https://www.skelt.com.br/body-splash-pink-sands/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), [Grand Bahama](https://www.skelt.com.br/body-splash-grand-bahama/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) e [Milos Breeze](https://www.skelt.com.br/body-splash-milos-breeze/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
               "R$ 59,94",
               "R$ 53,95"
             ],
@@ -120751,31 +120751,31 @@ export const reviewsData: unknown[] = [
               "Kit, por R$ 1,89"
             ],
             [
-              "Kit Iniciante Dark (Mousse Dark + Luva)",
+              "[Kit Iniciante Dark](https://www.skelt.com.br/kitiniciantedark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (Mousse Dark + Luva)",
               "R$ 116,57",
               "R$ 89,86",
               "Avulsos, por R$ 26,71"
             ],
             [
-              "Perfume para Cabelos + Body Splash Amalfi Sunset",
+              "[Perfume para Cabelos + Body Splash Amalfi Sunset](https://www.skelt.com.br/perfume-para-cabelo-body-splash-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
               "R$ 148,39",
               "R$ 129,46",
               "Avulsos, por R$ 18,93"
             ],
             [
-              "Kit Hidratação Corporal Radiante & Perfumada (3 hidratantes)",
+              "[Kit Hidratação Corporal Radiante & Perfumada](https://www.skelt.com.br/kit-radiante-perfumada/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (3 hidratantes)",
               "R$ 213,62",
               "R$ 202,29",
               "Avulsos, por R$ 11,33"
             ],
             [
-              "Duo + Creme para Mãos Hidden Flowers",
+              "[Duo + Creme para Mãos Hidden Flowers](https://www.skelt.com.br/duo-creme-para-maos-hidden--flowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
               "R$ 165,15",
               "R$ 157,07",
               "Avulsos, por R$ 8,08"
             ],
             [
-              "Duo Hidden Flowers (splash + hidratante)",
+              "[Duo Hidden Flowers (splash + hidratante)](https://www.skelt.com.br/duo-hidden-flowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
               "R$ 151,40",
               "R$ 143,86",
               "Avulsos, por R$ 7,54"
@@ -120803,32 +120803,32 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Mousse Autobronzeador",
+              "[Mousse Autobronzeador](https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
               "R$ 119,90",
               "R$ 107,91"
             ],
             [
-              "Mousse Autobronzeador Dark",
+              "[Mousse Autobronzeador Dark](https://www.skelt.com.br/autobronzeador-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
               "R$ 129,90",
               "R$ 116,91"
             ],
             [
-              "Água Autobronzeadora (incolor)",
+              "[Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (incolor)",
               "R$ 119,90",
               "R$ 107,91"
             ],
             [
-              "Autobronzeador Bifásico",
+              "[Autobronzeador Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
               "R$ 119,90",
               "R$ 107,91"
             ],
             [
-              "Removedor de autobronzeador",
+              "[Removedor de autobronzeador](https://www.skelt.com.br/removedor-autobronzeador/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
               "R$ 69,90",
               "R$ 62,91"
             ],
             [
-              "Body Splash Solar Muse",
+              "[Body Splash Solar Muse](https://www.skelt.com.br/body-splash-solar-muse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
               "R$ 99,90",
               "R$ 89,91"
             ]
@@ -120867,7 +120867,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Brinde e frete",
         "paragraphs": [
-          "O brinde observado na leitura de novembro era um Body Cream Velvet Milano. A presença dele na sacola mudou quando o cupom reduziu o total do pedido. No Kit Best Sellers 2025, vimos três situações:",
+          "O brinde observado na leitura de novembro era um [Body Cream Velvet Milano](https://www.skelt.com.br/hidratante-corporal-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz). A presença dele na sacola mudou quando o cupom reduziu o total do pedido. No [Kit Best Sellers 2025](https://www.skelt.com.br/kit-best-sellers-2025/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), vimos três situações:",
           "Sem código, o kit saiu por R$ 263,84, com o brinde. Com o SKEMCASACOMCECILIA, caiu para R$ 237,46 e o brinde saiu da sacola. Com um creme para mãos junto e o cupom, o pedido foi a R$ 261,15 e o brinde voltou: R$ 2,69 abaixo do kit sozinho sem o código. Confira se o presente continua na sacola antes de pagar.",
           "A promoção de 48 horas, com dois brindes para quem usava o cupom, terminou em 06/11. Veja como foi em [brindes Skelt com o cupom](/reviews/brindes-skelt-black-friday-cupom).",
           "O frete também conta o valor final. Pela política da loja, é grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste e a partir de R$ 199 no Norte e no Nordeste. Na simulação da sacola:"
@@ -120903,7 +120903,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comprar agora ou esperar a sexta?",
         "paragraphs": [
-          "Os itens que já estão pela metade do preço, como o Mousse Dark e o Removedor, custam hoje bem menos que em outubro. Nos produtos de preço cheio, o desconto de hoje depende de quantos itens você leva: quem compra três já tem 25% antes do cupom.",
+          "Os itens que já estão pela metade do preço, como o [Mousse Dark](https://www.skelt.com.br/autobronzeador-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) e o [Removedor](https://www.skelt.com.br/removedor-autobronzeador/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), custam hoje bem menos que em outubro. Nos produtos de preço cheio, o desconto de hoje depende de quantos itens você leva: quem compra três já tem 25% antes do cupom.",
           "Uma ação passada não garante que o preço será menor na sexta. Use a tabela de outubro como referência e compare o total do mesmo produto, com cupom, pagamento e frete.",
           "Se precisa comprar agora, confira o desconto do SKEMCASACOMCECILIA e o total no Pix no carrinho. Se pode esperar, guarde o preço final para comparar com a oferta da sexta, sem presumir que ela será melhor."
         ]
@@ -121888,7 +121888,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "**Detroit:** a média de 26 polegadas e a grande saem pelo mesmo preço. A linha tem outra média, a Detroit II, de 71,2 litros, que custa R$ 379,90 na sacola em preto e em prata: mais cara e menor que a de 26 polegadas.",
+          "**Detroit:** a média de 26 polegadas e a grande saem pelo mesmo preço. A linha tem outra média, a [Detroit II](https://www.bagaggio.com.br/mala-media-23-kg-abs-4-rodas-detroit-preta-ii/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), de 71,2 litros, que custa R$ 379,90 na sacola em preto e em prata: mais cara e menor que a de 26 polegadas.",
           "**Route:** a grande, de 111,7 litros, custa R$ 45 a menos com o cupom que a média, de 76,6 litros. Era assim também em outubro.",
           "**Cartagena Grande:** as medidas informadas pela loja, 77,5 × 52 × 32,5 cm, somam 162 cm. Isso passa dos 158 cm da bagagem despachada padrão da LATAM. Antes de escolher pelo volume, confira o limite do seu bilhete e a cobrança por excesso na companhia.",
           "Como escolher entre P, M e G está em [tamanho de mala Bagaggio](/reviews/tamanho-mala-bagaggio-p-m-g)."
@@ -121933,25 +121933,25 @@ export const reviewsData: unknown[] = [
               "Empate"
             ],
             [
-              "3 Malas de Bordo Detroit",
+              "[3 Malas de Bordo Detroit](https://www.bagaggio.com.br/conjunto-de-3-malas-de-bordo-10-kg-abs-4-rodas-detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 674,73",
               "R$ 674,73",
               "Empate estimado"
             ],
             [
-              "Downtown PP + Detroit G Preta",
+              "[Downtown PP + Detroit G Preta](https://www.bagaggio.com.br/conjunto-de-malas-abs-downtown-pp-e-detroit-g-preta-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 476,82",
               "R$ 476,82",
               "Empate estimado"
             ],
             [
-              "Route P e G",
+              "[Route P e G](https://www.bagaggio.com.br/conjunto-de-malas--4-rodas-p-e-g-route-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 629,82",
               "R$ 629,82",
               "Empate estimado"
             ],
             [
-              "Cartagena P e G",
+              "[Cartagena P e G](https://www.bagaggio.com.br/conjunto-de-malas-polipropileno-4-rodas-cartagena-preta-p-e-g/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 764,82",
               "R$ 764,82",
               "Empate estimado"
@@ -122018,37 +122018,37 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Mala de Bordo PP 8 kg Downtown Preta",
+              "[Mala de Bordo PP 8 kg Downtown Preta](https://www.bagaggio.com.br/mala-de-bordo-pp-8-kg-abs-4-rodas-185-downtown--preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 249,90",
               "R$ 179,90"
             ],
             [
-              "Conjunto de Malas ABS Downtown PP e Detroit G Preta",
+              "[Conjunto de Malas ABS Downtown PP e Detroit G Preta](https://www.bagaggio.com.br/conjunto-de-malas-abs-downtown-pp-e-detroit-g-preta-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 749,80",
               "R$ 529,80"
             ],
             [
-              "Mala de Bordo 10 kg Polipropileno Route Preta",
+              "[Mala de Bordo 10 kg Polipropileno Route Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-route-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 449,90",
               "R$ 299,90"
             ],
             [
-              "Mala Média 23 kg Polipropileno Route Preta",
+              "[Mala Média 23 kg Polipropileno Route Preta](https://www.bagaggio.com.br/mala-route-media-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 499,90",
               "R$ 449,90"
             ],
             [
-              "Mala de Viagem 32 kg Polipropileno Route Preta",
+              "[Mala de Viagem 32 kg Polipropileno Route Preta](https://www.bagaggio.com.br/mala-route-grande-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 549,90",
               "R$ 399,90"
             ],
             [
-              "Mala Grande 32 kg ABS Detroit",
+              "[Mala Grande 32 kg ABS Detroit](https://www.bagaggio.com.br/mala-grande-32-kg-abs-4-rodas-detroit-preta-ii/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 499,90",
               "R$ 349,90"
             ],
             [
-              "Mochila Feminina Floral Camélia Rosa",
+              "[Mochila Feminina Floral Camélia Rosa](https://www.bagaggio.com.br/mochila-feminina-floral-camelia-rosa/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 79,90",
               "R$ 69,90"
             ],
@@ -122076,7 +122076,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom na sacola: a conta com o Pix",
         "paragraphs": [
-          "No teste de outubro com a Mala de Bordo PP Downtown Preta, o preço de R$ 179,90 caiu para R$ 161,91 com o CECILIA10, que dá 10% OFF em todo o site, e para R$ 153,81 no Pix. Na conferência de novembro da Route média, os 5% do Pix também entraram depois do cupom: de R$ 404,91 para R$ 384,66.",
+          "No teste de outubro com a [Mala de Bordo PP Downtown Preta](https://www.bagaggio.com.br/mala-de-bordo-pp-8-kg-abs-4-rodas-185-downtown--preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), o preço de R$ 179,90 caiu para R$ 161,91 com o CECILIA10, que dá 10% OFF em todo o site, e para R$ 153,81 no Pix. Na conferência de novembro da [Route média](https://www.bagaggio.com.br/mala-route-media-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), os 5% do Pix também entraram depois do cupom: de R$ 404,91 para R$ 384,66.",
           "O cupom entra no campo \"Cupom de desconto\" do resumo do pedido. O outro campo, \"Código de vendedor(a) ou influenciador(a)\", não é para ele. O passo a passo está em [Cupom Bagaggio: como usar o CECILIA10](/reviews/cupom-bagaggio-como-usar)."
         ],
         "bullets": [
@@ -122087,7 +122087,7 @@ export const reviewsData: unknown[] = [
           "Mercado Livre: o cupom não vale lá. Vale o preço do anúncio."
         ],
         "postParagraphs": [
-          "Na leitura de novembro, o CECILIA10 entrou em todas as sacolas que montamos: malas avulsas, conjuntos, mochilas e o Kit 3 Mochilas Explore. O frete saiu grátis com uma mala de bordo de R$ 224,91 em São Paulo, Porto Alegre, Salvador e Manaus.",
+          "Na leitura de novembro, o CECILIA10 entrou em todas as sacolas que montamos: malas avulsas, conjuntos, mochilas e o [Kit 3 Mochilas Explore](https://www.bagaggio.com.br/kit-3-mochilas-de-viagem-grandes-expansiveis-explore-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz). O frete saiu grátis com uma mala de bordo de R$ 224,91 em São Paulo, Porto Alegre, Salvador e Manaus.",
           "Mesmo assim, aplique o código e confira a linha do desconto antes de pagar: se ele não entrar, vale a oferta da loja."
         ],
         "image": {
@@ -122102,7 +122102,7 @@ export const reviewsData: unknown[] = [
         "heading": "Garantia: malas e mochilas são diferentes",
         "paragraphs": [
           "Malas da marca Bagaggio compradas a partir de 29/04/2024 têm garantia vitalícia contra vício de fabricação, sem custo. Vale só para o comprador original e só no Brasil. Mochila, bolsa e as marcas de terceiros vendidas pela loja ficam de fora.",
-          "Na prática, para os produtos deste guia: Detroit, Route, Santiago, Malta e Cartagena são da marca Bagaggio. A Downtown é da Travelcross e fica fora da vitalícia. As mochilas seguem a garantia da página de cada uma: 90 dias na Explore e 3 anos na Voyage.",
+          "Na prática, para os produtos deste guia: Detroit, Route, Santiago, Malta e Cartagena são da marca Bagaggio. A [Downtown](https://www.bagaggio.com.br/mala-de-bordo-pp-8-kg-abs-4-rodas-185-downtown--preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) é da Travelcross e fica fora da vitalícia. As mochilas seguem a garantia da página de cada uma: 90 dias na Explore e 3 anos na Voyage.",
           "A mochila tem a garantia da etiqueta, e a garantia legal vale à parte. Veja o que a garantia vitalícia cobre e o que não cobre em [garantia vitalícia Bagaggio](/reviews/bagaggio-garantia-vitalicia)."
         ],
         "image": {
@@ -131413,7 +131413,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual usar com cada roupa",
         "paragraphs": [
-          "Os preços são do site em 16 de novembro, um item por pedido. O MAUAD foi simulado no Comfort Up, no Top Segunda Pele e no Protetor; nas outras linhas, o valor é o preço da página menos 10%."
+          "Os preços são do site em 16 de novembro, um item por pedido. O MAUAD foi simulado no [Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), no [Top Segunda Pele](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e no [Protetor](https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao); nas outras linhas, o valor é o preço da página menos 10%."
         ],
         "comparisonTable": {
           "caption": "Site da Toda Up na leitura de novembro; a última coluna é o preço de venda registrado em outubro, sem cupom",
@@ -131425,61 +131425,61 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Sutiã Comfort Up: dia a dia, com sustentação e sem aro",
+              "[Sutiã Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao): dia a dia, com sustentação e sem aro",
               "R$ 189,90",
               "R$ 170,91",
               "R$ 170,91"
             ],
             [
-              "Sutiã Comfort Line: tomara que caia ou alças cruzadas",
+              "[Sutiã Comfort Line](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao): tomara que caia ou alças cruzadas",
               "R$ 189,90",
               "R$ 170,91",
               "R$ 189,90"
             ],
             [
-              "Sutiã Comfort Slim: regata ou tecido fino, com pouco volume",
+              "[Sutiã Comfort Slim](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao): regata ou tecido fino, com pouco volume",
               "R$ 189,90",
               "R$ 170,91",
               "R$ 189,90"
             ],
             [
-              "Top Segunda Pele SkinUp: roupa justa, sem marcar",
+              "[Top Segunda Pele SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao): roupa justa, sem marcar",
               "R$ 169,90",
               "R$ 152,91",
               "R$ 152,91"
             ],
             [
-              "Sutiã Top Alça Fina SkinUp: roupa justa, com alça fina e fecho",
+              "[Sutiã Top Alça Fina SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao): roupa justa, com alça fina e fecho",
               "R$ 199,90",
               "R$ 179,91",
               "R$ 179,90"
             ],
             [
-              "Sutiã Clássico SkinUp: roupa justa, com bojo fixo",
+              "[Sutiã Clássico SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao): roupa justa, com bojo fixo",
               "R$ 208,90",
               "R$ 188,01",
               "R$ 219,90"
             ],
             [
-              "Top Faixa ou Triangular Cotton Up: básico de algodão",
+              "[Top Faixa ou Triangular Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao): básico de algodão",
               "R$ 132,90",
               "R$ 119,61",
               "R$ 149,90"
             ],
             [
-              "Sutiã de Silicone Invisível: decote profundo ou costas nuas",
+              "[Sutiã de Silicone Invisível](https://todaup.com/discount/MAUAD?redirect=/products/sutia-de-silicone-invisivel&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao): decote profundo ou costas nuas",
               "R$ 149,90",
               "R$ 134,91",
               "R$ 149,90"
             ],
             [
-              "Fita Up: decote profundo, com levantamento",
+              "[Fita Up](https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao): decote profundo, com levantamento",
               "R$ 116,90",
               "R$ 105,21",
               "R$ 119,90"
             ],
             [
-              "Protetor de Silicone Ultrafino: roupa sem sutiã",
+              "[Protetor de Silicone Ultrafino](https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao): roupa sem sutiã",
               "R$ 59,90",
               "R$ 53,91",
               "R$ 69,90"
@@ -131488,7 +131488,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "**Comfort:** o Up é o do dia a dia, com fecho e alças reguláveis. O Line tem faixas internas de silicone e alças que saem ou cruzam. O Slim é o mais discreto. A comparação dos três está em [sutiã Toda Up: qual escolher](/reviews/sutia-toda-up-qual-escolher).",
-          "**SkinUp e Cotton Up:** a SkinUp é a linha sem costura, para não marcar. O Top Segunda Pele tem alça larga e não tem fecho; o Clássico é a única peça das duas linhas com bojo fixo. A Cotton Up é o básico de algodão, com o Top Faixa de decote reto e o Triangular em V. Veja [SkinUp ou Cotton Up](/reviews/skinup-ou-cotton-up-toda-up).",
+          "**SkinUp e Cotton Up:** a SkinUp é a linha sem costura, para não marcar. O Top Segunda Pele tem alça larga e não tem fecho; o [Clássico](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) é a única peça das duas linhas com bojo fixo. A Cotton Up é o básico de algodão, com o [Top Faixa](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) de decote reto e o [Triangular](https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) em V. Veja [SkinUp ou Cotton Up](/reviews/skinup-ou-cotton-up-toda-up).",
           "**Adesivos:** cada um pede um jeito de aplicar. Os passos estão em [sutiã de silicone invisível](/reviews/sutia-de-silicone-invisivel-como-usar), [protetor de silicone](/reviews/protetor-de-silicone-mamilo-como-usar) e [Fita Up](/reviews/fita-up-como-usar).",
           "O Comfort Up custa R$ 170,91 com o MAUAD, o mesmo preço de outubro sem cupom. No teste de outubro, com o código, ele saiu por R$ 153,82: agora são R$ 17,09 a mais, antes do frete. O Top Segunda Pele também só volta ao preço de outubro depois do cupom. Já os tops Cotton Up, o Clássico e o Protetor ficaram abaixo dos preços de outubro antes do cupom."
         ]
@@ -131499,9 +131499,9 @@ export const reviewsData: unknown[] = [
           "Antes do preço, veja se a peça existe no seu tamanho. Quatro recortes mudam a escolha:"
         ],
         "bullets": [
-          "Só o Comfort Up vai do PP (34-36) ao G3 (54-56). É o único com G2 e G3.",
-          "O Comfort Line não tem PP: vai do P (38-40) ao G1 (46-48), e a loja avisa que a modelagem é menor.",
-          "Na SkinUp, só o Sutiã Top Alça Fina tem PP (34-36). O Top Segunda Pele e o Clássico começam no P.",
+          "Só o [Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) vai do PP (34-36) ao G3 (54-56). É o único com G2 e G3.",
+          "O [Comfort Line](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) não tem PP: vai do P (38-40) ao G1 (46-48), e a loja avisa que a modelagem é menor.",
+          "Na SkinUp, só o [Sutiã Top Alça Fina](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) tem PP (34-36). O [Top Segunda Pele](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e o [Clássico](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) começam no P.",
           "O P não é o mesmo nas duas linhas: 38-40 na SkinUp e 36-38 na Cotton Up."
         ],
         "postParagraphs": [
@@ -131524,43 +131524,43 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Kit Sutiã Comfort Up + Protetor",
+              "[Kit Sutiã Comfort Up + Protetor](https://todaup.com/discount/MAUAD?redirect=/products/kit-sutia-comfort-up-protetor-de-silicone&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 190,90",
               "R$ 249,80",
               "R$ 58,90"
             ],
             [
-              "Kit Sutiã Comfort Slim + Protetor",
+              "[Kit Sutiã Comfort Slim + Protetor](https://todaup.com/discount/MAUAD?redirect=/products/kit-sutia-comfort-slim-protetor-de-silicone&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 202,35",
               "R$ 249,80",
               "R$ 47,45"
             ],
             [
-              "Kit Top e Calcinha Biquíni SkinUp",
+              "[Kit Top e Calcinha Biquíni SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/kit-top-e-calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 199,90",
               "R$ 219,80",
               "R$ 19,90"
             ],
             [
-              "Kit Top e Calcinha Biquíni Cotton Up",
+              "[Kit Top e Calcinha Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/kit-top-faixa-e-calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 155,52",
               "R$ 172,80",
               "R$ 17,28"
             ],
             [
-              "Kit de 3 conjuntos SkinUp",
+              "[Kit de 3 conjuntos SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/kit-top-e-calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 499,90",
               "R$ 659,40",
               "R$ 159,50"
             ],
             [
-              "Kit de 3 conjuntos Cotton Up",
+              "[Kit de 3 conjuntos Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/kit-top-faixa-e-calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 373,18",
               "R$ 385,50",
               "R$ 12,32"
             ],
             [
-              "Kit Comfort Up (Up, Slim e Line)",
+              "[Kit Comfort Up (Up, Slim e Line)](https://todaup.com/discount/MAUAD?redirect=/products/kit-comfort&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 398,79",
               "R$ 569,70",
               "R$ 170,91"
@@ -131572,14 +131572,14 @@ export const reviewsData: unknown[] = [
           "**Um conjunto:** a diferença é pequena, e o kit pede o mesmo tamanho de top e de calcinha. Quem veste tamanhos diferentes compra as peças avulsas.",
           "**Três conjuntos:** para quem já ia levar três. Na Cotton Up, a conta das avulsas usa a opção \"compre 2, leve 3\" da página do top; por isso a vantagem do kit é menor que na SkinUp.",
           "**Adesivos:** o Kit Invisible Up junta as soluções de silicone, com ou sem a case. Não lemos o preço dele nesta rodada: a conta está em [kit Toda Up: quando compensa](/reviews/kit-toda-up-quando-compensa).",
-          "O Kit SkinUp de um conjunto custa R$ 199,90 e ficaria em R$ 179,91 se o MAUAD aplicasse os 10%. Como não confirmamos a regra de valor mínimo do brinde, confira se ele continua no carrinho depois do cupom."
+          "O [Kit SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/kit-top-e-calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) de um conjunto custa R$ 199,90 e ficaria em R$ 179,91 se o MAUAD aplicasse os 10%. Como não confirmamos a regra de valor mínimo do brinde, confira se ele continua no carrinho depois do cupom."
         ]
       },
       {
         "heading": "O cupom, a campanha e a Black VIP",
         "paragraphs": [
-          "O cupom da Toda Up é o MAUAD, de 10% em todo o site. Em 16 de novembro, ele entrou por cima dos preços da Black November: uma Fita Up de R$ 116,90 saiu por R$ 105,21 no checkout, e um Comfort Up de R$ 189,90, por R$ 170,91. Por alguns dias de novembro, o mesmo código deu 15%; o percentual pode mudar de novo, então confira a linha do desconto antes de pagar.",
-          "A Black VIP é outra campanha da loja, com páginas próprias. Nela, o checkout avisa que o cupom de influenciadora não soma com a escada de desconto: num Comfort Up dessa seleção, o MAUAD não entrou. Nas páginas que lemos, o Comfort Up da Black VIP custava R$ 170,91 e o Top Segunda Pele, R$ 152,91: os mesmos valores do site aberto com o MAUAD. Nos tops Cotton Up, o site aberto com o cupom saiu melhor: R$ 119,61, contra R$ 149,90 na Black VIP.",
+          "O cupom da Toda Up é o MAUAD, de 10% em todo o site. Em 16 de novembro, ele entrou por cima dos preços da Black November: uma [Fita Up](https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) de R$ 116,90 saiu por R$ 105,21 no checkout, e um [Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) de R$ 189,90, por R$ 170,91. Por alguns dias de novembro, o mesmo código deu 15%; o percentual pode mudar de novo, então confira a linha do desconto antes de pagar.",
+          "A Black VIP é outra campanha da loja, com páginas próprias. Nela, o checkout avisa que o cupom de influenciadora não soma com a escada de desconto: num Comfort Up dessa seleção, o MAUAD não entrou. Nas páginas que lemos, o Comfort Up da Black VIP custava R$ 170,91 e o [Top Segunda Pele](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), R$ 152,91: os mesmos valores do site aberto com o MAUAD. Nos tops Cotton Up, o site aberto com o cupom saiu melhor: R$ 119,61, contra R$ 149,90 na Black VIP.",
           "O passo a passo do código está em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
         ],
         "image": {
@@ -131668,92 +131668,92 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Top Alça Fina Segunda Pele SkinUp",
+              "[Top Alça Fina Segunda Pele SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 199,90",
               "R$ 179,90"
             ],
             [
-              "Sutiã Comfort Slim",
+              "[Sutiã Comfort Slim](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 199,90",
               "R$ 189,90"
             ],
             [
-              "Sutiã Comfort Up",
+              "[Sutiã Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 199,90",
               "R$ 170,91"
             ],
             [
-              "Sutiã Clássico Segunda Pele SkinUp",
+              "[Sutiã Clássico Segunda Pele SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "não mostra",
               "R$ 219,90"
             ],
             [
-              "Sutiã Comfort Line",
+              "[Sutiã Comfort Line](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 199,90",
               "R$ 189,90"
             ],
             [
-              "Top Segunda Pele SkinUp",
+              "[Top Segunda Pele SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 199,90",
               "R$ 152,91"
             ],
             [
-              "Top Triangular Cotton Up",
+              "[Top Triangular Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 189,90",
               "R$ 149,90"
             ],
             [
-              "Top Faixa Cotton Up",
+              "[Top Faixa Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 189,90",
               "R$ 149,90"
             ],
             [
-              "Calcinha Fio Dental SkinUp",
+              "[Calcinha Fio Dental SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 59,90",
               "R$ 49,90"
             ],
             [
-              "Calcinha Fio Dental Cós Alto SkinUp",
+              "[Calcinha Fio Dental Cós Alto SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-cos-alto-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 59,90",
               "R$ 49,90"
             ],
             [
-              "Calcinha Biquíni SkinUp",
+              "[Calcinha Biquíni SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 59,90",
               "R$ 44,91"
             ],
             [
-              "Calcinha Cós Alto SkinUp",
+              "[Calcinha Cós Alto SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 59,90",
               "R$ 44,91"
             ],
             [
-              "Calcinha Biquíni Cotton Up",
+              "[Calcinha Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 59,90",
               "R$ 39,90"
             ],
             [
-              "Protetor de Silicone Ultrafino",
+              "[Protetor de Silicone Ultrafino](https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 99,90",
               "R$ 69,90"
             ],
             [
-              "Sutiã de Silicone Invisível",
+              "[Sutiã de Silicone Invisível](https://todaup.com/discount/MAUAD?redirect=/products/sutia-de-silicone-invisivel&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 159,90",
               "R$ 149,90"
             ],
             [
-              "Fita Up",
+              "[Fita Up](https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 179,90",
               "R$ 119,90"
             ],
             [
-              "Case Protetor de Silicone",
+              "[Case Protetor de Silicone](https://todaup.com/discount/MAUAD?redirect=/products/case-protetor-de-silicone&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
               "R$ 79,90",
               "R$ 49,90"
             ],
             [
-              "Kit Top Faixa ou Triangular + Calcinha Biquíni Cotton Up (preço da página principal)",
+              "[Kit Top Faixa ou Triangular + Calcinha Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/kit-top-faixa-e-calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) (preço da página principal)",
               "R$ 172,80",
               "R$ 155,52"
             ]
@@ -144915,13 +144915,13 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Probiótica Creatina Monohidratada Pura](https://www.probiotica.com.br/creatina-300g/p)",
+              "[Probiótica Creatina Monohidratada Pura](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "300 g",
               "R$ 59,90",
               "R$ 19,97"
             ],
             [
-              "[Probiótica Creatina Monohidratada Pura](https://www.probiotica.com.br/creatina-100g/p)",
+              "[Probiótica Creatina Monohidratada Pura](https://www.probiotica.com.br/creatina-100g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "100 g",
               "R$ 33,89",
               "R$ 33,89"
@@ -144975,21 +144975,21 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Probiótica 100% Pure Whey pote, Baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p)",
+              "[Probiótica 100% Pure Whey pote, Baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "900 g",
               "30 g, 20 g de proteína, 30 porções",
               "R$ 252,49",
               "R$ 42,08"
             ],
             [
-              "[Probiótica 100% Pure Whey refil, Baunilha](https://www.probiotica.com.br/100-pure-whey-refil-900g/p)",
+              "[Probiótica 100% Pure Whey refil, Baunilha](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "900 g",
               "30 g, 20 g de proteína, 30 porções",
               "R$ 235,65",
               "R$ 39,28"
             ],
             [
-              "[Probiótica Kit 2x 100% Pure Whey refil, Baunilha](https://www.probiotica.com.br/pack-100-whey/p)",
+              "[Probiótica Kit 2x 100% Pure Whey refil, Baunilha](https://www.probiotica.com.br/pack-100-whey/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "1,8 kg (2 x 900 g)",
               "30 g, 20 g de proteína, 60 porções",
               "R$ 471,30",
@@ -145168,7 +145168,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Creatina Monohidratada Pura 300 g](https://www.probiotica.com.br/creatina-300g/p)",
+              "[Creatina Monohidratada Pura 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "5 g (5.000 mg)",
               "60",
               "R$ 59,90",
@@ -145176,7 +145176,7 @@ export const reviewsData: unknown[] = [
               "R$ 1,00"
             ],
             [
-              "[Creatina Monohidratada Pura 100 g](https://www.probiotica.com.br/creatina-100g/p)",
+              "[Creatina Monohidratada Pura 100 g](https://www.probiotica.com.br/creatina-100g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "5 g (5.000 mg)",
               "20",
               "R$ 33,89",
@@ -145184,7 +145184,7 @@ export const reviewsData: unknown[] = [
               "R$ 1,69"
             ],
             [
-              "[Creatina Creapure Monohidratada 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p)",
+              "[Creatina Creapure Monohidratada 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "5 g (5.000 mg)",
               "30",
               "R$ 99,89",
@@ -145192,7 +145192,7 @@ export const reviewsData: unknown[] = [
               "R$ 3,33"
             ],
             [
-              "[Creatina Monodose, 30 sachês de 5 g](https://www.probiotica.com.br/creatina-monodose/p)",
+              "[Creatina Monodose, 30 sachês de 5 g](https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "5 g (5.000 mg)",
               "30",
               "R$ 69,89",
@@ -145313,10 +145313,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual creatina da Probiótica escolher",
         "bullets": [
-          "**Menor preço por grama:** [Creatina Monohidratada Pura 300 g](https://www.probiotica.com.br/creatina-300g/p). R$ 19,97 por 100 g e R$ 1,00 por dose de 5 g, com 60 porções e 5.000 mg por porção na tabela. É a escolha para quem toma uma porção ao dia: dura dois meses.",
-          "**Para experimentar:** [Creatina Monohidratada Pura 100 g](https://www.probiotica.com.br/creatina-100g/p). Mesma tabela, 20 porções, R$ 33,89. Custa 70% a mais por grama; vale só para conhecer o produto antes do pote grande.",
-          "**Quer o selo Creapure:** [Creatina Creapure Monohidratada 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p). R$ 66,59 por 100 g e R$ 3,33 por dose, com o selo 18SP11 no rótulo e os mesmos 5.000 mg por porção. A Pure Creatina Monster tem o mesmo selo e o mesmo preço, em porções de 3 g.",
-          "**Prefere dose pronta:** a [monodose de 30 sachês](https://www.probiotica.com.br/creatina-monodose/p), a R$ 2,33 por dose. Custa mais que o dobro do pote de 300 g pela mesma creatina."
+          "**Menor preço por grama:** [Creatina Monohidratada Pura 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi). R$ 19,97 por 100 g e R$ 1,00 por dose de 5 g, com 60 porções e 5.000 mg por porção na tabela. É a escolha para quem toma uma porção ao dia: dura dois meses.",
+          "**Para experimentar:** [Creatina Monohidratada Pura 100 g](https://www.probiotica.com.br/creatina-100g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi). Mesma tabela, 20 porções, R$ 33,89. Custa 70% a mais por grama; vale só para conhecer o produto antes do pote grande.",
+          "**Quer o selo Creapure:** [Creatina Creapure Monohidratada 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi). R$ 66,59 por 100 g e R$ 3,33 por dose, com o selo 18SP11 no rótulo e os mesmos 5.000 mg por porção. A Pure Creatina Monster tem o mesmo selo e o mesmo preço, em porções de 3 g.",
+          "**Prefere dose pronta:** a [monodose de 30 sachês](https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), a R$ 2,33 por dose. Custa mais que o dobro do pote de 300 g pela mesma creatina."
         ],
         "postParagraphs": [
           "Quem tem objetivo de saúde, usa medicamento ou tem restrição alimentar fala com um nutricionista ou médico antes de escolher. Para comparar a creatina da Probiótica com a de outras marcas, veja [creatina com sabor: qual escolher](/reviews/creatina-com-sabor-qual-escolher) e o [guia da creatina Black Skull](/reviews/creatina-black-skull-qual-escolher), que usa a mesma conta por grama."
@@ -145422,7 +145422,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Creatina Monohidratada Pura 300 g, pote](https://www.probiotica.com.br/creatina-300g/p)",
+              "[Creatina Monohidratada Pura 300 g, pote](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "5 g (5.000 mg)",
               "60",
               "R$ 59,90",
@@ -145430,7 +145430,7 @@ export const reviewsData: unknown[] = [
               "R$ 1,00"
             ],
             [
-              "[Creatina Monohidratada Pura 100 g, pote](https://www.probiotica.com.br/creatina-100g/p)",
+              "[Creatina Monohidratada Pura 100 g, pote](https://www.probiotica.com.br/creatina-100g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "5 g (5.000 mg)",
               "20",
               "R$ 33,89",
@@ -145438,7 +145438,7 @@ export const reviewsData: unknown[] = [
               "R$ 1,69"
             ],
             [
-              "[Creatina Monodose, 30 sachês de 5 g](https://www.probiotica.com.br/creatina-monodose/p)",
+              "[Creatina Monodose, 30 sachês de 5 g](https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "5 g (5.000 mg), 1 sachê",
               "30",
               "R$ 69,89",
@@ -145505,9 +145505,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando a monodose compensa",
         "bullets": [
-          "**Menor preço por dose:** [Creatina Monohidratada Pura 300 g](https://www.probiotica.com.br/creatina-300g/p), R$ 1,00 por dose e R$ 19,97 por 100 g. É a escolha pelo preço, e rende 60 doses.",
-          "**Quantidade menor, ainda pelo pote:** [Creatina Monohidratada Pura 100 g](https://www.probiotica.com.br/creatina-100g/p), R$ 33,89 por 20 doses. Custa mais por grama que o de 300 g, mas menos que o sachê, e serve para quem não quer o pote grande.",
-          "**O sachê como escolha de formato:** [Creatina Monodose](https://www.probiotica.com.br/creatina-monodose/p), R$ 69,89 por 30 doses. Compensa só se a dose já separada vale R$ 1,33 a mais para você; pelo rótulo, a creatina por porção é a mesma do pote."
+          "**Menor preço por dose:** [Creatina Monohidratada Pura 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), R$ 1,00 por dose e R$ 19,97 por 100 g. É a escolha pelo preço, e rende 60 doses.",
+          "**Quantidade menor, ainda pelo pote:** [Creatina Monohidratada Pura 100 g](https://www.probiotica.com.br/creatina-100g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), R$ 33,89 por 20 doses. Custa mais por grama que o de 300 g, mas menos que o sachê, e serve para quem não quer o pote grande.",
+          "**O sachê como escolha de formato:** [Creatina Monodose](https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), R$ 69,89 por 30 doses. Compensa só se a dose já separada vale R$ 1,33 a mais para você; pelo rótulo, a creatina por porção é a mesma do pote."
         ],
         "postParagraphs": [
           "As outras versões da linha, com a Creapure de 150 g e o que o rótulo de cada uma declara, estão em [qual creatina da Probiótica compensa](/reviews/creatina-probiotica-qual-compensa). Quem procura whey em sachê encontra o perfil em [melhor whey: qual escolher para cada objetivo](/reviews/melhor-whey-qual-escolher-por-objetivo); o sachê de outra marca está no guia do [whey da Mais Mu](/reviews/whey-mais-mu-qual-escolher).",
@@ -178881,20 +178881,20 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Rotina Pele Sensível",
-              "Gel de Limpeza Suave, Balm Antiolheiras e Hidratante Calmante Multirreparador",
+              "[Rotina Pele Sensível](https://simpleorganic.com.br/products/rotina-pele-sensivel)",
+              "[Gel de Limpeza Suave](https://simpleorganic.com.br/products/gel-de-limpeza-suave), [Balm Antiolheiras](https://simpleorganic.com.br/products/balm-antiolheiras) e [Hidratante Calmante Multirreparador](https://simpleorganic.com.br/products/hidratante-facial-calmante-multirreparador)",
               "R$ 97,90",
               "R$ 91,00"
             ],
             [
-              "Trio Body Splashes Simple",
-              "Blossom Kiss, Dream Cloud e Perfect Matcha, 100 mL cada",
+              "[Trio Body Splashes Simple](https://simpleorganic.com.br/products/kit-body-splash)",
+              "[Blossom Kiss](https://simpleorganic.com.br/products/body-splash-blossom-kiss), [Dream Cloud](https://simpleorganic.com.br/products/body-splash-dream-cloud) e [Perfect Matcha](https://simpleorganic.com.br/products/body-splash-perfect-matcha), 100 mL cada",
               "R$ 103,50",
               "R$ 99,50"
             ],
             [
-              "Duo Limpeza + Regeneração",
-              "Gel de Limpeza Suave e Solução Exossomos + PDRN + Peptídeos",
+              "[Duo Limpeza + Regeneração](https://simpleorganic.com.br/products/duo-limpeza-regeneracao)",
+              "Gel de Limpeza Suave e [Solução Exossomos + PDRN + Peptídeos](https://simpleorganic.com.br/products/solucao-pdrn)",
               "R$ 106,90",
               "R$ 107,00"
             ]
@@ -178904,7 +178904,7 @@ export const reviewsData: unknown[] = [
           "**Rotina Pele Sensível:** é o conjunto que mais compensa, R$ 6,90 abaixo dos três avulsos. Faz sentido para quem quer os três passos; quem não usa produto para a área dos olhos gasta menos com o gel e o hidratante avulsos, R$ 56,50.",
           "**Trio Body Splashes:** sai R$ 4,00 abaixo das três fragrâncias compradas uma a uma. É compra para quem gosta de variar ou vai dividir em presentes; quem já tem uma preferida leva só ela, por R$ 34,50.",
           "**Duo Limpeza + Regeneração:** não tem desconto a mais, custa dez centavos acima dos dois produtos avulsos. Escolha pelo que você quer usar, não pelo nome de duo: quem já tem gel de limpeza compra só a solução, por R$ 77,40.",
-          "**Séruns:** o Ultra Sérum Niacinamida, o Retinol e o [Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c) custam os mesmos R$ 41,40. O preço não desempata; o que decide é o ativo que cabe na sua rotina. Na dúvida sobre retinol ou vitamina C na sua pele, vale perguntar a um dermatologista.",
+          "**Séruns:** o [Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida), o [Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol) e o [Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c) custam os mesmos R$ 41,40. O preço não desempata; o que decide é o ativo que cabe na sua rotina. Na dúvida sobre retinol ou vitamina C na sua pele, vale perguntar a um dermatologista.",
           "**Gel de limpeza e hidratante:** são os itens com 50% de verdade e os mais baratos da tabela. O [Gel de Limpeza Profunda](https://simpleorganic.com.br/products/gel-de-limpeza-profunda) custa o mesmo que o Suave, R$ 29,50.",
           "Para presente, a escolha do conjunto está em [como escolher um kit de skincare para presente](/reviews/kit-skincare-presente-simple-organic). Para comparar a marca com outra do mesmo tipo, veja [Simple Organic ou Principia](/reviews/simple-organic-ou-principia)."
         ]
@@ -178913,8 +178913,8 @@ export const reviewsData: unknown[] = [
         "heading": "O cupom na Clean Friday: o que o teste mostrou",
         "paragraphs": [
           "O cupom entrou no carrinho com a Clean Friday no ar, mas a regra escrita da loja diz o contrário; o que vale é a linha de desconto que o seu carrinho mostra antes de pagar. O código é o S-EMCASACOMCECILIA, 5% na loja online da Simple Organic.",
-          "Num carrinho de R$ 182,00, com o kit Rotina Pele Sensível, o Hidratante Facial Super Glow e um lip combo a preço cheio, o código tirou R$ 9,10, 5% do total. Ele entrou num kit, num duo e em produtos com preço de campanha.",
-          "Na conferência de 15 de novembro, o código seguia entrando na sacola: tirou 5% do Trio Body Splashes, da Rotina Pele Sensível e do Duo Limpeza + Regeneração, os três com preço de campanha.",
+          "Num carrinho de R$ 182,00, com o kit [Rotina Pele Sensível](https://simpleorganic.com.br/products/rotina-pele-sensivel), o [Hidratante Facial Super Glow](https://simpleorganic.com.br/products/hidratante-facial-super-glow) e um [lip combo](https://simpleorganic.com.br/products/lip-combo-1) a preço cheio, o código tirou R$ 9,10, 5% do total. Ele entrou num kit, num duo e em produtos com preço de campanha.",
+          "Na conferência de 15 de novembro, o código seguia entrando na sacola: tirou 5% do [Trio Body Splashes](https://simpleorganic.com.br/products/kit-body-splash), da Rotina Pele Sensível e do [Duo Limpeza + Regeneração](https://simpleorganic.com.br/products/duo-limpeza-regeneracao), os três com preço de campanha.",
           "Coloque os produtos no carrinho, cole o código no campo \"Desconto\" e confira a linha do cupom antes de decidir. O link da parceria aplica o código na home; quem entra direto na página de um produto precisa colar o código. O passo a passo está em [Como usar o cupom da Simple Organic](/reviews/cupom-simple-organic-como-usar), e as condições do dia, na página do [cupom Simple Organic](/cupons/simple-organic).",
           "Nas Lojas Simple e nas farmácias, não conte com o código: ele é da loja online."
         ],
@@ -190653,21 +190653,21 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "[Descoberta](https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (8 refeições)",
-              "2 Mac Queijo, 2 Mac Alfredo, 2 Risoto Funghi e 2 Risoto Al Mare",
+              "2 [Mac Queijo](https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), 2 [Mac Alfredo](https://www.holyfoods.com.br/products/novo-mac-alfredo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), 2 [Risoto Funghi](https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e 2 [Risoto Al Mare](https://www.holyfoods.com.br/products/risoto-al-mare?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 159,20",
               "R$ 111,44",
               "R$ 13,93"
             ],
             [
               "[Rotina Resolvida](https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (15 refeições)",
-              "4 Mac Queijo, 3 Mac Alfredo, 3 Risoto Funghi, 3 Risoto Al Mare e 2 Risoto de Queijo",
+              "4 Mac Queijo, 3 Mac Alfredo, 3 Risoto Funghi, 3 Risoto Al Mare e 2 [Risoto de Queijo](https://www.holyfoods.com.br/products/risoto-de-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 298,50",
               "R$ 208,95",
               "R$ 13,93"
             ],
             [
               "[Despensa Cheia](https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (38 refeições)",
-              "1 Pack Canja da Mamãe, 1 Pack Sopa Low Carb, 6 Mac Queijo, 4 Mac Alfredo, 4 Risoto Funghi e 4 Risoto Al Mare",
+              "1 [Pack Canja da Mamãe](https://www.holyfoods.com.br/products/pack-canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), 1 [Pack Sopa Low Carb](https://www.holyfoods.com.br/products/pack-sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), 6 Mac Queijo, 4 Mac Alfredo, 4 Risoto Funghi e 4 Risoto Al Mare",
               "R$ 478,00",
               "R$ 334,60",
               "R$ 8,81"
@@ -190678,7 +190678,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Conta nossa, pelos preços da tabela: multiplique o avulso pelo número de itens e chega no preço de cada kit, nem um centavo a menos. Massa e risoto custam R$ 13,93 a unidade em qualquer kit, e cada unidade é uma refeição.",
           "A média de R$ 8,81 do Despensa Cheia mistura duas coisas. Dos R$ 334,60, R$ 250,74 são as 18 massas e risotos, a R$ 13,93 cada, e R$ 83,86 são os dois packs de sopa, com 20 sachês a R$ 4,19. Quem não quer sopa não ganha nada no kit grande; quem quer sopa pode comprar só os packs.",
-          "A home da loja também mostra o Projeto 30 Dias, com três packs de sopa: são 30 sachês por R$ 125,79, os mesmos R$ 4,19 por sachê do pack avulso.",
+          "A home da loja também mostra o [Projeto 30 Dias](https://www.holyfoods.com.br/products/projeto-30-dias?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), com três packs de sopa: são 30 sachês por R$ 125,79, os mesmos R$ 4,19 por sachê do pack avulso.",
           "O Mac Queijo vem nos três kits; no vídeo do fim do artigo, a Cecília prepara um na panela."
         ],
         "images": [
@@ -190754,11 +190754,11 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Sopas avulsas:** \"ALÉRGICOS: CONTÉM DERIVADOS DE SOJA. PODE CONTER CRUSTÁCEOS (CAMARÃO), PEIXES, LEITE, OVOS, AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN.\"",
           "**Packs de sopa:** \"ALÉRGICOS: CONTÉM DERIVADOS DE SOJA. PODE CONTER DERIVADOS DE LEITE, OVOS, PEIXES, CRUSTÁCEOS (CAMARÃO), AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN.\"",
-          "**Mac Queijo:** \"ALÉRGICOS: CONTÉM DERIVADOS DE LEITE E SOJA. PODE CONTER OVOS, PEIXES, CRUSTÁCEOS (CAMARÃO), AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN. CONTÉM LACTOSE.\"",
-          "**Mac Alfredo:** \"ALÉRGICOS: CONTÉM DERIVADOS DE LEITE. PODE CONTER SOJA, OVOS, PEIXES, CRUSTÁCEOS (CAMARÃO), AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN. CONTÉM LACTOSE.\"",
-          "**Risoto Funghi:** \"ALÉRGICOS: PODE CONTER DERIVADOS DE LEITE, SOJA, OVOS, PEIXES, CRUSTÁCEOS (CAMARÃO), AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN.\"",
-          "**Risoto Al Mare:** \"ALÉRGICOS: CONTÉM PEIXES E CRUSTÁCEOS (CAMARÃO). PODE CONTER OVOS, LEITE, SOJA, AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN.\"",
-          "**Risoto de Queijo:** \"ALÉRGICOS: CONTÉM DERIVADOS DE LEITE. PODE CONTER DERIVADOS DE SOJA, OVOS, PEIXES, CRUSTÁCEOS (CAMARÃO), AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN. CONTÉM LACTOSE.\""
+          "[Mac Queijo](https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz): \"ALÉRGICOS: CONTÉM DERIVADOS DE LEITE E SOJA. PODE CONTER OVOS, PEIXES, CRUSTÁCEOS (CAMARÃO), AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN. CONTÉM LACTOSE.\"",
+          "[Mac Alfredo](https://www.holyfoods.com.br/products/novo-mac-alfredo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz): \"ALÉRGICOS: CONTÉM DERIVADOS DE LEITE. PODE CONTER SOJA, OVOS, PEIXES, CRUSTÁCEOS (CAMARÃO), AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN. CONTÉM LACTOSE.\"",
+          "[Risoto Funghi](https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz): \"ALÉRGICOS: PODE CONTER DERIVADOS DE LEITE, SOJA, OVOS, PEIXES, CRUSTÁCEOS (CAMARÃO), AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN.\"",
+          "[Risoto Al Mare](https://www.holyfoods.com.br/products/risoto-al-mare?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz): \"ALÉRGICOS: CONTÉM PEIXES E CRUSTÁCEOS (CAMARÃO). PODE CONTER OVOS, LEITE, SOJA, AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN.\"",
+          "[Risoto de Queijo](https://www.holyfoods.com.br/products/risoto-de-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz): \"ALÉRGICOS: CONTÉM DERIVADOS DE LEITE. PODE CONTER DERIVADOS DE SOJA, OVOS, PEIXES, CRUSTÁCEOS (CAMARÃO), AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN. CONTÉM LACTOSE.\""
         ],
         "postParagraphs": [
           "Isso pesa na escolha do kit: os três trazem Mac Queijo, Mac Alfredo e Risoto Al Mare, e a Rotina Resolvida ainda traz o Risoto de Queijo. Quem evita leite, lactose, peixe ou camarão monta o pedido pelos avulsos, que custam o mesmo."
@@ -190787,7 +190787,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Sopas",
-              "1 Pack Sopa da Vovó e 2 Sopas Detox",
+              "1 [Pack Sopa da Vovó](https://www.holyfoods.com.br/products/pack-sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e 2 [Sopas Detox](https://www.holyfoods.com.br/products/sopa-detox?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 69,79",
               "−R$ 10,47",
               "R$ 59,32"
@@ -229587,13 +229587,13 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Whey Bar, Probiótica](https://www.probiotica.com.br/whey-bar-24-un-/p), 24 unidades",
+              "[Whey Bar, Probiótica](https://www.probiotica.com.br/whey-bar-24-un-/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), 24 unidades",
               "R$ 137,08",
               "R$ 5,71",
               "R$ 0,38"
             ],
             [
-              "[Whey Bar Creamy, Probiótica](https://www.probiotica.com.br/whey-bar-creamy/p), 12 unidades",
+              "[Whey Bar Creamy, Probiótica](https://www.probiotica.com.br/whey-bar-creamy/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), 12 unidades",
               "R$ 76,33",
               "R$ 6,36",
               "R$ 0,58 a R$ 0,64"
@@ -229668,7 +229668,7 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-whey-bar-probiotica.webp",
             "alt": "Caixa com 24 unidades da Whey Bar da Probiótica, sabor Chocolate, com uma barra de 40 g à frente, em imagem oficial",
             "caption": "Whey Bar, caixa de 24. Imagem: Probiótica.",
-            "href": "https://www.probiotica.com.br/whey-bar-24-un-/p",
+            "href": "https://www.probiotica.com.br/whey-bar-24-un-/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
             "objectFit": "square",
             "aspectRatio": 1,
             "store": "probiotica"
