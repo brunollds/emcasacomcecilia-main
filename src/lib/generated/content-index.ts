@@ -64087,7 +64087,7 @@ export const reviewsData: unknown[] = [
       "O desconto máximo anunciado vale para itens selecionados e depende das condições da campanha",
       "O ICMS de 17% a 20% continua em toda compra internacional",
       "Acima de US$ 50, o imposto de importação volta: 60%, menos US$ 30 no valor do imposto",
-      "Um cupom da SHEIN por pedido, e o imposto pago não volta na devolução"
+      "Um cupom da SHEIN por pedido. Confira como cupom e impostos entram no reembolso de uma devolução"
     ],
     "contentSections": [
       {
@@ -64099,7 +64099,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando começa a Black Friday da SHEIN",
         "paragraphs": [
-          "Em 2026, a SHEIN junta o 11.11 e a Black Friday numa campanha só, com a cantora IZA, segundo o diretor de marketing em [entrevista à VEJA](https://veja.abril.com.br/economia/shein-aposta-na-cantora-iza-para-impulsionar-vendas-na-black-friday/). A primeira etapa foi de 19 de outubro a 2 de novembro. O reforço vem na semana do 11.11 e na Black Friday, com descontos anunciados de até 95% em selecionados. Falta o calendário completo: não encontramos as datas das próximas fases nem a data de fim. A tabela abaixo mostra o que a SHEIN anunciou nos três últimos anos."
+          "Em 2026, a SHEIN junta o 11.11 e a Black Friday numa campanha só, com a cantora IZA, segundo o diretor de marketing em [entrevista à VEJA](https://veja.abril.com.br/economia/shein-aposta-na-cantora-iza-para-impulsionar-vendas-na-black-friday/). A primeira etapa foi de 19 de outubro a 2 de novembro. A campanha anunciou reforço na semana do 11.11 e na Black Friday, com descontos de até 95% em itens selecionados. Falta o calendário completo: não encontramos as datas das próximas fases nem a data de fim. A tabela abaixo mostra o que a SHEIN anunciou nos três últimos anos."
         ],
         "comparisonTable": {
           "caption": "Fases e descontos máximos anunciados pela SHEIN, pela imprensa que publicou os comunicados e pelos perfis da marca. O \"até\" vale para alguns itens.",
@@ -64153,123 +64153,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O que comprar: as 17 peças num quadro só",
+        "heading": "O que comprar: 17 peças, por necessidade",
         "paragraphs": [
-          "São 17 peças da campanha, escolhidas para cobrir festa, dia a dia, treino, praia, pijama, criança, acessório e Natal. Abrimos a página de cada uma em meados de novembro: preço, desconto, tecido, medidas e nota são os da ficha nesse dia. O contador de vendidos é o que a SHEIN mostra no cartão da peça na vitrine da campanha, e ele vem em faixas, como \"900+\", sem o total exato."
+          "São 17 peças da campanha, em cinco grupos, escolhidas para cobrir festa, dia a dia, treino, praia, pijama, criança, acessório e Natal. Abrimos a página de cada uma em meados de novembro: preço, desconto, tecido, medidas e nota são os da ficha nesse dia. O contador de vendidos é o que a SHEIN mostra no cartão da peça na vitrine da campanha, e ele vem em faixas, como \"900+\", sem o total exato."
         ],
-        "comparisonTable": {
-          "caption": "Preço e desconto da ficha de cada peça na SHEIN. O preço muda durante a campanha e pode mudar por cor e por tamanho.",
-          "headers": [
-            "Peça",
-            "Preço",
-            "Desconto",
-            "Para quê"
-          ],
-          "rows": [
-            [
-              "[Vestido de alças finas SHEIN BAE](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
-              "R$ 113,56",
-              "-20% (de R$ 141,95)",
-              "Festa, jantar e encontro"
-            ],
-            [
-              "[Vestido mini frente única SHEIN PETITE](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
-              "R$ 102,32",
-              "-20% (de R$ 127,90)",
-              "Festa e encontro, grade Petite"
-            ],
-            [
-              "[Vestido floral Opulessa](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
-              "R$ 68,76",
-              "-20% (de R$ 85,95)",
-              "Férias e calor"
-            ],
-            [
-              "[Conjunto de top e pantalona marrom e branco](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
-              "R$ 83,16",
-              "-20% (de R$ 103,95)",
-              "Trabalho informal e fim de semana"
-            ],
-            [
-              "[Top de renda com gola alta SHEIN PariChic](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
-              "R$ 79,16",
-              "-20% (de R$ 98,95)",
-              "Sozinho ou em sobreposição"
-            ],
-            [
-              "[Blusa xadrez vichy com babado SHEIN EZwear](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
-              "R$ 59,95",
-              "—",
-              "Casual de verão, solta"
-            ],
-            [
-              "[Camisa xadrez sem mangas com amarração Sweetra](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
-              "R$ 47,96",
-              "-20% (de R$ 59,95)",
-              "Casual, marcada na cintura"
-            ],
-            [
-              "[Jaqueta de camurça sintética com zíper](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
-              "R$ 91,96",
-              "-20% (de R$ 114,95)",
-              "Meia-estação e viagem"
-            ],
-            [
-              "[Top esportivo de costas cruzadas Anewsta](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
-              "R$ 53,95",
-              "—",
-              "Treino e yoga"
-            ],
-            [
-              "[Legging sem costura Yefecy](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
-              "R$ 70,36",
-              "-20% (de R$ 87,95)",
-              "Treino e yoga"
-            ],
-            [
-              "[Maiô azul-marinho e branco Costavie](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
-              "R$ 59,99",
-              "-20% (de R$ 74,99)",
-              "Praia e piscina"
-            ],
-            [
-              "[Saída de praia floral SHEIN Swim](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
-              "R$ 66,39",
-              "-20% (de R$ 82,99)",
-              "Por cima do maiô ou do biquíni"
-            ],
-            [
-              "[Pijama de regata e short com estampa de urso](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
-              "R$ 29,59",
-              "-20% (de R$ 36,99)",
-              "Dormir e ficar em casa"
-            ],
-            [
-              "[Conjunto infantil de gola polo e pantalona](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
-              "R$ 87,90",
-              "—",
-              "Menina de 4 a 8 anos, meia-estação"
-            ],
-            [
-              "[Macacão de bebê estilo astronauta](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
-              "R$ 68,76",
-              "-20% (de R$ 85,95)",
-              "Bebê de 1 a 12 meses"
-            ],
-            [
-              "[Kit de 20 anéis prateados](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
-              "R$ 12,76",
-              "-20% (de R$ 15,95)",
-              "Acessório do dia a dia e lembrancinha"
-            ],
-            [
-              "[Painel de Natal para porta, com estampa de lareira](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
-              "R$ 26,07",
-              "-18% (de R$ 31,95)",
-              "Decoração de Natal"
-            ]
-          ]
-        },
         "postParagraphs": [
           "Todas as 17 são de envio internacional: pagam o ICMS no checkout e entram na conta do limite de US$ 50, explicada mais abaixo. Na data da leitura, a entrega estimada ia do fim de novembro à primeira semana de dezembro.",
           "O tamanho se escolhe pela tabela de cada peça, em centímetros, e não pela letra: a grade muda de marca para marca dentro da SHEIN. O [guia de tamanho da SHEIN](/reviews/tamanho-shein-brasil) mostra como medir o corpo e ler a tabela."
@@ -64331,7 +64218,42 @@ export const reviewsData: unknown[] = [
         "heading": "Vestidos e conjunto: festa, férias e rotina",
         "paragraphs": [
           "Três vestidos e um conjunto de duas peças. Dois vestidos têm tecido sem elasticidade, e nesses a medida de busto e de cintura decide o tamanho."
-        ]
+        ],
+        "comparisonTable": {
+          "caption": "Preço e desconto da ficha de cada peça na SHEIN. O preço muda durante a campanha e pode mudar por cor e por tamanho.",
+          "headers": [
+            "Peça",
+            "Preço",
+            "Desconto",
+            "Para quê"
+          ],
+          "rows": [
+            [
+              "[Vestido de alças finas SHEIN BAE](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
+              "R$ 113,56",
+              "-20% (de R$ 141,95)",
+              "Festa, jantar e encontro"
+            ],
+            [
+              "[Vestido mini frente única SHEIN PETITE](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
+              "R$ 102,32",
+              "-20% (de R$ 127,90)",
+              "Festa e encontro, grade Petite"
+            ],
+            [
+              "[Vestido floral Opulessa](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
+              "R$ 68,76",
+              "-20% (de R$ 85,95)",
+              "Férias e calor"
+            ],
+            [
+              "[Conjunto de top e pantalona marrom e branco](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
+              "R$ 83,16",
+              "-20% (de R$ 103,95)",
+              "Trabalho informal e fim de semana"
+            ]
+          ]
+        }
       },
       {
         "heading": "Vestido de alças finas SHEIN BAE",
@@ -64343,7 +64265,7 @@ export const reviewsData: unknown[] = [
         ],
         "paragraphs": [
           "Vestido de alças finas com saia rodada, costas abertas e zíper, na cor vermelha que o link abre. A tabela da peça dá de 84 cm de busto e 66 cm de cintura no XPP a 114 cm e 96 cm no EG, com comprimento de 122 a 134 cm.",
-          "O tecido não estica, então o busto e a cintura precisam bater com as suas medidas: compare em centímetros antes de escolher. Para outros modelos de festa, veja o [guia de vestido de festa da SHEIN](/reviews/vestido-de-festa-shein)."
+          "O tecido não estica. Compare as medidas da peça com as de um vestido sem elasticidade que já fica confortável em você, observando a folga no busto e na cintura. Para outros modelos de festa, veja o [guia de vestido de festa da SHEIN](/reviews/vestido-de-festa-shein)."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-01-vestido-longo-bae.webp",
@@ -64461,7 +64383,42 @@ export const reviewsData: unknown[] = [
         "heading": "Blusas, tops e jaqueta: casual e meia-estação",
         "paragraphs": [
           "Três peças de cima sem elasticidade e uma jaqueta. As duas blusas xadrez têm caimentos opostos: uma solta, a outra marcada na cintura."
-        ]
+        ],
+        "comparisonTable": {
+          "caption": "Preço e desconto da ficha de cada peça na SHEIN. O preço muda durante a campanha e pode mudar por cor e por tamanho.",
+          "headers": [
+            "Peça",
+            "Preço",
+            "Desconto",
+            "Para quê"
+          ],
+          "rows": [
+            [
+              "[Top de renda com gola alta SHEIN PariChic](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
+              "R$ 79,16",
+              "-20% (de R$ 98,95)",
+              "Sozinho ou em sobreposição"
+            ],
+            [
+              "[Blusa xadrez vichy com babado SHEIN EZwear](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
+              "R$ 59,95",
+              "—",
+              "Casual de verão, solta"
+            ],
+            [
+              "[Camisa xadrez sem mangas com amarração Sweetra](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
+              "R$ 47,96",
+              "-20% (de R$ 59,95)",
+              "Casual, marcada na cintura"
+            ],
+            [
+              "[Jaqueta de camurça sintética com zíper](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
+              "R$ 91,96",
+              "-20% (de R$ 114,95)",
+              "Meia-estação e viagem"
+            ]
+          ]
+        }
       },
       {
         "heading": "Top de renda com gola alta SHEIN PariChic",
@@ -64590,7 +64547,48 @@ export const reviewsData: unknown[] = [
         "heading": "Treino, praia e pijama",
         "paragraphs": [
           "Um conjunto de treino que se monta com duas peças, um maiô com a saída de praia e o pijama, que é a roupa mais barata da lista."
-        ]
+        ],
+        "comparisonTable": {
+          "caption": "Preço e desconto da ficha de cada peça na SHEIN. O preço muda durante a campanha e pode mudar por cor e por tamanho.",
+          "headers": [
+            "Peça",
+            "Preço",
+            "Desconto",
+            "Para quê"
+          ],
+          "rows": [
+            [
+              "[Top esportivo de costas cruzadas Anewsta](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
+              "R$ 53,95",
+              "—",
+              "Treino e yoga"
+            ],
+            [
+              "[Legging sem costura Yefecy](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
+              "R$ 70,36",
+              "-20% (de R$ 87,95)",
+              "Treino e yoga"
+            ],
+            [
+              "[Maiô azul-marinho e branco Costavie](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
+              "R$ 59,99",
+              "-20% (de R$ 74,99)",
+              "Praia e piscina"
+            ],
+            [
+              "[Saída de praia floral SHEIN Swim](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
+              "R$ 66,39",
+              "-20% (de R$ 82,99)",
+              "Por cima do maiô ou do biquíni"
+            ],
+            [
+              "[Pijama de regata e short com estampa de urso](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
+              "R$ 29,59",
+              "-20% (de R$ 36,99)",
+              "Dormir e ficar em casa"
+            ]
+          ]
+        }
       },
       {
         "heading": "Top esportivo de costas cruzadas Anewsta",
@@ -64639,7 +64637,7 @@ export const reviewsData: unknown[] = [
         ],
         "paragraphs": [
           "Legging longa de compressão, sem costura, na cor roxa que o link abre. O título da loja fala em cintura média, e a ficha marca cintura alta: olhe as fotos da página para ver onde o cós fica.",
-          "A grade é curta, só três tamanhos, e as medidas da tabela são da peça sem esticar: 58 cm de cintura e 68 cm de quadril no P, 66 cm e 76 cm no G. Legging esticada demais fica transparente, então, se as suas medidas passam muito das do G, esta não é a peça."
+          "A grade tem P, M e G. A tabela informa a peça sem esticar: 58 cm de cintura e 68 cm de quadril no P; 66 cm e 76 cm no G. Esses números não são limites para as medidas do corpo. Compare com uma legging de elasticidade semelhante que você já usa e consulte a orientação de tamanho da página."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-10-legging-yefecy.webp",
@@ -64775,7 +64773,30 @@ export const reviewsData: unknown[] = [
         "heading": "Infantil e bebê",
         "paragraphs": [
           "Um conjunto para menina de 4 a 8 anos e um macacão de bebê. Nas duas, a escolha é pelas medidas da criança, e não pela idade do tamanho."
-        ]
+        ],
+        "comparisonTable": {
+          "caption": "Preço e desconto da ficha de cada peça na SHEIN. O preço muda durante a campanha e pode mudar por cor e por tamanho.",
+          "headers": [
+            "Peça",
+            "Preço",
+            "Desconto",
+            "Para quê"
+          ],
+          "rows": [
+            [
+              "[Conjunto infantil de gola polo e pantalona](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
+              "R$ 87,90",
+              "—",
+              "Menina de 4 a 8 anos, meia-estação"
+            ],
+            [
+              "[Macacão de bebê estilo astronauta](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
+              "R$ 68,76",
+              "-20% (de R$ 85,95)",
+              "Bebê de 1 a 12 meses"
+            ]
+          ]
+        }
       },
       {
         "heading": "Conjunto infantil de gola polo e pantalona",
@@ -64818,7 +64839,7 @@ export const reviewsData: unknown[] = [
         ],
         "paragraphs": [
           "Macacão laranja de manga longa, com zíper, bolso e emblemas de astronauta, em blocos de cor com preto. A tabela dá 50 cm de comprimento no tamanho de 1 a 3 meses e 65 cm no de 9 a 12 meses.",
-          "Bebê cresce rápido. O prazo de entrega aparece na página antes de pagar: some esse prazo à idade do bebê e escolha o tamanho pelo que ele vai medir quando a peça chegar. É uma peça com poucas avaliações, então a tabela de medidas é a melhor referência que você tem."
+          "Considere o prazo de entrega antes de comprar: a peça pode chegar quando o bebê já estiver em outra fase de tamanho. A idade da etiqueta é uma referência; compare as medidas atuais do bebê com a orientação da loja. Como há poucas avaliações, confira a tabela com atenção e evite escolher apenas pela faixa de meses."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-15-macacao-bebe.webp",
@@ -64843,7 +64864,30 @@ export const reviewsData: unknown[] = [
         "heading": "Acessório e decoração de Natal",
         "paragraphs": [
           "As duas compras mais baratas da lista: um kit de anéis e um painel de Natal para a porta."
-        ]
+        ],
+        "comparisonTable": {
+          "caption": "Preço e desconto da ficha de cada peça na SHEIN. O preço muda durante a campanha e pode mudar por cor e por tamanho.",
+          "headers": [
+            "Peça",
+            "Preço",
+            "Desconto",
+            "Para quê"
+          ],
+          "rows": [
+            [
+              "[Kit de 20 anéis prateados](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
+              "R$ 12,76",
+              "-20% (de R$ 15,95)",
+              "Acessório do dia a dia e lembrancinha"
+            ],
+            [
+              "[Painel de Natal para porta, com estampa de lareira](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
+              "R$ 26,07",
+              "-18% (de R$ 31,95)",
+              "Decoração de Natal"
+            ]
+          ]
+        }
       },
       {
         "heading": "Kit de 20 anéis prateados",
@@ -64886,7 +64930,7 @@ export const reviewsData: unknown[] = [
         ],
         "paragraphs": [
           "É um painel de tecido para cobrir a porta, com a estampa de uma lareira decorada e a frase Merry Christmas. Vem uma peça. Meça a sua porta antes: são duas alturas, 180 e 200 cm, com 90 cm de largura.",
-          "Decoração de Natal só serve se chegar antes do dia 24. O prazo de entrega para o seu CEP aparece na página antes de pagar: se a data estimada passar do Natal, não compre para este ano."
+          "Para decorar neste Natal, confira se a entrega estimada antecede o dia em que você pretende montar a decoração. Veja também as dimensões da porta antes de escolher o tamanho do painel."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-17-faixa-natal-lareira.webp",
@@ -64927,7 +64971,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A SHEIN diz que continua cobrindo parte do ICMS, só sobre o valor do produto. O tamanho desse subsídio muda de cliente para cliente, por critérios que a loja não divulga, e não cobre o ICMS que incide sobre o imposto de importação.",
-          "Os produtos de **Envio Nacional**, que já estão no Brasil, não pagam imposto de importação. E o imposto de importação pago não volta se você devolver a peça depois do envio."
+          "Os produtos de **Envio Nacional**, que já estão no Brasil, não pagam imposto de importação. Em caso de devolução, confira os tributos discriminados no reembolso do pedido."
         ]
       },
       {
@@ -64947,7 +64991,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Pela política de cupons da SHEIN, vale um cupom da plataforma por pedido. Se o carrinho tiver produtos de vendedores nacionais, dá para usar também o cupom da loja desse vendedor: no máximo dois cupons, um de cada tipo. Cada cupom tem validade, e o que não foi usado a tempo fica indisponível.",
           "Os pontos SHEIN valem US$ 1 a cada 100 pontos e abatem até 30% do valor dos produtos, sem contar frete e impostos. Eles não valem em itens de vendedores nacionais.",
-          "O 4CW5Y não é cupom: é o código de indicação da Cecília, e ele dá desconto, sim. Pelo link da Cecília, ou copiando o código e pesquisando no app ou no site da SHEIN, você abre uma página com uma seleção de produtos indicados, promoções e descontos. Quanto e em quais peças, a SHEIN decide e varia. As campanhas da SHEIN mudam toda hora: confira as vigentes na página da loja aqui do site antes de fechar o pedido.",
+          "O 4CW5Y é o código de indicação da Cecília na SHEIN e dá acesso a uma seleção com promoções e descontos. Você pode abrir pelo link da Cecília ou pesquisar 4CW5Y no app ou no site. Quanto e em quais peças há desconto, a SHEIN decide. Confira também as campanhas vigentes na página da loja aqui do site antes de fechar o pedido.",
           "Os seis códigos de campanha da seção de atalhos, como o 24V7643, também se pesquisam na lupa, mas abrem seleções temáticas da SHEIN. O 4CW5Y é o único que é o código de indicação da Cecília."
         ],
         "links": [
@@ -64973,7 +65017,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como pagar na Black Friday",
         "paragraphs": [
-          "A SHEIN aceita Pix, cartão de crédito brasileiro em até 6 parcelas, boleto, PayPal e Pagaleve. O boleto leva até 3 dias para compensar, e nesse tempo a peça pode esgotar: na Black Friday, prefira cartão ou PayPal.",
+          "A SHEIN aceita Pix, cartão de crédito brasileiro em até 6 parcelas, boleto, PayPal e Pagaleve. O boleto pode levar até 3 dias para compensar, e a peça pode esgotar nesse intervalo. Confira o prazo de confirmação do meio de pagamento antes de contar com uma oferta que está para terminar.",
           "Se precisar de reembolso, o Pix é o mais rápido: a SHEIN processa em até 24 horas, e o banco leva de 1 a 3 dias úteis. No cartão de crédito, o banco leva de 3 a 8 dias úteis, às vezes até 30 dias."
         ]
       },
@@ -64985,7 +65029,7 @@ export const reviewsData: unknown[] = [
           "**Nas peças deste guia:** o maiô da Costavie entra na regra de 7 dias e precisa voltar com o protetor higiênico intacto. Os cosméticos da seleção SHEGLAM só voltam com o lacre fechado, ou em 7 dias se o lacre foi aberto.",
           "**Frete da devolução:** a primeira devolução de cada pedido é grátis, pelos Correios, pela Jadlog ou pela Total Express. Da segunda em diante, a SHEIN desconta R$ 45 do reembolso a cada devolução.",
           "**Cupom:** em devolução parcial, o cupom conta como usado e não volta; se o pedido ficar abaixo do mínimo, a diferença sai do reembolso.",
-          "**Imposto:** o imposto de importação pago não volta depois que o pedido foi enviado."
+          "**Impostos:** confira os valores discriminados no reembolso do pedido, incluindo os tributos pagos. Se não estiverem claros, peça o detalhamento ao atendimento da SHEIN."
         ],
         "image": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
         "imageAlt": "Gráfico de barras com o prazo para devolver publicado por cada loja no Brasil: Temu 90 dias a partir da compra; SHEIN 20 dias, Shopee 7 dias e AliExpress 7 dias a partir do recebimento",
@@ -65145,114 +65189,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "What to buy: the 17 pieces in one table",
+        "heading": "What to buy: 17 pieces, grouped by need",
         "paragraphs": [
-          "These are 17 pieces from the campaign, chosen to cover parties, everyday wear, workouts, the beach, sleepwear, kids, accessories and Christmas. We opened each product page in mid-November: fabric, measurements, rating and the discount shown come from the page that day."
+          "This selection brings together 17 pieces for parties, everyday wear, workouts, the beach, kids and Christmas. Compare the fabric, the measurements and the outfit ideas below; fabric, measurements and ratings come from each product page, read in mid-November. Before buying, check the price and the offer for the piece in the store set for your delivery country."
         ],
-        "comparisonTable": {
-          "caption": "Discount shown on each product page when we checked. Prices and discounts change during the campaign and can vary by color and size.",
-          "headers": [
-            "Piece",
-            "Discount on the page",
-            "What it is for"
-          ],
-          "rows": [
-            [
-              "[SHEIN BAE spaghetti-strap dress](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
-              "-20%",
-              "Parties, dinners and dates"
-            ],
-            [
-              "[SHEIN PETITE halter mini dress](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
-              "-20%",
-              "Parties and dates, Petite sizing"
-            ],
-            [
-              "[Opulessa floral dress](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
-              "-20%",
-              "Vacation and warm weather"
-            ],
-            [
-              "[Brown and white top and wide-leg pants set](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
-              "-20%",
-              "Casual work and weekends"
-            ],
-            [
-              "[SHEIN PariChic lace top with stand collar](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
-              "-20%",
-              "On its own or layered"
-            ],
-            [
-              "[SHEIN EZwear gingham top with ruffle hem](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
-              "—",
-              "Summer casual, loose fit"
-            ],
-            [
-              "[Sweetra sleeveless plaid shirt with side tie](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
-              "-20%",
-              "Casual, cinched at the waist"
-            ],
-            [
-              "[Faux suede zip jacket](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
-              "-20%",
-              "Between seasons and travel"
-            ],
-            [
-              "[Anewsta crisscross-back sports bra](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
-              "—",
-              "Workouts and yoga"
-            ],
-            [
-              "[Yefecy seamless leggings](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
-              "-20%",
-              "Workouts and yoga"
-            ],
-            [
-              "[Costavie navy and white one-piece swimsuit](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
-              "-20%",
-              "Beach and pool"
-            ],
-            [
-              "[SHEIN Swim floral cover-up](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
-              "-20%",
-              "Over a swimsuit or bikini"
-            ],
-            [
-              "[Bear-print cami and shorts pajama set](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
-              "-20%",
-              "Sleeping and lounging at home"
-            ],
-            [
-              "[Girls' polo-collar top and wide-leg pants set](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
-              "—",
-              "Girls aged 4 to 8, between seasons"
-            ],
-            [
-              "[Astronaut-style baby romper](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
-              "-20%",
-              "Babies from 1 to 12 months"
-            ],
-            [
-              "[Set of 20 silver-tone rings](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
-              "-20%",
-              "Everyday accessory and small gift"
-            ],
-            [
-              "[Christmas door cover with fireplace print](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
-              "-18%",
-              "Christmas decor"
-            ]
-          ]
-        },
         "postParagraphs": [
-          "We leave prices out on purpose: each link opens the piece in the SHEIN store for your region, with the price in your currency.",
           "Choose the size from each piece's size chart, in centimetres, and not from the letter: sizing changes from brand to brand inside SHEIN. The [SHEIN size guide](/en/reviews/shein-size-guide) shows how to measure yourself and read the chart."
         ]
       },
       {
         "heading": "Six campaign shortcuts to search in the app",
         "paragraphs": [
-          "Besides the pieces, SHEIN built themed selections for the campaign. Each one has a search code: type the code into the search bar of the SHEIN app, or open it through the link, and the selection appears. These codes are search shortcuts: they do not go in at checkout and they are not coupons."
+          "Besides the pieces, SHEIN built themed selections for the campaign. Each one has a search code: type the code into the search bar of the SHEIN app, or open it through the link, and the selection appears. These codes are search shortcuts: they do not go in at checkout and they are not coupons.",
+          "The shortcuts depend on the campaign available in your store. If one does not open the selection, check the campaigns shown in the app for your delivery country."
         ],
         "comparisonTable": {
           "caption": "What each selection brings together. The discount shown in each one applies to some items in the selection, never to the whole cart.",
@@ -65305,19 +65254,42 @@ export const reviewsData: unknown[] = [
         "heading": "Dresses and a two-piece set: parties, vacation and everyday",
         "paragraphs": [
           "Three dresses and a two-piece set. Two of the dresses have non-stretch fabric, and in those the bust and waist measurements decide the size."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Piece",
+            "What it is for"
+          ],
+          "rows": [
+            [
+              "[SHEIN BAE spaghetti-strap dress](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
+              "Parties, dinners and dates"
+            ],
+            [
+              "[SHEIN PETITE halter mini dress](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
+              "Parties and dates, Petite sizing"
+            ],
+            [
+              "[Opulessa floral dress](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
+              "Vacation and warm weather"
+            ],
+            [
+              "[Brown and white top and wide-leg pants set](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
+              "Casual work and weekends"
+            ]
+          ]
+        }
       },
       {
         "heading": "SHEIN BAE spaghetti-strap dress",
         "bullets": [
-          "Discount shown on the page when we checked: -20%.",
           "Sizes: XXS to XXL, plus a Petite range.",
           "Fabric: 100% polyester, unlined and non-stretch.",
           "Store rating 4.82, with over a thousand reviews."
         ],
         "paragraphs": [
           "A spaghetti-strap dress with a full skirt, open back and zipper, in the red the link opens. The size chart runs from an 84 cm bust and 66 cm waist in XXS to 114 cm and 96 cm in XXL, with a length of 122 to 134 cm.",
-          "The fabric does not stretch, so the bust and waist have to match your measurements: compare in centimetres before choosing. For other party styles, see the [SHEIN party dress guide](/en/reviews/shein-party-dress-guide)."
+          "The fabric does not stretch. Compare the garment's measurements with those of a non-stretch dress that already fits you comfortably, paying attention to the ease at the bust and waist. For other party styles, see the [SHEIN party dress guide](/en/reviews/shein-party-dress-guide)."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-01-vestido-longo-bae.webp",
@@ -65341,7 +65313,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN PETITE halter mini dress",
         "bullets": [
-          "Discount shown on the page when we checked: -20%.",
           "Sizes: Petite XXS to Petite L.",
           "Fabric: 100% polyester, with a lining of 89% polyester and 11% elastane.",
           "Store rating 4.82, with over a thousand reviews."
@@ -65372,7 +65343,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Opulessa floral dress",
         "bullets": [
-          "Discount shown on the page when we checked: -20%.",
           "Sizes: XXS to XL.",
           "Fabric: knit of 91% polyester and 9% elastane, high stretch. The product page lists it as semi-sheer.",
           "Store rating 4.87, with over a thousand reviews."
@@ -65403,7 +65373,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Brown and white top and wide-leg pants set",
         "bullets": [
-          "Discount shown on the page when we checked: -20%.",
           "Sizes: XS to XL.",
           "Fabric: knit top with 95% polyester and 5% elastane; pants 100% polyester, non-stretch.",
           "Store rating 4.73, with over a thousand reviews."
@@ -65435,12 +65404,35 @@ export const reviewsData: unknown[] = [
         "heading": "Tops and a jacket: casual and between seasons",
         "paragraphs": [
           "Three non-stretch tops and a jacket. The two checked tops fit in opposite ways: one loose, the other cinched at the waist."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Piece",
+            "What it is for"
+          ],
+          "rows": [
+            [
+              "[SHEIN PariChic lace top with stand collar](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
+              "On its own or layered"
+            ],
+            [
+              "[SHEIN EZwear gingham top with ruffle hem](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
+              "Summer casual, loose fit"
+            ],
+            [
+              "[Sweetra sleeveless plaid shirt with side tie](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
+              "Casual, cinched at the waist"
+            ],
+            [
+              "[Faux suede zip jacket](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
+              "Between seasons and travel"
+            ]
+          ]
+        }
       },
       {
         "heading": "SHEIN PariChic lace top with stand collar",
         "bullets": [
-          "Discount shown on the page when we checked: -20%.",
           "Sizes: XS to XXL, plus a Tall range.",
           "Fabric: 41% polyamide, 37% cotton and 22% viscose, non-stretch. The product page lists it as semi-sheer."
         ],
@@ -65470,7 +65462,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN EZwear gingham top with ruffle hem",
         "bullets": [
-          "No discount shown on the page when we checked.",
           "Sizes: XS to XL.",
           "Fabric: 55% cotton and 45% polyester, non-stretch."
         ],
@@ -65500,7 +65491,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sweetra sleeveless plaid shirt with side tie",
         "bullets": [
-          "Discount shown on the page when we checked: -20%.",
           "Sizes: XXS to XL, plus a plus-size range.",
           "Fabric: 72% polyester, 18% cotton and 10% viscose, non-stretch.",
           "Store rating 4.73, with over a thousand reviews."
@@ -65531,7 +65521,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Faux suede zip jacket",
         "bullets": [
-          "Discount shown on the page when we checked: -20%.",
           "Sizes: XS to L.",
           "Fabric: faux suede, 100% polyester, non-stretch.",
           "Store rating 4.78, with over a thousand reviews."
@@ -65563,12 +65552,39 @@ export const reviewsData: unknown[] = [
         "heading": "Workout, beach and sleepwear",
         "paragraphs": [
           "A workout outfit you build from two pieces, a swimsuit with its cover-up, and a pajama set."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Piece",
+            "What it is for"
+          ],
+          "rows": [
+            [
+              "[Anewsta crisscross-back sports bra](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
+              "Workouts and yoga"
+            ],
+            [
+              "[Yefecy seamless leggings](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
+              "Workouts and yoga"
+            ],
+            [
+              "[Costavie navy and white one-piece swimsuit](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
+              "Beach and pool"
+            ],
+            [
+              "[SHEIN Swim floral cover-up](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
+              "Over a swimsuit or bikini"
+            ],
+            [
+              "[Bear-print cami and shorts pajama set](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
+              "Sleeping and lounging at home"
+            ]
+          ]
+        }
       },
       {
         "heading": "Anewsta crisscross-back sports bra",
         "bullets": [
-          "No discount shown on the page when we checked.",
           "Sizes: XS to XXL, plus a plus-size range.",
           "Fabric: 90% polyamide and 10% elastane, high stretch.",
           "Store rating 4.88, with over a thousand reviews."
@@ -65605,14 +65621,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Yefecy seamless leggings",
         "bullets": [
-          "Discount shown on the page when we checked: -20%.",
           "Sizes: S, M and L.",
           "Fabric: knit of 90% polyamide and 10% elastane, high stretch, seamless.",
           "Store rating 4.74, with over 500 reviews."
         ],
         "paragraphs": [
           "Long, seamless compression leggings, in the purple the link opens. The store title says mid waist and the product details say high waist: look at the photos on the page to see where the waistband sits.",
-          "The size range is short, only three sizes, and the chart gives the garment unstretched: a 58 cm waist and 68 cm hips in S, 66 cm and 76 cm in L. Leggings stretched too far turn see-through, so if your measurements go well beyond the L, this is not the piece."
+          "The range has S, M and L. The chart gives the garment unstretched: a 58 cm waist and 68 cm hips in S; 66 cm and 76 cm in L. Those numbers are not limits for your body measurements. Compare with leggings of similar stretch that you already wear and check the size guidance on the page."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-10-legging-yefecy.webp",
@@ -65642,7 +65657,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Costavie navy and white one-piece swimsuit",
         "bullets": [
-          "Discount shown on the page when we checked: -20%.",
           "Sizes: XS to XL, plus a plus-size range.",
           "Fabric: 80% polyamide and 20% elastane, high stretch, with padded cups.",
           "Store rating 4.88, with over a thousand reviews."
@@ -65679,7 +65693,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN Swim floral cover-up",
         "bullets": [
-          "Discount shown on the page when we checked: -20%.",
           "Sizes: XXS to XXL.",
           "Fabric: knit of 94% polyester and 6% elastane, high stretch. The product page lists it as semi-sheer.",
           "Store rating 4.93, with over 500 reviews."
@@ -65716,7 +65729,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Bear-print cami and shorts pajama set",
         "bullets": [
-          "Discount shown on the page when we checked: -20%.",
           "Sizes: XXS to XXL.",
           "Fabric: knit of 95% polyester and 5% elastane, medium stretch.",
           "Store rating 4.85, with over a thousand reviews."
@@ -65748,12 +65760,27 @@ export const reviewsData: unknown[] = [
         "heading": "Kids and baby",
         "paragraphs": [
           "A set for girls aged 4 to 8 and a baby romper. For both, choose by the child's measurements and not by the age on the size."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Piece",
+            "What it is for"
+          ],
+          "rows": [
+            [
+              "[Girls' polo-collar top and wide-leg pants set](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
+              "Girls aged 4 to 8, between seasons"
+            ],
+            [
+              "[Astronaut-style baby romper](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
+              "Babies from 1 to 12 months"
+            ]
+          ]
+        }
       },
       {
         "heading": "Girls' polo-collar top and wide-leg pants set",
         "bullets": [
-          "No discount shown on the page when we checked.",
           "Sizes: 4, 5, 6, 7 and 8 years.",
           "Fabric: knit of 95% polyester and 5% elastane, medium stretch.",
           "Store rating 4.76, with over 500 reviews."
@@ -65784,14 +65811,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Astronaut-style baby romper",
         "bullets": [
-          "Discount shown on the page when we checked: -20%.",
           "Sizes: 1 to 3 months, 3 to 6, 6 to 9 and 9 to 12 months.",
           "Fabric: 96% polyester and 4% elastane, low stretch.",
           "The page had only 2 reviews when we checked."
         ],
         "paragraphs": [
           "An orange long-sleeve romper with a zipper, a pocket and astronaut badges, color-blocked with black. The chart gives a length of 50 cm in the 1 to 3 months size and 65 cm in the 9 to 12 months size.",
-          "Babies grow fast. The delivery estimate appears on the page before you pay: add it to the baby's age and choose the size by what the baby will measure when the piece arrives. It has few reviews, so the size chart is the best reference you have."
+          "Factor in the delivery time before buying: the piece may arrive when the baby is already in another size. The age on the label is a reference; compare the baby's current measurements with the store's guidance. With so few reviews, read the chart carefully and avoid choosing by the age range alone."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-15-macacao-bebe.webp",
@@ -65816,12 +65842,27 @@ export const reviewsData: unknown[] = [
         "heading": "An accessory and Christmas decor",
         "paragraphs": [
           "Two small purchases: a set of rings and a Christmas door cover."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Piece",
+            "What it is for"
+          ],
+          "rows": [
+            [
+              "[Set of 20 silver-tone rings](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
+              "Everyday accessory and small gift"
+            ],
+            [
+              "[Christmas door cover with fireplace print](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
+              "Christmas decor"
+            ]
+          ]
+        }
       },
       {
         "heading": "Set of 20 silver-tone rings",
         "bullets": [
-          "Discount shown on the page when we checked: -20%.",
           "Size: one size. The product page does not state the ring diameters.",
           "Material: zinc alloy, with rhinestones.",
           "Store rating 4.87, with over a thousand reviews."
@@ -65852,14 +65893,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Christmas door cover with fireplace print",
         "bullets": [
-          "Discount shown on the page when we checked: -18%.",
           "Measurements: 180 x 90 cm or 200 x 90 cm.",
           "Material: 100% polyester.",
           "The page had only 1 review when we checked."
         ],
         "paragraphs": [
           "A fabric panel that covers the door, printed with a decorated fireplace and the words Merry Christmas. One piece comes in the pack. Measure your door first: there are two heights, 180 and 200 cm, both 90 cm wide.",
-          "Christmas decor is only useful if it arrives before the 24th. The delivery estimate for your address appears on the page before you pay: if the estimated date falls after Christmas, do not buy it for this year."
+          "To decorate this Christmas, check that the estimated delivery comes before the day you plan to put the decorations up. Check your door's dimensions too before choosing the panel size."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-17-faixa-natal-lareira.webp",
@@ -65879,7 +65919,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Price, currency and stock: check your SHEIN store",
         "paragraphs": [
-          "The links in this guide open each piece in the SHEIN store for your region. The price, the currency, the sizes in stock and the discount shown can differ from what we saw when we checked.",
+          "Open the link and check the product, the color and the size in the store set for your delivery country. Price, currency, availability and offers can vary between stores.",
           "Before paying, confirm the price in your currency, that your size is available and whether the piece is part of the campaign in your store."
         ]
       },
@@ -65888,7 +65928,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Under SHEIN's coupon policy, one platform coupon applies per order. Each coupon has an expiry date, and one not used in time becomes unavailable.",
           "The checkout shows how many SHEIN points you can use and the discount they provide. Check that amount before paying.",
-          "4CW5Y is not a coupon: it is Cecília's SHEIN referral code, and it does give you a discount. Open SHEIN through Cecília's link and search 4CW5Y in the SHEIN app or on the site: the code opens a page with a selection of recommended products, promotions and discounts. How much and on which items is up to SHEIN and varies. SHEIN campaigns change all the time: check the current ones on the store page here on the site before placing your order.",
+          "4CW5Y is not a coupon: it is Cecília's SHEIN referral code, and it does give you a discount. Open SHEIN through Cecília's link, or search 4CW5Y in the SHEIN app or on the site: the code opens a page with a selection of recommended products, promotions and discounts. How much and on which items is up to SHEIN and varies. SHEIN campaigns change all the time: check the current ones on the store page here on the site before placing your order.",
           "The six campaign codes in the shortcuts section, such as 24V7643, are also typed into the search bar, but they open SHEIN's themed selections. 4CW5Y is the only one that is Cecília's referral code."
         ],
         "links": [
@@ -65941,9 +65981,9 @@ export const reviewsData: unknown[] = [
           "How does SHEIN's Black Friday work? Offers may have different dates and conditions. Check which items qualify for the advertised discount and compare the final price in the cart.",
           "Does SHEIN have Cyber Monday? Cyber Monday 2026 falls on November 30. SHEIN's 2026 US release includes Cyber Monday deals, without dates. For other countries, we found no announcement: check the campaign on your country's SHEIN site.",
           "Will a Black Friday order arrive before Christmas? We can't guarantee a date. The delivery estimate appears in your order before you pay: check it on every purchase.",
-          "Is 4CW5Y a discount coupon? It is not a coupon, but it does give you a discount: it is Cecília's SHEIN referral code. Open SHEIN through the link and search for the code in the app or on the site: the code opens a selection of products with promotions and discounts; how much and on which items is up to SHEIN.",
+          "Is 4CW5Y a discount coupon? It is not a coupon, but it does give you a discount: it is Cecília's SHEIN referral code. Open SHEIN through the link, or search for the code in the app or on the site: the code opens a selection of products with promotions and discounts; how much and on which items is up to SHEIN.",
           "Are 4CW5Y and SHEIN's campaign codes the same thing? No. 4CW5Y is Cecília's referral code. Codes such as 24V7643 and B75N67A are SHEIN shortcuts that open campaign selections in the app's search. None of them goes in at checkout.",
-          "Do the pieces in this guide cost the same in every country? No. Each link opens the piece in the SHEIN store for your region, with its own price, currency and stock. Check the price on the product page before paying.",
+          "Do the pieces in this guide cost the same in every country? No. Price, currency, stock and offers vary between SHEIN stores. Open the link and check the piece in the store set for your delivery country before paying.",
           "How do I choose my size for SHEIN clothes on Black Friday? Use the size chart of each piece, in centimetres, and compare it with your own measurements. Sizing changes from brand to brand inside SHEIN, and non-stretch fabric calls for more attention to the bust and waist."
         ]
       }
@@ -66038,114 +66078,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Qué comprar: las 17 prendas en una sola tabla",
+        "heading": "Qué comprar: 17 prendas agrupadas por necesidad",
         "paragraphs": [
-          "Son 17 prendas de la campaña, elegidas para cubrir fiestas, el día a día, el deporte, la playa, el pijama, los niños, los accesorios y la Navidad. Abrimos cada página de producto a mediados de noviembre: el tejido, las medidas, la valoración y el descuento que se muestra salen de la página de ese día."
+          "Esta selección reúne 17 prendas para fiestas, el día a día, el deporte, la playa, los niños y la Navidad. Compara abajo el tejido, las medidas y las ideas de looks; el tejido, las medidas y las valoraciones salen de la página de cada producto, leídas a mediados de noviembre. Antes de comprar, comprueba el precio y la oferta de la prenda en la tienda configurada para tu país de entrega."
         ],
-        "comparisonTable": {
-          "caption": "Descuento que mostraba cada página de producto cuando la revisamos. Los precios y los descuentos cambian durante la campaña y pueden variar según el color y la talla.",
-          "headers": [
-            "Prenda",
-            "Descuento en la página",
-            "Para qué sirve"
-          ],
-          "rows": [
-            [
-              "[Vestido de tirantes finos SHEIN BAE](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
-              "-20%",
-              "Fiestas, cenas y citas"
-            ],
-            [
-              "[Minivestido halter SHEIN PETITE](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
-              "-20%",
-              "Fiestas y citas, tallas Petite"
-            ],
-            [
-              "[Vestido floral Opulessa](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
-              "-20%",
-              "Vacaciones y tiempo cálido"
-            ],
-            [
-              "[Conjunto de top y pantalón ancho en marrón y blanco](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
-              "-20%",
-              "Trabajo casual y fines de semana"
-            ],
-            [
-              "[Top de encaje SHEIN PariChic con cuello mao](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
-              "-20%",
-              "Solo o en capas"
-            ],
-            [
-              "[Top de cuadros vichy SHEIN EZwear con bajo de volantes](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
-              "—",
-              "Casual de verano, ajuste holgado"
-            ],
-            [
-              "[Camisa de cuadros sin mangas Sweetra con lazada lateral](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
-              "-20%",
-              "Casual, ceñida a la cintura"
-            ],
-            [
-              "[Chaqueta de ante sintético con cremallera](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
-              "-20%",
-              "Entretiempo y viajes"
-            ],
-            [
-              "[Top deportivo Anewsta con espalda cruzada](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
-              "—",
-              "Entrenamiento y yoga"
-            ],
-            [
-              "[Leggings sin costuras Yefecy](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
-              "-20%",
-              "Entrenamiento y yoga"
-            ],
-            [
-              "[Bañador entero azul marino y blanco Costavie](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
-              "-20%",
-              "Playa y piscina"
-            ],
-            [
-              "[Salida de playa floral SHEIN Swim](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
-              "-20%",
-              "Sobre un bañador o un bikini"
-            ],
-            [
-              "[Pijama de top de tirantes y shorts con estampado de osos](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
-              "-20%",
-              "Dormir y estar en casa"
-            ],
-            [
-              "[Conjunto infantil de top con cuello polo y pantalón ancho para niñas](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
-              "—",
-              "Niñas de 4 a 8 años, entretiempo"
-            ],
-            [
-              "[Pelele de bebé estilo astronauta](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
-              "-20%",
-              "Bebés de 1 a 12 meses"
-            ],
-            [
-              "[Set de 20 anillos plateados](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
-              "-20%",
-              "Accesorio de diario y pequeño regalo"
-            ],
-            [
-              "[Cubrepuertas navideño con estampado de chimenea](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
-              "-18%",
-              "Decoración navideña"
-            ]
-          ]
-        },
         "postParagraphs": [
-          "Dejamos los precios fuera a propósito: cada enlace abre la prenda en la tienda de SHEIN de tu región, con el precio en tu moneda.",
           "Elige la talla con la tabla de medidas de cada prenda, en centímetros, y no por la letra: las tallas cambian de una marca a otra dentro de SHEIN. La [guía de tallas de SHEIN](/es/reviews/tallas-shein) explica cómo medirte y leer la tabla."
         ]
       },
       {
         "heading": "Seis atajos de campaña para buscar en la app",
         "paragraphs": [
-          "Además de las prendas, SHEIN armó selecciones temáticas para la campaña. Cada una tiene un código de búsqueda: escríbelo en la barra de búsqueda de la app de SHEIN, o ábrela con el enlace, y aparece la selección. Estos códigos son atajos de búsqueda: no se ponen al pagar y no son cupones."
+          "Además de las prendas, SHEIN armó selecciones temáticas para la campaña. Cada una tiene un código de búsqueda: escríbelo en la barra de búsqueda de la app de SHEIN, o ábrela con el enlace, y aparece la selección. Estos códigos son atajos de búsqueda: no se ponen al pagar y no son cupones.",
+          "Los atajos dependen de la campaña disponible en tu tienda. Si alguno no abre la selección, revisa las campañas que aparecen en la app para tu país de entrega."
         ],
         "comparisonTable": {
           "caption": "Qué reúne cada selección. El descuento que se muestra en cada una vale para algunos artículos de la selección, nunca para todo el carrito.",
@@ -66198,19 +66143,42 @@ export const reviewsData: unknown[] = [
         "heading": "Vestidos y un conjunto de dos piezas: fiestas, vacaciones y diario",
         "paragraphs": [
           "Tres vestidos y un conjunto de dos piezas. Dos de los vestidos son de tejido sin elasticidad, y en ellos el contorno de pecho y de cintura decide la talla."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Prenda",
+            "Para qué sirve"
+          ],
+          "rows": [
+            [
+              "[Vestido de tirantes finos SHEIN BAE](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
+              "Fiestas, cenas y citas"
+            ],
+            [
+              "[Minivestido halter SHEIN PETITE](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
+              "Fiestas y citas, tallas Petite"
+            ],
+            [
+              "[Vestido floral Opulessa](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
+              "Vacaciones y tiempo cálido"
+            ],
+            [
+              "[Conjunto de top y pantalón ancho en marrón y blanco](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
+              "Trabajo casual y fines de semana"
+            ]
+          ]
+        }
       },
       {
         "heading": "Vestido de tirantes finos SHEIN BAE",
         "bullets": [
-          "Descuento que mostraba la página cuando la revisamos: -20%.",
           "Tallas: de XXS a XXL, más una gama Petite.",
           "Tejido: 100% poliéster, sin forro y sin elasticidad.",
           "Valoración de la tienda 4,82, con más de mil opiniones."
         ],
         "paragraphs": [
           "Un vestido de tirantes finos con falda amplia, espalda abierta y cremallera, en el rojo que abre el enlace. La tabla de medidas va de 84 cm de pecho y 66 cm de cintura en la XXS a 114 cm y 96 cm en la XXL, con un largo de 122 a 134 cm.",
-          "El tejido no es elástico, así que el pecho y la cintura tienen que coincidir con tus medidas: compara en centímetros antes de elegir. Para otros estilos de fiesta, mira la [guía de vestidos de fiesta de SHEIN](/es/reviews/vestido-de-fiesta-shein)."
+          "El tejido no es elástico. Compara las medidas de la prenda con las de un vestido sin elasticidad que ya te quede cómodo, fijándote en la holgura del pecho y de la cintura. Para otros estilos de fiesta, mira la [guía de vestidos de fiesta de SHEIN](/es/reviews/vestido-de-fiesta-shein)."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-01-vestido-longo-bae.webp",
@@ -66234,7 +66202,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Minivestido halter SHEIN PETITE",
         "bullets": [
-          "Descuento que mostraba la página cuando la revisamos: -20%.",
           "Tallas: de Petite XXS a Petite L.",
           "Tejido: 100% poliéster, con un forro de 89% poliéster y 11% elastano.",
           "Valoración de la tienda 4,82, con más de mil opiniones."
@@ -66265,7 +66232,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vestido floral Opulessa",
         "bullets": [
-          "Descuento que mostraba la página cuando la revisamos: -20%.",
           "Tallas: de XXS a XL.",
           "Tejido: punto de 91% poliéster y 9% elastano, muy elástico. La página de producto lo indica como semitransparente.",
           "Valoración de la tienda 4,87, con más de mil opiniones."
@@ -66296,7 +66262,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Conjunto de top y pantalón ancho en marrón y blanco",
         "bullets": [
-          "Descuento que mostraba la página cuando la revisamos: -20%.",
           "Tallas: de XS a XL.",
           "Tejido: top de punto con 95% poliéster y 5% elastano; pantalón 100% poliéster, sin elasticidad.",
           "Valoración de la tienda 4,73, con más de mil opiniones."
@@ -66328,12 +66293,35 @@ export const reviewsData: unknown[] = [
         "heading": "Tops y una chaqueta: casual y entretiempo",
         "paragraphs": [
           "Tres tops sin elasticidad y una chaqueta. Los dos tops que revisamos se llevan al revés: uno holgado, el otro ceñido a la cintura."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Prenda",
+            "Para qué sirve"
+          ],
+          "rows": [
+            [
+              "[Top de encaje SHEIN PariChic con cuello mao](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
+              "Solo o en capas"
+            ],
+            [
+              "[Top de cuadros vichy SHEIN EZwear con bajo de volantes](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
+              "Casual de verano, ajuste holgado"
+            ],
+            [
+              "[Camisa de cuadros sin mangas Sweetra con lazada lateral](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
+              "Casual, ceñida a la cintura"
+            ],
+            [
+              "[Chaqueta de ante sintético con cremallera](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
+              "Entretiempo y viajes"
+            ]
+          ]
+        }
       },
       {
         "heading": "Top de encaje SHEIN PariChic con cuello mao",
         "bullets": [
-          "Descuento que mostraba la página cuando la revisamos: -20%.",
           "Tallas: de XS a XXL, más una gama Tall.",
           "Tejido: 41% poliamida, 37% algodón y 22% viscosa, sin elasticidad. La página de producto lo indica como semitransparente."
         ],
@@ -66363,7 +66351,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Top de cuadros vichy SHEIN EZwear con bajo de volantes",
         "bullets": [
-          "No mostraba descuento la página cuando la revisamos.",
           "Tallas: de XS a XL.",
           "Tejido: 55% algodón y 45% poliéster, sin elasticidad."
         ],
@@ -66393,7 +66380,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camisa de cuadros sin mangas Sweetra con lazada lateral",
         "bullets": [
-          "Descuento que mostraba la página cuando la revisamos: -20%.",
           "Tallas: de XXS a XL, más una gama de tallas grandes.",
           "Tejido: 72% poliéster, 18% algodón y 10% viscosa, sin elasticidad.",
           "Valoración de la tienda 4,73, con más de mil opiniones."
@@ -66424,7 +66410,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Chaqueta de ante sintético con cremallera",
         "bullets": [
-          "Descuento que mostraba la página cuando la revisamos: -20%.",
           "Tallas: de XS a L.",
           "Tejido: ante sintético, 100% poliéster, sin elasticidad.",
           "Valoración de la tienda 4,78, con más de mil opiniones."
@@ -66456,12 +66441,39 @@ export const reviewsData: unknown[] = [
         "heading": "Deporte, playa y pijama",
         "paragraphs": [
           "Un outfit deportivo que armas con dos piezas, un bañador con su salida de playa y un pijama."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Prenda",
+            "Para qué sirve"
+          ],
+          "rows": [
+            [
+              "[Top deportivo Anewsta con espalda cruzada](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
+              "Entrenamiento y yoga"
+            ],
+            [
+              "[Leggings sin costuras Yefecy](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
+              "Entrenamiento y yoga"
+            ],
+            [
+              "[Bañador entero azul marino y blanco Costavie](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
+              "Playa y piscina"
+            ],
+            [
+              "[Salida de playa floral SHEIN Swim](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
+              "Sobre un bañador o un bikini"
+            ],
+            [
+              "[Pijama de top de tirantes y shorts con estampado de osos](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
+              "Dormir y estar en casa"
+            ]
+          ]
+        }
       },
       {
         "heading": "Top deportivo Anewsta con espalda cruzada",
         "bullets": [
-          "No mostraba descuento la página cuando la revisamos.",
           "Tallas: de XS a XXL, más una gama de tallas grandes.",
           "Tejido: 90% poliamida y 10% elastano, muy elástico.",
           "Valoración de la tienda 4,88, con más de mil opiniones."
@@ -66498,14 +66510,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Leggings sin costuras Yefecy",
         "bullets": [
-          "Descuento que mostraba la página cuando la revisamos: -20%.",
           "Tallas: S, M y L.",
           "Tejido: punto de 90% poliamida y 10% elastano, muy elástico, sin costuras.",
           "Valoración de la tienda 4,74, con más de 500 opiniones."
         ],
         "paragraphs": [
           "Leggings largos de compresión sin costuras, en el morado que abre el enlace. El título de la tienda dice talle medio y los detalles del producto dicen talle alto: mira las fotos de la página para ver dónde queda la cinturilla.",
-          "La gama de tallas es corta, solo tres, y la tabla da la prenda sin estirar: 58 cm de cintura y 68 cm de cadera en la S, 66 cm y 76 cm en la L. Unos leggings demasiado estirados se transparentan, así que si tus medidas pasan bastante de la L, esta no es la prenda."
+          "La gama tiene S, M y L. La tabla da la prenda sin estirar: 58 cm de cintura y 68 cm de cadera en la S; 66 cm y 76 cm en la L. Esas cifras no son límites para tus medidas corporales. Compara con unos leggings de elasticidad parecida que ya uses y revisa la orientación de tallas de la página."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-10-legging-yefecy.webp",
@@ -66535,7 +66546,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Bañador entero azul marino y blanco Costavie",
         "bullets": [
-          "Descuento que mostraba la página cuando la revisamos: -20%.",
           "Tallas: de XS a XL, más una gama de tallas grandes.",
           "Tejido: 80% poliamida y 20% elastano, muy elástico, con copas acolchadas.",
           "Valoración de la tienda 4,88, con más de mil opiniones."
@@ -66572,7 +66582,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Salida de playa floral SHEIN Swim",
         "bullets": [
-          "Descuento que mostraba la página cuando la revisamos: -20%.",
           "Tallas: de XXS a XXL.",
           "Tejido: punto de 94% poliéster y 6% elastano, muy elástico. La página de producto lo indica como semitransparente.",
           "Valoración de la tienda 4,93, con más de 500 opiniones."
@@ -66609,7 +66618,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pijama de top de tirantes y shorts con estampado de osos",
         "bullets": [
-          "Descuento que mostraba la página cuando la revisamos: -20%.",
           "Tallas: de XXS a XXL.",
           "Tejido: punto de 95% poliéster y 5% elastano, elasticidad media.",
           "Valoración de la tienda 4,85, con más de mil opiniones."
@@ -66641,12 +66649,27 @@ export const reviewsData: unknown[] = [
         "heading": "Niños y bebé",
         "paragraphs": [
           "Un conjunto para niñas de 4 a 8 años y un pelele de bebé. En los dos, elige por las medidas del niño y no por la edad de la talla."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Prenda",
+            "Para qué sirve"
+          ],
+          "rows": [
+            [
+              "[Conjunto infantil de top con cuello polo y pantalón ancho para niñas](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
+              "Niñas de 4 a 8 años, entretiempo"
+            ],
+            [
+              "[Pelele de bebé estilo astronauta](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
+              "Bebés de 1 a 12 meses"
+            ]
+          ]
+        }
       },
       {
         "heading": "Conjunto infantil de top con cuello polo y pantalón ancho para niñas",
         "bullets": [
-          "No mostraba descuento la página cuando la revisamos.",
           "Tallas: 4, 5, 6, 7 y 8 años.",
           "Tejido: punto de 95% poliéster y 5% elastano, elasticidad media.",
           "Valoración de la tienda 4,76, con más de 500 opiniones."
@@ -66677,14 +66700,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pelele de bebé estilo astronauta",
         "bullets": [
-          "Descuento que mostraba la página cuando la revisamos: -20%.",
           "Tallas: de 1 a 3 meses, de 3 a 6, de 6 a 9 y de 9 a 12 meses.",
           "Tejido: 96% poliéster y 4% elastano, poca elasticidad.",
           "La página tenía solo 2 opiniones cuando la revisamos."
         ],
         "paragraphs": [
           "Un pelele naranja de manga larga con cremallera, un bolsillo e insignias de astronauta, combinado con negro. La tabla da un largo de 50 cm en la talla de 1 a 3 meses y de 65 cm en la de 9 a 12 meses.",
-          "Los bebés crecen rápido. La fecha estimada de entrega aparece en la página antes de pagar: súmala a la edad del bebé y elige la talla según lo que medirá cuando llegue la prenda. Tiene pocas opiniones, así que la tabla de medidas es la mejor referencia que tienes."
+          "Ten en cuenta el plazo de entrega antes de comprar: la prenda puede llegar cuando el bebé ya use otra talla. La edad de la etiqueta es una referencia; compara las medidas actuales del bebé con la orientación de la tienda. Con tan pocas opiniones, lee con atención la tabla de medidas y evita elegir solo por el rango de edad."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-15-macacao-bebe.webp",
@@ -66709,12 +66731,27 @@ export const reviewsData: unknown[] = [
         "heading": "Un accesorio y decoración navideña",
         "paragraphs": [
           "Dos compras pequeñas: un set de anillos y un cubrepuertas de Navidad."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Prenda",
+            "Para qué sirve"
+          ],
+          "rows": [
+            [
+              "[Set de 20 anillos plateados](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
+              "Accesorio de diario y pequeño regalo"
+            ],
+            [
+              "[Cubrepuertas navideño con estampado de chimenea](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
+              "Decoración navideña"
+            ]
+          ]
+        }
       },
       {
         "heading": "Set de 20 anillos plateados",
         "bullets": [
-          "Descuento que mostraba la página cuando la revisamos: -20%.",
           "Talla: única. La página de producto no indica el diámetro de los anillos.",
           "Material: aleación de zinc, con pedrería.",
           "Valoración de la tienda 4,87, con más de mil opiniones."
@@ -66745,14 +66782,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cubrepuertas navideño con estampado de chimenea",
         "bullets": [
-          "Descuento que mostraba la página cuando la revisamos: -18%.",
           "Medidas: 180 x 90 cm o 200 x 90 cm.",
           "Material: 100% poliéster.",
           "La página tenía solo 1 opinión cuando la revisamos."
         ],
         "paragraphs": [
           "Un panel de tela que cubre la puerta, estampado con una chimenea decorada y las palabras Merry Christmas. En el paquete viene una pieza. Mide primero tu puerta: hay dos alturas, 180 y 200 cm, las dos de 90 cm de ancho.",
-          "La decoración navideña solo sirve si llega antes del 24. La fecha estimada de entrega para tu dirección aparece en la página antes de pagar: si cae después de Navidad, no la compres para este año."
+          "Para decorar esta Navidad, comprueba que la entrega estimada sea anterior al día en que piensas colocar la decoración. Revisa también las medidas de tu puerta antes de elegir el tamaño del panel."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-17-faixa-natal-lareira.webp",
@@ -66772,7 +66808,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Precio, moneda y stock: revisa tu tienda SHEIN",
         "paragraphs": [
-          "Los enlaces de esta guía abren cada prenda en la tienda de SHEIN de tu región. El precio, la moneda, las tallas disponibles y el descuento que se muestra pueden ser distintos de lo que vimos cuando la revisamos.",
+          "Abre el enlace y comprueba el producto, el color y la talla en la tienda configurada para tu país de entrega. El precio, la moneda, la disponibilidad y las ofertas pueden variar entre tiendas.",
           "Antes de pagar, confirma el precio en tu moneda, que tu talla esté disponible y si la prenda forma parte de la campaña en tu tienda."
         ]
       },
@@ -66781,7 +66817,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Según la política de cupones de SHEIN, vale un cupón de la plataforma por pedido. Cada cupón tiene vencimiento, y el que no se usó a tiempo deja de estar disponible.",
           "El resumen del pedido muestra cuántos puntos SHEIN puedes usar y el descuento que aportan. Revisa ese importe antes de pagar.",
-          "El 4CW5Y no es un cupón: es el código de referido de Cecília en SHEIN, y sí da descuento. Abre SHEIN con el enlace de Cecília y busca el 4CW5Y en la app o en el sitio de SHEIN: el código abre una página con una selección de productos recomendados, promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN y varía. Las campañas de SHEIN cambian todo el tiempo: revisa las vigentes en la página de la tienda aquí en el sitio antes de cerrar el pedido.",
+          "El 4CW5Y no es un cupón: es el código de referido de Cecília en SHEIN, y sí da descuento. Abre SHEIN con el enlace de Cecília o busca el 4CW5Y en la app o en el sitio de SHEIN: el código abre una página con una selección de productos recomendados, promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN y varía. Las campañas de SHEIN cambian todo el tiempo: revisa las vigentes en la página de la tienda aquí en el sitio antes de cerrar el pedido.",
           "Los seis códigos de campaña de la sección de atajos, como el 24V7643, también se escriben en la barra de búsqueda, pero abren selecciones temáticas de SHEIN. El 4CW5Y es el único que es el código de referido de Cecília."
         ],
         "links": [
@@ -66834,9 +66870,9 @@ export const reviewsData: unknown[] = [
           "¿Cómo funciona el Black Friday de SHEIN? Las ofertas pueden tener distintas fechas y condiciones. Comprueba qué artículos tienen el descuento anunciado y compara el precio final en el carrito.",
           "¿SHEIN tiene Cyber Monday? El Cyber Monday de 2026 cae el 30 de noviembre. No encontramos un anuncio que valga para todos los países: mira la campaña en la tienda de tu país.",
           "¿La compra del Black Friday llega antes de Navidad? No podemos garantizar una fecha. El plazo de entrega aparece en el pedido antes de pagar: revisa ese plazo en cada compra.",
-          "¿El 4CW5Y es un cupón de descuento? No es un cupón, pero sí da descuento: es el código de referido de Cecília en SHEIN. Abre SHEIN con el enlace y busca el código en la app o en el sitio: el código abre una selección con promociones y descuentos; cuánto y en qué prendas lo decide SHEIN.",
+          "¿El 4CW5Y es un cupón de descuento? No es un cupón, pero sí da descuento: es el código de referido de Cecília en SHEIN. Abre SHEIN con el enlace o busca el código en la app o en el sitio: el código abre una selección con promociones y descuentos; cuánto y en qué prendas lo decide SHEIN.",
           "¿El 4CW5Y y los códigos de campaña de SHEIN son lo mismo? No. El 4CW5Y es el código de referido de Cecília. Códigos como 24V7643 y B75N67A son atajos de SHEIN que abren selecciones de campaña en la búsqueda de la app. Ninguno se pone al pagar.",
-          "¿Las prendas de esta guía cuestan lo mismo en todos los países? No. Cada enlace abre la prenda en la tienda de SHEIN de tu región, con su propio precio, moneda y stock. Comprueba el precio en la página de producto antes de pagar.",
+          "¿Las prendas de esta guía cuestan lo mismo en todos los países? No. El precio, la moneda, el stock y las ofertas varían entre las tiendas de SHEIN. Abre el enlace y comprueba la prenda en la tienda configurada para tu país de entrega antes de pagar.",
           "¿Cómo elijo mi talla de ropa de SHEIN en el Black Friday? Usa la tabla de medidas de cada prenda, en centímetros, y compárala con tus propias medidas. Las tallas cambian de una marca a otra dentro de SHEIN, y el tejido sin elasticidad pide más atención al pecho y a la cintura."
         ]
       }
@@ -66931,114 +66967,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Quoi acheter : les 17 pièces dans un seul tableau",
+        "heading": "Quoi acheter : 17 pièces, classées par besoin",
         "paragraphs": [
-          "Voici 17 pièces de la campagne, choisies pour couvrir les soirées, le quotidien, le sport, la plage, le pyjama, les enfants, les accessoires et Noël. Nous avons ouvert chaque fiche produit à la mi-novembre : la matière, les mesures, la note et la remise affichée viennent de la page ce jour-là."
+          "Cette sélection réunit 17 pièces pour les soirées, le quotidien, le sport, la plage, les enfants et Noël. Comparez ci-dessous la matière, les mesures et les idées de tenue ; la matière, les mesures et les notes viennent de chaque fiche produit, lue à la mi-novembre. Avant d'acheter, vérifiez le prix et l'offre de la pièce dans la boutique correspondant à votre pays de livraison."
         ],
-        "comparisonTable": {
-          "caption": "Remise affichée sur chaque fiche produit au moment de notre vérification. Les prix et les remises changent pendant la campagne et peuvent varier selon la couleur et la taille.",
-          "headers": [
-            "Pièce",
-            "Remise sur la page",
-            "À quoi elle sert"
-          ],
-          "rows": [
-            [
-              "[Robe à fines bretelles SHEIN BAE](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
-              "-20%",
-              "Soirées, dîners et rendez-vous"
-            ],
-            [
-              "[Mini-robe col licou SHEIN PETITE](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
-              "-20%",
-              "Soirées et rendez-vous, tailles Petite"
-            ],
-            [
-              "[Robe fleurie Opulessa](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
-              "-20%",
-              "Vacances et temps chaud"
-            ],
-            [
-              "[Ensemble top et pantalon large marron et blanc](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
-              "-20%",
-              "Travail décontracté et week-ends"
-            ],
-            [
-              "[Top en dentelle SHEIN PariChic à col montant](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
-              "-20%",
-              "Seul ou en superposition"
-            ],
-            [
-              "[Top vichy SHEIN EZwear à bas volanté](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
-              "—",
-              "Décontracté d'été, coupe ample"
-            ],
-            [
-              "[Chemise à carreaux sans manches Sweetra avec nœud sur le côté](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
-              "-20%",
-              "Décontracté, cintrée à la taille"
-            ],
-            [
-              "[Veste zippée en faux daim](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
-              "-20%",
-              "Mi-saison et voyages"
-            ],
-            [
-              "[Brassière de sport Anewsta à dos croisé](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
-              "—",
-              "Entraînement et yoga"
-            ],
-            [
-              "[Legging sans coutures Yefecy](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
-              "-20%",
-              "Entraînement et yoga"
-            ],
-            [
-              "[Maillot une pièce bleu marine et blanc Costavie](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
-              "-20%",
-              "Plage et piscine"
-            ],
-            [
-              "[Tunique de plage fleurie SHEIN Swim](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
-              "-20%",
-              "Par-dessus un maillot ou un bikini"
-            ],
-            [
-              "[Pyjama débardeur et short à imprimé ours](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
-              "-20%",
-              "Dormir et se détendre à la maison"
-            ],
-            [
-              "[Ensemble fille col polo et pantalon large](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
-              "—",
-              "Filles de 4 à 8 ans, mi-saison"
-            ],
-            [
-              "[Combinaison bébé façon astronaute](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
-              "-20%",
-              "Bébés de 1 à 12 mois"
-            ],
-            [
-              "[Lot de 20 bagues argentées](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
-              "-20%",
-              "Accessoire du quotidien et petit cadeau"
-            ],
-            [
-              "[Rideau de porte de Noël imprimé cheminée](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
-              "-18%",
-              "Décoration de Noël"
-            ]
-          ]
-        },
         "postParagraphs": [
-          "Nous laissons volontairement les prix de côté : chaque lien ouvre la pièce dans la boutique SHEIN de votre région, avec le prix dans votre devise.",
           "Choisissez la taille d'après le tableau des tailles de chaque pièce, en centimètres, et non d'après la lettre : les tailles changent d'une marque à l'autre chez SHEIN. Le [guide des tailles SHEIN](/fr/reviews/tailles-shein) explique comment vous mesurer et lire le tableau."
         ]
       },
       {
         "heading": "Six raccourcis de campagne à rechercher dans l'appli",
         "paragraphs": [
-          "En plus des pièces, SHEIN a créé des sélections thématiques pour la campagne. Chacune a un code de recherche : saisissez-le dans la barre de recherche de l'appli SHEIN, ou ouvrez-la via le lien, et la sélection s'affiche. Ces codes sont des raccourcis de recherche : ils ne se saisissent pas au paiement et ce ne sont pas des coupons."
+          "En plus des pièces, SHEIN a créé des sélections thématiques pour la campagne. Chacune a un code de recherche : saisissez-le dans la barre de recherche de l'appli SHEIN, ou ouvrez-la via le lien, et la sélection s'affiche. Ces codes sont des raccourcis de recherche : ils ne se saisissent pas au paiement et ce ne sont pas des coupons.",
+          "Les raccourcis dépendent de la campagne disponible dans votre boutique. Si l'un d'eux n'ouvre pas la sélection, consultez les campagnes affichées dans l'appli pour votre pays de livraison."
         ],
         "comparisonTable": {
           "caption": "Ce que réunit chaque sélection. La remise affichée dans chacune vaut pour certains articles de la sélection, jamais pour tout le panier.",
@@ -67091,19 +67032,42 @@ export const reviewsData: unknown[] = [
         "heading": "Robes et un ensemble deux pièces : soirées, vacances et quotidien",
         "paragraphs": [
           "Trois robes et un ensemble deux pièces. Deux des robes sont dans un tissu non extensible, et pour elles le tour de poitrine et le tour de taille décident de la taille."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Pièce",
+            "À quoi elle sert"
+          ],
+          "rows": [
+            [
+              "[Robe à fines bretelles SHEIN BAE](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
+              "Soirées, dîners et rendez-vous"
+            ],
+            [
+              "[Mini-robe col licou SHEIN PETITE](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
+              "Soirées et rendez-vous, tailles Petite"
+            ],
+            [
+              "[Robe fleurie Opulessa](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
+              "Vacances et temps chaud"
+            ],
+            [
+              "[Ensemble top et pantalon large marron et blanc](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
+              "Travail décontracté et week-ends"
+            ]
+          ]
+        }
       },
       {
         "heading": "Robe à fines bretelles SHEIN BAE",
         "bullets": [
-          "Remise affichée sur la page au moment de notre vérification : -20%.",
           "Tailles : de XXS à XXL, plus une gamme Petite.",
           "Matière : 100% polyester, sans doublure et non extensible.",
           "Note de la boutique 4,82, avec plus de mille avis."
         ],
         "paragraphs": [
           "Une robe à fines bretelles avec une jupe ample, un dos ouvert et une fermeture éclair, dans le rouge que le lien ouvre. Le tableau des tailles va de 84 cm de poitrine et 66 cm de taille en XXS à 114 cm et 96 cm en XXL, avec une longueur de 122 à 134 cm.",
-          "Le tissu ne s'étire pas : le tour de poitrine et le tour de taille doivent donc correspondre à vos mesures. Comparez en centimètres avant de choisir. Pour d'autres styles de soirée, voir le [guide des robes de soirée SHEIN](/fr/reviews/robe-de-soiree-shein)."
+          "Le tissu ne s'étire pas. Comparez les mesures du vêtement avec celles d'une robe sans élasticité qui vous va déjà confortablement, en regardant l'aisance au niveau de la poitrine et de la taille. Pour d'autres styles de soirée, voir le [guide des robes de soirée SHEIN](/fr/reviews/robe-de-soiree-shein)."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-01-vestido-longo-bae.webp",
@@ -67127,7 +67091,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mini-robe col licou SHEIN PETITE",
         "bullets": [
-          "Remise affichée sur la page au moment de notre vérification : -20%.",
           "Tailles : de Petite XXS à Petite L.",
           "Matière : 100% polyester, avec une doublure de 89% polyester et 11% élasthanne.",
           "Note de la boutique 4,82, avec plus de mille avis."
@@ -67158,7 +67121,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Robe fleurie Opulessa",
         "bullets": [
-          "Remise affichée sur la page au moment de notre vérification : -20%.",
           "Tailles : de XXS à XL.",
           "Matière : maille de 91% polyester et 9% élasthanne, très extensible. La fiche produit la décrit comme semi-transparente.",
           "Note de la boutique 4,87, avec plus de mille avis."
@@ -67189,7 +67151,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ensemble top et pantalon large marron et blanc",
         "bullets": [
-          "Remise affichée sur la page au moment de notre vérification : -20%.",
           "Tailles : de XS à XL.",
           "Matière : top en maille avec 95% polyester et 5% élasthanne ; pantalon 100% polyester, non extensible.",
           "Note de la boutique 4,73, avec plus de mille avis."
@@ -67221,12 +67182,35 @@ export const reviewsData: unknown[] = [
         "heading": "Tops et une veste : décontracté et mi-saison",
         "paragraphs": [
           "Trois tops non extensibles et une veste. Les deux tops vérifiés se portent à l'opposé : l'un ample, l'autre cintré à la taille."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Pièce",
+            "À quoi elle sert"
+          ],
+          "rows": [
+            [
+              "[Top en dentelle SHEIN PariChic à col montant](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
+              "Seul ou en superposition"
+            ],
+            [
+              "[Top vichy SHEIN EZwear à bas volanté](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
+              "Décontracté d'été, coupe ample"
+            ],
+            [
+              "[Chemise à carreaux sans manches Sweetra avec nœud sur le côté](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
+              "Décontracté, cintrée à la taille"
+            ],
+            [
+              "[Veste zippée en faux daim](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
+              "Mi-saison et voyages"
+            ]
+          ]
+        }
       },
       {
         "heading": "Top en dentelle SHEIN PariChic à col montant",
         "bullets": [
-          "Remise affichée sur la page au moment de notre vérification : -20%.",
           "Tailles : de XS à XXL, plus une gamme Tall.",
           "Matière : 41% polyamide, 37% coton et 22% viscose, non extensible. La fiche produit la décrit comme semi-transparente."
         ],
@@ -67256,7 +67240,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Top vichy SHEIN EZwear à bas volanté",
         "bullets": [
-          "Aucune remise affichée sur la page au moment de notre vérification.",
           "Tailles : de XS à XL.",
           "Matière : 55% coton et 45% polyester, non extensible."
         ],
@@ -67286,7 +67269,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Chemise à carreaux sans manches Sweetra avec nœud sur le côté",
         "bullets": [
-          "Remise affichée sur la page au moment de notre vérification : -20%.",
           "Tailles : de XXS à XL, plus une gamme grandes tailles.",
           "Matière : 72% polyester, 18% coton et 10% viscose, non extensible.",
           "Note de la boutique 4,73, avec plus de mille avis."
@@ -67317,7 +67299,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Veste zippée en faux daim",
         "bullets": [
-          "Remise affichée sur la page au moment de notre vérification : -20%.",
           "Tailles : de XS à L.",
           "Matière : faux daim, 100% polyester, non extensible.",
           "Note de la boutique 4,78, avec plus de mille avis."
@@ -67349,12 +67330,39 @@ export const reviewsData: unknown[] = [
         "heading": "Sport, plage et pyjama",
         "paragraphs": [
           "Une tenue de sport que vous composez avec deux pièces, un maillot avec sa tunique de plage et un pyjama."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Pièce",
+            "À quoi elle sert"
+          ],
+          "rows": [
+            [
+              "[Brassière de sport Anewsta à dos croisé](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
+              "Entraînement et yoga"
+            ],
+            [
+              "[Legging sans coutures Yefecy](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
+              "Entraînement et yoga"
+            ],
+            [
+              "[Maillot une pièce bleu marine et blanc Costavie](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
+              "Plage et piscine"
+            ],
+            [
+              "[Tunique de plage fleurie SHEIN Swim](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
+              "Par-dessus un maillot ou un bikini"
+            ],
+            [
+              "[Pyjama débardeur et short à imprimé ours](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
+              "Dormir et se détendre à la maison"
+            ]
+          ]
+        }
       },
       {
         "heading": "Brassière de sport Anewsta à dos croisé",
         "bullets": [
-          "Aucune remise affichée sur la page au moment de notre vérification.",
           "Tailles : de XS à XXL, plus une gamme grandes tailles.",
           "Matière : 90% polyamide et 10% élasthanne, très extensible.",
           "Note de la boutique 4,88, avec plus de mille avis."
@@ -67391,14 +67399,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Legging sans coutures Yefecy",
         "bullets": [
-          "Remise affichée sur la page au moment de notre vérification : -20%.",
           "Tailles : S, M et L.",
           "Matière : maille de 90% polyamide et 10% élasthanne, très extensible, sans coutures.",
           "Note de la boutique 4,74, avec plus de 500 avis."
         ],
         "paragraphs": [
           "Un legging long de compression sans coutures, dans le violet que le lien ouvre. Le titre de la boutique indique taille mi-haute et les détails du produit indiquent taille haute : regardez les photos de la page pour voir où se place la ceinture.",
-          "La gamme de tailles est courte, seulement trois, et le tableau donne le vêtement non étiré : 58 cm de taille et 68 cm de hanches en S, 66 cm et 76 cm en L. Un legging trop étiré devient transparent : si vos mesures dépassent nettement le L, ce n'est pas la bonne pièce."
+          "La gamme comprend les tailles S, M et L. Le tableau donne le vêtement non étiré : 58 cm de taille et 68 cm de hanches en S, 66 cm et 76 cm en L. Ces chiffres ne sont pas des limites pour vos mesures. Comparez avec des leggings de même élasticité que vous portez déjà et consultez les indications de taille sur la page."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-10-legging-yefecy.webp",
@@ -67428,7 +67435,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Maillot une pièce bleu marine et blanc Costavie",
         "bullets": [
-          "Remise affichée sur la page au moment de notre vérification : -20%.",
           "Tailles : de XS à XL, plus une gamme grandes tailles.",
           "Matière : 80% polyamide et 20% élasthanne, très extensible, avec bonnets rembourrés.",
           "Note de la boutique 4,88, avec plus de mille avis."
@@ -67465,7 +67471,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tunique de plage fleurie SHEIN Swim",
         "bullets": [
-          "Remise affichée sur la page au moment de notre vérification : -20%.",
           "Tailles : de XXS à XXL.",
           "Matière : maille de 94% polyester et 6% élasthanne, très extensible. La fiche produit la décrit comme semi-transparente.",
           "Note de la boutique 4,93, avec plus de 500 avis."
@@ -67502,7 +67507,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pyjama débardeur et short à imprimé ours",
         "bullets": [
-          "Remise affichée sur la page au moment de notre vérification : -20%.",
           "Tailles : de XXS à XXL.",
           "Matière : maille de 95% polyester et 5% élasthanne, élasticité moyenne.",
           "Note de la boutique 4,85, avec plus de mille avis."
@@ -67534,12 +67538,27 @@ export const reviewsData: unknown[] = [
         "heading": "Enfants et bébé",
         "paragraphs": [
           "Un ensemble pour filles de 4 à 8 ans et une combinaison de bébé. Pour les deux, choisissez d'après les mesures de l'enfant et non d'après l'âge indiqué sur la taille."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Pièce",
+            "À quoi elle sert"
+          ],
+          "rows": [
+            [
+              "[Ensemble fille col polo et pantalon large](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
+              "Filles de 4 à 8 ans, mi-saison"
+            ],
+            [
+              "[Combinaison bébé façon astronaute](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
+              "Bébés de 1 à 12 mois"
+            ]
+          ]
+        }
       },
       {
         "heading": "Ensemble fille col polo et pantalon large",
         "bullets": [
-          "Aucune remise affichée sur la page au moment de notre vérification.",
           "Tailles : 4, 5, 6, 7 et 8 ans.",
           "Matière : maille de 95% polyester et 5% élasthanne, élasticité moyenne.",
           "Note de la boutique 4,76, avec plus de 500 avis."
@@ -67570,14 +67589,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Combinaison bébé façon astronaute",
         "bullets": [
-          "Remise affichée sur la page au moment de notre vérification : -20%.",
           "Tailles : de 1 à 3 mois, de 3 à 6, de 6 à 9 et de 9 à 12 mois.",
           "Matière : 96% polyester et 4% élasthanne, peu extensible.",
           "La page n'avait que 2 avis au moment de notre vérification."
         ],
         "paragraphs": [
           "Une combinaison orange à manches longues avec une fermeture éclair, une poche et des écussons d'astronaute, en color block avec du noir. Le tableau indique une longueur de 50 cm pour la taille 1 à 3 mois et de 65 cm pour la taille 9 à 12 mois.",
-          "Les bébés grandissent vite. Le délai de livraison estimé s'affiche sur la page avant le paiement : ajoutez-le à l'âge du bébé et choisissez la taille d'après ce qu'il mesurera à l'arrivée de la pièce. Elle a peu d'avis, donc le tableau des tailles est la meilleure référence dont vous disposez."
+          "Tenez compte du délai de livraison avant d'acheter : la pièce peut arriver alors que le bébé porte déjà une autre taille. L'âge indiqué sur l'étiquette est une référence ; comparez les mesures actuelles du bébé avec les indications de la boutique. Avec si peu d'avis, lisez bien le tableau des tailles et évitez de choisir uniquement d'après la tranche d'âge."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-15-macacao-bebe.webp",
@@ -67602,12 +67620,27 @@ export const reviewsData: unknown[] = [
         "heading": "Un accessoire et une décoration de Noël",
         "paragraphs": [
           "Deux petits achats : un lot de bagues et un rideau de porte de Noël."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Pièce",
+            "À quoi elle sert"
+          ],
+          "rows": [
+            [
+              "[Lot de 20 bagues argentées](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
+              "Accessoire du quotidien et petit cadeau"
+            ],
+            [
+              "[Rideau de porte de Noël imprimé cheminée](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
+              "Décoration de Noël"
+            ]
+          ]
+        }
       },
       {
         "heading": "Lot de 20 bagues argentées",
         "bullets": [
-          "Remise affichée sur la page au moment de notre vérification : -20%.",
           "Taille : unique. La fiche produit n'indique pas le diamètre des bagues.",
           "Matière : alliage de zinc, avec strass.",
           "Note de la boutique 4,87, avec plus de mille avis."
@@ -67638,14 +67671,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Rideau de porte de Noël imprimé cheminée",
         "bullets": [
-          "Remise affichée sur la page au moment de notre vérification : -18%.",
           "Dimensions : 180 x 90 cm ou 200 x 90 cm.",
           "Matière : 100% polyester.",
           "La page n'avait qu'1 avis au moment de notre vérification."
         ],
         "paragraphs": [
           "Un panneau de tissu qui recouvre la porte, imprimé d'une cheminée décorée et des mots Merry Christmas. Le lot contient une pièce. Mesurez d'abord votre porte : il existe deux hauteurs, 180 et 200 cm, toutes deux de 90 cm de large.",
-          "La décoration de Noël n'est utile que si elle arrive avant le 24. Le délai de livraison estimé pour votre adresse s'affiche sur la page avant le paiement : si la date tombe après Noël, ne l'achetez pas pour cette année."
+          "Pour décorer à Noël, vérifiez que la livraison estimée tombe avant le jour où vous comptez installer la décoration. Vérifiez aussi les dimensions de votre porte avant de choisir la taille du panneau."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-17-faixa-natal-lareira.webp",
@@ -67665,7 +67697,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prix, devise et stock : consultez votre boutique SHEIN",
         "paragraphs": [
-          "Les liens de ce guide ouvrent chaque pièce dans la boutique SHEIN de votre région. Le prix, la devise, les tailles en stock et la remise affichée peuvent différer de ce que nous avons vu lors de notre vérification.",
+          "Ouvrez le lien et vérifiez le produit, la couleur et la taille dans la boutique correspondant à votre pays de livraison. Le prix, la devise, la disponibilité et les offres peuvent varier d'une boutique à l'autre.",
           "Avant de payer, confirmez le prix dans votre devise, que votre taille est disponible et si la pièce fait partie de la campagne dans votre boutique."
         ]
       },
@@ -67674,7 +67706,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Selon la politique de coupons de SHEIN, un seul coupon de la plateforme peut être utilisé par commande. Chaque coupon a une date de validité, et celui qui n'a pas été utilisé à temps n'est plus disponible.",
           "Le récapitulatif de commande indique combien de points SHEIN vous pouvez utiliser et la remise correspondante. Vérifiez ce montant avant de payer.",
-          "Le 4CW5Y n'est pas un coupon : c'est le code de parrainage SHEIN de Cecília, et il donne bien droit à une remise. Ouvrez SHEIN via le lien de Cecília et recherchez le 4CW5Y dans l'appli ou sur le site SHEIN : le code ouvre une page avec une sélection de produits recommandés, de promotions et de remises. Combien et sur quelles pièces, c'est SHEIN qui décide, et cela varie. Les campagnes SHEIN changent tout le temps : consultez les campagnes en cours sur la page de la boutique, ici sur le site, avant de valider la commande.",
+          "Le 4CW5Y n'est pas un coupon : c'est le code de parrainage SHEIN de Cecília, et il donne bien droit à une remise. Ouvrez SHEIN via le lien de Cecília ou recherchez le 4CW5Y dans l'appli ou sur le site SHEIN : le code ouvre une page avec une sélection de produits recommandés, de promotions et de remises. Combien et sur quelles pièces, c'est SHEIN qui décide, et cela varie. Les campagnes SHEIN changent tout le temps : consultez les campagnes en cours sur la page de la boutique, ici sur le site, avant de valider la commande.",
           "Les six codes de campagne de la section des raccourcis, comme le 24V7643, se saisissent aussi dans la barre de recherche, mais ils ouvrent des sélections thématiques de SHEIN. Le 4CW5Y est le seul qui soit le code de parrainage de Cecília."
         ],
         "links": [
@@ -67727,9 +67759,9 @@ export const reviewsData: unknown[] = [
           "Comment fonctionne le Black Friday de SHEIN ? Les offres peuvent avoir des dates et des conditions différentes. Vérifiez les articles concernés par la remise annoncée et comparez le prix final dans le panier.",
           "SHEIN a-t-il un Cyber Monday ? Le Cyber Monday 2026 tombe le 30 novembre. Nous n'avons pas trouvé d'annonce valable pour tous les pays : consultez la campagne de la boutique de votre pays.",
           "L'achat du Black Friday arrive-t-il avant Noël ? Nous ne pouvons pas garantir de date. Le délai de livraison s'affiche sur la commande avant le paiement : vérifiez ce délai à chaque achat.",
-          "Le 4CW5Y est-il un coupon de réduction ? Ce n'est pas un coupon, mais il donne bien droit à une remise : c'est le code de parrainage SHEIN de Cecília. Ouvrez SHEIN via le lien et recherchez le code dans l'appli ou sur le site : le code ouvre une sélection avec des promotions et des remises ; combien et sur quelles pièces, c'est SHEIN qui décide.",
+          "Le 4CW5Y est-il un coupon de réduction ? Ce n'est pas un coupon, mais il donne bien droit à une remise : c'est le code de parrainage SHEIN de Cecília. Ouvrez SHEIN via le lien ou recherchez le code dans l'appli ou sur le site : le code ouvre une sélection avec des promotions et des remises ; combien et sur quelles pièces, c'est SHEIN qui décide.",
           "Le 4CW5Y et les codes de campagne de SHEIN, est-ce la même chose ? Non. Le 4CW5Y est le code de parrainage de Cecília. Des codes comme 24V7643 et B75N67A sont des raccourcis SHEIN qui ouvrent des sélections de campagne dans la recherche de l'appli. Aucun ne se saisit au paiement.",
-          "Les pièces de ce guide coûtent-elles le même prix dans tous les pays ? Non. Chaque lien ouvre la pièce dans la boutique SHEIN de votre région, avec son propre prix, sa devise et son stock. Vérifiez le prix sur la fiche produit avant de payer.",
+          "Les pièces de ce guide coûtent-elles le même prix dans tous les pays ? Non. Le prix, la devise, le stock et les offres varient selon les boutiques SHEIN. Ouvrez le lien et vérifiez la pièce dans la boutique correspondant à votre pays de livraison avant de payer.",
           "Comment choisir ma taille pour les vêtements SHEIN du Black Friday ? Utilisez le tableau des tailles de chaque pièce, en centimètres, et comparez-le à vos propres mesures. Les tailles changent d'une marque à l'autre chez SHEIN, et un tissu non extensible demande plus d'attention au tour de poitrine et au tour de taille."
         ]
       }
@@ -67824,114 +67856,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Was Sie kaufen können: die 17 Teile in einer Tabelle",
+        "heading": "Was Sie kaufen können: 17 Teile, nach Bedarf geordnet",
         "paragraphs": [
-          "Das sind 17 Teile aus der Kampagne, ausgewählt für Partys, Alltag, Sport, Strand, Schlafen, Kinder, Accessoires und Weihnachten. Wir haben jede Produktseite Mitte November geöffnet: Stoff, Maße, Bewertung und angezeigter Rabatt stammen von der Seite an diesem Tag."
+          "Diese Auswahl vereint 17 Teile für Partys, Alltag, Sport, Strand, Kinder und Weihnachten. Vergleichen Sie unten Stoff, Maße und Outfit-Ideen; Stoff, Maße und Bewertungen stammen von der jeweiligen Produktseite, die wir Mitte November gelesen haben. Prüfen Sie vor dem Kauf den Preis und das Angebot für das Teil in dem Shop, der für Ihr Lieferland eingestellt ist."
         ],
-        "comparisonTable": {
-          "caption": "Rabatt, der auf der jeweiligen Produktseite zu sehen war, als wir nachgesehen haben. Preise und Rabatte ändern sich während der Kampagne und können je nach Farbe und Größe abweichen.",
-          "headers": [
-            "Teil",
-            "Rabatt auf der Seite",
-            "Wofür es gedacht ist"
-          ],
-          "rows": [
-            [
-              "[SHEIN BAE Kleid mit Spaghettiträgern](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
-              "-20%",
-              "Partys, Abendessen und Dates"
-            ],
-            [
-              "[SHEIN PETITE Neckholder-Minikleid](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
-              "-20%",
-              "Partys und Dates, Petite-Größen"
-            ],
-            [
-              "[Opulessa Kleid mit Blumenmuster](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
-              "-20%",
-              "Urlaub und warme Tage"
-            ],
-            [
-              "[Set aus braun-weißem Top und weiter Hose](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
-              "-20%",
-              "Lässig im Büro und am Wochenende"
-            ],
-            [
-              "[SHEIN PariChic Spitzentop mit Stehkragen](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
-              "-20%",
-              "Allein oder als Layering"
-            ],
-            [
-              "[SHEIN EZwear Gingham-Top mit Rüschensaum](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
-              "—",
-              "Sommerlich lässig, weite Passform"
-            ],
-            [
-              "[Sweetra ärmelloses Karohemd mit seitlicher Schleife](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
-              "-20%",
-              "Lässig, in der Taille gerafft"
-            ],
-            [
-              "[Jacke aus Veloursleder-Imitat mit Reißverschluss](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
-              "-20%",
-              "Übergangszeit und Reisen"
-            ],
-            [
-              "[Anewsta Sport-BH mit gekreuztem Rücken](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
-              "—",
-              "Sport und Yoga"
-            ],
-            [
-              "[Yefecy nahtlose Leggings](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
-              "-20%",
-              "Sport und Yoga"
-            ],
-            [
-              "[Costavie Badeanzug in Marineblau und Weiß](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
-              "-20%",
-              "Strand und Pool"
-            ],
-            [
-              "[SHEIN Swim Überwurf mit Blumenmuster](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
-              "-20%",
-              "Über Badeanzug oder Bikini"
-            ],
-            [
-              "[Schlafanzug-Set aus Camisole und Shorts mit Bärenmuster](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
-              "-20%",
-              "Zum Schlafen und Entspannen zu Hause"
-            ],
-            [
-              "[Mädchen-Set aus Top mit Polokragen und weiter Hose](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
-              "—",
-              "Mädchen von 4 bis 8 Jahren, Übergangszeit"
-            ],
-            [
-              "[Baby-Strampler im Astronauten-Stil](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
-              "-20%",
-              "Babys von 1 bis 12 Monaten"
-            ],
-            [
-              "[Set aus 20 silberfarbenen Ringen](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
-              "-20%",
-              "Alltags-Accessoire und kleines Geschenk"
-            ],
-            [
-              "[Weihnachts-Türvorhang mit Kaminmotiv](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
-              "-18%",
-              "Weihnachtsdeko"
-            ]
-          ]
-        },
         "postParagraphs": [
-          "Preise lassen wir bewusst weg: Jeder Link öffnet das Teil im SHEIN-Shop Ihrer Region, mit dem Preis in Ihrer Währung.",
           "Wählen Sie die Größe nach der Größentabelle des jeweiligen Teils, in Zentimetern, und nicht nach dem Buchstaben: Die Größen unterscheiden sich von Marke zu Marke innerhalb von SHEIN. Der [SHEIN-Größenratgeber](/de/reviews/shein-groessen) zeigt, wie Sie sich messen und die Tabelle lesen."
         ]
       },
       {
         "heading": "Sechs Kampagnen-Shortcuts zum Suchen in der App",
         "paragraphs": [
-          "Neben den Teilen hat SHEIN für die Kampagne thematische Auswahlen zusammengestellt. Jede hat einen Suchcode: Geben Sie den Code in die Suchleiste der SHEIN-App ein oder öffnen Sie ihn über den Link, dann erscheint die Auswahl. Diese Codes sind Such-Shortcuts: Sie werden nicht an der Kasse eingegeben und sind keine Gutscheine."
+          "Neben den Teilen hat SHEIN für die Kampagne thematische Auswahlen zusammengestellt. Jede hat einen Suchcode: Geben Sie den Code in die Suchleiste der SHEIN-App ein oder öffnen Sie ihn über den Link, dann erscheint die Auswahl. Diese Codes sind Such-Shortcuts: Sie werden nicht an der Kasse eingegeben und sind keine Gutscheine.",
+          "Die Shortcuts hängen von der Kampagne ab, die in Ihrem Shop verfügbar ist. Wenn einer die Auswahl nicht öffnet, sehen Sie sich die Kampagnen an, die in der App für Ihr Lieferland angezeigt werden."
         ],
         "comparisonTable": {
           "caption": "Was jede Auswahl zusammenfasst. Der in jeder Auswahl gezeigte Rabatt gilt für einzelne Artikel der Auswahl, nie für den ganzen Warenkorb.",
@@ -67984,19 +67921,42 @@ export const reviewsData: unknown[] = [
         "heading": "Kleider und ein Zweiteiler: Partys, Urlaub und Alltag",
         "paragraphs": [
           "Drei Kleider und ein Zweiteiler. Zwei der Kleider bestehen aus nicht dehnbarem Stoff, und bei ihnen entscheiden Brust- und Taillenmaß über die Größe."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Teil",
+            "Wofür es gedacht ist"
+          ],
+          "rows": [
+            [
+              "[SHEIN BAE Kleid mit Spaghettiträgern](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
+              "Partys, Abendessen und Dates"
+            ],
+            [
+              "[SHEIN PETITE Neckholder-Minikleid](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
+              "Partys und Dates, Petite-Größen"
+            ],
+            [
+              "[Opulessa Kleid mit Blumenmuster](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
+              "Urlaub und warme Tage"
+            ],
+            [
+              "[Set aus braun-weißem Top und weiter Hose](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
+              "Lässig im Büro und am Wochenende"
+            ]
+          ]
+        }
       },
       {
         "heading": "SHEIN BAE Kleid mit Spaghettiträgern",
         "bullets": [
-          "Beim Nachsehen auf der Seite angezeigter Rabatt: -20%.",
           "Größen: XXS bis XXL, dazu eine Petite-Reihe.",
           "Stoff: 100% Polyester, ungefüttert und nicht dehnbar.",
           "Shop-Bewertung 4,82, mit über tausend Rezensionen."
         ],
         "paragraphs": [
           "Ein Kleid mit Spaghettiträgern, weitem Rock, offenem Rücken und Reißverschluss, in dem Rot, das der Link öffnet. Die Größentabelle reicht von 84 cm Brust und 66 cm Taille in XXS bis 114 cm und 96 cm in XXL, bei einer Länge von 122 bis 134 cm.",
-          "Der Stoff dehnt sich nicht, daher müssen Brust und Taille zu Ihren Maßen passen: Vergleichen Sie in Zentimetern, bevor Sie wählen. Für andere Partylooks lesen Sie den [SHEIN-Ratgeber für Partykleider](/de/reviews/partykleid-shein)."
+          "Der Stoff dehnt sich nicht. Vergleichen Sie die Maße des Kleidungsstücks mit denen eines nicht dehnbaren Kleides, das Ihnen bereits bequem passt, und achten Sie dabei auf die Bewegungsweite an Brust und Taille. Für andere Partylooks lesen Sie den [SHEIN-Ratgeber für Partykleider](/de/reviews/partykleid-shein)."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-01-vestido-longo-bae.webp",
@@ -68020,7 +67980,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN PETITE Neckholder-Minikleid",
         "bullets": [
-          "Beim Nachsehen auf der Seite angezeigter Rabatt: -20%.",
           "Größen: Petite XXS bis Petite L.",
           "Stoff: 100% Polyester, mit Futter aus 89% Polyester und 11% Elasthan.",
           "Shop-Bewertung 4,82, mit über tausend Rezensionen."
@@ -68051,7 +68010,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Opulessa Kleid mit Blumenmuster",
         "bullets": [
-          "Beim Nachsehen auf der Seite angezeigter Rabatt: -20%.",
           "Größen: XXS bis XL.",
           "Stoff: Strick aus 91% Polyester und 9% Elasthan, sehr dehnbar. Die Produktseite führt ihn als halbtransparent auf.",
           "Shop-Bewertung 4,87, mit über tausend Rezensionen."
@@ -68082,7 +68040,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Set aus braun-weißem Top und weiter Hose",
         "bullets": [
-          "Beim Nachsehen auf der Seite angezeigter Rabatt: -20%.",
           "Größen: XS bis XL.",
           "Stoff: Strick-Top aus 95% Polyester und 5% Elasthan; Hose 100% Polyester, nicht dehnbar.",
           "Shop-Bewertung 4,73, mit über tausend Rezensionen."
@@ -68114,12 +68071,35 @@ export const reviewsData: unknown[] = [
         "heading": "Oberteile und eine Jacke: leger und für die Übergangszeit",
         "paragraphs": [
           "Drei nicht dehnbare Oberteile und eine Jacke. Die beiden geprüften Oberteile sitzen gegensätzlich: eines weit, das andere in der Taille gerafft."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Teil",
+            "Wofür es gedacht ist"
+          ],
+          "rows": [
+            [
+              "[SHEIN PariChic Spitzentop mit Stehkragen](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
+              "Allein oder als Layering"
+            ],
+            [
+              "[SHEIN EZwear Gingham-Top mit Rüschensaum](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
+              "Sommerlich lässig, weite Passform"
+            ],
+            [
+              "[Sweetra ärmelloses Karohemd mit seitlicher Schleife](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
+              "Lässig, in der Taille gerafft"
+            ],
+            [
+              "[Jacke aus Veloursleder-Imitat mit Reißverschluss](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
+              "Übergangszeit und Reisen"
+            ]
+          ]
+        }
       },
       {
         "heading": "SHEIN PariChic Spitzentop mit Stehkragen",
         "bullets": [
-          "Beim Nachsehen auf der Seite angezeigter Rabatt: -20%.",
           "Größen: XS bis XXL, dazu eine Tall-Reihe.",
           "Stoff: 41% Polyamid, 37% Baumwolle und 22% Viskose, nicht dehnbar. Die Produktseite führt ihn als halbtransparent auf."
         ],
@@ -68149,7 +68129,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN EZwear Gingham-Top mit Rüschensaum",
         "bullets": [
-          "Beim Nachsehen kein Rabatt auf der Seite angezeigt.",
           "Größen: XS bis XL.",
           "Stoff: 55% Baumwolle und 45% Polyester, nicht dehnbar."
         ],
@@ -68179,7 +68158,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sweetra ärmelloses Karohemd mit seitlicher Schleife",
         "bullets": [
-          "Beim Nachsehen auf der Seite angezeigter Rabatt: -20%.",
           "Größen: XXS bis XL, dazu eine Plus-Size-Reihe.",
           "Stoff: 72% Polyester, 18% Baumwolle und 10% Viskose, nicht dehnbar.",
           "Shop-Bewertung 4,73, mit über tausend Rezensionen."
@@ -68210,7 +68188,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Jacke aus Veloursleder-Imitat mit Reißverschluss",
         "bullets": [
-          "Beim Nachsehen auf der Seite angezeigter Rabatt: -20%.",
           "Größen: XS bis L.",
           "Stoff: Veloursleder-Imitat, 100% Polyester, nicht dehnbar.",
           "Shop-Bewertung 4,78, mit über tausend Rezensionen."
@@ -68242,12 +68219,39 @@ export const reviewsData: unknown[] = [
         "heading": "Sport, Strand und Schlafen",
         "paragraphs": [
           "Ein Sportoutfit aus zwei Teilen, ein Badeanzug mit passendem Überwurf und ein Schlafanzug-Set."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Teil",
+            "Wofür es gedacht ist"
+          ],
+          "rows": [
+            [
+              "[Anewsta Sport-BH mit gekreuztem Rücken](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
+              "Sport und Yoga"
+            ],
+            [
+              "[Yefecy nahtlose Leggings](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
+              "Sport und Yoga"
+            ],
+            [
+              "[Costavie Badeanzug in Marineblau und Weiß](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
+              "Strand und Pool"
+            ],
+            [
+              "[SHEIN Swim Überwurf mit Blumenmuster](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
+              "Über Badeanzug oder Bikini"
+            ],
+            [
+              "[Schlafanzug-Set aus Camisole und Shorts mit Bärenmuster](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
+              "Zum Schlafen und Entspannen zu Hause"
+            ]
+          ]
+        }
       },
       {
         "heading": "Anewsta Sport-BH mit gekreuztem Rücken",
         "bullets": [
-          "Beim Nachsehen kein Rabatt auf der Seite angezeigt.",
           "Größen: XS bis XXL, dazu eine Plus-Size-Reihe.",
           "Stoff: 90% Polyamid und 10% Elasthan, sehr dehnbar.",
           "Shop-Bewertung 4,88, mit über tausend Rezensionen."
@@ -68284,14 +68288,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Yefecy nahtlose Leggings",
         "bullets": [
-          "Beim Nachsehen auf der Seite angezeigter Rabatt: -20%.",
           "Größen: S, M und L.",
           "Stoff: Strick aus 90% Polyamid und 10% Elasthan, sehr dehnbar, nahtlos.",
           "Shop-Bewertung 4,74, mit über 500 Rezensionen."
         ],
         "paragraphs": [
           "Lange, nahtlose Kompressions-Leggings, in dem Lila, das der Link öffnet. Der Shop-Titel sagt mittlere Taille, die Produktdetails sagen hohe Taille: Sehen Sie sich die Fotos auf der Seite an, um zu erkennen, wo der Bund sitzt.",
-          "Die Größenauswahl ist klein, nur drei Größen, und die Tabelle nennt das Kleidungsstück ungedehnt: 58 cm Taille und 68 cm Hüfte in S, 66 cm und 76 cm in L. Zu stark gedehnte Leggings werden durchsichtig; wenn Ihre Maße deutlich über der L liegen, ist dies nicht das richtige Teil."
+          "Die Auswahl umfasst S, M und L. Die Tabelle nennt das Kleidungsstück ungedehnt: 58 cm Taille und 68 cm Hüfte in S, 66 cm und 76 cm in L. Diese Zahlen sind keine Grenzen für Ihre Körpermaße. Vergleichen Sie mit Leggings ähnlicher Dehnbarkeit, die Sie bereits tragen, und lesen Sie die Größenhinweise auf der Seite."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-10-legging-yefecy.webp",
@@ -68321,7 +68324,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Costavie Badeanzug in Marineblau und Weiß",
         "bullets": [
-          "Beim Nachsehen auf der Seite angezeigter Rabatt: -20%.",
           "Größen: XS bis XL, dazu eine Plus-Size-Reihe.",
           "Stoff: 80% Polyamid und 20% Elasthan, sehr dehnbar, mit vorgeformten Cups.",
           "Shop-Bewertung 4,88, mit über tausend Rezensionen."
@@ -68358,7 +68360,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN Swim Überwurf mit Blumenmuster",
         "bullets": [
-          "Beim Nachsehen auf der Seite angezeigter Rabatt: -20%.",
           "Größen: XXS bis XXL.",
           "Stoff: Strick aus 94% Polyester und 6% Elasthan, sehr dehnbar. Die Produktseite führt ihn als halbtransparent auf.",
           "Shop-Bewertung 4,93, mit über 500 Rezensionen."
@@ -68395,7 +68396,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schlafanzug-Set aus Camisole und Shorts mit Bärenmuster",
         "bullets": [
-          "Beim Nachsehen auf der Seite angezeigter Rabatt: -20%.",
           "Größen: XXS bis XXL.",
           "Stoff: Strick aus 95% Polyester und 5% Elasthan, mittel dehnbar.",
           "Shop-Bewertung 4,85, mit über tausend Rezensionen."
@@ -68427,12 +68427,27 @@ export const reviewsData: unknown[] = [
         "heading": "Kinder und Baby",
         "paragraphs": [
           "Ein Set für Mädchen von 4 bis 8 Jahren und ein Baby-Strampler. Wählen Sie bei beiden nach den Körpermaßen des Kindes und nicht nach dem Alter in der Größe."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Teil",
+            "Wofür es gedacht ist"
+          ],
+          "rows": [
+            [
+              "[Mädchen-Set aus Top mit Polokragen und weiter Hose](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
+              "Mädchen von 4 bis 8 Jahren, Übergangszeit"
+            ],
+            [
+              "[Baby-Strampler im Astronauten-Stil](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
+              "Babys von 1 bis 12 Monaten"
+            ]
+          ]
+        }
       },
       {
         "heading": "Mädchen-Set aus Top mit Polokragen und weiter Hose",
         "bullets": [
-          "Beim Nachsehen kein Rabatt auf der Seite angezeigt.",
           "Größen: 4, 5, 6, 7 und 8 Jahre.",
           "Stoff: Strick aus 95% Polyester und 5% Elasthan, mittel dehnbar.",
           "Shop-Bewertung 4,76, mit über 500 Rezensionen."
@@ -68463,14 +68478,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Baby-Strampler im Astronauten-Stil",
         "bullets": [
-          "Beim Nachsehen auf der Seite angezeigter Rabatt: -20%.",
           "Größen: 1 bis 3 Monate, 3 bis 6, 6 bis 9 und 9 bis 12 Monate.",
           "Stoff: 96% Polyester und 4% Elasthan, wenig dehnbar.",
           "Die Seite hatte beim Nachsehen nur 2 Rezensionen."
         ],
         "paragraphs": [
           "Ein oranger Langarm-Strampler mit Reißverschluss, Tasche und Astronauten-Abzeichen, mit schwarzen Farbblöcken. Die Tabelle nennt eine Länge von 50 cm in der Größe 1 bis 3 Monate und 65 cm in der Größe 9 bis 12 Monate.",
-          "Babys wachsen schnell. Die Lieferschätzung erscheint vor dem Bezahlen auf der Seite: Rechnen Sie sie zum Alter des Babys hinzu und wählen Sie die Größe danach, wie groß das Baby sein wird, wenn das Teil ankommt. Es gibt nur wenige Rezensionen, die Größentabelle ist also Ihre beste Orientierung."
+          "Berücksichtigen Sie vor dem Kauf die Lieferzeit: Das Teil kann ankommen, wenn das Baby schon in einer anderen Größe steckt. Das Alter auf dem Etikett ist ein Richtwert; vergleichen Sie die aktuellen Maße des Babys mit den Hinweisen des Shops. Bei so wenigen Rezensionen lesen Sie die Größentabelle sorgfältig und wählen Sie nicht allein nach der Altersangabe."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-15-macacao-bebe.webp",
@@ -68495,12 +68509,27 @@ export const reviewsData: unknown[] = [
         "heading": "Ein Accessoire und Weihnachtsdeko",
         "paragraphs": [
           "Zwei kleine Käufe: ein Ringset und ein Weihnachts-Türvorhang."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Teil",
+            "Wofür es gedacht ist"
+          ],
+          "rows": [
+            [
+              "[Set aus 20 silberfarbenen Ringen](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
+              "Alltags-Accessoire und kleines Geschenk"
+            ],
+            [
+              "[Weihnachts-Türvorhang mit Kaminmotiv](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
+              "Weihnachtsdeko"
+            ]
+          ]
+        }
       },
       {
         "heading": "Set aus 20 silberfarbenen Ringen",
         "bullets": [
-          "Beim Nachsehen auf der Seite angezeigter Rabatt: -20%.",
           "Größe: Einheitsgröße. Die Produktseite nennt die Ringdurchmesser nicht.",
           "Material: Zinklegierung, mit Strasssteinen.",
           "Shop-Bewertung 4,87, mit über tausend Rezensionen."
@@ -68531,14 +68560,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Weihnachts-Türvorhang mit Kaminmotiv",
         "bullets": [
-          "Beim Nachsehen auf der Seite angezeigter Rabatt: -18%.",
           "Maße: 180 x 90 cm oder 200 x 90 cm.",
           "Material: 100% Polyester.",
           "Die Seite hatte beim Nachsehen nur 1 Rezension."
         ],
         "paragraphs": [
           "Eine Stoffbahn, die die Tür bedeckt, bedruckt mit einem geschmückten Kamin und den Worten Merry Christmas. In der Packung ist ein Stück. Messen Sie zuerst Ihre Tür: Es gibt zwei Höhen, 180 und 200 cm, beide 90 cm breit.",
-          "Weihnachtsdeko ist nur nützlich, wenn sie vor dem 24. ankommt. Die Lieferschätzung für Ihre Adresse erscheint vor dem Bezahlen auf der Seite: Liegt das voraussichtliche Datum nach Weihnachten, kaufen Sie sie nicht für dieses Jahr."
+          "Wenn Sie dieses Weihnachten dekorieren möchten, prüfen Sie, ob die voraussichtliche Lieferung vor dem Tag liegt, an dem Sie die Dekoration aufhängen wollen. Prüfen Sie auch die Maße Ihrer Tür, bevor Sie die Größe des Panels wählen."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-17-faixa-natal-lareira.webp",
@@ -68558,7 +68586,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preis, Währung und Bestand: prüfen Sie Ihren SHEIN-Shop",
         "paragraphs": [
-          "Die Links in diesem Leitfaden öffnen jedes Teil im SHEIN-Shop Ihrer Region. Preis, Währung, verfügbare Größen und angezeigter Rabatt können von dem abweichen, was wir beim Nachsehen gesehen haben.",
+          "Öffnen Sie den Link und prüfen Sie Produkt, Farbe und Größe in dem Shop, der für Ihr Lieferland eingestellt ist. Preis, Währung, Verfügbarkeit und Angebote können sich zwischen den Shops unterscheiden.",
           "Bestätigen Sie vor dem Bezahlen den Preis in Ihrer Währung, dass Ihre Größe verfügbar ist und ob das Teil in Ihrem Shop zur Kampagne gehört."
         ]
       },
@@ -68567,7 +68595,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Nach der Gutscheinrichtlinie von SHEIN gilt pro Bestellung ein Gutschein der Plattform. Jeder Gutschein hat ein Ablaufdatum, danach ist er nicht mehr verfügbar.",
           "Die Bestellübersicht zeigt, wie viele SHEIN-Punkte Sie einsetzen können und welchen Rabatt sie ergeben. Prüfen Sie den Betrag vor dem Bezahlen.",
-          "4CW5Y ist kein Gutschein, sondern Cecílias SHEIN-Empfehlungscode, und er bringt Rabatt. Öffnen Sie SHEIN über Cecílias Link und suchen Sie in der SHEIN-App oder auf der Website nach 4CW5Y: Der Code öffnet eine Seite mit einer Auswahl empfohlener Produkte, Aktionen und Rabatte. Wie hoch und auf welche Artikel, entscheidet SHEIN und variiert. Die SHEIN-Aktionen ändern sich ständig: Prüfen Sie die aktuellen auf der Shop-Seite hier auf der Website, bevor Sie bestellen.",
+          "4CW5Y ist kein Gutschein, sondern Cecílias SHEIN-Empfehlungscode, und er bringt Rabatt. Öffnen Sie SHEIN über Cecílias Link oder suchen Sie in der SHEIN-App oder auf der Website nach 4CW5Y: Der Code öffnet eine Seite mit einer Auswahl empfohlener Produkte, Aktionen und Rabatte. Wie hoch und auf welche Artikel, entscheidet SHEIN und variiert. Die SHEIN-Aktionen ändern sich ständig: Prüfen Sie die aktuellen auf der Shop-Seite hier auf der Website, bevor Sie bestellen.",
           "Die sechs Kampagnencodes im Abschnitt über die Shortcuts, etwa 24V7643, werden ebenfalls in die Suchleiste eingegeben, öffnen aber thematische Auswahlen von SHEIN. 4CW5Y ist der einzige, der Cecílias Empfehlungscode ist."
         ],
         "links": [
@@ -68620,9 +68648,9 @@ export const reviewsData: unknown[] = [
           "Wie funktioniert der Black Friday von SHEIN? Angebote können unterschiedliche Laufzeiten und Bedingungen haben. Prüfen Sie, welche Artikel den beworbenen Rabatt erhalten, und vergleichen Sie den Endpreis im Warenkorb.",
           "Gibt es bei SHEIN einen Cyber Monday? Der Cyber Monday 2026 fällt auf den 30. November. Wir haben keine Ankündigung gefunden, die für alle Länder gilt: Prüfen Sie die Aktion im Shop Ihres Landes.",
           "Kommt die Bestellung vom Black Friday vor Weihnachten an? Ein Datum können wir nicht garantieren. Die Lieferfrist erscheint in der Bestellung vor dem Bezahlen: Prüfen Sie diese Frist bei jedem Kauf.",
-          "Ist 4CW5Y ein Rabattgutschein? Kein Gutschein, aber er bringt Rabatt: Es ist Cecílias SHEIN-Empfehlungscode. Öffnen Sie SHEIN über den Link und suchen Sie in der App oder auf der Website nach dem Code: Er öffnet eine Auswahl mit Aktionen und Rabatten; wie hoch und auf welche Artikel, entscheidet SHEIN.",
+          "Ist 4CW5Y ein Rabattgutschein? Kein Gutschein, aber er bringt Rabatt: Es ist Cecílias SHEIN-Empfehlungscode. Öffnen Sie SHEIN über den Link oder suchen Sie in der App oder auf der Website nach dem Code: Er öffnet eine Auswahl mit Aktionen und Rabatten; wie hoch und auf welche Artikel, entscheidet SHEIN.",
           "Sind 4CW5Y und die Kampagnencodes von SHEIN dasselbe? Nein. 4CW5Y ist Cecílias Empfehlungscode. Codes wie 24V7643 und B75N67A sind SHEIN-Shortcuts, die Kampagnenauswahlen in der Suche der App öffnen. Keiner davon wird an der Kasse eingegeben.",
-          "Kosten die Teile in diesem Leitfaden in jedem Land gleich viel? Nein. Jeder Link öffnet das Teil im SHEIN-Shop Ihrer Region, mit eigenem Preis, eigener Währung und eigenem Bestand. Prüfen Sie den Preis auf der Produktseite, bevor Sie bezahlen.",
+          "Kosten die Teile in diesem Leitfaden in jedem Land gleich viel? Nein. Preis, Währung, Bestand und Angebote unterscheiden sich zwischen den SHEIN-Shops. Öffnen Sie den Link und prüfen Sie das Teil in dem Shop, der für Ihr Lieferland eingestellt ist, bevor Sie bezahlen.",
           "Wie wähle ich meine Größe für SHEIN-Kleidung am Black Friday? Nutzen Sie die Größentabelle jedes Teils, in Zentimetern, und vergleichen Sie sie mit Ihren eigenen Maßen. Die Größen unterscheiden sich von Marke zu Marke innerhalb von SHEIN, und nicht dehnbarer Stoff verlangt mehr Aufmerksamkeit bei Brust und Taille."
         ]
       }
@@ -68717,114 +68745,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Cosa comprare: i 17 capi in una tabella",
+        "heading": "Cosa comprare: 17 capi, raggruppati per esigenza",
         "paragraphs": [
-          "Sono 17 capi della campagna, scelti per coprire feste, uso quotidiano, allenamento, mare, notte, bambini, accessori e Natale. Abbiamo aperto ogni pagina prodotto a metà novembre: tessuto, misure, valutazione e sconto mostrato vengono dalla pagina di quel giorno."
+          "Questa selezione riunisce 17 capi per feste, uso quotidiano, allenamento, mare, bambini e Natale. Qui sotto trovi il confronto tra tessuto, misure e idee di outfit; tessuto, misure e valutazioni vengono dalla pagina di ogni prodotto, letta a metà novembre. Prima di acquistare, controlla il prezzo e l'offerta del capo nello shop impostato per il paese di consegna."
         ],
-        "comparisonTable": {
-          "caption": "Sconto mostrato su ogni pagina prodotto quando abbiamo controllato. Prezzi e sconti cambiano durante la campagna e possono variare in base a colore e taglia.",
-          "headers": [
-            "Capo",
-            "Sconto sulla pagina",
-            "A cosa serve"
-          ],
-          "rows": [
-            [
-              "[Abito SHEIN BAE con spalline sottili](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
-              "-20%",
-              "Feste, cene e appuntamenti"
-            ],
-            [
-              "[Mini abito SHEIN PETITE con allacciatura al collo](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
-              "-20%",
-              "Feste e appuntamenti, taglie Petite"
-            ],
-            [
-              "[Abito a fiori Opulessa](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
-              "-20%",
-              "Vacanza e clima caldo"
-            ],
-            [
-              "[Coordinato top marrone e bianco con pantaloni ampi](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
-              "-20%",
-              "Casual da ufficio e fine settimana"
-            ],
-            [
-              "[Top in pizzo SHEIN PariChic con collo alla coreana](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
-              "-20%",
-              "Da solo o a strati"
-            ],
-            [
-              "[Top a quadretti vichy SHEIN EZwear con balza all'orlo](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
-              "—",
-              "Casual estivo, vestibilità ampia"
-            ],
-            [
-              "[Camicia a quadri Sweetra senza maniche con laccio laterale](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
-              "-20%",
-              "Casual, stretta in vita"
-            ],
-            [
-              "[Giacca in finta pelle scamosciata con zip](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
-              "-20%",
-              "Mezza stagione e viaggi"
-            ],
-            [
-              "[Top sportivo Anewsta con schiena incrociata](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
-              "—",
-              "Allenamento e yoga"
-            ],
-            [
-              "[Leggings senza cuciture Yefecy](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
-              "-20%",
-              "Allenamento e yoga"
-            ],
-            [
-              "[Costume intero Costavie blu navy e bianco](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
-              "-20%",
-              "Mare e piscina"
-            ],
-            [
-              "[Copricostume a fiori SHEIN Swim](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
-              "-20%",
-              "Sopra un costume o un bikini"
-            ],
-            [
-              "[Pigiama con canotta e pantaloncini stampa orsetti](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
-              "-20%",
-              "Per dormire e stare a casa"
-            ],
-            [
-              "[Coordinato bambina con top a colletto polo e pantaloni ampi](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
-              "—",
-              "Bambine da 4 a 8 anni, mezza stagione"
-            ],
-            [
-              "[Tutina per neonati stile astronauta](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
-              "-20%",
-              "Neonati da 1 a 12 mesi"
-            ],
-            [
-              "[Set di 20 anelli color argento](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
-              "-20%",
-              "Accessorio quotidiano e piccolo regalo"
-            ],
-            [
-              "[Copriporta natalizio con stampa del camino](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
-              "-18%",
-              "Decorazione natalizia"
-            ]
-          ]
-        },
         "postParagraphs": [
-          "Lasciamo fuori i prezzi di proposito: ogni link apre il capo nello shop SHEIN della tua regione, con il prezzo nella tua valuta.",
           "Scegli la taglia dalla tabella delle misure di ogni capo, in centimetri, e non dalla lettera: le taglie cambiano da marchio a marchio dentro SHEIN. La [guida alle taglie SHEIN](/it/reviews/taglie-shein) mostra come prendere le misure e leggere la tabella."
         ]
       },
       {
         "heading": "Sei scorciatoie della campagna da cercare nell'app",
         "paragraphs": [
-          "Oltre ai capi, SHEIN ha creato selezioni tematiche per la campagna. Ognuna ha un codice di ricerca: scrivi il codice nella barra di ricerca dell'app SHEIN, oppure aprilo dal link, e la selezione appare. Questi codici sono scorciatoie di ricerca: non si inseriscono al checkout e non sono coupon."
+          "Oltre ai capi, SHEIN ha creato selezioni tematiche per la campagna. Ognuna ha un codice di ricerca: scrivi il codice nella barra di ricerca dell'app SHEIN, oppure aprilo dal link, e la selezione appare. Questi codici sono scorciatoie di ricerca: non si inseriscono al checkout e non sono coupon.",
+          "Le scorciatoie dipendono dalla campagna disponibile nel tuo shop. Se una non apre la selezione, controlla le campagne mostrate nell'app per il tuo paese di consegna."
         ],
         "comparisonTable": {
           "caption": "Cosa riunisce ogni selezione. Lo sconto mostrato in ciascuna vale per alcuni articoli della selezione, mai per tutto il carrello.",
@@ -68877,19 +68810,42 @@ export const reviewsData: unknown[] = [
         "heading": "Abiti e un coordinato: feste, vacanza e uso quotidiano",
         "paragraphs": [
           "Tre abiti e un coordinato. Due degli abiti hanno un tessuto non elastico, e in quelli le misure di seno e vita decidono la taglia."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Capo",
+            "A cosa serve"
+          ],
+          "rows": [
+            [
+              "[Abito SHEIN BAE con spalline sottili](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
+              "Feste, cene e appuntamenti"
+            ],
+            [
+              "[Mini abito SHEIN PETITE con allacciatura al collo](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
+              "Feste e appuntamenti, taglie Petite"
+            ],
+            [
+              "[Abito a fiori Opulessa](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
+              "Vacanza e clima caldo"
+            ],
+            [
+              "[Coordinato top marrone e bianco con pantaloni ampi](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
+              "Casual da ufficio e fine settimana"
+            ]
+          ]
+        }
       },
       {
         "heading": "Abito SHEIN BAE con spalline sottili",
         "bullets": [
-          "Sconto mostrato sulla pagina quando abbiamo controllato: -20%.",
           "Taglie: da XXS a XXL, più una linea Petite.",
           "Tessuto: 100% poliestere, non foderato e non elastico.",
           "Valutazione del negozio 4,82, con oltre mille recensioni."
         ],
         "paragraphs": [
           "Un abito con spalline sottili, gonna ampia, schiena scoperta e cerniera, nel rosso che apre il link. La tabella delle misure va da 84 cm di seno e 66 cm di vita in XXS a 114 cm e 96 cm in XXL, con una lunghezza da 122 a 134 cm.",
-          "Il tessuto non si allunga, quindi seno e vita devono corrispondere alle tue misure: confronta in centimetri prima di scegliere. Per altri stili da festa, vedi la [guida agli abiti da festa SHEIN](/it/reviews/abito-da-festa-shein)."
+          "Il tessuto non si allunga. Confronta le misure del capo con quelle di un abito non elasticizzato che ti sta già comodo, facendo attenzione al margine di vestibilità su seno e vita. Per altri stili da festa, vedi la [guida agli abiti da festa SHEIN](/it/reviews/abito-da-festa-shein)."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-01-vestido-longo-bae.webp",
@@ -68913,7 +68869,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mini abito SHEIN PETITE con allacciatura al collo",
         "bullets": [
-          "Sconto mostrato sulla pagina quando abbiamo controllato: -20%.",
           "Taglie: da Petite XXS a Petite L.",
           "Tessuto: 100% poliestere, con fodera in 89% poliestere e 11% elastan.",
           "Valutazione del negozio 4,82, con oltre mille recensioni."
@@ -68944,7 +68899,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Abito a fiori Opulessa",
         "bullets": [
-          "Sconto mostrato sulla pagina quando abbiamo controllato: -20%.",
           "Taglie: da XXS a XL.",
           "Tessuto: maglia in 91% poliestere e 9% elastan, molto elastica. La pagina prodotto la indica come semitrasparente.",
           "Valutazione del negozio 4,87, con oltre mille recensioni."
@@ -68975,7 +68929,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Coordinato top marrone e bianco con pantaloni ampi",
         "bullets": [
-          "Sconto mostrato sulla pagina quando abbiamo controllato: -20%.",
           "Taglie: da XS a XL.",
           "Tessuto: top in maglia con 95% poliestere e 5% elastan; pantaloni 100% poliestere, non elastici.",
           "Valutazione del negozio 4,73, con oltre mille recensioni."
@@ -69007,12 +68960,35 @@ export const reviewsData: unknown[] = [
         "heading": "Top e una giacca: casual e mezza stagione",
         "paragraphs": [
           "Tre top non elastici e una giacca. I due top controllati cadono in modo opposto: uno ampio, l'altro stretto in vita."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Capo",
+            "A cosa serve"
+          ],
+          "rows": [
+            [
+              "[Top in pizzo SHEIN PariChic con collo alla coreana](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
+              "Da solo o a strati"
+            ],
+            [
+              "[Top a quadretti vichy SHEIN EZwear con balza all'orlo](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
+              "Casual estivo, vestibilità ampia"
+            ],
+            [
+              "[Camicia a quadri Sweetra senza maniche con laccio laterale](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
+              "Casual, stretta in vita"
+            ],
+            [
+              "[Giacca in finta pelle scamosciata con zip](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
+              "Mezza stagione e viaggi"
+            ]
+          ]
+        }
       },
       {
         "heading": "Top in pizzo SHEIN PariChic con collo alla coreana",
         "bullets": [
-          "Sconto mostrato sulla pagina quando abbiamo controllato: -20%.",
           "Taglie: da XS a XXL, più una linea Tall.",
           "Tessuto: 41% poliammide, 37% cotone e 22% viscosa, non elastico. La pagina prodotto lo indica come semitrasparente."
         ],
@@ -69042,7 +69018,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Top a quadretti vichy SHEIN EZwear con balza all'orlo",
         "bullets": [
-          "Nessuno sconto mostrato sulla pagina quando abbiamo controllato.",
           "Taglie: da XS a XL.",
           "Tessuto: 55% cotone e 45% poliestere, non elastico."
         ],
@@ -69072,7 +69047,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camicia a quadri Sweetra senza maniche con laccio laterale",
         "bullets": [
-          "Sconto mostrato sulla pagina quando abbiamo controllato: -20%.",
           "Taglie: da XXS a XL, più una linea taglie forti.",
           "Tessuto: 72% poliestere, 18% cotone e 10% viscosa, non elastico.",
           "Valutazione del negozio 4,73, con oltre mille recensioni."
@@ -69103,7 +69077,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Giacca in finta pelle scamosciata con zip",
         "bullets": [
-          "Sconto mostrato sulla pagina quando abbiamo controllato: -20%.",
           "Taglie: da XS a L.",
           "Tessuto: finta pelle scamosciata, 100% poliestere, non elastica.",
           "Valutazione del negozio 4,78, con oltre mille recensioni."
@@ -69135,12 +69108,39 @@ export const reviewsData: unknown[] = [
         "heading": "Allenamento, mare e notte",
         "paragraphs": [
           "Un completo sportivo da comporre con due pezzi, un costume intero con il suo copricostume e un pigiama."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Capo",
+            "A cosa serve"
+          ],
+          "rows": [
+            [
+              "[Top sportivo Anewsta con schiena incrociata](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
+              "Allenamento e yoga"
+            ],
+            [
+              "[Leggings senza cuciture Yefecy](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
+              "Allenamento e yoga"
+            ],
+            [
+              "[Costume intero Costavie blu navy e bianco](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
+              "Mare e piscina"
+            ],
+            [
+              "[Copricostume a fiori SHEIN Swim](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
+              "Sopra un costume o un bikini"
+            ],
+            [
+              "[Pigiama con canotta e pantaloncini stampa orsetti](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
+              "Per dormire e stare a casa"
+            ]
+          ]
+        }
       },
       {
         "heading": "Top sportivo Anewsta con schiena incrociata",
         "bullets": [
-          "Nessuno sconto mostrato sulla pagina quando abbiamo controllato.",
           "Taglie: da XS a XXL, più una linea taglie forti.",
           "Tessuto: 90% poliammide e 10% elastan, molto elastico.",
           "Valutazione del negozio 4,88, con oltre mille recensioni."
@@ -69177,14 +69177,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Leggings senza cuciture Yefecy",
         "bullets": [
-          "Sconto mostrato sulla pagina quando abbiamo controllato: -20%.",
           "Taglie: S, M e L.",
           "Tessuto: maglia in 90% poliammide e 10% elastan, molto elastica, senza cuciture.",
           "Valutazione del negozio 4,74, con oltre 500 recensioni."
         ],
         "paragraphs": [
           "Leggings lunghi a compressione, senza cuciture, nel viola che apre il link. Il titolo del negozio dice vita media e i dettagli del prodotto dicono vita alta: guarda le foto sulla pagina per vedere dove cade il cinturino.",
-          "La gamma di taglie è corta, solo tre, e la tabella indica il capo a riposo: 58 cm di vita e 68 cm di fianchi in S, 66 cm e 76 cm in L. Dei leggings tirati troppo diventano trasparenti, quindi se le tue misure superano di molto la L, questo non è il capo adatto."
+          "La gamma ha le taglie S, M e L. La tabella indica il capo a riposo: 58 cm di vita e 68 cm di fianchi in S, 66 cm e 76 cm in L. Questi numeri non sono limiti per le tue misure corporee. Confronta con dei leggings di elasticità simile che già indossi e controlla le indicazioni sulla taglia nella pagina."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-10-legging-yefecy.webp",
@@ -69214,7 +69213,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Costume intero Costavie blu navy e bianco",
         "bullets": [
-          "Sconto mostrato sulla pagina quando abbiamo controllato: -20%.",
           "Taglie: da XS a XL, più una linea taglie forti.",
           "Tessuto: 80% poliammide e 20% elastan, molto elastico, con coppe imbottite.",
           "Valutazione del negozio 4,88, con oltre mille recensioni."
@@ -69251,7 +69249,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Copricostume a fiori SHEIN Swim",
         "bullets": [
-          "Sconto mostrato sulla pagina quando abbiamo controllato: -20%.",
           "Taglie: da XXS a XXL.",
           "Tessuto: maglia in 94% poliestere e 6% elastan, molto elastica. La pagina prodotto la indica come semitrasparente.",
           "Valutazione del negozio 4,93, con oltre 500 recensioni."
@@ -69288,7 +69285,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pigiama con canotta e pantaloncini stampa orsetti",
         "bullets": [
-          "Sconto mostrato sulla pagina quando abbiamo controllato: -20%.",
           "Taglie: da XXS a XXL.",
           "Tessuto: maglia in 95% poliestere e 5% elastan, elasticità media.",
           "Valutazione del negozio 4,85, con oltre mille recensioni."
@@ -69320,12 +69316,27 @@ export const reviewsData: unknown[] = [
         "heading": "Bambini e neonati",
         "paragraphs": [
           "Un coordinato per bambine da 4 a 8 anni e una tutina per neonati. Per entrambi, scegli in base alle misure del bambino e non all'età indicata sulla taglia."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Capo",
+            "A cosa serve"
+          ],
+          "rows": [
+            [
+              "[Coordinato bambina con top a colletto polo e pantaloni ampi](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
+              "Bambine da 4 a 8 anni, mezza stagione"
+            ],
+            [
+              "[Tutina per neonati stile astronauta](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
+              "Neonati da 1 a 12 mesi"
+            ]
+          ]
+        }
       },
       {
         "heading": "Coordinato bambina con top a colletto polo e pantaloni ampi",
         "bullets": [
-          "Nessuno sconto mostrato sulla pagina quando abbiamo controllato.",
           "Taglie: 4, 5, 6, 7 e 8 anni.",
           "Tessuto: maglia in 95% poliestere e 5% elastan, elasticità media.",
           "Valutazione del negozio 4,76, con oltre 500 recensioni."
@@ -69356,14 +69367,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tutina per neonati stile astronauta",
         "bullets": [
-          "Sconto mostrato sulla pagina quando abbiamo controllato: -20%.",
           "Taglie: da 1 a 3 mesi, da 3 a 6, da 6 a 9 e da 9 a 12 mesi.",
           "Tessuto: 96% poliestere e 4% elastan, poco elastico.",
           "La pagina aveva solo 2 recensioni quando abbiamo controllato."
         ],
         "paragraphs": [
           "Una tutina arancione a maniche lunghe con zip, una tasca e toppe da astronauta, a blocchi di colore con il nero. La tabella indica una lunghezza di 50 cm nella taglia da 1 a 3 mesi e di 65 cm in quella da 9 a 12 mesi.",
-          "I neonati crescono in fretta. La stima di consegna compare sulla pagina prima di pagare: sommala all'età del bambino e scegli la taglia in base a quanto sarà alto quando il capo arriverà. Ha poche recensioni, quindi la tabella delle misure è il miglior riferimento che hai."
+          "Tieni conto dei tempi di consegna prima di acquistare: il capo potrebbe arrivare quando il bambino porta già un'altra taglia. L'età indicata sull'etichetta è un riferimento; confronta le misure attuali del bambino con le indicazioni dello shop. Con così poche recensioni, leggi bene la tabella ed evita di scegliere solo in base alla fascia d'età."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-15-macacao-bebe.webp",
@@ -69388,12 +69398,27 @@ export const reviewsData: unknown[] = [
         "heading": "Un accessorio e una decorazione natalizia",
         "paragraphs": [
           "Due piccoli acquisti: un set di anelli e un copriporta natalizio."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Capo",
+            "A cosa serve"
+          ],
+          "rows": [
+            [
+              "[Set di 20 anelli color argento](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
+              "Accessorio quotidiano e piccolo regalo"
+            ],
+            [
+              "[Copriporta natalizio con stampa del camino](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
+              "Decorazione natalizia"
+            ]
+          ]
+        }
       },
       {
         "heading": "Set di 20 anelli color argento",
         "bullets": [
-          "Sconto mostrato sulla pagina quando abbiamo controllato: -20%.",
           "Taglia: unica. La pagina prodotto non indica i diametri degli anelli.",
           "Materiale: lega di zinco, con strass.",
           "Valutazione del negozio 4,87, con oltre mille recensioni."
@@ -69424,14 +69449,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Copriporta natalizio con stampa del camino",
         "bullets": [
-          "Sconto mostrato sulla pagina quando abbiamo controllato: -18%.",
           "Misure: 180 x 90 cm o 200 x 90 cm.",
           "Materiale: 100% poliestere.",
           "La pagina aveva solo 1 recensione quando abbiamo controllato."
         ],
         "paragraphs": [
           "Un telo di stoffa che copre la porta, stampato con un camino decorato e la scritta Merry Christmas. Nella confezione c'è un pezzo. Misura prima la tua porta: ci sono due altezze, 180 e 200 cm, entrambe larghe 90 cm.",
-          "La decorazione natalizia serve solo se arriva prima del 24. La stima di consegna per il tuo indirizzo compare sulla pagina prima di pagare: se la data stimata cade dopo Natale, non comprarla per quest'anno."
+          "Per decorare a Natale, controlla che la consegna stimata cada prima del giorno in cui pensi di montare le decorazioni. Verifica anche le dimensioni della tua porta prima di scegliere la misura del pannello."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-17-faixa-natal-lareira.webp",
@@ -69451,7 +69475,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prezzo, valuta e disponibilità: controlla il tuo shop SHEIN",
         "paragraphs": [
-          "I link di questa guida aprono ogni capo nello shop SHEIN della tua regione. Prezzo, valuta, taglie disponibili e sconto mostrato possono differire da ciò che abbiamo visto quando abbiamo controllato.",
+          "Apri il link e controlla prodotto, colore e taglia nello shop impostato per il tuo paese di consegna. Prezzo, valuta, disponibilità e offerte possono variare da uno shop all'altro.",
           "Prima di pagare, conferma il prezzo nella tua valuta, che la tua taglia sia disponibile e se il capo fa parte della campagna nel tuo shop."
         ]
       },
@@ -69460,7 +69484,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Secondo la politica dei coupon di SHEIN, vale un coupon della piattaforma per ordine. Ogni coupon ha una scadenza, e quello non usato in tempo non è più disponibile.",
           "Il riepilogo dell'ordine mostra quanti punti SHEIN puoi usare e lo sconto corrispondente. Controlla l'importo prima di pagare.",
-          "Il 4CW5Y non è un coupon: è il codice invito SHEIN di Cecília, e dà sconto, sì. Apri SHEIN dal link di Cecília e cerca il 4CW5Y nell'app o sul sito SHEIN: il codice apre una pagina con una selezione di prodotti consigliati, promozioni e sconti. Quanto e su quali capi lo decide SHEIN e varia. Le campagne di SHEIN cambiano in continuazione: controlla quelle in corso nella pagina del negozio qui sul sito prima di chiudere l'ordine.",
+          "Il 4CW5Y non è un coupon: è il codice invito SHEIN di Cecília, e dà sconto, sì. Apri SHEIN dal link di Cecília oppure cerca il 4CW5Y nell'app o sul sito SHEIN: il codice apre una pagina con una selezione di prodotti consigliati, promozioni e sconti. Quanto e su quali capi lo decide SHEIN e varia. Le campagne di SHEIN cambiano in continuazione: controlla quelle in corso nella pagina del negozio qui sul sito prima di chiudere l'ordine.",
           "I sei codici della campagna nella sezione delle scorciatoie, come 24V7643, si scrivono anch'essi nella barra di ricerca, ma aprono le selezioni tematiche di SHEIN. Il 4CW5Y è l'unico che è il codice invito di Cecília."
         ],
         "links": [
@@ -69513,9 +69537,9 @@ export const reviewsData: unknown[] = [
           "Come funziona il Black Friday di SHEIN? Le offerte possono avere date e condizioni diverse. Controlla quali articoli hanno lo sconto annunciato e confronta il prezzo finale nel carrello.",
           "SHEIN ha il Cyber Monday? Il Cyber Monday 2026 cade il 30 novembre. Non abbiamo trovato un annuncio valido per tutti i paesi: guarda la campagna nel negozio del tuo paese.",
           "L'acquisto del Black Friday arriva prima di Natale? Non possiamo garantire una data. Il termine di consegna compare nell'ordine prima di pagare: controlla quel termine a ogni acquisto.",
-          "Il 4CW5Y è un coupon sconto? Non è un coupon, ma dà sconto, sì: è il codice invito SHEIN di Cecília. Apri SHEIN dal link e cerca il codice nell'app o sul sito: il codice apre una selezione con promozioni e sconti; quanto e su quali capi lo decide SHEIN.",
+          "Il 4CW5Y è un coupon sconto? Non è un coupon, ma dà sconto, sì: è il codice invito SHEIN di Cecília. Apri SHEIN dal link oppure cerca il codice nell'app o sul sito: il codice apre una selezione con promozioni e sconti; quanto e su quali capi lo decide SHEIN.",
           "Il 4CW5Y e i codici della campagna SHEIN sono la stessa cosa? No. Il 4CW5Y è il codice invito di Cecília. Codici come 24V7643 e B75N67A sono scorciatoie SHEIN che aprono le selezioni della campagna nella ricerca dell'app. Nessuno dei due va inserito al checkout.",
-          "I capi di questa guida costano uguale in ogni paese? No. Ogni link apre il capo nello shop SHEIN della tua regione, con prezzo, valuta e disponibilità propri. Controlla il prezzo nella pagina prodotto prima di pagare.",
+          "I capi di questa guida costano uguale in ogni paese? No. Prezzo, valuta, scorte e offerte cambiano da uno shop SHEIN all'altro. Apri il link e controlla il capo nello shop impostato per il tuo paese di consegna prima di pagare.",
           "Come scelgo la taglia dei vestiti SHEIN per il Black Friday? Usa la tabella delle misure di ogni capo, in centimetri, e confrontala con le tue misure. Le taglie cambiano da marchio a marchio dentro SHEIN, e il tessuto non elastico richiede più attenzione a seno e vita."
         ]
       }
@@ -69610,114 +69634,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "무엇을 살까: 17개 상품을 표 하나로",
+        "heading": "무엇을 살까: 필요에 따라 묶은 17개 상품",
         "paragraphs": [
-          "이번 캠페인에서 파티, 일상, 운동, 해변, 잠옷, 아이 옷, 액세서리, 크리스마스까지 고루 담도록 고른 17개 상품입니다. 11월 중순에 상품 페이지를 하나씩 열어 확인했으며, 소재, 치수, 평점, 표시된 할인율은 모두 그날 페이지 기준입니다."
+          "이 모음은 파티, 일상, 운동, 해변, 아이 옷, 크리스마스를 위한 17개 상품을 담았습니다. 아래에서 소재, 치수, 코디 아이디어를 비교해 보세요. 소재, 치수, 평점은 11월 중순에 읽은 각 상품 페이지 기준입니다. 구매하기 전에 배송 국가로 설정된 스토어에서 해당 상품의 가격과 혜택을 확인하세요."
         ],
-        "comparisonTable": {
-          "caption": "확인 당시 각 상품 페이지에 표시된 할인율입니다. 가격과 할인율은 캠페인 중에 바뀔 수 있고 색상과 사이즈에 따라 다를 수 있습니다.",
-          "headers": [
-            "상품",
-            "페이지의 할인율",
-            "어디에 입나요"
-          ],
-          "rows": [
-            [
-              "[SHEIN BAE 스파게티 스트랩 원피스](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
-              "-20%",
-              "파티, 저녁 식사, 데이트"
-            ],
-            [
-              "[SHEIN PETITE 홀터넥 미니 원피스](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
-              "-20%",
-              "파티와 데이트, Petite 사이즈"
-            ],
-            [
-              "[Opulessa 플로럴 원피스](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
-              "-20%",
-              "휴가와 더운 날씨"
-            ],
-            [
-              "[브라운 & 화이트 탑과 와이드 팬츠 세트](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
-              "-20%",
-              "캐주얼 출근과 주말"
-            ],
-            [
-              "[SHEIN PariChic 스탠드 칼라 레이스 탑](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
-              "-20%",
-              "단독으로 또는 레이어드"
-            ],
-            [
-              "[SHEIN EZwear 깅엄 체크 러플 단 탑](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
-              "—",
-              "여름 캐주얼, 루즈핏"
-            ],
-            [
-              "[Sweetra 소매 없는 체크 셔츠 사이드 리본](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
-              "-20%",
-              "캐주얼, 허리를 잡아 주는 핏"
-            ],
-            [
-              "[페이크 스웨이드 지퍼 재킷](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
-              "-20%",
-              "간절기와 여행"
-            ],
-            [
-              "[Anewsta 크로스 백 스포츠 브라](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
-              "—",
-              "운동과 요가"
-            ],
-            [
-              "[Yefecy 심리스 레깅스](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
-              "-20%",
-              "운동과 요가"
-            ],
-            [
-              "[Costavie 네이비 & 화이트 원피스 수영복](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
-              "-20%",
-              "해변과 수영장"
-            ],
-            [
-              "[SHEIN Swim 플로럴 커버업](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
-              "-20%",
-              "수영복이나 비키니 위에"
-            ],
-            [
-              "[곰 프린트 캐미솔과 반바지 파자마 세트](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
-              "-20%",
-              "집에서 자거나 쉴 때"
-            ],
-            [
-              "[여아용 폴로 칼라 탑과 와이드 팬츠 세트](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
-              "—",
-              "4~8세 여아, 간절기"
-            ],
-            [
-              "[우주비행사 스타일 아기 롬퍼](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
-              "-20%",
-              "1~12개월 아기"
-            ],
-            [
-              "[실버톤 반지 20개 세트](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
-              "-20%",
-              "일상 액세서리와 작은 선물"
-            ],
-            [
-              "[벽난로 프린트 크리스마스 도어 커버](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
-              "-18%",
-              "크리스마스 장식"
-            ]
-          ]
-        },
         "postParagraphs": [
-          "가격은 일부러 적지 않았습니다. 각 링크는 거주 지역의 SHEIN 스토어에서 해당 상품을 열고, 가격은 현지 통화로 표시됩니다.",
           "사이즈는 알파벳이 아니라 상품별 사이즈표의 센티미터 수치로 고르세요. SHEIN 안에서도 브랜드마다 사이즈가 다릅니다. [SHEIN 사이즈 가이드](/ko/reviews/shein-size-guide-ko)에서 치수 재는 법과 사이즈표 보는 법을 볼 수 있습니다."
         ]
       },
       {
         "heading": "앱에서 검색하는 캠페인 바로가기 6개",
         "paragraphs": [
-          "SHEIN은 개별 상품 외에 캠페인용 테마 모음도 만들었습니다. 모음마다 검색 코드가 있어서, SHEIN 앱 검색창에 코드를 입력하거나 링크로 열면 해당 모음이 나타납니다. 이 코드는 검색 바로가기일 뿐, 결제 단계에 입력하는 것이 아니며 쿠폰도 아닙니다."
+          "SHEIN은 개별 상품 외에 캠페인용 테마 모음도 만들었습니다. 모음마다 검색 코드가 있어서, SHEIN 앱 검색창에 코드를 입력하거나 링크로 열면 해당 모음이 나타납니다. 이 코드는 검색 바로가기일 뿐, 결제 단계에 입력하는 것이 아니며 쿠폰도 아닙니다.",
+          "바로가기는 해당 스토어에서 진행 중인 캠페인에 따라 달라집니다. 바로가기를 눌러도 모음이 열리지 않으면 앱에서 배송 국가 기준으로 표시되는 캠페인을 확인하세요."
         ],
         "comparisonTable": {
           "caption": "각 모음이 담고 있는 상품입니다. 모음에 표시된 할인은 일부 상품에만 적용되며, 장바구니 전체에 적용되지는 않습니다.",
@@ -69770,19 +69699,42 @@ export const reviewsData: unknown[] = [
         "heading": "원피스와 투피스: 파티, 휴가, 일상",
         "paragraphs": [
           "원피스 3벌과 투피스 1벌입니다. 원피스 두 벌은 신축성이 없는 소재라서 가슴둘레와 허리둘레가 사이즈를 좌우합니다."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "상품",
+            "어디에 입나요"
+          ],
+          "rows": [
+            [
+              "[SHEIN BAE 스파게티 스트랩 원피스](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
+              "파티, 저녁 식사, 데이트"
+            ],
+            [
+              "[SHEIN PETITE 홀터넥 미니 원피스](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
+              "파티와 데이트, Petite 사이즈"
+            ],
+            [
+              "[Opulessa 플로럴 원피스](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
+              "휴가와 더운 날씨"
+            ],
+            [
+              "[브라운 & 화이트 탑과 와이드 팬츠 세트](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
+              "캐주얼 출근과 주말"
+            ]
+          ]
+        }
       },
       {
         "heading": "SHEIN BAE 스파게티 스트랩 원피스",
         "bullets": [
-          "확인 당시 페이지에 표시된 할인: -20%.",
           "사이즈: XXS~XXL, Petite 라인도 있음.",
           "소재: 폴리에스터 100%, 안감 없음, 신축성 없음.",
           "스토어 평점 4.82, 리뷰 1,000개 이상."
         ],
         "paragraphs": [
           "풍성한 스커트에 등이 파이고 지퍼가 달린 스파게티 스트랩 원피스로, 링크는 빨간색을 엽니다. 사이즈표는 XXS의 가슴 84cm, 허리 66cm에서 XXL의 114cm, 96cm까지이고, 기장은 122~134cm입니다.",
-          "소재에 신축성이 없어서 가슴과 허리 치수가 내 몸과 맞아야 합니다. 고르기 전에 센티미터 수치로 비교하세요. 다른 파티 스타일은 [SHEIN 파티 드레스 가이드](/ko/reviews/shein-party-dress-guide-ko)를 참고하세요."
+          "소재에 신축성이 없습니다. 이미 편하게 맞는 신축성 없는 드레스의 치수와 이 상품의 치수를 비교하고, 가슴과 허리의 여유분을 눈여겨보세요. 다른 파티 스타일은 [SHEIN 파티 드레스 가이드](/ko/reviews/shein-party-dress-guide-ko)를 참고하세요."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-01-vestido-longo-bae.webp",
@@ -69806,7 +69758,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN PETITE 홀터넥 미니 원피스",
         "bullets": [
-          "확인 당시 페이지에 표시된 할인: -20%.",
           "사이즈: Petite XXS~Petite L.",
           "소재: 폴리에스터 100%, 안감은 폴리에스터 89%와 엘라스탄 11%.",
           "스토어 평점 4.82, 리뷰 1,000개 이상."
@@ -69837,7 +69788,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Opulessa 플로럴 원피스",
         "bullets": [
-          "확인 당시 페이지에 표시된 할인: -20%.",
           "사이즈: XXS~XL.",
           "소재: 폴리에스터 91%와 엘라스탄 9% 니트, 신축성 높음. 상품 페이지에는 반투명으로 표기되어 있음.",
           "스토어 평점 4.87, 리뷰 1,000개 이상."
@@ -69868,7 +69818,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "브라운 & 화이트 탑과 와이드 팬츠 세트",
         "bullets": [
-          "확인 당시 페이지에 표시된 할인: -20%.",
           "사이즈: XS~XL.",
           "소재: 탑은 폴리에스터 95%와 엘라스탄 5% 니트, 팬츠는 폴리에스터 100%, 신축성 없음.",
           "스토어 평점 4.73, 리뷰 1,000개 이상."
@@ -69900,12 +69849,35 @@ export const reviewsData: unknown[] = [
         "heading": "상의와 재킷: 캐주얼, 간절기",
         "paragraphs": [
           "신축성 없는 상의 3벌과 재킷 1벌입니다. 확인한 두 상의는 핏이 정반대로, 하나는 여유 있고 다른 하나는 허리를 잡아 줍니다."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "상품",
+            "어디에 입나요"
+          ],
+          "rows": [
+            [
+              "[SHEIN PariChic 스탠드 칼라 레이스 탑](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
+              "단독으로 또는 레이어드"
+            ],
+            [
+              "[SHEIN EZwear 깅엄 체크 러플 단 탑](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
+              "여름 캐주얼, 루즈핏"
+            ],
+            [
+              "[Sweetra 소매 없는 체크 셔츠 사이드 리본](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
+              "캐주얼, 허리를 잡아 주는 핏"
+            ],
+            [
+              "[페이크 스웨이드 지퍼 재킷](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
+              "간절기와 여행"
+            ]
+          ]
+        }
       },
       {
         "heading": "SHEIN PariChic 스탠드 칼라 레이스 탑",
         "bullets": [
-          "확인 당시 페이지에 표시된 할인: -20%.",
           "사이즈: XS~XXL, Tall 라인도 있음.",
           "소재: 폴리아미드 41%, 면 37%, 비스코스 22%, 신축성 없음. 상품 페이지에는 반투명으로 표기되어 있음."
         ],
@@ -69935,7 +69907,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN EZwear 깅엄 체크 러플 단 탑",
         "bullets": [
-          "확인 당시 페이지에 할인 표시 없음.",
           "사이즈: XS~XL.",
           "소재: 면 55%와 폴리에스터 45%, 신축성 없음."
         ],
@@ -69965,7 +69936,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sweetra 소매 없는 체크 셔츠 사이드 리본",
         "bullets": [
-          "확인 당시 페이지에 표시된 할인: -20%.",
           "사이즈: XXS~XL, 플러스 사이즈 라인도 있음.",
           "소재: 폴리에스터 72%, 면 18%, 비스코스 10%, 신축성 없음.",
           "스토어 평점 4.73, 리뷰 1,000개 이상."
@@ -69996,7 +69966,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "페이크 스웨이드 지퍼 재킷",
         "bullets": [
-          "확인 당시 페이지에 표시된 할인: -20%.",
           "사이즈: XS~L.",
           "소재: 페이크 스웨이드, 폴리에스터 100%, 신축성 없음.",
           "스토어 평점 4.78, 리뷰 1,000개 이상."
@@ -70028,12 +69997,39 @@ export const reviewsData: unknown[] = [
         "heading": "운동, 해변, 잠옷",
         "paragraphs": [
           "두 벌로 맞춰 입는 운동복, 수영복과 커버업, 파자마 세트입니다."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "상품",
+            "어디에 입나요"
+          ],
+          "rows": [
+            [
+              "[Anewsta 크로스 백 스포츠 브라](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
+              "운동과 요가"
+            ],
+            [
+              "[Yefecy 심리스 레깅스](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
+              "운동과 요가"
+            ],
+            [
+              "[Costavie 네이비 & 화이트 원피스 수영복](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
+              "해변과 수영장"
+            ],
+            [
+              "[SHEIN Swim 플로럴 커버업](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
+              "수영복이나 비키니 위에"
+            ],
+            [
+              "[곰 프린트 캐미솔과 반바지 파자마 세트](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
+              "집에서 자거나 쉴 때"
+            ]
+          ]
+        }
       },
       {
         "heading": "Anewsta 크로스 백 스포츠 브라",
         "bullets": [
-          "확인 당시 페이지에 할인 표시 없음.",
           "사이즈: XS~XXL, 플러스 사이즈 라인도 있음.",
           "소재: 폴리아미드 90%와 엘라스탄 10%, 신축성 높음.",
           "스토어 평점 4.88, 리뷰 1,000개 이상."
@@ -70070,14 +70066,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Yefecy 심리스 레깅스",
         "bullets": [
-          "확인 당시 페이지에 표시된 할인: -20%.",
           "사이즈: S, M, L.",
           "소재: 폴리아미드 90%와 엘라스탄 10% 니트, 신축성 높음, 심리스.",
           "스토어 평점 4.74, 리뷰 500개 이상."
         ],
         "paragraphs": [
           "링크가 여는 보라색의 긴 심리스 컴프레션 레깅스입니다. 스토어 제목에는 미드 웨이스트, 상품 상세에는 하이 웨이스트라고 되어 있으니, 페이지 사진에서 허리선이 어디에 오는지 확인하세요.",
-          "사이즈는 S, M, L 세 가지뿐이고, 사이즈표는 늘이지 않은 옷 치수로 S가 허리 58cm, 엉덩이 68cm, L이 66cm, 76cm입니다. 레깅스는 너무 많이 늘어나면 비치기 때문에, 내 치수가 L을 훨씬 넘는다면 이 상품은 맞지 않습니다."
+          "사이즈는 S, M, L이 있습니다. 사이즈표는 늘이지 않은 옷 치수로, S는 허리 58cm, 엉덩이 68cm이고 L은 66cm, 76cm입니다. 이 수치가 내 몸 치수의 한계라는 뜻은 아닙니다. 신축성이 비슷한 레깅스 중 이미 입고 있는 것과 비교하고, 페이지의 사이즈 안내를 확인하세요."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-10-legging-yefecy.webp",
@@ -70107,7 +70102,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Costavie 네이비 & 화이트 원피스 수영복",
         "bullets": [
-          "확인 당시 페이지에 표시된 할인: -20%.",
           "사이즈: XS~XL, 플러스 사이즈 라인도 있음.",
           "소재: 폴리아미드 80%와 엘라스탄 20%, 신축성 높음, 패드 컵 포함.",
           "스토어 평점 4.88, 리뷰 1,000개 이상."
@@ -70144,7 +70138,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN Swim 플로럴 커버업",
         "bullets": [
-          "확인 당시 페이지에 표시된 할인: -20%.",
           "사이즈: XXS~XXL.",
           "소재: 폴리에스터 94%와 엘라스탄 6% 니트, 신축성 높음. 상품 페이지에는 반투명으로 표기되어 있음.",
           "스토어 평점 4.93, 리뷰 500개 이상."
@@ -70181,7 +70174,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "곰 프린트 캐미솔과 반바지 파자마 세트",
         "bullets": [
-          "확인 당시 페이지에 표시된 할인: -20%.",
           "사이즈: XXS~XXL.",
           "소재: 폴리에스터 95%와 엘라스탄 5% 니트, 신축성 보통.",
           "스토어 평점 4.85, 리뷰 1,000개 이상."
@@ -70213,12 +70205,27 @@ export const reviewsData: unknown[] = [
         "heading": "아이와 아기",
         "paragraphs": [
           "4~8세 여아 세트와 아기 롬퍼입니다. 둘 다 사이즈표의 나이가 아니라 아이의 실측 치수로 고르세요."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "상품",
+            "어디에 입나요"
+          ],
+          "rows": [
+            [
+              "[여아용 폴로 칼라 탑과 와이드 팬츠 세트](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
+              "4~8세 여아, 간절기"
+            ],
+            [
+              "[우주비행사 스타일 아기 롬퍼](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
+              "1~12개월 아기"
+            ]
+          ]
+        }
       },
       {
         "heading": "여아용 폴로 칼라 탑과 와이드 팬츠 세트",
         "bullets": [
-          "확인 당시 페이지에 할인 표시 없음.",
           "사이즈: 4, 5, 6, 7, 8세.",
           "소재: 폴리에스터 95%와 엘라스탄 5% 니트, 신축성 보통.",
           "스토어 평점 4.76, 리뷰 500개 이상."
@@ -70249,14 +70256,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "우주비행사 스타일 아기 롬퍼",
         "bullets": [
-          "확인 당시 페이지에 표시된 할인: -20%.",
           "사이즈: 1~3개월, 3~6개월, 6~9개월, 9~12개월.",
           "소재: 폴리에스터 96%와 엘라스탄 4%, 신축성 낮음.",
           "확인 당시 페이지에 리뷰가 2개뿐이었음."
         ],
         "paragraphs": [
           "지퍼와 주머니, 우주비행사 배지가 달린 주황색 긴소매 롬퍼로, 검정과 배색을 이룹니다. 사이즈표의 기장은 1~3개월이 50cm, 9~12개월이 65cm입니다.",
-          "아기는 빨리 자랍니다. 배송 예정일은 결제 전에 페이지에 표시되니, 그만큼을 아기의 월령에 더해서 상품이 도착할 때의 아기 키를 기준으로 사이즈를 고르세요. 리뷰가 적으니 사이즈표가 가장 믿을 만한 기준입니다."
+          "구매하기 전에 배송 기간을 감안하세요. 상품이 도착할 때 아기가 이미 다른 사이즈일 수 있습니다. 라벨의 월령은 참고용이니 아기의 현재 치수를 스토어의 안내와 비교하세요. 리뷰가 적으므로 사이즈표를 꼼꼼히 읽고 월령 구간만 보고 고르지 마세요."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-15-macacao-bebe.webp",
@@ -70281,12 +70287,27 @@ export const reviewsData: unknown[] = [
         "heading": "액세서리와 크리스마스 장식",
         "paragraphs": [
           "작게 살 수 있는 두 가지, 반지 세트와 크리스마스 도어 커버입니다."
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "상품",
+            "어디에 입나요"
+          ],
+          "rows": [
+            [
+              "[실버톤 반지 20개 세트](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
+              "일상 액세서리와 작은 선물"
+            ],
+            [
+              "[벽난로 프린트 크리스마스 도어 커버](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
+              "크리스마스 장식"
+            ]
+          ]
+        }
       },
       {
         "heading": "실버톤 반지 20개 세트",
         "bullets": [
-          "확인 당시 페이지에 표시된 할인: -20%.",
           "사이즈: 프리 사이즈. 상품 페이지에 반지 지름은 적혀 있지 않음.",
           "소재: 징크 합금, 라인스톤 포함.",
           "스토어 평점 4.87, 리뷰 1,000개 이상."
@@ -70317,14 +70338,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "벽난로 프린트 크리스마스 도어 커버",
         "bullets": [
-          "확인 당시 페이지에 표시된 할인: -18%.",
           "치수: 180 x 90cm 또는 200 x 90cm.",
           "소재: 폴리에스터 100%.",
           "확인 당시 페이지에 리뷰가 1개뿐이었음."
         ],
         "paragraphs": [
           "장식된 벽난로와 Merry Christmas 문구가 프린트된, 문을 덮는 천 패널입니다. 한 팩에 한 장이 들어 있습니다. 먼저 문 치수를 재 보세요. 높이는 180cm와 200cm 두 가지이고 폭은 둘 다 90cm입니다.",
-          "크리스마스 장식은 24일 전에 도착해야 쓸모가 있습니다. 내 주소로의 배송 예정일은 결제 전에 페이지에 표시됩니다. 예정일이 크리스마스 이후라면 올해용으로는 사지 마세요."
+          "올해 크리스마스 장식을 하려면 배송 예정일이 장식을 달 계획인 날보다 앞서는지 확인하세요. 패널 크기를 고르기 전에 문의 치수도 함께 재 보세요."
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-17-faixa-natal-lareira.webp",
@@ -70344,7 +70364,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "가격, 통화, 재고: 내 SHEIN 스토어에서 확인하세요",
         "paragraphs": [
-          "이 가이드의 링크는 거주 지역의 SHEIN 스토어에서 각 상품을 엽니다. 가격, 통화, 재고 사이즈, 표시되는 할인은 우리가 확인했을 때와 다를 수 있습니다.",
+          "링크를 열어 배송 국가로 설정된 스토어에서 상품, 색상, 사이즈를 확인하세요. 가격, 통화, 재고, 혜택은 스토어마다 다를 수 있습니다.",
           "결제 전에 내 통화로 된 가격, 내 사이즈의 재고 여부, 그리고 내 스토어에서 이 상품이 캠페인 대상인지 확인하세요."
         ]
       },
@@ -70353,7 +70373,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEIN의 쿠폰 정책에 따르면 플랫폼 쿠폰은 주문당 하나입니다. 쿠폰마다 유효기간이 있으며, 제때 쓰지 않으면 사용할 수 없게 됩니다.",
           "주문 화면에서 사용할 수 있는 SHEIN 포인트와 할인 금액을 확인할 수 있습니다. 결제 전에 금액을 확인하세요.",
-          "4CW5Y는 쿠폰이 아니라 Cecília의 SHEIN 추천 코드이며, 할인이 적용됩니다. Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 4CW5Y를 검색하면 추천 상품과 프로모션, 할인 모음 페이지가 열립니다. 할인 폭과 대상 상품은 SHEIN이 정하며 달라집니다. SHEIN 캠페인은 수시로 바뀝니다. 주문을 확정하기 전에 이 사이트의 SHEIN 페이지에서 현재 진행 중인 캠페인을 확인하세요.",
+          "4CW5Y는 쿠폰이 아니라 Cecília의 SHEIN 추천 코드이며, 할인이 적용됩니다. Cecília의 링크로 SHEIN을 열거나 앱이나 사이트에서 4CW5Y를 검색하면 추천 상품과 프로모션, 할인 모음 페이지가 열립니다. 할인 폭과 대상 상품은 SHEIN이 정하며 달라집니다. SHEIN 캠페인은 수시로 바뀝니다. 주문을 확정하기 전에 이 사이트의 SHEIN 페이지에서 현재 진행 중인 캠페인을 확인하세요.",
           "바로가기 섹션의 캠페인 코드 6개, 예를 들어 24V7643도 검색창에 입력하지만 SHEIN의 테마 모음을 여는 코드입니다. Cecília의 추천 코드는 4CW5Y 하나뿐입니다."
         ],
         "links": [
@@ -70406,9 +70426,9 @@ export const reviewsData: unknown[] = [
           "SHEIN 블랙프라이데이는 어떻게 진행되나요? 혜택마다 기간과 조건이 다를 수 있습니다. 광고의 할인율이 적용되는 상품을 확인하고 장바구니의 최종 가격을 비교하세요.",
           "SHEIN에도 사이버 먼데이가 있나요? 2026년 사이버 먼데이는 11월 30일입니다. 모든 국가에 적용되는 공지는 찾지 못했습니다. 해당 국가 스토어의 캠페인을 확인하세요.",
           "블랙프라이데이 주문은 크리스마스 전에 도착하나요? 날짜를 보장할 수는 없습니다. 배송 기한은 결제 전 주문 화면에 표시되니, 구매할 때마다 그 기한을 확인하세요.",
-          "4CW5Y는 할인 쿠폰인가요? 쿠폰은 아니지만 할인이 적용됩니다. Cecília의 SHEIN 추천 코드로, 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하면 프로모션과 할인 모음이 열립니다. 할인 폭과 대상 상품은 SHEIN이 정합니다.",
+          "4CW5Y는 할인 쿠폰인가요? 쿠폰은 아니지만 할인이 적용됩니다. Cecília의 SHEIN 추천 코드로, 링크로 SHEIN을 열거나 앱이나 사이트에서 코드를 검색하면 프로모션과 할인 모음이 열립니다. 할인 폭과 대상 상품은 SHEIN이 정합니다.",
           "4CW5Y와 SHEIN의 캠페인 코드는 같은 건가요? 아닙니다. 4CW5Y는 Cecília의 추천 코드입니다. 24V7643이나 B75N67A 같은 코드는 앱 검색에서 캠페인 모음을 여는 SHEIN의 바로가기입니다. 어느 것도 결제 단계에 입력하지 않습니다.",
-          "이 가이드의 상품은 모든 국가에서 가격이 같나요? 아닙니다. 각 링크는 거주 지역의 SHEIN 스토어에서 상품을 열며, 가격, 통화, 재고가 각각 다릅니다. 결제 전에 상품 페이지에서 가격을 확인하세요.",
+          "이 가이드의 상품은 모든 국가에서 가격이 같나요? 아닙니다. 가격, 통화, 재고, 혜택은 SHEIN 스토어마다 다릅니다. 결제하기 전에 링크를 열어 배송 국가로 설정된 스토어에서 상품을 확인하세요.",
           "블랙프라이데이에 SHEIN 옷 사이즈는 어떻게 고르나요? 상품별 사이즈표의 센티미터 수치를 내 치수와 비교하세요. SHEIN 안에서도 브랜드마다 사이즈가 다르고, 신축성 없는 소재는 가슴과 허리 치수를 더 꼼꼼히 봐야 합니다."
         ]
       }
@@ -70529,114 +70549,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "何を買う？17点を1つの表で",
+        "heading": "何を買う？17点をニーズ別に",
         "paragraphs": [
-          "パーティー、普段着、ワークアウト、ビーチ、ルームウェア、子ども服、アクセサリー、クリスマスまで幅広く選んだ、今回のキャンペーンの17点です。11月中旬に各商品ページを開いて確認しました。素材、寸法、評価、表示されていた割引は、すべてその日のページに基づいています。"
+          "パーティー、普段着、ワークアウト、ビーチ、子ども服、クリスマスに向けた17点をまとめました。以下で素材、寸法、コーディネートの例を比べてください。素材、寸法、評価は11月中旬に各商品ページで確認した内容です。購入前に、お届け先の国に設定したストアで、その商品の価格とオファーを確認してください。"
         ],
-        "comparisonTable": {
-          "caption": "確認時に各商品ページに表示されていた割引です。価格と割引はキャンペーン中に変わることがあり、色やサイズによっても異なります。",
-          "headers": [
-            "商品",
-            "ページの割引",
-            "こんなときに"
-          ],
-          "rows": [
-            [
-              "[SHEIN BAE スパゲッティストラップのワンピース](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
-              "-20%",
-              "パーティー、ディナー、デート"
-            ],
-            [
-              "[SHEIN PETITE ホルターネックのミニワンピース](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
-              "-20%",
-              "パーティーとデート、Petiteサイズ"
-            ],
-            [
-              "[Opulessa フラワー柄のワンピース](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
-              "-20%",
-              "バカンスと暑い日"
-            ],
-            [
-              "[ブラウン×ホワイトのトップスとワイドパンツのセット](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
-              "-20%",
-              "カジュアルな仕事と週末"
-            ],
-            [
-              "[SHEIN PariChic スタンドカラーのレーストップス](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
-              "-20%",
-              "1枚で、または重ね着で"
-            ],
-            [
-              "[SHEIN EZwear ギンガムチェックのフリルヘムトップス](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
-              "—",
-              "夏のカジュアル、ゆったりフィット"
-            ],
-            [
-              "[Sweetra ノースリーブのチェックシャツ サイドリボン](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
-              "-20%",
-              "カジュアル、ウエストを絞るフィット"
-            ],
-            [
-              "[フェイクスエードのジップジャケット](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
-              "-20%",
-              "季節の変わり目と旅行"
-            ],
-            [
-              "[Anewsta クロスバックのスポーツブラ](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
-              "—",
-              "ワークアウトとヨガ"
-            ],
-            [
-              "[Yefecy シームレスレギンス](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
-              "-20%",
-              "ワークアウトとヨガ"
-            ],
-            [
-              "[Costavie ネイビー×ホワイトのワンピース水着](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
-              "-20%",
-              "ビーチとプール"
-            ],
-            [
-              "[SHEIN Swim フラワー柄のカバーアップ](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
-              "-20%",
-              "水着やビキニの上に"
-            ],
-            [
-              "[クマ柄のキャミソールとショートパンツのパジャマセット](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
-              "-20%",
-              "家で眠るときとくつろぐとき"
-            ],
-            [
-              "[女の子用ポロカラーのトップスとワイドパンツのセット](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
-              "—",
-              "4〜8歳の女の子、季節の変わり目"
-            ],
-            [
-              "[宇宙飛行士風のベビーロンパース](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
-              "-20%",
-              "生後1〜12か月の赤ちゃん"
-            ],
-            [
-              "[シルバー調リング20個セット](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
-              "-20%",
-              "普段使いのアクセサリーと小さなギフト"
-            ],
-            [
-              "[暖炉プリントのクリスマスドアカバー](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
-              "-18%",
-              "クリスマスの飾りつけ"
-            ]
-          ]
-        },
         "postParagraphs": [
-          "価格はあえて載せていません。各リンクはお住まいの地域のSHEINストアで商品を開き、価格は現地の通貨で表示されます。",
           "サイズはアルファベットではなく、各商品のサイズ表のセンチメートルで選んでください。SHEINの中でもブランドごとにサイズが違います。[SHEINのサイズガイド](/ja/reviews/shein-size-guide-ja)で、採寸の方法とサイズ表の読み方がわかります。"
         ]
       },
       {
         "heading": "アプリで検索できるキャンペーンのショートカット6つ",
         "paragraphs": [
-          "SHEINは個別の商品のほかに、キャンペーン用のテーマ別セレクションも用意しました。セレクションごとに検索コードがあり、SHEINアプリの検索バーにコードを入力するか、リンクから開くと、そのセレクションが表示されます。これらのコードは検索のショートカットです。決済時に入力するものではなく、クーポンでもありません。"
+          "SHEINは個別の商品のほかに、キャンペーン用のテーマ別セレクションも用意しました。セレクションごとに検索コードがあり、SHEINアプリの検索バーにコードを入力するか、リンクから開くと、そのセレクションが表示されます。これらのコードは検索のショートカットです。決済時に入力するものではなく、クーポンでもありません。",
+          "ショートカットは、お使いのストアで利用できるキャンペーンによって異なります。開いてもセレクションが表示されない場合は、お届け先の国向けにアプリに表示されているキャンペーンを確認してください。"
         ],
         "comparisonTable": {
           "caption": "各セレクションにまとめられている商品です。各セレクションに表示される割引は一部の商品に適用されるもので、カート全体には適用されません。",
@@ -70689,19 +70614,42 @@ export const reviewsData: unknown[] = [
         "heading": "ワンピースとセットアップ：パーティー、バカンス、普段着",
         "paragraphs": [
           "ワンピース3着とセットアップ1着です。ワンピースのうち2着は伸びない生地なので、バストとウエストの寸法がサイズを決めます。"
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "商品",
+            "こんなときに"
+          ],
+          "rows": [
+            [
+              "[SHEIN BAE スパゲッティストラップのワンピース](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
+              "パーティー、ディナー、デート"
+            ],
+            [
+              "[SHEIN PETITE ホルターネックのミニワンピース](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
+              "パーティーとデート、Petiteサイズ"
+            ],
+            [
+              "[Opulessa フラワー柄のワンピース](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
+              "バカンスと暑い日"
+            ],
+            [
+              "[ブラウン×ホワイトのトップスとワイドパンツのセット](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
+              "カジュアルな仕事と週末"
+            ]
+          ]
+        }
       },
       {
         "heading": "SHEIN BAE スパゲッティストラップのワンピース",
         "bullets": [
-          "確認時にページに表示されていた割引：-20%。",
           "サイズ：XXS〜XXL、Petiteラインもあり。",
           "素材：ポリエステル100%、裏地なし、伸びない。",
           "ストア評価4.82、レビュー1,000件以上。"
         ],
         "paragraphs": [
           "フルスカートで背中が開き、ファスナーがついたスパゲッティストラップのワンピースです。リンクは赤を開きます。サイズ表はXXSのバスト84cm、ウエスト66cmからXXLの114cm、96cmまで、丈は122〜134cmです。",
-          "生地は伸びないので、バストとウエストが自分の寸法に合っている必要があります。選ぶ前にセンチメートルで比べてください。ほかのパーティースタイルは[SHEINパーティードレスガイド](/ja/reviews/shein-party-dress-guide-ja)をご覧ください。"
+          "生地は伸びません。すでにぴったり着られる伸縮のないドレスと、この商品の寸法を比べてください。特にバストとウエストのゆとりに注意してください。ほかのパーティースタイルは[SHEINパーティードレスガイド](/ja/reviews/shein-party-dress-guide-ja)をご覧ください。"
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-01-vestido-longo-bae.webp",
@@ -70725,7 +70673,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN PETITE ホルターネックのミニワンピース",
         "bullets": [
-          "確認時にページに表示されていた割引：-20%。",
           "サイズ：Petite XXS〜Petite L。",
           "素材：ポリエステル100%、裏地はポリエステル89%とエラスタン11%。",
           "ストア評価4.82、レビュー1,000件以上。"
@@ -70756,7 +70703,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Opulessa フラワー柄のワンピース",
         "bullets": [
-          "確認時にページに表示されていた割引：-20%。",
           "サイズ：XXS〜XL。",
           "素材：ポリエステル91%とエラスタン9%のニット、よく伸びる。商品ページでは半透明と記載。",
           "ストア評価4.87、レビュー1,000件以上。"
@@ -70787,7 +70733,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "ブラウン×ホワイトのトップスとワイドパンツのセット",
         "bullets": [
-          "確認時にページに表示されていた割引：-20%。",
           "サイズ：XS〜XL。",
           "素材：トップスはポリエステル95%とエラスタン5%のニット、パンツはポリエステル100%で伸びない。",
           "ストア評価4.73、レビュー1,000件以上。"
@@ -70819,12 +70764,35 @@ export const reviewsData: unknown[] = [
         "heading": "トップスとジャケット：カジュアル、季節の変わり目",
         "paragraphs": [
           "伸びないトップス3点とジャケット1着です。確認した2つのトップスはフィットが正反対で、1つはゆったり、もう1つはウエストを絞るタイプです。"
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "商品",
+            "こんなときに"
+          ],
+          "rows": [
+            [
+              "[SHEIN PariChic スタンドカラーのレーストップス](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
+              "1枚で、または重ね着で"
+            ],
+            [
+              "[SHEIN EZwear ギンガムチェックのフリルヘムトップス](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
+              "夏のカジュアル、ゆったりフィット"
+            ],
+            [
+              "[Sweetra ノースリーブのチェックシャツ サイドリボン](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
+              "カジュアル、ウエストを絞るフィット"
+            ],
+            [
+              "[フェイクスエードのジップジャケット](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
+              "季節の変わり目と旅行"
+            ]
+          ]
+        }
       },
       {
         "heading": "SHEIN PariChic スタンドカラーのレーストップス",
         "bullets": [
-          "確認時にページに表示されていた割引：-20%。",
           "サイズ：XS〜XXL、Tallラインもあり。",
           "素材：ポリアミド41%、綿37%、ビスコース22%、伸びない。商品ページでは半透明と記載。"
         ],
@@ -70854,7 +70822,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN EZwear ギンガムチェックのフリルヘムトップス",
         "bullets": [
-          "確認時にページに割引の表示なし。",
           "サイズ：XS〜XL。",
           "素材：綿55%とポリエステル45%、伸びない。"
         ],
@@ -70884,7 +70851,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sweetra ノースリーブのチェックシャツ サイドリボン",
         "bullets": [
-          "確認時にページに表示されていた割引：-20%。",
           "サイズ：XXS〜XL、プラスサイズラインもあり。",
           "素材：ポリエステル72%、綿18%、ビスコース10%、伸びない。",
           "ストア評価4.73、レビュー1,000件以上。"
@@ -70915,7 +70881,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "フェイクスエードのジップジャケット",
         "bullets": [
-          "確認時にページに表示されていた割引：-20%。",
           "サイズ：XS〜L。",
           "素材：フェイクスエード、ポリエステル100%、伸びない。",
           "ストア評価4.78、レビュー1,000件以上。"
@@ -70947,12 +70912,39 @@ export const reviewsData: unknown[] = [
         "heading": "ワークアウト、ビーチ、ルームウェア",
         "paragraphs": [
           "2点で組み合わせるワークアウトウェア、水着とそのカバーアップ、パジャマセットです。"
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "商品",
+            "こんなときに"
+          ],
+          "rows": [
+            [
+              "[Anewsta クロスバックのスポーツブラ](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
+              "ワークアウトとヨガ"
+            ],
+            [
+              "[Yefecy シームレスレギンス](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
+              "ワークアウトとヨガ"
+            ],
+            [
+              "[Costavie ネイビー×ホワイトのワンピース水着](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
+              "ビーチとプール"
+            ],
+            [
+              "[SHEIN Swim フラワー柄のカバーアップ](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
+              "水着やビキニの上に"
+            ],
+            [
+              "[クマ柄のキャミソールとショートパンツのパジャマセット](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
+              "家で眠るときとくつろぐとき"
+            ]
+          ]
+        }
       },
       {
         "heading": "Anewsta クロスバックのスポーツブラ",
         "bullets": [
-          "確認時にページに割引の表示なし。",
           "サイズ：XS〜XXL、プラスサイズラインもあり。",
           "素材：ポリアミド90%とエラスタン10%、よく伸びる。",
           "ストア評価4.88、レビュー1,000件以上。"
@@ -70989,14 +70981,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Yefecy シームレスレギンス",
         "bullets": [
-          "確認時にページに表示されていた割引：-20%。",
           "サイズ：S、M、L。",
           "素材：ポリアミド90%とエラスタン10%のニット、よく伸びる、シームレス。",
           "ストア評価4.74、レビュー500件以上。"
         ],
         "paragraphs": [
           "リンクが開くのは紫の、丈の長いシームレスのコンプレッションレギンスです。ストアのタイトルはミドルウエスト、商品詳細はハイウエストと書かれているので、ページの写真でウエストバンドの位置を確認してください。",
-          "サイズ展開は少なく3サイズだけで、サイズ表は伸ばしていない状態の寸法です。Sがウエスト58cm、ヒップ68cm、Lが66cm、76cm。レギンスは伸ばしすぎると透けるので、自分の寸法がLを大きく超える場合はこの商品ではありません。"
+          "サイズはS、M、Lの3つです。サイズ表は伸ばしていない状態の寸法で、Sがウエスト58cm、ヒップ68cm、Lが66cm、76cmです。この数値はお体の寸法の上限ではありません。普段はいている同じくらいの伸縮性のあるレギンスと比べて、ページのサイズの案内も確認してください。"
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-10-legging-yefecy.webp",
@@ -71026,7 +71017,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Costavie ネイビー×ホワイトのワンピース水着",
         "bullets": [
-          "確認時にページに表示されていた割引：-20%。",
           "サイズ：XS〜XL、プラスサイズラインもあり。",
           "素材：ポリアミド80%とエラスタン20%、よく伸びる、パッド入りカップ。",
           "ストア評価4.88、レビュー1,000件以上。"
@@ -71063,7 +71053,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN Swim フラワー柄のカバーアップ",
         "bullets": [
-          "確認時にページに表示されていた割引：-20%。",
           "サイズ：XXS〜XXL。",
           "素材：ポリエステル94%とエラスタン6%のニット、よく伸びる。商品ページでは半透明と記載。",
           "ストア評価4.93、レビュー500件以上。"
@@ -71100,7 +71089,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クマ柄のキャミソールとショートパンツのパジャマセット",
         "bullets": [
-          "確認時にページに表示されていた割引：-20%。",
           "サイズ：XXS〜XXL。",
           "素材：ポリエステル95%とエラスタン5%のニット、ほどよく伸びる。",
           "ストア評価4.85、レビュー1,000件以上。"
@@ -71132,12 +71120,27 @@ export const reviewsData: unknown[] = [
         "heading": "子どもとベビー",
         "paragraphs": [
           "4〜8歳の女の子向けセットとベビーロンパースです。どちらも、サイズ表の年齢ではなく子どもの実寸で選んでください。"
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "商品",
+            "こんなときに"
+          ],
+          "rows": [
+            [
+              "[女の子用ポロカラーのトップスとワイドパンツのセット](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
+              "4〜8歳の女の子、季節の変わり目"
+            ],
+            [
+              "[宇宙飛行士風のベビーロンパース](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
+              "生後1〜12か月の赤ちゃん"
+            ]
+          ]
+        }
       },
       {
         "heading": "女の子用ポロカラーのトップスとワイドパンツのセット",
         "bullets": [
-          "確認時にページに割引の表示なし。",
           "サイズ：4、5、6、7、8歳。",
           "素材：ポリエステル95%とエラスタン5%のニット、ほどよく伸びる。",
           "ストア評価4.76、レビュー500件以上。"
@@ -71168,14 +71171,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "宇宙飛行士風のベビーロンパース",
         "bullets": [
-          "確認時にページに表示されていた割引：-20%。",
           "サイズ：1〜3か月、3〜6か月、6〜9か月、9〜12か月。",
           "素材：ポリエステル96%とエラスタン4%、あまり伸びない。",
           "確認時、ページのレビューは2件だけ。"
         ],
         "paragraphs": [
           "ファスナーとポケット、宇宙飛行士のワッペンがついたオレンジの長袖ロンパースで、黒との配色です。サイズ表の丈は、1〜3か月サイズが50cm、9〜12か月サイズが65cmです。",
-          "赤ちゃんはすぐ大きくなります。お届け予定は支払う前にページに表示されるので、その分を赤ちゃんの月齢に足して、商品が届くころの赤ちゃんの大きさでサイズを選んでください。レビューが少ないので、サイズ表が最も頼れる目安です。"
+          "購入前にお届けまでの日数を考えてください。届くころには、赤ちゃんがもう次のサイズになっているかもしれません。ラベルの月齢は目安です。赤ちゃんの今の寸法と、ストアの案内を比べてください。レビューがまだ少ないので、サイズ表をよく読み、月齢だけで選ばないようにしてください。"
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-15-macacao-bebe.webp",
@@ -71200,12 +71202,27 @@ export const reviewsData: unknown[] = [
         "heading": "アクセサリーとクリスマス飾り",
         "paragraphs": [
           "気軽に買える2点、リングセットとクリスマスのドアカバーです。"
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "商品",
+            "こんなときに"
+          ],
+          "rows": [
+            [
+              "[シルバー調リング20個セット](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
+              "普段使いのアクセサリーと小さなギフト"
+            ],
+            [
+              "[暖炉プリントのクリスマスドアカバー](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
+              "クリスマスの飾りつけ"
+            ]
+          ]
+        }
       },
       {
         "heading": "シルバー調リング20個セット",
         "bullets": [
-          "確認時にページに表示されていた割引：-20%。",
           "サイズ：フリーサイズ。商品ページにはリングの直径の記載なし。",
           "素材：亜鉛合金、ラインストーン付き。",
           "ストア評価4.87、レビュー1,000件以上。"
@@ -71236,14 +71253,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "暖炉プリントのクリスマスドアカバー",
         "bullets": [
-          "確認時にページに表示されていた割引：-18%。",
           "寸法：180 x 90cm または 200 x 90cm。",
           "素材：ポリエステル100%。",
           "確認時、ページのレビューは1件だけ。"
         ],
         "paragraphs": [
           "飾られた暖炉とMerry Christmasの文字がプリントされた、ドアを覆う布のパネルです。1パックに1枚入っています。まずドアの寸法を測ってください。高さは180cmと200cmの2種類で、幅はどちらも90cmです。",
-          "クリスマスの飾りは、24日までに届かないと意味がありません。ご自宅へのお届け予定は支払う前にページに表示されます。予定日がクリスマスの後なら、今年用には買わないでください。"
+          "今年のクリスマスに飾るなら、お届け予定日が飾り付けをする予定の日より前かどうかを確認してください。パネルのサイズを選ぶ前に、ドアの寸法も確認してください。"
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-17-faixa-natal-lareira.webp",
@@ -71263,7 +71279,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "価格、通貨、在庫：お住まいのSHEINストアで確認を",
         "paragraphs": [
-          "このガイドのリンクは、お住まいの地域のSHEINストアで各商品を開きます。価格、通貨、在庫のあるサイズ、表示される割引は、私たちが確認したときと異なる場合があります。",
+          "リンクを開き、お届け先の国に設定したストアで、商品、色、サイズを確認してください。価格、通貨、在庫、オファーはストアによって異なる場合があります。",
           "支払う前に、自分の通貨での価格、自分のサイズの在庫、そしてお使いのストアでその商品がキャンペーン対象かどうかを確認してください。"
         ]
       },
@@ -71272,7 +71288,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEINのクーポン規定では、プラットフォームのクーポンは1注文につき1枚です。クーポンにはそれぞれ有効期限があり、期限内に使わなかったものは使えなくなります。",
           "注文画面で、使えるSHEINポイント数と割引額を確認できます。支払う前に金額を確かめてください。",
-          "4CW5YはクーポンではなくCecíliaのSHEIN紹介コードですが、割引になります。CecíliaのリンクからSHEINを開き、アプリかサイトで4CW5Yを検索すると、おすすめ商品とセール・割引の特集ページが開きます。割引率や対象商品はSHEINが決めるため変わります。SHEINのキャンペーンは頻繁に変わります。注文を確定する前に、このサイトのストアページで現在のキャンペーンを確認してください。",
+          "4CW5YはクーポンではなくCecíliaのSHEIN紹介コードですが、割引になります。Cecíliaのリンクを開くか、アプリやサイトで4CW5Yを検索すると、おすすめ商品とセール・割引の特集ページが開きます。割引率や対象商品はSHEINが決めるため変わります。SHEINのキャンペーンは頻繁に変わります。注文を確定する前に、このサイトのストアページで現在のキャンペーンを確認してください。",
           "ショートカットのセクションにあるキャンペーンの6つのコード、たとえば24V7643も検索バーに入力しますが、SHEINのテーマ別セレクションを開くものです。Cecíliaの紹介コードは4CW5Yだけです。"
         ],
         "links": [
@@ -71325,9 +71341,9 @@ export const reviewsData: unknown[] = [
           "SHEINのブラックフライデーはどんな仕組みですか？オファーごとに期間や条件が異なる場合があります。広告の割引率が適用される商品を確認し、カートの最終価格を比べてください。",
           "SHEINにサイバーマンデーはありますか？2026年のサイバーマンデーは11月30日です。日本での告知は見つかっていません。お住まいの国のSHEINサイトでキャンペーンを確認してください。",
           "ブラックフライデーの注文がいつ届くか、クリスマスに間に合いますか？日付は保証できません。お届け予定は支払う前に注文画面に表示されるので、購入のたびに確認してください。",
-          "4CW5Yは割引クーポンですか？クーポンではありませんが、割引になります。CecíliaのSHEIN紹介コードです。リンクからSHEINを開き、アプリかサイトでコードを検索すると、セールと割引の特集が開きます。割引率や対象商品はSHEINが決めます。",
+          "4CW5Yは割引クーポンですか？クーポンではありませんが、割引になります。CecíliaのSHEIN紹介コードです。リンクを開くか、アプリやサイトでコードを検索すると、セールと割引の特集が開きます。割引率や対象商品はSHEINが決めます。",
           "4CW5YとSHEINのキャンペーンコードは同じものですか？いいえ。4CW5YはCecíliaの紹介コードです。24V7643やB75N67Aのようなコードは、アプリの検索でキャンペーンのセレクションを開くSHEINのショートカットです。どれも決済時に入力するものではありません。",
-          "このガイドの商品は、どの国でも同じ価格ですか？いいえ。各リンクはお住まいの地域のSHEINストアで商品を開き、価格、通貨、在庫はそれぞれ異なります。支払う前に商品ページで価格を確認してください。",
+          "このガイドの商品は、どの国でも同じ価格ですか？いいえ。価格、通貨、在庫、オファーはSHEINのストアによって異なります。リンクを開き、お支払いの前に、お届け先の国に設定したストアで商品を確認してください。",
           "ブラックフライデーにSHEINの服のサイズはどう選べばいいですか？各商品のサイズ表のセンチメートルの寸法を、自分の寸法と比べてください。SHEINの中でもブランドごとにサイズが違い、伸びない生地ではバストとウエストにより注意が必要です。"
         ]
       }
@@ -71422,114 +71438,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "買什麼：17 件單品一次看",
+        "heading": "買什麼：17 件單品，依需求分類",
         "paragraphs": [
-          "這 17 件是活動中挑出的單品，涵蓋派對、日常穿搭、運動、海邊、睡衣、童裝、配件和聖誕佈置。我們在 11 月中旬逐一打開商品頁：布料、尺寸、評分和顯示的折扣都以當天頁面為準。"
+          "這份精選整理了 17 件單品，涵蓋派對、日常穿搭、運動、海邊、童裝和聖誕佈置。下面可以對照布料、尺寸和搭配靈感；布料、尺寸和評分都來自各商品頁，是 11 月中旬查看的結果。購買前，請在你的收件國家對應的商店確認這件單品的價格和優惠。"
         ],
-        "comparisonTable": {
-          "caption": "折扣為我們查看時各商品頁顯示的數字。活動期間價格和折扣會變動，也可能因顏色和尺碼而異。",
-          "headers": [
-            "單品",
-            "頁面顯示的折扣",
-            "適合用在"
-          ],
-          "rows": [
-            [
-              "[SHEIN BAE 細肩帶洋裝](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
-              "-20%",
-              "派對、晚餐與約會"
-            ],
-            [
-              "[SHEIN PETITE 掛頸短洋裝](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
-              "-20%",
-              "派對與約會，Petite 尺碼"
-            ],
-            [
-              "[Opulessa 碎花洋裝](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
-              "-20%",
-              "度假與炎熱天氣"
-            ],
-            [
-              "[棕白上衣與寬褲兩件套](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
-              "-20%",
-              "休閒上班與週末"
-            ],
-            [
-              "[SHEIN PariChic 立領蕾絲上衣](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
-              "-20%",
-              "單穿或疊穿"
-            ],
-            [
-              "[SHEIN EZwear 格紋荷葉下襬上衣](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
-              "—",
-              "夏日休閒，寬鬆版型"
-            ],
-            [
-              "[Sweetra 無袖格紋側繫帶襯衫](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
-              "-20%",
-              "休閒，腰間收緊"
-            ],
-            [
-              "[人造麂皮拉鍊外套](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
-              "-20%",
-              "換季與旅行"
-            ],
-            [
-              "[Anewsta 交叉美背運動內衣](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
-              "—",
-              "運動與瑜伽"
-            ],
-            [
-              "[Yefecy 無縫緊身褲](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
-              "-20%",
-              "運動與瑜伽"
-            ],
-            [
-              "[Costavie 藏青白邊連身泳衣](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
-              "-20%",
-              "海邊與泳池"
-            ],
-            [
-              "[SHEIN Swim 印花沙灘罩衫](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
-              "-20%",
-              "穿在泳衣或比基尼外面"
-            ],
-            [
-              "[小熊印花細肩帶背心短褲睡衣組](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
-              "-20%",
-              "睡覺與居家休閒"
-            ],
-            [
-              "[女童 Polo 領上衣與寬褲套裝](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
-              "—",
-              "4 至 8 歲女童，換季"
-            ],
-            [
-              "[太空人造型嬰兒連身衣](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
-              "-20%",
-              "1 至 12 個月的嬰兒"
-            ],
-            [
-              "[20 枚銀色戒指組](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
-              "-20%",
-              "日常配件與小禮物"
-            ],
-            [
-              "[壁爐印花聖誕門簾](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
-              "-18%",
-              "聖誕佈置"
-            ]
-          ]
-        },
         "postParagraphs": [
-          "我們刻意不列價格：每個連結都會在你所在地區的 SHEIN 商店開啟該商品，並以你的貨幣顯示價格。",
           "請依每件商品的尺寸表（以公分計）選尺碼，不要只看字母：SHEIN 內不同品牌的尺碼差異很大。[SHEIN 尺寸指南](/zh-hant/reviews/shein-size-guide-zh-hant)會教你怎麼量身體、怎麼看尺寸表。"
         ]
       },
       {
         "heading": "六個活動捷徑，在 App 裡搜尋",
         "paragraphs": [
-          "除了單品，SHEIN 也為這次活動做了幾個主題精選。每個精選都有一組搜尋碼：在 SHEIN App 的搜尋欄輸入該碼，或透過連結開啟，就會看到該精選。這些碼只是搜尋捷徑：不在結帳時輸入，也不是優惠券。"
+          "除了單品，SHEIN 也為這次活動做了幾個主題精選。每個精選都有一組搜尋碼：在 SHEIN App 的搜尋欄輸入該碼，或透過連結開啟，就會看到該精選。這些碼只是搜尋捷徑：不在結帳時輸入，也不是優惠券。",
+          "這些捷徑取決於你所在商店目前有哪些活動。如果某個捷徑沒有開啟對應的精選，請查看 App 中顯示給你收件國家的活動。"
         ],
         "comparisonTable": {
           "caption": "每個精選收錄的內容。各精選顯示的折扣只適用於其中部分商品，不是整個購物車。",
@@ -71582,19 +71503,42 @@ export const reviewsData: unknown[] = [
         "heading": "洋裝與一套兩件式：派對、度假與日常",
         "paragraphs": [
           "三件洋裝和一套兩件式。其中兩件洋裝的布料沒有彈性，這類款式要以胸圍和腰圍來決定尺碼。"
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "單品",
+            "適合用在"
+          ],
+          "rows": [
+            [
+              "[SHEIN BAE 細肩帶洋裝](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
+              "派對、晚餐與約會"
+            ],
+            [
+              "[SHEIN PETITE 掛頸短洋裝](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
+              "派對與約會，Petite 尺碼"
+            ],
+            [
+              "[Opulessa 碎花洋裝](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
+              "度假與炎熱天氣"
+            ],
+            [
+              "[棕白上衣與寬褲兩件套](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
+              "休閒上班與週末"
+            ]
+          ]
+        }
       },
       {
         "heading": "SHEIN BAE 細肩帶洋裝",
         "bullets": [
-          "我們查看時頁面顯示的折扣：-20%。",
           "尺碼：XXS 至 XXL，另有 Petite 系列。",
           "布料：100% 聚酯纖維，無襯裡、無彈性。",
           "商店評分 4.82，評價超過一千則。"
         ],
         "paragraphs": [
           "細肩帶、寬襬、露背加拉鍊的洋裝，連結開啟的是紅色款。尺寸表從 XXS 的胸圍 84 公分、腰圍 66 公分，到 XXL 的 114 公分和 96 公分，衣長 122 至 134 公分。",
-          "布料沒有彈性，所以胸圍和腰圍要和你的身體尺寸相符：選之前請先用公分對照。想看其他派對款式，可以參考 [SHEIN 派對洋裝指南](/zh-hant/reviews/shein-party-dress-guide-zh-hant)。"
+          "布料沒有彈性。請把衣服的尺寸和一件你已經穿得舒服、同樣沒有彈性的洋裝比較，特別留意胸圍和腰圍的鬆份。想看其他派對款式，可以參考 [SHEIN 派對洋裝指南](/zh-hant/reviews/shein-party-dress-guide-zh-hant)。"
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-01-vestido-longo-bae.webp",
@@ -71618,7 +71562,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN PETITE 掛頸短洋裝",
         "bullets": [
-          "我們查看時頁面顯示的折扣：-20%。",
           "尺碼：Petite XXS 至 Petite L。",
           "布料：100% 聚酯纖維，襯裡為 89% 聚酯纖維和 11% 彈性纖維。",
           "商店評分 4.82，評價超過一千則。"
@@ -71649,7 +71592,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Opulessa 碎花洋裝",
         "bullets": [
-          "我們查看時頁面顯示的折扣：-20%。",
           "尺碼：XXS 至 XL。",
           "布料：91% 聚酯纖維和 9% 彈性纖維的針織，彈性高。商品頁標示為半透明。",
           "商店評分 4.87，評價超過一千則。"
@@ -71680,7 +71622,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "棕白上衣與寬褲兩件套",
         "bullets": [
-          "我們查看時頁面顯示的折扣：-20%。",
           "尺碼：XS 至 XL。",
           "布料：上衣為 95% 聚酯纖維和 5% 彈性纖維的針織；褲子為 100% 聚酯纖維，無彈性。",
           "商店評分 4.73，評價超過一千則。"
@@ -71712,12 +71653,35 @@ export const reviewsData: unknown[] = [
         "heading": "上衣與外套：休閒與換季",
         "paragraphs": [
           "三件無彈性上衣和一件外套。查看過的兩件上衣版型正好相反：一件寬鬆，另一件在腰間收緊。"
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "單品",
+            "適合用在"
+          ],
+          "rows": [
+            [
+              "[SHEIN PariChic 立領蕾絲上衣](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
+              "單穿或疊穿"
+            ],
+            [
+              "[SHEIN EZwear 格紋荷葉下襬上衣](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
+              "夏日休閒，寬鬆版型"
+            ],
+            [
+              "[Sweetra 無袖格紋側繫帶襯衫](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
+              "休閒，腰間收緊"
+            ],
+            [
+              "[人造麂皮拉鍊外套](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
+              "換季與旅行"
+            ]
+          ]
+        }
       },
       {
         "heading": "SHEIN PariChic 立領蕾絲上衣",
         "bullets": [
-          "我們查看時頁面顯示的折扣：-20%。",
           "尺碼：XS 至 XXL，另有 Tall 系列。",
           "布料：41% 聚醯胺纖維、37% 棉和 22% 黏膠纖維，無彈性。商品頁標示為半透明。"
         ],
@@ -71747,7 +71711,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN EZwear 格紋荷葉下襬上衣",
         "bullets": [
-          "我們查看時頁面沒有顯示折扣。",
           "尺碼：XS 至 XL。",
           "布料：55% 棉和 45% 聚酯纖維，無彈性。"
         ],
@@ -71777,7 +71740,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sweetra 無袖格紋側繫帶襯衫",
         "bullets": [
-          "我們查看時頁面顯示的折扣：-20%。",
           "尺碼：XXS 至 XL，另有大尺碼系列。",
           "布料：72% 聚酯纖維、18% 棉和 10% 黏膠纖維，無彈性。",
           "商店評分 4.73，評價超過一千則。"
@@ -71808,7 +71770,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "人造麂皮拉鍊外套",
         "bullets": [
-          "我們查看時頁面顯示的折扣：-20%。",
           "尺碼：XS 至 L。",
           "布料：人造麂皮，100% 聚酯纖維，無彈性。",
           "商店評分 4.78，評價超過一千則。"
@@ -71840,12 +71801,39 @@ export const reviewsData: unknown[] = [
         "heading": "運動、海邊與睡衣",
         "paragraphs": [
           "一套由兩件組成的運動穿搭、一件泳衣加罩衫，以及一套睡衣。"
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "單品",
+            "適合用在"
+          ],
+          "rows": [
+            [
+              "[Anewsta 交叉美背運動內衣](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
+              "運動與瑜伽"
+            ],
+            [
+              "[Yefecy 無縫緊身褲](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
+              "運動與瑜伽"
+            ],
+            [
+              "[Costavie 藏青白邊連身泳衣](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
+              "海邊與泳池"
+            ],
+            [
+              "[SHEIN Swim 印花沙灘罩衫](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
+              "穿在泳衣或比基尼外面"
+            ],
+            [
+              "[小熊印花細肩帶背心短褲睡衣組](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
+              "睡覺與居家休閒"
+            ]
+          ]
+        }
       },
       {
         "heading": "Anewsta 交叉美背運動內衣",
         "bullets": [
-          "我們查看時頁面沒有顯示折扣。",
           "尺碼：XS 至 XXL，另有大尺碼系列。",
           "布料：90% 聚醯胺纖維和 10% 彈性纖維，彈性高。",
           "商店評分 4.88，評價超過一千則。"
@@ -71882,14 +71870,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Yefecy 無縫緊身褲",
         "bullets": [
-          "我們查看時頁面顯示的折扣：-20%。",
           "尺碼：S、M 和 L。",
           "布料：90% 聚醯胺纖維和 10% 彈性纖維的針織，彈性高，無縫。",
           "商店評分 4.74，評價超過 500 則。"
         ],
         "paragraphs": [
           "無縫塑形長版緊身褲，連結開啟的是紫色款。商店標題寫的是中腰，商品細節寫的是高腰：請看頁面上的照片，確認褲頭落在哪個位置。",
-          "尺碼範圍很短，只有三個，而且尺寸表給的是未拉伸的衣服尺寸：S 腰圍 58 公分、臀圍 68 公分，L 為 66 公分和 76 公分。緊身褲拉得太開會變透明，所以如果你的尺寸遠超過 L，這件就不適合。"
+          "尺碼有 S、M 和 L。尺寸表給的是未拉伸的衣服尺寸：S 腰圍 58 公分、臀圍 68 公分，L 為 66 公分和 76 公分。這些數字不是你身體尺寸的上限。請和你已經在穿、彈性相近的緊身褲比較，並查看頁面上的尺碼建議。"
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-10-legging-yefecy.webp",
@@ -71919,7 +71906,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Costavie 藏青白邊連身泳衣",
         "bullets": [
-          "我們查看時頁面顯示的折扣：-20%。",
           "尺碼：XS 至 XL，另有大尺碼系列。",
           "布料：80% 聚醯胺纖維和 20% 彈性纖維，彈性高，附襯墊罩杯。",
           "商店評分 4.88，評價超過一千則。"
@@ -71956,7 +71942,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN Swim 印花沙灘罩衫",
         "bullets": [
-          "我們查看時頁面顯示的折扣：-20%。",
           "尺碼：XXS 至 XXL。",
           "布料：94% 聚酯纖維和 6% 彈性纖維的針織，彈性高。商品頁標示為半透明。",
           "商店評分 4.93，評價超過 500 則。"
@@ -71993,7 +71978,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "小熊印花細肩帶背心短褲睡衣組",
         "bullets": [
-          "我們查看時頁面顯示的折扣：-20%。",
           "尺碼：XXS 至 XXL。",
           "布料：95% 聚酯纖維和 5% 彈性纖維的針織，中等彈性。",
           "商店評分 4.85，評價超過一千則。"
@@ -72025,12 +72009,27 @@ export const reviewsData: unknown[] = [
         "heading": "童裝與嬰兒",
         "paragraphs": [
           "一套 4 至 8 歲女童套裝和一件嬰兒連身衣。兩件都請依孩子的身體尺寸選，不要只看尺碼上的年齡。"
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "單品",
+            "適合用在"
+          ],
+          "rows": [
+            [
+              "[女童 Polo 領上衣與寬褲套裝](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
+              "4 至 8 歲女童，換季"
+            ],
+            [
+              "[太空人造型嬰兒連身衣](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
+              "1 至 12 個月的嬰兒"
+            ]
+          ]
+        }
       },
       {
         "heading": "女童 Polo 領上衣與寬褲套裝",
         "bullets": [
-          "我們查看時頁面沒有顯示折扣。",
           "尺碼：4、5、6、7 和 8 歲。",
           "布料：95% 聚酯纖維和 5% 彈性纖維的針織，中等彈性。",
           "商店評分 4.76，評價超過 500 則。"
@@ -72061,14 +72060,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "太空人造型嬰兒連身衣",
         "bullets": [
-          "我們查看時頁面顯示的折扣：-20%。",
           "尺碼：1 至 3 個月、3 至 6 個月、6 至 9 個月和 9 至 12 個月。",
           "布料：96% 聚酯纖維和 4% 彈性纖維，彈性低。",
           "我們查看時頁面只有 2 則評價。"
         ],
         "paragraphs": [
           "橘色長袖連身衣，有拉鍊和口袋，貼有太空人徽章，並與黑色拼色。尺寸表上，1 至 3 個月的尺碼衣長 50 公分，9 至 12 個月的尺碼為 65 公分。",
-          "寶寶長得很快。預計送達時間會在付款前顯示在頁面上：把它加到寶寶的月齡上，再依衣服送到時寶寶的身長來選尺碼。這件的評價很少，所以尺寸表是你最好的參考。"
+          "購買前先把運送時間算進去：衣服送到時，寶寶可能已經穿另一個尺碼了。標籤上的月齡只是參考；請拿寶寶目前的尺寸對照商店的建議。這件的評價很少，所以請仔細看尺寸表，不要只依月齡範圍選擇。"
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-15-macacao-bebe.webp",
@@ -72093,12 +72091,27 @@ export const reviewsData: unknown[] = [
         "heading": "一件配件與聖誕佈置",
         "paragraphs": [
           "兩樣小東西：一組戒指和一片聖誕門簾。"
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "單品",
+            "適合用在"
+          ],
+          "rows": [
+            [
+              "[20 枚銀色戒指組](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
+              "日常配件與小禮物"
+            ],
+            [
+              "[壁爐印花聖誕門簾](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
+              "聖誕佈置"
+            ]
+          ]
+        }
       },
       {
         "heading": "20 枚銀色戒指組",
         "bullets": [
-          "我們查看時頁面顯示的折扣：-20%。",
           "尺寸：單一尺寸。商品頁沒有標示戒指的直徑。",
           "材質：鋅合金，附水鑽。",
           "商店評分 4.87，評價超過一千則。"
@@ -72129,14 +72142,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "壁爐印花聖誕門簾",
         "bullets": [
-          "我們查看時頁面顯示的折扣：-18%。",
           "尺寸：180 x 90 公分或 200 x 90 公分。",
           "材質：100% 聚酯纖維。",
           "我們查看時頁面只有 1 則評價。"
         ],
         "paragraphs": [
           "一片可以蓋住門的布簾，印有裝飾好的壁爐和 Merry Christmas 字樣。一包內有一片。請先量你家的門：有 180 和 200 公分兩種高度，寬度都是 90 公分。",
-          "聖誕佈置只有在 24 日之前送到才有用。你的地址的預計送達時間會在付款前顯示在頁面上：如果預計日期在聖誕節之後，今年就不要買了。"
+          "要佈置今年的聖誕節，請確認預計送達日期早於你打算掛上佈置的那一天。選面板尺寸之前，也請先量一下你家門的尺寸。"
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-17-faixa-natal-lareira.webp",
@@ -72156,7 +72168,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "價格、貨幣與庫存：請查看你的 SHEIN 商店",
         "paragraphs": [
-          "本文的連結會在你所在地區的 SHEIN 商店開啟各個商品。價格、貨幣、有庫存的尺碼和顯示的折扣，可能和我們查看時看到的不同。",
+          "請開啟連結，在你的收件國家對應的商店確認商品、顏色和尺碼。價格、貨幣、庫存和優惠在不同商店之間可能不一樣。",
           "付款前，請確認以你的貨幣顯示的價格、你的尺碼有貨，以及這件商品在你的商店是否屬於這次活動。"
         ]
       },
@@ -72165,7 +72177,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "依照 SHEIN 的優惠券政策，每筆訂單可使用一張平台優惠券。每張優惠券都有使用期限，沒有及時使用就會失效。",
           "訂單頁面會顯示可使用的 SHEIN 點數和對應折抵金額。付款前請核對金額。",
-          "4CW5Y 不是優惠券，而是 Cecília 的 SHEIN 推薦碼，使用它確實有折扣。透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋 4CW5Y，該碼會開啟一個含推薦商品、促銷和折扣的頁面。折扣多少、涵蓋哪些商品由 SHEIN 決定，並會變動。SHEIN 的活動隨時都在變：下單前，請先到本站的商店頁面查看目前的活動。",
+          "4CW5Y 不是優惠券，而是 Cecília 的 SHEIN 推薦碼，使用它確實有折扣。開啟 Cecília 的連結，或在 App 或網站搜尋 4CW5Y，該碼會開啟一個含推薦商品、促銷和折扣的頁面。折扣多少、涵蓋哪些商品由 SHEIN 決定，並會變動。SHEIN 的活動隨時都在變：下單前，請先到本站的商店頁面查看目前的活動。",
           "活動捷徑一節的六組活動碼，例如 24V7643，同樣是輸入在搜尋欄，但它們開啟的是 SHEIN 的主題精選。4CW5Y 是其中唯一屬於 Cecília 的推薦碼。"
         ],
         "links": [
@@ -72218,9 +72230,9 @@ export const reviewsData: unknown[] = [
           "SHEIN 黑色星期五怎麼進行？不同優惠可能有不同的時間和條件。請確認哪些商品適用廣告折扣，並比較購物車中的最終價格。",
           "SHEIN 有網路星期一嗎？2026 年的網路星期一是 11 月 30 日。我們沒有找到適用於所有國家的公告：請查看所在國家網站上的活動。",
           "黑色星期五的訂單能在聖誕節前送到嗎？我們無法保證具體日期。送達時間會在付款前顯示在訂單上：每次購買都請確認這個時間。",
-          "4CW5Y 是折扣優惠券嗎？不是優惠券，但確實有折扣。它是 Cecília 的 SHEIN 推薦碼：透過連結開啟 SHEIN，再在 App 或網站搜尋這個碼，會開啟含促銷和折扣的商品頁面；折扣多少、涵蓋哪些商品由 SHEIN 決定。",
+          "4CW5Y 是折扣優惠券嗎？不是優惠券，但確實有折扣。它是 Cecília 的 SHEIN 推薦碼：開啟連結，或在 App 或網站搜尋這個碼，會開啟含促銷和折扣的商品頁面；折扣多少、涵蓋哪些商品由 SHEIN 決定。",
           "4CW5Y 和 SHEIN 的活動碼是同一種東西嗎？不是。4CW5Y 是 Cecília 的推薦碼。24V7643 和 B75N67A 這類是 SHEIN 的捷徑，會在 App 搜尋中開啟活動精選。它們都不是在結帳時輸入的。",
-          "本文的單品在每個國家的價格都一樣嗎？不一樣。每個連結都會在你所在地區的 SHEIN 商店開啟該商品，價格、貨幣和庫存各有不同。付款前請先看商品頁上的價格。",
+          "本文的單品在每個國家的價格都一樣嗎？不一樣。價格、貨幣、庫存和優惠會因 SHEIN 商店而異。付款前，請開啟連結，在你的收件國家對應的商店確認該單品。",
           "黑色星期五要怎麼選 SHEIN 衣服的尺碼？請使用每件商品的尺寸表（以公分計），和你自己的尺寸對照。SHEIN 內不同品牌的尺碼差異很大，無彈性的布料更要留意胸圍和腰圍。"
         ]
       }
@@ -72315,114 +72327,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "买什么：17 件单品一次看",
+        "heading": "买什么：17 件单品，按需求分类",
         "paragraphs": [
-          "这 17 件是活动中挑出的单品，涵盖派对、日常穿搭、运动、海边、睡衣、童装、配饰和圣诞布置。我们在 11 月中旬逐一打开商品页：面料、尺寸、评分和显示的折扣都以当天页面为准。"
+          "这份精选汇集了 17 件单品，涵盖派对、日常穿搭、运动、海边、童装和圣诞布置。下面可以对比面料、尺寸和搭配思路；面料、尺寸和评分均来自各商品页，查看时间为 11 月中旬。购买前，请在为你的收货国家设置的商店里确认该单品的价格和优惠。"
         ],
-        "comparisonTable": {
-          "caption": "折扣为我们查看时各商品页显示的数字。活动期间价格和折扣会变动，也可能因颜色和尺码而异。",
-          "headers": [
-            "单品",
-            "页面显示的折扣",
-            "适合用在"
-          ],
-          "rows": [
-            [
-              "[SHEIN BAE 吊带连衣裙](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
-              "-20%",
-              "派对、晚餐与约会"
-            ],
-            [
-              "[SHEIN PETITE 挂脖短连衣裙](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
-              "-20%",
-              "派对与约会，Petite 尺码"
-            ],
-            [
-              "[Opulessa 碎花连衣裙](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
-              "-20%",
-              "度假与炎热天气"
-            ],
-            [
-              "[棕白上衣与阔腿裤两件套](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
-              "-20%",
-              "休闲上班与周末"
-            ],
-            [
-              "[SHEIN PariChic 立领蕾丝上衣](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
-              "-20%",
-              "单穿或叠穿"
-            ],
-            [
-              "[SHEIN EZwear 格纹荷叶下摆上衣](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
-              "—",
-              "夏日休闲，宽松版型"
-            ],
-            [
-              "[Sweetra 无袖格纹侧系带衬衫](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
-              "-20%",
-              "休闲，腰间收紧"
-            ],
-            [
-              "[人造麂皮拉链外套](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
-              "-20%",
-              "换季与旅行"
-            ],
-            [
-              "[Anewsta 交叉美背运动内衣](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
-              "—",
-              "运动与瑜伽"
-            ],
-            [
-              "[Yefecy 无缝紧身裤](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
-              "-20%",
-              "运动与瑜伽"
-            ],
-            [
-              "[Costavie 藏青白边连体泳衣](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
-              "-20%",
-              "海边与泳池"
-            ],
-            [
-              "[SHEIN Swim 印花沙滩罩衫](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
-              "-20%",
-              "穿在泳衣或比基尼外面"
-            ],
-            [
-              "[小熊印花吊带背心短裤睡衣套装](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
-              "-20%",
-              "睡觉与居家休闲"
-            ],
-            [
-              "[女童 Polo 领上衣与阔腿裤套装](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
-              "—",
-              "4 至 8 岁女童，换季"
-            ],
-            [
-              "[太空人造型婴儿连体衣](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
-              "-20%",
-              "1 至 12 个月的婴儿"
-            ],
-            [
-              "[20 枚银色戒指套装](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
-              "-20%",
-              "日常配饰与小礼物"
-            ],
-            [
-              "[壁炉印花圣诞门帘](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
-              "-18%",
-              "圣诞布置"
-            ]
-          ]
-        },
         "postParagraphs": [
-          "我们刻意不列价格：每个链接都会在你所在地区的 SHEIN 商店打开该商品，并以你的货币显示价格。",
           "请按每件商品的尺码表（以厘米计）选尺码，不要只看字母：SHEIN 内不同品牌的尺码差异很大。[SHEIN 尺码指南](/zh-hans/reviews/shein-size-guide-zh-hans)会教你怎么量身体、怎么看尺码表。"
         ]
       },
       {
         "heading": "六个活动快捷入口，在 App 里搜索",
         "paragraphs": [
-          "除了单品，SHEIN 也为这次活动做了几个主题精选。每个精选都有一组搜索码：在 SHEIN App 的搜索栏输入该码，或通过链接打开，就会看到该精选。这些码只是搜索快捷入口：不在结账时输入，也不是优惠券。"
+          "除了单品，SHEIN 也为这次活动做了几个主题精选。每个精选都有一组搜索码：在 SHEIN App 的搜索栏输入该码，或通过链接打开，就会看到该精选。这些码只是搜索快捷入口：不在结账时输入，也不是优惠券。",
+          "这些快捷入口取决于你所在商店有哪些活动。如果某个入口没有打开对应的精选，请查看 App 中为你的收货国家显示的活动。"
         ],
         "comparisonTable": {
           "caption": "每个精选收录的内容。各精选显示的折扣只适用于其中部分商品，不是整个购物车。",
@@ -72475,19 +72392,42 @@ export const reviewsData: unknown[] = [
         "heading": "连衣裙与一套两件式：派对、度假与日常",
         "paragraphs": [
           "三件连衣裙和一套两件式。其中两件连衣裙的面料没有弹性，这类款式要以胸围和腰围来决定尺码。"
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "单品",
+            "适合用在"
+          ],
+          "rows": [
+            [
+              "[SHEIN BAE 吊带连衣裙](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
+              "派对、晚餐与约会"
+            ],
+            [
+              "[SHEIN PETITE 挂脖短连衣裙](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
+              "派对与约会，Petite 尺码"
+            ],
+            [
+              "[Opulessa 碎花连衣裙](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
+              "度假与炎热天气"
+            ],
+            [
+              "[棕白上衣与阔腿裤两件套](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
+              "休闲上班与周末"
+            ]
+          ]
+        }
       },
       {
         "heading": "SHEIN BAE 吊带连衣裙",
         "bullets": [
-          "我们查看时页面显示的折扣：-20%。",
           "尺码：XXS 至 XXL，另有 Petite 系列。",
           "面料：100% 聚酯纤维，无衬里、无弹性。",
           "商店评分 4.82，评价超过一千条。"
         ],
         "paragraphs": [
           "吊带、大摆、露背加拉链的连衣裙，链接打开的是红色款。尺码表从 XXS 的胸围 84 厘米、腰围 66 厘米，到 XXL 的 114 厘米和 96 厘米，衣长 122 至 134 厘米。",
-          "面料没有弹性，所以胸围和腰围要和你的身体尺寸相符：选之前请先用厘米对照。想看其他派对款式，可以参考 [SHEIN 派对连衣裙指南](/zh-hans/reviews/shein-party-dress-guide-zh-hans)。"
+          "面料没有弹性。请把这件衣服的尺寸，与你已经穿着舒适的无弹性连衣裙对比，留意胸围和腰围的宽松度。想看其他派对款式，可以参考 [SHEIN 派对连衣裙指南](/zh-hans/reviews/shein-party-dress-guide-zh-hans)。"
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-01-vestido-longo-bae.webp",
@@ -72511,7 +72451,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN PETITE 挂脖短连衣裙",
         "bullets": [
-          "我们查看时页面显示的折扣：-20%。",
           "尺码：Petite XXS 至 Petite L。",
           "面料：100% 聚酯纤维，衬里为 89% 聚酯纤维和 11% 弹性纤维。",
           "商店评分 4.82，评价超过一千条。"
@@ -72542,7 +72481,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Opulessa 碎花连衣裙",
         "bullets": [
-          "我们查看时页面显示的折扣：-20%。",
           "尺码：XXS 至 XL。",
           "面料：91% 聚酯纤维和 9% 弹性纤维的针织，弹性高。商品页标示为半透明。",
           "商店评分 4.87，评价超过一千条。"
@@ -72573,7 +72511,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "棕白上衣与阔腿裤两件套",
         "bullets": [
-          "我们查看时页面显示的折扣：-20%。",
           "尺码：XS 至 XL。",
           "面料：上衣为 95% 聚酯纤维和 5% 弹性纤维的针织；裤子为 100% 聚酯纤维，无弹性。",
           "商店评分 4.73，评价超过一千条。"
@@ -72605,12 +72542,35 @@ export const reviewsData: unknown[] = [
         "heading": "上衣与外套：休闲与换季",
         "paragraphs": [
           "三件无弹性上衣和一件外套。查看过的两件上衣版型正好相反：一件宽松，另一件在腰间收紧。"
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "单品",
+            "适合用在"
+          ],
+          "rows": [
+            [
+              "[SHEIN PariChic 立领蕾丝上衣](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
+              "单穿或叠穿"
+            ],
+            [
+              "[SHEIN EZwear 格纹荷叶下摆上衣](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
+              "夏日休闲，宽松版型"
+            ],
+            [
+              "[Sweetra 无袖格纹侧系带衬衫](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
+              "休闲，腰间收紧"
+            ],
+            [
+              "[人造麂皮拉链外套](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
+              "换季与旅行"
+            ]
+          ]
+        }
       },
       {
         "heading": "SHEIN PariChic 立领蕾丝上衣",
         "bullets": [
-          "我们查看时页面显示的折扣：-20%。",
           "尺码：XS 至 XXL，另有 Tall 系列。",
           "面料：41% 聚酰胺纤维、37% 棉和 22% 粘胶纤维，无弹性。商品页标示为半透明。"
         ],
@@ -72640,7 +72600,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN EZwear 格纹荷叶下摆上衣",
         "bullets": [
-          "我们查看时页面没有显示折扣。",
           "尺码：XS 至 XL。",
           "面料：55% 棉和 45% 聚酯纤维，无弹性。"
         ],
@@ -72670,7 +72629,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sweetra 无袖格纹侧系带衬衫",
         "bullets": [
-          "我们查看时页面显示的折扣：-20%。",
           "尺码：XXS 至 XL，另有大码系列。",
           "面料：72% 聚酯纤维、18% 棉和 10% 粘胶纤维，无弹性。",
           "商店评分 4.73，评价超过一千条。"
@@ -72701,7 +72659,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "人造麂皮拉链外套",
         "bullets": [
-          "我们查看时页面显示的折扣：-20%。",
           "尺码：XS 至 L。",
           "面料：人造麂皮，100% 聚酯纤维，无弹性。",
           "商店评分 4.78，评价超过一千条。"
@@ -72733,12 +72690,39 @@ export const reviewsData: unknown[] = [
         "heading": "运动、海边与睡衣",
         "paragraphs": [
           "一套由两件组成的运动穿搭、一件泳衣加罩衫，以及一套睡衣。"
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "单品",
+            "适合用在"
+          ],
+          "rows": [
+            [
+              "[Anewsta 交叉美背运动内衣](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
+              "运动与瑜伽"
+            ],
+            [
+              "[Yefecy 无缝紧身裤](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
+              "运动与瑜伽"
+            ],
+            [
+              "[Costavie 藏青白边连体泳衣](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
+              "海边与泳池"
+            ],
+            [
+              "[SHEIN Swim 印花沙滩罩衫](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
+              "穿在泳衣或比基尼外面"
+            ],
+            [
+              "[小熊印花吊带背心短裤睡衣套装](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
+              "睡觉与居家休闲"
+            ]
+          ]
+        }
       },
       {
         "heading": "Anewsta 交叉美背运动内衣",
         "bullets": [
-          "我们查看时页面没有显示折扣。",
           "尺码：XS 至 XXL，另有大码系列。",
           "面料：90% 聚酰胺纤维和 10% 弹性纤维，弹性高。",
           "商店评分 4.88，评价超过一千条。"
@@ -72775,14 +72759,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Yefecy 无缝紧身裤",
         "bullets": [
-          "我们查看时页面显示的折扣：-20%。",
           "尺码：S、M 和 L。",
           "面料：90% 聚酰胺纤维和 10% 弹性纤维的针织，弹性高，无缝。",
           "商店评分 4.74，评价超过 500 条。"
         ],
         "paragraphs": [
           "无缝塑形长款紧身裤，链接打开的是紫色款。商店标题写的是中腰，商品细节写的是高腰：请看页面上的照片，确认裤头落在哪个位置。",
-          "尺码范围很短，只有三个，而且尺码表给的是未拉伸的衣服尺寸：S 腰围 58 厘米、臀围 68 厘米，L 为 66 厘米和 76 厘米。紧身裤拉得太开会变透明，所以如果你的尺寸远超过 L，这件就不适合。"
+          "尺码有 S、M 和 L。尺码表给的是未拉伸的衣服尺寸：S 腰围 58 厘米、臀围 68 厘米，L 为 66 厘米和 76 厘米。这些数字并不是你身体尺寸的上限。请与你已经在穿的、弹性相近的紧身裤对比，并查看商品页上的尺码建议。"
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-10-legging-yefecy.webp",
@@ -72812,7 +72795,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Costavie 藏青白边连体泳衣",
         "bullets": [
-          "我们查看时页面显示的折扣：-20%。",
           "尺码：XS 至 XL，另有大码系列。",
           "面料：80% 聚酰胺纤维和 20% 弹性纤维，弹性高，附衬垫罩杯。",
           "商店评分 4.88，评价超过一千条。"
@@ -72849,7 +72831,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN Swim 印花沙滩罩衫",
         "bullets": [
-          "我们查看时页面显示的折扣：-20%。",
           "尺码：XXS 至 XXL。",
           "面料：94% 聚酯纤维和 6% 弹性纤维的针织，弹性高。商品页标示为半透明。",
           "商店评分 4.93，评价超过 500 条。"
@@ -72886,7 +72867,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "小熊印花吊带背心短裤睡衣套装",
         "bullets": [
-          "我们查看时页面显示的折扣：-20%。",
           "尺码：XXS 至 XXL。",
           "面料：95% 聚酯纤维和 5% 弹性纤维的针织，中等弹性。",
           "商店评分 4.85，评价超过一千条。"
@@ -72918,12 +72898,27 @@ export const reviewsData: unknown[] = [
         "heading": "童装与婴儿",
         "paragraphs": [
           "一套 4 至 8 岁女童套装和一件婴儿连体衣。两件都请按孩子的身体尺寸选，不要只看尺码上的年龄。"
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "单品",
+            "适合用在"
+          ],
+          "rows": [
+            [
+              "[女童 Polo 领上衣与阔腿裤套装](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
+              "4 至 8 岁女童，换季"
+            ],
+            [
+              "[太空人造型婴儿连体衣](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
+              "1 至 12 个月的婴儿"
+            ]
+          ]
+        }
       },
       {
         "heading": "女童 Polo 领上衣与阔腿裤套装",
         "bullets": [
-          "我们查看时页面没有显示折扣。",
           "尺码：4、5、6、7 和 8 岁。",
           "面料：95% 聚酯纤维和 5% 弹性纤维的针织，中等弹性。",
           "商店评分 4.76，评价超过 500 条。"
@@ -72954,14 +72949,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "太空人造型婴儿连体衣",
         "bullets": [
-          "我们查看时页面显示的折扣：-20%。",
           "尺码：1 至 3 个月、3 至 6 个月、6 至 9 个月和 9 至 12 个月。",
           "面料：96% 聚酯纤维和 4% 弹性纤维，弹性低。",
           "我们查看时页面只有 2 条评价。"
         ],
         "paragraphs": [
           "橙色长袖连体衣，有拉链和口袋，贴有太空人徽章，并与黑色拼色。尺码表上，1 至 3 个月的尺码衣长 50 厘米，9 至 12 个月的尺码为 65 厘米。",
-          "宝宝长得很快。预计送达时间会在付款前显示在页面上：把它加到宝宝的月龄上，再按衣服送到时宝宝的身长来选尺码。这件的评价很少，所以尺码表是你最好的参考。"
+          "购买前请把送达时间考虑进去：衣服送到时，宝宝可能已经穿另一个尺码了。标签上的月龄只是参考，请把宝宝现在的尺寸与商店的建议对照。这件的评价很少，所以请仔细看尺码表，不要只按月龄范围选择。"
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-15-macacao-bebe.webp",
@@ -72986,12 +72980,27 @@ export const reviewsData: unknown[] = [
         "heading": "一件配饰与圣诞布置",
         "paragraphs": [
           "两样小东西：一组戒指和一块圣诞门帘。"
-        ]
+        ],
+        "comparisonTable": {
+          "headers": [
+            "单品",
+            "适合用在"
+          ],
+          "rows": [
+            [
+              "[20 枚银色戒指套装](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
+              "日常配饰与小礼物"
+            ],
+            [
+              "[壁炉印花圣诞门帘](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
+              "圣诞布置"
+            ]
+          ]
+        }
       },
       {
         "heading": "20 枚银色戒指套装",
         "bullets": [
-          "我们查看时页面显示的折扣：-20%。",
           "尺寸：均码。商品页没有标示戒指的直径。",
           "材质：锌合金，附水钻。",
           "商店评分 4.87，评价超过一千条。"
@@ -73022,14 +73031,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "壁炉印花圣诞门帘",
         "bullets": [
-          "我们查看时页面显示的折扣：-18%。",
           "尺寸：180 x 90 厘米或 200 x 90 厘米。",
           "材质：100% 聚酯纤维。",
           "我们查看时页面只有 1 条评价。"
         ],
         "paragraphs": [
           "一块可以盖住门的布帘，印有装饰好的壁炉和 Merry Christmas 字样。一包内有一块。请先量你家的门：有 180 和 200 厘米两种高度，宽度都是 90 厘米。",
-          "圣诞布置只有在 24 日之前送到才有用。你的地址的预计送达时间会在付款前显示在页面上：如果预计日期在圣诞节之后，今年就不要买了。"
+          "如果想用它来布置今年的圣诞，请确认预计送达日期早于你打算布置的那一天。选择门帘尺寸之前，也请先量一下你家门的尺寸。"
         ],
         "image": {
           "src": "/images/reviews/shein/black-friday-shein-17-faixa-natal-lareira.webp",
@@ -73049,7 +73057,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "价格、货币与库存：请查看你的 SHEIN 商店",
         "paragraphs": [
-          "本文的链接会在你所在地区的 SHEIN 商店打开各个商品。价格、货币、有库存的尺码和显示的折扣，可能和我们查看时看到的不同。",
+          "打开链接，在为你的收货国家设置的商店里确认商品、颜色和尺码。不同商店的价格、货币、库存和优惠可能不同。",
           "付款前，请确认以你的货币显示的价格、你的尺码有货，以及这件商品在你的商店是否属于这次活动。"
         ]
       },
@@ -73058,7 +73066,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "按照 SHEIN 的优惠券政策，每笔订单可用一张平台优惠券。每张优惠券都有有效期，没有及时使用就会失效。",
           "订单页面会显示可使用的 SHEIN 积分和对应抵扣金额。付款前请核对金额。",
-          "4CW5Y 不是优惠券，而是 Cecília 的 SHEIN 推荐码，用它确实有折扣。通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索 4CW5Y，该码会打开一个含推荐商品、促销和折扣的页面。折扣多少、涉及哪些商品由 SHEIN 决定，并会变化。SHEIN 的活动随时都在变：下单前，请先到本站的店铺页面查看目前的活动。",
+          "4CW5Y 不是优惠券，而是 Cecília 的 SHEIN 推荐码，用它确实有折扣。打开 Cecília 的链接，或在 App 或网站搜索 4CW5Y，该码会打开一个含推荐商品、促销和折扣的页面。折扣多少、涉及哪些商品由 SHEIN 决定，并会变化。SHEIN 的活动随时都在变：下单前，请先到本站的店铺页面查看目前的活动。",
           "活动快捷入口一节的六组活动码，例如 24V7643，同样是输入在搜索栏，但它们打开的是 SHEIN 的主题精选。4CW5Y 是其中唯一属于 Cecília 的推荐码。"
         ],
         "links": [
@@ -73111,9 +73119,9 @@ export const reviewsData: unknown[] = [
           "SHEIN 黑色星期五怎么进行？不同优惠可能有不同的时间和条件。请确认哪些商品适用广告折扣，并比较购物车中的最终价格。",
           "SHEIN 有网络星期一吗？2026 年的网络星期一是 11 月 30 日。我们没有找到适用于所有国家的公告：请查看所在国家站点上的活动。",
           "黑色星期五的订单能在圣诞节前送到吗？我们无法保证具体日期。送达时间会在付款前显示在订单上：每次购买都请确认这个时间。",
-          "4CW5Y 是折扣优惠券吗？不是优惠券，但确实有折扣。它是 Cecília 的 SHEIN 推荐码：通过链接打开 SHEIN，再在 App 或网站搜索这个码，会打开含促销和折扣的商品页面；折扣多少、涉及哪些商品由 SHEIN 决定。",
+          "4CW5Y 是折扣优惠券吗？不是优惠券，但确实有折扣。它是 Cecília 的 SHEIN 推荐码：打开链接，或在 App 或网站搜索这个码，会打开含促销和折扣的商品页面；折扣多少、涉及哪些商品由 SHEIN 决定。",
           "4CW5Y 和 SHEIN 的活动码是同一种东西吗？不是。4CW5Y 是 Cecília 的推荐码。24V7643 和 B75N67A 这类是 SHEIN 的快捷入口，会在 App 搜索中打开活动精选。它们都不是在结账时输入的。",
-          "本文的单品在每个国家的价格都一样吗？不一样。每个链接都会在你所在地区的 SHEIN 商店打开该商品，价格、货币和库存各有不同。付款前请先看商品页上的价格。",
+          "本文的单品在每个国家的价格都一样吗？不一样。不同的 SHEIN 商店，价格、货币、库存和优惠各不相同。付款前，请打开链接，在为你的收货国家设置的商店里确认该单品。",
           "黑色星期五要怎么选 SHEIN 衣服的尺码？请使用每件商品的尺码表（以厘米计），和你自己的尺寸对照。SHEIN 内不同品牌的尺码差异很大，无弹性的面料更要留意胸围和腰围。"
         ]
       }
