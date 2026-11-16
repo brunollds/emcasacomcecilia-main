@@ -5,7 +5,7 @@ import { validateMediaAssetAvailability } from './media/video-asset-proof.mjs';
 import { recipes, reviews } from '@/lib/data';
 import sitemap from '@/app/sitemap';
 import { buildRecipeTemplateProps } from '@/lib/recipe-template-props';
-import { buildReviewTemplateProps } from '@/lib/review-template-props';
+import { buildReviewTemplateProps, getArticleNode } from '@/lib/review-template-props';
 import {
   getVideoMeta,
   getYoutubeEmbedUrl,
@@ -13,7 +13,7 @@ import {
   localVideoMetadata,
   videoMetadata,
 } from '@/lib/video-metadata';
-import { buildLocalVideoObject, buildYoutubeVideoObject } from '@/lib/video-schema';
+import { buildLocalVideoObject, buildYoutubeVideoObject, isIso8601DateTime } from '@/lib/video-schema';
 import { getVideoPageSeo, videoPages } from '@/lib/video-pages';
 import { VIDEO_ASPECTS, isVideoAspect } from '@/lib/videosShelf';
 
@@ -64,14 +64,6 @@ const warnings: string[] = [];
 let validatedPages = 0;
 let validatedWatchPages = 0;
 
-function isIso8601Date(value: string | undefined): boolean {
-  return Boolean(
-    value &&
-    /^\d{4}-\d{2}-\d{2}(?:T\d{2}:\d{2}:\d{2}(?:\.\d+)?(?:Z|[+-]\d{2}:\d{2}))?$/.test(value) &&
-    !Number.isNaN(Date.parse(value))
-  );
-}
-
 function report(kind: ContentKind, slug: string, message: string): void {
   errors.push(`${kind} "${slug}": ${message}`);
 }
@@ -80,13 +72,12 @@ function warn(kind: ContentKind, slug: string, message: string): void {
   warnings.push(`${kind} "${slug}": ${message}`);
 }
 
-// O uploadDate sai no VideoObject como está no registro. Com hora, precisa de fuso. Só a data é
-// válida e vira aviso: a hora real da publicação ainda não foi comprovada, e não se inventa uma.
+// O uploadDate sai no VideoObject como está no registro e precisa de data, hora e fuso. Só a data, o Google
+// Vídeos acusa ("Falta o fuso horário da propriedade uploadDate" e "O valor de datetime para uploadDate não é
+// válido"). Sem a hora da publicação, o registro leva o meio-dia de Brasília do dia: T12:00:00-03:00.
 function checkUploadDate(kind: ContentKind, slug: string, value: string | undefined): void {
-  if (!isIso8601Date(value)) {
-    report(kind, slug, 'VideoObject sem uploadDate ISO 8601 (data, ou data com hora e fuso)');
-  } else if (/^\d{4}-\d{2}-\d{2}$/.test(value as string)) {
-    warn(kind, slug, `uploadDate só com a data (${value}): falta a hora comprovada da publicação`);
+  if (!isIso8601DateTime(value)) {
+    report(kind, slug, `uploadDate fora do formato (${value ?? 'ausente'}): precisa de data, hora e fuso, como 2026-07-23T12:00:00-03:00`);
   }
 }
 
@@ -111,6 +102,7 @@ function validateYoutubeVideoObject(
 
   if (!video || video['@type'] !== 'VideoObject') {
     report(kind, slug, 'player incorporado não gerou VideoObject');
+    if (metadata) checkUploadDate(kind, slug, metadata.uploadDate);
     return;
   }
 
@@ -167,6 +159,7 @@ function validateLocalVideoObject(
 
   if (!video || video['@type'] !== 'VideoObject') {
     report('review', slug, 'MP4 editorial principal não gerou VideoObject');
+    checkUploadDate('review', slug, metadata.uploadDate);
     return;
   }
 
@@ -189,7 +182,7 @@ function validateLocalVideoObject(
     !metadata.title ||
     !metadata.description ||
     !metadata.thumbnailUrl ||
-    !isIso8601Date(metadata.uploadDate)
+    !isIso8601DateTime(metadata.uploadDate)
   ) {
     report('review', slug, 'registro do MP4 principal está incompleto');
   }
@@ -226,7 +219,7 @@ for (const review of reviews) {
         'review',
         review.slug,
         review.youtubeUrl,
-        jsonLd.video as VideoSchema | undefined
+        getArticleNode(jsonLd).video as VideoSchema | undefined
       );
     }
   }
@@ -277,7 +270,7 @@ for (const review of reviews) {
       review.slug,
       sourceUrl,
       metadata,
-      jsonLd.video as VideoSchema | undefined
+      getArticleNode(jsonLd).video as VideoSchema | undefined
     );
   }
 
@@ -344,6 +337,7 @@ for (const videoPage of videoPages) {
 
   if (!videoObject || videoObject['@type'] !== 'VideoObject') {
     report('página de vídeo', videoPage.slug, 'não gera VideoObject completo');
+    checkUploadDate('página de vídeo', videoPage.slug, videoPage.uploadDate);
   } else {
     if (!videoObject.name || !videoObject.description) {
       report('página de vídeo', videoPage.slug, 'VideoObject sem título ou descrição');

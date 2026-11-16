@@ -9,6 +9,7 @@ import {
   isValidReviewPublishedAtISO,
 } from '@/lib/reviewDiscovery';
 import { resolveRelatedArticleLinks } from '@/lib/review-template-props';
+import { isIso8601DateTime } from '@/lib/video-schema';
 import {
   formatQuantity,
   getReviewCanonicalPathname,
@@ -370,13 +371,13 @@ for (const recipe of recipes) {
 
   if (
     recipe.videoUploadDate &&
-    Number.isNaN(Date.parse(recipe.videoUploadDate))
+    !isIso8601DateTime(recipe.videoUploadDate)
   ) {
     reportError({
       type: 'recipe',
       id: recipe.id,
       slug: recipe.slug,
-      message: 'videoUploadDate deve ser uma data ISO válida',
+      message: 'videoUploadDate precisa de data, hora e fuso (2026-07-23T12:00:00-03:00): só a data, o Google Vídeos acusa',
     });
   }
 
@@ -544,7 +545,7 @@ for (const review of reviews) {
     });
   }
 
-  // Sem número, o JSON-LD não tem reviewRating nem itemReviewed e o artigo sai como Article, não como Review.
+  // Sem número, o JSON-LD não tem reviewRating nem Product e o artigo sai como Article, não como Review.
   const rating: unknown = review.rating;
   if (rating !== undefined && rating !== null && typeof rating !== 'number') {
     reportError({ type: 'review', id: review.id, slug: review.slug, message: 'rating deve ser número' });

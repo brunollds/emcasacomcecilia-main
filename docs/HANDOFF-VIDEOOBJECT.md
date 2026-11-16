@@ -61,7 +61,7 @@ da seção final. Guia de autoria: `docs/GUIA-EDITORIAL-VIDEOS.md`.
 | Item | Prazo | Ação |
 |---|---|---|
 | **Bolo de cenoura** | decisão do Bruno | `content/receitas/bolo-de-cenoura-com-cobertura-de-chocolate.json` tem `youtubeUrl` apontando pro CANAL. Remover o campo ou trocar pelo vídeo certo (registrar o ID novo), **fora de operação ativa da central**, e então tirar o slug de `KNOWN_INVALID_YOUTUBE_URLS` no validador. |
-| **Product snippet inválido** | backlog (chip criado) | Preexistente: `itemReviewed: Product` sem offers/review/aggregateRating → inelegível a Snippets do produto em TODOS os reviews de produto. Correção = Product top-level com review aninhado; mexe no shape do jsonLd e no validador (atualizar juntos). |
+| **Product snippet inválido** | corrigido em 16/11/2026 | Era `itemReviewed: Product` sem offers/review/aggregateRating, inválido nos Snippets do produto em todo review com nota. Agora o nó da página é o `Product`, com o `Review` em `review` (`review-template-props.js`); o `test:build-output` confere. Conferir no Rich Results Test depois do deploy. |
 | **Search Console** | 2-7-28 dias após deploy | Reenviar `sitemap.xml`, acompanhar “Vídeos encontrados” e solicitar validação de “O vídeo não está em uma página de exibição”. |
 
 ## Gates antes de qualquer mudança nesta área
