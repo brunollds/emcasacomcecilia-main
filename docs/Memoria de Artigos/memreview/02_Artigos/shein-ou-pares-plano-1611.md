@@ -76,8 +76,17 @@ dos produtos das duas e converte.
   avaliações à vista; na Shopee, de vendedor nacional e de vendedor do exterior quando houver os dois.
 - **O que se lê de cada peça:** preço do dia, frete e imposto para um CEP de São Paulo (01310-100), prazo estimado e
   vendedor.
-- **Limite:** a busca da Shopee pede login (16/11) e não foi lida por esta frente. As peças da Shopee vêm do Bruno,
-  ou a leitura acontece com o Chrome dele já logado na Shopee.
+- **Categorias que o Bruno acrescentou (16/11):** pijamas, bolsas, sapatos e roupas de academia.
+- **Shopee, 16/11:** com o Bruno logado, a página de busca abriu e foi lida uma vez (camiseta básica feminina, por
+  mais vendidos: os três primeiros eram de vendedores do Paraná e de São Paulo, de R$ 18,90 a R$ 23,39 antes do cupom
+  da loja, nota 4,7 a 4,9). Em seguida esta frente consultou a busca pela API interna do site e a Shopee respondeu com
+  verificação antirrobô (CAPTCHA) na conta dele. Leitura parada. **Não repetir:** na Shopee, só a página, uma busca
+  por vez, nunca a API. As peças da Shopee passam a ser escolhidas pelo Bruno.
+- **SHEIN, 16/11:** a busca abre sem login. Lidas três categorias com `?sort=8`, mas a ordem não se confirmou como
+  "mais vendidos" (peça com o selo "#1 Mais Vendido" ao lado de outras sem selo). Antes de valer como regra, conferir
+  na tela qual opção de "Classificar por" é a de mais vendidos. Vistas: camiseta GlowEve gola redonda com renda
+  (R$ 52,95, selo de mais vendido, p-502351672); calça jeans wide leg (R$ 69,99, selo, p-307702580); vestido Sweetra
+  de malha com recortes (R$ 88,14, selo, p-104819834).
 
 ## 6. Autocompletar (16/11)
 
