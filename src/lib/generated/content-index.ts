@@ -55184,7 +55184,7 @@ export const reviewsData: unknown[] = [
     "id": 332,
     "slug": "black-friday-letseatit",
     "bodyDatesReason": "campanha",
-    "title": "Black Friday Let's Eat It 2026: já começou, com Le Creuset até 50% OFF, Porto Brasil até 60% e La Maison até 70%",
+    "title": "Black Friday Let's Eat It 2026: qual Le Creuset, aparelho de jantar e presente comprar e quanto fica com o MAUAD",
     "seoTitle": "Black Friday Let's Eat It 2026: Le Creuset e Porto Brasil",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
@@ -55196,11 +55196,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da Let's Eat It já está no ar, com Porto Brasil até 60% OFF, La Maison até 70% e Le Creuset de 15% a 50%. Veja como o Pix e o cupom MAUAD entram na conta.",
+    "description": "Na Black Friday da Let's Eat It, as panelas Le Creuset Signature têm 25% OFF. Veja qual tamanho levar, o que comprar para a mesa e para presente, e a conta com o MAUAD e o Pix.",
     "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It e soma com o Pix. Black Friday: Porto Brasil até 60% OFF, La Maison até 70% e Le Creuset de 15% a 50%.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
-    "updatedAt": "2026-11-12",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/letseatit/black-friday-letseatit-capa-v2.webp",
@@ -55208,22 +55208,23 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "Em outubro de 2026, quase toda a Porto Brasil já estava com 40% OFF",
+      "Panelas Le Creuset Signature com 25% OFF na coleção de promoção; em outubro, quase todas estavam pelo preço cheio",
+      "Aparelho de jantar Porto Brasil de 30 peças a partir de R$ 756,84, contra R$ 868 em outubro",
       "5% de desconto no Pix, que soma com o cupom MAUAD",
-      "Cashback em cupom para a compra seguinte: 15% na faixa da Black Friday",
-      "30 dias para trocar ou devolver, com etiqueta paga pela loja"
+      "Cashback em cupom para a compra seguinte: 15% do valor da compra",
+      "Política da loja de 30 dias para trocar ou devolver, com etiqueta de devolução paga por ela"
     ],
     "cons": [
       "O desconto da Le Creuset fica só nas peças e cores da coleção de promoção; fora dela, o preço é o cheio",
-      "Frete grátis só em Le Creuset e Zwilling acima de R$ 1.000; no resto, o frete é pelo CEP",
-      "O cashback só vale numa compra de 7 vezes o valor do cupom",
-      "Os prazos de entrega podem mudar em períodos promocionais"
+      "O frete é cobrado pelo CEP e pelo peso: no nosso teste para a capital paulista, uma panela de R$ 1.746,75 pagou R$ 77,40",
+      "O cashback só vale numa compra de 7 vezes o valor do cupom, e só a partir de 7 dias depois da compra que o gerou",
+      "Parte das cores e dos faqueiros está em pré-venda, com prazo de envio próprio"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida: Black Friday Let's Eat It 2026",
         "paragraphs": [
-          "A Black Friday da Let's Eat It já está no ar: Porto Brasil até 60% OFF, La Maison até 70%; o dia da Black Friday é 27 de novembro. A Le Creuset tem coleção de promoção, de 15% a 50% OFF. Com o [cupom Let's Eat It](/cupons/letseatit), o MAUAD dá 5% OFF e soma com o Pix."
+          "A Black Friday da Let's Eat It segue no ar. Na Le Creuset, quase todas as panelas Signature da coleção de promoção têm 25% OFF, e os aparelhos de jantar Porto Brasil de 30 peças estão abaixo do preço de outubro. Com o [cupom Let's Eat It](/cupons/letseatit), o MAUAD dá 5% OFF e soma com o Pix. O frete é cobrado à parte."
         ]
       },
       {
@@ -55253,8 +55254,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Le Creuset na Black Friday: preços de outubro para comparar",
         "paragraphs": [
-          "Na Black Friday, a Le Creuset tem coleção própria de promoção, anunciada na home com o banner \"Le Creuset até 50% OFF\". A coleção Promoção Le Creuset lista 146 peças, com desconto de 15% a 50%: a maioria tem 30%, os 50% ficam em seis utensílios de silicone em pré-venda, e quase todas as panelas Signature têm 25%. A panela Redonda Signature de 20 cm, a R$ 2.329 pelo preço cheio, estava por R$ 1.746,75 com 25% OFF, e na cor Cool Mint, por R$ 1.513,85, com 35%.",
-          "Em outubro, a Le Creuset na Let's Eat It estava quase toda pelo preço cheio, que é o mesmo na maioria das cores de cada modelo. O desconto aparecia só numa seleção de peças, quase sempre numa cor específica, e muitas delas estavam esgotadas. É essa a tabela de referência."
+          "Na Black Friday, a Le Creuset tem coleção própria de promoção, anunciada na home com o banner \"Le Creuset até 50% OFF\". Os descontos da coleção vão de 15% a 50%: a maioria das peças tem 30%, e quase todas as panelas Signature têm 25%. A panela Redonda Signature de 20 cm, a R$ 2.329 pelo preço cheio, está por R$ 1.746,75.",
+          "Em outubro, a Le Creuset na Let's Eat It estava quase toda pelo preço cheio, que é o mesmo na maioria das cores de cada modelo. O desconto aparecia só numa seleção de peças, quase sempre numa cor específica. É essa a tabela de referência."
         ],
         "image": {
           "src": "/images/reviews/letseatit/le-creuset-redonda-signature-cotton.webp",
@@ -55314,7 +55315,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na Le Creuset, a régua é simples: em outubro, quase tudo estava pelo preço cheio. Se durante a campanha o preço do dia ficar abaixo desta tabela, o desconto é de verdade. Se o preço riscado subir, compare com a tabela, não com o riscado.",
+          "Na Le Creuset, a comparação é direta: em outubro, quase tudo estava pelo preço cheio, e em meados de novembro as panelas redondas de 20, 24 e 26 cm da tabela aparecem com 25% OFF nas cores da promoção. A oval de 31 cm foi de R$ 2.889,15 para R$ 2.549,25. A caneca de 400 ml e a mini cocotte seguem no mesmo preço de outubro, agora em mais cores. Se o preço riscado subir, compare com a tabela, não com o riscado.",
           "A Let's Eat It aparece no localizador de lojas do site oficial da Le Creuset Brasil."
         ],
         "links": [
@@ -55322,6 +55323,71 @@ export const reviewsData: unknown[] = [
             "label": "Let's Eat It é confiável? CNPJ, políticas e o que observar",
             "href": "/reviews/lets-eat-it-e-confiavel"
           }
+        ]
+      },
+      {
+        "heading": "Le Creuset: qual panela levar, por capacidade",
+        "paragraphs": [
+          "O preço sobe com o tamanho, então a escolha começa pela capacidade que você cozinha de fato. A tabela traz as panelas de ferro fundido Signature da coleção de promoção, nas cores em que o desconto aparecia em meados de novembro, e a nossa conta com o MAUAD e o Pix, um desconto sobre o outro, sem o frete."
+        ],
+        "comparisonTable": {
+          "caption": "Panelas Le Creuset Signature na coleção de promoção da Let's Eat It, na nossa leitura de novembro: preço cheio, preço na promoção e conta com o cupom MAUAD (5%) e o Pix (5%), sem o frete.",
+          "headers": [
+            "Panela e capacidade",
+            "Preço cheio",
+            "Na promoção",
+            "Com MAUAD e Pix"
+          ],
+          "rows": [
+            [
+              "Redonda 20 cm, 2,4 L",
+              "R$ 2.329",
+              "R$ 1.746,75",
+              "R$ 1.576,44"
+            ],
+            [
+              "Redonda 22 cm, 3,3 L",
+              "R$ 2.619",
+              "R$ 1.964,25",
+              "R$ 1.772,74"
+            ],
+            [
+              "Redonda 24 cm, 4,2 L",
+              "R$ 2.949",
+              "R$ 2.211,75",
+              "R$ 1.996,10"
+            ],
+            [
+              "Redonda 26 cm, 5,3 L",
+              "R$ 3.089",
+              "R$ 2.316,75",
+              "R$ 2.090,87"
+            ],
+            [
+              "Caçarola Buffet 30 cm, 3,5 L",
+              "R$ 2.999",
+              "R$ 2.249,25",
+              "R$ 2.029,95"
+            ],
+            [
+              "Oval 31 cm, 6,3 L",
+              "R$ 3.399",
+              "R$ 2.549,25",
+              "R$ 2.300,70"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Redonda de 20 cm:** a de entrada, para porções pequenas e acompanhamentos. Na promoção nas cores Azure, Bleu Riviera e Flint.",
+          "**Redonda de 22 cm:** R$ 217,50 a mais que a de 20 cm por quase 1 litro extra. Na promoção nas cores Sage, Camomille, Bleu Riviera e Rhone.",
+          "**Redonda de 24 cm:** o tamanho intermediário, com 4,2 L. Com 25%, só na cor Camomille; na cor Sea Salt, o desconto é de 15%, a R$ 2.506,65.",
+          "**Redonda de 26 cm:** para quem cozinha em quantidade ou recebe. Na promoção nas cores Chambray, Rhone e Artichaut.",
+          "**Caçarola Buffet de 30 cm:** baixa e larga, vai do fogão à mesa. Na promoção na cor Sage.",
+          "**Oval de 31 cm:** o formato para peças inteiras de carne e aves. Na promoção nas cores Sage e Rhone."
+        ],
+        "postParagraphs": [
+          "Cor fora da promoção custa o preço cheio: se a cor importa mais que o desconto, compare as duas contas antes de decidir. Peça marcada como pré-venda tem prazo de envio próprio, informado na página do produto.",
+          "Como escolher o tamanho está em [Le Creuset 20 ou 24 cm: qual tamanho escolher (e quando o buffet faz sentido)](/reviews/le-creuset-qual-tamanho-escolher). Os cuidados de uso estão em [Le Creuset vale a pena? Indução, forno, lava-louças e queimado](/reviews/le-creuset-vale-a-pena), e como reconhecer a peça, em [Le Creuset original: como saber e onde comprar](/reviews/le-creuset-original-como-saber)."
         ]
       },
       {
@@ -55372,20 +55438,91 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Com o aparelho de jantar de 30 peças a R$ 868 em outubro, é esse o número a comparar na campanha, e não a porcentagem do selo."
+          "Em meados de novembro, os aparelhos de 30 peças da linha Orgânico nas cores Preto Matte e Petroleum aparecem a R$ 756,84, e os das linhas Arauco, Bio Oceano, Bio Latte e Bio Breeze, a R$ 778,84: os dois preços estão abaixo dos de outubro. Os aparelhos Orgânico Gold seguem a R$ 2.049,90 e o jogo de 6 pratos multiuso Linho, a R$ 288,90, sem mudança."
+        ]
+      },
+      {
+        "heading": "Mesa posta: aparelho completo, jogo de pratos, faqueiro e taças",
+        "paragraphs": [
+          "Na mesa posta, a pergunta que define a compra é quanto você precisa repor: a mesa inteira, só os pratos ou só os talheres. Os preços são os da nossa leitura de novembro, e a última conta aplica o MAUAD e o Pix, sem o frete."
+        ],
+        "comparisonTable": {
+          "caption": "Mesa posta na Let's Eat It na nossa leitura de novembro: preço do site e conta com o cupom MAUAD (5%) e o Pix (5%), sem o frete.",
+          "headers": [
+            "Peça",
+            "Preço no site",
+            "Com MAUAD e Pix"
+          ],
+          "rows": [
+            [
+              "Aparelho Porto Brasil Stoneware Orgânico, 30 peças",
+              "R$ 756,84",
+              "R$ 683,05"
+            ],
+            [
+              "Aparelho Porto Brasil Stoneware Bio, 30 peças",
+              "R$ 778,84",
+              "R$ 702,90"
+            ],
+            [
+              "Jogo de 6 pratos rasos Porto Brasil Orgânico, 26,5 cm",
+              "R$ 285,90",
+              "R$ 258,02"
+            ],
+            [
+              "Faqueiro La Maison, 24 peças",
+              "R$ 389,00",
+              "R$ 351,07"
+            ],
+            [
+              "Faqueiro Laguiole La Maison Luxo, 12 peças",
+              "R$ 469,00",
+              "R$ 423,27"
+            ],
+            [
+              "Faqueiro Laguiole La Maison Luxo, 30 peças",
+              "R$ 1.099,00",
+              "R$ 991,85"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Aparelho de 30 peças:** traz 6 pratos rasos, 6 de sobremesa, 6 fundos, 6 xícaras e 6 pires. Para quem vai montar a mesa do zero, sai por menos que os três jogos de pratos comprados à parte, que somavam R$ 788,70 sem as xícaras.",
+          "**Jogo de 6 pratos:** para quem só precisa repor um tipo de prato. O de sobremesa da linha Bio estava a R$ 236,90 e o de pratos fundos, a R$ 265,90.",
+          "**Aparelho de 16 peças:** o Bio Latte de 16 peças estava a R$ 659,00. Por peça, custa mais que o de 30; faz sentido para mesa de 4 lugares e pouco espaço no armário.",
+          "**Faqueiro La Maison:** 12 peças por R$ 199,00 e 24 peças por R$ 389,00, em aço inox, em várias cores de cabo. É o caminho de menor preço para 6 lugares.",
+          "**Faqueiro Laguiole La Maison Luxo:** 12, 18 ou 30 peças, por R$ 469,00, R$ 729,00 e R$ 1.099,00. Os preços são os mesmos do fim de outubro, e a maior parte das cores estava em pré-venda.",
+          "**Taças da Linha Sintonia:** o jogo de 6 taças para água de base geométrica Trio, de 400 ml, estava a R$ 499,00, e o Trésor incolor, de 515 ml, a R$ 519,00. Os jogos de base esfera da linha Pure apareciam em pré-venda."
+        ],
+        "postParagraphs": [
+          "Várias cores de aparelho apareciam como esgotadas na nossa leitura, e o Bio Breeze, em pré-venda: confira a disponibilidade da cor na página antes de planejar a mesa em torno dela.",
+          "Os guias de cada peça: [Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno](/reviews/porto-brasil-e-boa), [Faqueiro Laguiole La Maison: qual escolher (12, 18 ou 30 peças)](/reviews/faqueiro-laguiole-la-maison-qual-escolher), [Taça base esfera: conjunto ou unidade, e qual cor escolher](/reviews/taca-base-esfera-e-tacas-coloridas), [Jogo americano de tecido: qual tamanho e cor escolher](/reviews/jogo-americano-tecido-tamanho-cor) e [Guardanapo de tecido: quantos por pessoa e qual tamanho escolher](/reviews/guardanapo-de-tecido-quantos-tamanho). Para a mesa completa, [Mesa posta de Natal: o que precisa, quanto custa e como montar](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) e [Mesa posta do dia a dia: o que comprar primeiro](/reviews/mesa-posta-dia-a-dia-o-que-comprar)."
+        ]
+      },
+      {
+        "heading": "Presentes Le Creuset por faixa de preço",
+        "bullets": [
+          "**Até R$ 150: Caneca de cerâmica de 400 ml.** R$ 132,30 na promoção, com 30% OFF. Na nossa sacola, o MAUAD levou o preço a R$ 125,69, e com o Pix a conta chega a R$ 119,40.",
+          "**Até R$ 200: Mini Cocotte de cerâmica de 250 ml.** R$ 167,30 na promoção, R$ 150,99 com MAUAD e Pix. Vai à mesa como porção individual.",
+          "**Até R$ 500: Travessa retangular Heritage de 32 cm.** R$ 496,30 na promoção, R$ 447,91 com MAUAD e Pix."
+        ],
+        "postParagraphs": [
+          "Em presente pequeno, o frete pesa: a caneca sozinha pagou R$ 40,90 de frete para a capital paulista no nosso teste. Compare o total entregue antes de fechar. Parte das cores da caneca e da mini cocotte estava em pré-venda; se o presente tem data, escolha uma cor em estoque."
         ]
       },
       {
         "heading": "Pix, cashback e cupom: o que soma",
         "bullets": [
           "**Pix:** a página do produto dá 5% de desconto nas compras por Pix.",
-          "**Cashback:** a faixa da Black Friday anuncia 15% de cashback; em outubro, a loja anunciava 30%. Pela página do cashback, depois da compra a loja manda pelo WhatsApp um cupom com esse valor, válido por 30 dias, que só entra numa compra de pelo menos 7 vezes o valor do cupom, sem contar o frete (um trecho da mesma página fala em 5 vezes). Na prática, um cashback de R$ 150 pede uma compra de R$ 1.050 e vira cerca de 14% de desconto nela.",
-          "**Cashback e a sexta:** pela página do cashback, o cupom só pode ser usado a partir de 7 dias depois da compra que o gerou e vale 30 dias. Para usar o cashback na sexta da Black Friday, a compra que o gera precisa ser feita pelo menos 7 dias antes; uma compra na semana da data gera um cupom que só vale depois dela. Os termos estão na página do cashback.",
-          "**Cupom:** o MAUAD dá 5% OFF em todo o site, com todas as formas de pagamento. Ele foi aceito num carrinho com item em promoção e item em pré-venda, e o desconto saiu do subtotal, antes do frete.",
-          "**Cupom e Black November:** somam. No nosso teste com a campanha no ar, o Bowl Porcelana Dubai, a R$ 102,90 na coleção Black November, caiu para R$ 97,76 com o MAUAD.",
-          "**Pix com o cupom:** os dois somam. Na panela Redonda Signature de 20 cm, a R$ 1.746,75 com os 25% da promoção, o MAUAD tira R$ 87,34, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 1.576,44, sem o frete. O resumo do checkout mostra o valor exato antes de pagar.",
-          "**O que não confirmamos:** se o cupom do cashback e o MAUAD entram no mesmo pedido. A página do cashback manda consultar as condições do dia, e o checkout mostra o total antes de pagar.",
-          "**Frete:** frete grátis só para Le Creuset e Zwilling, em pedidos acima de R$ 1.000 em produtos dessas marcas, segundo a política de frete da loja. No resto, o frete é calculado pelo CEP e pelo peso do pedido: confira o valor no carrinho antes de pagar."
+          "**Cupom:** o MAUAD dá 5% OFF em todo o site, com todas as formas de pagamento. Em meados de novembro, ele entrou sobre o preço de promoção de uma panela Le Creuset e de uma caneca, e o desconto saiu do subtotal, antes do frete.",
+          "**Pix com o cupom:** os dois somam. Na panela Redonda Signature de 20 cm, a R$ 1.746,75 com os 25% da promoção, o MAUAD tirou R$ 87,33 na sacola, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 1.576,44, sem o frete. O resumo do checkout mostra o valor exato antes de pagar.",
+          "**Cashback:** vale para a compra seguinte e fica fora da conta do preço pago agora. As condições da página do cashback:",
+          "**1. Valor:** 15% do total da compra, em cupom enviado pelo WhatsApp cadastrado.",
+          "**2. Quando usar:** só a partir de 7 dias depois da compra que gerou o cupom.",
+          "**3. Validade:** 30 dias. No exemplo da própria página, o prazo corre desde a compra.",
+          "**4. Pedido mínimo:** a compra seguinte precisa ser de pelo menos 7 vezes o valor do cupom, em produtos, sem contar o frete. Um cashback de R$ 150 pede uma compra de R$ 1.050 e equivale a cerca de 14% dela.",
+          "**5. Com o MAUAD:** a página manda consultar as condições vigentes no momento da compra para combinar o cashback com outros cupons. Não confirmamos se os dois entram no mesmo pedido.",
+          "**Frete:** confira o frete para o produto e o CEP escolhidos e compare o total entregue, incluindo eventual campanha de frete grátis. No nosso teste para a capital paulista, a panela de 20 cm, a R$ 1.746,75, pagou R$ 77,40 de frete, e a caneca, R$ 40,90."
         ],
         "links": [
           {
@@ -55405,7 +55542,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "É uma estimativa, não uma garantia: se puder, peça antes. A loja não tem entrega expressa e não deixa retirar pedidos do site na Casa Let's.",
-          "Se o presente for para outra pessoa, a troca ou devolução pode ser pedida em até 30 dias do recebimento, inclusive de item comprado em promoção, com etiqueta de devolução paga pela loja. Em São Paulo, dá para trocar na hora na Casa Let's."
+          "Na troca, são dois prazos de origens diferentes. O direito de arrependimento, do artigo 49 do Código de Defesa do Consumidor, dá 7 dias corridos a partir do recebimento para desistir de uma compra feita pela internet, sem precisar de motivo. Os 30 dias são da política de reembolso e trocas da loja, lida em novembro: vale para produto sem uso e na embalagem original, inclusive item comprado em promoção, com etiqueta de devolução enviada pela loja. Itens personalizados ou sob encomenda ficam fora.",
+          "A página de frete da própria loja fala em 7 dias para troca ou devolução. Se o presente for para outra pessoa e você conta com os 30 dias, confirme o prazo com o atendimento antes de comprar. Em São Paulo, dá para trocar na hora na Casa Let's."
         ]
       },
       {
@@ -55420,8 +55558,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Peça frágil:** a loja embala porcelana, cristal, vidro e cerâmica um a um e repõe de graça o que chegar quebrado. Para isso, ela pede fotos do produto e da embalagem pelo WhatsApp ou e-mail, então fotografe a caixa ao receber.",
           "**Rastreio:** o código chega por WhatsApp e e-mail depois do envio. \"Produto não recebido\" é um dos problemas mais citados no Reclame Aqui da loja: acompanhe o pedido e fale com a loja assim que o prazo passar.",
-          "**Pré-venda:** em outubro, várias peças Le Creuset estavam em pré-venda. Se o presente tem data, prefira o que está em estoque.",
-          "**Compare com as tabelas de outubro** antes de se guiar pelo selo de desconto: o \"até 60%\" da Porto Brasil é o mesmo de antes da campanha."
+          "**Pré-venda:** parte das peças Le Creuset, dos faqueiros e das taças está em pré-venda, com prazo de envio próprio na página do produto. Se o presente tem data, prefira o que está em estoque.",
+          "**Compare com as tabelas de outubro** antes de se guiar pelo selo de desconto: o percentual é sobre o preço riscado, e o que mostra a mudança é o preço do dia contra o de outubro."
         ],
         "links": [
           {
@@ -55434,15 +55572,17 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Let's Eat It? Já começou: a home traz a coleção Best Sellers - Black Friday, com Le Creuset de 15% a 50% OFF, Porto Brasil até 60%, La Maison até 70% e Natal de 20% a 60%. A Black Friday é na última sexta-feira de novembro, e a loja não publica a data de fim da campanha.",
-          "Le Creuset fica mais barata na Black Friday? Fica. A coleção Promoção Le Creuset traz peças de 15% a 50% OFF, a maioria com 30%; os 50% ficam em utensílios de silicone. A panela Redonda Signature de 20 cm, que em outubro estava a R$ 2.329, o preço cheio, aparece por R$ 1.746,75.",
+          "Le Creuset fica mais barata na Black Friday? Fica, nas peças e cores da coleção de promoção. Quase todas as panelas Signature têm 25% OFF: a Redonda de 20 cm, que em outubro estava a R$ 2.329, o preço cheio, aparece por R$ 1.746,75, e a de 24 cm, de R$ 2.949 por R$ 2.211,75.",
           "Panelas Le Creuset em promoção valem a pena? Compare o preço do dia com o preço cheio da tabela deste guia. Em outubro, as promoções da Let's Eat It eram de 15% a 33% e ficavam numa seleção de peças e cores; na Black Friday, a coleção de promoção vai de 15% a 50%, e a maioria das panelas Signature tem 25%.",
-          "A Let's Eat It tem frete grátis? Só em casos específicos: a política de frete cita Le Creuset e Zwilling em pedidos acima de R$ 1.000 em produtos dessas marcas. No resto, o frete é calculado pelo CEP e pelo peso do pedido, e o carrinho mostra o valor. O envio da devolução sai por conta da loja.",
+          "Qual tamanho de panela Le Creuset comprar na Black Friday? Escolha pela capacidade: a Redonda de 20 cm tem 2,4 L, a de 22 cm, 3,3 L, a de 24 cm, 4,2 L, e a de 26 cm, 5,3 L. Na promoção, vão de R$ 1.746,75 a R$ 2.316,75, e o desconto depende da cor.",
+          "O aparelho de jantar Porto Brasil está mais barato que em outubro? Está. Os aparelhos de 30 peças que custavam R$ 868 e R$ 839 em outubro aparecem a R$ 756,84 e R$ 778,84 em meados de novembro, conforme a linha. Confira se a cor está disponível.",
+          "A Let's Eat It tem frete grátis? Confira o frete para o produto e o CEP escolhidos e compare o total entregue, incluindo eventual campanha de frete grátis. A política de frete diz que o valor é calculado pelo CEP e pelo peso. No nosso teste para a capital paulista, uma panela Le Creuset de R$ 1.746,75 pagou R$ 77,40.",
           "Tem cupom de primeira compra na Let's Eat It? Use o MAUAD, que dá 5% OFF em todo o site. A loja não divulga outro cupom de boas-vindas.",
           "O cupom MAUAD vale na Black Friday? Vale. O cupom Let’s Eat It MAUAD dá 5% OFF e soma com os preços da Black November: no nosso teste, o cupom entrou sobre o preço da campanha.",
           "O cupom MAUAD soma com o desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% da loja: pela nossa conta, a panela Redonda Signature de 20 cm, a R$ 1.746,75 na promoção, sai por R$ 1.576,44, sem o frete.",
-          "O cashback da Let's Eat It vale na Black Friday? A faixa da campanha anuncia 15% de cashback. O cupom só pode ser usado a partir de 7 dias depois da compra que o gerou, vale 30 dias, e a nova compra precisa ser de pelo menos 7 vezes o valor do cupom. Para usar na sexta da Black Friday, a compra que gera o cupom precisa ser de pelo menos 7 dias antes; os termos estão na página do cashback.",
+          "O cashback da Let's Eat It vale na Black Friday? A compra gera um cupom de 15% do valor, enviado pelo WhatsApp, que não reduz o preço pago agora. Ele só pode ser usado a partir de 7 dias depois da compra, vale 30 dias, e a nova compra precisa ser de pelo menos 7 vezes o valor do cupom, sem contar o frete. A combinação com o MAUAD depende das condições do dia.",
           "A Let's Eat It tem loja física? Tem a Casa Let's, na Av. Pacaembu, 1105, em São Paulo, com 15% de desconto nas compras presenciais, exceto Le Creuset e Trussardi. Ela não faz retirada de pedidos do site.",
-          "Até quando comprar para chegar antes do Natal? Pela nossa estimativa, com a separação do pedido, os 10 dias úteis do prazo mais longo depois do despacho e um dia útil de folga, a data limite cai no começo de dezembro. Confirme a previsão para o seu CEP, pois os prazos podem mudar em períodos promocionais."
+          "Até quando comprar para chegar antes do Natal? Pela nossa estimativa, com a separação do pedido, os 10 dias úteis do prazo mais longo depois do despacho e um dia útil de folga, a data limite cai no começo de dezembro. Confirme a previsão para o seu CEP, pois os prazos podem mudar em períodos promocionais, e evite item em pré-venda."
         ]
       }
     ],
@@ -79752,8 +79892,8 @@ export const reviewsData: unknown[] = [
     "id": 436,
     "slug": "black-friday-black-skull",
     "bodyDatesReason": "campanha",
-    "title": "Black Friday Black Skull 2026: a Black November já começou, desconto progressivo e o cupom CECILIA10",
-    "seoTitle": "Black Friday Black Skull 2026: Black November e CECILIA10",
+    "title": "Black Friday Black Skull 2026: qual whey, creatina e pré-treino comprar e quanto fica com o CECILIA10",
+    "seoTitle": "Black Friday Black Skull 2026: o que comprar e CECILIA10",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -79764,11 +79904,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black November da Black Skull está no ar, com progressivo de 15% a 25% e frete grátis conforme a região. Veja preços de outubro de whey e creatina e como o CECILIA10 entra.",
-    "metaDescription": "O cupom CECILIA10 dá 10% OFF na Black Skull. Black November 2026: preços de outubro, frete por região e progressivo anunciado pela loja.",
+    "description": "A Black November da Black Skull tem desconto por produto. Veja qual whey, creatina e pré-treino escolher, o preço com o CECILIA10 e o frete grátis por região.",
+    "metaDescription": "O cupom CECILIA10 dá 10% OFF na Black Skull. Black November 2026: qual whey, creatina e pré-treino comprar, a conta com o código e o frete por região.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/black-skull/black-friday-black-skull-capa-v2.webp",
@@ -79776,39 +79916,180 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "A Black November já está no ar, com desconto progressivo de 15% a 25% conforme o número de produtos",
-      "O CECILIA10 dá 10% em todo o site e somou com as promoções de outubro; no progressivo, confira a linha Descontos",
-      "Em outubro, a Creatina Creator 300 g saía por R$ 29,90, contra R$ 49,90 do preço de lista",
+      "O CECILIA10 deu 10% em todos os produtos da campanha que colocamos na sacola",
+      "O Whey 80% HD Refil de 900 g caiu de R$ 159,90 em outubro para R$ 139,90, e o Whey 100% HD de 1,8 kg, de R$ 279,90 para R$ 239,90",
+      "A Creatina Creator em refil de 500 g sai por R$ 35,91 com o código, R$ 0,36 por porção de 5 g",
       "O cupom vale em todas as formas de pagamento, com cartão em até 8 vezes sem juros e Pix parcelado em 4 vezes",
       "Frete grátis acima de R$ 199,90 no Sul e no Sudeste",
       "Arrependimento de 7 dias corridos, com o envio pago pela loja"
     ],
     "cons": [
-      "O progressivo só vale nos produtos da página da campanha, e a loja não publicou a data de fim",
-      "A troca comum tem frete de ida e de volta pago por quem comprou",
-      "A loja não anuncia desconto próprio no Pix",
-      "Frete grátis só acima de R$ 299,90 nas demais regiões",
-      "Em item da campanha de Black Friday, confira na sacola o valor abatido pelo cupom"
+      "O desconto progressivo anunciado no começo do mês não entrou nos nossos carrinhos de novembro",
+      "A loja não publicou a data de fim da campanha",
+      "O mínimo do frete grátis conta depois do cupom, e o desconto pode tirar o pedido da faixa",
+      "O Pix não tem desconto próprio: o total foi o mesmo do cartão",
+      "A troca comum tem frete de ida e de volta pago por quem comprou"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida: Black Friday Black Skull 2026",
         "paragraphs": [
-          "A Black November da Black Skull já está no ar, com desconto progressivo (2 produtos dão 15%, 3 dão 20% e 4 ou mais, 25%) e frete grátis anunciado. O CECILIA10 dá 10% em todo o site e somou com as promoções testadas em outubro; no progressivo, confira a linha de descontos na sacola antes de pagar."
+          "A Black November da Black Skull segue no ar, agora com desconto por produto: o progressivo anunciado no começo do mês não entrou nos nossos carrinhos. O CECILIA10 dá 10% em todo o site e somou com os preços da campanha. Entre os wheys que conferimos, o Whey 80% HD Refil tem o menor custo por proteína."
         ]
       },
       {
         "heading": "O que está no ar na Black November da Black Skull",
         "paragraphs": [
-          "A Black November da Black Skull já começou. A página da campanha, blackfriday2026 no site oficial, diz que \"quanto mais você leva, maior o desconto\": 2 produtos dão 15%, 3 dão 20% e 4 ou mais, 25%. O desconto entra sozinho no carrinho, vale também para mais de uma unidade do mesmo produto e só para os produtos daquela página. Alguns produtos ainda aparecem com preço riscado e selos de 33% a 40%, e a página não diz se as faixas somam com eles. A mesma página anuncia frete grátis para todo o Brasil, com a ressalva \"consulte as regras\".",
-          "A loja não publicou a data de fim. A página de Black Friday da loja diz que a data \"acontece na última sexta-feira de novembro\", que em 2026 é 27 de novembro, e que as ofertas ficam disponíveis durante todo o mês.",
-          "Na prática: escolha os produtos na página da campanha e veja a linha \"Descontos\" antes de pagar: com 2 itens ou mais, a faixa aparece ali. O desconto progressivo é da loja; o CECILIA10 é outro desconto, do campo do cupom, e o que ele faz na sacola está na seção do cupom, abaixo."
+          "A Black November da Black Skull segue no ar. No começo do mês, a página da campanha, blackfriday2026 no site oficial, anunciava desconto progressivo: 2 produtos davam 15%, 3 davam 20% e 4 ou mais, 25%. Em meados de novembro, a mesma página lista os produtos com desconto individual, com selos de 22% a 40% sobre o preço riscado, e o texto do progressivo saiu. Montamos uma sacola com 2 produtos da campanha e outra com 4: nenhum desconto automático entrou.",
+          "A página segue anunciando frete grátis para todo o Brasil, com a ressalva \"consulte as regras\". A loja não publicou a data de fim. A página de Black Friday diz que a data \"acontece na última sexta-feira de novembro\", que em 2026 é 27 de novembro, e que as ofertas ficam disponíveis durante todo o mês.",
+          "Na prática, o preço que vale é o da página do produto, e o CECILIA10 entra por cima dele no campo do cupom. As três seções seguintes mostram o que escolher em whey, creatina e pré-treino, com o preço que vimos na sacola."
+        ]
+      },
+      {
+        "heading": "Whey: qual levar pelo custo da proteína",
+        "paragraphs": [
+          "A embalagem de 900 g não entrega a mesma quantidade de proteína em todos os wheys da marca: a porção e a proteína por porção mudam de um para o outro. Por isso a comparação abaixo usa o custo por 100 g de proteína, calculado com a porção e a proteína da tabela nutricional e o preço já com o CECILIA10."
+        ],
+        "comparisonTable": {
+          "caption": "Wheys da Black Skull na nossa leitura de novembro: preço do site, preço com o CECILIA10 na sacola e custo por 100 g de proteína, pela tabela nutricional de cada um.",
+          "headers": [
+            "Whey e proteína por porção",
+            "No site → com o código",
+            "Por porção",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "Whey 80% HD Refil 900 g: 23 g em 30 g",
+              "R$ 139,90 → R$ 125,91",
+              "R$ 4,20",
+              "R$ 18,25"
+            ],
+            [
+              "Whey 100% HD Refil 900 g: 21 g em 35 g",
+              "R$ 114,90 → R$ 103,41",
+              "R$ 4,02",
+              "R$ 19,15"
+            ],
+            [
+              "Whey 100% HD 1,8 kg: 21 g em 35 g",
+              "R$ 239,90 → R$ 215,91",
+              "R$ 4,20",
+              "R$ 19,99"
+            ],
+            [
+              "Whey 100% HD Pote 900 g: 21 g em 35 g",
+              "R$ 124,90 → R$ 112,41",
+              "R$ 4,37",
+              "R$ 20,82"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Whey 80% HD Refil:** a escolha principal. Tem a maior concentração de proteína da tabela e o menor custo por 100 g de proteína. Em outubro custava R$ 159,90; o preço melhorou.",
+          "**Whey 100% HD Refil:** a alternativa de menor desembolso. O pacote custa menos, mas a porção é maior e rende menos proteína, então o custo por proteína fica um pouco acima. Estava a R$ 139,90 em outubro.",
+          "**Whey 100% HD de 1,8 kg:** para quem já usa esse whey e quer comprar menos vezes. A proteína sai mais cara que em dois refis de 900 g, mas o pedido passou do mínimo do frete grátis em São Paulo mesmo com o cupom.",
+          "**Pote ou refil:** o conteúdo é o mesmo. O pote custa R$ 10 a mais e faz sentido para quem não tem onde guardar o refil."
+        ],
+        "postParagraphs": [
+          "Três produtos de nome parecido ficam fora dessa conta porque entregam menos proteína por porção. O Whey Gourmet tem 12 g de proteína em 30 g e custava R$ 95,90 no refil de 900 g. O Whey Protein (WPI, WPC, WPH) em refil tem 11 g em 25 g, a R$ 99,90. O Whey Turbo é um hipercalórico: a porção é de 120 g, com 30 g de proteína e 75 g de carboidrato, a R$ 59,40 no refil de 907 g. Todos os wheys desta seção trazem o aviso \"Contém lactose\" no rótulo.",
+          "Sabores, versões e a tabela completa estão em [Whey Black Skull: qual escolher entre 80% HD, 100% HD, 3W Core, Gourmet e Turbo](/reviews/whey-black-skull-qual-escolher). Para quem procura ganho calórico, o guia é [Hipercalórico Black Skull: Masstodon 3 kg ou Monstrous 2,7 kg](/reviews/hipercalorico-black-skull-qual-escolher)."
+        ]
+      },
+      {
+        "heading": "Creatina: Creator, Creatine ou Creatine Turbo",
+        "paragraphs": [
+          "A marca vende três creatinas em pó, e a diferença que pesa na compra está na porção. A Creator e a Creatine têm porção de 5 g de creatina monohidratada. A Creatine Turbo tem porção de 10 g: 5 g de creatina e 5 g de carboidrato (maltodextrina), o que reduz o número de porções do pote pela metade."
+        ],
+        "comparisonTable": {
+          "caption": "Creatinas da Black Skull na nossa leitura de novembro: preço do site, preço com o CECILIA10 na sacola e custo por porção do rótulo.",
+          "headers": [
+            "Creatina e porções",
+            "No site → com o código",
+            "Por porção"
+          ],
+          "rows": [
+            [
+              "Creator Refil 500 g: 100 porções de 5 g",
+              "R$ 39,90 → R$ 35,91",
+              "R$ 0,36"
+            ],
+            [
+              "Creator Pote 300 g: 60 porções de 5 g",
+              "R$ 29,90 → R$ 26,91",
+              "R$ 0,45"
+            ],
+            [
+              "Creatine Pote 300 g: 60 porções de 5 g",
+              "R$ 49,90 → R$ 44,91",
+              "R$ 0,75"
+            ],
+            [
+              "Creatine Turbo Pote 300 g: 30 porções de 10 g",
+              "R$ 39,90 → R$ 35,91",
+              "R$ 1,20"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Creator Refil 500 g:** a escolha principal, com o menor custo por porção. O refil vem sem dosador: quem não tem a colher medida de um pote anterior precisa de uma balança de cozinha.",
+          "**Creator Pote 300 g:** para quem está começando e quer o pote com dosador. O preço é o mesmo de outubro.",
+          "**Creatine 300 g:** mesma porção de 5 g, por um preço maior. Subiu de R$ 41,90 em outubro para R$ 49,90.",
+          "**Creatine Turbo:** só para quem quer a creatina já misturada com carboidrato. Cada porção custa mais que o triplo da porção do refil da Creator."
+        ],
+        "postParagraphs": [
+          "Nenhuma das três traz o selo Creapure. A comparação pelo rótulo e a conta por grama estão em [Creatina Black Skull: Creator, Creatine ou Turbo, qual escolher e qual pote compensa](/reviews/creatina-black-skull-qual-escolher)."
+        ]
+      },
+      {
+        "heading": "Pré-treino: BOPE, Bone Crusher ou Legacy",
+        "paragraphs": [
+          "Os três pré-treinos têm cafeína, e a marca não vende versão sem ela. O que muda é a quantidade de cada ingrediente por porção e o tamanho da porção: 7,5 g no BOPE e no Bone Crusher, 10 g no Legacy."
+        ],
+        "comparisonTable": {
+          "caption": "Pré-treinos da Black Skull na nossa leitura de novembro, pela tabela do rótulo de cada um e pelo preço com o CECILIA10 na sacola.",
+          "headers": [
+            "Pré-treino de 300 g",
+            "Cafeína e beta-alanina por porção",
+            "No site → com o código",
+            "Por porção"
+          ],
+          "rows": [
+            [
+              "BOPE: 40 porções de 7,5 g",
+              "135 mg e 750 mg",
+              "R$ 64,90 → R$ 58,41",
+              "R$ 1,46"
+            ],
+            [
+              "Bone Crusher: 40 porções de 7,5 g",
+              "140 mg e 2 g",
+              "R$ 69,90 → R$ 62,91",
+              "R$ 1,57"
+            ],
+            [
+              "Legacy: 30 porções de 10 g",
+              "200 mg e 2 g",
+              "R$ 71,30 → R$ 64,17",
+              "R$ 2,14"
+            ]
+          ]
+        },
+        "bullets": [
+          "**BOPE:** o menor custo por porção e a menor dose de beta-alanina dos três. Tem também 3 g de creatina por porção.",
+          "**Bone Crusher:** cafeína quase igual à do BOPE, com 2 g de beta-alanina e 3 g de creatina. O preço é o mesmo de outubro.",
+          "**Legacy:** a maior dose de cafeína por porção e a porção mais cara, com 2 g de creatina.",
+          "**Potes de 150 g:** o BOPE sai por R$ 31,41 e o Bone Crusher por R$ 40,41 com o código. São a quantidade para provar um sabor, com a porção mais cara que no pote de 300 g."
+        ],
+        "postParagraphs": [
+          "O BOPE e o Bone Crusher já levam 3 g de creatina por porção: quem usa creatina à parte deve somar as duas fontes na conta do dia. A tabela completa dos rótulos está em [Pré-treino Black Skull: BOPE ou Bone Crusher, pela tabela do rótulo e pelo preço por dose](/reviews/pre-treino-black-skull-bope-ou-bone-crusher).",
+          "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
         ]
       },
       {
         "heading": "Preços de outubro para comparar",
         "paragraphs": [
-          "O jeito mais seguro de saber se a oferta de novembro é boa é ter o preço de antes. Estes são os preços que o catálogo da loja mostrava em 14 de outubro de 2026. Onde há desconto, o preço de lista aparece ao lado do preço de outubro. Os dois valores são anteriores ao cupom CECILIA10."
+          "O jeito mais seguro de avaliar a oferta é comparar o preço atual com o registrado em outubro. A primeira coluna de preço traz o que o catálogo da loja mostrava em 14 de outubro de 2026, e a segunda, o que vimos em meados de novembro. Os dois valores são anteriores ao cupom CECILIA10."
         ],
         "image": {
           "src": "/images/reviews/black-skull/black-friday-black-skull-home-whey.webp",
@@ -79818,87 +80099,87 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "comparisonTable": {
-          "caption": "Preços da Black Skull: preço de lista e preço de outubro, antes do cupom CECILIA10. Não é cotação atual.",
+          "caption": "Preços da Black Skull em outubro e em meados de novembro, antes do cupom CECILIA10. Não é cotação atual.",
           "headers": [
             "Produto",
-            "Preço de lista",
-            "Preço em outubro"
+            "Em outubro",
+            "Em novembro",
+            "Resultado"
           ],
           "rows": [
             [
-              "Whey 100% HD 1,8 kg, baunilha",
-              "sem desconto",
-              "R$ 279,90"
+              "Whey 100% HD 1,8 kg",
+              "R$ 279,90",
+              "R$ 239,90",
+              "Melhorou"
             ],
             [
               "Whey 100% HD refil 900 g",
-              "sem desconto",
-              "R$ 139,90"
+              "R$ 139,90",
+              "R$ 114,90",
+              "Melhorou"
             ],
             [
               "Whey Turbo refil 907 g",
-              "sem desconto",
-              "R$ 79,90"
+              "R$ 79,90",
+              "R$ 59,40",
+              "Melhorou"
             ],
             [
               "Kit com 2 Whey Turbo 907 g",
-              "R$ 139,80",
-              "R$ 132,81"
-            ],
-            [
-              "Combo whey 3W Core 900 g + Creator 500 g",
-              "R$ 339,80",
-              "R$ 303,81"
+              "R$ 132,81",
+              "R$ 112,86",
+              "Melhorou"
             ],
             [
               "Creatina Creator 300 g",
-              "R$ 49,90",
-              "R$ 29,90"
+              "R$ 29,90",
+              "R$ 29,90",
+              "Igual"
             ],
             [
               "Creatina Creator refil 500 g",
-              "R$ 59,90",
-              "R$ 39,90"
+              "R$ 39,90",
+              "R$ 39,90",
+              "Igual"
             ],
             [
               "Creatine 300 g",
+              "R$ 41,90",
               "R$ 49,90",
-              "R$ 41,90"
+              "Subiu"
             ],
             [
               "Pré-treino Bone Crusher 300 g",
-              "sem desconto",
-              "R$ 69,90"
+              "R$ 69,90",
+              "R$ 69,90",
+              "Igual"
             ],
             [
               "Pré-treino Bone Crusher 150 g",
-              "sem desconto",
-              "R$ 44,90"
+              "R$ 44,90",
+              "R$ 44,90",
+              "Igual"
             ],
             [
               "Pré-treino Legacy 300 g",
-              "sem desconto",
-              "R$ 71,30"
-            ],
-            [
-              "Glutamine 300 g",
-              "sem desconto",
-              "R$ 79,90"
+              "R$ 71,30",
+              "R$ 71,30",
+              "Igual"
             ]
           ]
         },
         "postParagraphs": [
-          "O kit com 2 Whey Turbo 907 g saía por R$ 132,81, contra R$ 139,80 de lista. Na creatina, o refil de 500 g do Creator saía por R$ 39,90 (cerca de R$ 0,08 por grama), e o Creator de 300 g, por R$ 29,90 (cerca de R$ 0,10 por grama).",
-          "Compare o mesmo produto, sabor, peso e quantidade, com a mesma forma de pagamento, cupom e frete. Uma oferta só é vantagem se, para o mesmo item, ficar abaixo do preço da tabela de outubro; selo de desconto sozinho não basta.",
-          "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
+          "Os wheys ficaram mais baratos que em outubro. As creatinas Creator e os pré-treinos seguem no mesmo preço, e a Creatine de 300 g subiu. Em outubro, o combo de whey 3W Core 900 g com Creator 500 g saía por R$ 303,81 e a Glutamine de 300 g, por R$ 79,90; não relemos esses dois em novembro.",
+          "Compare o mesmo produto, sabor, peso e quantidade, com a mesma forma de pagamento, cupom e frete. Selo de desconto sozinho não basta: o número que importa é o preço do dia contra o da tabela."
         ]
       },
       {
         "heading": "O CECILIA10 vale em produto em promoção?",
         "paragraphs": [
           "Vale. O **CECILIA10** dá 10% de desconto em todo o site da Black Skull, vale com todas as formas de pagamento e soma com as promoções vigentes. O desconto vem em cima do preço já reduzido, sem substituí-lo.",
-          "Numa sacola com uma regata, um kit de whey, creatina e pré-treino e uma glutamina, dois itens já apareciam com o preço antigo riscado: a regata, de R$ 129,90 por R$ 51,96, e o kit, de R$ 284,70 por R$ 232,47. O subtotal era de R$ 364,33. O cupom tirou R$ 36,44, e o total ficou em **R$ 327,89**.",
-          "Esse exemplo é de outubro, com itens em promoção, antes da Black November. A regra do cupom é somar com as promoções vigentes e com o desconto progressivo. Aplique o código na sacola e confira o valor abatido: a linha \"Descontos\" pode reunir mais de um desconto.",
+          "Em meados de novembro, aplicamos o código em wheys, creatinas e pré-treinos da página da campanha, um por vez e em conjunto: o desconto foi de 10% sobre o preço do site em todos. O Whey 80% HD Refil foi de R$ 139,90 para R$ 125,91, e a sacola com esse whey e a Creator em refil de 500 g, de R$ 179,80 para R$ 161,82.",
+          "Em outubro, numa sacola com uma regata, um kit de whey, creatina e pré-treino e uma glutamina, dois itens já apareciam com o preço antigo riscado. O subtotal era de R$ 364,33, o cupom tirou R$ 36,44, e o total ficou em **R$ 327,89**.",
           "O passo a passo do campo do cupom está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar). As condições do dia ficam na [página do cupom da Black Skull](/cupons/black-skull)."
         ],
         "image": "/images/reviews/black-skull/black-skull-cupom-03-desconto-aplicado.webp",
@@ -79910,8 +80191,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis, Pix e parcelamento",
         "paragraphs": [
-          "A campanha anuncia frete grátis para todo o Brasil, com consulta às regras. A política de entrega fixa mínimos por região, aplicados ao total depois dos descontos, então o frete grátis não vale para todo pedido: confira o do seu CEP na sacola.",
-          "Os mínimos abaixo valem para o total já com o CECILIA10. Pela nossa conta, o whey 100% HD 1,8 kg baunilha, que estava a R$ 279,90, sai por R$ 251,91 com o CECILIA10. Esse valor passa do mínimo do Sul, do Sudeste e do Centro-Oeste, mas fica abaixo dos R$ 299,90 das demais regiões. Em pedido que passa do mínimo por pouco, confira o total com o cupom aplicado antes de pagar."
+          "A campanha anuncia frete grátis para todo o Brasil, com consulta às regras. A política de entrega fixa mínimos por região, aplicados ao total depois dos descontos, então o frete grátis não vale para todo pedido.",
+          "Conferimos na sacola, com um CEP da capital paulista. O Whey 100% HD de 1,8 kg, a R$ 215,91 com o CECILIA10, seguiu com frete grátis. A sacola com o Whey 80% HD Refil e a Creator em refil de 500 g ficou em R$ 161,82 com o código, abaixo do mínimo de R$ 199,90, e pagou R$ 11,09 de frete. Em pedido que passa do mínimo por pouco, confira o total com o cupom aplicado antes de pagar: completar a sacola só para ganhar o frete compensa apenas se o item a mais já estava na sua lista."
         ],
         "comparisonTable": {
           "caption": "Frete grátis da Black Skull por região de entrega, conforme a política de entrega, com o mínimo calculado sobre o total após descontos.",
@@ -79935,13 +80216,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**Cartão de crédito:** em até 8 vezes sem juros, com parcela mínima de R$ 50. Com os R$ 251,91 do exemplo, dá até 5 parcelas, de cerca de R$ 50 cada.",
-          "**Pix:** à vista.",
+          "**Cartão de crédito:** em até 8 vezes sem juros, com parcela mínima de R$ 50.",
+          "**Pix:** à vista, sem desconto próprio. Nas nossas sacolas, o total no Pix foi o mesmo do cartão.",
           "**Pix parcelado:** em 4 vezes sem juros.",
           "**Boleto:** só à vista."
         ],
         "postParagraphs": [
-          "O CECILIA10 vale em todas essas formas de pagamento. A loja não anuncia desconto próprio no Pix."
+          "O CECILIA10 vale em todas essas formas de pagamento."
         ]
       },
       {
@@ -79975,6 +80256,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
+          "São duas regras diferentes. O arrependimento de 7 dias corridos é direito de quem compra pela internet, previsto no artigo 49 do Código de Defesa do Consumidor, e não depende de motivo. A troca comum em 30 dias é política da loja, com as condições que ela define na página de trocas.",
           "Os prazos contam do recebimento, não do Natal. Um pedido entregue no começo de dezembro tem arrependimento de 7 dias corridos, que acaba antes do Natal, e pedido de troca comum em até 30 dias corridos da entrega.",
           "O ponto que mais pesa para quem dá presente é o sabor errado: a troca comum não é gratuita, e o frete de ida e de volta sai do bolso de quem comprou. Se o presente for suplemento, escolher o sabor com a pessoa antes evita essa conta. O pedido de troca vai para o e-mail da loja, e os detalhes, junto com CNPJ e site oficial, estão em [Black Skull é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/black-skull-e-confiavel)."
         ]
@@ -79982,13 +80264,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Black Skull? A Black November já começou, com desconto progressivo de 15% a 25% nos produtos da página da campanha. A página da loja diz que as ofertas ficam disponíveis durante todo o mês e que a Black Friday acontece na última sexta-feira de novembro; a loja não informa data de fim.",
+          "Quando começa e quanto dura a Black Friday da Black Skull? A Black November já começou, com desconto por produto na página da campanha. A página da loja diz que as ofertas ficam disponíveis durante todo o mês e que a Black Friday acontece na última sexta-feira de novembro; a loja não informa data de fim.",
+          "A Black Skull ainda tem desconto progressivo? No começo de novembro, a página da campanha anunciava de 15% a 25% conforme o número de produtos. Em meados do mês, o texto saiu da página, e nossas sacolas com 2 e com 4 produtos da campanha não receberam desconto automático. O que vale é o preço da página de cada produto.",
           "Qual é o cupom da Black Skull na Black Friday? O CECILIA10, 10% em todo o site, em todas as formas de pagamento. É o mesmo código do resto do ano, e as condições do dia ficam na página do cupom da Black Skull.",
-          "O cupom CECILIA10 vale na Black Friday? Vale. O cupom Black Skull CECILIA10 somou com as promoções que testamos, e a regra do cupom é somar também com o desconto progressivo da Black November. Confira a linha de descontos na sacola antes de pagar.",
-          "O cupom CECILIA10 vale em produto em promoção? Vale. Ele dá 10% em todo o site e soma com as promoções vigentes: numa sacola de outubro, o cupom tirou R$ 36,44 de um subtotal de R$ 364,33 que já tinha itens com preço riscado. Com o desconto progressivo, o cupom também soma; a linha Descontos da sacola mostra o valor abatido.",
+          "O cupom CECILIA10 vale na Black Friday? Vale. O cupom Black Skull CECILIA10 deu 10% sobre o preço de campanha em todos os wheys, creatinas e pré-treinos que colocamos na sacola em novembro.",
+          "Qual whey da Black Skull compensa mais na Black Friday? Pelo custo da proteína, o Whey 80% HD Refil de 900 g: com o CECILIA10, sai por R$ 125,91, ou R$ 18,25 por 100 g de proteína. O Whey 100% HD Refil custa menos por pacote, R$ 103,41, e R$ 19,15 por 100 g de proteína.",
+          "Qual creatina da Black Skull compensa mais? A Creator em refil de 500 g: R$ 35,91 com o CECILIA10, R$ 0,36 por porção de 5 g. O refil vem sem dosador. A Creatine Turbo tem porção de 10 g, metade creatina e metade carboidrato.",
           "O CECILIA10 vale em qualquer forma de pagamento? Vale em todas as formas de pagamento da loja: cartão em até 8 vezes sem juros (parcela mínima de R$ 50), Pix, Pix parcelado em 4 vezes sem juros e boleto à vista.",
-          "O frete da Black Skull é grátis? Depende da região. O frete grátis valia acima de R$ 199,90 no Sul e no Sudeste, R$ 249,90 no Centro-Oeste e R$ 299,90 nas demais regiões, contado sobre o total já com o desconto do cupom.",
-          "A Black Skull tem desconto no Pix? A loja não anuncia desconto próprio no Pix. O Pix e o Pix parcelado em 4 vezes sem juros são formas de pagamento, e o CECILIA10 vale nelas.",
+          "O frete da Black Skull é grátis? Depende da região. O frete grátis vale acima de R$ 199,90 no Sul e no Sudeste, R$ 249,90 no Centro-Oeste e R$ 299,90 nas demais regiões, contado sobre o total já com o desconto do cupom. Na nossa sacola de R$ 161,82 para a capital paulista, o frete foi de R$ 11,09.",
+          "A Black Skull tem desconto no Pix? Não. O Pix e o Pix parcelado em 4 vezes sem juros são formas de pagamento, e o total das nossas sacolas no Pix foi o mesmo do cartão. O CECILIA10 vale nelas.",
           "Dá para trocar um produto comprado na Black Friday? Dá. O arrependimento vale 7 dias corridos depois do recebimento, com a loja pagando a postagem. A troca comum pode ser pedida em até 30 dias corridos da entrega, com frete pago por você e produto lacrado. Defeito fica por conta da loja.",
           "Compro na Black Friday e dou de Natal: o prazo de troca dá? Conta da entrega: um pedido recebido no começo de dezembro pode ter troca comum pedida em até 30 dias corridos da entrega. O arrependimento, de 7 dias, é de quem comprou.",
           "Vale a pena esperar a sexta-feira para comprar? Não dá para prever o preço da sexta-feira. Compare a oferta atual com a tabela de outubro para o mesmo produto, incluindo frete e desconto. Considere também estoque e prazo de entrega: estar abaixo da tabela hoje não impede uma oferta melhor depois."
@@ -79996,7 +80280,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Entre na Black Skull pelo link da parceria e use o CECILIA10 na sacola. Compare os preços com a tabela deste guia e confira a linha \"Descontos\" antes de finalizar.",
+      "text": "Entre na Black Skull pelo link da parceria e use o CECILIA10 na sacola. Compare os preços com as tabelas deste guia e confira o total com o frete antes de finalizar.",
       "label": "Ir para a Black Skull",
       "url": "https://www.blackskullusa.com.br/",
       "sponsored": true
@@ -80792,8 +81076,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 439,
     "slug": "black-friday-probiotica",
-    "title": "Black Friday Probiótica 2026: o Novembro PRO já começou, preços de outubro e o cupom PRO10EMCASACOMCECILIA",
-    "seoTitle": "Black Friday Probiótica 2026: Novembro PRO e cupom",
+    "title": "Black Friday Probiótica 2026: qual whey e creatina comprar no Novembro PRO e quanto o cupom PRO10EMCASACOMCECILIA tira",
+    "seoTitle": "Black Friday Probiótica 2026: o que comprar e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -80804,11 +81088,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O Novembro PRO da Probiótica já começou, com Pix e boleto de até 5% OFF. Veja os preços de outubro de whey e creatina e como o PRO10EMCASACOMCECILIA soma com a promoção.",
+    "description": "No Novembro PRO da Probiótica, os preços seguem os de outubro. Veja qual whey e creatina escolher, quanto o PRO10EMCASACOMCECILIA tirou em cada produto e o frete por região.",
     "metaDescription": "Black Friday Probiótica 2026: o cupom PRO10EMCASACOMCECILIA dá até 10% OFF. A campanha já começou, com até 5% no Pix e no boleto e frete grátis.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/probiotica/black-friday-probiotica-capa-v2.webp",
@@ -80816,25 +81100,24 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "O Novembro PRO já está no ar, por tempo limitado",
-      "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF, em todas as formas de pagamento",
-      "O cupom vale em conta nova e antiga e soma com o preço promocional da loja",
-      "Pix e boleto com até 5% OFF no Novembro PRO",
+      "O cupom PRO10EMCASACOMCECILIA vale em conta nova e antiga, em todas as formas de pagamento",
+      "O cupom soma com o preço promocional: no Iso Protein Blend de 900 g, a R$ 79,00, tirou 7%",
+      "Creatina Monohidratada de 300 g por R$ 58,70 com o cupom, R$ 0,98 por porção de 5 g",
       "Frete grátis a partir de R$ 104 na capital de São Paulo, pela forma de envio mais barata",
-      "Whey Protein Iso Blend 900g a R$ 79,00 em 14 de outubro, contra R$ 121,99 do preço riscado"
+      "Amostras entram sozinhas no carrinho, e os brindes maiores, a partir de faixas de valor"
     ],
     "cons": [
-      "A loja não publicou data de fim nem percentual geral do Novembro PRO",
-      "O percentual do cupom varia por produto, e em alguns é menor que 10%",
-      "Kit não recebe promoção, dizem os termos da loja",
-      "O cupom pode derrubar o total abaixo do mínimo do frete grátis",
-      "As promoções podem sair do site sem aviso prévio quando o estoque acaba"
+      "Na maioria dos produtos que testamos em novembro, o cupom tirou 2%, abaixo do teto de 10%",
+      "A home anuncia até 5% no Pix e no boleto, mas o total no Pix foi igual ao do cartão nos nossos carrinhos",
+      "Os preços de novembro são os mesmos de outubro nos produtos que comparamos",
+      "A faixa dos brindes conta depois do cupom: o desconto pode tirar um brinde do carrinho",
+      "A loja não publicou data de fim nem percentual geral do Novembro PRO"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida: Black Friday Probiótica 2026",
         "paragraphs": [
-          "O Novembro PRO está no ar, por tempo limitado, com Pix e boleto de até 5% OFF; a loja não publicou data de fim nem percentual geral, e as ofertas podem sair do ar quando o estoque acaba. O PRO10EMCASACOMCECILIA dá até 10% OFF, vale em todas as formas de pagamento e soma com o preço promocional, conforme o produto."
+          "O Novembro PRO da Probiótica segue no ar, com os mesmos preços de outubro nos produtos que comparamos. O PRO10EMCASACOMCECILIA dá até 10% OFF: nos nossos carrinhos de novembro, tirou 2% na maioria dos produtos e 7% em dois wheys em oferta. O total no Pix foi igual ao do cartão."
         ]
       },
       {
@@ -80852,48 +81135,171 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Preços de outubro para comparar",
+        "heading": "Whey: qual levar pelo custo da proteína",
         "paragraphs": [
-          "A tabela registra preços do catálogo público de 14/10/2026, antes de cupom, Pix e Novembro PRO. Compare o mesmo produto, sabor, embalagem e quantidade. Depois, confira o total com os descontos e o frete: um preço abaixo da tabela é menor que o registrado em outubro, sem garantir a melhor oferta futura."
+          "Os wheys de 900 g da Probiótica têm porções e quantidades de proteína diferentes, então o preço da embalagem engana. A tabela usa a porção e a proteína da tabela nutricional de cada um e o preço que o carrinho mostrou com o cupom, em meados de novembro. O percentual entre parênteses é o que o cupom tirou de fato."
         ],
         "comparisonTable": {
-          "caption": "Preços da Probiótica em 14 de outubro de 2026: preço do dia e preço riscado, antes do cupom e do Pix.",
+          "caption": "Wheys de 900 g da Probiótica na nossa leitura de novembro: preço do site, preço com o cupom PRO10EMCASACOMCECILIA no carrinho e custo por 100 g de proteína, pela tabela nutricional.",
+          "headers": [
+            "Whey e proteína por porção",
+            "No site → com o cupom",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "Iso Protein Blend: 25 g em 40 g",
+              "R$ 79,00 → R$ 73,47 (7%)",
+              "R$ 13,06"
+            ],
+            [
+              "Hiper 100% Whey: 23 g em 40 g",
+              "R$ 124,90 → R$ 116,16 (7%)",
+              "R$ 22,45"
+            ],
+            [
+              "100% Pure Whey Zero Lactose: 21 g em 30 g",
+              "R$ 241,97 → R$ 237,13 (2%)",
+              "R$ 37,64"
+            ],
+            [
+              "100% Pure Whey Refil: 20 g em 30 g",
+              "R$ 235,65 → R$ 230,94 (2%)",
+              "R$ 38,49"
+            ],
+            [
+              "100% Pure Whey Pote: 20 g em 30 g",
+              "R$ 252,49 → R$ 247,44 (2%)",
+              "R$ 41,24"
+            ],
+            [
+              "Iso Pro Whey: 26 g em 30 g",
+              "R$ 346,28 → R$ 339,35 (2%)",
+              "R$ 43,51"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Iso Protein Blend:** o menor custo por proteína, com uma ressalva de composição. Ele mistura proteína isolada de soja com whey concentrado; o rótulo avisa que contém derivados de leite e de soja, pode conter ovo e contém lactose. É a escolha de quem aceita a soja na fórmula.",
+          "**Hiper 100% Whey:** a opção só de whey com o menor custo por proteína entre as que testamos, a R$ 124,90 contra o preço riscado de R$ 210,39.",
+          "**100% Pure Whey, refil ou pote:** o conteúdo é o mesmo, e o refil custa R$ 16,84 a menos. O kit com 2 refis saiu por R$ 461,87 com o cupom, e dois refis avulsos, por R$ 461,88: o kit não dá desconto, então só leve dois se for usar os dois.",
+          "**Zero Lactose:** a versão para quem evita lactose, com custo por proteína um pouco abaixo do Pure Whey em refil.",
+          "**Iso Pro Whey:** a maior concentração de proteína da tabela, 26 g em 30 g, e o maior preço. Isolado não é automaticamente zero lactose: o rótulo do Iso Pro avisa que contém lactose."
+        ],
+        "postParagraphs": [
+          "A comparação com outra marca pelo mesmo critério está em [Probiótica ou Integralmédica: whey e creatina pelo rótulo](/reviews/probiotica-ou-integralmedica), e a escolha por objetivo, em [Melhor whey em 2026: qual escolher para cada objetivo](/reviews/melhor-whey-qual-escolher-por-objetivo)."
+        ]
+      },
+      {
+        "heading": "Creatina: pote, Creapure ou sachê",
+        "paragraphs": [
+          "A creatina da Probiótica aparece em cinco versões em pó, e a conta que as separa é o custo da porção. A tabela nutricional traz 5 g de creatina por porção, com uma exceção: a Pure Creatina Monster tem porção de 3 g."
+        ],
+        "comparisonTable": {
+          "caption": "Creatinas da Probiótica na nossa leitura de novembro: preço do site, preço com o cupom PRO10EMCASACOMCECILIA no carrinho e custo por porção do rótulo.",
+          "headers": [
+            "Creatina e porções",
+            "No site → com o cupom",
+            "Por porção"
+          ],
+          "rows": [
+            [
+              "Monohidratada Pura 300 g: 60 porções de 5 g",
+              "R$ 59,90 → R$ 58,70",
+              "R$ 0,98"
+            ],
+            [
+              "Monohidratada Pura 100 g: 20 porções de 5 g",
+              "R$ 33,89 → R$ 33,21",
+              "R$ 1,66"
+            ],
+            [
+              "Pure Creatina Monster 150 g: 50 porções de 3 g",
+              "R$ 99,89 → R$ 97,89",
+              "R$ 1,96"
+            ],
+            [
+              "Monodose: 30 sachês",
+              "R$ 69,89 → R$ 68,49",
+              "R$ 2,28"
+            ],
+            [
+              "Creapure 150 g: 30 porções de 5 g",
+              "R$ 99,89 → R$ 97,89",
+              "R$ 3,26"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Pote de 300 g:** a escolha principal, com o menor custo por porção. O preço é o mesmo de outubro.",
+          "**Pote de 100 g:** para quem quer a menor quantidade. A porção custa bem mais que no pote de 300 g.",
+          "**Creapure 150 g:** para quem faz questão da matéria-prima com esse selo. A porção custa mais que o triplo da porção do pote de 300 g.",
+          "**Pure Creatina Monster:** custa o mesmo que a Creapure, com porção de 3 g. Para comparar com as outras, use o preço por grama.",
+          "**Monodose:** o sachê é a dose pronta para levar. A praticidade custa mais que o dobro da porção do pote de 300 g."
+        ],
+        "postParagraphs": [
+          "A conta por 100 g de cada versão está em [Creatina Probiótica: qual versão compensa pelo preço por 100 g e pelo rótulo](/reviews/creatina-probiotica-qual-compensa), e a do sachê, em [Monodose Probiótica: sachê ou pote, qual compensa pelo preço por 100 g](/reviews/monodose-probiotica-sache-ou-pote)."
+        ]
+      },
+      {
+        "heading": "Barra e colágeno: a compra de conveniência",
+        "bullets": [
+          "**Whey Bar Creamy, caixa com 12:** R$ 77,89 no site e R$ 76,33 com o cupom, R$ 6,36 por barra. Cada barra tem de 10 g a 11 g de proteína, conforme o sabor. Serve para quem quer o lanche pronto; como fonte de proteína, o whey em pó custa menos.",
+          "**Pro Collagen 330 g:** R$ 129,89 no site e R$ 127,29 com o cupom, R$ 4,24 por porção de 11 g, em 30 porções. É colágeno hidrolisado com ácido hialurônico. O rótulo informa que não contém lactose e que pode conter derivados de leite, ovo e soja."
+        ],
+        "postParagraphs": [
+          "Os dois estavam no mesmo preço de outubro. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
+        ]
+      },
+      {
+        "heading": "Preços de outubro para comparar",
+        "paragraphs": [
+          "A tabela compara os preços do catálogo público de 14/10/2026 com os que vimos em meados de novembro, sempre antes do cupom. Compare o mesmo produto, sabor, embalagem e quantidade. Depois, confira o total com os descontos e o frete."
+        ],
+        "comparisonTable": {
+          "caption": "Preços da Probiótica em 14 de outubro de 2026 e em meados de novembro, antes do cupom. Não é cotação atual.",
           "headers": [
             "Produto",
-            "Preço do dia",
-            "Preço riscado"
+            "Em outubro",
+            "Em novembro",
+            "Resultado"
           ],
           "rows": [
             [
               "Whey Protein Iso Protein Blend 900g (sabor Chocolate)",
+              "R$ 79,00 (riscado R$ 121,99)",
               "R$ 79,00",
-              "R$ 121,99"
+              "Igual"
             ],
             [
-              "Whey 100% Pure 900g",
+              "Whey 100% Pure 900g, pote",
               "R$ 252,49",
-              "sem preço riscado"
+              "R$ 252,49",
+              "Igual"
             ],
             [
               "Creatina Monohidratada Pura 300g",
+              "R$ 59,90 (riscado R$ 75,10)",
               "R$ 59,90",
-              "R$ 75,10"
+              "Igual"
             ],
             [
               "Whey Bar Creamy, caixa com 12 unidades",
               "R$ 77,89",
-              "sem preço riscado"
+              "R$ 77,89",
+              "Igual"
             ],
             [
               "Pro Collagen 330g",
               "R$ 129,89",
-              "sem preço riscado"
+              "R$ 129,89",
+              "Igual"
             ]
           ]
         },
         "postParagraphs": [
-          "O Whey Protein Iso Blend 900g estava R$ 42,99 abaixo do preço riscado, cerca de 35% de desconto antes do cupom. Ele mistura proteína isolada de soja e concentrada do soro e contém lactose; confira os sabores disponíveis na loja. O Whey 100% Pure 900g, na mesma embalagem de 900g, custava R$ 252,49, mais de três vezes o preço do Iso Blend. A creatina de 300g estava R$ 15,20 abaixo do preço riscado, cerca de 20%.",
-          "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
+          "Nos cinco produtos, o preço de novembro é o mesmo de outubro. Até aqui, o Novembro PRO não mexeu nesses itens: o que muda o total é o cupom, o frete e os brindes.",
+          "O Iso Protein Blend segue R$ 42,99 abaixo do preço riscado, cerca de 35% antes do cupom, e a creatina de 300 g, R$ 15,20 abaixo, cerca de 20%. Esses descontos já existiam em outubro."
         ],
         "image": "/images/reviews/probiotica/probiotica-cupom-01-carrinho-sem-cupom.webp",
         "imageAlt": "Carrinho da Probiótica em 13/10/2026 com a creatina de 300g a R$ 59,90, com o preço de R$ 75,10 riscado, junto de um kit de colágeno, uma camiseta e uma barra de proteína",
@@ -80904,13 +81310,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom, Pix e frete grátis: o que soma",
         "paragraphs": [
-          "O cupom **PRO10EMCASACOMCECILIA** dá até 10% OFF no site oficial. O percentual varia por produto: em alguns itens o desconto é menor, e a linha \"Descontos\" do resumo do pedido mostra quanto o cupom abateu de verdade. Ele vale em todas as formas de pagamento, para conta nova e para quem já comprou, e soma com o preço promocional da loja: num carrinho de R$ 659,35 com uma creatina em promoção, o desconto foi de R$ 54,75.",
-          "Os outros descontos e regras que mexem no total, pelo que a loja mostrava:"
+          "O cupom **PRO10EMCASACOMCECILIA** dá até 10% OFF no site oficial, e o percentual varia por produto. Nos nossos carrinhos de meados de novembro, ele tirou 2% do Pure Whey, do Zero Lactose, do Iso Pro Whey, das creatinas, da Whey Bar e do Pro Collagen, e 7% do Iso Protein Blend e do Hiper 100% Whey, que estavam em oferta. Em outubro, num carrinho de R$ 659,35 com uma creatina em promoção, o desconto foi de R$ 54,75. A linha \"Descontos\" do resumo do pedido mostra quanto o cupom abateu de verdade.",
+          "Ele vale em todas as formas de pagamento, para conta nova e para quem já comprou. Os outros descontos e regras que mexem no total:"
         ],
         "bullets": [
-          "**Pix e boleto:** a loja anuncia até 5% OFF, no Novembro PRO inclusive. Em outubro, nos cards da home, o Pix à vista aparecia com 3% nas proteínas e 5% no resto do site. O percentual é da loja e pode mudar: o checkout mostra o valor final.",
+          "**Pix e boleto:** a home anuncia até 5% OFF. Nos carrinhos que montamos em novembro, o total no Pix foi igual ao do cartão. Trate o desconto do Pix como possível, não como certo, e confira o valor na etapa de pagamento.",
+          "**Preço de lista e preço no Pix:** as tabelas deste guia usam o preço que o site mostra e o total do carrinho com o cupom. Não aplicamos um desconto de Pix por cima.",
           "**Frete grátis:** depende da região do CEP e vale para a forma de envio mais barata. Sedex é por conta do cliente.",
-          "**Brinde:** o valor que conta é o final do pedido, depois de todos os descontos, incluindo cupom e Pix."
+          "**Brindes:** as amostras entram sozinhas em todo carrinho. A squeeze apareceu a partir de cerca de R$ 235, e o galão, a toalha e a monodose, acima de R$ 299,90. A faixa conta depois do cupom: um carrinho de R$ 300,38 perdeu a toalha e a monodose quando o cupom levou o total a R$ 294,37."
         ],
         "comparisonTable": {
           "caption": "Valor mínimo do pedido para frete grátis na Probiótica, por região do CEP.",
@@ -80946,8 +81353,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Exemplo de conta, não de produto: no Sudeste, um carrinho de R$ 140 passa do mínimo de R$ 134 sem cupom. Com o desconto máximo de 10%, o total cai para R$ 126 e o frete deixa de ser grátis. No Novembro PRO, com preços mudando, vale refazer essa conta no carrinho antes de pagar.",
-          "A ordem prática é montar o carrinho, aplicar o cupom no campo \"Cupom de Desconto\", conferir a linha \"Descontos\" e o total contra o mínimo da região e só então escolher a forma de pagamento. As condições do código estão na [página do cupom da Probiótica](/cupons/probiotica), e o passo a passo, em [Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-probiotica-como-usar)."
+          "Na capital paulista, um carrinho de R$ 107,79 seguiu com frete grátis depois do cupom, a R$ 105,63, ainda acima do mínimo de R$ 104. O teste não mostra o que acontece quando o cupom leva o total para baixo do mínimo: com o pedido perto da faixa da sua região, confira o frete depois de aplicar o código.",
+          "A ordem prática é montar o carrinho, aplicar o cupom no campo \"Cupom de Desconto\", conferir a linha \"Descontos\", os brindes e o total contra o mínimo da região e só então escolher a forma de pagamento. As condições do código estão na [página do cupom da Probiótica](/cupons/probiotica), e o passo a passo, em [Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-probiotica-como-usar)."
         ],
         "image": "/images/reviews/probiotica/probiotica-cupom-03-desconto-aplicado.webp",
         "imageAlt": "Resumo do pedido da Probiótica com o cupom PRO10EMCASACOMCECILIA: subtotal R$ 659,35, descontos R$ -54,75, total R$ 604,60",
@@ -80958,11 +81365,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kits e trocas: o que a loja diz nos termos",
         "paragraphs": [
-          "Os termos da loja dizem que promoções não valem para kits, porque eles já têm desconto. Isso não diz qual benefício entra em cada kit do Novembro PRO. Compare o preço do kit com os mesmos itens avulsos e confira no carrinho os descontos que aparecem.",
+          "Os termos da loja dizem que promoções não valem para kits, porque eles já têm desconto. No kit que conferimos, o de 2 refis de 100% Pure Whey, o preço foi o mesmo de dois refis avulsos, com e sem o cupom. Compare o kit com os mesmos itens avulsos antes de levar a quantidade maior.",
           "Os prazos de troca e devolução:"
         ],
         "bullets": [
-          "**Arrependimento:** 7 dias corridos a partir do recebimento. A loja pede embalagem original e lacre intactos; o direito de arrependimento em 7 dias vale de qualquer jeito. O pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
+          "**Arrependimento:** 7 dias corridos a partir do recebimento, direito previsto no artigo 49 do Código de Defesa do Consumidor para compras pela internet. A loja pede embalagem original e lacre intactos; o direito de arrependimento em 7 dias vale de qualquer jeito. O pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
           "**Defeito:** 30 dias corridos para comunicar, nos produtos alimentícios. A loja analisa o caso, e a coleta e o reenvio ficam por conta da Probiótica.",
           "**Como a loja resolve o defeito:** depois da análise, troca, devolução do dinheiro ou cupom."
         ],
@@ -80974,18 +81381,20 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Probiótica? O Novembro PRO já está no ar, por tempo limitado, sem data de fim publicada. A Black Friday do calendário é a última sexta de novembro. As ofertas podem sair do site sem aviso quando o estoque acaba; confirme as disponíveis no dia da compra.",
-          "O cupom PRO10EMCASACOMCECILIA vale no Novembro PRO? Ele vale no site oficial, em todas as formas de pagamento, dá até 10% OFF, com percentual menor em alguns produtos, e soma com o preço promocional. Em produto com preço do Novembro PRO, a linha Descontos do carrinho mostra o valor antes de pagar.",
-          "O cupom PRO10EMCASACOMCECILIA vale na Black Friday? Vale. O cupom Probiótica PRO10EMCASACOMCECILIA dá até 10% OFF e soma com o preço promocional: numa creatina em promoção, o carrinho aceitou o cupom. Kit é outra regra, porque a loja não aplica promoções aos kits.",
-          "O cupom vale no Pix? Vale, em todas as formas de pagamento. O desconto do Pix é da loja: ela anunciava até 5% OFF no Pix e no boleto, e o checkout mostra o valor final.",
+          "Os preços da Probiótica caíram no Novembro PRO? Nos cinco produtos que comparamos, o preço de meados de novembro é o mesmo de outubro: Iso Protein Blend, 100% Pure Whey, creatina de 300 g, Whey Bar Creamy e Pro Collagen.",
+          "Quanto o cupom PRO10EMCASACOMCECILIA tira de verdade? Até 10%, conforme o produto. Nos nossos carrinhos de novembro, tirou 2% na maioria dos produtos e 7% no Iso Protein Blend e no Hiper 100% Whey. A linha Descontos do carrinho mostra o valor antes de pagar.",
+          "O cupom PRO10EMCASACOMCECILIA vale na Black Friday? Vale. O cupom Probiótica PRO10EMCASACOMCECILIA entrou em todos os carrinhos de novembro, inclusive nos produtos com preço promocional.",
+          "Qual whey da Probiótica compensa mais? Pelo custo da proteína, o Iso Protein Blend de 900 g, que mistura soja e whey: R$ 73,47 com o cupom, R$ 13,06 por 100 g de proteína. Só de whey, o Hiper 100% Whey sai por R$ 116,16, R$ 22,45 por 100 g de proteína.",
+          "O cupom vale no Pix? Vale, em todas as formas de pagamento. A home anuncia até 5% OFF no Pix e no boleto, mas, nos nossos carrinhos de novembro, o total no Pix foi igual ao do cartão.",
           "A Probiótica tem frete grátis? Tem, a partir de R$ 104 (capital de SP) a R$ 599 (Norte), na forma de envio mais barata e fora o Sedex. Cupom pode derrubar o total abaixo do mínimo.",
-          "O brinde conta o valor com ou sem cupom? Conta o valor final, depois de todos os descontos. Se o cupom ou o Pix levar o pedido para baixo do valor do brinde, ele pode não entrar.",
+          "O brinde conta o valor com ou sem cupom? Conta o valor depois do cupom. No nosso teste, um carrinho de R$ 300,38 perdeu dois brindes quando o cupom levou o total a R$ 294,37.",
           "Dá para trocar um produto da Probiótica? Sim. O arrependimento vale por 7 dias corridos depois do recebimento (a loja pede embalagem e lacre intactos), e o defeito, por 30 dias corridos.",
           "A promoção pode acabar antes do fim do Novembro PRO? Pode. Os termos da loja dizem que as promoções podem ser lançadas a qualquer momento, sem aviso prévio, e também sair do site quando o produto esgota."
         ]
       }
     ],
     "cta": {
-      "text": "Entre na Probiótica pelo link da parceria e aplique o cupom PRO10EMCASACOMCECILIA no carrinho. Compare os preços com a tabela deste guia e confira a linha Descontos antes de pagar.",
+      "text": "Entre na Probiótica pelo link da parceria e aplique o cupom PRO10EMCASACOMCECILIA no carrinho. Compare os preços com as tabelas deste guia e confira a linha Descontos antes de pagar.",
       "label": "Ir para a Probiótica com o cupom",
       "url": "https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
       "sponsored": true
@@ -85490,8 +85899,8 @@ export const reviewsData: unknown[] = [
     "id": 452,
     "slug": "black-friday-belive",
     "bodyDatesReason": "campanha",
-    "title": "Black Friday Belive 2026: a Black November já começou, até 30% no site e o cupom MAUAD",
-    "seoTitle": "Black Friday Belive 2026: Black November e cupom MAUAD",
+    "title": "Black Friday Belive 2026: o que comprar na Black November, avulso ou kit, e quanto fica com o cupom MAUAD",
+    "seoTitle": "Black Friday Belive 2026: o que comprar e cupom MAUAD",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -85502,11 +85911,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black November da Belive já está no ar: até 30% de desconto em todo o site, mais 5% no Pix, panetones em oferta e o cupom MAUAD de 10% para somar.",
-    "metaDescription": "Black Friday Belive 2026: até 30% em todo o site e o cupom MAUAD com 10% OFF. Também 5% no Pix, panetones em oferta e o frete por região.",
+    "description": "Na Black November da Belive, o desconto aparece na sacola e varia por produto. Veja o que levar em doces, salgadinhos, pães e panetone, e a conta com o MAUAD e o Pix.",
+    "metaDescription": "O cupom MAUAD dá 10% OFF na Belive e soma com o Pix. Black Friday 2026: o que comprar em doces, salgadinhos, pães e panetone, avulso ou em kit.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/belive/black-friday-belive-capa-v2.webp",
@@ -85514,19 +85923,20 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "O cupom MAUAD dá 10% em todo o site, em qualquer forma de pagamento",
-      "Soma com as ofertas do site e com o Pix de 5%: no teste de 16/10/2026, o total foi de R$ 576,82 para R$ 493,18",
-      "Cartão em até 2x sem juros, boleto e Pix com 5% de desconto",
-      "Frete grátis a partir de R$ 170 em SP, MG, RJ, DF e GO"
+      "O cupom MAUAD dá 10% em todo o site, em qualquer forma de pagamento, e entrou sobre os preços da Black November",
+      "Soma com o Pix de 5%: pela nossa conta, os dois juntos tiram 14,5% do preço da sacola",
+      "Pães sem glúten de R$ 22,90 por R$ 16,03 na sacola, com 30% da campanha",
+      "O frete grátis conta o valor antes do cupom: nossa sacola de R$ 175,79 seguiu com frete zero depois do MAUAD",
+      "Cartão em até 2x sem juros, boleto e Pix"
     ],
     "cons": [
+      "O preço da campanha só aparece inteiro na sacola: a vitrine mostra o preço cheio e o valor no Pix",
+      "Kit e combo nem sempre saem mais baratos: nos snacks e nos pães, a unidade avulsa custava menos",
       "A loja não publicou data de fim nem regra da Black November",
-      "O desconto do MAUAD sobre produto com preço de Black November não está confirmado",
-      "Os preços da tabela são de outubro: confira o preço do dia na página do produto",
       "Frete grátis só a partir de R$ 250 no Sul e R$ 300 nos demais estados"
     ],
     "cta": {
-      "text": "Entre no site da Belive e digite o MAUAD no carrinho. Compare com a tabela de preços de outubro e confira a linha de descontos antes de pagar.",
+      "text": "Entre no site da Belive, monte a sacola e digite o MAUAD. Compare a unidade com o kit pelo preço da sacola e confira o frete antes de pagar.",
       "label": "Ir para a Belive com o cupom",
       "url": "https://belivebefree.com.br/",
       "sponsored": true
@@ -85549,14 +85959,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Belive 2026",
         "paragraphs": [
-          "A Black November da Belive já está no ar: até 30% de desconto em todo o site, mais 5% no Pix e panetones em oferta, sem data de fim publicada. O cupom MAUAD dá 10% em todas as formas de pagamento e soma com as ofertas e com o Pix; confira a linha de descontos no carrinho."
+          "A Black November da Belive segue no ar, e o desconto varia por produto: na nossa sacola, foi de 5% nos doces avulsos a 30% nos pães sem glúten. O cupom MAUAD tira mais 10% e soma com o Pix. Antes de levar kit ou combo, compare com a unidade: nos snacks e nos pães, o avulso saiu mais barato."
         ]
       },
       {
         "heading": "O que está no ar na Black November da Belive",
         "paragraphs": [
-          "A Belive já está em Black November. A home da loja anuncia até 30% de desconto em todo o site, mais 5% no Pix, e os panetones voltaram: panetones com 5% de desconto mais 5% no Pix, kit de panetones com frete a R$ 9,90 e o lanche escolar a partir de R$ 3,39 no Pix.",
-          "A loja não publicou data de fim nem regra da campanha; a Black Friday do calendário é em 27 de novembro. O \"até 30%\" é o teto: o desconto é por produto, e a página de cada um mostra o preço do dia."
+          "A Belive segue em Black November. As faixas do site anunciam até 30% de desconto em todo o site, desconto extra de 5% no Pix, pães sem glúten \"com o menor preço do ano\", lanche escolar em oferta e frete grátis acima de R$ 170.",
+          "A loja não publicou data de fim nem regra da campanha; a Black Friday do calendário é em 27 de novembro. O \"até 30%\" é o teto, e o desconto é por produto. Um detalhe muda a leitura dos preços: em vários produtos, a vitrine mostra o preço cheio e só o valor no Pix, e o preço da campanha aparece na sacola. Os preços das seções abaixo são os da sacola, em meados de novembro."
         ],
         "image": {
           "src": "/images/reviews/belive/belive-black-november-pagina-2026-10-19.webp",
@@ -85566,7 +85976,122 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 3.3333
         },
         "postParagraphs": [
-          "Em outubro, a página Black November era só um cadastro para receber as ofertas, sem preços nem datas, e a busca por panetone no site voltava vazia. Este guia não traz preço de panetone: confira na página do produto."
+          "Em outubro, a página Black November era só um cadastro para receber as ofertas, sem preços nem datas."
+        ]
+      },
+      {
+        "heading": "Doces sem açúcar: avulso ou kit de 10",
+        "paragraphs": [
+          "Pão de mel e brownie são os doces de unidade da Belive, cada um em versão comum e proteica. A tabela mostra o preço da sacola e a nossa conta com o MAUAD e o Pix, um desconto sobre o outro."
+        ],
+        "comparisonTable": {
+          "caption": "Doces sem açúcar da Belive na nossa leitura de novembro: preço na sacola e conta com o cupom MAUAD (10%) e o Pix (5%), por unidade.",
+          "headers": [
+            "Doce",
+            "Unidade na sacola",
+            "Kit de 10 na sacola",
+            "Por unidade no kit, com MAUAD e Pix"
+          ],
+          "rows": [
+            [
+              "Pão de mel sem açúcar, 45 g",
+              "R$ 7,57",
+              "R$ 74,12",
+              "R$ 6,34"
+            ],
+            [
+              "Pão de mel proteico, 45 g",
+              "R$ 8,07",
+              "R$ 78,96",
+              "R$ 6,75"
+            ],
+            [
+              "Brownie de chocolate sem açúcar, 40 g",
+              "R$ 6,62",
+              "R$ 64,82",
+              "R$ 5,54"
+            ],
+            [
+              "Brownie proteico Double Chocolate sem açúcar, 40 g",
+              "R$ 7,57",
+              "R$ 74,12",
+              "R$ 6,34"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Comum ou proteico:** pela tabela nutricional, o pão de mel comum tem 2 g de proteína por unidade, e o proteico, 6 g. No brownie, a versão de chocolate tem 1,8 g, e o proteico Double Chocolate, 6 g. A diferença de preço é de R$ 0,50 a R$ 0,95 por unidade na sacola.",
+          "**Unidade:** para provar um sabor antes de levar dez. Com a campanha, a unidade avulsa está 5% abaixo do preço cheio.",
+          "**Kit de 10:** cada unidade sai cerca de 2% mais barata que a avulsa. A economia é pequena: o kit serve a quem vai consumir dez unidades do mesmo sabor."
+        ],
+        "postParagraphs": [
+          "Sabores e rótulos estão em [Pão de mel sem açúcar da Belive: comum ou proteico](/reviews/pao-de-mel-sem-acucar-belive), [Brownie sem açúcar da Belive: sabores, rótulo e preço por unidade](/reviews/brownie-sem-acucar-belive) e [Cookies sem açúcar da Belive: qual sabor escolher](/reviews/cookies-sem-acucar-belive). Para quem acompanha a glicemia, o que olhar no rótulo está em [Doces sem açúcar para diabéticos](/reviews/doces-sem-acucar-para-diabeticos)."
+        ]
+      },
+      {
+        "heading": "Salgadinhos: Snack Proteico ou Snack de Arroz",
+        "paragraphs": [
+          "São dois salgadinhos de 35 g com propostas diferentes. O Snack Proteico tem 10 g de proteína por pacote, de proteína isolada de soja. O Snack de Arroz tem cerca de 3 g e custa menos."
+        ],
+        "comparisonTable": {
+          "caption": "Salgadinhos de 35 g da Belive na nossa leitura de novembro: preço na sacola, avulso e em combo, e conta com o cupom MAUAD (10%) e o Pix (5%).",
+          "headers": [
+            "Salgadinho",
+            "Unidade na sacola",
+            "Combo na sacola",
+            "Menor preço por unidade, com MAUAD e Pix"
+          ],
+          "rows": [
+            [
+              "Snack Proteico, 10 g de proteína",
+              "R$ 6,38",
+              "R$ 102,02 com 16 (R$ 6,38 cada)",
+              "R$ 5,45, avulso ou no combo"
+            ],
+            [
+              "Snack de Arroz, cerca de 3 g de proteína",
+              "R$ 4,67",
+              "R$ 95,90 com 20 (R$ 4,80 cada)",
+              "R$ 3,99, avulso"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Snack Proteico:** para quem quer proteína no lanche. A unidade está com 20% da campanha, e o combo de 16 custa exatamente 16 unidades avulsas.",
+          "**Snack de Arroz:** o salgadinho do dia a dia, mais barato. Com os 10% da campanha na unidade, o pacote avulso está saindo por menos que no combo de 20.",
+          "**Combos:** vêm com os quatro sabores em quantidades fixas. Como o preço por unidade empata ou perde para o avulso, monte a sacola com os sabores e a quantidade que você quer."
+        ],
+        "postParagraphs": [
+          "A comparação pelo rótulo está em [Snack proteico ou snack de arroz da Belive: qual compensa por grama de proteína](/reviews/snack-proteico-ou-snack-de-arroz-belive)."
+        ]
+      },
+      {
+        "heading": "Lancheira, pães e panetone",
+        "bullets": [
+          "**Bolinho sem açúcar, 40 g:** R$ 5,12 a unidade e R$ 50,13 o kit de 10 na sacola. Com MAUAD e Pix, o kit sai por R$ 42,86, ou R$ 4,29 por bolinho.",
+          "**Kit Lanche Escolar com 25 bolinhos:** R$ 124,90 na sacola e R$ 106,79 com MAUAD e Pix, R$ 4,27 por bolinho. O preço por unidade é quase o do kit de 10: escolha pela quantidade que a lancheira consome antes do vencimento.",
+          "**Pão sem glúten Tradicional ou Multigrãos:** de R$ 22,90 por R$ 16,03 na sacola, com 30% da campanha, e R$ 13,71 com MAUAD e Pix. O combo de 4 pacotes tradicionais estava a R$ 82,44, mais caro que quatro pacotes avulsos, que somavam R$ 64,12.",
+          "**Panetone de frutas ou de chocolate, 420 g:** R$ 59,90, contra R$ 64,90 no começo de novembro, e R$ 51,21 com MAUAD e Pix. O kit de 3 custa R$ 179,70, o mesmo que três avulsos; a vantagem do kit é passar do mínimo do frete grátis de R$ 170 em SP, MG, RJ, DF e GO."
+        ],
+        "postParagraphs": [
+          "Os guias de cada produto: [Bolinho kids da Belive para a lancheira](/reviews/bolinho-kids-belive-lancheira), [Bolinho sem açúcar: Belive ou Suavipan, pelo rótulo de cada um](/reviews/bolinho-sem-acucar-belive-ou-suavipan) e [Panetone Belive é bom? Chocotone, zero açúcar e sem glúten pelo rótulo](/reviews/panetone-belive-e-bom)."
+        ]
+      },
+      {
+        "heading": "Alergia e intolerância: leia o bloco de alérgicos de cada rótulo",
+        "paragraphs": [
+          "A Belive declara os produtos sem glúten, sem leite e sem lactose. Isso não torna a linha inteira adequada a qualquer alergia: quase todos os doces levam ovo e soja, e os panetones levam amêndoas. A informação que vale é a frase de alérgicos da página e da embalagem de cada produto. As que lemos em novembro:"
+        ],
+        "bullets": [
+          "**Pão de mel, comum e proteico:** \"NÃO CONTÉM GLÚTEN. ALÉRGICOS: CONTÉM DERIVADOS DE SOJA E OVO.\"",
+          "**Brownie de chocolate sem açúcar:** \"NÃO CONTÉM GLÚTEN. ALÉRGICOS: CONTÉM OVO E DERIVADO DE SOJA.\"",
+          "**Panetone de frutas:** \"ALÉRGICOS: CONTÉM AMÊNDOAS, DERIVADOS DE OVO E DERIVADOS DE SOJA. NÃO CONTÉM GLÚTEN.\"",
+          "**Panetone de chocolate:** \"ALÉRGICOS: CONTÉM DERIVADOS DE AMÊNDOAS, DERIVADOS DE OVO E DERIVADOS DE SOJA. NÃO CONTÉM GLÚTEN.\"",
+          "**Snack Proteico de queijo e Snack de Arroz de cebola e salsa:** \"ALÉRGICOS: CONTÉM DERIVADOS DE SOJA.\""
+        ],
+        "postParagraphs": [
+          "Os brownies com nozes, avelã e caramelo salgado trazem ainda a lista de castanhas que contêm e as que podem conter. Sabor muda o rótulo: leia o bloco do sabor que você vai comprar.",
+          "Intolerância à lactose e alergia à proteína do leite de vaca (APLV) são condições diferentes. A declaração \"sem lactose\" responde à primeira. Para APLV, doença celíaca e outras alergias, confirme o rótulo da unidade em mãos e siga a orientação do médico ou nutricionista que acompanha o caso."
         ]
       },
       {
@@ -85650,8 +86175,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Use a tabela de outubro como referência para o mesmo produto e a mesma quantidade. Compare o total depois de cupom, forma de pagamento e frete. Um percentual maior sobre o preço riscado não garante uma compra mais barata.",
-          "Os nomes dos produtos declaram sem glúten, sem leite, sem lactose e sem açúcar, na página de cada um. Quem tem intolerância, doença celíaca ou segue dieta deve falar com um nutricionista ou médico antes de comprar."
+          "Em meados de novembro, contra essa tabela: o brownie de chocolate avulso caiu para R$ 6,62 na sacola e o pão sem glúten tradicional, para R$ 16,03. O kit com 10 brownies, o kit com 10 bolinhos e o combo de 20 snacks de arroz seguem no mesmo preço. O bolinho de chocolate avulso, que estava em oferta relâmpago, foi a R$ 5,12, e o snack de arroz de queijo, a R$ 4,67: os dois subiram em relação a outubro. Não relemos o pãozinho de batata.",
+          "Compare o mesmo produto e a mesma quantidade, com o total depois de cupom, forma de pagamento e frete. Um percentual maior sobre o preço riscado não garante uma compra mais barata."
         ]
       },
       {
@@ -85714,16 +86239,17 @@ export const reviewsData: unknown[] = [
           "Demais estados: a partir de R$ 300."
         ],
         "postParagraphs": [
-          "A página de regras não diz se o mínimo conta o valor antes ou depois do cupom. Se o pedido ficar perto do mínimo da sua região, confira no carrinho se o frete grátis continua depois do MAUAD.",
-          "A faixa do topo do site fala em frete grátis a partir de R$ 170: esse valor vale para SP, MG, RJ, DF e GO. Confira o frete do seu CEP no carrinho.",
+          "O mínimo conta o valor da sacola antes do cupom. No nosso teste de novembro, com um CEP da capital paulista, uma sacola de R$ 175,79 tinha frete grátis; com o MAUAD, o total caiu para R$ 158,21, e o envio econômico seguiu a R$ 0,00, com prazo de 7 dias úteis.",
+          "A faixa do topo do site fala em frete grátis a partir de R$ 170: esse valor vale para SP, MG, RJ, DF e GO. Confira o frete do seu CEP no carrinho, e só complete a sacola para chegar ao mínimo com produto que já estava na sua lista.",
           "A loja aceita cartão em até 2x sem juros, boleto e Pix."
         ]
       },
       {
         "heading": "Na Black November: o que conferir",
         "bullets": [
-          "Compare o preço da página no dia da compra com a tabela de outubro deste guia.",
-          "Coloque o MAUAD no carrinho e confira a linha de descontos.",
+          "Coloque o produto na sacola para ver o preço da campanha: a vitrine pode mostrar só o preço cheio.",
+          "Compare a unidade avulsa com o kit ou combo, pelo preço por unidade da sacola.",
+          "Digite o MAUAD e confira a linha de descontos.",
           "Confira o frete pelo CEP antes de pagar.",
           "Escolha o Pix por último, para ver o total final."
         ],
@@ -85737,12 +86263,14 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Belive? A Black November já está no ar, com até 30% em todo o site e 5% a mais no Pix. A loja não publicou data de fim; a Black Friday do calendário é a última sexta-feira de novembro.",
-          "O cupom MAUAD vale na Black Friday? Vale. O cupom Belive MAUAD dá 10% em todas as formas de pagamento e soma com as ofertas do site e com o Pix. No nosso teste com a Black November no ar, o cupom entrou sobre o preço da campanha.",
+          "O cupom MAUAD vale na Black Friday? Vale. O cupom Belive MAUAD dá 10% em todas as formas de pagamento e soma com as ofertas do site e com o Pix. Na nossa sacola de novembro, o cupom tirou 10% do total já com os preços da campanha.",
           "O MAUAD soma com o Pix? Sim. No teste de checkout, o Pix de 5% entrou depois do cupom.",
           "O MAUAD vale no Mercado Livre? Não. Lá a Belive também vende, mas o cupom não vale.",
-          "Quanto é o desconto da Black November da Belive? Até 30% em todo o site, mais 5% no Pix. O percentual é por produto; o teto é o da campanha.",
-          "Tem panetone à venda? Tem. A Black November trouxe panetones com 5% de desconto mais 5% no Pix e kit de panetones com frete a R$ 9,90.",
-          "O cupom tira o frete grátis? A loja não diz se o mínimo conta o valor antes ou depois do cupom. Com o pedido perto do mínimo da sua região, confira o frete no carrinho depois de aplicar o MAUAD."
+          "Quanto é o desconto da Black November da Belive? Até 30% em todo o site, mais 5% no Pix. O percentual é por produto: na nossa sacola, foi de 5% nos doces avulsos, 10% no Snack de Arroz, 20% no Snack Proteico e 30% nos pães sem glúten.",
+          "Kit da Belive compensa na Black Friday? Depende do produto. Nos doces, o kit de 10 sai cerca de 2% mais barato por unidade que o avulso. No Snack Proteico, o combo de 16 custa o mesmo que 16 avulsos, e no Snack de Arroz e no pão sem glúten, o avulso saiu mais barato que o combo.",
+          "Tem panetone à venda? Tem. Os panetones de frutas e de chocolate custam R$ 59,90 cada, e o kit de 3, R$ 179,70.",
+          "Os produtos da Belive servem para quem tem alergia? Depende da alergia e do produto. A loja declara os produtos sem glúten, sem leite e sem lactose, mas o bloco de alérgicos de cada rótulo lista soja, ovo e, nos panetones, amêndoas. Leia a frase \"ALÉRGICOS\" do sabor que vai comprar.",
+          "O cupom tira o frete grátis? No nosso teste, não: o mínimo contou o valor antes do cupom. Uma sacola de R$ 175,79 seguiu com frete grátis na capital paulista depois de cair para R$ 158,21 com o MAUAD."
         ]
       }
     ]
