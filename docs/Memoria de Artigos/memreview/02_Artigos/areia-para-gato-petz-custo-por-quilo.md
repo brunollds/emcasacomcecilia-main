@@ -7,10 +7,10 @@ parceiro_slug: "petz"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "briefing"
+status: "redigido"
 score: 74
 responsavel: "Job-1 (Claude Fable 5.2)"
-proxima_acao: "redação (Job 2), com o preço cheio de cada item e uma sacola de areia lidos no navegador"
+proxima_acao: "revisão do Bruno no PR e deploy"
 bloqueado_por: "-"
 data_criacao: "2026-11-15"
 i18n_cluster: null
@@ -113,3 +113,27 @@ que o rótulo declara e como o cupom, a oferta e a retirada mudam o valor.
 - Preço cheio de cada item e a sacola com areia (Job 2, no navegador).
 - Regra de frete para areia na política da Petz.
 - Composição do Cat's Best e a separação entre sílica natural e sílica em cristal.
+
+## Redação (Job 2 a Job 6, 15/11/2026)
+
+- Releitura, sacola e frete em [[petz-areia-fatos-1511]], seção 5.
+- **Tese reescrita:** o tipo define a faixa; dentro do tipo a marca muda muito; a marca Petz só tem o menor quilo
+  nas vegetais, e em oferta. A Kets custa menos na argila e na bentonita. A resposta rápida do rascunho ("as areias
+  da marca Petz custam menos que as concorrentes do mesmo tipo") não foi usada.
+- **Coluna do cupom:** preço com o EMCASA só no pacote sem oferta. Oferta de 10% ou mais: "Fica a oferta". Oferta
+  abaixo de 10% (Pipicat Classic 20 kg, Like Cat 10 kg, Pipicat Bianco, Chalesco 1,4 kg): "Vale o desconto maior;
+  confira na sacola", porque o teste só cobriu uma oferta de 27%.
+- **Sem link por produto:** só o link da loja, como nos outros artigos da Petz.
+- **Vaso sanitário:** a embalagem da Petz Cereais traz "Biodegradável. Descartável em vaso sanitário" (lido na foto
+  oficial). Das outras, só "Descarte: Biodegradável" na ficha.
+- **Job 3 (Fable):** 12 bloqueios e 8 melhorias aplicados, todos no texto corrido; as tabelas bateram.
+- **Imagens:** capa no modelo de painel, com três pacotes da marca Petz (Ultra Absorção, Milho e Mandioca Grãos
+  Médios e Cereais), e cinco fotos no corpo, uma por tipo. Fotos oficiais de images.petz.com.br, baixadas pelo
+  Chrome com o OK do Bruno em 15/11. O Bruno liberou o PR sem a folha de aprovação e revisa depois.
+
+- **Revisão do Farol (ChatGPT) no PR #1018, 15/11:** capa e fotos aprovadas; as 67 linhas conferidas sem
+  divergência. Aplicado: resposta rápida sem ordem rígida entre os tipos (as faixas se sobrepõem); frete e retirada
+  condicionados ao total, ao CEP e à modalidade; madeira sem atribuir pinus ao Cat's Best; sílica com a White Kets
+  de 20 kg no grupo natural; conclusão da marca Petz limitada aos produtos comparados; tabelas com nome e pacote
+  na mesma coluna (quatro colunas) e divididas em dez quadros (argila por marca, madeira e vegetais por tamanho,
+  sílica natural e em cristal). A frase do vaso sanitário fica como declaração da embalagem da Petz Cereais.
