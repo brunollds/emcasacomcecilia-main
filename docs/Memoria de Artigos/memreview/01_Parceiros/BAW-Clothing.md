@@ -9,7 +9,9 @@ revisao_geral_ate: "2027-02-16"
 # Dossiê Factual: BAW Clothing
 
 Parceria iniciada em 16/11/2026, com a página `/cupons/baw`, na prateleira Moda de `/cupons`. Ainda sem
-artigo: as pautas de onboarding ficam com a sessão de artigos. A parceria não tem link próprio nem UTM: o
+artigo: o pacote inicial BW1 a BW6 tem briefing desde 16/11 (regras em [[cupom-baw-como-usar]], fatos em
+[[baw-fatos-1611]]) e espera a redação. **Experiência própria: não há** (Bruno, 16/11): os textos usam só fontes
+públicas. A parceria não tem link próprio nem UTM: o
 `offerUrl` é o site oficial.
 
 ---
@@ -50,6 +52,11 @@ fora da página.
 | Plataforma da loja: Wake (checkout fbits) | fato_oficial | Endereços do site (`fbitsstatic.net`) | 2026-11-16 | 2027-02-16 | Página de produto em `/produto/<slug>`; carrinho em `/checkout` |
 | Entrega: frete padrão por transportadoras, valor e prazo pelo CEP no checkout; o prazo conta do faturamento; pedidos de fim de semana entram no dia útil seguinte; em promoções, os prazos podem mudar; rastreio por e-mail | fato_oficial | bawclothing.com.br/entrega-e-frete | 2026-11-16 | 2027-02-16 | — |
 | Trocas e devoluções: pedido pelo portal da loja, com logística reversa pelos Correios; troca só por crédito na loja, sem troca peça por peça; até 7 dias corridos (90 dias por defeito); peça sem uso, com etiqueta e na embalagem original, comprada no site; a primeira troca ou devolução tem frete grátis e as seguintes, frete do cliente; análise em até 10 dias úteis e reembolso na mesma forma de pagamento | fato_oficial | bawclothing.com.br/trocas-e-devolucoes | 2026-11-16 | 2027-02-16 | — |
+| Trocas e devoluções, releitura do Job 1: "trocas exclusivamente através de crédito em conta", crédito "no valor pago pela peça" na conta do CPF da compra; reembolso "sempre na mesma forma de pagamento" (Pix: em geral até 10 dias úteis depois da confirmação; cartão: estorno na fatura); peça sem etiqueta volta por Sedex com frete do cliente; a página cita o Código de Defesa do Consumidor, sem o número do artigo | fato_oficial | bawclothing.com.br/trocas-e-devolucoes | 2026-11-16 | 2027-02-16 | Nos textos, separar troca (crédito) de devolução (reembolso) |
+| Fichas de produto: medidas e composição ficam na aba "Descrição" de cada peça, com aviso de variação de até 3%; várias fichas sem descrição (camisetas da campanha, infantil, todos os tênis lidos); não há guia de tamanhos único | fato_oficial | Páginas de produto lidas pelo Job 1 ([[baw-fatos-1611]], 9.5) | 2026-11-16 | 2026-12-16 | Não generalizar modelagem nem grade |
+| História da marca: fundada em 2014 em São Paulo pelos irmãos Bruno Karra e Lucas Karra; comprada pela Arezzo&Co em junho de 2021 por R$ 105 milhões; revendida pela Azzas 2154 aos fundadores em fevereiro de 2025 | fato_de_imprensa | NeoFeed, 25/02/2025 (título e linha fina lidos); FashionUnited, 26/02/2025 | 2026-11-16 | 2027-02-16 | Sempre com atribuição; valor da revenda não divulgado |
+| Loja Oficial BAW no Mercado Livre: existe; o cupom não vale lá | fato_oficial | Handoff de 16/11/2026; resultado do Google (`lista.mercadolivre.com.br/baw-clothing`) | 2026-11-16 | 2026-12-16 | A redação abre a página antes de citar |
+| Lojas físicas: pendente. A página `/nossas-lojas` abriu vazia duas vezes em 16/11 | pendente | bawclothing.com.br/nossas-lojas | 2026-11-16 | 2026-12-16 | Não listar endereço nem recomendar loja; o Bom Retiro é dado de imprensa e de rede social |
 | Programa de fidelidade BAWPOINTS: pontos e cashback para quem se cadastra | fato_oficial | bawclothing.com.br/cashback | 2026-11-16 | 2027-02-16 | Soma com o cupom sem teste |
 
 ---
@@ -60,7 +67,12 @@ fora da página.
   `docs/CONTRATO-ARTIGO-AFILIADO.md`.
 - O nome da marca é "BAW Clothing" (o logo escreve "Baw®"); o domínio é `bawclothing.com.br`.
 - Artigo de roupa leva o card de estilo (`styling`), pré-requisito da sessão de artigos.
-- Nenhum cupom da própria loja (o do pop-up do app, campanhas de um dia) nos textos.
+- Nenhum cupom da própria loja (o do pop-up do app, o de primeira compra, campanhas de um dia) nos textos; o aviso
+  de frete grátis para quem finaliza no aplicativo também fica fora.
+- Não escrever "sem valor mínimo" nem um percentual único de cupom mais Pix; preço "com cupom e Pix" só de carrinho
+  testado.
+- "A última Black Friday da BAW" é nome de campanha: entre aspas, sem interpretar.
+- Dois CNPJs (rodapé e Reclame Aqui): citar os dois com a fonte, sem explicar a diferença.
 - Insider, Toda Up e Cléa Store também estão na prateleira Moda: uma marca por artigo.
 
 ---
