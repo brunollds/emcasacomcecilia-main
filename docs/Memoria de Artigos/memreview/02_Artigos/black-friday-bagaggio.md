@@ -270,3 +270,4 @@ O guia ganhou os capítulos de bordo, despacho, conjuntos e mochilas. URL, capa 
 - **Medidas, litros e garantias:** dos nossos guias (`mala-de-bordo-bagaggio-qual-compensa`, `tamanho-mala-bagaggio-p-m-g`, `mochila-de-viagem-bagaggio-qual-escolher`), sem releitura das fichas.
 - **Não refeito:** Pix (a simulação não mostra); o texto mantém a conta de outubro.
 - **Reler:** na semana de 27/11.
+- **Revisão Farol (15/11):** mesmo parecer, conferido e aplicado: os quatro empates calculados viraram "Empate estimado" na tabela, na prosa e no FAQ; preços iguais aos de outubro sem vender o cupom como economia nova; Pix de outubro (Downtown) marcado como histórico, com o teste de 15/11 da Route média do G9 (404,91 → 384,66); aviso de que a Cartagena Grande soma 162 cm, acima dos 158 cm da LATAM; "menor preço desta seleção"; arrependimento sem "só pelo site".
