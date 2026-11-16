@@ -29527,7 +29527,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Na nossa página, a lista de cupons da YesStyle está atualizada em 12 de novembro de 2026.",
+      "text": "Na nossa página, a lista de cupons da YesStyle está atualizada em 16 de novembro de 2026.",
       "label": "Ver cupons ativos da YesStyle",
       "url": "/cupons/yesstyle",
       "sponsored": false
@@ -36900,7 +36900,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "On our page, the YesStyle coupon list is current as of November 12, 2026.",
+      "text": "On our page, the YesStyle coupon list is current as of November 16, 2026.",
       "label": "View Active YesStyle Coupons",
       "url": "/en/coupons/yesstyle",
       "sponsored": false
@@ -37120,7 +37120,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "En nuestra página, la lista de cupones de YesStyle está actualizada al 12 de noviembre de 2026.",
+      "text": "En nuestra página, la lista de cupones de YesStyle está actualizada al 16 de noviembre de 2026.",
       "label": "Ver cupones activos de YesStyle",
       "url": "/es/coupons/yesstyle",
       "sponsored": false
@@ -37340,7 +37340,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Sur notre page, la liste des coupons YesStyle est à jour au 12 novembre 2026.",
+      "text": "Sur notre page, la liste des coupons YesStyle est à jour au 16 novembre 2026.",
       "label": "Voir les coupons YesStyle actifs",
       "url": "/fr/coupons/yesstyle",
       "sponsored": false
@@ -37560,7 +37560,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Auf unserer Seite ist die Liste der YesStyle-Gutscheine auf dem Stand vom 12. November 2026.",
+      "text": "Auf unserer Seite ist die Liste der YesStyle-Gutscheine auf dem Stand vom 16. November 2026.",
       "label": "Aktive YesStyle-Gutscheine ansehen",
       "url": "/de/coupons/yesstyle",
       "sponsored": false
@@ -37780,7 +37780,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "저희 페이지의 YesStyle 쿠폰 목록은 2026년 11월 12일 기준입니다.",
+      "text": "저희 페이지의 YesStyle 쿠폰 목록은 2026년 11월 16일 기준입니다.",
       "label": "사용 가능한 YesStyle 쿠폰 보기",
       "url": "/ko/coupons/yesstyle",
       "sponsored": false
@@ -38000,7 +38000,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "当サイトのYesStyleクーポン一覧は2026年11月12日時点の内容です。",
+      "text": "当サイトのYesStyleクーポン一覧は2026年11月16日時点の内容です。",
       "label": "利用できるYesStyleクーポンを見る",
       "url": "/ja/coupons/yesstyle",
       "sponsored": false
@@ -38220,7 +38220,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "本站頁面的 YesStyle 優惠碼列表更新於2026年11月12日。",
+      "text": "本站頁面的 YesStyle 優惠碼列表更新於2026年11月16日。",
       "label": "查看 YesStyle 優惠碼",
       "url": "/zh-hant/coupons/yesstyle",
       "sponsored": false
@@ -38440,7 +38440,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "本站页面的 YesStyle 优惠码列表更新于2026年11月12日。",
+      "text": "本站页面的 YesStyle 优惠码列表更新于2026年11月16日。",
       "label": "查看 YesStyle 优惠码",
       "url": "/zh-hans/coupons/yesstyle",
       "sponsored": false
@@ -49358,7 +49358,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Sulla nostra pagina, l'elenco dei coupon YesStyle è aggiornato al 12 novembre 2026.",
+      "text": "Sulla nostra pagina, l'elenco dei coupon YesStyle è aggiornato al 16 novembre 2026.",
       "label": "Vedi i coupon YesStyle attivi",
       "url": "/it/coupons/yesstyle",
       "sponsored": false
