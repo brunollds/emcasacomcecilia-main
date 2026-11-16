@@ -7,7 +7,7 @@ import { CopyCodeButton } from '@/components/coupons/CouponActions';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { ScrollRow } from '@/components/ui/ScrollRow';
 import type { ArticleStoreBlock } from '@/lib/articleStore';
-import { getArticleCopy } from '../articleCopy';
+import { getArticleCopy, getStoreListTitle } from '../articleCopy';
 import { ARTICLE_CUTOUT_ID } from '../articleAnchors';
 import { getCouponCopyLabels, type CouponCopyLocale } from '../couponCopyLocale';
 import { TrackedCouponPageLink } from '../TrackedCouponPageLink';
@@ -32,6 +32,10 @@ const ROW_LINK = `inline-flex min-h-11 items-center gap-1 text-sm font-extrabold
 // copiar, fica verde (data-copied, porque o botão é ele mesmo o tracejado e o :has() do .recorte não casa com ele).
 const CODE_BUTTON = `flex min-h-11 w-full items-center justify-between gap-2 rounded-lg border-2 border-dashed border-marinho bg-white px-3 py-1.5 text-left font-codigo text-[15px] leading-5 font-extrabold tracking-[0.02em] hover:bg-amarelo-cupom/40 data-[copied=true]:border-solid data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-claro data-[copied=true]:text-verde-escuro ${FOCUS_RING}`;
 
+// No cartão do topo da loja sem código, o "Ir à loja" ocupa o lugar do código, com a mesma altura e a borda cheia (o
+// tracejado é de quem copia): não sobra um vazio embaixo, e o código dos vizinhos segue alinhado.
+const STORE_BUTTON = `mt-auto flex min-h-11 w-full items-center justify-between gap-2 rounded-lg border-2 border-marinho bg-white px-3 py-1.5 text-[15px] leading-5 font-extrabold hover:bg-amarelo-cupom/40 ${FOCUS_RING}`;
+
 export type ArticleStoreCodesProps = {
   variant: Variant;
   blocks: readonly ArticleStoreBlock[];
@@ -52,7 +56,8 @@ const CAROUSEL_CARD = 'flex w-[75%] max-w-80 shrink-0 snap-start flex-col rounde
 
 // O artigo de várias lojas: uma loja por linha (ou por cartão, no topo), todas com o mesmo peso e na ordem do artigo
 // (nenhuma é a principal); na lateral, no fim e na gaveta, separadas por um traço. Na linha, o nome e o desconto à esquerda, "Ir à loja" e "Regras" à
-// direita (descem quando o nome é longo) e, embaixo, o código, que copia ao toque. No topo, a lista leva o id do recorte
+// direita (descem quando o nome é longo) e, embaixo, o código, que copia ao toque. A loja só de link (sem código nem
+// página de regras) fica com o nome e o "Ir à loja", e o título passa a falar de lojas (getStoreListTitle). No topo, a lista leva o id do recorte
 // (#cupom-artigo), que o dock do celular observa; no fim, o título e o #loja vêm do ArticleEnd. Na gaveta do celular,
 // fica dentro do <dialog>: com ele aberto, o resto da página é inerte, e o fallback de cópia vai para o dialog do botão.
 export function ArticleStoreCodes({ variant, blocks, locale, reviewSlug }: ArticleStoreCodesProps) {
@@ -63,18 +68,19 @@ export function ArticleStoreCodes({ variant, blocks, locale, reviewSlug }: Artic
   const columns = variant === 'end' && blocks.length > 1;
   const carousel = variant === 'top' && blocks.length > 1;
   const [current, setCurrent] = useState(0);
+  const title = getStoreListTitle(copy, blocks);
 
   return (
     <section
       id={variant === 'top' ? ARTICLE_CUTOUT_ID : undefined}
       data-store-codes={variant}
       // No fim, o h2 do ArticleEnd já dá o nome.
-      aria-label={variant === 'end' ? undefined : copy.storeCodesTitle}
+      aria-label={variant === 'end' ? undefined : title}
       className={carousel ? CARDS_FRAME : FRAME[variant]}
     >
       {variant !== 'end' && (
         <p className="mb-1 text-[13px] font-bold leading-[18px] tracking-[0.04em] text-marinho-suave uppercase">
-          {copy.storeCodesTitle}
+          {title}
         </p>
       )}
       {carousel ? (
@@ -111,6 +117,23 @@ export function ArticleStoreCodes({ variant, blocks, locale, reviewSlug }: Artic
       const copiedHint = copy.copiedHint({ slug, brand }, codeKind);
       // O traço separa as lojas; nas duas colunas, a segunda loja abre a coluna da direita e também fica sem ele.
       const separator = index === 0 || carousel ? '' : `${SEPARATOR} ${columns && index === 1 ? 'md:border-t-0' : ''}`;
+      const linkInCodeSlot = carousel && !code;
+      const storeLink = storeHref && (
+        <CouponStoreLink
+          href={storeHref}
+          couponCode={code}
+          brand={slug}
+          contentSlug={reviewSlug}
+          linkLabel={`${copy.storeGoShort}: ${brand}`}
+          ariaLabel={`${copy.storeGoShort}: ${brand}`}
+          sponsored={storeSponsored}
+          placement={placement}
+          className={linkInCodeSlot ? STORE_BUTTON : ROW_LINK}
+        >
+          {copy.storeGoShort}
+          <ExternalLink aria-hidden="true" className={`${linkInCodeSlot ? 'size-[18px]' : 'size-3.5'} shrink-0`} />
+        </CouponStoreLink>
+      );
       return (
         <li key={slug} data-store-code={slug} className={`group/linha min-w-0 ${carousel ? CAROUSEL_CARD : 'pt-1.5 pb-2.5'} ${separator}`}>
           <div className="flex flex-wrap items-center gap-x-3.5">
@@ -122,22 +145,7 @@ export function ArticleStoreCodes({ variant, blocks, locale, reviewSlug }: Artic
             </p>
             {/* Os dois links quebram juntos: em tela estreita (320 px) com nome longo, descem para a linha de baixo. */}
             <div className="flex items-center gap-x-3">
-              {storeHref && (
-                <CouponStoreLink
-                  href={storeHref}
-                  couponCode={code}
-                  brand={slug}
-                  contentSlug={reviewSlug}
-                  linkLabel={`${copy.storeGoShort}: ${brand}`}
-                  ariaLabel={`${copy.storeGoShort}: ${brand}`}
-                  sponsored={storeSponsored}
-                  placement={placement}
-                  className={ROW_LINK}
-                >
-                  {copy.storeGoShort}
-                  <ExternalLink aria-hidden="true" className="size-3.5 shrink-0" />
-                </CouponStoreLink>
-              )}
+              {!linkInCodeSlot && storeLink}
               {/* Na lateral, a linha fica curta: as regras estão no topo, no fim e na gaveta. */}
               {couponPageHref && variant !== 'sidebar' && (
                 <TrackedCouponPageLink
@@ -155,6 +163,7 @@ export function ArticleStoreCodes({ variant, blocks, locale, reviewSlug }: Artic
               )}
             </div>
           </div>
+          {linkInCodeSlot && storeLink}
           {code && (
             <CopyCodeButton
               code={code}

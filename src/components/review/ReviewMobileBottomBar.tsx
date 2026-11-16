@@ -16,7 +16,7 @@ import { ArticleLimitedCodeLines } from './article/ArticleLimitedCodeLines';
 import { ArticleStoreCodes } from './article/ArticleStoreCodes';
 import { getCouponCopyLabels } from './couponCopyLocale';
 import { isDockVisible, useDockTargets } from './dockVisibility';
-import { getCodeHints, getCodeTitle, getSidebarCopy } from './sidebarCopy';
+import { getCodeHints, getCodeTitle, getSidebarCopy, getViewStoresLabel } from './sidebarCopy';
 import { useReadingPosition, type TocItem } from './useReadingPosition';
 
 export interface ReviewMobileBottomBarProps {
@@ -41,7 +41,7 @@ export interface ReviewMobileBottomBarProps {
   // O artigo tem o recorte do topo (#cupom-artigo): o dock espera ele sair da tela.
   hasTopCutout?: boolean;
   // O artigo de várias lojas: as linhas de código de cada loja ativa vão na gaveta, e o dock troca o botão de copiar
-  // pelo "Ver códigos (N)", que abre a gaveta nelas. Só vem nele, para o payload do artigo de uma loja não mudar.
+  // pelo "Ver códigos (N)" ("Ver lojas (N)" quando alguma loja não tem código), que abre a gaveta nelas. Só vem nele, para o payload do artigo de uma loja não mudar.
   storeBlocks?: readonly ArticleStoreBlock[];
 }
 
@@ -166,7 +166,7 @@ export function ReviewMobileBottomBar({
               className={`flex min-h-[52px] max-w-[48%] shrink-0 items-center gap-2 rounded-lg border-2 border-marinho bg-amarelo-cupom px-3 text-left text-sm leading-5 font-extrabold ${FOCUS_RING}`}
             >
               <Ticket aria-hidden="true" className="h-4 w-4 shrink-0" />
-              <span className="min-w-0 text-balance">{copy.viewCodes(codeCount)}</span>
+              <span className="min-w-0 text-balance">{getViewStoresLabel(copy, storeBlocks ?? [])}</span>
             </button>
           ) : coupon && (
             <CopyCodeButton

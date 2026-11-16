@@ -27,7 +27,7 @@ npm run test:analytics-gate  # allowlist de hosts do GA4 e do Clarity; loader do
 npm run test:language-suggestion  # faixa de sugestão de idioma: idioma do navegador → do site (chinês pela escrita), escolha pelo hreflang da página, inglês sem idioma do site, textos dos 10 idiomas e nada de redirecionamento
 npm run test:home-stores     # vitrine da home, "Acabou de sair" e subpáginas /reviews/loja/<slug>
 npm run test:reviews-hub     # estante de /reviews e das subpáginas: busca sem acento, ordem, URL, Novidades, bolinhas (com a Outros) e a página /reviews/outros, páginas de 12 e 24, medição e os componentes
-npm run test:review-stores   # artigo de várias lojas (`affiliate` em lista, src/lib/reviewStores.ts) nas listagens: abas e ordem das bolinhas da home, /reviews e subpáginas, Outros, rótulo do cartão, busca, relacionados, data comercial, vídeo e snippet
+npm run test:review-stores   # artigo de várias lojas (`affiliate` em lista, src/lib/reviewStores.ts) nas listagens: abas e ordem das bolinhas da home, /reviews e subpáginas, Outros, rótulo do cartão, busca, relacionados, data comercial, vídeo e snippet; as regras da lista (loja de link e afiliado sem página inclusive), os blocos e as linhas do artigo
 npm run test:affiliate-stores  # afiliados sem página (src/lib/affiliateStores.ts): slug fora de couponsData.ts e de `outros`, link https, idiomas do site e os helpers
 npm run test:videos-hub      # /videos e as páginas de vídeo: destaque e ordem pela data, chips de loja e ?loja=, duração, origem e botão da loja, Mais vídeos, canal, medição e os componentes
 npm run test:home-events     # datas comerciais: content/home-events.json, a faixa e a página da data
@@ -83,7 +83,7 @@ aconteceu:
 | Receitas e reviews | `content/receitas/*.json`, `content/reviews/*.json` + `_manifest.json` |
 | Tipos do conteúdo | `src/lib/content/types.ts` |
 | Cupons | `src/lib/couponsData.ts` (união `discount-code \| affiliate-link`) |
-| Afiliados sem página (hoje a Shopee) | `src/lib/affiliateStores.ts`: loja só com o link de afiliado, sem página em `/cupons` nem bolinha; só o artigo de várias lojas lê. Loja que ganha página vai para `couponsData.ts` |
+| Afiliados sem página (hoje a Shopee) | `src/lib/affiliateStores.ts`: loja só com o link de afiliado, sem página em `/cupons` nem bolinha; só o artigo de várias lojas lê (o slug só entra em `affiliate` em lista, e a linha da loja é só o nome e o "Ir à loja"). Loja que ganha página vai para `couponsData.ts` |
 | Cupons em outros idiomas (hoje a SHEIN e a Hostinger) | `src/lib/couponTranslations.ts`: só texto e, quando a loja tem, o link internacional (`offerUrl`); códigos, datas e campanhas vêm do cupom em PT. Aceita loja de link e de código (a de código segue a `CODE_FIELD_POLICY`, e texto sem tradução some da página do idioma). Textos da interface da página de loja em `src/components/coupons/couponStoreCopy.tsx` |
 | YesStyle: código de recompensa e cupons da loja | `data/coupons/yesstyle.json`, lido por `src/lib/yesstyleCoupons.ts`. Textos dos 10 idiomas em `src/components/coupons/yesstyleCopy.ts`, juntados aos dados em `yesstylePage.ts`. Manutenção na seção 3 de `docs/MANUTENCAO-MENSAL.md` |
 | Locales e clusters i18n | `src/lib/i18n/locales.ts` e `src/lib/i18n/clusters/` |
@@ -352,11 +352,17 @@ vídeo, primeiras impressões e uso noturno.
   igual à do PT; o `test:build-output` confere o lugar, os rótulos, as frases e que nenhuma vai ao JSON-LD.
 - Botões dos links de seção (`section.links`, `ReviewSectionContent`): o link externo com `sponsored` fica laranja, como os
   botões do artigo que levam à loja; os outros, inclusive os internos para `/cupons`, ficam brancos. O `test:build-output` confere.
-- Artigo de várias lojas (`"affiliate": [...]`, 2 a 4 lojas de código comum, só em PT, sem `coupon` nem `cta`; plano em
-  `docs/superpowers/plans/2026-11-09-artigo-varias-lojas.md`): não tem loja principal. As lojas se leem só por
+- Artigo de várias lojas (`"affiliate": [...]`, 2 a 4 lojas, só em PT, sem `coupon` nem `cta`; plano em
+  `docs/superpowers/plans/2026-11-09-artigo-varias-lojas.md`): não tem loja principal. Na lista valem a loja de código
+  comum, a loja só de link (com ou sem código de indicação, como a SHEIN e o 4CW5Y) e o afiliado sem página
+  (`affiliateStores.ts`) que vale no idioma do artigo; código de recompensa (YesStyle) e loja com faixas ficam de fora. As lojas se leem só por
   `src/lib/reviewStores.ts` (`getSingleStoreSlug` dá vazio para a lista: nada usa a primeira). O artigo entra na estante
   de todas; no topo, na lateral e no fim, `ArticleStoreCodes` mostra uma linha por loja (`getArticleStoreBlocks`), sem
-  banners de campanha; no celular, o dock mostra "Ver códigos (N)" e abre a gaveta nas linhas. Link de seção, foto com
+  banners de campanha; no celular, o dock mostra "Ver códigos (N)" e abre a gaveta nas linhas. Os blocos saem na ordem
+  da lista; o do afiliado sem página é só o nome e o link, e fora das listagens ele não existe (sem bolinha, aba,
+  subpágina nem nome no cartão: o artigo conta para as lojas de `couponsData.ts`). Com alguma loja sem código, o título
+  e o botão do dock falam de lojas ("Lojas deste artigo", "Ver lojas (N)"), por `getStoreListTitle` (`articleCopy.ts`)
+  e `getViewStoresLabel` (`sidebarCopy.ts`), sobre `everyStoreHasCode`. Link de seção, foto com
   link e peça do card de estilo levam `store`, uma das lojas; o de loja pausada sai sem link. O
   `validate:content` (`scripts/multi-store-checks.ts`) barra o que foge disso; `MULTI_STORE_CONTENT_ALLOWED`, ligado desde
   10/11/2026, desligado barra qualquer artigo com lista. O `test:review-stores` e o `test:build-output` conferem.

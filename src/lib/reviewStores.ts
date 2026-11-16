@@ -10,13 +10,20 @@ type WithAffiliate = { affiliate?: ReviewAffiliate };
 type StoreName = { slug: string; brand: string };
 
 // As lojas do artigo de várias lojas, por slug, para o `store` dos links, das fotos e do card de estilo: a marca (o
-// "Ver na <loja>") e o código (a medição do clique). Montado no servidor e passado ao cliente.
+// "Ver na <loja>") e o código (a medição do clique; a loja só de link não tem). Montado no servidor, a partir dos blocos
+// do artigo, e passado ao cliente: traz as lojas ativas de couponsData.ts e o afiliado sem página.
 export type MultiStores = Record<string, { brand: string; code?: string }>;
 
 // No artigo de várias lojas (`stores` definido, mesmo vazio), só o `store` de uma loja ativa leva o link comercial: o da
 // loja pausada perde o link, e o texto, a foto e a peça ficam. Fora dele, vale o de sempre.
 export function canLinkStore(stores: MultiStores | undefined, store: string | undefined): boolean {
   return !stores || Boolean(store && stores[store]);
+}
+
+// As linhas do artigo de várias lojas falam de "códigos" só quando toda loja tem o dela; com uma loja só de link na
+// lista, o título e o botão do dock falam de "lojas". É a única regra, lida pelo articleCopy e pelo sidebarCopy.
+export function everyStoreHasCode(stores: readonly { code?: string }[]): boolean {
+  return stores.every(({ code }) => Boolean(code));
 }
 
 // Os links da seção sem o botão de loja pausada. O link de loja é o externo e patrocinado, o que pede `store`
