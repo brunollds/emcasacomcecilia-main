@@ -959,6 +959,8 @@ const STORE_COUPONS: Coupon[] = [
       'Confira se o desconto apareceu no resumo do pedido antes de finalizar.',
     ],
     category: 'Eletrônicos, eletrodomésticos, móveis e mais',
+    // Fora da vitrine da home em português (Bruno, 16/11/2026); segue em /cupons, em /reviews e nos outros idiomas.
+    hideFromPortugueseHome: true,
     hubCategory: 'diversos',
     shortDescription: 'produtos vendidos e entregues pelo Magalu na loja Magazine Você da Cecília',
     longDescription:
@@ -1532,6 +1534,16 @@ const STORE_COUPONS: Coupon[] = [
           'Pela política da Temu, o prazo é de 90 dias a partir da data da compra para a maioria dos itens, e nunca menos de 7 dias depois do recebimento. A primeira devolução de cada pedido é grátis; da segunda em diante, a Temu desconta R$ 35 do reembolso. Roupa usada, lavada ou sem etiqueta não volta, e eletrônicos podem ter prazo de 45, 60 ou 90 dias, conforme o vendedor.',
       },
       {
+        question: 'Quais formas de pagamento a Temu aceita?',
+        answer:
+          'Pela central de ajuda da Temu, lida em 16/11/2026: cartão de crédito e de débito (Visa, Mastercard, Hipercard, Elo, Maestro, American Express, Discover, Diners Club e JCB), Pix, boleto, PayPal, Apple Pay, Google Pay e créditos da Temu.',
+      },
+      {
+        question: 'A Temu cobra imposto de importação?',
+        answer:
+          'Sim. A Temu participa do Remessa Conforme e cobra os impostos no pedido. Em pedidos de até US$ 50, o imposto de importação é zero e o ICMS vai de 17% a 20%, conforme o estado. Acima de US$ 50 e até US$ 3.000, o imposto de importação é de 60%, com dedução de US$ 30, e o ICMS continua valendo. As regras são da central de ajuda da Temu, lida em 16/11/2026.',
+      },
+      {
         question: 'Preciso copiar algum código para comprar pelo link?',
         answer:
           'Não. Basta abrir a Temu pelo botão desta página e comprar normalmente. Não há código nosso para colar no carrinho.',
@@ -1603,6 +1615,16 @@ const STORE_COUPONS: Coupon[] = [
         question: 'Como funciona a devolução no AliExpress?',
         answer:
           'Pela política do AliExpress para o Brasil, lida em 16/11/2026, quem desiste da compra tem 7 dias depois da entrega para pedir a devolução. Se o item chega danificado, com defeito ou diferente do anúncio, o prazo é de 30 dias depois da entrega, ou de 90 dias em bens duráveis. Roupa só volta sem uso, sem lavar e com as etiquetas.',
+      },
+      {
+        question: 'Quais formas de pagamento o AliExpress aceita?',
+        answer:
+          'A lista completa aparece no checkout, depois do login, e não a conferimos. Na página dos produtos, em 16/11/2026, o AliExpress mostrava o preço também dividido em 12 parcelas; as condições do parcelamento aparecem no pagamento.',
+      },
+      {
+        question: 'O AliExpress cobra imposto de importação?',
+        answer:
+          'Sim, nas compras internacionais. Pela regra que o AliExpress publica na página do produto, lida em 16/11/2026: em pedidos de até US$ 50 não há imposto de importação, e o ICMS vai de 17% a 20%, conforme o estado. Acima de US$ 50, o imposto de importação é de 60% do pedido, com desconto de US$ 30, e o ICMS incide sobre o pedido mais o imposto. A página do produto mostra o imposto estimado antes da compra.',
       },
       {
         question: 'Preciso copiar algum código para comprar pelo link?',
@@ -2209,6 +2231,8 @@ const STORE_COUPONS: Coupon[] = [
     offerTypeLabelPlural: 'indicações',
     offerActionLabel: 'Criar a lista na Lejour',
     category: 'Lista de casamento e site dos noivos',
+    // Fora da vitrine da home em português (Bruno, 16/11/2026); segue em /cupons, em /reviews e nos outros idiomas.
+    hideFromPortugueseHome: true,
     hubCategory: 'casa',
     shortDescription: 'site do casamento e lista de presentes, com plano gratuito',
     longDescription:

@@ -29,7 +29,9 @@ quando a tradução entrar, nos outros nove idiomas.
 
 | Fato / Especificação | Tipo | Fonte | Consultado Em | Rever Até | Notas |
 |---|---|---|---|---|---|
-| Marketplace internacional do grupo Alibaba | fato_oficial | Rodapé de `https://pt.aliexpress.com/` (lista "Alibaba Group") | 2026-11-16 | 2027-02-16 | Formas de pagamento e alíquota de imposto não foram lidas: ficam fora da página |
+| Marketplace internacional do grupo Alibaba | fato_oficial | Rodapé de `https://pt.aliexpress.com/` (lista "Alibaba Group") | 2026-11-16 | 2027-02-16 | |
+| Imposto nas compras internacionais: até US$ 50, sem imposto de importação e ICMS de 17% a 20% conforme o estado; acima de US$ 50, imposto de importação de 60% do pedido com desconto de US$ 30, e ICMS sobre o pedido mais o imposto; base = preço + frete + descontos | fato_oficial | Janela "Imposto de importação" da página de produto (`pt.aliexpress.com/item/1005013629123113.html`, que mostrava "Compra internacional, R$ 12,97+ em impostos estimados") | 2026-11-16 | 2027-02-16 | |
+| Formas de pagamento: a lista completa só aparece no checkout, com login, e não foi lida. A página de produto mostrava o preço em 12 parcelas | condicao_comercial_volatil | Mesma página de produto; a busca da central de ajuda por "Pix" e "métodos de pagamento" não trouxe a lista | 2026-11-16 | 2026-12-16 | Não afirmar Pix nem boleto sem ler o checkout |
 
 ---
 
