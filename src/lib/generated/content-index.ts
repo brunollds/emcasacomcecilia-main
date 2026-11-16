@@ -80688,7 +80688,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "Os 15% do cupom entraram na sacola nas 16 peças e nos kits testados",
-      "Kit 5 Tech T-Shirt® sai a R$ 84,99 por camiseta com o cupom, com frete grátis",
+      "Kit 5 Tech T-Shirt® sai a cerca de R$ 85,00 por camiseta com o cupom, com frete grátis",
       "Nove das 16 peças estão mais baratas que em outubro",
       "Os botões abrem o produto pelo link da parceria"
     ],
@@ -80715,16 +80715,137 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como a seleção foi conferida",
+        "heading": "Como escolher entre as peças e os kits",
         "paragraphs": [
-          "Em 15 de novembro, cada peça foi para a sacola da Insider duas vezes: sem código, para ver o preço de partida, e com o EMCASACOMCECILIA. Os 15% entraram em todas as peças e em todos os kits testados, sem valor mínimo.",
-          "O preço de partida é o da sacola, antes de qualquer código. Como a loja aceita um cupom por pedido, é sobre ele que os 15% são calculados.",
-          "A seleção de outubro, com 20 peças, virou a régua: fica quem está igual ou mais barato que naquele mês e tem cor e tamanho para escolher. Quatro peças saíram, e o motivo de cada uma está perto do fim. Quando o texto diz que uma peça está entre as mais vendidas, é porque ela aparecia na coleção Mais vendidos do site da Insider nessa mesma leitura.",
+          "As peças desta seleção estavam com preço igual ou menor que na leitura de outubro. Para quem quer várias camisetas, cuecas ou calcinhas, os kits podem reduzir o preço por unidade. Para comprar só uma peça, confira a cor e o tamanho que você veste: o menor preço nem sempre vale na grade toda.",
+          "O EMCASACOMCECILIA deu 15% nas peças e nos kits testados, sem valor mínimo. As tabelas mostram o preço antes e depois do código; o frete depende do total que sobra após o desconto.",
+          "Quatro peças saíram da seleção por preço ou disponibilidade de tamanhos; os motivos estão perto do fim. As referências a “Mais vendidos” indicam a presença na coleção da loja, sem estabelecer um ranking de vendas entre as peças.",
           "A campanha, as datas e o que soma com o cupom estão nos guias da [Black Friday Insider masculino](/reviews/black-friday-insider) e da [Black Friday Insider feminino](/reviews/black-friday-insider-feminino). Aqui fica a escolha das peças."
         ]
       },
       {
-        "heading": "As 16 peças num quadro só",
+        "heading": "Kits: quando a conta por peça ganha",
+        "paragraphs": [
+          "Em camiseta, cueca e calcinha, o kit baixa o preço de cada peça e ainda pode levar o pedido ao frete grátis. Os 15% do cupom entraram em todos os kits dos quadros abaixo. O nome de cada kit abre a página dele na loja, sem o cupom: copie o código antes.",
+          "Nos kits “Compre 1, ganhe 1”, a página da oferta consultada informa que não acumula com cupom. Em teste anterior, um kit Daily com cueca de brinde aceitou os 15%. Confira a oferta específica e a linha do código no carrinho antes de pagar. A comparação entre kits e avulsas está em [Kit Insider: quando compensa](/reviews/kit-insider-quando-compensa)."
+        ]
+      },
+      {
+        "heading": "Kits de camisetas",
+        "comparisonTable": {
+          "caption": "Kits na sacola da Insider em 15 de novembro, sem código e com o EMCASACOMCECILIA; a conta por peça é nossa",
+          "headers": [
+            "Kit",
+            "Na sacola",
+            "Com o cupom",
+            "Por peça, com o cupom"
+          ],
+          "rows": [
+            [
+              "[Kit 5 Tech T-Shirt®](https://www.insiderstore.com.br/products/kit-5-tech-t-shirt-1)",
+              "R$ 499,97",
+              "R$ 424,98",
+              "R$ 85,00"
+            ],
+            [
+              "[Kit 5 Tech T-Shirt® Feminina](https://www.insiderstore.com.br/products/kit-5-tech-t-shirt-feminina-1)",
+              "R$ 499,97",
+              "R$ 424,98",
+              "R$ 85,00"
+            ],
+            [
+              "[Kit 5 Camisetas Core T-Shirt](https://www.insiderstore.com.br/products/kit-5-camisetas-premium-encorpada-core-t-shirt)",
+              "R$ 569,94",
+              "R$ 484,45",
+              "R$ 96,89"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "É onde o kit mais muda a conta: a Tech T-Shirt® avulsa sai a R$ 114,75 com o cupom, e no kit de cinco, a cerca de R$ 85,00 cada. Os três kits passam do mínimo do frete grátis."
+        ]
+      },
+      {
+        "heading": "Kits de cuecas",
+        "comparisonTable": {
+          "caption": "Kits de cuecas na mesma leitura da sacola; a conta por peça é nossa",
+          "headers": [
+            "Kit",
+            "Na sacola",
+            "Com o cupom",
+            "Por peça, com o cupom"
+          ],
+          "rows": [
+            [
+              "[Kit 3 Cuecas Boxer Comfort](https://www.insiderstore.com.br/products/kit-3-cuecas-confortaveis-boxer-comfort)",
+              "R$ 229,89",
+              "R$ 195,41",
+              "R$ 65,14"
+            ],
+            [
+              "[Kit 5 Cuecas Boxer Comfort](https://www.insiderstore.com.br/products/kit-5-cuecas-comfort)",
+              "R$ 375,25",
+              "R$ 318,97",
+              "R$ 63,79"
+            ],
+            [
+              "[Kit 3 Cuecas Boxer Performance](https://www.insiderstore.com.br/products/kit-3-cuecas-boxer-performance)",
+              "R$ 229,89",
+              "R$ 195,41",
+              "R$ 65,14"
+            ],
+            [
+              "[Kit 5 Cuecas Boxer Performance](https://www.insiderstore.com.br/products/kit-5-cuecas-performance)",
+              "R$ 375,25",
+              "R$ 318,97",
+              "R$ 63,79"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Aqui o kit tira de dois a três reais por peça em relação à avulsa de R$ 67,15. Só compensa para quem ia comprar três ou mais de qualquer jeito."
+        ]
+      },
+      {
+        "heading": "Kits de calcinhas",
+        "comparisonTable": {
+          "caption": "Kits de calcinhas na mesma leitura da sacola; a conta por peça é nossa",
+          "headers": [
+            "Kit",
+            "Na sacola",
+            "Com o cupom",
+            "Por peça, com o cupom"
+          ],
+          "rows": [
+            [
+              "[Kit 3 Calcinhas Hot Pant Safe](https://www.insiderstore.com.br/products/kit-3-calcinhas-safe)",
+              "R$ 105,30",
+              "R$ 89,51",
+              "R$ 29,84"
+            ],
+            [
+              "[Kit 3 Calcinhas Biquíni Brief](https://www.insiderstore.com.br/products/kit-3-calcinhas-brief)",
+              "R$ 118,20",
+              "R$ 100,47",
+              "R$ 33,49"
+            ],
+            [
+              "[Kit 5 Calcinhas Biquíni Brief](https://www.insiderstore.com.br/products/kit-5-calcinhas-brief)",
+              "R$ 190,19",
+              "R$ 161,67",
+              "R$ 32,33"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No kit, a Brief sai abaixo do menor preço da avulsa, que hoje vale em poucos tamanhos. Underwear tem regra própria de troca: veja o capítulo de troca antes de fechar o tamanho."
+        ]
+      },
+      {
+        "heading": "Roupas íntimas",
+        "paragraphs": [
+          "Duas calcinhas e duas cuecas, as quatro na coleção Mais vendidos da loja. A política da Insider trata underwear de um jeito próprio na troca, e isso muda a compra: veja o capítulo de troca antes de escolher o tamanho."
+        ],
         "comparisonTable": {
           "caption": "Menor preço de cada peça na sacola da Insider em 15 de novembro, sem código e com o EMCASACOMCECILIA; a última coluna é o preço com o cupom na seleção de outubro",
           "headers": [
@@ -80757,176 +80878,17 @@ export const reviewsData: unknown[] = [
               "R$ 79,00",
               "R$ 67,15",
               "R$ 67,15"
-            ],
-            [
-              "Blusa Skin Cropped",
-              "R$ 99,00",
-              "R$ 84,15",
-              "R$ 84,15"
-            ],
-            [
-              "Cropped Regata Structure",
-              "R$ 99,00",
-              "R$ 84,15",
-              "R$ 92,65"
-            ],
-            [
-              "Blusa de Alça Feminina The Perfect Top",
-              "R$ 121,00",
-              "R$ 102,85",
-              "R$ 114,75"
-            ],
-            [
-              "Tech T-Shirt®",
-              "R$ 135,00",
-              "R$ 114,75",
-              "R$ 118,15"
-            ],
-            [
-              "Tech T-Shirt® Gola V Feminina",
-              "R$ 135,00",
-              "R$ 114,75",
-              "R$ 118,15"
-            ],
-            [
-              "Vestido Curto Tube Dress",
-              "R$ 175,00",
-              "R$ 148,75",
-              "R$ 177,65"
-            ],
-            [
-              "Camiseta Premium Encorpada Core T-Shirt",
-              "R$ 179,00",
-              "R$ 152,15",
-              "R$ 152,15"
-            ],
-            [
-              "Vestido Curto Rush",
-              "R$ 209,00",
-              "R$ 177,65",
-              "R$ 177,65"
-            ],
-            [
-              "Camisa Social Alfaiataria Tech FutureForm® Masculina",
-              "R$ 398,90",
-              "R$ 339,07",
-              "R$ 352,75"
-            ],
-            [
-              "Camisa Oversized Alfaiataria Tech FutureForm® Feminina",
-              "R$ 398,90",
-              "R$ 339,07",
-              "R$ 381,65"
-            ],
-            [
-              "Calça Tecnológica Masculina FutureForm®",
-              "R$ 449,00",
-              "R$ 381,65",
-              "R$ 385,90"
-            ],
-            [
-              "Casaco Feminino Wingsuit",
-              "R$ 479,00",
-              "R$ 407,15",
-              "R$ 407,15"
             ]
           ]
         },
         "postParagraphs": [
-          "O menor preço nem sempre vale em toda cor e todo tamanho: na Brief, na Boxer Performance e no Rush, ele é de poucas combinações, e a seção de cada peça diz quais."
-        ]
-      },
-      {
-        "heading": "Kits: quando a conta por peça ganha",
-        "paragraphs": [
-          "Em camiseta, cueca e calcinha, o kit baixa o preço de cada peça e ainda pode levar o pedido ao frete grátis. Os 15% do cupom entraram em todos os kits abaixo. O nome de cada kit abre a página dele na loja, sem o cupom: copie o código antes."
-        ],
-        "comparisonTable": {
-          "caption": "Kits na sacola da Insider em 15 de novembro, sem código e com o EMCASACOMCECILIA; a conta por peça é nossa",
-          "headers": [
-            "Kit",
-            "Na sacola",
-            "Com o cupom",
-            "Por peça, com o cupom"
-          ],
-          "rows": [
-            [
-              "[Kit 5 Tech T-Shirt®](https://www.insiderstore.com.br/products/kit-5-tech-t-shirt-1)",
-              "R$ 499,97",
-              "R$ 424,98",
-              "R$ 84,99"
-            ],
-            [
-              "[Kit 5 Tech T-Shirt® Feminina](https://www.insiderstore.com.br/products/kit-5-tech-t-shirt-feminina-1)",
-              "R$ 499,97",
-              "R$ 424,98",
-              "R$ 84,99"
-            ],
-            [
-              "[Kit 5 Camisetas Core T-Shirt](https://www.insiderstore.com.br/products/kit-5-camisetas-premium-encorpada-core-t-shirt)",
-              "R$ 569,94",
-              "R$ 484,45",
-              "R$ 96,89"
-            ],
-            [
-              "[Kit 3 Cuecas Boxer Comfort](https://www.insiderstore.com.br/products/kit-3-cuecas-confortaveis-boxer-comfort)",
-              "R$ 229,89",
-              "R$ 195,41",
-              "R$ 65,14"
-            ],
-            [
-              "[Kit 5 Cuecas Boxer Comfort](https://www.insiderstore.com.br/products/kit-5-cuecas-comfort)",
-              "R$ 375,25",
-              "R$ 318,97",
-              "R$ 63,79"
-            ],
-            [
-              "[Kit 3 Cuecas Boxer Performance](https://www.insiderstore.com.br/products/kit-3-cuecas-boxer-performance)",
-              "R$ 229,89",
-              "R$ 195,41",
-              "R$ 65,14"
-            ],
-            [
-              "[Kit 5 Cuecas Boxer Performance](https://www.insiderstore.com.br/products/kit-5-cuecas-performance)",
-              "R$ 375,25",
-              "R$ 318,97",
-              "R$ 63,79"
-            ],
-            [
-              "[Kit 3 Calcinhas Hot Pant Safe](https://www.insiderstore.com.br/products/kit-3-calcinhas-safe)",
-              "R$ 105,30",
-              "R$ 89,51",
-              "R$ 29,84"
-            ],
-            [
-              "[Kit 3 Calcinhas Biquíni Brief](https://www.insiderstore.com.br/products/kit-3-calcinhas-brief)",
-              "R$ 118,20",
-              "R$ 100,47",
-              "R$ 33,49"
-            ],
-            [
-              "[Kit 5 Calcinhas Biquíni Brief](https://www.insiderstore.com.br/products/kit-5-calcinhas-brief)",
-              "R$ 190,19",
-              "R$ 161,67",
-              "R$ 32,33"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "A maior diferença está nas camisetas: a Tech T-Shirt® avulsa sai a R$ 114,75 com o cupom, e no kit de cinco, a R$ 84,99 cada. Nas cuecas, o kit tira de dois a três reais por peça; só compensa para quem ia comprar três ou mais de qualquer jeito.",
-          "Kit com a etiqueta “Compre 1, ganhe 1” é outra promoção da loja, e a página dele diz que não soma com cupom. A conta completa, com os casos em que a avulsa ganha, está em [Kit Insider: quando compensa](/reviews/kit-insider-quando-compensa)."
-        ]
-      },
-      {
-        "heading": "Roupas íntimas",
-        "paragraphs": [
-          "Duas calcinhas e duas cuecas, as quatro na coleção Mais vendidos da loja. A política da Insider trata underwear de um jeito próprio na troca, e isso muda a compra: veja o capítulo de troca antes de escolher o tamanho."
+          "O menor preço nem sempre vale em toda cor e todo tamanho: na Brief e na Boxer Performance, ele é de poucas combinações, e a seção de cada peça diz quais."
         ]
       },
       {
         "heading": "Calcinha Hot Pant Safe",
         "paragraphs": [
-          "É a calcinha com mais cobertura da seleção e a peça que mais baixou desde outubro. A página descreve forro de fibra de origem natural e tecido respirável e antiodor.",
+          "É a calcinha com mais cobertura da seleção e a que teve a maior queda percentual desde outubro. A página descreve forro de fibra de origem natural e tecido respirável e antiodor.",
           "Na cor Woodsmoke, do PP ao XGG, sai por R$ 39,00 na sacola e **R$ 33,15** com o cupom. Nas outras cores, quase todas a R$ 69,00, fica em R$ 58,65. Quem quer três leva o kit: R$ 29,84 cada com o cupom."
         ],
         "image": "/images/reviews/insider/selecao-insider-calcinha-safe.webp",
@@ -80999,13 +80961,60 @@ export const reviewsData: unknown[] = [
         "heading": "Camisetas e blusas",
         "paragraphs": [
           "Seis peças de cima para o dia a dia. As duas Tech T-Shirt® e a Perfect Top estão na coleção Mais vendidos, e as três ficaram mais baratas que em outubro."
-        ]
+        ],
+        "comparisonTable": {
+          "caption": "Menor preço de cada peça na mesma leitura da sacola, sem código e com o EMCASACOMCECILIA",
+          "headers": [
+            "Peça",
+            "Na sacola",
+            "Com o cupom",
+            "Em outubro, com o cupom"
+          ],
+          "rows": [
+            [
+              "Tech T-Shirt®",
+              "R$ 135,00",
+              "R$ 114,75",
+              "R$ 118,15"
+            ],
+            [
+              "Tech T-Shirt® Gola V Feminina",
+              "R$ 135,00",
+              "R$ 114,75",
+              "R$ 118,15"
+            ],
+            [
+              "Blusa de Alça Feminina The Perfect Top",
+              "R$ 121,00",
+              "R$ 102,85",
+              "R$ 114,75"
+            ],
+            [
+              "Cropped Regata Structure",
+              "R$ 99,00",
+              "R$ 84,15",
+              "R$ 92,65"
+            ],
+            [
+              "Blusa Skin Cropped",
+              "R$ 99,00",
+              "R$ 84,15",
+              "R$ 84,15"
+            ],
+            [
+              "Camiseta Premium Encorpada Core T-Shirt",
+              "R$ 179,00",
+              "R$ 152,15",
+              "R$ 152,15"
+            ]
+          ]
+        }
       },
       {
         "heading": "Tech T-Shirt®",
         "paragraphs": [
-          "A primeira da coleção Mais vendidos e a porta de entrada da marca: tecido INTECH®, com modal, e garantia de 2 anos contra desbotamento para peças lavadas conforme a etiqueta, segundo a página. Entre ela, a Heavy e a Core, a diferença está em [Camiseta Insider: qual escolher](/reviews/camiseta-insider-qual-escolher).",
-          "Sai por R$ 135,00 na sacola e **R$ 114,75** com o cupom nas nove cores; Preta, Azul e Mescla vão do PP ao XXGG. Quem quer várias leva o Kit 5: R$ 424,98 com o cupom, R$ 84,99 por camiseta, e o pedido passa do mínimo do frete grátis."
+          "Está na coleção Mais vendidos da loja e é a camiseta básica da marca: tecido INTECH®, com modal, e garantia de 2 anos contra desbotamento para peças lavadas conforme a etiqueta, segundo a página. Entre ela, a Heavy e a Core, a diferença está em [Camiseta Insider: qual escolher](/reviews/camiseta-insider-qual-escolher).",
+          "Sai por R$ 135,00 na sacola e **R$ 114,75** com o cupom nas nove cores; Preta, Azul e Mescla vão do PP ao XXGG. Quem quer várias leva o Kit 5: R$ 424,98 com o cupom, cerca de R$ 85,00 por camiseta, e o pedido passa do mínimo do frete grátis."
         ],
         "image": "/images/reviews/insider/selecao-insider-tech-t-shirt.webp",
         "imageAlt": "Tech T-Shirt®, foto oficial da Insider",
@@ -81023,7 +81032,7 @@ export const reviewsData: unknown[] = [
         "heading": "Tech T-Shirt® Gola V Feminina",
         "paragraphs": [
           "A versão feminina da Tech T-Shirt®, com gola V levemente alongada e o mesmo tecido INTECH®. Para comparar com a gola redonda e as outras femininas, veja [Camiseta feminina Insider: qual escolher](/reviews/camiseta-feminina-insider-qual-escolher).",
-          "Sai por R$ 135,00 na sacola e **R$ 114,75** com o cupom. Azul, Carmenere, Preta e Off White têm do P ao GG; a Evergreen começa no PP. No kit, a gola redonda leva vantagem: o Kit 5 Tech T-Shirt® Feminina sai a R$ 84,99 por peça com o cupom, e o de gola V, a R$ 100,04."
+          "Sai por R$ 135,00 na sacola e **R$ 114,75** com o cupom. Azul, Carmenere, Preta e Off White têm do P ao GG; a Evergreen começa no PP. No kit, a gola redonda leva vantagem: o Kit 5 Tech T-Shirt® Feminina sai a cerca de R$ 85,00 por peça com o cupom, e o de gola V, a R$ 100,04."
         ],
         "image": "/images/reviews/insider/selecao-insider-tech-t-shirt-gola-v-feminina.webp",
         "imageAlt": "Tech T-Shirt® Gola V Feminina, foto oficial da Insider",
@@ -81113,7 +81122,54 @@ export const reviewsData: unknown[] = [
         "heading": "Camisas, calça, vestidos e casaco",
         "paragraphs": [
           "As peças mais caras da seleção, e onde o frete entra na conta: três delas ficam logo abaixo do mínimo do frete grátis depois do cupom."
-        ]
+        ],
+        "comparisonTable": {
+          "caption": "Menor preço de cada peça na mesma leitura da sacola, sem código e com o EMCASACOMCECILIA",
+          "headers": [
+            "Peça",
+            "Na sacola",
+            "Com o cupom",
+            "Em outubro, com o cupom"
+          ],
+          "rows": [
+            [
+              "Camisa Social Alfaiataria Tech FutureForm® Masculina",
+              "R$ 398,90",
+              "R$ 339,07",
+              "R$ 352,75"
+            ],
+            [
+              "Camisa Oversized Alfaiataria Tech FutureForm® Feminina",
+              "R$ 398,90",
+              "R$ 339,07",
+              "R$ 381,65"
+            ],
+            [
+              "Calça Tecnológica Masculina FutureForm®",
+              "R$ 449,00",
+              "R$ 381,65",
+              "R$ 385,90"
+            ],
+            [
+              "Vestido Curto Tube Dress",
+              "R$ 175,00",
+              "R$ 148,75",
+              "R$ 177,65"
+            ],
+            [
+              "Vestido Curto Rush",
+              "R$ 209,00",
+              "R$ 177,65",
+              "R$ 177,65"
+            ],
+            [
+              "Casaco Feminino Wingsuit",
+              "R$ 479,00",
+              "R$ 407,15",
+              "R$ 407,15"
+            ]
+          ]
+        }
       },
       {
         "heading": "Camisa Social Alfaiataria Tech FutureForm® Masculina",
@@ -81136,7 +81192,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camisa Oversized Alfaiataria Tech FutureForm® Feminina",
         "paragraphs": [
-          "A versão feminina, oversized, do mesmo tecido. É a peça que mais baixou entre as caras: em outubro, saía a R$ 381,65 com o cupom.",
+          "A versão feminina, oversized, do mesmo tecido. É a maior redução em reais da seleção: em outubro, saía a R$ 381,65 com o cupom.",
           "Agora, R$ 398,90 na sacola e **R$ 339,07** com o cupom, do PP ao GG na Preto e na Urban Brown. Sozinha, também paga frete."
         ],
         "image": "/images/reviews/insider/selecao-insider-camisa-futureform-feminino.webp",
@@ -81173,7 +81229,7 @@ export const reviewsData: unknown[] = [
         "heading": "Vestido Curto Tube Dress",
         "paragraphs": [
           "Versão curta do vestido mais conhecido da marca, sem zíper nem botões. A página diz que o forro duplo e as alças largas dispensam o sutiã; isso depende do corpo e do gosto de cada uma. Na loja, aparece com a etiqueta de últimas peças.",
-          "É a maior queda da seleção: R$ 175,00 na sacola e **R$ 148,75** com o cupom, contra R$ 177,65 em outubro. A Preto tem do PP ao XGG; a Rust Brown, só GG e XGG."
+          "Ficou R$ 28,90 mais barato que na seleção de outubro: R$ 175,00 na sacola e **R$ 148,75** com o cupom, contra R$ 177,65 em outubro. A Preto tem do PP ao XGG; a Rust Brown, só GG e XGG."
         ],
         "image": "/images/reviews/insider/selecao-insider-vestido-curto-tube-dress-feminino.webp",
         "imageAlt": "Vestido Curto Tube Dress, foto oficial da Insider",
@@ -81249,8 +81305,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Troca, devolução e arrependimento",
         "paragraphs": [
-          "A política de troca da Insider, lida em 15 de novembro, separa três casos. A troca por insatisfação pode ser pedida em até 21 dias corridos depois do recebimento, com a peça nova, sem marcas de uso e com a etiqueta. O defeito tem 180 dias. E o arrependimento, 7 dias úteis.",
-          "Underwear e moda praia são a exceção: por higiene, a política diz que essas linhas só são trocadas ou devolvidas com defeito comprovado. Por isso, em calcinha e cueca, confira a [tabela de medidas da Insider](/reviews/tabela-de-medidas-insider) antes de comprar, ainda mais no kit.",
+          "A política de troca da Insider, lida em 15 de novembro, separa três casos. A troca por insatisfação pode ser pedida em até 21 dias corridos depois do recebimento, com a peça nova, sem marcas de uso e com a etiqueta. O defeito tem 180 dias. Para devolução por arrependimento, a política da Insider informa sete dias úteis; o prazo legal das compras pela internet é de sete dias corridos após o recebimento.",
+          "Na política comercial de troca, a Insider restringe underwear e moda praia a defeito comprovado. Essa regra é diferente do direito de arrependimento previsto para compras online. Confira a [tabela de medidas da Insider](/reviews/tabela-de-medidas-insider) antes de escolher calcinha ou cueca, especialmente em kit.",
           "O direito de arrependimento em compra pela internet vem do Código de Defesa do Consumidor e não depende da política da loja; o [Procon-SP explica como ele funciona](https://www.procon.sp.gov.br/reclamacoes-de-compras-online/). Brinde que veio no pedido volta junto com a peça devolvida."
         ]
       },
@@ -81259,7 +81315,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Pelos botões desta seleção:** o link da parceria abre o produto com o cupom. Antes de pagar, confira na sacola a linha “Cupom (EMCASACOMCECILIA)” e o valor do desconto.",
           "**Um cupom por pedido:** o EMCASACOMCECILIA não soma com outro código.",
-          "**Fora do cupom:** compras na loja física, alguns lançamentos nos primeiros dias e os kits “Compre 1, ganhe 1”.",
+          "**Restrições:** o código é da loja online e pode ficar fora de alguns lançamentos nos primeiros dias. Nos kits com brinde, confira a condição da oferta e a aplicação no carrinho; o resultado pode variar entre kits.",
           "**Cor e tamanho:** o preço muda dentro da mesma peça. Olhe o valor depois de escolher a cor e o tamanho, e não o da vitrine.",
           "**Onde digitar o código:** veja [Como usar o cupom EMCASACOMCECILIA na Insider](/reviews/cupom-emcasacomcecilia-insider-store-como-usar)."
         ]
@@ -81267,12 +81323,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O que vale a pena comprar na Insider na Black Friday? Pela conta por peça, o Kit 5 Tech T-Shirt®, a R$ 84,99 por camiseta com o cupom EMCASACOMCECILIA. Entre as avulsas, as que mais baixaram desde outubro foram a Calcinha Hot Pant Safe, o Vestido Tube Dress e a Camisa FutureForm® feminina.",
+          "O que vale a pena comprar na Insider na Black Friday? Pela conta por peça, o Kit 5 Tech T-Shirt®, a cerca de R$ 85,00 por camiseta com o cupom EMCASACOMCECILIA. Entre as avulsas, a Hot Pant Safe teve a maior queda percentual desde outubro; a Camisa FutureForm® feminina, a maior redução em reais. O Tube Dress também ficou mais barato.",
           "O cupom EMCASACOMCECILIA vale nas peças da seleção? Vale. O cupom Insider EMCASACOMCECILIA tirou 15% na sacola das 16 peças e dos kits testados, sem valor mínimo.",
-          "O cupom soma com o preço da Black Friday? Soma. Os 15% saem sobre o preço que a sacola mostra, já com a campanha. Kit “Compre 1, ganhe 1” fica fora: a página dele diz que não soma com cupom.",
-          "Kit ou peça avulsa na Insider? Em camiseta, o kit ganha com folga: R$ 84,99 por Tech T-Shirt® no Kit 5, contra R$ 114,75 na avulsa, os dois com o cupom. Em cueca, a diferença é de dois a três reais por peça.",
+          "O cupom soma com o preço da Black Friday? Nos testes desta seleção, o EMCASACOMCECILIA deu 15% sobre os preços promocionais das peças e dos kits conferidos. Nos kits com brinde, confira a oferta específica e a linha de desconto no carrinho.",
+          "Kit ou peça avulsa na Insider? Em camiseta, o kit ganha com folga: cerca de R$ 85,00 por Tech T-Shirt® no Kit 5, contra R$ 114,75 na avulsa, os dois com o cupom. Em cueca, a diferença é de dois a três reais por peça.",
           "Qual é a peça mais barata da seleção? A Calcinha Hot Pant Safe na cor Woodsmoke: R$ 39,00 na sacola e R$ 33,15 com o cupom.",
-          "A Insider troca calcinha e cueca? Pela política da loja, underwear só é trocado ou devolvido com defeito comprovado. Confira a tabela de medidas antes de comprar.",
+          "A Insider troca calcinha e cueca? A política comercial restringe a troca de underwear a defeito comprovado. Para compras pela internet, considere também o direito de arrependimento, com prazo legal de sete dias corridos após o recebimento. Confira as medidas antes de escolher o tamanho.",
           "Posso usar dois cupons no mesmo pedido? Não. A Insider aceita um cupom por pedido. As regras estão na [página do cupom Insider](/cupons/insider)."
         ]
       }
@@ -176383,7 +176439,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Simple Organic está em Black Friday: a Clean Friday, com até 50% OFF, vai até o fim de novembro ou até o estoque acabar. No nosso teste, o cupom S-EMCASACOMCECILIA entrou em kit, duo e itens com preço de campanha. O que decide é o desconto no carrinho: veja o capítulo do cupom."
+          "Na Clean Friday, a Simple Organic anuncia até 50% OFF até o fim de novembro, enquanto durarem os estoques. O S-EMCASACOMCECILIA deu mais 5% nos kits, duos e produtos promocionais testados. Compare o total com frete antes de pagar: perto do mínimo da entrega grátis, o cupom pode aumentar a conta."
         ]
       },
       {
@@ -176534,12 +176590,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete e prazo na campanha",
         "paragraphs": [
-          "Na Clean Friday, o que muda não é o frete, é o prazo: a política de frete da loja avisa que, em ação grande, o despacho pode passar dos 3 a 5 dias úteis de sempre. O frete grátis segue a partir de R$ 99,00 em produtos, pela faixa do topo do site; abaixo disso, ele é calculado pelo CEP, por PAC, Sedex ou JadLog.",
+          "Na Clean Friday, a loja avisa que o despacho pode ultrapassar os três a cinco dias úteis habituais. O frete grátis segue a partir de R$ 99,00 em produtos, pela faixa do topo do site; abaixo disso, ele é calculado pelo CEP, por PAC, Sedex ou JadLog.",
           "O mínimo do frete grátis conta depois do desconto, e é aí que o cupom pode custar caro. No teste de checkout de 10/11, com um CEP de São Paulo, o Trio Body Splashes saiu a R$ 99,50 com frete grátis sem o código. Com o código, os produtos caíram para R$ 94,53, abaixo do mínimo, e entraram R$ 10,88 de frete: R$ 105,41 no total. O cupom tirou R$ 4,97 dos produtos e pôs R$ 5,91 a mais na conta.",
-          "Nos outros carrinhos, o código ajuda. A Rotina Pele Sensível fica abaixo de R$ 99 com ou sem ele, então o frete é o mesmo e os 5% baixam o total. O Duo Limpeza + Regeneração vai a R$ 101,65 com o código e continua acima do mínimo. Um sérum ou o gel sozinhos pagam frete de qualquer jeito.",
+          "Pela cotação da sacola e pela regra do mínimo, a estimativa é que o código reduza o total da Rotina Pele Sensível e do Duo Limpeza + Regeneração. A Rotina fica abaixo de R$ 99 com ou sem o desconto; o Duo continua acima depois dele. Esses dois totais precisam ser confirmados no checkout para o seu CEP.",
           "Compare o total final com e sem o código para o mesmo carrinho, CEP e modalidade de entrega. Se o frete e os demais benefícios permanecerem iguais, o desconto nos produtos reduz o total entregue. O frete muda com o CEP, e completar o carrinho só compensa com item que você já ia comprar.",
           "Para presente com data certa, confira no checkout o prazo para seu CEP e considere margem para eventuais atrasos de despacho ou transporte. Comprar antes dá mais tempo, sem garantir entrega numa data. Se ainda falta decidir o que dar, veja [como escolher um kit de skincare para presente](/reviews/kit-skincare-presente-simple-organic).",
-          "Pagamento: cartão em até 5x sem juros, com parcela mínima de R$ 30, ou Pix com QR Code que vale 2 horas. Troca ou desistência: 7 dias corridos depois de receber, com o produto sem uso e o lacre inviolado, por e-mail ao atendimento com o número do pedido. Na campanha isso pesa: a loja pede o lacre intacto para troca e desistência, e produto com defeito pode ser reclamado em até 30 dias, pelo Código de Defesa do Consumidor."
+          "Pagamento: cartão em até 5x sem juros, com parcela mínima de R$ 30, ou Pix com QR Code que vale 2 horas. Para troca por preferência, a loja pede produto sem uso e lacre intacto. Nas compras pela internet, o direito de arrependimento prevê sete dias corridos após o recebimento. Se houver defeito, registre o problema e procure atendimento; no caso de defeito oculto, o prazo de reclamação começa quando ele se torna evidente."
         ],
         "images": [
           {
@@ -176560,19 +176616,19 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Trio Body Splashes Simple",
+              "Trio Body Splashes Simple (teste no checkout)",
               "R$ 99,50, frete grátis",
               "R$ 94,53 + R$ 10,88 de frete = R$ 105,41",
               "Total R$ 5,91 maior"
             ],
             [
-              "Rotina Pele Sensível",
+              "Rotina Pele Sensível (estimativa)",
               "R$ 91,00 + R$ 10,72 de frete = R$ 101,72",
               "R$ 86,45 + R$ 10,72 de frete = R$ 97,17",
               "Total R$ 4,55 menor"
             ],
             [
-              "Duo Limpeza + Regeneração",
+              "Duo Limpeza + Regeneração (estimativa)",
               "R$ 107,00, frete grátis",
               "R$ 101,65, frete grátis",
               "Total R$ 5,35 menor"
@@ -176601,7 +176657,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Simple Organic tem Black Friday? Tem, com o nome de Clean Friday: o banner da home anuncia tudo com até 50% OFF, e o desconto já está no preço de cada produto.",
           "Quando é a Black Friday da Simple Organic? A Clean Friday já começou e vai até o fim de novembro, enquanto durarem os estoques; a loja não anunciou regra diferente para a sexta.",
-          "O cupom S-EMCASACOMCECILIA vale na Black Friday? Vale. No nosso teste, o cupom Simple Organic S-EMCASACOMCECILIA entrou em itens com preço de campanha: confira a linha do cupom no carrinho, como mostra o capítulo do cupom.",
+          "O cupom S-EMCASACOMCECILIA vale na Black Friday? Vale. Nos testes, o cupom Simple Organic S-EMCASACOMCECILIA deu mais 5% em produtos com preço de campanha, inclusive kits e duos. Confira a linha do código e o total com frete no carrinho.",
           "Kit ou produto avulso na Clean Friday da Simple Organic? Depende do conjunto. A Rotina Pele Sensível sai R$ 6,90 abaixo dos três produtos avulsos e o Trio Body Splashes, R$ 4,00; o Duo Limpeza + Regeneração custa praticamente o mesmo que os dois separados.",
           "O cupom pode tirar o frete grátis na Simple Organic? Pode. O mínimo de R$ 99 conta depois do desconto: no nosso teste, o Trio Body Splashes ficou em R$ 94,53 com o cupom S-EMCASACOMCECILIA e passou a pagar frete. Compare o total com e sem o código.",
           "A Simple Organic tem frete grátis na Clean Friday? Tem, a partir de R$ 99 em produtos, contados depois do cupom, como fora da campanha; abaixo disso, o frete é pelo CEP.",
