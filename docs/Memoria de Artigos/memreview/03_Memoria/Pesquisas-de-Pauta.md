@@ -8,6 +8,19 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## BAW Clothing: pacote inicial (16/11/2026)
+
+Parceira nova (#1048). Pesquisa semente pedida pelo Bruno em 16/11; pautas BW1 a BW6 na [[Fila-de-Pautas]], fatos em [[baw-fatos-1611]].
+
+- **Autocompletar (16/11):** a raiz "baw clothing" já sugere "moletom", "camiseta", "dono", "reclame aqui", "loja" e "cnpj". "baw clothing é" traz "é brasileira", "é confiável", "é de quem", "é bom"; "baw é" traz "é da reserva", "é da arezzo", "é marca boa". "cupom baw" traz "app", "primeira compra", "influencer", "2026" e "20". "baw black friday" e "cupom baw black friday" existem. Sem sugestão: "vale a pena", "qualidade", "frete", "demora" e qualquer "baw ou <marca>".
+- **Reclame Aqui (01/05 a 31/10/2026):** Boa, 7,3; 843 reclamações, 100% respondidas, 83,7% resolvidas, 56,7% voltariam a fazer negócio, resposta em 8 dias e 18 horas; "produto não recebido" é o problema mais citado. CNPJ do perfil (27.238.862/0001-03) diferente do rodapé do site (WAB COMPANY, 58.435.903/0001-85).
+- **Dono:** comprada pela Arezzo&Co em 2021 (R$ 105 milhões) e revendida aos fundadores em fevereiro de 2025, segundo a imprensa (FashionUnited citando o NeoFeed). Responde a quatro buscas e vira o gancho da BW3.
+- **Black Friday:** página "A última Black Friday da BAW" no ar, sem datas nem regulamento; o nosso código entrou sobre peça com selo de Black Friday no teste de 16/11.
+- **Não lido:** guia de tamanhos, lojas físicas (página vazia), "baw é do leo picon", loja oficial no Mercado Livre.
+- **Decisão:** "é boa" e "vale a pena" num artigo só (BW5); nenhum "BAW ou X"; tamanhos, moletom, lojas e collabs ficam no estoque.
+
+---
+
 ## Desdobrar o comparativo da SHEIN em pares (16/11/2026)
 
 Ideia do Bruno em 16/11: trocar o `shein-ou-shopee-temu` (SHEIN contra três lojas em PT) por artigos de par, com os links de afiliado da Temu, do AliExpress e da Shopee. Sem GO; está no estoque da [[Fila-de-Pautas]].
