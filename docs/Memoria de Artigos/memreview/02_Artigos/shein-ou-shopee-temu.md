@@ -448,6 +448,19 @@ quatro lojas. A Cecília é afiliada das quatro; a Shopee só no Brasil.
 - As imagens anteriores (`…-criterios.webp` e `shein-shopee-temu-prazo-devolucao.webp`) ficam no repositório e no
   CDN, sem referência.
 
+## Correção de 16/11/2026: a Temu publica a alíquota
+
+A "Revisão de 13/10/2026" diz que a Temu não publica a alíquota nas páginas de envio e de devolução. Isso continua
+certo para essas duas páginas, mas a central de ajuda dela publica a regra
+(`temu.com/br/support/c3/programa-remessa-conforme-f-56-s-3166.html`, lida em 16/11, sem login; fonte em
+[[01_Parceiros/Temu]]): a Temu participa do Remessa Conforme e cobra os impostos no pedido. Até US$ 50, imposto de
+importação zero e ICMS de 17% a 20%, conforme o estado; acima de US$ 50 e até US$ 3.000, imposto de importação de 60%
+com dedução de US$ 30, mais o ICMS. É a mesma regra que SHEIN, Shopee e AliExpress publicam. A frase de que o imposto
+de importação não volta no reembolso continua certa.
+
+No artigo no ar, três lugares mudam: a seção "O imposto não decide a escolha", a célula da Temu na linha de imposto da
+tabela e o FAQ "SHEIN, Shopee e Temu pagam imposto?". As outras 9 versões não falam do imposto do Brasil.
+
 ## Regra do 4CW5Y (decisão do Bruno, 07/11/2026, #716 a #720)
 Já no ar. O 4CW5Y é código de indicação da SHEIN, não é cupom de checkout, não soma e nunca vai ao checkout. Pelo link do botão, ou copiado e pesquisado no app ou no site, abre uma seleção da SHEIN com promoções e descontos. O texto diz que o código dá desconto; quanto e em quais peças, a SHEIN decide. Sem percentual nem valor, sem prometer desconto em toda compra, sem "pode não ter desconto", sem "só no app". A SHEIN é plataforma global (regra de 02/11/2026, #493): nenhum texto diz "SHEIN Brasil", as traduções não levam aviso de país, e o código e as campanhas valem em todo idioma. As linhas "sem 4CW5Y na description e na meta" das releituras do Job 4 registram o que cada tradução trazia nessa leitura. Fonte viva: `content/reviews/shein-ou-shopee-temu.json`.
 

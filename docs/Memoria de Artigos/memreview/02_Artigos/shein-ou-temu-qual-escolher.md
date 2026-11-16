@@ -38,7 +38,9 @@ pelo link da Temu e por fechar a família; a busca forte está fora do PT, onde 
 - **As duas regras de devolução lado a lado:** em outubro, a Temu publicava 90 dias a partir da compra e a SHEIN, 20
   a partir do recebimento, as duas com a primeira devolução grátis.
 - **O frete igual no papel:** as duas publicavam o mesmo frete mínimo e a mesma faixa de frete grátis para o Brasil.
-- **O imposto no reembolso:** a Temu diz que o imposto de importação não volta; a SHEIN publica a tabela do regime.
+- **O imposto, igual nas duas:** a Temu publica na central de ajuda que participa do Remessa Conforme e cobra os
+  impostos no pedido, com a mesma regra da SHEIN (lido em 16/11; fonte em [[01_Parceiros/Temu]]). A diferença é o
+  reembolso: a Temu diz que o imposto de importação não volta.
 - **"São a mesma coisa?":** não, com o que cada uma diz de si. A página "sobre" da Temu ainda não foi lida.
 
 ## Tese
@@ -54,7 +56,9 @@ melhor qualidade.
 2. SHEIN e Temu lado a lado: frete, prazo, devolução, imposto e Reclame Aqui, com o nome de cada loja linkado.
 3. São a mesma empresa? O que cada uma publica sobre si.
 4. Devolução: prazos, taxa a partir da segunda devolução do pedido e o imposto no reembolso.
-5. Imposto e taxas: o regime que a SHEIN publica e o que a Temu diz e não diz.
+5. Imposto e taxas: a mesma regra do Remessa Conforme nas duas, cobrada no pedido (até US$ 50, imposto de
+   importação zero e ICMS de 17% a 20% conforme o estado; acima, 60% com dedução de US$ 30, mais o ICMS), e o imposto
+   que não volta no reembolso da Temu.
 6. O que o Reclame Aqui mostra, com as ressalvas.
 7. Antes de comprar: o que conferir.
 8. E a Shopee e o AliExpress? Link para o SV1 e o SV3.
@@ -92,7 +96,8 @@ levando à página dela no idioma. O título do bloco é "Lojas deste artigo". O
 
 - Valem as de [[shein-ou-shopee-temu]] e da "Revisão de 13/10/2026": o processamento da Temu (1 a 3 dias) vai ao lado
   do prazo, sem dizer que se soma; nada de imposto da Temu além do que ela publica; nenhuma afirmação de qualidade.
-- Reler envio, devolução e Reclame Aqui das duas: os números são de 12/10. Ler a página "sobre" e a de imposto da Temu.
+- Reler envio, devolução e Reclame Aqui das duas: os números são de 12/10. Ler a página "sobre" da Temu. O imposto está na central de ajuda dela
+  (`temu.com/br/support/c3/programa-remessa-conforme-f-56-s-3166.html`, lida em 16/11, sem login).
 - Os brindes, a roleta e o "0 reais" da Temu aparecem no autocompletar de "temu é confiável". Ficam fora deste artigo;
   viram pauta própria se o Bruno quiser.
 - 4CW5Y é código de indicação; a Temu não tem código nosso. Nenhum cupom da própria Temu.
@@ -119,5 +124,5 @@ levando à página dela no idioma. O título do bloco é "Lojas deste artigo". O
 
 ## Pendências
 
-- Página "sobre" e página de imposto da Temu.
+- Página "sobre" da Temu.
 - Amostra de produtos: decisão do Bruno.
