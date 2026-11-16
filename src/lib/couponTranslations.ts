@@ -1253,9 +1253,9 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
     brandLogoAlt: 'AliExpress logo',
     faqs: [
       {
-        question: 'Does Cecília have a AliExpress coupon?',
+        question: 'Does Cecília have an AliExpress coupon?',
         answer:
-          'No. Em Casa com Cecília has a AliExpress affiliate link, not a coupon: the link opens the store with whatever promotions are live, and the discount on each product is whatever AliExpress shows.',
+          'No. Em Casa com Cecília has an AliExpress affiliate link, not a coupon: the link opens the store with whatever promotions are live, and the discount on each product is whatever AliExpress shows.',
       },
       {
         question: 'How much is shipping on AliExpress?',
