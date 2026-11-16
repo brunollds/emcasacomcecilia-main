@@ -7,9 +7,9 @@ parceiro_slug: "baw"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2), junto com a BW6"
+proxima_acao: "deploy (decisão do Bruno); refazer o teste do código em 27/11"
 bloqueado_por: "-"
 data_criacao: "2026-11-16"
 pauta_id: "BW1"
@@ -145,3 +145,19 @@ Capa no painel lateral: logo, uma camiseta do teste (foto oficial) e o código. 
 | Valor mínimo, limite de usos | nenhuma | não escrever |
 | BAWPOINTS soma com o código | nenhuma | não escrever |
 | O código não vale no Mercado Livre | handoff de 16/11 | palavra do handoff; dizer "vale no site e no aplicativo" |
+
+## Redação, revisão e JSON (16/11/2026)
+
+Job 2 e Job 4 pela sessão de artigos, a partir deste briefing e das leituras do dia ([[baw-fatos-1611]], seção 10). Job 3 por subagente Fable: achados aplicados. Texto passado também pelo crivo de copy (sem contraste "X, e não Y", sem dois-pontos de efeito). JSON em `content/reviews/cupom-baw-como-usar.json`.
+
+## Capa e imagens (aprovadas pelo Bruno em 16/11/2026)
+
+Folha de aprovação mostrada no chat; upload ao CDN autorizado e verificado no mesmo dia. Capa no painel lateral (guia de capas), `imageFit: contain`. Todas as fotos são oficiais da BAW Clothing (`bawclothing.fbitsstatic.net`, páginas de produto lidas em 16/11/2026), sem cenário gerado.
+
+- Capa `/images/reviews/baw/cupom-baw-como-usar-capa.webp`: foto da Camiseta Regular Goth 3.0 preta (segunda foto da página do produto 151202), chamada "Cupom BAW: como usar?" e o código.
+- Corpo, "Onde digitar": `cupom-baw-carrinho-com-cupom.webp` (print do teste, já no CDN).
+- Corpo, "Quanto o cupom tira": `cupom-baw-como-usar-camiseta-goth.webp`, terceira foto da mesma página; a legenda diz que o carrinho do teste levou a mesma camiseta em outra cor.
+
+## Revisão externa (Farol, 16/11/2026)
+
+Parecer colado pelo Bruno e aplicado no mesmo dia: a conta de R$ 133,20 passou a dizer que é o valor dos produtos, antes do frete.
