@@ -3,8 +3,8 @@
 
 export type StoreName = { slug: string; brand: string };
 
-// O site escreve "do Magalu" e "da" para as outras lojas.
-const MASCULINE_STORES = new Set(['magalu']);
+// O site escreve "do Magalu" e "do AliExpress", e "da" para as outras lojas.
+const MASCULINE_STORES = new Set(['magalu', 'aliexpress']);
 
 const isMasculine = (store: StoreName) => MASCULINE_STORES.has(store.slug);
 

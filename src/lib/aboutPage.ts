@@ -64,6 +64,8 @@ const PARTNERS: AboutPartner[] = [
   { name: 'ABC da Construção', src: '/images/about/partners/abc-da-construcao.png', href: 'https://abcdaconstrucao.com.br' },
   { name: 'Promobit', src: '/images/about/partners/promobit.jpg', href: 'https://promobit.com.br' },
   { name: 'Shein', src: '/images/about/partners/shein.webp', href: 'https://shein.com' },
+  { name: 'Temu', src: '/images/about/partners/temu.png', href: 'https://www.temu.com' },
+  { name: 'AliExpress', src: '/images/about/partners/aliexpress.webp', href: 'https://www.aliexpress.com' },
   { name: "Let's Eat It", src: '/images/about/partners/letseatit.png', href: 'https://letseatit.com.br' },
   { name: 'Insider', src: '/images/about/partners/insider.png', href: 'https://www.insiderstore.com.br' },
   { name: 'Probiótica', src: '/images/about/partners/probiotica.png', href: 'https://www.probiotica.com.br' },
