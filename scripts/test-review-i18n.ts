@@ -9,6 +9,7 @@ import { detectDuplicateReviewPathnames, formatDate, getReviewDefaultTranslation
 import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { getArticleCopy, getReviewVideoLabels } from '@/components/review/articleCopy';
 import { getGalleryCopy } from '@/components/review/galleryCopy';
+import { ArticleStoreCodes } from '@/components/review/article/ArticleStoreCodes';
 import { ReviewHeroImage } from '@/components/review/ReviewHeroImage';
 import { ReviewSectionVideo } from '@/components/review/ReviewSectionVideo';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from '@/components/review/sidebarCopy';
@@ -152,6 +153,28 @@ function decisionFamilyProblems(family: ReviewSource[]): string[] {
     }
   }
   return problems;
+}
+
+// A loja e o código numa família: os mesmos em toda versão. No artigo de várias lojas, o `affiliate` é a lista, e ela
+// tem de ser a mesma em todas: as mesmas lojas, na mesma ordem (a ordem das linhas do artigo).
+function storeFamilyProblems(family: ReviewSource[]): string[] {
+  return (['affiliate', 'coupon'] as const).flatMap((field) => {
+    const values = [...new Set(family.map((review) => JSON.stringify(review[field] ?? null)))];
+    return values.length === 1 ? [] : [`${field} diferente entre as versões: ${values.join(', ')}`];
+  });
+}
+
+// O link da página da loja segue o idioma do artigo: /cupons/<marca> em português e /<locale>/coupons/<marca> nos
+// outros idiomas, que não têm hub de cupons. Vale para qualquer loja citada, e no artigo de várias lojas para o link
+// de cada uma delas.
+function storePageLinkProblems(review: ReviewSource): string[] {
+  const locale = resolveReviewLocale(review.locale);
+  return collectLinks(review).filter(isCouponPageLink).flatMap((href) => {
+    const pathname = getInternalHref(href).split(/[?#]/, 1)[0];
+    if (locale === 'pt' && pathname === '/cupons') return [];
+    const brand = getCouponBrandFromHref(href);
+    return brand && pathname === getCouponStorePath(brand, locale) ? [] : [`link de loja fora do idioma do artigo: ${href}`];
+  });
 }
 
 const contentReviewsDir = path.join(process.cwd(), 'content', 'reviews');
@@ -484,11 +507,7 @@ const storeReferralLabel = (locale: Locale) =>
       );
     }
     const family = translatedReviews.filter((review) => review.translationKey === key);
-    for (const field of ['affiliate', 'coupon'] as const) {
-      // A lista (artigo de várias lojas) compara pelo conteúdo, na ordem; hoje o validate:content nem a deixa ter família.
-      const values = [...new Set(family.map((review) => [review[field] ?? '(vazio)'].flat().join(' + ')))];
-      assert.equal(values.length, 1, `${key}: ${field} diferente entre as versões: ${values.join(', ')}`);
-    }
+    assert.deepEqual(storeFamilyProblems(family), [], `${key}: loja ou código diferente entre as versões`);
     const withoutFaq = family.filter((review) => !review.contentSections?.some((section) => isFaqHeading(section.heading)));
     assert.ok(
       withoutFaq.length === 0 || withoutFaq.length === family.length,
@@ -505,6 +524,27 @@ const storeReferralLabel = (locale: Locale) =>
     }
   }
   assert.deepEqual(unusedTypeExceptions(usedTypeExceptions), [], 'exceção de type igual ao português que não vale mais');
+
+  // O guarda da loja e do código, provado em famílias que falham e que passam: a de uma loja e a de várias.
+  const storeFamily = (portuguese: ReviewSource['affiliate'], english: ReviewSource['affiliate'], coupon?: string): ReviewSource[] => [
+    { slug: 'pt', affiliate: portuguese, coupon: 'CECILIA010' },
+    { slug: 'en', locale: 'en', affiliate: english, coupon: coupon ?? 'CECILIA010' },
+  ];
+  assert.deepEqual(storeFamilyProblems(storeFamily('yesstyle', 'yesstyle')), [], 'a mesma loja passa');
+  assert.equal(storeFamilyProblems(storeFamily('yesstyle', 'shein')).length, 1, 'outra loja falha');
+  assert.equal(storeFamilyProblems(storeFamily('yesstyle', undefined)).length, 1, 'versão sem a loja falha');
+  assert.equal(storeFamilyProblems(storeFamily('yesstyle', 'yesstyle', 'OUTRO10')).length, 1, 'outro código falha');
+  const listFamily = (english: ReviewSource['affiliate']): ReviewSource[] => [
+    { slug: 'pt', affiliate: ['shein', 'temu'] },
+    { slug: 'en', locale: 'en', affiliate: english },
+    { slug: 'ja', locale: 'ja', affiliate: ['shein', 'temu'] },
+  ];
+  assert.deepEqual(storeFamilyProblems(listFamily(['shein', 'temu'])), [], 'a mesma lista passa');
+  assert.equal(storeFamilyProblems(listFamily(['temu', 'shein'])).length, 1, 'a lista em outra ordem falha');
+  assert.equal(storeFamilyProblems(listFamily(['shein', 'temu', 'aliexpress'])).length, 1, 'loja a mais falha');
+  assert.equal(storeFamilyProblems(listFamily(['shein'])).length, 1, 'loja a menos falha');
+  assert.equal(storeFamilyProblems(listFamily('shein')).length, 1, 'uma loja no lugar da lista falha');
+  assert.equal(storeFamilyProblems(listFamily(undefined)).length, 1, 'versão sem a lista falha');
 
   // O guarda do type, provado em versões que falham e que passam.
   assert.deepEqual(typeProblems({ slug: 'f', locale: 'es', type: 'Guia & Cupons' }, 'Guia & Cupons'), ['type igual ao português: "Guia & Cupons"']);
@@ -578,20 +618,22 @@ const storeReferralLabel = (locale: Locale) =>
   assert.equal(imageTextFamilyProblems(altFamily([{ heading: 'A', images: [{ caption: 'A linha verde é o cupom' }] }])).length, 1, 'legenda da galeria igual ao português falha');
   assert.equal(imageTextFamilyProblems(altFamily([{ heading: 'A', imageAlt: 'Foto da mala' }])).length, 1, 'imageAlt igual ao português falha');
 
-  // O link da página da loja segue o idioma do artigo: /cupons/<marca> em português e
-  // /<locale>/coupons/<marca> nos outros idiomas, que não têm hub de cupons.
   for (const review of reviews) {
-    const locale = resolveReviewLocale(review.locale);
-    for (const href of collectLinks(review).filter(isCouponPageLink)) {
-      const pathname = getInternalHref(href).split(/[?#]/, 1)[0];
-      if (locale === 'pt' && pathname === '/cupons') continue;
-      const brand = getCouponBrandFromHref(href);
-      assert.ok(
-        brand && pathname === getCouponStorePath(brand, locale),
-        `${review.slug}: link de loja fora do idioma do artigo: ${href}`
-      );
-    }
+    assert.deepEqual(storePageLinkProblems(review), [], `${review.slug}: link da página da loja fora do idioma do artigo`);
   }
+  // O guarda, provado no artigo de várias lojas: o link de cada loja vai à página dela no idioma do artigo.
+  const storeLinks = (locale: Locale | undefined, ...hrefs: string[]): ReviewSource => ({
+    slug: 'lista',
+    locale,
+    affiliate: ['shein', 'temu'],
+    contentSections: [{ heading: 'A', links: hrefs.map((href) => ({ href })) }],
+  });
+  assert.deepEqual(storePageLinkProblems(storeLinks(undefined, '/cupons/shein', '/cupons/temu', '/cupons')), [], 'em português, /cupons/<loja> e o hub passam');
+  assert.deepEqual(storePageLinkProblems(storeLinks('en', '/en/coupons/shein', '/en/coupons/temu')), [], 'em inglês, a página de cada loja no idioma passa');
+  assert.equal(storePageLinkProblems(storeLinks('en', '/en/coupons/shein', '/cupons/temu')).length, 1, 'em inglês, a página em português de uma das lojas falha');
+  assert.equal(storePageLinkProblems(storeLinks('en', '/ja/coupons/temu')).length, 1, 'a página de outro idioma falha');
+  assert.equal(storePageLinkProblems(storeLinks('en', '/cupons')).length, 1, 'fora do português não há hub de cupons');
+  assert.equal(storePageLinkProblems(storeLinks(undefined, '/en/coupons/temu')).length, 1, 'em português, a página em inglês falha');
 
   // A seção de FAQ vira o acordeão e o FAQPage do schema: o título precisa estar na lista do template
   // e cada item precisa trazer a pergunta e a resposta, senão os dois o deixam de fora. Estes são os
@@ -698,6 +740,23 @@ const storeReferralLabel = (locale: Locale) =>
       }
     }
     assert.notEqual(referralCopied, article.copiedHint({ slug: 'damie', brand: 'DAMIE' }), `${locale}: código de indicação copiado igual ao cupom`);
+
+    // A linha da SHEIN no artigo de várias lojas (ao lado de uma loja sem código) avisa do código de indicação com o
+    // mesmo termo, sem país, e não manda colar no checkout.
+    const rows = renderToStaticMarkup(
+      createElement(ArticleStoreCodes, {
+        variant: 'top',
+        locale,
+        reviewSlug: 'x',
+        blocks: [
+          { brand: 'SHEIN', slug: 'shein', code: '4CW5Y', codeKind: 'referral', rules: [], storeHref: 'https://loja.example/shein', storeSponsored: true },
+          { brand: 'Temu', slug: 'temu', rules: [], storeHref: 'https://loja.example/temu', storeSponsored: true },
+        ],
+      })
+    );
+    assert.ok(rows.toLowerCase().includes(term), `${locale}: linha da SHEIN no artigo de várias lojas sem "${term}"`);
+    if (locale !== 'pt') assert.ok(!rows.includes(SHEIN_BRAZIL[locale]), `${locale}: linha da SHEIN com "${SHEIN_BRAZIL[locale]}"`);
+    assert.ok(!rows.includes(article.copiedHint({ slug: 'shein', brand: 'SHEIN' })), `${locale}: linha da SHEIN manda colar no checkout`);
   }
 
   const portugueseUi = new Map(articleUiLeaves('pt'));
