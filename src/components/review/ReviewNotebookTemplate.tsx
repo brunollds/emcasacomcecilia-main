@@ -159,8 +159,9 @@ export function ReviewNotebookTemplate({
       : [];
   // Só o artigo de várias lojas passa a lista: o de uma loja segue com as mesmas props de antes.
   const multiStoreBlocks = storeBlocks.length > 0 ? storeBlocks : undefined;
-  // O `store` dos links, das fotos e do card de estilo do artigo de várias lojas: só as lojas ativas. Vazio (todas
-  // pausadas) continua sendo o artigo de várias lojas, e nenhum link de loja sai.
+  // O `store` dos links, das fotos e do card de estilo do artigo de várias lojas: só as lojas dos blocos (as ativas e
+  // o afiliado sem página que vale no idioma). Vazio (todas pausadas) continua sendo o artigo de várias lojas, e nenhum
+  // link de loja sai.
   const multiStores: MultiStores | undefined = isMultiStoreReview(review)
     ? Object.fromEntries(storeBlocks.map(({ slug, brand, code }) => [slug, { brand, code }]))
     : undefined;
