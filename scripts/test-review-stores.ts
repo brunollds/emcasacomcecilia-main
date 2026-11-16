@@ -1,6 +1,7 @@
 // O artigo de várias lojas nas listagens: `affiliate` em lista (src/lib/reviewStores.ts). O teste monta os casos com
 // artigos de mentira e confere que o de uma loja segue como sempre. Nenhum artigo publicado tem loja só de link nem
-// afiliado sem página na lista ainda: esses casos (SHEIN e Shopee) também são de mentira.
+// afiliado sem página na lista ainda, nem lista fora do português: esses casos (SHEIN, Shopee, Temu e AliExpress, e as
+// versões em outros idiomas) também são de mentira.
 import assert from 'node:assert/strict';
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
@@ -11,11 +12,14 @@ import { ArticleStyling } from '@/components/review/article/ArticleStyling';
 import { getArticleCopy, getStoreListTitle } from '@/components/review/articleCopy';
 import { getSidebarCopy, getViewStoresLabel } from '@/components/review/sidebarCopy';
 import { AFFILIATE_STORES, getAffiliateStore } from '@/lib/affiliateStores';
-import { getArticleStoreBlock, getArticleStoreBlocks, type ArticleStoreBlock } from '@/lib/articleStore';
+import { getArticleStoreBlock, getArticleStoreBlocks, hasTranslatedStorePage, type ArticleStoreBlock } from '@/lib/articleStore';
+import { getCouponCopyLabels } from '@/components/review/couponCopyLocale';
 import { COUPONS, getActiveCoupons, getPendingLimitedCodes } from '@/lib/couponsData';
+import { getLocalizedCoupon, TRANSLATED_LOCALES } from '@/lib/couponTranslations';
 import { publishedReviews } from '@/lib/data';
 import { resolveActiveHomeEvent } from '@/lib/homeEvents';
-import { getHomeLatest, getHomeStoreTabs, getStoreArticlePageSlugs, getStoreArticlesPage, getStoreCode, sortStoresByNewestArticle } from '@/lib/homeStores';
+import { getHomeLatest, getHomeStoreTabs, getHomeVitrineStores, getStoreArticlePageSlugs, getStoreArticlesPage, getStoreCode, sortStoresByNewestArticle } from '@/lib/homeStores';
+import { getLocaleHomeLatest, getLocaleHomeStoreTabs } from '@/lib/localeHome';
 import { pickRelatedReviews } from '@/lib/relatedReviews';
 import {
   everyStoreHasCode,
@@ -30,6 +34,7 @@ import {
   withoutPausedStoreLinks,
 } from '@/lib/reviewStores';
 import { getOthersShelfContent, getRelatedShelfCards, getReviewsHubContent, getStoreShelfContent, type HubReview } from '@/lib/reviewsHub';
+import { isListedInPortuguese } from '@/lib/reviewVisibility.mjs';
 import { getVideoItems, type VideoPageRecord } from '@/lib/videosHub';
 import { affiliateProblems, staleCodeWarnings, storeFieldProblems } from './multi-store-checks';
 import { relatedOrderProblem } from './related-order';
@@ -258,9 +263,8 @@ listProblem({ affiliate: [...FOUR, 'damie'] }, /de 2 a 4 lojas \(tem 5\)/, 'list
 listProblem({ affiliate: ['damie', 'damie'] }, /repetida: damie/, 'repetida');
 listProblem({ affiliate: ['damie', 'loja-que-nao-existe'] }, /"loja-que-nao-existe" não é o slug/, 'inexistente');
 listProblem({ affiliate: ['damie', 'yesstyle'] }, /"yesstyle": .*código de recompensa/, 'recompensa');
-listProblem({ ...ok, locale: 'en' }, /só em artigo em português/, 'idioma');
-listProblem({ ...ok, locale: 'xx' }, /só em artigo em português|locale/, 'idioma inválido não passa como PT');
-listProblem({ ...ok, translationKey: 'familia' }, /translationKey/, 'família');
+listProblem({ ...ok, locale: 'xx' }, /locale inválido/, 'idioma inválido não passa como PT');
+assert.deepEqual(affiliateProblems({ ...ok, translationKey: 'familia' }, COUPONS, true), [], 'a lista entra em família');
 listProblem({ ...ok, coupon: 'CECILIA10' }, /sem coupon/, 'coupon');
 listProblem({ ...ok, cta: { url: 'https://x', label: 'x' } }, /sem cta/, 'cta');
 listProblem({ affiliate: [1, 2] }, /slug de uma loja ou uma lista/, 'lista de números');
@@ -279,11 +283,38 @@ assert.equal(alone.length, 1);
 assert.match(alone[0], /"shopee" é afiliado sem página.*só entra em lista/, 'a Shopee sozinha, em texto');
 const english = affiliateProblems({ affiliate: ['shein', 'shopee'], locale: 'en' }, COUPONS, true).join('|');
 assert.match(english, /"shopee": o link da loja não vale em artigo em en/, 'a Shopee fora do idioma dela');
-assert.match(english, /só em artigo em português/, 'e a trava do português segue');
 assert.doesNotMatch(english, /"shein"/, 'a SHEIN não é barrada pelo idioma');
 listProblem({ affiliate: ['shein', 'shopee', 'yesstyle'] }, /"yesstyle": .*código de recompensa/, 'recompensa ao lado da Shopee');
 listProblem({ affiliate: ['shopee', 'shopee'] }, /repetida: shopee/, 'afiliado sem página repetido');
-listProblem({ affiliate: ['shein', 'shopee'], translationKey: 'familia' }, /translationKey/, 'família segue fora');
+
+// Fora do português e em família: toda loja da lista tem de valer no idioma do artigo. A de couponsData.ts, com página
+// de loja nesse idioma; a recompensa e as faixas seguem fora em qualquer um. A loja de código só do PT sai dos dados.
+const portugueseOnly = getActiveCoupons().find(
+  (coupon) => coupon.offerMode === 'discount-code' && !coupon.codeKind && !coupon.tiers?.length && !hasTranslatedStorePage(coupon.slug, 'en')
+);
+assert.ok(portugueseOnly, 'uma loja de código comum sem página traduzida');
+for (const slug of ['shein', 'temu', 'aliexpress']) assert.ok(hasTranslatedStorePage(slug, 'ja'), `${slug} tem página nos outros idiomas`);
+for (const locale of TRANSLATED_LOCALES) {
+  for (const list of [['shein', 'temu'], ['shein', 'aliexpress'], ['aliexpress', 'temu', 'shein']]) {
+    assert.deepEqual(affiliateProblems({ affiliate: list, locale, translationKey: 'familia' }, COUPONS, true), [], `${locale}: ${list.join(', ')} em família`);
+  }
+  const untranslated = affiliateProblems({ affiliate: ['shein', portugueseOnly.slug], locale }, COUPONS, true);
+  assert.equal(untranslated.length, 1, `${locale}: só a loja sem página no idioma é barrada`);
+  assert.match(untranslated[0], new RegExp(`"${portugueseOnly.slug}": a loja não tem página em ${locale}`));
+  const shopeeAbroad = affiliateProblems({ affiliate: ['shein', 'shopee'], locale, translationKey: 'familia' }, COUPONS, true);
+  assert.equal(shopeeAbroad.length, 1, `${locale}: só a Shopee é barrada`);
+  assert.match(shopeeAbroad[0], new RegExp(`"shopee": o link da loja não vale em artigo em ${locale}`));
+  const reward = affiliateProblems({ affiliate: ['shein', 'yesstyle'], locale }, COUPONS, true);
+  assert.equal(reward.length, 1, `${locale}: a YesStyle tem página no idioma, e segue fora pela recompensa`);
+  assert.match(reward[0], /"yesstyle": .*código de recompensa/);
+  assert.match(affiliateProblems({ affiliate: ['shein', 'magalu'], locale }, COUPONS, true).join('|'), /"magalu": .*loja com faixas/, `${locale}: faixas`);
+  assert.match(affiliateProblems({ affiliate: ['shein', 'temu'], locale, coupon: 'X' }, COUPONS, true).join('|'), /sem coupon/, `${locale}: coupon`);
+}
+assert.deepEqual(
+  affiliateProblems({ affiliate: ['shein', portugueseOnly.slug], translationKey: 'familia' }, COUPONS, true),
+  [],
+  'a versão em português da família não é barrada pela loja sem tradução (as outras versões são)'
+);
 
 // O `store` dos links de loja: só no artigo de várias lojas, e nele em todo link de loja, uma das lojas do artigo.
 const sections = (store?: string, extra: Record<string, unknown> = {}) => [
@@ -412,6 +443,43 @@ for (const locale of ['en', 'ja'] as const) {
     `${locale}: a Shopee fica fora do idioma em que não vale`
   );
 }
+// Fora do português, a SHEIN ao lado da Temu ou do AliExpress: o código de indicação, com o desconto, as regras e o link
+// da tradução da loja (a SHEIN tem link internacional próprio), e a página da loja no idioma. A Temu e o AliExpress
+// saem sem código, com o link de afiliado do PT (a tradução delas não tem outro) e as regras do idioma.
+const ptRuleValues = (slug: string) =>
+  new Set(getArticleStoreBlocks({ ...multiReview, affiliate: [slug, 'black-skull'] }, 'pt', now).find((block) => block.slug === slug)?.rules.map(({ value }) => value));
+for (const locale of TRANSLATED_LOCALES) {
+  for (const other of ['temu', 'aliexpress']) {
+    if (!sheinActive || !activeSlugs.has(other)) continue;
+    const abroad = getArticleStoreBlocks({ ...multiReview, locale, affiliate: ['shein', other] }, locale, now);
+    assert.deepEqual(abroad.map(({ slug }) => slug), ['shein', other], `${locale}: as duas lojas, na ordem do artigo`);
+    const [sheinRow, otherRow] = abroad;
+    const sheinText = getLocalizedCoupon('shein', locale);
+    const otherText = getLocalizedCoupon(other, locale);
+    assert.ok(sheinText && otherText, `${locale}: a SHEIN e ${other} com tradução`);
+    assert.equal(sheinRow.code, sheinCode, `${locale}: o código de indicação da SHEIN`);
+    assert.equal(sheinRow.codeKind, 'referral', `${locale}: o tipo do código da SHEIN`);
+    assert.equal(sheinRow.discount, sheinText.discount, `${locale}: o desconto da SHEIN vem da tradução`);
+    assert.notEqual(sheinRow.discount, store('shein').discount, `${locale}: desconto da SHEIN em português`);
+    assert.equal(sheinRow.storeHref, sheinText.offerUrl, `${locale}: o link internacional da SHEIN`);
+    assert.notEqual(sheinRow.storeHref, store('shein').offerUrl, `${locale}: a SHEIN com o link do PT`);
+    assert.equal(sheinRow.couponPageHref, `/${locale}/coupons/shein`);
+    assert.equal(otherRow.code, undefined, `${locale}: ${other} sem código`);
+    assert.equal(otherRow.codeKind, undefined);
+    assert.equal(otherRow.discount, undefined);
+    assert.equal(otherRow.storeHref, store(other).offerUrl, `${locale}: ${other} com o link de afiliado da loja`);
+    assert.equal(otherRow.couponPageHref, `/${locale}/coupons/${other}`);
+    for (const [row, slug] of [[sheinRow, 'shein'], [otherRow, other]] as const) {
+      assert.equal(row.storeSponsored, true, `${locale}: ${slug} patrocinado`);
+      assert.equal(row.articlesHref, undefined, `${locale}: ${slug} sem a subpágina de artigos, que é do PT`);
+      assert.equal(row.limitedCodes, undefined, `${locale}: ${slug} sem código com prazo`);
+      assert.ok(row.rules.length > 0, `${locale}: ${slug} com as regras`);
+      const portuguese = ptRuleValues(slug);
+      assert.deepEqual(row.rules.filter(({ value }) => portuguese.has(value)), [], `${locale}: regra de ${slug} em português`);
+    }
+  }
+}
+
 // Toda loja do cadastro dá o bloco mínimo no idioma dela, na posição dela na lista.
 for (const item of AFFILIATE_STORES) {
   const locale = item.locales === 'all' ? 'pt' : item.locales[0];
@@ -483,6 +551,112 @@ for (const variant of ['top', 'sidebar', 'drawer', 'end'] as const) {
   if (sheinBlock) assert.ok(html.includes(`aria-label="Copiar o código ${sheinBlock.code} (SHEIN)"`), `${variant}: a SHEIN com o código`);
 }
 
+// As linhas fora do português, com a SHEIN e a Temu: o título, o "Ir à loja", as regras, o botão de copiar e o aviso do
+// código de indicação no idioma, e nenhum texto do PT.
+const temuActive = activeSlugs.has('temu');
+if (sheinActive && sheinCode && temuActive) {
+  const escaped = (text: string) => text.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/'/g, '&#x27;');
+  const ptCopy = getArticleCopy('pt');
+  const shein = { slug: 'shein', brand: store('shein').brand };
+  for (const locale of TRANSLATED_LOCALES) {
+    const abroad = getArticleStoreBlocks({ ...multiReview, locale, affiliate: ['shein', 'temu'] }, locale, now);
+    const copy = getArticleCopy(locale);
+    const title = getStoreListTitle(copy, abroad);
+    assert.equal(title, copy.storeListTitle, `${locale}: com a Temu, o título fala de lojas`);
+    assert.equal(getViewStoresLabel(getSidebarCopy(locale), abroad), getSidebarCopy(locale).viewStores(2), `${locale}: o botão do dock fala de lojas`);
+    const portuguese = [
+      ptCopy.storeListTitle,
+      ptCopy.storeCodesTitle,
+      ptCopy.storeGoShort,
+      `>${ptCopy.storeRulesShort}<`,
+      ptCopy.storeRulesOf(shein),
+      getCouponCopyLabels('pt').copyCoupon(sheinCode),
+      ptCopy.copiedHint(shein, 'referral'),
+      store('shein').discount,
+    ];
+    for (const variant of ['top', 'sidebar', 'drawer', 'end'] as const) {
+      const html = renderToStaticMarkup(createElement(ArticleStoreCodes, { variant, blocks: abroad, locale, reviewSlug: 'x' }));
+      const where = `${locale}, ${variant}`;
+      if (variant !== 'end') assert.ok(html.includes(`aria-label="${escaped(title)}"`), `${where}: o nome da seção no idioma`);
+      for (const { brand, storeHref } of abroad) {
+        assert.ok(html.includes(`aria-label="${escaped(`${copy.storeGoShort}: ${brand}`)}"`), `${where}: "Ir à loja" de ${brand} no idioma`);
+        assert.ok(html.includes(`href="${escaped(storeHref!)}"`), `${where}: o link de ${brand}`);
+      }
+      assert.ok(html.includes(`aria-label="${escaped(`${getCouponCopyLabels(locale).copyCoupon(sheinCode)} (SHEIN)`)}"`), `${where}: o botão de copiar no idioma`);
+      assert.ok(html.includes(escaped(copy.copiedHint(shein, 'referral'))), `${where}: o aviso do código de indicação no idioma`);
+      assert.equal(html.match(/<button\b/g)?.length, 1, `${where}: só a SHEIN tem botão de copiar`);
+      for (const slug of ['shein', 'temu']) {
+        assert.equal(html.includes(`href="/${locale}/coupons/${slug}"`), variant !== 'sidebar', `${where}: as regras de ${slug} na página do idioma`);
+      }
+      assert.ok(!html.includes('href="/cupons/'), `${where}: link para a página de loja em português`);
+      assert.deepEqual(portuguese.filter((text) => html.includes(escaped(text))), [], `${where}: texto em português`);
+    }
+  }
+} else {
+  console.log('ℹ️ a SHEIN ou a Temu está pausada: as linhas fora do português não tiveram o que conferir.');
+}
+
+// A família com a lista nas listagens. Em português, o artigo conta para a SHEIN e para a Temu em /reviews e nas
+// subpáginas, e a Temu segue fora da vitrine da home; as versões dos outros idiomas ficam fora da vitrine em português
+// e entram, cada uma, na home do idioma dela, nas abas das duas lojas.
+const temuStores = [...linkStores, store('temu')];
+const familyPt = { ...review(30, 'shein-ou-temu', ['shein', 'temu'], '2026-11-17'), translationKey: 'shein-ou-temu' };
+const familyAbroad = (['en', 'ja'] as const).map((locale, index) => ({
+  ...base,
+  id: 9001 + index,
+  slug: `shein-or-temu-${locale}`,
+  locale,
+  translationKey: 'shein-ou-temu',
+  affiliate: ['shein', 'temu'],
+  coupon: undefined,
+  cta: undefined,
+  draft: false,
+  hideFromListings: false,
+  hideFromPortugueseListings: true,
+  publishedAtISO: '2099-01-01',
+}));
+const withFamily = [...withLinkOnly, familyPt, ...familyAbroad];
+for (const version of familyAbroad) assert.equal(isListedInPortuguese(version), false, `${version.locale}: fora da vitrine em português`);
+const familyHub = getReviewsHubContent(withFamily, temuStores);
+assert.equal(familyHub.articles.find(({ slug }) => slug === 'shein-ou-temu')?.store, 'SHEIN e Temu');
+assert.ok(!familyHub.articles.some(({ slug }) => slug.startsWith('shein-or-temu-')), 'as versões de outros idiomas ficam fora de /reviews');
+assert.equal(familyHub.stores.find(({ slug }) => slug === 'shein')?.total, 4, 'a bolinha da SHEIN conta só a versão em português');
+assert.equal(getStoreArticlesPage(withFamily, 'shein', temuStores)?.articles.length, 4, 'a subpágina da SHEIN com o artigo');
+assert.ok(!familyHub.stores.some(({ slug }) => slug === 'temu'), 'a Temu com 1 artigo: sem bolinha ainda');
+assert.equal(getStoreArticlesPage(withFamily, 'temu', temuStores), null, 'nem subpágina');
+const withTemu = [...withFamily, review(31, 'temu-1', 'temu', '2026-10-07'), review(32, 'temu-2', 'temu', '2026-10-08')];
+assert.equal(getReviewsHubContent(withTemu, temuStores).stores.find(({ slug }) => slug === 'temu')?.total, 3, 'com 3, a bolinha da Temu conta o artigo');
+assert.deepEqual(
+  getStoreArticlesPage(withTemu, 'temu', temuStores)?.articles.map(({ slug }) => slug),
+  ['shein-ou-temu', 'temu-2', 'temu-1'],
+  'e a subpágina da Temu leva só a versão em português'
+);
+assert.equal(store('temu').hideFromPortugueseHome, true, 'a Temu fica fora da vitrine da home em PT');
+assert.ok(!getHomeVitrineStores(temuStores).some(({ slug }) => slug === 'temu'));
+const familyTabs = getHomeStoreTabs(withFamily, temuStores, Date.parse('2026-11-17T12:00:00-03:00'));
+assert.ok(!familyTabs.some(({ slug }) => slug === 'temu'), 'a Temu não ganha aba na home em PT');
+assert.deepEqual(
+  familyTabs.find(({ slug }) => slug === 'shein')?.articles.map(({ slug }) => slug).filter((slug) => slug.includes('temu')),
+  ['shein-ou-temu'],
+  'a aba da SHEIN leva só a versão em português'
+);
+assert.deepEqual(getRelatedShelfCards([familyAbroad[0]], 'en').map(({ store: label }) => label), [undefined], 'fora do PT, o cartão sem o nome');
+if (sheinActive && temuActive) {
+  for (const version of familyAbroad) {
+    const localeTabs = getLocaleHomeStoreTabs(version.locale, [...publishedReviews, ...familyAbroad]);
+    const href = `/${version.locale}/reviews/${version.slug}`;
+    const holding = localeTabs.filter(({ articles }) => articles.some((article) => article.href === href)).map(({ slug }) => slug);
+    assert.deepEqual([...holding].sort(), ['shein', 'temu'], `${version.locale}: o artigo nas abas da SHEIN e da Temu, e só nelas`);
+    assert.ok(
+      !localeTabs.some(({ articles }) => articles.some((article) => article.slug.startsWith('shein-or-temu-') && article.href !== href)),
+      `${version.locale}: a versão de outro idioma fica fora`
+    );
+    const [newest] = getLocaleHomeLatest(version.locale, [...publishedReviews, ...familyAbroad]);
+    assert.equal(newest.href, href, `${version.locale}: o artigo no "Acabou de sair" do idioma`);
+    assert.equal(newest.store, undefined, `${version.locale}: sem "A e B" em português no cartão`);
+  }
+}
+
 // Código no texto: cada um copia com a loja dele; o que duas lojas dividem só fica destacado.
 const inline = (code: string, slug: string) => ({ code, brand: store(slug).brand, slug, reviewSlug: 'x', locale: 'pt' as const });
 const text = renderToStaticMarkup(
@@ -543,4 +717,4 @@ for (const [name, storeSlug, multiStores] of [
   for (const path of ['c', 's']) assert.ok(html.includes(`https://loja.example/${path}`), `${name}: link da peça ${path}`);
 }
 
-console.log('✅ várias lojas nas listagens: home, /reviews, subpáginas, Outros, relacionados, data comercial, vídeo e snippet; regras do affiliate e do store; aviso de código antigo; loja de link e afiliado sem página na lista; blocos e linhas de código do artigo; código no texto; links, fotos e peças de loja pausada sem link');
+console.log('✅ várias lojas nas listagens: home, /reviews, subpáginas, Outros, relacionados, data comercial, vídeo e snippet; regras do affiliate e do store, em português, nos outros idiomas e em família; aviso de código antigo; loja de link e afiliado sem página na lista; blocos e linhas de código do artigo nos 10 idiomas; a família nas listagens de cada idioma; código no texto; links, fotos e peças de loja pausada sem link');

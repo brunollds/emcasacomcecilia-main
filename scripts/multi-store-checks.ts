@@ -1,12 +1,17 @@
 // Regras do `affiliate` no validate:content: o slug de uma loja ou, no artigo de várias lojas, a lista delas
-// (docs/superpowers/plans/2026-11-09-artigo-varias-lojas.md). A lista vale só em português, de 2 a 4 lojas, sem `coupon`
-// nem `cta`: o código e o link de cada loja vêm de couponsData.ts ou, no afiliado sem página, de affiliateStores.ts.
+// (docs/superpowers/plans/2026-11-09-artigo-varias-lojas.md). A lista leva de 2 a 4 lojas, sem `coupon` nem `cta`: o
+// código e o link de cada loja vêm de couponsData.ts ou, no afiliado sem página, de affiliateStores.ts.
 // Entram a loja de código comum, a loja só de link (com ou sem código de indicação, como a SHEIN) e o afiliado sem
-// página que vale no idioma do artigo; o código de recompensa (YesStyle) e a loja com faixas ficam de fora.
+// página; o código de recompensa (YesStyle) e a loja com faixas ficam de fora. A lista vale em qualquer idioma e em
+// família, mas toda loja dela tem de valer no idioma do artigo: a de couponsData.ts, com página de loja nesse idioma
+// (as regras e os textos das outras só existem em português); o afiliado sem página, nos `locales` dele. Nenhuma linha
+// some num idioma: numa família, a lista só leva lojas que valem nos 10.
 import { affiliateStoreServesLocale, getAffiliateStore } from '../src/lib/affiliateStores';
+import { hasTranslatedStorePage } from '../src/lib/articleStore';
 import { resolveReviewLocale } from '../src/lib/content/review-i18n';
 import type { Coupon } from '../src/lib/couponsData';
 import { getStoreCode } from '../src/lib/homeStores';
+import type { Locale } from '../src/lib/i18n/locales';
 
 export const MIN_REVIEW_STORES = 2;
 export const MAX_REVIEW_STORES = 4;
@@ -18,6 +23,7 @@ export const MULTI_STORE_CONTENT_ALLOWED = true;
 type CheckedReview = {
   affiliate?: unknown;
   locale?: string;
+  // A família não muda a regra: cada versão é conferida no idioma dela.
   translationKey?: string;
   coupon?: string;
   cta?: unknown;
@@ -99,7 +105,7 @@ export function staleCodeWarnings(review: SectionReview, coupons: readonly Coupo
 
 // O idioma resolvido (sem locale é português); locale inválido não conta como português, e o validate:content já o
 // acusa à parte.
-function localeOf(locale: string | undefined): string | undefined {
+function localeOf(locale: string | undefined): Locale | undefined {
   try {
     return resolveReviewLocale(locale);
   } catch {
@@ -145,6 +151,8 @@ export function affiliateProblems(
       // Fora: código de recompensa (YesStyle) e loja com faixas. A loja só de link entra, com ou sem código de indicação.
       if (coupon.offerMode === 'discount-code' && (coupon.codeKind || coupon.tiers?.length)) {
         problems.push(`affiliate "${slug}": o artigo de várias lojas não aceita código de recompensa nem loja com faixas`);
+      } else if (locale && !hasTranslatedStorePage(slug, locale)) {
+        problems.push(`affiliate "${slug}": a loja não tem página em ${locale} (couponTranslations.ts), e as regras dela só existem em português`);
       }
       continue;
     }
@@ -154,8 +162,7 @@ export function affiliateProblems(
       problems.push(`affiliate "${slug}": o link da loja não vale em artigo em ${locale} (locales em affiliateStores.ts)`);
     }
   }
-  if (locale !== 'pt') problems.push('affiliate em lista só em artigo em português');
-  if (review.translationKey !== undefined) problems.push('affiliate em lista não aceita translationKey: a família traduzida fica para depois');
+  if (!locale) problems.push('affiliate em lista em artigo de locale inválido: não dá para conferir as lojas no idioma');
   if (review.coupon !== undefined) problems.push('affiliate em lista sem coupon: o código de cada loja vem de couponsData.ts');
   if (review.cta !== undefined) problems.push('affiliate em lista sem cta: o link de cada loja vem de couponsData.ts');
   return problems;

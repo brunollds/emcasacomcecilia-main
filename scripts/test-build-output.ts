@@ -962,7 +962,7 @@ function elementsWithAttribute(html: string, attribute: string) {
 const SIDEBAR_TEXT_KEYS = ['sectionsNav', 'tocTitle', 'copyHint', 'copiedHint', 'relatedTitle'] as const;
 function sidebarTexts(locale: Locale) {
   const copy = getSidebarCopy(locale);
-  const referralHints = getCodeHints(copy, 'referral', 'SHEIN');
+  const referralHints = getCodeHints(copy, 'referral', { slug: 'shein', brand: 'SHEIN' });
   return [
     ...SIDEBAR_TEXT_KEYS.map((key) => copy[key]),
     getCodeTitle(copy, 'referral', 'SHEIN'),
@@ -1697,6 +1697,59 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
   assert.notDeepEqual(articleEndProblems(multiEnd(pt.storeListTitle, [coded]), multiExpected([coded, linkOnly])), [], 'fim sem a linha da loja só de link passou');
   assert.notDeepEqual(articleEndProblems(multiEnd(pt.storeListTitle, [linkOnly, coded]), multiExpected([coded, linkOnly])), [], 'linhas fora da ordem do artigo passaram');
 }
+// As linhas do artigo de várias lojas (ArticleStoreCodes) no idioma do artigo, em cada lugar (topo, lateral, fim e
+// gaveta): o nome da seção, o "Ir à loja" de cada loja, o botão de copiar e o aviso de copiado do código (o de indicação,
+// na SHEIN) e o link das regras para a página da loja nesse idioma, que a lateral não leva. Fora do português, nenhum
+// link para /cupons. O título do fim fica com o articleEndProblems.
+function storeRowsProblems(body: string, locale: Locale, blocks: readonly ArticleStoreBlock[]): string[] {
+  const problems: string[] = [];
+  const copy = getArticleCopy(locale);
+  const labels = getCouponCopyLabels(locale);
+  const title = getStoreListTitle(copy, blocks);
+  for (const match of body.matchAll(/<section\b[^>]*\sdata-store-codes="(\w+)"[^>]*>/g)) {
+    const place = match[1];
+    const html = elementAt(body, match.index);
+    if (place !== 'end' && decodeHtml(match[0].match(/\saria-label="([^"]*)"/)?.[1] ?? '') !== title) problems.push(`${place}: seção sem o nome "${title}"`);
+    const names = [...html.matchAll(/\saria-label="([^"]*)"/g)].map(([, label]) => decodeHtml(label));
+    const texts = shownTextsOf(html);
+    const hrefs = hrefsOf(html);
+    for (const { slug, brand, code, codeKind, storeHref, couponPageHref } of blocks) {
+      if (storeHref && !names.includes(`${copy.storeGoShort}: ${brand}`)) problems.push(`${place}, ${slug}: link da loja sem o nome "${copy.storeGoShort}: ${brand}"`);
+      if (code && !names.includes(`${labels.copyCoupon(code)} (${brand})`)) problems.push(`${place}, ${slug}: botão de copiar sem o nome do idioma`);
+      if (code && !texts.includes(copy.copiedHint({ slug, brand }, codeKind))) problems.push(`${place}, ${slug}: sem o aviso de copiado do idioma`);
+      if (couponPageHref && hrefs.includes(couponPageHref) !== (place !== 'sidebar')) {
+        problems.push(`${place}, ${slug}: link das regras ${place === 'sidebar' ? 'na lateral' : `sem ${couponPageHref}`}`);
+      }
+    }
+    if (locale !== 'pt' && hrefs.some((href) => href.startsWith('/cupons'))) problems.push(`${place}: link para /cupons fora do português`);
+  }
+  return problems;
+}
+// O guarda das linhas por idioma: a SHEIN (código de indicação) ao lado da Temu (sem código), em inglês. Passa no certo;
+// falha com o nome em português, a página da loja em português, as regras na lateral, o aviso do cupom comum no lugar do
+// de indicação e o título de "códigos" com loja sem código.
+{
+  const shein: ArticleStoreBlock = { brand: 'SHEIN', slug: 'shein', code: '4CW5Y', codeKind: 'referral', rules: [], storeHref: 'https://loja.example/shein', storeSponsored: true, couponPageHref: '/en/coupons/shein' };
+  const temu: ArticleStoreBlock = { brand: 'Temu', slug: 'temu', rules: [], storeHref: 'https://loja.example/temu', storeSponsored: true, couponPageHref: '/en/coupons/temu' };
+  const en = getArticleCopy('en');
+  const row = ({ slug, brand, code, codeKind, storeHref, couponPageHref }: ArticleStoreBlock, rules: boolean) =>
+    `<li data-store-code="${slug}"><a href="${storeHref}" aria-label="${en.storeGoShort}: ${brand}" rel="sponsored">${en.storeGoShort}</a>` +
+    `${rules ? `<a href="${couponPageHref}">${en.storeRulesShort}</a>` : ''}` +
+    `${code ? `<button aria-label="${getCouponCopyLabels('en').copyCoupon(code)} (${brand})">${code}</button><p aria-hidden="true">${en.copiedHint({ slug, brand }, codeKind)}</p>` : ''}</li>`;
+  const section = (place: string) =>
+    `<section data-store-codes="${place}"${place === 'end' ? '' : ` aria-label="${en.storeListTitle}"`}><ul>${[shein, temu].map((block) => row(block, place !== 'sidebar')).join('')}</ul></section>`;
+  const page = ['top', 'sidebar', 'end', 'drawer'].map(section).join('');
+  const check = (markup: string) => storeRowsProblems(markup, 'en', [shein, temu]);
+  const fails = (problems: string[], pattern: RegExp, name: string) =>
+    assert.ok(problems.some((problem) => pattern.test(problem)), `linhas das lojas, ${name}: ${problems.join('; ') || 'passou'}`);
+  assert.deepEqual(check(page), [], 'linhas das lojas em inglês');
+  fails(check(page.replace(`${en.storeGoShort}: Temu`, `${getArticleCopy('pt').storeGoShort}: Temu`)), /top, temu: link da loja sem o nome/, '"Ir à loja" em português');
+  fails(check(page.replace('/en/coupons/temu', '/cupons/temu')), /top, temu: link das regras sem|top: link para \/cupons/, 'página da loja em português');
+  fails(check(page.replace(section('sidebar'), section('sidebar').replace('<button', '<a href="/en/coupons/shein">x</a><button'))), /sidebar, shein: link das regras na lateral/, 'regras na lateral');
+  fails(check(page.replace(en.copiedHint(shein, 'referral'), en.copiedHint(shein))), /top, shein: sem o aviso de copiado/, 'aviso do cupom comum no código de indicação');
+  fails(check(page.replace(`aria-label="${en.storeListTitle}"`, `aria-label="${en.storeCodesTitle}"`)), /top: seção sem o nome/, 'título de códigos com loja sem código');
+  fails(storeRowsProblems(page, 'ja', [shein, temu]), /seção sem o nome/, 'linhas em inglês num artigo em japonês');
+}
 // O fundo editorial dos artigos é branco e sem a camada de manchas (::before); o das receitas segue como está.
 assert.match(css, /\.editorial-ambient-bg-review\{[^}]*background-color:(?:#fff|#ffffff|white)\b/, 'CSS: o fundo dos artigos não é branco');
 assert.match(css, /\.editorial-ambient-bg-review:{1,2}before\{[^}]*content:none/, 'CSS: o fundo dos artigos ainda tem a camada de manchas');
@@ -1819,6 +1872,7 @@ for (const url of articleUrls) {
       `${pagePath}: linhas da gaveta fora das lojas ativas ou da ordem do artigo`
     );
     assert.ok(!dialog.includes('id="cupom-artigo"'), `${pagePath}: a gaveta repete o id do recorte do topo`);
+    assert.deepEqual(storeRowsProblems(body, locale, multiBlocks), [], `${pagePath}: linhas das lojas fora do idioma do artigo`);
   } else {
     assert.ok(!dockHtml.includes('data-dock-codes='), `${pagePath}: "Ver códigos" fora do artigo de várias lojas`);
     assert.ok(!dialog.includes('data-store-codes='), `${pagePath}: linhas de código na gaveta fora do artigo de várias lojas`);
@@ -2199,7 +2253,7 @@ for (const url of articleUrls) {
   assert.ok(!sidebar.includes('id="cupom-artigo"'), `${pagePath}: a lateral leva o id do recorte do topo`);
   const store = getSingleStoreSlug(review) ? getCouponBySlug(getSingleStoreSlug(review)!) : undefined;
   const codeKind = getStoreCodeKind(store, review.coupon);
-  const hints = getCodeHints(copy, codeKind, store?.brand);
+  const hints = getCodeHints(copy, codeKind, store);
   let code: string | undefined;
   if (storeBlock) {
     assert.deepEqual(cutoutProblems(sidebarCutouts[0], locale, storeBlock), [], `${pagePath}: recorte da lateral`);

@@ -11,7 +11,7 @@ import {
   type Coupon,
   type CouponCodeKind,
 } from '@/lib/couponsData';
-import { getCouponStorePath, getLocalizedCoupon, isTranslatedLocale } from '@/lib/couponTranslations';
+import { getCouponStorePath, getCouponTranslation, getLocalizedCoupon, isTranslatedLocale } from '@/lib/couponTranslations';
 import { publishedReviews, type Review } from '@/lib/data';
 import { getStoreArticlesPath, getStoreCode, hasArticlesPage } from '@/lib/homeStores';
 import { isInternalLink } from '@/lib/internalLinks';
@@ -81,11 +81,13 @@ export function shortenRule(text: string, max = MAX_RULE_LENGTH): string {
   return `${cut}…`;
 }
 
-// YesStyle tem uma rota estática por idioma; as demais, só com tradução em couponTranslations.
-function hasTranslatedStorePage(slug: string, locale: CouponCopyLocale): boolean {
+// A loja tem página no idioma: a YesStyle tem uma rota estática por idioma; as demais, só com tradução em
+// couponTranslations, que traz os 9 idiomas de uma vez. Não olha se a loja está pausada: o bloco só existe para a loja
+// ativa, e o validate:content (multi-store-checks.ts) usa a mesma regra para a lista de lojas de um artigo fora do PT.
+export function hasTranslatedStorePage(slug: string, locale: CouponCopyLocale): boolean {
   if (locale === 'pt') return true;
   if (slug === 'yesstyle') return true;
-  return isTranslatedLocale(locale) && Boolean(getLocalizedCoupon(slug, locale));
+  return Boolean(getCouponTranslation(slug));
 }
 
 // O que a página da YesStyle diz do próprio código de recompensa, com a data dela. As regras da seção dos cupons
@@ -175,8 +177,9 @@ export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, n
 
 // O artigo de várias lojas: um bloco por loja da lista, na ordem do artigo. A loja ativa de couponsData.ts sai como a
 // do artigo de uma loja que usa o código de sempre dela (o de indicação, na SHEIN; sem cta: o link é o de afiliado da
-// loja), e a pausada fica de fora. O afiliado sem página dá só o nome e o link, e só no idioma em que vale. O artigo de
-// uma loja e o sem loja dão [].
+// loja), e a pausada fica de fora. Fora do PT, o desconto, as regras e o link saem da tradução da loja, e o
+// validate:content só deixa na lista a loja com página no idioma. O afiliado sem página dá só o nome e o link, e só no
+// idioma em que vale. O artigo de uma loja e o sem loja dão [].
 export function getArticleStoreBlocks(review: Review, locale: CouponCopyLocale, now = Date.now()): ArticleStoreBlock[] {
   if (!isMultiStoreReview(review)) return [];
   return getReviewStoreSlugs(review).flatMap((slug) => {

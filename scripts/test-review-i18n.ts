@@ -9,6 +9,7 @@ import { detectDuplicateReviewPathnames, formatDate, getReviewDefaultTranslation
 import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { getArticleCopy, getReviewVideoLabels } from '@/components/review/articleCopy';
 import { getGalleryCopy } from '@/components/review/galleryCopy';
+import { ArticleStoreCodes } from '@/components/review/article/ArticleStoreCodes';
 import { ReviewHeroImage } from '@/components/review/ReviewHeroImage';
 import { ReviewSectionVideo } from '@/components/review/ReviewSectionVideo';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from '@/components/review/sidebarCopy';
@@ -34,31 +35,55 @@ interface ReviewSource {
   contentSections?: Array<{
     heading?: string;
     bullets?: string[];
-    links?: Array<{ href?: string }>;
+    links?: Array<{ href?: string; store?: string }>;
     styling?: ContentSectionStyling;
     imageAlt?: string;
     imageCaption?: string;
-    image?: string | { href?: string; alt?: string; caption?: string };
-    images?: Array<{ href?: string; alt?: string; caption?: string }>;
+    image?: string | { href?: string; store?: string; alt?: string; caption?: string };
+    images?: Array<{ href?: string; store?: string; alt?: string; caption?: string }>;
   }>;
 }
 
+// O `store` de um link de loja do artigo de várias lojas decide a marca da medição do clique e o "Ver na <loja>": numa
+// família, é o mesmo do português, item a item. No artigo de uma loja o campo não existe, e nada é cobrado.
+const storeMismatch = (slug: string, where: string, store: string | undefined, portuguese: string | undefined): string[] =>
+  store === portuguese ? [] : [`${slug}: ${where} com store "${store ?? '(vazio)'}", o português tem "${portuguese ?? '(vazio)'}"`];
+
+// Os botões de seção (`section.links`) numa família: o mesmo `store`, seção a seção e na ordem dos links.
+function sectionLinkStoreFamilyProblems(family: ReviewSource[]): string[] {
+  const portuguese = family.find((review) => resolveReviewLocale(review.locale) === 'pt');
+  if (!portuguese) return [];
+  return family.flatMap((review) =>
+    (portuguese.contentSections ?? []).flatMap((section, sectionIndex) =>
+      (section.links ?? []).flatMap((link, linkIndex) =>
+        storeMismatch(review.slug, `seção ${sectionIndex + 1}, link ${linkIndex + 1}`, review.contentSections?.[sectionIndex]?.links?.[linkIndex]?.store, link.store)
+      )
+    )
+  );
+}
+
 // O link de produto das fotos (o `href` da imagem da seção): numa família, a mesma lista de links, seção a seção e na
-// ordem das fotos, em toda versão. Foto sem link conta como vazio, para a posição bater.
+// ordem das fotos, em toda versão. Foto sem link conta como vazio, para a posição bater. Com os mesmos links, o `store`
+// de cada foto (artigo de várias lojas) também é o do português.
 function imageLinkFamilyProblems(family: ReviewSource[]): string[] {
   const portuguese = family.find((review) => resolveReviewLocale(review.locale) === 'pt');
   if (!portuguese) return [];
-  const linksOf = (review: ReviewSource) =>
-    JSON.stringify(
-      (review.contentSections ?? []).map((section) =>
-        [...(typeof section.image === 'object' && section.image ? [section.image] : []), ...(section.images ?? [])].map((image) => image.href ?? '')
-      )
-    );
+  const photosOf = (review: ReviewSource) =>
+    (review.contentSections ?? []).map((section) => [...(typeof section.image === 'object' && section.image ? [section.image] : []), ...(section.images ?? [])]);
+  const linksOf = (review: ReviewSource) => JSON.stringify(photosOf(review).map((photos) => photos.map((image) => image.href ?? '')));
   const reference = linksOf(portuguese);
   if (!reference.includes('http')) {
     return family.filter((review) => linksOf(review).includes('http')).map((review) => `${review.slug}: foto com link que o português não tem`);
   }
-  return family.filter((review) => linksOf(review) !== reference).map((review) => `${review.slug}: links das fotos diferentes do português`);
+  return family.flatMap((review) => {
+    if (linksOf(review) !== reference) return [`${review.slug}: links das fotos diferentes do português`];
+    const photos = photosOf(review);
+    return photosOf(portuguese).flatMap((section, sectionIndex) =>
+      section.flatMap((image, photoIndex) =>
+        storeMismatch(review.slug, `seção ${sectionIndex + 1}, foto ${photoIndex + 1}`, photos[sectionIndex][photoIndex].store, image.store)
+      )
+    );
+  });
 }
 
 // O texto das fotos (alt e legenda, da seção, da imagem da seção ou da galeria) numa família: nenhum igual ao do
@@ -88,7 +113,8 @@ function imageTextFamilyProblems(family: ReviewSource[]): string[] {
 // O card de estilo (ArticleStyling) numa família: as mesmas seções com card, no mesmo modelo, com as mesmas peças
 // na mesma ordem, os mesmos links (da peça e do "combina com"), os mesmos campos preenchidos, as mesmas cores e o
 // texto traduzido (como usar, ocasião e a nota do link). Os nomes de peça e os básicos do armário podem repetir o
-// português ("Polo", "jeans").
+// português ("Polo", "jeans"). Com o mesmo desenho, o `store` de cada peça e de cada "combina com" (artigo de várias
+// lojas) também é o do português.
 function stylingFamilyProblems(family: ReviewSource[]): string[] {
   const portuguese = family.find((review) => resolveReviewLocale(review.locale) === 'pt');
   if (!portuguese) return [];
@@ -117,6 +143,14 @@ function stylingFamilyProblems(family: ReviewSource[]): string[] {
     cards.forEach((card, index) => {
       if (JSON.stringify(shapeOf(card)) !== JSON.stringify(shapeOf(reference[index]))) {
         problems.push(`${review.slug}: card de estilo ${index + 1} com modelo, peças, links, campos ou cores diferentes do português`);
+      } else {
+        reference[index].items.forEach((item, itemIndex) => {
+          const piece = `card de estilo ${index + 1}, peça ${itemIndex + 1}`;
+          problems.push(...storeMismatch(review.slug, piece, card.items[itemIndex].store, item.store));
+          (item.pairsWith ?? []).forEach((pair, pairIndex) => {
+            problems.push(...storeMismatch(review.slug, `${piece}, combina com ${pairIndex + 1}`, card.items[itemIndex].pairsWith?.[pairIndex]?.store, pair.store));
+          });
+        });
       }
       const portugueseTexts = new Set(textsOf(reference[index]));
       for (const text of textsOf(card)) {
@@ -152,6 +186,28 @@ function decisionFamilyProblems(family: ReviewSource[]): string[] {
     }
   }
   return problems;
+}
+
+// A loja e o código numa família: os mesmos em toda versão. No artigo de várias lojas, o `affiliate` é a lista, e ela
+// tem de ser a mesma em todas: as mesmas lojas, na mesma ordem (a ordem das linhas do artigo).
+function storeFamilyProblems(family: ReviewSource[]): string[] {
+  return (['affiliate', 'coupon'] as const).flatMap((field) => {
+    const values = [...new Set(family.map((review) => JSON.stringify(review[field] ?? null)))];
+    return values.length === 1 ? [] : [`${field} diferente entre as versões: ${values.join(', ')}`];
+  });
+}
+
+// O link da página da loja segue o idioma do artigo: /cupons/<marca> em português e /<locale>/coupons/<marca> nos
+// outros idiomas, que não têm hub de cupons. Vale para qualquer loja citada, e no artigo de várias lojas para o link
+// de cada uma delas.
+function storePageLinkProblems(review: ReviewSource): string[] {
+  const locale = resolveReviewLocale(review.locale);
+  return collectLinks(review).filter(isCouponPageLink).flatMap((href) => {
+    const pathname = getInternalHref(href).split(/[?#]/, 1)[0];
+    if (locale === 'pt' && pathname === '/cupons') return [];
+    const brand = getCouponBrandFromHref(href);
+    return brand && pathname === getCouponStorePath(brand, locale) ? [] : [`link de loja fora do idioma do artigo: ${href}`];
+  });
 }
 
 const contentReviewsDir = path.join(process.cwd(), 'content', 'reviews');
@@ -484,16 +540,13 @@ const storeReferralLabel = (locale: Locale) =>
       );
     }
     const family = translatedReviews.filter((review) => review.translationKey === key);
-    for (const field of ['affiliate', 'coupon'] as const) {
-      // A lista (artigo de várias lojas) compara pelo conteúdo, na ordem; hoje o validate:content nem a deixa ter família.
-      const values = [...new Set(family.map((review) => [review[field] ?? '(vazio)'].flat().join(' + ')))];
-      assert.equal(values.length, 1, `${key}: ${field} diferente entre as versões: ${values.join(', ')}`);
-    }
+    assert.deepEqual(storeFamilyProblems(family), [], `${key}: loja ou código diferente entre as versões`);
     const withoutFaq = family.filter((review) => !review.contentSections?.some((section) => isFaqHeading(section.heading)));
     assert.ok(
       withoutFaq.length === 0 || withoutFaq.length === family.length,
       `${key}: seção de FAQ não reconhecida em ${withoutFaq.map((review) => review.locale).join(', ')}`
     );
+    assert.deepEqual(sectionLinkStoreFamilyProblems(family), [], `${key}: store dos botões de seção diferente entre as versões`);
     assert.deepEqual(stylingFamilyProblems(family), [], `${key}: card de estilo diferente entre as versões`);
     assert.deepEqual(decisionFamilyProblems(family), [], `${key}: quadro de decisão diferente entre as versões`);
     assert.deepEqual(imageLinkFamilyProblems(family), [], `${key}: link de produto das fotos diferente entre as versões`);
@@ -505,6 +558,54 @@ const storeReferralLabel = (locale: Locale) =>
     }
   }
   assert.deepEqual(unusedTypeExceptions(usedTypeExceptions), [], 'exceção de type igual ao português que não vale mais');
+
+  // O guarda da loja e do código, provado em famílias que falham e que passam: a de uma loja e a de várias.
+  const storeFamily = (portuguese: ReviewSource['affiliate'], english: ReviewSource['affiliate'], coupon?: string): ReviewSource[] => [
+    { slug: 'pt', affiliate: portuguese, coupon: 'CECILIA010' },
+    { slug: 'en', locale: 'en', affiliate: english, coupon: coupon ?? 'CECILIA010' },
+  ];
+  assert.deepEqual(storeFamilyProblems(storeFamily('yesstyle', 'yesstyle')), [], 'a mesma loja passa');
+  assert.equal(storeFamilyProblems(storeFamily('yesstyle', 'shein')).length, 1, 'outra loja falha');
+  assert.equal(storeFamilyProblems(storeFamily('yesstyle', undefined)).length, 1, 'versão sem a loja falha');
+  assert.equal(storeFamilyProblems(storeFamily('yesstyle', 'yesstyle', 'OUTRO10')).length, 1, 'outro código falha');
+  const listFamily = (english: ReviewSource['affiliate']): ReviewSource[] => [
+    { slug: 'pt', affiliate: ['shein', 'temu'] },
+    { slug: 'en', locale: 'en', affiliate: english },
+    { slug: 'ja', locale: 'ja', affiliate: ['shein', 'temu'] },
+  ];
+  assert.deepEqual(storeFamilyProblems(listFamily(['shein', 'temu'])), [], 'a mesma lista passa');
+  assert.equal(storeFamilyProblems(listFamily(['temu', 'shein'])).length, 1, 'a lista em outra ordem falha');
+  assert.equal(storeFamilyProblems(listFamily(['shein', 'temu', 'aliexpress'])).length, 1, 'loja a mais falha');
+  assert.equal(storeFamilyProblems(listFamily(['shein'])).length, 1, 'loja a menos falha');
+  assert.equal(storeFamilyProblems(listFamily('shein')).length, 1, 'uma loja no lugar da lista falha');
+  assert.equal(storeFamilyProblems(listFamily(undefined)).length, 1, 'versão sem a lista falha');
+
+  // O guarda do `store` dos links de loja, provado numa família com lista: igual passa; a versão que troca a SHEIN pela
+  // Temu num botão, numa foto, numa peça ou num "combina com" falha, e a mensagem diz onde.
+  const storeTagged = (button: string, photo: string, piece: string, pair: string): ReviewSource['contentSections'] => [
+    { heading: 'A' },
+    {
+      heading: 'B',
+      links: [{ href: '/cupons/shein' }, { href: 'https://loja.com/a', store: button }],
+      images: [{ href: 'https://loja.com/f', store: photo }],
+      styling: { layout: 'tabs', items: [{ piece: 'Polo', url: 'https://loja.com/p', store: piece, pairsWith: [{ label: 'Bermuda', url: 'https://loja.com/b', store: pair }] }] },
+    },
+  ];
+  const storeTagFamily = (...english: [string, string, string, string]): ReviewSource[] => [
+    { slug: 'pt', affiliate: ['shein', 'temu'], contentSections: storeTagged('shein', 'shein', 'shein', 'temu') },
+    { slug: 'en', locale: 'en', affiliate: ['shein', 'temu'], contentSections: storeTagged(...english) },
+  ];
+  const storeTagProblems = (family: ReviewSource[]) => [
+    ...sectionLinkStoreFamilyProblems(family),
+    ...imageLinkFamilyProblems(family),
+    ...stylingFamilyProblems(family),
+  ];
+  assert.deepEqual(storeTagProblems(storeTagFamily('shein', 'shein', 'shein', 'temu')), [], 'o mesmo store em toda versão passa');
+  assert.deepEqual(storeTagProblems(storeTagFamily('temu', 'shein', 'shein', 'temu')), ['en: seção 2, link 2 com store "temu", o português tem "shein"']);
+  assert.deepEqual(storeTagProblems(storeTagFamily('shein', 'temu', 'shein', 'temu')), ['en: seção 2, foto 1 com store "temu", o português tem "shein"']);
+  assert.deepEqual(storeTagProblems(storeTagFamily('shein', 'shein', 'temu', 'temu')), ['en: card de estilo 1, peça 1 com store "temu", o português tem "shein"']);
+  assert.deepEqual(storeTagProblems(storeTagFamily('shein', 'shein', 'shein', 'shein')), ['en: card de estilo 1, peça 1, combina com 1 com store "shein", o português tem "temu"']);
+  assert.equal(storeTagProblems(storeTagFamily('temu', 'temu', 'temu', 'shein')).length, 4, 'as quatro trocas juntas aparecem');
 
   // O guarda do type, provado em versões que falham e que passam.
   assert.deepEqual(typeProblems({ slug: 'f', locale: 'es', type: 'Guia & Cupons' }, 'Guia & Cupons'), ['type igual ao português: "Guia & Cupons"']);
@@ -578,20 +679,22 @@ const storeReferralLabel = (locale: Locale) =>
   assert.equal(imageTextFamilyProblems(altFamily([{ heading: 'A', images: [{ caption: 'A linha verde é o cupom' }] }])).length, 1, 'legenda da galeria igual ao português falha');
   assert.equal(imageTextFamilyProblems(altFamily([{ heading: 'A', imageAlt: 'Foto da mala' }])).length, 1, 'imageAlt igual ao português falha');
 
-  // O link da página da loja segue o idioma do artigo: /cupons/<marca> em português e
-  // /<locale>/coupons/<marca> nos outros idiomas, que não têm hub de cupons.
   for (const review of reviews) {
-    const locale = resolveReviewLocale(review.locale);
-    for (const href of collectLinks(review).filter(isCouponPageLink)) {
-      const pathname = getInternalHref(href).split(/[?#]/, 1)[0];
-      if (locale === 'pt' && pathname === '/cupons') continue;
-      const brand = getCouponBrandFromHref(href);
-      assert.ok(
-        brand && pathname === getCouponStorePath(brand, locale),
-        `${review.slug}: link de loja fora do idioma do artigo: ${href}`
-      );
-    }
+    assert.deepEqual(storePageLinkProblems(review), [], `${review.slug}: link da página da loja fora do idioma do artigo`);
   }
+  // O guarda, provado no artigo de várias lojas: o link de cada loja vai à página dela no idioma do artigo.
+  const storeLinks = (locale: Locale | undefined, ...hrefs: string[]): ReviewSource => ({
+    slug: 'lista',
+    locale,
+    affiliate: ['shein', 'temu'],
+    contentSections: [{ heading: 'A', links: hrefs.map((href) => ({ href })) }],
+  });
+  assert.deepEqual(storePageLinkProblems(storeLinks(undefined, '/cupons/shein', '/cupons/temu', '/cupons')), [], 'em português, /cupons/<loja> e o hub passam');
+  assert.deepEqual(storePageLinkProblems(storeLinks('en', '/en/coupons/shein', '/en/coupons/temu')), [], 'em inglês, a página de cada loja no idioma passa');
+  assert.equal(storePageLinkProblems(storeLinks('en', '/en/coupons/shein', '/cupons/temu')).length, 1, 'em inglês, a página em português de uma das lojas falha');
+  assert.equal(storePageLinkProblems(storeLinks('en', '/ja/coupons/temu')).length, 1, 'a página de outro idioma falha');
+  assert.equal(storePageLinkProblems(storeLinks('en', '/cupons')).length, 1, 'fora do português não há hub de cupons');
+  assert.equal(storePageLinkProblems(storeLinks(undefined, '/en/coupons/temu')).length, 1, 'em português, a página em inglês falha');
 
   // A seção de FAQ vira o acordeão e o FAQPage do schema: o título precisa estar na lista do template
   // e cada item precisa trazer a pergunta e a resposta, senão os dois o deixam de fora. Estes são os
@@ -683,9 +786,9 @@ const storeReferralLabel = (locale: Locale) =>
     assert.ok(!reward.toLowerCase().includes(term) && !coupon.toLowerCase().includes(term), `${locale}: cupom ou recompensa chamado de indicação`);
     assert.ok(storeReferralLabel(locale).toLowerCase().includes(term), `${locale}: a página da SHEIN não usa o termo "${term}"`);
 
-    const referralHints = getCodeHints(copy, 'referral', 'SHEIN');
-    const plainHints = getCodeHints(copy, undefined, 'DAMIE');
-    assert.deepEqual(getCodeHints(copy, 'reward', 'YesStyle'), plainHints, `${locale}: a recompensa muda a dica do cupom`);
+    const referralHints = getCodeHints(copy, 'referral', { slug: 'shein', brand: 'SHEIN' });
+    const plainHints = getCodeHints(copy, undefined, { slug: 'damie', brand: 'DAMIE' });
+    assert.deepEqual(getCodeHints(copy, 'reward', { slug: 'yesstyle', brand: 'YesStyle' }), plainHints, `${locale}: a recompensa muda a dica do cupom`);
     assert.notEqual(referralHints.copy, plainHints.copy, `${locale}: dica do código de indicação igual à do cupom`);
     assert.notEqual(referralHints.copied, plainHints.copied, `${locale}: dica do código de indicação copiado igual à do cupom, que manda colar no checkout`);
     assert.ok(referralHints.copy.includes('SHEIN') && referralHints.copied.includes('SHEIN'), `${locale}: dica do código de indicação sem dizer onde pesquisar`);
@@ -698,6 +801,23 @@ const storeReferralLabel = (locale: Locale) =>
       }
     }
     assert.notEqual(referralCopied, article.copiedHint({ slug: 'damie', brand: 'DAMIE' }), `${locale}: código de indicação copiado igual ao cupom`);
+
+    // A linha da SHEIN no artigo de várias lojas (ao lado de uma loja sem código) avisa do código de indicação com o
+    // mesmo termo, sem país, e não manda colar no checkout.
+    const rows = renderToStaticMarkup(
+      createElement(ArticleStoreCodes, {
+        variant: 'top',
+        locale,
+        reviewSlug: 'x',
+        blocks: [
+          { brand: 'SHEIN', slug: 'shein', code: '4CW5Y', codeKind: 'referral', rules: [], storeHref: 'https://loja.example/shein', storeSponsored: true },
+          { brand: 'Temu', slug: 'temu', rules: [], storeHref: 'https://loja.example/temu', storeSponsored: true },
+        ],
+      })
+    );
+    assert.ok(rows.toLowerCase().includes(term), `${locale}: linha da SHEIN no artigo de várias lojas sem "${term}"`);
+    if (locale !== 'pt') assert.ok(!rows.includes(SHEIN_BRAZIL[locale]), `${locale}: linha da SHEIN com "${SHEIN_BRAZIL[locale]}"`);
+    assert.ok(!rows.includes(article.copiedHint({ slug: 'shein', brand: 'SHEIN' })), `${locale}: linha da SHEIN manda colar no checkout`);
   }
 
   const portugueseUi = new Map(articleUiLeaves('pt'));
