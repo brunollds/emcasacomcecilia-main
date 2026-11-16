@@ -16,7 +16,14 @@ Parceira nova (#1060). Pesquisa semente pedida pelo Bruno em 16/11; pautas LZ1 a
 - **Reclame Aqui (01/05 a 31/10/2026):** Boa, 7,0; 30 reclamações, 100% respondidas, 75% resolvidas, 56,3% voltariam a fazer negócio, resposta em 1 dia e 14 horas; "atraso na entrega" é 43,1% dos problemas. Base pequena (16 avaliadas). CNPJ do perfil (31.469.239/0001-39) diferente do rodapé do site (ABRAHAO VAREJISTA LTDA, 60.522.061/0001-40).
 - **Site:** a marca vive do sérum de sobrancelhas, com a Garantia Mais Fios (dinheiro de volta em 60 dias, com fotos e condições). Página de Black Friday existe e está vazia.
 - **Busca aberta:** nenhuma resenha independente do sérum entre os primeiros resultados; só guias genéricos de sérum para sobrancelha.
-- **Não lido:** lista de ingredientes, Anvisa, fabricante e fundadores, loja oficial no Mercado Livre.
+- **Não lido:** lista de ingredientes e volume (a página oficial não publica; pendente do rótulo), preços do Mercado Livre (os anúncios pedem login), fundadores.
+- **Leitura do Job 1 (16/11, antes dos briefings):**
+  - Anvisa (dados abertos, base de 15/11): o processo 25351.021744/2026-56 é o "Sérum Cílios e Sobrancelhas L'Amazonie", notificado, da CTEC; há um segundo processo de sérum de sobrancelhas (2024, JUA). Nenhuma linha traz os CNPJs da loja. O portal de consulta pediu verificação anti-robô.
+  - Arrependimento: a política da loja pede caixa lacrada e frete do cliente; o Guia de Comércio Eletrônico do Procon-SP (p. 19) diz que o fornecedor não pode exigir nem um nem outro.
+  - Garantia: dois frascos, mas o segundo pode ser comprado no site antes de o primeiro acabar; fotos com prazo.
+  - Black Friday: página da campanha vazia, mas seis páginas de oferta fora do menu, com brinde no preço de tabela; os "de/por" são a tabela de kits de sempre.
+  - Topo do Google: "cupom l'amazonie" lista códigos de outras criadoras a 12% (o nosso é 5%); "é bom" e "funciona" não têm resenha independente nem a composição; uma reclamação de queda de fios aparece no topo.
+- **Briefings:** LZ1 a LZ6 escritos em 16/11; a LZ5 depende do rótulo para o capítulo de composição; a LZ6 fica para perto de 27/11.
 - **Decisão:** "é boa" e "funciona" num artigo só (LZ5), com o sérum como capítulo principal; o artigo só do sérum espera uso próprio ou o rótulo lido; nenhum "L'Amazonie ou X".
 
 ---
