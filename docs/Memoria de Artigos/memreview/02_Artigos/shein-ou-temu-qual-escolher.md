@@ -10,8 +10,8 @@ type: "Comparativo"
 status: "briefing"
 score: 68
 responsavel: "Job-1 (Claude Fable 5.2)"
-proxima_acao: "redação do PT e conversão das 9 versões para a lista de lojas (Job 2 e Job 4), depois da F3"
-bloqueado_por: "F3 do artigo de várias lojas (Redesenho do site)"
+proxima_acao: "redação do PT e conversão das 9 versões para a lista de lojas (Job 2 e Job 4), com a F3 na main"
+bloqueado_por: "-"
 data_criacao: "2026-11-16"
 i18n_cluster: "shein"
 translationKey: "shein-vs-shopee-temu"
@@ -61,14 +61,30 @@ melhor qualidade.
 9. Quadro "Leve se / Passe se" (`decision`) e FAQ: "shein e temu são a mesma coisa?", "qual chega mais rápido?", "a
    Temu cobra taxa?", "qual é mais barata?" (o artigo não mediu).
 
+## O que o site já aceita
+
+A F3 está na main desde 16/11 (#1042), depois da F1 (#1036) e da F2 (#1038). Regras que o `validate:content` e o
+`test:review-i18n` cobram:
+
+- A lista de `affiliate` é idêntica nas 10 versões, na mesma ordem, sem `coupon` nem `cta`.
+- Toda loja da lista vale no idioma de cada versão (SHEIN, Temu, AliExpress e Hostinger nos 10; Shopee só em PT).
+- Todo link de loja patrocinado (botão de seção, foto com `href`, peça do card de estilo) leva `store`, o mesmo em
+  toda versão e na mesma posição.
+- O link interno para a página da loja é o do idioma: `/cupons/<loja>` em PT, `/<locale>/coupons/<loja>` nos outros.
+  Temu e AliExpress já têm página em `couponsData.ts` e em `couponTranslations.ts`.
+
+O leitor vê, fora do PT, a SHEIN com o 4CW5Y e as regras no idioma, e a outra loja só com "Ir à loja" e "Regras",
+levando à página dela no idioma. O título do bloco é "Lojas deste artigo". O nome das lojas no cartão fora do PT
+("SHEIN and Temu") estava em andamento na Redesenho em 16/11. Nada disso está no ar: deploy é decisão do Bruno.
+
 ## Família
 
 - As 9 versões no ar mantêm slug, mercado e texto. Mudam `affiliate` (lista `["shein", "temu"]`), saem `coupon` e
   `cta`, e os links de loja ganham `store`.
 - A lista é a mesma nas 10 versões; a Shopee não entra.
-- **zh-hant:** a revisão de 13/10 registrou essa versão como SHEIN, 蝦皮 e AliExpress, sem Temu (não há site da Temu
-  em Taiwan nem em Hong Kong), mas o título no ar fala em Temu, Singapura e Malásia. Conferir o que está no ar antes
-  de pôr `temu` na lista dela.
+- **zh-hant:** conferido em 16/11. A versão no ar (`shein-vs-shopee-zh-hant`) é SHEIN e Temu em Singapura e na
+  Malásia, sem 蝦皮 nem AliExpress no texto; a nota de 13/10 sobre "SHEIN, 蝦皮 e AliExpress" ficou para trás. A
+  lista `["shein", "temu"]` serve a ela como às outras.
 - O PT traduz a estrutura das outras versões para o Brasil (núcleo mais bloco de mercado), com Reclame Aqui e imposto,
   que só existem aqui.
 
@@ -103,7 +119,5 @@ melhor qualidade.
 
 ## Pendências
 
-- F3 na main (Redesenho do site).
 - Página "sobre" e página de imposto da Temu.
-- zh-hant: conferir a versão no ar.
 - Amostra de produtos: decisão do Bruno.

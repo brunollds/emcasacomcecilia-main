@@ -10,8 +10,8 @@ type: "Comparativo"
 status: "briefing"
 score: 70
 responsavel: "Job-1 (Claude Fable 5.2)"
-proxima_acao: "redação do PT (Job 2) e família de 10 idiomas (Job 4), depois da F3"
-bloqueado_por: "F3 do artigo de várias lojas (Redesenho do site)"
+proxima_acao: "redação do PT (Job 2) e família de 10 idiomas (Job 4), com a F3 na main"
+bloqueado_por: "-"
 data_criacao: "2026-11-16"
 i18n_cluster: "shein"
 translationKey: "shein-vs-aliexpress"
@@ -67,12 +67,29 @@ tinha reputação "Boa" e o AliExpress, "Regular". O artigo não diz qual é mai
    mediu), "o AliExpress é confiável para roupa?" (só pelo que a política e o Reclame Aqui dizem), "o código 4CW5Y dá
    desconto?".
 
+## O que o site já aceita
+
+A F3 está na main desde 16/11 (#1042), depois da F1 (#1036) e da F2 (#1038). Regras que o `validate:content` e o
+`test:review-i18n` cobram:
+
+- A lista de `affiliate` é idêntica nas 10 versões, na mesma ordem, sem `coupon` nem `cta`.
+- Toda loja da lista vale no idioma de cada versão (SHEIN, Temu, AliExpress e Hostinger nos 10; Shopee só em PT).
+- Todo link de loja patrocinado (botão de seção, foto com `href`, peça do card de estilo) leva `store`, o mesmo em
+  toda versão e na mesma posição.
+- O link interno para a página da loja é o do idioma: `/cupons/<loja>` em PT, `/<locale>/coupons/<loja>` nos outros.
+  Temu e AliExpress já têm página em `couponsData.ts` e em `couponTranslations.ts`.
+
+O leitor vê, fora do PT, a SHEIN com o 4CW5Y e as regras no idioma, e a outra loja só com "Ir à loja" e "Regras",
+levando à página dela no idioma. O título do bloco é "Lojas deste artigo". O nome das lojas no cartão fora do PT
+("SHEIN and Temu") estava em andamento na Redesenho em 16/11. Nada disso está no ar: deploy é decisão do Bruno.
+
 ## Família (10 idiomas)
 
 - Núcleo comum mais bloco de mercado, como na família de outubro: cada versão traz envio, prazo e devolução do
   AliExpress e da SHEIN do seu mercado. Os dados de 13/10 dão o ponto de partida e são relidos.
-- Mercados: os mesmos de outubro (en no Reino Unido; es com Espanha e México; zh-hans com Singapura e Malásia;
-  zh-hant com Taiwan).
+- Mercados: os mesmos da família de outubro (en no Reino Unido; es com Espanha e México; zh-hans com Singapura e
+  Malásia). zh-hant: a família SHEIN ou Temu trocou Taiwan por Singapura e Malásia; o AliExpress tem site de Taiwan e
+  foi lido lá em 13/10, então a redação escolhe o mercado do zh-hant e diz qual é.
 - Reclame Aqui e a regra de imposto do Brasil só no PT. Fora do Brasil, só o que as lojas publicam.
 - Traduções pelo Sonnet, a partir do PT, com revisão desta frente. Sem citar o Brasil nem "SHEIN Brasil".
 - Lista `["shein", "aliexpress"]` nas 10 versões, com o mesmo link do AliExpress em todas.
@@ -108,6 +125,5 @@ tinha reputação "Boa" e o AliExpress, "Regular". O artigo não diz qual é mai
 
 ## Pendências
 
-- F3 na main (Redesenho do site).
 - Releitura do AliExpress por mercado.
 - Amostra de produtos: decisão do Bruno.
