@@ -192,3 +192,15 @@ se a campanha sair antes, atualizar a resposta rápida e a seção 2.
 - **Alt:** Modelo com o colete trespasse vermelho da Cléa Store.
 - **Origem:** foto oficial da Cléa Store (colete trespasse vermelho); a arte não traz percentual nem prazo de campanha.
 - **Lote 05 do piloto de capas (Codex):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-LOTES-04-05-06-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/clea-store/black-friday-clea-store-capa-discover.webp`) fica no CDN, sem uso como capa.
+
+## Curadoria de Black Friday (16/11/2026)
+
+O guia ganhou três capítulos de escolha (camisetas, bodies Second Skin e alfaiataria) e o topo foi reescrito. Título, resposta rápida, meta e subtítulo mudaram; URL, capa e CTA não.
+
+- **A campanha mudou.** Em 08/11 a faixa dizia 30% OFF em todo o site e o Kit 3 T-Shirts saía por R$ 199,00. Em 16/11 a faixa anuncia uma T-shirt oversized de brinde na compra de qualquer peça, e os descontos são por produto na página `/black-friday` (33% nos kits, 30% no Gola Alta e no Duplo, 50% no Ombro Único, 20% na Comfort). O kit voltou a R$ 258,00.
+- **Fonte:** site oficial pelo navegador, sem login. A plataforma é a Vnda; os preços ficam em `del.price` e `ins.price` e não saem no texto da página.
+- **Cupom testado em 16/11:** Kit Classic R$ 258,00, linha Desconto R$ 25,80, total R$ 232,20. O bloco "Brindes disponíveis" seguiu oferecendo a T-Shirt Oversized por R$ 0,00 com o cupom aplicado. Com a Camiseta Comfort (R$ 159,92) no mesmo carrinho, o aviso do frete passou a "faltam R$ 222,87", que são os 10% sobre os dois itens (R$ 376,13). A linha Desconto desse segundo carrinho não foi lida.
+- **Preços lidos:** Comfort R$ 159,92 (de R$ 199,90); T-Shirt Oversized avulsa R$ 129,00; kits Classic, Colorful, Intense e Essenciais R$ 258,00; Gola Alta R$ 118,30 e R$ 101,40 cada no leve 3; Duplo R$ 111,30 na página da campanha e na sacola, R$ 127,20 na página do produto, R$ 95,40 cada no leve 3; Frente Única R$ 124,00 e R$ 106,00 cada no leve 3; Ombro Único R$ 79,50; Camisa Tricoline R$ 207,20.
+- **Sem tamanho disponível em 16/11:** Kit Brazil Edition, Body Decote Reversível, Body Regata Cavado, Blazer Risca de Giz, Colete Trespasse Vermelho, Calça Caqui. Com grade curta: Blazer Mescla (P), Blazer Rosa Linho (G), Shorts Rosa Linho (36 e 40), Colete Bege (PP), Calça Linho Vermelha (36 e 38). O artigo cita a grade curta sem listar peça a peça.
+- **Não lido:** preço de venda das peças de alfaiataria (a página não mostrou no extrator; o capítulo ficou sem preços e aponta para os dois guias), regras do brinde além da faixa, página de cashback (o texto antigo ficou).
+- **Pendente fora deste guia:** `camiseta-clea-store-e-boa` diz no quadro de decisão que o catálogo só tem oversized e registra a Comfort a R$ 139,93; `body-clea-store-second-skin-qual-escolher` registra o Frente Única a R$ 95,40 sem leve 3.
