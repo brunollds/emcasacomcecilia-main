@@ -959,7 +959,7 @@ const STORE_COUPONS: Coupon[] = [
       'Confira se o desconto apareceu no resumo do pedido antes de finalizar.',
     ],
     category: 'Eletrônicos, eletrodomésticos, móveis e mais',
-    // Fora da vitrine da home em português (Bruno, 16/11/2026); segue em /cupons, em /reviews e nos outros idiomas.
+    // Fora da vitrine da home em português (Bruno, 16/11/2026); segue em /cupons e em /reviews.
     hideFromPortugueseHome: true,
     hubCategory: 'diversos',
     shortDescription: 'produtos vendidos e entregues pelo Magalu na loja Magazine Você da Cecília',
@@ -2231,7 +2231,7 @@ const STORE_COUPONS: Coupon[] = [
     offerTypeLabelPlural: 'indicações',
     offerActionLabel: 'Criar a lista na Lejour',
     category: 'Lista de casamento e site dos noivos',
-    // Fora da vitrine da home em português (Bruno, 16/11/2026); segue em /cupons, em /reviews e nos outros idiomas.
+    // Fora da vitrine da home em português (Bruno, 16/11/2026); segue em /cupons e em /reviews.
     hideFromPortugueseHome: true,
     hubCategory: 'casa',
     shortDescription: 'site do casamento e lista de presentes, com plano gratuito',
@@ -3739,6 +3739,141 @@ const STORE_COUPONS: Coupon[] = [
     monthlyHighlight: {
       scope: 'no site oficial',
       note: 'Soma com os preços em promoção do site',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
+    slug: 'baw',
+    cartPrint: { src: '/images/reviews/baw/cupom-baw-carrinho-com-cupom.webp', alt: 'Resumo do carrinho da BAW Clothing com o código BAWEMCASACOMCECILIA no campo Cupom de desconto, o aviso Cupom aplicado, a linha Cupom de menos R$ 14,80 e o total de R$ 133,20', aspectRatio: 2.646 },
+    brand: 'BAW Clothing',
+    officialUrl: 'https://www.bawclothing.com.br/',
+    offerUrl: 'https://www.bawclothing.com.br/',
+    brandIcon: 'BAW',
+    brandLogo: '/images/about/partners/baw.png',
+    brandLogoAlt: 'Marca BAW Clothing',
+    bubble: { src: '/images/logos/bolinhas/baw.png', background: '#000000' },
+    brandWatermark: '/images/logos/watermarks/baw.webp',
+    brandColor: '#000000',
+    code: 'BAWEMCASACOMCECILIA',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Streetwear: camisetas, moletons, calças e acessórios',
+    hubCategory: 'moda',
+    shortDescription: 'todo o site e o app da BAW Clothing, com todas as formas de pagamento',
+    longDescription:
+      'O cupom BAW Clothing BAWEMCASACOMCECILIA dá 10% OFF em todo o site e no aplicativo, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções e com os 5% do Pix: no nosso teste, os 10% entraram também numa camiseta em promoção de Black Friday. Vale em todas as formas de pagamento.',
+    metaTitle: 'Cupom BAW Clothing: 10% OFF com BAWEMCASACOMCECILIA',
+    metaTitleMonth: true,
+    metaDescription:
+      'Cupom BAW Clothing: BAWEMCASACOMCECILIA dá 10% OFF em todo o site e no app, para cliente novo ou antigo, e soma com as promoções e os 5% do Pix.',
+    eligibleCategories: 'Todos os produtos do site oficial e do aplicativo da BAW Clothing, inclusive os que já estão em promoção',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Pode ser usado por clientes novos e antigos',
+    shipping: 'Frete e prazo calculados no carrinho pelo CEP, segundo a política de entrega da loja; o prazo conta a partir do faturamento do pedido',
+    combinable:
+      'Soma com as promoções vigentes do site e com os 5% de desconto do Pix, e vale com todas as formas de pagamento e no aplicativo; o cupom não dá frete grátis',
+    stacking: [
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, os 10% entraram numa camiseta em promoção de Black Friday' },
+      { benefit: 'pix', stacks: 'sim', condition: 'No Pix, a loja dá 5% de desconto, que soma com o código' },
+      { benefit: 'frete', stacks: 'nao', condition: 'O frete sai pelo CEP, à parte do cupom' },
+    ],
+    paymentPerks: [
+      'Até 10x sem juros no cartão, com parcela mínima de R$ 50',
+      'Programa de fidelidade BAWPOINTS, com pontos e cashback para quem se cadastra no site',
+    ],
+    lastVerified: '2026-11-16',
+    testedAt: '2026-11-16',
+    testNote:
+      'Num carrinho com duas camisetas, a Regular Locally Grown pelo preço cheio de R$ 89,00 e a Regular Goth 3.0 em promoção de Black Friday, de R$ 89,00 por R$ 59,00, o BAWEMCASACOMCECILIA tirou R$ 14,80 dos R$ 148,00 e o total caiu para R$ 133,20: os 10% entraram também sobre a peça em promoção. O frete, calculado pelo CEP, ficou de fora do desconto.',
+    codeInstructions: [
+      'Copie o código BAWEMCASACOMCECILIA no card acima.',
+      'Acesse o site oficial da BAW Clothing pelo botão indicado, escolha o tamanho de cada peça e coloque no carrinho.',
+      'No carrinho, digite o código no campo Cupom de desconto e confirme pela seta.',
+      'Confira o aviso Cupom aplicado e a linha Cupom no resumo antes de ir para o pagamento.',
+    ],
+    aboutBrand:
+      'A BAW Clothing é uma marca brasileira de streetwear, com o lema "We make noise, not fashion": camisetas, moletons, calças e acessórios, vendidos no site oficial. O cupom BAWEMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF em todo o site e no aplicativo, com qualquer forma de pagamento e também sobre as peças em promoção.',
+    faqs: [
+      {
+        question: 'Quanto de desconto o cupom BAWEMCASACOMCECILIA dá?',
+        answer:
+          '10% OFF em todo o site e no aplicativo da BAW Clothing. No nosso teste, o cupom tirou R$ 14,80 de um carrinho de R$ 148,00, e o resumo mostrou o valor na linha Cupom.',
+      },
+      {
+        question: 'O cupom BAWEMCASACOMCECILIA soma com o desconto do Pix?',
+        answer:
+          'Sim. O cupom vale com todas as formas de pagamento e, no Pix, a BAW ainda dá 5% de desconto. A loja aceita Pix e cartão de crédito Visa, Mastercard, Elo, American Express e Hipercard.',
+      },
+      {
+        question: 'O cupom BAW vale na primeira compra?',
+        answer: 'Sim. O BAWEMCASACOMCECILIA vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'Qual cupom BAW vale para quem já é cliente?',
+        answer:
+          'O BAWEMCASACOMCECILIA. Ele dá 10% no site oficial para quem compra pela primeira vez e para quem já comprou.',
+      },
+      {
+        question: 'O BAWEMCASACOMCECILIA é cupom de influenciadora?',
+        answer:
+          'Sim. BAWEMCASACOMCECILIA é o cupom do Em Casa com Cecília na BAW Clothing e dá 10% OFF no site oficial para clientes novos e antigos. Veja o print do carrinho em “Como usar o cupom BAWEMCASACOMCECILIA”.',
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No nosso teste, uma das camisetas estava em promoção de Black Friday, de R$ 89,00 por R$ 59,00, e o cupom tirou os 10% dela também.',
+      },
+      {
+        question: 'O cupom BAWEMCASACOMCECILIA está funcionando hoje?',
+        answer:
+          'Sim. No teste de carrinho mais recente, o BAWEMCASACOMCECILIA foi aceito. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
+      },
+      {
+        question: 'Onde coloco o cupom na BAW Clothing?',
+        answer:
+          'No carrinho do site oficial: digite BAWEMCASACOMCECILIA no campo Cupom de desconto, ao lado do resumo, e confirme pela seta. Aparece o aviso Cupom aplicado, e o resumo passa a mostrar a linha Cupom.',
+      },
+      {
+        question: 'O cupom BAWEMCASACOMCECILIA vale no app da BAW?',
+        answer:
+          'Sim. O código vale no site oficial e também no aplicativo da BAW Clothing: digite BAWEMCASACOMCECILIA no campo de cupom antes de pagar.',
+      },
+      {
+        question: 'Tem cupom BAW Clothing na Black Friday?',
+        answer:
+          'Tem. O cupom BAW Clothing BAWEMCASACOMCECILIA dá 10% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+      },
+      {
+        question: 'O cupom BAW Clothing vale na Black Friday?',
+        answer:
+          'Vale. No nosso teste, em novembro, os 10% entraram numa camiseta que já estava em promoção de Black Friday. Confira a linha Cupom no resumo antes de pagar.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'Não. O frete e o prazo saem no carrinho pelo CEP, à parte do cupom. No nosso teste, para um CEP da cidade de São Paulo, o frete foi de R$ 10,62, com entrega em até 4 dias úteis.',
+      },
+      {
+        question: 'Como funciona a troca na BAW Clothing?',
+        answer:
+          'Pela política da loja, a troca ou a devolução é pedida em até 7 dias corridos depois do recebimento, ou em até 90 dias em caso de defeito, com a peça sem uso, com etiqueta e na embalagem original. A troca vira crédito na loja, não outra peça direto, e a primeira troca ou devolução tem o frete grátis; nas seguintes, o frete é do cliente.',
+      },
+      {
+        question: 'O que fazer se o cupom BAWEMCASACOMCECILIA não funcionar?',
+        answer:
+          'Confira se o código foi digitado no campo Cupom de desconto, sem espaços, no site oficial da BAW Clothing, e se o aviso Cupom aplicado apareceu. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no carrinho quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'em todo o site e no app',
+      note: 'Soma com os preços em promoção do site e com os 5% do Pix',
     },
     status: 'ativo',
     featured: false,
