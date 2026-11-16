@@ -85,6 +85,7 @@ const PARTNERS: AboutPartner[] = [
   { name: 'Prohall', src: '/images/about/partners/prohall.png', href: 'https://lojaprohall.com.br' },
   { name: 'La Ganexa', src: '/images/about/partners/laganexa.png', href: 'https://lojalaganexa.com.br' },
   { name: 'BAW Clothing', src: '/images/about/partners/baw.png', href: 'https://www.bawclothing.com.br' },
+  { name: "L'Amazonie", src: '/images/about/partners/lamazonie.png', href: 'https://www.lamazonie.com.br' },
 ];
 
 const PORTUGUESE_LONG_DATE = new Intl.DateTimeFormat('pt-BR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });

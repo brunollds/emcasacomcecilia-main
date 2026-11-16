@@ -141,16 +141,18 @@ export function OtherCouponCard({ coupon, index }: { coupon: Coupon; index: numb
   );
 }
 
-// Desconto em palavras, código longo, faixas ou oferta por link não cabem em meia linha no celular.
-function needsWideCard(coupon: Coupon) {
+// Desconto em palavras, código longo, faixas ou oferta por link não cabem em meia linha no celular. No hub em PT,
+// o `hubCard` da loja decide antes (o código longo quebra em duas linhas no cartão estreito).
+function needsWideCard(coupon: Coupon, useHubCard: boolean) {
+  if (useHubCard && coupon.hubCard) return coupon.hubCard === 'destaque';
   if (coupon.offerMode === 'affiliate-link' || coupon.tiers?.length) return true;
   return parseDiscount(coupon.discount, true).kind === 'words' || coupon.code.length > 10;
 }
 
 // Cada card ocupa uma ou duas colunas da prateleira. Um card estreito sem par logo ao lado
-// ocupa a linha inteira, para não deixar buraco na grade do celular.
-export function layoutShelf(coupons: Coupon[]) {
-  const wide = coupons.map(needsWideCard);
+// ocupa a linha inteira, para não deixar buraco na grade do celular, salvo o 'reduzido', que fica estreito.
+export function layoutShelf(coupons: Coupon[], { useHubCard = false }: { useHubCard?: boolean } = {}) {
+  const wide = coupons.map((coupon) => needsWideCard(coupon, useHubCard));
   let waitingForPartner = false;
 
   return coupons.map((coupon, index) => {
@@ -160,7 +162,7 @@ export function layoutShelf(coupons: Coupon[]) {
       return { coupon, wide: false };
     }
     waitingForPartner = index + 1 < coupons.length && !wide[index + 1];
-    return { coupon, wide: !waitingForPartner };
+    return { coupon, wide: !waitingForPartner && !(useHubCard && coupon.hubCard === 'reduzido') };
   });
 }
 
@@ -217,7 +219,7 @@ const HUB_CARDS = {
   narrow: {
     article: 'rounded-xl border-2',
     price: 'bg-amarelo-cupom px-3 pt-2.5 pb-2',
-    figure: 'card',
+    figure: 'cardNarrow',
     body: 'px-3 pt-2',
     brand: 'text-[15px] leading-5',
     chevron: 'h-[18px] w-[18px]',
@@ -227,7 +229,7 @@ const HUB_CARDS = {
     cutout: 'mx-2.5 mt-3.5 mb-2.5 rounded-lg',
     codeLayout: 'flex flex-col gap-2 px-2 pt-3 pb-2',
     code: 'text-center text-base leading-[22px] tracking-[0.02em]',
-    action: 'min-h-11 w-full px-3.5 text-sm',
+    action: 'min-h-11 w-full px-2 text-sm leading-[18px]',
   },
 } as const;
 

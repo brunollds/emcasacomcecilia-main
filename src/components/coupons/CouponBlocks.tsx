@@ -90,6 +90,16 @@ const FIGURE_SIZES = {
     off: 'text-[20px] leading-none',
     words: 'text-[40px] leading-[38px] tracking-[-0.01em]',
   },
+  // Cartão estreito das prateleiras (o 'reduzido'): no celular, "Promoções" a 40px passava dos ~165px do cartão.
+  cardNarrow: {
+    prefix: 'text-[13px] leading-4',
+    currency: 'pt-1.5 text-[26px] leading-none',
+    value: 'text-[68px] leading-[0.85] tracking-[-0.02em]',
+    unitColumn: 'pt-1',
+    unit: 'text-[30px] leading-[0.9]',
+    off: 'text-[20px] leading-none',
+    words: 'text-[28px] leading-[30px] tracking-[-0.01em] md:text-[40px] md:leading-[38px]',
+  },
   tag: {
     prefix: 'text-[11px] leading-[14px]',
     currency: 'pt-1 text-[20px] leading-none',

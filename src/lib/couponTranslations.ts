@@ -2746,6 +2746,7 @@ export const CODE_FIELD_POLICY = {
   offerActionLabel: 'drop',
   category: 'translate',
   hubCategory: 'pt',
+  hubCard: 'pt',
   shortDescription: 'translate',
   longDescription: 'translate',
   metaTitle: 'translate',

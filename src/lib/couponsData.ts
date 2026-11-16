@@ -67,6 +67,10 @@ interface CouponBase {
   category: string;
   // Prateleira do hub /cupons; ordem e rótulo vêm de COUPON_HUB_CATEGORIES.
   hubCategory: CouponHubCategory;
+  // Tamanho do cartão na prateleira do hub em PT (Bruno, 16/11/2026): 'destaque' é o cartão largo, no começo da
+  // prateleira; 'reduzido', o estreito, no fim. Sem o campo, a largura sai do conteúdo (layoutShelf) e a loja fica
+  // na ordem deste arquivo.
+  hubCard?: 'destaque' | 'reduzido';
   shortDescription: string;
   longDescription: string;
   metaTitle: string;
@@ -1409,6 +1413,7 @@ const STORE_COUPONS: Coupon[] = [
     offerActionLabel: 'Ver ofertas na SHEIN',
     category: 'Moda, acessórios, beleza e casa',
     hubCategory: 'moda',
+    hubCard: 'reduzido',
     shortDescription: 'link principal, código de indicação e campanhas vigentes',
     longDescription:
       'O 4CW5Y é o código de indicação da Cecília: abre uma seleção da SHEIN com promoções e descontos. O botão abaixo já leva até ela; se preferir, copie o código e pesquise no app ou no site. Outras campanhas estão disponíveis abaixo.',
@@ -1500,7 +1505,8 @@ const STORE_COUPONS: Coupon[] = [
     offerTypeLabelPlural: 'ofertas',
     offerActionLabel: 'Ver ofertas na Temu',
     category: 'Moda, casa, eletrônicos e utilidades',
-    hubCategory: 'moda',
+    hubCategory: 'diversos',
+    hubCard: 'reduzido',
     // Fora da vitrine da home em português (Bruno, 16/11/2026); segue em /cupons, em /reviews e nos outros idiomas.
     hideFromPortugueseHome: true,
     shortDescription: 'link da Cecília para as promoções da loja',
@@ -1583,7 +1589,8 @@ const STORE_COUPONS: Coupon[] = [
     offerTypeLabelPlural: 'ofertas',
     offerActionLabel: 'Ver ofertas no AliExpress',
     category: 'Eletrônicos, moda, casa e acessórios',
-    hubCategory: 'moda',
+    hubCategory: 'diversos',
+    hubCard: 'reduzido',
     // Fora da vitrine da home em português (Bruno, 16/11/2026); segue em /cupons, em /reviews e nos outros idiomas.
     hideFromPortugueseHome: true,
     shortDescription: 'link da Cecília para as promoções da loja',
@@ -1731,6 +1738,7 @@ const STORE_COUPONS: Coupon[] = [
     discountNumber: 10,
     category: 'Suplementos e nutrição esportiva',
     hubCategory: 'saude',
+    hubCard: 'reduzido',
     shortDescription: 'suplementos no site oficial da Probiótica',
     longDescription:
       'O cupom Probiótica PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções e vale em todas as formas de pagamento. Testado num whey em promoção e numa creatina a preço cheio: o desconto varia por item.',
@@ -1864,6 +1872,7 @@ const STORE_COUPONS: Coupon[] = [
     discountNumber: 10,
     category: 'Suplementos e nutrição esportiva',
     hubCategory: 'saude',
+    hubCard: 'reduzido',
     shortDescription: 'suplementos no site oficial da Max Titanium',
     longDescription:
       'O cupom Max Titanium MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, testado num carrinho com Top Whey em promoção: soma com as promoções, mantém os brindes do carrinho e vale em todas as formas de pagamento.',
@@ -1994,6 +2003,7 @@ const STORE_COUPONS: Coupon[] = [
     discountNumber: 10,
     category: 'Pastas de amendoim e snacks',
     hubCategory: 'saude',
+    hubCard: 'reduzido',
     shortDescription: 'todo o site Dr. Peanut, com todas as formas de pagamento',
     longDescription:
       'O cupom Dr. Peanut DREMCASACOMCECILIA dá 10% OFF em todo o site, para quem compra pela primeira vez e para quem já é cliente, testado com uma pasta de amendoim em promoção: soma com as promoções e vale em todas as formas de pagamento.',
@@ -2114,6 +2124,7 @@ const STORE_COUPONS: Coupon[] = [
     discountNumber: 10,
     category: 'Suplementos e nutrição esportiva',
     hubCategory: 'saude',
+    hubCard: 'reduzido',
     shortDescription: 'todo o site Black Skull, com todas as formas de pagamento',
     longDescription:
       'O cupom Black Skull CECILIA10 dá 10% OFF em todo o site, para quem compra pela primeira vez e para quem já é cliente, testado com um kit de whey em promoção: soma com as promoções e vale em todas as formas de pagamento.',
@@ -2234,6 +2245,7 @@ const STORE_COUPONS: Coupon[] = [
     // Fora da vitrine da home em português (Bruno, 16/11/2026); segue em /cupons e em /reviews.
     hideFromPortugueseHome: true,
     hubCategory: 'casa',
+    hubCard: 'reduzido',
     shortDescription: 'site do casamento e lista de presentes, com plano gratuito',
     longDescription:
       'Indicação da Cecília para casais que vão montar o site do casamento e a lista de presentes na Lejour. O cadastro é pelo link, e o plano Basic é gratuito.',
@@ -2562,6 +2574,7 @@ const STORE_COUPONS: Coupon[] = [
     discountNumber: 10,
     category: 'Whey, creatina, pré-treino e snacks proteicos',
     hubCategory: 'saude',
+    hubCard: 'reduzido',
     shortDescription: 'todo o site Mais Mu, com todas as formas de pagamento',
     longDescription:
       'O cupom Mais Mu MMEMCASACOMCECILIA dá 10% OFF em todo o site, para quem compra pela primeira vez e para quem já é cliente, soma com as ofertas e com os 3% do Pix, e vale em todas as formas de pagamento. Testado num carrinho com wheys e creatina em promoção.',
@@ -2857,6 +2870,7 @@ const STORE_COUPONS: Coupon[] = [
     discountNumber: 10,
     category: 'Malas, mochilas e acessórios de viagem',
     hubCategory: 'moda',
+    hubCard: 'destaque',
     shortDescription: 'todo o site Bagaggio, com todas as formas de pagamento',
     longDescription:
       'O cupom Bagaggio CECILIA10 dá 10% OFF em malas, mochilas e acessórios no site oficial, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções, o Outlet e os 5% do Pix, e vale em todas as formas de pagamento. Testado numa mala de bordo do Outlet.',
@@ -3008,6 +3022,7 @@ const STORE_COUPONS: Coupon[] = [
     discountNumber: 15,
     category: 'Moda íntima e lingerie',
     hubCategory: 'moda',
+    hubCard: 'destaque',
     shortDescription: 'todo o site Toda Up, inclusive nos produtos em promoção',
     longDescription:
       'O cupom Toda Up MAUAD dá 15% OFF em sutiãs, tops, calcinhas e adesivos no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções do site, inclusive nos produtos que já estão com desconto. Testado num sutiã em promoção.',
@@ -3376,6 +3391,7 @@ const STORE_COUPONS: Coupon[] = [
     discountNumber: 10,
     category: 'Pet shop: ração, petiscos, higiene e acessórios',
     hubCategory: 'diversos',
+    hubCard: 'destaque',
     shortDescription: 'compras no site e no app da Petz',
     longDescription:
       'O cupom Petz EMCASA dá 10% OFF nas compras no site e no app, para quem compra pela primeira vez e para quem já é cliente, e soma com os 5% do Retire na Loja: 14,5% no total, em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste. Num produto que já está em oferta, o cupom não soma: a sacola fica com o desconto maior. Testado no carrinho.',
@@ -3880,6 +3896,137 @@ const STORE_COUPONS: Coupon[] = [
   },
   {
     offerMode: 'discount-code',
+    slug: 'lamazonie',
+    cartPrint: { src: '/images/reviews/lamazonie/cupom-lamazonie-checkout-com-cupom.webp', alt: "Resumo do checkout da L'Amazonie com o cupom CECILIA no campo Tem um cupom?, o aviso Desconto de menos R$ 20,40, a linha Descontos e o total de R$ 387,60", aspectRatio: 1.06 },
+    brand: "L'Amazonie",
+    officialUrl: 'https://www.lamazonie.com.br/',
+    offerUrl: 'https://www.lamazonie.com.br/',
+    brandIcon: 'LA',
+    brandLogo: '/images/about/partners/lamazonie.png',
+    brandLogoAlt: "Marca L'Amazonie",
+    bubble: { src: '/images/logos/bolinhas/lamazonie.png', background: '#0E423A' },
+    brandWatermark: '/images/logos/watermarks/lamazonie.webp',
+    brandColor: '#0E423A',
+    code: 'CECILIA',
+    codeFieldLabel: 'Tem um cupom?',
+    discount: '5% OFF',
+    discountNumber: 5,
+    category: 'Skincare: sérum para cílios e sobrancelhas, vitamina C, protetor solar e clareadores',
+    hubCategory: 'beleza',
+    shortDescription: "todo o site da L'Amazonie, com todas as formas de pagamento",
+    longDescription:
+      "O cupom L'Amazonie CECILIA dá 5% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções e com os 3% do Pix: no nosso teste, os 5% entraram também num kit de protetores em promoção. Vale em todas as formas de pagamento.",
+    metaTitle: "Cupom L'Amazonie: 5% OFF com CECILIA",
+    metaTitleMonth: true,
+    metaDescription:
+      "Cupom L'Amazonie: CECILIA dá 5% OFF para cliente novo ou antigo e soma com as promoções e os 3% do Pix. Testado no checkout.",
+    eligibleCategories: "Produtos do site oficial da L'Amazonie, inclusive os kits em promoção",
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Pode ser usado por clientes novos e antigos',
+    shipping: 'Frete grátis acima de R$ 199 para quase todo o Brasil e acima de R$ 500 no Acre, no Piauí, em Rondônia e em Roraima, segundo a loja; abaixo disso, frete e prazo saem no checkout pelo CEP',
+    combinable:
+      'Soma com as promoções vigentes do site e com os 3% de desconto do Pix, e vale com todas as formas de pagamento',
+    stacking: [
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, os 5% entraram num kit de protetores em promoção' },
+      { benefit: 'pix', stacks: 'sim', condition: 'No Pix, a loja dá 3% de desconto, que soma com o código' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 199 para quase todo o Brasil; no Acre, no Piauí, em Rondônia e em Roraima, acima de R$ 500' },
+    ],
+    paymentPerks: [
+      'Até 6x sem juros no cartão de crédito',
+      'Cashback de 15% para a próxima compra no site, com validade, que paga até 30% do pedido seguinte',
+      'Garantia Mais Fios no sérum de sobrancelhas: sem fios novos em 60 dias de uso, a loja devolve o dinheiro',
+    ],
+    lastVerified: '2026-11-16',
+    testedAt: '2026-11-16',
+    testNote:
+      "Num carrinho com o Sérum para crescimento de Cílios e Sobrancelhas pelo preço cheio de R$ 159,00 e o Kit 2 Protetores Solares de Tratamento FPS 99 em promoção, de R$ 278,00 por R$ 249,00, o CECILIA tirou R$ 20,40 dos R$ 408,00 e o total caiu para R$ 387,60: os 5% entraram também sobre o kit em promoção. Em outro carrinho do mesmo dia, de R$ 966,00, com o Kit Completo Sérum de Vitamina C20 + Protetor Solar + Gel de Limpeza e o Sérum Clareador Vitamina C20 de 3 unidades, o desconto foi de R$ 48,30, e o total ficou em R$ 917,70, com frete grátis.",
+    codeInstructions: [
+      'Copie o código CECILIA no card acima.',
+      "Acesse o site oficial da L'Amazonie pelo botão indicado, coloque os produtos no carrinho e clique em Finalizar compra.",
+      'No checkout da própria loja, em seguro.lamazonie.com.br, digite o código no campo Tem um cupom?, no resumo, e clique em Adicionar.',
+      'Confira o aviso Desconto em verde e a linha Descontos no resumo antes de pagar.',
+    ],
+    aboutBrand:
+      "A L'Amazonie Skincare é uma marca brasileira de dermocosméticos veganos e cruelty free, com ativos da Amazônia: sérum para crescimento de cílios e sobrancelhas, sérum de vitamina C, protetor solar e cremes clareadores, vendidos no site oficial. O cupom CECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 5% OFF, com qualquer forma de pagamento e também sobre os kits em promoção.",
+    faqs: [
+      {
+        question: "Quanto de desconto o cupom CECILIA dá na L'Amazonie?",
+        answer:
+          '5% OFF nos produtos do site oficial. No nosso teste, o cupom tirou R$ 20,40 de um carrinho de R$ 408,00, e o resumo do checkout mostrou o valor na linha Descontos.',
+      },
+      {
+        question: "O cupom CECILIA soma com o desconto do Pix na L'Amazonie?",
+        answer:
+          "Sim. O cupom vale com todas as formas de pagamento e, no Pix, a L'Amazonie ainda dá 3% de desconto. No cartão de crédito, a loja parcela em até 6x sem juros e aceita Visa, Mastercard, Elo, American Express, Diners, Discover e Hipercard.",
+      },
+      {
+        question: "O cupom L'Amazonie vale na primeira compra?",
+        answer: 'Sim. O CECILIA vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: "Qual cupom L'Amazonie vale para quem já é cliente?",
+        answer: 'O CECILIA. Ele dá 5% no site oficial para quem compra pela primeira vez e para quem já comprou.',
+      },
+      {
+        question: "O CECILIA é cupom de influenciadora da L'Amazonie?",
+        answer:
+          "Sim. CECILIA é o cupom do Em Casa com Cecília na L'Amazonie e dá 5% OFF no site oficial para clientes novos e antigos. Veja o print do checkout em “Como usar o cupom CECILIA”.",
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No nosso teste, o Kit 2 Protetores Solares de Tratamento FPS 99 estava em promoção, de R$ 278,00 por R$ 249,00, e o cupom tirou os 5% dele também.',
+      },
+      {
+        question: 'O cupom CECILIA está funcionando hoje?',
+        answer:
+          'Sim. No teste de carrinho mais recente, o CECILIA foi aceito. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
+      },
+      {
+        question: "Onde coloco o cupom na L'Amazonie?",
+        answer:
+          'No checkout do site oficial, que abre pelo botão Finalizar compra do carrinho: digite CECILIA no campo Tem um cupom?, no resumo, e clique em Adicionar. Aparece o aviso Desconto em verde, e o resumo passa a mostrar a linha Descontos.',
+      },
+      {
+        question: "Tem cupom L'Amazonie na Black Friday?",
+        answer:
+          "Tem. O cupom L'Amazonie CECILIA dá 5% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano.",
+      },
+      {
+        question: "O cupom L'Amazonie vale na Black Friday?",
+        answer:
+          'Vale. No nosso teste, em novembro, os 5% entraram num kit que já estava em promoção. Confira a linha Descontos no resumo antes de pagar.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'O cupom não mexe no frete, mas a loja dá frete grátis acima de R$ 199 para quase todo o Brasil, e acima de R$ 500 no Acre, no Piauí, em Rondônia e em Roraima. Abaixo disso, o frete e o prazo aparecem no checkout depois do CEP. A loja envia pelos Correios, com PAC e SEDEX, e pela Total Express.',
+      },
+      {
+        question: "Como funciona a troca na L'Amazonie?",
+        answer:
+          'Pela política da loja, a devolução é pedida pelo e-mail sac@lamazonie.com.br em até 7 dias depois do recebimento, com a caixa lacrada e o produto sem uso. A loja agenda a coleta no endereço da entrega, e o frete da devolução fica por conta do cliente.',
+      },
+      {
+        question: 'O que fazer se o cupom CECILIA não funcionar?',
+        answer:
+          "Confira se a barra de endereço mostra seguro.lamazonie.com.br, o checkout da própria loja, que abre pelo botão Finalizar compra do carrinho: o código só vale lá. Depois, veja se ele foi digitado no campo Tem um cupom?, sem espaços, e se o aviso Desconto apareceu em verde. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.",
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'no site oficial',
+      note: 'Soma com os preços em promoção do site e com os 3% do Pix',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
     slug: 'hostinger',
     cartPrint: { article: 'cupom-hostinger-indicacao', src: '/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom.webp', alt: 'Resumo do pedido no carrinho da Hostinger com a linha Cupom aplicado e a etiqueta SONAR20', aspectRatio: 1.096 },
     brand: 'Hostinger',
@@ -3898,6 +4045,7 @@ const STORE_COUPONS: Coupon[] = [
     discountNumber: 20,
     category: 'Hospedagem de sites e domínios',
     hubCategory: 'diversos',
+    hubCard: 'destaque',
     shortDescription: 'todos os planos da Hostinger, mensais ou anuais, para clientes novos e antigos',
     longDescription:
       'O cupom Hostinger SONAR20 dá 20% OFF em todos os planos, mensais ou anuais, para quem está chegando e para quem já é cliente. Cole o código no campo de cupom do carrinho. Testado no plano Startup, sobre o preço de Black Friday. O Em Casa com Cecília roda na Hostinger desde 2024.',
@@ -4021,6 +4169,8 @@ export function getAllActiveCouponSlugs(): string[] {
   return getActiveCoupons().map((coupon) => coupon.slug);
 }
 
+const HUB_CARD_ORDER = { destaque: 0, auto: 1, reduzido: 2 } as const;
+
 export function getCouponHubSections() {
   const activeCoupons = getActiveCoupons();
 
@@ -4028,7 +4178,9 @@ export function getCouponHubSections() {
     featured: activeCoupons.filter((coupon) => coupon.featured),
     categories: COUPON_HUB_CATEGORIES.map((category) => ({
       ...category,
-      coupons: activeCoupons.filter((coupon) => coupon.hubCategory === category.id),
+      coupons: activeCoupons
+        .filter((coupon) => coupon.hubCategory === category.id)
+        .sort((a, b) => HUB_CARD_ORDER[a.hubCard ?? 'auto'] - HUB_CARD_ORDER[b.hubCard ?? 'auto']),
     })).filter((category) => category.coupons.length > 0),
   };
 }

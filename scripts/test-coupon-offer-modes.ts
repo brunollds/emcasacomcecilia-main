@@ -78,7 +78,7 @@ assert.equal(
 assert.ok(getAllActiveCouponSlugs().includes('insider'), 'Insider ativa deve gerar página de cupom');
 
 // Parceiros de 13/10/2026, a Max Titanium e a Cléa Store desde 14/10, a Belive desde 16/10, a Mais Mu desde 20/10, a Skelt desde 21/10, a Bagaggio
-// desde 22/10, a Toda Up desde 26/10, a Simple Organic desde 03/11, a HolyFoods desde 05/11, a Petz desde 11/11, a Prohall desde 12/11, a La Ganexa desde 13/11 e a BAW Clothing desde 16/11. Só a Probiótica, a Skelt, a Bagaggio, a Toda Up,
+// desde 22/10, a Toda Up desde 26/10, a Simple Organic desde 03/11, a HolyFoods desde 05/11, a Petz desde 11/11, a Prohall desde 12/11, a La Ganexa desde 13/11 e a BAW Clothing e a L'Amazonie desde 16/11. Só a Probiótica, a Skelt, a Bagaggio, a Toda Up,
 // a Simple Organic, a HolyFoods, a Petz e a Lejour mandaram link próprio, e ele vai como veio; as outras vão ao site oficial. O link da Toda Up também abre o site com o MAUAD aplicado, e o da Simple Organic, com o S-EMCASACOMCECILIA.
 const newPartners = [
   { slug: 'probiotica', code: 'PRO10EMCASACOMCECILIA', discountNumber: 10, hubCategory: 'saude', offerUrl: 'https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi' },
@@ -98,6 +98,7 @@ const newPartners = [
   { slug: 'prohall', code: 'CECILIAMC', discountNumber: 10, hubCategory: 'beleza', offerUrl: 'https://lojaprohall.com.br/' },
   { slug: 'la-ganexa', code: 'CECILIA', discountNumber: 10, hubCategory: 'alimentacao', offerUrl: 'https://lojalaganexa.com.br/' },
   { slug: 'baw', code: 'BAWEMCASACOMCECILIA', discountNumber: 10, hubCategory: 'moda', offerUrl: 'https://www.bawclothing.com.br/' },
+  { slug: 'lamazonie', code: 'CECILIA', discountNumber: 5, hubCategory: 'beleza', offerUrl: 'https://www.lamazonie.com.br/' },
 ] as const;
 for (const partner of newPartners) {
   const store = getCouponBySlug(partner.slug);
@@ -254,6 +255,20 @@ const shelfOf = (slug: string) =>
   hub.categories.find((category) => category.coupons.some((coupon) => coupon.slug === slug))?.id;
 assert.equal(shelfOf('damie'), 'casa', 'Destaque continua também na prateleira dele');
 assert.equal(shelfOf('shein'), 'moda', 'Oferta por link entra numa prateleira como os códigos');
+// Prateleiras do hub (Bruno, 16/11/2026): Temu e AliExpress em Diversos; Bagaggio e Toda Up em destaque e a SHEIN reduzida
+// no fim da Moda; Petz e Hostinger em destaque em Diversos; Saúde e suplementos e a Lejour com o cartão reduzido.
+const shelfSlugs = (id: string) => hub.categories.find((category) => category.id === id)?.coupons.map((coupon) => coupon.slug) ?? [];
+assert.equal(shelfOf('temu'), 'diversos', 'Temu na prateleira Diversos');
+assert.equal(shelfOf('aliexpress'), 'diversos', 'AliExpress na prateleira Diversos');
+assert.deepEqual(shelfSlugs('moda').slice(0, 2), ['bagaggio', 'toda-up'], 'Moda: Bagaggio e Toda Up abrem a prateleira');
+assert.equal(shelfSlugs('moda').at(-1), 'shein', 'Moda: a SHEIN fecha a prateleira');
+assert.deepEqual(shelfSlugs('diversos').slice(0, 2), ['petz', 'hostinger'], 'Diversos: Petz e Hostinger abrem a prateleira');
+for (const [slug, card] of Object.entries({ bagaggio: 'destaque', 'toda-up': 'destaque', petz: 'destaque', hostinger: 'destaque', shein: 'reduzido', lejour: 'reduzido', temu: 'reduzido', aliexpress: 'reduzido' })) {
+  assert.equal(getCouponBySlug(slug)?.hubCard, card, `${slug}: cartão ${card} no hub`);
+}
+for (const coupon of hub.categories.find((category) => category.id === 'saude')?.coupons ?? []) {
+  assert.equal(coupon.hubCard, 'reduzido', `${coupon.slug}: Saúde e suplementos com o cartão reduzido`);
+}
 assert.ok(
   hub.categories.every((category) => category.coupons.length > 0),
   'Prateleira sem cupom ativo não aparece'
@@ -377,8 +392,8 @@ assert.deepEqual(getPendingLimitedCodes(linkWithWindows, Date.parse('2026-01-06T
 
 // A abertura da página de loja responde "tem cupom <loja>?": começa por "O cupom <loja>" e, nas lojas em que o código vale
 // para cliente novo e antigo, diz isso cedo (Bruno, 12/11/2026, a partir do teste da Insider no Perplexity).
-const storeNameFirst = ['damie', 'dolce-gusto', 'nestle-nutre', 'i-wanna-sleep', 'letseatit', 'insider', 'probiotica', 'max-titanium', 'dr-peanut', 'black-skull', 'clea-store', 'belive', 'mais-mu', 'skelt', 'bagaggio', 'toda-up', 'simple-organic', 'holyfoods', 'petz', 'prohall', 'la-ganexa', 'baw', 'hostinger'];
-const newAndReturning = ['damie', 'dolce-gusto', 'nestle-nutre', 'i-wanna-sleep', 'skelt', 'toda-up', 'simple-organic', 'letseatit', 'insider', 'probiotica', 'max-titanium', 'dr-peanut', 'black-skull', 'clea-store', 'belive', 'mais-mu', 'bagaggio', 'holyfoods', 'petz', 'prohall', 'la-ganexa', 'baw', 'hostinger'];
+const storeNameFirst = ['damie', 'dolce-gusto', 'nestle-nutre', 'i-wanna-sleep', 'letseatit', 'insider', 'probiotica', 'max-titanium', 'dr-peanut', 'black-skull', 'clea-store', 'belive', 'mais-mu', 'skelt', 'bagaggio', 'toda-up', 'simple-organic', 'holyfoods', 'petz', 'prohall', 'la-ganexa', 'baw', 'lamazonie', 'hostinger'];
+const newAndReturning = ['damie', 'dolce-gusto', 'nestle-nutre', 'i-wanna-sleep', 'skelt', 'toda-up', 'simple-organic', 'letseatit', 'insider', 'probiotica', 'max-titanium', 'dr-peanut', 'black-skull', 'clea-store', 'belive', 'mais-mu', 'bagaggio', 'holyfoods', 'petz', 'prohall', 'la-ganexa', 'baw', 'lamazonie', 'hostinger'];
 for (const slug of storeNameFirst) {
   const coupon = getCouponBySlug(slug);
   assert.ok(coupon?.longDescription.startsWith(`O cupom ${coupon.brand} `), `${slug}: a abertura começa por "O cupom ${coupon?.brand}"`);
@@ -500,4 +515,4 @@ for (const coupon of COUPONS) {
   }
 }
 
-console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Toda Up, Simple Organic, HolyFoods, Petz, Prohall, La Ganexa, BAW Clothing, Hostinger e prateleiras do hub conferidos.");
+console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Toda Up, Simple Organic, HolyFoods, Petz, Prohall, La Ganexa, BAW Clothing, L'Amazonie, Hostinger e prateleiras do hub conferidos.");
