@@ -44,42 +44,7 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Yes, YesStyle does Black Friday, and it is already on: the home page has the Mega Sale, with per-product deals and banners up to 50% off, and a tiered coupon gives 8%, 10% or 15%. CECILIA010 stacks with it, in the Reward Code field. YesStyle has not yet announced the 15% no-minimum days for 2026."
-      ]
-    },
-    {
-      "heading": "When YesStyle's Black Friday starts",
-      "paragraphs": [
-        "YesStyle publishes the rules of each coupon in the site's help center, with the start and end day and time. The table below has the 2025 dates; in 2024, the phases followed the same order and started a day or two later. In 2026 the campaign has already started: on November 3, the store's home page shows the \"Black Friday Mega Sale\", with per-product deals and banners up to 50% off, and the tiered coupon on offer at the time (8% over US$ 79, 10% over US$ 149 and 15% over US$ 199), which the store swaps every few days, so check the current one before you buy. A coupon ending does not mean the campaign has ended. Free standard shipping over US$ 35 depends on the destination: the checkout shows yours. In mid-November, the store also released a 15% coupon on any order, with no minimum, for deliveries to the United States, the United Kingdom and Canada; for other destinations, the tiered coupon applies. The end date of the campaign and the 15% no-minimum days for all countries are not out yet."
-      ],
-      "comparisonTable": {
-        "caption": "Coupons open to all members in 2025, from YesStyle's help pages; each phase runs until the next one begins. Dates are in GMT, which is what counts for the store.",
-        "headers": [
-          "Phase",
-          "In 2025"
-        ],
-        "rows": [
-          [
-            "Tiered coupon named Black Friday",
-            "from Nov 3"
-          ],
-          [
-            "15% with no minimum (Black Friday)",
-            "from Nov 27"
-          ],
-          [
-            "15% with no minimum (Cyber Monday)",
-            "from Dec 1"
-          ],
-          [
-            "Cyber Monday tiered coupon",
-            "Dec 3 – Dec 8"
-          ]
-        ]
-      },
-      "postParagraphs": [
-        "In 2026, Black Friday falls on November 27 and Cyber Monday on November 30. If YesStyle repeats the pattern, the 15% days with no minimum should land around those two dates. This is an estimate based on past years: the store can change everything, and this guide is updated when the 2026 pages come out.",
-        "Coupons switch at a fixed time in GMT. In 2025, the tiered coupons switched at 2:00 GMT, and the 15% with no minimum started at 8:00 GMT."
+        "YesStyle's Black Friday has already started. CECILIA010 gives 5% on your first order and 2% on later ones, in the Reward Code field, alongside an eligible store coupon. The 15% coupon with no minimum has already appeared for the United States, the United Kingdom and Canada. Check the offer for your own destination."
       ]
     },
     {
@@ -117,24 +82,6 @@
       ]
     },
     {
-      "heading": "Is it worth waiting for the 15% days with no minimum?",
-      "paragraphs": [
-        "It depends on the size of your cart:"
-      ],
-      "image": {
-        "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
-        "alt": "Step chart of the discount by order value at YesStyle: 0% up to US$ 79, 8% from US$ 79, 10% from US$ 149 and 15% from US$ 199, with a dashed line at 15% from US$ 0",
-        "caption": "The green line is the tiered coupon: 8% from US$ 79, 10% from US$ 149 and 15% from US$ 199. The dashed line shows the 15% days with no minimum. Illustration by Em Casa com Cecília.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      },
-      "bullets": [
-        "**Cart of US$ 199 or more:** the tiered coupon already gives 15% on any day, the same percentage as the no-minimum days. What can change around Friday is the promotional price of each product, not the coupon.",
-        "**Cart between US$ 79 and US$ 199:** the tiered coupon gives 8% or 10%. If the no-minimum days return, the same cart would get 15%.",
-        "**Cart under US$ 79:** the tiered coupon gives nothing. If the 15% days with no minimum return, these are the carts that gain most from waiting."
-      ]
-    },
-    {
       "heading": "How to stack CECILIA010 with the Black Friday coupon",
       "paragraphs": [
         "YesStyle's checkout has two fields. The coupon of the day goes in Coupon Code. CECILIA010 goes in Reward Code. The rules of all the Black Friday coupons from 2024 and 2025 say they are valid together with promotional prices, with Reward Codes and with YS Points, the store's own points."
@@ -165,28 +112,21 @@
       ]
     },
     {
-      "heading": "The rules that trip people up most on Black Friday",
+      "heading": "Is it worth waiting for the 15% days with no minimum?",
+      "paragraphs": [
+        "First, check your delivery country. In the mid-November reading, the 15% coupon with no minimum was already available for the United States, the United Kingdom and Canada. For those destinations, there was no need to wait for Friday to get that percentage. For other destinations, the comparison below applies while the tiered coupon is in force."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
+        "alt": "Step chart of the discount by order value at YesStyle: 0% up to US$ 79, 8% from US$ 79, 10% from US$ 149 and 15% from US$ 199, with a dashed line at 15% from US$ 0",
+        "caption": "The green line is the tiered coupon: 8% from US$ 79, 10% from US$ 149 and 15% from US$ 199. The dashed line is a 15% coupon with no minimum, which depends on the delivery destination. Illustration by Em Casa com Cecília.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
-        "**Members only:** if you check out as a guest, you cannot use the coupon. Create your account before the day of the promotion.",
-        "**One coupon per order:** you cannot combine two YesStyle coupons in the same order. The Reward Code is left out of that count, because it goes in another field.",
-        "**Product prices only:** the coupon does not discount shipping or other fees.",
-        "**Some products are excluded:** the product page and the checkout tell you when the coupon does not apply to it.",
-        "**The time that counts is the store's:** what matters is the time YesStyle's system records the order, in GMT. An order placed after the coupon ends gets no discount.",
-        "**You can use it more than once:** during the promotion, the same coupon is valid on as many orders as you place."
-      ]
-    },
-    {
-      "heading": "Offers that are not for everyone",
-      "paragraphs": [
-        "In 2025, besides the coupon open to all members, YesStyle had two restricted offers. During Black Friday week, the Bronze, Silver and Gold levels of the Elite Club, the store's loyalty program, had one product a day for US$ 1, on orders from US$ 50. One per order, while stock lasted, with no exchange or return. And between Black Friday and Cyber Monday, an 18% coupon with no minimum went to selected members (\"We Miss You\"). The page does not explain how those members were chosen.",
-        "If one of those coupons shows up in your account, the rule is the same: it stacks with the Reward Code and with YS Points."
-      ]
-    },
-    {
-      "heading": "After Black Friday: Christmas",
-      "paragraphs": [
-        "In 2024, the biggest end-of-year coupon was not the Black Friday one: in Christmas week, YesStyle gave 18% with no minimum on everything. In 2025, the coupons open to all members stayed at 15% until the end of the year.",
-        "For Christmas gifts, compare the estimated delivery time at checkout with the date you need the order. Also check product availability."
+        "**From US$ 199:** in the dollar reference, the tiered coupon already reaches 15%. A no-minimum day would not raise that percentage; the price of each product can still change.",
+        "**From US$ 79 to under US$ 199:** the tiered coupon gives 8% or 10%. A 15% coupon with no minimum can improve the discount, if it is available for your destination.",
+        "**Under US$ 79:** the tiered coupon gives no discount. Check whether there is a no-minimum coupon for your destination before deciding to wait."
       ]
     },
     {
@@ -196,9 +136,9 @@
       ]
     },
     {
-      "heading": "What to buy: how we read the prices",
+      "heading": "Before you choose: dollar prices and delivery country",
       "paragraphs": [
-        "The next sections cover the products worth putting in your cart, brand by brand. All prices were read on November 16, 2026, on YesStyle's English-language store, with delivery to the United States, in US dollars. It is the promotional price of the day, almost always with the flash-deal badge, before the coupon of the week and CECILIA010. The price changes from one day to the next and from one country to another: the value that counts is the one in your bag.",
+        "The next sections cover the products, brand by brand. All prices were read on November 16, 2026, on YesStyle's English-language store, with delivery to the United States, in US dollars. It is the promotional price of the day, almost always with the flash-deal badge, before the coupon of the week and CECILIA010. The price changes from one day to the next and from one country to another: the value that counts is the one in your bag.",
         "On each product page, YesStyle states it is an authorized reseller of Abib, medicube, celimax, Centellian24, Dr. Althea, Beauty of Joseon and Dr. Ceuracle. On the Shiseido pages we opened, that sentence does not appear. The ingredients mentioned are those in the list published on each product page on that date; the package that arrives is the final reference."
       ],
       "links": [
@@ -247,30 +187,26 @@
       "comparisonTable": {
         "caption": "The three Abib products Cecília tested, with the dollar price on the US store, before the coupon of the week and CECILIA010.",
         "headers": [
-          "Product",
-          "Size",
+          "Product and size",
           "Price of the day",
           "Cost per amount",
           "What the page states"
         ],
         "rows": [
           [
-            "[Abib PDRN Retinal Eye Patch Glow Jelly](https://ystyle.co/cn2Z5)",
-            "60 patches",
+            "[Abib PDRN Retinal Eye Patch Glow Jelly](https://ystyle.co/cn2Z5), 60 patches",
             "US$ 18.40 (full: US$ 23.00)",
             "US$ 0.31 per patch",
             "Plant-based PDRN, retinal, collagen, niacinamide and caffeine"
           ],
           [
-            "[Abib PDRN Volume Fill-it Booster Crème 2.5 Tube](https://ystyle.co/q5SUZ)",
-            "30 ml",
+            "[Abib PDRN Volume Fill-it Booster Crème 2.5 Tube](https://ystyle.co/q5SUZ), 30 ml",
             "US$ 22.40 (full: US$ 28.00)",
             "US$ 7.47 per 10 ml",
             "15,000 ppm of PDRN, 10,000 ppm of Volufiline, retinal and peptides"
           ],
           [
-            "[Abib PDRN Collagen Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ)",
-            "11 g",
+            "[Abib PDRN Collagen Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ), 11 g",
             "US$ 16.00 (full: US$ 20.00)",
             "US$ 1.45 per gram",
             "Plant-derived PDRN, collagen and centella; contains fragrance"
@@ -279,9 +215,9 @@
       },
       "bullets": [
         "**For the eyes:** the [hydrogel patch](https://ystyle.co/cn2Z5) comes in a jar of 60 patches, which makes 30 uses for both eyes. In our reading, the page showed it as the best seller in the store's eye mask category.",
-        "**For the face:** the [Booster Crème 2.5](https://ystyle.co/q5SUZ) comes in a 30 ml tube. It is the most expensive per milliliter of the three; the page also sells a 10 ml mini, which works for trying it before the full tube.",
+        "**For the face:** the [Booster Crème 2.5](https://ystyle.co/q5SUZ) comes in a 30 ml tube. It is the one that takes the biggest spend of the three; the page also sells a 10 ml mini, which works for trying it before the full tube.",
         "**For the lips:** the [Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ) comes in an 11 g jar. It is the only one of the three without retinal in its ingredient list.",
-        "**Careful with retinal:** the patch and the cream contain retinal, a retinoid. Use it at night, wear sunscreen by day and do not combine it on the same night with the exfoliating pads in the next section. Pregnant and breastfeeding women should use a retinoid only with medical guidance.",
+        "**Careful with retinal:** the patch and the cream contain retinal, a retinoid. Follow each product's instructions for use and wear sunscreen by day. During pregnancy, avoid retinoids. While breastfeeding, check with a health professional before using them.",
         "**The two-pack:** all three come in a two-unit set with a bigger discount per unit. It only pays off if you already use the product."
       ],
       "links": [
@@ -333,7 +269,7 @@
     {
       "heading": "Pores and texture: medicube and celimax",
       "paragraphs": [
-        "Here the decision is between two exfoliating pad jars. Both are jars of pads soaked in an acid toner, and the difference is in the formula and the price per pad."
+        "Here the decision is between exfoliating pads. They are jars of pads soaked in an acid toner, and the difference is in the formula and the price per pad."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/black-friday-yesstyle-poros-medicube-celimax.webp",
@@ -345,44 +281,38 @@
       "comparisonTable": {
         "caption": "Pads and cleansers from medicube and celimax, with the dollar price on the US store, before the coupon of the week and CECILIA010.",
         "headers": [
-          "Product",
-          "Size",
+          "Product and size",
           "Price of the day",
           "Cost per amount",
           "What the page states"
         ],
         "rows": [
           [
-            "medicube Zero Pore Pad 2.0",
-            "70 pads",
+            "medicube Zero Pore Pad 2.0, 70 pads",
             "US$ 21.90 (full: US$ 31.00)",
             "US$ 0.31 per pad",
             "Lactic acid (AHA), salicylic acid (BHA), panthenol and centella; contains alcohol"
           ],
           [
-            "medicube Zero Pore Pad Mild",
-            "70 pads (155 g)",
+            "medicube Zero Pore Pad Mild, 70 pads (155 g)",
             "US$ 21.90 (full: US$ 31.00)",
             "US$ 0.31 per pad",
             "Gentler version of the Zero Pore Pad, with salicylic acid and PHA, according to the description"
           ],
           [
-            "celimax JI.WOO.GAE Heartleaf BHA Peeling Pad",
-            "60 pads",
+            "celimax JI.WOO.GAE Heartleaf BHA Peeling Pad, 60 pads",
             "US$ 15.75 (full: US$ 21.00)",
             "US$ 0.26 per pad",
             "Houttuynia (heartleaf) extract, betaine salicylate (BHA), madecassoside and hyaluronic acid"
           ],
           [
-            "medicube Red Foam Cleanser",
-            "120 ml",
+            "medicube Red Foam Cleanser, 120 ml",
             "US$ 17.90 (full: US$ 34.00)",
             "US$ 14.92 per 100 ml",
             "Foaming cleanser with 0.5% salicylic acid"
           ],
           [
-            "celimax Derma Nature Fresh Blackhead Jojoba Cleansing Oil",
-            "150 ml",
+            "celimax Derma Nature Fresh Blackhead Jojoba Cleansing Oil, 150 ml",
             "US$ 14.25 (full: US$ 19.00)",
             "US$ 9.50 per 100 ml",
             "Cleansing oil with six plant oils, jojoba among them"
@@ -390,10 +320,10 @@
         ]
       },
       "bullets": [
-        "**Want the stronger pad:** the Zero Pore Pad 2.0 combines AHA and BHA and was the best seller in the store's exfoliator category in our reading. The page itself advises against using it with other strong acids and suggests alternating days.",
-        "**Want to start slowly:** the celimax pad uses betaine salicylate, costs less per pad and the page describes it as gentle for daily use. The Zero Pore Pad Mild is the alternative within medicube.",
-        "**Cleansing:** the celimax oil costs less per 100 ml than the medicube foam. The Red Erasing Cream, a cream from the same Red line, was out of stock in the 50 ml size, with a wait of about three weeks.",
-        "**Do not stack with a retinoid:** an acid pad and a retinal product on the same night is the combination that irritates the most. Alternate nights."
+        "**A pad with AHA and BHA:** the Zero Pore Pad 2.0 combines these acids, according to the page, and was the best seller in the store's exfoliator category in our reading. Check the product's specific instructions for use.",
+        "**Other formulas:** the page describes the celimax pad as gentle and aimed at daily use. The Zero Pore Pad Mild is presented as the gentle version from medicube. These are the brands' descriptions, with no tolerance comparison made by us.",
+        "**Cleansing:** there is a celimax oil and a medicube foam. The cost per 100 ml is in the table, but they are different formats: choose by the use you are after. The Red Erasing Cream was out of stock in the 50 ml size, with a stated wait of about three weeks.",
+        "**Acids and retinoids:** check the products' instructions and your dermatologist's guidance before putting a combination together. We did not test this routine together."
       ],
       "links": [
         {
@@ -411,7 +341,7 @@
     {
       "heading": "Barrier and hydration: Centellian24 and Dr. Althea",
       "paragraphs": [
-        "For dry or sensitized skin, the candidates are the centella creams from Centellian24, a brand of the Korean pharmaceutical company Dongkook, and the two best-selling creams from Dr. Althea."
+        "The creams in this group have different formulas. The Madeca Cream Time Reverse contains retinol; do not pick it as a plain centella cream for sensitized skin. Compare the composition and instructions of each one before buying."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
@@ -423,37 +353,32 @@
       "comparisonTable": {
         "caption": "Creams and essence from Centellian24 and Dr. Althea, with the dollar price on the US store, before the coupon of the week and CECILIA010.",
         "headers": [
-          "Product",
-          "Size",
+          "Product and size",
           "Price of the day",
           "Cost per amount",
           "What the page states"
         ],
         "rows": [
           [
-            "Centellian24 Madeca Cream Time Reverse",
-            "50 ml",
+            "Centellian24 Madeca Cream Time Reverse, 50 ml",
             "US$ 24.00 (full: US$ 32.00)",
             "US$ 4.80 per 10 ml",
             "TECA (titrated centella extract), niacinamide, collagen and retinol"
           ],
           [
-            "Centellian24 Madeca Toning Essence Treatment",
-            "150 ml",
+            "Centellian24 Madeca Toning Essence Treatment, 150 ml",
             "US$ 22.50 (full: US$ 30.00)",
             "US$ 15.00 per 100 ml",
             "Centella extract, 10 ppm of TECA and niacinamide"
           ],
           [
-            "Dr. Althea 345 Relief Cream",
-            "50 ml",
+            "Dr. Althea 345 Relief Cream, 50 ml",
             "US$ 22.95 (full: US$ 27.00)",
             "US$ 4.59 per 10 ml",
             "Tea tree leaf water, niacinamide, hyaluronic acid and ceramide NP"
           ],
           [
-            "Dr. Althea 147 Barrier Cream",
-            "50 ml",
+            "Dr. Althea 147 Barrier Cream, 50 ml",
             "US$ 22.95 (full: US$ 27.00)",
             "US$ 4.59 per 10 ml",
             "Squalane, hyaluronic acid, panthenol and ceramide; no artificial fragrance"
@@ -463,9 +388,9 @@
       "bullets": [
         "**The store's best seller:** the 345 Relief Cream ranked first in YesStyle's overall beauty ranking in our reading, with more than 33,000 reviews. The page presents it as a cream for after acne that reduces visible redness.",
         "**For dry skin, fragrance-free:** the 147 Barrier Cream is the one from the same brand aimed at building the hydration barrier.",
-        "**Madeca Cream has retinol:** despite its reputation as a centella cream, the Time Reverse formula contains retinol. The same care as with Abib's retinal applies. In our reading, the 50 ml jar was out of stock, with a wait of about three weeks; the 15 ml mini cost US$ 11.25.",
+        "**Madeca Cream has retinol:** despite its reputation as a centella cream, the Time Reverse formula contains retinol. The same care applies as with Abib's retinal products. In our reading, the 50 ml jar was out of stock, with a wait of about three weeks; the 15 ml mini cost US$ 11.25.",
         "**A light step before the cream:** the Toning Essence Treatment is the centella option without a retinoid in the published list, in a 150 ml bottle.",
-        "**15 ml minis:** both Dr. Althea creams have a mini at US$ 8.42, useful for testing or for rounding out the bag."
+        "**15 ml minis:** both Dr. Althea creams have a mini at US$ 8.42, useful for testing before the full jar."
       ],
       "links": [
         {
@@ -483,7 +408,7 @@
     {
       "heading": "Glow and protection: Beauty of Joseon, Dr. Ceuracle and Shiseido",
       "paragraphs": [
-        "The last group brings together a nourishing cream, a propolis ampoule and the Japanese Shiseido items, which fit well when the bag is a little short of a coupon tier or a shipping threshold."
+        "This group brings together a cream, an ampoule, a cleansing foam, sunscreen and hair care. Pick the items missing from your routine; there is no need to buy one of each."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
@@ -495,51 +420,44 @@
       "comparisonTable": {
         "caption": "Products from Beauty of Joseon, Dr. Ceuracle and Shiseido, with the dollar price on the US store, before the coupon of the week and CECILIA010.",
         "headers": [
-          "Product",
-          "Size",
+          "Product and size",
           "Price of the day",
           "Cost per amount",
           "What the page states"
         ],
         "rows": [
           [
-            "Beauty of Joseon Dynasty Cream",
-            "50 g",
+            "Beauty of Joseon Dynasty Cream, 50 g",
             "US$ 19.20 (full: US$ 24.00)",
             "US$ 3.84 per 10 g",
             "Rice bran water, ginseng root water, niacinamide and squalane"
           ],
           [
-            "Beauty of Joseon Dynasty Cream Jumbo",
-            "100 ml",
+            "Beauty of Joseon Dynasty Cream Jumbo, 100 ml",
             "US$ 27.20 (full: US$ 34.00)",
             "US$ 2.72 per 10 ml",
             "The same formula, in the large jar"
           ],
           [
-            "Dr. Ceuracle Royal Vita Propolis 33 Ampoule Jumbo",
-            "30 ml",
+            "Dr. Ceuracle Royal Vita Propolis 33 Ampoule Jumbo, 30 ml",
             "US$ 23.55 (full: US$ 31.40)",
             "US$ 7.85 per 10 ml",
             "33.5% propolis extract, royal jelly extract, niacinamide and panthenol"
           ],
           [
-            "Dr. Ceuracle Tea Tree Purifine Cleansing Foam",
-            "150 g",
+            "Dr. Ceuracle Tea Tree Purifine Cleansing Foam, 150 g",
             "US$ 15.60 (full: US$ 24.00)",
             "US$ 10.40 per 100 g",
             "Gel that turns into foam, with 30% tea tree extract"
           ],
           [
-            "Shiseido Anessa Perfect UV Sunscreen Skincare Milk",
-            "60 ml",
+            "Shiseido Anessa Perfect UV Sunscreen Skincare Milk, 60 ml",
             "US$ 15.05 (full: US$ 21.50)",
             "US$ 2.51 per 10 ml",
             "SPF 50+ PA++++ sunscreen, with mineral and chemical filters"
           ],
           [
-            "Shiseido Fino Premium Touch Hair Mask",
-            "230 g",
+            "Shiseido Fino Premium Touch Hair Mask, 230 g",
             "US$ 11.62 (full: US$ 16.60)",
             "US$ 5.05 per 100 g",
             "Hair mask with royal jelly; first place in hair care in the store"
@@ -547,10 +465,10 @@
         ]
       },
       "bullets": [
-        "**Dynasty Cream, 50 g jar or Jumbo:** the Jumbo comes out about 30% cheaper per amount, but it is twice the cream. It only pays off if you already use it every day; for the first time, the 50 g jar.",
+        "**Dynasty Cream, regular or Jumbo:** the regular was US$ 19.20 and the Jumbo US$ 27.20. The page measures the regular in grams (50 g) and the Jumbo in milliliters (100 ml), so we do not compare the cost per amount of the two. For a first purchase, the regular takes a smaller spend. The Jumbo only makes sense if you already know the product and will use the larger amount.",
         "**Propolis ampoule:** it is the glow item on the list, with a texture the page compares to honey. It goes after the toner and before the cream.",
-        "**Sunscreen:** the Anessa is the one that closes the routine of anyone who bought a product with retinal or retinol from the sections above.",
-        "**To round out the bag:** the Fino hair mask and the replacement rubber for Shiseido's eyelash curler (3 units for US$ 3.14) are cheap, useful items when you are a few dollars short of a tier. From the Benefiance line, the Wrinkle Smoothing Cream cost US$ 115.40 and had no discount in our reading."
+        "**Sunscreen:** the Anessa is the sunscreen on the list. Daytime sunscreen is part of the care for anyone using a product with retinal or retinol.",
+        "**If you already needed them:** the Fino hair mask and the replacement rubber for Shiseido's eyelash curler (3 units for US$ 3.14) can go in the same order. Before adding an item just to reach a tier, compare how much more you would spend with how much you would save overall. From the Benefiance line, the Wrinkle Smoothing Cream cost US$ 115.40 and had no discount in our reading."
       ],
       "links": [
         {
@@ -573,13 +491,12 @@
     {
       "heading": "The math of one cart with the coupon of the week and CECILIA010",
       "paragraphs": [
-        "An example with the prices above: the Abib eye patch (US$ 18.40), the Booster Crème (US$ 22.40), the celimax pad (US$ 15.75), the 345 Relief Cream (US$ 22.95) and the Anessa sunscreen (US$ 15.05) add up to US$ 94.55. That cart clears the US$ 79 tier of the tiered coupon."
+        "An example with the prices above: the Abib eye patch (US$ 18.40), the Booster Crème (US$ 22.40), the celimax pad (US$ 15.75), the 345 Relief Cream (US$ 22.95) and the Anessa sunscreen (US$ 15.05) add up to US$ 94.55."
       ],
       "bullets": [
-        "**With the 8% tiered coupon:** the coupon, in the Coupon Code field, takes off US$ 7.56.",
-        "**With 15% on any order:** the coupon discount rises to US$ 14.18. In mid-November, the store had a coupon like that, with no minimum, for deliveries to the United States, the United Kingdom and Canada.",
-        "**Plus CECILIA010:** in the Reward Code field, it is 5% on the first order or 2% on later ones, added to the coupon. On the US$ 94.55, 5% is US$ 4.73 and 2% is US$ 1.89.",
-        "**The order of the calculation is the store's:** we did not confirm whether the 5% applies to the full amount or to the amount already reduced by the coupon. The order summary shows both discount lines before you pay."
+        "**Store coupon, with delivery to the United States:** the store had a 15% coupon with no minimum. In this simulation, it would take US$ 14.18 off the US$ 94.55, leaving US$ 80.37 before the Reward Code, shipping and any taxes.",
+        "**Store coupon, in destinations with the tiered coupon:** the cart clears the US$ 79 tier, which gives 8%. That would be US$ 7.56 off, leaving US$ 86.99 before the Reward Code, shipping and any taxes.",
+        "**CECILIA010:** it goes in the Reward Code field and gives 5% on the first order or 2% on later ones, alongside an eligible coupon. We do not estimate its discount in dollars because we did not confirm the calculation base in this round. Check the two discount lines in the order summary."
       ],
       "postParagraphs": [
         "**The language of the page does not set the delivery country.** The US$ 79, US$ 149 and US$ 199 tiers, free standard shipping from US$ 35 and the US$ 6 shipping below that are what the store showed for delivery to the United States, in dollars. Whether you read in English from the United Kingdom, Canada, Australia or anywhere else, the conditions change with the destination: the currency, the free-shipping minimum, the coupon of the day, shipping availability and the customs tax and refund rules. Check everything at checkout, with your address, and in [YesStyle's delivery rules](https://www.yesstyle.com/en/help/section.html/hsi.732). What the store publishes by country is in the [YesStyle delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia)."
@@ -602,6 +519,66 @@
       ]
     },
     {
+      "heading": "The rules that trip people up most on Black Friday",
+      "bullets": [
+        "**Members only:** if you check out as a guest, you cannot use the coupon. Create your account before the day of the promotion.",
+        "**One coupon per order:** you cannot combine two YesStyle coupons in the same order. The Reward Code is left out of that count, because it goes in another field.",
+        "**Product prices only:** the coupon does not discount shipping or other fees.",
+        "**Some products are excluded:** the product page and the checkout tell you when the coupon does not apply to it.",
+        "**The time that counts is the store's:** what matters is the time YesStyle's system records the order, in GMT. An order placed after the coupon ends gets no discount.",
+        "**You can use it more than once:** during the promotion, the same coupon is valid on as many orders as you place."
+      ]
+    },
+    {
+      "heading": "When YesStyle's Black Friday starts",
+      "paragraphs": [
+        "YesStyle publishes the rules of each coupon in the site's help center, with the start and end day and time. The table below has the 2025 dates; in 2024, the phases followed the same order and started a day or two later. In 2026 the campaign has already started: on November 3, the store's home page shows the \"Black Friday Mega Sale\", with per-product deals and banners up to 50% off, and the tiered coupon on offer at the time (8% over US$ 79, 10% over US$ 149 and 15% over US$ 199), which the store swaps every few days, so check the current one before you buy. A coupon ending does not mean the campaign has ended. Free standard shipping over US$ 35 depends on the destination: the checkout shows yours. In mid-November, the store also released a 15% coupon on any order, with no minimum, for deliveries to the United States, the United Kingdom and Canada; for other destinations, the tiered coupon applies. The end date of the campaign and the 15% no-minimum days for all countries are not out yet."
+      ],
+      "comparisonTable": {
+        "caption": "Coupons open to all members in 2025, from YesStyle's help pages; each phase runs until the next one begins. Dates are in GMT, which is what counts for the store.",
+        "headers": [
+          "Phase",
+          "In 2025"
+        ],
+        "rows": [
+          [
+            "Tiered coupon named Black Friday",
+            "from Nov 3"
+          ],
+          [
+            "15% with no minimum (Black Friday)",
+            "from Nov 27"
+          ],
+          [
+            "15% with no minimum (Cyber Monday)",
+            "from Dec 1"
+          ],
+          [
+            "Cyber Monday tiered coupon",
+            "Dec 3 – Dec 8"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "In 2026, Black Friday falls on November 27 and Cyber Monday on November 30. If YesStyle repeats the pattern, the 15% days with no minimum should land around those two dates. This is an estimate based on past years: the store can change everything, and this guide is updated when the 2026 pages come out.",
+        "Coupons switch at a fixed time in GMT. In 2025, the tiered coupons switched at 2:00 GMT, and the 15% with no minimum started at 8:00 GMT."
+      ]
+    },
+    {
+      "heading": "Offers that are not for everyone",
+      "paragraphs": [
+        "In 2025, besides the coupon open to all members, YesStyle had two restricted offers. During Black Friday week, the Bronze, Silver and Gold levels of the Elite Club, the store's loyalty program, had one product a day for US$ 1, on orders from US$ 50. One per order, while stock lasted, with no exchange or return. And between Black Friday and Cyber Monday, an 18% coupon with no minimum went to selected members (\"We Miss You\"). The page does not explain how those members were chosen.",
+        "If one of those coupons shows up in your account, the rule is the same: it stacks with the Reward Code and with YS Points."
+      ]
+    },
+    {
+      "heading": "After Black Friday: Christmas",
+      "paragraphs": [
+        "In 2024, the biggest end-of-year coupon was not the Black Friday one: in Christmas week, YesStyle gave 18% with no minimum on everything. In 2025, the coupons open to all members stayed at 15% until the end of the year.",
+        "For Christmas gifts, compare the estimated delivery time at checkout with the date you need the order. Also check product availability."
+      ]
+    },
+    {
       "heading": "Frequently asked questions",
       "bullets": [
         "When does YesStyle's Black Friday start and how long does it last? It has already started: the store's home page has the Black Friday Mega Sale and a tiered coupon. YesStyle has not published the end yet; in 2024 and 2025, the coupons named Black Friday ran until Cyber Monday.",
@@ -615,7 +592,7 @@
         "Will I pay tax when buying from YesStyle? There may be a charge when the package arrives. On eligible orders under US$ 1,000, YesStyle refunds the customs charges as store credit, if you send the receipt within 30 days of its date. Sales tax, VAT and GST are not covered.",
         "What is worth buying on YesStyle's Black Friday? It depends on your routine. The guide sorts picks by need: the three Abib products Cecília tested, the exfoliating pads from medicube and celimax, the barrier creams from Centellian24 and Dr. Althea and, for glow and protection, Beauty of Joseon, Dr. Ceuracle and Shiseido.",
         "Do the dollar prices in this guide apply to every country? No. They were read on the English-language store, with delivery to the United States. Currency, price, free shipping and the coupon of the day change with the destination: the checkout shows the conditions for your address.",
-        "Can I use Abib retinal together with exfoliating pads? On the same night, it is not a good idea: acid and retinoid together easily irritate the skin. Alternate nights and wear sunscreen by day."
+        "Can I use Abib retinal together with exfoliating pads? Check each product's instructions for use and your dermatologist's guidance before combining acid and retinoid. We did not test this combination."
       ]
     }
   ],
@@ -642,8 +619,8 @@
   "decision": {
     "takeIf": [
       "You get your orders in a country where YesStyle delivers and already know which product is missing from your routine.",
-      "Your cart clears a coupon tier, or you can wait for a 15% day on any order.",
-      "You have not used CECILIA010 yet: the 5% from the Reward Code applies to the first order."
+      "Your cart clears a coupon tier, or there is a 15% coupon with no minimum for your destination.",
+      "You are making your first YesStyle purchase: the 5% from the Reward Code applies to it."
     ],
     "skipIf": [
       "Your country is not on YesStyle's delivery list: check before building the cart.",

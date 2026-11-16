@@ -237,3 +237,15 @@ antes da virada do mês. Registrado aqui como pendência permanente do artigo.
 - **OpenClaw:** pela documentação (`docs.openclaw.ai/gateway/local-models`), a memória depende do modelo, do contexto e do que mais roda; as receitas locais usam contexto de 64K e a menor tem piso de 8 GiB de memória no host; o piso não garante que caiba nem a velocidade. A página não dá número de VRAM nem exige GPU.
 - **Imagens:** sem upload novo. As 10 versões reaproveitam as artes já publicadas no idioma de cada uma: barras de primeiro período e renovação, as três perguntas de VPS ou compartilhada e o quadro de qual KVM. O print da página da campanha (em português) fica só no PT.
 - **Catraca do PT:** as datas exatas da leitura ficam em dois pontos do corpo; o resto diz "meados de novembro".
+
+## Revisão externa do #1053 (Farol, 16/11/2026)
+
+Parecer em `docs/auditoria-copy-artigos/bf-hostinger-yesstyle-pr1053-20261116-farol/`. Aplicado nas 10 versões:
+
+- **Elegibilidade:** "em toda compra nova" virou "em planos novos elegíveis" no snippet, na resposta rápida, nas instruções, no FAQ e no botão. A recusa do código no Premium brasileiro de 1 mês fica perto da promessa. A resposta rápida do PT não leva "R$" (catraca), então cita o teste sem os valores; as traduções citam o KVM 1 global de 24 meses (US$ 155,76 para US$ 124,61) e não dizem que plano mensal recusa o código, porque o KVM 1 global de 1 mês aceitou.
+- **Tabela dividida em três quadros:** hospedagem (total sem e com SONAR20 e equivalente por mês), VPS (o mesmo, em 24 meses) e renovação (equivalente mensal da campanha e renovação, os oito planos). O parecer propunha quatro; a renovação ficou num quadro só, de três colunas. Nas traduções, o Single saiu da tabela e ficou numa frase.
+- **Prazo:** no Premium brasileiro, 12, 24 e 48 meses tinham o mesmo equivalente mensal; o texto deixa de sugerir o prazo mais longo e põe a escolha entre comprometer menos dinheiro agora ou adiar a renovação. O ciclo de renovação de 12 meses é o do Premium; não foi lido nos outros planos.
+- **Relato do Bruno:** é do contrato Business de 2024 e não vale como teste do Unlimited nem do Cloud de hoje.
+- **OpenClaw:** os dois parágrafos viraram um, sem a conversão de "8 GB" em GiB e sem recomendar KVM pelo número; a análise fica no guia próprio. O quadro de qual KVM segue na seção, com a legenda de que não há medição.
+- **VPS ou hospedagem:** saiu "a hospedagem compartilhada resolve e custa menos" (o Cloud custa mais que o KVM 1).
+- **FAQ:** saiu "Não citamos códigos de outros sites".

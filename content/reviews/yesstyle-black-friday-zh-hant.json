@@ -44,42 +44,7 @@
     {
       "heading": "先說結論",
       "paragraphs": [
-        "有，YesStyle 的黑色星期五已經開始。首頁上有 Mega Sale，商品各有特價，橫幅最高標 50% off；階梯優惠券是 8%、10% 或 15%。CECILIA010 填在 Reward Code 欄位，可與它疊加。"
-      ]
-    },
-    {
-      "heading": "YesStyle 黑色星期五何時開始",
-      "paragraphs": [
-        "YesStyle 會在網站的說明中心公布每張優惠券的規則，寫明開始與結束的日期與時間。下表是 2025 年的日期。2024 年各階段的順序相同，只是晚一兩天開始。2026 年活動已經開始：11 月 3 日，商店首頁有「Black Friday Mega Sale」，商品各有特價，橫幅最高標 50% off，還有當時的階梯優惠券（滿 US$ 79 給 8%，滿 US$ 149 給 10%，滿 US$ 199 給 15%），商店每隔幾天更換一次，購買前請確認目前有效的券。一張券到期，不代表活動結束。標準運費滿 US$ 35 免運費是否適用取決於送達地，結帳頁會顯示你的情況。2026 年 11 月中旬，商店還開放了一張針對任何訂單、無最低消費的 15% 優惠券，適用於寄往美國、英國與加拿大的訂單；其他送達地則適用階梯優惠券。全部國家的活動結束日期與無最低消費的 15% 日子尚未公布。"
-      ],
-      "comparisonTable": {
-        "caption": "2025 年開放給所有會員的優惠券，取自 YesStyle 說明頁面；每個階段持續到下一階段開始。日期與時間採用 GMT，這是商店的計時標準。",
-        "headers": [
-          "階段",
-          "2025 年"
-        ],
-        "rows": [
-          [
-            "名稱為 Black Friday 的階梯優惠券",
-            "11 月 3 日起"
-          ],
-          [
-            "無最低消費的 15%（黑色星期五）",
-            "11 月 27 日起"
-          ],
-          [
-            "無最低消費的 15%（網購星期一）",
-            "12 月 1 日起"
-          ],
-          [
-            "網購星期一的階梯優惠券",
-            "12 月 3 日至 8 日"
-          ]
-        ]
-      },
-      "postParagraphs": [
-        "2026 年的黑色星期五是 11 月 27 日，網購星期一是 11 月 30 日。如果 YesStyle 沿用往年的模式，無最低消費的 15% 日子會落在這兩個日期前後。這只是依往年紀錄的推測：商店可能全部改變。2026 年的頁面出來後，本指南會隨之更新。",
-        "優惠券依 GMT 的固定時間切換。2025 年，階梯優惠券在 GMT 2 點切換，無最低消費的 15% 則在 GMT 8 點開始。"
+        "有，YesStyle 的黑色星期五已經開始。CECILIA010 填在 Reward Code 欄位，首次購買 5%、之後 2%，可與商店的合格優惠券一起使用。無最低消費的 15% 優惠券已在美國、英國與加拿大出現；請確認你送達地的優惠。"
       ]
     },
     {
@@ -117,24 +82,6 @@
       ]
     },
     {
-      "heading": "要等無最低消費的 15% 日子嗎？",
-      "paragraphs": [
-        "取決於購物車的大小："
-      ],
-      "image": {
-        "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
-        "alt": "YesStyle 依訂單金額的折扣階梯圖：79 美元以下 0%，79 美元起 8%，149 美元起 10%，199 美元起 15%，另有一條從 0 美元起的 15% 虛線",
-        "caption": "綠線是階梯優惠券：79 美元起 8%，149 美元起 10%，199 美元起 15%。虛線是無最低消費的 15% 優惠日。插圖：Em Casa com Cecília。",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      },
-      "bullets": [
-        "**購物車滿 US$ 199：**階梯優惠券任何一天都給 15%，與無最低消費的日子比例相同。接近週五可能變動的是每件商品的促銷價，而不是優惠券。",
-        "**購物車介於 US$ 79 到 US$ 199 之間：**階梯優惠券給 8% 或 10%。如果無最低消費的日子再次出現，同一個購物車能拿到 15%。",
-        "**購物車低於 US$ 79：**階梯優惠券一毛也不折。如果無最低消費的 15% 日子再次出現，對這類購物車來說，等待最划算。"
-      ]
-    },
-    {
       "heading": "CECILIA010 如何與黑色星期五的優惠券一起使用",
       "paragraphs": [
         "YesStyle 的結帳頁有兩個欄位。當天的優惠券填在 Coupon Code，CECILIA010 填在 Reward Code。2024 年與 2025 年所有黑色星期五優惠券的規則都寫明，它們可與促銷價、獎勵碼（Rewards Codes）以及 YS Points（YesStyle 自己的點數）一起使用。"
@@ -165,28 +112,21 @@
       ]
     },
     {
-      "heading": "黑色星期五最容易踩到的規則",
+      "heading": "要等無最低消費的 15% 日子嗎？",
+      "paragraphs": [
+        "先確認送達國家。依 11 月中旬的讀取，無最低消費的 15% 優惠券已適用於美國、英國與加拿大。對這些送達地，不必等到週五才拿到這個比例。其他送達地則適用下面的比較，前提是階梯優惠券仍在有效期內。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
+        "alt": "YesStyle 依訂單金額的折扣階梯圖：79 美元以下 0%，79 美元起 8%，149 美元起 10%，199 美元起 15%，另有一條從 0 美元起的 15% 虛線",
+        "caption": "綠線是階梯優惠券：79 美元起 8%，149 美元起 10%，199 美元起 15%。虛線是無最低消費的 15% 優惠券，是否適用取決於送達地。插圖：Em Casa com Cecília。",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
-        "**僅限會員：**以訪客身分購買無法使用優惠券。請在促銷日之前先註冊帳號。",
-        "**每筆訂單一張優惠券：**同一筆訂單不能疊加兩張 YesStyle 優惠券。獎勵碼不算在內，因為它填在另一個欄位。",
-        "**只折抵商品價格：**優惠券不折抵運費或其他費用。",
-        "**部分商品不適用：**商品頁面與結帳頁會提示該商品不能使用優惠券。",
-        "**以商店的時間為準：**以 YesStyle 系統記錄訂單的時間（GMT）為準。優惠券結束後才完成的訂單沒有折扣。",
-        "**可以重複使用：**促銷期間，同一張優惠券可用於你下的任意多筆訂單。"
-      ]
-    },
-    {
-      "heading": "並非人人都有的優惠",
-      "paragraphs": [
-        "2025 年，除了開放給所有會員的優惠券，YesStyle 還推出了兩項限定優惠。黑色星期五那一週，商店會員計畫 Elite Club 的銅、銀、金級會員每天有一件商品只要 US$ 1，訂單滿 US$ 50 即可。每筆訂單限一件，售完為止，不可換貨或退貨。另外，在黑色星期五與網購星期一之間，一張無最低消費的 18% 優惠券發給了部分會員（“We Miss You”）。頁面沒有說明這些會員是如何選出的。",
-        "如果你的帳號裡出現這類優惠券，規則相同：可與獎勵碼和 YS Points 疊加。"
-      ]
-    },
-    {
-      "heading": "黑色星期五之後：聖誕節",
-      "paragraphs": [
-        "2024 年，年底最大的優惠券並不是黑色星期五那張：聖誕節那一週，YesStyle 對所有商品給出了無最低消費的 18%。2025 年，開放給所有會員的優惠券到年底都維持在 15%。",
-        "如果是買聖誕禮物，請把結帳頁的預計送達時間與需要收到訂單的日期比較。也請確認商品是否有貨。"
+        "**滿 US$ 199：**以美元基準，階梯優惠券已達 15%。無最低消費的日子不會讓這個比例更高；每件商品的價格仍可能變動。",
+        "**US$ 79 至未滿 US$ 199：**階梯優惠券給 8% 或 10%。如果你的送達地有無最低消費的 15% 優惠券，折扣可能更高。",
+        "**低於 US$ 79：**階梯優惠券不給折扣。決定要不要等之前，先確認你的送達地有沒有無最低消費的優惠券。"
       ]
     },
     {
@@ -196,9 +136,9 @@
       ]
     },
     {
-      "heading": "買什麼：我們怎麼讀價格",
+      "heading": "選購之前：美元價格與送達國家",
       "paragraphs": [
-        "接下來的幾個段落，依品牌整理值得放進購物車的產品。所有價格都是在 2026 年 11 月 16 日，於 YesStyle 英文商店、以寄往美國、美元計價讀取的。這是當天的促銷價，幾乎都帶有限時特價標籤，尚未套用本週優惠券與 CECILIA010。價格每天都可能變動，也會因國家而異：以你的購物袋為準。",
+        "接下來的幾個段落，依品牌整理產品。所有價格都是在 2026 年 11 月 16 日，於 YesStyle 英文商店、以寄往美國、美元計價讀取的。這是當天的促銷價，幾乎都帶有限時特價標籤，尚未套用本週優惠券與 CECILIA010。價格每天都可能變動，也會因國家而異：以你的購物袋為準。",
         "YesStyle 在每個產品頁面上自稱是 Abib、medicube、celimax、Centellian24、Dr. Althea、Beauty of Joseon 與 Dr. Ceuracle 的授權經銷商。我們打開的 Shiseido 頁面上沒有這句話。文中提到的成分，是當天各產品頁面公布的成分表；實際收到的包裝才是最終依據。"
       ],
       "links": [
@@ -247,30 +187,26 @@
       "comparisonTable": {
         "caption": "Cecília 試用的三款 Abib 產品，為美國商店的美元價格，未套用本週優惠券與 CECILIA010。",
         "headers": [
-          "產品",
-          "容量",
+          "產品與容量",
           "當日價格",
           "單位成本",
           "頁面標示"
         ],
         "rows": [
           [
-            "[Abib PDRN Retinal Eye Patch Glow Jelly](https://ystyle.co/cn2Z5)",
-            "60 片",
+            "[Abib PDRN Retinal Eye Patch Glow Jelly](https://ystyle.co/cn2Z5)（60 片）",
             "US$ 18.40（原價：US$ 23.00）",
             "每片 US$ 0.31",
             "植物性 PDRN、視黃醛、膠原蛋白、菸鹼醯胺與咖啡因"
           ],
           [
-            "[Abib PDRN Volume Fill-it Booster Crème 2.5 Tube](https://ystyle.co/q5SUZ)",
-            "30 ml",
+            "[Abib PDRN Volume Fill-it Booster Crème 2.5 Tube](https://ystyle.co/q5SUZ)（30 ml）",
             "US$ 22.40（原價：US$ 28.00）",
             "每 10 ml US$ 7.47",
             "15,000 ppm PDRN、10,000 ppm Volufiline、視黃醛與胜肽"
           ],
           [
-            "[Abib PDRN Collagen Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ)",
-            "11 g",
+            "[Abib PDRN Collagen Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ)（11 g）",
             "US$ 16.00（原價：US$ 20.00）",
             "每克 US$ 1.45",
             "植物來源 PDRN、膠原蛋白與積雪草；含香料"
@@ -279,9 +215,9 @@
       },
       "bullets": [
         "**眼部：**[水凝膠眼貼](https://ystyle.co/cn2Z5)是 60 片裝的罐子，雙眼可用 30 次。依我們的讀取，頁面把它列為商店眼膜類別的銷售冠軍。",
-        "**臉部：**[Booster Crème 2.5](https://ystyle.co/q5SUZ) 是 30 ml 的軟管。三款裡它每毫升最貴；頁面也賣 10 ml 的迷你版，適合在買完整軟管前先試用。",
+        "**臉部：**[Booster Crème 2.5](https://ystyle.co/q5SUZ) 是 30 ml 的軟管。三款裡它需要的花費最高；頁面也賣 10 ml 的迷你版，適合在買完整軟管前先試用。",
         "**唇部：**[Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ) 是 11 g 的罐裝。三款裡只有它的成分表裡沒有視黃醛。",
-        "**視黃醛要小心：**眼貼和面霜都含視黃醛，一種視黃醇類成分。請在夜間使用，白天擦防曬，同一個晚上不要和下一段的去角質片一起用。孕婦與哺乳期的人，使用視黃醇類成分須先諮詢醫師。",
+        "**視黃醛要小心：**眼貼和面霜都含視黃醛，一種視黃醇類成分。請依各產品的使用說明使用，白天擦防曬。懷孕期間請避免使用視黃醇類成分；哺乳期請向醫療專業人員確認。",
         "**雙件組：**三款都有兩件裝的組合，每件折扣更大。只有已經在用這款產品的人才划算。"
       ],
       "links": [
@@ -333,7 +269,7 @@
     {
       "heading": "毛孔與膚質：medicube 與 celimax",
       "paragraphs": [
-        "這裡要在兩款去角質片之間做選擇。兩款都是浸泡了含酸化妝水的棉片罐，差別在配方與每片的價格。"
+        "這裡要在去角質片之間做選擇。它們都是浸泡了含酸化妝水的棉片罐，差別在配方與每片的價格。"
       ],
       "image": {
         "src": "/images/reviews/yesstyle/black-friday-yesstyle-poros-medicube-celimax.webp",
@@ -345,44 +281,38 @@
       "comparisonTable": {
         "caption": "medicube 與 celimax 的去角質片與清潔產品，為美國商店的美元價格，未套用本週優惠券與 CECILIA010。",
         "headers": [
-          "產品",
-          "容量",
+          "產品與容量",
           "當日價格",
           "單位成本",
           "頁面標示"
         ],
         "rows": [
           [
-            "medicube Zero Pore Pad 2.0",
-            "70 片",
+            "medicube Zero Pore Pad 2.0（70 片）",
             "US$ 21.90（原價：US$ 31.00）",
             "每片 US$ 0.31",
             "乳酸（AHA）、水楊酸（BHA）、泛醇與積雪草；配方含酒精"
           ],
           [
-            "medicube Zero Pore Pad Mild",
-            "70 片（155 g）",
+            "medicube Zero Pore Pad Mild（70 片（155 g））",
             "US$ 21.90（原價：US$ 31.00）",
             "每片 US$ 0.31",
             "依描述，是 Zero Pore Pad 的溫和版，含水楊酸與 PHA"
           ],
           [
-            "celimax JI.WOO.GAE Heartleaf BHA Peeling Pad",
-            "60 片",
+            "celimax JI.WOO.GAE Heartleaf BHA Peeling Pad（60 片）",
             "US$ 15.75（原價：US$ 21.00）",
             "每片 US$ 0.26",
             "魚腥草萃取、甜菜鹼水楊酸酯（BHA）、積雪草苷與玻尿酸"
           ],
           [
-            "medicube Red Foam Cleanser",
-            "120 ml",
+            "medicube Red Foam Cleanser（120 ml）",
             "US$ 17.90（原價：US$ 34.00）",
             "每 100 ml US$ 14.92",
             "含 0.5% 水楊酸的潔面泡沫"
           ],
           [
-            "celimax Derma Nature Fresh Blackhead Jojoba Cleansing Oil",
-            "150 ml",
+            "celimax Derma Nature Fresh Blackhead Jojoba Cleansing Oil（150 ml）",
             "US$ 14.25（原價：US$ 19.00）",
             "每 100 ml US$ 9.50",
             "含荷荷芭在內的六種植物油的卸妝油"
@@ -390,10 +320,10 @@
         ]
       },
       "bullets": [
-        "**想要效果強一點的片：**Zero Pore Pad 2.0 結合了 AHA 與 BHA，依我們的讀取，是商店去角質類別的銷售冠軍。頁面自己建議不要與其他強效酸類同時使用，並隔天交替。",
-        "**想慢慢開始：**celimax 的片使用甜菜鹼水楊酸酯，每片更便宜，頁面描述它溫和，適合每天使用。medicube 自己的替代是 Zero Pore Pad Mild。",
-        "**清潔：**celimax 的卸妝油每 100 ml 比 medicube 的泡沫便宜。同一個 Red 系列的 Red Erasing Cream 面霜，50 ml 規格缺貨，預計等約三週。",
-        "**不要和視黃醇類疊加：**同一晚使用酸類去角質片與含視黃醛的產品，是最容易刺激肌膚的組合。請隔晚交替。"
+        "**含 AHA 與 BHA 的棉片：**依頁面所述，Zero Pore Pad 2.0 結合這兩種酸，依我們的讀取，是商店去角質類別的銷售冠軍。請查看該產品專屬的使用說明。",
+        "**其他配方：**頁面把 celimax 的片描述為溫和、適合每天使用；medicube 的 Zero Pore Pad Mild 則被介紹為溫和版。這些是品牌的描述，我們沒有做耐受度的比較。",
+        "**清潔：**有 celimax 的卸妝油和 medicube 的泡沫。每 100 ml 的價格在表格裡，但兩者是不同的形態：請依你想要的用法選擇。Red Erasing Cream 的 50 ml 規格缺貨，頁面標示預計等約三週。",
+        "**酸類與視黃醇類：**組合之前，請先查看各產品的使用說明，並諮詢皮膚科醫師。我們沒有一起測試過這套流程。"
       ],
       "links": [
         {
@@ -411,7 +341,7 @@
     {
       "heading": "屏障與保濕：Centellian24 與 Dr. Althea",
       "paragraphs": [
-        "對於乾燥或敏感的肌膚，候選是 Centellian24 的積雪草面霜（韓國製藥公司東國製藥旗下品牌），以及 Dr. Althea 最熱銷的兩款面霜。"
+        "這一組的面霜配方各不相同。Madeca Cream Time Reverse 含視黃醇，不要把它當成給敏感肌的單純積雪草面霜。購買前請比較各款的成分與使用說明。"
       ],
       "image": {
         "src": "/images/reviews/yesstyle/black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
@@ -423,37 +353,32 @@
       "comparisonTable": {
         "caption": "Centellian24 與 Dr. Althea 的面霜與精華，為美國商店的美元價格，未套用本週優惠券與 CECILIA010。",
         "headers": [
-          "產品",
-          "容量",
+          "產品與容量",
           "當日價格",
           "單位成本",
           "頁面標示"
         ],
         "rows": [
           [
-            "Centellian24 Madeca Cream Time Reverse",
-            "50 ml",
+            "Centellian24 Madeca Cream Time Reverse（50 ml）",
             "US$ 24.00（原價：US$ 32.00）",
             "每 10 ml US$ 4.80",
             "TECA（積雪草標準化萃取）、菸鹼醯胺、膠原蛋白與視黃醇"
           ],
           [
-            "Centellian24 Madeca Toning Essence Treatment",
-            "150 ml",
+            "Centellian24 Madeca Toning Essence Treatment（150 ml）",
             "US$ 22.50（原價：US$ 30.00）",
             "每 100 ml US$ 15.00",
             "積雪草萃取、10 ppm TECA 與菸鹼醯胺"
           ],
           [
-            "Dr. Althea 345 Relief Cream",
-            "50 ml",
+            "Dr. Althea 345 Relief Cream（50 ml）",
             "US$ 22.95（原價：US$ 27.00）",
             "每 10 ml US$ 4.59",
             "茶樹葉水、菸鹼醯胺、玻尿酸與神經醯胺 NP"
           ],
           [
-            "Dr. Althea 147 Barrier Cream",
-            "50 ml",
+            "Dr. Althea 147 Barrier Cream（50 ml）",
             "US$ 22.95（原價：US$ 27.00）",
             "每 10 ml US$ 4.59",
             "角鯊烷、玻尿酸、泛醇與神經醯胺；不含人工香料"
@@ -463,9 +388,9 @@
       "bullets": [
         "**商店的銷售冠軍：**依我們的讀取，345 Relief Cream 在 YesStyle 美妝總榜排名第一，有超過 3.3 萬則評價。頁面把它介紹為痘後使用的面霜，可減輕可見的泛紅。",
         "**乾燥肌、無香料：**147 Barrier Cream 是同品牌中專門用來建立保濕屏障的一款。",
-        "**Madeca Cream 含視黃醇：**雖然以積雪草面霜聞名，Time Reverse 的配方含視黃醇。要和 Abib 的視黃醛一樣小心。依我們的讀取，50 ml 罐裝缺貨，預計等約三週；15 ml 迷你版是 US$ 11.25。",
+        "**Madeca Cream 含視黃醇：**雖然以積雪草面霜聞名，Time Reverse 的配方含視黃醇。要和 Abib 含視黃醛的產品一樣小心。依我們的讀取，50 ml 罐裝缺貨，預計等約三週；15 ml 迷你版是 US$ 11.25。",
         "**乳霜前的輕盈一步：**Toning Essence Treatment 是已公布成分中不含視黃醇類的積雪草選項，150 ml 瓶裝。",
-        "**15 ml 迷你版：**Dr. Althea 的兩款面霜都有迷你版，US$ 8.42，可用來試用，或湊滿購物袋。"
+        "**15 ml 迷你版：**Dr. Althea 的兩款面霜都有迷你版，US$ 8.42，可在買完整罐前先試用。"
       ],
       "links": [
         {
@@ -483,7 +408,7 @@
     {
       "heading": "光澤與防護：Beauty of Joseon、Dr. Ceuracle 與 Shiseido",
       "paragraphs": [
-        "最後一組包括一款滋養面霜、一款蜂膠安瓶，以及日本品牌 Shiseido；當購物袋差一點就能達到優惠券門檻或免運門檻時，Shiseido 很適合用來補上。"
+        "這一組包括一款面霜、一款安瓶、一款洗面泡沫、防曬與護髮。請挑你流程裡缺的品項；不需要每樣都買。"
       ],
       "image": {
         "src": "/images/reviews/yesstyle/black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
@@ -495,51 +420,44 @@
       "comparisonTable": {
         "caption": "Beauty of Joseon、Dr. Ceuracle 與 Shiseido 的產品，為美國商店的美元價格，未套用本週優惠券與 CECILIA010。",
         "headers": [
-          "產品",
-          "容量",
+          "產品與容量",
           "當日價格",
           "單位成本",
           "頁面標示"
         ],
         "rows": [
           [
-            "Beauty of Joseon Dynasty Cream",
-            "50 g",
+            "Beauty of Joseon Dynasty Cream（50 g）",
             "US$ 19.20（原價：US$ 24.00）",
             "每 10 g US$ 3.84",
             "米糠水、人參根水、菸鹼醯胺與角鯊烷"
           ],
           [
-            "Beauty of Joseon Dynasty Cream Jumbo",
-            "100 ml",
+            "Beauty of Joseon Dynasty Cream Jumbo（100 ml）",
             "US$ 27.20（原價：US$ 34.00）",
             "每 10 ml US$ 2.72",
             "相同配方，大罐裝"
           ],
           [
-            "Dr. Ceuracle Royal Vita Propolis 33 Ampoule Jumbo",
-            "30 ml",
+            "Dr. Ceuracle Royal Vita Propolis 33 Ampoule Jumbo（30 ml）",
             "US$ 23.55（原價：US$ 31.40）",
             "每 10 ml US$ 7.85",
             "33.5% 蜂膠萃取、蜂王漿萃取、菸鹼醯胺與泛醇"
           ],
           [
-            "Dr. Ceuracle Tea Tree Purifine Cleansing Foam",
-            "150 g",
+            "Dr. Ceuracle Tea Tree Purifine Cleansing Foam（150 g）",
             "US$ 15.60（原價：US$ 24.00）",
             "每 100 g US$ 10.40",
             "凝膠轉泡沫，含 30% 茶樹萃取"
           ],
           [
-            "Shiseido Anessa Perfect UV Sunscreen Skincare Milk",
-            "60 ml",
+            "Shiseido Anessa Perfect UV Sunscreen Skincare Milk（60 ml）",
             "US$ 15.05（原價：US$ 21.50）",
             "每 10 ml US$ 2.51",
             "SPF 50+ PA++++ 防曬，含礦物與化學濾光劑"
           ],
           [
-            "Shiseido Fino Premium Touch Hair Mask",
-            "230 g",
+            "Shiseido Fino Premium Touch Hair Mask（230 g）",
             "US$ 11.62（原價：US$ 16.60）",
             "每 100 g US$ 5.05",
             "含蜂王漿的髮膜；商店護髮類別第一名"
@@ -547,10 +465,10 @@
         ]
       },
       "bullets": [
-        "**Dynasty Cream，50 g 罐裝或 Jumbo：**Jumbo 每單位數量便宜約 30%，但份量是兩倍。只有每天都用的人才划算；第一次買，選 50 g 罐裝。",
+        "**Dynasty Cream，一般版或 Jumbo：**一般版是 US$ 19.20，Jumbo 是 US$ 27.20。頁面把一般版以克計（50 g），Jumbo 以毫升計（100 ml），所以我們不比較兩者每單位的價格。第一次買，一般版花費較少。Jumbo 只適合已經熟悉這款產品、會用掉較大份量的人。",
         "**蜂膠安瓶：**這是清單中負責光澤的品項，頁面把質地比喻為蜂蜜。用在化妝水之後、面霜之前。",
-        "**防曬：**如果你買了上面段落裡任何含視黃醛或視黃醇的產品，Anessa 就是用來完成流程的那一步。",
-        "**湊滿購物袋：**Fino 髮膜與 Shiseido 的 curvex 替換橡膠（3 個 US$ 3.14）都是便宜實用的品項，在差幾美元就能達到門檻時很好用。Benefiance 系列的 Wrinkle Smoothing Cream 是 US$ 115.40，依我們的讀取沒有折扣。"
+        "**防曬：**Anessa 是清單中的防曬品項。白天擦防曬，是使用含視黃醛或視黃醇產品時的一部分保養。",
+        "**如果你本來就需要：**Fino 髮膜與 Shiseido 的 curvex 替換橡膠（3 個 US$ 3.14）可以放進同一筆訂單。為了達到某一階門檻而多加一件之前，先比較你多花多少、整體省多少。Benefiance 系列的 Wrinkle Smoothing Cream 是 US$ 115.40，依我們的讀取沒有折扣。"
       ],
       "links": [
         {
@@ -573,13 +491,12 @@
     {
       "heading": "加上本週優惠券與 CECILIA010 的購物車算式",
       "paragraphs": [
-        "用上面的價格舉一個例子：Abib 眼貼（US$ 18.40）、Booster Crème（US$ 22.40）、celimax 去角質片（US$ 15.75）、345 Relief Cream（US$ 22.95）與 Anessa 防曬（US$ 15.05），合計 US$ 94.55。這個購物車超過了階梯優惠券的 US$ 79 門檻。"
+        "用上面的價格舉一個例子：Abib 眼貼（US$ 18.40）、Booster Crème（US$ 22.40）、celimax 去角質片（US$ 15.75）、345 Relief Cream（US$ 22.95）與 Anessa 防曬（US$ 15.05），合計 US$ 94.55。"
       ],
       "bullets": [
-        "**使用 8% 的階梯優惠券：**填在 Coupon Code 欄位的優惠券，折掉 US$ 7.56。",
-        "**使用任何訂單皆適用的 15%：**優惠券的折扣升到 US$ 14.18。11 月中旬，商店有這樣一張無最低消費的券，適用於寄往美國、英國與加拿大的訂單。",
-        "**再加上 CECILIA010：**填在 Reward Code 欄位，首次購買 5%、之後 2%，與優惠券疊加。以 US$ 94.55 計算，5% 是 US$ 4.73，2% 是 US$ 1.89。",
-        "**計算順序由商店決定：**我們沒有確認這 5% 是按原價算，還是按已扣掉優惠券的金額算。訂單摘要會在付款前顯示兩行折扣。"
+        "**商店優惠券，寄往美國：**商店有一張無最低消費的 15% 優惠券。在這個模擬中，它會從 US$ 94.55 折掉 US$ 14.18，在 Reward Code、運費與可能的稅費之前剩下 US$ 80.37。",
+        "**商店優惠券，適用階梯優惠券的送達地：**購物車超過 US$ 79 的門檻，給 8%。折扣是 US$ 7.56，在 Reward Code、運費與可能的稅費之前剩下 US$ 86.99。",
+        "**CECILIA010：**填在 Reward Code 欄位，首次購買 5%、之後 2%，可與合格優惠券一起使用。我們沒有以美元估算它的折扣，因為這一輪沒有確認計算基準。請在訂單摘要中確認兩行折扣。"
       ],
       "postParagraphs": [
         "**頁面語言不決定送達國家。**US$ 79、US$ 149 與 US$ 199 的門檻、US$ 35 起的標準免運費，以及低於該額度時的 US$ 6 運費，是商店在寄往美國、以美元計價時顯示的內容。用中文閱讀的人可能在台灣、香港或其他地方，條件會隨送達地改變：幣別、免運門檻、當天的優惠券、能否寄送，以及海關稅費與退稅的規則。請在結帳頁用你的地址確認一切，也可以看 [YesStyle 的配送規則](https://www.yesstyle.com/en/help/section.html/hsi.732)與 [YesStyle 配送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。"
@@ -602,6 +519,66 @@
       ]
     },
     {
+      "heading": "黑色星期五最容易踩到的規則",
+      "bullets": [
+        "**僅限會員：**以訪客身分購買無法使用優惠券。請在促銷日之前先註冊帳號。",
+        "**每筆訂單一張優惠券：**同一筆訂單不能疊加兩張 YesStyle 優惠券。獎勵碼不算在內，因為它填在另一個欄位。",
+        "**只折抵商品價格：**優惠券不折抵運費或其他費用。",
+        "**部分商品不適用：**商品頁面與結帳頁會提示該商品不能使用優惠券。",
+        "**以商店的時間為準：**以 YesStyle 系統記錄訂單的時間（GMT）為準。優惠券結束後才完成的訂單沒有折扣。",
+        "**可以重複使用：**促銷期間，同一張優惠券可用於你下的任意多筆訂單。"
+      ]
+    },
+    {
+      "heading": "YesStyle 黑色星期五何時開始",
+      "paragraphs": [
+        "YesStyle 會在網站的說明中心公布每張優惠券的規則，寫明開始與結束的日期與時間。下表是 2025 年的日期。2024 年各階段的順序相同，只是晚一兩天開始。2026 年活動已經開始：11 月 3 日，商店首頁有「Black Friday Mega Sale」，商品各有特價，橫幅最高標 50% off，還有當時的階梯優惠券（滿 US$ 79 給 8%，滿 US$ 149 給 10%，滿 US$ 199 給 15%），商店每隔幾天更換一次，購買前請確認目前有效的券。一張券到期，不代表活動結束。標準運費滿 US$ 35 免運費是否適用取決於送達地，結帳頁會顯示你的情況。2026 年 11 月中旬，商店還開放了一張針對任何訂單、無最低消費的 15% 優惠券，適用於寄往美國、英國與加拿大的訂單；其他送達地則適用階梯優惠券。全部國家的活動結束日期與無最低消費的 15% 日子尚未公布。"
+      ],
+      "comparisonTable": {
+        "caption": "2025 年開放給所有會員的優惠券，取自 YesStyle 說明頁面；每個階段持續到下一階段開始。日期與時間採用 GMT，這是商店的計時標準。",
+        "headers": [
+          "階段",
+          "2025 年"
+        ],
+        "rows": [
+          [
+            "名稱為 Black Friday 的階梯優惠券",
+            "11 月 3 日起"
+          ],
+          [
+            "無最低消費的 15%（黑色星期五）",
+            "11 月 27 日起"
+          ],
+          [
+            "無最低消費的 15%（網購星期一）",
+            "12 月 1 日起"
+          ],
+          [
+            "網購星期一的階梯優惠券",
+            "12 月 3 日至 8 日"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "2026 年的黑色星期五是 11 月 27 日，網購星期一是 11 月 30 日。如果 YesStyle 沿用往年的模式，無最低消費的 15% 日子會落在這兩個日期前後。這只是依往年紀錄的推測：商店可能全部改變。2026 年的頁面出來後，本指南會隨之更新。",
+        "優惠券依 GMT 的固定時間切換。2025 年，階梯優惠券在 GMT 2 點切換，無最低消費的 15% 則在 GMT 8 點開始。"
+      ]
+    },
+    {
+      "heading": "並非人人都有的優惠",
+      "paragraphs": [
+        "2025 年，除了開放給所有會員的優惠券，YesStyle 還推出了兩項限定優惠。黑色星期五那一週，商店會員計畫 Elite Club 的銅、銀、金級會員每天有一件商品只要 US$ 1，訂單滿 US$ 50 即可。每筆訂單限一件，售完為止，不可換貨或退貨。另外，在黑色星期五與網購星期一之間，一張無最低消費的 18% 優惠券發給了部分會員（“We Miss You”）。頁面沒有說明這些會員是如何選出的。",
+        "如果你的帳號裡出現這類優惠券，規則相同：可與獎勵碼和 YS Points 疊加。"
+      ]
+    },
+    {
+      "heading": "黑色星期五之後：聖誕節",
+      "paragraphs": [
+        "2024 年，年底最大的優惠券並不是黑色星期五那張：聖誕節那一週，YesStyle 對所有商品給出了無最低消費的 18%。2025 年，開放給所有會員的優惠券到年底都維持在 15%。",
+        "如果是買聖誕禮物，請把結帳頁的預計送達時間與需要收到訂單的日期比較。也請確認商品是否有貨。"
+      ]
+    },
+    {
       "heading": "常見問題",
       "bullets": [
         "YesStyle 的黑色星期五何時開始、持續多久？已經開始：商店首頁有 Black Friday Mega Sale 和階梯優惠券。YesStyle 還沒有公布結束日期；2024 年與 2025 年，名稱為 Black Friday 的優惠券一直持續到網購星期一。",
@@ -615,7 +592,7 @@
         "在 YesStyle 購物要繳稅嗎？包裹到貨時可能會被課稅。符合條件且低於 1,000 美元的訂單，如果你在憑證日期起 30 天內寄出憑證，YesStyle 會以店鋪抵用金退還關稅等費用。銷售稅、加值稅（VAT）與 GST 不在退還範圍內。",
         "在 YesStyle 黑色星期五買什麼值得？要看你的流程。本指南依需求整理：Cecília 試用過的三款 Abib 產品、medicube 與 celimax 的去角質片、Centellian24 與 Dr. Althea 的屏障面霜，以及追求光澤與防護的 Beauty of Joseon、Dr. Ceuracle 與 Shiseido。",
         "本指南的美元價格適用於任何國家嗎？不適用。價格是在英文商店、以寄往美國讀取的。幣別、價格、免運與當天的優惠券會隨送達地改變：結帳頁會顯示你的地址適用的條件。",
-        "Abib 的視黃醛可以和去角質片一起用嗎？同一個晚上不建議：酸類與視黃醇類一起用，肌膚很容易刺激。請隔晚交替，白天擦防曬。"
+        "Abib 的視黃醛可以和去角質片一起用嗎？請先查看各產品的使用說明，並諮詢皮膚科醫師，再決定要不要把酸類與視黃醇類放在同一套流程。我們沒有測試過這個組合。"
       ]
     }
   ],
@@ -642,8 +619,8 @@
   "decision": {
     "takeIf": [
       "你的收件國家在 YesStyle 的配送範圍內，而且你已經知道流程裡缺哪一樣產品。",
-      "你的購物車超過了某一階優惠券的門檻，或你可以等一個任何訂單都適用的 15% 日子。",
-      "你還沒用過 CECILIA010：Reward Code 的 5% 適用於首次購買。"
+      "你的購物車超過某一階優惠券的門檻，或你的送達地有無最低消費的 15% 優惠券。",
+      "你要在 YesStyle 做第一次購買：Reward Code 的 5% 適用於首次購買。"
     ],
     "skipIf": [
       "你的國家不在 YesStyle 的配送清單上：組購物車之前先確認。",

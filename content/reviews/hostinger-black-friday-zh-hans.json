@@ -30,8 +30,8 @@
       "initials": "BL"
     }
   ],
-  "description": "Hostinger 的黑色星期五已经开始，从 2026 年 10 月 19 日持续到 12 月 14 日。优惠码 SONAR20 可在活动价的基础上再减 20%。这里有续费价格，以及付款前如何核对。",
-  "metaDescription": "Hostinger 黑色星期五 2026 已经开始，持续到 12 月 14 日，优惠码 SONAR20 在活动价上再减 20%。续费与核对方法。",
+  "description": "Hostinger 的黑色星期五从 2026 年 10 月 19 日持续到 12 月 14 日。优惠码 SONAR20 对新的合格方案额外减 20%。这里有续费价格，以及付款前如何核对。",
+  "metaDescription": "Hostinger 黑色星期五：SONAR20 对合格的新方案额外减 20%。请比较首期总价与续费价；按月付款时，请确认折扣是否生效。",
   "publishedAt": "2026年10月19日",
   "publishedAtISO": "2026-10-19",
   "updatedAt": "2026-11-16",
@@ -46,113 +46,161 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "Hostinger 的黑色星期五已经开始：从 2026 年 10 月 19 日持续到 12 月 14 日。活动价会自动生效，在购物车的优惠码栏输入代码 **SONAR20**，可在此基础上对新购再减 20%。续费按标价收费，没有折扣。下面按网站托管和 VPS 方案逐个算出价格。"
+        "Hostinger 的黑色星期五持续到 2026 年 12 月 14 日。活动价会自动生效，在购物车的优惠码栏输入代码 **SONAR20**，可对新的合格方案额外减 20%。24 个月的 KVM 1，总价从 US$ 155.76 降到 US$ 124.61。选择周期之前，请先比较首期总价与续费价格。"
       ]
     },
     {
       "heading": "Hostinger 的黑色星期五已经开始了吗？",
       "paragraphs": [
         "已经开始。Hostinger 官方 FAQ 写道：“Hostinger 黑色星期五促销从 2026 年 10 月 19 日持续到 12 月 14 日。”英文全球页面给出的日期相同。",
-        "2026 年 11 月 16 日，英文全球页面的横幅显示网站托管最高 85% 折扣，VPS 最高 70% 折扣。这是横幅数字，按各方案的原价计算：每个方案实际要付多少，见下面的表格。"
+        "2026 年 11 月 16 日，英文全球页面的横幅显示网站托管最高 85% 折扣，VPS 最高 70% 折扣。这是横幅数字，按各方案的原价计算：每个方案实际要付多少，见下面的各个表。"
       ]
     },
     {
-      "heading": "各方案要付多少：活动价、SONAR20 与续费",
+      "heading": "网站托管：首期要付多少",
       "paragraphs": [
-        "Hostinger 一次性收取整个周期的费用，并折算成每月价格显示。所以表格同时给出这两个数字：折算的月价，以及首个周期实际扣款的总价，分别是使用 SONAR20 前和使用后。最后一列是续费价格，没有活动折扣，也没有优惠码折扣。",
-        "Single 方案在 2026 年 11 月 16 日的英文全球页面上没有列出（只有 Premium、Unlimited 和 Cloud Startup）。一些地区页面仍在销售 Single（1 个网站，10 GB），全球页面在这一天没有显示它，所以表中该行没有价格。"
+        "Hostinger 一次性收取整个周期的费用，并折算成每月价格显示。下单时实际付出的是总价；折算的月价只用来比较方案。",
+        "一些地区页面销售 Single 方案（1 个网站，10 GB），但 2026 年 11 月 16 日的英文全球页面没有显示它，所以它不在下面的各个表中。"
       ],
       "comparisonTable": {
-        "caption": "Hostinger 全球站点，以美元计价。网站托管按 48 个月方案，VPS 按 24 个月方案。SONAR20 后的总价是周期总价再减 20%，与购物车的算法一致。",
+        "caption": "Hostinger 英文全球站点，以美元计价，11 月中旬读取，48 个月方案。我们在购物车里核对了 Cloud Startup；其他方案使用 SONAR20 的总价，是对总价做同样的 20% 计算。",
         "headers": [
-          "方案与周期",
-          "活动价每月",
-          "使用 SONAR20 后每月",
-          "周期总价（活动价）",
-          "使用 SONAR20 后总价",
-          "续费每月"
+          "方案",
+          "未使用 SONAR20 的总价",
+          "使用 SONAR20 的总价",
+          "使用 SONAR20 的折算月价"
         ],
         "rows": [
           [
-            "Single，48 个月（全球页面未列出）",
-            "—",
-            "—",
-            "—",
-            "—",
-            "—"
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)，48 个月",
+            "US$ 95.52",
+            "US$ 76.42",
+            "US$ 1.59"
           ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)，48 个月",
+            "US$ 133.92",
+            "US$ 107.14",
+            "US$ 2.23"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)，48 个月",
+            "US$ 383.52",
+            "US$ 306.82",
+            "US$ 6.39"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "以上价格取自 2026 年 11 月 16 日的英文全球站点，以美元计价。购物车在填写账单地址之前显示的预估税额为 0%，所以之后可能会加上当地税费。换算成其他货币只是估算。使用 SONAR20 后的总价是周期总价减去 20%，精确到分。用四舍五入后的月价来算，会差出几分钱，与实际扣款对不上。",
+        "我们在不登录的情况下核对了购物车：2026 年 11 月 16 日的 24 个月 KVM 1，已应用优惠码 SONAR20，总价从 US$ 155.76 降到 US$ 124.61；2026 年 11 月 7 日的 48 个月 Cloud Startup，从 US$ 383.52 降到 US$ 306.82。其他方案的数字是同一算法：页面总价减 20%。购物车会在付款前显示折扣：请核对你自己的。"
+      ]
+    },
+    {
+      "heading": "VPS：首期要付多少",
+      "paragraphs": [
+        "VPS 方面，我们读取的活动周期是 24 个月，同样一次性收取。"
+      ],
+      "comparisonTable": {
+        "caption": "Hostinger 英文全球站点，以美元计价，11 月中旬读取，24 个月方案。我们在购物车里核对了 KVM 1；其他方案使用 SONAR20 的总价，是对页面总价做 20% 计算。",
+        "headers": [
+          "方案",
+          "未使用 SONAR20 的总价",
+          "使用 SONAR20 的总价",
+          "使用 SONAR20 的折算月价"
+        ],
+        "rows": [
+          [
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)，24 个月",
+            "US$ 155.76",
+            "US$ 124.61",
+            "US$ 5.19"
+          ],
+          [
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)，24 个月",
+            "US$ 210.96",
+            "US$ 168.77",
+            "US$ 7.03"
+          ],
+          [
+            "[VPS KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)，24 个月",
+            "US$ 311.76",
+            "US$ 249.41",
+            "US$ 10.39"
+          ],
+          [
+            "[VPS KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)，24 个月",
+            "US$ 623.76",
+            "US$ 499.01",
+            "US$ 20.79"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "**更短的周期。** 以 KVM 1 为例，使用 SONAR20 后，24 个月是 US$ 124.61（每月 US$ 5.19，续费每月 US$ 11.99），12 个月是 US$ 67.10（每月 US$ 5.59，续费每月 US$ 12.99），1 个月是 US$ 7.99（续费每月 US$ 19.49）。周期越短，每月越贵，续费价也更高。同一天，在另一个地区商店的 Premium 购物车里，代码在 12、24 和 48 个月都被接受，在没有活动价的 1 个月方案上被拒绝。想按月付款的人，请先在购物车里试一下代码，再决定是否指望它。"
+      ]
+    },
+    {
+      "heading": "续费：各方案之后要付多少",
+      "paragraphs": [
+        "续费没有活动折扣，也没有优惠码折扣。选择之前请比较这两列：这是你现在付的，与继续使用要付的之间的差别。"
+      ],
+      "comparisonTable": {
+        "caption": "Hostinger 全球站点在 11 月中旬公布的每月价格：活动价（未用优惠码），以及续费价。",
+        "headers": [
+          "方案",
+          "活动的折算月价（未用优惠码）",
+          "公布的每月续费价"
+        ],
+        "rows": [
           [
             "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)，48 个月",
             "US$ 1.99",
-            "US$ 1.59",
-            "US$ 95.52",
-            "US$ 76.42",
             "US$ 10.99"
           ],
           [
             "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)，48 个月",
             "US$ 2.79",
-            "US$ 2.23",
-            "US$ 133.92",
-            "US$ 107.14",
             "US$ 16.99"
           ],
           [
             "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)，48 个月",
             "US$ 7.99",
-            "US$ 6.39",
-            "US$ 383.52",
-            "US$ 306.82",
             "US$ 25.99"
           ],
           [
             "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)，24 个月",
             "US$ 6.49",
-            "US$ 5.19",
-            "US$ 155.76",
-            "US$ 124.61",
             "US$ 11.99"
           ],
           [
             "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)，24 个月",
             "US$ 8.79",
-            "US$ 7.03",
-            "US$ 210.96",
-            "US$ 168.77",
             "US$ 14.99"
           ],
           [
             "[VPS KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)，24 个月",
             "US$ 12.99",
-            "US$ 10.39",
-            "US$ 311.76",
-            "US$ 249.41",
             "US$ 28.99"
           ],
           [
             "[VPS KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)，24 个月",
             "US$ 25.99",
-            "US$ 20.79",
-            "US$ 623.76",
-            "US$ 499.01",
             "US$ 49.99"
           ]
         ]
       },
+      "postParagraphs": [
+        "**续费。** SONAR20 的 20% 适用于新的合格方案，已经是客户、购买新方案的人也适用。已有方案的续费和单独注册域名，代码不提供折扣。例如，24 个月的 KVM 1 按同样的周期续费，每月 US$ 11.99；其他方案的续费周期，我们没有读取。完整的续费计算见 [Hostinger 续费与 SONAR20](/zh-hans/reviews/hostinger-renewal-sonar20-zh-hans)。",
+        "代码填在哪里，一步一步的说明见 [Hostinger 优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
+      ],
       "image": {
         "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-zh-hans.webp",
         "alt": "Hostinger 各套餐每月价格的柱状图，比较首期与续费：主机有 Premium、Unlimited、Cloud Startup，VPS 有 KVM 1、2、4、8；每个套餐的续费价都更高",
         "caption": "每个套餐两根柱子：首期与续费的每月价格。由 Em Casa com Cecília 依据 Hostinger 页面上的价格制作的表格。",
         "objectFit": "contain",
         "aspectRatio": 1
-      },
-      "postParagraphs": [
-        "以上价格取自 2026 年 11 月 16 日的英文全球站点，以美元计价。购物车在填写账单地址之前显示的预估税额为 0%，所以之后可能会加上当地税费。换算成其他货币只是估算。使用 SONAR20 后的总价是周期总价减去 20%，精确到分。用四舍五入后的月价来算，会差出几分钱，与实际扣款对不上。",
-        "我们在不登录的情况下核对了购物车：2026 年 11 月 16 日的 24 个月 KVM 1，已应用优惠码 SONAR20，总价从 US$ 155.76 降到 US$ 124.61；2026 年 11 月 7 日的 48 个月 Cloud Startup，从 US$ 383.52 降到 US$ 306.82。其他方案的数字是同一算法：页面总价减 20%。购物车会在付款前显示折扣：请核对你自己的。",
-        "**更短的周期。** 以 KVM 1 为例，使用 SONAR20 后，24 个月是 US$ 124.61（每月 US$ 5.19，续费每月 US$ 11.99），12 个月是 US$ 67.10（每月 US$ 5.59，续费每月 US$ 12.99），1 个月是 US$ 7.99（续费每月 US$ 19.49）。周期越短，每月越贵，续费价也更高。同一天，在另一个地区商店的 Premium 购物车里，代码在 12、24 和 48 个月都被接受，在没有活动价的 1 个月方案上被拒绝。想按月付款的人，请先在购物车里试一下代码，再决定是否指望它。",
-        "**续费。** SONAR20 的 20% 适用于新购，已经是客户、购买新方案的人也适用。已有方案的续费和单独注册域名，代码不提供折扣。例如，24 个月的 KVM 1 按同样的周期续费，每月 US$ 11.99。完整的续费计算见 [Hostinger 续费与 SONAR20](/zh-hans/reviews/hostinger-renewal-sonar20-zh-hans)。",
-        "代码填在哪里，一步一步的说明见 [Hostinger 优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
-      ]
+      }
     },
     {
       "heading": "网站托管选哪个：Premium、Unlimited 还是 Cloud Startup",
@@ -166,13 +214,13 @@
       ],
       "postParagraphs": [
         "**Node.js 会改变选择。** 按 Hostinger 的限制文档，Premium 没有 Node.js 网站。例如要发布 Next.js 项目，就从 Unlimited 或 Cloud 方案开始。WordPress 或 PHP 网站在这三个方案里都能放。",
-        "负责本站的 Bruno 从 2024 年起就是 Hostinger 客户，有网站托管、VPS KVM 2、邮箱和域名。Em Casa com Cecília 运行在他 2024 年购买的 Business 合同上，使用 Node.js。按现在的方案表，Hostinger 在大多数页面把原来的 Business 作为 Unlimited 销售，而原来的 Business 客户保留自己的方案和限制。也就是说，他的使用经验适用于现在的 Unlimited 或 Cloud，不适用于 Premium。"
+        "负责本站的 Bruno 从 2024 年起就是 Hostinger 客户，有网站托管、VPS KVM 2、邮箱和域名。Em Casa com Cecília 运行在他 2024 年购买的 Business 合同上，使用 Node.js。按现在的方案表，Hostinger 在大多数页面把原来的 Business 作为 Unlimited 销售，而原来的 Business 客户保留自己的方案和限制。本站的使用经验来自他 2024 年的 Business 合同。现在要购买的话，请查看 Unlimited 和 Cloud 的功能与限制；本站没有测试过，目前的方案是否等同于那份合同。"
       ]
     },
     {
       "heading": "VPS 选哪个：KVM 1、2、4 还是 8",
       "paragraphs": [
-        "VPS 适合需要在面板之外安装程序、预留 CPU 和内存，或以 root 身份访问服务器的人。如果这三个问题的答案都是“不”，共享托管就够了，而且更便宜：对比见 [VPS 还是共享托管](/zh-hans/reviews/vps-or-shared-hosting-zh-hans)。"
+        "VPS 适合需要在面板之外安装程序、预留 CPU 和内存，或以 root 身份访问服务器的人。如果你不需要这些功能，请先比较网站托管；网站托管和 VPS 的价格与责任范围不同：对比见 [VPS 还是共享托管](/zh-hans/reviews/vps-or-shared-hosting-zh-hans)。"
       ],
       "images": [
         {
@@ -197,8 +245,7 @@
         "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)：8 个核心，32 GB 内存，400 GB。适合代理商和很吃内存的应用。"
       ],
       "postParagraphs": [
-        "**用来运行 OpenClaw。** 如果模型在服务器之外，通过 API 密钥或额度调用，代理本身很轻，KVM 1 就可以作为起点。本地模型则是另一回事。OpenClaw 文档说，内存取决于模型、上下文长度，以及机器上还运行着什么。它记录的本地配置使用 64K 上下文，其中最小的一档要求服务器至少有 8 GiB 内存；更大的要求更多，文档也提醒，这个下限并不保证模型放得下，更不保证跑得快。",
-        "按这把尺子来看：4 GB 的 KVM 1 低于下限。KVM 2 有 8 GB，约 7.5 GiB，正好在边缘，留给系统和 Docker 的余量不够。KVM 4 和 KVM 8 才能为这个较小的配置留出余量。KVM 系列运行在 vCPU 上，没有列出独立 GPU，所以大型本地模型不是它们的用途。具体步骤见[适合 OpenClaw 的最佳 VPS](/zh-hans/reviews/best-vps-for-openclaw-zh-hans)。"
+        "**用来运行 OpenClaw：**模型通过 API 调用时，KVM 1 可以作为起点。如果打算在自己的服务器上运行模型，请按模型、上下文和可用内存来选择配置。OpenClaw 文档提醒，内存下限并不保证运行得快。为这个用途下单之前，请先看[适合 OpenClaw 的最佳 VPS](/zh-hans/reviews/best-vps-for-openclaw-zh-hans)。"
       ]
     },
     {
@@ -213,10 +260,10 @@
       "heading": "付款前如何核对",
       "bullets": [
         "打开[本站商店页面上的 Hostinger](/zh-hans/coupons/hostinger)，复制代码 SONAR20。",
-        "在购物车的优惠码栏粘贴 SONAR20，看到 20% 的折扣出现在活动价之上。",
+        "在购物车的优惠码栏粘贴 SONAR20，确认 20% 的折扣出现在你选的方案和周期上。",
         "比较第一个周期的总价，而不只是每月价格。总价才能显示真实差别。",
         "结账前先换一下周期：不同期限的折算月价可能相同，而周期决定续费什么时候到来。",
-        "结账前先看续费价格。Hostinger 会在付款前显示，而且它不是活动价。SONAR20 的 20% 适用于所有新购，已经是客户的人也一样；续费按标价收费。"
+        "结账前先看续费价格。Hostinger 会在付款前显示，而且它不是活动价。SONAR20 的 20% 适用于新的合格方案，已经是客户的人购买新方案也一样；续费按标价收费。"
       ],
       "postParagraphs": [
         "付款前，公司的口碑记录见 [Hostinger 的 Trustpilot 评价](/zh-hans/reviews/hostinger-trustpilot-reviews-zh-hans)，保障涵盖什么、不涵盖什么，见[Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
@@ -226,22 +273,22 @@
       "heading": "常见问题",
       "bullets": [
         "Hostinger 的黑色星期五什么时候开始，持续多久？已经开始，持续到 12 月中旬；确切日期在文章开头的快速回答里。英文全球页面显示网站托管最高 85% 折扣，VPS 最高 70% 折扣。",
-        "Hostinger 的黑色星期五有优惠码吗？活动价会自动生效，在购物车的优惠码栏输入代码 SONAR20，可在此基础上再减 20%。我们不提其他网站的代码。",
+        "Hostinger 的黑色星期五有优惠码吗？活动价会自动生效；在购物车的优惠码栏输入 SONAR20，可对新的合格方案额外减 20%。",
         "黑色星期五该买 Hostinger 的哪个方案？一个网站，选 Premium。需要 Node.js 或很多网站，选 Unlimited。流量高，选 Cloud Startup。只有需要 root、面板之外的程序或预留内存时才选 VPS。Single 只在部分地区页面销售。",
         "Hostinger 的 Premium 方案能运行 Node.js 吗？不能。按 Hostinger 的限制文档，Node.js 网站从 Unlimited 起，最多 5 个，Cloud 方案最多 10 个。",
-        "哪个 Hostinger VPS 适合 OpenClaw？模型通过 API 密钥调用，选 KVM 1。本地模型的话，OpenClaw 文档记录的最小配置要求 8 GiB 内存：KVM 2 正好在边缘，KVM 4 有余量。",
+        "哪个 Hostinger VPS 适合 OpenClaw？模型通过 API 调用时，KVM 1 可以作为起点。要在自己的服务器上运行模型，要看模型、上下文和可用内存：下单之前，请先看 OpenClaw 指南。",
         "黑色星期五的价格续费时还有效吗？没有。它只适用于订阅的首个周期。续费按方案的正常价格收取。",
-        "SONAR20 能和黑色星期五价格一起用吗？可以：20% 是从活动价里减的。由于价格会变，请在购物车里核对总价。",
+        "SONAR20 能和黑色星期五价格一起用吗？可以，适用于新的合格方案：20% 是从活动价里减的。由于价格会变，请在购物车里核对总价。",
         "SONAR20 能用在 1 个月的方案上吗？看方案。我们在 11 月中旬的测试中，代码在 1 个月的 KVM 1 上被接受，在另一个地区商店的 1 个月 Premium 上被拒绝；请在你自己的购物车里试。",
         "黑色星期五期间退款保障有效吗？FAQ 说符合条件的方案有 30 天保障，附带条款和例外。不涵盖的内容见[Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。",
-        "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
+        "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，只要你购买的是新的合格方案。SONAR20 不会减免现有方案的续费，也不适用于单独的域名注册。请在你选的方案和周期上确认折扣是否生效。"
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在购物车输入 SONAR20：活动价上再减 20%。付款前核对总价和续费。",
+    "text": "在购物车输入 SONAR20：对新的合格方案额外减 20%。付款前核对总价和续费。",
     "label": "查看折扣套餐",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -271,7 +318,7 @@
   ],
   "decision": {
     "takeIf": [
-      "你要购买新方案，并想把活动价锁定在你打算使用的最长周期上。",
+      "你要购买新方案，并已按打算维持项目的时间选好周期。",
       "你知道哪个方案适合你的项目：WordPress 选 Premium，Node.js 选 Unlimited 或 Cloud。",
       "你已经看过续费价格，而且第一个周期结束后它仍在你的预算之内。"
     ],
