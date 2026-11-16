@@ -44,7 +44,8 @@ redação ainda: o Bruno pediu a pesquisa semente.
   aplicado". Print: `/images/reviews/baw/cupom-baw-carrinho-com-cupom.webp`.
 - **Card de estilo:** BW5, se falar de peças, é artigo de roupa e leva o `styling` (entrada em
   `scripts/styling-required.json`). BW1 a BW4 e BW6 são cupom e reputação: sem card.
-- **Experiência própria:** sem resposta do Bruno ainda (seção 7). Até lá, só fontes públicas.
+- **Experiência própria: não há.** A Cecília não recebeu nem usa peça da BAW (Bruno, 16/11: "só fontes públicas"). Os
+  seis textos saem só com fontes públicas, sem "testamos" nem impressão de uso.
 
 ## 3. Reclame Aqui (lido em 16/11/2026)
 
@@ -128,7 +129,7 @@ bawclothing.com.br, 11 anos no Reclame Aqui.
 
 ## 7. Perguntas para o Bruno
 
-1. A Cecília recebeu ou usa alguma peça da BAW? Sem isso, a BW5 sai só com fontes públicas.
+1. ~~A Cecília recebeu ou usa alguma peça da BAW?~~ **Respondido em 16/11: não, só fontes públicas.**
 2. A parceira passou datas ou regras da Black Friday (e o que quer dizer "a última Black Friday da BAW")?
 3. Existe valor mínimo ou limite de usos do código?
 
