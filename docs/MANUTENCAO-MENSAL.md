@@ -79,6 +79,8 @@ Decisão do Bruno de 12/11/2026: todas as ofertas voltam a ser testadas todo mê
 de cupons no dia 1; não há tarefa agendada. A primeira rodada por esta regra é a de 01/12/2026, e nela
 se mede o tempo gasto.
 
+- **Ordem da fila (Bruno, 16/11/2026):** primeiro as lojas que o `npm run test:coupon-offer-modes` aponta
+  no aviso de 45 dias sem teste; depois o resto.
 - **Começa no dia 1 e não precisa acabar nem ir ao ar no mesmo dia.** Loja testada no dia 3 recebe a
   data do dia 3.
 - **A data só avança onde a conferência aconteceu.** Site bloqueado ou carrinho que falhou: a loja fica
@@ -100,8 +102,10 @@ se mede o tempo gasto.
   `validate:yesstyle` confere os nossos dados; não prova que a loja aceitou o código.
 - **Sem login, sem cadastro e sem finalizar compra.** Site que bloqueia robôs (Petz) vai pelo navegador.
 - **Campanhas com prazo** seguem com a revisão no vencimento; a rodada complementa.
-- **O que sai de cada rodada:** uma linha de evidência por loja (data, produto, valores, CEP e o que
-  mudou), a lista de pendências e um PR só com os dados conferidos. Mudança de regra que afeta artigo
+- **O que sai de cada rodada:** um arquivo `docs/rodadas/AAAA-MM.md` (Bruno, 16/11/2026), copiado de
+  `docs/rodadas/MODELO.md`, com uma linha por loja: data, produto, preço antes e depois do código,
+  resultado (aceito ou não), CEP e o que mudou. As pendências ficam no mesmo arquivo. Ele vira o corpo do
+  PR da rodada, que leva só os dados conferidos, e fica no repositório como histórico. Mudança de regra que afeta artigo
   vai por handoff à sessão de artigos. Deploy só com o GO do Bruno.
 - **O que a rodada não promete:** teste novo não garante a data que o Google ou as IAs mostram. O teste
   é da equipe, e as páginas seguem atribuindo ao site, não à Cecília pessoalmente.
