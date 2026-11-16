@@ -28,6 +28,7 @@ npm run test:language-suggestion  # faixa de sugestão de idioma: idioma do nave
 npm run test:home-stores     # vitrine da home, "Acabou de sair" e subpáginas /reviews/loja/<slug>
 npm run test:reviews-hub     # estante de /reviews e das subpáginas: busca sem acento, ordem, URL, Novidades, bolinhas (com a Outros) e a página /reviews/outros, páginas de 12 e 24, medição e os componentes
 npm run test:review-stores   # artigo de várias lojas (`affiliate` em lista, src/lib/reviewStores.ts) nas listagens: abas e ordem das bolinhas da home, /reviews e subpáginas, Outros, rótulo do cartão, busca, relacionados, data comercial, vídeo e snippet
+npm run test:affiliate-stores  # afiliados sem página (src/lib/affiliateStores.ts): slug fora de couponsData.ts e de `outros`, link https, idiomas do site e os helpers
 npm run test:videos-hub      # /videos e as páginas de vídeo: destaque e ordem pela data, chips de loja e ?loja=, duração, origem e botão da loja, Mais vídeos, canal, medição e os componentes
 npm run test:home-events     # datas comerciais: content/home-events.json, a faixa e a página da data
 npm run test:home-lower-sections  # receitas, Explore a casa (com o carrossel de ofertas do feed) e vídeos da home, e que o page.js passa as ofertas ao Explore a casa e monta os Vídeos
@@ -82,6 +83,7 @@ aconteceu:
 | Receitas e reviews | `content/receitas/*.json`, `content/reviews/*.json` + `_manifest.json` |
 | Tipos do conteúdo | `src/lib/content/types.ts` |
 | Cupons | `src/lib/couponsData.ts` (união `discount-code \| affiliate-link`) |
+| Afiliados sem página (hoje a Shopee) | `src/lib/affiliateStores.ts`: loja só com o link de afiliado, sem página em `/cupons` nem bolinha; só o artigo de várias lojas lê. Loja que ganha página vai para `couponsData.ts` |
 | Cupons em outros idiomas (hoje a SHEIN e a Hostinger) | `src/lib/couponTranslations.ts`: só texto e, quando a loja tem, o link internacional (`offerUrl`); códigos, datas e campanhas vêm do cupom em PT. Aceita loja de link e de código (a de código segue a `CODE_FIELD_POLICY`, e texto sem tradução some da página do idioma). Textos da interface da página de loja em `src/components/coupons/couponStoreCopy.tsx` |
 | YesStyle: código de recompensa e cupons da loja | `data/coupons/yesstyle.json`, lido por `src/lib/yesstyleCoupons.ts`. Textos dos 10 idiomas em `src/components/coupons/yesstyleCopy.ts`, juntados aos dados em `yesstylePage.ts`. Manutenção na seção 3 de `docs/MANUTENCAO-MENSAL.md` |
 | Locales e clusters i18n | `src/lib/i18n/locales.ts` e `src/lib/i18n/clusters/` |
