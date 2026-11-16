@@ -180,3 +180,5 @@ Folha de aprovação mostrada no chat; upload ao CDN autorizado e verificado no 
 ## Revisão externa (Farol, 16/11/2026)
 
 Parecer colado pelo Bruno e aplicado no mesmo dia: saiu a instrução de medir a calça de duas formas; as diferenças de preço da Selfie frente à Goth e do Hoodie frente ao Basic Label ficaram explícitas; a Linus aparece como sandália; links oficiais do Hoodie, da bermuda e da Linus; legenda da tabela sem data, com os três preços separados.
+
+Segunda rodada do Farol (16/11/2026): o quadro de decisão fala no tamanho daquela peça, sem "o seu tamanho na marca".

@@ -35,7 +35,7 @@
     ],
     "skipIf": [
       "A compra depende de trocar de tamanho depois: a troca vira crédito na loja.",
-      "A descrição da peça está vazia e você ainda não conhece o seu tamanho na marca."
+      "Você ainda não conhece o tamanho dessa peça e a descrição não traz medidas para conferir."
     ]
   },
   "cta": {

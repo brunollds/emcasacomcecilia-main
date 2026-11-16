@@ -134,3 +134,7 @@ Folha de aprovação mostrada no chat; upload ao CDN autorizado no mesmo dia. Ca
 
 - Capa `/images/reviews/baw/baw-clothing-reclame-aqui-nota-reputacao-capa.webp`: primeira foto do Moletom Hoodie BAW Subscript preto (produto 151918), chamada "BAW no Reclame Aqui" e o código.
 - Corpo, "Como evitar dor de cabeça": `baw-clothing-reclame-aqui-moletom-hoodie-subscript.webp`, segunda foto da mesma página. O print dos indicadores do perfil não entrou: a tabela leva os números.
+
+## Revisão externa (Farol, 16/11/2026)
+
+Parecer colado pelo Bruno depois do merge do #1061 e aplicado no mesmo dia: o índice de solução e o "voltariam a fazer negócio" passam a dizer que valem para as reclamações avaliadas (metodologia do Reclame Aqui, conferida no manual da plataforma); saiu a promessa de "evitar" problema (subtítulo, snippet e título da seção); links para o perfil, as políticas e a central de ajuda.

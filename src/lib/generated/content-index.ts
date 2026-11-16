@@ -245329,7 +245329,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "A compra depende de trocar de tamanho depois: a troca vira crédito na loja.",
-        "A descrição da peça está vazia e você ainda não conhece o seu tamanho na marca."
+        "Você ainda não conhece o tamanho dessa peça e a descrição não traz medidas para conferir."
       ]
     },
     "cta": {
@@ -245632,8 +245632,8 @@ export const reviewsData: unknown[] = [
     "title": "BAW Clothing no Reclame Aqui: nota, reputação e o que mais gera reclamação",
     "seoTitle": "BAW Clothing no Reclame Aqui: nota e reclamações",
     "type": "Análise de Reputação",
-    "description": "A nota da BAW Clothing no Reclame Aqui, os números por trás dela, as queixas mais comuns e a regra da loja que ajuda a evitar cada uma.",
-    "metaDescription": "BAWEMCASACOMCECILIA dá 10% OFF na BAW Clothing. Antes, veja a nota no Reclame Aqui, o que mais gera reclamação e como evitar problema na entrega.",
+    "description": "A nota da BAW Clothing no Reclame Aqui, as queixas mais citadas e o que conferir sobre entrega, troca por crédito e devolução antes de comprar.",
+    "metaDescription": "BAWEMCASACOMCECILIA dá 10% OFF na BAW Clothing. Veja a nota no Reclame Aqui, as queixas mais citadas e o que conferir sobre entrega e devolução.",
     "image": "/images/reviews/baw/baw-clothing-reclame-aqui-nota-reputacao-capa.webp",
     "imageAlt": "Modelo com o Moletom Hoodie BAW Subscript preto da BAW Clothing, em foto oficial da loja, com o logo da marca, a chamada “BAW no Reclame Aqui” e o código BAWEMCASACOMCECILIA.",
     "cta": {
@@ -245658,13 +245658,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BAW Clothing tem reputação Boa no Reclame Aqui, com nota 7,3 em seis meses. A empresa respondeu todas as reclamações do período e resolveu mais de oito em cada dez, mas pouco mais da metade dos clientes que avaliaram voltaria a comprar. No histórico do perfil, a queixa mais citada é produto não recebido."
+          "A BAW Clothing tem reputação Boa e nota 7,3 no Reclame Aqui. Respondeu todas as reclamações do recorte de seis meses. Entre as avaliadas, mais de oito em dez tiveram o problema considerado resolvido, mas pouco mais da metade voltaria a comprar. No histórico geral do perfil, a principal queixa é produto não recebido."
         ]
       },
       {
         "heading": "A nota em números",
         "paragraphs": [
-          "O perfil “Baw Clothing” mostra os indicadores por período. Na leitura de 16 de novembro de 2026, os dois recortes mais recentes eram o de seis meses, de maio a outubro de 2026, e o de doze meses, de novembro de 2025 a outubro de 2026."
+          "O [perfil Baw Clothing no Reclame Aqui](https://www.reclameaqui.com.br/empresa/baw-clothing/) mostra os indicadores por período. Na leitura de 16 de novembro de 2026, os dois recortes mais recentes eram o de seis meses, de maio a outubro de 2026, e o de doze meses, de novembro de 2025 a outubro de 2026."
         ],
         "comparisonTable": {
           "caption": "Perfil “Baw Clothing” no Reclame Aqui. As janelas de 6 e de 12 meses se sobrepõem.",
@@ -245695,7 +245695,7 @@ export const reviewsData: unknown[] = [
               "100%"
             ],
             [
-              "Resolvidas",
+              "Problema resolvido, entre as avaliadas",
               "83,7%",
               "81,7%"
             ],
@@ -245722,7 +245722,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A nota é igual nos dois recortes, e os percentuais mudam em poucos pontos."
+          "A nota 7,3 é a avaliação calculada pelo Reclame Aqui, e 5,4 e 5,66 são as médias que os consumidores deram ao atendimento. Pela [metodologia da plataforma](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui), o índice de solução e a intenção de voltar a comprar são calculados sobre as reclamações avaliadas, que são menos da metade das recebidas."
         ]
       },
       {
@@ -245746,7 +245746,7 @@ export const reviewsData: unknown[] = [
           "camiseta com qualidade abaixo do esperado."
         ],
         "postParagraphs": [
-          "São relatos de consumidores, publicados no perfil. Aqui eles entram como padrão, sem juízo sobre quem tem razão."
+          "Esses são os temas encontrados nas reclamações recentes consultadas. São relatos dos consumidores; a leitura não permite estimar a frequência de cada problema nem concluir quem tem razão em cada caso."
         ]
       },
       {
@@ -245764,7 +245764,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como evitar dor de cabeça",
+        "heading": "O que conferir antes de comprar",
         "paragraphs": [
           "Entrega, troca e reembolso têm regra publicada pela loja. Vale conhecer antes de pagar:"
         ],
@@ -245772,12 +245772,12 @@ export const reviewsData: unknown[] = [
           "**Prazo.** Simule frete e prazo pelo CEP. Pela política de entrega, o prazo conta do faturamento do pedido, e pedidos de fim de semana são processados no próximo dia útil.",
           "**Promoção.** A política avisa que, em períodos promocionais, os prazos de envio podem mudar. Isso vale para a [Black Friday da BAW](/reviews/black-friday-baw).",
           "**Rastreio.** O código de rastreamento chega por e-mail quando o pedido é enviado.",
-          "**Endereço e cancelamento.** Para endereço errado, a central de ajuda manda falar com o atendimento na hora. Cancelamento só é aceito antes da expedição.",
+          "**Endereço e cancelamento.** Para endereço errado, a central de ajuda orienta falar com o atendimento imediatamente. Ela informa que o cancelamento do pedido só é aceito antes da expedição. Se o pedido já foi enviado, consulte o procedimento de devolução descrito abaixo.",
           "**Tamanho.** As medidas ficam na descrição de cada peça, quando a loja publica, e algumas descrições estão vazias. A loja não troca peça por peça, nem mesmo por tamanho, e a troca vira crédito no valor pago.",
           "**Dinheiro de volta.** Quem quer o reembolso pede a devolução, em até 7 dias corridos do recebimento, com a peça sem uso, com etiqueta e na embalagem original. A primeira troca ou devolução tem frete grátis, e nas seguintes o frete é do cliente."
         ],
         "postParagraphs": [
-          "As regras estão nas páginas de entrega, de trocas e na central de ajuda da loja."
+          "Consulte as páginas de [entrega e frete](https://www.bawclothing.com.br/entrega-e-frete), [trocas e devoluções](https://www.bawclothing.com.br/trocas-e-devolucoes) e a [central de ajuda da BAW](https://www.bawclothing.com.br/central-de-ajuda) para ver as regras completas e acessar os canais da loja."
         ],
         "images": [
           {
@@ -245793,7 +245793,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se der problema",
         "paragraphs": [
-          "Comece pela loja. O pedido de troca ou de devolução é feito no portal de trocas do site, com o e-mail ou o CPF da compra, e o atendimento é por WhatsApp, de segunda a sexta, das 9h às 18h, exceto feriados.",
+          "Para pedir troca ou devolução, acesse o portal indicado na [política da BAW](https://www.bawclothing.com.br/trocas-e-devolucoes), com o e-mail ou o CPF da compra. Para falar com a loja, a [central de ajuda](https://www.bawclothing.com.br/central-de-ajuda) informa atendimento por WhatsApp, de segunda a sexta, das 9h às 18h, exceto feriados.",
           "Depois de receber a peça, a loja faz a análise em até 10 dias úteis e segue com a opção escolhida, reembolso ou crédito. No Pix, a política diz que o reembolso costuma sair em até 10 dias úteis depois da confirmação da devolução. No cartão, o prazo do estorno depende da administradora.",
           "Se a loja não resolver, registre a reclamação no Reclame Aqui com o número do pedido e as datas."
         ]
@@ -245801,7 +245801,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que os números indicam",
         "paragraphs": [
-          "Nos dois recortes, a BAW respondeu todas as reclamações e resolveu a maior parte. Produto não recebido é o problema mais citado, e o estorno aparece entre as queixas recentes. Antes de pagar, vale saber o prazo do seu CEP e a diferença entre troca e devolução.",
+          "Nos dois recortes, todas as reclamações receberam resposta. Entre as avaliadas, mais de 80% tiveram o problema considerado resolvido. Ainda assim, produto não recebido lidera as queixas no histórico geral, e o estorno aparece entre os relatos recentes. Antes de pagar, confira o prazo para seu CEP e como pedir crédito ou reembolso.",
           "De quem é a marca, os CNPJs e as regras de troca em detalhe estão em [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel).",
           "Se decidir comprar, o código BAWEMCASACOMCECILIA dá 10% OFF no site oficial e no aplicativo. As condições estão na [página do código da BAW](/cupons/baw)."
         ]
@@ -245809,7 +245809,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A BAW Clothing é confiável no Reclame Aqui? O perfil tem reputação Boa, com todas as reclamações respondidas e mais de 80% resolvidas nos recortes de seis e de doze meses. Em seis meses, 56,7% de quem avaliou voltaria a comprar.",
+          "A BAW Clothing é confiável no Reclame Aqui? O perfil tem reputação Boa. Todas as reclamações dos recortes de seis e doze meses receberam resposta; entre as avaliadas, mais de 80% tiveram o problema considerado resolvido. No recorte de seis meses, 56,7% de quem avaliou voltaria a comprar.",
           "A BAW responde as reclamações? Sim. Nos dois recortes lidos, 100% das reclamações tiveram resposta, em pouco mais de oito dias, em média.",
           "O que fazer se o pedido da BAW não chegou? Confira o rastreio enviado por e-mail e o prazo, que conta do faturamento. Depois, fale com o atendimento da loja pelo WhatsApp, em dias úteis. Sem solução, registre no Reclame Aqui.",
           "A BAW devolve o dinheiro? Sim, para quem pede a devolução em até 7 dias corridos do recebimento. O reembolso volta pela mesma forma de pagamento da compra. Na troca, o valor vira crédito na loja."
@@ -245869,15 +245869,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BAW Clothing é uma marca brasileira de streetwear, fundada em 2014, com loja própria no site bawclothing.com.br. Tem reputação Boa no Reclame Aqui e respondeu todas as reclamações dos últimos seis meses. O ponto de atenção é a troca, que vira crédito na loja. Quem quer o dinheiro de volta precisa pedir a devolução."
+          "A BAW Clothing é uma marca brasileira de streetwear, fundada em 2014. Tem reputação Boa no Reclame Aqui, mas produto não recebido lidera as queixas no histórico geral do perfil. Antes de comprar, confira o prazo para o seu CEP e a política de trocas. A troca gera crédito, e quem prefere o dinheiro de volta pede a devolução."
         ]
       },
       {
         "heading": "De quem é a BAW Clothing",
         "paragraphs": [
-          "A BAW foi fundada em 2014 pelos irmãos Bruno Karra e Lucas Karra. A informação está no fato relevante da Arezzo, citado pelo portal Mercado & Consumo em 2021, quando a empresa confirmou a compra da marca por R$ 105 milhões. Segundo o mesmo texto, a operação ficou dentro da AR&Co, o braço de vestuário do grupo, liderado pelo fundador da Reserva. Por isso, a resposta a “BAW é da Reserva?” e a “BAW é da Arezzo?” é que ela foi do grupo.",
-          "Em fevereiro de 2025, o NeoFeed noticiou que a BAW estava deixando o grupo dono da Arezzo e voltando para os fundadores, e a FashionUnited publicou que a Azzas 2154 revendeu a marca aos ex-donos. Em 2026, o Pipeline, do Valor, escreveu que os irmãos recompraram o controle da BAW, que Bruno Karra é o CEO e que a marca é paulistana.",
-          "Dessas três reportagens, lemos os títulos e os trechos abertos ao público. Por eles, o controle da BAW voltou aos fundadores em 2025, e a marca deixou o grupo da Arezzo."
+          "A BAW foi fundada em 2014 pelos irmãos Bruno Karra e Lucas Karra. Em 2021, a Arezzo confirmou a compra por R$ 105 milhões, segundo o [Mercado & Consumo](https://mercadoeconsumo.com.br/11/06/2021/ecommerce/arezzo-confirma-aquisicao-da-baw-clothing-por-r-105-milhoes/). A operação ficou na AR&Co, braço de vestuário do grupo, liderado por Rony Meisler, fundador da Reserva.",
+          "Em 2025, o [NeoFeed noticiou a revenda da BAW aos ex-donos](https://neofeed.com.br/negocios/azzas-2154-enxuga-portfolio-e-revende-a-baw-para-ex-donos/). A marca, portanto, foi do grupo da Arezzo e voltou aos fundadores. Em 2026, o Pipeline, do Valor, também informou que os irmãos recompraram o controle e que Bruno Karra é o CEO."
         ]
       },
       {
@@ -245890,20 +245889,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A reputação em resumo",
         "paragraphs": [
-          "No Reclame Aqui, a BAW tem reputação Boa e nota 7,3 no recorte de seis meses. Todas as reclamações do período foram respondidas, 83,7% foram resolvidas e 56,7% de quem avaliou voltaria a comprar. Os números completos, o histórico e as queixas mais comuns estão em [BAW Clothing no Reclame Aqui](/reviews/baw-clothing-reclame-aqui-nota-reputacao)."
+          "No Reclame Aqui, a BAW tem reputação Boa e nota 7,3 no recorte de seis meses. Todas as reclamações do período receberam resposta. Entre as avaliadas, 83,7% tiveram o problema considerado resolvido e 56,7% dos consumidores voltariam a comprar. Os números completos, o histórico e as queixas mais comuns estão em [BAW Clothing no Reclame Aqui](/reviews/baw-clothing-reclame-aqui-nota-reputacao)."
         ]
       },
       {
         "heading": "Entrega: prazo e rastreio",
         "paragraphs": [
-          "O frete e o prazo saem pelo CEP, no carrinho. Pela política de entrega, o prazo conta do faturamento do pedido, e pedidos feitos no fim de semana são processados no próximo dia útil. O código de rastreamento chega por e-mail.",
+          "O frete e o prazo saem pelo CEP, no carrinho. Pela [política de entrega da BAW](https://www.bawclothing.com.br/entrega-e-frete), o prazo conta do faturamento do pedido, e pedidos feitos no fim de semana são processados no próximo dia útil. O código de rastreamento chega por e-mail.",
           "A mesma página avisa que, em períodos promocionais, os prazos de envio podem mudar. Para presente com data marcada, confira o prazo antes de pagar."
         ]
       },
       {
         "heading": "Troca vira crédito, devolução devolve o dinheiro",
         "paragraphs": [
-          "Pela política de trocas e devoluções da loja, lida em 16 de novembro de 2026, a troca e a devolução têm o mesmo prazo e resultados diferentes:"
+          "Pela [política de trocas e devoluções da BAW](https://www.bawclothing.com.br/trocas-e-devolucoes), lida em 16 de novembro de 2026, a troca e a devolução têm o mesmo prazo e resultados diferentes:"
         ],
         "bullets": [
           "**Prazo.** Até 7 dias corridos do recebimento, para troca ou devolução. A página cita o Código de Defesa do Consumidor, que garante o direito de arrependimento nas compras feitas pela internet.",
@@ -245914,7 +245913,7 @@ export const reviewsData: unknown[] = [
           "**Defeito.** O prazo para devolução por defeito é de até 90 dias corridos."
         ],
         "postParagraphs": [
-          "Quem errou o tamanho recebe crédito e faz um pedido novo, sujeito ao estoque. Quem não quer crédito pede a devolução, dentro dos 7 dias. As medidas ficam na descrição de cada peça, quando a loja publica, e algumas descrições estão vazias."
+          "Se o tamanho não servir, você pode pedir a troca por crédito e fazer um novo pedido, sujeito à disponibilidade da peça, ou solicitar a devolução com reembolso dentro dos 7 dias. As medidas ficam na descrição de cada peça, quando a loja publica, e algumas descrições estão vazias."
         ],
         "images": [
           {
@@ -245936,7 +245935,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como falar com a BAW",
         "paragraphs": [
-          "O canal informado na central de ajuda é o WhatsApp, de segunda a sexta, das 9h às 18h, exceto feriados. A mesma página diz que cancelamento só é aceito antes da expedição e que, em caso de endereço errado, é preciso falar com o atendimento na hora."
+          "A [central de ajuda da BAW](https://www.bawclothing.com.br/central-de-ajuda) informa atendimento por WhatsApp, de segunda a sexta, das 9h às 18h, exceto feriados. Para endereço errado, a orientação é falar com a loja imediatamente. A página limita o cancelamento à fase anterior à expedição; depois do envio, consulte o procedimento de devolução descrito acima."
         ]
       },
       {
@@ -245954,7 +245953,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale comprar na BAW Clothing?",
         "paragraphs": [
-          "Os dados públicos mostram uma marca com mais de dez anos, fundadores identificados pela imprensa, CNPJ no rodapé e todas as reclamações dos últimos doze meses respondidas no Reclame Aqui. O cuidado fica com o tamanho, porque a troca vira crédito, e com o prazo de entrega em época de promoção.",
+          "A BAW tem uma trajetória documentada e reputação Boa no Reclame Aqui. Todas as reclamações dos recortes analisados receberam resposta, mas isso não garante uma compra sem problemas: produto não recebido lidera as queixas no histórico geral, e pouco mais da metade de quem avaliou em seis meses voltaria a comprar. Se decidir fazer o pedido, confira o prazo para seu CEP e as medidas da peça; se precisar devolver, escolha entre crédito e reembolso conforme a política.",
           "Se decidir comprar, o código BAWEMCASACOMCECILIA dá 10% OFF no site oficial e no aplicativo. As condições estão na [página do código da BAW](/cupons/baw), e o passo a passo, em [como usar o cupom da BAW](/reviews/cupom-baw-como-usar)."
         ]
       },
