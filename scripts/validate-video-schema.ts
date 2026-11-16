@@ -5,7 +5,7 @@ import { validateMediaAssetAvailability } from './media/video-asset-proof.mjs';
 import { recipes, reviews } from '@/lib/data';
 import sitemap from '@/app/sitemap';
 import { buildRecipeTemplateProps } from '@/lib/recipe-template-props';
-import { buildReviewTemplateProps } from '@/lib/review-template-props';
+import { buildReviewTemplateProps, getArticleNode } from '@/lib/review-template-props';
 import {
   getVideoMeta,
   getYoutubeEmbedUrl,
@@ -226,7 +226,7 @@ for (const review of reviews) {
         'review',
         review.slug,
         review.youtubeUrl,
-        jsonLd.video as VideoSchema | undefined
+        getArticleNode(jsonLd).video as VideoSchema | undefined
       );
     }
   }
@@ -277,7 +277,7 @@ for (const review of reviews) {
       review.slug,
       sourceUrl,
       metadata,
-      jsonLd.video as VideoSchema | undefined
+      getArticleNode(jsonLd).video as VideoSchema | undefined
     );
   }
 

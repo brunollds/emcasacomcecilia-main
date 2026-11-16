@@ -55,9 +55,18 @@ export function resolveRelatedArticleLinks(review, reviewCorpus = publishedRevie
   });
 }
 
+/**
+ * O nó do artigo no JSON-LD da página: o próprio Article ou, no artigo com nota, o Review dentro do Product.
+ * @param {Record<string, any>} jsonLd
+ * @returns {Record<string, any>}
+ */
+export function getArticleNode(jsonLd) {
+  return jsonLd['@type'] === 'Product' ? jsonLd.review : jsonLd;
+}
+
 export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews) {
   const canonicalRating = review.rating ?? review.verdict?.stars;
-  // Review só com nota: sem reviewRating e itemReviewed o Google recusa o Review, e o artigo sai como Article.
+  // Review só com nota: sem reviewRating e sem o produto avaliado o Google recusa o Review, e o artigo sai como Article.
   const hasRating = typeof canonicalRating === 'number';
   const youtubeEmbedUrl = getYoutubeEmbedUrl(review.youtubeUrl);
   const relatedArticleLinks = resolveRelatedArticleLinks(review, reviewCorpus);
@@ -114,8 +123,8 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
     ].map((crumb, index) => ({ '@type': 'ListItem', position: index + 1, ...crumb })),
   };
 
-  const jsonLd = {
-    '@context': 'https://schema.org',
+  const imageUrl = review.image ? new URL(resolveMediaUrl(review.image), baseUrl).toString() : undefined;
+  const articleNode = {
     '@type': hasRating ? 'Review' : 'Article',
     name: review.title,
     headline: review.title,
@@ -134,32 +143,31 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
         url: publisherLogoUrl,
       },
     },
-    image: review.image ? new URL(resolveMediaUrl(review.image), baseUrl).toString() : undefined,
+    image: imageUrl,
     ...(videoJsonLd && { video: videoJsonLd }),
-    ...(hasRating
-      ? {
-          reviewRating: {
-            '@type': 'Rating',
-            ratingValue: canonicalRating,
-            bestRating: 5,
-            worstRating: 1,
-          },
-          itemReviewed: {
-            '@type': 'Product',
-            name: review.productName || review.title,
-            ...(productBrand
-              ? {
-                  brand: {
-                    '@type': 'Brand',
-                    name: productBrand,
-                  },
-                }
-              : {}),
-            image: review.image ? new URL(resolveMediaUrl(review.image), baseUrl).toString() : undefined,
-          },
-        }
-      : {}),
+    ...(hasRating && {
+      reviewRating: {
+        '@type': 'Rating',
+        ratingValue: canonicalRating,
+        bestRating: 5,
+        worstRating: 1,
+      },
+    }),
   };
+
+  // Com nota, o nó da página é o Product e o Review vai dentro dele, em `review`. O Google confere também o
+  // Product sozinho: aninhado em itemReviewed, sem offers, review nem aggregateRating, ele saía inválido nos
+  // "Snippets do produto". Preço e nota agregada o site não tem, e não se inventam.
+  const jsonLd = hasRating
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'Product',
+        name: review.productName || review.title,
+        ...(productBrand && { brand: { '@type': 'Brand', name: productBrand } }),
+        image: imageUrl,
+        review: articleNode,
+      }
+    : { '@context': 'https://schema.org', ...articleNode };
 
   // Toda seção com título de FAQ, como no acordeão, que mostra cada uma delas.
   const faqItems = (review.contentSections ?? [])

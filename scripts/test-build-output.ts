@@ -134,6 +134,59 @@ const jsonLdOf = (html: string) =>
   [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)]
     .map(([, json]) => JSON.parse(json))
     .flatMap((schema) => (Array.isArray(schema['@graph']) ? schema['@graph'] : [schema]));
+// O nó do artigo: o Article ou o Review solto na página e, no artigo com nota, o Review de dentro do Product.
+const articleNodesOf = (html: string) =>
+  jsonLdOf(html)
+    .map((schema) => (schema['@type'] === 'Product' && schema.review ? schema.review : schema))
+    .filter((schema) => ['Article', 'Review', 'Recipe'].includes(schema['@type']));
+
+// O schema do artigo. Com nota, a página leva um Product com o Review dentro, em `review`: o Google confere o
+// Product sozinho e, sem offers, review nem aggregateRating, acusa nos "Snippets do produto". O Review solto, com
+// o Product em itemReviewed, era o formato que dava o erro. Sem nota, um Article e nenhum Product nem Review.
+function assertArticleSchema(pagePath: string, html: string, rated: boolean) {
+  const schemas = jsonLdOf(html);
+  const products = schemas.filter((schema) => schema['@type'] === 'Product');
+  assert.ok(!schemas.some((schema) => schema['@type'] === 'Review'), `${pagePath}: Review solto, fora do Product`);
+  const article = articleNodesOf(html);
+  assert.equal(article.length, 1, `${pagePath}: esperado um Article ou um Review, e são ${article.length}`);
+  assert.match(String(article[0].dateModified ?? ''), /^\d{4}-\d{2}-\d{2}/, `${pagePath}: Article/Review sem dateModified em ISO`);
+  if (!rated) {
+    assert.equal(article[0]['@type'], 'Article', `${pagePath}: artigo sem nota com Review`);
+    assert.equal(products.length, 0, `${pagePath}: artigo sem nota com Product`);
+    return;
+  }
+  assert.equal(products.length, 1, `${pagePath}: artigo com nota sem um Product (são ${products.length})`);
+  const [product] = products;
+  assert.ok(product.name, `${pagePath}: Product sem name`);
+  assert.equal(product.review?.['@type'], 'Review', `${pagePath}: Product sem review`);
+  assert.ok(product.review.reviewRating?.ratingValue, `${pagePath}: Review sem reviewRating`);
+  assert.equal(product.review.itemReviewed, undefined, `${pagePath}: Review dentro do Product com itemReviewed`);
+  // Preço e nota agregada o site não tem.
+  assert.equal(product.offers, undefined, `${pagePath}: Product com offers`);
+  assert.equal(product.aggregateRating, undefined, `${pagePath}: Product com aggregateRating`);
+}
+{
+  const page = (...schemas: object[]) => schemas.map((schema) => `<script type="application/ld+json">${JSON.stringify(schema)}</script>`).join('');
+  const reviewNode = { '@type': 'Review', dateModified: '2026-11-16', reviewRating: { '@type': 'Rating', ratingValue: 4.5 } };
+  const productNode = { '@type': 'Product', name: 'Poltrona' };
+  const articleNode = { '@type': 'Article', dateModified: '2026-11-16' };
+  assertArticleSchema('/fixture', page({ ...productNode, review: reviewNode }), true);
+  assertArticleSchema('/fixture', page(articleNode), false);
+  const broken: Array<[string, boolean, RegExp]> = [
+    [page({ ...reviewNode, itemReviewed: productNode }), true, /Review solto/],
+    [page(productNode, articleNode), true, /Product sem review/],
+    [page({ ...productNode, review: { ...reviewNode, reviewRating: undefined } }), true, /Review sem reviewRating/],
+    [page({ ...productNode, review: { ...reviewNode, itemReviewed: productNode } }), true, /com itemReviewed/],
+    [page({ ...productNode, review: reviewNode, offers: { '@type': 'Offer', price: 1 } }), true, /Product com offers/],
+    [page(articleNode), true, /sem um Product/],
+    [page({ ...productNode, review: reviewNode }), false, /artigo sem nota com Review/],
+    [page(productNode, articleNode), false, /artigo sem nota com Product/],
+    [page({ ...articleNode, dateModified: undefined }), false, /sem dateModified/],
+  ];
+  for (const [html, rated, message] of broken) {
+    assert.throws(() => assertArticleSchema('/fixture', html, rated), message, `schema quebrado passa (${message})`);
+  }
+}
 
 // A Cecília é uma pessoa só no JSON-LD: o Person da /sobre e o das 9 homes de idioma, e a autoria dos
 // artigos e das receitas dela, levam este mesmo @id. O valor está escrito aqui de propósito: um id que
@@ -144,7 +197,7 @@ const personNodesChecked: Record<'sobre' | 'home' | 'artigo' | 'receita', string
 // A autoria de cada Article, Review ou Recipe da página: cada autor que é a Cecília (a url é a /sobre ou o nome
 // é o dela) leva o @id; outro autor, como o Bruno, fica sem @id. Os autores da Cecília conferidos entram em `checked`.
 function assertCeciliaAuthorId(checked: string[], pagePath: string, html: string) {
-  const nodes = jsonLdOf(html).filter((schema) => ['Article', 'Review', 'Recipe'].includes(schema['@type']));
+  const nodes = articleNodesOf(html);
   assert.ok(nodes.length > 0, `${pagePath}: sem Article, Review ou Recipe no JSON-LD`);
   for (const node of nodes) {
     assert.ok(node.author, `${pagePath}: JSON-LD sem autor`);
@@ -180,6 +233,13 @@ function assertCeciliaAuthorId(checked: string[], pagePath: string, html: string
   assert.deepEqual(checkAuthors(jsonLdPage({ '@type': 'Article', author: ceciliaWithId })), ['/fixture'], 'autor certo falha');
   assert.deepEqual(checkAuthors(jsonLdPage({ '@type': 'Review', author: [ceciliaWithId, bruno] })), ['/fixture'], 'autores certos (Cecília e Bruno) falham');
   assert.throws(() => checkAuthors(jsonLdPage({ '@type': 'WebPage' })), /sem Article, Review ou Recipe/, 'página sem nó de autoria passa');
+  // O Review do artigo com nota fica dentro do Product, e é conferido ali.
+  assert.deepEqual(checkAuthors(jsonLdPage({ '@type': 'Product', review: { '@type': 'Review', author: ceciliaWithId } })), ['/fixture'], 'Review dentro do Product falha');
+  assert.throws(
+    () => checkAuthors(jsonLdPage({ '@type': 'Product', review: { '@type': 'Review', author: ceciliaWithoutId } })),
+    /sem o @id da Cecília/,
+    'Review dentro do Product sem conferência'
+  );
   for (const author of [undefined, null, [], [null]]) {
     assert.throws(() => checkAuthors(jsonLdPage({ '@type': 'Article', author })), /JSON-LD sem autor/, `nó sem autor (${JSON.stringify(author)}) passa ou quebra sem a mensagem`);
   }
@@ -2225,12 +2285,7 @@ for (const url of articleUrls) {
 
   // Discover: o robots libera a imagem grande e o schema do artigo sempre diz quando foi modificado.
   assertDiscoverHead(pagePath, headOf(html));
-  const articleSchema = jsonLdOf(html).find((schema) => schema['@type'] === 'Article' || schema['@type'] === 'Review');
-  assert.match(String(articleSchema?.dateModified ?? ''), /^\d{4}-\d{2}-\d{2}/, `${pagePath}: Article/Review sem dateModified em ISO`);
-  // Review só com nota: sem reviewRating e itemReviewed o Search Console acusa; sem nota, o artigo sai como Article.
-  if (articleSchema?.['@type'] === 'Review') {
-    assert.ok(articleSchema.reviewRating && articleSchema.itemReviewed, `${pagePath}: Review sem reviewRating ou itemReviewed`);
-  }
+  assertArticleSchema(pagePath, html, typeof (review.rating ?? review.verdict?.stars) === 'number');
   assert.ok(headOf(html).includes('<meta property="article:modified_time"'), `${pagePath}: <head> sem article:modified_time`);
   discoverArticles++;
 

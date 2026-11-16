@@ -544,7 +544,7 @@ for (const review of reviews) {
     });
   }
 
-  // Sem número, o JSON-LD não tem reviewRating nem itemReviewed e o artigo sai como Article, não como Review.
+  // Sem número, o JSON-LD não tem reviewRating nem Product e o artigo sai como Article, não como Review.
   const rating: unknown = review.rating;
   if (rating !== undefined && rating !== null && typeof rating !== 'number') {
     reportError({ type: 'review', id: review.id, slug: review.slug, message: 'rating deve ser número' });
