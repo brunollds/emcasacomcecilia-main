@@ -210,3 +210,15 @@ Com o OK do Bruno ("Pode subir a capa ao CDN"): entrada inserida no manifesto se
 - **Links:** os três produtos da Abib com link individual (texto, tabela e foto com `href`); as outras marcas só pelo botão "Ver seleção da <marca> na YesStyle". Mesmos links e mesma ordem nas 10 versões.
 - **Imagens novas (4, no CDN):** grades com as fotos de produto da própria YesStyle, sem texto, iguais nos 10 idiomas. No PT, a foto da seção "Entrega no Brasil" passou para o formato de texto (`image` + `imageAlt`), porque o teste da família compara as fotos em objeto seção a seção e as outras versões não têm essa foto.
 - **Catraca do PT:** a data exata da leitura está nas 9 versões traduzidas; no PT o corpo diz "meados de novembro", pelo teto de datas.
+
+## Revisão externa do #1053 (Farol, 16/11/2026)
+
+Parecer em `docs/auditoria-copy-artigos/bf-hostinger-yesstyle-pr1053-20261116-farol/`. Aplicado nas 10 versões:
+
+- **Esperar os 15%:** o capítulo passa a começar pelo país de entrega. O cupom de 15% sem mínimo já existia para Estados Unidos, Reino Unido e Canadá; a comparação por faixa vale para os demais destinos. A resposta rápida diz o mesmo, e o CECILIA010 aparece nela com o benefício (5% na primeira compra, 2% nas seguintes).
+- **Dynasty Cream:** saiu "30% mais barato" e "o dobro de creme". A página mede o regular em gramas (50 g) e o Jumbo em mililitros (100 ml), e não comparamos o custo por quantidade dos dois. Só volta se as duas variantes forem confirmadas na mesma unidade.
+- **Carrinho exemplo:** sai o valor do CECILIA010 em dólar. A base de cálculo do Reward Code (valor cheio ou já com o cupom) não foi confirmada num carrinho; o texto manda conferir as duas linhas de desconto no resumo do pedido. Para publicar o valor, falta registrar um carrinho com os dois códigos.
+- **Sem ranking de potência nem prescrição:** saíram "o disco mais forte", "a combinação que mais irrita" e "alterne as noites". Ficam as descrições das marcas e "confira as instruções e a orientação do seu dermatologista; não testamos essa rotina em conjunto". Retinoide: evitar na gestação; na amamentação, confirmar com profissional de saúde.
+- **Sem enchimento de sacola:** os itens baratos entram "se você já precisava deles", com a conta de quanto se gasta a mais para alcançar uma faixa.
+- **Organização:** a ordem passa a ser cupom atual, como somar o CECILIA010, vale esperar, entrega, curadoria, regras, calendário e histórico, ofertas restritas, Natal e FAQ. O capítulo de leitura virou "Antes de escolher: preços em dólar e país de entrega". Nos quatro quadros, produto e tamanho ficam numa coluna só.
+- **Quadro de decisão:** "primeira compra na YesStyle" no lugar de "ainda não usou o CECILIA010".
