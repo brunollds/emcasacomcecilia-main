@@ -1481,6 +1481,152 @@ const STORE_COUPONS: Coupon[] = [
     featured: false,
   },
   {
+    offerMode: 'affiliate-link',
+    slug: 'temu',
+    brand: 'Temu',
+    officialUrl: 'https://www.temu.com/br',
+    // Link de afiliado como veio do Bruno (16/11/2026); a Temu leva o visitante à loja da região dele. Não editar.
+    offerUrl: 'https://temu.to/k/glfwht5gllj',
+    brandIcon: 'T',
+    brandLogo: '/images/about/partners/temu.png',
+    brandLogoAlt: 'Marca Temu',
+    bubble: { src: '/images/logos/bolinhas/temu.png', background: '#FB7701' },
+    brandWatermark: '/images/logos/watermarks/temu.webp',
+    brandColor: '#FB7701',
+    discount: 'Promoções',
+    offerTypeLabel: 'oferta',
+    offerTypeLabelPlural: 'ofertas',
+    offerActionLabel: 'Ver ofertas na Temu',
+    category: 'Moda, casa, eletrônicos e utilidades',
+    hubCategory: 'moda',
+    // Fora da vitrine da home em português (Bruno, 16/11/2026); segue em /cupons, em /reviews e nos outros idiomas.
+    hideFromPortugueseHome: true,
+    shortDescription: 'link da Cecília para as promoções da loja',
+    longDescription:
+      'O Em Casa com Cecília não tem cupom na Temu: o botão abaixo abre a loja pelo link da Cecília, com as promoções que estiverem no ar. O preço e o desconto de cada produto são os que a Temu mostra na página e no carrinho.',
+    metaTitle: 'Temu: promoções pelo link da Cecília, frete e devolução',
+    metaDescription:
+      'Link da Cecília para a Temu: promoções da loja, frete grátis a partir de R$ 69 e devolução em até 90 dias da compra. Não há cupom nosso na Temu.',
+    eligibleCategories: 'Todas as categorias da Temu; cada promoção vale para os produtos que a loja indicar',
+    validity: 'As promoções mudam sem aviso: vale o preço que a Temu mostra no dia da compra',
+    reusable: 'O link pode ser usado em toda compra',
+    shipping: 'Envio padrão: R$ 15 em pedidos abaixo de R$ 69 e grátis a partir de R$ 69; a Temu informa de 17 a 30 dias para a entrega',
+    combinable: 'O link não dá desconto próprio: valem as promoções que a Temu mostrar na página do produto e no carrinho',
+    lastVerified: '2026-11-16',
+    aboutBrand:
+      'A Temu é uma loja online internacional que vende moda, itens para casa, eletrônicos e utilidades, com envio para o Brasil. Esta página reúne o link da Cecília e as regras de frete e de devolução publicadas pela loja. Compras feitas pelo link podem gerar comissão para o Em Casa com Cecília, sem custo adicional para quem compra.',
+    faqs: [
+      {
+        question: 'Tem cupom da Cecília na Temu?',
+        answer:
+          'Não. O Em Casa com Cecília tem um link de afiliado da Temu, não um cupom: o link abre a loja com as promoções que estiverem no ar, e o desconto de cada produto é o que a Temu mostra.',
+      },
+      {
+        question: 'Quanto é o frete da Temu?',
+        answer:
+          'Em 16/11/2026, a página de envio da Temu informava R$ 15 no envio padrão para pedidos abaixo de R$ 69 e frete grátis a partir de R$ 69, com entrega em 17 a 30 dias e de 1 a 3 dias para processar o pedido.',
+      },
+      {
+        question: 'Como funciona a devolução na Temu?',
+        answer:
+          'Pela política da Temu, o prazo é de 90 dias a partir da data da compra para a maioria dos itens, e nunca menos de 7 dias depois do recebimento. A primeira devolução de cada pedido é grátis; da segunda em diante, a Temu desconta R$ 35 do reembolso. Roupa usada, lavada ou sem etiqueta não volta, e eletrônicos podem ter prazo de 45, 60 ou 90 dias, conforme o vendedor.',
+      },
+      {
+        question: 'Preciso copiar algum código para comprar pelo link?',
+        answer:
+          'Não. Basta abrir a Temu pelo botão desta página e comprar normalmente. Não há código nosso para colar no carrinho.',
+      },
+      {
+        question: 'Comprar pelo link gera comissão para a Cecília?',
+        answer:
+          'Pode gerar. A Temu pode pagar comissão ao Em Casa com Cecília por compras atribuídas ao link, sem custo adicional para quem compra.',
+      },
+    ],
+    linkInstructions: [
+      'Toque em “Ver ofertas na Temu”: o link da Cecília abre a loja, sem copiar nada.',
+      'Escolha os produtos e confira o preço e a promoção de cada um na página dele.',
+      'No carrinho, veja o frete: o envio padrão é grátis a partir de R$ 69.',
+      'Confira o valor final, com os impostos, antes de concluir a compra.',
+    ],
+    linkNote:
+      'O link da Cecília não dá desconto próprio nem leva código: o preço e as promoções são os que a Temu mostra na página do produto e no carrinho.',
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'affiliate-link',
+    slug: 'aliexpress',
+    brand: 'AliExpress',
+    officialUrl: 'https://pt.aliexpress.com/',
+    // Link de afiliado como veio do Bruno (16/11/2026); o AliExpress leva o visitante à loja da região dele. Não editar.
+    offerUrl: 'https://s.click.aliexpress.com/e/_c37RSyBR',
+    brandIcon: 'AE',
+    brandLogo: '/images/about/partners/aliexpress.webp',
+    brandLogoAlt: 'Marca AliExpress',
+    bubble: { src: '/images/logos/bolinhas/aliexpress.png' },
+    brandWatermark: '/images/logos/watermarks/aliexpress.webp',
+    brandColor: '#191919',
+    discount: 'Promoções',
+    offerTypeLabel: 'oferta',
+    offerTypeLabelPlural: 'ofertas',
+    offerActionLabel: 'Ver ofertas no AliExpress',
+    category: 'Eletrônicos, moda, casa e acessórios',
+    hubCategory: 'moda',
+    // Fora da vitrine da home em português (Bruno, 16/11/2026); segue em /cupons, em /reviews e nos outros idiomas.
+    hideFromPortugueseHome: true,
+    shortDescription: 'link da Cecília para as promoções da loja',
+    longDescription:
+      'O Em Casa com Cecília não tem cupom no AliExpress: o botão abaixo abre a loja pelo link da Cecília, com as promoções que estiverem no ar. O preço, o frete e o prazo de cada produto são os que o AliExpress mostra na página dele.',
+    metaTitle: 'AliExpress: promoções pelo link da Cecília, frete e devolução',
+    metaDescription:
+      'Link da Cecília para o AliExpress: promoções da loja, frete e prazo na página de cada produto e as regras de devolução. Não há cupom nosso no AliExpress.',
+    eligibleCategories: 'Todas as categorias do AliExpress; cada promoção vale para os produtos que a loja indicar',
+    validity: 'As promoções mudam sem aviso: vale o preço que o AliExpress mostra no dia da compra',
+    reusable: 'O link pode ser usado em toda compra',
+    shipping: 'O frete e o prazo de entrega aparecem na página de cada produto e mudam conforme o vendedor e o local de envio',
+    combinable: 'O link não dá desconto próprio: valem as promoções que o AliExpress mostrar na página do produto e no carrinho',
+    lastVerified: '2026-11-16',
+    aboutBrand:
+      'O AliExpress é um marketplace internacional do grupo Alibaba, em que vendedores de vários países anunciam eletrônicos, moda, itens para casa e acessórios. Esta página reúne o link da Cecília e as regras de devolução publicadas pela loja. Compras feitas pelo link podem gerar comissão para o Em Casa com Cecília, sem custo adicional para quem compra.',
+    faqs: [
+      {
+        question: 'Tem cupom da Cecília no AliExpress?',
+        answer:
+          'Não. O Em Casa com Cecília tem um link de afiliado do AliExpress, não um cupom: o link abre a loja com as promoções que estiverem no ar, e o desconto de cada produto é o que o AliExpress mostra.',
+      },
+      {
+        question: 'Quanto é o frete do AliExpress?',
+        answer:
+          'Depende do produto. O AliExpress é um marketplace: cada anúncio mostra o frete e a data estimada de entrega na própria página, e os dois mudam conforme o vendedor e o local de onde o produto sai.',
+      },
+      {
+        question: 'Como funciona a devolução no AliExpress?',
+        answer:
+          'Pela política do AliExpress para o Brasil, lida em 16/11/2026, quem desiste da compra tem 7 dias depois da entrega para pedir a devolução. Se o item chega danificado, com defeito ou diferente do anúncio, o prazo é de 30 dias depois da entrega, ou de 90 dias em bens duráveis. Roupa só volta sem uso, sem lavar e com as etiquetas.',
+      },
+      {
+        question: 'Preciso copiar algum código para comprar pelo link?',
+        answer:
+          'Não. Basta abrir o AliExpress pelo botão desta página e comprar normalmente. Não há código nosso para colar no carrinho.',
+      },
+      {
+        question: 'Comprar pelo link gera comissão para a Cecília?',
+        answer:
+          'Pode gerar. O AliExpress pode pagar comissão ao Em Casa com Cecília por compras atribuídas ao link, sem custo adicional para quem compra.',
+      },
+    ],
+    linkInstructions: [
+      'Toque em “Ver ofertas no AliExpress”: o link da Cecília abre a loja, sem copiar nada.',
+      'Escolha os produtos e confira o preço, o frete e a data estimada de entrega na página de cada um.',
+      'Veja a reputação do vendedor e as regras de devolução do anúncio.',
+      'Confira o valor final, com os impostos, antes de concluir a compra.',
+    ],
+    linkNote:
+      'O link da Cecília não dá desconto próprio nem leva código: o preço e as promoções são os que o AliExpress mostra na página do produto e no carrinho.',
+    status: 'ativo',
+    featured: false,
+  },
+  {
     offerMode: 'discount-code',
     slug: 'kopenhagen',
     brand: 'Kopenhagen',

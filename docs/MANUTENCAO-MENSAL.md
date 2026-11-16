@@ -96,7 +96,7 @@ se mede o tempo gasto.
   acertar o percentual da pergunta; loja em que nenhum site anuncia mais que o nosso perde a pergunta.
 - **Print do carrinho:** o carrinho do teste rende o print novo. Trocar o `cartPrint` só quando o código
   ou o percentual da imagem deixar de valer; print novo entra pelo fluxo de mídia.
-- **Mecânica própria, com roteiro próprio:** SHEIN, Magalu, Lejour, Hostinger e YesStyle. O
+- **Mecânica própria, com roteiro próprio:** SHEIN, Magalu, Lejour, Hostinger, YesStyle, Temu e AliExpress. O
   `validate:yesstyle` confere os nossos dados; não prova que a loja aceitou o código.
 - **Sem login, sem cadastro e sem finalizar compra.** Site que bloqueia robôs (Petz) vai pelo navegador.
 - **Campanhas com prazo** seguem com a revisão no vencimento; a rodada complementa.
@@ -209,6 +209,8 @@ Para cada oferta ativa, reconferir:
 | `dr-peanut` | Dr. Peanut | `DREMCASACOMCECILIA` | — | Testar os 10% com um item em promoção e conferir a faixa de frete grátis do carrinho (R$ 149,90 com o cupom em 13/10/2026). O site bloqueia acesso automático: conferir pelo navegador. |
 | `black-skull` | Black Skull | `CECILIA10` | — | Testar os 10% com um item em promoção. O site é blackskullusa.com.br. |
 | `lejour` | Lejour | indicação por link, sem código | tabela de planos no dossiê | Conferir preços, taxas e saques dos planos Basic, Premium e Pro, que a FAQ cita com data. A indicação não dá desconto: nenhum texto pode chamá-la de cupom. Não editar o link. |
+| `temu` | Temu | link de afiliado, sem código | — | Reler a página de envio (R$ 15 abaixo de R$ 69, grátis acima, 17 a 30 dias) e a política de devolução (90 dias da compra, 1ª grátis, depois R$ 35), que a FAQ cita com data. O link não dá desconto: nenhum texto promete percentual nem cita cupom da loja. Não abrir nem editar o link. |
+| `aliexpress` | AliExpress | link de afiliado, sem código | — | Reler a linha "Brasil" da política de devolução (7 dias por desistência; 30 ou 90 com defeito), que a FAQ cita com data. Frete e prazo são de cada anúncio: a página não cita valor. O link não dá desconto: nenhum texto promete percentual nem cita cupom da loja. Não abrir nem editar o link. |
 | `max-titanium` | Max Titanium | `MAX10EMCASACOMCECILIA` | — | Como na Probiótica: o desconto chega a 10% e varia por produto; testar com um carrinho misto e manter o aviso "pode ser menor" no destaque, nas regras e na FAQ. Conferir se os brindes do carrinho continuam com o cupom. |
 | `clea-store` | Cléa Store | `CSEMCASACOMCECILIA` | — | Testar os 10% com um item em promoção e conferir que o pedido segue gerando cashback e a faixa de frete grátis (R$ 599 em 14/10/2026). |
 | `belive` | Belive | `MAUAD` | — | Testar os 10% com um item em oferta e conferir que o total no Pix ainda tira os 5% e as faixas de frete grátis por região em belivebefree.com.br/regras-de-frete (16/10/2026: R$ 170 em SP, MG, RJ, DF e GO, R$ 250 no Sul, R$ 300 nos demais). O MAUAD é o mesmo da Let's Eat It: testar nas duas lojas. |

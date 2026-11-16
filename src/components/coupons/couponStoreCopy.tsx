@@ -119,6 +119,12 @@ const capitalize = (text: string) => text.charAt(0).toUpperCase() + text.slice(1
 // O francês pede espaço antes de : ; ? e %, e ele não pode quebrar a linha.
 const NBSP = '\u00a0';
 
+// Em português a página trata a loja no feminino ("da Temu"); as marcas daqui pedem o masculino ("do AliExpress").
+const MASCULINE_BRANDS = new Set(['AliExpress']);
+const ptA = (brand: string) => `${MASCULINE_BRANDS.has(brand) ? 'o' : 'a'} ${brand}`;
+const ptDa = (brand: string) => `d${ptA(brand)}`;
+const ptNa = (brand: string) => `n${ptA(brand)}`;
+
 export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
   pt: {
     dateLocale: 'pt-BR',
@@ -222,7 +228,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     referralVerified: (date) => `Verificado em ${date}.`,
     howToTitle: {
       code: (offerType, code) => `Como usar o ${offerType} ${code}`,
-      link: (brand) => `Como acessar a oferta da ${brand}`,
+      link: (brand) => `Como acessar a oferta ${ptDa(brand)}`,
     },
     instructions: {
       code: ({ code, brand, discount }) => [
@@ -233,7 +239,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
         `Confira se o desconto de ${discount.replace(/^Até /, 'até ')} apareceu no resumo do pedido.`,
       ],
       link: (brand) => [
-        `Acesse a oferta da ${brand} pelo botão indicado.`,
+        `Acesse a oferta ${ptDa(brand)} pelo botão indicado.`,
         'Confira os produtos e condições disponíveis na página da loja.',
         'Verifique o valor final antes de concluir a compra.',
       ],
@@ -242,12 +248,12 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     codeFieldNote: (field) => <>Campo correto: {field}. Confirme sempre o resumo do pedido antes de pagar.</>,
     defaultLinkNote:
       'Esta oferta é acessada pelo link indicado e não exige código para copiar. Confirme as condições na loja antes de pagar.',
-    aboutTitle: (brand) => `Sobre a ${brand}`,
+    aboutTitle: (brand) => `Sobre ${ptA(brand)}`,
     relatedTitle: 'Leia antes de comprar',
     relatedType: { review: 'Review', post: 'Post' },
     faqTitle: {
       code: (offerTypePlural, brand) => `Perguntas frequentes sobre ${offerTypePlural} ${brand}`,
-      link: (offerTypePlural, brand) => `Perguntas frequentes sobre ${offerTypePlural} da ${brand}`,
+      link: (offerTypePlural, brand) => `Perguntas frequentes sobre ${offerTypePlural} ${ptDa(brand)}`,
     },
     historyTitle: (brand) => `Histórico de cupons da ${brand}`,
     historyIntro: (code) => <>Cupons anteriores já usados nessa parceria. O cupom ativo atual é {code}.</>,
@@ -264,7 +270,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     },
     offerName: {
       code: ({ discount, brand, offerType, code }) => `${discount} na ${brand} com ${offerType} ${code}`,
-      link: (discount, brand) => `${discount} na ${brand} pelo link indicado`,
+      link: (discount, brand) => `${discount} ${ptNa(brand)} pelo link indicado`,
     },
   },
   en: {
