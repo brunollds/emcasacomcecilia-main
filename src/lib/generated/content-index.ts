@@ -245996,7 +245996,7 @@ export const reviewsData: unknown[] = [
     "seoTitle": "Cupom BAW primeira compra: 10% OFF com BAWEMCASACOMCECILIA",
     "type": "Guia & Cupons",
     "description": "O código que vale no primeiro pedido na BAW Clothing e nos seguintes, a conta do nosso teste e o que conferir antes de comprar roupa pela primeira vez na loja.",
-    "metaDescription": "Para a primeira compra na BAW Clothing, use BAWEMCASACOMCECILIA: 10% OFF no site e no app. O mesmo código vale para quem já comprou e soma com o Pix.",
+    "metaDescription": "BAWEMCASACOMCECILIA dá 10% OFF na primeira compra da BAW e nas seguintes, no site e no app. Soma com promoções e Pix; veja como aplicar.",
     "image": "/images/reviews/baw/cupom-baw-primeira-compra-capa.webp",
     "imageAlt": "Modelo com o Moletom Hoodie BAW Subscript preto da BAW Clothing, em foto oficial da loja, com o logo da marca, “Bem-vindo”, “Primeira compra” e o código BAWEMCASACOMCECILIA.",
     "cta": {
@@ -246027,14 +246027,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom BAW primeira compra: qual usar",
         "paragraphs": [
-          "O código é BAWEMCASACOMCECILIA. Ele dá 10% OFF em todo o site oficial, bawclothing.com.br, e no aplicativo da BAW.",
-          "Funciona para quem nunca comprou na loja e para quem já comprou. As condições atuais ficam na [página do código da BAW](/cupons/baw)."
+          "A BAW Clothing é uma marca brasileira de streetwear, com camisetas, moletons, calças e acessórios. Antes do primeiro pedido, veja a trajetória da empresa e os cuidados de compra em [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel).",
+          "Para o desconto, use BAWEMCASACOMCECILIA: 10% OFF em todo o site oficial e no aplicativo. Vale para quem nunca comprou e para quem já é cliente. As condições atuais ficam na [página do código da BAW](/cupons/baw)."
         ]
       },
       {
         "heading": "Quanto o cupom tira na primeira compra",
         "paragraphs": [
-          "Nosso carrinho de 16 de novembro de 2026 tinha duas camisetas, um pedido comum de primeira compra. A BR Regular Locally Grown custava R$ 89,00, sem promoção. A Regular Goth 3.0 estava de R$ 89,00 por R$ 59,00.",
+          "No teste de 16 de novembro de 2026, o carrinho tinha duas camisetas. A BR Regular Locally Grown custava R$ 89,00, sem promoção. A Regular Goth 3.0 estava de R$ 89,00 por R$ 59,00.",
           "Com o código, os R$ 148,00 em produtos viraram R$ 133,20, antes do frete. A linha Cupom do resumo mostrou R$ 14,80 de desconto. Os 10% entraram também sobre a camiseta que já estava em promoção."
         ],
         "images": [
@@ -246088,7 +246088,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O cupom BAW vale na primeira compra? Vale. O BAWEMCASACOMCECILIA dá 10% OFF no primeiro pedido, no site oficial e no aplicativo.",
+          "Como conseguir desconto na primeira compra na BAW Clothing? Use BAWEMCASACOMCECILIA para ter 10% OFF no primeiro pedido, no site oficial e no aplicativo. O mesmo código vale nas compras seguintes e soma com promoções.",
           "Posso usar o mesmo cupom de novo? O código é o mesmo para cliente novo e antigo. Em cada pedido, confira a linha Cupom no resumo antes de pagar.",
           "O cupom vale no app na primeira compra? Vale, segundo a parceria. É o mesmo código, digitado no campo de cupom antes do pagamento. Nosso teste foi no site.",
           "O cupom soma com peça em promoção? Sim. No nosso teste, os 10% entraram também sobre uma camiseta que já estava com preço promocional."
@@ -246119,10 +246119,10 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "coupon": "BAWEMCASACOMCECILIA",
     "affiliate": "baw",
-    "title": "BAW Clothing é boa? O que as fichas dizem, tamanhos, troca e para quem vale a pena",
+    "title": "BAW Clothing é boa? Tecidos, medidas e cuidados antes de comprar",
     "seoTitle": "BAW Clothing é boa? Tecidos, tamanhos e troca",
     "type": "Guia de Marca",
-    "description": "Lemos as fichas da BAW Clothing: composição, medidas de regular e oversized, peças sem descrição e a regra da troca por crédito. Sem uso das peças.",
+    "description": "Compare a composição de camisetas e moletons da BAW Clothing, veja as medidas de regular e oversized e saiba o que conferir antes de comprar pela internet.",
     "metaDescription": "BAWEMCASACOMCECILIA dá 10% OFF na BAW Clothing. Veja do que as peças são feitas, regular ou oversized em centímetros, a troca por crédito e para quem vale.",
     "image": "/images/reviews/baw/baw-clothing-e-boa-capa.webp",
     "imageAlt": "Modelo de costas com a Camiseta Oversized BAW Subscript off white da BAW Clothing, em foto oficial da loja, com o logo da marca, a pergunta “BAW Clothing é boa?” e o código BAWEMCASACOMCECILIA.",
@@ -246159,7 +246159,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BAW Clothing é uma marca brasileira de streetwear com camisetas, moletons, calças, linha infantil e calçados. As descrições que a loja publica trazem composição e medidas, mas várias peças estavam sem descrição na nossa leitura. Como a troca vira crédito, vale conferir as medidas antes. Não usamos as peças, e este guia se baseia nas fichas da loja."
+          "A BAW pode fazer sentido para quem busca streetwear e escolhe peça por peça. Nas camisetas lidas, o M varia entre modelos; nos moletons, há composições com e sem poliéster. Confira as medidas antes de comprar. A troca gera crédito, e há opção de devolução com reembolso. Não avaliamos durabilidade ou conforto em uso."
         ]
       },
       {
@@ -246170,7 +246170,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Do que as peças são feitas, pela ficha",
+        "heading": "Composição: o que muda entre os modelos",
         "paragraphs": [
           "A composição muda de modelo para modelo, e a descrição de cada peça é a fonte. Camisas, jaquetas e acessórios ficaram fora desta leitura. Nas peças que lemos:"
         ],
@@ -246223,7 +246223,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Nessas duas peças, a oversized tem 2 cm a mais de comprimento e 7 cm a mais de tórax que a regular.",
-          "O nome da modelagem não garante a medida. A Camiseta BR Regular Logo, também chamada de regular, traz 76 cm de comprimento e 58 cm de tórax no M, mais que a Regular Selfie Logo. Por isso, compare os números da peça que você quer com uma camiseta sua, medida sobre uma superfície plana."
+          "O nome da modelagem não garante a medida. A Camiseta BR Regular Logo, também chamada de regular, traz 76 cm de comprimento e 58 cm de tórax no M, mais que a Regular Selfie Logo. Confira a tabela do modelo que você quer. Antes de comparar com uma camiseta sua, confirme com a BAW como foram tomadas as medidas de tórax; as descrições consultadas não explicam esse método."
         ],
         "images": [
           {
@@ -246249,7 +246249,7 @@ export const reviewsData: unknown[] = [
             {
               "piece": "Camiseta Oversized BAW Subscript",
               "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-subscript-151896",
-              "howTo": "Nas fotos da loja, aparece com bermuda cargo preta, meia branca e tênis.",
+              "howTo": "Na foto da loja, a oversized aparece com bermuda cargo preta, meia branca e tênis. Nossa sugestão para variar é trocar a cargo pela Bermuda Jeans Regular Logo e usar a camiseta solta.",
               "occasion": "Dia a dia e fim de semana.",
               "pairsWith": [
                 {
@@ -246267,7 +246267,7 @@ export const reviewsData: unknown[] = [
             {
               "piece": "Moletom Hoodie BAW Subscript",
               "url": "https://www.bawclothing.com.br/moletom-hoodie-baw-subscript-151918",
-              "howTo": "Nas fotos da loja, o moletom com capuz vai com shorts de moletom cinza ou bermuda cargo preta, meia branca e tênis.",
+              "howTo": "Nas fotos da loja, o moletom aparece com shorts de moletom cinza ou bermuda cargo preta. Outra combinação que sugerimos é com a Calça Track amarelo flúor, deixando a cor em destaque na calça.",
               "occasion": "Dia a dia e programas sem formalidade.",
               "pairsWith": [
                 {
@@ -246285,8 +246285,8 @@ export const reviewsData: unknown[] = [
             {
               "piece": "Calça Track BAW Tag",
               "url": "https://www.bawclothing.com.br/calca-track-baw-tag-151973",
-              "howTo": "Nas fotos da loja, a calça jogger amarelo flúor aparece com regata branca e tênis escuro.",
-              "occasion": "Passeio e dias frios.",
+              "howTo": "Na foto da loja, a Calça Track amarelo flúor aparece com regata branca e tênis escuro. Nossa sugestão para variar é trocar a regata pela Selfie Logo off white, mantendo a parte de cima em tom claro.",
+              "occasion": "Passeio e dia a dia.",
               "pairsWith": [
                 {
                   "label": "Camiseta Regular Selfie Logo",
@@ -246332,8 +246332,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa",
         "paragraphs": [
-          "Na leitura de 16 de novembro de 2026, com a campanha de Black Friday da loja no ar, a Camiseta Regular Goth 3.0 custava R$ 59,00, e a Regular Selfie Logo e a Oversized BAW Subscript, R$ 89,00 na cor off white. O Moletom Basic Label saía a R$ 139,00 na cor azul-escuro, o Hoodie BAW Subscript, a R$ 179,00 na preta, e a Calça Track BAW Tag, a R$ 149,00 na amarelo flúor. O preço muda por cor, e as páginas dessas peças mostravam o preço anterior, de R$ 89,00 a R$ 349,00.",
-          "O código BAWEMCASACOMCECILIA dá 10% OFF no site oficial e no aplicativo, inclusive sobre preço promocional, e o Pix tem 5% de desconto. As condições estão na [página do código da BAW](/cupons/baw), e as peças da campanha, no [guia da Black Friday da BAW](/reviews/black-friday-baw)."
+          "Na leitura de 16 de novembro de 2026, com a campanha de Black Friday da loja no ar, estes eram os preços das peças e cores indicadas. A última coluna é uma conta com os 10% do BAWEMCASACOMCECILIA, antes do frete; não inclui o desconto do Pix."
         ],
         "images": [
           {
@@ -246344,6 +246343,56 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 0.667,
             "href": "https://www.bawclothing.com.br/calca-track-baw-tag-151973"
           }
+        ],
+        "comparisonTable": {
+          "caption": "Preços das peças e cores indicadas. Valores com o código calculados sobre o preço da página, sem frete.",
+          "headers": [
+            "Peça",
+            "Cor",
+            "Preço da página",
+            "Com BAWEMCASACOMCECILIA (10%)"
+          ],
+          "rows": [
+            [
+              "Regular Goth 3.0",
+              "Preta",
+              "R$ 59,00",
+              "R$ 53,10"
+            ],
+            [
+              "Regular Selfie Logo",
+              "Off white",
+              "R$ 89,00",
+              "R$ 80,10"
+            ],
+            [
+              "Oversized BAW Subscript",
+              "Off white",
+              "R$ 89,00",
+              "R$ 80,10"
+            ],
+            [
+              "Moletom Basic Label",
+              "Azul-escuro",
+              "R$ 139,00",
+              "R$ 125,10"
+            ],
+            [
+              "Moletom Hoodie BAW Subscript",
+              "Preta",
+              "R$ 179,00",
+              "R$ 161,10"
+            ],
+            [
+              "Calça Track BAW Tag",
+              "Amarelo flúor",
+              "R$ 149,00",
+              "R$ 134,10"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O código vale no site oficial e no aplicativo, inclusive sobre preço promocional. As condições estão na [página do código da BAW](/cupons/baw). O Pix tem 5% de desconto; confira no resumo do pedido o valor com o código e o Pix juntos. As demais peças da campanha estão no [guia da Black Friday da BAW](/reviews/black-friday-baw)."
         ]
       },
       {
