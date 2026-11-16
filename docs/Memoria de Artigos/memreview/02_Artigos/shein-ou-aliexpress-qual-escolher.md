@@ -103,7 +103,9 @@ academia. Regras e limites em [[shein-ou-pares-plano-1611]], seção 5.
 - O Bruno escolhe as peças e converte os links. Esta frente lê preço, frete e prazo pela página de cada uma, uma
   por vez, sem login; verificação de robô é parada.
 - Peças parecidas, nunca "a mesma". Sem qualidade, tecido nem caimento.
-- **Fora do PT (em aberto com o Bruno):** o preço lido é o do Brasil, e as traduções não citam o Brasil.
+- **Fora do PT (decisão do Bruno, 16/11):** as peças entram como exemplos com o link convertido, sem preço; o leitor
+  vê o preço da região dele ao abrir. No máximo, o percentual de desconto do item, sem valor em dinheiro. Preço,
+  frete e prazo, só no PT.
 
 ## Regras
 
