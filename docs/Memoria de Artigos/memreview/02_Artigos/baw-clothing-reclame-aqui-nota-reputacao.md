@@ -7,9 +7,9 @@ parceiro_slug: "baw"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2), depois da BW1 e da BW6; reconferir o perfil no dia"
+proxima_acao: "deploy (decisão do Bruno)"
 bloqueado_por: "-"
 data_criacao: "2026-11-16"
 pauta_id: "BW2"
@@ -123,3 +123,14 @@ de indicadores do perfil, da releitura.
 | O motivo de serem dois CNPJs | nenhuma | não escrever |
 | Prazo conta do faturamento e pode mudar em promoções | `/entrega-e-frete`, 16/11 | verificado |
 | Troca por crédito; devolução com reembolso; 7 dias corridos | `/trocas-e-devolucoes`, 16/11 | verificado |
+
+## Redação, revisão e JSON (16/11/2026)
+
+Job 2 e Job 4 pela sessão de artigos, a partir deste briefing e das leituras do dia ([[baw-fatos-1611]], seção 11). Job 3 por subagente Fable: achados aplicados. JSON em `content/reviews/baw-clothing-reclame-aqui-nota-reputacao.json`.
+
+## Capa e imagens (aprovadas pelo Bruno em 16/11/2026)
+
+Folha de aprovação mostrada no chat; upload ao CDN autorizado no mesmo dia. Capa no painel lateral, `imageFit: contain`, sem nota na capa. Fotos oficiais da BAW Clothing (`bawclothing.fbitsstatic.net`), sem cenário gerado.
+
+- Capa `/images/reviews/baw/baw-clothing-reclame-aqui-nota-reputacao-capa.webp`: primeira foto do Moletom Hoodie BAW Subscript preto (produto 151918), chamada "BAW no Reclame Aqui" e o código.
+- Corpo, "Como evitar dor de cabeça": `baw-clothing-reclame-aqui-moletom-hoodie-subscript.webp`, segunda foto da mesma página. O print dos indicadores do perfil não entrou: a tabela leva os números.

@@ -7,9 +7,9 @@ parceiro_slug: "baw"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2), junto com a BW2; abrir o texto do NeoFeed antes de citar detalhe"
+proxima_acao: "deploy (decisão do Bruno)"
 bloqueado_por: "-"
 data_criacao: "2026-11-16"
 pauta_id: "BW3"
@@ -135,3 +135,14 @@ trecho da política que diz que a troca é por crédito.
 | Loja oficial no Mercado Livre | handoff de 16/11; resultado do Google | a redação abre a página |
 | Lojas físicas | `/nossas-lojas` vazia em 16/11 | pendente: não listar |
 | "baw é do leo picon" | nenhuma | não afirmar nem negar |
+
+## Redação, revisão e JSON (16/11/2026)
+
+Job 2 e Job 4 pela sessão de artigos, a partir deste briefing e das leituras do dia ([[baw-fatos-1611]], seção 11). Job 3 por subagente Fable: achados aplicados. JSON em `content/reviews/baw-clothing-e-confiavel.json`.
+
+## Capa e imagens (aprovadas pelo Bruno em 16/11/2026)
+
+Folha de aprovação mostrada no chat; upload ao CDN autorizado no mesmo dia. Capa no painel lateral, `imageFit: contain`, sem nota na capa. Fotos oficiais da BAW Clothing (`bawclothing.fbitsstatic.net`), sem cenário gerado.
+
+- Capa `/images/reviews/baw/baw-clothing-e-confiavel-capa.webp`: terceira foto da Camiseta Regular Selfie Logo off white (produto 153490), a pergunta "BAW Clothing é confiável?" e o código.
+- Corpo, "Troca vira crédito": `baw-clothing-e-confiavel-camiseta-selfie-logo.webp`, segunda foto da mesma página. Os prints do rodapé e da política não entraram: o texto cita a razão social, o CNPJ e a regra.

@@ -158891,6 +158891,190 @@
       "verified_at": "2026-11-16T21:58:43.704Z",
       "verification_etag_or_digest": "48c9acb218f33069b4ea82b9827e9dfa1232f18b9183bf1a0829ff97bd8b33a8",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/baw-clothing-e-confiavel-camiseta-selfie-logo.webp",
+      "local_url": "/images/reviews/baw/baw-clothing-e-confiavel-camiseta-selfie-logo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19652,
+      "sha256": "e8e7e36071b75d6ed6c8ece8f979459ad7f200321c33db5d7f47df5a0aaefe3f",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "baw-clothing-e-confiavel-camiseta-selfie-logo.webp",
+      "storage_filename": "baw-clothing-e-confiavel-camiseta-selfie-logo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/baw-clothing-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/baw-clothing-e-confiavel.json",
+          "line": 102,
+          "column": 19,
+          "literal": "/images/reviews/baw/baw-clothing-e-confiavel-camiseta-selfie-logo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 245921,
+          "column": 21,
+          "literal": "/images/reviews/baw/baw-clothing-e-confiavel-camiseta-selfie-logo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e8e7e36071b75d6ed6c8ece8f979459ad7f200321c33db5d7f47df5a0aaefe3f/baw-clothing-e-confiavel-camiseta-selfie-logo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e8e7e36071b75d6ed6c8ece8f979459ad7f200321c33db5d7f47df5a0aaefe3f/baw-clothing-e-confiavel-camiseta-selfie-logo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T22:26:41.394Z",
+      "verification_etag_or_digest": "e8e7e36071b75d6ed6c8ece8f979459ad7f200321c33db5d7f47df5a0aaefe3f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/baw-clothing-e-confiavel-capa.webp",
+      "local_url": "/images/reviews/baw/baw-clothing-e-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 156118,
+      "sha256": "4abd7ac0f6bf87d2cbab10f570b35e4f466e357d3a686cc093036b84e33bfe65",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "baw-clothing-e-confiavel-capa.webp",
+      "storage_filename": "baw-clothing-e-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/baw-clothing-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/baw-clothing-e-confiavel.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/baw/baw-clothing-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 245848,
+          "column": 15,
+          "literal": "/images/reviews/baw/baw-clothing-e-confiavel-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4abd7ac0f6bf87d2cbab10f570b35e4f466e357d3a686cc093036b84e33bfe65/baw-clothing-e-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4abd7ac0f6bf87d2cbab10f570b35e4f466e357d3a686cc093036b84e33bfe65/baw-clothing-e-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T22:26:41.395Z",
+      "verification_etag_or_digest": "4abd7ac0f6bf87d2cbab10f570b35e4f466e357d3a686cc093036b84e33bfe65",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/baw-clothing-reclame-aqui-moletom-hoodie-subscript.webp",
+      "local_url": "/images/reviews/baw/baw-clothing-reclame-aqui-moletom-hoodie-subscript.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 21410,
+      "sha256": "766615c1966879834e62b8e6226f89cb82ba5a0f0385f15411904468fd98ce63",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "baw-clothing-reclame-aqui-moletom-hoodie-subscript.webp",
+      "storage_filename": "baw-clothing-reclame-aqui-moletom-hoodie-subscript.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/baw-clothing-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/baw-clothing-reclame-aqui-nota-reputacao.json",
+          "line": 177,
+          "column": 19,
+          "literal": "/images/reviews/baw/baw-clothing-reclame-aqui-moletom-hoodie-subscript.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 245784,
+          "column": 21,
+          "literal": "/images/reviews/baw/baw-clothing-reclame-aqui-moletom-hoodie-subscript.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/766615c1966879834e62b8e6226f89cb82ba5a0f0385f15411904468fd98ce63/baw-clothing-reclame-aqui-moletom-hoodie-subscript.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/766615c1966879834e62b8e6226f89cb82ba5a0f0385f15411904468fd98ce63/baw-clothing-reclame-aqui-moletom-hoodie-subscript.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T22:26:41.395Z",
+      "verification_etag_or_digest": "766615c1966879834e62b8e6226f89cb82ba5a0f0385f15411904468fd98ce63",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/baw-clothing-reclame-aqui-nota-reputacao-capa.webp",
+      "local_url": "/images/reviews/baw/baw-clothing-reclame-aqui-nota-reputacao-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58794,
+      "sha256": "d73e1196cf65bdab1f33d01fbb94fbb96961e5be617897d16bba26dee49f69b7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "baw-clothing-reclame-aqui-nota-reputacao-capa.webp",
+      "storage_filename": "baw-clothing-reclame-aqui-nota-reputacao-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/baw-clothing-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/baw-clothing-reclame-aqui-nota-reputacao.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/baw/baw-clothing-reclame-aqui-nota-reputacao-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 245637,
+          "column": 15,
+          "literal": "/images/reviews/baw/baw-clothing-reclame-aqui-nota-reputacao-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d73e1196cf65bdab1f33d01fbb94fbb96961e5be617897d16bba26dee49f69b7/baw-clothing-reclame-aqui-nota-reputacao-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d73e1196cf65bdab1f33d01fbb94fbb96961e5be617897d16bba26dee49f69b7/baw-clothing-reclame-aqui-nota-reputacao-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T22:26:41.395Z",
+      "verification_etag_or_digest": "d73e1196cf65bdab1f33d01fbb94fbb96961e5be617897d16bba26dee49f69b7",
+      "verification_status": "verified"
     }
   ]
 }
