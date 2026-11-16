@@ -72,8 +72,8 @@ export function getReviewStores<S extends StoreName>(review: WithAffiliate, stor
 }
 
 // O nome da loja no cartão de um lugar neutro (a estante de /reviews, o "Acabou de sair", os relacionados). Uma loja,
-// a marca dela, como sempre; no artigo de várias lojas, "A e B" ou "N lojas parceiras", contando só as ativas. O
-// artigo de várias lojas só existe em português: em outro idioma, o cartão fica sem o nome.
+// a marca dela, como sempre; no artigo de várias lojas, "A e B" ou "N lojas parceiras", contando só as ativas. As
+// duas frases só existem em português: em outro idioma, o cartão do artigo de várias lojas fica sem o nome.
 export function getReviewStoreLabel(
   review: WithAffiliate,
   stores: readonly StoreName[],
