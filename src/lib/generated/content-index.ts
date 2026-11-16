@@ -229487,5 +229487,393 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 985,
+    "slug": "kit-la-ganexa-ou-avulso-qual-sai-mais-barato",
+    "title": "Kit La Ganexa ou pote avulso: qual sai mais barato com o cupom CECILIA",
+    "seoTitle": "Kit La Ganexa ou avulso: qual sai mais barato?",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A conta dos kits mais vendidos da La Ganexa ao lado dos mesmos itens avulsos, com o cupom nos dois lados, e os casos em que o kit empata ou sai mais caro por grama.",
+    "metaDescription": "O cupom CECILIA dá 10% OFF também nos kits La Ganexa. Veja a conta de kit contra pote avulso nos mais vendidos e onde o kit não compensa.",
+    "publishedAt": "15 de novembro de 2026",
+    "publishedAtISO": "2026-11-15",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/laganexa/kit-la-ganexa-ou-avulso-capa.webp",
+    "imageAlt": "Quatro potes de Brigadeiro de Colher da La Ganexa empilhados, em imagem oficial da loja, com logo, a pergunta Kit ou avulso? e o cupom CECILIA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você já ia comprar dois ou mais potes iguais: nos kits de potes da amostra, o kit saiu mais barato que os avulsos.",
+        "Você quer provar vários sabores de alfajor ou de Xagadinho: a degustação saiu mais barata que os mesmos itens avulsos."
+      ],
+      "skipIf": [
+        "Você procura um desconto adicional no kit de suspiros ou de cookies: nesta comparação ele custa o mesmo que os itens avulsos na mesma quantidade.",
+        "Você já sabe o sabor de pasta que quer: em Leitinho, Cookies e Chocolate ao Leite Crocante, o pote de 450 g sai mais barato por grama que a degustação."
+      ]
+    },
+    "cta": {
+      "text": "Abra o site oficial da La Ganexa pelo botão e digite CECILIA em “Inserir cupom de desconto”, no resumo da compra. Confira a linha “Descontos” antes de pagar.",
+      "label": "Ir para a La Ganexa",
+      "url": "https://lojalaganexa.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIA",
+    "affiliate": "la-ganexa",
+    "editorialNote": "Feito com os preços das páginas e o cupom testado no carrinho da La Ganexa. Ninguém da equipe usou os produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-la-ganexa-como-usar"
+      },
+      {
+        "slug": "la-ganexa-e-boa"
+      },
+      {
+        "slug": "cupom-la-ganexa-primeira-compra"
+      },
+      {
+        "slug": "black-friday-la-ganexa"
+      },
+      {
+        "slug": "dr-peanut-ou-la-ganexa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Nos kits mais vendidos da La Ganexa, os de potes iguais e de alfajores saem mais baratos que os mesmos itens avulsos. Nos suspiros e nos cookies, o kit custa o mesmo, e a degustação de pasta sai mais cara por grama que a maioria dos potes grandes. O cupom CECILIA, de 10% OFF, entrou nos kits e avulsos testados."
+        ]
+      },
+      {
+        "heading": "O cupom CECILIA vale em kit?",
+        "paragraphs": [
+          "No carrinho, sim: o CECILIA tirou 10% de todos os kits que testamos, um por vez. O [cupom La Ganexa](/cupons/la-ganexa) também entrou nos itens avulsos, então ele não muda quem ganha a comparação: o kit e o avulso caem na mesma proporção.",
+          "A loja escreve outra coisa sobre dois kits. A página de regras das promoções diz que o Kit 2 Doce de Leite e o Kit 2 Brigadeiros de Colher não acumulam com cupom, e a página do Kit 2 Brigadeiro repete que o desconto já está aplicado. No nosso carrinho, o cupom entrou nos dois mesmo assim. Como a regra escrita e o carrinho não dizem a mesma coisa, confira a linha de desconto antes de pagar."
+        ],
+        "comparisonTable": {
+          "caption": "Preços das páginas da La Ganexa em 15/11/2026, com o Esquenta Black Friday no ar, sem frete. Valores com o CECILIA lidos no carrinho, um kit por vez. Confira o total final antes de pagar.",
+          "headers": [
+            "Kit",
+            "Preço da página",
+            "Com o CECILIA"
+          ],
+          "rows": [
+            [
+              "Kit 2 Brigadeiro de Colher 250 g",
+              "R$ 83,99",
+              "R$ 75,60"
+            ],
+            [
+              "Kit 4 Brigadeiro de Colher 250 g",
+              "R$ 144,99",
+              "R$ 130,50"
+            ],
+            [
+              "Kit 2 Doce de Leite Zero 400 g",
+              "R$ 127,99",
+              "R$ 115,20"
+            ],
+            [
+              "Kit 2 Pastas sabor Leitinho 450 g",
+              "R$ 102,99",
+              "R$ 92,70"
+            ],
+            [
+              "Kit 10 Suspiros sabor Tradicional",
+              "R$ 99,90",
+              "R$ 89,91"
+            ],
+            [
+              "Kit 3 Alfajores sabor Leitinho",
+              "R$ 35,99",
+              "R$ 32,40"
+            ],
+            [
+              "Kit Degustação de Alfajores",
+              "R$ 79,50",
+              "R$ 71,55"
+            ],
+            [
+              "Kit Degustação Xagadinho",
+              "R$ 24,90",
+              "R$ 22,41"
+            ],
+            [
+              "Kit Degustação Cookies",
+              "R$ 36,28",
+              "R$ 32,66"
+            ],
+            [
+              "Kit Degustação Pasta de Amendoim",
+              "R$ 139,99",
+              "R$ 126,00"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os kits acima são os mais vendidos na ordenação da própria loja, mais dois kits dos mesmos tipos de produto. A comparação é uma amostra, não o catálogo inteiro. O passo a passo do código está em [como usar o cupom da La Ganexa](/reviews/cupom-la-ganexa-como-usar).",
+          "Conta nossa: nas opções avulsas que não passaram pelo carrinho, o valor com o cupom nas tabelas abaixo é o preço da página menos 10%, com o desconto arredondado para baixo, como o carrinho fez nos kits, nos dois Brigadeiros de Colher avulsos e no suspiro de seis unidades."
+        ]
+      },
+      {
+        "heading": "Kit de potes iguais: o kit ganha, e mais ainda no de quatro",
+        "paragraphs": [
+          "Nos kits de dois ou quatro potes iguais, o kit saiu mais barato que os mesmos potes comprados avulsos. A diferença cresce com a quantidade: no Brigadeiro de Colher, o kit de quatro economiza quase seis vezes o que o kit de dois economiza."
+        ],
+        "comparisonTable": {
+          "caption": "Mesmo produto, sabor, tamanho e número de potes nos dois lados, com o CECILIA e sem frete. Preços unitários antes do cupom: Brigadeiro de Colher 250 g, R$ 44,99; Doce de Leite Zero 400 g, R$ 69,99; pasta Leitinho 450 g, R$ 59,99.",
+          "headers": [
+            "Kit",
+            "Total do kit com CECILIA",
+            "Total avulso com CECILIA",
+            "Economia no kit"
+          ],
+          "rows": [
+            [
+              "Kit 2 Brigadeiro de Colher 250 g",
+              "R$ 75,60",
+              "R$ 80,99",
+              "R$ 5,39"
+            ],
+            [
+              "Kit 4 Brigadeiro de Colher 250 g",
+              "R$ 130,50",
+              "R$ 161,97",
+              "R$ 31,47"
+            ],
+            [
+              "Kit 2 Doce de Leite Zero 400 g",
+              "R$ 115,20",
+              "R$ 125,99",
+              "R$ 10,79"
+            ],
+            [
+              "Kit 2 Pastas sabor Leitinho 450 g",
+              "R$ 92,70",
+              "R$ 107,99",
+              "R$ 15,29"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/laganexa/kit-la-ganexa-kit-2-brigadeiro-de-colher.webp",
+            "alt": "Dois potes de Brigadeiro de Colher da La Ganexa lado a lado, em imagem oficial da loja",
+            "caption": "Kit 2 Brigadeiro de Colher 250 g. Imagem: La Ganexa.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Suspiros: o kit custa o mesmo que a opção de quantidade",
+        "paragraphs": [
+          "Nos suspiros, o kit custa o mesmo que a opção de mesma quantidade da página do produto: o Kit 10 Suspiros sai pelo preço da opção de 10 unidades, e o Kit 3, pelo da opção de 3. Tanto faz comprar pelo kit ou pela página do sabor; perto do mínimo do frete grátis, confira no carrinho se o kit conta."
+        ],
+        "comparisonTable": {
+          "caption": "Mesmas condições da primeira tabela. Os suspiros de Tradicional, Caramelo e Pistache têm os mesmos preços.",
+          "headers": [
+            "Opção",
+            "Preço da página",
+            "Por unidade",
+            "Com o CECILIA"
+          ],
+          "rows": [
+            [
+              "Suspiro, 1 unidade",
+              "R$ 15,99",
+              "R$ 15,99",
+              "R$ 14,40"
+            ],
+            [
+              "Suspiro, opção de 3 unidades",
+              "R$ 44,37",
+              "R$ 14,79",
+              "R$ 39,94"
+            ],
+            [
+              "Kit 3 Suspiros",
+              "R$ 44,37",
+              "R$ 14,79",
+              "R$ 39,94"
+            ],
+            [
+              "Suspiro, opção de 6 unidades",
+              "R$ 77,94",
+              "R$ 12,99",
+              "R$ 70,15"
+            ],
+            [
+              "Suspiro, opção de 8 unidades",
+              "R$ 91,92",
+              "R$ 11,49",
+              "R$ 82,73"
+            ],
+            [
+              "Suspiro, opção de 10 unidades",
+              "R$ 99,90",
+              "R$ 9,99",
+              "R$ 89,91"
+            ],
+            [
+              "Kit 10 Suspiros",
+              "R$ 99,90",
+              "R$ 9,99",
+              "R$ 89,91"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O que baixa o preço do suspiro é a quantidade: cada opção maior custa menos por unidade, e na de 10 a unidade sai quase 40% mais barata que a solta."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/laganexa/kit-la-ganexa-kit-10-suspiros-tradicional.webp",
+            "alt": "Pacotes de suspiro sabor Tradicional da La Ganexa com suspiros à frente, em imagem oficial da loja",
+            "caption": "Kit 10 Suspiros sabor Tradicional. Imagem: La Ganexa.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Alfajores: o kit de três sai mais barato que dois mais um",
+        "paragraphs": [
+          "Quem quer três alfajores paga menos no Kit 3 do que somando a opção de duas unidades com uma unidade solta; a página do produto não tem opção de três. Para seis, dois kits de três saem mais baratos que a opção de seis unidades. Para 12, a opção de 12 sai mais barata que quatro kits de três."
+        ],
+        "comparisonTable": {
+          "caption": "Mesmas condições da primeira tabela. Os alfajores de Creme de Avelã, Cookies e Brigadeiro têm os mesmos preços do Leitinho.",
+          "headers": [
+            "Opção",
+            "Preço da página",
+            "Por unidade",
+            "Com o CECILIA"
+          ],
+          "rows": [
+            [
+              "Alfajor Leitinho, 1 unidade",
+              "R$ 15,00",
+              "R$ 15,00",
+              "R$ 13,50"
+            ],
+            [
+              "Alfajor Leitinho, opção de 2 unidades",
+              "R$ 28,78",
+              "R$ 14,39",
+              "R$ 25,91"
+            ],
+            [
+              "Kit 3 Alfajores sabor Leitinho",
+              "R$ 35,99",
+              "R$ 12,00",
+              "R$ 32,40"
+            ],
+            [
+              "Alfajor Leitinho, opção de 6 unidades",
+              "R$ 77,94",
+              "R$ 12,99",
+              "R$ 70,15"
+            ],
+            [
+              "Alfajor Leitinho, opção de 12 unidades",
+              "R$ 136,99",
+              "R$ 11,42",
+              "R$ 123,30"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os alfajores de Pistache e de Caramelo e Flor de Sal custam mais em todas as opções, e o Kit 3 desses sabores também."
+        ]
+      },
+      {
+        "heading": "Kits de degustação: alfajores e Xagadinho ganham, cookies empatam",
+        "paragraphs": [
+          "A degustação de alfajores e a de Xagadinho saíram mais baratas que os mesmos itens avulsos. A de cookies custa exatamente a soma das duas caixas: o kit só junta os dois sabores no mesmo pedido."
+        ],
+        "comparisonTable": {
+          "caption": "Mesmos itens, sabores e quantidades nos dois lados, com o CECILIA e sem frete. Antes do cupom, os avulsos são quatro alfajores de R$ 15,00 e dois de R$ 17,99; dois Xagadinhos de R$ 15,90; ou duas caixas de cookies de R$ 18,14.",
+          "headers": [
+            "Kit",
+            "Total do kit com CECILIA",
+            "Total avulso com CECILIA",
+            "Economia no kit"
+          ],
+          "rows": [
+            [
+              "Kit Degustação de Alfajores, 6 sabores",
+              "R$ 71,55",
+              "R$ 86,39",
+              "R$ 14,84"
+            ],
+            [
+              "Kit Degustação Xagadinho, 2 pacotes de 45 g",
+              "R$ 22,41",
+              "R$ 28,62",
+              "R$ 6,21"
+            ],
+            [
+              "Kit Degustação Cookies, 2 caixas de 50 g",
+              "R$ 32,66",
+              "R$ 32,66",
+              "Empate"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/laganexa/kit-la-ganexa-degustacao-alfajores.webp",
+            "alt": "Seis alfajores da La Ganexa de sabores diferentes sobre uma mesa, em imagem oficial da loja",
+            "caption": "Kit Degustação de Alfajores, com seis sabores. Imagem: La Ganexa.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Degustação de pasta de amendoim: mais cara por grama",
+        "paragraphs": [
+          "A degustação de pasta custa R$ 139,99 por 900 g, e os mesmos seis sabores em potes de 450 g somam R$ 399,94 por 2,7 kg, antes do cupom. Por 100 g, são R$ 15,55 no kit e R$ 14,81 nos potes grandes. O kit exige um gasto menor, mas custa mais pela mesma quantidade de pasta. Os potes de 150 g do kit não são vendidos separadamente.",
+          "Entre os sabores do kit, a degustação custa mais por grama que os potes de 450 g de Leitinho, Cookies e Chocolate ao Leite Crocante, praticamente o mesmo que o de Creme de Avelã e menos que os de Pistache e de Caramelo e Flor de Sal. Ela faz sentido para quem quer experimentar os seis sabores comprando uma quantidade menor de cada um."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/laganexa/kit-la-ganexa-degustacao-pasta-6-sabores.webp",
+            "alt": "Seis potes pequenos de pasta de amendoim da La Ganexa empilhados em duas fileiras, em imagem oficial da loja",
+            "caption": "Kit Degustação Pasta de Amendoim, com seis potes de 150 g. Imagem: La Ganexa.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Brinde e frete grátis: os mínimos contam depois do cupom",
+        "paragraphs": [
+          "A loja informa: o brinde vem, por tempo limitado, em pedidos acima de R$ 180, e o frete grátis, acima de R$ 250 no Sul e no Sudeste e de R$ 350 nas demais regiões. Os dois mínimos contam depois do cupom. No carrinho com o Kit 2 Brigadeiro e o CECILIA, o aviso mostrava quanto faltava para o brinde a partir do valor já com o desconto.",
+          "O Kit 4 Brigadeiro de Colher mais um pote avulso fica em R$ 170,99 com o CECILIA, abaixo do mínimo do brinde. Os mesmos cinco potes comprados avulsos ficam em R$ 202,46: R$ 31,47 a mais, antes do frete. São valores calculados com o cupom. Pela regra anunciada, a segunda opção ultrapassaria o mínimo do brinde; confirme a disponibilidade do presente e o total com entrega no carrinho antes de escolher. A loja não oferece desconto extra no Pix."
+        ],
+        "emphasis": "Antes de pagar, olhe duas linhas do carrinho: a do desconto do cupom e o aviso de quanto falta para o brinde."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O cupom CECILIA funciona em kit da La Ganexa? No carrinho, o CECILIA tirou 10% dos kits que testamos, inclusive dos dois kits que a regra da loja deixa fora da soma com cupom. Confira a linha de desconto antes de pagar.",
+          "Kit ou avulso: qual compensa na La Ganexa? Nos kits de potes iguais e nos de alfajores, o kit saiu mais barato. Nos suspiros e nos cookies, o kit custa o mesmo que a opção avulsa de mesma quantidade.",
+          "O kit degustação de pasta de amendoim vale a pena? Por grama, ele custa mais que a maioria dos potes de 450 g da loja. Vale para provar seis sabores antes de escolher um pote grande.",
+          "A La Ganexa dá desconto no Pix? Não: a loja não dá desconto extra no Pix. O cupom CECILIA vale em todas as formas de pagamento.",
+          "O kit conta para o frete grátis? O mínimo do frete grátis conta depois do cupom, e a loja informa que alguns kits não participam. Confira o frete no carrinho com o seu CEP."
+        ]
+      }
+    ]
   }
 ];

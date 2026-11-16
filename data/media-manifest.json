@@ -99382,6 +99382,236 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/laganexa/kit-la-ganexa-degustacao-alfajores.webp",
+      "local_url": "/images/reviews/laganexa/kit-la-ganexa-degustacao-alfajores.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 130944,
+      "sha256": "62a947bd7024b3259b8dbc86197c73a54807824e96438d269294466c9fc1b00a",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-la-ganexa-degustacao-alfajores.webp",
+      "storage_filename": "kit-la-ganexa-degustacao-alfajores.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-la-ganexa-ou-avulso-qual-sai-mais-barato.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-la-ganexa-ou-avulso-qual-sai-mais-barato.json",
+          "line": 349,
+          "column": 19,
+          "literal": "/images/reviews/laganexa/kit-la-ganexa-degustacao-alfajores.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 229420,
+          "column": 21,
+          "literal": "/images/reviews/laganexa/kit-la-ganexa-degustacao-alfajores.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/62a947bd7024b3259b8dbc86197c73a54807824e96438d269294466c9fc1b00a/kit-la-ganexa-degustacao-alfajores.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/62a947bd7024b3259b8dbc86197c73a54807824e96438d269294466c9fc1b00a/kit-la-ganexa-degustacao-alfajores.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T02:00:43.497Z",
+      "verification_etag_or_digest": "62a947bd7024b3259b8dbc86197c73a54807824e96438d269294466c9fc1b00a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/laganexa/kit-la-ganexa-degustacao-pasta-6-sabores.webp",
+      "local_url": "/images/reviews/laganexa/kit-la-ganexa-degustacao-pasta-6-sabores.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 79016,
+      "sha256": "6015ffd63fc2a659f4321b2c4ba096bb3a28db857e645a6b3c828aed28394f20",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-la-ganexa-degustacao-pasta-6-sabores.webp",
+      "storage_filename": "kit-la-ganexa-degustacao-pasta-6-sabores.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-la-ganexa-ou-avulso-qual-sai-mais-barato.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-la-ganexa-ou-avulso-qual-sai-mais-barato.json",
+          "line": 364,
+          "column": 19,
+          "literal": "/images/reviews/laganexa/kit-la-ganexa-degustacao-pasta-6-sabores.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 229435,
+          "column": 21,
+          "literal": "/images/reviews/laganexa/kit-la-ganexa-degustacao-pasta-6-sabores.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6015ffd63fc2a659f4321b2c4ba096bb3a28db857e645a6b3c828aed28394f20/kit-la-ganexa-degustacao-pasta-6-sabores.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6015ffd63fc2a659f4321b2c4ba096bb3a28db857e645a6b3c828aed28394f20/kit-la-ganexa-degustacao-pasta-6-sabores.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T02:00:43.497Z",
+      "verification_etag_or_digest": "6015ffd63fc2a659f4321b2c4ba096bb3a28db857e645a6b3c828aed28394f20",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/laganexa/kit-la-ganexa-kit-10-suspiros-tradicional.webp",
+      "local_url": "/images/reviews/laganexa/kit-la-ganexa-kit-10-suspiros-tradicional.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 99496,
+      "sha256": "0771b96bd03f7d1472465160ec93763f36550abc7d0b0e3e543881873ba3a5bf",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-la-ganexa-kit-10-suspiros-tradicional.webp",
+      "storage_filename": "kit-la-ganexa-kit-10-suspiros-tradicional.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-la-ganexa-ou-avulso-qual-sai-mais-barato.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-la-ganexa-ou-avulso-qual-sai-mais-barato.json",
+          "line": 256,
+          "column": 19,
+          "literal": "/images/reviews/laganexa/kit-la-ganexa-kit-10-suspiros-tradicional.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 229327,
+          "column": 21,
+          "literal": "/images/reviews/laganexa/kit-la-ganexa-kit-10-suspiros-tradicional.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0771b96bd03f7d1472465160ec93763f36550abc7d0b0e3e543881873ba3a5bf/kit-la-ganexa-kit-10-suspiros-tradicional.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0771b96bd03f7d1472465160ec93763f36550abc7d0b0e3e543881873ba3a5bf/kit-la-ganexa-kit-10-suspiros-tradicional.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T02:00:43.497Z",
+      "verification_etag_or_digest": "0771b96bd03f7d1472465160ec93763f36550abc7d0b0e3e543881873ba3a5bf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/laganexa/kit-la-ganexa-kit-2-brigadeiro-de-colher.webp",
+      "local_url": "/images/reviews/laganexa/kit-la-ganexa-kit-2-brigadeiro-de-colher.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 98296,
+      "sha256": "86f788837946a718a135304c1fb2286e500a37d545c679795e3c9af80fe76c6e",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-la-ganexa-kit-2-brigadeiro-de-colher.webp",
+      "storage_filename": "kit-la-ganexa-kit-2-brigadeiro-de-colher.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-la-ganexa-ou-avulso-qual-sai-mais-barato.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-la-ganexa-ou-avulso-qual-sai-mais-barato.json",
+          "line": 186,
+          "column": 19,
+          "literal": "/images/reviews/laganexa/kit-la-ganexa-kit-2-brigadeiro-de-colher.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 229257,
+          "column": 21,
+          "literal": "/images/reviews/laganexa/kit-la-ganexa-kit-2-brigadeiro-de-colher.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/86f788837946a718a135304c1fb2286e500a37d545c679795e3c9af80fe76c6e/kit-la-ganexa-kit-2-brigadeiro-de-colher.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/86f788837946a718a135304c1fb2286e500a37d545c679795e3c9af80fe76c6e/kit-la-ganexa-kit-2-brigadeiro-de-colher.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T02:00:43.497Z",
+      "verification_etag_or_digest": "86f788837946a718a135304c1fb2286e500a37d545c679795e3c9af80fe76c6e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/laganexa/kit-la-ganexa-ou-avulso-capa.webp",
+      "local_url": "/images/reviews/laganexa/kit-la-ganexa-ou-avulso-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 198182,
+      "sha256": "727e0128a5305242cb8ea1a5a7f6a693257f809e31b18d9679bf6b5779a6f59c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-la-ganexa-ou-avulso-capa.webp",
+      "storage_filename": "kit-la-ganexa-ou-avulso-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-la-ganexa-ou-avulso-qual-sai-mais-barato.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-la-ganexa-ou-avulso-qual-sai-mais-barato.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/laganexa/kit-la-ganexa-ou-avulso-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 229093,
+          "column": 15,
+          "literal": "/images/reviews/laganexa/kit-la-ganexa-ou-avulso-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/727e0128a5305242cb8ea1a5a7f6a693257f809e31b18d9679bf6b5779a6f59c/kit-la-ganexa-ou-avulso-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/727e0128a5305242cb8ea1a5a7f6a693257f809e31b18d9679bf6b5779a6f59c/kit-la-ganexa-ou-avulso-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T02:00:43.497Z",
+      "verification_etag_or_digest": "727e0128a5305242cb8ea1a5a7f6a693257f809e31b18d9679bf6b5779a6f59c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/laganexa/la-ganexa-e-boa-capa-v2.webp",
       "local_url": "/images/reviews/laganexa/la-ganexa-e-boa-capa-v2.webp",
       "media_kind": "image",
