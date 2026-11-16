@@ -124439,6 +124439,924 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/shein/black-friday-shein-17-faixa-natal-lareira.webp",
+      "local_url": "/images/reviews/shein/black-friday-shein-17-faixa-natal-lareira.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 132180,
+      "sha256": "65f6ebee4a2406365dac1a7bb1cc5813e7d41ecc05c841bd433d2f925e41cf93",
+      "width": 750,
+      "height": 750,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-shein-17-faixa-natal-lareira.webp",
+      "storage_filename": "black-friday-shein-17-faixa-natal-lareira.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-shein.json",
+        "content/reviews/shein-black-friday-dates-taxes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-shein.json",
+          "line": 841,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-17-faixa-natal-lareira.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-dates-taxes.json",
+          "line": 815,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-17-faixa-natal-lareira.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 61270,
+          "column": 19,
+          "literal": "/images/reviews/shein/black-friday-shein-17-faixa-natal-lareira.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/65f6ebee4a2406365dac1a7bb1cc5813e7d41ecc05c841bd433d2f925e41cf93/black-friday-shein-17-faixa-natal-lareira.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/65f6ebee4a2406365dac1a7bb1cc5813e7d41ecc05c841bd433d2f925e41cf93/black-friday-shein-17-faixa-natal-lareira.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T20:19:02.444Z",
+      "verification_etag_or_digest": "65f6ebee4a2406365dac1a7bb1cc5813e7d41ecc05c841bd433d2f925e41cf93",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/black-friday-shein-16-kit-20-aneis.webp",
+      "local_url": "/images/reviews/shein/black-friday-shein-16-kit-20-aneis.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44402,
+      "sha256": "a198de02e4fb438b9685430887c6332b4c2ff47a3e36633b411f9b8a6451dffd",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-shein-16-kit-20-aneis.webp",
+      "storage_filename": "black-friday-shein-16-kit-20-aneis.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-shein.json",
+        "content/reviews/shein-black-friday-dates-taxes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-shein.json",
+          "line": 810,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-16-kit-20-aneis.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-dates-taxes.json",
+          "line": 784,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-16-kit-20-aneis.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 61239,
+          "column": 19,
+          "literal": "/images/reviews/shein/black-friday-shein-16-kit-20-aneis.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a198de02e4fb438b9685430887c6332b4c2ff47a3e36633b411f9b8a6451dffd/black-friday-shein-16-kit-20-aneis.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a198de02e4fb438b9685430887c6332b4c2ff47a3e36633b411f9b8a6451dffd/black-friday-shein-16-kit-20-aneis.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T20:19:02.445Z",
+      "verification_etag_or_digest": "a198de02e4fb438b9685430887c6332b4c2ff47a3e36633b411f9b8a6451dffd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/black-friday-shein-15-macacao-bebe.webp",
+      "local_url": "/images/reviews/shein/black-friday-shein-15-macacao-bebe.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 53434,
+      "sha256": "bd2a04878702300d4767eef3a2c40a74658a69675362545a684866827b489f5b",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-shein-15-macacao-bebe.webp",
+      "storage_filename": "black-friday-shein-15-macacao-bebe.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-shein.json",
+        "content/reviews/shein-black-friday-dates-taxes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-shein.json",
+          "line": 773,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-15-macacao-bebe.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-dates-taxes.json",
+          "line": 747,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-15-macacao-bebe.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 61202,
+          "column": 19,
+          "literal": "/images/reviews/shein/black-friday-shein-15-macacao-bebe.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bd2a04878702300d4767eef3a2c40a74658a69675362545a684866827b489f5b/black-friday-shein-15-macacao-bebe.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bd2a04878702300d4767eef3a2c40a74658a69675362545a684866827b489f5b/black-friday-shein-15-macacao-bebe.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T20:19:02.445Z",
+      "verification_etag_or_digest": "bd2a04878702300d4767eef3a2c40a74658a69675362545a684866827b489f5b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/black-friday-shein-14-conjunto-infantil-laco.webp",
+      "local_url": "/images/reviews/shein/black-friday-shein-14-conjunto-infantil-laco.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 76974,
+      "sha256": "f1054df6f4dbdc4c8424bc9a3355cc8c0a6ac6b5efe5af5f2e4392ab785bba15",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-shein-14-conjunto-infantil-laco.webp",
+      "storage_filename": "black-friday-shein-14-conjunto-infantil-laco.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-shein.json",
+        "content/reviews/shein-black-friday-dates-taxes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-shein.json",
+          "line": 742,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-14-conjunto-infantil-laco.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-dates-taxes.json",
+          "line": 716,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-14-conjunto-infantil-laco.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 61171,
+          "column": 19,
+          "literal": "/images/reviews/shein/black-friday-shein-14-conjunto-infantil-laco.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f1054df6f4dbdc4c8424bc9a3355cc8c0a6ac6b5efe5af5f2e4392ab785bba15/black-friday-shein-14-conjunto-infantil-laco.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f1054df6f4dbdc4c8424bc9a3355cc8c0a6ac6b5efe5af5f2e4392ab785bba15/black-friday-shein-14-conjunto-infantil-laco.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T20:19:02.445Z",
+      "verification_etag_or_digest": "f1054df6f4dbdc4c8424bc9a3355cc8c0a6ac6b5efe5af5f2e4392ab785bba15",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/black-friday-shein-13-pijama-urso.webp",
+      "local_url": "/images/reviews/shein/black-friday-shein-13-pijama-urso.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 63406,
+      "sha256": "4efb63bdad9c9a6a8e1ccb612319fb516595094b972232c0d3e57bed9b13f419",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-shein-13-pijama-urso.webp",
+      "storage_filename": "black-friday-shein-13-pijama-urso.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-shein.json",
+        "content/reviews/shein-black-friday-dates-taxes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-shein.json",
+          "line": 705,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-13-pijama-urso.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-dates-taxes.json",
+          "line": 679,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-13-pijama-urso.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 61134,
+          "column": 19,
+          "literal": "/images/reviews/shein/black-friday-shein-13-pijama-urso.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4efb63bdad9c9a6a8e1ccb612319fb516595094b972232c0d3e57bed9b13f419/black-friday-shein-13-pijama-urso.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4efb63bdad9c9a6a8e1ccb612319fb516595094b972232c0d3e57bed9b13f419/black-friday-shein-13-pijama-urso.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T20:19:02.445Z",
+      "verification_etag_or_digest": "4efb63bdad9c9a6a8e1ccb612319fb516595094b972232c0d3e57bed9b13f419",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/black-friday-shein-12-saida-de-praia.webp",
+      "local_url": "/images/reviews/shein/black-friday-shein-12-saida-de-praia.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49860,
+      "sha256": "9d1e5b7ef53dbc0b1f157d655eef79a81e6b1272e6ba635ed3cf0a78ad99ada8",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-shein-12-saida-de-praia.webp",
+      "storage_filename": "black-friday-shein-12-saida-de-praia.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-shein.json",
+        "content/reviews/shein-black-friday-dates-taxes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-shein.json",
+          "line": 668,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-12-saida-de-praia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-dates-taxes.json",
+          "line": 642,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-12-saida-de-praia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 61097,
+          "column": 19,
+          "literal": "/images/reviews/shein/black-friday-shein-12-saida-de-praia.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9d1e5b7ef53dbc0b1f157d655eef79a81e6b1272e6ba635ed3cf0a78ad99ada8/black-friday-shein-12-saida-de-praia.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9d1e5b7ef53dbc0b1f157d655eef79a81e6b1272e6ba635ed3cf0a78ad99ada8/black-friday-shein-12-saida-de-praia.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T20:19:02.445Z",
+      "verification_etag_or_digest": "9d1e5b7ef53dbc0b1f157d655eef79a81e6b1272e6ba635ed3cf0a78ad99ada8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/black-friday-shein-11-maio-costavie.webp",
+      "local_url": "/images/reviews/shein/black-friday-shein-11-maio-costavie.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50124,
+      "sha256": "196426a6aff2f1afd12e4415902f8741b65000bfb3cefae201251c1fd12d64b5",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-shein-11-maio-costavie.webp",
+      "storage_filename": "black-friday-shein-11-maio-costavie.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-shein.json",
+        "content/reviews/shein-black-friday-dates-taxes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-shein.json",
+          "line": 631,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-11-maio-costavie.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-dates-taxes.json",
+          "line": 605,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-11-maio-costavie.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 61060,
+          "column": 19,
+          "literal": "/images/reviews/shein/black-friday-shein-11-maio-costavie.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/196426a6aff2f1afd12e4415902f8741b65000bfb3cefae201251c1fd12d64b5/black-friday-shein-11-maio-costavie.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/196426a6aff2f1afd12e4415902f8741b65000bfb3cefae201251c1fd12d64b5/black-friday-shein-11-maio-costavie.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T20:19:02.445Z",
+      "verification_etag_or_digest": "196426a6aff2f1afd12e4415902f8741b65000bfb3cefae201251c1fd12d64b5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/black-friday-shein-10-legging-yefecy.webp",
+      "local_url": "/images/reviews/shein/black-friday-shein-10-legging-yefecy.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36462,
+      "sha256": "261f304fa502c0ec5dda5d01a6e84d7c5b423aefb89d334c7361d8b9f5184918",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-shein-10-legging-yefecy.webp",
+      "storage_filename": "black-friday-shein-10-legging-yefecy.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-shein.json",
+        "content/reviews/shein-black-friday-dates-taxes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-shein.json",
+          "line": 594,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-10-legging-yefecy.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-dates-taxes.json",
+          "line": 568,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-10-legging-yefecy.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 61023,
+          "column": 19,
+          "literal": "/images/reviews/shein/black-friday-shein-10-legging-yefecy.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/261f304fa502c0ec5dda5d01a6e84d7c5b423aefb89d334c7361d8b9f5184918/black-friday-shein-10-legging-yefecy.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/261f304fa502c0ec5dda5d01a6e84d7c5b423aefb89d334c7361d8b9f5184918/black-friday-shein-10-legging-yefecy.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T20:19:02.445Z",
+      "verification_etag_or_digest": "261f304fa502c0ec5dda5d01a6e84d7c5b423aefb89d334c7361d8b9f5184918",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/black-friday-shein-09-top-esportivo-anewsta.webp",
+      "local_url": "/images/reviews/shein/black-friday-shein-09-top-esportivo-anewsta.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49750,
+      "sha256": "4b672eb33c500ed5d4796d62eb3e3de5e76ae466ffe212705c75f65ee321782d",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-shein-09-top-esportivo-anewsta.webp",
+      "storage_filename": "black-friday-shein-09-top-esportivo-anewsta.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-shein.json",
+        "content/reviews/shein-black-friday-dates-taxes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-shein.json",
+          "line": 557,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-09-top-esportivo-anewsta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-dates-taxes.json",
+          "line": 531,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-09-top-esportivo-anewsta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60986,
+          "column": 19,
+          "literal": "/images/reviews/shein/black-friday-shein-09-top-esportivo-anewsta.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4b672eb33c500ed5d4796d62eb3e3de5e76ae466ffe212705c75f65ee321782d/black-friday-shein-09-top-esportivo-anewsta.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4b672eb33c500ed5d4796d62eb3e3de5e76ae466ffe212705c75f65ee321782d/black-friday-shein-09-top-esportivo-anewsta.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T20:19:02.445Z",
+      "verification_etag_or_digest": "4b672eb33c500ed5d4796d62eb3e3de5e76ae466ffe212705c75f65ee321782d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/black-friday-shein-08-jaqueta-camurca.webp",
+      "local_url": "/images/reviews/shein/black-friday-shein-08-jaqueta-camurca.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58082,
+      "sha256": "09824f87a7c508eee49c1599437584e169d33b2a3e999d6d860a3d4c187ba196",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-shein-08-jaqueta-camurca.webp",
+      "storage_filename": "black-friday-shein-08-jaqueta-camurca.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-shein.json",
+        "content/reviews/shein-black-friday-dates-taxes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-shein.json",
+          "line": 520,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-08-jaqueta-camurca.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-dates-taxes.json",
+          "line": 494,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-08-jaqueta-camurca.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60949,
+          "column": 19,
+          "literal": "/images/reviews/shein/black-friday-shein-08-jaqueta-camurca.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/09824f87a7c508eee49c1599437584e169d33b2a3e999d6d860a3d4c187ba196/black-friday-shein-08-jaqueta-camurca.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/09824f87a7c508eee49c1599437584e169d33b2a3e999d6d860a3d4c187ba196/black-friday-shein-08-jaqueta-camurca.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T20:19:02.445Z",
+      "verification_etag_or_digest": "09824f87a7c508eee49c1599437584e169d33b2a3e999d6d860a3d4c187ba196",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/black-friday-shein-07-camisa-xadrez-sweetra.webp",
+      "local_url": "/images/reviews/shein/black-friday-shein-07-camisa-xadrez-sweetra.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 67488,
+      "sha256": "ac8c2b7a4a8c2abe9c7cf64a8c12b550fc8b3cc3e60162d73e49d988cf65646d",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-shein-07-camisa-xadrez-sweetra.webp",
+      "storage_filename": "black-friday-shein-07-camisa-xadrez-sweetra.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-shein.json",
+        "content/reviews/shein-black-friday-dates-taxes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-shein.json",
+          "line": 489,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-07-camisa-xadrez-sweetra.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-dates-taxes.json",
+          "line": 463,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-07-camisa-xadrez-sweetra.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60918,
+          "column": 19,
+          "literal": "/images/reviews/shein/black-friday-shein-07-camisa-xadrez-sweetra.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ac8c2b7a4a8c2abe9c7cf64a8c12b550fc8b3cc3e60162d73e49d988cf65646d/black-friday-shein-07-camisa-xadrez-sweetra.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ac8c2b7a4a8c2abe9c7cf64a8c12b550fc8b3cc3e60162d73e49d988cf65646d/black-friday-shein-07-camisa-xadrez-sweetra.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T20:19:02.445Z",
+      "verification_etag_or_digest": "ac8c2b7a4a8c2abe9c7cf64a8c12b550fc8b3cc3e60162d73e49d988cf65646d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/black-friday-shein-06-blusa-guingao-ezwear.webp",
+      "local_url": "/images/reviews/shein/black-friday-shein-06-blusa-guingao-ezwear.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78992,
+      "sha256": "df61774bd7b25ce4aec4ab26144c35b68e1af0cb56e47865c71ef501f4884df8",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-shein-06-blusa-guingao-ezwear.webp",
+      "storage_filename": "black-friday-shein-06-blusa-guingao-ezwear.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-shein.json",
+        "content/reviews/shein-black-friday-dates-taxes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-shein.json",
+          "line": 458,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-06-blusa-guingao-ezwear.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-dates-taxes.json",
+          "line": 432,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-06-blusa-guingao-ezwear.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60887,
+          "column": 19,
+          "literal": "/images/reviews/shein/black-friday-shein-06-blusa-guingao-ezwear.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/df61774bd7b25ce4aec4ab26144c35b68e1af0cb56e47865c71ef501f4884df8/black-friday-shein-06-blusa-guingao-ezwear.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/df61774bd7b25ce4aec4ab26144c35b68e1af0cb56e47865c71ef501f4884df8/black-friday-shein-06-blusa-guingao-ezwear.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T20:19:02.445Z",
+      "verification_etag_or_digest": "df61774bd7b25ce4aec4ab26144c35b68e1af0cb56e47865c71ef501f4884df8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/black-friday-shein-05-top-renda-parichic.webp",
+      "local_url": "/images/reviews/shein/black-friday-shein-05-top-renda-parichic.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 110886,
+      "sha256": "0cd3b07723192177602ae800063801c7d70210062f89992035346672ac19a4da",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-shein-05-top-renda-parichic.webp",
+      "storage_filename": "black-friday-shein-05-top-renda-parichic.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-shein.json",
+        "content/reviews/shein-black-friday-dates-taxes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-shein.json",
+          "line": 428,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-05-top-renda-parichic.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-dates-taxes.json",
+          "line": 402,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-05-top-renda-parichic.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60857,
+          "column": 19,
+          "literal": "/images/reviews/shein/black-friday-shein-05-top-renda-parichic.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0cd3b07723192177602ae800063801c7d70210062f89992035346672ac19a4da/black-friday-shein-05-top-renda-parichic.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0cd3b07723192177602ae800063801c7d70210062f89992035346672ac19a4da/black-friday-shein-05-top-renda-parichic.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T20:19:02.445Z",
+      "verification_etag_or_digest": "0cd3b07723192177602ae800063801c7d70210062f89992035346672ac19a4da",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/black-friday-shein-04-conjunto-top-pantalona.webp",
+      "local_url": "/images/reviews/shein/black-friday-shein-04-conjunto-top-pantalona.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49678,
+      "sha256": "021e46e39c6a7efa3fc848f8b40c9b768f9c1b62338769d8170b6350fbeb3938",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-shein-04-conjunto-top-pantalona.webp",
+      "storage_filename": "black-friday-shein-04-conjunto-top-pantalona.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-shein.json",
+        "content/reviews/shein-black-friday-dates-taxes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-shein.json",
+          "line": 391,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-04-conjunto-top-pantalona.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-dates-taxes.json",
+          "line": 366,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-04-conjunto-top-pantalona.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60820,
+          "column": 19,
+          "literal": "/images/reviews/shein/black-friday-shein-04-conjunto-top-pantalona.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/021e46e39c6a7efa3fc848f8b40c9b768f9c1b62338769d8170b6350fbeb3938/black-friday-shein-04-conjunto-top-pantalona.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/021e46e39c6a7efa3fc848f8b40c9b768f9c1b62338769d8170b6350fbeb3938/black-friday-shein-04-conjunto-top-pantalona.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T20:19:02.445Z",
+      "verification_etag_or_digest": "021e46e39c6a7efa3fc848f8b40c9b768f9c1b62338769d8170b6350fbeb3938",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/black-friday-shein-03-vestido-floral-opulessa.webp",
+      "local_url": "/images/reviews/shein/black-friday-shein-03-vestido-floral-opulessa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50258,
+      "sha256": "3bfafd05d64e31ff84701c9168de65388f2ef06b8b57553600ff6a33af5ffc1c",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-shein-03-vestido-floral-opulessa.webp",
+      "storage_filename": "black-friday-shein-03-vestido-floral-opulessa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-shein.json",
+        "content/reviews/shein-black-friday-dates-taxes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-shein.json",
+          "line": 360,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-03-vestido-floral-opulessa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-dates-taxes.json",
+          "line": 335,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-03-vestido-floral-opulessa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60789,
+          "column": 19,
+          "literal": "/images/reviews/shein/black-friday-shein-03-vestido-floral-opulessa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3bfafd05d64e31ff84701c9168de65388f2ef06b8b57553600ff6a33af5ffc1c/black-friday-shein-03-vestido-floral-opulessa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3bfafd05d64e31ff84701c9168de65388f2ef06b8b57553600ff6a33af5ffc1c/black-friday-shein-03-vestido-floral-opulessa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T20:19:02.445Z",
+      "verification_etag_or_digest": "3bfafd05d64e31ff84701c9168de65388f2ef06b8b57553600ff6a33af5ffc1c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/black-friday-shein-02-vestido-mini-petite.webp",
+      "local_url": "/images/reviews/shein/black-friday-shein-02-vestido-mini-petite.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28242,
+      "sha256": "870771f4cce603e5dcfbf9ad4adc83b07ad3ba1317145e3ccaf87d71c4f27cca",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-shein-02-vestido-mini-petite.webp",
+      "storage_filename": "black-friday-shein-02-vestido-mini-petite.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-shein.json",
+        "content/reviews/shein-black-friday-dates-taxes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-shein.json",
+          "line": 329,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-02-vestido-mini-petite.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-dates-taxes.json",
+          "line": 304,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-02-vestido-mini-petite.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60758,
+          "column": 19,
+          "literal": "/images/reviews/shein/black-friday-shein-02-vestido-mini-petite.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/870771f4cce603e5dcfbf9ad4adc83b07ad3ba1317145e3ccaf87d71c4f27cca/black-friday-shein-02-vestido-mini-petite.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/870771f4cce603e5dcfbf9ad4adc83b07ad3ba1317145e3ccaf87d71c4f27cca/black-friday-shein-02-vestido-mini-petite.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T20:19:02.445Z",
+      "verification_etag_or_digest": "870771f4cce603e5dcfbf9ad4adc83b07ad3ba1317145e3ccaf87d71c4f27cca",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/black-friday-shein-01-vestido-longo-bae.webp",
+      "local_url": "/images/reviews/shein/black-friday-shein-01-vestido-longo-bae.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27140,
+      "sha256": "55537445c8071007f71b7dce28425e78da1e3ee54810eac5a662271718676a42",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-shein-01-vestido-longo-bae.webp",
+      "storage_filename": "black-friday-shein-01-vestido-longo-bae.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-shein.json",
+        "content/reviews/shein-black-friday-dates-taxes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-shein.json",
+          "line": 298,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-01-vestido-longo-bae.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-dates-taxes.json",
+          "line": 273,
+          "column": 17,
+          "literal": "/images/reviews/shein/black-friday-shein-01-vestido-longo-bae.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60727,
+          "column": 19,
+          "literal": "/images/reviews/shein/black-friday-shein-01-vestido-longo-bae.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/55537445c8071007f71b7dce28425e78da1e3ee54810eac5a662271718676a42/black-friday-shein-01-vestido-longo-bae.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/55537445c8071007f71b7dce28425e78da1e3ee54810eac5a662271718676a42/black-friday-shein-01-vestido-longo-bae.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T20:19:02.445Z",
+      "verification_etag_or_digest": "55537445c8071007f71b7dce28425e78da1e3ee54810eac5a662271718676a42",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/shein/black-friday-shein-capa-faixa.webp",
       "local_url": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
       "media_kind": "image",

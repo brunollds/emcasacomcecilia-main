@@ -3,8 +3,8 @@
   "slug": "shein-black-friday-zh-hant",
   "locale": "zh-hant",
   "translationKey": "shein-black-friday",
-  "title": "Black Friday SHEIN 2026（黑色星期五）：何時開始、目前所知，以及代碼 4CW5Y 怎麼用",
-  "seoTitle": "SHEIN 黑色星期五 2026：何時開始與目前所知",
+  "title": "SHEIN 黑色星期五 2026：買什麼、何時開始，以及推薦碼 4CW5Y 怎麼用",
+  "seoTitle": "SHEIN 黑色星期五 2026：買什麼與何時開始",
   "type": "黑色星期五指南",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,11 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "2026 年黑色星期五是 11 月 27 日，SHEIN 的活動日程因國家而異。目前所知的資訊、優惠券、點數、退貨，以及代碼 4CW5Y。",
+  "description": "SHEIN 黑色星期五值得看的 17 件單品，附布料與尺寸，另有六個活動捷徑、優惠券、退貨說明，以及推薦碼 4CW5Y。",
   "metaDescription": "SHEIN 黑色星期五 2026：11 月 27 日，各國日程不同。推薦碼 4CW5Y 會開啟含促銷和折扣的頁面。",
   "publishedAt": "2026年10月11日",
   "publishedAtISO": "2026-10-11",
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-16",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -35,7 +35,7 @@
     {
       "heading": "快速解答",
       "paragraphs": [
-        "2026 年黑色星期五是 11 月 27 日。我們沒有找到適用於所有國家的 SHEIN 日程：日期和折扣因國家而異。4CW5Y 確實有折扣：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋 4CW5Y，會開啟一個含商品、促銷和折扣的頁面。"
+        "2026 年黑色星期五是 11 月 27 日，SHEIN 的活動日程因國家而異。本文整理了 17 件附布料與尺寸的單品，以及六個活動捷徑。在 SHEIN App 或網站搜尋推薦碼 4CW5Y，會開啟含促銷和折扣的商品頁面；折扣多少、涵蓋哪些商品由 SHEIN 決定。"
       ]
     },
     {
@@ -64,11 +64,751 @@
       ]
     },
     {
+      "heading": "買什麼：17 件單品一次看",
+      "paragraphs": [
+        "這 17 件是活動中挑出的單品，涵蓋派對、日常穿搭、運動、海邊、睡衣、童裝、配件和聖誕佈置。我們在 11 月中旬逐一打開商品頁：布料、尺寸、評分和顯示的折扣都以當天頁面為準。"
+      ],
+      "comparisonTable": {
+        "caption": "折扣為我們查看時各商品頁顯示的數字。活動期間價格和折扣會變動，也可能因顏色和尺碼而異。",
+        "headers": [
+          "單品",
+          "頁面顯示的折扣",
+          "適合用在"
+        ],
+        "rows": [
+          [
+            "[SHEIN BAE 細肩帶洋裝](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
+            "-20%",
+            "派對、晚餐與約會"
+          ],
+          [
+            "[SHEIN PETITE 掛頸短洋裝](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
+            "-20%",
+            "派對與約會，Petite 尺碼"
+          ],
+          [
+            "[Opulessa 碎花洋裝](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
+            "-20%",
+            "度假與炎熱天氣"
+          ],
+          [
+            "[棕白上衣與寬褲兩件套](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
+            "-20%",
+            "休閒上班與週末"
+          ],
+          [
+            "[SHEIN PariChic 立領蕾絲上衣](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
+            "-20%",
+            "單穿或疊穿"
+          ],
+          [
+            "[SHEIN EZwear 格紋荷葉下襬上衣](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
+            "—",
+            "夏日休閒，寬鬆版型"
+          ],
+          [
+            "[Sweetra 無袖格紋側繫帶襯衫](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
+            "-20%",
+            "休閒，腰間收緊"
+          ],
+          [
+            "[人造麂皮拉鍊外套](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
+            "-20%",
+            "換季與旅行"
+          ],
+          [
+            "[Anewsta 交叉美背運動內衣](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
+            "—",
+            "運動與瑜伽"
+          ],
+          [
+            "[Yefecy 無縫緊身褲](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
+            "-20%",
+            "運動與瑜伽"
+          ],
+          [
+            "[Costavie 藏青白邊連身泳衣](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
+            "-20%",
+            "海邊與泳池"
+          ],
+          [
+            "[SHEIN Swim 印花沙灘罩衫](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
+            "-20%",
+            "穿在泳衣或比基尼外面"
+          ],
+          [
+            "[小熊印花細肩帶背心短褲睡衣組](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
+            "-20%",
+            "睡覺與居家休閒"
+          ],
+          [
+            "[女童 Polo 領上衣與寬褲套裝](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
+            "—",
+            "4 至 8 歲女童，換季"
+          ],
+          [
+            "[太空人造型嬰兒連身衣](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
+            "-20%",
+            "1 至 12 個月的嬰兒"
+          ],
+          [
+            "[20 枚銀色戒指組](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
+            "-20%",
+            "日常配件與小禮物"
+          ],
+          [
+            "[壁爐印花聖誕門簾](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
+            "-18%",
+            "聖誕佈置"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "我們刻意不列價格：每個連結都會在你所在地區的 SHEIN 商店開啟該商品，並以你的貨幣顯示價格。",
+        "請依每件商品的尺寸表（以公分計）選尺碼，不要只看字母：SHEIN 內不同品牌的尺碼差異很大。[SHEIN 尺寸指南](/zh-hant/reviews/shein-size-guide-zh-hant)會教你怎麼量身體、怎麼看尺寸表。"
+      ]
+    },
+    {
+      "heading": "六個活動捷徑，在 App 裡搜尋",
+      "paragraphs": [
+        "除了單品，SHEIN 也為這次活動做了幾個主題精選。每個精選都有一組搜尋碼：在 SHEIN App 的搜尋欄輸入該碼，或透過連結開啟，就會看到該精選。這些碼只是搜尋捷徑：不在結帳時輸入，也不是優惠券。"
+      ],
+      "comparisonTable": {
+        "caption": "每個精選收錄的內容。各精選顯示的折扣只適用於其中部分商品，不是整個購物車。",
+        "headers": [
+          "精選",
+          "搜尋碼",
+          "收錄內容"
+        ],
+        "rows": [
+          [
+            "[活動熱銷榜](https://onelink.shein.com/60/68f7ufe4ubai)",
+            "24V7643",
+            "活動期間賣得最好的商品"
+          ],
+          [
+            "[清倉與新用戶優惠券](https://onelink.shein.com/60/68f7vymzstri)",
+            "B75N67A",
+            "清倉商品，以及 SHEIN 公布給新用戶的優惠券"
+          ],
+          [
+            "[睡衣與內衣](https://onelink.shein.com/60/68f7wq9fealr)",
+            "J9HCV76",
+            "睡衣、居家服和內衣"
+          ],
+          [
+            "[男士精選](https://onelink.shein.com/60/68f7x04kxv9f)",
+            "7G433M3",
+            "特價中的男裝與配件"
+          ],
+          [
+            "[SHEGLAM 彩妝](https://onelink.shein.com/60/68f7xltx7684)",
+            "7R422UP",
+            "SHEIN 自有美妝品牌的彩妝"
+          ],
+          [
+            "[找到最合身的尺寸](https://onelink.shein.com/60/68f7xvp2pcac)",
+            "M3UP428",
+            "依風格和版型分類的服飾"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "B75N67A 精選裡的優惠券只限新用戶使用。上限、最低消費金額和誰能使用，會顯示在你的帳號和結帳頁面。",
+        "4CW5Y 則不同：它是 Cecília 的推薦碼。在 App 或網站搜尋它，或透過本文的連結開啟，會進入含促銷和折扣的精選，老用戶也能使用。",
+        "有兩個精選在退貨上要多留意。內衣和貼身衣物的退貨規定通常較嚴，化妝品拆封後也一樣：拆封前請先在 SHEGLAM 頁面確認色號和成分表，付款前請先讀所在商店的退貨政策。",
+        "M3UP428 精選依風格和版型整理服飾。請搭配每件商品的尺寸表一起使用。"
+      ]
+    },
+    {
+      "heading": "洋裝與一套兩件式：派對、度假與日常",
+      "paragraphs": [
+        "三件洋裝和一套兩件式。其中兩件洋裝的布料沒有彈性，這類款式要以胸圍和腰圍來決定尺碼。"
+      ]
+    },
+    {
+      "heading": "SHEIN BAE 細肩帶洋裝",
+      "bullets": [
+        "我們查看時頁面顯示的折扣：-20%。",
+        "尺碼：XXS 至 XXL，另有 Petite 系列。",
+        "布料：100% 聚酯纖維，無襯裡、無彈性。",
+        "商店評分 4.82，評價超過一千則。"
+      ],
+      "paragraphs": [
+        "細肩帶、寬襬、露背加拉鍊的洋裝，連結開啟的是紅色款。尺寸表從 XXS 的胸圍 84 公分、腰圍 66 公分，到 XXL 的 114 公分和 96 公分，衣長 122 至 134 公分。",
+        "布料沒有彈性，所以胸圍和腰圍要和你的身體尺寸相符：選之前請先用公分對照。想看其他派對款式，可以參考 [SHEIN 派對洋裝指南](/zh-hant/reviews/shein-party-dress-guide-zh-hant)。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-01-vestido-longo-bae.webp",
+        "alt": "模特兒穿著紅色 SHEIN BAE 細肩帶寬襬洋裝，搭配金色涼鞋，照片取自 SHEIN 商品頁",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "SHEIN BAE 細肩帶洋裝",
+            "url": "https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C",
+            "howTo": "搭配高跟涼鞋和小包，就像商店照片裡那樣。",
+            "occasion": "晚間派對、晚餐和約會。"
+          }
+        ]
+      }
+    },
+    {
+      "heading": "SHEIN PETITE 掛頸短洋裝",
+      "bullets": [
+        "我們查看時頁面顯示的折扣：-20%。",
+        "尺碼：Petite XXS 至 Petite L。",
+        "布料：100% 聚酯纖維，襯裡為 89% 聚酯纖維和 11% 彈性纖維。",
+        "商店評分 4.82，評價超過一千則。"
+      ],
+      "paragraphs": [
+        "頸後繫帶的掛頸短洋裝，露背，裙襬有層次。連結開啟的是棕色款。SHEIN PETITE 系列的上身和衣長剪裁較短，適合身高較矮的女生。",
+        "尺寸表上，衣長從 Petite XXS 的 74 公分到 Petite L 的 79.4 公分，胸圍從 75 到 93 公分。請量一下從肩膀到你想要的裙襬位置有多長，再和尺寸表對照，因為身高不同，短洋裝落在哪裡也不一樣。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-02-vestido-mini-petite.webp",
+        "alt": "模特兒穿著棕色 SHEIN PETITE 掛頸層次短洋裝，照片取自 SHEIN 商品頁",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "SHEIN PETITE 掛頸短洋裝",
+            "url": "https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C",
+            "howTo": "搭配細帶涼鞋或高跟鞋；背部保持裸露。",
+            "occasion": "派對、生日和約會。"
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Opulessa 碎花洋裝",
+      "bullets": [
+        "我們查看時頁面顯示的折扣：-20%。",
+        "尺碼：XXS 至 XL。",
+        "布料：91% 聚酯纖維和 9% 彈性纖維的針織，彈性高。商品頁標示為半透明。",
+        "商店評分 4.87，評價超過一千則。"
+      ],
+      "paragraphs": [
+        "貼身長洋裝，黃橘色碎花印花，細肩帶、深 V 領、露背和側開衩。衣長從 XXS 的 105 公分到 XL 的 115 公分。",
+        "這種剪裁穿一般內衣會露出來。適合這款設計的做法是不穿內衣、用貼式提拉內衣或胸貼：選你已經習慣的就好。針織布料是半透明的，內衣的顏色也要一併考慮。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-03-vestido-floral-opulessa.webp",
+        "alt": "模特兒穿著黃橘色碎花、細肩帶露背的 Opulessa 長洋裝，照片取自 SHEIN 商品頁",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Opulessa 碎花洋裝",
+            "url": "https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C",
+            "howTo": "搭配平底涼鞋；背部和領口保持敞開。",
+            "occasion": "度假旅行、海邊夜晚和大熱天。"
+          }
+        ]
+      }
+    },
+    {
+      "heading": "棕白上衣與寬褲兩件套",
+      "bullets": [
+        "我們查看時頁面顯示的折扣：-20%。",
+        "尺碼：XS 至 XL。",
+        "布料：上衣為 95% 聚酯纖維和 5% 彈性纖維的針織；褲子為 100% 聚酯纖維，無彈性。",
+        "商店評分 4.73，評價超過一千則。"
+      ],
+      "paragraphs": [
+        "兩件式：一件高領無袖的棕色短版上衣，和一條高腰寬褲，白底棕色葉子印花。整套一起穿，也可以拆開：褲子配白 T 恤，上衣配牛仔褲。",
+        "褲子沒有彈性而且偏長。請在尺寸表上確認腰圍和褲長，也想想你會搭配多高的鞋跟。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-04-conjunto-top-pantalona.webp",
+        "alt": "模特兒穿著棕色無袖上衣搭配棕色印花白色寬褲的套裝，照片取自 SHEIN 商品頁",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "棕白上衣與寬褲兩件套",
+            "url": "https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C",
+            "howTo": "整套一起穿，搭配高跟涼鞋或白色球鞋；褲子也適合配素色 T 恤。",
+            "occasion": "休閒上班、午餐和週末。"
+          }
+        ]
+      }
+    },
+    {
+      "heading": "上衣與外套：休閒與換季",
+      "paragraphs": [
+        "三件無彈性上衣和一件外套。查看過的兩件上衣版型正好相反：一件寬鬆，另一件在腰間收緊。"
+      ]
+    },
+    {
+      "heading": "SHEIN PariChic 立領蕾絲上衣",
+      "bullets": [
+        "我們查看時頁面顯示的折扣：-20%。",
+        "尺碼：XS 至 XXL，另有 Tall 系列。",
+        "布料：41% 聚醯胺纖維、37% 棉和 22% 黏膠纖維，無彈性。商品頁標示為半透明。"
+      ],
+      "paragraphs": [
+        "白色無袖鏤空花卉蕾絲上衣，立領，前襟是布盤釦，帶有東方風格。蕾絲是鏤空的：裡面要穿膚色背心或內衣，或是疊穿在細肩帶背心外面。",
+        "尺寸表上，從 XS 的胸圍 90 公分、肩寬 35 公分，到 XXL 的 116 公分和 40 公分。因為布料沒有彈性，請拿胸圍和肩寬去對照一件你已經穿得合身的上衣。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-05-top-renda-parichic.webp",
+        "alt": "模特兒穿著白色 SHEIN PariChic 立領盤釦鏤空蕾絲上衣，搭配牛仔褲，照片取自 SHEIN 商品頁",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "SHEIN PariChic 立領蕾絲上衣",
+            "url": "https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C",
+            "howTo": "搭配牛仔褲或西裝褲；裡面穿膚色內搭。",
+            "occasion": "日常、午餐和約會。"
+          }
+        ]
+      }
+    },
+    {
+      "heading": "SHEIN EZwear 格紋荷葉下襬上衣",
+      "bullets": [
+        "我們查看時頁面沒有顯示折扣。",
+        "尺碼：XS 至 XL。",
+        "布料：55% 棉和 45% 聚酯纖維，無彈性。"
+      ],
+      "paragraphs": [
+        "黑白格紋短袖圓領上衣，荷葉下襬，版型寬鬆。在清單裡查看過的兩件上衣中，這件是寬鬆的：尺寸表上 XS 胸圍 101 公分，XL 為 121 公分。",
+        "如果你喜歡在腰間收緊的上衣，緊接在下面的 Sweetra 襯衫就是合身款。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-06-blusa-guingao-ezwear.webp",
+        "alt": "模特兒穿著黑白格紋 SHEIN EZwear 短袖荷葉下襬上衣，搭配白色短褲，照片取自 SHEIN 商品頁",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "SHEIN EZwear 格紋荷葉下襬上衣",
+            "url": "https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C",
+            "howTo": "搭配短褲或高腰牛仔褲；荷葉下襬不要塞進去。",
+            "occasion": "白天外出和週末。"
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Sweetra 無袖格紋側繫帶襯衫",
+      "bullets": [
+        "我們查看時頁面顯示的折扣：-20%。",
+        "尺碼：XXS 至 XL，另有大尺碼系列。",
+        "布料：72% 聚酯纖維、18% 棉和 10% 黏膠纖維，無彈性。",
+        "商店評分 4.73，評價超過一千則。"
+      ],
+      "paragraphs": [
+        "棕色格紋無袖襯衫，圓領，側邊繫帶可收緊腰身。尺寸表從 XXS 的胸圍 85 公分、腰圍 68 公分，到 XL 的 109 公分和 92 公分，衣長 48 至 54 公分。",
+        "布料沒有彈性。請用公分對照衣服尺寸和你自己的尺寸，並想想你希望有多少寬鬆度，不要只看尺碼字母。[SHEIN 尺寸指南](/zh-hant/reviews/shein-size-guide-zh-hant)會教你怎麼量。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-07-camisa-xadrez-sweetra.webp",
+        "alt": "Sweetra 棕色格紋無袖側繫帶圓領襯衫，照片取自 SHEIN 商品頁",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Sweetra 無袖格紋側繫帶襯衫",
+            "url": "https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C",
+            "howTo": "搭配高腰牛仔褲或裙子；側邊繫帶可調整腰身。",
+            "occasion": "日常穿搭和外出。"
+          }
+        ]
+      }
+    },
+    {
+      "heading": "人造麂皮拉鍊外套",
+      "bullets": [
+        "我們查看時頁面顯示的折扣：-20%。",
+        "尺碼：XS 至 L。",
+        "布料：人造麂皮，100% 聚酯纖維，無彈性。",
+        "商店評分 4.78，評價超過一千則。"
+      ],
+      "paragraphs": [
+        "棕色短版外套，翻領、前拉鍊、長袖。這是換季單品：可以套在 T 恤或薄針織衫外面，適合旅行和涼爽的夜晚。",
+        "尺寸表上，XS 的胸圍 100 公分、肩寬 41 公分、袖長 59 公分，L 則是 114 公分、44 公分和 62 公分。如果打算穿在針織衫外面，請把這些數字和你平常這樣穿的一件外套對照。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-08-jaqueta-camurca.webp",
+        "alt": "模特兒穿著棕色短版人造麂皮翻領拉鍊外套，照片取自 SHEIN 商品頁",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "人造麂皮拉鍊外套",
+            "url": "https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C",
+            "howTo": "穿在 T 恤或薄針織衫外面，搭配牛仔褲或西裝褲。",
+            "occasion": "旅行、涼爽的夜晚和換季。"
+          }
+        ]
+      }
+    },
+    {
+      "heading": "運動、海邊與睡衣",
+      "paragraphs": [
+        "一套由兩件組成的運動穿搭、一件泳衣加罩衫，以及一套睡衣。"
+      ]
+    },
+    {
+      "heading": "Anewsta 交叉美背運動內衣",
+      "bullets": [
+        "我們查看時頁面沒有顯示折扣。",
+        "尺碼：XS 至 XXL，另有大尺碼系列。",
+        "布料：90% 聚醯胺纖維和 10% 彈性纖維，彈性高。",
+        "商店評分 4.88，評價超過一千則。"
+      ],
+      "paragraphs": [
+        "黑色運動內衣，背後是交叉肩帶，印有 SPORT 字樣，肩帶可調整，背後是排釦。商品頁沒有標示支撐力等級：如果要跑步或做高衝擊訓練，請多看胸圍和你相近的人寫的評價。",
+        "尺寸表量的是下胸圍，XS 為 52 至 90 公分，XXL 為 75 至 113 公分。選之前請先量一下胸部正下方的肋骨周長。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-09-top-esportivo-anewsta.webp",
+        "alt": "黑色 Anewsta 運動內衣的背面，交叉肩帶上印有 SPORT 字樣，背後是排釦，照片取自 SHEIN 商品頁",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Anewsta 交叉美背運動內衣",
+            "url": "https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C",
+            "howTo": "搭配高腰緊身褲；背後的交叉肩帶會露出來。",
+            "occasion": "運動、瑜伽和普拉提。",
+            "pairsWith": [
+              {
+                "label": "Yefecy 無縫緊身褲",
+                "url": "https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Yefecy 無縫緊身褲",
+      "bullets": [
+        "我們查看時頁面顯示的折扣：-20%。",
+        "尺碼：S、M 和 L。",
+        "布料：90% 聚醯胺纖維和 10% 彈性纖維的針織，彈性高，無縫。",
+        "商店評分 4.74，評價超過 500 則。"
+      ],
+      "paragraphs": [
+        "無縫塑形長版緊身褲，連結開啟的是紫色款。商店標題寫的是中腰，商品細節寫的是高腰：請看頁面上的照片，確認褲頭落在哪個位置。",
+        "尺碼範圍很短，只有三個，而且尺寸表給的是未拉伸的衣服尺寸：S 腰圍 58 公分、臀圍 68 公分，L 為 66 公分和 76 公分。緊身褲拉得太開會變透明，所以如果你的尺寸遠超過 L，這件就不適合。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-10-legging-yefecy.webp",
+        "alt": "模特兒背面穿著紫色 Yefecy 無縫緊身褲，搭配白襪和球鞋，照片取自 SHEIN 商品頁",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Yefecy 無縫緊身褲",
+            "url": "https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C",
+            "howTo": "搭配運動內衣或運動 T 恤，以及球鞋。",
+            "occasion": "健身房、瑜伽和訓練。",
+            "pairsWith": [
+              {
+                "label": "Anewsta 交叉美背運動內衣",
+                "url": "https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Costavie 藏青白邊連身泳衣",
+      "bullets": [
+        "我們查看時頁面顯示的折扣：-20%。",
+        "尺碼：XS 至 XL，另有大尺碼系列。",
+        "布料：80% 聚醯胺纖維和 20% 彈性纖維，彈性高，附襯墊罩杯。",
+        "商店評分 4.88，評價超過一千則。"
+      ],
+      "paragraphs": [
+        "藏青色連身泳衣，領口、腰部和腿圍有白色滾邊，寬版可調整肩帶，附襯墊罩杯，背部鏤空。尺寸表從 XS 的胸圍 68 公分到 XL 的 86 公分，量的是未拉伸的衣服尺寸。",
+        "泳裝的退貨規定通常較嚴，例如期限較短，或要求衛生內襯完好。購買前請先讀所在商店的退貨政策，在家試穿時請穿在內衣外面，也不要拆掉內襯。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-11-maio-costavie.webp",
+        "alt": "模特兒穿著藏青色白邊 Costavie 連身泳衣，寬肩帶，外搭敞開的白襯衫並戴帽子，照片取自 SHEIN 商品頁",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Costavie 藏青白邊連身泳衣",
+            "url": "https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C",
+            "howTo": "外面搭敞開的襯衫或罩衫。",
+            "occasion": "海邊、泳池和夏日旅行。",
+            "pairsWith": [
+              {
+                "label": "SHEIN Swim 印花沙灘罩衫",
+                "url": "https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "heading": "SHEIN Swim 印花沙灘罩衫",
+      "bullets": [
+        "我們查看時頁面顯示的折扣：-20%。",
+        "尺碼：XXS 至 XXL。",
+        "布料：94% 聚酯纖維和 6% 彈性纖維的針織，彈性高。商品頁標示為半透明。",
+        "商店評分 4.93，評價超過 500 則。"
+      ],
+      "paragraphs": [
+        "寬鬆的長版罩衫，細肩帶、側開衩，黑底上是棕色和米色的大花印花。衣長從 XXS 的 131 公分到 XXL 的 137 公分。",
+        "它刻意做成透膚：要穿在泳衣或比基尼外面。可以搭上面那件 Costavie 泳衣，也可以搭素色比基尼。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-12-saida-de-praia.webp",
+        "alt": "模特兒穿著長版透膚 SHEIN Swim 罩衫，黑底棕米色花卉印花，照片取自 SHEIN 商品頁",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "SHEIN Swim 印花沙灘罩衫",
+            "url": "https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C",
+            "howTo": "穿在泳衣或素色比基尼外面，搭配平底涼鞋和草編包。",
+            "occasion": "海邊、泳池和度假村。",
+            "pairsWith": [
+              {
+                "label": "Costavie 藏青白邊連身泳衣",
+                "url": "https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "heading": "小熊印花細肩帶背心短褲睡衣組",
+      "bullets": [
+        "我們查看時頁面顯示的折扣：-20%。",
+        "尺碼：XXS 至 XXL。",
+        "布料：95% 聚酯纖維和 5% 彈性纖維的針織，中等彈性。",
+        "商店評分 4.85，評價超過一千則。"
+      ],
+      "paragraphs": [
+        "淡紫色兩件式：印有小熊圖案的細肩帶背心，和下襬呈波浪狀、帶蝴蝶結的短褲。",
+        "這款針織布幾乎全是聚酯纖維：如果你只有穿棉質才睡得好，請先看成分。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-13-pijama-urso.webp",
+        "alt": "模特兒穿著淡紫色睡衣組，小熊印花細肩帶背心搭配短褲，照片取自 SHEIN 商品頁",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "小熊印花細肩帶背心短褲睡衣組",
+            "url": "https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C",
+            "howTo": "背心和短褲一起穿，天氣熱時睡覺或在家休閒。",
+            "occasion": "炎熱的夜晚。"
+          }
+        ]
+      }
+    },
+    {
+      "heading": "童裝與嬰兒",
+      "paragraphs": [
+        "一套 4 至 8 歲女童套裝和一件嬰兒連身衣。兩件都請依孩子的身體尺寸選，不要只看尺碼上的年齡。"
+      ]
+    },
+    {
+      "heading": "女童 Polo 領上衣與寬褲套裝",
+      "bullets": [
+        "我們查看時頁面沒有顯示折扣。",
+        "尺碼：4、5、6、7 和 8 歲。",
+        "布料：95% 聚酯纖維和 5% 彈性纖維的針織，中等彈性。",
+        "商店評分 4.76，評價超過 500 則。"
+      ],
+      "paragraphs": [
+        "女童套裝：米白色長袖上衣，棕色 Polo 領，胸前印有蝴蝶結，搭配側邊有條紋的棕色寬褲。這是換季穿搭，適合涼爽的日子。",
+        "尺碼上的年齡只是參考。請量孩子的身高、胸圍和褲長，再對照頁面上的尺寸表，表上每個尺碼都以公分標示。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-14-conjunto-infantil-laco.webp",
+        "alt": "女孩穿著米白色上衣配棕色 Polo 領和印花蝴蝶結，以及側邊有條紋的棕色寬褲的套裝，照片取自 SHEIN 商品頁",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "女童 Polo 領上衣與寬褲套裝",
+            "url": "https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C",
+            "howTo": "上衣和褲子一起穿，搭配白色球鞋。",
+            "occasion": "外出和涼爽的日子。"
+          }
+        ]
+      }
+    },
+    {
+      "heading": "太空人造型嬰兒連身衣",
+      "bullets": [
+        "我們查看時頁面顯示的折扣：-20%。",
+        "尺碼：1 至 3 個月、3 至 6 個月、6 至 9 個月和 9 至 12 個月。",
+        "布料：96% 聚酯纖維和 4% 彈性纖維，彈性低。",
+        "我們查看時頁面只有 2 則評價。"
+      ],
+      "paragraphs": [
+        "橘色長袖連身衣，有拉鍊和口袋，貼有太空人徽章，並與黑色拼色。尺寸表上，1 至 3 個月的尺碼衣長 50 公分，9 至 12 個月的尺碼為 65 公分。",
+        "寶寶長得很快。預計送達時間會在付款前顯示在頁面上：把它加到寶寶的月齡上，再依衣服送到時寶寶的身長來選尺碼。這件的評價很少，所以尺寸表是你最好的參考。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-15-macacao-bebe.webp",
+        "alt": "寶寶穿著橘色長袖連身衣，有太空人徽章和黑色細節，照片取自 SHEIN 商品頁",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "太空人造型嬰兒連身衣",
+            "url": "https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C",
+            "howTo": "穿在棉質包屁衣外面；拉鍊讓換衣服更方便。",
+            "occasion": "外出和寶寶拍照。"
+          }
+        ]
+      }
+    },
+    {
+      "heading": "一件配件與聖誕佈置",
+      "paragraphs": [
+        "兩樣小東西：一組戒指和一片聖誕門簾。"
+      ]
+    },
+    {
+      "heading": "20 枚銀色戒指組",
+      "bullets": [
+        "我們查看時頁面顯示的折扣：-20%。",
+        "尺寸：單一尺寸。商品頁沒有標示戒指的直徑。",
+        "材質：鋅合金，附水鑽。",
+        "商店評分 4.87，評價超過一千則。"
+      ],
+      "paragraphs": [
+        "二十枚款式各異的銀色戒指，包括愛心、字母和麻花環，可以同時戴好幾枚。也適合當作小禮物。",
+        "這是鋅合金的飾品：洗手和洗澡時請取下，收納時避開香水和濕氣，它們會讓金屬變暗。飾品可能有自己的退貨規定：購買前請先查看商品頁上的退貨資訊。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-16-kit-20-aneis.webp",
+        "alt": "手上戴著 20 枚組中的幾枚銀色戒指，其中一枚是愛心形，照片取自 SHEIN 商品頁",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "20 枚銀色戒指組",
+            "url": "https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C",
+            "howTo": "同一隻手戴上好幾枚，混搭不同款式。",
+            "occasion": "日常和送禮。"
+          }
+        ]
+      }
+    },
+    {
+      "heading": "壁爐印花聖誕門簾",
+      "bullets": [
+        "我們查看時頁面顯示的折扣：-18%。",
+        "尺寸：180 x 90 公分或 200 x 90 公分。",
+        "材質：100% 聚酯纖維。",
+        "我們查看時頁面只有 1 則評價。"
+      ],
+      "paragraphs": [
+        "一片可以蓋住門的布簾，印有裝飾好的壁爐和 Merry Christmas 字樣。一包內有一片。請先量你家的門：有 180 和 200 公分兩種高度，寬度都是 90 公分。",
+        "聖誕佈置只有在 24 日之前送到才有用。你的地址的預計送達時間會在付款前顯示在頁面上：如果預計日期在聖誕節之後，今年就不要買了。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-17-faixa-natal-lareira.webp",
+        "alt": "一扇門被印有裝飾壁爐和 Merry Christmas 字樣的布簾蓋住，兩側各有一棵聖誕樹，照片取自 SHEIN 商品頁",
+        "objectFit": "contain",
+        "aspectRatio": 1,
+        "href": "https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C"
+      }
+    },
+    {
+      "heading": "稅費與關稅：以結帳頁面顯示為準",
+      "paragraphs": [
+        "進口關稅和銷售稅取決於訂單寄送的地點和訂單金額。SHEIN 會在付款前於結帳頁面顯示你這張訂單的稅費：請看那一行，因為折扣會改變訂單金額，稅費也可能跟著變。",
+        "如果你退貨，請在訂單的退款條款中確認已付的稅費是否會退回。"
+      ]
+    },
+    {
+      "heading": "價格、貨幣與庫存：請查看你的 SHEIN 商店",
+      "paragraphs": [
+        "本文的連結會在你所在地區的 SHEIN 商店開啟各個商品。價格、貨幣、有庫存的尺碼和顯示的折扣，可能和我們查看時看到的不同。",
+        "付款前，請確認以你的貨幣顯示的價格、你的尺碼有貨，以及這件商品在你的商店是否屬於這次活動。"
+      ]
+    },
+    {
       "heading": "優惠券、點數與 4CW5Y",
       "paragraphs": [
         "依照 SHEIN 的優惠券政策，每筆訂單可使用一張平台優惠券。每張優惠券都有使用期限，沒有及時使用就會失效。",
         "訂單頁面會顯示可使用的 SHEIN 點數和對應折抵金額。付款前請核對金額。",
-        "4CW5Y 不是優惠券，而是 Cecília 的 SHEIN 推薦碼，使用它確實有折扣。透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋 4CW5Y，該碼會開啟一個含推薦商品、促銷和折扣的頁面。折扣多少、涵蓋哪些商品由 SHEIN 決定，並會變動。SHEIN 的活動隨時都在變：下單前，請先到本站的商店頁面查看目前的活動。"
+        "4CW5Y 不是優惠券，而是 Cecília 的 SHEIN 推薦碼，使用它確實有折扣。透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋 4CW5Y，該碼會開啟一個含推薦商品、促銷和折扣的頁面。折扣多少、涵蓋哪些商品由 SHEIN 決定，並會變動。SHEIN 的活動隨時都在變：下單前，請先到本站的商店頁面查看目前的活動。",
+        "活動捷徑一節的六組活動碼，例如 24V7643，同樣是輸入在搜尋欄，但它們開啟的是 SHEIN 的主題精選。4CW5Y 是其中唯一屬於 Cecília 的推薦碼。"
       ],
       "links": [
         {
@@ -78,13 +818,25 @@
         {
           "label": "如何使用推薦碼 4CW5Y",
           "href": "/zh-hant/reviews/shein-referral-code-zh-hant"
+        },
+        {
+          "label": "在 SHEIN 怎麼選尺碼",
+          "href": "/zh-hant/reviews/shein-size-guide-zh-hant"
         }
+      ]
+    },
+    {
+      "heading": "節日前的送貨與付款",
+      "paragraphs": [
+        "你的地址的預計送達時間會顯示在商品頁，並在結帳時再顯示一次。如果是送禮或聖誕佈置，請把那個日期和你需要的日子比對。",
+        "付款方式因國家而異。需要好幾天才能確認的方式，可能讓商品在這段時間內售完：活動期間，請選擇能立刻確認的方式。"
       ]
     },
     {
       "heading": "黑色星期五之後的換貨與退貨",
       "bullets": [
         "**購買前：** 查看適用於訂單的退貨政策，確認期限、可退商品和退貨運費。",
+        "**本文這些單品：**泳裝、內衣、飾品和化妝品通常有各自的退貨規定。購買 Costavie 泳衣、那組戒指，或 SHEGLAM 精選的任何商品之前，請先查看所在商店的退貨政策。",
         "**部分退貨：** 如果使用了優惠券或促銷，請確認退款金額如何計算。",
         "**稅費：** 查看適用於訂單和收貨地址的退款條件。"
       ]
@@ -92,6 +844,7 @@
     {
       "heading": "付款前要確認什麼",
       "bullets": [
+        "衣服的公分尺寸，和你自己的尺寸對照。",
         "優惠券是否已套用，點數是否已折抵。",
         "如果是買來當聖誕禮物，要看送達時間。",
         "適用於訂單的退貨期限、可退商品和退貨運費。"
@@ -107,7 +860,10 @@
         "SHEIN 黑色星期五怎麼進行？不同優惠可能有不同的時間和條件。請確認哪些商品適用廣告折扣，並比較購物車中的最終價格。",
         "SHEIN 有網路星期一嗎？2026 年的網路星期一是 11 月 30 日。我們沒有找到適用於所有國家的公告：請查看所在國家網站上的活動。",
         "黑色星期五的訂單能在聖誕節前送到嗎？我們無法保證具體日期。送達時間會在付款前顯示在訂單上：每次購買都請確認這個時間。",
-        "4CW5Y 是折扣優惠券嗎？不是優惠券，但確實有折扣。它是 Cecília 的 SHEIN 推薦碼：透過連結開啟 SHEIN，再在 App 或網站搜尋這個碼，會開啟含促銷和折扣的商品頁面；折扣多少、涵蓋哪些商品由 SHEIN 決定。"
+        "4CW5Y 是折扣優惠券嗎？不是優惠券，但確實有折扣。它是 Cecília 的 SHEIN 推薦碼：透過連結開啟 SHEIN，再在 App 或網站搜尋這個碼，會開啟含促銷和折扣的商品頁面；折扣多少、涵蓋哪些商品由 SHEIN 決定。",
+        "4CW5Y 和 SHEIN 的活動碼是同一種東西嗎？不是。4CW5Y 是 Cecília 的推薦碼。24V7643 和 B75N67A 這類是 SHEIN 的捷徑，會在 App 搜尋中開啟活動精選。它們都不是在結帳時輸入的。",
+        "本文的單品在每個國家的價格都一樣嗎？不一樣。每個連結都會在你所在地區的 SHEIN 商店開啟該商品，價格、貨幣和庫存各有不同。付款前請先看商品頁上的價格。",
+        "黑色星期五要怎麼選 SHEIN 衣服的尺碼？請使用每件商品的尺寸表（以公分計），和你自己的尺寸對照。SHEIN 內不同品牌的尺碼差異很大，無彈性的布料更要留意胸圍和腰圍。"
       ]
     }
   ],
@@ -121,6 +877,15 @@
   "affiliate": "shein",
   "editorialNote": "規則取自 SHEIN 官方頁面。我們可能會從購買中獲得佣金。",
   "relatedArticles": [
+    {
+      "slug": "shein-size-guide-zh-hant"
+    },
+    {
+      "slug": "shein-party-dress-guide-zh-hant"
+    },
+    {
+      "slug": "shein-referral-code-zh-hant"
+    },
     {
       "slug": "yesstyle-black-friday-zh-hant"
     }

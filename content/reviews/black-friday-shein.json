@@ -3,8 +3,8 @@
   "slug": "black-friday-shein",
   "locale": "pt",
   "translationKey": "shein-black-friday",
-  "title": "Black Friday SHEIN 2026: quando começa, o que já está no ar (11.11) e imposto de importação zero até US$ 50",
-  "seoTitle": "Black Friday SHEIN 2026: quando começa e o que já está no ar",
+  "title": "Black Friday SHEIN 2026: o que comprar, quando começa e imposto de importação zero até US$ 50",
+  "seoTitle": "Black Friday SHEIN 2026: o que comprar e quando começa",
   "type": "Guia de Black Friday",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,11 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "A SHEIN juntou o 11.11 e a Black Friday numa campanha só e não publicou o calendário completo. O histórico de fases, o imposto zero até US$ 50 e o código 4CW5Y, que dá desconto.",
+  "description": "São 17 peças para olhar na Black Friday da SHEIN, com preço e medidas, seis atalhos de campanha, o imposto zero até US$ 50 e o código 4CW5Y, que dá desconto.",
   "metaDescription": "O 4CW5Y dá desconto na SHEIN: use o link ou pesquise no app ou site. Black Friday SHEIN: calendário, fases de desconto e imposto zero até US$ 50.",
   "publishedAt": "11 de outubro de 2026",
   "publishedAtISO": "2026-10-11",
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-16",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/shein/black-friday-shein-capa-v2.webp",
@@ -42,7 +42,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Black Friday de 2026 cai na última sexta de novembro, dia 27, e a SHEIN juntou o 11.11 e a Black Friday numa campanha só, com até 95% em selecionados, sem calendário completo publicado. O 4CW5Y dá desconto, sim: pelo link da Cecília, ou pesquisando o código no app ou no site da SHEIN, abre uma seleção com promoções."
+        "A Black Friday de 2026 cai na última sexta de novembro, dia 27, e a SHEIN já está em campanha, sem calendário completo. Este guia traz 17 peças com preço e medidas e seis atalhos de campanha. O 4CW5Y dá desconto, sim: pelo link da Cecília, ou pesquisando o código no app ou no site, abre uma seleção com promoções."
       ]
     },
     {
@@ -79,13 +79,11 @@
         "Em 2024 e 2025, a campanha foi até o fim de novembro; em 2023, até o sábado depois da Black Friday. Isso é histórico, não o prazo de 2026, e este guia é atualizado quando as datas saírem.",
         "Nos três anos, o desconto máximo subiu perto do fim. Isso não garante que a peça que você quer fique mais barata: compare o preço final e o estoque; se precisa de tamanho difícil, não espere a última fase."
       ],
-      "image": {
-        "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
-        "alt": "Página inicial do site da SHEIN em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
-        "caption": "A página inicial da SHEIN, que ainda não trazia a campanha da Black Friday de 2026.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      }
+      "image": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
+      "imageAlt": "Página inicial do site da SHEIN em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
+      "imageCaption": "A página inicial da SHEIN, que ainda não trazia a campanha da Black Friday de 2026.",
+      "imageFit": "contain",
+      "imageAspectRatio": 1.7778
     },
     {
       "heading": "Desconto anunciado e preço final",
@@ -104,10 +102,754 @@
       ]
     },
     {
+      "heading": "O que comprar: as 17 peças num quadro só",
+      "paragraphs": [
+        "São 17 peças da campanha, escolhidas para cobrir festa, dia a dia, treino, praia, pijama, criança, acessório e Natal. Abrimos a página de cada uma em meados de novembro: preço, desconto, tecido, medidas e nota são os da ficha nesse dia. O contador de vendidos é o que a SHEIN mostra no cartão da peça na vitrine da campanha, e ele vem em faixas, como \"900+\", sem o total exato."
+      ],
+      "comparisonTable": {
+        "caption": "Preço e desconto da ficha de cada peça na SHEIN. O preço muda durante a campanha e pode mudar por cor e por tamanho.",
+        "headers": [
+          "Peça",
+          "Preço",
+          "Desconto",
+          "Para quê"
+        ],
+        "rows": [
+          [
+            "[Vestido de alças finas SHEIN BAE](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
+            "R$ 113,56",
+            "-20% (de R$ 141,95)",
+            "Festa, jantar e encontro"
+          ],
+          [
+            "[Vestido mini frente única SHEIN PETITE](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
+            "R$ 102,32",
+            "-20% (de R$ 127,90)",
+            "Festa e encontro, grade Petite"
+          ],
+          [
+            "[Vestido floral Opulessa](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
+            "R$ 68,76",
+            "-20% (de R$ 85,95)",
+            "Férias e calor"
+          ],
+          [
+            "[Conjunto de top e pantalona marrom e branco](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
+            "R$ 83,16",
+            "-20% (de R$ 103,95)",
+            "Trabalho informal e fim de semana"
+          ],
+          [
+            "[Top de renda com gola alta SHEIN PariChic](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
+            "R$ 79,16",
+            "-20% (de R$ 98,95)",
+            "Sozinho ou em sobreposição"
+          ],
+          [
+            "[Blusa xadrez vichy com babado SHEIN EZwear](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
+            "R$ 59,95",
+            "—",
+            "Casual de verão, solta"
+          ],
+          [
+            "[Camisa xadrez sem mangas com amarração Sweetra](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
+            "R$ 47,96",
+            "-20% (de R$ 59,95)",
+            "Casual, marcada na cintura"
+          ],
+          [
+            "[Jaqueta de camurça sintética com zíper](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
+            "R$ 91,96",
+            "-20% (de R$ 114,95)",
+            "Meia-estação e viagem"
+          ],
+          [
+            "[Top esportivo de costas cruzadas Anewsta](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
+            "R$ 53,95",
+            "—",
+            "Treino e yoga"
+          ],
+          [
+            "[Legging sem costura Yefecy](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
+            "R$ 70,36",
+            "-20% (de R$ 87,95)",
+            "Treino e yoga"
+          ],
+          [
+            "[Maiô azul-marinho e branco Costavie](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
+            "R$ 59,99",
+            "-20% (de R$ 74,99)",
+            "Praia e piscina"
+          ],
+          [
+            "[Saída de praia floral SHEIN Swim](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
+            "R$ 66,39",
+            "-20% (de R$ 82,99)",
+            "Por cima do maiô ou do biquíni"
+          ],
+          [
+            "[Pijama de regata e short com estampa de urso](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
+            "R$ 29,59",
+            "-20% (de R$ 36,99)",
+            "Dormir e ficar em casa"
+          ],
+          [
+            "[Conjunto infantil de gola polo e pantalona](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
+            "R$ 87,90",
+            "—",
+            "Menina de 4 a 8 anos, meia-estação"
+          ],
+          [
+            "[Macacão de bebê estilo astronauta](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
+            "R$ 68,76",
+            "-20% (de R$ 85,95)",
+            "Bebê de 1 a 12 meses"
+          ],
+          [
+            "[Kit de 20 anéis prateados](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
+            "R$ 12,76",
+            "-20% (de R$ 15,95)",
+            "Acessório do dia a dia e lembrancinha"
+          ],
+          [
+            "[Painel de Natal para porta, com estampa de lareira](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
+            "R$ 26,07",
+            "-18% (de R$ 31,95)",
+            "Decoração de Natal"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Todas as 17 são de envio internacional: pagam o ICMS no checkout e entram na conta do limite de US$ 50, explicada mais abaixo. Na data da leitura, a entrega estimada ia do fim de novembro à primeira semana de dezembro.",
+        "O tamanho se escolhe pela tabela de cada peça, em centímetros, e não pela letra: a grade muda de marca para marca dentro da SHEIN. O [guia de tamanho da SHEIN](/reviews/tamanho-shein-brasil) mostra como medir o corpo e ler a tabela."
+      ]
+    },
+    {
+      "heading": "Seis atalhos de campanha para pesquisar no app",
+      "paragraphs": [
+        "Além das peças, a SHEIN montou seleções temáticas para a campanha. Cada uma tem um código de busca: digite o código na lupa do aplicativo da SHEIN, ou abra pelo link, e a seleção aparece. Esses códigos são atalhos de busca: não vão no checkout e não são cupom."
+      ],
+      "comparisonTable": {
+        "caption": "O que a SHEIN anuncia em cada seleção. O \"até\" vale para alguns itens da seleção, nunca para o carrinho inteiro.",
+        "headers": [
+          "Seleção",
+          "Código de busca",
+          "O que a SHEIN anuncia"
+        ],
+        "rows": [
+          [
+            "[Mais vendidos da campanha](https://onelink.shein.com/60/68f7ufe4ubai)",
+            "24V7643",
+            "Até 90% em itens selecionados"
+          ],
+          [
+            "[Liquidação e cupom para novos usuários](https://onelink.shein.com/60/68f7vymzstri)",
+            "B75N67A",
+            "Itens por menos de R$ 1 e cupom de 50% para cada novo usuário"
+          ],
+          [
+            "[Pijamas e lingerie](https://onelink.shein.com/60/68f7wq9fealr)",
+            "J9HCV76",
+            "Até 80% em itens selecionados"
+          ],
+          [
+            "[Escolhas masculinas](https://onelink.shein.com/60/68f7x04kxv9f)",
+            "7G433M3",
+            "Até 80% em itens selecionados"
+          ],
+          [
+            "[SHEGLAM, maquiagem](https://onelink.shein.com/60/68f7xltx7684)",
+            "7R422UP",
+            "Até 70% em itens selecionados"
+          ],
+          [
+            "[Encontre o ajuste perfeito](https://onelink.shein.com/60/68f7xvp2pcac)",
+            "M3UP428",
+            "Roupas reunidas por estilo e modelagem"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O cupom de 50% da seleção B75N67A é só para novos usuários, e o teto, o valor mínimo e quem pode usar aparecem na conta e no checkout. Quem já comprou na SHEIN não recebe esse cupom.",
+        "O 4CW5Y é outra coisa: é o código de indicação da Cecília. Pesquisado no app ou no site, ou aberto pelo link deste guia, ele leva a uma seleção com promoções e descontos, e vale para quem já é cliente também.",
+        "Duas seleções pedem cuidado com a devolução. Lingerie e roupa íntima só voltam em 7 dias contados da entrega. Na SHEGLAM, cosmético com o lacre aberto também só volta nesse prazo de 7 dias: confira o tom e a lista de ingredientes na página antes de abrir.",
+        "A seleção M3UP428 reúne roupas por estilo e modelagem. Use junto com a tabela de medidas de cada peça."
+      ]
+    },
+    {
+      "heading": "Vestidos e conjunto: festa, férias e rotina",
+      "paragraphs": [
+        "Três vestidos e um conjunto de duas peças. Dois vestidos têm tecido sem elasticidade, e nesses a medida de busto e de cintura decide o tamanho."
+      ]
+    },
+    {
+      "heading": "Vestido de alças finas SHEIN BAE",
+      "bullets": [
+        "Preço: R$ 113,56 (de R$ 141,95, -20%).",
+        "Tamanhos: XPP a EG, e a grade Petite.",
+        "Tecido: 100% poliéster, sem forro e sem elasticidade.",
+        "Nota 4,82 na loja, com mais de mil comentários. Contador da vitrine: 900+ vendidos."
+      ],
+      "paragraphs": [
+        "Vestido de alças finas com saia rodada, costas abertas e zíper, na cor vermelha que o link abre. A tabela da peça dá de 84 cm de busto e 66 cm de cintura no XPP a 114 cm e 96 cm no EG, com comprimento de 122 a 134 cm.",
+        "O tecido não estica, então o busto e a cintura precisam bater com as suas medidas: compare em centímetros antes de escolher. Para outros modelos de festa, veja o [guia de vestido de festa da SHEIN](/reviews/vestido-de-festa-shein)."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-01-vestido-longo-bae.webp",
+        "alt": "Modelo com o vestido vermelho de alças finas e saia rodada da SHEIN BAE, com sandália dourada, foto da página da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Vestido de alças finas SHEIN BAE",
+            "url": "https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C",
+            "howTo": "Com sandália de salto e bolsa pequena, como na foto da loja.",
+            "occasion": "Festa à noite, jantar e encontro."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Vestido mini frente única SHEIN PETITE",
+      "bullets": [
+        "Preço: R$ 102,32 (de R$ 127,90, -20%).",
+        "Tamanhos: Petite XPP a Petite G.",
+        "Tecido: 100% poliéster, com forro de 89% poliéster e 11% elastano.",
+        "Nota 4,82 na loja, com mais de mil comentários. Contador da vitrine: 50+ vendidos."
+      ],
+      "paragraphs": [
+        "Vestido mini de frente única, com amarração no pescoço, costas abertas e saia em camadas. O link abre a cor marrom. A linha SHEIN PETITE é modelada com tronco e comprimento menores, para mulheres de menor estatura.",
+        "Pela tabela, o comprimento vai de 74 cm no Petite XPP a 79,4 cm no Petite G, e o busto, de 75 a 93 cm. Meça o comprimento do ombro até onde você quer a barra e compare com a tabela, porque a altura de cada uma muda onde o mini termina."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-02-vestido-mini-petite.webp",
+        "alt": "Modelo com o vestido mini marrom de frente única e saia em camadas da linha SHEIN PETITE, foto da página da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Vestido mini frente única SHEIN PETITE",
+            "url": "https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C",
+            "howTo": "Com sandália de tira fina ou scarpin; as costas ficam à mostra.",
+            "occasion": "Festa, aniversário e encontro."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Vestido floral Opulessa",
+      "bullets": [
+        "Preço: R$ 68,76 (de R$ 85,95, -20%).",
+        "Tamanhos: XPP a GG.",
+        "Tecido: malha de 91% poliéster e 9% elastano, com elasticidade alta. A ficha marca a peça como semitransparente.",
+        "Nota 4,87 na loja, com mais de mil comentários. Contador da vitrine: 700+ vendidos."
+      ],
+      "paragraphs": [
+        "Vestido longo e justo, de estampa floral em amarelo e laranja, com alças finas, decote profundo na frente, costas abertas e fenda lateral. O comprimento vai de 105 cm no XPP a 115 cm no GG.",
+        "Com esse recorte, o sutiã comum aparece. As opções que combinam com o desenho são usar sem sutiã, com adesivo de sustentação ou com protetor de mamilo: escolha a que você já usa. Como a malha é semitransparente, vale pensar também na cor da calcinha."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-03-vestido-floral-opulessa.webp",
+        "alt": "Modelo com o vestido longo floral amarelo e laranja da Opulessa, de alças finas e costas abertas, foto da página da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Vestido floral Opulessa",
+            "url": "https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C",
+            "howTo": "Com rasteira ou sandália baixa; as costas e o decote ficam abertos.",
+            "occasion": "Viagem de férias, praia à noite e dias de calor."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Conjunto de top e pantalona marrom e branco",
+      "bullets": [
+        "Preço: R$ 83,16 (de R$ 103,95, -20%), ou R$ 41,58 por peça.",
+        "Tamanhos: PP a GG.",
+        "Tecido: top de malha com 95% poliéster e 5% elastano; calça 100% poliéster, sem elasticidade.",
+        "Nota 4,73 na loja, com mais de mil comentários. Contador da vitrine: 800+ vendidos."
+      ],
+      "paragraphs": [
+        "São duas peças: um top marrom sem mangas, curto, de gola alta, e uma calça pantalona de cintura alta com estampa de folhagem em marrom sobre branco. Dá para usar o conjunto junto ou separar: a calça com camiseta branca, o top com jeans.",
+        "A calça não estica e é longa. Confira na tabela da página a cintura e o comprimento da perna, e pense no salto que vai usar com ela."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-04-conjunto-top-pantalona.webp",
+        "alt": "Modelo com o conjunto de top marrom sem mangas e calça pantalona branca com estampa marrom, foto da página da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Conjunto de top e pantalona marrom e branco",
+            "url": "https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C",
+            "howTo": "Junto, com sandália de salto ou tênis branco; a calça também vai com camiseta lisa.",
+            "occasion": "Trabalho informal, almoço e fim de semana."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Blusas, tops e jaqueta: casual e meia-estação",
+      "paragraphs": [
+        "Três peças de cima sem elasticidade e uma jaqueta. As duas blusas xadrez têm caimentos opostos: uma solta, a outra marcada na cintura."
+      ]
+    },
+    {
+      "heading": "Top de renda com gola alta SHEIN PariChic",
+      "bullets": [
+        "Preço: R$ 79,16 (de R$ 98,95, -20%).",
+        "Tamanhos: PP a EG, e a grade Tall.",
+        "Tecido: 41% poliamida, 37% algodão e 22% viscose, sem elasticidade. A ficha marca a peça como semitransparente.",
+        "Contador da vitrine: 1.400+ vendidos, o maior contador exibido entre os itens desta lista."
+      ],
+      "paragraphs": [
+        "Top branco sem mangas, de renda floral vazada, com gola alta e fechos de nó de tecido na frente, no estilo oriental. A renda é vazada: por baixo vai um top ou um sutiã da cor da pele, ou ele entra como sobreposição por cima de uma regata.",
+        "Pela tabela, vai de 90 cm de busto e 35 cm de ombro no PP a 116 cm e 40 cm no EG. Como o tecido não estica, compare o busto e o ombro com uma blusa que já serve em você."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-05-top-renda-parichic.webp",
+        "alt": "Modelo com o top branco de renda vazada, gola alta e fechos de nó da SHEIN PariChic, com calça jeans, foto da página da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Top de renda com gola alta SHEIN PariChic",
+            "url": "https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C",
+            "howTo": "Com jeans ou calça de alfaiataria; por baixo, um top da cor da pele.",
+            "occasion": "Dia a dia, almoço e encontro."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Blusa xadrez vichy com babado SHEIN EZwear",
+      "bullets": [
+        "Preço: R$ 59,95, sem desconto na ficha.",
+        "Tamanhos: PP a GG.",
+        "Tecido: 55% algodão e 45% poliéster, sem elasticidade."
+      ],
+      "paragraphs": [
+        "Blusa de xadrez vichy preto e branco, com manga curta, gola redonda e barra de babado, solta no corpo. É a opção ampla entre as duas blusas xadrez da lista: a tabela dá 101 cm de busto no PP e 121 cm no GG.",
+        "Se você prefere a peça marcada na cintura, a camisa da Sweetra, logo abaixo, é a ajustada."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-06-blusa-guingao-ezwear.webp",
+        "alt": "Modelo com a blusa xadrez vichy preta e branca de manga curta e barra de babado da SHEIN EZwear, com short branco, foto da página da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Blusa xadrez vichy com babado SHEIN EZwear",
+            "url": "https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C",
+            "howTo": "Com short ou jeans de cintura alta; a barra de babado fica por fora.",
+            "occasion": "Passeio de dia e fim de semana."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Camisa xadrez sem mangas com amarração Sweetra",
+      "bullets": [
+        "Preço: R$ 47,96 (de R$ 59,95, -20%).",
+        "Tamanhos: XPP a GG, e a grade plus size.",
+        "Tecido: 72% poliéster, 18% algodão e 10% viscose, sem elasticidade.",
+        "Nota 4,73 na loja, com mais de mil comentários. Contador da vitrine: 200+ vendidos."
+      ],
+      "paragraphs": [
+        "Camisa sem mangas de xadrez marrom, com gola redonda e amarração lateral que marca a cintura. A tabela vai de 85 cm de busto e 68 cm de cintura no XPP a 109 cm e 92 cm no GG, com 48 a 54 cm de comprimento.",
+        "O tecido não estica. Compare as medidas da peça com as do seu corpo em centímetros e pense na folga que você quer, sem escolher só pela letra do tamanho. O [guia de tamanho da SHEIN](/reviews/tamanho-shein-brasil) mostra como medir."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-07-camisa-xadrez-sweetra.webp",
+        "alt": "Camisa xadrez marrom sem mangas da Sweetra, com gola redonda e amarração lateral, foto da página da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Camisa xadrez sem mangas com amarração Sweetra",
+            "url": "https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C",
+            "howTo": "Com jeans de cintura alta ou saia; a amarração lateral ajusta a cintura.",
+            "occasion": "Dia a dia e passeio."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Jaqueta de camurça sintética com zíper",
+      "bullets": [
+        "Preço: R$ 91,96 (de R$ 114,95, -20%).",
+        "Tamanhos: PP a G.",
+        "Tecido: camurça sintética, 100% poliéster, sem elasticidade.",
+        "Nota 4,78 na loja, com mais de mil comentários. Contador da vitrine: 50+ vendidos."
+      ],
+      "paragraphs": [
+        "Jaqueta marrom curta, de gola lapela, com zíper na frente e manga comprida. É peça de meia-estação: vai por cima de camiseta ou de tricô fino, em viagem e em noite fresca.",
+        "A tabela dá 100 cm de busto, 41 cm de ombro e 59 cm de manga no PP, e 114 cm, 44 cm e 62 cm no G. Se a ideia é usar por cima de tricô, compare essas medidas com as de uma jaqueta que você já usa assim."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-08-jaqueta-camurca.webp",
+        "alt": "Modelo com a jaqueta curta de camurça sintética marrom, gola lapela e zíper, foto da página da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Jaqueta de camurça sintética com zíper",
+            "url": "https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C",
+            "howTo": "Por cima de camiseta ou tricô fino, com jeans ou calça de alfaiataria.",
+            "occasion": "Viagem, noite fresca e meia-estação."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Treino, praia e pijama",
+      "paragraphs": [
+        "Um conjunto de treino que se monta com duas peças, um maiô com a saída de praia e o pijama, que é a roupa mais barata da lista."
+      ]
+    },
+    {
+      "heading": "Top esportivo de costas cruzadas Anewsta",
+      "bullets": [
+        "Preço: R$ 53,95, sem desconto na ficha.",
+        "Tamanhos: PP a EG, e a grade plus size.",
+        "Tecido: 90% poliamida e 10% elastano, com elasticidade alta.",
+        "Nota 4,88 na loja, com mais de mil comentários. Contador da vitrine: 400+ vendidos."
+      ],
+      "paragraphs": [
+        "Top esportivo preto com tiras cruzadas nas costas, estampadas com a palavra SPORT, alças ajustáveis e fecho de colchetes atrás. A ficha não informa o nível de sustentação: para corrida e treino de impacto, leia as avaliações de quem tem o seu tamanho de busto.",
+        "A tabela mede o contorno abaixo do busto, de 52 a 90 cm no PP e de 75 a 113 cm no EG. Meça o seu tórax logo abaixo do busto antes de escolher."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-09-top-esportivo-anewsta.webp",
+        "alt": "Costas do top esportivo preto da Anewsta, com tiras cruzadas estampadas com a palavra SPORT e fecho de colchetes, foto da página da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Top esportivo de costas cruzadas Anewsta",
+            "url": "https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C",
+            "howTo": "Com legging de cintura alta; as tiras cruzadas ficam à mostra nas costas.",
+            "occasion": "Treino, yoga e pilates.",
+            "pairsWith": [
+              {
+                "label": "Legging sem costura Yefecy",
+                "url": "https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Legging sem costura Yefecy",
+      "bullets": [
+        "Preço: R$ 70,36 (de R$ 87,95, -20%).",
+        "Tamanhos: P, M e G.",
+        "Tecido: malha de 90% poliamida e 10% elastano, com elasticidade alta e sem costura.",
+        "Nota 4,74 na loja, com mais de 500 comentários. Contador da vitrine: 100+ vendidos."
+      ],
+      "paragraphs": [
+        "Legging longa de compressão, sem costura, na cor roxa que o link abre. O título da loja fala em cintura média, e a ficha marca cintura alta: olhe as fotos da página para ver onde o cós fica.",
+        "A grade é curta, só três tamanhos, e as medidas da tabela são da peça sem esticar: 58 cm de cintura e 68 cm de quadril no P, 66 cm e 76 cm no G. Legging esticada demais fica transparente, então, se as suas medidas passam muito das do G, esta não é a peça."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-10-legging-yefecy.webp",
+        "alt": "Modelo de costas com a legging roxa sem costura da Yefecy, com meia e tênis brancos, foto da página da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Legging sem costura Yefecy",
+            "url": "https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C",
+            "howTo": "Com top esportivo ou camiseta de treino, e tênis.",
+            "occasion": "Academia, yoga e treino.",
+            "pairsWith": [
+              {
+                "label": "Top esportivo de costas cruzadas Anewsta",
+                "url": "https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Maiô azul-marinho e branco Costavie",
+      "bullets": [
+        "Preço: R$ 59,99 (de R$ 74,99, -20%).",
+        "Tamanhos: PP a GG, e a grade plus size.",
+        "Tecido: 80% poliamida e 20% elastano, com elasticidade alta e bojo.",
+        "Nota 4,88 na loja, com mais de mil comentários. Contador da vitrine: 500+ vendidos."
+      ],
+      "paragraphs": [
+        "Maiô azul-marinho com vivo branco no decote, na cintura e na cava, de alças largas ajustáveis, bojo e costas abertas. A tabela vai de 68 cm de busto no PP a 86 cm no GG, medidos na peça sem esticar.",
+        "Moda praia só pode ser devolvida em 7 dias contados da entrega, e com o protetor higiênico intacto. Prove em casa por cima da roupa íntima assim que chegar, sem tirar o protetor."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-11-maio-costavie.webp",
+        "alt": "Modelo com o maiô azul-marinho de vivos brancos e alças largas da Costavie, com camisa branca aberta e chapéu, foto da página da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Maiô azul-marinho e branco Costavie",
+            "url": "https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C",
+            "howTo": "Com camisa aberta ou saída de praia por cima.",
+            "occasion": "Praia, piscina e viagem de verão.",
+            "pairsWith": [
+              {
+                "label": "Saída de praia floral SHEIN Swim",
+                "url": "https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Saída de praia floral SHEIN Swim",
+      "bullets": [
+        "Preço: R$ 66,39 (de R$ 82,99, -20%).",
+        "Tamanhos: XPP a EG.",
+        "Tecido: malha de 94% poliéster e 6% elastano, com elasticidade alta. A ficha marca a peça como semitransparente.",
+        "Nota 4,93 na loja, com mais de 500 comentários. Contador da vitrine: 700+ vendidos."
+      ],
+      "paragraphs": [
+        "Saída de praia longa e solta, de alças finas, com fenda lateral e uma estampa floral grande em tons de marrom e bege sobre preto. O comprimento vai de 131 cm no XPP a 137 cm no EG.",
+        "É transparente de propósito: vai por cima do maiô ou do biquíni. Combina com o maiô da Costavie, acima, e com biquíni liso."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-12-saida-de-praia.webp",
+        "alt": "Modelo com a saída de praia longa e transparente da SHEIN Swim, preta com estampa floral em marrom e bege, foto da página da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Saída de praia floral SHEIN Swim",
+            "url": "https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C",
+            "howTo": "Por cima de maiô ou biquíni liso, com rasteira e bolsa de palha.",
+            "occasion": "Praia, piscina e resort.",
+            "pairsWith": [
+              {
+                "label": "Maiô azul-marinho e branco Costavie",
+                "url": "https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Pijama de regata e short com estampa de urso",
+      "bullets": [
+        "Preço: R$ 29,59 (de R$ 36,99, -20%), menos de R$ 15 por peça.",
+        "Tamanhos: XPP a EG.",
+        "Tecido: malha de 95% poliéster e 5% elastano, com elasticidade média.",
+        "Nota 4,85 na loja, com mais de mil comentários. Contador da vitrine: 700+ vendidos."
+      ],
+      "paragraphs": [
+        "Conjunto lilás de duas peças: regata de alças finas com estampa de ursos e short curto com barra ondulada e laço. É o conjunto de roupa mais barato desta lista.",
+        "O nome da loja fala em camiseta, mas a peça de cima é uma regata de alças. A malha é quase toda de poliéster: quem só dorme bem de algodão deve olhar a composição antes."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-13-pijama-urso.webp",
+        "alt": "Modelo com o pijama lilás de regata de alças com estampa de ursos e short curto, foto da página da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Pijama de regata e short com estampa de urso",
+            "url": "https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C",
+            "howTo": "Regata e short juntos para dormir ou ficar em casa no calor.",
+            "occasion": "Noites quentes."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Infantil e bebê",
+      "paragraphs": [
+        "Um conjunto para menina de 4 a 8 anos e um macacão de bebê. Nas duas, a escolha é pelas medidas da criança, e não pela idade do tamanho."
+      ]
+    },
+    {
+      "heading": "Conjunto infantil de gola polo e pantalona",
+      "bullets": [
+        "Preço: R$ 87,90, sem desconto na ficha.",
+        "Tamanhos: 4, 5, 6, 7 e 8 anos.",
+        "Tecido: malha de 95% poliéster e 5% elastano, com elasticidade média.",
+        "Nota 4,76 na loja, com mais de 500 comentários."
+      ],
+      "paragraphs": [
+        "Conjunto de menina com blusa de manga longa creme, gola polo marrom e um laço estampado no peito, e calça pantalona marrom com listras laterais. É roupa de meia-estação, para dia fresco.",
+        "A idade do tamanho é só uma referência. Meça a altura, o busto e o comprimento da perna da criança e compare com a tabela da página, que dá as medidas de cada tamanho em centímetros."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-14-conjunto-infantil-laco.webp",
+        "alt": "Menina com o conjunto de blusa creme de gola polo marrom com laço estampado e calça pantalona marrom de listras laterais, foto da página da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Conjunto infantil de gola polo e pantalona",
+            "url": "https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C",
+            "howTo": "Blusa e calça juntas, com tênis branco.",
+            "occasion": "Passeio e dia fresco."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Macacão de bebê estilo astronauta",
+      "bullets": [
+        "Preço: R$ 68,76 (de R$ 85,95, -20%).",
+        "Tamanhos: 1 a 3 meses, 3 a 6, 6 a 9 e 9 a 12 meses.",
+        "Tecido: 96% poliéster e 4% elastano, com elasticidade baixa.",
+        "A ficha tinha só 2 avaliações na data da leitura."
+      ],
+      "paragraphs": [
+        "Macacão laranja de manga longa, com zíper, bolso e emblemas de astronauta, em blocos de cor com preto. A tabela dá 50 cm de comprimento no tamanho de 1 a 3 meses e 65 cm no de 9 a 12 meses.",
+        "Bebê cresce rápido. O prazo de entrega aparece na página antes de pagar: some esse prazo à idade do bebê e escolha o tamanho pelo que ele vai medir quando a peça chegar. É uma peça com poucas avaliações, então a tabela de medidas é a melhor referência que você tem."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-15-macacao-bebe.webp",
+        "alt": "Bebê com o macacão laranja de manga longa com emblemas de astronauta e detalhes pretos, foto da página da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Macacão de bebê estilo astronauta",
+            "url": "https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C",
+            "howTo": "Por cima de um body de algodão; o zíper facilita a troca.",
+            "occasion": "Passeio e fotos do bebê."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Acessório e decoração de Natal",
+      "paragraphs": [
+        "As duas compras mais baratas da lista: um kit de anéis e um painel de Natal para a porta."
+      ]
+    },
+    {
+      "heading": "Kit de 20 anéis prateados",
+      "bullets": [
+        "Preço: R$ 12,76 (de R$ 15,95, -20%), cerca de R$ 0,64 por anel.",
+        "Tamanho: único. A ficha não informa o diâmetro dos anéis.",
+        "Material: liga de zinco, com strass.",
+        "Nota 4,87 na loja, com mais de mil comentários. Contador da vitrine: 500+ vendidos."
+      ],
+      "paragraphs": [
+        "Vinte anéis prateados de modelos diferentes, entre eles coração, letra e trançado, para usar vários juntos. É a peça mais barata da lista e serve de lembrancinha.",
+        "É bijuteria de liga de zinco: tire para lavar a mão e tomar banho e guarde longe de perfume e de umidade, que escurecem o metal. A ficha desta peça não mostra a linha de devolução grátis em 20 dias que aparece nas outras: confira a regra de devolução na página antes de comprar."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-16-kit-20-aneis.webp",
+        "alt": "Mão com vários anéis prateados do kit de 20 peças, entre eles um de coração, foto da página da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Kit de 20 anéis prateados",
+            "url": "https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C",
+            "howTo": "Vários anéis juntos na mesma mão, misturando os modelos.",
+            "occasion": "Dia a dia e presente."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Painel de Natal para porta, com estampa de lareira",
+      "bullets": [
+        "Preço: R$ 26,07 (de R$ 31,95, -18%).",
+        "Medidas: 180 x 90 cm ou 200 x 90 cm.",
+        "Material: 100% poliéster.",
+        "A ficha tinha só 1 avaliação na data da leitura."
+      ],
+      "paragraphs": [
+        "É um painel de tecido para cobrir a porta, com a estampa de uma lareira decorada e a frase Merry Christmas. Vem uma peça. Meça a sua porta antes: são duas alturas, 180 e 200 cm, com 90 cm de largura.",
+        "Decoração de Natal só serve se chegar antes do dia 24. O prazo de entrega para o seu CEP aparece na página antes de pagar: se a data estimada passar do Natal, não compre para este ano."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-17-faixa-natal-lareira.webp",
+        "alt": "Porta coberta pelo painel de tecido com estampa de lareira decorada e a frase Merry Christmas, entre duas árvores de Natal, foto da página da SHEIN",
+        "objectFit": "contain",
+        "aspectRatio": 1,
+        "href": "https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C"
+      }
+    },
+    {
       "heading": "O imposto na Black Friday: o que mudou em 2026",
       "paragraphs": [
         "A SHEIN está no Remessa Conforme, então o imposto aparece no checkout, junto do pedido. Em regra não há cobrança extra na entrega, mas a Receita Federal pode reavaliar o valor do pacote, e isso muda o imposto devido. Em 12 de maio de 2026, o imposto de importação das compras de até US$ 50 foi zerado. A Lei 15.502/2026 confirmou que o governo pode manter a alíquota zero nessa faixa.",
-        "A conta vale por pedido e usa o valor do produto mais o frete e o seguro, quando houver, já com os descontos e o cupom. Ou seja, o desconto da Black Friday pode deixar um pedido abaixo de US$ 50. O limite é em dólar: o checkout mostra os impostos do seu pedido antes do pagamento."
+        "A conta vale por pedido e usa o valor do produto mais o frete e o seguro, quando houver, já com os descontos e o cupom, como explica o [manual de remessas da Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/tributacao). Ou seja, o desconto da Black Friday pode deixar um pedido abaixo de US$ 50. O limite é em dólar: o checkout mostra os impostos do seu pedido antes do pagamento."
       ],
       "comparisonTable": {
         "caption": "Pela página de impostos da SHEIN. O ICMS de 17% vale para a maioria dos estados; Amapá tem 18%, Pará 19%, e Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima e Sergipe têm 20%.",
@@ -154,15 +896,9 @@
       "paragraphs": [
         "Pela política de cupons da SHEIN, vale um cupom da plataforma por pedido. Se o carrinho tiver produtos de vendedores nacionais, dá para usar também o cupom da loja desse vendedor: no máximo dois cupons, um de cada tipo. Cada cupom tem validade, e o que não foi usado a tempo fica indisponível.",
         "Os pontos SHEIN valem US$ 1 a cada 100 pontos e abatem até 30% do valor dos produtos, sem contar frete e impostos. Eles não valem em itens de vendedores nacionais.",
-        "O 4CW5Y não é cupom: é o código de indicação da Cecília, e ele dá desconto, sim. Pelo link da Cecília, ou copiando o código e pesquisando no app ou no site da SHEIN, você abre uma página com uma seleção de produtos indicados, promoções e descontos. Quanto e em quais peças, a SHEIN decide e varia. As campanhas da SHEIN mudam toda hora: confira as vigentes na página da loja aqui do site antes de fechar o pedido."
+        "O 4CW5Y não é cupom: é o código de indicação da Cecília, e ele dá desconto, sim. Pelo link da Cecília, ou copiando o código e pesquisando no app ou no site da SHEIN, você abre uma página com uma seleção de produtos indicados, promoções e descontos. Quanto e em quais peças, a SHEIN decide e varia. As campanhas da SHEIN mudam toda hora: confira as vigentes na página da loja aqui do site antes de fechar o pedido.",
+        "Os seis códigos de campanha da seção de atalhos, como o 24V7643, também se pesquisam na lupa, mas abrem seleções temáticas da SHEIN. O 4CW5Y é o único que é o código de indicação da Cecília."
       ],
-      "image": {
-        "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
-        "alt": "Duas telas do site da SHEIN no celular: a barra de busca com o código 4CW5Y digitado e a página que abre depois da pesquisa",
-        "caption": "O 4CW5Y não vai no checkout: ele é pesquisado na barra de busca do site ou do aplicativo da SHEIN.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      },
       "links": [
         {
           "label": "Ver o código de indicação 4CW5Y e as campanhas da SHEIN",
@@ -171,8 +907,17 @@
         {
           "label": "Como usar o código de indicação 4CW5Y",
           "href": "/reviews/codigo-de-indicacao-shein"
+        },
+        {
+          "label": "Como escolher o tamanho na SHEIN",
+          "href": "/reviews/tamanho-shein-brasil"
         }
-      ]
+      ],
+      "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+      "imageAlt": "Duas telas do site da SHEIN no celular: a barra de busca com o código 4CW5Y digitado e a página que abre depois da pesquisa",
+      "imageCaption": "O 4CW5Y não vai no checkout: ele é pesquisado na barra de busca do site ou do aplicativo da SHEIN.",
+      "imageFit": "contain",
+      "imageAspectRatio": 1.7778
     },
     {
       "heading": "Como pagar na Black Friday",
@@ -183,24 +928,24 @@
     },
     {
       "heading": "Trocas e devoluções depois da Black Friday",
-      "image": {
-        "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
-        "alt": "Gráfico de barras com o prazo para devolver publicado por cada loja no Brasil: Temu 90 dias a partir da compra; SHEIN 20 dias, Shopee 7 dias e AliExpress 7 dias a partir do recebimento",
-        "caption": "Na SHEIN, o prazo para devolver é de 20 dias a partir do recebimento, mais que na Shopee e no AliExpress. Regras publicadas pelas lojas.",
-        "objectFit": "contain",
-        "aspectRatio": 1.5
-      },
       "bullets": [
         "**Prazo:** até 20 dias depois de receber, mesmo que você só não tenha gostado da peça.",
         "**Itens que só voltam em 7 dias:** bodies, moda praia, roupa íntima, brincos e piercings e produtos para pets, e cosméticos, artigos de festa e de artesanato com o lacre aberto. Esses só podem ser devolvidos no prazo de arrependimento de 7 dias, contado da entrega.",
+        "**Nas peças deste guia:** o maiô da Costavie entra na regra de 7 dias e precisa voltar com o protetor higiênico intacto. Os cosméticos da seleção SHEGLAM só voltam com o lacre fechado, ou em 7 dias se o lacre foi aberto.",
         "**Frete da devolução:** a primeira devolução de cada pedido é grátis, pelos Correios, pela Jadlog ou pela Total Express. Da segunda em diante, a SHEIN desconta R$ 45 do reembolso a cada devolução.",
         "**Cupom:** em devolução parcial, o cupom conta como usado e não volta; se o pedido ficar abaixo do mínimo, a diferença sai do reembolso.",
         "**Imposto:** o imposto de importação pago não volta depois que o pedido foi enviado."
-      ]
+      ],
+      "image": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
+      "imageAlt": "Gráfico de barras com o prazo para devolver publicado por cada loja no Brasil: Temu 90 dias a partir da compra; SHEIN 20 dias, Shopee 7 dias e AliExpress 7 dias a partir do recebimento",
+      "imageCaption": "Na SHEIN, o prazo para devolver é de 20 dias a partir do recebimento, mais que na Shopee e no AliExpress. Regras publicadas pelas lojas.",
+      "imageFit": "contain",
+      "imageAspectRatio": 1.5
     },
     {
       "heading": "Antes de pagar: o que conferir",
       "bullets": [
+        "As medidas da peça em centímetros, comparadas com as do seu corpo.",
         "Se o produto é de Envio Nacional ou internacional.",
         "Se o pedido internacional ficou em até US$ 50, contando frete e seguro, se houver, e já com os descontos.",
         "Quanto deu o ICMS no resumo do pedido.",
@@ -219,7 +964,11 @@
         "Como funciona a Black Friday da SHEIN? As ofertas podem ter períodos e condições diferentes. Confira quais produtos recebem o desconto anunciado e compare o preço final no carrinho.",
         "A SHEIN tem Cyber Monday? A Cyber Monday de 2026 cai na última segunda de novembro, dia 30. Não encontramos anúncio da SHEIN no Brasil para esse dia: confira a campanha na loja.",
         "A compra da Black Friday chega antes do Natal? Não dá para garantir uma data. O prazo de entrega aparece na página do pedido antes de pagar: confira esse prazo em cada compra, porque o pedido internacional ainda leva de 3 a 5 dias para ser processado antes do envio.",
-        "O 4CW5Y é cupom de desconto? Não é cupom, mas dá desconto, sim: é o código de indicação da Cecília. Pelo link, ou pesquisando o código no app ou no site da SHEIN, você abre uma seleção de produtos com promoções e descontos; quanto e em quais peças, a SHEIN decide."
+        "O 4CW5Y é cupom de desconto? Não é cupom, mas dá desconto, sim: é o código de indicação da Cecília. Pelo link, ou pesquisando o código no app ou no site da SHEIN, você abre uma seleção de produtos com promoções e descontos; quanto e em quais peças, a SHEIN decide.",
+        "O 4CW5Y e os códigos de campanha da SHEIN são a mesma coisa? Não. O 4CW5Y é o código de indicação da Cecília. Códigos como 24V7643 e B75N67A são atalhos da SHEIN para abrir seleções da campanha na busca do aplicativo. Nenhum deles vai no checkout.",
+        "O cupom de 50% para novos usuários vale para quem já comprou na SHEIN? Não. A SHEIN anuncia esse cupom para cada novo usuário, e as regras, o teto e quem pode usar aparecem na conta e no checkout.",
+        "Os preços das peças deste guia valem até quando? São os preços da ficha no dia da leitura. A SHEIN muda os preços durante a campanha, e eles podem mudar por cor e por tamanho: confira o valor na página da peça antes de pagar.",
+        "Como escolher o tamanho das roupas da SHEIN na Black Friday? Pela tabela de medidas de cada peça, em centímetros, comparada com as medidas do seu corpo. A grade muda de marca para marca dentro da SHEIN, e tecido sem elasticidade pede mais atenção ao busto e à cintura."
       ]
     }
   ],
@@ -234,6 +983,15 @@
   "affiliate": "shein",
   "editorialNote": "Regras das páginas oficiais da SHEIN e da Lei 15.502/2026. Podemos receber comissão pelas compras.",
   "relatedArticles": [
+    {
+      "slug": "tamanho-shein-brasil"
+    },
+    {
+      "slug": "vestido-de-festa-shein"
+    },
+    {
+      "slug": "codigo-de-indicacao-shein"
+    },
     {
       "slug": "black-friday-yesstyle"
     }
