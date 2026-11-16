@@ -255,6 +255,20 @@ const shelfOf = (slug: string) =>
   hub.categories.find((category) => category.coupons.some((coupon) => coupon.slug === slug))?.id;
 assert.equal(shelfOf('damie'), 'casa', 'Destaque continua também na prateleira dele');
 assert.equal(shelfOf('shein'), 'moda', 'Oferta por link entra numa prateleira como os códigos');
+// Prateleiras do hub (Bruno, 16/11/2026): Temu e AliExpress em Diversos; Bagaggio e Toda Up em destaque e a SHEIN reduzida
+// no fim da Moda; Petz e Hostinger em destaque em Diversos; Saúde e suplementos e a Lejour com o cartão reduzido.
+const shelfSlugs = (id: string) => hub.categories.find((category) => category.id === id)?.coupons.map((coupon) => coupon.slug) ?? [];
+assert.equal(shelfOf('temu'), 'diversos', 'Temu na prateleira Diversos');
+assert.equal(shelfOf('aliexpress'), 'diversos', 'AliExpress na prateleira Diversos');
+assert.deepEqual(shelfSlugs('moda').slice(0, 2), ['bagaggio', 'toda-up'], 'Moda: Bagaggio e Toda Up abrem a prateleira');
+assert.equal(shelfSlugs('moda').at(-1), 'shein', 'Moda: a SHEIN fecha a prateleira');
+assert.deepEqual(shelfSlugs('diversos').slice(0, 2), ['petz', 'hostinger'], 'Diversos: Petz e Hostinger abrem a prateleira');
+for (const [slug, card] of Object.entries({ bagaggio: 'destaque', 'toda-up': 'destaque', petz: 'destaque', hostinger: 'destaque', shein: 'reduzido', lejour: 'reduzido', temu: 'reduzido', aliexpress: 'reduzido' })) {
+  assert.equal(getCouponBySlug(slug)?.hubCard, card, `${slug}: cartão ${card} no hub`);
+}
+for (const coupon of hub.categories.find((category) => category.id === 'saude')?.coupons ?? []) {
+  assert.equal(coupon.hubCard, 'reduzido', `${coupon.slug}: Saúde e suplementos com o cartão reduzido`);
+}
 assert.ok(
   hub.categories.every((category) => category.coupons.length > 0),
   'Prateleira sem cupom ativo não aparece'
