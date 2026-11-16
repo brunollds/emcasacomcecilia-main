@@ -123,3 +123,7 @@ Job 2 e Job 4 pela sessão de artigos, a partir deste briefing. A conta é a do 
 ## Capa e imagens (aprovadas pelo Bruno em 16/11/2026)
 
 Folha de aprovação mostrada no chat; upload ao CDN autorizado no mesmo dia. Capa da série no painel lateral: "Bem-vindo" e "Primeira compra", logo e código, com a quarta foto oficial do Moletom Hoodie BAW Subscript preto (produto 151918). Corpo: o print `cupom-baw-carrinho-com-cupom.webp`, que já estava no CDN.
+
+## Revisão externa (Farol, 16/11/2026)
+
+Parecer colado pelo Bruno depois do merge do #1065 e aplicado no mesmo dia: o primeiro capítulo apresenta a loja e leva ao "é confiável?"; a primeira pergunta do FAQ virou "Como conseguir desconto na primeira compra na BAW Clothing?"; snippet com o código e o percentual na abertura; saiu "um pedido comum de primeira compra".

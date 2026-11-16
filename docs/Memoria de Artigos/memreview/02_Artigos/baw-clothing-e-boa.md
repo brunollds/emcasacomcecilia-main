@@ -154,3 +154,7 @@ Folha de aprovação mostrada no chat; upload ao CDN autorizado no mesmo dia. Fo
 
 - Capa `baw-clothing-e-boa-capa.webp`: segunda foto da Camiseta Oversized BAW Subscript off white (produto 151896), a pergunta "BAW Clothing é boa?" e o código.
 - Corpo: `baw-clothing-e-boa-moletom-hoodie-subscript.webp` (terceira foto do Hoodie, 151918), `baw-clothing-e-boa-camiseta-oversized-subscript.webp` (terceira foto da Oversized), `baw-clothing-e-boa-calca-track-baw-tag.webp` (terceira foto da Calça Track BAW Tag, 151973) e, reaproveitada da BW6, `black-friday-baw-camiseta-selfie-logo.webp`. O print da tabela de medidas não entrou: as medidas estão na tabela do texto.
+
+## Revisão externa (Farol, 16/11/2026)
+
+Parecer colado pelo Bruno depois do merge do #1065 e aplicado no mesmo dia: resposta rápida e subtítulo dizem para quem as peças fazem sentido; o card de estilo separa o conjunto da foto da sugestão nossa; os preços viraram tabela (peça, cor, preço da página e valor com os 10 0o código); a instrução de medir sobre superfície plana saiu, porque as descrições não dizem como o tórax foi medido. O título novo proposto ("BAW Clothing é boa? Tecidos, medidas e cuidados antes de comprar") foi aprovado pelo Bruno e aplicado.
