@@ -2,8 +2,8 @@
   "id": 452,
   "slug": "black-friday-belive",
   "bodyDatesReason": "campanha",
-  "title": "Black Friday Belive 2026: a Black November já começou, até 30% no site e o cupom MAUAD",
-  "seoTitle": "Black Friday Belive 2026: Black November e cupom MAUAD",
+  "title": "Black Friday Belive 2026: o que comprar na Black November, avulso ou kit, e quanto fica com o cupom MAUAD",
+  "seoTitle": "Black Friday Belive 2026: o que comprar e cupom MAUAD",
   "type": "Guia de Black Friday",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -14,11 +14,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "A Black November da Belive já está no ar: até 30% de desconto em todo o site, mais 5% no Pix, panetones em oferta e o cupom MAUAD de 10% para somar.",
-  "metaDescription": "Black Friday Belive 2026: até 30% em todo o site e o cupom MAUAD com 10% OFF. Também 5% no Pix, panetones em oferta e o frete por região.",
+  "description": "Na Black November da Belive, o desconto aparece na sacola e varia por produto. Veja o que levar em doces, salgadinhos, pães e panetone, e a conta com o MAUAD e o Pix.",
+  "metaDescription": "O cupom MAUAD dá 10% OFF na Belive e soma com o Pix. Black Friday 2026: o que comprar em doces, salgadinhos, pães e panetone, avulso ou em kit.",
   "publishedAt": "16 de outubro de 2026",
   "publishedAtISO": "2026-10-16",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-16",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/belive/black-friday-belive-capa-v2.webp",
@@ -26,19 +26,20 @@
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
-    "O cupom MAUAD dá 10% em todo o site, em qualquer forma de pagamento",
-    "Soma com as ofertas do site e com o Pix de 5%: no teste de 16/10/2026, o total foi de R$ 576,82 para R$ 493,18",
-    "Cartão em até 2x sem juros, boleto e Pix com 5% de desconto",
-    "Frete grátis a partir de R$ 170 em SP, MG, RJ, DF e GO"
+    "O cupom MAUAD dá 10% em todo o site, em qualquer forma de pagamento, e entrou sobre os preços da Black November",
+    "Soma com o Pix de 5%: pela nossa conta, os dois juntos tiram 14,5% do preço da sacola",
+    "Pães sem glúten de R$ 22,90 por R$ 16,03 na sacola, com 30% da campanha",
+    "O frete grátis conta o valor antes do cupom: nossa sacola de R$ 175,79 seguiu com frete zero depois do MAUAD",
+    "Cartão em até 2x sem juros, boleto e Pix"
   ],
   "cons": [
+    "O preço da campanha só aparece inteiro na sacola: a vitrine mostra o preço cheio e o valor no Pix",
+    "Kit e combo nem sempre saem mais baratos: nos snacks e nos pães, a unidade avulsa custava menos",
     "A loja não publicou data de fim nem regra da Black November",
-    "O desconto do MAUAD sobre produto com preço de Black November não está confirmado",
-    "Os preços da tabela são de outubro: confira o preço do dia na página do produto",
     "Frete grátis só a partir de R$ 250 no Sul e R$ 300 nos demais estados"
   ],
   "cta": {
-    "text": "Entre no site da Belive e digite o MAUAD no carrinho. Compare com a tabela de preços de outubro e confira a linha de descontos antes de pagar.",
+    "text": "Entre no site da Belive, monte a sacola e digite o MAUAD. Compare a unidade com o kit pelo preço da sacola e confira o frete antes de pagar.",
     "label": "Ir para a Belive com o cupom",
     "url": "https://belivebefree.com.br/",
     "sponsored": true
@@ -61,14 +62,14 @@
     {
       "heading": "Resposta rápida: Black Friday Belive 2026",
       "paragraphs": [
-        "A Black November da Belive já está no ar: até 30% de desconto em todo o site, mais 5% no Pix e panetones em oferta, sem data de fim publicada. O cupom MAUAD dá 10% em todas as formas de pagamento e soma com as ofertas e com o Pix; confira a linha de descontos no carrinho."
+        "A Black November da Belive segue no ar, e o desconto varia por produto: na nossa sacola, foi de 5% nos doces avulsos a 30% nos pães sem glúten. O cupom MAUAD tira mais 10% e soma com o Pix. Antes de levar kit ou combo, compare com a unidade: nos snacks e nos pães, o avulso saiu mais barato."
       ]
     },
     {
       "heading": "O que está no ar na Black November da Belive",
       "paragraphs": [
-        "A Belive já está em Black November. A home da loja anuncia até 30% de desconto em todo o site, mais 5% no Pix, e os panetones voltaram: panetones com 5% de desconto mais 5% no Pix, kit de panetones com frete a R$ 9,90 e o lanche escolar a partir de R$ 3,39 no Pix.",
-        "A loja não publicou data de fim nem regra da campanha; a Black Friday do calendário é em 27 de novembro. O \"até 30%\" é o teto: o desconto é por produto, e a página de cada um mostra o preço do dia."
+        "A Belive segue em Black November. As faixas do site anunciam até 30% de desconto em todo o site, desconto extra de 5% no Pix, pães sem glúten \"com o menor preço do ano\", lanche escolar em oferta e frete grátis acima de R$ 170.",
+        "A loja não publicou data de fim nem regra da campanha; a Black Friday do calendário é em 27 de novembro. O \"até 30%\" é o teto, e o desconto é por produto. Um detalhe muda a leitura dos preços: em vários produtos, a vitrine mostra o preço cheio e só o valor no Pix, e o preço da campanha aparece na sacola. Os preços das seções abaixo são os da sacola, em meados de novembro."
       ],
       "image": {
         "src": "/images/reviews/belive/belive-black-november-pagina-2026-10-19.webp",
@@ -78,7 +79,122 @@
         "aspectRatio": 3.3333
       },
       "postParagraphs": [
-        "Em outubro, a página Black November era só um cadastro para receber as ofertas, sem preços nem datas, e a busca por panetone no site voltava vazia. Este guia não traz preço de panetone: confira na página do produto."
+        "Em outubro, a página Black November era só um cadastro para receber as ofertas, sem preços nem datas."
+      ]
+    },
+    {
+      "heading": "Doces sem açúcar: avulso ou kit de 10",
+      "paragraphs": [
+        "Pão de mel e brownie são os doces de unidade da Belive, cada um em versão comum e proteica. A tabela mostra o preço da sacola e a nossa conta com o MAUAD e o Pix, um desconto sobre o outro."
+      ],
+      "comparisonTable": {
+        "caption": "Doces sem açúcar da Belive na nossa leitura de novembro: preço na sacola e conta com o cupom MAUAD (10%) e o Pix (5%), por unidade.",
+        "headers": [
+          "Doce",
+          "Unidade na sacola",
+          "Kit de 10 na sacola",
+          "Por unidade no kit, com MAUAD e Pix"
+        ],
+        "rows": [
+          [
+            "Pão de mel sem açúcar, 45 g",
+            "R$ 7,57",
+            "R$ 74,12",
+            "R$ 6,34"
+          ],
+          [
+            "Pão de mel proteico, 45 g",
+            "R$ 8,07",
+            "R$ 78,96",
+            "R$ 6,75"
+          ],
+          [
+            "Brownie de chocolate sem açúcar, 40 g",
+            "R$ 6,62",
+            "R$ 64,82",
+            "R$ 5,54"
+          ],
+          [
+            "Brownie proteico Double Chocolate sem açúcar, 40 g",
+            "R$ 7,57",
+            "R$ 74,12",
+            "R$ 6,34"
+          ]
+        ]
+      },
+      "bullets": [
+        "**Comum ou proteico:** pela tabela nutricional, o pão de mel comum tem 2 g de proteína por unidade, e o proteico, 6 g. No brownie, a versão de chocolate tem 1,8 g, e o proteico Double Chocolate, 6 g. A diferença de preço é de R$ 0,50 a R$ 0,95 por unidade na sacola.",
+        "**Unidade:** para provar um sabor antes de levar dez. Com a campanha, a unidade avulsa está 5% abaixo do preço cheio.",
+        "**Kit de 10:** cada unidade sai cerca de 2% mais barata que a avulsa. A economia é pequena: o kit serve a quem vai consumir dez unidades do mesmo sabor."
+      ],
+      "postParagraphs": [
+        "Sabores e rótulos estão em [Pão de mel sem açúcar da Belive: comum ou proteico](/reviews/pao-de-mel-sem-acucar-belive), [Brownie sem açúcar da Belive: sabores, rótulo e preço por unidade](/reviews/brownie-sem-acucar-belive) e [Cookies sem açúcar da Belive: qual sabor escolher](/reviews/cookies-sem-acucar-belive). Para quem acompanha a glicemia, o que olhar no rótulo está em [Doces sem açúcar para diabéticos](/reviews/doces-sem-acucar-para-diabeticos)."
+      ]
+    },
+    {
+      "heading": "Salgadinhos: Snack Proteico ou Snack de Arroz",
+      "paragraphs": [
+        "São dois salgadinhos de 35 g com propostas diferentes. O Snack Proteico tem 10 g de proteína por pacote, de proteína isolada de soja. O Snack de Arroz tem cerca de 3 g e custa menos."
+      ],
+      "comparisonTable": {
+        "caption": "Salgadinhos de 35 g da Belive na nossa leitura de novembro: preço na sacola, avulso e em combo, e conta com o cupom MAUAD (10%) e o Pix (5%).",
+        "headers": [
+          "Salgadinho",
+          "Unidade na sacola",
+          "Combo na sacola",
+          "Menor preço por unidade, com MAUAD e Pix"
+        ],
+        "rows": [
+          [
+            "Snack Proteico, 10 g de proteína",
+            "R$ 6,38",
+            "R$ 102,02 com 16 (R$ 6,38 cada)",
+            "R$ 5,45, avulso ou no combo"
+          ],
+          [
+            "Snack de Arroz, cerca de 3 g de proteína",
+            "R$ 4,67",
+            "R$ 95,90 com 20 (R$ 4,80 cada)",
+            "R$ 3,99, avulso"
+          ]
+        ]
+      },
+      "bullets": [
+        "**Snack Proteico:** para quem quer proteína no lanche. A unidade está com 20% da campanha, e o combo de 16 custa exatamente 16 unidades avulsas.",
+        "**Snack de Arroz:** o salgadinho do dia a dia, mais barato. Com os 10% da campanha na unidade, o pacote avulso está saindo por menos que no combo de 20.",
+        "**Combos:** vêm com os quatro sabores em quantidades fixas. Como o preço por unidade empata ou perde para o avulso, monte a sacola com os sabores e a quantidade que você quer."
+      ],
+      "postParagraphs": [
+        "A comparação pelo rótulo está em [Snack proteico ou snack de arroz da Belive: qual compensa por grama de proteína](/reviews/snack-proteico-ou-snack-de-arroz-belive)."
+      ]
+    },
+    {
+      "heading": "Lancheira, pães e panetone",
+      "bullets": [
+        "**Bolinho sem açúcar, 40 g:** R$ 5,12 a unidade e R$ 50,13 o kit de 10 na sacola. Com MAUAD e Pix, o kit sai por R$ 42,86, ou R$ 4,29 por bolinho.",
+        "**Kit Lanche Escolar com 25 bolinhos:** R$ 124,90 na sacola e R$ 106,79 com MAUAD e Pix, R$ 4,27 por bolinho. O preço por unidade é quase o do kit de 10: escolha pela quantidade que a lancheira consome antes do vencimento.",
+        "**Pão sem glúten Tradicional ou Multigrãos:** de R$ 22,90 por R$ 16,03 na sacola, com 30% da campanha, e R$ 13,71 com MAUAD e Pix. O combo de 4 pacotes tradicionais estava a R$ 82,44, mais caro que quatro pacotes avulsos, que somavam R$ 64,12.",
+        "**Panetone de frutas ou de chocolate, 420 g:** R$ 59,90, contra R$ 64,90 no começo de novembro, e R$ 51,21 com MAUAD e Pix. O kit de 3 custa R$ 179,70, o mesmo que três avulsos; a vantagem do kit é passar do mínimo do frete grátis de R$ 170 em SP, MG, RJ, DF e GO."
+      ],
+      "postParagraphs": [
+        "Os guias de cada produto: [Bolinho kids da Belive para a lancheira](/reviews/bolinho-kids-belive-lancheira), [Bolinho sem açúcar: Belive ou Suavipan, pelo rótulo de cada um](/reviews/bolinho-sem-acucar-belive-ou-suavipan) e [Panetone Belive é bom? Chocotone, zero açúcar e sem glúten pelo rótulo](/reviews/panetone-belive-e-bom)."
+      ]
+    },
+    {
+      "heading": "Alergia e intolerância: leia o bloco de alérgicos de cada rótulo",
+      "paragraphs": [
+        "A Belive declara os produtos sem glúten, sem leite e sem lactose. Isso não torna a linha inteira adequada a qualquer alergia: quase todos os doces levam ovo e soja, e os panetones levam amêndoas. A informação que vale é a frase de alérgicos da página e da embalagem de cada produto. As que lemos em novembro:"
+      ],
+      "bullets": [
+        "**Pão de mel, comum e proteico:** \"NÃO CONTÉM GLÚTEN. ALÉRGICOS: CONTÉM DERIVADOS DE SOJA E OVO.\"",
+        "**Brownie de chocolate sem açúcar:** \"NÃO CONTÉM GLÚTEN. ALÉRGICOS: CONTÉM OVO E DERIVADO DE SOJA.\"",
+        "**Panetone de frutas:** \"ALÉRGICOS: CONTÉM AMÊNDOAS, DERIVADOS DE OVO E DERIVADOS DE SOJA. NÃO CONTÉM GLÚTEN.\"",
+        "**Panetone de chocolate:** \"ALÉRGICOS: CONTÉM DERIVADOS DE AMÊNDOAS, DERIVADOS DE OVO E DERIVADOS DE SOJA. NÃO CONTÉM GLÚTEN.\"",
+        "**Snack Proteico de queijo e Snack de Arroz de cebola e salsa:** \"ALÉRGICOS: CONTÉM DERIVADOS DE SOJA.\""
+      ],
+      "postParagraphs": [
+        "Os brownies com nozes, avelã e caramelo salgado trazem ainda a lista de castanhas que contêm e as que podem conter. Sabor muda o rótulo: leia o bloco do sabor que você vai comprar.",
+        "Intolerância à lactose e alergia à proteína do leite de vaca (APLV) são condições diferentes. A declaração \"sem lactose\" responde à primeira. Para APLV, doença celíaca e outras alergias, confirme o rótulo da unidade em mãos e siga a orientação do médico ou nutricionista que acompanha o caso."
       ]
     },
     {
@@ -162,8 +278,8 @@
         ]
       },
       "postParagraphs": [
-        "Use a tabela de outubro como referência para o mesmo produto e a mesma quantidade. Compare o total depois de cupom, forma de pagamento e frete. Um percentual maior sobre o preço riscado não garante uma compra mais barata.",
-        "Os nomes dos produtos declaram sem glúten, sem leite, sem lactose e sem açúcar, na página de cada um. Quem tem intolerância, doença celíaca ou segue dieta deve falar com um nutricionista ou médico antes de comprar."
+        "Em meados de novembro, contra essa tabela: o brownie de chocolate avulso caiu para R$ 6,62 na sacola e o pão sem glúten tradicional, para R$ 16,03. O kit com 10 brownies, o kit com 10 bolinhos e o combo de 20 snacks de arroz seguem no mesmo preço. O bolinho de chocolate avulso, que estava em oferta relâmpago, foi a R$ 5,12, e o snack de arroz de queijo, a R$ 4,67: os dois subiram em relação a outubro. Não relemos o pãozinho de batata.",
+        "Compare o mesmo produto e a mesma quantidade, com o total depois de cupom, forma de pagamento e frete. Um percentual maior sobre o preço riscado não garante uma compra mais barata."
       ]
     },
     {
@@ -226,16 +342,17 @@
         "Demais estados: a partir de R$ 300."
       ],
       "postParagraphs": [
-        "A página de regras não diz se o mínimo conta o valor antes ou depois do cupom. Se o pedido ficar perto do mínimo da sua região, confira no carrinho se o frete grátis continua depois do MAUAD.",
-        "A faixa do topo do site fala em frete grátis a partir de R$ 170: esse valor vale para SP, MG, RJ, DF e GO. Confira o frete do seu CEP no carrinho.",
+        "O mínimo conta o valor da sacola antes do cupom. No nosso teste de novembro, com um CEP da capital paulista, uma sacola de R$ 175,79 tinha frete grátis; com o MAUAD, o total caiu para R$ 158,21, e o envio econômico seguiu a R$ 0,00, com prazo de 7 dias úteis.",
+        "A faixa do topo do site fala em frete grátis a partir de R$ 170: esse valor vale para SP, MG, RJ, DF e GO. Confira o frete do seu CEP no carrinho, e só complete a sacola para chegar ao mínimo com produto que já estava na sua lista.",
         "A loja aceita cartão em até 2x sem juros, boleto e Pix."
       ]
     },
     {
       "heading": "Na Black November: o que conferir",
       "bullets": [
-        "Compare o preço da página no dia da compra com a tabela de outubro deste guia.",
-        "Coloque o MAUAD no carrinho e confira a linha de descontos.",
+        "Coloque o produto na sacola para ver o preço da campanha: a vitrine pode mostrar só o preço cheio.",
+        "Compare a unidade avulsa com o kit ou combo, pelo preço por unidade da sacola.",
+        "Digite o MAUAD e confira a linha de descontos.",
         "Confira o frete pelo CEP antes de pagar.",
         "Escolha o Pix por último, para ver o total final."
       ],
@@ -249,12 +366,14 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Quando começa e quanto dura a Black Friday da Belive? A Black November já está no ar, com até 30% em todo o site e 5% a mais no Pix. A loja não publicou data de fim; a Black Friday do calendário é a última sexta-feira de novembro.",
-        "O cupom MAUAD vale na Black Friday? Vale. O cupom Belive MAUAD dá 10% em todas as formas de pagamento e soma com as ofertas do site e com o Pix. No nosso teste com a Black November no ar, o cupom entrou sobre o preço da campanha.",
+        "O cupom MAUAD vale na Black Friday? Vale. O cupom Belive MAUAD dá 10% em todas as formas de pagamento e soma com as ofertas do site e com o Pix. Na nossa sacola de novembro, o cupom tirou 10% do total já com os preços da campanha.",
         "O MAUAD soma com o Pix? Sim. No teste de checkout, o Pix de 5% entrou depois do cupom.",
         "O MAUAD vale no Mercado Livre? Não. Lá a Belive também vende, mas o cupom não vale.",
-        "Quanto é o desconto da Black November da Belive? Até 30% em todo o site, mais 5% no Pix. O percentual é por produto; o teto é o da campanha.",
-        "Tem panetone à venda? Tem. A Black November trouxe panetones com 5% de desconto mais 5% no Pix e kit de panetones com frete a R$ 9,90.",
-        "O cupom tira o frete grátis? A loja não diz se o mínimo conta o valor antes ou depois do cupom. Com o pedido perto do mínimo da sua região, confira o frete no carrinho depois de aplicar o MAUAD."
+        "Quanto é o desconto da Black November da Belive? Até 30% em todo o site, mais 5% no Pix. O percentual é por produto: na nossa sacola, foi de 5% nos doces avulsos, 10% no Snack de Arroz, 20% no Snack Proteico e 30% nos pães sem glúten.",
+        "Kit da Belive compensa na Black Friday? Depende do produto. Nos doces, o kit de 10 sai cerca de 2% mais barato por unidade que o avulso. No Snack Proteico, o combo de 16 custa o mesmo que 16 avulsos, e no Snack de Arroz e no pão sem glúten, o avulso saiu mais barato que o combo.",
+        "Tem panetone à venda? Tem. Os panetones de frutas e de chocolate custam R$ 59,90 cada, e o kit de 3, R$ 179,70.",
+        "Os produtos da Belive servem para quem tem alergia? Depende da alergia e do produto. A loja declara os produtos sem glúten, sem leite e sem lactose, mas o bloco de alérgicos de cada rótulo lista soja, ovo e, nos panetones, amêndoas. Leia a frase \"ALÉRGICOS\" do sabor que vai comprar.",
+        "O cupom tira o frete grátis? No nosso teste, não: o mínimo contou o valor antes do cupom. Uma sacola de R$ 175,79 seguiu com frete grátis na capital paulista depois de cair para R$ 158,21 com o MAUAD."
       ]
     }
   ]
