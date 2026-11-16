@@ -200,7 +200,8 @@ vídeo, primeiras impressões e uso noturno.
   `locale` explícito. A URL sai sozinha: `/reviews/<slug>` em português e `/<locale>/reviews/<slug>`
   nos outros idiomas. Não se cria rota, hreflang nem entrada em `src/lib/i18n/clusters/` para isso.
 - `npm run test:review-i18n`, que roda na build, exige as 10 versões de toda família, com o mesmo
-  `affiliate` (no artigo de várias lojas, a mesma lista, na mesma ordem) e o mesmo `coupon`, e o link da
+  `affiliate` (no artigo de várias lojas, a mesma lista, na mesma ordem, e o mesmo `store` em cada botão de
+  seção, foto e peça do card de estilo) e o mesmo `coupon`, e o link da
   página da loja no idioma do artigo: `/cupons/<marca>` em português e `/<locale>/coupons/<marca>` nos outros.
 - SHEIN, YesStyle e Hostinger são lojas internacionais (`INTERNATIONAL_STORES`, em `storeBanners.ts`; para pôr um parceiro novo, a checklist "Parceiro internacional" em `docs/MANUTENCAO-MENSAL.md`): o link e o
   código levam o visitante à loja da região dele, então valem em todo idioma, `br.shein.com` inclusive. Nenhum texto
