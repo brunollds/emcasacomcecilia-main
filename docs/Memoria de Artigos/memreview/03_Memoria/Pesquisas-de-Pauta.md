@@ -8,6 +8,19 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## L'Amazonie: pacote inicial (16/11/2026)
+
+Parceira nova (#1060). Pesquisa semente pedida pelo Bruno em 16/11; pautas LZ1 a LZ6 na [[Fila-de-Pautas]], fatos em [[lamazonie-fatos-1611]].
+
+- **Autocompletar (16/11):** a raiz "l'amazonie" sugere "sobrancelha funciona", "funciona", "sobrancelha", "skincare", "é bom", "é confiável", "serum sobrancelha", "cupom" e "serum". "serum l'amazonie" traz "é bom", "funciona mesmo", "resenha", "reclame aqui" e "composição"; "cupom l'amazonie" traz "cupom desconto" e "primeira compra". Sem sugestão: "black friday", "vale a pena", "é boa", "cashback", "garantia", "anvisa" e qualquer "l'amazonie ou <marca>".
+- **Reclame Aqui (01/05 a 31/10/2026):** Boa, 7,0; 30 reclamações, 100% respondidas, 75% resolvidas, 56,3% voltariam a fazer negócio, resposta em 1 dia e 14 horas; "atraso na entrega" é 43,1% dos problemas. Base pequena (16 avaliadas). CNPJ do perfil (31.469.239/0001-39) diferente do rodapé do site (ABRAHAO VAREJISTA LTDA, 60.522.061/0001-40).
+- **Site:** a marca vive do sérum de sobrancelhas, com a Garantia Mais Fios (dinheiro de volta em 60 dias, com fotos e condições). Página de Black Friday existe e está vazia.
+- **Busca aberta:** nenhuma resenha independente do sérum entre os primeiros resultados; só guias genéricos de sérum para sobrancelha.
+- **Não lido:** lista de ingredientes, Anvisa, fabricante e fundadores, loja oficial no Mercado Livre.
+- **Decisão:** "é boa" e "funciona" num artigo só (LZ5), com o sérum como capítulo principal; o artigo só do sérum espera uso próprio ou o rótulo lido; nenhum "L'Amazonie ou X".
+
+---
+
 ## BAW Clothing: pacote inicial (16/11/2026)
 
 Parceira nova (#1048). Pesquisa semente pedida pelo Bruno em 16/11; pautas BW1 a BW6 na [[Fila-de-Pautas]], fatos em [[baw-fatos-1611]].
