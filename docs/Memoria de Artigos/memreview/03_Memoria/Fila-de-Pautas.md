@@ -40,8 +40,8 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | BW6 | Black Friday BAW 2026, com curadoria de sete peças (tem prazo: a campanha está no ar) | BAW Clothing (BAWEMCASACOMCECILIA) | PT | [[black-friday-baw]]; fatos em [[baw-fatos-1611]] (16/11) | Escrito e revisado em 16/11; espera o deploy. Refazer o teste do código em 27/11 e reler os preços durante a campanha |
 | BW2 | BAW Clothing no Reclame Aqui: nota e o que mais gera reclamação | BAW Clothing (BAWEMCASACOMCECILIA) | PT | [[baw-clothing-reclame-aqui-nota-reputacao]]; fatos em [[baw-fatos-1611]] (16/11) | Escrito e revisado em 16/11; espera o deploy |
 | BW3 | BAW Clothing é confiável? (de quem é a marca, dois CNPJs, troca por crédito) | BAW Clothing (BAWEMCASACOMCECILIA) | PT | [[baw-clothing-e-confiavel]]; fatos em [[baw-fatos-1611]] (16/11) | Escrito e revisado em 16/11; espera o deploy |
-| BW4 | Cupom BAW primeira compra (série de primeira compra) | BAW Clothing (BAWEMCASACOMCECILIA) | PT | [[cupom-baw-primeira-compra]]; fatos em [[baw-fatos-1611]] (16/11) | Redação |
-| BW5 | BAW Clothing é boa? (guia pelas fichas, sem peça em mãos; pauta mais fraca do pacote) | BAW Clothing (BAWEMCASACOMCECILIA) | PT | [[baw-clothing-e-boa]]; fatos em [[baw-fatos-1611]] (16/11) | Redação, por último. Leva card de estilo e entrada em `scripts/styling-required.json` |
+| BW4 | Cupom BAW primeira compra (série de primeira compra) | BAW Clothing (BAWEMCASACOMCECILIA) | PT | [[cupom-baw-primeira-compra]]; fatos em [[baw-fatos-1611]] (16/11) | Escrito e revisado em 16/11; espera o deploy |
+| BW5 | BAW Clothing é boa? (guia pelas fichas, sem peça em mãos; pauta mais fraca do pacote) | BAW Clothing (BAWEMCASACOMCECILIA) | PT | [[baw-clothing-e-boa]]; fatos em [[baw-fatos-1611]] (16/11) | Escrito e revisado em 16/11; espera o deploy |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 

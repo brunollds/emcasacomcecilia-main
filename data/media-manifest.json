@@ -159267,6 +159267,236 @@
       "verified_at": "2026-11-16T22:26:41.395Z",
       "verification_etag_or_digest": "d73e1196cf65bdab1f33d01fbb94fbb96961e5be617897d16bba26dee49f69b7",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/baw-clothing-e-boa-calca-track-baw-tag.webp",
+      "local_url": "/images/reviews/baw/baw-clothing-e-boa-calca-track-baw-tag.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20312,
+      "sha256": "bef3927e26cc150ff0120943a00eadbb87fd36ad04ca255a2c805d8fb484168d",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "baw-clothing-e-boa-calca-track-baw-tag.webp",
+      "storage_filename": "baw-clothing-e-boa-calca-track-baw-tag.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/baw-clothing-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/baw-clothing-e-boa.json",
+          "line": 242,
+          "column": 19,
+          "literal": "/images/reviews/baw/baw-clothing-e-boa-calca-track-baw-tag.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 246340,
+          "column": 21,
+          "literal": "/images/reviews/baw/baw-clothing-e-boa-calca-track-baw-tag.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bef3927e26cc150ff0120943a00eadbb87fd36ad04ca255a2c805d8fb484168d/baw-clothing-e-boa-calca-track-baw-tag.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bef3927e26cc150ff0120943a00eadbb87fd36ad04ca255a2c805d8fb484168d/baw-clothing-e-boa-calca-track-baw-tag.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T22:53:59.247Z",
+      "verification_etag_or_digest": "bef3927e26cc150ff0120943a00eadbb87fd36ad04ca255a2c805d8fb484168d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/baw-clothing-e-boa-camiseta-oversized-subscript.webp",
+      "local_url": "/images/reviews/baw/baw-clothing-e-boa-camiseta-oversized-subscript.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18598,
+      "sha256": "ea107e1531107acb31dc67dced3621f7e7a38b41feaafebef013594b42fbd0bb",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "baw-clothing-e-boa-camiseta-oversized-subscript.webp",
+      "storage_filename": "baw-clothing-e-boa-camiseta-oversized-subscript.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/baw-clothing-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/baw-clothing-e-boa.json",
+          "line": 140,
+          "column": 19,
+          "literal": "/images/reviews/baw/baw-clothing-e-boa-camiseta-oversized-subscript.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 246238,
+          "column": 21,
+          "literal": "/images/reviews/baw/baw-clothing-e-boa-camiseta-oversized-subscript.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ea107e1531107acb31dc67dced3621f7e7a38b41feaafebef013594b42fbd0bb/baw-clothing-e-boa-camiseta-oversized-subscript.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ea107e1531107acb31dc67dced3621f7e7a38b41feaafebef013594b42fbd0bb/baw-clothing-e-boa-camiseta-oversized-subscript.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T22:53:59.248Z",
+      "verification_etag_or_digest": "ea107e1531107acb31dc67dced3621f7e7a38b41feaafebef013594b42fbd0bb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/baw-clothing-e-boa-capa.webp",
+      "local_url": "/images/reviews/baw/baw-clothing-e-boa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58070,
+      "sha256": "b2927fa99b45c021c7938847aadf62858615b3ecda09b4d9c9b15d6d94f4fee5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "baw-clothing-e-boa-capa.webp",
+      "storage_filename": "baw-clothing-e-boa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/baw-clothing-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/baw-clothing-e-boa.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/baw/baw-clothing-e-boa-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 246127,
+          "column": 15,
+          "literal": "/images/reviews/baw/baw-clothing-e-boa-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b2927fa99b45c021c7938847aadf62858615b3ecda09b4d9c9b15d6d94f4fee5/baw-clothing-e-boa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b2927fa99b45c021c7938847aadf62858615b3ecda09b4d9c9b15d6d94f4fee5/baw-clothing-e-boa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T22:53:59.248Z",
+      "verification_etag_or_digest": "b2927fa99b45c021c7938847aadf62858615b3ecda09b4d9c9b15d6d94f4fee5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/baw-clothing-e-boa-moletom-hoodie-subscript.webp",
+      "local_url": "/images/reviews/baw/baw-clothing-e-boa-moletom-hoodie-subscript.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 21198,
+      "sha256": "0592200d66f4649901fcda4b96e755cf46bf776ce86678090ba0104b6ffa5bd5",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "baw-clothing-e-boa-moletom-hoodie-subscript.webp",
+      "storage_filename": "baw-clothing-e-boa-moletom-hoodie-subscript.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/baw-clothing-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/baw-clothing-e-boa.json",
+          "line": 92,
+          "column": 19,
+          "literal": "/images/reviews/baw/baw-clothing-e-boa-moletom-hoodie-subscript.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 246190,
+          "column": 21,
+          "literal": "/images/reviews/baw/baw-clothing-e-boa-moletom-hoodie-subscript.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0592200d66f4649901fcda4b96e755cf46bf776ce86678090ba0104b6ffa5bd5/baw-clothing-e-boa-moletom-hoodie-subscript.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0592200d66f4649901fcda4b96e755cf46bf776ce86678090ba0104b6ffa5bd5/baw-clothing-e-boa-moletom-hoodie-subscript.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T22:53:59.248Z",
+      "verification_etag_or_digest": "0592200d66f4649901fcda4b96e755cf46bf776ce86678090ba0104b6ffa5bd5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/cupom-baw-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/baw/cupom-baw-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 65422,
+      "sha256": "fa9f339f0a17b5d136dc75b975adf935e80a7dc7c58b82ae3e3602078eb26052",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-baw-primeira-compra-capa.webp",
+      "storage_filename": "cupom-baw-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-baw-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-baw-primeira-compra.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/baw/cupom-baw-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 246000,
+          "column": 15,
+          "literal": "/images/reviews/baw/cupom-baw-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fa9f339f0a17b5d136dc75b975adf935e80a7dc7c58b82ae3e3602078eb26052/cupom-baw-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fa9f339f0a17b5d136dc75b975adf935e80a7dc7c58b82ae3e3602078eb26052/cupom-baw-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T22:53:59.248Z",
+      "verification_etag_or_digest": "fa9f339f0a17b5d136dc75b975adf935e80a7dc7c58b82ae3e3602078eb26052",
+      "verification_status": "verified"
     }
   ]
 }

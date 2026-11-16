@@ -7,9 +7,9 @@ parceiro_slug: "baw"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2), depois da BW2 e da BW3"
+proxima_acao: "deploy (decisão do Bruno)"
 bloqueado_por: "-"
 data_criacao: "2026-11-16"
 pauta_id: "BW4"
@@ -115,3 +115,11 @@ print `/images/reviews/baw/cupom-baw-carrinho-com-cupom.webp`.
 | Troca por crédito; devolução em 7 dias corridos com reembolso | `/trocas-e-devolucoes`, 16/11 | verificado |
 | Valor mínimo, limite de usos | nenhuma | não escrever |
 | Qualquer cupom ou benefício da própria loja | fora do texto | não escrever |
+
+## Redação, revisão e JSON (16/11/2026)
+
+Job 2 e Job 4 pela sessão de artigos, a partir deste briefing. A conta é a do teste da página da loja; não houve carrinho novo. Job 3 por subagente Fable: achados aplicados. JSON em `content/reviews/cupom-baw-primeira-compra.json`.
+
+## Capa e imagens (aprovadas pelo Bruno em 16/11/2026)
+
+Folha de aprovação mostrada no chat; upload ao CDN autorizado no mesmo dia. Capa da série no painel lateral: "Bem-vindo" e "Primeira compra", logo e código, com a quarta foto oficial do Moletom Hoodie BAW Subscript preto (produto 151918). Corpo: o print `cupom-baw-carrinho-com-cupom.webp`, que já estava no CDN.
