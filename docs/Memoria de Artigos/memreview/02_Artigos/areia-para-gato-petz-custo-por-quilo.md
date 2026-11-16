@@ -131,3 +131,9 @@ que o rótulo declara e como o cupom, a oferta e a retirada mudam o valor.
   Médios e Cereais), e cinco fotos no corpo, uma por tipo. Fotos oficiais de images.petz.com.br, baixadas pelo
   Chrome com o OK do Bruno em 15/11. O Bruno liberou o PR sem a folha de aprovação e revisa depois.
 
+- **Revisão do Farol (ChatGPT) no PR #1018, 15/11:** capa e fotos aprovadas; as 67 linhas conferidas sem
+  divergência. Aplicado: resposta rápida sem ordem rígida entre os tipos (as faixas se sobrepõem); frete e retirada
+  condicionados ao total, ao CEP e à modalidade; madeira sem atribuir pinus ao Cat's Best; sílica com a White Kets
+  de 20 kg no grupo natural; conclusão da marca Petz limitada aos produtos comparados; tabelas com nome e pacote
+  na mesma coluna (quatro colunas) e divididas em dez quadros (argila por marca, madeira e vegetais por tamanho,
+  sílica natural e em cristal). A frase do vaso sanitário fica como declaração da embalagem da Petz Cereais.
