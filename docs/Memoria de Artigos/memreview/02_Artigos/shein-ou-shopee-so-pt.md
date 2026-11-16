@@ -10,8 +10,8 @@ type: "Comparativo"
 status: "briefing"
 score: 76
 responsavel: "Job-1 (Claude Fable 5.2)"
-proxima_acao: "reforma do artigo no ar (Job 2), depois da F3 da Redesenho do site e do GSC da URL"
-bloqueado_por: "F3 do artigo de várias lojas (Redesenho do site) e export do GSC da URL (Bruno)"
+proxima_acao: "reforma do artigo no ar (Job 2), depois da F2 da Redesenho do site e da amostra de produtos"
+bloqueado_por: "F2 do artigo de várias lojas (Redesenho do site) e os links de produto convertidos (Bruno)"
 data_criacao: "2026-11-16"
 i18n_cluster: null
 translationKey: null
@@ -31,6 +31,14 @@ links em [[shein-ou-pares-plano-1611]]; briefing original e fatos de outubro em 
 
 "shein ou shopee" (qual o melhor, qual mais barato, para roupas, para comprar roupas, entrega mais rápido), "shein
 shopee ou aliexpress", "shein shopee ou temu". É o par mais buscado dos três no Brasil.
+
+## Search Console da URL (lido em 16/11/2026)
+
+Search Console da URL, 3 meses até 16/11/2026, pesquisa na web: 4 cliques, 3,77 mil impressões, CTR de 0,1%, posição média 7,5. Nas 56 consultas listadas, as com "shopee" somam 475 impressões ("shein ou shopee" 85, "qual o melhor" 46, "qual mais barato shein ou shopee" 40 e 32, "qual melhor para comprar roupa" 25, "qual chega mais rápido" 17, "qual é mais confiável" 10, "é a mesma coisa" 9); as só de Temu, 61; as só de AliExpress, 17. Nenhuma consulta listada teve clique.
+
+- **O problema é o clique, não a posição:** o artigo aparece na primeira página, por volta da 9ª posição, e quase ninguém clica.
+- **A pergunta mais repetida é a que o artigo não responde:** "qual é mais barato". A amostra de produtos é o que responde.
+- **Tirar Temu e AliExpress custa pouco:** juntas, as consultas só delas são 78 impressões em três meses, sem clique. Os capítulos podem sair na reforma, sem esperar o SV2 e o SV3.
 
 ## O que muda no artigo
 
@@ -69,8 +77,9 @@ preço, salvo se a amostra de produtos entrar ([[shein-ou-pares-plano-1611]], se
 
 - Valem as de [[shein-ou-shopee-temu]]: nada de qualidade, tecido ou caimento sem fonte; Reclame Aqui com janela e
   ressalvas; 4CW5Y é código de indicação, dá desconto, sem percentual.
-- **Antes de mexer, o GSC da URL.** Se o artigo recebe clique por "temu" ou "aliexpress", os capítulos só saem quando
-  o SV2 e o SV3 estiverem no ar, com link no lugar deles. Mesma URL, sem redirecionamento.
+- **Mesma URL, sem redirecionamento.** O GSC de 16/11 liberou a saída dos capítulos da Temu e do AliExpress.
+- **Título e resposta rápida respondem "qual é mais barata"** com a amostra, dita como amostra. Sem amostra, o
+  artigo segue dizendo que não mediu.
 - Reler frete, prazo, devolução, imposto e Reclame Aqui das duas: os números são de 12/10.
 - Shopee: frete e prazo são do vendedor; a tabela diz "varia por vendedor" onde a loja não publica regra geral.
 - Resposta rápida sem R$; no máximo duas datas no corpo; nenhuma data em título, legenda ou FAQ.
@@ -97,6 +106,6 @@ preço, salvo se a amostra de produtos entrar ([[shein-ou-pares-plano-1611]], se
 
 ## Pendências
 
-- F3 na main (Redesenho do site).
-- Export do GSC filtrado pela URL (Bruno).
-- Amostra de produtos: decisão do Bruno.
+- F2 na main (Redesenho do site).
+- Amostra de produtos: aprovada pelo Bruno em 16/11, primeiro só SHEIN e Shopee. A busca da Shopee pede login e
+  não foi lida; ver [[shein-ou-pares-plano-1611]], seção 5.
