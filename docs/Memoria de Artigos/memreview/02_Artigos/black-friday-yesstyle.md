@@ -222,3 +222,12 @@ Parecer em `docs/auditoria-copy-artigos/bf-hostinger-yesstyle-pr1053-20261116-fa
 - **Sem enchimento de sacola:** os itens baratos entram "se você já precisava deles", com a conta de quanto se gasta a mais para alcançar uma faixa.
 - **Organização:** a ordem passa a ser cupom atual, como somar o CECILIA010, vale esperar, entrega, curadoria, regras, calendário e histórico, ofertas restritas, Natal e FAQ. O capítulo de leitura virou "Antes de escolher: preços em dólar e país de entrega". Nos quatro quadros, produto e tamanho ficam numa coluna só.
 - **Quadro de decisão:** "primeira compra na YesStyle" no lugar de "ainda não usou o CECILIA010".
+
+## Base do Reward Code confirmada num carrinho (16/11/2026)
+
+- Carrinho lido na conta que o Bruno abriu no navegador embutido, loja em inglês, entrega nos Estados Unidos: total dos itens US$ 139,73 (7 peças); "Coupon Savings (15% OFF)" -US$ 18,09 com o cupom da loja; "Influencer Code Discount (5%)" -US$ 6,99 com o CECILIA010; total estimado US$ 114,65, frete padrão grátis.
+- **Os 5% saem do total dos itens, antes do cupom da loja** (5% de 139,73 = 6,99; sobre o valor já com o cupom daria 6,08). Os dois descontos somam, em linhas separadas.
+- Um produto com o aviso "Coupons offering a percentage discount cannot be used with this product" (US$ 19,11) ficou fora do cupom de 15% (18,09 = 15% de 120,62) e entrou na base dos 5%.
+- Na sacola, o campo é um só: "Coupon or Influencer / Rewards Code", e aceitou os dois códigos. Os textos do site falam em dois campos (Coupon Code e Reward Code); a página `/cupons/yesstyle` não foi mexida nesta sessão.
+- O exemplo do carrinho voltou a trazer o valor nas 10 versões: 5% de US$ 94,55 = US$ 4,73, total de US$ 75,64 com o cupom de 15%. O teste foi com 5%; os 2% (US$ 1,89) entram "pela mesma conta", sem carrinho que confirme.
+- Segue em aberto: a unidade dos dois potes do Dynasty Cream.
