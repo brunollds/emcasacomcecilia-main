@@ -11,7 +11,7 @@ status: "briefing"
 score: 76
 responsavel: "Job-1 (Claude Fable 5.2)"
 proxima_acao: "reforma do artigo no ar (Job 2), depois da F2 da Redesenho do site e da amostra de produtos"
-bloqueado_por: "F2 do artigo de várias lojas (Redesenho do site) e os links de produto convertidos (Bruno)"
+bloqueado_por: "os links de produto convertidos da amostra (Bruno)"
 data_criacao: "2026-11-16"
 i18n_cluster: null
 translationKey: null
@@ -106,6 +106,9 @@ preço, salvo se a amostra de produtos entrar ([[shein-ou-pares-plano-1611]], se
 
 ## Pendências
 
-- F2 na main (Redesenho do site).
+- F1 e F2 na main desde 16/11 (#1036 e #1038): `affiliate: ["shein", "shopee"]` já passa no `validate:content`.
+  O leitor vê uma linha por loja no topo, na sidebar, na gaveta e no fim, com o título "Lojas deste artigo"; a SHEIN
+  com o 4CW5Y e a Shopee só com "Ir à loja". Nas listagens o artigo aparece como da SHEIN. A Redesenho não viu em
+  tela de celular: olhar o SV1 no celular antes do deploy.
 - Amostra de produtos: aprovada pelo Bruno em 16/11, primeiro só SHEIN e Shopee. A busca da Shopee pede login e
   não foi lida; ver [[shein-ou-pares-plano-1611]], seção 5.
