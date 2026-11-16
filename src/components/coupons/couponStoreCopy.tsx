@@ -1,4 +1,5 @@
 import type { ReactNode } from 'react';
+import { inStore, ofStore, theStore, type StoreName } from '@/lib/storeNames';
 import type { StackingBenefit, StackingRow, StoreVideoPlatform } from '@/lib/couponsData';
 import type { Locale } from '@/lib/i18n/locales';
 import { SECTION_LABELS } from '@/lib/i18n/sectionLabels';
@@ -85,18 +86,18 @@ export type CouponStoreCopy = {
   rulesTitle: string;
   rules: { eligible: string; combinable: string; validity: string; reusable: string; shipping: string };
   referralVerified: (date: string) => string;
-  howToTitle: { code: (offerType: string, code: string) => string; link: (brand: string) => string };
+  howToTitle: { code: (offerType: string, code: string) => string; link: (store: StoreName) => string };
   instructions: {
     code: (offer: { code: string; brand: string; discount: string }) => string[];
-    link: (brand: string) => string[];
+    link: (store: StoreName) => string[];
   };
   defaultCodeField: string;
   codeFieldNote: (field: ReactNode) => ReactNode;
   defaultLinkNote: string;
-  aboutTitle: (brand: string) => string;
+  aboutTitle: (store: StoreName) => string;
   relatedTitle: string;
   relatedType: { review: string; post: string };
-  faqTitle: { code: (offerTypePlural: string, brand: string) => string; link: (offerTypePlural: string, brand: string) => string };
+  faqTitle: { code: (offerTypePlural: string, brand: string) => string; link: (offerTypePlural: string, store: StoreName) => string };
   historyTitle: (brand: string) => string;
   historyIntro: (code: ReactNode) => ReactNode;
   otherCouponsTitle: string;
@@ -105,7 +106,7 @@ export type CouponStoreCopy = {
   // Nome da oferta no JSON-LD.
   offerName: {
     code: (offer: { discount: string; brand: string; offerType: string; code: string }) => string;
-    link: (discount: string, brand: string) => string;
+    link: (discount: string, store: StoreName) => string;
   };
 };
 
@@ -118,12 +119,6 @@ const capitalize = (text: string) => text.charAt(0).toUpperCase() + text.slice(1
 
 // O francês pede espaço antes de : ; ? e %, e ele não pode quebrar a linha.
 const NBSP = '\u00a0';
-
-// Em português a página trata a loja no feminino ("da Temu"); as marcas daqui pedem o masculino ("do AliExpress").
-const MASCULINE_BRANDS = new Set(['AliExpress']);
-const ptA = (brand: string) => `${MASCULINE_BRANDS.has(brand) ? 'o' : 'a'} ${brand}`;
-const ptDa = (brand: string) => `d${ptA(brand)}`;
-const ptNa = (brand: string) => `n${ptA(brand)}`;
 
 export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
   pt: {
@@ -228,7 +223,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     referralVerified: (date) => `Verificado em ${date}.`,
     howToTitle: {
       code: (offerType, code) => `Como usar o ${offerType} ${code}`,
-      link: (brand) => `Como acessar a oferta ${ptDa(brand)}`,
+      link: (store) => `Como acessar a oferta ${ofStore(store)}`,
     },
     instructions: {
       code: ({ code, brand, discount }) => [
@@ -238,8 +233,8 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
         'Cole o código no campo de cupom/desconto antes de finalizar.',
         `Confira se o desconto de ${discount.replace(/^Até /, 'até ')} apareceu no resumo do pedido.`,
       ],
-      link: (brand) => [
-        `Acesse a oferta ${ptDa(brand)} pelo botão indicado.`,
+      link: (store) => [
+        `Acesse a oferta ${ofStore(store)} pelo botão indicado.`,
         'Confira os produtos e condições disponíveis na página da loja.',
         'Verifique o valor final antes de concluir a compra.',
       ],
@@ -248,12 +243,12 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     codeFieldNote: (field) => <>Campo correto: {field}. Confirme sempre o resumo do pedido antes de pagar.</>,
     defaultLinkNote:
       'Esta oferta é acessada pelo link indicado e não exige código para copiar. Confirme as condições na loja antes de pagar.',
-    aboutTitle: (brand) => `Sobre ${ptA(brand)}`,
+    aboutTitle: (store) => `Sobre ${theStore(store)}`,
     relatedTitle: 'Leia antes de comprar',
     relatedType: { review: 'Review', post: 'Post' },
     faqTitle: {
       code: (offerTypePlural, brand) => `Perguntas frequentes sobre ${offerTypePlural} ${brand}`,
-      link: (offerTypePlural, brand) => `Perguntas frequentes sobre ${offerTypePlural} ${ptDa(brand)}`,
+      link: (offerTypePlural, store) => `Perguntas frequentes sobre ${offerTypePlural} ${ofStore(store)}`,
     },
     historyTitle: (brand) => `Histórico de cupons da ${brand}`,
     historyIntro: (code) => <>Cupons anteriores já usados nessa parceria. O cupom ativo atual é {code}.</>,
@@ -270,7 +265,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     },
     offerName: {
       code: ({ discount, brand, offerType, code }) => `${discount} na ${brand} com ${offerType} ${code}`,
-      link: (discount, brand) => `${discount} ${ptNa(brand)} pelo link indicado`,
+      link: (discount, store) => `${discount} ${inStore(store)} pelo link indicado`,
     },
   },
   en: {
@@ -353,7 +348,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     referralVerified: (date) => `Checked on ${date}.`,
     howToTitle: {
       code: (offerType, code) => `How to use the ${offerType} ${code}`,
-      link: (brand) => `How to get the ${brand} offer`,
+      link: ({ brand }) => `How to get the ${brand} offer`,
     },
     instructions: {
       code: ({ code, brand, discount }) => [
@@ -363,7 +358,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
         'Paste the code into the coupon/discount field before checking out.',
         `Check that the ${discount} discount shows up in the order summary.`,
       ],
-      link: (brand) => [
+      link: ({ brand }) => [
         `Open the ${brand} offer with the button provided.`,
         'Check the products and conditions on the store page.',
         'Check the final price before completing your purchase.',
@@ -373,12 +368,12 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     codeFieldNote: (field) => <>Right field: {field}. Always check the order summary before paying.</>,
     defaultLinkNote:
       'This offer opens through the link provided and needs no code. Check the conditions in the store before paying.',
-    aboutTitle: (brand) => `About ${brand}`,
+    aboutTitle: ({ brand }) => `About ${brand}`,
     relatedTitle: 'Read before you buy',
     relatedType: { review: 'Review', post: 'Post' },
     faqTitle: {
       code: (offerTypePlural, brand) => `Frequently asked questions about ${brand} ${offerTypePlural}`,
-      link: (offerTypePlural, brand) => `Frequently asked questions about ${brand} ${offerTypePlural}`,
+      link: (offerTypePlural, { brand }) => `Frequently asked questions about ${brand} ${offerTypePlural}`,
     },
     historyTitle: (brand) => `${brand} coupon history`,
     historyIntro: (code) => <>Previous coupons used in this partnership. The current active coupon is {code}.</>,
@@ -395,7 +390,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     },
     offerName: {
       code: ({ discount, brand, offerType, code }) => `${discount} at ${brand} with ${offerType} ${code}`,
-      link: (discount, brand) => `${discount} at ${brand} through the link provided`,
+      link: (discount, { brand }) => `${discount} at ${brand} through the link provided`,
     },
   },
   es: {
@@ -476,7 +471,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     referralVerified: (date) => `Comprobado el ${date}.`,
     howToTitle: {
       code: (offerType, code) => `Cómo usar el ${offerType} ${code}`,
-      link: (brand) => `Cómo acceder a la oferta de ${brand}`,
+      link: ({ brand }) => `Cómo acceder a la oferta de ${brand}`,
     },
     instructions: {
       code: ({ code, brand, discount }) => [
@@ -486,7 +481,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
         'Pega el código en el campo de cupón/descuento antes de pagar.',
         `Comprueba que el descuento de ${discount} aparece en el resumen del pedido.`,
       ],
-      link: (brand) => [
+      link: ({ brand }) => [
         `Entra en la oferta de ${brand} con el botón indicado.`,
         'Revisa los productos y las condiciones en la página de la tienda.',
         'Comprueba el precio final antes de completar la compra.',
@@ -496,12 +491,12 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     codeFieldNote: (field) => <>Campo correcto: {field}. Revisa siempre el resumen del pedido antes de pagar.</>,
     defaultLinkNote:
       'Esta oferta se abre con el enlace indicado y no necesita código. Comprueba las condiciones en la tienda antes de pagar.',
-    aboutTitle: (brand) => `Sobre ${brand}`,
+    aboutTitle: ({ brand }) => `Sobre ${brand}`,
     relatedTitle: 'Lee antes de comprar',
     relatedType: { review: 'Reseña', post: 'Post' },
     faqTitle: {
       code: (offerTypePlural, brand) => `Preguntas frecuentes sobre ${offerTypePlural} ${brand}`,
-      link: (offerTypePlural, brand) => `Preguntas frecuentes sobre ${offerTypePlural} de ${brand}`,
+      link: (offerTypePlural, { brand }) => `Preguntas frecuentes sobre ${offerTypePlural} de ${brand}`,
     },
     historyTitle: (brand) => `Historial de cupones de ${brand}`,
     historyIntro: (code) => <>Cupones anteriores de esta colaboración. El cupón activo ahora es {code}.</>,
@@ -518,7 +513,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     },
     offerName: {
       code: ({ discount, brand, offerType, code }) => `${discount} en ${brand} con ${offerType} ${code}`,
-      link: (discount, brand) => `${discount} en ${brand} con el enlace indicado`,
+      link: (discount, { brand }) => `${discount} en ${brand} con el enlace indicado`,
     },
   },
   fr: {
@@ -598,7 +593,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     referralVerified: (date) => `Vérifié le ${date}.`,
     howToTitle: {
       code: (offerType, code) => `Comment utiliser le ${offerType} ${code}`,
-      link: (brand) => `Comment accéder à l'offre ${brand}`,
+      link: ({ brand }) => `Comment accéder à l'offre ${brand}`,
     },
     instructions: {
       code: ({ code, brand, discount }) => [
@@ -608,7 +603,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
         'Collez le code dans le champ code promo/réduction avant de valider.',
         `Vérifiez que la réduction de ${discount} apparaît dans le récapitulatif de la commande.`,
       ],
-      link: (brand) => [
+      link: ({ brand }) => [
         `Ouvrez l'offre ${brand} avec le bouton indiqué.`,
         'Consultez les produits et les conditions sur la page de la boutique.',
         "Vérifiez le prix final avant de finaliser l'achat.",
@@ -622,12 +617,12 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     ),
     defaultLinkNote:
       "Cette offre s'ouvre via le lien indiqué et ne demande aucun code. Vérifiez les conditions sur la boutique avant de payer.",
-    aboutTitle: (brand) => `À propos de ${brand}`,
+    aboutTitle: ({ brand }) => `À propos de ${brand}`,
     relatedTitle: "À lire avant d'acheter",
     relatedType: { review: 'Avis', post: 'Article' },
     faqTitle: {
       code: (offerTypePlural, brand) => `Questions fréquentes sur les ${offerTypePlural} ${brand}`,
-      link: (offerTypePlural, brand) => `Questions fréquentes sur les ${offerTypePlural} ${brand}`,
+      link: (offerTypePlural, { brand }) => `Questions fréquentes sur les ${offerTypePlural} ${brand}`,
     },
     historyTitle: (brand) => `Historique des codes promo ${brand}`,
     historyIntro: (code) => <>Codes promo déjà utilisés dans ce partenariat. Le code actif actuel est {code}.</>,
@@ -644,7 +639,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     },
     offerName: {
       code: ({ discount, brand, offerType, code }) => `${discount} chez ${brand} avec le ${offerType} ${code}`,
-      link: (discount, brand) => `${discount} chez ${brand} via le lien indiqué`,
+      link: (discount, { brand }) => `${discount} chez ${brand} via le lien indiqué`,
     },
   },
   de: {
@@ -725,7 +720,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     referralVerified: (date) => `Geprüft am ${date}.`,
     howToTitle: {
       code: (offerType, code) => `So nutzt du den ${offerType} ${code}`,
-      link: (brand) => `So nutzt du das ${brand}-Angebot`,
+      link: ({ brand }) => `So nutzt du das ${brand}-Angebot`,
     },
     instructions: {
       code: ({ code, brand, discount }) => [
@@ -735,7 +730,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
         'Füge den Code vor dem Bezahlen in das Gutschein-/Rabattfeld ein.',
         `Prüfe, ob der Rabatt von ${discount} in der Bestellübersicht erscheint.`,
       ],
-      link: (brand) => [
+      link: ({ brand }) => [
         `Öffne das ${brand}-Angebot über den angegebenen Button.`,
         'Sieh dir Produkte und Bedingungen auf der Shopseite an.',
         'Prüfe den Endpreis, bevor du den Kauf abschließt.',
@@ -745,13 +740,13 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     codeFieldNote: (field) => <>Richtiges Feld: {field}. Prüfe vor dem Bezahlen immer die Bestellübersicht.</>,
     defaultLinkNote:
       'Dieses Angebot öffnet sich über den angegebenen Link und braucht keinen Code. Prüfe die Bedingungen im Shop, bevor du bezahlst.',
-    aboutTitle: (brand) => `Über ${brand}`,
+    aboutTitle: ({ brand }) => `Über ${brand}`,
     relatedTitle: 'Vor dem Kauf lesen',
     relatedType: { review: 'Test', post: 'Beitrag' },
     // "zu" verlangt den Dativ ("zu SHEIN-Angeboten"); mit Doppelpunkt bleibt der Plural im Nominativ.
     faqTitle: {
       code: (offerTypePlural, brand) => `${brand}-${offerTypePlural}: häufige Fragen`,
-      link: (offerTypePlural, brand) => `${brand}-${offerTypePlural}: häufige Fragen`,
+      link: (offerTypePlural, { brand }) => `${brand}-${offerTypePlural}: häufige Fragen`,
     },
     historyTitle: (brand) => `Bisherige ${brand}-Gutscheine`,
     historyIntro: (code) => <>Frühere Gutscheine aus dieser Partnerschaft. Der aktuell gültige Gutschein ist {code}.</>,
@@ -768,7 +763,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     },
     offerName: {
       code: ({ discount, brand, offerType, code }) => `${discount} bei ${brand} mit ${offerType} ${code}`,
-      link: (discount, brand) => `${discount} bei ${brand} über den angegebenen Link`,
+      link: (discount, { brand }) => `${discount} bei ${brand} über den angegebenen Link`,
     },
   },
   it: {
@@ -849,7 +844,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     referralVerified: (date) => `Verificato il ${date}.`,
     howToTitle: {
       code: (offerType, code) => `Come usare il ${offerType} ${code}`,
-      link: (brand) => `Come accedere all'offerta ${brand}`,
+      link: ({ brand }) => `Come accedere all'offerta ${brand}`,
     },
     instructions: {
       code: ({ code, brand, discount }) => [
@@ -859,7 +854,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
         'Incolla il codice nel campo coupon/sconto prima di concludere.',
         `Controlla che lo sconto di ${discount} compaia nel riepilogo dell'ordine.`,
       ],
-      link: (brand) => [
+      link: ({ brand }) => [
         `Apri l'offerta ${brand} con il pulsante indicato.`,
         'Controlla i prodotti e le condizioni nella pagina del negozio.',
         "Verifica il prezzo finale prima di completare l'acquisto.",
@@ -869,12 +864,12 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     codeFieldNote: (field) => <>Campo giusto: {field}. Controlla sempre il riepilogo dell&apos;ordine prima di pagare.</>,
     defaultLinkNote:
       'Questa offerta si apre con il link indicato e non richiede codici. Controlla le condizioni nel negozio prima di pagare.',
-    aboutTitle: (brand) => `Informazioni su ${brand}`,
+    aboutTitle: ({ brand }) => `Informazioni su ${brand}`,
     relatedTitle: 'Da leggere prima di comprare',
     relatedType: { review: 'Recensione', post: 'Articolo' },
     faqTitle: {
       code: (offerTypePlural, brand) => `Domande frequenti sui ${offerTypePlural} ${brand}`,
-      link: (offerTypePlural, brand) => `Domande frequenti sulle ${offerTypePlural} ${brand}`,
+      link: (offerTypePlural, { brand }) => `Domande frequenti sulle ${offerTypePlural} ${brand}`,
     },
     historyTitle: (brand) => `Storico dei coupon ${brand}`,
     historyIntro: (code) => <>Coupon già usati in questa collaborazione. Il coupon attivo adesso è {code}.</>,
@@ -891,7 +886,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     },
     offerName: {
       code: ({ discount, brand, offerType, code }) => `${discount} su ${brand} con il ${offerType} ${code}`,
-      link: (discount, brand) => `${discount} su ${brand} con il link indicato`,
+      link: (discount, { brand }) => `${discount} su ${brand} con il link indicato`,
     },
   },
   ko: {
@@ -971,7 +966,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     referralVerified: (date) => `${date} 확인.`,
     howToTitle: {
       code: (offerType, code) => `${offerType} ${code} 사용 방법`,
-      link: (brand) => `${brand} 혜택 이용 방법`,
+      link: ({ brand }) => `${brand} 혜택 이용 방법`,
     },
     instructions: {
       code: ({ code, brand, discount }) => [
@@ -981,7 +976,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
         '결제 전에 쿠폰/할인 코드 입력란에 코드를 붙여넣으세요.',
         `주문 요약에 ${discount} 할인이 적용되었는지 확인하세요.`,
       ],
-      link: (brand) => [
+      link: ({ brand }) => [
         `안내된 버튼으로 ${brand} 혜택 페이지를 여세요.`,
         '스토어 페이지에서 상품과 조건을 확인하세요.',
         '구매를 완료하기 전에 최종 금액을 확인하세요.',
@@ -990,12 +985,12 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     defaultCodeField: '쿠폰/할인 코드 입력란',
     codeFieldNote: (field) => <>입력란: {field}. 결제 전에 항상 주문 요약을 확인하세요.</>,
     defaultLinkNote: '이 혜택은 안내된 링크로 열리며 코드가 필요하지 않습니다. 결제 전에 스토어에서 조건을 확인하세요.',
-    aboutTitle: (brand) => `${brand} 소개`,
+    aboutTitle: ({ brand }) => `${brand} 소개`,
     relatedTitle: '구매 전에 읽어 보세요',
     relatedType: { review: '리뷰', post: '포스트' },
     faqTitle: {
       code: (offerTypePlural, brand) => `${brand} ${offerTypePlural} 자주 묻는 질문`,
-      link: (offerTypePlural, brand) => `${brand} ${offerTypePlural} 자주 묻는 질문`,
+      link: (offerTypePlural, { brand }) => `${brand} ${offerTypePlural} 자주 묻는 질문`,
     },
     historyTitle: (brand) => `${brand} 쿠폰 이력`,
     historyIntro: (code) => <>이 파트너십에서 사용된 이전 쿠폰입니다. 현재 사용 가능한 쿠폰은 {code}입니다.</>,
@@ -1012,7 +1007,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     },
     offerName: {
       code: ({ discount, brand, offerType, code }) => `${brand} ${offerType} ${code}: ${discount}`,
-      link: (discount, brand) => `${brand}: ${discount} (안내된 링크)`,
+      link: (discount, { brand }) => `${brand}: ${discount} (안내된 링크)`,
     },
   },
   ja: {
@@ -1093,7 +1088,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     referralVerified: (date) => `${date}に確認。`,
     howToTitle: {
       code: (offerType, code) => `${offerType} ${code} の使い方`,
-      link: (brand) => `${brand} のオファーの使い方`,
+      link: ({ brand }) => `${brand} のオファーの使い方`,
     },
     instructions: {
       code: ({ code, brand, discount }) => [
@@ -1103,7 +1098,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
         'お支払い前に、クーポン／割引コードの入力欄にコードを貼り付けます。',
         `注文内容の確認画面に ${discount} の割引が反映されているか確認します。`,
       ],
-      link: (brand) => [
+      link: ({ brand }) => [
         `案内のボタンから ${brand} のオファーを開きます。`,
         'ストアのページで商品と条件を確認します。',
         '購入を確定する前に最終金額を確認します。',
@@ -1112,12 +1107,12 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     defaultCodeField: 'クーポン／割引コードの入力欄',
     codeFieldNote: (field) => <>入力欄：{field}。お支払い前に必ず注文内容をご確認ください。</>,
     defaultLinkNote: 'このオファーは案内のリンクから開き、コードは不要です。お支払い前にストアで条件をご確認ください。',
-    aboutTitle: (brand) => `${brand} について`,
+    aboutTitle: ({ brand }) => `${brand} について`,
     relatedTitle: '購入前に読む',
     relatedType: { review: 'レビュー', post: '記事' },
     faqTitle: {
       code: (offerTypePlural, brand) => `${brand} の${offerTypePlural}に関するよくある質問`,
-      link: (offerTypePlural, brand) => `${brand} の${offerTypePlural}に関するよくある質問`,
+      link: (offerTypePlural, { brand }) => `${brand} の${offerTypePlural}に関するよくある質問`,
     },
     historyTitle: (brand) => `${brand} のクーポン履歴`,
     historyIntro: (code) => <>このパートナーシップで使われた過去のクーポンです。現在有効なクーポンは {code} です。</>,
@@ -1132,7 +1127,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     },
     offerName: {
       code: ({ discount, brand, offerType, code }) => `${brand} の${offerType} ${code}：${discount}`,
-      link: (discount, brand) => `${brand}：${discount}（案内のリンク経由）`,
+      link: (discount, { brand }) => `${brand}：${discount}（案内のリンク経由）`,
     },
   },
   'zh-hant': {
@@ -1212,7 +1207,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     referralVerified: (date) => `已於 ${date} 核實。`,
     howToTitle: {
       code: (offerType, code) => `如何使用${offerType} ${code}`,
-      link: (brand) => `如何取得 ${brand} 優惠`,
+      link: ({ brand }) => `如何取得 ${brand} 優惠`,
     },
     instructions: {
       code: ({ code, brand, discount }) => [
@@ -1222,7 +1217,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
         '結帳前，把代碼貼到優惠碼／折扣欄位。',
         `確認訂單摘要已顯示 ${discount} 折扣。`,
       ],
-      link: (brand) => [
+      link: ({ brand }) => [
         `透過指定按鈕開啟 ${brand} 優惠。`,
         '在商店頁面查看商品及條件。',
         '完成購買前確認最終金額。',
@@ -1231,12 +1226,12 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     defaultCodeField: '優惠碼／折扣欄位',
     codeFieldNote: (field) => <>正確欄位：{field}。付款前請務必確認訂單摘要。</>,
     defaultLinkNote: '此優惠透過指定連結開啟，無需代碼。付款前請在商店確認條件。',
-    aboutTitle: (brand) => `關於 ${brand}`,
+    aboutTitle: ({ brand }) => `關於 ${brand}`,
     relatedTitle: '購買前先看',
     relatedType: { review: '評測', post: '文章' },
     faqTitle: {
       code: (offerTypePlural, brand) => `${brand} ${offerTypePlural}常見問題`,
-      link: (offerTypePlural, brand) => `${brand} ${offerTypePlural}常見問題`,
+      link: (offerTypePlural, { brand }) => `${brand} ${offerTypePlural}常見問題`,
     },
     historyTitle: (brand) => `${brand} 優惠碼紀錄`,
     historyIntro: (code) => <>此合作過往使用過的優惠碼。目前有效的優惠碼是 {code}。</>,
@@ -1253,7 +1248,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     },
     offerName: {
       code: ({ discount, brand, offerType, code }) => `${brand} ${offerType} ${code}：${discount}`,
-      link: (discount, brand) => `${brand}：${discount}（透過指定連結）`,
+      link: (discount, { brand }) => `${brand}：${discount}（透過指定連結）`,
     },
   },
   'zh-hans': {
@@ -1333,7 +1328,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     referralVerified: (date) => `已于 ${date} 核实。`,
     howToTitle: {
       code: (offerType, code) => `如何使用${offerType} ${code}`,
-      link: (brand) => `如何获取 ${brand} 优惠`,
+      link: ({ brand }) => `如何获取 ${brand} 优惠`,
     },
     instructions: {
       code: ({ code, brand, discount }) => [
@@ -1343,7 +1338,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
         '结账前，把代码粘贴到优惠码／折扣栏。',
         `确认订单摘要中已显示 ${discount} 折扣。`,
       ],
-      link: (brand) => [
+      link: ({ brand }) => [
         `通过指定按钮打开 ${brand} 优惠。`,
         '在商店页面查看商品和条件。',
         '完成购买前确认最终金额。',
@@ -1352,12 +1347,12 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     defaultCodeField: '优惠码／折扣栏',
     codeFieldNote: (field) => <>正确栏位：{field}。付款前请务必确认订单摘要。</>,
     defaultLinkNote: '此优惠通过指定链接打开，无需代码。付款前请在商店确认条件。',
-    aboutTitle: (brand) => `关于 ${brand}`,
+    aboutTitle: ({ brand }) => `关于 ${brand}`,
     relatedTitle: '购买前先看',
     relatedType: { review: '测评', post: '文章' },
     faqTitle: {
       code: (offerTypePlural, brand) => `${brand} ${offerTypePlural}常见问题`,
-      link: (offerTypePlural, brand) => `${brand} ${offerTypePlural}常见问题`,
+      link: (offerTypePlural, { brand }) => `${brand} ${offerTypePlural}常见问题`,
     },
     historyTitle: (brand) => `${brand} 优惠码记录`,
     historyIntro: (code) => <>此合作以往使用过的优惠码。当前有效的优惠码是 {code}。</>,
@@ -1374,7 +1369,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     },
     offerName: {
       code: ({ discount, brand, offerType, code }) => `${brand} ${offerType} ${code}：${discount}`,
-      link: (discount, brand) => `${brand}：${discount}（通过指定链接）`,
+      link: (discount, { brand }) => `${brand}：${discount}（通过指定链接）`,
     },
   },
 };

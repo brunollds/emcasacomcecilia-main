@@ -35,7 +35,7 @@ quando a tradução entrar, nos outros nove idiomas.
 
 ## 3. Alertas Editoriais
 
-Nunca chamar o link de cupom nem prometer desconto ou percentual. Cupom do própria AliExpress não entra em
+Nunca chamar o link de cupom nem prometer desconto ou percentual. Cupom do próprio AliExpress não entra em
 página nem em artigo sem exceção dada pelo Bruno. No masculino: "o AliExpress", "no AliExpress". Nos artigos, usar `affiliate: "aliexpress"` e link
 relativo para `/cupons/aliexpress`, conforme `docs/CONTRATO-ARTIGO-AFILIADO.md`.
 

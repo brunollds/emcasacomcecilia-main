@@ -131,7 +131,7 @@ function getJsonLd(coupon: Coupon, locale: Locale, copy: CouponStoreCopy) {
     '@id': ids.offer,
     name: coupon.offerMode === 'discount-code'
       ? copy.offerName.code({ discount: coupon.discount, brand: coupon.brand, offerType, code: coupon.code })
-      : copy.offerName.link(coupon.discount, coupon.brand),
+      : copy.offerName.link(coupon.discount, coupon),
     description: coupon.longDescription,
     category: coupon.category,
     url,
@@ -253,7 +253,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
   const offerInstructions = couponCodeOffer
     ? couponCodeOffer.codeInstructions ||
       copy.instructions.code({ code: couponCodeOffer.code, brand: coupon.brand, discount: coupon.discount })
-    : affiliateLinkOffer?.linkInstructions || copy.instructions.link(coupon.brand);
+    : affiliateLinkOffer?.linkInstructions || copy.instructions.link(coupon);
   const lastVerified = formatLongDate(coupon.lastVerified);
   const testedAt = couponCodeOffer?.testNote && couponCodeOffer.testedAt ? formatLongDate(couponCodeOffer.testedAt) : null;
   // As duas seções só existem onde o copy do idioma as tem (hoje, o português).
@@ -515,7 +515,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
             <SectionHeading id="como-usar">
               {couponCodeOffer
                 ? copy.howToTitle.code(offerType, couponCodeOffer.code)
-                : copy.howToTitle.link(coupon.brand)}
+                : copy.howToTitle.link(coupon)}
             </SectionHeading>
             <StepList
               steps={offerInstructions}
@@ -604,7 +604,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
           )}
 
           <section aria-labelledby="sobre">
-            <SectionHeading id="sobre">{copy.aboutTitle(coupon.brand)}</SectionHeading>
+            <SectionHeading id="sobre">{copy.aboutTitle(coupon)}</SectionHeading>
             <p className={`mt-4 ${BODY_TEXT}`}>{coupon.aboutBrand}</p>
           </section>
 
@@ -656,7 +656,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
             <SectionHeading id="perguntas">
               {couponCodeOffer
                 ? copy.faqTitle.code(offerTypePlural, coupon.brand)
-                : copy.faqTitle.link(offerTypePlural, coupon.brand)}
+                : copy.faqTitle.link(offerTypePlural, coupon)}
             </SectionHeading>
             <div className="mt-5">
               <CouponFaq items={coupon.faqs} brand={coupon.brand} />

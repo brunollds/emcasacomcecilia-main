@@ -101,7 +101,7 @@ export function getCouponHubLastVerified(entries: CouponHubEntry[]): string | un
 export function getCouponHubItemName({ coupon, upTo }: CouponHubEntry, locale: TranslatedLocale) {
   const copy = COUPON_STORE_COPY[locale];
   const discount = upTo ? `${COUPON_HUB_COPY[locale].upTo} ${coupon.discount}` : coupon.discount;
-  if (coupon.offerMode === 'affiliate-link') return copy.offerName.link(discount, coupon.brand);
+  if (coupon.offerMode === 'affiliate-link') return copy.offerName.link(discount, coupon);
   return copy.offerName.code({
     discount,
     brand: coupon.brand,
