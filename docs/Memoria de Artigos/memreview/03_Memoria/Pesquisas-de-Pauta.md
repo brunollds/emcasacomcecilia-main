@@ -16,7 +16,12 @@ Parceira nova (#1048). Pesquisa semente pedida pelo Bruno em 16/11; pautas BW1 a
 - **Reclame Aqui (01/05 a 31/10/2026):** Boa, 7,3; 843 reclamações, 100% respondidas, 83,7% resolvidas, 56,7% voltariam a fazer negócio, resposta em 8 dias e 18 horas; "produto não recebido" é o problema mais citado. CNPJ do perfil (27.238.862/0001-03) diferente do rodapé do site (WAB COMPANY, 58.435.903/0001-85).
 - **Dono:** comprada pela Arezzo&Co em 2021 (R$ 105 milhões) e revendida aos fundadores em fevereiro de 2025, segundo a imprensa (FashionUnited citando o NeoFeed). Responde a quatro buscas e vira o gancho da BW3.
 - **Black Friday:** página "A última Black Friday da BAW" no ar, sem datas nem regulamento; o nosso código entrou sobre peça com selo de Black Friday no teste de 16/11.
-- **Não lido:** guia de tamanhos, lojas físicas (página vazia), "baw é do leo picon", loja oficial no Mercado Livre.
+- **Não lido:** lojas físicas (página vazia de novo), "baw é do leo picon", corpo da reportagem do NeoFeed, página da loja oficial no Mercado Livre.
+- **Leitura do Job 1 (16/11, antes dos briefings):**
+  - Fichas de produto: não há guia de tamanhos único; as medidas ficam na descrição de cada peça e várias fichas estão vazias (camisetas da campanha, infantil, todos os tênis lidos). "Regular" muda de medida entre modelos.
+  - Topo do Google em português: "cupom baw clothing" e "primeira compra" são anúncios de sites de cupom e listas de códigos, sem conta de carrinho; "baw black friday" só tem a loja e redes sociais; em "é confiável", a visão de IA diz que a marca pertence ao Grupo Arezzo, o que a imprensa de 2025 desmente; em "é boa", a visão de IA já responde a pergunta geral.
+  - Vitrine da Black Friday: sete peças para a BW6, com preço, ficha e alternativa ([[baw-fatos-1611]], 9.6).
+- **Briefings:** BW1 a BW6 escritos em 16/11; a BW5 é a pauta mais fraca (sem peça em mãos).
 - **Decisão:** "é boa" e "vale a pena" num artigo só (BW5); nenhum "BAW ou X"; tamanhos, moletom, lojas e collabs ficam no estoque.
 
 ---

@@ -2,10 +2,11 @@
 
 Parceira nova (16/11/2026), página `/cupons/baw` (#1048). Dossiê: [[BAW-Clothing]]. Este arquivo junta o que foi lido
 para o pacote inicial pedido pelo Bruno: como usar, Reclame Aqui, é confiável, primeira compra, é boa e Black Friday.
-Leituras de 16/11/2026 no navegador do app, sem login e sem finalizar compra. Os briefings são do Job 1. Sem GO de
-redação ainda: o Bruno pediu a pesquisa semente.
+Leituras de 16/11/2026 no navegador do app, sem login e sem finalizar compra. **Os seis briefings estão escritos
+(Job 1, 16/11):** a seção 9 traz a atualização feita antes deles (fontes novas, política de trocas relida, fichas de
+produto, vitrine da Black Friday e topo do Google) e as pendências que continuam.
 
-## 1. Pacote inicial (esperam briefing)
+## 1. Pacote inicial (com briefing desde 16/11)
 
 | Código | Pauta | Slug sugerido | Modelo | Busca (autocompletar de 16/11) |
 |---|---|---|---|---|
@@ -123,7 +124,8 @@ bawclothing.com.br, 11 anos no Reclame Aqui.
 - **Atendimento:** WhatsApp, de segunda a sexta, das 9h às 18h. **A central de ajuda mostra +55 (11) 93930-6981 e o
   rodapé, +55 (11) 94564-9626** (o link do rodapé abre o 93930-6981). Citar o canal, não o número, ou conferir no dia.
 - **Roupas sem gênero:** o texto da home diz que muitas peças são genderless; há linha kids.
-- **Guia de tamanhos: sem leitura** (a página de produto não abriu por script nesta sessão). O autocompletar tem "baw
+- **Guia de tamanhos: lido pelo Job 1 em 16/11 (seção 9.5): não há guia único, as medidas ficam na descrição de cada
+  peça e várias fichas estão vazias.** Texto anterior: sem leitura (a página de produto não abriu por script nesta sessão). O autocompletar tem "baw
   guia de tamanho", "tabela tamanho baw", "baw oversized tamanho" e "camiseta baw tamanho". Como a troca é só por
   crédito, acertar o tamanho pesa na BW5: o Job 1 lê o guia numa página de produto.
 
@@ -145,4 +147,135 @@ bawclothing.com.br, 11 anos no Reclame Aqui.
 - **Collabs** ("baw x hello kitty", "baw x caterpillar", "baw collab habbo", "baw collab 2026"): busca de produto, com
   estoque que não controlamos. Só se a coleção estiver à venda e o código valer nela (testar).
 - **"BAW ou <marca>":** o autocompletar não trouxe nenhuma marca ("baw ou" só completa "outlet"). Sem pauta.
-- **"baw clothing mercado livre":** tem sugestão; loja oficial no marketplace não foi conferida.
+- **"baw clothing mercado livre":** tem sugestão; existe loja oficial (handoff de 16/11; seção 9.2). O código não vale
+  lá. Entra como uma frase na BW1, na BW3 e na BW6, sem artigo próprio.
+
+## 9. Atualização do Job 1 (16/11/2026, antes dos briefings)
+
+Leituras de 16/11/2026 no navegador do app, sem login e sem carrinho. Os seis briefings (BW1 a BW6) estão em
+`02_Artigos/`; as regras do pacote ficam em [[cupom-baw-como-usar]].
+
+### 9.1 Experiência própria
+
+**Não há** (Bruno, 16/11). Os seis textos usam só fontes públicas: sem "testamos" para produto, sem impressão de
+uso, sem caimento "no corpo". O único teste nosso é o do carrinho com o código (dossiê, seção 1).
+
+### 9.2 Fontes públicas acrescentadas
+
+| Fonte | O que foi lido | Estado |
+|---|---|---|
+| NeoFeed, "EXCLUSIVO: Azzas 2154 enxuga portfólio e revende a Baw para ex-donos", Márcio Kroehn, 25/02/2025 (`neofeed.com.br/negocios/azzas-2154-enxuga-portfolio-e-revende-a-baw-para-ex-donos/`) | Título, linha fina ("está deixando o grupo dono da Arezzo e voltando para os fundadores Bruno Karra e Lucas Karra"), autor e data | O corpo da reportagem não abriu nesta leitura (só título e linha fina). O handoff de 16/11 dá a reportagem como fonte verificada da revenda; a redação abre o texto antes de citar qualquer detalhe além da linha fina |
+| FashionUnited, 26/02/2025 (seção 4) | Compra pela Arezzo&Co em junho de 2021 por R$ 105 milhões; revenda aos irmãos Karra em fevereiro de 2025 | Lida pela sessão de cupons em 16/11 |
+| Política oficial `bawclothing.com.br/trocas-e-devolucoes` | Texto inteiro, relido em 16/11 (9.3) | Verificado |
+| Perfil do Reclame Aqui | Relido em 16/11: números iguais aos da seção 3 | Verificado |
+| Loja Oficial BAW no Mercado Livre | Existência informada no handoff de 16/11. Nesta sessão, só o resultado do Google foi lido: `lista.mercadolivre.com.br/baw-clothing`, com nota de loja 4,7 | A redação abre a página da loja oficial antes de citar. **O código não vale lá:** no Mercado Livre vale o preço do anúncio |
+| Instagram oficial `@baw_official` (resumo do Google, 16/11) | Bio: "BAW Retiro Store - Rua Três Rios, 72"; post: "A última Black Friday da BAW tá ON. Até 80% OFF, camisetas regular a partir de R$49 e oversized a partir de R$79" | Só o resumo da busca; o perfil não foi aberto |
+
+### 9.3 Troca e devolução (texto da política, 16/11/2026)
+
+- "As trocas na BAW são feitas exclusivamente através de crédito em conta", depois do recebimento e da análise da peça.
+  "Não realizamos trocas manuais de peça por peça, nem mesmo em casos de troca por tamanho."
+- **Troca = crédito** "no valor pago pela peça", na conta vinculada ao CPF da compra, para uma compra nova no site.
+- **Devolução = reembolso** "sempre na mesma forma de pagamento": no Pix, na conta usada, "geralmente em até 10 dias
+  úteis após a confirmação da devolução"; no cartão, estorno na fatura, com prazo que depende da administradora (compra
+  parcelada pode ser estornada em parcelas).
+- **Prazo:** "Devolução ou Troca: até 7 dias corridos, conforme o Código de Defesa do Consumidor"; "Devolução por
+  defeito: até 90 dias corridos". A página não cita o artigo 49; quem cita é o nosso texto, se quiser, como
+  explicação do direito de arrependimento.
+- **Condições:** sem uso, com etiqueta e na embalagem original; só produto comprado no site. Peça enviada sem a
+  etiqueta volta por Sedex, com frete do cliente.
+- **Frete:** "A primeira troca ou devolução é gratuita"; nas seguintes, o frete é do cliente. Pedido pelo portal
+  (`afterclick.platform.ajsy.com.br`, com e-mail ou CPF), código de logística reversa dos Correios, análise em até
+  10 dias úteis depois do recebimento.
+- **Como escrever (BW3, BW5, BW6):** atribuir à política oficial, com a data da leitura; separar troca (crédito) de
+  devolução (dinheiro de volta). Quem errou o tamanho e não quer crédito pede a devolução, dentro dos 7 dias.
+
+### 9.4 Lojas físicas: pendente
+
+`/nossas-lojas` abriu vazia de novo em 16/11 (só o título). O Instagram oficial cita a "BAW Retiro Store", na Rua
+Três Rios, 72, e a campanha "no site, no aplicativo e na Baw Retiro Store" (resumos do Google). **Não transformar o
+endereço em recomendação** nem listar loja: a página oficial de lojas não confirma. A BW3 diz que a página de lojas
+do site estava vazia na leitura e que a compra tratada no artigo é a do site e do aplicativo.
+
+### 9.5 Fichas de produto: o que a loja publica (16/11/2026)
+
+A leitura que faltava (seção 6, "Guia de tamanhos: sem leitura"). Não existe um guia de tamanhos único: as medidas
+ficam na aba "Descrição" de cada produto, e **várias fichas estão vazias** ("Não há descrição para este produto").
+
+- **Com medidas e composição:** Camiseta Oversized BAW Subscript, Camiseta Regular Selfie Logo, Camiseta BR Regular
+  Logo (medidas, sem composição no trecho lido), Moletom Basic Label, Moletom Hoodie BAW Subscript, Calça Track BAW
+  Tag, Bermuda Jeans Regular Logo, Shorts Reverse Kids, Sandália Linus.
+- **Ficha vazia:** Camiseta Regular Goth 3.0, Camiseta BR Regular Locally Grown, Camiseta Regular Bold Logo 3.0,
+  Camiseta BR Kids (Classic Colors e Dices), Tênis BAW Thunder, Baseline, Audacity, Session Revival e Truck (o Grip
+  Mad também não trouxe descrição), Slide BAW, Sandal Summer Party.
+- **"Regular" não é uma medida só.** No M: Regular Selfie Logo, 70 cm de comprimento e 54 cm de tórax; BR Regular
+  Logo, 76 cm e 58 cm; Oversized BAW Subscript, 72 cm e 61 cm. As fichas avisam "medidas aproximadas, variação de
+  até 3%". Por isso nenhum texto generaliza ("a regular já é solta", "vai do PP ao 3G"): cada peça pela ficha dela.
+- **A grade muda por peça:** 4P a 4G na Regular Goth 3.0; PP a 3G (ou GGG) nas outras camisetas, moletons e calças;
+  34 a 52 na bermuda jeans; 04 a 12 (ou 02 a 18) no infantil; numeração dupla (33/34 a 43/44) nas sandálias. Em
+  todas as fichas lidas havia tamanhos esgotados: o texto manda conferir o tamanho na página, sem listar o que tem.
+- **Unidade das medidas:** a Calça Track BAW Tag traz cintura de 40 cm no M e a Bermuda Jeans, cintura de 68 cm no
+  34. As fichas não dizem se a medida é de meia cintura ou de circunferência: copiar como está, sem converter.
+- **Na página do produto também aparecem:** "5% OFF no PIX", "Ganhe até R$ X de CASHBACK" e um aviso de frete grátis
+  para quem finaliza no aplicativo. O Pix entra nos textos; o cashback, só como vantagem; o aviso do aplicativo é
+  benefício da loja e fica fora.
+
+### 9.6 Vitrine da Black Friday (16/11/2026): candidatos da BW6
+
+Página `/blackfriday/` ("A ÚLTIMA BLACK FRIDAY DA BAW"), 666 produtos no dia (contagem não vai ao texto), sem data de
+fim e sem regulamento. O Google também mostra `/black-friday` ("O menor preço do ano em peças streetwear"): frase da
+loja, só com atribuição. Camisetas e moletons foram lidos na página da campanha; calças, bermuda, infantil e calçados,
+nas categorias, com preço promocional (a redação confirma se seguem na página da campanha).
+
+| Peça | Preço lido ("de") | Com os 10% do código | Só com os 5% do Pix | Ficha |
+|---|---|---|---|---|
+| Camiseta Regular Goth 3.0 | R$ 59,00 (R$ 89,00) | R$ 53,10 | R$ 56,05 | vazia; grade 4P a 4G |
+| Camiseta BR Regular Locally Grown | R$ 89,00 na cor do teste (Preto Stoned); R$ 79,00 em outras duas cores; sem "de" | R$ 80,10 / R$ 71,10 | R$ 84,55 / R$ 75,05 | vazia |
+| Camiseta Regular Selfie Logo | R$ 89,00 (R$ 129,00); outra cor a R$ 79,00 (R$ 99,00) | R$ 80,10 | R$ 84,55 | 100% algodão, modelagem reta; M com 70 cm e 54 cm de tórax |
+| Camiseta Oversized BAW Subscript | R$ 89,00 (R$ 159,00) | R$ 80,10 | R$ 84,55 | 100% algodão, modelagem reta; M com 72 cm e 61 cm de tórax |
+| Moletom Basic Label | R$ 139,00 (R$ 249,00); outras cores a R$ 179,00 | R$ 125,10 | R$ 132,05 | 50% algodão e 50% poliéster; capuz, bolso canguru; M com 74 cm e 61 cm de tórax |
+| Moletom Hoodie BAW Subscript | R$ 179,00 (R$ 349,00); outra cor a R$ 249,00 | R$ 161,10 | R$ 170,05 | 100% algodão; mesmas medidas do Basic Label |
+| Calça Track BAW Tag | R$ 149,00 (R$ 349,00); a visão de IA do Google citava R$ 219,00 | R$ 134,10 | R$ 141,55 | moletom flanelado, 50% algodão e 50% poliéster; jogger, cós com elástico e cordão |
+| Bermuda Jeans Regular Logo | R$ 129,00 (R$ 199,00) | R$ 116,10 | R$ 122,55 | 100% algodão; modelagem reta, perto do joelho; numeração 34 a 52 |
+| Shorts Reverse Kids | R$ 39,00 (R$ 129,00) | R$ 35,10 | R$ 37,05 | 100% algodão, elástico na cintura; medidas do 04 ao 14 |
+| Camiseta BR Kids (Classic Colors, Dices e outras) | R$ 39,00, sem "de" | R$ 35,10 | R$ 37,05 | vazia; grade 04 a 12 |
+| Tênis BAW Thunder | R$ 169,00 (R$ 399,00) | R$ 152,10 | R$ 160,55 | vazia; numeração 36 a 41 |
+| Sandália Linus (BAW + Linus) | R$ 169,00 (R$ 229,00) | R$ 152,10 | R$ 160,55 | PVC microexpandido, tiras sem ajuste; tabela de pé por numeração dupla |
+
+- **Contas:** "com os 10%" é o preço lido menos 10% (o código é de 10% fixos e entrou sobre preço promocional no
+  teste); "só com o Pix" é o preço lido menos 5%. **Não há coluna com os dois juntos:** sem carrinho testado no Pix,
+  não se publica o valor somado nem um percentual único.
+- **O preço muda por cor** em quase todas as peças. O texto diz a cor ou "a partir de", e a redação relê tudo na
+  semana do texto.
+- **Outros calçados (preço lido / "de"):** Grip Mad, R$ 239,00 / R$ 309,00 (outra cor, R$ 369,00 / R$ 499,00);
+  Baseline, R$ 259,00 / R$ 399,00; Audacity, R$ 279,00 / R$ 399,00; Session Revival, R$ 369,00 / R$ 599,00; Truck,
+  R$ 389,00 / R$ 749,00; Slide BAW, R$ 239,00 / R$ 299,00; Sandal Summer Party, R$ 119,00 / R$ 159,00.
+
+### 9.7 Topo do Google em português (16/11/2026, navegador do app)
+
+- **"cupom baw clothing":** quatro anúncios de sites de cupom e de influenciadoras, todos com 10%; a visão de IA
+  lista códigos de terceiros e cupons da própria loja; depois Cuponomia, Méliuz e Cuponation. Ninguém mostra o
+  carrinho nem a conta. "As pessoas também perguntam": desconto da primeira compra, "A Baw Clothing é confiável?".
+- **"cupom baw primeira compra":** a visão de IA responde com cupons da própria loja e de agregadores; mesmos
+  anúncios. Nenhum resultado diz que um código de 10% vale também na segunda compra.
+- **"baw black friday":** as duas páginas da loja, o Instagram oficial e posts de influenciadoras. A visão de IA
+  diz que a marca divulga "a última Black Friday de sua história" e cita códigos de influenciadoras. Não há guia de
+  terceiros com conta de carrinho.
+- **"baw clothing é confiável":** a visão de IA diz que a marca "atualmente pertence ao Grupo Arezzo", o que a
+  imprensa de 2025 desmente (seção 4). Depois: Reclame Aqui, o site, um vídeo de 2022, Ebit e reclamações avulsas.
+  "As pessoas também perguntam": "O que aconteceu com a Baw Clothing?", "A marca Baw Clothing é de quem?", "Onde
+  fica a Baw Clothing?", "O tênis BAW é bom?".
+- **"baw clothing é boa":** a visão de IA já responde a pergunta geral (estilo, tecido, preço alto), apoiada em
+  vídeos de 2022 e 2024. É a pauta mais fraca para quem não tem peça em mãos; o que sobra para a BW5 é a leitura das
+  fichas (9.5) e a regra da troca por crédito.
+
+### 9.8 Pendências que continuam
+
+1. Lojas físicas (9.4).
+2. O que quer dizer "a última Black Friday da BAW" e as datas da campanha: a loja não publica; a pergunta ao Bruno
+   (seção 7, item 2) segue aberta. Citar como nome, entre aspas.
+3. Valor mínimo e limite de usos do código (seção 7, item 3): sem leitura. Não escrever "sem valor mínimo".
+4. BAWPOINTS com o código, e o Pix somado ao código num carrinho: sem teste. O Pix soma (Bruno, 16/11), mas o valor
+   final dos dois juntos só sai de carrinho testado.
+5. "baw é do leo picon": sem fonte. Responder só com os fundadores documentados, sem afirmar nem negar outro nome.
+6. Corpo da reportagem do NeoFeed e página da loja oficial no Mercado Livre: a redação abre as duas (9.2).
