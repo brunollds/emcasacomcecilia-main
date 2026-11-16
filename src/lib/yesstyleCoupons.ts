@@ -53,11 +53,15 @@ export function getPrimaryRewardCode(): YesStyleRewardOffer {
   return reward;
 }
 
-// Helper: obtém cupons promocionais ativos com fonte comprovada
+const isWorldwide = (offer: YesStyleOfferBase) => offer.regions.includes('GLOBAL');
+
+// Helper: obtém cupons promocionais ativos com fonte comprovada. O cupom que vale em todo país vem antes do
+// que só vale em alguns: é ele que abre a lista e que o passo a passo cita de exemplo. No resto, a ordem do JSON.
 export function getActivePromoCoupons(): YesStylePromoOffer[] {
-  return YESSTYLE_COUPONS_FACTUAL.filter(
+  const active = YESSTYLE_COUPONS_FACTUAL.filter(
     (item): item is YesStylePromoOffer => item.type === 'coupon' && item.status === 'active'
   );
+  return [...active.filter(isWorldwide), ...active.filter((offer) => !isWorldwide(offer))];
 }
 
 // Helper: obtém a maior data de verificação entre o Reward Code principal e os cupons promocionais ativos
