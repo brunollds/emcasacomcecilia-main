@@ -146,3 +146,7 @@ Folha de aprovação mostrada no chat; upload ao CDN autorizado no mesmo dia. Ca
 
 - Capa `/images/reviews/baw/baw-clothing-e-confiavel-capa.webp`: terceira foto da Camiseta Regular Selfie Logo off white (produto 153490), a pergunta "BAW Clothing é confiável?" e o código.
 - Corpo, "Troca vira crédito": `baw-clothing-e-confiavel-camiseta-selfie-logo.webp`, segunda foto da mesma página. Os prints do rodapé e da política não entraram: o texto cita a razão social, o CNPJ e a regra.
+
+## Revisão externa (Farol, 16/11/2026)
+
+Parecer colado pelo Bruno depois do merge do #1061 e aplicado no mesmo dia: a resposta rápida e o veredito passam a citar "produto não recebido" como a queixa que lidera o histórico; a cronologia ficou mais curta, com link para o Mercado & Consumo e para o NeoFeed (endereços abertos e conferidos); percentuais com a base das reclamações avaliadas; links para as políticas e a central de ajuda.
