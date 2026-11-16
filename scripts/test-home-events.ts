@@ -219,6 +219,17 @@ assert.equal(sheinEvent.cards[0].codeLink, undefined, 'sem código, sem "Ver o c
 const sheinComCodigo = resolveActiveHomeEvent(sheinConfig, sheinReviews, at('2026-11-07T10:00:00-03:00'), [store('shein')]);
 assert.deepEqual(sheinComCodigo?.cards[0].codeLink, { href: '/#loja-shein', label: 'Ver o código da SHEIN' });
 
+// Loja com código e fora da vitrine da home (hideFromPortugueseHome): o cartão traz o artigo e a loja, sem o
+// "Ver o código", que levaria a uma aba que a home não tem. As outras lojas da data seguem com o delas.
+const hiddenStores = stores.map((item): Coupon => (item.slug === 'magalu' ? { ...item, hideFromPortugueseHome: true } : item));
+const hiddenEvent = resolveActiveHomeEvent(config, reviews, at('2026-11-07T10:00:00-03:00'), hiddenStores);
+assert.ok(hiddenEvent);
+const [damieWithHidden, hiddenMagalu] = hiddenEvent.cards;
+assert.equal(hiddenMagalu.href, '/reviews/bf-magalu');
+assert.equal(hiddenMagalu.store, 'Magalu', 'a loja escondida segue no cartão');
+assert.equal(hiddenMagalu.codeLink, undefined, 'loja fora da vitrine: sem "Ver o código"');
+assert.deepEqual(damieWithHidden.codeLink, damie.codeLink, 'as outras lojas seguem com o botão');
+
 // A faixa renderizada: o HTML que a home serve durante a campanha.
 const bandHtml = renderToStaticMarkup(createElement(HomeEvent, { event: active }));
 const bandText = bandHtml.replace(/<[^>]+>/g, ' ');

@@ -228,7 +228,8 @@ function toCards(event: HomeEventEntry, reviews: readonly StoreReview[], stores:
     // O artigo de várias lojas leva o nome delas no cartão e nenhum botão de código: o de uma delas seria eleger uma
     // principal.
     const store = isMultiStoreReview(review) ? undefined : getReviewStores(review, stores)[0];
-    const code = store ? getStoreCode(store) : undefined;
+    // A loja fora da vitrine (hideFromPortugueseHome) não tem a aba a que o botão leva: o cartão fica só com o artigo.
+    const code = store && !store.hideFromPortugueseHome ? getStoreCode(store) : undefined;
     return {
       slug,
       href: `/reviews/${slug}`,
