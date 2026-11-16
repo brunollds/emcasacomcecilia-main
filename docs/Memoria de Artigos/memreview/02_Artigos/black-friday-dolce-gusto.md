@@ -148,3 +148,17 @@ Bruno em 08/10/2026. O artigo alimenta a faixa de data comercial da home D2 (abe
 - **Alt (PT):** Máquina Dolce Gusto NEO branca sobre a bancada, com a bandeja transparente removida nas mãos de Cecília.
 - **Origem:** foto própria da NEO branca na bancada, com a bandeja transparente nas mãos da Cecília (é a NEO, não a Genio), sem preço na arte. Sem geração por IA.
 - **Lote 16 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/dolcegusto/black-friday-dolce-gusto-capa-faixa.webp`) fica no CDN, sem uso como capa.
+
+## Curadoria de Black Friday, rodada 6 (16/11/2026)
+
+O guia ganhou três capítulos de escolha: primeira máquina, custo por bebida e caixa avulsa, combo, DGusta ou assinatura. URL, capa e CTA não mudaram.
+
+- **Fonte:** site oficial, sem login, em 16/11 (páginas de máquinas e de sabores, carrinho e `sobre/regulamentos2026`).
+- **Máquinas no site:** Mini Me 2.0 R$ 369,90; Genio S Basic R$ 409,90; Genio S Plus R$ 499,90; Genio S Touch R$ 799,90 (em outubro, R$ 689,90); NEO a partir de R$ 799.
+- **CECI no carrinho:** Mini Me 2.0 Preto Onyx 110v, com as três caixas grátis da promoção: R$ 369,90 → R$ 332,91 ("Você ganhou 10% OFF!"). Basic, Plus e Touch com o cupom são conta (preço menos 10%).
+- **Caixas na oferta do dia:** Café au Lait Desnatado, Chai Tea Latte e Vanilla Latte Macchiato R$ 15,90; Espresso, Café au Lait e Pingado R$ 17,90; Mochaccino Canela, Cappuccino e Chococino R$ 19,90; Latte Macchiato R$ 22,90. A página mostra `x10` ou `x5 + x5` em cada caixa.
+- **Combos:** Espresso e Mochaccino Canela Leve 8 Pague 6 R$ 155,40 (80 cápsulas); Cappuccino Leve 5 com 30% OFF R$ 89,90.
+- **Regulamento (ativas em 16/11):** caixas regulares a partir de R$ 15,90 + frete grátis acima de R$ 100; DGusta a partir de R$ 1,59 + frete grátis (sem mínimo no texto; frete não vale para pedido com máquina); cafés NEO até 25% OFF + frete grátis acima de R$ 100; acessórios até 25% OFF, não cumulativa com cupons; máquina Original com 30 cápsulas. A home anuncia copo térmico acima de R$ 300, fora de pedidos com máquina.
+- **Correção:** o texto separa o mínimo de R$ 100 do CECI da regra de frete de cada oferta; não diz que DGusta abaixo de R$ 100 perde o frete.
+- **Não conferido:** CECI em caixas avulsas, no DGusta e na NEO nesta leitura (o teste anterior é o do Combo Queridinhos). O cupom de primeira compra da loja aparece no regulamento e ficou fora do artigo.
+- **Fatos de máquina:** dos nossos guias (`dolce-gusto-maquinas-qual-escolher`, `dolce-gusto-genio-s-touch-vale-a-pena`).

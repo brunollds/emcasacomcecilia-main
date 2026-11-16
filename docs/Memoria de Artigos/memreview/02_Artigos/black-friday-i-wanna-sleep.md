@@ -163,3 +163,18 @@ mira "black friday colchão" pela I Wanna Sleep e responde a busca do cupom com 
 - **Alt (PT):** Cobertor Igloo cinza sobre uma cama com travesseiros, em composição promocional oficial azul e laranja da I Wanna Sleep.
 - **Origem:** foto oficial do cobertor Igloo na cama; a foto da Cecília com a sacola foi descartada na revisão. Sem geração por IA.
 - **Lote 16 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/iwannasleep/black-friday-i-wanna-sleep-capa-faixa.webp`) fica no CDN, sem uso como capa.
+
+## Curadoria de Black Friday, rodada 7 (16/11/2026)
+
+O guia ganhou três capítulos de escolha (pillow top e kits, travesseiro por posição de dormir, cobertor pelo clima) e a janela do CECIEMCASA15. As tabelas de outubro ficaram como régua. URL, capa e CTA não mudaram.
+
+- **Fonte:** catálogo público da loja e sacola, sem login, em 16/11.
+- **Pillow Top Magnum (página anuncia 2 travesseiros Magnum de brinde):** solteiro R$ 1.233; casal R$ 1.779; queen R$ 2.052; super king R$ 2.350, esgotado.
+- **Kits:** Pillow Top casal + 2 Snow regular R$ 2.326 (avulsos: 1.779 + kit de 2 Snow 636 = 2.415); Pillow Top + Bao Bao + Igloo casal R$ 4.157 (avulsos: 1.779 + 1.471 + 931 = 4.181).
+- **Travesseiros:** Snow regular R$ 335 e plus R$ 376; Original Látex P R$ 241, M R$ 255, G esgotado; Cervical Coluna Relax R$ 207; Neck Plus Gel R$ 366; Neck Plus Charcoal R$ 353; Airgelly 2.0 R$ 455; Skin R$ 346.
+- **Cobertores:** Igloo casal/queen R$ 931 e king R$ 1.101 (Bubble Gel de brinde na página); Huggy R$ 565 e R$ 609 (meias); Cozy solteiro R$ 497, casal/queen R$ 507, king R$ 548; Puffer Ultralight esgotado.
+- **Cupom na sacola:** CECIEMCASA aplicou 10% no Snow regular (335 → 301,50), no Pillow Top casal (1.779 → 1.601,10) e no kit com 2 Snow (2.326 → 2.093,40). O CECIEMCASA15 não entrou (fora da janela de 26 e 27/11). Os outros valores com cupom são conta.
+- **Pix:** não aparece na sacola; 14,5% e 19,25% são a conta de 5% sobre o valor com o cupom.
+- **Não conferido:** se os brindes entram no carrinho e se os kits levam os brindes das peças avulsas; frete por CEP.
+- **Fora, por divergir dos nossos guias:** "100% lavável" do Airgelly (o guia diz lavável à mão) e o bolso com zíper do Puffer (o guia não confirma).
+- **Reler:** em 26/11, com a janela do CECIEMCASA15 aberta.

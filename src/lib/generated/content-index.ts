@@ -54369,8 +54369,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 330,
     "slug": "black-friday-dolce-gusto",
-    "title": "Black Friday Dolce Gusto 2026 já começou: máquinas com 30 cápsulas, ofertas do dia, assinatura e o cupom CECI",
-    "seoTitle": "Black Friday Dolce Gusto 2026 já começou: máquinas e cápsulas",
+    "title": "Black Friday Dolce Gusto 2026: qual máquina comprar, a conta das cápsulas e o cupom CECI",
+    "seoTitle": "Black Friday Dolce Gusto 2026: máquinas, cápsulas e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -54381,11 +54381,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da NESCAFÉ Dolce Gusto já começou, com Mini Me 2.0 e Genio S com 30 cápsulas e ofertas novas todo dia. Veja os preços para comparar e como o cupom CECI entra.",
-    "metaDescription": "Black Friday Dolce Gusto 2026: o cupom CECI dá 10% OFF a partir de R$ 100. Mini Me e Genio S com 30 cápsulas, ofertas do dia e assinatura com desconto.",
+    "description": "A Black Friday da NESCAFÉ Dolce Gusto tem Mini Me 2.0 e Genio S com 30 cápsulas e ofertas do dia. Veja qual máquina escolher, o custo por bebida e como o cupom CECI entra.",
+    "metaDescription": "Black Friday Dolce Gusto 2026: o cupom CECI dá 10% OFF a partir de R$ 100 e soma com a Mini Me em oferta. Veja qual máquina e quais cápsulas comprar.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/dolcegusto/black-friday-dolce-gusto-capa-v2.webp",
@@ -54393,22 +54393,22 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "A campanha já está no ar, com promoções novas todos os dias",
-      "Mini Me 2.0 e Genio S abaixo do preço de outubro, com 30 cápsulas e 10 vezes sem juros",
-      "O cupom CECI dá 10% OFF a partir de R$ 100",
+      "O cupom CECI entrou por cima do preço de Black Friday da Mini Me 2.0, com as 30 cápsulas",
+      "Mini Me 2.0, Genio S Basic e Genio S Plus seguem abaixo do preço de outubro",
+      "Caixas na oferta do dia a partir de R$ 15,90",
       "Máquinas de Outlet têm a mesma garantia das novas"
     ],
     "cons": [
-      "Se o CECI soma com a promoção do dia depende da campanha",
-      "As promoções acabam sem aviso, mesmo com o item no carrinho",
-      "A oferta do dia não soma com combo de máquina, combo de bebidas nem resgate de pontos",
-      "Cápsulas NEO e Original não servem uma na máquina da outra"
+      "A Genio S Touch está mais cara que em outubro",
+      "O combo fechado nem sempre ganha das caixas avulsas na oferta do dia",
+      "O CECI pede pedido a partir de R$ 100, e o frete grátis não vale para pedido com máquina",
+      "As promoções acabam sem aviso, mesmo com o item no carrinho"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida: Black Friday Dolce Gusto 2026",
         "paragraphs": [
-          "A Black Friday da NESCAFÉ Dolce Gusto já começou, com promoções novas todos os dias, Mini Me 2.0 e Genio S com 30 cápsulas e assinatura com desconto no primeiro pedido. O grande dia é 27 de novembro. O cupom CECI dá 10% OFF e, no nosso teste, somou com um combo da Black Friday."
+          "A Black Friday da NESCAFÉ Dolce Gusto segue no ar, com Mini Me 2.0 e Genio S com 30 cápsulas e ofertas novas todo dia. O cupom CECI dá 10% OFF em pedidos a partir de 100 reais e, no nosso teste, entrou no preço de Black Friday da Mini Me. Nas cápsulas, compare o custo por bebida."
         ]
       },
       {
@@ -54449,7 +54449,8 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Nas bebidas, a campanha funciona por oferta do dia: numa delas, a caixa de Mochaccino caía de R$ 25,90 para R$ 15,90. Fora dela, os banners traziam 25% OFF nos cafés Lungos NEO, até 25% OFF em acessórios, frete grátis acima de R$ 100 e uma Mini Me vermelha de brinde na compra de 80 caixas de bebidas.",
           "A assinatura entrou na campanha com desconto em todas as bebidas no primeiro pedido, 35% OFF num banner e 30% OFF noutro, com \"benefícios garantidos até janeiro\", e frete grátis em todos os pedidos. A conta vale para quem toma café todo dia; o desconto maior é só na primeira entrega.",
-          "Pelo regulamento do site, as ofertas diárias valem só no site oficial, enquanto durarem os estoques, e não são cumulativas com combo com máquinas, combo de bebidas e resgate de pontos. Essa é a regra da oferta; a do cupom está no capítulo do CECI."
+          "Pelo regulamento do site, as ofertas diárias valem só no site oficial, enquanto durarem os estoques, e não são cumulativas com combo com máquinas, combo de bebidas e resgate de pontos. Essa é a regra da oferta; a do cupom está no capítulo do CECI.",
+          "Na leitura de 16 de novembro, os três preços da tabela seguiam no site. A Genio S Touch estava por R$ 799,90, acima dos R$ 689,90 de outubro."
         ],
         "images": [
           {
@@ -54466,6 +54467,148 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 2.5
           }
+        ]
+      },
+      {
+        "heading": "Primeira máquina: qual escolher e quanto sai com o CECI",
+        "paragraphs": [
+          "Comece pelas bebidas. As máquinas do sistema Original (Mini Me e Genio S) fazem cafés, lattes, chocolates e chás. A NEO faz só cafés pretos, em cápsula compostável. As cápsulas de um sistema não servem na máquina do outro.",
+          "Em 16 de novembro, colocamos uma Mini Me 2.0 no carrinho, com as 30 cápsulas da promoção, e aplicamos o CECI: o total caiu de R$ 369,90 para R$ 332,91."
+        ],
+        "comparisonTable": {
+          "caption": "Site oficial na leitura de novembro. O CECI foi simulado na Mini Me 2.0; nas outras, o valor é o preço da página menos 10%. Pelo regulamento, a máquina da linha Original leva 30 cápsulas",
+          "headers": [
+            "Máquina",
+            "Para quem",
+            "No site",
+            "Com o CECI",
+            "Em outubro"
+          ],
+          "rows": [
+            [
+              "Mini Me 2.0",
+              "Quer gastar menos e não precisa do XL",
+              "R$ 369,90",
+              "R$ 332,91",
+              "R$ 429,90 a R$ 449,90"
+            ],
+            [
+              "Genio S Basic",
+              "Quer a função XL pelo menor preço",
+              "R$ 409,90",
+              "R$ 368,91",
+              "R$ 479,90"
+            ],
+            [
+              "Genio S Plus",
+              "Quer XL, quatro temperaturas e Espresso Boost",
+              "R$ 499,90",
+              "R$ 449,91",
+              "R$ 589,90"
+            ],
+            [
+              "Genio S Touch",
+              "Faz questão do painel de toque",
+              "R$ 799,90",
+              "R$ 719,91",
+              "R$ 689,90"
+            ],
+            [
+              "NEO",
+              "Toma só café preto e quer reservatório de 1 litro",
+              "a partir de R$ 799",
+              "confira no carrinho",
+              "sem registro"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**Mini Me 2.0:** é a mais barata e usa as mesmas cápsulas das Genio S. É a menos funda das quatro do sistema Original, com 24 cm, e a mais alta, com 30,5 cm: meça o vão embaixo do armário.",
+          "**Genio S Basic e Plus:** as Genio S têm 11,2 cm de largura. A Basic é a entrada no XL. A Plus soma as quatro temperaturas, o Espresso Boost e a bandeja de metal, por R$ 81 a mais com o cupom.",
+          "**Genio S Touch:** hoje custa R$ 110 a mais que em outubro, e a Plus também tem XL e Espresso Boost. No nosso teste, o modo frio não refrigera a água: para bebida gelada, o gelo vai no copo. Veja em [Genio S Touch vale a pena?](/reviews/dolce-gusto-genio-s-touch-vale-a-pena).",
+          "**NEO:** é a máquina que a Cecília usa. Quem já tem uma máquina Original e quer provar os cafés NEO pode começar pelo [Adaptador NEO Start](/reviews/adaptador-neo-start-o-que-e).",
+          "A comparação completa está em [máquinas Dolce Gusto: qual escolher](/reviews/dolce-gusto-maquinas-qual-escolher) e em [Genio S Basic, Plus ou Touch](/reviews/dolce-gusto-genio-s-basic-vs-plus-vs-touch); a Mini Me, em [Mini Me 2.0 vale a pena?](/reviews/dolce-gusto-mini-me-2-0-vale-a-pena)."
+        ]
+      },
+      {
+        "heading": "Cápsulas: a conta é por bebida",
+        "paragraphs": [
+          "Duas caixas de 10 cápsulas pelo mesmo preço podem render quantidades diferentes. Cafés, o Café au Lait, o Pingado e o Mochaccino usam uma cápsula por bebida: a caixa rende 10. O Cappuccino, o Latte Macchiato, o Chococino e o Chai Tea Latte usam duas, uma de leite e uma de café, chocolate ou chá: a caixa rende 5."
+        ],
+        "comparisonTable": {
+          "caption": "Caixas de 10 cápsulas no site oficial na leitura de novembro, na oferta do dia e sem cupom. O custo por bebida é conta nossa",
+          "headers": [
+            "Bebida",
+            "Cápsulas por bebida",
+            "Caixa",
+            "Bebidas por caixa",
+            "Por bebida"
+          ],
+          "rows": [
+            [
+              "Café au Lait Desnatado",
+              "1",
+              "R$ 15,90",
+              "10",
+              "R$ 1,59"
+            ],
+            [
+              "Espresso, Café au Lait ou Pingado",
+              "1",
+              "R$ 17,90",
+              "10",
+              "R$ 1,79"
+            ],
+            [
+              "Mochaccino Canela",
+              "1",
+              "R$ 19,90",
+              "10",
+              "R$ 1,99"
+            ],
+            [
+              "Chai Tea Latte ou Vanilla Latte Macchiato",
+              "2",
+              "R$ 15,90",
+              "5",
+              "R$ 3,18"
+            ],
+            [
+              "Cappuccino ou Chococino",
+              "2",
+              "R$ 19,90",
+              "5",
+              "R$ 3,98"
+            ],
+            [
+              "Latte Macchiato",
+              "2",
+              "R$ 22,90",
+              "5",
+              "R$ 4,58"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A bebida de uma cápsula só custa a metade da de duas quando as duas caixas têm o mesmo preço e o mesmo número de cápsulas. No quadro, o Espresso sai por R$ 1,79 a xícara e o Cappuccino, por R$ 3,98, porque a caixa do Cappuccino também é mais cara.",
+          "As ofertas trocam todo dia. A conta de cada bebida, fora de promoção, está em [quanto custa a cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto), e as nossas escolhas, em [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026)."
+        ]
+      },
+      {
+        "heading": "Caixa avulsa, combo, DGusta ou assinatura",
+        "paragraphs": [
+          "A escolha depende de quantas cápsulas você vai tomar e de quanto quer variar. Compare sempre a mesma quantidade."
+        ],
+        "bullets": [
+          "**Caixas avulsas na oferta do dia:** para quem toma sempre as mesmas bebidas e quer escolher uma a uma. Na leitura, a oferta partia de R$ 15,90 a caixa, com frete grátis acima de R$ 100.",
+          "**Combo fechado:** confira contra as avulsas. O Combo Espresso Leve 8 Pague 6 custava R$ 155,40, e oito caixas de Espresso na oferta do dia somavam R$ 143,20. No Mochaccino Canela, o combo de mesmo preço ficava R$ 3,80 abaixo das oito avulsas.",
+          "**DGusta:** para quem quer misturar sabores em caixas de 50 ou 100 cápsulas. O regulamento da oferta fala em cápsulas a partir de R$ 1,59, com frete grátis próprio.",
+          "**Assinatura:** para quem toma café todo dia e quer entrega recorrente, com frete grátis em todos os pedidos. O desconto maior é o do primeiro pedido. Veja a conta em [assinatura Dolce Gusto vale a pena?](/reviews/assinatura-dolce-gusto-vale-a-pena)."
+        ],
+        "postParagraphs": [
+          "São duas regras separadas. O cupom CECI pede pedido a partir de R$ 100. O frete depende da oferta: nas caixas avulsas e nos cafés NEO, é grátis acima de R$ 100; no DGusta, o regulamento dá frete grátis na própria modalidade; pedido com máquina fica fora do frete grátis.",
+          "Um exemplo: o Combo Cappuccino Leve 5 com 30% OFF custava R$ 89,90. Sozinho, ele fica abaixo dos R$ 100 do CECI e do frete grátis das caixas. Antes de pôr mais uma caixa só para passar do mínimo, compare o total entregue dos dois carrinhos, com o frete, e leve o que você vai de fato tomar.",
+          "Para quem já vai comprar muitas caixas, existe o combo que dá uma Mini Me: as regras estão em [caixas de cápsulas + Mini Me grátis](/reviews/promocao-dolce-gusto-caixas-mini-me-gratis)."
         ]
       },
       {
@@ -54576,8 +54719,10 @@ export const reviewsData: unknown[] = [
         },
         "paragraphs": [
           "O **CECI**, cupom da parceria com a loja oficial, dá 10% OFF a partir de R$ 100.",
+          "Em 16 de novembro, o CECI entrou na Mini Me 2.0 em preço de Black Friday: de R$ 369,90 para R$ 332,91, com as 30 cápsulas da promoção no carrinho.",
           "No nosso teste com a campanha no ar, o CECI somou: o Combo Queridinhos 30% OFF, um combo especial de Black Friday a R$ 145,04, caiu para R$ 130,54. O teste cobriu esse combo, não todas as ofertas. Monte o pedido, aplique o CECI no campo do cupom e veja se os 10% aparecem no resumo antes de pagar. Se não aparecerem, confira se o pedido passa de R$ 100 e se o item está numa campanha que não soma com cupom.",
-          "Três regras do site valem para qualquer promoção: ela pode acabar sem aviso, o item no carrinho não garante o desconto se a promoção terminar, e nenhuma promoção soma com o resgate de pontos do Club. A data do último teste do CECI fica na página do cupom."
+          "Três regras do site valem para qualquer promoção: ela pode acabar sem aviso, o item no carrinho não garante o desconto se a promoção terminar, e nenhuma promoção soma com o resgate de pontos do Club. A data do último teste do CECI fica na página do cupom.",
+          "Uma exceção está no regulamento: a oferta de acessórios com até 25% OFF não soma com cupons."
         ],
         "links": [
           {
@@ -54594,7 +54739,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como não cair em desconto falso",
         "bullets": [
           "**Compare com a tabela de outubro.** O preço riscado no site é o preço cheio. Em outubro, a Genio S Basic já estava R$ 200 abaixo dele; use esse preço como referência para avaliar a oferta.",
-          "**Some o frete.** O banner da Black Friday dá frete grátis acima de R$ 100, e a assinatura, em todos os pedidos; o carrinho mostra se o seu pedido entrou.",
+          "**Some o frete.** Nas caixas avulsas e nos cafés NEO, o frete é grátis acima de R$ 100; no DGusta, o regulamento dá frete grátis na modalidade; na assinatura, em todos os pedidos. Pedido com máquina fica fora. O carrinho mostra o valor para o seu CEP.",
           "**Confira o sistema.** Cápsula NEO não serve em máquina Original sem o adaptador, e cápsula Original não serve em máquina NEO.",
           "**Escolha a voltagem com calma.** No combo da Mini Me, ela é escolhida no carrinho e não pode ser trocada depois.",
           "**Compre no site oficial.** As promoções anunciadas pela Nestlé valem em nescafe-dolcegusto.com.br.",
@@ -54606,12 +54751,14 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Dolce Gusto? A campanha já começou no site oficial, com anúncio de promoções novas todos os dias, e o grande dia é a última sexta-feira de novembro. Em 2023 e 2024, a Nestlé anunciou ofertas durante novembro inteiro.",
           "Quais máquinas estão em oferta na Black Friday da Dolce Gusto? Nos banners, a Mini Me 2.0 a R$ 369,90, a Genio S Basic a R$ 409,90 e a Genio S Plus a R$ 499,90, todas com 30 cápsulas e em 10 vezes sem juros, abaixo do preço de outubro e do anunciado na Black Friday de 2024.",
+          "Qual cafeteira Dolce Gusto comprar na Black Friday? Para gastar menos, a Mini Me 2.0, que saiu por R$ 332,91 com o CECI. Para ter a função XL, a Genio S Basic. Para XL, quatro temperaturas e Espresso Boost, a Genio S Plus. A Genio S Touch estava mais cara que em outubro.",
+          "Combo de cápsulas ou caixas avulsas na Dolce Gusto? Compare a mesma quantidade. Na nossa leitura, oito caixas de Espresso na oferta do dia saíam mais baratas que o combo Leve 8 Pague 6; no Mochaccino Canela, o combo ganhava por pouco.",
           "Vale a pena comprar cafeteira Dolce Gusto na Black Friday? Nas máquinas, vale: a Mini Me 2.0 e as Genio S ficaram abaixo dos preços de outubro e incluíam 30 cápsulas. Antes de fechar, compare o valor do seu modelo, a voltagem e o frete. Nas cápsulas, compare a oferta do dia com as referências da tabela.",
           "Tem cupom Dolce Gusto para a Black Friday? O CECI dá 10% OFF em compras a partir de R$ 100 na loja oficial. No nosso teste, ele somou com um combo da Black Friday; o resumo do carrinho mostra o desconto antes de pagar.",
-          "O cupom CECI vale na Black Friday? Vale. No nosso teste com a campanha no ar, os 10% do cupom Dolce Gusto CECI entraram sobre um combo especial de Black Friday. Nas outras ofertas, o resumo do carrinho mostra se o desconto entrou.",
+          "O cupom CECI vale na Black Friday? Vale. O cupom Dolce Gusto CECI dá 10% OFF em pedidos a partir de R$ 100. No nosso teste, entrou por cima do preço de Black Friday da Mini Me 2.0 e de um combo de cápsulas. A oferta de acessórios não soma com cupons, pelo regulamento.",
           "As cápsulas Dolce Gusto ficam mais baratas na Black Friday? Em 2024, a Nestlé anunciou caixas a partir de R$ 13,90 e DGusta a partir de R$ 1,39 a cápsula; em outubro, as promoções partiam de R$ 17,90 e R$ 1,79.",
           "Cápsula NEO serve na Mini Me ou na Genio S? Só com o Adaptador NEO Start, e apenas nos cinco cafés NEO da linha. Sem o adaptador, as cápsulas NEO não servem diretamente nessas máquinas.",
-          "A Black Friday da Dolce Gusto tem frete grátis? Tem: o banner da campanha dá frete grátis acima de R$ 100, e a assinatura, em todos os pedidos. O carrinho mostra se o seu pedido entrou.",
+          "A Black Friday da Dolce Gusto tem frete grátis? Depende da oferta. Nas caixas avulsas e nos cafés NEO, acima de R$ 100; no DGusta, o regulamento dá frete grátis na modalidade; na assinatura, em todos os pedidos. Pedido com máquina não entra. O carrinho mostra o valor.",
           "A oferta do dia da Dolce Gusto soma com outras promoções? Não com combo de máquina, combo de bebidas nem resgate de pontos, pelo regulamento do site. Se soma com o cupom CECI, o carrinho mostra antes de pagar."
         ]
       }
@@ -54627,10 +54774,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site oficial. Podemos receber comissão pelo cupom CECI.",
     "relatedArticles": [
       {
-        "slug": "promocao-dolce-gusto-caixas-mini-me-gratis"
+        "slug": "dolce-gusto-maquinas-qual-escolher"
       },
       {
-        "slug": "dolce-gusto-genio-s-basic-vs-plus-vs-touch"
+        "slug": "quanto-custa-capsula-dolce-gusto"
+      },
+      {
+        "slug": "promocao-dolce-gusto-caixas-mini-me-gratis"
       },
       {
         "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
@@ -55272,8 +55422,8 @@ export const reviewsData: unknown[] = [
     "bodyDatesReason": "campanha",
     "id": 333,
     "slug": "black-friday-i-wanna-sleep",
-    "title": "Black Friday I Wanna Sleep 2026: kits exclusivos com brinde, os preços do Pillow Top Magnum e o cupom CECIEMCASA",
-    "seoTitle": "Black Friday I Wanna Sleep 2026: pillow top, cupom e preços",
+    "title": "Black Friday I Wanna Sleep 2026: o que comprar, kits com brinde e o cupom CECIEMCASA",
+    "seoTitle": "Black Friday I Wanna Sleep 2026: o que comprar e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -55284,11 +55434,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A I Wanna Sleep já mostra kits exclusivos de Black Friday, com brindes. Veja os preços do Pillow Top Magnum para comparar, como o cupom CECIEMCASA entra e o prazo para o Natal.",
-    "metaDescription": "Black Friday I Wanna Sleep 2026: o cupom CECIEMCASA dá 10% OFF em todo o site, e a loja tem kits Black com brindes. Pillow Top Magnum e Natal.",
+    "description": "A I Wanna Sleep está com kits de Black Friday e brindes. Veja o que escolher em pillow top, travesseiro e cobertor e o total com o cupom CECIEMCASA e o Pix.",
+    "metaDescription": "Black Friday I Wanna Sleep 2026: o cupom CECIEMCASA dá 10% OFF em todo o site e soma com o Pix. Veja pillow top, travesseiros e cobertores.",
     "publishedAt": "10 de outubro de 2026",
     "publishedAtISO": "2026-10-10",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-capa-v2.webp",
@@ -55296,21 +55446,22 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "Pillow top, travesseiros e cobertores já estavam com 12% a 17% de desconto em outubro",
-      "5% de desconto no Pix, que soma com o cupom CECIEMCASA",
-      "30 dias para testar o travesseiro e o pillow top em casa",
-      "Frete grátis acima de R$ 150 em travesseiros, pillow top e cobertores"
+      "O cupom CECIEMCASA tirou 10% por cima dos preços da campanha no pillow top, no kit e no travesseiro",
+      "No Pix, a loja dá mais 5%, que somam com o cupom",
+      "O Pillow Top Magnum está abaixo do preço de outubro e com dois travesseiros de brinde",
+      "30 dias para testar o travesseiro e o pillow top em casa"
     ],
     "cons": [
       "Colchões e box não são vendidos pelo site, só nas lojas físicas",
       "No travesseiro e no pillow top, a troca do Sleeptest vira crédito na loja",
+      "O Puffer Ultralight e o Pillow Top super king estavam esgotados na leitura",
       "A loja não publica os prazos de entrega por região"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida: Black Friday I Wanna Sleep 2026",
         "paragraphs": [
-          "A I Wanna Sleep já mostra na home os Kits Exclusivos Black, com brindes e sem data de fim publicada; o grande dia é 27 de novembro. O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF em todo o site e soma com os preços já reduzidos. O que muda a decisão é o prazo para o Natal."
+          "A I Wanna Sleep está com kits de Black Friday e brindes na home. O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF em todo o site e soma com os 5% do Pix. Na quinta e na sexta da Black Friday, o código CECIEMCASA15 dá 15%. Para escolher, comece pelo que você quer resolver: colchão, travesseiro ou cobertor."
         ]
       },
       {
@@ -55322,7 +55473,168 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Pillow Top Magnum e kits: o desconto que já existia em outubro",
+        "heading": "Para melhorar o colchão: Pillow Top Magnum e kits",
+        "paragraphs": [
+          "Pelo site, a peça para a cama é o Pillow Top Magnum, que vai por cima do colchão que você já tem. Na leitura de 16 de novembro, ele estava abaixo do preço de outubro no casal e no queen, e a página anunciava dois travesseiros Magnum de brinde."
+        ],
+        "comparisonTable": {
+          "caption": "Sacola da I Wanna Sleep na leitura de novembro. Simulamos o cupom no Pillow Top casal e no kit com dois Snow; nas outras linhas, o valor é o preço da página menos 10%",
+          "headers": [
+            "Produto",
+            "Na sacola",
+            "Com o CECIEMCASA",
+            "Em outubro, na sacola"
+          ],
+          "rows": [
+            [
+              "[Pillow Top Magnum, solteiro](https://www.iwannasleep.com.br/products/pillow-top-magnum-pluma-airfiber-iws)",
+              "R$ 1.233",
+              "R$ 1.109,70",
+              "sem registro"
+            ],
+            [
+              "Pillow Top Magnum, casal",
+              "R$ 1.779",
+              "R$ 1.601,10",
+              "R$ 1.848"
+            ],
+            [
+              "Pillow Top Magnum, queen",
+              "R$ 2.052",
+              "R$ 1.846,80",
+              "R$ 2.131"
+            ],
+            [
+              "[Kit Pillow Top casal + 2 travesseiros Snow regular](https://www.iwannasleep.com.br/products/kit-pillow-top-magnum-pluma-airfiber-iws-2x-snow)",
+              "R$ 2.326",
+              "R$ 2.093,40",
+              "sem registro"
+            ],
+            [
+              "[Kit Pillow Top + Bao Bao + Igloo, casal](https://www.iwannasleep.com.br/products/kit-pillow-top-baobao-igloo)",
+              "R$ 4.157",
+              "R$ 3.741,30",
+              "R$ 4.157"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**Só o pillow top:** é a compra de quem quer mudar a sensação do colchão e já tem travesseiro. O super king estava esgotado na leitura.",
+          "**Kit com dois Snow:** para quem ia comprar o pillow top e os travesseiros. O kit casal sai por R$ 2.326; o pillow top casal mais o kit de dois Snow regular, comprados separados, somam R$ 2.415. São R$ 89 de diferença antes do cupom. A página do pillow top avulso anuncia os dois travesseiros Magnum de brinde: veja se o brinde aparece também no kit antes de decidir.",
+          "**Kit com Bao Bao e Igloo:** junta o pillow top, o jogo de cama e o cobertor. No casal, custa R$ 4.157, contra R$ 4.181 das três peças separadas. A diferença é pequena, e as três peças avulsas anunciavam brinde próprio. O kit vale para quem quer as três e prefere um pedido só.",
+          "Para saber se o pillow top resolve o seu caso, veja [Pillow Top Magnum IWS vale a pena?](/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas). Colchão e box a loja vende só nas lojas físicas, em Belo Horizonte."
+        ]
+      },
+      {
+        "heading": "Travesseiro: escolha pela posição de dormir",
+        "paragraphs": [
+          "O preço muda pouco entre as linhas. O que decide é como você dorme e se já sabe a altura que funciona."
+        ],
+        "comparisonTable": {
+          "caption": "Sacola da I Wanna Sleep na mesma leitura. O Snow regular foi simulado com o cupom; nos outros, o valor é o preço da página menos 10%",
+          "headers": [
+            "Para quem",
+            "Travesseiro",
+            "Na sacola",
+            "Com o CECIEMCASA"
+          ],
+          "rows": [
+            [
+              "Dorme de lado e não sabe a altura certa",
+              "[Snow regular (50 x 70 cm)](https://www.iwannasleep.com.br/products/travesseiro-snow)",
+              "R$ 335",
+              "R$ 301,50"
+            ],
+            [
+              "O mesmo, em travesseiro mais largo",
+              "Snow plus (50 x 90 cm)",
+              "R$ 376",
+              "R$ 338,40"
+            ],
+            [
+              "Já sabe a altura e não quer ajustar nada",
+              "[Original Látex P ou M](https://www.iwannasleep.com.br/products/travesseiro-iws-original-latex)",
+              "R$ 241 ou R$ 255",
+              "R$ 216,90 ou R$ 229,50"
+            ],
+            [
+              "Quer apoio para a cervical",
+              "[Cervical Coluna Relax](https://www.iwannasleep.com.br/products/travesseiro-cervical-coluna-relax-1)",
+              "R$ 207",
+              "R$ 186,30"
+            ],
+            [
+              "Apoio cervical e sente calor à noite",
+              "[Cervical Neck Plus Gel](https://www.iwannasleep.com.br/products/cervical-neck-plus-gel)",
+              "R$ 366",
+              "R$ 329,40"
+            ],
+            [
+              "Quer lavar o travesseiro",
+              "[Airgelly 2.0](https://www.iwannasleep.com.br/products/travesseiro-airgelly)",
+              "R$ 455",
+              "R$ 409,50"
+            ],
+            [
+              "Acorda com marcas de sono no rosto",
+              "[Skin](https://www.iwannasleep.com.br/products/travesseiro-iws-skin)",
+              "R$ 346",
+              "R$ 311,40"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**Snow:** chega alto, e você tira o enchimento até achar o ponto. É a escolha segura para quem nunca acertou a altura.",
+          "**Original Látex:** vem em alturas fixas. O G estava esgotado na leitura.",
+          "**Cervical:** o Coluna Relax tem o formato côncavo e é o mais barato da lista. O Neck Plus Gel soma partículas de gel; o Neck Plus Charcoal, com carvão ativado na espuma, estava por R$ 353. Com dor persistente, procure um profissional de saúde.",
+          "**Airgelly 2.0 e Skin:** o Airgelly é lavável à mão. O Skin tem a capa que reduz o atrito no rosto.",
+          "As linhas, as alturas e a regulagem do Snow estão em [qual travesseiro escolher](/reviews/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep)."
+        ]
+      },
+      {
+        "heading": "Cobertor: escolha pelo clima do quarto",
+        "paragraphs": [
+          "Aqui a pergunta é quanto frio faz no quarto e quem divide a cama com você."
+        ],
+        "comparisonTable": {
+          "caption": "Sacola da I Wanna Sleep na mesma leitura, tamanho casal/queen. Com o cupom, o valor é o preço da página menos 10%",
+          "headers": [
+            "Para quem",
+            "Cobertor",
+            "Na sacola",
+            "Com o CECIEMCASA"
+          ],
+          "rows": [
+            [
+              "Casal em que um sente calor e o outro, frio; quarto com ar-condicionado",
+              "[Igloo](https://www.iwannasleep.com.br/products/cobertor-iws-igloo)",
+              "R$ 931",
+              "R$ 837,90"
+            ],
+            [
+              "Frio forte e toque felpudo",
+              "[Huggy](https://www.iwannasleep.com.br/products/cobertor-iws-huggy)",
+              "R$ 565",
+              "R$ 508,50"
+            ],
+            [
+              "Toque fofo, para noites frias",
+              "[Cozy](https://www.iwannasleep.com.br/products/cobertor-cozy-iws)",
+              "R$ 507",
+              "R$ 456,30"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**Igloo:** tem um lado de toque frio e um lado de aconchego. É o cobertor que a Cecília mostrou em vídeo. A página anunciava um travesseiro Bubble Gel de brinde. No king/super king, custa R$ 1.101.",
+          "**Huggy:** fleece com sherpa sintética. A página anunciava meias de brinde. No king/super king, R$ 609.",
+          "**Cozy:** a superfície tem os relevos que a marca chama de 3D Dots. Vem também em solteiro, por R$ 497, e em king/super king, por R$ 548.",
+          "**Puffer Ultralight:** o mais leve da linha estava esgotado nos dois tamanhos.",
+          "Os brindes são os que a página de cada produto anuncia: confira se entram no carrinho. A comparação das quatro linhas está em [qual cobertor escolher](/reviews/qual-cobertor-escolher-guia-linhas-i-wanna-sleep), e a ficha do Igloo, em [Cobertor IWS Igloo](/reviews/i-wanna-sleep-cobertor-igloo-ficha-tecnica)."
+        ]
+      },
+      {
+        "heading": "Preços de outubro do Pillow Top Magnum, para comparar",
         "paragraphs": [
           "O Pillow Top Magnum, que vai por cima do colchão, tinha cerca de 14% de desconto sobre o preço riscado em todos os tamanhos em outubro, e a home já mostra 17% no solteiro. Os kits com ele saem com desconto maior, de 18% a 22%."
         ],
@@ -55383,7 +55695,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Travesseiros e cobertores: preços de outubro",
+        "heading": "Preços de outubro de travesseiros e cobertores",
         "paragraphs": [
           "Nos travesseiros e cobertores, o selo de desconto também já estava lá em outubro, entre 12% e 17%, e o Snow regular está em 20% na home."
         ],
@@ -55499,8 +55811,9 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Pix:** a página de cada produto dá 5% de desconto, só à vista.",
           "**Cartão:** parcelado sem juros; o número de parcelas aparece na página do produto. A aprovação do cartão leva até 24 horas, e a do boleto, até 72 horas.",
-          "**Cupom:** o CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento, e soma com os preços da Black Friday.",
-          "**Pix com o cupom:** os dois somam. No Pillow Top Magnum casal, a R$ 1.848 em outubro, o CECIEMCASA tira R$ 184,80, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ele sai por R$ 1.580,04. O resumo do checkout mostra o valor exato antes de pagar."
+          "**Cupom:** o CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento. Na leitura de novembro, ele entrou por cima dos preços da campanha no Pillow Top Magnum, no kit com dois Snow e no travesseiro Snow.",
+          "**CECIEMCASA15:** nos dias 26 e 27 de novembro, a parceria tem um código de 15%. Fora desses dois dias, o checkout não aceita: testamos antes da data, e ele não entrou. Quando a janela abrir, confira a linha do desconto no carrinho.",
+          "**Pix com o cupom:** os dois somam, um sobre o outro. Com o CECIEMCASA, de 10%, a redução total fica em 14,5%. Com o CECIEMCASA15, de 15%, em 19,25%. No Pillow Top Magnum casal, de R$ 1.779, o cupom de 10% leva a R$ 1.601,10, e a conta com o Pix dá perto de R$ 1.521. O resumo do checkout mostra o valor exato antes de pagar."
         ],
         "links": [
           {
@@ -55527,13 +55840,17 @@ export const reviewsData: unknown[] = [
             "label": "I Wanna Sleep é confiável? O que observar antes de comprar",
             "href": "/reviews/i-wanna-sleep-e-confiavel"
           }
+        ],
+        "paragraphs": [
+          "São duas coisas diferentes. O Sleeptest é uma política da marca e devolve crédito na loja. O arrependimento é direito de quem compra pela internet e devolve o dinheiro."
         ]
       },
       {
         "heading": "Entrega e prazo para o Natal",
         "paragraphs": [
           "A I Wanna Sleep não publica prazos por região: o carrinho mostra o prazo depois do CEP. Em outubro, o Pillow Top Magnum casal teve frete grátis com o CEP do centro de 12 capitais. A loja calcula prazo e frete pelo CEP, então a condição pode mudar para outro endereço ou outro pedido.",
-          "A tabela traz nossa estimativa, com um dia útil de folga, de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira. Ela não é um calendário de entrega garantida."
+          "A tabela traz nossa estimativa, com um dia útil de folga, de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira. Ela não é um calendário de entrega garantida.",
+          "O frete grátis acima de R$ 150 cobre as escolhas deste guia mesmo depois dos descontos: o item mais barato dos quadros, o Cervical Coluna Relax, sai por R$ 186,30 com o cupom. Confira no carrinho se a regra vale para o seu CEP."
         ],
         "comparisonTable": {
           "caption": "Prazos em outubro com um CEP central por capital e o Pillow Top Magnum casal. Datas estimadas por nós, com um dia útil de folga; confira com o seu CEP e considere a aprovação do pagamento.",
@@ -55590,13 +55907,15 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da I Wanna Sleep? A home já traz os Kits Exclusivos Black, com brindes, sem data de fim publicada. O grande dia é a última sexta-feira de novembro, dia 27, e a Cyber Monday, a segunda seguinte. Compare os kits com as tabelas deste guia.",
           "Dá para comprar colchão da I Wanna Sleep pelo site? Não. Os colchões e a base box aparecem no site, mas são vendidos só nas lojas físicas, em Belo Horizonte, com as consultoras do sono. Pelo site, a peça para a cama é o Pillow Top Magnum.",
-          "O cupom CECIEMCASA vale na Black Friday? Vale. O cupom I Wanna Sleep CECIEMCASA dá 10% OFF em todo o site e soma com os preços da Black Friday. Nos kits da campanha, o carrinho mostra se o cupom entrou antes do pagamento.",
-          "O cupom CECIEMCASA soma com o desconto do Pix? Soma. O CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento, e no Pix entram também os 5% da loja: pela nossa conta, o Pillow Top Magnum casal, de R$ 1.848, sai por R$ 1.580,04.",
+          "O cupom CECIEMCASA vale na Black Friday? Vale. O cupom I Wanna Sleep CECIEMCASA dá 10% OFF em todo o site e entrou por cima dos preços da campanha nos carrinhos que testamos. Na quinta e na sexta da Black Friday, o código CECIEMCASA15 dá 15%.",
+          "O cupom CECIEMCASA soma com o desconto do Pix? Soma. Os 5% do Pix entram sobre o valor já com o cupom: a redução total fica em 14,5% com o CECIEMCASA e em 19,25% com o CECIEMCASA15. Confira o valor no resumo do checkout.",
+          "Qual travesseiro da I Wanna Sleep comprar na Black Friday? Quem dorme de lado e não sabe a altura certa fica com o Snow, que é ajustável. Quem já sabe a altura pode ir no Original Látex. Para apoio cervical, o Coluna Relax é o mais barato da linha.",
+          "Kit ou peças avulsas na I Wanna Sleep? No casal, o kit do pillow top com dois Snow saiu R$ 89 abaixo das peças separadas, antes do cupom. No kit com Bao Bao e Igloo, a diferença foi de R$ 24. Veja se os brindes das peças avulsas aparecem também no kit.",
           "O que é o Sleeptest da I Wanna Sleep? É o teste em casa: 30 dias para o travesseiro e o pillow top e 100 dias para o colchão, com pelo menos 15 dias de uso antes de pedir a troca. No travesseiro e no pillow top, a troca vira crédito na loja.",
           "A I Wanna Sleep tem frete grátis? Tem, acima de R$ 150, em travesseiros, pillow top, cobertores e no resto da linha leve. Em outubro, o Pillow Top Magnum casal teve frete grátis para o centro de 12 capitais.",
           "Tem cupom de primeira compra na I Wanna Sleep? Use o CECIEMCASA, que dá 10% OFF em todo o site, com todas as formas de pagamento.",
           "A I Wanna Sleep tem loja física? Tem sete lojas em Belo Horizonte, entre elas as do BH Shopping, do Del Rey e do Ponteio. É nelas que se compram colchões e box. Compras feitas no site não são trocadas nas lojas.",
-          "O Pillow Top Magnum fica mais barato na Black Friday? Em outubro, ele já tinha cerca de 14% de desconto, a R$ 1.848 no casal, antes do cupom e do Pix. Compare o preço da mesma versão com esse valor e confira frete e pagamento no total. Brindes e kits mudam o pacote, então o selo sozinho não mostra economia.",
+          "O Pillow Top Magnum fica mais barato na Black Friday? Na leitura de novembro, o casal estava por R$ 1.779, abaixo dos R$ 1.848 de outubro, com dois travesseiros Magnum de brinde anunciados na página. Com o CECIEMCASA, saiu por R$ 1.601,10. Confira o brinde e o frete no carrinho.",
           "Até quando comprar para chegar antes do Natal? A tabela traz uma estimativa com prazos de outubro, não uma data limite atual. Consulte o prazo do seu CEP e do produto, e confirme quando a contagem começa após a aprovação do pagamento."
         ]
       }
@@ -55612,13 +55931,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom CECIEMCASA.",
     "relatedArticles": [
       {
-        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
-      },
-      {
         "slug": "pillow-top-magnum-iws-colchao-dor-nas-costas"
       },
       {
         "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep"
+      },
+      {
+        "slug": "qual-cobertor-escolher-guia-linhas-i-wanna-sleep"
+      },
+      {
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
       }
     ]
   },
