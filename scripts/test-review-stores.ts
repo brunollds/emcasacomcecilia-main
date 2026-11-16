@@ -107,7 +107,22 @@ assert.equal(getReviewStoreLabel(multi, stores), '4 lojas parceiras');
 assert.equal(getReviewStoreLabel(review(0, 'tres', FOUR.slice(0, 3), '2026-01-01'), stores), '3 lojas parceiras');
 assert.equal(getReviewStoreLabel(pausedOnly, stores), 'Black Skull', 'a lista com uma ativa mostra a ativa');
 assert.equal(getReviewStoreLabel(fixtures[11], stores), undefined, 'a lista sem nenhuma ativa fica sem nome');
-assert.equal(getReviewStoreLabel(multi, stores, 'en'), undefined, 'fora do PT, sem nome');
+// Fora do PT, as duas frases saem no idioma do cartão; a marca não se traduz.
+assert.equal(getReviewStoreLabel(pair, stores, 'en'), 'Black Skull and Max Titanium');
+assert.equal(getReviewStoreLabel(multi, stores, 'en'), '4 partner stores');
+assert.equal(getReviewStoreLabel(review(0, 'tres', FOUR.slice(0, 3), '2026-01-01'), stores, 'en'), '3 partner stores');
+assert.equal(getReviewStoreLabel(pair, stores, 'ja'), 'Black Skull と Max Titanium');
+assert.equal(getReviewStoreLabel(multi, stores, 'ja'), '提携ストア 4 店');
+assert.equal(getReviewStoreLabel(pair, stores, 'ko'), 'Black Skull, Max Titanium');
+assert.equal(getReviewStoreLabel(multi, stores, 'ko'), '파트너 스토어 4곳');
+assert.equal(getReviewStoreLabel(pair, stores, 'zh-hant'), 'Black Skull 和 Max Titanium');
+assert.equal(getReviewStoreLabel(multi, stores, 'de'), '4 Partner-Shops');
+assert.equal(getReviewStoreLabel(pausedOnly, stores, 'en'), 'Black Skull', 'fora do PT, a lista com uma ativa mostra a ativa');
+assert.equal(getReviewStoreLabel(fixtures[11], stores, 'en'), undefined, 'fora do PT, a lista sem nenhuma ativa fica sem nome');
+for (const unknown of ['xx', 'pt-BR', 'constructor']) {
+  assert.equal(getReviewStoreLabel(multi, stores, unknown), undefined, `idioma fora da tabela (${unknown}): sem nome`);
+  assert.equal(getReviewStoreLabel(pair, stores, unknown), undefined, `idioma fora da tabela (${unknown}): sem nome`);
+}
 assert.equal(getReviewStoreLabel({ affiliate: 'damie' }, stores, 'en'), 'DAMIE', 'uma loja fora do PT segue com o nome');
 
 // Home: as abas de todas as lojas da lista levam o artigo, e a ordem das bolinhas conta o artigo em todas.
@@ -160,7 +175,10 @@ assert.deepEqual(
   relatedCards.map(({ store: label }) => label),
   [multi, fixtures[3]].map((item) => getReviewStoreLabel(item, getActiveCoupons()))
 );
-assert.deepEqual(getRelatedShelfCards([multi], 'en').map(({ store: label }) => label), [undefined]);
+assert.deepEqual(
+  getRelatedShelfCards([multi], 'en').map(({ store: label }) => label),
+  [getReviewStoreLabel(multi, getActiveCoupons(), 'en')]
+);
 
 // O afiliado sem página (a Shopee) na lista: o artigo segue sendo da SHEIN em toda listagem, e a Shopee não ganha
 // aba, bolinha, subpágina, nome no cartão nem entra em contagem.
@@ -640,8 +658,14 @@ assert.deepEqual(
   ['shein-ou-temu'],
   'a aba da SHEIN leva só a versão em português'
 );
-assert.deepEqual(getRelatedShelfCards([familyAbroad[0]], 'en').map(({ store: label }) => label), [undefined], 'fora do PT, o cartão sem o nome');
 if (sheinActive && temuActive) {
+  // O cartão leva as duas lojas na frase do idioma dele, nunca o "A e B" do português.
+  const pairLabel = { en: `${store('shein').brand} and ${store('temu').brand}`, ja: `${store('shein').brand} と ${store('temu').brand}` };
+  assert.deepEqual(
+    getRelatedShelfCards([familyAbroad[0]], 'en').map(({ store: label }) => label),
+    [pairLabel.en],
+    'fora do PT, o cartão de relacionados com as lojas no idioma'
+  );
   for (const version of familyAbroad) {
     const localeTabs = getLocaleHomeStoreTabs(version.locale, [...publishedReviews, ...familyAbroad]);
     const href = `/${version.locale}/reviews/${version.slug}`;
@@ -653,7 +677,7 @@ if (sheinActive && temuActive) {
     );
     const [newest] = getLocaleHomeLatest(version.locale, [...publishedReviews, ...familyAbroad]);
     assert.equal(newest.href, href, `${version.locale}: o artigo no "Acabou de sair" do idioma`);
-    assert.equal(newest.store, undefined, `${version.locale}: sem "A e B" em português no cartão`);
+    assert.equal(newest.store, pairLabel[version.locale], `${version.locale}: as duas lojas no cartão, na frase do idioma`);
   }
 }
 

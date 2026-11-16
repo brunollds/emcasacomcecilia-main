@@ -362,7 +362,7 @@ vídeo, primeiras impressões e uso noturno.
   Temu, AliExpress e Hostinger), porque as regras e os textos das outras só existem em português, e o afiliado sem
   página vale só nos `locales` dele. Numa família, portanto, a lista só leva lojas que valem nos 10 idiomas. Fora do
   PT, o bloco de cada loja sai da tradução dela (desconto, regras, link e `/<locale>/coupons/<loja>`), e o cartão do
-  artigo nas listagens fica sem o nome das lojas ("A e B" só existe em português). As lojas se leem só por
+  artigo nas listagens leva "A e B" ou "N lojas parceiras" no idioma dele (`STORE_LABELS`, em `reviewStores.ts`). As lojas se leem só por
   `src/lib/reviewStores.ts` (`getSingleStoreSlug` dá vazio para a lista: nada usa a primeira). O artigo entra na estante
   de todas; no topo, na lateral e no fim, `ArticleStoreCodes` mostra uma linha por loja (`getArticleStoreBlocks`), sem
   banners de campanha; no celular, o dock mostra "Ver códigos (N)" e abre a gaveta nas linhas. Os blocos saem na ordem
