@@ -245144,5 +245144,453 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 986,
+    "slug": "cupom-baw-como-usar",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "16 de novembro de 2026",
+    "publishedAtISO": "2026-11-16",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "BAWEMCASACOMCECILIA",
+    "affiliate": "baw",
+    "title": "Como usar o cupom BAWEMCASACOMCECILIA na BAW: 10% OFF no site e no app",
+    "seoTitle": "Cupom BAW: como usar o BAWEMCASACOMCECILIA, 10% OFF",
+    "type": "Guia & Cupons",
+    "description": "Onde digitar o código no carrinho da BAW Clothing, quanto ele tirou no nosso teste e como fica com promoção, Pix e frete.",
+    "metaDescription": "BAWEMCASACOMCECILIA dá 10% OFF na BAW Clothing, no site e no app. Veja onde digitar o código, a conta do nosso teste e o que conferir se ele não entrar.",
+    "image": "/images/reviews/baw/cupom-baw-como-usar-capa.webp",
+    "imageAlt": "Modelo com a Camiseta Regular Goth 3.0 preta da BAW Clothing, em foto oficial da loja, com o logo da marca, “Cupom BAW: como usar?” e o código BAWEMCASACOMCECILIA.",
+    "cta": {
+      "text": "Abra o site oficial da BAW Clothing pelo botão e digite BAWEMCASACOMCECILIA no campo “Cupom de desconto”, no carrinho. Confira a linha Cupom antes de pagar.",
+      "label": "Ir para a BAW Clothing",
+      "url": "https://www.bawclothing.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Cupom testado no carrinho do site oficial. Não usamos as peças. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-baw"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O cupom BAWEMCASACOMCECILIA dá 10% OFF em todo o site e no aplicativo da BAW Clothing, para quem compra pela primeira vez e para quem já é cliente. Digite o código no campo “Cupom de desconto”, no carrinho, e confirme pela seta. Ele soma com as promoções e com o desconto do Pix."
+        ]
+      },
+      {
+        "heading": "Onde digitar o cupom na BAW",
+        "paragraphs": [
+          "O código entra no carrinho do site oficial, antes do pagamento:"
+        ],
+        "bullets": [
+          "Na página da peça, escolha o tamanho e toque em COMPRAR.",
+          "Abra o carrinho.",
+          "Ao lado do resumo do pedido, digite BAWEMCASACOMCECILIA no campo “Cupom de desconto”, sem espaços, e confirme pela seta.",
+          "Confira o aviso “Cupom aplicado” e a linha Cupom no resumo, com o valor descontado."
+        ],
+        "postParagraphs": [
+          "Com o código aceito, o campo passa a mostrar o botão “Trocar”. Não precisa tocar nele: o desconto já está no resumo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/cupom-baw-carrinho-com-cupom.webp",
+            "alt": "Resumo do carrinho da BAW Clothing com o código BAWEMCASACOMCECILIA no campo Cupom de desconto, o aviso Cupom aplicado, a linha Cupom de menos R$ 14,80 e o total de R$ 133,20",
+            "caption": "O BAWEMCASACOMCECILIA aplicado no carrinho da BAW, no nosso teste: a linha Cupom mostra quanto saiu do total.",
+            "objectFit": "contain",
+            "aspectRatio": 2.646
+          }
+        ]
+      },
+      {
+        "heading": "Quanto o cupom tira: a conta do nosso teste",
+        "paragraphs": [
+          "Em 16 de novembro de 2026, montamos um carrinho com duas camisetas. A BR Regular Locally Grown estava pelo preço cheio de R$ 89,00, e a Regular Goth 3.0, em promoção, de R$ 89,00 por R$ 59,00. O código tirou R$ 14,80 dos R$ 148,00, e o total caiu para R$ 133,20.",
+          "São 10% sobre o carrinho inteiro, e o código vale em todo o site, inclusive na camiseta que já estava em promoção. O valor exato do seu pedido aparece na linha Cupom do resumo, antes do pagamento."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/cupom-baw-como-usar-camiseta-goth.webp",
+            "alt": "Modelo de corpo inteiro com a Camiseta Regular Goth 3.0 preta da BAW Clothing e calça jeans, em foto oficial da loja",
+            "caption": "Camiseta Regular Goth 3.0, o modelo em promoção do carrinho do teste, aqui na cor preta. Foto: BAW Clothing.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.bawclothing.com.br/camiseta-regular-goth-3-0-151202"
+          }
+        ]
+      },
+      {
+        "heading": "O cupom soma com promoção e com o Pix?",
+        "paragraphs": [
+          "Soma com os dois. Com promoção, o desconto entra sobre o preço promocional, como no carrinho do teste.",
+          "No Pix, a BAW dá 5% de desconto, e a página do produto mostra o aviso “5% OFF no PIX”. Esse desconto é da forma de pagamento e soma com o código. O valor com os dois juntos aparece no resumo do pedido, antes de pagar."
+        ]
+      },
+      {
+        "heading": "O cupom BAW vale no aplicativo?",
+        "paragraphs": [
+          "Vale. O BAWEMCASACOMCECILIA funciona no site oficial e no aplicativo da BAW, segundo a parceria. Nosso teste foi no site. No aplicativo, digite o mesmo código no campo de cupom e confira a linha do desconto antes de pagar."
+        ]
+      },
+      {
+        "heading": "Frete e pagamento",
+        "paragraphs": [
+          "O cupom não dá frete grátis. O frete sai pelo CEP, à parte do desconto: no teste, para um CEP da cidade de São Paulo, ficou em R$ 10,62. Segundo a página de entrega da loja, o prazo conta a partir do faturamento do pedido.",
+          "Para comparar com outra loja, olhe o total entregue: produtos, já com o cupom, mais o frete do seu CEP.",
+          "No cartão, a BAW parcela em até 10 vezes sem juros, com parcela mínima de R$ 50. O cupom vale em todas as formas de pagamento."
+        ]
+      },
+      {
+        "heading": "O cupom não entrou: o que conferir",
+        "bullets": [
+          "**O código.** BAWEMCASACOMCECILIA, tudo junto, sem espaço antes ou depois.",
+          "**O campo.** “Cupom de desconto”, no carrinho, confirmado pela seta.",
+          "**O site.** O código vale no site oficial, bawclothing.com.br, e no aplicativo da BAW. Em marketplace, como o Mercado Livre, vale o preço do anúncio.",
+          "**O aviso.** Com o código aceito, aparecem “Cupom aplicado” e a linha Cupom no resumo."
+        ],
+        "postParagraphs": [
+          "Se a linha Cupom não aparecer, não pague: avise pelo [contato do site](/contato) para revisarmos a informação. As condições do código ficam na página do [cupom BAW Clothing](/cupons/baw)."
+        ]
+      },
+      {
+        "heading": "Antes de escolher o tamanho",
+        "paragraphs": [
+          "A BAW não tem um guia de tamanhos único: as medidas ficam na aba “Descrição” de cada peça, e algumas descrições estão vazias. Confira as medidas antes de comprar, porque a troca por tamanho vira crédito na loja, segundo a política de trocas. O [guia da Black Friday da BAW](/reviews/black-friday-baw) mostra, peça a peça, quais das que lemos trazem as medidas."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Onde coloco o cupom na BAW? No carrinho do site oficial, no campo “Cupom de desconto”, ao lado do resumo do pedido. Digite BAWEMCASACOMCECILIA e confirme pela seta.",
+          "O cupom BAW vale para quem já é cliente? Vale. O BAWEMCASACOMCECILIA serve para a primeira compra e para as seguintes.",
+          "O cupom soma com peça em promoção? Sim. No nosso teste, os 10% entraram também sobre uma camiseta que já estava em promoção.",
+          "O cupom dá frete grátis? Não. O frete sai pelo CEP, à parte do desconto.",
+          "O cupom vale no Mercado Livre? Não. O código vale no site oficial e no aplicativo da BAW; em marketplace, vale o preço do anúncio."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 987,
+    "slug": "black-friday-baw",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "16 de novembro de 2026",
+    "publishedAtISO": "2026-11-16",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "BAWEMCASACOMCECILIA",
+    "affiliate": "baw",
+    "title": "Black Friday BAW 2026: o que vale a pena e como o cupom entra",
+    "seoTitle": "Black Friday BAW 2026: o que comprar e cupom de 10%",
+    "type": "Guia de Black Friday",
+    "description": "A campanha já está no site da BAW Clothing, sem data de fim publicada. Sete peças, o preço de cada uma com o código e o que conferir antes de fechar o carrinho.",
+    "metaDescription": "BAWEMCASACOMCECILIA dá 10% OFF na BAW e soma com a Black Friday 2026: no teste, entrou em peça já em promoção. Veja sete peças e o que conferir.",
+    "image": "/images/reviews/baw/black-friday-baw-capa.webp",
+    "imageAlt": "Modelo com o Moletom Basic Label azul-escuro da BAW Clothing, segurando os cordões do capuz, em foto oficial da loja, com o logo da marca, “Black Friday BAW 2026” e o código BAWEMCASACOMCECILIA.",
+    "decision": {
+      "takeIf": [
+        "A peça que você quer traz as medidas na descrição.",
+        "O seu tamanho está disponível na cor escolhida."
+      ],
+      "skipIf": [
+        "A compra depende de trocar de tamanho depois: a troca vira crédito na loja.",
+        "A descrição da peça está vazia e você ainda não conhece o seu tamanho na marca."
+      ]
+    },
+    "cta": {
+      "text": "Abra o site oficial da BAW Clothing pelo botão e digite BAWEMCASACOMCECILIA no campo “Cupom de desconto”, no carrinho. O desconto entra em cima do preço da campanha.",
+      "label": "Ir para a BAW Clothing",
+      "url": "https://www.bawclothing.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Preços lidos no site da BAW; cupom testado no carrinho. Não usamos as peças. Podemos receber comissão.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-baw-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Black Friday da BAW Clothing já está no site, com o nome “A última Black Friday da BAW” e sem data de fim publicada. O cupom BAWEMCASACOMCECILIA soma com o preço da campanha: dá 10% OFF e, no nosso teste, entrou numa camiseta que já estava em promoção. No Pix, a loja dá 5% de desconto, à parte."
+        ]
+      },
+      {
+        "heading": "A Black Friday da BAW já começou?",
+        "paragraphs": [
+          "Já. O menu do site tem o item Black Friday, que abre a página “A última Black Friday da BAW”, o nome da campanha, com camisetas, moletons e outras peças em preço promocional.",
+          "A loja não publica regulamento nem datas de início e de fim. Como a campanha pode mudar sem aviso, o preço que vale é o da página no dia da compra."
+        ]
+      },
+      {
+        "heading": "O cupom soma com a Black Friday?",
+        "paragraphs": [
+          "Soma. Em 16 de novembro de 2026, montamos um carrinho com a Camiseta Regular Goth 3.0, que estava na campanha de R$ 89,00 por R$ 59,00, e a BR Regular Locally Grown, a R$ 89,00. O BAWEMCASACOMCECILIA tirou R$ 14,80 dos R$ 148,00, e o total caiu para R$ 133,20: os 10% entraram também sobre a peça em promoção.",
+          "No Pix, a BAW dá 5% de desconto, que soma com o código. São dois descontos separados. O passo a passo do campo está em [como usar o cupom BAW](/reviews/cupom-baw-como-usar), e as condições do código, na página do [cupom BAW Clothing](/cupons/baw)."
+        ]
+      },
+      {
+        "heading": "O que vale a pena: sete peças",
+        "paragraphs": [
+          "Escolhemos sete peças, uma por tipo de compra, com uma alternativa quando a loja tem. As camisetas e os moletons estão na página da campanha; a calça, o infantil e o tênis estavam com preço promocional nas categorias da loja.",
+          "O quadro no fim do capítulo traz três preços de cada uma: o da vitrine, o com o código e o só com o Pix. Os dois últimos são contas nossas sobre o preço lido, 10% a menos e 5% a menos. O valor com os dois descontos juntos sai do seu carrinho.",
+          "O que está aqui vem da página de cada peça: composição e medidas quando a loja publica, e o aviso quando a descrição está vazia."
+        ]
+      },
+      {
+        "heading": "Camiseta Regular Goth 3.0",
+        "paragraphs": [
+          "É uma das peças do nosso teste e a camiseta estampada de menor preço entre as que lemos: R$ 59,00, de R$ 89,00, na cor preta.",
+          "A descrição estava vazia, com o aviso “Não há descrição para este produto”: a loja não informa composição nem medidas desta peça. Quem ainda não conhece o próprio tamanho na marca decide melhor pela Regular Selfie Logo, que traz as medidas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/black-friday-baw-camiseta-goth.webp",
+            "alt": "Modelo com a Camiseta Regular Goth 3.0 preta da BAW Clothing, com o nome da marca em letras góticas brancas no peito, em foto oficial da loja",
+            "caption": "Camiseta Regular Goth 3.0, na cor preta. Foto: BAW Clothing.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.bawclothing.com.br/camiseta-regular-goth-3-0-151202"
+          }
+        ]
+      },
+      {
+        "heading": "Camiseta Regular Selfie Logo",
+        "paragraphs": [
+          "Na cor off white, estava a R$ 89,00, de R$ 129,00. Outra cor aparecia a R$ 79,00.",
+          "A loja descreve “camiseta regular de algodão com modelagem reta” e publica as medidas de cada tamanho: no M, 70 cm de comprimento e 54 cm de tórax. Para a primeira compra na marca, é a regular em que dá para conferir a medida antes.",
+          "A BR Regular Locally Grown, a outra peça do nosso teste, estava a preço cheio, R$ 89,00 na cor testada, e com a descrição vazia. Nela, o único desconto foi o do código: R$ 80,10."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/black-friday-baw-camiseta-selfie-logo.webp",
+            "alt": "Modelo com a Camiseta Regular Selfie Logo off white da BAW Clothing, com o nome da marca pequeno no peito, em foto oficial da loja",
+            "caption": "Camiseta Regular Selfie Logo, na cor off white. Foto: BAW Clothing.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.bawclothing.com.br/camiseta-regular-selfie-logo-153490"
+          }
+        ]
+      },
+      {
+        "heading": "Camiseta Oversized BAW Subscript",
+        "paragraphs": [
+          "Na cor off white, estava pelo mesmo preço de uma regular em oferta: R$ 89,00, de R$ 159,00.",
+          "A página diz “camiseta oversized de algodão com modelagem reta” e traz as medidas. No M, são 72 cm de comprimento e 61 cm de tórax, contra 70 cm e 54 cm da Regular Selfie Logo. Quer camiseta larga? Compare essas medidas com uma camiseta sua, sem deduzir pela palavra oversized."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/black-friday-baw-camiseta-oversized-subscript.webp",
+            "alt": "Modelo com a Camiseta Oversized BAW Subscript off white da BAW Clothing, com a assinatura da marca no peito, em foto oficial da loja",
+            "caption": "Camiseta Oversized BAW Subscript, na cor off white. Foto: BAW Clothing.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.bawclothing.com.br/camiseta-oversized-baw-subscript-151896"
+          }
+        ]
+      },
+      {
+        "heading": "Moletom Basic Label",
+        "paragraphs": [
+          "Na cor azul-escuro, estava a R$ 139,00, de R$ 249,00. Outras cores apareciam a R$ 179,00, então o preço depende da cor.",
+          "A loja descreve “capuz forrado com ajuste por cordões”, bolso canguru e punhos em tecido canelado, em 50% algodão e 50% poliéster. No M, 74 cm de comprimento e 61 cm de tórax.",
+          "A alternativa é o Moletom Hoodie BAW Subscript, a partir de R$ 179,00, de R$ 349,00 (R$ 161,10 com o código, R$ 170,05 só com o Pix). Ele é 100% algodão e tem as mesmas medidas, então a escolha entre os dois fica na composição."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/black-friday-baw-moletom-basic-label.webp",
+            "alt": "Modelo com o Moletom Basic Label azul-escuro da BAW Clothing, com capuz, cordões e bolso canguru, em foto oficial da loja",
+            "caption": "Moletom Basic Label, na cor azul-escuro. Foto: BAW Clothing.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.bawclothing.com.br/moletom-basic-label-153707"
+          }
+        ]
+      },
+      {
+        "heading": "Calça Track BAW Tag",
+        "paragraphs": [
+          "Na cor amarelo flúor, estava a R$ 149,00, de R$ 349,00. Outras cores apareciam a R$ 199,00 e a R$ 219,00.",
+          "É uma jogger de moletom flanelado, 50% algodão e 50% poliéster, com cós de elástico e cordão. A loja fala em moletom “encorpado”, com “proteção térmica para os dias mais frios”: é peça de frio.",
+          "Para o calor, a alternativa é a Bermuda Jeans Regular Logo, a R$ 129,00, de R$ 199,00 (R$ 116,10 com o código, R$ 122,55 só com o Pix). É 100% algodão, de modelagem reta e comprimento perto do joelho, na numeração 34 a 52.",
+          "A calça traz 40 cm de cintura no M, e a bermuda, 68 cm no 34. As páginas não dizem se a medida é da cintura inteira ou de metade dela, então um número não se compara com o outro. Meça uma calça sua das duas formas e veja de qual número ela chega perto."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/black-friday-baw-calca-track-baw-tag.webp",
+            "alt": "Modelo com a Calça Track BAW Tag amarelo flúor da BAW Clothing, usada com moletom da mesma cor, em foto oficial da loja",
+            "caption": "Calça Track BAW Tag, na cor amarelo flúor. Foto: BAW Clothing.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.bawclothing.com.br/calca-track-baw-tag-151973"
+          }
+        ]
+      },
+      {
+        "heading": "Shorts Reverse Kids",
+        "paragraphs": [
+          "Na linha infantil, estava a R$ 39,00, de R$ 129,00, na cor azul.",
+          "A loja descreve “shorts infantil de algodão e elástico na cintura” e traz as medidas do 04 ao 14. No 04, são 31 cm de comprimento. Criança muda de tamanho rápido: meça um short que serve hoje e compare com a tabela da peça.",
+          "As camisetas BR Kids estavam pelo mesmo preço, R$ 39,00, sem preço “de”, e com a descrição vazia."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/black-friday-baw-shorts-reverse-kids.webp",
+            "alt": "Criança com o Shorts Reverse Kids azul-claro da BAW Clothing, da cintura para baixo, em foto oficial da loja",
+            "caption": "Shorts Reverse Kids, na cor azul. Foto: BAW Clothing.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.bawclothing.com.br/shorts-reverse-kids-151314"
+          }
+        ]
+      },
+      {
+        "heading": "Tênis BAW Thunder",
+        "paragraphs": [
+          "Era o tênis de menor preço entre os que lemos: R$ 169,00, de R$ 399,00, no modelo branco da foto.",
+          "A descrição estava vazia: a loja não informa o material nem a tabela de medida do pé. Calçado é a compra em que errar o número custa mais nesta loja, porque a troca vira crédito e o número certo pode não estar disponível depois. Só compensa para quem já conhece a forma da marca.",
+          "A alternativa com descrição é a Sandália Linus, da parceria BAW + Linus: R$ 169,00, de R$ 229,00, na cor amarelo flúor (R$ 152,10 com o código, R$ 160,55 só com o Pix). A página diz “100% de PVC microexpandido” e traz a tabela de pé por numeração dupla."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/black-friday-baw-tenis-thunder.webp",
+            "alt": "Tênis BAW Thunder branco, calçado com meia branca da BAW, em foto oficial da loja",
+            "caption": "Tênis BAW Thunder, na cor branca. Foto: BAW Clothing.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.bawclothing.com.br/tenis-baw-thunder-151236"
+          }
+        ]
+      },
+      {
+        "heading": "As sete peças lado a lado",
+        "comparisonTable": {
+          "caption": "Preços lidos no site da BAW em 16/11, na cor da foto de cada peça. As duas últimas colunas são contas nossas sobre o preço da vitrine, sem frete: 10% a menos com o código e 5% a menos só com o Pix.",
+          "headers": [
+            "Peça",
+            "Na vitrine",
+            "Com o código",
+            "Só com o Pix"
+          ],
+          "rows": [
+            [
+              "Camiseta Regular Goth 3.0",
+              "R$ 59,00",
+              "R$ 53,10",
+              "R$ 56,05"
+            ],
+            [
+              "Camiseta Regular Selfie Logo",
+              "R$ 89,00",
+              "R$ 80,10",
+              "R$ 84,55"
+            ],
+            [
+              "Camiseta Oversized BAW Subscript",
+              "R$ 89,00",
+              "R$ 80,10",
+              "R$ 84,55"
+            ],
+            [
+              "Moletom Basic Label",
+              "R$ 139,00",
+              "R$ 125,10",
+              "R$ 132,05"
+            ],
+            [
+              "Calça Track BAW Tag",
+              "R$ 149,00",
+              "R$ 134,10",
+              "R$ 141,55"
+            ],
+            [
+              "Shorts Reverse Kids",
+              "R$ 39,00",
+              "R$ 35,10",
+              "R$ 37,05"
+            ],
+            [
+              "Tênis BAW Thunder",
+              "R$ 169,00",
+              "R$ 152,10",
+              "R$ 160,55"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Para a primeira compra na marca, a Regular Selfie Logo e a Oversized BAW Subscript trazem as medidas. A Goth 3.0 tem o menor preço entre as camisetas, mas só serve a quem já sabe o tamanho. Para o frio, o Basic Label e a Calça Track. Tênis, só para quem já conhece a forma da marca.",
+          "Os preços mudam durante a campanha e de uma cor para outra. Antes de comprar, compare o da página com o do quadro."
+        ]
+      },
+      {
+        "heading": "Antes de fechar o carrinho",
+        "bullets": [
+          "**Tamanho.** As medidas ficam na aba “Descrição” de cada peça, quando a loja publica, com o aviso de variação de até 3%. A loja não tem um guia de tamanhos único.",
+          "**Cor.** O preço e os tamanhos disponíveis mudam por cor. Confira o seu tamanho na página, na cor que você quer.",
+          "**Total entregue.** O cupom não dá frete grátis: o frete sai pelo CEP. O que se compara é o total, com os produtos já com o desconto e o frete.",
+          "**Prazo.** A página de entrega diz que o prazo conta a partir do faturamento e que, “em períodos promocionais, os prazos de envio podem sofrer alterações”."
+        ]
+      },
+      {
+        "heading": "Troca ou devolução de compra da campanha",
+        "paragraphs": [
+          "A loja não publica regra própria da campanha. Pela política de trocas e devoluções do site, lida para este guia, troca e devolução são coisas diferentes:"
+        ],
+        "bullets": [
+          "**Prazo.** Até 7 dias corridos depois do recebimento, com a peça sem uso, com etiqueta e na embalagem original. Por defeito, até 90 dias corridos.",
+          "**Troca.** Vira crédito no valor pago pela peça, na conta do CPF da compra. A loja não troca peça por peça, nem por tamanho.",
+          "**Devolução.** O dinheiro volta pela mesma forma de pagamento, depois da análise da peça, que leva até 10 dias úteis.",
+          "**Frete.** A primeira troca ou devolução é gratuita, com código de postagem dos Correios. Nas seguintes, o frete é do cliente."
+        ],
+        "postParagraphs": [
+          "Quem errou o tamanho e não quer crédito pede a devolução, dentro dos 7 dias."
+        ]
+      },
+      {
+        "heading": "E no Mercado Livre?",
+        "paragraphs": [
+          "O BAWEMCASACOMCECILIA vale no site oficial e no aplicativo da BAW. Em marketplace, como o Mercado Livre, vale o preço do anúncio, sem o código."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O cupom soma com a Black Friday da BAW? Soma. O BAWEMCASACOMCECILIA dá 10% OFF em cima do preço da campanha; no nosso teste, entrou numa camiseta que já estava em promoção.",
+          "Quando acaba a Black Friday da BAW? A loja não publica data de fim nem regulamento. Vale o preço da página no dia da compra.",
+          "O cupom da Black Friday vale no app? Sim. O código vale no site oficial e no aplicativo da BAW, segundo a parceria; nosso teste foi no site.",
+          "Posso trocar uma peça comprada na Black Friday? Pela política da loja, pode, em até 7 dias corridos do recebimento. A troca vira crédito na loja; para receber o dinheiro de volta, o pedido é de devolução."
+        ]
+      }
+    ]
   }
 ];

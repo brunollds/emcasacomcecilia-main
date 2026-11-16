@@ -158431,6 +158431,466 @@
       "verified_at": "2026-10-13T14:27:09.829Z",
       "verification_etag_or_digest": "e3b5dc46783f0cff73e295b4c7d62dd29756c3c8e7c627cd2b772532651600c4",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/black-friday-baw-calca-track-baw-tag.webp",
+      "local_url": "/images/reviews/baw/black-friday-baw-calca-track-baw-tag.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19232,
+      "sha256": "d6ce6192ba277c650b759af2c420e0c4e9a37f6a4339ae69a38513510a96bdb7",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-baw-calca-track-baw-tag.webp",
+      "storage_filename": "black-friday-baw-calca-track-baw-tag.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-baw.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-baw.json",
+          "line": 162,
+          "column": 19,
+          "literal": "/images/reviews/baw/black-friday-baw-calca-track-baw-tag.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 245456,
+          "column": 21,
+          "literal": "/images/reviews/baw/black-friday-baw-calca-track-baw-tag.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d6ce6192ba277c650b759af2c420e0c4e9a37f6a4339ae69a38513510a96bdb7/black-friday-baw-calca-track-baw-tag.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d6ce6192ba277c650b759af2c420e0c4e9a37f6a4339ae69a38513510a96bdb7/black-friday-baw-calca-track-baw-tag.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T21:58:43.703Z",
+      "verification_etag_or_digest": "d6ce6192ba277c650b759af2c420e0c4e9a37f6a4339ae69a38513510a96bdb7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/black-friday-baw-camiseta-goth.webp",
+      "local_url": "/images/reviews/baw/black-friday-baw-camiseta-goth.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44352,
+      "sha256": "274ff1991ba8269adcba322d4cad0686f0cb984fa9de88405138da51b8c9d1ca",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-baw-camiseta-goth.webp",
+      "storage_filename": "black-friday-baw-camiseta-goth.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-baw.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-baw.json",
+          "line": 90,
+          "column": 19,
+          "literal": "/images/reviews/baw/black-friday-baw-camiseta-goth.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 245384,
+          "column": 21,
+          "literal": "/images/reviews/baw/black-friday-baw-camiseta-goth.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/274ff1991ba8269adcba322d4cad0686f0cb984fa9de88405138da51b8c9d1ca/black-friday-baw-camiseta-goth.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/274ff1991ba8269adcba322d4cad0686f0cb984fa9de88405138da51b8c9d1ca/black-friday-baw-camiseta-goth.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T21:58:43.704Z",
+      "verification_etag_or_digest": "274ff1991ba8269adcba322d4cad0686f0cb984fa9de88405138da51b8c9d1ca",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/black-friday-baw-camiseta-oversized-subscript.webp",
+      "local_url": "/images/reviews/baw/black-friday-baw-camiseta-oversized-subscript.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24388,
+      "sha256": "23f89b62b9d2e6650ddc870055e175e4f822826637c7f170c464f787949e71e0",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-baw-camiseta-oversized-subscript.webp",
+      "storage_filename": "black-friday-baw-camiseta-oversized-subscript.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-baw.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-baw.json",
+          "line": 125,
+          "column": 19,
+          "literal": "/images/reviews/baw/black-friday-baw-camiseta-oversized-subscript.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 245419,
+          "column": 21,
+          "literal": "/images/reviews/baw/black-friday-baw-camiseta-oversized-subscript.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/23f89b62b9d2e6650ddc870055e175e4f822826637c7f170c464f787949e71e0/black-friday-baw-camiseta-oversized-subscript.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/23f89b62b9d2e6650ddc870055e175e4f822826637c7f170c464f787949e71e0/black-friday-baw-camiseta-oversized-subscript.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T21:58:43.704Z",
+      "verification_etag_or_digest": "23f89b62b9d2e6650ddc870055e175e4f822826637c7f170c464f787949e71e0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/black-friday-baw-camiseta-selfie-logo.webp",
+      "local_url": "/images/reviews/baw/black-friday-baw-camiseta-selfie-logo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28956,
+      "sha256": "c179bfd9fc53292ca327532c298c36621eac3b049c4788824d936b9a466cc642",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-baw-camiseta-selfie-logo.webp",
+      "storage_filename": "black-friday-baw-camiseta-selfie-logo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-baw.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-baw.json",
+          "line": 108,
+          "column": 19,
+          "literal": "/images/reviews/baw/black-friday-baw-camiseta-selfie-logo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 245402,
+          "column": 21,
+          "literal": "/images/reviews/baw/black-friday-baw-camiseta-selfie-logo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c179bfd9fc53292ca327532c298c36621eac3b049c4788824d936b9a466cc642/black-friday-baw-camiseta-selfie-logo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c179bfd9fc53292ca327532c298c36621eac3b049c4788824d936b9a466cc642/black-friday-baw-camiseta-selfie-logo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T21:58:43.704Z",
+      "verification_etag_or_digest": "c179bfd9fc53292ca327532c298c36621eac3b049c4788824d936b9a466cc642",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/black-friday-baw-capa.webp",
+      "local_url": "/images/reviews/baw/black-friday-baw-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 97036,
+      "sha256": "ee6435a6e88fb918879399b8df5b19a59e28fd6a54f6e126aa5669269d1f7f44",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-baw-capa.webp",
+      "storage_filename": "black-friday-baw-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-baw.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-baw.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/baw/black-friday-baw-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 245323,
+          "column": 15,
+          "literal": "/images/reviews/baw/black-friday-baw-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ee6435a6e88fb918879399b8df5b19a59e28fd6a54f6e126aa5669269d1f7f44/black-friday-baw-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ee6435a6e88fb918879399b8df5b19a59e28fd6a54f6e126aa5669269d1f7f44/black-friday-baw-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T21:58:43.704Z",
+      "verification_etag_or_digest": "ee6435a6e88fb918879399b8df5b19a59e28fd6a54f6e126aa5669269d1f7f44",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/black-friday-baw-moletom-basic-label.webp",
+      "local_url": "/images/reviews/baw/black-friday-baw-moletom-basic-label.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 37402,
+      "sha256": "2d6ad82b2df00b6c2a72b82d5c0ec01466294b7e34cac94f3b25681cd1ba8269",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-baw-moletom-basic-label.webp",
+      "storage_filename": "black-friday-baw-moletom-basic-label.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-baw.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-baw.json",
+          "line": 143,
+          "column": 19,
+          "literal": "/images/reviews/baw/black-friday-baw-moletom-basic-label.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 245437,
+          "column": 21,
+          "literal": "/images/reviews/baw/black-friday-baw-moletom-basic-label.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2d6ad82b2df00b6c2a72b82d5c0ec01466294b7e34cac94f3b25681cd1ba8269/black-friday-baw-moletom-basic-label.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2d6ad82b2df00b6c2a72b82d5c0ec01466294b7e34cac94f3b25681cd1ba8269/black-friday-baw-moletom-basic-label.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T21:58:43.704Z",
+      "verification_etag_or_digest": "2d6ad82b2df00b6c2a72b82d5c0ec01466294b7e34cac94f3b25681cd1ba8269",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/black-friday-baw-shorts-reverse-kids.webp",
+      "local_url": "/images/reviews/baw/black-friday-baw-shorts-reverse-kids.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27272,
+      "sha256": "dd3680dc571a62d41da52c1abc6e44499814d3557fafe5420afb245c81e4034b",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-baw-shorts-reverse-kids.webp",
+      "storage_filename": "black-friday-baw-shorts-reverse-kids.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-baw.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-baw.json",
+          "line": 180,
+          "column": 19,
+          "literal": "/images/reviews/baw/black-friday-baw-shorts-reverse-kids.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 245474,
+          "column": 21,
+          "literal": "/images/reviews/baw/black-friday-baw-shorts-reverse-kids.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/dd3680dc571a62d41da52c1abc6e44499814d3557fafe5420afb245c81e4034b/black-friday-baw-shorts-reverse-kids.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dd3680dc571a62d41da52c1abc6e44499814d3557fafe5420afb245c81e4034b/black-friday-baw-shorts-reverse-kids.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T21:58:43.704Z",
+      "verification_etag_or_digest": "dd3680dc571a62d41da52c1abc6e44499814d3557fafe5420afb245c81e4034b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/black-friday-baw-tenis-thunder.webp",
+      "local_url": "/images/reviews/baw/black-friday-baw-tenis-thunder.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44612,
+      "sha256": "69026749366e7faa84638e87ba41e855649ca45bc8398fdafbd5e6e3f42b5497",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-baw-tenis-thunder.webp",
+      "storage_filename": "black-friday-baw-tenis-thunder.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-baw.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-baw.json",
+          "line": 198,
+          "column": 19,
+          "literal": "/images/reviews/baw/black-friday-baw-tenis-thunder.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 245492,
+          "column": 21,
+          "literal": "/images/reviews/baw/black-friday-baw-tenis-thunder.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/69026749366e7faa84638e87ba41e855649ca45bc8398fdafbd5e6e3f42b5497/black-friday-baw-tenis-thunder.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/69026749366e7faa84638e87ba41e855649ca45bc8398fdafbd5e6e3f42b5497/black-friday-baw-tenis-thunder.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T21:58:43.704Z",
+      "verification_etag_or_digest": "69026749366e7faa84638e87ba41e855649ca45bc8398fdafbd5e6e3f42b5497",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/cupom-baw-como-usar-camiseta-goth.webp",
+      "local_url": "/images/reviews/baw/cupom-baw-como-usar-camiseta-goth.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39562,
+      "sha256": "0c90da25f3693c8f541cf4313c540d438032da75f70cb441034cb64ae437a287",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-baw-como-usar-camiseta-goth.webp",
+      "storage_filename": "cupom-baw-como-usar-camiseta-goth.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-baw-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-baw-como-usar.json",
+          "line": 82,
+          "column": 19,
+          "literal": "/images/reviews/baw/cupom-baw-como-usar-camiseta-goth.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 245229,
+          "column": 21,
+          "literal": "/images/reviews/baw/cupom-baw-como-usar-camiseta-goth.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0c90da25f3693c8f541cf4313c540d438032da75f70cb441034cb64ae437a287/cupom-baw-como-usar-camiseta-goth.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0c90da25f3693c8f541cf4313c540d438032da75f70cb441034cb64ae437a287/cupom-baw-como-usar-camiseta-goth.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T21:58:43.704Z",
+      "verification_etag_or_digest": "0c90da25f3693c8f541cf4313c540d438032da75f70cb441034cb64ae437a287",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/cupom-baw-como-usar-capa.webp",
+      "local_url": "/images/reviews/baw/cupom-baw-como-usar-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58162,
+      "sha256": "48c9acb218f33069b4ea82b9827e9dfa1232f18b9183bf1a0829ff97bd8b33a8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-baw-como-usar-capa.webp",
+      "storage_filename": "cupom-baw-como-usar-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-baw-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-baw-como-usar.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/baw/cupom-baw-como-usar-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 245176,
+          "column": 15,
+          "literal": "/images/reviews/baw/cupom-baw-como-usar-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/48c9acb218f33069b4ea82b9827e9dfa1232f18b9183bf1a0829ff97bd8b33a8/cupom-baw-como-usar-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/48c9acb218f33069b4ea82b9827e9dfa1232f18b9183bf1a0829ff97bd8b33a8/cupom-baw-como-usar-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T21:58:43.704Z",
+      "verification_etag_or_digest": "48c9acb218f33069b4ea82b9827e9dfa1232f18b9183bf1a0829ff97bd8b33a8",
+      "verification_status": "verified"
     }
   ]
 }

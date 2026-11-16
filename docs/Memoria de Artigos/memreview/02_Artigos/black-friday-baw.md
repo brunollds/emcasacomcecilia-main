@@ -7,9 +7,9 @@ parceiro_slug: "baw"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2), junto com a BW1; reler a vitrine na semana do texto"
+proxima_acao: "deploy (decisão do Bruno); refazer o teste do código em 27/11"
 bloqueado_por: "-"
 data_criacao: "2026-11-16"
 pauta_id: "BW6"
@@ -164,3 +164,15 @@ peça principal (sete), com `href` para a página do produto no site oficial.
 | Em promoções o prazo de entrega pode mudar | `/entrega-e-frete`, 16/11 | verificado |
 | O que quer dizer "a última" e as datas da campanha | nenhuma | não escrever |
 | O código não vale no Mercado Livre | handoff de 16/11 | "vale no site e no aplicativo" |
+
+## Redação, revisão e JSON (16/11/2026)
+
+Job 2 e Job 4 pela sessão de artigos, a partir deste briefing e das leituras do dia ([[baw-fatos-1611]], seção 10). Job 3 por subagente Fable: achados aplicados. Texto passado também pelo crivo de copy (sem contraste "X, e não Y", sem dois-pontos de efeito). JSON em `content/reviews/black-friday-baw.json`.
+
+## Capa e imagens (aprovadas pelo Bruno em 16/11/2026)
+
+Folha de aprovação mostrada no chat; upload ao CDN autorizado e verificado no mesmo dia. Capa no painel lateral (guia de capas), `imageFit: contain`. Todas as fotos são oficiais da BAW Clothing (`bawclothing.fbitsstatic.net`, páginas de produto lidas em 16/11/2026), sem cenário gerado.
+
+- Capa `/images/reviews/baw/black-friday-baw-capa.webp`: segunda foto do Moletom Basic Label azul-escuro (produto 153707), chamada "Black Friday BAW 2026" e o código.
+- Corpo, uma foto por peça, com `href` para a página do produto: `black-friday-baw-camiseta-goth.webp` (151202), `-camiseta-selfie-logo.webp` (153490), `-camiseta-oversized-subscript.webp` (151896), `-moletom-basic-label.webp` (153707, primeira foto), `-calca-track-baw-tag.webp` (151973), `-shorts-reverse-kids.webp` (151314) e `-tenis-thunder.webp` (151236).
+- Pendências do artigo: refazer o teste do código em 27/11; reler os preços durante a campanha; depois da campanha, virar guia de 2027 ou sair do ar.
