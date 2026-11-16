@@ -252,3 +252,11 @@ JSON `content/reviews/black-friday-simple-organic.json`, id 783, no manifesto e 
 - **Alt (PT):** Modelo com frasco do Ultra Sérum Retinol da Simple Organic ao lado do rosto, em foto promocional oficial.
 - **Origem:** foto oficial de modelo com o sérum de retinol da Simple Organic, sem antes e depois nem promessa de resultado. Sem geração por IA.
 - **Lote 17 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/simple-organic/black-friday-simple-organic-capa.webp`) fica no CDN, sem uso como capa.
+
+## Curadoria de 15/11/2026
+
+- **Preços:** os nove da tabela de 03/11 seguiam iguais em 15/11 (catálogo público da loja); Hidratante Facial Super Glow esgotado, com o Calmante Multirreparador e o Antioleosidade a R$ 27,00.
+- **Capítulo novo "O que escolher: avulso, duo ou kit":** Rotina Pele Sensível R$ 91,00 contra R$ 97,90 dos avulsos (gel 29,50, Balm Antiolheiras 41,40, Hidratante Calmante 27,00); Trio Body Splashes R$ 99,50 contra R$ 103,50; Duo Limpeza + Regeneração R$ 107,00 contra R$ 106,90 (gel 29,50 e Solução PDRN 77,40).
+- **Cupom revalidado na sacola em 15/11:** S-EMCASACOMCECILIA tirou 5% do Trio (R$ 94,53), da Rotina (R$ 86,45) e do Duo (R$ 101,65).
+- **Frete:** a cotação da sacola para o CEP 01310-100 deu R$ 10,88 (Trio), R$ 10,72 (Rotina) e R$ 11,02 (Duo); a regra do frete grátis (R$ 99,00 depois do desconto) é aplicada no checkout. O exemplo do Trio é o do teste de checkout de 10/11; Rotina e Duo são a sacola de 15/11 com a regra do site, sem checkout.
+- **Reler:** preços e estoque na semana de 27/11.
