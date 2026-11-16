@@ -99,3 +99,27 @@ mínimo que os avulsos alcançariam.
 
 Autocompletar e primeira página em [[Pesquisas-de-Pauta]] (15/11). A busca de kit é por "kit degustação"; a conta
 de kit contra avulso não aparece como consulta. A degustação vira artigo próprio depois (LG9, no estoque).
+
+## 7. Releitura do Job 2 (15/11/2026, Chrome, sem login)
+
+Catálogo (`/products.json`) relido: os preços das seções 3 e 4 não mudaram. O que a releitura acrescenta:
+
+- **Suspiro avulso tem opção de 8 e de 10 unidades** (R$ 91,92 e R$ 99,90), além de 1, 3 e 6. O Kit 10 Suspiros
+  (R$ 99,90) e o Kit 3 Suspiros (R$ 44,37) custam o mesmo que a opção de mesma quantidade da página do sabor. A
+  linha da seção 3 que dá vantagem ao kit (contra 6 + 3 + 1) não vale: no suspiro, o kit empata.
+- **Alfajor:** opções de 1, 2, 6 e 12 unidades. Leitinho, Creme de Avelã, Cookies e Brigadeiro: R$ 15,00; 28,78;
+  77,94; 136,99. Pistache e Caramelo e Flor de Sal: R$ 17,99; 35,98; 96,00; 142,99. Kit 3 de Pistache ou Caramelo:
+  R$ 40,47. Dois Kit 3 Leitinho (R$ 71,98) saem mais baratos que a opção de 6; a caixa de 12 ganha de quatro kits.
+- **Degustação de pasta contra os mesmos seis sabores em 450 g:** Leitinho, Pistache, Caramelo e Flor de Sal, Creme
+  de Avelã, Chocolate ao Leite Crocante e Cookies somam R$ 399,94 (2.700 g), R$ 14,81 por 100 g, contra R$ 15,55
+  do kit. Preços da página, sem o cupom.
+- **Página do Kit 2 Brigadeiro de Colher:** "DESCONTO JÁ APLICADO NO PRODUTO E NÃO ACUMULA COM OUTRAS
+  PROMOÇÕES/CUPONS".
+- **Carrinho da loja com o Kit 2 Brigadeiro e o CECILIA:** "Desconto: CECILIA (- R$ 8,39)", total R$ 75,60, e o
+  aviso "Faltam R$ 104,40 para ganhar Produto Surpresa": o mínimo do brinde conta depois do cupom.
+- **Tela de pagamento não lida.** O "Finalizar a compra" leva a `seguro.lojalaganexa.com.br`, domínio sem
+  permissão na extensão do Chrome. Pelo atalho `/cart/<variante>:1?discount=CECILIA`, que abre o checkout da
+  Shopify e não o caminho normal da loja, o resumo mostrou o desconto de R$ 8,39 e uma linha "Tributos estimados
+  R$ 12,85" somada ao total (R$ 88,45). O print do checkout real de 13/11 não tem essa linha; não foi ao texto.
+  A confirmar com o Bruno se algum pedido real já somou tributo.
+

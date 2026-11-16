@@ -7,10 +7,10 @@ parceiro_slug: "la-ganexa"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "briefing"
+status: "redigido"
 score: 62
 responsavel: "Job-1 (Claude Fable 5.2)"
-proxima_acao: "redação (Job 2), com os preços relidos e um kit levado até a tela de pagamento"
+proxima_acao: "capa aprovada pelo Bruno, PR e deploy"
 bloqueado_por: "-"
 data_criacao: "2026-11-15"
 i18n_cluster: null
@@ -108,3 +108,21 @@ o frete grátis, que contam depois do cupom.
 
 - Releitura dos preços e um kit até a tela de pagamento (Job 2).
 - Composição avulsa do Kit 3 Doce de Leite 250 g, dos combos e do Kit Café da Manhã, se entrarem na tabela.
+
+## Redação (Job 2 a Job 6, 15/11/2026)
+
+- Releitura e carrinho em [[la-ganexa-kits-fatos-1511]], seção 7.
+- **Tese ajustada:** o kit ganha nos potes iguais e nos alfajores; nos suspiros e nos cookies custa o mesmo que
+  comprar pela página do produto; a degustação de pasta custa mais por grama que a maioria dos potes de 450 g.
+  A resposta rápida do rascunho ("a diferença cresce com a quantidade") saiu: só o Brigadeiro sustenta.
+- **Testado e calculado:** os dez kits da primeira tabela passaram pelo carrinho. Nas opções avulsas, o valor com o
+  cupom é conta (preço menos 10%, com o desconto arredondado para baixo, como o carrinho faz), dita uma vez.
+- **Tela de pagamento:** não lida (domínio `seguro.lojalaganexa.com.br` sem permissão na extensão). O artigo não
+  afirma nada sobre ela.
+- **Job 3 (Fable):** 5 bloqueios e 6 melhorias aplicados; as tabelas bateram.
+- **Imagens:** capa no modelo de painel, com a imagem oficial do Kit 4 Brigadeiro de Colher, e quatro imagens
+  oficiais no corpo (Kit 2 Brigadeiro, Kit 10 Suspiros, Degustação de Alfajores, Degustação de Pasta), do CDN da
+  loja, em `public/images/reviews/laganexa/`.
+- **Fora deste artigo:** o `cupom-la-ganexa-como-usar` ainda diz que o Kit 2 Brigadeiros não foi testado; o
+  carrinho de 15/11 testou.
+
