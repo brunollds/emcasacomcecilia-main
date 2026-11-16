@@ -226,3 +226,19 @@ Sem percentual calculado sobre o preço cheio: a tabela mostra só os dois valor
 - **Alt:** Mãos aplicam Mousse Autobronzeador Dark da Skelt sobre luva preta, em imagem promocional oficial.
 - **Origem:** foto oficial do Mousse Dark na luva, sem alteração de pele nem resultado prometido. Sem geração por IA.
 - **Lote 15 do piloto de capas (sequência 4 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-4-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/skelt/black-friday-skelt-capa-discover.webp`) fica no CDN, sem uso como capa.
+
+## Curadoria de Black Friday, rodada 3 (15/11/2026)
+
+O guia deixou de ser só a tabela de outubro e passou a dizer o que comprar. URL, capa e CTA não mudaram.
+
+- **Fonte dos preços:** catálogo público da loja (VTEX, `api/catalog_system/pub/products/search`) e simulação pública de sacola (`api/checkout/pub/orderForms/simulation`), sem login, CEP 01310-100, em 15/11. Nenhum link de creator foi aberto.
+- **Campanha no ar:** November Glow. Progressivo nos itens regulares (10% com 1, 20% com 2, 25% com 3 ou mais), 20% em kits, 15% em duos, seleção com até 50% e brinde Body Cream Velvet Milano. O SKEMCASACOMCECILIA (regra "10% de desconto INBAZZ") entrou por cima em tudo.
+- **Avulsos (sacola → com o cupom):** Mousse, Bifásico e Água 107,91 → 97,12; Mousse Dark e Água Dark 64,95 → 58,45; Gel 49,45 → 44,51; Removedor 34,95 → 31,45; Luva 31,41 na sacola; body splashes regulares 89,91 → 80,92; Pink Sands, Grand Bahama, Milos Breeze e Kit Miniaturas Exotic Set 59,94 → 53,95 (40%); Perfume para Cabelos Amalfi 71,91 → 64,72.
+- **Kit × avulsos, com o cupom:** Kit Iniciante 94,25 × 111,46; Best Sellers 2025 237,46 × 239,35; Iniciante Dark 116,57 × 89,86; Perfume + Splash Amalfi 148,39 × 129,46; Hidratação Corporal Radiante & Perfumada 213,62 × 202,29; Duo + Creme para Mãos Hidden Flowers 165,15 × 157,07; Duo Hidden Flowers 151,40 × 143,86.
+- **Armadilha:** item de 50% no mesmo pedido desligou o progressivo dos regulares (Mousse + Gel 152,42 juntos, 141,63 separados).
+- **Brinde:** apareceu de 256,22 para cima e não em 237,46. O Kit Best Sellers tem brinde sem o cupom (263,84) e perde com ele (237,46); com um creme para mãos junto (261,15) volta.
+- **Frete:** grátis sem mínimo em São Paulo, Curitiba e Goiânia; Salvador 14,40 e Manaus 21,74 com um mousse; no N/NE, grátis com 202,29 e pago com 188,50.
+- **Mais vendidos:** ordenação `OrderByTopSaleDESC` do catálogo em 15/11 (Solar Muse, Perfume para Cabelos Amalfi, Hidden Flowers; Bifásico é o 1º autobronzeador). Sem números de venda.
+- **Não refeito:** Pix (a simulação não mostra); o texto mantém o teste de outubro. Kit Expert Bifásico ficou fora (conteúdo não conferido).
+- **Reler:** na semana de 27/11, com a campanha da sexta.
+- **Revisão Farol (15/11):** parecer em `docs/auditoria-copy-artigos/bf-skelt-bagaggio-20261115-farol/REVISAO-FAROL.md`, conferido e aplicado: pedidos separados com a diferença de R$ 10,79 antes do frete; sem "não mancham a roupa" na Água e no Gel; Pix marcado como teste de outubro; brinde em três situações do Kit Best Sellers; FAQ com os dois kits que ganham. Mantida a regra regional de frete, que é a da política da loja registrada em `/cupons/skelt` (sem mínimo no S/SE/CO, R$ 199 no N/NE), com as simulações como exemplo.
