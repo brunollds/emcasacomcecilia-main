@@ -720,6 +720,1023 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
   },
 };
 
+// Loja de link sem código nosso. Fora do PT a página não cita valor de frete nem prazo de devolução: os do PT
+// são do site brasileiro, e cada país tem os seus. O texto manda conferir na Temu.
+const TEMU_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
+  en: {
+    discount: 'Promotions',
+    offerTypeLabel: 'offer',
+    offerTypeLabelPlural: 'offers',
+    offerActionLabel: 'See offers on Temu',
+    category: 'Fashion, home, electronics and everyday items',
+    shortDescription: 'Cecília\'s link to the store\'s promotions',
+    longDescription:
+      'Em Casa com Cecília has no coupon for Temu: the button below opens the store through Cecília\'s link, with whatever promotions are live. The price and discount on each product are the ones Temu shows on the product page and in the cart.',
+    metaTitle: 'Temu: promotions through Cecília\'s link',
+    metaDescription:
+      'Cecília\'s link to Temu: opens the store with whatever promotions are live. No coupon from us; shipping and returns follow Temu\'s rules in your country.',
+    eligibleCategories: 'All Temu categories; each promotion applies to the products the store indicates',
+    validity: 'Promotions change without notice: the price Temu shows on the day you buy is what counts',
+    reusable: 'The link can be used on every purchase',
+    shipping: 'Shipping cost and delivery time appear in the cart and vary by country and order',
+    combinable: 'The link gives no discount of its own: the promotions Temu shows on the product page and in the cart apply',
+    aboutBrand:
+      'Temu is an international online store selling fashion, home goods, electronics and everyday items. This page gathers Cecília\'s link and explains how it works. Purchases made through the link may earn Em Casa com Cecília a commission, at no extra cost to the buyer.',
+    brandLogoAlt: 'Temu logo',
+    faqs: [
+      {
+        question: 'Does Cecília have a Temu coupon?',
+        answer:
+          'No. Em Casa com Cecília has a Temu affiliate link, not a coupon: the link opens the store with whatever promotions are live, and the discount on each product is whatever Temu shows.',
+      },
+      {
+        question: 'How much is shipping on Temu?',
+        answer:
+          'It depends on your country and the order value. Temu shows the shipping cost and delivery time in the cart, before you pay.',
+      },
+      {
+        question: 'How do returns work on Temu?',
+        answer:
+          'The return window and cost vary from country to country. Temu\'s return and refund policy for your country is in the site footer and in the app; check it before you buy.',
+      },
+      {
+        question: 'Do I need to copy a code to buy through the link?',
+        answer:
+          'No. Just open Temu with the button on this page and shop as usual. There is no code from us to paste into the cart.',
+      },
+      {
+        question: 'Does buying through the link earn Cecília a commission?',
+        answer:
+          'It may. Temu may pay Em Casa com Cecília a commission on purchases attributed to the link, at no extra cost to the buyer.',
+      },
+    ],
+    linkInstructions: [
+      'Tap “See offers on Temu”: Cecília\'s link opens the store, with nothing to copy.',
+      'Pick your products and check the price and promotion on each product page.',
+      'In the cart, check the shipping cost and delivery time for your address.',
+      'Check the final price, including shipping and taxes, before completing your purchase.',
+    ],
+    linkNote:
+      'Cecília\'s link gives no discount of its own and carries no code: the price and promotions are the ones Temu shows on the product page and in the cart.',
+  },
+  es: {
+    discount: 'Promociones',
+    offerTypeLabel: 'oferta',
+    offerTypeLabelPlural: 'ofertas',
+    offerActionLabel: 'Ver ofertas en Temu',
+    category: 'Moda, hogar, electrónica y artículos útiles',
+    shortDescription: 'enlace de Cecília a las promociones de la tienda',
+    longDescription:
+      'Em Casa com Cecília no tiene cupón de Temu: el botón de abajo abre la tienda con el enlace de Cecília, con las promociones que estén activas. El precio y el descuento de cada producto son los que Temu muestra en la página y en el carrito.',
+    metaTitle: 'Temu: promociones con el enlace de Cecília',
+    metaDescription:
+      'Enlace de Cecília a Temu: abre la tienda con las promociones activas. No hay cupón nuestro; el envío y la devolución siguen las reglas de Temu en tu país.',
+    eligibleCategories: 'Todas las categorías de Temu; cada promoción vale para los productos que indique la tienda',
+    validity: 'Las promociones cambian sin aviso: vale el precio que Temu muestra el día de la compra',
+    reusable: 'El enlace se puede usar en cualquier compra',
+    shipping: 'El envío y el plazo de entrega aparecen en el carrito y cambian según el país y el pedido',
+    combinable: 'El enlace no da un descuento propio: valen las promociones que Temu muestre en la página del producto y en el carrito',
+    aboutBrand:
+      'Temu es una tienda online internacional que vende moda, artículos para el hogar, electrónica y utilidades. Esta página reúne el enlace de Cecília y explica cómo funciona. Las compras hechas con el enlace pueden generar una comisión para Em Casa com Cecília, sin coste adicional para quien compra.',
+    brandLogoAlt: 'Logotipo de Temu',
+    faqs: [
+      {
+        question: '¿Cecília tiene un cupón de Temu?',
+        answer:
+          'No. Em Casa com Cecília tiene un enlace de afiliado de Temu, no un cupón: el enlace abre la tienda con las promociones que estén activas, y el descuento de cada producto es el que muestra Temu.',
+      },
+      {
+        question: '¿Cuánto cuesta el envío en Temu?',
+        answer:
+          'Depende del país y del importe del pedido. Temu muestra el coste del envío y el plazo de entrega en el carrito, antes del pago.',
+      },
+      {
+        question: '¿Cómo funcionan las devoluciones en Temu?',
+        answer:
+          'El plazo y el coste de la devolución cambian de un país a otro. La política de devolución y reembolso de Temu para tu país está al pie del sitio y en la app; consúltala antes de comprar.',
+      },
+      {
+        question: '¿Tengo que copiar algún código para comprar con el enlace?',
+        answer:
+          'No. Basta con abrir Temu con el botón de esta página y comprar con normalidad. No hay ningún código nuestro que pegar en el carrito.',
+      },
+      {
+        question: '¿Comprar con el enlace genera una comisión para Cecília?',
+        answer:
+          'Puede generarla. Temu puede pagar una comisión a Em Casa com Cecília por las compras atribuidas al enlace, sin coste adicional para quien compra.',
+      },
+    ],
+    linkInstructions: [
+      'Pulsa «Ver ofertas en Temu»: el enlace de Cecília abre la tienda, sin copiar nada.',
+      'Elige los productos y comprueba el precio y la promoción de cada uno en su página.',
+      'En el carrito, mira el envío y el plazo de entrega para tu dirección.',
+      'Comprueba el importe final, con envío e impuestos, antes de completar la compra.',
+    ],
+    linkNote:
+      'El enlace de Cecília no da un descuento propio ni lleva código: el precio y las promociones son los que Temu muestra en la página del producto y en el carrito.',
+  },
+  fr: {
+    discount: 'Promotions',
+    offerTypeLabel: 'offre',
+    offerTypeLabelPlural: 'offres',
+    offerActionLabel: 'Voir les offres Temu',
+    category: 'Mode, maison, électronique et accessoires pratiques',
+    shortDescription: 'lien de Cecília vers les promotions de la boutique',
+    longDescription:
+      'Em Casa com Cecília n\'a pas de code promo pour Temu\u00a0: le bouton ci-dessous ouvre la boutique via le lien de Cecília, avec les promotions en cours. Le prix et la réduction de chaque produit sont ceux que Temu affiche sur la page et dans le panier.',
+    metaTitle: 'Temu\u00a0: promotions via le lien de Cecília',
+    metaDescription:
+      'Lien de Cecília vers Temu\u00a0: ouvre la boutique avec les promotions en cours. Pas de code promo de notre part, livraison et retours selon les règles de Temu.',
+    eligibleCategories: 'Toutes les catégories de Temu\u00a0; chaque promotion s\'applique aux produits indiqués par la boutique',
+    validity: 'Les promotions changent sans préavis\u00a0: c\'est le prix affiché par Temu le jour de l\'achat qui compte',
+    reusable: 'Le lien peut être utilisé pour tous vos achats',
+    shipping: 'Les frais et le délai de livraison s\'affichent dans le panier et varient selon le pays et la commande',
+    combinable: 'Le lien ne donne pas de réduction propre\u00a0: les promotions affichées par Temu sur la page du produit et dans le panier s\'appliquent',
+    aboutBrand:
+      'Temu est une boutique en ligne internationale qui vend de la mode, des articles pour la maison, de l\'électronique et des accessoires pratiques. Cette page réunit le lien de Cecília et explique son fonctionnement. Les achats effectués via le lien peuvent rapporter une commission à Em Casa com Cecília, sans surcoût pour l\'acheteur.',
+    brandLogoAlt: 'Logo Temu',
+    faqs: [
+      {
+        question: 'Cecília a-t-elle un code promo Temu\u00a0?',
+        answer:
+          'Non. Em Casa com Cecília dispose d\'un lien d\'affiliation Temu, pas d\'un code promo\u00a0: le lien ouvre la boutique avec les promotions en cours, et la réduction de chaque produit est celle qu\'affiche Temu.',
+      },
+      {
+        question: 'Combien coûte la livraison sur Temu\u00a0?',
+        answer:
+          'Cela dépend du pays et du montant de la commande. Temu affiche les frais et le délai de livraison dans le panier, avant le paiement.',
+      },
+      {
+        question: 'Comment fonctionnent les retours sur Temu\u00a0?',
+        answer:
+          'Le délai et le coût du retour varient d\'un pays à l\'autre. La politique de retour et de remboursement de Temu pour votre pays se trouve en bas du site et dans l\'appli. Consultez-la avant d\'acheter.',
+      },
+      {
+        question: 'Dois-je copier un code pour acheter via le lien\u00a0?',
+        answer:
+          'Non. Il suffit d\'ouvrir Temu avec le bouton de cette page et d\'acheter normalement. Il n\'y a aucun code de notre part à coller dans le panier.',
+      },
+      {
+        question: 'Acheter via le lien rapporte-t-il une commission à Cecília\u00a0?',
+        answer:
+          'C\'est possible. Temu peut verser une commission à Em Casa com Cecília pour les achats attribués au lien, sans surcoût pour l\'acheteur.',
+      },
+    ],
+    linkInstructions: [
+      'Appuyez sur «\u00a0Voir les offres Temu\u00a0»\u00a0: le lien de Cecília ouvre la boutique, sans rien copier.',
+      'Choisissez vos produits et vérifiez le prix et la promotion de chacun sur sa page.',
+      'Dans le panier, consultez les frais et le délai de livraison pour votre adresse.',
+      'Vérifiez le montant final, frais de livraison et taxes compris, avant de finaliser l\'achat.',
+    ],
+    linkNote:
+      'Le lien de Cecília ne donne pas de réduction propre et ne comporte aucun code\u00a0: le prix et les promotions sont ceux qu\'affiche Temu sur la page du produit et dans le panier.',
+  },
+  de: {
+    discount: 'Aktionen',
+    offerTypeLabel: 'Angebot',
+    offerTypeLabelPlural: 'Angebote',
+    offerActionLabel: 'Angebote bei Temu ansehen',
+    category: 'Mode, Wohnen, Elektronik und Alltagsartikel',
+    shortDescription: 'Cecílias Link zu den Aktionen des Shops',
+    longDescription:
+      'Em Casa com Cecília hat keinen Gutscheincode für Temu: Der Button unten öffnet den Shop über Cecílias Link, mit den aktuellen Aktionen. Preis und Rabatt jedes Produkts sind die, die Temu auf der Produktseite und im Warenkorb anzeigt.',
+    metaTitle: 'Temu: Aktionen über Cecílias Link',
+    metaDescription:
+      'Cecílias Link zu Temu: öffnet den Shop mit den aktuellen Aktionen. Kein Gutscheincode von uns; Versand und Rückgabe richten sich nach den Regeln von Temu.',
+    eligibleCategories: 'Alle Kategorien von Temu; jede Aktion gilt für die Produkte, die der Shop angibt',
+    validity: 'Aktionen ändern sich ohne Vorankündigung: Es gilt der Preis, den Temu am Kauftag anzeigt',
+    reusable: 'Der Link kann bei jedem Einkauf genutzt werden',
+    shipping: 'Versandkosten und Lieferzeit stehen im Warenkorb und hängen von Land und Bestellung ab',
+    combinable: 'Der Link gibt keinen eigenen Rabatt: Es gelten die Aktionen, die Temu auf der Produktseite und im Warenkorb anzeigt',
+    aboutBrand:
+      'Temu ist ein internationaler Online-Shop für Mode, Wohnartikel, Elektronik und Alltagsartikel. Diese Seite bündelt Cecílias Link und erklärt, wie er funktioniert. Käufe über den Link können Em Casa com Cecília eine Provision einbringen – ohne Mehrkosten für dich.',
+    brandLogoAlt: 'Temu-Logo',
+    faqs: [
+      {
+        question: 'Hat Cecília einen Gutscheincode für Temu?',
+        answer:
+          'Nein. Em Casa com Cecília hat einen Partnerlink zu Temu, keinen Gutscheincode: Der Link öffnet den Shop mit den aktuellen Aktionen, und den Rabatt auf jedes Produkt legt Temu fest.',
+      },
+      {
+        question: 'Wie hoch sind die Versandkosten bei Temu?',
+        answer:
+          'Das hängt vom Land und vom Bestellwert ab. Temu zeigt Versandkosten und Lieferzeit im Warenkorb an, bevor du bezahlst.',
+      },
+      {
+        question: 'Wie funktioniert die Rückgabe bei Temu?',
+        answer:
+          'Frist und Kosten der Rückgabe sind von Land zu Land verschieden. Die Rückgabe- und Erstattungsrichtlinie von Temu für dein Land findest du im Footer der Website und in der App; lies sie vor dem Kauf.',
+      },
+      {
+        question: 'Muss ich einen Code kopieren, um über den Link zu kaufen?',
+        answer:
+          'Nein. Öffne einfach Temu über den Button auf dieser Seite und kaufe wie gewohnt. Es gibt keinen Code von uns, den du im Warenkorb einfügen musst.',
+      },
+      {
+        question: 'Bekommt Cecília eine Provision, wenn ich über den Link kaufe?',
+        answer:
+          'Das ist möglich. Temu kann Em Casa com Cecília eine Provision für Käufe zahlen, die dem Link zugeordnet werden – ohne Mehrkosten für dich.',
+      },
+    ],
+    linkInstructions: [
+      'Tippe auf „Angebote bei Temu ansehen“: Cecílias Link öffnet den Shop, du musst nichts kopieren.',
+      'Wähle deine Produkte und prüfe Preis und Aktion auf der jeweiligen Produktseite.',
+      'Sieh dir im Warenkorb Versandkosten und Lieferzeit für deine Adresse an.',
+      'Prüfe den Endbetrag samt Versand und Steuern, bevor du den Kauf abschließt.',
+    ],
+    linkNote:
+      'Cecílias Link gibt keinen eigenen Rabatt und enthält keinen Code: Preis und Aktionen sind die, die Temu auf der Produktseite und im Warenkorb anzeigt.',
+  },
+  it: {
+    discount: 'Promozioni',
+    offerTypeLabel: 'offerta',
+    offerTypeLabelPlural: 'offerte',
+    offerActionLabel: 'Vedi le offerte Temu',
+    category: 'Moda, casa, elettronica e articoli di uso quotidiano',
+    shortDescription: 'link di Cecília per le promozioni del negozio',
+    longDescription:
+      'Em Casa com Cecília non ha un coupon per Temu: il pulsante qui sotto apre il negozio con il link di Cecília, con le promozioni in corso. Il prezzo e lo sconto di ogni prodotto sono quelli che Temu mostra nella pagina e nel carrello.',
+    metaTitle: 'Temu: promozioni con il link di Cecília',
+    metaDescription:
+      'Link di Cecília per Temu: apre il negozio con le promozioni in corso. Nessun coupon nostro; spedizione e resi seguono le regole di Temu nel tuo paese.',
+    eligibleCategories: 'Tutte le categorie di Temu; ogni promozione vale per i prodotti indicati dal negozio',
+    validity: 'Le promozioni cambiano senza preavviso: vale il prezzo che Temu mostra il giorno dell\'acquisto',
+    reusable: 'Il link può essere usato a ogni acquisto',
+    shipping: 'La spedizione e i tempi di consegna compaiono nel carrello e cambiano in base al paese e all\'ordine',
+    combinable: 'Il link non dà uno sconto proprio: valgono le promozioni che Temu mostra nella pagina del prodotto e nel carrello',
+    aboutBrand:
+      'Temu è un negozio online internazionale che vende moda, articoli per la casa, elettronica e articoli di uso quotidiano. Questa pagina raccoglie il link di Cecília e spiega come funziona. Gli acquisti fatti con il link possono generare una commissione per Em Casa com Cecília, senza costi aggiuntivi per chi compra.',
+    brandLogoAlt: 'Logo Temu',
+    faqs: [
+      {
+        question: 'Cecília ha un coupon Temu?',
+        answer:
+          'No. Em Casa com Cecília ha un link di affiliazione Temu, non un coupon: il link apre il negozio con le promozioni in corso, e lo sconto di ogni prodotto è quello che mostra Temu.',
+      },
+      {
+        question: 'Quanto costa la spedizione su Temu?',
+        answer:
+          'Dipende dal paese e dal valore dell\'ordine. Temu mostra il costo della spedizione e i tempi di consegna nel carrello, prima del pagamento.',
+      },
+      {
+        question: 'Come funzionano i resi su Temu?',
+        answer:
+          'Il termine e il costo del reso cambiano da paese a paese. La politica di reso e rimborso di Temu per il tuo paese si trova in fondo al sito e nell\'app; controllala prima di comprare.',
+      },
+      {
+        question: 'Devo copiare un codice per comprare dal link?',
+        answer:
+          'No. Basta aprire Temu con il pulsante di questa pagina e comprare come al solito. Non c\'è nessun codice nostro da incollare nel carrello.',
+      },
+      {
+        question: 'Comprare dal link genera una commissione per Cecília?',
+        answer:
+          'Può succedere. Temu può pagare una commissione a Em Casa com Cecília per gli acquisti attribuiti al link, senza costi aggiuntivi per chi compra.',
+      },
+    ],
+    linkInstructions: [
+      'Tocca “Vedi le offerte Temu”: il link di Cecília apre il negozio, senza copiare nulla.',
+      'Scegli i prodotti e controlla il prezzo e la promozione di ciascuno nella sua pagina.',
+      'Nel carrello, guarda la spedizione e i tempi di consegna per il tuo indirizzo.',
+      'Controlla l\'importo finale, con spedizione e tasse, prima di completare l\'acquisto.',
+    ],
+    linkNote:
+      'Il link di Cecília non dà uno sconto proprio e non ha codici: il prezzo e le promozioni sono quelli che Temu mostra nella pagina del prodotto e nel carrello.',
+  },
+  ko: {
+    discount: '프로모션',
+    offerTypeLabel: '혜택',
+    offerTypeLabelPlural: '혜택',
+    offerActionLabel: 'Temu 혜택 보기',
+    category: '패션, 홈, 전자제품, 생활용품',
+    shortDescription: '스토어 프로모션으로 연결되는 Cecília의 링크',
+    longDescription:
+      'Em Casa com Cecília에는 Temu 쿠폰이 없습니다. 아래 버튼은 Cecília의 링크로 진행 중인 프로모션과 함께 스토어를 엽니다. 상품별 가격과 할인은 Temu가 상품 페이지와 장바구니에 표시하는 대로입니다.',
+    metaTitle: 'Temu: Cecília 링크로 만나는 프로모션',
+    metaDescription:
+      'Cecília의 Temu 링크: 진행 중인 프로모션과 함께 스토어가 열립니다. 쿠폰은 없으며 배송·반품은 Temu 규정을 따릅니다.',
+    eligibleCategories: 'Temu의 모든 카테고리. 프로모션별 적용 상품은 스토어가 안내하는 대로입니다',
+    validity: '프로모션은 예고 없이 바뀝니다. 구매하는 날 Temu에 표시된 가격이 기준입니다',
+    reusable: '링크는 구매할 때마다 사용할 수 있습니다',
+    shipping: '배송비와 배송 기간은 장바구니에 표시되며 국가와 주문에 따라 다릅니다',
+    combinable: '링크 자체의 할인은 없으며, Temu 상품 페이지와 장바구니에 표시되는 프로모션이 적용됩니다',
+    aboutBrand:
+      'Temu는 패션, 홈 용품, 전자제품, 생활용품을 파는 글로벌 온라인 스토어입니다. 이 페이지에는 Cecília의 링크와 사용 방법을 정리했습니다. 링크로 구매하면 Em Casa com Cecília가 수수료를 받을 수 있으며, 구매자에게 추가 비용은 없습니다.',
+    brandLogoAlt: 'Temu 로고',
+    faqs: [
+      {
+        question: 'Cecília에게 Temu 쿠폰이 있나요?',
+        answer:
+          '아니요. Em Casa com Cecília에는 Temu 쿠폰이 아니라 제휴 링크가 있습니다. 링크를 누르면 진행 중인 프로모션과 함께 스토어가 열리며, 상품별 할인은 Temu에 표시된 대로입니다.',
+      },
+      {
+        question: 'Temu 배송비는 얼마인가요?',
+        answer:
+          '국가와 주문 금액에 따라 다릅니다. Temu는 결제 전에 장바구니에서 배송비와 배송 기간을 보여 줍니다.',
+      },
+      {
+        question: 'Temu 반품은 어떻게 하나요?',
+        answer:
+          '반품 기간과 비용은 국가마다 다릅니다. 해당 국가의 Temu 반품·환불 정책은 사이트 하단과 앱에서 확인할 수 있으니 구매 전에 확인하세요.',
+      },
+      {
+        question: '링크로 구매할 때 코드를 복사해야 하나요?',
+        answer:
+          '아니요. 이 페이지의 버튼으로 Temu를 연 뒤 평소처럼 구매하면 됩니다. 장바구니에 붙여 넣을 코드는 없습니다.',
+      },
+      {
+        question: '링크로 구매하면 Cecília가 수수료를 받나요?',
+        answer:
+          '받을 수 있습니다. Temu는 링크로 연결된 구매에 대해 Em Casa com Cecília에 수수료를 지급할 수 있으며, 구매자에게 추가 비용은 없습니다.',
+      },
+    ],
+    linkInstructions: [
+      '“Temu 혜택 보기”를 누르세요. Cecília의 링크로 스토어가 열리며, 복사할 것은 없습니다.',
+      '상품을 고르고 각 상품 페이지에서 가격과 프로모션을 확인하세요.',
+      '장바구니에서 내 주소로 가는 배송비와 배송 기간을 확인하세요.',
+      '구매를 완료하기 전에 배송비와 세금을 포함한 최종 금액을 확인하세요.',
+    ],
+    linkNote:
+      'Cecília의 링크에는 자체 할인도 코드도 없습니다. 가격과 프로모션은 Temu 상품 페이지와 장바구니에 표시되는 내용을 따릅니다.',
+  },
+  ja: {
+    discount: 'セール',
+    offerTypeLabel: 'オファー',
+    offerTypeLabelPlural: 'オファー',
+    offerActionLabel: 'Temu のオファーを見る',
+    category: 'ファッション、インテリア、家電、日用品',
+    shortDescription: 'ストアのプロモーションへの Cecília のリンク',
+    longDescription:
+      'Em Casa com Cecília に Temu のクーポンはありません。下のボタンから Cecília のリンクで、開催中のプロモーションとともにストアが開きます。各商品の価格と割引は、Temu が商品ページとカートに表示するとおりです。',
+    metaTitle: 'Temu：Cecília のリンクのプロモーション',
+    metaDescription:
+      'Cecília の Temu リンクで、開催中のプロモーションとともにストアが開きます。クーポンはなく、送料と返品は Temu の規定に従います。',
+    eligibleCategories: 'Temu のすべてのカテゴリー。プロモーションごとの対象商品はストアの案内に従います',
+    validity: 'プロモーションは予告なく変わります。購入日に Temu が表示する価格が適用されます',
+    reusable: 'リンクは購入のたびに使えます',
+    shipping: '送料と配送日数はカートに表示され、国と注文内容によって変わります',
+    combinable: 'リンク自体に割引はありません。Temu が商品ページとカートに表示するプロモーションが適用されます',
+    aboutBrand:
+      'Temu は、ファッション、インテリア雑貨、家電、日用品を扱う国際的なオンラインストアです。このページでは Cecília のリンクと使い方をまとめています。リンクから購入すると Em Casa com Cecília に報酬が入ることがありますが、購入者の追加負担はありません。',
+    brandLogoAlt: 'Temu のロゴ',
+    faqs: [
+      {
+        question: 'Cecília に Temu のクーポンはありますか？',
+        answer:
+          'いいえ。Em Casa com Cecília にあるのはクーポンではなく Temu のアフィリエイトリンクです。リンクから開催中のプロモーションとともにストアが開き、各商品の割引は Temu の表示のとおりです。',
+      },
+      {
+        question: 'Temu の送料はいくらですか？',
+        answer:
+          '国と注文金額によって異なります。Temu は支払い前に、カートで送料と配送日数を表示します。',
+      },
+      {
+        question: 'Temu の返品はどうなりますか？',
+        answer:
+          '返品の期間と費用は国によって異なります。お住まいの国の Temu の返品・返金ポリシーは、サイト下部とアプリで確認できます。購入前にご確認ください。',
+      },
+      {
+        question: 'リンクから購入するとき、コードをコピーする必要はありますか？',
+        answer:
+          'いいえ。このページのボタンから Temu を開き、いつもどおり購入するだけです。カートに貼り付ける当サイトのコードはありません。',
+      },
+      {
+        question: 'リンクから購入すると Cecília に報酬が入りますか？',
+        answer:
+          '入る場合があります。リンク経由の購入について、Temu が Em Casa com Cecília に報酬を支払うことがありますが、購入者の追加負担はありません。',
+      },
+    ],
+    linkInstructions: [
+      '「Temu のオファーを見る」をタップします。Cecília のリンクでストアが開くので、コピーするものはありません。',
+      '商品を選び、各商品ページで価格とプロモーションを確認します。',
+      'カートで、ご自分の住所への送料と配送日数を確認します。',
+      '購入を確定する前に、送料と税金を含めた最終金額を確認します。',
+    ],
+    linkNote:
+      'Cecília のリンクに独自の割引やコードはありません。価格とプロモーションは、Temu が商品ページとカートに表示するものです。',
+  },
+  'zh-hant': {
+    discount: '促銷',
+    offerTypeLabel: '優惠',
+    offerTypeLabelPlural: '優惠',
+    offerActionLabel: '查看 Temu 優惠',
+    category: '時裝、家居、電子產品及日用品',
+    shortDescription: 'Cecília 的商店促銷連結',
+    longDescription:
+      'Em Casa com Cecília 沒有 Temu 的優惠碼：下方按鈕會透過 Cecília 的連結開啟商店，並帶出進行中的促銷。每件商品的價格和折扣，以 Temu 在商品頁面和購物車顯示的為準。',
+    metaTitle: 'Temu：Cecília 連結的促銷',
+    metaDescription:
+      'Cecília 的 Temu 連結會開啟商店並帶出進行中的促銷。我們沒有優惠碼，運費和退貨依 Temu 的規定。',
+    eligibleCategories: 'Temu 的所有類別；各項促銷適用的商品以商店標示為準',
+    validity: '促銷可能隨時變動，請以購買當天 Temu 顯示的價格為準',
+    reusable: '連結可用於每一次購物',
+    shipping: '運費和送貨時間會顯示在購物車，因國家或地區和訂單而異',
+    combinable: '連結本身不提供折扣，適用的是 Temu 在商品頁面和購物車顯示的促銷',
+    aboutBrand:
+      'Temu 是國際網上商店，販售時裝、家居用品、電子產品及日用品。此頁面整合了 Cecília 的連結並說明其運作方式。透過連結購物，Em Casa com Cecília 可能會獲得佣金，買家無需支付額外費用。',
+    brandLogoAlt: 'Temu 標誌',
+    faqs: [
+      {
+        question: 'Cecília 有 Temu 的優惠碼嗎？',
+        answer:
+          '沒有。Em Casa com Cecília 提供的是 Temu 的聯盟連結，不是優惠碼：連結會開啟商店並帶出進行中的促銷，每件商品的折扣以 Temu 顯示的為準。',
+      },
+      {
+        question: 'Temu 的運費是多少？',
+        answer:
+          '視乎國家或地區和訂單金額而定。Temu 會在付款前於購物車顯示運費和送貨時間。',
+      },
+      {
+        question: 'Temu 如何退貨？',
+        answer:
+          '退貨期限和費用因國家或地區而異。Temu 針對你所在國家或地區的退貨及退款政策，可在網站底部和 App 查看，購買前請先確認。',
+      },
+      {
+        question: '透過連結購物需要複製代碼嗎？',
+        answer:
+          '不需要。只要點擊本頁的按鈕開啟 Temu，照常購物即可。我們沒有需要貼到購物車的代碼。',
+      },
+      {
+        question: '透過連結購物，Cecília 會獲得佣金嗎？',
+        answer:
+          '有可能。Temu 可能會就歸因於連結的訂單向 Em Casa com Cecília 支付佣金，買家無需支付額外費用。',
+      },
+    ],
+    linkInstructions: [
+      '點選「查看 Temu 優惠」：Cecília 的連結會開啟商店，無需複製任何內容。',
+      '選好商品，在各商品頁面確認價格和促銷。',
+      '在購物車查看寄往你地址的運費和送貨時間。',
+      '完成購買前，請確認包含運費和稅項的最終金額。',
+    ],
+    linkNote:
+      'Cecília 的連結本身不提供折扣，也沒有代碼：價格和促銷以 Temu 在商品頁面和購物車顯示的為準。',
+  },
+  'zh-hans': {
+    discount: '促销',
+    offerTypeLabel: '优惠',
+    offerTypeLabelPlural: '优惠',
+    offerActionLabel: '查看 Temu 优惠',
+    category: '服饰、家居、电子产品和日用品',
+    shortDescription: 'Cecília 的商店促销链接',
+    longDescription:
+      'Em Casa com Cecília 没有 Temu 的优惠码：下方按钮会通过 Cecília 的链接打开商店，并带出进行中的促销。每件商品的价格和折扣，以 Temu 在商品页面和购物车显示的为准。',
+    metaTitle: 'Temu：Cecília 链接的促销',
+    metaDescription:
+      'Cecília 的 Temu 链接会打开商店并带出进行中的促销。我们没有优惠码，运费和退货以 Temu 的规定为准。',
+    eligibleCategories: 'Temu 的所有品类；各项促销适用的商品以商店标示为准',
+    validity: '促销可能随时变动，请以购买当天 Temu 显示的价格为准',
+    reusable: '链接可用于每一次购物',
+    shipping: '运费和送达时间会显示在购物车，因国家或地区和订单而异',
+    combinable: '链接本身不提供折扣，适用的是 Temu 在商品页面和购物车显示的促销',
+    aboutBrand:
+      'Temu 是国际网上商店，销售服饰、家居用品、电子产品和日用品。本页汇总了 Cecília 的链接并说明其运作方式。通过链接购物，Em Casa com Cecília 可能会获得佣金，买家无需支付额外费用。',
+    brandLogoAlt: 'Temu 标志',
+    faqs: [
+      {
+        question: 'Cecília 有 Temu 的优惠码吗？',
+        answer:
+          '没有。Em Casa com Cecília 提供的是 Temu 的联盟链接，不是优惠码：链接会打开商店并带出进行中的促销，每件商品的折扣以 Temu 显示的为准。',
+      },
+      {
+        question: 'Temu 的运费是多少？',
+        answer:
+          '视国家或地区和订单金额而定。Temu 会在付款前于购物车显示运费和送达时间。',
+      },
+      {
+        question: 'Temu 如何退货？',
+        answer:
+          '退货期限和费用因国家或地区而异。Temu 针对你所在国家或地区的退货和退款政策，可在网站底部和 App 查看，购买前请先确认。',
+      },
+      {
+        question: '通过链接购物需要复制代码吗？',
+        answer:
+          '不需要。只要点击本页的按钮打开 Temu，照常购物即可。我们没有需要粘贴到购物车的代码。',
+      },
+      {
+        question: '通过链接购物，Cecília 会获得佣金吗？',
+        answer:
+          '有可能。Temu 可能会就归因于链接的订单向 Em Casa com Cecília 支付佣金，买家无需支付额外费用。',
+      },
+    ],
+    linkInstructions: [
+      '点击“查看 Temu 优惠”：Cecília 的链接会打开商店，无需复制任何内容。',
+      '选好商品，在各商品页面确认价格和促销。',
+      '在购物车查看寄往你地址的运费和送达时间。',
+      '完成购买前，请确认包含运费和税费的最终金额。',
+    ],
+    linkNote:
+      'Cecília 的链接本身不提供折扣，也没有代码：价格和促销以 Temu 在商品页面和购物车显示的为准。',
+  },
+};
+
+// Como a Temu: link sem código, sem valor de frete nem prazo de devolução, que mudam por país e por vendedor.
+const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
+  en: {
+    discount: 'Promotions',
+    offerTypeLabel: 'offer',
+    offerTypeLabelPlural: 'offers',
+    offerActionLabel: 'See offers on AliExpress',
+    category: 'Electronics, fashion, home and accessories',
+    shortDescription: 'Cecília\'s link to the store\'s promotions',
+    longDescription:
+      'Em Casa com Cecília has no coupon for AliExpress: the button below opens the store through Cecília\'s link, with whatever promotions are live. The price, shipping and delivery time of each product are the ones AliExpress shows on its page.',
+    metaTitle: 'AliExpress: promotions through Cecília\'s link',
+    metaDescription:
+      'Cecília\'s link to AliExpress: opens the store with whatever promotions are live. No coupon from us; shipping and returns vary by seller and country.',
+    eligibleCategories: 'All AliExpress categories; each promotion applies to the products the store indicates',
+    validity: 'Promotions change without notice: the price AliExpress shows on the day you buy is what counts',
+    reusable: 'The link can be used on every purchase',
+    shipping: 'Shipping cost and delivery time appear on each product page and vary by seller and country',
+    combinable: 'The link gives no discount of its own: the promotions AliExpress shows on the product page and in the cart apply',
+    aboutBrand:
+      'AliExpress is an international marketplace from the Alibaba group, where sellers from many countries list electronics, fashion, home goods and accessories. This page gathers Cecília\'s link and explains how it works. Purchases made through the link may earn Em Casa com Cecília a commission, at no extra cost to the buyer.',
+    brandLogoAlt: 'AliExpress logo',
+    faqs: [
+      {
+        question: 'Does Cecília have a AliExpress coupon?',
+        answer:
+          'No. Em Casa com Cecília has a AliExpress affiliate link, not a coupon: the link opens the store with whatever promotions are live, and the discount on each product is whatever AliExpress shows.',
+      },
+      {
+        question: 'How much is shipping on AliExpress?',
+        answer:
+          'It depends on the product. AliExpress is a marketplace: each listing shows the shipping cost and estimated delivery date on its own page, and both vary by seller and country.',
+      },
+      {
+        question: 'How do returns work on AliExpress?',
+        answer:
+          'The return window varies by country and seller type. AliExpress\'s return and refund policy sets out the rule for each country; also check the return conditions on the product page.',
+      },
+      {
+        question: 'Do I need to copy a code to buy through the link?',
+        answer:
+          'No. Just open AliExpress with the button on this page and shop as usual. There is no code from us to paste into the cart.',
+      },
+      {
+        question: 'Does buying through the link earn Cecília a commission?',
+        answer:
+          'It may. AliExpress may pay Em Casa com Cecília a commission on purchases attributed to the link, at no extra cost to the buyer.',
+      },
+    ],
+    linkInstructions: [
+      'Tap “See offers on AliExpress”: Cecília\'s link opens the store, with nothing to copy.',
+      'Pick your products and check the price, shipping cost and estimated delivery date on each product page.',
+      'Check the seller\'s reputation and the listing\'s return rules.',
+      'Check the final price, including shipping and taxes, before completing your purchase.',
+    ],
+    linkNote:
+      'Cecília\'s link gives no discount of its own and carries no code: the price and promotions are the ones AliExpress shows on the product page and in the cart.',
+  },
+  es: {
+    discount: 'Promociones',
+    offerTypeLabel: 'oferta',
+    offerTypeLabelPlural: 'ofertas',
+    offerActionLabel: 'Ver ofertas en AliExpress',
+    category: 'Electrónica, moda, hogar y accesorios',
+    shortDescription: 'enlace de Cecília a las promociones de la tienda',
+    longDescription:
+      'Em Casa com Cecília no tiene cupón de AliExpress: el botón de abajo abre la tienda con el enlace de Cecília, con las promociones que estén activas. El precio, el envío y el plazo de cada producto son los que AliExpress muestra en su página.',
+    metaTitle: 'AliExpress: promociones con el enlace de Cecília',
+    metaDescription:
+      'Enlace de Cecília a AliExpress: abre la tienda con las promociones activas. No hay cupón nuestro; envío y devolución cambian según el vendedor y el país.',
+    eligibleCategories: 'Todas las categorías de AliExpress; cada promoción vale para los productos que indique la tienda',
+    validity: 'Las promociones cambian sin aviso: vale el precio que AliExpress muestra el día de la compra',
+    reusable: 'El enlace se puede usar en cualquier compra',
+    shipping: 'El envío y el plazo de entrega aparecen en la página de cada producto y cambian según el vendedor y el país',
+    combinable: 'El enlace no da un descuento propio: valen las promociones que AliExpress muestre en la página del producto y en el carrito',
+    aboutBrand:
+      'AliExpress es un marketplace internacional del grupo Alibaba, donde vendedores de varios países anuncian electrónica, moda, artículos para el hogar y accesorios. Esta página reúne el enlace de Cecília y explica cómo funciona. Las compras hechas con el enlace pueden generar una comisión para Em Casa com Cecília, sin coste adicional para quien compra.',
+    brandLogoAlt: 'Logotipo de AliExpress',
+    faqs: [
+      {
+        question: '¿Cecília tiene un cupón de AliExpress?',
+        answer:
+          'No. Em Casa com Cecília tiene un enlace de afiliado de AliExpress, no un cupón: el enlace abre la tienda con las promociones que estén activas, y el descuento de cada producto es el que muestra AliExpress.',
+      },
+      {
+        question: '¿Cuánto cuesta el envío en AliExpress?',
+        answer:
+          'Depende del producto. AliExpress es un marketplace: cada anuncio muestra el envío y la fecha estimada de entrega en su propia página, y ambos cambian según el vendedor y el país.',
+      },
+      {
+        question: '¿Cómo funcionan las devoluciones en AliExpress?',
+        answer:
+          'El plazo de devolución cambia según el país y el tipo de vendedor. La política de devolución y reembolso de AliExpress recoge la regla de cada país; consulta también las condiciones de devolución en la página del producto.',
+      },
+      {
+        question: '¿Tengo que copiar algún código para comprar con el enlace?',
+        answer:
+          'No. Basta con abrir AliExpress con el botón de esta página y comprar con normalidad. No hay ningún código nuestro que pegar en el carrito.',
+      },
+      {
+        question: '¿Comprar con el enlace genera una comisión para Cecília?',
+        answer:
+          'Puede generarla. AliExpress puede pagar una comisión a Em Casa com Cecília por las compras atribuidas al enlace, sin coste adicional para quien compra.',
+      },
+    ],
+    linkInstructions: [
+      'Pulsa «Ver ofertas en AliExpress»: el enlace de Cecília abre la tienda, sin copiar nada.',
+      'Elige los productos y comprueba el precio, el envío y la fecha estimada de entrega en la página de cada uno.',
+      'Mira la reputación del vendedor y las reglas de devolución del anuncio.',
+      'Comprueba el importe final, con envío e impuestos, antes de completar la compra.',
+    ],
+    linkNote:
+      'El enlace de Cecília no da un descuento propio ni lleva código: el precio y las promociones son los que AliExpress muestra en la página del producto y en el carrito.',
+  },
+  fr: {
+    discount: 'Promotions',
+    offerTypeLabel: 'offre',
+    offerTypeLabelPlural: 'offres',
+    offerActionLabel: 'Voir les offres AliExpress',
+    category: 'Électronique, mode, maison et accessoires',
+    shortDescription: 'lien de Cecília vers les promotions de la boutique',
+    longDescription:
+      'Em Casa com Cecília n\'a pas de code promo pour AliExpress\u00a0: le bouton ci-dessous ouvre la boutique via le lien de Cecília, avec les promotions en cours. Le prix, la livraison et le délai de chaque produit sont ceux qu\'AliExpress affiche sur sa page.',
+    metaTitle: 'AliExpress\u00a0: promotions via le lien de Cecília',
+    metaDescription:
+      'Lien de Cecília vers AliExpress\u00a0: ouvre la boutique avec les promotions en cours. Pas de code promo de notre part, livraison et retours selon le vendeur.',
+    eligibleCategories: 'Toutes les catégories de AliExpress\u00a0; chaque promotion s\'applique aux produits indiqués par la boutique',
+    validity: 'Les promotions changent sans préavis\u00a0: c\'est le prix affiché par AliExpress le jour de l\'achat qui compte',
+    reusable: 'Le lien peut être utilisé pour tous vos achats',
+    shipping: 'Les frais et le délai de livraison s\'affichent sur la page de chaque produit et varient selon le vendeur et le pays',
+    combinable: 'Le lien ne donne pas de réduction propre\u00a0: les promotions affichées par AliExpress sur la page du produit et dans le panier s\'appliquent',
+    aboutBrand:
+      'AliExpress est une place de marché internationale du groupe Alibaba, où des vendeurs de plusieurs pays proposent de l\'électronique, de la mode, des articles pour la maison et des accessoires. Cette page réunit le lien de Cecília et explique son fonctionnement. Les achats effectués via le lien peuvent rapporter une commission à Em Casa com Cecília, sans surcoût pour l\'acheteur.',
+    brandLogoAlt: 'Logo AliExpress',
+    faqs: [
+      {
+        question: 'Cecília a-t-elle un code promo AliExpress\u00a0?',
+        answer:
+          'Non. Em Casa com Cecília dispose d\'un lien d\'affiliation AliExpress, pas d\'un code promo\u00a0: le lien ouvre la boutique avec les promotions en cours, et la réduction de chaque produit est celle qu\'affiche AliExpress.',
+      },
+      {
+        question: 'Combien coûte la livraison sur AliExpress\u00a0?',
+        answer:
+          'Cela dépend du produit. AliExpress est une place de marché\u00a0: chaque annonce affiche les frais de livraison et la date de livraison estimée sur sa propre page, et les deux varient selon le vendeur et le pays.',
+      },
+      {
+        question: 'Comment fonctionnent les retours sur AliExpress\u00a0?',
+        answer:
+          'Le délai de retour varie selon le pays et le type de vendeur. La politique de retour et de remboursement d\'AliExpress précise la règle de chaque pays. Consultez aussi les conditions de retour sur la page du produit.',
+      },
+      {
+        question: 'Dois-je copier un code pour acheter via le lien\u00a0?',
+        answer:
+          'Non. Il suffit d\'ouvrir AliExpress avec le bouton de cette page et d\'acheter normalement. Il n\'y a aucun code de notre part à coller dans le panier.',
+      },
+      {
+        question: 'Acheter via le lien rapporte-t-il une commission à Cecília\u00a0?',
+        answer:
+          'C\'est possible. AliExpress peut verser une commission à Em Casa com Cecília pour les achats attribués au lien, sans surcoût pour l\'acheteur.',
+      },
+    ],
+    linkInstructions: [
+      'Appuyez sur «\u00a0Voir les offres AliExpress\u00a0»\u00a0: le lien de Cecília ouvre la boutique, sans rien copier.',
+      'Choisissez vos produits et vérifiez le prix, les frais de livraison et la date de livraison estimée sur la page de chacun.',
+      'Consultez la réputation du vendeur et les règles de retour de l\'annonce.',
+      'Vérifiez le montant final, frais de livraison et taxes compris, avant de finaliser l\'achat.',
+    ],
+    linkNote:
+      'Le lien de Cecília ne donne pas de réduction propre et ne comporte aucun code\u00a0: le prix et les promotions sont ceux qu\'affiche AliExpress sur la page du produit et dans le panier.',
+  },
+  de: {
+    discount: 'Aktionen',
+    offerTypeLabel: 'Angebot',
+    offerTypeLabelPlural: 'Angebote',
+    offerActionLabel: 'Angebote bei AliExpress ansehen',
+    category: 'Elektronik, Mode, Wohnen und Accessoires',
+    shortDescription: 'Cecílias Link zu den Aktionen des Shops',
+    longDescription:
+      'Em Casa com Cecília hat keinen Gutscheincode für AliExpress: Der Button unten öffnet den Shop über Cecílias Link, mit den aktuellen Aktionen. Preis, Versand und Lieferzeit jedes Produkts sind die, die AliExpress auf der Produktseite anzeigt.',
+    metaTitle: 'AliExpress: Aktionen über Cecílias Link',
+    metaDescription:
+      'Cecílias Link zu AliExpress: öffnet den Shop mit den aktuellen Aktionen. Kein Gutscheincode von uns; Versand und Rückgabe hängen von Verkäufer und Land ab.',
+    eligibleCategories: 'Alle Kategorien von AliExpress; jede Aktion gilt für die Produkte, die der Shop angibt',
+    validity: 'Aktionen ändern sich ohne Vorankündigung: Es gilt der Preis, den AliExpress am Kauftag anzeigt',
+    reusable: 'Der Link kann bei jedem Einkauf genutzt werden',
+    shipping: 'Versandkosten und Lieferzeit stehen auf der Seite jedes Produkts und hängen von Verkäufer und Land ab',
+    combinable: 'Der Link gibt keinen eigenen Rabatt: Es gelten die Aktionen, die AliExpress auf der Produktseite und im Warenkorb anzeigt',
+    aboutBrand:
+      'AliExpress ist ein internationaler Marktplatz der Alibaba-Gruppe, auf dem Verkäufer aus vielen Ländern Elektronik, Mode, Wohnartikel und Accessoires anbieten. Diese Seite bündelt Cecílias Link und erklärt, wie er funktioniert. Käufe über den Link können Em Casa com Cecília eine Provision einbringen – ohne Mehrkosten für dich.',
+    brandLogoAlt: 'AliExpress-Logo',
+    faqs: [
+      {
+        question: 'Hat Cecília einen Gutscheincode für AliExpress?',
+        answer:
+          'Nein. Em Casa com Cecília hat einen Partnerlink zu AliExpress, keinen Gutscheincode: Der Link öffnet den Shop mit den aktuellen Aktionen, und den Rabatt auf jedes Produkt legt AliExpress fest.',
+      },
+      {
+        question: 'Wie hoch sind die Versandkosten bei AliExpress?',
+        answer:
+          'Das hängt vom Produkt ab. AliExpress ist ein Marktplatz: Jedes Angebot zeigt Versandkosten und voraussichtliches Lieferdatum auf der eigenen Seite, und beides hängt von Verkäufer und Land ab.',
+      },
+      {
+        question: 'Wie funktioniert die Rückgabe bei AliExpress?',
+        answer:
+          'Die Rückgabefrist hängt vom Land und von der Art des Verkäufers ab. Die Rückgabe- und Erstattungsrichtlinie von AliExpress nennt die Regel für jedes Land; prüfe auch die Rückgabebedingungen auf der Produktseite.',
+      },
+      {
+        question: 'Muss ich einen Code kopieren, um über den Link zu kaufen?',
+        answer:
+          'Nein. Öffne einfach AliExpress über den Button auf dieser Seite und kaufe wie gewohnt. Es gibt keinen Code von uns, den du im Warenkorb einfügen musst.',
+      },
+      {
+        question: 'Bekommt Cecília eine Provision, wenn ich über den Link kaufe?',
+        answer:
+          'Das ist möglich. AliExpress kann Em Casa com Cecília eine Provision für Käufe zahlen, die dem Link zugeordnet werden – ohne Mehrkosten für dich.',
+      },
+    ],
+    linkInstructions: [
+      'Tippe auf „Angebote bei AliExpress ansehen“: Cecílias Link öffnet den Shop, du musst nichts kopieren.',
+      'Wähle deine Produkte und prüfe Preis, Versandkosten und voraussichtliches Lieferdatum auf der jeweiligen Produktseite.',
+      'Sieh dir die Bewertung des Verkäufers und die Rückgaberegeln des Angebots an.',
+      'Prüfe den Endbetrag samt Versand und Steuern, bevor du den Kauf abschließt.',
+    ],
+    linkNote:
+      'Cecílias Link gibt keinen eigenen Rabatt und enthält keinen Code: Preis und Aktionen sind die, die AliExpress auf der Produktseite und im Warenkorb anzeigt.',
+  },
+  it: {
+    discount: 'Promozioni',
+    offerTypeLabel: 'offerta',
+    offerTypeLabelPlural: 'offerte',
+    offerActionLabel: 'Vedi le offerte AliExpress',
+    category: 'Elettronica, moda, casa e accessori',
+    shortDescription: 'link di Cecília per le promozioni del negozio',
+    longDescription:
+      'Em Casa com Cecília non ha un coupon per AliExpress: il pulsante qui sotto apre il negozio con il link di Cecília, con le promozioni in corso. Il prezzo, la spedizione e i tempi di ogni prodotto sono quelli che AliExpress mostra nella sua pagina.',
+    metaTitle: 'AliExpress: promozioni con il link di Cecília',
+    metaDescription:
+      'Link di Cecília per AliExpress: apre il negozio con le promozioni in corso. Nessun coupon nostro; spedizione e resi cambiano per venditore e paese.',
+    eligibleCategories: 'Tutte le categorie di AliExpress; ogni promozione vale per i prodotti indicati dal negozio',
+    validity: 'Le promozioni cambiano senza preavviso: vale il prezzo che AliExpress mostra il giorno dell\'acquisto',
+    reusable: 'Il link può essere usato a ogni acquisto',
+    shipping: 'La spedizione e i tempi di consegna compaiono nella pagina di ogni prodotto e cambiano in base al venditore e al paese',
+    combinable: 'Il link non dà uno sconto proprio: valgono le promozioni che AliExpress mostra nella pagina del prodotto e nel carrello',
+    aboutBrand:
+      'AliExpress è un marketplace internazionale del gruppo Alibaba, dove venditori di vari paesi pubblicano elettronica, moda, articoli per la casa e accessori. Questa pagina raccoglie il link di Cecília e spiega come funziona. Gli acquisti fatti con il link possono generare una commissione per Em Casa com Cecília, senza costi aggiuntivi per chi compra.',
+    brandLogoAlt: 'Logo AliExpress',
+    faqs: [
+      {
+        question: 'Cecília ha un coupon AliExpress?',
+        answer:
+          'No. Em Casa com Cecília ha un link di affiliazione AliExpress, non un coupon: il link apre il negozio con le promozioni in corso, e lo sconto di ogni prodotto è quello che mostra AliExpress.',
+      },
+      {
+        question: 'Quanto costa la spedizione su AliExpress?',
+        answer:
+          'Dipende dal prodotto. AliExpress è un marketplace: ogni inserzione mostra la spedizione e la data di consegna stimata nella propria pagina, ed entrambe cambiano in base al venditore e al paese.',
+      },
+      {
+        question: 'Come funzionano i resi su AliExpress?',
+        answer:
+          'Il termine di reso cambia in base al paese e al tipo di venditore. La politica di reso e rimborso di AliExpress riporta la regola di ogni paese; controlla anche le condizioni di reso nella pagina del prodotto.',
+      },
+      {
+        question: 'Devo copiare un codice per comprare dal link?',
+        answer:
+          'No. Basta aprire AliExpress con il pulsante di questa pagina e comprare come al solito. Non c\'è nessun codice nostro da incollare nel carrello.',
+      },
+      {
+        question: 'Comprare dal link genera una commissione per Cecília?',
+        answer:
+          'Può succedere. AliExpress può pagare una commissione a Em Casa com Cecília per gli acquisti attribuiti al link, senza costi aggiuntivi per chi compra.',
+      },
+    ],
+    linkInstructions: [
+      'Tocca “Vedi le offerte AliExpress”: il link di Cecília apre il negozio, senza copiare nulla.',
+      'Scegli i prodotti e controlla prezzo, spedizione e data di consegna stimata nella pagina di ciascuno.',
+      'Guarda la reputazione del venditore e le regole di reso dell\'inserzione.',
+      'Controlla l\'importo finale, con spedizione e tasse, prima di completare l\'acquisto.',
+    ],
+    linkNote:
+      'Il link di Cecília non dà uno sconto proprio e non ha codici: il prezzo e le promozioni sono quelli che AliExpress mostra nella pagina del prodotto e nel carrello.',
+  },
+  ko: {
+    discount: '프로모션',
+    offerTypeLabel: '혜택',
+    offerTypeLabelPlural: '혜택',
+    offerActionLabel: 'AliExpress 혜택 보기',
+    category: '전자제품, 패션, 홈, 액세서리',
+    shortDescription: '스토어 프로모션으로 연결되는 Cecília의 링크',
+    longDescription:
+      'Em Casa com Cecília에는 AliExpress 쿠폰이 없습니다. 아래 버튼은 Cecília의 링크로 진행 중인 프로모션과 함께 스토어를 엽니다. 상품별 가격, 배송비, 배송 기간은 AliExpress가 각 상품 페이지에 표시하는 대로입니다.',
+    metaTitle: 'AliExpress: Cecília 링크 프로모션',
+    metaDescription:
+      'Cecília의 AliExpress 링크: 진행 중인 프로모션과 함께 스토어가 열립니다. 쿠폰은 없고 배송·반품은 판매자와 국가별로 다릅니다.',
+    eligibleCategories: 'AliExpress의 모든 카테고리. 프로모션별 적용 상품은 스토어가 안내하는 대로입니다',
+    validity: '프로모션은 예고 없이 바뀝니다. 구매하는 날 AliExpress에 표시된 가격이 기준입니다',
+    reusable: '링크는 구매할 때마다 사용할 수 있습니다',
+    shipping: '배송비와 배송 기간은 각 상품 페이지에 표시되며 판매자와 국가에 따라 다릅니다',
+    combinable: '링크 자체의 할인은 없으며, AliExpress 상품 페이지와 장바구니에 표시되는 프로모션이 적용됩니다',
+    aboutBrand:
+      'AliExpress는 알리바바 그룹의 글로벌 마켓플레이스로, 여러 나라의 판매자가 전자제품, 패션, 홈 용품, 액세서리를 판매합니다. 이 페이지에는 Cecília의 링크와 사용 방법을 정리했습니다. 링크로 구매하면 Em Casa com Cecília가 수수료를 받을 수 있으며, 구매자에게 추가 비용은 없습니다.',
+    brandLogoAlt: 'AliExpress 로고',
+    faqs: [
+      {
+        question: 'Cecília에게 AliExpress 쿠폰이 있나요?',
+        answer:
+          '아니요. Em Casa com Cecília에는 AliExpress 쿠폰이 아니라 제휴 링크가 있습니다. 링크를 누르면 진행 중인 프로모션과 함께 스토어가 열리며, 상품별 할인은 AliExpress에 표시된 대로입니다.',
+      },
+      {
+        question: 'AliExpress 배송비는 얼마인가요?',
+        answer:
+          '상품마다 다릅니다. AliExpress는 마켓플레이스라서 각 상품 페이지에 배송비와 예상 도착일이 표시되며, 둘 다 판매자와 국가에 따라 다릅니다.',
+      },
+      {
+        question: 'AliExpress 반품은 어떻게 하나요?',
+        answer:
+          '반품 기간은 국가와 판매자 유형에 따라 다릅니다. AliExpress의 반품·환불 정책에 국가별 규정이 나와 있으니, 상품 페이지의 반품 조건도 함께 확인하세요.',
+      },
+      {
+        question: '링크로 구매할 때 코드를 복사해야 하나요?',
+        answer:
+          '아니요. 이 페이지의 버튼으로 AliExpress를 연 뒤 평소처럼 구매하면 됩니다. 장바구니에 붙여 넣을 코드는 없습니다.',
+      },
+      {
+        question: '링크로 구매하면 Cecília가 수수료를 받나요?',
+        answer:
+          '받을 수 있습니다. AliExpress는 링크로 연결된 구매에 대해 Em Casa com Cecília에 수수료를 지급할 수 있으며, 구매자에게 추가 비용은 없습니다.',
+      },
+    ],
+    linkInstructions: [
+      '“AliExpress 혜택 보기”를 누르세요. Cecília의 링크로 스토어가 열리며, 복사할 것은 없습니다.',
+      '상품을 고르고 각 상품 페이지에서 가격, 배송비, 예상 도착일을 확인하세요.',
+      '판매자 평판과 해당 상품의 반품 규정을 확인하세요.',
+      '구매를 완료하기 전에 배송비와 세금을 포함한 최종 금액을 확인하세요.',
+    ],
+    linkNote:
+      'Cecília의 링크에는 자체 할인도 코드도 없습니다. 가격과 프로모션은 AliExpress 상품 페이지와 장바구니에 표시되는 내용을 따릅니다.',
+  },
+  ja: {
+    discount: 'セール',
+    offerTypeLabel: 'オファー',
+    offerTypeLabelPlural: 'オファー',
+    offerActionLabel: 'AliExpress のオファーを見る',
+    category: '家電、ファッション、インテリア、アクセサリー',
+    shortDescription: 'ストアのプロモーションへの Cecília のリンク',
+    longDescription:
+      'Em Casa com Cecília に AliExpress のクーポンはありません。下のボタンから Cecília のリンクで、開催中のプロモーションとともにストアが開きます。各商品の価格、送料、配送日数は、AliExpress が商品ページに表示するとおりです。',
+    metaTitle: 'AliExpress：Cecília のリンクのプロモーション',
+    metaDescription:
+      'Cecília の AliExpress リンクで、開催中のプロモーションとともにストアが開きます。クーポンはなく、送料と返品は出品者と国で変わります。',
+    eligibleCategories: 'AliExpress のすべてのカテゴリー。プロモーションごとの対象商品はストアの案内に従います',
+    validity: 'プロモーションは予告なく変わります。購入日に AliExpress が表示する価格が適用されます',
+    reusable: 'リンクは購入のたびに使えます',
+    shipping: '送料と配送日数は各商品ページに表示され、出品者と国によって変わります',
+    combinable: 'リンク自体に割引はありません。AliExpress が商品ページとカートに表示するプロモーションが適用されます',
+    aboutBrand:
+      'AliExpress は、アリババグループの国際的なマーケットプレイスで、さまざまな国の出品者が家電、ファッション、インテリア雑貨、アクセサリーを出品しています。このページでは Cecília のリンクと使い方をまとめています。リンクから購入すると Em Casa com Cecília に報酬が入ることがありますが、購入者の追加負担はありません。',
+    brandLogoAlt: 'AliExpress のロゴ',
+    faqs: [
+      {
+        question: 'Cecília に AliExpress のクーポンはありますか？',
+        answer:
+          'いいえ。Em Casa com Cecília にあるのはクーポンではなく AliExpress のアフィリエイトリンクです。リンクから開催中のプロモーションとともにストアが開き、各商品の割引は AliExpress の表示のとおりです。',
+      },
+      {
+        question: 'AliExpress の送料はいくらですか？',
+        answer:
+          '商品によって異なります。AliExpress はマーケットプレイスで、各商品ページに送料と配送予定日が表示され、どちらも出品者と国によって変わります。',
+      },
+      {
+        question: 'AliExpress の返品はどうなりますか？',
+        answer:
+          '返品期間は国と出品者の種類によって異なります。AliExpress の返品・返金ポリシーに国ごとのルールが載っています。商品ページの返品条件もあわせてご確認ください。',
+      },
+      {
+        question: 'リンクから購入するとき、コードをコピーする必要はありますか？',
+        answer:
+          'いいえ。このページのボタンから AliExpress を開き、いつもどおり購入するだけです。カートに貼り付ける当サイトのコードはありません。',
+      },
+      {
+        question: 'リンクから購入すると Cecília に報酬が入りますか？',
+        answer:
+          '入る場合があります。リンク経由の購入について、AliExpress が Em Casa com Cecília に報酬を支払うことがありますが、購入者の追加負担はありません。',
+      },
+    ],
+    linkInstructions: [
+      '「AliExpress のオファーを見る」をタップします。Cecília のリンクでストアが開くので、コピーするものはありません。',
+      '商品を選び、各商品ページで価格、送料、配送予定日を確認します。',
+      '出品者の評価と、その商品の返品ルールを確認します。',
+      '購入を確定する前に、送料と税金を含めた最終金額を確認します。',
+    ],
+    linkNote:
+      'Cecília のリンクに独自の割引やコードはありません。価格とプロモーションは、AliExpress が商品ページとカートに表示するものです。',
+  },
+  'zh-hant': {
+    discount: '促銷',
+    offerTypeLabel: '優惠',
+    offerTypeLabelPlural: '優惠',
+    offerActionLabel: '查看 AliExpress 優惠',
+    category: '電子產品、時裝、家居及配飾',
+    shortDescription: 'Cecília 的商店促銷連結',
+    longDescription:
+      'Em Casa com Cecília 沒有 AliExpress 的優惠碼：下方按鈕會透過 Cecília 的連結開啟商店，並帶出進行中的促銷。每件商品的價格、運費和送達時間，以 AliExpress 在商品頁面顯示的為準。',
+    metaTitle: 'AliExpress：Cecília 連結的促銷',
+    metaDescription:
+      'Cecília 的 AliExpress 連結會開啟商店並帶出進行中的促銷。我們沒有優惠碼，運費和退貨視賣家及國家而定。',
+    eligibleCategories: 'AliExpress 的所有類別；各項促銷適用的商品以商店標示為準',
+    validity: '促銷可能隨時變動，請以購買當天 AliExpress 顯示的價格為準',
+    reusable: '連結可用於每一次購物',
+    shipping: '運費和送貨時間會顯示在各商品頁面，因賣家和國家或地區而異',
+    combinable: '連結本身不提供折扣，適用的是 AliExpress 在商品頁面和購物車顯示的促銷',
+    aboutBrand:
+      'AliExpress 是阿里巴巴集團旗下的國際市集平台，多個國家的賣家在此銷售電子產品、時裝、家居用品及配飾。此頁面整合了 Cecília 的連結並說明其運作方式。透過連結購物，Em Casa com Cecília 可能會獲得佣金，買家無需支付額外費用。',
+    brandLogoAlt: 'AliExpress 標誌',
+    faqs: [
+      {
+        question: 'Cecília 有 AliExpress 的優惠碼嗎？',
+        answer:
+          '沒有。Em Casa com Cecília 提供的是 AliExpress 的聯盟連結，不是優惠碼：連結會開啟商店並帶出進行中的促銷，每件商品的折扣以 AliExpress 顯示的為準。',
+      },
+      {
+        question: 'AliExpress 的運費是多少？',
+        answer:
+          '視乎商品而定。AliExpress 是市集平台：每個商品頁面都會顯示運費和預計送達日期，兩者都因賣家和國家或地區而異。',
+      },
+      {
+        question: 'AliExpress 如何退貨？',
+        answer:
+          '退貨期限因國家或地區和賣家類型而異。AliExpress 的退貨及退款政策列明各國家或地區的規定；也請查看商品頁面上的退貨條件。',
+      },
+      {
+        question: '透過連結購物需要複製代碼嗎？',
+        answer:
+          '不需要。只要點擊本頁的按鈕開啟 AliExpress，照常購物即可。我們沒有需要貼到購物車的代碼。',
+      },
+      {
+        question: '透過連結購物，Cecília 會獲得佣金嗎？',
+        answer:
+          '有可能。AliExpress 可能會就歸因於連結的訂單向 Em Casa com Cecília 支付佣金，買家無需支付額外費用。',
+      },
+    ],
+    linkInstructions: [
+      '點選「查看 AliExpress 優惠」：Cecília 的連結會開啟商店，無需複製任何內容。',
+      '選好商品，在各商品頁面確認價格、運費和預計送達日期。',
+      '查看賣家的評價和該商品的退貨規則。',
+      '完成購買前，請確認包含運費和稅項的最終金額。',
+    ],
+    linkNote:
+      'Cecília 的連結本身不提供折扣，也沒有代碼：價格和促銷以 AliExpress 在商品頁面和購物車顯示的為準。',
+  },
+  'zh-hans': {
+    discount: '促销',
+    offerTypeLabel: '优惠',
+    offerTypeLabelPlural: '优惠',
+    offerActionLabel: '查看 AliExpress 优惠',
+    category: '电子产品、服饰、家居和配饰',
+    shortDescription: 'Cecília 的商店促销链接',
+    longDescription:
+      'Em Casa com Cecília 没有 AliExpress 的优惠码：下方按钮会通过 Cecília 的链接打开商店，并带出进行中的促销。每件商品的价格、运费和送达时间，以 AliExpress 在商品页面显示的为准。',
+    metaTitle: 'AliExpress：Cecília 链接的促销',
+    metaDescription:
+      'Cecília 的 AliExpress 链接会打开商店并带出进行中的促销。我们没有优惠码，运费和退货视卖家及国家而定。',
+    eligibleCategories: 'AliExpress 的所有品类；各项促销适用的商品以商店标示为准',
+    validity: '促销可能随时变动，请以购买当天 AliExpress 显示的价格为准',
+    reusable: '链接可用于每一次购物',
+    shipping: '运费和送达时间会显示在各商品页面，因卖家和国家或地区而异',
+    combinable: '链接本身不提供折扣，适用的是 AliExpress 在商品页面和购物车显示的促销',
+    aboutBrand:
+      'AliExpress 是阿里巴巴集团旗下的国际电商平台，多个国家的卖家在此销售电子产品、服饰、家居用品和配饰。本页汇总了 Cecília 的链接并说明其运作方式。通过链接购物，Em Casa com Cecília 可能会获得佣金，买家无需支付额外费用。',
+    brandLogoAlt: 'AliExpress 标志',
+    faqs: [
+      {
+        question: 'Cecília 有 AliExpress 的优惠码吗？',
+        answer:
+          '没有。Em Casa com Cecília 提供的是 AliExpress 的联盟链接，不是优惠码：链接会打开商店并带出进行中的促销，每件商品的折扣以 AliExpress 显示的为准。',
+      },
+      {
+        question: 'AliExpress 的运费是多少？',
+        answer:
+          '视商品而定。AliExpress 是电商平台：每个商品页面都会显示运费和预计送达日期，两者都因卖家和国家或地区而异。',
+      },
+      {
+        question: 'AliExpress 如何退货？',
+        answer:
+          '退货期限因国家或地区和卖家类型而异。AliExpress 的退货和退款政策列明各国家或地区的规定；也请查看商品页面上的退货条件。',
+      },
+      {
+        question: '通过链接购物需要复制代码吗？',
+        answer:
+          '不需要。只要点击本页的按钮打开 AliExpress，照常购物即可。我们没有需要粘贴到购物车的代码。',
+      },
+      {
+        question: '通过链接购物，Cecília 会获得佣金吗？',
+        answer:
+          '有可能。AliExpress 可能会就归因于链接的订单向 Em Casa com Cecília 支付佣金，买家无需支付额外费用。',
+      },
+    ],
+    linkInstructions: [
+      '点击“查看 AliExpress 优惠”：Cecília 的链接会打开商店，无需复制任何内容。',
+      '选好商品，在各商品页面确认价格、运费和预计送达日期。',
+      '查看卖家的评价和该商品的退货规则。',
+      '完成购买前，请确认包含运费和税费的最终金额。',
+    ],
+    linkNote:
+      'Cecília 的链接本身不提供折扣，也没有代码：价格和促销以 AliExpress 在商品页面和购物车显示的为准。',
+  },
+};
+
 // Indicação sem código para digitar: os 20% valem só no primeiro período de plano novo e não somam
 // com outros cupons, como no PT.
 const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
@@ -1612,6 +2629,9 @@ const COUPON_TRANSLATIONS: Record<string, CouponTranslation> = {
     offerUrl: 'https://onelink.shein.com/55/6463grgxf6ru',
     locales: SHEIN_TRANSLATIONS,
   },
+  // O mesmo link de afiliado do PT vale nos 10 idiomas: a loja leva o visitante à região dele (Bruno, 16/11/2026).
+  temu: { offerMode: 'affiliate-link', locales: TEMU_TRANSLATIONS },
+  aliexpress: { offerMode: 'affiliate-link', locales: ALIEXPRESS_TRANSLATIONS },
   hostinger: {
     // O SONAR20 no site internacional (em inglês): o link de indicação leva o mesmo código. O PT segue no /br, e
     // o testNote daqui só cita o teste do site global.
