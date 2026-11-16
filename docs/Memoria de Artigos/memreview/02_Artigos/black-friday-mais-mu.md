@@ -218,3 +218,15 @@ As perguntas acima foram respondidas em 20/10/2026. O que vale é esta seção: 
 - **Alt (PT):** Dois potes de whey isolado Mais Mu, nos sabores baunilha e sem sabor, em foto oficial da marca.
 - **Origem:** foto oficial de dois potes do isolado de 450 g, outra apresentação; a cotação de 900 g e baunilha do artigo não vale para esses rótulos. Sem geração por IA.
 - **Lote 17 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/mais-mu/black-friday-mais-mu-capa-faixa.webp`) fica no CDN, sem uso como capa.
+
+## Curadoria de Black Friday (16/11/2026)
+
+O guia ganhou quatro capítulos: whey (pote, refil, sachê), creatina e pré-treino, barrinhas e wafers, e cashback (gerar e usar). Título, resposta rápida e subtítulo mudaram; meta, URL, capa e CTA não.
+
+- **Fonte:** páginas públicas do site oficial (preço riscado, preço do cartão e Pix exibidos). A Blue Friday seguia no banner da home em 16/11, com até 50% OFF.
+- **Preços lidos:** concentrado pote 450 g R$ 135,99; refil 900 g R$ 209,25; caixa de 15 sachês R$ 203,87; isolado 450 g R$ 179,99; vegetal 450 g R$ 107,99; creatina refil 500 g R$ 74,90; Exquenta 500 g Amora e Melancia R$ 89,99 e 300 g Tropical R$ 96,75; caixas de Mukebar 720 g R$ 152,90, Crush Bar R$ 92,32, Chocowheyfer Max R$ 193,50 e Sem Cobertura R$ 53,91.
+- **Cupom:** as colunas "com o cupom" são conta de 10%. O carrinho não foi refeito; o teste registrado é o de 11/11 (creatina em oferta e dois wheys, R$ 346,88 → R$ 312,19).
+- **Contagem de doses:** só a publicada pela loja ("cerca de"). Potes de parceria e refil de 1,8 kg ficaram sem conta. O refil de 1,8 kg e o isolado de 900 g estavam esgotados.
+- **Cashback:** regras de `couponsData.ts` (gera acima de R$ 250 já com o cupom, 5%; o crédito vira código, vale 90 dias, pede pedido a partir de R$ 200 e não entra com outro cupom). Não reconferidas no site em 16/11.
+- **Boas-vindas:** o handoff citava "R$ 15 acima de R$ 250"; o valor não está em `couponsData.ts` nem nos guias, e não foi escrito.
+- **Não lido:** unidades por caixa do Chocowheyfer Sem Cobertura na página (12, pelo nosso guia), Veggie Wafer avulso (só em combo).

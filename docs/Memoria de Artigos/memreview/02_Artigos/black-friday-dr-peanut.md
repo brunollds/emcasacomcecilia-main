@@ -213,3 +213,16 @@ Já resolvido, sem pergunta: os prints do teste do cupom são os do artigo de co
 - **Alt (PT):** Display de Doctor Bar Alfajor da Dr. Peanut, em recorte da fotografia usada na capa anterior do próprio artigo.
 - **Origem:** display do Doctor Bar Alfajor recortado da foto da capa anterior do próprio artigo, sem a faixa antiga. Sem geração por IA.
 - **Lote 16 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/dr-peanut/black-friday-dr-peanut-capa-discover-v2.webp`) fica no CDN, sem uso como capa.
+
+## Curadoria de Black Friday (16/11/2026)
+
+O guia ganhou quatro capítulos: provar sabores (250 g), repor (600 g e combos), assinatura e snacks. Título, resposta rápida, meta e subtítulo mudaram; URL, capa e CTA não.
+
+- **Fonte:** site oficial pelo navegador (o acesso direto à API respondeu 429 com desafio). Catálogo pelas páginas de categoria; carrinho anônimo no checkout da loja, com o CEP público 01310-100.
+- **Sem campanha:** em 16/11 a home não tinha Black Friday; pote de 250 g R$ 25,89 e de 600 g R$ 59,89, como em outubro.
+- **Sabores em 16/11:** 250 g em nove sabores; 600 g em quatro (Bueníssimo, Chocolate Branco, Cookies & Cream, Pistache). Combos de 600 g só de um sabor (Bueníssimo ou Cookies & Cream), em 2, 3 e 4 potes. Sem combo de 5 potes de 600 g e sem o Combo Best Sellers; o trio Avelã, Bueníssimo e Cookies & Cream existe em 250 g (Os Favoritos da Galera).
+- **Carrinhos com o DREMCASACOMCECILIA:** trio de 600 g R$ 158,11, frete grátis; com o cupom, Descontos R$ 15,81, frete R$ 12,48, total R$ 154,78. Quarteto R$ 203,63 → R$ 183,27, frete grátis nos dois. Pote de 600 g R$ 59,89 → R$ 53,90, frete R$ 12,37; no Pix, total de R$ 64,65 (3% sobre os produtos já com o cupom). Display Doctor Bar R$ 122,03 → R$ 109,83, frete R$ 11,95.
+- **Pix:** confirmado no checkout que os 3% somam com o cupom (resolve a dúvida dos guias antigos).
+- **Assinatura:** a página `/assinaturapro` anuncia 4%, 8%, 12% e 20% (4 ou mais pastas; em outubro eram 15%). Não refizemos o carrinho da assinatura; o teste do cupom é o de outubro, no primeiro pedido. A página não fala do cupom nas renovações.
+- **Snacks:** preços iguais aos de 24/10. Kit de 10 alfajores não apareceu; há kit sortido de 6 e de 12 wafers.
+- **Pendente fora deste guia:** os guias `dr-peanut-melhor-sabor`, `dr-peanut-qual-tamanho-compensa` e `dr-peanut-ou-la-ganexa` divergem na lista de sabores por tamanho e citam combos que não estavam no site em 16/11; a assinatura neles ainda diz 15%.

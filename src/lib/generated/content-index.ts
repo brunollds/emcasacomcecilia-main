@@ -79635,7 +79635,7 @@ export const reviewsData: unknown[] = [
     "bodyDatesReason": "campanha",
     "id": 437,
     "slug": "black-friday-max-titanium",
-    "title": "Black Friday Max Titanium 2026: o Max November já começou, cashback, 50% em roupas e o cupom MAX10EMCASACOMCECILIA",
+    "title": "Black Friday Max Titanium 2026: Max November, qual whey, creatina e pré-treino comprar e o cupom MAX10EMCASACOMCECILIA",
     "seoTitle": "Black Friday Max Titanium 2026: Max November e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
@@ -79647,11 +79647,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O Max November vai o mês inteiro, com cashback de até 16%, roupas com 50% OFF e Pix com até 5%. O MAX10EMCASACOMCECILIA dá até 10% OFF; compare o preço final com outubro.",
-    "metaDescription": "Black Friday Max Titanium 2026: MAX10EMCASACOMCECILIA dá até 10% OFF. Compare o Max November com outubro e confira Pix de até 5%, cashback e brindes.",
+    "description": "O Max November vai o mês inteiro. Veja qual whey, creatina e pré-treino da Max Titanium comprar, pelo rótulo e pelo preço por porção, e quanto o MAX10EMCASACOMCECILIA tirou.",
+    "metaDescription": "Black Friday Max Titanium 2026: MAX10EMCASACOMCECILIA dá até 10% OFF. Veja qual whey, creatina e pré-treino comprar e a conta com o Pix de até 5%.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/max-titanium/black-friday-max-titanium-capa-v2.webp",
@@ -79659,15 +79659,15 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "O Max November já está no ar, o mês inteiro, com cashback de até 16% e 50% OFF em roupas e acessórios",
-      "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF e vale com todas as formas de pagamento",
-      "O cupom soma com as promoções do site e com o Pix e o boleto, de até 5% OFF",
-      "A creatina de 500g saía mais barata por grama que a de 300 g",
+      "O Max November está no ar o mês inteiro, com descontos de até 50% e brindes por faixa de pedido",
+      "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF, conforme o produto, e vale com todas as formas de pagamento",
+      "O cupom soma com as promoções do site e com o Pix, de até 5% conforme o produto",
+      "A Creatina 500g estava abaixo do preço de outubro e tinha a menor dose entre os potes testados",
       "Frete grátis a partir de R$ 104 na capital de São Paulo e R$ 134 no Sudeste"
     ],
     "cons": [
-      "A loja não publicou as regras completas do Max November, como as faixas do cashback e dos brindes",
-      "O percentual do cupom varia por produto e pode ser menor que 10%",
+      "Nos carrinhos de novembro, o cupom rendeu 2% na maioria dos produtos e perto de 9% em dois",
+      "Os wheys estavam nos mesmos preços de outubro",
       "O desconto do cupom pode deixar o total abaixo do mínimo do frete grátis",
       "Frete grátis só na entrega mais barata, e o mínimo chega a R$ 599 no Norte"
     ],
@@ -79695,7 +79695,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Max Titanium 2026",
         "paragraphs": [
-          "O Max November já começou e vai o mês inteiro: cashback de até 16%, roupas e acessórios com 50% OFF, brindes por faixa e Pix e boleto com até 5%. O cupom MAX10EMCASACOMCECILIA dá até 10% OFF e soma com as promoções e o Pix. O Pix pode render menos de 5% por item; confira o total no carrinho."
+          "O Max November vai o mês inteiro, com descontos de até 50% e brindes por faixa de pedido. A regra é até 10% com o código MAX10EMCASACOMCECILIA e até 5% no Pix, conforme o produto: nos carrinhos de novembro, o código rendeu perto de 9% no Top Whey 3W + Sabor e no Whey Blend e 2% nos demais."
         ]
       },
       {
@@ -79703,7 +79703,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O **Max November** de 2026 vai de 1º a 30 de novembro, o mês inteiro, e a home da Max Titanium já traz o banner de Black Friday. A sexta-feira do calendário é 27 de novembro, e a Cyber Monday, 30 de novembro; na loja, a campanha é o mês todo, não só a sexta.",
           "A home anuncia cashback de até 16%, roupas e acessórios com 50% OFF e “Comprou ganhou”, com brindes Znack That por faixa de pedido, até três brindes. O Pix e o boleto são anunciados com desconto de até 5%; o valor efetivo depende do item e deve ser conferido no carrinho.",
-          "Os banners da home trazem duas regras: o cashback de até 16% vale em compras acima de R$ 150, em dobro para todos os níveis do Elite Member, e quem compra acima de R$ 199,90 ganha um par de meias exclusivo, por tempo limitado. A loja não publicou as faixas do cashback abaixo dos 16% nem o valor de pedido de cada brinde Znack That. Confira a página da campanha antes de fechar o carrinho, e compare o preço do dia com a tabela de outubro, abaixo."
+          "Os banners da home trazem duas regras: o cashback de até 16% vale em compras acima de R$ 150, em dobro para todos os níveis do Elite Member, e quem compra acima de R$ 199,90 ganha um par de meias exclusivo, por tempo limitado. A loja não publicou as faixas do cashback abaixo dos 16% nem o valor de pedido de cada brinde Znack That. Confira a página da campanha antes de fechar o carrinho, e compare o preço do dia com a tabela de outubro, abaixo.",
+          "Em meados de novembro, o banner principal da home anunciava o Max November com descontos de até 50%, por tempo limitado. Nos nossos carrinhos, os brindes entraram sozinhos: um par de meias nos pedidos a partir de R$ 210,39 e, nos de R$ 273,55 e R$ 326,18, também um Whey Drink de 300 ml."
         ],
         "image": {
           "src": "/images/reviews/max-titanium/black-friday-max-titanium-banner-max-november.webp",
@@ -79712,6 +79713,166 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 1
         }
+      },
+      {
+        "heading": "Proteínas: compare pela composição e pelo custo da proteína",
+        "paragraphs": [
+          "O preço do pote engana no whey, porque as fórmulas são diferentes. O que compara de verdade é a proteína que cada porção entrega e quanto ela custa. A tabela usa a porção do rótulo e o pote de 900 g, com o valor que o carrinho mostrou depois do código, em novembro."
+        ],
+        "comparisonTable": {
+          "caption": "Proteínas da Max Titanium em pote ou refil de 900 g: proteína por porção do rótulo, preço do site e valor no carrinho com o MAX10EMCASACOMCECILIA, na nossa leitura de novembro. As duas últimas colunas são conta nossa, com o valor depois do código.",
+          "headers": [
+            "Produto e proteína por porção",
+            "No site → com o código",
+            "Por porção",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "Whey Blend Nova Fórmula: 25 g em 40 g",
+              "R$ 79,00 → R$ 72,00",
+              "R$ 3,20",
+              "R$ 12,80"
+            ],
+            [
+              "100% Whey Refil: 21 g em 30 g",
+              "R$ 196,39 → R$ 192,46",
+              "R$ 6,42",
+              "R$ 30,55"
+            ],
+            [
+              "Top Whey 3W + Sabor: 25 g em 40 g",
+              "R$ 189,00 → R$ 172,25",
+              "R$ 7,66",
+              "R$ 30,62"
+            ],
+            [
+              "100% Whey Pote: 21 g em 30 g",
+              "R$ 210,39 → R$ 206,18",
+              "R$ 6,87",
+              "R$ 32,73"
+            ],
+            [
+              "Top Whey 3W + Performance: 32 g em 40 g",
+              "R$ 273,55 → R$ 268,08",
+              "R$ 11,91",
+              "R$ 37,23"
+            ],
+            [
+              "IsoWhey: 26 g em 30 g",
+              "R$ 326,18 → R$ 319,66",
+              "R$ 10,66",
+              "R$ 40,98"
+            ],
+            [
+              "Super Whey: 30 g em 120 g",
+              "R$ 94,62 → R$ 92,73",
+              "R$ 12,36",
+              "R$ 41,21"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Entrada:** o Whey Blend é uma mistura proteica, com 10 g de carboidrato por porção, e tem o menor custo por proteína da tabela. O Super Whey parece barato pelo pote, mas a porção é de 120 g, com 79 g de carboidrato: o pote rende 7,5 porções, e a proteína dele é a mais cara da lista.",
+          "**Concentrado padrão:** o 100% Whey. O refil e o pote levam o mesmo pó, e o refil sai R$ 13,72 mais barato com o código.",
+          "**Três proteínas do soro:** o Top Whey 3W + Sabor e o + Performance têm o mesmo preço de lista. O Sabor estava em promoção e recebeu o desconto maior do código; o Performance, a preço cheio, recebeu 2%. A diferença no carrinho chegou a R$ 95,83. O Performance entrega mais proteína por porção e traz vitaminas e minerais, e mesmo assim a proteína do Sabor saiu mais barata.",
+          "**Isolado:** o IsoWhey, com 26 g de proteína e 2,3 g de carboidrato por porção de 30 g. É o mais caro por pote e contém lactose."
+        ],
+        "postParagraphs": [
+          "Os preços dos wheys eram os mesmos de outubro: o que mudou a conta foi o código. As comparações com outras marcas estão em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica), [Max Titanium ou Growth](/reviews/max-titanium-ou-growth), [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Melhor whey em 2026: qual escolher para cada objetivo](/reviews/melhor-whey-qual-escolher-por-objetivo)."
+        ]
+      },
+      {
+        "heading": "Creatinas: a conta é por porção de 5 g",
+        "paragraphs": [
+          "A creatina da Max Titanium tem a mesma porção em todos os potes, 5 g, com 5.000 mg de creatina. Por isso a comparação é direta: preço por 100 g e por porção."
+        ],
+        "comparisonTable": {
+          "caption": "Creatinas da Max Titanium: preço do site e valor no carrinho com o MAX10EMCASACOMCECILIA, na nossa leitura de novembro. As contas por 100 g e por porção de 5 g usam o valor depois do código.",
+          "headers": [
+            "Pote",
+            "No site → com o código",
+            "Por 100 g",
+            "Por porção de 5 g"
+          ],
+          "rows": [
+            [
+              "Creatina 500g",
+              "R$ 69,90 → R$ 68,50",
+              "R$ 13,70",
+              "R$ 0,69"
+            ],
+            [
+              "Creatina 300 g",
+              "R$ 59,90 → R$ 58,70",
+              "R$ 19,57",
+              "R$ 0,98"
+            ],
+            [
+              "Creatina Creapure 250g",
+              "R$ 139,89 → R$ 137,09",
+              "R$ 54,84",
+              "R$ 2,74"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Menor custo por porção:** o pote de 500 g, que estava R$ 17,63 abaixo do preço de outubro. Ele custava R$ 10 a mais que o de 300 g e rende 40 porções a mais.",
+          "**Selo Creapure:** só existe no pote de 250 g. A porção sai mais cara pela matéria-prima alemã certificada, e a fórmula leva só creatina, sem antiumectante.",
+          "**Pote de 100 g:** estava sem estoque na nossa leitura. A loja também vende um pote de 1 kg, que não entrou no nosso guia de creatina: confira a tabela dele na página antes de comparar."
+        ],
+        "postParagraphs": [
+          "O Pix mexeu na conta de um jeito diferente em cada pote: tirou cerca de 3% na Creatina 500g e cerca de 6,5% na de 300 g, que foi a R$ 54,90 com o código. A escolha entre os potes está em [Creatina Max Titanium: qual pote compensa](/reviews/creatina-max-titanium-qual-pote), e a versão com sabor, em [Creatina com sabor: qual escolher](/reviews/creatina-com-sabor-qual-escolher)."
+        ]
+      },
+      {
+        "heading": "Pré-treinos: cafeína do rótulo e preço por porção",
+        "paragraphs": [
+          "Nos pré-treinos, o rótulo muda mais que o preço do pote. A conta abaixo divide o pote de 300 g pela porção do rótulo, sem arredondar o número de porções: o Hórus, com porção de 8,4 g, rende 35,7 porções, e o Égide, com porção de 6 g, rende 50."
+        ],
+        "comparisonTable": {
+          "caption": "Pré-treinos da Max Titanium em pote de 300 g: porção e cafeína do rótulo, preço do site e valor no carrinho com o MAX10EMCASACOMCECILIA, na nossa leitura de novembro. O preço por porção usa o valor depois do código.",
+          "headers": [
+            "Pré-treino",
+            "Porção e cafeína",
+            "No site → com o código",
+            "Por porção"
+          ],
+          "rows": [
+            [
+              "Égide",
+              "6 g; 200 mg",
+              "R$ 89,90 → R$ 88,10",
+              "R$ 1,76"
+            ],
+            [
+              "Hórus",
+              "8,4 g; 150 mg",
+              "R$ 88,89 → R$ 87,11",
+              "R$ 2,44"
+            ],
+            [
+              "Shook",
+              "8 g; 200 mg",
+              "R$ 109,89 → R$ 107,69",
+              "R$ 2,87"
+            ],
+            [
+              "Night Train",
+              "8,4 g; sem cafeína no rótulo",
+              "R$ 109,89 → R$ 107,69",
+              "R$ 3,02"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Égide ou Hórus:** os dois potes custavam quase o mesmo, e o Égide saiu mais barato por porção, R$ 1,76 contra R$ 2,44. O Égide tem mais cafeína, leva tirosina e tem 0,8 g de carboidrato por porção; o Hórus tem 3,3 g de carboidrato, com 1,8 g de açúcares adicionados.",
+          "**Sem cafeína:** o Night Train não traz linha de cafeína no rótulo e tinha a porção mais cara dos quatro.",
+          "**Pote menor:** o Égide de 150 g estava a R$ 53,90, ou R$ 52,82 com o código. É a opção de menor desembolso, com a porção mais cara que a do pote de 300 g: R$ 2,11."
+        ],
+        "postParagraphs": [
+          "A comparação de rótulo está em [Pré-treino Max Titanium: Hórus ou Égide](/reviews/pre-treino-max-titanium-horus-ou-egide). Se um suplemento com cafeína faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista. Antes de pagar, confira também o frete: o mínimo do frete grátis vai de R$ 104 na capital de São Paulo a R$ 599 no Norte, e conta o valor depois do código."
+        ]
       },
       {
         "heading": "Preços de outubro: whey e creatina para comparar",
@@ -79794,13 +79955,14 @@ export const reviewsData: unknown[] = [
           "Os preços de lista só aparecem nos itens que a loja já vendia com desconto. Pela nossa conta, o Whey Blend estava 35% abaixo do preço de lista, o Top Whey 3W + Sabor, 31%, a Creatina 500g, 24%, e a Creatina 300 g, 20%. O Top Whey 3W + Sabor e o Top Whey 3W + Performance têm o mesmo preço de lista, R$ 273,55, mas em outubro o primeiro custava R$ 84,55 a menos.",
           "Na creatina de outubro, o pote de 500 g tinha menor preço por peso: R$ 17,51 por 100 g, contra R$ 19,97 no de 300 g. No whey, o preço por 100 g de pó não mede o custo por proteína, porque fórmulas e teores diferem; não use essa coluna sozinha para escolher.",
           "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
-          "Para comparar com outubro, use o mesmo produto, sabor e tamanho: a tabela registra preços de venda antes de cupom e Pix. Para decidir a compra de hoje, confira também cupom, pagamento e frete no total. Um benefício adicional pode ter valor para você, mesmo sem redução do preço do produto."
+          "Para comparar com outubro, use o mesmo produto, sabor e tamanho: a tabela registra preços de venda antes de cupom e Pix. Para decidir a compra de hoje, confira também cupom, pagamento e frete no total. Um benefício adicional pode ter valor para você, mesmo sem redução do preço do produto.",
+          "Na nossa leitura de meados de novembro, todos os wheys desta tabela estavam no mesmo preço de outubro. A Creatina 500g tinha caído para R$ 69,90, e a de 300 g seguia em R$ 59,90."
         ]
       },
       {
         "heading": "O cupom MAX10EMCASACOMCECILIA, o Pix e a promoção: o que soma",
         "paragraphs": [
-          "O cupom da parceria é o **MAX10EMCASACOMCECILIA** (até 10% OFF). Em alguns produtos o percentual é menor que 10%, e a linha \"Descontos\" do resumo do pedido mostra o valor que o cupom abateu de verdade.",
+          "A regra da parceria é até 10% com o código **MAX10EMCASACOMCECILIA** e até 5% no Pix, conforme o produto. O percentual muda de item para item, e a linha \"Descontos\" do resumo do pedido mostra o valor que o código abateu de verdade.",
           "O cupom entrou em cima do preço promocional do site. O Top Whey 3W + Sabor 900G Brigadeiro estava em promoção:"
         ],
         "image": "/images/reviews/max-titanium/max-titanium-cupom-03-desconto-aplicado.webp",
@@ -79832,15 +79994,16 @@ export const reviewsData: unknown[] = [
               "R$ 172,25"
             ],
             [
-              "Se o Pix desse 5% sobre esse total (estimativa)",
-              "R$ 163,64"
+              "Valor no Pix, depois do cupom",
+              "R$ 167,09"
             ]
           ]
         },
         "bullets": [
-          "**O cupom abateu cerca de 9% sobre a promoção.** No Top Whey 3W em promoção, o percentual ficou abaixo dos 10%.",
-          "**O Pix é de até 5%.** A home anuncia até 5% OFF no Pix e no boleto, e o percentual varia por produto: confira no carrinho.",
-          "**Cashback é crédito da loja.** A linha “Descontos” do carrinho mostra só o abatimento do cupom, não o cashback recebido. Confira elegibilidade, prazo e condições do crédito antes de contar com ele."
+          "**Perto de 9% em dois produtos.** No Top Whey 3W + Sabor e no Whey Blend, que estavam em promoção, o código abateu R$ 16,75 e R$ 7,00.",
+          "**2% nos demais.** Em outros 13 produtos que pusemos no carrinho em novembro, entre wheys, creatinas e pré-treinos, a linha \"Descontos\" ficou em 2% do preço.",
+          "**O Pix também varia.** Depois do código, o Pix tirou cerca de 3% na maioria dos itens e cerca de 6,5% na Creatina 300 g. Confira no carrinho o valor do Pix antes de pagar.",
+          "**Cashback é crédito da loja.** A linha \"Descontos\" do carrinho mostra só o abatimento do cupom, não o cashback recebido. Confira elegibilidade, prazo e condições do crédito antes de contar com ele."
         ],
         "postParagraphs": [
           "Para o passo a passo do carrinho, veja [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar). As condições atualizadas ficam na [página do cupom da Max Titanium](/cupons/max-titanium)."
@@ -79898,12 +80061,14 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Max Titanium? O Max November já está no ar e vai o mês inteiro, até o último dia de novembro, com a Black Friday do calendário na última sexta-feira. A home anuncia cashback de até 16% acima de R$ 150, um par de meias de brinde acima de R$ 199,90, roupas e acessórios com 50% OFF, brindes por faixa de valor e Pix e boleto anunciados com até 5%, conforme o item.",
           "O cupom MAX10EMCASACOMCECILIA vale na Black Friday? Vale. O cupom Max Titanium MAX10EMCASACOMCECILIA dá até 10% OFF: vale em todas as formas de pagamento e soma com as promoções do site e com o Pix. Nos produtos com preço do Max November, a linha Descontos do carrinho mostra o valor do cupom antes de pagar.",
-          "O cupom vale com produto em promoção? Sim. O cupom abateu R$ 16,75 de um Top Whey 3W que já estava com preço promocional. Se o Max November tiver regra própria para o cupom, o carrinho mostra antes de pagar.",
+          "O cupom vale com produto em promoção? Sim. O cupom abateu R$ 16,75 de um Top Whey 3W + Sabor e R$ 7,00 de um Whey Blend que já estavam com preço promocional. Se o Max November tiver regra própria para o cupom, o carrinho mostra antes de pagar.",
           "O cupom soma com o cashback do Max November? Não dá para afirmar pelo carrinho: o cupom abate o preço na hora, e o cashback é um crédito da loja com regras próprias. Confira na campanha os produtos e clientes elegíveis, o prazo e como o saldo poderá ser usado.",
-          "O cupom soma com o desconto do Pix? Sim. O desconto de pagamento anunciado para Pix e boleto pode ser menor que 5% por item. Confira no carrinho o valor dos produtos, o cupom, o pagamento e o frete antes de pagar.",
+          "O cupom soma com o desconto do Pix? Sim. Nos carrinhos de novembro, o Pix tirou cerca de 3% na maioria dos produtos, depois do cupom, e mais que isso na Creatina 300 g. Confira no carrinho o valor dos produtos, o cupom, o pagamento e o frete antes de pagar.",
           "Quanto é o frete grátis da Max Titanium? Depende da região do CEP: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte, segundo a política do site em outubro. O valor do frete não conta para o mínimo, e Sedex fica de fora.",
           "O cupom pode tirar o frete grátis? Pode. Se o total depois do cupom ficar abaixo do mínimo da sua região, o frete pode ser cobrado. Confira o total no carrinho antes de pagar.",
-          "Posso usar o cupom na primeira compra? Pode. O código vale para conta nova e para quem já comprou, e depois o resumo do pedido mostra a linha \"Descontos\"."
+          "Posso usar o cupom na primeira compra? Pode. O código vale para conta nova e para quem já comprou, e depois o resumo do pedido mostra a linha \"Descontos\".",
+          "Quanto o MAX10EMCASACOMCECILIA desconta de verdade? Até 10%, conforme o produto. Nos carrinhos de novembro, o desconto ficou perto de 9% no Top Whey 3W + Sabor e no Whey Blend e em 2% nos outros produtos testados. A linha Descontos mostra o valor antes de pagar.",
+          "Qual pré-treino da Max Titanium sai mais barato por porção? Na nossa leitura, o Égide de 300 g: a porção do rótulo é de 6 g, o pote rende 50 porções, e cada uma saiu por menos de R$ 2 com o cupom."
         ]
       }
     ]
@@ -79911,7 +80076,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 438,
     "slug": "black-friday-dr-peanut",
-    "title": "Black Friday Dr. Peanut 2026: cupom DREMCASACOMCECILIA, ofertas e frete grátis",
+    "title": "Black Friday Dr. Peanut 2026: qual pasta, combo ou snack comprar e a conta com o cupom DREMCASACOMCECILIA",
     "seoTitle": "Black Friday Dr. Peanut 2026: cupom de 10% e frete grátis",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
@@ -79923,11 +80088,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Guia de Black Friday da Dr. Peanut: como conferir as ofertas, aplicar o cupom DREMCASACOMCECILIA e comparar o total com o mínimo do frete grátis da sua região.",
-    "metaDescription": "DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. Black Friday 2026: confira ofertas, desconto aplicado e mínimo de frete do seu pedido.",
+    "description": "Guia de Black Friday da Dr. Peanut: qual pote, combo ou snack escolher, quanto sai com o cupom DREMCASACOMCECILIA e quando o desconto tira o frete grátis do pedido.",
+    "metaDescription": "DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. Black Friday 2026: qual pote, combo ou snack escolher e o mínimo de frete do pedido.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/dr-peanut/black-friday-dr-peanut-capa-v2.webp",
@@ -79936,15 +80101,15 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento",
-      "Soma com as promoções do site: vale até na pasta de amendoim em promoção",
-      "O Pix tem 3% de desconto na ficha do produto",
+      "Soma com as promoções do site: vale nos potes e nos combos que já estão com desconto",
+      "No checkout, os 3% do Pix entraram sobre o valor já com o cupom",
       "Frete grátis a partir de R$ 149,90 em São Paulo capital, Sudeste e Sul"
     ],
     "cons": [
       "Em novembro, o site não tinha datas, produtos nem preços de Black Friday identificados",
-      "O frete grátis vale só na opção de entrega mais barata",
+      "O desconto do cupom pode deixar o pedido abaixo do mínimo do frete grátis",
       "No Centro-Oeste, Nordeste e Norte, o frete grátis só começa em R$ 199,90",
-      "Na troca por outro produto, o frete de ida e de volta é seu"
+      "A página da assinatura não diz se o cupom se repete nas cobranças seguintes"
     ],
     "cta": {
       "text": "Entre no site da Dr. Peanut e digite o DREMCASACOMCECILIA no carrinho: são 10% OFF em todo o site. Confira a linha \"Descontos\" antes de pagar.",
@@ -79971,13 +80136,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Dr. Peanut 2026",
         "paragraphs": [
-          "Em novembro, a home da Dr. Peanut trazia frete grátis e combos, sem campanha de Black Friday identificada, e o grande dia é 27 de novembro. O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site e soma com as promoções no ar; confira no carrinho se o desconto do Pix soma também."
+          "Em meados de novembro, a Dr. Peanut seguia sem campanha de Black Friday identificada, com os potes e os combos nos preços de outubro. O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site e soma com as promoções e com os 3% do Pix. Para provar sabores, os combos de 250 g; para repor, os de 600 g."
         ]
       },
       {
         "heading": "A Dr. Peanut faz Black Friday?",
         "paragraphs": [
-          "Em novembro, a home mostrava o aviso de frete grátis por região e banners de combos (Flavor Fusion, Favoritos da Galera e a assinatura Pro), sem preço no texto e sem menção à Black Friday. Confira os banners e as condições da loja no dia da compra.",
+          "Em meados de novembro, a home seguia com o aviso de frete grátis por região, a vitrine de mais vendidos e a assinatura, sem menção à Black Friday. Os preços das pastas eram os mesmos de outubro: R$ 25,89 no pote de 250 g e R$ 59,89 no de 600 g. Confira os banners e as condições da loja no dia da compra.",
           "O que a marca já disse sobre a data é de 2024. Em matéria da ABCCOM, o diretor de marketing da Dr. Peanut afirmou que a marca foi a primeira mais buscada no Google na categoria de snack saudável durante a Black Friday de 2024, com share de 62,85% nas buscas por pasta de amendoim. É um dado de interesse de busca, dito pela própria marca: a matéria não traz percentuais de desconto, preços nem datas da campanha.",
           "Da Black Friday de 2025, não encontramos anúncio oficial da Dr. Peanut. Por isso este guia não usa ofertas de anos anteriores como régua de preço."
         ],
@@ -79990,6 +80155,169 @@ export const reviewsData: unknown[] = [
         }
       },
       {
+        "heading": "Para provar sabores: pote de 250 g ou combo pequeno",
+        "paragraphs": [
+          "Quem ainda não escolheu o sabor não precisa de pote grande. O pote de 250 g serve para provar um sabor, e os combos de 2 ou 3 potes de 250 g baixam o preço por 100 g sem encher o armário. Na nossa leitura de novembro, nove sabores tinham pote de 250 g: Avelã, Bombom Italiano, Brownie, Bueníssimo, Caramelo Salgado, Cookies & Cream, Doce de Leite, Leite em Pó e Pistache.",
+          "Pelo rótulo, três critérios ajudam a escolher:"
+        ],
+        "bullets": [
+          "**Mais proteína:** Avelã e Leite em Pó, com 20 g por 100 g.",
+          "**Menos açúcares totais:** Cookies & Cream e Brownie, com 4,6 g e 4,7 g por 100 g. Nenhum sabor tem açúcar adicionado; todos são adoçados com edulcorantes.",
+          "**O trio que a loja reúne:** Avelã, Bueníssimo e Cookies & Cream, no combo Os Favoritos da Galera, de 3 potes de 250 g."
+        ],
+        "comparisonTable": {
+          "caption": "Pastas de 250 g da Dr. Peanut: preço do site na nossa leitura de novembro e a conta com o cupom DREMCASACOMCECILIA (10%), sem frete.",
+          "headers": [
+            "Opção",
+            "No site",
+            "Com o cupom",
+            "Por 100 g, com o cupom"
+          ],
+          "rows": [
+            [
+              "1 pote de 250 g",
+              "R$ 25,89",
+              "R$ 23,30",
+              "R$ 9,32"
+            ],
+            [
+              "Combo de 2 potes de 250 g",
+              "R$ 47,64",
+              "R$ 42,88",
+              "R$ 8,58"
+            ],
+            [
+              "Combo de 3 potes de 250 g",
+              "R$ 68,35",
+              "R$ 61,51",
+              "R$ 8,20"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os combos \"Comprou, Ganhou\" trazem um alfajor de brinde com o pote de 250 g, pelo mesmo preço do pote avulso. O brinde não baixa o preço da pasta, mas serve para provar o snack.",
+          "Todas as pastas da Dr. Peanut declaram lactose e levam edulcorantes. Quem procura pasta só de amendoim, vegana ou sem lactose encontra essas opções em [Dr. Peanut ou La Ganexa: qual pasta de amendoim escolher](/reviews/dr-peanut-ou-la-ganexa). A comparação sabor a sabor está em [Dr. Peanut: qual o melhor sabor?](/reviews/dr-peanut-melhor-sabor).",
+          "Pedido pequeno paga frete: num carrinho com um pote, o frete para São Paulo custava mais que o desconto do cupom. Se a ideia é só provar, vale juntar os sabores num combo."
+        ]
+      },
+      {
+        "heading": "Para repor: pote de 600 g, combos e o frete grátis",
+        "paragraphs": [
+          "Para quem já consome a pasta, a conta é o preço por 100 g e o total entregue, com o frete. A loja não vende pote de 1 kg: o equivalente é o combo de 4 potes de 250 g, que deixa variar os sabores. Na nossa leitura, o pote de 600 g existia em quatro sabores (Bueníssimo, Chocolate Branco, Cookies & Cream e Pistache), e os combos de 600 g vinham com um sabor só, Bueníssimo ou Cookies & Cream."
+        ],
+        "comparisonTable": {
+          "caption": "Pastas da Dr. Peanut para repor: preço do site na nossa leitura de novembro, conta com o cupom DREMCASACOMCECILIA (10%) e frete grátis em São Paulo capital, Sudeste e Sul, onde o mínimo é de R$ 149,90 depois do cupom.",
+          "headers": [
+            "Opção",
+            "No site",
+            "Com o cupom",
+            "Por 100 g, com o cupom",
+            "Frete grátis com o cupom (Sul e Sudeste)"
+          ],
+          "rows": [
+            [
+              "1 pote de 600 g",
+              "R$ 59,89",
+              "R$ 53,90",
+              "R$ 8,98",
+              "Não"
+            ],
+            [
+              "Combo de 2 potes de 600 g",
+              "R$ 110,20",
+              "R$ 99,18",
+              "R$ 8,27",
+              "Não"
+            ],
+            [
+              "Combo de 4 potes de 250 g (1 kg)",
+              "R$ 88,03",
+              "R$ 79,23",
+              "R$ 7,92",
+              "Não"
+            ],
+            [
+              "Combo de 3 potes de 600 g",
+              "R$ 158,11",
+              "R$ 142,30",
+              "R$ 7,91",
+              "Não (sem o cupom, sim)"
+            ],
+            [
+              "Combo de 4 potes de 600 g",
+              "R$ 203,63",
+              "R$ 183,27",
+              "R$ 7,64",
+              "Sim"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O combo de 3 potes de 600 g é o caso para olhar com calma. Sem o cupom, ele passa do mínimo e o frete sai grátis no Sul e no Sudeste. Com o cupom, cai para R$ 142,30 e a loja cobra o frete: no nosso carrinho, com entrega em São Paulo, o total ficou em R$ 154,78, ainda R$ 3,33 abaixo do pedido sem o código. Em outro CEP a diferença muda, e pode inverter. Compare os dois totais antes de pagar.",
+          "No Centro-Oeste, no Nordeste e no Norte, o mínimo é de R$ 199,90, e o cuidado vale para o combo de 4 potes de 600 g: sem o cupom ele passa do mínimo, e com o cupom fica abaixo. O combo maior só compensa para quem vai consumir os potes. Levar um a mais apenas para alcançar o frete grátis aumenta o gasto.",
+          "No Pix, o checkout mostrou 3% sobre o valor dos produtos já com o cupom: o pote de 600 g saiu de R$ 53,90 para R$ 52,28, antes do frete. A conta por tamanho, com todos os combos, está em [Dr. Peanut: 250 g, 600 g ou kit, qual tamanho compensa](/reviews/dr-peanut-qual-tamanho-compensa)."
+        ]
+      },
+      {
+        "heading": "Assinatura: o primeiro pedido e as cobranças seguintes",
+        "paragraphs": [
+          "A assinatura da Dr. Peanut vale só para as pastas de 250 g e tem desconto progressivo. A página dela anunciava 4% com 1 pasta, 8% com 2, 12% com 3 e 20% com 4 ou mais, com entrega recorrente, cancelamento sem multa e troca de produtos e datas a qualquer momento.",
+          "Com 3 pastas, a calculadora da página mostra R$ 68,35 por ciclo, o mesmo valor do combo de 3 potes. Com 4, os 20% levam a conta para R$ 82,85, abaixo dos R$ 88,03 do combo de 4 potes (conta nossa, pela regra da página)."
+        ],
+        "bullets": [
+          "**Primeiro pedido:** no nosso teste de outubro, o DREMCASACOMCECILIA foi aceito no carrinho da assinatura com 3 pastas e somou ao desconto progressivo. O pedido ficou em R$ 60,58.",
+          "**Cobranças seguintes:** a página da assinatura não diz se o cupom se repete. O código aceito no primeiro carrinho não informa, sozinho, qual será o desconto das renovações. Confirme na contratação o valor e as condições das próximas cobranças.",
+          "**Frete:** os mínimos do frete grátis são os mesmos da compra avulsa, e uma assinatura de poucos potes fica abaixo deles."
+        ]
+      },
+      {
+        "heading": "Snacks: Doctor Bar, alfajor ou Doctor Wafer",
+        "paragraphs": [
+          "Os três snacks têm tamanhos e propostas diferentes, e a forma de venda pesa na escolha: a Doctor Bar só é vendida no display fechado de 8 barras."
+        ],
+        "comparisonTable": {
+          "caption": "Snacks da Dr. Peanut: rótulo por unidade, forma de venda e preço por unidade no site, na nossa leitura de novembro, com a conta de 10% do cupom DREMCASACOMCECILIA.",
+          "headers": [
+            "Snack",
+            "Proteína e calorias por unidade",
+            "Como é vendido",
+            "Por unidade",
+            "Por unidade, com o cupom"
+          ],
+          "rows": [
+            [
+              "Doctor Bar (62 g)",
+              "21 g; 260 a 268 kcal",
+              "Só no display de 8 (R$ 122,03)",
+              "R$ 15,25",
+              "R$ 13,73"
+            ],
+            [
+              "Alfajor (35 g)",
+              "4 a 4,7 g; 158 a 183 kcal",
+              "Avulso ou display de 12 (R$ 155,88)",
+              "R$ 12,99",
+              "R$ 11,69"
+            ],
+            [
+              "Doctor Wafer (25 g)",
+              "5 a 6 g; 118 a 127 kcal",
+              "Avulso, display de 12 (R$ 137,52) ou kit sortido de 12 (R$ 130,68)",
+              "R$ 11,46 (R$ 10,89 no kit)",
+              "R$ 10,31 (R$ 9,80 no kit)"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Mais proteína por real:** a Doctor Bar. Com 21 g por barra, é a que entrega a proteína mais barata dos três, mas pede a compra de 8 de uma vez. No nosso carrinho, o display caiu de R$ 122,03 para R$ 109,83 com o cupom e ficou abaixo do mínimo do frete grátis.",
+          "**Menos calorias e menor preço por unidade:** o Doctor Wafer. O kit sortido traz os três sabores e baixa o preço da unidade; há também um kit de 6.",
+          "**Formato intermediário:** o alfajor, com 0,8 g a 1,3 g de açúcares totais por unidade. O display de 12 tem o mesmo preço por unidade do avulso."
+        ],
+        "postParagraphs": [
+          "Sobre alérgicos: a Doctor Bar e o Doctor Wafer de Avelã declaram glúten e lactose. No alfajor, a loja publica a tabela nutricional, sem a lista de ingredientes nem o aviso de alérgicos em texto: confira a página e a embalagem. Os rótulos lado a lado estão em [Doctor Bar, alfajor e Doctor Wafer: qual snack da Dr. Peanut escolher](/reviews/snacks-dr-peanut-qual-escolher) e em [Dr. Peanut é saudável?](/reviews/dr-peanut-e-saudavel)."
+        ]
+      },
+      {
         "heading": "Como o cupom entra na Black Friday",
         "paragraphs": [
           "O **DREMCASACOMCECILIA** soma com as promoções: 10% OFF em todo o site, em qualquer pagamento. A conferência é no carrinho, antes de pagar.",
@@ -80000,7 +80328,7 @@ export const reviewsData: unknown[] = [
           "**Cupom:** os 10% do DREMCASACOMCECILIA entram sobre o subtotal do carrinho, que já traz o preço promocional."
         ],
         "postParagraphs": [
-          "A ficha do produto mostra 3% de desconto no Pix. Se esse desconto soma com o cupom, só o resumo do carrinho mostra.",
+          "A ficha do produto mostra 3% de desconto no Pix. Na nossa leitura de novembro, o checkout aplicou esses 3% sobre o valor dos produtos já com o cupom.",
           "O teste no carrinho mostra a soma do cupom com a promoção. O carrinho tinha três itens, entre eles uma pasta de amendoim em promoção, de R$ 64,90 por R$ 59,89. O subtotal era de R$ 440,16. Com o cupom, a linha \"Descontos\" abateu R$ 44,02, que são 10% do subtotal, e o total ficou em **R$ 396,14**.",
           "Se a linha \"Descontos\" não aparecer no resumo do carrinho, o cupom não foi aplicado. Confira se o código está escrito igual, sem letra faltando."
         ],
@@ -80067,9 +80395,11 @@ export const reviewsData: unknown[] = [
           "O cupom DREMCASACOMCECILIA vale na Black Friday? Vale. O cupom Dr. Peanut DREMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as promoções no ar: no nosso teste, entrou também sobre a pasta de amendoim que já estava em promoção.",
           "A Dr. Peanut tem frete grátis? Tem, e o mínimo conta o valor depois do cupom: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte.",
           "Quanto o carrinho precisa ter para ter frete grátis com o cupom? O mínimo da sua região, já com o desconto: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte. Se o cupom deixar o total abaixo disso, a loja cobra o frete.",
-          "A Dr. Peanut tem desconto no Pix? Tem: a ficha do produto mostra 3%. O cupom vale em todas as formas de pagamento, inclusive no Pix.",
+          "A Dr. Peanut tem desconto no Pix? Tem: 3%. No checkout, os 3% entraram sobre o valor dos produtos já com o cupom, que vale em todas as formas de pagamento.",
           "Dá para trocar um produto da Dr. Peanut? Dá. Por arrependimento, são 7 dias corridos do recebimento, e a loja paga a devolução (a política da loja pede a embalagem original e o lacre intactos). Na troca por outro produto, o frete de ida e de volta é seu. Por defeito, são 30 dias para alimentos.",
-          "Vale esperar a Black Friday para comprar? Se o pedido não é urgente, compare o total do carrinho na semana da Black Friday com o de hoje, já com o cupom. A loja não publicou preço de campanha, então nenhum desconto está garantido."
+          "Vale esperar a Black Friday para comprar? Se o pedido não é urgente, compare o total do carrinho na semana da Black Friday com o de hoje, já com o cupom. A loja não publicou preço de campanha, então nenhum desconto está garantido.",
+          "O cupom vale na assinatura da Dr. Peanut? No nosso teste, o DREMCASACOMCECILIA foi aceito no primeiro carrinho da assinatura e somou ao desconto progressivo. A página da assinatura não informa se ele se repete nas cobranças seguintes: confirme na contratação.",
+          "Qual combo da Dr. Peanut compensa na Black Friday? Para provar, os combos de 2 ou 3 potes de 250 g. Para repor, os de 600 g têm o menor preço por 100 g, e o de 4 potes mantém o frete grátis no Sul e no Sudeste mesmo com o cupom. Compre a quantidade que você vai consumir."
         ]
       }
     ]
@@ -80295,8 +80625,8 @@ export const reviewsData: unknown[] = [
     "bodyDatesReason": "campanha",
     "id": 440,
     "slug": "black-friday-clea-store",
-    "title": "Black Friday Cléa Store 2026: 30% OFF em todo o site, kits a preço fixo e o cupom CSEMCASACOMCECILIA",
-    "seoTitle": "Black Friday Cléa Store 2026: 30% OFF e cupom",
+    "title": "Black Friday Cléa Store 2026: T-shirt de brinde, kits de camisetas, bodies e o cupom CSEMCASACOMCECILIA",
+    "seoTitle": "Black Friday Cléa Store 2026: brinde, kits e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -80307,11 +80637,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da Cléa Store já está no ar, com 30% OFF em todo o site e kits a preço fixo. Veja o que a loja mostra e como o cupom CSEMCASACOMCECILIA somou no carrinho.",
-    "metaDescription": "Black Friday Cléa Store 2026: o cupom CSEMCASACOMCECILIA dá 10% e somou com os 30% OFF e os kits a preço fixo no teste. Frete e cashback.",
+    "description": "A Black Friday da Cléa Store dá uma T-shirt de brinde na compra de qualquer peça e descontos por produto. Veja qual camiseta, body ou alfaiataria escolher e a conta com o cupom.",
+    "metaDescription": "Black Friday Cléa Store 2026: o cupom CSEMCASACOMCECILIA dá 10% e somou com os kits em promoção no teste. Veja camisetas, bodies e o brinde.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/clea-store/black-friday-clea-store-capa-v2.webp",
@@ -80320,37 +80650,148 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site e vale com todas as formas de pagamento",
-      "No nosso teste de 14/10/2026, o cupom valeu sobre um kit que já estava em promoção",
+      "No teste mais recente, o cupom valeu sobre o kit de camisetas em promoção e a T-shirt de brinde continuou no carrinho",
       "O cupom e o cashback de 10% em créditos valem no mesmo pedido",
       "Devolução grátis, com 30 dias corridos depois do recebimento",
       "Frete grátis acima de R$ 599"
     ],
     "cons": [
-      "A loja não publica até quando a campanha vale, e o cupom pode não valer sobre os preços da Black Friday",
-      "Os bodies já tinham desconto em outubro, então o preço de tabela não serve de referência",
+      "A campanha mudou ao longo de novembro, e a loja não publica até quando cada oferta vale",
+      "Nem todo body está abaixo do preço de outubro: compare antes de fechar",
       "A loja aceita só um cupom por pedido",
-      "Os termos da loja preveem exceção para produtos remarcados, e o cupom pode não valer em peça avulsa remarcada"
+      "Várias peças de alfaiataria estavam com a grade curta ou esgotadas na nossa leitura"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida: Black Friday Cléa Store 2026",
         "paragraphs": [
-          "A Black Friday da Cléa Store já está no ar, com 30% OFF em todo o site e kits a preço fixo, sem data de fim publicada. O dia da Black Friday é 27 de novembro. No nosso teste com a campanha no ar, o cupom CSEMCASACOMCECILIA somou 10% OFF sobre os dois tipos de preço."
+          "A Black Friday da Cléa Store está no ar com descontos por peça e uma T-shirt oversized de brinde na compra de qualquer item, sem data de fim publicada. O cupom CSEMCASACOMCECILIA somou 10% OFF sobre os preços da campanha no nosso teste, e o brinde continuou no carrinho. Os kits de camisetas e os bodies concentram as ofertas."
         ]
       },
       {
         "heading": "O que a Black Friday da Cléa Store mostra agora",
         "paragraphs": [
-          "A faixa do topo do site anuncia 30% OFF em todo o site, e o menu Black Friday tem duas seções: \"preço fixo\", com os kits, e \"Black 30\". O banner principal mostra o Kit 3 T-Shirts por R$ 199,00: em outubro, o mesmo kit saía por R$ 258,00 na promoção leve 3, pague 2, então o preço da campanha fica R$ 59,00 abaixo.",
-          "A sexta da Black Friday cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. A loja não publica quando a campanha termina nem se o preço muda na sexta. Nos produtos de preço cheio, o 30% é o que compara com a tabela de outubro; nos que já tinham desconto, como os bodies, só é desconto novo o que ficar abaixo do preço que o site mostrava em outubro."
+          "A faixa do topo do site anuncia a campanha assim: quem compra qualquer peça ganha uma T-shirt oversized. Ao lado vêm as regras de sempre da loja, frete grátis acima de R$ 599, 10% de cashback e devolução grátis. A página Black Friday reúne os descontos por produto: 33% nos kits de 3 camisetas, 30% nos bodies Gola Alta Manga Longa e Regata Duplo, 50% no Body Ombro Único e 20% na Camiseta Comfort.",
+          "A campanha mudou desde o começo de novembro. Naquela fase, a faixa anunciava 30% OFF em todo o site e o Kit 3 T-Shirts saía por R$ 199,00. Na leitura mais recente, o kit estava a R$ 258,00, o mesmo valor de outubro, e o brinde tinha entrado no lugar do desconto geral.",
+          "A sexta da Black Friday cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. A loja não publica quando a campanha termina nem se as ofertas mudam de novo até lá. Por isso as tabelas deste guia trazem o preço do site, a conta com o cupom e, quando existe, o preço de outubro."
         ],
         "image": {
           "src": "/images/reviews/clea-store/black-friday-clea-store-banner-kit-t-shirts.webp",
           "alt": "Banner da Black Friday da Cléa Store com uma modelo de camiseta preta e o Kit 3 T-Shirts por R$ 199",
-          "caption": "O Kit 3 T-Shirts no banner principal da Black Friday, na home da Cléa Store.",
+          "caption": "O banner do começo de novembro, com o Kit 3 T-Shirts por R$ 199. O preço do kit mudou depois.",
           "objectFit": "contain",
           "aspectRatio": 2.4615
         }
+      },
+      {
+        "heading": "Camisetas: Comfort, oversized avulsa ou kit de 3",
+        "paragraphs": [
+          "A Cléa Store vende dois cortes de camiseta. A **Camiseta Comfort Algodão Peruano** tem caimento regular, que acompanha o corpo sem ficar justa nem ampla, em malha interlock de 100% algodão peruano e três cores. A **T-Shirt Oversized Algodão** tem o corte amplo, dez cores e é a que forma os kits de 3.",
+          "A escolha começa pelo corte e termina na quantidade:"
+        ],
+        "bullets": [
+          "**Uma camiseta de corte regular:** a Comfort. Ela não tem kit, e o desconto da campanha já aparece na página.",
+          "**Uma oversized:** a avulsa, que estava sem desconto na campanha.",
+          "**Duas ou três oversized:** o kit de 3. Ele custa o mesmo que duas avulsas, então a terceira camiseta não aumenta o pedido. Os kits Classic, Colorful e Intense vêm com as cores fechadas; no Essenciais, você monta o trio entre as dez cores."
+        ],
+        "comparisonTable": {
+          "caption": "Camisetas da Cléa Store: preço do site na nossa leitura de novembro e a conta com o cupom CSEMCASACOMCECILIA. O kit foi testado no carrinho; as outras duas linhas são conta nossa de 10%.",
+          "headers": [
+            "Opção",
+            "No site",
+            "Com o cupom",
+            "Por camiseta, com o cupom"
+          ],
+          "rows": [
+            [
+              "Camiseta Comfort Algodão Peruano (caimento regular)",
+              "R$ 159,92",
+              "R$ 143,93",
+              "R$ 143,93"
+            ],
+            [
+              "T-Shirt Oversized Algodão, avulsa",
+              "R$ 129,00",
+              "R$ 116,10",
+              "R$ 116,10"
+            ],
+            [
+              "Kit 3 T-Shirts Oversized (Classic, Colorful, Intense ou Monte Seu Kit)",
+              "R$ 258,00",
+              "R$ 232,20",
+              "R$ 77,40"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O brinde entra por cima dessa conta. Com qualquer peça na sacola, o bloco \"Brindes disponíveis\" libera uma T-Shirt Oversized Algodão por R$ 0,00, e você escolhe cor e tamanho. Quem compra a Comfort, portanto, leva também uma oversized. A loja não publica as regras do brinde além da faixa do site: confira se ele aparece na sacola antes de pagar.",
+          "O kit Brazil Edition estava sem tamanhos disponíveis na nossa leitura. Tecido, lavagem e medidas das duas camisetas estão em [Camiseta Cléa Store é boa? Tecido, modelagem, tamanhos, kit e preço por peça](/reviews/camiseta-clea-store-e-boa)."
+        ]
+      },
+      {
+        "heading": "Bodies Second Skin: escolha pelo uso",
+        "paragraphs": [
+          "Os bodies da linha Second Skin têm a mesma composição, 90% poliamida e 10% elastano, e mudam no recorte. É o recorte que decide a compra:"
+        ],
+        "bullets": [
+          "**Trabalho, frio ou sob blazer:** o Gola Alta Manga Longa e o Regata Duplo, que tem a gola alta e dispensa a manga. São os dois com a opção de 3 unidades na página.",
+          "**Ocasião e noite:** o Frente Única, de decote profundo, e o Ombro Único, de decote assimétrico.",
+          "**Decote na frente ou nas costas:** o Decote Reversível. **Calor e menor preço:** o Regata Cavado. Os dois estavam sem tamanhos disponíveis na nossa leitura."
+        ],
+        "comparisonTable": {
+          "caption": "Bodies Second Skin da Cléa Store: preço de uma unidade no site na nossa leitura de novembro, a conta de 10% do cupom (nossa conta, sem teste no carrinho) e o preço de outubro, sem cupom.",
+          "headers": [
+            "Body e uso",
+            "No site",
+            "Com o cupom",
+            "Outubro, sem cupom"
+          ],
+          "rows": [
+            [
+              "Gola Alta Manga Longa: trabalho, frio, sob blazer",
+              "R$ 118,30",
+              "R$ 106,47",
+              "R$ 135,20"
+            ],
+            [
+              "Regata Duplo: gola alta sem manga, com alfaiataria ou jeans",
+              "R$ 111,30",
+              "R$ 100,17",
+              "R$ 127,20"
+            ],
+            [
+              "Frente Única Decote: ocasião e noite",
+              "R$ 124,00",
+              "R$ 111,60",
+              "R$ 95,40"
+            ],
+            [
+              "Ombro Único: ocasião",
+              "R$ 79,50",
+              "R$ 71,55",
+              "R$ 79,50"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os bodies já tinham desconto em outubro, então só é desconto novo o que ficou abaixo daquela régua. O Gola Alta ficou. O Ombro Único está no mesmo valor, e o Frente Única aparecia mais caro que em outubro. No Regata Duplo, a página da campanha e a sacola mostravam R$ 111,30, e a página do produto, R$ 127,20: vale o valor que a sacola mostrar.",
+          "Para quem vai levar três do mesmo modelo, a opção de 3 unidades baixa o preço de cada um: R$ 101,40 no Gola Alta e R$ 95,40 no Regata Duplo, os mesmos valores de outubro, e R$ 106,00 no Frente Única. Com um ou dois bodies no plano, a conta é a da unidade.",
+          "O body veste justo, e as faixas de busto de M e G não se encostam. Antes de escolher, passe pela [tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho). O comparativo completo dos modelos está em [Body Cléa Store Second Skin: qual modelo escolher por uso, tamanho e preço](/reviews/body-clea-store-second-skin-qual-escolher)."
+        ]
+      },
+      {
+        "heading": "Alfaiataria: a loja vende as peças separadas",
+        "paragraphs": [
+          "A Cléa Store não vende conjunto de alfaiataria pronto. Blazer, colete, calça e shorts são produtos separados, cada um com a sua grade, e o conjunto é você quem monta. As peças de alfaiataria não estavam na página Black Friday na nossa leitura; nelas, a campanha entra pelo brinde, e o cupom, pelos 10%."
+        ],
+        "bullets": [
+          "**Para o trabalho:** blazer com um body de gola alta por baixo ou com a Camisa Clássica Tricoline, que estava a R$ 207,20 na campanha (R$ 186,48 na conta com o cupom). As combinações com preço estão em [Look de trabalho com alfaiataria: combinações com peças da Cléa Store](/reviews/look-trabalho-alfaiataria-feminina-clea-store).",
+          "**Para o verão:** as peças de linho, como o blazer e o shorts rosa ou o colete com a calça de linho. Nem toda peça de cor parecida tem o mesmo tecido: confira a composição de cada uma em [Alfaiataria de verão na Cléa Store: dá para montar conjunto com peças avulsas](/reviews/alfaiataria-verao-clea-store).",
+          "**Grade:** na nossa leitura, várias peças tinham um ou dois tamanhos e algumas estavam esgotadas. Antes de escolher o blazer, confira se a parte de baixo existe no seu tamanho."
+        ],
+        "postParagraphs": [
+          "A alfaiataria só é vendida no site oficial. No Mercado Livre, a loja anuncia camisetas e parte dos bodies, e o cupom não vale lá: a comparação está em [Cléa Store no Mercado Livre ou no site: onde sai mais barato](/reviews/clea-store-mercado-livre-ou-site)."
+        ]
       },
       {
         "heading": "Como foi a Black Friday da Cléa Store em 2025?",
@@ -80410,13 +80851,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os bodies já tinham desconto em outubro, então o preço de tabela não serve de referência: só é desconto novo o que ficar abaixo do preço no site em outubro. Se aparecer no mesmo valor, o selo de Black Friday não mudou o preço. O kit se compara com os R$ 258,00, e o banner da campanha o mostra por R$ 199,00."
+          "Os bodies já tinham desconto em outubro, então o preço de tabela não serve de referência: só é desconto novo o que ficar abaixo do preço no site em outubro. Se aparecer no mesmo valor, o selo de Black Friday não mudou o preço. O kit de camisetas passou por R$ 199,00 no começo de novembro e voltou aos R$ 258,00 de outubro."
         ]
       },
       {
         "heading": "O cupom vale nos preços da Black Friday?",
         "paragraphs": [
-          "Os termos da Cléa Store dizem que o voucher não vale em \"produtos já remarcados, salvo exceção comunicada pela loja\". Por isso testamos no checkout, em outubro e de novo com a campanha no ar. Nas duas vezes, o cupom **CSEMCASACOMCECILIA** entrou sobre o preço já baixado.",
+          "Os termos da Cléa Store dizem que o voucher não vale em \"produtos já remarcados, salvo exceção comunicada pela loja\". Por isso testamos no checkout, em outubro e mais duas vezes com a campanha no ar. Nas três, o cupom **CSEMCASACOMCECILIA** entrou sobre o preço já baixado.",
+          "Na leitura mais recente, com o kit de volta a R$ 258,00, a linha \"Desconto\" mostrou R$ 25,80 e o pedido fechou em R$ 232,20. A T-shirt de brinde continuou disponível com o cupom aplicado. Com a Camiseta Comfort no mesmo carrinho, o aviso do frete grátis passou a descontar os 10% também sobre ela.",
           "No teste de outubro, o carrinho tinha só o Kit 3 T-Shirts Oversized Classic. O cupom de 10% incidiu sobre o preço promocional, não sobre os R$ 387,00."
         ],
         "comparisonTable": {
@@ -80473,26 +80915,27 @@ export const reviewsData: unknown[] = [
           "Três regras da loja mudam a conta do pedido."
         ],
         "bullets": [
-          "**Frete grátis acima de R$ 599.** A faixa do site anunciava \"frete grátis acima de R$ 599\". O cupom não dá frete grátis: a regra é da loja. O pedido do nosso teste, de R$ 232,20, ficou R$ 366,80 abaixo desse valor. Abaixo de R$ 599, o frete é calculado pelo CEP, no link \"Calcular\" da linha \"Entrega\" do resumo do pedido. Perto desse valor, confira o total do carrinho depois do cupom.",
+          "**Frete grátis acima de R$ 599.** O cupom não dá frete grátis: a regra é da loja, e a sacola conta o valor depois do cupom. No nosso teste, o aviso passou de \"faltam R$ 341,00\" para \"faltam R$ 366,80 para frete grátis\" quando o código entrou. Um carrinho de R$ 640,00, por exemplo, cai para R$ 576,00 com os 10% e volta a pagar frete. Perto dos R$ 599, compare o total com e sem o código, para o mesmo carrinho, o mesmo CEP e a mesma entrega.",
           "**Devolução grátis.** A devolução é grátis sempre: a postagem não é cobrada do cliente. O prazo é de 30 dias corridos depois do recebimento, com a peça sem uso, na embalagem original e com a nota fiscal. Cashback, cupons e frete grátis não são reembolsados. O passo a passo está em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel).",
           "**Cashback de 10% em créditos.** A página de cashback da loja diz que o benefício equivale a 10% em créditos, concedidos automaticamente ao comprar no site. Os créditos ficam disponíveis em até 1 dia útil, valem por 30 dias e são acumulativos. O saldo é usado no checkout, no campo \"Utilize seu saldo de créditos\", na etapa de pagamento. A página não cita valor mínimo nem exclusões."
         ],
         "postParagraphs": [
-          "O cupom e o cashback valem no mesmo pedido, mas o cashback é crédito para uma compra futura. No nosso teste, o checkout previa até R$ 25,80 antes do cupom e até R$ 23,22 depois, que são 10% dos R$ 232,20 já com o cupom. Esses créditos não abatem o valor pago naquele pedido."
+          "O cupom e o cashback valem no mesmo pedido, mas são contas separadas. O cupom baixa o valor que você paga agora. O cashback é um crédito de 10% calculado sobre o valor já com o cupom, para uma compra futura: no teste de outubro, o checkout previa até R$ 23,22 de créditos sobre os R$ 232,20 pagos. Esse crédito não abate o pedido em que foi gerado, fica disponível em até 1 dia útil, vale por 30 dias e entra no campo \"Utilize seu saldo de créditos\" da compra seguinte."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Cléa Store na Black Friday? O cupom da nossa parceria é o CSEMCASACOMCECILIA, com 10% OFF em todo o site, em todas as formas de pagamento.",
-          "O cupom CSEMCASACOMCECILIA vale na Black Friday? Vale. No teste com a campanha no ar, os 10% do cupom Cléa Store CSEMCASACOMCECILIA entraram sobre o Kit 3 T-Shirts de R$ 199,00, que fechou em R$ 179,10, e sobre um vestido com os 30% OFF. Os termos da loja preveem exceções: confira a linha Desconto antes de pagar.",
+          "O cupom CSEMCASACOMCECILIA vale na Black Friday? Vale. No teste com a campanha no ar, os 10% do cupom Cléa Store CSEMCASACOMCECILIA entraram sobre o Kit 3 T-Shirts em promoção, de R$ 258,00 para R$ 232,20, e a T-shirt de brinde continuou no carrinho. Os termos da loja preveem exceções: confira a linha Desconto antes de pagar.",
           "O cupom soma com o cashback? Sim, mas o cashback é crédito futuro: no nosso teste, o checkout mostrou até R$ 23,22 de créditos previstos sobre o valor depois do cupom. Esse benefício não reduz o valor pago no pedido. Confira a previsão antes de pagar.",
           "Posso usar dois cupons no mesmo pedido? Não. Pelos termos da loja, cada cliente usa um voucher por pedido.",
           "O cupom dá frete grátis? Não. O frete grátis é regra da loja e valia acima de R$ 599. Abaixo disso, o frete é calculado pelo CEP no carrinho.",
           "A Cléa Store tem devolução grátis? Sim, sempre: a postagem não é cobrada. O prazo é de 30 dias corridos depois do recebimento, com a peça sem uso e com a nota fiscal.",
           "Como funciona o cashback da Cléa Store? É de 10% em créditos, concedidos automaticamente na compra pelo site. Ficam disponíveis em até 1 dia útil, valem por 30 dias, são acumulativos e são usados no campo \"Utilize seu saldo de créditos\" do checkout.",
-          "Quando começa e quanto dura a Black Friday da Cléa Store? Já começou: a faixa do site anuncia 30% OFF em todo o site, e o menu Black Friday traz os kits a preço fixo e a seção Black 30. A Black Friday é na última sexta de novembro, e a loja não publica a data de fim da campanha.",
-          "O que é a seção Black 30 da Cléa Store? É uma das duas seções do menu Black Friday da loja, ao lado da de kits a preço fixo. A faixa do site anuncia 30% OFF em todo o site; o desconto de cada peça é o que a página dela mostra."
+          "Quando começa e quanto dura a Black Friday da Cléa Store? Já começou: a faixa do site anuncia uma T-shirt oversized de brinde na compra de qualquer peça, e a página Black Friday traz os descontos por produto. A Black Friday é na última sexta de novembro, e a loja não publica a data de fim da campanha.",
+          "Como funciona a T-shirt de brinde da Cléa Store? Com qualquer peça na sacola, o bloco de brindes libera uma T-Shirt Oversized Algodão sem custo, e você escolhe cor e tamanho. No nosso teste, o brinde continuou disponível com o cupom aplicado. A loja não publica outras regras: confira a sacola antes de pagar.",
+          "Vale mais a pena o kit de 3 camisetas ou a avulsa? Para duas ou três camisetas oversized, o kit: ele custa o mesmo que duas avulsas. Para uma só, a avulsa. A Camiseta Comfort, de caimento regular, é vendida só avulsa."
         ]
       }
     ],
@@ -104411,7 +104854,7 @@ export const reviewsData: unknown[] = [
     "bodyDatesReason": "campanha",
     "id": 531,
     "slug": "black-friday-mais-mu",
-    "title": "Black Friday Mais Mu 2026: Blue Friday com até 50% já no ar, preços de outubro e o cupom MMEMCASACOMCECILIA",
+    "title": "Black Friday Mais Mu 2026: Blue Friday com até 50%, qual whey, creatina e barrinha comprar e o cupom MMEMCASACOMCECILIA",
     "seoTitle": "Black Friday Mais Mu 2026: até 50% OFF e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
@@ -104423,11 +104866,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Mais Mu chama a Black Friday de Blue Friday e já tem até 50% OFF e 3% no Pix. Veja os preços de outubro de whey e creatina e como o MMEMCASACOMCECILIA entra na conta.",
+    "description": "A Blue Friday da Mais Mu tem até 50% OFF e 3% no Pix. Veja qual whey, creatina ou barrinha escolher, a conta com o MMEMCASACOMCECILIA e a diferença entre gerar e usar cashback.",
     "metaDescription": "Black Friday Mais Mu 2026: o cupom MMEMCASACOMCECILIA dá 10% OFF. A Blue Friday já está no ar, com até 50% OFF e 3% no Pix.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/mais-mu/black-friday-mais-mu-capa-v2.webp",
@@ -104438,7 +104881,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday da Mais Mu se chama Blue Friday e já está no ar, com até 50% OFF e mais 3% no Pix, sem data de fim publicada; a Black Friday do calendário é a última sexta de novembro. O cupom MMEMCASACOMCECILIA dá 10% OFF, soma com as ofertas e com o Pix, e não soma com o cashback."
+          "A Blue Friday da Mais Mu segue no ar, com até 50% OFF e mais 3% no Pix, sem data de fim publicada. O cupom MMEMCASACOMCECILIA dá 10% OFF e soma com as ofertas e com o Pix. A compra com o cupom gera cashback; o que não entra no mesmo pedido é o crédito de um cashback anterior."
         ]
       },
       {
@@ -104503,6 +104946,121 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Whey: pote, refil ou sachê",
+        "paragraphs": [
+          "O whey concentrado da Mais Mu tem 20 g de proteína por dose, e o isolado e a proteína vegetal, 22 g. A loja publica a contagem de doses de parte das embalagens, sempre como \"cerca de\", e é com ela que dá para comparar o custo da dose e da proteína. A tabela usa o preço do site na nossa leitura de novembro e a conta de 10% do cupom."
+        ],
+        "comparisonTable": {
+          "caption": "Whey e proteína vegetal da Mais Mu: preço do site na nossa leitura de novembro e conta com o cupom MMEMCASACOMCECILIA (10%). As contas por dose e por 100 g de proteína usam a contagem de doses publicada pela loja e o valor com o cupom.",
+          "headers": [
+            "Embalagem, doses e proteína por dose",
+            "No site → com o cupom",
+            "Por dose",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "Proteína vegetal, pote 450 g: 12 doses de 22 g",
+              "R$ 107,99 → R$ 97,19",
+              "R$ 8,10",
+              "R$ 36,81"
+            ],
+            [
+              "Concentrado, refil 900 g: cerca de 25 doses de 20 g",
+              "R$ 209,25 → R$ 188,33",
+              "R$ 7,53",
+              "R$ 37,67"
+            ],
+            [
+              "Isolado, pote 450 g: 16 doses de 22 g",
+              "R$ 179,99 → R$ 161,99",
+              "R$ 10,12",
+              "R$ 46,02"
+            ],
+            [
+              "Concentrado, pote 450 g: cerca de 13 doses de 20 g",
+              "R$ 135,99 → R$ 122,39",
+              "R$ 9,41",
+              "R$ 47,07"
+            ],
+            [
+              "Concentrado, caixa de 15 sachês: 20 g por sachê",
+              "R$ 203,87 → R$ 183,48",
+              "R$ 12,23",
+              "R$ 61,16"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Refil de 900 g:** o menor custo por proteína entre os concentrados com contagem publicada. É a escolha de quem já sabe o sabor e usa o pote que tem em casa.",
+          "**Pote de 450 g:** a menor quantidade para começar ou trocar de sabor. Os potes de parceria (Pistache Borelli, Banoffee Nanica e Brownie do Luiz, de 418 g e 420 g) custavam o mesmo que o pote comum, sem contagem de doses publicada.",
+          "**Caixa de 15 sachês:** cada sachê é uma dose, pronta para levar. A praticidade tem preço: é a proteína mais cara da tabela.",
+          "**Isolado e vegetal:** nas ofertas de novembro, o isolado de 450 g estava com a proteína no mesmo patamar do concentrado de 450 g, e a proteína vegetal tinha o menor custo da tabela."
+        ],
+        "postParagraphs": [
+          "O refil concentrado de 1,8 kg e o isolado de 900 g estavam sem estoque na nossa leitura. Sabores, versões e a conta de cada embalagem estão em [Whey Mais Mu: qual sabor e qual versão escolher](/reviews/whey-mais-mu-qual-escolher). As comparações com outras marcas estão em [Mais Mu ou Growth](/reviews/mais-mu-ou-growth) e [Mais Mu ou Dux](/reviews/mais-mu-ou-dux)."
+        ]
+      },
+      {
+        "heading": "Creatina e pré-treino: o que estava em oferta",
+        "paragraphs": [
+          "A **Creatina 100% Pura, refil de 500 g**, sem sabor, estava a R$ 74,90, de R$ 119,90, abaixo dos R$ 79,90 de outubro. É o item em que já testamos o cupom sobre o preço de oferta: os 10% entraram, e o refil sai por R$ 67,41, ou R$ 13,48 por 100 g. A dose do rótulo é de 3 g, e a loja fala em cerca de 167 doses por refil.",
+          "No pré-treino **Exquenta**, a dose é de 20 g, com 150 mg de cafeína. O pote de 500 g no sabor Amora e Melancia estava a R$ 89,99, de R$ 179,99: com o cupom, R$ 80,99, ou R$ 3,24 por dose. O de 300 g no sabor Tropical estava a R$ 96,75, e a dose saía por R$ 5,81 com o cupom. Nem todo sabor de 500 g estava com o mesmo desconto: confira o preço do sabor que você quer."
+        ],
+        "postParagraphs": [
+          "O rótulo de cada versão, inclusive as sem cafeína, está em [Exquenta Mais Mu: o que o rótulo mostra em cada sabor, sachê e versão sem cafeína](/reviews/pre-treino-exquenta-mais-mu-e-bom). Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
+        ]
+      },
+      {
+        "heading": "Barrinhas e wafers: proteína por unidade ou menos calorias",
+        "paragraphs": [
+          "As barrinhas e os wafers da Mais Mu são vendidos em caixa. Na conta por grama de proteína, os quatro ficaram próximos; o que separa um do outro é o tamanho da unidade, as calorias e o valor da caixa."
+        ],
+        "comparisonTable": {
+          "caption": "Barrinhas e wafers proteicos da Mais Mu: rótulo por unidade e preço por unidade no site, na nossa leitura de novembro, com a conta de 10% do cupom MMEMCASACOMCECILIA.",
+          "headers": [
+            "Produto e caixa",
+            "Proteína e calorias por unidade",
+            "Por unidade → com o cupom",
+            "Por grama de proteína, com o cupom"
+          ],
+          "rows": [
+            [
+              "Mukebar 60 g, caixa de 12 (720 g)",
+              "15 g; 234 kcal",
+              "R$ 12,74 → R$ 11,47",
+              "R$ 0,76"
+            ],
+            [
+              "Chocowheyfer Max 50 g, caixa de 20",
+              "12 g; 259 a 264 kcal",
+              "R$ 9,68 → R$ 8,71",
+              "R$ 0,73"
+            ],
+            [
+              "Crush Bar 35 g, caixa de 12",
+              "10 g; 179 a 181 kcal",
+              "R$ 7,69 → R$ 6,92",
+              "R$ 0,69"
+            ],
+            [
+              "Chocowheyfer Sem Cobertura 25 g, caixa de 12",
+              "6 g; 126 a 130 kcal",
+              "R$ 4,49 → R$ 4,04",
+              "R$ 0,67"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Mais proteína por unidade:** a Mukebar de 60 g, com 15 g por barra. A caixa estava a R$ 152,90.",
+          "**Menos calorias e menor preço por unidade:** o Chocowheyfer Sem Cobertura, de 25 g. A caixa estava a R$ 53,91, a mais barata das quatro.",
+          "**No meio do caminho:** a Crush Bar, de 35 g e 10 g de proteína, e o Chocowheyfer Max, que vem em caixa de 20 e pede o maior desembolso."
+        ],
+        "postParagraphs": [
+          "O Veggie Wafer aparecia só dentro de um combo na nossa leitura. Açúcares, ingredientes e a tabela de cada sabor estão em [Barrinhas e wafers proteicos da Mais Mu: Mukebar, Crush Bar e Chocowheyfer, qual escolher](/reviews/barra-de-proteina-mais-mu-qual-escolher)."
+        ]
+      },
+      {
         "heading": "Cupom, Pix e o que soma",
         "paragraphs": [
           "O cupom é o **MMEMCASACOMCECILIA**. Ele dá 10% OFF em todo o site, com todas as formas de pagamento, para conta nova e para quem já comprou. No checkout, depois de \"Iniciar compra\", clique em \"Adicionar cupom de desconto\", cole o código e confira a linha \"Desconto do cupom\" no resumo.",
@@ -104520,11 +105078,26 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Ofertas: o cupom vale também para produto que já está em promoção. Em produto com o preço das ofertas de novembro, a linha \"Desconto do cupom\" do resumo mostra o valor antes de pagar.",
           "Pix: o cupom soma com o desconto de 3% que a loja dá no Pix.",
-          "Outros cupons: a loja não acumula cupons. O crédito do cashback e o desconto de boas-vindas contam como cupom e não somam com o MMEMCASACOMCECILIA. O cashback é regra da loja, não vantagem do nosso cupom.",
+          "Outros cupons: a loja não acumula cupons. O crédito de um cashback anterior e o desconto de boas-vindas contam como cupom e não entram no mesmo pedido que o MMEMCASACOMCECILIA. Já a compra feita com o nosso cupom gera cashback normalmente, como mostra a seção abaixo.",
           "Mercado Livre: o cupom não vale lá. Vale o preço do anúncio. Link da marca no [Mercado Livre](https://meli.la/24RjvdP)."
         ],
         "postParagraphs": [
           "O passo a passo com o carrinho está em [Cupom Mais Mu MMEMCASACOMCECILIA: como usar](/reviews/cupom-mais-mu-como-usar). As condições atualizadas ficam na [página do cupom da Mais Mu](/cupons/mais-mu). Para comprar direto na loja, use o [site oficial da Mais Mu](https://www.lojamaismu.com.br/)."
+        ]
+      },
+      {
+        "heading": "Cashback: gerar no pedido de hoje e usar um crédito são coisas diferentes",
+        "paragraphs": [
+          "O cashback da Mais Mu tem duas pontas, e o cupom se comporta de um jeito em cada uma."
+        ],
+        "bullets": [
+          "**Gerar cashback no pedido atual:** compras acima de R$ 250 devolvem 5% em crédito para uma compra futura, e a loja conta os R$ 250 sobre o total já com o desconto do cupom. Usar o MMEMCASACOMCECILIA, portanto, não impede o pedido de gerar cashback.",
+          "**Usar o crédito numa compra seguinte:** o crédito chega por e-mail como um código para o campo de cupom, vale por 90 dias e pede um pedido mínimo a partir de R$ 200. Como a Mais Mu aceita um cupom por pedido, ele não entra junto com o MMEMCASACOMCECILIA nem com o desconto de boas-vindas da loja."
+        ],
+        "postParagraphs": [
+          "Dois exemplos de conta, não de produto. Um carrinho de R$ 300,00 cai para R$ 270,00 com o cupom: continua acima de R$ 250 e gera R$ 13,50 de crédito. Um carrinho de R$ 270,00 cai para R$ 243,00 e deixa de gerar cashback.",
+          "Na compra seguinte, a escolha é entre os dois códigos. Num pedido de R$ 200,00, o cupom da parceria tira R$ 20,00, mais que um crédito de R$ 13,50. O crédito só rende mais quando vale mais que 10% do novo pedido. Com o cupom, o Pix ainda tira 3%.",
+          "O frete entra na mesma conta. No exemplo de R$ 300,00, o total com o cupom fica em R$ 270,00, abaixo dos R$ 299 do frete grátis no Sul, no Sudeste e no Centro-Oeste. A loja não diz se o mínimo conta antes ou depois do cupom: confira o frete no checkout com o código aplicado."
         ]
       },
       {
@@ -104546,12 +105119,14 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Mais Mu? Já começou: a Mais Mu chama a campanha de Blue Friday, com até 50% OFF e 3% no Pix, sem data de fim publicada. A Black Friday do calendário é a última sexta-feira de novembro.",
-          "O cupom MMEMCASACOMCECILIA vale na Black Friday? Vale. O cupom Mais Mu MMEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as ofertas e com o Pix e não soma com o cashback. Em produto com o preço das ofertas de novembro, o resumo do pedido mostra a linha Desconto do cupom antes de pagar.",
+          "O cupom MMEMCASACOMCECILIA vale na Black Friday? Vale. O cupom Mais Mu MMEMCASACOMCECILIA dá 10% OFF em todo o site e soma com as ofertas e com o Pix. Em produto com o preço das ofertas de novembro, o resumo do pedido mostra a linha Desconto do cupom antes de pagar.",
           "O cupom vale com produto em promoção? Sim. Os 10% entram também na creatina que já está em oferta.",
           "O cupom soma com o desconto do Pix? Sim. O cupom soma com o desconto de 3% que a loja dá no Pix.",
-          "Posso usar o cupom junto com o crédito do cashback? Não. A loja não acumula cupons, e o crédito do cashback conta como cupom.",
+          "Posso usar o cupom junto com o crédito do cashback? Não. O crédito chega como um código para o campo de cupom, e a loja aceita um cupom por pedido. Compare os dois: o crédito só rende mais quando vale mais que 10% do pedido.",
           "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio, sem o cupom.",
-          "O que é a Blue Friday da Mais Mu? É o nome que a loja dá à Black Friday: ofertas de até 50% OFF, por produto e de acordo com o estoque. A linha Desconto do cupom mostra no resumo do pedido o que o MMEMCASACOMCECILIA abateu antes de pagar."
+          "O que é a Blue Friday da Mais Mu? É o nome que a loja dá à Black Friday: ofertas de até 50% OFF, por produto e de acordo com o estoque. A linha Desconto do cupom mostra no resumo do pedido o que o MMEMCASACOMCECILIA abateu antes de pagar.",
+          "A compra com o cupom gera cashback na Mais Mu? Gera, quando o pedido passa de R$ 250 já com o desconto do cupom. A loja devolve 5% em crédito para uma compra futura, com validade de 90 dias.",
+          "Qual whey da Mais Mu compensa na Black Friday? Entre os concentrados com contagem de doses publicada, o refil de 900 g tinha o menor custo por proteína. O pote de 450 g serve para começar com menos, e a caixa de sachês, para levar a dose pronta."
         ]
       }
     ],
@@ -104559,12 +105134,12 @@ export const reviewsData: unknown[] = [
       "Ofertas de até 50% OFF já no ar, com 3% a mais no Pix",
       "O cupom MMEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento",
       "O cupom soma com as ofertas do site e com os 3% do Pix",
-      "A creatina refil de 500 g estava a R$ 79,90, de R$ 119,00, em 20/10/2026",
+      "A compra com o cupom ainda gera cashback quando passa de R$ 250 já com o desconto",
       "Frete grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste"
     ],
     "cons": [
       "A loja não publicou data de fim nem regra das ofertas de até 50%",
-      "O cupom não soma com o cashback nem com o desconto de boas-vindas da loja",
+      "O crédito de um cashback anterior e o desconto de boas-vindas não entram no mesmo pedido que o cupom",
       "O desconto do cupom pode deixar o total abaixo do mínimo do frete grátis",
       "No Norte e no Nordeste, o frete grátis começa em R$ 399"
     ],

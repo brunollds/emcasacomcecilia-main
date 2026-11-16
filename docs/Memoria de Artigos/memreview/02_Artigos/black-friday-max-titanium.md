@@ -203,3 +203,17 @@ Já resolvido, sem pergunta: o cupom soma com o desconto de até 5% do Pix e do 
 - **Alt (PT):** Embalagem de Whey Blend sabor morango da Max Titanium em foto oficial da marca.
 - **Origem:** foto oficial do Whey Blend morango, sem preço nem benefício na arte. Sem geração por IA.
 - **Lote 17 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/max-titanium/black-friday-max-titanium-capa-discover.webp`) fica no CDN, sem uso como capa.
+
+## Curadoria de Black Friday (16/11/2026)
+
+O guia ganhou três capítulos (proteínas, creatinas, pré-treinos), com conta por porção do rótulo sem arredondar o número de porções. Título, resposta rápida, meta e subtítulo mudaram; URL, capa e CTA não.
+
+- **Fonte:** catálogo e checkout da loja pelo navegador, com carrinho anônimo (a busca direta caiu em desafio). O checkout fica em `secure.maxtitanium.com.br`.
+- **Achado principal:** o MAX10EMCASACOMCECILIA rendeu 8,86% no Top Whey 3W + Sabor (R$ 16,75 sobre R$ 189,00) e no Whey Blend (R$ 7,00 sobre R$ 79,00) e 2% em outros 13 itens: 100% Whey Refil e Pote, 3W + Performance, IsoWhey, Super Whey, Creatina 300 g, 500 g e Creapure, Hórus, Égide 300 g e 150 g, Night Train e Shook.
+- **Pix depois do cupom:** cerca de 3% na maioria (Top Whey 3W R$ 172,25 → R$ 167,09); 6,5% na Creatina 300 g (R$ 58,70 → R$ 54,90).
+- **Preços:** wheys iguais aos de outubro. Creatina 500 g R$ 69,90 (era R$ 87,53); Égide 300 g R$ 89,90; Hórus 300 g R$ 88,89; Creapure R$ 139,89. Creatina 100 g e Hórus 150 g sem estoque. Existe Creatina 1 kg a R$ 109,90, fora dos nossos guias.
+- **Brindes no carrinho:** meia a partir do pedido de R$ 210,39; meia e Whey Drink 300 ml nos de R$ 273,55 e R$ 326,18.
+- **Super Whey:** a página declara porção de 120 g, com 30 g de proteína e 79 g de carboidrato.
+- **Formulação:** "até 10% com o código MAX10EMCASACOMCECILIA e até 5% no Pix, conforme o produto", pedida no handoff. A frase não está literal em `couponsData.ts`, que diz o mesmo com outras palavras.
+- **Não relido:** faixas do cashback, política de frete (os mínimos são os de outubro).
+- **Pendente fora deste guia:** `/cupons/max-titanium` e os guias de creatina e pré-treino calculam o cupom no teto de 10%.
