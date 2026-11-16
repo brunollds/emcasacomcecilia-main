@@ -962,7 +962,7 @@ function elementsWithAttribute(html: string, attribute: string) {
 const SIDEBAR_TEXT_KEYS = ['sectionsNav', 'tocTitle', 'copyHint', 'copiedHint', 'relatedTitle'] as const;
 function sidebarTexts(locale: Locale) {
   const copy = getSidebarCopy(locale);
-  const referralHints = getCodeHints(copy, 'referral', 'SHEIN');
+  const referralHints = getCodeHints(copy, 'referral', { slug: 'shein', brand: 'SHEIN' });
   return [
     ...SIDEBAR_TEXT_KEYS.map((key) => copy[key]),
     getCodeTitle(copy, 'referral', 'SHEIN'),
@@ -2199,7 +2199,7 @@ for (const url of articleUrls) {
   assert.ok(!sidebar.includes('id="cupom-artigo"'), `${pagePath}: a lateral leva o id do recorte do topo`);
   const store = getSingleStoreSlug(review) ? getCouponBySlug(getSingleStoreSlug(review)!) : undefined;
   const codeKind = getStoreCodeKind(store, review.coupon);
-  const hints = getCodeHints(copy, codeKind, store?.brand);
+  const hints = getCodeHints(copy, codeKind, store);
   let code: string | undefined;
   if (storeBlock) {
     assert.deepEqual(cutoutProblems(sidebarCutouts[0], locale, storeBlock), [], `${pagePath}: recorte da lateral`);

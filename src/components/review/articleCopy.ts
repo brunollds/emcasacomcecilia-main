@@ -126,7 +126,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
       kind === 'reward'
         ? `Copiado. Agora é só colar no campo Reward Code ${ofStore(store)}.`
         : kind === 'referral'
-          ? `Copiado. Agora pesquise o código de indicação no app ou no site da ${store.brand}.`
+          ? `Copiado. Agora pesquise o código de indicação no app ou no site ${ofStore(store)}.`
           : `Copiado. Agora é só colar no checkout ${ofStore(store)}.`,
     storeBlockTitle: (store) => `Sua compra ${inStore(store)}`,
     allRules: 'Ver todas as regras',

@@ -725,9 +725,9 @@ const storeReferralLabel = (locale: Locale) =>
     assert.ok(!reward.toLowerCase().includes(term) && !coupon.toLowerCase().includes(term), `${locale}: cupom ou recompensa chamado de indicação`);
     assert.ok(storeReferralLabel(locale).toLowerCase().includes(term), `${locale}: a página da SHEIN não usa o termo "${term}"`);
 
-    const referralHints = getCodeHints(copy, 'referral', 'SHEIN');
-    const plainHints = getCodeHints(copy, undefined, 'DAMIE');
-    assert.deepEqual(getCodeHints(copy, 'reward', 'YesStyle'), plainHints, `${locale}: a recompensa muda a dica do cupom`);
+    const referralHints = getCodeHints(copy, 'referral', { slug: 'shein', brand: 'SHEIN' });
+    const plainHints = getCodeHints(copy, undefined, { slug: 'damie', brand: 'DAMIE' });
+    assert.deepEqual(getCodeHints(copy, 'reward', { slug: 'yesstyle', brand: 'YesStyle' }), plainHints, `${locale}: a recompensa muda a dica do cupom`);
     assert.notEqual(referralHints.copy, plainHints.copy, `${locale}: dica do código de indicação igual à do cupom`);
     assert.notEqual(referralHints.copied, plainHints.copied, `${locale}: dica do código de indicação copiado igual à do cupom, que manda colar no checkout`);
     assert.ok(referralHints.copy.includes('SHEIN') && referralHints.copied.includes('SHEIN'), `${locale}: dica do código de indicação sem dizer onde pesquisar`);
