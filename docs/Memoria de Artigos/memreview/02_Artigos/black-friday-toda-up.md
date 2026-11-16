@@ -324,3 +324,16 @@ Tabela de preços: o Sutiã de Silicone Invisível passa a "de R$ 159,90" (o "de
 - **Alt (PT):** Três modelos vestem o sutiã Comfort Up da Toda Up em cores diferentes, em fotografia oficial da marca.
 - **Origem:** foto oficial do trio Comfort Up, rostos e peças inteiros; o recorte tira só os rótulos de tamanho e a borda da fonte (troca pedida e aprovada pelo Bruno no lugar do sutiã isolado). Sem geração por IA.
 - **Lote 17 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/toda-up/black-friday-toda-up-capa-discover.webp`) fica no CDN, sem uso como capa.
+
+## Curadoria de Black Friday, rodada 5 (16/11/2026)
+
+O guia ganhou três capítulos de escolha (qual usar com cada roupa, qual atende as medidas, qual kit compensa) e o capítulo do cupom foi reescrito. As tabelas e os carrinhos de outubro ficaram como régua. URL, capa e CTA não mudaram.
+
+- **MAUAD voltou a 10%.** No checkout de 16/11, uma Fita Up de R$ 116,90 teve R$ 11,69 de desconto (total R$ 105,21); no carrinho, Comfort Up 189,90 → 170,91, Top Segunda Pele 169,90 → 152,91 e Protetor 59,90 → 53,91. O Bruno confirmou no mesmo dia: voltou a 10% "por enquanto", pode voltar a 15%. A página `/cupons/toda-up` e os outros artigos da loja ainda dizem 15% (fora desta rodada).
+- **Fonte:** catálogo público e carrinho da loja, sem login, pelo navegador (o acesso direto respondeu 429). O link de creator não foi aberto; o código foi aplicado no carrinho.
+- **Preços do site (produtos da loja aberta):** Comfort Up, Line e Slim R$ 189,90; Top Segunda Pele R$ 169,90; Top Alça Fina R$ 199,90; Clássico R$ 208,90; calcinhas SkinUp R$ 49,90; tops Cotton Up R$ 132,90 (compre 2, leve 3 por R$ 265,80); Calcinha Cotton R$ 39,90; Sutiã de Silicone R$ 149,90; Fita Up R$ 116,90; Protetor R$ 59,90; Case R$ 49,90.
+- **Kits:** Comfort Up + Protetor R$ 190,90; Comfort Slim + Protetor R$ 202,35; SkinUp 1 conjunto R$ 199,90 e 3 conjuntos R$ 499,90; Cotton Up 1 conjunto R$ 155,52 e 3 conjuntos R$ 373,18; Kit Comfort Up R$ 398,79. A comparação com as avulsas é conta pelos preços das páginas; a simulação dos kits parou no 429.
+- **Black VIP:** as páginas "- Black VIP" seguem no catálogo; o cupom não entrou num Comfort Up dela. Comfort Up R$ 170,91 e Top Segunda Pele R$ 152,91 (iguais ao site aberto com o MAUAD); tops Cotton Up R$ 149,90.
+- **Home:** "Até 35% OFF no site todo", selos de até 40% e brindes acima de R$ 199.
+- **Não conferido:** Kit Invisible Up (não apareceu no catálogo lido), a cor do sutiã nos kits com protetor, a política de trocas (a página não abriu no endereço tentado; o texto antigo ficou) e se o brinde conta o valor depois do cupom.
+- **Grades e descrições das peças:** dos nossos guias (`sutia-toda-up-qual-escolher`, `skinup-ou-cotton-up-toda-up`, `kit-toda-up-quando-compensa`).

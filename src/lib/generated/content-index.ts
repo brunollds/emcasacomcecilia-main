@@ -129884,8 +129884,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-toda-up",
     "bodyDatesReason": "campanha",
     "locale": "pt",
-    "title": "Black Friday Toda Up 2026: a Black November com todo o site em desconto e o cupom",
-    "seoTitle": "Black Friday Toda Up 2026: Black November e cupom",
+    "title": "Black Friday Toda Up 2026: qual sutiã escolher, quando o kit compensa e o cupom MAUAD",
+    "seoTitle": "Black Friday Toda Up 2026: o que comprar, kits e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -129898,17 +129898,25 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "26 de outubro de 2026",
     "publishedAtISO": "2026-10-26",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
-    "description": "A Toda Up já está em Black November, com todo o site em desconto e selos de até 40%. Veja os carrinhos de exemplo, os preços para comparar e como o cupom da loja entra na conta.",
-    "metaDescription": "O cupom MAUAD dá 15% OFF na Toda Up. Black Friday: Black November com até 40% OFF, brinde por valor de pedido e preços de outubro para comparar.",
+    "description": "A Toda Up está em Black November. Veja qual peça usar com cada roupa, as grades que mudam a escolha, quando o kit compensa e quanto sai com o cupom MAUAD.",
+    "metaDescription": "O cupom MAUAD dá 10% OFF na Toda Up. Black Friday: veja qual sutiã escolher, quando o kit compensa e os preços de novembro contra os de outubro.",
     "image": "/images/reviews/toda-up/black-friday-toda-up-capa-v2.webp",
     "imageAlt": "Três modelos vestem o sutiã Comfort Up da Toda Up em cores diferentes, em fotografia oficial da marca.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [],
-    "cons": [],
+    "pros": [
+      "O cupom MAUAD tirou 10% por cima dos preços da Black November nos carrinhos testados",
+      "Os kits de sutiã com protetor saem bem abaixo das duas peças separadas",
+      "Tops Cotton Up e Protetor de Silicone estão abaixo do preço de outubro"
+    ],
+    "cons": [
+      "Comfort Up, Top Segunda Pele e calcinhas SkinUp estão mais caros que em outubro",
+      "Na Black VIP, o checkout não aceita o cupom",
+      "O kit de um conjunto exige o mesmo tamanho de top e de calcinha"
+    ],
     "cta": {
       "text": "Veja os preços da Black November no site da Toda Up pelo botão, com o cupom da Toda Up já aplicado, e confira o total no carrinho antes de pagar.",
       "label": "Ir para a Toda Up",
@@ -129920,20 +129928,23 @@ export const reviewsData: unknown[] = [
     "editorialNote": "A Toda Up é parceira: podemos receber comissão pelas compras no site. Ninguém da equipe usou os produtos.",
     "relatedArticles": [
       {
+        "slug": "sutia-toda-up-qual-escolher"
+      },
+      {
+        "slug": "kit-toda-up-quando-compensa"
+      },
+      {
         "slug": "cupom-toda-up-como-usar"
       },
       {
         "slug": "toda-up-e-confiavel"
-      },
-      {
-        "slug": "toda-up-reclame-aqui-nota-reputacao"
       }
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Toda Up já está em Black November: a home diz que todo o site está com desconto, com selos de até 40% OFF e calcinha de brinde por valor de pedido. O cupom MAUAD dá 15% em todo o site. Na Black Antecipada de outubro, quando dava 10%, ele somou com a campanha no carrinho. Na Black VIP, campanha da loja, o checkout não aceita o cupom enquanto ela durar; na Black November, confira o total antes de pagar."
+          "A Toda Up está em Black November, com desconto por peça e brinde por valor de pedido. O cupom MAUAD dá 10% em todo o site e entrou por cima dos preços da campanha nos carrinhos que testamos. Na Black VIP, o checkout não aceita o cupom. Para escolher, comece pela roupa, confira a grade e depois compare o kit."
         ]
       },
       {
@@ -129976,9 +129987,195 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "O cupom e a campanha: o teste de outubro",
+        "heading": "Qual usar com cada roupa",
         "paragraphs": [
-          "O cupom da Toda Up é o MAUAD, de 15% em todo o site. Num carrinho de outubro, quando ele dava 10%, ele entrou depois da progressiva: de R$ 360,81, os 12% da campanha tiraram R$ 43,28, e os 10% do cupom saíram dos R$ 317,53 restantes. Na Black VIP, enquanto durar, o checkout não aceita o cupom: avisa que ele não soma com a escada de desconto. Nos preços da Black November, a loja pode mudar a regra de soma durante a campanha, então confira a linha do cupom no carrinho antes de pagar. O passo a passo está em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
+          "Os preços são do site em 16 de novembro, um item por pedido. O MAUAD foi simulado no Comfort Up, no Top Segunda Pele e no Protetor; nas outras linhas, o valor é o preço da página menos 10%."
+        ],
+        "comparisonTable": {
+          "caption": "Site da Toda Up na leitura de novembro; a última coluna é o preço de venda registrado em outubro, sem cupom",
+          "headers": [
+            "Para usar com",
+            "Peça",
+            "No site",
+            "Com o MAUAD",
+            "Em outubro"
+          ],
+          "rows": [
+            [
+              "Dia a dia, com sustentação e sem aro",
+              "Sutiã Comfort Up",
+              "R$ 189,90",
+              "R$ 170,91",
+              "R$ 170,91"
+            ],
+            [
+              "Tomara que caia ou alças cruzadas",
+              "Sutiã Comfort Line",
+              "R$ 189,90",
+              "R$ 170,91",
+              "R$ 189,90"
+            ],
+            [
+              "Regata ou tecido fino, com pouco volume",
+              "Sutiã Comfort Slim",
+              "R$ 189,90",
+              "R$ 170,91",
+              "R$ 189,90"
+            ],
+            [
+              "Roupa justa, sem marcar",
+              "Top Segunda Pele SkinUp",
+              "R$ 169,90",
+              "R$ 152,91",
+              "R$ 152,91"
+            ],
+            [
+              "Roupa justa, com alça fina e fecho",
+              "Sutiã Top Alça Fina SkinUp",
+              "R$ 199,90",
+              "R$ 179,91",
+              "R$ 179,90"
+            ],
+            [
+              "Roupa justa, com bojo fixo",
+              "Sutiã Clássico SkinUp",
+              "R$ 208,90",
+              "R$ 188,01",
+              "R$ 219,90"
+            ],
+            [
+              "Básico de algodão",
+              "Top Faixa ou Triangular Cotton Up",
+              "R$ 132,90",
+              "R$ 119,61",
+              "R$ 149,90"
+            ],
+            [
+              "Decote profundo ou costas nuas",
+              "Sutiã de Silicone Invisível",
+              "R$ 149,90",
+              "R$ 134,91",
+              "R$ 149,90"
+            ],
+            [
+              "Decote profundo, com levantamento",
+              "Fita Up",
+              "R$ 116,90",
+              "R$ 105,21",
+              "R$ 119,90"
+            ],
+            [
+              "Roupa sem sutiã",
+              "Protetor de Silicone Ultrafino",
+              "R$ 59,90",
+              "R$ 53,91",
+              "R$ 69,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**Comfort:** o Up é o do dia a dia, com fecho e alças reguláveis. O Line tem faixas internas de silicone e alças que saem ou cruzam. O Slim é o mais discreto. A comparação dos três está em [sutiã Toda Up: qual escolher](/reviews/sutia-toda-up-qual-escolher).",
+          "**SkinUp e Cotton Up:** a SkinUp é a linha sem costura, para não marcar. O Top Segunda Pele tem alça larga e não tem fecho; o Clássico é a única peça das duas linhas com bojo fixo. A Cotton Up é o básico de algodão, com o Top Faixa de decote reto e o Triangular em V. Veja [SkinUp ou Cotton Up](/reviews/skinup-ou-cotton-up-toda-up).",
+          "**Adesivos:** cada um pede um jeito de aplicar. Os passos estão em [sutiã de silicone invisível](/reviews/sutia-de-silicone-invisivel-como-usar), [protetor de silicone](/reviews/protetor-de-silicone-mamilo-como-usar) e [Fita Up](/reviews/fita-up-como-usar).",
+          "Nem tudo ficou mais barato em novembro. O Comfort Up e o Top Segunda Pele custam hoje mais que em outubro; com o cupom, saem pelo preço que tinham em outubro sem ele. Os tops Cotton Up, o Clássico e o Protetor estão abaixo de outubro."
+        ]
+      },
+      {
+        "heading": "Qual atende as suas medidas",
+        "paragraphs": [
+          "Antes do preço, veja se a peça existe no seu tamanho. Quatro recortes mudam a escolha:"
+        ],
+        "bullets": [
+          "Só o Comfort Up vai do PP (34-36) ao G3 (54-56). É o único com G2 e G3.",
+          "O Comfort Line não tem PP: vai do P (38-40) ao G1 (46-48), e a loja avisa que a modelagem é menor.",
+          "Na SkinUp, só o Sutiã Top Alça Fina tem PP (34-36). O Top Segunda Pele e o Clássico começam no P.",
+          "O P não é o mesmo nas duas linhas: 38-40 na SkinUp e 36-38 na Cotton Up."
+        ],
+        "postParagraphs": [
+          "A grade fica no guia de medidas da página de cada produto. Confira ali antes de pôr no carrinho."
+        ]
+      },
+      {
+        "heading": "Qual kit compensa para a quantidade que você quer",
+        "paragraphs": [
+          "Compare o kit com as peças avulsas dentro da quantidade que você já ia comprar. O kit maior baixa o preço por peça e aumenta o total: só vale para quem vai usar tudo.",
+          "Os valores são do site na leitura de novembro, sem cupom. O MAUAD tira 10% dos dois lados, então a ordem não muda com ele."
+        ],
+        "comparisonTable": {
+          "caption": "Site da Toda Up na leitura de novembro, sem cupom. A soma das avulsas é conta nossa com os preços das páginas",
+          "headers": [
+            "Você quer",
+            "Kit",
+            "Preço do kit",
+            "Peças avulsas",
+            "Diferença"
+          ],
+          "rows": [
+            [
+              "1 sutiã e 1 protetor",
+              "Kit Sutiã Comfort Up + Protetor",
+              "R$ 190,90",
+              "R$ 249,80",
+              "Kit, por R$ 58,90"
+            ],
+            [
+              "1 sutiã e 1 protetor",
+              "Kit Sutiã Comfort Slim + Protetor",
+              "R$ 202,35",
+              "R$ 249,80",
+              "Kit, por R$ 47,45"
+            ],
+            [
+              "1 conjunto SkinUp",
+              "Kit Top e Calcinha Biquíni SkinUp",
+              "R$ 199,90",
+              "R$ 219,80",
+              "Kit, por R$ 19,90"
+            ],
+            [
+              "1 conjunto Cotton Up",
+              "Kit Top e Calcinha Biquíni Cotton Up",
+              "R$ 155,52",
+              "R$ 172,80",
+              "Kit, por R$ 17,28"
+            ],
+            [
+              "3 conjuntos SkinUp",
+              "Kit de 3 conjuntos SkinUp",
+              "R$ 499,90",
+              "R$ 659,40",
+              "Kit, por R$ 159,50"
+            ],
+            [
+              "3 conjuntos Cotton Up",
+              "Kit de 3 conjuntos Cotton Up",
+              "R$ 373,18",
+              "R$ 385,50",
+              "Kit, por R$ 12,32"
+            ],
+            [
+              "3 sutiãs Comfort",
+              "Kit Comfort Up (Up, Slim e Line)",
+              "R$ 398,79",
+              "R$ 569,70",
+              "Kit, por R$ 170,91"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**Sutiã com protetor:** é onde o kit mais compensa para quem compra uma peça só. A página do kit deixa escolher o tamanho do sutiã e a cor e o tamanho do protetor; confira ali a cor do sutiã.",
+          "**Um conjunto:** a diferença é pequena, e o kit pede o mesmo tamanho de top e de calcinha. Quem veste tamanhos diferentes compra as peças avulsas.",
+          "**Três conjuntos:** para quem já ia levar três. Na Cotton Up, a conta das avulsas usa a opção \"compre 2, leve 3\" da página do top; por isso a vantagem do kit é menor que na SkinUp.",
+          "**Adesivos:** o Kit Invisible Up junta as soluções de silicone, com ou sem a case. Não lemos o preço dele nesta rodada: a conta está em [kit Toda Up: quando compensa](/reviews/kit-toda-up-quando-compensa).",
+          "Antes de pagar, veja se o brinde da campanha continua no carrinho depois do cupom: o Kit SkinUp de um conjunto, de R$ 199,90, cai para R$ 179,91 com o MAUAD."
+        ]
+      },
+      {
+        "heading": "O cupom, a campanha e a Black VIP",
+        "paragraphs": [
+          "O cupom da Toda Up é o MAUAD, de 10% em todo o site. Em 16 de novembro, ele entrou por cima dos preços da Black November: uma Fita Up de R$ 116,90 saiu por R$ 105,21 no checkout, e um Comfort Up de R$ 189,90, por R$ 170,91. Por alguns dias de novembro, o mesmo código deu 15%; o percentual pode mudar de novo, então confira a linha do desconto antes de pagar.",
+          "A Black VIP é outra campanha da loja, com páginas próprias. Nela, o checkout não aceita o cupom. Nas páginas que lemos, o Comfort Up da Black VIP custava R$ 170,91 e o Top Segunda Pele, R$ 152,91: os mesmos valores do site aberto com o MAUAD. Nos tops Cotton Up, o site aberto com o cupom saiu melhor: R$ 119,61, contra R$ 149,90 na Black VIP.",
+          "Em outubro, na Black Antecipada, o desconto da loja era progressivo pelo subtotal, e o cupom, também de 10% na época, entrava depois dele: de R$ 360,81, os 12% da campanha tiraram R$ 43,28, e os 10% do cupom saíram dos R$ 317,53 restantes. O passo a passo está em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
         ],
         "image": {
           "src": "/images/reviews/toda-up/black-friday-toda-up-faixas-progressiva-2610.webp",
@@ -129989,7 +130186,7 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Três carrinhos para comparar",
+        "heading": "Três carrinhos de outubro, para comparar",
         "paragraphs": [
           "Na regra da Black Antecipada, o que pesava nos carrinhos era o subtotal: abaixo de R$ 299 só o cupom tirava, acima entrava a progressiva. Os carrinhos A e B são os do teste de outubro, com os números que a tela mostrou. O carrinho C é conta nossa, com a regra da faixa de 20% e os preços das coleções públicas; não foi montado no site. Na Black November, o desconto é por peça, então o seu carrinho pode sair diferente destes."
         ],
@@ -130042,7 +130239,7 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Preços para comparar",
+        "heading": "Preços de outubro, para comparar",
         "paragraphs": [
           "Estes são os preços de venda das coleções públicas em 26/10/2026, antes da progressiva e do cupom. Use-os como referência: compare a mesma peça e tamanho e confira desconto e frete no total atual."
         ],
@@ -130180,7 +130377,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Confira o tamanho no guia de medidas da página de cada produto: a troca por tamanho é grátis só na primeira vez.",
           "Veja o desconto de cada peça na página dela e se alguma linha da campanha apareceu no carrinho.",
-          "Aplique o cupom e confira o total: em outubro, os 10% de então saíram depois do desconto da campanha. Na Black VIP, o checkout não aceita o cupom.",
+          "Aplique o cupom e confira o total: na leitura de novembro, o MAUAD tirou 10% por cima do preço da campanha. Na Black VIP, o checkout não aceita o cupom.",
           "Confira o frete e o prazo pelo seu CEP.",
           "Compre só pelo site oficial, todaup.com, pelo link da parceria. O rodapé traz o CNPJ da FITA UP LTDA; a empresa, a troca de nome e as políticas estão em [Toda Up é confiável?](/reviews/toda-up-e-confiavel).",
           "Guarde o print do carrinho e o número do pedido; o portal de trocas pede o número e o CPF da titular."
@@ -130211,7 +130408,9 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Toda Up? Já começou: a home anuncia a Black November, com todo o site em desconto, selos de até 40% OFF e brindes por valor de pedido. A Black Friday é na última sexta de novembro, e a loja não publica a data de fim da campanha.",
           "A Toda Up tem Black Friday? Sim. Em outubro, o site mostrava a \"Black Antecipada\", com desconto progressivo de 12%, 15% e 20% pelo carrinho; agora mostra a \"Black November\", com desconto por peça.",
-          "O cupom MAUAD vale na Black Friday? O cupom Toda Up MAUAD dá 15%. Em outubro, na Black Antecipada, quando dava 10%, o cupom saiu depois do desconto da campanha. Na Black VIP, enquanto durar, o checkout não aceita o cupom de influenciadora: avisa que não soma com a escada de desconto. Nos preços da Black November, confira a linha do cupom no carrinho.",
+          "O cupom MAUAD vale na Black Friday? Vale. O cupom Toda Up MAUAD dá 10% em todo o site e entrou por cima dos preços da Black November nos carrinhos que testamos. Na Black VIP, o checkout não aceita o cupom de influenciadora.",
+          "Kit ou peça avulsa na Black Friday da Toda Up? Para um sutiã com protetor, o kit sai bem abaixo das duas peças. No kit de um conjunto, a diferença é pequena e o tamanho do top e da calcinha tem de ser o mesmo. O kit de três só vale para quem ia comprar três.",
+          "Black VIP ou site aberto com o cupom? Depende da peça. No Comfort Up e no Top Segunda Pele, os dois caminhos davam o mesmo valor na nossa leitura. Nos tops Cotton Up, o site aberto com o MAUAD saiu mais barato.",
           "Quanto dá o desconto da campanha? Na Black November, o desconto é por peça, com selos de 15%, 16%, 20% e até 40% nos produtos. Na Black Antecipada de outubro, era 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499, sobre o subtotal.",
           "A Black November da Toda Up tem brinde? Tem, pelo banner da campanha: acima de R$ 199, uma calcinha fio dental; acima de R$ 299, uma calcinha e um protetor de silicone. Confira o brinde no carrinho antes de pagar.",
           "A Black November tem frete grátis? A faixa do topo da home anuncia frete fixo de R$ 4,90 para todo o Brasil, não frete grátis; o brinde é que começa em R$ 199 de pedido. Na Black Antecipada de outubro, a faixa anunciava frete grátis em todo o site. Confira o frete pelo CEP no carrinho.",
