@@ -118785,8 +118785,8 @@ export const reviewsData: unknown[] = [
     "id": 587,
     "slug": "black-friday-skelt",
     "bodyDatesReason": "campanha",
-    "title": "Black Friday Skelt 2026: preços para comparar e cupom SKEMCASACOMCECILIA",
-    "seoTitle": "Black Friday Skelt 2026: datas, esquenta e cupom",
+    "title": "Black Friday Skelt 2026: o que comprar, kits e o cupom SKEMCASACOMCECILIA",
+    "seoTitle": "Black Friday Skelt 2026: o que comprar, kits e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -118797,11 +118797,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Compare as ofertas de novembro com os preços de outubro e veja como usar o SKEMCASACOMCECILIA. A ação de brindes com cupom em novembro já terminou; a Black Friday vem depois.",
-    "metaDescription": "Black Friday Skelt 2026: o cupom SKEMCASACOMCECILIA dá 10% OFF. A data da Black Friday, os preços de autobronzeador de outubro e o Pix.",
+    "description": "O November Glow da Skelt tem desconto progressivo, kits com 20% e itens pela metade. Veja o que comprar, quando o kit ganha do avulso e o total com o cupom SKEMCASACOMCECILIA.",
+    "metaDescription": "Black Friday Skelt 2026: o cupom SKEMCASACOMCECILIA dá 10% OFF e soma com o November Glow. Veja o que comprar e quando o kit ganha do avulso.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/skelt/black-friday-skelt-capa-v2.webp",
@@ -118812,17 +118812,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para avaliar a Black Friday da Skelt, compare o preço final de novembro com a tabela de outubro abaixo. O SKEMCASACOMCECILIA dá 10% OFF; confira a aplicação e o Pix no carrinho. A ação de brindes de 5 e 6 de novembro já terminou, e a Black Friday cai em 27 de novembro."
+          "A Skelt está no November Glow: desconto progressivo de 10%, 20% ou 25% conforme o número de produtos, kits com 20% e alguns itens pela metade do preço. O cupom SKEMCASACOMCECILIA tirou mais 10% por cima em todos os carrinhos que testamos. O Kit Iniciante ganha dos avulsos; a maioria dos outros kits perde."
         ]
       },
       {
         "heading": "Datas e ofertas da Black Friday Skelt",
         "paragraphs": [
+          "Em 15 de novembro, a campanha no ar era o November Glow. Ela tem três peças: um desconto progressivo nos produtos avulsos (10% com um item na sacola, 20% com dois, 25% com três ou mais), 20% nos kits e 15% nos duos, e uma seleção com até 50% OFF. A loja não mostra até quando vale.",
           "A Black Friday de 2026 cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. Em outubro, a coleção “BF - Live” indicava uma live de aquecimento; o nome sozinho não confirmava descontos. A ação de brindes e desconto progressivo de 5 e 6 de novembro anunciou 10%, 15% ou 20%, conforme o número de produtos, e já terminou; suas condições não garantem a oferta do dia 27. O registro de outubro mostrava:"
         ],
         "bullets": [
           "Em outubro, a home tinha coleções chamadas “Black Friday”, “Pre Black Friday” e “BF - Live”. Esses nomes eram indícios de preparação da campanha.",
-          "Em outubro, a sacola mostrava a flash sale \"OUT/26\", com 10% em todo o site, sem prazo de fim à mostra; o preço de venda da tabela abaixo já traz esses 10%.",
+          "Em outubro, a sacola mostrava a flash sale \"OUT/26\", com 10% em todo o site, sem prazo de fim à mostra; o preço de venda da tabela de outubro, mais abaixo, já traz esses 10%.",
           "A página da flash sale trazia 20% OFF no creme para mãos, também sem data de fim.",
           "Em outubro, o endereço /black-friday redirecionava para a home."
         ],
@@ -118837,9 +118838,192 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Preços para comparar",
+        "heading": "O que comprar agora: autobronzeadores",
         "paragraphs": [
-          "Guarde os preços de venda de outubro, antes do cupom: são eles que valem na comparação com as ofertas de novembro e com a sexta. Quando o produto mostra preço cheio, a tabela traz os dois valores."
+          "Os preços abaixo são de um produto sozinho na sacola, na leitura de novembro, sem código e com o SKEMCASACOMCECILIA. O nome abre a página do produto pelo link da parceria."
+        ],
+        "comparisonTable": {
+          "caption": "Sacola da Skelt na leitura de novembro, um produto por pedido; a última coluna é o preço de venda registrado em outubro, sem cupom",
+          "headers": [
+            "Produto",
+            "Na sacola",
+            "Com o cupom",
+            "Em outubro, na sacola"
+          ],
+          "rows": [
+            [
+              "[Mousse Autobronzeador](https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 107,91",
+              "R$ 97,12",
+              "R$ 107,91"
+            ],
+            [
+              "[Autobronzeador Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 107,91",
+              "R$ 97,12",
+              "R$ 107,91"
+            ],
+            [
+              "[Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 107,91",
+              "R$ 97,12",
+              "R$ 107,91"
+            ],
+            [
+              "[Mousse Autobronzeador Dark](https://www.skelt.com.br/autobronzeador-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 64,95",
+              "R$ 58,45",
+              "R$ 116,91"
+            ],
+            [
+              "[Água Autobronzeadora Dark](https://www.skelt.com.br/agua-autobronzeadora-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 64,95",
+              "R$ 58,45",
+              "sem registro"
+            ],
+            [
+              "[Gel Autobronzeador Hidratante](https://www.skelt.com.br/gel-autobronzeador-hidratante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 49,45",
+              "R$ 44,51",
+              "sem registro"
+            ],
+            [
+              "[Removedor de autobronzeador](https://www.skelt.com.br/removedor-autobronzeador/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 34,95",
+              "R$ 31,45",
+              "R$ 62,91"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**Primeira vez:** o Mousse é o que a Skelt indica para iniciante. Tem cor-guia, um pigmento que mostra onde o produto já passou e sai no banho, e a marca fala em 5 a 8 aplicações por frasco. Nenhum frasco vem com a luva; por isso o Kit Iniciante, mais abaixo, é a compra de quem está começando.",
+          "**Mais vendido da categoria:** na ordenação por mais vendidos do site, o Bifásico aparece na frente dos outros autobronzeadores. Ele leva a fragrância do body splash Grand Bahama. A página não diz se tem cor-guia nem quantas aplicações rende.",
+          "**Quem já sabe aplicar:** as versões Dark, que a ficha classifica como nível expert, estão pela metade do preço e saem mais baratas que as tradicionais. A Água e o Gel são incolores: não mancham a roupa durante a pausa, mas também não mostram onde você já passou.",
+          "**Removedor:** pela metade do preço, vale para quem aplica com frequência. Como ele funciona está em [removedor de autobronzeador Skelt](/reviews/removedor-autobronzeador-skelt-como-tirar).",
+          "A comparação completa dos sete, com intensidade e tempo de pausa, está em [Autobronzeador Skelt: qual escolher](/reviews/autobronzeador-skelt-qual-escolher). Para cor que sai no banho, sem esperar a reação, veja [bronzeado instantâneo ou autobronzeador](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador)."
+        ]
+      },
+      {
+        "heading": "O que comprar agora: body splash e perfume para cabelos",
+        "paragraphs": [
+          "Sete das dez fragrâncias custam o mesmo, então a escolha é pelo cheiro. Três estão com 40% e saem bem abaixo das outras."
+        ],
+        "comparisonTable": {
+          "caption": "Sacola da Skelt na mesma leitura, um produto por pedido",
+          "headers": [
+            "Produto",
+            "Na sacola",
+            "Com o cupom"
+          ],
+          "rows": [
+            [
+              "[Body Splash Solar Muse](https://www.skelt.com.br/body-splash-solar-muse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 89,91",
+              "R$ 80,92"
+            ],
+            [
+              "Hidden Flowers, Amalfi Sunset, Mystic Bloom, Velvet Milano, Unexpected Day e Urban Beat",
+              "R$ 89,91",
+              "R$ 80,92"
+            ],
+            [
+              "Pink Sands, Grand Bahama e Milos Breeze",
+              "R$ 59,94",
+              "R$ 53,95"
+            ],
+            [
+              "[Perfume para Cabelos Amalfi Sunset](https://www.skelt.com.br/perfume-para-cabelos-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 71,91",
+              "R$ 64,72"
+            ],
+            [
+              "[Kit Miniaturas Exotic Set](https://www.skelt.com.br/kit-miniaturas-exotic-set/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 59,94",
+              "R$ 53,95"
+            ],
+            [
+              "[Kit Miniaturas Sellers Set](https://www.skelt.com.br/kit-miniaturas-sellers-set/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 89,91",
+              "R$ 80,92"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na ordenação por mais vendidos do site, o Solar Muse aparece em primeiro, o Perfume para Cabelos Amalfi Sunset em segundo e o Hidden Flowers em terceiro. É a ordem da loja no dia da leitura, sem números de venda.",
+          "Quem não conhece os cheiros pode começar pelo kit de três miniaturas de 15 ml. O Exotic Set está com 40% e sai por R$ 53,95 com o cupom, o mesmo preço de um frasco de Pink Sands.",
+          "Solar Muse, Pink Sands, Grand Bahama e Milos Breeze não têm hidratante da mesma fragrância. Para fazer par com o body cream, escolha uma das outras seis. As notas de cada uma estão em [Body splash Skelt: qual escolher](/reviews/body-splash-skelt-qual-escolher), e os hidratantes, em [hidratante corporal Skelt: qual fragrância](/reviews/hidratante-corporal-skelt-qual-fragrancia)."
+        ]
+      },
+      {
+        "heading": "Kit ou avulso: a conta mudou em novembro",
+        "paragraphs": [
+          "Em outubro, a maioria dos kits ganhava dos avulsos. Com o desconto progressivo, a conta virou: dois produtos avulsos na sacola já levam 20%, e três, 25%, enquanto os kits ficam em 20% e os duos, em 15%. Comparamos sete kits com os mesmos produtos comprados soltos, tudo com o cupom."
+        ],
+        "comparisonTable": {
+          "caption": "Sacola da Skelt na mesma leitura, com o SKEMCASACOMCECILIA aplicado nos dois lados",
+          "headers": [
+            "Conjunto",
+            "Kit, com o cupom",
+            "Avulsos, com o cupom",
+            "Quem ganha"
+          ],
+          "rows": [
+            [
+              "[Kit Iniciante](https://www.skelt.com.br/kitiniciante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (Mousse + Luva)",
+              "R$ 94,25",
+              "R$ 111,46",
+              "Kit, por R$ 17,21"
+            ],
+            [
+              "[Kit Best Sellers 2025](https://www.skelt.com.br/kit-best-sellers-2025/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (Bifásico, Luva, splash e hidratante Amalfi)",
+              "R$ 237,46",
+              "R$ 239,35",
+              "Kit, por R$ 1,89"
+            ],
+            [
+              "Kit Iniciante Dark (Mousse Dark + Luva)",
+              "R$ 116,57",
+              "R$ 89,86",
+              "Avulsos, por R$ 26,71"
+            ],
+            [
+              "Perfume para Cabelos + Body Splash Amalfi Sunset",
+              "R$ 148,39",
+              "R$ 129,46",
+              "Avulsos, por R$ 18,93"
+            ],
+            [
+              "Kit Hidratação Corporal Radiante & Perfumada (3 hidratantes)",
+              "R$ 213,62",
+              "R$ 202,29",
+              "Avulsos, por R$ 11,33"
+            ],
+            [
+              "Duo + Creme para Mãos Hidden Flowers",
+              "R$ 165,15",
+              "R$ 157,07",
+              "Avulsos, por R$ 8,08"
+            ],
+            [
+              "Duo Hidden Flowers (splash + hidratante)",
+              "R$ 151,40",
+              "R$ 143,86",
+              "Avulsos, por R$ 7,54"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**Kit Iniciante:** segue sendo a compra de quem começa. O mousse e a luva soltos saem por R$ 111,46; no kit, R$ 94,25.",
+          "**Kit Iniciante Dark:** hoje não compensa. O Mousse Dark está pela metade do preço fora do kit, e com a luva avulsa o par sai R$ 26,71 mais barato.",
+          "**Duos e kits de fragrância:** monte você mesma. Dois produtos soltos levam 20%, mais que os 15% do duo, e três levam 25%.",
+          "**Uma armadilha:** produto da seleção de 50% no mesmo pedido pode desligar o desconto progressivo dos outros. Um Mousse e um Gel juntos saíram por R$ 152,42 com o cupom; em dois pedidos separados, R$ 141,63. Antes de pagar, tire o item de 50% da sacola e veja se o preço dos outros cai. No Sul, no Sudeste e no Centro-Oeste, o frete é grátis sem mínimo, então dividir o pedido não custa nada.",
+          "Essa conta vale enquanto o desconto progressivo estiver no ar. Se ele sair, refaça a comparação na sacola."
+        ]
+      },
+      {
+        "heading": "Preços de outubro, para comparar",
+        "paragraphs": [
+          "Estes são os preços de venda de outubro, antes do cupom. Servem de régua para a sexta: se o preço da sexta for maior que o desta tabela, a oferta piorou."
         ],
         "comparisonTable": {
           "headers": [
@@ -118881,7 +119065,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No Pix, o mousse sai por R$ 102,51, com os 5% sobre R$ 107,91. Os kits ficam fora desta tabela.",
+          "No Pix, em outubro, o mousse saía por R$ 102,51, com os 5% sobre R$ 107,91.",
           "O preço do site muda sem aviso. Confira o produto no dia da compra."
         ],
         "images": [
@@ -118898,7 +119082,8 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom, Pix e o que soma",
         "paragraphs": [
           "O cupom é o **SKEMCASACOMCECILIA**. Ele dá 10% OFF em todo o site, com qualquer forma de pagamento, e o desconto sai sobre o preço que já está com a promoção. O passo a passo no carrinho está em [Cupom Skelt SKEMCASACOMCECILIA: como usar](/reviews/cupom-skelt-como-usar).",
-          "Em outubro, um mousse de R$ 119,90 entrou com a promoção de 10% da loja por R$ 107,91. Com o cupom, saiu por R$ 97,12. No Pix, a loja tirou mais 5%, e o total ficou em R$ 92,26."
+          "Em outubro, um mousse de R$ 119,90 entrou com a promoção de 10% da loja por R$ 107,91. Com o cupom, saiu por R$ 97,12. No Pix, a loja tirou mais 5%, e o total ficou em R$ 92,26.",
+          "Na leitura de novembro, o cupom seguia somando com a campanha: entrou por cima do desconto progressivo, dos 20% dos kits e dos itens de 50%. O Pix não foi refeito nesta leitura; o desconto de 5% é o do teste de outubro."
         ],
         "bullets": [
           "Pix: o desconto de 5% entra depois do cupom, sobre o total que já está com desconto.",
@@ -118912,14 +119097,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Brinde e frete",
         "paragraphs": [
-          "O brinde da Skelt conta o valor final do pedido, depois dos descontos. Em outubro, o brinde da campanha era um Body Splash Mystic Bloom. Como o cupom e o Pix diminuem o total, o pedido pode ficar abaixo do mínimo e o brinde sai da sacola.",
+          "O brinde da Skelt conta o valor final do pedido, depois dos descontos. Na mesma leitura, o brinde do November Glow era um Body Cream Velvet Milano. Ele apareceu em pedidos de R$ 256,22 para cima e não apareceu num de R$ 237,46.",
+          "É aí que o cupom muda a sacola. O Kit Best Sellers 2025 sai por R$ 263,84 sem código, com o brinde. Com o SKEMCASACOMCECILIA, cai para R$ 237,46 e o brinde some. Com um creme para mãos junto, o pedido vai a R$ 261,15 com o cupom e o brinde volta. Compare as duas sacolas antes de pagar.",
           "A promoção de 48 horas, com dois brindes para quem usava o cupom, terminou em 06/11. Veja como foi em [brindes Skelt com o cupom](/reviews/brindes-skelt-black-friday-cupom).",
-          "O frete grátis também conta o valor final do pedido. A política de frete do site dizia:"
+          "O frete também conta o valor final. Na simulação da sacola:"
         ],
         "bullets": [
-          "Grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste; no Norte e no Nordeste, a partir de R$ 199.",
-          "Sul, Sudeste e Centro-Oeste: grátis a partir de R$ 199.",
-          "Norte e Nordeste: grátis a partir de R$ 299."
+          "Sul, Sudeste e Centro-Oeste: grátis sem valor mínimo. Um mousse de R$ 97,12 saiu com frete grátis em São Paulo, Curitiba e Goiânia.",
+          "Norte e Nordeste: grátis quando o pedido ficou em R$ 202,29 ou mais, já com o cupom. Abaixo disso, o frete de um mousse deu R$ 14,40 em Salvador e R$ 21,74 em Manaus."
         ],
         "postParagraphs": [
           "Confira o frete para o seu CEP no carrinho antes de pagar. Compra pela internet tem direito de desistência de 7 dias, contados do recebimento, pelo Código de Defesa do Consumidor (art. 49)."
@@ -118948,6 +119133,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comprar agora ou esperar a sexta?",
         "paragraphs": [
+          "Os itens que já estão pela metade do preço, como o Mousse Dark e o Removedor, custam hoje bem menos que em outubro. Nos produtos de preço cheio, o desconto de hoje depende de quantos itens você leva: quem compra três já tem 25% antes do cupom.",
           "Uma ação passada não garante que o preço será menor na sexta. Use a tabela de outubro como referência e compare o total do mesmo produto, com cupom, pagamento e frete.",
           "Se precisa comprar agora, confira o desconto do SKEMCASACOMCECILIA e o total no Pix no carrinho. Se pode esperar, guarde o preço final para comparar com a oferta da sexta, sem presumir que ela será melhor."
         ]
@@ -118956,9 +119142,11 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quando é a Black Friday de 2026? Na última sexta de novembro. A Cyber Monday vem na segunda seguinte. A Skelt teve uma ação de descontos e brindes no começo de novembro, já encerrada.",
-          "A Skelt tem Black Friday? A loja usou coleções com esse nome e anunciou uma ação de desconto progressivo e brindes no começo de novembro. Essa ação já terminou; confira na loja as condições da campanha vigente.",
+          "A Skelt tem Black Friday? Tem campanha no ar em novembro, o November Glow: desconto progressivo de 10% a 25% conforme o número de produtos, 20% nos kits e uma seleção com até 50% OFF. A loja não publica a data de fim.",
           "O que era “BF - Live”? Era o nome da coleção que indicava uma live de aquecimento. O nome, por si só, não comprovava desconto.",
-          "O cupom SKEMCASACOMCECILIA vale na Black Friday? O cupom Skelt SKEMCASACOMCECILIA dá 10% OFF no site. O desconto progressivo da ação encerrada não garante as condições de outra campanha. Confira o total na sacola antes de pagar.",
+          "O cupom SKEMCASACOMCECILIA vale na Black Friday? Vale. O cupom Skelt SKEMCASACOMCECILIA tirou 10% por cima do November Glow nos carrinhos que testamos: no desconto progressivo, nos kits e nos itens de 50%. Confira o total na sacola antes de pagar.",
+          "Kit ou produto avulso na Black Friday da Skelt? O Kit Iniciante ganha: R$ 94,25 com o cupom, contra R$ 111,46 do mousse e da luva soltos. Nos duos e nos kits de fragrância, os avulsos saíram mais baratos, porque dois produtos soltos levam 20% e três levam 25%.",
+          "O que está com 50% na Skelt? Na leitura de novembro, o Mousse Dark, a Água Dark, o Gel Autobronzeador e o Removedor. Os body splashes Pink Sands, Grand Bahama e Milos Breeze e o kit de miniaturas Exotic Set estavam com 40%.",
           "Vale a pena esperar? Compare o preço final do mesmo produto, com cupom, forma de pagamento e frete. A tabela datada de outubro ajuda a verificar se a oferta de novembro ficou melhor.",
           "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio. Link da marca no [Mercado Livre](https://meli.la/2unTb7k).",
           "O desconto de uma ação anterior vale na sexta da Black Friday? Não presuma que sim. Prazo, percentual e brindes podem mudar; confira as condições da campanha e o resumo do pedido."
@@ -118966,15 +119154,16 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [
-      "Preços de outubro registrados para comparar com as ofertas de novembro",
-      "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site, com as promoções da loja",
-      "O Pix da loja desconta mais 5% sobre o total já com o cupom",
+      "O cupom SKEMCASACOMCECILIA tirou 10% por cima do November Glow em todos os carrinhos testados",
+      "Mousse Dark, Água Dark, Gel e Removedor estão pela metade do preço",
+      "Dois produtos avulsos no pedido levam 20%; três ou mais, 25%",
       "Frete grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste"
     ],
     "cons": [
-      "O desconto de uma ação passada não garante o preço nem as condições da Black Friday",
-      "A loja aceita um cupom por pedido: outro código da loja troca o nosso",
-      "Brinde e frete contam o valor final do pedido, depois dos descontos"
+      "Nem todo kit compensa: em cinco dos sete que comparamos, os avulsos saíram mais baratos",
+      "Item de 50% no mesmo pedido pode desligar o desconto progressivo dos outros",
+      "O brinde conta o valor final: com o cupom, o pedido pode cair abaixo do mínimo",
+      "A loja aceita um cupom por pedido: outro código da loja troca o nosso"
     ],
     "cta": {
       "text": "Veja os preços no site da Skelt pelo link da parceria e confira o total com o SKEMCASACOMCECILIA antes de pagar.",
@@ -118987,13 +119176,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "skelt-e-confiavel"
+        "slug": "autobronzeador-skelt-qual-escolher"
       },
       {
-        "slug": "skelt-reclame-aqui-nota-reputacao"
+        "slug": "body-splash-skelt-qual-escolher"
       },
       {
         "slug": "cupom-skelt-como-usar"
+      },
+      {
+        "slug": "skelt-e-confiavel"
       }
     ]
   },
@@ -119772,8 +119964,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 591,
     "slug": "black-friday-bagaggio",
-    "title": "Black Friday Bagaggio 2026: até 70% OFF, leve 3 pague 2 e o cupom CECILIA10",
-    "seoTitle": "Black Friday Bagaggio 2026: até 70% OFF e cupom",
+    "title": "Black Friday Bagaggio 2026: o que comprar, conjuntos e o cupom CECILIA10",
+    "seoTitle": "Black Friday Bagaggio 2026: o que comprar e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -119784,11 +119976,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da Bagaggio já está no ar, com até 70% OFF e leve 3, pague 2. Veja os preços de outubro de malas e mochilas e como o CECILIA10 e o Pix entram na conta.",
-    "metaDescription": "Black Friday Bagaggio 2026: até 70% OFF, leve 3, pague 2 e o cupom CECILIA10 com 10% OFF. Preços para comparar antes da campanha e o Pix.",
+    "description": "A Black Friday da Bagaggio tem até 70% OFF e leve 3, pague 2. Veja as malas de bordo e de despacho, os conjuntos que ganham das avulsas e o total com o cupom CECILIA10.",
+    "metaDescription": "Black Friday Bagaggio 2026: o cupom CECILIA10 dá 10% OFF e soma com os preços da campanha. Veja malas, conjuntos e mochilas que valem a compra.",
     "publishedAt": "22 de outubro de 2026",
     "publishedAtISO": "2026-10-22",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-15",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/bagaggio/black-friday-bagaggio-capa-v2.webp",
@@ -119799,13 +119991,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday da Bagaggio já está no ar: a página da campanha anuncia até 70% OFF, e a home traz o leve 3, pague 2. O dia da Black Friday é 27 de novembro, sem data de fim publicada. O CECILIA10 vale em todo o site; se soma com a campanha, confira na sacola antes de pagar."
+          "A Black Friday da Bagaggio já está no ar, com até 70% OFF e leve 3, pague 2. O cupom CECILIA10 tirou 10% por cima dos preços da campanha em todas as sacolas que testamos, inclusive em conjuntos e kits. Nem todo conjunto sai mais barato que as malas avulsas: a conta de cada um está neste guia."
         ]
       },
       {
         "heading": "O que a Black Friday da Bagaggio mostra agora",
         "paragraphs": [
           "A página de Black Friday da loja anuncia até 70% OFF, e o banner da home traz o leve 3, pague 2. As condições de cada oferta, como o que entra no \"até\" e quais produtos valem no leve 3, aparecem no site da loja, e a página não diz se algum cupom soma com as ofertas nem até quando a campanha vale.",
+          "Na sacola, a resposta apareceu: em 15 de novembro, o CECILIA10 entrou por cima dos preços da campanha em malas, mochilas, conjuntos e kits, sempre com 10%.",
           "O \"até 70%\" é o teto: o desconto de cada produto é o que a página dele mostra. Compare o preço do dia com a tabela de outubro deste guia, não com o preço riscado.",
           "Pelos nomes das coleções do catálogo, a loja já teve campanhas de Black Friday em 2023, 2024 e 2025, além de uma campanha antecipada. Não encontramos o percentual de cada uma, e por isso ele não entra aqui."
         ]
@@ -119825,7 +120018,224 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Preços para comparar",
+        "heading": "O que comprar agora: mala de bordo",
+        "paragraphs": [
+          "Os preços são da sacola na leitura de novembro, sem código e com o CECILIA10. O nome abre a página do produto pelo link da parceria."
+        ],
+        "comparisonTable": {
+          "caption": "Sacola da Bagaggio na leitura de novembro, uma mala por pedido, cor preta",
+          "headers": [
+            "Produto",
+            "Na sacola",
+            "Com o cupom",
+            "Para quem"
+          ],
+          "rows": [
+            [
+              "[Detroit 10 kg, ABS](https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 249,90",
+              "R$ 224,91",
+              "Menor preço com a marca Bagaggio e garantia vitalícia"
+            ],
+            [
+              "[Route 10 kg, polipropileno](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-route-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 299,90",
+              "R$ 269,91",
+              "Quem quer a mais leve das duas e polipropileno"
+            ],
+            [
+              "[Downtown PP 8 kg, ABS](https://www.bagaggio.com.br/mala-de-bordo-pp-8-kg-abs-4-rodas-185-downtown--preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 179,90",
+              "R$ 161,91",
+              "Menor preço da loja, em mala menor e de outra marca"
+            ],
+            [
+              "[Santiago 10 kg, polipropileno](https://www.bagaggio.com.br/mala-de-bordo-10kg-polipropileno-4-rodas-santiago-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 349,90",
+              "R$ 314,91",
+              "Quem vai fechar o conjunto Santiago"
+            ],
+            [
+              "[Malta 10 kg, polipropileno](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 399,90",
+              "R$ 359,91",
+              "Quem vai fechar o conjunto Malta"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**Detroit:** tem 44,2 litros, pesa 2,61 kg e mede 55 × 35 × 23 cm com as rodas, dentro dos 55 × 35 × 25 cm que LATAM, GOL e Azul citam. Sai pelo mesmo preço em seis cores.",
+          "**Route:** custa R$ 45 a mais com o cupom, tem 45,3 litros e pesa 2,43 kg. A diferença está no material: polipropileno no lugar do ABS. O que muda entre os dois está em [mala de policarbonato ou ABS](/reviews/mala-policarbonato-ou-abs-bagaggio).",
+          "**Downtown:** é a mais barata, com 34,8 litros e 51 × 32,5 × 21 cm. A mala é da Travelcross, marca vendida pela loja, e fica fora da garantia vitalícia.",
+          "**Cartagena Pequena:** tem o selo BORDO na página, mas mede 57,5 × 38 × 23,5 cm, acima da medida das três companhias. Por isso ficou fora do quadro.",
+          "As medidas, o peso e as regras de cada companhia estão em [mala de bordo Bagaggio: qual compensa](/reviews/mala-de-bordo-bagaggio-qual-compensa)."
+        ]
+      },
+      {
+        "heading": "O que comprar agora: mala de despacho",
+        "paragraphs": [
+          "Em duas linhas, a mala maior custa o mesmo ou menos que a média. Vale olhar as duas antes de escolher pelo nome."
+        ],
+        "comparisonTable": {
+          "caption": "Sacola da Bagaggio na mesma leitura, uma mala por pedido",
+          "headers": [
+            "Produto",
+            "Na sacola",
+            "Com o cupom",
+            "Capacidade"
+          ],
+          "rows": [
+            [
+              "[Detroit Média 23 kg, 26\"](https://www.bagaggio.com.br/mala-media-23-kg-abs-4-rodas-26--detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 349,90",
+              "R$ 314,91",
+              "90,9 litros"
+            ],
+            [
+              "[Detroit Grande 32 kg](https://www.bagaggio.com.br/mala-grande-32-kg-abs-4-rodas-detroit-preta-ii/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 349,90",
+              "R$ 314,91",
+              "104 litros"
+            ],
+            [
+              "[Route Grande 32 kg](https://www.bagaggio.com.br/mala-route-grande-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 399,90",
+              "R$ 359,91",
+              "111,7 litros"
+            ],
+            [
+              "[Route Média 23 kg](https://www.bagaggio.com.br/mala-route-media-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 449,90",
+              "R$ 404,91",
+              "76,6 litros"
+            ],
+            [
+              "[Cartagena Grande 32 kg](https://www.bagaggio.com.br/mala-de-viagem-grande-32kg-polipropileno-4-rodas-cartagena-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 499,90",
+              "R$ 449,91",
+              "130,9 litros"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**Detroit:** a média de 26 polegadas e a grande saem pelo mesmo preço. A linha tem outra média, a Detroit II, de 71,2 litros, que custa R$ 379,90 na sacola em preto e em prata: mais cara e menor que a de 26 polegadas.",
+          "**Route:** a grande, de 111,7 litros, custa R$ 45 a menos com o cupom que a média, de 76,6 litros. Era assim também em outubro.",
+          "Como escolher entre P, M e G está em [tamanho de mala Bagaggio](/reviews/tamanho-mala-bagaggio-p-m-g)."
+        ]
+      },
+      {
+        "heading": "Conjunto ou malas avulsas: a conta de cada um",
+        "paragraphs": [
+          "Comparamos oito conjuntos com as mesmas malas compradas soltas, na mesma leitura. O cupom tira 10% dos dois lados, então a ordem não muda com ele."
+        ],
+        "comparisonTable": {
+          "caption": "Sacola da Bagaggio na mesma leitura; conjunto e avulsas com o CECILIA10. Nos empates, a conta é o preço da página com os 10% do cupom",
+          "headers": [
+            "Conjunto",
+            "Conjunto, com o cupom",
+            "Avulsas, com o cupom",
+            "Quem ganha"
+          ],
+          "rows": [
+            [
+              "[Malta Branca e Marrom P e M](https://www.bagaggio.com.br/conjunto-de-malas-polipropileno-4-rodas-malta-branca-e-marrom-p-e-m/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 922,37",
+              "R$ 944,82",
+              "Conjunto, por R$ 22,45"
+            ],
+            [
+              "[Santiago Preta P e G](https://www.bagaggio.com.br/conjunto-de-malas-polipropileno-4-rodas-santiago-preta-p-e-g/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 742,37",
+              "R$ 764,82",
+              "Conjunto, por R$ 22,45"
+            ],
+            [
+              "[Malta Preta P e M](https://www.bagaggio.com.br/conjunto-de-malas-polipropileno-4-rodas-malta-preta-p-e-m/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 922,37",
+              "R$ 899,82",
+              "Avulsas, por R$ 22,55"
+            ],
+            [
+              "[Detroit Preta P e M](https://www.bagaggio.com.br/kit-mala-detroit-preta-p-e-m-bagaggio/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 539,82",
+              "R$ 539,82",
+              "Empate"
+            ],
+            [
+              "3 Malas de Bordo Detroit",
+              "R$ 674,73",
+              "R$ 674,73",
+              "Empate"
+            ],
+            [
+              "Downtown PP + Detroit G Preta",
+              "R$ 476,82",
+              "R$ 476,82",
+              "Empate"
+            ],
+            [
+              "Route P e G",
+              "R$ 629,82",
+              "R$ 629,82",
+              "Empate"
+            ],
+            [
+              "Cartagena P e G",
+              "R$ 764,82",
+              "R$ 764,82",
+              "Empate"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Em cinco dos oito, o conjunto custa o mesmo que as malas soltas. Nesses, a vantagem é levar o par na mesma cor, e o preço não entra na decisão.",
+          "O conjunto Malta é o caso que pede atenção. Na cor branca e marrom, ele ganha das avulsas. Na preta, perde: a média preta avulsa está mais barata, e o conjunto tem o mesmo preço nas duas cores.",
+          "Os preços de conjunto e de avulsa mudam em dias diferentes. Antes de fechar, some as duas malas soltas na sacola e compare com o conjunto. A conta completa, com os conjuntos de três peças, está em [conjunto de malas Bagaggio: compensa?](/reviews/conjunto-de-malas-bagaggio-compensa)."
+        ]
+      },
+      {
+        "heading": "Mochilas e o leve 3, pague 2",
+        "paragraphs": [
+          "O leve 3, pague 2 que encontramos com preço na sacola é o Kit 3 Mochilas Explore: três mochilas por R$ 599,80, o preço de duas. Com o CECILIA10, o kit sai por R$ 539,82, ou R$ 179,94 por mochila.",
+          "Três mochilas Explore soltas na sacola não ganharam o desconto: deram R$ 899,70 sem código e R$ 809,73 com o cupom. Para levar três, o caminho é a página do kit."
+        ],
+        "comparisonTable": {
+          "caption": "Sacola da Bagaggio na mesma leitura",
+          "headers": [
+            "Produto",
+            "Na sacola",
+            "Com o cupom",
+            "Garantia da página"
+          ],
+          "rows": [
+            [
+              "[Mochila Explore](https://www.bagaggio.com.br/mochila-de-viagem-grande-expansivel-explore-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 299,90",
+              "R$ 269,91",
+              "90 dias"
+            ],
+            [
+              "[Kit 3 Mochilas Explore](https://www.bagaggio.com.br/kit-3-mochilas-de-viagem-grandes-expansiveis-explore-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 599,80",
+              "R$ 539,82",
+              "a da Explore"
+            ],
+            [
+              "[Mochila Voyage para notebook](https://www.bagaggio.com.br/mochila-de-viagem-grande-para-viagem--expansivel-voyage-para-notebook-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 449,90",
+              "R$ 404,91",
+              "3 anos"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**Explore:** tem 33 litros fechada e 42 expandida. Sem expandir, a medida da loja fica no limite do item pessoal de LATAM e Azul (45 × 35 × 20 cm). O kit serve para família ou grupo que viaja junto; para uma pessoa, uma mochila avulsa resolve.",
+          "**Voyage:** vai até 54 litros expandida e tem a garantia mais longa das duas, mas passa dos 45 cm de altura do item pessoal.",
+          "Na GOL, o item que vai debaixo do assento tem outra medida, 32 × 43 × 22 cm. As cinco mochilas de viagem que comparamos, medida por medida, estão em [mochila de viagem Bagaggio: qual escolher](/reviews/mochila-de-viagem-bagaggio-qual-escolher)."
+        ]
+      },
+      {
+        "heading": "Preços de outubro, para comparar",
         "paragraphs": [
           "Estes são os preços de venda sem cupom de outubro, antes da campanha: a régua para saber se o preço da Black Friday é desconto novo. Quando o produto mostrava preço cheio, a tabela traz os dois valores."
         ],
@@ -119881,7 +120291,8 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Na tabela, a mala Route de 32 kg saiu por menos que a de 23 kg. Confira os dois antes de comparar.",
           "A Detroit de 32 kg apareceu em três cores (vermelha, prata e rosé), todas pelo mesmo preço. As malas do Outlet ficam fora desta tabela, porque o Outlet tem regra própria.",
-          "O preço do site muda sem aviso. Confira o produto no dia da compra."
+          "O preço do site muda sem aviso. Confira o produto no dia da compra.",
+          "Dos seis itens de mala da tabela, os preços de venda eram os mesmos na leitura de novembro. Até aqui, a campanha manteve os preços de outubro nessas malas; o que mudou a conta foi o cupom entrar por cima."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bf-malas-da-tabela.webp",
@@ -119905,7 +120316,8 @@ export const reviewsData: unknown[] = [
           "Mercado Livre: o cupom não vale lá. Vale o preço do anúncio."
         ],
         "postParagraphs": [
-          "Aplique o CECILIA10 na sacola e confira a linha do desconto antes de pagar, nos preços da Black Friday e no leve 3, pague 2: se ele não entrar, vale a oferta da loja."
+          "Na leitura de novembro, o CECILIA10 entrou em todas as sacolas que montamos: malas avulsas, conjuntos, mochilas e o Kit 3 Mochilas Explore. O frete saiu grátis com uma mala de bordo de R$ 224,91 em São Paulo, Porto Alegre, Salvador e Manaus.",
+          "Mesmo assim, aplique o código e confira a linha do desconto antes de pagar: se ele não entrar, vale a oferta da loja."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-downtown-preta.webp",
@@ -119919,6 +120331,7 @@ export const reviewsData: unknown[] = [
         "heading": "Garantia: malas e mochilas são diferentes",
         "paragraphs": [
           "Malas da marca Bagaggio compradas a partir de 29/04/2024 têm garantia vitalícia contra vício de fabricação, sem custo. Vale só para o comprador original e só no Brasil. Mochila, bolsa e as marcas de terceiros vendidas pela loja ficam de fora.",
+          "Na prática, para os produtos deste guia: Detroit, Route, Santiago, Malta e Cartagena são da marca Bagaggio. A Downtown é da Travelcross e fica fora da vitalícia. As mochilas seguem a garantia da página de cada uma: 90 dias na Explore e 3 anos na Voyage.",
           "A mochila tem a garantia da etiqueta, e a garantia legal vale à parte. Veja o que a garantia vitalícia cobre e o que não cobre em [garantia vitalícia Bagaggio](/reviews/bagaggio-garantia-vitalicia)."
         ],
         "image": {
@@ -119958,6 +120371,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comprar agora ou esperar a sexta?",
         "paragraphs": [
+          "As malas da tabela de outubro estavam pelo mesmo preço de venda na leitura de novembro. Quem compra agora paga o preço de outubro com 10% a menos pelo cupom.",
           "A campanha já foi anunciada, mas isso não garante preço menor na sexta. Compare o preço da mesma variante com a tabela histórica de outubro, que registra preços de venda sem cupom. Para decidir a compra de hoje, confira também pagamento, descontos e frete no total do carrinho.",
           "Se precisa comprar agora, confira a linha de desconto do CECILIA10 e o total no Pix. Para o leve 3, pague 2, compare o custo da seleção inteira e veja quais produtos participam; não leve uma peça a mais só pelo slogan. Se pode esperar, guarde o total de hoje para comparar na sexta. As condições do código estão na [página da Bagaggio](/cupons/bagaggio)."
         ],
@@ -119973,8 +120387,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Bagaggio? Já começou: a página de Black Friday da loja anuncia até 70% OFF, e a home traz o leve 3, pague 2. A Black Friday é na última sexta de novembro, e a loja não publica a data de fim da campanha.",
-          "O cupom CECILIA10 vale na Black Friday? Vale. O cupom Bagaggio CECILIA10 entra em todo o site, com o Pix. Nos preços da campanha, aplique na sacola e confira a linha do desconto antes de pagar.",
-          "O leve 3, pague 2 soma com o cupom? A promoção é da loja, e a página da campanha não diz se algum cupom soma com ela. Confira o total da sacola com o cupom antes de pagar.",
+          "O cupom CECILIA10 vale na Black Friday? Vale. O cupom Bagaggio CECILIA10 tirou 10% por cima dos preços da campanha em todas as sacolas que testamos, inclusive em conjuntos e kits. Confira a linha do desconto antes de pagar.",
+          "O leve 3, pague 2 soma com o cupom? No Kit 3 Mochilas Explore, somou: o kit custa o preço de duas mochilas, e o CECILIA10 tirou mais 10%. Três mochilas soltas na sacola não ganharam o leve 3.",
+          "Conjunto de malas ou malas avulsas na Black Friday da Bagaggio? Depende do conjunto. O Malta branco e marrom e o Santiago saíram R$ 22,45 abaixo das avulsas com o cupom; o Malta preto saiu R$ 22,55 acima; cinco conjuntos custavam o mesmo que as malas soltas.",
+          "Qual a mala de bordo mais barata da Bagaggio na Black Friday? A Downtown PP, por R$ 161,91 com o cupom, da marca Travelcross e sem garantia vitalícia. Com a marca Bagaggio e a garantia, a mais barata é a Detroit, por R$ 224,91 com o cupom.",
           "Garantia vitalícia vale para mochila? Não. Ela vale só para malas da marca compradas depois do início do programa.",
           "Dá para retirar na loja? Sim, quando há loja perto. Espere o aviso de pedido pronto, sem contar só com o prazo de 3 horas que a página cita. Precisa do titular da compra, com documento original com foto.",
           "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio. Link da marca no [Mercado Livre](https://meli.la/2KeydkG)."
@@ -119982,14 +120398,16 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [
-      "O CECILIA10 dá 10% OFF em todo o site, inclusive em produto já com desconto",
-      "Com o Pix, o total cai mais 5%, sobre o valor que já está com o cupom",
-      "A tabela de outubro dá um preço de referência para comparar com a campanha"
+      "O CECILIA10 tirou 10% por cima dos preços da campanha em todas as sacolas testadas, inclusive em conjuntos e kits",
+      "O frete saiu grátis nas quatro capitais que simulamos, com uma mala de bordo na sacola",
+      "O Kit 3 Mochilas Explore sai pelo preço de duas, e o cupom entra por cima",
+      "Malas da marca Bagaggio têm garantia vitalícia contra vício de fabricação"
     ],
     "cons": [
-      "A loja não publica até quando a campanha vale nem se o cupom soma com os preços da Black Friday",
+      "Cinco dos oito conjuntos que comparamos custam o mesmo que as malas avulsas, e um custa mais",
+      "A Downtown, a mala de bordo mais barata, é da Travelcross e fica sem a garantia vitalícia",
       "Vale um cupom por pedido, e o CECILIA10 não soma com outro cupom da loja",
-      "A garantia vitalícia vale só para malas da marca, não para mochilas"
+      "A loja não publica até quando a campanha vale"
     ],
     "cta": {
       "text": "Veja os preços no site da Bagaggio pelo link da parceria e confira o total com o CECILIA10 antes de pagar.",
@@ -120002,10 +120420,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site da loja. Ninguém da equipe usou os produtos. Podemos receber comissão pelo cupom CECILIA10.",
     "relatedArticles": [
       {
-        "slug": "bagaggio-e-confiavel"
+        "slug": "mala-de-bordo-bagaggio-qual-compensa"
       },
       {
-        "slug": "bagaggio-reclame-aqui-nota-reputacao"
+        "slug": "conjunto-de-malas-bagaggio-compensa"
       },
       {
         "slug": "cupom-bagaggio-como-usar"

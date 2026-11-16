@@ -254,3 +254,19 @@ Folha aprovada em 22/10/2026 (capas na primeira rodada; mais fotos de produto no
 - **Alt:** Mala Detroit Prata II tamanho G da Bagaggio em ângulo, com puxador estendido e rodas visíveis, em foto oficial.
 - **Origem:** foto oficial da Detroit PrataII G da tabela (diferente da P prata da capa de bordo), puxador e rodas completos, sem selo de companhia aérea nem promoção. Sem geração por IA.
 - **Lote 15 do piloto de capas (sequência 4 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-4-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/bagaggio/black-friday-bagaggio-capa.webp`) fica no CDN, sem uso como capa.
+
+## Curadoria de Black Friday, rodada 4 (15/11/2026)
+
+O guia ganhou os capítulos de bordo, despacho, conjuntos e mochilas. URL, capa e CTA não mudaram.
+
+- **Fonte dos preços:** catálogo público da loja (VTEX) e simulação pública de sacola, sem login, em 15/11. Nenhum link de creator foi aberto.
+- **Cupom:** o CECILIA10 (regra "Cupom UGC") tirou 10% em tudo, inclusive conjuntos e o Kit 3 Mochilas Explore. Frete 0 com a Detroit de bordo em São Paulo, Porto Alegre, Salvador e Manaus.
+- **Bordo (sacola → cupom):** Detroit 249,90 → 224,91 (seis cores); Route 299,90 → 269,91; Downtown PP (Travelcross) 179,90 → 161,91; Santiago 349,90 → 314,91; Malta 399,90 → 359,91.
+- **Despacho:** Detroit 26" e Detroit Grande 349,90 → 314,91; Detroit II média 379,90 (Rosé II 349,90); Route Grande 399,90 → 359,91; Route Média 449,90 → 404,91; Cartagena Grande 499,90 → 449,91.
+- **Conjunto × avulsas, com o cupom:** Malta Branca e Marrom P e M 922,37 × 944,82; Santiago Preta P e G 742,37 × 764,82; Malta Preta P e M 922,37 × 899,82; Detroit Preta P e M 539,82 × 539,82. Empates pelo preço da página (sem simulação do conjunto): 3 Malas de Bordo Detroit 749,70; Downtown PP + Detroit G 529,80; Route P e G 699,80; Cartagena P e G 849,80.
+- **Leve 3, pague 2:** o Kit 3 Mochilas Explore custa 599,80 (duas mochilas) e 539,82 com o cupom; três Explore soltas deram 899,70 e 809,73.
+- **Mochilas:** Explore 299,90 → 269,91; Voyage 449,90 → 404,91.
+- **Régua de outubro:** os seis itens de mala da tabela estavam pelo mesmo preço de venda em 15/11.
+- **Medidas, litros e garantias:** dos nossos guias (`mala-de-bordo-bagaggio-qual-compensa`, `tamanho-mala-bagaggio-p-m-g`, `mochila-de-viagem-bagaggio-qual-escolher`), sem releitura das fichas.
+- **Não refeito:** Pix (a simulação não mostra); o texto mantém a conta de outubro.
+- **Reler:** na semana de 27/11.
