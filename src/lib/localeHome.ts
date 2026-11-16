@@ -120,7 +120,7 @@ export function getLocaleHomeStoreTabs(locale: LocaleHomeLocale, reviews: HubRev
         // A YesStyle dá o desconto até o número (5% na 1ª compra, menos nas seguintes): o "até" vai no texto.
         discount: upTo ? `${COUPON_HUB_COPY[locale].upTo} ${coupon.discount}` : coupon.discount,
         description: coupon.shortDescription,
-        hints: getCodeHints(sidebar, kind, coupon.brand),
+        hints: getCodeHints(sidebar, kind, coupon),
         storeUrl: coupon.offerUrl,
         storeLinkLabel: fillTemplate(chrome.storeGo, { store: coupon.brand }),
         storePageUrl: href,

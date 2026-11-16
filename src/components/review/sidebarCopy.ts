@@ -1,6 +1,7 @@
 import type { CouponCodeKind } from '@/lib/couponsData';
 import type { Locale } from '@/lib/i18n/locales';
 import { everyStoreHasCode } from '@/lib/reviewStores';
+import { ofStore, type StoreName } from '@/lib/storeNames';
 
 // O francês pede espaço antes de : ; ? ! e %, e ele não pode quebrar a linha.
 const NBSP = ' ';
@@ -26,9 +27,10 @@ export type SidebarCopy = {
   tocTitle: string;
   copyHint: string;
   copiedHint: string;
-  // Sob o código de indicação, no lugar de copyHint e copiedHint: ele não se cola no checkout.
-  referralCopyHint: (brand: string) => string;
-  referralCopiedHint: (brand: string) => string;
+  // Sob o código de indicação, no lugar de copyHint e copiedHint: ele não se cola no checkout. A loja vai com o slug:
+  // em PT, "no site da SHEIN", "no site do AliExpress" (storeNames.ts).
+  referralCopyHint: (store: StoreName) => string;
+  referralCopiedHint: (store: StoreName) => string;
   // O botão do dock do artigo de várias lojas, que abre a gaveta nas linhas de código (count: as lojas ativas).
   viewCodes: (count: number) => string;
   // O mesmo botão quando alguma loja da lista não tem código.
@@ -53,8 +55,8 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     tocTitle: 'Nesta análise',
     copyHint: 'Copie antes de ir para a loja.',
     copiedHint: 'Código copiado. Cole no campo correto do checkout.',
-    referralCopyHint: (brand) => `Copie e pesquise no app ou no site da ${brand}.`,
-    referralCopiedHint: (brand) => `Código copiado. Pesquise no app ou no site da ${brand}.`,
+    referralCopyHint: (store) => `Copie e pesquise no app ou no site ${ofStore(store)}.`,
+    referralCopiedHint: (store) => `Código copiado. Pesquise no app ou no site ${ofStore(store)}.`,
     viewCodes: (count) => `Ver códigos (${count})`,
     viewStores: (count) => `Ver lojas (${count})`,
   },
@@ -73,8 +75,8 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     tocTitle: 'In this guide',
     copyHint: 'Copy it before going to the store.',
     copiedHint: 'Code copied. Paste it into the right field at checkout.',
-    referralCopyHint: (brand) => `Copy it, then search for it in the ${brand} app or website.`,
-    referralCopiedHint: (brand) => `Code copied. Search for it in the ${brand} app or website.`,
+    referralCopyHint: ({ brand }) => `Copy it, then search for it in the ${brand} app or website.`,
+    referralCopiedHint: ({ brand }) => `Code copied. Search for it in the ${brand} app or website.`,
     viewCodes: (count) => `View codes (${count})`,
     viewStores: (count) => `View stores (${count})`,
   },
@@ -93,8 +95,8 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     tocTitle: 'En esta guía',
     copyHint: 'Cópialo antes de ir a la tienda.',
     copiedHint: 'Código copiado. Pégalo en el campo correcto al finalizar la compra.',
-    referralCopyHint: (brand) => `Cópialo y búscalo en la app o la web de ${brand}.`,
-    referralCopiedHint: (brand) => `Código copiado. Búscalo en la app o la web de ${brand}.`,
+    referralCopyHint: ({ brand }) => `Cópialo y búscalo en la app o la web de ${brand}.`,
+    referralCopiedHint: ({ brand }) => `Código copiado. Búscalo en la app o la web de ${brand}.`,
     viewCodes: (count) => `Ver códigos (${count})`,
     viewStores: (count) => `Ver tiendas (${count})`,
   },
@@ -113,8 +115,8 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     tocTitle: 'Dans ce guide',
     copyHint: 'Copiez-le avant d’aller sur la boutique.',
     copiedHint: 'Code copié. Collez-le dans le bon champ lors du paiement.',
-    referralCopyHint: (brand) => `Copiez-le, puis recherchez-le dans l’appli ou sur le site ${brand}.`,
-    referralCopiedHint: (brand) => `Code copié. Recherchez-le dans l’appli ou sur le site ${brand}.`,
+    referralCopyHint: ({ brand }) => `Copiez-le, puis recherchez-le dans l’appli ou sur le site ${brand}.`,
+    referralCopiedHint: ({ brand }) => `Code copié. Recherchez-le dans l’appli ou sur le site ${brand}.`,
     viewCodes: (count) => `Voir les codes (${count})`,
     viewStores: (count) => `Voir les boutiques (${count})`,
   },
@@ -133,8 +135,8 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     tocTitle: 'In diesem Ratgeber',
     copyHint: 'Kopiere ihn, bevor du zum Shop gehst.',
     copiedHint: 'Code kopiert. Füge ihn an der Kasse ins richtige Feld ein.',
-    referralCopyHint: (brand) => `Kopieren Sie ihn und suchen Sie ihn in der ${brand}-App oder auf der Website.`,
-    referralCopiedHint: (brand) => `Code kopiert. Suchen Sie ihn in der ${brand}-App oder auf der Website.`,
+    referralCopyHint: ({ brand }) => `Kopieren Sie ihn und suchen Sie ihn in der ${brand}-App oder auf der Website.`,
+    referralCopiedHint: ({ brand }) => `Code kopiert. Suchen Sie ihn in der ${brand}-App oder auf der Website.`,
     viewCodes: (count) => `Codes ansehen (${count})`,
     viewStores: (count) => `Shops ansehen (${count})`,
   },
@@ -153,8 +155,8 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     tocTitle: 'In questa guida',
     copyHint: 'Copialo prima di andare al negozio.',
     copiedHint: 'Codice copiato. Incollalo nel campo giusto al checkout.',
-    referralCopyHint: (brand) => `Copialo e cercalo nell’app o sul sito ${brand}.`,
-    referralCopiedHint: (brand) => `Codice copiato. Cercalo nell’app o sul sito ${brand}.`,
+    referralCopyHint: ({ brand }) => `Copialo e cercalo nell’app o sul sito ${brand}.`,
+    referralCopiedHint: ({ brand }) => `Codice copiato. Cercalo nell’app o sul sito ${brand}.`,
     viewCodes: (count) => `Vedi i codici (${count})`,
     viewStores: (count) => `Vedi i negozi (${count})`,
   },
@@ -173,8 +175,8 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     tocTitle: '목차',
     copyHint: '스토어로 이동하기 전에 복사하세요.',
     copiedHint: '코드 복사 완료. 결제할 때 알맞은 칸에 붙여 넣으세요.',
-    referralCopyHint: (brand) => `복사한 뒤 ${brand} 앱이나 웹사이트에서 검색하세요.`,
-    referralCopiedHint: (brand) => `코드 복사 완료. ${brand} 앱이나 웹사이트에서 검색하세요.`,
+    referralCopyHint: ({ brand }) => `복사한 뒤 ${brand} 앱이나 웹사이트에서 검색하세요.`,
+    referralCopiedHint: ({ brand }) => `코드 복사 완료. ${brand} 앱이나 웹사이트에서 검색하세요.`,
     viewCodes: (count) => `코드 보기 (${count})`,
     viewStores: (count) => `스토어 보기 (${count})`,
   },
@@ -193,8 +195,8 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     tocTitle: '目次',
     copyHint: 'ストアへ移動する前にコピーしてください。',
     copiedHint: 'コードをコピーしました。チェックアウトで正しい欄に貼り付けてください。',
-    referralCopyHint: (brand) => `コピーして、${brand} のアプリかサイトで検索してください。`,
-    referralCopiedHint: (brand) => `コードをコピーしました。${brand} のアプリかサイトで検索してください。`,
+    referralCopyHint: ({ brand }) => `コピーして、${brand} のアプリかサイトで検索してください。`,
+    referralCopiedHint: ({ brand }) => `コードをコピーしました。${brand} のアプリかサイトで検索してください。`,
     viewCodes: (count) => `コードを見る (${count})`,
     viewStores: (count) => `ストアを見る (${count})`,
   },
@@ -213,8 +215,8 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     tocTitle: '目錄',
     copyHint: '前往商店前請先複製。',
     copiedHint: '已複製代碼。結帳時請貼到正確的欄位。',
-    referralCopyHint: (brand) => `請先複製，再到 ${brand} App 或網站搜尋。`,
-    referralCopiedHint: (brand) => `已複製代碼。請到 ${brand} App 或網站搜尋。`,
+    referralCopyHint: ({ brand }) => `請先複製，再到 ${brand} App 或網站搜尋。`,
+    referralCopiedHint: ({ brand }) => `已複製代碼。請到 ${brand} App 或網站搜尋。`,
     viewCodes: (count) => `查看優惠碼 (${count})`,
     viewStores: (count) => `查看商店 (${count})`,
   },
@@ -233,8 +235,8 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     tocTitle: '目录',
     copyHint: '前往商店前请先复制。',
     copiedHint: '已复制代码。结账时请粘贴到正确的栏位。',
-    referralCopyHint: (brand) => `请先复制，再到 ${brand} App 或网站中搜索。`,
-    referralCopiedHint: (brand) => `已复制代码。请到 ${brand} App 或网站中搜索。`,
+    referralCopyHint: ({ brand }) => `请先复制，再到 ${brand} App 或网站中搜索。`,
+    referralCopiedHint: ({ brand }) => `已复制代码。请到 ${brand} App 或网站中搜索。`,
     viewCodes: (count) => `查看优惠码 (${count})`,
     viewStores: (count) => `查看商店 (${count})`,
   },
@@ -252,9 +254,9 @@ export function getCodeTitle(copy: SidebarCopy, kind: CouponCodeKind | undefined
 }
 
 // Frases da sidebar sob o código, antes e depois de copiar. O de indicação não se cola no checkout.
-export function getCodeHints(copy: SidebarCopy, kind: CouponCodeKind | undefined, brand?: string): { copy: string; copied: string } {
-  return kind === 'referral' && brand
-    ? { copy: copy.referralCopyHint(brand), copied: copy.referralCopiedHint(brand) }
+export function getCodeHints(copy: SidebarCopy, kind: CouponCodeKind | undefined, store?: StoreName): { copy: string; copied: string } {
+  return kind === 'referral' && store
+    ? { copy: copy.referralCopyHint(store), copied: copy.referralCopiedHint(store) }
     : { copy: copy.copyHint, copied: copy.copiedHint };
 }
 

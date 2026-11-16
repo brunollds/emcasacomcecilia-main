@@ -134,7 +134,7 @@ export function getHomeStoreTabs(
       discount: store.discount,
       ...(limitedCodes.length > 0 ? { limitedCodes } : {}),
       description: store.shortDescription,
-      hints: getCodeHints(copy, kind, store.brand),
+      hints: getCodeHints(copy, kind, store),
       copyAria: code ? labels.copyCoupon(code) : '',
       storeUrl: store.offerUrl,
       storeLinkLabel: `Ir para ${theStore(store)}`,

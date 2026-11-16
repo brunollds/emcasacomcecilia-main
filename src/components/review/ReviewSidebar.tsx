@@ -90,7 +90,7 @@ function SidebarConversionCards({
   if (!coupon && !effectiveCta?.url) return null;
 
   const copy = getSidebarCopy(locale);
-  const hints = getCodeHints(copy, codeKind, codeBrand);
+  const hints = getCodeHints(copy, codeKind, affiliate && codeBrand ? { slug: affiliate, brand: codeBrand } : undefined);
 
   return (
     <div className={`${BOX} space-y-3`}>

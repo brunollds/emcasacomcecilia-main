@@ -81,7 +81,8 @@ export function ReviewMobileBottomBar({
   const couponCopy = getCouponCopyLabels(locale);
   const couponTitle = getCodeTitle(copy, coupon?.kind, coupon?.brand);
   // O código de indicação não vale no checkout; o card diz onde pesquisá-lo.
-  const couponHint = coupon?.kind === 'referral' ? getCodeHints(copy, coupon.kind, coupon.brand).copy : undefined;
+  const couponStore = affiliate && coupon?.brand ? { slug: affiliate, brand: coupon.brand } : undefined;
+  const couponHint = coupon?.kind === 'referral' ? getCodeHints(copy, coupon.kind, couponStore).copy : undefined;
   const visible = isDockVisible({ cutoutPassed, sectionReached: activeIndex >= 0, storeInView });
   const current = Math.max(activeIndex, 0);
   const total = tocItems.length;
