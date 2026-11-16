@@ -426,6 +426,10 @@ vídeo, primeiras impressões e uso noturno.
   home abre na primeira loja da faixa (`getDefaultTabId`), a do artigo mais novo; até 16/10 abria na DAMIE.
   A aba lista até 6 artigos (`VISIBLE_ARTICLES`, a altura do card de destaque no computador); no celular, os
   4 primeiros (`MOBILE_VISIBLE_ARTICLES`).
+- A loja com `hideFromPortugueseHome: true` em `couponsData.ts` fica fora da vitrine da home em PT (sem bolinha e sem
+  painel; o filtro é o `getHomeVitrineStores`, dentro de `getHomeStoreTabs`) e segue em todo o resto: `/cupons` e a
+  página dela, as bolinhas de `/reviews` e a subpágina `/reviews/loja/<slug>`, o "Acabou de sair", as homes dos outros
+  idiomas, o sitemap, a busca e o bloco da loja nos artigos.
 - Fila de cards que rola na horizontal usa o `ScrollRow` (`src/components/ui/ScrollRow.tsx`): com o
   foco do teclado, o card meio escondido entra inteiro na tela. As bolinhas da vitrine ficam de
   fora: elas já centralizam a loja escolhida.

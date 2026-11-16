@@ -1565,6 +1565,8 @@ export const CODE_FIELD_POLICY = {
   status: 'pt',
   featured: 'pt',
   featuredPitch: 'drop',
+  // Só a vitrine da home em PT lê o campo: fora do PT ele vem junto e não esconde nada.
+  hideFromPortugueseHome: 'pt',
   relatedContent: 'drop',
   // Os vídeos do PT não passam para outro idioma: valem os da tradução, com o título no idioma.
   videos: 'translate',
