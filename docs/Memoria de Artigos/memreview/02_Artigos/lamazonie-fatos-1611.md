@@ -2,10 +2,11 @@
 
 Parceira nova (16/11/2026), página `/cupons/lamazonie` (#1060). Dossiê: [[LAmazonie]]. Este arquivo junta o que foi
 lido para o pacote inicial pedido pelo Bruno: como usar, Reclame Aqui, é confiável, primeira compra, é boa e Black
-Friday. Leituras de 16/11/2026 no navegador do app, sem login e sem finalizar compra. Os briefings são do Job 1. Sem GO
-de redação ainda: o Bruno pediu a pesquisa semente.
+Friday. Leituras de 16/11/2026 no navegador do app, sem login e sem finalizar compra. **Os seis briefings estão escritos (Job 1,
+16/11):** a seção 9 traz a atualização feita antes deles (arrependimento, garantia, Anvisa, composição, vitrine, Black
+Friday e topo do Google) e as pendências que continuam.
 
-## 1. Pacote inicial (esperam briefing)
+## 1. Pacote inicial (com briefing desde 16/11)
 
 | Código | Pauta | Slug sugerido | Modelo | Busca (autocompletar de 16/11) |
 |---|---|---|---|---|
@@ -28,7 +29,7 @@ de redação ainda: o Bruno pediu a pesquisa semente.
   para cliente novo e antigo, sem citar o cupom de primeira compra que o checkout anuncia.
 - **LZ6 é a de menor demanda:** nenhuma sugestão e nada de campanha no site em 16/11 (seção 5). Vale pela pergunta "o
   cupom vale na Black Friday?" e só fica boa com o reteste na semana do dia 27/11.
-- **Ordem sugerida:** LZ1, depois LZ3 e LZ2, LZ5, LZ4 e por fim LZ6 (perto de 27/11, com o reteste).
+- **Ordem:** LZ1, depois LZ3 e LZ2, LZ5 e LZ4, e por fim LZ6 (perto de 27/11, com o reteste).
 
 ## 2. Regras que valem para os seis
 
@@ -108,7 +109,8 @@ Estética - Cuidados com a Pele (Dermocosméticos), site lamazonie.com.br, 5 ano
   fina de manhã e à noite, com a sobrancelha limpa e seca; um frasco rende de 25 a 30 dias; pode ser usado nos cílios
   ("testado oftalmologicamente"); "livre de hormônios", "sem contraindicação", liberado pela marca para gestantes e
   lactantes; fórmula com peptídeos e "fatores de crescimento", sob o nome "Tecnologia Nano 5D". A lista completa de
-  ingredientes não foi lida ("serum l'amazonie composição" está no autocompletar): o Job 1 lê o rótulo.
+  ingredientes não foi lida ("serum l'amazonie composição" está no autocompletar). **Job 1, 16/11:** a página oficial
+  não publica a lista nem o volume; segue pendente do rótulo (9.5).
 - **Garantia Mais Fios** (`/pages/garantia`): dinheiro de volta se a foto do dia 60 não mostrar fios novos em relação
   à do dia 1, sem devolver o produto. Condições: compra no site, uma por CPF, 60 dias seguidos (2 frascos), foto do dia
   1 em até 3 dias do recebimento e a do dia 60 entre o 60º e o 70º dia; reembolso do valor dos frascos, sem o frete, em
@@ -120,6 +122,7 @@ Estética - Cuidados com a Pele (Dermocosméticos), site lamazonie.com.br, 5 ano
 
 ## 5. Black Friday (lido em 16/11/2026)
 
+- **Atualizado na seção 9.7:** há seis páginas de oferta de Black Friday fora do menu, com brinde no preço de tabela.
 - Existe a página `lamazonie.com.br/pages/black-friday`, **vazia**: só o título. A home não cita Black Friday; a
   faixa do topo é a do frete grátis acima de R$ 199.
 - Os preços "de/por" que o site já mostra são os de kit (2 e 3 unidades), não de campanha.
@@ -160,3 +163,189 @@ Estética - Cuidados com a Pele (Dermocosméticos), site lamazonie.com.br, 5 ano
   editorial e sem promessa de resultado.
 - **"L'Amazonie ou <marca>":** o autocompletar não trouxe nenhuma marca. Sem pauta.
 - **Onde comprar e Mercado Livre:** capítulo da LZ3; loja oficial no marketplace a conferir.
+
+## 9. Atualização do Job 1 antes dos briefings (16/11/2026)
+
+Leituras no navegador do app, sem login, sem carrinho com dados pessoais e sem finalizar compra. O que segue pendente
+está no 9.9.
+
+### 9.1 Escopo de testes
+
+- **Sem experiência de uso dos cosméticos** (Bruno, 16/11). Os seis textos saem com fontes públicas.
+- **O que é teste nosso:** o cupom no checkout (seção 2 e dossiê). "Testamos" vale para o código, nunca para o produto.
+
+### 9.2 Troca, devolução e arrependimento
+
+- **Política da loja** (`lamazonie.com.br/pages/trocas-e-devolucoes`, relida em 16/11): devolução pedida pelo e-mail
+  sac@lamazonie.com.br em até sete dias do recebimento; o produto "deverá estar nas mesmas condições em que foi
+  recebido, com a caixa lacrada e sem ter sido utilizado"; "as despesas de transporte relacionados à uma devolução são
+  de responsabilidade do cliente"; reembolso depois do recebimento da devolução, em até 20 dias úteis (boleto) ou em
+  até duas faturas (cartão). A página não fala de troca por outro produto nem de defeito.
+- **Guia de Comércio Eletrônico do Procon-SP** (PDF, página 19, "Prazo de arrependimento"): quem compra pela internet
+  pode se arrepender em 7 dias, contados do recebimento, e pedir a devolução da quantia paga. No quadro "Atenção": "O
+  fornecedor não pode: exigir que a embalagem do produto não tenha sido violada, como condição para acatar o pedido;
+  cobrar qualquer quantia a título de frete de devolução."
+- **Código de Defesa do Consumidor, art. 49:** arrependimento em 7 dias nas compras fora do estabelecimento, com
+  devolução dos valores pagos (parágrafo único).
+- **A própria loja, na página da garantia:** "E os 7 dias de arrependimento? Continuam valendo, como manda a lei."
+- **Como escrever (LZ3 e LZ5):** as duas coisas lado a lado, cada uma com a fonte. A caixa lacrada e o frete por conta
+  do cliente são condições **da política da loja**, não do art. 49. Não acusar a loja de ilegalidade: dizer o que a
+  política pede, o que o Procon-SP orienta e que, na dúvida, o consumidor procura o Procon do seu estado.
+
+### 9.3 Garantia Mais Fios (`lamazonie.com.br/pages/garantia`, relida em 16/11)
+
+- Promessa: sem fios novos depois de 60 dias de uso, a loja devolve o dinheiro, "sem precisar devolver o produto".
+- **Quem participa:** compras em lamazonie.com.br; uma garantia por cliente (CPF).
+- **Dois frascos:** "São 60 dias seguidos de tratamento, ou seja, 2 frascos: o kit de 60 dias, ou o 2º frasco comprado
+  no site antes de acabar o primeiro." **Correção ao handoff:** quem compra 1 frasco não fica fora de vez; fica dentro
+  se comprar o segundo no site antes de o primeiro acabar. O que a garantia exige são os dois frascos e os 60 dias
+  seguidos, não o kit.
+- **Fotos:** a do dia 1 em até 3 dias depois de receber o pedido; a do dia 60 entre o 60º e o 70º dia de uso. De
+  frente para uma janela, com luz do dia; sobrancelha limpa, sem lápis, gel ou maquiagem; celular na altura dos olhos,
+  câmera traseira, sem filtro. As fotos vão pelo WhatsApp da consultora.
+- **Prazos da loja:** resposta da análise em até 5 dias úteis; reembolso em até 10 dias úteis depois da aprovação, por
+  Pix ou estorno no cartão.
+- **Quanto volta:** "o valor pago pelos frascos usados nos 60 dias, sem o frete". No kit de 90 dias, o 3º frasco
+  lacrado pode ser devolvido e reembolsado também. "Em caso de dúvida na comparação das fotos, a decisão é a seu favor."
+- **Não vale:** compras fora do site (marketplaces, salões e revendedoras); tratamento interrompido ou sem a foto do
+  dia 1; henna, micropigmentação, lápis permanente ou depilação da região nos 60 dias.
+- **Vigência:** compras a partir de 17/10/2026. A página não fala de cupom.
+- **Rendimento do frasco** (página do produto): "Cada frasco rende de 25 a 30 dias com uma camada fina, 2 vezes ao dia."
+
+### 9.4 Anvisa (dados abertos da agência, base atualizada em 15/11/2026)
+
+A consulta do portal (`consultas.anvisa.gov.br`) não devolveu resultado nesta sessão: a página pede verificação
+anti-robô. A leitura foi feita no arquivo de dados abertos da própria Anvisa
+(`dados.anvisa.gov.br/dados/CONSULTAS/PRODUTOS/TA_CONSULTA_COSMETICOS.CSV`).
+
+| Processo | Nome do produto na base | Empresa detentora (CNPJ) | Tipo | Vencimento |
+|---|---|---|---|---|
+| 25351.021744/2026-56 | SÉRUM CÍLIOS E SOBRANCELHAS L'AMAZONIE | CTEC INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA ME (03.830.222/0001-20) | Notificado (não registrado) | 03/02/2036 |
+| 25351.420409/2024-75 | Sérum Fortalecedor de Sobrancelhas L'Amazonie | JUA INDUSTRIA E COMERCIO DE COSMETICOS LTDA - EPP (09.640.113/0001-26) | Isento de registro | 08/10/2034 |
+| 25351.218071/2025-74 | L'AMAZONIE CREME CLAREADOR ÍNTIMO | APF MEDICAL - IMPORTACAO E DISTRIBUICAO LTDA (52.318.677/0001-76) | Notificado | 25/11/2035 |
+| 25351.041606/2025-11 | Serum Facial Clareador L'Amazonie. | Cosmaidi Indústria de Cosmeticos Ltda Me (17.743.399/0001-01) | Isento de registro | 18/03/2035 |
+| 25351.044248/2024-17 | STICK 3 EM 1 L'AMAZONIE | LABORATOIRES PHYTO TECHNIQUE BRASIL INDUSTRIA E COMERCIO DE COSMETICOS LTDA (20.729.335/0001-52) | Isento de registro | 19/02/2034 |
+| 25351.486399/2023-50 | STICK MULTIFUNCIONAL COM COR L'AMAZONIE | a mesma Laboratoires Phyto Technique Brasil | Isento de registro | 12/07/2033 |
+| 25351.944928/2021-81 | AMAZON MIRACLE - L'AMAZONIE | &CO. INDUSTRIA E COMERCIO DE COSMETICOS LTDA - EPP (17.153.030/0001-30) | Registrado (nº 280880015) | 14/06/2031 |
+
+- **O processo citado nos anúncios é o do sérum de sobrancelhas**, e a base o traz como **notificado**, com a coluna
+  de registro em branco: é produto isento de registro, regularizado por notificação. **Não chamar de "grau 2" nem de
+  "registrado na Anvisa".** A coluna de situação traz "S" em todas as linhas da marca; o rótulo "ATIVO" é o do portal,
+  que a redação confere antes de escrever a palavra.
+- **Há dois processos de sérum de sobrancelhas da marca:** o de 2026 (CTEC), que é o número citado nos anúncios, e um
+  de 2024 ("Sérum Fortalecedor de Sobrancelhas", JUA). Qual dos dois está no frasco vendido hoje, só o rótulo diz.
+- **A empresa do processo não é a que vende:** a detentora é a CTEC (CNPJ 03.830.222/0001-20); o rodapé do site traz a
+  ABRAHAO VAREJISTA LTDA e o Reclame Aqui, um terceiro CNPJ. Informar cada um com a sua fonte, sem explicar a relação
+  entre eles.
+- **O que a notificação diz e o que não diz:** segundo o guia da Anvisa (notícia de 03/02/2023), a consulta mostra se
+  o produto está regularizado (ATIVO: "permitida sua fabricação, importação e comercialização"). Não é atestado de que
+  o produto faz crescer fios: nenhuma frase do artigo liga a Anvisa a resultado.
+- **As outras linhas não foram ligadas a produto da vitrine:** só com o número do processo lido no rótulo. A busca
+  correu o arquivo inteiro (230 MB) por "AMAZONIE", pelo número do processo e pelos dois CNPJs da loja: **nenhuma
+  linha traz o CNPJ do rodapé nem o do Reclame Aqui como empresa detentora.** Linhas "Mystères d'Amazonie" e
+  "Perle Amazonienne" são de outras marcas; "Desodorante - Lamazonie" (duas linhas) não foi ligada à loja.
+- A página do sérum e as perguntas frequentes do site **não citam Anvisa, número de processo nem fabricante**.
+
+### 9.5 Composição e volume
+
+- **A página oficial do sérum não publica a lista de ingredientes (INCI) nem o volume do frasco.** O que ela traz é
+  linguagem de marca: "Tecnologia Nano 5D", "Drone", "Peptídeos" e "Fatores de Crescimento".
+- **Os ativos do handoff (Nano Biotina, Pantenol, Peptídeos Bioativos, Ácido Hialurônico Vegetal, Extratos
+  Amazônicos) não aparecem na página oficial:** vêm de anúncio de marketplace e seguem sem confronto com o rótulo.
+- **"4 mL"** aparece no título do anúncio da loja oficial no Mercado Livre ("Sérum L'Amazonie Skincare Crescimento
+  Cílios Sobrancelhas 4mL"); "30ml" no do sérum de vitamina C e "80g" no do creme clareador. No site oficial, só o gel
+  de limpeza traz o tamanho no nome (60 g).
+- **Alegações da página do sérum, sempre da marca:** "livre de hormônios", "não possui nenhuma contraindicação", "seguro
+  para gestantes e lactantes", "testado oftalmologicamente", "ação antiqueda", "prevenção do surgimento de fios
+  brancos". Nenhuma traz estudo, laudo ou fonte.
+- **Avaliações do site:** 4,9 em 261 avaliações do sérum (4,88 no quadro de resultados), publicadas pela loja.
+
+### 9.6 Onde mais a marca vende
+
+- **Mercado Livre:** existe a página "LAmazonie | Loja Oficial" (`mercadolivre.com.br/loja/lamazonie`), com anúncios
+  do sérum de sobrancelhas, do sérum de vitamina C e do creme clareador. **Preço não lido:** os anúncios pediram login
+  nesta sessão. O código `CECILIA` não vale lá, e a garantia exclui compras em marketplace.
+- **Beleza na Web:** citada pela visão de IA do Google como revendedora. Não aberta.
+- **Instagram** (`@lamazonieskincare`, pelo resultado do Google): mais de 171 mil seguidores; a bio diz "Criada por
+  @hanielefranca". Pista de quem fundou a marca, sem confirmação em fonte da empresa.
+
+### 9.7 Vitrine e Black Friday (lidas em 16/11/2026)
+
+Preços do site oficial (`products.json` e páginas de produto). O "com `CECILIA`" e o "só no Pix" são contas de 5% e de
+3% sobre o preço da vitrine, **em colunas separadas e nunca somadas**; valor de carrinho só existe nos dois testes do
+dossiê.
+
+| Produto | Opção | Vitrine | Com `CECILIA` (5%) | Só no Pix (3%) |
+|---|---|---|---|---|
+| Sérum para crescimento de cílios e sobrancelhas | 1 unidade | R$ 159,00 | R$ 151,05 | R$ 154,23 |
+| | 2 unidades (R$ 124,50 cada) | R$ 249,00 | R$ 236,55 | R$ 241,53 |
+| | 3 unidades (R$ 109,67 cada) | R$ 329,00 | R$ 312,55 | R$ 319,13 |
+| Sérum Clareador Vitamina C20 | 1 unidade | R$ 289,00 | R$ 274,55 | R$ 280,33 |
+| | 2 unidades | R$ 397,00 | R$ 377,15 | R$ 385,09 |
+| | 3 unidades | R$ 569,00 | R$ 540,55 | R$ 551,93 |
+| Protetor Solar de Tratamento FPS 99 | 1 unidade | R$ 159,00 | R$ 151,05 | R$ 154,23 |
+| | Kit 2 Protetores (página do kit) | R$ 249,00 | R$ 236,55 | R$ 241,53 |
+| | 3 unidades | R$ 349,00 | R$ 331,55 | R$ 338,53 |
+| Gel de Limpeza de Vitamina C 60 g | 1 unidade | R$ 99,00 | R$ 94,05 | R$ 96,03 |
+| | 2 unidades | R$ 149,90 | R$ 142,41 | R$ 145,40 |
+| Creme Clareador Íntimo | 1 unidade | R$ 159,00 | R$ 151,05 | R$ 154,23 |
+| | 2 unidades | R$ 249,00 | R$ 236,55 | R$ 241,53 |
+| | 3 unidades | R$ 349,00 | R$ 331,55 | R$ 338,53 |
+| Kit Sérum Vitamina C20 + Protetor Solar de Tratamento | kit | R$ 365,90 | R$ 347,61 | R$ 354,92 |
+| Kit Completo Sérum de Vitamina C20 + Protetor Solar + Gel de Limpeza | kit | R$ 397,00 | R$ 377,15 | R$ 385,09 |
+
+- **O mesmo produto tem mais de um preço no site.** O protetor em dupla custa R$ 269,00 na página do protetor e
+  R$ 249,00 na página "Kit 2 Protetores". O creme clareador íntimo tem duas páginas (R$ 159,00 e R$ 169,00 a unidade).
+  Existe uma segunda página do sérum de sobrancelhas (publicada em 11/11, fora do menu) a R$ 149,00 a unidade e
+  R$ 229,00 a dupla. A redação cita o preço com o nome da página em que leu.
+- **Kit Completo:** os três itens avulsos somam R$ 547,00 (289 + 159 + 99); o kit custa R$ 397,00.
+- **Frete:** 1 sérum de sobrancelhas (R$ 159,00) fica abaixo dos R$ 199 do frete grátis; a página avisa "Adicione mais
+  uma unidade e ganhe frete grátis". Sem leitura de o piso contar antes ou depois do cupom.
+- **Black Friday:** a página `/pages/black-friday` segue só com o título; a home e o menu não citam a campanha; a
+  coleção `/collections/oferta-black-friday` ("Ofertas") abre sem produtos. **Mas a loja tem seis páginas de produto
+  publicadas com oferta de Black Friday, fora do menu:**
+
+| Página (`/products/...`) | Oferta | Preço |
+|---|---|---|
+| `bf-serum-sobrancelhas-protetor-gratis` | "Oferta de Black Friday L'Amazonie": 1 sérum de sobrancelhas + 1 Protetor Solar Incolor FPS 99 de presente | R$ 159,00 |
+| `bf-vitamina-c-kit-2-sp` | 1 Sérum Clareador Vitamina C20 "com 10% OFF" + protetor FPS 99, gel de limpeza e brinde surpresa de presente, frete grátis | R$ 289,00 |
+| `bf-vitamina-c-dupla` | Sérum de Vitamina C20 + sérum extra + gel de limpeza + frete grátis | R$ 289,00 |
+| `bf-vitamina-c-dupla-brinde` | o mesmo, com brinde surpresa | R$ 289,00 |
+| `bf-creme-intimo-protetor` | Creme Clareador Íntimo + Protetor Solar Incolor FPS 99 grátis | R$ 159,00 |
+| `bf-creators-serum-sobrancelhas` | "Black Friday Creators", "liberada pelas nossas creators": 1 frasco + produto surpresa (R$ 159,00); 2 frascos + surpresa + protetor + frete grátis (R$ 249,00); 3 frascos + 1 extra + surpresa + protetor + frete grátis (R$ 346,40) | de R$ 159,00 a R$ 346,40 |
+
+- **O que isso muda na LZ6:** a loja vincula à Black Friday **brindes** no preço de tabela (o protetor de presente, o
+  sérum extra, o gel), não preço menor. Os preços "de/por" de 2 e 3 unidades são a tabela de kits de sempre.
+- **Essas páginas não estão ligadas ao site:** parecem páginas de anúncio e de divulgação por criadoras. Não há data
+  de início nem de fim, nem regulamento. Sem teste do `CECILIA` nelas. A "Black Friday Creators" só entra em texto
+  nosso se o Bruno confirmar que a parceira liberou o link para o site (9.9).
+
+### 9.8 Topo do Google em português (16/11/2026)
+
+- **"cupom l'amazonie":** a visão de IA lista códigos de outras criadoras a 12%, e sites de cupom anunciam 12% e 20%.
+  **O nosso é de 5%.** Consequência editorial: nenhum "o maior" ou "o melhor"; nenhum código alheio no texto; o que a
+  LZ1 tem e o topo não tem é onde o código entra (o checkout próprio), a conta de um carrinho testado e o total
+  entregue. Consequência comercial: vai como aviso ao Bruno (9.9).
+- **"l'amazonie cupom primeira compra":** sites de cupom prometendo 20% no cadastro e códigos de criadoras. Ninguém diz
+  o que usar na segunda compra.
+- **"l'amazonie é confiável":** visão de IA com a nota do Reclame Aqui e "pontos de atenção" na entrega; depois o
+  Reclame Aqui, a loja, o Mercado Livre e o Instagram. "As pessoas também perguntam": "O sérum L'Amazonie funciona?",
+  "Como usar o sérum L Amazonie?". Ninguém fala dos CNPJs, da Anvisa nem da regra de devolução.
+- **"l'amazonie é bom" e "serum l'amazonie sobrancelha funciona":** a visão de IA resume as avaliações da loja e os
+  relatos do Reclame Aqui; o resto são a loja e vídeos curtos de Instagram, muitos da própria marca ou de criadoras
+  com código. Uma reclamação de 30/10/2025 no Reclame Aqui ("causa queda excessiva") aparece no topo das duas buscas.
+  **Nenhuma resenha independente** e nenhum resultado com a composição. Pesquisas relacionadas: "sobrancelha
+  composição", "composição", "reclame aqui", "mercado livre", "cupom".
+
+### 9.9 Pendências
+
+1. **Rótulo do sérum:** lista INCI completa, volume e número do processo impressos. Sem isso a LZ5 não confronta os
+   ativos do marketing com a fórmula. Fonte possível: foto do rótulo num anúncio da loja oficial ou pedido à marca.
+2. **Portal da Anvisa:** confirmar a palavra "ATIVO" no processo do sérum (a consulta pede verificação anti-robô).
+3. **Mercado Livre:** preços e a data da leitura (os anúncios pedem login). Sem isso, nenhum valor do marketplace.
+4. **Black Friday:** datas e regras (pergunta ao Bruno); se as páginas `bf-` são públicas; teste do `CECILIA` numa
+   delas; reteste na semana de 27/11.
+5. **Código:** valor mínimo, limite de usos e soma com o cashback, sem leitura. O piso do frete grátis antes ou depois
+   do cupom, também.
+6. **Aviso ao Bruno:** outras criadoras divulgam códigos de 12% na mesma loja.
+7. **Quem fundou a marca e onde os produtos são feitos:** só a pista do Instagram e os fabricantes da base da Anvisa.

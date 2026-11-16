@@ -9,7 +9,9 @@ revisao_geral_ate: "2027-02-16"
 # Dossiê Factual: L'Amazonie
 
 Parceria iniciada em 16/11/2026, com a página `/cupons/lamazonie`, na prateleira Beleza de `/cupons`. Ainda sem
-artigo. A parceria não tem link próprio nem UTM: o `offerUrl` é o site oficial.
+artigo: o pacote inicial LZ1 a LZ6 tem briefing desde 16/11 (regras em [[cupom-lamazonie-como-usar]], fatos em
+[[lamazonie-fatos-1611]]). **Sem experiência de uso dos cosméticos** (Bruno, 16/11); o teste nosso é o do cupom no
+checkout. A parceria não tem link próprio nem UTM: o `offerUrl` é o site oficial.
 
 ---
 
@@ -52,6 +54,12 @@ para a primeira compra ("Você ganhou um cupom para sua 1a compra!"): não entra
 | Entrega: Correios (PAC e SEDEX) e Total Express, só no Brasil; despacho em até 3 dias úteis depois da compensação; prazo e valor pelo CEP | fato_oficial | lamazonie.com.br/policies/shipping-policy | 2026-11-16 | 2027-02-16 | — |
 | Trocas e devoluções: pelo e-mail sac@lamazonie.com.br, em até 7 dias do recebimento, com a caixa lacrada e sem uso; a loja agenda a coleta; frete da devolução do cliente; estorno em até 20 dias úteis (boleto) ou em até duas faturas (cartão) | fato_oficial | lamazonie.com.br/pages/trocas-e-devolucoes; /policies/refund-policy | 2026-11-16 | 2027-02-16 | — |
 | Garantia Mais Fios: no sérum de sobrancelhas, dinheiro de volta se não houver fios novos em 60 dias de uso, com foto do dia 1 e do dia 60; só compras no site, uma por CPF, 2 frascos seguidos; vale para compras a partir de 17/10/2026 | fato_oficial | lamazonie.com.br/pages/garantia | 2026-11-16 | 2026-12-16 | Sem leitura de a garantia valer em compra com cupom: o texto da garantia não fala de cupom |
+| Garantia Mais Fios, releitura do Job 1: "2 frascos: o kit de 60 dias, ou o 2º frasco comprado no site antes de acabar o primeiro"; foto do dia 1 em até 3 dias do recebimento e do dia 60 entre o 60º e o 70º dia; análise em até 5 dias úteis e reembolso em até 10 dias úteis, do valor dos frascos usados, sem o frete; no kit de 90 dias, o 3º frasco lacrado pode ser devolvido; não vale em marketplace, salão ou revendedora, nem com henna, micropigmentação, lápis permanente ou depilação da região | fato_oficial | lamazonie.com.br/pages/garantia | 2026-11-16 | 2026-12-16 | Quem compra 1 frasco entra se comprar o 2º no site antes de o 1º acabar |
+| Processo na Anvisa 25351.021744/2026-56: "SÉRUM CÍLIOS E SOBRANCELHAS L'AMAZONIE", notificado (isento de registro), empresa detentora CTEC INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA ME, CNPJ 03.830.222/0001-20, vencimento 03/02/2036. A base traz outras seis linhas com o nome da marca, uma delas um segundo sérum de sobrancelhas (25351.420409/2024-75, JUA) | fato_oficial | Dados abertos da Anvisa (`TA_CONSULTA_COSMETICOS.CSV`), base de 15/11/2026 | 2026-11-16 | 2026-12-16 | Não escrever "registrado" nem "grau 2"; a palavra "ATIVO" só com a consulta do portal; qual processo está no frasco, só o rótulo diz ([[lamazonie-fatos-1611]], 9.4) |
+| Arrependimento: o Guia de Comércio Eletrônico do Procon-SP (p. 19) diz que o fornecedor não pode exigir embalagem inviolada nem cobrar frete de devolução; a política da loja pede caixa lacrada e frete do cliente | fonte_oficial_externa | procon.sp.gov.br (PDF); CDC, art. 49 | 2026-11-16 | 2027-02-16 | Mostrar as duas coisas, cada uma com a fonte, sem chamar a política de ilegal |
+| Composição e volume do sérum: a página oficial não publica a lista INCI nem o volume; "4 mL" vem do título do anúncio da loja oficial no Mercado Livre | pendente | Página do sérum, 16/11/2026 | 2026-11-16 | 2026-12-16 | Pendente do rótulo |
+| Loja Oficial no Mercado Livre: existe (`mercadolivre.com.br/loja/lamazonie`); preços não lidos (os anúncios pedem login) | fato_oficial | Página "LAmazonie \| Loja Oficial", 16/11/2026 | 2026-11-16 | 2026-12-16 | O código, a garantia e o cashback são só do site |
+| Black Friday: página da campanha vazia; seis páginas de produto com oferta de Black Friday fora do menu (brinde no preço de tabela), uma delas "Black Friday Creators" | condicao_comercial_volatil | `products.json` e páginas `bf-`, 16/11/2026 | 2026-11-16 | 2026-11-27 | Sem data nem regulamento; sem teste do cupom nelas |
 | Atendimento: WhatsApp (92) 98560-6293 e sac@lamazonie.com.br; consultora da garantia no (92) 98614-5476 | fato_oficial | lamazonie.com.br/pages/perguntas-frequentes; /pages/garantia | 2026-11-16 | 2027-02-16 | — |
 
 ---
@@ -65,6 +73,11 @@ para a primeira compra ("Você ganhou um cupom para sua 1a compra!"): não entra
 - Cosmético com promessa de resultado (crescimento de fios, clareamento): citar a promessa como da marca, com
   atribuição, nunca como fato nosso.
 - Não escrever "sem valor mínimo" nem um percentual único de cupom mais Pix; não dizer que o cupom soma com o cashback.
+- Outras criadoras divulgam códigos com percentual maior na mesma loja (topo do Google, 16/11): nunca "o maior" ou
+  "o melhor" cupom, e nenhum código alheio nos textos.
+- A caixa lacrada e o frete da devolução por conta do cliente são condições da política da loja, não do art. 49 do CDC.
+- Três empresas aparecem nas fontes (rodapé, Reclame Aqui e Anvisa): cada CNPJ com a sua fonte, sem explicar a relação.
+- Não sugerir comprar 1 frasco "para testar" nem recomendar o kit maior só pelo preço por unidade.
 
 ---
 
