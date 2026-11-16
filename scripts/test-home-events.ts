@@ -23,10 +23,12 @@ import type { StoreReview } from '@/lib/homeStores';
 import { SITE_SOCIAL_IMAGE, absoluteMediaUrl } from '@/lib/pageSeo';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
-function store(slug: string) {
+// A loja real, sem o hideFromPortugueseHome: o fixture liga o campo só onde testa a loja fora da home.
+function store(slug: string): Coupon {
   const found = COUPONS.find((coupon) => coupon.slug === slug);
   assert.ok(found, `loja ${slug} existe em couponsData.ts`);
-  return found;
+  const { hideFromPortugueseHome: _hidden, ...rest } = found;
+  return rest;
 }
 
 type ReviewFixture = StoreReview & { locale?: string };

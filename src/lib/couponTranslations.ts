@@ -760,6 +760,16 @@ const TEMU_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
           'The return window and cost vary from country to country. Temu\'s return and refund policy for your country is in the site footer and in the app; check it before you buy.',
       },
       {
+        question: 'What payment methods does Temu accept?',
+        answer:
+          'It depends on the country. Temu shows the payment methods accepted in your country when you pay, and its Help Center has the list.',
+      },
+      {
+        question: 'Does Temu charge import duties?',
+        answer:
+          'It depends on the country. International purchases may be subject to import duties and other taxes; when Temu charges them on the order, the amount is shown before you pay. Check the rules for your country in the Temu Help Center.',
+      },
+      {
         question: 'Do I need to copy a code to buy through the link?',
         answer:
           'No. Just open Temu with the button on this page and shop as usual. There is no code from us to paste into the cart.',
@@ -814,6 +824,16 @@ const TEMU_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
         question: '¿Cómo funcionan las devoluciones en Temu?',
         answer:
           'El plazo y el coste de la devolución cambian de un país a otro. La política de devolución y reembolso de Temu para tu país está al pie del sitio y en la app; consúltala antes de comprar.',
+      },
+      {
+        question: '¿Qué formas de pago acepta Temu?',
+        answer:
+          'Depende del país. Temu muestra las formas de pago aceptadas en tu país a la hora de pagar, y su centro de ayuda incluye la lista.',
+      },
+      {
+        question: '¿Temu cobra impuestos de importación?',
+        answer:
+          'Depende del país. En las compras internacionales puede haber impuestos de importación y otros tributos; cuando Temu los cobra en el pedido, el importe aparece antes del pago. Consulta las reglas de tu país en el centro de ayuda de Temu.',
       },
       {
         question: '¿Tengo que copiar algún código para comprar con el enlace?',
@@ -872,6 +892,16 @@ const TEMU_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
           'Le délai et le coût du retour varient d\'un pays à l\'autre. La politique de retour et de remboursement de Temu pour votre pays se trouve en bas du site et dans l\'appli. Consultez-la avant d\'acheter.',
       },
       {
+        question: 'Quels moyens de paiement Temu accepte-t-il\u00a0?',
+        answer:
+          'Cela dépend du pays. Temu affiche les moyens de paiement acceptés dans votre pays au moment de payer, et son centre d\'aide en donne la liste.',
+      },
+      {
+        question: 'Temu applique-t-il des droits de douane\u00a0?',
+        answer:
+          'Cela dépend du pays. Les achats internationaux peuvent donner lieu à des droits de douane et à d\'autres taxes\u00a0; lorsque Temu les facture sur la commande, le montant s\'affiche avant le paiement. Consultez les règles de votre pays dans le centre d\'aide de Temu.',
+      },
+      {
         question: 'Dois-je copier un code pour acheter via le lien\u00a0?',
         answer:
           'Non. Il suffit d\'ouvrir Temu avec le bouton de cette page et d\'acheter normalement. Il n\'y a aucun code de notre part à coller dans le panier.',
@@ -926,6 +956,16 @@ const TEMU_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
         question: 'Wie funktioniert die Rückgabe bei Temu?',
         answer:
           'Frist und Kosten der Rückgabe sind von Land zu Land verschieden. Die Rückgabe- und Erstattungsrichtlinie von Temu für dein Land findest du im Footer der Website und in der App; lies sie vor dem Kauf.',
+      },
+      {
+        question: 'Welche Zahlungsarten akzeptiert Temu?',
+        answer:
+          'Das hängt vom Land ab. Temu zeigt dir die in deinem Land akzeptierten Zahlungsarten beim Bezahlen an, und im Hilfe-Center findest du die Liste.',
+      },
+      {
+        question: 'Erhebt Temu Einfuhrabgaben?',
+        answer:
+          'Das hängt vom Land ab. Bei internationalen Käufen können Einfuhrabgaben und andere Steuern anfallen; wenn Temu sie auf die Bestellung erhebt, wird der Betrag vor der Zahlung angezeigt. Die Regeln für dein Land findest du im Hilfe-Center von Temu.',
       },
       {
         question: 'Muss ich einen Code kopieren, um über den Link zu kaufen?',
@@ -984,6 +1024,16 @@ const TEMU_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
           'Il termine e il costo del reso cambiano da paese a paese. La politica di reso e rimborso di Temu per il tuo paese si trova in fondo al sito e nell\'app; controllala prima di comprare.',
       },
       {
+        question: 'Quali metodi di pagamento accetta Temu?',
+        answer:
+          'Dipende dal paese. Temu mostra i metodi di pagamento accettati nel tuo paese al momento del pagamento, e il suo centro assistenza ne riporta l\'elenco.',
+      },
+      {
+        question: 'Temu applica dazi di importazione?',
+        answer:
+          'Dipende dal paese. Negli acquisti internazionali possono esserci dazi di importazione e altre imposte; quando Temu li applica all\'ordine, l\'importo viene mostrato prima del pagamento. Controlla le regole del tuo paese nel centro assistenza di Temu.',
+      },
+      {
         question: 'Devo copiare un codice per comprare dal link?',
         answer:
           'No. Basta aprire Temu con il pulsante di questa pagina e comprare come al solito. Non c\'è nessun codice nostro da incollare nel carrello.',
@@ -1038,6 +1088,16 @@ const TEMU_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
         question: 'Temu 반품은 어떻게 하나요?',
         answer:
           '반품 기간과 비용은 국가마다 다릅니다. 해당 국가의 Temu 반품·환불 정책은 사이트 하단과 앱에서 확인할 수 있으니 구매 전에 확인하세요.',
+      },
+      {
+        question: 'Temu에서는 어떤 결제 수단을 사용할 수 있나요?',
+        answer:
+          '국가마다 다릅니다. Temu는 결제할 때 해당 국가에서 사용할 수 있는 결제 수단을 보여 주며, 고객센터에서 목록을 확인할 수 있습니다.',
+      },
+      {
+        question: 'Temu는 수입 관세를 부과하나요?',
+        answer:
+          '국가마다 다릅니다. 해외 구매에는 수입 관세와 기타 세금이 붙을 수 있으며, Temu가 주문에 이를 부과하는 경우 결제 전에 금액이 표시됩니다. 해당 국가의 규정은 Temu 고객센터에서 확인하세요.',
       },
       {
         question: '링크로 구매할 때 코드를 복사해야 하나요?',
@@ -1096,6 +1156,16 @@ const TEMU_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
           '返品の期間と費用は国によって異なります。お住まいの国の Temu の返品・返金ポリシーは、サイト下部とアプリで確認できます。購入前にご確認ください。',
       },
       {
+        question: 'Temu ではどの支払い方法が使えますか？',
+        answer:
+          '国によって異なります。Temu は支払い時にお住まいの国で利用できる支払い方法を表示し、ヘルプセンターにも一覧があります。',
+      },
+      {
+        question: 'Temu は輸入関税を請求しますか？',
+        answer:
+          '国によって異なります。海外からの購入には、輸入関税やその他の税金がかかることがあります。Temu が注文時に請求する場合は、支払い前に金額が表示されます。お住まいの国のルールは Temu のヘルプセンターでご確認ください。',
+      },
+      {
         question: 'リンクから購入するとき、コードをコピーする必要はありますか？',
         answer:
           'いいえ。このページのボタンから Temu を開き、いつもどおり購入するだけです。カートに貼り付ける当サイトのコードはありません。',
@@ -1152,6 +1222,16 @@ const TEMU_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
           '退貨期限和費用因國家或地區而異。Temu 針對你所在國家或地區的退貨及退款政策，可在網站底部和 App 查看，購買前請先確認。',
       },
       {
+        question: 'Temu 支援哪些付款方式？',
+        answer:
+          '視國家或地區而定。Temu 會在付款時顯示你所在國家或地區支援的付款方式，幫助中心也有完整清單。',
+      },
+      {
+        question: 'Temu 會收取進口稅嗎？',
+        answer:
+          '視國家或地區而定。跨境購物可能需要繳納進口稅和其他稅費；Temu 若在訂單中收取，金額會在付款前顯示。你所在國家或地區的規定請查看 Temu 幫助中心。',
+      },
+      {
         question: '透過連結購物需要複製代碼嗎？',
         answer:
           '不需要。只要點擊本頁的按鈕開啟 Temu，照常購物即可。我們沒有需要貼到購物車的代碼。',
@@ -1206,6 +1286,16 @@ const TEMU_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
         question: 'Temu 如何退货？',
         answer:
           '退货期限和费用因国家或地区而异。Temu 针对你所在国家或地区的退货和退款政策，可在网站底部和 App 查看，购买前请先确认。',
+      },
+      {
+        question: 'Temu 支持哪些付款方式？',
+        answer:
+          '视国家或地区而定。Temu 会在付款时显示你所在国家或地区支持的付款方式，帮助中心也有完整列表。',
+      },
+      {
+        question: 'Temu 会收取进口税吗？',
+        answer:
+          '视国家或地区而定。跨境购物可能需要缴纳进口税和其他税费；Temu 如果在订单中收取，金额会在付款前显示。你所在国家或地区的规定请查看 Temu 帮助中心。',
       },
       {
         question: '通过链接购物需要复制代码吗？',
@@ -1268,6 +1358,16 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
           'The return window varies by country and seller type. AliExpress\'s return and refund policy sets out the rule for each country; also check the return conditions on the product page.',
       },
       {
+        question: 'What payment methods does AliExpress accept?',
+        answer:
+          'It depends on the country. AliExpress shows the payment methods accepted in your country at checkout.',
+      },
+      {
+        question: 'Does AliExpress charge import duties?',
+        answer:
+          'It depends on the country. International purchases may be subject to import duties and other taxes; when AliExpress charges them, the product page or checkout shows the estimated amount before you buy.',
+      },
+      {
         question: 'Do I need to copy a code to buy through the link?',
         answer:
           'No. Just open AliExpress with the button on this page and shop as usual. There is no code from us to paste into the cart.',
@@ -1322,6 +1422,16 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
         question: '¿Cómo funcionan las devoluciones en AliExpress?',
         answer:
           'El plazo de devolución cambia según el país y el tipo de vendedor. La política de devolución y reembolso de AliExpress recoge la regla de cada país; consulta también las condiciones de devolución en la página del producto.',
+      },
+      {
+        question: '¿Qué formas de pago acepta AliExpress?',
+        answer:
+          'Depende del país. AliExpress muestra las formas de pago aceptadas en tu país en el checkout.',
+      },
+      {
+        question: '¿AliExpress cobra impuestos de importación?',
+        answer:
+          'Depende del país. En las compras internacionales puede haber impuestos de importación y otros tributos; cuando AliExpress los cobra, la página del producto o el checkout muestra el importe estimado antes de la compra.',
       },
       {
         question: '¿Tengo que copiar algún código para comprar con el enlace?',
@@ -1380,6 +1490,16 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
           'Le délai de retour varie selon le pays et le type de vendeur. La politique de retour et de remboursement d\'AliExpress précise la règle de chaque pays. Consultez aussi les conditions de retour sur la page du produit.',
       },
       {
+        question: 'Quels moyens de paiement AliExpress accepte-t-il\u00a0?',
+        answer:
+          'Cela dépend du pays. AliExpress affiche les moyens de paiement acceptés dans votre pays au moment du paiement.',
+      },
+      {
+        question: 'AliExpress applique-t-il des droits de douane\u00a0?',
+        answer:
+          'Cela dépend du pays. Les achats internationaux peuvent donner lieu à des droits de douane et à d\'autres taxes\u00a0; lorsqu\'AliExpress les facture, la page du produit ou le paiement affiche le montant estimé avant l\'achat.',
+      },
+      {
         question: 'Dois-je copier un code pour acheter via le lien\u00a0?',
         answer:
           'Non. Il suffit d\'ouvrir AliExpress avec le bouton de cette page et d\'acheter normalement. Il n\'y a aucun code de notre part à coller dans le panier.',
@@ -1434,6 +1554,16 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
         question: 'Wie funktioniert die Rückgabe bei AliExpress?',
         answer:
           'Die Rückgabefrist hängt vom Land und von der Art des Verkäufers ab. Die Rückgabe- und Erstattungsrichtlinie von AliExpress nennt die Regel für jedes Land; prüfe auch die Rückgabebedingungen auf der Produktseite.',
+      },
+      {
+        question: 'Welche Zahlungsarten akzeptiert AliExpress?',
+        answer:
+          'Das hängt vom Land ab. AliExpress zeigt dir die in deinem Land akzeptierten Zahlungsarten im Checkout an.',
+      },
+      {
+        question: 'Erhebt AliExpress Einfuhrabgaben?',
+        answer:
+          'Das hängt vom Land ab. Bei internationalen Käufen können Einfuhrabgaben und andere Steuern anfallen; wenn AliExpress sie erhebt, zeigt die Produktseite oder der Checkout den geschätzten Betrag vor dem Kauf an.',
       },
       {
         question: 'Muss ich einen Code kopieren, um über den Link zu kaufen?',
@@ -1492,6 +1622,16 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
           'Il termine di reso cambia in base al paese e al tipo di venditore. La politica di reso e rimborso di AliExpress riporta la regola di ogni paese; controlla anche le condizioni di reso nella pagina del prodotto.',
       },
       {
+        question: 'Quali metodi di pagamento accetta AliExpress?',
+        answer:
+          'Dipende dal paese. AliExpress mostra i metodi di pagamento accettati nel tuo paese al checkout.',
+      },
+      {
+        question: 'AliExpress applica dazi di importazione?',
+        answer:
+          'Dipende dal paese. Negli acquisti internazionali possono esserci dazi di importazione e altre imposte; quando AliExpress li applica, la pagina del prodotto o il checkout mostra l\'importo stimato prima dell\'acquisto.',
+      },
+      {
         question: 'Devo copiare un codice per comprare dal link?',
         answer:
           'No. Basta aprire AliExpress con il pulsante di questa pagina e comprare come al solito. Non c\'è nessun codice nostro da incollare nel carrello.',
@@ -1546,6 +1686,16 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
         question: 'AliExpress 반품은 어떻게 하나요?',
         answer:
           '반품 기간은 국가와 판매자 유형에 따라 다릅니다. AliExpress의 반품·환불 정책에 국가별 규정이 나와 있으니, 상품 페이지의 반품 조건도 함께 확인하세요.',
+      },
+      {
+        question: 'AliExpress에서는 어떤 결제 수단을 사용할 수 있나요?',
+        answer:
+          '국가마다 다릅니다. AliExpress는 결제 단계에서 해당 국가에서 사용할 수 있는 결제 수단을 보여 줍니다.',
+      },
+      {
+        question: 'AliExpress는 수입 관세를 부과하나요?',
+        answer:
+          '국가마다 다릅니다. 해외 구매에는 수입 관세와 기타 세금이 붙을 수 있으며, AliExpress가 이를 부과하는 경우 상품 페이지나 결제 단계에서 구매 전에 예상 금액이 표시됩니다.',
       },
       {
         question: '링크로 구매할 때 코드를 복사해야 하나요?',
@@ -1604,6 +1754,16 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
           '返品期間は国と出品者の種類によって異なります。AliExpress の返品・返金ポリシーに国ごとのルールが載っています。商品ページの返品条件もあわせてご確認ください。',
       },
       {
+        question: 'AliExpress ではどの支払い方法が使えますか？',
+        answer:
+          '国によって異なります。AliExpress はチェックアウトで、お住まいの国で利用できる支払い方法を表示します。',
+      },
+      {
+        question: 'AliExpress は輸入関税を請求しますか？',
+        answer:
+          '国によって異なります。海外からの購入には、輸入関税やその他の税金がかかることがあります。AliExpress が請求する場合は、購入前に商品ページまたはチェックアウトで目安の金額が表示されます。',
+      },
+      {
         question: 'リンクから購入するとき、コードをコピーする必要はありますか？',
         answer:
           'いいえ。このページのボタンから AliExpress を開き、いつもどおり購入するだけです。カートに貼り付ける当サイトのコードはありません。',
@@ -1660,6 +1820,16 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
           '退貨期限因國家或地區和賣家類型而異。AliExpress 的退貨及退款政策列明各國家或地區的規定；也請查看商品頁面上的退貨條件。',
       },
       {
+        question: 'AliExpress 支援哪些付款方式？',
+        answer:
+          '視國家或地區而定。AliExpress 會在結帳時顯示你所在國家或地區支援的付款方式。',
+      },
+      {
+        question: 'AliExpress 會收取進口稅嗎？',
+        answer:
+          '視國家或地區而定。跨境購物可能需要繳納進口稅和其他稅費；AliExpress 若收取，商品頁面或結帳頁會在購買前顯示預估金額。',
+      },
+      {
         question: '透過連結購物需要複製代碼嗎？',
         answer:
           '不需要。只要點擊本頁的按鈕開啟 AliExpress，照常購物即可。我們沒有需要貼到購物車的代碼。',
@@ -1714,6 +1884,16 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
         question: 'AliExpress 如何退货？',
         answer:
           '退货期限因国家或地区和卖家类型而异。AliExpress 的退货和退款政策列明各国家或地区的规定；也请查看商品页面上的退货条件。',
+      },
+      {
+        question: 'AliExpress 支持哪些付款方式？',
+        answer:
+          '视国家或地区而定。AliExpress 会在结账时显示你所在国家或地区支持的付款方式。',
+      },
+      {
+        question: 'AliExpress 会收取进口税吗？',
+        answer:
+          '视国家或地区而定。跨境购物可能需要缴纳进口税和其他税费；AliExpress 如果收取，商品页面或结账页会在购买前显示预估金额。',
       },
       {
         question: '通过链接购物需要复制代码吗？',

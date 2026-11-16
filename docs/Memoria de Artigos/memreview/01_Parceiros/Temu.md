@@ -29,7 +29,9 @@ quando a tradução entrar, nos outros nove idiomas.
 
 | Fato / Especificação | Tipo | Fonte | Consultado Em | Rever Até | Notas |
 |---|---|---|---|---|---|
-| Loja online internacional de moda, casa, eletrônicos e utilidades, com envio para o Brasil | fato_oficial | `https://www.temu.com/br` | 2026-11-16 | 2027-02-16 | Formas de pagamento e alíquota de imposto não foram lidas: ficam fora da página |
+| Loja online internacional de moda, casa, eletrônicos e utilidades, com envio para o Brasil | fato_oficial | `https://www.temu.com/br` | 2026-11-16 | 2027-02-16 | |
+| Formas de pagamento: cartão de crédito e de débito (Visa, Mastercard, Hipercard, Elo, Maestro, American Express, Discover, Diners Club e JCB), Pix, boleto, PayPal, Apple Pay, Google Pay e créditos da Temu | fato_oficial | Central de ajuda, "Que métodos de pagamento aceita?" (`temu.com/br/support/c3/que-m-todos-de-pagamento-aceita-f-56-s-140.html`) | 2026-11-16 | 2027-02-16 | A página também cita "pagamento mensal com cartão de crédito local", sem dizer o número de parcelas nem se há juros: fica fora do FAQ. O rodapé mostra Nubank e "pixInstallment", sem explicação |
+| Imposto (Remessa Conforme): até US$ 50, imposto de importação 0% e ICMS de 17% a 20% conforme o estado; acima de US$ 50 e até US$ 3.000, imposto de importação de 60% com dedução de US$ 30, mais o ICMS; cobrado no pedido | fato_oficial | Central de ajuda, "Programa Remessa Conforme" (`temu.com/br/support/c3/programa-remessa-conforme-f-56-s-3166.html`) | 2026-11-16 | 2027-02-16 | O comparativo `shein-ou-shopee-temu` ainda diz que a Temu não publica a alíquota: a sessão de artigos foi avisada |
 
 ---
 

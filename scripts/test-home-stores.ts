@@ -45,10 +45,12 @@ import {
   type HomeStoreTab,
 } from '@/lib/homeStoreTabs';
 
-function store(slug: string) {
+// A loja real, sem o hideFromPortugueseHome: o fixture liga o campo só onde testa a loja fora da home.
+function store(slug: string): Coupon {
   const found = COUPONS.find((coupon) => coupon.slug === slug);
   assert.ok(found, `loja ${slug} existe em couponsData.ts`);
-  return found;
+  const { hideFromPortugueseHome: _hidden, ...rest } = found;
+  return rest;
 }
 
 type ReviewFixture = StoreReview & { locale?: string };
@@ -378,7 +380,7 @@ assert.deepEqual(
 );
 assert.deepEqual(
   tabs.filter(({ allArticles }) => allArticles).map(({ slug }) => slug),
-  sortStoresByNewestArticle(getHomeVitrineStores(pageSlugs.map((slug) => store(slug))), publishedReviews).map(({ slug }) => slug),
+  sortStoresByNewestArticle(getHomeVitrineStores(pageSlugs.map((slug) => COUPONS.find((coupon) => coupon.slug === slug)!)), publishedReviews).map(({ slug }) => slug),
   'o "Ver os N artigos" da vitrine e a subpágina seguem a mesma regra'
 );
 
