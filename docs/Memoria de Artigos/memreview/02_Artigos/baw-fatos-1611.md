@@ -298,3 +298,11 @@ No navegador, sem login.
 - **NeoFeed (25/02/2025):** só título e linha fina. **FashionUnited (26/02/2025):** só o título ("Azzas 2154 encerra atividades da Troc e revende a Baw aos ex-donos"); o corpo pede cadastro. **Pipeline (14/07/2026):** dois parágrafos abertos (os irmãos "recompraram o controle", Bruno Karra é o CEO, marca "paulistana de streetwear"). A BW3 diz que lemos os títulos e os trechos abertos.
 - **Site da BAW.** `/trocas-e-devolucoes`: além do que a seção 9.3 registra, "A primeira troca ou devolução é gratuita. Nas demais solicitações, o custo do frete será repassado ao cliente" e "Apenas produtos adquiridos no site são aceitos para troca ou devolução"; no Pix, o reembolso "geralmente acontece em até 10 dias úteis após a confirmação da devolução". `/central-de-ajuda`: cancelamento só antes da expedição; endereço errado, falar com o atendimento; WhatsApp de segunda a sexta, das 9h às 18h, exceto feriados. `/nossas-lojas`: segue vazia.
 - **Mercado Livre.** A página da loja oficial pediu verificação de conta e não foi aberta. Os dois artigos falam de marketplace de forma genérica, sem afirmar que existe loja oficial.
+
+## 12. Leituras da redação da BW4 e da BW5 (16/11/2026)
+
+- **Menu do site:** Vestuário (Camisetas, Moletons, Camisas, Calças, Jaquetas, Shorts, Saias), Acessórios (Bolsas e Acessórios, Bonés, Meias), Kids, Calçados (Tênis, Slide).
+- **Texto da home:** "Fundada em 2014, a Baw Clothing é uma marca de roupa streetwear brasileira"; "Nossa coleção é feita para homens e mulheres"; "é estilo sem gênero, liberdade para ser quem você quiser".
+- **Fotos oficiais do card de estilo da BW5:** Oversized BAW Subscript off white com bermuda cargo preta, meia branca e tênis; Hoodie BAW Subscript preto com shorts de moletom cinza e com bermuda cargo preta; Calça Track BAW Tag amarelo flúor com regata branca e tênis escuro.
+- **Não relido:** a aba "Descrição" das páginas de produto (a leitura por script não abriu a aba). Composição e medidas da BW5 são as da 9.5 e da 9.6, do mesmo dia.
+- **Manual de reputação do Reclame Aqui** (`manual.reclameaqui.com.br/reputacao-no-reclame-aqui`): o índice de solução é calculado sobre o total avaliado. Base da segunda revisão externa da BW2 e da BW3.

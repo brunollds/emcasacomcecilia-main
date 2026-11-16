@@ -7,9 +7,9 @@ parceiro_slug: "baw"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Marca"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2), por último no pacote, junto com a BW4"
+proxima_acao: "deploy (decisão do Bruno)"
 bloqueado_por: "-"
 data_criacao: "2026-11-16"
 pauta_id: "BW5"
@@ -143,3 +143,14 @@ medidas.
 | Troca por crédito; devolução com reembolso | `/trocas-e-devolucoes`, 16/11 | verificado |
 | Qualidade, conforto, durabilidade, caimento no corpo | nenhuma | não escrever |
 | "Peças sem gênero" | texto da home (dossiê) | com atribuição; reler |
+
+## Redação, revisão e JSON (16/11/2026)
+
+Job 2 e Job 4 pela sessão de artigos. Composição e medidas vêm das fichas registradas em [[baw-fatos-1611]] (9.5 e 9.6); menu e texto da home relidos no dia (seção 12). Card de estilo no capítulo "Regular ou oversized: o que muda em centímetros", com entrada em `scripts/styling-required.json`. Job 3 por subagente Fable: achados aplicados. JSON em `content/reviews/baw-clothing-e-boa.json`.
+
+## Capa e imagens (aprovadas pelo Bruno em 16/11/2026)
+
+Folha de aprovação mostrada no chat; upload ao CDN autorizado no mesmo dia. Fotos oficiais da BAW Clothing, sem cenário gerado.
+
+- Capa `baw-clothing-e-boa-capa.webp`: segunda foto da Camiseta Oversized BAW Subscript off white (produto 151896), a pergunta "BAW Clothing é boa?" e o código.
+- Corpo: `baw-clothing-e-boa-moletom-hoodie-subscript.webp` (terceira foto do Hoodie, 151918), `baw-clothing-e-boa-camiseta-oversized-subscript.webp` (terceira foto da Oversized), `baw-clothing-e-boa-calca-track-baw-tag.webp` (terceira foto da Calça Track BAW Tag, 151973) e, reaproveitada da BW6, `black-friday-baw-camiseta-selfie-logo.webp`. O print da tabela de medidas não entrou: as medidas estão na tabela do texto.
