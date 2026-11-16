@@ -22,6 +22,11 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
   const errors: string[] = [];
   const primaryReward = getPrimaryRewardCode();
   const activePromos = getActivePromoCoupons();
+  // Cupom de alguns países nunca vem antes de um que vale em todo país.
+  const firstRegional = activePromos.findIndex((promo) => !promo.regions.includes('GLOBAL'));
+  if (firstRegional !== -1 && activePromos.slice(firstRegional).some((promo) => promo.regions.includes('GLOBAL'))) {
+    errors.push('Cupom regional da YesStyle listado antes de um cupom que vale em todo país');
+  }
 
   // [P1 Fix]: Calcular data esperada inicialmente de forma dinâmica (nunca hardcodar datas estáticas no teste)
   const initialLatestVerifiedAt = getLatestYesStyleVerifiedAtISO();

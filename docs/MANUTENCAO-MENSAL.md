@@ -385,7 +385,7 @@ Os cupons guardam as condições em campos, e cada página as escreve no própri
 
 | Campo | Valores |
 |---|---|
-| `regions` | `["GLOBAL"]` ou códigos de país de 2 letras, como `["US"]`; `GLOBAL` não se mistura com países |
+| `regions` | `["GLOBAL"]` ou códigos de país de 2 letras, como `["US"]`; `GLOBAL` não se mistura com países. Com mais de um cupom ativo, a página lista primeiro os `GLOBAL` e cita o primeiro deles no passo a passo |
 | `discount` | `percentage` (sem valor mínimo), `tiers` (valor mínimo por faixa), `fixed` ou `shipping` |
 | `membersOnly` | `true` quando o cupom só vale com login na conta, não na compra como visitante |
 
