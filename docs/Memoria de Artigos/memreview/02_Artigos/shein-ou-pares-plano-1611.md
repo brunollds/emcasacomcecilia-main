@@ -68,7 +68,8 @@ O Bruno levantou a ideia ("quem sabe até produtos"). O artigo de outubro não m
 - Amostra pequena e dita como amostra (por exemplo, cinco categorias de roupa básica), lida pelo navegador, sem login.
 - Na Shopee e no AliExpress o preço é do vendedor, não da loja: a tabela nomeia o anúncio.
 
-**Decisão do Bruno (16/11):** a amostra entra, por partes: primeiro SHEIN e Shopee, só em PT. Ele pega os links
+**Decisão do Bruno (16/11):** a amostra entra nos três artigos, por partes: primeiro SHEIN e Shopee, só em PT;
+depois SHEIN e Temu (SV2) e SHEIN e AliExpress (SV3). Ele pega os links
 dos produtos das duas e converte.
 
 - **Categorias propostas** (roupa básica, que é o que a busca pergunta: "para comprar roupa"): camiseta básica
