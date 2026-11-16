@@ -54588,7 +54588,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Caixas avulsas na oferta do dia:** para quem toma sempre as mesmas bebidas e quer escolher uma a uma. Na leitura, a oferta partia de R$ 15,90 a caixa, com frete grátis acima de R$ 100.",
-          "**Combo fechado:** confira contra as avulsas. O Combo Espresso Leve 8 Pague 6 custava R$ 155,40, e oito caixas de [Espresso](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-espresso-10) na oferta do dia somavam R$ 143,20. No [Mochaccino Canela](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-mochaccino-canela-10caps), o combo de mesmo preço ficava R$ 3,80 abaixo das oito avulsas.",
+          "**Combo fechado:** confira contra as avulsas. O [Combo Espresso Leve 8 Pague 6](https://www.nescafe-dolcegusto.com.br/sabores/combo-espresso-leve8-pague6-2) custava R$ 155,40, e oito caixas de [Espresso](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-espresso-10) na oferta do dia somavam R$ 143,20. No [Mochaccino Canela](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-mochaccino-canela-10caps), o combo de mesmo preço ficava R$ 3,80 abaixo das oito avulsas.",
           "**DGusta:** para quem quer misturar sabores em caixas de 50 ou 100 cápsulas. O regulamento da oferta fala em cápsulas a partir de R$ 1,59, com frete grátis próprio.",
           "[Assinatura](https://www.nescafe-dolcegusto.com.br/assinatura): para quem toma café todo dia e quer entrega recorrente, com frete grátis em todos os pedidos. O desconto maior é o do primeiro pedido. Veja a conta em [assinatura Dolce Gusto vale a pena?](/reviews/assinatura-dolce-gusto-vale-a-pena)."
         ],
@@ -55489,10 +55489,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Aparelho de 30 peças:** traz 6 pratos rasos, 6 de sobremesa, 6 fundos, 6 xícaras e 6 pires. Para quem vai montar a mesa do zero, sai por menos que os três jogos de pratos comprados à parte, que somavam R$ 788,70 sem as xícaras.",
           "**Jogo de 6 pratos:** para quem só precisa repor um tipo de prato. O [de sobremesa da linha Bio](https://letseatit.com.br/products/conjunto-com-6-pratos-de-sobremesa-bio-latte-21-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) estava a R$ 236,90 e o [de pratos fundos](https://letseatit.com.br/products/conjunto-com-6-pratos-fundos-bio-latte-22-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), a R$ 265,90.",
-          "**Aparelho de 16 peças:** o Bio Latte de 16 peças estava a R$ 659,00. Por peça, custa mais que o de 30; faz sentido para mesa de 4 lugares e pouco espaço no armário.",
+          "**Aparelho de 16 peças:** o [Bio Latte de 16 peças](https://letseatit.com.br/products/pre-venda-aparelho-de-jantar-stoneware-bio-latte-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) estava a R$ 659,00. Por peça, custa mais que o de 30; faz sentido para mesa de 4 lugares e pouco espaço no armário.",
           "**Faqueiro La Maison:** [12 peças](https://letseatit.com.br/products/faqueiro-12-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) por R$ 199,00 e [24 peças](https://letseatit.com.br/products/faqueiro-24-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) por R$ 389,00, em aço inox, em várias cores de cabo. É o caminho de menor preço para 6 lugares.",
           "**Faqueiro Laguiole La Maison Luxo:** [12](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [18](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) ou [30](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) peças, por R$ 469,00, R$ 729,00 e R$ 1.099,00. Os preços são os mesmos do fim de outubro, e a maior parte das cores estava em pré-venda.",
-          "**Taças da Linha Sintonia:** o jogo de 6 taças para água de [base geométrica Trio, de 400 ml](https://letseatit.com.br/products/jogo-de-6-tacas-para-agua-vidro-base-geometrica-trio-linha-sintonia-400ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), estava a R$ 499,00, e o Trésor incolor, de 515 ml, a R$ 519,00. Os jogos de base esfera da linha Pure apareciam em pré-venda."
+          "**Taças da Linha Sintonia:** o jogo de 6 taças para água de [base geométrica Trio, de 400 ml](https://letseatit.com.br/products/jogo-de-6-tacas-para-agua-vidro-base-geometrica-trio-linha-sintonia-400ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), estava a R$ 499,00, e o [Trésor incolor, de 515 ml](https://letseatit.com.br/products/jogo-de-6-tacas-para-agua-gioia-vidro-incolor-linha-sintonia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), a R$ 519,00. Os jogos de base esfera da linha Pure apareciam em pré-venda."
         ],
         "postParagraphs": [
           "Várias cores de aparelho apareciam como esgotadas na nossa leitura, e o Bio Breeze, em pré-venda: confira a disponibilidade da cor na página antes de planejar a mesa em torno dela.",
@@ -56198,7 +56198,7 @@ export const reviewsData: unknown[] = [
               "R$ 129"
             ],
             [
-              "Tech T-Shirt Gola V",
+              "[Tech T-Shirt Gola V](https://creators.insiderstore.com.br/6YciBPd)",
               "R$ 169",
               "R$ 129"
             ],
@@ -56218,7 +56218,7 @@ export const reviewsData: unknown[] = [
               "R$ 456"
             ],
             [
-              "[Kit 5 Core T-Shirt](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-5-camisetas-premium-encorpada-core-t-shirt?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "[Kit 5 Core T-Shirt](https://creators.insiderstore.com.br/nSNRDxm)",
               "R$ 945",
               "R$ 805,50"
             ]
@@ -56255,12 +56255,12 @@ export const reviewsData: unknown[] = [
               "R$ 79"
             ],
             [
-              "[Kit 3 cuecas Boxer Comfort](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-3-cuecas-confortaveis-boxer-comfort?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "[Kit 3 cuecas Boxer Comfort](https://creators.insiderstore.com.br/hxbKq9S)",
               "R$ 255",
               "R$ 229,89"
             ],
             [
-              "[Kit 5 cuecas Comfort](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-5-cuecas-comfort?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "[Kit 5 cuecas Comfort](https://creators.insiderstore.com.br/rhM3Vog)",
               "R$ 425",
               "R$ 375,25"
             ],
@@ -56647,13 +56647,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os kits de calcinha do Outlet são fechados: o de cinco deixa escolher até duas cores, e os de três não deixam escolher cor nem tamanho. Os três sutiãs Nakedfeel (Decote V, Top e com alças removíveis) estavam no preço cheio, de R$ 189 a R$ 199, e neles só o cupom baixa. A política da Insider restringe a troca comercial de calcinhas e sutiãs a defeito; confira o tamanho e as condições antes de fechar."
+          "Os kits de calcinha do Outlet são fechados: o de cinco deixa escolher até duas cores, e os de três não deixam escolher cor nem tamanho. Os três [sutiãs Nakedfeel](https://creators.insiderstore.com.br/eh8ym4n) (Decote V, Top e com alças removíveis) estavam no preço cheio, de R$ 189 a R$ 199, e neles só o cupom baixa. A política da Insider restringe a troca comercial de calcinhas e sutiãs a defeito; confira o tamanho e as condições antes de fechar."
         ]
       },
       {
         "heading": "Outlet feminino: o que vale a pena",
         "paragraphs": [
-          "O Outlet é a seção de últimas unidades da Insider: peças e cores que saíram de linha, com desconto de 32% a 50% e sem reposição. A página feminina tinha 41 peças no fim de outubro, 39 à venda, a maioria com 40% OFF, e a grade de cada uma só encolhe. Vale a pena quando a sua cor e o seu tamanho ainda aparecem: a Tech feminina e a Gola V a R$ 99, a Regata Intech a R$ 83, a Tech Manga Longa a R$ 143, vestidos, saia, calças e shorts.",
+          "O Outlet é a seção de últimas unidades da Insider: peças e cores que saíram de linha, com desconto de 32% a 50% e sem reposição. A página feminina tinha 41 peças no fim de outubro, 39 à venda, a maioria com 40% OFF, e a grade de cada uma só encolhe. Vale a pena quando a sua cor e o seu tamanho ainda aparecem: a Tech feminina e a Gola V a R$ 99, a [Regata Intech](https://creators.insiderstore.com.br/2LrFuhV) a R$ 83, a Tech Manga Longa a R$ 143, vestidos, saia, calças e shorts.",
           "As 39 peças, por tipo, com o preço final e os tamanhos que sobraram, estão em [Outlet Insider feminino: o que vale a pena](/reviews/outlet-insider-feminino-vale-a-pena). Na Black Friday, compare o preço do Outlet com o da coleção da campanha: a mesma peça pode estar nos dois lugares com preços diferentes."
         ]
       },
@@ -56662,7 +56662,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Cupom:** o EMCASACOMCECILIA dá 15% OFF na loja online, sem valor mínimo, com todas as formas de pagamento, e soma com os preços da Black Friday, salvo quando a promoção disser o contrário. A loja aceita um cupom por pedido.",
           "**Compre 1, Ganhe 1 (teste no carrinho):** o banner da loja manda usar o cupom da campanha, que deu 5%. No kit Daily T-shirt + Cueca Boxer Comfort, de R$ 139 com a cueca grátis, esse cupom deixou o total em R$ 132,05; o EMCASACOMCECILIA deixou em R$ 118,15, com a cueca grátis mantida. Como a loja aceita um cupom por pedido, fique com o EMCASACOMCECILIA.",
-          "**Teste no carrinho:** no fim de outubro, a [Calça Pantalona InLounge](https://creators.insiderstore.com.br/n8gNau3), de R$ 299 por R$ 179 no Outlet, saiu por R$ 152,15 com o cupom. Ele também entrou em peças com etiqueta de lançamento, como os sutiãs Nakedfeel e o [Perfect Body Manga Longa](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/perfect-body-manga-longa-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA).",
+          "**Teste no carrinho:** no fim de outubro, a [Calça Pantalona InLounge](https://creators.insiderstore.com.br/n8gNau3), de R$ 299 por R$ 179 no Outlet, saiu por R$ 152,15 com o cupom. Ele também entrou em peças com etiqueta de lançamento, como os [sutiãs Nakedfeel](https://creators.insiderstore.com.br/eh8ym4n) e o [Perfect Body Manga Longa](https://creators.insiderstore.com.br/nn8AbUa).",
           "**Promoção com regra própria:** quando a página do produto avisa que o desconto não acumula com cupons, como na janela de R$ 100 OFF, o cupom não entra naquele item, mas continua valendo nos outros do carrinho.",
           "**Pix:** a loja anunciava desconto no Pix também na coleção da Black Friday, e ele soma com o cupom. O percentual muda entre a barra do site e os banners; confira no checkout. O desconto do Pix não vale em gift card.",
           "**Cartão e boleto:** cartão em até 3 vezes sem juros, ou de 4 a 10 vezes com juros, e boleto à vista.",
@@ -178913,7 +178913,7 @@ export const reviewsData: unknown[] = [
         "heading": "O cupom na Clean Friday: o que o teste mostrou",
         "paragraphs": [
           "O cupom entrou no carrinho com a Clean Friday no ar, mas a regra escrita da loja diz o contrário; o que vale é a linha de desconto que o seu carrinho mostra antes de pagar. O código é o S-EMCASACOMCECILIA, 5% na loja online da Simple Organic.",
-          "Num carrinho de R$ 182,00, com o kit [Rotina Pele Sensível](https://simpleorganic.com.br/products/rotina-pele-sensivel), o [Hidratante Facial Super Glow](https://simpleorganic.com.br/products/hidratante-facial-super-glow) e um lip combo a preço cheio, o código tirou R$ 9,10, 5% do total. Ele entrou num kit, num duo e em produtos com preço de campanha.",
+          "Num carrinho de R$ 182,00, com o kit [Rotina Pele Sensível](https://simpleorganic.com.br/products/rotina-pele-sensivel), o [Hidratante Facial Super Glow](https://simpleorganic.com.br/products/hidratante-facial-super-glow) e um [lip combo](https://simpleorganic.com.br/products/lip-combo-1) a preço cheio, o código tirou R$ 9,10, 5% do total. Ele entrou num kit, num duo e em produtos com preço de campanha.",
           "Na conferência de 15 de novembro, o código seguia entrando na sacola: tirou 5% do [Trio Body Splashes](https://simpleorganic.com.br/products/kit-body-splash), da Rotina Pele Sensível e do [Duo Limpeza + Regeneração](https://simpleorganic.com.br/products/duo-limpeza-regeneracao), os três com preço de campanha.",
           "Coloque os produtos no carrinho, cole o código no campo \"Desconto\" e confira a linha do cupom antes de decidir. O link da parceria aplica o código na home; quem entra direto na página de um produto precisa colar o código. O passo a passo está em [Como usar o cupom da Simple Organic](/reviews/cupom-simple-organic-como-usar), e as condições do dia, na página do [cupom Simple Organic](/cupons/simple-organic).",
           "Nas Lojas Simple e nas farmácias, não conte com o código: ele é da loja online."
