@@ -55461,7 +55461,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday I Wanna Sleep 2026",
         "paragraphs": [
-          "A I Wanna Sleep está com kits de Black Friday e brindes na home. O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF em todo o site e soma com os 5% do Pix. Na quinta e na sexta da Black Friday, o código CECIEMCASA15 dá 15%. Para escolher, comece pelo que você quer resolver: colchão, travesseiro ou cobertor."
+          "A I Wanna Sleep está com kits de Black Friday e brindes na home. O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF em todo o site e soma com os 5% do Pix. Na quinta e na sexta da Black Friday, a parceria tem um código de 15%. Para escolher, comece pelo que você quer resolver: colchão, travesseiro ou cobertor."
         ]
       },
       {
@@ -55812,8 +55812,8 @@ export const reviewsData: unknown[] = [
           "**Pix:** a página de cada produto dá 5% de desconto, só à vista.",
           "**Cartão:** parcelado sem juros; o número de parcelas aparece na página do produto. A aprovação do cartão leva até 24 horas, e a do boleto, até 72 horas.",
           "**Cupom:** o CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento. Na leitura de novembro, ele entrou por cima dos preços da campanha no Pillow Top Magnum, no kit com dois Snow e no travesseiro Snow.",
-          "**CECIEMCASA15:** nos dias 26 e 27 de novembro, a parceria tem um código de 15%. Fora desses dois dias, o checkout não aceita: testamos antes da data, e ele não entrou. Quando a janela abrir, confira a linha do desconto no carrinho.",
-          "**Pix com o cupom:** os dois somam, um sobre o outro. Com o CECIEMCASA, de 10%, a redução total fica em 14,5%. Com o CECIEMCASA15, de 15%, em 19,25%. No Pillow Top Magnum casal, de R$ 1.779, o cupom de 10% leva a R$ 1.601,10, e a conta com o Pix dá perto de R$ 1.521. O resumo do checkout mostra o valor exato antes de pagar."
+          "**Código de 15%:** nos dias 26 e 27 de novembro, a parceria tem um código de 15%, que aparece neste artigo nos dois dias. Fora deles, o checkout não aceita: testamos antes da data, e ele não entrou. Quando a janela abrir, confira a linha do desconto no carrinho.",
+          "**Pix com o cupom:** os dois somam, um sobre o outro. Com o CECIEMCASA, de 10%, a redução total fica em 14,5%. Com o código de 15%, em 19,25%. No Pillow Top Magnum casal, de R$ 1.779, o cupom de 10% leva a R$ 1.601,10, e a conta com o Pix dá perto de R$ 1.521. O resumo do checkout mostra o valor exato antes de pagar."
         ],
         "links": [
           {
@@ -55907,8 +55907,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da I Wanna Sleep? A home já traz os Kits Exclusivos Black, com brindes, sem data de fim publicada. O grande dia é a última sexta-feira de novembro, dia 27, e a Cyber Monday, a segunda seguinte. Compare os kits com as tabelas deste guia.",
           "Dá para comprar colchão da I Wanna Sleep pelo site? Não. Os colchões e a base box aparecem no site, mas são vendidos só nas lojas físicas, em Belo Horizonte, com as consultoras do sono. Pelo site, a peça para a cama é o Pillow Top Magnum.",
-          "O cupom CECIEMCASA vale na Black Friday? Vale. O cupom I Wanna Sleep CECIEMCASA dá 10% OFF em todo o site e entrou por cima dos preços da campanha nos carrinhos que testamos. Na quinta e na sexta da Black Friday, o código CECIEMCASA15 dá 15%.",
-          "O cupom CECIEMCASA soma com o desconto do Pix? Soma. Os 5% do Pix entram sobre o valor já com o cupom: a redução total fica em 14,5% com o CECIEMCASA e em 19,25% com o CECIEMCASA15. Confira o valor no resumo do checkout.",
+          "O cupom CECIEMCASA vale na Black Friday? Vale. O cupom I Wanna Sleep CECIEMCASA dá 10% OFF em todo o site e entrou por cima dos preços da campanha nos carrinhos que testamos. Na quinta e na sexta da Black Friday, a parceria tem um código de 15%.",
+          "O cupom CECIEMCASA soma com o desconto do Pix? Soma. Os 5% do Pix entram sobre o valor já com o cupom: a redução total fica em 14,5% com o CECIEMCASA e em 19,25% com o código de 15%. Confira o valor no resumo do checkout.",
           "Qual travesseiro da I Wanna Sleep comprar na Black Friday? Quem dorme de lado e não sabe a altura certa fica com o Snow, que é ajustável. Quem já sabe a altura pode ir no Original Látex. Para apoio cervical, o Coluna Relax é o mais barato da linha.",
           "Kit ou peças avulsas na I Wanna Sleep? No casal, o kit do pillow top com dois Snow saiu R$ 89 abaixo das peças separadas, antes do cupom. No kit com Bao Bao e Igloo, a diferença foi de R$ 24. Veja se os brindes das peças avulsas aparecem também no kit.",
           "O que é o Sleeptest da I Wanna Sleep? É o teste em casa: 30 dias para o travesseiro e o pillow top e 100 dias para o colchão, com pelo menos 15 dias de uso antes de pedir a troca. No travesseiro e no pillow top, a troca vira crédito na loja.",
