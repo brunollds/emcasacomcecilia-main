@@ -27,7 +27,7 @@ npm run test:analytics-gate  # allowlist de hosts do GA4 e do Clarity; loader do
 npm run test:language-suggestion  # faixa de sugestão de idioma: idioma do navegador → do site (chinês pela escrita), escolha pelo hreflang da página, inglês sem idioma do site, textos dos 10 idiomas e nada de redirecionamento
 npm run test:home-stores     # vitrine da home, "Acabou de sair" e subpáginas /reviews/loja/<slug>
 npm run test:reviews-hub     # estante de /reviews e das subpáginas: busca sem acento, ordem, URL, Novidades, bolinhas (com a Outros) e a página /reviews/outros, páginas de 12 e 24, medição e os componentes
-npm run test:review-stores   # artigo de várias lojas (`affiliate` em lista, src/lib/reviewStores.ts) nas listagens: abas e ordem das bolinhas da home, /reviews e subpáginas, Outros, rótulo do cartão, busca, relacionados, data comercial, vídeo e snippet; as regras da lista (loja de link e afiliado sem página inclusive), os blocos e as linhas do artigo
+npm run test:review-stores   # artigo de várias lojas (`affiliate` em lista, src/lib/reviewStores.ts) nas listagens: abas e ordem das bolinhas da home, /reviews e subpáginas, Outros, rótulo do cartão, busca, relacionados, data comercial, vídeo e snippet; as regras da lista (loja de link e afiliado sem página inclusive; fora do PT, só loja com página no idioma), os blocos e as linhas do artigo nos 10 idiomas e a família nas listagens de cada idioma
 npm run test:affiliate-stores  # afiliados sem página (src/lib/affiliateStores.ts): slug fora de couponsData.ts e de `outros`, link https, idiomas do site e os helpers
 npm run test:videos-hub      # /videos e as páginas de vídeo: destaque e ordem pela data, chips de loja e ?loja=, duração, origem e botão da loja, Mais vídeos, canal, medição e os componentes
 npm run test:home-events     # datas comerciais: content/home-events.json, a faixa e a página da data
@@ -200,8 +200,8 @@ vídeo, primeiras impressões e uso noturno.
   `locale` explícito. A URL sai sozinha: `/reviews/<slug>` em português e `/<locale>/reviews/<slug>`
   nos outros idiomas. Não se cria rota, hreflang nem entrada em `src/lib/i18n/clusters/` para isso.
 - `npm run test:review-i18n`, que roda na build, exige as 10 versões de toda família, com o mesmo
-  `affiliate` e o mesmo `coupon`, e o link da página da loja no idioma do artigo: `/cupons/<marca>`
-  em português e `/<locale>/coupons/<marca>` nos outros.
+  `affiliate` (no artigo de várias lojas, a mesma lista, na mesma ordem) e o mesmo `coupon`, e o link da
+  página da loja no idioma do artigo: `/cupons/<marca>` em português e `/<locale>/coupons/<marca>` nos outros.
 - SHEIN, YesStyle e Hostinger são lojas internacionais (`INTERNATIONAL_STORES`, em `storeBanners.ts`; para pôr um parceiro novo, a checklist "Parceiro internacional" em `docs/MANUTENCAO-MENSAL.md`): o link e o
   código levam o visitante à loja da região dele, então valem em todo idioma, `br.shein.com` inclusive. Nenhum texto
   fora do PT diz que um código ou uma campanha da SHEIN é "da SHEIN Brasil": não existe programa da SHEIN por país.
@@ -352,10 +352,16 @@ vídeo, primeiras impressões e uso noturno.
   igual à do PT; o `test:build-output` confere o lugar, os rótulos, as frases e que nenhuma vai ao JSON-LD.
 - Botões dos links de seção (`section.links`, `ReviewSectionContent`): o link externo com `sponsored` fica laranja, como os
   botões do artigo que levam à loja; os outros, inclusive os internos para `/cupons`, ficam brancos. O `test:build-output` confere.
-- Artigo de várias lojas (`"affiliate": [...]`, 2 a 4 lojas, só em PT, sem `coupon` nem `cta`; plano em
+- Artigo de várias lojas (`"affiliate": [...]`, 2 a 4 lojas, sem `coupon` nem `cta`; plano em
   `docs/superpowers/plans/2026-11-09-artigo-varias-lojas.md`): não tem loja principal. Na lista valem a loja de código
   comum, a loja só de link (com ou sem código de indicação, como a SHEIN e o 4CW5Y) e o afiliado sem página
-  (`affiliateStores.ts`) que vale no idioma do artigo; código de recompensa (YesStyle) e loja com faixas ficam de fora. As lojas se leem só por
+  (`affiliateStores.ts`); código de recompensa (YesStyle) e loja com faixas ficam de fora. Vale em qualquer idioma e em
+  família, mas toda loja da lista tem de valer no idioma do artigo, e nenhuma linha some num idioma: fora do PT, a loja
+  de `couponsData.ts` precisa de página de loja no idioma (`hasTranslatedStorePage`, de `articleStore.ts`: hoje SHEIN,
+  Temu, AliExpress e Hostinger), porque as regras e os textos das outras só existem em português, e o afiliado sem
+  página vale só nos `locales` dele. Numa família, portanto, a lista só leva lojas que valem nos 10 idiomas. Fora do
+  PT, o bloco de cada loja sai da tradução dela (desconto, regras, link e `/<locale>/coupons/<loja>`), e o cartão do
+  artigo nas listagens fica sem o nome das lojas ("A e B" só existe em português). As lojas se leem só por
   `src/lib/reviewStores.ts` (`getSingleStoreSlug` dá vazio para a lista: nada usa a primeira). O artigo entra na estante
   de todas; no topo, na lateral e no fim, `ArticleStoreCodes` mostra uma linha por loja (`getArticleStoreBlocks`), sem
   banners de campanha; no celular, o dock mostra "Ver códigos (N)" e abre a gaveta nas linhas. Os blocos saem na ordem
