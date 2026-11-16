@@ -7,10 +7,10 @@ parceiro_slug: "la-ganexa"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "redigido"
+status: "publicado"
 score: 62
 responsavel: "Job-1 (Claude Fable 5.2)"
-proxima_acao: "capa aprovada pelo Bruno, PR e deploy"
+proxima_acao: "reler os preços quando o Esquenta Black Friday acabar; depois, a LG9 (kit degustação)"
 bloqueado_por: "-"
 data_criacao: "2026-11-15"
 i18n_cluster: null
