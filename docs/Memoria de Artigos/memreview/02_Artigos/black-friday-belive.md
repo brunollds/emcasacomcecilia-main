@@ -376,3 +376,15 @@ Este artigo é de parceria comissionada com a Belive: podemos receber comissão 
 - **Alt:** Pão de forma tradicional Belive fatiado com embalagem ao fundo, em fotografia oficial.
 - **Origem:** foto oficial do pão tradicional, sem degustação nossa nem fórmula de todos os itens; sem porcentagem, preço, data ou código na arte. Sem geração por IA.
 - **Lote 14 do piloto de capas (sequência 4 do Codex, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-4-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/belive/black-friday-belive-capa-discover.webp`) fica no CDN, sem uso como capa.
+
+## Curadoria de Black Friday (16/11/2026)
+
+O guia ganhou quatro capítulos (doces avulso ou kit, salgadinhos, lancheira/pães/panetone e alérgicos). Título, seoTitle, subtítulo, meta, resposta rápida, prós, contras e FAQ mudaram; URL e capa não.
+
+- **Fonte:** Store API e sacola anônima do site oficial (WooCommerce), CEP 01310-100, em 16/11.
+- **Preço de campanha só na sacola:** a vitrine e a API de produtos mostram o preço cheio em vários itens; o desconto da Black November aparece na sacola (e na linha "com 5% de desconto no PIX" da página). Todos os preços do capítulo são os da sacola.
+- **Sacola:** pão de mel R$ 7,57 (kit 10 R$ 74,12); proteico R$ 8,07 (kit R$ 78,96); brownie chocolate R$ 6,62 (kit R$ 64,82); brownie proteico Double Chocolate R$ 7,57 (kit R$ 74,12); Snack Proteico R$ 6,38 (combo 16 R$ 102,02); Snack de Arroz R$ 4,67 (combo 20 R$ 95,90); combo 30 salgadinhos R$ 131,90; bolinho chocolate R$ 5,12 (kit 10 R$ 50,13); Kit Lanche Escolar 25 bolinhos R$ 124,90; pão Tradicional e Multigrãos R$ 16,03 (combo 4 tradicionais R$ 82,44); panetone R$ 59,90 (kit 3 R$ 179,70); kit 10 cookies castanhas R$ 62,79.
+- **MAUAD:** 10% sobre o total da sacola com preços de campanha (R$ 1.141,05 → desconto de R$ 114,10). Pix de 5% não aparece na API: as contas "com MAUAD e Pix" são nossas (× 0,855).
+- **Frete:** sacola de R$ 175,79 com frete grátis; com MAUAD, R$ 158,21 e envio econômico a R$ 0,00 (7 dias úteis). O mínimo conta antes do cupom.
+- **Alérgicos (aba Ingredientes, literal):** pão de mel comum e proteico "ALÉRGICOS: CONTÉM DERIVADOS DE SOJA E OVO."; brownie de chocolate "CONTÉM OVO E DERIVADO DE SOJA."; panetone de frutas "CONTÉM AMÊNDOAS, DERIVADOS DE OVO E DERIVADOS DE SOJA."; panetone de chocolate "CONTÉM DERIVADOS DE AMÊNDOAS, DERIVADOS DE OVO E DERIVADOS DE SOJA."; snack proteico de queijo e snack de arroz de cebola e salsa "CONTÉM DERIVADOS DE SOJA.". A home da loja fala em produtos seguros para APLV e "zero risco de contaminação cruzada": é alegação da loja e não foi repetida.
+- **Não lido:** kit de bolinho kids na sacola, pãozinho de batata, combo 16/20 de doces.

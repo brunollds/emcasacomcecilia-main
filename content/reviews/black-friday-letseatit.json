@@ -2,7 +2,7 @@
   "id": 332,
   "slug": "black-friday-letseatit",
   "bodyDatesReason": "campanha",
-  "title": "Black Friday Let's Eat It 2026: já começou, com Le Creuset até 50% OFF, Porto Brasil até 60% e La Maison até 70%",
+  "title": "Black Friday Let's Eat It 2026: qual Le Creuset, aparelho de jantar e presente comprar e quanto fica com o MAUAD",
   "seoTitle": "Black Friday Let's Eat It 2026: Le Creuset e Porto Brasil",
   "type": "Guia de Black Friday",
   "category": "cupons-como-usar",
@@ -14,11 +14,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "A Black Friday da Let's Eat It já está no ar, com Porto Brasil até 60% OFF, La Maison até 70% e Le Creuset de 15% a 50%. Veja como o Pix e o cupom MAUAD entram na conta.",
+  "description": "Na Black Friday da Let's Eat It, as panelas Le Creuset Signature têm 25% OFF. Veja qual tamanho levar, o que comprar para a mesa e para presente, e a conta com o MAUAD e o Pix.",
   "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It e soma com o Pix. Black Friday: Porto Brasil até 60% OFF, La Maison até 70% e Le Creuset de 15% a 50%.",
   "publishedAt": "9 de outubro de 2026",
   "publishedAtISO": "2026-10-09",
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-16",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/letseatit/black-friday-letseatit-capa-v2.webp",
@@ -26,22 +26,23 @@
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
-    "Em outubro de 2026, quase toda a Porto Brasil já estava com 40% OFF",
+    "Panelas Le Creuset Signature com 25% OFF na coleção de promoção; em outubro, quase todas estavam pelo preço cheio",
+    "Aparelho de jantar Porto Brasil de 30 peças a partir de R$ 756,84, contra R$ 868 em outubro",
     "5% de desconto no Pix, que soma com o cupom MAUAD",
-    "Cashback em cupom para a compra seguinte: 15% na faixa da Black Friday",
-    "30 dias para trocar ou devolver, com etiqueta paga pela loja"
+    "Cashback em cupom para a compra seguinte: 15% do valor da compra",
+    "Política da loja de 30 dias para trocar ou devolver, com etiqueta de devolução paga por ela"
   ],
   "cons": [
     "O desconto da Le Creuset fica só nas peças e cores da coleção de promoção; fora dela, o preço é o cheio",
-    "Frete grátis só em Le Creuset e Zwilling acima de R$ 1.000; no resto, o frete é pelo CEP",
-    "O cashback só vale numa compra de 7 vezes o valor do cupom",
-    "Os prazos de entrega podem mudar em períodos promocionais"
+    "O frete é cobrado pelo CEP e pelo peso: no nosso teste para a capital paulista, uma panela de R$ 1.746,75 pagou R$ 77,40",
+    "O cashback só vale numa compra de 7 vezes o valor do cupom, e só a partir de 7 dias depois da compra que o gerou",
+    "Parte das cores e dos faqueiros está em pré-venda, com prazo de envio próprio"
   ],
   "contentSections": [
     {
       "heading": "Resposta rápida: Black Friday Let's Eat It 2026",
       "paragraphs": [
-        "A Black Friday da Let's Eat It já está no ar: Porto Brasil até 60% OFF, La Maison até 70%; o dia da Black Friday é 27 de novembro. A Le Creuset tem coleção de promoção, de 15% a 50% OFF. Com o [cupom Let's Eat It](/cupons/letseatit), o MAUAD dá 5% OFF e soma com o Pix."
+        "A Black Friday da Let's Eat It segue no ar. Na Le Creuset, quase todas as panelas Signature da coleção de promoção têm 25% OFF, e os aparelhos de jantar Porto Brasil de 30 peças estão abaixo do preço de outubro. Com o [cupom Let's Eat It](/cupons/letseatit), o MAUAD dá 5% OFF e soma com o Pix. O frete é cobrado à parte."
       ]
     },
     {
@@ -71,8 +72,8 @@
     {
       "heading": "Le Creuset na Black Friday: preços de outubro para comparar",
       "paragraphs": [
-        "Na Black Friday, a Le Creuset tem coleção própria de promoção, anunciada na home com o banner \"Le Creuset até 50% OFF\". A coleção Promoção Le Creuset lista 146 peças, com desconto de 15% a 50%: a maioria tem 30%, os 50% ficam em seis utensílios de silicone em pré-venda, e quase todas as panelas Signature têm 25%. A panela Redonda Signature de 20 cm, a R$ 2.329 pelo preço cheio, estava por R$ 1.746,75 com 25% OFF, e na cor Cool Mint, por R$ 1.513,85, com 35%.",
-        "Em outubro, a Le Creuset na Let's Eat It estava quase toda pelo preço cheio, que é o mesmo na maioria das cores de cada modelo. O desconto aparecia só numa seleção de peças, quase sempre numa cor específica, e muitas delas estavam esgotadas. É essa a tabela de referência."
+        "Na Black Friday, a Le Creuset tem coleção própria de promoção, anunciada na home com o banner \"Le Creuset até 50% OFF\". Os descontos da coleção vão de 15% a 50%: a maioria das peças tem 30%, e quase todas as panelas Signature têm 25%. A panela Redonda Signature de 20 cm, a R$ 2.329 pelo preço cheio, está por R$ 1.746,75.",
+        "Em outubro, a Le Creuset na Let's Eat It estava quase toda pelo preço cheio, que é o mesmo na maioria das cores de cada modelo. O desconto aparecia só numa seleção de peças, quase sempre numa cor específica. É essa a tabela de referência."
       ],
       "image": {
         "src": "/images/reviews/letseatit/le-creuset-redonda-signature-cotton.webp",
@@ -132,7 +133,7 @@
         ]
       },
       "postParagraphs": [
-        "Na Le Creuset, a régua é simples: em outubro, quase tudo estava pelo preço cheio. Se durante a campanha o preço do dia ficar abaixo desta tabela, o desconto é de verdade. Se o preço riscado subir, compare com a tabela, não com o riscado.",
+        "Na Le Creuset, a comparação é direta: em outubro, quase tudo estava pelo preço cheio, e em meados de novembro as panelas redondas de 20, 24 e 26 cm da tabela aparecem com 25% OFF nas cores da promoção. A oval de 31 cm foi de R$ 2.889,15 para R$ 2.549,25. A caneca de 400 ml e a mini cocotte seguem no mesmo preço de outubro, agora em mais cores. Se o preço riscado subir, compare com a tabela, não com o riscado.",
         "A Let's Eat It aparece no localizador de lojas do site oficial da Le Creuset Brasil."
       ],
       "links": [
@@ -140,6 +141,71 @@
           "label": "Let's Eat It é confiável? CNPJ, políticas e o que observar",
           "href": "/reviews/lets-eat-it-e-confiavel"
         }
+      ]
+    },
+    {
+      "heading": "Le Creuset: qual panela levar, por capacidade",
+      "paragraphs": [
+        "O preço sobe com o tamanho, então a escolha começa pela capacidade que você cozinha de fato. A tabela traz as panelas de ferro fundido Signature da coleção de promoção, nas cores em que o desconto aparecia em meados de novembro, e a nossa conta com o MAUAD e o Pix, um desconto sobre o outro, sem o frete."
+      ],
+      "comparisonTable": {
+        "caption": "Panelas Le Creuset Signature na coleção de promoção da Let's Eat It, na nossa leitura de novembro: preço cheio, preço na promoção e conta com o cupom MAUAD (5%) e o Pix (5%), sem o frete.",
+        "headers": [
+          "Panela e capacidade",
+          "Preço cheio",
+          "Na promoção",
+          "Com MAUAD e Pix"
+        ],
+        "rows": [
+          [
+            "Redonda 20 cm, 2,4 L",
+            "R$ 2.329",
+            "R$ 1.746,75",
+            "R$ 1.576,44"
+          ],
+          [
+            "Redonda 22 cm, 3,3 L",
+            "R$ 2.619",
+            "R$ 1.964,25",
+            "R$ 1.772,74"
+          ],
+          [
+            "Redonda 24 cm, 4,2 L",
+            "R$ 2.949",
+            "R$ 2.211,75",
+            "R$ 1.996,10"
+          ],
+          [
+            "Redonda 26 cm, 5,3 L",
+            "R$ 3.089",
+            "R$ 2.316,75",
+            "R$ 2.090,87"
+          ],
+          [
+            "Caçarola Buffet 30 cm, 3,5 L",
+            "R$ 2.999",
+            "R$ 2.249,25",
+            "R$ 2.029,95"
+          ],
+          [
+            "Oval 31 cm, 6,3 L",
+            "R$ 3.399",
+            "R$ 2.549,25",
+            "R$ 2.300,70"
+          ]
+        ]
+      },
+      "bullets": [
+        "**Redonda de 20 cm:** a de entrada, para porções pequenas e acompanhamentos. Na promoção nas cores Azure, Bleu Riviera e Flint.",
+        "**Redonda de 22 cm:** R$ 217,50 a mais que a de 20 cm por quase 1 litro extra. Na promoção nas cores Sage, Camomille, Bleu Riviera e Rhone.",
+        "**Redonda de 24 cm:** o tamanho intermediário, com 4,2 L. Com 25%, só na cor Camomille; na cor Sea Salt, o desconto é de 15%, a R$ 2.506,65.",
+        "**Redonda de 26 cm:** para quem cozinha em quantidade ou recebe. Na promoção nas cores Chambray, Rhone e Artichaut.",
+        "**Caçarola Buffet de 30 cm:** baixa e larga, vai do fogão à mesa. Na promoção na cor Sage.",
+        "**Oval de 31 cm:** o formato para peças inteiras de carne e aves. Na promoção nas cores Sage e Rhone."
+      ],
+      "postParagraphs": [
+        "Cor fora da promoção custa o preço cheio: se a cor importa mais que o desconto, compare as duas contas antes de decidir. Peça marcada como pré-venda tem prazo de envio próprio, informado na página do produto.",
+        "Como escolher o tamanho está em [Le Creuset 20 ou 24 cm: qual tamanho escolher (e quando o buffet faz sentido)](/reviews/le-creuset-qual-tamanho-escolher). Os cuidados de uso estão em [Le Creuset vale a pena? Indução, forno, lava-louças e queimado](/reviews/le-creuset-vale-a-pena), e como reconhecer a peça, em [Le Creuset original: como saber e onde comprar](/reviews/le-creuset-original-como-saber)."
       ]
     },
     {
@@ -190,20 +256,91 @@
         ]
       },
       "postParagraphs": [
-        "Com o aparelho de jantar de 30 peças a R$ 868 em outubro, é esse o número a comparar na campanha, e não a porcentagem do selo."
+        "Em meados de novembro, os aparelhos de 30 peças da linha Orgânico nas cores Preto Matte e Petroleum aparecem a R$ 756,84, e os das linhas Arauco, Bio Oceano, Bio Latte e Bio Breeze, a R$ 778,84: os dois preços estão abaixo dos de outubro. Os aparelhos Orgânico Gold seguem a R$ 2.049,90 e o jogo de 6 pratos multiuso Linho, a R$ 288,90, sem mudança."
+      ]
+    },
+    {
+      "heading": "Mesa posta: aparelho completo, jogo de pratos, faqueiro e taças",
+      "paragraphs": [
+        "Na mesa posta, a pergunta que define a compra é quanto você precisa repor: a mesa inteira, só os pratos ou só os talheres. Os preços são os da nossa leitura de novembro, e a última conta aplica o MAUAD e o Pix, sem o frete."
+      ],
+      "comparisonTable": {
+        "caption": "Mesa posta na Let's Eat It na nossa leitura de novembro: preço do site e conta com o cupom MAUAD (5%) e o Pix (5%), sem o frete.",
+        "headers": [
+          "Peça",
+          "Preço no site",
+          "Com MAUAD e Pix"
+        ],
+        "rows": [
+          [
+            "Aparelho Porto Brasil Stoneware Orgânico, 30 peças",
+            "R$ 756,84",
+            "R$ 683,05"
+          ],
+          [
+            "Aparelho Porto Brasil Stoneware Bio, 30 peças",
+            "R$ 778,84",
+            "R$ 702,90"
+          ],
+          [
+            "Jogo de 6 pratos rasos Porto Brasil Orgânico, 26,5 cm",
+            "R$ 285,90",
+            "R$ 258,02"
+          ],
+          [
+            "Faqueiro La Maison, 24 peças",
+            "R$ 389,00",
+            "R$ 351,07"
+          ],
+          [
+            "Faqueiro Laguiole La Maison Luxo, 12 peças",
+            "R$ 469,00",
+            "R$ 423,27"
+          ],
+          [
+            "Faqueiro Laguiole La Maison Luxo, 30 peças",
+            "R$ 1.099,00",
+            "R$ 991,85"
+          ]
+        ]
+      },
+      "bullets": [
+        "**Aparelho de 30 peças:** traz 6 pratos rasos, 6 de sobremesa, 6 fundos, 6 xícaras e 6 pires. Para quem vai montar a mesa do zero, sai por menos que os três jogos de pratos comprados à parte, que somavam R$ 788,70 sem as xícaras.",
+        "**Jogo de 6 pratos:** para quem só precisa repor um tipo de prato. O de sobremesa da linha Bio estava a R$ 236,90 e o de pratos fundos, a R$ 265,90.",
+        "**Aparelho de 16 peças:** o Bio Latte de 16 peças estava a R$ 659,00. Por peça, custa mais que o de 30; faz sentido para mesa de 4 lugares e pouco espaço no armário.",
+        "**Faqueiro La Maison:** 12 peças por R$ 199,00 e 24 peças por R$ 389,00, em aço inox, em várias cores de cabo. É o caminho de menor preço para 6 lugares.",
+        "**Faqueiro Laguiole La Maison Luxo:** 12, 18 ou 30 peças, por R$ 469,00, R$ 729,00 e R$ 1.099,00. Os preços são os mesmos do fim de outubro, e a maior parte das cores estava em pré-venda.",
+        "**Taças da Linha Sintonia:** o jogo de 6 taças para água de base geométrica Trio, de 400 ml, estava a R$ 499,00, e o Trésor incolor, de 515 ml, a R$ 519,00. Os jogos de base esfera da linha Pure apareciam em pré-venda."
+      ],
+      "postParagraphs": [
+        "Várias cores de aparelho apareciam como esgotadas na nossa leitura, e o Bio Breeze, em pré-venda: confira a disponibilidade da cor na página antes de planejar a mesa em torno dela.",
+        "Os guias de cada peça: [Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno](/reviews/porto-brasil-e-boa), [Faqueiro Laguiole La Maison: qual escolher (12, 18 ou 30 peças)](/reviews/faqueiro-laguiole-la-maison-qual-escolher), [Taça base esfera: conjunto ou unidade, e qual cor escolher](/reviews/taca-base-esfera-e-tacas-coloridas), [Jogo americano de tecido: qual tamanho e cor escolher](/reviews/jogo-americano-tecido-tamanho-cor) e [Guardanapo de tecido: quantos por pessoa e qual tamanho escolher](/reviews/guardanapo-de-tecido-quantos-tamanho). Para a mesa completa, [Mesa posta de Natal: o que precisa, quanto custa e como montar](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) e [Mesa posta do dia a dia: o que comprar primeiro](/reviews/mesa-posta-dia-a-dia-o-que-comprar)."
+      ]
+    },
+    {
+      "heading": "Presentes Le Creuset por faixa de preço",
+      "bullets": [
+        "**Até R$ 150: Caneca de cerâmica de 400 ml.** R$ 132,30 na promoção, com 30% OFF. Na nossa sacola, o MAUAD levou o preço a R$ 125,69, e com o Pix a conta chega a R$ 119,40.",
+        "**Até R$ 200: Mini Cocotte de cerâmica de 250 ml.** R$ 167,30 na promoção, R$ 150,99 com MAUAD e Pix. Vai à mesa como porção individual.",
+        "**Até R$ 500: Travessa retangular Heritage de 32 cm.** R$ 496,30 na promoção, R$ 447,91 com MAUAD e Pix."
+      ],
+      "postParagraphs": [
+        "Em presente pequeno, o frete pesa: a caneca sozinha pagou R$ 40,90 de frete para a capital paulista no nosso teste. Compare o total entregue antes de fechar. Parte das cores da caneca e da mini cocotte estava em pré-venda; se o presente tem data, escolha uma cor em estoque."
       ]
     },
     {
       "heading": "Pix, cashback e cupom: o que soma",
       "bullets": [
         "**Pix:** a página do produto dá 5% de desconto nas compras por Pix.",
-        "**Cashback:** a faixa da Black Friday anuncia 15% de cashback; em outubro, a loja anunciava 30%. Pela página do cashback, depois da compra a loja manda pelo WhatsApp um cupom com esse valor, válido por 30 dias, que só entra numa compra de pelo menos 7 vezes o valor do cupom, sem contar o frete (um trecho da mesma página fala em 5 vezes). Na prática, um cashback de R$ 150 pede uma compra de R$ 1.050 e vira cerca de 14% de desconto nela.",
-        "**Cashback e a sexta:** pela página do cashback, o cupom só pode ser usado a partir de 7 dias depois da compra que o gerou e vale 30 dias. Para usar o cashback na sexta da Black Friday, a compra que o gera precisa ser feita pelo menos 7 dias antes; uma compra na semana da data gera um cupom que só vale depois dela. Os termos estão na página do cashback.",
-        "**Cupom:** o MAUAD dá 5% OFF em todo o site, com todas as formas de pagamento. Ele foi aceito num carrinho com item em promoção e item em pré-venda, e o desconto saiu do subtotal, antes do frete.",
-        "**Cupom e Black November:** somam. No nosso teste com a campanha no ar, o Bowl Porcelana Dubai, a R$ 102,90 na coleção Black November, caiu para R$ 97,76 com o MAUAD.",
-        "**Pix com o cupom:** os dois somam. Na panela Redonda Signature de 20 cm, a R$ 1.746,75 com os 25% da promoção, o MAUAD tira R$ 87,34, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 1.576,44, sem o frete. O resumo do checkout mostra o valor exato antes de pagar.",
-        "**O que não confirmamos:** se o cupom do cashback e o MAUAD entram no mesmo pedido. A página do cashback manda consultar as condições do dia, e o checkout mostra o total antes de pagar.",
-        "**Frete:** frete grátis só para Le Creuset e Zwilling, em pedidos acima de R$ 1.000 em produtos dessas marcas, segundo a política de frete da loja. No resto, o frete é calculado pelo CEP e pelo peso do pedido: confira o valor no carrinho antes de pagar."
+        "**Cupom:** o MAUAD dá 5% OFF em todo o site, com todas as formas de pagamento. Em meados de novembro, ele entrou sobre o preço de promoção de uma panela Le Creuset e de uma caneca, e o desconto saiu do subtotal, antes do frete.",
+        "**Pix com o cupom:** os dois somam. Na panela Redonda Signature de 20 cm, a R$ 1.746,75 com os 25% da promoção, o MAUAD tirou R$ 87,33 na sacola, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 1.576,44, sem o frete. O resumo do checkout mostra o valor exato antes de pagar.",
+        "**Cashback:** vale para a compra seguinte e fica fora da conta do preço pago agora. As condições da página do cashback:",
+        "**1. Valor:** 15% do total da compra, em cupom enviado pelo WhatsApp cadastrado.",
+        "**2. Quando usar:** só a partir de 7 dias depois da compra que gerou o cupom.",
+        "**3. Validade:** 30 dias. No exemplo da própria página, o prazo corre desde a compra.",
+        "**4. Pedido mínimo:** a compra seguinte precisa ser de pelo menos 7 vezes o valor do cupom, em produtos, sem contar o frete. Um cashback de R$ 150 pede uma compra de R$ 1.050 e equivale a cerca de 14% dela.",
+        "**5. Com o MAUAD:** a página manda consultar as condições vigentes no momento da compra para combinar o cashback com outros cupons. Não confirmamos se os dois entram no mesmo pedido.",
+        "**Frete:** confira o frete para o produto e o CEP escolhidos e compare o total entregue, incluindo eventual campanha de frete grátis. No nosso teste para a capital paulista, a panela de 20 cm, a R$ 1.746,75, pagou R$ 77,40 de frete, e a caneca, R$ 40,90."
       ],
       "links": [
         {
@@ -223,7 +360,8 @@
       ],
       "postParagraphs": [
         "É uma estimativa, não uma garantia: se puder, peça antes. A loja não tem entrega expressa e não deixa retirar pedidos do site na Casa Let's.",
-        "Se o presente for para outra pessoa, a troca ou devolução pode ser pedida em até 30 dias do recebimento, inclusive de item comprado em promoção, com etiqueta de devolução paga pela loja. Em São Paulo, dá para trocar na hora na Casa Let's."
+        "Na troca, são dois prazos de origens diferentes. O direito de arrependimento, do artigo 49 do Código de Defesa do Consumidor, dá 7 dias corridos a partir do recebimento para desistir de uma compra feita pela internet, sem precisar de motivo. Os 30 dias são da política de reembolso e trocas da loja, lida em novembro: vale para produto sem uso e na embalagem original, inclusive item comprado em promoção, com etiqueta de devolução enviada pela loja. Itens personalizados ou sob encomenda ficam fora.",
+        "A página de frete da própria loja fala em 7 dias para troca ou devolução. Se o presente for para outra pessoa e você conta com os 30 dias, confirme o prazo com o atendimento antes de comprar. Em São Paulo, dá para trocar na hora na Casa Let's."
       ]
     },
     {
@@ -238,8 +376,8 @@
       "bullets": [
         "**Peça frágil:** a loja embala porcelana, cristal, vidro e cerâmica um a um e repõe de graça o que chegar quebrado. Para isso, ela pede fotos do produto e da embalagem pelo WhatsApp ou e-mail, então fotografe a caixa ao receber.",
         "**Rastreio:** o código chega por WhatsApp e e-mail depois do envio. \"Produto não recebido\" é um dos problemas mais citados no Reclame Aqui da loja: acompanhe o pedido e fale com a loja assim que o prazo passar.",
-        "**Pré-venda:** em outubro, várias peças Le Creuset estavam em pré-venda. Se o presente tem data, prefira o que está em estoque.",
-        "**Compare com as tabelas de outubro** antes de se guiar pelo selo de desconto: o \"até 60%\" da Porto Brasil é o mesmo de antes da campanha."
+        "**Pré-venda:** parte das peças Le Creuset, dos faqueiros e das taças está em pré-venda, com prazo de envio próprio na página do produto. Se o presente tem data, prefira o que está em estoque.",
+        "**Compare com as tabelas de outubro** antes de se guiar pelo selo de desconto: o percentual é sobre o preço riscado, e o que mostra a mudança é o preço do dia contra o de outubro."
       ],
       "links": [
         {
@@ -252,15 +390,17 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Quando começa e quanto dura a Black Friday da Let's Eat It? Já começou: a home traz a coleção Best Sellers - Black Friday, com Le Creuset de 15% a 50% OFF, Porto Brasil até 60%, La Maison até 70% e Natal de 20% a 60%. A Black Friday é na última sexta-feira de novembro, e a loja não publica a data de fim da campanha.",
-        "Le Creuset fica mais barata na Black Friday? Fica. A coleção Promoção Le Creuset traz peças de 15% a 50% OFF, a maioria com 30%; os 50% ficam em utensílios de silicone. A panela Redonda Signature de 20 cm, que em outubro estava a R$ 2.329, o preço cheio, aparece por R$ 1.746,75.",
+        "Le Creuset fica mais barata na Black Friday? Fica, nas peças e cores da coleção de promoção. Quase todas as panelas Signature têm 25% OFF: a Redonda de 20 cm, que em outubro estava a R$ 2.329, o preço cheio, aparece por R$ 1.746,75, e a de 24 cm, de R$ 2.949 por R$ 2.211,75.",
         "Panelas Le Creuset em promoção valem a pena? Compare o preço do dia com o preço cheio da tabela deste guia. Em outubro, as promoções da Let's Eat It eram de 15% a 33% e ficavam numa seleção de peças e cores; na Black Friday, a coleção de promoção vai de 15% a 50%, e a maioria das panelas Signature tem 25%.",
-        "A Let's Eat It tem frete grátis? Só em casos específicos: a política de frete cita Le Creuset e Zwilling em pedidos acima de R$ 1.000 em produtos dessas marcas. No resto, o frete é calculado pelo CEP e pelo peso do pedido, e o carrinho mostra o valor. O envio da devolução sai por conta da loja.",
+        "Qual tamanho de panela Le Creuset comprar na Black Friday? Escolha pela capacidade: a Redonda de 20 cm tem 2,4 L, a de 22 cm, 3,3 L, a de 24 cm, 4,2 L, e a de 26 cm, 5,3 L. Na promoção, vão de R$ 1.746,75 a R$ 2.316,75, e o desconto depende da cor.",
+        "O aparelho de jantar Porto Brasil está mais barato que em outubro? Está. Os aparelhos de 30 peças que custavam R$ 868 e R$ 839 em outubro aparecem a R$ 756,84 e R$ 778,84 em meados de novembro, conforme a linha. Confira se a cor está disponível.",
+        "A Let's Eat It tem frete grátis? Confira o frete para o produto e o CEP escolhidos e compare o total entregue, incluindo eventual campanha de frete grátis. A política de frete diz que o valor é calculado pelo CEP e pelo peso. No nosso teste para a capital paulista, uma panela Le Creuset de R$ 1.746,75 pagou R$ 77,40.",
         "Tem cupom de primeira compra na Let's Eat It? Use o MAUAD, que dá 5% OFF em todo o site. A loja não divulga outro cupom de boas-vindas.",
         "O cupom MAUAD vale na Black Friday? Vale. O cupom Let’s Eat It MAUAD dá 5% OFF e soma com os preços da Black November: no nosso teste, o cupom entrou sobre o preço da campanha.",
         "O cupom MAUAD soma com o desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% da loja: pela nossa conta, a panela Redonda Signature de 20 cm, a R$ 1.746,75 na promoção, sai por R$ 1.576,44, sem o frete.",
-        "O cashback da Let's Eat It vale na Black Friday? A faixa da campanha anuncia 15% de cashback. O cupom só pode ser usado a partir de 7 dias depois da compra que o gerou, vale 30 dias, e a nova compra precisa ser de pelo menos 7 vezes o valor do cupom. Para usar na sexta da Black Friday, a compra que gera o cupom precisa ser de pelo menos 7 dias antes; os termos estão na página do cashback.",
+        "O cashback da Let's Eat It vale na Black Friday? A compra gera um cupom de 15% do valor, enviado pelo WhatsApp, que não reduz o preço pago agora. Ele só pode ser usado a partir de 7 dias depois da compra, vale 30 dias, e a nova compra precisa ser de pelo menos 7 vezes o valor do cupom, sem contar o frete. A combinação com o MAUAD depende das condições do dia.",
         "A Let's Eat It tem loja física? Tem a Casa Let's, na Av. Pacaembu, 1105, em São Paulo, com 15% de desconto nas compras presenciais, exceto Le Creuset e Trussardi. Ela não faz retirada de pedidos do site.",
-        "Até quando comprar para chegar antes do Natal? Pela nossa estimativa, com a separação do pedido, os 10 dias úteis do prazo mais longo depois do despacho e um dia útil de folga, a data limite cai no começo de dezembro. Confirme a previsão para o seu CEP, pois os prazos podem mudar em períodos promocionais."
+        "Até quando comprar para chegar antes do Natal? Pela nossa estimativa, com a separação do pedido, os 10 dias úteis do prazo mais longo depois do despacho e um dia útil de folga, a data limite cai no começo de dezembro. Confirme a previsão para o seu CEP, pois os prazos podem mudar em períodos promocionais, e evite item em pré-venda."
       ]
     }
   ],

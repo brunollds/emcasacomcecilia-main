@@ -175,3 +175,15 @@ ficam fora do texto.
 - **Alt (PT):** Potes de creatina da Probiótica com colher sobre fundo bege, em composição promocional oficial.
 - **Origem:** foto oficial de potes de creatina; o alt não conta potes. Sem geração por IA.
 - **Lote 17 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/probiotica/black-friday-probiotica-capa-discover.webp`) fica no CDN, sem uso como capa.
+
+## Curadoria de Black Friday (16/11/2026)
+
+O guia ganhou três capítulos (whey pelo custo por 100 g de proteína, creatina por porção, barra e colágeno) e a tabela de outubro passou a ter a coluna de novembro. Título, seoTitle, subtítulo, resposta rápida, prós, contras e FAQ mudaram; meta, URL e capa não.
+
+- **Fonte:** catálogo e carrinho anônimo em `secure.probiotica.com.br` (VTEX), em 16/11.
+- **Preços iguais aos de outubro** nos cinco produtos da tabela.
+- **Cupom por produto (site → com o cupom):** 100% Pure Whey Refil R$ 235,65 → R$ 230,94 (2%); Pote R$ 252,49 → R$ 247,44 (2%); Zero Lactose R$ 241,97 → R$ 237,13 (2%); Iso Pro Whey R$ 346,28 → R$ 339,35 (2%); Iso Protein Blend R$ 79,00 → R$ 73,47 (7%); Hiper 100% Whey R$ 124,90 → R$ 116,16 (7%); creatina 300 g R$ 59,90 → R$ 58,70; 100 g R$ 33,89 → R$ 33,21; Creapure 150 g e Pure Monster 150 g R$ 99,89 → R$ 97,89; Monodose 30 sachês R$ 69,89 → R$ 68,49; Whey Bar Creamy 12 un. R$ 77,89 → R$ 76,33; Pro Collagen R$ 129,89 → R$ 127,29. Kit 2 refis R$ 461,87; 2 avulsos R$ 461,88.
+- **Pix:** a home anuncia "Pix e Boleto com até 5% OFF"; no checkout, o total no Pix foi igual ao do cartão em todos os carrinhos. O guia diz isso e não aplica Pix nas contas.
+- **Brindes:** amostras em todo carrinho; squeeze a partir de ~R$ 235; galão, toalha e monodose acima de R$ 299,90. A faixa conta depois do cupom (R$ 300,38 → R$ 294,37 perdeu toalha e monodose).
+- **Frete:** R$ 107,79 → R$ 105,63 seguiu grátis em SP capital; os dois valores passam de R$ 104, então a base do mínimo não ficou provada.
+- **Divergência fora do escopo:** `/cupons/probiotica` e os outros artigos falam em "até 10%"; nos testes de 16/11 o teto observado foi 7%.

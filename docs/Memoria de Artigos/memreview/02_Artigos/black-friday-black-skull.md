@@ -216,3 +216,16 @@ Decidido no briefing, sem pergunta:
 - **Alt (PT):** Pote do pré-treino Bone Crusher da Black Skull em pedestal claro, em foto oficial da marca.
 - **Origem:** foto oficial do pré-treino Bone Crusher em pedestal claro, sem preço nem benefício na arte. Sem geração por IA.
 - **Lote 16 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/black-skull/black-friday-black-skull-capa-discover.webp`) fica no CDN, sem uso como capa.
+
+## Curadoria de Black Friday (16/11/2026)
+
+O guia ganhou três capítulos (whey pelo custo por 100 g de proteína, creatina por porção, pré-treino por rótulo e porção) e a tabela de outubro passou a ter a coluna de novembro. Título, seoTitle, subtítulo, meta, resposta rápida, prós, contras e FAQ mudaram; URL e capa não.
+
+- **Fonte:** catálogo e sacola anônima do site oficial (VTEX), CEP 01310-100, em 16/11.
+- **Progressivo saiu:** a página `/blackfriday2026` lista desconto por produto (selos de 22% a 40%) e não traz mais o texto de 15%/20%/25%. Sacolas com 2 e com 4 produtos da campanha não receberam desconto automático. O guia registra isso; `/cupons/black-skull` e outros artigos que citem o progressivo não foram mexidos.
+- **CECILIA10:** 10% em todos os itens testados. Pix com o mesmo total do cartão (sem desconto de Pix).
+- **Preços (site → com o código):** Whey 80% HD Refil 900 g R$ 139,90 → R$ 125,91; 100% HD Refil 900 g R$ 114,90 → R$ 103,41; 100% HD Pote 900 g R$ 124,90 → R$ 112,41; 100% HD 1,8 kg R$ 239,90 → R$ 215,91; Creator 300 g R$ 29,90 → R$ 26,91; Creator Refil 500 g R$ 39,90 → R$ 35,91; Creatine 300 g R$ 49,90 → R$ 44,91; Creatine Turbo 300 g R$ 39,90 → R$ 35,91; BOPE 300 g R$ 64,90 → R$ 58,41 e 150 g R$ 34,90 → R$ 31,41; Bone Crusher 300 g R$ 69,90 → R$ 62,91 e 150 g R$ 44,90 → R$ 40,41; Legacy 300 g R$ 71,30 → R$ 64,17. Só preço de site: Gourmet refil R$ 95,90, Whey Protein refil R$ 99,90, Whey Turbo refil R$ 59,40, kit 2 Turbo R$ 112,86.
+- **Contas:** custo por 100 g de proteína = preço com o código ÷ (peso × proteína ÷ porção); porção e proteína dos nossos guias de whey, creatina e pré-treino (rótulos), sem arredondar o número de porções.
+- **Frete:** 1,8 kg a R$ 215,91 com frete grátis em SP capital; 80% HD + Creator 500 g a R$ 161,82 pagou R$ 11,09 (mínimo de R$ 199,90 conta depois do cupom).
+- **Não relido:** combo 3W Core + Creator e Glutamine (seguem só com o preço de outubro); política de trocas (texto dos nossos guias).
+- **Handoff:** o slug `termogenico-black-skull-thermo-flame` não existe no repositório e não foi linkado.
