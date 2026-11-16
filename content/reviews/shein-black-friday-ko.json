@@ -3,8 +3,8 @@
   "slug": "shein-black-friday-ko",
   "locale": "ko",
   "translationKey": "shein-black-friday",
-  "title": "SHEIN 블랙프라이데이(Black Friday) 2026: 언제인지, 알려진 내용, 코드 4CW5Y 사용법",
-  "seoTitle": "SHEIN 블랙프라이데이 2026: 언제인지, 알려진 내용",
+  "title": "SHEIN 블랙프라이데이 2026: 무엇을 살지, 언제 시작하는지, 추천 코드 4CW5Y 사용법",
+  "seoTitle": "SHEIN 블랙프라이데이 2026: 살 만한 상품과 시작일",
   "type": "블랙프라이데이 가이드",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,11 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "2026년 블랙프라이데이는 11월 27일이며, SHEIN의 일정은 국가마다 다릅니다. 알려진 내용, 쿠폰, 포인트, 반품, 코드 4CW5Y를 정리했습니다.",
+  "description": "이번 블랙프라이데이에 SHEIN에서 볼 만한 17개 상품을 소재와 치수까지 정리했습니다. 캠페인 바로가기 6개, 반품, 추천 코드 4CW5Y도 담았습니다.",
   "metaDescription": "SHEIN 블랙프라이데이 2026: 11월 27일이며 일정은 국가마다 다릅니다. 추천 코드 4CW5Y로 프로모션과 할인 모음이 열립니다.",
   "publishedAt": "2026년 10월 11일",
   "publishedAtISO": "2026-10-11",
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-16",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -35,7 +35,7 @@
     {
       "heading": "답변 요약",
       "paragraphs": [
-        "2026년 블랙프라이데이는 11월 27일입니다. 모든 국가에 적용되는 SHEIN 일정은 찾지 못했습니다. 날짜와 할인은 국가마다 다릅니다. 4CW5Y는 할인이 적용됩니다. Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 4CW5Y를 검색하면 상품과 프로모션, 할인 모음 페이지가 열립니다."
+        "2026년 블랙프라이데이는 11월 27일이며, SHEIN의 세일 일정은 국가마다 다릅니다. 이 가이드는 소재와 치수를 확인한 17개 상품과 캠페인 바로가기 6개를 정리했습니다. 앱이나 사이트에서 추천 코드 4CW5Y를 검색하면 프로모션과 할인 모음이 열리며, 대상 상품과 할인 폭은 SHEIN이 정합니다."
       ]
     },
     {
@@ -64,11 +64,751 @@
       ]
     },
     {
+      "heading": "무엇을 살까: 17개 상품을 표 하나로",
+      "paragraphs": [
+        "이번 캠페인에서 파티, 일상, 운동, 해변, 잠옷, 아이 옷, 액세서리, 크리스마스까지 고루 담도록 고른 17개 상품입니다. 11월 중순에 상품 페이지를 하나씩 열어 확인했으며, 소재, 치수, 평점, 표시된 할인율은 모두 그날 페이지 기준입니다."
+      ],
+      "comparisonTable": {
+        "caption": "확인 당시 각 상품 페이지에 표시된 할인율입니다. 가격과 할인율은 캠페인 중에 바뀔 수 있고 색상과 사이즈에 따라 다를 수 있습니다.",
+        "headers": [
+          "상품",
+          "페이지의 할인율",
+          "어디에 입나요"
+        ],
+        "rows": [
+          [
+            "[SHEIN BAE 스파게티 스트랩 원피스](https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C)",
+            "-20%",
+            "파티, 저녁 식사, 데이트"
+          ],
+          [
+            "[SHEIN PETITE 홀터넥 미니 원피스](https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C)",
+            "-20%",
+            "파티와 데이트, Petite 사이즈"
+          ],
+          [
+            "[Opulessa 플로럴 원피스](https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C)",
+            "-20%",
+            "휴가와 더운 날씨"
+          ],
+          [
+            "[브라운 & 화이트 탑과 와이드 팬츠 세트](https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C)",
+            "-20%",
+            "캐주얼 출근과 주말"
+          ],
+          [
+            "[SHEIN PariChic 스탠드 칼라 레이스 탑](https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C)",
+            "-20%",
+            "단독으로 또는 레이어드"
+          ],
+          [
+            "[SHEIN EZwear 깅엄 체크 러플 단 탑](https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C)",
+            "—",
+            "여름 캐주얼, 루즈핏"
+          ],
+          [
+            "[Sweetra 소매 없는 체크 셔츠 사이드 리본](https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C)",
+            "-20%",
+            "캐주얼, 허리를 잡아 주는 핏"
+          ],
+          [
+            "[페이크 스웨이드 지퍼 재킷](https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C)",
+            "-20%",
+            "간절기와 여행"
+          ],
+          [
+            "[Anewsta 크로스 백 스포츠 브라](https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C)",
+            "—",
+            "운동과 요가"
+          ],
+          [
+            "[Yefecy 심리스 레깅스](https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C)",
+            "-20%",
+            "운동과 요가"
+          ],
+          [
+            "[Costavie 네이비 & 화이트 원피스 수영복](https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C)",
+            "-20%",
+            "해변과 수영장"
+          ],
+          [
+            "[SHEIN Swim 플로럴 커버업](https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C)",
+            "-20%",
+            "수영복이나 비키니 위에"
+          ],
+          [
+            "[곰 프린트 캐미솔과 반바지 파자마 세트](https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C)",
+            "-20%",
+            "집에서 자거나 쉴 때"
+          ],
+          [
+            "[여아용 폴로 칼라 탑과 와이드 팬츠 세트](https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C)",
+            "—",
+            "4~8세 여아, 간절기"
+          ],
+          [
+            "[우주비행사 스타일 아기 롬퍼](https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C)",
+            "-20%",
+            "1~12개월 아기"
+          ],
+          [
+            "[실버톤 반지 20개 세트](https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C)",
+            "-20%",
+            "일상 액세서리와 작은 선물"
+          ],
+          [
+            "[벽난로 프린트 크리스마스 도어 커버](https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C)",
+            "-18%",
+            "크리스마스 장식"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "가격은 일부러 적지 않았습니다. 각 링크는 거주 지역의 SHEIN 스토어에서 해당 상품을 열고, 가격은 현지 통화로 표시됩니다.",
+        "사이즈는 알파벳이 아니라 상품별 사이즈표의 센티미터 수치로 고르세요. SHEIN 안에서도 브랜드마다 사이즈가 다릅니다. [SHEIN 사이즈 가이드](/ko/reviews/shein-size-guide-ko)에서 치수 재는 법과 사이즈표 보는 법을 볼 수 있습니다."
+      ]
+    },
+    {
+      "heading": "앱에서 검색하는 캠페인 바로가기 6개",
+      "paragraphs": [
+        "SHEIN은 개별 상품 외에 캠페인용 테마 모음도 만들었습니다. 모음마다 검색 코드가 있어서, SHEIN 앱 검색창에 코드를 입력하거나 링크로 열면 해당 모음이 나타납니다. 이 코드는 검색 바로가기일 뿐, 결제 단계에 입력하는 것이 아니며 쿠폰도 아닙니다."
+      ],
+      "comparisonTable": {
+        "caption": "각 모음이 담고 있는 상품입니다. 모음에 표시된 할인은 일부 상품에만 적용되며, 장바구니 전체에 적용되지는 않습니다.",
+        "headers": [
+          "모음",
+          "검색 코드",
+          "담고 있는 상품"
+        ],
+        "rows": [
+          [
+            "[캠페인 베스트셀러](https://onelink.shein.com/60/68f7ufe4ubai)",
+            "24V7643",
+            "캠페인 기간 가장 많이 팔린 상품"
+          ],
+          [
+            "[재고 정리와 신규 회원 쿠폰](https://onelink.shein.com/60/68f7vymzstri)",
+            "B75N67A",
+            "재고 정리 상품과 SHEIN이 신규 회원에게 알리는 쿠폰"
+          ],
+          [
+            "[잠옷과 속옷](https://onelink.shein.com/60/68f7wq9fealr)",
+            "J9HCV76",
+            "파자마, 라운지웨어, 속옷"
+          ],
+          [
+            "[남성 추천](https://onelink.shein.com/60/68f7x04kxv9f)",
+            "7G433M3",
+            "세일 중인 남성 의류와 액세서리"
+          ],
+          [
+            "[SHEGLAM 메이크업](https://onelink.shein.com/60/68f7xltx7684)",
+            "7R422UP",
+            "SHEIN 자체 뷰티 브랜드의 메이크업"
+          ],
+          [
+            "[내게 맞는 핏 찾기](https://onelink.shein.com/60/68f7xvp2pcac)",
+            "M3UP428",
+            "스타일과 핏별로 묶은 옷"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "B75N67A 모음의 쿠폰은 신규 회원 전용입니다. 한도, 최소 구매 금액, 사용 대상은 계정과 결제 화면에 표시됩니다.",
+        "4CW5Y는 이와 다릅니다. Cecília의 추천 코드입니다. 앱이나 사이트에서 검색하거나 이 가이드의 링크로 열면 프로모션과 할인이 있는 모음으로 이어지며, 기존 회원도 사용할 수 있습니다.",
+        "반품 때문에 주의할 모음이 두 곳 있습니다. 속옷은 반품 규정이 더 까다로운 경우가 많고, 화장품도 봉인을 뜯으면 마찬가지입니다. 열기 전에 SHEGLAM 페이지에서 색상과 성분 목록을 확인하고, 결제 전에 스토어의 반품 정책을 읽어 보세요.",
+        "M3UP428 모음은 스타일과 핏별로 옷을 묶어 둔 것입니다. 상품별 사이즈표와 함께 활용하세요."
+      ]
+    },
+    {
+      "heading": "원피스와 투피스: 파티, 휴가, 일상",
+      "paragraphs": [
+        "원피스 3벌과 투피스 1벌입니다. 원피스 두 벌은 신축성이 없는 소재라서 가슴둘레와 허리둘레가 사이즈를 좌우합니다."
+      ]
+    },
+    {
+      "heading": "SHEIN BAE 스파게티 스트랩 원피스",
+      "bullets": [
+        "확인 당시 페이지에 표시된 할인: -20%.",
+        "사이즈: XXS~XXL, Petite 라인도 있음.",
+        "소재: 폴리에스터 100%, 안감 없음, 신축성 없음.",
+        "스토어 평점 4.82, 리뷰 1,000개 이상."
+      ],
+      "paragraphs": [
+        "풍성한 스커트에 등이 파이고 지퍼가 달린 스파게티 스트랩 원피스로, 링크는 빨간색을 엽니다. 사이즈표는 XXS의 가슴 84cm, 허리 66cm에서 XXL의 114cm, 96cm까지이고, 기장은 122~134cm입니다.",
+        "소재에 신축성이 없어서 가슴과 허리 치수가 내 몸과 맞아야 합니다. 고르기 전에 센티미터 수치로 비교하세요. 다른 파티 스타일은 [SHEIN 파티 드레스 가이드](/ko/reviews/shein-party-dress-guide-ko)를 참고하세요."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-01-vestido-longo-bae.webp",
+        "alt": "풍성한 스커트의 빨간 SHEIN BAE 스파게티 스트랩 원피스에 골드 샌들을 신은 모델, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "SHEIN BAE 스파게티 스트랩 원피스",
+            "url": "https://onelink.shein.com/60/68f7q3iornnd?ismg_ol=Fn9jlqYxCCo_01_KOC-C",
+            "howTo": "스토어 사진처럼 굽 있는 샌들에 작은 가방을 들어 보세요.",
+            "occasion": "저녁 파티, 저녁 식사, 데이트."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "SHEIN PETITE 홀터넥 미니 원피스",
+      "bullets": [
+        "확인 당시 페이지에 표시된 할인: -20%.",
+        "사이즈: Petite XXS~Petite L.",
+        "소재: 폴리에스터 100%, 안감은 폴리에스터 89%와 엘라스탄 11%.",
+        "스토어 평점 4.82, 리뷰 1,000개 이상."
+      ],
+      "paragraphs": [
+        "목 뒤로 묶는 홀터넥 미니 원피스로, 등이 파이고 스커트는 겹겹이 층을 이룹니다. 링크는 브라운 색상을 엽니다. SHEIN PETITE 라인은 키가 작은 여성을 위해 상체와 기장을 짧게 재단했습니다.",
+        "사이즈표에서 기장은 Petite XXS의 74cm에서 Petite L의 79.4cm, 가슴둘레는 75~93cm입니다. 어깨에서 원하는 밑단 위치까지 재서 사이즈표와 비교하세요. 키에 따라 미니 길이가 닿는 위치가 달라집니다."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-02-vestido-mini-petite.webp",
+        "alt": "층 겹친 스커트의 브라운 SHEIN PETITE 홀터넥 미니 원피스를 입은 모델, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "SHEIN PETITE 홀터넥 미니 원피스",
+            "url": "https://onelink.shein.com/60/68f7r127nvz9?ismg_ol=FU1uSOeuKoi_01_KOC-C",
+            "howTo": "가는 스트랩 샌들이나 펌프스와 함께, 등은 그대로 드러납니다.",
+            "occasion": "파티, 생일, 데이트."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Opulessa 플로럴 원피스",
+      "bullets": [
+        "확인 당시 페이지에 표시된 할인: -20%.",
+        "사이즈: XXS~XL.",
+        "소재: 폴리에스터 91%와 엘라스탄 9% 니트, 신축성 높음. 상품 페이지에는 반투명으로 표기되어 있음.",
+        "스토어 평점 4.87, 리뷰 1,000개 이상."
+      ],
+      "paragraphs": [
+        "노랑과 주황 플로럴 프린트에 가는 스트랩, 깊게 파인 네크라인, 오픈 백, 옆트임이 있는 롱 핏 원피스입니다. 기장은 XXS의 105cm에서 XL의 115cm입니다.",
+        "이 디자인에는 일반 브래지어가 비칩니다. 디자인에 맞는 방법은 브래지어를 입지 않거나, 스틱형 리프트 브라나 니플 커버를 쓰는 것이니 평소 쓰던 것을 고르세요. 니트가 반투명이라 속옷 색상도 신경 써야 합니다."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-03-vestido-floral-opulessa.webp",
+        "alt": "노랑과 주황 플로럴 프린트에 가는 스트랩과 오픈 백이 있는 롱 Opulessa 원피스를 입은 모델, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Opulessa 플로럴 원피스",
+            "url": "https://onelink.shein.com/60/68f7ir4jm72g?ismg_ol=7DepsNVF9nz_01_KOC-C",
+            "howTo": "플랫 샌들과 함께, 등과 네크라인은 그대로 드러납니다.",
+            "occasion": "휴가 여행, 해변의 저녁, 더운 날."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "브라운 & 화이트 탑과 와이드 팬츠 세트",
+      "bullets": [
+        "확인 당시 페이지에 표시된 할인: -20%.",
+        "사이즈: XS~XL.",
+        "소재: 탑은 폴리에스터 95%와 엘라스탄 5% 니트, 팬츠는 폴리에스터 100%, 신축성 없음.",
+        "스토어 평점 4.73, 리뷰 1,000개 이상."
+      ],
+      "paragraphs": [
+        "두 벌 구성입니다. 하이넥에 소매 없는 짧은 브라운 탑, 그리고 흰 바탕에 브라운 나뭇잎 프린트가 있는 하이웨이스트 와이드 팬츠입니다. 세트로 입어도 되고 나눠 입어도 됩니다. 팬츠는 흰 티셔츠와, 탑은 청바지와 어울립니다.",
+        "팬츠는 신축성이 없고 길이가 깁니다. 사이즈표에서 허리와 다리 길이를 확인하고, 함께 신을 굽 높이도 생각해 보세요."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-04-conjunto-top-pantalona.webp",
+        "alt": "소매 없는 브라운 탑과 브라운 프린트의 흰색 와이드 팬츠 세트를 입은 모델, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "브라운 & 화이트 탑과 와이드 팬츠 세트",
+            "url": "https://onelink.shein.com/60/68f7jiqz6ysl?ismg_ol=6UKOGxp9311_01_KOC-C",
+            "howTo": "굽 있는 샌들이나 흰 스니커즈와 세트로, 팬츠는 무지 티셔츠와도 어울립니다.",
+            "occasion": "캐주얼 출근, 점심, 주말."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "상의와 재킷: 캐주얼, 간절기",
+      "paragraphs": [
+        "신축성 없는 상의 3벌과 재킷 1벌입니다. 확인한 두 상의는 핏이 정반대로, 하나는 여유 있고 다른 하나는 허리를 잡아 줍니다."
+      ]
+    },
+    {
+      "heading": "SHEIN PariChic 스탠드 칼라 레이스 탑",
+      "bullets": [
+        "확인 당시 페이지에 표시된 할인: -20%.",
+        "사이즈: XS~XXL, Tall 라인도 있음.",
+        "소재: 폴리아미드 41%, 면 37%, 비스코스 22%, 신축성 없음. 상품 페이지에는 반투명으로 표기되어 있음."
+      ],
+      "paragraphs": [
+        "동양풍 스타일의 소매 없는 흰색 플로럴 레이스 탑으로, 스탠드 칼라에 앞여밈은 천 매듭단추입니다. 레이스가 비치므로 살색 톱이나 브라를 안에 입거나 탱크톱 위에 겹쳐 입으세요.",
+        "사이즈표는 XS의 가슴 90cm, 어깨 35cm에서 XXL의 116cm, 40cm까지입니다. 소재에 신축성이 없으니 가슴과 어깨 치수를 이미 잘 맞는 탑과 비교하세요."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-05-top-renda-parichic.webp",
+        "alt": "청바지와 함께 스탠드 칼라에 매듭단추가 달린 흰색 SHEIN PariChic 오픈워크 레이스 탑을 입은 모델, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "SHEIN PariChic 스탠드 칼라 레이스 탑",
+            "url": "https://onelink.shein.com/60/68f7gy0iwdxo?ismg_ol=AYKx9GzqYJR_01_KOC-C",
+            "howTo": "청바지나 슬랙스와 함께, 안에는 살색 톱을 입으세요.",
+            "occasion": "일상, 점심, 데이트."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "SHEIN EZwear 깅엄 체크 러플 단 탑",
+      "bullets": [
+        "확인 당시 페이지에 할인 표시 없음.",
+        "사이즈: XS~XL.",
+        "소재: 면 55%와 폴리에스터 45%, 신축성 없음."
+      ],
+      "paragraphs": [
+        "반소매에 둥근 목선, 러플 단이 있는 흑백 깅엄 체크 탑으로, 몸에 여유 있게 떨어집니다. 목록에서 확인한 두 상의 중 넉넉한 쪽이며, 사이즈표의 가슴둘레는 XS 101cm, XL 121cm입니다.",
+        "허리를 잡아 주는 상의를 원한다면 바로 아래의 Sweetra 셔츠가 몸에 맞는 쪽입니다."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-06-blusa-guingao-ezwear.webp",
+        "alt": "흰색 반바지와 함께 반소매에 러플 단이 있는 흑백 SHEIN EZwear 깅엄 체크 탑을 입은 모델, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "SHEIN EZwear 깅엄 체크 러플 단 탑",
+            "url": "https://onelink.shein.com/60/68f7co44cja3?ismg_ol=92CiE4cLcCO_01_KOC-C",
+            "howTo": "반바지나 하이웨이스트 청바지와 함께, 러플 단은 밖으로 빼서 입으세요.",
+            "occasion": "낮 외출과 주말."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Sweetra 소매 없는 체크 셔츠 사이드 리본",
+      "bullets": [
+        "확인 당시 페이지에 표시된 할인: -20%.",
+        "사이즈: XXS~XL, 플러스 사이즈 라인도 있음.",
+        "소재: 폴리에스터 72%, 면 18%, 비스코스 10%, 신축성 없음.",
+        "스토어 평점 4.73, 리뷰 1,000개 이상."
+      ],
+      "paragraphs": [
+        "브라운 체크의 소매 없는 셔츠로, 둥근 목선에 허리를 잡아 주는 사이드 리본이 있습니다. 사이즈표는 XXS의 가슴 85cm, 허리 68cm에서 XL의 109cm, 92cm까지이고 기장은 48~54cm입니다.",
+        "소재에 신축성이 없습니다. 사이즈 알파벳만 보지 말고 옷의 치수를 내 치수와 센티미터로 비교하고, 얼마나 여유를 원하는지 생각하세요. 재는 법은 [SHEIN 사이즈 가이드](/ko/reviews/shein-size-guide-ko)에 나와 있습니다."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-07-camisa-xadrez-sweetra.webp",
+        "alt": "둥근 목선에 사이드 리본이 있는 Sweetra 소매 없는 브라운 체크 셔츠, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Sweetra 소매 없는 체크 셔츠 사이드 리본",
+            "url": "https://onelink.shein.com/60/68f7e3ex2xsp?ismg_ol=8g6OjhqUlGB_01_KOC-C",
+            "howTo": "하이웨이스트 청바지나 스커트와 함께, 사이드 리본으로 허리를 조절하세요.",
+            "occasion": "일상과 외출."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "페이크 스웨이드 지퍼 재킷",
+      "bullets": [
+        "확인 당시 페이지에 표시된 할인: -20%.",
+        "사이즈: XS~L.",
+        "소재: 페이크 스웨이드, 폴리에스터 100%, 신축성 없음.",
+        "스토어 평점 4.78, 리뷰 1,000개 이상."
+      ],
+      "paragraphs": [
+        "라펠 칼라에 앞 지퍼, 긴 소매가 달린 짧은 브라운 재킷입니다. 간절기용 아이템으로, 티셔츠나 얇은 니트 위에 걸치기 좋아 여행이나 쌀쌀한 저녁에 어울립니다.",
+        "사이즈표는 XS가 가슴 100cm, 어깨 41cm, 소매 59cm이고 L이 114cm, 44cm, 62cm입니다. 니트 위에 입을 계획이라면 그렇게 입는 재킷의 치수와 비교해 보세요."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-08-jaqueta-camurca.webp",
+        "alt": "라펠 칼라와 지퍼가 있는 짧은 브라운 페이크 스웨이드 재킷을 입은 모델, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "페이크 스웨이드 지퍼 재킷",
+            "url": "https://onelink.shein.com/60/68f7sq86clxt?ismg_ol=IfMb7WknRz1_01_KOC-C",
+            "howTo": "티셔츠나 얇은 니트 위에, 청바지나 슬랙스와 함께.",
+            "occasion": "여행, 쌀쌀한 저녁, 간절기."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "운동, 해변, 잠옷",
+      "paragraphs": [
+        "두 벌로 맞춰 입는 운동복, 수영복과 커버업, 파자마 세트입니다."
+      ]
+    },
+    {
+      "heading": "Anewsta 크로스 백 스포츠 브라",
+      "bullets": [
+        "확인 당시 페이지에 할인 표시 없음.",
+        "사이즈: XS~XXL, 플러스 사이즈 라인도 있음.",
+        "소재: 폴리아미드 90%와 엘라스탄 10%, 신축성 높음.",
+        "스토어 평점 4.88, 리뷰 1,000개 이상."
+      ],
+      "paragraphs": [
+        "등에 SPORT 글자가 프린트된 크로스 스트랩, 조절 가능한 어깨끈, 뒤 후크 여밈이 있는 검정 스포츠 브라입니다. 상품 페이지에는 지지력 수준이 적혀 있지 않으니, 러닝이나 고강도 운동용이라면 같은 가슴 사이즈를 가진 사람들의 리뷰를 읽어 보세요.",
+        "사이즈표는 언더바스트 기준으로 XS가 52~90cm, XXL이 75~113cm입니다. 고르기 전에 가슴 바로 아래 갈비뼈 둘레를 재 보세요."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-09-top-esportivo-anewsta.webp",
+        "alt": "SPORT 글자가 프린트된 크로스 스트랩과 후크 여밈이 보이는 검정 Anewsta 스포츠 브라의 뒷모습, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Anewsta 크로스 백 스포츠 브라",
+            "url": "https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C",
+            "howTo": "하이웨이스트 레깅스와 함께, 등의 크로스 스트랩이 드러납니다.",
+            "occasion": "운동, 요가, 필라테스.",
+            "pairsWith": [
+              {
+                "label": "Yefecy 심리스 레깅스",
+                "url": "https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Yefecy 심리스 레깅스",
+      "bullets": [
+        "확인 당시 페이지에 표시된 할인: -20%.",
+        "사이즈: S, M, L.",
+        "소재: 폴리아미드 90%와 엘라스탄 10% 니트, 신축성 높음, 심리스.",
+        "스토어 평점 4.74, 리뷰 500개 이상."
+      ],
+      "paragraphs": [
+        "링크가 여는 보라색의 긴 심리스 컴프레션 레깅스입니다. 스토어 제목에는 미드 웨이스트, 상품 상세에는 하이 웨이스트라고 되어 있으니, 페이지 사진에서 허리선이 어디에 오는지 확인하세요.",
+        "사이즈는 S, M, L 세 가지뿐이고, 사이즈표는 늘이지 않은 옷 치수로 S가 허리 58cm, 엉덩이 68cm, L이 66cm, 76cm입니다. 레깅스는 너무 많이 늘어나면 비치기 때문에, 내 치수가 L을 훨씬 넘는다면 이 상품은 맞지 않습니다."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-10-legging-yefecy.webp",
+        "alt": "흰 양말과 스니커즈를 신고 보라색 Yefecy 심리스 레깅스를 입은 뒷모습의 모델, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Yefecy 심리스 레깅스",
+            "url": "https://onelink.shein.com/60/68f7lbuzyvu2?ismg_ol=5eT35rTWA8i_01_KOC-C",
+            "howTo": "스포츠 브라나 운동용 티셔츠, 스니커즈와 함께.",
+            "occasion": "헬스장, 요가, 운동.",
+            "pairsWith": [
+              {
+                "label": "Anewsta 크로스 백 스포츠 브라",
+                "url": "https://onelink.shein.com/60/68f79xgkjgxp?ismg_ol=EZ0ZoWK3mz0_01_KOC-C"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Costavie 네이비 & 화이트 원피스 수영복",
+      "bullets": [
+        "확인 당시 페이지에 표시된 할인: -20%.",
+        "사이즈: XS~XL, 플러스 사이즈 라인도 있음.",
+        "소재: 폴리아미드 80%와 엘라스탄 20%, 신축성 높음, 패드 컵 포함.",
+        "스토어 평점 4.88, 리뷰 1,000개 이상."
+      ],
+      "paragraphs": [
+        "네크라인, 허리, 레그 라인에 흰색 트림이 들어간 네이비 원피스 수영복으로, 넓은 조절식 어깨끈과 패드 컵, 오픈 백이 있습니다. 사이즈표는 늘이지 않은 옷 기준으로 가슴둘레가 XS 68cm에서 XL 86cm까지입니다.",
+        "수영복은 반품 기간이 짧거나 위생 라이너가 그대로 있어야 하는 등 반품 규정이 더 엄격한 경우가 많습니다. 사기 전에 스토어의 반품 정책을 읽고, 집에서 속옷 위에 라이너를 떼지 않은 채 입어 보세요."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-11-maio-costavie.webp",
+        "alt": "흰 셔츠를 열어 걸치고 모자를 쓴 채 흰색 트림과 넓은 어깨끈이 있는 네이비 Costavie 원피스 수영복을 입은 모델, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "Costavie 네이비 & 화이트 원피스 수영복",
+            "url": "https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C",
+            "howTo": "위에 오픈 셔츠나 커버업을 걸치세요.",
+            "occasion": "해변, 수영장, 여름 여행.",
+            "pairsWith": [
+              {
+                "label": "SHEIN Swim 플로럴 커버업",
+                "url": "https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "heading": "SHEIN Swim 플로럴 커버업",
+      "bullets": [
+        "확인 당시 페이지에 표시된 할인: -20%.",
+        "사이즈: XXS~XXL.",
+        "소재: 폴리에스터 94%와 엘라스탄 6% 니트, 신축성 높음. 상품 페이지에는 반투명으로 표기되어 있음.",
+        "스토어 평점 4.93, 리뷰 500개 이상."
+      ],
+      "paragraphs": [
+        "가는 스트랩과 옆트임이 있는 길고 헐렁한 커버업으로, 검정 바탕에 브라운과 베이지의 큼직한 플로럴 프린트가 들어갔습니다. 기장은 XXS의 131cm에서 XXL의 137cm입니다.",
+        "일부러 비치게 만든 옷으로, 수영복이나 비키니 위에 입습니다. 위의 Costavie 수영복이나 무지 비키니와 잘 어울립니다."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-12-saida-de-praia.webp",
+        "alt": "검정 바탕에 브라운과 베이지 플로럴 프린트가 있는 길고 비치는 SHEIN Swim 커버업을 입은 모델, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "SHEIN Swim 플로럴 커버업",
+            "url": "https://onelink.shein.com/60/68f7hlowb5fg?ismg_ol=5YffOvWnWlh_01_KOC-C",
+            "howTo": "수영복이나 무지 비키니 위에, 플랫 샌들과 밀짚 가방을 곁들이세요.",
+            "occasion": "해변, 수영장, 리조트.",
+            "pairsWith": [
+              {
+                "label": "Costavie 네이비 & 화이트 원피스 수영복",
+                "url": "https://onelink.shein.com/60/68f7kgai609m?ismg_ol=LiRNohmje10_01_KOC-C"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "heading": "곰 프린트 캐미솔과 반바지 파자마 세트",
+      "bullets": [
+        "확인 당시 페이지에 표시된 할인: -20%.",
+        "사이즈: XXS~XXL.",
+        "소재: 폴리에스터 95%와 엘라스탄 5% 니트, 신축성 보통.",
+        "스토어 평점 4.85, 리뷰 1,000개 이상."
+      ],
+      "paragraphs": [
+        "연보라색 투피스 세트입니다. 곰 프린트가 있는 가는 스트랩 캐미솔과 물결 모양 밑단에 리본이 달린 짧은 반바지로 구성됩니다.",
+        "니트는 거의 폴리에스터입니다. 면이어야만 잠이 잘 온다면 먼저 혼용률을 확인하세요."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-13-pijama-urso.webp",
+        "alt": "곰 프린트의 가는 스트랩 캐미솔과 짧은 반바지로 이루어진 연보라색 파자마 세트를 입은 모델, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "곰 프린트 캐미솔과 반바지 파자마 세트",
+            "url": "https://onelink.shein.com/60/68f7oecqg9wq?ismg_ol=FZJWFUJRr1a_01_KOC-C",
+            "howTo": "더운 날씨에 잘 때나 쉴 때 캐미솔과 반바지를 함께 입으세요.",
+            "occasion": "더운 밤."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "아이와 아기",
+      "paragraphs": [
+        "4~8세 여아 세트와 아기 롬퍼입니다. 둘 다 사이즈표의 나이가 아니라 아이의 실측 치수로 고르세요."
+      ]
+    },
+    {
+      "heading": "여아용 폴로 칼라 탑과 와이드 팬츠 세트",
+      "bullets": [
+        "확인 당시 페이지에 할인 표시 없음.",
+        "사이즈: 4, 5, 6, 7, 8세.",
+        "소재: 폴리에스터 95%와 엘라스탄 5% 니트, 신축성 보통.",
+        "스토어 평점 4.76, 리뷰 500개 이상."
+      ],
+      "paragraphs": [
+        "크림색 긴소매 탑에 브라운 폴로 칼라, 가슴에 프린트된 리본이 있고, 옆 줄무늬가 들어간 브라운 와이드 팬츠로 구성된 여아용 세트입니다. 쌀쌀한 날에 입는 간절기 옷입니다.",
+        "사이즈에 적힌 나이는 참고일 뿐입니다. 아이의 키, 가슴둘레, 다리 길이를 재서 페이지의 사이즈표와 비교하세요. 사이즈표에는 사이즈별 치수가 센티미터로 나와 있습니다."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-14-conjunto-infantil-laco.webp",
+        "alt": "브라운 폴로 칼라와 프린트된 리본이 있는 크림색 탑, 옆 줄무늬의 브라운 와이드 팬츠 세트를 입은 여자아이, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "여아용 폴로 칼라 탑과 와이드 팬츠 세트",
+            "url": "https://onelink.shein.com/60/68f7f4wif06l?ismg_ol=EcsLkagRvea_01_KOC-C",
+            "howTo": "탑과 팬츠를 함께, 흰 스니커즈와 신으세요.",
+            "occasion": "외출과 쌀쌀한 날."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "우주비행사 스타일 아기 롬퍼",
+      "bullets": [
+        "확인 당시 페이지에 표시된 할인: -20%.",
+        "사이즈: 1~3개월, 3~6개월, 6~9개월, 9~12개월.",
+        "소재: 폴리에스터 96%와 엘라스탄 4%, 신축성 낮음.",
+        "확인 당시 페이지에 리뷰가 2개뿐이었음."
+      ],
+      "paragraphs": [
+        "지퍼와 주머니, 우주비행사 배지가 달린 주황색 긴소매 롬퍼로, 검정과 배색을 이룹니다. 사이즈표의 기장은 1~3개월이 50cm, 9~12개월이 65cm입니다.",
+        "아기는 빨리 자랍니다. 배송 예정일은 결제 전에 페이지에 표시되니, 그만큼을 아기의 월령에 더해서 상품이 도착할 때의 아기 키를 기준으로 사이즈를 고르세요. 리뷰가 적으니 사이즈표가 가장 믿을 만한 기준입니다."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-15-macacao-bebe.webp",
+        "alt": "우주비행사 배지와 검정 디테일이 있는 주황색 긴소매 롬퍼를 입은 아기, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "우주비행사 스타일 아기 롬퍼",
+            "url": "https://onelink.shein.com/60/68f7g2g1bxoa?ismg_ol=Ajgmr7stEPb_01_KOC-C",
+            "howTo": "면 보디슈트 위에 입으세요. 지퍼라서 갈아입히기 편합니다.",
+            "occasion": "외출과 아기 사진."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "액세서리와 크리스마스 장식",
+      "paragraphs": [
+        "작게 살 수 있는 두 가지, 반지 세트와 크리스마스 도어 커버입니다."
+      ]
+    },
+    {
+      "heading": "실버톤 반지 20개 세트",
+      "bullets": [
+        "확인 당시 페이지에 표시된 할인: -20%.",
+        "사이즈: 프리 사이즈. 상품 페이지에 반지 지름은 적혀 있지 않음.",
+        "소재: 징크 합금, 라인스톤 포함.",
+        "스토어 평점 4.87, 리뷰 1,000개 이상."
+      ],
+      "paragraphs": [
+        "하트, 알파벳, 꼬임 밴드 등 서로 다른 디자인의 실버톤 반지 20개로, 여러 개를 함께 낄 수 있습니다. 작은 선물로도 좋습니다.",
+        "징크 합금 코스튬 주얼리입니다. 손을 씻거나 샤워할 때는 빼 두고, 금속이 변색되는 향수와 습기를 피해 보관하세요. 주얼리는 자체 반품 규정이 있을 수 있으니 사기 전에 상품 페이지의 반품 안내를 확인하세요."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-16-kit-20-aneis.webp",
+        "alt": "하트 모양을 포함한 20개 세트의 실버톤 반지를 여러 개 낀 손, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 0.75,
+        "href": "https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C"
+      },
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "실버톤 반지 20개 세트",
+            "url": "https://onelink.shein.com/60/68f7nis8neg4?ismg_ol=LplhygE1sKT_01_KOC-C",
+            "howTo": "같은 손에 여러 개를 디자인을 섞어서 끼세요.",
+            "occasion": "일상과 선물."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "벽난로 프린트 크리스마스 도어 커버",
+      "bullets": [
+        "확인 당시 페이지에 표시된 할인: -18%.",
+        "치수: 180 x 90cm 또는 200 x 90cm.",
+        "소재: 폴리에스터 100%.",
+        "확인 당시 페이지에 리뷰가 1개뿐이었음."
+      ],
+      "paragraphs": [
+        "장식된 벽난로와 Merry Christmas 문구가 프린트된, 문을 덮는 천 패널입니다. 한 팩에 한 장이 들어 있습니다. 먼저 문 치수를 재 보세요. 높이는 180cm와 200cm 두 가지이고 폭은 둘 다 90cm입니다.",
+        "크리스마스 장식은 24일 전에 도착해야 쓸모가 있습니다. 내 주소로의 배송 예정일은 결제 전에 페이지에 표시됩니다. 예정일이 크리스마스 이후라면 올해용으로는 사지 마세요."
+      ],
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-17-faixa-natal-lareira.webp",
+        "alt": "크리스마스 트리 두 그루 사이, 장식된 벽난로와 Merry Christmas 문구가 프린트된 천 패널로 덮인 문, SHEIN 상품 페이지 사진",
+        "objectFit": "contain",
+        "aspectRatio": 1,
+        "href": "https://onelink.shein.com/60/68f7bwhorrk0?ismg_ol=6BDfTF1k4mA_01_KOC-C"
+      }
+    },
+    {
+      "heading": "세금과 관세: 결제 화면에서 확인하세요",
+      "paragraphs": [
+        "수입 관세와 판매세는 배송지와 주문 금액에 따라 다릅니다. SHEIN은 결제 전에 주문에 붙는 세금을 결제 화면에 보여 줍니다. 할인으로 주문 금액이 달라지면 세금도 달라질 수 있으니 그 줄을 꼭 읽어 보세요.",
+        "상품을 반품할 경우, 낸 세금이 환불되는지는 주문의 환불 조건에서 확인하세요."
+      ]
+    },
+    {
+      "heading": "가격, 통화, 재고: 내 SHEIN 스토어에서 확인하세요",
+      "paragraphs": [
+        "이 가이드의 링크는 거주 지역의 SHEIN 스토어에서 각 상품을 엽니다. 가격, 통화, 재고 사이즈, 표시되는 할인은 우리가 확인했을 때와 다를 수 있습니다.",
+        "결제 전에 내 통화로 된 가격, 내 사이즈의 재고 여부, 그리고 내 스토어에서 이 상품이 캠페인 대상인지 확인하세요."
+      ]
+    },
+    {
       "heading": "쿠폰, 포인트, 그리고 4CW5Y",
       "paragraphs": [
         "SHEIN의 쿠폰 정책에 따르면 플랫폼 쿠폰은 주문당 하나입니다. 쿠폰마다 유효기간이 있으며, 제때 쓰지 않으면 사용할 수 없게 됩니다.",
         "주문 화면에서 사용할 수 있는 SHEIN 포인트와 할인 금액을 확인할 수 있습니다. 결제 전에 금액을 확인하세요.",
-        "4CW5Y는 쿠폰이 아니라 Cecília의 SHEIN 추천 코드이며, 할인이 적용됩니다. Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 4CW5Y를 검색하면 추천 상품과 프로모션, 할인 모음 페이지가 열립니다. 할인 폭과 대상 상품은 SHEIN이 정하며 달라집니다. SHEIN 캠페인은 수시로 바뀝니다. 주문을 확정하기 전에 이 사이트의 SHEIN 페이지에서 현재 진행 중인 캠페인을 확인하세요."
+        "4CW5Y는 쿠폰이 아니라 Cecília의 SHEIN 추천 코드이며, 할인이 적용됩니다. Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 4CW5Y를 검색하면 추천 상품과 프로모션, 할인 모음 페이지가 열립니다. 할인 폭과 대상 상품은 SHEIN이 정하며 달라집니다. SHEIN 캠페인은 수시로 바뀝니다. 주문을 확정하기 전에 이 사이트의 SHEIN 페이지에서 현재 진행 중인 캠페인을 확인하세요.",
+        "바로가기 섹션의 캠페인 코드 6개, 예를 들어 24V7643도 검색창에 입력하지만 SHEIN의 테마 모음을 여는 코드입니다. Cecília의 추천 코드는 4CW5Y 하나뿐입니다."
       ],
       "links": [
         {
@@ -78,13 +818,25 @@
         {
           "label": "추천 코드 4CW5Y 사용법",
           "href": "/ko/reviews/shein-referral-code-ko"
+        },
+        {
+          "label": "SHEIN에서 사이즈 고르는 법",
+          "href": "/ko/reviews/shein-size-guide-ko"
         }
+      ]
+    },
+    {
+      "heading": "연휴 전 배송과 결제",
+      "paragraphs": [
+        "배송 예정일은 상품 페이지와 결제 화면에 다시 표시됩니다. 선물이나 크리스마스 장식이라면 그 날짜를 상품이 필요한 날과 비교하세요.",
+        "결제 수단은 국가마다 다릅니다. 확인에 며칠 걸리는 수단은 그 사이에 상품이 품절될 수 있으니, 캠페인 기간에는 바로 확인되는 수단을 권합니다."
       ]
     },
     {
       "heading": "블랙프라이데이 이후 교환과 반품",
       "bullets": [
         "**구매 전:** 주문에 적용되는 반품 정책에서 기한, 반품 가능한 상품, 반품 배송비를 확인하세요.",
+        "**이 가이드의 상품 기준:** 수영복, 속옷, 주얼리, 화장품은 자체 반품 규정이 있는 경우가 많습니다. Costavie 수영복, 반지 세트, SHEGLAM 모음의 상품을 사기 전에 스토어의 반품 정책에서 확인하세요.",
         "**부분 반품:** 쿠폰이나 프로모션을 사용했다면 환불액이 어떻게 계산되는지 확인하세요.",
         "**세금:** 주문과 배송지에 적용되는 환불 조건을 확인하세요."
       ]
@@ -92,6 +844,7 @@
     {
       "heading": "결제 전에 확인할 것",
       "bullets": [
+        "옷의 치수를 센티미터로 재서 내 치수와 비교하기.",
         "쿠폰이 적용되었고 포인트가 차감되었는지.",
         "크리스마스 선물이라면 배송 기간.",
         "주문에 적용되는 반품 기한, 반품 가능한 상품, 반품 배송비."
@@ -107,7 +860,10 @@
         "SHEIN 블랙프라이데이는 어떻게 진행되나요? 혜택마다 기간과 조건이 다를 수 있습니다. 광고의 할인율이 적용되는 상품을 확인하고 장바구니의 최종 가격을 비교하세요.",
         "SHEIN에도 사이버 먼데이가 있나요? 2026년 사이버 먼데이는 11월 30일입니다. 모든 국가에 적용되는 공지는 찾지 못했습니다. 해당 국가 스토어의 캠페인을 확인하세요.",
         "블랙프라이데이 주문은 크리스마스 전에 도착하나요? 날짜를 보장할 수는 없습니다. 배송 기한은 결제 전 주문 화면에 표시되니, 구매할 때마다 그 기한을 확인하세요.",
-        "4CW5Y는 할인 쿠폰인가요? 쿠폰은 아니지만 할인이 적용됩니다. Cecília의 SHEIN 추천 코드로, 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하면 프로모션과 할인 모음이 열립니다. 할인 폭과 대상 상품은 SHEIN이 정합니다."
+        "4CW5Y는 할인 쿠폰인가요? 쿠폰은 아니지만 할인이 적용됩니다. Cecília의 SHEIN 추천 코드로, 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하면 프로모션과 할인 모음이 열립니다. 할인 폭과 대상 상품은 SHEIN이 정합니다.",
+        "4CW5Y와 SHEIN의 캠페인 코드는 같은 건가요? 아닙니다. 4CW5Y는 Cecília의 추천 코드입니다. 24V7643이나 B75N67A 같은 코드는 앱 검색에서 캠페인 모음을 여는 SHEIN의 바로가기입니다. 어느 것도 결제 단계에 입력하지 않습니다.",
+        "이 가이드의 상품은 모든 국가에서 가격이 같나요? 아닙니다. 각 링크는 거주 지역의 SHEIN 스토어에서 상품을 열며, 가격, 통화, 재고가 각각 다릅니다. 결제 전에 상품 페이지에서 가격을 확인하세요.",
+        "블랙프라이데이에 SHEIN 옷 사이즈는 어떻게 고르나요? 상품별 사이즈표의 센티미터 수치를 내 치수와 비교하세요. SHEIN 안에서도 브랜드마다 사이즈가 다르고, 신축성 없는 소재는 가슴과 허리 치수를 더 꼼꼼히 봐야 합니다."
       ]
     }
   ],
@@ -121,6 +877,15 @@
   "affiliate": "shein",
   "editorialNote": "SHEIN 공식 페이지의 규정 기준입니다. 구매하면 수수료를 받을 수 있습니다.",
   "relatedArticles": [
+    {
+      "slug": "shein-size-guide-ko"
+    },
+    {
+      "slug": "shein-party-dress-guide-ko"
+    },
+    {
+      "slug": "shein-referral-code-ko"
+    },
     {
       "slug": "yesstyle-black-friday-ko"
     }

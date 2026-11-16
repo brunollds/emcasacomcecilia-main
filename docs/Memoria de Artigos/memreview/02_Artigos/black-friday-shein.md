@@ -273,3 +273,37 @@ O 4CW5Y é código de indicação da SHEIN, não é cupom de checkout, não soma
 - **Alt:** em cada idioma, o alt da mesma foto no corpo (Cecília em dois looks de um haul da SHEIN).
 - **Origem:** foto própria (`shein/black-friday-shein-cecilia.webp`, já no corpo dos 10) e logo do repositório. Os 10 JSONs da família apontam para a capa nova. Texto da arte: "Black Friday", sem português.
 - **Lote 2 do piloto de capas:** composição do Codex aprovada pelo Bruno em 10/11/2026 (`docs/auditoria-capas/piloto-20261110/lote-seguinte/` no checkout principal): painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior fica no CDN, sem uso.
+
+## Curadoria de 17 peças e seis atalhos nos 10 idiomas (16/11/2026)
+
+- **O que mudou:** as 10 versões ganharam o quadro das 17 peças, a seção dos seis atalhos de campanha e uma seção por peça (foto com link, tecido, medidas e card de estilo), em cinco grupos: vestidos e conjunto; blusas, tops e jaqueta; treino, praia e pijama; infantil e bebê; acessório e Natal. São 34 seções em cada versão.
+- **Onde lemos:** o Bruno liberou abrir os links `onelink.shein.com/60/...` (como no 11.11) e passou pelo CAPTCHA. Cada link abre a ficha em `br.shein.com`; preço, desconto, composição, medidas e nota são da ficha em 16/11/2026, pelo navegador embutido, sem login. As 17 são de envio internacional. Fatos por peça (id, SKU, medidas) abaixo.
+- **Diferenças para o handoff:** a blusa EZwear estava a R$ 59,95 sem desconto (o handoff dizia R$ 59,99) e a camisa Sweetra, a R$ 47,96 (dizia R$ 49,59). O vestido SHEIN PETITE abre na cor marrom, não amarelo-pálido. O "pijama com camiseta" é regata de alças. A "faixa de lareira" é um painel de tecido para cobrir a porta, de 180 x 90 ou 200 x 90 cm.
+- **Contador de vendidos:** não aparece na ficha; é o do cartão da peça na vitrine da campanha, dado do Bruno. Entra só no PT, por peça, dito como contador da vitrine. O top PariChic leva "o maior contador exibido entre os itens desta lista", nunca "a mais vendida".
+- **Avisos tirados da ficha:** vestido Opulessa, top PariChic e saída de praia marcados como semitransparentes; legging com "cintura média" no título e "cintura alta" na ficha, e só P, M e G; top Anewsta sem nível de sustentação informado; anéis sem diâmetro informado; macacão de bebê com 2 avaliações e painel de Natal com 1; as fichas do maiô e dos anéis não mostram a linha "Devoluções gratuitas em 20 dias" que as outras mostram.
+- **Redação pedida pelo handoff:** PETITE explicada pelas proporções e pelas medidas, sem prometer barra; tamanho sempre pelas medidas em centímetros, sem "escolha o maior"; no Opulessa, o recorte descrito e as opções de sustentação, sem "exige fita".
+- **Os seis atalhos:** 24V7643 (mais vendidos), B75N67A (liquidação e cupom de 50% para novos usuários), J9HCV76 (pijamas e lingerie), 7G433M3 (masculino), 7R422UP (SHEGLAM) e M3UP428 (ajuste perfeito). Cada um abre uma lista em `br.shein.com/ark/<id>`. São atalhos de busca do app, separados do 4CW5Y em três pontos do texto e no FAQ. O K49L457 ficou fora, como pedido. Os tetos ("até 90%", "até 80%", "até 70%") são do título de cada campanha e ficam só no PT.
+- **Fora do PT (decisão do Bruno de 16/11, #1052):** peças com link e sem preço; no quadro, só o percentual da ficha; sem contador de vendidos, sem teto de campanha e sem citar o Brasil. O handoff pedia mostrar os preços como "vitrine brasileira"; valeu a regra do vault. Devolução: cada versão manda conferir a política da loja do leitor para moda praia, lingerie, bijuteria e cosmético.
+- **Alinhamento das seções:** o teste da família compara as fotos com link seção a seção, então as 10 versões têm o mesmo número de seções. As três que só o PT tem (imposto, Envio Nacional, como pagar) têm, na mesma posição das traduções, impostos no checkout, preço e estoque da loja local, e entrega e pagamento. No PT, as fotos sem link de "Quando começa", "Cupons" e "Trocas" passaram para o formato de texto (`image` + `imageAlt`).
+- **Imagens (17, no CDN):** a foto principal de cada ficha, 750 px de largura, em `/images/reviews/shein/black-friday-shein-NN-*.webp`.
+- **Texto-base das traduções:** escrito em inglês pela sessão e traduzido por subagentes Sonnet; a estrutura (links, fotos, card de estilo, percentuais) sai de um script a partir do PT.
+
+| # | Peça | id | SKU | Preço (de, %) | Composição | Grade e medidas |
+|---|---|---|---|---|---|---|
+| 1 | SHEIN BAE vestido de alças finas | 46354609 | sz2408094181800123 | R$ 113,56 (141,95, -20%) | 100% poliéster, sem forro, sem elasticidade | XPP a EG e Petite; busto 84 a 114, cintura 66 a 96, comprimento 122 a 134 |
+| 2 | SHEIN PETITE vestido mini frente única | 486476392 | sz251028686040046710 | R$ 102,32 (127,90, -20%) | 100% poliéster; forro 89% poliéster, 11% elastano | Petite XPP a G; busto 75 a 93, comprimento 74 a 79,4 |
+| 3 | Opulessa vestido floral | 433146216 | sz2305164184269155 | R$ 68,76 (85,95, -20%) | 91% poliéster, 9% elastano; semitransparente | XPP a GG; busto 80 a 104, comprimento 105 a 115 |
+| 4 | Conjunto top e pantalona | 442320481 | sz260125233076254050442 | R$ 83,16 (103,95, -20%) | top 95% poliéster, 5% elastano; calça 100% poliéster | PP a GG; medidas não lidas |
+| 5 | SHEIN PariChic top de renda | 525973058 | sz260528135988297004414 | R$ 79,16 (98,95, -20%) | 41% poliamida, 37% algodão, 22% viscose; semitransparente | PP a EG e Tall; busto 90 a 116, ombro 35 a 40 |
+| 6 | SHEIN EZwear blusa vichy | 8643717 | sw2111251628564482 | R$ 59,95, sem desconto | 55% algodão, 45% poliéster | PP a GG; busto 101 a 121 |
+| 7 | Sweetra camisa xadrez | 509715008 | sz260521173399184168557 | R$ 47,96 (59,95, -20%) | 72% poliéster, 18% algodão, 10% viscose | XPP a GG e plus; busto 85 a 109, cintura 68 a 92 |
+| 8 | Jaqueta de camurça sintética | 503666323 | sz251024838664376462 | R$ 91,96 (114,95, -20%) | 100% poliéster | PP a G; busto 100 a 114, manga 59 a 62 |
+| 9 | Anewsta top esportivo | 37060305 | st2405313968949468 | R$ 53,95, sem desconto | 90% poliamida, 10% elastano | PP a EG e plus; busto inferior 52-90 a 75-113 |
+| 10 | Yefecy legging | 558729721 | st260610132233828880278 | R$ 70,36 (87,95, -20%) | 90% poliamida, 10% elastano | P, M, G; cintura 58 a 66, quadril 68 a 76 |
+| 11 | Costavie maiô | 88433838 | sz25051486701716111 | R$ 59,99 (74,99, -20%) | 80% poliamida, 20% elastano | PP a GG e plus; busto 68 a 86 |
+| 12 | SHEIN Swim saída de praia | 508443815 | sz260527111567767583379 | R$ 66,39 (82,99, -20%) | 94% poliéster, 6% elastano; semitransparente | XPP a EG; comprimento 131 a 137 |
+| 13 | Pijama de urso | 403819842 | si260106200512500558008 | R$ 29,59 (36,99, -20%) | 95% poliéster, 5% elastano | XPP a EG; medidas não lidas |
+| 14 | Conjunto infantil gola polo | 575730582 | sk261012193626637139848 | R$ 87,90, sem desconto | 95% poliéster, 5% elastano | 4 a 8 anos; medidas não lidas |
+| 15 | Macacão de bebê | 564703819 | sa260821123809482898361 | R$ 68,76 (85,95, -20%) | 96% poliéster, 4% elastano | 1-3 a 9-12 meses; comprimento 50 a 65 |
+| 16 | Kit de 20 anéis | 14559794 | sj2304059290240394 | R$ 12,76 (15,95, -20%) | liga de zinco, strass | tamanho único |
+| 17 | Painel de Natal para porta | 574599609 | sh260928130101764347824 | R$ 26,07 (31,95, -18%) | 100% poliéster | 180 x 90 ou 200 x 90 cm |
