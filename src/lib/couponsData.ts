@@ -3927,7 +3927,7 @@ const STORE_COUPONS: Coupon[] = [
     codeInstructions: [
       'Copie o código CECILIA no card acima.',
       "Acesse o site oficial da L'Amazonie pelo botão indicado, coloque os produtos no carrinho e clique em Finalizar compra.",
-      'No checkout, digite o código no campo Tem um cupom?, no resumo, e clique em Adicionar.',
+      'No checkout da própria loja, em seguro.lamazonie.com.br, digite o código no campo Tem um cupom?, no resumo, e clique em Adicionar.',
       'Confira o aviso Desconto em verde e a linha Descontos no resumo antes de pagar.',
     ],
     aboutBrand:
@@ -3994,7 +3994,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O que fazer se o cupom CECILIA não funcionar?',
         answer:
-          "Confira se o código foi digitado no campo Tem um cupom? do checkout, sem espaços, no site oficial da L'Amazonie, e se o aviso Desconto apareceu em verde. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.",
+          "Confira se a barra de endereço mostra seguro.lamazonie.com.br, o checkout da própria loja, que abre pelo botão Finalizar compra do carrinho: o código só vale lá. Depois, veja se ele foi digitado no campo Tem um cupom?, sem espaços, e se o aviso Desconto apareceu em verde. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.",
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
