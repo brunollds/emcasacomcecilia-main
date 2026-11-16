@@ -67,6 +67,10 @@ interface CouponBase {
   category: string;
   // Prateleira do hub /cupons; ordem e rótulo vêm de COUPON_HUB_CATEGORIES.
   hubCategory: CouponHubCategory;
+  // Tamanho do cartão na prateleira do hub em PT (Bruno, 16/11/2026): 'destaque' é o cartão largo, no começo da
+  // prateleira; 'reduzido', o estreito, no fim. Sem o campo, a largura sai do conteúdo (layoutShelf) e a loja fica
+  // na ordem deste arquivo.
+  hubCard?: 'destaque' | 'reduzido';
   shortDescription: string;
   longDescription: string;
   metaTitle: string;
@@ -1409,6 +1413,7 @@ const STORE_COUPONS: Coupon[] = [
     offerActionLabel: 'Ver ofertas na SHEIN',
     category: 'Moda, acessórios, beleza e casa',
     hubCategory: 'moda',
+    hubCard: 'reduzido',
     shortDescription: 'link principal, código de indicação e campanhas vigentes',
     longDescription:
       'O 4CW5Y é o código de indicação da Cecília: abre uma seleção da SHEIN com promoções e descontos. O botão abaixo já leva até ela; se preferir, copie o código e pesquise no app ou no site. Outras campanhas estão disponíveis abaixo.',
@@ -1500,7 +1505,8 @@ const STORE_COUPONS: Coupon[] = [
     offerTypeLabelPlural: 'ofertas',
     offerActionLabel: 'Ver ofertas na Temu',
     category: 'Moda, casa, eletrônicos e utilidades',
-    hubCategory: 'moda',
+    hubCategory: 'diversos',
+    hubCard: 'reduzido',
     // Fora da vitrine da home em português (Bruno, 16/11/2026); segue em /cupons, em /reviews e nos outros idiomas.
     hideFromPortugueseHome: true,
     shortDescription: 'link da Cecília para as promoções da loja',
@@ -1583,7 +1589,8 @@ const STORE_COUPONS: Coupon[] = [
     offerTypeLabelPlural: 'ofertas',
     offerActionLabel: 'Ver ofertas no AliExpress',
     category: 'Eletrônicos, moda, casa e acessórios',
-    hubCategory: 'moda',
+    hubCategory: 'diversos',
+    hubCard: 'reduzido',
     // Fora da vitrine da home em português (Bruno, 16/11/2026); segue em /cupons, em /reviews e nos outros idiomas.
     hideFromPortugueseHome: true,
     shortDescription: 'link da Cecília para as promoções da loja',
@@ -1731,6 +1738,7 @@ const STORE_COUPONS: Coupon[] = [
     discountNumber: 10,
     category: 'Suplementos e nutrição esportiva',
     hubCategory: 'saude',
+    hubCard: 'reduzido',
     shortDescription: 'suplementos no site oficial da Probiótica',
     longDescription:
       'O cupom Probiótica PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções e vale em todas as formas de pagamento. Testado num whey em promoção e numa creatina a preço cheio: o desconto varia por item.',
@@ -1864,6 +1872,7 @@ const STORE_COUPONS: Coupon[] = [
     discountNumber: 10,
     category: 'Suplementos e nutrição esportiva',
     hubCategory: 'saude',
+    hubCard: 'reduzido',
     shortDescription: 'suplementos no site oficial da Max Titanium',
     longDescription:
       'O cupom Max Titanium MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, testado num carrinho com Top Whey em promoção: soma com as promoções, mantém os brindes do carrinho e vale em todas as formas de pagamento.',
@@ -1994,6 +2003,7 @@ const STORE_COUPONS: Coupon[] = [
     discountNumber: 10,
     category: 'Pastas de amendoim e snacks',
     hubCategory: 'saude',
+    hubCard: 'reduzido',
     shortDescription: 'todo o site Dr. Peanut, com todas as formas de pagamento',
     longDescription:
       'O cupom Dr. Peanut DREMCASACOMCECILIA dá 10% OFF em todo o site, para quem compra pela primeira vez e para quem já é cliente, testado com uma pasta de amendoim em promoção: soma com as promoções e vale em todas as formas de pagamento.',
@@ -2114,6 +2124,7 @@ const STORE_COUPONS: Coupon[] = [
     discountNumber: 10,
     category: 'Suplementos e nutrição esportiva',
     hubCategory: 'saude',
+    hubCard: 'reduzido',
     shortDescription: 'todo o site Black Skull, com todas as formas de pagamento',
     longDescription:
       'O cupom Black Skull CECILIA10 dá 10% OFF em todo o site, para quem compra pela primeira vez e para quem já é cliente, testado com um kit de whey em promoção: soma com as promoções e vale em todas as formas de pagamento.',
@@ -2234,6 +2245,7 @@ const STORE_COUPONS: Coupon[] = [
     // Fora da vitrine da home em português (Bruno, 16/11/2026); segue em /cupons e em /reviews.
     hideFromPortugueseHome: true,
     hubCategory: 'casa',
+    hubCard: 'reduzido',
     shortDescription: 'site do casamento e lista de presentes, com plano gratuito',
     longDescription:
       'Indicação da Cecília para casais que vão montar o site do casamento e a lista de presentes na Lejour. O cadastro é pelo link, e o plano Basic é gratuito.',
@@ -2562,6 +2574,7 @@ const STORE_COUPONS: Coupon[] = [
     discountNumber: 10,
     category: 'Whey, creatina, pré-treino e snacks proteicos',
     hubCategory: 'saude',
+    hubCard: 'reduzido',
     shortDescription: 'todo o site Mais Mu, com todas as formas de pagamento',
     longDescription:
       'O cupom Mais Mu MMEMCASACOMCECILIA dá 10% OFF em todo o site, para quem compra pela primeira vez e para quem já é cliente, soma com as ofertas e com os 3% do Pix, e vale em todas as formas de pagamento. Testado num carrinho com wheys e creatina em promoção.',
@@ -2857,6 +2870,7 @@ const STORE_COUPONS: Coupon[] = [
     discountNumber: 10,
     category: 'Malas, mochilas e acessórios de viagem',
     hubCategory: 'moda',
+    hubCard: 'destaque',
     shortDescription: 'todo o site Bagaggio, com todas as formas de pagamento',
     longDescription:
       'O cupom Bagaggio CECILIA10 dá 10% OFF em malas, mochilas e acessórios no site oficial, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções, o Outlet e os 5% do Pix, e vale em todas as formas de pagamento. Testado numa mala de bordo do Outlet.',
@@ -3008,6 +3022,7 @@ const STORE_COUPONS: Coupon[] = [
     discountNumber: 15,
     category: 'Moda íntima e lingerie',
     hubCategory: 'moda',
+    hubCard: 'destaque',
     shortDescription: 'todo o site Toda Up, inclusive nos produtos em promoção',
     longDescription:
       'O cupom Toda Up MAUAD dá 15% OFF em sutiãs, tops, calcinhas e adesivos no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções do site, inclusive nos produtos que já estão com desconto. Testado num sutiã em promoção.',
@@ -3376,6 +3391,7 @@ const STORE_COUPONS: Coupon[] = [
     discountNumber: 10,
     category: 'Pet shop: ração, petiscos, higiene e acessórios',
     hubCategory: 'diversos',
+    hubCard: 'destaque',
     shortDescription: 'compras no site e no app da Petz',
     longDescription:
       'O cupom Petz EMCASA dá 10% OFF nas compras no site e no app, para quem compra pela primeira vez e para quem já é cliente, e soma com os 5% do Retire na Loja: 14,5% no total, em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste. Num produto que já está em oferta, o cupom não soma: a sacola fica com o desconto maior. Testado no carrinho.',
@@ -4029,6 +4045,7 @@ const STORE_COUPONS: Coupon[] = [
     discountNumber: 20,
     category: 'Hospedagem de sites e domínios',
     hubCategory: 'diversos',
+    hubCard: 'destaque',
     shortDescription: 'todos os planos da Hostinger, mensais ou anuais, para clientes novos e antigos',
     longDescription:
       'O cupom Hostinger SONAR20 dá 20% OFF em todos os planos, mensais ou anuais, para quem está chegando e para quem já é cliente. Cole o código no campo de cupom do carrinho. Testado no plano Startup, sobre o preço de Black Friday. O Em Casa com Cecília roda na Hostinger desde 2024.',
@@ -4152,6 +4169,8 @@ export function getAllActiveCouponSlugs(): string[] {
   return getActiveCoupons().map((coupon) => coupon.slug);
 }
 
+const HUB_CARD_ORDER = { destaque: 0, auto: 1, reduzido: 2 } as const;
+
 export function getCouponHubSections() {
   const activeCoupons = getActiveCoupons();
 
@@ -4159,7 +4178,9 @@ export function getCouponHubSections() {
     featured: activeCoupons.filter((coupon) => coupon.featured),
     categories: COUPON_HUB_CATEGORIES.map((category) => ({
       ...category,
-      coupons: activeCoupons.filter((coupon) => coupon.hubCategory === category.id),
+      coupons: activeCoupons
+        .filter((coupon) => coupon.hubCategory === category.id)
+        .sort((a, b) => HUB_CARD_ORDER[a.hubCard ?? 'auto'] - HUB_CARD_ORDER[b.hubCard ?? 'auto']),
     })).filter((category) => category.coupons.length > 0),
   };
 }

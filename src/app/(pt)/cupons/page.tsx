@@ -145,7 +145,7 @@ export default function CuponsPage() {
         {/* No desktop, prateleiras de até dois cards dividem a linha; as maiores ocupam a largura toda. */}
         <div className="grid gap-7 md:grid-cols-2 md:gap-x-6 md:gap-y-10">
           {categories.map((category) => {
-            const shelf = layoutShelf(category.coupons);
+            const shelf = layoutShelf(category.coupons, { useHubCard: true });
             const fullRow = shelf.reduce((slots, item) => slots + (item.wide ? 2 : 1), 0) > 2;
 
             // A prateleira entra em cascata quando chega à tela (RevealSection). O pt-4 e o gap-y-6 dão lugar
