@@ -1504,6 +1504,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/about/partners/lamazonie.png",
+      "local_url": "/images/about/partners/lamazonie.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 23700,
+      "sha256": "99103c87cf90696f861f42badbf1ad89a7efa22bc41bba498ec5ca6767a7caf2",
+      "width": 256,
+      "height": 256,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "lamazonie.png",
+      "storage_filename": "lamazonie.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/LAmazonie.md",
+        "src/lib/aboutPage.ts",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/LAmazonie.md",
+          "line": 73,
+          "column": 10,
+          "literal": "/images/about/partners/lamazonie.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/aboutPage.ts",
+          "line": 88,
+          "column": 31,
+          "literal": "/images/about/partners/lamazonie.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 3889,
+          "column": 17,
+          "literal": "/images/about/partners/lamazonie.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/99103c87cf90696f861f42badbf1ad89a7efa22bc41bba498ec5ca6767a7caf2/lamazonie.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/99103c87cf90696f861f42badbf1ad89a7efa22bc41bba498ec5ca6767a7caf2/lamazonie.png",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T21:35:54.284Z",
+      "verification_etag_or_digest": "99103c87cf90696f861f42badbf1ad89a7efa22bc41bba498ec5ca6767a7caf2",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/about/partners/laticinios-ubari.jpg",
       "local_url": "/images/about/partners/laticinios-ubari.jpg",
       "media_kind": "image",
@@ -3280,6 +3334,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-13T12:35:15.930Z",
       "verification_etag_or_digest": "000ea2dbdf9091eef20c7cd466901b2bf75cc668f7f831056a2e3b93729cdab5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/bolinhas/lamazonie.png",
+      "local_url": "/images/logos/bolinhas/lamazonie.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 9077,
+      "sha256": "475636cacad5a6440e08e8d82177c645e4d38ad93e736f1bd80bcc862dc81136",
+      "width": 512,
+      "height": 512,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "lamazonie.png",
+      "storage_filename": "lamazonie.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/LAmazonie.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/LAmazonie.md",
+          "line": 76,
+          "column": 13,
+          "literal": "/images/logos/bolinhas/lamazonie.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 3891,
+          "column": 21,
+          "literal": "/images/logos/bolinhas/lamazonie.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/475636cacad5a6440e08e8d82177c645e4d38ad93e736f1bd80bcc862dc81136/lamazonie.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/475636cacad5a6440e08e8d82177c645e4d38ad93e736f1bd80bcc862dc81136/lamazonie.png",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T21:35:54.285Z",
+      "verification_etag_or_digest": "475636cacad5a6440e08e8d82177c645e4d38ad93e736f1bd80bcc862dc81136",
       "verification_status": "verified"
     },
     {
@@ -23858,6 +23958,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-13T12:35:15.930Z",
       "verification_etag_or_digest": "d5636bbcb25ddf8571eb207a62a7092c8c87ffa3c571efe6c9e5124341a051b8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/watermarks/lamazonie.webp",
+      "local_url": "/images/logos/watermarks/lamazonie.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 8388,
+      "sha256": "e727bf78ceedb0c65ba889da96631a816beac2f51d3dd3ff34b3c3e7407dcd58",
+      "width": 480,
+      "height": 72,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "lamazonie.webp",
+      "storage_filename": "lamazonie.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/LAmazonie.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/LAmazonie.md",
+          "line": 79,
+          "column": 18,
+          "literal": "/images/logos/watermarks/lamazonie.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 3892,
+          "column": 22,
+          "literal": "/images/logos/watermarks/lamazonie.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e727bf78ceedb0c65ba889da96631a816beac2f51d3dd3ff34b3c3e7407dcd58/lamazonie.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e727bf78ceedb0c65ba889da96631a816beac2f51d3dd3ff34b3c3e7407dcd58/lamazonie.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T21:35:54.285Z",
+      "verification_etag_or_digest": "e727bf78ceedb0c65ba889da96631a816beac2f51d3dd3ff34b3c3e7407dcd58",
       "verification_status": "verified"
     },
     {
@@ -100677,6 +100823,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-13T15:55:35.616Z",
       "verification_etag_or_digest": "493d27ae0fc98d7bef38e3e51450a94a25bdf84298b19e27f707c12bed7f29d7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lamazonie/cupom-lamazonie-checkout-com-cupom.webp",
+      "local_url": "/images/reviews/lamazonie/cupom-lamazonie-checkout-com-cupom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 9584,
+      "sha256": "73c80a8b5893141b080332dd5972d41e326da43b7c38173bc65e9b74e6d54eea",
+      "width": 373,
+      "height": 352,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-lamazonie-checkout-com-cupom.webp",
+      "storage_filename": "cupom-lamazonie-checkout-com-cupom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/LAmazonie.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/LAmazonie.md",
+          "line": 80,
+          "column": 33,
+          "literal": "/images/reviews/lamazonie/cupom-lamazonie-checkout-com-cupom.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 3884,
+          "column": 24,
+          "literal": "/images/reviews/lamazonie/cupom-lamazonie-checkout-com-cupom.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/73c80a8b5893141b080332dd5972d41e326da43b7c38173bc65e9b74e6d54eea/cupom-lamazonie-checkout-com-cupom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/73c80a8b5893141b080332dd5972d41e326da43b7c38173bc65e9b74e6d54eea/cupom-lamazonie-checkout-com-cupom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T21:35:54.286Z",
+      "verification_etag_or_digest": "73c80a8b5893141b080332dd5972d41e326da43b7c38173bc65e9b74e6d54eea",
       "verification_status": "verified"
     },
     {
