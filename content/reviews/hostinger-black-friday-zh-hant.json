@@ -34,7 +34,7 @@
   "metaDescription": "Hostinger 黑色星期五 2026 已經開始，持續到 12 月 14 日，優惠碼 SONAR20 在活動價上再減 20%。續約與核對方式。",
   "publishedAt": "2026年10月19日",
   "publishedAtISO": "2026-10-19",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-16",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -46,33 +46,167 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "Hostinger 的黑色星期五已經開始：從 2026 年 10 月 19 日持續到 12 月 14 日。活動價會自動套用，在購物車的優惠碼欄位輸入代碼 **SONAR20**，可在此基礎上再減 20%。真正影響費用的是續約，下方會說明。"
+        "Hostinger 的黑色星期五已經開始：從 2026 年 10 月 19 日持續到 12 月 14 日。活動價會自動套用，在購物車的優惠碼欄位輸入代碼 **SONAR20**，可在此基礎上對新購買再減 20%。續約按定價計算，沒有折扣。下方依方案列出各自的費用，包括網站代管與 VPS。"
       ]
     },
     {
       "heading": "Hostinger 的黑色星期五已經開始了嗎？",
       "paragraphs": [
         "已經開始。Hostinger 官方 FAQ 寫道：「Hostinger 黑色星期五促銷從 2026 年 10 月 19 日持續到 12 月 14 日。」英文全球頁面給出的日期相同。",
-        "11 月 3 日，美元版活動頁面顯示網站代管 85% 折扣、VPS 67% 折扣、Reach（電子郵件行銷）75% 折扣。這是橫幅數字，並非每個方案的折扣。",
-        "以下數字只針對 2026 年的活動，取自官方頁面。"
-      ],
-      "images": []
+        "2026 年 11 月中旬，全球頁面的橫幅顯示網站代管最高 85%、VPS 最高 70% 的折扣。這是橫幅上的數字，依各方案的原價計算，並不是每個方案的折扣；你實際要付多少，請看下方表格。"
+      ]
     },
     {
-      "heading": "活動價加 SONAR20 要付多少",
+      "heading": "各方案要付多少：活動價、SONAR20 與續約",
+      "paragraphs": [
+        "Hostinger 一次收取整個期間的費用，並顯示換算後的每月價格。因此表格同時列出兩項：每月等值價格，以及首期實際收取的總價，分別為使用 SONAR20 之前與之後。最後一欄是續約價，不含活動折扣，也不含優惠碼的折扣。",
+        "關於 Single：部分地區頁面有販售 Single 方案（1 個網站、10 GB），但 2026 年 11 月 16 日全球頁面並沒有列出，所以表中這一列沒有價格。"
+      ],
+      "comparisonTable": {
+        "caption": "Hostinger 全球網站，美元計價；網站代管為 48 個月方案，VPS 為 24 個月方案。使用 SONAR20 的總價，是依購物車的算法，在期間總價上減 20%。",
+        "headers": [
+          "方案與期間",
+          "活動價（每月）",
+          "使用 SONAR20（每月）",
+          "期間總價（活動價）",
+          "期間總價（使用 SONAR20）",
+          "續約價（每月）"
+        ],
+        "rows": [
+          [
+            "Single（全球頁面未列出），48 個月",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—"
+          ],
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)，48 個月",
+            "US$ 1.99",
+            "US$ 1.59",
+            "US$ 95.52",
+            "US$ 76.42",
+            "US$ 10.99"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)，48 個月",
+            "US$ 2.79",
+            "US$ 2.23",
+            "US$ 133.92",
+            "US$ 107.14",
+            "US$ 16.99"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)，48 個月",
+            "US$ 7.99",
+            "US$ 6.39",
+            "US$ 383.52",
+            "US$ 306.82",
+            "US$ 25.99"
+          ],
+          [
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)，24 個月",
+            "US$ 6.49",
+            "US$ 5.19",
+            "US$ 155.76",
+            "US$ 124.61",
+            "US$ 11.99"
+          ],
+          [
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)，24 個月",
+            "US$ 8.79",
+            "US$ 7.03",
+            "US$ 210.96",
+            "US$ 168.77",
+            "US$ 14.99"
+          ],
+          [
+            "[VPS KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)，24 個月",
+            "US$ 12.99",
+            "US$ 10.39",
+            "US$ 311.76",
+            "US$ 249.41",
+            "US$ 28.99"
+          ],
+          [
+            "[VPS KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)，24 個月",
+            "US$ 25.99",
+            "US$ 20.79",
+            "US$ 623.76",
+            "US$ 499.01",
+            "US$ 49.99"
+          ]
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-zh-hant.webp",
+        "alt": "Hostinger 各方案每月價格的長條圖，比較首期與續訂：主機有 Premium、Unlimited、Cloud Startup，VPS 有 KVM 1、2、4、8；每個方案的續訂價都更高",
+        "caption": "每個方案兩根長條：首期與續訂的每月價格。由 Em Casa com Cecília 依 Hostinger 頁面上的價格製作的表格。",
+        "objectFit": "contain",
+        "aspectRatio": 1
+      },
       "postParagraphs": [
-        "折扣是在活動價的基礎上計算的。2026 年 11 月 7 日，在全球網站的購物車中，48 個月的 Startup 方案在優惠碼欄位（「Have a coupon code?」）輸入 SONAR20 後，從 383.52 美元降到 306.82 美元。方案、活動和國家都可能改變總價，請以購物車中的金額為準。",
-        "代碼貼在哪裡，以及為什麼續約沒有折扣，請見 [Hostinger 優惠碼 SONAR20](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
+        "表中價格取自 2026 年 11 月 16 日的全球英文網站，以美元計價。購物車在填寫帳單地址之前，顯示的預估稅額是 0%，所以之後可能還會加上當地稅費。換算成其他貨幣只是估算。使用 SONAR20 的總價，是期間總價減 20%，四捨五入到分。用四捨五入後的每月價格去算，會差幾分錢，和實際扣款對不上。",
+        "我們在不登入的情況下查看了購物車：2026 年 11 月 16 日，24 個月的 KVM 1 在套用優惠碼 SONAR20 後，從 US$ 155.76 降到 US$ 124.61；2026 年 11 月 7 日，48 個月的 Cloud Startup 從 US$ 383.52 降到 US$ 306.82。其他方案的數字，是對頁面顯示的總價做同樣的 20% 計算。付款前購物車就會顯示折扣：請核對你自己的。",
+        "**較短的期間。**KVM 1 使用 SONAR20 後，24 個月是 US$ 124.61（每月 US$ 5.19，續約每月 US$ 11.99），12 個月是 US$ 67.10（每月 US$ 5.59，續約每月 US$ 12.99），1 個月是 US$ 7.99（續約每月 US$ 19.49）。期間越短，每月越貴，續約也越貴。在另一個地區商店的 Premium 購物車裡，同一天，優惠碼在 12、24、48 個月都可以輸入，但在沒有活動價的 1 個月方案被拒絕。如果想按月付款，請先在購物車裡測試優惠碼，再決定要不要指望它。",
+        "**續約。**SONAR20 的 20% 適用於新購買，已經是客戶、購買新方案的人也一樣。已有方案的續約，以及單獨註冊網域，優惠碼都不給折扣。舉例：24 個月的 KVM 1 以相同期間續約，每月 US$ 11.99。完整的續約計算見 [Hostinger 續約與 SONAR20](/zh-hant/reviews/hostinger-renewal-sonar20-zh-hant)。",
+        "代碼貼在哪裡，一步一步的說明見 [Hostinger 優惠碼 SONAR20](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
+      ]
+    },
+    {
+      "heading": "網站代管方案怎麼選：Premium、Unlimited 或 Cloud Startup",
+      "paragraphs": [
+        "選擇取決於你有幾個網站，以及它們是怎麼做的。以下限制取自 Hostinger 的方案頁面與限制文件。"
+      ],
+      "bullets": [
+        "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)：3 個網站、20 GB 儲存空間。Hostinger 自己的 FAQ 為大多數個人、企業與 WordPress 網站推薦這一款。不支援 Node.js 應用程式。",
+        "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)：不限網站數量、50 GB NVMe、每日備份。這是第一個支援 Node.js 應用程式的代管方案：文件列出最多 5 個 Node.js 網站。",
+        "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)：不限網站數量、100 GB NVMe、獨立資源，最多 10 個 Node.js 網站。當流量或專案數已經超出共享代管能承受的範圍時，才需要它。"
+      ],
+      "postParagraphs": [
+        "**Node.js 會改變選擇。**依 Hostinger 的限制文件，Premium 不支援 Node.js 網站。要發布 Next.js 專案的人，從 Unlimited 或 Cloud 方案開始。WordPress 或 PHP 網站，三個方案都可以。",
+        "負責本站的 Bruno 自 2024 年起就是 Hostinger 客戶，有網站代管、VPS KVM 2、電子郵件與網域。Em Casa com Cecília 在 Node.js 上運行，使用的是他 2024 年簽訂的 Business 合約。按現在的方案表，Hostinger 在大多數頁面把舊的 Business 作為 Unlimited 銷售，已經是 Business 客戶的人保留原有方案與限制。也就是說：他的使用經驗適用於現在的 Unlimited 或 Cloud，不適用於 Premium。"
+      ]
+    },
+    {
+      "heading": "VPS 怎麼選：KVM 1、2、4 或 8",
+      "paragraphs": [
+        "VPS 適合需要在面板之外安裝程式、保留 CPU 與記憶體，或需要 root 權限的人。如果三個問題的答案都是「不需要」，共享代管就夠了，而且更便宜：比較請見 [VPS 還是共享代管](/zh-hant/reviews/vps-or-shared-hosting-zh-hant)。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hant.webp",
+          "alt": "「選擇前的三個問題」圖表：在面板之外安裝系統或程式、保留 CPU 與記憶體、需要 root 權限，答案是「要」就選 VPS；三個都答「不要」就選共享代管",
+          "caption": "區分 VPS 與共享代管的三個問題。Em Casa com Cecília 製作的圖表。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
+        {
+          "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-zh-hant.webp",
+          "alt": "三列圖表：模型在伺服器之外（API 金鑰或點數）選 KVM 1；小型本機模型選 KVM 2（在上限邊緣）或 KVM 4；較大上下文的本機模型或同時執行其他程式選 KVM 4 或 KVM 8",
+          "caption": "依 OpenClaw 文件整理；沒有效能測試。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      ],
+      "bullets": [
+        "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)：1 個 vCPU 核心、4 GB RAM、50 GB NVMe。適合個人專案、小型網站或單一應用程式。",
+        "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)：2 個核心、8 GB RAM、100 GB。適合成長中的網站、線上商店，或同時執行幾個應用程式。這是 Bruno 在用的 VPS。",
+        "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)：4 個核心、16 GB RAM、200 GB。適合資料庫、多項服務或高流量。",
+        "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)：8 個核心、32 GB RAM、400 GB。適合代理商，以及需要大量記憶體的應用程式。"
+      ],
+      "postParagraphs": [
+        "**用來跑 OpenClaw。**如果模型在伺服器之外，透過 API 金鑰或點數使用，代理程式本身很輕，KVM 1 就可以作為起點。本機模型就是另一回事了。OpenClaw 文件說，記憶體取決於模型、上下文大小，以及機器上還跑了什麼。文件中記載的本機配置使用 64K 上下文，其中最小的一個要求伺服器至少有 8 GiB 記憶體；較大的要求更多，文件也提醒，這個下限不保證模型放得下，也不保證跑得快。",
+        "用這把尺來看這些方案：KVM 1 只有 4 GB，低於下限。KVM 2 有 8 GB，約 7.5 GiB，剛好在上限邊緣，系統和 Docker 沒有餘裕。KVM 4 與 KVM 8 才能為這個較小的配置留出餘量。KVM 方案跑在 vCPU 上，也沒有列出獨立 GPU，所以大型本機模型不是它們的用途。逐步說明見 [OpenClaw 最適合的 VPS](/zh-hant/reviews/best-vps-for-openclaw-zh-hant)。"
       ]
     },
     {
       "heading": "誰該等，誰不必等",
       "paragraphs": [
-        "如果這週就需要讓網站上線，請比較目前使用 SONAR20 前後的總價，也看續約價格。優惠碼確實會從活動價上減掉一部分，但這不保證到黑色星期五結束前都是最低價。",
+        "如果這週就需要讓網站上線，請比較目前使用 SONAR20 前後的總價，也看續約價格。優惠碼會從活動價上減掉一部分，但這不保證到黑色星期五結束前都是最低價。",
         "如果可以等，要知道活動持續到 12 月中旬，但在那之前沒有任何價格有保證。SONAR20 的 20% 是從活動價中扣除的：活動一變，總價也會跟著變。",
-        "Hostinger FAQ 為大多數個人、企業與 WordPress 網站推薦 Premium。Hostinger 建議剛起步或專案簡單的用戶選 Single。VPS 請在購物車計算總價：11 月 3 日的美元版橫幅顯示 67% 折扣。",
-        "如果你已經是客戶，請查看帳戶裡的升級優惠：FAQ 說現有客戶可能會收到單獨的優惠。SONAR20 也適用於新方案。",
-        "負責本站的 Bruno 自 2024 年起就是 Hostinger 客戶，訂閱已超過 24 個月。他的方案有 Business 代管、VPS KVM 2、電子郵件與網域，全部自動續約。Em Casa com Cecília 就運行在 Hostinger 上。"
+        "如果你已經是客戶，請查看帳戶裡的升級優惠：FAQ 說現有客戶可能會收到單獨的優惠。SONAR20 也適用於新方案。"
       ]
     },
     {
@@ -81,20 +215,24 @@
         "打開[本站商店頁面上的 Hostinger](/zh-hant/coupons/hostinger)，複製代碼 SONAR20。",
         "在購物車的優惠碼欄位貼上 SONAR20，看到 20% 的折扣出現在活動價之上。",
         "比較第一個期間的總價，而不只是每月價格。總價才能顯示真正的差別。",
+        "結帳前先更換購物車裡的期間：不同期間的每月等值價格可能相同，而期間決定續約何時到來。",
         "結帳前先看續約價格。Hostinger 會在付款前顯示，而且它不是活動價。SONAR20 的 20% 適用於每一筆新購買，現有客戶也一樣；續約按定價計算，沒有折扣。"
       ],
       "postParagraphs": [
-        "付款前，保障涵蓋什麼、不涵蓋什麼，請見[Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
+        "付款前，公司的投訴紀錄請見[Hostinger 的 Trustpilot 評價](/zh-hant/reviews/hostinger-trustpilot-reviews-zh-hant)，保障涵蓋什麼、不涵蓋什麼，請見[Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
       ]
     },
     {
       "heading": "常見問題",
       "bullets": [
-        "Hostinger 的黑色星期五什麼時候開始，持續多久？已經開始，持續到 12 月中旬；確切日期在文章開頭的快速回答裡。美元版活動頁面顯示網站代管 85% 折扣、VPS 67% 折扣、Reach 75% 折扣。",
+        "Hostinger 的黑色星期五什麼時候開始，持續多久？已經開始，持續到 12 月中旬；確切日期在文章開頭的快速回答裡。全球頁面顯示網站代管最高 85%、VPS 最高 70% 的折扣。",
         "Hostinger 的黑色星期五有優惠碼嗎？活動價會自動套用，在購物車的優惠碼欄位輸入代碼 SONAR20，可在此基礎上再減 20%。我們不提其他網站的代碼。",
-        "Hostinger 的黑色星期五到什麼時候？根據官方 FAQ，到 12 月中旬；確切日期在文章開頭。",
+        "Hostinger 的黑色星期五要買哪個方案？只做一個小網站，可以看你所在地區的頁面有沒有 Single；最多三個 WordPress 或 PHP 網站，選 Premium；需要 Node.js 或很多網站，選 Unlimited；流量高，選 Cloud Startup。只有在需要 root、面板之外的程式或保留記憶體時才選 VPS。Single 只在有販售它的地區頁面才看得到。",
+        "Hostinger 的 Premium 方案能跑 Node.js 嗎？不能。依 Hostinger 的限制文件，Node.js 網站從 Unlimited 開始，最多 5 個；Cloud 方案最多 10 個。",
+        "Hostinger 的哪款 VPS 適合 OpenClaw？模型透過 API 金鑰使用，選 KVM 1。本機模型的話，OpenClaw 文件記載的最小配置要求 8 GiB 記憶體：KVM 2 剛好在上限邊緣，KVM 4 才有餘裕。",
         "黑色星期五的價格續約時還有效嗎？沒有。它只適用於訂閱的第一個期間。續約按方案的正常價格收費。",
         "SONAR20 能和黑色星期五價格一起用嗎？可以：20% 是從活動價中扣除的。由於價格會變動，請在購物車裡核對總價。",
+        "SONAR20 能用在 1 個月的方案嗎？要看方案。我們 11 月中旬的測試裡，優惠碼可以用在 1 個月的 KVM 1，但在另一個地區商店的 1 個月 Premium 被拒絕。請在你的購物車裡先測試，再付款。",
         "黑色星期五期間退款保障有效嗎？FAQ 說符合條件的方案有 30 天保障，附帶條款與例外。不涵蓋的內容請見[Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。",
         "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
       ]
@@ -113,13 +251,33 @@
   "editorialNote": "Hostinger 代管本站。使用代碼 SONAR20 或透過連結購買，Bruno 可能獲得傭金，你不需要多付任何費用。付款前請在購物車裡核對總價。",
   "relatedArticles": [
     {
+      "slug": "hostinger-referral-code-zh-hant"
+    },
+    {
+      "slug": "hostinger-renewal-sonar20-zh-hant"
+    },
+    {
+      "slug": "vps-or-shared-hosting-zh-hant"
+    },
+    {
+      "slug": "best-vps-for-openclaw-zh-hant"
+    },
+    {
       "slug": "hostinger-trust-guide-zh-hant"
     },
     {
       "slug": "hostinger-trustpilot-reviews-zh-hant"
-    },
-    {
-      "slug": "hostinger-referral-code-zh-hant"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "你要購買新方案，並想用你打算使用的最長期間鎖定活動價。",
+      "你清楚哪個方案適合你的專案：WordPress 選 Premium，Node.js 選 Unlimited 或 Cloud。",
+      "你已經看過續約價格，而且第一個期間結束後，預算仍然負擔得起。"
+    ],
+    "skipIf": [
+      "你只是想續約已有的方案：活動價與 SONAR20 都不適用於續約。",
+      "你打算按月付款：活動的最低價在較長的期間上。"
+    ]
+  }
 }

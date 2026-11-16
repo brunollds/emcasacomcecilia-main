@@ -146686,6 +146686,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/yesstyle/black-friday-yesstyle-abib-sem-retinoide.webp",
+      "local_url": "/images/reviews/yesstyle/black-friday-yesstyle-abib-sem-retinoide.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27872,
+      "sha256": "79926e8391dfbdca44d363241610ccb4dea4c7c977c21baf832585419a4a14c4",
+      "width": 1072,
+      "height": 548,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-yesstyle-abib-sem-retinoide.webp",
+      "storage_filename": "black-friday-yesstyle-abib-sem-retinoide.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-yesstyle.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-yesstyle.json",
+          "line": 322,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-abib-sem-retinoide.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 58063,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-abib-sem-retinoide.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/79926e8391dfbdca44d363241610ccb4dea4c7c977c21baf832585419a4a14c4/black-friday-yesstyle-abib-sem-retinoide.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/79926e8391dfbdca44d363241610ccb4dea4c7c977c21baf832585419a4a14c4/black-friday-yesstyle-abib-sem-retinoide.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T19:43:22.781Z",
+      "verification_etag_or_digest": "79926e8391dfbdca44d363241610ccb4dea4c7c977c21baf832585419a4a14c4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
+      "local_url": "/images/reviews/yesstyle/black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45848,
+      "sha256": "65b72b57f829fbbcff188d9a2810bc3aaccbfa01628e0d3c5d9e78e3660b1845",
+      "width": 1072,
+      "height": 1072,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
+      "storage_filename": "black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-yesstyle.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-yesstyle.json",
+          "line": 424,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 58165,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/65b72b57f829fbbcff188d9a2810bc3aaccbfa01628e0d3c5d9e78e3660b1845/black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/65b72b57f829fbbcff188d9a2810bc3aaccbfa01628e0d3c5d9e78e3660b1845/black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T19:43:22.782Z",
+      "verification_etag_or_digest": "65b72b57f829fbbcff188d9a2810bc3aaccbfa01628e0d3c5d9e78e3660b1845",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
       "local_url": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
       "media_kind": "image",
@@ -147100,6 +147192,98 @@
       "uploaded_at": null,
       "verified_at": "2026-10-11T20:26:35.881Z",
       "verification_etag_or_digest": "acc8bfa0eab2bc36e1a9d5c0d11262ba6a242324c6ea1055aeb5194ab11e1658",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/black-friday-yesstyle-poros-medicube-celimax.webp",
+      "local_url": "/images/reviews/yesstyle/black-friday-yesstyle-poros-medicube-celimax.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24258,
+      "sha256": "76720040add1e1de493e8449dc258be58dd7a7d70aa7a42c4e46f93ffd5719e7",
+      "width": 1072,
+      "height": 1072,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-yesstyle-poros-medicube-celimax.webp",
+      "storage_filename": "black-friday-yesstyle-poros-medicube-celimax.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-yesstyle.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-yesstyle.json",
+          "line": 346,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-poros-medicube-celimax.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 58087,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-poros-medicube-celimax.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/76720040add1e1de493e8449dc258be58dd7a7d70aa7a42c4e46f93ffd5719e7/black-friday-yesstyle-poros-medicube-celimax.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/76720040add1e1de493e8449dc258be58dd7a7d70aa7a42c4e46f93ffd5719e7/black-friday-yesstyle-poros-medicube-celimax.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T19:43:22.782Z",
+      "verification_etag_or_digest": "76720040add1e1de493e8449dc258be58dd7a7d70aa7a42c4e46f93ffd5719e7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
+      "local_url": "/images/reviews/yesstyle/black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41238,
+      "sha256": "527ffe38f262c10e5e5ca53c2d278e55270e62a27ef9da5363ce4485e45ed565",
+      "width": 1072,
+      "height": 1072,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
+      "storage_filename": "black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-yesstyle.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-yesstyle.json",
+          "line": 496,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 58237,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/527ffe38f262c10e5e5ca53c2d278e55270e62a27ef9da5363ce4485e45ed565/black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/527ffe38f262c10e5e5ca53c2d278e55270e62a27ef9da5363ce4485e45ed565/black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T19:43:22.782Z",
+      "verification_etag_or_digest": "527ffe38f262c10e5e5ca53c2d278e55270e62a27ef9da5363ce4485e45ed565",
       "verification_status": "verified"
     },
     {

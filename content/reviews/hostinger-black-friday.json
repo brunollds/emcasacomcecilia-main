@@ -34,7 +34,7 @@
   "metaDescription": "Hostinger Black Friday 2026 has started and runs until December 14. The SONAR20 coupon takes another 20% off the campaign price. Renewal and how to check.",
   "publishedAt": "October 19, 2026",
   "publishedAtISO": "2026-10-19",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-16",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -46,33 +46,168 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Hostinger's Black Friday has already started: it runs from October 19 to December 14, 2026. The campaign price applies automatically, and the code **SONAR20**, entered in the cart's coupon field, takes another 20% off it. What changes the math is the renewal, explained below."
+        "Hostinger's Black Friday has already started: it runs from October 19 to December 14, 2026. The campaign price applies automatically, and the code **SONAR20**, entered in the cart's coupon field, takes another 20% off it on a new purchase. Renewal is charged at the list price, with no discount. Below, the math for each hosting and VPS plan."
       ]
     },
     {
       "heading": "Has Hostinger's Black Friday started?",
       "paragraphs": [
         "It has. Hostinger's official FAQ says: “Hostinger's Black Friday sale runs from October 19 to December 14, 2026.” The global page in English gives the same date.",
-        "On November 3, the campaign page in US$ shows 85% off web hosting, 67% off VPS and 75% off Reach (email marketing). Those are the banner figures, not the discount on every plan.",
-        "The numbers below are for the 2026 campaign only, from the official page."
-      ],
-      "images": []
+        "On November 16, the global campaign page shows up to 85% off web hosting and up to 70% off VPS. Those are banner figures, calculated on each plan's full price: what you actually pay, plan by plan, is in the table below."
+      ]
     },
     {
-      "heading": "What you pay with the campaign and with SONAR20",
+      "heading": "What each plan costs: campaign, SONAR20 and renewal",
+      "paragraphs": [
+        "Hostinger charges the whole period up front and shows the price divided by month. That is why the table has both: the monthly equivalent and the total charged for the initial period, before and after SONAR20. The last column is the renewal, which gets neither the campaign discount nor the code's."
+      ],
+      "comparisonTable": {
+        "caption": "Hostinger's global site, in US dollars. Hosting on the 48-month plan and VPS on the 24-month plan. The total with SONAR20 is the 20% off the period total, as the cart calculates it.",
+        "headers": [
+          "Plan and period",
+          "Monthly in the campaign",
+          "Monthly with SONAR20",
+          "Period total in the campaign",
+          "Total with SONAR20",
+          "Renewal per month"
+        ],
+        "rows": [
+          [
+            "Single (not listed on the global page)",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—"
+          ],
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48 months",
+            "US$ 1.99",
+            "US$ 1.59",
+            "US$ 95.52",
+            "US$ 76.42",
+            "US$ 10.99"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48 months",
+            "US$ 2.79",
+            "US$ 2.23",
+            "US$ 133.92",
+            "US$ 107.14",
+            "US$ 16.99"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48 months",
+            "US$ 7.99",
+            "US$ 6.39",
+            "US$ 383.52",
+            "US$ 306.82",
+            "US$ 25.99"
+          ],
+          [
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 months",
+            "US$ 6.49",
+            "US$ 5.19",
+            "US$ 155.76",
+            "US$ 124.61",
+            "US$ 11.99"
+          ],
+          [
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 months",
+            "US$ 8.79",
+            "US$ 7.03",
+            "US$ 210.96",
+            "US$ 168.77",
+            "US$ 14.99"
+          ],
+          [
+            "[VPS KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 months",
+            "US$ 12.99",
+            "US$ 10.39",
+            "US$ 311.76",
+            "US$ 249.41",
+            "US$ 28.99"
+          ],
+          [
+            "[VPS KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 months",
+            "US$ 25.99",
+            "US$ 20.79",
+            "US$ 623.76",
+            "US$ 499.01",
+            "US$ 49.99"
+          ]
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-en.webp",
+        "alt": "Bar chart with the monthly price of Hostinger plans in the first period and on renewal: Premium, Unlimited and Cloud Startup on hosting, and KVM 1, 2, 4 and 8 on VPS; on every one, renewal costs more",
+        "caption": "Each plan in two bars: the monthly price in the first period and on renewal. Chart by Em Casa com Cecília, from the prices on Hostinger's page.",
+        "objectFit": "contain",
+        "aspectRatio": 1
+      },
       "postParagraphs": [
-        "The discount applies on top of the campaign price. In the cart on the global site, on November 7, 2026, the 48-month Startup plan went from US$ 383.52 to US$ 306.82 with SONAR20 entered in the coupon field (“Have a coupon code?”). Plan, campaign and country can change the total, so check the amount in your cart.",
-        "Where to paste the code and why renewal has no discount are covered in [Hostinger SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
+        "Some regional pages sell a Single plan (1 site, 10 GB). The global page in English did not show it on November 16, 2026, so its row has no prices.",
+        "The prices are from Hostinger's global site in English on November 16, 2026, in US dollars. Before a billing address was entered, the cart showed estimated tax of 0%, so local tax may be added later. Converting to another currency is only an estimate. The total with SONAR20 is the period total minus 20%, rounded to the cent. Working from the rounded monthly price gives a few cents less and does not match the charge.",
+        "We checked in the cart, without logging in, the 24-month KVM 1 on November 16, 2026 (from US$ 155.76 to US$ 124.61, with the coupon SONAR20 applied) and the 48-month Cloud Startup on November 7, 2026 (from US$ 383.52 to US$ 306.82). On the other plans, the column is the same 20% calculation on the total the page shows. The cart shows the discount before payment: check yours.",
+        "**Shorter cycles.** On the KVM 1 with SONAR20, 24 months came to US$ 124.61 (US$ 5.19 per month, renewing at US$ 11.99 per month), 12 months to US$ 67.10 (US$ 5.59 per month, renewing at US$ 12.99 per month) and 1 month to US$ 7.99 (renewing at US$ 19.49 per month). A shorter term costs more per month and renews higher. In a Premium cart on another regional store, on the same day, the code was accepted at 12, 24 and 48 months and rejected on the 1-month plan, which had no campaign price. If you want to pay month by month, test the code in the cart before counting on it.",
+        "**Renewal.** The 20% from SONAR20 applies to a new purchase, also for existing customers who buy a new plan. On the renewal of a plan you already have, and on standalone domain registration, the code gives no discount. The 24-month KVM 1, for example, renews at US$ 11.99 per month for the same period. The full renewal math is in [Hostinger renewal price and SONAR20](/en/reviews/hostinger-renewal-price-coupon-sonar20).",
+        "Where to paste the code, step by step, is in [Hostinger SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
+      ]
+    },
+    {
+      "heading": "Which hosting plan to choose: Premium, Unlimited or Cloud Startup",
+      "paragraphs": [
+        "The choice depends on how many sites you will run and how they are built. The limits below are from Hostinger's plan page and limits documentation."
+      ],
+      "bullets": [
+        "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20): 3 sites and 20 GB of storage. It is what Hostinger's own FAQ recommends for most personal, business and WordPress sites. No Node.js applications.",
+        "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20): unlimited sites, 50 GB of NVMe storage and daily backups. It is the first hosting plan with Node.js applications: the documentation lists up to 5 Node.js sites on it.",
+        "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20): unlimited sites, 100 GB of NVMe storage and dedicated resources, with up to 10 Node.js sites. It comes in when traffic or the number of projects has outgrown what shared hosting holds."
+      ],
+      "postParagraphs": [
+        "**Node.js changes the choice.** According to Hostinger's limits documentation, Premium has no Node.js sites. If you will publish a Next.js project, for example, you start on Unlimited or a Cloud plan. A WordPress or PHP site fits any of them.",
+        "Bruno, who runs this site, has been a Hostinger customer since 2024, with hosting, a VPS KVM 2, email and domains. Em Casa com Cecília runs on Node.js on a Business contract he signed that year. In today's lineup, Hostinger sells the old Business as Unlimited on most pages, and customers who already had Business keep their plan and its limits. In other words: his experience applies to today's Unlimited or Cloud, not to Premium.",
+        "If you are going with WordPress, what each plan includes is in [WordPress on Hostinger](/en/reviews/wordpress-on-hostinger). The free domain for the first year and its price afterwards are in [Hostinger domains: buy, transfer or keep it elsewhere](/en/reviews/hostinger-domain-buy-transfer-or-elsewhere)."
+      ]
+    },
+    {
+      "heading": "Which VPS to choose: KVM 1, 2, 4 or 8",
+      "paragraphs": [
+        "A VPS is for people who need to install software outside the control panel, have CPU and memory reserved, or reach the server as root. If all three answers are “no”, shared hosting does the job and costs less: the comparison is in [VPS or shared hosting](/en/reviews/vps-or-shared-hosting-which-to-choose)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp",
+          "alt": "Chart with three questions: do you need to install a system outside the control panel, do you need reserved CPU and memory, do you need root access; each yes points to VPS, and three noes point to shared hosting",
+          "caption": "The three questions that decide between shared hosting and VPS. Our own chart, based on Hostinger's pages.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
+        {
+          "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-en.webp",
+          "alt": "Chart with three rows: model outside the server (API key or credits) leads to KVM 1; small local model leads to KVM 2, at the limit, or to KVM 4; local model with more context or other programs leads to KVM 4 or KVM 8",
+          "caption": "Based on the OpenClaw documentation; no performance measurement.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      ],
+      "bullets": [
+        "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 1 vCPU core, 4 GB of RAM and 50 GB of NVMe. For a personal project, a small site or a single application.",
+        "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 2 cores, 8 GB of RAM and 100 GB. For growing sites, an online store or a few applications together. It is the VPS Bruno uses.",
+        "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 4 cores, 16 GB of RAM and 200 GB. For a database, several services or heavy traffic.",
+        "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 8 cores, 32 GB of RAM and 400 GB. For agencies and applications that need a lot of memory."
+      ],
+      "postParagraphs": [
+        "**To run OpenClaw.** With the model outside the server, through an API key or credits, the agent itself is light and the KVM 1 already works as a starting point. A local model is a different calculation. OpenClaw's documentation says memory depends on the model, the context size and what else runs on the machine. The local setups it documents use a 64K context, and the smallest of them asks for at least 8 GiB of memory on the host; the larger ones ask for more, and the documentation warns that this floor does not guarantee the model will fit or run fast.",
+        "Reading the plans by that yardstick: the KVM 1, with 4 GB, is below the floor. The KVM 2 has 8 GB, about 7.5 GiB, so it sits at the limit, with no headroom for the system and Docker. The KVM 4 and KVM 8 are the ones that leave margin for that smaller setup. The KVM plans run on vCPU and list no dedicated GPU, so a large local model is not what they are for. The step-by-step is in [Best VPS for OpenClaw](/en/reviews/best-vps-for-openclaw)."
       ]
     },
     {
       "heading": "Who should wait and who shouldn't",
       "paragraphs": [
-        "If you need your site online this week, compare today's total with and without SONAR20, plus the renewal price. The code reduced the campaign price, but that does not guarantee the lowest price through the end of Black Friday.",
+        "If you need your site online this week, compare the total available today, with and without SONAR20, plus the renewal price. The code reduces the campaign price; that does not guarantee the lowest price through the end of Black Friday.",
         "If you can wait, keep in mind that the campaign runs until mid-December, but no price is guaranteed until then. The 20% from SONAR20 comes off the campaign price: if the campaign changes, the total changes with it.",
-        "For most personal, business and WordPress sites, the FAQ itself recommends Premium. Hostinger recommends Single for people just starting out or with simple projects. For VPS, do the math in the cart: the banner shows 67% on November 3.",
-        "If you are already a customer, check the upgrade offers in your account: the FAQ says existing customers may get separate offers. SONAR20 also works for a new plan.",
-        "Bruno, who runs this site, has been a Hostinger customer since 2024, with more than 24 months of subscription. His plans are Business hosting, VPS KVM 2, email and domains, all with automatic renewal. Em Casa com Cecília runs on Hostinger."
+        "If you are already a customer, check the upgrade offers in your account: the FAQ says existing customers may get separate offers. SONAR20 also works for a new plan."
       ]
     },
     {
@@ -81,21 +216,25 @@
         "Open [Hostinger on this site's store page](/en/coupons/hostinger) and copy the code SONAR20.",
         "In the cart, paste SONAR20 into the coupon field and watch the 20% discount appear on top of the campaign price.",
         "Compare the total for the first period, not just the monthly price. The total shows the real difference.",
+        "Change the period in the cart before you check out: the monthly equivalent can be the same across different terms, and the term decides when the renewal arrives.",
         "Check the renewal price before you check out. Hostinger shows it before payment, and it is not the campaign price. The 20% from SONAR20 applies to every new purchase, also for existing customers; renewal is charged at the list price."
       ],
       "postParagraphs": [
-        "Before paying, what the guarantee covers and what it leaves out is in [Is Hostinger reliable?](/en/reviews/is-hostinger-legit)."
+        "Before paying, the company's review record is in [Hostinger on Trustpilot](/en/reviews/hostinger-trustpilot-reviews), and what the guarantee covers and what it leaves out is in [Is Hostinger legit?](/en/reviews/is-hostinger-legit)."
       ]
     },
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "When does Hostinger's Black Friday start and how long does it last? It has already started and runs until mid-December; the exact dates are in the quick answer at the top. The campaign page in US$ shows 85% off web hosting, 67% off VPS and 75% off Reach.",
+        "When does Hostinger's Black Friday start and how long does it last? It has already started and runs until mid-December; the exact dates are in the quick answer at the top. The global page shows up to 85% off web hosting and up to 70% off VPS.",
         "Does Hostinger's Black Friday have a coupon? The campaign price applies automatically, and the code SONAR20, entered in the cart's coupon field, takes another 20% off it. We don't mention codes from other sites.",
-        "When does Hostinger's Black Friday end? In mid-December, according to the official FAQ; the exact date is at the start of the article.",
+        "Which Hostinger plan should I buy on Black Friday? For up to three WordPress or PHP sites, Premium. For Node.js or many sites, Unlimited. For heavy traffic, Cloud Startup. A VPS only if you need root, software outside the panel or reserved memory. Some regional pages also sell a Single plan for one site, which the global page did not list on November 16.",
+        "Does Hostinger's Premium plan run Node.js? No. According to Hostinger's limits documentation, Node.js sites start on Unlimited, with up to 5, and on the Cloud plans, with up to 10.",
+        "Which Hostinger VPS works for OpenClaw? With the model through an API key, the KVM 1. With a local model, the smallest setup OpenClaw documents asks for 8 GiB of memory: the KVM 2 sits at the limit and the KVM 4 gives headroom.",
         "Does the Black Friday price carry over to renewal? No. It applies to the initial period of the subscription. Renewal is charged at the plan's regular price.",
         "Does SONAR20 work together with the Black Friday price? Yes: the 20% comes off the campaign price. Since the price changes, check the total in the cart.",
-        "Does the refund guarantee apply on Black Friday? The FAQ says eligible plans have a 30-day guarantee, with terms and exclusions. What it leaves out is in [Is Hostinger reliable?](/en/reviews/is-hostinger-legit).",
+        "Does SONAR20 work on the 1-month plan? It depends on the plan. In our tests in mid-November, the code went through on the 1-month KVM 1 and was rejected on a 1-month Premium on another regional store. Test it in your cart before you pay.",
+        "Does the refund guarantee apply on Black Friday? The FAQ says eligible plans have a 30-day guarantee, with terms and exclusions. What it leaves out is in [Is Hostinger legit?](/en/reviews/is-hostinger-legit).",
         "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
       ]
     }
@@ -113,13 +252,33 @@
   "editorialNote": "Hostinger hosts this site. Purchases with the code SONAR20 or through the link may earn Bruno a commission, at no extra cost to you. Check the total in the cart before paying.",
   "relatedArticles": [
     {
+      "slug": "hostinger-coupon-code-referral"
+    },
+    {
+      "slug": "hostinger-renewal-price-coupon-sonar20"
+    },
+    {
+      "slug": "vps-or-shared-hosting-which-to-choose"
+    },
+    {
+      "slug": "best-vps-for-openclaw"
+    },
+    {
       "slug": "is-hostinger-legit"
     },
     {
       "slug": "hostinger-trustpilot-reviews"
-    },
-    {
-      "slug": "hostinger-coupon-code-referral"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "You are buying a new plan and want to lock the campaign price for the longest term you plan to use.",
+      "You know which plan fits your project: Premium for WordPress, Unlimited or Cloud for Node.js.",
+      "You have already checked the renewal price and it fits your budget after the first period."
+    ],
+    "skipIf": [
+      "You only want to renew a plan you already have: neither the campaign nor SONAR20 applies to renewal.",
+      "You plan to pay month by month: the lowest campaign prices are on the long terms."
+    ]
+  }
 }
