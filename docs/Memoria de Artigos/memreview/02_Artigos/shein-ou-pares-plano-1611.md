@@ -78,6 +78,8 @@ dos produtos das duas e converte.
   avaliações à vista; na Shopee, de vendedor nacional e de vendedor do exterior quando houver os dois.
 - **O que se lê de cada peça:** preço do dia, frete e imposto para um CEP de São Paulo (01310-100), prazo estimado e
   vendedor.
+- **Fora do PT (SV2 e SV3, decisão do Bruno, 16/11):** peças com link e sem preço; no máximo o percentual de
+  desconto do item.
 - **Categorias que o Bruno acrescentou (16/11):** pijamas, bolsas, sapatos e roupas de academia.
 - **Shopee, 16/11:** com o Bruno logado, a página de busca abriu e foi lida uma vez (camiseta básica feminina, por
   mais vendidos: os três primeiros eram de vendedores do Paraná e de São Paulo, de R$ 18,90 a R$ 23,39 antes do cupom
