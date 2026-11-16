@@ -57761,7 +57761,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday YesStyle 2026: o código de recompensa CECILIA010 dá até 5% extra. A Mega Sale, os cupons da loja por faixa e os dias de 15% sem mínimo.",
     "publishedAt": "11 de outubro de 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/yesstyle/black-friday-yesstyle-capa-v2.webp",
@@ -57776,7 +57776,7 @@ export const reviewsData: unknown[] = [
       "A YesStyle devolve os encargos de alfândega em pedidos elegíveis abaixo de US$ 1.000, em crédito na loja"
     ],
     "cons": [
-      "As datas de fim e os dias de 15% sem valor mínimo de 2026 ainda não saíram: o que vem depois é estimativa pelo histórico",
+      "As datas de fim e os dias de 15% sem valor mínimo para todos os países ainda não saíram: o que vem depois é estimativa pelo histórico",
       "O cupom de faixa da Black Friday é o mesmo do resto do ano",
       "Os cupons são só para membros, valem um por pedido e não descontam o frete",
       "A entrega ao Brasil está suspensa no site e no app"
@@ -57791,7 +57791,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando começa a Black Friday da YesStyle",
         "paragraphs": [
-          "A YesStyle publica as regras de cada cupom na central de ajuda do site, com dia e hora de início e de fim. A tabela abaixo traz as datas de 2025; em 2024, as fases seguiram a mesma ordem e começaram um ou dois dias depois. Em 2026, a campanha já começou: a home da loja traz a \"Black Friday Mega Sale\", com ofertas por produto e banners de até 50% off, e o cupom de faixa do momento (8% acima de US$ 79, 10% acima de US$ 149 e 15% acima de US$ 199), que a loja troca a cada poucos dias: confira o vigente antes de comprar. O fim de um cupom não encerra a campanha. O frete padrão grátis acima de US$ 35 depende do destino: o checkout mostra o seu. As datas de fim e dos dias de 15% sem mínimo de 2026 ainda não saíram."
+          "A YesStyle publica as regras de cada cupom na central de ajuda do site, com dia e hora de início e de fim. A tabela abaixo traz as datas de 2025; em 2024, as fases seguiram a mesma ordem e começaram um ou dois dias depois. Em 2026, a campanha já começou: a home da loja traz a \"Black Friday Mega Sale\", com ofertas por produto e banners de até 50% off, e o cupom de faixa do momento (8% acima de US$ 79, 10% acima de US$ 149 e 15% acima de US$ 199), que a loja troca a cada poucos dias: confira o vigente antes de comprar. O fim de um cupom não encerra a campanha. O frete padrão grátis acima de US$ 35 depende do destino: o checkout mostra o seu. Em meados de novembro, a loja também liberou um cupom de 15% em qualquer pedido, sem valor mínimo, para entregas nos Estados Unidos, no Reino Unido e no Canadá; nos outros destinos, vale o cupom de faixa. As datas de fim da campanha e dos dias de 15% sem mínimo para todos os países ainda não saíram."
         ],
         "comparisonTable": {
           "caption": "Cupons abertos a todos os membros em 2025, pelas páginas de ajuda da YesStyle; cada fase vai até o início da seguinte. Datas no horário GMT, que é o que vale para a loja.",
@@ -57935,18 +57935,34 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A entrega ao Brasil está suspensa no site e no app, então a Black Friday da loja serve a quem recebe em outro país. O que a loja publica, o prazo e o frete de Portugal e a política de reembolso de impostos da alfândega, que vale em pedidos elegíveis abaixo de US$ 1.000, estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal). O reembolso cobre só encargos da alfândega (imposto sobre vendas, IVA e GST ficam de fora) e exige enviar o comprovante de pagamento ao atendimento da YesStyle em até 30 dias da data dele. Se a entrega voltar, o frete e o prazo aparecem no checkout, e o cupom não desconta o frete."
         ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
-          "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
-          "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000.",
-          "objectFit": "contain",
-          "aspectRatio": 3.5907
-        }
+        "image": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
+        "imageAlt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
+        "imageCaption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000.",
+        "imageFit": "contain",
+        "imageAspectRatio": 3.5907
       },
       {
-        "heading": "Uma ideia de carrinho: a rotina da Abib",
+        "heading": "O que comprar: como lemos os preços",
         "paragraphs": [
-          "No vídeo no fim deste artigo, a Cecília testa três produtos da marca coreana Abib que recebeu da YesStyle: o adesivo de hidrogel para os olhos, o creme booster com PDRN e a máscara labial. É uma rotina curta para quem está começando no skincare coreano, e um bom ponto de partida para montar o carrinho da Black Friday."
+          "As próximas seções trazem os produtos que valem o carrinho, marca por marca. Todos os preços foram lidos em meados de novembro na loja em inglês da YesStyle, com entrega para os Estados Unidos, em dólar. É o preço promocional do dia, quase sempre com o selo de oferta relâmpago, antes do cupom da semana e do CECILIA010. O preço muda de um dia para o outro e de um país para outro: o valor que vale é o da sua sacola.",
+          "A YesStyle se declara revendedora autorizada da Abib, da medicube, da celimax, da Centellian24, da Dr. Althea, da Beauty of Joseon e da Dr. Ceuracle na página de cada produto. Nas páginas da Shiseido que abrimos, essa frase não aparece. Os ingredientes citados são os da lista publicada na página de cada produto nessa data; a embalagem que chega é a referência final."
+        ],
+        "links": [
+          {
+            "label": "Ver ofertas da Black Friday na YesStyle",
+            "href": "https://ystyle.co/4RRfd",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom da YesStyle de hoje e o código CECILIA010",
+            "href": "/cupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "A rotina da Abib que a Cecília testou: olhos, rosto e lábios",
+        "paragraphs": [
+          "No vídeo no fim deste artigo, a Cecília testa três produtos da Abib que recebeu da YesStyle. São os únicos desta lista com experiência nossa de uso, contada em [Skincare coreano aos 30: a rotina da Abib](/reviews/skincare-coreano-30-anos-rotina-iniciante-yesstyle). Os três levam PDRN, e dois levam retinal."
         ],
         "images": [
           {
@@ -57954,27 +57970,381 @@ export const reviewsData: unknown[] = [
             "alt": "Cecília sorrindo e segurando o pote do adesivo de hidrogel para os olhos da Abib e um adesivo rosa",
             "caption": "O adesivo de hidrogel para os olhos da Abib, no vídeo da Cecília.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/cn2Z5"
           },
           {
             "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
             "alt": "Cecília segurando a bisnaga branca do creme booster com PDRN da Abib perto do rosto",
             "caption": "O creme booster com PDRN da Abib.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/q5SUZ"
           },
           {
             "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
             "alt": "Cecília fazendo biquinho e segurando o pote rosa da máscara labial da Abib",
             "caption": "A máscara labial da Abib.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/TS7jZ"
           }
+        ],
+        "comparisonTable": {
+          "caption": "Os três produtos da Abib testados pela Cecília, com o preço em dólar na loja dos Estados Unidos, antes do cupom da semana e do CECILIA010.",
+          "headers": [
+            "Produto",
+            "Tamanho",
+            "Preço do dia",
+            "Custo por quantidade",
+            "O que a página declara"
+          ],
+          "rows": [
+            [
+              "[Abib PDRN Retinal Eye Patch Glow Jelly](https://ystyle.co/cn2Z5)",
+              "60 adesivos",
+              "US$ 18,40 (cheio: US$ 23,00)",
+              "US$ 0,31 por adesivo",
+              "PDRN vegetal, retinal, colágeno, niacinamida e cafeína"
+            ],
+            [
+              "[Abib PDRN Volume Fill-it Booster Crème 2.5 Tube](https://ystyle.co/q5SUZ)",
+              "30 ml",
+              "US$ 22,40 (cheio: US$ 28,00)",
+              "US$ 7,47 por 10 ml",
+              "15.000 ppm de PDRN, 10.000 ppm de Volufiline, retinal e peptídeos"
+            ],
+            [
+              "[Abib PDRN Collagen Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ)",
+              "11 g",
+              "US$ 16,00 (cheio: US$ 20,00)",
+              "US$ 1,45 por grama",
+              "PDRN de origem vegetal, colágeno e centella; tem fragrância"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Para os olhos:** o [adesivo de hidrogel](https://ystyle.co/cn2Z5) vem num pote com 60 unidades, o que dá 30 aplicações nos dois olhos. Na nossa leitura, a página o mostrava como o mais vendido da categoria de máscaras para os olhos da loja.",
+          "**Para o rosto:** o [Booster Crème 2.5](https://ystyle.co/q5SUZ) vem em bisnaga de 30 ml. É o item mais caro por mililitro dos três; a página também vende a miniatura de 10 ml, que serve para testar antes da bisnaga cheia.",
+          "**Para os lábios:** a [Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ) vem em pote de 11 g. É a única dos três sem retinal na lista de ingredientes.",
+          "**Cuidado com o retinal:** o adesivo e o creme levam retinal, um retinoide. Use à noite, passe protetor solar de dia e não combine na mesma noite com os discos esfoliantes da próxima seção. Gestantes e lactantes só devem usar retinoide com orientação médica.",
+          "**O kit de dois:** os três têm versão em kit com duas unidades, com desconto maior por unidade. Só compensa para quem já usa o produto."
         ],
         "links": [
           {
+            "label": "Ver o Adesivo de Olhos PDRN da Abib na YesStyle",
+            "href": "https://ystyle.co/cn2Z5",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o Booster Crème 2.5 com PDRN da Abib na YesStyle",
+            "href": "https://ystyle.co/q5SUZ",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Lip Mask Glazed Jelly da Abib na YesStyle",
+            "href": "https://ystyle.co/TS7jZ",
+            "sponsored": true
+          },
+          {
             "label": "Como foi a rotina da Abib, produto por produto",
             "href": "/reviews/skincare-coreano-30-anos-rotina-iniciante-yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Abib sem retinoide: máscara em folha e gel hidratante",
+        "paragraphs": [
+          "Para quem não pode ou não quer usar retinal, a Abib tem dois produtos que a própria loja lista entre os mais vendidos da marca. A lista de ingredientes publicada na página dos dois não traz retinal nem retinol."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-abib-sem-retinoide.webp",
+          "alt": "As cinco versões da máscara em folha Gummy Sheet Mask da Abib, em embalagens pretas, ao lado da bisnaga preta do Hydration Gel Water Tube",
+          "caption": "Gummy Sheet Mask e Hydration Gel Water Tube, da Abib. Fotos de produto: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1.9562
+        },
+        "bullets": [
+          "**Abib Gummy Sheet Mask, versão Madecassoside Sticker:** máscara em folha de 27 g, vendida por unidade, a US$ 3,20 (cheio: US$ 4,90). A página descreve a versão como a que hidrata e acalma. A mesma página vende outras quatro versões: confira se escolheu a Madecassoside antes de pôr na sacola.",
+          "**Abib Hydration Gel Water Tube:** gel hidratante de 75 ml, a US$ 27,30 (cheio: US$ 39,00), ou US$ 3,64 por 10 ml. A página diz que ele não tem fragrância adicionada e deixa acabamento fresco, sem peso."
+        ],
+        "links": [
+          {
+            "label": "Ver seleção da Abib na YesStyle",
+            "href": "https://ystyle.co/fH8cM",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Poros e textura: medicube e celimax",
+        "paragraphs": [
+          "Aqui a decisão é entre dois discos esfoliantes. Os dois são potes de discos embebidos em tônico com ácido, e a diferença está na fórmula e no preço por disco."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-poros-medicube-celimax.webp",
+          "alt": "Quatro produtos em grade: pote azul do Zero Pore Pad e bisnaga do Red Foam Cleanser, da medicube, e pote verde do Heartleaf BHA Peeling Pad e frasco lilás do óleo de limpeza, da celimax",
+          "caption": "Zero Pore Pad e Red Foam Cleanser, da medicube; Heartleaf BHA Peeling Pad e óleo de limpeza Derma Nature, da celimax. Fotos de produto: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Discos e limpeza da medicube e da celimax, com o preço em dólar na loja dos Estados Unidos, antes do cupom da semana e do CECILIA010.",
+          "headers": [
+            "Produto",
+            "Tamanho",
+            "Preço do dia",
+            "Custo por quantidade",
+            "O que a página declara"
+          ],
+          "rows": [
+            [
+              "medicube Zero Pore Pad 2.0",
+              "70 discos",
+              "US$ 21,90 (cheio: US$ 31,00)",
+              "US$ 0,31 por disco",
+              "Ácido lático (AHA), ácido salicílico (BHA), pantenol e centella; tem álcool na fórmula"
+            ],
+            [
+              "medicube Zero Pore Pad Mild",
+              "70 discos (155 g)",
+              "US$ 21,90 (cheio: US$ 31,00)",
+              "US$ 0,31 por disco",
+              "Versão suave do Zero Pore Pad, com ácido salicílico e PHA, segundo a descrição"
+            ],
+            [
+              "celimax JI.WOO.GAE Heartleaf BHA Peeling Pad",
+              "60 discos",
+              "US$ 15,75 (cheio: US$ 21,00)",
+              "US$ 0,26 por disco",
+              "Extrato de houttuynia (heartleaf), salicilato de betaína (BHA), madecassoside e ácido hialurônico"
+            ],
+            [
+              "medicube Red Foam Cleanser",
+              "120 ml",
+              "US$ 17,90 (cheio: US$ 34,00)",
+              "US$ 14,92 por 100 ml",
+              "Espuma de limpeza com 0,5% de ácido salicílico"
+            ],
+            [
+              "celimax Derma Nature Fresh Blackhead Jojoba Cleansing Oil",
+              "150 ml",
+              "US$ 14,25 (cheio: US$ 19,00)",
+              "US$ 9,50 por 100 ml",
+              "Óleo de limpeza com seis óleos vegetais, entre eles o de jojoba"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Quer o disco mais forte:** o Zero Pore Pad 2.0 junta AHA e BHA e era o mais vendido da categoria de esfoliantes da loja na nossa leitura. A própria página recomenda não usar junto com outros ácidos fortes e alternar os dias.",
+          "**Quer começar devagar:** o disco da celimax usa salicilato de betaína, sai mais barato por disco e a página o descreve como suave para uso diário. O Zero Pore Pad Mild é a alternativa dentro da medicube.",
+          "**Limpeza:** o óleo da celimax custa menos por 100 ml que a espuma da medicube. O Red Erasing Cream, creme da mesma linha Red, estava sem estoque no tamanho de 50 ml, com espera de cerca de três semanas.",
+          "**Não some com retinoide:** disco com ácido e produto com retinal na mesma noite é a combinação que mais irrita. Alterne as noites."
+        ],
+        "links": [
+          {
+            "label": "Ver seleção da medicube na YesStyle",
+            "href": "https://ystyle.co/ErjTv",
+            "sponsored": true
+          },
+          {
+            "label": "Ver seleção da celimax na YesStyle",
+            "href": "https://ystyle.co/QJfLB",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Barreira e hidratação: Centellian24 e Dr. Althea",
+        "paragraphs": [
+          "Para pele ressecada ou sensibilizada, os candidatos são os cremes de centella da Centellian24, marca da farmacêutica coreana Dongkook, e os dois cremes mais vendidos da Dr. Althea."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
+          "alt": "Quatro produtos em grade: creme Madeca Cream Time Reverse e essência Madeca Toning Essence Treatment, da Centellian24, e os cremes 345 Relief Cream e 147 Barrier Cream, da Dr. Althea",
+          "caption": "Madeca Cream Time Reverse e Madeca Toning Essence Treatment, da Centellian24; 345 Relief Cream e 147 Barrier Cream, da Dr. Althea. Fotos de produto: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Cremes e essência da Centellian24 e da Dr. Althea, com o preço em dólar na loja dos Estados Unidos, antes do cupom da semana e do CECILIA010.",
+          "headers": [
+            "Produto",
+            "Tamanho",
+            "Preço do dia",
+            "Custo por quantidade",
+            "O que a página declara"
+          ],
+          "rows": [
+            [
+              "Centellian24 Madeca Cream Time Reverse",
+              "50 ml",
+              "US$ 24,00 (cheio: US$ 32,00)",
+              "US$ 4,80 por 10 ml",
+              "TECA (extrato titulado de centella), niacinamida, colágeno e retinol"
+            ],
+            [
+              "Centellian24 Madeca Toning Essence Treatment",
+              "150 ml",
+              "US$ 22,50 (cheio: US$ 30,00)",
+              "US$ 15,00 por 100 ml",
+              "Extrato de centella, 10 ppm de TECA e niacinamida"
+            ],
+            [
+              "Dr. Althea 345 Relief Cream",
+              "50 ml",
+              "US$ 22,95 (cheio: US$ 27,00)",
+              "US$ 4,59 por 10 ml",
+              "Água de folha de tea tree, niacinamida, ácido hialurônico e ceramida NP"
+            ],
+            [
+              "Dr. Althea 147 Barrier Cream",
+              "50 ml",
+              "US$ 22,95 (cheio: US$ 27,00)",
+              "US$ 4,59 por 10 ml",
+              "Esqualano, ácido hialurônico, pantenol e ceramida; sem fragrância artificial"
+            ]
+          ]
+        },
+        "bullets": [
+          "**O mais vendido da loja:** o 345 Relief Cream aparecia em primeiro lugar no ranking geral de beleza da YesStyle na nossa leitura, com mais de 33 mil avaliações. A página o apresenta como creme para depois da acne, que reduz a vermelhidão visível.",
+          "**Para pele seca sem perfume:** o 147 Barrier Cream é o da mesma marca voltado a formar a barreira de hidratação.",
+          "**Madeca Cream tem retinol:** apesar da fama de creme de centella, a fórmula do Time Reverse leva retinol. Vale o mesmo cuidado do retinal da Abib. Na nossa leitura, o pote de 50 ml estava sem estoque, com espera de cerca de três semanas; a miniatura de 15 ml custava US$ 11,25.",
+          "**Passo leve antes do creme:** a Toning Essence Treatment é a opção de centella sem retinoide na lista publicada, em frasco de 150 ml.",
+          "**Minis de 15 ml:** os dois cremes da Dr. Althea têm miniatura a US$ 8,42, útil para testar ou para completar a sacola."
+        ],
+        "links": [
+          {
+            "label": "Ver seleção da Centellian24 na YesStyle",
+            "href": "https://ystyle.co/2UD4F",
+            "sponsored": true
+          },
+          {
+            "label": "Ver seleção da Dr. Althea na YesStyle",
+            "href": "https://ystyle.co/X94R9",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Viço e proteção: Beauty of Joseon, Dr. Ceuracle e Shiseido",
+        "paragraphs": [
+          "O último grupo junta um creme nutritivo, uma ampola de própolis e os japoneses da Shiseido, que entram bem quando falta pouco para a sacola chegar a uma faixa de cupom ou de frete."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
+          "alt": "Quatro produtos em grade: pote aberto do Dynasty Cream da Beauty of Joseon, frasco da ampola Royal Vita Propolis 33 e bisnaga da espuma Tea Tree Purifine, da Dr. Ceuracle, e caixa azul do protetor solar Anessa, da Shiseido",
+          "caption": "Dynasty Cream, da Beauty of Joseon; Royal Vita Propolis 33 Ampoule e Tea Tree Purifine Cleansing Foam, da Dr. Ceuracle; Anessa Perfect UV Sunscreen Skincare Milk, da Shiseido. Fotos de produto: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Produtos da Beauty of Joseon, da Dr. Ceuracle e da Shiseido, com o preço em dólar na loja dos Estados Unidos, antes do cupom da semana e do CECILIA010.",
+          "headers": [
+            "Produto",
+            "Tamanho",
+            "Preço do dia",
+            "Custo por quantidade",
+            "O que a página declara"
+          ],
+          "rows": [
+            [
+              "Beauty of Joseon Dynasty Cream",
+              "50 g",
+              "US$ 19,20 (cheio: US$ 24,00)",
+              "US$ 3,84 por 10 g",
+              "Água de farelo de arroz, água de raiz de ginseng, niacinamida e esqualano"
+            ],
+            [
+              "Beauty of Joseon Dynasty Cream Jumbo",
+              "100 ml",
+              "US$ 27,20 (cheio: US$ 34,00)",
+              "US$ 2,72 por 10 ml",
+              "A mesma fórmula, no pote grande"
+            ],
+            [
+              "Dr. Ceuracle Royal Vita Propolis 33 Ampoule Jumbo",
+              "30 ml",
+              "US$ 23,55 (cheio: US$ 31,40)",
+              "US$ 7,85 por 10 ml",
+              "33,5% de extrato de própolis, extrato de geleia real, niacinamida e pantenol"
+            ],
+            [
+              "Dr. Ceuracle Tea Tree Purifine Cleansing Foam",
+              "150 g",
+              "US$ 15,60 (cheio: US$ 24,00)",
+              "US$ 10,40 por 100 g",
+              "Gel que vira espuma, com 30% de extrato de tea tree"
+            ],
+            [
+              "Shiseido Anessa Perfect UV Sunscreen Skincare Milk",
+              "60 ml",
+              "US$ 15,05 (cheio: US$ 21,50)",
+              "US$ 2,51 por 10 ml",
+              "Protetor solar FPS 50+ PA++++, com filtros minerais e químicos"
+            ],
+            [
+              "Shiseido Fino Premium Touch Hair Mask",
+              "230 g",
+              "US$ 11,62 (cheio: US$ 16,60)",
+              "US$ 5,05 por 100 g",
+              "Máscara de cabelo com geleia real; primeiro lugar em cuidados com o cabelo na loja"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Dynasty Cream, pote de 50 g ou Jumbo:** o Jumbo sai cerca de 30% mais barato por quantidade, mas é o dobro de creme. Só compensa para quem já usa todo dia; para a primeira vez, o pote de 50 g.",
+          "**Ampola de própolis:** é o item de viço da lista, com textura que a página compara à de mel. Entra depois do tônico e antes do creme.",
+          "**Protetor solar:** o Anessa é o que fecha a rotina de quem comprou qualquer produto com retinal ou retinol das seções acima.",
+          "**Para completar a sacola:** a máscara de cabelo Fino e a borracha de reposição do curvex da Shiseido (3 unidades por US$ 3,14) são itens baratos e úteis quando faltam poucos dólares para a faixa. Da linha Benefiance, o Wrinkle Smoothing Cream custava US$ 115,40 e não tinha desconto na nossa leitura."
+        ],
+        "links": [
+          {
+            "label": "Ver seleção da Beauty of Joseon na YesStyle",
+            "href": "https://ystyle.co/1PRZC",
+            "sponsored": true
+          },
+          {
+            "label": "Ver seleção da Dr. Ceuracle na YesStyle",
+            "href": "https://ystyle.co/aQ7Bk",
+            "sponsored": true
+          },
+          {
+            "label": "Ver seleção da Shiseido na YesStyle",
+            "href": "https://ystyle.co/BxprE",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "A conta de um carrinho com o cupom da semana e o CECILIA010",
+        "paragraphs": [
+          "Um exemplo com os preços acima: o adesivo de olhos da Abib (US$ 18,40), o Booster Crème (US$ 22,40), o disco da celimax (US$ 15,75), o 345 Relief Cream (US$ 22,95) e o protetor Anessa (US$ 15,05) somam US$ 94,55. Esse carrinho passa da faixa de US$ 79 do cupom de faixa."
+        ],
+        "bullets": [
+          "**Com o cupom de faixa de 8%:** o cupom, no campo Coupon Code, tira US$ 7,56.",
+          "**Com 15% em qualquer pedido:** o desconto do cupom sobe para US$ 14,18. Em meados de novembro, a loja tinha um cupom assim, sem valor mínimo, para entregas nos Estados Unidos, no Reino Unido e no Canadá.",
+          "**Mais o CECILIA010:** no campo Reward Code, são 5% na primeira compra ou 2% nas seguintes, somados ao cupom. Sobre os US$ 94,55, 5% são US$ 4,73 e 2% são US$ 1,89.",
+          "**A ordem do cálculo é da loja:** não confirmamos se os 5% entram sobre o valor cheio ou sobre o valor já com o cupom. O resumo do pedido mostra as duas linhas de desconto antes do pagamento."
+        ],
+        "postParagraphs": [
+          "**O idioma da página não define o país da entrega.** As faixas de US$ 79, US$ 149 e US$ 199, o frete padrão grátis a partir de US$ 35 e o frete de US$ 6 abaixo disso são o que a loja mostrava para entrega nos Estados Unidos, em dólar. Quem lê em português pode estar em Portugal, e as condições mudam com o destino: a moeda, o mínimo do frete grátis, o cupom do dia, a disponibilidade de envio e as regras de imposto e de reembolso da alfândega. Confira tudo no checkout, com o seu endereço, e nas [regras de entrega da YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732).",
+          "Para o Brasil, a entrega continua suspensa no site e no app. O que a loja publica e as condições para Portugal estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
+        ],
+        "links": [
+          {
+            "label": "Ver ofertas da Black Friday na YesStyle",
+            "href": "https://ystyle.co/4RRfd",
+            "sponsored": true
+          },
+          {
+            "label": "Ir para a YesStyle com o código CECILIA010",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          },
+          {
+            "label": "Passo a passo do código CECILIA010",
+            "href": "/reviews/codigo-cecilia010-yesstyle-como-usar"
           }
         ]
       },
@@ -57983,14 +58353,17 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da YesStyle? Já começou: a home da loja traz a Black Friday Mega Sale e um cupom de faixa. A YesStyle ainda não publicou o fim; em 2024 e 2025, os cupons com o nome Black Friday foram até a Cyber Monday.",
           "Qual é o cupom da YesStyle na Black Friday? Ele muda a cada poucos dias. A página da YesStyle aqui no site mostra o código da semana, com a data.",
-          "O cupom da Black Friday da YesStyle tem valor mínimo? O cupom de faixa tem: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. Em 2024 e 2025, a YesStyle liberou 15% sem valor mínimo nos dias perto da sexta-feira e da Cyber Monday; para 2026, ainda não há anúncio.",
+          "O cupom da Black Friday da YesStyle tem valor mínimo? O cupom de faixa tem: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. Em 2024 e 2025, a YesStyle liberou 15% sem valor mínimo nos dias perto da sexta-feira e da Cyber Monday; em 2026, um cupom de 15% sem mínimo já apareceu em meados de novembro para Estados Unidos, Reino Unido e Canadá, e para os demais países ainda não há anúncio.",
           "Na YesStyle, é melhor comprar na Black Friday ou na Cyber Monday? Em 2024 e 2025, as duas tiveram 15% sem valor mínimo, então o teto do cupom foi o mesmo. O que muda de um dia para o outro é o preço promocional de cada produto.",
           "A YesStyle tem promoção fora da Black Friday? Tem. O cupom de faixa, de 8%, 10% e 15%, roda quase o ano inteiro e muda de nome a cada três ou quatro dias.",
           "O CECILIA010 vale na Black Friday? Vale. Ele vai no campo Reward Code, e as regras dos cupons da Black Friday dizem que eles valem junto com os Rewards Codes.",
           "Dá para usar dois cupons da YesStyle no mesmo pedido? Não: é um cupom por pedido. O código de recompensa é outra coisa e vai em outro campo do checkout.",
           "Preciso ter conta na YesStyle para usar o cupom da Black Friday? Precisa. Os cupons são só para membros, e quem compra como visitante fica sem o desconto.",
           "A YesStyle entrega no Brasil? Não: a entrega ao Brasil está suspensa no site e no app; o que a loja publica está no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
-          "Vou pagar imposto comprando na YesStyle? Onde a loja entrega, pode haver cobrança na chegada do pacote. Em pedidos elegíveis abaixo de US$ 1.000, a YesStyle devolve os encargos de alfândega em crédito na loja, se você mandar o comprovante em até 30 dias da data dele. Imposto sobre vendas, IVA e GST ficam de fora."
+          "Vou pagar imposto comprando na YesStyle? Onde a loja entrega, pode haver cobrança na chegada do pacote. Em pedidos elegíveis abaixo de US$ 1.000, a YesStyle devolve os encargos de alfândega em crédito na loja, se você mandar o comprovante em até 30 dias da data dele. Imposto sobre vendas, IVA e GST ficam de fora.",
+          "O que vale a pena comprar na Black Friday da YesStyle? Depende da rotina. O guia separa por necessidade: os três produtos da Abib que a Cecília testou, os discos esfoliantes da medicube e da celimax, os cremes de barreira da Centellian24 e da Dr. Althea e, para viço e proteção, Beauty of Joseon, Dr. Ceuracle e Shiseido.",
+          "Os preços em dólar deste guia valem para qualquer país? Não. Foram lidos na loja em inglês, com entrega para os Estados Unidos. Moeda, preço, frete grátis e cupom do dia mudam com o destino: o checkout mostra as condições do seu endereço.",
+          "Posso usar o retinal da Abib junto com discos esfoliantes? Na mesma noite, não é uma boa ideia: ácido e retinoide juntos irritam a pele com facilidade. Alterne as noites e use protetor solar de dia."
         ]
       }
     ],
@@ -58013,7 +58386,18 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-e-confiavel"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você recebe num país onde a YesStyle entrega e já sabe que produto falta na sua rotina.",
+        "Seu carrinho passa de uma faixa do cupom, ou você pode esperar um dia de 15% em qualquer pedido.",
+        "Você ainda não usou o CECILIA010: os 5% do Reward Code valem na primeira compra."
+      ],
+      "skipIf": [
+        "Você está no Brasil: a entrega continua suspensa no site e no app.",
+        "Você ia comprar um kit de duas unidades de um produto que nunca usou só pelo desconto."
+      ]
+    }
   },
   {
     "id": 338,
@@ -58036,7 +58420,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Does YesStyle have a Black Friday sale? Yes, it is on: Mega Sale, tiered coupon of 8% to 15% and how to stack the CECILIA010 Reward Code.",
     "publishedAt": "October 11, 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -58052,7 +58436,7 @@ export const reviewsData: unknown[] = [
       "YesStyle refunds customs charges on eligible orders under US$ 1,000, as store credit"
     ],
     "cons": [
-      "The end date and the 15% no-minimum days for 2026 are not out yet: what comes next is an estimate based on past years",
+      "The end date and the 15% no-minimum days for all countries are not out yet: what comes next is an estimate based on past years",
       "The Black Friday tiered coupon is the same as the rest of the year",
       "Coupons are for members only, one per order, and do not discount shipping",
       "International purchase: delivery takes longer than from a local store"
@@ -58067,7 +58451,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "When YesStyle's Black Friday starts",
         "paragraphs": [
-          "YesStyle publishes the rules of each coupon in the site's help center, with the start and end day and time. The table below has the 2025 dates; in 2024, the phases followed the same order and started a day or two later. In 2026 the campaign has already started: on November 3, the store's home page shows the \"Black Friday Mega Sale\", with per-product deals and banners up to 50% off, and the tiered coupon on offer at the time (8% over US$ 79, 10% over US$ 149 and 15% over US$ 199), which the store swaps every few days, so check the current one before you buy. A coupon ending does not mean the campaign has ended. Free standard shipping over US$ 35 depends on the destination: the checkout shows yours. The end date and the 15% no-minimum days for 2026 are not out yet."
+          "YesStyle publishes the rules of each coupon in the site's help center, with the start and end day and time. The table below has the 2025 dates; in 2024, the phases followed the same order and started a day or two later. In 2026 the campaign has already started: on November 3, the store's home page shows the \"Black Friday Mega Sale\", with per-product deals and banners up to 50% off, and the tiered coupon on offer at the time (8% over US$ 79, 10% over US$ 149 and 15% over US$ 199), which the store swaps every few days, so check the current one before you buy. A coupon ending does not mean the campaign has ended. Free standard shipping over US$ 35 depends on the destination: the checkout shows yours. In mid-November, the store also released a 15% coupon on any order, with no minimum, for deliveries to the United States, the United Kingdom and Canada; for other destinations, the tiered coupon applies. The end date of the campaign and the 15% no-minimum days for all countries are not out yet."
         ],
         "comparisonTable": {
           "caption": "Coupons open to all members in 2025, from YesStyle's help pages; each phase runs until the next one begins. Dates are in GMT, which is what counts for the store.",
@@ -58213,9 +58597,27 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "A cart idea: the Abib routine",
+        "heading": "What to buy: how we read the prices",
         "paragraphs": [
-          "In the video at the end of this article, Cecília tests three products from the Korean brand Abib that she received from YesStyle: the hydrogel eye patch, the booster cream with PDRN and the lip mask. It is a short routine for anyone starting out in Korean skincare, and a good starting point for building your Black Friday cart."
+          "The next sections cover the products worth putting in your cart, brand by brand. All prices were read on November 16, 2026, on YesStyle's English-language store, with delivery to the United States, in US dollars. It is the promotional price of the day, almost always with the flash-deal badge, before the coupon of the week and CECILIA010. The price changes from one day to the next and from one country to another: the value that counts is the one in your bag.",
+          "On each product page, YesStyle states it is an authorized reseller of Abib, medicube, celimax, Centellian24, Dr. Althea, Beauty of Joseon and Dr. Ceuracle. On the Shiseido pages we opened, that sentence does not appear. The ingredients mentioned are those in the list published on each product page on that date; the package that arrives is the final reference."
+        ],
+        "links": [
+          {
+            "label": "See Black Friday deals on YesStyle",
+            "href": "https://ystyle.co/4RRfd",
+            "sponsored": true
+          },
+          {
+            "label": "See today's YesStyle coupon and the CECILIA010 code",
+            "href": "/en/coupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "The Abib routine Cecília tested: eyes, face and lips",
+        "paragraphs": [
+          "In the video at the end of this article, Cecília tests three Abib products she received from YesStyle. They are the only ones on this list with our own experience of use, told in [Korean skincare at 30: the Abib routine](/en/reviews/korean-skincare-at-30-beginner-routine-abib-yesstyle). All three contain PDRN, and two contain retinal."
         ],
         "images": [
           {
@@ -58223,27 +58625,380 @@ export const reviewsData: unknown[] = [
             "alt": "Cecília smiling and holding the jar of the Abib hydrogel eye patches and a pink patch",
             "caption": "The Abib hydrogel eye patch, in Cecília's video.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/cn2Z5"
           },
           {
             "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
             "alt": "Cecília holding the white tube of the Abib booster cream with PDRN near her face",
             "caption": "The Abib booster cream with PDRN.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/q5SUZ"
           },
           {
             "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
             "alt": "Cecília pouting and holding the pink jar of the Abib lip mask",
             "caption": "The Abib lip mask.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/TS7jZ"
           }
+        ],
+        "comparisonTable": {
+          "caption": "The three Abib products Cecília tested, with the dollar price on the US store, before the coupon of the week and CECILIA010.",
+          "headers": [
+            "Product",
+            "Size",
+            "Price of the day",
+            "Cost per amount",
+            "What the page states"
+          ],
+          "rows": [
+            [
+              "[Abib PDRN Retinal Eye Patch Glow Jelly](https://ystyle.co/cn2Z5)",
+              "60 patches",
+              "US$ 18.40 (full: US$ 23.00)",
+              "US$ 0.31 per patch",
+              "Plant-based PDRN, retinal, collagen, niacinamide and caffeine"
+            ],
+            [
+              "[Abib PDRN Volume Fill-it Booster Crème 2.5 Tube](https://ystyle.co/q5SUZ)",
+              "30 ml",
+              "US$ 22.40 (full: US$ 28.00)",
+              "US$ 7.47 per 10 ml",
+              "15,000 ppm of PDRN, 10,000 ppm of Volufiline, retinal and peptides"
+            ],
+            [
+              "[Abib PDRN Collagen Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ)",
+              "11 g",
+              "US$ 16.00 (full: US$ 20.00)",
+              "US$ 1.45 per gram",
+              "Plant-derived PDRN, collagen and centella; contains fragrance"
+            ]
+          ]
+        },
+        "bullets": [
+          "**For the eyes:** the [hydrogel patch](https://ystyle.co/cn2Z5) comes in a jar of 60 patches, which makes 30 uses for both eyes. In our reading, the page showed it as the best seller in the store's eye mask category.",
+          "**For the face:** the [Booster Crème 2.5](https://ystyle.co/q5SUZ) comes in a 30 ml tube. It is the most expensive per milliliter of the three; the page also sells a 10 ml mini, which works for trying it before the full tube.",
+          "**For the lips:** the [Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ) comes in an 11 g jar. It is the only one of the three without retinal in its ingredient list.",
+          "**Careful with retinal:** the patch and the cream contain retinal, a retinoid. Use it at night, wear sunscreen by day and do not combine it on the same night with the exfoliating pads in the next section. Pregnant and breastfeeding women should use a retinoid only with medical guidance.",
+          "**The two-pack:** all three come in a two-unit set with a bigger discount per unit. It only pays off if you already use the product."
         ],
         "links": [
           {
+            "label": "See the Abib PDRN Eye Patch on YesStyle",
+            "href": "https://ystyle.co/cn2Z5",
+            "sponsored": true
+          },
+          {
+            "label": "See the Abib PDRN Booster Crème 2.5 on YesStyle",
+            "href": "https://ystyle.co/q5SUZ",
+            "sponsored": true
+          },
+          {
+            "label": "See the Abib Lip Mask Glazed Jelly on YesStyle",
+            "href": "https://ystyle.co/TS7jZ",
+            "sponsored": true
+          },
+          {
             "label": "How the Abib routine went, product by product",
             "href": "/en/reviews/korean-skincare-at-30-beginner-routine-abib-yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Abib without retinoid: sheet mask and hydrating gel",
+        "paragraphs": [
+          "For anyone who cannot or does not want to use retinal, Abib has two products the store itself lists among the brand's best sellers. The ingredient list published on both pages contains neither retinal nor retinol."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-abib-sem-retinoide.webp",
+          "alt": "The five versions of the Abib Gummy Sheet Mask, in black packaging, beside the black tube of the Hydration Gel Water Tube",
+          "caption": "Gummy Sheet Mask and Hydration Gel Water Tube, by Abib. Product photos: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1.9562
+        },
+        "bullets": [
+          "**Abib Gummy Sheet Mask, Madecassoside Sticker version:** a 27 g sheet mask, sold individually, at US$ 3.20 (full: US$ 4.90). The page describes this version as the one that hydrates and soothes. The same page sells four other versions: check that you picked Madecassoside before putting it in the bag.",
+          "**Abib Hydration Gel Water Tube:** a 75 ml hydrating gel, at US$ 27.30 (full: US$ 39.00), or US$ 3.64 per 10 ml. The page says it has no added fragrance and leaves a fresh, lightweight finish."
+        ],
+        "links": [
+          {
+            "label": "See the Abib selection on YesStyle",
+            "href": "https://ystyle.co/fH8cM",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Pores and texture: medicube and celimax",
+        "paragraphs": [
+          "Here the decision is between two exfoliating pad jars. Both are jars of pads soaked in an acid toner, and the difference is in the formula and the price per pad."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-poros-medicube-celimax.webp",
+          "alt": "Four products in a grid: the blue jar of the Zero Pore Pad and the tube of the Red Foam Cleanser, by medicube, and the green jar of the Heartleaf BHA Peeling Pad and the lilac bottle of the cleansing oil, by celimax",
+          "caption": "Zero Pore Pad and Red Foam Cleanser, by medicube; Heartleaf BHA Peeling Pad and Derma Nature cleansing oil, by celimax. Product photos: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Pads and cleansers from medicube and celimax, with the dollar price on the US store, before the coupon of the week and CECILIA010.",
+          "headers": [
+            "Product",
+            "Size",
+            "Price of the day",
+            "Cost per amount",
+            "What the page states"
+          ],
+          "rows": [
+            [
+              "medicube Zero Pore Pad 2.0",
+              "70 pads",
+              "US$ 21.90 (full: US$ 31.00)",
+              "US$ 0.31 per pad",
+              "Lactic acid (AHA), salicylic acid (BHA), panthenol and centella; contains alcohol"
+            ],
+            [
+              "medicube Zero Pore Pad Mild",
+              "70 pads (155 g)",
+              "US$ 21.90 (full: US$ 31.00)",
+              "US$ 0.31 per pad",
+              "Gentler version of the Zero Pore Pad, with salicylic acid and PHA, according to the description"
+            ],
+            [
+              "celimax JI.WOO.GAE Heartleaf BHA Peeling Pad",
+              "60 pads",
+              "US$ 15.75 (full: US$ 21.00)",
+              "US$ 0.26 per pad",
+              "Houttuynia (heartleaf) extract, betaine salicylate (BHA), madecassoside and hyaluronic acid"
+            ],
+            [
+              "medicube Red Foam Cleanser",
+              "120 ml",
+              "US$ 17.90 (full: US$ 34.00)",
+              "US$ 14.92 per 100 ml",
+              "Foaming cleanser with 0.5% salicylic acid"
+            ],
+            [
+              "celimax Derma Nature Fresh Blackhead Jojoba Cleansing Oil",
+              "150 ml",
+              "US$ 14.25 (full: US$ 19.00)",
+              "US$ 9.50 per 100 ml",
+              "Cleansing oil with six plant oils, jojoba among them"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Want the stronger pad:** the Zero Pore Pad 2.0 combines AHA and BHA and was the best seller in the store's exfoliator category in our reading. The page itself advises against using it with other strong acids and suggests alternating days.",
+          "**Want to start slowly:** the celimax pad uses betaine salicylate, costs less per pad and the page describes it as gentle for daily use. The Zero Pore Pad Mild is the alternative within medicube.",
+          "**Cleansing:** the celimax oil costs less per 100 ml than the medicube foam. The Red Erasing Cream, a cream from the same Red line, was out of stock in the 50 ml size, with a wait of about three weeks.",
+          "**Do not stack with a retinoid:** an acid pad and a retinal product on the same night is the combination that irritates the most. Alternate nights."
+        ],
+        "links": [
+          {
+            "label": "See the medicube selection on YesStyle",
+            "href": "https://ystyle.co/ErjTv",
+            "sponsored": true
+          },
+          {
+            "label": "See the celimax selection on YesStyle",
+            "href": "https://ystyle.co/QJfLB",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Barrier and hydration: Centellian24 and Dr. Althea",
+        "paragraphs": [
+          "For dry or sensitized skin, the candidates are the centella creams from Centellian24, a brand of the Korean pharmaceutical company Dongkook, and the two best-selling creams from Dr. Althea."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
+          "alt": "Four products in a grid: the Madeca Cream Time Reverse and the Madeca Toning Essence Treatment, by Centellian24, and the 345 Relief Cream and 147 Barrier Cream, by Dr. Althea",
+          "caption": "Madeca Cream Time Reverse and Madeca Toning Essence Treatment, by Centellian24; 345 Relief Cream and 147 Barrier Cream, by Dr. Althea. Product photos: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Creams and essence from Centellian24 and Dr. Althea, with the dollar price on the US store, before the coupon of the week and CECILIA010.",
+          "headers": [
+            "Product",
+            "Size",
+            "Price of the day",
+            "Cost per amount",
+            "What the page states"
+          ],
+          "rows": [
+            [
+              "Centellian24 Madeca Cream Time Reverse",
+              "50 ml",
+              "US$ 24.00 (full: US$ 32.00)",
+              "US$ 4.80 per 10 ml",
+              "TECA (titrated centella extract), niacinamide, collagen and retinol"
+            ],
+            [
+              "Centellian24 Madeca Toning Essence Treatment",
+              "150 ml",
+              "US$ 22.50 (full: US$ 30.00)",
+              "US$ 15.00 per 100 ml",
+              "Centella extract, 10 ppm of TECA and niacinamide"
+            ],
+            [
+              "Dr. Althea 345 Relief Cream",
+              "50 ml",
+              "US$ 22.95 (full: US$ 27.00)",
+              "US$ 4.59 per 10 ml",
+              "Tea tree leaf water, niacinamide, hyaluronic acid and ceramide NP"
+            ],
+            [
+              "Dr. Althea 147 Barrier Cream",
+              "50 ml",
+              "US$ 22.95 (full: US$ 27.00)",
+              "US$ 4.59 per 10 ml",
+              "Squalane, hyaluronic acid, panthenol and ceramide; no artificial fragrance"
+            ]
+          ]
+        },
+        "bullets": [
+          "**The store's best seller:** the 345 Relief Cream ranked first in YesStyle's overall beauty ranking in our reading, with more than 33,000 reviews. The page presents it as a cream for after acne that reduces visible redness.",
+          "**For dry skin, fragrance-free:** the 147 Barrier Cream is the one from the same brand aimed at building the hydration barrier.",
+          "**Madeca Cream has retinol:** despite its reputation as a centella cream, the Time Reverse formula contains retinol. The same care as with Abib's retinal applies. In our reading, the 50 ml jar was out of stock, with a wait of about three weeks; the 15 ml mini cost US$ 11.25.",
+          "**A light step before the cream:** the Toning Essence Treatment is the centella option without a retinoid in the published list, in a 150 ml bottle.",
+          "**15 ml minis:** both Dr. Althea creams have a mini at US$ 8.42, useful for testing or for rounding out the bag."
+        ],
+        "links": [
+          {
+            "label": "See the Centellian24 selection on YesStyle",
+            "href": "https://ystyle.co/2UD4F",
+            "sponsored": true
+          },
+          {
+            "label": "See the Dr. Althea selection on YesStyle",
+            "href": "https://ystyle.co/X94R9",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Glow and protection: Beauty of Joseon, Dr. Ceuracle and Shiseido",
+        "paragraphs": [
+          "The last group brings together a nourishing cream, a propolis ampoule and the Japanese Shiseido items, which fit well when the bag is a little short of a coupon tier or a shipping threshold."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
+          "alt": "Four products in a grid: the open jar of the Beauty of Joseon Dynasty Cream, the bottle of the Royal Vita Propolis 33 ampoule and the tube of the Tea Tree Purifine foam, by Dr. Ceuracle, and the blue box of the Anessa sunscreen, by Shiseido",
+          "caption": "Dynasty Cream, by Beauty of Joseon; Royal Vita Propolis 33 Ampoule and Tea Tree Purifine Cleansing Foam, by Dr. Ceuracle; Anessa Perfect UV Sunscreen Skincare Milk, by Shiseido. Product photos: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Products from Beauty of Joseon, Dr. Ceuracle and Shiseido, with the dollar price on the US store, before the coupon of the week and CECILIA010.",
+          "headers": [
+            "Product",
+            "Size",
+            "Price of the day",
+            "Cost per amount",
+            "What the page states"
+          ],
+          "rows": [
+            [
+              "Beauty of Joseon Dynasty Cream",
+              "50 g",
+              "US$ 19.20 (full: US$ 24.00)",
+              "US$ 3.84 per 10 g",
+              "Rice bran water, ginseng root water, niacinamide and squalane"
+            ],
+            [
+              "Beauty of Joseon Dynasty Cream Jumbo",
+              "100 ml",
+              "US$ 27.20 (full: US$ 34.00)",
+              "US$ 2.72 per 10 ml",
+              "The same formula, in the large jar"
+            ],
+            [
+              "Dr. Ceuracle Royal Vita Propolis 33 Ampoule Jumbo",
+              "30 ml",
+              "US$ 23.55 (full: US$ 31.40)",
+              "US$ 7.85 per 10 ml",
+              "33.5% propolis extract, royal jelly extract, niacinamide and panthenol"
+            ],
+            [
+              "Dr. Ceuracle Tea Tree Purifine Cleansing Foam",
+              "150 g",
+              "US$ 15.60 (full: US$ 24.00)",
+              "US$ 10.40 per 100 g",
+              "Gel that turns into foam, with 30% tea tree extract"
+            ],
+            [
+              "Shiseido Anessa Perfect UV Sunscreen Skincare Milk",
+              "60 ml",
+              "US$ 15.05 (full: US$ 21.50)",
+              "US$ 2.51 per 10 ml",
+              "SPF 50+ PA++++ sunscreen, with mineral and chemical filters"
+            ],
+            [
+              "Shiseido Fino Premium Touch Hair Mask",
+              "230 g",
+              "US$ 11.62 (full: US$ 16.60)",
+              "US$ 5.05 per 100 g",
+              "Hair mask with royal jelly; first place in hair care in the store"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Dynasty Cream, 50 g jar or Jumbo:** the Jumbo comes out about 30% cheaper per amount, but it is twice the cream. It only pays off if you already use it every day; for the first time, the 50 g jar.",
+          "**Propolis ampoule:** it is the glow item on the list, with a texture the page compares to honey. It goes after the toner and before the cream.",
+          "**Sunscreen:** the Anessa is the one that closes the routine of anyone who bought a product with retinal or retinol from the sections above.",
+          "**To round out the bag:** the Fino hair mask and the replacement rubber for Shiseido's eyelash curler (3 units for US$ 3.14) are cheap, useful items when you are a few dollars short of a tier. From the Benefiance line, the Wrinkle Smoothing Cream cost US$ 115.40 and had no discount in our reading."
+        ],
+        "links": [
+          {
+            "label": "See the Beauty of Joseon selection on YesStyle",
+            "href": "https://ystyle.co/1PRZC",
+            "sponsored": true
+          },
+          {
+            "label": "See the Dr. Ceuracle selection on YesStyle",
+            "href": "https://ystyle.co/aQ7Bk",
+            "sponsored": true
+          },
+          {
+            "label": "See the Shiseido selection on YesStyle",
+            "href": "https://ystyle.co/BxprE",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "The math of one cart with the coupon of the week and CECILIA010",
+        "paragraphs": [
+          "An example with the prices above: the Abib eye patch (US$ 18.40), the Booster Crème (US$ 22.40), the celimax pad (US$ 15.75), the 345 Relief Cream (US$ 22.95) and the Anessa sunscreen (US$ 15.05) add up to US$ 94.55. That cart clears the US$ 79 tier of the tiered coupon."
+        ],
+        "bullets": [
+          "**With the 8% tiered coupon:** the coupon, in the Coupon Code field, takes off US$ 7.56.",
+          "**With 15% on any order:** the coupon discount rises to US$ 14.18. In mid-November, the store had a coupon like that, with no minimum, for deliveries to the United States, the United Kingdom and Canada.",
+          "**Plus CECILIA010:** in the Reward Code field, it is 5% on the first order or 2% on later ones, added to the coupon. On the US$ 94.55, 5% is US$ 4.73 and 2% is US$ 1.89.",
+          "**The order of the calculation is the store's:** we did not confirm whether the 5% applies to the full amount or to the amount already reduced by the coupon. The order summary shows both discount lines before you pay."
+        ],
+        "postParagraphs": [
+          "**The language of the page does not set the delivery country.** The US$ 79, US$ 149 and US$ 199 tiers, free standard shipping from US$ 35 and the US$ 6 shipping below that are what the store showed for delivery to the United States, in dollars. Whether you read in English from the United Kingdom, Canada, Australia or anywhere else, the conditions change with the destination: the currency, the free-shipping minimum, the coupon of the day, shipping availability and the customs tax and refund rules. Check everything at checkout, with your address, and in [YesStyle's delivery rules](https://www.yesstyle.com/en/help/section.html/hsi.732). What the store publishes by country is in the [YesStyle delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia)."
+        ],
+        "links": [
+          {
+            "label": "See Black Friday deals on YesStyle",
+            "href": "https://ystyle.co/4RRfd",
+            "sponsored": true
+          },
+          {
+            "label": "Go to YesStyle with the code CECILIA010",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          },
+          {
+            "label": "Step-by-step guide to the CECILIA010 code",
+            "href": "/en/reviews/yesstyle-reward-code-coupon-cecilia010"
           }
         ]
       },
@@ -58252,13 +59007,16 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "When does YesStyle's Black Friday start and how long does it last? It has already started: the store's home page has the Black Friday Mega Sale and a tiered coupon. YesStyle has not published the end yet; in 2024 and 2025, the coupons named Black Friday ran until Cyber Monday.",
           "What is the YesStyle coupon on Black Friday? It changes every few days. The YesStyle page here on the site shows this week's code, with the date.",
-          "Does the YesStyle Black Friday coupon have a minimum order value? The tiered coupon does: 8% from US$ 79, 10% from US$ 149 and 15% from US$ 199. In 2024 and 2025, YesStyle opened 15% with no minimum on the days around Friday and Cyber Monday; nothing is announced for 2026 yet.",
+          "Does the YesStyle Black Friday coupon have a minimum order value? The tiered coupon does: 8% from US$ 79, 10% from US$ 149 and 15% from US$ 199. In 2024 and 2025, YesStyle opened 15% with no minimum on the days around Friday and Cyber Monday; in 2026, a 15% coupon with no minimum already appeared in mid-November for the United States, the United Kingdom and Canada, and for other countries nothing is announced yet.",
           "Is it better to buy on Black Friday or Cyber Monday at YesStyle? In 2024 and 2025, both had 15% with no minimum, so the coupon cap was the same. What changes from one day to the next is the promotional price of each product.",
           "Does YesStyle have promotions outside Black Friday? Yes. The tiered coupon, with 8%, 10% and 15%, runs almost all year and changes its name every few days.",
           "Does CECILIA010 work on Black Friday? Yes. It goes in the Reward Code field, and the Black Friday coupon rules say the coupons are valid together with Reward Codes.",
           "Can I use two YesStyle coupons on the same order? No: it is one coupon per order. The Reward Code is a different thing and goes in another checkout field.",
           "Do I need a YesStyle account to use the Black Friday coupon? Yes. The coupons are for members only, and guest checkouts get no discount.",
-          "Will I pay tax when buying from YesStyle? There may be a charge when the package arrives. On eligible orders under US$ 1,000, YesStyle refunds the customs charges as store credit, if you send the receipt within 30 days of its date. Sales tax, VAT and GST are not covered."
+          "Will I pay tax when buying from YesStyle? There may be a charge when the package arrives. On eligible orders under US$ 1,000, YesStyle refunds the customs charges as store credit, if you send the receipt within 30 days of its date. Sales tax, VAT and GST are not covered.",
+          "What is worth buying on YesStyle's Black Friday? It depends on your routine. The guide sorts picks by need: the three Abib products Cecília tested, the exfoliating pads from medicube and celimax, the barrier creams from Centellian24 and Dr. Althea and, for glow and protection, Beauty of Joseon, Dr. Ceuracle and Shiseido.",
+          "Do the dollar prices in this guide apply to every country? No. They were read on the English-language store, with delivery to the United States. Currency, price, free shipping and the coupon of the day change with the destination: the checkout shows the conditions for your address.",
+          "Can I use Abib retinal together with exfoliating pads? On the same night, it is not a good idea: acid and retinoid together easily irritate the skin. Alternate nights and wear sunscreen by day."
         ]
       }
     ],
@@ -58281,7 +59039,18 @@ export const reviewsData: unknown[] = [
       {
         "slug": "is-yesstyle-legit-and-safe-review"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "You get your orders in a country where YesStyle delivers and already know which product is missing from your routine.",
+        "Your cart clears a coupon tier, or you can wait for a 15% day on any order.",
+        "You have not used CECILIA010 yet: the 5% from the Reward Code applies to the first order."
+      ],
+      "skipIf": [
+        "Your country is not on YesStyle's delivery list: check before building the cart.",
+        "You were going to buy a two-pack of a product you have never used just for the discount."
+      ]
+    }
   },
   {
     "id": 339,
@@ -58304,7 +59073,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "El Black Friday de YesStyle 2026 ya empezó: Mega Sale, cupón de 8% a 15% por tramos, días de 15% sin mínimo y cómo sumar el código CECILIA010.",
     "publishedAt": "11 de octubre de 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -58320,7 +59089,7 @@ export const reviewsData: unknown[] = [
       "YesStyle devuelve los cargos de aduana en pedidos elegibles de menos de US$ 1.000, como crédito en la tienda"
     ],
     "cons": [
-      "La fecha de fin y los días de 15% sin mínimo de 2026 aún no han salido: lo que viene después es una estimación según el historial",
+      "Las fechas de fin y los días de 15% sin compra mínima para todos los países aún no han salido: lo que viene después es una estimación según el historial",
       "El cupón por tramos del Black Friday es el mismo del resto del año",
       "Los cupones son solo para miembros, valen uno por pedido y no descuentan el envío",
       "Compra internacional: el plazo de entrega es mayor que el de una tienda local"
@@ -58335,7 +59104,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cuándo empieza el Black Friday de YesStyle",
         "paragraphs": [
-          "YesStyle publica las reglas de cada cupón en el centro de ayuda del sitio, con día y hora de inicio y de fin. La tabla de abajo trae las fechas de 2025; en 2024, las fases siguieron el mismo orden y empezaron uno o dos días después. En 2026 la campaña ya empezó: el 3 de noviembre, la página principal de la tienda trae la \"Black Friday Mega Sale\", con ofertas por producto y banners de hasta 50% de descuento, y el cupón por tramos de ese momento (8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199), que la tienda cambia cada pocos días: revisa el vigente antes de comprar. Que un cupón termine no significa que la campaña haya terminado. El envío estándar gratis desde US$ 35 depende del destino: el checkout muestra el tuyo. La fecha de fin y los días de 15% sin mínimo de 2026 aún no han salido."
+          "YesStyle publica las reglas de cada cupón en el centro de ayuda del sitio, con día y hora de inicio y de fin. La tabla de abajo trae las fechas de 2025; en 2024, las fases siguieron el mismo orden y empezaron uno o dos días después. En 2026 la campaña ya empezó: el 3 de noviembre, la página principal de la tienda trae la \"Black Friday Mega Sale\", con ofertas por producto y banners de hasta 50% de descuento, y el cupón por tramos de ese momento (8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199), que la tienda cambia cada pocos días: revisa el vigente antes de comprar. Que un cupón termine no significa que la campaña haya terminado. El envío estándar gratis desde US$ 35 depende del destino: el checkout muestra el tuyo. A mediados de noviembre, la tienda también habilitó un cupón de 15% en cualquier pedido, sin compra mínima, para envíos a Estados Unidos, Reino Unido y Canadá; en los demás destinos, vale el cupón por tramos. Las fechas de fin de la campaña y de los días de 15% sin mínimo para todos los países aún no han salido."
         ],
         "comparisonTable": {
           "caption": "Cupones abiertos a todos los miembros en 2025, según las páginas de ayuda de YesStyle; cada fase dura hasta el inicio de la siguiente. Fechas en horario GMT, que es el que vale para la tienda.",
@@ -58481,9 +59250,27 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Una idea de carrito: la rutina de Abib",
+        "heading": "Qué comprar: cómo leemos los precios",
         "paragraphs": [
-          "En el vídeo al final de este artículo, Cecília prueba tres productos de la marca coreana Abib que recibió de YesStyle: el parche de hidrogel para los ojos, la crema booster con PDRN y la mascarilla de labios. Es una rutina corta para quien empieza en el skincare coreano, y un buen punto de partida para armar el carrito del Black Friday."
+          "Las próximas secciones traen los productos que valen el carrito, marca por marca. Todos los precios se leyeron el 16 de noviembre de 2026 en la tienda en inglés de YesStyle, con envío a Estados Unidos, en dólares. Es el precio promocional del día, casi siempre con el sello de oferta relámpago, antes del cupón de la semana y de CECILIA010. El precio cambia de un día a otro y de un país a otro: el valor que cuenta es el de tu bolsa.",
+          "YesStyle se declara revendedora autorizada de Abib, medicube, celimax, Centellian24, Dr. Althea, Beauty of Joseon y Dr. Ceuracle en la página de cada producto. En las páginas de Shiseido que abrimos, esa frase no aparece. Los ingredientes citados son los de la lista publicada en la página de cada producto en esa fecha; el envase que llega es la referencia final."
+        ],
+        "links": [
+          {
+            "label": "Ver ofertas de Black Friday en YesStyle",
+            "href": "https://ystyle.co/4RRfd",
+            "sponsored": true
+          },
+          {
+            "label": "Ver el cupón de YesStyle de hoy y el código CECILIA010",
+            "href": "/es/coupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "La rutina de Abib que Cecília probó: ojos, rostro y labios",
+        "paragraphs": [
+          "En el vídeo al final de este artículo, Cecília prueba tres productos de Abib que recibió de YesStyle. Son los únicos de esta lista con experiencia de uso nuestra, contada en [Skincare coreano a los 30: la rutina de Abib](/es/reviews/skincare-coreano-a-los-30-rutina-principiante-abib-yesstyle). Los tres llevan PDRN, y dos llevan retinal."
         ],
         "images": [
           {
@@ -58491,27 +59278,380 @@ export const reviewsData: unknown[] = [
             "alt": "Cecília sonriendo y sosteniendo el bote del parche de hidrogel para los ojos de Abib y un parche rosa",
             "caption": "El parche de hidrogel para los ojos de Abib, en el vídeo de Cecília.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/cn2Z5"
           },
           {
             "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
             "alt": "Cecília sosteniendo cerca del rostro el tubo blanco de la crema booster con PDRN de Abib",
             "caption": "La crema booster con PDRN de Abib.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/q5SUZ"
           },
           {
             "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
             "alt": "Cecília haciendo un puchero y sosteniendo el bote rosa de la mascarilla de labios de Abib",
             "caption": "La mascarilla de labios de Abib.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/TS7jZ"
           }
+        ],
+        "comparisonTable": {
+          "caption": "Los tres productos de Abib probados por Cecília, con el precio en dólares en la tienda de Estados Unidos, antes del cupón de la semana y de CECILIA010.",
+          "headers": [
+            "Producto",
+            "Tamaño",
+            "Precio del día",
+            "Coste por cantidad",
+            "Lo que declara la página"
+          ],
+          "rows": [
+            [
+              "[Abib PDRN Retinal Eye Patch Glow Jelly](https://ystyle.co/cn2Z5)",
+              "60 parches",
+              "US$ 18,40 (precio de lista: US$ 23,00)",
+              "US$ 0,31 por parche",
+              "PDRN vegetal, retinal, colágeno, niacinamida y cafeína"
+            ],
+            [
+              "[Abib PDRN Volume Fill-it Booster Crème 2.5 Tube](https://ystyle.co/q5SUZ)",
+              "30 ml",
+              "US$ 22,40 (precio de lista: US$ 28,00)",
+              "US$ 7,47 por 10 ml",
+              "15.000 ppm de PDRN, 10.000 ppm de Volufiline, retinal y péptidos"
+            ],
+            [
+              "[Abib PDRN Collagen Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ)",
+              "11 g",
+              "US$ 16,00 (precio de lista: US$ 20,00)",
+              "US$ 1,45 por gramo",
+              "PDRN de origen vegetal, colágeno y centella; tiene fragancia"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Para los ojos:** el [parche de hidrogel](https://ystyle.co/cn2Z5) viene en un bote con 60 unidades, que dan 30 aplicaciones en los dos ojos. En nuestra lectura, la página lo mostraba como el más vendido de la categoría de mascarillas para los ojos de la tienda.",
+          "**Para el rostro:** el [Booster Crème 2.5](https://ystyle.co/q5SUZ) viene en tubo de 30 ml. Es el más caro por mililitro de los tres; la página también vende la miniatura de 10 ml, que sirve para probar antes del tubo completo.",
+          "**Para los labios:** la [Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ) viene en bote de 11 g. Es la única de los tres sin retinal en la lista de ingredientes.",
+          "**Cuidado con el retinal:** el parche y la crema llevan retinal, un retinoide. Úsalos de noche, aplica protector solar de día y no los combines en la misma noche con los discos exfoliantes de la próxima sección. Las embarazadas y las mujeres en período de lactancia solo deben usar retinoides con orientación médica.",
+          "**El kit de dos:** los tres tienen versión en kit con dos unidades, con mayor descuento por unidad. Solo compensa a quien ya usa el producto."
         ],
         "links": [
           {
+            "label": "Ver el Parche de Ojos PDRN de Abib en YesStyle",
+            "href": "https://ystyle.co/cn2Z5",
+            "sponsored": true
+          },
+          {
+            "label": "Ver el Booster Crème 2.5 con PDRN de Abib en YesStyle",
+            "href": "https://ystyle.co/q5SUZ",
+            "sponsored": true
+          },
+          {
+            "label": "Ver la Lip Mask Glazed Jelly de Abib en YesStyle",
+            "href": "https://ystyle.co/TS7jZ",
+            "sponsored": true
+          },
+          {
             "label": "Cómo fue la rutina de Abib, producto por producto",
             "href": "/es/reviews/skincare-coreano-a-los-30-rutina-principiante-abib-yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Abib sin retinoide: mascarilla de tela y gel hidratante",
+        "paragraphs": [
+          "Para quien no puede o no quiere usar retinal, Abib tiene dos productos que la propia tienda lista entre los más vendidos de la marca. La lista de ingredientes publicada en la página de los dos no trae retinal ni retinol."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-abib-sem-retinoide.webp",
+          "alt": "Las cinco versiones de la mascarilla de tela Gummy Sheet Mask de Abib, en envases negros, junto al tubo negro del Hydration Gel Water Tube",
+          "caption": "Gummy Sheet Mask y Hydration Gel Water Tube, de Abib. Fotos de producto: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1.9562
+        },
+        "bullets": [
+          "**Abib Gummy Sheet Mask, versión Madecassoside Sticker:** mascarilla de tela de 27 g, vendida por unidad, a US$ 3,20 (precio de lista: US$ 4,90). La página describe la versión como la que hidrata y calma. La misma página vende otras cuatro versiones: comprueba que elegiste la Madecassoside antes de ponerla en la bolsa.",
+          "**Abib Hydration Gel Water Tube:** gel hidratante de 75 ml, a US$ 27,30 (precio de lista: US$ 39,00), o US$ 3,64 por 10 ml. La página dice que no tiene fragancia añadida y deja un acabado fresco, sin peso."
+        ],
+        "links": [
+          {
+            "label": "Ver la selección de Abib en YesStyle",
+            "href": "https://ystyle.co/fH8cM",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Poros y textura: medicube y celimax",
+        "paragraphs": [
+          "Aquí la decisión es entre dos discos exfoliantes. Los dos son botes de discos empapados en tónico con ácido, y la diferencia está en la fórmula y en el precio por disco."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-poros-medicube-celimax.webp",
+          "alt": "Cuatro productos en cuadrícula: bote azul del Zero Pore Pad y tubo del Red Foam Cleanser, de medicube, y bote verde del Heartleaf BHA Peeling Pad y frasco lila del aceite limpiador, de celimax",
+          "caption": "Zero Pore Pad y Red Foam Cleanser, de medicube; Heartleaf BHA Peeling Pad y aceite limpiador Derma Nature, de celimax. Fotos de producto: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Discos y limpieza de medicube y celimax, con el precio en dólares en la tienda de Estados Unidos, antes del cupón de la semana y de CECILIA010.",
+          "headers": [
+            "Producto",
+            "Tamaño",
+            "Precio del día",
+            "Coste por cantidad",
+            "Lo que declara la página"
+          ],
+          "rows": [
+            [
+              "medicube Zero Pore Pad 2.0",
+              "70 discos",
+              "US$ 21,90 (precio de lista: US$ 31,00)",
+              "US$ 0,31 por disco",
+              "Ácido láctico (AHA), ácido salicílico (BHA), pantenol y centella; lleva alcohol en la fórmula"
+            ],
+            [
+              "medicube Zero Pore Pad Mild",
+              "70 discos (155 g)",
+              "US$ 21,90 (precio de lista: US$ 31,00)",
+              "US$ 0,31 por disco",
+              "Versión suave del Zero Pore Pad, con ácido salicílico y PHA, según la descripción"
+            ],
+            [
+              "celimax JI.WOO.GAE Heartleaf BHA Peeling Pad",
+              "60 discos",
+              "US$ 15,75 (precio de lista: US$ 21,00)",
+              "US$ 0,26 por disco",
+              "Extracto de houttuynia (heartleaf), salicilato de betaína (BHA), madecassoside y ácido hialurónico"
+            ],
+            [
+              "medicube Red Foam Cleanser",
+              "120 ml",
+              "US$ 17,90 (precio de lista: US$ 34,00)",
+              "US$ 14,92 por 100 ml",
+              "Espuma limpiadora con 0,5% de ácido salicílico"
+            ],
+            [
+              "celimax Derma Nature Fresh Blackhead Jojoba Cleansing Oil",
+              "150 ml",
+              "US$ 14,25 (precio de lista: US$ 19,00)",
+              "US$ 9,50 por 100 ml",
+              "Aceite limpiador con seis aceites vegetales, entre ellos el de jojoba"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Si quieres el disco más fuerte:** el Zero Pore Pad 2.0 reúne AHA y BHA y era el más vendido de la categoría de exfoliantes de la tienda en nuestra lectura. La propia página recomienda no usarlo junto con otros ácidos fuertes y alternar los días.",
+          "**Si quieres empezar despacio:** el disco de celimax usa salicilato de betaína, sale más barato por disco y la página lo describe como suave para el uso diario. El Zero Pore Pad Mild es la alternativa dentro de medicube.",
+          "**Limpieza:** el aceite de celimax cuesta menos por 100 ml que la espuma de medicube. El Red Erasing Cream, la crema de la misma línea Red, estaba agotado en el tamaño de 50 ml, con una espera de unas tres semanas.",
+          "**No lo sumes a un retinoide:** disco con ácido y producto con retinal en la misma noche es la combinación que más irrita. Alterna las noches."
+        ],
+        "links": [
+          {
+            "label": "Ver la selección de medicube en YesStyle",
+            "href": "https://ystyle.co/ErjTv",
+            "sponsored": true
+          },
+          {
+            "label": "Ver la selección de celimax en YesStyle",
+            "href": "https://ystyle.co/QJfLB",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Barrera e hidratación: Centellian24 y Dr. Althea",
+        "paragraphs": [
+          "Para piel reseca o sensibilizada, los candidatos son las cremas de centella de Centellian24, marca de la farmacéutica coreana Dongkook, y las dos cremas más vendidas de Dr. Althea."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
+          "alt": "Cuatro productos en cuadrícula: crema Madeca Cream Time Reverse y esencia Madeca Toning Essence Treatment, de Centellian24, y las cremas 345 Relief Cream y 147 Barrier Cream, de Dr. Althea",
+          "caption": "Madeca Cream Time Reverse y Madeca Toning Essence Treatment, de Centellian24; 345 Relief Cream y 147 Barrier Cream, de Dr. Althea. Fotos de producto: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Cremas y esencia de Centellian24 y Dr. Althea, con el precio en dólares en la tienda de Estados Unidos, antes del cupón de la semana y de CECILIA010.",
+          "headers": [
+            "Producto",
+            "Tamaño",
+            "Precio del día",
+            "Coste por cantidad",
+            "Lo que declara la página"
+          ],
+          "rows": [
+            [
+              "Centellian24 Madeca Cream Time Reverse",
+              "50 ml",
+              "US$ 24,00 (precio de lista: US$ 32,00)",
+              "US$ 4,80 por 10 ml",
+              "TECA (extracto titulado de centella), niacinamida, colágeno y retinol"
+            ],
+            [
+              "Centellian24 Madeca Toning Essence Treatment",
+              "150 ml",
+              "US$ 22,50 (precio de lista: US$ 30,00)",
+              "US$ 15,00 por 100 ml",
+              "Extracto de centella, 10 ppm de TECA y niacinamida"
+            ],
+            [
+              "Dr. Althea 345 Relief Cream",
+              "50 ml",
+              "US$ 22,95 (precio de lista: US$ 27,00)",
+              "US$ 4,59 por 10 ml",
+              "Agua de hoja de árbol de té, niacinamida, ácido hialurónico y ceramida NP"
+            ],
+            [
+              "Dr. Althea 147 Barrier Cream",
+              "50 ml",
+              "US$ 22,95 (precio de lista: US$ 27,00)",
+              "US$ 4,59 por 10 ml",
+              "Escualano, ácido hialurónico, pantenol y ceramida; sin fragancia artificial"
+            ]
+          ]
+        },
+        "bullets": [
+          "**El más vendido de la tienda:** el 345 Relief Cream aparecía en primer lugar en el ranking general de belleza de YesStyle en nuestra lectura, con más de 33 mil valoraciones. La página lo presenta como crema para después del acné, que reduce el enrojecimiento visible.",
+          "**Para piel seca sin perfume:** el 147 Barrier Cream es el de la misma marca orientado a formar la barrera de hidratación.",
+          "**La Madeca Cream tiene retinol:** pese a la fama de crema de centella, la fórmula del Time Reverse lleva retinol. Vale el mismo cuidado que con el retinal de Abib. En nuestra lectura, el bote de 50 ml estaba agotado, con una espera de unas tres semanas; la miniatura de 15 ml costaba US$ 11,25.",
+          "**Un paso ligero antes de la crema:** la Toning Essence Treatment es la opción de centella sin retinoide en la lista publicada, en frasco de 150 ml.",
+          "**Minis de 15 ml:** las dos cremas de Dr. Althea tienen miniatura a US$ 8,42, útil para probar o para completar la bolsa."
+        ],
+        "links": [
+          {
+            "label": "Ver la selección de Centellian24 en YesStyle",
+            "href": "https://ystyle.co/2UD4F",
+            "sponsored": true
+          },
+          {
+            "label": "Ver la selección de Dr. Althea en YesStyle",
+            "href": "https://ystyle.co/X94R9",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Luminosidad y protección: Beauty of Joseon, Dr. Ceuracle y Shiseido",
+        "paragraphs": [
+          "El último grupo reúne una crema nutritiva, una ampolla de propóleo y los japoneses de Shiseido, que vienen bien cuando falta poco para que la bolsa llegue a un tramo de cupón o de envío."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
+          "alt": "Cuatro productos en cuadrícula: bote abierto del Dynasty Cream de Beauty of Joseon, frasco de la ampolla Royal Vita Propolis 33 y tubo de la espuma Tea Tree Purifine, de Dr. Ceuracle, y caja azul del protector solar Anessa, de Shiseido",
+          "caption": "Dynasty Cream, de Beauty of Joseon; Royal Vita Propolis 33 Ampoule y Tea Tree Purifine Cleansing Foam, de Dr. Ceuracle; Anessa Perfect UV Sunscreen Skincare Milk, de Shiseido. Fotos de producto: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Productos de Beauty of Joseon, Dr. Ceuracle y Shiseido, con el precio en dólares en la tienda de Estados Unidos, antes del cupón de la semana y de CECILIA010.",
+          "headers": [
+            "Producto",
+            "Tamaño",
+            "Precio del día",
+            "Coste por cantidad",
+            "Lo que declara la página"
+          ],
+          "rows": [
+            [
+              "Beauty of Joseon Dynasty Cream",
+              "50 g",
+              "US$ 19,20 (precio de lista: US$ 24,00)",
+              "US$ 3,84 por 10 g",
+              "Agua de salvado de arroz, agua de raíz de ginseng, niacinamida y escualano"
+            ],
+            [
+              "Beauty of Joseon Dynasty Cream Jumbo",
+              "100 ml",
+              "US$ 27,20 (precio de lista: US$ 34,00)",
+              "US$ 2,72 por 10 ml",
+              "La misma fórmula, en el bote grande"
+            ],
+            [
+              "Dr. Ceuracle Royal Vita Propolis 33 Ampoule Jumbo",
+              "30 ml",
+              "US$ 23,55 (precio de lista: US$ 31,40)",
+              "US$ 7,85 por 10 ml",
+              "33,5% de extracto de propóleo, extracto de jalea real, niacinamida y pantenol"
+            ],
+            [
+              "Dr. Ceuracle Tea Tree Purifine Cleansing Foam",
+              "150 g",
+              "US$ 15,60 (precio de lista: US$ 24,00)",
+              "US$ 10,40 por 100 g",
+              "Gel que se vuelve espuma, con 30% de extracto de árbol de té"
+            ],
+            [
+              "Shiseido Anessa Perfect UV Sunscreen Skincare Milk",
+              "60 ml",
+              "US$ 15,05 (precio de lista: US$ 21,50)",
+              "US$ 2,51 por 10 ml",
+              "Protector solar FPS 50+ PA++++, con filtros minerales y químicos"
+            ],
+            [
+              "Shiseido Fino Premium Touch Hair Mask",
+              "230 g",
+              "US$ 11,62 (precio de lista: US$ 16,60)",
+              "US$ 5,05 por 100 g",
+              "Mascarilla capilar con jalea real; primer puesto en cuidado del cabello en la tienda"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Dynasty Cream, bote de 50 g o Jumbo:** el Jumbo sale un 30% más barato por cantidad aproximadamente, pero es el doble de crema. Solo compensa a quien ya la usa todos los días; para la primera vez, el bote de 50 g.",
+          "**Ampolla de propóleo:** es el producto de luminosidad de la lista, con una textura que la página compara con la de la miel. Entra después del tónico y antes de la crema.",
+          "**Protector solar:** el Anessa es el que cierra la rutina de quien compró cualquier producto con retinal o retinol de las secciones anteriores.",
+          "**Para completar la bolsa:** la mascarilla capilar Fino y el recambio de goma del curvex de Shiseido (3 unidades por US$ 3,14) son productos baratos y útiles cuando faltan pocos dólares para el tramo. De la línea Benefiance, el Wrinkle Smoothing Cream costaba US$ 115,40 y no tenía descuento en nuestra lectura."
+        ],
+        "links": [
+          {
+            "label": "Ver la selección de Beauty of Joseon en YesStyle",
+            "href": "https://ystyle.co/1PRZC",
+            "sponsored": true
+          },
+          {
+            "label": "Ver la selección de Dr. Ceuracle en YesStyle",
+            "href": "https://ystyle.co/aQ7Bk",
+            "sponsored": true
+          },
+          {
+            "label": "Ver la selección de Shiseido en YesStyle",
+            "href": "https://ystyle.co/BxprE",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "La cuenta de un carrito con el cupón de la semana y CECILIA010",
+        "paragraphs": [
+          "Un ejemplo con los precios de arriba: el parche de ojos de Abib (US$ 18,40), el Booster Crème (US$ 22,40), el disco de celimax (US$ 15,75), el 345 Relief Cream (US$ 22,95) y el protector Anessa (US$ 15,05) suman US$ 94,55. Ese carrito supera el tramo de US$ 79 del cupón por tramos."
+        ],
+        "bullets": [
+          "**Con el cupón por tramos de 8%:** el cupón, en el campo Coupon Code, quita US$ 7,56.",
+          "**Con 15% en cualquier pedido:** el descuento del cupón sube a US$ 14,18. A mediados de noviembre, la tienda tenía un cupón así, sin compra mínima, para envíos a Estados Unidos, Reino Unido y Canadá.",
+          "**Más CECILIA010:** en el campo Reward Code, son 5% en la primera compra o 2% en las siguientes, sumados al cupón. Sobre los US$ 94,55, el 5% son US$ 4,73 y el 2% son US$ 1,89.",
+          "**El orden del cálculo lo define la tienda:** no confirmamos si el 5% se aplica sobre el valor completo o sobre el valor ya con el cupón. El resumen del pedido muestra las dos líneas de descuento antes del pago."
+        ],
+        "postParagraphs": [
+          "**El idioma de la página no define el país de entrega.** Los tramos de US$ 79, US$ 149 y US$ 199, el envío estándar gratis desde US$ 35 y el envío de US$ 6 por debajo de ese importe son lo que la tienda mostraba para envíos a Estados Unidos, en dólares. Quien lee en español puede estar en España, México, Chile o Estados Unidos, y las condiciones cambian según el destino: la moneda, el mínimo del envío gratis, el cupón del día, la disponibilidad de envío y las reglas de impuestos y de reembolso de la aduana. Comprueba todo en el checkout, con tu dirección, y en las [reglas de envío de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732). Lo que la tienda publica y las condiciones para España, México, Chile, Perú, Argentina y Colombia están en la [guía de envíos de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia)."
+        ],
+        "links": [
+          {
+            "label": "Ver ofertas de Black Friday en YesStyle",
+            "href": "https://ystyle.co/4RRfd",
+            "sponsored": true
+          },
+          {
+            "label": "Ir a YesStyle con el código CECILIA010",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          },
+          {
+            "label": "Paso a paso del código CECILIA010",
+            "href": "/es/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010"
           }
         ]
       },
@@ -58520,13 +59660,16 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "¿Cuándo empieza y cuánto dura el Black Friday de YesStyle? Ya empezó: la página principal de la tienda trae la Black Friday Mega Sale y un cupón por tramos. YesStyle aún no ha publicado el fin; en 2024 y 2025, los cupones con el nombre Black Friday duraron hasta el Cyber Monday.",
           "¿Cuál es el cupón de YesStyle en el Black Friday? Cambia cada pocos días. La página de YesStyle de este sitio muestra el código de la semana, con la fecha.",
-          "¿El cupón del Black Friday de YesStyle tiene compra mínima? El cupón por tramos sí: 8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199. En 2024 y 2025, YesStyle abrió 15% sin compra mínima en los días cercanos al viernes y al Cyber Monday; para 2026 aún no hay nada anunciado.",
+          "¿El cupón del Black Friday de YesStyle tiene compra mínima? El cupón por tramos sí: 8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199. En 2024 y 2025, YesStyle abrió 15% sin compra mínima en los días cercanos al viernes y al Cyber Monday; en 2026, un cupón de 15% sin mínimo ya apareció a mediados de noviembre para Estados Unidos, Reino Unido y Canadá, y para los demás países aún no hay anuncio.",
           "¿En YesStyle es mejor comprar en el Black Friday o en el Cyber Monday? En 2024 y 2025, los dos tuvieron 15% sin compra mínima, así que el tope del cupón fue el mismo. Lo que cambia de un día a otro es el precio promocional de cada producto.",
           "¿YesStyle tiene promociones fuera del Black Friday? Sí. El cupón por tramos, de 8%, 10% y 15%, funciona casi todo el año y cambia de nombre cada pocos días.",
           "¿CECILIA010 vale en el Black Friday? Sí. Va en el campo Reward Code, y las reglas de los cupones del Black Friday dicen que valen junto con los Reward Codes.",
           "¿Se pueden usar dos cupones de YesStyle en el mismo pedido? No: es un cupón por pedido. El código de recompensa es otra cosa y va en otro campo del checkout.",
           "¿Necesito una cuenta en YesStyle para usar el cupón del Black Friday? Sí. Los cupones son solo para miembros, y quien compra como invitado se queda sin el descuento.",
-          "¿Pagaré impuestos comprando en YesStyle? Puede haber un cobro cuando llegue el paquete. En pedidos elegibles de menos de US$ 1.000, YesStyle devuelve los cargos de aduana como crédito en la tienda, si envías el comprobante en un plazo de 30 días desde su fecha. El impuesto sobre las ventas, el IVA y el GST no están cubiertos."
+          "¿Pagaré impuestos comprando en YesStyle? Puede haber un cobro cuando llegue el paquete. En pedidos elegibles de menos de US$ 1.000, YesStyle devuelve los cargos de aduana como crédito en la tienda, si envías el comprobante en un plazo de 30 días desde su fecha. El impuesto sobre las ventas, el IVA y el GST no están cubiertos.",
+          "¿Qué vale la pena comprar en el Black Friday de YesStyle? Depende de tu rutina. La guía separa por necesidad: los tres productos de Abib que Cecília probó, los discos exfoliantes de medicube y celimax, las cremas de barrera de Centellian24 y Dr. Althea y, para luminosidad y protección, Beauty of Joseon, Dr. Ceuracle y Shiseido.",
+          "¿Los precios en dólares de esta guía valen para cualquier país? No. Se leyeron en la tienda en inglés, con envío a Estados Unidos. La moneda, el precio, el envío gratis y el cupón del día cambian según el destino: el checkout muestra las condiciones de tu dirección.",
+          "¿Puedo usar el retinal de Abib junto con discos exfoliantes? En la misma noche, no es buena idea: ácido y retinoide juntos irritan la piel con facilidad. Alterna las noches y usa protector solar de día."
         ]
       }
     ],
@@ -58549,7 +59692,18 @@ export const reviewsData: unknown[] = [
       {
         "slug": "es-yesstyle-de-fiar-y-seguro"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Recibes en un país donde YesStyle envía y ya sabes qué producto falta en tu rutina.",
+        "Tu carrito supera un tramo del cupón, o puedes esperar un día de 15% en cualquier pedido.",
+        "Todavía no usaste CECILIA010: el 5% del Reward Code vale en la primera compra."
+      ],
+      "skipIf": [
+        "Tu país no está en la lista de envío de YesStyle: compruébalo antes de armar el carrito.",
+        "Ibas a comprar un kit de dos unidades de un producto que nunca usaste solo por el descuento."
+      ]
+    }
   },
   {
     "id": 340,
@@ -58572,7 +59726,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle a-t-il un Black Friday ? Oui, il est en cours : Mega Sale, coupon par palier de 8 à 15 % et cumul avec le code récompense CECILIA010.",
     "publishedAt": "11 octobre 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -58588,7 +59742,7 @@ export const reviewsData: unknown[] = [
       "YesStyle rembourse les frais de douane sur les commandes éligibles de moins de 1 000 US$, sous forme de crédit en boutique"
     ],
     "cons": [
-      "La date de fin et les jours à 15 % sans minimum de 2026 ne sont pas encore sortis : la suite est une estimation d'après l'historique",
+      "Les dates de fin et les jours à 15 % sans montant minimum pour tous les pays ne sont pas encore sortis : la suite est une estimation d'après l'historique",
       "Le coupon par palier du Black Friday est le même que le reste de l'année",
       "Les coupons sont réservés aux membres, valables un par commande, et ne réduisent pas les frais de port",
       "Achat international : le délai de livraison est plus long que celui d'une boutique locale"
@@ -58603,7 +59757,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quand commence le Black Friday de YesStyle",
         "paragraphs": [
-          "YesStyle publie les règles de chaque coupon dans le centre d'aide du site, avec le jour et l'heure de début et de fin. Le tableau ci-dessous donne les dates de 2025 ; en 2024, les phases ont suivi le même ordre et ont commencé un ou deux jours plus tard. En 2026, la campagne a déjà commencé : le 3 novembre, la page d'accueil de la boutique affiche la « Black Friday Mega Sale », avec des offres par produit et des bannières jusqu'à 50 % de remise, et le coupon par palier du moment (8 % dès 79 US$, 10 % dès 149 US$ et 15 % dès 199 US$), que la boutique change tous les quelques jours : vérifiez celui en cours avant d'acheter. La fin d'un coupon ne signifie pas la fin de la campagne. La livraison standard gratuite dès 35 US$ dépend de la destination : la page de paiement affiche la vôtre. La date de fin et les jours à 15 % sans minimum de 2026 ne sont pas encore sortis."
+          "YesStyle publie les règles de chaque coupon dans le centre d'aide du site, avec le jour et l'heure de début et de fin. Le tableau ci-dessous donne les dates de 2025 ; en 2024, les phases ont suivi le même ordre et ont commencé un ou deux jours plus tard. En 2026, la campagne a déjà commencé : le 3 novembre, la page d'accueil de la boutique affiche la « Black Friday Mega Sale », avec des offres par produit et des bannières jusqu'à 50 % de remise, et le coupon par palier du moment (8 % dès 79 US$, 10 % dès 149 US$ et 15 % dès 199 US$), que la boutique change tous les quelques jours : vérifiez celui en cours avant d'acheter. La fin d'un coupon ne signifie pas la fin de la campagne. La livraison standard gratuite dès 35 US$ dépend de la destination : la page de paiement affiche la vôtre. À la mi-novembre, la boutique a aussi ouvert un coupon de 15 % sur toute commande, sans montant minimum, pour les livraisons aux États-Unis, au Royaume-Uni et au Canada ; pour les autres destinations, le coupon par palier reste valable. Les dates de fin de la campagne et des jours à 15 % sans minimum pour tous les pays ne sont pas encore sorties."
         ],
         "comparisonTable": {
           "caption": "Coupons ouverts à tous les membres en 2025, d'après les pages d'aide de YesStyle ; chaque phase dure jusqu'au début de la suivante. Dates en heure GMT, qui est celle qui compte pour la boutique.",
@@ -58749,9 +59903,27 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Une idée de panier : la routine Abib",
+        "heading": "Quoi acheter : comment nous lisons les prix",
         "paragraphs": [
-          "Dans la vidéo à la fin de cet article, Cecília teste trois produits de la marque coréenne Abib reçus de YesStyle : le patch hydrogel pour les yeux, la crème booster au PDRN et le masque pour les lèvres. C'est une routine courte pour qui débute dans le skincare coréen, et un bon point de départ pour composer le panier du Black Friday."
+          "Les prochaines sections présentent les produits qui valent le panier, marque par marque. Tous les prix ont été lus le 16 novembre 2026 sur la boutique en anglais de YesStyle, avec livraison aux États-Unis, en dollars. C'est le prix promotionnel du jour, presque toujours avec l'étiquette de vente flash, avant le coupon de la semaine et CECILIA010. Le prix change d'un jour à l'autre et d'un pays à l'autre : la valeur qui compte est celle de votre panier.",
+          "YesStyle se déclare revendeur agréé d'Abib, de medicube, de celimax, de Centellian24, de Dr. Althea, de Beauty of Joseon et de Dr. Ceuracle sur la page de chaque produit. Sur les pages Shiseido que nous avons ouvertes, cette phrase n'apparaît pas. Les ingrédients cités sont ceux de la liste publiée sur la page de chaque produit à cette date ; l'emballage reçu fait foi."
+        ],
+        "links": [
+          {
+            "label": "Voir les offres Black Friday sur YesStyle",
+            "href": "https://ystyle.co/4RRfd",
+            "sponsored": true
+          },
+          {
+            "label": "Voir le coupon YesStyle du jour et le code CECILIA010",
+            "href": "/fr/coupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "La routine Abib que Cecília a testée : yeux, visage et lèvres",
+        "paragraphs": [
+          "Dans la vidéo à la fin de cet article, Cecília teste trois produits d'Abib reçus de YesStyle. Ce sont les seuls de cette liste dont nous avons une expérience d'usage, racontée dans [Skincare coréen à 30 ans : la routine Abib](/fr/reviews/skincare-coreen-a-30-ans-routine-debutante-abib-yesstyle). Les trois contiennent du PDRN, et deux du rétinal."
         ],
         "images": [
           {
@@ -58759,27 +59931,381 @@ export const reviewsData: unknown[] = [
             "alt": "Cecília souriante, tenant le pot de patchs hydrogel pour les yeux d'Abib et un patch rose",
             "caption": "Le patch hydrogel pour les yeux d'Abib, dans la vidéo de Cecília.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/cn2Z5"
           },
           {
             "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
             "alt": "Cecília tenant près du visage le tube blanc de la crème booster au PDRN d'Abib",
             "caption": "La crème booster au PDRN d'Abib.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/q5SUZ"
           },
           {
             "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
             "alt": "Cecília faisant une moue et tenant le pot rose du masque pour les lèvres d'Abib",
             "caption": "Le masque pour les lèvres d'Abib.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/TS7jZ"
           }
+        ],
+        "comparisonTable": {
+          "caption": "Les trois produits d'Abib testés par Cecília, avec le prix en dollars sur la boutique des États-Unis, avant le coupon de la semaine et CECILIA010.",
+          "headers": [
+            "Produit",
+            "Taille",
+            "Prix du jour",
+            "Coût par quantité",
+            "Ce que la page déclare"
+          ],
+          "rows": [
+            [
+              "[Abib PDRN Retinal Eye Patch Glow Jelly](https://ystyle.co/cn2Z5)",
+              "60 patchs",
+              "18,40 US$ (plein tarif : 23,00 US$)",
+              "0,31 US$ le patch",
+              "PDRN végétal, rétinal, collagène, niacinamide et caféine"
+            ],
+            [
+              "[Abib PDRN Volume Fill-it Booster Crème 2.5 Tube](https://ystyle.co/q5SUZ)",
+              "30 ml",
+              "22,40 US$ (plein tarif : 28,00 US$)",
+              "7,47 US$ les 10 ml",
+              "15 000 ppm de PDRN, 10 000 ppm de Volufiline, rétinal et peptides"
+            ],
+            [
+              "[Abib PDRN Collagen Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ)",
+              "11 g",
+              "16,00 US$ (plein tarif : 20,00 US$)",
+              "1,45 US$ le gramme",
+              "PDRN d'origine végétale, collagène et centella ; contient du parfum"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Pour les yeux :** le [patch hydrogel](https://ystyle.co/cn2Z5) se vend en pot de 60 unités, soit 30 applications pour les deux yeux. Lors de notre lecture, la page le montrait comme le plus vendu de la catégorie des masques pour les yeux de la boutique.",
+          "**Pour le visage :** le [Booster Crème 2.5](https://ystyle.co/q5SUZ) se vend en tube de 30 ml. C'est le plus cher au millilitre des trois ; la page vend aussi la miniature de 10 ml, utile pour tester avant le tube plein.",
+          "**Pour les lèvres :** la [Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ) se vend en pot de 11 g. C'est la seule des trois sans rétinal dans la liste d'ingrédients.",
+          "**Attention au rétinal :** le patch et la crème contiennent du rétinal, un rétinoïde. Utilisez-les le soir, mettez de la crème solaire le jour et ne les associez pas, la même nuit, aux disques exfoliants de la section suivante. Les femmes enceintes et celles qui allaitent ne doivent utiliser un rétinoïde que sur avis médical.",
+          "**Le kit de deux :** les trois existent en kit de deux unités, avec une remise plus forte par unité. Il ne vaut le coup que pour qui utilise déjà le produit."
         ],
         "links": [
           {
+            "label": "Voir le patch pour les yeux Abib PDRN sur YesStyle",
+            "href": "https://ystyle.co/cn2Z5",
+            "sponsored": true
+          },
+          {
+            "label": "Voir le Booster Crème 2.5 au PDRN d'Abib sur YesStyle",
+            "href": "https://ystyle.co/q5SUZ",
+            "sponsored": true
+          },
+          {
+            "label": "Voir la Lip Mask Glazed Jelly d'Abib sur YesStyle",
+            "href": "https://ystyle.co/TS7jZ",
+            "sponsored": true
+          },
+          {
             "label": "Comment s'est passée la routine Abib, produit par produit",
             "href": "/fr/reviews/skincare-coreen-a-30-ans-routine-debutante-abib-yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Abib sans rétinoïde : masque en tissu et gel hydratant",
+        "paragraphs": [
+          "Pour qui ne peut pas ou ne veut pas utiliser de rétinal, Abib a deux produits que la boutique elle-même classe parmi les plus vendus de la marque. La liste d'ingrédients publiée sur la page des deux ne mentionne ni rétinal ni rétinol."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-abib-sem-retinoide.webp",
+          "alt": "Les cinq versions du masque en tissu Gummy Sheet Mask d'Abib, dans des emballages noirs, à côté du tube noir du Hydration Gel Water Tube",
+          "caption": "Gummy Sheet Mask et Hydration Gel Water Tube, d'Abib. Photos de produit : YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1.9562
+        },
+        "bullets": [
+          "**Abib Gummy Sheet Mask, version Madecassoside Sticker :** masque en tissu de 27 g, vendu à l'unité, à 3,20 US$ (plein tarif : 4,90 US$). La page décrit cette version comme celle qui hydrate et apaise. La même page vend quatre autres versions : vérifiez que vous avez choisi la Madecassoside avant de l'ajouter au panier.",
+          "**Abib Hydration Gel Water Tube :** gel hydratant de 75 ml, à 27,30 US$ (plein tarif : 39,00 US$), soit 3,64 US$ les 10 ml. La page indique qu'il ne contient pas de parfum ajouté et laisse un fini frais, sans effet lourd."
+        ],
+        "links": [
+          {
+            "label": "Voir la sélection Abib sur YesStyle",
+            "href": "https://ystyle.co/fH8cM",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Pores et texture : medicube et celimax",
+        "paragraphs": [
+          "Ici, le choix se fait entre deux disques exfoliants. Ce sont deux pots de disques imbibés de tonique à l'acide, et la différence tient à la formule et au prix par disque."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-poros-medicube-celimax.webp",
+          "alt": "Quatre produits en grille : pot bleu du Zero Pore Pad et tube du Red Foam Cleanser, de medicube, et pot vert du Heartleaf BHA Peeling Pad et flacon lilas de l'huile nettoyante, de celimax",
+          "caption": "Zero Pore Pad et Red Foam Cleanser, de medicube ; Heartleaf BHA Peeling Pad et huile nettoyante Derma Nature, de celimax. Photos de produit : YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Disques et nettoyants de medicube et de celimax, avec le prix en dollars sur la boutique des États-Unis, avant le coupon de la semaine et CECILIA010.",
+          "headers": [
+            "Produit",
+            "Taille",
+            "Prix du jour",
+            "Coût par quantité",
+            "Ce que la page déclare"
+          ],
+          "rows": [
+            [
+              "medicube Zero Pore Pad 2.0",
+              "70 disques",
+              "21,90 US$ (plein tarif : 31,00 US$)",
+              "0,31 US$ le disque",
+              "Acide lactique (AHA), acide salicylique (BHA), panthénol et centella ; contient de l'alcool"
+            ],
+            [
+              "medicube Zero Pore Pad Mild",
+              "70 disques (155 g)",
+              "21,90 US$ (plein tarif : 31,00 US$)",
+              "0,31 US$ le disque",
+              "Version douce du Zero Pore Pad, avec acide salicylique et PHA, d'après la description"
+            ],
+            [
+              "celimax JI.WOO.GAE Heartleaf BHA Peeling Pad",
+              "60 disques",
+              "15,75 US$ (plein tarif : 21,00 US$)",
+              "0,26 US$ le disque",
+              "Extrait de houttuynia (heartleaf), salicylate de bétaïne (BHA), madécassoside et acide hyaluronique"
+            ],
+            [
+              "medicube Red Foam Cleanser",
+              "120 ml",
+              "17,90 US$ (plein tarif : 34,00 US$)",
+              "14,92 US$ les 100 ml",
+              "Mousse nettoyante à 0,5 % d'acide salicylique"
+            ],
+            [
+              "celimax Derma Nature Fresh Blackhead Jojoba Cleansing Oil",
+              "150 ml",
+              "14,25 US$ (plein tarif : 19,00 US$)",
+              "9,50 US$ les 100 ml",
+              "Huile nettoyante avec six huiles végétales, dont celle de jojoba"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Vous voulez le disque le plus fort :** le Zero Pore Pad 2.0 associe AHA et BHA et était le plus vendu de la catégorie des exfoliants de la boutique lors de notre lecture. La page elle-même recommande de ne pas l'utiliser avec d'autres acides forts et d'alterner les jours.",
+          "**Vous voulez commencer doucement :** le disque de celimax utilise du salicylate de bétaïne, revient moins cher par disque et la page le décrit comme doux pour un usage quotidien. Le Zero Pore Pad Mild est l'alternative chez medicube.",
+          "**Nettoyage :** l'huile de celimax coûte moins cher aux 100 ml que la mousse de medicube. La Red Erasing Cream, la crème de la même gamme Red, était en rupture de stock en format 50 ml, avec une attente d'environ trois semaines.",
+          "**Ne cumulez pas avec un rétinoïde :** un disque à l'acide et un produit au rétinal la même nuit, c'est la combinaison qui irrite le plus. Alternez les soirs."
+        ],
+        "links": [
+          {
+            "label": "Voir la sélection medicube sur YesStyle",
+            "href": "https://ystyle.co/ErjTv",
+            "sponsored": true
+          },
+          {
+            "label": "Voir la sélection celimax sur YesStyle",
+            "href": "https://ystyle.co/QJfLB",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Barrière et hydratation : Centellian24 et Dr. Althea",
+        "paragraphs": [
+          "Pour une peau sèche ou sensibilisée, les candidats sont les crèmes à la centella de Centellian24, marque du laboratoire coréen Dongkook, et les deux crèmes les plus vendues de Dr. Althea."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
+          "alt": "Quatre produits en grille : crème Madeca Cream Time Reverse et essence Madeca Toning Essence Treatment, de Centellian24, et crèmes 345 Relief Cream et 147 Barrier Cream, de Dr. Althea",
+          "caption": "Madeca Cream Time Reverse et Madeca Toning Essence Treatment, de Centellian24 ; 345 Relief Cream et 147 Barrier Cream, de Dr. Althea. Photos de produit : YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Crèmes et essence de Centellian24 et de Dr. Althea, avec le prix en dollars sur la boutique des États-Unis, avant le coupon de la semaine et CECILIA010.",
+          "headers": [
+            "Produit",
+            "Taille",
+            "Prix du jour",
+            "Coût par quantité",
+            "Ce que la page déclare"
+          ],
+          "rows": [
+            [
+              "Centellian24 Madeca Cream Time Reverse",
+              "50 ml",
+              "24,00 US$ (plein tarif : 32,00 US$)",
+              "4,80 US$ les 10 ml",
+              "TECA (extrait titré de centella), niacinamide, collagène et rétinol"
+            ],
+            [
+              "Centellian24 Madeca Toning Essence Treatment",
+              "150 ml",
+              "22,50 US$ (plein tarif : 30,00 US$)",
+              "15,00 US$ les 100 ml",
+              "Extrait de centella, 10 ppm de TECA et niacinamide"
+            ],
+            [
+              "Dr. Althea 345 Relief Cream",
+              "50 ml",
+              "22,95 US$ (plein tarif : 27,00 US$)",
+              "4,59 US$ les 10 ml",
+              "Eau de feuille de tea tree, niacinamide, acide hyaluronique et céramide NP"
+            ],
+            [
+              "Dr. Althea 147 Barrier Cream",
+              "50 ml",
+              "22,95 US$ (plein tarif : 27,00 US$)",
+              "4,59 US$ les 10 ml",
+              "Squalane, acide hyaluronique, panthénol et céramide ; sans parfum artificiel"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Le plus vendu de la boutique :** le 345 Relief Cream était en tête du classement général beauté de YesStyle lors de notre lecture, avec plus de 33 000 avis. La page le présente comme une crème pour après l'acné, qui réduit les rougeurs visibles.",
+          "**Pour une peau sèche sans parfum :** le 147 Barrier Cream est celui de la même marque destiné à former la barrière d'hydratation.",
+          "**La Madeca Cream contient du rétinol :** malgré sa réputation de crème à la centella, la formule du Time Reverse contient du rétinol. Même précaution que pour le rétinal d'Abib. Lors de notre lecture, le pot de 50 ml était en rupture de stock, avec une attente d'environ trois semaines ; la miniature de 15 ml coûtait 11,25 US$.",
+          "**Une étape légère avant la crème :** la Toning Essence Treatment est l'option à la centella sans rétinoïde dans la liste publiée, en flacon de 150 ml.",
+          "**Minis de 15 ml :** les deux crèmes de Dr. Althea existent en miniature à 8,42 US$, utile pour tester ou pour compléter le panier."
+        ],
+        "links": [
+          {
+            "label": "Voir la sélection Centellian24 sur YesStyle",
+            "href": "https://ystyle.co/2UD4F",
+            "sponsored": true
+          },
+          {
+            "label": "Voir la sélection Dr. Althea sur YesStyle",
+            "href": "https://ystyle.co/X94R9",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Éclat et protection : Beauty of Joseon, Dr. Ceuracle et Shiseido",
+        "paragraphs": [
+          "Le dernier groupe réunit une crème nourrissante, une ampoule à la propolis et les produits japonais de Shiseido, qui conviennent bien quand il manque peu pour que le panier atteigne un palier de coupon ou de livraison."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
+          "alt": "Quatre produits en grille : pot ouvert de la Dynasty Cream de Beauty of Joseon, flacon de l'ampoule Royal Vita Propolis 33 et tube de la mousse Tea Tree Purifine, de Dr. Ceuracle, et boîte bleue de la crème solaire Anessa, de Shiseido",
+          "caption": "Dynasty Cream, de Beauty of Joseon ; Royal Vita Propolis 33 Ampoule et Tea Tree Purifine Cleansing Foam, de Dr. Ceuracle ; Anessa Perfect UV Sunscreen Skincare Milk, de Shiseido. Photos de produit : YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Produits de Beauty of Joseon, de Dr. Ceuracle et de Shiseido, avec le prix en dollars sur la boutique des États-Unis, avant le coupon de la semaine et CECILIA010.",
+          "headers": [
+            "Produit",
+            "Taille",
+            "Prix du jour",
+            "Coût par quantité",
+            "Ce que la page déclare"
+          ],
+          "rows": [
+            [
+              "Beauty of Joseon Dynasty Cream",
+              "50 g",
+              "19,20 US$ (plein tarif : 24,00 US$)",
+              "3,84 US$ les 10 g",
+              "Eau de son de riz, eau de racine de ginseng, niacinamide et squalane"
+            ],
+            [
+              "Beauty of Joseon Dynasty Cream Jumbo",
+              "100 ml",
+              "27,20 US$ (plein tarif : 34,00 US$)",
+              "2,72 US$ les 10 ml",
+              "La même formule, en grand pot"
+            ],
+            [
+              "Dr. Ceuracle Royal Vita Propolis 33 Ampoule Jumbo",
+              "30 ml",
+              "23,55 US$ (plein tarif : 31,40 US$)",
+              "7,85 US$ les 10 ml",
+              "33,5 % d'extrait de propolis, extrait de gelée royale, niacinamide et panthénol"
+            ],
+            [
+              "Dr. Ceuracle Tea Tree Purifine Cleansing Foam",
+              "150 g",
+              "15,60 US$ (plein tarif : 24,00 US$)",
+              "10,40 US$ les 100 g",
+              "Gel qui se transforme en mousse, avec 30 % d'extrait de tea tree"
+            ],
+            [
+              "Shiseido Anessa Perfect UV Sunscreen Skincare Milk",
+              "60 ml",
+              "15,05 US$ (plein tarif : 21,50 US$)",
+              "2,51 US$ les 10 ml",
+              "Crème solaire SPF 50+ PA++++, avec filtres minéraux et chimiques"
+            ],
+            [
+              "Shiseido Fino Premium Touch Hair Mask",
+              "230 g",
+              "11,62 US$ (plein tarif : 16,60 US$)",
+              "5,05 US$ les 100 g",
+              "Masque capillaire à la gelée royale ; première place des soins capillaires de la boutique"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Dynasty Cream, pot de 50 g ou Jumbo :** le Jumbo revient environ 30 % moins cher à la quantité, mais c'est le double de crème. Il ne vaut le coup que pour qui l'utilise tous les jours ; pour une première fois, le pot de 50 g.",
+          "**Ampoule à la propolis :** c'est l'article éclat de la liste, avec une texture que la page compare à celle du miel. Elle s'applique après le tonique et avant la crème.",
+          "**Crème solaire :** l'Anessa est celle qui clôt la routine de qui a acheté un produit au rétinal ou au rétinol parmi les sections ci-dessus.",
+          "**Pour compléter le panier :** le masque capillaire Fino et les coussinets de rechange du recourbe-cils Shiseido (3 pièces pour 3,14 US$) sont des articles bon marché et utiles quand il manque quelques dollars pour atteindre le palier. Dans la gamme Benefiance, la Wrinkle Smoothing Cream coûtait 115,40 US$ et n'avait pas de remise lors de notre lecture."
+        ],
+        "links": [
+          {
+            "label": "Voir la sélection Beauty of Joseon sur YesStyle",
+            "href": "https://ystyle.co/1PRZC",
+            "sponsored": true
+          },
+          {
+            "label": "Voir la sélection Dr. Ceuracle sur YesStyle",
+            "href": "https://ystyle.co/aQ7Bk",
+            "sponsored": true
+          },
+          {
+            "label": "Voir la sélection Shiseido sur YesStyle",
+            "href": "https://ystyle.co/BxprE",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Le calcul d'un panier avec le coupon de la semaine et CECILIA010",
+        "paragraphs": [
+          "Un exemple avec les prix ci-dessus : le patch pour les yeux d'Abib (18,40 US$), le Booster Crème (22,40 US$), le disque de celimax (15,75 US$), la 345 Relief Cream (22,95 US$) et la crème solaire Anessa (15,05 US$) font 94,55 US$. Ce panier dépasse le palier de 79 US$ du coupon par palier."
+        ],
+        "bullets": [
+          "**Avec le coupon par palier de 8 % :** le coupon, dans le champ Coupon Code, retire 7,56 US$.",
+          "**Avec 15 % sur toute commande :** la remise du coupon monte à 14,18 US$. À la mi-novembre, la boutique avait un coupon de ce type, sans montant minimum, pour les livraisons aux États-Unis, au Royaume-Uni et au Canada.",
+          "**Plus CECILIA010 :** dans le champ Reward Code, c'est 5 % sur la première commande ou 2 % sur les suivantes, en plus du coupon. Sur 94,55 US$, 5 % font 4,73 US$ et 2 % font 1,89 US$.",
+          "**L'ordre du calcul appartient à la boutique :** nous n'avons pas confirmé si les 5 % s'appliquent sur le montant plein ou sur le montant déjà réduit par le coupon. Le récapitulatif de commande affiche les deux lignes de remise avant le paiement."
+        ],
+        "postParagraphs": [
+          "**La langue de la page ne définit pas le pays de livraison.** Les paliers de 79, 149 et 199 US$, la livraison standard gratuite dès 35 US$ et les 6 US$ de frais en dessous sont ce que la boutique affichait pour une livraison aux États-Unis, en dollars. Qui lit en français peut se trouver en France, en Belgique ou au Canada, et les conditions changent avec la destination : la devise, le minimum de livraison gratuite, le coupon du jour, la disponibilité de l'expédition et les règles de taxe et de remboursement des frais de douane. Vérifiez tout à la page de paiement, avec votre adresse, et dans les [règles de livraison de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732).",
+          "Ce que la boutique publie et les conditions pour la France, la Belgique et le Canada se trouvent dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada)."
+        ],
+        "links": [
+          {
+            "label": "Voir les offres Black Friday sur YesStyle",
+            "href": "https://ystyle.co/4RRfd",
+            "sponsored": true
+          },
+          {
+            "label": "Aller sur YesStyle avec le code CECILIA010",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          },
+          {
+            "label": "Pas à pas du code récompense CECILIA010",
+            "href": "/fr/reviews/code-recompense-yesstyle-cecilia010"
           }
         ]
       },
@@ -58788,13 +60314,16 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quand commence le Black Friday de YesStyle et combien de temps dure-t-il ? Il a déjà commencé : la page d'accueil de la boutique affiche la Black Friday Mega Sale et un coupon par palier. YesStyle n'a pas encore publié la fin ; en 2024 et 2025, les coupons portant le nom Black Friday ont duré jusqu'au Cyber Monday.",
           "Quel est le coupon YesStyle pendant le Black Friday ? Il change tous les quelques jours. La page YesStyle de ce site affiche le code de la semaine, avec la date.",
-          "Le coupon du Black Friday de YesStyle a-t-il un montant minimum ? Le coupon par palier en a un : 8 % à partir de 79 US$, 10 % à partir de 149 US$ et 15 % à partir de 199 US$. En 2024 et 2025, YesStyle a ouvert 15 % sans minimum les jours proches du vendredi et du Cyber Monday ; rien n'est encore annoncé pour 2026.",
+          "Le coupon du Black Friday de YesStyle a-t-il un montant minimum ? Le coupon par palier en a un : 8 % à partir de 79 US$, 10 % à partir de 149 US$ et 15 % à partir de 199 US$. En 2024 et 2025, YesStyle a ouvert 15 % sans minimum les jours proches du vendredi et du Cyber Monday ; en 2026, un coupon de 15 % sans minimum est déjà apparu à la mi-novembre pour les États-Unis, le Royaume-Uni et le Canada, et pour les autres pays rien n'est encore annoncé.",
           "Chez YesStyle, vaut-il mieux acheter pendant le Black Friday ou le Cyber Monday ? En 2024 et 2025, les deux ont eu 15 % sans minimum, donc le plafond du coupon a été le même. Ce qui change d'un jour à l'autre, c'est le prix promotionnel de chaque produit.",
           "YesStyle a-t-il des promotions en dehors du Black Friday ? Oui. Le coupon par palier, à 8 %, 10 % et 15 %, tourne presque toute l'année et change de nom tous les quelques jours.",
           "CECILIA010 est-il valable pendant le Black Friday ? Oui. Il va dans le champ Reward Code, et les règles des coupons du Black Friday indiquent qu'ils sont valables avec les Reward Codes.",
           "Peut-on utiliser deux coupons YesStyle dans la même commande ? Non : c'est un coupon par commande. Le code récompense est autre chose et va dans un autre champ de la page de paiement.",
           "Faut-il un compte YesStyle pour utiliser le coupon du Black Friday ? Oui. Les coupons sont réservés aux membres, et qui commande en invité n'a pas la remise.",
-          "Vais-je payer des taxes en achetant chez YesStyle ? Il peut y avoir un prélèvement à l'arrivée du colis. Sur les commandes éligibles de moins de 1 000 US$, YesStyle rembourse les frais de douane sous forme de crédit en boutique, si vous envoyez le justificatif dans les 30 jours suivant sa date. La taxe de vente, la TVA et la GST ne sont pas couvertes."
+          "Vais-je payer des taxes en achetant chez YesStyle ? Il peut y avoir un prélèvement à l'arrivée du colis. Sur les commandes éligibles de moins de 1 000 US$, YesStyle rembourse les frais de douane sous forme de crédit en boutique, si vous envoyez le justificatif dans les 30 jours suivant sa date. La taxe de vente, la TVA et la GST ne sont pas couvertes.",
+          "Qu'est-ce qui vaut la peine d'être acheté pendant le Black Friday de YesStyle ? Cela dépend de la routine. Le guide classe par besoin : les trois produits d'Abib que Cecília a testés, les disques exfoliants de medicube et de celimax, les crèmes de barrière de Centellian24 et de Dr. Althea et, pour l'éclat et la protection, Beauty of Joseon, Dr. Ceuracle et Shiseido.",
+          "Les prix en dollars de ce guide valent-ils pour tous les pays ? Non. Ils ont été lus sur la boutique en anglais, avec livraison aux États-Unis. La devise, le prix, la livraison gratuite et le coupon du jour changent avec la destination : la page de paiement affiche les conditions de votre adresse.",
+          "Puis-je utiliser le rétinal d'Abib avec des disques exfoliants ? La même nuit, ce n'est pas une bonne idée : un acide et un rétinoïde ensemble irritent facilement la peau. Alternez les soirs et utilisez une crème solaire le jour."
         ]
       }
     ],
@@ -58817,7 +60346,18 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-est-il-fiable-et-sur"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Vous recevez dans un pays où YesStyle livre et savez déjà quel produit manque à votre routine.",
+        "Votre panier dépasse un palier du coupon, ou vous pouvez attendre un jour à 15 % sur toute commande.",
+        "Vous n'avez pas encore utilisé CECILIA010 : les 5 % du Reward Code valent sur la première commande."
+      ],
+      "skipIf": [
+        "Votre pays ne figure pas dans la liste de livraison de YesStyle : vérifiez avant de composer le panier.",
+        "Vous alliez acheter un kit de deux unités d'un produit que vous n'avez jamais utilisé, uniquement pour la remise."
+      ]
+    }
   },
   {
     "id": 341,
@@ -58840,7 +60380,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hat YesStyle einen Black Friday? Ja, er läuft schon: Mega Sale, Staffelgutschein von 8 bis 15 % und wie sich der Reward Code CECILIA010 addieren lässt.",
     "publishedAt": "11. Oktober 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -58856,7 +60396,7 @@ export const reviewsData: unknown[] = [
       "YesStyle erstattet die Zollgebühren bei berechtigten Bestellungen unter US$ 1.000 als Guthaben im Shop"
     ],
     "cons": [
-      "Das Enddatum und die 15-%-Tage ohne Mindestbestellwert für 2026 sind noch nicht veröffentlicht: Was danach kommt, ist eine Schätzung nach den Vorjahren",
+      "Das Enddatum und die 15-%-Tage ohne Mindestbestellwert für alle Länder sind noch nicht veröffentlicht: Was danach kommt, ist eine Schätzung nach den Vorjahren",
       "Der Staffelgutschein des Black Friday ist derselbe wie im Rest des Jahres",
       "Die Gutscheine gelten nur für Mitglieder, einer pro Bestellung, und mindern nicht die Versandkosten",
       "Internationaler Kauf: Die Lieferzeit ist länger als bei einem lokalen Shop"
@@ -58865,13 +60405,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Ja, YesStyle macht einen Black Friday, und er läuft bereits: Auf der Startseite steht die Mega Sale mit Angeboten pro Produkt und Bannern bis zu 50 % Rabatt, und ein Staffelgutschein gibt 8 %, 10 % oder 15 %. Der CECILIA010 lässt sich damit addieren, im Feld Reward Code. Die 15-%-Tage ohne Mindestbestellwert hat YesStyle für 2026 noch nicht angekündigt."
+          "Ja, YesStyle macht einen Black Friday, und er läuft bereits: Auf der Startseite steht die Mega Sale mit Angeboten pro Produkt und Bannern bis zu 50 % Rabatt, und ein Staffelgutschein gibt 8 %, 10 % oder 15 %. Der CECILIA010 lässt sich damit addieren, im Feld Reward Code. Die 15-%-Tage ohne Mindestbestellwert hat YesStyle für alle Länder noch nicht angekündigt."
         ]
       },
       {
         "heading": "Wann der Black Friday bei YesStyle beginnt",
         "paragraphs": [
-          "YesStyle veröffentlicht die Regeln jedes Gutscheins im Hilfecenter der Website, mit Tag und Uhrzeit für Beginn und Ende. Die Tabelle unten zeigt die Termine von 2025; 2024 folgten die Phasen in derselben Reihenfolge und begannen ein bis zwei Tage später. 2026 läuft die Aktion bereits: Am 3. November zeigt die Startseite des Shops die „Black Friday Mega Sale“ mit Angeboten pro Produkt und Bannern bis zu 50 % Rabatt sowie den damaligen Staffelgutschein (8 % ab US$ 79, 10 % ab US$ 149 und 15 % ab US$ 199), den der Shop alle paar Tage austauscht; prüfen Sie vor dem Kauf den aktuellen. Dass ein Gutschein endet, heißt nicht, dass die Aktion vorbei ist. Ob der Standardversand ab US$ 35 kostenlos ist, hängt vom Zielort ab: Im Checkout sehen Sie Ihren. Das Enddatum und die 15-%-Tage ohne Mindestbestellwert für 2026 sind noch nicht veröffentlicht."
+          "YesStyle veröffentlicht die Regeln jedes Gutscheins im Hilfecenter der Website, mit Tag und Uhrzeit für Beginn und Ende. Die Tabelle unten zeigt die Termine von 2025; 2024 folgten die Phasen in derselben Reihenfolge und begannen ein bis zwei Tage später. 2026 läuft die Aktion bereits: Am 3. November zeigt die Startseite des Shops die „Black Friday Mega Sale“ mit Angeboten pro Produkt und Bannern bis zu 50 % Rabatt sowie den damaligen Staffelgutschein (8 % ab US$ 79, 10 % ab US$ 149 und 15 % ab US$ 199), den der Shop alle paar Tage austauscht; prüfen Sie vor dem Kauf den aktuellen. Dass ein Gutschein endet, heißt nicht, dass die Aktion vorbei ist. Ob der Standardversand ab US$ 35 kostenlos ist, hängt vom Zielort ab: Im Checkout sehen Sie Ihren. Mitte November hat der Shop außerdem einen Gutschein über 15 % auf jede Bestellung ohne Mindestbestellwert freigeschaltet, für Lieferungen in die USA, nach Großbritannien und nach Kanada; für die übrigen Ziele gilt der Staffelgutschein. Das Enddatum der Aktion und die 15-%-Tage ohne Mindestbestellwert für alle Länder sind noch nicht veröffentlicht."
         ],
         "comparisonTable": {
           "caption": "Für alle Mitglieder offene Gutscheine 2025, nach den Hilfeseiten von YesStyle; jede Phase läuft bis zum Beginn der nächsten. Zeiten in GMT, das ist die Zeit, die für den Shop gilt.",
@@ -59017,9 +60557,27 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Eine Warenkorb-Idee: die Abib-Routine",
+        "heading": "Was sich lohnt: wie wir die Preise lesen",
         "paragraphs": [
-          "Im Video am Ende dieses Artikels testet Cecília drei Produkte der koreanischen Marke Abib, die sie von YesStyle bekommen hat: die Hydrogel-Augenpads, die Booster-Creme mit PDRN und die Lippenmaske. Es ist eine kurze Routine für alle, die mit koreanischer Skincare anfangen, und ein guter Ausgangspunkt, um den Black-Friday-Warenkorb zusammenzustellen."
+          "Die nächsten Abschnitte zeigen die Produkte, die den Warenkorb lohnen, Marke für Marke. Alle Preise haben wir am 16. November 2026 im englischen Shop von YesStyle gelesen, mit Lieferung in die USA, in Dollar. Es ist der Aktionspreis des Tages, fast immer mit dem Blitzangebot-Label, vor dem Gutschein der Woche und vor CECILIA010. Der Preis ändert sich von einem Tag zum anderen und von einem Land zum anderen: Maßgeblich ist der Wert in Ihrem Warenkorb.",
+          "YesStyle bezeichnet sich auf der Seite jedes Produkts als autorisierter Händler von Abib, medicube, celimax, Centellian24, Dr. Althea, Beauty of Joseon und Dr. Ceuracle. Auf den Shiseido-Seiten, die wir geöffnet haben, steht dieser Satz nicht. Die genannten Inhaltsstoffe stammen aus der Liste auf der jeweiligen Produktseite an diesem Datum; maßgeblich ist am Ende die Verpackung, die ankommt."
+        ],
+        "links": [
+          {
+            "label": "Black-Friday-Angebote bei YesStyle ansehen",
+            "href": "https://ystyle.co/4RRfd",
+            "sponsored": true
+          },
+          {
+            "label": "Den YesStyle-Gutschein von heute und den Reward Code CECILIA010 ansehen",
+            "href": "/de/coupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Die Abib-Routine, die Cecília getestet hat: Augen, Gesicht und Lippen",
+        "paragraphs": [
+          "Im Video am Ende dieses Artikels testet Cecília drei Abib-Produkte, die sie von YesStyle bekommen hat. Es sind die einzigen auf dieser Liste, mit denen wir eigene Erfahrung haben, erzählt in [Koreanische Hautpflege mit 30: die Abib-Routine](/de/reviews/koreanische-hautpflege-mit-30-anfaenger-routine-abib-yesstyle). Alle drei enthalten PDRN, und zwei enthalten Retinal."
         ],
         "images": [
           {
@@ -59027,27 +60585,380 @@ export const reviewsData: unknown[] = [
             "alt": "Cecília lächelt und hält den Tiegel mit den Hydrogel-Augenpads von Abib und ein rosa Pad",
             "caption": "Das Hydrogel-Augenpad von Abib, im Video von Cecília.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/cn2Z5"
           },
           {
             "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
             "alt": "Cecília hält die weiße Tube der Booster-Creme mit PDRN von Abib nah ans Gesicht",
             "caption": "Die Booster-Creme mit PDRN von Abib.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/q5SUZ"
           },
           {
             "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
             "alt": "Cecília spitzt die Lippen und hält den rosa Tiegel der Lippenmaske von Abib",
             "caption": "Die Lippenmaske von Abib.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/TS7jZ"
           }
+        ],
+        "comparisonTable": {
+          "caption": "Die drei von Cecília getesteten Abib-Produkte, mit dem Dollarpreis im US-Shop, vor dem Gutschein der Woche und vor CECILIA010.",
+          "headers": [
+            "Produkt",
+            "Größe",
+            "Tagespreis",
+            "Preis pro Menge",
+            "Was die Seite angibt"
+          ],
+          "rows": [
+            [
+              "[Abib PDRN Retinal Eye Patch Glow Jelly](https://ystyle.co/cn2Z5)",
+              "60 Pads",
+              "US$ 18,40 (voll: US$ 23,00)",
+              "US$ 0,31 pro Pad",
+              "Pflanzliches PDRN, Retinal, Kollagen, Niacinamid und Koffein"
+            ],
+            [
+              "[Abib PDRN Volume Fill-it Booster Crème 2.5 Tube](https://ystyle.co/q5SUZ)",
+              "30 ml",
+              "US$ 22,40 (voll: US$ 28,00)",
+              "US$ 7,47 pro 10 ml",
+              "15.000 ppm PDRN, 10.000 ppm Volufiline, Retinal und Peptide"
+            ],
+            [
+              "[Abib PDRN Collagen Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ)",
+              "11 g",
+              "US$ 16,00 (voll: US$ 20,00)",
+              "US$ 1,45 pro Gramm",
+              "PDRN pflanzlichen Ursprungs, Kollagen und Centella; enthält Duftstoff"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Für die Augen:** Das [Hydrogel-Pad](https://ystyle.co/cn2Z5) kommt im Tiegel mit 60 Stück, das sind 30 Anwendungen für beide Augen. Bei unserer Lektüre zeigte die Seite es als Bestseller in der Kategorie Augenmasken des Shops.",
+          "**Für das Gesicht:** Die [Booster Crème 2.5](https://ystyle.co/q5SUZ) kommt in einer 30-ml-Tube. Sie ist von den dreien pro Milliliter das teuerste Produkt; die Seite verkauft auch die 10-ml-Miniatur, mit der Sie vor der vollen Tube testen können.",
+          "**Für die Lippen:** Die [Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ) kommt im 11-g-Tiegel. Sie ist die einzige der drei ohne Retinal in der Inhaltsstoffliste.",
+          "**Vorsicht beim Retinal:** Das Pad und die Creme enthalten Retinal, ein Retinoid. Verwenden Sie es abends, tragen Sie tagsüber Sonnenschutz auf und kombinieren Sie es nicht in derselben Nacht mit den Peeling-Pads aus dem nächsten Abschnitt. Schwangere und Stillende sollten Retinoide nur nach ärztlicher Beratung verwenden.",
+          "**Das Zweier-Set:** Alle drei gibt es als Set mit zwei Stück, mit höherem Rabatt pro Stück. Es lohnt sich nur, wenn Sie das Produkt schon verwenden."
         ],
         "links": [
           {
+            "label": "Das Abib PDRN Augenpad bei YesStyle ansehen",
+            "href": "https://ystyle.co/cn2Z5",
+            "sponsored": true
+          },
+          {
+            "label": "Die Abib Booster Crème 2.5 mit PDRN bei YesStyle ansehen",
+            "href": "https://ystyle.co/q5SUZ",
+            "sponsored": true
+          },
+          {
+            "label": "Die Abib Lip Mask Glazed Jelly bei YesStyle ansehen",
+            "href": "https://ystyle.co/TS7jZ",
+            "sponsored": true
+          },
+          {
             "label": "Wie die Abib-Routine lief, Produkt für Produkt",
             "href": "/de/reviews/koreanische-hautpflege-mit-30-anfaenger-routine-abib-yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Abib ohne Retinoid: Sheet Mask und Feuchtigkeitsgel",
+        "paragraphs": [
+          "Für alle, die kein Retinal verwenden können oder wollen, hat Abib zwei Produkte, die der Shop selbst unter den meistverkauften der Marke aufführt. Die auf der Seite der beiden veröffentlichte Inhaltsstoffliste enthält weder Retinal noch Retinol."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-abib-sem-retinoide.webp",
+          "alt": "Die fünf Varianten der Gummy Sheet Mask von Abib in schwarzen Verpackungen, neben der schwarzen Tube des Hydration Gel Water Tube",
+          "caption": "Gummy Sheet Mask und Hydration Gel Water Tube von Abib. Produktfotos: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1.9562
+        },
+        "bullets": [
+          "**Abib Gummy Sheet Mask, Variante Madecassoside Sticker:** Tuchmaske mit 27 g, einzeln verkauft, für US$ 3,20 (voll: US$ 4,90). Die Seite beschreibt die Variante als die, die Feuchtigkeit spendet und beruhigt. Dieselbe Seite verkauft vier weitere Varianten: Prüfen Sie, ob Sie Madecassoside gewählt haben, bevor Sie sie in den Warenkorb legen.",
+          "**Abib Hydration Gel Water Tube:** Feuchtigkeitsgel mit 75 ml, für US$ 27,30 (voll: US$ 39,00), oder US$ 3,64 pro 10 ml. Die Seite sagt, es enthalte keinen zugesetzten Duftstoff und hinterlasse ein frisches, leichtes Hautgefühl."
+        ],
+        "links": [
+          {
+            "label": "Die Abib-Auswahl bei YesStyle ansehen",
+            "href": "https://ystyle.co/fH8cM",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Poren und Hautbild: medicube und celimax",
+        "paragraphs": [
+          "Hier geht es um die Entscheidung zwischen zwei Peeling-Pads. Beide sind Tiegel mit Pads, die in ein säurehaltiges Toner getränkt sind; der Unterschied liegt in der Formel und im Preis pro Pad."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-poros-medicube-celimax.webp",
+          "alt": "Vier Produkte im Raster: blauer Tiegel des Zero Pore Pad und Tube des Red Foam Cleanser von medicube, grüner Tiegel des Heartleaf BHA Peeling Pad und lila Flasche des Reinigungsöls von celimax",
+          "caption": "Zero Pore Pad und Red Foam Cleanser von medicube; Heartleaf BHA Peeling Pad und Reinigungsöl Derma Nature von celimax. Produktfotos: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Pads und Reinigung von medicube und celimax, mit dem Dollarpreis im US-Shop, vor dem Gutschein der Woche und vor CECILIA010.",
+          "headers": [
+            "Produkt",
+            "Größe",
+            "Tagespreis",
+            "Preis pro Menge",
+            "Was die Seite angibt"
+          ],
+          "rows": [
+            [
+              "medicube Zero Pore Pad 2.0",
+              "70 Pads",
+              "US$ 21,90 (voll: US$ 31,00)",
+              "US$ 0,31 pro Pad",
+              "Milchsäure (AHA), Salicylsäure (BHA), Panthenol und Centella; enthält Alkohol"
+            ],
+            [
+              "medicube Zero Pore Pad Mild",
+              "70 Pads (155 g)",
+              "US$ 21,90 (voll: US$ 31,00)",
+              "US$ 0,31 pro Pad",
+              "Sanfte Version des Zero Pore Pad, laut Beschreibung mit Salicylsäure und PHA"
+            ],
+            [
+              "celimax JI.WOO.GAE Heartleaf BHA Peeling Pad",
+              "60 Pads",
+              "US$ 15,75 (voll: US$ 21,00)",
+              "US$ 0,26 pro Pad",
+              "Houttuynia-Extrakt (Heartleaf), Betainsalicylat (BHA), Madecassosid und Hyaluronsäure"
+            ],
+            [
+              "medicube Red Foam Cleanser",
+              "120 ml",
+              "US$ 17,90 (voll: US$ 34,00)",
+              "US$ 14,92 pro 100 ml",
+              "Reinigungsschaum mit 0,5 % Salicylsäure"
+            ],
+            [
+              "celimax Derma Nature Fresh Blackhead Jojoba Cleansing Oil",
+              "150 ml",
+              "US$ 14,25 (voll: US$ 19,00)",
+              "US$ 9,50 pro 100 ml",
+              "Reinigungsöl mit sechs Pflanzenölen, darunter Jojobaöl"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Sie wollen das stärkere Pad:** Das Zero Pore Pad 2.0 kombiniert AHA und BHA und war bei unserer Lektüre das meistverkaufte der Kategorie Peelings im Shop. Die Seite selbst empfiehlt, es nicht zusammen mit anderen starken Säuren zu verwenden und die Tage abzuwechseln.",
+          "**Sie wollen langsam beginnen:** Das Pad von celimax verwendet Betainsalicylat, ist pro Pad günstiger, und die Seite beschreibt es als mild für die tägliche Anwendung. Das Zero Pore Pad Mild ist die Alternative innerhalb von medicube.",
+          "**Reinigung:** Das Öl von celimax kostet pro 100 ml weniger als der Schaum von medicube. Die Red Erasing Cream, die Creme derselben Linie Red, war in der Größe von 50 ml nicht auf Lager, mit einer Wartezeit von etwa drei Wochen.",
+          "**Nicht mit Retinoid kombinieren:** Ein Säure-Pad und ein Produkt mit Retinal in derselben Nacht ist die Kombination, die am häufigsten reizt. Wechseln Sie die Abende ab."
+        ],
+        "links": [
+          {
+            "label": "Die medicube-Auswahl bei YesStyle ansehen",
+            "href": "https://ystyle.co/ErjTv",
+            "sponsored": true
+          },
+          {
+            "label": "Die celimax-Auswahl bei YesStyle ansehen",
+            "href": "https://ystyle.co/QJfLB",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Barriere und Feuchtigkeit: Centellian24 und Dr. Althea",
+        "paragraphs": [
+          "Für trockene oder gereizte Haut kommen die Centella-Cremes von Centellian24 infrage, einer Marke des koreanischen Pharmaunternehmens Dongkook, und die beiden meistverkauften Cremes von Dr. Althea."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
+          "alt": "Vier Produkte im Raster: die Creme Madeca Cream Time Reverse und die Essenz Madeca Toning Essence Treatment von Centellian24 sowie die Cremes 345 Relief Cream und 147 Barrier Cream von Dr. Althea",
+          "caption": "Madeca Cream Time Reverse und Madeca Toning Essence Treatment von Centellian24; 345 Relief Cream und 147 Barrier Cream von Dr. Althea. Produktfotos: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Cremes und Essenz von Centellian24 und Dr. Althea, mit dem Dollarpreis im US-Shop, vor dem Gutschein der Woche und vor CECILIA010.",
+          "headers": [
+            "Produkt",
+            "Größe",
+            "Tagespreis",
+            "Preis pro Menge",
+            "Was die Seite angibt"
+          ],
+          "rows": [
+            [
+              "Centellian24 Madeca Cream Time Reverse",
+              "50 ml",
+              "US$ 24,00 (voll: US$ 32,00)",
+              "US$ 4,80 pro 10 ml",
+              "TECA (titrierter Centella-Extrakt), Niacinamid, Kollagen und Retinol"
+            ],
+            [
+              "Centellian24 Madeca Toning Essence Treatment",
+              "150 ml",
+              "US$ 22,50 (voll: US$ 30,00)",
+              "US$ 15,00 pro 100 ml",
+              "Centella-Extrakt, 10 ppm TECA und Niacinamid"
+            ],
+            [
+              "Dr. Althea 345 Relief Cream",
+              "50 ml",
+              "US$ 22,95 (voll: US$ 27,00)",
+              "US$ 4,59 pro 10 ml",
+              "Teebaumblattwasser, Niacinamid, Hyaluronsäure und Ceramid NP"
+            ],
+            [
+              "Dr. Althea 147 Barrier Cream",
+              "50 ml",
+              "US$ 22,95 (voll: US$ 27,00)",
+              "US$ 4,59 pro 10 ml",
+              "Squalan, Hyaluronsäure, Panthenol und Ceramid; ohne künstlichen Duftstoff"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Der Bestseller des Shops:** Die 345 Relief Cream stand bei unserer Lektüre auf Platz eins im allgemeinen Beauty-Ranking von YesStyle, mit mehr als 33.000 Bewertungen. Die Seite stellt sie als Creme für die Zeit nach der Akne vor, die sichtbare Rötungen mindert.",
+          "**Für trockene Haut ohne Parfüm:** Die 147 Barrier Cream ist die Creme derselben Marke, die darauf ausgelegt ist, die Feuchtigkeitsbarriere aufzubauen.",
+          "**Die Madeca Cream enthält Retinol:** Trotz ihres Rufs als Centella-Creme enthält die Formel der Time Reverse Retinol. Es gilt dieselbe Vorsicht wie beim Retinal von Abib. Bei unserer Lektüre war der 50-ml-Tiegel nicht auf Lager, mit einer Wartezeit von etwa drei Wochen; die 15-ml-Miniatur kostete US$ 11,25.",
+          "**Leichter Schritt vor der Creme:** Die Toning Essence Treatment ist die Centella-Option ohne Retinoid in der veröffentlichten Liste, in der 150-ml-Flasche.",
+          "**Minis mit 15 ml:** Beide Cremes von Dr. Althea gibt es als Miniatur für US$ 8,42, praktisch zum Testen oder um den Warenkorb aufzufüllen."
+        ],
+        "links": [
+          {
+            "label": "Die Centellian24-Auswahl bei YesStyle ansehen",
+            "href": "https://ystyle.co/2UD4F",
+            "sponsored": true
+          },
+          {
+            "label": "Die Dr.-Althea-Auswahl bei YesStyle ansehen",
+            "href": "https://ystyle.co/X94R9",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Ausstrahlung und Schutz: Beauty of Joseon, Dr. Ceuracle und Shiseido",
+        "paragraphs": [
+          "Die letzte Gruppe vereint eine pflegende Creme, eine Propolis-Ampulle und die Japaner von Shiseido, die gut passen, wenn nur noch wenig fehlt, bis der Warenkorb eine Gutschein- oder Versandstufe erreicht."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
+          "alt": "Vier Produkte im Raster: geöffneter Tiegel der Dynasty Cream von Beauty of Joseon, Flasche der Ampulle Royal Vita Propolis 33 und Tube des Schaums Tea Tree Purifine von Dr. Ceuracle sowie blaue Schachtel des Sonnenschutzes Anessa von Shiseido",
+          "caption": "Dynasty Cream von Beauty of Joseon; Royal Vita Propolis 33 Ampoule und Tea Tree Purifine Cleansing Foam von Dr. Ceuracle; Anessa Perfect UV Sunscreen Skincare Milk von Shiseido. Produktfotos: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Produkte von Beauty of Joseon, Dr. Ceuracle und Shiseido, mit dem Dollarpreis im US-Shop, vor dem Gutschein der Woche und vor CECILIA010.",
+          "headers": [
+            "Produkt",
+            "Größe",
+            "Tagespreis",
+            "Preis pro Menge",
+            "Was die Seite angibt"
+          ],
+          "rows": [
+            [
+              "Beauty of Joseon Dynasty Cream",
+              "50 g",
+              "US$ 19,20 (voll: US$ 24,00)",
+              "US$ 3,84 pro 10 g",
+              "Reiskleiewasser, Ginsengwurzelwasser, Niacinamid und Squalan"
+            ],
+            [
+              "Beauty of Joseon Dynasty Cream Jumbo",
+              "100 ml",
+              "US$ 27,20 (voll: US$ 34,00)",
+              "US$ 2,72 pro 10 ml",
+              "Dieselbe Formel im großen Tiegel"
+            ],
+            [
+              "Dr. Ceuracle Royal Vita Propolis 33 Ampoule Jumbo",
+              "30 ml",
+              "US$ 23,55 (voll: US$ 31,40)",
+              "US$ 7,85 pro 10 ml",
+              "33,5 % Propolisextrakt, Gelée-Royale-Extrakt, Niacinamid und Panthenol"
+            ],
+            [
+              "Dr. Ceuracle Tea Tree Purifine Cleansing Foam",
+              "150 g",
+              "US$ 15,60 (voll: US$ 24,00)",
+              "US$ 10,40 pro 100 g",
+              "Gel, das zu Schaum wird, mit 30 % Teebaumextrakt"
+            ],
+            [
+              "Shiseido Anessa Perfect UV Sunscreen Skincare Milk",
+              "60 ml",
+              "US$ 15,05 (voll: US$ 21,50)",
+              "US$ 2,51 pro 10 ml",
+              "Sonnenschutz LSF 50+ PA++++, mit mineralischen und chemischen Filtern"
+            ],
+            [
+              "Shiseido Fino Premium Touch Hair Mask",
+              "230 g",
+              "US$ 11,62 (voll: US$ 16,60)",
+              "US$ 5,05 pro 100 g",
+              "Haarmaske mit Gelée Royale; Platz eins bei Haarpflege im Shop"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Dynasty Cream, Tiegel mit 50 g oder Jumbo:** Die Jumbo-Größe ist pro Menge etwa 30 % günstiger, enthält aber doppelt so viel Creme. Sie lohnt sich nur, wenn Sie schon täglich eine verwenden; für das erste Mal der 50-g-Tiegel.",
+          "**Propolis-Ampulle:** Sie ist das Produkt für Ausstrahlung auf der Liste, mit einer Textur, die die Seite mit Honig vergleicht. Sie kommt nach dem Toner und vor der Creme.",
+          "**Sonnenschutz:** Der Anessa schließt die Routine für alle ab, die ein Produkt mit Retinal oder Retinol aus den Abschnitten oben gekauft haben.",
+          "**Um den Warenkorb aufzufüllen:** Die Haarmaske Fino und der Ersatzgummi für die Wimpernzange curvex von Shiseido (3 Stück für US$ 3,14) sind günstige, nützliche Artikel, wenn nur wenige Dollar bis zur nächsten Stufe fehlen. Aus der Linie Benefiance kostete die Wrinkle Smoothing Cream US$ 115,40 und hatte bei unserer Lektüre keinen Rabatt."
+        ],
+        "links": [
+          {
+            "label": "Die Beauty-of-Joseon-Auswahl bei YesStyle ansehen",
+            "href": "https://ystyle.co/1PRZC",
+            "sponsored": true
+          },
+          {
+            "label": "Die Dr.-Ceuracle-Auswahl bei YesStyle ansehen",
+            "href": "https://ystyle.co/aQ7Bk",
+            "sponsored": true
+          },
+          {
+            "label": "Die Shiseido-Auswahl bei YesStyle ansehen",
+            "href": "https://ystyle.co/BxprE",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Die Rechnung für einen Warenkorb mit dem Gutschein der Woche und CECILIA010",
+        "paragraphs": [
+          "Ein Beispiel mit den Preisen oben: das Abib-Augenpad (US$ 18,40), die Booster Crème (US$ 22,40), das Pad von celimax (US$ 15,75), die 345 Relief Cream (US$ 22,95) und der Sonnenschutz Anessa (US$ 15,05) ergeben zusammen US$ 94,55. Dieser Warenkorb überschreitet die Stufe von US$ 79 des Staffelgutscheins."
+        ],
+        "bullets": [
+          "**Mit dem Staffelgutschein von 8 %:** Der Gutschein im Feld Coupon Code nimmt US$ 7,56 ab.",
+          "**Mit 15 % auf jede Bestellung:** Der Rabatt des Gutscheins steigt auf US$ 14,18. Mitte November hatte der Shop so einen Gutschein ohne Mindestbestellwert, für Lieferungen in die USA, nach Großbritannien und nach Kanada.",
+          "**Dazu CECILIA010:** Im Feld Reward Code sind es 5 % bei der Erstbestellung oder 2 % bei den folgenden, zusätzlich zum Gutschein. Auf die US$ 94,55 sind 5 % US$ 4,73 und 2 % US$ 1,89.",
+          "**Die Reihenfolge der Berechnung bestimmt der Shop:** Wir haben nicht bestätigt, ob die 5 % auf den vollen Wert oder auf den Wert mit Gutschein angewendet werden. Die Bestellübersicht zeigt beide Rabattzeilen vor der Zahlung."
+        ],
+        "postParagraphs": [
+          "**Die Sprache der Seite bestimmt nicht das Lieferland.** Die Stufen von US$ 79, US$ 149 und US$ 199, der kostenlose Standardversand ab US$ 35 und der Versand von US$ 6 darunter sind das, was der Shop für die Lieferung in die USA zeigte, in Dollar. Wer auf Deutsch liest, kann in Deutschland, Österreich oder der Schweiz wohnen, und die Bedingungen ändern sich mit dem Ziel: die Währung, der Mindestwert für kostenlosen Versand, der Gutschein des Tages, die Versandmöglichkeit und die Regeln zu Steuern und Zollerstattung. Prüfen Sie alles im Checkout mit Ihrer Adresse und in den [Versandregeln von YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732). Was der Shop für die Lieferung nach Deutschland, Österreich und in die Schweiz veröffentlicht, steht im [Lieferratgeber zu YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz)."
+        ],
+        "links": [
+          {
+            "label": "Black-Friday-Angebote bei YesStyle ansehen",
+            "href": "https://ystyle.co/4RRfd",
+            "sponsored": true
+          },
+          {
+            "label": "Mit dem Code CECILIA010 zu YesStyle",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          },
+          {
+            "label": "Schritt für Schritt zum Reward Code CECILIA010",
+            "href": "/de/reviews/yesstyle-reward-code-rabatt-cecilia010"
           }
         ]
       },
@@ -59056,13 +60967,16 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Wann beginnt der Black Friday bei YesStyle und wie lange dauert er? Er hat bereits begonnen: Auf der Startseite des Shops stehen die Black Friday Mega Sale und ein Staffelgutschein. Das Ende hat YesStyle noch nicht veröffentlicht; 2024 und 2025 liefen die Gutscheine mit dem Namen Black Friday bis zum Cyber Monday.",
           "Welcher YesStyle-Gutschein gilt am Black Friday? Er wechselt alle paar Tage. Die YesStyle-Seite hier auf der Website zeigt den Code der Woche mit dem Datum.",
-          "Hat der Black-Friday-Gutschein von YesStyle einen Mindestbestellwert? Der Staffelgutschein schon: 8 % ab US$ 79, 10 % ab US$ 149 und 15 % ab US$ 199. 2024 und 2025 hat YesStyle an den Tagen rund um den Freitag und den Cyber Monday 15 % ohne Mindestbestellwert geöffnet; für 2026 ist noch nichts angekündigt.",
+          "Hat der Black-Friday-Gutschein von YesStyle einen Mindestbestellwert? Der Staffelgutschein schon: 8 % ab US$ 79, 10 % ab US$ 149 und 15 % ab US$ 199. 2024 und 2025 hat YesStyle an den Tagen rund um den Freitag und den Cyber Monday 15 % ohne Mindestbestellwert geöffnet; 2026 ist ein Gutschein über 15 % ohne Mindestbestellwert Mitte November bereits für die USA, Großbritannien und Kanada erschienen, und für die übrigen Länder gibt es noch keine Ankündigung.",
           "Kauft man bei YesStyle besser am Black Friday oder am Cyber Monday? 2024 und 2025 hatten beide 15 % ohne Mindestbestellwert, die Obergrenze des Gutscheins war also dieselbe. Was sich von einem Tag zum anderen ändert, ist der Aktionspreis der einzelnen Produkte.",
           "Hat YesStyle auch außerhalb des Black Friday Aktionen? Ja. Der Staffelgutschein mit 8 %, 10 % und 15 % läuft fast das ganze Jahr und wechselt alle paar Tage den Namen.",
           "Gilt der CECILIA010 am Black Friday? Ja. Er kommt in das Feld Reward Code, und die Regeln der Black-Friday-Gutscheine besagen, dass sie zusammen mit Reward Codes gelten.",
           "Kann man zwei YesStyle-Gutscheine in derselben Bestellung nutzen? Nein: Es gilt ein Gutschein pro Bestellung. Der Reward Code ist etwas anderes und kommt in ein anderes Feld des Checkouts.",
           "Braucht man ein YesStyle-Konto, um den Black-Friday-Gutschein zu nutzen? Ja. Die Gutscheine gelten nur für Mitglieder, und wer als Gast bestellt, bekommt den Rabatt nicht.",
-          "Zahle ich Steuern, wenn ich bei YesStyle kaufe? Bei der Ankunft des Pakets kann eine Abgabe anfallen. Bei berechtigten Bestellungen unter US$ 1.000 erstattet YesStyle die Zollabgaben als Guthaben im Shop, wenn Sie den Beleg innerhalb von 30 Tagen nach seinem Datum schicken. Umsatzsteuer, MwSt. und GST sind nicht abgedeckt."
+          "Zahle ich Steuern, wenn ich bei YesStyle kaufe? Bei der Ankunft des Pakets kann eine Abgabe anfallen. Bei berechtigten Bestellungen unter US$ 1.000 erstattet YesStyle die Zollabgaben als Guthaben im Shop, wenn Sie den Beleg innerhalb von 30 Tagen nach seinem Datum schicken. Umsatzsteuer, MwSt. und GST sind nicht abgedeckt.",
+          "Was lohnt sich am Black Friday von YesStyle zu kaufen? Das hängt von Ihrer Routine ab. Der Ratgeber gliedert nach Bedarf: die drei Abib-Produkte, die Cecília getestet hat, die Peeling-Pads von medicube und celimax, die Barrierecremes von Centellian24 und Dr. Althea und, für Ausstrahlung und Schutz, Beauty of Joseon, Dr. Ceuracle und Shiseido.",
+          "Gelten die Dollarpreise in diesem Ratgeber für jedes Land? Nein. Wir haben sie im englischen Shop gelesen, mit Lieferung in die USA. Währung, Preis, kostenloser Versand und Gutschein des Tages ändern sich mit dem Ziel: Der Checkout zeigt die Bedingungen für Ihre Adresse.",
+          "Kann ich das Retinal von Abib zusammen mit Peeling-Pads verwenden? In derselben Nacht ist das keine gute Idee: Säure und Retinoid zusammen reizen die Haut leicht. Wechseln Sie die Abende ab und verwenden Sie tagsüber Sonnenschutz."
         ]
       }
     ],
@@ -59085,7 +60999,18 @@ export const reviewsData: unknown[] = [
       {
         "slug": "ist-yesstyle-serioes-und-sicher"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie lassen in ein Land liefern, in das YesStyle versendet, und wissen schon, welches Produkt in Ihrer Routine fehlt.",
+        "Ihr Warenkorb überschreitet eine Stufe des Gutscheins, oder Sie können auf einen Tag mit 15 % auf jede Bestellung warten.",
+        "Sie haben den CECILIA010 noch nicht verwendet: Die 5 % des Reward Codes gelten bei der Erstbestellung."
+      ],
+      "skipIf": [
+        "Ihr Land steht nicht auf der Lieferliste von YesStyle: Prüfen Sie das, bevor Sie den Warenkorb zusammenstellen.",
+        "Sie wollten ein Zweier-Set eines Produkts, das Sie nie verwendet haben, nur wegen des Rabatts kaufen."
+      ]
+    }
   },
   {
     "id": 342,
@@ -59108,7 +61033,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle ha il Black Friday? Sì, è già attivo: Mega Sale, coupon a scaglioni dall'8% al 15% e come sommare il codice ricompensa CECILIA010.",
     "publishedAt": "11 ottobre 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -59124,7 +61049,7 @@ export const reviewsData: unknown[] = [
       "YesStyle rimborsa gli oneri doganali sugli ordini idonei inferiori a US$ 1.000, come credito nel negozio"
     ],
     "cons": [
-      "La data di fine e i giorni al 15% senza minimo del 2026 non sono ancora usciti: il resto è una stima basata sullo storico",
+      "Le date di fine e i giorni al 15% senza importo minimo per tutti i paesi non sono ancora usciti: il resto è una stima basata sullo storico",
       "Il coupon a scaglioni del Black Friday è lo stesso del resto dell'anno",
       "I coupon sono solo per i membri, uno per ordine, e non scontano la spedizione",
       "Acquisto internazionale: i tempi di consegna sono più lunghi di quelli di un negozio locale"
@@ -59133,13 +61058,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, YesStyle fa il Black Friday ed è già attivo: la home ha la Mega Sale, con offerte per prodotto e banner fino al 50% di sconto, e un coupon a scaglioni dà l'8%, il 10% o il 15%. CECILIA010 si somma a esso, nel campo Reward Code. I giorni al 15% senza minimo del 2026 non sono ancora annunciati."
+          "Sì, YesStyle fa il Black Friday ed è già attivo: la home ha la Mega Sale, con offerte per prodotto e banner fino al 50% di sconto, e un coupon a scaglioni dà l'8%, il 10% o il 15%. CECILIA010 si somma a esso, nel campo Reward Code. Le date di fine e dei giorni al 15% senza minimo per tutti i paesi non sono ancora annunciate."
         ]
       },
       {
         "heading": "Quando inizia il Black Friday di YesStyle",
         "paragraphs": [
-          "YesStyle pubblica le regole di ogni coupon nel centro assistenza del sito, con giorno e ora di inizio e di fine. La tabella qui sotto riporta le date del 2025; nel 2024 le fasi sono seguite nello stesso ordine e sono iniziate uno o due giorni dopo. Nel 2026 la campagna è già iniziata: il 3 novembre la home del negozio mostra la «Black Friday Mega Sale», con offerte per prodotto e banner fino al 50% di sconto, e il coupon a scaglioni di quel momento (8% sopra US$ 79, 10% sopra US$ 149 e 15% sopra US$ 199), che il negozio cambia ogni pochi giorni: controlla quello attuale prima di comprare. La scadenza di un coupon non significa che la campagna sia finita. La spedizione standard gratuita sopra US$ 35 dipende dalla destinazione: il checkout mostra la tua. La data di fine e i giorni al 15% senza minimo del 2026 non sono ancora usciti."
+          "YesStyle pubblica le regole di ogni coupon nel centro assistenza del sito, con giorno e ora di inizio e di fine. La tabella qui sotto riporta le date del 2025; nel 2024 le fasi sono seguite nello stesso ordine e sono iniziate uno o due giorni dopo. Nel 2026 la campagna è già iniziata: il 3 novembre la home del negozio mostra la «Black Friday Mega Sale», con offerte per prodotto e banner fino al 50% di sconto, e il coupon a scaglioni di quel momento (8% sopra US$ 79, 10% sopra US$ 149 e 15% sopra US$ 199), che il negozio cambia ogni pochi giorni: controlla quello attuale prima di comprare. La scadenza di un coupon non significa che la campagna sia finita. La spedizione standard gratuita sopra US$ 35 dipende dalla destinazione: il checkout mostra la tua. A metà novembre il negozio ha anche attivato un coupon del 15% su qualsiasi ordine, senza importo minimo, per le consegne negli Stati Uniti, nel Regno Unito e in Canada; per gli altri paesi vale il coupon a scaglioni. Le date di fine della campagna e dei giorni al 15% senza minimo per tutti i paesi non sono ancora uscite."
         ],
         "comparisonTable": {
           "caption": "Coupon aperti a tutti i membri nel 2025, dalle pagine di assistenza di YesStyle; ogni fase dura fino all'inizio della successiva. Date in orario GMT, che è quello che vale per il negozio.",
@@ -59285,9 +61210,27 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Un'idea di carrello: la routine Abib",
+        "heading": "Cosa comprare: come leggiamo i prezzi",
         "paragraphs": [
-          "Nel video alla fine di questo articolo, Cecília prova tre prodotti del marchio coreano Abib ricevuti da YesStyle: il patch in idrogel per gli occhi, la crema booster al PDRN e la maschera labbra. È una routine breve per chi inizia con lo skincare coreano, e un buon punto di partenza per preparare il carrello del Black Friday."
+          "Le prossime sezioni presentano i prodotti che valgono il carrello, marchio per marchio. Tutti i prezzi sono stati letti il 16 novembre 2026 nel negozio in inglese di YesStyle, con consegna negli Stati Uniti, in dollari. È il prezzo promozionale del giorno, quasi sempre con l'etichetta di offerta lampo, prima del coupon della settimana e di CECILIA010. Il prezzo cambia da un giorno all'altro e da un paese all'altro: il valore che conta è quello del tuo carrello.",
+          "YesStyle si dichiara rivenditore autorizzato di Abib, medicube, celimax, Centellian24, Dr. Althea, Beauty of Joseon e Dr. Ceuracle nella pagina di ogni prodotto. Nelle pagine Shiseido che abbiamo aperto questa frase non compare. Gli ingredienti citati sono quelli dell'elenco pubblicato nella pagina di ciascun prodotto in quella data; la confezione che ricevi è il riferimento finale."
+        ],
+        "links": [
+          {
+            "label": "Vedi le offerte del Black Friday su YesStyle",
+            "href": "https://ystyle.co/4RRfd",
+            "sponsored": true
+          },
+          {
+            "label": "Vedi il coupon YesStyle di oggi e il codice ricompensa CECILIA010",
+            "href": "/it/coupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "La routine Abib provata da Cecília: occhi, viso e labbra",
+        "paragraphs": [
+          "Nel video alla fine di questo articolo, Cecília prova tre prodotti Abib ricevuti da YesStyle. Sono gli unici di questo elenco con una nostra esperienza d'uso, raccontata in [Skincare coreana a 30 anni: la routine Abib](/it/reviews/skincare-coreana-a-30-anni-routine-principiante-abib-yesstyle). Tutti e tre contengono PDRN, e due contengono retinale."
         ],
         "images": [
           {
@@ -59295,27 +61238,380 @@ export const reviewsData: unknown[] = [
             "alt": "Cecília sorridente con in mano il barattolo dei patch in idrogel per gli occhi di Abib e un patch rosa",
             "caption": "Il patch in idrogel per gli occhi di Abib, nel video di Cecília.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/cn2Z5"
           },
           {
             "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
             "alt": "Cecília con in mano, vicino al viso, il tubo bianco della crema booster al PDRN di Abib",
             "caption": "La crema booster al PDRN di Abib.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/q5SUZ"
           },
           {
             "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
             "alt": "Cecília che fa il broncio con in mano il barattolo rosa della maschera labbra di Abib",
             "caption": "La maschera labbra di Abib.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/TS7jZ"
           }
+        ],
+        "comparisonTable": {
+          "caption": "I tre prodotti Abib provati da Cecília, con il prezzo in dollari nel negozio degli Stati Uniti, prima del coupon della settimana e di CECILIA010.",
+          "headers": [
+            "Prodotto",
+            "Formato",
+            "Prezzo del giorno",
+            "Costo per quantità",
+            "Cosa dichiara la pagina"
+          ],
+          "rows": [
+            [
+              "[Abib PDRN Retinal Eye Patch Glow Jelly](https://ystyle.co/cn2Z5)",
+              "60 patch",
+              "US$ 18,40 (prezzo pieno: US$ 23,00)",
+              "US$ 0,31 per patch",
+              "PDRN vegetale, retinale, collagene, niacinamide e caffeina"
+            ],
+            [
+              "[Abib PDRN Volume Fill-it Booster Crème 2.5 Tube](https://ystyle.co/q5SUZ)",
+              "30 ml",
+              "US$ 22,40 (prezzo pieno: US$ 28,00)",
+              "US$ 7,47 per 10 ml",
+              "15.000 ppm di PDRN, 10.000 ppm di Volufiline, retinale e peptidi"
+            ],
+            [
+              "[Abib PDRN Collagen Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ)",
+              "11 g",
+              "US$ 16,00 (prezzo pieno: US$ 20,00)",
+              "US$ 1,45 per grammo",
+              "PDRN di origine vegetale, collagene e centella; contiene profumo"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Per gli occhi:** il [patch in idrogel](https://ystyle.co/cn2Z5) è in un barattolo da 60 pezzi, cioè 30 applicazioni su entrambi gli occhi. Nella nostra lettura, la pagina lo mostrava come il più venduto della categoria maschere occhi del negozio.",
+          "**Per il viso:** la [Booster Crème 2.5](https://ystyle.co/q5SUZ) è in tubo da 30 ml. È il più caro per millilitro dei tre; la pagina vende anche il formato mini da 10 ml, utile per provarla prima del tubo pieno.",
+          "**Per le labbra:** la [Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ) è in barattolo da 11 g. È l'unica dei tre senza retinale nell'elenco degli ingredienti.",
+          "**Attenzione al retinale:** il patch e la crema contengono retinale, un retinoide. Usalo la sera, metti la protezione solare di giorno e non abbinarlo nella stessa sera ai dischi esfolianti della sezione successiva. Chi è in gravidanza o allatta deve usare retinoidi solo con indicazione medica.",
+          "**Il kit da due:** tutti e tre hanno una versione in kit con due pezzi, con uno sconto maggiore per unità. Conviene solo a chi usa già il prodotto."
         ],
         "links": [
           {
+            "label": "Vedi il Patch Occhi PDRN di Abib su YesStyle",
+            "href": "https://ystyle.co/cn2Z5",
+            "sponsored": true
+          },
+          {
+            "label": "Vedi la Booster Crème 2.5 al PDRN di Abib su YesStyle",
+            "href": "https://ystyle.co/q5SUZ",
+            "sponsored": true
+          },
+          {
+            "label": "Vedi la Lip Mask Glazed Jelly di Abib su YesStyle",
+            "href": "https://ystyle.co/TS7jZ",
+            "sponsored": true
+          },
+          {
             "label": "Com'è andata la routine Abib, prodotto per prodotto",
             "href": "/it/reviews/skincare-coreana-a-30-anni-routine-principiante-abib-yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Abib senza retinoide: maschera in tessuto e gel idratante",
+        "paragraphs": [
+          "Per chi non può o non vuole usare il retinale, Abib ha due prodotti che il negozio stesso elenca tra i più venduti del marchio. L'elenco degli ingredienti pubblicato nella pagina dei due non riporta né retinale né retinolo."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-abib-sem-retinoide.webp",
+          "alt": "Le cinque versioni della maschera in tessuto Gummy Sheet Mask di Abib, in confezioni nere, accanto al tubo nero dell'Hydration Gel Water Tube",
+          "caption": "Gummy Sheet Mask e Hydration Gel Water Tube, di Abib. Foto dei prodotti: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1.9562
+        },
+        "bullets": [
+          "**Abib Gummy Sheet Mask, versione Madecassoside Sticker:** maschera in tessuto da 27 g, venduta singola, a US$ 3,20 (prezzo pieno: US$ 4,90). La pagina descrive la versione come quella che idrata e calma. La stessa pagina vende altre quattro versioni: controlla di aver scelto la Madecassoside prima di metterla nel carrello.",
+          "**Abib Hydration Gel Water Tube:** gel idratante da 75 ml, a US$ 27,30 (prezzo pieno: US$ 39,00), cioè US$ 3,64 per 10 ml. La pagina dice che non ha profumo aggiunto e lascia un finish fresco e leggero."
+        ],
+        "links": [
+          {
+            "label": "Vedi la selezione Abib su YesStyle",
+            "href": "https://ystyle.co/fH8cM",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Pori e texture: medicube e celimax",
+        "paragraphs": [
+          "Qui la scelta è tra due dischi esfolianti. Sono entrambi barattoli di dischi imbevuti di tonico con acido, e la differenza sta nella formula e nel prezzo per disco."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-poros-medicube-celimax.webp",
+          "alt": "Quattro prodotti in griglia: barattolo blu dello Zero Pore Pad e tubo del Red Foam Cleanser, di medicube, e barattolo verde dell'Heartleaf BHA Peeling Pad e flacone lilla dell'olio detergente, di celimax",
+          "caption": "Zero Pore Pad e Red Foam Cleanser, di medicube; Heartleaf BHA Peeling Pad e olio detergente Derma Nature, di celimax. Foto dei prodotti: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Dischi e detergenti di medicube e celimax, con il prezzo in dollari nel negozio degli Stati Uniti, prima del coupon della settimana e di CECILIA010.",
+          "headers": [
+            "Prodotto",
+            "Formato",
+            "Prezzo del giorno",
+            "Costo per quantità",
+            "Cosa dichiara la pagina"
+          ],
+          "rows": [
+            [
+              "medicube Zero Pore Pad 2.0",
+              "70 dischi",
+              "US$ 21,90 (prezzo pieno: US$ 31,00)",
+              "US$ 0,31 per disco",
+              "Acido lattico (AHA), acido salicilico (BHA), pantenolo e centella; contiene alcol nella formula"
+            ],
+            [
+              "medicube Zero Pore Pad Mild",
+              "70 dischi (155 g)",
+              "US$ 21,90 (prezzo pieno: US$ 31,00)",
+              "US$ 0,31 per disco",
+              "Versione delicata dello Zero Pore Pad, con acido salicilico e PHA, secondo la descrizione"
+            ],
+            [
+              "celimax JI.WOO.GAE Heartleaf BHA Peeling Pad",
+              "60 dischi",
+              "US$ 15,75 (prezzo pieno: US$ 21,00)",
+              "US$ 0,26 per disco",
+              "Estratto di houttuynia (heartleaf), salicilato di betaina (BHA), madecassoside e acido ialuronico"
+            ],
+            [
+              "medicube Red Foam Cleanser",
+              "120 ml",
+              "US$ 17,90 (prezzo pieno: US$ 34,00)",
+              "US$ 14,92 per 100 ml",
+              "Schiuma detergente con lo 0,5% di acido salicilico"
+            ],
+            [
+              "celimax Derma Nature Fresh Blackhead Jojoba Cleansing Oil",
+              "150 ml",
+              "US$ 14,25 (prezzo pieno: US$ 19,00)",
+              "US$ 9,50 per 100 ml",
+              "Olio detergente con sei oli vegetali, tra cui quello di jojoba"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Vuoi il disco più forte:** lo Zero Pore Pad 2.0 unisce AHA e BHA ed era il più venduto della categoria esfolianti del negozio nella nostra lettura. La pagina stessa consiglia di non usarlo insieme ad altri acidi forti e di alternare i giorni.",
+          "**Vuoi iniziare con calma:** il disco di celimax usa salicilato di betaina, costa meno per disco e la pagina lo descrive come delicato per l'uso quotidiano. Lo Zero Pore Pad Mild è l'alternativa dentro medicube.",
+          "**Detersione:** l'olio di celimax costa meno per 100 ml della schiuma di medicube. La Red Erasing Cream, la crema della stessa linea Red, era esaurita nel formato da 50 ml, con attesa di circa tre settimane.",
+          "**Non abbinarlo al retinoide:** disco con acido e prodotto con retinale nella stessa sera è la combinazione che irrita di più. Alterna le sere."
+        ],
+        "links": [
+          {
+            "label": "Vedi la selezione medicube su YesStyle",
+            "href": "https://ystyle.co/ErjTv",
+            "sponsored": true
+          },
+          {
+            "label": "Vedi la selezione celimax su YesStyle",
+            "href": "https://ystyle.co/QJfLB",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Barriera e idratazione: Centellian24 e Dr. Althea",
+        "paragraphs": [
+          "Per la pelle secca o sensibilizzata, i candidati sono le creme alla centella di Centellian24, marchio della casa farmaceutica coreana Dongkook, e le due creme più vendute di Dr. Althea."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
+          "alt": "Quattro prodotti in griglia: crema Madeca Cream Time Reverse ed essenza Madeca Toning Essence Treatment, di Centellian24, e le creme 345 Relief Cream e 147 Barrier Cream, di Dr. Althea",
+          "caption": "Madeca Cream Time Reverse e Madeca Toning Essence Treatment, di Centellian24; 345 Relief Cream e 147 Barrier Cream, di Dr. Althea. Foto dei prodotti: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Creme ed essenza di Centellian24 e Dr. Althea, con il prezzo in dollari nel negozio degli Stati Uniti, prima del coupon della settimana e di CECILIA010.",
+          "headers": [
+            "Prodotto",
+            "Formato",
+            "Prezzo del giorno",
+            "Costo per quantità",
+            "Cosa dichiara la pagina"
+          ],
+          "rows": [
+            [
+              "Centellian24 Madeca Cream Time Reverse",
+              "50 ml",
+              "US$ 24,00 (prezzo pieno: US$ 32,00)",
+              "US$ 4,80 per 10 ml",
+              "TECA (estratto titolato di centella), niacinamide, collagene e retinolo"
+            ],
+            [
+              "Centellian24 Madeca Toning Essence Treatment",
+              "150 ml",
+              "US$ 22,50 (prezzo pieno: US$ 30,00)",
+              "US$ 15,00 per 100 ml",
+              "Estratto di centella, 10 ppm di TECA e niacinamide"
+            ],
+            [
+              "Dr. Althea 345 Relief Cream",
+              "50 ml",
+              "US$ 22,95 (prezzo pieno: US$ 27,00)",
+              "US$ 4,59 per 10 ml",
+              "Acqua di foglie di tea tree, niacinamide, acido ialuronico e ceramide NP"
+            ],
+            [
+              "Dr. Althea 147 Barrier Cream",
+              "50 ml",
+              "US$ 22,95 (prezzo pieno: US$ 27,00)",
+              "US$ 4,59 per 10 ml",
+              "Squalano, acido ialuronico, pantenolo e ceramidi; senza profumo artificiale"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Il più venduto del negozio:** la 345 Relief Cream compariva al primo posto nella classifica generale beauty di YesStyle nella nostra lettura, con più di 33 mila recensioni. La pagina la presenta come crema per dopo l'acne, che riduce il rossore visibile.",
+          "**Per la pelle secca senza profumo:** la 147 Barrier Cream è quella dello stesso marchio pensata per costruire la barriera di idratazione.",
+          "**La Madeca Cream contiene retinolo:** nonostante la fama di crema alla centella, la formula del Time Reverse contiene retinolo. Vale la stessa attenzione del retinale di Abib. Nella nostra lettura il barattolo da 50 ml era esaurito, con attesa di circa tre settimane; il formato mini da 15 ml costava US$ 11,25.",
+          "**Passaggio leggero prima della crema:** la Toning Essence Treatment è l'opzione alla centella senza retinoide nell'elenco pubblicato, in flacone da 150 ml.",
+          "**Mini da 15 ml:** le due creme di Dr. Althea hanno il formato mini a US$ 8,42, utile per provarle o per completare il carrello."
+        ],
+        "links": [
+          {
+            "label": "Vedi la selezione Centellian24 su YesStyle",
+            "href": "https://ystyle.co/2UD4F",
+            "sponsored": true
+          },
+          {
+            "label": "Vedi la selezione Dr. Althea su YesStyle",
+            "href": "https://ystyle.co/X94R9",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Luminosità e protezione: Beauty of Joseon, Dr. Ceuracle e Shiseido",
+        "paragraphs": [
+          "L'ultimo gruppo mette insieme una crema nutriente, una fiala alla propoli e i giapponesi di Shiseido, che vanno bene quando manca poco al carrello per raggiungere uno scaglione di coupon o di spedizione."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
+          "alt": "Quattro prodotti in griglia: barattolo aperto del Dynasty Cream di Beauty of Joseon, flacone della fiala Royal Vita Propolis 33 e tubo della schiuma Tea Tree Purifine, di Dr. Ceuracle, e scatola blu della protezione solare Anessa, di Shiseido",
+          "caption": "Dynasty Cream, di Beauty of Joseon; Royal Vita Propolis 33 Ampoule e Tea Tree Purifine Cleansing Foam, di Dr. Ceuracle; Anessa Perfect UV Sunscreen Skincare Milk, di Shiseido. Foto dei prodotti: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Prodotti di Beauty of Joseon, Dr. Ceuracle e Shiseido, con il prezzo in dollari nel negozio degli Stati Uniti, prima del coupon della settimana e di CECILIA010.",
+          "headers": [
+            "Prodotto",
+            "Formato",
+            "Prezzo del giorno",
+            "Costo per quantità",
+            "Cosa dichiara la pagina"
+          ],
+          "rows": [
+            [
+              "Beauty of Joseon Dynasty Cream",
+              "50 g",
+              "US$ 19,20 (prezzo pieno: US$ 24,00)",
+              "US$ 3,84 per 10 g",
+              "Acqua di crusca di riso, acqua di radice di ginseng, niacinamide e squalano"
+            ],
+            [
+              "Beauty of Joseon Dynasty Cream Jumbo",
+              "100 ml",
+              "US$ 27,20 (prezzo pieno: US$ 34,00)",
+              "US$ 2,72 per 10 ml",
+              "La stessa formula, nel barattolo grande"
+            ],
+            [
+              "Dr. Ceuracle Royal Vita Propolis 33 Ampoule Jumbo",
+              "30 ml",
+              "US$ 23,55 (prezzo pieno: US$ 31,40)",
+              "US$ 7,85 per 10 ml",
+              "33,5% di estratto di propoli, estratto di pappa reale, niacinamide e pantenolo"
+            ],
+            [
+              "Dr. Ceuracle Tea Tree Purifine Cleansing Foam",
+              "150 g",
+              "US$ 15,60 (prezzo pieno: US$ 24,00)",
+              "US$ 10,40 per 100 g",
+              "Gel che diventa schiuma, con il 30% di estratto di tea tree"
+            ],
+            [
+              "Shiseido Anessa Perfect UV Sunscreen Skincare Milk",
+              "60 ml",
+              "US$ 15,05 (prezzo pieno: US$ 21,50)",
+              "US$ 2,51 per 10 ml",
+              "Protezione solare SPF 50+ PA++++, con filtri minerali e chimici"
+            ],
+            [
+              "Shiseido Fino Premium Touch Hair Mask",
+              "230 g",
+              "US$ 11,62 (prezzo pieno: US$ 16,60)",
+              "US$ 5,05 per 100 g",
+              "Maschera per capelli alla pappa reale; primo posto nella cura dei capelli del negozio"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Dynasty Cream, barattolo da 50 g o Jumbo:** il Jumbo costa circa il 30% in meno per quantità, ma è il doppio della crema. Conviene solo a chi la usa già ogni giorno; la prima volta, il barattolo da 50 g.",
+          "**Fiala alla propoli:** è il prodotto luminosità dell'elenco, con una texture che la pagina paragona a quella del miele. Va dopo il tonico e prima della crema.",
+          "**Protezione solare:** l'Anessa è quella che chiude la routine di chi ha comprato un qualsiasi prodotto con retinale o retinolo delle sezioni sopra.",
+          "**Per completare il carrello:** la maschera per capelli Fino e la gomma di ricambio per il curvex di Shiseido (3 pezzi a US$ 3,14) sono articoli economici e utili quando mancano pochi dollari allo scaglione. Della linea Benefiance, la Wrinkle Smoothing Cream costava US$ 115,40 e non aveva sconto nella nostra lettura."
+        ],
+        "links": [
+          {
+            "label": "Vedi la selezione Beauty of Joseon su YesStyle",
+            "href": "https://ystyle.co/1PRZC",
+            "sponsored": true
+          },
+          {
+            "label": "Vedi la selezione Dr. Ceuracle su YesStyle",
+            "href": "https://ystyle.co/aQ7Bk",
+            "sponsored": true
+          },
+          {
+            "label": "Vedi la selezione Shiseido su YesStyle",
+            "href": "https://ystyle.co/BxprE",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Il conto di un carrello con il coupon della settimana e CECILIA010",
+        "paragraphs": [
+          "Un esempio con i prezzi qui sopra: il patch occhi di Abib (US$ 18,40), la Booster Crème (US$ 22,40), il disco di celimax (US$ 15,75), la 345 Relief Cream (US$ 22,95) e la protezione Anessa (US$ 15,05) fanno US$ 94,55. Questo carrello supera lo scaglione di US$ 79 del coupon a scaglioni."
+        ],
+        "bullets": [
+          "**Con il coupon a scaglioni dell'8%:** il coupon, nel campo Coupon Code, toglie US$ 7,56.",
+          "**Con il 15% su qualsiasi ordine:** lo sconto del coupon sale a US$ 14,18. A metà novembre il negozio aveva un coupon così, senza importo minimo, per le consegne negli Stati Uniti, nel Regno Unito e in Canada.",
+          "**Più CECILIA010:** nel campo Reward Code, sono il 5% sul primo ordine o il 2% sui successivi, in aggiunta al coupon. Su US$ 94,55, il 5% sono US$ 4,73 e il 2% sono US$ 1,89.",
+          "**L'ordine del calcolo lo decide il negozio:** non abbiamo confermato se il 5% si applichi sul valore pieno o sul valore già scontato dal coupon. Il riepilogo dell'ordine mostra le due righe di sconto prima del pagamento."
+        ],
+        "postParagraphs": [
+          "**La lingua della pagina non decide il paese di consegna.** Gli scaglioni di US$ 79, US$ 149 e US$ 199, la spedizione standard gratuita da US$ 35 e la spedizione da US$ 6 sotto questa soglia sono ciò che il negozio mostrava per la consegna negli Stati Uniti, in dollari. Chi legge in italiano può trovarsi in Italia, in Svizzera o in Canada, e le condizioni cambiano con la destinazione: la valuta, il minimo per la spedizione gratuita, il coupon del giorno, la disponibilità di spedizione e le regole su imposte e rimborso doganale. Controlla tutto al checkout, con il tuo indirizzo, e nelle [regole di spedizione di YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732). Cosa pubblica il negozio per l'Italia, tempi e costi sono nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana)."
+        ],
+        "links": [
+          {
+            "label": "Vedi le offerte del Black Friday su YesStyle",
+            "href": "https://ystyle.co/4RRfd",
+            "sponsored": true
+          },
+          {
+            "label": "Vai su YesStyle con il codice CECILIA010",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          },
+          {
+            "label": "Guida passo passo al codice ricompensa CECILIA010",
+            "href": "/it/reviews/codice-ricompensa-yesstyle-cecilia010"
           }
         ]
       },
@@ -59324,13 +61620,16 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando inizia il Black Friday di YesStyle e quanto dura? È già iniziato: la home del negozio ha la Black Friday Mega Sale e un coupon a scaglioni. YesStyle non ha ancora pubblicato la fine; nel 2024 e nel 2025 i coupon con il nome Black Friday sono durati fino al Cyber Monday.",
           "Qual è il coupon di YesStyle nel Black Friday? Cambia ogni pochi giorni. La pagina di YesStyle qui sul sito mostra il codice della settimana, con la data.",
-          "Il coupon del Black Friday di YesStyle ha un importo minimo? Il coupon a scaglioni sì: 8% da US$ 79, 10% da US$ 149 e 15% da US$ 199. Nel 2024 e nel 2025 YesStyle ha aperto il 15% senza minimo nei giorni vicini al venerdì e al Cyber Monday; per il 2026 non c'è ancora nulla di annunciato.",
+          "Il coupon del Black Friday di YesStyle ha un importo minimo? Il coupon a scaglioni sì: 8% da US$ 79, 10% da US$ 149 e 15% da US$ 199. Nel 2024 e nel 2025 YesStyle ha aperto il 15% senza minimo nei giorni vicini al venerdì e al Cyber Monday; nel 2026 un coupon del 15% senza minimo è già comparso a metà novembre per Stati Uniti, Regno Unito e Canada, e per gli altri paesi non c'è ancora nulla di annunciato.",
           "Su YesStyle è meglio comprare nel Black Friday o nel Cyber Monday? Nel 2024 e nel 2025 entrambi hanno avuto il 15% senza minimo, quindi il tetto del coupon è stato lo stesso. Ciò che cambia da un giorno all'altro è il prezzo promozionale di ogni prodotto.",
           "YesStyle ha promozioni fuori dal Black Friday? Sì. Il coupon a scaglioni, dell'8%, 10% e 15%, resta attivo quasi tutto l'anno e cambia nome ogni pochi giorni.",
           "CECILIA010 vale nel Black Friday? Sì. Va nel campo Reward Code, e le regole dei coupon del Black Friday dicono che valgono insieme ai Reward Code.",
           "Si possono usare due coupon di YesStyle nello stesso ordine? No: è un coupon per ordine. Il codice ricompensa è un'altra cosa e va in un altro campo del checkout.",
           "Serve un account su YesStyle per usare il coupon del Black Friday? Sì. I coupon sono solo per i membri, e chi acquista come ospite resta senza sconto.",
-          "Pagherò tasse acquistando su YesStyle? Può esserci un addebito all'arrivo del pacco. Sugli ordini idonei inferiori a US$ 1.000, YesStyle rimborsa gli oneri doganali come credito nel negozio, se invii la ricevuta entro 30 giorni dalla sua data. Imposta sulle vendite, IVA e GST non sono coperte."
+          "Pagherò tasse acquistando su YesStyle? Può esserci un addebito all'arrivo del pacco. Sugli ordini idonei inferiori a US$ 1.000, YesStyle rimborsa gli oneri doganali come credito nel negozio, se invii la ricevuta entro 30 giorni dalla sua data. Imposta sulle vendite, IVA e GST non sono coperte.",
+          "Cosa conviene comprare nel Black Friday di YesStyle? Dipende dalla routine. La guida separa i prodotti per esigenza: i tre prodotti Abib provati da Cecília, i dischi esfolianti di medicube e celimax, le creme barriera di Centellian24 e Dr. Althea e, per luminosità e protezione, Beauty of Joseon, Dr. Ceuracle e Shiseido.",
+          "I prezzi in dollari di questa guida valgono per qualsiasi paese? No. Sono stati letti nel negozio in inglese, con consegna negli Stati Uniti. Valuta, prezzo, spedizione gratuita e coupon del giorno cambiano con la destinazione: il checkout mostra le condizioni del tuo indirizzo.",
+          "Posso usare il retinale di Abib insieme ai dischi esfolianti? Nella stessa sera non è una buona idea: acido e retinoide insieme irritano facilmente la pelle. Alterna le sere e usa la protezione solare di giorno."
         ]
       }
     ],
@@ -59353,7 +61652,18 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-e-affidabile-e-sicuro"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Ricevi in un paese dove YesStyle consegna e sai già quale prodotto manca nella tua routine.",
+        "Il tuo carrello supera uno scaglione del coupon, oppure puoi aspettare un giorno al 15% su qualsiasi ordine.",
+        "Non hai ancora usato CECILIA010: il 5% del Reward Code vale sul primo ordine."
+      ],
+      "skipIf": [
+        "Il tuo paese non è nell'elenco delle consegne di YesStyle: controlla prima di preparare il carrello.",
+        "Stavi per comprare un kit da due pezzi di un prodotto che non hai mai usato solo per lo sconto."
+      ]
+    }
   },
   {
     "id": 343,
@@ -59376,7 +61686,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle 블랙프라이데이 세일을 하나요? 네, 진행 중입니다: Mega Sale, 8~15% 구간별 쿠폰, 최소 금액 없는 15% 데이, 리워드 코드 CECILIA010 함께 쓰는 법.",
     "publishedAt": "2026년 10월 11일",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -59392,7 +61702,7 @@ export const reviewsData: unknown[] = [
       "YesStyle은 대상이 되는 US$ 1,000 미만 주문에서 낸 관세 등 세금을 스토어 크레딧으로 돌려줌"
     ],
     "cons": [
-      "2026년 종료일과 최소 금액 없는 15% 데이는 아직 나오지 않음: 앞으로의 일정은 과거 기록으로 한 추정",
+      "종료일과 모든 나라에 적용되는 최소 금액 없는 15% 데이는 아직 나오지 않음: 앞으로의 일정은 과거 기록으로 한 추정",
       "블랙프라이데이의 구간별 쿠폰은 평소와 같음",
       "쿠폰은 회원 전용이고, 주문당 하나만 쓸 수 있으며, 배송비에는 적용되지 않음",
       "해외 구매라서 배송 기간이 가까운 쇼핑몰보다 깁니다"
@@ -59401,13 +61711,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "핵심 요약",
         "paragraphs": [
-          "네, YesStyle은 블랙프라이데이를 하고 있고 이미 진행 중입니다. 홈에는 Mega Sale이 열려 상품별 특가와 최대 50% 할인 배너가 걸려 있고, 구간별 쿠폰은 8%, 10%, 15%입니다. CECILIA010은 Reward Code 칸에 넣어 함께 쓸 수 있습니다. YesStyle은 2026년 최소 금액 없는 15% 데이를 아직 발표하지 않았습니다."
+          "네, YesStyle은 블랙프라이데이를 하고 있고 이미 진행 중입니다. 홈에는 Mega Sale이 열려 상품별 특가와 최대 50% 할인 배너가 걸려 있고, 구간별 쿠폰은 8%, 10%, 15%입니다. CECILIA010은 Reward Code 칸에 넣어 함께 쓸 수 있습니다. 11월 중순에는 미국, 영국, 캐나다 배송에 한해 최소 금액 없는 15% 쿠폰이 나왔고, 다른 나라는 아직 발표가 없습니다."
         ]
       },
       {
         "heading": "YesStyle 블랙프라이데이는 언제 시작하나요",
         "paragraphs": [
-          "YesStyle은 각 쿠폰의 규정을 시작·종료 날짜와 시각까지 적어 사이트 고객센터에 올립니다. 아래 표는 2025년 일정입니다. 2024년에도 단계는 같은 순서로 진행됐고, 하루나 이틀 늦게 시작했습니다. 2026년에는 캠페인이 이미 시작됐습니다. 11월 3일 기준 스토어 홈에는 상품별 특가와 최대 50% 할인 배너가 걸린 “Black Friday Mega Sale”과 구간별 쿠폰(US$ 79 이상 8%, US$ 149 이상 10%, US$ 199 이상 15%)이 있으며, 쿠폰은 스토어가 며칠마다 바꾸므로 구매 전에 현재 쿠폰을 확인하세요. 쿠폰이 끝났다고 캠페인이 끝난 것은 아닙니다. US$ 35 이상 기본 배송 무료는 배송지에 따라 다르며, 결제 화면에서 확인할 수 있습니다. 2026년 종료일과 최소 금액 없는 15% 데이는 아직 나오지 않았습니다."
+          "YesStyle은 각 쿠폰의 규정을 시작·종료 날짜와 시각까지 적어 사이트 고객센터에 올립니다. 아래 표는 2025년 일정입니다. 2024년에도 단계는 같은 순서로 진행됐고, 하루나 이틀 늦게 시작했습니다. 2026년에는 캠페인이 이미 시작됐습니다. 11월 3일 기준 스토어 홈에는 상품별 특가와 최대 50% 할인 배너가 걸린 “Black Friday Mega Sale”과 구간별 쿠폰(US$ 79 이상 8%, US$ 149 이상 10%, US$ 199 이상 15%)이 있으며, 쿠폰은 스토어가 며칠마다 바꾸므로 구매 전에 현재 쿠폰을 확인하세요. 쿠폰이 끝났다고 캠페인이 끝난 것은 아닙니다. US$ 35 이상 기본 배송 무료는 배송지에 따라 다르며, 결제 화면에서 확인할 수 있습니다. 11월 중순에는 스토어가 미국, 영국, 캐나다 배송에 한해 최소 금액 없이 모든 주문에 15% 쿠폰도 열었고, 다른 배송지에서는 구간별 쿠폰이 적용됩니다. 캠페인 종료일과 모든 나라에 적용되는 최소 금액 없는 15% 데이는 아직 나오지 않았습니다."
         ],
         "comparisonTable": {
           "caption": "2025년에 모든 회원이 쓸 수 있던 쿠폰, YesStyle 도움말 페이지 기준. 각 단계는 다음 단계가 시작될 때까지 이어집니다. 날짜와 시각은 스토어 기준인 GMT입니다.",
@@ -59553,9 +61863,27 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "장바구니 아이디어: Abib 루틴",
+        "heading": "어떤 제품을 살까: 가격을 읽은 방법",
         "paragraphs": [
-          "이 글 끝의 영상에서 Cecília는 YesStyle에서 받은 한국 브랜드 Abib 제품 세 가지를 써 봅니다. 아이 하이드로겔 패치, PDRN 부스터 크림, 립 마스크입니다. 한국 스킨케어를 막 시작하는 사람을 위한 짧은 루틴이고, 블랙프라이데이 장바구니를 짜는 좋은 출발점입니다."
+          "다음 섹션들은 장바구니에 담을 만한 제품을 브랜드별로 정리합니다. 모든 가격은 2026년 11월 16일에 YesStyle 영어 스토어에서 미국 배송, 달러 기준으로 읽었습니다. 그날의 프로모션 가격이고 대부분 번개 특가 표시가 붙어 있으며, 이번 주 쿠폰과 CECILIA010을 적용하기 전 금액입니다. 가격은 날마다, 나라마다 바뀌므로 내 장바구니의 금액이 기준입니다.",
+          "YesStyle은 상품 페이지에서 Abib, medicube, celimax, Centellian24, Dr. Althea, Beauty of Joseon, Dr. Ceuracle의 공식 판매처라고 밝힙니다. 우리가 연 Shiseido 페이지에는 이 문구가 없었습니다. 언급한 성분은 그날 각 상품 페이지에 게시된 목록의 것이며, 최종 기준은 실제로 도착한 포장입니다."
+        ],
+        "links": [
+          {
+            "label": "YesStyle 블랙프라이데이 특가 보기",
+            "href": "https://ystyle.co/4RRfd",
+            "sponsored": true
+          },
+          {
+            "label": "오늘의 YesStyle 쿠폰과 리워드 코드 CECILIA010 보기",
+            "href": "/ko/coupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Cecília가 써 본 Abib 루틴: 눈, 얼굴, 입술",
+        "paragraphs": [
+          "이 글 끝의 영상에서 Cecília는 YesStyle에서 받은 Abib 제품 세 가지를 써 봅니다. 이 목록에서 우리가 직접 써 본 경험이 있는 제품은 이 셋뿐이고, [30대 한국 스킨케어: Abib 루틴](/ko/reviews/abib-skincare-routine-30-ko)에 정리했습니다. 세 제품 모두 PDRN이 들어 있고, 둘에는 레티날이 들어 있습니다."
         ],
         "images": [
           {
@@ -59563,27 +61891,380 @@ export const reviewsData: unknown[] = [
             "alt": "Abib 아이 하이드로겔 패치 용기와 분홍색 패치를 들고 웃는 Cecília",
             "caption": "Cecília 영상에 나온 Abib 아이 하이드로겔 패치.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/cn2Z5"
           },
           {
             "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
             "alt": "Abib PDRN 부스터 크림의 흰색 튜브를 얼굴 가까이에 든 Cecília",
             "caption": "Abib PDRN 부스터 크림.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/q5SUZ"
           },
           {
             "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
             "alt": "입술을 내밀고 Abib 분홍색 립 마스크 용기를 든 Cecília",
             "caption": "Abib 립 마스크.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/TS7jZ"
           }
+        ],
+        "comparisonTable": {
+          "caption": "Cecília가 써 본 Abib 제품 세 가지. 미국 스토어의 달러 가격이며, 이번 주 쿠폰과 CECILIA010을 적용하기 전 금액입니다.",
+          "headers": [
+            "제품",
+            "용량",
+            "그날 가격",
+            "수량당 비용",
+            "페이지에 적힌 내용"
+          ],
+          "rows": [
+            [
+              "[Abib PDRN Retinal Eye Patch Glow Jelly](https://ystyle.co/cn2Z5)",
+              "패치 60장",
+              "US$ 18.40 (정가 US$ 23.00)",
+              "패치 1장당 US$ 0.31",
+              "식물성 PDRN, 레티날, 콜라겐, 나이아신아마이드, 카페인"
+            ],
+            [
+              "[Abib PDRN Volume Fill-it Booster Crème 2.5 Tube](https://ystyle.co/q5SUZ)",
+              "30ml",
+              "US$ 22.40 (정가 US$ 28.00)",
+              "10ml당 US$ 7.47",
+              "PDRN 15,000ppm, Volufiline 10,000ppm, 레티날, 펩타이드"
+            ],
+            [
+              "[Abib PDRN Collagen Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ)",
+              "11g",
+              "US$ 16.00 (정가 US$ 20.00)",
+              "1g당 US$ 1.45",
+              "식물성 PDRN, 콜라겐, 센텔라. 향료 포함"
+            ]
+          ]
+        },
+        "bullets": [
+          "**눈:** [하이드로겔 패치](https://ystyle.co/cn2Z5)는 60장이 든 용기로, 양쪽 눈에 30번 쓸 수 있습니다. 우리가 읽은 시점에 이 페이지는 스토어의 아이 마스크 카테고리 베스트셀러로 표시되어 있었습니다.",
+          "**얼굴:** [Booster Crème 2.5](https://ystyle.co/q5SUZ)는 30ml 튜브입니다. 세 제품 중 ml당 가격이 가장 높고, 같은 페이지에서 10ml 미니도 팔아서 용량이 큰 튜브를 사기 전에 써 볼 수 있습니다.",
+          "**입술:** [Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ)는 11g 용기입니다. 세 제품 중 성분 목록에 레티날이 없는 유일한 제품입니다.",
+          "**레티날 주의:** 아이 패치와 크림에는 레티노이드인 레티날이 들어 있습니다. 밤에 쓰고, 낮에는 자외선 차단제를 바르고, 다음 섹션의 각질 제거 패드와는 같은 날 밤에 함께 쓰지 마세요. 임신 중이거나 수유 중이라면 의사와 상의한 뒤에만 레티노이드를 쓰세요.",
+          "**2개 세트:** 세 제품 모두 2개 세트가 있고 개당 할인이 더 큽니다. 이미 쓰고 있는 제품일 때만 이득입니다."
         ],
         "links": [
           {
+            "label": "YesStyle에서 Abib PDRN 아이 패치 보기",
+            "href": "https://ystyle.co/cn2Z5",
+            "sponsored": true
+          },
+          {
+            "label": "YesStyle에서 Abib PDRN 부스터 크림 보기",
+            "href": "https://ystyle.co/q5SUZ",
+            "sponsored": true
+          },
+          {
+            "label": "YesStyle에서 Abib 립 마스크 Glazed Jelly 보기",
+            "href": "https://ystyle.co/TS7jZ",
+            "sponsored": true
+          },
+          {
             "label": "Abib 루틴을 제품별로 보기",
             "href": "/ko/reviews/abib-skincare-routine-30-ko"
+          }
+        ]
+      },
+      {
+        "heading": "레티노이드 없는 Abib: 시트 마스크와 수분 젤",
+        "paragraphs": [
+          "레티날을 쓸 수 없거나 쓰고 싶지 않다면, 스토어가 브랜드 베스트셀러로 꼽은 Abib 제품이 둘 있습니다. 두 상품 페이지에 게시된 성분 목록에는 레티날도 레티놀도 없습니다."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-abib-sem-retinoide.webp",
+          "alt": "검은 포장의 Abib Gummy Sheet Mask 다섯 가지 버전과 검은색 Hydration Gel Water Tube 튜브가 나란히 놓인 모습",
+          "caption": "Abib Gummy Sheet Mask와 Hydration Gel Water Tube. 제품 사진: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1.9562
+        },
+        "bullets": [
+          "**Abib Gummy Sheet Mask, Madecassoside Sticker 버전:** 27g 시트 마스크, 낱개 판매, US$ 3.20(정가 US$ 4.90). 페이지는 이 버전을 수분 공급과 진정용으로 설명합니다. 같은 페이지에서 다른 네 가지 버전도 팔기 때문에, 장바구니에 담기 전에 Madecassoside 버전을 골랐는지 확인하세요.",
+          "**Abib Hydration Gel Water Tube:** 75ml 수분 젤, US$ 27.30(정가 US$ 39.00), 10ml당 US$ 3.64. 페이지에는 향료를 따로 넣지 않았고 마무리가 산뜻하고 무겁지 않다고 나와 있습니다."
+        ],
+        "links": [
+          {
+            "label": "YesStyle에서 Abib 셀렉션 보기",
+            "href": "https://ystyle.co/fH8cM",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "모공과 피부결: medicube와 celimax",
+        "paragraphs": [
+          "여기서는 각질 제거 패드 두 가지 중에서 고릅니다. 둘 다 산 성분이 든 토너를 적신 패드가 담긴 용기이고, 차이는 처방과 패드당 가격입니다."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-poros-medicube-celimax.webp",
+          "alt": "격자로 놓인 제품 네 가지: medicube의 파란 Zero Pore Pad 용기와 Red Foam Cleanser 튜브, celimax의 초록색 Heartleaf BHA Peeling Pad 용기와 연보라색 클렌징 오일 병",
+          "caption": "medicube의 Zero Pore Pad와 Red Foam Cleanser, celimax의 Heartleaf BHA Peeling Pad와 Derma Nature 클렌징 오일. 제품 사진: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "medicube와 celimax의 패드와 클렌저. 미국 스토어의 달러 가격이며, 이번 주 쿠폰과 CECILIA010을 적용하기 전 금액입니다.",
+          "headers": [
+            "제품",
+            "용량",
+            "그날 가격",
+            "수량당 비용",
+            "페이지에 적힌 내용"
+          ],
+          "rows": [
+            [
+              "medicube Zero Pore Pad 2.0",
+              "패드 70장",
+              "US$ 21.90 (정가 US$ 31.00)",
+              "패드 1장당 US$ 0.31",
+              "젖산(AHA), 살리실산(BHA), 판테놀, 센텔라. 알코올 포함"
+            ],
+            [
+              "medicube Zero Pore Pad Mild",
+              "패드 70장(155g)",
+              "US$ 21.90 (정가 US$ 31.00)",
+              "패드 1장당 US$ 0.31",
+              "설명에 따르면 Zero Pore Pad의 순한 버전으로, 살리실산과 PHA 포함"
+            ],
+            [
+              "celimax JI.WOO.GAE Heartleaf BHA Peeling Pad",
+              "패드 60장",
+              "US$ 15.75 (정가 US$ 21.00)",
+              "패드 1장당 US$ 0.26",
+              "어성초 추출물, 베타인 살리실레이트(BHA), 마데카소사이드, 히알루론산"
+            ],
+            [
+              "medicube Red Foam Cleanser",
+              "120ml",
+              "US$ 17.90 (정가 US$ 34.00)",
+              "100ml당 US$ 14.92",
+              "살리실산 0.5% 함유 폼 클렌저"
+            ],
+            [
+              "celimax Derma Nature Fresh Blackhead Jojoba Cleansing Oil",
+              "150ml",
+              "US$ 14.25 (정가 US$ 19.00)",
+              "100ml당 US$ 9.50",
+              "호호바를 포함한 식물성 오일 여섯 가지의 클렌징 오일"
+            ]
+          ]
+        },
+        "bullets": [
+          "**더 강한 패드를 원한다면:** Zero Pore Pad 2.0은 AHA와 BHA를 함께 담았고, 우리가 읽은 시점에 스토어 각질 제거 카테고리 베스트셀러였습니다. 페이지 자체가 다른 강한 산 제품과 함께 쓰지 말고 날을 번갈아 쓰라고 권합니다.",
+          "**천천히 시작하고 싶다면:** celimax 패드는 베타인 살리실레이트를 쓰고 패드당 가격이 더 낮으며, 페이지는 매일 쓸 수 있을 만큼 순하다고 설명합니다. medicube 안에서의 대안은 Zero Pore Pad Mild입니다.",
+          "**클렌징:** celimax 오일은 100ml당 가격이 medicube 폼보다 낮습니다. 같은 Red 라인의 크림인 Red Erasing Cream은 50ml가 품절이었고 대기는 약 3주였습니다.",
+          "**레티노이드와 겹치지 마세요:** 산 성분 패드와 레티날 제품을 같은 날 밤에 쓰는 조합이 가장 자극적입니다. 밤을 번갈아 쓰세요."
+        ],
+        "links": [
+          {
+            "label": "YesStyle에서 medicube 셀렉션 보기",
+            "href": "https://ystyle.co/ErjTv",
+            "sponsored": true
+          },
+          {
+            "label": "YesStyle에서 celimax 셀렉션 보기",
+            "href": "https://ystyle.co/QJfLB",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "장벽과 수분: Centellian24와 Dr. Althea",
+        "paragraphs": [
+          "건조하거나 예민해진 피부에는 한국 제약사 동국제약의 브랜드 Centellian24의 센텔라 크림과, Dr. Althea에서 가장 많이 팔리는 크림 두 가지가 후보입니다."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
+          "alt": "격자로 놓인 제품 네 가지: Centellian24의 Madeca Cream Time Reverse 크림과 Madeca Toning Essence Treatment 에센스, Dr. Althea의 345 Relief Cream과 147 Barrier Cream",
+          "caption": "Centellian24의 Madeca Cream Time Reverse와 Madeca Toning Essence Treatment, Dr. Althea의 345 Relief Cream과 147 Barrier Cream. 제품 사진: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Centellian24와 Dr. Althea의 크림과 에센스. 미국 스토어의 달러 가격이며, 이번 주 쿠폰과 CECILIA010을 적용하기 전 금액입니다.",
+          "headers": [
+            "제품",
+            "용량",
+            "그날 가격",
+            "수량당 비용",
+            "페이지에 적힌 내용"
+          ],
+          "rows": [
+            [
+              "Centellian24 Madeca Cream Time Reverse",
+              "50ml",
+              "US$ 24.00 (정가 US$ 32.00)",
+              "10ml당 US$ 4.80",
+              "TECA(정량 센텔라 추출물), 나이아신아마이드, 콜라겐, 레티놀"
+            ],
+            [
+              "Centellian24 Madeca Toning Essence Treatment",
+              "150ml",
+              "US$ 22.50 (정가 US$ 30.00)",
+              "100ml당 US$ 15.00",
+              "센텔라 추출물, TECA 10ppm, 나이아신아마이드"
+            ],
+            [
+              "Dr. Althea 345 Relief Cream",
+              "50ml",
+              "US$ 22.95 (정가 US$ 27.00)",
+              "10ml당 US$ 4.59",
+              "티트리잎수, 나이아신아마이드, 히알루론산, 세라마이드 NP"
+            ],
+            [
+              "Dr. Althea 147 Barrier Cream",
+              "50ml",
+              "US$ 22.95 (정가 US$ 27.00)",
+              "10ml당 US$ 4.59",
+              "스쿠알란, 히알루론산, 판테놀, 세라마이드. 인공 향료 없음"
+            ]
+          ]
+        },
+        "bullets": [
+          "**스토어 베스트셀러:** 345 Relief Cream은 우리가 읽은 시점에 YesStyle 전체 뷰티 순위 1위였고 리뷰가 3만 3천 개 넘게 달려 있었습니다. 페이지는 여드름 뒤에 쓰는 크림으로, 눈에 보이는 붉은기를 줄여 준다고 소개합니다.",
+          "**향 없는 건성 피부용:** 147 Barrier Cream은 같은 브랜드에서 수분 장벽을 만드는 데 맞춘 제품입니다.",
+          "**Madeca Cream에는 레티놀이 있습니다:** 센텔라 크림이라는 인상과 달리 Time Reverse 처방에는 레티놀이 들어 있습니다. Abib의 레티날과 같은 주의가 필요합니다. 우리가 읽은 시점에 50ml 용기는 품절이었고 대기는 약 3주였으며, 15ml 미니는 US$ 11.25였습니다.",
+          "**크림 전의 가벼운 단계:** Toning Essence Treatment는 게시된 목록에 레티노이드가 없는 센텔라 제품이며 150ml 병입니다.",
+          "**15ml 미니:** Dr. Althea 크림 두 가지는 미니가 US$ 8.42이고, 써 보거나 장바구니를 채울 때 쓸 만합니다."
+        ],
+        "links": [
+          {
+            "label": "YesStyle에서 Centellian24 셀렉션 보기",
+            "href": "https://ystyle.co/2UD4F",
+            "sponsored": true
+          },
+          {
+            "label": "YesStyle에서 Dr. Althea 셀렉션 보기",
+            "href": "https://ystyle.co/X94R9",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "윤기와 보호: Beauty of Joseon, Dr. Ceuracle, Shiseido",
+        "paragraphs": [
+          "마지막 묶음은 영양 크림, 프로폴리스 앰플, 그리고 장바구니가 쿠폰 구간이나 무료 배송 기준에 조금 모자랄 때 잘 들어맞는 일본 브랜드 Shiseido입니다."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
+          "alt": "격자로 놓인 제품 네 가지: Beauty of Joseon의 열린 Dynasty Cream 용기, Dr. Ceuracle의 Royal Vita Propolis 33 앰플 병과 Tea Tree Purifine 폼 튜브, Shiseido의 파란 Anessa 자외선 차단제 상자",
+          "caption": "Beauty of Joseon의 Dynasty Cream, Dr. Ceuracle의 Royal Vita Propolis 33 Ampoule과 Tea Tree Purifine Cleansing Foam, Shiseido의 Anessa Perfect UV Sunscreen Skincare Milk. 제품 사진: YesStyle.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Beauty of Joseon, Dr. Ceuracle, Shiseido 제품. 미국 스토어의 달러 가격이며, 이번 주 쿠폰과 CECILIA010을 적용하기 전 금액입니다.",
+          "headers": [
+            "제품",
+            "용량",
+            "그날 가격",
+            "수량당 비용",
+            "페이지에 적힌 내용"
+          ],
+          "rows": [
+            [
+              "Beauty of Joseon Dynasty Cream",
+              "50g",
+              "US$ 19.20 (정가 US$ 24.00)",
+              "10g당 US$ 3.84",
+              "쌀겨수, 인삼 뿌리수, 나이아신아마이드, 스쿠알란"
+            ],
+            [
+              "Beauty of Joseon Dynasty Cream Jumbo",
+              "100ml",
+              "US$ 27.20 (정가 US$ 34.00)",
+              "10ml당 US$ 2.72",
+              "같은 처방의 대용량 용기"
+            ],
+            [
+              "Dr. Ceuracle Royal Vita Propolis 33 Ampoule Jumbo",
+              "30ml",
+              "US$ 23.55 (정가 US$ 31.40)",
+              "10ml당 US$ 7.85",
+              "프로폴리스 추출물 33.5%, 로열젤리 추출물, 나이아신아마이드, 판테놀"
+            ],
+            [
+              "Dr. Ceuracle Tea Tree Purifine Cleansing Foam",
+              "150g",
+              "US$ 15.60 (정가 US$ 24.00)",
+              "100g당 US$ 10.40",
+              "거품으로 변하는 젤, 티트리 추출물 30%"
+            ],
+            [
+              "Shiseido Anessa Perfect UV Sunscreen Skincare Milk",
+              "60ml",
+              "US$ 15.05 (정가 US$ 21.50)",
+              "10ml당 US$ 2.51",
+              "SPF 50+ PA++++ 자외선 차단제, 무기 및 유기 자외선 차단 성분"
+            ],
+            [
+              "Shiseido Fino Premium Touch Hair Mask",
+              "230g",
+              "US$ 11.62 (정가 US$ 16.60)",
+              "100g당 US$ 5.05",
+              "로열젤리가 든 헤어 마스크. 스토어 헤어 케어 1위"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Dynasty Cream, 50g 용기 또는 Jumbo:** Jumbo는 용량 대비 약 30% 저렴하지만 크림이 두 배입니다. 매일 쓰는 사람에게만 이득이고, 처음이라면 50g 용기가 낫습니다.",
+          "**프로폴리스 앰플:** 목록에서 윤기를 담당하는 제품으로, 페이지가 꿀에 비유하는 질감입니다. 토너 다음, 크림 전에 씁니다.",
+          "**자외선 차단제:** 위 섹션의 레티날이나 레티놀 제품을 산 사람의 루틴을 마무리하는 것이 Anessa입니다.",
+          "**장바구니를 채울 때:** Fino 헤어 마스크와 Shiseido 속눈썹 뷰러 교체용 고무(3개에 US$ 3.14)는 구간까지 몇 달러가 모자랄 때 싸고 쓸 만한 품목입니다. Benefiance 라인의 Wrinkle Smoothing Cream은 US$ 115.40이었고, 우리가 읽은 시점에 할인이 없었습니다."
+        ],
+        "links": [
+          {
+            "label": "YesStyle에서 Beauty of Joseon 셀렉션 보기",
+            "href": "https://ystyle.co/1PRZC",
+            "sponsored": true
+          },
+          {
+            "label": "YesStyle에서 Dr. Ceuracle 셀렉션 보기",
+            "href": "https://ystyle.co/aQ7Bk",
+            "sponsored": true
+          },
+          {
+            "label": "YesStyle에서 Shiseido 셀렉션 보기",
+            "href": "https://ystyle.co/BxprE",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "이번 주 쿠폰과 CECILIA010을 적용한 장바구니 계산",
+        "paragraphs": [
+          "위 가격으로 든 예입니다. Abib 아이 패치(US$ 18.40), Booster Crème(US$ 22.40), celimax 패드(US$ 15.75), 345 Relief Cream(US$ 22.95), Anessa 자외선 차단제(US$ 15.05)를 합하면 US$ 94.55입니다. 이 장바구니는 구간별 쿠폰의 US$ 79 구간을 넘습니다."
+        ],
+        "bullets": [
+          "**8% 구간별 쿠폰:** Coupon Code 칸의 쿠폰이 US$ 7.56을 깎습니다.",
+          "**모든 주문 15%:** 쿠폰 할인이 US$ 14.18로 올라갑니다. 11월 중순에 스토어에는 미국, 영국, 캐나다 배송에 한해 최소 금액 없는 이런 쿠폰이 있었습니다.",
+          "**CECILIA010 추가:** Reward Code 칸에 넣으면 첫 구매는 5%, 이후 구매는 2%가 쿠폰에 더해집니다. US$ 94.55에서 5%는 US$ 4.73, 2%는 US$ 1.89입니다.",
+          "**계산 순서는 스토어가 정합니다:** 5%가 정가에 적용되는지, 쿠폰이 이미 적용된 금액에 적용되는지는 확인하지 못했습니다. 주문 요약이 결제 전에 두 할인 줄을 모두 보여 줍니다."
+        ],
+        "postParagraphs": [
+          "**페이지 언어가 배송 국가를 정하지는 않습니다.** US$ 79, US$ 149, US$ 199 구간, US$ 35부터의 기본 배송 무료, 그 미만의 US$ 6 배송비는 스토어가 달러로 미국 배송에 보여 준 조건입니다. 한국어로 읽는 분은 한국, 일본, 미국 등 서로 다른 곳에서 받을 수 있고, 조건은 배송지에 따라 달라집니다. 통화, 배송 무료 기준, 그날의 쿠폰, 발송 가능 여부, 세금과 관세 환급 규정이 바뀝니다. 내 주소로 결제 화면에서 확인하고, [YesStyle 배송 규정](https://www.yesstyle.com/en/help/section.html/hsi.732)도 보세요. 한국 배송은 [YesStyle 한국 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 정리되어 있습니다."
+        ],
+        "links": [
+          {
+            "label": "YesStyle 블랙프라이데이 특가 보기",
+            "href": "https://ystyle.co/4RRfd",
+            "sponsored": true
+          },
+          {
+            "label": "CECILIA010 코드로 YesStyle 이동",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          },
+          {
+            "label": "CECILIA010 사용법 단계별 안내",
+            "href": "/ko/reviews/yesstyle-reward-code-cecilia010-ko"
           }
         ]
       },
@@ -59592,13 +62273,16 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "YesStyle 블랙프라이데이는 언제 시작하고 얼마나 오래 가나요? 이미 시작했습니다. 스토어 홈에 Black Friday Mega Sale과 구간별 쿠폰이 있습니다. YesStyle은 종료일을 아직 발표하지 않았고, 2024년과 2025년에는 Black Friday 이름의 쿠폰이 사이버 먼데이까지 이어졌습니다.",
           "블랙프라이데이에 YesStyle 쿠폰은 무엇인가요? 며칠마다 바뀝니다. 이 사이트의 YesStyle 페이지에 이번 주 코드가 날짜와 함께 나와 있습니다.",
-          "YesStyle 블랙프라이데이 쿠폰에는 최소 금액이 있나요? 구간별 쿠폰에는 있습니다. US$ 79 이상 8%, US$ 149 이상 10%, US$ 199 이상 15%입니다. 2024년과 2025년에는 금요일과 사이버 먼데이 즈음에 YesStyle이 최소 금액 없는 15%를 열었습니다. 2026년은 아직 발표되지 않았습니다.",
+          "YesStyle 블랙프라이데이 쿠폰에는 최소 금액이 있나요? 구간별 쿠폰에는 있습니다. US$ 79 이상 8%, US$ 149 이상 10%, US$ 199 이상 15%입니다. 2024년과 2025년에는 금요일과 사이버 먼데이 즈음에 YesStyle이 최소 금액 없는 15%를 열었습니다. 2026년에는 최소 금액 없는 15% 쿠폰이 11월 중순에 미국, 영국, 캐나다 배송에 한해 먼저 나왔고, 다른 나라는 아직 발표가 없습니다.",
           "YesStyle은 블랙프라이데이와 사이버 먼데이 중 언제 사는 게 낫나요? 2024년과 2025년에는 둘 다 최소 금액 없는 15%였으므로 쿠폰 상한은 같았습니다. 날마다 달라지는 것은 상품별 프로모션 가격입니다.",
           "YesStyle은 블랙프라이데이 말고도 프로모션이 있나요? 있습니다. 8%, 10%, 15%의 구간별 쿠폰이 거의 일 년 내내 진행되고, 며칠마다 이름이 바뀝니다.",
           "CECILIA010은 블랙프라이데이에도 되나요? 됩니다. Reward Code 칸에 넣으며, 블랙프라이데이 쿠폰 규정에도 리워드 코드와 함께 쓸 수 있다고 되어 있습니다.",
           "YesStyle 쿠폰 두 개를 한 주문에 쓸 수 있나요? 안 됩니다. 주문당 쿠폰은 하나입니다. 리워드 코드는 다른 것이고 결제 화면의 다른 칸에 넣습니다.",
           "블랙프라이데이 쿠폰을 쓰려면 YesStyle 계정이 필요한가요? 필요합니다. 쿠폰은 회원 전용이고, 비회원으로 구매하면 할인을 받지 못합니다.",
-          "YesStyle에서 사면 세금을 내나요? 소포가 도착할 때 부과될 수 있습니다. 대상이 되는 US$ 1,000 미만 주문은 영수증 날짜로부터 30일 안에 보내면 YesStyle이 그 관세 등 비용을 스토어 크레딧으로 돌려줍니다. 판매세, VAT, GST는 대상이 아닙니다."
+          "YesStyle에서 사면 세금을 내나요? 소포가 도착할 때 부과될 수 있습니다. 대상이 되는 US$ 1,000 미만 주문은 영수증 날짜로부터 30일 안에 보내면 YesStyle이 그 관세 등 비용을 스토어 크레딧으로 돌려줍니다. 판매세, VAT, GST는 대상이 아닙니다.",
+          "YesStyle 블랙프라이데이에는 무엇을 사면 좋을까요? 루틴에 따라 다릅니다. 이 글은 필요별로 나눕니다. Cecília가 써 본 Abib 세 가지, medicube와 celimax의 각질 제거 패드, Centellian24와 Dr. Althea의 장벽 크림, 윤기와 보호를 위한 Beauty of Joseon, Dr. Ceuracle, Shiseido입니다.",
+          "이 글의 달러 가격은 어느 나라에서나 같나요? 아니요. YesStyle 영어 스토어에서 미국 배송 기준으로 읽은 가격입니다. 통화, 가격, 무료 배송, 그날의 쿠폰은 배송지에 따라 바뀝니다. 결제 화면이 내 주소의 조건을 보여 줍니다.",
+          "Abib 레티날을 각질 제거 패드와 함께 써도 되나요? 같은 날 밤에는 권하지 않습니다. 산 성분과 레티노이드를 함께 쓰면 피부가 쉽게 자극받습니다. 밤을 번갈아 쓰고 낮에는 자외선 차단제를 바르세요."
         ]
       }
     ],
@@ -59621,7 +62305,18 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-trust-guide-ko"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "YesStyle이 배송하는 나라에서 받고, 내 루틴에 어떤 제품이 빠졌는지 이미 알고 있습니다.",
+        "장바구니가 쿠폰 구간을 넘거나, 모든 주문에 15%가 적용되는 날을 기다릴 수 있습니다.",
+        "아직 CECILIA010을 써 본 적이 없습니다. Reward Code의 5%는 첫 구매에 적용됩니다."
+      ],
+      "skipIf": [
+        "내 나라가 YesStyle 배송 목록에 없습니다. 장바구니를 담기 전에 확인하세요.",
+        "써 본 적 없는 제품을 할인만 보고 2개 세트로 사려고 합니다."
+      ]
+    }
   },
   {
     "id": 344,
@@ -59644,7 +62339,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyleにブラックフライデーはある？はい、開催中です：Mega Sale、8〜15%の段階式クーポン、最低金額なしの15%の日、リワードコードCECILIA010の併用方法。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -59660,7 +62355,7 @@ export const reviewsData: unknown[] = [
       "YesStyleは、対象となるUS$1,000未満の注文にかかった関税などの税金を、ストアクレジットで返金する"
     ],
     "cons": [
-      "2026年の終了日と最低金額なしの15%の日はまだ未発表。この先の予定は過去の実績からの推定",
+      "2026年の終了日と、すべての国向けの最低金額なしの15%の日はまだ未発表。この先の予定は過去の実績からの推定",
       "ブラックフライデーの段階式クーポンは、通常時と同じ",
       "クーポンは会員限定で、1注文につき1枚、送料には使えない",
       "海外通販なので、地元のストアより届くまでに時間がかかる"
@@ -59669,13 +62364,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論から",
         "paragraphs": [
-          "YesStyleのブラックフライデーは、もう始まっています。ホームにはMega Saleがあり、商品ごとのセールと最大50%OFFのバナーが並び、段階式クーポンは8%、10%、15%です。CECILIA010はReward Code欄に入れて併用できます。2026年の最低金額なしの15%の日は、YesStyleからまだ発表されていません。"
+          "YesStyleのブラックフライデーは、もう始まっています。ホームにはMega Saleがあり、商品ごとのセールと最大50%OFFのバナーが並び、段階式クーポンは8%、10%、15%です。CECILIA010はReward Code欄に入れて併用できます。2026年の最低金額なしの15%は、11月中旬にアメリカ、イギリス、カナダ向けが出ましたが、すべての国向けの日程はまだ発表されていません。"
         ]
       },
       {
         "heading": "YesStyleのブラックフライデーはいつ始まる？",
         "paragraphs": [
-          "YesStyleは、各クーポンのルールを、開始日時と終了日時つきでサイトのヘルプセンターに公開しています。下の表は2025年の日程です。2024年も段階は同じ順番で、1〜2日遅れて始まりました。2026年はキャンペーンがすでに始まっています。11月3日時点で、ストアのホームには、商品ごとのセールと最大50%OFFのバナーが並ぶ「Black Friday Mega Sale」と、段階式クーポン（US$79以上で8%、US$149以上で10%、US$199以上で15%）があり、クーポンはストアが数日ごとに替えるため、購入前に最新のものを確認してください。クーポンが終わっても、キャンペーンが終わったわけではありません。通常配送のUS$35以上無料は配送先によって異なり、チェックアウトで確認できます。2026年の終了日と最低金額なしの15%の日はまだ出ていません。"
+          "YesStyleは、各クーポンのルールを、開始日時と終了日時つきでサイトのヘルプセンターに公開しています。下の表は2025年の日程です。2024年も段階は同じ順番で、1〜2日遅れて始まりました。2026年はキャンペーンがすでに始まっています。11月3日時点で、ストアのホームには、商品ごとのセールと最大50%OFFのバナーが並ぶ「Black Friday Mega Sale」と、段階式クーポン（US$79以上で8%、US$149以上で10%、US$199以上で15%）があり、クーポンはストアが数日ごとに替えるため、購入前に最新のものを確認してください。クーポンが終わっても、キャンペーンが終わったわけではありません。通常配送のUS$35以上無料は配送先によって異なり、チェックアウトで確認できます。11月中旬には、アメリカ、イギリス、カナダ向けの配送に限り、どの注文にも使える最低金額なしの15%クーポンも出ました。それ以外の配送先では、段階式クーポンが使えます。キャンペーンの終了日と、すべての国向けの最低金額なしの15%の日はまだ発表されていません。"
         ],
         "comparisonTable": {
           "caption": "2025年に全会員が使えたクーポン（YesStyleのヘルプページより）。各段階は次の段階が始まるまで続きます。日時はストアの基準であるGMTです。",
@@ -59821,9 +62516,27 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "カートの例：Abibのルーティン",
+        "heading": "何を買うか：価格の読み方",
         "paragraphs": [
-          "この記事の最後の動画で、CecíliaはYesStyleから届いた韓国ブランドAbibの3つの製品を試しています。アイハイドロゲルパッチ、PDRNブースタークリーム、リップマスクです。韓国スキンケアを始める人向けの短いルーティンで、ブラックフライデーのカートを組むときの出発点にもなります。"
+          "以降のセクションでは、カートに入れる価値のある商品をブランドごとに紹介します。価格はすべて2026年11月16日に、アメリカ向け配送に設定した英語版のYesStyleストアで、米ドルで確認したものです。多くは「タイムセール」のバッジが付いたその日の特価で、今週のクーポンとCECILIA010を適用する前の価格です。価格は日によっても国によっても変わるので、有効なのは自分のカートに表示される金額です。",
+          "YesStyleは、Abib、medicube、celimax、Centellian24、Dr. Althea、Beauty of Joseon、Dr. Ceuracleについて、各商品ページで正規販売店であると表示しています。確認したShiseidoの商品ページには、この表記はありませんでした。取り上げた成分は、その日に各商品ページで公開されていた成分リストのものです。最終的には、届いたパッケージの表示が基準です。"
+        ],
+        "links": [
+          {
+            "label": "YesStyleのブラックフライデーのセールを見る",
+            "href": "https://ystyle.co/4RRfd",
+            "sponsored": true
+          },
+          {
+            "label": "今日のYesStyleのクーポンとコードCECILIA010を見る",
+            "href": "/ja/coupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Cecíliaが試したAbibのルーティン：目元、顔、唇",
+        "paragraphs": [
+          "この記事の最後の動画で、CecíliaはYesStyleから届いたAbibの3つの商品を試しています。このリストの中で、私たちが実際に使った経験があるのはこの3つだけで、[30歳で始めた韓国スキンケア：Abibのルーティン](/ja/reviews/abib-skincare-routine-30-ja)に書いています。3つとも PDRN を含み、2つにはレチナールが入っています。"
         ],
         "images": [
           {
@@ -59831,27 +62544,381 @@ export const reviewsData: unknown[] = [
             "alt": "Abibのアイハイドロゲルパッチの容器とピンクのパッチを持って笑うCecília",
             "caption": "Cecíliaの動画に登場したAbibのアイハイドロゲルパッチ。",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/cn2Z5"
           },
           {
             "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
             "alt": "Abibの白いPDRNブースタークリームのチューブを顔の近くで持つCecília",
             "caption": "AbibのPDRNブースタークリーム。",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/q5SUZ"
           },
           {
             "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
             "alt": "唇をとがらせてAbibのピンクのリップマスクの容器を持つCecília",
             "caption": "Abibのリップマスク。",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/TS7jZ"
           }
+        ],
+        "comparisonTable": {
+          "caption": "Cecíliaが試したAbibの3商品。アメリカ向けストアでの米ドル価格で、今週のクーポンとCECILIA010の適用前です。",
+          "headers": [
+            "商品",
+            "サイズ",
+            "当日価格",
+            "数量あたりの価格",
+            "ページの記載"
+          ],
+          "rows": [
+            [
+              "[Abib PDRN Retinal Eye Patch Glow Jelly](https://ystyle.co/cn2Z5)",
+              "60枚",
+              "US$18.40（通常価格：US$23.00）",
+              "1枚あたりUS$0.31",
+              "植物由来のPDRN、レチナール、コラーゲン、ナイアシンアミド、カフェイン"
+            ],
+            [
+              "[Abib PDRN Volume Fill-it Booster Crème 2.5 Tube](https://ystyle.co/q5SUZ)",
+              "30 ml",
+              "US$22.40（通常価格：US$28.00）",
+              "10 mlあたりUS$7.47",
+              "PDRN 15,000 ppm、Volufiline 10,000 ppm、レチナール、ペプチド"
+            ],
+            [
+              "[Abib PDRN Collagen Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ)",
+              "11 g",
+              "US$16.00（通常価格：US$20.00）",
+              "1 gあたりUS$1.45",
+              "植物由来のPDRN、コラーゲン、シカ。香料入り"
+            ]
+          ]
+        },
+        "bullets": [
+          "**目元：**[ハイドロゲルパッチ](https://ystyle.co/cn2Z5)は60枚入りのボトルで、両目で30回使えます。私たちが確認した時点で、ページではストアのアイマスクカテゴリのベストセラーとして表示されていました。",
+          "**顔：**[Booster Crème 2.5](https://ystyle.co/q5SUZ)は30 mlのチューブです。3つの中でミリリットルあたりがいちばん高く、ページには10 mlのミニサイズもあるので、フルサイズの前に試せます。",
+          "**唇：**[Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ)は11 gのボトルです。成分リストにレチナールが入っていないのは、この3つの中でこれだけです。",
+          "**レチナールの注意：**パッチとクリームにはレチノイドのレチナールが入っています。夜に使い、日中は日焼け止めを塗り、次のセクションの角質ケア用パッドとは同じ夜に重ねないでください。妊娠中・授乳中の方は、医師に相談した場合にのみレチノイドを使ってください。",
+          "**2個セット：**3つとも2個入りのセットがあり、1個あたりの割引は大きくなります。すでにその商品を使っている人だけが得をします。"
         ],
         "links": [
           {
-            "label": "Abibのルーティンを製品ごとに見る",
+            "label": "YesStyleでAbibのPDRNアイパッチを見る",
+            "href": "https://ystyle.co/cn2Z5",
+            "sponsored": true
+          },
+          {
+            "label": "YesStyleでAbibのPDRNブースタークリーム2.5を見る",
+            "href": "https://ystyle.co/q5SUZ",
+            "sponsored": true
+          },
+          {
+            "label": "YesStyleでAbibのGlazed Jellyリップマスクを見る",
+            "href": "https://ystyle.co/TS7jZ",
+            "sponsored": true
+          },
+          {
+            "label": "Abibのルーティンを商品ごとに見る",
             "href": "/ja/reviews/abib-skincare-routine-30-ja"
+          }
+        ]
+      },
+      {
+        "heading": "レチノイドなしのAbib：シートマスクと保湿ジェル",
+        "paragraphs": [
+          "レチナールを使えない、または使いたくない人向けに、ストア自身がブランドの売れ筋に挙げているAbibの商品が2つあります。2つの商品ページで公開されている成分リストには、レチナールもレチノールも入っていません。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-abib-sem-retinoide.webp",
+          "alt": "黒いパッケージのAbib Gummy Sheet Maskの5種類と、黒いHydration Gel Water Tubeのチューブが並んだ写真",
+          "caption": "AbibのGummy Sheet MaskとHydration Gel Water Tube。商品写真：YesStyle。",
+          "objectFit": "contain",
+          "aspectRatio": 1.9562
+        },
+        "bullets": [
+          "**Abib Gummy Sheet Mask、Madecassoside Sticker：**27 gのシートマスクで、1枚単位の販売です。価格はUS$3.20（通常価格：US$4.90）。ページでは、うるおいを与えて肌を落ち着かせる種類と説明されています。同じページに他の4種類もあるので、バッグに入れる前にMadecassosideを選んだか確認してください。",
+          "**Abib Hydration Gel Water Tube：**75 mlの保湿ジェルで、US$27.30（通常価格：US$39.00）、10 mlあたりUS$3.64です。ページでは、香料無添加で、軽くさわやかな仕上がりだと説明されています。"
+        ],
+        "links": [
+          {
+            "label": "YesStyleでAbibのセレクションを見る",
+            "href": "https://ystyle.co/fH8cM",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "毛穴とテクスチャー：medicubeとcelimax",
+        "paragraphs": [
+          "ここでの選択は、2種類の角質ケア用パッドです。どちらも酸を含む化粧水を染み込ませたパッドのボトルで、違いは処方とパッド1枚あたりの価格にあります。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-poros-medicube-celimax.webp",
+          "alt": "4つの商品を並べたグリッド：medicubeの青いZero Pore Padのボトルと Red Foam Cleanser のチューブ、celimaxの緑のHeartleaf BHA Peeling Padのボトルと薄紫のクレンジングオイルのボトル",
+          "caption": "medicubeのZero Pore PadとRed Foam Cleanser、celimaxのHeartleaf BHA Peeling PadとDerma Natureクレンジングオイル。商品写真：YesStyle。",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "medicubeとcelimaxのパッドとクレンジング。アメリカ向けストアでの米ドル価格で、今週のクーポンとCECILIA010の適用前です。",
+          "headers": [
+            "商品",
+            "サイズ",
+            "当日価格",
+            "数量あたりの価格",
+            "ページの記載"
+          ],
+          "rows": [
+            [
+              "medicube Zero Pore Pad 2.0",
+              "70枚",
+              "US$21.90（通常価格：US$31.00）",
+              "1枚あたりUS$0.31",
+              "乳酸（AHA）、サリチル酸（BHA）、パンテノール、シカ。アルコール入り"
+            ],
+            [
+              "medicube Zero Pore Pad Mild",
+              "70枚（155 g）",
+              "US$21.90（通常価格：US$31.00）",
+              "1枚あたりUS$0.31",
+              "説明によると、サリチル酸とPHAを使ったZero Pore Padのマイルド版"
+            ],
+            [
+              "celimax JI.WOO.GAE Heartleaf BHA Peeling Pad",
+              "60枚",
+              "US$15.75（通常価格：US$21.00）",
+              "1枚あたりUS$0.26",
+              "ドクダミエキス、ベタインサリシレート（BHA）、マデカソシド、ヒアルロン酸"
+            ],
+            [
+              "medicube Red Foam Cleanser",
+              "120 ml",
+              "US$17.90（通常価格：US$34.00）",
+              "100 mlあたりUS$14.92",
+              "0.5%のサリチル酸を配合した洗顔フォーム"
+            ],
+            [
+              "celimax Derma Nature Fresh Blackhead Jojoba Cleansing Oil",
+              "150 ml",
+              "US$14.25（通常価格：US$19.00）",
+              "100 mlあたりUS$9.50",
+              "ホホバを含む6種類の植物オイルのクレンジングオイル"
+            ]
+          ]
+        },
+        "bullets": [
+          "**しっかり効くパッドがいい人：**Zero Pore Pad 2.0はAHAとBHAを組み合わせていて、私たちが確認した時点では、ストアの角質ケアカテゴリで売れ筋でした。ページ自体が、他の強い酸と一緒に使わず、日を分けるよう勧めています。",
+          "**ゆっくり始めたい人：**celimaxのパッドはベタインサリシレートを使い、1枚あたりが安く、ページでは毎日使えるやさしいタイプと説明されています。medicubeの中でのもう一つの選択肢は、Zero Pore Pad Mildです。",
+          "**クレンジング：**celimaxのオイルは、medicubeのフォームより100 mlあたりが安くなっています。同じRedラインのクリーム、Red Erasing Creamは、50 mlサイズが在庫切れで、入荷まで約3週間でした。",
+          "**レチノイドとは重ねない：**酸入りのパッドとレチナール入りの商品を同じ夜に使うのは、肌がいちばん荒れやすい組み合わせです。夜を分けてください。"
+        ],
+        "links": [
+          {
+            "label": "YesStyleでmedicubeのセレクションを見る",
+            "href": "https://ystyle.co/ErjTv",
+            "sponsored": true
+          },
+          {
+            "label": "YesStyleでcelimaxのセレクションを見る",
+            "href": "https://ystyle.co/QJfLB",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "バリアと保湿：Centellian24とDr. Althea",
+        "paragraphs": [
+          "乾燥した肌や敏感になった肌には、韓国の製薬会社Dongkookのブランド、Centellian24のシカクリームと、Dr. Altheaの売れ筋クリーム2つが候補になります。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
+          "alt": "4つの商品を並べたグリッド：Centellian24のMadeca Cream Time ReverseクリームとMadeca Toning Essence Treatmentエッセンス、Dr. Altheaの345 Relief Creamと147 Barrier Cream",
+          "caption": "Centellian24のMadeca Cream Time ReverseとMadeca Toning Essence Treatment、Dr. Altheaの345 Relief Creamと147 Barrier Cream。商品写真：YesStyle。",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Centellian24とDr. Altheaのクリームとエッセンス。アメリカ向けストアでの米ドル価格で、今週のクーポンとCECILIA010の適用前です。",
+          "headers": [
+            "商品",
+            "サイズ",
+            "当日価格",
+            "数量あたりの価格",
+            "ページの記載"
+          ],
+          "rows": [
+            [
+              "Centellian24 Madeca Cream Time Reverse",
+              "50 ml",
+              "US$24.00（通常価格：US$32.00）",
+              "10 mlあたりUS$4.80",
+              "TECA（シカの標準化エキス）、ナイアシンアミド、コラーゲン、レチノール"
+            ],
+            [
+              "Centellian24 Madeca Toning Essence Treatment",
+              "150 ml",
+              "US$22.50（通常価格：US$30.00）",
+              "100 mlあたりUS$15.00",
+              "シカエキス、TECA 10 ppm、ナイアシンアミド"
+            ],
+            [
+              "Dr. Althea 345 Relief Cream",
+              "50 ml",
+              "US$22.95（通常価格：US$27.00）",
+              "10 mlあたりUS$4.59",
+              "ティーツリー葉水、ナイアシンアミド、ヒアルロン酸、セラミドNP"
+            ],
+            [
+              "Dr. Althea 147 Barrier Cream",
+              "50 ml",
+              "US$22.95（通常価格：US$27.00）",
+              "10 mlあたりUS$4.59",
+              "スクワラン、ヒアルロン酸、パンテノール、セラミド。人工香料なし"
+            ]
+          ]
+        },
+        "bullets": [
+          "**ストアの売れ筋：**345 Relief Creamは、私たちが確認した時点で、YesStyleのビューティー全体のランキングで1位で、3万3千件を超えるレビューがありました。ページでは、ニキビ跡のケア用で、目に見える赤みを抑えるクリームとして紹介されています。",
+          "**香りなしの乾燥肌用：**147 Barrier Creamは、同じブランドで、うるおいのバリアを作ることを目的にしたものです。",
+          "**Madeca Creamにはレチノールが入っています：**シカクリームというイメージに反して、Time Reverseの処方にはレチノールが入っています。Abibのレチナールと同じ注意が必要です。私たちが確認した時点で、50 mlは在庫切れで入荷まで約3週間、15 mlのミニサイズはUS$11.25でした。",
+          "**クリームの前の軽いステップ：**Toning Essence Treatmentは、公開されている成分リストにレチノイドがないシカの選択肢で、150 mlのボトルです。",
+          "**15 mlのミニ：**Dr. Altheaの2つのクリームには、US$8.42のミニサイズがあり、試すときやバッグの金額を調整するときに便利です。"
+        ],
+        "links": [
+          {
+            "label": "YesStyleでCentellian24のセレクションを見る",
+            "href": "https://ystyle.co/2UD4F",
+            "sponsored": true
+          },
+          {
+            "label": "YesStyleでDr. Altheaのセレクションを見る",
+            "href": "https://ystyle.co/X94R9",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "ツヤと保護：Beauty of Joseon、Dr. Ceuracle、Shiseido",
+        "paragraphs": [
+          "最後のグループは、栄養クリーム、プロポリスのアンプル、そしてShiseidoの日本ブランドです。Shiseidoは、バッグがクーポンや送料無料の段階まであと少しのときに役立ちます。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
+          "alt": "4つの商品を並べたグリッド：Beauty of JoseonのDynasty Creamの開いたボトル、Dr. CeuracleのRoyal Vita Propolis 33アンプルのボトルとTea Tree Purifineフォームのチューブ、Shiseido Anessa日焼け止めの青い箱",
+          "caption": "Beauty of JoseonのDynasty Cream、Dr. CeuracleのRoyal Vita Propolis 33 AmpouleとTea Tree Purifine Cleansing Foam、ShiseidoのAnessa Perfect UV Sunscreen Skincare Milk。商品写真：YesStyle。",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Beauty of Joseon、Dr. Ceuracle、Shiseidoの商品。アメリカ向けストアでの米ドル価格で、今週のクーポンとCECILIA010の適用前です。",
+          "headers": [
+            "商品",
+            "サイズ",
+            "当日価格",
+            "数量あたりの価格",
+            "ページの記載"
+          ],
+          "rows": [
+            [
+              "Beauty of Joseon Dynasty Cream",
+              "50 g",
+              "US$19.20（通常価格：US$24.00）",
+              "10 gあたりUS$3.84",
+              "米ぬか水、高麗人参根水、ナイアシンアミド、スクワラン"
+            ],
+            [
+              "Beauty of Joseon Dynasty Cream Jumbo",
+              "100 ml",
+              "US$27.20（通常価格：US$34.00）",
+              "10 mlあたりUS$2.72",
+              "同じ処方の大容量ボトル"
+            ],
+            [
+              "Dr. Ceuracle Royal Vita Propolis 33 Ampoule Jumbo",
+              "30 ml",
+              "US$23.55（通常価格：US$31.40）",
+              "10 mlあたりUS$7.85",
+              "プロポリスエキス33.5%、ローヤルゼリーエキス、ナイアシンアミド、パンテノール"
+            ],
+            [
+              "Dr. Ceuracle Tea Tree Purifine Cleansing Foam",
+              "150 g",
+              "US$15.60（通常価格：US$24.00）",
+              "100 gあたりUS$10.40",
+              "泡になるジェルで、ティーツリーエキス30%配合"
+            ],
+            [
+              "Shiseido Anessa Perfect UV Sunscreen Skincare Milk",
+              "60 ml",
+              "US$15.05（通常価格：US$21.50）",
+              "10 mlあたりUS$2.51",
+              "SPF50+ PA++++の日焼け止め。ミネラルと化学の両方のフィルター"
+            ],
+            [
+              "Shiseido Fino Premium Touch Hair Mask",
+              "230 g",
+              "US$11.62（通常価格：US$16.60）",
+              "100 gあたりUS$5.05",
+              "ローヤルゼリー配合のヘアマスク。ストアのヘアケアで1位"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Dynasty Cream、50 gかJumboか：**Jumboは量あたり約30%安くなりますが、量は2倍です。毎日使っている人だけが得をします。初めてなら50 gのボトルがおすすめです。",
+          "**プロポリスのアンプル：**リストの中でツヤを出すアイテムで、ページがハチミツにたとえるテクスチャーです。化粧水のあと、クリームの前に使います。",
+          "**日焼け止め：**Anessaは、上のセクションのレチナールやレチノール入りの商品を買った人の、ルーティンの仕上げになります。",
+          "**バッグの調整に：**ShiseidoのFinoヘアマスクと、カーラーの替えゴム（3個でUS$3.14）は、段階まであと数ドルのときに安くて便利なアイテムです。Benefianceラインでは、Wrinkle Smoothing CreamがUS$115.40で、私たちが確認した時点では割引がありませんでした。"
+        ],
+        "links": [
+          {
+            "label": "YesStyleでBeauty of Joseonのセレクションを見る",
+            "href": "https://ystyle.co/1PRZC",
+            "sponsored": true
+          },
+          {
+            "label": "YesStyleでDr. Ceuracleのセレクションを見る",
+            "href": "https://ystyle.co/aQ7Bk",
+            "sponsored": true
+          },
+          {
+            "label": "YesStyleでShiseidoのセレクションを見る",
+            "href": "https://ystyle.co/BxprE",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "今週のクーポンとCECILIA010を使ったカートの計算",
+        "paragraphs": [
+          "上の価格を使った例です。AbibのアイパッチUS$18.40、Booster CrèmeUS$22.40、celimaxのパッドUS$15.75、345 Relief CreamUS$22.95、AnessaUS$15.05を合計すると、US$94.55になります。このカートは、段階式クーポンのUS$79の段階を超えています。"
+        ],
+        "bullets": [
+          "**段階式クーポンの8%の場合：**Coupon Code欄のクーポンで、US$7.56が引かれます。",
+          "**どの注文にも使える15%の場合：**クーポンの割引はUS$14.18になります。11月中旬には、アメリカ、イギリス、カナダ向けの配送で、最低金額なしのこのようなクーポンがストアにありました。",
+          "**さらにCECILIA010：**Reward Code欄で、初回購入は5%、2回目以降は2%がクーポンに加わります。US$94.55に対して、5%はUS$4.73、2%はUS$1.89です。",
+          "**計算の順序はストアが決めます：**5%がクーポン適用前の金額にかかるのか、適用後の金額にかかるのかは、確認できていません。注文の概要には、支払い前に2つの割引の行が表示されます。"
+        ],
+        "postParagraphs": [
+          "**ページの言語は、配送先の国を決めません。**US$79、US$149、US$199の段階、US$35以上の通常配送無料、それ未満のUS$6の送料は、アメリカ向けの配送を米ドルで表示したときのストアの表示です。日本語で読んでいる方は、日本、シンガポール、オーストラリア、台湾など別の国にいる場合もあり、条件は配送先で変わります。通貨、送料無料の最低金額、その日のクーポン、発送の可否、関税の税金や払い戻しの規則が違います。すべて、ご自身の住所でチェックアウトを開いて確認してください。[YesStyleの配送ルール](https://www.yesstyle.com/en/help/section.html/hsi.732)もご覧ください。",
+          "日本向けのYesStyleの配送の日数、送料、関税は、[YesStyle配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にまとめています。"
+        ],
+        "links": [
+          {
+            "label": "YesStyleでブラックフライデーのセールを見る",
+            "href": "https://ystyle.co/4RRfd",
+            "sponsored": true
+          },
+          {
+            "label": "コードCECILIA010でYesStyleへ進む",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          },
+          {
+            "label": "CECILIA010の使い方を手順で見る",
+            "href": "/ja/reviews/yesstyle-reward-code-cecilia010-ja"
           }
         ]
       },
@@ -59860,13 +62927,16 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "YesStyleのブラックフライデーはいつ始まり、いつまで続きますか？もう始まっています。ストアのホームにBlack Friday Mega Saleと段階式クーポンがあります。YesStyleは終了日をまだ発表していません。2024年と2025年は、「Black Friday」の名前のクーポンがサイバーマンデーまで続きました。",
           "ブラックフライデーのYesStyleのクーポンは何ですか？数日ごとに替わります。このサイトのYesStyleのページに、今週のコードが、日付つきで載っています。",
-          "YesStyleのブラックフライデーのクーポンに最低金額はありますか？段階式クーポンにはあります。US$79以上で8%、US$149以上で10%、US$199以上で15%です。2024年と2025年は、金曜日とサイバーマンデーの前後に最低金額なしの15%が開放されました。2026年はまだ発表されていません。",
+          "YesStyleのブラックフライデーのクーポンに最低金額はありますか？段階式クーポンにはあります。US$79以上で8%、US$149以上で10%、US$199以上で15%です。2024年と2025年は、金曜日とサイバーマンデーの前後に最低金額なしの15%が開放されました。2026年は、最低金額なしの15%クーポンが11月中旬にアメリカ、イギリス、カナダ向けにすでに出ていて、それ以外の国向けはまだ発表がありません。",
           "YesStyleは、ブラックフライデーとサイバーマンデーのどちらで買うのがお得ですか？2024年と2025年は、どちらも最低金額なしの15%だったので、クーポンの上限は同じでした。日によって変わるのは、各商品のセール価格です。",
           "YesStyleにはブラックフライデー以外にもセールがありますか？あります。8%、10%、15%の段階式クーポンはほぼ一年中実施されていて、数日ごとに名前が替わります。",
           "CECILIA010はブラックフライデーでも使えますか？使えます。Reward Code欄に入力します。ブラックフライデーのクーポンのルールにも、リワードコードと併用できると書かれています。",
           "YesStyleのクーポンを同じ注文で2枚使えますか？使えません。1注文につきクーポンは1枚です。リワードコードは別のもので、チェックアウトの別の欄に入力します。",
           "YesStyleのブラックフライデーのクーポンを使うには、アカウントが必要ですか？必要です。クーポンは会員限定で、ゲスト購入では割引されません。",
-          "YesStyleで買うと税金はかかりますか？荷物の到着時に課税されることがあります。対象となるUS$1,000未満の注文なら、領収書の日付から30日以内に送ると、YesStyleがその関税などの費用をストアクレジットで返金します。売上税、VAT、GSTは対象外です。"
+          "YesStyleで買うと税金はかかりますか？荷物の到着時に課税されることがあります。対象となるUS$1,000未満の注文なら、領収書の日付から30日以内に送ると、YesStyleがその関税などの費用をストアクレジットで返金します。売上税、VAT、GSTは対象外です。",
+          "YesStyleのブラックフライデーでは何を買うのがおすすめですか？ スキンケアの習慣次第です。このガイドでは、必要なものごとに分けています。Cecíliaが試したAbibの3商品、medicubeとcelimaxの角質ケア用パッド、Centellian24とDr. Altheaのバリアクリーム、ツヤと保護にはBeauty of Joseon、Dr. Ceuracle、Shiseidoです。",
+          "このガイドの米ドル価格は、どの国でも同じですか？ いいえ。アメリカ向けの配送に設定した英語版のストアで確認したものです。通貨、価格、送料無料、その日のクーポンは配送先で変わるので、チェックアウトでご自身の住所の条件を確認してください。",
+          "AbibのレチナールとAHA・BHAのパッドは一緒に使えますか？ 同じ夜に使うのはおすすめしません。酸とレチノイドを重ねると、肌が荒れやすくなります。夜を分けて、日中は日焼け止めを使ってください。"
         ]
       }
     ],
@@ -59889,7 +62959,18 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-trust-guide-ja"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "YesStyleが配送している国で受け取り、自分のルーティンに足りない商品が分かっている。",
+        "カートがクーポンの段階を超えている、またはどの注文にも使える15%の日まで待てる。",
+        "まだCECILIA010を使ったことがない：Reward Codeの5%は初回購入に使えます。"
+      ],
+      "skipIf": [
+        "お住まいの国がYesStyleの配送先に含まれていない：カートを作る前に確認してください。",
+        "使ったことのない商品の2個セットを、割引だけを理由に買おうとしている。"
+      ]
+    }
   },
   {
     "id": 345,
@@ -59912,7 +62993,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle 有黑色星期五嗎？有，已經開始：Mega Sale、8% 至 15% 的階梯優惠券、無最低消費的 15% 日子，以及獎勵碼 CECILIA010 的疊加方法。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -59928,7 +63009,7 @@ export const reviewsData: unknown[] = [
       "符合條件且低於 1,000 美元的訂單，YesStyle 會以店鋪抵用金退還關稅等稅費"
     ],
     "cons": [
-      "2026 年的結束日期和無最低消費的 15% 日子尚未公布：之後的安排只是依往年紀錄的推測",
+      "全部國家的結束日期與無最低消費的 15% 日子尚未公布：之後的安排只是依往年紀錄的推測",
       "黑色星期五的階梯優惠券和平常的一樣",
       "優惠券僅限會員，每筆訂單限用一張，不折抵運費",
       "這是跨境購物，送達時間比本地商店長"
@@ -59937,13 +63018,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "先說結論",
         "paragraphs": [
-          "有，YesStyle 的黑色星期五已經開始。首頁上有 Mega Sale，商品各有特價，橫幅最高標 50% off；階梯優惠券是 8%、10% 或 15%。CECILIA010 填在 Reward Code 欄位，可與它疊加。YesStyle 尚未公布 2026 年無最低消費的 15% 日子。"
+          "有，YesStyle 的黑色星期五已經開始。首頁上有 Mega Sale，商品各有特價，橫幅最高標 50% off；階梯優惠券是 8%、10% 或 15%。CECILIA010 填在 Reward Code 欄位，可與它疊加。"
         ]
       },
       {
         "heading": "YesStyle 黑色星期五何時開始",
         "paragraphs": [
-          "YesStyle 會在網站的說明中心公布每張優惠券的規則，寫明開始與結束的日期與時間。下表是 2025 年的日期。2024 年各階段的順序相同，只是晚一兩天開始。2026 年活動已經開始：11 月 3 日，商店首頁有「Black Friday Mega Sale」，商品各有特價，橫幅最高標 50% off，還有當時的階梯優惠券（滿 US$ 79 給 8%，滿 US$ 149 給 10%，滿 US$ 199 給 15%），商店每隔幾天更換一次，購買前請確認目前有效的券。一張券到期，不代表活動結束。標準運費滿 US$ 35 免運費是否適用取決於送達地，結帳頁會顯示你的情況。2026 年的結束日期和無最低消費的 15% 日子尚未公布。"
+          "YesStyle 會在網站的說明中心公布每張優惠券的規則，寫明開始與結束的日期與時間。下表是 2025 年的日期。2024 年各階段的順序相同，只是晚一兩天開始。2026 年活動已經開始：11 月 3 日，商店首頁有「Black Friday Mega Sale」，商品各有特價，橫幅最高標 50% off，還有當時的階梯優惠券（滿 US$ 79 給 8%，滿 US$ 149 給 10%，滿 US$ 199 給 15%），商店每隔幾天更換一次，購買前請確認目前有效的券。一張券到期，不代表活動結束。標準運費滿 US$ 35 免運費是否適用取決於送達地，結帳頁會顯示你的情況。2026 年 11 月中旬，商店還開放了一張針對任何訂單、無最低消費的 15% 優惠券，適用於寄往美國、英國與加拿大的訂單；其他送達地則適用階梯優惠券。全部國家的活動結束日期與無最低消費的 15% 日子尚未公布。"
         ],
         "comparisonTable": {
           "caption": "2025 年開放給所有會員的優惠券，取自 YesStyle 說明頁面；每個階段持續到下一階段開始。日期與時間採用 GMT，這是商店的計時標準。",
@@ -60089,9 +63170,27 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "購物車範例：Abib 的護膚流程",
+        "heading": "買什麼：我們怎麼讀價格",
         "paragraphs": [
-          "在本文最後的影片裡，Cecília 試用了她從 YesStyle 收到的三款韓國品牌 Abib 的產品：眼部水凝膠貼片、PDRN 精華霜與唇膜。這是一套給剛接觸韓式護膚的人的簡短流程，也是搭配黑色星期五購物車的好起點。"
+          "接下來的幾個段落，依品牌整理值得放進購物車的產品。所有價格都是在 2026 年 11 月 16 日，於 YesStyle 英文商店、以寄往美國、美元計價讀取的。這是當天的促銷價，幾乎都帶有限時特價標籤，尚未套用本週優惠券與 CECILIA010。價格每天都可能變動，也會因國家而異：以你的購物袋為準。",
+          "YesStyle 在每個產品頁面上自稱是 Abib、medicube、celimax、Centellian24、Dr. Althea、Beauty of Joseon 與 Dr. Ceuracle 的授權經銷商。我們打開的 Shiseido 頁面上沒有這句話。文中提到的成分，是當天各產品頁面公布的成分表；實際收到的包裝才是最終依據。"
+        ],
+        "links": [
+          {
+            "label": "前往 YesStyle 查看黑色星期五優惠",
+            "href": "https://ystyle.co/4RRfd",
+            "sponsored": true
+          },
+          {
+            "label": "查看 YesStyle 今日的優惠券與獎勵碼 CECILIA010",
+            "href": "/zh-hant/coupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Cecília 試用過的 Abib 流程：眼部、臉部與唇部",
+        "paragraphs": [
+          "在本文最後的影片裡，Cecília 試用了她從 YesStyle 收到的三款 Abib 產品。這是清單裡唯一有我們自己使用經驗的產品，使用心得記錄在 [韓式護膚 30 歲：Abib 流程](/zh-hant/reviews/abib-skincare-routine-30-zh-hant)。三款都含 PDRN，其中兩款含視黃醛。"
         ],
         "images": [
           {
@@ -60099,27 +63198,380 @@ export const reviewsData: unknown[] = [
             "alt": "Cecília 笑著拿著 Abib 眼部水凝膠貼片的罐子與一片粉色貼片",
             "caption": "Cecília 影片裡的 Abib 眼部水凝膠貼片。",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/cn2Z5"
           },
           {
             "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
             "alt": "Cecília 在臉旁拿著 Abib PDRN 精華霜的白色軟管",
             "caption": "Abib 的 PDRN 精華霜。",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/q5SUZ"
           },
           {
             "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
             "alt": "Cecília 嘟著嘴，拿著 Abib 粉色唇膜的罐子",
             "caption": "Abib 的唇膜。",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/TS7jZ"
           }
+        ],
+        "comparisonTable": {
+          "caption": "Cecília 試用的三款 Abib 產品，為美國商店的美元價格，未套用本週優惠券與 CECILIA010。",
+          "headers": [
+            "產品",
+            "容量",
+            "當日價格",
+            "單位成本",
+            "頁面標示"
+          ],
+          "rows": [
+            [
+              "[Abib PDRN Retinal Eye Patch Glow Jelly](https://ystyle.co/cn2Z5)",
+              "60 片",
+              "US$ 18.40（原價：US$ 23.00）",
+              "每片 US$ 0.31",
+              "植物性 PDRN、視黃醛、膠原蛋白、菸鹼醯胺與咖啡因"
+            ],
+            [
+              "[Abib PDRN Volume Fill-it Booster Crème 2.5 Tube](https://ystyle.co/q5SUZ)",
+              "30 ml",
+              "US$ 22.40（原價：US$ 28.00）",
+              "每 10 ml US$ 7.47",
+              "15,000 ppm PDRN、10,000 ppm Volufiline、視黃醛與胜肽"
+            ],
+            [
+              "[Abib PDRN Collagen Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ)",
+              "11 g",
+              "US$ 16.00（原價：US$ 20.00）",
+              "每克 US$ 1.45",
+              "植物來源 PDRN、膠原蛋白與積雪草；含香料"
+            ]
+          ]
+        },
+        "bullets": [
+          "**眼部：**[水凝膠眼貼](https://ystyle.co/cn2Z5)是 60 片裝的罐子，雙眼可用 30 次。依我們的讀取，頁面把它列為商店眼膜類別的銷售冠軍。",
+          "**臉部：**[Booster Crème 2.5](https://ystyle.co/q5SUZ) 是 30 ml 的軟管。三款裡它每毫升最貴；頁面也賣 10 ml 的迷你版，適合在買完整軟管前先試用。",
+          "**唇部：**[Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ) 是 11 g 的罐裝。三款裡只有它的成分表裡沒有視黃醛。",
+          "**視黃醛要小心：**眼貼和面霜都含視黃醛，一種視黃醇類成分。請在夜間使用，白天擦防曬，同一個晚上不要和下一段的去角質片一起用。孕婦與哺乳期的人，使用視黃醇類成分須先諮詢醫師。",
+          "**雙件組：**三款都有兩件裝的組合，每件折扣更大。只有已經在用這款產品的人才划算。"
         ],
         "links": [
           {
+            "label": "在 YesStyle 查看 Abib PDRN 眼貼",
+            "href": "https://ystyle.co/cn2Z5",
+            "sponsored": true
+          },
+          {
+            "label": "在 YesStyle 查看 Abib PDRN Booster Crème 2.5",
+            "href": "https://ystyle.co/q5SUZ",
+            "sponsored": true
+          },
+          {
+            "label": "在 YesStyle 查看 Abib Lip Mask Glazed Jelly",
+            "href": "https://ystyle.co/TS7jZ",
+            "sponsored": true
+          },
+          {
             "label": "Abib 流程逐個產品看",
             "href": "/zh-hant/reviews/abib-skincare-routine-30-zh-hant"
+          }
+        ]
+      },
+      {
+        "heading": "不含視黃醇類的 Abib：片狀面膜與保濕凝露",
+        "paragraphs": [
+          "對於不能或不想使用視黃醛的人，Abib 有兩款商店自己列為品牌熱銷的產品。兩款產品頁面公布的成分表裡，都沒有視黃醛或視黃醇。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-abib-sem-retinoide.webp",
+          "alt": "Abib Gummy Sheet Mask 的五種版本，黑色包裝，旁邊是黑色軟管的 Hydration Gel Water Tube",
+          "caption": "Abib 的 Gummy Sheet Mask 與 Hydration Gel Water Tube。 產品圖片：YesStyle。",
+          "objectFit": "contain",
+          "aspectRatio": 1.9562
+        },
+        "bullets": [
+          "**Abib Gummy Sheet Mask，Madecassoside Sticker 版本：**27 g 的片狀面膜，單片販售，US$ 3.20（原價：US$ 4.90）。頁面把這個版本描述為保濕與舒緩。同一個頁面還賣另外四個版本：放進購物袋前，請確認你選的是 Madecassoside。",
+          "**Abib Hydration Gel Water Tube：**75 ml 的保濕凝露，US$ 27.30（原價：US$ 39.00），每 10 ml US$ 3.64。頁面說它沒有額外添加香料，使用後清爽不厚重。"
+        ],
+        "links": [
+          {
+            "label": "在 YesStyle 查看 Abib 精選商品",
+            "href": "https://ystyle.co/fH8cM",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "毛孔與膚質：medicube 與 celimax",
+        "paragraphs": [
+          "這裡要在兩款去角質片之間做選擇。兩款都是浸泡了含酸化妝水的棉片罐，差別在配方與每片的價格。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-poros-medicube-celimax.webp",
+          "alt": "四款產品排成方格：medicube 的藍色 Zero Pore Pad 罐與 Red Foam Cleanser 軟管，celimax 的綠色 Heartleaf BHA Peeling Pad 罐與淡紫色卸妝油瓶",
+          "caption": "medicube 的 Zero Pore Pad 與 Red Foam Cleanser；celimax 的 Heartleaf BHA Peeling Pad 與 Derma Nature 卸妝油。 產品圖片：YesStyle。",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "medicube 與 celimax 的去角質片與清潔產品，為美國商店的美元價格，未套用本週優惠券與 CECILIA010。",
+          "headers": [
+            "產品",
+            "容量",
+            "當日價格",
+            "單位成本",
+            "頁面標示"
+          ],
+          "rows": [
+            [
+              "medicube Zero Pore Pad 2.0",
+              "70 片",
+              "US$ 21.90（原價：US$ 31.00）",
+              "每片 US$ 0.31",
+              "乳酸（AHA）、水楊酸（BHA）、泛醇與積雪草；配方含酒精"
+            ],
+            [
+              "medicube Zero Pore Pad Mild",
+              "70 片（155 g）",
+              "US$ 21.90（原價：US$ 31.00）",
+              "每片 US$ 0.31",
+              "依描述，是 Zero Pore Pad 的溫和版，含水楊酸與 PHA"
+            ],
+            [
+              "celimax JI.WOO.GAE Heartleaf BHA Peeling Pad",
+              "60 片",
+              "US$ 15.75（原價：US$ 21.00）",
+              "每片 US$ 0.26",
+              "魚腥草萃取、甜菜鹼水楊酸酯（BHA）、積雪草苷與玻尿酸"
+            ],
+            [
+              "medicube Red Foam Cleanser",
+              "120 ml",
+              "US$ 17.90（原價：US$ 34.00）",
+              "每 100 ml US$ 14.92",
+              "含 0.5% 水楊酸的潔面泡沫"
+            ],
+            [
+              "celimax Derma Nature Fresh Blackhead Jojoba Cleansing Oil",
+              "150 ml",
+              "US$ 14.25（原價：US$ 19.00）",
+              "每 100 ml US$ 9.50",
+              "含荷荷芭在內的六種植物油的卸妝油"
+            ]
+          ]
+        },
+        "bullets": [
+          "**想要效果強一點的片：**Zero Pore Pad 2.0 結合了 AHA 與 BHA，依我們的讀取，是商店去角質類別的銷售冠軍。頁面自己建議不要與其他強效酸類同時使用，並隔天交替。",
+          "**想慢慢開始：**celimax 的片使用甜菜鹼水楊酸酯，每片更便宜，頁面描述它溫和，適合每天使用。medicube 自己的替代是 Zero Pore Pad Mild。",
+          "**清潔：**celimax 的卸妝油每 100 ml 比 medicube 的泡沫便宜。同一個 Red 系列的 Red Erasing Cream 面霜，50 ml 規格缺貨，預計等約三週。",
+          "**不要和視黃醇類疊加：**同一晚使用酸類去角質片與含視黃醛的產品，是最容易刺激肌膚的組合。請隔晚交替。"
+        ],
+        "links": [
+          {
+            "label": "在 YesStyle 查看 medicube 精選商品",
+            "href": "https://ystyle.co/ErjTv",
+            "sponsored": true
+          },
+          {
+            "label": "在 YesStyle 查看 celimax 精選商品",
+            "href": "https://ystyle.co/QJfLB",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "屏障與保濕：Centellian24 與 Dr. Althea",
+        "paragraphs": [
+          "對於乾燥或敏感的肌膚，候選是 Centellian24 的積雪草面霜（韓國製藥公司東國製藥旗下品牌），以及 Dr. Althea 最熱銷的兩款面霜。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
+          "alt": "四款產品排成方格：Centellian24 的 Madeca Cream Time Reverse 面霜與 Madeca Toning Essence Treatment 精華，以及 Dr. Althea 的 345 Relief Cream 與 147 Barrier Cream 面霜",
+          "caption": "Centellian24 的 Madeca Cream Time Reverse 與 Madeca Toning Essence Treatment；Dr. Althea 的 345 Relief Cream 與 147 Barrier Cream。 產品圖片：YesStyle。",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Centellian24 與 Dr. Althea 的面霜與精華，為美國商店的美元價格，未套用本週優惠券與 CECILIA010。",
+          "headers": [
+            "產品",
+            "容量",
+            "當日價格",
+            "單位成本",
+            "頁面標示"
+          ],
+          "rows": [
+            [
+              "Centellian24 Madeca Cream Time Reverse",
+              "50 ml",
+              "US$ 24.00（原價：US$ 32.00）",
+              "每 10 ml US$ 4.80",
+              "TECA（積雪草標準化萃取）、菸鹼醯胺、膠原蛋白與視黃醇"
+            ],
+            [
+              "Centellian24 Madeca Toning Essence Treatment",
+              "150 ml",
+              "US$ 22.50（原價：US$ 30.00）",
+              "每 100 ml US$ 15.00",
+              "積雪草萃取、10 ppm TECA 與菸鹼醯胺"
+            ],
+            [
+              "Dr. Althea 345 Relief Cream",
+              "50 ml",
+              "US$ 22.95（原價：US$ 27.00）",
+              "每 10 ml US$ 4.59",
+              "茶樹葉水、菸鹼醯胺、玻尿酸與神經醯胺 NP"
+            ],
+            [
+              "Dr. Althea 147 Barrier Cream",
+              "50 ml",
+              "US$ 22.95（原價：US$ 27.00）",
+              "每 10 ml US$ 4.59",
+              "角鯊烷、玻尿酸、泛醇與神經醯胺；不含人工香料"
+            ]
+          ]
+        },
+        "bullets": [
+          "**商店的銷售冠軍：**依我們的讀取，345 Relief Cream 在 YesStyle 美妝總榜排名第一，有超過 3.3 萬則評價。頁面把它介紹為痘後使用的面霜，可減輕可見的泛紅。",
+          "**乾燥肌、無香料：**147 Barrier Cream 是同品牌中專門用來建立保濕屏障的一款。",
+          "**Madeca Cream 含視黃醇：**雖然以積雪草面霜聞名，Time Reverse 的配方含視黃醇。要和 Abib 的視黃醛一樣小心。依我們的讀取，50 ml 罐裝缺貨，預計等約三週；15 ml 迷你版是 US$ 11.25。",
+          "**乳霜前的輕盈一步：**Toning Essence Treatment 是已公布成分中不含視黃醇類的積雪草選項，150 ml 瓶裝。",
+          "**15 ml 迷你版：**Dr. Althea 的兩款面霜都有迷你版，US$ 8.42，可用來試用，或湊滿購物袋。"
+        ],
+        "links": [
+          {
+            "label": "在 YesStyle 查看 Centellian24 精選商品",
+            "href": "https://ystyle.co/2UD4F",
+            "sponsored": true
+          },
+          {
+            "label": "在 YesStyle 查看 Dr. Althea 精選商品",
+            "href": "https://ystyle.co/X94R9",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "光澤與防護：Beauty of Joseon、Dr. Ceuracle 與 Shiseido",
+        "paragraphs": [
+          "最後一組包括一款滋養面霜、一款蜂膠安瓶，以及日本品牌 Shiseido；當購物袋差一點就能達到優惠券門檻或免運門檻時，Shiseido 很適合用來補上。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
+          "alt": "四款產品排成方格：Beauty of Joseon 打開的 Dynasty Cream 罐、Dr. Ceuracle 的 Royal Vita Propolis 33 安瓶瓶與 Tea Tree Purifine 洗面乳軟管，以及 Shiseido 藍色盒裝的 Anessa 防曬",
+          "caption": "Beauty of Joseon 的 Dynasty Cream；Dr. Ceuracle 的 Royal Vita Propolis 33 Ampoule 與 Tea Tree Purifine Cleansing Foam；Shiseido 的 Anessa Perfect UV Sunscreen Skincare Milk。 產品圖片：YesStyle。",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Beauty of Joseon、Dr. Ceuracle 與 Shiseido 的產品，為美國商店的美元價格，未套用本週優惠券與 CECILIA010。",
+          "headers": [
+            "產品",
+            "容量",
+            "當日價格",
+            "單位成本",
+            "頁面標示"
+          ],
+          "rows": [
+            [
+              "Beauty of Joseon Dynasty Cream",
+              "50 g",
+              "US$ 19.20（原價：US$ 24.00）",
+              "每 10 g US$ 3.84",
+              "米糠水、人參根水、菸鹼醯胺與角鯊烷"
+            ],
+            [
+              "Beauty of Joseon Dynasty Cream Jumbo",
+              "100 ml",
+              "US$ 27.20（原價：US$ 34.00）",
+              "每 10 ml US$ 2.72",
+              "相同配方，大罐裝"
+            ],
+            [
+              "Dr. Ceuracle Royal Vita Propolis 33 Ampoule Jumbo",
+              "30 ml",
+              "US$ 23.55（原價：US$ 31.40）",
+              "每 10 ml US$ 7.85",
+              "33.5% 蜂膠萃取、蜂王漿萃取、菸鹼醯胺與泛醇"
+            ],
+            [
+              "Dr. Ceuracle Tea Tree Purifine Cleansing Foam",
+              "150 g",
+              "US$ 15.60（原價：US$ 24.00）",
+              "每 100 g US$ 10.40",
+              "凝膠轉泡沫，含 30% 茶樹萃取"
+            ],
+            [
+              "Shiseido Anessa Perfect UV Sunscreen Skincare Milk",
+              "60 ml",
+              "US$ 15.05（原價：US$ 21.50）",
+              "每 10 ml US$ 2.51",
+              "SPF 50+ PA++++ 防曬，含礦物與化學濾光劑"
+            ],
+            [
+              "Shiseido Fino Premium Touch Hair Mask",
+              "230 g",
+              "US$ 11.62（原價：US$ 16.60）",
+              "每 100 g US$ 5.05",
+              "含蜂王漿的髮膜；商店護髮類別第一名"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Dynasty Cream，50 g 罐裝或 Jumbo：**Jumbo 每單位數量便宜約 30%，但份量是兩倍。只有每天都用的人才划算；第一次買，選 50 g 罐裝。",
+          "**蜂膠安瓶：**這是清單中負責光澤的品項，頁面把質地比喻為蜂蜜。用在化妝水之後、面霜之前。",
+          "**防曬：**如果你買了上面段落裡任何含視黃醛或視黃醇的產品，Anessa 就是用來完成流程的那一步。",
+          "**湊滿購物袋：**Fino 髮膜與 Shiseido 的 curvex 替換橡膠（3 個 US$ 3.14）都是便宜實用的品項，在差幾美元就能達到門檻時很好用。Benefiance 系列的 Wrinkle Smoothing Cream 是 US$ 115.40，依我們的讀取沒有折扣。"
+        ],
+        "links": [
+          {
+            "label": "在 YesStyle 查看 Beauty of Joseon 精選商品",
+            "href": "https://ystyle.co/1PRZC",
+            "sponsored": true
+          },
+          {
+            "label": "在 YesStyle 查看 Dr. Ceuracle 精選商品",
+            "href": "https://ystyle.co/aQ7Bk",
+            "sponsored": true
+          },
+          {
+            "label": "在 YesStyle 查看 Shiseido 精選商品",
+            "href": "https://ystyle.co/BxprE",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "加上本週優惠券與 CECILIA010 的購物車算式",
+        "paragraphs": [
+          "用上面的價格舉一個例子：Abib 眼貼（US$ 18.40）、Booster Crème（US$ 22.40）、celimax 去角質片（US$ 15.75）、345 Relief Cream（US$ 22.95）與 Anessa 防曬（US$ 15.05），合計 US$ 94.55。這個購物車超過了階梯優惠券的 US$ 79 門檻。"
+        ],
+        "bullets": [
+          "**使用 8% 的階梯優惠券：**填在 Coupon Code 欄位的優惠券，折掉 US$ 7.56。",
+          "**使用任何訂單皆適用的 15%：**優惠券的折扣升到 US$ 14.18。11 月中旬，商店有這樣一張無最低消費的券，適用於寄往美國、英國與加拿大的訂單。",
+          "**再加上 CECILIA010：**填在 Reward Code 欄位，首次購買 5%、之後 2%，與優惠券疊加。以 US$ 94.55 計算，5% 是 US$ 4.73，2% 是 US$ 1.89。",
+          "**計算順序由商店決定：**我們沒有確認這 5% 是按原價算，還是按已扣掉優惠券的金額算。訂單摘要會在付款前顯示兩行折扣。"
+        ],
+        "postParagraphs": [
+          "**頁面語言不決定送達國家。**US$ 79、US$ 149 與 US$ 199 的門檻、US$ 35 起的標準免運費，以及低於該額度時的 US$ 6 運費，是商店在寄往美國、以美元計價時顯示的內容。用中文閱讀的人可能在台灣、香港或其他地方，條件會隨送達地改變：幣別、免運門檻、當天的優惠券、能否寄送，以及海關稅費與退稅的規則。請在結帳頁用你的地址確認一切，也可以看 [YesStyle 的配送規則](https://www.yesstyle.com/en/help/section.html/hsi.732)與 [YesStyle 配送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。"
+        ],
+        "links": [
+          {
+            "label": "前往 YesStyle 查看黑色星期五優惠",
+            "href": "https://ystyle.co/4RRfd",
+            "sponsored": true
+          },
+          {
+            "label": "帶著 CECILIA010 前往 YesStyle",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          },
+          {
+            "label": "CECILIA010 的逐步使用方法",
+            "href": "/zh-hant/reviews/yesstyle-reward-code-cecilia010-zh-hant"
           }
         ]
       },
@@ -60128,13 +63580,16 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "YesStyle 的黑色星期五何時開始、持續多久？已經開始：商店首頁有 Black Friday Mega Sale 和階梯優惠券。YesStyle 還沒有公布結束日期；2024 年與 2025 年，名稱為 Black Friday 的優惠券一直持續到網購星期一。",
           "YesStyle 黑色星期五的優惠券是什麼？它每隔幾天換一次。本站的 YesStyle 頁面會顯示本週的代碼，並標明日期。",
-          "YesStyle 黑色星期五的優惠券有最低消費嗎？階梯優惠券有：滿 US$ 79 給 8%，滿 US$ 149 給 10%，滿 US$ 199 給 15%。2024 年與 2025 年，YesStyle 在接近週五與網購星期一的幾天開放了無最低消費的 15%；2026 年尚未公布。",
+          "YesStyle 黑色星期五的優惠券有最低消費嗎？階梯優惠券有：滿 US$ 79 給 8%，滿 US$ 149 給 10%，滿 US$ 199 給 15%。2024 年與 2025 年，YesStyle 在接近週五與網購星期一的幾天開放了無最低消費的 15%；2026 年，無最低消費的 15% 優惠券已在 11 月中旬出現，適用於美國、英國與加拿大，其他國家目前還沒有公布。",
           "在 YesStyle，黑色星期五和網購星期一哪個買比較划算？2024 年與 2025 年，兩者都是無最低消費的 15%，所以優惠券的上限相同。每天不同的是每件商品的促銷價。",
           "YesStyle 在黑色星期五以外也有促銷嗎？有。8%、10% 與 15% 的階梯優惠券幾乎全年都在，每隔幾天換一次名稱。",
           "CECILIA010 在黑色星期五能用嗎？能用。它填在 Reward Code 欄位，黑色星期五優惠券的規則也寫明可與獎勵碼一起使用。",
           "同一筆訂單能用兩張 YesStyle 優惠券嗎？不能：每筆訂單一張優惠券。獎勵碼是另一回事，填在結帳頁的另一個欄位。",
           "使用黑色星期五優惠券需要 YesStyle 帳號嗎？需要。優惠券僅限會員，以訪客身分購買拿不到折扣。",
-          "在 YesStyle 購物要繳稅嗎？包裹到貨時可能會被課稅。符合條件且低於 1,000 美元的訂單，如果你在憑證日期起 30 天內寄出憑證，YesStyle 會以店鋪抵用金退還關稅等費用。銷售稅、加值稅（VAT）與 GST 不在退還範圍內。"
+          "在 YesStyle 購物要繳稅嗎？包裹到貨時可能會被課稅。符合條件且低於 1,000 美元的訂單，如果你在憑證日期起 30 天內寄出憑證，YesStyle 會以店鋪抵用金退還關稅等費用。銷售稅、加值稅（VAT）與 GST 不在退還範圍內。",
+          "在 YesStyle 黑色星期五買什麼值得？要看你的流程。本指南依需求整理：Cecília 試用過的三款 Abib 產品、medicube 與 celimax 的去角質片、Centellian24 與 Dr. Althea 的屏障面霜，以及追求光澤與防護的 Beauty of Joseon、Dr. Ceuracle 與 Shiseido。",
+          "本指南的美元價格適用於任何國家嗎？不適用。價格是在英文商店、以寄往美國讀取的。幣別、價格、免運與當天的優惠券會隨送達地改變：結帳頁會顯示你的地址適用的條件。",
+          "Abib 的視黃醛可以和去角質片一起用嗎？同一個晚上不建議：酸類與視黃醇類一起用，肌膚很容易刺激。請隔晚交替，白天擦防曬。"
         ]
       }
     ],
@@ -60157,7 +63612,18 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-trust-guide-zh-hant"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你的收件國家在 YesStyle 的配送範圍內，而且你已經知道流程裡缺哪一樣產品。",
+        "你的購物車超過了某一階優惠券的門檻，或你可以等一個任何訂單都適用的 15% 日子。",
+        "你還沒用過 CECILIA010：Reward Code 的 5% 適用於首次購買。"
+      ],
+      "skipIf": [
+        "你的國家不在 YesStyle 的配送清單上：組購物車之前先確認。",
+        "你只是因為折扣，就想買一個從沒用過的產品的雙件組。"
+      ]
+    }
   },
   {
     "id": 346,
@@ -60180,7 +63646,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle 有黑色星期五吗？有，已经开始：Mega Sale、8% 至 15% 的阶梯优惠券、无最低消费的 15% 日子，以及奖励码 CECILIA010 的叠加方法。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60196,7 +63662,7 @@ export const reviewsData: unknown[] = [
       "符合条件且低于 1,000 美元的订单，YesStyle 会以店铺抵用金退还关税等税费"
     ],
     "cons": [
-      "2026 年的结束日期和无最低消费的 15% 日子尚未公布：之后的安排只是根据往年记录的推测",
+      "结束日期和所有国家无最低消费的 15% 日子尚未公布：之后的安排只是根据往年记录的推测",
       "黑色星期五的阶梯优惠券和平时的一样",
       "优惠券仅限会员，每笔订单限用一张，不抵扣运费",
       "这是跨境购物，送达时间比本地商店长"
@@ -60205,13 +63671,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "先说结论",
         "paragraphs": [
-          "有，YesStyle 的黑色星期五已经开始。首页上有 Mega Sale，商品各有特价，横幅最高标 50% off；阶梯优惠券是 8%、10% 或 15%。CECILIA010 填在 Reward Code 栏位，可与它叠加。YesStyle 尚未公布 2026 年无最低消费的 15% 日子。"
+          "有，YesStyle 的黑色星期五已经开始。首页上有 Mega Sale，商品各有特价，横幅最高标 50% off；阶梯优惠券是 8%、10% 或 15%。CECILIA010 填在 Reward Code 栏位，可与它叠加。YesStyle 尚未公布所有国家 2026 年无最低消费的 15% 日子。"
         ]
       },
       {
         "heading": "YesStyle 黑色星期五何时开始",
         "paragraphs": [
-          "YesStyle 会在网站的帮助中心公布每张优惠券的规则，写明开始和结束的日期与时间。下表是 2025 年的日期。2024 年各阶段的顺序相同，只是晚一两天开始。2026 年活动已经开始：11 月 3 日，商店首页有“Black Friday Mega Sale”，商品各有特价，横幅最高标 50% off，还有当时的阶梯优惠券（满 US$ 79 给 8%，满 US$ 149 给 10%，满 US$ 199 给 15%），商店每隔几天更换一次，购买前请确认当前有效的券。一张券到期，不代表活动结束。标准运费满 US$ 35 免运费是否适用取决于送达地，结账页会显示你的情况。2026 年的结束日期和无最低消费的 15% 日子尚未公布。"
+          "YesStyle 会在网站的帮助中心公布每张优惠券的规则，写明开始和结束的日期与时间。下表是 2025 年的日期。2024 年各阶段的顺序相同，只是晚一两天开始。2026 年活动已经开始：11 月 3 日，商店首页有“Black Friday Mega Sale”，商品各有特价，横幅最高标 50% off，还有当时的阶梯优惠券（满 US$ 79 给 8%，满 US$ 149 给 10%，满 US$ 199 给 15%），商店每隔几天更换一次，购买前请确认当前有效的券。一张券到期，不代表活动结束。标准运费满 US$ 35 免运费是否适用取决于送达地，结账页会显示你的情况。11 月中旬，商店还开放了一张对任何订单都给 15%、没有最低消费的优惠券，适用于送往美国、英国和加拿大的订单；其他目的地适用阶梯优惠券。活动的结束日期和所有国家无最低消费的 15% 日子尚未公布。"
         ],
         "comparisonTable": {
           "caption": "2025 年向所有会员开放的优惠券，取自 YesStyle 帮助页面；每个阶段持续到下一阶段开始。日期和时间采用 GMT，这是商店的计时标准。",
@@ -60357,9 +63823,27 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "购物车示例：Abib 的护肤流程",
+        "heading": "买什么：我们如何读价格",
         "paragraphs": [
-          "在本文末尾的视频里，Cecília 试用了她从 YesStyle 收到的三款韩国品牌 Abib 的产品：眼部水凝胶贴、PDRN 精华霜和唇膜。这是一套给刚接触韩式护肤的人的简短流程，也是搭配黑色星期五购物车的好起点。"
+          "接下来的几个部分按品牌列出值得放进购物车的产品。所有价格都是 2026 年 11 月 16 日在 YesStyle 英文商店读取的，送往美国，以美元计价。这是当天的促销价，几乎都带有限时特价标记，在本周优惠券和 CECILIA010 之前。价格每天不同，各国也不同：以你自己购物袋里的金额为准。",
+          "YesStyle 在每个产品页上声明自己是 Abib、medicube、celimax、Centellian24、Dr. Althea、Beauty of Joseon 和 Dr. Ceuracle 的授权经销商。我们打开的资生堂页面上没有这句话。文中提到的成分取自当天各产品页公布的成分表；最终以收到的包装为准。"
+        ],
+        "links": [
+          {
+            "label": "查看 YesStyle 黑色星期五优惠",
+            "href": "https://ystyle.co/4RRfd",
+            "sponsored": true
+          },
+          {
+            "label": "查看 YesStyle 今日的优惠券与奖励码 CECILIA010",
+            "href": "/zh-hans/coupons/yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Cecília 试用过的 Abib 流程：眼部、面部和唇部",
+        "paragraphs": [
+          "在本文末尾的视频里，Cecília 试用了她从 YesStyle 收到的三款 Abib 产品。这是清单里仅有的我们亲自用过的产品，详见 [韩式护肤 30 岁：Abib 流程](/zh-hans/reviews/abib-skincare-routine-30-zh-hans)。三款都含 PDRN，其中两款含视黄醛。"
         ],
         "images": [
           {
@@ -60367,27 +63851,381 @@ export const reviewsData: unknown[] = [
             "alt": "Cecília 笑着拿着 Abib 眼部水凝胶贴的罐子和一片粉色贴片",
             "caption": "Cecília 视频里的 Abib 眼部水凝胶贴。",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/cn2Z5"
           },
           {
             "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
             "alt": "Cecília 在脸旁拿着 Abib PDRN 精华霜的白色软管",
             "caption": "Abib 的 PDRN 精华霜。",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/q5SUZ"
           },
           {
             "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
             "alt": "Cecília 嘟着嘴，拿着 Abib 粉色唇膜的罐子",
             "caption": "Abib 的唇膜。",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://ystyle.co/TS7jZ"
           }
+        ],
+        "comparisonTable": {
+          "caption": "Cecília 试用的三款 Abib 产品，美元价格取自美国商店，在本周优惠券和 CECILIA010 之前。",
+          "headers": [
+            "产品",
+            "规格",
+            "当日价",
+            "按数量折算",
+            "页面声明的内容"
+          ],
+          "rows": [
+            [
+              "[Abib PDRN Retinal Eye Patch Glow Jelly](https://ystyle.co/cn2Z5)",
+              "60 片",
+              "US$ 18.40（原价：US$ 23.00）",
+              "每片 US$ 0.31",
+              "植物源 PDRN、视黄醛、胶原蛋白、烟酰胺和咖啡因"
+            ],
+            [
+              "[Abib PDRN Volume Fill-it Booster Crème 2.5 Tube](https://ystyle.co/q5SUZ)",
+              "30 ml",
+              "US$ 22.40（原价：US$ 28.00）",
+              "每 10 ml US$ 7.47",
+              "15,000 ppm PDRN、10,000 ppm Volufiline、视黄醛和肽"
+            ],
+            [
+              "[Abib PDRN Collagen Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ)",
+              "11 g",
+              "US$ 16.00（原价：US$ 20.00）",
+              "每克 US$ 1.45",
+              "植物源 PDRN、胶原蛋白和积雪草；含香精"
+            ]
+          ]
+        },
+        "bullets": [
+          "**眼部：**[水凝胶眼贴](https://ystyle.co/cn2Z5)一罐 60 片，也就是双眼可用 30 次。据我们读取时的页面，它是商店眼膜类里卖得最好的。",
+          "**面部：**[Booster Crème 2.5](https://ystyle.co/q5SUZ) 是 30 ml 的软管装。按毫升算，它是三款里最贵的；页面也卖 10 ml 的迷你装，适合在买整支之前试用。",
+          "**唇部：**[Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ) 是 11 g 的罐装。成分表里，三款中只有它不含视黄醛。",
+          "**注意视黄醛：**眼贴和精华霜含视黄醛，属于维 A 类成分。请在晚上使用，白天涂防晒，同一晚不要和下一部分的去角质棉片一起用。孕妇和哺乳期女性使用维 A 类成分，只能在医生指导下进行。",
+          "**两件装：**三款都有两件装，每件的折扣更大。只对已经在用这个产品的人划算。"
         ],
         "links": [
           {
+            "label": "查看 YesStyle 上的 Abib PDRN 眼部贴",
+            "href": "https://ystyle.co/cn2Z5",
+            "sponsored": true
+          },
+          {
+            "label": "查看 YesStyle 上的 Abib PDRN Booster Crème 2.5",
+            "href": "https://ystyle.co/q5SUZ",
+            "sponsored": true
+          },
+          {
+            "label": "查看 YesStyle 上的 Abib 唇膜 Glazed Jelly",
+            "href": "https://ystyle.co/TS7jZ",
+            "sponsored": true
+          },
+          {
             "label": "Abib 流程逐个产品看",
             "href": "/zh-hans/reviews/abib-skincare-routine-30-zh-hans"
+          }
+        ]
+      },
+      {
+        "heading": "不含维 A 类的 Abib：片状面膜和保湿凝胶",
+        "paragraphs": [
+          "不能或不想用视黄醛的人，Abib 有两款商店自己列在品牌热销里的产品。两个产品页公布的成分表里，都没有视黄醛或视黄醇。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-abib-sem-retinoide.webp",
+          "alt": "Abib 的 Gummy Sheet Mask 五个版本的黑色包装，旁边是黑色的 Hydration Gel Water Tube 软管",
+          "caption": "Abib 的 Gummy Sheet Mask 与 Hydration Gel Water Tube。产品图：YesStyle。",
+          "objectFit": "contain",
+          "aspectRatio": 1.9562
+        },
+        "bullets": [
+          "**Abib Gummy Sheet Mask，Madecassoside Sticker 版：**27 g 的片状面膜，单片销售，US$ 3.20（原价：US$ 4.90）。页面把这个版本描述为保湿和舒缓。同一页面还卖另外四个版本：放进购物袋之前，请确认选的是 Madecassoside。",
+          "**Abib Hydration Gel Water Tube：**75 ml 的保湿凝胶，US$ 27.30（原价：US$ 39.00），折合每 10 ml US$ 3.64。页面写明不添加香精，用后清爽、不厚重。"
+        ],
+        "links": [
+          {
+            "label": "查看 YesStyle 上的 Abib 精选",
+            "href": "https://ystyle.co/fH8cM",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "毛孔与质地：medicube 与 celimax",
+        "paragraphs": [
+          "这里要在两款去角质棉片之间选。两者都是浸了含酸爽肤水的棉片罐装，区别在配方和每片的价格。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-poros-medicube-celimax.webp",
+          "alt": "四件产品的网格：medicube 的蓝色 Zero Pore Pad 罐与 Red Foam Cleanser 软管，celimax 的绿色 Heartleaf BHA Peeling Pad 罐与淡紫色卸妆油瓶",
+          "caption": "medicube 的 Zero Pore Pad 与 Red Foam Cleanser；celimax 的 Heartleaf BHA Peeling Pad 与 Derma Nature 卸妆油。产品图：YesStyle。",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "medicube 与 celimax 的棉片和清洁产品，美元价格取自美国商店，在本周优惠券和 CECILIA010 之前。",
+          "headers": [
+            "产品",
+            "规格",
+            "当日价",
+            "按数量折算",
+            "页面声明的内容"
+          ],
+          "rows": [
+            [
+              "medicube Zero Pore Pad 2.0",
+              "70 片",
+              "US$ 21.90（原价：US$ 31.00）",
+              "每片 US$ 0.31",
+              "乳酸（AHA）、水杨酸（BHA）、泛醇和积雪草；配方含酒精"
+            ],
+            [
+              "medicube Zero Pore Pad Mild",
+              "70 片（155 g）",
+              "US$ 21.90（原价：US$ 31.00）",
+              "每片 US$ 0.31",
+              "Zero Pore Pad 的温和版，据描述含水杨酸和 PHA"
+            ],
+            [
+              "celimax JI.WOO.GAE Heartleaf BHA Peeling Pad",
+              "60 片",
+              "US$ 15.75（原价：US$ 21.00）",
+              "每片 US$ 0.26",
+              "鱼腥草提取物、甜菜碱水杨酸盐（BHA）、积雪草苷和透明质酸"
+            ],
+            [
+              "medicube Red Foam Cleanser",
+              "120 ml",
+              "US$ 17.90（原价：US$ 34.00）",
+              "每 100 ml US$ 14.92",
+              "含 0.5% 水杨酸的洁面泡沫"
+            ],
+            [
+              "celimax Derma Nature Fresh Blackhead Jojoba Cleansing Oil",
+              "150 ml",
+              "US$ 14.25（原价：US$ 19.00）",
+              "每 100 ml US$ 9.50",
+              "含六种植物油（包括荷荷巴油）的卸妆油"
+            ]
+          ]
+        },
+        "bullets": [
+          "**想要更强的棉片：**Zero Pore Pad 2.0 同时含 AHA 和 BHA，据我们读取时的页面，它是商店去角质类里卖得最好的。页面本身建议不要与其他强效酸类同用，并隔天使用。",
+          "**想慢慢开始：**celimax 的棉片用甜菜碱水杨酸盐，每片更便宜，页面把它描述为适合日常使用的温和款。medicube 里的替代选择是 Zero Pore Pad Mild。",
+          "**清洁：**celimax 的卸妆油按 100 ml 算比 medicube 的洁面泡沫便宜。同属 Red 系列的面霜 Red Erasing Cream，50 ml 规格当时缺货，等待约三周。",
+          "**不要叠加维 A 类：**同一晚既用含酸棉片又用含视黄醛的产品，是最容易刺激皮肤的组合。请隔晚交替。"
+        ],
+        "links": [
+          {
+            "label": "查看 YesStyle 上的 medicube 精选",
+            "href": "https://ystyle.co/ErjTv",
+            "sponsored": true
+          },
+          {
+            "label": "查看 YesStyle 上的 celimax 精选",
+            "href": "https://ystyle.co/QJfLB",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "屏障与保湿：Centellian24 与 Dr. Althea",
+        "paragraphs": [
+          "对于干燥或敏感的肌肤，候选的是韩国制药公司东国制药旗下品牌 Centellian24 的积雪草面霜，以及 Dr. Althea 最畅销的两款面霜。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
+          "alt": "四件产品的网格：Centellian24 的面霜 Madeca Cream Time Reverse 与精华 Madeca Toning Essence Treatment，以及 Dr. Althea 的面霜 345 Relief Cream 与 147 Barrier Cream",
+          "caption": "Centellian24 的 Madeca Cream Time Reverse 与 Madeca Toning Essence Treatment；Dr. Althea 的 345 Relief Cream 与 147 Barrier Cream。产品图：YesStyle。",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Centellian24 与 Dr. Althea 的面霜和精华，美元价格取自美国商店，在本周优惠券和 CECILIA010 之前。",
+          "headers": [
+            "产品",
+            "规格",
+            "当日价",
+            "按数量折算",
+            "页面声明的内容"
+          ],
+          "rows": [
+            [
+              "Centellian24 Madeca Cream Time Reverse",
+              "50 ml",
+              "US$ 24.00（原价：US$ 32.00）",
+              "每 10 ml US$ 4.80",
+              "TECA（积雪草标准提取物）、烟酰胺、胶原蛋白和视黄醇"
+            ],
+            [
+              "Centellian24 Madeca Toning Essence Treatment",
+              "150 ml",
+              "US$ 22.50（原价：US$ 30.00）",
+              "每 100 ml US$ 15.00",
+              "积雪草提取物、10 ppm TECA 和烟酰胺"
+            ],
+            [
+              "Dr. Althea 345 Relief Cream",
+              "50 ml",
+              "US$ 22.95（原价：US$ 27.00）",
+              "每 10 ml US$ 4.59",
+              "茶树叶水、烟酰胺、透明质酸和神经酰胺 NP"
+            ],
+            [
+              "Dr. Althea 147 Barrier Cream",
+              "50 ml",
+              "US$ 22.95（原价：US$ 27.00）",
+              "每 10 ml US$ 4.59",
+              "角鲨烷、透明质酸、泛醇和神经酰胺；无人工香精"
+            ]
+          ]
+        },
+        "bullets": [
+          "**商店最畅销：**据我们读取时的页面，345 Relief Cream 排在 YesStyle 美妆总榜第一，评价超过 3.3 万条。页面把它介绍为痘后使用的面霜，可减轻可见的泛红。",
+          "**干燥肌肤、无香精：**147 Barrier Cream 是同品牌里侧重建立保湿屏障的一款。",
+          "**Madeca Cream 含视黄醇：**虽然以积雪草面霜著称，Time Reverse 的配方含视黄醇。需要和 Abib 的视黄醛同样的小心。据我们读取时的页面，50 ml 的罐装缺货，等待约三周；15 ml 迷你装售价 US$ 11.25。",
+          "**面霜之前的轻盈一步：**Toning Essence Treatment 是已公布成分表里不含维 A 类的积雪草选项，150 ml 瓶装。",
+          "**15 ml 迷你装：**Dr. Althea 的两款面霜都有 US$ 8.42 的迷你装，适合试用，或用来凑满购物袋。"
+        ],
+        "links": [
+          {
+            "label": "查看 YesStyle 上的 Centellian24 精选",
+            "href": "https://ystyle.co/2UD4F",
+            "sponsored": true
+          },
+          {
+            "label": "查看 YesStyle 上的 Dr. Althea 精选",
+            "href": "https://ystyle.co/X94R9",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "光泽与防护：Beauty of Joseon、Dr. Ceuracle 与资生堂",
+        "paragraphs": [
+          "最后一组有滋养面霜、蜂胶安瓶，以及日本的资生堂；当购物袋差一点就够优惠券或运费门槛时，它们很合适。"
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
+          "alt": "四件产品的网格：Beauty of Joseon 打开的 Dynasty Cream 罐，Dr. Ceuracle 的 Royal Vita Propolis 33 安瓶瓶身与 Tea Tree Purifine 泡沫软管，以及资生堂 Anessa 防晒的蓝色盒子",
+          "caption": "Beauty of Joseon 的 Dynasty Cream；Dr. Ceuracle 的 Royal Vita Propolis 33 Ampoule 与 Tea Tree Purifine Cleansing Foam；资生堂的 Anessa Perfect UV Sunscreen Skincare Milk。产品图：YesStyle。",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Beauty of Joseon、Dr. Ceuracle 与资生堂的产品，美元价格取自美国商店，在本周优惠券和 CECILIA010 之前。",
+          "headers": [
+            "产品",
+            "规格",
+            "当日价",
+            "按数量折算",
+            "页面声明的内容"
+          ],
+          "rows": [
+            [
+              "Beauty of Joseon Dynasty Cream",
+              "50 g",
+              "US$ 19.20（原价：US$ 24.00）",
+              "每 10 g US$ 3.84",
+              "米糠水、人参根水、烟酰胺和角鲨烷"
+            ],
+            [
+              "Beauty of Joseon Dynasty Cream Jumbo",
+              "100 ml",
+              "US$ 27.20（原价：US$ 34.00）",
+              "每 10 ml US$ 2.72",
+              "同样的配方，大罐装"
+            ],
+            [
+              "Dr. Ceuracle Royal Vita Propolis 33 Ampoule Jumbo",
+              "30 ml",
+              "US$ 23.55（原价：US$ 31.40）",
+              "每 10 ml US$ 7.85",
+              "33.5% 蜂胶提取物、蜂王浆提取物、烟酰胺和泛醇"
+            ],
+            [
+              "Dr. Ceuracle Tea Tree Purifine Cleansing Foam",
+              "150 g",
+              "US$ 15.60（原价：US$ 24.00）",
+              "每 100 g US$ 10.40",
+              "凝胶遇水起泡，含 30% 茶树提取物"
+            ],
+            [
+              "Shiseido Anessa Perfect UV Sunscreen Skincare Milk",
+              "60 ml",
+              "US$ 15.05（原价：US$ 21.50）",
+              "每 10 ml US$ 2.51",
+              "SPF 50+ PA++++ 防晒，含物理和化学防晒剂"
+            ],
+            [
+              "Shiseido Fino Premium Touch Hair Mask",
+              "230 g",
+              "US$ 11.62（原价：US$ 16.60）",
+              "每 100 g US$ 5.05",
+              "含蜂王浆的发膜；商店护发类第一名"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Dynasty Cream，50 g 罐装或 Jumbo：**Jumbo 按数量算大约便宜 30%，但是两倍的量。只对每天都在用的人划算；第一次买，选 50 g 罐装。",
+          "**蜂胶安瓶：**这是清单里负责光泽的一项，页面把质地比作蜂蜜。用在爽肤水之后、面霜之前。",
+          "**防晒：**买了上面任何含视黄醛或视黄醇产品的人，Anessa 能为整套流程收尾。",
+          "**用来凑满购物袋：**Fino 发膜，以及资生堂 curvex 的替换胶垫（3 个 US$ 3.14），在差几美元就够门槛时是便宜又实用的选择。Benefiance 系列的 Wrinkle Smoothing Cream 售价 US$ 115.40，据我们读取时的页面没有折扣。"
+        ],
+        "links": [
+          {
+            "label": "查看 YesStyle 上的 Beauty of Joseon 精选",
+            "href": "https://ystyle.co/1PRZC",
+            "sponsored": true
+          },
+          {
+            "label": "查看 YesStyle 上的 Dr. Ceuracle 精选",
+            "href": "https://ystyle.co/aQ7Bk",
+            "sponsored": true
+          },
+          {
+            "label": "查看 YesStyle 上的资生堂精选",
+            "href": "https://ystyle.co/BxprE",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "本周优惠券加 CECILIA010 的购物车算账",
+        "paragraphs": [
+          "用上面的价格举个例子：Abib 眼贴（US$ 18.40）、Booster Crème（US$ 22.40）、celimax 棉片（US$ 15.75）、345 Relief Cream（US$ 22.95）和 Anessa 防晒（US$ 15.05），合计 US$ 94.55。这个购物车超过了阶梯优惠券的 US$ 79 门槛。"
+        ],
+        "bullets": [
+          "**使用 8% 的阶梯优惠券：**优惠券填在 Coupon Code 栏位，减去 US$ 7.56。",
+          "**使用对任何订单都给 15% 的券：**优惠券的折扣升到 US$ 14.18。11 月中旬，商店有一张这样的、没有最低消费的券，适用于送往美国、英国和加拿大的订单。",
+          "**再加 CECILIA010：**填在 Reward Code 栏位，首次购买 5%，之后的购买 2%，与优惠券叠加。对这 US$ 94.55 来说，5% 是 US$ 4.73，2% 是 US$ 1.89。",
+          "**计算顺序由商店决定：**我们没有确认这 5% 是按原价算，还是按已用优惠券后的金额算。订单摘要会在付款前显示两行折扣。"
+        ],
+        "postParagraphs": [
+          "**页面语言不决定送达国家。** US$ 79、US$ 149 和 US$ 199 的门槛、US$ 35 起的标准免运费，以及低于此金额时的 US$ 6 运费，是商店显示的送往美国、以美元计价的条件。用简体中文阅读的你，可能身在新加坡、马来西亚或其他地方，条件会随目的地而变：币种、免运费门槛、当天的优惠券、能否送达，以及关税的税费和退款规则。请在结账页用你自己的地址确认一切，并查看 [YesStyle 配送规则](https://www.yesstyle.com/en/help/section.html/hsi.732)。",
+          "各国的配送情况、公布的运费与时效，见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。"
+        ],
+        "links": [
+          {
+            "label": "查看 YesStyle 黑色星期五优惠",
+            "href": "https://ystyle.co/4RRfd",
+            "sponsored": true
+          },
+          {
+            "label": "前往 YesStyle 并使用代码 CECILIA010",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          },
+          {
+            "label": "CECILIA010 的分步使用方法",
+            "href": "/zh-hans/reviews/yesstyle-reward-code-cecilia010-zh-hans"
           }
         ]
       },
@@ -60396,13 +64234,16 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "YesStyle 的黑色星期五何时开始、持续多久？已经开始：商店首页有 Black Friday Mega Sale 和阶梯优惠券。YesStyle 还没有公布结束日期；2024 年和 2025 年，名称为 Black Friday 的优惠券一直持续到网络星期一。",
           "YesStyle 黑色星期五的优惠券是什么？它每隔几天换一次。本站的 YesStyle 页面会显示本周的代码，并标明日期。",
-          "YesStyle 黑色星期五的优惠券有最低消费吗？阶梯优惠券有：满 US$ 79 给 8%，满 US$ 149 给 10%，满 US$ 199 给 15%。2024 年和 2025 年，YesStyle 在临近周五和网络星期一的几天开放了无最低消费的 15%；2026 年尚未公布。",
+          "YesStyle 黑色星期五的优惠券有最低消费吗？阶梯优惠券有：满 US$ 79 给 8%，满 US$ 149 给 10%，满 US$ 199 给 15%。2024 年和 2025 年，YesStyle 在临近周五和网络星期一的几天开放了无最低消费的 15%；2026 年，无最低消费的 15% 优惠券已在 11 月中旬出现，适用于美国、英国和加拿大，其他国家目前还没有公告。",
           "在 YesStyle，黑色星期五和网络星期一哪个买更划算？2024 年和 2025 年，两者都是无最低消费的 15%，所以优惠券的上限相同。每天不同的是每件商品的促销价。",
           "YesStyle 在黑色星期五以外也有促销吗？有。8%、10% 和 15% 的阶梯优惠券几乎全年都在，每隔几天换一次名称。",
           "CECILIA010 在黑色星期五能用吗？能用。它填在 Reward Code 栏位，黑色星期五优惠券的规则也写明可与奖励码一起使用。",
           "同一笔订单能用两张 YesStyle 优惠券吗？不能：每笔订单一张优惠券。奖励码是另一回事，填在结账页的另一个栏位。",
           "使用黑色星期五优惠券需要 YesStyle 账号吗？需要。优惠券仅限会员，以访客身份购买拿不到折扣。",
-          "在 YesStyle 购物要交税吗？包裹到货时可能会被征税。符合条件且低于 1,000 美元的订单，如果你在凭证日期起 30 天内寄出凭证，YesStyle 会以店铺抵用金退还关税等费用。销售税、增值税（VAT）和 GST 不在退还范围内。"
+          "在 YesStyle 购物要交税吗？包裹到货时可能会被征税。符合条件且低于 1,000 美元的订单，如果你在凭证日期起 30 天内寄出凭证，YesStyle 会以店铺抵用金退还关税等费用。销售税、增值税（VAT）和 GST 不在退还范围内。",
+          "黑色星期五在 YesStyle 买什么值得？看你的流程。本指南按需求分类：Cecília 试用过的三款 Abib 产品、medicube 与 celimax 的去角质棉片、Centellian24 与 Dr. Althea 的屏障面霜，以及光泽与防护方面的 Beauty of Joseon、Dr. Ceuracle 和资生堂。",
+          "本指南里的美元价格适用于任何国家吗？不适用。这些价格是在英文商店、送往美国时读取的。币种、价格、免运费门槛和当天的优惠券会随目的地而变：结账页显示你地址对应的条件。",
+          "Abib 的视黄醛可以和去角质棉片一起用吗？同一晚不是个好主意：酸类和维 A 类一起用很容易刺激皮肤。请隔晚交替，白天涂防晒。"
         ]
       }
     ],
@@ -60425,7 +64266,18 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-trust-guide-zh-hans"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你的收货国家在 YesStyle 的配送范围内，而且你知道自己的流程缺什么产品。",
+        "你的购物车超过某一档优惠券的门槛，或者你可以等一个对任何订单都给 15% 的日子。",
+        "你还没用过 CECILIA010：Reward Code 的 5% 适用于首次购买。"
+      ],
+      "skipIf": [
+        "你所在的国家不在 YesStyle 的配送范围内：请在组购物车之前先确认。",
+        "你打算只为折扣，买一个从没用过的产品的两件装。"
+      ]
+    }
   },
   {
     "id": 347,
@@ -98662,7 +102514,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Hostinger 2026: o cupom SONAR20 tira mais 20% do preço da campanha, em toda compra nova. Preços por plano, já com a campanha no ar.",
     "publishedAt": "19 de outubro de 2026",
     "publishedAtISO": "2026-10-19",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/black-friday-hostinger-capa-v2.webp",
@@ -98673,15 +102525,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday da Hostinger já começou: vai de 19 de outubro a 14 de dezembro de 2026. O preço da campanha entra sozinho, e o código **SONAR20**, no campo de cupom do carrinho, tira mais 20% dele. O que muda a conta é a renovação, explicada abaixo."
+          "A Black Friday da Hostinger já começou: vai de 19 de outubro a 14 de dezembro de 2026. O preço da campanha entra sozinho, e o código **SONAR20**, no campo de cupom do carrinho, tira mais 20% dele em compra nova. A renovação sai pelo preço de tabela, sem desconto. Abaixo, a conta de cada plano de hospedagem e de VPS."
         ]
       },
       {
         "heading": "A Black Friday da Hostinger já começou?",
         "paragraphs": [
           "Já começou. A FAQ oficial da Hostinger diz: \"A promoção Black Friday da Hostinger acontece de 19 de outubro a 14 de dezembro de 2026.\" A página global em inglês diz a mesma data.",
-          "Em 03/11, a página da campanha no Brasil mostra 80% off em hospedagem de sites, 66% em VPS e 74% no Reach (e-mail marketing). São os números dos banners, não o desconto de cada plano: o preço por plano está na tabela abaixo.",
-          "Os números abaixo são só da campanha de 2026, da página oficial."
+          "Em meados de novembro, a página brasileira mostra até 82% de desconto em hospedagem de sites e até 70% em VPS. São os números dos banners, calculados sobre o preço cheio de cada plano: o que você paga, plano por plano, está na tabela abaixo."
         ],
         "images": [
           {
@@ -98694,59 +102545,157 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Quanto sai com a campanha e com o SONAR20",
+        "heading": "Quanto sai cada plano: campanha, SONAR20 e renovação",
+        "paragraphs": [
+          "A Hostinger cobra o período inteiro de uma vez e mostra o valor dividido por mês. Por isso a tabela traz as duas coisas: o equivalente mensal e o total cobrado no período inicial, antes e depois do SONAR20. A última coluna é a renovação, que não tem o desconto da campanha nem o do código."
+        ],
         "comparisonTable": {
+          "caption": "Página brasileira da Hostinger, em reais, lida em meados de novembro. Hospedagem no plano de 48 meses e VPS no de 24 meses. O total com SONAR20 são os 20% sobre o total do período, como o carrinho calcula.",
           "headers": [
-            "Plano (48 meses)",
-            "Equivalente mensal da campanha",
-            "Equivalente mensal com SONAR20",
-            "Total inicial com SONAR20 (48 meses)",
-            "Renovação, sem SONAR20"
+            "Plano e período",
+            "Mensal na campanha",
+            "Mensal com SONAR20",
+            "Total do período na campanha",
+            "Total com SONAR20",
+            "Renovação por mês"
           ],
           "rows": [
             [
-              "Single",
-              "R$ 5,99/mês",
-              "R$ 4,79/mês",
-              "R$ 229,92",
-              "R$ 23,99/mês"
+              "[Single](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20), 48 meses",
+              "R$ 5,99",
+              "R$ 4,79",
+              "R$ 287,52",
+              "R$ 230,02",
+              "R$ 23,99"
             ],
             [
-              "Premium",
-              "R$ 9,99/mês",
-              "R$ 7,99/mês",
-              "R$ 383,52",
-              "R$ 38,99/mês"
+              "[Premium](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20), 48 meses",
+              "R$ 9,99",
+              "R$ 7,99",
+              "R$ 479,52",
+              "R$ 383,62",
+              "R$ 38,99"
             ],
             [
-              "Unlimited",
-              "R$ 12,99/mês",
-              "R$ 10,39/mês",
-              "R$ 498,72",
-              "R$ 64,99/mês"
+              "[Unlimited](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20), 48 meses",
+              "R$ 12,99",
+              "R$ 10,39",
+              "R$ 623,52",
+              "R$ 498,82",
+              "R$ 64,99"
             ],
             [
-              "Cloud Startup",
-              "R$ 39,99/mês",
-              "R$ 31,99/mês",
+              "[Cloud Startup](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20), 48 meses",
+              "R$ 39,99",
+              "R$ 31,99",
+              "R$ 1.919,52",
               "R$ 1.535,62",
-              "R$ 129,99/mês"
+              "R$ 129,99"
+            ],
+            [
+              "[VPS KVM 1](https://www.hostinger.com/br/servidor-vps?REFERRALCODE=SONAR20), 24 meses",
+              "R$ 29,99",
+              "R$ 23,99",
+              "R$ 719,76",
+              "R$ 575,81",
+              "R$ 59,99"
+            ],
+            [
+              "[VPS KVM 2](https://www.hostinger.com/br/servidor-vps?REFERRALCODE=SONAR20), 24 meses",
+              "R$ 42,99",
+              "R$ 34,39",
+              "R$ 1.031,76",
+              "R$ 825,41",
+              "R$ 77,99"
+            ],
+            [
+              "[VPS KVM 4](https://www.hostinger.com/br/servidor-vps?REFERRALCODE=SONAR20), 24 meses",
+              "R$ 59,99",
+              "R$ 47,99",
+              "R$ 1.439,76",
+              "R$ 1.151,81",
+              "R$ 149,99"
+            ],
+            [
+              "[VPS KVM 8](https://www.hostinger.com/br/servidor-vps?REFERRALCODE=SONAR20), 24 meses",
+              "R$ 119,99",
+              "R$ 95,99",
+              "R$ 2.879,76",
+              "R$ 2.303,81",
+              "R$ 259,99"
             ]
           ]
         },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-pt.webp",
+          "alt": "Gráfico de barras com o preço por mês dos planos da Hostinger no primeiro período e na renovação: Single, Premium, Unlimited e Cloud Startup na hospedagem, e KVM 1, 2, 4 e 8 no VPS; em todos, a renovação é mais cara",
+          "caption": "Cada plano em duas barras: o preço por mês no primeiro período e na renovação. Quadro do Em Casa com Cecília, pelos preços da página da Hostinger.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
         "postParagraphs": [
-          "Os preços são de 19/10/2026, dos planos de 48 meses. O desconto entra sobre o preço da campanha: no Single, o total de 48 meses é R$ 287,52 na campanha e cai para R$ 229,92 com o SONAR20. No carrinho do site brasileiro, em 07/11/2026, com o SONAR20 no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o mesmo plano de 48 meses passou de US$ 383,52 para US$ 306,82. Plano, campanha e país podem mudar o total, então confira o valor no carrinho.",
-          "Onde colar o código e por que a renovação não tem desconto está em [Cupom Hostinger SONAR20](/reviews/cupom-hostinger-indicacao)."
+          "Os preços são da página brasileira em 16/11/2026, em reais, sem impostos adicionais no resumo do carrinho. O total com SONAR20 é o total do período menos 20%, arredondado no centavo. Fazer a conta pela mensalidade arredondada dá alguns centavos a menos e não bate com a cobrança: no Premium, o carrinho passou de R$ 479,52 para R$ 383,62, com \"Cupom aplicado: SONAR20\".",
+          "Conferimos no carrinho, sem login, o Premium brasileiro nessa data e o Cloud Startup em 07/11/2026 (de R$ 1.919,52 para R$ 1.535,62). Nos outros planos, o valor da coluna é a mesma conta de 20% sobre o total que a página mostra. O carrinho mostra o desconto antes do pagamento: confira o seu.",
+          "**Ciclos menores.** No Premium, o equivalente mensal da campanha era o mesmo R$ 9,99 em 12, 24 e 48 meses, e o SONAR20 entrou nos três: R$ 95,90 por 12 meses e R$ 191,81 por 24. O que muda é por quanto tempo o preço fica travado antes da renovação. No plano de 1 mês não havia preço de campanha (R$ 48,99), e o carrinho respondeu que o cupom era inválido. No começo de novembro, o Cloud Startup de 1 mês tinha aceitado o código. Se a ideia é pagar mês a mês, teste o código no carrinho antes de contar com ele.",
+          "**Renovação.** Os 20% do SONAR20 valem em compra nova, também para quem já é cliente e contrata um plano novo. Na renovação de um plano que você já tem e no registro avulso de domínio, o código não dá desconto. O resumo do Premium dizia que o plano renova por R$ 38,99 por mês, cobrados a cada 12 meses. A conta completa da renovação está em [Renovação da Hostinger e o SONAR20](/reviews/hostinger-renovacao-cupom-sonar20).",
+          "Onde colar o código, passo a passo, está em [Cupom Hostinger SONAR20](/reviews/cupom-hostinger-indicacao)."
+        ]
+      },
+      {
+        "heading": "Qual plano de hospedagem escolher: Single, Premium, Unlimited ou Cloud Startup",
+        "paragraphs": [
+          "A escolha depende de quantos sites você vai ter e de como eles são feitos. Os limites abaixo são da página de planos e da documentação de limites da Hostinger."
+        ],
+        "bullets": [
+          "[Single](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20): 1 site e 10 GB de armazenamento. Serve para o primeiro site, um portfólio ou uma página de negócio local. É o menor desembolso do período.",
+          "[Premium](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20): 3 sites e 20 GB. É o que a própria FAQ da Hostinger indica para a maioria dos sites pessoais, empresariais e em WordPress. Não tem aplicações Node.js.",
+          "[Unlimited](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20): sites ilimitados, 50 GB em NVMe e backups diários. É o primeiro plano de hospedagem com aplicações Node.js: a documentação lista até 5 sites em Node.js nele.",
+          "[Cloud Startup](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20): sites ilimitados, 100 GB em NVMe e recursos dedicados, com até 10 sites em Node.js. Entra quando o tráfego ou o número de projetos já passou do que a hospedagem compartilhada segura."
+        ],
+        "postParagraphs": [
+          "**Node.js muda a escolha.** Pela documentação de limites da Hostinger, Single e Premium não têm sites em Node.js. Quem vai publicar um projeto em Next.js, por exemplo, começa no Unlimited ou num plano Cloud. Site em WordPress ou PHP cabe em qualquer um dos quatro.",
+          "O Bruno, que cuida deste site, é cliente da Hostinger desde 2024, com hospedagem, VPS KVM 2, e-mail e domínios. O Em Casa com Cecília roda em Node.js num contrato Business contratado naquele ano. Na grade de hoje, a Hostinger vende o antigo Business como Unlimited na maioria das páginas, e quem já era cliente Business mantém o plano e os limites dele. Ou seja: a experiência dele vale para o Unlimited ou o Cloud de agora, não para o Premium.",
+          "Para quem vai de WordPress, o que vem em cada plano está em [WordPress na Hostinger](/reviews/wordpress-na-hostinger). O domínio grátis do primeiro ano e o preço dele depois estão em [Domínio na Hostinger: comprar, transferir ou deixar fora](/reviews/dominio-hostinger-comprar-transferir-ou-fora)."
+        ]
+      },
+      {
+        "heading": "Qual VPS escolher: KVM 1, 2, 4 ou 8",
+        "paragraphs": [
+          "VPS é para quem precisa instalar programas fora do painel, ter CPU e memória reservadas ou acessar o servidor como root. Se as três respostas forem \"não\", a hospedagem compartilhada resolve e custa menos: a comparação está em [VPS ou hospedagem compartilhada](/reviews/vps-ou-hospedagem-compartilhada-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+            "alt": "Quadro \"Três perguntas antes de escolher\": instalar um sistema ou programa fora do painel, CPU e memória reservadas e acesso root levam ao VPS; três \"não\" levam à hospedagem compartilhada",
+            "caption": "As três perguntas que separam VPS de hospedagem compartilhada. Quadro do Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7787
+          },
+          {
+            "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
+            "alt": "Quadro com três linhas: modelo fora do servidor (chave de API ou créditos) leva ao KVM 1; modelo local pequeno leva ao KVM 2, no limite, ou ao KVM 4; modelo local com mais contexto ou outros programas leva ao KVM 4 ou ao KVM 8",
+            "caption": "Pela documentação do OpenClaw; sem medição de desempenho.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "bullets": [
+          "[KVM 1](https://www.hostinger.com/br/servidor-vps?REFERRALCODE=SONAR20): 1 núcleo de vCPU, 4 GB de RAM e 50 GB em NVMe. Para um projeto pessoal, um site pequeno ou um aplicativo só.",
+          "[KVM 2](https://www.hostinger.com/br/servidor-vps?REFERRALCODE=SONAR20): 2 núcleos, 8 GB de RAM e 100 GB. Para sites em crescimento, loja virtual ou alguns aplicativos juntos. É o VPS que o Bruno usa.",
+          "[KVM 4](https://www.hostinger.com/br/servidor-vps?REFERRALCODE=SONAR20): 4 núcleos, 16 GB de RAM e 200 GB. Para banco de dados, vários serviços ou tráfego alto.",
+          "[KVM 8](https://www.hostinger.com/br/servidor-vps?REFERRALCODE=SONAR20): 8 núcleos, 32 GB de RAM e 400 GB. Para agências e aplicações que pedem muita memória."
+        ],
+        "postParagraphs": [
+          "**Para rodar o OpenClaw.** Com o modelo fora do servidor, por chave de API ou créditos, o agente em si é leve e o KVM 1 já serve de ponto de partida. Com modelo local a conta é outra. A documentação do OpenClaw diz que a memória depende do modelo, do tamanho do contexto e do que mais roda na máquina. As configurações locais que ela documenta usam contexto de 64K, e a menor delas pede pelo menos 8 GiB de memória no servidor; as maiores pedem mais, e a documentação avisa que esse piso não garante que o modelo caiba nem que rode rápido.",
+          "Lendo os planos por essa régua: o KVM 1, com 4 GB, fica abaixo do piso. O KVM 2 tem 8 GB, cerca de 7,5 GiB, e fica no limite, sem folga para o sistema e o Docker. O KVM 4 e o KVM 8 são os que dão margem para essa configuração menor. Os planos KVM rodam em vCPU e não listam GPU dedicada, então modelo local grande não é o uso deles. O passo a passo está em [Melhor VPS para o OpenClaw](/reviews/melhor-vps-para-openclaw)."
         ]
       },
       {
         "heading": "Quem deve esperar e quem não deve",
         "paragraphs": [
-          "Se precisa colocar o site no ar esta semana, compare o total disponível agora, com e sem SONAR20, e o preço de renovação. O código reduziu o preço da campanha; isso não garante que o valor será o menor até o fim da Black Friday.",
-          "Se pode esperar, saiba que a campanha vai até meados de dezembro, mas nenhum preço fica garantido até lá. Os 20% do SONAR20 saem do preço da campanha: se a campanha mudar, o total muda junto.",
-          "Para a maioria dos sites pessoais, empresariais e WordPress, a própria FAQ indica o Premium. A Hostinger indica o Single para quem está começando ou tem projetos simples. Para VPS, faça a conta no carrinho: o banner mostrava 67% em 03/11.",
-          "Se você já é cliente, confira as ofertas de upgrade da sua conta: a FAQ diz que clientes atuais podem receber ofertas separadas. O SONAR20 vale também para um plano novo.",
-          "O Bruno, que cuida deste site, é cliente da Hostinger desde 2024, com mais de 24 meses de assinatura. Os planos dele são hospedagem Business, VPS KVM 2, e-mail e domínios, todos com renovação automática. O Em Casa com Cecília roda na Hostinger."
+          "Se precisa colocar o site no ar esta semana, compare o total disponível agora, com e sem SONAR20, e o preço de renovação. O código reduz o preço da campanha; isso não garante que o valor será o menor até o fim da Black Friday.",
+          "Se pode esperar, saiba que a campanha vai até meados de dezembro, mas nenhum preço fica garantido até lá. Os 20% do SONAR20 saem do preço da campanha: se a campanha mudar, o total muda junto. Em meados de novembro, os quatro planos de hospedagem estavam no mesmo preço que lemos em outubro.",
+          "Se você já é cliente, confira as ofertas de upgrade da sua conta: a FAQ diz que clientes atuais podem receber ofertas separadas. O SONAR20 vale também para um plano novo."
         ]
       },
       {
@@ -98755,6 +102704,7 @@ export const reviewsData: unknown[] = [
           "Abra a [Hostinger na página da loja deste site](/cupons/hostinger) e copie o código SONAR20.",
           "No carrinho, cole o SONAR20 no campo de cupom e veja o desconto de 20% aparecer sobre o preço da campanha.",
           "Compare o total do primeiro período, não só o preço por mês. O total mostra a diferença real.",
+          "Troque o período no carrinho antes de fechar: o equivalente mensal pode ser o mesmo em prazos diferentes, e o prazo define quando a renovação chega.",
           "Confira o preço da renovação antes de finalizar. A Hostinger o mostra antes do pagamento, e ele não é o da campanha. Os 20% do SONAR20 valem em toda compra nova, também para quem já é cliente; a renovação sai pelo preço de tabela."
         ],
         "postParagraphs": [
@@ -98764,11 +102714,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Hostinger? Já começou e vai até meados de dezembro; as datas exatas estão na resposta rápida, no começo do artigo. A página da campanha no Brasil mostra 80% off em hospedagem de sites, 66% em VPS e 74% no Reach.",
+          "Quando começa e quanto dura a Black Friday da Hostinger? Já começou e vai até meados de dezembro; as datas exatas estão na resposta rápida, no começo do artigo. A página brasileira mostra até 82% de desconto em hospedagem de sites e até 70% em VPS.",
           "A Black Friday da Hostinger tem cupom? O preço da campanha entra sozinho, e o código SONAR20, no campo de cupom do carrinho, tira mais 20% dele. Não citamos códigos de outros sites.",
-          "Até quando vai a Black Friday da Hostinger? Até meados de dezembro, segundo a FAQ oficial; a data exata está no começo do artigo.",
+          "Qual plano da Hostinger comprar na Black Friday? Para um site só, o Single. Para até três sites em WordPress ou PHP, o Premium. Para Node.js ou muitos sites, o Unlimited. Para tráfego alto, o Cloud Startup. VPS só se você precisa de root, de programas fora do painel ou de memória reservada.",
+          "O plano Premium da Hostinger roda Node.js? Não. Pela documentação de limites da Hostinger, sites em Node.js começam no Unlimited, com até 5, e nos planos Cloud, com até 10.",
+          "Qual VPS da Hostinger serve para o OpenClaw? Com o modelo por chave de API, o KVM 1. Com modelo local, a menor configuração documentada pelo OpenClaw pede 8 GiB de memória: o KVM 2 fica no limite e o KVM 4 dá folga.",
           "O preço da Black Friday continua na renovação? Não. Ele vale para o período inicial da assinatura. A renovação sai pelo preço normal do plano.",
-          "O SONAR20 vale junto com o preço da Black Friday? Sim: os 20% saíram do preço da campanha. Como o preço muda, confira o total no carrinho.",
+          "O SONAR20 vale junto com o preço da Black Friday? Sim: os 20% saem do preço da campanha. Como o preço muda, confira o total no carrinho.",
+          "O SONAR20 vale no plano de 1 mês? Depende do plano. Num teste nosso de novembro, o carrinho recusou o código no Premium de 1 mês e aceitou nos prazos de 12, 24 e 48 meses. Teste no seu carrinho antes de pagar.",
           "A garantia de reembolso vale na Black Friday? A FAQ diz que os planos elegíveis têm garantia de 30 dias, com termos e exclusões. O que fica de fora está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel).",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
@@ -98787,16 +102740,36 @@ export const reviewsData: unknown[] = [
     "editorialNote": "A Hostinger hospeda este site. Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. Confira o total no carrinho antes de pagar.",
     "relatedArticles": [
       {
+        "slug": "cupom-hostinger-indicacao"
+      },
+      {
+        "slug": "hostinger-renovacao-cupom-sonar20"
+      },
+      {
+        "slug": "vps-ou-hospedagem-compartilhada-qual-escolher"
+      },
+      {
+        "slug": "melhor-vps-para-openclaw"
+      },
+      {
         "slug": "hostinger-e-confiavel"
       },
       {
         "slug": "hostinger-reclame-aqui-nota-reputacao"
-      },
-      {
-        "slug": "cupom-hostinger-indicacao"
       }
     ],
-    "bodyDatesReason": "campanha"
+    "bodyDatesReason": "campanha",
+    "decision": {
+      "takeIf": [
+        "Você vai contratar um plano novo e quer travar o preço da campanha pelo período mais longo que pretende usar.",
+        "Você sabe qual plano atende o seu projeto: Premium para WordPress, Unlimited ou Cloud para Node.js.",
+        "Você já conferiu o preço de renovação e ele cabe no seu orçamento depois do primeiro período."
+      ],
+      "skipIf": [
+        "Você só quer renovar um plano que já tem: nem a campanha nem o SONAR20 entram na renovação.",
+        "Você pretende pagar mês a mês: o plano de 1 mês não tinha preço de campanha no Premium."
+      ]
+    }
   },
   {
     "id": 504,
@@ -98834,7 +102807,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Black Friday 2026 has started and runs until December 14. The SONAR20 coupon takes another 20% off the campaign price. Renewal and how to check.",
     "publishedAt": "October 19, 2026",
     "publishedAtISO": "2026-10-19",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -98846,33 +102819,168 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Hostinger's Black Friday has already started: it runs from October 19 to December 14, 2026. The campaign price applies automatically, and the code **SONAR20**, entered in the cart's coupon field, takes another 20% off it. What changes the math is the renewal, explained below."
+          "Hostinger's Black Friday has already started: it runs from October 19 to December 14, 2026. The campaign price applies automatically, and the code **SONAR20**, entered in the cart's coupon field, takes another 20% off it on a new purchase. Renewal is charged at the list price, with no discount. Below, the math for each hosting and VPS plan."
         ]
       },
       {
         "heading": "Has Hostinger's Black Friday started?",
         "paragraphs": [
           "It has. Hostinger's official FAQ says: “Hostinger's Black Friday sale runs from October 19 to December 14, 2026.” The global page in English gives the same date.",
-          "On November 3, the campaign page in US$ shows 85% off web hosting, 67% off VPS and 75% off Reach (email marketing). Those are the banner figures, not the discount on every plan.",
-          "The numbers below are for the 2026 campaign only, from the official page."
-        ],
-        "images": []
+          "On November 16, the global campaign page shows up to 85% off web hosting and up to 70% off VPS. Those are banner figures, calculated on each plan's full price: what you actually pay, plan by plan, is in the table below."
+        ]
       },
       {
-        "heading": "What you pay with the campaign and with SONAR20",
+        "heading": "What each plan costs: campaign, SONAR20 and renewal",
+        "paragraphs": [
+          "Hostinger charges the whole period up front and shows the price divided by month. That is why the table has both: the monthly equivalent and the total charged for the initial period, before and after SONAR20. The last column is the renewal, which gets neither the campaign discount nor the code's."
+        ],
+        "comparisonTable": {
+          "caption": "Hostinger's global site, in US dollars. Hosting on the 48-month plan and VPS on the 24-month plan. The total with SONAR20 is the 20% off the period total, as the cart calculates it.",
+          "headers": [
+            "Plan and period",
+            "Monthly in the campaign",
+            "Monthly with SONAR20",
+            "Period total in the campaign",
+            "Total with SONAR20",
+            "Renewal per month"
+          ],
+          "rows": [
+            [
+              "Single (not listed on the global page)",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—"
+            ],
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48 months",
+              "US$ 1.99",
+              "US$ 1.59",
+              "US$ 95.52",
+              "US$ 76.42",
+              "US$ 10.99"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48 months",
+              "US$ 2.79",
+              "US$ 2.23",
+              "US$ 133.92",
+              "US$ 107.14",
+              "US$ 16.99"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48 months",
+              "US$ 7.99",
+              "US$ 6.39",
+              "US$ 383.52",
+              "US$ 306.82",
+              "US$ 25.99"
+            ],
+            [
+              "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 months",
+              "US$ 6.49",
+              "US$ 5.19",
+              "US$ 155.76",
+              "US$ 124.61",
+              "US$ 11.99"
+            ],
+            [
+              "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 months",
+              "US$ 8.79",
+              "US$ 7.03",
+              "US$ 210.96",
+              "US$ 168.77",
+              "US$ 14.99"
+            ],
+            [
+              "[VPS KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 months",
+              "US$ 12.99",
+              "US$ 10.39",
+              "US$ 311.76",
+              "US$ 249.41",
+              "US$ 28.99"
+            ],
+            [
+              "[VPS KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 months",
+              "US$ 25.99",
+              "US$ 20.79",
+              "US$ 623.76",
+              "US$ 499.01",
+              "US$ 49.99"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-en.webp",
+          "alt": "Bar chart with the monthly price of Hostinger plans in the first period and on renewal: Premium, Unlimited and Cloud Startup on hosting, and KVM 1, 2, 4 and 8 on VPS; on every one, renewal costs more",
+          "caption": "Each plan in two bars: the monthly price in the first period and on renewal. Chart by Em Casa com Cecília, from the prices on Hostinger's page.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
         "postParagraphs": [
-          "The discount applies on top of the campaign price. In the cart on the global site, on November 7, 2026, the 48-month Startup plan went from US$ 383.52 to US$ 306.82 with SONAR20 entered in the coupon field (“Have a coupon code?”). Plan, campaign and country can change the total, so check the amount in your cart.",
-          "Where to paste the code and why renewal has no discount are covered in [Hostinger SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
+          "Some regional pages sell a Single plan (1 site, 10 GB). The global page in English did not show it on November 16, 2026, so its row has no prices.",
+          "The prices are from Hostinger's global site in English on November 16, 2026, in US dollars. Before a billing address was entered, the cart showed estimated tax of 0%, so local tax may be added later. Converting to another currency is only an estimate. The total with SONAR20 is the period total minus 20%, rounded to the cent. Working from the rounded monthly price gives a few cents less and does not match the charge.",
+          "We checked in the cart, without logging in, the 24-month KVM 1 on November 16, 2026 (from US$ 155.76 to US$ 124.61, with the coupon SONAR20 applied) and the 48-month Cloud Startup on November 7, 2026 (from US$ 383.52 to US$ 306.82). On the other plans, the column is the same 20% calculation on the total the page shows. The cart shows the discount before payment: check yours.",
+          "**Shorter cycles.** On the KVM 1 with SONAR20, 24 months came to US$ 124.61 (US$ 5.19 per month, renewing at US$ 11.99 per month), 12 months to US$ 67.10 (US$ 5.59 per month, renewing at US$ 12.99 per month) and 1 month to US$ 7.99 (renewing at US$ 19.49 per month). A shorter term costs more per month and renews higher. In a Premium cart on another regional store, on the same day, the code was accepted at 12, 24 and 48 months and rejected on the 1-month plan, which had no campaign price. If you want to pay month by month, test the code in the cart before counting on it.",
+          "**Renewal.** The 20% from SONAR20 applies to a new purchase, also for existing customers who buy a new plan. On the renewal of a plan you already have, and on standalone domain registration, the code gives no discount. The 24-month KVM 1, for example, renews at US$ 11.99 per month for the same period. The full renewal math is in [Hostinger renewal price and SONAR20](/en/reviews/hostinger-renewal-price-coupon-sonar20).",
+          "Where to paste the code, step by step, is in [Hostinger SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
+        ]
+      },
+      {
+        "heading": "Which hosting plan to choose: Premium, Unlimited or Cloud Startup",
+        "paragraphs": [
+          "The choice depends on how many sites you will run and how they are built. The limits below are from Hostinger's plan page and limits documentation."
+        ],
+        "bullets": [
+          "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20): 3 sites and 20 GB of storage. It is what Hostinger's own FAQ recommends for most personal, business and WordPress sites. No Node.js applications.",
+          "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20): unlimited sites, 50 GB of NVMe storage and daily backups. It is the first hosting plan with Node.js applications: the documentation lists up to 5 Node.js sites on it.",
+          "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20): unlimited sites, 100 GB of NVMe storage and dedicated resources, with up to 10 Node.js sites. It comes in when traffic or the number of projects has outgrown what shared hosting holds."
+        ],
+        "postParagraphs": [
+          "**Node.js changes the choice.** According to Hostinger's limits documentation, Premium has no Node.js sites. If you will publish a Next.js project, for example, you start on Unlimited or a Cloud plan. A WordPress or PHP site fits any of them.",
+          "Bruno, who runs this site, has been a Hostinger customer since 2024, with hosting, a VPS KVM 2, email and domains. Em Casa com Cecília runs on Node.js on a Business contract he signed that year. In today's lineup, Hostinger sells the old Business as Unlimited on most pages, and customers who already had Business keep their plan and its limits. In other words: his experience applies to today's Unlimited or Cloud, not to Premium.",
+          "If you are going with WordPress, what each plan includes is in [WordPress on Hostinger](/en/reviews/wordpress-on-hostinger). The free domain for the first year and its price afterwards are in [Hostinger domains: buy, transfer or keep it elsewhere](/en/reviews/hostinger-domain-buy-transfer-or-elsewhere)."
+        ]
+      },
+      {
+        "heading": "Which VPS to choose: KVM 1, 2, 4 or 8",
+        "paragraphs": [
+          "A VPS is for people who need to install software outside the control panel, have CPU and memory reserved, or reach the server as root. If all three answers are “no”, shared hosting does the job and costs less: the comparison is in [VPS or shared hosting](/en/reviews/vps-or-shared-hosting-which-to-choose)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp",
+            "alt": "Chart with three questions: do you need to install a system outside the control panel, do you need reserved CPU and memory, do you need root access; each yes points to VPS, and three noes point to shared hosting",
+            "caption": "The three questions that decide between shared hosting and VPS. Our own chart, based on Hostinger's pages.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7787
+          },
+          {
+            "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-en.webp",
+            "alt": "Chart with three rows: model outside the server (API key or credits) leads to KVM 1; small local model leads to KVM 2, at the limit, or to KVM 4; local model with more context or other programs leads to KVM 4 or KVM 8",
+            "caption": "Based on the OpenClaw documentation; no performance measurement.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "bullets": [
+          "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 1 vCPU core, 4 GB of RAM and 50 GB of NVMe. For a personal project, a small site or a single application.",
+          "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 2 cores, 8 GB of RAM and 100 GB. For growing sites, an online store or a few applications together. It is the VPS Bruno uses.",
+          "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 4 cores, 16 GB of RAM and 200 GB. For a database, several services or heavy traffic.",
+          "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 8 cores, 32 GB of RAM and 400 GB. For agencies and applications that need a lot of memory."
+        ],
+        "postParagraphs": [
+          "**To run OpenClaw.** With the model outside the server, through an API key or credits, the agent itself is light and the KVM 1 already works as a starting point. A local model is a different calculation. OpenClaw's documentation says memory depends on the model, the context size and what else runs on the machine. The local setups it documents use a 64K context, and the smallest of them asks for at least 8 GiB of memory on the host; the larger ones ask for more, and the documentation warns that this floor does not guarantee the model will fit or run fast.",
+          "Reading the plans by that yardstick: the KVM 1, with 4 GB, is below the floor. The KVM 2 has 8 GB, about 7.5 GiB, so it sits at the limit, with no headroom for the system and Docker. The KVM 4 and KVM 8 are the ones that leave margin for that smaller setup. The KVM plans run on vCPU and list no dedicated GPU, so a large local model is not what they are for. The step-by-step is in [Best VPS for OpenClaw](/en/reviews/best-vps-for-openclaw)."
         ]
       },
       {
         "heading": "Who should wait and who shouldn't",
         "paragraphs": [
-          "If you need your site online this week, compare today's total with and without SONAR20, plus the renewal price. The code reduced the campaign price, but that does not guarantee the lowest price through the end of Black Friday.",
+          "If you need your site online this week, compare the total available today, with and without SONAR20, plus the renewal price. The code reduces the campaign price; that does not guarantee the lowest price through the end of Black Friday.",
           "If you can wait, keep in mind that the campaign runs until mid-December, but no price is guaranteed until then. The 20% from SONAR20 comes off the campaign price: if the campaign changes, the total changes with it.",
-          "For most personal, business and WordPress sites, the FAQ itself recommends Premium. Hostinger recommends Single for people just starting out or with simple projects. For VPS, do the math in the cart: the banner shows 67% on November 3.",
-          "If you are already a customer, check the upgrade offers in your account: the FAQ says existing customers may get separate offers. SONAR20 also works for a new plan.",
-          "Bruno, who runs this site, has been a Hostinger customer since 2024, with more than 24 months of subscription. His plans are Business hosting, VPS KVM 2, email and domains, all with automatic renewal. Em Casa com Cecília runs on Hostinger."
+          "If you are already a customer, check the upgrade offers in your account: the FAQ says existing customers may get separate offers. SONAR20 also works for a new plan."
         ]
       },
       {
@@ -98881,21 +102989,25 @@ export const reviewsData: unknown[] = [
           "Open [Hostinger on this site's store page](/en/coupons/hostinger) and copy the code SONAR20.",
           "In the cart, paste SONAR20 into the coupon field and watch the 20% discount appear on top of the campaign price.",
           "Compare the total for the first period, not just the monthly price. The total shows the real difference.",
+          "Change the period in the cart before you check out: the monthly equivalent can be the same across different terms, and the term decides when the renewal arrives.",
           "Check the renewal price before you check out. Hostinger shows it before payment, and it is not the campaign price. The 20% from SONAR20 applies to every new purchase, also for existing customers; renewal is charged at the list price."
         ],
         "postParagraphs": [
-          "Before paying, what the guarantee covers and what it leaves out is in [Is Hostinger reliable?](/en/reviews/is-hostinger-legit)."
+          "Before paying, the company's review record is in [Hostinger on Trustpilot](/en/reviews/hostinger-trustpilot-reviews), and what the guarantee covers and what it leaves out is in [Is Hostinger legit?](/en/reviews/is-hostinger-legit)."
         ]
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "When does Hostinger's Black Friday start and how long does it last? It has already started and runs until mid-December; the exact dates are in the quick answer at the top. The campaign page in US$ shows 85% off web hosting, 67% off VPS and 75% off Reach.",
+          "When does Hostinger's Black Friday start and how long does it last? It has already started and runs until mid-December; the exact dates are in the quick answer at the top. The global page shows up to 85% off web hosting and up to 70% off VPS.",
           "Does Hostinger's Black Friday have a coupon? The campaign price applies automatically, and the code SONAR20, entered in the cart's coupon field, takes another 20% off it. We don't mention codes from other sites.",
-          "When does Hostinger's Black Friday end? In mid-December, according to the official FAQ; the exact date is at the start of the article.",
+          "Which Hostinger plan should I buy on Black Friday? For up to three WordPress or PHP sites, Premium. For Node.js or many sites, Unlimited. For heavy traffic, Cloud Startup. A VPS only if you need root, software outside the panel or reserved memory. Some regional pages also sell a Single plan for one site, which the global page did not list on November 16.",
+          "Does Hostinger's Premium plan run Node.js? No. According to Hostinger's limits documentation, Node.js sites start on Unlimited, with up to 5, and on the Cloud plans, with up to 10.",
+          "Which Hostinger VPS works for OpenClaw? With the model through an API key, the KVM 1. With a local model, the smallest setup OpenClaw documents asks for 8 GiB of memory: the KVM 2 sits at the limit and the KVM 4 gives headroom.",
           "Does the Black Friday price carry over to renewal? No. It applies to the initial period of the subscription. Renewal is charged at the plan's regular price.",
           "Does SONAR20 work together with the Black Friday price? Yes: the 20% comes off the campaign price. Since the price changes, check the total in the cart.",
-          "Does the refund guarantee apply on Black Friday? The FAQ says eligible plans have a 30-day guarantee, with terms and exclusions. What it leaves out is in [Is Hostinger reliable?](/en/reviews/is-hostinger-legit).",
+          "Does SONAR20 work on the 1-month plan? It depends on the plan. In our tests in mid-November, the code went through on the 1-month KVM 1 and was rejected on a 1-month Premium on another regional store. Test it in your cart before you pay.",
+          "Does the refund guarantee apply on Black Friday? The FAQ says eligible plans have a 30-day guarantee, with terms and exclusions. What it leaves out is in [Is Hostinger legit?](/en/reviews/is-hostinger-legit).",
           "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       }
@@ -98913,15 +103025,35 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Hostinger hosts this site. Purchases with the code SONAR20 or through the link may earn Bruno a commission, at no extra cost to you. Check the total in the cart before paying.",
     "relatedArticles": [
       {
+        "slug": "hostinger-coupon-code-referral"
+      },
+      {
+        "slug": "hostinger-renewal-price-coupon-sonar20"
+      },
+      {
+        "slug": "vps-or-shared-hosting-which-to-choose"
+      },
+      {
+        "slug": "best-vps-for-openclaw"
+      },
+      {
         "slug": "is-hostinger-legit"
       },
       {
         "slug": "hostinger-trustpilot-reviews"
-      },
-      {
-        "slug": "hostinger-coupon-code-referral"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "You are buying a new plan and want to lock the campaign price for the longest term you plan to use.",
+        "You know which plan fits your project: Premium for WordPress, Unlimited or Cloud for Node.js.",
+        "You have already checked the renewal price and it fits your budget after the first period."
+      ],
+      "skipIf": [
+        "You only want to renew a plan you already have: neither the campaign nor SONAR20 applies to renewal.",
+        "You plan to pay month by month: the lowest campaign prices are on the long terms."
+      ]
+    }
   },
   {
     "id": 505,
@@ -98959,7 +103091,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Hostinger 2026 ya empezó y dura hasta el 14 de diciembre. El cupón SONAR20 quita un 20 % más del precio de la campaña. Renovación y cómo comprobarlo.",
     "publishedAt": "19 de octubre de 2026",
     "publishedAtISO": "2026-10-19",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -98971,33 +103103,169 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "La Black Friday de Hostinger ya empezó: va del 19 de octubre al 14 de diciembre de 2026. El precio de la campaña se aplica solo, y el código **SONAR20**, en el campo de cupón del carrito, quita un 20 % más. Lo que cambia la cuenta es la renovación, explicada más abajo."
+          "La Black Friday de Hostinger ya empezó: va del 19 de octubre al 14 de diciembre de 2026. El precio de la campaña se aplica solo, y el código **SONAR20**, en el campo de cupón del carrito, quita un 20 % más en una compra nueva. La renovación se cobra al precio de lista, sin descuento. Más abajo, la cuenta de cada plan de hosting y de VPS."
         ]
       },
       {
         "heading": "¿Ya empezó la Black Friday de Hostinger?",
         "paragraphs": [
           "Ya empezó. La FAQ oficial de Hostinger dice: «La promoción Black Friday de Hostinger va del 19 de octubre al 14 de diciembre de 2026». La página global en inglés indica la misma fecha.",
-          "El 3 de noviembre, la página de la campaña en US$ muestra un 85 % de descuento en hosting web, un 67 % en VPS y un 75 % en Reach (email marketing). Son las cifras de los banners, no el descuento de cada plan.",
-          "Las cifras de abajo son solo de la campaña de 2026, de la página oficial."
-        ],
-        "images": []
+          "A mediados de noviembre, la página global muestra hasta un 85 % de descuento en hosting web y hasta un 70 % en VPS. Son las cifras de los banners, calculadas sobre el precio de lista de cada plan: lo que pagas, plan por plan, está en la tabla de abajo."
+        ]
       },
       {
-        "heading": "Cuánto cuesta con la campaña y con SONAR20",
+        "heading": "Cuánto cuesta cada plan: campaña, SONAR20 y renovación",
+        "paragraphs": [
+          "Hostinger cobra el período completo de una vez y muestra el valor dividido por mes. Por eso la tabla trae las dos cosas: el equivalente mensual y el total cobrado en el período inicial, antes y después de SONAR20. La última columna es la renovación, que no tiene el descuento de la campaña ni el del código."
+        ],
+        "comparisonTable": {
+          "caption": "Sitio global de Hostinger, en dólares. Hosting en el plan de 48 meses y VPS en el de 24 meses. El total con SONAR20 es el 20 % sobre el total del período, como lo calcula el carrito.",
+          "headers": [
+            "Plan y período",
+            "Mensual en la campaña",
+            "Mensual con SONAR20",
+            "Total del período en la campaña",
+            "Total con SONAR20",
+            "Renovación por mes"
+          ],
+          "rows": [
+            [
+              "Single (no figura en la página global), 48 meses",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—"
+            ],
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48 meses",
+              "US$ 1,99",
+              "US$ 1,59",
+              "US$ 95,52",
+              "US$ 76,42",
+              "US$ 10,99"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48 meses",
+              "US$ 2,79",
+              "US$ 2,23",
+              "US$ 133,92",
+              "US$ 107,14",
+              "US$ 16,99"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48 meses",
+              "US$ 7,99",
+              "US$ 6,39",
+              "US$ 383,52",
+              "US$ 306,82",
+              "US$ 25,99"
+            ],
+            [
+              "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 meses",
+              "US$ 6,49",
+              "US$ 5,19",
+              "US$ 155,76",
+              "US$ 124,61",
+              "US$ 11,99"
+            ],
+            [
+              "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 meses",
+              "US$ 8,79",
+              "US$ 7,03",
+              "US$ 210,96",
+              "US$ 168,77",
+              "US$ 14,99"
+            ],
+            [
+              "[VPS KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 meses",
+              "US$ 12,99",
+              "US$ 10,39",
+              "US$ 311,76",
+              "US$ 249,41",
+              "US$ 28,99"
+            ],
+            [
+              "[VPS KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 meses",
+              "US$ 25,99",
+              "US$ 20,79",
+              "US$ 623,76",
+              "US$ 499,01",
+              "US$ 49,99"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-es.webp",
+          "alt": "Gráfico de barras con el precio por mes de los planes de Hostinger en el primer período y en la renovación: Premium, Unlimited y Cloud Startup en hosting, y KVM 1, 2, 4 y 8 en VPS; en todos, la renovación es más cara",
+          "caption": "Cada plan en dos barras: el precio por mes en el primer período y en la renovación. Cuadro de Em Casa com Cecília, con los precios de la página de Hostinger.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
         "postParagraphs": [
-          "El descuento se aplica sobre el precio de la campaña. En el carrito del sitio global, el 7 de noviembre de 2026, el plan Startup de 48 meses pasó de US$ 383,52 a US$ 306,82 con SONAR20 en el campo de cupón («Have a coupon code?»). El plan, la campaña y el país pueden cambiar el total, así que revisa el importe en tu carrito.",
-          "Dónde pegar el código y por qué la renovación no tiene descuento está en [Cupón Hostinger SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
+          "El plan Single no figuraba en la página global en inglés el 16 de noviembre de 2026 (solo aparecían Premium, Unlimited y Cloud Startup), por eso su fila va sin precios. Algunas páginas regionales sí lo venden: es el plan de 1 sitio y 10 GB.",
+          "Los precios son del sitio global en inglés, leídos el 16 de noviembre de 2026, en dólares. Antes de poner la dirección de facturación, el carrito mostraba un impuesto estimado del 0 %, así que el impuesto local puede añadirse después. Convertir a otra moneda es solo una estimación. El total con SONAR20 es el total del período menos un 20 %, redondeado al centavo. Hacer la cuenta con la mensualidad redondeada da unos centavos de diferencia y no coincide con el cobro.",
+          "Lo comprobamos en el carrito, sin iniciar sesión: el KVM 1 de 24 meses el 16/11/2026 pasó de US$ 155,76 a US$ 124,61 con el cupón SONAR20 aplicado, y el Cloud Startup de 48 meses el 07/11/2026, de US$ 383,52 a US$ 306,82. En los demás planos, el valor de la columna es la misma cuenta del 20 % sobre el total que muestra la página. El carrito muestra el descuento antes del pago: comprueba el tuyo.",
+          "**Ciclos más cortos.** En el KVM 1, con SONAR20, 24 meses salieron por US$ 124,61 (US$ 5,19 al mes, se renueva a US$ 11,99 al mes), 12 meses por US$ 67,10 (US$ 5,59 al mes, se renueva a US$ 12,99 al mes) y 1 mes por US$ 7,99 (se renueva a US$ 19,49 al mes). Un plazo menor cuesta más por mes y se renueva más caro. En un carrito del Premium de otra tienda regional, el mismo día, el código entró en 12, 24 y 48 meses y fue rechazado en el plan de 1 mes, que no tenía precio de campaña. Si quieres pagar mes a mes, prueba el código en el carrito antes de contar con él.",
+          "**Renovación.** El 20 % de SONAR20 vale en compra nueva, también para quien ya es cliente y contrata un plan nuevo. En la renovación de un plan que ya tienes y en el registro suelto de un dominio, el código no da descuento. Por ejemplo, el KVM 1 de 24 meses se renueva a US$ 11,99 al mes por el mismo período. La cuenta completa está en [Renovación de Hostinger y SONAR20](/es/reviews/hostinger-renovacion-cupon-sonar20).",
+          "Dónde pegar el código, paso a paso, está en [Cupón Hostinger SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
+        ]
+      },
+      {
+        "heading": "Qué plan de hosting elegir: Premium, Unlimited o Cloud Startup",
+        "paragraphs": [
+          "La elección depende de cuántos sitios vas a tener y de cómo están hechos. Los límites de abajo son de la página de planes y de la documentación de límites de Hostinger."
+        ],
+        "bullets": [
+          "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20): 3 sitios y 20 GB de almacenamiento. Es lo que la propia FAQ de Hostinger recomienda para la mayoría de los sitios personales, empresariales y de WordPress. No incluye aplicaciones Node.js.",
+          "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20): sitios ilimitados, 50 GB NVMe y copias de seguridad diarias. Es el primer plan de hosting con aplicaciones Node.js: la documentación lista hasta 5 sitios en Node.js.",
+          "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20): sitios ilimitados, 100 GB NVMe y recursos dedicados, con hasta 10 sitios en Node.js. Entra cuando el tráfico o el número de proyectos ya supera lo que aguanta el hosting compartido."
+        ],
+        "postParagraphs": [
+          "**Node.js cambia la elección.** Según la documentación de límites de Hostinger, Premium no admite sitios en Node.js. Quien va a publicar un proyecto en Next.js, por ejemplo, empieza en Unlimited o en un plan Cloud. Un sitio en WordPress o PHP cabe en cualquiera de los tres.",
+          "Algunas páginas regionales también venden el Single (1 sitio y 10 GB, el menor desembolso del período). La página global no lo mostraba el 16 de noviembre de 2026.",
+          "Bruno, que se encarga de este sitio, es cliente de Hostinger desde 2024, con hosting, VPS KVM 2, correo y dominios. Em Casa com Cecília funciona en Node.js con un contrato Business de ese año. En la grilla de hoy, Hostinger vende el antiguo Business como Unlimited en la mayoría de las páginas, y quien ya era cliente Business conserva su plan y sus límites. Es decir: su experiencia vale para el Unlimited o el Cloud de ahora, no para el Premium.",
+          "Si vas con WordPress, lo que incluye cada plan está en [WordPress en Hostinger](/es/reviews/wordpress-en-hostinger)."
+        ]
+      },
+      {
+        "heading": "Qué VPS elegir: KVM 1, 2, 4 u 8",
+        "paragraphs": [
+          "Un VPS es para quien necesita instalar programas fuera del panel, tener CPU y memoria reservadas o acceder al servidor como root. Si las tres respuestas son «no», el hosting compartido lo resuelve y cuesta menos: la comparación está en [VPS o hosting compartido: cuál elegir](/es/reviews/vps-o-hosting-compartido-cual-elegir)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-es.webp",
+            "alt": "Cuadro con tres preguntas: ¿necesitas instalar un sistema fuera del panel?, ¿necesitas CPU y memoria reservadas?, ¿necesitas acceso root?; cada sí apunta a VPS y tres no apuntan a hosting compartido",
+            "caption": "Las tres preguntas que deciden entre hosting compartido y VPS. Cuadro propio, a partir de las páginas de Hostinger.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7787
+          },
+          {
+            "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-es.webp",
+            "alt": "Cuadro con tres filas: modelo fuera del servidor (clave de API o créditos) lleva al KVM 1; modelo local pequeño lleva al KVM 2, en el límite, o al KVM 4; modelo local con más contexto u otros programas lleva al KVM 4 o al KVM 8",
+            "caption": "Según la documentación de OpenClaw; sin medición del rendimiento.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "bullets": [
+          "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 1 núcleo de vCPU, 4 GB de RAM y 50 GB NVMe. Para un proyecto personal, un sitio pequeño o una sola aplicación.",
+          "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 2 núcleos, 8 GB de RAM y 100 GB. Para sitios en crecimiento, una tienda en línea o varias aplicaciones a la vez. Es el VPS que usa Bruno.",
+          "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 4 núcleos, 16 GB de RAM y 200 GB. Para base de datos, varios servicios o mucho tráfico.",
+          "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 8 núcleos, 32 GB de RAM y 400 GB. Para agencias y aplicaciones que piden mucha memoria."
+        ],
+        "postParagraphs": [
+          "**Para ejecutar OpenClaw.** Con el modelo fuera del servidor, por clave de API o créditos, el agente en sí es ligero y el KVM 1 sirve como punto de partida. Con un modelo local la cuenta es otra. La documentación de OpenClaw dice que la memoria depende del modelo, del tamaño del contexto y de qué más se ejecuta en la máquina. Las configuraciones locales que documenta usan un contexto de 64K, y la menor de ellas pide al menos 8 GiB de memoria en el servidor; las mayores piden más, y la documentación avisa de que ese piso no garantiza que el modelo quepa ni que corra rápido.",
+          "Con esa vara: el KVM 1, con 4 GB, queda por debajo del piso. El KVM 2 tiene 8 GB, unos 7,5 GiB, y queda justo en el límite, sin margen para el sistema y Docker. El KVM 4 y el KVM 8 son los que dan margen para esa configuración menor. Los planes KVM funcionan con vCPU y no listan GPU dedicada, así que un modelo local grande no es su uso. El paso a paso está en [Mejor VPS para OpenClaw](/es/reviews/mejor-vps-para-openclaw)."
         ]
       },
       {
         "heading": "Quién debe esperar y quién no",
         "paragraphs": [
-          "Si necesitas el sitio en línea esta semana, compara el total disponible ahora, con y sin SONAR20, y el precio de renovación. El código redujo el precio de la campaña; eso no garantiza el precio más bajo hasta el final de la Black Friday.",
+          "Si necesitas el sitio en línea esta semana, compara el total disponible ahora, con y sin SONAR20, y el precio de renovación. El código reduce el precio de la campaña; eso no garantiza que el valor sea el más bajo hasta el final de la Black Friday.",
           "Si puedes esperar, ten en cuenta que la campaña dura hasta mediados de diciembre, pero ningún precio está garantizado hasta entonces. El 20 % de SONAR20 sale del precio de la campaña: si la campaña cambia, el total cambia con ella.",
-          "Para la mayoría de los sitios personales, empresariales y de WordPress, la propia FAQ recomienda el Premium. Hostinger recomienda el Single a quien empieza o tiene proyectos sencillos. Para VPS, calcula el total en el carrito: el banner en US$ mostraba un 67 % el 3 de noviembre.",
-          "Si ya eres cliente, revisa las ofertas de mejora de tu cuenta: la FAQ dice que los clientes actuales pueden recibir ofertas aparte. SONAR20 también vale para un plan nuevo.",
-          "Bruno, que se encarga de este sitio, es cliente de Hostinger desde 2024, con más de 24 meses de suscripción. Sus planes son hosting Business, VPS KVM 2, correo y dominios, todos con renovación automática. Em Casa com Cecília funciona en Hostinger."
+          "Si ya eres cliente, revisa las ofertas de mejora de tu cuenta: la FAQ dice que los clientes actuales pueden recibir ofertas aparte. SONAR20 también vale para un plan nuevo."
         ]
       },
       {
@@ -99006,22 +103274,26 @@ export const reviewsData: unknown[] = [
           "Abre [Hostinger en la página de tienda de este sitio](/es/coupons/hostinger) y copia el código SONAR20.",
           "En el carrito, pega SONAR20 en el campo de cupón y mira cómo aparece el descuento del 20 % sobre el precio de la campaña.",
           "Compara el total del primer período, no solo el precio mensual. El total muestra la diferencia real.",
+          "Cambia el período en el carrito antes de cerrar: el equivalente mensual puede ser el mismo en plazos distintos, y el plazo define cuándo llega la renovación.",
           "Revisa el precio de renovación antes de finalizar. Hostinger lo muestra antes del pago, y no es el de la campaña. El 20 % de SONAR20 se aplica a toda compra nueva, también para quien ya es cliente; la renovación se cobra al precio de lista."
         ],
         "postParagraphs": [
-          "Antes de pagar, lo que cubre la garantía y lo que deja fuera está en [¿Es fiable Hostinger?](/es/reviews/hostinger-es-confiable)."
+          "Antes de pagar, lo que cubre la garantía y lo que deja fuera está en [¿Es fiable Hostinger?](/es/reviews/hostinger-es-confiable), y lo que dicen los usuarios sobre la empresa, en [Hostinger: opiniones y reputación](/es/reviews/hostinger-opiniones-trustpilot)."
         ]
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Cuándo empieza y cuánto dura la Black Friday de Hostinger? Ya empezó y dura hasta mediados de diciembre; las fechas exactas están en la respuesta rápida, al comienzo del artículo. La página de la campaña en US$ muestra un 85 % de descuento en hosting web, un 67 % en VPS y un 75 % en Reach.",
+          "¿Cuándo empieza y cuánto dura la Black Friday de Hostinger? Ya empezó y dura hasta mediados de diciembre; las fechas exactas están en la respuesta rápida, al comienzo del artículo. La página global muestra hasta un 85 % de descuento en hosting web y hasta un 70 % en VPS.",
           "¿La Black Friday de Hostinger tiene cupón? El precio de la campaña se aplica solo, y el código SONAR20, en el campo de cupón del carrito, quita un 20 % más. No citamos códigos de otros sitios.",
-          "¿Hasta cuándo dura la Black Friday de Hostinger? Hasta mediados de diciembre, según la FAQ oficial; la fecha exacta está al comienzo del artículo.",
+          "¿Qué plan de Hostinger comprar en la Black Friday? Para hasta tres sitios en WordPress o PHP, el Premium. Para Node.js o muchos sitios, el Unlimited. Para mucho tráfico, el Cloud Startup. Donde se vende el Single, es para un solo sitio. VPS solo si necesitas root, programas fuera del panel o memoria reservada.",
+          "¿El plan Premium de Hostinger ejecuta Node.js? No. Según la documentación de límites de Hostinger, los sitios en Node.js empiezan en el Unlimited, con hasta 5, y en los planes Cloud, con hasta 10.",
+          "¿Qué VPS de Hostinger sirve para OpenClaw? Con el modelo por clave de API, el KVM 1. Con un modelo local, la menor configuración documentada por OpenClaw pide 8 GiB de memoria: el KVM 2 queda justo y el KVM 4 da margen.",
           "¿El precio de la Black Friday se mantiene en la renovación? No. Vale para el período inicial de la suscripción. La renovación se cobra al precio normal del plan.",
-          "¿SONAR20 vale junto con el precio de la Black Friday? Sí: el 20 % salió del precio de la campaña. Como el precio cambia, comprueba el total en el carrito.",
+          "¿SONAR20 vale junto con el precio de la Black Friday? Sí: el 20 % sale del precio de la campaña. Como el precio cambia, comprueba el total en el carrito.",
+          "¿SONAR20 vale en el plan de 1 mes? Depende del plan. En nuestras pruebas de mediados de noviembre, el código entró en el KVM 1 de 1 mes y fue rechazado en un Premium de 1 mes de otra tienda regional. Pruébalo en tu carrito antes de pagar.",
           "¿La garantía de reembolso vale en la Black Friday? La FAQ dice que los planes elegibles tienen garantía de 30 días, con términos y exclusiones. Lo que queda fuera está en [¿Es fiable Hostinger?](/es/reviews/hostinger-es-confiable).",
-          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
+          "¿SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       }
     ],
@@ -99038,15 +103310,35 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Hostinger aloja este sitio. Las compras con el código SONAR20 o a través del enlace pueden generar una comisión para Bruno, sin coste adicional para ti. Comprueba el total en el carrito antes de pagar.",
     "relatedArticles": [
       {
+        "slug": "cupon-hostinger-codigo-de-referido"
+      },
+      {
+        "slug": "hostinger-renovacion-cupon-sonar20"
+      },
+      {
+        "slug": "vps-o-hosting-compartido-cual-elegir"
+      },
+      {
+        "slug": "mejor-vps-para-openclaw"
+      },
+      {
         "slug": "hostinger-es-confiable"
       },
       {
         "slug": "hostinger-opiniones-trustpilot"
-      },
-      {
-        "slug": "cupon-hostinger-codigo-de-referido"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Vas a contratar un plan nuevo y quieres fijar el precio de la campaña por el período más largo que piensas usar.",
+        "Sabes qué plan necesita tu proyecto: Premium para WordPress, Unlimited o Cloud para Node.js.",
+        "Ya comprobaste el precio de renovación y encaja en tu presupuesto después del primer período."
+      ],
+      "skipIf": [
+        "Solo quieres renovar un plan que ya tienes: ni la campaña ni SONAR20 entran en la renovación.",
+        "Piensas pagar mes a mes: los menores precios de la campaña están en los plazos largos."
+      ]
+    }
   },
   {
     "id": 506,
@@ -99084,7 +103376,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Hostinger 2026 : c’est déjà parti, jusqu’au 14 décembre. Le code SONAR20 retire encore 20 % du prix de la campagne. Renouvellement et vérification.",
     "publishedAt": "19 octobre 2026",
     "publishedAtISO": "2026-10-19",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -99096,33 +103388,169 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le Black Friday de Hostinger a déjà commencé : il dure du 19 octobre au 14 décembre 2026. Le prix de la campagne s’applique automatiquement, et le code **SONAR20**, saisi dans le champ de code promo du panier, en retire encore 20 %. Ce qui change le calcul, c’est le renouvellement, expliqué plus bas."
+          "Le Black Friday de Hostinger a déjà commencé : il dure du 19 octobre au 14 décembre 2026. Le prix de la campagne s’applique automatiquement, et le code **SONAR20**, saisi dans le champ de code promo du panier, en retire encore 20 % pour tout nouvel achat. Le renouvellement est facturé au prix catalogue, sans réduction. Plus bas, le calcul pour chaque forfait d’hébergement et de VPS."
         ]
       },
       {
         "heading": "Le Black Friday de Hostinger a-t-il déjà commencé ?",
         "paragraphs": [
           "Oui. La FAQ officielle de Hostinger indique : « La promotion Black Friday de Hostinger a lieu du 19 octobre au 14 décembre 2026. » La page mondiale en anglais donne la même date.",
-          "Le 3 novembre, la page de la campagne en US$ affiche 85 % de réduction sur l’hébergement web, 67 % sur le VPS et 75 % sur Reach (e-mail marketing). Ce sont les chiffres des bannières, pas la réduction de chaque offre.",
-          "Les chiffres ci-dessous concernent uniquement la campagne 2026, de la page officielle."
-        ],
-        "images": []
+          "Le 16 novembre 2026, la page mondiale de la campagne affiche jusqu’à 85 % de réduction sur l’hébergement web et jusqu’à 70 % sur le VPS. Ce sont les chiffres des bannières, calculés sur le prix plein de chaque forfait : ce que vous payez, forfait par forfait, figure dans le tableau ci-dessous."
+        ]
       },
       {
-        "heading": "Ce que l’on paie avec la campagne et avec SONAR20",
+        "heading": "Ce que l’on paie avec la campagne, avec SONAR20 et au renouvellement",
+        "paragraphs": [
+          "Hostinger facture la période entière en une fois et affiche le montant ramené au mois. Le tableau donne donc les deux : l’équivalent mensuel et le total facturé pour la période initiale, avant et après SONAR20. La dernière colonne est le renouvellement, qui n’a ni la réduction de la campagne ni celle du code."
+        ],
+        "comparisonTable": {
+          "caption": "Site mondial de Hostinger, en dollars. Hébergement sur 48 mois et VPS sur 24 mois. Le total avec SONAR20 correspond aux 20 % retirés du total de la période, comme le panier le calcule.",
+          "headers": [
+            "Forfait et période",
+            "Mensuel pendant la campagne",
+            "Mensuel avec SONAR20",
+            "Total de la période pendant la campagne",
+            "Total avec SONAR20",
+            "Renouvellement par mois"
+          ],
+          "rows": [
+            [
+              "Single (non listé sur la page mondiale), 48 mois",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—"
+            ],
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48 mois",
+              "1,99 US$",
+              "1,59 US$",
+              "95,52 US$",
+              "76,42 US$",
+              "10,99 US$"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48 mois",
+              "2,79 US$",
+              "2,23 US$",
+              "133,92 US$",
+              "107,14 US$",
+              "16,99 US$"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48 mois",
+              "7,99 US$",
+              "6,39 US$",
+              "383,52 US$",
+              "306,82 US$",
+              "25,99 US$"
+            ],
+            [
+              "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 mois",
+              "6,49 US$",
+              "5,19 US$",
+              "155,76 US$",
+              "124,61 US$",
+              "11,99 US$"
+            ],
+            [
+              "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 mois",
+              "8,79 US$",
+              "7,03 US$",
+              "210,96 US$",
+              "168,77 US$",
+              "14,99 US$"
+            ],
+            [
+              "[VPS KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 mois",
+              "12,99 US$",
+              "10,39 US$",
+              "311,76 US$",
+              "249,41 US$",
+              "28,99 US$"
+            ],
+            [
+              "[VPS KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 mois",
+              "25,99 US$",
+              "20,79 US$",
+              "623,76 US$",
+              "499,01 US$",
+              "49,99 US$"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-fr.webp",
+          "alt": "Graphique en barres du prix par mois des forfaits Hostinger sur la première période et au renouvellement : Premium, Unlimited et Cloud Startup en hébergement, et KVM 1, 2, 4 et 8 en VPS ; pour tous, le renouvellement coûte plus cher",
+          "caption": "Chaque forfait en deux barres : le prix par mois sur la première période et au renouvellement. Tableau d’Em Casa com Cecília, d’après les prix de la page de Hostinger.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
         "postParagraphs": [
-          "La réduction s’applique sur le prix de la campagne. Dans le panier du site mondial, le 7 novembre 2026, l’offre Startup en 48 mois est passée de 383,52 US$ à 306,82 US$ avec SONAR20 saisi dans le champ de code promo (« Have a coupon code? »). L’offre, la campagne et le pays peuvent changer le total : vérifiez le montant dans votre panier.",
-          "Où coller le code et pourquoi le renouvellement n’a pas de réduction : voir [Code promo Hostinger SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
+          "Les prix viennent du site mondial en anglais, lu le 16 novembre 2026, en dollars. Avant la saisie de l’adresse de facturation, le panier affichait une taxe estimée à 0 % : une taxe locale peut donc s’ajouter ensuite. Toute conversion dans une autre devise n’est qu’une estimation.",
+          "Le Single n’apparaissait pas sur la page mondiale en anglais à cette date, qui ne montrait que Premium, Unlimited et Cloud Startup. Certaines pages régionales le vendent (1 site, 10 Go) ; c’est pourquoi la ligne figure dans le tableau, sans prix.",
+          "Le total avec SONAR20 est le total de la période moins 20 %, arrondi au centime. Calculer à partir de la mensualité arrondie donne quelques centimes d’écart et ne correspond pas à la facturation. Nous avons vérifié dans le panier, sans connexion, le VPS KVM 1 sur 24 mois le 16 novembre 2026 (de 155,76 US$ à 124,61 US$, avec le code SONAR20 appliqué) et le Cloud Startup sur 48 mois le 7 novembre 2026 (de 383,52 US$ à 306,82 US$). Pour les autres forfaits, la valeur de la colonne est le même calcul de 20 % sur le total affiché par la page. Le panier montre la réduction avant le paiement : vérifiez la vôtre.",
+          "**Périodes plus courtes.** Sur le KVM 1, avec SONAR20, 24 mois sont sortis à 124,61 US$ (5,19 US$ par mois, renouvellement à 11,99 US$ par mois), 12 mois à 67,10 US$ (5,59 US$ par mois, renouvellement à 12,99 US$ par mois) et 1 mois à 7,99 US$ (renouvellement à 19,49 US$ par mois). Une période plus courte coûte plus cher par mois et se renouvelle plus cher. Dans le panier d’un Premium d’une autre boutique régionale, le même jour, le code a été accepté sur 12, 24 et 48 mois, puis refusé sur le forfait d’1 mois, qui n’avait pas de prix de campagne. Si vous voulez payer mois par mois, testez le code dans le panier avant de compter dessus.",
+          "**Renouvellement.** Les 20 % de SONAR20 valent pour un nouvel achat, aussi pour qui est déjà client et souscrit un nouveau forfait. Au renouvellement d’un forfait que vous avez déjà, et pour l’enregistrement isolé d’un nom de domaine, le code ne donne aucune réduction. Exemple : le KVM 1 de 24 mois se renouvelle à 11,99 US$ par mois pour la même période. Le calcul complet est dans [Renouvellement Hostinger : prix, code SONAR20 et remboursement](/fr/reviews/hostinger-renouvellement-code-sonar20).",
+          "Où coller le code, pas à pas : [Code promo Hostinger SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
+        ]
+      },
+      {
+        "heading": "Quel forfait d’hébergement choisir : Single, Premium, Unlimited ou Cloud Startup",
+        "paragraphs": [
+          "Le choix dépend du nombre de sites et de la façon dont ils sont construits. Les limites ci-dessous viennent de la page des forfaits et de la documentation sur les limites de Hostinger."
+        ],
+        "bullets": [
+          "Single : 1 site et 10 Go de stockage, là où ce forfait est vendu ; la page mondiale en anglais ne le montrait pas le 16 novembre 2026. Il convient au premier site, à un portfolio ou à la page d’un commerce local.",
+          "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20) : 3 sites et 20 Go. C’est celui que la FAQ de Hostinger elle-même recommande pour la plupart des sites personnels, professionnels et WordPress. Il n’a pas d’applications Node.js.",
+          "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20) : sites illimités, 50 Go en NVMe et sauvegardes quotidiennes. C’est le premier forfait d’hébergement avec des applications Node.js : la documentation en liste jusqu’à 5 sites.",
+          "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20) : sites illimités, 100 Go en NVMe et ressources dédiées, avec jusqu’à 10 sites Node.js. Il convient quand le trafic ou le nombre de projets dépasse ce que supporte l’hébergement mutualisé."
+        ],
+        "postParagraphs": [
+          "**Node.js change le choix.** D’après la documentation sur les limites de Hostinger, Single et Premium n’ont pas de sites Node.js. Qui va publier un projet Next.js, par exemple, commence avec Unlimited ou un forfait Cloud. Un site WordPress ou PHP tient dans n’importe lequel des quatre.",
+          "Bruno, qui s’occupe de ce site, est client de Hostinger depuis 2024, avec l’hébergement, un VPS KVM 2, la messagerie et des noms de domaine. Em Casa com Cecília tourne sur Node.js, avec un contrat Business souscrit cette année-là. Dans la grille actuelle, Hostinger vend l’ancien Business sous le nom d’Unlimited sur la plupart des pages, et les clients qui avaient déjà Business gardent leur forfait et ses limites. Autrement dit, son expérience vaut pour Unlimited ou pour le Cloud d’aujourd’hui, pas pour Premium.",
+          "Pour WordPress, ce que contient chaque forfait est dans [WordPress chez Hostinger : quel forfait choisir et comment commencer](/fr/reviews/wordpress-chez-hostinger). Le domaine offert la première année et son prix ensuite sont dans [Domaine chez Hostinger : l’acheter là, le transférer ou l’enregistrer ailleurs](/fr/reviews/domaine-hostinger-acheter-ou-transferer)."
+        ]
+      },
+      {
+        "heading": "Quel VPS choisir : KVM 1, 2, 4 ou 8",
+        "paragraphs": [
+          "Le VPS est pour qui doit installer des programmes en dehors du panneau, disposer de CPU et de mémoire réservés ou accéder au serveur en root. Si les trois réponses sont « non », l’hébergement mutualisé suffit et coûte moins : la comparaison est dans [VPS ou hébergement mutualisé](/fr/reviews/vps-ou-hebergement-mutualise)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-fr.webp",
+            "alt": "Tableau « Trois questions avant de choisir » : installer un système ou un programme hors du panneau, CPU et mémoire réservés et accès root mènent au VPS ; trois « non » mènent à l’hébergement mutualisé",
+            "caption": "Les trois questions qui séparent le VPS de l’hébergement mutualisé. Tableau d’Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7787
+          },
+          {
+            "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-fr.webp",
+            "alt": "Tableau à trois lignes : un modèle hébergé hors du serveur (clé d’API ou crédits) mène au KVM 1 ; un petit modèle local mène au KVM 2, à la limite, ou au KVM 4 ; un modèle local avec plus de contexte ou d’autres programmes mène au KVM 4 ou au KVM 8",
+            "caption": "D’après la documentation d’OpenClaw ; sans mesure de performance.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "bullets": [
+          "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) : 1 cœur vCPU, 4 Go de RAM et 50 Go en NVMe. Pour un projet personnel, un petit site ou une seule application.",
+          "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) : 2 cœurs, 8 Go de RAM et 100 Go. Pour des sites en croissance, une boutique en ligne ou quelques applications ensemble. C’est le VPS que Bruno utilise.",
+          "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) : 4 cœurs, 16 Go de RAM et 200 Go. Pour une base de données, plusieurs services ou un trafic élevé.",
+          "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) : 8 cœurs, 32 Go de RAM et 400 Go. Pour les agences et les applications gourmandes en mémoire."
+        ],
+        "postParagraphs": [
+          "**Pour faire tourner OpenClaw.** Avec le modèle hors du serveur, par clé d’API ou crédits, l’agent lui-même est léger et le KVM 1 sert déjà de point de départ. Avec un modèle local, le calcul change. La documentation d’OpenClaw indique que la mémoire dépend du modèle, de la taille du contexte et de ce qui tourne d’autre sur la machine. Les configurations locales qu’elle documente utilisent un contexte de 64K, et la plus petite demande au moins 8 GiB de mémoire sur l’hôte ; les plus grandes en demandent plus, et la documentation précise que ce plancher ne garantit ni que le modèle tienne ni qu’il tourne vite.",
+          "À cette aune : le KVM 1, avec 4 Go, reste sous le plancher. Le KVM 2 a 8 Go, soit environ 7,5 GiB, et se situe à la limite, sans marge pour le système et Docker. Le KVM 4 et le KVM 8 donnent de la marge pour cette petite configuration. Les forfaits KVM fonctionnent sur vCPU et ne listent pas de GPU dédié : un gros modèle local n’est donc pas leur usage. Le pas à pas est dans [Meilleur VPS pour OpenClaw](/fr/reviews/meilleur-vps-pour-openclaw)."
         ]
       },
       {
         "heading": "Qui doit attendre et qui ne le doit pas",
         "paragraphs": [
-          "Si vous avez besoin de votre site en ligne cette semaine, comparez le total disponible aujourd’hui avec et sans SONAR20, ainsi que le renouvellement. Le code a réduit le prix de la campagne ; cela ne garantit pas le prix le plus bas jusqu’à la fin du Black Friday.",
+          "Si vous devez mettre votre site en ligne cette semaine, comparez le total disponible maintenant, avec et sans SONAR20, ainsi que le prix de renouvellement. Le code réduit le prix de la campagne ; cela ne garantit pas que le montant sera le plus bas jusqu’à la fin du Black Friday.",
           "Si vous pouvez attendre, sachez que la campagne dure jusqu’à la mi-décembre, mais qu’aucun prix n’est garanti d’ici là. Les 20 % de SONAR20 sont retirés du prix de la campagne : si la campagne change, le total change aussi.",
-          "Pour la plupart des sites personnels, professionnels et WordPress, la FAQ elle-même recommande Premium. Hostinger recommande Single à ceux qui débutent ou qui ont des projets simples. Pour un VPS, calculez le total dans le panier : la bannière en US$ affichait 67 % le 3 novembre.",
-          "Si vous êtes déjà client, consultez les offres de mise à niveau de votre compte : la FAQ indique que les clients actuels peuvent recevoir des offres distinctes. SONAR20 vaut aussi pour une nouvelle offre.",
-          "Bruno, qui s’occupe de ce site, est client de Hostinger depuis 2024, avec plus de 24 mois d’abonnement. Ses offres sont l’hébergement Business, le VPS KVM 2, la messagerie et les noms de domaine, tous en renouvellement automatique. Em Casa com Cecília tourne sur Hostinger."
+          "Si vous êtes déjà client, consultez les offres de mise à niveau de votre compte : la FAQ indique que les clients actuels peuvent recevoir des offres distinctes. SONAR20 vaut aussi pour un nouveau forfait."
         ]
       },
       {
@@ -99131,22 +103559,26 @@ export const reviewsData: unknown[] = [
           "Ouvrez [Hostinger sur la page boutique de ce site](/fr/coupons/hostinger) et copiez le code SONAR20.",
           "Dans le panier, collez SONAR20 dans le champ de code promo et voyez la réduction de 20 % s’afficher sur le prix de la campagne.",
           "Comparez le total de la première période, pas seulement le prix mensuel. Le total montre la vraie différence.",
+          "Changez la période dans le panier avant de valider : l’équivalent mensuel peut être le même sur des durées différentes, et la durée détermine quand le renouvellement arrive.",
           "Vérifiez le prix de renouvellement avant de valider. Hostinger l’affiche avant le paiement, et ce n’est pas celui de la campagne. Les 20 % de SONAR20 valent pour tout nouvel achat, aussi pour qui est déjà client ; le renouvellement est facturé au prix catalogue."
         ],
         "postParagraphs": [
-          "Avant de payer, ce que la garantie couvre et ce qu’elle exclut se trouve dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable)."
+          "Avant de payer, l’historique des plaintes de l’entreprise est dans [Hostinger sur Trustpilot : note, plaintes et ce que disent 200 avis](/fr/reviews/hostinger-avis-trustpilot), et ce que la garantie couvre et ce qu’elle exclut se trouve dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable)."
         ]
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Quand commence et combien de temps dure le Black Friday de Hostinger ? Il a déjà commencé et dure jusqu’à la mi-décembre ; les dates exactes sont dans la réponse rapide, au début de l’article. La page de la campagne en US$ affiche 85 % de réduction sur l’hébergement web, 67 % sur le VPS et 75 % sur Reach.",
+          "Quand commence et combien de temps dure le Black Friday de Hostinger ? Il a déjà commencé et dure jusqu’à la mi-décembre ; les dates exactes sont dans la réponse rapide, au début de l’article. La page mondiale affiche jusqu’à 85 % de réduction sur l’hébergement web et jusqu’à 70 % sur le VPS.",
           "Le Black Friday de Hostinger a-t-il un code promo ? Le prix de la campagne s’applique automatiquement, et le code SONAR20, saisi dans le champ de code promo du panier, en retire encore 20 %. Nous ne citons pas de codes d’autres sites.",
-          "Jusqu’à quand dure le Black Friday de Hostinger ? Jusqu’à la mi-décembre, selon la FAQ officielle ; la date exacte figure au début de l’article.",
-          "Le prix du Black Friday continue-t-il au renouvellement ? Non. Il vaut pour la période initiale de l’abonnement. Le renouvellement se fait au prix normal de l’offre.",
-          "SONAR20 se cumule-t-il avec le prix du Black Friday ? Oui : les 20 % ont été retirés du prix de la campagne. Comme le prix change, vérifiez le total dans le panier.",
-          "La garantie de remboursement vaut-elle pendant le Black Friday ? La FAQ indique que les offres éligibles bénéficient d’une garantie de 30 jours, avec conditions et exclusions. Ce qu’elle exclut se trouve dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable).",
-          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
+          "Quel forfait Hostinger acheter pendant le Black Friday ? Pour jusqu’à trois sites WordPress ou PHP, Premium. Pour Node.js ou de nombreux sites, Unlimited. Pour un trafic élevé, Cloud Startup. Single seulement là où il est vendu. Un VPS seulement si vous avez besoin de root, de programmes hors du panneau ou de mémoire réservée.",
+          "Le forfait Premium de Hostinger fait-il tourner Node.js ? Non. D’après la documentation sur les limites de Hostinger, les sites Node.js commencent avec Unlimited, jusqu’à 5, et avec les forfaits Cloud, jusqu’à 10.",
+          "Quel VPS Hostinger convient pour OpenClaw ? Avec le modèle par clé d’API, le KVM 1. Avec un modèle local, la plus petite configuration documentée par OpenClaw demande 8 GiB de mémoire : le KVM 2 est à la limite et le KVM 4 laisse de la marge.",
+          "Le prix du Black Friday continue-t-il au renouvellement ? Non. Il vaut pour la période initiale de l’abonnement. Le renouvellement se fait au prix normal du forfait.",
+          "SONAR20 se cumule-t-il avec le prix du Black Friday ? Oui : les 20 % sont retirés du prix de la campagne. Comme le prix change, vérifiez le total dans le panier.",
+          "SONAR20 vaut-il sur le forfait d’1 mois ? Cela dépend du forfait. Lors de nos tests de la mi-novembre, le code a été accepté sur le KVM 1 d’1 mois et refusé sur un Premium d’1 mois d’une autre boutique régionale. Testez dans votre panier avant de payer.",
+          "La garantie de remboursement vaut-elle pendant le Black Friday ? La FAQ indique que les forfaits éligibles bénéficient d’une garantie de 30 jours, avec conditions et exclusions. Ce qu’elle exclut se trouve dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable).",
+          "SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       }
     ],
@@ -99163,15 +103595,35 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Hostinger héberge ce site. Les achats avec le code SONAR20 ou via le lien peuvent rapporter une commission à Bruno, sans frais supplémentaires pour vous. Vérifiez le total dans le panier avant de payer.",
     "relatedArticles": [
       {
+        "slug": "code-promo-hostinger-parrainage"
+      },
+      {
+        "slug": "hostinger-renouvellement-code-sonar20"
+      },
+      {
+        "slug": "vps-ou-hebergement-mutualise"
+      },
+      {
+        "slug": "meilleur-vps-pour-openclaw"
+      },
+      {
         "slug": "hostinger-est-il-fiable"
       },
       {
         "slug": "hostinger-avis-trustpilot"
-      },
-      {
-        "slug": "code-promo-hostinger-parrainage"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Vous allez souscrire un nouveau forfait et voulez verrouiller le prix de la campagne pour la période la plus longue que vous comptez utiliser.",
+        "Vous savez quel forfait convient à votre projet : Premium pour WordPress, Unlimited ou Cloud pour Node.js.",
+        "Vous avez déjà vérifié le prix de renouvellement et il tient dans votre budget après la première période."
+      ],
+      "skipIf": [
+        "Vous voulez seulement renouveler un forfait que vous avez déjà : ni la campagne ni SONAR20 ne s’appliquent au renouvellement.",
+        "Vous comptez payer mois par mois : les prix les plus bas de la campagne sont sur les périodes longues."
+      ]
+    }
   },
   {
     "id": 507,
@@ -99209,7 +103661,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Black Friday 2026 hat begonnen und läuft bis zum 14. Dezember. Der Gutscheincode SONAR20 zieht weitere 20 % vom Aktionspreis ab. Verlängerung und Prüfung.",
     "publishedAt": "19. Oktober 2026",
     "publishedAtISO": "2026-10-19",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -99221,33 +103673,168 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurzantwort",
         "paragraphs": [
-          "Der Black Friday von Hostinger hat schon begonnen: Er läuft vom 19. Oktober bis zum 14. Dezember 2026. Der Aktionspreis gilt automatisch, und der Code **SONAR20** zieht im Gutscheinfeld des Warenkorbs weitere 20 % davon ab. Was die Rechnung verändert, ist die Verlängerung, die weiter unten erklärt wird."
+          "Der Black Friday von Hostinger hat schon begonnen: Er läuft vom 19. Oktober bis zum 14. Dezember 2026. Der Aktionspreis gilt automatisch, und der Code **SONAR20** zieht im Gutscheinfeld des Warenkorbs weitere 20 % davon ab, bei jedem Neukauf. Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Unten steht die Rechnung für jeden Hosting- und VPS-Tarif."
         ]
       },
       {
         "heading": "Hat der Black Friday von Hostinger schon begonnen?",
         "paragraphs": [
           "Ja. Die offizielle FAQ von Hostinger sagt: „Die Black-Friday-Aktion von Hostinger läuft vom 19. Oktober bis zum 14. Dezember 2026.“ Die globale Seite auf Englisch nennt dasselbe Datum.",
-          "Am 3. November zeigt die Kampagnenseite in US$ 85 % Rabatt auf Webhosting, 67 % auf VPS und 75 % auf Reach (E-Mail-Marketing). Das sind die Bannerzahlen, nicht der Rabatt jedes Tarifs.",
-          "Die folgenden Zahlen betreffen nur die Aktion 2026 und stammen von der offiziellen Seite."
-        ],
-        "images": []
+          "Am 16. November 2026 zeigt die globale Seite bis zu 85 % Rabatt auf Webhosting und bis zu 70 % auf VPS. Das sind die Bannerzahlen, berechnet auf den vollen Preis jedes Tarifs. Was Sie Tarif für Tarif tatsächlich zahlen, steht in der Tabelle unten."
+        ]
       },
       {
-        "heading": "Was Sie mit der Aktion und mit SONAR20 zahlen",
+        "heading": "Was jeder Tarif kostet: Aktion, SONAR20 und Verlängerung",
+        "paragraphs": [
+          "Hostinger berechnet den gesamten Zeitraum auf einmal und zeigt den Betrag durch die Monate geteilt an. Deshalb enthält die Tabelle beides: das Monatsäquivalent und den Gesamtbetrag des ersten Zeitraums, jeweils vor und nach SONAR20. Die letzte Spalte ist die Verlängerung, die weder den Aktionsrabatt noch den Rabatt des Codes enthält.",
+          "Den Single-Tarif (1 Website, 10 GB) verkaufen manche regionalen Seiten von Hostinger, die globale Seite auf Englisch zeigte ihn am 16. November 2026 nicht. Deshalb steht er in der Tabelle ohne Preise."
+        ],
+        "comparisonTable": {
+          "caption": "Globale Website von Hostinger, in Dollar. Hosting mit 48 Monaten Laufzeit und VPS mit 24 Monaten. Der Gesamtbetrag mit SONAR20 sind die 20 % auf den Gesamtbetrag des Zeitraums, so wie der Warenkorb rechnet.",
+          "headers": [
+            "Tarif und Laufzeit",
+            "Monatlich in der Aktion",
+            "Monatlich mit SONAR20",
+            "Gesamtbetrag der Laufzeit in der Aktion",
+            "Gesamtbetrag mit SONAR20",
+            "Verlängerung pro Monat"
+          ],
+          "rows": [
+            [
+              "Single (auf der globalen Seite nicht gelistet), 48 Monate",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—"
+            ],
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48 Monate",
+              "1,99 US$",
+              "1,59 US$",
+              "95,52 US$",
+              "76,42 US$",
+              "10,99 US$"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48 Monate",
+              "2,79 US$",
+              "2,23 US$",
+              "133,92 US$",
+              "107,14 US$",
+              "16,99 US$"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48 Monate",
+              "7,99 US$",
+              "6,39 US$",
+              "383,52 US$",
+              "306,82 US$",
+              "25,99 US$"
+            ],
+            [
+              "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 Monate",
+              "6,49 US$",
+              "5,19 US$",
+              "155,76 US$",
+              "124,61 US$",
+              "11,99 US$"
+            ],
+            [
+              "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 Monate",
+              "8,79 US$",
+              "7,03 US$",
+              "210,96 US$",
+              "168,77 US$",
+              "14,99 US$"
+            ],
+            [
+              "[VPS KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 Monate",
+              "12,99 US$",
+              "10,39 US$",
+              "311,76 US$",
+              "249,41 US$",
+              "28,99 US$"
+            ],
+            [
+              "[VPS KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 Monate",
+              "25,99 US$",
+              "20,79 US$",
+              "623,76 US$",
+              "499,01 US$",
+              "49,99 US$"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-de.webp",
+          "alt": "Balkendiagramm mit dem Monatspreis der Hostinger-Tarife im ersten Zeitraum und in der Verlängerung: Premium, Unlimited und Cloud Startup beim Hosting sowie KVM 1, 2, 4 und 8 beim VPS; bei allen ist die Verlängerung teurer",
+          "caption": "Jeder Tarif in zwei Balken: der Monatspreis im ersten Zeitraum und in der Verlängerung. Grafik von Em Casa com Cecília, nach den Preisen auf der Hostinger-Seite.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
         "postParagraphs": [
-          "Der Rabatt wird auf den Aktionspreis angerechnet. Im Warenkorb der globalen Seite sank am 7. November 2026 der Startup-Tarif mit 48 Monaten mit SONAR20 im Gutscheinfeld („Have a coupon code?“) von 383,52 US$ auf 306,82 US$. Tarif, Aktion und Land können die Summe verändern, prüfen Sie den Betrag also im Warenkorb.",
-          "Wo Sie den Code einfügen und warum die Verlängerung keinen Rabatt hat, steht in [Hostinger-Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
+          "Die Preise stammen von der globalen englischen Website von Hostinger, gelesen am 16. November 2026, in Dollar. Der Warenkorb zeigte vor der Eingabe der Rechnungsadresse eine geschätzte Steuer von 0 %, am Ende kann also noch lokale Steuer hinzukommen. Eine Umrechnung in eine andere Währung ist nur eine Schätzung. Der Gesamtbetrag mit SONAR20 ist der Gesamtbetrag des Zeitraums minus 20 %, auf den Cent gerundet. Wer über das gerundete Monatsäquivalent rechnet, landet bei einigen Cent Abweichung, die nicht zur Abbuchung passt.",
+          "Wir haben ohne Anmeldung im Warenkorb geprüft: den KVM 1 mit 24 Monaten am 16. November 2026, von 155,76 US$ auf 124,61 US$ mit dem angewendeten Gutschein SONAR20, und den Cloud Startup mit 48 Monaten am 7. November 2026, von 383,52 US$ auf 306,82 US$. Bei den übrigen Tarifen ist der Wert in der Spalte dieselbe Rechnung mit 20 % auf den Gesamtbetrag, den die Seite zeigt. Der Warenkorb zeigt den Rabatt vor der Zahlung: Prüfen Sie Ihren.",
+          "**Kürzere Laufzeiten.** Beim KVM 1 kosteten mit SONAR20 24 Monate 124,61 US$ (5,19 US$ pro Monat, Verlängerung zu 11,99 US$ pro Monat), 12 Monate 67,10 US$ (5,59 US$ pro Monat, Verlängerung zu 12,99 US$ pro Monat) und 1 Monat 7,99 US$ (Verlängerung zu 19,49 US$ pro Monat). Eine kürzere Laufzeit kostet pro Monat mehr und verlängert sich teurer. In einem Premium-Warenkorb einer anderen regionalen Seite wurde der Code am selben Tag bei 12, 24 und 48 Monaten angenommen und beim 1-Monats-Tarif abgelehnt, der keinen Aktionspreis hatte. Wer monatlich zahlen möchte, testet den Code im Warenkorb, bevor er mit ihm rechnet.",
+          "**Verlängerung.** Die 20 % von SONAR20 gelten bei einem Neukauf, auch für Bestandskunden, die einen neuen Tarif abschließen. Bei der Verlängerung eines Tarifs, den Sie schon haben, und bei der reinen Domainregistrierung gibt der Code keinen Rabatt. Der KVM 1 mit 24 Monaten verlängert sich zu 11,99 US$ pro Monat für denselben Zeitraum. Die vollständige Rechnung der Verlängerung steht in [Hostinger-Verlängerung und SONAR20](/de/reviews/hostinger-verlaengerung-code-sonar20).",
+          "Wo Sie den Code einfügen, Schritt für Schritt, steht in [Hostinger-Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
+        ]
+      },
+      {
+        "heading": "Welchen Hosting-Tarif wählen: Premium, Unlimited oder Cloud Startup",
+        "paragraphs": [
+          "Die Wahl hängt davon ab, wie viele Websites Sie haben und wie sie gebaut sind. Die Grenzen unten stammen aus der Tarifseite und der Dokumentation zu den Limits von Hostinger."
+        ],
+        "bullets": [
+          "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20): 3 Websites und 20 GB Speicher. Laut der FAQ von Hostinger selbst der passende Tarif für die meisten privaten, geschäftlichen und WordPress-Websites. Ohne Node.js-Anwendungen.",
+          "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20): unbegrenzt viele Websites, 50 GB NVMe und tägliche Backups. Der erste Hosting-Tarif mit Node.js-Anwendungen: Die Dokumentation nennt bis zu 5 Node.js-Websites.",
+          "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20): unbegrenzt viele Websites, 100 GB NVMe und dedizierte Ressourcen, mit bis zu 10 Node.js-Websites. Er kommt infrage, wenn Traffic oder Projektzahl über das hinausgehen, was Shared Hosting trägt."
+        ],
+        "postParagraphs": [
+          "**Node.js verändert die Wahl.** Laut der Dokumentation zu den Limits von Hostinger hat Premium keine Node.js-Websites. Wer zum Beispiel ein Next.js-Projekt veröffentlicht, beginnt mit Unlimited oder einem Cloud-Tarif. Eine WordPress- oder PHP-Website passt in jeden der drei Tarife. Manche regionale Seiten verkaufen außerdem den Single-Tarif mit 1 Website und 10 GB für ein erstes Projekt; die globale Seite zeigte ihn am 16. November 2026 nicht.",
+          "Bruno, der diese Website betreut, ist seit 2024 Hostinger-Kunde, mit Hosting, VPS KVM 2, E-Mail und Domains. Em Casa com Cecília läuft auf Node.js in einem Business-Vertrag aus demselben Jahr. In der heutigen Tarifübersicht verkauft Hostinger den früheren Business-Tarif auf den meisten Seiten als Unlimited, und wer schon Business-Kunde war, behält Tarif und Limits. Seine Erfahrung gilt also für das heutige Unlimited oder Cloud, nicht für Premium.",
+          "Wer mit WordPress startet, findet in [WordPress bei Hostinger](/de/reviews/wordpress-bei-hostinger), was in jedem Tarif steckt. Die kostenlose Domain im ersten Jahr und ihr Preis danach stehen in [Hostinger-Domain: kaufen oder umziehen](/de/reviews/hostinger-domain-kaufen-oder-umziehen)."
+        ]
+      },
+      {
+        "heading": "Welchen VPS wählen: KVM 1, 2, 4 oder 8",
+        "paragraphs": [
+          "Einen VPS brauchen Sie, wenn Sie Programme außerhalb des Panels installieren, CPU und Arbeitsspeicher reservieren oder als root auf den Server zugreifen müssen. Lauten alle drei Antworten „nein“, genügt Shared Hosting, und es kostet weniger: Der Vergleich steht in [VPS oder Shared Hosting](/de/reviews/vps-oder-shared-hosting)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-de.webp",
+            "alt": "Übersicht mit drei Fragen: Muss ein System außerhalb des Panels installiert werden, braucht man reservierte CPU und reservierten Arbeitsspeicher, braucht man Root-Zugriff; jedes Ja führt zum VPS, dreimal Nein führt zum Shared Hosting",
+            "caption": "Die drei Fragen, die zwischen Shared Hosting und VPS entscheiden. Eigene Übersicht, auf Grundlage der Hostinger-Seiten.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7787
+          },
+          {
+            "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-de.webp",
+            "alt": "Übersicht mit drei Zeilen: Modell außerhalb des Servers (API-Schlüssel oder Guthaben) führt zum KVM 1; kleines lokales Modell führt zum KVM 2, an der Grenze, oder zum KVM 4; lokales Modell mit mehr Kontext oder weiteren Programmen führt zum KVM 4 oder KVM 8",
+            "caption": "Nach der OpenClaw-Dokumentation; ohne Leistungsmessung.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "bullets": [
+          "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 1 vCPU-Kern, 4 GB RAM und 50 GB NVMe. Für ein privates Projekt, eine kleine Website oder eine einzelne Anwendung.",
+          "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 2 Kerne, 8 GB RAM und 100 GB. Für wachsende Websites, einen Onlineshop oder mehrere Anwendungen zusammen. Das ist der VPS, den Bruno nutzt.",
+          "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 4 Kerne, 16 GB RAM und 200 GB. Für Datenbanken, mehrere Dienste oder viel Traffic.",
+          "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 8 Kerne, 32 GB RAM und 400 GB. Für Agenturen und Anwendungen mit hohem Speicherbedarf."
+        ],
+        "postParagraphs": [
+          "**Für OpenClaw.** Läuft das Modell außerhalb des Servers, per API-Schlüssel oder Guthaben, ist der Agent selbst leicht, und der KVM 1 genügt als Ausgangspunkt. Bei einem lokalen Modell sieht die Rechnung anders aus. Die OpenClaw-Dokumentation sagt, dass der Speicherbedarf vom Modell, von der Kontextgröße und davon abhängt, was sonst noch auf der Maschine läuft. Die dort dokumentierten lokalen Konfigurationen verwenden einen Kontext von 64K, und die kleinste verlangt mindestens 8 GiB Arbeitsspeicher auf dem Host; die größeren verlangen mehr, und die Dokumentation weist darauf hin, dass diese Untergrenze weder garantiert, dass das Modell hineinpasst, noch dass es schnell läuft.",
+          "Nach diesem Maßstab gelesen: Der KVM 1 mit 4 GB liegt unter der Untergrenze. Der KVM 2 hat 8 GB, etwa 7,5 GiB, und liegt an der Grenze, ohne Spielraum für System und Docker. KVM 4 und KVM 8 geben bei dieser kleineren Konfiguration Spielraum. Die KVM-Tarife laufen auf vCPU und führen keine dedizierte GPU auf, ein großes lokales Modell ist also nicht ihr Einsatzgebiet. Die Anleitung steht in [Bester VPS für OpenClaw](/de/reviews/bester-vps-fuer-openclaw)."
         ]
       },
       {
         "heading": "Wer warten sollte und wer nicht",
         "paragraphs": [
-          "Wenn Ihre Website diese Woche online gehen soll, vergleichen Sie den aktuellen Gesamtbetrag mit und ohne SONAR20 sowie den Verlängerungspreis. Der Code senkte den Aktionspreis. Das garantiert keinen Tiefstpreis bis zum Ende des Black Friday.",
+          "Wenn Ihre Website diese Woche online gehen soll, vergleichen Sie den aktuellen Gesamtbetrag mit und ohne SONAR20 sowie den Verlängerungspreis. Der Code senkt den Aktionspreis. Das garantiert keinen Tiefstpreis bis zum Ende des Black Friday.",
           "Wenn Sie warten können, bedenken Sie: Die Aktion läuft bis Mitte Dezember, aber bis dahin ist kein Preis garantiert. Die 20 % von SONAR20 werden vom Aktionspreis abgezogen: Ändert sich die Aktion, ändert sich auch die Summe.",
-          "Für die meisten privaten, geschäftlichen und WordPress-Websites empfiehlt die FAQ selbst Premium. Hostinger empfiehlt Single für den Einstieg oder einfache Projekte. Berechnen Sie bei VPS den Gesamtbetrag im Warenkorb: Das US$-Banner zeigte am 3. November 67 % Rabatt.",
-          "Wenn Sie schon Kunde sind, prüfen Sie die Upgrade-Angebote in Ihrem Konto: Laut FAQ können Bestandskunden gesonderte Angebote erhalten. SONAR20 gilt auch für einen neuen Tarif.",
-          "Bruno, der diese Website betreut, ist seit 2024 Hostinger-Kunde, mit mehr als 24 Monaten Laufzeit. Seine Tarife sind Business-Hosting, VPS KVM 2, E-Mail und Domains, alle mit automatischer Verlängerung. Em Casa com Cecília läuft bei Hostinger."
+          "Wenn Sie schon Kunde sind, prüfen Sie die Upgrade-Angebote in Ihrem Konto: Laut FAQ können Bestandskunden gesonderte Angebote erhalten. SONAR20 gilt auch für einen neuen Tarif."
         ]
       },
       {
@@ -99256,20 +103843,24 @@ export const reviewsData: unknown[] = [
           "Öffnen Sie [Hostinger auf der Shopseite dieser Website](/de/coupons/hostinger) und kopieren Sie den Code SONAR20.",
           "Fügen Sie im Warenkorb SONAR20 in das Gutscheinfeld ein und sehen Sie, wie der Rabatt von 20 % auf den Aktionspreis erscheint.",
           "Vergleichen Sie die Summe für den ersten Zeitraum, nicht nur den Monatspreis. Die Summe zeigt den tatsächlichen Unterschied.",
+          "Wechseln Sie die Laufzeit im Warenkorb, bevor Sie abschließen: Das Monatsäquivalent kann bei verschiedenen Laufzeiten gleich sein, und die Laufzeit bestimmt, wann die Verlängerung kommt.",
           "Prüfen Sie den Verlängerungspreis, bevor Sie abschließen. Hostinger zeigt ihn vor der Zahlung an, und er entspricht nicht dem Aktionspreis. Die 20 % von SONAR20 gelten für jeden Neukauf, auch für Bestandskunden; die Verlängerung wird zum Listenpreis berechnet."
         ],
         "postParagraphs": [
-          "Was die Garantie abdeckt und was sie ausschließt, steht vor dem Bezahlen in [Ist Hostinger zuverlässig?](/de/reviews/ist-hostinger-serioes)."
+          "Bevor Sie zahlen: Die Bewertungen von Kundinnen und Kunden stehen in [Hostinger-Bewertungen auf Trustpilot](/de/reviews/hostinger-trustpilot-bewertungen), und was die Garantie abdeckt und was sie ausschließt, steht in [Ist Hostinger zuverlässig?](/de/reviews/ist-hostinger-serioes)."
         ]
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Wann beginnt der Black Friday von Hostinger und wie lange dauert er? Er hat schon begonnen und läuft bis Mitte Dezember; die genauen Daten stehen in der Kurzantwort am Anfang des Artikels. Die Kampagnenseite in US$ zeigt 85 % Rabatt auf Webhosting, 67 % auf VPS und 75 % auf Reach.",
+          "Wann beginnt der Black Friday von Hostinger und wie lange dauert er? Er hat schon begonnen und läuft bis Mitte Dezember; die genauen Daten stehen in der Kurzantwort am Anfang des Artikels. Die globale Seite zeigt bis zu 85 % Rabatt auf Webhosting und bis zu 70 % auf VPS.",
           "Gibt es zum Black Friday von Hostinger einen Gutschein? Der Aktionspreis gilt automatisch, und der Code SONAR20 zieht im Gutscheinfeld des Warenkorbs weitere 20 % davon ab. Codes anderer Websites nennen wir nicht.",
-          "Bis wann läuft der Black Friday von Hostinger? Laut der offiziellen FAQ bis Mitte Dezember; das genaue Datum steht am Anfang des Artikels.",
+          "Welchen Hostinger-Tarif sollte ich zum Black Friday kaufen? Für bis zu drei WordPress- oder PHP-Websites Premium. Für Node.js oder viele Websites Unlimited. Für viel Traffic Cloud Startup. Den Single-Tarif gibt es nur dort, wo er verkauft wird. Einen VPS nur, wenn Sie root-Zugriff, Programme außerhalb des Panels oder reservierten Speicher brauchen.",
+          "Läuft Node.js im Premium-Tarif von Hostinger? Nein. Laut der Dokumentation zu den Limits von Hostinger beginnen Node.js-Websites bei Unlimited, mit bis zu 5, und bei den Cloud-Tarifen, mit bis zu 10.",
+          "Welcher Hostinger-VPS eignet sich für OpenClaw? Mit einem Modell per API-Schlüssel der KVM 1. Mit lokalem Modell verlangt die kleinste von OpenClaw dokumentierte Konfiguration 8 GiB Arbeitsspeicher: Der KVM 2 liegt an der Grenze, der KVM 4 gibt Spielraum.",
           "Gilt der Black-Friday-Preis auch bei der Verlängerung? Nein. Er gilt für den ersten Zeitraum des Abonnements. Die Verlängerung kostet den normalen Preis des Tarifs.",
-          "Gilt SONAR20 zusammen mit dem Black-Friday-Preis? Ja: Die 20 % wurden vom Aktionspreis abgezogen. Da sich der Preis ändert, prüfen Sie die Summe im Warenkorb.",
+          "Gilt SONAR20 zusammen mit dem Black-Friday-Preis? Ja: Die 20 % werden vom Aktionspreis abgezogen. Da sich der Preis ändert, prüfen Sie die Summe im Warenkorb.",
+          "Gilt SONAR20 beim Tarif mit 1 Monat Laufzeit? Das hängt vom Tarif ab. Bei unseren Tests Mitte November wurde der Code beim KVM 1 mit 1 Monat angenommen und bei einem Premium mit 1 Monat auf einer anderen regionalen Seite abgelehnt. Testen Sie ihn in Ihrem Warenkorb, bevor Sie zahlen.",
           "Gilt die Geld-zurück-Garantie am Black Friday? Laut FAQ haben berechtigte Tarife eine 30-Tage-Garantie, mit Bedingungen und Ausschlüssen. Was sie ausschließt, steht in [Ist Hostinger zuverlässig?](/de/reviews/ist-hostinger-serioes).",
           "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
@@ -99288,15 +103879,35 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Hostinger hostet diese Website. Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Prüfen Sie die Summe im Warenkorb, bevor Sie bezahlen.",
     "relatedArticles": [
       {
+        "slug": "hostinger-gutschein-empfehlungscode"
+      },
+      {
+        "slug": "hostinger-verlaengerung-code-sonar20"
+      },
+      {
+        "slug": "vps-oder-shared-hosting"
+      },
+      {
+        "slug": "bester-vps-fuer-openclaw"
+      },
+      {
         "slug": "ist-hostinger-serioes"
       },
       {
         "slug": "hostinger-trustpilot-bewertungen"
-      },
-      {
-        "slug": "hostinger-gutschein-empfehlungscode"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie schließen einen neuen Tarif ab und möchten den Aktionspreis für den längsten Zeitraum sichern, den Sie nutzen wollen.",
+        "Sie wissen, welcher Tarif zu Ihrem Projekt passt: Premium für WordPress, Unlimited oder Cloud für Node.js.",
+        "Sie haben den Verlängerungspreis geprüft, und er passt nach dem ersten Zeitraum in Ihr Budget."
+      ],
+      "skipIf": [
+        "Sie wollen nur einen Tarif verlängern, den Sie schon haben: Weder die Aktion noch SONAR20 gelten bei der Verlängerung.",
+        "Sie wollen monatlich zahlen: Die niedrigsten Aktionspreise gibt es bei den langen Laufzeiten."
+      ]
+    }
   },
   {
     "id": 508,
@@ -99330,11 +103941,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Black Friday Hostinger 2026 con SONAR20: un ulteriore 20% sul prezzo della campagna. Esempio testato su Startup e cosa controllare del totale e del rinnovo.",
+    "description": "Il Black Friday di Hostinger è già attivo e il codice SONAR20 toglie un altro 20% dal prezzo della campagna. Il conto piano per piano e cosa cambia al rinnovo prima di pagare.",
     "metaDescription": "Black Friday Hostinger 2026 è già iniziato e dura fino al 14 dicembre. Il coupon SONAR20 toglie un altro 20% dal prezzo della campagna. Rinnovo e come controllare.",
     "publishedAt": "19 ottobre 2026",
     "publishedAtISO": "2026-10-19",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -99346,33 +103957,168 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il Black Friday di Hostinger è già iniziato: va dal 19 ottobre al 14 dicembre 2026. Il prezzo della campagna si applica da solo, e il codice **SONAR20**, nel campo coupon del carrello, ne toglie un altro 20%. Ciò che cambia il conto è il rinnovo, spiegato più sotto."
+          "Il Black Friday di Hostinger è già iniziato: va dal 19 ottobre al 14 dicembre 2026. Il prezzo della campagna si applica da solo, e il codice **SONAR20**, nel campo coupon del carrello, ne toglie un altro 20% sugli acquisti nuovi. Il rinnovo costa il prezzo di listino, senza sconto. Qui sotto trovi il conto di ogni piano di hosting e di VPS."
         ]
       },
       {
         "heading": "Il Black Friday di Hostinger è già iniziato?",
         "paragraphs": [
           "È già iniziato. La FAQ ufficiale di Hostinger dice: «La promozione Black Friday di Hostinger si svolge dal 19 ottobre al 14 dicembre 2026». La pagina globale in inglese riporta la stessa data.",
-          "Il 3 novembre la pagina della campagna in US$ mostra 85% di sconto sul web hosting, 67% sul VPS e 75% su Reach (email marketing). Sono le cifre dei banner, non lo sconto di ogni piano.",
-          "I numeri qui sotto riguardano solo la campagna 2026, dalla pagina ufficiale."
-        ],
-        "images": []
+          "Il 16 novembre 2026 i banner della pagina globale indicavano fino all'85% di sconto sull'hosting e fino al 70% sui VPS. Sono le cifre dei banner, calcolate sul prezzo pieno di ogni piano: quello che paghi, piano per piano, è nella tabella qui sotto."
+        ]
       },
       {
-        "heading": "Quanto si paga con la campagna e con SONAR20",
+        "heading": "Quanto costa ogni piano: campagna, SONAR20 e rinnovo",
+        "paragraphs": [
+          "Hostinger addebita l'intero periodo in un'unica soluzione e mostra l'importo diviso per mese. Per questo la tabella riporta entrambe le cose: l'equivalente mensile e il totale addebitato nel periodo iniziale, prima e dopo SONAR20. L'ultima colonna è il rinnovo, che non ha né lo sconto della campagna né quello del codice."
+        ],
+        "comparisonTable": {
+          "caption": "Sito globale di Hostinger, in dollari. Hosting nel piano da 48 mesi e VPS in quello da 24 mesi. Il totale con SONAR20 corrisponde al 20% sul totale del periodo, come lo calcola il carrello.",
+          "headers": [
+            "Piano e periodo",
+            "Mensile in campagna",
+            "Mensile con SONAR20",
+            "Totale del periodo in campagna",
+            "Totale con SONAR20",
+            "Rinnovo al mese"
+          ],
+          "rows": [
+            [
+              "Single (non elencato nella pagina globale)",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—"
+            ],
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48 mesi",
+              "US$ 1,99",
+              "US$ 1,59",
+              "US$ 95,52",
+              "US$ 76,42",
+              "US$ 10,99"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48 mesi",
+              "US$ 2,79",
+              "US$ 2,23",
+              "US$ 133,92",
+              "US$ 107,14",
+              "US$ 16,99"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48 mesi",
+              "US$ 7,99",
+              "US$ 6,39",
+              "US$ 383,52",
+              "US$ 306,82",
+              "US$ 25,99"
+            ],
+            [
+              "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 mesi",
+              "US$ 6,49",
+              "US$ 5,19",
+              "US$ 155,76",
+              "US$ 124,61",
+              "US$ 11,99"
+            ],
+            [
+              "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 mesi",
+              "US$ 8,79",
+              "US$ 7,03",
+              "US$ 210,96",
+              "US$ 168,77",
+              "US$ 14,99"
+            ],
+            [
+              "[VPS KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 mesi",
+              "US$ 12,99",
+              "US$ 10,39",
+              "US$ 311,76",
+              "US$ 249,41",
+              "US$ 28,99"
+            ],
+            [
+              "[VPS KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24 mesi",
+              "US$ 25,99",
+              "US$ 20,79",
+              "US$ 623,76",
+              "US$ 499,01",
+              "US$ 49,99"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-it.webp",
+          "alt": "Grafico a barre con il prezzo al mese dei piani Hostinger nel primo periodo e nel rinnovo: Premium, Unlimited e Cloud Startup per l'hosting, KVM 1, 2, 4 e 8 per il VPS; in tutti il rinnovo costa di più",
+          "caption": "Ogni piano in due barre: il prezzo al mese nel primo periodo e nel rinnovo. Grafico di Em Casa com Cecília, sui prezzi della pagina di Hostinger.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
         "postParagraphs": [
-          "Lo sconto si applica sul prezzo della campagna. Nel carrello del sito globale, il 7 novembre 2026, il piano Startup da 48 mesi è passato da US$ 383,52 a US$ 306,82 con SONAR20 nel campo coupon («Have a coupon code?»). Piano, campagna e paese possono cambiare il totale, quindi controlla l'importo nel carrello.",
-          "Dove incollare il codice e perché il rinnovo non ha sconto si trova in [Coupon Hostinger SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
+          "Il piano Single (1 sito, 10 GB) è venduto in alcune pagine regionali, ma il 16 novembre 2026 la pagina globale in inglese non lo mostrava: per questo la sua riga non ha prezzi.",
+          "I prezzi sono quelli del sito globale in inglese il 16 novembre 2026, in dollari. Prima dell'inserimento dell'indirizzo di fatturazione il carrello mostrava un'imposta stimata dello 0%, quindi l'imposta locale può essere aggiunta dopo. Convertire in un'altra valuta dà solo una stima. Il totale con SONAR20 è il totale del periodo meno il 20%, arrotondato al centesimo. Calcolarlo dalla mensilità arrotondata dà qualche centesimo di differenza e non coincide con l'addebito.",
+          "Abbiamo controllato il carrello, senza accedere all'account: il VPS KVM 1 da 24 mesi il 16 novembre 2026 è passato da US$ 155,76 a US$ 124,61, con il coupon applicato SONAR20, e il Cloud Startup da 48 mesi il 7 novembre 2026 da US$ 383,52 a US$ 306,82. Per gli altri piani il valore in tabella è lo stesso calcolo del 20% sul totale mostrato dalla pagina. Il carrello mostra lo sconto prima del pagamento: controlla il tuo.",
+          "**Cicli più brevi.** Sul KVM 1, con SONAR20, 24 mesi sono costati US$ 124,61 (US$ 5,19 al mese, rinnovo a US$ 11,99 al mese), 12 mesi US$ 67,10 (US$ 5,59 al mese, rinnovo a US$ 12,99 al mese) e 1 mese US$ 7,99 (rinnovo a US$ 19,49 al mese). Un periodo più breve costa di più al mese e si rinnova a un prezzo più alto. In un carrello del Premium di un altro negozio regionale, lo stesso giorno, il codice è stato accettato a 12, 24 e 48 mesi ed è stato rifiutato sul piano da 1 mese, che non aveva un prezzo di campagna. Se vuoi pagare mese per mese, prova il codice nel carrello prima di contarci.",
+          "**Rinnovo.** Il 20% di SONAR20 vale sugli acquisti nuovi, anche per chi è già cliente e sottoscrive un piano nuovo. Sul rinnovo di un piano che hai già e sulla registrazione di un dominio da solo, il codice non dà sconto. Per esempio, il KVM 1 da 24 mesi si rinnova a US$ 11,99 al mese per lo stesso periodo. Il conto completo del rinnovo è in [Rinnovo Hostinger e SONAR20](/it/reviews/hostinger-rinnovo-codice-sonar20).",
+          "Dove incollare il codice, passo per passo, è spiegato in [Coupon Hostinger SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
+        ]
+      },
+      {
+        "heading": "Quale piano di hosting scegliere: Premium, Unlimited o Cloud Startup",
+        "paragraphs": [
+          "La scelta dipende da quanti siti avrai e da come sono fatti. I limiti qui sotto vengono dalla pagina dei piani e dalla documentazione sui limiti di Hostinger."
+        ],
+        "bullets": [
+          "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20): 3 siti e 20 GB di spazio. Non include applicazioni Node.js.",
+          "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20): siti illimitati, 50 GB NVMe e backup giornalieri. È il primo piano di hosting con applicazioni Node.js: la documentazione ne elenca fino a 5 siti.",
+          "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20): siti illimitati, 100 GB NVMe e risorse dedicate, con fino a 10 siti Node.js. Serve quando il traffico o il numero di progetti hanno superato ciò che l'hosting condiviso regge."
+        ],
+        "postParagraphs": [
+          "**Node.js cambia la scelta.** Secondo la documentazione sui limiti di Hostinger, il Premium non ha siti Node.js. Chi pubblica un progetto in Next.js, per esempio, parte da Unlimited o da un piano Cloud. Un sito WordPress o PHP sta in uno qualsiasi dei tre.",
+          "Bruno, che cura questo sito, è cliente di Hostinger dal 2024, con hosting, VPS KVM 2, e-mail e domini. Em Casa com Cecília gira su Node.js con un contratto Business sottoscritto in quell'anno. Oggi Hostinger vende il vecchio Business come Unlimited nella maggior parte delle pagine, e chi era già cliente Business mantiene il piano e i suoi limiti. Quindi la sua esperienza vale per l'Unlimited o per il Cloud di oggi, non per il Premium.",
+          "Per chi parte da WordPress, cosa include ogni piano è in [WordPress su Hostinger](/it/reviews/wordpress-su-hostinger). Il dominio gratuito del primo anno e il suo prezzo dopo sono in [Dominio Hostinger: comprare o trasferire](/it/reviews/dominio-hostinger-comprare-o-trasferire)."
+        ]
+      },
+      {
+        "heading": "Quale VPS scegliere: KVM 1, 2, 4 o 8",
+        "paragraphs": [
+          "Il VPS serve a chi deve installare programmi fuori dal pannello, avere CPU e memoria riservate o accedere al server come root. Se le tre risposte sono «no», l'hosting condiviso basta e costa meno: il confronto è in [VPS o hosting condiviso](/it/reviews/vps-o-hosting-condiviso)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-it.webp",
+            "alt": "Quadro con tre domande: serve installare un sistema fuori dal pannello, servono CPU e memoria riservate, serve l'accesso root; ogni sì porta al VPS e tre no portano all'hosting condiviso",
+            "caption": "Le tre domande che decidono tra hosting condiviso e VPS. Quadro nostro, a partire dalle pagine di Hostinger.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7787
+          },
+          {
+            "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-it.webp",
+            "alt": "Schema con tre righe: modello fuori dal server (chiave API o crediti) porta al KVM 1; piccolo modello locale porta al KVM 2, al limite, o al KVM 4; modello locale con più contesto o altri programmi porta al KVM 4 o al KVM 8",
+            "caption": "Secondo la documentazione di OpenClaw; senza misurazione delle prestazioni.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "bullets": [
+          "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 1 core vCPU, 4 GB di RAM e 50 GB NVMe. Per un progetto personale, un sito piccolo o una sola applicazione.",
+          "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 2 core, 8 GB di RAM e 100 GB. Per siti in crescita, negozi online o alcune applicazioni insieme. È il VPS che usa Bruno.",
+          "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 4 core, 16 GB di RAM e 200 GB. Per database, più servizi o traffico alto.",
+          "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 8 core, 32 GB di RAM e 400 GB. Per agenzie e applicazioni che chiedono molta memoria."
+        ],
+        "postParagraphs": [
+          "**Per far girare OpenClaw.** Con il modello fuori dal server, tramite chiave API o crediti, l'agente in sé è leggero e il KVM 1 è già un punto di partenza. Con un modello locale il conto cambia. La documentazione di OpenClaw dice che la memoria dipende dal modello, dalla dimensione del contesto e da cos'altro gira sulla macchina. Le configurazioni locali che documenta usano un contesto di 64K, e la più piccola chiede almeno 8 GiB di memoria sul server; le più grandi ne chiedono di più, e la documentazione avverte che questo minimo non garantisce che il modello ci stia né che giri veloce.",
+          "Leggendo i piani con questo metro: il KVM 1, con 4 GB, resta sotto il minimo. Il KVM 2 ha 8 GB, circa 7,5 GiB, ed è al limite, senza margine per il sistema e Docker. KVM 4 e KVM 8 sono quelli che danno margine per questa configurazione più piccola. I piani KVM girano su vCPU e non elencano una GPU dedicata, quindi un modello locale grande non è il loro uso. La guida passo passo è in [Miglior VPS per OpenClaw](/it/reviews/miglior-vps-per-openclaw)."
         ]
       },
       {
         "heading": "Chi deve aspettare e chi no",
         "paragraphs": [
-          "Se ti serve il sito online questa settimana, confronta il totale disponibile oggi, con e senza SONAR20, e il prezzo di rinnovo. Il codice ha ridotto il prezzo della campagna; questo non garantisce il prezzo più basso fino alla fine del Black Friday.",
+          "Se ti serve il sito online questa settimana, confronta il totale disponibile adesso, con e senza SONAR20, e il prezzo di rinnovo. Il codice riduce il prezzo della campagna; questo non garantisce che il valore sarà il più basso fino alla fine del Black Friday.",
           "Se puoi aspettare, tieni presente che la campagna dura fino a metà dicembre, ma nessun prezzo è garantito fino ad allora. Il 20% di SONAR20 si toglie dal prezzo della campagna: se la campagna cambia, cambia anche il totale.",
-          "Per la maggior parte dei siti personali, aziendali e WordPress, la stessa FAQ consiglia Premium. Hostinger consiglia Single a chi inizia o ha progetti semplici. Per il VPS, calcola il totale nel carrello: il banner in US$ mostrava il 67% il 3 novembre.",
-          "Se sei già cliente, controlla le offerte di upgrade del tuo account: la FAQ dice che i clienti attuali possono ricevere offerte separate. SONAR20 vale anche per un piano nuovo.",
-          "Bruno, che cura questo sito, è cliente di Hostinger dal 2024, con più di 24 mesi di abbonamento. I suoi piani sono hosting Business, VPS KVM 2, e-mail e domini, tutti con rinnovo automatico. Em Casa com Cecília gira su Hostinger."
+          "Se sei già cliente, controlla le offerte di upgrade del tuo account: la FAQ dice che i clienti attuali possono ricevere offerte separate. SONAR20 vale anche per un piano nuovo."
         ]
       },
       {
@@ -99381,21 +104127,25 @@ export const reviewsData: unknown[] = [
           "Apri [Hostinger nella pagina negozio di questo sito](/it/coupons/hostinger) e copia il codice SONAR20.",
           "Nel carrello, incolla SONAR20 nel campo coupon e guarda comparire lo sconto del 20% sul prezzo della campagna.",
           "Confronta il totale del primo periodo, non solo il prezzo mensile. Il totale mostra la differenza reale.",
-          "Controlla il prezzo del rinnovo prima di concludere. Hostinger lo mostra prima del pagamento, e non è quello della campagna. Il 20% di SONAR20 vale su ogni acquisto nuovo, anche per chi è già cliente; il rinnovo si paga al prezzo di listino."
+          "Cambia il periodo nel carrello prima di concludere: l'equivalente mensile può essere lo stesso su durate diverse, e la durata decide quando arriva il rinnovo.",
+          "Controlla il prezzo del rinnovo prima di finalizzare. Hostinger lo mostra prima del pagamento, e non è quello della campagna. Il 20% di SONAR20 vale su ogni acquisto nuovo, anche per chi è già cliente; il rinnovo si paga al prezzo di listino."
         ],
         "postParagraphs": [
-          "Prima di pagare, cosa copre la garanzia e cosa lascia fuori si trova in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile)."
+          "Prima di pagare, cosa dicono le recensioni degli utenti su Hostinger è in [Hostinger su Trustpilot](/it/reviews/hostinger-recensioni-trustpilot), e cosa copre la garanzia e cosa lascia fuori è in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile)."
         ]
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Quando inizia e quanto dura il Black Friday di Hostinger? È già iniziato e dura fino a metà dicembre; le date esatte sono nella risposta rapida, all’inizio dell’articolo. La pagina della campagna in US$ mostra 85% di sconto sul web hosting, 67% sul VPS e 75% su Reach.",
+          "Quando inizia e quanto dura il Black Friday di Hostinger? È già iniziato e dura fino a metà dicembre; le date esatte sono nella risposta rapida, all'inizio dell'articolo. La pagina globale mostra fino all'85% di sconto sull'hosting e fino al 70% sui VPS.",
           "Il Black Friday di Hostinger ha un coupon? Il prezzo della campagna si applica da solo, e il codice SONAR20, nel campo coupon del carrello, ne toglie un altro 20%. Non citiamo codici di altri siti.",
-          "Fino a quando dura il Black Friday di Hostinger? Fino a metà dicembre, secondo la FAQ ufficiale; la data esatta è all’inizio dell’articolo.",
-          "Il prezzo del Black Friday continua al rinnovo? No. Vale per il periodo iniziale dell’abbonamento. Il rinnovo costa il prezzo normale del piano.",
-          "SONAR20 vale insieme al prezzo del Black Friday? Sì: il 20% è stato tolto dal prezzo della campagna. Poiché il prezzo cambia, controlla il totale nel carrello.",
-          "La garanzia di rimborso vale durante il Black Friday? La FAQ dice che i piani idonei hanno una garanzia di 30 giorni, con termini ed esclusioni. Cosa resta fuori si trova in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile).",
+          "Quale piano Hostinger comprare nel Black Friday? Per un solo sito, il Single, dove è venduto. Per fino a tre siti WordPress o PHP, il Premium. Per Node.js o molti siti, l'Unlimited. Per traffico alto, il Cloud Startup. Il VPS solo se ti serve root, programmi fuori dal pannello o memoria riservata.",
+          "Il piano Premium di Hostinger fa girare Node.js? No. Secondo la documentazione sui limiti di Hostinger, i siti Node.js iniziano dall'Unlimited, con fino a 5, e nei piani Cloud, con fino a 10.",
+          "Quale VPS Hostinger va bene per OpenClaw? Con il modello tramite chiave API, il KVM 1. Con un modello locale, la configurazione più piccola documentata da OpenClaw chiede 8 GiB di memoria: il KVM 2 è al limite e il KVM 4 dà margine.",
+          "Il prezzo del Black Friday continua al rinnovo? No. Vale per il periodo iniziale dell'abbonamento. Il rinnovo costa il prezzo normale del piano.",
+          "SONAR20 vale insieme al prezzo del Black Friday? Sì: il 20% si toglie dal prezzo della campagna. Poiché il prezzo cambia, controlla il totale nel carrello.",
+          "SONAR20 vale sul piano da 1 mese? Dipende dal piano. Nei nostri test di metà novembre, il codice è stato accettato sul KVM 1 da 1 mese ed è stato rifiutato su un Premium da 1 mese di un altro negozio regionale. Prova nel tuo carrello prima di pagare.",
+          "La garanzia di rimborso vale nel Black Friday? La FAQ dice che i piani idonei hanno una garanzia di 30 giorni, con termini ed esclusioni. Cosa resta fuori è in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile).",
           "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       }
@@ -99413,15 +104163,35 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Hostinger ospita questo sito. Gli acquisti con il codice SONAR20 o tramite il link possono generare una commissione per Bruno, senza costi aggiuntivi per te. Controlla il totale nel carrello prima di pagare.",
     "relatedArticles": [
       {
+        "slug": "coupon-hostinger-codice-invito"
+      },
+      {
+        "slug": "hostinger-rinnovo-codice-sonar20"
+      },
+      {
+        "slug": "vps-o-hosting-condiviso"
+      },
+      {
+        "slug": "miglior-vps-per-openclaw"
+      },
+      {
         "slug": "hostinger-e-affidabile"
       },
       {
         "slug": "hostinger-recensioni-trustpilot"
-      },
-      {
-        "slug": "coupon-hostinger-codice-invito"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Sottoscrivi un piano nuovo e vuoi bloccare il prezzo della campagna per il periodo più lungo che pensi di usare.",
+        "Sai quale piano serve al tuo progetto: Premium per WordPress, Unlimited o Cloud per Node.js.",
+        "Hai già controllato il prezzo di rinnovo e rientra nel tuo budget dopo il primo periodo."
+      ],
+      "skipIf": [
+        "Vuoi solo rinnovare un piano che hai già: né la campagna né SONAR20 valgono sul rinnovo.",
+        "Pensi di pagare mese per mese: i prezzi più bassi della campagna sono nei periodi lunghi."
+      ]
+    }
   },
   {
     "id": 509,
@@ -99459,7 +104229,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger 블랙프라이데이 2026은 이미 시작되어 12월 14일까지입니다. 캠페인 가격에서 SONAR20 쿠폰으로 20% 추가 할인. 갱신 가격과 확인 방법.",
     "publishedAt": "2026년 10월 19일",
     "publishedAtISO": "2026-10-19",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -99471,33 +104241,168 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "Hostinger 블랙프라이데이는 이미 시작되었고 2026년 10월 19일부터 12월 14일까지 이어집니다. 캠페인 가격은 자동으로 적용되고, 장바구니의 쿠폰 입력란에 **SONAR20** 코드를 넣으면 그 가격에서 20%가 더 빠집니다. 계산을 바꾸는 것은 갱신 가격이며, 아래에서 설명합니다."
+          "Hostinger 블랙프라이데이는 이미 시작되었고 2026년 10월 19일부터 12월 14일까지 이어집니다. 캠페인 가격은 자동으로 적용되고, 장바구니의 쿠폰 입력란에 **SONAR20** 코드를 넣으면 신규 구매에서 그 가격에 20%가 더 빠집니다. 갱신은 정가로 청구되고 할인이 없습니다. 아래에 호스팅과 VPS 플랜별 계산을 정리했습니다."
         ]
       },
       {
         "heading": "Hostinger 블랙프라이데이는 이미 시작되었나요?",
         "paragraphs": [
           "이미 시작되었습니다. Hostinger 공식 FAQ에는 “Hostinger 블랙프라이데이 세일은 2026년 10월 19일부터 12월 14일까지 진행됩니다.”라고 나와 있습니다. 영어 글로벌 페이지도 같은 날짜를 알려 줍니다.",
-          "11월 3일 기준 US$ 캠페인 페이지에는 웹 호스팅 85% 할인, VPS 67% 할인, Reach(이메일 마케팅) 75% 할인이라고 나와 있습니다. 배너 수치일 뿐 모든 요금제의 할인율이 아닙니다.",
-          "아래 숫자는 2026년 캠페인만 해당하며 공식 페이지의 것입니다."
-        ],
-        "images": []
+          "글로벌 영어 페이지의 배너에는 웹 호스팅 최대 85%, VPS 최대 70% 할인이라고 나와 있습니다. 각 플랜의 정가를 기준으로 계산한 배너 수치이므로, 실제로 내는 금액은 아래 표에서 플랜별로 확인하세요."
+        ]
       },
       {
-        "heading": "캠페인과 SONAR20으로 얼마가 되는지",
+        "heading": "플랜별 가격: 캠페인, SONAR20, 갱신",
+        "paragraphs": [
+          "Hostinger는 기간 전체를 한 번에 청구하고 그 금액을 월 단위로 나눠 보여 줍니다. 그래서 표에는 월 환산 금액과, 첫 기간에 청구되는 합계를 SONAR20 적용 전후로 함께 실었습니다. 마지막 열은 갱신 가격이며, 캠페인 할인도 코드 할인도 적용되지 않습니다."
+        ],
+        "comparisonTable": {
+          "caption": "Hostinger 글로벌 사이트 기준, 미국 달러. 호스팅은 48개월, VPS는 24개월 플랜입니다. SONAR20 적용 합계는 기간 합계에서 20%를 뺀 값으로, 장바구니가 계산하는 방식과 같습니다.",
+          "headers": [
+            "플랜과 기간",
+            "캠페인 월 가격",
+            "SONAR20 적용 월 가격",
+            "캠페인 기간 합계",
+            "SONAR20 적용 합계",
+            "갱신 월 가격"
+          ],
+          "rows": [
+            [
+              "Single(글로벌 페이지에 없음), 48개월",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—"
+            ],
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48개월",
+              "US$ 1.99",
+              "US$ 1.59",
+              "US$ 95.52",
+              "US$ 76.42",
+              "US$ 10.99"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48개월",
+              "US$ 2.79",
+              "US$ 2.23",
+              "US$ 133.92",
+              "US$ 107.14",
+              "US$ 16.99"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20), 48개월",
+              "US$ 7.99",
+              "US$ 6.39",
+              "US$ 383.52",
+              "US$ 306.82",
+              "US$ 25.99"
+            ],
+            [
+              "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24개월",
+              "US$ 6.49",
+              "US$ 5.19",
+              "US$ 155.76",
+              "US$ 124.61",
+              "US$ 11.99"
+            ],
+            [
+              "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24개월",
+              "US$ 8.79",
+              "US$ 7.03",
+              "US$ 210.96",
+              "US$ 168.77",
+              "US$ 14.99"
+            ],
+            [
+              "[VPS KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24개월",
+              "US$ 12.99",
+              "US$ 10.39",
+              "US$ 311.76",
+              "US$ 249.41",
+              "US$ 28.99"
+            ],
+            [
+              "[VPS KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20), 24개월",
+              "US$ 25.99",
+              "US$ 20.79",
+              "US$ 623.76",
+              "US$ 499.01",
+              "US$ 49.99"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-ko.webp",
+          "alt": "호스팅어 플랜의 월 가격을 첫 기간과 갱신으로 비교한 막대그래프: 호스팅은 Premium, Unlimited, Cloud Startup, VPS는 KVM 1, 2, 4, 8이며 모든 플랜에서 갱신이 더 비쌉니다",
+          "caption": "플랜마다 막대 두 개: 첫 기간과 갱신의 월 가격. 호스팅어 페이지의 가격을 바탕으로 Em Casa com Cecília가 만든 표입니다.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
         "postParagraphs": [
-          "할인은 캠페인 가격에 적용됩니다. 2026년 11월 7일 글로벌 사이트 장바구니에서 48개월 Startup 요금제는 쿠폰 입력란(“Have a coupon code?”)에 SONAR20을 넣자 US$ 383.52에서 US$ 306.82가 되었습니다. 요금제, 캠페인, 국가에 따라 합계가 달라질 수 있으니 금액은 장바구니에서 확인하세요.",
-          "코드를 붙여 넣을 위치와 갱신에 할인이 없는 이유는 [Hostinger 쿠폰 SONAR20](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
+          "가격은 2026년 11월 16일 hostinger.com 글로벌 영어 사이트에서 읽은 것이며 미국 달러 기준입니다. 장바구니는 청구지 주소를 입력하기 전에는 예상 세금을 0%로 표시했으므로, 주소를 넣은 뒤 현지 세금이 붙을 수 있습니다. 다른 통화로 환산한 금액은 추정일 뿐입니다.",
+          "Single 요금제(사이트 1개, 10GB)는 일부 지역 페이지에서 판매되지만, 2026년 11월 16일 기준 글로벌 영어 페이지에는 Premium, Unlimited, Cloud Startup만 있었습니다. 그래서 표의 Single 줄은 가격을 비워 두었습니다.",
+          "SONAR20 적용 합계는 기간 합계에서 20%를 뺀 값을 센트 단위로 반올림한 것입니다. 반올림된 월 가격으로 계산하면 몇 센트 차이가 나서 청구 금액과 맞지 않습니다.",
+          "로그인 없이 장바구니에서 확인했습니다. 2026년 11월 16일 24개월 VPS KVM 1은 SONAR20이 적용되어 US$ 155.76에서 US$ 124.61이 되었고, 2026년 11월 7일 48개월 Cloud Startup은 US$ 383.52에서 US$ 306.82가 되었습니다. 나머지 플랜은 페이지에 나온 합계에 같은 20%를 적용한 계산입니다. 장바구니는 결제 전에 할인을 보여 주니 직접 확인하세요.",
+          "**짧은 기간.** KVM 1에서 SONAR20을 적용하면 24개월은 US$ 124.61(월 US$ 5.19, 갱신 월 US$ 11.99), 12개월은 US$ 67.10(월 US$ 5.59, 갱신 월 US$ 12.99), 1개월은 US$ 7.99(갱신 월 US$ 19.49)였습니다. 기간이 짧을수록 월 가격이 비싸고 갱신도 비쌉니다. 같은 날 다른 지역 스토어의 Premium 장바구니에서는 12, 24, 48개월에 코드가 들어갔고, 캠페인 가격이 없던 1개월 플랜에서는 거절되었습니다. 월 단위로 결제하려면 코드가 들어가는지 장바구니에서 먼저 시험해 보세요.",
+          "**갱신.** SONAR20의 20%는 신규 구매에 적용되고, 이미 고객이어도 새 플랜을 계약하면 받습니다. 이미 쓰고 있는 플랜의 갱신과 도메인 단독 등록에는 할인이 없습니다. 예를 들어 24개월 KVM 1은 같은 기간으로 월 US$ 11.99에 갱신됩니다. 갱신 계산은 [Hostinger 갱신과 SONAR20](/ko/reviews/hostinger-renewal-sonar20-ko)에 있습니다.",
+          "코드를 붙여 넣는 위치는 [Hostinger 쿠폰 SONAR20](/ko/reviews/hostinger-referral-code-ko)에 단계별로 나와 있습니다."
+        ]
+      },
+      {
+        "heading": "어떤 호스팅 플랜을 고를까: Premium, Unlimited, Cloud Startup",
+        "paragraphs": [
+          "사이트가 몇 개이고 무엇으로 만들었는지에 따라 달라집니다. 아래 한도는 Hostinger의 플랜 페이지와 한도 문서를 따랐습니다."
+        ],
+        "bullets": [
+          "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20): 사이트 3개, 20GB. Hostinger FAQ가 개인·기업·워드프레스 사이트 대부분에 권하는 플랜입니다. Node.js 애플리케이션은 없습니다.",
+          "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20): 사이트 무제한, NVMe 50GB, 일일 백업. Node.js 애플리케이션이 들어 있고, 문서상 Node.js 사이트는 최대 5개입니다.",
+          "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20): 사이트 무제한, NVMe 100GB, 전용 리소스, Node.js 사이트 최대 10개. 트래픽이나 프로젝트 수가 공유 호스팅의 한계를 넘었을 때 고릅니다."
+        ],
+        "postParagraphs": [
+          "**Node.js가 선택을 바꿉니다.** Hostinger의 한도 문서에 따르면 Premium에는 Node.js 사이트가 없습니다. 예를 들어 Next.js 프로젝트를 올리려면 Unlimited나 Cloud 플랜에서 시작합니다. 워드프레스나 PHP 사이트는 어느 플랜이든 됩니다.",
+          "이 사이트를 운영하는 Bruno는 2024년부터 Hostinger 고객으로, 호스팅, VPS KVM 2, 이메일, 도메인을 쓰고 있습니다. Em Casa com Cecília는 그해에 계약한 Business 플랜에서 Node.js로 돌아갑니다. 지금 Hostinger는 대부분의 페이지에서 예전 Business를 Unlimited로 판매하고, 이미 Business 고객이던 사람은 플랜과 한도를 그대로 유지합니다. 그래서 그의 경험은 지금의 Unlimited나 Cloud에 해당하고, Premium에는 해당하지 않습니다."
+        ]
+      },
+      {
+        "heading": "어떤 VPS를 고를까: KVM 1, 2, 4, 8",
+        "paragraphs": [
+          "VPS는 패널 밖에 프로그램을 설치하거나, CPU와 메모리를 따로 확보하거나, root로 서버에 접속해야 하는 사람을 위한 것입니다. 세 질문의 답이 모두 “아니오”라면 공유 호스팅으로 충분하고 더 저렴합니다. 비교는 [VPS와 공유 호스팅, 무엇을 고를까](/ko/reviews/vps-or-shared-hosting-ko)에 있습니다."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ko.webp",
+            "alt": "세 가지 질문을 담은 표: 패널 밖에 시스템을 설치해야 하는가, CPU와 메모리 예약이 필요한가, root 접근이 필요한가. 하나라도 “예”면 VPS, 셋 다 “아니오”면 공유 호스팅",
+            "caption": "공유 호스팅과 VPS를 가르는 세 가지 질문. 호스팅어 페이지를 바탕으로 우리가 만든 표입니다.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7787
+          },
+          {
+            "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-ko.webp",
+            "alt": "세 줄짜리 표: 서버 밖의 모델(API 키 또는 크레딧)은 KVM 1, 작은 로컬 모델은 KVM 2(빠듯함) 또는 KVM 4, 컨텍스트가 큰 로컬 모델이나 다른 프로그램을 함께 돌리면 KVM 4 또는 KVM 8",
+            "caption": "OpenClaw 문서 기준이며, 성능 측정은 없습니다.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "bullets": [
+          "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): vCPU 1코어, RAM 4GB, NVMe 50GB. 개인 프로젝트, 작은 사이트, 앱 하나에 맞습니다.",
+          "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 2코어, RAM 8GB, 100GB. 커지는 사이트, 온라인 쇼핑몰, 앱 몇 개를 함께 돌릴 때 맞습니다. Bruno가 쓰는 VPS입니다.",
+          "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 4코어, RAM 16GB, 200GB. 데이터베이스, 여러 서비스, 높은 트래픽에 맞습니다.",
+          "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20): 8코어, RAM 32GB, 400GB. 에이전시와 메모리를 많이 쓰는 애플리케이션에 맞습니다."
+        ],
+        "postParagraphs": [
+          "**OpenClaw를 돌리려면.** 모델이 서버 밖에 있고 API 키나 크레딧으로 쓰는 경우, 에이전트 자체는 가벼워서 KVM 1이 출발점이 됩니다. 로컬 모델이면 계산이 달라집니다. OpenClaw 문서에 따르면 메모리는 모델, 컨텍스트 크기, 같은 서버에서 함께 도는 프로그램에 따라 달라집니다. 문서에 나온 로컬 구성은 컨텍스트 64K를 쓰고, 그중 가장 작은 구성도 서버 메모리가 최소 8GiB 필요합니다. 더 큰 구성은 더 많이 필요하며, 문서는 이 최소 기준이 모델이 들어간다는 것도, 빠르게 돈다는 것도 보장하지 않는다고 밝힙니다.",
+          "이 기준으로 플랜을 보면 4GB인 KVM 1은 기준에 못 미칩니다. KVM 2는 8GB로 약 7.5GiB여서 빠듯하고, 시스템과 Docker가 쓸 여유가 없습니다. 이 작은 구성에 여유를 주는 것은 KVM 4와 KVM 8입니다. KVM 플랜은 vCPU로 돌고 전용 GPU가 나와 있지 않아서, 큰 로컬 모델은 이 플랜의 용도가 아닙니다. 단계별 안내는 [OpenClaw에 가장 알맞은 VPS](/ko/reviews/best-vps-for-openclaw-ko)에 있습니다."
         ]
       },
       {
         "heading": "기다려야 하는 사람과 그렇지 않은 사람",
         "paragraphs": [
-          "이번 주 안에 사이트를 열어야 한다면 현재 총액을 SONAR20 적용 전후로 비교하고 갱신 가격도 확인하세요. 코드는 캠페인 가격에서 할인이 적용되지만, 블랙프라이데이가 끝날 때까지의 최저가를 보장하지는 않습니다.",
+          "이번 주 안에 사이트를 열어야 한다면 지금 구할 수 있는 총액을 SONAR20 적용 전후로 비교하고 갱신 가격도 확인하세요. 코드는 캠페인 가격을 낮춰 줄 뿐, 블랙프라이데이가 끝날 때까지의 최저가를 보장하지는 않습니다.",
           "기다릴 수 있다 해도, 캠페인은 12월 중순까지 이어지지만 그때까지 가격이 보장되지는 않습니다. SONAR20의 20%는 캠페인 가격에서 빠지므로, 캠페인이 바뀌면 합계도 함께 바뀝니다.",
-          "Hostinger FAQ는 대부분의 개인·기업·워드프레스 사이트에 Premium을 권합니다. Hostinger는 이제 막 시작하는 사람이나 단순한 프로젝트에는 Single을 권합니다. VPS는 장바구니에서 총액을 계산하세요. 11월 3일 US$ 배너는 67% 할인이었습니다.",
-          "이미 고객이라면 계정에서 업그레이드 혜택을 확인하세요. FAQ에 따르면 기존 고객에게는 별도 혜택이 제공될 수 있습니다. SONAR20은 새 요금제에도 적용됩니다.",
-          "이 사이트를 운영하는 Bruno는 2024년부터 Hostinger 고객이며 구독 기간이 24개월을 넘습니다. 요금제는 Business 호스팅, VPS KVM 2, 이메일, 도메인이고 모두 자동 갱신입니다. Em Casa com Cecília도 Hostinger에서 운영됩니다."
+          "이미 고객이라면 계정에서 업그레이드 혜택을 확인하세요. FAQ에 따르면 기존 고객에게는 별도 혜택이 제공될 수 있습니다. SONAR20은 새 플랜에도 적용됩니다."
         ]
       },
       {
@@ -99506,21 +104411,25 @@ export const reviewsData: unknown[] = [
           "[이 사이트 스토어 페이지의 Hostinger](/ko/coupons/hostinger)를 열고 SONAR20 코드를 복사합니다.",
           "장바구니의 쿠폰 입력란에 SONAR20을 붙여 넣고, 캠페인 가격에 20% 할인이 반영되는지 확인합니다.",
           "월 가격만 보지 말고 첫 번째 기간의 합계를 비교하세요. 합계에 실제 차이가 나타납니다.",
+          "결제 전에 기간을 바꿔 보세요. 월 환산 금액이 같아도 기간이 다를 수 있고, 기간에 따라 갱신 시점이 정해집니다.",
           "결제를 마치기 전에 갱신 가격을 확인하세요. Hostinger는 결제 전에 갱신 가격을 보여 주며, 이는 캠페인 가격이 아닙니다. SONAR20의 20%는 모든 신규 구매에 적용되며, 기존 고객도 받을 수 있습니다. 갱신은 정가로 청구됩니다."
         ],
         "postParagraphs": [
-          "결제 전에, 보증이 무엇을 포함하고 무엇을 제외하는지는 [Hostinger는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에 있습니다."
+          "결제 전에 회사에 대한 평가는 [Hostinger Trustpilot 평점과 후기](/ko/reviews/hostinger-trustpilot-reviews-ko)에, 보증이 무엇을 포함하고 무엇을 제외하는지는 [Hostinger는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에 있습니다."
         ]
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "Hostinger 블랙프라이데이는 언제 시작하고 얼마나 이어지나요? 이미 시작되었고 12월 중순까지 이어집니다. 정확한 날짜는 글 맨 앞의 빠른 답에 있습니다. US$ 캠페인 페이지에는 웹 호스팅 85% 할인, VPS 67% 할인, Reach 75% 할인이라고 나와 있습니다.",
+          "Hostinger 블랙프라이데이는 언제 시작하고 얼마나 이어지나요? 이미 시작되었고 12월 중순까지 이어집니다. 정확한 날짜는 글 맨 앞의 빠른 답에 있습니다. 글로벌 영어 페이지에는 웹 호스팅 최대 85%, VPS 최대 70% 할인이라고 나와 있습니다.",
           "Hostinger 블랙프라이데이에 쿠폰이 있나요? 캠페인 가격은 자동으로 적용되고, 장바구니의 쿠폰 입력란에 SONAR20 코드를 넣으면 그 가격에서 20%가 더 빠집니다. 다른 사이트의 코드는 다루지 않습니다.",
-          "Hostinger 블랙프라이데이는 언제까지인가요? 공식 FAQ에 따르면 12월 중순까지이며, 정확한 날짜는 글 맨 앞에 있습니다.",
-          "블랙프라이데이 가격이 갱신 때도 이어지나요? 아니요. 구독의 첫 번째 기간에만 적용됩니다. 갱신은 요금제의 정상 가격으로 청구됩니다.",
+          "블랙프라이데이에 Hostinger 호스팅은 어떤 플랜을 사야 하나요? 최대 3개의 워드프레스나 PHP 사이트는 Premium, Node.js나 많은 사이트는 Unlimited, 높은 트래픽은 Cloud Startup입니다. VPS는 root 권한, 패널 밖 프로그램, 확보된 메모리가 필요할 때만 고르세요.",
+          "Hostinger Premium 플랜에서 Node.js가 돌아가나요? 아니요. Hostinger의 한도 문서에 따르면 Node.js 사이트는 Unlimited에서 최대 5개, Cloud 플랜에서 최대 10개부터 가능합니다.",
+          "OpenClaw에는 어떤 Hostinger VPS가 맞나요? 모델을 API 키로 쓰면 KVM 1입니다. 로컬 모델이면 OpenClaw 문서에 나온 가장 작은 구성이 메모리 8GiB를 요구하므로, KVM 2는 빠듯하고 KVM 4는 여유가 있습니다.",
+          "블랙프라이데이 가격이 갱신 때도 이어지나요? 아니요. 구독의 첫 번째 기간에만 적용됩니다. 갱신은 플랜의 정상 가격으로 청구됩니다.",
           "SONAR20을 블랙프라이데이 가격과 함께 쓸 수 있나요? 네. 20%가 캠페인 가격에서 빠집니다. 가격은 바뀌므로 장바구니에서 합계를 확인하세요.",
-          "블랙프라이데이에도 환불 보증이 적용되나요? FAQ에 따르면 대상 요금제에는 30일 보증이 있으며 조건과 제외 사항이 있습니다. 제외 사항은 [Hostinger는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에 있습니다.",
+          "SONAR20은 1개월 플랜에도 되나요? 플랜에 따라 다릅니다. 11월 중순 우리 테스트에서는 코드가 VPS KVM 1의 1개월 플랜에는 들어갔고, 다른 지역 스토어의 Premium 1개월 플랜에서는 거절되었습니다. 결제 전에 직접 장바구니에서 시험해 보세요.",
+          "블랙프라이데이에도 환불 보증이 적용되나요? FAQ에 따르면 대상 플랜에는 30일 보증이 있으며 조건과 제외 사항이 있습니다. 제외 사항은 [Hostinger는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에 있습니다.",
           "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       }
@@ -99538,15 +104447,35 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Hostinger가 이 사이트를 호스팅합니다. SONAR20 코드를 쓰거나 링크를 통해 구매하면 회원님께 추가 비용 없이 Bruno에게 수수료가 발생할 수 있습니다. 결제 전에 장바구니에서 합계를 확인하세요.",
     "relatedArticles": [
       {
+        "slug": "hostinger-referral-code-ko"
+      },
+      {
+        "slug": "hostinger-renewal-sonar20-ko"
+      },
+      {
+        "slug": "vps-or-shared-hosting-ko"
+      },
+      {
+        "slug": "best-vps-for-openclaw-ko"
+      },
+      {
         "slug": "hostinger-trust-guide-ko"
       },
       {
         "slug": "hostinger-trustpilot-reviews-ko"
-      },
-      {
-        "slug": "hostinger-referral-code-ko"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "새 플랜을 계약하면서, 쓸 생각인 가장 긴 기간으로 캠페인 가격을 고정하고 싶습니다.",
+        "내 프로젝트에 맞는 플랜을 알고 있습니다. 워드프레스는 Premium, Node.js는 Unlimited나 Cloud입니다.",
+        "갱신 가격을 이미 확인했고, 첫 기간 이후에도 예산에 맞습니다."
+      ],
+      "skipIf": [
+        "이미 쓰고 있는 플랜을 갱신하려는 것뿐입니다. 캠페인도 SONAR20도 갱신에는 적용되지 않습니다.",
+        "월 단위로 결제할 생각입니다. 캠페인 최저가는 긴 기간 플랜에 있습니다."
+      ]
+    }
   },
   {
     "id": 510,
@@ -99580,11 +104509,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostingerのブラックフライデーはすでに始まっていて、2026年10月19日から12月14日までです。クーポンSONAR20で、キャンペーン価格からさらに20%引きになります。更新料金と、支払い前の確認方法をまとめました。",
+    "description": "Hostingerのブラックフライデーはすでに始まっていて、2026年10月19日から12月14日までです。クーポンSONAR20で、キャンペーン価格からさらに20%引きになります。プランごとの料金、更新料金、支払い前の確認方法をまとめました。",
     "metaDescription": "Hostinger ブラックフライデー2026はすでに開始、12月14日まで。キャンペーン価格に、クーポンSONAR20でさらに20%引き。更新料金と確認方法。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -99596,33 +104525,169 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "Hostingerのブラックフライデーはすでに始まっていて、2026年10月19日から12月14日まで続きます。キャンペーン価格は自動で適用され、カートのクーポン欄にコード**SONAR20**を入れると、そこからさらに20%引きになります。計算を左右するのは更新料金で、下で説明します。"
+          "Hostingerのブラックフライデーはすでに始まっていて、2026年10月19日から12月14日まで続きます。キャンペーン価格は自動で適用され、カートのクーポン欄にコード**SONAR20**を入れると、新規購入ならそこからさらに20%引きになります。更新は通常料金で、割引はありません。下に、ホスティングとVPSのプランごとの計算を載せました。"
         ]
       },
       {
         "heading": "Hostingerのブラックフライデーはもう始まっていますか？",
         "paragraphs": [
           "始まっています。Hostinger公式のFAQには「Hostingerのブラックフライデーセールは2026年10月19日から12月14日まで開催されます」とあります。英語のグローバルページも同じ日付です。",
-          "11月3日時点で、米ドル建てのキャンペーンページにはウェブホスティング85%オフ、VPS 67%オフ、Reach（メールマーケティング）75%オフと出ています。これはバナーの数字で、すべてのプランの割引ではありません。",
-          "以下の数字は2026年のキャンペーンだけのもので、公式ページのものです。"
+          "グローバルページのバナーには、ウェブホスティングが最大85%オフ、VPSが最大70%オフと出ています。これは各プランの通常価格を基準にしたバナーの数字なので、実際にいくら払うかは下の表で確認してください。"
         ],
         "images": []
       },
       {
-        "heading": "キャンペーンとSONAR20でいくらになるか",
+        "heading": "プランごとの料金：キャンペーン、SONAR20、更新",
+        "paragraphs": [
+          "Hostingerは契約期間の分を一括で請求し、画面には月あたりに割った金額を表示します。そのため表には、月額換算と、最初の期間の請求総額（SONAR20の適用前と適用後）の両方を載せました。最後の列は更新料金で、キャンペーンの割引もコードの割引も付きません。"
+        ],
+        "comparisonTable": {
+          "caption": "Hostinger公式のグローバルサイトの料金（米ドル建て）。ホスティングは48か月プラン、VPSは24か月プランです。SONAR20適用後の合計は、カートの計算どおり、期間合計に対する20%引きです。",
+          "headers": [
+            "プランと期間",
+            "キャンペーン月額",
+            "SONAR20適用後の月額",
+            "キャンペーン期間合計",
+            "SONAR20適用後の合計",
+            "更新月額"
+          ],
+          "rows": [
+            [
+              "Single（グローバルページには掲載なし）",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—"
+            ],
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)、48か月",
+              "US$1.99",
+              "US$1.59",
+              "US$95.52",
+              "US$76.42",
+              "US$10.99"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)、48か月",
+              "US$2.79",
+              "US$2.23",
+              "US$133.92",
+              "US$107.14",
+              "US$16.99"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)、48か月",
+              "US$7.99",
+              "US$6.39",
+              "US$383.52",
+              "US$306.82",
+              "US$25.99"
+            ],
+            [
+              "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)、24か月",
+              "US$6.49",
+              "US$5.19",
+              "US$155.76",
+              "US$124.61",
+              "US$11.99"
+            ],
+            [
+              "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)、24か月",
+              "US$8.79",
+              "US$7.03",
+              "US$210.96",
+              "US$168.77",
+              "US$14.99"
+            ],
+            [
+              "[VPS KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)、24か月",
+              "US$12.99",
+              "US$10.39",
+              "US$311.76",
+              "US$249.41",
+              "US$28.99"
+            ],
+            [
+              "[VPS KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)、24か月",
+              "US$25.99",
+              "US$20.79",
+              "US$623.76",
+              "US$499.01",
+              "US$49.99"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-ja.webp",
+          "alt": "Hostinger のプランの月額を、最初の期間と更新で比べた棒グラフ。ホスティングは Premium、Unlimited、Cloud Startup、VPS は KVM 1、2、4、8で、どのプランも更新のほうが高い",
+          "caption": "各プランを2本の棒で表示：最初の期間と更新の月額。Hostinger のページの料金をもとにした Em Casa com Cecília の図。",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
         "postParagraphs": [
-          "割引はキャンペーン価格に対して適用されます。2026年11月7日、グローバルサイトのカートでは、48か月のStartupプランが、クーポン欄（「Have a coupon code?」）にSONAR20を入れると、383.52米ドルから306.82米ドルになりました。プラン、キャンペーン、国によって合計は変わるため、金額はカートで確認してください。",
-          "コードを貼る場所と、更新に割引がない理由は、[Hostingerクーポン SONAR20](/ja/reviews/hostinger-referral-code-ja)にあります。"
+          "料金は2026年11月16日時点の、英語のグローバルサイトのもので、米ドル建てです。カートでは、請求先住所を入れる前の推定税額が0%と表示されていたため、あとから現地の税が加わる場合があります。他の通貨への換算はあくまで目安です。SONAR20適用後の合計は、期間合計から20%を引いたもので、セント単位で丸めています。月額の丸めた数字から計算すると数セントずれて、請求額と合いません。",
+          "ログインなしでカートを確認しました。2026年11月16日のVPS KVM 1（24か月）は、クーポンSONAR20を適用してUS$155.76からUS$124.61になりました。2026年11月7日のCloud Startup（48か月）はUS$383.52からUS$306.82です。ほかのプランの数字は、ページに表示された合計に同じ20%を掛けた計算です。カートでは支払い前に割引が表示されるので、ご自身のカートで確認してください。",
+          "表のSingleは、Hostingerの一部の地域別ページでは1サイト・10 GBのプランとして販売されていますが、グローバルページには2026年11月16日時点で表示がなかったため、料金は空欄にしています。",
+          "**短い契約期間。** VPS KVM 1にSONAR20を使った場合、24か月はUS$124.61（月US$5.19、更新は月US$11.99）、12か月はUS$67.10（月US$5.59、更新は月US$12.99）、1か月はUS$7.99（更新は月US$19.49）でした。期間が短いほど月額が高く、更新も高くなります。同じ日に別の地域ストアのPremiumのカートを試したところ、コードは12か月、24か月、48か月では通りましたが、キャンペーン価格のない1か月プランでは拒否されました。月払いにしたい場合は、期待する前にカートでコードを試してください。",
+          "**更新。** SONAR20の20%は新規購入に適用され、すでにお客様である方が新しいプランを契約する場合も対象です。すでにお持ちのプランの更新や、ドメイン単体の登録には使えません。例として、KVM 1の24か月は、同じ期間で月US$11.99で更新されます。更新の詳しい計算は[HostingerとSONAR20：更新料金](/ja/reviews/hostinger-renewal-sonar20-ja)にあります。",
+          "コードを貼る場所は、[Hostingerクーポン SONAR20](/ja/reviews/hostinger-referral-code-ja)で手順を説明しています。"
+        ]
+      },
+      {
+        "heading": "ホスティングはどのプランを選ぶか：Premium、Unlimited、Cloud Startup",
+        "paragraphs": [
+          "選ぶ基準は、サイトの数と作り方です。下の上限は、Hostingerのプランページと制限に関するドキュメントによるものです。"
+        ],
+        "bullets": [
+          "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)：3サイト、20 GB。HostingerのFAQが、個人・ビジネス・WordPressサイトのほとんどに勧めているプランです。Node.jsアプリは使えません。",
+          "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)：サイト数無制限、50 GB（NVMe）、毎日のバックアップ。ホスティングで最初にNode.jsアプリが使えるプランで、ドキュメントでは最大5サイトです。",
+          "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)：サイト数無制限、100 GB（NVMe）、専用リソース、Node.jsは最大10サイト。トラフィックやプロジェクト数が共有ホスティングの限界を超えたときの選択肢です。"
+        ],
+        "postParagraphs": [
+          "**Node.jsで選択が変わります。** Hostingerの制限ドキュメントでは、PremiumにはNode.jsのサイトがありません。たとえばNext.jsのプロジェクトを公開するなら、UnlimitedかCloudプランから始めます。WordPressやPHPのサイトなら、どのプランでも足ります。",
+          "このサイトを運営するBrunoは、2024年からHostingerを使っていて、ホスティング、VPS KVM 2、メール、ドメインを契約しています。Em Casa com Cecíliaは、その年に契約したBusinessプランでNode.jsとして動いています。今のラインナップでは、Hostingerは以前のBusinessをほとんどのページでUnlimitedとして販売していて、すでにBusinessのお客様はプランと上限をそのまま維持しています。つまり彼の経験が当てはまるのは今のUnlimitedやCloudで、Premiumではありません。",
+          "WordPressで始める方は、各プランの内容を[HostingerのWordPress](/ja/reviews/wordpress-hostinger-ja)に書きました。初年度無料のドメインとその後の料金は、[Hostingerのドメイン：買う、移管する、別の場所で登録する](/ja/reviews/hostinger-domain-ja)にあります。"
+        ]
+      },
+      {
+        "heading": "VPSはどれを選ぶか：KVM 1、2、4、8",
+        "paragraphs": [
+          "VPSは、パネルの外でプログラムをインストールしたい、CPUとメモリを確保したい、rootで操作したい人向けです。三つとも「いいえ」なら共有ホスティングで足りて、費用も抑えられます。比較は[VPSか共有ホスティングか](/ja/reviews/vps-or-shared-hosting-ja)にあります。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ja.webp",
+            "alt": "三つの問いを並べた図：パネルの外にシステムを入れる必要があるか、CPU とメモリの専用確保が要るか、root 権限が要るか。一つでも「はい」なら VPS、三つとも「いいえ」なら共有ホスティング",
+            "caption": "共有ホスティングと VPS を分ける三つの問い。Hostinger のページをもとにした当サイトの図です。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7787
+          },
+          {
+            "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-ja.webp",
+            "alt": "3 行の表：サーバー外のモデル（API キーまたはクレジット）は KVM 1、小さいローカルモデルは KVM 2（ぎりぎり）か KVM 4、コンテキストが大きいローカルモデルや他のプログラムも動かす場合は KVM 4 か KVM 8",
+            "caption": "OpenClaw のドキュメントに基づく目安で、性能の実測はありません。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "bullets": [
+          "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)：vCPU 1コア、RAM 4 GB、NVMe 50 GB。個人のプロジェクト、小さなサイト、アプリ1つ向けです。",
+          "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)：2コア、RAM 8 GB、100 GB。成長中のサイト、ネットショップ、複数のアプリをまとめて動かす場合向けで、Brunoが使っているVPSです。",
+          "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)：4コア、RAM 16 GB、200 GB。データベース、複数のサービス、多いトラフィック向けです。",
+          "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)：8コア、RAM 32 GB、400 GB。代理店や、メモリを多く使うアプリケーション向けです。"
+        ],
+        "postParagraphs": [
+          "**OpenClawを動かす場合。** モデルをサーバーの外に置き、APIキーやクレジットで使うなら、エージェント自体は軽く、KVM 1が出発点になります。ローカルモデルなら話が変わります。OpenClawのドキュメントによると、必要なメモリはモデル、コンテキストの大きさ、同じマシンで動かす他のものによって変わります。ドキュメントにあるローカル構成はコンテキスト64Kで、最小の構成でもホストに8 GiB以上のメモリが必要です。大きい構成はそれ以上が必要で、この下限はモデルが収まることも、速く動くことも保証しないと注意書きがあります。",
+          "この基準でプランを読むと、KVM 1は4 GBで下限を下回ります。KVM 2は8 GB、約7.5 GiBでぎりぎりで、OSとDockerの余裕がありません。この小さい構成に余裕があるのはKVM 4とKVM 8です。KVMプランはvCPUで動き、専用GPUはありません。そのため、大きなローカルモデルを動かす用途には向きません。手順は[OpenClawに最適なVPS](/ja/reviews/best-vps-for-openclaw-ja)にあります。"
         ]
       },
       {
         "heading": "待つべき人と、待たなくてよい人",
         "paragraphs": [
-          "今週中にサイトを公開する必要があるなら、現在の合計をSONAR20の適用前後で比べ、更新料金も確認してください。コードでキャンペーン価格から割引されますが、ブラックフライデー終了までの最安値を保証するものではありません。",
+          "今週中にサイトを公開する必要があるなら、今の合計をSONAR20の適用前後で比べ、更新料金も確認してください。コードでキャンペーン価格から割引されますが、ブラックフライデー終了までの最安値を保証するものではありません。",
           "待てる場合も、キャンペーンは12月中旬まで続きますが、それまで価格が保証されるわけではありません。SONAR20の20%はキャンペーン価格から引かれるので、キャンペーンが変われば合計も変わります。",
-          "HostingerのFAQは、ほとんどの個人・ビジネス・WordPressサイト向けにPremiumを勧めています。Hostingerは、これから始める人やシンプルなプロジェクトにはSingleを勧めています。VPSはカートで合計を計算してください。11月3日の米ドル建てバナーは67%オフでした。",
-          "すでに利用中の場合は、アカウントのアップグレード特典を確認してください。FAQによると、既存のお客様には別のオファーが出ることがあります。SONAR20は新しいプランにも使えます。",
-          "このサイトを運営するBrunoは、2024年からHostingerを利用していて、契約期間は24か月を超えています。プランはBusinessホスティング、VPS KVM 2、メール、ドメインで、すべて自動更新です。Em Casa com CecíliaもHostingerで動いています。"
+          "すでに利用中の場合は、アカウントのアップグレード特典を確認してください。FAQによると、既存のお客様には別のオファーが出ることがあります。SONAR20は新しいプランにも使えます。"
         ]
       },
       {
@@ -99631,20 +104696,24 @@ export const reviewsData: unknown[] = [
           "[このサイトのストアページにあるHostinger](/ja/coupons/hostinger)を開き、コードSONAR20をコピーします。",
           "カートのクーポン欄にSONAR20を貼り付け、キャンペーン価格に20%の割引が反映されるのを確認します。",
           "月額だけでなく、最初の期間の合計を比べてください。合計を見れば本当の差がわかります。",
+          "確定する前にカートで契約期間を切り替えてみてください。月額換算が同じでも、期間によって更新の時期が変わります。",
           "購入を確定する前に、更新料金を確認してください。Hostingerは支払い前に表示し、その金額はキャンペーン価格ではありません。SONAR20の20%は新規購入すべてに適用され、既存のお客様も対象です。更新は通常料金で、割引はありません。"
         ],
         "postParagraphs": [
-          "支払い前に、保証の対象と対象外は[Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja)で確認できます。"
+          "支払い前に、Hostingerへの評価は[HostingerのTrustpilot評価](/ja/reviews/hostinger-trustpilot-reviews-ja)で、保証の対象と対象外は[Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja)で確認できます。"
         ]
       },
       {
         "heading": "よくある質問",
         "bullets": [
-          "Hostingerのブラックフライデーはいつ始まり、どのくらい続きますか？ すでに始まっていて、12月中旬までです。正確な日付は冒頭の結論にあります。米ドル建てのキャンペーンページにはウェブホスティング85%オフ、VPS 67%オフ、Reach 75%オフと出ています。",
+          "Hostingerのブラックフライデーはいつ始まり、どのくらい続きますか？ すでに始まっていて、12月中旬までです。正確な日付は冒頭の結論にあります。グローバルページには、ウェブホスティングが最大85%オフ、VPSが最大70%オフと出ています。",
           "Hostingerのブラックフライデーにクーポンはありますか？ キャンペーン価格は自動で適用され、カートのクーポン欄にコードSONAR20を入れると、そこからさらに20%引きになります。他のサイトのコードは取り上げていません。",
-          "Hostingerのブラックフライデーはいつまでですか？ 公式FAQによると12月中旬までです。正確な日付は記事の冒頭にあります。",
+          "ブラックフライデーでHostingerのどのプランを買うべきですか？ 3サイトまでのWordPressやPHPならPremium、Node.jsや多数のサイトならUnlimited、トラフィックが多いならCloud Startupです。Singleは販売している地域のページで1サイト向けに選べます。VPSは、root権限、パネル外のプログラム、確保されたメモリが必要な場合だけです。",
+          "HostingerのPremiumでNode.jsは動きますか？ 動きません。Hostingerの制限ドキュメントでは、Node.jsのサイトはUnlimited（最大5）とCloudプラン（最大10）から使えます。",
+          "OpenClawにはHostingerのどのVPSが向いていますか？ モデルをAPIキーで使うならKVM 1です。ローカルモデルなら、OpenClawが示す最小構成は8 GiBのメモリで、KVM 2はぎりぎり、KVM 4は余裕があります。",
           "ブラックフライデーの価格は更新時も続きますか？ いいえ。契約の最初の期間にだけ適用されます。更新はプランの通常価格になります。",
           "SONAR20はブラックフライデーの価格と併用できますか？ はい。20%はキャンペーン価格から引かれます。価格は変わるので、カートで合計を確認してください。",
+          "SONAR20は1か月プランでも使えますか？ プランによります。11月中旬の当サイトのテストでは、VPS KVM 1の1か月でコードが通り、別の地域ストアのPremium 1か月では拒否されました。支払う前にご自身のカートで試してください。",
           "ブラックフライデーでも返金保証は使えますか？ FAQによると、対象プランには30日間の保証があり、条件と対象外があります。対象外は[Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja)にあります。",
           "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
@@ -99663,15 +104732,35 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Hostingerはこのサイトをホスティングしています。コードSONAR20またはリンク経由での購入は、あなたの負担なしにBrunoに報酬が入ることがあります。支払い前にカートで合計を確認してください。",
     "relatedArticles": [
       {
+        "slug": "hostinger-referral-code-ja"
+      },
+      {
+        "slug": "hostinger-renewal-sonar20-ja"
+      },
+      {
+        "slug": "vps-or-shared-hosting-ja"
+      },
+      {
+        "slug": "best-vps-for-openclaw-ja"
+      },
+      {
         "slug": "hostinger-trust-guide-ja"
       },
       {
         "slug": "hostinger-trustpilot-reviews-ja"
-      },
-      {
-        "slug": "hostinger-referral-code-ja"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "新しいプランを契約し、使うつもりの最も長い期間でキャンペーン価格を固定したい。",
+        "どのプランが自分のプロジェクトに合うか分かっている：WordPressならPremium、Node.jsならUnlimitedかCloud。",
+        "更新料金をすでに確認していて、最初の期間のあとも予算に収まる。"
+      ],
+      "skipIf": [
+        "すでにお持ちのプランを更新するだけ：キャンペーンもSONAR20も更新には適用されません。",
+        "月払いにするつもり：キャンペーンの最安値は長い契約期間にあります。"
+      ]
+    }
   },
   {
     "id": 511,
@@ -99709,7 +104798,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger 黑色星期五 2026 已經開始，持續到 12 月 14 日，優惠碼 SONAR20 在活動價上再減 20%。續約與核對方式。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -99721,33 +104810,167 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Hostinger 的黑色星期五已經開始：從 2026 年 10 月 19 日持續到 12 月 14 日。活動價會自動套用，在購物車的優惠碼欄位輸入代碼 **SONAR20**，可在此基礎上再減 20%。真正影響費用的是續約，下方會說明。"
+          "Hostinger 的黑色星期五已經開始：從 2026 年 10 月 19 日持續到 12 月 14 日。活動價會自動套用，在購物車的優惠碼欄位輸入代碼 **SONAR20**，可在此基礎上對新購買再減 20%。續約按定價計算，沒有折扣。下方依方案列出各自的費用，包括網站代管與 VPS。"
         ]
       },
       {
         "heading": "Hostinger 的黑色星期五已經開始了嗎？",
         "paragraphs": [
           "已經開始。Hostinger 官方 FAQ 寫道：「Hostinger 黑色星期五促銷從 2026 年 10 月 19 日持續到 12 月 14 日。」英文全球頁面給出的日期相同。",
-          "11 月 3 日，美元版活動頁面顯示網站代管 85% 折扣、VPS 67% 折扣、Reach（電子郵件行銷）75% 折扣。這是橫幅數字，並非每個方案的折扣。",
-          "以下數字只針對 2026 年的活動，取自官方頁面。"
-        ],
-        "images": []
+          "2026 年 11 月中旬，全球頁面的橫幅顯示網站代管最高 85%、VPS 最高 70% 的折扣。這是橫幅上的數字，依各方案的原價計算，並不是每個方案的折扣；你實際要付多少，請看下方表格。"
+        ]
       },
       {
-        "heading": "活動價加 SONAR20 要付多少",
+        "heading": "各方案要付多少：活動價、SONAR20 與續約",
+        "paragraphs": [
+          "Hostinger 一次收取整個期間的費用，並顯示換算後的每月價格。因此表格同時列出兩項：每月等值價格，以及首期實際收取的總價，分別為使用 SONAR20 之前與之後。最後一欄是續約價，不含活動折扣，也不含優惠碼的折扣。",
+          "關於 Single：部分地區頁面有販售 Single 方案（1 個網站、10 GB），但 2026 年 11 月 16 日全球頁面並沒有列出，所以表中這一列沒有價格。"
+        ],
+        "comparisonTable": {
+          "caption": "Hostinger 全球網站，美元計價；網站代管為 48 個月方案，VPS 為 24 個月方案。使用 SONAR20 的總價，是依購物車的算法，在期間總價上減 20%。",
+          "headers": [
+            "方案與期間",
+            "活動價（每月）",
+            "使用 SONAR20（每月）",
+            "期間總價（活動價）",
+            "期間總價（使用 SONAR20）",
+            "續約價（每月）"
+          ],
+          "rows": [
+            [
+              "Single（全球頁面未列出），48 個月",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—"
+            ],
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)，48 個月",
+              "US$ 1.99",
+              "US$ 1.59",
+              "US$ 95.52",
+              "US$ 76.42",
+              "US$ 10.99"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)，48 個月",
+              "US$ 2.79",
+              "US$ 2.23",
+              "US$ 133.92",
+              "US$ 107.14",
+              "US$ 16.99"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)，48 個月",
+              "US$ 7.99",
+              "US$ 6.39",
+              "US$ 383.52",
+              "US$ 306.82",
+              "US$ 25.99"
+            ],
+            [
+              "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)，24 個月",
+              "US$ 6.49",
+              "US$ 5.19",
+              "US$ 155.76",
+              "US$ 124.61",
+              "US$ 11.99"
+            ],
+            [
+              "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)，24 個月",
+              "US$ 8.79",
+              "US$ 7.03",
+              "US$ 210.96",
+              "US$ 168.77",
+              "US$ 14.99"
+            ],
+            [
+              "[VPS KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)，24 個月",
+              "US$ 12.99",
+              "US$ 10.39",
+              "US$ 311.76",
+              "US$ 249.41",
+              "US$ 28.99"
+            ],
+            [
+              "[VPS KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)，24 個月",
+              "US$ 25.99",
+              "US$ 20.79",
+              "US$ 623.76",
+              "US$ 499.01",
+              "US$ 49.99"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-zh-hant.webp",
+          "alt": "Hostinger 各方案每月價格的長條圖，比較首期與續訂：主機有 Premium、Unlimited、Cloud Startup，VPS 有 KVM 1、2、4、8；每個方案的續訂價都更高",
+          "caption": "每個方案兩根長條：首期與續訂的每月價格。由 Em Casa com Cecília 依 Hostinger 頁面上的價格製作的表格。",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
         "postParagraphs": [
-          "折扣是在活動價的基礎上計算的。2026 年 11 月 7 日，在全球網站的購物車中，48 個月的 Startup 方案在優惠碼欄位（「Have a coupon code?」）輸入 SONAR20 後，從 383.52 美元降到 306.82 美元。方案、活動和國家都可能改變總價，請以購物車中的金額為準。",
-          "代碼貼在哪裡，以及為什麼續約沒有折扣，請見 [Hostinger 優惠碼 SONAR20](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
+          "表中價格取自 2026 年 11 月 16 日的全球英文網站，以美元計價。購物車在填寫帳單地址之前，顯示的預估稅額是 0%，所以之後可能還會加上當地稅費。換算成其他貨幣只是估算。使用 SONAR20 的總價，是期間總價減 20%，四捨五入到分。用四捨五入後的每月價格去算，會差幾分錢，和實際扣款對不上。",
+          "我們在不登入的情況下查看了購物車：2026 年 11 月 16 日，24 個月的 KVM 1 在套用優惠碼 SONAR20 後，從 US$ 155.76 降到 US$ 124.61；2026 年 11 月 7 日，48 個月的 Cloud Startup 從 US$ 383.52 降到 US$ 306.82。其他方案的數字，是對頁面顯示的總價做同樣的 20% 計算。付款前購物車就會顯示折扣：請核對你自己的。",
+          "**較短的期間。**KVM 1 使用 SONAR20 後，24 個月是 US$ 124.61（每月 US$ 5.19，續約每月 US$ 11.99），12 個月是 US$ 67.10（每月 US$ 5.59，續約每月 US$ 12.99），1 個月是 US$ 7.99（續約每月 US$ 19.49）。期間越短，每月越貴，續約也越貴。在另一個地區商店的 Premium 購物車裡，同一天，優惠碼在 12、24、48 個月都可以輸入，但在沒有活動價的 1 個月方案被拒絕。如果想按月付款，請先在購物車裡測試優惠碼，再決定要不要指望它。",
+          "**續約。**SONAR20 的 20% 適用於新購買，已經是客戶、購買新方案的人也一樣。已有方案的續約，以及單獨註冊網域，優惠碼都不給折扣。舉例：24 個月的 KVM 1 以相同期間續約，每月 US$ 11.99。完整的續約計算見 [Hostinger 續約與 SONAR20](/zh-hant/reviews/hostinger-renewal-sonar20-zh-hant)。",
+          "代碼貼在哪裡，一步一步的說明見 [Hostinger 優惠碼 SONAR20](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "網站代管方案怎麼選：Premium、Unlimited 或 Cloud Startup",
+        "paragraphs": [
+          "選擇取決於你有幾個網站，以及它們是怎麼做的。以下限制取自 Hostinger 的方案頁面與限制文件。"
+        ],
+        "bullets": [
+          "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)：3 個網站、20 GB 儲存空間。Hostinger 自己的 FAQ 為大多數個人、企業與 WordPress 網站推薦這一款。不支援 Node.js 應用程式。",
+          "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)：不限網站數量、50 GB NVMe、每日備份。這是第一個支援 Node.js 應用程式的代管方案：文件列出最多 5 個 Node.js 網站。",
+          "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)：不限網站數量、100 GB NVMe、獨立資源，最多 10 個 Node.js 網站。當流量或專案數已經超出共享代管能承受的範圍時，才需要它。"
+        ],
+        "postParagraphs": [
+          "**Node.js 會改變選擇。**依 Hostinger 的限制文件，Premium 不支援 Node.js 網站。要發布 Next.js 專案的人，從 Unlimited 或 Cloud 方案開始。WordPress 或 PHP 網站，三個方案都可以。",
+          "負責本站的 Bruno 自 2024 年起就是 Hostinger 客戶，有網站代管、VPS KVM 2、電子郵件與網域。Em Casa com Cecília 在 Node.js 上運行，使用的是他 2024 年簽訂的 Business 合約。按現在的方案表，Hostinger 在大多數頁面把舊的 Business 作為 Unlimited 銷售，已經是 Business 客戶的人保留原有方案與限制。也就是說：他的使用經驗適用於現在的 Unlimited 或 Cloud，不適用於 Premium。"
+        ]
+      },
+      {
+        "heading": "VPS 怎麼選：KVM 1、2、4 或 8",
+        "paragraphs": [
+          "VPS 適合需要在面板之外安裝程式、保留 CPU 與記憶體，或需要 root 權限的人。如果三個問題的答案都是「不需要」，共享代管就夠了，而且更便宜：比較請見 [VPS 還是共享代管](/zh-hant/reviews/vps-or-shared-hosting-zh-hant)。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hant.webp",
+            "alt": "「選擇前的三個問題」圖表：在面板之外安裝系統或程式、保留 CPU 與記憶體、需要 root 權限，答案是「要」就選 VPS；三個都答「不要」就選共享代管",
+            "caption": "區分 VPS 與共享代管的三個問題。Em Casa com Cecília 製作的圖表。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7787
+          },
+          {
+            "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-zh-hant.webp",
+            "alt": "三列圖表：模型在伺服器之外（API 金鑰或點數）選 KVM 1；小型本機模型選 KVM 2（在上限邊緣）或 KVM 4；較大上下文的本機模型或同時執行其他程式選 KVM 4 或 KVM 8",
+            "caption": "依 OpenClaw 文件整理；沒有效能測試。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "bullets": [
+          "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)：1 個 vCPU 核心、4 GB RAM、50 GB NVMe。適合個人專案、小型網站或單一應用程式。",
+          "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)：2 個核心、8 GB RAM、100 GB。適合成長中的網站、線上商店，或同時執行幾個應用程式。這是 Bruno 在用的 VPS。",
+          "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)：4 個核心、16 GB RAM、200 GB。適合資料庫、多項服務或高流量。",
+          "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)：8 個核心、32 GB RAM、400 GB。適合代理商，以及需要大量記憶體的應用程式。"
+        ],
+        "postParagraphs": [
+          "**用來跑 OpenClaw。**如果模型在伺服器之外，透過 API 金鑰或點數使用，代理程式本身很輕，KVM 1 就可以作為起點。本機模型就是另一回事了。OpenClaw 文件說，記憶體取決於模型、上下文大小，以及機器上還跑了什麼。文件中記載的本機配置使用 64K 上下文，其中最小的一個要求伺服器至少有 8 GiB 記憶體；較大的要求更多，文件也提醒，這個下限不保證模型放得下，也不保證跑得快。",
+          "用這把尺來看這些方案：KVM 1 只有 4 GB，低於下限。KVM 2 有 8 GB，約 7.5 GiB，剛好在上限邊緣，系統和 Docker 沒有餘裕。KVM 4 與 KVM 8 才能為這個較小的配置留出餘量。KVM 方案跑在 vCPU 上，也沒有列出獨立 GPU，所以大型本機模型不是它們的用途。逐步說明見 [OpenClaw 最適合的 VPS](/zh-hant/reviews/best-vps-for-openclaw-zh-hant)。"
         ]
       },
       {
         "heading": "誰該等，誰不必等",
         "paragraphs": [
-          "如果這週就需要讓網站上線，請比較目前使用 SONAR20 前後的總價，也看續約價格。優惠碼確實會從活動價上減掉一部分，但這不保證到黑色星期五結束前都是最低價。",
+          "如果這週就需要讓網站上線，請比較目前使用 SONAR20 前後的總價，也看續約價格。優惠碼會從活動價上減掉一部分，但這不保證到黑色星期五結束前都是最低價。",
           "如果可以等，要知道活動持續到 12 月中旬，但在那之前沒有任何價格有保證。SONAR20 的 20% 是從活動價中扣除的：活動一變，總價也會跟著變。",
-          "Hostinger FAQ 為大多數個人、企業與 WordPress 網站推薦 Premium。Hostinger 建議剛起步或專案簡單的用戶選 Single。VPS 請在購物車計算總價：11 月 3 日的美元版橫幅顯示 67% 折扣。",
-          "如果你已經是客戶，請查看帳戶裡的升級優惠：FAQ 說現有客戶可能會收到單獨的優惠。SONAR20 也適用於新方案。",
-          "負責本站的 Bruno 自 2024 年起就是 Hostinger 客戶，訂閱已超過 24 個月。他的方案有 Business 代管、VPS KVM 2、電子郵件與網域，全部自動續約。Em Casa com Cecília 就運行在 Hostinger 上。"
+          "如果你已經是客戶，請查看帳戶裡的升級優惠：FAQ 說現有客戶可能會收到單獨的優惠。SONAR20 也適用於新方案。"
         ]
       },
       {
@@ -99756,20 +104979,24 @@ export const reviewsData: unknown[] = [
           "打開[本站商店頁面上的 Hostinger](/zh-hant/coupons/hostinger)，複製代碼 SONAR20。",
           "在購物車的優惠碼欄位貼上 SONAR20，看到 20% 的折扣出現在活動價之上。",
           "比較第一個期間的總價，而不只是每月價格。總價才能顯示真正的差別。",
+          "結帳前先更換購物車裡的期間：不同期間的每月等值價格可能相同，而期間決定續約何時到來。",
           "結帳前先看續約價格。Hostinger 會在付款前顯示，而且它不是活動價。SONAR20 的 20% 適用於每一筆新購買，現有客戶也一樣；續約按定價計算，沒有折扣。"
         ],
         "postParagraphs": [
-          "付款前，保障涵蓋什麼、不涵蓋什麼，請見[Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
+          "付款前，公司的投訴紀錄請見[Hostinger 的 Trustpilot 評價](/zh-hant/reviews/hostinger-trustpilot-reviews-zh-hant)，保障涵蓋什麼、不涵蓋什麼，請見[Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
         ]
       },
       {
         "heading": "常見問題",
         "bullets": [
-          "Hostinger 的黑色星期五什麼時候開始，持續多久？已經開始，持續到 12 月中旬；確切日期在文章開頭的快速回答裡。美元版活動頁面顯示網站代管 85% 折扣、VPS 67% 折扣、Reach 75% 折扣。",
+          "Hostinger 的黑色星期五什麼時候開始，持續多久？已經開始，持續到 12 月中旬；確切日期在文章開頭的快速回答裡。全球頁面顯示網站代管最高 85%、VPS 最高 70% 的折扣。",
           "Hostinger 的黑色星期五有優惠碼嗎？活動價會自動套用，在購物車的優惠碼欄位輸入代碼 SONAR20，可在此基礎上再減 20%。我們不提其他網站的代碼。",
-          "Hostinger 的黑色星期五到什麼時候？根據官方 FAQ，到 12 月中旬；確切日期在文章開頭。",
+          "Hostinger 的黑色星期五要買哪個方案？只做一個小網站，可以看你所在地區的頁面有沒有 Single；最多三個 WordPress 或 PHP 網站，選 Premium；需要 Node.js 或很多網站，選 Unlimited；流量高，選 Cloud Startup。只有在需要 root、面板之外的程式或保留記憶體時才選 VPS。Single 只在有販售它的地區頁面才看得到。",
+          "Hostinger 的 Premium 方案能跑 Node.js 嗎？不能。依 Hostinger 的限制文件，Node.js 網站從 Unlimited 開始，最多 5 個；Cloud 方案最多 10 個。",
+          "Hostinger 的哪款 VPS 適合 OpenClaw？模型透過 API 金鑰使用，選 KVM 1。本機模型的話，OpenClaw 文件記載的最小配置要求 8 GiB 記憶體：KVM 2 剛好在上限邊緣，KVM 4 才有餘裕。",
           "黑色星期五的價格續約時還有效嗎？沒有。它只適用於訂閱的第一個期間。續約按方案的正常價格收費。",
           "SONAR20 能和黑色星期五價格一起用嗎？可以：20% 是從活動價中扣除的。由於價格會變動，請在購物車裡核對總價。",
+          "SONAR20 能用在 1 個月的方案嗎？要看方案。我們 11 月中旬的測試裡，優惠碼可以用在 1 個月的 KVM 1，但在另一個地區商店的 1 個月 Premium 被拒絕。請在你的購物車裡先測試，再付款。",
           "黑色星期五期間退款保障有效嗎？FAQ 說符合條件的方案有 30 天保障，附帶條款與例外。不涵蓋的內容請見[Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。",
           "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
         ]
@@ -99788,15 +105015,35 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Hostinger 代管本站。使用代碼 SONAR20 或透過連結購買，Bruno 可能獲得傭金，你不需要多付任何費用。付款前請在購物車裡核對總價。",
     "relatedArticles": [
       {
+        "slug": "hostinger-referral-code-zh-hant"
+      },
+      {
+        "slug": "hostinger-renewal-sonar20-zh-hant"
+      },
+      {
+        "slug": "vps-or-shared-hosting-zh-hant"
+      },
+      {
+        "slug": "best-vps-for-openclaw-zh-hant"
+      },
+      {
         "slug": "hostinger-trust-guide-zh-hant"
       },
       {
         "slug": "hostinger-trustpilot-reviews-zh-hant"
-      },
-      {
-        "slug": "hostinger-referral-code-zh-hant"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你要購買新方案，並想用你打算使用的最長期間鎖定活動價。",
+        "你清楚哪個方案適合你的專案：WordPress 選 Premium，Node.js 選 Unlimited 或 Cloud。",
+        "你已經看過續約價格，而且第一個期間結束後，預算仍然負擔得起。"
+      ],
+      "skipIf": [
+        "你只是想續約已有的方案：活動價與 SONAR20 都不適用於續約。",
+        "你打算按月付款：活動的最低價在較長的期間上。"
+      ]
+    }
   },
   {
     "id": 512,
@@ -99834,7 +105081,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger 黑色星期五 2026 已经开始，持续到 12 月 14 日，优惠码 SONAR20 在活动价上再减 20%。续费与核对方法。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -99846,23 +105093,159 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Hostinger 的黑色星期五已经开始：从 2026 年 10 月 19 日持续到 12 月 14 日。活动价会自动生效，在购物车的优惠码栏输入代码 **SONAR20**，可在此基础上再减 20%。真正影响费用的是续费，下面会说明。"
+          "Hostinger 的黑色星期五已经开始：从 2026 年 10 月 19 日持续到 12 月 14 日。活动价会自动生效，在购物车的优惠码栏输入代码 **SONAR20**，可在此基础上对新购再减 20%。续费按标价收费，没有折扣。下面按网站托管和 VPS 方案逐个算出价格。"
         ]
       },
       {
         "heading": "Hostinger 的黑色星期五已经开始了吗？",
         "paragraphs": [
           "已经开始。Hostinger 官方 FAQ 写道：“Hostinger 黑色星期五促销从 2026 年 10 月 19 日持续到 12 月 14 日。”英文全球页面给出的日期相同。",
-          "11 月 3 日，美元版活动页面显示网站托管 85% 折扣、VPS 67% 折扣、Reach（邮件营销）75% 折扣。这是横幅数字，并非每个方案的折扣。",
-          "以下数字只针对 2026 年的活动，取自官方页面。"
-        ],
-        "images": []
+          "2026 年 11 月 16 日，英文全球页面的横幅显示网站托管最高 85% 折扣，VPS 最高 70% 折扣。这是横幅数字，按各方案的原价计算：每个方案实际要付多少，见下面的表格。"
+        ]
       },
       {
-        "heading": "活动价加 SONAR20 要付多少",
+        "heading": "各方案要付多少：活动价、SONAR20 与续费",
+        "paragraphs": [
+          "Hostinger 一次性收取整个周期的费用，并折算成每月价格显示。所以表格同时给出这两个数字：折算的月价，以及首个周期实际扣款的总价，分别是使用 SONAR20 前和使用后。最后一列是续费价格，没有活动折扣，也没有优惠码折扣。",
+          "Single 方案在 2026 年 11 月 16 日的英文全球页面上没有列出（只有 Premium、Unlimited 和 Cloud Startup）。一些地区页面仍在销售 Single（1 个网站，10 GB），全球页面在这一天没有显示它，所以表中该行没有价格。"
+        ],
+        "comparisonTable": {
+          "caption": "Hostinger 全球站点，以美元计价。网站托管按 48 个月方案，VPS 按 24 个月方案。SONAR20 后的总价是周期总价再减 20%，与购物车的算法一致。",
+          "headers": [
+            "方案与周期",
+            "活动价每月",
+            "使用 SONAR20 后每月",
+            "周期总价（活动价）",
+            "使用 SONAR20 后总价",
+            "续费每月"
+          ],
+          "rows": [
+            [
+              "Single，48 个月（全球页面未列出）",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—"
+            ],
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)，48 个月",
+              "US$ 1.99",
+              "US$ 1.59",
+              "US$ 95.52",
+              "US$ 76.42",
+              "US$ 10.99"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)，48 个月",
+              "US$ 2.79",
+              "US$ 2.23",
+              "US$ 133.92",
+              "US$ 107.14",
+              "US$ 16.99"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)，48 个月",
+              "US$ 7.99",
+              "US$ 6.39",
+              "US$ 383.52",
+              "US$ 306.82",
+              "US$ 25.99"
+            ],
+            [
+              "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)，24 个月",
+              "US$ 6.49",
+              "US$ 5.19",
+              "US$ 155.76",
+              "US$ 124.61",
+              "US$ 11.99"
+            ],
+            [
+              "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)，24 个月",
+              "US$ 8.79",
+              "US$ 7.03",
+              "US$ 210.96",
+              "US$ 168.77",
+              "US$ 14.99"
+            ],
+            [
+              "[VPS KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)，24 个月",
+              "US$ 12.99",
+              "US$ 10.39",
+              "US$ 311.76",
+              "US$ 249.41",
+              "US$ 28.99"
+            ],
+            [
+              "[VPS KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)，24 个月",
+              "US$ 25.99",
+              "US$ 20.79",
+              "US$ 623.76",
+              "US$ 499.01",
+              "US$ 49.99"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-zh-hans.webp",
+          "alt": "Hostinger 各套餐每月价格的柱状图，比较首期与续费：主机有 Premium、Unlimited、Cloud Startup，VPS 有 KVM 1、2、4、8；每个套餐的续费价都更高",
+          "caption": "每个套餐两根柱子：首期与续费的每月价格。由 Em Casa com Cecília 依据 Hostinger 页面上的价格制作的表格。",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
         "postParagraphs": [
-          "折扣是在活动价的基础上计算的。2026 年 11 月 7 日，在全球站点的购物车中，48 个月的 Startup 方案在优惠码栏（“Have a coupon code?”）输入 SONAR20 后，从 383.52 美元降到 306.82 美元。方案、活动和国家都可能改变总价，请以购物车里的金额为准。",
-          "代码贴在哪里，以及为什么续费没有折扣，见 [Hostinger 优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
+          "以上价格取自 2026 年 11 月 16 日的英文全球站点，以美元计价。购物车在填写账单地址之前显示的预估税额为 0%，所以之后可能会加上当地税费。换算成其他货币只是估算。使用 SONAR20 后的总价是周期总价减去 20%，精确到分。用四舍五入后的月价来算，会差出几分钱，与实际扣款对不上。",
+          "我们在不登录的情况下核对了购物车：2026 年 11 月 16 日的 24 个月 KVM 1，已应用优惠码 SONAR20，总价从 US$ 155.76 降到 US$ 124.61；2026 年 11 月 7 日的 48 个月 Cloud Startup，从 US$ 383.52 降到 US$ 306.82。其他方案的数字是同一算法：页面总价减 20%。购物车会在付款前显示折扣：请核对你自己的。",
+          "**更短的周期。** 以 KVM 1 为例，使用 SONAR20 后，24 个月是 US$ 124.61（每月 US$ 5.19，续费每月 US$ 11.99），12 个月是 US$ 67.10（每月 US$ 5.59，续费每月 US$ 12.99），1 个月是 US$ 7.99（续费每月 US$ 19.49）。周期越短，每月越贵，续费价也更高。同一天，在另一个地区商店的 Premium 购物车里，代码在 12、24 和 48 个月都被接受，在没有活动价的 1 个月方案上被拒绝。想按月付款的人，请先在购物车里试一下代码，再决定是否指望它。",
+          "**续费。** SONAR20 的 20% 适用于新购，已经是客户、购买新方案的人也适用。已有方案的续费和单独注册域名，代码不提供折扣。例如，24 个月的 KVM 1 按同样的周期续费，每月 US$ 11.99。完整的续费计算见 [Hostinger 续费与 SONAR20](/zh-hans/reviews/hostinger-renewal-sonar20-zh-hans)。",
+          "代码填在哪里，一步一步的说明见 [Hostinger 优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "网站托管选哪个：Premium、Unlimited 还是 Cloud Startup",
+        "paragraphs": [
+          "选择取决于你要放几个网站，以及网站是怎么做的。下面的限制来自 Hostinger 的方案页面和限制文档。"
+        ],
+        "bullets": [
+          "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)：3 个网站，20 GB 存储。Hostinger 自己的 FAQ 向大多数个人、企业和 WordPress 网站推荐它。没有 Node.js 应用。",
+          "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)：网站数量不限，50 GB NVMe，每日备份。这是第一个支持 Node.js 应用的托管方案：文档写明最多 5 个 Node.js 网站。",
+          "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)：网站数量不限，100 GB NVMe，独立资源，最多 10 个 Node.js 网站。适合流量或项目数量已经超过共享托管承受范围的情况。"
+        ],
+        "postParagraphs": [
+          "**Node.js 会改变选择。** 按 Hostinger 的限制文档，Premium 没有 Node.js 网站。例如要发布 Next.js 项目，就从 Unlimited 或 Cloud 方案开始。WordPress 或 PHP 网站在这三个方案里都能放。",
+          "负责本站的 Bruno 从 2024 年起就是 Hostinger 客户，有网站托管、VPS KVM 2、邮箱和域名。Em Casa com Cecília 运行在他 2024 年购买的 Business 合同上，使用 Node.js。按现在的方案表，Hostinger 在大多数页面把原来的 Business 作为 Unlimited 销售，而原来的 Business 客户保留自己的方案和限制。也就是说，他的使用经验适用于现在的 Unlimited 或 Cloud，不适用于 Premium。"
+        ]
+      },
+      {
+        "heading": "VPS 选哪个：KVM 1、2、4 还是 8",
+        "paragraphs": [
+          "VPS 适合需要在面板之外安装程序、预留 CPU 和内存，或以 root 身份访问服务器的人。如果这三个问题的答案都是“不”，共享托管就够了，而且更便宜：对比见 [VPS 还是共享托管](/zh-hans/reviews/vps-or-shared-hosting-zh-hans)。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hans.webp",
+            "alt": "“选择之前的三个问题”图表：要在面板之外安装系统或程序、要预留 CPU 和内存、要 root 权限，这三项指向 VPS；三个答案都是“不”则指向共享托管",
+            "caption": "区分 VPS 与共享托管的三个问题。Em Casa com Cecília 制作的图表。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7787
+          },
+          {
+            "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-zh-hans.webp",
+            "alt": "三行的图表：模型在服务器之外（API 密钥或额度）选 KVM 1；小型本地模型选 KVM 2（在边缘）或 KVM 4；上下文更大的本地模型或还要运行其他程序，选 KVM 4 或 KVM 8",
+            "caption": "依据 OpenClaw 的文档；没有性能实测。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "bullets": [
+          "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)：1 个 vCPU 核心，4 GB 内存，50 GB NVMe。适合个人项目、小型网站或单个应用。",
+          "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)：2 个核心，8 GB 内存，100 GB。适合成长中的网站、网店或同时跑几个应用。这是 Bruno 在用的 VPS。",
+          "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)：4 个核心，16 GB 内存，200 GB。适合数据库、多个服务或高流量。",
+          "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)：8 个核心，32 GB 内存，400 GB。适合代理商和很吃内存的应用。"
+        ],
+        "postParagraphs": [
+          "**用来运行 OpenClaw。** 如果模型在服务器之外，通过 API 密钥或额度调用，代理本身很轻，KVM 1 就可以作为起点。本地模型则是另一回事。OpenClaw 文档说，内存取决于模型、上下文长度，以及机器上还运行着什么。它记录的本地配置使用 64K 上下文，其中最小的一档要求服务器至少有 8 GiB 内存；更大的要求更多，文档也提醒，这个下限并不保证模型放得下，更不保证跑得快。",
+          "按这把尺子来看：4 GB 的 KVM 1 低于下限。KVM 2 有 8 GB，约 7.5 GiB，正好在边缘，留给系统和 Docker 的余量不够。KVM 4 和 KVM 8 才能为这个较小的配置留出余量。KVM 系列运行在 vCPU 上，没有列出独立 GPU，所以大型本地模型不是它们的用途。具体步骤见[适合 OpenClaw 的最佳 VPS](/zh-hans/reviews/best-vps-for-openclaw-zh-hans)。"
         ]
       },
       {
@@ -99870,9 +105253,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "如果这周就需要让网站上线，请比较当前使用 SONAR20 前后的总价，也看续费价格。优惠码确实会从活动价里减掉一部分，但这不保证到黑色星期五结束前都是最低价。",
           "如果可以等，要知道活动持续到 12 月中旬，但在那之前没有任何价格有保证。SONAR20 的 20% 是从活动价里减的：活动一变，总价也会跟着变。",
-          "Hostinger FAQ 为大多数个人、企业和 WordPress 网站推荐 Premium。Hostinger 建议刚起步或项目简单的用户选 Single。VPS 请在购物车中计算总价：11 月 3 日的美元版横幅显示 67% 折扣。",
-          "如果你已经是客户，请查看账户里的升级优惠：FAQ 说现有客户可能会收到单独的优惠。SONAR20 也适用于新方案。",
-          "负责本站的 Bruno 从 2024 年起就是 Hostinger 客户，订阅已超过 24 个月。他的方案有 Business 托管、VPS KVM 2、邮箱和域名，全部自动续费。Em Casa com Cecília 就运行在 Hostinger 上。"
+          "如果你已经是客户，请查看账户里的升级优惠：FAQ 说现有客户可能会收到单独的优惠。SONAR20 也适用于新方案。"
         ]
       },
       {
@@ -99881,20 +105262,24 @@ export const reviewsData: unknown[] = [
           "打开[本站商店页面上的 Hostinger](/zh-hans/coupons/hostinger)，复制代码 SONAR20。",
           "在购物车的优惠码栏粘贴 SONAR20，看到 20% 的折扣出现在活动价之上。",
           "比较第一个周期的总价，而不只是每月价格。总价才能显示真实差别。",
-          "结账前先看续费价格。Hostinger 会在付款前显示，而且它不是活动价。SONAR20 的 20% 适用于所有新购，续费按标价收费，没有折扣。"
+          "结账前先换一下周期：不同期限的折算月价可能相同，而周期决定续费什么时候到来。",
+          "结账前先看续费价格。Hostinger 会在付款前显示，而且它不是活动价。SONAR20 的 20% 适用于所有新购，已经是客户的人也一样；续费按标价收费。"
         ],
         "postParagraphs": [
-          "付款前，保障涵盖什么、不涵盖什么，见[Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
+          "付款前，公司的口碑记录见 [Hostinger 的 Trustpilot 评价](/zh-hans/reviews/hostinger-trustpilot-reviews-zh-hans)，保障涵盖什么、不涵盖什么，见[Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
         ]
       },
       {
         "heading": "常见问题",
         "bullets": [
-          "Hostinger 的黑色星期五什么时候开始，持续多久？已经开始，持续到 12 月中旬；确切日期在文章开头的快速回答里。美元版活动页面显示网站托管 85% 折扣、VPS 67% 折扣、Reach 75% 折扣。",
+          "Hostinger 的黑色星期五什么时候开始，持续多久？已经开始，持续到 12 月中旬；确切日期在文章开头的快速回答里。英文全球页面显示网站托管最高 85% 折扣，VPS 最高 70% 折扣。",
           "Hostinger 的黑色星期五有优惠码吗？活动价会自动生效，在购物车的优惠码栏输入代码 SONAR20，可在此基础上再减 20%。我们不提其他网站的代码。",
-          "Hostinger 的黑色星期五到什么时候？据官方 FAQ，到 12 月中旬；确切日期在文章开头。",
+          "黑色星期五该买 Hostinger 的哪个方案？一个网站，选 Premium。需要 Node.js 或很多网站，选 Unlimited。流量高，选 Cloud Startup。只有需要 root、面板之外的程序或预留内存时才选 VPS。Single 只在部分地区页面销售。",
+          "Hostinger 的 Premium 方案能运行 Node.js 吗？不能。按 Hostinger 的限制文档，Node.js 网站从 Unlimited 起，最多 5 个，Cloud 方案最多 10 个。",
+          "哪个 Hostinger VPS 适合 OpenClaw？模型通过 API 密钥调用，选 KVM 1。本地模型的话，OpenClaw 文档记录的最小配置要求 8 GiB 内存：KVM 2 正好在边缘，KVM 4 有余量。",
           "黑色星期五的价格续费时还有效吗？没有。它只适用于订阅的首个周期。续费按方案的正常价格收取。",
           "SONAR20 能和黑色星期五价格一起用吗？可以：20% 是从活动价里减的。由于价格会变，请在购物车里核对总价。",
+          "SONAR20 能用在 1 个月的方案上吗？看方案。我们在 11 月中旬的测试中，代码在 1 个月的 KVM 1 上被接受，在另一个地区商店的 1 个月 Premium 上被拒绝；请在你自己的购物车里试。",
           "黑色星期五期间退款保障有效吗？FAQ 说符合条件的方案有 30 天保障，附带条款和例外。不涵盖的内容见[Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。",
           "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
@@ -99913,15 +105298,35 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Hostinger 托管着本站。使用代码 SONAR20 或通过链接购买，Bruno 可能获得佣金，你无需多付任何费用。付款前请在购物车里核对总价。",
     "relatedArticles": [
       {
+        "slug": "hostinger-referral-code-zh-hans"
+      },
+      {
+        "slug": "hostinger-renewal-sonar20-zh-hans"
+      },
+      {
+        "slug": "vps-or-shared-hosting-zh-hans"
+      },
+      {
+        "slug": "best-vps-for-openclaw-zh-hans"
+      },
+      {
         "slug": "hostinger-trust-guide-zh-hans"
       },
       {
         "slug": "hostinger-trustpilot-reviews-zh-hans"
-      },
-      {
-        "slug": "hostinger-referral-code-zh-hans"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你要购买新方案，并想把活动价锁定在你打算使用的最长周期上。",
+        "你知道哪个方案适合你的项目：WordPress 选 Premium，Node.js 选 Unlimited 或 Cloud。",
+        "你已经看过续费价格，而且第一个周期结束后它仍在你的预算之内。"
+      ],
+      "skipIf": [
+        "你只是想续费已有的方案：活动价和 SONAR20 都不适用于续费。",
+        "你打算按月付款：活动的最低价在长周期上。"
+      ]
+    }
   },
   {
     "id": 513,

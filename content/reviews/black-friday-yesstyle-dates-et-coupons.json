@@ -19,7 +19,7 @@
   "metaDescription": "YesStyle a-t-il un Black Friday ? Oui, il est en cours : Mega Sale, coupon par palier de 8 à 15 % et cumul avec le code récompense CECILIA010.",
   "publishedAt": "11 octobre 2026",
   "publishedAtISO": "2026-10-11",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-16",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -35,7 +35,7 @@
     "YesStyle rembourse les frais de douane sur les commandes éligibles de moins de 1 000 US$, sous forme de crédit en boutique"
   ],
   "cons": [
-    "La date de fin et les jours à 15 % sans minimum de 2026 ne sont pas encore sortis : la suite est une estimation d'après l'historique",
+    "Les dates de fin et les jours à 15 % sans montant minimum pour tous les pays ne sont pas encore sortis : la suite est une estimation d'après l'historique",
     "Le coupon par palier du Black Friday est le même que le reste de l'année",
     "Les coupons sont réservés aux membres, valables un par commande, et ne réduisent pas les frais de port",
     "Achat international : le délai de livraison est plus long que celui d'une boutique locale"
@@ -50,7 +50,7 @@
     {
       "heading": "Quand commence le Black Friday de YesStyle",
       "paragraphs": [
-        "YesStyle publie les règles de chaque coupon dans le centre d'aide du site, avec le jour et l'heure de début et de fin. Le tableau ci-dessous donne les dates de 2025 ; en 2024, les phases ont suivi le même ordre et ont commencé un ou deux jours plus tard. En 2026, la campagne a déjà commencé : le 3 novembre, la page d'accueil de la boutique affiche la « Black Friday Mega Sale », avec des offres par produit et des bannières jusqu'à 50 % de remise, et le coupon par palier du moment (8 % dès 79 US$, 10 % dès 149 US$ et 15 % dès 199 US$), que la boutique change tous les quelques jours : vérifiez celui en cours avant d'acheter. La fin d'un coupon ne signifie pas la fin de la campagne. La livraison standard gratuite dès 35 US$ dépend de la destination : la page de paiement affiche la vôtre. La date de fin et les jours à 15 % sans minimum de 2026 ne sont pas encore sortis."
+        "YesStyle publie les règles de chaque coupon dans le centre d'aide du site, avec le jour et l'heure de début et de fin. Le tableau ci-dessous donne les dates de 2025 ; en 2024, les phases ont suivi le même ordre et ont commencé un ou deux jours plus tard. En 2026, la campagne a déjà commencé : le 3 novembre, la page d'accueil de la boutique affiche la « Black Friday Mega Sale », avec des offres par produit et des bannières jusqu'à 50 % de remise, et le coupon par palier du moment (8 % dès 79 US$, 10 % dès 149 US$ et 15 % dès 199 US$), que la boutique change tous les quelques jours : vérifiez celui en cours avant d'acheter. La fin d'un coupon ne signifie pas la fin de la campagne. La livraison standard gratuite dès 35 US$ dépend de la destination : la page de paiement affiche la vôtre. À la mi-novembre, la boutique a aussi ouvert un coupon de 15 % sur toute commande, sans montant minimum, pour les livraisons aux États-Unis, au Royaume-Uni et au Canada ; pour les autres destinations, le coupon par palier reste valable. Les dates de fin de la campagne et des jours à 15 % sans minimum pour tous les pays ne sont pas encore sorties."
       ],
       "comparisonTable": {
         "caption": "Coupons ouverts à tous les membres en 2025, d'après les pages d'aide de YesStyle ; chaque phase dure jusqu'au début de la suivante. Dates en heure GMT, qui est celle qui compte pour la boutique.",
@@ -196,9 +196,27 @@
       ]
     },
     {
-      "heading": "Une idée de panier : la routine Abib",
+      "heading": "Quoi acheter : comment nous lisons les prix",
       "paragraphs": [
-        "Dans la vidéo à la fin de cet article, Cecília teste trois produits de la marque coréenne Abib reçus de YesStyle : le patch hydrogel pour les yeux, la crème booster au PDRN et le masque pour les lèvres. C'est une routine courte pour qui débute dans le skincare coréen, et un bon point de départ pour composer le panier du Black Friday."
+        "Les prochaines sections présentent les produits qui valent le panier, marque par marque. Tous les prix ont été lus le 16 novembre 2026 sur la boutique en anglais de YesStyle, avec livraison aux États-Unis, en dollars. C'est le prix promotionnel du jour, presque toujours avec l'étiquette de vente flash, avant le coupon de la semaine et CECILIA010. Le prix change d'un jour à l'autre et d'un pays à l'autre : la valeur qui compte est celle de votre panier.",
+        "YesStyle se déclare revendeur agréé d'Abib, de medicube, de celimax, de Centellian24, de Dr. Althea, de Beauty of Joseon et de Dr. Ceuracle sur la page de chaque produit. Sur les pages Shiseido que nous avons ouvertes, cette phrase n'apparaît pas. Les ingrédients cités sont ceux de la liste publiée sur la page de chaque produit à cette date ; l'emballage reçu fait foi."
+      ],
+      "links": [
+        {
+          "label": "Voir les offres Black Friday sur YesStyle",
+          "href": "https://ystyle.co/4RRfd",
+          "sponsored": true
+        },
+        {
+          "label": "Voir le coupon YesStyle du jour et le code CECILIA010",
+          "href": "/fr/coupons/yesstyle"
+        }
+      ]
+    },
+    {
+      "heading": "La routine Abib que Cecília a testée : yeux, visage et lèvres",
+      "paragraphs": [
+        "Dans la vidéo à la fin de cet article, Cecília teste trois produits d'Abib reçus de YesStyle. Ce sont les seuls de cette liste dont nous avons une expérience d'usage, racontée dans [Skincare coréen à 30 ans : la routine Abib](/fr/reviews/skincare-coreen-a-30-ans-routine-debutante-abib-yesstyle). Les trois contiennent du PDRN, et deux du rétinal."
       ],
       "images": [
         {
@@ -206,27 +224,381 @@
           "alt": "Cecília souriante, tenant le pot de patchs hydrogel pour les yeux d'Abib et un patch rose",
           "caption": "Le patch hydrogel pour les yeux d'Abib, dans la vidéo de Cecília.",
           "objectFit": "contain",
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7778,
+          "href": "https://ystyle.co/cn2Z5"
         },
         {
           "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
           "alt": "Cecília tenant près du visage le tube blanc de la crème booster au PDRN d'Abib",
           "caption": "La crème booster au PDRN d'Abib.",
           "objectFit": "contain",
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7778,
+          "href": "https://ystyle.co/q5SUZ"
         },
         {
           "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
           "alt": "Cecília faisant une moue et tenant le pot rose du masque pour les lèvres d'Abib",
           "caption": "Le masque pour les lèvres d'Abib.",
           "objectFit": "contain",
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7778,
+          "href": "https://ystyle.co/TS7jZ"
         }
+      ],
+      "comparisonTable": {
+        "caption": "Les trois produits d'Abib testés par Cecília, avec le prix en dollars sur la boutique des États-Unis, avant le coupon de la semaine et CECILIA010.",
+        "headers": [
+          "Produit",
+          "Taille",
+          "Prix du jour",
+          "Coût par quantité",
+          "Ce que la page déclare"
+        ],
+        "rows": [
+          [
+            "[Abib PDRN Retinal Eye Patch Glow Jelly](https://ystyle.co/cn2Z5)",
+            "60 patchs",
+            "18,40 US$ (plein tarif : 23,00 US$)",
+            "0,31 US$ le patch",
+            "PDRN végétal, rétinal, collagène, niacinamide et caféine"
+          ],
+          [
+            "[Abib PDRN Volume Fill-it Booster Crème 2.5 Tube](https://ystyle.co/q5SUZ)",
+            "30 ml",
+            "22,40 US$ (plein tarif : 28,00 US$)",
+            "7,47 US$ les 10 ml",
+            "15 000 ppm de PDRN, 10 000 ppm de Volufiline, rétinal et peptides"
+          ],
+          [
+            "[Abib PDRN Collagen Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ)",
+            "11 g",
+            "16,00 US$ (plein tarif : 20,00 US$)",
+            "1,45 US$ le gramme",
+            "PDRN d'origine végétale, collagène et centella ; contient du parfum"
+          ]
+        ]
+      },
+      "bullets": [
+        "**Pour les yeux :** le [patch hydrogel](https://ystyle.co/cn2Z5) se vend en pot de 60 unités, soit 30 applications pour les deux yeux. Lors de notre lecture, la page le montrait comme le plus vendu de la catégorie des masques pour les yeux de la boutique.",
+        "**Pour le visage :** le [Booster Crème 2.5](https://ystyle.co/q5SUZ) se vend en tube de 30 ml. C'est le plus cher au millilitre des trois ; la page vend aussi la miniature de 10 ml, utile pour tester avant le tube plein.",
+        "**Pour les lèvres :** la [Lip Mask Glazed Jelly](https://ystyle.co/TS7jZ) se vend en pot de 11 g. C'est la seule des trois sans rétinal dans la liste d'ingrédients.",
+        "**Attention au rétinal :** le patch et la crème contiennent du rétinal, un rétinoïde. Utilisez-les le soir, mettez de la crème solaire le jour et ne les associez pas, la même nuit, aux disques exfoliants de la section suivante. Les femmes enceintes et celles qui allaitent ne doivent utiliser un rétinoïde que sur avis médical.",
+        "**Le kit de deux :** les trois existent en kit de deux unités, avec une remise plus forte par unité. Il ne vaut le coup que pour qui utilise déjà le produit."
       ],
       "links": [
         {
+          "label": "Voir le patch pour les yeux Abib PDRN sur YesStyle",
+          "href": "https://ystyle.co/cn2Z5",
+          "sponsored": true
+        },
+        {
+          "label": "Voir le Booster Crème 2.5 au PDRN d'Abib sur YesStyle",
+          "href": "https://ystyle.co/q5SUZ",
+          "sponsored": true
+        },
+        {
+          "label": "Voir la Lip Mask Glazed Jelly d'Abib sur YesStyle",
+          "href": "https://ystyle.co/TS7jZ",
+          "sponsored": true
+        },
+        {
           "label": "Comment s'est passée la routine Abib, produit par produit",
           "href": "/fr/reviews/skincare-coreen-a-30-ans-routine-debutante-abib-yesstyle"
+        }
+      ]
+    },
+    {
+      "heading": "Abib sans rétinoïde : masque en tissu et gel hydratant",
+      "paragraphs": [
+        "Pour qui ne peut pas ou ne veut pas utiliser de rétinal, Abib a deux produits que la boutique elle-même classe parmi les plus vendus de la marque. La liste d'ingrédients publiée sur la page des deux ne mentionne ni rétinal ni rétinol."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/black-friday-yesstyle-abib-sem-retinoide.webp",
+        "alt": "Les cinq versions du masque en tissu Gummy Sheet Mask d'Abib, dans des emballages noirs, à côté du tube noir du Hydration Gel Water Tube",
+        "caption": "Gummy Sheet Mask et Hydration Gel Water Tube, d'Abib. Photos de produit : YesStyle.",
+        "objectFit": "contain",
+        "aspectRatio": 1.9562
+      },
+      "bullets": [
+        "**Abib Gummy Sheet Mask, version Madecassoside Sticker :** masque en tissu de 27 g, vendu à l'unité, à 3,20 US$ (plein tarif : 4,90 US$). La page décrit cette version comme celle qui hydrate et apaise. La même page vend quatre autres versions : vérifiez que vous avez choisi la Madecassoside avant de l'ajouter au panier.",
+        "**Abib Hydration Gel Water Tube :** gel hydratant de 75 ml, à 27,30 US$ (plein tarif : 39,00 US$), soit 3,64 US$ les 10 ml. La page indique qu'il ne contient pas de parfum ajouté et laisse un fini frais, sans effet lourd."
+      ],
+      "links": [
+        {
+          "label": "Voir la sélection Abib sur YesStyle",
+          "href": "https://ystyle.co/fH8cM",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Pores et texture : medicube et celimax",
+      "paragraphs": [
+        "Ici, le choix se fait entre deux disques exfoliants. Ce sont deux pots de disques imbibés de tonique à l'acide, et la différence tient à la formule et au prix par disque."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/black-friday-yesstyle-poros-medicube-celimax.webp",
+        "alt": "Quatre produits en grille : pot bleu du Zero Pore Pad et tube du Red Foam Cleanser, de medicube, et pot vert du Heartleaf BHA Peeling Pad et flacon lilas de l'huile nettoyante, de celimax",
+        "caption": "Zero Pore Pad et Red Foam Cleanser, de medicube ; Heartleaf BHA Peeling Pad et huile nettoyante Derma Nature, de celimax. Photos de produit : YesStyle.",
+        "objectFit": "contain",
+        "aspectRatio": 1
+      },
+      "comparisonTable": {
+        "caption": "Disques et nettoyants de medicube et de celimax, avec le prix en dollars sur la boutique des États-Unis, avant le coupon de la semaine et CECILIA010.",
+        "headers": [
+          "Produit",
+          "Taille",
+          "Prix du jour",
+          "Coût par quantité",
+          "Ce que la page déclare"
+        ],
+        "rows": [
+          [
+            "medicube Zero Pore Pad 2.0",
+            "70 disques",
+            "21,90 US$ (plein tarif : 31,00 US$)",
+            "0,31 US$ le disque",
+            "Acide lactique (AHA), acide salicylique (BHA), panthénol et centella ; contient de l'alcool"
+          ],
+          [
+            "medicube Zero Pore Pad Mild",
+            "70 disques (155 g)",
+            "21,90 US$ (plein tarif : 31,00 US$)",
+            "0,31 US$ le disque",
+            "Version douce du Zero Pore Pad, avec acide salicylique et PHA, d'après la description"
+          ],
+          [
+            "celimax JI.WOO.GAE Heartleaf BHA Peeling Pad",
+            "60 disques",
+            "15,75 US$ (plein tarif : 21,00 US$)",
+            "0,26 US$ le disque",
+            "Extrait de houttuynia (heartleaf), salicylate de bétaïne (BHA), madécassoside et acide hyaluronique"
+          ],
+          [
+            "medicube Red Foam Cleanser",
+            "120 ml",
+            "17,90 US$ (plein tarif : 34,00 US$)",
+            "14,92 US$ les 100 ml",
+            "Mousse nettoyante à 0,5 % d'acide salicylique"
+          ],
+          [
+            "celimax Derma Nature Fresh Blackhead Jojoba Cleansing Oil",
+            "150 ml",
+            "14,25 US$ (plein tarif : 19,00 US$)",
+            "9,50 US$ les 100 ml",
+            "Huile nettoyante avec six huiles végétales, dont celle de jojoba"
+          ]
+        ]
+      },
+      "bullets": [
+        "**Vous voulez le disque le plus fort :** le Zero Pore Pad 2.0 associe AHA et BHA et était le plus vendu de la catégorie des exfoliants de la boutique lors de notre lecture. La page elle-même recommande de ne pas l'utiliser avec d'autres acides forts et d'alterner les jours.",
+        "**Vous voulez commencer doucement :** le disque de celimax utilise du salicylate de bétaïne, revient moins cher par disque et la page le décrit comme doux pour un usage quotidien. Le Zero Pore Pad Mild est l'alternative chez medicube.",
+        "**Nettoyage :** l'huile de celimax coûte moins cher aux 100 ml que la mousse de medicube. La Red Erasing Cream, la crème de la même gamme Red, était en rupture de stock en format 50 ml, avec une attente d'environ trois semaines.",
+        "**Ne cumulez pas avec un rétinoïde :** un disque à l'acide et un produit au rétinal la même nuit, c'est la combinaison qui irrite le plus. Alternez les soirs."
+      ],
+      "links": [
+        {
+          "label": "Voir la sélection medicube sur YesStyle",
+          "href": "https://ystyle.co/ErjTv",
+          "sponsored": true
+        },
+        {
+          "label": "Voir la sélection celimax sur YesStyle",
+          "href": "https://ystyle.co/QJfLB",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Barrière et hydratation : Centellian24 et Dr. Althea",
+      "paragraphs": [
+        "Pour une peau sèche ou sensibilisée, les candidats sont les crèmes à la centella de Centellian24, marque du laboratoire coréen Dongkook, et les deux crèmes les plus vendues de Dr. Althea."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/black-friday-yesstyle-barreira-centellian24-dr-althea.webp",
+        "alt": "Quatre produits en grille : crème Madeca Cream Time Reverse et essence Madeca Toning Essence Treatment, de Centellian24, et crèmes 345 Relief Cream et 147 Barrier Cream, de Dr. Althea",
+        "caption": "Madeca Cream Time Reverse et Madeca Toning Essence Treatment, de Centellian24 ; 345 Relief Cream et 147 Barrier Cream, de Dr. Althea. Photos de produit : YesStyle.",
+        "objectFit": "contain",
+        "aspectRatio": 1
+      },
+      "comparisonTable": {
+        "caption": "Crèmes et essence de Centellian24 et de Dr. Althea, avec le prix en dollars sur la boutique des États-Unis, avant le coupon de la semaine et CECILIA010.",
+        "headers": [
+          "Produit",
+          "Taille",
+          "Prix du jour",
+          "Coût par quantité",
+          "Ce que la page déclare"
+        ],
+        "rows": [
+          [
+            "Centellian24 Madeca Cream Time Reverse",
+            "50 ml",
+            "24,00 US$ (plein tarif : 32,00 US$)",
+            "4,80 US$ les 10 ml",
+            "TECA (extrait titré de centella), niacinamide, collagène et rétinol"
+          ],
+          [
+            "Centellian24 Madeca Toning Essence Treatment",
+            "150 ml",
+            "22,50 US$ (plein tarif : 30,00 US$)",
+            "15,00 US$ les 100 ml",
+            "Extrait de centella, 10 ppm de TECA et niacinamide"
+          ],
+          [
+            "Dr. Althea 345 Relief Cream",
+            "50 ml",
+            "22,95 US$ (plein tarif : 27,00 US$)",
+            "4,59 US$ les 10 ml",
+            "Eau de feuille de tea tree, niacinamide, acide hyaluronique et céramide NP"
+          ],
+          [
+            "Dr. Althea 147 Barrier Cream",
+            "50 ml",
+            "22,95 US$ (plein tarif : 27,00 US$)",
+            "4,59 US$ les 10 ml",
+            "Squalane, acide hyaluronique, panthénol et céramide ; sans parfum artificiel"
+          ]
+        ]
+      },
+      "bullets": [
+        "**Le plus vendu de la boutique :** le 345 Relief Cream était en tête du classement général beauté de YesStyle lors de notre lecture, avec plus de 33 000 avis. La page le présente comme une crème pour après l'acné, qui réduit les rougeurs visibles.",
+        "**Pour une peau sèche sans parfum :** le 147 Barrier Cream est celui de la même marque destiné à former la barrière d'hydratation.",
+        "**La Madeca Cream contient du rétinol :** malgré sa réputation de crème à la centella, la formule du Time Reverse contient du rétinol. Même précaution que pour le rétinal d'Abib. Lors de notre lecture, le pot de 50 ml était en rupture de stock, avec une attente d'environ trois semaines ; la miniature de 15 ml coûtait 11,25 US$.",
+        "**Une étape légère avant la crème :** la Toning Essence Treatment est l'option à la centella sans rétinoïde dans la liste publiée, en flacon de 150 ml.",
+        "**Minis de 15 ml :** les deux crèmes de Dr. Althea existent en miniature à 8,42 US$, utile pour tester ou pour compléter le panier."
+      ],
+      "links": [
+        {
+          "label": "Voir la sélection Centellian24 sur YesStyle",
+          "href": "https://ystyle.co/2UD4F",
+          "sponsored": true
+        },
+        {
+          "label": "Voir la sélection Dr. Althea sur YesStyle",
+          "href": "https://ystyle.co/X94R9",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Éclat et protection : Beauty of Joseon, Dr. Ceuracle et Shiseido",
+      "paragraphs": [
+        "Le dernier groupe réunit une crème nourrissante, une ampoule à la propolis et les produits japonais de Shiseido, qui conviennent bien quand il manque peu pour que le panier atteigne un palier de coupon ou de livraison."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/black-friday-yesstyle-vico-joseon-ceuracle-shiseido.webp",
+        "alt": "Quatre produits en grille : pot ouvert de la Dynasty Cream de Beauty of Joseon, flacon de l'ampoule Royal Vita Propolis 33 et tube de la mousse Tea Tree Purifine, de Dr. Ceuracle, et boîte bleue de la crème solaire Anessa, de Shiseido",
+        "caption": "Dynasty Cream, de Beauty of Joseon ; Royal Vita Propolis 33 Ampoule et Tea Tree Purifine Cleansing Foam, de Dr. Ceuracle ; Anessa Perfect UV Sunscreen Skincare Milk, de Shiseido. Photos de produit : YesStyle.",
+        "objectFit": "contain",
+        "aspectRatio": 1
+      },
+      "comparisonTable": {
+        "caption": "Produits de Beauty of Joseon, de Dr. Ceuracle et de Shiseido, avec le prix en dollars sur la boutique des États-Unis, avant le coupon de la semaine et CECILIA010.",
+        "headers": [
+          "Produit",
+          "Taille",
+          "Prix du jour",
+          "Coût par quantité",
+          "Ce que la page déclare"
+        ],
+        "rows": [
+          [
+            "Beauty of Joseon Dynasty Cream",
+            "50 g",
+            "19,20 US$ (plein tarif : 24,00 US$)",
+            "3,84 US$ les 10 g",
+            "Eau de son de riz, eau de racine de ginseng, niacinamide et squalane"
+          ],
+          [
+            "Beauty of Joseon Dynasty Cream Jumbo",
+            "100 ml",
+            "27,20 US$ (plein tarif : 34,00 US$)",
+            "2,72 US$ les 10 ml",
+            "La même formule, en grand pot"
+          ],
+          [
+            "Dr. Ceuracle Royal Vita Propolis 33 Ampoule Jumbo",
+            "30 ml",
+            "23,55 US$ (plein tarif : 31,40 US$)",
+            "7,85 US$ les 10 ml",
+            "33,5 % d'extrait de propolis, extrait de gelée royale, niacinamide et panthénol"
+          ],
+          [
+            "Dr. Ceuracle Tea Tree Purifine Cleansing Foam",
+            "150 g",
+            "15,60 US$ (plein tarif : 24,00 US$)",
+            "10,40 US$ les 100 g",
+            "Gel qui se transforme en mousse, avec 30 % d'extrait de tea tree"
+          ],
+          [
+            "Shiseido Anessa Perfect UV Sunscreen Skincare Milk",
+            "60 ml",
+            "15,05 US$ (plein tarif : 21,50 US$)",
+            "2,51 US$ les 10 ml",
+            "Crème solaire SPF 50+ PA++++, avec filtres minéraux et chimiques"
+          ],
+          [
+            "Shiseido Fino Premium Touch Hair Mask",
+            "230 g",
+            "11,62 US$ (plein tarif : 16,60 US$)",
+            "5,05 US$ les 100 g",
+            "Masque capillaire à la gelée royale ; première place des soins capillaires de la boutique"
+          ]
+        ]
+      },
+      "bullets": [
+        "**Dynasty Cream, pot de 50 g ou Jumbo :** le Jumbo revient environ 30 % moins cher à la quantité, mais c'est le double de crème. Il ne vaut le coup que pour qui l'utilise tous les jours ; pour une première fois, le pot de 50 g.",
+        "**Ampoule à la propolis :** c'est l'article éclat de la liste, avec une texture que la page compare à celle du miel. Elle s'applique après le tonique et avant la crème.",
+        "**Crème solaire :** l'Anessa est celle qui clôt la routine de qui a acheté un produit au rétinal ou au rétinol parmi les sections ci-dessus.",
+        "**Pour compléter le panier :** le masque capillaire Fino et les coussinets de rechange du recourbe-cils Shiseido (3 pièces pour 3,14 US$) sont des articles bon marché et utiles quand il manque quelques dollars pour atteindre le palier. Dans la gamme Benefiance, la Wrinkle Smoothing Cream coûtait 115,40 US$ et n'avait pas de remise lors de notre lecture."
+      ],
+      "links": [
+        {
+          "label": "Voir la sélection Beauty of Joseon sur YesStyle",
+          "href": "https://ystyle.co/1PRZC",
+          "sponsored": true
+        },
+        {
+          "label": "Voir la sélection Dr. Ceuracle sur YesStyle",
+          "href": "https://ystyle.co/aQ7Bk",
+          "sponsored": true
+        },
+        {
+          "label": "Voir la sélection Shiseido sur YesStyle",
+          "href": "https://ystyle.co/BxprE",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Le calcul d'un panier avec le coupon de la semaine et CECILIA010",
+      "paragraphs": [
+        "Un exemple avec les prix ci-dessus : le patch pour les yeux d'Abib (18,40 US$), le Booster Crème (22,40 US$), le disque de celimax (15,75 US$), la 345 Relief Cream (22,95 US$) et la crème solaire Anessa (15,05 US$) font 94,55 US$. Ce panier dépasse le palier de 79 US$ du coupon par palier."
+      ],
+      "bullets": [
+        "**Avec le coupon par palier de 8 % :** le coupon, dans le champ Coupon Code, retire 7,56 US$.",
+        "**Avec 15 % sur toute commande :** la remise du coupon monte à 14,18 US$. À la mi-novembre, la boutique avait un coupon de ce type, sans montant minimum, pour les livraisons aux États-Unis, au Royaume-Uni et au Canada.",
+        "**Plus CECILIA010 :** dans le champ Reward Code, c'est 5 % sur la première commande ou 2 % sur les suivantes, en plus du coupon. Sur 94,55 US$, 5 % font 4,73 US$ et 2 % font 1,89 US$.",
+        "**L'ordre du calcul appartient à la boutique :** nous n'avons pas confirmé si les 5 % s'appliquent sur le montant plein ou sur le montant déjà réduit par le coupon. Le récapitulatif de commande affiche les deux lignes de remise avant le paiement."
+      ],
+      "postParagraphs": [
+        "**La langue de la page ne définit pas le pays de livraison.** Les paliers de 79, 149 et 199 US$, la livraison standard gratuite dès 35 US$ et les 6 US$ de frais en dessous sont ce que la boutique affichait pour une livraison aux États-Unis, en dollars. Qui lit en français peut se trouver en France, en Belgique ou au Canada, et les conditions changent avec la destination : la devise, le minimum de livraison gratuite, le coupon du jour, la disponibilité de l'expédition et les règles de taxe et de remboursement des frais de douane. Vérifiez tout à la page de paiement, avec votre adresse, et dans les [règles de livraison de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732).",
+        "Ce que la boutique publie et les conditions pour la France, la Belgique et le Canada se trouvent dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada)."
+      ],
+      "links": [
+        {
+          "label": "Voir les offres Black Friday sur YesStyle",
+          "href": "https://ystyle.co/4RRfd",
+          "sponsored": true
+        },
+        {
+          "label": "Aller sur YesStyle avec le code CECILIA010",
+          "href": "https://ystyle.co/rQYQv",
+          "sponsored": true
+        },
+        {
+          "label": "Pas à pas du code récompense CECILIA010",
+          "href": "/fr/reviews/code-recompense-yesstyle-cecilia010"
         }
       ]
     },
@@ -235,13 +607,16 @@
       "bullets": [
         "Quand commence le Black Friday de YesStyle et combien de temps dure-t-il ? Il a déjà commencé : la page d'accueil de la boutique affiche la Black Friday Mega Sale et un coupon par palier. YesStyle n'a pas encore publié la fin ; en 2024 et 2025, les coupons portant le nom Black Friday ont duré jusqu'au Cyber Monday.",
         "Quel est le coupon YesStyle pendant le Black Friday ? Il change tous les quelques jours. La page YesStyle de ce site affiche le code de la semaine, avec la date.",
-        "Le coupon du Black Friday de YesStyle a-t-il un montant minimum ? Le coupon par palier en a un : 8 % à partir de 79 US$, 10 % à partir de 149 US$ et 15 % à partir de 199 US$. En 2024 et 2025, YesStyle a ouvert 15 % sans minimum les jours proches du vendredi et du Cyber Monday ; rien n'est encore annoncé pour 2026.",
+        "Le coupon du Black Friday de YesStyle a-t-il un montant minimum ? Le coupon par palier en a un : 8 % à partir de 79 US$, 10 % à partir de 149 US$ et 15 % à partir de 199 US$. En 2024 et 2025, YesStyle a ouvert 15 % sans minimum les jours proches du vendredi et du Cyber Monday ; en 2026, un coupon de 15 % sans minimum est déjà apparu à la mi-novembre pour les États-Unis, le Royaume-Uni et le Canada, et pour les autres pays rien n'est encore annoncé.",
         "Chez YesStyle, vaut-il mieux acheter pendant le Black Friday ou le Cyber Monday ? En 2024 et 2025, les deux ont eu 15 % sans minimum, donc le plafond du coupon a été le même. Ce qui change d'un jour à l'autre, c'est le prix promotionnel de chaque produit.",
         "YesStyle a-t-il des promotions en dehors du Black Friday ? Oui. Le coupon par palier, à 8 %, 10 % et 15 %, tourne presque toute l'année et change de nom tous les quelques jours.",
         "CECILIA010 est-il valable pendant le Black Friday ? Oui. Il va dans le champ Reward Code, et les règles des coupons du Black Friday indiquent qu'ils sont valables avec les Reward Codes.",
         "Peut-on utiliser deux coupons YesStyle dans la même commande ? Non : c'est un coupon par commande. Le code récompense est autre chose et va dans un autre champ de la page de paiement.",
         "Faut-il un compte YesStyle pour utiliser le coupon du Black Friday ? Oui. Les coupons sont réservés aux membres, et qui commande en invité n'a pas la remise.",
-        "Vais-je payer des taxes en achetant chez YesStyle ? Il peut y avoir un prélèvement à l'arrivée du colis. Sur les commandes éligibles de moins de 1 000 US$, YesStyle rembourse les frais de douane sous forme de crédit en boutique, si vous envoyez le justificatif dans les 30 jours suivant sa date. La taxe de vente, la TVA et la GST ne sont pas couvertes."
+        "Vais-je payer des taxes en achetant chez YesStyle ? Il peut y avoir un prélèvement à l'arrivée du colis. Sur les commandes éligibles de moins de 1 000 US$, YesStyle rembourse les frais de douane sous forme de crédit en boutique, si vous envoyez le justificatif dans les 30 jours suivant sa date. La taxe de vente, la TVA et la GST ne sont pas couvertes.",
+        "Qu'est-ce qui vaut la peine d'être acheté pendant le Black Friday de YesStyle ? Cela dépend de la routine. Le guide classe par besoin : les trois produits d'Abib que Cecília a testés, les disques exfoliants de medicube et de celimax, les crèmes de barrière de Centellian24 et de Dr. Althea et, pour l'éclat et la protection, Beauty of Joseon, Dr. Ceuracle et Shiseido.",
+        "Les prix en dollars de ce guide valent-ils pour tous les pays ? Non. Ils ont été lus sur la boutique en anglais, avec livraison aux États-Unis. La devise, le prix, la livraison gratuite et le coupon du jour changent avec la destination : la page de paiement affiche les conditions de votre adresse.",
+        "Puis-je utiliser le rétinal d'Abib avec des disques exfoliants ? La même nuit, ce n'est pas une bonne idée : un acide et un rétinoïde ensemble irritent facilement la peau. Alternez les soirs et utilisez une crème solaire le jour."
       ]
     }
   ],
@@ -264,5 +639,16 @@
     {
       "slug": "yesstyle-est-il-fiable-et-sur"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Vous recevez dans un pays où YesStyle livre et savez déjà quel produit manque à votre routine.",
+      "Votre panier dépasse un palier du coupon, ou vous pouvez attendre un jour à 15 % sur toute commande.",
+      "Vous n'avez pas encore utilisé CECILIA010 : les 5 % du Reward Code valent sur la première commande."
+    ],
+    "skipIf": [
+      "Votre pays ne figure pas dans la liste de livraison de YesStyle : vérifiez avant de composer le panier.",
+      "Vous alliez acheter un kit de deux unités d'un produit que vous n'avez jamais utilisé, uniquement pour la remise."
+    ]
+  }
 }
