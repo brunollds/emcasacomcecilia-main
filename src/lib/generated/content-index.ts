@@ -228292,5 +228292,783 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-bagaggio-como-usar"
       }
     ]
+  },
+  {
+    "id": 984,
+    "slug": "areia-para-gato-petz-custo-por-quilo",
+    "title": "Areia para gato na Petz: quanto custa o quilo de cada tipo",
+    "seoTitle": "Areia para gato na Petz: preço por quilo de cada tipo",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O preço por quilo das areias para gato vendidas na Petz, separadas por tipo, com o que a página de cada uma declara e como o cupom, a oferta e a retirada mudam a conta.",
+    "metaDescription": "O cupom EMCASA dá 10% OFF na Petz. Veja o preço por quilo de cada areia para gato, de argila a sílica, e quando o pacote grande não compensa.",
+    "publishedAt": "15 de novembro de 2026",
+    "publishedAtISO": "2026-11-15",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/petz/areia-para-gato-petz-custo-por-quilo-capa.webp",
+    "imageAlt": "Três pacotes de areia para gato da marca Petz, Ultra Absorção, Milho e Mandioca e Cereais, ao lado do título Areia para gato: o quilo de cada tipo e do cupom EMCASA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você quer pagar o mínimo por quilo: as areias de argila têm os quilos mais baratos da Petz.",
+        "Você já escolheu o tipo de areia e quer comparar as marcas pelo quilo, com o cupom na conta.",
+        "Você compra a areia junto com a ração: a sacola maior alcança o frete grátis e o desconto da retirada."
+      ],
+      "skipIf": [
+        "Você quer saber qual areia rende mais ou segura melhor o cheiro: isso pede uso, e aqui a comparação é de preço e composição.",
+        "Você conta com o cupom somado à oferta: a sacola não soma os dois, fica o desconto maior."
+      ]
+    },
+    "cta": {
+      "text": "Entre pelo botão: ele abre a loja emcasa dentro da Petz, sem o cupom aplicado. Cole o EMCASA na sacola e confira o desconto em cada areia antes de pagar.",
+      "label": "Ir para a Petz",
+      "url": "https://petz.com.br/parceiro/emcasa",
+      "sponsored": true
+    },
+    "coupon": "EMCASA",
+    "affiliate": "petz",
+    "editorialNote": "Feito com os preços e as fichas das páginas da Petz e um teste da sacola, sem finalizar a compra. Ninguém da equipe usou as areias. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-petz-como-usar"
+      },
+      {
+        "slug": "petz-entrega-expressa-ou-retirar-na-loja"
+      },
+      {
+        "slug": "assinatura-petz-ou-cupom"
+      },
+      {
+        "slug": "petz-ou-cobasi"
+      },
+      {
+        "slug": "petz-e-confiavel"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na Petz, o tipo da areia define a faixa de preço: as de argila custam menos por quilo; as de milho, mandioca e cereais e as de sílica, mais; a madeira fica entre elas. Dentro do mesmo tipo, a marca chega a triplicar o quilo. O cupom EMCASA, de 10% OFF, vale nos pacotes sem oferta."
+        ]
+      },
+      {
+        "heading": "Os tipos de areia e a faixa de preço de cada um",
+        "paragraphs": [
+          "O material que a página declara define a faixa de preço da areia na Petz, e por isso a comparação que faz sentido é entre marcas do mesmo tipo. O quilo de uma areia de sílica não se compara com o de uma de argila como se fossem o mesmo produto. Quanto cada tipo dura na caixa só o uso mostra: o preço por quilo diz quanto custa o pacote, não quanto custa o mês."
+        ],
+        "comparisonTable": {
+          "caption": "Preços das páginas da Petz em 15/11/2026, sem frete e sem o cupom. O quilo é o preço do pacote dividido pelo peso. Os valores mudam com as ofertas.",
+          "headers": [
+            "Tipo",
+            "O que a página declara",
+            "Faixa por quilo"
+          ],
+          "rows": [
+            [
+              "Argila comum",
+              "Argila esmectita; algumas com fragrância ou aditivo antiodor",
+              "R$ 2,20 a R$ 6,50; Pipicat Ultra Dry, perto de R$ 15"
+            ],
+            [
+              "Bentonita",
+              "Argila bentonita; a Petz Ultra Absorção declara bentonita sódica",
+              "R$ 4,05 a R$ 13,72"
+            ],
+            [
+              "Madeira",
+              "Pinus em granulado; biodegradável na ficha da loja",
+              "R$ 5,35 a R$ 10,50; Cat's Best, R$ 24,50 a R$ 27,80"
+            ],
+            [
+              "Milho, mandioca e cereais",
+              "Milho e mandioca ou farinha de cereais; biodegradável na ficha da loja",
+              "R$ 12,00 a R$ 19,54"
+            ],
+            [
+              "Sílica natural",
+              "Diatomita, que a loja classifica como sílica natural",
+              "R$ 14,99 a R$ 16,11; Pipicat Ultra Light, R$ 29,50"
+            ],
+            [
+              "Sílica em cristal",
+              "Sílica gel em cristais",
+              "R$ 23,49 a R$ 25,55"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O [cupom Petz](/cupons/petz) é o EMCASA, de 10% OFF. Nas tabelas abaixo, a última coluna mostra o preço com ele nos pacotes sem oferta. Em pacote em oferta, a sacola não soma os dois descontos."
+        ]
+      },
+      {
+        "heading": "Areia de argila: a mais barata por quilo",
+        "paragraphs": [
+          "As areias comuns da Petz declaram argila esmectita e formam a faixa mais barata da loja. A Kets tem o menor quilo da categoria no pacote de 20 kg. Pelo preço cheio, a Fresh, que a página traz com a marca Petz, vem logo depois, e a Pipicat custa mais. Na leitura, a oferta punha a Pipicat Classic de 12 kg abaixo dos pacotes de 12 kg da Fresh."
+        ],
+        "comparisonTable": {
+          "caption": "Mesmas condições da primeira tabela.",
+          "headers": [
+            "Areia",
+            "Pacote",
+            "Preço da página",
+            "Por quilo",
+            "Com o EMCASA"
+          ],
+          "rows": [
+            [
+              "Kets",
+              "4 kg",
+              "R$ 9,89 (oferta; cheio R$ 10,99)",
+              "R$ 2,47",
+              "Fica a oferta"
+            ],
+            [
+              "Kets",
+              "12 kg",
+              "R$ 27,89 (oferta; cheio R$ 30,99)",
+              "R$ 2,32",
+              "Fica a oferta"
+            ],
+            [
+              "Kets",
+              "20 kg",
+              "R$ 43,99",
+              "R$ 2,20",
+              "R$ 39,59 (R$ 1,98 o quilo)"
+            ],
+            [
+              "Kets Gatíssimo Fina Sem Perfume",
+              "4 kg",
+              "R$ 11,69 (oferta; cheio R$ 12,99)",
+              "R$ 2,92",
+              "Fica a oferta"
+            ],
+            [
+              "Kets Gatíssimo Fina Sem Perfume",
+              "12 kg",
+              "R$ 31,44 (oferta; cheio R$ 36,99)",
+              "R$ 2,62",
+              "Fica a oferta"
+            ],
+            [
+              "Fresh Grãos Médios",
+              "4 kg",
+              "R$ 9,99 (oferta; cheio R$ 15,99)",
+              "R$ 2,50",
+              "Fica a oferta"
+            ],
+            [
+              "Fresh Grãos Médios",
+              "12 kg",
+              "R$ 39,99",
+              "R$ 3,33",
+              "R$ 35,99 (R$ 3,00 o quilo)"
+            ],
+            [
+              "Fresh Grãos Finos",
+              "4 kg",
+              "R$ 14,99 (oferta; cheio R$ 17,99)",
+              "R$ 3,75",
+              "Fica a oferta"
+            ],
+            [
+              "Fresh Grãos Finos",
+              "12 kg",
+              "R$ 42,99",
+              "R$ 3,58",
+              "R$ 38,69 (R$ 3,22 o quilo)"
+            ],
+            [
+              "Fresh Grãos Finos Perfumada",
+              "4 kg",
+              "R$ 16,99 (oferta; cheio R$ 19,99)",
+              "R$ 4,25",
+              "Fica a oferta"
+            ],
+            [
+              "Fresh Grãos Finos Perfumada",
+              "12 kg",
+              "R$ 54,99",
+              "R$ 4,58",
+              "R$ 49,49 (R$ 4,12 o quilo)"
+            ],
+            [
+              "Pipicat Classic",
+              "4 kg",
+              "R$ 19,20",
+              "R$ 4,80",
+              "R$ 17,28 (R$ 4,32 o quilo)"
+            ],
+            [
+              "Pipicat Classic",
+              "12 kg",
+              "R$ 38,99 (oferta; cheio R$ 51,99)",
+              "R$ 3,25",
+              "Fica a oferta"
+            ],
+            [
+              "Pipicat Classic",
+              "20 kg",
+              "R$ 72,90 (oferta; cheio R$ 77,99)",
+              "R$ 3,65",
+              "Vale o desconto maior; confira na sacola"
+            ],
+            [
+              "Pipicat Multicat",
+              "4 kg",
+              "R$ 19,99",
+              "R$ 5,00",
+              "R$ 17,99 (R$ 4,50 o quilo)"
+            ],
+            [
+              "Pipicat Multicat",
+              "12 kg",
+              "R$ 48,90 (oferta; cheio R$ 58,99)",
+              "R$ 4,08",
+              "Fica a oferta"
+            ],
+            [
+              "Pipicat Floral",
+              "4 kg",
+              "R$ 19,90 (oferta; cheio R$ 25,99)",
+              "R$ 4,98",
+              "Fica a oferta"
+            ],
+            [
+              "Pipicat Floral",
+              "12 kg",
+              "R$ 54,90 (oferta; cheio R$ 68,99)",
+              "R$ 4,58",
+              "Fica a oferta"
+            ],
+            [
+              "Pipicat Floral",
+              "20 kg",
+              "R$ 74,95 (oferta; cheio R$ 95,99)",
+              "R$ 3,75",
+              "Fica a oferta"
+            ],
+            [
+              "Pipicat Campestre e Chá Branco",
+              "4 kg",
+              "R$ 25,99",
+              "R$ 6,50",
+              "R$ 23,39 (R$ 5,85 o quilo)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Pipicat Ultra Dry também declara argila esmectita, mas fica fora da faixa: perto de R$ 15 o quilo no pacote de 12 kg, acima até das areias de bentonita."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/petz/areia-petz-fresh-graos-medios.webp",
+            "alt": "Pacote de 4 kg da areia higiênica Fresh Grãos Médios, em foto oficial da página do produto na Petz",
+            "caption": "Fresh Grãos Médios, areia de argila da marca Petz. Foto: Petz.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Bentonita: a marca muda muito o preço",
+        "paragraphs": [
+          "Entre as areias que declaram bentonita, a marca mais cara custa mais que o triplo da mais barata por quilo. As três da Kets ficam entre R$ 4 e R$ 7,50 o quilo. A Petz Ultra Absorção e a Pipicat Ultra Control custam de R$ 10 para cima, mesmo em oferta."
+        ],
+        "comparisonTable": {
+          "caption": "Mesmas condições da primeira tabela.",
+          "headers": [
+            "Areia",
+            "Pacote",
+            "Preço da página",
+            "Por quilo",
+            "Com o EMCASA"
+          ],
+          "rows": [
+            [
+              "Kets Premium",
+              "4 kg",
+              "R$ 16,99",
+              "R$ 4,25",
+              "R$ 15,29 (R$ 3,82 o quilo)"
+            ],
+            [
+              "Kets Premium Floral",
+              "4 kg",
+              "R$ 18,99",
+              "R$ 4,75",
+              "R$ 17,09 (R$ 4,27 o quilo)"
+            ],
+            [
+              "Kets Premium Floral",
+              "12 kg",
+              "R$ 48,59 (oferta; cheio R$ 53,99)",
+              "R$ 4,05",
+              "Fica a oferta"
+            ],
+            [
+              "Kets Finíssimo",
+              "4 kg",
+              "R$ 29,99",
+              "R$ 7,50",
+              "R$ 26,99 (R$ 6,75 o quilo)"
+            ],
+            [
+              "Kets Finíssimo",
+              "8 kg",
+              "R$ 55,99",
+              "R$ 7,00",
+              "R$ 50,39 (R$ 6,30 o quilo)"
+            ],
+            [
+              "Petz Ultra Absorção",
+              "4 kg",
+              "R$ 39,99 (oferta; cheio R$ 54,99)",
+              "R$ 10,00",
+              "Fica a oferta"
+            ],
+            [
+              "Petz Ultra Absorção",
+              "10 kg",
+              "R$ 129,99 (oferta; cheio R$ 159,99)",
+              "R$ 13,00",
+              "Fica a oferta"
+            ],
+            [
+              "Pipicat Ultra Control",
+              "4 kg",
+              "R$ 54,89 (oferta; cheio R$ 60,99)",
+              "R$ 13,72",
+              "Fica a oferta"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A ficha da Pipicat Ultra Control declara bentonita sódica e carvão ativado; a da Petz Ultra Absorção, bentonita sódica; as da Kets, argila bentonita. As páginas não trazem um número que permita comparar a absorção de uma com a da outra."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/petz/areia-petz-ultra-absorcao-4kg.webp",
+            "alt": "Pacote de 4 kg do granulado higiênico Petz Ultra Absorção, em foto oficial da página do produto na Petz",
+            "caption": "Petz Ultra Absorção 4 kg, de bentonita sódica. Foto: Petz.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Granulado de madeira: onde o pacote grande mais baixa o quilo",
+        "paragraphs": [
+          "Os granulados de madeira declaram pinus, e a maioria fica entre R$ 5 e R$ 10,50 o quilo. É o tipo em que o tamanho do pacote mais muda o preço: no Ipet Woods, o quilo do pacote de 20 kg custa perto de 60% do quilo do pacote de 2 kg."
+        ],
+        "comparisonTable": {
+          "caption": "Mesmas condições da primeira tabela.",
+          "headers": [
+            "Areia",
+            "Pacote",
+            "Preço da página",
+            "Por quilo",
+            "Com o EMCASA"
+          ],
+          "rows": [
+            [
+              "Ipet Woods",
+              "2 kg",
+              "R$ 17,99",
+              "R$ 9,00",
+              "R$ 16,19 (R$ 8,10 o quilo)"
+            ],
+            [
+              "Ipet Woods",
+              "4 kg",
+              "R$ 31,99",
+              "R$ 8,00",
+              "R$ 28,79 (R$ 7,20 o quilo)"
+            ],
+            [
+              "Ipet Woods",
+              "10 kg",
+              "R$ 66,99",
+              "R$ 6,70",
+              "R$ 60,29 (R$ 6,03 o quilo)"
+            ],
+            [
+              "Ipet Woods",
+              "20 kg",
+              "R$ 106,99",
+              "R$ 5,35",
+              "R$ 96,29 (R$ 4,81 o quilo)"
+            ],
+            [
+              "Like Cat",
+              "2 kg",
+              "R$ 17,99",
+              "R$ 9,00",
+              "R$ 16,19 (R$ 8,10 o quilo)"
+            ],
+            [
+              "Like Cat",
+              "10 kg",
+              "R$ 68,50 (oferta; cheio R$ 72,99)",
+              "R$ 6,85",
+              "Vale o desconto maior; confira na sacola"
+            ],
+            [
+              "Like Cat",
+              "20 kg",
+              "R$ 136,99",
+              "R$ 6,85",
+              "R$ 123,29 (R$ 6,16 o quilo)"
+            ],
+            [
+              "CarePet Premium",
+              "2,5 kg",
+              "R$ 18,99",
+              "R$ 7,60",
+              "R$ 17,09 (R$ 6,84 o quilo)"
+            ],
+            [
+              "CarePet Premium",
+              "10 kg",
+              "R$ 69,99",
+              "R$ 7,00",
+              "R$ 62,99 (R$ 6,30 o quilo)"
+            ],
+            [
+              "Progato Pinus",
+              "5 kg",
+              "R$ 36,99",
+              "R$ 7,40",
+              "R$ 33,29 (R$ 6,66 o quilo)"
+            ],
+            [
+              "Kets Granulada de Madeira",
+              "2 kg",
+              "R$ 20,99",
+              "R$ 10,50",
+              "R$ 18,89 (R$ 9,45 o quilo)"
+            ],
+            [
+              "Kets Granulada de Madeira",
+              "10 kg",
+              "R$ 99,99",
+              "R$ 10,00",
+              "R$ 89,99 (R$ 9,00 o quilo)"
+            ],
+            [
+              "Cat's Best Smart Pellet",
+              "5 kg",
+              "R$ 138,99",
+              "R$ 27,80",
+              "R$ 125,09 (R$ 25,02 o quilo)"
+            ],
+            [
+              "Cat's Best Smart Pellet",
+              "10 kg",
+              "R$ 244,99",
+              "R$ 24,50",
+              "R$ 220,49 (R$ 22,05 o quilo)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Cat's Best Smart Pellet aparece na Petz como granulado de madeira e custa mais que o dobro dos outros por quilo. A página dele declara madeira, como a dos demais."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/petz/areia-petz-ipet-woods-granulado-madeira.webp",
+            "alt": "Pacote de 2 kg do granulado higiênico de madeira Ipet Woods, em foto oficial da página do produto na Petz",
+            "caption": "Ipet Woods, granulado de pinus. Foto: Petz.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Milho, mandioca e cereais: as areias vegetais",
+        "paragraphs": [
+          "As areias vegetais ficam entre R$ 12 e R$ 20 o quilo. A Petz Milho e Mandioca, em oferta nos dois pacotes, tinha o menor quilo da faixa. Viva Verde, Cansei de Ser Gato e Kets Natureza Viva andam juntas, perto de R$ 17 o quilo sem desconto."
+        ],
+        "comparisonTable": {
+          "caption": "Mesmas condições da primeira tabela.",
+          "headers": [
+            "Areia",
+            "Pacote",
+            "Preço da página",
+            "Por quilo",
+            "Com o EMCASA"
+          ],
+          "rows": [
+            [
+              "Petz Milho e Mandioca (grãos finos e médios)",
+              "4 kg",
+              "R$ 49,99 (oferta; cheio R$ 59,99)",
+              "R$ 12,50",
+              "Fica a oferta"
+            ],
+            [
+              "Petz Milho e Mandioca (grãos finos e médios)",
+              "10 kg",
+              "R$ 119,99 (oferta; cheio R$ 144,99)",
+              "R$ 12,00",
+              "Fica a oferta"
+            ],
+            [
+              "Petz Cereais",
+              "3 kg",
+              "R$ 44,99",
+              "R$ 15,00",
+              "R$ 40,49 (R$ 13,50 o quilo)"
+            ],
+            [
+              "Fresh Milho e Mandioca",
+              "3 kg",
+              "R$ 44,99",
+              "R$ 15,00",
+              "R$ 40,49 (R$ 13,50 o quilo)"
+            ],
+            [
+              "Kets Bio-D",
+              "3 kg",
+              "R$ 43,99",
+              "R$ 14,66",
+              "R$ 39,59 (R$ 13,20 o quilo)"
+            ],
+            [
+              "Kat Bom Tradicional e Capim Limão",
+              "3 kg",
+              "R$ 46,79 (oferta; cheio R$ 51,99)",
+              "R$ 15,60",
+              "Fica a oferta"
+            ],
+            [
+              "Kat Bom Tradicional e Capim Limão",
+              "6 kg",
+              "R$ 79,04 (oferta; cheio R$ 92,99)",
+              "R$ 13,17",
+              "Fica a oferta"
+            ],
+            [
+              "Kets Natureza Viva (fina, média e grossa)",
+              "4 kg",
+              "R$ 67,99",
+              "R$ 17,00",
+              "R$ 61,19 (R$ 15,30 o quilo)"
+            ],
+            [
+              "Kets Natureza Viva (fina, média e grossa)",
+              "10 kg",
+              "R$ 148,49 (oferta; cheio R$ 164,99)",
+              "R$ 14,85",
+              "Fica a oferta"
+            ],
+            [
+              "Viva Verde Grãos Finos",
+              "4 kg",
+              "R$ 59,49 (oferta; cheio R$ 69,99)",
+              "R$ 14,87",
+              "Fica a oferta"
+            ],
+            [
+              "Viva Verde Grãos Finos",
+              "10 kg",
+              "R$ 169,90",
+              "R$ 16,99",
+              "R$ 152,91 (R$ 15,29 o quilo)"
+            ],
+            [
+              "Viva Verde Grãos Grossos",
+              "4 kg",
+              "R$ 69,90",
+              "R$ 17,48",
+              "R$ 62,91 (R$ 15,73 o quilo)"
+            ],
+            [
+              "Viva Verde Grãos Grossos",
+              "10 kg",
+              "R$ 169,90",
+              "R$ 16,99",
+              "R$ 152,91 (R$ 15,29 o quilo)"
+            ],
+            [
+              "Cansei de Ser Gato (grãos finos e médios)",
+              "2 kg",
+              "R$ 29,99 (oferta; cheio R$ 39,99)",
+              "R$ 15,00",
+              "Fica a oferta"
+            ],
+            [
+              "Cansei de Ser Gato (grãos finos e médios)",
+              "4 kg",
+              "R$ 69,99",
+              "R$ 17,50",
+              "R$ 62,99 (R$ 15,75 o quilo)"
+            ],
+            [
+              "Cansei de Ser Gato (grãos finos e médios)",
+              "10 kg",
+              "R$ 169,99",
+              "R$ 17,00",
+              "R$ 152,99 (R$ 15,30 o quilo)"
+            ],
+            [
+              "Pipicat Bio Vegetal",
+              "2,2 kg",
+              "R$ 42,99",
+              "R$ 19,54",
+              "R$ 38,69 (R$ 17,59 o quilo)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Viva Verde Grãos Mistos custa quase o mesmo que a de Grãos Grossos: o pacote de 10 kg sai R$ 0,09 mais caro. Nos pacotes de 3 kg sem oferta (Petz Cereais, Fresh Milho e Mandioca e Kets Bio-D), o EMCASA baixa o quilo para perto de R$ 13,50."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/petz/areia-petz-milho-e-mandioca-graos-finos.webp",
+            "alt": "Pacote de 4 kg do granulado Petz Milho e Mandioca Grãos Finos, em foto oficial da página do produto na Petz",
+            "caption": "Petz Milho e Mandioca Grãos Finos 4 kg. Foto: Petz.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Sílica: natural ou em cristal",
+        "paragraphs": [
+          "A Petz chama de sílica dois produtos diferentes. As areias brancas, como a Pipicat Bianco e a White Kets, declaram diatomita, que a loja classifica como sílica natural. As de cristal, como a Chalesco e a Fresh Sílica Cristal, declaram sílica gel. As de cristal custam mais por quilo, e os pacotes das duas são pequenos, de 1,4 kg a 2 kg; a exceção é a White Kets de 20 kg."
+        ],
+        "comparisonTable": {
+          "caption": "Mesmas condições da primeira tabela.",
+          "headers": [
+            "Areia",
+            "Pacote",
+            "Preço da página",
+            "Por quilo",
+            "Com o EMCASA"
+          ],
+          "rows": [
+            [
+              "Pipicat Bianco",
+              "1,8 kg",
+              "R$ 26,99 (oferta; cheio R$ 28,99)",
+              "R$ 14,99",
+              "Vale o desconto maior; confira na sacola"
+            ],
+            [
+              "Pipicat Bianco Lavanda e Sensitive",
+              "1,8 kg",
+              "R$ 28,99",
+              "R$ 16,11",
+              "R$ 26,09 (R$ 14,49 o quilo)"
+            ],
+            [
+              "White Kets",
+              "1,8 kg",
+              "R$ 27,99",
+              "R$ 15,55",
+              "R$ 25,19 (R$ 13,99 o quilo)"
+            ],
+            [
+              "White Kets",
+              "20 kg",
+              "R$ 299,99",
+              "R$ 15,00",
+              "R$ 269,99 (R$ 13,50 o quilo)"
+            ],
+            [
+              "Pipicat Ultra Light",
+              "2 kg",
+              "R$ 58,99",
+              "R$ 29,50",
+              "R$ 53,09 (R$ 26,55 o quilo)"
+            ],
+            [
+              "Chalesco com Cristais de Sílica",
+              "1,4 kg",
+              "R$ 32,89 (oferta; cheio R$ 34,99)",
+              "R$ 23,49",
+              "Vale o desconto maior; confira na sacola"
+            ],
+            [
+              "Chalesco com Cristais de Sílica",
+              "1,8 kg",
+              "R$ 45,99",
+              "R$ 25,55",
+              "R$ 41,39 (R$ 22,99 o quilo)"
+            ],
+            [
+              "Fresh Sílica Cristal",
+              "1,6 kg",
+              "R$ 39,99",
+              "R$ 24,99",
+              "R$ 35,99 (R$ 22,49 o quilo)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Da Pipicat Bianco à Pipicat Ultra Light, as areias da tabela são de sílica natural; a Chalesco e a Fresh, de cristal. A Ultra Light custa quase o dobro das outras brancas por quilo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/petz/areia-petz-pipicat-bianco.webp",
+            "alt": "Pacote da areia Pipicat Bianco, em foto oficial da página do produto na Petz",
+            "caption": "Pipicat Bianco, de sílica natural. Foto: Petz.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Areia da marca Petz: onde ela sai mais barata",
+        "paragraphs": [
+          "A marca Petz só tem o menor quilo entre as areias vegetais, e em oferta. Ela aparece em quatro tipos: argila (Fresh), bentonita (Ultra Absorção), vegetal (Milho e Mandioca, Cereais e Fresh Milho e Mandioca) e sílica em cristal (Fresh)."
+        ],
+        "bullets": [
+          "**Vegetais:** a Petz Milho e Mandioca tinha o menor quilo da faixa, abaixo da Viva Verde e da Cansei de Ser Gato. Era preço de oferta: pelo preço cheio, o pacote de 10 kg fica em R$ 14,50 o quilo.",
+          "**Argila:** pelo preço cheio, a Fresh comum custa menos que a Pipicat Classic, e a perfumada, menos que a Pipicat Floral. A Kets comum fica abaixo das duas.",
+          "**Bentonita:** a Petz Ultra Absorção custa menos por quilo que a Pipicat Ultra Control e mais que as três Kets, mesmo em oferta.",
+          "**Sílica em cristal:** a Fresh e a Chalesco de 1,8 kg ficam a menos de R$ 1 uma da outra por quilo."
+        ],
+        "postParagraphs": [
+          "Se a areia da marca Petz é boa, as páginas respondem só em parte: elas trazem a composição (bentonita sódica na Ultra Absorção, mandioca e milho na Milho e Mandioca, cereais e aglutinante na Cereais) e o preço."
+        ]
+      },
+      {
+        "heading": "Pacote grande ou pequeno: nem sempre o maior compensa",
+        "paragraphs": [
+          "Pelo preço cheio, o pacote maior custa menos por quilo em quase todas as areias das tabelas. As exceções são a Petz Ultra Absorção, em que o pacote de 4 kg custa menos por quilo que o de 10 kg, e a Chalesco, em que o de 1,4 kg custa menos que o de 1,8 kg.",
+          "As ofertas mudam a conta: na leitura, muitas caíam num tamanho só. O pacote menor estava mais barato por quilo na Fresh Grãos Médios, na Fresh Grãos Finos Perfumada, na Viva Verde Grãos Finos e na Cansei de Ser Gato, todas com oferta só no menor. Na Pipicat Classic, o pacote de 12 kg saía mais barato por quilo que o de 20 kg."
+        ],
+        "emphasis": "Antes de levar o pacote maior, divida o preço pelo peso dos dois tamanhos: a oferta da semana pode estar no menor."
+      },
+      {
+        "heading": "Cupom, oferta e retirada: o que muda o total",
+        "paragraphs": [
+          "O EMCASA tira 10% do pacote sem oferta e não mexe no que já está em oferta maior. Na sacola, com uma areia de cada caso, a Pipicat Ultra Dry de 12 kg caiu de R$ 179,90 para R$ 161,91. A Petz Ultra Absorção de 4 kg, que já estava em oferta de 27%, ficou nos mesmos R$ 39,99. O passo a passo do cupom está em [como usar o cupom da Petz](/reviews/cupom-petz-como-usar).",
+          "Conta nossa, pelos preços da sacola: com o Retire na Loja, ela ganhou mais 5% sobre o total, já com o cupom e a oferta, de R$ 201,90 para R$ 191,80. O desconto da retirada aparece em sacolas acima de R$ 199, no Centro-Oeste, no Sul e no Sudeste. Um pacote de areia de argila sozinho não chega a esse valor; junto com a ração ou outro item, chega. As formas de entrega estão comparadas em [Entrega Expressa ou Retire na Loja](/reviews/petz-entrega-expressa-ou-retirar-na-loja).",
+          "A loja informa: o frete é grátis em pedidos acima de R$ 199 no Sul e no Sudeste e acima de R$ 299 nas outras regiões, e pedidos acima de 50 kg de peso cubado podem ter cobrança adicional. A política não traz regra própria para areia. Na nossa sacola, para um CEP de São Paulo, a entrega Padrão saiu grátis e a Expressa, R$ 7,90. Simule o seu CEP: areia pesa, e o frete muda com o pedido.",
+          "Quem compra areia todo mês pode comparar o cupom com a assinatura da loja, que mostra preço próprio em cada página: a conta está em [assinatura Petz ou cupom](/reviews/assinatura-petz-ou-cupom)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é a areia para gato mais barata da Petz? Por quilo, a Kets de argila no pacote de 20 kg, pouco acima de R$ 2, e abaixo disso com o EMCASA. Entre as vegetais, a Petz Milho e Mandioca tinha o menor quilo, em oferta.",
+          "A areia da marca Petz é boa? As páginas mostram a composição e o preço. Na oferta da leitura, a Petz Milho e Mandioca custava menos por quilo que as outras vegetais; a Ultra Absorção custa mais que as areias de bentonita da Kets.",
+          "O cupom EMCASA vale em areia em promoção? A sacola não soma os dois: fica o desconto maior. No pacote com oferta acima de 10%, o preço da oferta ficou igual; no pacote sem oferta, o cupom entrou inteiro.",
+          "Areia biodegradável pode ir no vaso sanitário? A Petz classifica como biodegradáveis os granulados de madeira e as areias de milho, mandioca e cereais. Isso não é o mesmo que poder ir no vaso. A embalagem da Petz Cereais traz a frase descartável em vaso sanitário; nas outras, siga a instrução de descarte de cada pacote.",
+          "Viva Verde ou Pipicat: qual é mais barata? São tipos diferentes. A Viva Verde é de milho e mandioca e fica perto de R$ 17 o quilo sem desconto; a Pipicat Classic é de argila e fica abaixo de R$ 5. A vegetal da Pipicat, a Bio Vegetal, custa mais por quilo que a Viva Verde."
+        ]
+      }
+    ]
   }
 ];
