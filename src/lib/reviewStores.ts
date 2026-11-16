@@ -1,8 +1,9 @@
 // As lojas de um artigo. O `affiliate` é o slug de uma loja ou, no artigo de várias lojas, a lista delas, na ordem de
 // apresentação (nunca de preferência: o artigo com lista não tem loja principal). Todo código que pergunta de que loja
 // é um artigo passa por aqui, e nenhum compara `affiliate` direto. Só importa o internalLinks, que não importa nada:
-// serve ao servidor, aos scripts e ao cliente.
+// serve ao servidor, aos scripts e ao cliente. Do locales.ts vem só o tipo, que some na compilação.
 
+import type { Locale } from './i18n/locales';
 import { isInternalLink } from './internalLinks';
 
 export type ReviewAffiliate = string | readonly string[];
@@ -72,17 +73,29 @@ export function getReviewStores<S extends StoreName>(review: WithAffiliate, stor
 }
 
 // O nome da loja no cartão de um lugar neutro (a estante de /reviews, o "Acabou de sair", os relacionados). Uma loja,
-// a marca dela, como sempre; no artigo de várias lojas, "A e B" ou "N lojas parceiras", contando só as ativas. As
-// duas frases só existem em português: em outro idioma, o cartão do artigo de várias lojas fica sem o nome.
+// a marca dela, como sempre; no artigo de várias lojas, "A e B" ou "N lojas parceiras", contando só as ativas, no
+// idioma do cartão. Idioma que não está na tabela fica sem o nome: melhor que uma frase em português na página dele.
+const STORE_LABELS: Record<Locale, { pair: (a: string, b: string) => string; many: (count: number) => string }> = {
+  pt: { pair: (a, b) => `${a} e ${b}`, many: (n) => `${n} lojas parceiras` },
+  en: { pair: (a, b) => `${a} and ${b}`, many: (n) => `${n} partner stores` },
+  es: { pair: (a, b) => `${a} y ${b}`, many: (n) => `${n} tiendas asociadas` },
+  fr: { pair: (a, b) => `${a} et ${b}`, many: (n) => `${n} boutiques partenaires` },
+  de: { pair: (a, b) => `${a} und ${b}`, many: (n) => `${n} Partner-Shops` },
+  it: { pair: (a, b) => `${a} e ${b}`, many: (n) => `${n} negozi partner` },
+  ko: { pair: (a, b) => `${a}, ${b}`, many: (n) => `파트너 스토어 ${n}곳` },
+  ja: { pair: (a, b) => `${a} と ${b}`, many: (n) => `提携ストア ${n} 店` },
+  'zh-hant': { pair: (a, b) => `${a} 和 ${b}`, many: (n) => `${n} 家合作商店` },
+  'zh-hans': { pair: (a, b) => `${a} 和 ${b}`, many: (n) => `${n} 家合作商店` },
+};
+
 export function getReviewStoreLabel(
   review: WithAffiliate,
   stores: readonly StoreName[],
   locale = 'pt'
 ): string | undefined {
   const brands = getReviewStores(review, stores).map(({ brand }) => brand);
-  if (!isMultiStoreReview(review)) return brands[0];
-  if (locale !== 'pt' || brands.length === 0) return undefined;
-  if (brands.length === 1) return brands[0];
-  if (brands.length === 2) return `${brands[0]} e ${brands[1]}`;
-  return `${brands.length} lojas parceiras`;
+  if (!isMultiStoreReview(review) || brands.length <= 1) return brands[0];
+  if (!Object.prototype.hasOwnProperty.call(STORE_LABELS, locale)) return undefined;
+  const labels = STORE_LABELS[locale as Locale];
+  return brands.length === 2 ? labels.pair(brands[0], brands[1]) : labels.many(brands.length);
 }
