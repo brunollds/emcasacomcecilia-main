@@ -8,6 +8,26 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## Desdobrar o comparativo da SHEIN em pares (16/11/2026)
+
+Ideia do Bruno em 16/11: trocar o `shein-ou-shopee-temu` (SHEIN contra três lojas em PT) por artigos de par, com os links de afiliado da Temu, do AliExpress e da Shopee. Sem GO; está no estoque da [[Fila-de-Pautas]].
+
+- **Por que o PT ficou com quatro lojas e os outros idiomas com a Temu:** decisão de 12 e 13/10 (#73), registrada no briefing [[shein-ou-shopee-temu]]: "as 10 versões com o concorrente de cada mercado". O autocompletar de outubro deu "shein ou shopee" como par principal no Brasil (com "shein shopee ou temu" e "shein shopee ou aliexpress" na cauda) e "shein vs temu" nos outros idiomas. Shopee e Reclame Aqui só existem no texto do Brasil.
+- **O que o artigo já leva:** os três links de afiliado (Shopee, Temu e AliExpress) estão no PT, numa seção só, "Parceria e código de indicação", no fim. As 9 traduções levam o da Temu, no mesmo lugar. Nenhum está na tabela nem no capítulo de cada loja.
+- **Autocompletar de google.com.br (16/11):**
+  - "shein ou shopee": qual o melhor, qual mais barato, para roupas, entrega mais rápido, para comprar roupas, "shein shopee ou aliexpress", "shein shopee ou temu".
+  - "shein ou temu": só "qual o melhor" em português; o resto das sugestões vem em francês.
+  - "shein ou aliexpress": "qual o melhor", "melhor comprar na shein ou aliexpress", "shein aliexpress ou shopee", "aliexpress temu ou shein".
+  - "shopee ou aliexpress": qual o melhor, reddit, comprar na, qual mais barato, qual mais confiável, quem é maior, quem vende mais. É o par mais rico depois de "shein ou shopee".
+  - "temu ou shopee": qual o melhor, comprar na, qual mais barato, quem é maior, "temu shopee ou shein", "temu shopee ou aliexpress".
+  - "temu ou aliexpress": "qual o melhor" em português; o resto em francês.
+  - "temu é confiável": para comprar, presente grátis, ou não, 0 reais, produtos grátis, reclame aqui, roleta. "aliexpress é confiável": comprar, no brasil, comprar celular, ou não.
+- **Limites do site hoje:** `affiliate` em lista (várias lojas) só aceita loja de código comum de `couponsData.ts`, só em PT e sem `translationKey` (`scripts/multi-store-checks.ts`). A SHEIN é loja de link com código de indicação, e Temu, AliExpress e Shopee não estão em `couponsData.ts`. Então o artigo de par segue com `affiliate: "shein"` e os outros links em `section.links` com sponsored, como hoje, até a sessão do site abrir as três como loja.
+- **Família:** a `shein-vs-shopee-temu` já é SHEIN e Temu em 9 idiomas. Um "SHEIN ou Temu" em PT é o par natural dela; o artigo atual, sobre a Shopee, ficaria só em PT, na mesma URL.
+- **Conclusão:** o desdobramento se sustenta no Brasil para a Shopee (par principal, fica na URL atual) e tem sinal para pares sem a SHEIN (Shopee ou AliExpress, Temu ou Shopee). "SHEIN ou Temu" e "SHEIN ou AliExpress" têm sinal fraco em português: valem mais pela família de 10 idiomas e pelo link do que pela busca no Brasil. Falta o GSC do artigo atual para saber por quais consultas ele já aparece, e a primeira página de cada par.
+
+---
+
 ## Três sementes do Bruno: kits La Ganexa, Bagaggio ou Sestini e areia na Petz (15/11/2026)
 
 Sementes em formato de pré-briefing, recebidas em 15/11. Autocompletar de google.com.br e primeira página do Google lidos no mesmo dia.
