@@ -115,3 +115,38 @@ redação separa pelas páginas.
 
 Em [[Pesquisas-de-Pauta]] (15/11): "areia para gato petz", "areia petz milho e mandioca é boa", "areia petz ultra
 absorção é boa", "viva verde ou pipicat", "melhor areia para gatos custo benefício", "qual areia de gato rende mais".
+
+## 5. Releitura do Job 2 (15/11/2026, Chrome, sem login)
+
+121 páginas de areia e granulado, a partir de 11 buscas (as do Job 1 mais "areia fresh gato", "granulado higienico
+gato", "areia progato", "areia kets" e "areia germanhart"). De cada página: o preço de venda do dia (dados
+estruturados) e o preço cheio de cada pacote (lista de variações da página). O "priceForSubs" da página é o preço
+do assinante, não a oferta. Os números que foram ao artigo estão no JSON; todos os pacotes das tabelas estavam
+disponíveis.
+
+O que mudou em relação à seção 1:
+
+- **A marca Petz não é a mais barata em todo tipo.** A Kets custa menos na argila (20 kg a R$ 43,99, R$ 2,20 o
+  quilo) e na bentonita (Kets Premium 4 kg R$ 16,99; Premium Floral 12 kg R$ 48,59 em oferta; Finíssimo 8 kg
+  R$ 55,99). A Petz só tem o menor quilo nas vegetais (Milho e Mandioca, em oferta). A tese do artigo foi reescrita.
+- **Pipicat Ultra Dry declara argila esmectita**, não bentonita. Saiu da tabela de bentonita e virou uma nota na
+  seção de argila.
+- **Cat's Best Smart Pellet é madeira** na ficha (Material: Madeira). Foi para a tabela de madeira.
+- **Sílica:** natural (diatomita: Pipicat Bianco, Bianco Lavanda e Sensitive, Ultra Light, White Kets) e em cristal
+  (sílica gel: Chalesco, Fresh Sílica Cristal). GermanHart, Great Pets e Progato ficaram fora: o preço cheio não
+  foi lido.
+- **Pacote menor mais barato por quilo pelo preço cheio:** só Petz Ultra Absorção (4 kg contra 10 kg) e Chalesco
+  (1,4 kg contra 1,8 kg). Nos outros casos da seção 2, é efeito de oferta no pacote menor.
+
+Sacola (sem login, sem finalizar, CEP 01310-100): Pipicat Ultra Dry 12 kg, sem oferta, R$ 179,90 → R$ 161,91 com o
+EMCASA; Petz Ultra Absorção 4 kg, em oferta de 27% (de R$ 54,99 por R$ 39,99), ficou em R$ 39,99. Total
+R$ 201,90. Padrão "Grátis" ("Frete grátis liberado!"), Expressa e Agendada R$ 7,90, Retire na Loja "Grátis +5%
+OFF": total R$ 191,80 (5% sobre o total já com o cupom e a oferta). A sacola tinha três itens do teste de 11/11,
+removidos antes; foi esvaziada no fim.
+
+Frete (`/institucional/politica-de-frete-gratis` e `/institucional/politica-de-entrega`): grátis acima de R$ 199 no
+Sul e no Sudeste e acima de R$ 299 no Norte, no Nordeste e no Centro-Oeste; "Compras acima de 50kg (peso cubado)
+poderão sofrer cobrança por peso excedente". Nenhuma regra própria para areia.
+
+Links: a Petz não deu formato de link de afiliado por produto. O artigo usa só o link da loja
+(`petz.com.br/parceiro/emcasa`), como os outros da Petz; os nomes das areias ficaram sem link.

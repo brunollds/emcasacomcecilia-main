@@ -116276,6 +116276,242 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/petz/areia-para-gato-petz-custo-por-quilo-capa.webp",
+      "local_url": "/images/reviews/petz/areia-para-gato-petz-custo-por-quilo-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 85102,
+      "sha256": "6c4ca1f4ba75a2d58faf98f7d201e6552e179915231452de9aa183c084efeed4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "areia-para-gato-petz-custo-por-quilo-capa.webp",
+      "storage_filename": "areia-para-gato-petz-custo-por-quilo-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/areia-para-gato-petz-custo-por-quilo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/areia-para-gato-petz-custo-por-quilo.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/petz/areia-para-gato-petz-custo-por-quilo-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 228231,
+          "column": 15,
+          "literal": "/images/reviews/petz/areia-para-gato-petz-custo-por-quilo-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6c4ca1f4ba75a2d58faf98f7d201e6552e179915231452de9aa183c084efeed4/areia-para-gato-petz-custo-por-quilo-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6c4ca1f4ba75a2d58faf98f7d201e6552e179915231452de9aa183c084efeed4/areia-para-gato-petz-custo-por-quilo-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T00:44:30.456Z",
+      "verification_etag_or_digest": "6c4ca1f4ba75a2d58faf98f7d201e6552e179915231452de9aa183c084efeed4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/areia-petz-fresh-graos-medios.webp",
+      "local_url": "/images/reviews/petz/areia-petz-fresh-graos-medios.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25588,
+      "sha256": "1ee8c483ebc65a76d251a9ddaf7053e60570d3461b0c7f0562227d3422b093e3",
+      "width": 800,
+      "height": 800,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "areia-petz-fresh-graos-medios.webp",
+      "storage_filename": "areia-petz-fresh-graos-medios.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/areia-para-gato-petz-custo-por-quilo.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/areia-para-gato-petz-custo-por-quilo.json",
+          "line": 283,
+          "column": 19,
+          "literal": "/images/reviews/petz/areia-petz-fresh-graos-medios.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1ee8c483ebc65a76d251a9ddaf7053e60570d3461b0c7f0562227d3422b093e3/areia-petz-fresh-graos-medios.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1ee8c483ebc65a76d251a9ddaf7053e60570d3461b0c7f0562227d3422b093e3/areia-petz-fresh-graos-medios.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T00:44:30.457Z",
+      "verification_etag_or_digest": "1ee8c483ebc65a76d251a9ddaf7053e60570d3461b0c7f0562227d3422b093e3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/areia-petz-ipet-woods-granulado-madeira.webp",
+      "local_url": "/images/reviews/petz/areia-petz-ipet-woods-granulado-madeira.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44500,
+      "sha256": "c64df479e0edd94d26d4fee6d327fa0e99f1de1fc7bd8c3b7f7f3ecfa1972e7e",
+      "width": 800,
+      "height": 800,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "areia-petz-ipet-woods-granulado-madeira.webp",
+      "storage_filename": "areia-petz-ipet-woods-granulado-madeira.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/areia-para-gato-petz-custo-por-quilo.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/areia-para-gato-petz-custo-por-quilo.json",
+          "line": 495,
+          "column": 19,
+          "literal": "/images/reviews/petz/areia-petz-ipet-woods-granulado-madeira.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c64df479e0edd94d26d4fee6d327fa0e99f1de1fc7bd8c3b7f7f3ecfa1972e7e/areia-petz-ipet-woods-granulado-madeira.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c64df479e0edd94d26d4fee6d327fa0e99f1de1fc7bd8c3b7f7f3ecfa1972e7e/areia-petz-ipet-woods-granulado-madeira.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T00:44:30.457Z",
+      "verification_etag_or_digest": "c64df479e0edd94d26d4fee6d327fa0e99f1de1fc7bd8c3b7f7f3ecfa1972e7e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/areia-petz-milho-e-mandioca-graos-finos.webp",
+      "local_url": "/images/reviews/petz/areia-petz-milho-e-mandioca-graos-finos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20994,
+      "sha256": "5d957e1de915257bfe88eb38006981bff6066b2cf9d6ef47acdd3cd6e3f273a7",
+      "width": 800,
+      "height": 800,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "areia-petz-milho-e-mandioca-graos-finos.webp",
+      "storage_filename": "areia-petz-milho-e-mandioca-graos-finos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/areia-para-gato-petz-custo-por-quilo.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/areia-para-gato-petz-custo-por-quilo.json",
+          "line": 643,
+          "column": 19,
+          "literal": "/images/reviews/petz/areia-petz-milho-e-mandioca-graos-finos.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5d957e1de915257bfe88eb38006981bff6066b2cf9d6ef47acdd3cd6e3f273a7/areia-petz-milho-e-mandioca-graos-finos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5d957e1de915257bfe88eb38006981bff6066b2cf9d6ef47acdd3cd6e3f273a7/areia-petz-milho-e-mandioca-graos-finos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T00:44:30.457Z",
+      "verification_etag_or_digest": "5d957e1de915257bfe88eb38006981bff6066b2cf9d6ef47acdd3cd6e3f273a7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/areia-petz-pipicat-bianco.webp",
+      "local_url": "/images/reviews/petz/areia-petz-pipicat-bianco.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50340,
+      "sha256": "de3e852bbb17f3752a98eed93d28d49b512630448cd9906cd08b1107ba6c5517",
+      "width": 800,
+      "height": 800,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "areia-petz-pipicat-bianco.webp",
+      "storage_filename": "areia-petz-pipicat-bianco.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/areia-para-gato-petz-custo-por-quilo.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/areia-para-gato-petz-custo-por-quilo.json",
+          "line": 728,
+          "column": 19,
+          "literal": "/images/reviews/petz/areia-petz-pipicat-bianco.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/de3e852bbb17f3752a98eed93d28d49b512630448cd9906cd08b1107ba6c5517/areia-petz-pipicat-bianco.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/de3e852bbb17f3752a98eed93d28d49b512630448cd9906cd08b1107ba6c5517/areia-petz-pipicat-bianco.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T00:44:30.457Z",
+      "verification_etag_or_digest": "de3e852bbb17f3752a98eed93d28d49b512630448cd9906cd08b1107ba6c5517",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/areia-petz-ultra-absorcao-4kg.webp",
+      "local_url": "/images/reviews/petz/areia-petz-ultra-absorcao-4kg.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29040,
+      "sha256": "b0a6e9c80f9f11c7da6103dc4b338738ee01f4387463b75552503994c36fb419",
+      "width": 800,
+      "height": 800,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "areia-petz-ultra-absorcao-4kg.webp",
+      "storage_filename": "areia-petz-ultra-absorcao-4kg.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/areia-para-gato-petz-custo-por-quilo.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/areia-para-gato-petz-custo-por-quilo.json",
+          "line": 368,
+          "column": 19,
+          "literal": "/images/reviews/petz/areia-petz-ultra-absorcao-4kg.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b0a6e9c80f9f11c7da6103dc4b338738ee01f4387463b75552503994c36fb419/areia-petz-ultra-absorcao-4kg.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b0a6e9c80f9f11c7da6103dc4b338738ee01f4387463b75552503994c36fb419/areia-petz-ultra-absorcao-4kg.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-16T00:44:30.457Z",
+      "verification_etag_or_digest": "b0a6e9c80f9f11c7da6103dc4b338738ee01f4387463b75552503994c36fb419",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/petz/assinatura-petz-ou-cupom-capa-v2.webp",
       "local_url": "/images/reviews/petz/assinatura-petz-ou-cupom-capa-v2.webp",
       "media_kind": "image",
