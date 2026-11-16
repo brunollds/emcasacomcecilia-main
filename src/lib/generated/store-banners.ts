@@ -62,7 +62,7 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-04"
   },
   {
-    "id": "clea-store-black-30-2026",
+    "id": "clea-store-brinde-tshirt-2026",
     "affiliate": "clea-store",
     "slot": "top",
     "href": "https://www.cleastore.com.br/",
@@ -71,13 +71,13 @@ export const storeBannersData: StoreBanner[] = [
     },
     "copy": {
       "pt": {
-        "headline": "Black Friday da Cléa Store: 30% OFF em todo o site",
-        "text": "Campanha da própria Cléa Store, com kits de camiseta a preço fixo. As condições aparecem no site da loja.",
+        "headline": "Black Friday da Cléa Store: T-shirt oversized de brinde",
+        "text": "Campanha da própria Cléa Store: uma T-shirt oversized grátis na compra de qualquer peça do site, além de descontos por produto. As condições aparecem no site da loja.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Home e /black-friday de cleastore.com.br (\"30% OFF em todo o site\", kits de t-shirts por R$ 199,00), lidas no navegador em 05/11/2026, sem contador nem data de fim",
-    "verifiedAt": "2026-11-05"
+    "source": "Faixa do topo da home de cleastore.com.br (\"Black Friday Cléa Store: ganhe uma T-shirt oversized grátis comprando qualquer peça do e-commerce\"), lida no navegador em 16/11/2026, sem data de fim; mudança informada pelo Bruno (saíram o 30% OFF em todo o site e o kit a R$ 199)",
+    "verifiedAt": "2026-11-16"
   },
   {
     "id": "damie-esquenta-black-2026",
@@ -207,25 +207,6 @@ export const storeBannersData: StoreBanner[] = [
     },
     "source": "Carrossel da home de drpeanut.com.br (\"Doctor November – Leve 8 Pague 5 – Brindes: 1 alfajor + 1 wafer + 1 pasta\"), lido no navegador em 04/11/2026",
     "verifiedAt": "2026-11-04"
-  },
-  {
-    "id": "holyfoods-1111-2026",
-    "affiliate": "holyfoods",
-    "slot": "top",
-    "endsAt": "2026-11-12T23:59:59-03:00",
-    "href": "https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
-    "art": {
-      "kind": "bag"
-    },
-    "copy": {
-      "pt": {
-        "headline": "11.11 da Holy: até 4 Holys grátis",
-        "text": "Campanha da própria HolyFoods: brindes só até 12/11, além do 30% OFF no site todo. As regras dos brindes aparecem no site da loja.",
-        "action": "Encher meu carrinho"
-      }
-    },
-    "source": "Comunicado da HolyFoods (\"Começou: 11.11 da Holy. Apenas 72h de brindes + 30% OFF no site todo. Até 12/11, ganhe até 04 Holys grátis\"), imagem enviada pelo Bruno em 11/11/2026",
-    "verifiedAt": "2026-11-11"
   },
   {
     "id": "holyfoods-black-2026",
@@ -805,26 +786,6 @@ export const storeBannersData: StoreBanner[] = [
     },
     "source": "Banner da home de simpleorganic.com.br (\"Clean Friday – tudo com até 50% OFF\") e barra do topo, lidos no navegador em 04/11/2026",
     "verifiedAt": "2026-11-04"
-  },
-  {
-    "id": "skelt-1111-2026",
-    "affiliate": "skelt",
-    "slot": "mid",
-    "href": "/reviews/cupom-skelt-como-usar",
-    "art": {
-      "kind": "bag"
-    },
-    "startsAt": "2026-11-11T00:00:00-03:00",
-    "endsAt": "2026-11-11T23:59:59-03:00",
-    "copy": {
-      "pt": {
-        "headline": "Skelt 11/11: 20% OFF em todo o site",
-        "text": "Campanha da própria Skelt, só amanhã. O desconto vale em compras com o cupom da Cecília; veja como usar no artigo.",
-        "action": "Ver como usar"
-      }
-    },
-    "source": "Comunicado da Skelt para creators (\"Dia 11/11: 20% OFF em TODO o site da Skelt, só amanhã, use o cupom de vocês\"), colado pelo Bruno em 10/11/2026",
-    "verifiedAt": "2026-11-10"
   },
   {
     "id": "skelt-black-friday-2026",
