@@ -154,3 +154,15 @@ para ela e é revisto para as duas páginas não disputarem a mesma busca.
 - **Alt (PT):** Cecília com Ian no colo em uma poltrona reclinável bege da DAMIE, olhando para ele na sala de casa.
 - **Origem:** foto própria da Cecília com o Ian no colo numa poltrona DAMIE, diferente da capa de amamentação; pessoas e móvel sem retoque. Sem geração por IA.
 - **Lote 16 do piloto de capas (sequência 5 do Codex, Black Friday, revisão visual do GPT-6.1 Terra):** aprovado pelo Bruno em 10/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-19-HEROES-BLACK-FRIDAY-SEQUENCIA-5-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/damie/black-friday-damie-capa-faixa.webp`) fica no CDN, sem uso como capa.
+
+## Curadoria de Black Friday (16/11/2026)
+
+- **O que mudou no guia:** três capítulos de escolha (reclinável por base e revestimento; Levita, Aurora ou Moon; sofá modular e Poltrona Cinema), tabela "no site, com CECILIA12, com CECILIA12 e Pix", giftback separado em gerar e usar, teste de 30 dias separado do art. 49 do CDC. O título deixou de citar o "Esquenta".
+- **Leitura de 16/11 (site, sem login):** preços iguais aos de outubro em todas as linhas (reclinável de R$ 2.969 a R$ 6.149; Levita R$ 6.400 e R$ 7.400; Aurora R$ 5.400 e R$ 6.400; sofá 2 lugares R$ 3.850 e 3 lugares R$ 5.100; Cinema 2.0 a partir de R$ 5.438). Faixa do topo: "BLACK FRIDAY - A maior promoção do ano", porta-copos, carregador USB, massagem e frete grátis, "economia total R$ 1.150".
+- **Sacola:** 2.0 giro e balanço em suede, R$ 4.299 → R$ 3.783,12 com CECILIA12 (desconto de R$ 515,88). Os brindes não entraram pela API da sacola (o tema os adiciona): o guia manda conferir no carrinho. "Com CECILIA12 e Pix" é conta nossa (12% e depois 10%), sem teste de pagamento.
+- **Frete na sacola:** SP capital 7 a 11 dias úteis, grátis; Goiânia grátis, na faixa "DF / ES / GO / MG / RJ", 8 a 13 dias úteis; Salvador sem opção de entrega.
+- **Divergências a acompanhar:**
+  - `/pages/cupons` (página de ofertas) estava vazia: o desconto por quantidade (R$ 500 a R$ 2.000) ficou sem fonte no site. O guia manda confirmar pelo WhatsApp.
+  - Giftback (`/pages/giftback`): uso em 30 dias corridos (a faixa de outubro falava em 45), cobre até 20% do novo pedido, não vale em acessórios, não soma com cupons no uso. A página não diz se a compra feita com cupom gera o bônus.
+  - A Moon não aparecia no catálogo do site.
+  - `/cupons/damie` e os outros artigos da DAMIE não foram alterados: se o Bruno confirmar o giftback de 30 dias e o frete grátis em GO e DF, ajustar lá.

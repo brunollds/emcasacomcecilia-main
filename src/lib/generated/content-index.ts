@@ -54777,8 +54777,8 @@ export const reviewsData: unknown[] = [
     "bodyDatesReason": "campanha",
     "id": 331,
     "slug": "black-friday-damie",
-    "title": "Black Friday DAMIE 2026: já começou, com poltrona reclinável com 3 presentes, frete grátis no Sul e Sudeste e o cupom CECILIA12",
-    "seoTitle": "Black Friday DAMIE 2026: poltrona com 3 presentes e cupom",
+    "title": "Black Friday DAMIE 2026: qual poltrona reclinável, Levita ou sofá comprar e quanto fica com o cupom CECILIA12",
+    "seoTitle": "Black Friday DAMIE 2026: qual poltrona comprar e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -54789,11 +54789,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A campanha da DAMIE anuncia poltrona com três presentes e frete grátis no Sul e Sudeste. Compare os preços de outubro e o desconto do CECILIA12 antes de comprar.",
+    "description": "Na Black Friday da DAMIE, os preços são os de outubro e a poltrona vem com três presentes. Veja qual base e revestimento escolher e a conta com o CECILIA12 e o Pix.",
     "metaDescription": "CECILIA12 dá 12% OFF na DAMIE e soma com o Pix. Na campanha, poltrona com três presentes e frete grátis no Sul e Sudeste; confira seu CEP.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/damie/black-friday-damie-capa-v2.webp",
@@ -54801,22 +54801,22 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "Em outubro de 2026, todas as reclináveis já estavam R$ 1.000 abaixo do preço cheio",
-      "O cupom CECILIA12 vale com todas as formas de pagamento e soma com as promoções, os brindes e o desconto do Pix",
-      "10% de desconto no Pix à vista e até 12x sem juros no cartão",
-      "30 dias para trocar ou devolver"
+      "O cupom CECILIA12 deu 12% na nossa sacola de novembro e soma com as promoções, os brindes e os 10% do Pix",
+      "Poltrona com três presentes na campanha: massagem, entrada USB e porta-copos",
+      "Frete grátis no Sul e no Sudeste; na nossa simulação, também em Goiás e no Distrito Federal",
+      "30 dias de teste em casa, com a coleta da devolução por conta da DAMIE"
     ],
     "cons": [
-      "Não encontramos Black Friday oficial da DAMIE em anos anteriores para comparar",
+      "Os preços de novembro são os mesmos de outubro: o que a campanha acrescenta é o brinde",
+      "O giftback de 15% é crédito para uma compra futura e não entra junto com cupom",
       "O desconto por quantidade só sai pelo WhatsApp",
-      "Frete pago fora do Sul e do Sudeste",
-      "No Norte e no Nordeste, a compra é pelo Mercado Livre"
+      "No Norte e no Nordeste, a compra é pelo Mercado Livre, onde o cupom não vale"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida: Black Friday DAMIE 2026",
         "paragraphs": [
-          "O Esquenta Black da DAMIE anuncia três presentes na compra de poltrona e frete grátis no Sul e Sudeste, até 27 de novembro, enquanto durarem os estoques; confirme o frete pelo CEP. O CECILIA12 dá 12% OFF e soma com as promoções e o Pix; compare o total com os preços de outubro, porque parte do desconto já existia."
+          "A Black Friday da DAMIE mantém os preços de outubro e acrescenta três presentes na poltrona: massagem, entrada USB e porta-copos. O CECILIA12 dá 12% OFF e soma com os 10% do Pix. A escolha começa pela base: giro e balanço para amamentar, base fixa para reclinar mais, elevação para quem precisa de ajuda ao levantar."
         ]
       },
       {
@@ -54831,20 +54831,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a DAMIE anunciou para a Black Friday 2026",
         "paragraphs": [
-          "A campanha vale até o dia da Black Friday, enquanto durarem os estoques. As faixas \"A Black Friday chegou antes\" e \"Esquenta Black\" apresentam a poltrona com três presentes; o frete grátis é para o Sul e o Sudeste, e nas outras regiões se confirma pelo CEP no carrinho. A [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) lista as condições. A Cyber Monday fica depois desse prazo.",
-          "Os preços de venda das poltronas, do sofá e da Poltrona Cinema eram os mesmos de antes da campanha. Por isso, o desconto de R$ 1.000 nas poltronas não é novo: é o que já vinha no preço em outubro. O que mudou foi o brinde, que agora inclui a massagem."
+          "A faixa do topo do site chama a campanha de \"Black Friday - a maior promoção do ano\" e lista o que vem na compra de uma poltrona: porta-copos, carregador USB, massagem e frete grátis, que a loja soma como R$ 1.150 de economia. No começo de novembro, a página de ofertas da DAMIE detalhava as condições; em meados do mês, ela estava sem conteúdo, e o que vale é o que o carrinho mostra.",
+          "Os preços de venda das poltronas, do sofá e da Poltrona Cinema são os mesmos de antes da campanha. O desconto de R$ 1.000 nas poltronas já vinha no preço em outubro. O que mudou foi o brinde, que agora inclui a massagem."
         ],
         "bullets": [
           "**Brindes na compra de uma poltrona:** sistema de massagem, entrada USB (tipo A e tipo C) e porta-copos.",
           "**R$ 1.000 de desconto nas poltronas**, já aplicado no preço do produto.",
-          "**20% OFF no acessório de massagem**, também já aplicado no preço.",
-          "**Desconto por quantidade nas reclináveis e na Poltrona Cinema:** R$ 500 em 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5.",
+          "**Desconto por quantidade nas reclináveis e na Poltrona Cinema:** no começo de novembro, a página de ofertas falava em R$ 500 em 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5. Ele não aparece no carrinho: confirme pelo WhatsApp da DAMIE se segue valendo.",
           "**Frete grátis no Sul e no Sudeste**, aplicado sozinho no checkout.",
-          "**Giftback:** 15% do pedido de volta para a próxima compra.",
-          "**Cupom:** a página diz que só entra 1 cupom por compra e por CPF, e que o cupom não anula os 10% do Pix."
+          "**Giftback:** 15% do pedido em crédito para a próxima compra, com as regras da seção dos descontos, abaixo."
         ],
         "comparisonTable": {
-          "caption": "Acessórios com preço de campanha na página de ofertas da DAMIE. Valem até 27/11 e podem mudar sem aviso.",
+          "caption": "Acessórios da DAMIE com preço de campanha. Os valores são os mesmos do começo de novembro e podem mudar sem aviso.",
           "headers": [
             "Acessório",
             "De",
@@ -54884,7 +54882,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O CECILIA12 vale nessas condições do mesmo jeito: soma com o preço de campanha e com o Pix, e não soma com outro cupom nem com o giftback. Confira no carrinho o desconto e os brindes do seu pedido antes de pagar."
+          "O CECILIA12 vale nessas condições do mesmo jeito: soma com o preço de campanha e com o Pix, e não soma com outro cupom nem com o uso do giftback. Confira no carrinho o desconto e os brindes do seu pedido antes de pagar."
         ],
         "image": {
           "src": "/images/reviews/damie/black-friday-damie-banner-esquenta.webp",
@@ -54893,6 +54891,103 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 2.974
         }
+      },
+      {
+        "heading": "Poltrona reclinável: qual base e qual revestimento",
+        "paragraphs": [
+          "A reclinável da DAMIE, que muita gente procura como poltrona do papai, é a mesma poltrona em quatro bases. A base muda o uso e o preço; o revestimento muda a manutenção. A tabela usa os preços do site em suede, bouclé ou linho, os mesmos de outubro, e aplica o CECILIA12 e depois os 10% do Pix."
+        ],
+        "comparisonTable": {
+          "caption": "Poltrona reclinável DAMIE 1.0 e 2.0 em suede, bouclé ou linho, na nossa leitura de novembro: preço do site, com o cupom CECILIA12 (12%) no cartão e com o cupom e o Pix (10%).",
+          "headers": [
+            "Base",
+            "No site",
+            "Com CECILIA12",
+            "Com CECILIA12 e Pix"
+          ],
+          "rows": [
+            [
+              "Manual com gatilho, base fixa",
+              "R$ 2.969",
+              "R$ 2.612,72",
+              "R$ 2.351,45"
+            ],
+            [
+              "Elétrica de base fixa",
+              "R$ 3.749",
+              "R$ 3.299,12",
+              "R$ 2.969,21"
+            ],
+            [
+              "Elétrica com giro e balanço",
+              "R$ 4.299",
+              "R$ 3.783,12",
+              "R$ 3.404,81"
+            ],
+            [
+              "Elétrica com elevação",
+              "R$ 4.969",
+              "R$ 4.372,72",
+              "R$ 3.935,45"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Elétrica com giro e balanço:** reclina até 145°, gira 180° e balança. É a que a marca indica para amamentação e a que temos em casa na versão 2.0. Na nossa sacola de novembro, o CECILIA12 levou os R$ 4.299 a R$ 3.783,12.",
+          "**Elétrica de base fixa:** reclina mais, até 170°, pelo botão, sem giro nem balanço. Para quem quer deitar quase por completo e não precisa do movimento.",
+          "**Elétrica com elevação:** inclina a base para a frente para ajudar a levantar. A marca a pensa para idosos e pós-operatório.",
+          "**Manual com gatilho:** o menor desembolso. Reclina com o peso do corpo e pede força das pernas para fechar, o que pesa para quem tem pouca mobilidade.",
+          "**1.0 ou 2.0:** o preço é o mesmo. A 2.0 traz almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés.",
+          "**Suede, bouclé ou linho:** toque de tecido e a menor faixa de preço. Nossa primeira reclinável, em linho bege, tem mais de um ano de uso diário e acompanhou a amamentação.",
+          "**Courino Importado:** praticamente impermeável e limpo com pano úmido. É o da nossa 2.0 caramelo. Em outubro, custava de R$ 80 a R$ 100 a mais que o tecido.",
+          "**Couro bovino:** a faixa de cima, de R$ 4.440 a R$ 6.149 conforme a base, antes do cupom."
+        ],
+        "postParagraphs": [
+          "Antes de fechar, três medidas: a poltrona tem 95 cm de largura, chega a 174 cm quase deitada e passa em portas a partir de 65 cm, informa a marca, levando primeiro o encosto e depois a base. As elétricas pedem tomada por perto. Confira no resumo do carrinho se os três presentes da campanha aparecem.",
+          "Nossa experiência com cada uma está em [Poltrona Damie é boa? Minha experiência com a nova versão 2.0](/reviews/poltrona-damie-e-boa) e em [Poltrona reclinável Damie vale o investimento? Uso diário, tecido e amamentação](/reviews/poltronas-reclinaveis-damie-vale-o-investimento). Para quem está montando o quarto do bebê, [Poltrona de amamentação ou poltrona reclinável: qual vale mais a pena?](/reviews/poltrona-de-amamentacao-vs-poltrona-reclinavel)."
+        ],
+        "links": [
+          {
+            "label": "Minha experiência com a Reclinável 2.0 com giro e balanço",
+            "href": "/reviews/poltrona-damie-e-boa"
+          },
+          {
+            "label": "Poltrona de amamentação ou reclinável: qual vale mais a pena?",
+            "href": "/reviews/poltrona-de-amamentacao-vs-poltrona-reclinavel"
+          },
+          {
+            "label": "Poltronas reclináveis DAMIE: vale o investimento?",
+            "href": "/reviews/poltronas-reclinaveis-damie-vale-o-investimento"
+          },
+          {
+            "label": "Sofá DAMIE Modular: vale a pena?",
+            "href": "/reviews/sofa-damie-modular-vale-a-pena"
+          }
+        ]
+      },
+      {
+        "heading": "Levita, Aurora ou Moon: as linhas de cima",
+        "bullets": [
+          "**Levita elétrica:** a poltrona de função da marca, com dois motores independentes, que ajustam o encosto e o apoio de pés em separado, apoio de cabeça de ajuste manual e base giratória. Em linho, R$ 6.400 no site, R$ 5.632,00 com o CECILIA12 e R$ 5.068,80 com o cupom e o Pix. Em couro, R$ 7.400, R$ 6.512,00 e R$ 5.860,80.",
+          "**Alternativa à Levita:** o motor do apoio de cabeça, a R$ 1.000 na campanha antes do cupom, instalado numa Reclinável 2.0. Fica abaixo do preço da Levita e não tem os dois motores de encosto e pés.",
+          "**Aurora giratória com puff:** reclina por alavanca lateral, gira 360° e vem com puff independente. Em linho, R$ 5.400 no site, R$ 4.752,00 com o CECILIA12 e R$ 4.276,80 com o cupom e o Pix. Em couro, R$ 6.400, R$ 5.632,00 e R$ 5.068,80.",
+          "**Moon:** poltrona de desenho, giratória 360°, em bouclé ou linho, com espuma D33. Não reclina: é para quem quer presença na sala, no quarto ou no consultório. Na nossa leitura de novembro, ela não aparecia no catálogo do site; confirme a disponibilidade e o preço com a DAMIE."
+        ],
+        "postParagraphs": [
+          "O que os dois motores mudam no uso está em [Poltrona Levita Damie: vale pagar pelos dois motores?](/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto), e a Moon, em [Poltrona Moon da Damie vale a pena? Design giratório, materiais e para quem é](/reviews/poltrona-moon-design-que-parece-obra-de-arte)."
+        ]
+      },
+      {
+        "heading": "Para a sala inteira: sofá modular e Poltrona Cinema",
+        "bullets": [
+          "**Sofá Modular de 2 lugares com puff:** R$ 3.850 no site, R$ 3.388,00 com o CECILIA12 e R$ 3.049,20 com o cupom e o Pix.",
+          "**Sofá Modular de 3 lugares com puff:** R$ 5.100 no site, R$ 4.488,00 com o CECILIA12 e R$ 4.039,20 com o cupom e o Pix. É o que usamos em casa há mais de um ano.",
+          "**Por que modular:** cada módulo chegou na própria caixa, o que resolve corredor com curva, porta estreita e elevador. O puff solto serve de chaise ou de assento extra.",
+          "**Poltrona Cinema 2.0:** fileira reclinável de 2 a 9 lugares. A de 2 lugares parte de R$ 5.438 no site, R$ 4.785,44 com o CECILIA12 e R$ 4.306,90 com o cupom e o Pix. Em outubro, a de 3 lugares custava R$ 8.457."
+        ],
+        "postParagraphs": [
+          "Escolha o número de lugares pela sala e por quem senta nela, e não pelo desconto de uma configuração maior. Entrega, puff e tecido do sofá estão em [Sofá Damie Modular: vale a pena? Entrega, puff, tecido e o que observar antes de comprar](/reviews/sofa-damie-modular-vale-a-pena)."
+        ]
       },
       {
         "heading": "Preços de outubro para comparar",
@@ -54940,7 +55035,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O desconto de R$ 1.000 valia para as quatro bases, em qualquer revestimento. Na Black Friday, compare o preço do dia com a coluna de outubro, não com o preço cheio: um desconto que pareça grande pode ser o mesmo de outubro. Acompanhamos [o preço das mesmas poltronas do papai](/reviews/poltrona-do-papai-black-friday) de outubro até a data, com as outras lojas e marcas."
+          "Em meados de novembro, as quatro bases estavam exatamente nos preços da coluna de outubro, na 1.0 e na 2.0. A oferta ficou igual no preço e melhorou no brinde, com a massagem. Acompanhamos [o preço das mesmas poltronas do papai](/reviews/poltrona-do-papai-black-friday) de outubro até a data, com as outras lojas e marcas."
         ]
       },
       {
@@ -54999,21 +55094,23 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na Aurora, o desconto era de R$ 2.000; na Levita, de R$ 1.500 em linho e R$ 2.000 em couro. A Poltrona Cinema tinha o menor: R$ 500 na de 2 lugares. A página de formas de pagamento da DAMIE dá 10% de desconto no Pix à vista também nessas linhas."
+          "Na Aurora, o desconto era de R$ 2.000; na Levita, de R$ 1.500 em linho e R$ 2.000 em couro. A Poltrona Cinema tinha o menor: R$ 500 na de 2 lugares. Em meados de novembro, a Levita, a Aurora e o sofá modular de 2 e de 3 lugares seguiam nos mesmos preços da tabela, e a Poltrona Cinema continuava a partir de R$ 5.438. A página de formas de pagamento da DAMIE dá 10% de desconto no Pix à vista também nessas linhas."
         ]
       },
       {
         "heading": "Como os descontos da DAMIE se somam",
         "paragraphs": [
-          "Na DAMIE, o preço final pode juntar o desconto da página, o Pix, o cupom e, em compras de mais de uma poltrona, o desconto por quantidade. O CECILIA12 soma com todos eles; só não soma com outro cupom nem com o giftback."
+          "Na DAMIE, o preço final pode juntar o desconto da página, o Pix, o cupom e, em compras de mais de uma poltrona, o desconto por quantidade. O CECILIA12 soma com todos eles; só não soma com outro cupom nem com o uso do giftback."
         ],
         "bullets": [
           "**Desconto da página:** já vem no preço do produto. Era de R$ 1.000 em todas as reclináveis, em outubro e na campanha.",
           "**Pix à vista:** 10% de desconto. A página do produto já mostra o preço no Pix com o desconto da página aplicado: R$ 3.869,10 na elétrica com giro e balanço em suede, por exemplo.",
-          "**Cupom CECILIA12:** 12% OFF em todos os produtos, com todas as formas de pagamento. Ele é aplicado no carrinho e soma com as promoções, os brindes e o desconto do Pix. Na giro e balanço em suede, os 12% sobre os R$ 4.299 tiram R$ 515,88, e a poltrona sai por R$ 3.783,12 no cartão, em até 12x sem juros. No Pix, entram também os 10%: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 3.404,81. O resumo do checkout mostra o valor exato antes de pagar.",
-          "**Desconto por quantidade:** R$ 500 na compra de 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5, nas reclináveis e na Poltrona Cinema, durante a campanha, informa a página de ofertas. Em outubro, ele era dado pelos consultores no WhatsApp, não pelo carrinho, e somava com o CECILIA12: confirme com a DAMIE antes de fechar.",
-          "**Giftback:** a página de ofertas promete 15% do pedido de volta para a próxima compra, até 27/11. Ele não soma com o CECILIA12: na compra em que você usar o giftback, o cupom não entra.",
-          "**Brinde:** durante a campanha, a página de ofertas diz que quem compra uma poltrona ganha a massagem, a entrada USB (tipo A e C) e o porta-copos. Em outubro, o brinde era só o carregador USB e o porta-copos."
+          "**Cupom CECILIA12:** 12% OFF em todos os produtos, com todas as formas de pagamento. Na nossa sacola de novembro, a giro e balanço em suede foi de R$ 4.299 a R$ 3.783,12, um desconto de R$ 515,88, em até 12x sem juros no cartão. No Pix, entram também os 10%: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 3.404,81. O resumo do checkout mostra o valor exato antes de pagar.",
+          "**Desconto por quantidade:** de R$ 500 em 2 poltronas a R$ 2.000 em 5, nas reclináveis e na Poltrona Cinema. Em outubro, ele era dado pelos consultores no WhatsApp, não pelo carrinho, e somava com o CECILIA12: confirme com a DAMIE antes de fechar.",
+          "**Giftback, para gerar:** a página do giftback promete 15% do valor da compra em bônus, liberado como cupom a partir do dia seguinte. Ela não diz se uma compra feita com cupom gera o bônus: se isso pesa na sua decisão, pergunte à DAMIE antes de pagar.",
+          "**Giftback, para usar:** vale 30 dias corridos (em outubro, a faixa do site falava em 45), só cobre até 20% do novo pedido (um bônus de R$ 150 pede uma compra de pelo menos R$ 750), não vale em acessórios e não soma com cupons de desconto. Na compra em que você usar o giftback, o CECILIA12 não entra. Uma compra nova substitui o bônus anterior, e troca ou devolução cancela o bônus gerado.",
+          "**Giftback e o preço de hoje:** o bônus não reduz o que você paga agora. Nas contas deste guia, ele fica de fora.",
+          "**Brinde:** na campanha, quem compra uma poltrona ganha a massagem, a entrada USB (tipo A e C) e o porta-copos. Em outubro, o brinde era só o carregador USB e o porta-copos."
         ],
         "links": [
           {
@@ -55027,47 +55124,12 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Qual poltrona DAMIE escolher",
-        "paragraphs": [
-          "A reclinável da DAMIE, que muita gente procura como poltrona do papai ou cadeira do papai, é a mesma poltrona em quatro bases: escolha a base pelo seu uso. A manual é a mais barata, mas reclina com o peso do corpo e pede força das pernas para fechar. A elétrica de base fixa reclina mais, até 170°, pelo botão. A de giro e balanço reclina até 145°, gira 180° e balança, e é a que a marca indica para amamentação. A de elevação inclina a base para a frente para ajudar a levantar, pensada pela marca para idosos e pós-operatório.",
-          "Entre a 1.0 e a 2.0 não há diferença de preço. A 2.0 traz almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés. A Levita (elétrica) e a Aurora (giratória, com puff) são linhas à parte, vendidas só em linho ou couro.",
-          "Aqui em casa, a primeira reclinável foi elétrica, em linho bege, e acompanhou toda a amamentação do Ian. Hoje temos também a 2.0 elétrica com giro e balanço, em corino caramelo."
-        ],
-        "links": [
-          {
-            "label": "Minha experiência com a Reclinável 2.0 com giro e balanço",
-            "href": "/reviews/poltrona-damie-e-boa"
-          },
-          {
-            "label": "Poltrona de amamentação ou reclinável: qual vale mais a pena?",
-            "href": "/reviews/poltrona-de-amamentacao-vs-poltrona-reclinavel"
-          },
-          {
-            "label": "Poltronas reclináveis DAMIE: vale o investimento?",
-            "href": "/reviews/poltronas-reclinaveis-damie-vale-o-investimento"
-          },
-          {
-            "label": "Sofá DAMIE Modular: vale a pena?",
-            "href": "/reviews/sofa-damie-modular-vale-a-pena"
-          }
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
-            "alt": "Poltrona Reclinável 2.0 elétrica com base de giro e balanço, em suede bege, vazia",
-            "caption": "Reclinável 2.0 elétrica com giro e balanço: almofada de cabeça regulável e bolso lateral maior. Foto oficial da DAMIE.",
-            "objectFit": "contain",
-            "aspectRatio": 1
-          }
-        ]
-      },
-      {
         "heading": "Prazo de entrega da DAMIE e frete antes do Natal",
         "paragraphs": [
-          "A DAMIE dá frete grátis em poltronas e sofás para o Sul e o Sudeste. Para o Centro-Oeste, o frete é calculado pelo CEP no carrinho, antes de fechar a compra. No Norte e no Nordeste, a marca vende só pelos anúncios oficiais dela no Mercado Livre, onde o frete e o prazo aparecem ao simular o CEP. O CECILIA12 é aplicado no checkout do site da DAMIE.",
+          "A DAMIE dá frete grátis em poltronas e sofás para o Sul e o Sudeste. Para o Centro-Oeste, a política diz que o frete é calculado pelo CEP no carrinho; na nossa simulação de novembro, uma poltrona saiu com frete grátis também para um CEP de Goiânia, na faixa que o carrinho chama de DF, ES, GO, MG e RJ, com prazo de 8 a 13 dias úteis. Para a capital paulista, o prazo foi de 7 a 11 dias úteis. No Norte e no Nordeste, a marca vende só pelos anúncios oficiais dela no Mercado Livre, onde o frete e o prazo aparecem ao simular o CEP: um CEP de Salvador não recebeu opção de entrega no site. O CECILIA12 é aplicado no checkout do site da DAMIE.",
           "O prazo de entrega varia por região e aparece no cálculo do frete, antes de pagar. Ele começa a contar na confirmação do pagamento: o Pix libera o pedido mais rápido, e o boleto leva até 2 dias úteis para compensar. Se você quer a poltrona antes do Natal, simule o CEP no carrinho e veja o prazo antes de fechar. O logo bordado, opcional, acrescenta 7 dias.",
           "Em prédio, a entrega vai até o hall de entrada, então confira antes se a caixa passa no elevador ou na escada. A montagem é feita por você, só com encaixes e sem ferramentas. A reclinável passa em portas a partir de 65 cm, informa a marca, se você levar primeiro o encosto e depois a base.",
-          "Confira o produto na hora da entrega, com a transportadora esperando: se houver avaria, recuse, e a DAMIE manda outro. Depois disso, ainda há 30 dias para trocar ou devolver."
+          "Confira o produto na hora da entrega, com a transportadora esperando: se houver avaria, recuse, e a DAMIE manda outro. Depois disso, valem dois prazos diferentes. O direito de arrependimento, do artigo 49 do Código de Defesa do Consumidor, dá 7 dias corridos do recebimento para desistir de uma compra feita pela internet. O teste de 30 dias é política da DAMIE: a poltrona volta completa, com os acessórios, na embalagem original e sem sinais de uso severo, com a coleta por conta da loja. Guarde a caixa até decidir, porque sem a embalagem a loja não coleta."
         ]
       },
       {
@@ -55076,21 +55138,23 @@ export const reviewsData: unknown[] = [
           "**Compare com a tabela de outubro.** O preço riscado é o cheio; em outubro, todas as reclináveis já estavam R$ 1.000 abaixo dele.",
           "**Confira o revestimento e os opcionais.** O preço muda com o tecido: na giro e balanço, o couro custava R$ 1.400 a mais que o suede. Opcionais como a mesa de apoio e a luminária somam ao total.",
           "**Aplique o CECILIA12 antes de pagar.** Ele não soma com outro cupom. Se a loja lançar um código próprio na Black Friday, teste os dois no carrinho e fique com o que der mais desconto.",
-          "**Simule o frete e o prazo.** Fora do Sul e do Sudeste, o frete é cobrado ou a compra é feita pelo Mercado Livre.",
+          "**Simule o frete e o prazo.** Fora do Sul e do Sudeste, confirme o frete pelo CEP; no Norte e no Nordeste, a compra é feita pelo Mercado Livre.",
           "**Vai comprar mais de uma?** Fale com a DAMIE no WhatsApp antes de fechar: o desconto por quantidade, de R$ 500 a R$ 2.000, não aparece no carrinho."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da DAMIE? O Esquenta Black já está no ar e vale até a última sexta-feira de novembro, que é a Black Friday, enquanto durarem os estoques, com a poltrona com três presentes e frete grátis no Sul e no Sudeste. A Cyber Monday, na segunda-feira seguinte, fica fora desse prazo.",
-          "A DAMIE tem Black Friday? Tem em 2026: a página de ofertas da loja traz brindes na compra de poltrona, R$ 1.000 de desconto nas poltronas e desconto por quantidade, até a Black Friday.",
-          "Poltrona reclinável fica mais barata na Black Friday? Compare antes de comprar. Antes da campanha, a reclinável elétrica com giro e balanço da DAMIE saía por R$ 4.299, ou R$ 3.869,10 no Pix, contra R$ 5.299 do preço cheio.",
-          "Qual o preço da poltrona DAMIE? Antes da campanha, a reclinável ia de R$ 2.969 (manual, em suede, bouclé ou linho) a R$ 6.149 (elétrica com elevação, em couro), com 10% de desconto no Pix à vista.",
+          "Quando começa e quanto dura a Black Friday da DAMIE? A campanha já está no ar, com a poltrona com três presentes e frete grátis no Sul e no Sudeste. No começo de novembro, a loja dava a última sexta-feira do mês como prazo, enquanto durassem os estoques. A Cyber Monday, na segunda-feira seguinte, fica fora desse prazo.",
+          "A DAMIE tem Black Friday? Tem em 2026: a campanha traz brindes na compra de poltrona e mantém os R$ 1.000 de desconto que as poltronas já tinham em outubro.",
+          "Poltrona reclinável fica mais barata na Black Friday? Na DAMIE, o preço de meados de novembro é o mesmo de outubro: a reclinável elétrica com giro e balanço sai por R$ 4.299, ou R$ 3.869,10 no Pix, contra R$ 5.299 do preço cheio. A campanha acrescentou a massagem aos brindes.",
+          "Qual o preço da poltrona DAMIE? A reclinável vai de R$ 2.969 (manual, em suede, bouclé ou linho) a R$ 6.149 (elétrica com elevação, em couro), com 10% de desconto no Pix à vista. Com o CECILIA12 e o Pix, a manual sai por R$ 2.351,45, pela nossa conta.",
           "Tem cupom DAMIE para a Black Friday? O CECILIA12 dá 12% OFF em todos os produtos do site da DAMIE, com todas as formas de pagamento e sem limite de usos por CPF, e soma com as promoções, os brindes e o desconto do Pix. Só não soma com outro cupom nem com o giftback.",
-          "O cupom CECILIA12 vale na Black Friday? Vale. O cupom DAMIE CECILIA12 dá 12% OFF e soma com o preço de campanha, com os brindes e com o Pix. Só não entra junto com outro cupom nem com o giftback.",
-          "O cupom CECILIA12 soma com o desconto do Pix? Soma. Pagando no Pix, entram os 12% do cupom e os 10% do Pix: antes da campanha, pela nossa conta, a reclinável elétrica com giro e balanço em suede saía por R$ 3.404,81.",
-          "Qual o prazo de entrega da DAMIE? Varia por região e aparece no cálculo do frete, antes de pagar. O prazo começa a contar na confirmação do pagamento, e o frete é grátis no Sul e no Sudeste.",
+          "O cupom CECILIA12 vale na Black Friday? Vale. O cupom DAMIE CECILIA12 deu 12% OFF na nossa sacola de novembro e soma com o preço de campanha, com os brindes e com o Pix. Só não entra junto com outro cupom nem na compra em que você usa o giftback.",
+          "O cupom CECILIA12 soma com o desconto do Pix? Soma. Pagando no Pix, entram os 12% do cupom e os 10% do Pix: pela nossa conta, a reclinável elétrica com giro e balanço em suede sai por R$ 3.404,81.",
+          "Qual poltrona DAMIE escolher para amamentar? A marca indica a elétrica com giro e balanço, que reclina até 145°, gira 180° e balança. É a base da nossa 2.0. Com o CECILIA12, ela sai por R$ 3.783,12 no cartão.",
+          "O giftback da DAMIE vale junto com o CECILIA12? Não no uso: a página do giftback diz que o bônus não soma com cupons de desconto. Ele é um crédito de 15% para a compra seguinte, vale 30 dias corridos e cobre até 20% do novo pedido. A página não informa se a compra feita com cupom gera o bônus.",
+          "Qual o prazo de entrega da DAMIE? Varia por região e aparece no cálculo do frete, antes de pagar: na nossa simulação, de 7 a 11 dias úteis para a capital paulista. O prazo começa a contar na confirmação do pagamento, e o frete é grátis no Sul e no Sudeste.",
           "A DAMIE entrega no Nordeste? Sim, pelos anúncios oficiais da marca no Mercado Livre, que é como a DAMIE atende o Norte e o Nordeste. O frete e o prazo aparecem ao simular o CEP no anúncio."
         ]
       }
@@ -56556,7 +56620,7 @@ export const reviewsData: unknown[] = [
     "bodyDatesReason": "campanha",
     "id": 335,
     "slug": "black-friday-nestle-nutre",
-    "title": "Black Friday Nutren 2026: o Black Month da Nestlé Nutre já começou, os preços do Nutren Senior e o cupom CECI",
+    "title": "Black Friday Nutren 2026: o que comprar na Black Month da Nestlé Nutre, do Nutren Senior ao Just Protein, com o cupom CECI",
     "seoTitle": "Black Friday Nutren 2026: Black Month até 25% e cupom CECI",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
@@ -56568,11 +56632,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Nestlé Nutre abriu a Black Month 2026. Compare o Nutren Senior com os preços de outubro deste guia e use o cupom CECI, de 10% OFF, nos produtos elegíveis.",
+    "description": "Na Black Month da Nestlé Nutre, o Nutren Senior de 740 g segue no preço de outubro; a lata de 370 g, o Just Protein e o FiberMais baixaram. Veja a conta com o cupom CECI.",
     "metaDescription": "O cupom CECI dá 10% OFF na Nestlé Nutre. Black Friday Nutren 2026: ofertas da Black Month, preços históricos do Senior e comparação com assinatura.",
     "publishedAt": "10 de outubro de 2026",
     "publishedAtISO": "2026-10-10",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/nutren/black-friday-nestle-nutre-capa-v2.webp",
@@ -56580,23 +56644,23 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "O Black Month anuncia até 25% OFF o mês inteiro e mais 10% com cupom: é o CECI",
-      "Kits com duas latas de Nutren Senior saíam mais baratos por lata em outubro",
-      "O cupom CECI dá 10% OFF e vale com todas as formas de pagamento",
+      "O cupom CECI deu 10% em todos os itens do nosso carrinho de novembro, kits de duas latas inclusive",
+      "A lata de 370 g do Nutren Senior, o Just Protein, o FiberMais e o Nutren Control estão abaixo do preço de outubro",
+      "O cupom vale com todas as formas de pagamento",
       "Frete grátis acima de R$ 400 na compra única e de R$ 200 na assinatura"
     ],
     "cons": [
-      "O Nutren Senior não aparece no banner do esquenta nem na arte do Black Month",
+      "O Nutren Senior de 740 g e os kits seguem no preço de outubro",
+      "O Nutren Active subiu em relação a outubro",
       "A loja não dá desconto no Pix",
       "O CECI não vale para Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses",
-      "O parcelamento sem juros pede parcela mínima de R$ 75",
-      "A loja não publica os prazos de entrega por região"
+      "O parcelamento sem juros pede parcela mínima de R$ 75"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida: Black Friday Nutren 2026",
         "paragraphs": [
-          "A Black Month da Nestlé Nutre já começou. O [cupom Nestlé Nutre](/cupons/nestle-nutre), CECI, dá 10% OFF nos produtos elegíveis, com todas as formas de pagamento. Para o Nutren Senior, compare o mesmo produto e tamanho com a tabela de outubro: a ausência dele nos banners não diz se há oferta."
+          "A Black Month da Nestlé Nutre já começou. O [cupom Nestlé Nutre](/cupons/nestle-nutre), CECI, dá 10% OFF nos produtos elegíveis, kits inclusive. Em meados de novembro, o Nutren Senior de 740 g seguia no preço de outubro; a lata de 370 g, o Just Protein e o FiberMais estavam mais baratos, e o Nutren Active, mais caro."
         ]
       },
       {
@@ -56606,6 +56670,159 @@ export const reviewsData: unknown[] = [
           "A arte de início de novembro, pela Nutrição Adulta, mostra o Nutren Just Protein e o Nutren Control, sem percentual por produto. O esquenta em Materna, Ascenda, Nestonutri, Molico e Vital vai de 1º a 22 de novembro ou enquanto durarem os estoques, com até 25% OFF pelo banner da loja, exceto fórmulas infantis para lactentes e de seguimento para lactentes. Esses materiais não mostram todos os produtos em promoção; confira o preço do item escolhido no site.",
           "Use as tabelas de outubro como referência para o mesmo SKU, tamanho, quantidade e forma de compra. Some o frete e confira o CECI no carrinho. Para o Just Protein e o Nutren Control, a tabela deles está mais abaixo. A Black Friday de 2026 é em 27/11 e a Cyber Monday em 30/11; uma oferta anterior ou posterior pode ser melhor para o seu pedido.",
           "Dois cuidados: o CECI não vale em fórmulas infantis de 0 a 12 meses, e o Nestonutri, para crianças de 1 a 3 anos, segue a indicação do rótulo; na dúvida, o pediatra."
+        ]
+      },
+      {
+        "heading": "Outubro e novembro: o que melhorou, ficou igual ou subiu",
+        "paragraphs": [
+          "Relemos em meados de novembro os mesmos produtos das tabelas de outubro deste guia, sempre na compra única e antes do cupom. O resultado muda de produto para produto, então vale olhar a linha do que você quer comprar."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de compra única na loja Nestlé Nutre, antes do cupom: a nossa leitura de outubro e a de meados de novembro. A Nutren Creatina não foi localizada no site na segunda leitura.",
+          "headers": [
+            "Produto",
+            "Outubro",
+            "Novembro",
+            "Resultado"
+          ],
+          "rows": [
+            [
+              "Nutren Senior Café com Leite, 740 g",
+              "R$ 169,37",
+              "R$ 169,37",
+              "Igual"
+            ],
+            [
+              "Nutren Senior Zero Lactose Sem Sabor, 740 g",
+              "R$ 190,61",
+              "R$ 190,61",
+              "Igual"
+            ],
+            [
+              "Kit Nutren Senior Sem Sabor, 2 latas de 740 g",
+              "R$ 263,49",
+              "R$ 263,49",
+              "Igual"
+            ],
+            [
+              "Nutren Senior, lata de 370 g",
+              "R$ 100,79",
+              "R$ 85,67",
+              "Melhorou"
+            ],
+            [
+              "Nutren Just Protein, 280 g",
+              "R$ 115,91",
+              "R$ 103,03",
+              "Melhorou"
+            ],
+            [
+              "Combo Nutren Just Protein, 2 latas de 280 g",
+              "R$ 193,18",
+              "R$ 167,43",
+              "Melhorou"
+            ],
+            [
+              "FiberMais Sem Sabor, lata de 260 g",
+              "R$ 144,89",
+              "R$ 115,91",
+              "Melhorou"
+            ],
+            [
+              "Nutren Control Baunilha, 740 g",
+              "R$ 171,91",
+              "R$ 161,17",
+              "Melhorou"
+            ],
+            [
+              "Nutren Active Baunilha, 400 g",
+              "R$ 50,79",
+              "R$ 63,49",
+              "Subiu"
+            ],
+            [
+              "Nutren Creatina, 300 g",
+              "R$ 59,90",
+              "Não localizada",
+              "—"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O CECI entra sobre o preço da coluna de novembro. No Nutren Control, a conta dá R$ 145,05; no Nutren Active, R$ 57,14, ainda acima do preço de outubro sem cupom. Esses dois valores são conta nossa; os das próximas seções saíram do carrinho."
+        ]
+      },
+      {
+        "heading": "Nutren Senior: qual tamanho levar com o CECI",
+        "paragraphs": [
+          "A escolha do tamanho depende de quanto a pessoa toma, e não do desconto. Depois de aberta, a lata deve ser consumida em até 30 dias, informa o rótulo. A porção é de 27,5 g na versão sem sabor e de 31,5 g nos sabores: uma lata de 740 g rende 26,9 porções sem sabor ou 23,5 porções com sabor."
+        ],
+        "comparisonTable": {
+          "caption": "Nutren Senior no nosso carrinho de novembro: preço de compra única, valor com o cupom CECI aplicado e custo por 100 g de pó com o cupom.",
+          "headers": [
+            "Embalagem",
+            "No site",
+            "Com CECI",
+            "Por 100 g, com CECI"
+          ],
+          "rows": [
+            [
+              "Lata de 370 g",
+              "R$ 85,67",
+              "R$ 77,11",
+              "R$ 20,84"
+            ],
+            [
+              "Lata de 740 g",
+              "R$ 169,37",
+              "R$ 152,43",
+              "R$ 20,60"
+            ],
+            [
+              "Kit com 2 latas de 740 g, Sem Sabor",
+              "R$ 263,49",
+              "R$ 237,14",
+              "R$ 16,02"
+            ],
+            [
+              "Zero Lactose, lata de 740 g",
+              "R$ 190,61",
+              "R$ 171,55",
+              "R$ 23,18"
+            ],
+            [
+              "Kit Zero Lactose, 2 latas de 740 g",
+              "R$ 296,50",
+              "R$ 266,85",
+              "R$ 18,03"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Lata de 370 g:** para provar um sabor ou para quem toma de vez em quando. Com o preço de novembro, o custo por 100 g ficou quase igual ao da lata de 740 g, então a lata menor deixou de pesar no bolso.",
+          "**Lata de 740 g:** para quem toma uma porção por dia e termina a lata dentro dos 30 dias.",
+          "**Kit com 2 latas de 740 g:** o menor custo por 100 g da linha, em Sem Sabor ou Baunilha. Faz sentido para quem já consome uma lata por mês ou para duas pessoas na mesma casa: a segunda lata fica fechada até a primeira acabar. Para quem ainda vai experimentar, a lata avulsa pesa menos no total do pedido.",
+          "**Tradicional ou Zero Lactose:** a Zero Lactose leva a enzima lactase e custa mais por 100 g. Ela continua sendo um produto com leite: a lista de ingredientes traz leite integral, concentrado proteico de soro de leite, caseinato de cálcio e proteína isolada de soja.",
+          "**Intolerância à lactose e alergia ao leite são coisas diferentes:** a Zero Lactose atende quem evita a lactose. Quem tem alergia à proteína do leite de vaca (APLV) encontra essas proteínas na fórmula; nesse caso, a decisão é com o médico ou o nutricionista, com o rótulo em mãos."
+        ],
+        "postParagraphs": [
+          "A conta completa por forma de compra está em [Nutren Senior: qual tamanho e qual forma de compra compensam](/reviews/nutren-senior-kit-combo-ou-assinatura). A lista de ingredientes e a tabela nutricional da Zero Lactose estão em [Nutren Senior Zero Lactose: o que saber antes de comprar](/reviews/nutren-senior-zero-lactose-ficha-tecnica), e o preparo, em [Como tomar Nutren Senior sem empelotar](/reviews/nutren-senior-como-tomar-sem-empelotar)."
+        ]
+      },
+      {
+        "heading": "Just Protein, creatina e FiberMais: a conta por porção",
+        "bullets": [
+          "**Nutren Just Protein, 280 g:** whey isolado sem sabor. A porção é de 15 g, com 13 g de proteína: a lata rende 18,67 porções e 242,67 g de proteína. No nosso carrinho, o CECI levou os R$ 103,03 a R$ 92,72, o que dá R$ 4,97 por porção e R$ 38,21 por 100 g de proteína.",
+          "**Combo com 2 latas de Just Protein:** de R$ 167,43 a R$ 150,69 com o CECI, ou R$ 31,05 por 100 g de proteína. O rótulo pede usar o conteúdo em até 30 dias depois de aberto; o combo serve a quem já usa o produto todo mês.",
+          "**Antes de escolher o Just Protein:** o rótulo informa que ele contém lactose e derivados de leite e de soja, e que gestantes, lactantes e crianças não devem consumir.",
+          "**Nutren Creatina, 300 g:** não localizamos o produto no site na leitura de novembro. Em outubro, o sachê custava R$ 59,90, com porção de 3 g e 100 porções por embalagem. Se ele voltar, o CECI deve entrar como nos outros itens; confira no carrinho.",
+          "**FiberMais Sem Sabor, lata de 260 g:** de R$ 115,91 a R$ 104,32 com o CECI. A porção é de 3 colheres de chá (7,6 g), cerca de 34 por lata, o que dá perto de R$ 3,05 por porção. Depois de aberta, a lata deve ser consumida em até 60 dias.",
+          "**FiberMais em sachês, display com 10 de 5 g:** de R$ 45,51 a R$ 40,96 com o CECI, ou R$ 4,10 por sachê. Por 100 g, sai pelo dobro da lata (R$ 81,92 contra R$ 40,12). É a opção para levar na bolsa ou para testar o produto antes de comprar a lata.",
+          "**Como usar o FiberMais:** a Nestlé orienta acrescentar o pó ao fim do preparo, sem ferver.",
+          "**Nutren Control e Nutren Active:** o Control ficou mais barato que em outubro, e o Active, mais caro. Se o Active é o que você toma, compare com o que pagou da última vez antes de repor."
+        ],
+        "postParagraphs": [
+          "Para que serve cada um: [Nutren Just Protein: para que serve](/reviews/nutren-just-protein-para-que-serve), [Nutren Creatina é boa? Comparativo com Growth, FTW e Cimed](/reviews/nutren-creatina-e-boa-comparativo-growth-ftw-cimed) e [FiberMais: como usar em receitas e bebidas](/reviews/fibermais-como-usar-em-receitas-e-bebidas)."
         ]
       },
       {
@@ -56780,8 +56997,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Assinatura:** a FAQ da loja informa 10% OFF nos três primeiros pedidos e 15% a partir da 4ª recorrência consecutiva, em assinaturas acima de R$ 200, sobre o preço de compra única. As entregas são a cada 30, 60 ou 90 dias. As tabelas acima registram os preços de assinatura vistos em outubro, sem garantir o valor de uma cobrança futura.",
           "**Regras da assinatura:** uma assinatura ativa por CPF, paga só no cartão de crédito, com frete grátis acima de R$ 200. Dá para pular até duas entregas por ano e cancelar sem custo.",
-          "**Compra única com o CECI:** o cupom dá 10% OFF, com todas as formas de pagamento, e soma com os preços da Black Friday. Pela nossa conta, a lata de 740 g do Nutren Senior Zero Lactose, de R$ 190,61, sai por R$ 171,55, e o kit com duas latas sem sabor, de R$ 263,49, sai por R$ 237,14.",
-          "**Qual sai mais barato?** Na referência de outubro, a lata zero lactose custava R$ 169,43 na assinatura e R$ 171,55 na compra única com o CECI; no kit sem sabor, a conta era R$ 237,14 nos dois caminhos. Para decidir hoje, compare o preço atualizado, o frete e a frequência de reposição. O desconto progressivo da assinatura exige recorrências consecutivas.",
+          "**Compra única com o CECI:** o cupom dá 10% OFF, com todas as formas de pagamento, e soma com os preços da Black Month. No nosso carrinho de novembro, ele entrou em nove itens de uma vez, kits inclusive: a lata de 740 g do Nutren Senior Zero Lactose foi de R$ 190,61 a R$ 171,55, e o kit com duas latas sem sabor, de R$ 263,49 a R$ 237,14.",
+          "**Qual sai mais barato?** Em novembro, a diferença entre os dois caminhos é pequena. A lata de 740 g do Nutren Senior custa R$ 150,55 na assinatura e R$ 152,43 na compra única com o CECI; a Zero Lactose, R$ 169,43 e R$ 171,55; o Just Protein, R$ 90,15 e R$ 92,72; o kit sem sabor, R$ 237,14 nos dois. A assinatura só compensa para quem vai repor no ritmo das entregas: o desconto progressivo exige recorrências consecutivas.",
           "**Frete grátis:** acima de R$ 400 na compra única, na transportadora que o site define, e acima de R$ 200 na assinatura. Uma lata de 740 g sozinha não chega a R$ 400; três latas zero lactose passam do valor mesmo com o cupom (R$ 514,65, pela nossa conta)."
         ],
         "links": [
@@ -56872,10 +57089,12 @@ export const reviewsData: unknown[] = [
           "Quando começa e quanto dura a Black Friday da Nestlé Nutre? Já começou: a loja chama novembro de Black Month, \"novembro inteiro de ofertas\" em Nutrição Especializada, Nutrição Infantil, Nutrição Adulta e Vitaminas, com até 25% OFF e mais 10% com cupom. O esquenta, com até 25% OFF em Materna, Ascenda, Nestonutri, Molico e Vital, vai até o dia 22 ou enquanto durarem os estoques. O grande dia é a última sexta-feira de novembro, dia 27, e a Cyber Monday, a segunda seguinte.",
           "Qual cupom usar nos 10% adicionais do Black Month da Nestlé Nutre? O CECI: 10% OFF, com todas as formas de pagamento, sobre os preços da campanha. A loja aceita um cupom por pedido, e o CECI não vale em fórmulas infantis de 0 a 12 meses.",
           "O cupom CECI vale na Black Friday? Vale. O cupom Nestlé Nutre CECI dá 10% OFF sobre os preços do Black Month, nos produtos elegíveis, e não vale em fórmulas infantis de 0 a 12 meses.",
-          "O Nutren Senior entrou na Black Friday da Nestlé Nutre? A ausência dele numa arte não permite concluir que a linha esteja fora. Confira o SKU que você procura e compare o preço atual com a referência de outubro deste guia.",
-          "Quanto custa o Nutren Senior 740 g? Em outubro, a lata de café com leite saía por R$ 169,37 na compra única (preço riscado de R$ 188,19), e a zero lactose sem sabor, por R$ 190,61 (riscado de R$ 211,79). O kit com duas latas sem sabor saía por R$ 263,49.",
-          "O Nutren Senior fica mais barato na Black Friday? Depende do produto e da oferta. Compare o mesmo SKU, tamanho, quantidade, pagamento e frete. Na tabela de outubro, o kit de duas latas sem sabor aparecia a R$ 263,49; isso não é preço atual nem comprova economia de toda a linha.",
-          "O cupom CECI vale para o Nutren Senior? Vale nos itens elegíveis da loja, com 10% OFF, todas as formas de pagamento e soma com os preços da Black Friday. Sobre o preço histórico de R$ 190,61 da lata zero lactose, o CECI deixa a lata em R$ 171,55. Confira o preço atual e o desconto no carrinho.",
+          "O Nutren Senior entrou na Black Friday da Nestlé Nutre? Em parte. Em meados de novembro, a lata de 370 g estava mais barata que em outubro, e a lata de 740 g e os kits seguiam no mesmo preço. O cupom CECI dá 10% OFF em todos eles.",
+          "Quanto custa o Nutren Senior 740 g? Em meados de novembro, R$ 169,37 na compra única (preço riscado de R$ 188,19), o mesmo valor de outubro, e R$ 152,43 com o cupom CECI. A Zero Lactose sem sabor custa R$ 190,61, ou R$ 171,55 com o cupom.",
+          "O Nutren Senior fica mais barato na Black Friday? A lata de 370 g ficou: foi de R$ 100,79 em outubro para R$ 85,67. A de 740 g e o kit de duas latas não mudaram até meados de novembro. Compare o mesmo produto, tamanho e forma de compra, e some o frete.",
+          "O cupom CECI vale para o Nutren Senior? Vale, com 10% OFF e todas as formas de pagamento. No nosso carrinho de novembro, ele entrou na lata de 370 g, na de 740 g, na Zero Lactose e nos kits de duas latas.",
+          "O cupom CECI vale nos kits de Nutren Senior? Vale. No nosso carrinho de novembro, o kit com duas latas de 740 g sem sabor foi de R$ 263,49 a R$ 237,14, e o kit Zero Lactose, de R$ 296,50 a R$ 266,85.",
+          "Nutren Senior Zero Lactose serve para quem tem alergia ao leite? A Zero Lactose é feita para quem evita a lactose, e a fórmula leva leite integral, proteínas do soro de leite e caseinato de cálcio. Alergia à proteína do leite é outra condição: quem tem o diagnóstico decide com o médico.",
           "Quais produtos ficam fora do cupom CECI? Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Nos demais produtos da loja, o cupom dá 10% OFF.",
           "A Nestlé Nutre tem frete grátis? Tem, acima de R$ 400 na compra única e acima de R$ 200 na assinatura.",
           "Como funciona a assinatura da Nestlé Nutre? São 10% OFF nos três primeiros pedidos e 15% a partir da 4ª recorrência consecutiva, segundo a FAQ da loja. A assinatura é por CPF, paga no cartão de crédito, com entregas a cada 30, 60 ou 90 dias, e dá para cancelar sem custo.",
@@ -56925,7 +57144,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Magalu 2026 é em 27 de novembro, com ofertas antecipadas o mês todo. O que é só no app, as faixas do código da Cecília e preços de eletro.",
     "publishedAt": "11 de outubro de 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/magalu/black-friday-magalu-capa-v2.webp",
@@ -57033,15 +57252,16 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Exemplos com os preços de outubro da tabela de preços mais abaixo, que caem na mesma faixa no cartão e no Pix: a geladeira Consul Frost Free de 377 litros, a R$ 2.727,54, fica na faixa do **50EMCASACOMCECILIA**. Com o micro-ondas Electrolux de 34 litros na mesma sacola, o total passa de R$ 2.999,90 e libera o **60EMCASACOMCECILIA**. Uma geladeira Brastemp Inox de 512 litros com a lavadora Electrolux de 15 kg passa de R$ 4.999,90 e libera o **100EMCASACOMCECILIA**.",
-          "A maioria dos eletroportáteis custa menos que os R$ 499,90 da primeira faixa. Para usar o código numa air fryer ou num aspirador, junte na mesma sacola outros itens vendidos e entregues pelo Magalu."
+          "Exemplos com os preços de meados de novembro, da tabela mais abaixo: a geladeira Consul Frost Free de 377 litros, a R$ 2.999,00 no cartão, fica na faixa do **50EMCASACOMCECILIA**, a 90 centavos da faixa de cima. Qualquer outro item vendido e entregue pelo Magalu na mesma sacola libera o **60EMCASACOMCECILIA**. Uma geladeira Brastemp Inox de 512 litros com a lavadora Electrolux de 15 kg passa de R$ 4.999,90 e libera o **100EMCASACOMCECILIA**.",
+          "Não confirmamos se o valor mínimo da faixa conta sobre o preço do cartão ou sobre o do Pix. Isso pesa quando os dois preços caem em faixas diferentes: a lavadora Electrolux de 15 kg custava R$ 2.099,00 no cartão, acima dos R$ 1.999,90 da faixa de R$ 40, e R$ 1.994,05 no Pix, abaixo dela. Nesse caso, teste primeiro o código da faixa de cima e, se a loja recusar, o da faixa de baixo. O cupom é digitado na etapa de pagamento, depois do login, e o resumo mostra o desconto antes de você pagar.",
+          "A maioria dos eletroportáteis custa menos que os R$ 499,90 da primeira faixa. Para usar o código numa panela elétrica ou num aspirador, junte na mesma sacola outros itens vendidos e entregues pelo Magalu que você já ia comprar."
         ]
       },
       {
         "heading": "Cupom do Magalu ou código da Cecília?",
         "paragraphs": [
           "Vale um cupom por pedido: algumas páginas mostram um cupom do próprio Magalu para copiar e colar na revisão do pedido. Em outubro, apareciam cupons de R$ 50 a R$ 225 em eletrodomésticos vendidos pelo Magalu.",
-          "Como vale um cupom por pedido, o código da Cecília é para quando o produto não tem cupom do próprio Magalu, ou quando ele não vale para o que você quer comprar. Se o produto tiver os dois, use o que der mais desconto: na geladeira Electrolux de 260 litros da tabela de preços abaixo, o cupom do Magalu tirava R$ 225, e o código da Cecília, R$ 40."
+          "Como vale um cupom por pedido, o código da Cecília é para quando o produto não tem cupom do próprio Magalu, ou quando ele não vale para o que você quer comprar. Se o produto tiver os dois, use o que der mais desconto. Em meados de novembro, a página da lavadora Electrolux de 15 kg mostrava um cupom do Magalu de R$ 50, mais que os R$ 40 da faixa da Cecília para esse valor. Em outubro, na geladeira Electrolux de 260 litros, o cupom do Magalu tirava R$ 225, e o código da Cecília, R$ 40."
         ],
         "links": [
           {
@@ -57079,9 +57299,172 @@ export const reviewsData: unknown[] = [
         }
       },
       {
+        "heading": "Outubro e novembro: o que melhorou, ficou igual ou subiu",
+        "paragraphs": [
+          "Relemos em meados de novembro os produtos da tabela de outubro, na loja Magazine Você da Cecília, sem CEP informado e sempre vendidos e entregues pelo Magalu. O resultado varia de produto para produto, e o preço ainda pode mudar até a sexta-feira da Black Friday."
+        ],
+        "comparisonTable": {
+          "caption": "Loja Magazine Você da Cecília em meados de novembro, antes do código, e a comparação com a nossa leitura de outubro. O preço muda com o CEP e a cada dia.",
+          "headers": [
+            "Produto",
+            "No cartão, sem juros",
+            "No Pix",
+            "Contra outubro"
+          ],
+          "rows": [
+            [
+              "Geladeira Electrolux Cycle Defrost 260 L (DC35A)",
+              "R$ 2.199,00",
+              "R$ 2.089,05",
+              "Melhorou"
+            ],
+            [
+              "Geladeira Consul Frost Free 377 L (CRM44MBBNA)",
+              "R$ 2.999,00",
+              "R$ 2.849,05",
+              "Subiu"
+            ],
+            [
+              "Geladeira Electrolux Frost Free 400 L (IF44)",
+              "R$ 2.841,05",
+              "R$ 2.699,00",
+              "Melhorou no cartão, igual no Pix"
+            ],
+            [
+              "Geladeira Brastemp Frost Free Inox 512 L (BRM62AK)",
+              "R$ 3.916,49",
+              "R$ 3.799,00",
+              "Subiu"
+            ],
+            [
+              "Lavadora Electrolux 15 kg (LEC15)",
+              "R$ 2.099,00",
+              "R$ 1.994,05",
+              "Praticamente igual"
+            ],
+            [
+              "Lavadora Brastemp 14 kg (BWJ14ABANA)",
+              "R$ 2.099,00",
+              "R$ 1.994,05",
+              "Subiu"
+            ],
+            [
+              "Micro-ondas Electrolux 34 L (MEO44)",
+              "R$ 649,00",
+              "R$ 616,55",
+              "Igual"
+            ],
+            [
+              "Fogão 4 bocas Esmaltec Ideal Pop 4120",
+              "R$ 659,00",
+              "R$ 606,28",
+              "Subiu"
+            ],
+            [
+              "Fogão 4 bocas Consul Inox (CFO4NARUNA)",
+              "R$ 1.282,04",
+              "R$ 1.217,94",
+              "Melhorou"
+            ],
+            [
+              "Panela de pressão elétrica digital Mondial 5 L",
+              "R$ 368,32",
+              "R$ 349,90",
+              "Melhorou"
+            ],
+            [
+              "Aspirador vertical Electrolux STK14",
+              "R$ 177,89",
+              "R$ 177,89",
+              "Melhorou"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As duas air fryers Mondial da tabela de outubro (AFN-40-BI, de 4 litros, e AFON-12L-BI, de 12 litros) não tinham oferta vendida pelo Magalu nessa leitura, só de lojistas parceiros, onde o código não entra. A versão preta da de 4 litros (AFN-40-BF), vendida pelo Magalu, estava a R$ 272,63 no cartão e R$ 259,00 no Pix."
+        ]
+      },
+      {
+        "heading": "O que comprar em cada caminho: linha branca, cozinha e eletroportáteis",
+        "paragraphs": [
+          "A tabela aplica o código da faixa de cada produto sobre os preços de meados de novembro. É conta nossa: o cupom do Magalu entra na etapa de pagamento, depois do login, e não refizemos o teste de checkout nesta leitura. O último, em outubro, tirou R$ 50 de uma sacola de R$ 2.999 com o 50EMCASACOMCECILIA."
+        ],
+        "comparisonTable": {
+          "caption": "Código da faixa de cada produto e o preço com ele, pela nossa conta, sobre os preços de meados de novembro na loja Magazine Você da Cecília. Nas duas lavadoras, a faixa depende da base do valor mínimo, que não confirmamos.",
+          "headers": [
+            "Produto",
+            "Código da faixa",
+            "No cartão, com o código",
+            "No Pix, com o código"
+          ],
+          "rows": [
+            [
+              "Geladeira Electrolux 260 L (DC35A)",
+              "40EMCASACOMCECILIA",
+              "R$ 2.159,00",
+              "R$ 2.049,05"
+            ],
+            [
+              "Geladeira Electrolux Frost Free 400 L (IF44)",
+              "50EMCASACOMCECILIA",
+              "R$ 2.791,05",
+              "R$ 2.649,00"
+            ],
+            [
+              "Geladeira Consul Frost Free 377 L",
+              "50EMCASACOMCECILIA",
+              "R$ 2.949,00",
+              "R$ 2.799,05"
+            ],
+            [
+              "Geladeira Brastemp Inox 512 L",
+              "70EMCASACOMCECILIA",
+              "R$ 3.846,49",
+              "R$ 3.729,00"
+            ],
+            [
+              "Lavadoras Electrolux 15 kg e Brastemp 14 kg",
+              "40 ou 30EMCASACOMCECILIA",
+              "R$ 2.059,00",
+              "R$ 1.964,05"
+            ],
+            [
+              "Fogão Consul Inox 4 bocas",
+              "20EMCASACOMCECILIA",
+              "R$ 1.262,04",
+              "R$ 1.197,94"
+            ],
+            [
+              "Fogão Esmaltec Ideal Pop",
+              "10EMCASACOMCECILIA",
+              "R$ 649,00",
+              "R$ 596,28"
+            ],
+            [
+              "Micro-ondas Electrolux 34 L",
+              "10EMCASACOMCECILIA",
+              "R$ 639,00",
+              "R$ 606,55"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Geladeira pelo menor desembolso:** a Electrolux de 260 litros, que ficou mais barata que em outubro. É Cycle Defrost: o freezer pede degelo manual de tempos em tempos.",
+          "**Geladeira Frost Free:** a Electrolux de 400 litros melhorou no cartão e ficou igual no Pix. A Consul de 377 litros e a Brastemp Inox de 512 litros estavam acima do preço de outubro: se uma delas é a que você quer, acompanhe o preço até a data antes de fechar.",
+          "**Lavadora:** a Electrolux de 15 kg estava praticamente no preço de outubro, e a página dela mostrava um cupom do próprio Magalu maior que o código da Cecília. A Brastemp de 14 kg subiu.",
+          "**Cozinha:** o fogão Consul Inox de 4 bocas melhorou; o Esmaltec Ideal Pop subiu, e o micro-ondas Electrolux de 34 litros ficou igual.",
+          "**Eletroportáteis:** a panela de pressão elétrica Mondial de 5 litros e o aspirador vertical Electrolux ficaram mais baratos que em outubro. Sozinhos, ficam abaixo dos R$ 499,90 da primeira faixa, e o preço da página já é o que você paga.",
+          "**Air fryer:** confira o vendedor antes de pôr na sacola. Na nossa leitura, os dois modelos Mondial da tabela de outubro só apareciam com lojistas parceiros."
+        ],
+        "postParagraphs": [
+          "O código é um valor fixo por faixa, então ele não muda a ordem de preço entre dois produtos da mesma faixa: escolha pelo tamanho, pela voltagem e pelo que cabe no espaço, e use o código no fim. Só junte itens para subir de faixa quando o item extra já estava na sua lista: R$ 10 a mais de desconto não pagam um produto que você não ia comprar.",
+          "O passo a passo do código no checkout está em [Como usar o cupom Magalu da Cecília](/reviews/cupom-magalu-em-casa-com-cecilia)."
+        ]
+      },
+      {
         "heading": "Preços de outubro para comparar",
         "paragraphs": [
-          "Ancore a Black Friday nestes produtos vendidos e entregues pelo Magalu, observados em 10 de outubro de 2026 na loja da Cecília: a oferta só é desconto de verdade se o preço do dia ficar abaixo da tabela. O preço riscado (\"de\") da página não entra nessa comparação."
+          "Estes são os mesmos produtos, vendidos e entregues pelo Magalu, como estavam em 10 de outubro de 2026 na loja da Cecília. Servem de régua até a sexta-feira da Black Friday: a oferta do dia é melhor que a de outubro quando o preço fica abaixo desta tabela. O preço riscado (\"de\") da página não entra nessa comparação."
         ],
         "comparisonTable": {
           "caption": "Loja Magazine Você da Cecília, sem CEP informado, antes do código. O preço muda com o CEP e a cada dia, e o número de parcelas sem juros varia por produto.",
@@ -57191,7 +57574,9 @@ export const reviewsData: unknown[] = [
           "O cupom 10EMCASACOMCECILIA vale na Black Friday? Vale. Os cupons da Cecília no Magalu, de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, entram sobre o preço da Black Friday, na loja Magazine Você da Cecília, pelo navegador. As ofertas exclusivas do app ficam fora.",
           "O cupom da Cecília funciona no app do Magalu? Não. Os códigos só funcionam pelo navegador, na loja Magazine Você da Cecília, então as ofertas exclusivas do app ficam fora deles.",
           "Posso usar o código da Cecília junto com o cupom do Magalu? Não, vale um cupom por pedido. O código da Cecília é para quando o produto não tem cupom do próprio Magalu, ou quando ele não vale para o que você quer comprar. O cupom extra diário da Black Friday é só do app, onde o código da Cecília não entra.",
-          "Qual código usar na compra de uma geladeira? Depende do valor da sacola. Pela tabela de preços, a geladeira Consul Frost Free de 377 litros custava R$ 2.727,54 e ficava na faixa do 50EMCASACOMCECILIA, de R$ 50 OFF.",
+          "Qual código usar na compra de uma geladeira? Depende do valor da sacola. Em meados de novembro, a geladeira Consul Frost Free de 377 litros custava R$ 2.999,00 no cartão e ficava na faixa do 50EMCASACOMCECILIA, de R$ 50 OFF, a 90 centavos da faixa de R$ 60.",
+          "O valor mínimo do código conta no preço do cartão ou no do Pix? Não confirmamos. Quando os dois preços caem em faixas diferentes, teste primeiro o código da faixa de cima e, se a loja recusar, o da faixa de baixo. O resumo do pedido mostra o desconto antes do pagamento.",
+          "Os preços do Magalu já baixaram para a Black Friday? Em parte. Dos 11 produtos que relemos em meados de novembro, cinco estavam mais baratos que em outubro, quatro mais caros e dois iguais ou quase. A tabela do guia traz um por um.",
           "O Magalu tem desconto no Pix? Tem, e ele muda por produto: nos eletrodomésticos da tabela de preços, ia de 5% a 7% em outubro. O código da Cecília também vale no Pix.",
           "Dá para comprar no site do Magalu e retirar na loja? Dá, nos produtos que têm a opção Retira loja. Digite o CEP na página do produto para ver as lojas mais próximas e o prazo.",
           "O Magalu tem frete grátis na Black Friday? Depende do produto e do CEP. Se o produto aparece com frete grátis num banner, confirme com o seu CEP na página do produto ou na sacola antes de fechar a compra.",
@@ -189698,11 +190083,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black da HolyFoods dá 30% no site todo, já no preço, e o cupom EMCASA tirou mais 15% por cima nos nossos testes. Veja qual dos três kits compensa e o mínimo do frete grátis.",
+    "description": "A Black da HolyFoods dá 30% no site todo, e o cupom EMCASA tirou mais 15% por cima nos três kits. Veja o que levar, a conta das sopas por 100 g e o mínimo do frete grátis.",
     "metaDescription": "Black Friday HolyFoods: use o cupom EMCASA e tire mais 15% por cima dos 30% do site, na tela de finalizar a compra. Veja os kits, o frete e a garantia.",
     "publishedAt": "5 de novembro de 2026",
     "publishedAtISO": "2026-11-05",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-16",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/holyfoods/black-friday-holyfoods-capa-v2.webp",
@@ -189760,10 +190145,12 @@ export const reviewsData: unknown[] = [
               "R$ 8,81"
             ]
           ],
-          "caption": "Preços da loja, 05/11, já com os 30%; o \"de\" é o preço de lista e o \"por refeição\" é a conta da loja, que conta cada sachê de pack como uma refeição."
+          "caption": "Preços da loja no começo de novembro, iguais em meados do mês, já com os 30%; o \"de\" é o preço de lista e o \"por refeição\" é a conta da loja, que conta cada sachê de pack como uma refeição."
         },
         "postParagraphs": [
-          "Conta nossa, pelos preços da tabela: multiplique o avulso pelo número de itens e chega no preço de cada kit, nem um centavo a menos. O \"por refeição\" menor do Despensa Cheia vem dos dois packs de sopa: o sachê do pack sai por menos de um terço de um risoto ou de um mac, e a loja conta cada sachê como uma refeição. Massa e risoto custam o mesmo em qualquer kit, então quem não quer sopa não ganha nada no kit grande.",
+          "Conta nossa, pelos preços da tabela: multiplique o avulso pelo número de itens e chega no preço de cada kit, nem um centavo a menos. Massa e risoto custam R$ 13,93 a unidade em qualquer kit, e cada unidade é uma refeição.",
+          "A média de R$ 8,81 do Despensa Cheia mistura duas coisas. Dos R$ 334,60, R$ 250,74 são as 18 massas e risotos, a R$ 13,93 cada, e R$ 83,86 são os dois packs de sopa, com 20 sachês a R$ 4,19. Quem não quer sopa não ganha nada no kit grande; quem quer sopa pode comprar só os packs.",
+          "A home da loja também mostra o Projeto 30 Dias, com três packs de sopa: são 30 sachês por R$ 125,79, os mesmos R$ 4,19 por sachê do pack avulso.",
           "O Mac Queijo vem nos três kits; no vídeo do fim do artigo, a Cecília prepara um na panela."
         ],
         "images": [
@@ -189799,7 +190186,7 @@ export const reviewsData: unknown[] = [
               "[Pack Sopa da Vovó](https://www.holyfoods.com.br/products/pack-sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 59,90",
               "R$ 41,93",
-              "10 sachês individuais"
+              "10 sachês de 43 g; 3,5 litros, 10 porções de 350 ml"
             ],
             [
               "[Risoto Funghi](https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
@@ -189814,11 +190201,12 @@ export const reviewsData: unknown[] = [
               "1 refeição, 380 g"
             ]
           ],
-          "caption": "Preços da loja, 05/11, com os 30% já no preço; o rendimento é o da página de cada produto."
+          "caption": "Preços da loja no começo de novembro, iguais em meados do mês, com os 30% já no preço; o rendimento é o da página de cada produto."
         },
         "postParagraphs": [
-          "A sopa avulsa sai a R$ 3,48 por porção de 250 g, e o pack, de 10 sachês individuais, a R$ 4,19 por sachê, pelo número que a loja mostra no card dele. Pelos números dela, o sachê do pack sai mais caro que a porção do avulso. Confira o peso de cada sachê na embalagem que chegar.",
-          "Risoto e mac são uma refeição por embalagem, com 20 g de proteína. A página dos produtos diz que são sem glúten e que alguns levam leite e lactose, então confira o rótulo se isso importa na sua casa. Ficam fechados na despensa, sem congelador, e o preparo é de 15 a 20 minutos no fogão. Quem quer rendimento pelo preço vai no avulso; quem quer a porção separada de sopa vai no pack."
+          "Sopa avulsa e pack não se comparam pela porção, porque as porções têm tamanhos diferentes: a avulsa rende 4 porções de 250 g, a R$ 3,48 cada, e o sachê do pack rende uma porção de 350 ml, a R$ 4,19. A régua que vale é o peso da mistura seca. A Sopa da Vovó avulsa traz 130 g de mistura e o pack, 430 g: por 100 g, a avulsa sai a R$ 10,72 e o pack, a R$ 9,75, cerca de 9% a menos. Pelo rendimento preparado, a conta aponta para o mesmo lado: R$ 13,93 por litro na avulsa e R$ 11,98 por litro no pack.",
+          "O pack só compensa para quem vai tomar os dez sachês; para provar um sabor, a avulsa custa um terço do pack. A conta por sabor está em [HolyFoods é boa?](/reviews/holyfoods-e-boa).",
+          "Risoto e mac são uma refeição por embalagem, com 20 g de proteína. Ficam fechados na despensa, sem congelador, e o preparo é de 15 a 20 minutos no fogão."
         ],
         "images": [
           {
@@ -189831,10 +190219,28 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Rótulo por sabor: o que cada um declara para alérgicos",
+        "paragraphs": [
+          "A declaração de alérgicos muda de sabor para sabor. Copiamos abaixo o texto da página de cada produto, como a loja publica. Em caso de alergia, vale o rótulo da embalagem que chegar e a orientação do seu médico; este guia não indica produto para alérgicos."
+        ],
+        "bullets": [
+          "**Sopas avulsas:** \"ALÉRGICOS: CONTÉM DERIVADOS DE SOJA. PODE CONTER CRUSTÁCEOS (CAMARÃO), PEIXES, LEITE, OVOS, AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN.\"",
+          "**Packs de sopa:** \"ALÉRGICOS: CONTÉM DERIVADOS DE SOJA. PODE CONTER DERIVADOS DE LEITE, OVOS, PEIXES, CRUSTÁCEOS (CAMARÃO), AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN.\"",
+          "**Mac Queijo:** \"ALÉRGICOS: CONTÉM DERIVADOS DE LEITE E SOJA. PODE CONTER OVOS, PEIXES, CRUSTÁCEOS (CAMARÃO), AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN. CONTÉM LACTOSE.\"",
+          "**Mac Alfredo:** \"ALÉRGICOS: CONTÉM DERIVADOS DE LEITE. PODE CONTER SOJA, OVOS, PEIXES, CRUSTÁCEOS (CAMARÃO), AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN. CONTÉM LACTOSE.\"",
+          "**Risoto Funghi:** \"ALÉRGICOS: PODE CONTER DERIVADOS DE LEITE, SOJA, OVOS, PEIXES, CRUSTÁCEOS (CAMARÃO), AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN.\"",
+          "**Risoto Al Mare:** \"ALÉRGICOS: CONTÉM PEIXES E CRUSTÁCEOS (CAMARÃO). PODE CONTER OVOS, LEITE, SOJA, AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN.\"",
+          "**Risoto de Queijo:** \"ALÉRGICOS: CONTÉM DERIVADOS DE LEITE. PODE CONTER DERIVADOS DE SOJA, OVOS, PEIXES, CRUSTÁCEOS (CAMARÃO), AVEIA (SEM GLÚTEN) E AMENDOIM. NÃO CONTÉM GLÚTEN. CONTÉM LACTOSE.\""
+        ],
+        "postParagraphs": [
+          "Isso pesa na escolha do kit: os três trazem Mac Queijo, Mac Alfredo e Risoto Al Mare, e a Rotina Resolvida ainda traz o Risoto de Queijo. Quem evita leite, lactose, peixe ou camarão monta o pedido pelos avulsos, que custam o mesmo."
+        ]
+      },
+      {
         "heading": "O cupom EMCASA na Black: o que os testes mostraram",
         "paragraphs": [
-          "O EMCASA tirou 15% por cima dos 30% da Black nos dois testes que fizemos, e só entra numa tela: a de finalizar a compra, no endereço seguro.holyfoods.com.br, que é o checkout da própria loja. No carrinho ele não entra, e o link da parceria também não o aplica: ele abre a loja, mas o código você copia e cola.",
-          "Os dois testes feitos nessa tela estão na tabela, e o passo a passo vem logo abaixo:"
+          "O EMCASA tirou 15% por cima dos 30% da Black nos quatro testes que fizemos, e só entra numa tela: a de finalizar a compra, no endereço seguro.holyfoods.com.br, que é o checkout da própria loja. No carrinho ele não entra, e o link da parceria também não o aplica: ele abre a loja, mas o código você copia e cola.",
+          "Os quatro testes feitos nessa tela estão na tabela, e o passo a passo vem logo abaixo:"
         ],
         "bullets": [
           "Monte o carrinho com os itens ou com o kit e clique em \"Finalizar compra\".",
@@ -189859,18 +190265,32 @@ export const reviewsData: unknown[] = [
               "R$ 59,32"
             ],
             [
-              "Despensa",
-              "20 itens: 2 packs de sopa, massas e risotos, com frete grátis",
+              "Descoberta",
+              "8 itens: massas e risotos",
+              "R$ 111,44",
+              "−R$ 16,72",
+              "R$ 94,72"
+            ],
+            [
+              "Rotina Resolvida",
+              "15 itens: massas e risotos",
+              "R$ 208,95",
+              "−R$ 31,34",
+              "R$ 177,61"
+            ],
+            [
+              "Despensa Cheia",
+              "20 itens: 2 packs de sopa, massas e risotos",
               "R$ 334,60",
               "−R$ 50,19",
               "R$ 284,41"
             ]
           ],
-          "caption": "Testes na tela \"Finalizar compra\", 05/11, com os 30% da Black já nos preços."
+          "caption": "Testes na tela \"Finalizar compra\", em novembro, com os 30% da Black já nos preços. Os carrinhos de sopas e do Despensa Cheia são do começo do mês; os do Descoberta e da Rotina Resolvida, de meados."
         },
         "postParagraphs": [
-          "Nos dois, o desconto foi de 15% sobre o preço que já tinha os 30%. O segundo carrinho tem os itens e o preço do Despensa Cheia, e como todo kit entra na sacola como itens avulsos, o EMCASA foi testado num carrinho igual ao dele. O Descoberta e a Rotina Resolvida não passaram pelo teste: confira a linha \"Descontos\" no checkout antes de pagar.",
-          "Os dois descontos não dão 45%: no carrinho igual ao Despensa Cheia, o preço final ficou 40,5% abaixo do de lista. As condições do dia estão na página do [cupom HolyFoods](/cupons/holyfoods), e o passo a passo com as soluções para o código que não entra, em [Como usar o cupom da HolyFoods](/reviews/cupom-holyfoods-como-usar). O EMCASA é da loja online: no Mercado Livre vale o preço do anúncio."
+          "Nos quatro, o desconto foi de 15% sobre o preço que já tinha os 30%. Como todo kit entra na sacola como itens avulsos, o cupom age do mesmo jeito num kit ou num carrinho montado por você. Com o EMCASA, a massa ou o risoto sai por R$ 11,84 a unidade, e o sachê do pack de sopa, por R$ 3,56. Confira a linha \"Descontos\" no checkout antes de pagar.",
+          "Os dois descontos não dão 45%: o preço final fica 40,5% abaixo do de lista. As condições do dia estão na página do [cupom HolyFoods](/cupons/holyfoods), e o passo a passo com as soluções para o código que não entra, em [Como usar o cupom da HolyFoods](/reviews/cupom-holyfoods-como-usar). O EMCASA é da loja online: no Mercado Livre vale o preço do anúncio."
         ]
       },
       {
@@ -189904,7 +190324,8 @@ export const reviewsData: unknown[] = [
           "caption": "Mínimos da campanha da Black, no FAQ da home da loja."
         },
         "postParagraphs": [
-          "O mínimo considera o preço depois dos descontos dos produtos, e a loja não diz se o EMCASA entra nessa conta. Pelos preços de tabela, o Descoberta fica abaixo dos três mínimos, a Rotina Resolvida passa só o de SP e a Despensa Cheia passa os três. Com os 15% do cupom (conta nossa), a Rotina Resolvida cai a R$ 177,61, abaixo do mínimo de SP, e a Despensa Cheia, a R$ 284,41, abaixo dos R$ 289 de GO, SC, ES e RS. Na prática, um carrinho igual ao da Despensa Cheia saiu com frete grátis a R$ 284,41; no seu CEP, confira o frete no resumo depois de aplicar o EMCASA.",
+          "O mínimo considera o preço depois dos descontos dos produtos, e a loja não diz se o EMCASA entra nessa conta. Pelos preços de tabela, o Descoberta fica abaixo dos três mínimos, a Rotina Resolvida passa só o de SP e a Despensa Cheia passa os três. Com o cupom, o Descoberta fica em R$ 94,72, a Rotina Resolvida, em R$ 177,61, abaixo do mínimo de SP, e a Despensa Cheia, em R$ 284,41, abaixo dos R$ 289 de GO, SC, ES e RS. No começo de novembro, um carrinho igual ao da Despensa Cheia saiu com frete grátis a R$ 284,41; nos testes do Descoberta e da Rotina Resolvida, o frete não foi lido, porque a loja só o mostra depois da identificação.",
+          "Decida pelo total entregue, com produtos, cupom e frete. Um carrinho pouco abaixo do mínimo pode sair mais caro que o mesmo carrinho com um item a mais, mas só complete com o que você vai comer: confira o frete no resumo, depois de aplicar o EMCASA, com e sem o item extra.",
           "Frete grátis não é prazo. A política da loja diz que a preparação para postagem leva até 3 dias úteis depois da aprovação do pagamento, e o transporte soma a isso; o prazo para o seu CEP aparece no checkout. A reclamação mais comum no Reclame Aqui é produto não recebido, e os números estão em [HolyFoods no Reclame Aqui](/reviews/holyfoods-reclame-aqui-nota-reputacao). Guarde o número do pedido e use o \"Rastrear pedido\" do menu da loja."
         ]
       },
@@ -189912,6 +190333,7 @@ export const reviewsData: unknown[] = [
         "heading": "Garantia de 30 dias: como pedir um kit grande com folga",
         "paragraphs": [
           "A garantia de 30 dias é o que tira o medo do kit grande: ela vale depois de receber e aceita uma unidade aberta, desde que as demais estejam fechadas. A devolução não tem custo, e o reembolso inclui a unidade que você abriu.",
+          "Ela é uma política da loja e não se confunde com o direito de arrependimento do artigo 49 do Código de Defesa do Consumidor, que dá 7 dias corridos do recebimento para desistir de qualquer compra feita pela internet, com a devolução do que foi pago, frete inclusive. Dentro dos 7 dias, vale a lei; a garantia da loja estende o prazo para 30 dias, nas condições dela.",
           "O pedido é por e-mail, em contato@holyfoods.com.br, com o número do pedido. O reembolso volta pelo meio de pagamento da compra: no Pix, até 7 dias úteis depois de validada a devolução; no cartão, pode aparecer em até duas faturas.",
           "Na prática: se você vai pedir o Despensa Cheia sem conhecer a linha, abra uma unidade e mantenha as outras fechadas até decidir."
         ]
@@ -189919,10 +190341,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual kit levar na Black",
         "paragraphs": [
-          "Pelos números da tabela, o perfil decide:",
-          "**Primeira vez na loja:** o Descoberta. É o menor, a loja o indica para conhecer, e a garantia cobre a unidade aberta. Ele fica abaixo dos três mínimos publicados do frete grátis, então some o frete na conta.",
-          "**Abastecer a despensa:** o Despensa Cheia. Antes do cupom, é o que passa os três mínimos publicados do frete grátis, e é o único com o carrinho testado no EMCASA (o frete saiu grátis a R$ 284,41; confira o resumo no seu CEP). O custo por refeição menor vem das sopas; se você não quer sopa, a Rotina Resolvida é só massa e risoto, com 15 refeições.",
-          "**Pedido avulso:** a sopa, o risoto e o mac custam o mesmo na Black. Escolha pelo rendimento da tabela de avulsos.",
+          "Pelos números das tabelas, o perfil decide:",
+          "**Primeira vez na loja:** o Descoberta. É o menor, a loja o indica para conhecer, e a garantia cobre a unidade aberta. Com o EMCASA, saiu por R$ 94,72 no nosso teste. Ele fica abaixo dos três mínimos publicados do frete grátis, então some o frete na conta.",
+          "**Massa e risoto para o mês:** a Rotina Resolvida, com 15 refeições e sem sopa, por R$ 177,61 com o EMCASA. Só vale para quem vai comer as 15: a unidade custa o mesmo no avulso, então dá para montar um carrinho menor com os sabores que você prefere.",
+          "**Massa, risoto e sopa:** o Despensa Cheia, por R$ 284,41 com o EMCASA. Antes do cupom, é o que passa os três mínimos publicados do frete grátis. A média por refeição menor vem das sopas.",
+          "**Só sopa:** os packs. Por 100 g de mistura, o pack sai cerca de 9% abaixo da sopa avulsa, e a avulsa serve para provar o sabor antes.",
           "Antes de pagar:"
         ],
         "bullets": [
@@ -189931,7 +190354,7 @@ export const reviewsData: unknown[] = [
           "Veja a linha \"Descontos\" e o frete antes de pagar.",
           "Guarde o número do pedido: você vai precisar dele no rastreio e na garantia."
         ],
-        "emphasis": "Pela contagem da loja, quem quer abastecer a despensa fecha a menor média por refeição no Despensa Cheia, que inclui sachês de sopa; quem só quer conhecer começa pelo Descoberta.",
+        "emphasis": "Massa e risoto custam o mesmo em qualquer kit e no avulso. O tamanho do pedido se decide pelo que você vai comer e pelo frete, e não pela média por refeição.",
         "emphasisAfterParagraph": 1
       },
       {
@@ -189939,9 +190362,12 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Precisa de cupom para ter os 30% da Black da HolyFoods? Não: os 30% já estão no preço, nos avulsos e nos kits. O EMCASA é um desconto a mais, na tela de finalizar a compra.",
           "Até quando vai a Black Friday da HolyFoods? A loja não publicou a data de fim: vale enquanto a campanha estiver no ar, e o capítulo da campanha diz como conferir.",
-          "O cupom EMCASA vale na Black Friday? Vale. Nos nossos testes, o cupom HolyFoods EMCASA somou com a Black: 15% sobre o preço que já tinha os 30%. O capítulo do cupom traz os dois carrinhos.",
+          "O cupom EMCASA vale na Black Friday? Vale. Nos nossos testes, o cupom HolyFoods EMCASA somou com a Black: 15% sobre o preço que já tinha os 30%. O capítulo do cupom traz os quatro carrinhos.",
+          "O cupom EMCASA vale nos kits da Black da HolyFoods? Vale. Nos nossos testes na tela de finalizar a compra, ele tirou 15% do Descoberta, da Rotina Resolvida e de um carrinho igual ao Despensa Cheia, sobre o preço que já tinha os 30%.",
           "Qual kit da Black da HolyFoods escolher para começar? A loja indica o Descoberta para conhecer a linha; a comparação dos três está no capítulo \"Qual kit levar\".",
-          "A HolyFoods tem frete grátis na Black? Tem, a partir de um mínimo que muda por estado; a tabela está no capítulo do frete."
+          "A HolyFoods tem frete grátis na Black? Tem, a partir de um mínimo que muda por estado; a tabela está no capítulo do frete.",
+          "Pack de sopa ou sopa avulsa da HolyFoods: qual sai mais em conta? Por 100 g de mistura seca, o pack sai cerca de 9% abaixo da avulsa. A porção do sachê é maior que a da avulsa, então a comparação por porção engana.",
+          "Qual a diferença entre a garantia de 30 dias da HolyFoods e o direito de arrependimento? O arrependimento é da lei: 7 dias corridos do recebimento para desistir da compra online. A garantia é da loja: 30 dias, com uma unidade aberta e as demais fechadas."
         ]
       }
     ],
@@ -189954,7 +190380,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Você espera que o cupom entre pelo carrinho ou pelo link da parceria: o código só entra na tela de finalizar, e você precisa copiá-lo.",
-        "Vai pedir o Descoberta ou a Rotina Resolvida contando com o EMCASA sem conferir: só o carrinho igual ao Despensa Cheia foi testado.",
+        "Não quer sopa: a média por refeição menor do Despensa Cheia vem dos sachês de sopa. Massa e risoto custam o mesmo em qualquer kit e no avulso.",
         "Precisa da entrega num dia certo: a preparação leva até 3 dias úteis e o transporte soma a isso."
       ]
     },

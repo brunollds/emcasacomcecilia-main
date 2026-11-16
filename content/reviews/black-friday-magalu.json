@@ -18,7 +18,7 @@
   "metaDescription": "Black Friday Magalu 2026 é em 27 de novembro, com ofertas antecipadas o mês todo. O que é só no app, as faixas do código da Cecília e preços de eletro.",
   "publishedAt": "11 de outubro de 2026",
   "publishedAtISO": "2026-10-11",
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-16",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/magalu/black-friday-magalu-capa-v2.webp",
@@ -126,15 +126,16 @@
         ]
       },
       "postParagraphs": [
-        "Exemplos com os preços de outubro da tabela de preços mais abaixo, que caem na mesma faixa no cartão e no Pix: a geladeira Consul Frost Free de 377 litros, a R$ 2.727,54, fica na faixa do **50EMCASACOMCECILIA**. Com o micro-ondas Electrolux de 34 litros na mesma sacola, o total passa de R$ 2.999,90 e libera o **60EMCASACOMCECILIA**. Uma geladeira Brastemp Inox de 512 litros com a lavadora Electrolux de 15 kg passa de R$ 4.999,90 e libera o **100EMCASACOMCECILIA**.",
-        "A maioria dos eletroportáteis custa menos que os R$ 499,90 da primeira faixa. Para usar o código numa air fryer ou num aspirador, junte na mesma sacola outros itens vendidos e entregues pelo Magalu."
+        "Exemplos com os preços de meados de novembro, da tabela mais abaixo: a geladeira Consul Frost Free de 377 litros, a R$ 2.999,00 no cartão, fica na faixa do **50EMCASACOMCECILIA**, a 90 centavos da faixa de cima. Qualquer outro item vendido e entregue pelo Magalu na mesma sacola libera o **60EMCASACOMCECILIA**. Uma geladeira Brastemp Inox de 512 litros com a lavadora Electrolux de 15 kg passa de R$ 4.999,90 e libera o **100EMCASACOMCECILIA**.",
+        "Não confirmamos se o valor mínimo da faixa conta sobre o preço do cartão ou sobre o do Pix. Isso pesa quando os dois preços caem em faixas diferentes: a lavadora Electrolux de 15 kg custava R$ 2.099,00 no cartão, acima dos R$ 1.999,90 da faixa de R$ 40, e R$ 1.994,05 no Pix, abaixo dela. Nesse caso, teste primeiro o código da faixa de cima e, se a loja recusar, o da faixa de baixo. O cupom é digitado na etapa de pagamento, depois do login, e o resumo mostra o desconto antes de você pagar.",
+        "A maioria dos eletroportáteis custa menos que os R$ 499,90 da primeira faixa. Para usar o código numa panela elétrica ou num aspirador, junte na mesma sacola outros itens vendidos e entregues pelo Magalu que você já ia comprar."
       ]
     },
     {
       "heading": "Cupom do Magalu ou código da Cecília?",
       "paragraphs": [
         "Vale um cupom por pedido: algumas páginas mostram um cupom do próprio Magalu para copiar e colar na revisão do pedido. Em outubro, apareciam cupons de R$ 50 a R$ 225 em eletrodomésticos vendidos pelo Magalu.",
-        "Como vale um cupom por pedido, o código da Cecília é para quando o produto não tem cupom do próprio Magalu, ou quando ele não vale para o que você quer comprar. Se o produto tiver os dois, use o que der mais desconto: na geladeira Electrolux de 260 litros da tabela de preços abaixo, o cupom do Magalu tirava R$ 225, e o código da Cecília, R$ 40."
+        "Como vale um cupom por pedido, o código da Cecília é para quando o produto não tem cupom do próprio Magalu, ou quando ele não vale para o que você quer comprar. Se o produto tiver os dois, use o que der mais desconto. Em meados de novembro, a página da lavadora Electrolux de 15 kg mostrava um cupom do Magalu de R$ 50, mais que os R$ 40 da faixa da Cecília para esse valor. Em outubro, na geladeira Electrolux de 260 litros, o cupom do Magalu tirava R$ 225, e o código da Cecília, R$ 40."
       ],
       "links": [
         {
@@ -172,9 +173,172 @@
       }
     },
     {
+      "heading": "Outubro e novembro: o que melhorou, ficou igual ou subiu",
+      "paragraphs": [
+        "Relemos em meados de novembro os produtos da tabela de outubro, na loja Magazine Você da Cecília, sem CEP informado e sempre vendidos e entregues pelo Magalu. O resultado varia de produto para produto, e o preço ainda pode mudar até a sexta-feira da Black Friday."
+      ],
+      "comparisonTable": {
+        "caption": "Loja Magazine Você da Cecília em meados de novembro, antes do código, e a comparação com a nossa leitura de outubro. O preço muda com o CEP e a cada dia.",
+        "headers": [
+          "Produto",
+          "No cartão, sem juros",
+          "No Pix",
+          "Contra outubro"
+        ],
+        "rows": [
+          [
+            "Geladeira Electrolux Cycle Defrost 260 L (DC35A)",
+            "R$ 2.199,00",
+            "R$ 2.089,05",
+            "Melhorou"
+          ],
+          [
+            "Geladeira Consul Frost Free 377 L (CRM44MBBNA)",
+            "R$ 2.999,00",
+            "R$ 2.849,05",
+            "Subiu"
+          ],
+          [
+            "Geladeira Electrolux Frost Free 400 L (IF44)",
+            "R$ 2.841,05",
+            "R$ 2.699,00",
+            "Melhorou no cartão, igual no Pix"
+          ],
+          [
+            "Geladeira Brastemp Frost Free Inox 512 L (BRM62AK)",
+            "R$ 3.916,49",
+            "R$ 3.799,00",
+            "Subiu"
+          ],
+          [
+            "Lavadora Electrolux 15 kg (LEC15)",
+            "R$ 2.099,00",
+            "R$ 1.994,05",
+            "Praticamente igual"
+          ],
+          [
+            "Lavadora Brastemp 14 kg (BWJ14ABANA)",
+            "R$ 2.099,00",
+            "R$ 1.994,05",
+            "Subiu"
+          ],
+          [
+            "Micro-ondas Electrolux 34 L (MEO44)",
+            "R$ 649,00",
+            "R$ 616,55",
+            "Igual"
+          ],
+          [
+            "Fogão 4 bocas Esmaltec Ideal Pop 4120",
+            "R$ 659,00",
+            "R$ 606,28",
+            "Subiu"
+          ],
+          [
+            "Fogão 4 bocas Consul Inox (CFO4NARUNA)",
+            "R$ 1.282,04",
+            "R$ 1.217,94",
+            "Melhorou"
+          ],
+          [
+            "Panela de pressão elétrica digital Mondial 5 L",
+            "R$ 368,32",
+            "R$ 349,90",
+            "Melhorou"
+          ],
+          [
+            "Aspirador vertical Electrolux STK14",
+            "R$ 177,89",
+            "R$ 177,89",
+            "Melhorou"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "As duas air fryers Mondial da tabela de outubro (AFN-40-BI, de 4 litros, e AFON-12L-BI, de 12 litros) não tinham oferta vendida pelo Magalu nessa leitura, só de lojistas parceiros, onde o código não entra. A versão preta da de 4 litros (AFN-40-BF), vendida pelo Magalu, estava a R$ 272,63 no cartão e R$ 259,00 no Pix."
+      ]
+    },
+    {
+      "heading": "O que comprar em cada caminho: linha branca, cozinha e eletroportáteis",
+      "paragraphs": [
+        "A tabela aplica o código da faixa de cada produto sobre os preços de meados de novembro. É conta nossa: o cupom do Magalu entra na etapa de pagamento, depois do login, e não refizemos o teste de checkout nesta leitura. O último, em outubro, tirou R$ 50 de uma sacola de R$ 2.999 com o 50EMCASACOMCECILIA."
+      ],
+      "comparisonTable": {
+        "caption": "Código da faixa de cada produto e o preço com ele, pela nossa conta, sobre os preços de meados de novembro na loja Magazine Você da Cecília. Nas duas lavadoras, a faixa depende da base do valor mínimo, que não confirmamos.",
+        "headers": [
+          "Produto",
+          "Código da faixa",
+          "No cartão, com o código",
+          "No Pix, com o código"
+        ],
+        "rows": [
+          [
+            "Geladeira Electrolux 260 L (DC35A)",
+            "40EMCASACOMCECILIA",
+            "R$ 2.159,00",
+            "R$ 2.049,05"
+          ],
+          [
+            "Geladeira Electrolux Frost Free 400 L (IF44)",
+            "50EMCASACOMCECILIA",
+            "R$ 2.791,05",
+            "R$ 2.649,00"
+          ],
+          [
+            "Geladeira Consul Frost Free 377 L",
+            "50EMCASACOMCECILIA",
+            "R$ 2.949,00",
+            "R$ 2.799,05"
+          ],
+          [
+            "Geladeira Brastemp Inox 512 L",
+            "70EMCASACOMCECILIA",
+            "R$ 3.846,49",
+            "R$ 3.729,00"
+          ],
+          [
+            "Lavadoras Electrolux 15 kg e Brastemp 14 kg",
+            "40 ou 30EMCASACOMCECILIA",
+            "R$ 2.059,00",
+            "R$ 1.964,05"
+          ],
+          [
+            "Fogão Consul Inox 4 bocas",
+            "20EMCASACOMCECILIA",
+            "R$ 1.262,04",
+            "R$ 1.197,94"
+          ],
+          [
+            "Fogão Esmaltec Ideal Pop",
+            "10EMCASACOMCECILIA",
+            "R$ 649,00",
+            "R$ 596,28"
+          ],
+          [
+            "Micro-ondas Electrolux 34 L",
+            "10EMCASACOMCECILIA",
+            "R$ 639,00",
+            "R$ 606,55"
+          ]
+        ]
+      },
+      "bullets": [
+        "**Geladeira pelo menor desembolso:** a Electrolux de 260 litros, que ficou mais barata que em outubro. É Cycle Defrost: o freezer pede degelo manual de tempos em tempos.",
+        "**Geladeira Frost Free:** a Electrolux de 400 litros melhorou no cartão e ficou igual no Pix. A Consul de 377 litros e a Brastemp Inox de 512 litros estavam acima do preço de outubro: se uma delas é a que você quer, acompanhe o preço até a data antes de fechar.",
+        "**Lavadora:** a Electrolux de 15 kg estava praticamente no preço de outubro, e a página dela mostrava um cupom do próprio Magalu maior que o código da Cecília. A Brastemp de 14 kg subiu.",
+        "**Cozinha:** o fogão Consul Inox de 4 bocas melhorou; o Esmaltec Ideal Pop subiu, e o micro-ondas Electrolux de 34 litros ficou igual.",
+        "**Eletroportáteis:** a panela de pressão elétrica Mondial de 5 litros e o aspirador vertical Electrolux ficaram mais baratos que em outubro. Sozinhos, ficam abaixo dos R$ 499,90 da primeira faixa, e o preço da página já é o que você paga.",
+        "**Air fryer:** confira o vendedor antes de pôr na sacola. Na nossa leitura, os dois modelos Mondial da tabela de outubro só apareciam com lojistas parceiros."
+      ],
+      "postParagraphs": [
+        "O código é um valor fixo por faixa, então ele não muda a ordem de preço entre dois produtos da mesma faixa: escolha pelo tamanho, pela voltagem e pelo que cabe no espaço, e use o código no fim. Só junte itens para subir de faixa quando o item extra já estava na sua lista: R$ 10 a mais de desconto não pagam um produto que você não ia comprar.",
+        "O passo a passo do código no checkout está em [Como usar o cupom Magalu da Cecília](/reviews/cupom-magalu-em-casa-com-cecilia)."
+      ]
+    },
+    {
       "heading": "Preços de outubro para comparar",
       "paragraphs": [
-        "Ancore a Black Friday nestes produtos vendidos e entregues pelo Magalu, observados em 10 de outubro de 2026 na loja da Cecília: a oferta só é desconto de verdade se o preço do dia ficar abaixo da tabela. O preço riscado (\"de\") da página não entra nessa comparação."
+        "Estes são os mesmos produtos, vendidos e entregues pelo Magalu, como estavam em 10 de outubro de 2026 na loja da Cecília. Servem de régua até a sexta-feira da Black Friday: a oferta do dia é melhor que a de outubro quando o preço fica abaixo desta tabela. O preço riscado (\"de\") da página não entra nessa comparação."
       ],
       "comparisonTable": {
         "caption": "Loja Magazine Você da Cecília, sem CEP informado, antes do código. O preço muda com o CEP e a cada dia, e o número de parcelas sem juros varia por produto.",
@@ -284,7 +448,9 @@
         "O cupom 10EMCASACOMCECILIA vale na Black Friday? Vale. Os cupons da Cecília no Magalu, de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, entram sobre o preço da Black Friday, na loja Magazine Você da Cecília, pelo navegador. As ofertas exclusivas do app ficam fora.",
         "O cupom da Cecília funciona no app do Magalu? Não. Os códigos só funcionam pelo navegador, na loja Magazine Você da Cecília, então as ofertas exclusivas do app ficam fora deles.",
         "Posso usar o código da Cecília junto com o cupom do Magalu? Não, vale um cupom por pedido. O código da Cecília é para quando o produto não tem cupom do próprio Magalu, ou quando ele não vale para o que você quer comprar. O cupom extra diário da Black Friday é só do app, onde o código da Cecília não entra.",
-        "Qual código usar na compra de uma geladeira? Depende do valor da sacola. Pela tabela de preços, a geladeira Consul Frost Free de 377 litros custava R$ 2.727,54 e ficava na faixa do 50EMCASACOMCECILIA, de R$ 50 OFF.",
+        "Qual código usar na compra de uma geladeira? Depende do valor da sacola. Em meados de novembro, a geladeira Consul Frost Free de 377 litros custava R$ 2.999,00 no cartão e ficava na faixa do 50EMCASACOMCECILIA, de R$ 50 OFF, a 90 centavos da faixa de R$ 60.",
+        "O valor mínimo do código conta no preço do cartão ou no do Pix? Não confirmamos. Quando os dois preços caem em faixas diferentes, teste primeiro o código da faixa de cima e, se a loja recusar, o da faixa de baixo. O resumo do pedido mostra o desconto antes do pagamento.",
+        "Os preços do Magalu já baixaram para a Black Friday? Em parte. Dos 11 produtos que relemos em meados de novembro, cinco estavam mais baratos que em outubro, quatro mais caros e dois iguais ou quase. A tabela do guia traz um por um.",
         "O Magalu tem desconto no Pix? Tem, e ele muda por produto: nos eletrodomésticos da tabela de preços, ia de 5% a 7% em outubro. O código da Cecília também vale no Pix.",
         "Dá para comprar no site do Magalu e retirar na loja? Dá, nos produtos que têm a opção Retira loja. Digite o CEP na página do produto para ver as lojas mais próximas e o prazo.",
         "O Magalu tem frete grátis na Black Friday? Depende do produto e do CEP. Se o produto aparece com frete grátis num banner, confirme com o seu CEP na página do produto ou na sacola antes de fechar a compra.",
