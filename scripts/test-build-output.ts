@@ -4035,7 +4035,7 @@ for (const slug of storeArticleSlugs) {
 
 // Página de cada data com edição no home-events.json: o h1, o canonical, a imagem de compartilhamento,
 // o JSON-LD, a data no sitemap e um card por artigo, com o "Ver o código" levando à aba da loja na
-// vitrine.
+// vitrine ou, na loja fora dela (hideFromPortugueseHome), à página da loja em /cupons.
 const eventHubPaths = getEventHubPaths(homeEventsConfig, publishedReviews);
 for (const hubPath of eventHubPaths) {
   const file = builtFile(`${SITE_URL}${hubPath}`);
@@ -4055,7 +4055,14 @@ for (const hubPath of eventHubPaths) {
   for (const card of page.cards) {
     assert.ok(body.includes(hrefOf(card.href)), `${hubPath}: sem o card de ${card.slug}`);
     if (card.codeLink) {
-      assert.match(card.codeLink.href, /^\/#loja-[a-z0-9-]+$/, `${hubPath}: "Ver o código" fora da vitrine`);
+      const [, tabSlug, pageSlug] = card.codeLink.href.match(/^(?:\/#loja-([a-z0-9-]+)|\/cupons\/([a-z0-9-]+))$/) ?? [];
+      const codeStore = getCouponBySlug(tabSlug ?? pageSlug ?? '');
+      assert.ok(codeStore, `${hubPath}: "Ver o código" de ${card.slug} fora da vitrine e da página da loja`);
+      assert.equal(
+        pageSlug !== undefined,
+        codeStore.hideFromPortugueseHome === true,
+        `${hubPath}: "Ver o código" de ${card.slug} leva à aba da vitrine, e só a loja fora dela, à página em /cupons`
+      );
       assert.ok(body.includes(hrefOf(card.codeLink.href)), `${hubPath}: sem o "Ver o código" de ${card.slug}`);
     }
   }

@@ -56,4 +56,20 @@ try {
   Reflect.deleteProperty(globalThis, 'window');
 }
 
+// A loja fora da vitrine não tem aba: o mesmo link leva à página dela em /cupons, e é ela o destino medido.
+const pageLink = { href: '/cupons/magalu', placement: 'home_event', linkLabel: 'Ver o código do Magalu' } as const;
+const pageElement = TrackedHomeTabLink({ ...pageLink, children: 'Ver o código' });
+assert.equal(pageElement.type, 'a');
+assert.equal(pageElement.props.href, '/cupons/magalu');
+const pageCalls: unknown[][] = [];
+Object.assign(globalThis, { window: { gtag: (...args: unknown[]) => pageCalls.push(args) } });
+try {
+  pageElement.props.onClick?.({ defaultPrevented: false });
+  assert.deepEqual(pageCalls, [
+    ['event', 'home_route_click', { destination: '/cupons/magalu', placement: 'home_event', link_label: 'Ver o código do Magalu' }],
+  ]);
+} finally {
+  Reflect.deleteProperty(globalThis, 'window');
+}
+
 console.log(`✅ homeRouteTracking: ${Object.keys(examples).length} placements e o link das abas (<a> comum, clique medido, cancelado não) passaram.`);

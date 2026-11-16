@@ -1,5 +1,6 @@
 import { cardImageFit, type CardImageFit, type CardImagePosition } from '@/lib/cardImage';
 import { getActiveCoupons, type Coupon } from '@/lib/couponsData';
+import { getCouponStorePath } from '@/lib/couponTranslations';
 import { codeLinkLabel, getStoreCode, type StoreReview } from '@/lib/homeStores';
 import { getTabAnchor } from '@/lib/homeStoreTabs';
 import { SITE_SOCIAL_IMAGE, absoluteMediaUrl, type SocialImage } from '@/lib/pageSeo';
@@ -37,7 +38,8 @@ export type HomeEventCard = {
   imageFit: CardImageFit;
   imagePosition?: CardImagePosition;
   store?: string;
-  // Só para loja ativa com código: leva à aba da loja na vitrine, onde o código fica.
+  // Só para loja ativa com código: leva à aba da loja na vitrine, onde o código fica, ou à página da loja em /cupons
+  // quando ela está fora da vitrine (hideFromPortugueseHome).
   codeLink?: { href: string; label: string };
 };
 
@@ -221,6 +223,11 @@ export function getCountdownLabel(dayAt: string, now: Date): string {
   return 'últimos dias';
 }
 
+// A loja fora da vitrine (hideFromPortugueseHome) não tem aba na home: o botão leva à página dela em /cupons.
+function getCodeHref(store: Coupon): string {
+  return store.hideFromPortugueseHome ? getCouponStorePath(store.slug, 'pt') : `/#${getTabAnchor(store.slug)}`;
+}
+
 function toCards(event: HomeEventEntry, reviews: readonly StoreReview[], stores: readonly Coupon[]): HomeEventCard[] {
   return event.articleSlugs.map((slug) => {
     // parseHomeEvents já garantiu que cada slug existe e está listado em português.
@@ -228,8 +235,7 @@ function toCards(event: HomeEventEntry, reviews: readonly StoreReview[], stores:
     // O artigo de várias lojas leva o nome delas no cartão e nenhum botão de código: o de uma delas seria eleger uma
     // principal.
     const store = isMultiStoreReview(review) ? undefined : getReviewStores(review, stores)[0];
-    // A loja fora da vitrine (hideFromPortugueseHome) não tem a aba a que o botão leva: o cartão fica só com o artigo.
-    const code = store && !store.hideFromPortugueseHome ? getStoreCode(store) : undefined;
+    const code = store ? getStoreCode(store) : undefined;
     return {
       slug,
       href: `/reviews/${slug}`,
@@ -239,8 +245,7 @@ function toCards(event: HomeEventEntry, reviews: readonly StoreReview[], stores:
       imageFit: cardImageFit(review),
       imagePosition: review.imagePosition,
       store: getReviewStoreLabel(review, stores),
-      codeLink:
-        store && code ? { href: `/#${getTabAnchor(store.slug)}`, label: codeLinkLabel(store) } : undefined,
+      codeLink: store && code ? { href: getCodeHref(store), label: codeLinkLabel(store) } : undefined,
     };
   });
 }

@@ -430,7 +430,7 @@ vídeo, primeiras impressões e uso noturno.
   painel; o filtro é o `getHomeVitrineStores`, dentro de `getHomeStoreTabs`) e segue em todo o resto: `/cupons` e a
   página dela, as bolinhas de `/reviews` e a subpágina `/reviews/loja/<slug>`, o "Acabou de sair", as homes dos outros
   idiomas, o sitemap, a busca e o bloco da loja nos artigos; na faixa da data comercial e na `/black-friday`, o
-  cartão do artigo dela sai sem o "Ver o código", que leva à aba da vitrine.
+  "Ver o código" do cartão do artigo dela leva a `/cupons/<slug>`, e não à aba da vitrine.
 - Fila de cards que rola na horizontal usa o `ScrollRow` (`src/components/ui/ScrollRow.tsx`): com o
   foco do teclado, o card meio escondido entra inteiro na tela. As bolinhas da vitrine ficam de
   fora: elas já centralizam a loja escolhida.
