@@ -11,7 +11,7 @@ import { withDeliveredGalleryImage } from '@/lib/sectionMedia';
 import type { ShelfCardArticle } from '@/lib/reviewsShelf';
 import { ReviewGallerySection } from '../ReviewGallerySection';
 import { ReviewVerdictCard } from '../ReviewVerdictCard';
-import type { ArticleCopy, TemplateUi } from '../articleCopy';
+import { getStoreListTitle, type ArticleCopy, type TemplateUi } from '../articleCopy';
 import type { CouponCopyLocale } from '../couponCopyLocale';
 import { ArticleAffiliateBlock, type ArticleAffiliateCta } from './ArticleAffiliateBlock';
 import { ArticleAuthorBox, ArticleBrunoBox } from './ArticleAuthorBox';
@@ -109,7 +109,7 @@ export function ArticleEnd({
       {storeBlocks.length > 0 ? (
         <section id={ARTICLE_STORE_ID} className="mt-14 mb-10 scroll-mt-24 text-marinho print:hidden">
           <SectionHeadingReveal as="h2" variant="d2" className="mb-7">
-            {copy.storeCodesTitle}
+            {getStoreListTitle(copy, storeBlocks)}
           </SectionHeadingReveal>
           <ArticleStoreCodes
             variant="end"

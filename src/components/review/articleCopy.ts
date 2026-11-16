@@ -3,6 +3,7 @@ import type { ReviewVideoLabels } from './ReviewLoopVideo';
 import type { Recommendation, ReviewKind } from '@/lib/content';
 import type { CouponCodeKind } from '@/lib/couponsData';
 import type { Locale } from '@/lib/i18n/locales';
+import { everyStoreHasCode } from '@/lib/reviewStores';
 import { inStore, ofStore, type StoreName } from '@/lib/storeNames';
 import type { CouponCopyLocale } from './couponCopyLocale';
 
@@ -53,6 +54,8 @@ export type ArticleCopy = {
   // O artigo de várias lojas: o título das linhas de código (topo, lateral e fim) e o link de cada linha para a página
   // da loja, com as regras.
   storeCodesTitle: string;
+  // O mesmo título quando alguma loja da lista não tem código (a loja só de link): fala de lojas.
+  storeListTitle: string;
   storeRulesOf: (store: StoreName) => string;
   // As linhas do artigo de várias lojas, curtas para caber na linha do nome; o leitor de tela ouve o nome completo.
   storeGoShort: string;
@@ -128,6 +131,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     storeBlockTitle: (store) => `Sua compra ${inStore(store)}`,
     allRules: 'Ver todas as regras',
     storeCodesTitle: 'Códigos deste artigo',
+    storeListTitle: 'Lojas deste artigo',
     storeRulesOf: (store) => `Regras ${ofStore(store)}`,
     storeGoShort: 'Ir à loja',
     storeRulesShort: 'Regras',
@@ -188,6 +192,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     storeBlockTitle: ({ brand }) => `Shopping at ${brand}`,
     allRules: 'See all the rules',
     storeCodesTitle: 'Codes in this article',
+    storeListTitle: 'Stores in this article',
     storeRulesOf: ({ brand }) => `${brand} rules`,
     storeGoShort: 'Go to store',
     storeRulesShort: 'Rules',
@@ -248,6 +253,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     storeBlockTitle: ({ brand }) => `Tu compra en ${brand}`,
     allRules: 'Ver todas las reglas',
     storeCodesTitle: 'Códigos de este artículo',
+    storeListTitle: 'Tiendas de este artículo',
     storeRulesOf: ({ brand }) => `Reglas de ${brand}`,
     storeGoShort: 'Ir a la tienda',
     storeRulesShort: 'Reglas',
@@ -308,6 +314,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     storeBlockTitle: ({ brand }) => `Votre achat chez ${brand}`,
     allRules: 'Voir toutes les conditions',
     storeCodesTitle: 'Codes de cet article',
+    storeListTitle: 'Boutiques de cet article',
     storeRulesOf: ({ brand }) => `Conditions chez ${brand}`,
     storeGoShort: 'Aller à la boutique',
     storeRulesShort: 'Conditions',
@@ -368,6 +375,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     storeBlockTitle: ({ brand }) => `Dein Einkauf bei ${brand}`,
     allRules: 'Alle Bedingungen ansehen',
     storeCodesTitle: 'Codes in diesem Artikel',
+    storeListTitle: 'Shops in diesem Artikel',
     storeRulesOf: ({ brand }) => `Bedingungen bei ${brand}`,
     storeGoShort: 'Zum Shop',
     storeRulesShort: 'Bedingungen',
@@ -428,6 +436,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     storeBlockTitle: ({ brand }) => `Il tuo acquisto su ${brand}`,
     allRules: 'Vedi tutte le regole',
     storeCodesTitle: 'Codici di questo articolo',
+    storeListTitle: 'Negozi di questo articolo',
     storeRulesOf: ({ brand }) => `Regole su ${brand}`,
     storeGoShort: 'Vai al negozio',
     storeRulesShort: 'Regole',
@@ -489,6 +498,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     storeBlockTitle: ({ brand }) => `${brand}에서 쇼핑할 때`,
     allRules: '모든 조건 보기',
     storeCodesTitle: '이 글의 코드',
+    storeListTitle: '이 글의 스토어',
     storeRulesOf: ({ brand }) => `${brand} 조건`,
     storeGoShort: '스토어로',
     storeRulesShort: '조건',
@@ -549,6 +559,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     storeBlockTitle: ({ brand }) => `${brand} でのお買い物`,
     allRules: '条件をすべて見る',
     storeCodesTitle: 'この記事のコード',
+    storeListTitle: 'この記事のストア',
     storeRulesOf: ({ brand }) => `${brand} の条件`,
     storeGoShort: 'ストアへ',
     storeRulesShort: '条件',
@@ -609,6 +620,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     storeBlockTitle: ({ brand }) => `在 ${brand} 購物`,
     allRules: '查看全部規則',
     storeCodesTitle: '本文代碼',
+    storeListTitle: '本文商店',
     storeRulesOf: ({ brand }) => `${brand} 規則`,
     storeGoShort: '前往商店',
     storeRulesShort: '規則',
@@ -669,6 +681,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     storeBlockTitle: ({ brand }) => `在 ${brand} 购物`,
     allRules: '查看全部规则',
     storeCodesTitle: '本文代码',
+    storeListTitle: '本文商店',
     storeRulesOf: ({ brand }) => `${brand} 规则`,
     storeGoShort: '前往商店',
     storeRulesShort: '规则',
@@ -695,6 +708,11 @@ const articleCopy: Record<Locale, ArticleCopy> = {
 
 export function getArticleCopy(locale: Locale): ArticleCopy {
   return articleCopy[locale];
+}
+
+// O título das linhas do artigo de várias lojas: "Códigos deste artigo" quando toda loja tem código; senão, "Lojas".
+export function getStoreListTitle(copy: ArticleCopy, stores: readonly { code?: string }[]): string {
+  return everyStoreHasCode(stores) ? copy.storeCodesTitle : copy.storeListTitle;
 }
 
 // A nota editorial é componente de cliente: recebe os rótulos prontos do servidor, sem carregar esta tabela.
