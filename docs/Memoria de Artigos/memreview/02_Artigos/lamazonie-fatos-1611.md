@@ -56,7 +56,8 @@ de redação ainda: o Bruno pediu a pesquisa semente.
   e amamentação, citar o que a marca escreve e acrescentar "na dúvida, o médico".
 - **Avaliações do site não são fonte de eficácia.** As notas da vitrine (4,9 em 261 avaliações do sérum, por exemplo)
   são publicadas pela própria loja: se entrarem, entram como "avaliações publicadas no site da marca".
-- **Experiência própria: sem resposta do Bruno** (seção 7). Até lá, só fontes públicas, sem "testamos".
+- **Experiência própria: não há.** A Cecília não recebeu nem usa produto da L'Amazonie (Bruno, 16/11: "só fontes
+  públicas"). Os seis textos saem só com fontes públicas, sem "testamos" nem impressão de uso.
 
 ## 3. Reclame Aqui (lido em 16/11/2026)
 
@@ -139,8 +140,8 @@ Estética - Cuidados com a Pele (Dermocosméticos), site lamazonie.com.br, 5 ano
 
 ## 7. Perguntas para o Bruno
 
-1. A Cecília recebeu ou usa algum produto da L'Amazonie (o sérum de sobrancelhas, em especial)? Sem isso, a LZ5 sai só
-   com fontes públicas.
+1. ~~A Cecília recebeu ou usa algum produto da L'Amazonie?~~ **Respondido em 16/11: não, só fontes públicas.** O
+   artigo só do sérum (seção 8) segue no estoque, dependendo do rótulo lido.
 2. A parceira passou datas ou regras da Black Friday?
 3. Existe valor mínimo ou limite de usos do código? O cashback soma com o cupom?
 
