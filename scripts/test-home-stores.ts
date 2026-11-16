@@ -22,6 +22,7 @@ import {
   getCeciliaSocialStats,
   getHomeLatest,
   getHomeStoreTabs,
+  getHomeVitrineStores,
   getStoreArticlePageSlugs,
   getStoreArticlesPage,
   getStoreMark,
@@ -168,6 +169,38 @@ assert.deepEqual(
 );
 assert.deepEqual(sortStoresByNewestArticle(orderStores, []).map(({ slug }) => slug), orderStores.map(({ slug }) => slug));
 
+// Loja com hideFromPortugueseHome: fora da vitrine da home em PT e só dela. No fixture a Magalu escondida tem o artigo
+// mais novo entre as lojas, então sem o filtro seria a primeira bolinha e a aba em que a home abre.
+const hiddenStores: Coupon[] = [{ ...store('magalu'), hideFromPortugueseHome: true }, store('damie'), store('shein')];
+const hiddenReviews = [...fixtureReviews, review(10, 'magalu-mais-novo', 'magalu', '2026-10-04')];
+assert.deepEqual(
+  sortStoresByNewestArticle(hiddenStores, hiddenReviews).map(({ slug }) => slug),
+  ['magalu', 'damie', 'shein'],
+  'a ordem das bolinhas de /reviews não olha o campo'
+);
+const hiddenTabs = getHomeStoreTabs(hiddenReviews, hiddenStores);
+assert.deepEqual(hiddenTabs.map(({ slug }) => slug), ['damie', 'shein'], 'a loja escondida não tem aba na home');
+assert.equal(getDefaultTabId(hiddenTabs.map(({ slug }) => slug)), 'damie', 'a home abre numa loja que está na faixa');
+assert.deepEqual(getHomeStoreTabs(hiddenReviews, hiddenStores.slice(0, 1)), [], 'só lojas escondidas: vitrine sem loja');
+assert.equal(getDefaultTabId([]), CECILIA_TAB_ID, 'e a home abre no painel da Cecília');
+assert.equal(
+  getStoreArticlesPage(hiddenReviews, 'magalu', hiddenStores)?.countLabel,
+  '5 artigos da Cecília sobre o Magalu',
+  'a subpágina /reviews/loja segue no ar'
+);
+assert.deepEqual(getStoreArticlePageSlugs(hiddenReviews, hiddenStores), ['magalu']);
+const hiddenLatest = getHomeLatest(hiddenReviews, hiddenStores);
+assert.deepEqual(
+  hiddenLatest.map(({ slug, store: label }) => [slug, label]),
+  getHomeLatest(hiddenReviews, [store('magalu'), store('damie'), store('shein')]).map(({ slug, store: label }) => [slug, label]),
+  'o "Acabou de sair" é o mesmo com a loja escondida'
+);
+assert.deepEqual(
+  hiddenLatest.slice(0, 2).map(({ slug, store: label }) => [slug, label]),
+  [['magalu-mais-novo', 'Magalu'], ['sem-loja', undefined]],
+  'o artigo da loja escondida segue no "Acabou de sair", com o nome dela'
+);
+
 // Loja sem artigo (a SHEIN hoje): sem story, sem lista e com o aviso no lugar.
 const [sheinTab] = getHomeStoreTabs(fixtureReviews, [store('shein')]);
 assert.equal(sheinTab.total, 0);
@@ -239,11 +272,12 @@ const tab = (slug: string) => {
   assert.ok(found, `aba ${slug}`);
   return found;
 };
-const activeStores = getActiveCoupons();
+// As lojas da vitrine: as ativas sem o hideFromPortugueseHome.
+const activeStores = getHomeVitrineStores(getActiveCoupons());
 assert.deepEqual(
   tabs.map(({ slug }) => slug),
   sortStoresByNewestArticle(activeStores, publishedReviews).map(({ slug }) => slug),
-  'uma aba por loja ativa, pelo artigo mais novo'
+  'uma aba por loja ativa da vitrine, pelo artigo mais novo'
 );
 assert.deepEqual(
   [...tabs.map(({ slug }) => slug)].sort(),
@@ -344,7 +378,7 @@ assert.deepEqual(
 );
 assert.deepEqual(
   tabs.filter(({ allArticles }) => allArticles).map(({ slug }) => slug),
-  sortStoresByNewestArticle(pageSlugs.map((slug) => store(slug)), publishedReviews).map(({ slug }) => slug),
+  sortStoresByNewestArticle(getHomeVitrineStores(pageSlugs.map((slug) => store(slug))), publishedReviews).map(({ slug }) => slug),
   'o "Ver os N artigos" da vitrine e a subpágina seguem a mesma regra'
 );
 

@@ -102,6 +102,12 @@ export function getStoreMark(store: Coupon): Pick<HomeStoreTab, 'logo' | 'bubble
   };
 }
 
+// As lojas da vitrine da home em PT: as ativas sem o hideFromPortugueseHome. O filtro fica aqui, e não em
+// sortStoresByNewestArticle nem em getActiveCoupons, que /reviews, as subpáginas de loja e /cupons também usam.
+export function getHomeVitrineStores<S extends Pick<Coupon, 'hideFromPortugueseHome'>>(stores: readonly S[]): S[] {
+  return stores.filter((store) => !store.hideFromPortugueseHome);
+}
+
 // `now` decide os códigos com prazo: a página usa a hora em que é gerada (no build e no ISR), e os testes passam a hora
 // do build ou uma data fixa.
 export function getHomeStoreTabs(
@@ -113,7 +119,7 @@ export function getHomeStoreTabs(
   const copy = getSidebarCopy('pt');
   const labels = getCouponCopyLabels('pt');
 
-  return sortStoresByNewestArticle(stores, reviews).map((store) => {
+  return sortStoresByNewestArticle(getHomeVitrineStores(stores), reviews).map((store) => {
     const code = getStoreCode(store);
     const kind = getStoreCodeKind(store, code);
     const articles = articlesOfStore(listed, store.slug);

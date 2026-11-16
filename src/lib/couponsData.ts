@@ -86,6 +86,9 @@ interface CouponBase {
   featured: boolean;
   // Frase de vitrine que só o card maior dos Destaques mostra.
   featuredPitch?: string;
+  // Tira a loja só da vitrine da home em português (a bolinha e o painel dela). Ela segue em /cupons, na página
+  // dela, nas bolinhas de /reviews, na subpágina /reviews/loja, nas homes dos outros idiomas e nos artigos.
+  hideFromPortugueseHome?: true;
   relatedContent?: {
     title: string;
     url: string;
