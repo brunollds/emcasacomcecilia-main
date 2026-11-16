@@ -75,7 +75,7 @@ A F3 está na main desde 16/11 (#1042), depois da F1 (#1036) e da F2 (#1038). Re
 
 O leitor vê, fora do PT, a SHEIN com o 4CW5Y e as regras no idioma, e a outra loja só com "Ir à loja" e "Regras",
 levando à página dela no idioma. O título do bloco é "Lojas deste artigo". O nome das lojas no cartão fora do PT
-("SHEIN and Temu") estava em andamento na Redesenho em 16/11. Nada disso está no ar: deploy é decisão do Bruno.
+("SHEIN and Temu", "SHEIN と Temu") está na main desde 16/11 (#1044), sem nada no JSON. Nada disso está no ar: deploy é decisão do Bruno.
 
 ## Família
 
