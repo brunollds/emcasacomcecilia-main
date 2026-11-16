@@ -245221,8 +245221,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto o cupom tira: a conta do nosso teste",
         "paragraphs": [
-          "Em 16 de novembro de 2026, montamos um carrinho com duas camisetas. A BR Regular Locally Grown estava pelo preço cheio de R$ 89,00, e a Regular Goth 3.0, em promoção, de R$ 89,00 por R$ 59,00. O código tirou R$ 14,80 dos R$ 148,00, e o total caiu para R$ 133,20.",
-          "São 10% sobre o carrinho inteiro, e o código vale em todo o site, inclusive na camiseta que já estava em promoção. O valor exato do seu pedido aparece na linha Cupom do resumo, antes do pagamento."
+          "Em 16 de novembro de 2026, montamos um carrinho com duas camisetas. A BR Regular Locally Grown estava pelo preço cheio de R$ 89,00, e a Regular Goth 3.0, em promoção, de R$ 89,00 por R$ 59,00. O código tirou R$ 14,80 dos R$ 148,00 em produtos, deixando R$ 133,20 antes do frete.",
+          "São 10% sobre os produtos do carrinho, inclusive sobre a camiseta que já estava em promoção. O código vale em todo o site, e o valor descontado aparece na linha Cupom antes do pagamento."
         ],
         "images": [
           {
@@ -245355,7 +245355,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom soma com a Black Friday?",
         "paragraphs": [
-          "Soma. Em 16 de novembro de 2026, montamos um carrinho com a Camiseta Regular Goth 3.0, que estava na campanha de R$ 89,00 por R$ 59,00, e a BR Regular Locally Grown, a R$ 89,00. O BAWEMCASACOMCECILIA tirou R$ 14,80 dos R$ 148,00, e o total caiu para R$ 133,20: os 10% entraram também sobre a peça em promoção.",
+          "Soma. Em 16 de novembro de 2026, montamos um carrinho com a Camiseta Regular Goth 3.0, que estava na campanha de R$ 89,00 por R$ 59,00, e a BR Regular Locally Grown, a R$ 89,00. O BAWEMCASACOMCECILIA tirou R$ 14,80 dos R$ 148,00 em produtos, deixando R$ 133,20 antes do frete: os 10% entraram também sobre a peça em promoção.",
           "No Pix, a BAW dá 5% de desconto, que soma com o código. São dois descontos separados. O passo a passo do campo está em [como usar o cupom BAW](/reviews/cupom-baw-como-usar), e as condições do código, na página do [cupom BAW Clothing](/cupons/baw)."
         ]
       },
@@ -245371,7 +245371,7 @@ export const reviewsData: unknown[] = [
         "heading": "Camiseta Regular Goth 3.0",
         "paragraphs": [
           "É uma das peças do nosso teste e a camiseta estampada de menor preço entre as que lemos: R$ 59,00, de R$ 89,00, na cor preta.",
-          "A descrição estava vazia, com o aviso “Não há descrição para este produto”: a loja não informa composição nem medidas desta peça. Quem ainda não conhece o próprio tamanho na marca decide melhor pela Regular Selfie Logo, que traz as medidas."
+          "A descrição mostrava “Não há descrição para este produto”, sem composição nem medidas. Se você quer conferir o tamanho antes da primeira compra, a [Regular Selfie Logo](https://www.bawclothing.com.br/camiseta-regular-selfie-logo-153490) publica as medidas de cada tamanho. Na cor off white desta seleção, ela fica R$ 27 a mais com o cupom."
         ],
         "images": [
           {
@@ -245424,7 +245424,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Na cor azul-escuro, estava a R$ 139,00, de R$ 249,00. Outras cores apareciam a R$ 179,00, então o preço depende da cor.",
           "A loja descreve “capuz forrado com ajuste por cordões”, bolso canguru e punhos em tecido canelado, em 50% algodão e 50% poliéster. No M, 74 cm de comprimento e 61 cm de tórax.",
-          "A alternativa é o Moletom Hoodie BAW Subscript, a partir de R$ 179,00, de R$ 349,00 (R$ 161,10 com o código, R$ 170,05 só com o Pix). Ele é 100% algodão e tem as mesmas medidas, então a escolha entre os dois fica na composição."
+          "O [Moletom Hoodie BAW Subscript](https://www.bawclothing.com.br/moletom-hoodie-baw-subscript-151918) estava a R$ 179,00, de R$ 349,00, na cor preta: R$ 161,10 com o código ou R$ 170,05 só com o Pix. A descrição informa 100% algodão e, no M, as mesmas medidas de comprimento e tórax do Basic Label. Com o cupom, custa R$ 36 a mais. O Basic Label pede um gasto menor; o Hoodie é a opção para quem procura essa composição."
         ],
         "images": [
           {
@@ -245442,8 +245442,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Na cor amarelo flúor, estava a R$ 149,00, de R$ 349,00. Outras cores apareciam a R$ 199,00 e a R$ 219,00.",
           "É uma jogger de moletom flanelado, 50% algodão e 50% poliéster, com cós de elástico e cordão. A loja fala em moletom “encorpado”, com “proteção térmica para os dias mais frios”: é peça de frio.",
-          "Para o calor, a alternativa é a Bermuda Jeans Regular Logo, a R$ 129,00, de R$ 199,00 (R$ 116,10 com o código, R$ 122,55 só com o Pix). É 100% algodão, de modelagem reta e comprimento perto do joelho, na numeração 34 a 52.",
-          "A calça traz 40 cm de cintura no M, e a bermuda, 68 cm no 34. As páginas não dizem se a medida é da cintura inteira ou de metade dela, então um número não se compara com o outro. Meça uma calça sua das duas formas e veja de qual número ela chega perto."
+          "Para o calor, a loja tem a [Bermuda Jeans Regular Logo](https://www.bawclothing.com.br/bermuda-jeans-regular-logo-153450), a R$ 129,00, de R$ 199,00 (R$ 116,10 com o código, R$ 122,55 só com o Pix). É 100% algodão, de modelagem reta e comprimento perto do joelho, na numeração 34 a 52.",
+          "A calça informa 40 cm de cintura no M, e a bermuda, 68 cm no 34. Como as páginas não explicam como a medida foi tirada, esses números não se comparam. Antes de usar a tabela para escolher o tamanho, confirme com o atendimento da BAW como cada peça foi medida."
         ],
         "images": [
           {
@@ -245478,8 +245478,8 @@ export const reviewsData: unknown[] = [
         "heading": "Tênis BAW Thunder",
         "paragraphs": [
           "Era o tênis de menor preço entre os que lemos: R$ 169,00, de R$ 399,00, no modelo branco da foto.",
-          "A descrição estava vazia: a loja não informa o material nem a tabela de medida do pé. Calçado é a compra em que errar o número custa mais nesta loja, porque a troca vira crédito e o número certo pode não estar disponível depois. Só compensa para quem já conhece a forma da marca.",
-          "A alternativa com descrição é a Sandália Linus, da parceria BAW + Linus: R$ 169,00, de R$ 229,00, na cor amarelo flúor (R$ 152,10 com o código, R$ 160,55 só com o Pix). A página diz “100% de PVC microexpandido” e traz a tabela de pé por numeração dupla."
+          "A descrição não informa material nem medidas para escolher o número. Antes de comprar, peça à BAW a orientação de tamanho desse modelo, principalmente se você ainda não usa o Thunder. A troca é feita por crédito para uma nova compra, e a disponibilidade do número pode mudar.",
+          "Se a sua busca é por um calçado aberto, a [Sandália Linus](https://www.bawclothing.com.br/sandalia-linus-153608), da parceria BAW + Linus, estava a R$ 169,00, de R$ 229,00, na cor amarelo flúor: R$ 152,10 com o código ou R$ 160,55 só com o Pix. A página informa “100% de PVC microexpandido” e traz uma tabela de pé por numeração dupla. É uma opção de sandália e não substitui o Thunder para quem precisa de tênis fechado."
         ],
         "images": [
           {
@@ -245495,52 +245495,52 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As sete peças lado a lado",
         "comparisonTable": {
-          "caption": "Preços lidos no site da BAW em 16/11, na cor da foto de cada peça. As duas últimas colunas são contas nossas sobre o preço da vitrine, sem frete: 10% a menos com o código e 5% a menos só com o Pix.",
+          "caption": "Preços da cor indicada, sem frete. A coluna do BAWEMCASACOMCECILIA foi calculada com 10% de desconto; a do Pix mostra só os 5% dessa forma de pagamento. O total com cupom e Pix juntos se confere no carrinho.",
           "headers": [
             "Peça",
             "Na vitrine",
-            "Com o código",
-            "Só com o Pix"
+            "Com cupom (10%)",
+            "Só Pix (5%)"
           ],
           "rows": [
             [
-              "Camiseta Regular Goth 3.0",
+              "Camiseta Regular Goth 3.0 (preta)",
               "R$ 59,00",
               "R$ 53,10",
               "R$ 56,05"
             ],
             [
-              "Camiseta Regular Selfie Logo",
+              "Camiseta Regular Selfie Logo (off white)",
               "R$ 89,00",
               "R$ 80,10",
               "R$ 84,55"
             ],
             [
-              "Camiseta Oversized BAW Subscript",
+              "Camiseta Oversized BAW Subscript (off white)",
               "R$ 89,00",
               "R$ 80,10",
               "R$ 84,55"
             ],
             [
-              "Moletom Basic Label",
+              "Moletom Basic Label (azul-escuro)",
               "R$ 139,00",
               "R$ 125,10",
               "R$ 132,05"
             ],
             [
-              "Calça Track BAW Tag",
+              "Calça Track BAW Tag (amarelo flúor)",
               "R$ 149,00",
               "R$ 134,10",
               "R$ 141,55"
             ],
             [
-              "Shorts Reverse Kids",
+              "Shorts Reverse Kids (azul)",
               "R$ 39,00",
               "R$ 35,10",
               "R$ 37,05"
             ],
             [
-              "Tênis BAW Thunder",
+              "Tênis BAW Thunder (branco)",
               "R$ 169,00",
               "R$ 152,10",
               "R$ 160,55"
@@ -245548,7 +245548,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Para a primeira compra na marca, a Regular Selfie Logo e a Oversized BAW Subscript trazem as medidas. A Goth 3.0 tem o menor preço entre as camisetas, mas só serve a quem já sabe o tamanho. Para o frio, o Basic Label e a Calça Track. Tênis, só para quem já conhece a forma da marca.",
+          "Para a primeira compra na marca, a Regular Selfie Logo e a Oversized BAW Subscript trazem as medidas. A Goth 3.0 tem o menor preço entre as camisetas, mas a loja não publica as medidas dela. Para o frio, o Basic Label e a Calça Track. No tênis, peça a orientação de tamanho antes de comprar.",
           "Os preços mudam durante a campanha e de uma cor para outra. Antes de comprar, compare o da página com o do quadro."
         ]
       },
@@ -245564,7 +245564,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Troca ou devolução de compra da campanha",
         "paragraphs": [
-          "A loja não publica regra própria da campanha. Pela política de trocas e devoluções do site, lida para este guia, troca e devolução são coisas diferentes:"
+          "Pela política de trocas e devoluções da BAW, lida em 16 de novembro de 2026, você escolhe entre crédito para uma nova compra e devolução com reembolso. A loja não publica uma regra separada para a campanha:"
         ],
         "bullets": [
           "**Prazo.** Até 7 dias corridos depois do recebimento, com a peça sem uso, com etiqueta e na embalagem original. Por defeito, até 90 dias corridos.",

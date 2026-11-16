@@ -157,3 +157,7 @@ Folha de aprovação mostrada no chat; upload ao CDN autorizado e verificado no 
 - Capa `/images/reviews/baw/cupom-baw-como-usar-capa.webp`: foto da Camiseta Regular Goth 3.0 preta (segunda foto da página do produto 151202), chamada "Cupom BAW: como usar?" e o código.
 - Corpo, "Onde digitar": `cupom-baw-carrinho-com-cupom.webp` (print do teste, já no CDN).
 - Corpo, "Quanto o cupom tira": `cupom-baw-como-usar-camiseta-goth.webp`, terceira foto da mesma página; a legenda diz que o carrinho do teste levou a mesma camiseta em outra cor.
+
+## Revisão externa (Farol, 16/11/2026)
+
+Parecer colado pelo Bruno e aplicado no mesmo dia: a conta de R$ 133,20 passou a dizer que é o valor dos produtos, antes do frete.

@@ -176,3 +176,7 @@ Folha de aprovação mostrada no chat; upload ao CDN autorizado e verificado no 
 - Capa `/images/reviews/baw/black-friday-baw-capa.webp`: segunda foto do Moletom Basic Label azul-escuro (produto 153707), chamada "Black Friday BAW 2026" e o código.
 - Corpo, uma foto por peça, com `href` para a página do produto: `black-friday-baw-camiseta-goth.webp` (151202), `-camiseta-selfie-logo.webp` (153490), `-camiseta-oversized-subscript.webp` (151896), `-moletom-basic-label.webp` (153707, primeira foto), `-calca-track-baw-tag.webp` (151973), `-shorts-reverse-kids.webp` (151314) e `-tenis-thunder.webp` (151236).
 - Pendências do artigo: refazer o teste do código em 27/11; reler os preços durante a campanha; depois da campanha, virar guia de 2027 ou sair do ar.
+
+## Revisão externa (Farol, 16/11/2026)
+
+Parecer colado pelo Bruno e aplicado no mesmo dia: saiu a instrução de medir a calça de duas formas; as diferenças de preço da Selfie frente à Goth e do Hoodie frente ao Basic Label ficaram explícitas; a Linus aparece como sandália; links oficiais do Hoodie, da bermuda e da Linus; legenda da tabela sem data, com os três preços separados.
