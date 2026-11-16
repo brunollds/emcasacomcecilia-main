@@ -26,10 +26,13 @@ Desenho aprovado pelo Bruno em 16/11, em fases:
 - **F2:** `affiliate` em lista aceita loja de link sem código e a SHEIN, com o 4CW5Y como código de indicação.
 - **F3:** a lista vale fora do PT e em família traduzida. A linha de cada loja só aparece nos idiomas dela.
 - **F4:** conteúdo, com a sessão de artigos: converter a família e criar os pares.
-- **F5, opcional:** páginas `/cupons/temu` e `/cupons/aliexpress`. Depende de decidir o que a página diz sobre
-  desconto (texto de oferta sem número ou lista de cupons da loja, que pede exceção do Bruno).
+- **Páginas da Temu e do AliExpress (correção do Bruno, 16/11):** as duas terão página em `/cupons`, em PT e nos 9
+  idiomas, e bolinha na home e nos guias fora do PT. A única restrição é não ocupar espaço na home em PT. Passam a
+  ser lojas com página, com um campo que as tira só da home em PT; a Shopee fica como afiliado sem página. Falta
+  decidir o que a página diz sobre desconto (texto de oferta sem número ou lista de cupons da loja, que pede exceção
+  do Bruno).
 
-**A redação dos três espera a F3 na main.** Mercado Livre e Amazon ficam fora desta rodada; YesStyle na lista, só
+**O SV1 espera a F2 na main; o SV2 e o SV3, a F3.** Mercado Livre e Amazon ficam fora desta rodada; YesStyle na lista, só
 quando houver artigo que precise.
 
 ## 3. O que muda no JSON
@@ -64,7 +67,17 @@ O Bruno levantou a ideia ("quem sabe até produtos"). O artigo de outubro não m
 - Amostra pequena e dita como amostra (por exemplo, cinco categorias de roupa básica), lida pelo navegador, sem login.
 - Na Shopee e no AliExpress o preço é do vendedor, não da loja: a tabela nomeia o anúncio.
 
-**Falta decidir com o Bruno:** se a amostra entra já nesta rodada, quais categorias e quem converte os links.
+**Decisão do Bruno (16/11):** a amostra entra, por partes: primeiro SHEIN e Shopee, só em PT. Ele pega os links
+dos produtos das duas e converte.
+
+- **Categorias propostas** (roupa básica, que é o que a busca pergunta: "para comprar roupa"): camiseta básica
+  feminina, calça jeans wide leg, vestido midi, conjunto de moletom e pijama.
+- **Regra de escolha:** em cada loja, o primeiro resultado da busca ordenada por mais vendidos, com nota e número de
+  avaliações à vista; na Shopee, de vendedor nacional e de vendedor do exterior quando houver os dois.
+- **O que se lê de cada peça:** preço do dia, frete e imposto para um CEP de São Paulo (01310-100), prazo estimado e
+  vendedor.
+- **Limite:** a busca da Shopee pede login (16/11) e não foi lida por esta frente. As peças da Shopee vêm do Bruno,
+  ou a leitura acontece com o Chrome dele já logado na Shopee.
 
 ## 6. Autocompletar (16/11)
 
