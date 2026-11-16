@@ -3880,6 +3880,137 @@ const STORE_COUPONS: Coupon[] = [
   },
   {
     offerMode: 'discount-code',
+    slug: 'lamazonie',
+    cartPrint: { src: '/images/reviews/lamazonie/cupom-lamazonie-checkout-com-cupom.webp', alt: "Resumo do checkout da L'Amazonie com o cupom CECILIA no campo Tem um cupom?, o aviso Desconto de menos R$ 20,40, a linha Descontos e o total de R$ 387,60", aspectRatio: 1.06 },
+    brand: "L'Amazonie",
+    officialUrl: 'https://www.lamazonie.com.br/',
+    offerUrl: 'https://www.lamazonie.com.br/',
+    brandIcon: 'LA',
+    brandLogo: '/images/about/partners/lamazonie.png',
+    brandLogoAlt: "Marca L'Amazonie",
+    bubble: { src: '/images/logos/bolinhas/lamazonie.png', background: '#0E423A' },
+    brandWatermark: '/images/logos/watermarks/lamazonie.webp',
+    brandColor: '#0E423A',
+    code: 'CECILIA',
+    codeFieldLabel: 'Tem um cupom?',
+    discount: '5% OFF',
+    discountNumber: 5,
+    category: 'Skincare: sérum para cílios e sobrancelhas, vitamina C, protetor solar e clareadores',
+    hubCategory: 'beleza',
+    shortDescription: "todo o site da L'Amazonie, com todas as formas de pagamento",
+    longDescription:
+      "O cupom L'Amazonie CECILIA dá 5% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções e com os 3% do Pix: no nosso teste, os 5% entraram também num kit de protetores em promoção. Vale em todas as formas de pagamento.",
+    metaTitle: "Cupom L'Amazonie: 5% OFF com CECILIA",
+    metaTitleMonth: true,
+    metaDescription:
+      "Cupom L'Amazonie: CECILIA dá 5% OFF para cliente novo ou antigo e soma com as promoções e os 3% do Pix. Testado no checkout.",
+    eligibleCategories: "Produtos do site oficial da L'Amazonie, inclusive os kits em promoção",
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Pode ser usado por clientes novos e antigos',
+    shipping: 'Frete grátis acima de R$ 199 para quase todo o Brasil e acima de R$ 500 no Acre, no Piauí, em Rondônia e em Roraima, segundo a loja; abaixo disso, frete e prazo saem no checkout pelo CEP',
+    combinable:
+      'Soma com as promoções vigentes do site e com os 3% de desconto do Pix, e vale com todas as formas de pagamento',
+    stacking: [
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, os 5% entraram num kit de protetores em promoção' },
+      { benefit: 'pix', stacks: 'sim', condition: 'No Pix, a loja dá 3% de desconto, que soma com o código' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 199 para quase todo o Brasil; no Acre, no Piauí, em Rondônia e em Roraima, acima de R$ 500' },
+    ],
+    paymentPerks: [
+      'Até 6x sem juros no cartão de crédito',
+      'Cashback de 15% para a próxima compra no site, com validade, que paga até 30% do pedido seguinte',
+      'Garantia Mais Fios no sérum de sobrancelhas: sem fios novos em 60 dias de uso, a loja devolve o dinheiro',
+    ],
+    lastVerified: '2026-11-16',
+    testedAt: '2026-11-16',
+    testNote:
+      "Num carrinho com o Sérum para crescimento de Cílios e Sobrancelhas pelo preço cheio de R$ 159,00 e o Kit 2 Protetores Solares de Tratamento FPS 99 em promoção, de R$ 278,00 por R$ 249,00, o CECILIA tirou R$ 20,40 dos R$ 408,00 e o total caiu para R$ 387,60: os 5% entraram também sobre o kit em promoção. Em outro carrinho do mesmo dia, de R$ 966,00, com o Kit Completo Sérum de Vitamina C20 + Protetor Solar + Gel de Limpeza e o Sérum Clareador Vitamina C20 de 3 unidades, o desconto foi de R$ 48,30, e o total ficou em R$ 917,70, com frete grátis.",
+    codeInstructions: [
+      'Copie o código CECILIA no card acima.',
+      "Acesse o site oficial da L'Amazonie pelo botão indicado, coloque os produtos no carrinho e clique em Finalizar compra.",
+      'No checkout da própria loja, em seguro.lamazonie.com.br, digite o código no campo Tem um cupom?, no resumo, e clique em Adicionar.',
+      'Confira o aviso Desconto em verde e a linha Descontos no resumo antes de pagar.',
+    ],
+    aboutBrand:
+      "A L'Amazonie Skincare é uma marca brasileira de dermocosméticos veganos e cruelty free, com ativos da Amazônia: sérum para crescimento de cílios e sobrancelhas, sérum de vitamina C, protetor solar e cremes clareadores, vendidos no site oficial. O cupom CECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 5% OFF, com qualquer forma de pagamento e também sobre os kits em promoção.",
+    faqs: [
+      {
+        question: "Quanto de desconto o cupom CECILIA dá na L'Amazonie?",
+        answer:
+          '5% OFF nos produtos do site oficial. No nosso teste, o cupom tirou R$ 20,40 de um carrinho de R$ 408,00, e o resumo do checkout mostrou o valor na linha Descontos.',
+      },
+      {
+        question: "O cupom CECILIA soma com o desconto do Pix na L'Amazonie?",
+        answer:
+          "Sim. O cupom vale com todas as formas de pagamento e, no Pix, a L'Amazonie ainda dá 3% de desconto. No cartão de crédito, a loja parcela em até 6x sem juros e aceita Visa, Mastercard, Elo, American Express, Diners, Discover e Hipercard.",
+      },
+      {
+        question: "O cupom L'Amazonie vale na primeira compra?",
+        answer: 'Sim. O CECILIA vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: "Qual cupom L'Amazonie vale para quem já é cliente?",
+        answer: 'O CECILIA. Ele dá 5% no site oficial para quem compra pela primeira vez e para quem já comprou.',
+      },
+      {
+        question: "O CECILIA é cupom de influenciadora da L'Amazonie?",
+        answer:
+          "Sim. CECILIA é o cupom do Em Casa com Cecília na L'Amazonie e dá 5% OFF no site oficial para clientes novos e antigos. Veja o print do checkout em “Como usar o cupom CECILIA”.",
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No nosso teste, o Kit 2 Protetores Solares de Tratamento FPS 99 estava em promoção, de R$ 278,00 por R$ 249,00, e o cupom tirou os 5% dele também.',
+      },
+      {
+        question: 'O cupom CECILIA está funcionando hoje?',
+        answer:
+          'Sim. No teste de carrinho mais recente, o CECILIA foi aceito. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
+      },
+      {
+        question: "Onde coloco o cupom na L'Amazonie?",
+        answer:
+          'No checkout do site oficial, que abre pelo botão Finalizar compra do carrinho: digite CECILIA no campo Tem um cupom?, no resumo, e clique em Adicionar. Aparece o aviso Desconto em verde, e o resumo passa a mostrar a linha Descontos.',
+      },
+      {
+        question: "Tem cupom L'Amazonie na Black Friday?",
+        answer:
+          "Tem. O cupom L'Amazonie CECILIA dá 5% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano.",
+      },
+      {
+        question: "O cupom L'Amazonie vale na Black Friday?",
+        answer:
+          'Vale. No nosso teste, em novembro, os 5% entraram num kit que já estava em promoção. Confira a linha Descontos no resumo antes de pagar.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'O cupom não mexe no frete, mas a loja dá frete grátis acima de R$ 199 para quase todo o Brasil, e acima de R$ 500 no Acre, no Piauí, em Rondônia e em Roraima. Abaixo disso, o frete e o prazo aparecem no checkout depois do CEP. A loja envia pelos Correios, com PAC e SEDEX, e pela Total Express.',
+      },
+      {
+        question: "Como funciona a troca na L'Amazonie?",
+        answer:
+          'Pela política da loja, a devolução é pedida pelo e-mail sac@lamazonie.com.br em até 7 dias depois do recebimento, com a caixa lacrada e o produto sem uso. A loja agenda a coleta no endereço da entrega, e o frete da devolução fica por conta do cliente.',
+      },
+      {
+        question: 'O que fazer se o cupom CECILIA não funcionar?',
+        answer:
+          "Confira se a barra de endereço mostra seguro.lamazonie.com.br, o checkout da própria loja, que abre pelo botão Finalizar compra do carrinho: o código só vale lá. Depois, veja se ele foi digitado no campo Tem um cupom?, sem espaços, e se o aviso Desconto apareceu em verde. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.",
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'no site oficial',
+      note: 'Soma com os preços em promoção do site e com os 3% do Pix',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
     slug: 'hostinger',
     cartPrint: { article: 'cupom-hostinger-indicacao', src: '/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom.webp', alt: 'Resumo do pedido no carrinho da Hostinger com a linha Cupom aplicado e a etiqueta SONAR20', aspectRatio: 1.096 },
     brand: 'Hostinger',
