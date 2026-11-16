@@ -11,7 +11,7 @@ status: "briefing"
 score: 70
 responsavel: "Job-1 (Claude Fable 5.2)"
 proxima_acao: "redação do PT (Job 2) e família de 10 idiomas (Job 4), com a F3 na main"
-bloqueado_por: "-"
+bloqueado_por: "os links de produto convertidos da amostra (Bruno)"
 data_criacao: "2026-11-16"
 i18n_cluster: "shein"
 translationKey: "shein-vs-aliexpress"
@@ -94,6 +94,17 @@ levando à página dela no idioma. O título do bloco é "Lojas deste artigo". O
 - Traduções pelo Sonnet, a partir do PT, com revisão desta frente. Sem citar o Brasil nem "SHEIN Brasil".
 - Lista `["shein", "aliexpress"]` nas 10 versões, com o mesmo link do AliExpress em todas.
 
+## Amostra de produtos (decisão do Bruno, 16/11)
+
+O artigo leva peças de exemplo da SHEIN e da AliExpress, com link de afiliado convertido de cada uma, nas mesmas
+categorias do SV1, para a série ficar igual: camiseta básica, calça jeans, vestido, pijama, bolsa, sapato e roupa de
+academia. Regras e limites em [[shein-ou-pares-plano-1611]], seção 5.
+
+- O Bruno escolhe as peças e converte os links. Esta frente lê preço, frete e prazo pela página de cada uma, uma
+  por vez, sem login; verificação de robô é parada.
+- Peças parecidas, nunca "a mesma". Sem qualidade, tecido nem caimento.
+- **Fora do PT (em aberto com o Bruno):** o preço lido é o do Brasil, e as traduções não citam o Brasil.
+
 ## Regras
 
 - Valem as de [[shein-ou-shopee-temu]]: cada número do AliExpress vem de um anúncio aberto, e o texto diz isso; nenhum
@@ -126,4 +137,4 @@ levando à página dela no idioma. O título do bloco é "Lojas deste artigo". O
 ## Pendências
 
 - Releitura do AliExpress por mercado.
-- Amostra de produtos: decisão do Bruno.
+- Amostra de produtos: aprovada em 16/11; faltam as peças e os links convertidos (Bruno).

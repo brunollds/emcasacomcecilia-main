@@ -11,7 +11,7 @@ status: "briefing"
 score: 68
 responsavel: "Job-1 (Claude Fable 5.2)"
 proxima_acao: "redação do PT e conversão das 9 versões para a lista de lojas (Job 2 e Job 4), com a F3 na main"
-bloqueado_por: "-"
+bloqueado_por: "os links de produto convertidos da amostra (Bruno)"
 data_criacao: "2026-11-16"
 i18n_cluster: "shein"
 translationKey: "shein-vs-shopee-temu"
@@ -92,6 +92,17 @@ levando à página dela no idioma. O título do bloco é "Lojas deste artigo". O
 - O PT traduz a estrutura das outras versões para o Brasil (núcleo mais bloco de mercado), com Reclame Aqui e imposto,
   que só existem aqui.
 
+## Amostra de produtos (decisão do Bruno, 16/11)
+
+O artigo leva peças de exemplo da SHEIN e da Temu, com link de afiliado convertido de cada uma, nas mesmas
+categorias do SV1, para a série ficar igual: camiseta básica, calça jeans, vestido, pijama, bolsa, sapato e roupa de
+academia. Regras e limites em [[shein-ou-pares-plano-1611]], seção 5.
+
+- O Bruno escolhe as peças e converte os links. Esta frente lê preço, frete e prazo pela página de cada uma, uma
+  por vez, sem login; verificação de robô é parada.
+- Peças parecidas, nunca "a mesma". Sem qualidade, tecido nem caimento.
+- **Fora do PT (em aberto com o Bruno):** o preço lido é o do Brasil, e as traduções não citam o Brasil.
+
 ## Regras
 
 - Valem as de [[shein-ou-shopee-temu]] e da "Revisão de 13/10/2026": o processamento da Temu (1 a 3 dias) vai ao lado
@@ -125,4 +136,4 @@ levando à página dela no idioma. O título do bloco é "Lojas deste artigo". O
 ## Pendências
 
 - Página "sobre" da Temu.
-- Amostra de produtos: decisão do Bruno.
+- Amostra de produtos: aprovada em 16/11; faltam as peças e os links convertidos (Bruno).
