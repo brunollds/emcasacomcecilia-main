@@ -11,7 +11,7 @@ status: "briefing"
 score: 68
 responsavel: "Job-1 (Claude Fable 5.2)"
 proxima_acao: "redação do PT e conversão das 9 versões para a lista de lojas (Job 2 e Job 4), com a F3 na main"
-bloqueado_por: "os links de produto convertidos da amostra (Bruno)"
+bloqueado_por: "as peças da Temu com o link convertido (Bruno)"
 data_criacao: "2026-11-16"
 i18n_cluster: "shein"
 translationKey: "shein-vs-shopee-temu"
@@ -25,7 +25,8 @@ affiliate: ["shein", "temu"]
 # Briefing: SHEIN ou Temu (SV2)
 
 Artigo novo em PT, que entra na família `shein-vs-shopee-temu` no lugar do `shein-ou-shopee-temu`. Decisão do Bruno de
-16/11. Plano comum e links em [[shein-ou-pares-plano-1611]]; fatos de outubro em [[shein-ou-shopee-temu]].
+16/11. Plano comum e links em [[shein-ou-pares-plano-1611]]; fatos de outubro em [[shein-ou-shopee-temu]], relidos em 17/11 em
+[[shein-ou-temu-fatos-1711]] (estes valem para o artigo).
 
 ## Busca (autocompletar de 16/11/2026)
 
@@ -37,17 +38,21 @@ pelo link da Temu e por fechar a família; a busca forte está fora do PT, onde 
 
 - **As duas regras de devolução lado a lado:** em outubro, a Temu publicava 90 dias a partir da compra e a SHEIN, 20
   a partir do recebimento, as duas com a primeira devolução grátis.
-- **O frete igual no papel:** as duas publicavam o mesmo frete mínimo e a mesma faixa de frete grátis para o Brasil.
+- **O frete igual no papel:** as duas publicam o mesmo frete mínimo e a mesma faixa de frete grátis para o Brasil
+  (relido em 17/11). O prazo não se compara: a SHEIN mostra uma estimativa que muda a cada dia e a Temu, uma faixa fixa.
 - **O imposto, igual nas duas:** a Temu publica na central de ajuda que participa do Remessa Conforme e cobra os
   impostos no pedido, com a mesma regra da SHEIN (lido em 16/11; fonte em [[01_Parceiros/Temu]]). A diferença é o
   reembolso: a Temu diz que o imposto de importação não volta.
-- **"São a mesma coisa?":** não, com o que cada uma diz de si. A página "sobre" da Temu ainda não foi lida.
+- **"São a mesma coisa?":** não, com o que cada uma diz de si (lido em 17/11): a SHEIN, varejista de moda com marca
+  própria, fundada em 2012; a Temu, plataforma que liga o comprador a parceiros comerciais, fabricantes e marcas,
+  fundada em Boston em 2022.
 
 ## Tese
 
-No papel, SHEIN e Temu cobram o mesmo frete e dão prazos parecidos para o Brasil; a escolha se decide na devolução, no
-atendimento e no que cada uma vende. A Temu dá mais tempo para devolver; a SHEIN tinha, em outubro, reputação melhor no
-Reclame Aqui ("Boa" contra "Ruim") e resolvia mais reclamações. O artigo não diz qual é mais barata nem qual tem
+No papel, SHEIN e Temu cobram o mesmo frete e seguem a mesma regra de imposto no Brasil; a escolha se decide na
+devolução, no atendimento e no que cada uma vende. A Temu dá mais tempo para devolver; a SHEIN tem reputação melhor no
+Reclame Aqui ("Boa" contra "Ruim", janela de maio a outubro) e resolve mais reclamações. Prazo: cada uma publica o
+seu, e o artigo não diz qual chega antes. O artigo não diz qual é mais barata nem qual tem
 melhor qualidade.
 
 ## Esqueleto
@@ -63,7 +68,7 @@ melhor qualidade.
 7. Antes de comprar: o que conferir.
 8. E a Shopee e o AliExpress? Link para o SV1 e o SV3.
 9. Quadro "Leve se / Passe se" (`decision`) e FAQ: "shein e temu são a mesma coisa?", "qual chega mais rápido?", "a
-   Temu cobra taxa?", "qual é mais barata?" (o artigo não mediu).
+   Temu cobra taxa?", "qual é mais barata?" (depende da peça e do vendedor; o que pesa no preço final).
 
 ## O que o site já aceita
 
@@ -111,7 +116,8 @@ academia. Regras e limites em [[shein-ou-pares-plano-1611]], seção 5.
 
 - Valem as de [[shein-ou-shopee-temu]] e da "Revisão de 13/10/2026": o processamento da Temu (1 a 3 dias) vai ao lado
   do prazo, sem dizer que se soma; nada de imposto da Temu além do que ela publica; nenhuma afirmação de qualidade.
-- Reler envio, devolução e Reclame Aqui das duas: os números são de 12/10. Ler a página "sobre" da Temu. O imposto está na central de ajuda dela
+- Envio, devolução e Reclame Aqui das duas e a página "sobre" de cada uma foram relidos em 17/11
+  ([[shein-ou-temu-fatos-1711]]), com as ressalvas do Reclame Aqui. O imposto da Temu está na central de ajuda dela
   (`temu.com/br/support/c3/programa-remessa-conforme-f-56-s-3166.html`, lida em 16/11, sem login).
 - Os brindes, a roleta e o "0 reais" da Temu aparecem no autocompletar de "temu é confiável". Ficam fora deste artigo;
   viram pauta própria se o Bruno quiser.
@@ -124,11 +130,11 @@ academia. Regras e limites em [[shein-ou-pares-plano-1611]], seção 5.
 - **seoTitle:** SHEIN ou Temu: qual escolher para comprar? (42)
 - **metaDescription:** O 4CW5Y dá desconto na SHEIN, sim. SHEIN ou Temu: frete, prazo, devolução e imposto lado a lado, e o que conferir antes de pagar. (129)
 - **description:** SHEIN e Temu lado a lado: frete, prazo, devolução, imposto e Reclame Aqui pelas regras que cada loja publica, e como escolher conforme o que você vai comprar. (158)
-- **Resposta rápida** (52 palavras):
+- **Resposta rápida** (50 palavras; revista em 17/11, sem "prazos parecidos"):
 
-   > SHEIN e Temu publicam o mesmo frete mínimo e prazos parecidos para o Brasil. A diferença está na devolução e no
-   > atendimento: a Temu dá mais tempo para devolver, e a SHEIN tem reputação melhor no Reclame Aqui. As duas são
-   > empresas diferentes, e o imposto da compra internacional vale nas duas.
+   > SHEIN e Temu cobram o mesmo frete mínimo para o Brasil e seguem a mesma regra de imposto. A diferença está na
+   > devolução e no atendimento: a Temu dá mais tempo para devolver, e a SHEIN tem reputação melhor no Reclame Aqui.
+   > São empresas diferentes, e cada uma publica o próprio prazo de entrega.
 
 ## Técnico
 
@@ -139,5 +145,5 @@ academia. Regras e limites em [[shein-ou-pares-plano-1611]], seção 5.
 
 ## Pendências
 
-- Página "sobre" da Temu.
-- Amostra de produtos: aprovada em 16/11; faltam as peças e os links convertidos (Bruno).
+- Amostra de produtos: aprovada em 16/11; faltam as peças da Temu com o link convertido (Bruno). Do lado da SHEIN, as
+  23 peças de [[shein-ou-shopee-amostra-1711]] servem, nas mesmas categorias, salvo outra escolha do Bruno.
