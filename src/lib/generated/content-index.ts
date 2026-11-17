@@ -33729,7 +33729,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual sabor para cada perfil",
         "paragraphs": [
-          "Para café puro de menor intensidade, compare Espresso, Lungo e Café Caseiro. Para café com leite, veja Café au Lait, Pingado e Mochaccino Canela, todos da linha Original; confira o sistema da sua máquina antes de escolher. Na loja oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+          "Para café puro de menor intensidade, compare Espresso, Lungo e Café Caseiro. Para café com leite, veja Café au Lait, Pingado e Mochaccino Canela, todos da linha Original; confira o sistema da sua máquina antes de escolher. Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -34238,7 +34238,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual Dolce Gusto comprar",
         "paragraphs": [
-          "Para gastar menos, a Mini Me 2.0; para ter XL e quatro temperaturas, a Genio S Plus; para cápsula compostável e reservatório de 1 litro, a NEO, que aceita só cápsulas NEO. As duas primeiras usam as mesmas cápsulas Original. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+          "Para gastar menos, a Mini Me 2.0; para ter XL e quatro temperaturas, a Genio S Plus; para cápsula compostável e reservatório de 1 litro, a NEO, que aceita só cápsulas NEO. As duas primeiras usam as mesmas cápsulas Original. No site oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% OFF a partir de 100 reais."
         ]
       },
       {
@@ -34512,7 +34512,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a NESCAFÉ Dolce Gusto é operada pela Nestlé Brasil, com CNPJ público, SAC e direito de arrependimento de 7 dias previsto no CDC. Em defeito de máquina, os termos indicam a Nestlé (SAC) e a assistência do fabricante, a Arno. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+          "Sim, a NESCAFÉ Dolce Gusto é operada pela Nestlé Brasil, com CNPJ público, SAC e direito de arrependimento de 7 dias previsto no CDC. Em defeito de máquina, os termos indicam a Nestlé (SAC) e a assistência do fabricante, a Arno. No site oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% OFF a partir de 100 reais."
         ]
       },
       {
@@ -36800,7 +36800,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e como comprar",
         "paragraphs": [
-          "No site oficial, a Genio S Touch Prata (127V) estava saindo por R$ 799,90, de R$ 979,90 (preço de 13 de outubro de 2026; pode mudar conforme promoções e disponibilidade). No checkout, o cupom CECI pode dar mais 10% de desconto em compras a partir de R$ 100; confira no resumo do pedido. As condições do código estão na [página de cupons da Dolce Gusto](/cupons/dolce-gusto).",
+          "No site oficial, a Genio S Touch Prata (127V) estava saindo por R$ 799,90, de R$ 979,90 (preço de 13 de outubro de 2026; pode mudar conforme promoções e disponibilidade). No checkout, o cupom CECI dá mais 10% de desconto em compras a partir de R$ 100; confira no resumo do pedido. As condições estão na página do [cupom Dolce Gusto](/cupons/dolce-gusto).",
           "Como todo cupom promocional, o CECI pode ser alterado pela marca. Se ele não estiver mais disponível quando você for comprar, o link abaixo leva direto pra loja oficial, onde você confere o preço e as condições vigentes no momento."
         ],
         "bullets": []
@@ -36814,7 +36814,7 @@ export const reviewsData: unknown[] = [
           "A máquina vaza ou pinga água? No nosso uso, não vazou, mas pinga um pouco entre um preparo e outro, um ponto que incomodou e que não notamos em outras máquinas de cápsula que já usamos.",
           "Precisa de tomada especial? Sim, a unidade 127V testada possui plugue de 20A e deve ser ligada diretamente a uma tomada de 20A compatível, sem adaptadores improvisados.",
           "O que é o Espresso Boost? É uma função selecionável no painel touch que intensifica o preparo do espresso. Na nossa experiência, é um adicional que vale a pena principalmente pra quem aprecia espresso: melhora bastante o resultado na xícara.",
-          "O cupom CECI ainda é válido? O CECI é o código de parceria da Dolce Gusto: 10% OFF em compras a partir de R$ 100 na loja oficial. As condições vigentes estão na [página de cupons Dolce Gusto](/cupons/dolce-gusto); confira o desconto no resumo do pedido antes de pagar."
+          "O cupom CECI ainda é válido? O CECI é o código de parceria da Dolce Gusto: 10% OFF em compras a partir de R$ 100 na loja oficial. As condições vigentes estão na página do [cupom Dolce Gusto](/cupons/dolce-gusto); confira o desconto no resumo do pedido antes de pagar."
         ]
       }
     ],
@@ -41734,7 +41734,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar e cupom de desconto",
         "paragraphs": [
           "A compra é na loja oficial, com campanhas de cápsulas e cores exclusivas. O preço de tabela individual varia de acordo com a cor e as ofertas ativas.",
-          "No checkout da loja oficial, teste o cupom CECI: 10% em compras a partir de R$ 100, nas regras do checkout.",
+          "Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% em compras a partir de R$ 100. No nosso teste de carrinho, ele entrou na Mini Me 2.0 em promoção: de R$ 369,90 para R$ 332,91.",
           "Assista também ao vídeo especial do Bruno no canal Em Casa com Cecília no YouTube Shorts, gravado para a campanha de Dia dos Pais com a NESCAFÉ Dolce Gusto Mini Me 2.0, mostrando a máquina em ação."
         ],
         "links": [
@@ -42433,7 +42433,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar com desconto e como usar o cupom CECI",
         "paragraphs": [
           "A linha Genio S sai na loja oficial da NESCAFÉ Dolce Gusto Brasil, com garantia Arno de 1 ano e versões 127V ou 220V, quando disponíveis.",
-          "No carrinho da loja oficial, o cupom CECI pode conceder 10% de desconto em produtos elegíveis, em compras a partir de R$ 100. Confirme a aplicação e as regras vigentes antes de concluir o pedido."
+          "Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% de desconto em compras a partir de R$ 100. No nosso teste de carrinho, ele entrou numa máquina em promoção. Confirme a aplicação e as regras vigentes antes de concluir o pedido."
         ],
         "bullets": [],
         "links": [
@@ -44661,7 +44661,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não há vencedora única: a Dolce Gusto serve a quem quer variedade de bebidas e cápsula entre as mais baratas, a Nespresso a quem quer café premium e a TRES a quem toma café filtrado. As cápsulas não se misturam entre os sistemas. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+          "Não há vencedora única: a Dolce Gusto serve a quem quer variedade de bebidas e cápsula entre as mais baratas, a Nespresso a quem quer café premium e a TRES a quem toma café filtrado. As cápsulas não se misturam. No site oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% OFF a partir de 100 reais."
         ]
       },
       {
@@ -45728,7 +45728,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Dolce Gusto ou Nespresso",
         "paragraphs": [
-          "A Dolce Gusto é a melhor escolha para quem quer cappuccino, achocolatado e chá na mesma máquina; a Nespresso Original prioriza cafés e variedade de cápsulas, e o custo por dose pesa na conta. Nos modelos básicos, cappuccino na Nespresso pede espumador separado. No site oficial, o cupom CECI dá 10% em compras a partir de 100 reais."
+          "A Dolce Gusto é a melhor escolha para quem quer cappuccino, achocolatado e chá na mesma máquina; a Nespresso Original prioriza cafés e variedade de cápsulas, e o custo por dose pesa na conta. Nos modelos básicos, cappuccino na Nespresso pede espumador. No site oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% a partir de 100 reais."
         ]
       },
       {
@@ -52585,7 +52585,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa a assinatura Dolce Gusto",
         "paragraphs": [
-          "A Assinatura NESCAFÉ Dolce Gusto é a compra programada de cápsulas no site oficial: você escolhe os sabores e a frequência, e a marca dá 25% de desconto sobre o preço cheio, com frete grátis e pedido mínimo de 3 caixas. Este guia compara o preço com a promoção avulsa e testa o cupom CECI.",
+          "A Assinatura NESCAFÉ Dolce Gusto é a compra programada de cápsulas no site oficial: você escolhe os sabores e a frequência, e a marca dá 25% de desconto sobre o preço cheio, com frete grátis e pedido mínimo de 3 caixas. Este guia compara o preço com a promoção avulsa e testa o [cupom Dolce Gusto](/cupons/dolce-gusto), o CECI.",
           "Ao escolher os sabores, o montador da assinatura já mostra cada caixa com os 25% de desconto, com o preço cheio riscado ao lado. Não existe mensalidade nem taxa de adesão: você paga só as caixas de cada entrega.",
           "A própria Dolce Gusto divulga quanto cada linha custa depois do desconto, no banner que aparece no alto desta página. No montador, os preços saem com 1 ou 2 centavos de diferença, e são eles que a tabela usa. As caixas de sabores vendidas hoje têm **10 cápsulas**, tanto na Geração I quanto na NEO:"
         ],
@@ -54408,7 +54408,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Dolce Gusto 2026",
         "paragraphs": [
-          "A Black Friday da NESCAFÉ Dolce Gusto segue no ar, com Mini Me 2.0 e Genio S com 30 cápsulas e ofertas novas todo dia. O cupom CECI dá 10% OFF em pedidos a partir de 100 reais e, no nosso teste, entrou no preço de Black Friday da Mini Me. Nas cápsulas, compare o custo por bebida."
+          "A Black Friday da NESCAFÉ Dolce Gusto segue no ar, com Mini Me 2.0 e Genio S com 30 cápsulas e ofertas novas todo dia. O [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI, dá 10% OFF a partir de 100 reais e, no nosso teste, entrou no preço de Black Friday da Mini Me. Nas cápsulas, compare o custo por bebida."
         ]
       },
       {
@@ -75773,7 +75773,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: quanto custa cada bebida",
         "paragraphs": [
-          "O custo da bebida Dolce Gusto é o preço da caixa dividido pelas bebidas que ela prepara. Uma caixa de dez cápsulas faz dez bebidas nas receitas de uma cápsula, ou cinco nas de duas. O CECI dá 10% OFF no site oficial a partir de cem reais."
+          "O custo da bebida Dolce Gusto é o preço da caixa dividido pelas bebidas que ela prepara. Uma caixa de dez cápsulas faz dez bebidas nas receitas de uma cápsula, ou cinco nas de duas. O [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% OFF no site oficial a partir de cem reais."
         ]
       },
       {
@@ -103027,7 +103027,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e como usar o CECI",
         "paragraphs": [
-          "O Espresso e o Espresso Intenso estão na loja oficial da NESCAFÉ Dolce Gusto. O CECI dá 10% OFF na loja oficial, em compras a partir de R$ 100. A caixa de 10 cápsulas custava R$ 22,50, então uma caixa sozinha fica abaixo do mínimo. Confira o preço atual, digite o código no carrinho e veja o desconto no resumo antes de pagar. Há instruções em [como usar o CECI na Dolce Gusto](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar) e condições na [página do cupom da Dolce Gusto](/cupons/dolce-gusto)."
+          "O Espresso e o Espresso Intenso estão na loja oficial da NESCAFÉ Dolce Gusto. O CECI dá 10% OFF na loja oficial, em compras a partir de R$ 100. A caixa de 10 cápsulas custava R$ 22,50, então uma caixa sozinha fica abaixo do mínimo. Confira o preço atual, digite o código no carrinho e veja o desconto no resumo antes de pagar. Há instruções em [como usar o CECI na Dolce Gusto](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar) e condições na página do [cupom Dolce Gusto](/cupons/dolce-gusto)."
         ]
       },
       {
@@ -103496,7 +103496,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e como usar o CECI",
         "paragraphs": [
-          "O Café au Lait está na loja oficial da NESCAFÉ Dolce Gusto. O CECI dá 10% OFF na loja oficial, em compras a partir de R$ 100. Digite o código no carrinho e confira o desconto no resumo do pedido. Veja o passo a passo em [como usar o CECI na Dolce Gusto](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar) e as regras na [página do cupom da Dolce Gusto](/cupons/dolce-gusto)."
+          "O Café au Lait está na loja oficial da NESCAFÉ Dolce Gusto. O CECI dá 10% OFF na loja oficial, em compras a partir de R$ 100. Digite o código no carrinho e confira o desconto no resumo do pedido. Veja o passo a passo em [como usar o CECI na Dolce Gusto](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar) e as regras na página do [cupom Dolce Gusto](/cupons/dolce-gusto)."
         ]
       },
       {
@@ -115894,7 +115894,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "A conta por bebida divide o preço do combo pelas cápsulas, e vale para bebida de uma cápsula, como o espresso e o Mochaccino Canela. Bebida com leite de duas cápsulas, como o cappuccino, conta em dobro. A seção de bebidas mostra o preço de cada uma. Na loja comum, sem combo, a caixa de 10 sai a R$ 24,90 cheia, ou R$ 2,49 por bebida, e a diferença para o combo de 50 caixas é de R$ 0,87 por bebida. Quem ainda não tem máquina pode levar o combo Mini Me 2.0 com 20 caixas por R$ 797,00. Para receber caixas todo mês sem fazer pedido, há a [assinatura da Dolce Gusto](/reviews/assinatura-dolce-gusto-vale-a-pena).",
           "O cupom CECI vale na mesma loja onde ficam os combos de negócios: 10% OFF em compras a partir de R$ 100, e soma com as promoções. Nos combos, ele incide sobre o preço do dia. O combo de 50 caixas, por exemplo, sai de R$ 809,25 para R$ 728,33, ou R$ 1,46 por bebida. Confira no carrinho.",
-          "Para compra sob medida, a própria loja tem o formulário Soluções Personalizadas, e o cupom CECI não é prometido nesse canal. Os combos estão em [Dolce Gusto Negócios na loja oficial](https://www.nescafe-dolcegusto.com.br/negocios-combos), e as condições de cupom da marca, na [página de cupons da Dolce Gusto](/cupons/dolce-gusto)."
+          "Para compra sob medida, a própria loja tem o formulário Soluções Personalizadas, e o cupom CECI não é prometido nesse canal. Os combos estão em [Dolce Gusto Negócios na loja oficial](https://www.nescafe-dolcegusto.com.br/negocios-combos), e as condições do código, na página do [cupom Dolce Gusto](/cupons/dolce-gusto)."
         ],
         "images": [
           {
@@ -207032,7 +207032,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom CECI soma com o CNPJ e com o combo",
         "paragraphs": [
-          "O CECI dá 10% OFF na loja oficial em compras a partir de R$ 100, também para CNPJ, e na linha Negócios ele deve somar com os 10% de CNPJ e com o desconto do combo; o carrinho mostra o valor final. As condições vigentes ficam na [página do cupom CECI](/cupons/dolce-gusto)."
+          "O CECI dá 10% OFF na loja oficial em compras a partir de R$ 100, também para CNPJ, e na linha Negócios ele deve somar com os 10% de CNPJ e com o desconto do combo; o carrinho mostra o valor final. As condições vigentes ficam na página do [cupom Dolce Gusto](/cupons/dolce-gusto)."
         ]
       },
       {
@@ -234954,7 +234954,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Como conseguir desconto na primeira compra na Dolce Gusto? O CECI dá 10% nos produtos elegíveis, em compras a partir de R$ 100, no primeiro pedido e nos seguintes.",
           "Qual cupom Dolce Gusto vale para quem já é cliente? O mesmo CECI: 10% nos produtos elegíveis, em compras a partir de R$ 100.",
-          "O CECI vale em máquinas Dolce Gusto? Pode funcionar, conforme o produto e a campanha. Confira no checkout se o CECI foi aceito e se o desconto apareceu.",
+          "O CECI vale em máquinas Dolce Gusto? Vale. No nosso teste de carrinho, ele entrou numa Mini Me 2.0 em promoção: de R$ 369,90 para R$ 332,91. Confira no checkout se o desconto apareceu.",
           "O cupom Dolce Gusto dá frete grátis? O CECI não desconta o frete. Confira o valor da entrega no carrinho."
         ]
       }
