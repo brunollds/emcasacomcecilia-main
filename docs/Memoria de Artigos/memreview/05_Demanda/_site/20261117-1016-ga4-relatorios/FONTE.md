@@ -58,3 +58,22 @@ eventos e de visualizações do GA4 não serve como número absoluto; a compara�
   visitas, não todas.
 - O canal "AI Assistant" aparece com 295 sessões no período.
 - O nome dos arquivos foi trocado ao guardar; o conteúdo é o do export, com o cabeçalho de comentários do GA4.
+
+## Conferência dos arquivos (17/11/2026, 10:36, depois do aviso do Bruno)
+
+Cada arquivo foi identificado pelo cabeçalho de comentários que o GA4 escreve (relatório, propriedade e datas).
+
+| Arquivo guardado | Nome com que chegou a Downloads | Cabeçalho do arquivo | Linhas de dados | Linha conhecida | Confere? |
+|---|---|---|---|---|---|
+| `ga4-paginas-e-telas.csv` | `Páginas_e_telas_Caminho_da_página_e_classe_da_tela.csv` | Páginas e telas: Caminho da página; Emcasacomcecilia; 20260816 a 20261115 | 500 | `/` com 2.969 visualizações, como na tela | Sim |
+| `ga4-aquisicao-de-trafego.csv` | arquivo temporário do navegador (`.tmp`); depois de confirmado, `Aquisição_de_tráfego_Grupo_principal_de_canais_da_sessão_(Grupo_de_canais_padrão).csv` | Aquisição de tráfego; Emcasacomcecilia; 20260816 a 20261115 | 6 | Organic Search com 1.564 sessões, como na tela | Sim |
+| `ga4-eventos.csv` | `.tmp`; depois `Eventos_Nome_do_evento.csv` | Eventos: Nome do evento; Emcasacomcecilia; 20260816 a 20261115 | 19 | `page_view` com 11.122, igual às Visualizações | Sim |
+| `ga4-paginas-e-telas-16a17nov.csv` | `.tmp`; depois `Páginas_e_telas_Caminho_da_página_e_classe_da_tela.csv` | Páginas e telas: Caminho da página; Emcasacomcecilia; 20261116 a 20261117 | 75 | `/` com 66 visualizações | Sim |
+
+- **Arquivo errado, pego e trocado na hora:** o primeiro arquivo que guardei como aquisição era um export antigo, de
+  mesmo nome, que já estava em Downloads desde 07/11/2026 (datas 20261010 a 20261106 no cabeçalho). O export desta
+  coleta ainda esperava a confirmação de salvar. O antigo voltou para Downloads com o nome original e o certo foi
+  guardado aqui. O `nossos-dados.csv` só foi gerado depois da troca.
+- Os dois arquivos de páginas chegaram com o mesmo nome; o que os separa é a data do cabeçalho.
+- As cópias que ficaram em Downloads depois da confirmação do Bruno foram comparadas byte a byte com estas: iguais.
+  Tamanhos e SHA-256 recalculados: os mesmos da tabela de arquivos.

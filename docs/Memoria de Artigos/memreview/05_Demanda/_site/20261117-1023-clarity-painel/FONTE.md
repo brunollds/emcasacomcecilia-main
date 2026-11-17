@@ -62,3 +62,27 @@ no Clarity.
 - O texto dos painéis traz um resumo do "usuário principal" (número de sessões, país e tipo de aparelho), que é o que
   o painel mostra para todos; nenhuma gravação, identificador de visitante ou perfil foi aberto ou copiado.
 - Nenhuma configuração do projeto foi alterada; o filtro de URL e o período foram só de visualização.
+
+## Conferência dos arquivos (17/11/2026, 10:36, depois do aviso do Bruno)
+
+Cada arquivo começa com o endereço do painel (período e filtro de URL) e a hora da leitura; o texto repete o período
+("Últimos 30 dias" ou "Últimos 90 dias") e o filtro ("URL visitada é exatamente").
+
+| Arquivo guardado | Nome com que chegou a Downloads | Período no texto | Filtro no texto | Sessões | Confere? |
+|---|---|---|---|---|---|
+| `clarity-site-30d.txt` | o mesmo | Últimos 30 dias | nenhum | 1.811 | Sim |
+| `clarity-site-90d.txt` | **`clarity.txt`** (nome trocado na janela de salvar; o pedido era `clarity-site-90d.txt`) | Últimos 90 dias | nenhum | 2.122 | Sim |
+| `clarity-cupons-lamazonie-30d.txt` | o mesmo | Últimos 30 dias | `/cupons/lamazonie` | 0 | Sim |
+| `clarity-cupons-lamazonie-90d.txt` | o mesmo | Últimos 90 dias | `/cupons/lamazonie` | 0 | Sim |
+| `clarity-cupons-simple-organic-30d.txt` | o mesmo | Últimos 30 dias | `/cupons/simple-organic` | 2 | Sim |
+| `clarity-cupons-simple-organic-90d.txt` | o mesmo | Últimos 90 dias | `/cupons/simple-organic` | 2 | Sim |
+| `clarity-cupons-skelt-30d.txt` | o mesmo | Últimos 30 dias | `/cupons/skelt` | 6 | Sim |
+| `clarity-cupons-skelt-90d.txt` | o mesmo | Últimos 90 dias | `/cupons/skelt` | 6 | Sim |
+| `clarity-cupons-yesstyle-30d.txt` | o mesmo | Últimos 30 dias | `/cupons/yesstyle` | 10 | Sim |
+| `clarity-cupons-yesstyle-90d.txt` | o mesmo | Últimos 90 dias | `/cupons/yesstyle` | 12 | Sim |
+
+- **Arquivo renomeado:** `clarity.txt` é o painel do site inteiro em 90 dias. Soube pela primeira linha do arquivo
+  (`...dashboard?date=Last%2090%20days`, sem filtro de URL), pelo texto "Últimos 90 dias" e pelas 2.122 sessões, o
+  mesmo número lido na tela.
+- Nenhum arquivo do Clarity foi sobrescrito: cada um foi gravado com nome próprio.
+- Tamanhos e SHA-256 recalculados: os mesmos da tabela de arquivos.

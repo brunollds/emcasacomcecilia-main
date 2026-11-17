@@ -88,3 +88,27 @@ os CSVs extraídos dele, com o nome sem acento e em minúsculas (`Páginas.csv` 
   `/<idioma>/coupons/yesstyle` ficam fora.
 - As consultas são dado privado da propriedade: ficam só neste repositório.
 - Uma consulta do export tem quebra de linha dentro das aspas; quem processa precisa de leitor de CSV que respeite aspas.
+
+## Conferência dos arquivos (17/11/2026, 10:36, depois do aviso do Bruno)
+
+O Bruno avisou que a janela de salvar abriu sem ele esperar, que alguns arquivos se sobrescreveram e que ele
+renomeou um sem querer. Cada zip foi identificado pelo conteúdo, não pelo nome: o `Filtros.csv` de dentro dele, o
+período do `Gráfico.csv` e uma linha conhecida.
+
+| Arquivo guardado | Nome com que chegou a Downloads | `Filtros.csv` de dentro | Gráfico | Linhas de dados | Confere? |
+|---|---|---|---|---|---|
+| `gsc-site-3m.zip` | arquivo temporário do navegador (`.tmp`), copiado antes de ganhar nome | Web; Últimos 3 meses; sem outro filtro | 16/08 a 15/11/2026 | 1.000 consultas, 1.000 páginas; a primeira página é `/reviews/tabela-medidas-dolce-gusto-ml-por-nivel` (471 cliques) | Sim |
+| `gsc-consulta-amazonie-3m.zip` | `emcasacomcecilia.com-Performance-on-Search-2026-11-17.zip` | Consulta: +amazonie | 16/08 a 15/11/2026, tudo zero | 0 | Sim |
+| `gsc-pagina-cupons-lamazonie-3m.zip` | **`lamazonie.zip`** (nome dado pelo Bruno na janela de salvar) | Página: +/cupons/lamazonie | 16/08 a 15/11/2026, tudo zero | 0 | Sim |
+| `gsc-pagina-cupons-simple-organic-3m.zip` | `emcasacomcecilia.com-Performance-on-Search-2026-11-17.zip` | Página: +/cupons/simple-organic | 16/08 a 15/11/2026 | 16 consultas, 1 página (225 impressões) | Sim |
+| `gsc-pagina-cupons-skelt-3m.zip` | `emcasacomcecilia.com-Performance-on-Search-2026-11-17.zip` | Página: +/cupons/skelt | 16/08 a 15/11/2026 | 11 consultas, 1 página (820 impressões) | Sim |
+| `gsc-pagina-cupons-yesstyle-3m.zip` | `emcasacomcecilia.com-Performance-on-Search-2026-11-17.zip` | Página: +/cupons/yesstyle | 16/08 a 15/11/2026 | 25 consultas, 1 página (648 impressões) | Sim |
+
+- **O que foi sobrescrito:** na primeira passada, os recortes de "amazonie", `/cupons/lamazonie`,
+  `/cupons/simple-organic` e `/cupons/skelt` se sobrescreveram em Downloads (o Search Console dá o mesmo nome a todo
+  export) e só o da YesStyle sobrou. Os quatro foram exportados de novo, um a um, ainda dentro desta coleta, antes de
+  qualquer processamento. Nenhum arquivo errado chegou a esta pasta.
+- **Arquivo renomeado:** o recorte de `/cupons/lamazonie` chegou como `lamazonie.zip`. É o export com o filtro Página
+  contém `/cupons/lamazonie`, como mostra o `Filtros.csv` de dentro dele; foi guardado com o nome do padrão da pasta.
+- Os CSVs extraídos foram comparados byte a byte com o conteúdo de cada zip: iguais. Tamanhos e SHA-256 recalculados
+  depois da conferência: os mesmos da tabela de arquivos.
