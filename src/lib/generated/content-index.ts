@@ -36800,7 +36800,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e como comprar",
         "paragraphs": [
-          "No site oficial, a Genio S Touch Prata (127V) estava saindo por R$ 799,90, de R$ 979,90 (preço de 13 de outubro de 2026; pode mudar conforme promoções e disponibilidade). No checkout, o cupom CECI dá mais 10% de desconto em compras a partir de R$ 100; confira no resumo do pedido. As condições estão na página do [cupom Dolce Gusto](/cupons/dolce-gusto).",
+          "No site oficial, a Genio S Touch Prata (127V) estava saindo por R$ 799,90, de R$ 979,90 (preço de 13 de outubro de 2026; pode mudar conforme promoções e disponibilidade). O [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% OFF em produtos elegíveis da loja oficial, em compras a partir de R$ 100. Ele entrou no nosso teste com uma Mini Me 2.0 em promoção; para a Genio S Touch, confira o desconto no resumo antes de pagar.",
           "Como todo cupom promocional, o CECI pode ser alterado pela marca. Se ele não estiver mais disponível quando você for comprar, o link abaixo leva direto pra loja oficial, onde você confere o preço e as condições vigentes no momento."
         ],
         "bullets": []
@@ -41669,7 +41669,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Mini Me 2.0 é uma boa escolha para quem quer uma Dolce Gusto compacta, com controles no painel no lugar da alavanca. Na unidade 127V testada pelo Bruno, pesam o plugue de 20A e o pingamento; ela usa cápsulas ORIGINAL, e cafés NEO selecionados pedem adaptador. Na loja oficial, o CECI dá 10% OFF acima do pedido mínimo."
+          "A Mini Me 2.0 é uma boa escolha para quem quer uma Dolce Gusto compacta, com controles no painel no lugar da alavanca. Na unidade 127V testada pelo Bruno, pesam o plugue de 20A e o pingamento; ela usa cápsulas ORIGINAL, e cafés NEO selecionados pedem adaptador. Na loja oficial, o CECI dá 10% OFF a partir de 100 reais."
         ]
       },
       {
@@ -41760,7 +41760,7 @@ export const reviewsData: unknown[] = [
           "Qual o padrão de tomada da Mini Me 2.0? Na unidade 127V testada, a máquina utiliza o plugue de 20 Amperes (20A) com pinos de 4,8mm. Recomenda-se confirmar a voltagem e o plugue no manual do fabricante antes de instalar.",
           "A Mini Me 2.0 aceita cápsulas NEO? Só com o Adaptador NEO Start. Segundo a página oficial, a máquina é compatível com cápsulas Original; o adaptador prepara apenas cafés pretos NEO selecionados, só com água quente, então confira a compatibilidade do sabor antes de comprar.",
           "A Mini Me 2.0 aceita cápsulas Starbucks? Sim. Ela é compatível com a linha de cápsulas Starbucks by NESCAFÉ Dolce Gusto para o sistema Original disponíveis no mercado.",
-          "O cupom CECI vale para a Mini Me 2.0? O cupom CECI pode ser testado no checkout da loja oficial da NESCAFÉ Dolce Gusto para verificar a concessão de 10% de desconto em compras a partir de R$ 100."
+          "O cupom CECI vale para a Mini Me 2.0? Sim. No nosso teste com uma Mini Me 2.0 em promoção, o CECI aplicou 10% de desconto e o preço foi de R$ 369,90 para R$ 332,91. O código exige compra a partir de R$ 100 na loja oficial; confira a linha do desconto antes de pagar."
         ]
       }
     ],
@@ -42313,7 +42313,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Genio S Plus é a escolha mais equilibrada: traz Espresso Boost e quatro temperaturas sem painel touch, e compensa se a diferença para a Touch for relevante. A Basic serve a quem quer o essencial, se mais barata que a Plus; a Touch, a quem prefere toque. Na loja oficial, o CECI dá 10% OFF acima do pedido mínimo."
+          "A Genio S Plus é a mais equilibrada: traz Espresso Boost e quatro temperaturas sem painel touch, e compensa se a diferença para a Touch for relevante. A Basic serve a quem quer o essencial, se mais barata que a Plus; a Touch, a quem prefere toque. Na loja oficial, o CECI dá 10% OFF a partir de 100 reais."
         ]
       },
       {
@@ -42433,7 +42433,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar com desconto e como usar o cupom CECI",
         "paragraphs": [
           "A linha Genio S sai na loja oficial da NESCAFÉ Dolce Gusto Brasil, com garantia Arno de 1 ano e versões 127V ou 220V, quando disponíveis.",
-          "Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% de desconto em compras a partir de R$ 100. No nosso teste de carrinho, ele entrou numa máquina em promoção. Confirme a aplicação e as regras vigentes antes de concluir o pedido."
+          "Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% de desconto em produtos elegíveis, em compras a partir de R$ 100. O nosso teste em máquina foi com uma Mini Me 2.0 já em promoção. Ao escolher a Basic, a Plus ou a Touch, confira a linha de desconto no resumo antes de pagar."
         ],
         "bullets": [],
         "links": [
@@ -42470,7 +42470,7 @@ export const reviewsData: unknown[] = [
           "Dá para usar cápsulas de outras marcas, como Nespresso, nas máquinas Genio S? Não. O sistema Dolce Gusto ORIGINAL usa um formato de cápsula e porta-cápsula próprio, fisicamente incompatível com o sistema Nespresso.",
           "As cápsulas da linha NEO servem direto nas Genio S? Não diretamente: os três modelos (Basic, Plus e Touch) usam o sistema ORIGINAL. Para preparar cafés pretos NEO selecionados é preciso o [Adaptador NEO Start](/reviews/adaptador-neo-start-o-que-e), vendido à parte e compatível com toda a linha Genio S. Segundo o [manual oficial do NEO Start](https://www.dolce-gusto.pt/media/wysiwyg/NDG_NEO-START_UM_leaflet_325x200_EN_FR_DE_NL_IT_ES_PTG_PTB_2024-10-23.pdf), o preparo é só com água quente, sem o modo frio.",
           "As máquinas Genio S vêm em 127V e 220V? Sim, há versões 127V e 220V, conforme modelo e disponibilidade. Verifique a tensão e o padrão da tomada antes da compra, sem usar adaptadores improvisados.",
-          "Qual o cupom de desconto para comprar cafeteiras Dolce Gusto? O cupom CECI pode conceder 10% de desconto em produtos elegíveis na loja oficial, em compras a partir de R$ 100. Confirme a aplicação e as condições vigentes no checkout."
+          "Qual o cupom de desconto para comprar cafeteiras Dolce Gusto? O CECI dá 10% de desconto em produtos elegíveis da loja oficial, em compras a partir de R$ 100, e funcionou no nosso teste com uma Mini Me 2.0 em promoção. Para a Genio S escolhida, confira a aplicação no resumo do carrinho."
         ]
       }
     ],
@@ -52554,7 +52554,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Assinatura Dolce Gusto vale a pena? A conta com 25% de desconto e frete grátis, quando a promoção avulsa sai mais barata e o que o cupom CECI e a máquina grátis entregam.",
-    "metaDescription": "Assinatura Dolce Gusto com o cupom CECI e 10% OFF: o preço da caixa com 25%, o gasto por mês e quando a promoção avulsa sai mais barata.",
+    "metaDescription": "Assinatura Dolce Gusto: o CECI dá 10% OFF na loja a partir de R$ 100; na assinatura, o acúmulo foi testado com o código em 5%. Veja a conta dos 25%.",
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
     "draft": false,
@@ -52579,7 +52579,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: a assinatura vale a pena?",
         "paragraphs": [
-          "Vale a pena para quem usa pelo menos 3 caixas a cada 1, 2 ou 3 meses: o desconto é de 25% em todos os sabores e o frete é grátis. Em promoção avulsa, comprar sem assinatura pode sair mais barato, e a assinatura não dá máquina grátis. Veja abaixo a conta, o cupom CECI e para quem compensa."
+          "Vale a pena para quem usa pelo menos 3 caixas a cada 1, 2 ou 3 meses: o desconto é de 25% e o frete é grátis. Em promoção avulsa, comprar sem assinatura pode sair mais barato. O CECI dá 10% na loja a partir de 100 reais; na assinatura, nosso teste foi com o código em 5%."
         ]
       },
       {
@@ -52743,7 +52743,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom CECI soma com a assinatura?",
         "paragraphs": [
-          "No teste de 04/10/2026, o CECI de 5% somou com a assinatura. O item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os direcionados a assinantes. O **CECI**, porém, não é um cupom do site: é o cupom de parceria do Em Casa com Cecília.",
+          "No teste de 04/10/2026, o CECI de 5% somou com a assinatura. O item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os direcionados a assinantes. O teste registra a aceitação naquele pedido; o acúmulo do CECI atual, de 10%, precisa ser conferido no checkout.",
           "Num dos nossos testes fechamos um pedido de assinatura com 4 caixas de R$ 29,90 e o cupom CECI. O resumo do checkout ficou assim:"
         ],
         "image": {
@@ -234857,7 +234857,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Carrinho a partir de R$ 100.** Abaixo disso, a loja recusa o código. Num pedido pequeno, vale juntar mais caixas antes de aplicar.",
           "**Site ou aplicativo.** O código vale na loja oficial e no aplicativo Nescafé Dolce Gusto, do mesmo jeito.",
-          "**Máquinas.** O CECI pode ser aceito, conforme o produto e a campanha. Confira no checkout se o desconto foi aplicado.",
+          "**Máquinas.** No teste com a Mini Me 2.0 em promoção, o CECI aplicou 10% de desconto. Para outros modelos ou campanhas, confirme a aplicação no resumo antes de pagar.",
           "**Frete à parte.** O desconto entra nos produtos, não no frete, que segue a regra da loja."
         ],
         "postParagraphs": [
