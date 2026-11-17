@@ -7,9 +7,9 @@ parceiro_slug: "lamazonie"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2), junto com a LZ2; antes, conferir o processo no portal da Anvisa"
+proxima_acao: "deploy (decisão do Bruno)"
 bloqueado_por: "-"
 data_criacao: "2026-11-16"
 pauta_id: "LZ3"
@@ -151,3 +151,13 @@ garantia com os prazos das fotos; se a consulta do portal abrir, print do result
 | O fornecedor não pode exigir embalagem inviolada nem cobrar o frete da devolução | Guia de Comércio Eletrônico do Procon-SP, p. 19; CDC, art. 49 | verificado |
 | Loja oficial no Mercado Livre | página "LAmazonie \| Loja Oficial", 16/11 | verificado; preços sem leitura |
 | Quem fundou a marca; onde os produtos são feitos | bio do Instagram (pista); fabricantes na base da Anvisa | não escrever sem fonte da empresa |
+
+## Redação, revisão e JSON (16/11/2026)
+
+Job 2 e Job 4 pela sessão de artigos, a partir deste briefing e das leituras do dia ([[lamazonie-fatos-1611]], seção 11). Job 3 por subagente Fable: 9 achados aplicados (o "bastão" do protetor ficou: o rótulo da foto oficial diz "Facial Stick"). JSON em `content/reviews/lamazonie-e-confiavel.json`.
+
+O que mudou em relação ao esqueleto: o portal de consultas da Anvisa não foi aberto (pede verificação anti-robô), então o texto usa só "notificado", dos dados abertos, sem a palavra "ATIVO"; a cidade citada é a do rodapé do site (Serra, ES), relido no dia; o Mercado Livre entra sem preço; o Guia do Procon-SP é citado pelo nome, sem link.
+
+## Capa e imagens (aprovadas pelo Bruno em 16/11/2026)
+
+Folha de aprovação mostrada no chat; upload ao CDN autorizado no mesmo dia. Capa no painel lateral, `imageFit: contain`: metade direita da foto oficial da escovinha na sobrancelha (`PG_SS_05` da página do sérum, sem o texto de alegações), chamada "É confiável? O que conferir" e o código. Corpo, capítulo da garantia: `lamazonie-e-confiavel-serum-dois-frascos.webp` (`PG_SS_07`, recortada sem o selo de frete grátis).

@@ -7,9 +7,9 @@ parceiro_slug: "lamazonie"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2), junto com a LZ3; reconferir o perfil no dia"
+proxima_acao: "deploy (decisão do Bruno)"
 bloqueado_por: "-"
 data_criacao: "2026-11-16"
 pauta_id: "LZ2"
@@ -125,3 +125,13 @@ de indicadores do perfil, da releitura.
 | O motivo de serem dois CNPJs | nenhuma | não escrever |
 | Despacho em até 3 dias úteis depois da compensação | `/policies/shipping-policy`, 16/11 | verificado |
 | O sérum causa (ou não causa) queda de fios | nenhuma | não escrever; só "há relato" |
+
+## Redação, revisão e JSON (16/11/2026)
+
+Job 2 e Job 4 pela sessão de artigos, a partir deste briefing e da releitura do perfil no dia ([[lamazonie-fatos-1611]], seção 11). Job 3 por subagente Fable: 9 achados aplicados. JSON em `content/reviews/lamazonie-reclame-aqui-nota-reputacao.json`, com `bodyDatesReason: "reclame-aqui"`.
+
+O que mudou em relação ao esqueleto: a tabela compara 6 e 12 meses; o texto diz que o índice de solução e o "voltariam" valem para as avaliadas (lição do parecer da BW2); saiu a promessa de "evitar" problema do subtítulo; o relato de queda de fios e o ranking ficaram fora (não relidos no dia).
+
+## Capa e imagens (aprovadas pelo Bruno em 16/11/2026)
+
+Folha de aprovação mostrada no chat; upload ao CDN autorizado no mesmo dia. Capa no painel lateral, `imageFit: contain`, sem nota: foto oficial do protetor solar em bastão FPS 99 (`PG2_PT_01`), chamada "No Reclame Aqui: nota e queixas" e o código. Corpo: `lamazonie-reclame-aqui-serum-embalagens.webp` (`PG_SS_02`, recortada sem o texto).

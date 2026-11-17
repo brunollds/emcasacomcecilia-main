@@ -159543,6 +159543,190 @@
       "verified_at": "2026-11-17T00:15:56.681Z",
       "verification_etag_or_digest": "6cb70e5d129bdfee7b1b73206610180dcf0e1dbc47a4cdfd6541d758309ed5e5",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lamazonie/lamazonie-e-confiavel-capa.webp",
+      "local_url": "/images/reviews/lamazonie/lamazonie-e-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 166248,
+      "sha256": "254c49b16227e1cbc8c1e187156cad50dd1c4b6b1d8664a7a6cb0bf5cdfbff0b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lamazonie-e-confiavel-capa.webp",
+      "storage_filename": "lamazonie-e-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lamazonie-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lamazonie-e-confiavel.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/lamazonie/lamazonie-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 246795,
+          "column": 15,
+          "literal": "/images/reviews/lamazonie/lamazonie-e-confiavel-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/254c49b16227e1cbc8c1e187156cad50dd1c4b6b1d8664a7a6cb0bf5cdfbff0b/lamazonie-e-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/254c49b16227e1cbc8c1e187156cad50dd1c4b6b1d8664a7a6cb0bf5cdfbff0b/lamazonie-e-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T00:40:44.240Z",
+      "verification_etag_or_digest": "254c49b16227e1cbc8c1e187156cad50dd1c4b6b1d8664a7a6cb0bf5cdfbff0b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lamazonie/lamazonie-e-confiavel-serum-dois-frascos.webp",
+      "local_url": "/images/reviews/lamazonie/lamazonie-e-confiavel-serum-dois-frascos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31796,
+      "sha256": "2e8005c61d2d05fa1f85048639c18e0acda14cbca608b64794948a127809a1bb",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lamazonie-e-confiavel-serum-dois-frascos.webp",
+      "storage_filename": "lamazonie-e-confiavel-serum-dois-frascos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lamazonie-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lamazonie-e-confiavel.json",
+          "line": 135,
+          "column": 19,
+          "literal": "/images/reviews/lamazonie/lamazonie-e-confiavel-serum-dois-frascos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 246901,
+          "column": 21,
+          "literal": "/images/reviews/lamazonie/lamazonie-e-confiavel-serum-dois-frascos.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2e8005c61d2d05fa1f85048639c18e0acda14cbca608b64794948a127809a1bb/lamazonie-e-confiavel-serum-dois-frascos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2e8005c61d2d05fa1f85048639c18e0acda14cbca608b64794948a127809a1bb/lamazonie-e-confiavel-serum-dois-frascos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T00:40:44.241Z",
+      "verification_etag_or_digest": "2e8005c61d2d05fa1f85048639c18e0acda14cbca608b64794948a127809a1bb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lamazonie/lamazonie-reclame-aqui-nota-reputacao-capa.webp",
+      "local_url": "/images/reviews/lamazonie/lamazonie-reclame-aqui-nota-reputacao-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38212,
+      "sha256": "81a849dac7d9a4aaa994e8545f57a589504bd6bba13ee2b65108cf17b2b24c5c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lamazonie-reclame-aqui-nota-reputacao-capa.webp",
+      "storage_filename": "lamazonie-reclame-aqui-nota-reputacao-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lamazonie-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lamazonie-reclame-aqui-nota-reputacao.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/lamazonie/lamazonie-reclame-aqui-nota-reputacao-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 246582,
+          "column": 15,
+          "literal": "/images/reviews/lamazonie/lamazonie-reclame-aqui-nota-reputacao-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/81a849dac7d9a4aaa994e8545f57a589504bd6bba13ee2b65108cf17b2b24c5c/lamazonie-reclame-aqui-nota-reputacao-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/81a849dac7d9a4aaa994e8545f57a589504bd6bba13ee2b65108cf17b2b24c5c/lamazonie-reclame-aqui-nota-reputacao-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T00:40:44.241Z",
+      "verification_etag_or_digest": "81a849dac7d9a4aaa994e8545f57a589504bd6bba13ee2b65108cf17b2b24c5c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lamazonie/lamazonie-reclame-aqui-serum-embalagens.webp",
+      "local_url": "/images/reviews/lamazonie/lamazonie-reclame-aqui-serum-embalagens.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40408,
+      "sha256": "7c5e1e66d215a81d68ced6016c754311d3e5c5c3e017c267bf97d79c7c3fda51",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lamazonie-reclame-aqui-serum-embalagens.webp",
+      "storage_filename": "lamazonie-reclame-aqui-serum-embalagens.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lamazonie-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lamazonie-reclame-aqui-nota-reputacao.json",
+          "line": 180,
+          "column": 19,
+          "literal": "/images/reviews/lamazonie/lamazonie-reclame-aqui-serum-embalagens.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 246732,
+          "column": 21,
+          "literal": "/images/reviews/lamazonie/lamazonie-reclame-aqui-serum-embalagens.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7c5e1e66d215a81d68ced6016c754311d3e5c5c3e017c267bf97d79c7c3fda51/lamazonie-reclame-aqui-serum-embalagens.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7c5e1e66d215a81d68ced6016c754311d3e5c5c3e017c267bf97d79c7c3fda51/lamazonie-reclame-aqui-serum-embalagens.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T00:40:44.241Z",
+      "verification_etag_or_digest": "7c5e1e66d215a81d68ced6016c754311d3e5c5c3e017c267bf97d79c7c3fda51",
+      "verification_status": "verified"
     }
   ]
 }
