@@ -159957,6 +159957,52 @@
       "verified_at": "2026-11-17T01:57:14.724Z",
       "verification_etag_or_digest": "c9ad0a046cdb13dbdc21f590fbc8e5ace47335a7d5daeb24ab97a98e150e971c",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/cupom-baw-primeira-compra-firstbaw-site.webp",
+      "local_url": "/images/reviews/baw/cupom-baw-primeira-compra-firstbaw-site.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 5218,
+      "sha256": "f02ef6358a377db658c672f53b2412e988f145e139cfb018f0406a51548dea55",
+      "width": 698,
+      "height": 276,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-baw-primeira-compra-firstbaw-site.webp",
+      "storage_filename": "cupom-baw-primeira-compra-firstbaw-site.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-baw-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-baw-primeira-compra.json",
+          "line": 89,
+          "column": 19,
+          "literal": "/images/reviews/baw/cupom-baw-primeira-compra-firstbaw-site.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 246060,
+          "column": 21,
+          "literal": "/images/reviews/baw/cupom-baw-primeira-compra-firstbaw-site.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f02ef6358a377db658c672f53b2412e988f145e139cfb018f0406a51548dea55/cupom-baw-primeira-compra-firstbaw-site.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f02ef6358a377db658c672f53b2412e988f145e139cfb018f0406a51548dea55/cupom-baw-primeira-compra-firstbaw-site.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T16:39:32.933Z",
+      "verification_etag_or_digest": "f02ef6358a377db658c672f53b2412e988f145e139cfb018f0406a51548dea55",
+      "verification_status": "verified"
     }
   ]
 }
