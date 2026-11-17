@@ -7,10 +7,10 @@ parceiro_slug: "shein"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
-status: "briefing"
+status: "pronto-para-deploy"
 score: 76
 responsavel: "Job-1 (Claude Fable 5.2)"
-proxima_acao: "reforma do artigo no ar (Job 2), com a amostra de [[shein-ou-shopee-amostra-1711]]"
+proxima_acao: "deploy com o GO do Bruno, SV1 e SV2 juntos, depois de olhar no celular; antes, abrir as 8 peças da Temu, a foto da legging e duas ou três peças com outra região"
 bloqueado_por: "-"
 data_criacao: "2026-11-16"
 i18n_cluster: null

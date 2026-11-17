@@ -19,12 +19,12 @@
   "metaDescription": "SHEIN과 테무 중 어디가 나을까요? 한국에 공개된 배송비, 배송 기간, 반품 기한을 비교하고 구매 목적에 따라 고르는 방법을 정리했습니다.",
   "publishedAt": "2026년 10월 13일",
   "publishedAtISO": "2026-10-13",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-17",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/shein/shein-ou-shopee-temu-capa-ko-v2.webp",
-  "imageAlt": "바닷가에서 분홍색 꽃무늬 원피스와 흰색 원피스를 입은 두 모델의 SHEIN 공식 사진. 제목은 “옷은 어디서 살까?”, 부제는 “SHEIN 또는 테무?”이며 추천 코드 4CW5Y가 표시되어 있다.",
+  "image": "/images/reviews/shein/shein-ou-temu-capa-ko.webp",
+  "imageAlt": "쇼핑몰 사진 속 옷 네 벌: 테무의 보라색 플리츠 원피스와 스트라이프 셔츠, SHEIN의 크림색 니트 원피스와 스트라이프 셔츠. 옆에 \"SHEIN과 Temu, 어디서 살까?\"라는 문구",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -75,6 +75,14 @@
       }
     },
     {
+      "heading": "세금은 쇼핑몰을 고르는 기준이 되지 않습니다",
+      "paragraphs": [
+        "관세청이 안내하는 해외직구 면세 기준은 개인이 자가사용 목적으로 구매하고 물품 가격이 미화 150달러(미국 발송은 200달러) 이하인 경우입니다. 150달러를 넘으면 공제 없이 물품가격, 운임, 보험료 등을 합한 총 과세가격에 세금이 붙습니다.",
+        "통관에는 개인통관고유부호도 필요합니다. 관세청 유니패스(unipass.customs.go.kr)에서 본인인증을 거쳐 발급받을 수 있습니다.",
+        "이 기준은 SHEIN에서 사든 테무에서 사든 같으므로, 둘 중 어느 쪽을 고를지 정하는 이유가 되지 않습니다."
+      ]
+    },
+    {
       "heading": "반품 규정은 쇼핑몰마다 차이가 가장 큽니다",
       "paragraphs": [
         "공개된 반품 기한은 SHEIN이 수령 후 60일, 테무가 구매 후 90일입니다. 테무는 구매일부터, SHEIN은 받은 날부터 셉니다."
@@ -113,6 +121,210 @@
       ]
     },
     {
+      "heading": "각 쇼핑몰은 무엇을 파는지: 샘플",
+      "paragraphs": [
+        "두 쇼핑몰에서 비슷한 상품을 하나씩 골라, 옷과 액세서리 8개 카테고리로 나란히 놓았습니다. 같은 카테고리의 서로 다른 상품이며, 이 샘플은 각 쇼핑몰에서 어떤 종류의 상품을 볼 수 있는지 보여 줄 뿐 가격이나 품질을 비교하지 않습니다."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "alt": "검은색 반팔 새틴 잠옷 상의와 반바지를 입은 모델. 단추와 흰색 파이핑이 있다. 테무 사진",
+          "caption": "테무: 단추가 달린 반팔 새틴 잠옷 상의와 반바지.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gjluu5cwfti",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "alt": "빨간 하트 무늬 민소매와 반바지로 된 분홍색 잠옷을 입은 모델. SHEIN 사진",
+          "caption": "SHEIN: 하트 무늬 민소매와 반바지 잠옷 세트.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "alt": "옷걸이에 걸린 파란색과 흰색 줄무늬 긴팔 셔츠. 테무 사진",
+          "caption": "테무: 주머니가 있는 긴팔 줄무늬 셔츠.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gxe92rfme7a",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "alt": "연한 파란색 줄무늬의 조금 헐렁한 긴팔 셔츠를 입은 모델. SHEIN 사진",
+          "caption": "SHEIN: 조금 더 헐렁한 긴팔 줄무늬 셔츠.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "alt": "청바지에 조금 헐렁한 흰색 반팔 라운드넥 상의를 입은 모델. 테무 사진",
+          "caption": "테무: 흰색 반팔 라운드넥 상의.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gocj7bzwg5p",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "alt": "청바지에 흰색 브이넥 티셔츠를 입은 모델. SHEIN 사진",
+          "caption": "SHEIN: 흰색 면 브이넥 티셔츠.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "alt": "허리에 리본이 있는 보라색 반팔 플리츠 원피스를 입은 모델. 테무 사진",
+          "caption": "테무: 허리에 리본이 있는 반팔 플리츠 원피스.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/g5m1t2j2ou2",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "alt": "골지 니트로 된 크림색 반팔 원피스를 입은 모델. SHEIN 사진",
+          "caption": "SHEIN: 크림색 반팔 니트 원피스.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "alt": "크로스 스트랩과 앞쪽 지퍼 주머니가 있는 갈색 핸드백. 테무 사진",
+          "caption": "테무: 크로스 스트랩과 지퍼 주머니가 있는 핸드백.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gvqr1kyex89",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "alt": "모델의 어깨에 멘 짙은 갈색의 부드러운 합성 소재 숄더백. SHEIN 사진",
+          "caption": "SHEIN: 부드러운 합성 소재의 숄더백.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-legging.webp",
+          "alt": "옆 주머니에 휴대폰을 넣고 걷는 베이지색 하이웨이스트 레깅스를 입은 모델. 테무 사진",
+          "caption": "테무: 주머니가 있는 하이웨이스트 레깅스.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gqxp1lpzezg",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-legging.webp",
+          "alt": "앉아 있는 회청색 심리스 레깅스를 입은 모델. SHEIN 사진",
+          "caption": "SHEIN: 심리스 레깅스.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "alt": "파란색 하이웨이스트 스키니 청바지와 흰색 운동화를 신은 모델. 테무 사진",
+          "caption": "테무: 하이웨이스트 스키니 청바지.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gd6b7du4puh",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "alt": "연한 파란색 와이드 레그 청바지를 입은 모델. SHEIN 사진",
+          "caption": "SHEIN: 와이드 레그 청바지.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "alt": "모델의 발에 신긴 굽이 낮고 앞코가 뾰족한 검은색 구두. 테무 사진",
+          "caption": "테무: 굽이 낮은 앞코가 뾰족한 구두.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/goj97yn16na",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "alt": "흰 천 위에 놓인 굽 없는 앞코가 뾰족한 검은색 로퍼 한 켤레. SHEIN 사진",
+          "caption": "SHEIN: 앞코가 뾰족한 로퍼.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C",
+          "store": "shein"
+        }
+      ],
+      "comparisonTable": {
+        "headers": [
+          "카테고리",
+          "테무",
+          "SHEIN"
+        ],
+        "rows": [
+          [
+            "잠옷",
+            "[반팔 새틴 잠옷 상의와 반바지, 단추 달림](https://temu.to/k/gjluu5cwfti)",
+            "[민소매와 하트 줄무늬 반바지 잠옷 세트](https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C)"
+          ],
+          [
+            "셔츠",
+            "[주머니가 있는 긴팔 줄무늬 셔츠](https://temu.to/k/gxe92rfme7a)",
+            "[조금 더 헐렁한 긴팔 줄무늬 셔츠](https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C)"
+          ],
+          [
+            "티셔츠",
+            "[조금 더 헐렁한 흰색 반팔 라운드넥 상의](https://temu.to/k/gocj7bzwg5p)",
+            "[흰색 면 브이넥 티셔츠](https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C)"
+          ],
+          [
+            "원피스",
+            "[허리에 리본이 있는 반팔 플리츠 원피스](https://temu.to/k/g5m1t2j2ou2)",
+            "[크림색 반팔 니트 원피스](https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C)"
+          ],
+          [
+            "가방",
+            "[크로스 스트랩과 지퍼 주머니가 있는 핸드백](https://temu.to/k/gvqr1kyex89)",
+            "[부드러운 합성 소재의 숄더백](https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C)"
+          ],
+          [
+            "운동복",
+            "[주머니가 있는 하이웨이스트 레깅스](https://temu.to/k/gqxp1lpzezg)",
+            "[심리스 레깅스](https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C)"
+          ],
+          [
+            "청바지",
+            "[하이웨이스트 스키니 청바지](https://temu.to/k/gd6b7du4puh)",
+            "[와이드 레그 청바지](https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C)"
+          ],
+          [
+            "신발",
+            "[굽이 낮은 앞코가 뾰족한 구두](https://temu.to/k/goj97yn16na)",
+            "[앞코가 뾰족한 로퍼](https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C)"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "두 쇼핑몰 모두 상품 제목이 길고 검색용 단어로 가득해서, 샘플에서는 짧은 이름을 썼습니다. 소재, 치수, 판매자는 상품 페이지에서 확인하세요."
+      ]
+    },
+    {
       "heading": "제휴와 추천 코드",
       "paragraphs": [
         "Cecília는 SHEIN과 테무의 제휴(어필리에이트) 파트너로, 이 글의 링크로 구매하시면 추가 비용 없이 수수료를 받을 수 있습니다. 이 점이 답을 바꾸지는 않습니다. 무엇을 사는지에 따라 선택이 달라집니다.",
@@ -130,7 +342,8 @@
         {
           "label": "테무 열기",
           "href": "https://temu.to/k/glfwht5gllj",
-          "sponsored": true
+          "sponsored": true,
+          "store": "temu"
         }
       ]
     },
@@ -148,14 +361,10 @@
       ]
     }
   ],
-  "cta": {
-    "text": "SHEIN을 고른다면 Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 4CW5Y를 검색하세요. 이 코드는 할인이 됩니다. 결제 전 배송비와 세금을 포함한 총액을 확인하세요.",
-    "label": "SHEIN으로 이동",
-    "url": "https://onelink.shein.com/55/6463grgxf6ru",
-    "sponsored": true
-  },
-  "coupon": "4CW5Y",
-  "affiliate": "shein",
+  "affiliate": [
+    "shein",
+    "temu"
+  ],
   "editorialNote": "이 글은 편집 콘텐츠입니다. SHEIN과 테무 링크로 구매하면 수수료를 받을 수 있습니다. 팀원 누구도 제품을 사용하지 않았습니다.",
   "relatedArticles": [
     {

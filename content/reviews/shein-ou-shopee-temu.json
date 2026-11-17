@@ -2,9 +2,8 @@
   "id": 385,
   "slug": "shein-ou-shopee-temu",
   "locale": "pt",
-  "translationKey": "shein-vs-shopee-temu",
-  "title": "SHEIN, Shopee, Temu ou AliExpress: como escolher para comprar roupa (prazo, devolução e imposto)",
-  "seoTitle": "SHEIN ou Shopee? Comparativo com Temu e AliExpress",
+  "title": "SHEIN ou Shopee: qual escolher para comprar roupa (prazo, devolução e imposto)",
+  "seoTitle": "SHEIN ou Shopee: qual escolher para comprar roupa?",
   "type": "Comparativo",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,194 +14,377 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "SHEIN, Shopee, Temu e AliExpress lado a lado: frete, prazo, devolução, imposto e Reclame Aqui pelas regras que cada loja publica, e como escolher conforme o que você vai comprar.",
-  "metaDescription": "O 4CW5Y dá desconto na SHEIN, sim. SHEIN ou Shopee: frete, prazo, devolução e imposto lado a lado com Temu e AliExpress.",
+  "description": "SHEIN e Shopee lado a lado: frete, prazo, devolução, imposto e Reclame Aqui pelas regras que cada loja publica, e como escolher conforme o que você vai comprar.",
+  "metaDescription": "O 4CW5Y dá desconto numa seleção da SHEIN. SHEIN ou Shopee: frete, prazo, devolução e imposto lado a lado, e o que muda de um anúncio para outro.",
   "publishedAt": "13 de outubro de 2026",
   "publishedAtISO": "2026-10-13",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-17",
   "draft": false,
   "isNew": false,
-  "image": "/images/reviews/shein/shein-ou-shopee-temu-capa-pt-v2.webp",
-  "imageAlt": "Duas modelos com vestidos rosa floral e branco à beira-mar, em foto institucional da SHEIN. Na capa, “Onde comprar suas roupas?”, “SHEIN, Shopee, Temu ou AliExpress?” e o código de indicação 4CW5Y.",
+  "image": "/images/reviews/shein/shein-ou-shopee-capa.webp",
+  "imageAlt": "Quatro peças em fotos das lojas: um vestido regata preto e uma camisa listrada da Shopee, um vestido de malha creme e uma camisa listrada da SHEIN, ao lado da pergunta SHEIN ou Shopee?",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
   "cons": [],
+  "decision": {
+    "takeIf": [
+      "SHEIN: você vai comprar roupa sem provar; ela dá 20 dias para devolver, e a Garantia Shopee, 7.",
+      "Shopee: você achou o anúncio com a peça, o vendedor bem avaliado e a entrega na data de que precisa."
+    ],
+    "skipIf": [
+      "SHEIN: você conta com os 20 dias para body, moda praia ou roupa íntima; essas só voltam em 7.",
+      "SHEIN: você precisa da peça em poucos dias e ela vem do exterior; só o processamento leva de 3 a 5 dias."
+    ]
+  },
+  "affiliate": [
+    "shein",
+    "shopee"
+  ],
+  "editorialNote": "Este artigo é editorial. Podemos receber comissão pelos links da SHEIN e da Shopee. Ninguém da equipe usou as peças mostradas.",
+  "relatedArticles": [
+    {
+      "slug": "shein-e-confiavel"
+    },
+    {
+      "slug": "codigo-de-indicacao-shein"
+    },
+    {
+      "slug": "black-friday-shein"
+    },
+    {
+      "slug": "shein-ou-temu-qual-escolher"
+    }
+  ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Não existe uma loja melhor para todo mundo: para roupa, a escolha depende do prazo de devolução que você precisa. A Temu publica 90 dias contados da compra, e a SHEIN, 20 dias contados do recebimento. Se escolher a SHEIN, o 4CW5Y dá desconto, sim: use o link da Cecília ou copie o código e pesquise no app ou no site."
+        "A SHEIN dá 20 dias para devolver roupa, salvo bodies, moda praia e roupa íntima; a Garantia Shopee dá 7. Nas duas, o vendedor, o frete e o prazo mudam de um anúncio para outro, então compare o total no checkout. O imposto da compra internacional segue a mesma regra nas duas lojas."
       ]
     },
     {
-      "heading": "SHEIN, Shopee, Temu e AliExpress lado a lado",
+      "heading": "SHEIN e Shopee lado a lado",
       "paragraphs": [
-        "O que separa as quatro é devolução e prazo: a tabela junta as regras que cada loja publica e a nota no Reclame Aqui.",
-        "Os números vêm das regras que cada loja publica no Brasil e do Reclame Aqui, nos seis meses indicados na tabela de reputação. A nota do Reclame Aqui mede o atendimento a quem reclama, não a qualidade do produto."
+        "As duas vendem peças de vários vendedores. A [SHEIN](https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20) vende as próprias peças e também as de vendedores parceiros, no marketplace dela; a [Shopee](https://s.shopee.com.br/2LZ1KQ3brC) é feita de anúncios de vendedores, com as regras da plataforma por cima, como a Garantia Shopee. Por isso a escolha começa no anúncio: quem vende, de onde a peça sai e se ela pode ser devolvida."
       ],
       "comparisonTable": {
-        "caption": "Frete, prazo, devolução, imposto e Reclame Aqui da SHEIN, da Shopee, da Temu e do AliExpress no Brasil, em 13/10/2026.",
         "headers": [
           "Critério",
           "SHEIN",
-          "Shopee",
-          "Temu",
-          "AliExpress"
+          "Shopee"
         ],
         "rows": [
           [
             "Frete",
-            "Envio Global: R$ 15 abaixo de R$ 69; grátis acima",
-            "depende do vendedor",
-            "R$ 15 abaixo de R$ 69; grátis acima",
-            "grátis nas peças que abrimos, enviadas da China"
+            "No envio do exterior, R$ 15 abaixo de R$ 69 e grátis acima",
+            "Muda por anúncio; aparece para o seu CEP antes de pagar"
           ],
           [
-            "Prazo publicado",
-            "Envio Global: 3 a 5 dias para processar; a página dava 60% de probabilidade de entrega em até 11 dias",
-            "depende do vendedor",
-            "17 a 30 dias no envio padrão; 1 a 3 dias para processar",
-            "data estimada na página da peça: de 7 a 16 dias nas que abrimos; reembolso se não chegar em 50 dias"
+            "Prazo",
+            "No envio do exterior, 3 a 5 dias para processar, mais o transporte",
+            "A previsão aparece no anúncio"
           ],
           [
             "Devolução",
-            "20 dias do recebimento; a 1ª de cada pedido grátis, depois R$ 45",
-            "7 dias do recebimento, pela Garantia Shopee",
-            "90 dias da compra; a 1ª de cada pedido grátis, depois R$ 35",
-            "7 dias do recebimento para desistir; 30 ou 90 com defeito; as peças que abrimos mostravam devolução grátis até 15 dias"
+            "20 dias nos itens que aceitam; a 1ª de cada pedido é grátis",
+            "7 dias do recebimento, pela Garantia Shopee"
           ],
           [
-            "Imposto do que vem de fora",
-            "ICMS de 17% a 20%; importação zero até US$ 50",
-            "ICMS de 17% a 20%; importação zero até US$ 50",
-            "não publica a alíquota; o imposto de importação não volta no reembolso",
-            "ICMS de 17% a 20%; importação zero até US$ 50"
+            "Imposto (Remessa Conforme)",
+            "Mesma regra: ICMS de 17% a 20% e importação zero até US$ 50",
+            "Mesma regra: ICMS de 17% a 20% e importação zero até US$ 50"
           ],
           [
             "Reclame Aqui",
-            "Boa, nota 7,6",
-            "Regular, nota 6,7",
-            "Ruim, nota 5,8",
-            "Regular, nota 6,0"
-          ]
-        ]
-      }
-    },
-    {
-      "heading": "O imposto não decide a escolha",
-      "paragraphs": [
-        "A SHEIN, a Shopee e o AliExpress publicam a mesma regra para compra internacional: ICMS de 17% a 20%, variando por estado, e imposto de importação zero nos pedidos de até US$ 50. Acima disso, ele volta.",
-        "O que muda o imposto é de onde a peça sai. Produto que já está no Brasil, como o Envio Nacional da SHEIN, não paga imposto de importação. A Temu não publica a alíquota nas páginas de envio e de devolução, e avisa que o imposto de importação não volta no reembolso. A tabela do imposto e um exemplo de cálculo estão no guia de Black Friday da SHEIN."
-      ],
-      "links": [
-        {
-          "label": "Black Friday SHEIN 2026: quando começa, até quando vai e o imposto de importação zero até US$ 50",
-          "href": "/reviews/black-friday-shein"
-        }
-      ]
-    },
-    {
-      "heading": "A devolução é onde as lojas mais diferem",
-      "paragraphs": [
-        "Os prazos de devolução publicados pelas lojas vão de 7 a 90 dias. A Temu conta da data da compra; a SHEIN, a Shopee e o AliExpress, do recebimento."
-      ],
-      "image": {
-        "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
-        "alt": "Gráfico de barras com o prazo para devolver publicado por cada loja no Brasil: Temu 90 dias a partir da compra; SHEIN 20 dias, Shopee 7 dias e AliExpress 7 dias para desistir da compra, a partir do recebimento",
-        "caption": "Prazo de devolução publicado por cada loja no Brasil: a Temu conta da compra; a SHEIN, a Shopee e o AliExpress, do recebimento.",
-        "objectFit": "contain",
-        "aspectRatio": 1.5
-      },
-      "bullets": [
-        "**Temu:** 90 dias a partir da compra, e nunca menos de 7 dias depois de receber. A primeira devolução de cada pedido é grátis; da segunda em diante, a Temu desconta R$ 35 do reembolso. Pedido de devolução feito mais de 7 dias depois de receber também tem taxa. O prazo vale para a maioria dos itens: alguns têm condição própria, então confira a política da Temu para a sua peça. O imposto de importação não volta no reembolso.",
-        "**SHEIN:** 20 dias depois de receber. A primeira devolução de cada pedido é grátis; da segunda em diante, a SHEIN desconta R$ 45 do reembolso. Alguns itens, como roupa íntima e roupa de banho, só voltam em 7 dias.",
-        "**Shopee:** 7 dias depois de receber, pelo aplicativo, pela Garantia Shopee. Vale também para quem mudou de ideia.",
-        "**AliExpress:** pela política, 7 dias depois de receber para desistir da compra, com a devolução paga por você, e 30 dias para peça com defeito, danificada ou diferente do anúncio (90 em bens duráveis), com a devolução paga pelo vendedor. As peças que abrimos mostravam devolução grátis até 15 dias: confira esse selo na página do produto. Roupa só volta sem uso, com as etiquetas e o adesivo de higiene."
-      ]
-    },
-    {
-      "heading": "O que o Reclame Aqui mostra",
-      "paragraphs": [
-        "A SHEIN lidera e a Temu fecha a fila, mas a nota mede atendimento, não qualidade do produto."
-      ],
-      "comparisonTable": {
-        "caption": "Reclame Aqui da SHEIN, da Shopee, da Temu e do AliExpress, nos seis meses até 30/09/2026.",
-        "headers": [
-          "Loja",
-          "Reputação e nota",
-          "Reclamações",
-          "Resolvidas",
-          "Voltariam a fazer negócio"
-        ],
-        "rows": [
-          [
-            "SHEIN",
-            "Boa, 7,6",
-            "32.489",
-            "78,2%",
-            "70,9%"
-          ],
-          [
-            "Shopee",
-            "Regular, 6,7",
-            "141.479",
-            "67,3%",
-            "64,1%"
-          ],
-          [
-            "Temu",
-            "Ruim, 5,8",
-            "9.093",
-            "56,5%",
-            "42,6%"
-          ],
-          [
-            "AliExpress",
-            "Regular, 6,0",
-            "10.109",
-            "57,2%",
-            "49,1%"
+            "Boa, nota 7,5",
+            "Regular, nota 6,8"
           ]
         ]
       },
       "postParagraphs": [
-        "Duas ressalvas mudam a leitura. A nota mede o atendimento a quem reclama, não a qualidade do produto. E o número de reclamações depende do tamanho da loja: a Shopee é um marketplace de vendedores e tem de 4 a 16 vezes o volume das outras.",
-        "Nas reclamações dos últimos três anos, o problema mais citado é produto não recebido na SHEIN (37%) e no AliExpress (27%), e propaganda enganosa na Temu (31%). Na Shopee, produto não recebido aparece em 15%. Guarde o comprovante e o rastreio de qualquer compra internacional. Quem opera a SHEIN e o que pesa na reputação dela está no artigo sobre a confiança na loja."
+        "Os números vêm das páginas que cada loja publica no Brasil e do Reclame Aqui, nos seis meses até outubro."
+      ]
+    },
+    {
+      "heading": "Envio do Brasil ou do exterior: o que muda",
+      "paragraphs": [
+        "O que mais muda o prazo e o imposto é de onde a peça sai, e isso aparece no anúncio."
       ],
-      "links": [
+      "bullets": [
+        "**SHEIN:** a maior parte vem do exterior, com 3 a 5 dias para processar o pedido antes do transporte; a data estimada aparece no pedido. As peças com Envio Nacional já estão no Brasil e, segundo a SHEIN, não seguem a regra do imposto de importação. Frete e prazo delas são outros: a tabela de R$ 15 e R$ 69 é a do envio do exterior.",
+        "**Shopee:** o anúncio mostra de onde a peça sai, o frete para o seu CEP e a previsão de entrega. Se o vendedor não postar no prazo, a [Garantia Shopee](https://help.shopee.com.br/portal/4/article/76327-) devolve o dinheiro automaticamente; se o pedido já saiu e atrasou, o reembolso é pedido pelo app."
+      ],
+      "postParagraphs": [
+        "Na compra internacional de pessoa física pelo Remessa Conforme, a regra é da [Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/tributacao) e vale igual nas duas lojas: imposto de importação zero até US$ 50; acima disso, 60%, com US$ 30 abatidos do imposto. O ICMS vai de 17% a 20%, conforme o estado. A base inclui o frete. Os dois valores aparecem separados no checkout.",
+        "A tabela por estado e um exemplo de cálculo estão no [guia de Black Friday da SHEIN](/reviews/black-friday-shein)."
+      ]
+    },
+    {
+      "heading": "Devolução: 20 dias contra 7",
+      "bullets": [
+        "**SHEIN:** 20 dias depois de receber, mesmo se você só não gostou da peça. Bodies, moda praia e roupa íntima ficam fora: só voltam nos 7 dias da lei. A peça tem de estar sem uso, sem lavar e com as etiquetas. A primeira devolução de cada pedido é grátis; nas seguintes do mesmo pedido, a SHEIN desconta R$ 45 do reembolso.",
+        "**Shopee:** 7 dias depois de receber, pelo app, pela Garantia Shopee, inclusive para quem mudou de ideia. Segundo a [central de ajuda](https://help.shopee.com.br/portal/4/article/76159), a Shopee paga o envio da devolução. Na compra internacional, o imposto não volta no reembolso."
+      ],
+      "postParagraphs": [
+        "Para roupa que você não pode provar, os 13 dias a mais da SHEIN pesam: dá tempo de receber, experimentar e decidir com calma. Nas peças que só voltam em 7 dias, as duas empatam. Peça com defeito segue as regras de garantia, à parte desses prazos."
+      ]
+    },
+    {
+      "heading": "O que o Reclame Aqui mostra",
+      "comparisonTable": {
+        "headers": [
+          "Loja",
+          "Reputação e nota",
+          "Resolvidas, entre as avaliadas",
+          "Tempo médio de resposta"
+        ],
+        "rows": [
+          [
+            "[SHEIN](https://www.reclameaqui.com.br/empresa/shein/)",
+            "Boa, 7,5",
+            "77,7%",
+            "3 dias e 10 horas"
+          ],
+          [
+            "[Shopee](https://www.reclameaqui.com.br/empresa/shopee/)",
+            "Regular, 6,8",
+            "66,7%",
+            "22 dias e 19 horas"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Nos seis meses até outubro, a SHEIN recebeu 33.277 reclamações e a Shopee, 146.650. Entre quem avaliou o atendimento, 71,1% voltariam a comprar na SHEIN e 64,1% na Shopee.",
+        "Duas ressalvas mudam a leitura. A nota mede o atendimento a quem reclama no Reclame Aqui, não a qualidade das peças nem o prazo de entrega. E o número de reclamações, sem o número de pedidos de cada loja, não diz em qual delas uma compra dá mais problema.",
+        "O que mais separa as duas é o tempo de resposta no Reclame Aqui: menos de quatro dias na SHEIN e quase 23 na Shopee. Quem opera a SHEIN e o que pesa na reputação dela está em [SHEIN é confiável?](/reviews/shein-e-confiavel)."
+      ]
+    },
+    {
+      "heading": "O que cada uma vende: uma amostra",
+      "paragraphs": [
+        "Escolhemos duas peças parecidas, uma de cada loja, em oito categorias de roupa e acessório. São peças diferentes da mesma categoria: a amostra mostra o tipo de peça que você encontra em cada loja, sem comparar preço nem qualidade. Na Shopee, cada peça é de um vendedor diferente."
+      ],
+      "images": [
         {
-          "label": "SHEIN é confiável? Quem opera a loja, a nota no Reclame Aqui, o prazo e a taxa",
-          "href": "/reviews/shein-e-confiavel"
+          "src": "/images/reviews/shein/amostra-shopee-pijama.webp",
+          "alt": "Modelo com pijama preto de short e blusa de manga curta com botões e debrum branco, em foto da Shopee",
+          "caption": "Shopee: pijama de short e blusa com botões.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.shopee.com.br/7put592IdX",
+          "store": "shopee"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "alt": "Modelo com pijama rosa de regata e short com estampa de corações vermelhos, em foto da SHEIN",
+          "caption": "SHEIN: pijama de regata e short listrado com corações.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shopee-camisa-listrada.webp",
+          "alt": "Modelo de óculos escuros com camisa de listras azuis e brancas, de manga longa, em foto da Shopee",
+          "caption": "Shopee: camisa listrada de manga longa.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.shopee.com.br/9KjgsAgvEr",
+          "store": "shopee"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "alt": "Modelo com camisa de listras azul-claras, de manga longa, mais solta, em foto da SHEIN",
+          "caption": "SHEIN: camisa listrada de manga longa, mais solta.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shopee-camiseta.webp",
+          "alt": "Modelo com camiseta off-white de gola redonda e calça jeans, em foto da Shopee",
+          "caption": "Shopee: camiseta básica de algodão.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.shopee.com.br/906qU5MXjX",
+          "store": "shopee"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "alt": "Modelo com camiseta branca de decote em V e calça jeans, em foto da SHEIN",
+          "caption": "SHEIN: camiseta branca de algodão com decote em V.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shopee-vestido.webp",
+          "alt": "Modelo com vestido preto regata, curto, com as mãos nos bolsos, em foto da Shopee",
+          "caption": "Shopee: vestido regata curto com bolsos.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.shopee.com.br/1C1mDHhj5",
+          "store": "shopee"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "alt": "Modelo com vestido creme de malha canelada, de manga curta, em foto da SHEIN",
+          "caption": "SHEIN: vestido de malha creme de manga curta.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shopee-bolsa.webp",
+          "alt": "Bolsa preta matelassê com alça de corrente, ao lado de um frasco de perfume, em foto da Shopee",
+          "caption": "Shopee: bolsa transversal matelassê com alça de corrente.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.shopee.com.br/AKcE62SIVc",
+          "store": "shopee"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "alt": "Bolsa de ombro marrom-escura de material sintético macio, no ombro de uma modelo, em foto da SHEIN",
+          "caption": "SHEIN: bolsa de ombro de material sintético macio.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shopee-legging.webp",
+          "alt": "Legging preta de cintura alta com o celular no bolso lateral, em foto da Shopee",
+          "caption": "Shopee: legging de cintura alta com bolso para celular.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.shopee.com.br/50ahki5CcG",
+          "store": "shopee"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-legging.webp",
+          "alt": "Modelo com legging azul-acinzentada sem costura, sentada, em foto da SHEIN",
+          "caption": "SHEIN: legging sem costura.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shopee-jeans.webp",
+          "alt": "Modelo com calça jeans wide leg azul de cintura alta e top azul, em foto da Shopee",
+          "caption": "Shopee: calça jeans wide leg de cintura alta.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.shopee.com.br/1qdfz5utAW",
+          "store": "shopee"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "alt": "Modelo com calça jeans wide leg azul-clara, em foto da SHEIN",
+          "caption": "SHEIN: calça jeans wide leg.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shopee-calcado.webp",
+          "alt": "Sapatilhas caramelo de bico fino nos pés de uma modelo de calça jeans, em foto da Shopee",
+          "caption": "Shopee: sapatilha de bico fino.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.shopee.com.br/6VPVXomcRT",
+          "store": "shopee"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "alt": "Par de mocassins pretos de bico fino, sem salto, sobre um tecido branco, em foto da SHEIN",
+          "caption": "SHEIN: mocassim de bico fino.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C",
+          "store": "shein"
         }
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Categoria",
+          "Shopee",
+          "SHEIN"
+        ],
+        "rows": [
+          [
+            "Pijama",
+            "[Pijama de short e blusa com botões](https://s.shopee.com.br/7put592IdX)",
+            "[Pijama de regata e short listrado com corações](https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C)"
+          ],
+          [
+            "Camisa",
+            "[Camisa listrada de manga longa](https://s.shopee.com.br/9KjgsAgvEr)",
+            "[Camisa listrada de manga longa, mais solta](https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C)"
+          ],
+          [
+            "Camiseta",
+            "[Camiseta básica de algodão](https://s.shopee.com.br/906qU5MXjX)",
+            "[Camiseta branca de algodão com decote em V](https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C)"
+          ],
+          [
+            "Vestido",
+            "[Vestido regata curto com bolsos](https://s.shopee.com.br/1C1mDHhj5)",
+            "[Vestido de malha creme de manga curta](https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C)"
+          ],
+          [
+            "Bolsa",
+            "[Bolsa transversal matelassê com alça de corrente](https://s.shopee.com.br/AKcE62SIVc)",
+            "[Bolsa de ombro de material sintético macio](https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C)"
+          ],
+          [
+            "Academia",
+            "[Legging de cintura alta com bolso para celular](https://s.shopee.com.br/50ahki5CcG)",
+            "[Legging sem costura](https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C)"
+          ],
+          [
+            "Calça jeans",
+            "[Calça jeans wide leg de cintura alta](https://s.shopee.com.br/1qdfz5utAW)",
+            "[Calça jeans wide leg](https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C)"
+          ],
+          [
+            "Calçado",
+            "[Sapatilha de bico fino](https://s.shopee.com.br/6VPVXomcRT)",
+            "[Mocassim de bico fino](https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C)"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Na Shopee, o nome do anúncio é escrito pelo vendedor e costuma trazer palavras como \"premium\" ou \"luxo\"; a amostra usa um nome curto. Tecido, medidas e quem vende estão na página da peça, nas duas lojas."
       ]
     },
     {
       "heading": "Antes de comprar: o que conferir",
       "bullets": [
-        "O preço final, com frete e imposto.",
-        "O prazo de devolução da loja e se a peça é dos itens com prazo menor.",
-        "Quem vende: a própria loja, um vendedor do Brasil ou um vendedor do exterior.",
-        "O prazo de entrega no pedido.",
-        "Nas compras internacionais, o nome e o CPF corretos no pedido."
+        "**O total**, com frete e imposto, no fim do checkout de cada loja.",
+        "**De onde a peça sai.** Na SHEIN, se é Envio Nacional; na Shopee, a origem do envio no anúncio.",
+        "**A previsão de entrega** para o seu CEP.",
+        "**Se a peça pode ser devolvida.** Na SHEIN, bodies, moda praia e roupa íntima só voltam em 7 dias.",
+        "**Quem vende**, nas duas lojas: a nota do vendedor e as avaliações da peça.",
+        "**Nas compras do exterior,** o nome e o CPF corretos no pedido."
       ]
     },
     {
-      "heading": "Qual escolher, conforme a compra",
-      "emphasis": "Para roupa que você não pode provar, compare de onde cada prazo começa a contar: a Temu conta os 90 dias da compra, a SHEIN conta os 20 dias do recebimento, e em cada loja alguns itens têm condição própria. Veja a condição da sua peça antes de decidir.",
-      "bullets": [
-        "**Quer tempo para decidir:** a tabela registra Temu com 90 dias da compra e SHEIN com 20 dias do recebimento; Shopee e AliExpress dão 7 dias. Confira a data-limite, se a peça pode ser devolvida e o custo.",
-        "**Precisa receber até uma data:** confira o prazo na página do produto ou do pedido. Na Shopee, ele muda de vendedor para vendedor; no AliExpress, a página da peça traz a data estimada e o reembolso se o pedido não chegar em 50 dias.",
-        "**Vai comprar do exterior:** veja no checkout o valor do ICMS e, acima de US$ 50, do imposto de importação.",
-        "**Prefere vendedor do Brasil:** procure o Envio Nacional na SHEIN, que não paga imposto de importação, ou os vendedores brasileiros na Shopee.",
-        "**Vai pagar com Pix ou parcelar:** veja as formas de pagamento no checkout de cada loja."
-      ]
-    },
-    {
-      "heading": "Parceria e código de indicação",
+      "heading": "E a Temu?",
       "paragraphs": [
-        "A Cecília é afiliada da SHEIN, da Shopee, da Temu e do AliExpress, e pode receber comissão pelas compras feitas pelos links deste artigo, sem custo para você. Isso não muda a resposta: a escolha depende do que você vai comprar.",
-        "O 4CW5Y é o código de indicação da Cecília na SHEIN e dá desconto, sim, numa seleção de produtos e promoções da SHEIN; quanto e em quais peças, a SHEIN decide. Use o link da Cecília ou copie o código e pesquise no app ou no site, não no campo de cupom."
+        "A comparação com a Temu está em [SHEIN ou Temu](/reviews/shein-ou-temu-qual-escolher)."
+      ]
+    },
+    {
+      "heading": "O código de indicação 4CW5Y",
+      "paragraphs": [
+        "O 4CW5Y é o código de indicação da Cecília na SHEIN e dá desconto, sim, numa seleção de produtos e promoções da SHEIN; quanto e em quais peças, a SHEIN decide. Use o link da Cecília ou copie o código e pesquise no app ou no site, não no campo de cupom. A Shopee não tem código nosso. Passo a passo em [como usar o código de indicação da SHEIN](/reviews/codigo-de-indicacao-shein)."
       ],
       "links": [
         {
@@ -210,68 +392,22 @@
           "href": "/cupons/shein"
         },
         {
-          "label": "Código de indicação SHEIN: onde colocar, como usar e o que você ganha",
-          "href": "/reviews/codigo-de-indicacao-shein"
-        },
-        {
           "label": "Abrir a Shopee",
           "href": "https://s.shopee.com.br/2LZ1KQ3brC",
-          "sponsored": true
-        },
-        {
-          "label": "Abrir a Temu",
-          "href": "https://temu.to/k/glfwht5gllj",
-          "sponsored": true
-        },
-        {
-          "label": "Abrir o AliExpress",
-          "href": "https://s.click.aliexpress.com/e/_c37RSyBR",
-          "sponsored": true
+          "sponsored": true,
+          "store": "shopee"
         }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "SHEIN ou Shopee: qual escolher? Depende do que você vai comprar e de quanto pesa poder devolver: a SHEIN dá 20 dias para devolução e a Shopee 7, e o prazo de entrega da Shopee muda de vendedor para vendedor.",
-        "Qual é mais barato, SHEIN ou Shopee? Este artigo não mede preço. Compare o preço final de cada peça, com frete e imposto, na hora de pagar em cada loja.",
-        "Qual chega mais rápido, SHEIN ou Shopee? A SHEIN publica, no Envio Global, de 3 a 5 dias para processar o pedido e uma estimativa de entrega; na Shopee, o prazo depende do vendedor e aparece na página do produto.",
-        "SHEIN ou Temu: qual a diferença? A tabela registra 90 dias da compra para a Temu e 20 dias do recebimento para a SHEIN. Compare a data-limite e as condições da sua peça; o número sozinho não define a escolha. Frete e entrega estão na tabela acima.",
-        "SHEIN ou AliExpress? A SHEIN dá 20 dias para devolução, e o AliExpress, 7 para desistir, mas as peças que abrimos nele mostravam devolução grátis até 15 dias. As duas publicam a mesma regra de imposto. No Reclame Aqui, que mede o atendimento e não a qualidade do produto, a SHEIN tem nota 7,6 e o AliExpress 6,0 nos seis meses da tabela.",
-        "SHEIN ou Shopee para roupas? Para roupa, pese a devolução e a condição da sua peça: a SHEIN dá 20 dias e a Shopee 7, e na Shopee cada peça vem de um vendedor.",
-        "SHEIN, Shopee e Temu pagam imposto? Nas compras do exterior, a SHEIN, a Shopee e o AliExpress publicam a mesma regra: ICMS de 17% a 20% e imposto de importação zero até US$ 50. A Temu não publica a alíquota nas páginas de envio e de devolução, e o imposto de importação não volta no reembolso.",
-        "A SHEIN e a Temu são a mesma coisa? Não. São lojas diferentes, cada uma com as suas regras de frete, prazo e devolução.",
-        "Qual a nota de cada loja no Reclame Aqui? Nos seis meses da tabela: SHEIN 7,6 (Boa), Shopee 6,7 (Regular), AliExpress 6,0 (Regular) e Temu 5,8 (Ruim). A nota mede o atendimento a quem reclama, não a qualidade do produto.",
-        "O 4CW5Y é cupom? Não. É o código de indicação da Cecília na SHEIN e dá desconto, sim, numa seleção de produtos e promoções; quanto e em quais peças, a SHEIN decide. Você chega a ela pelo link da Cecília ou pesquisando o código no app ou no site da loja."
+        "SHEIN ou Shopee: qual é melhor? Para roupa que você não pode provar, a SHEIN, que dá 20 dias para devolver, contra 7 da Garantia Shopee. Nas duas, vendedor, frete e prazo mudam de um anúncio para outro.",
+        "Qual é mais barata, SHEIN ou Shopee? Depende da peça e do anúncio. O que muda o total é o frete, o imposto da compra internacional e, na SHEIN, o desconto do código de indicação. Compare o total no fim do checkout.",
+        "Qual chega mais rápido, SHEIN ou Shopee? Depende de onde a peça sai, e a previsão para o seu CEP aparece no anúncio das duas. Na SHEIN, o pedido do exterior leva de 3 a 5 dias para ser processado antes do transporte.",
+        "SHEIN e Shopee cobram o mesmo imposto? Na importação pelo Remessa Conforme, sim: ICMS de 17% a 20% e imposto de importação zero até US$ 50. O que vale para o seu pedido é a origem do envio, que aparece no anúncio.",
+        "O 4CW5Y dá desconto? Sim. É o código de indicação da Cecília na SHEIN e dá desconto numa seleção de produtos e promoções; quanto e em quais peças, a SHEIN decide. Pesquise o código no app ou no site, não no campo de cupom."
       ]
-    }
-  ],
-  "decision": {
-    "takeIf": [
-      "Leve a Temu se você compra roupa sem provar e quer o maior prazo publicado para devolver: 90 dias contados da compra, se a peça se enquadra na política."
-    ],
-    "skipIf": [
-      "Passe na SHEIN se você quer devolver com mais folga do que 20 dias."
-    ]
-  },
-  "cta": {
-    "text": "Se escolher a SHEIN, use o link da Cecília ou copie o 4CW5Y e pesquise no app ou no site: o código dá desconto, sim. Antes de pagar, confira o total com frete e imposto.",
-    "label": "Ir para a SHEIN",
-    "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
-    "sponsored": true
-  },
-  "coupon": "4CW5Y",
-  "affiliate": "shein",
-  "editorialNote": "Este artigo é editorial. Podemos receber comissão pelos links da SHEIN, da Shopee, da Temu e do AliExpress. Ninguém da equipe usou os produtos.",
-  "relatedArticles": [
-    {
-      "slug": "shein-e-confiavel"
-    },
-    {
-      "slug": "black-friday-shein"
-    },
-    {
-      "slug": "codigo-de-indicacao-shein"
     }
   ]
 }

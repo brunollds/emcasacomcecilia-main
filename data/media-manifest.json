@@ -125495,6 +125495,3390 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/shein/amostra-shein-bolsa.webp",
+      "local_url": "/images/reviews/shein/amostra-shein-bolsa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 77160,
+      "sha256": "44a21dbd361877ef8fad2f234de166faaeecc2af9f4fee75f7d5e903bfdf1e9f",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-shein-bolsa.webp",
+      "storage_filename": "amostra-shein-bolsa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-temu-come-scegliere.json",
+        "content/reviews/shein-o-temu-cual-elegir.json",
+        "content/reviews/shein-oder-temu-was-waehlen.json",
+        "content/reviews/shein-ou-shopee-temu.json",
+        "content/reviews/shein-ou-temu-comment-choisir.json",
+        "content/reviews/shein-ou-temu-qual-escolher.json",
+        "content/reviews/shein-vs-shopee-zh-hant.json",
+        "content/reviews/shein-vs-temu-ja.json",
+        "content/reviews/shein-vs-temu-vs-ali-ko.json",
+        "content/reviews/shein-vs-temu-which-to-choose.json",
+        "content/reviews/shein-vs-temu-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-temu-come-scegliere.json",
+          "line": 207,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-temu-cual-elegir.json",
+          "line": 223,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-temu-was-waehlen.json",
+          "line": 207,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 251,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-comment-choisir.json",
+          "line": 207,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-qual-escolher.json",
+          "line": 260,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-shopee-zh-hant.json",
+          "line": 235,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-ja.json",
+          "line": 211,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-vs-ali-ko.json",
+          "line": 211,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-which-to-choose.json",
+          "line": 206,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-zh-hans.json",
+          "line": 235,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79449,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79871,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80231,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80631,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81015,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81399,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81783,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82171,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82559,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82971,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83382,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/44a21dbd361877ef8fad2f234de166faaeecc2af9f4fee75f7d5e903bfdf1e9f/amostra-shein-bolsa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/44a21dbd361877ef8fad2f234de166faaeecc2af9f4fee75f7d5e903bfdf1e9f/amostra-shein-bolsa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:45.505Z",
+      "verification_etag_or_digest": "44a21dbd361877ef8fad2f234de166faaeecc2af9f4fee75f7d5e903bfdf1e9f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-shein-calcado.webp",
+      "local_url": "/images/reviews/shein/amostra-shein-calcado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78224,
+      "sha256": "787b30a178c2fdbd42458338e56936f5b1be38765afeec247f618574341b467b",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-shein-calcado.webp",
+      "storage_filename": "amostra-shein-calcado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-temu-come-scegliere.json",
+        "content/reviews/shein-o-temu-cual-elegir.json",
+        "content/reviews/shein-oder-temu-was-waehlen.json",
+        "content/reviews/shein-ou-shopee-temu.json",
+        "content/reviews/shein-ou-temu-comment-choisir.json",
+        "content/reviews/shein-ou-temu-qual-escolher.json",
+        "content/reviews/shein-vs-shopee-zh-hant.json",
+        "content/reviews/shein-vs-temu-ja.json",
+        "content/reviews/shein-vs-temu-vs-ali-ko.json",
+        "content/reviews/shein-vs-temu-which-to-choose.json",
+        "content/reviews/shein-vs-temu-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-temu-come-scegliere.json",
+          "line": 261,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-temu-cual-elegir.json",
+          "line": 277,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-temu-was-waehlen.json",
+          "line": 261,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 305,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-comment-choisir.json",
+          "line": 261,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-qual-escolher.json",
+          "line": 314,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-shopee-zh-hant.json",
+          "line": 289,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-ja.json",
+          "line": 265,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-vs-ali-ko.json",
+          "line": 265,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-which-to-choose.json",
+          "line": 260,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-zh-hans.json",
+          "line": 289,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79503,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79925,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80285,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80685,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81069,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81453,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81837,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82225,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82613,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83025,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83436,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/787b30a178c2fdbd42458338e56936f5b1be38765afeec247f618574341b467b/amostra-shein-calcado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/787b30a178c2fdbd42458338e56936f5b1be38765afeec247f618574341b467b/amostra-shein-calcado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:45.840Z",
+      "verification_etag_or_digest": "787b30a178c2fdbd42458338e56936f5b1be38765afeec247f618574341b467b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+      "local_url": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 145314,
+      "sha256": "e786ac530470a2cc2eb6c5b47e23616a652c2765d2b78bebb70f6d2a9df3d87a",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-shein-camisa-listrada.webp",
+      "storage_filename": "amostra-shein-camisa-listrada.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-temu-come-scegliere.json",
+        "content/reviews/shein-o-temu-cual-elegir.json",
+        "content/reviews/shein-oder-temu-was-waehlen.json",
+        "content/reviews/shein-ou-shopee-temu.json",
+        "content/reviews/shein-ou-temu-comment-choisir.json",
+        "content/reviews/shein-ou-temu-qual-escolher.json",
+        "content/reviews/shein-vs-shopee-zh-hant.json",
+        "content/reviews/shein-vs-temu-ja.json",
+        "content/reviews/shein-vs-temu-vs-ali-ko.json",
+        "content/reviews/shein-vs-temu-which-to-choose.json",
+        "content/reviews/shein-vs-temu-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-temu-come-scegliere.json",
+          "line": 153,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-temu-cual-elegir.json",
+          "line": 169,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-temu-was-waehlen.json",
+          "line": 153,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 197,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-comment-choisir.json",
+          "line": 153,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-qual-escolher.json",
+          "line": 206,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-shopee-zh-hant.json",
+          "line": 181,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-ja.json",
+          "line": 157,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-vs-ali-ko.json",
+          "line": 157,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-which-to-choose.json",
+          "line": 152,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-zh-hans.json",
+          "line": 181,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79395,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79817,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80177,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80577,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80961,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81345,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81729,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82117,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82505,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82917,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83328,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e786ac530470a2cc2eb6c5b47e23616a652c2765d2b78bebb70f6d2a9df3d87a/amostra-shein-camisa-listrada.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e786ac530470a2cc2eb6c5b47e23616a652c2765d2b78bebb70f6d2a9df3d87a/amostra-shein-camisa-listrada.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:46.156Z",
+      "verification_etag_or_digest": "e786ac530470a2cc2eb6c5b47e23616a652c2765d2b78bebb70f6d2a9df3d87a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-shein-camiseta.webp",
+      "local_url": "/images/reviews/shein/amostra-shein-camiseta.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 106554,
+      "sha256": "8e6f8444cd634b85564c5a73f9903294d2b3528d520ecb9e4139fdf41cf67241",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-shein-camiseta.webp",
+      "storage_filename": "amostra-shein-camiseta.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-temu-come-scegliere.json",
+        "content/reviews/shein-o-temu-cual-elegir.json",
+        "content/reviews/shein-oder-temu-was-waehlen.json",
+        "content/reviews/shein-ou-shopee-temu.json",
+        "content/reviews/shein-ou-temu-comment-choisir.json",
+        "content/reviews/shein-ou-temu-qual-escolher.json",
+        "content/reviews/shein-vs-shopee-zh-hant.json",
+        "content/reviews/shein-vs-temu-ja.json",
+        "content/reviews/shein-vs-temu-vs-ali-ko.json",
+        "content/reviews/shein-vs-temu-which-to-choose.json",
+        "content/reviews/shein-vs-temu-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-temu-come-scegliere.json",
+          "line": 171,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-temu-cual-elegir.json",
+          "line": 187,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-temu-was-waehlen.json",
+          "line": 171,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 215,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-comment-choisir.json",
+          "line": 171,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-qual-escolher.json",
+          "line": 224,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-shopee-zh-hant.json",
+          "line": 199,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-ja.json",
+          "line": 175,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-vs-ali-ko.json",
+          "line": 175,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-which-to-choose.json",
+          "line": 170,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-zh-hans.json",
+          "line": 199,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79413,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79835,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80195,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80595,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80979,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81363,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81747,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82135,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82523,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82935,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83346,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8e6f8444cd634b85564c5a73f9903294d2b3528d520ecb9e4139fdf41cf67241/amostra-shein-camiseta.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8e6f8444cd634b85564c5a73f9903294d2b3528d520ecb9e4139fdf41cf67241/amostra-shein-camiseta.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:46.525Z",
+      "verification_etag_or_digest": "8e6f8444cd634b85564c5a73f9903294d2b3528d520ecb9e4139fdf41cf67241",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-shein-jeans.webp",
+      "local_url": "/images/reviews/shein/amostra-shein-jeans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 124752,
+      "sha256": "8ff77701a68558b0b6582a97903b664cf18f3bbccd54e05a2c5cc2c99b71a042",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-shein-jeans.webp",
+      "storage_filename": "amostra-shein-jeans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-temu-come-scegliere.json",
+        "content/reviews/shein-o-temu-cual-elegir.json",
+        "content/reviews/shein-oder-temu-was-waehlen.json",
+        "content/reviews/shein-ou-shopee-temu.json",
+        "content/reviews/shein-ou-temu-comment-choisir.json",
+        "content/reviews/shein-ou-temu-qual-escolher.json",
+        "content/reviews/shein-vs-shopee-zh-hant.json",
+        "content/reviews/shein-vs-temu-ja.json",
+        "content/reviews/shein-vs-temu-vs-ali-ko.json",
+        "content/reviews/shein-vs-temu-which-to-choose.json",
+        "content/reviews/shein-vs-temu-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-temu-come-scegliere.json",
+          "line": 243,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-temu-cual-elegir.json",
+          "line": 259,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-temu-was-waehlen.json",
+          "line": 243,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 287,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-comment-choisir.json",
+          "line": 243,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-qual-escolher.json",
+          "line": 296,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-shopee-zh-hant.json",
+          "line": 271,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-ja.json",
+          "line": 247,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-vs-ali-ko.json",
+          "line": 247,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-which-to-choose.json",
+          "line": 242,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-zh-hans.json",
+          "line": 271,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79485,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79907,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80267,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80667,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81051,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81435,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81819,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82207,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82595,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83007,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83418,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8ff77701a68558b0b6582a97903b664cf18f3bbccd54e05a2c5cc2c99b71a042/amostra-shein-jeans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8ff77701a68558b0b6582a97903b664cf18f3bbccd54e05a2c5cc2c99b71a042/amostra-shein-jeans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:46.860Z",
+      "verification_etag_or_digest": "8ff77701a68558b0b6582a97903b664cf18f3bbccd54e05a2c5cc2c99b71a042",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-shein-legging.webp",
+      "local_url": "/images/reviews/shein/amostra-shein-legging.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 111530,
+      "sha256": "558404fb1e80398b6e08f868951add7a3f86f3750c7e76914ef7b7a6af663267",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-shein-legging.webp",
+      "storage_filename": "amostra-shein-legging.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-temu-come-scegliere.json",
+        "content/reviews/shein-o-temu-cual-elegir.json",
+        "content/reviews/shein-oder-temu-was-waehlen.json",
+        "content/reviews/shein-ou-shopee-temu.json",
+        "content/reviews/shein-ou-temu-comment-choisir.json",
+        "content/reviews/shein-ou-temu-qual-escolher.json",
+        "content/reviews/shein-vs-shopee-zh-hant.json",
+        "content/reviews/shein-vs-temu-ja.json",
+        "content/reviews/shein-vs-temu-vs-ali-ko.json",
+        "content/reviews/shein-vs-temu-which-to-choose.json",
+        "content/reviews/shein-vs-temu-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-temu-come-scegliere.json",
+          "line": 225,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-temu-cual-elegir.json",
+          "line": 241,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-temu-was-waehlen.json",
+          "line": 225,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 269,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-comment-choisir.json",
+          "line": 225,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-qual-escolher.json",
+          "line": 278,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-shopee-zh-hant.json",
+          "line": 253,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-ja.json",
+          "line": 229,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-vs-ali-ko.json",
+          "line": 229,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-which-to-choose.json",
+          "line": 224,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-zh-hans.json",
+          "line": 253,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79467,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79889,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80249,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80649,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81033,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81417,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81801,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82189,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82577,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82989,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83400,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-legging.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/558404fb1e80398b6e08f868951add7a3f86f3750c7e76914ef7b7a6af663267/amostra-shein-legging.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/558404fb1e80398b6e08f868951add7a3f86f3750c7e76914ef7b7a6af663267/amostra-shein-legging.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:47.191Z",
+      "verification_etag_or_digest": "558404fb1e80398b6e08f868951add7a3f86f3750c7e76914ef7b7a6af663267",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-shein-pijama.webp",
+      "local_url": "/images/reviews/shein/amostra-shein-pijama.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 110940,
+      "sha256": "88ac73ad6219f707e62da399e7bb7a37ba368b6c0db76fc6039c2c1ad8939d57",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-shein-pijama.webp",
+      "storage_filename": "amostra-shein-pijama.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-temu-come-scegliere.json",
+        "content/reviews/shein-o-temu-cual-elegir.json",
+        "content/reviews/shein-oder-temu-was-waehlen.json",
+        "content/reviews/shein-ou-shopee-temu.json",
+        "content/reviews/shein-ou-temu-comment-choisir.json",
+        "content/reviews/shein-ou-temu-qual-escolher.json",
+        "content/reviews/shein-vs-shopee-zh-hant.json",
+        "content/reviews/shein-vs-temu-ja.json",
+        "content/reviews/shein-vs-temu-vs-ali-ko.json",
+        "content/reviews/shein-vs-temu-which-to-choose.json",
+        "content/reviews/shein-vs-temu-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-temu-come-scegliere.json",
+          "line": 135,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-temu-cual-elegir.json",
+          "line": 151,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-temu-was-waehlen.json",
+          "line": 135,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 179,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-comment-choisir.json",
+          "line": 135,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-qual-escolher.json",
+          "line": 188,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-shopee-zh-hant.json",
+          "line": 163,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-ja.json",
+          "line": 139,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-vs-ali-ko.json",
+          "line": 139,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-which-to-choose.json",
+          "line": 134,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-zh-hans.json",
+          "line": 163,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79377,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79799,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80159,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80559,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80943,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81327,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81711,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82099,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82487,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82899,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83310,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/88ac73ad6219f707e62da399e7bb7a37ba368b6c0db76fc6039c2c1ad8939d57/amostra-shein-pijama.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/88ac73ad6219f707e62da399e7bb7a37ba368b6c0db76fc6039c2c1ad8939d57/amostra-shein-pijama.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:47.496Z",
+      "verification_etag_or_digest": "88ac73ad6219f707e62da399e7bb7a37ba368b6c0db76fc6039c2c1ad8939d57",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-shein-vestido.webp",
+      "local_url": "/images/reviews/shein/amostra-shein-vestido.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 95558,
+      "sha256": "99735fdd07b808fef0034ce2ac5c09bbbbd2b3195b1e1f2cc9222e4fe3a107b1",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-shein-vestido.webp",
+      "storage_filename": "amostra-shein-vestido.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-temu-come-scegliere.json",
+        "content/reviews/shein-o-temu-cual-elegir.json",
+        "content/reviews/shein-oder-temu-was-waehlen.json",
+        "content/reviews/shein-ou-shopee-temu.json",
+        "content/reviews/shein-ou-temu-comment-choisir.json",
+        "content/reviews/shein-ou-temu-qual-escolher.json",
+        "content/reviews/shein-vs-shopee-zh-hant.json",
+        "content/reviews/shein-vs-temu-ja.json",
+        "content/reviews/shein-vs-temu-vs-ali-ko.json",
+        "content/reviews/shein-vs-temu-which-to-choose.json",
+        "content/reviews/shein-vs-temu-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-temu-come-scegliere.json",
+          "line": 189,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-temu-cual-elegir.json",
+          "line": 205,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-temu-was-waehlen.json",
+          "line": 189,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 233,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-comment-choisir.json",
+          "line": 189,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-qual-escolher.json",
+          "line": 242,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-shopee-zh-hant.json",
+          "line": 217,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-ja.json",
+          "line": 193,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-vs-ali-ko.json",
+          "line": 193,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-which-to-choose.json",
+          "line": 188,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-zh-hans.json",
+          "line": 217,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79431,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79853,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80213,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80613,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80997,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81381,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81765,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82153,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82541,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82953,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83364,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/99735fdd07b808fef0034ce2ac5c09bbbbd2b3195b1e1f2cc9222e4fe3a107b1/amostra-shein-vestido.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/99735fdd07b808fef0034ce2ac5c09bbbbd2b3195b1e1f2cc9222e4fe3a107b1/amostra-shein-vestido.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:47.842Z",
+      "verification_etag_or_digest": "99735fdd07b808fef0034ce2ac5c09bbbbd2b3195b1e1f2cc9222e4fe3a107b1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-shopee-bolsa.webp",
+      "local_url": "/images/reviews/shein/amostra-shopee-bolsa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 59790,
+      "sha256": "324494c7f607f5e5898ece1ab49dc18ccb55af28d6eb303c820856614ccb822b",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-shopee-bolsa.webp",
+      "storage_filename": "amostra-shopee-bolsa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-ou-shopee-temu.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 242,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shopee-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79440,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shopee-bolsa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/324494c7f607f5e5898ece1ab49dc18ccb55af28d6eb303c820856614ccb822b/amostra-shopee-bolsa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/324494c7f607f5e5898ece1ab49dc18ccb55af28d6eb303c820856614ccb822b/amostra-shopee-bolsa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:48.173Z",
+      "verification_etag_or_digest": "324494c7f607f5e5898ece1ab49dc18ccb55af28d6eb303c820856614ccb822b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-shopee-calcado.webp",
+      "local_url": "/images/reviews/shein/amostra-shopee-calcado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 69944,
+      "sha256": "5fdbe1c847358fa4df4837f0705a35029aba0fdd38e7f7027b415538a35f6d9a",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-shopee-calcado.webp",
+      "storage_filename": "amostra-shopee-calcado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-ou-shopee-temu.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 296,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shopee-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79494,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shopee-calcado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5fdbe1c847358fa4df4837f0705a35029aba0fdd38e7f7027b415538a35f6d9a/amostra-shopee-calcado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5fdbe1c847358fa4df4837f0705a35029aba0fdd38e7f7027b415538a35f6d9a/amostra-shopee-calcado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:48.506Z",
+      "verification_etag_or_digest": "5fdbe1c847358fa4df4837f0705a35029aba0fdd38e7f7027b415538a35f6d9a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-shopee-camisa-listrada.webp",
+      "local_url": "/images/reviews/shein/amostra-shopee-camisa-listrada.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86922,
+      "sha256": "bb334a78f9856d31fa1cc89746f31757a41174832b48e9837ab43b1ef901b762",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-shopee-camisa-listrada.webp",
+      "storage_filename": "amostra-shopee-camisa-listrada.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-ou-shopee-temu.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 188,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shopee-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79386,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shopee-camisa-listrada.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bb334a78f9856d31fa1cc89746f31757a41174832b48e9837ab43b1ef901b762/amostra-shopee-camisa-listrada.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bb334a78f9856d31fa1cc89746f31757a41174832b48e9837ab43b1ef901b762/amostra-shopee-camisa-listrada.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:48.824Z",
+      "verification_etag_or_digest": "bb334a78f9856d31fa1cc89746f31757a41174832b48e9837ab43b1ef901b762",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-shopee-camiseta.webp",
+      "local_url": "/images/reviews/shein/amostra-shopee-camiseta.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34350,
+      "sha256": "aa221327872323223298dc63e2170d1d2d22d4d3b6df2e0dad300b39abcc39a3",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-shopee-camiseta.webp",
+      "storage_filename": "amostra-shopee-camiseta.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-ou-shopee-temu.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 206,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shopee-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79404,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shopee-camiseta.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/aa221327872323223298dc63e2170d1d2d22d4d3b6df2e0dad300b39abcc39a3/amostra-shopee-camiseta.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/aa221327872323223298dc63e2170d1d2d22d4d3b6df2e0dad300b39abcc39a3/amostra-shopee-camiseta.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:49.155Z",
+      "verification_etag_or_digest": "aa221327872323223298dc63e2170d1d2d22d4d3b6df2e0dad300b39abcc39a3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-shopee-jeans.webp",
+      "local_url": "/images/reviews/shein/amostra-shopee-jeans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78448,
+      "sha256": "9e26f8b8e8eb67d71bd52255c7dbe452cf87a328d41d83effe6e1a99c4ae0d5d",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-shopee-jeans.webp",
+      "storage_filename": "amostra-shopee-jeans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-ou-shopee-temu.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 278,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shopee-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79476,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shopee-jeans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9e26f8b8e8eb67d71bd52255c7dbe452cf87a328d41d83effe6e1a99c4ae0d5d/amostra-shopee-jeans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9e26f8b8e8eb67d71bd52255c7dbe452cf87a328d41d83effe6e1a99c4ae0d5d/amostra-shopee-jeans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:49.482Z",
+      "verification_etag_or_digest": "9e26f8b8e8eb67d71bd52255c7dbe452cf87a328d41d83effe6e1a99c4ae0d5d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-shopee-legging.webp",
+      "local_url": "/images/reviews/shein/amostra-shopee-legging.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26558,
+      "sha256": "5f39c1bc94834bfcc99cd9278289c9eba59a2362eaad032fd7e5ad41f3e4ac25",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-shopee-legging.webp",
+      "storage_filename": "amostra-shopee-legging.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-ou-shopee-temu.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 260,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shopee-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79458,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shopee-legging.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5f39c1bc94834bfcc99cd9278289c9eba59a2362eaad032fd7e5ad41f3e4ac25/amostra-shopee-legging.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5f39c1bc94834bfcc99cd9278289c9eba59a2362eaad032fd7e5ad41f3e4ac25/amostra-shopee-legging.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:49.760Z",
+      "verification_etag_or_digest": "5f39c1bc94834bfcc99cd9278289c9eba59a2362eaad032fd7e5ad41f3e4ac25",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-shopee-pijama.webp",
+      "local_url": "/images/reviews/shein/amostra-shopee-pijama.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32724,
+      "sha256": "30fbfecb1dd0c3ab26466568cb8fcdaa19a0ab79e60c271690b3e00491277a1e",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-shopee-pijama.webp",
+      "storage_filename": "amostra-shopee-pijama.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-ou-shopee-temu.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 170,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shopee-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79368,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shopee-pijama.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/30fbfecb1dd0c3ab26466568cb8fcdaa19a0ab79e60c271690b3e00491277a1e/amostra-shopee-pijama.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/30fbfecb1dd0c3ab26466568cb8fcdaa19a0ab79e60c271690b3e00491277a1e/amostra-shopee-pijama.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:50.072Z",
+      "verification_etag_or_digest": "30fbfecb1dd0c3ab26466568cb8fcdaa19a0ab79e60c271690b3e00491277a1e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-shopee-vestido.webp",
+      "local_url": "/images/reviews/shein/amostra-shopee-vestido.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26256,
+      "sha256": "fc14ded4db39f6981848e09d4e2d5008eac1258aa48d682ab2720e8282beada4",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-shopee-vestido.webp",
+      "storage_filename": "amostra-shopee-vestido.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-ou-shopee-temu.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 224,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-shopee-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79422,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-shopee-vestido.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fc14ded4db39f6981848e09d4e2d5008eac1258aa48d682ab2720e8282beada4/amostra-shopee-vestido.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fc14ded4db39f6981848e09d4e2d5008eac1258aa48d682ab2720e8282beada4/amostra-shopee-vestido.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:50.350Z",
+      "verification_etag_or_digest": "fc14ded4db39f6981848e09d4e2d5008eac1258aa48d682ab2720e8282beada4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-temu-bolsa.webp",
+      "local_url": "/images/reviews/shein/amostra-temu-bolsa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78522,
+      "sha256": "b2889ec60e3989ed961830ccf053d8f0260a6e9b797bfd57ceeb5796096a4178",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-temu-bolsa.webp",
+      "storage_filename": "amostra-temu-bolsa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-temu-come-scegliere.json",
+        "content/reviews/shein-o-temu-cual-elegir.json",
+        "content/reviews/shein-oder-temu-was-waehlen.json",
+        "content/reviews/shein-ou-temu-comment-choisir.json",
+        "content/reviews/shein-ou-temu-qual-escolher.json",
+        "content/reviews/shein-vs-shopee-zh-hant.json",
+        "content/reviews/shein-vs-temu-ja.json",
+        "content/reviews/shein-vs-temu-vs-ali-ko.json",
+        "content/reviews/shein-vs-temu-which-to-choose.json",
+        "content/reviews/shein-vs-temu-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-temu-come-scegliere.json",
+          "line": 198,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-temu-cual-elegir.json",
+          "line": 214,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-temu-was-waehlen.json",
+          "line": 198,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-comment-choisir.json",
+          "line": 198,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-qual-escolher.json",
+          "line": 251,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-shopee-zh-hant.json",
+          "line": 226,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-ja.json",
+          "line": 202,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-vs-ali-ko.json",
+          "line": 202,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-which-to-choose.json",
+          "line": 197,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-zh-hans.json",
+          "line": 226,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79862,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80222,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80622,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81006,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81390,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81774,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82162,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82550,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82962,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83373,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b2889ec60e3989ed961830ccf053d8f0260a6e9b797bfd57ceeb5796096a4178/amostra-temu-bolsa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b2889ec60e3989ed961830ccf053d8f0260a6e9b797bfd57ceeb5796096a4178/amostra-temu-bolsa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:50.647Z",
+      "verification_etag_or_digest": "b2889ec60e3989ed961830ccf053d8f0260a6e9b797bfd57ceeb5796096a4178",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-temu-calcado.webp",
+      "local_url": "/images/reviews/shein/amostra-temu-calcado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 132588,
+      "sha256": "9ad82f9d1075cc791d9ce461d4680854ccefe746e22803e3af76d3fd6305fdef",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-temu-calcado.webp",
+      "storage_filename": "amostra-temu-calcado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-temu-come-scegliere.json",
+        "content/reviews/shein-o-temu-cual-elegir.json",
+        "content/reviews/shein-oder-temu-was-waehlen.json",
+        "content/reviews/shein-ou-temu-comment-choisir.json",
+        "content/reviews/shein-ou-temu-qual-escolher.json",
+        "content/reviews/shein-vs-shopee-zh-hant.json",
+        "content/reviews/shein-vs-temu-ja.json",
+        "content/reviews/shein-vs-temu-vs-ali-ko.json",
+        "content/reviews/shein-vs-temu-which-to-choose.json",
+        "content/reviews/shein-vs-temu-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-temu-come-scegliere.json",
+          "line": 252,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-temu-cual-elegir.json",
+          "line": 268,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-temu-was-waehlen.json",
+          "line": 252,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-comment-choisir.json",
+          "line": 252,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-qual-escolher.json",
+          "line": 305,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-shopee-zh-hant.json",
+          "line": 280,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-ja.json",
+          "line": 256,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-vs-ali-ko.json",
+          "line": 256,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-which-to-choose.json",
+          "line": 251,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-zh-hans.json",
+          "line": 280,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79916,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80276,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80676,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81060,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81444,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81828,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82216,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82604,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83016,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83427,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9ad82f9d1075cc791d9ce461d4680854ccefe746e22803e3af76d3fd6305fdef/amostra-temu-calcado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9ad82f9d1075cc791d9ce461d4680854ccefe746e22803e3af76d3fd6305fdef/amostra-temu-calcado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:50.969Z",
+      "verification_etag_or_digest": "9ad82f9d1075cc791d9ce461d4680854ccefe746e22803e3af76d3fd6305fdef",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+      "local_url": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 158156,
+      "sha256": "aa265bc756785429c30a39781898820bad793821daf09a596d794a53a59036ce",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-temu-camisa-listrada.webp",
+      "storage_filename": "amostra-temu-camisa-listrada.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-temu-come-scegliere.json",
+        "content/reviews/shein-o-temu-cual-elegir.json",
+        "content/reviews/shein-oder-temu-was-waehlen.json",
+        "content/reviews/shein-ou-temu-comment-choisir.json",
+        "content/reviews/shein-ou-temu-qual-escolher.json",
+        "content/reviews/shein-vs-shopee-zh-hant.json",
+        "content/reviews/shein-vs-temu-ja.json",
+        "content/reviews/shein-vs-temu-vs-ali-ko.json",
+        "content/reviews/shein-vs-temu-which-to-choose.json",
+        "content/reviews/shein-vs-temu-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-temu-come-scegliere.json",
+          "line": 144,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-temu-cual-elegir.json",
+          "line": 160,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-temu-was-waehlen.json",
+          "line": 144,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-comment-choisir.json",
+          "line": 144,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-qual-escolher.json",
+          "line": 197,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-shopee-zh-hant.json",
+          "line": 172,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-ja.json",
+          "line": 148,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-vs-ali-ko.json",
+          "line": 148,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-which-to-choose.json",
+          "line": 143,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-zh-hans.json",
+          "line": 172,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79808,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80168,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80568,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80952,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81336,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81720,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82108,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82496,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82908,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83319,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/aa265bc756785429c30a39781898820bad793821daf09a596d794a53a59036ce/amostra-temu-camisa-listrada.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/aa265bc756785429c30a39781898820bad793821daf09a596d794a53a59036ce/amostra-temu-camisa-listrada.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:51.295Z",
+      "verification_etag_or_digest": "aa265bc756785429c30a39781898820bad793821daf09a596d794a53a59036ce",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-temu-camiseta.webp",
+      "local_url": "/images/reviews/shein/amostra-temu-camiseta.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43410,
+      "sha256": "c371d7c4de14e841ff926519c71632dad53208e9f12763d701405512fddc4281",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-temu-camiseta.webp",
+      "storage_filename": "amostra-temu-camiseta.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-temu-come-scegliere.json",
+        "content/reviews/shein-o-temu-cual-elegir.json",
+        "content/reviews/shein-oder-temu-was-waehlen.json",
+        "content/reviews/shein-ou-temu-comment-choisir.json",
+        "content/reviews/shein-ou-temu-qual-escolher.json",
+        "content/reviews/shein-vs-shopee-zh-hant.json",
+        "content/reviews/shein-vs-temu-ja.json",
+        "content/reviews/shein-vs-temu-vs-ali-ko.json",
+        "content/reviews/shein-vs-temu-which-to-choose.json",
+        "content/reviews/shein-vs-temu-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-temu-come-scegliere.json",
+          "line": 162,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-temu-cual-elegir.json",
+          "line": 178,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-temu-was-waehlen.json",
+          "line": 162,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-comment-choisir.json",
+          "line": 162,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-qual-escolher.json",
+          "line": 215,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-shopee-zh-hant.json",
+          "line": 190,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-ja.json",
+          "line": 166,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-vs-ali-ko.json",
+          "line": 166,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-which-to-choose.json",
+          "line": 161,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-zh-hans.json",
+          "line": 190,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79826,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80186,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80586,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80970,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81354,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81738,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82126,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82514,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82926,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83337,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c371d7c4de14e841ff926519c71632dad53208e9f12763d701405512fddc4281/amostra-temu-camiseta.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c371d7c4de14e841ff926519c71632dad53208e9f12763d701405512fddc4281/amostra-temu-camiseta.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:51.607Z",
+      "verification_etag_or_digest": "c371d7c4de14e841ff926519c71632dad53208e9f12763d701405512fddc4281",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-temu-jeans.webp",
+      "local_url": "/images/reviews/shein/amostra-temu-jeans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39660,
+      "sha256": "f7dec97b33bfc4692a0677daed78efbe4c1fb20c1e1b76c272cea3477485c8df",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-temu-jeans.webp",
+      "storage_filename": "amostra-temu-jeans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-temu-come-scegliere.json",
+        "content/reviews/shein-o-temu-cual-elegir.json",
+        "content/reviews/shein-oder-temu-was-waehlen.json",
+        "content/reviews/shein-ou-temu-comment-choisir.json",
+        "content/reviews/shein-ou-temu-qual-escolher.json",
+        "content/reviews/shein-vs-shopee-zh-hant.json",
+        "content/reviews/shein-vs-temu-ja.json",
+        "content/reviews/shein-vs-temu-vs-ali-ko.json",
+        "content/reviews/shein-vs-temu-which-to-choose.json",
+        "content/reviews/shein-vs-temu-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-temu-come-scegliere.json",
+          "line": 234,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-temu-cual-elegir.json",
+          "line": 250,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-temu-was-waehlen.json",
+          "line": 234,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-comment-choisir.json",
+          "line": 234,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-qual-escolher.json",
+          "line": 287,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-shopee-zh-hant.json",
+          "line": 262,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-ja.json",
+          "line": 238,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-vs-ali-ko.json",
+          "line": 238,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-which-to-choose.json",
+          "line": 233,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-zh-hans.json",
+          "line": 262,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79898,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80258,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80658,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81042,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81426,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81810,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82198,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82586,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82998,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83409,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f7dec97b33bfc4692a0677daed78efbe4c1fb20c1e1b76c272cea3477485c8df/amostra-temu-jeans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f7dec97b33bfc4692a0677daed78efbe4c1fb20c1e1b76c272cea3477485c8df/amostra-temu-jeans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:51.917Z",
+      "verification_etag_or_digest": "f7dec97b33bfc4692a0677daed78efbe4c1fb20c1e1b76c272cea3477485c8df",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-temu-legging.webp",
+      "local_url": "/images/reviews/shein/amostra-temu-legging.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 93686,
+      "sha256": "f5790a54539929527c1a870dcab3549a1c3222fcc2473b629c0e2b66419af6a4",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-temu-legging.webp",
+      "storage_filename": "amostra-temu-legging.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-temu-come-scegliere.json",
+        "content/reviews/shein-o-temu-cual-elegir.json",
+        "content/reviews/shein-oder-temu-was-waehlen.json",
+        "content/reviews/shein-ou-temu-comment-choisir.json",
+        "content/reviews/shein-ou-temu-qual-escolher.json",
+        "content/reviews/shein-vs-shopee-zh-hant.json",
+        "content/reviews/shein-vs-temu-ja.json",
+        "content/reviews/shein-vs-temu-vs-ali-ko.json",
+        "content/reviews/shein-vs-temu-which-to-choose.json",
+        "content/reviews/shein-vs-temu-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-temu-come-scegliere.json",
+          "line": 216,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-temu-cual-elegir.json",
+          "line": 232,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-temu-was-waehlen.json",
+          "line": 216,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-comment-choisir.json",
+          "line": 216,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-qual-escolher.json",
+          "line": 269,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-shopee-zh-hant.json",
+          "line": 244,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-ja.json",
+          "line": 220,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-vs-ali-ko.json",
+          "line": 220,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-which-to-choose.json",
+          "line": 215,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-zh-hans.json",
+          "line": 244,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79880,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80240,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80640,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81024,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81408,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81792,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82180,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82568,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82980,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83391,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-legging.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f5790a54539929527c1a870dcab3549a1c3222fcc2473b629c0e2b66419af6a4/amostra-temu-legging.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f5790a54539929527c1a870dcab3549a1c3222fcc2473b629c0e2b66419af6a4/amostra-temu-legging.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:52.240Z",
+      "verification_etag_or_digest": "f5790a54539929527c1a870dcab3549a1c3222fcc2473b629c0e2b66419af6a4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-temu-pijama.webp",
+      "local_url": "/images/reviews/shein/amostra-temu-pijama.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 99638,
+      "sha256": "215361fee367eed60d4aae1bf00b9a6cceea06f4bd867cc734ae21a54ef5ad48",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-temu-pijama.webp",
+      "storage_filename": "amostra-temu-pijama.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-temu-come-scegliere.json",
+        "content/reviews/shein-o-temu-cual-elegir.json",
+        "content/reviews/shein-oder-temu-was-waehlen.json",
+        "content/reviews/shein-ou-temu-comment-choisir.json",
+        "content/reviews/shein-ou-temu-qual-escolher.json",
+        "content/reviews/shein-vs-shopee-zh-hant.json",
+        "content/reviews/shein-vs-temu-ja.json",
+        "content/reviews/shein-vs-temu-vs-ali-ko.json",
+        "content/reviews/shein-vs-temu-which-to-choose.json",
+        "content/reviews/shein-vs-temu-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-temu-come-scegliere.json",
+          "line": 126,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-temu-cual-elegir.json",
+          "line": 142,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-temu-was-waehlen.json",
+          "line": 126,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-comment-choisir.json",
+          "line": 126,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-qual-escolher.json",
+          "line": 179,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-shopee-zh-hant.json",
+          "line": 154,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-ja.json",
+          "line": 130,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-vs-ali-ko.json",
+          "line": 130,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-which-to-choose.json",
+          "line": 125,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-zh-hans.json",
+          "line": 154,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79790,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80150,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80550,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80934,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81318,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81702,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82090,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82478,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82890,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83301,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/215361fee367eed60d4aae1bf00b9a6cceea06f4bd867cc734ae21a54ef5ad48/amostra-temu-pijama.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/215361fee367eed60d4aae1bf00b9a6cceea06f4bd867cc734ae21a54ef5ad48/amostra-temu-pijama.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:52.600Z",
+      "verification_etag_or_digest": "215361fee367eed60d4aae1bf00b9a6cceea06f4bd867cc734ae21a54ef5ad48",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-temu-vestido.webp",
+      "local_url": "/images/reviews/shein/amostra-temu-vestido.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49542,
+      "sha256": "9bf2830d96d83dfc3e81e1998066aa60136b7adfe85519a8b5ee78d1f0a7fa2a",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-temu-vestido.webp",
+      "storage_filename": "amostra-temu-vestido.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-temu-come-scegliere.json",
+        "content/reviews/shein-o-temu-cual-elegir.json",
+        "content/reviews/shein-oder-temu-was-waehlen.json",
+        "content/reviews/shein-ou-temu-comment-choisir.json",
+        "content/reviews/shein-ou-temu-qual-escolher.json",
+        "content/reviews/shein-vs-shopee-zh-hant.json",
+        "content/reviews/shein-vs-temu-ja.json",
+        "content/reviews/shein-vs-temu-vs-ali-ko.json",
+        "content/reviews/shein-vs-temu-which-to-choose.json",
+        "content/reviews/shein-vs-temu-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-temu-come-scegliere.json",
+          "line": 180,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-temu-cual-elegir.json",
+          "line": 196,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-temu-was-waehlen.json",
+          "line": 180,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-comment-choisir.json",
+          "line": 180,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-qual-escolher.json",
+          "line": 233,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-shopee-zh-hant.json",
+          "line": 208,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-ja.json",
+          "line": 184,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-vs-ali-ko.json",
+          "line": 184,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-which-to-choose.json",
+          "line": 179,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-zh-hans.json",
+          "line": 208,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79844,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80204,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80604,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80988,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81372,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81756,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82144,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82532,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82944,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83355,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9bf2830d96d83dfc3e81e1998066aa60136b7adfe85519a8b5ee78d1f0a7fa2a/amostra-temu-vestido.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9bf2830d96d83dfc3e81e1998066aa60136b7adfe85519a8b5ee78d1f0a7fa2a/amostra-temu-vestido.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:52.890Z",
+      "verification_etag_or_digest": "9bf2830d96d83dfc3e81e1998066aa60136b7adfe85519a8b5ee78d1f0a7fa2a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/shein/black-friday-shein-01-vestido-longo-bae.webp",
       "local_url": "/images/reviews/shein/black-friday-shein-01-vestido-longo-bae.webp",
       "media_kind": "image",
@@ -130482,6 +133866,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/shein/shein-ou-shopee-capa.webp",
+      "local_url": "/images/reviews/shein/shein-ou-shopee-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 140826,
+      "sha256": "438f0108c7c09c404b2e718ca2e301b9dfe5cf0860864903028ea2a94695e359",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-shopee-capa.webp",
+      "storage_filename": "shein-ou-shopee-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-ou-shopee-temu.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-shopee-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79222,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-shopee-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/438f0108c7c09c404b2e718ca2e301b9dfe5cf0860864903028ea2a94695e359/shein-ou-shopee-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/438f0108c7c09c404b2e718ca2e301b9dfe5cf0860864903028ea2a94695e359/shein-ou-shopee-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:53.190Z",
+      "verification_etag_or_digest": "438f0108c7c09c404b2e718ca2e301b9dfe5cf0860864903028ea2a94695e359",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/shein/shein-ou-shopee-temu-capa-de-v2.webp",
       "local_url": "/images/reviews/shein/shein-ou-shopee-temu-capa-de-v2.webp",
       "media_kind": "image",
@@ -130967,6 +134397,466 @@
       "uploaded_at": null,
       "verified_at": "2026-11-13T01:09:42.087Z",
       "verification_etag_or_digest": "2f017f29a75aa6e2a59643cbb19f0467f193a27c1fb9ce928f98915e904021fb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-ou-temu-capa-de.webp",
+      "local_url": "/images/reviews/shein/shein-ou-temu-capa-de.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 190012,
+      "sha256": "c714b6770b9b0f879b3e4fb5c4102076f8744665d3baa2239e91c175e1aa884e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-temu-capa-de.webp",
+      "storage_filename": "shein-ou-temu-capa-de.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-oder-temu-was-waehlen.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-oder-temu-was-waehlen.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-temu-capa-de.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81218,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-temu-capa-de.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c714b6770b9b0f879b3e4fb5c4102076f8744665d3baa2239e91c175e1aa884e/shein-ou-temu-capa-de.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c714b6770b9b0f879b3e4fb5c4102076f8744665d3baa2239e91c175e1aa884e/shein-ou-temu-capa-de.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:53.557Z",
+      "verification_etag_or_digest": "c714b6770b9b0f879b3e4fb5c4102076f8744665d3baa2239e91c175e1aa884e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-ou-temu-capa-en.webp",
+      "local_url": "/images/reviews/shein/shein-ou-temu-capa-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 190210,
+      "sha256": "1b1cd3d7e252ae141020908b307d03a2a79ad03ac29aedde3827aefb4f40b30f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-temu-capa-en.webp",
+      "storage_filename": "shein-ou-temu-capa-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-vs-temu-which-to-choose.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-vs-temu-which-to-choose.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-temu-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80051,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-temu-capa-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1b1cd3d7e252ae141020908b307d03a2a79ad03ac29aedde3827aefb4f40b30f/shein-ou-temu-capa-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1b1cd3d7e252ae141020908b307d03a2a79ad03ac29aedde3827aefb4f40b30f/shein-ou-temu-capa-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:53.890Z",
+      "verification_etag_or_digest": "1b1cd3d7e252ae141020908b307d03a2a79ad03ac29aedde3827aefb4f40b30f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-ou-temu-capa-es.webp",
+      "local_url": "/images/reviews/shein/shein-ou-temu-capa-es.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 189428,
+      "sha256": "73ac8e59ea8f8a5a2ec746dcc5adda22bdec34ef8e208beed1896e8efcd41f62",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-temu-capa-es.webp",
+      "storage_filename": "shein-ou-temu-capa-es.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-temu-cual-elegir.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-temu-cual-elegir.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-temu-capa-es.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80434,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-temu-capa-es.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/73ac8e59ea8f8a5a2ec746dcc5adda22bdec34ef8e208beed1896e8efcd41f62/shein-ou-temu-capa-es.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/73ac8e59ea8f8a5a2ec746dcc5adda22bdec34ef8e208beed1896e8efcd41f62/shein-ou-temu-capa-es.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:54.266Z",
+      "verification_etag_or_digest": "73ac8e59ea8f8a5a2ec746dcc5adda22bdec34ef8e208beed1896e8efcd41f62",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-ou-temu-capa-fr.webp",
+      "local_url": "/images/reviews/shein/shein-ou-temu-capa-fr.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 189260,
+      "sha256": "8d4dd7e3eeb947e71bc5763a1835feb173af620078668f398df6d5f7114263ba",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-temu-capa-fr.webp",
+      "storage_filename": "shein-ou-temu-capa-fr.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-ou-temu-comment-choisir.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-ou-temu-comment-choisir.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-temu-capa-fr.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80834,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-temu-capa-fr.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8d4dd7e3eeb947e71bc5763a1835feb173af620078668f398df6d5f7114263ba/shein-ou-temu-capa-fr.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8d4dd7e3eeb947e71bc5763a1835feb173af620078668f398df6d5f7114263ba/shein-ou-temu-capa-fr.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:54.642Z",
+      "verification_etag_or_digest": "8d4dd7e3eeb947e71bc5763a1835feb173af620078668f398df6d5f7114263ba",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-ou-temu-capa-it.webp",
+      "local_url": "/images/reviews/shein/shein-ou-temu-capa-it.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 189964,
+      "sha256": "407db056a27f1cad5a35510e55432c52962729cc909e1ee1e898ee4dd4a3bcb6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-temu-capa-it.webp",
+      "storage_filename": "shein-ou-temu-capa-it.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-temu-come-scegliere.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-temu-come-scegliere.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-temu-capa-it.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81602,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-temu-capa-it.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/407db056a27f1cad5a35510e55432c52962729cc909e1ee1e898ee4dd4a3bcb6/shein-ou-temu-capa-it.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/407db056a27f1cad5a35510e55432c52962729cc909e1ee1e898ee4dd4a3bcb6/shein-ou-temu-capa-it.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:55.020Z",
+      "verification_etag_or_digest": "407db056a27f1cad5a35510e55432c52962729cc909e1ee1e898ee4dd4a3bcb6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-ou-temu-capa-ja.webp",
+      "local_url": "/images/reviews/shein/shein-ou-temu-capa-ja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 192032,
+      "sha256": "4a3ae46e911b47a9f9cbd7c8f5bb0f6db64e6b84a615976f8146ed08f027aa91",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-temu-capa-ja.webp",
+      "storage_filename": "shein-ou-temu-capa-ja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-vs-temu-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-vs-temu-ja.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-temu-capa-ja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82374,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-temu-capa-ja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4a3ae46e911b47a9f9cbd7c8f5bb0f6db64e6b84a615976f8146ed08f027aa91/shein-ou-temu-capa-ja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4a3ae46e911b47a9f9cbd7c8f5bb0f6db64e6b84a615976f8146ed08f027aa91/shein-ou-temu-capa-ja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:55.407Z",
+      "verification_etag_or_digest": "4a3ae46e911b47a9f9cbd7c8f5bb0f6db64e6b84a615976f8146ed08f027aa91",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-ou-temu-capa-ko.webp",
+      "local_url": "/images/reviews/shein/shein-ou-temu-capa-ko.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 190096,
+      "sha256": "d5325f5f1fdf2ecc00d26d8be960197be5d7708c3cce7322b63c48e8f5fd7b77",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-temu-capa-ko.webp",
+      "storage_filename": "shein-ou-temu-capa-ko.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-vs-temu-vs-ali-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-vs-temu-vs-ali-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-temu-capa-ko.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81986,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-temu-capa-ko.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d5325f5f1fdf2ecc00d26d8be960197be5d7708c3cce7322b63c48e8f5fd7b77/shein-ou-temu-capa-ko.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d5325f5f1fdf2ecc00d26d8be960197be5d7708c3cce7322b63c48e8f5fd7b77/shein-ou-temu-capa-ko.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:55.820Z",
+      "verification_etag_or_digest": "d5325f5f1fdf2ecc00d26d8be960197be5d7708c3cce7322b63c48e8f5fd7b77",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-ou-temu-capa-pt.webp",
+      "local_url": "/images/reviews/shein/shein-ou-temu-capa-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 189766,
+      "sha256": "50d8edc9bbdf7e5915bb2cf512a1adfce65f8bbb20b564a36f69d1333a3ba6c2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-temu-capa-pt.webp",
+      "storage_filename": "shein-ou-temu-capa-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-ou-temu-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-ou-temu-qual-escolher.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-temu-capa-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79636,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-temu-capa-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/50d8edc9bbdf7e5915bb2cf512a1adfce65f8bbb20b564a36f69d1333a3ba6c2/shein-ou-temu-capa-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/50d8edc9bbdf7e5915bb2cf512a1adfce65f8bbb20b564a36f69d1333a3ba6c2/shein-ou-temu-capa-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:56.142Z",
+      "verification_etag_or_digest": "50d8edc9bbdf7e5915bb2cf512a1adfce65f8bbb20b564a36f69d1333a3ba6c2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-ou-temu-capa-zh-hans.webp",
+      "local_url": "/images/reviews/shein/shein-ou-temu-capa-zh-hans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 189354,
+      "sha256": "18e301785b4f153a2c29f8d4a9e0108701b56aa60b334d9ae3f44051f1128f9e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-temu-capa-zh-hans.webp",
+      "storage_filename": "shein-ou-temu-capa-zh-hans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-vs-temu-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-vs-temu-zh-hans.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-temu-capa-zh-hans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83173,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-temu-capa-zh-hans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/18e301785b4f153a2c29f8d4a9e0108701b56aa60b334d9ae3f44051f1128f9e/shein-ou-temu-capa-zh-hans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/18e301785b4f153a2c29f8d4a9e0108701b56aa60b334d9ae3f44051f1128f9e/shein-ou-temu-capa-zh-hans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:56.534Z",
+      "verification_etag_or_digest": "18e301785b4f153a2c29f8d4a9e0108701b56aa60b334d9ae3f44051f1128f9e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-ou-temu-capa-zh-hant.webp",
+      "local_url": "/images/reviews/shein/shein-ou-temu-capa-zh-hant.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 190178,
+      "sha256": "3ade0a758cda12482d9d12022daa500c7d34a7b3e347bdd895fba28a54be65c9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-temu-capa-zh-hant.webp",
+      "storage_filename": "shein-ou-temu-capa-zh-hant.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-vs-shopee-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-vs-shopee-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-temu-capa-zh-hant.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82762,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-temu-capa-zh-hant.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3ade0a758cda12482d9d12022daa500c7d34a7b3e347bdd895fba28a54be65c9/shein-ou-temu-capa-zh-hant.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3ade0a758cda12482d9d12022daa500c7d34a7b3e347bdd895fba28a54be65c9/shein-ou-temu-capa-zh-hant.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T18:41:57.028Z",
+      "verification_etag_or_digest": "3ade0a758cda12482d9d12022daa500c7d34a7b3e347bdd895fba28a54be65c9",
       "verification_status": "verified"
     },
     {
