@@ -101,3 +101,7 @@ salvo a Mini Me. Reconsultar no fim de outubro para o artigo `black-friday-dolce
 
 Em rascunho (`draft: true`): `dolce-gusto-maquinas-qual-escolher`, `melhores-capsulas-dolce-gusto-2026`,
 `starbucks-dolce-gusto-capsulas-guia`.
+
+## Âncora "cupom Dolce Gusto" (17/11/2026)
+
+A dona de "cupom dolce gusto" voltou a ser a `/cupons/dolce-gusto` (decisão do Bruno, regra de 05/11). 15 artigos em português ganharam o link com o texto exato `[cupom Dolce Gusto](/cupons/dolce-gusto)`: 10 que não tinham link no texto (na resposta rápida ou no parágrafo do cupom) e 5 que usavam âncora genérica. O `cupom-ceci-nescafe-dolce-gusto-como-usar` segue com o título de passo a passo. Teste de 17/11, sem finalizar: o CECI entrou numa Mini Me 2.0 em promoção, de R$ 369,90 para R$ 332,91; os textos que diziam "pode funcionar em máquinas" passaram a afirmar. Medição do Adicionar Cupons em 01/12, por impressões e posição.
