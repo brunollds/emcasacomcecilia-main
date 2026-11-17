@@ -27,6 +27,8 @@ checkout. A parceria não tem link próprio nem UTM: o `offerUrl` é o site ofic
 | Frete grátis acima de R$ 199 para quase todo o Brasil; no Acre, Piauí, Rondônia e Roraima, acima de R$ 500 | condicao_comercial_volatil | lamazonie.com.br/pages/perguntas-frequentes; faixa do topo do site ("Frete grátis acima de R$199!") | 2026-11-16 | 2026-12-16 | Sem leitura de o mínimo contar antes ou depois do cupom | Alta |
 | Pagamento: cartão de crédito em até 6x sem juros e Pix; no checkout, Visa, Mastercard, Elo, American Express, Diners, Discover e Hipercard | condicao_comercial_volatil | lamazonie.com.br/pages/perguntas-frequentes; print do pagamento do checkout (Bruno, 16/11/2026) | 2026-11-16 | 2026-12-16 | — | Alta |
 | Link da parceria: não há; `offerUrl` = `https://www.lamazonie.com.br/` | condicao_comercial_volatil | Bruno, 16/11/2026 (mandou só o site e o cupom) | 2026-11-16 | 2026-12-16 | A venda conta pelo cupom | Alta |
+| Link de afiliado da loja oficial no Mercado Livre: existe ou pode ser gerado; endereço ainda não registrado | condicao_comercial_volatil | Bruno, 17/11/2026 | 2026-11-17 | 2026-12-17 | O `CECILIA` não vale no Mercado Livre. Preço de anúncio só pelo botão, fora de campanha | Média |
+| Relatório de resgates do código `CECILIA`: não existe | condicao_comercial_volatil | Bruno, 17/11/2026 | 2026-11-17 | 2027-02-16 | Sem painel nem relatório: não há leitura de vendas pelo código | Alta |
 
 Teste da sessão de cupons, 2026-11-16 (Chrome, sem login, sem dados pessoais e sem finalizar): Sérum para crescimento
 de Cílios e Sobrancelhas, 1 sérum, R$ 159,00 (preço cheio), e Kit 2 Protetores Solares de Tratamento FPS 99,

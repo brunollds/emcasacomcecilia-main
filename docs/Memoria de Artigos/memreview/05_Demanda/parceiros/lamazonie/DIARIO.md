@@ -42,8 +42,8 @@ arquivo, o `COMO-REFAZER.md` e o `LICOES.md`. O detalhe de cada etapa está em `
 5. Baixar à mão o CSV do Trends e abrir as perguntas dos anúncios do Mercado Livre?
 6. Coletar Instagram e Shorts numa próxima rodada?
 7. Nome de canal do YouTube pode ficar no repositório?
-8. Existe relatório de resgates do código `CECILIA`?
-9. Existe, ou dá para gerar, o link de afiliado da loja oficial da L'Amazonie no Mercado Livre?
+8. ~~Existe relatório de resgates do código `CECILIA`?~~ **Não** (Bruno, 17/11). O `comercial.csv` fica `@indisponivel` e a leitura comercial da loja não conta com esse dado.
+9. ~~Existe, ou dá para gerar, o link de afiliado da loja oficial da L'Amazonie no Mercado Livre?~~ **Sim** (Bruno, 17/11). Falta o endereço do link para as `op-lamazonie-0012` e `0013` andarem.
 10. ~~Quem testa o `CECILIA` na oferta anunciada até 26/11?~~ Testado em 17/11, a pedido do Bruno: o código entrou.
 
 Tempo total do piloto, somando as sessões: cerca de 2 horas de trabalho de sessão (122 minutos), entre 09:58 e 12:02 de 17/11/2026, mais a coordenação.
