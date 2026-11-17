@@ -19,14 +19,15 @@ navegador do app, sem login, sem criar conta e **sem abrir os links de afiliado*
 - **Reclame Aqui não vira artigo:** o perfil é não verificado, tem 14 reclamações e nenhuma resposta (seção 6). Entra
   como capítulo da PN2 e como matéria-prima da PN4.
 - **Ordem:** PN1 primeiro (a campanha está no ar), depois PN2 e PN4, por fim PN3.
-- **Idiomas:** a Proton está em `INTERNATIONAL_STORES` e os links valem em qualquer país. Os quatro briefings saem
-  **somente em PT**, por causa do prazo e porque os preços lidos são os da página brasileira, em reais. Família de 10
-  idiomas é decisão do Bruno; se vier, PN2 e PN3 são as candidatas (preço vira "confira na sua moeda").
+- **Idiomas (Bruno, 17/11): 10 idiomas.** Os quatro saem como família, com o PT de fonte. Fora do PT, nenhum valor
+  em real e nada que só vale no Brasil (Reclame Aqui, Pix, CDC); a regra de cada artigo está na seção "Família de 10
+  idiomas" do briefing.
 
 ## 2. Regras que valem para os quatro
 
-- **Não existe cupom nosso.** Nunca chamar o link de cupom, nunca prometer desconto pelo link. O desconto é da
-  campanha da própria Proton, e o artigo diz isso.
+- **Não existe cupom nosso.** Nunca chamar o link de cupom. O desconto é da campanha da Proton. **O link do painel
+  leva à campanha de parceiros, com 75% OFF (Bruno, 17/11):** o que o link mostra só entra em texto com o print da
+  página (PN1), e nunca como "exclusivo" ou "o maior".
 - **Nenhum código promocional**, nem da Proton, nem de sites de cupom, nem de outros afiliados (o topo do Google tem
   vários).
 - **JSON:** `affiliate: "proton"`, sem `coupon`. `cta` com o link do produto do artigo (VPN: `go.getproton.me/SH39K`),
@@ -44,8 +45,9 @@ navegador do app, sem login, sem criar conta e **sem abrir os links de afiliado*
   "anonimato total", "impossível de rastrear", "100% seguro".
 - **Nada de promessa de streaming** ("desbloqueia a Netflix") nem de driblar bloqueio de site ou de serviço. O que a
   Proton anuncia entra como "segundo a Proton". Nenhuma orientação para violar termos de serviço ou a lei.
-- **Experiência própria: sem informação.** Enquanto o Bruno não disser que usa (seção 8), os textos saem só com fontes
-  públicas: sem "testamos", sem medida de velocidade.
+- **Experiência própria (Bruno, 17/11): só o Proton Mail.** Do Proton VPN, do Pass, do Drive e do Lumo não há uso:
+  sem "testamos", sem medida de velocidade. O Proton Mail pode ser citado como o produto que usamos, com o que o
+  Bruno confirmar na redação (plano e desde quando).
 - **Concorrentes:** a tabela comparativa do site é material da Proton. Não reproduzir como fato nosso e não fazer
   "Proton ou X" neste pacote.
 
@@ -76,6 +78,11 @@ Fontes: `protonvpn.com/pt-br/pricing`, `protonvpn.com/pt-br/black-friday` e `pro
   - **Dois anos de Unlimited:** R$ 671,76 no plano de 2 anos; R$ 273,48 + R$ 419,88 = R$ 693,36 no de 1 ano mais
     renovação.
   - **Quatro planos Plus avulsos na campanha** somam R$ 420,72 no primeiro ano; o Unlimited custa R$ 273,48.
+- **Página de ofertas** (`protonvpn.com/pt-br/vpn-deals`, lida em 17/11), com outra tabela: VPN Plus de 24 meses a
+  R$ 10,49 por mês ("-70%"), R$ 251,76 pelos 24 meses; de 12 meses a R$ 13,99 por mês ("60%"); pacote VPN x Pass Plus
+  a R$ 17,49 por mês em 24 meses (R$ 419,76), que renova por R$ 377,88 ao ano; Unlimited de 24 meses a R$ 27,99 por
+  mês. As renovações são as mesmas da tabela acima. **O mesmo plano de 2 anos do VPN Plus custa R$ 294,96 na página
+  de preços e R$ 251,76 na de ofertas:** a redação cita o preço com o nome da página.
 - **Fora da campanha,** o FAQ da página de preços fala em 55% de desconto no plano de 1 ano do VPN Plus e 65% no de 2
   anos: o preço de 1 ano sem a campanha não foi lido em reais.
 
@@ -90,9 +97,10 @@ Fontes: `protonvpn.com/pt-br/pricing`, `protonvpn.com/pt-br/black-friday` e `pro
 - **Depois do período com desconto:** "sua assinatura será renovada automaticamente pelo preço padrão a cada ciclo de
   faturamento, a menos que você opte por cancelar".
 - **Empresas:** 40% em um ano de Proton Workspace para até 10 usuários. Fora do pacote.
-- **Fora do site:** veículos e afiliados estrangeiros anunciam 75% no plano de 2 anos do VPN Plus (US$ 2,49 por mês),
-  como oferta de parceiro. Não vimos essa oferta nas páginas públicas em reais. Se o painel de afiliado do Bruno tiver
-  link de campanha, muda a PN1 (seção 8).
+- **Oferta de parceiros, 75%:** veículos e afiliados estrangeiros anunciam 75% no plano de 2 anos do VPN Plus
+  (US$ 2,49 por mês). **O Bruno confirmou em 17/11 que o link do painel, o mesmo que está no site, é o dessa campanha.**
+  A página do link não foi lida (não abrimos o link); um site de análise brasileiro dá R$ 8,79 por mês, R$ 210,96 nos
+  24 meses, sem valor de fonte. Falta o print (seção 8).
 - **Sinal de confusão que a PN1 resolve:** uma reclamação recente no Reclame Aqui é de quem viu o preço "por mês" da
   Black Friday e foi cobrado pelo ano inteiro de uma vez.
 
@@ -146,12 +154,16 @@ Fontes: `protonvpn.com/pt-br/pricing`, `protonvpn.com/pt-br/black-friday` e `pro
   `/cupons/proton`, que diz que não há cupom.
 - **"proton mail ou gmail":** a página da própria Proton, a visão de IA, o Reddit e concorrentes. Fica no estoque.
 
-## 8. Perguntas para o Bruno
+## 8. Respostas do Bruno (17/11/2026) e o que ainda falta
 
-1. Você ou a Cecília usam algum produto da Proton (pago ou grátis)? Muda a PN2 e a PN3.
-2. O painel de afiliado tem link ou oferta própria de Black Friday (a de 2 anos que os parceiros de fora anunciam)?
-3. A campanha tem data de fim informada no painel?
-4. Os quatro artigos ficam só em PT, ou viram família de 10 idiomas depois?
+1. **Uso próprio:** só o Proton Mail.
+2. **Painel:** o link é o que ele enviou, da campanha atual, com 75% OFF.
+3. **Data de fim:** o painel não informa.
+4. **Idiomas:** 10.
+
+Falta: **o print da página que o link abre** (plano, preço em reais, valor cobrado de uma vez, renovação, quem pode),
+ou a liberação de uma abertura só para leitura; e o plano do Proton Mail que o Bruno usa e desde quando, para a frase
+de uso.
 
 ## 9. Recado para a sessão de cupons (`/cupons/proton`)
 
@@ -161,12 +173,15 @@ Fontes: `protonvpn.com/pt-br/pricing`, `protonvpn.com/pt-br/black-friday` e `pro
 - Formas de pagamento, pelo FAQ da página de preços: Visa, Mastercard, American Express, PayPal e créditos Proton;
   dinheiro, transferência e Bitcoin entram comprando créditos.
 - O reembolso é de 30 dias da compra inicial e só pode ser pedido uma vez por usuário (termos de 05/11/2026).
+- **O link leva à campanha de 75%** (Bruno, 17/11). A página e o banner falam em "até 70%" e dizem que o link não dá
+  desconto próprio: vale rever os dois textos quando o print chegar.
 
 ## 10. Estoque (sem GO)
 
-- **Proton Mail ou Gmail** ("proton mail ou gmail", "protonmail vale a pena", "proton mail é seguro", "é bom", "é
-  pago"): busca forte, topo ocupado pela própria Proton. Só vale com uso próprio ou com a tabela do que se perde ao
-  sair do Gmail.
+- **Proton Mail ou Gmail** / **Proton Mail vale a pena?** ("proton mail ou gmail", "protonmail vale a pena", "proton
+  mail é seguro", "é bom", "é pago"): busca forte, topo ocupado pela própria Proton. **Agora é a pauta mais forte do
+  estoque: o Bruno usa o Proton Mail (17/11).** Com o relato de uso (o que mudou ao sair ou conviver com o Gmail), é
+  o único artigo da Proton com experiência própria. Espera o GO.
 - **Proton Mail é seguro? / é bom?**, **Proton Pass é seguro?** ("proton pass vs bitwarden" tem sugestão), **Proton
   Drive é seguro? planos e preço**: um por produto, depois da PN2.
 - **Proton Unlimited vale a pena?** ("proton vpn plus vs unlimited", "proton unlimited price"): pode nascer da conta

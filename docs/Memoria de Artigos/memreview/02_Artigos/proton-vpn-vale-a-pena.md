@@ -9,16 +9,16 @@ reviewKind: "guia"
 type: "Guia de Compra"
 status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2), por último no pacote; se o Bruno confirmar uso próprio, o esqueleto ganha um capítulo"
+proxima_acao: "redação (Job 2), por último no pacote"
 bloqueado_por: "-"
 data_criacao: "2026-11-17"
 pauta_id: "PN3"
 i18n_cluster: null
-translationKey: null
-modo_i18n: "somente-pt"
+translationKey: "proton-vpn-vale-a-pena"
+modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
-idiomas_alvo: []
-status_i18n: "nao-aplicavel"
+idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
+status_i18n: "pendente"
 affiliate: "proton"
 coupon: null
 ---
@@ -86,7 +86,9 @@ Sem card de estilo.
 
 ## Regras
 
-- **Sem experiência própria** até o Bruno responder: nada de "testamos", velocidade medida ou "funcionou com".
+- **Sem uso do Proton VPN** (Bruno, 17/11: usa só o Proton Mail): nada de "testamos", velocidade medida ou
+  "funcionou com". O Proton Mail pode ser citado em uma frase, no capítulo do Unlimited, como o produto da Proton
+  que usamos.
 - **Nenhuma promessa de streaming** nem de acesso a conteúdo de outro país; nenhuma orientação para driblar bloqueio
   ou termos de serviço.
 - **Sem nota e sem ranking de VPN.** Sem "Proton ou X".
@@ -101,6 +103,22 @@ Sem card de estilo.
 2. A página de recursos do plano grátis (`protonvpn.com/pt-br/free-vpn`) e a central de ajuda sobre o que o grátis
    não inclui.
 3. `proton.me/pt-br/legal/terms`, pagamento e reembolso.
+
+## Família de 10 idiomas (Bruno, 17/11/2026)
+
+- **Paridade completa:** `translationKey: "proton-vpn-vale-a-pena"`, PT como fonte, as 10 versões publicadas juntas. A Proton está em
+  `INTERNATIONAL_STORES`: o mesmo `cta.url` vale em todo idioma. Link interno: `/cupons/proton` no PT e
+  `/<locale>/coupons/proton` nos outros.
+- **Nenhum valor em real fora do PT.** Nas outras versões, o preço entra na moeda que a página da Proton daquele
+  idioma mostrar (dólar ou euro), lido com data, ou não entra: fica o percentual e "confira o valor na sua moeda".
+- **Sem o Brasil fora do PT:** nada de Reclame Aqui, Pix, Procon ou CDC, e nenhuma frase que só vale para quem compra
+  do Brasil. No alemão, "Sie".
+- **Neste artigo:** a tabela de preço em reais é do PT. Fora do PT, a tabela por uso (grátis ou Plus) é a mesma, e o
+  preço sai na moeda lida ou vira "confira na página". O quadro `decision` tem o mesmo número de frases nas 10
+  versões.
+- **Interface e `type` no idioma de cada versão** (tabela do Job 4). Traduções geradas pelo Sonnet e revisadas pela
+  sessão, a partir do PT fechado.
+- **Imagens:** capa sem texto em português, uma para as 10; prints com valores em real ficam só no PT.
 
 ## Metadados sugeridos
 

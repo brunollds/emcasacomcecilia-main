@@ -14,11 +14,11 @@ bloqueado_por: "-"
 data_criacao: "2026-11-17"
 pauta_id: "PN4"
 i18n_cluster: null
-translationKey: null
-modo_i18n: "somente-pt"
+translationKey: "proton-vpn-reembolso"
+modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
-idiomas_alvo: []
-status_i18n: "nao-aplicavel"
+idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
+status_i18n: "pendente"
 affiliate: "proton"
 coupon: null
 ---
@@ -98,6 +98,22 @@ Sem quadro `decision` e sem card de estilo. O link da loja aparece uma vez, no f
    o que acontece com a conta depois do cancelamento.
 3. As páginas de reembolso da Google Play e da App Store, só para o link.
 4. O perfil do Reclame Aqui, para os temas.
+
+## Família de 10 idiomas (Bruno, 17/11/2026)
+
+- **Paridade completa:** `translationKey: "proton-vpn-reembolso"`, PT como fonte, as 10 versões publicadas juntas. A Proton está em
+  `INTERNATIONAL_STORES`: o mesmo `cta.url` vale em todo idioma. Link interno: `/cupons/proton` no PT e
+  `/<locale>/coupons/proton` nos outros.
+- **Nenhum valor em real fora do PT.** Nas outras versões, o preço entra na moeda que a página da Proton daquele
+  idioma mostrar (dólar ou euro), lido com data, ou não entra: fica o percentual e "confira o valor na sua moeda".
+- **Sem o Brasil fora do PT:** nada de Reclame Aqui, Pix, Procon ou CDC, e nenhuma frase que só vale para quem compra
+  do Brasil. No alemão, "Sie".
+- **Neste artigo:** os termos são os mesmos em todo idioma, então o corpo quase não muda. A frase do CDC, o Reclame
+  Aqui e o "banco emissor" como dica brasileira ficam só no PT; fora dele, "as regras de proteção ao consumidor do
+  seu país podem dar prazo próprio", sem citar lei.
+- **Interface e `type` no idioma de cada versão** (tabela do Job 4). Traduções geradas pelo Sonnet e revisadas pela
+  sessão, a partir do PT fechado.
+- **Imagens:** capa sem texto em português, uma para as 10; prints com valores em real ficam só no PT.
 
 ## Metadados sugeridos
 

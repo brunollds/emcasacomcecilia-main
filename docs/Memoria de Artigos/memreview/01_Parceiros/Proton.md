@@ -11,7 +11,7 @@ revisao_geral_ate: "2026-12-17"
 Loja de link, sem código nosso, cadastrada em 17/11/2026 a pedido do Bruno, com a página `/cupons/proton` e as
 traduções nos outros nove idiomas (`/<idioma>/coupons/proton`). É a primeira loja com links por produto
 (`productLinks`): um link de afiliado para cada produto, na seção "Links da Proton por produto". O pacote inicial de
-artigos (PN1 a PN4) tem briefing desde 17/11: fatos, preços em reais e regras em [[proton-fatos-1711]].
+artigos (PN1 a PN4), em família de 10 idiomas, tem briefing desde 17/11: fatos, preços em reais e regras em [[proton-fatos-1711]].
 
 ---
 
@@ -21,6 +21,8 @@ artigos (PN1 a PN4) tem briefing desde 17/11: fatos, preços em reais e regras e
 |---|---|---|---|---|---|---|
 | Links de afiliado, sem cupom e sem desconto próprio | condicao_comercial_volatil | `src/lib/couponsData.ts` (slug: `proton`, `offerMode: 'affiliate-link'`) | 2026-11-17 | 2026-12-17 | Bruno, 17/11: "não tem cupom pelo que vi, somente os links com tracking" | Alta |
 | Proton VPN `https://go.getproton.me/SH39K` (botão principal), Proton Mail `…/SH39L`, Proton Pass `…/SH39M`, Proton Drive `…/SH39N`, Lumo `…/SH39O` | condicao_comercial_volatil | `offerUrl` e `productLinks` em `src/lib/couponsData.ts` | 2026-11-17 | 2026-12-17 | Como vieram do Bruno. O do VPN leva a todos os planos VPN Plus e Proton Unlimited; o programa paga assinatura nova (inclusive de grátis para pago) e renovação. Nunca abrir nem clicar: o clique grava atribuição | Alta |
+| O link do painel é o da campanha de parceiros em vigor, com 75% OFF; o painel não informa data de fim | condicao_comercial_volatil | Bruno, 17/11/2026 | 2026-11-17 | 2026-12-01 | A página do link não foi lida (não abrir o link): plano e valores só com print do Bruno. As páginas públicas mostram até 70% | Média |
+| Uso próprio: o Bruno usa o Proton Mail; nenhum outro produto | experiencia_propria | Bruno, 17/11/2026 | 2026-11-17 | 2027-02-17 | Plano e tempo de uso a confirmar na redação | Alta |
 | Garantia de reembolso de 30 dias em todas as assinaturas | condicao_comercial_volatil | `https://protonvpn.com/pricing` (seção de planos e FAQ) | 2026-11-17 | 2026-12-17 | Lido sem login. Pagamento em dinheiro e por transferência bancária não tem reembolso (`https://proton.me/support/payment-options`) | Alta |
 | Preços em reais nas páginas `/pt-br`, com seletor BRL, CHF, EUR e USD. VPN Plus: R$ 34,99 por mês; 1 ano na Black Friday por R$ 125,88 (R$ 10,49/mês, "-70%" sobre o mensal), renova por R$ 293,88 a cada 12 meses; 2 anos por R$ 294,96. Unlimited: R$ 45,49 por mês; 1 ano por R$ 273,48, renova por R$ 419,88; 2 anos por R$ 671,76. Mail Plus e Drive Plus: R$ 105,48 no 1º ano, renovam por R$ 167,88. Pass Plus: R$ 83,88, renova por R$ 125,88 | condicao_comercial_volatil | `protonvpn.com/pt-br/pricing`, `protonvpn.com/pt-br/black-friday`, `proton.me/pt-br/black-friday` | 2026-11-17 | 2026-12-01 | Job 1, 17/11. Corrige a linha de pagamento da seção 2: o preço aparece em real. Campanha sem data de fim publicada; vale para contas novas; desconto calculado sobre o preço mensal | Alta |
 | Reembolso, pelos termos de 05/11/2026: 30 dias da compra inicial; cancelamento e pedido dentro do prazo, pelo formulário de suporte; uma vez por usuário; só para assinatura feita direto com a Proton; processado em até 30 dias | condicao_comercial_volatil | `proton.me/pt-br/legal/terms` | 2026-11-17 | 2027-02-17 | Renovação automática pelo preço vigente na data | Alta |

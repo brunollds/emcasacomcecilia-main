@@ -14,11 +14,11 @@ bloqueado_por: "-"
 data_criacao: "2026-11-17"
 pauta_id: "PN2"
 i18n_cluster: null
-translationKey: null
-modo_i18n: "somente-pt"
+translationKey: "proton-vpn-e-confiavel"
+modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
-idiomas_alvo: []
-status_i18n: "nao-aplicavel"
+idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
+status_i18n: "pendente"
 affiliate: "proton"
 coupon: null
 ---
@@ -90,7 +90,9 @@ Sem quadro `decision` (editorial) e sem card de estilo. O link para a loja apare
 
 ## Cuidados
 
-- **Só fontes públicas** enquanto o Bruno não disser que usa: sem "testamos", sem teste de vazamento.
+- **Uso próprio (Bruno, 17/11): só o Proton Mail.** O artigo pode dizer, em uma frase, que usamos o Proton Mail, da
+  mesma empresa, com o que o Bruno confirmar na redação (plano e desde quando). **Do Proton VPN não há uso:** sem
+  "testamos", sem teste de vazamento, sem velocidade.
 - Nunca "100% seguro", "anônimo", "impossível de rastrear", "a polícia não rastreia". A pergunta "a polícia pode
   rastrear uma VPN?" não entra no FAQ.
 - Casos de imprensa sobre pedidos de autoridades à Proton: só se a redação abrir fonte primária (o relatório de
@@ -107,13 +109,29 @@ Sem quadro `decision` (editorial) e sem card de estilo. O link para a loja apare
 4. `reclameaqui.com.br/empresa/proton-vpn/`, as abas de período e as reclamações recentes.
 5. As páginas do aplicativo na Google Play e na App Store (nota e desenvolvedor), no dia.
 
+## Família de 10 idiomas (Bruno, 17/11/2026)
+
+- **Paridade completa:** `translationKey: "proton-vpn-e-confiavel"`, PT como fonte, as 10 versões publicadas juntas. A Proton está em
+  `INTERNATIONAL_STORES`: o mesmo `cta.url` vale em todo idioma. Link interno: `/cupons/proton` no PT e
+  `/<locale>/coupons/proton` nos outros.
+- **Nenhum valor em real fora do PT.** Nas outras versões, o preço entra na moeda que a página da Proton daquele
+  idioma mostrar (dólar ou euro), lido com data, ou não entra: fica o percentual e "confira o valor na sua moeda".
+- **Sem o Brasil fora do PT:** nada de Reclame Aqui, Pix, Procon ou CDC, e nenhuma frase que só vale para quem compra
+  do Brasil. No alemão, "Sie".
+- **Neste artigo:** o capítulo do Reclame Aqui existe só no PT. Fora do PT, o lugar dele fica com o canal de
+  atendimento da Proton e, se a redação ler, a nota das lojas de aplicativos; a frase sobre a lei brasileira sai. O
+  FAQ existe nas 10 versões, com o mesmo número de perguntas.
+- **Interface e `type` no idioma de cada versão** (tabela do Job 4). Traduções geradas pelo Sonnet e revisadas pela
+  sessão, a partir do PT fechado.
+- **Imagens:** capa sem texto em português, uma para as 10; prints com valores em real ficam só no PT.
+
 ## Metadados sugeridos
 
 - **title:** Proton VPN é confiável? Quem está por trás, o que foi auditado e o que o plano grátis entrega (93 caracteres)
 - **seoTitle:** Proton VPN é confiável? Empresa, auditorias e plano grátis (58 caracteres)
 - **metaDescription (rascunho):** Proton VPN é confiável? Veja quem é a empresa, o que as auditorias conferiram, se o plano grátis é seguro e como ler as reclamações no Reclame Aqui. (148 caracteres)
 - **description (subtítulo, até 180):** Quem é a Proton, o que terceiros auditaram no Proton VPN, onde baixar com segurança, o que o plano grátis entrega e o que uma VPN não faz. (138 caracteres)
-- **editorialNote:** Feito com as páginas e os relatórios publicados pela Proton e os dados do Reclame Aqui. O link é de afiliado e pode gerar comissão.
+- **editorialNote:** Feito com as páginas e os relatórios publicados pela Proton e os dados do Reclame Aqui. Usamos o Proton Mail, não o VPN. O link é de afiliado e pode gerar comissão.
 - **cta:** Ver os planos do Proton VPN; `https://go.getproton.me/SH39K`.
 - **relatedArticles:** PN3, PN4 e PN1, os que estiverem no ar.
 
