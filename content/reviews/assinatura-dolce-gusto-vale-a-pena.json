@@ -14,7 +14,7 @@
     "url": "/sobre"
   },
   "description": "Assinatura Dolce Gusto vale a pena? A conta com 25% de desconto e frete grátis, quando a promoção avulsa sai mais barata e o que o cupom CECI e a máquina grátis entregam.",
-  "metaDescription": "Assinatura Dolce Gusto com o cupom CECI e 10% OFF: o preço da caixa com 25%, o gasto por mês e quando a promoção avulsa sai mais barata.",
+  "metaDescription": "Assinatura Dolce Gusto: o CECI dá 10% OFF na loja a partir de R$ 100; na assinatura, o acúmulo foi testado com o código em 5%. Veja a conta dos 25%.",
   "publishedAt": "5 de outubro de 2026",
   "publishedAtISO": "2026-10-05",
   "draft": false,
@@ -39,7 +39,7 @@
     {
       "heading": "Resposta rápida: a assinatura vale a pena?",
       "paragraphs": [
-        "Vale a pena para quem usa pelo menos 3 caixas a cada 1, 2 ou 3 meses: o desconto é de 25% em todos os sabores e o frete é grátis. Em promoção avulsa, comprar sem assinatura pode sair mais barato, e a assinatura não dá máquina grátis. Veja abaixo a conta, o cupom CECI e para quem compensa."
+        "Vale a pena para quem usa pelo menos 3 caixas a cada 1, 2 ou 3 meses: o desconto é de 25% e o frete é grátis. Em promoção avulsa, comprar sem assinatura pode sair mais barato. O CECI dá 10% na loja a partir de 100 reais; na assinatura, nosso teste foi com o código em 5%."
       ]
     },
     {
@@ -203,7 +203,7 @@
     {
       "heading": "O cupom CECI soma com a assinatura?",
       "paragraphs": [
-        "No teste de 04/10/2026, o CECI de 5% somou com a assinatura. O item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os direcionados a assinantes. O **CECI**, porém, não é um cupom do site: é o cupom de parceria do Em Casa com Cecília.",
+        "No teste de 04/10/2026, o CECI de 5% somou com a assinatura. O item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os direcionados a assinantes. O teste registra a aceitação naquele pedido; o acúmulo do CECI atual, de 10%, precisa ser conferido no checkout.",
         "Num dos nossos testes fechamos um pedido de assinatura com 4 caixas de R$ 29,90 e o cupom CECI. O resumo do checkout ficou assim:"
       ],
       "image": {
