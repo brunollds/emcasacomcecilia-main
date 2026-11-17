@@ -10,8 +10,8 @@ type: "Comparativo"
 status: "briefing"
 score: 70
 responsavel: "Job-1 (Claude Fable 5.2)"
-proxima_acao: "redação do PT (Job 2) e família de 10 idiomas (Job 4), com a F3 na main"
-bloqueado_por: "os links de produto convertidos da amostra (Bruno)"
+proxima_acao: "releitura do AliExpress por mercado (Job 1); depois, redação do PT (Job 2) e família de 10 idiomas (Job 4), com a amostra de [[shein-ou-aliexpress-amostra-1711]]"
+bloqueado_por: "a releitura do AliExpress por mercado (Job 1)"
 data_criacao: "2026-11-16"
 i18n_cluster: "shein"
 translationKey: "shein-vs-aliexpress"
@@ -61,6 +61,8 @@ tinha reputação "Boa" e o AliExpress, "Regular". O artigo não diz qual é mai
 4. Devolução: a regra da SHEIN e os três prazos do AliExpress.
 5. Imposto: a mesma regra nas duas, com link para o artigo que tem a tabela.
 6. O que o Reclame Aqui mostra, com as ressalvas.
+6a. O que cada uma vende: a amostra por categoria, com foto e link de cada peça, sem preço e sem "a mesma peça"
+   ([[shein-ou-aliexpress-amostra-1711]]). A redação decide a numeração final.
 7. Antes de comprar: o que conferir.
 8. E a Shopee e a Temu? Link para o SV1 e o SV2.
 9. Quadro "Leve se / Passe se" (`decision`) e FAQ: "qual chega mais rápido?", "qual é mais barata?" (o artigo não
@@ -135,10 +137,13 @@ academia. Regras e limites em [[shein-ou-pares-plano-1611]], seção 5.
 
 - `affiliate: ["shein", "aliexpress"]`, sem `coupon` e sem `cta`; `translationKey: "shein-vs-aliexpress"`;
   `category: "guias-praticos-utilidade"`, `reviewKind: "guia"`, `type: "Comparativo"`, com `decision`.
-- `relatedArticles`: `shein-ou-shopee-temu`, `shein-e-confiavel`, `codigo-de-indicacao-shein` e o slug do SV2.
+- `relatedArticles`: `shein-ou-shopee-temu`, `shein-e-confiavel`, `codigo-de-indicacao-shein` e `shein-ou-temu-qual-escolher`
+  (os dois no ar desde 17/11).
 - Capa nova com os dois logos (Job 6), sem palavras nas linhas, para servir aos 10 idiomas.
 
 ## Pendências
 
 - Releitura do AliExpress por mercado.
-- Amostra de produtos: aprovada em 16/11; faltam as peças e os links convertidos (Bruno).
+- Amostra de produtos: recebida e lida em 17/11, 23 peças do AliExpress em 7 categorias e o link geral "Moda feminina",
+  em [[shein-ou-aliexpress-amostra-1711]]; as 23 da SHEIN são as do SV1 ([[shein-ou-shopee-amostra-1711]]), mesmos links.
+- Antes do deploy, abrir duas ou três peças do AliExpress com outra região (ver as observações da amostra).
