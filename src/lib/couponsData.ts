@@ -193,8 +193,14 @@ export function formatBrasiliaDay(iso: string) {
   return new Date(iso).toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', timeZone: 'America/Sao_Paulo' });
 }
 
+// Um link de afiliado por produto da marca (Proton Mail, Proton VPN…), além do link principal do botão. A página da loja
+// mostra a seção "Links por produto" com um link patrocinado para cada um; a tradução repete os mesmos endereços, na
+// mesma ordem, e traduz o nome e a descrição.
+export type ProductLink = { name: string; url: string; description: string };
+
 export type AffiliateLinkOffer = CouponBase & {
   offerMode: 'affiliate-link';
+  productLinks?: ProductLink[];
   linkInstructions?: string[];
   // Aviso no fim de "Como acessar a oferta"; sem ele a página usa o aviso padrão de link.
   linkNote?: string;
@@ -1662,6 +1668,117 @@ const STORE_COUPONS: Coupon[] = [
     ],
     linkNote:
       'O link da Cecília não dá desconto próprio nem leva código: o preço e as promoções são os que o AliExpress mostra na página do produto e no carrinho.',
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'affiliate-link',
+    slug: 'proton',
+    brand: 'Proton',
+    officialUrl: 'https://proton.me',
+    // Links de afiliado como vieram do Bruno (17/11/2026), um por produto; o do botão principal é o do Proton VPN, que
+    // leva aos planos VPN Plus e Proton Unlimited. A Proton é global: os links valem para quem assina de qualquer país.
+    // Não editar nem conferir clicando: o clique registra atribuição.
+    offerUrl: 'https://go.getproton.me/SH39K',
+    brandIcon: 'P',
+    brandLogo: '/images/about/partners/proton.png',
+    brandLogoAlt: 'Marca Proton',
+    bubble: { src: '/images/logos/bolinhas/proton.png' },
+    brandWatermark: '/images/logos/watermarks/proton.webp',
+    brandColor: '#6D4AFF',
+    discount: 'Garantia de 30 dias',
+    offerTypeLabel: 'oferta',
+    offerTypeLabelPlural: 'ofertas',
+    offerActionLabel: 'Ver os planos do Proton VPN',
+    category: 'VPN, e-mail, senhas e nuvem com privacidade',
+    hubCategory: 'diversos',
+    shortDescription: 'links da Cecília para o Proton VPN, Mail, Pass, Drive e Lumo',
+    longDescription:
+      'O Em Casa com Cecília não tem cupom na Proton: os botões desta página abrem o site oficial pelo link da Cecília, um para cada produto. O preço e as promoções são os que a Proton mostra no checkout, e a Proton devolve o valor da assinatura se o pedido for feito nos primeiros 30 dias.',
+    metaTitle: 'Proton: links para VPN, Mail, Pass, Drive e Lumo',
+    metaDescription:
+      'Links da Cecília para o Proton VPN, Proton Mail, Proton Pass, Proton Drive e Lumo: planos grátis e pagos, com reembolso em até 30 dias. Não há cupom nosso.',
+    eligibleCategories: 'Planos pagos do Proton VPN, Proton Mail, Proton Pass, Proton Drive, Lumo e Proton Unlimited',
+    validity: 'Os preços e as promoções mudam: vale o que a Proton mostra no checkout no dia da assinatura',
+    reusable: 'Os links podem ser usados em toda assinatura',
+    shipping: 'Não se aplica: os planos são digitais e liberados na conta Proton',
+    combinable: 'O link não dá desconto próprio: valem as promoções que a Proton mostrar na página de planos e no checkout',
+    lastVerified: '2026-11-17',
+    aboutBrand:
+      'A Proton é uma empresa suíça de serviços com foco em privacidade e criptografia: VPN, e-mail, gerenciador de senhas, armazenamento em nuvem e o Lumo, um assistente de inteligência artificial. Os produtos têm plano grátis, e os pagos podem ser assinados um a um ou juntos no Proton Unlimited. Esta página reúne os links da Cecília para cada produto. Assinaturas feitas pelos links podem gerar comissão para o Em Casa com Cecília, sem custo adicional para quem assina.',
+    productLinks: [
+      {
+        name: 'Proton VPN',
+        url: 'https://go.getproton.me/SH39K',
+        description:
+          'VPN com plano grátis e o VPN Plus, para até 10 aparelhos e servidores em mais de 140 países. O link leva também ao Proton Unlimited.',
+      },
+      {
+        name: 'Proton Mail',
+        url: 'https://go.getproton.me/SH39L',
+        description: 'E-mail com criptografia de ponta a ponta, com plano grátis e planos pagos com mais espaço e endereços.',
+      },
+      {
+        name: 'Proton Pass',
+        url: 'https://go.getproton.me/SH39M',
+        description: 'Gerenciador de senhas com criptografia, para guardar senhas, cartões e notas e preencher logins no navegador e no celular.',
+      },
+      {
+        name: 'Proton Drive',
+        url: 'https://go.getproton.me/SH39N',
+        description: 'Armazenamento em nuvem com criptografia de ponta a ponta para fotos e documentos, com plano grátis.',
+      },
+      {
+        name: 'Lumo',
+        url: 'https://go.getproton.me/SH39O',
+        description: 'O assistente de inteligência artificial da Proton, feito para conversar sem abrir mão da privacidade.',
+      },
+    ],
+    faqs: [
+      {
+        question: 'Tem cupom da Cecília na Proton?',
+        answer:
+          'Não. O Em Casa com Cecília tem links de afiliado da Proton, um para cada produto, e não um cupom: o link abre o site oficial, e o preço e as promoções são os que a Proton mostra no checkout.',
+      },
+      {
+        question: 'A Proton devolve o dinheiro se eu não gostar?',
+        answer:
+          'Sim. Pela página de planos do Proton VPN, lida em 17/11/2026, a Proton devolve o valor de qualquer assinatura se o pedido for feito nos primeiros 30 dias. Pagamentos em dinheiro e por transferência bancária não têm reembolso, segundo a central de ajuda da Proton.',
+      },
+      {
+        question: 'A Proton tem plano grátis?',
+        answer:
+          'Tem. Pelas páginas de planos lidas em 17/11/2026, o Proton VPN grátis protege 1 aparelho por vez, com servidores em 10 países, e a conta grátis inclui e-mail e 5 GB no Proton Drive. Os planos pagos liberam mais aparelhos, espaço e recursos.',
+      },
+      {
+        question: 'Quais formas de pagamento a Proton aceita?',
+        answer:
+          'Pela central de ajuda da Proton, lida em 17/11/2026: cartão de crédito e de débito, PayPal, Apple Pay, Google Pay, Bitcoin, dinheiro e transferência bancária. Os preços aparecem em dólar, euro ou franco suíço.',
+      },
+      {
+        question: 'O que é o Proton Unlimited?',
+        answer:
+          'É o plano que junta os produtos pagos da Proton numa assinatura só. O link do Proton VPN, nesta página, leva aos planos VPN Plus e Proton Unlimited.',
+      },
+      {
+        question: 'Preciso copiar algum código para assinar pelo link?',
+        answer:
+          'Não. Basta abrir a Proton pelo botão do produto que você quer e assinar normalmente. Não há código nosso para colar no checkout.',
+      },
+      {
+        question: 'Assinar pelo link gera comissão para a Cecília?',
+        answer:
+          'Pode gerar. A Proton pode pagar comissão ao Em Casa com Cecília por assinaturas feitas pelos links desta página, inclusive renovações, sem custo adicional para quem assina.',
+      },
+    ],
+    linkInstructions: [
+      'Escolha o produto em “Links da Proton por produto” ou toque em “Ver os planos do Proton VPN”: o link da Cecília abre o site oficial, sem copiar nada.',
+      'Compare os planos: os produtos têm plano grátis e planos pagos, por mês ou por ano.',
+      'Crie a conta Proton, ou entre na sua, e confira o preço no checkout, na moeda que a Proton mostrar.',
+      'Se não gostar, peça o reembolso nos primeiros 30 dias.',
+    ],
+    linkNote:
+      'O link da Cecília não dá desconto próprio nem leva código: o preço e as promoções são os que a Proton mostra na página de planos e no checkout.',
     status: 'ativo',
     featured: false,
   },

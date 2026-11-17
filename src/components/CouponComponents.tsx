@@ -88,6 +88,8 @@ type CouponStoreLinkProps = {
     | 'coupon_page'
     // Link da marca no Mercado Livre, dentro do FAQ da página da loja.
     | 'coupon_page_faq_mercado_livre'
+    // Os links por produto da página da loja (productLinks, como os da Proton).
+    | 'coupon_page_product'
     | 'coupon_hub'
     | 'coupon_hub_featured'
     | 'bottom_bar'

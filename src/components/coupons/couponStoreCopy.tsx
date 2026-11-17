@@ -94,6 +94,8 @@ export type CouponStoreCopy = {
   defaultCodeField: string;
   codeFieldNote: (field: ReactNode) => ReactNode;
   defaultLinkNote: string;
+  // "Links por produto" da loja de link com productLinks.
+  productLinks: { title: (brand: string) => string; cta: (name: string) => string };
   aboutTitle: (store: StoreName) => string;
   relatedTitle: string;
   relatedType: { review: string; post: string };
@@ -243,6 +245,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     codeFieldNote: (field) => <>Campo correto: {field}. Confirme sempre o resumo do pedido antes de pagar.</>,
     defaultLinkNote:
       'Esta oferta é acessada pelo link indicado e não exige código para copiar. Confirme as condições na loja antes de pagar.',
+    productLinks: { title: (brand) => `Links da ${brand} por produto`, cta: (name) => `Ver ${name}` },
     aboutTitle: (store) => `Sobre ${theStore(store)}`,
     relatedTitle: 'Leia antes de comprar',
     relatedType: { review: 'Review', post: 'Post' },
@@ -368,6 +371,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     codeFieldNote: (field) => <>Right field: {field}. Always check the order summary before paying.</>,
     defaultLinkNote:
       'This offer opens through the link provided and needs no code. Check the conditions in the store before paying.',
+    productLinks: { title: (brand) => `${brand} links by product`, cta: (name) => `See ${name}` },
     aboutTitle: ({ brand }) => `About ${brand}`,
     relatedTitle: 'Read before you buy',
     relatedType: { review: 'Review', post: 'Post' },
@@ -491,6 +495,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     codeFieldNote: (field) => <>Campo correcto: {field}. Revisa siempre el resumen del pedido antes de pagar.</>,
     defaultLinkNote:
       'Esta oferta se abre con el enlace indicado y no necesita código. Comprueba las condiciones en la tienda antes de pagar.',
+    productLinks: { title: (brand) => `Enlaces de ${brand} por producto`, cta: (name) => `Ver ${name}` },
     aboutTitle: ({ brand }) => `Sobre ${brand}`,
     relatedTitle: 'Lee antes de comprar',
     relatedType: { review: 'Reseña', post: 'Post' },
@@ -617,6 +622,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     ),
     defaultLinkNote:
       "Cette offre s'ouvre via le lien indiqué et ne demande aucun code. Vérifiez les conditions sur la boutique avant de payer.",
+    productLinks: { title: (brand) => `Liens ${brand} par produit`, cta: (name) => `Voir ${name}` },
     aboutTitle: ({ brand }) => `À propos de ${brand}`,
     relatedTitle: "À lire avant d'acheter",
     relatedType: { review: 'Avis', post: 'Article' },
@@ -740,6 +746,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     codeFieldNote: (field) => <>Richtiges Feld: {field}. Prüfe vor dem Bezahlen immer die Bestellübersicht.</>,
     defaultLinkNote:
       'Dieses Angebot öffnet sich über den angegebenen Link und braucht keinen Code. Prüfe die Bedingungen im Shop, bevor du bezahlst.',
+    productLinks: { title: (brand) => `${brand}-Links nach Produkt`, cta: (name) => `${name} ansehen` },
     aboutTitle: ({ brand }) => `Über ${brand}`,
     relatedTitle: 'Vor dem Kauf lesen',
     relatedType: { review: 'Test', post: 'Beitrag' },
@@ -864,6 +871,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     codeFieldNote: (field) => <>Campo giusto: {field}. Controlla sempre il riepilogo dell&apos;ordine prima di pagare.</>,
     defaultLinkNote:
       'Questa offerta si apre con il link indicato e non richiede codici. Controlla le condizioni nel negozio prima di pagare.',
+    productLinks: { title: (brand) => `Link di ${brand} per prodotto`, cta: (name) => `Vedi ${name}` },
     aboutTitle: ({ brand }) => `Informazioni su ${brand}`,
     relatedTitle: 'Da leggere prima di comprare',
     relatedType: { review: 'Recensione', post: 'Articolo' },
@@ -985,6 +993,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     defaultCodeField: '쿠폰/할인 코드 입력란',
     codeFieldNote: (field) => <>입력란: {field}. 결제 전에 항상 주문 요약을 확인하세요.</>,
     defaultLinkNote: '이 혜택은 안내된 링크로 열리며 코드가 필요하지 않습니다. 결제 전에 스토어에서 조건을 확인하세요.',
+    productLinks: { title: (brand) => `제품별 ${brand} 링크`, cta: (name) => `${name} 보기` },
     aboutTitle: ({ brand }) => `${brand} 소개`,
     relatedTitle: '구매 전에 읽어 보세요',
     relatedType: { review: '리뷰', post: '포스트' },
@@ -1107,6 +1116,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     defaultCodeField: 'クーポン／割引コードの入力欄',
     codeFieldNote: (field) => <>入力欄：{field}。お支払い前に必ず注文内容をご確認ください。</>,
     defaultLinkNote: 'このオファーは案内のリンクから開き、コードは不要です。お支払い前にストアで条件をご確認ください。',
+    productLinks: { title: (brand) => `製品別の ${brand} リンク`, cta: (name) => `${name} を見る` },
     aboutTitle: ({ brand }) => `${brand} について`,
     relatedTitle: '購入前に読む',
     relatedType: { review: 'レビュー', post: '記事' },
@@ -1226,6 +1236,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     defaultCodeField: '優惠碼／折扣欄位',
     codeFieldNote: (field) => <>正確欄位：{field}。付款前請務必確認訂單摘要。</>,
     defaultLinkNote: '此優惠透過指定連結開啟，無需代碼。付款前請在商店確認條件。',
+    productLinks: { title: (brand) => `${brand} 各產品連結`, cta: (name) => `查看 ${name}` },
     aboutTitle: ({ brand }) => `關於 ${brand}`,
     relatedTitle: '購買前先看',
     relatedType: { review: '評測', post: '文章' },
@@ -1347,6 +1358,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     defaultCodeField: '优惠码／折扣栏',
     codeFieldNote: (field) => <>正确栏位：{field}。付款前请务必确认订单摘要。</>,
     defaultLinkNote: '此优惠通过指定链接打开，无需代码。付款前请在商店确认条件。',
+    productLinks: { title: (brand) => `${brand} 各产品链接`, cta: (name) => `查看 ${name}` },
     aboutTitle: ({ brand }) => `关于 ${brand}`,
     relatedTitle: '购买前先看',
     relatedType: { review: '测评', post: '文章' },

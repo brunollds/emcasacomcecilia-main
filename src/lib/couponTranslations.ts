@@ -5,6 +5,7 @@ import {
   type CouponCodeOffer,
   type CouponFAQ,
   type CouponReferral,
+  type ProductLink,
   type StackingRow,
   type StoreVideo,
 } from './couponsData';
@@ -49,6 +50,9 @@ export type AffiliateOfferTranslation = OfferTranslationBase & {
   offerActionLabel: string;
   linkInstructions: string[];
   linkNote: string;
+  // Obrigatório quando o cupom em PT tem productLinks: os mesmos endereços, na mesma ordem, com o nome e a descrição do
+  // idioma.
+  productLinks?: ProductLink[];
   // O print do site em inglês, com o alt e a legenda do idioma. Sem ele, a página do idioma fica sem print. O
   // `article` é o passo a passo no idioma da página.
   cartPrint?: CartPrint;
@@ -1919,6 +1923,856 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
 
 // Indicação sem código para digitar: os 20% valem só no primeiro período de plano novo e não somam
 // com outros cupons, como no PT.
+// Os mesmos 5 links de afiliado do PT, um por produto: a Proton é global e leva o visitante ao site no idioma dele.
+const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
+  en: {
+    discount: '30-day money-back guarantee',
+    offerTypeLabel: 'offer',
+    offerTypeLabelPlural: 'offers',
+    offerActionLabel: 'See Proton VPN plans',
+    category: 'VPN, email, passwords and cloud storage with privacy',
+    shortDescription: 'Cecília\'s links to Proton VPN, Mail, Pass, Drive and Lumo',
+    longDescription:
+      'Em Casa com Cecília has no coupon for Proton: the buttons on this page open the official site through Cecília\'s link, one for each product. The price and promotions are the ones Proton shows at checkout, and Proton refunds the subscription if the order is placed within the first 30 days.',
+    metaTitle: 'Proton: links to VPN, Mail, Pass, Drive and Lumo',
+    metaDescription:
+      'Cecília\'s links to Proton VPN, Proton Mail, Proton Pass, Proton Drive and Lumo: free and paid plans, with a refund within 30 days. No coupon from us.',
+    eligibleCategories: 'Paid plans of Proton VPN, Proton Mail, Proton Pass, Proton Drive, Lumo and Proton Unlimited',
+    validity: 'Prices and promotions change: what counts is what Proton shows at checkout on the day you subscribe',
+    reusable: 'The links can be used on every subscription',
+    shipping: 'Not applicable: the plans are digital and activated in your Proton account',
+    combinable: 'The link gives no discount of its own: the promotions Proton shows on the plans page and at checkout apply',
+    aboutBrand:
+      'Proton is a Swiss company focused on privacy and encryption: VPN, email, a password manager, cloud storage and Lumo, an artificial intelligence assistant. The products have a free plan, and the paid ones can be subscribed to one by one or together in Proton Unlimited. This page gathers Cecília\'s links for each product. Subscriptions made through the links may earn Em Casa com Cecília a commission, at no extra cost to the subscriber.',
+    brandLogoAlt: 'Proton logo',
+    productLinks: [
+      {
+        name: 'Proton VPN',
+        url: 'https://go.getproton.me/SH39K',
+        description:
+          'VPN with a free plan and VPN Plus, for up to 10 devices and servers in more than 140 countries. The link also leads to Proton Unlimited.',
+      },
+      {
+        name: 'Proton Mail',
+        url: 'https://go.getproton.me/SH39L',
+        description: 'End-to-end encrypted email, with a free plan and paid plans with more storage and addresses.',
+      },
+      {
+        name: 'Proton Pass',
+        url: 'https://go.getproton.me/SH39M',
+        description: 'Encrypted password manager for storing passwords, cards and notes and filling in logins in the browser and on your phone.',
+      },
+      {
+        name: 'Proton Drive',
+        url: 'https://go.getproton.me/SH39N',
+        description: 'End-to-end encrypted cloud storage for photos and documents, with a free plan.',
+      },
+      {
+        name: 'Lumo',
+        url: 'https://go.getproton.me/SH39O',
+        description: 'Proton\'s artificial intelligence assistant, built for chatting without giving up your privacy.',
+      },
+    ],
+    faqs: [
+      {
+        question: 'Does Cecília have a Proton coupon?',
+        answer:
+          'No. Em Casa com Cecília has Proton affiliate links, one for each product, not a coupon: the link opens the official site, and the price and promotions are the ones Proton shows at checkout.',
+      },
+      {
+        question: 'Does Proton refund my money if I don\'t like it?',
+        answer:
+          'Yes. According to the Proton VPN plans page, read on November 17, 2026, Proton refunds any subscription if the order is placed within the first 30 days. Payments made in cash or by bank transfer are not refundable, according to Proton\'s help center.',
+      },
+      {
+        question: 'Does Proton have a free plan?',
+        answer:
+          'Yes. According to the plans pages read on November 17, 2026, free Proton VPN protects 1 device at a time, with servers in 10 countries, and the free account includes email and 5 GB on Proton Drive. The paid plans unlock more devices, storage and features.',
+      },
+      {
+        question: 'What payment methods does Proton accept?',
+        answer:
+          'According to Proton\'s help center, read on November 17, 2026: credit and debit cards, PayPal, Apple Pay, Google Pay, Bitcoin, cash and bank transfer. Prices appear in dollars, euros or Swiss francs.',
+      },
+      {
+        question: 'What is Proton Unlimited?',
+        answer:
+          'It is the plan that brings Proton\'s paid products together in a single subscription. The Proton VPN link on this page leads to the VPN Plus and Proton Unlimited plans.',
+      },
+      {
+        question: 'Do I need to copy a code to subscribe through the link?',
+        answer:
+          'No. Just open Proton with the button for the product you want and subscribe as usual. There is no code from us to paste at checkout.',
+      },
+      {
+        question: 'Does subscribing through the link earn Cecília a commission?',
+        answer:
+          'It may. Proton may pay Em Casa com Cecília a commission on subscriptions made through the links on this page, renewals included, at no extra cost to the subscriber.',
+      },
+    ],
+    linkInstructions: [
+      'Pick the product under “Proton links by product” or tap “See Proton VPN plans”: Cecília\'s link opens the official site, with nothing to copy.',
+      'Compare the plans: the products have a free plan and paid plans, monthly or yearly.',
+      'Create a Proton account, or log in to yours, and check the price at checkout, in the currency Proton shows.',
+      'If you don\'t like it, ask for a refund within the first 30 days.',
+    ],
+    linkNote:
+      'Cecília\'s link gives no discount of its own and carries no code: the price and promotions are the ones Proton shows on the plans page and at checkout.',
+  },
+  es: {
+    discount: 'Garantía de devolución de 30 días',
+    offerTypeLabel: 'oferta',
+    offerTypeLabelPlural: 'ofertas',
+    offerActionLabel: 'Ver los planes de Proton VPN',
+    category: 'VPN, correo, contraseñas y nube con privacidad',
+    shortDescription: 'enlaces de Cecília a Proton VPN, Mail, Pass, Drive y Lumo',
+    longDescription:
+      'Em Casa com Cecília no tiene cupón de Proton: los botones de esta página abren el sitio oficial con el enlace de Cecília, uno para cada producto. El precio y las promociones son los que Proton muestra en el pago, y Proton devuelve el importe de la suscripción si el pedido se hace en los primeros 30 días.',
+    metaTitle: 'Proton: enlaces a VPN, Mail, Pass, Drive y Lumo',
+    metaDescription:
+      'Enlaces de Cecília a Proton VPN, Proton Mail, Proton Pass, Proton Drive y Lumo: planes gratuitos y de pago, con reembolso en un plazo de 30 días. No hay cupón nuestro.',
+    eligibleCategories: 'Planes de pago de Proton VPN, Proton Mail, Proton Pass, Proton Drive, Lumo y Proton Unlimited',
+    validity: 'Los precios y las promociones cambian: vale lo que Proton muestra en el pago el día de la suscripción',
+    reusable: 'Los enlaces se pueden usar en cualquier suscripción',
+    shipping: 'No se aplica: los planes son digitales y se activan en tu cuenta de Proton',
+    combinable: 'El enlace no da un descuento propio: valen las promociones que Proton muestre en la página de planes y en el pago',
+    aboutBrand:
+      'Proton es una empresa suiza centrada en la privacidad y el cifrado: VPN, correo, gestor de contraseñas, almacenamiento en la nube y Lumo, un asistente de inteligencia artificial. Los productos tienen un plan gratuito, y los de pago se pueden contratar uno a uno o juntos en Proton Unlimited. Esta página reúne los enlaces de Cecília para cada producto. Las suscripciones hechas con los enlaces pueden generar una comisión para Em Casa com Cecília, sin coste adicional para quien se suscribe.',
+    brandLogoAlt: 'Logotipo de Proton',
+    productLinks: [
+      {
+        name: 'Proton VPN',
+        url: 'https://go.getproton.me/SH39K',
+        description:
+          'VPN con plan gratuito y VPN Plus, para hasta 10 dispositivos y servidores en más de 140 países. El enlace lleva también a Proton Unlimited.',
+      },
+      {
+        name: 'Proton Mail',
+        url: 'https://go.getproton.me/SH39L',
+        description: 'Correo con cifrado de extremo a extremo, con plan gratuito y planes de pago con más espacio y direcciones.',
+      },
+      {
+        name: 'Proton Pass',
+        url: 'https://go.getproton.me/SH39M',
+        description: 'Gestor de contraseñas con cifrado, para guardar contraseñas, tarjetas y notas y rellenar inicios de sesión en el navegador y en el móvil.',
+      },
+      {
+        name: 'Proton Drive',
+        url: 'https://go.getproton.me/SH39N',
+        description: 'Almacenamiento en la nube con cifrado de extremo a extremo para fotos y documentos, con plan gratuito.',
+      },
+      {
+        name: 'Lumo',
+        url: 'https://go.getproton.me/SH39O',
+        description: 'El asistente de inteligencia artificial de Proton, creado para conversar sin renunciar a la privacidad.',
+      },
+    ],
+    faqs: [
+      {
+        question: '¿Cecília tiene un cupón de Proton?',
+        answer:
+          'No. Em Casa com Cecília tiene enlaces de afiliado de Proton, uno para cada producto, y no un cupón: el enlace abre el sitio oficial, y el precio y las promociones son los que Proton muestra en el pago.',
+      },
+      {
+        question: '¿Proton devuelve el dinero si no me gusta?',
+        answer:
+          'Sí. Según la página de planes de Proton VPN, consultada el 17 de noviembre de 2026, Proton devuelve el importe de cualquier suscripción si el pedido se hace en los primeros 30 días. Los pagos en efectivo y por transferencia bancaria no tienen reembolso, según el centro de ayuda de Proton.',
+      },
+      {
+        question: '¿Proton tiene plan gratuito?',
+        answer:
+          'Sí. Según las páginas de planes consultadas el 17 de noviembre de 2026, Proton VPN gratis protege 1 dispositivo a la vez, con servidores en 10 países, y la cuenta gratuita incluye correo y 5 GB en Proton Drive. Los planes de pago ofrecen más dispositivos, espacio y funciones.',
+      },
+      {
+        question: '¿Qué formas de pago acepta Proton?',
+        answer:
+          'Según el centro de ayuda de Proton, consultado el 17 de noviembre de 2026: tarjeta de crédito y de débito, PayPal, Apple Pay, Google Pay, Bitcoin, efectivo y transferencia bancaria. Los precios aparecen en dólares, euros o francos suizos.',
+      },
+      {
+        question: '¿Qué es Proton Unlimited?',
+        answer:
+          'Es el plan que reúne los productos de pago de Proton en una sola suscripción. El enlace de Proton VPN de esta página lleva a los planes VPN Plus y Proton Unlimited.',
+      },
+      {
+        question: '¿Tengo que copiar algún código para suscribirme con el enlace?',
+        answer:
+          'No. Basta con abrir Proton con el botón del producto que quieras y suscribirte con normalidad. No hay ningún código nuestro que pegar en el pago.',
+      },
+      {
+        question: '¿Suscribirme con el enlace genera una comisión para Cecília?',
+        answer:
+          'Puede generarla. Proton puede pagar una comisión a Em Casa com Cecília por las suscripciones hechas con los enlaces de esta página, renovaciones incluidas, sin coste adicional para quien se suscribe.',
+      },
+    ],
+    linkInstructions: [
+      'Elige el producto en «Enlaces de Proton por producto» o pulsa «Ver los planes de Proton VPN»: el enlace de Cecília abre el sitio oficial, sin copiar nada.',
+      'Compara los planes: los productos tienen plan gratuito y planes de pago, mensuales o anuales.',
+      'Crea tu cuenta de Proton, o entra en la que ya tienes, y comprueba el precio en el pago, en la moneda que muestre Proton.',
+      'Si no te gusta, pide el reembolso en los primeros 30 días.',
+    ],
+    linkNote:
+      'El enlace de Cecília no da un descuento propio ni lleva código: el precio y las promociones son los que Proton muestra en la página de planes y en el pago.',
+  },
+  fr: {
+    discount: 'Garantie de remboursement de 30 jours',
+    offerTypeLabel: 'offre',
+    offerTypeLabelPlural: 'offres',
+    offerActionLabel: 'Voir les offres Proton VPN',
+    category: 'VPN, e-mail, mots de passe et cloud respectueux de la vie privée',
+    shortDescription: 'liens de Cecília vers Proton VPN, Mail, Pass, Drive et Lumo',
+    longDescription:
+      'Em Casa com Cecília n\'a pas de code promo pour Proton : les boutons de cette page ouvrent le site officiel via le lien de Cecília, un par produit. Le prix et les promotions sont ceux que Proton affiche au paiement, et Proton rembourse l\'abonnement si la commande est passée dans les 30 premiers jours.',
+    metaTitle: 'Proton : liens vers VPN, Mail, Pass, Drive et Lumo',
+    metaDescription:
+      'Liens de Cecília vers Proton VPN, Proton Mail, Proton Pass, Proton Drive et Lumo : offres gratuites et payantes, avec remboursement sous 30 jours. Pas de code promo de notre part.',
+    eligibleCategories: 'Offres payantes de Proton VPN, Proton Mail, Proton Pass, Proton Drive, Lumo et Proton Unlimited',
+    validity: 'Les prix et les promotions changent : c\'est ce que Proton affiche au paiement le jour de l\'abonnement qui compte',
+    reusable: 'Les liens peuvent être utilisés pour chaque abonnement',
+    shipping: 'Sans objet : les offres sont numériques et activées dans votre compte Proton',
+    combinable: 'Le lien ne donne pas de réduction propre : les promotions que Proton affiche sur la page des offres et au paiement s\'appliquent',
+    aboutBrand:
+      'Proton est une entreprise suisse spécialisée dans la confidentialité et le chiffrement : VPN, e-mail, gestionnaire de mots de passe, stockage dans le cloud et Lumo, un assistant d\'intelligence artificielle. Les produits ont une offre gratuite, et les offres payantes peuvent être souscrites une à une ou ensemble avec Proton Unlimited. Cette page réunit les liens de Cecília pour chaque produit. Les abonnements souscrits via les liens peuvent rapporter une commission à Em Casa com Cecília, sans surcoût pour l\'abonné.',
+    brandLogoAlt: 'Logo Proton',
+    productLinks: [
+      {
+        name: 'Proton VPN',
+        url: 'https://go.getproton.me/SH39K',
+        description:
+          'VPN avec offre gratuite et VPN Plus, pour jusqu\'à 10 appareils et des serveurs dans plus de 140 pays. Le lien mène aussi à Proton Unlimited.',
+      },
+      {
+        name: 'Proton Mail',
+        url: 'https://go.getproton.me/SH39L',
+        description: 'E-mail chiffré de bout en bout, avec une offre gratuite et des offres payantes offrant plus d\'espace et d\'adresses.',
+      },
+      {
+        name: 'Proton Pass',
+        url: 'https://go.getproton.me/SH39M',
+        description: 'Gestionnaire de mots de passe chiffré, pour enregistrer mots de passe, cartes et notes et remplir les identifiants dans le navigateur et sur le téléphone.',
+      },
+      {
+        name: 'Proton Drive',
+        url: 'https://go.getproton.me/SH39N',
+        description: 'Stockage dans le cloud chiffré de bout en bout pour photos et documents, avec une offre gratuite.',
+      },
+      {
+        name: 'Lumo',
+        url: 'https://go.getproton.me/SH39O',
+        description: 'L\'assistant d\'intelligence artificielle de Proton, conçu pour discuter sans renoncer à la confidentialité.',
+      },
+    ],
+    faqs: [
+      {
+        question: 'Cecília a-t-elle un code promo Proton ?',
+        answer:
+          'Non. Em Casa com Cecília dispose de liens d\'affiliation Proton, un par produit, et non d\'un code promo : le lien ouvre le site officiel, et le prix et les promotions sont ceux que Proton affiche au paiement.',
+      },
+      {
+        question: 'Proton rembourse-t-il si le service ne me plaît pas ?',
+        answer:
+          'Oui. Selon la page des offres de Proton VPN, consultée le 17 novembre 2026, Proton rembourse tout abonnement si la commande est passée dans les 30 premiers jours. Les paiements en espèces et par virement bancaire ne sont pas remboursables, selon le centre d\'aide de Proton.',
+      },
+      {
+        question: 'Proton propose-t-il une offre gratuite ?',
+        answer:
+          'Oui. Selon les pages des offres consultées le 17 novembre 2026, Proton VPN gratuit protège 1 appareil à la fois, avec des serveurs dans 10 pays, et le compte gratuit comprend une messagerie et 5 Go sur Proton Drive. Les offres payantes débloquent plus d\'appareils, d\'espace et de fonctionnalités.',
+      },
+      {
+        question: 'Quels moyens de paiement Proton accepte-t-il ?',
+        answer:
+          'Selon le centre d\'aide de Proton, consulté le 17 novembre 2026 : carte bancaire de crédit et de débit, PayPal, Apple Pay, Google Pay, Bitcoin, espèces et virement bancaire. Les prix s\'affichent en dollars, en euros ou en francs suisses.',
+      },
+      {
+        question: 'Qu\'est-ce que Proton Unlimited ?',
+        answer:
+          'C\'est l\'offre qui réunit les produits payants de Proton dans un seul abonnement. Le lien Proton VPN de cette page mène aux offres VPN Plus et Proton Unlimited.',
+      },
+      {
+        question: 'Dois-je copier un code pour m\'abonner via le lien ?',
+        answer:
+          'Non. Il suffit d\'ouvrir Proton avec le bouton du produit qui vous intéresse et de vous abonner normalement. Il n\'y a aucun code de notre part à coller au paiement.',
+      },
+      {
+        question: 'S\'abonner via le lien rapporte-t-il une commission à Cecília ?',
+        answer:
+          'C\'est possible. Proton peut verser une commission à Em Casa com Cecília pour les abonnements souscrits via les liens de cette page, renouvellements compris, sans surcoût pour l\'abonné.',
+      },
+    ],
+    linkInstructions: [
+      'Choisissez le produit dans « Liens Proton par produit » ou appuyez sur « Voir les offres Proton VPN » : le lien de Cecília ouvre le site officiel, sans rien copier.',
+      'Comparez les offres : les produits ont une offre gratuite et des offres payantes, au mois ou à l\'année.',
+      'Créez votre compte Proton, ou connectez-vous au vôtre, et vérifiez le prix au paiement, dans la devise affichée par Proton.',
+      'Si le service ne vous plaît pas, demandez le remboursement dans les 30 premiers jours.',
+    ],
+    linkNote:
+      'Le lien de Cecília ne donne pas de réduction propre et ne comporte aucun code : le prix et les promotions sont ceux que Proton affiche sur la page des offres et au paiement.',
+  },
+  de: {
+    discount: '30 Tage Geld-zurück-Garantie',
+    offerTypeLabel: 'Angebot',
+    offerTypeLabelPlural: 'Angebote',
+    offerActionLabel: 'Proton-VPN-Tarife ansehen',
+    category: 'VPN, E-Mail, Passwörter und Cloud mit Datenschutz',
+    shortDescription: 'Cecílias Links zu Proton VPN, Mail, Pass, Drive und Lumo',
+    longDescription:
+      'Em Casa com Cecília hat keinen Gutscheincode für Proton: Die Buttons auf dieser Seite öffnen die offizielle Website über Cecílias Link, einen für jedes Produkt. Preis und Aktionen sind die, die Proton an der Kasse anzeigt, und Proton erstattet das Abo, wenn die Bestellung in den ersten 30 Tagen aufgegeben wird.',
+    metaTitle: 'Proton: Links zu VPN, Mail, Pass, Drive und Lumo',
+    metaDescription:
+      'Cecílias Links zu Proton VPN, Proton Mail, Proton Pass, Proton Drive und Lumo: kostenlose und bezahlte Tarife, mit Erstattung innerhalb von 30 Tagen. Kein Gutscheincode von uns.',
+    eligibleCategories: 'Bezahlte Tarife von Proton VPN, Proton Mail, Proton Pass, Proton Drive, Lumo und Proton Unlimited',
+    validity: 'Preise und Aktionen ändern sich: Es gilt, was Proton am Tag des Abschlusses an der Kasse anzeigt',
+    reusable: 'Die Links können bei jedem Abo genutzt werden',
+    shipping: 'Entfällt: Die Tarife sind digital und werden in deinem Proton-Konto freigeschaltet',
+    combinable: 'Der Link gibt keinen eigenen Rabatt: Es gelten die Aktionen, die Proton auf der Tarifseite und an der Kasse anzeigt',
+    aboutBrand:
+      'Proton ist ein Schweizer Unternehmen mit Schwerpunkt auf Datenschutz und Verschlüsselung: VPN, E-Mail, Passwortmanager, Cloud-Speicher und Lumo, ein Assistent mit künstlicher Intelligenz. Die Produkte haben einen kostenlosen Tarif, und die bezahlten lassen sich einzeln oder gemeinsam in Proton Unlimited abonnieren. Diese Seite bündelt Cecílias Links für jedes Produkt. Abos über die Links können Em Casa com Cecília eine Provision einbringen – ohne Mehrkosten für dich.',
+    brandLogoAlt: 'Proton-Logo',
+    productLinks: [
+      {
+        name: 'Proton VPN',
+        url: 'https://go.getproton.me/SH39K',
+        description:
+          'VPN mit kostenlosem Tarif und VPN Plus, für bis zu 10 Geräte und Server in mehr als 140 Ländern. Der Link führt auch zu Proton Unlimited.',
+      },
+      {
+        name: 'Proton Mail',
+        url: 'https://go.getproton.me/SH39L',
+        description: 'Ende-zu-Ende-verschlüsselte E-Mail, mit kostenlosem Tarif und bezahlten Tarifen mit mehr Speicher und Adressen.',
+      },
+      {
+        name: 'Proton Pass',
+        url: 'https://go.getproton.me/SH39M',
+        description: 'Verschlüsselter Passwortmanager zum Speichern von Passwörtern, Karten und Notizen und zum Ausfüllen von Logins im Browser und auf dem Handy.',
+      },
+      {
+        name: 'Proton Drive',
+        url: 'https://go.getproton.me/SH39N',
+        description: 'Ende-zu-Ende-verschlüsselter Cloud-Speicher für Fotos und Dokumente, mit kostenlosem Tarif.',
+      },
+      {
+        name: 'Lumo',
+        url: 'https://go.getproton.me/SH39O',
+        description: 'Protons Assistent mit künstlicher Intelligenz, gemacht zum Chatten, ohne auf Datenschutz zu verzichten.',
+      },
+    ],
+    faqs: [
+      {
+        question: 'Hat Cecília einen Gutscheincode für Proton?',
+        answer:
+          'Nein. Em Casa com Cecília hat Partnerlinks zu Proton, einen für jedes Produkt, keinen Gutscheincode: Der Link öffnet die offizielle Website, und Preis und Aktionen sind die, die Proton an der Kasse anzeigt.',
+      },
+      {
+        question: 'Erstattet Proton das Geld, wenn es mir nicht gefällt?',
+        answer:
+          'Ja. Laut der Tarifseite von Proton VPN, gelesen am 17. November 2026, erstattet Proton jedes Abo, wenn die Bestellung in den ersten 30 Tagen aufgegeben wird. Barzahlungen und Banküberweisungen werden laut Hilfe-Center von Proton nicht erstattet.',
+      },
+      {
+        question: 'Hat Proton einen kostenlosen Tarif?',
+        answer:
+          'Ja. Laut den Tarifseiten, gelesen am 17. November 2026, schützt das kostenlose Proton VPN 1 Gerät gleichzeitig, mit Servern in 10 Ländern, und das kostenlose Konto enthält E-Mail und 5 GB auf Proton Drive. Die bezahlten Tarife schalten mehr Geräte, Speicher und Funktionen frei.',
+      },
+      {
+        question: 'Welche Zahlungsarten akzeptiert Proton?',
+        answer:
+          'Laut Hilfe-Center von Proton, gelesen am 17. November 2026: Kredit- und Debitkarte, PayPal, Apple Pay, Google Pay, Bitcoin, Barzahlung und Banküberweisung. Die Preise werden in Dollar, Euro oder Schweizer Franken angezeigt.',
+      },
+      {
+        question: 'Was ist Proton Unlimited?',
+        answer:
+          'Das ist der Tarif, der die bezahlten Produkte von Proton in einem einzigen Abo zusammenfasst. Der Proton-VPN-Link auf dieser Seite führt zu den Tarifen VPN Plus und Proton Unlimited.',
+      },
+      {
+        question: 'Muss ich einen Code kopieren, um über den Link zu abonnieren?',
+        answer:
+          'Nein. Öffne einfach Proton über den Button des Produkts, das du möchtest, und schließe das Abo wie gewohnt ab. Es gibt keinen Code von uns, den du an der Kasse einfügen musst.',
+      },
+      {
+        question: 'Bekommt Cecília eine Provision, wenn ich über den Link abonniere?',
+        answer:
+          'Das ist möglich. Proton kann Em Casa com Cecília eine Provision für Abos zahlen, die über die Links auf dieser Seite abgeschlossen werden, Verlängerungen eingeschlossen – ohne Mehrkosten für dich.',
+      },
+    ],
+    linkInstructions: [
+      'Wähle das Produkt unter „Proton-Links nach Produkt“ oder tippe auf „Proton-VPN-Tarife ansehen“: Cecílias Link öffnet die offizielle Website, du musst nichts kopieren.',
+      'Vergleiche die Tarife: Die Produkte haben einen kostenlosen Tarif und bezahlte Tarife, monatlich oder jährlich.',
+      'Erstelle ein Proton-Konto oder melde dich in deinem an und prüfe den Preis an der Kasse, in der Währung, die Proton anzeigt.',
+      'Wenn es dir nicht gefällt, fordere die Erstattung in den ersten 30 Tagen an.',
+    ],
+    linkNote:
+      'Cecílias Link gibt keinen eigenen Rabatt und enthält keinen Code: Preis und Aktionen sind die, die Proton auf der Tarifseite und an der Kasse anzeigt.',
+  },
+  it: {
+    discount: 'Garanzia di rimborso di 30 giorni',
+    offerTypeLabel: 'offerta',
+    offerTypeLabelPlural: 'offerte',
+    offerActionLabel: 'Vedi i piani di Proton VPN',
+    category: 'VPN, e-mail, password e cloud con privacy',
+    shortDescription: 'link di Cecília per Proton VPN, Mail, Pass, Drive e Lumo',
+    longDescription:
+      'Em Casa com Cecília non ha un coupon per Proton: i pulsanti di questa pagina aprono il sito ufficiale con il link di Cecília, uno per ogni prodotto. Il prezzo e le promozioni sono quelli che Proton mostra al pagamento, e Proton rimborsa l\'abbonamento se l\'ordine viene fatto nei primi 30 giorni.',
+    metaTitle: 'Proton: link per VPN, Mail, Pass, Drive e Lumo',
+    metaDescription:
+      'Link di Cecília per Proton VPN, Proton Mail, Proton Pass, Proton Drive e Lumo: piani gratuiti e a pagamento, con rimborso entro 30 giorni. Nessun coupon nostro.',
+    eligibleCategories: 'Piani a pagamento di Proton VPN, Proton Mail, Proton Pass, Proton Drive, Lumo e Proton Unlimited',
+    validity: 'I prezzi e le promozioni cambiano: vale quello che Proton mostra al pagamento il giorno dell\'abbonamento',
+    reusable: 'I link possono essere usati a ogni abbonamento',
+    shipping: 'Non si applica: i piani sono digitali e vengono attivati nel tuo account Proton',
+    combinable: 'Il link non dà uno sconto proprio: valgono le promozioni che Proton mostra nella pagina dei piani e al pagamento',
+    aboutBrand:
+      'Proton è un\'azienda svizzera focalizzata su privacy e crittografia: VPN, e-mail, gestore di password, archiviazione cloud e Lumo, un assistente di intelligenza artificiale. I prodotti hanno un piano gratuito, e quelli a pagamento si possono sottoscrivere uno alla volta o insieme in Proton Unlimited. Questa pagina raccoglie i link di Cecília per ogni prodotto. Gli abbonamenti fatti con i link possono generare una commissione per Em Casa com Cecília, senza costi aggiuntivi per chi si abbona.',
+    brandLogoAlt: 'Logo Proton',
+    productLinks: [
+      {
+        name: 'Proton VPN',
+        url: 'https://go.getproton.me/SH39K',
+        description:
+          'VPN con piano gratuito e VPN Plus, per un massimo di 10 dispositivi e server in più di 140 paesi. Il link porta anche a Proton Unlimited.',
+      },
+      {
+        name: 'Proton Mail',
+        url: 'https://go.getproton.me/SH39L',
+        description: 'E-mail con crittografia end-to-end, con piano gratuito e piani a pagamento con più spazio e indirizzi.',
+      },
+      {
+        name: 'Proton Pass',
+        url: 'https://go.getproton.me/SH39M',
+        description: 'Gestore di password con crittografia, per conservare password, carte e note e compilare i login nel browser e sul telefono.',
+      },
+      {
+        name: 'Proton Drive',
+        url: 'https://go.getproton.me/SH39N',
+        description: 'Archiviazione cloud con crittografia end-to-end per foto e documenti, con piano gratuito.',
+      },
+      {
+        name: 'Lumo',
+        url: 'https://go.getproton.me/SH39O',
+        description: 'L\'assistente di intelligenza artificiale di Proton, pensato per conversare senza rinunciare alla privacy.',
+      },
+    ],
+    faqs: [
+      {
+        question: 'Cecília ha un coupon Proton?',
+        answer:
+          'No. Em Casa com Cecília ha link di affiliazione Proton, uno per ogni prodotto, e non un coupon: il link apre il sito ufficiale, e il prezzo e le promozioni sono quelli che Proton mostra al pagamento.',
+      },
+      {
+        question: 'Proton rimborsa i soldi se non mi piace?',
+        answer:
+          'Sì. Secondo la pagina dei piani di Proton VPN, letta il 17 novembre 2026, Proton rimborsa qualsiasi abbonamento se l\'ordine viene fatto nei primi 30 giorni. I pagamenti in contanti e con bonifico bancario non sono rimborsabili, secondo il centro assistenza di Proton.',
+      },
+      {
+        question: 'Proton ha un piano gratuito?',
+        answer:
+          'Sì. Secondo le pagine dei piani lette il 17 novembre 2026, Proton VPN gratuito protegge 1 dispositivo alla volta, con server in 10 paesi, e l\'account gratuito include e-mail e 5 GB su Proton Drive. I piani a pagamento sbloccano più dispositivi, spazio e funzioni.',
+      },
+      {
+        question: 'Quali metodi di pagamento accetta Proton?',
+        answer:
+          'Secondo il centro assistenza di Proton, letto il 17 novembre 2026: carta di credito e di debito, PayPal, Apple Pay, Google Pay, Bitcoin, contanti e bonifico bancario. I prezzi compaiono in dollari, euro o franchi svizzeri.',
+      },
+      {
+        question: 'Che cos\'è Proton Unlimited?',
+        answer:
+          'È il piano che riunisce i prodotti a pagamento di Proton in un solo abbonamento. Il link di Proton VPN in questa pagina porta ai piani VPN Plus e Proton Unlimited.',
+      },
+      {
+        question: 'Devo copiare un codice per abbonarmi dal link?',
+        answer:
+          'No. Basta aprire Proton con il pulsante del prodotto che vuoi e abbonarti come al solito. Non c\'è nessun codice nostro da incollare al pagamento.',
+      },
+      {
+        question: 'Abbonarsi dal link genera una commissione per Cecília?',
+        answer:
+          'Può succedere. Proton può pagare una commissione a Em Casa com Cecília per gli abbonamenti fatti con i link di questa pagina, rinnovi inclusi, senza costi aggiuntivi per chi si abbona.',
+      },
+    ],
+    linkInstructions: [
+      'Scegli il prodotto in “Link di Proton per prodotto” oppure tocca “Vedi i piani di Proton VPN”: il link di Cecília apre il sito ufficiale, senza copiare nulla.',
+      'Confronta i piani: i prodotti hanno un piano gratuito e piani a pagamento, mensili o annuali.',
+      'Crea un account Proton, o accedi al tuo, e controlla il prezzo al pagamento, nella valuta che Proton mostra.',
+      'Se non ti piace, chiedi il rimborso nei primi 30 giorni.',
+    ],
+    linkNote:
+      'Il link di Cecília non dà uno sconto proprio e non ha codici: il prezzo e le promozioni sono quelli che Proton mostra nella pagina dei piani e al pagamento.',
+  },
+  ko: {
+    discount: '30일 환불 보장',
+    offerTypeLabel: '혜택',
+    offerTypeLabelPlural: '혜택',
+    offerActionLabel: 'Proton VPN 요금제 보기',
+    category: '개인정보를 지키는 VPN, 이메일, 비밀번호, 클라우드',
+    shortDescription: 'Proton VPN, Mail, Pass, Drive, Lumo로 연결되는 Cecília의 링크',
+    longDescription:
+      'Em Casa com Cecília에는 Proton 쿠폰이 없습니다. 이 페이지의 버튼은 Cecília의 링크로 공식 사이트를 열며, 제품마다 버튼이 하나씩 있습니다. 가격과 프로모션은 Proton이 결제 화면에 표시하는 대로이며, 처음 30일 안에 주문하면 Proton이 구독 금액을 환불합니다.',
+    metaTitle: 'Proton: VPN, Mail, Pass, Drive, Lumo 링크',
+    metaDescription:
+      'Proton VPN, Proton Mail, Proton Pass, Proton Drive, Lumo로 연결되는 Cecília의 링크: 무료 및 유료 요금제, 30일 이내 환불. 쿠폰은 없습니다.',
+    eligibleCategories: 'Proton VPN, Proton Mail, Proton Pass, Proton Drive, Lumo, Proton Unlimited의 유료 요금제',
+    validity: '가격과 프로모션은 바뀝니다. 구독하는 날 Proton이 결제 화면에 표시하는 내용이 기준입니다',
+    reusable: '링크는 구독할 때마다 사용할 수 있습니다',
+    shipping: '해당 없음: 요금제는 디지털 상품이며 Proton 계정에서 바로 적용됩니다',
+    combinable: '링크 자체의 할인은 없으며, Proton이 요금제 페이지와 결제 화면에 표시하는 프로모션이 적용됩니다',
+    aboutBrand:
+      'Proton은 개인정보 보호와 암호화에 집중하는 스위스 기업으로, VPN, 이메일, 비밀번호 관리자, 클라우드 저장소, 그리고 인공지능 어시스턴트 Lumo를 제공합니다. 제품마다 무료 요금제가 있으며, 유료 요금제는 하나씩 구독하거나 Proton Unlimited로 함께 구독할 수 있습니다. 이 페이지에는 제품별 Cecília의 링크를 모았습니다. 링크로 구독하면 Em Casa com Cecília가 수수료를 받을 수 있으며, 구독자에게 추가 비용은 없습니다.',
+    brandLogoAlt: 'Proton 로고',
+    productLinks: [
+      {
+        name: 'Proton VPN',
+        url: 'https://go.getproton.me/SH39K',
+        description:
+          '무료 요금제와 최대 10대 기기, 140개국 이상 서버를 지원하는 VPN Plus가 있는 VPN. 이 링크는 Proton Unlimited로도 연결됩니다.',
+      },
+      {
+        name: 'Proton Mail',
+        url: 'https://go.getproton.me/SH39L',
+        description: '종단 간 암호화 이메일. 무료 요금제와 저장 공간과 주소가 더 많은 유료 요금제가 있습니다.',
+      },
+      {
+        name: 'Proton Pass',
+        url: 'https://go.getproton.me/SH39M',
+        description: '비밀번호, 카드, 메모를 보관하고 브라우저와 휴대폰에서 로그인 정보를 자동으로 입력해 주는 암호화 비밀번호 관리자입니다.',
+      },
+      {
+        name: 'Proton Drive',
+        url: 'https://go.getproton.me/SH39N',
+        description: '사진과 문서를 위한 종단 간 암호화 클라우드 저장소. 무료 요금제가 있습니다.',
+      },
+      {
+        name: 'Lumo',
+        url: 'https://go.getproton.me/SH39O',
+        description: '개인정보를 포기하지 않고 대화할 수 있도록 만든 Proton의 인공지능 어시스턴트입니다.',
+      },
+    ],
+    faqs: [
+      {
+        question: 'Cecília에게 Proton 쿠폰이 있나요?',
+        answer:
+          '아니요. Em Casa com Cecília에는 쿠폰이 아니라 제품마다 하나씩 Proton 제휴 링크가 있습니다. 링크를 누르면 공식 사이트가 열리며, 가격과 프로모션은 Proton이 결제 화면에 표시하는 대로입니다.',
+      },
+      {
+        question: '마음에 들지 않으면 Proton이 환불해 주나요?',
+        answer:
+          '네. 2026년 11월 17일에 확인한 Proton VPN 요금제 페이지에 따르면, 처음 30일 안에 주문하면 Proton이 모든 구독을 환불합니다. Proton 고객센터에 따르면 현금과 계좌 이체로 결제한 경우에는 환불되지 않습니다.',
+      },
+      {
+        question: 'Proton에는 무료 요금제가 있나요?',
+        answer:
+          '있습니다. 2026년 11월 17일에 확인한 요금제 페이지에 따르면, 무료 Proton VPN은 한 번에 1대의 기기를 보호하며 10개국 서버를 쓸 수 있고, 무료 계정에는 이메일과 Proton Drive 5GB가 포함됩니다. 유료 요금제는 더 많은 기기, 저장 공간, 기능을 제공합니다.',
+      },
+      {
+        question: 'Proton에서는 어떤 결제 수단을 사용할 수 있나요?',
+        answer:
+          '2026년 11월 17일에 확인한 Proton 고객센터에 따르면 신용카드와 체크카드, PayPal, Apple Pay, Google Pay, 비트코인, 현금, 계좌 이체를 사용할 수 있습니다. 가격은 달러, 유로 또는 스위스 프랑으로 표시됩니다.',
+      },
+      {
+        question: 'Proton Unlimited는 무엇인가요?',
+        answer:
+          'Proton의 유료 제품을 하나의 구독으로 묶은 요금제입니다. 이 페이지의 Proton VPN 링크는 VPN Plus와 Proton Unlimited 요금제로 연결됩니다.',
+      },
+      {
+        question: '링크로 구독할 때 코드를 복사해야 하나요?',
+        answer:
+          '아니요. 원하는 제품의 버튼으로 Proton을 연 뒤 평소처럼 구독하면 됩니다. 결제 화면에 붙여 넣을 코드는 없습니다.',
+      },
+      {
+        question: '링크로 구독하면 Cecília가 수수료를 받나요?',
+        answer:
+          '받을 수 있습니다. Proton은 이 페이지의 링크로 이뤄진 구독(갱신 포함)에 대해 Em Casa com Cecília에 수수료를 지급할 수 있으며, 구독자에게 추가 비용은 없습니다.',
+      },
+    ],
+    linkInstructions: [
+      '“제품별 Proton 링크”에서 제품을 고르거나 “Proton VPN 요금제 보기”를 누르세요. Cecília의 링크로 공식 사이트가 열리며, 복사할 것은 없습니다.',
+      '요금제를 비교하세요. 제품마다 무료 요금제와 월간 또는 연간 유료 요금제가 있습니다.',
+      'Proton 계정을 만들거나 기존 계정으로 로그인한 뒤, Proton이 표시하는 통화로 결제 화면의 가격을 확인하세요.',
+      '마음에 들지 않으면 처음 30일 안에 환불을 요청하세요.',
+    ],
+    linkNote:
+      'Cecília의 링크에는 자체 할인도 코드도 없습니다. 가격과 프로모션은 Proton이 요금제 페이지와 결제 화면에 표시하는 내용을 따릅니다.',
+  },
+  ja: {
+    discount: '30日間の返金保証',
+    offerTypeLabel: 'オファー',
+    offerTypeLabelPlural: 'オファー',
+    offerActionLabel: 'Proton VPN のプランを見る',
+    category: 'プライバシーを守る VPN、メール、パスワード、クラウド',
+    shortDescription: 'Proton VPN、Mail、Pass、Drive、Lumo への Cecília のリンク',
+    longDescription:
+      'Em Casa com Cecília に Proton のクーポンはありません。このページのボタンから Cecília のリンクで公式サイトが開きます。ボタンは製品ごとに 1 つずつあります。価格とプロモーションは、Proton が決済画面に表示するとおりです。最初の 30 日以内に注文すれば、Proton がサブスクリプション料金を返金します。',
+    metaTitle: 'Proton：VPN、Mail、Pass、Drive、Lumo のリンク',
+    metaDescription:
+      'Proton VPN、Proton Mail、Proton Pass、Proton Drive、Lumo への Cecília のリンク：無料プランと有料プラン、30 日以内の返金に対応。クーポンはありません。',
+    eligibleCategories: 'Proton VPN、Proton Mail、Proton Pass、Proton Drive、Lumo、Proton Unlimited の有料プラン',
+    validity: '価格とプロモーションは変わります。契約する日に Proton が決済画面に表示する内容が適用されます',
+    reusable: 'リンクは契約のたびに使えます',
+    shipping: '該当しません。プランはデジタル商品で、Proton アカウントですぐに使えます',
+    combinable: 'リンク自体に割引はありません。Proton がプランのページと決済画面に表示するプロモーションが適用されます',
+    aboutBrand:
+      'Proton は、プライバシーと暗号化に力を入れるスイスの企業で、VPN、メール、パスワードマネージャー、クラウドストレージ、そして AI アシスタントの Lumo を提供しています。どの製品にも無料プランがあり、有料プランは 1 つずつでも、Proton Unlimited でまとめても契約できます。このページでは製品ごとの Cecília のリンクをまとめています。リンクから契約すると Em Casa com Cecília に報酬が入ることがありますが、契約者の追加負担はありません。',
+    brandLogoAlt: 'Proton のロゴ',
+    productLinks: [
+      {
+        name: 'Proton VPN',
+        url: 'https://go.getproton.me/SH39K',
+        description:
+          '無料プランと、最大 10 台のデバイスと 140 か国以上のサーバーに対応する VPN Plus がある VPN。このリンクは Proton Unlimited にもつながります。',
+      },
+      {
+        name: 'Proton Mail',
+        url: 'https://go.getproton.me/SH39L',
+        description: 'エンドツーエンド暗号化のメール。無料プランと、容量とアドレスが増える有料プランがあります。',
+      },
+      {
+        name: 'Proton Pass',
+        url: 'https://go.getproton.me/SH39M',
+        description: 'パスワード、カード、メモを保管し、ブラウザとスマートフォンでログイン情報を自動入力できる、暗号化パスワードマネージャーです。',
+      },
+      {
+        name: 'Proton Drive',
+        url: 'https://go.getproton.me/SH39N',
+        description: '写真や書類のためのエンドツーエンド暗号化クラウドストレージ。無料プランがあります。',
+      },
+      {
+        name: 'Lumo',
+        url: 'https://go.getproton.me/SH39O',
+        description: 'プライバシーを手放さずに会話できるよう作られた、Proton の AI アシスタントです。',
+      },
+    ],
+    faqs: [
+      {
+        question: 'Cecília に Proton のクーポンはありますか？',
+        answer:
+          'いいえ。Em Casa com Cecília にあるのはクーポンではなく、製品ごとに 1 つずつの Proton のアフィリエイトリンクです。リンクから公式サイトが開き、価格とプロモーションは Proton が決済画面に表示するとおりです。',
+      },
+      {
+        question: '気に入らなかった場合、Proton は返金してくれますか？',
+        answer:
+          'はい。2026年11月17日に確認した Proton VPN のプランのページによると、最初の 30 日以内に注文すれば、Proton はどのサブスクリプションも返金します。Proton のヘルプセンターによると、現金と銀行振込での支払いは返金の対象外です。',
+      },
+      {
+        question: 'Proton に無料プランはありますか？',
+        answer:
+          'あります。2026年11月17日に確認したプランのページによると、無料の Proton VPN は同時に 1 台のデバイスを保護し、10 か国のサーバーを使えます。無料アカウントにはメールと Proton Drive の 5 GB が含まれます。有料プランでは、デバイス数、容量、機能が増えます。',
+      },
+      {
+        question: 'Proton ではどの支払い方法が使えますか？',
+        answer:
+          '2026年11月17日に確認した Proton のヘルプセンターによると、クレジットカードとデビットカード、PayPal、Apple Pay、Google Pay、ビットコイン、現金、銀行振込が使えます。価格はドル、ユーロ、スイスフランで表示されます。',
+      },
+      {
+        question: 'Proton Unlimited とは何ですか？',
+        answer:
+          'Proton の有料製品を 1 つのサブスクリプションにまとめたプランです。このページの Proton VPN のリンクは、VPN Plus と Proton Unlimited のプランにつながります。',
+      },
+      {
+        question: 'リンクから契約するとき、コードをコピーする必要はありますか？',
+        answer:
+          'いいえ。ご希望の製品のボタンから Proton を開き、いつもどおり契約するだけです。決済画面に貼り付ける当サイトのコードはありません。',
+      },
+      {
+        question: 'リンクから契約すると Cecília に報酬が入りますか？',
+        answer:
+          '入る場合があります。このページのリンクから行われた契約（更新を含む）について、Proton が Em Casa com Cecília に報酬を支払うことがありますが、契約者の追加負担はありません。',
+      },
+    ],
+    linkInstructions: [
+      '「製品別の Proton リンク」から製品を選ぶか、「Proton VPN のプランを見る」をタップします。Cecília のリンクで公式サイトが開くので、コピーするものはありません。',
+      'プランを比べます。どの製品にも無料プランと、月払いまたは年払いの有料プランがあります。',
+      'Proton アカウントを作成するか、お持ちのアカウントにログインし、Proton が表示する通貨で決済画面の価格を確認します。',
+      '気に入らなかった場合は、最初の 30 日以内に返金を申請します。',
+    ],
+    linkNote:
+      'Cecília のリンクに独自の割引やコードはありません。価格とプロモーションは、Proton がプランのページと決済画面に表示するものです。',
+  },
+  'zh-hant': {
+    discount: '30 天退款保證',
+    offerTypeLabel: '優惠',
+    offerTypeLabelPlural: '優惠',
+    offerActionLabel: '查看 Proton VPN 方案',
+    category: '注重私隱的 VPN、電郵、密碼及雲端儲存',
+    shortDescription: 'Cecília 的 Proton VPN、Mail、Pass、Drive 和 Lumo 連結',
+    longDescription:
+      'Em Casa com Cecília 沒有 Proton 的優惠碼：本頁的按鈕會透過 Cecília 的連結開啟官方網站，每個產品各有一個。價格和促銷以 Proton 在結帳時顯示的為準，若在最初 30 天內下單，Proton 會退還訂閱費用。',
+    metaTitle: 'Proton：VPN、Mail、Pass、Drive 和 Lumo 連結',
+    metaDescription:
+      'Cecília 的 Proton VPN、Proton Mail、Proton Pass、Proton Drive 和 Lumo 連結：提供免費及付費方案，30 天內可退款。我們沒有優惠碼。',
+    eligibleCategories: 'Proton VPN、Proton Mail、Proton Pass、Proton Drive、Lumo 和 Proton Unlimited 的付費方案',
+    validity: '價格和促銷可能變動，請以訂閱當天 Proton 在結帳時顯示的為準',
+    reusable: '連結可用於每一次訂閱',
+    shipping: '不適用：方案均為數碼產品，會在你的 Proton 帳戶中啟用',
+    combinable: '連結本身不提供折扣，適用的是 Proton 在方案頁面和結帳時顯示的促銷',
+    aboutBrand:
+      'Proton 是一家專注於私隱和加密的瑞士公司，提供 VPN、電郵、密碼管理器、雲端儲存，以及人工智能助手 Lumo。各產品均設有免費方案，付費方案可逐一訂閱，也可透過 Proton Unlimited 一併訂閱。此頁面整合了 Cecília 為各產品提供的連結。透過連結訂閱，Em Casa com Cecília 可能會獲得佣金，訂閱者無需支付額外費用。',
+    brandLogoAlt: 'Proton 標誌',
+    productLinks: [
+      {
+        name: 'Proton VPN',
+        url: 'https://go.getproton.me/SH39K',
+        description:
+          '提供免費方案及 VPN Plus 的 VPN，VPN Plus 最多可用於 10 部裝置，伺服器遍及 140 多個國家或地區。此連結亦會帶你前往 Proton Unlimited。',
+      },
+      {
+        name: 'Proton Mail',
+        url: 'https://go.getproton.me/SH39L',
+        description: '端對端加密電郵，提供免費方案，以及容量和地址更多的付費方案。',
+      },
+      {
+        name: 'Proton Pass',
+        url: 'https://go.getproton.me/SH39M',
+        description: '加密密碼管理器，可儲存密碼、卡片和筆記，並在瀏覽器和手機上自動填入登入資料。',
+      },
+      {
+        name: 'Proton Drive',
+        url: 'https://go.getproton.me/SH39N',
+        description: '為相片和文件提供端對端加密的雲端儲存，設有免費方案。',
+      },
+      {
+        name: 'Lumo',
+        url: 'https://go.getproton.me/SH39O',
+        description: 'Proton 的人工智能助手，讓你在對話時不必犧牲私隱。',
+      },
+    ],
+    faqs: [
+      {
+        question: 'Cecília 有 Proton 的優惠碼嗎？',
+        answer:
+          '沒有。Em Casa com Cecília 提供的是 Proton 的聯盟連結，每個產品各有一個，不是優惠碼：連結會開啟官方網站，價格和促銷以 Proton 在結帳時顯示的為準。',
+      },
+      {
+        question: '如果不喜歡，Proton 會退款嗎？',
+        answer:
+          '會。根據 2026 年 11 月 17 日查閱的 Proton VPN 方案頁面，只要在最初 30 天內下單，Proton 會退還任何訂閱的費用。根據 Proton 幫助中心，以現金和銀行轉帳付款的訂單不設退款。',
+      },
+      {
+        question: 'Proton 有免費方案嗎？',
+        answer:
+          '有。根據 2026 年 11 月 17 日查閱的方案頁面，免費的 Proton VPN 同一時間保護 1 部裝置，可使用 10 個國家或地區的伺服器，免費帳戶包含電郵和 Proton Drive 的 5 GB 空間。付費方案提供更多裝置、容量和功能。',
+      },
+      {
+        question: 'Proton 支援哪些付款方式？',
+        answer:
+          '根據 2026 年 11 月 17 日查閱的 Proton 幫助中心，支援信用卡和扣帳卡、PayPal、Apple Pay、Google Pay、比特幣、現金和銀行轉帳。價格以美元、歐元或瑞士法郎顯示。',
+      },
+      {
+        question: '什麼是 Proton Unlimited？',
+        answer:
+          '這是把 Proton 的付費產品合併為單一訂閱的方案。本頁的 Proton VPN 連結會帶你前往 VPN Plus 和 Proton Unlimited 方案。',
+      },
+      {
+        question: '透過連結訂閱需要複製代碼嗎？',
+        answer:
+          '不需要。只要點擊你想要的產品按鈕開啟 Proton，照常訂閱即可。我們沒有需要貼到結帳頁面的代碼。',
+      },
+      {
+        question: '透過連結訂閱，Cecília 會獲得佣金嗎？',
+        answer:
+          '有可能。Proton 可能會就透過本頁連結完成的訂閱（包括續訂）向 Em Casa com Cecília 支付佣金，訂閱者無需支付額外費用。',
+      },
+    ],
+    linkInstructions: [
+      '在「Proton 各產品連結」選擇產品，或點選「查看 Proton VPN 方案」：Cecília 的連結會開啟官方網站，無需複製任何內容。',
+      '比較各方案：每個產品都有免費方案，以及按月或按年計費的付費方案。',
+      '建立 Proton 帳戶，或登入你現有的帳戶，並在結帳時確認價格，貨幣以 Proton 顯示的為準。',
+      '如果不喜歡，請在最初 30 天內申請退款。',
+    ],
+    linkNote:
+      'Cecília 的連結本身不提供折扣，也沒有代碼：價格和促銷以 Proton 在方案頁面和結帳時顯示的為準。',
+  },
+  'zh-hans': {
+    discount: '30 天退款保证',
+    offerTypeLabel: '优惠',
+    offerTypeLabelPlural: '优惠',
+    offerActionLabel: '查看 Proton VPN 方案',
+    category: '注重隐私的 VPN、邮箱、密码和云存储',
+    shortDescription: 'Cecília 的 Proton VPN、Mail、Pass、Drive 和 Lumo 链接',
+    longDescription:
+      'Em Casa com Cecília 没有 Proton 的优惠码：本页的按钮会通过 Cecília 的链接打开官方网站，每个产品各有一个。价格和促销以 Proton 在结账时显示的为准，如果在最初 30 天内下单，Proton 会退还订阅费用。',
+    metaTitle: 'Proton：VPN、Mail、Pass、Drive 和 Lumo 链接',
+    metaDescription:
+      'Cecília 的 Proton VPN、Proton Mail、Proton Pass、Proton Drive 和 Lumo 链接：提供免费和付费方案，30 天内可退款。我们没有优惠码。',
+    eligibleCategories: 'Proton VPN、Proton Mail、Proton Pass、Proton Drive、Lumo 和 Proton Unlimited 的付费方案',
+    validity: '价格和促销可能变动，请以订阅当天 Proton 在结账时显示的为准',
+    reusable: '链接可用于每一次订阅',
+    shipping: '不适用：方案均为数字产品，会在你的 Proton 账户中开通',
+    combinable: '链接本身不提供折扣，适用的是 Proton 在方案页面和结账时显示的促销',
+    aboutBrand:
+      'Proton 是一家专注于隐私和加密的瑞士公司，提供 VPN、邮箱、密码管理器、云存储，以及人工智能助手 Lumo。各产品均设有免费方案，付费方案可逐一订阅，也可通过 Proton Unlimited 一并订阅。本页汇总了 Cecília 为各产品提供的链接。通过链接订阅，Em Casa com Cecília 可能会获得佣金，订阅者无需支付额外费用。',
+    brandLogoAlt: 'Proton 标志',
+    productLinks: [
+      {
+        name: 'Proton VPN',
+        url: 'https://go.getproton.me/SH39K',
+        description:
+          '提供免费方案和 VPN Plus 的 VPN，VPN Plus 最多可用于 10 台设备，服务器遍布 140 多个国家或地区。此链接也会带你前往 Proton Unlimited。',
+      },
+      {
+        name: 'Proton Mail',
+        url: 'https://go.getproton.me/SH39L',
+        description: '端到端加密邮箱，提供免费方案，以及容量和地址更多的付费方案。',
+      },
+      {
+        name: 'Proton Pass',
+        url: 'https://go.getproton.me/SH39M',
+        description: '加密密码管理器，可保存密码、银行卡和笔记，并在浏览器和手机上自动填写登录信息。',
+      },
+      {
+        name: 'Proton Drive',
+        url: 'https://go.getproton.me/SH39N',
+        description: '为照片和文档提供端到端加密的云存储，设有免费方案。',
+      },
+      {
+        name: 'Lumo',
+        url: 'https://go.getproton.me/SH39O',
+        description: 'Proton 的人工智能助手，让你在对话时不必牺牲隐私。',
+      },
+    ],
+    faqs: [
+      {
+        question: 'Cecília 有 Proton 的优惠码吗？',
+        answer:
+          '没有。Em Casa com Cecília 提供的是 Proton 的联盟链接，每个产品各有一个，不是优惠码：链接会打开官方网站，价格和促销以 Proton 在结账时显示的为准。',
+      },
+      {
+        question: '如果不喜欢，Proton 会退款吗？',
+        answer:
+          '会。根据 2026 年 11 月 17 日查阅的 Proton VPN 方案页面，只要在最初 30 天内下单，Proton 会退还任何订阅的费用。根据 Proton 帮助中心，以现金和银行转账付款的订单不设退款。',
+      },
+      {
+        question: 'Proton 有免费方案吗？',
+        answer:
+          '有。根据 2026 年 11 月 17 日查阅的方案页面，免费的 Proton VPN 同一时间保护 1 台设备，可使用 10 个国家或地区的服务器，免费账户包含邮箱和 Proton Drive 的 5 GB 空间。付费方案提供更多设备、容量和功能。',
+      },
+      {
+        question: 'Proton 支持哪些付款方式？',
+        answer:
+          '根据 2026 年 11 月 17 日查阅的 Proton 帮助中心，支持信用卡和借记卡、PayPal、Apple Pay、Google Pay、比特币、现金和银行转账。价格以美元、欧元或瑞士法郎显示。',
+      },
+      {
+        question: '什么是 Proton Unlimited？',
+        answer:
+          '这是把 Proton 的付费产品合并为单一订阅的方案。本页的 Proton VPN 链接会带你前往 VPN Plus 和 Proton Unlimited 方案。',
+      },
+      {
+        question: '通过链接订阅需要复制代码吗？',
+        answer:
+          '不需要。只要点击你想要的产品按钮打开 Proton，照常订阅即可。我们没有需要粘贴到结账页面的代码。',
+      },
+      {
+        question: '通过链接订阅，Cecília 会获得佣金吗？',
+        answer:
+          '有可能。Proton 可能会就通过本页链接完成的订阅（包括续订）向 Em Casa com Cecília 支付佣金，订阅者无需支付额外费用。',
+      },
+    ],
+    linkInstructions: [
+      '在“Proton 各产品链接”选择产品，或点击“查看 Proton VPN 方案”：Cecília 的链接会打开官方网站，无需复制任何内容。',
+      '比较各方案：每个产品都有免费方案，以及按月或按年计费的付费方案。',
+      '创建 Proton 账户，或登录你现有的账户，并在结账时确认价格，货币以 Proton 显示的为准。',
+      '如果不喜欢，请在最初 30 天内申请退款。',
+    ],
+    linkNote:
+      'Cecília 的链接本身不提供折扣，也没有代码：价格和促销以 Proton 在方案页面和结账时显示的为准。',
+  },
+};
+
 const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
   en: {
     discount: '20% off',
@@ -2813,6 +3667,7 @@ const COUPON_TRANSLATIONS: Record<string, CouponTranslation> = {
   // O mesmo link de afiliado do PT vale nos 10 idiomas: a loja leva o visitante à região dele (Bruno, 16/11/2026).
   temu: { offerMode: 'affiliate-link', locales: TEMU_TRANSLATIONS },
   aliexpress: { offerMode: 'affiliate-link', locales: ALIEXPRESS_TRANSLATIONS },
+  proton: { offerMode: 'affiliate-link', locales: PROTON_TRANSLATIONS },
   hostinger: {
     // O SONAR20 no site internacional (em inglês): o link de indicação leva o mesmo código. O PT segue no /br, e
     // o testNote daqui só cita o teste do site global.
@@ -2872,8 +3727,14 @@ export function localizeCoupon(coupon: Coupon, translation: CouponTranslation, l
   };
 
   if (coupon.offerMode === 'affiliate-link' && translation.offerMode === 'affiliate-link') {
+    const linkText = translation.locales[locale];
+    const ptUrls = (coupon.productLinks ?? []).map((item) => item.url).join(' ');
+    const urls = (linkText.productLinks ?? []).map((item) => item.url).join(' ');
+    if (ptUrls !== urls) {
+      throw new Error(`${where}: os productLinks da tradução precisam dos mesmos endereços do cupom em PT, na mesma ordem.`);
+    }
     // O print, a legenda dele e os vídeos do PT não passam para o idioma: valem os da tradução, ou nenhum.
-    return { ...coupon, ...translation.locales[locale], ...shared, monthlyHighlight: undefined, cartPrint: text.cartPrint, videos: text.videos };
+    return { ...coupon, ...linkText, ...shared, monthlyHighlight: undefined, cartPrint: text.cartPrint, videos: text.videos };
   }
   if (coupon.offerMode === 'discount-code' && translation.offerMode === 'discount-code') {
     // As faixas trazem valores em R$ e o aviso do Magazine Você, que só existem em PT.

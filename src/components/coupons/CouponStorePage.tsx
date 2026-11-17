@@ -276,6 +276,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
     : [];
   const videosCopy = copy.videos;
   const cartPrint = coupon.cartPrint ?? null;
+  const productLinks = affiliateLinkOffer?.productLinks?.length ? affiliateLinkOffer.productLinks : null;
   const videos = coupon.videos?.length ? coupon.videos : null;
   // O mês da oferta pelo calendário: do dia 20 em diante já vale o mês seguinte.
   const highlightDate = getCurrentOfferMonthDate();
@@ -459,6 +460,29 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                   </tbody>
                 </table>
               </div>
+            </section>
+          )}
+
+          {productLinks && (
+            <section aria-labelledby="produtos">
+              <SectionHeading id="produtos">{copy.productLinks.title(coupon.brand)}</SectionHeading>
+              <ul className="mt-5 grid gap-3 sm:grid-cols-2" data-coupon="produtos">
+                {productLinks.map((item) => (
+                  <li key={item.url} className="flex min-w-0 flex-col rounded-xl border-2 border-marinho p-4">
+                    <p className="text-base font-extrabold leading-[22px]">{item.name}</p>
+                    <p className="mt-1.5 flex-1 text-sm font-medium leading-[21px] text-marinho-suave">{item.description}</p>
+                    <CouponStoreLink
+                      href={item.url}
+                      brand={coupon.brand}
+                      placement="coupon_page_product"
+                      className={`mt-3 ${SECONDARY_ACTION}`}
+                    >
+                      {copy.productLinks.cta(item.name)}
+                      <ExternalLink aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
+                    </CouponStoreLink>
+                  </li>
+                ))}
+              </ul>
             </section>
           )}
 
