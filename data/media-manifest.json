@@ -159497,6 +159497,52 @@
       "verified_at": "2026-11-16T22:53:59.248Z",
       "verification_etag_or_digest": "fa9f339f0a17b5d136dc75b975adf935e80a7dc7c58b82ae3e3602078eb26052",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lamazonie/cupom-lamazonie-como-usar-capa.webp",
+      "local_url": "/images/reviews/lamazonie/cupom-lamazonie-como-usar-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 75344,
+      "sha256": "6cb70e5d129bdfee7b1b73206610180dcf0e1dbc47a4cdfd6541d758309ed5e5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-lamazonie-como-usar-capa.webp",
+      "storage_filename": "cupom-lamazonie-como-usar-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-lamazonie-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-lamazonie-como-usar.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/lamazonie/cupom-lamazonie-como-usar-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 246438,
+          "column": 15,
+          "literal": "/images/reviews/lamazonie/cupom-lamazonie-como-usar-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6cb70e5d129bdfee7b1b73206610180dcf0e1dbc47a4cdfd6541d758309ed5e5/cupom-lamazonie-como-usar-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6cb70e5d129bdfee7b1b73206610180dcf0e1dbc47a4cdfd6541d758309ed5e5/cupom-lamazonie-como-usar-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T00:15:56.681Z",
+      "verification_etag_or_digest": "6cb70e5d129bdfee7b1b73206610180dcf0e1dbc47a4cdfd6541d758309ed5e5",
+      "verification_status": "verified"
     }
   ]
 }

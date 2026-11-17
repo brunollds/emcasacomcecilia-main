@@ -1,0 +1,137 @@
+{
+  "id": 992,
+  "slug": "cupom-lamazonie-como-usar",
+  "locale": "pt",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "16 de novembro de 2026",
+  "publishedAtISO": "2026-11-16",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "CECILIA",
+  "affiliate": "lamazonie",
+  "title": "Cupom L'Amazonie: como usar o CECILIA e por que ele só entra no Finalizar compra",
+  "seoTitle": "Cupom L'Amazonie: como usar o CECILIA, 5% OFF",
+  "type": "Guia & Cupons",
+  "description": "Onde digitar o cupom CECILIA na L'Amazonie, o caminho em que ele é recusado, a conta do nosso teste e como ficam o Pix, os kits e o frete.",
+  "metaDescription": "CECILIA dá 5% OFF na L'Amazonie, mas só entra no checkout do botão Finalizar compra. Veja o passo a passo, a conta do teste e o que soma.",
+  "image": "/images/reviews/lamazonie/cupom-lamazonie-como-usar-capa.webp",
+  "imageAlt": "Frasco do Sérum para crescimento de Cílios e Sobrancelhas da L'Amazonie ao lado da caixa, em foto oficial da loja, com o logo da marca, a chamada “Como usar o cupom” e o código CECILIA.",
+  "cta": {
+    "text": "Abra o site oficial da L'Amazonie pelo botão, monte o carrinho e saia pelo botão “Finalizar compra”. No resumo, digite CECILIA em “Tem um cupom?” e confira a linha Descontos antes de pagar.",
+    "label": "Ir para a L'Amazonie",
+    "url": "https://www.lamazonie.com.br/",
+    "sponsored": true
+  },
+  "editorialNote": "Cupom testado no checkout do site oficial. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "cupom-la-ganexa-como-usar"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "O cupom CECILIA dá 5% OFF no site da L'Amazonie, para cliente novo e antigo. Ele só é aceito no checkout que abre pelo botão Finalizar compra. Lá, digite o código no campo Tem um cupom? e clique em Adicionar. Soma com o desconto do Pix e, no nosso teste, entrou também num kit em promoção."
+      ]
+    },
+    {
+      "heading": "Onde digitar o cupom na L'Amazonie",
+      "paragraphs": [
+        "O código entra no fim da compra, no checkout próprio da loja:"
+      ],
+      "bullets": [
+        "Coloque os produtos no carrinho.",
+        "No carrinho, clique em “Finalizar compra”. O endereço da página muda para seguro.lamazonie.com.br.",
+        "No resumo da compra, digite CECILIA no campo “Tem um cupom?” e clique em “Adicionar”.",
+        "Confira o aviso “Cupom adicionado”, o “Desconto” em verde e a linha Descontos no resumo, com o valor abatido."
+      ],
+      "postParagraphs": [
+        "No nosso teste, o código entrou sem preencher nenhum dado pessoal. Dá para ver o desconto antes de se identificar."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/lamazonie/cupom-lamazonie-checkout-com-cupom.webp",
+          "alt": "Resumo do checkout da L'Amazonie com o cupom CECILIA no campo Tem um cupom?, o aviso Desconto de menos R$ 20,40, a linha Descontos e o total de R$ 387,60",
+          "caption": "O CECILIA aplicado no checkout da L'Amazonie, no nosso teste. A linha Descontos mostra quanto saiu do pedido.",
+          "objectFit": "contain",
+          "aspectRatio": 1.06
+        }
+      ]
+    },
+    {
+      "heading": "Por que aparece “Insira um código de desconto válido”",
+      "paragraphs": [
+        "A L'Amazonie tem mais de uma página de pagamento. A que aceita o CECILIA é a do endereço seguro.lamazonie.com.br, aberta pelo botão “Finalizar compra”.",
+        "Quando abrimos o endereço lamazonie.com.br/checkout direto, caímos em outra página, com um campo chamado “Código de desconto”. Nela, o mesmo código, com o mesmo carrinho, foi recusado com a mensagem “Insira um código de desconto válido”. Não mapeamos todos os botões e links que levam a essa página. Por isso, o que vale conferir é o endereço na barra do navegador.",
+        "Essa mensagem não quer dizer que o cupom acabou. No nosso teste, o mesmo código foi aceito em seguida no outro checkout. Volte ao carrinho, clique em “Finalizar compra” e digite o código no campo “Tem um cupom?”."
+      ]
+    },
+    {
+      "heading": "Quanto o cupom tira: a conta do nosso teste",
+      "paragraphs": [
+        "Em 16 de novembro de 2026, montamos um carrinho com dois itens. O Sérum para crescimento de Cílios e Sobrancelhas custava R$ 159,00. O Kit 2 Protetores Solares de Tratamento FPS 99 custava R$ 249,00. Dois protetores avulsos, a R$ 159,00 cada, sairiam mais caros.",
+        "Com o código, os R$ 408,00 em produtos viraram R$ 387,60, antes do frete. A linha Descontos mostrou R$ 20,40. São 5% sobre o carrinho inteiro, inclusive sobre o kit."
+      ]
+    },
+    {
+      "heading": "O cupom soma com kit, promoção e Pix?",
+      "paragraphs": [
+        "Com kit em promoção, somou no nosso teste. Os 5% saíram do preço do kit, que já era menor que o de dois avulsos. Foi um kit testado, então confira a linha Descontos no seu carrinho.",
+        "No Pix, a loja dá 3% de desconto, e o checkout avisa “Você ganhou 3% de desconto pagando com Pix”. Esse desconto é da forma de pagamento e vem à parte do desconto do código. Não chegamos à etapa do pagamento no teste, então escolha o Pix e confira o total do resumo antes de pagar."
+      ]
+    },
+    {
+      "heading": "Frete: olhe o total entregue",
+      "paragraphs": [
+        "O desconto do código é sobre os produtos. A loja informa frete grátis acima de R$ 199 para quase todo o Brasil e acima de R$ 500 no Acre, no Piauí, em Rondônia e em Roraima.",
+        "Um sérum sozinho, a R$ 159,00, fica abaixo dos R$ 199, e a página do produto sugere levar mais uma unidade para ganhar o frete. Antes de decidir, simule com o seu CEP e compare o total entregue, produtos mais frete, nas duas quantidades. Confira também o frete depois de aplicar o código."
+      ]
+    },
+    {
+      "heading": "Cashback é crédito para depois",
+      "paragraphs": [
+        "O checkout anuncia 15% de cashback para a próxima compra. Segundo a loja, é um crédito com validade para um pedido futuro, separado do preço que você paga hoje. Não testamos o uso desse crédito. Para a compra de agora, o que conta é o total do resumo."
+      ]
+    },
+    {
+      "heading": "O cupom não entrou: o que conferir",
+      "bullets": [
+        "**O endereço.** A barra do navegador precisa mostrar seguro.lamazonie.com.br. Se mostrar outro, volte ao carrinho e saia pelo “Finalizar compra”.",
+        "**O código.** CECILIA, tudo junto, sem espaço antes ou depois.",
+        "**A loja.** O código vale no site oficial, lamazonie.com.br. Em marketplace, como o Mercado Livre, vale o preço do anúncio."
+      ],
+      "postParagraphs": [
+        "Se a linha Descontos não aparecer, não pague. A data do último teste fica na página do [cupom L'Amazonie](/cupons/lamazonie). Para avisar a gente, use o [contato do site](/contato)."
+      ]
+    },
+    {
+      "heading": "Vale para quem já é cliente?",
+      "paragraphs": [
+        "Vale. O CECILIA serve para o primeiro pedido e para os seguintes. O mesmo código existe em outra loja parceira, a La Ganexa, com outro percentual ([como usar o CECILIA na La Ganexa](/reviews/cupom-la-ganexa-como-usar)). Na L'Amazonie, são 5%."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Onde coloco o cupom na L'Amazonie? No checkout aberto pelo botão “Finalizar compra”, no campo “Tem um cupom?” do resumo. Clique em “Adicionar” e confira a linha Descontos.",
+        "Por que aparece “Insira um código de desconto válido”? No nosso teste, a mensagem apareceu quando digitamos o código na página lamazonie.com.br/checkout, no campo “Código de desconto”. Volte ao carrinho, clique em “Finalizar compra” e use o campo “Tem um cupom?”.",
+        "O cupom vale nos kits em promoção? No nosso teste, valeu. Os 5% entraram sobre o preço de um kit de protetores.",
+        "O cupom vale no Mercado Livre? Não. O código vale no site oficial da L'Amazonie. Em marketplace, vale o preço do anúncio.",
+        "O cupom CECILIA vale para quem já é cliente? Vale, no primeiro pedido e nos seguintes."
+      ]
+    }
+  ]
+}

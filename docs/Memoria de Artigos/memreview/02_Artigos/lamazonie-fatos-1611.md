@@ -349,3 +349,13 @@ dossiê.
    do cupom, também.
 6. **Aviso ao Bruno:** outras criadoras divulgam códigos de 12% na mesma loja.
 7. **Quem fundou a marca e onde os produtos são feitos:** só a pista do Instagram e os fabricantes da base da Anvisa.
+
+## 10. Leituras da redação da LZ1 (16/11/2026)
+
+No navegador do app, sem login e sem dados pessoais.
+
+- **Carrinho refeito:** Sérum para crescimento de Cílios e Sobrancelhas (1 Sérum, R$ 159,00) e Kit 2 Protetores Solares de Tratamento FPS 99 (R$ 249,00), subtotal R$ 408,00. O botão "FINALIZAR COMPRA" da página `/cart` levou a `seguro.lamazonie.com.br/checkout`. No bloco "RESUMO", campo "Tem um cupom?" e botão "Adicionar": com `CECILIA` apareceram "Cupom adicionado", "Desconto (- R$ 20,40)" com "Remover", a linha "Descontos / Cupom de desconto - R$ 20,40" e o total de R$ 387,60. O código entrou sem preencher nenhum dado.
+- **A página `/cart` não tem campo de cupom** nesta leitura: o que se confirmou é a recusa no `/checkout`. Abrindo `lamazonie.com.br/checkout` direto, o campo "Código de desconto" respondeu "Insira um código de desconto válido" e o total seguiu em R$ 408,00. Não foi mapeado que botão ou link leva o cliente a essa página.
+- **No checkout próprio também aparecem:** "15% de cashback para a próxima compra", "Você ganhou 3% de desconto pagando com Pix" e um aviso de cupom de primeira compra da loja (fora dos textos). O rodapé do checkout traz ABRAHAO VAREJISTA LTDA, CNPJ 60.522.061/0001-40, com endereço em Osasco (SP); o rodapé do site, lido pelo Job 1, traz Serra (ES). A LZ3 confere os dois antes de citar cidade.
+- **Volume do sérum:** a foto oficial da embalagem (primeira imagem da página do produto) mostra "4ml" e "0,12 fl. Oz" na caixa. Serve à LZ5 como fonte do volume, além do título do anúncio do Mercado Livre.
+- **Perguntas frequentes:** a leitura por script só trouxe os títulos (sanfona fechada). Os pisos do frete grátis seguem os registrados na seção 2.
