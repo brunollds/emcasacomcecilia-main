@@ -178,3 +178,7 @@ Job 2 e Job 4 pela sessão de artigos, a partir deste briefing e da releitura da
 ## Capa e imagens (aprovadas pelo Bruno em 16/11/2026)
 
 Folha de aprovação mostrada no chat; upload ao CDN autorizado no mesmo dia. Capa no painel lateral: frasco aberto do sérum (`PG_SS_03`, recortada sem o texto), chamada "É boa? O sérum funciona?" e o código. Sem pessoa na foto: as fotos com rosto da página são de antes e depois. Corpo: `lamazonie-e-boa-serum-frasco-caixa.webp` (`PG_SS_01`, frasco e caixa com "4ml").
+
+## Revisão externa (Farol, 16/11/2026)
+
+Parecer colado pelo Bruno antes do merge do #1071 (`docs/auditoria-copy-artigos/lamazonie-lz4-lz5-20261116-farol/`). P04 a P15 aplicadas: a resposta rápida abre pela dúvida "funciona?"; dois frascos passam a ser 50 a 60 dias pela estimativa da marca, separados da exigência da garantia; a tabela perdeu a coluna por frasco (o valor foi para o texto); as avaliações levam o aviso da própria página de que parte vem de produtos relacionados agrupados pela loja (conferido no HTML, bloco de "borrowed reviews"); conclusão, quadro e FAQ sem tratar a garantia como evidência; saíram os capítulos "O que não dá para saber" e "Os outros produtos, sem resenha". O título (P03) foi trocado com o OK do Bruno para "L'Amazonie é boa? O que conferir antes de comprar o sérum de sobrancelhas"; seoTitle e slug iguais.
