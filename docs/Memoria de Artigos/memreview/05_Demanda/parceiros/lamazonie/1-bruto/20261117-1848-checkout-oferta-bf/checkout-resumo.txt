@@ -1,0 +1,37 @@
+Endereço: https://seguro.lamazonie.com.br/checkout (aberto pelo botão Finalizar compra da gaveta do carrinho)
+Texto do resumo do checkout, gravado pela sessão. Nenhum dado pessoal foi digitado e o pedido não foi finalizado.
+
+== Antes do cupom ==
+RESUMO (1)
+Informações da sua compra
+R$ 159,00
+Tem um cupom?
+Adicionar
+Produtos
+R$ 159,00
+Total
+R$ 159,00
+Black Friday: Sérum para Crescimento de Cílios e Sobrancelhas + Protetor Solar Incolor FPS 99 Grátis
+R$ 159,00
+
+Outros textos da página: "15% de cashback para a próxima compra"; "Você ganhou 3% de desconto pagando com Pix".
+
+== Depois de digitar CECILIA e clicar em Adicionar (2026-11-17T21:51:52Z, 18:51:52 em Brasília) ==
+RESUMO (1)
+Informações da sua compra
+R$ 151,05
+Tem um cupom?
+Adicionar
+Desconto (- R$ 7,95)
+Remover
+Produtos
+R$ 159,00
+Descontos
+Cupom de desconto
+- R$ 7,95
+- R$ 7,95
+Total
+R$ 151,05
+Black Friday: Sérum para Crescimento de Cílios e Sobrancelhas + Protetor Solar Incolor FPS 99 Grátis
+R$ 159,00
+Cupom adicionado.
