@@ -3779,7 +3779,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'moda',
     shortDescription: 'todo o site e o app da BAW Clothing, com todas as formas de pagamento',
     longDescription:
-      'O cupom BAW Clothing BAWEMCASACOMCECILIA dá 10% OFF em todo o site e no aplicativo, para quem compra pela primeira vez e para quem já é cliente: na primeira compra, é o mesmo desconto do FIRSTBAW, e vale também nas compras seguintes. Soma com as promoções e com os 5% do Pix e vale em todas as formas de pagamento.',
+      'O cupom BAW Clothing BAWEMCASACOMCECILIA dá 10% OFF em todo o site e no aplicativo, para quem compra pela primeira vez e para quem já é cliente. Na primeira compra, é o mesmo desconto do FIRSTBAW, o cupom de primeira compra da loja. Soma com as promoções e com os 5% do Pix, em qualquer forma de pagamento.',
     metaTitle: 'Cupom BAW Clothing: 10% OFF com BAWEMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
@@ -3802,7 +3802,7 @@ const STORE_COUPONS: Coupon[] = [
     lastVerified: '2026-11-17',
     testedAt: '2026-11-17',
     testNote:
-      'Num carrinho com duas camisetas, a Regular Locally Grown pelo preço cheio de R$ 89,00 e a Regular Goth 3.0 em promoção de Black Friday, de R$ 89,00 por R$ 59,00, o BAWEMCASACOMCECILIA tirou R$ 14,80 dos R$ 148,00 e o total caiu para R$ 133,20: os 10% entraram também sobre a peça em promoção. O frete, calculado pelo CEP, ficou de fora do desconto. No aplicativo, em 17/11/2026, o BAWEMCASACOMCECILIA e o FIRSTBAW, o cupom de primeira compra da própria BAW, deram o mesmo desconto no mesmo carrinho: R$ 28,80, com o total de R$ 259,20.',
+      'Num carrinho com duas camisetas, a Regular Locally Grown pelo preço cheio de R$ 89,00 e a Regular Goth 3.0 em promoção de Black Friday, de R$ 89,00 por R$ 59,00, o BAWEMCASACOMCECILIA tirou R$ 14,80 dos R$ 148,00 e o total caiu para R$ 133,20: os 10% entraram também sobre a peça em promoção. O frete, calculado pelo CEP, ficou de fora do desconto. Em 17/11/2026, o BAWEMCASACOMCECILIA e o FIRSTBAW, o cupom de primeira compra da própria BAW, deram o mesmo desconto no mesmo carrinho, no aplicativo e no site: no app, R$ 28,80, com o total de R$ 259,20; no site, com a Camiseta Regular Logo e a Camiseta Regular Pima, R$ 20,80 de R$ 208,00, com o total de R$ 187,20.',
     codeInstructions: [
       'Copie o código BAWEMCASACOMCECILIA no card acima.',
       'Acesse o site oficial da BAW Clothing pelo botão indicado, escolha o tamanho de cada peça e coloque no carrinho.',
@@ -3825,7 +3825,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom BAW vale na primeira compra? É melhor que o FIRSTBAW?',
         answer:
-          'Vale, e o desconto é o mesmo. No nosso teste no aplicativo, o BAWEMCASACOMCECILIA e o FIRSTBAW, o cupom de primeira compra da própria BAW, deram o mesmo desconto no mesmo carrinho: R$ 28,80, e o total ficou em R$ 259,20 com qualquer um dos dois. A diferença é que o BAWEMCASACOMCECILIA vale também para quem já comprou na loja.',
+          'Vale, e o desconto é o mesmo. No nosso teste, o BAWEMCASACOMCECILIA e o FIRSTBAW, o cupom de primeira compra da própria BAW, deram o mesmo desconto no mesmo carrinho, no aplicativo e no site: no site, R$ 20,80 de um carrinho de R$ 208,00, com qualquer um dos dois. A diferença é que o BAWEMCASACOMCECILIA vale também para quem já comprou na loja.',
       },
       {
         question: 'Qual cupom BAW vale para quem já é cliente?',
