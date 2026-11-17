@@ -43,3 +43,20 @@ Nome original de cada export, na ordem: `emcasacomcecilia.com_AIPageStatsReport_
   As fontes das citações são "Microsoft Copilots and Partners".
 - Palavras-chave, páginas, dispositivo e país valem só para a busca web, não para o chat (aviso da própria tela).
 - O volume do Bing é pequeno perto do Google: serve para ver formulações de busca e citações de IA, não volume.
+
+## Conferência dos arquivos (17/11/2026, 10:36, depois do aviso do Bruno)
+
+O export do Bing não leva período nem site dentro do arquivo: a identificação é pelo cabeçalho das colunas, pela
+contagem de linhas (igual ao rodapé da tabela na tela) e pela primeira linha (igual à primeira da tela).
+
+| Arquivo guardado | Nome com que chegou a Downloads | Colunas | Linhas de dados | Primeira linha | Confere? |
+|---|---|---|---|---|---|
+| `bing-palavras-chave-3m.csv` | `emcasacomcecilia.com_KeywordReport_11_17_2026.csv` | Keyword, Impressions, Clicks, CTR, Avg. Position | 861 (tela: 861) | "receita de salsichas em massa folhada", 339 impressões | Sim |
+| `bing-paginas-3m.csv` | `emcasacomcecilia.com_PageTrafficReport_11_17_2026.csv` | Page, Impressions, Clicks, CTR, Avg. Position | 222 (tela: 222) | `/reviews/clube-dolce-gusto-como-funciona`, 1.893 impressões (tela: 1,9 mil) | Sim |
+| `bing-ia-consultas-3m.csv` | `emcasacomcecilia.com_AISearchQueriesReport_11_17_2026.csv` | Grounding Query, Intent, Topic, Citations, Citation Share | 134 (tela: 134) | "is yesstyle legit", 301 citações | Sim |
+| `bing-ia-paginas-3m.csv` | `emcasacomcecilia.com_AIPageStatsReport_11_17_2026.csv` | Page, Citations | 120 (tela: 120) | `/reviews/clube-dolce-gusto-como-funciona`, 1.556 citações (tela: 1,6 mil) | Sim |
+
+- Nenhum arquivo do Bing foi sobrescrito: cada relatório tem nome próprio. Foram copiados do arquivo temporário do
+  navegador e depois comparados byte a byte com as cópias de nome definitivo: iguais.
+- O período (17/08 a 15/11/2026) vem da tela, com o botão "3 M" marcado nas duas páginas; o arquivo não o registra.
+- Tamanhos e SHA-256 recalculados: os mesmos da tabela de arquivos.

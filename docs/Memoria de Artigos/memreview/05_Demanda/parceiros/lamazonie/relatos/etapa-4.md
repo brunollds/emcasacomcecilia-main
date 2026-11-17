@@ -8,11 +8,12 @@ o `COMO-REFAZER.md` e o `LICOES.md` não foram tocados.
 | | |
 |---|---|
 | Início | 2026-11-17T10:06:00-03:00 |
-| Fim | 2026-11-17T10:37:00-03:00 |
-| Tempo gasto | 31 minutos |
+| Fim da primeira entrega (PR aberto) | 2026-11-17T10:35:00-03:00 |
+| Fim, com a conferência dos downloads e o processado de todas as lojas | 2026-11-17T10:42:00-03:00 |
+| Tempo gasto | 36 minutos |
 
 Divisão aproximada: 2 minutos de leitura, 19 de coleta nas quatro plataformas (10:08 a 10:27), 10 de processamento,
-documentação e conferência.
+documentação e conferência. Depois da mudança de escopo (seções 9 a 11): mais 7 minutos.
 
 ## 2. Plataformas
 
@@ -168,3 +169,109 @@ Nada trava o piloto. Em ordem de utilidade:
    (ou a regra de escrever a prova em `notas`) evitaria presumir o estado pela ficha do vault, que estava atrasada.
 7. **Exports brutos em zip.** Guardei o zip original e os CSVs extraídos (com nome sem acento, porque o Windows
    corrompeu os nomes acentuados ao extrair). Vale decidir no `PROGRAMA.md` se o bruto é o zip, o extraído ou os dois.
+
+## 9. Conferência dos downloads (pedido do Bruno, via coordenação)
+
+O Bruno avisou que a janela de salvar abriu sem ele esperar, que alguns arquivos se sobrescreveram e que ele
+renomeou um sem querer. Conferi os 26 exports guardados em `_site/` pelo conteúdo, não pelo nome: filtro, propriedade,
+período, número de linhas e uma linha conhecida. A tabela de cada coleta está no `FONTE.md` dela, na seção
+"Conferência dos arquivos".
+
+**Resultado: os 26 conferem com o que o `FONTE.md` diz. Nada precisou de coleta nova.**
+
+| O que estava errado | Onde | O que foi feito |
+|---|---|---|
+| Quatro recortes do Search Console se sobrescreveram em Downloads (todo export sai com o mesmo nome) | "amazonie", `/cupons/lamazonie`, `/cupons/simple-organic`, `/cupons/skelt` | Exportados de novo, um a um, ainda durante a coleta, antes de qualquer processamento. Cada zip guardado tem o `Filtros.csv` certo dentro |
+| Arquivo com nome trocado | O recorte de `/cupons/lamazonie` chegou como `lamazonie.zip` | Identificado pelo `Filtros.csv` (Página: +/cupons/lamazonie); registrado no `FONTE.md` |
+| Arquivo com nome trocado | O painel do Clarity de 90 dias, site inteiro, chegou como `clarity.txt` | Identificado pela primeira linha (endereço com `Last 90 days`, sem filtro) e pelas 2.122 sessões; registrado no `FONTE.md` |
+| Arquivo errado guardado por engano | O primeiro "aquisição" do GA4 era um export antigo de 07/11 (10/10 a 06/11) que já estava em Downloads | Trocado pelo certo (16/08 a 15/11) antes de gerar qualquer CSV; o antigo voltou para Downloads |
+
+Depois da conferência recalculei tamanho e SHA-256 dos 66 arquivos listados nos quatro `FONTE.md`: todos iguais aos
+da tabela. Os CSVs extraídos do Search Console foram comparados byte a byte com o conteúdo dos zips.
+
+## 10. Todas as lojas (mudança de escopo do Bruno)
+
+O processado do piloto continua como combinado. Para as outras lojas há um arquivo só, fora da pasta do parceiro:
+
+- `_site/2-processado/nossos-dados-lojas.csv`: 8.295 linhas, 28 das 31 lojas com alguma linha.
+- `_site/2-processado/resumo-lojas.md`: **uma tabela por loja**, com cliques, impressões e posição no Google,
+  impressões no Bing, citações de IA e visualizações do GA4 de cada página de cupom e de cada artigo, mais as
+  consultas com a marca. É gerado pelo script e só traz fato.
+- `_site/2-processado/COMO-REFAZER.md`: a regra de atribuição e o comando.
+
+Uma escolha minha que foge do pedido: o arquivo traz as 31 lojas, inclusive as quatro do piloto, porque nele a regra
+é completa (todos os idiomas, sem corte) e o `nossos-dados.csv` do piloto é um recorte. Se a coordenação preferir só
+as 27, é um filtro pelo `registro_id`.
+
+### Fato: uma linha por loja, 16/08 a 15/11/2026
+
+Search Console (só o que entrou nas 1.000 páginas e nas 1.000 consultas do export), Bing e GA4.
+
+| Loja | Páginas no export do Google | Cliques Google | Impressões Google | Consultas com a marca | Impressões dessas consultas | Citações de IA (Bing) | Visualizações GA4 |
+|---|---|---|---|---|---|---|---|
+| SHEIN | 102 | 815 | 105.784 | 234 | 35.843 | 336 | 833 |
+| YesStyle | 133 | 410 | 78.880 | 221 | 34.296 | 881 | 838 |
+| Dolce Gusto | 28 | 616 | 47.780 | 120 | 5.740 | 5.543 | 1.410 |
+| Nestlé Nutre | 25 | 192 | 24.649 | 56 | 3.111 | 352 | 290 |
+| Hostinger | 144 | 34 | 14.194 | 20 | 10.335 | 18 | 156 |
+| Insider | 30 | 95 | 10.153 | 35 | 2.050 | 85 | 416 |
+| Max Titanium | 19 | 28 | 7.762 | 19 | 881 | 22 | 148 |
+| Magalu | 5 | 20 | 7.006 | 8 | 2.233 | 245 | 70 |
+| Black Skull | 21 | 22 | 5.180 | 14 | 491 | 26 | 168 |
+| I Wanna Sleep | 17 | 55 | 5.024 | 6 | 337 | 34 | 190 |
+| DAMIE | 26 | 73 | 4.211 | 11 | 1.532 | 13 | 404 |
+| Skelt | 17 | 14 | 2.950 | 7 | 926 | 2 | 98 |
+| Let's Eat It | 20 | 19 | 2.871 | 7 | 301 | 16 | 208 |
+| Toda Up | 23 | 14 | 2.631 | 10 | 821 | 0 | 68 |
+| Probiótica | 16 | 7 | 2.530 | 8 | 812 | 0 | 88 |
+| Cléa Store | 16 | 12 | 2.203 | 9 | 449 | 2 | 156 |
+| Bagaggio | 17 | 8 | 2.014 | 4 | 265 | 8 | 84 |
+| Dr. Peanut | 15 | 19 | 1.445 | 6 | 185 | 0 | 54 |
+| Mais Mu | 14 | 3 | 1.245 | 3 | 162 | 0 | 62 |
+| Simple Organic | 10 | 7 | 1.237 | 2 | 146 | 0 | 34 |
+| Belive | 15 | 3 | 841 | 1 | 58 | 0 | 32 |
+| Lejour | 7 | 3 | 724 | 3 | 76 | 39 | 4 |
+| HolyFoods | 7 | 2 | 697 | 7 | 318 | 0 | 8 |
+| Petz | 9 | 2 | 577 | 3 | 67 | 0 | 46 |
+| Prohall | 7 | 0 | 212 | 1 | 23 | 0 | 16 |
+| La Ganexa | 7 | 7 | 154 | 0 | 0 | 0 | 30 |
+| Temu | 0 | 0 | 0 | 12 | 446 | 0 | 0 |
+| AliExpress | 0 | 0 | 0 | 1 | 21 | 0 | 0 |
+| Kopenhagen, BAW e L'Amazonie | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+As tabelas por página de cada loja estão em `_site/2-processado/resumo-lojas.md`.
+
+### Leitura (minha, para a etapa 5 conferir)
+
+- As somas por loja juntam páginas de idade muito diferente. Loja que entrou em novembro (Petz, Prohall, La Ganexa,
+  HolyFoods, Simple Organic) tem poucas semanas dentro dos 3 meses: número baixo aqui é idade, não desempenho.
+- Zero nesta tabela não é zero de verdade para BAW, Kopenhagen, Temu e AliExpress: quer dizer que nenhuma página da
+  loja entrou nas 1.000 do export. Para saber, é preciso o recorte por página no Search Console.
+- SHEIN, YesStyle e Hostinger têm a maior parte das impressões em páginas de outros idiomas; Dolce Gusto e Nestlé
+  Nutre, em português.
+- A relação entre impressões e cliques muda muito de loja para loja (Dolce Gusto com 1,3% de cliques, Hostinger com
+  0,2%). A causa não está nestes dados.
+- GA4 e Search Console não medem a mesma coisa nem a mesma gente (o GA4 depende do aceite dos cookies e tem evento em
+  dobro): não dividir um pelo outro.
+
+## 11. Achados fora do piloto
+
+Coisas que apareceram nos exports e merecem atenção de quem cuida das outras lojas. Não foram processadas além do
+arquivo geral. Cada uma com o arquivo e a linha do bruto.
+
+| Achado (fato) | Onde |
+|---|---|
+| `/en/coupons/hostinger` teve 9.358 impressões, 1 clique e posição 8,2 no Google. É a página de loja com mais impressões do site | `_site/20261117-1008-gsc-desempenho/gsc-site-3m/paginas.csv#linha=207` |
+| A consulta "is yesstyle legit" teve 10.098 impressões, 10 cliques e posição 8,5; a página `/en/reviews/is-yesstyle-legit-and-safe-review` teve 19.643 impressões e 14 cliques | `.../gsc-site-3m/consultas.csv#linha=10` e `paginas.csv#linha=32` |
+| O canal "AI Assistant" do GA4 trouxe 295 sessões com 239 eventos principais (28,8% das sessões com evento principal), contra 7,4% na busca orgânica e 4,9% no acesso direto | `_site/20261117-1016-ga4-relatorios/ga4-aquisicao-de-trafego.csv#linha=11`, `12` e `13` |
+| No relatório de IA do Bing, `/reviews/clube-dolce-gusto-como-funciona` foi citada 1.556 vezes e as páginas da Dolce Gusto somam 5.543 das 7.884 citações do export | `_site/20261117-1020-bing-desempenho/bing-ia-paginas-3m.csv#linha=2` |
+| `/cupons/shein` teve 98 visualizações e 44 eventos principais no GA4; `/cupons/damie`, 76 e 5 | `.../ga4-paginas-e-telas.csv#linha=17` e `24` |
+| "black friday magalu 2026" teve 1.197 impressões, 2 cliques e posição 7,8, com só 5 páginas da Magalu no export | `.../gsc-site-3m/consultas.csv#linha=59` |
+| "cupom damie" teve 534 impressões, 7 cliques e posição 4,5; `/cupons/damie` teve 218 impressões e posição 8,8 | `.../gsc-site-3m/consultas.csv#linha=20` e `paginas.csv#linha=237` |
+| Consultas com "temu" (12, somando 446 impressões, como "meglio temu o shein") aparecem sem nenhuma página da Temu no export | `.../gsc-site-3m/consultas.csv#linha=362` |
+| `first_visit` com o dobro de eventos por usuário, no site inteiro | `.../ga4-eventos.csv#linha=13` |
+
+Leitura minha, a conferir: as consultas com "temu" devem estar sendo atendidas pelos comparativos da SHEIN, e a
+diferença entre "cupom damie" e a página `/cupons/damie` sugere que outra página do site aparece para essa consulta.
+Os dois pontos pedem o recorte consulta e página no Search Console antes de virar recomendação. O canal de IA tem
+poucos números e eventos em dobro: a proporção chama atenção, mas não está medida com segurança.
