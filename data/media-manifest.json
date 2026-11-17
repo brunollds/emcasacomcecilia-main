@@ -159727,6 +159727,144 @@
       "verified_at": "2026-11-17T00:40:44.241Z",
       "verification_etag_or_digest": "7c5e1e66d215a81d68ced6016c754311d3e5c5c3e017c267bf97d79c7c3fda51",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lamazonie/cupom-lamazonie-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/lamazonie/cupom-lamazonie-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49422,
+      "sha256": "400e9b79f0e155cc792b61ebeb2e11582915b01e2dbcd2836f5e6777a4bcc932",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-lamazonie-primeira-compra-capa.webp",
+      "storage_filename": "cupom-lamazonie-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-lamazonie-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-lamazonie-primeira-compra.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/lamazonie/cupom-lamazonie-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 247197,
+          "column": 15,
+          "literal": "/images/reviews/lamazonie/cupom-lamazonie-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/400e9b79f0e155cc792b61ebeb2e11582915b01e2dbcd2836f5e6777a4bcc932/cupom-lamazonie-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/400e9b79f0e155cc792b61ebeb2e11582915b01e2dbcd2836f5e6777a4bcc932/cupom-lamazonie-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T01:34:15.777Z",
+      "verification_etag_or_digest": "400e9b79f0e155cc792b61ebeb2e11582915b01e2dbcd2836f5e6777a4bcc932",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lamazonie/lamazonie-e-boa-capa.webp",
+      "local_url": "/images/reviews/lamazonie/lamazonie-e-boa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58108,
+      "sha256": "523ca600afbc0b879ce7a624a893d77f0c20c2c71c74fda7ff1d90de109469e4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lamazonie-e-boa-capa.webp",
+      "storage_filename": "lamazonie-e-boa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lamazonie-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lamazonie-e-boa.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/lamazonie/lamazonie-e-boa-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 246977,
+          "column": 15,
+          "literal": "/images/reviews/lamazonie/lamazonie-e-boa-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/523ca600afbc0b879ce7a624a893d77f0c20c2c71c74fda7ff1d90de109469e4/lamazonie-e-boa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/523ca600afbc0b879ce7a624a893d77f0c20c2c71c74fda7ff1d90de109469e4/lamazonie-e-boa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T01:34:15.777Z",
+      "verification_etag_or_digest": "523ca600afbc0b879ce7a624a893d77f0c20c2c71c74fda7ff1d90de109469e4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lamazonie/lamazonie-e-boa-serum-frasco-caixa.webp",
+      "local_url": "/images/reviews/lamazonie/lamazonie-e-boa-serum-frasco-caixa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 68686,
+      "sha256": "7f91abc4d1cc2cb348d668fa9ef216e0ff6f9ae84d4dd91c4de8065164fff503",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lamazonie-e-boa-serum-frasco-caixa.webp",
+      "storage_filename": "lamazonie-e-boa-serum-frasco-caixa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lamazonie-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lamazonie-e-boa.json",
+          "line": 100,
+          "column": 19,
+          "literal": "/images/reviews/lamazonie/lamazonie-e-boa-serum-frasco-caixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 247048,
+          "column": 21,
+          "literal": "/images/reviews/lamazonie/lamazonie-e-boa-serum-frasco-caixa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7f91abc4d1cc2cb348d668fa9ef216e0ff6f9ae84d4dd91c4de8065164fff503/lamazonie-e-boa-serum-frasco-caixa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7f91abc4d1cc2cb348d668fa9ef216e0ff6f9ae84d4dd91c4de8065164fff503/lamazonie-e-boa-serum-frasco-caixa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T01:34:15.777Z",
+      "verification_etag_or_digest": "7f91abc4d1cc2cb348d668fa9ef216e0ff6f9ae84d4dd91c4de8065164fff503",
+      "verification_status": "verified"
     }
   ]
 }
