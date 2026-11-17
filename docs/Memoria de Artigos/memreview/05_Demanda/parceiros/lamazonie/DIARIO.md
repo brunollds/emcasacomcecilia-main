@@ -45,4 +45,4 @@ arquivo, o `COMO-REFAZER.md` e o `LICOES.md`. O detalhe de cada etapa está em `
 9. Existe, ou dá para gerar, o link de afiliado da loja oficial da L'Amazonie no Mercado Livre?
 10. Quem testa o `CECILIA` na oferta anunciada até 26/11 (`op-lamazonie-0027`)?
 
-Tempo total do piloto, somando as sessões: cerca de 2 horas e 10 minutos de trabalho de sessão, entre 09:58 e 12:02 de 17/11/2026, mais a coordenação.
+Tempo total do piloto, somando as sessões: cerca de 2 horas de trabalho de sessão (122 minutos), entre 09:58 e 12:02 de 17/11/2026, mais a coordenação.
