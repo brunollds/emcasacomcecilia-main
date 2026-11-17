@@ -8,6 +8,20 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## Proton: pacote inicial (17/11/2026)
+
+Parceira nova (#1105), loja de link sem cupom. Pedido do Bruno em 17/11: onboarding e Black Friday. Pautas PN1 a PN4 na [[Fila-de-Pautas]], fatos em [[proton-fatos-1711]].
+
+- **Autocompletar (17/11):** "proton vpn" sugere "é confiavel", "gratis", "gratuito"; "proton vpn é" traz "confiavel", "gratuito", "bom", "pago", "virus", "perigoso"; "proton vpn vale" traz "vale a pena", "free vale a pena", "plus vale a pena"; "proton vpn reembolso" e "pedir reembolso" existem; "proton black friday 2026" e "proton vpn black friday price" também. "proton cupom", "cupom proton vpn/unlimited/mail" têm sugestão (dona: /cupons/proton). "proton mail ou gmail" e "protonmail vale a pena" ficam no estoque.
+- **Site (páginas /pt-br):** preços em reais, com seletor de moeda. Black Friday sem data de fim, para contas novas, com o desconto calculado sobre o preço mensal; o valor é cobrado de uma vez e a renovação volta ao preço padrão. Conta de 24 meses do VPN Plus: R$ 294,96 no plano de 2 anos contra R$ 419,76 no de 1 ano mais renovação.
+- **Termos (05/11/2026):** reembolso em 30 dias da compra inicial, uma vez por usuário, só para assinatura feita direto com a Proton.
+- **Reclame Aqui (01/11/2025 a 31/10/2026):** perfil "proton vpn" não verificado, 14 reclamações, nenhuma respondida; temas de renovação e de reembolso pela loja de aplicativos.
+- **Topo do Google:** em "black friday", ninguém mostra o valor em reais com a renovação; em "é confiável" e "vale a pena", visão de IA, Reddit e sites de análise com afiliado e preço em dólar; em "cupom", sites de cupom com códigos.
+- **Não lido:** relatórios de auditoria, central de ajuda (cancelamento, loja de aplicativos), ofertas para quem já é cliente (pedem login), oferta de 2 anos que parceiros de fora anunciam. Os links de afiliado não foram abertos.
+- **Decisão:** sem "como usar o cupom" e sem "primeira compra" (não há código); Reclame Aqui vira capítulo da PN2; quatro briefings só em PT, com família de 10 idiomas a decidir pelo Bruno.
+
+---
+
 ## L'Amazonie: pacote inicial (16/11/2026)
 
 Parceira nova (#1060). Pesquisa semente pedida pelo Bruno em 16/11; pautas LZ1 a LZ6 na [[Fila-de-Pautas]], fatos em [[lamazonie-fatos-1611]].
