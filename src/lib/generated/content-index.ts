@@ -144586,13 +144586,29 @@ export const reviewsData: unknown[] = [
           "Dois códigos de outras criadoras, MARESSA e BEARAMOS, aparecem anunciados com 25% e 15% na Toda Up. Testamos os dois no checkout, sem finalizar a compra. No mesmo carrinho do MAUAD, com a Fita Up de R$ 116,90, cada um tirou R$ 11,69, os mesmos 10%. Num carrinho de R$ 379,80, cada um tirou R$ 37,98, de novo 10%.",
           "Nos nossos testes, os três códigos deram o mesmo desconto. Se você encontrar um percentual maior anunciado, aplique o código e confira a linha de desconto no resumo antes de pagar."
         ],
-        "image": {
-          "src": "/images/reviews/toda-up/cupom-toda-up-checkout-mauad-10.webp",
-          "alt": "Resumo do pedido no checkout da Toda Up com o código MAUAD aplicado na Fita Up de R$ 116,90: desconto de R$ 11,69 e total de R$ 105,21",
-          "caption": "O MAUAD aplicado na Fita Up em promoção, com R$ 11,69 de desconto. Tela do checkout, sem finalizar a compra.",
-          "objectFit": "contain",
-          "aspectRatio": 1.171
-        }
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/cupom-toda-up-checkout-mauad-10.webp",
+            "alt": "Resumo do pedido no checkout da Toda Up com o código MAUAD aplicado na Fita Up de R$ 116,90: desconto de R$ 11,69 e total de R$ 105,21",
+            "caption": "O MAUAD aplicado na Fita Up em promoção, com R$ 11,69 de desconto. Tela do checkout, sem finalizar a compra.",
+            "objectFit": "contain",
+            "aspectRatio": 1.171
+          },
+          {
+            "src": "/images/reviews/toda-up/cupom-toda-up-teste-maressa-10.webp",
+            "alt": "Resumo do carrinho da Toda Up com o cupom MARESSA aplicado: subtotal de R$ 379,80, desconto de R$ 37,98 e total de R$ 341,82",
+            "caption": "O MARESSA no carrinho de R$ 379,80: R$ 37,98 de desconto, 10%. Tela do carrinho, sem finalizar a compra.",
+            "objectFit": "contain",
+            "aspectRatio": 1.941
+          },
+          {
+            "src": "/images/reviews/toda-up/cupom-toda-up-teste-bearamos-10.webp",
+            "alt": "Resumo do carrinho da Toda Up com o cupom BEARAMOS aplicado: subtotal de R$ 379,80, desconto de R$ 37,98 e total de R$ 341,82",
+            "caption": "O BEARAMOS no carrinho de R$ 379,80: R$ 37,98 de desconto, 10%. Tela do carrinho, sem finalizar a compra.",
+            "objectFit": "contain",
+            "aspectRatio": 1.899
+          }
+        ]
       },
       {
         "heading": "O cupom e a Black Antecipada",
