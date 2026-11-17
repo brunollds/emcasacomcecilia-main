@@ -203,7 +203,7 @@ vídeo, primeiras impressões e uso noturno.
   `affiliate` (no artigo de várias lojas, a mesma lista, na mesma ordem, e o mesmo `store` em cada botão de
   seção, foto e peça do card de estilo) e o mesmo `coupon`, e o link da
   página da loja no idioma do artigo: `/cupons/<marca>` em português e `/<locale>/coupons/<marca>` nos outros.
-- SHEIN, YesStyle e Hostinger são lojas internacionais (`INTERNATIONAL_STORES`, em `storeBanners.ts`; para pôr um parceiro novo, a checklist "Parceiro internacional" em `docs/MANUTENCAO-MENSAL.md`): o link e o
+- SHEIN, YesStyle, Hostinger e Proton são lojas internacionais (`INTERNATIONAL_STORES`, em `storeBanners.ts`; para pôr um parceiro novo, a checklist "Parceiro internacional" em `docs/MANUTENCAO-MENSAL.md`): o link e o
   código levam o visitante à loja da região dele, então valem em todo idioma, `br.shein.com` inclusive. Nenhum texto
   fora do PT diz que um código ou uma campanha da SHEIN é "da SHEIN Brasil": não existe programa da SHEIN por país.
 - A interface do artigo que não é conteúdo (selo do tipo, veredito e nota, ficha do produto, bloco de

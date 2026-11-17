@@ -91,7 +91,7 @@ A lista sai das lojas ativas de `src/lib/couponsData.ts`; loja nova entra aqui n
   
     É o caso das parceiras sem artigo fora do PT.
   - Campanha com os 10 idiomas sai em todas as versões do artigo e precisa de um link que vale em todas, nunca de um
-    país só. A exceção são as lojas internacionais (SHEIN, YesStyle e Hostinger, `INTERNATIONAL_STORES`): o link
+    país só. A exceção são as lojas internacionais (SHEIN, YesStyle, Hostinger e Proton, `INTERNATIONAL_STORES`): o link
     delas leva o visitante à loja da região dele e vale nos 10 idiomas, `br.shein.com` inclusive.
   - O `test:store-banners` barra qualquer combinação no meio.
 - **O banner nunca cita o código da loja** nem diz que a campanha soma com ele. O teste barra o código no texto.
