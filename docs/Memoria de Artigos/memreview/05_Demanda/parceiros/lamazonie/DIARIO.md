@@ -12,7 +12,11 @@ arquivo, o `COMO-REFAZER.md` e o `LICOES.md`. O detalhe de cada etapa está em `
 | 2026-11-17 | 2 | Etapa 2 (catálogo) | 10:05 | 10:26 | Sitemaps, coleções, páginas, fichas; `catalogo.csv` com 68 entidades (#1077). 20 min | 5, de `...-1006-shopify-sitemaps` a `...-1012-navegador-fichas` | 33 fichas sem leitura (429); lista de ingredientes e volume não publicados |
 | 2026-11-17 | 4 | Etapa 4 (nossos dados e cobertura) | 10:06 | 10:42 | Search Console, GA4, Bing e Clarity; cobertura; conferência dos 26 exports; dados de todas as lojas (#1078, #1079). 36 min | 4 em `_site/` | Painel comercial; GA4 por dia; Search Console de novo depois de 30/11; consultas manuais de IA |
 | 2026-11-17 | 3 | Etapa 3 (interesse externo) | 10:33 | 11:03 | Autocompletar, Google, Trends, YouTube, Mercado Livre; `sinais.csv` com 1.039 sinais (#1080). 30 min | 6, de `...-1035-google-autocompletar` a `...-1053-mercadolivre-loja` | Trends sem CSV; YouTube sem Shorts; perguntas do Mercado Livre; Instagram |
-| 2026-11-17 | 5 | Etapa 5 (matriz e leitura) | 11:20 | em andamento | Matriz e leitura | nenhuma | Revisão independente depois |
+| 2026-11-17 | 5 | Etapa 5 (matriz e leitura) | 11:08 | 11:23 | Matriz de 26 oportunidades, leitura e validador (#1082). 15 min | nenhuma | — |
+| 2026-11-17 | Revisão | Revisão independente | 11:28 | 11:39 | Primeira passada: 20 prontas, 6 devolvidas, 0 recusadas; cerca de 200 sinais conferidos no bruto (#1083). 10 min | nenhuma | — |
+| 2026-11-17 | 5 | Etapa 5 (matriz e leitura) | 11:42 | 11:50 | Parecer aplicado: 29 oportunidades, com 3 novas (#1084). 8 min | nenhuma | — |
+| 2026-11-17 | Revisão | Revisão independente | 11:58 | 12:02 | Segunda passada: as 9 linhas em revisão ficam prontas (#1086). 3 min | nenhuma | — |
+| 2026-11-17 | Saída | Pesquisa de pautas (coordenação) | @nao-se-aplica | @nao-se-aplica | Estados aplicados na matriz e `recomendacoes.md` gerado: 17 com ação e 12 de manter | nenhuma | Decisão do Bruno em cada recomendação |
 
 ## Estado por etapa
 
@@ -24,9 +28,9 @@ arquivo, o `COMO-REFAZER.md` e o `LICOES.md`. O detalhe de cada etapa está em `
 | 4. Comercial | `@indisponivel`: sem painel acessível | `comercial.csv` (4 linhas) | sessão da etapa 4 |
 | 4. Cobertura | pronta; `entidades` sem ligação com o catálogo | `cobertura.csv` (70 linhas) | sessão da etapa 4 |
 | 4. Todas as lojas | pronta, a pedido do Bruno | `_site/2-processado/nossos-dados-lojas.csv` (8.295 linhas) | sessão da etapa 4 |
-| 5. Matriz e leitura | em andamento | `3-matriz/` | sessão da etapa 5 |
-| Revisão independente | aguardando a etapa 5 | `3-matriz/` | sessão diferente da do analista |
-| Recomendações | aguardando a revisão | `4-saida/recomendacoes.md` | coordenação |
+| 5. Matriz e leitura | pronta: 29 oportunidades, todas `pronta` | `3-matriz/matriz.csv`, `LEITURA.md` | sessão da etapa 5 |
+| Revisão independente | concluída, em duas passadas | `3-matriz/REVISAO.md` | sessão de revisão |
+| Recomendações | geradas; aguardam a decisão do Bruno | `4-saida/recomendacoes.md` | coordenação |
 
 ## Perguntas abertas para o Bruno (vindas dos relatos)
 
@@ -38,3 +42,7 @@ arquivo, o `COMO-REFAZER.md` e o `LICOES.md`. O detalhe de cada etapa está em `
 6. Coletar Instagram e Shorts numa próxima rodada?
 7. Nome de canal do YouTube pode ficar no repositório?
 8. Existe relatório de resgates do código `CECILIA`?
+9. Existe, ou dá para gerar, o link de afiliado da loja oficial da L'Amazonie no Mercado Livre?
+10. Quem testa o `CECILIA` na oferta anunciada até 26/11 (`op-lamazonie-0027`)?
+
+Tempo total do piloto, somando as sessões: cerca de 2 horas de trabalho de sessão (122 minutos), entre 09:58 e 12:02 de 17/11/2026, mais a coordenação.

@@ -512,6 +512,9 @@ const LINHAS = [
 
 const campo = (v) => (/[",\n]/.test(v) ? `"${v.replace(/"/g, '""')}"` : v);
 
+// Linhas aprovadas na segunda passada da revisão independente (REVISAO.md, 17/11/2026).
+const SEGUNDA_PASSADA = new Set([7, 8, 11, 12, 18, 19, 27, 28, 29]);
+
 const linhas = LINHAS.map((l, i) => [
   `op-lamazonie-${pad(i + 1)}`,
   'lamazonie',
@@ -530,7 +533,7 @@ const linhas = LINHAS.map((l, i) => [
   l.justificativa,
   l.confianca,
   l.dependencias,
-  l.estado || 'em-revisao',
+  l.estado || (SEGUNDA_PASSADA.has(i + 1) ? 'pronta' : 'em-revisao'),
   l.notas,
 ]);
 

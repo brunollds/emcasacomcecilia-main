@@ -56,6 +56,59 @@ Ficam para depois da etapa 5 e da revisão, para o formato não mudar com a aná
 Sim, quase tudo. O que é próprio da L'Amazonie: feed da Shopify (a BAW roda em outra plataforma), parceria sem dado
 próprio por ter um dia de idade e catálogo pequeno.
 
+## 2026-11-17 · L'Amazonie · etapa 5, revisão e avaliação do piloto
+
+Tempo medido: matriz em 15 minutos, primeira revisão em 10, correção em 8, segunda revisão em 3.
+
+### O piloto pelos cinco critérios
+
+| Critério | Resultado |
+|---|---|
+| Mapeou a oferta | Sim: 68 entidades, com cobertura parcial declarada (33 fichas sem leitura, lista de ingredientes não publicada) |
+| Preservou as fontes | Sim para arquivo e feed. O que veio do navegador é texto gravado pela sessão, não captura |
+| O processamento se refaz | Sim: quatro geradores e a matriz se repetem a partir do bruto |
+| As evidências se cruzam | Sim, por id, com um validador. Ele confere que o id existe, não que diz o que a frase diz |
+| Recomendações verificáveis | Sim: 29 oportunidades revisadas, 17 com ação |
+
+### O que o programa acrescentou à pesquisa semente de 16/11
+
+- Uma ação urgente que ninguém tinha: a oferta de Black Friday anunciada no Google com "Até 26/11", onde o código nunca foi testado. Estava no bruto da etapa 3, o analista não viu e o revisor viu.
+- O preço da loja oficial no Mercado Livre e a conta por quantidade.
+- Os "não criar" com evidência: seis temas descartados com resultado de busca, Trends e YouTube guardados.
+- A linha de base do site e a qualidade do GA4 e do Clarity, com evidência.
+
+O que ele não acrescentou: quase tudo o que sustenta os seis artigos já estava na semente, e as pendências mais importantes continuam as mesmas (rótulo, regras da Black Friday, mínimo e cashback). Para um parceiro com um dia de casa e catálogo de 42 produtos, a semente já tinha chegado perto. O ganho do programa deve aparecer mais em parceiro com catálogo grande ou com histórico no site.
+
+### Funcionou
+
+- **Revisor diferente do analista.** Achou seis linhas a corrigir em 10 minutos, entre elas o achado de maior valor do piloto e um erro de fato (volume tratado como desconhecido).
+- **Matriz por script, com validador.** O revisor regenerou e comparou com `git diff`.
+- **Segunda passada só sobre o que mudou.** Três minutos.
+
+### Falhou
+
+- **O analista montou a matriz só sobre os CSVs** e leu a pesquisa semente no fim, como comparação. Dois erros vieram daí.
+- **O que mais pesou nas decisões não tinha linha no `sinais.csv`:** anúncio com data, preço de vitrine, título de anúncio com volume e texto da resposta de IA estavam só no bruto.
+- **Sinal lido como procura.** O bloco de buscas relacionadas se repete entre as buscas da mesma marca e foi contado como se fosse independente.
+- **Listas de centenas de ids** não são revisáveis; o revisor trabalhou por amostra.
+- **Merge automático do GitHub travou** num PR limpo e aprovado; foi feito à mão.
+
+### Mudanças propostas, ainda não aplicadas
+
+| Onde | Proposta | Origem |
+|---|---|---|
+| Etapa 5 | O analista lê a pesquisa semente e o dossiê como fonte, antes de montar a matriz | revisão |
+| `FORMATOS.md`, sinais | Tipos de sinal para anúncio, leitura de vitrine fora da loja e conteúdo da resposta de IA; buscas relacionadas juntadas por termo, com as consultas de origem | revisão |
+| `FORMATOS.md`, matriz | Coluna de evidências principais (três a cinco ids) separada do conjunto completo; separar "manter a página" de "não criar"; prioridade `@nao-se-aplica` em linha de manter; lugar para referir o que foi lido no repositório | etapa 5 e revisão |
+| Validador | Conferir "N ids citados para N anunciado" nas contagens em prosa | revisão |
+| Etapa 3 | Guardar a página inteira do Google para toda consulta que sustente prioridade alta ou artigo novo, antes da etapa 5 | etapa 3 e revisão |
+| `.gitattributes` | Cobrir `2-processado/` e `3-matriz/`, ou mandar comparar o processado com `git diff` em vez de hash | revisão |
+| Processo | A coordenação gera `recomendacoes.md` por script a partir da matriz, depois da revisão | coordenação |
+
+### Antes do segundo piloto (BAW)
+
+Aplicar as mudanças das duas tabelas de propostas, com a aprovação do Bruno. A BAW não roda em Shopify e as fichas dela não têm guia de tamanhos: a etapa 2 vai precisar do navegador e de pedidos espaçados desde o começo.
+
 Modelo de registro:
 
 ```markdown
