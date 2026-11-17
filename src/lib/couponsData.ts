@@ -1273,10 +1273,10 @@ const STORE_COUPONS: Coupon[] = [
       { benefit: 'outro-cupom', stacks: 'nao', condition: 'A loja aceita um cupom por pedido' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis em compras acima de R$ 399; o valor conta depois do cupom' },
     ],
-    lastVerified: '2026-11-11',
-    testedAt: '2026-11-11',
+    lastVerified: '2026-11-17',
+    testedAt: '2026-11-17',
     testNote:
-      'No kit "Compre 1 Daily T-shirt e ganhe 1 Cueca Boxer Comfort", o carrinho sem cupom deu R$ 139,00, com a cueca grátis. Com o EMCASACOMCECILIA, o kit saiu por R$ 118,15: os 15% entraram e a cueca continuou grátis. No mesmo kit, o cupom da campanha da loja deu 5%, R$ 132,05. Em 31/10/2026, no esquenta de Black Friday da Insider, o EMCASACOMCECILIA deu os 15% sobre o preço já reduzido: a Tech T-Shirt, de R$ 169,00 por R$ 129,00, saiu por R$ 109,65, e uma Calça Pantalona InLounge do Outlet, de R$ 299,00 por R$ 179,00, saiu por R$ 152,15. O checkout fechou em R$ 261,80 com o cupom aplicado. Em 26/10, o cupom também valeu numa cueca em promoção e, nos testes de outubro, numa meia sozinha no carrinho, sem valor mínimo.',
+      'Num carrinho com dez Cuecas Boxer Performance, em dois kits de cinco, e uma Saia Envelope Breeze, o total sem cupom era de R$ 1.062,00, já com o desconto dos kits. O EMCASACOMCECILIA tirou 15% de cada item, o desconto dos kits continuou, e o total caiu para R$ 902,71. No mesmo carrinho, um código de outra criadora, anunciado por aí com 20% para novos clientes, deu os mesmos 15%; num carrinho de quem já tinha comprado na loja, sem login, esse código deu 5%, e o checkout avisou que os 15% dele valem só na primeira compra. Em 11/11/2026, no kit "Compre 1 Daily T-shirt e ganhe 1 Cueca Boxer Comfort", o carrinho sem cupom deu R$ 139,00, com a cueca grátis. Com o EMCASACOMCECILIA, o kit saiu por R$ 118,15: os 15% entraram e a cueca continuou grátis. No mesmo kit, o cupom da campanha da loja deu 5%, R$ 132,05. Em 31/10/2026, no esquenta de Black Friday da Insider, o EMCASACOMCECILIA deu os 15% sobre o preço já reduzido: a Tech T-Shirt, de R$ 169,00 por R$ 129,00, saiu por R$ 109,65, e uma Calça Pantalona InLounge do Outlet, de R$ 299,00 por R$ 179,00, saiu por R$ 152,15. O checkout fechou em R$ 261,80 com o cupom aplicado. Em 26/10, o cupom também valeu numa cueca em promoção e, nos testes de outubro, numa meia sozinha no carrinho, sem valor mínimo.',
     codeInstructions: [
       'Copie o código EMCASACOMCECILIA no card acima.',
       'Acesse a loja online da Insider pelo botão indicado: o link já leva o cupom para o carrinho.',
@@ -1300,7 +1300,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Existe cupom Insider de 20%, 25% ou 30%?',
         answer:
-          'Com código, o maior desconto que testamos na Insider é o do EMCASACOMCECILIA: 15% OFF para clientes novos e antigos, sem valor mínimo, nos produtos elegíveis da loja online, inclusive Outlet, kits e preços de Black Friday. Lançamentos ficam de fora. Ao comparar com percentuais maiores, confira se o desconto anunciado vem de um código, de uma seleção promocional ou da combinação de benefícios.',
+          'Com código, o maior desconto que testamos na Insider é o do EMCASACOMCECILIA: 15% OFF para clientes novos e antigos, sem valor mínimo, nos produtos elegíveis da loja online, inclusive Outlet, kits e preços de Black Friday. Lançamentos ficam de fora. Num teste de 17/11/2026, um código de outra criadora anunciado com 20% para novos clientes deu 15% na primeira compra, o mesmo do EMCASACOMCECILIA, e 5% para quem já tinha comprado na loja. Ao comparar com percentuais maiores, confira a linha de desconto no resumo do pedido antes de pagar.',
       },
       {
         question: 'O cupom EMCASACOMCECILIA está funcionando hoje?',
@@ -1315,7 +1315,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Qual cupom Insider dá 15% para quem já é cliente?',
         answer:
-          'O EMCASACOMCECILIA. Ele dá 15% nos produtos elegíveis da loja online para quem compra pela primeira vez e para quem já comprou: o desconto não diminui nas compras seguintes. Lançamentos ficam de fora, e a loja aceita um cupom por pedido.',
+          'O EMCASACOMCECILIA. Ele dá 15% nos produtos elegíveis da loja online para quem compra pela primeira vez e para quem já comprou: o desconto não diminui nas compras seguintes. No nosso teste, um código de outra criadora caiu para 5% para quem já tinha comprado na loja, mesmo sem login. Lançamentos ficam de fora, e a loja aceita um cupom por pedido.',
       },
       {
         question: 'Posso usar o cupom junto com outro cupom?',
