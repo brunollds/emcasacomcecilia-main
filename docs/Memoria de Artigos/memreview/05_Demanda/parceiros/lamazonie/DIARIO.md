@@ -17,6 +17,7 @@ arquivo, o `COMO-REFAZER.md` e o `LICOES.md`. O detalhe de cada etapa está em `
 | 2026-11-17 | 5 | Etapa 5 (matriz e leitura) | 11:42 | 11:50 | Parecer aplicado: 29 oportunidades, com 3 novas (#1084). 8 min | nenhuma | — |
 | 2026-11-17 | Revisão | Revisão independente | 11:58 | 12:02 | Segunda passada: as 9 linhas em revisão ficam prontas (#1086). 3 min | nenhuma | — |
 | 2026-11-17 | Saída | Pesquisa de pautas (coordenação) | @nao-se-aplica | @nao-se-aplica | Estados aplicados na matriz e `recomendacoes.md` gerado: 17 com ação e 12 de manter | nenhuma | Decisão do Bruno em cada recomendação |
+| 2026-11-17 | Teste | Pesquisa de pautas (coordenação) | 18:48 | 18:52 | `op-lamazonie-0027`: o `CECILIA` entrou na oferta de Black Friday anunciada (R$ 159,00 para R$ 151,05). 4 min | `20261117-1848-checkout-oferta-bf` | Levar o resultado ao guia de Black Friday (`op-lamazonie-0007`) e à página de cupom |
 
 ## Estado por etapa
 
@@ -43,6 +44,6 @@ arquivo, o `COMO-REFAZER.md` e o `LICOES.md`. O detalhe de cada etapa está em `
 7. Nome de canal do YouTube pode ficar no repositório?
 8. Existe relatório de resgates do código `CECILIA`?
 9. Existe, ou dá para gerar, o link de afiliado da loja oficial da L'Amazonie no Mercado Livre?
-10. Quem testa o `CECILIA` na oferta anunciada até 26/11 (`op-lamazonie-0027`)?
+10. ~~Quem testa o `CECILIA` na oferta anunciada até 26/11?~~ Testado em 17/11, a pedido do Bruno: o código entrou.
 
 Tempo total do piloto, somando as sessões: cerca de 2 horas de trabalho de sessão (122 minutos), entre 09:58 e 12:02 de 17/11/2026, mais a coordenação.

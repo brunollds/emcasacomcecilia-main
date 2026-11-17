@@ -1,0 +1,2 @@
+Origem: /cart.js da loja, depois de adicionar a oferta ao carrinho (resumo gravado pela sessão).
+{"count":1,"total":15900,"items":[["Black Friday: Sérum para Crescimento de Cílios e Sobrancelhas + Protetor Solar Incolor FPS 99 Grátis - 1 sérum + protetor incolor FPS 99 grátis","1 sérum + protetor incolor FPS 99 grátis",1,15900]]}
