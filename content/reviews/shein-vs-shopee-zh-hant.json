@@ -19,12 +19,12 @@
   "metaDescription": "SHEIN 還是 Temu？比較兩家平台在新加坡與馬來西亞公布的運費、時效與退貨，以及依購物需求怎麼選。",
   "publishedAt": "2026年10月13日",
   "publishedAtISO": "2026-10-13",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-17",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/shein/shein-ou-shopee-temu-capa-zh-hant-v2.webp",
-  "imageAlt": "SHEIN官方照片中，兩位模特在海邊分別穿著粉紅花卉連身裙和白色連身裙。配文“買衣服 選哪家？”“SHEIN 還是 Temu？”及推薦碼4CW5Y。",
+  "image": "/images/reviews/shein/shein-ou-temu-capa-zh-hant.webp",
+  "imageAlt": "商店照片中的四件單品：Temu 的紫色百褶洋裝和條紋襯衫，SHEIN 的米色針織洋裝和條紋襯衫，旁邊是「SHEIN 還是 Temu？」的字樣",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -145,6 +145,210 @@
       ]
     },
     {
+      "heading": "兩家各賣什麼：一份樣本",
+      "paragraphs": [
+        "我們從兩家平台各挑一件相似的單品，依服飾與配件分成八個類別並排呈現。它們是同一類別裡不同的單品：這份樣本只展示各平台上能找到哪一類單品，不比較價格，也不比較品質。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "alt": "模特兒穿著黑色短袖緞面睡衣上衣和短褲，有釦子和白色滾邊，Temu 照片",
+          "caption": "Temu：附釦子的短袖緞面睡衣上衣加短褲。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gjluu5cwfti",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "alt": "模特兒穿著粉色背心加短褲的睡衣，印有紅色愛心圖案，SHEIN 照片",
+          "caption": "SHEIN：印有愛心圖案的背心加短褲睡衣。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "alt": "掛在衣架上的藍白條紋長袖襯衫，Temu 照片",
+          "caption": "Temu：附口袋的長袖條紋襯衫。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gxe92rfme7a",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "alt": "模特兒穿著淺藍條紋、較寬鬆的長袖襯衫，SHEIN 照片",
+          "caption": "SHEIN：較寬鬆的長袖條紋襯衫。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "alt": "模特兒穿著較寬鬆的白色短袖圓領上衣搭配牛仔褲，Temu 照片",
+          "caption": "Temu：白色短袖圓領上衣。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gocj7bzwg5p",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "alt": "模特兒穿著白色 V 領 T 恤搭配牛仔褲，SHEIN 照片",
+          "caption": "SHEIN：白色棉質 V 領 T 恤。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "alt": "模特兒穿著腰間繫蝴蝶結的紫色短袖百褶洋裝，Temu 照片",
+          "caption": "Temu：腰間繫蝴蝶結的短袖百褶洋裝。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/g5m1t2j2ou2",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "alt": "模特兒穿著羅紋針織的米色短袖洋裝，SHEIN 照片",
+          "caption": "SHEIN：米色短袖針織洋裝。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "alt": "附斜背帶和正面拉鍊口袋的棕色手提包，Temu 照片",
+          "caption": "Temu：附斜背帶和拉鍊口袋的手提包。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gvqr1kyex89",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "alt": "模特兒肩上背著深棕色柔軟合成材質的肩背包，SHEIN 照片",
+          "caption": "SHEIN：柔軟合成材質的肩背包。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-legging.webp",
+          "alt": "模特兒穿著米色高腰緊身褲走路，手機放在側邊口袋，Temu 照片",
+          "caption": "Temu：附口袋的高腰緊身褲。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gqxp1lpzezg",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-legging.webp",
+          "alt": "模特兒坐著，穿著灰藍色無縫緊身褲，SHEIN 照片",
+          "caption": "SHEIN：無縫緊身褲。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "alt": "模特兒穿著藍色高腰窄管牛仔褲和白色球鞋，Temu 照片",
+          "caption": "Temu：高腰窄管牛仔褲。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gd6b7du4puh",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "alt": "模特兒穿著淺藍色寬管牛仔褲，SHEIN 照片",
+          "caption": "SHEIN：寬管牛仔褲。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "alt": "模特兒腳上穿著黑色低跟尖頭鞋，Temu 照片",
+          "caption": "Temu：低跟尖頭鞋。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/goj97yn16na",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "alt": "一雙黑色尖頭無跟樂福鞋，放在白色布料上，SHEIN 照片",
+          "caption": "SHEIN：尖頭樂福鞋。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C",
+          "store": "shein"
+        }
+      ],
+      "comparisonTable": {
+        "headers": [
+          "類別",
+          "Temu",
+          "SHEIN"
+        ],
+        "rows": [
+          [
+            "睡衣",
+            "[短袖緞面睡衣上衣加短褲，附釦子](https://temu.to/k/gjluu5cwfti)",
+            "[背心加愛心條紋短褲的睡衣](https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C)"
+          ],
+          [
+            "襯衫",
+            "[附口袋的長袖條紋襯衫](https://temu.to/k/gxe92rfme7a)",
+            "[較寬鬆的長袖條紋襯衫](https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C)"
+          ],
+          [
+            "T 恤",
+            "[較寬鬆的白色短袖圓領上衣](https://temu.to/k/gocj7bzwg5p)",
+            "[白色棉質 V 領 T 恤](https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C)"
+          ],
+          [
+            "洋裝",
+            "[腰間繫蝴蝶結的短袖百褶洋裝](https://temu.to/k/g5m1t2j2ou2)",
+            "[米色短袖針織洋裝](https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C)"
+          ],
+          [
+            "包包",
+            "[附斜背帶和拉鍊口袋的手提包](https://temu.to/k/gvqr1kyex89)",
+            "[柔軟合成材質的肩背包](https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C)"
+          ],
+          [
+            "運動服",
+            "[附口袋的高腰緊身褲](https://temu.to/k/gqxp1lpzezg)",
+            "[無縫緊身褲](https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C)"
+          ],
+          [
+            "牛仔褲",
+            "[高腰窄管牛仔褲](https://temu.to/k/gd6b7du4puh)",
+            "[寬管牛仔褲](https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C)"
+          ],
+          [
+            "鞋子",
+            "[低跟尖頭鞋](https://temu.to/k/goj97yn16na)",
+            "[尖頭樂福鞋](https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C)"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "兩家平台的商品標題都很長，塞滿搜尋用的關鍵字，樣本改用簡短的名稱。布料、尺寸和賣家，請看商品頁面。"
+      ]
+    },
+    {
       "heading": "合作與推薦碼",
       "paragraphs": [
         "Cecília 是 SHEIN 和 Temu 的聯盟會員。透過本文連結購買時，她可能獲得傭金，你不需要多付費。這不會改變答案：怎麼選，取決於你要買什麼。",
@@ -162,7 +366,8 @@
         {
           "label": "打開 Temu",
           "href": "https://temu.to/k/glfwht5gllj",
-          "sponsored": true
+          "sponsored": true,
+          "store": "temu"
         }
       ]
     },
@@ -179,14 +384,10 @@
       ]
     }
   ],
-  "cta": {
-    "text": "如果選擇SHEIN，請透過Cecília的連結開啟SHEIN，再在App或網站搜尋4CW5Y：這個代碼確實有折扣。付款前，確認含運費與稅金的總金額。",
-    "label": "前往 SHEIN",
-    "url": "https://onelink.shein.com/55/6463grgxf6ru",
-    "sponsored": true
-  },
-  "coupon": "4CW5Y",
-  "affiliate": "shein",
+  "affiliate": [
+    "shein",
+    "temu"
+  ],
   "editorialNote": "本文為編輯內容。透過本文的 SHEIN 和 Temu 連結購買，我們可能獲得傭金。團隊成員沒有使用過這些商品。",
   "relatedArticles": [
     {

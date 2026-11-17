@@ -1,0 +1,414 @@
+{
+  "id": 998,
+  "slug": "shein-ou-temu-qual-escolher",
+  "locale": "pt",
+  "translationKey": "shein-vs-shopee-temu",
+  "title": "SHEIN ou Temu: qual escolher (frete, prazo, devolução e imposto)",
+  "seoTitle": "SHEIN ou Temu: qual escolher para comprar?",
+  "type": "Comparativo",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "SHEIN e Temu lado a lado: frete, prazo, devolução, imposto e Reclame Aqui pelas regras que cada loja publica, e como escolher conforme o que você vai comprar.",
+  "metaDescription": "O 4CW5Y dá desconto numa seleção da SHEIN. SHEIN ou Temu: frete, prazo, devolução e imposto lado a lado, e o que conferir antes de pagar.",
+  "publishedAt": "17 de novembro de 2026",
+  "publishedAtISO": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/shein/shein-ou-temu-capa-pt.webp",
+  "imageAlt": "Quatro peças em fotos das lojas: um vestido plissado roxo e uma camisa listrada da Temu, um vestido de malha creme e uma camisa listrada da SHEIN, ao lado da pergunta SHEIN ou Temu?",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "Temu: você quer tempo para devolver roupa que não provou; ela dá 90 dias da compra, e a SHEIN, 20 do recebimento."
+    ],
+    "skipIf": [
+      "SHEIN: você conta com os 20 dias para body, roupa de banho ou roupa íntima; essas só voltam em 7."
+    ]
+  },
+  "affiliate": [
+    "shein",
+    "temu"
+  ],
+  "editorialNote": "Este artigo é editorial. Podemos receber comissão pelos links da SHEIN e da Temu. Ninguém da equipe usou as peças mostradas.",
+  "relatedArticles": [
+    {
+      "slug": "shein-ou-shopee-temu"
+    },
+    {
+      "slug": "shein-e-confiavel"
+    },
+    {
+      "slug": "codigo-de-indicacao-shein"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "SHEIN e Temu cobram o mesmo frete mínimo para o Brasil e seguem a mesma regra de imposto. A diferença está na devolução e no atendimento: a Temu dá mais tempo para devolver, e a SHEIN tem reputação melhor no Reclame Aqui. São empresas diferentes, e cada uma publica o próprio prazo de entrega."
+      ]
+    },
+    {
+      "heading": "SHEIN e Temu lado a lado no Brasil",
+      "image": {
+        "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
+        "alt": "Página inicial do site da SHEIN no Brasil (br.shein.com), com a campanha do dia",
+        "caption": "Página inicial da SHEIN no Brasil, com a campanha do dia.",
+        "objectFit": "contain"
+      },
+      "paragraphs": [
+        "São empresas diferentes, e cada uma se descreve de um jeito. A [SHEIN](https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20) se apresenta como varejista de moda e lifestyle, fundada em 2012, com roupas da marca própria e produtos de uma rede de fornecedores. A [Temu](https://temu.to/k/glfwht5gllj) diz que conecta o comprador a parceiros comerciais, fabricantes e marcas, foi fundada em Boston em 2022 e envia de origens diferentes, conforme o produto."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Critério",
+          "SHEIN",
+          "Temu"
+        ],
+        "rows": [
+          [
+            "Frete",
+            "R$ 15 abaixo de R$ 69; grátis acima, no envio do exterior",
+            "R$ 15 abaixo de R$ 69; grátis a partir de R$ 69, no envio padrão"
+          ],
+          [
+            "Prazo publicado",
+            "3 a 5 dias para processar, mais a estimativa de entrega, que muda a cada dia",
+            "17 a 30 dias de entrega, com 1 a 3 dias para processar"
+          ],
+          [
+            "Devolução",
+            "20 dias do recebimento, nos itens que aceitam; a 1ª de cada pedido é grátis",
+            "90 dias da compra, nos itens retornáveis; a 1ª de cada pedido é grátis"
+          ],
+          [
+            "Reclame Aqui",
+            "Boa, nota 7,5",
+            "Ruim, nota 5,7"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "No papel, o frete é o mesmo. O prazo não se compara como medida: a SHEIN mostra uma estimativa calculada para cada pedido, e a Temu publica uma faixa fixa. Nenhuma das duas garante que chega antes da outra."
+      ]
+    },
+    {
+      "heading": "Imposto e taxas: a mesma regra nas duas",
+      "paragraphs": [
+        "As duas participam do Remessa Conforme e cobram o imposto no próprio pedido, sem taxa na entrega. Na compra de pessoa física, a regra é da [Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/tributacao) e vale igual nas duas lojas:"
+      ],
+      "bullets": [
+        "**Até US$ 50:** imposto de importação zero e ICMS de 17% a 20%, conforme o estado.",
+        "**Acima de US$ 50:** imposto de importação de 60%, com US$ 30 abatidos do imposto, mais o ICMS."
+      ],
+      "postParagraphs": [
+        "O imposto e o frete aparecem separados no checkout das duas. A diferença está no reembolso: a Temu diz que o imposto de importação não volta quando você devolve a peça. A tabela por estado e um exemplo de cálculo estão no [guia de Black Friday da SHEIN](/reviews/black-friday-shein)."
+      ]
+    },
+    {
+      "heading": "Devolução: 90 dias da compra contra 20 do recebimento",
+      "bullets": [
+        "**Temu:** 90 dias contados da compra, nos itens retornáveis, e nunca menos de 7 dias depois de receber. Depois de pedir a devolução, você tem 14 dias para postar. A primeira devolução de cada pedido é grátis; da segunda em diante, a Temu desconta R$ 35 do reembolso.",
+        "**SHEIN:** 20 dias contados do recebimento. Bodies, roupa de banho e roupa íntima ficam fora: só voltam nos 7 dias da lei. A primeira devolução de cada pedido é grátis; da segunda em diante, a SHEIN desconta R$ 45 do reembolso."
+      ],
+      "postParagraphs": [
+        "Nas duas, roupa usada, lavada ou sem etiqueta não volta. Como a Temu conta da compra e a SHEIN do recebimento, a vantagem da Temu diminui quando a entrega demora; ainda assim, os 90 dias dão folga para quem compra roupa sem provar."
+      ]
+    },
+    {
+      "heading": "Antes de comprar: o que conferir",
+      "bullets": [
+        "**O total**, com frete e imposto, no fim do checkout de cada loja.",
+        "**A previsão de entrega** do pedido, na página do produto ou do checkout.",
+        "**Se a peça pode ser devolvida.** Na SHEIN, bodies, roupa de banho e roupa íntima só voltam em 7 dias; na Temu, a página da peça diz se ela é retornável.",
+        "**Quem vende:** nas duas, a página da peça mostra a loja ou o vendedor e as avaliações.",
+        "**O nome e o CPF corretos no pedido**, que a compra do exterior exige."
+      ],
+      "postParagraphs": [
+        "Para saber quem opera a SHEIN e o que pesa na reputação dela, veja [SHEIN é confiável?](/reviews/shein-e-confiavel)."
+      ]
+    },
+    {
+      "heading": "Qual escolher: o que o Reclame Aqui mostra",
+      "comparisonTable": {
+        "headers": [
+          "Loja",
+          "Reputação e nota",
+          "Resolvidas, entre as avaliadas",
+          "Tempo médio de resposta"
+        ],
+        "rows": [
+          [
+            "[SHEIN](https://www.reclameaqui.com.br/empresa/shein/)",
+            "Boa, 7,5",
+            "77,7%",
+            "3 dias e 10 horas"
+          ],
+          [
+            "[Temu](https://www.reclameaqui.com.br/empresa/temu/)",
+            "Ruim, 5,7",
+            "53,7%",
+            "7 dias e 5 horas"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "De maio a outubro de 2026, a SHEIN recebeu 33.277 reclamações e a Temu, 9.390. A Temu respondeu quase todas (99,9%, contra 92,6% da SHEIN), mas resolveu menos. Entre quem avaliou o atendimento, 71,1% voltariam a comprar na SHEIN e 41,1% na Temu.",
+        "Duas ressalvas mudam a leitura. A nota mede o atendimento a quem reclama no Reclame Aqui, não a qualidade das peças nem o prazo de entrega. E o número de reclamações depende do tamanho de cada loja no Brasil: sem o número de pedidos, ele não diz em qual delas uma compra dá mais problema.",
+        "Na prática: se o atendimento depois da compra pesa mais para você, a SHEIN resolve mais reclamações. Se o que pesa é ter tempo para devolver, a Temu dá mais prazo."
+      ]
+    },
+    {
+      "heading": "O que cada uma vende: uma amostra",
+      "paragraphs": [
+        "Escolhemos duas peças parecidas, uma de cada loja, em oito categorias de roupa e acessório. São peças diferentes da mesma categoria: a amostra mostra o tipo de peça que você encontra em cada loja, sem comparar preço nem qualidade."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "alt": "Modelo com pijama de cetim preto de manga curta e short, com botões e debrum branco, em foto da Temu",
+          "caption": "Temu: pijama de cetim de manga curta e short, com botões.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gjluu5cwfti",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "alt": "Modelo com pijama rosa de regata e short com estampa de corações vermelhos, em foto da SHEIN",
+          "caption": "SHEIN: pijama de regata e short com estampa de corações.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "alt": "Camisa listrada de azul e branco, de manga longa, pendurada num cabide, em foto da Temu",
+          "caption": "Temu: camisa listrada de manga longa com bolso.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gxe92rfme7a",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "alt": "Modelo com camisa de listras azul-claras, de manga longa, mais solta, em foto da SHEIN",
+          "caption": "SHEIN: camisa listrada de manga longa, mais solta.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "alt": "Modelo com blusa branca de manga curta e gola redonda, mais solta, com calça jeans, em foto da Temu",
+          "caption": "Temu: blusa branca de manga curta e gola redonda.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gocj7bzwg5p",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "alt": "Modelo com camiseta branca de decote em V e calça jeans, em foto da SHEIN",
+          "caption": "SHEIN: camiseta branca de algodão com decote em V.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "alt": "Modelo com vestido roxo plissado de manga curta e laço na cintura, em foto da Temu",
+          "caption": "Temu: vestido plissado de manga curta com laço na cintura.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/g5m1t2j2ou2",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "alt": "Modelo com vestido creme de malha canelada, de manga curta, em foto da SHEIN",
+          "caption": "SHEIN: vestido de malha creme de manga curta.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "alt": "Bolsa de mão marrom com alça transversal e bolso frontal com zíper, em foto da Temu",
+          "caption": "Temu: bolsa de mão com alça transversal e bolso com zíper.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gvqr1kyex89",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "alt": "Bolsa de ombro marrom-escura de material sintético macio, no ombro de uma modelo, em foto da SHEIN",
+          "caption": "SHEIN: bolsa de ombro de material sintético macio.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-legging.webp",
+          "alt": "Modelo caminhando com legging bege de cintura alta, com celular no bolso lateral, em foto da Temu",
+          "caption": "Temu: legging de cintura alta com bolsos.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gqxp1lpzezg",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-legging.webp",
+          "alt": "Modelo com legging azul-acinzentada sem costura, sentada, em foto da SHEIN",
+          "caption": "SHEIN: legging sem costura.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "alt": "Modelo com calça jeans skinny azul de cintura alta e tênis branco, em foto da Temu",
+          "caption": "Temu: calça jeans skinny de cintura alta.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gd6b7du4puh",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "alt": "Modelo com calça jeans wide leg azul-clara, em foto da SHEIN",
+          "caption": "SHEIN: calça jeans wide leg.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "alt": "Sapatos pretos de bico fino com salto baixo, nos pés de uma modelo, em foto da Temu",
+          "caption": "Temu: sapato de bico fino com salto baixo.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/goj97yn16na",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "alt": "Par de mocassins pretos de bico fino, sem salto, sobre um tecido branco, em foto da SHEIN",
+          "caption": "SHEIN: mocassim de bico fino.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C",
+          "store": "shein"
+        }
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Categoria",
+          "Temu",
+          "SHEIN"
+        ],
+        "rows": [
+          [
+            "Pijama",
+            "[Pijama de cetim de manga curta e short, com botões](https://temu.to/k/gjluu5cwfti)",
+            "[Pijama de regata e short listrado com corações](https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C)"
+          ],
+          [
+            "Camisa",
+            "[Camisa listrada de manga longa com bolso](https://temu.to/k/gxe92rfme7a)",
+            "[Camisa listrada de manga longa, mais solta](https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C)"
+          ],
+          [
+            "Camiseta",
+            "[Blusa branca de manga curta e gola redonda, mais solta](https://temu.to/k/gocj7bzwg5p)",
+            "[Camiseta branca de algodão com decote em V](https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C)"
+          ],
+          [
+            "Vestido",
+            "[Vestido plissado de manga curta com laço na cintura](https://temu.to/k/g5m1t2j2ou2)",
+            "[Vestido de malha creme de manga curta](https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C)"
+          ],
+          [
+            "Bolsa",
+            "[Bolsa de mão com alça transversal e bolso com zíper](https://temu.to/k/gvqr1kyex89)",
+            "[Bolsa de ombro de material sintético macio](https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C)"
+          ],
+          [
+            "Academia",
+            "[Legging de cintura alta com bolsos](https://temu.to/k/gqxp1lpzezg)",
+            "[Legging sem costura](https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C)"
+          ],
+          [
+            "Calça jeans",
+            "[Calça jeans skinny de cintura alta](https://temu.to/k/gd6b7du4puh)",
+            "[Calça jeans wide leg](https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C)"
+          ],
+          [
+            "Calçado",
+            "[Sapato de bico fino com salto baixo](https://temu.to/k/goj97yn16na)",
+            "[Mocassim de bico fino](https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C)"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Os títulos dos anúncios, nas duas lojas, são longos e cheios de palavras de busca; a amostra usa um nome curto. Tecido, medidas e quem vende estão na página da peça."
+      ]
+    },
+    {
+      "heading": "Parceria e código de indicação",
+      "paragraphs": [
+        "A Cecília é afiliada da SHEIN e da Temu e pode receber comissão pelas compras feitas pelos links deste artigo, sem custo a mais para você. Isso não muda a resposta: a escolha depende do que você vai comprar.",
+        "O 4CW5Y é o código de indicação da Cecília na SHEIN e dá desconto, sim, numa seleção de produtos e promoções da SHEIN; quanto e em quais peças, a SHEIN decide. Abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site, não no campo de cupom. A Temu não tem código nosso."
+      ],
+      "links": [
+        {
+          "label": "Ver o código de indicação 4CW5Y e as campanhas da SHEIN",
+          "href": "/cupons/shein"
+        },
+        {
+          "label": "Código de indicação da SHEIN: onde colocar e como funciona",
+          "href": "/reviews/codigo-de-indicacao-shein"
+        },
+        {
+          "label": "Abrir a Temu",
+          "href": "https://temu.to/k/glfwht5gllj",
+          "sponsored": true,
+          "store": "temu"
+        },
+        {
+          "label": "SHEIN ou Shopee: qual escolher",
+          "href": "/reviews/shein-ou-shopee-temu"
+        }
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "SHEIN e Temu são a mesma coisa? Não. São empresas diferentes: a SHEIN se descreve como varejista de moda com marca própria, fundada em 2012, e a Temu como uma plataforma que liga o comprador a vendedores e fabricantes, fundada em 2022.",
+        "Qual chega mais rápido, SHEIN ou Temu? Depende do pedido. A SHEIN mostra uma estimativa calculada para cada pedido, e a Temu publica uma faixa de 17 a 30 dias. Compare a previsão que aparece no checkout de cada uma.",
+        "A Temu cobra taxa? Cobra o imposto da compra internacional no próprio pedido, pela mesma regra da SHEIN, e o frete abaixo do valor mínimo. Na devolução, o imposto de importação não volta.",
+        "Qual é mais barata, SHEIN ou Temu? Depende da peça e do vendedor. O que muda o total é o frete, o imposto e, na SHEIN, o desconto do código de indicação. Compare o total no fim do checkout.",
+        "O 4CW5Y dá desconto? Sim. É o código de indicação da Cecília na SHEIN e dá desconto numa seleção de produtos e promoções; quanto e em quais peças, a SHEIN decide. Pesquise o código no app ou no site, não no campo de cupom."
+      ]
+    }
+  ]
+}

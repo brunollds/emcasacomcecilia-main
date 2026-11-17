@@ -19,12 +19,12 @@
   "metaDescription": "SHEIN vs Temu: shipping, delivery time and returns published for the UK, and what to check before you buy.",
   "publishedAt": "October 13, 2026",
   "publishedAtISO": "2026-10-13",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-17",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/shein/shein-ou-shopee-temu-capa-en-v2.webp",
-  "imageAlt": "Two models in pink floral and white dresses by the sea in an official SHEIN photo. Cover text: “Where to buy your clothes?” and “SHEIN or Temu?”, with referral code 4CW5Y.",
+  "image": "/images/reviews/shein/shein-ou-temu-capa-en.webp",
+  "imageAlt": "Four pieces in store photos: a purple pleated dress and a striped shirt from Temu, a cream knit dress and a striped shirt from SHEIN, next to the question SHEIN or Temu?",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -116,6 +116,210 @@
       ]
     },
     {
+      "heading": "What each one sells: a sample",
+      "paragraphs": [
+        "We picked two similar pieces, one from each store, in eight categories of clothing and accessories. They are different pieces from the same category: the sample shows the kind of piece you find in each store, without comparing price or quality."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "alt": "Model wearing a black short-sleeved satin pyjama top and shorts with buttons and white piping, in a Temu photo",
+          "caption": "Temu: short-sleeved satin pyjama top and shorts, with buttons.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gjluu5cwfti",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "alt": "Model wearing a pink vest-top and shorts pyjama set with a red heart print, in a SHEIN photo",
+          "caption": "SHEIN: vest-top and shorts pyjamas with a heart print.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "alt": "Blue and white striped long-sleeved shirt hanging on a hanger, in a Temu photo",
+          "caption": "Temu: long-sleeved striped shirt with a pocket.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gxe92rfme7a",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "alt": "Model wearing a long-sleeved shirt with light blue stripes, in a looser fit, in a SHEIN photo",
+          "caption": "SHEIN: long-sleeved striped shirt, looser fit.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "alt": "Model wearing a looser white short-sleeved round-neck top with jeans, in a Temu photo",
+          "caption": "Temu: white short-sleeved top with a round neck.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gocj7bzwg5p",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "alt": "Model wearing a white V-neck T-shirt and jeans, in a SHEIN photo",
+          "caption": "SHEIN: white cotton T-shirt with a V-neck.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "alt": "Model wearing a purple pleated short-sleeved dress with a bow at the waist, in a Temu photo",
+          "caption": "Temu: pleated short-sleeved dress with a bow at the waist.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/g5m1t2j2ou2",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "alt": "Model wearing a cream short-sleeved dress in ribbed knit, in a SHEIN photo",
+          "caption": "SHEIN: cream knit short-sleeved dress.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "alt": "Brown handbag with a crossbody strap and a zipped front pocket, in a Temu photo",
+          "caption": "Temu: handbag with a crossbody strap and a zipped pocket.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gvqr1kyex89",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "alt": "Dark brown shoulder bag in soft synthetic material, worn on a model's shoulder, in a SHEIN photo",
+          "caption": "SHEIN: shoulder bag in soft synthetic material.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-legging.webp",
+          "alt": "Model walking in beige high-waisted leggings, with a phone in the side pocket, in a Temu photo",
+          "caption": "Temu: high-waisted leggings with pockets.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gqxp1lpzezg",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-legging.webp",
+          "alt": "Seated model wearing seamless grey-blue leggings, in a SHEIN photo",
+          "caption": "SHEIN: seamless leggings.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "alt": "Model wearing blue high-waisted skinny jeans and white trainers, in a Temu photo",
+          "caption": "Temu: high-waisted skinny jeans.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gd6b7du4puh",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "alt": "Model wearing light blue wide-leg jeans, in a SHEIN photo",
+          "caption": "SHEIN: wide-leg jeans.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "alt": "Black pointed-toe low-heeled shoes on a model's feet, in a Temu photo",
+          "caption": "Temu: pointed-toe shoes with a low heel.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/goj97yn16na",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "alt": "Pair of black pointed-toe flat loafers on a white cloth, in a SHEIN photo",
+          "caption": "SHEIN: pointed-toe loafers.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C",
+          "store": "shein"
+        }
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Category",
+          "Temu",
+          "SHEIN"
+        ],
+        "rows": [
+          [
+            "Pyjamas",
+            "[Short-sleeved satin pyjama top and shorts, with buttons](https://temu.to/k/gjluu5cwfti)",
+            "[Vest-top and striped shorts pyjamas with hearts](https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C)"
+          ],
+          [
+            "Shirt",
+            "[Long-sleeved striped shirt with a pocket](https://temu.to/k/gxe92rfme7a)",
+            "[Long-sleeved striped shirt, looser fit](https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C)"
+          ],
+          [
+            "T-shirt",
+            "[White short-sleeved top with a round neck, looser fit](https://temu.to/k/gocj7bzwg5p)",
+            "[White cotton T-shirt with a V-neck](https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C)"
+          ],
+          [
+            "Dress",
+            "[Pleated short-sleeved dress with a bow at the waist](https://temu.to/k/g5m1t2j2ou2)",
+            "[Cream knit short-sleeved dress](https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C)"
+          ],
+          [
+            "Bag",
+            "[Handbag with a crossbody strap and a zipped pocket](https://temu.to/k/gvqr1kyex89)",
+            "[Shoulder bag in soft synthetic material](https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C)"
+          ],
+          [
+            "Gym wear",
+            "[High-waisted leggings with pockets](https://temu.to/k/gqxp1lpzezg)",
+            "[Seamless leggings](https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C)"
+          ],
+          [
+            "Jeans",
+            "[High-waisted skinny jeans](https://temu.to/k/gd6b7du4puh)",
+            "[Wide-leg jeans](https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C)"
+          ],
+          [
+            "Shoes",
+            "[Pointed-toe shoes with a low heel](https://temu.to/k/goj97yn16na)",
+            "[Pointed-toe loafers](https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C)"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Listing titles on both stores are long and packed with search keywords; the sample uses a short name. Fabric, measurements and who sells it are on the product page."
+      ]
+    },
+    {
       "heading": "Partnership and referral code",
       "paragraphs": [
         "Cecília is an affiliate of SHEIN and Temu and may earn a commission on purchases made through the links in this article, at no extra cost to you. That does not change the answer: the choice depends on what you are buying.",
@@ -133,7 +337,8 @@
         {
           "label": "Open Temu",
           "href": "https://temu.to/k/glfwht5gllj",
-          "sponsored": true
+          "sponsored": true,
+          "store": "temu"
         }
       ]
     },
@@ -151,14 +356,10 @@
       ]
     }
   ],
-  "cta": {
-    "text": "If you choose SHEIN, open SHEIN through Cecília's link and search for 4CW5Y in the app or on the site: the code does give you a discount. Before paying, check the total with shipping and taxes.",
-    "label": "Go to SHEIN",
-    "url": "https://onelink.shein.com/55/6463grgxf6ru",
-    "sponsored": true
-  },
-  "coupon": "4CW5Y",
-  "affiliate": "shein",
+  "affiliate": [
+    "shein",
+    "temu"
+  ],
   "editorialNote": "This article is editorial. We may earn a commission on SHEIN and Temu links. No one on the team used the products.",
   "relatedArticles": [
     {

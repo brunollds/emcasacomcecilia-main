@@ -19,12 +19,12 @@
   "metaDescription": "SHEIN ou Temu : livraison, délai et retours publiés en France, douane de 3 € de l'UE et points à vérifier avant d'acheter.",
   "publishedAt": "13 octobre 2026",
   "publishedAtISO": "2026-10-13",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-17",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/shein/shein-ou-shopee-temu-capa-fr-v2.webp",
-  "imageAlt": "Deux mannequins en robes rose à fleurs et blanche au bord de la mer sur une photo institutionnelle SHEIN. Texte : « Où acheter vos vêtements ? » et « SHEIN ou Temu ? », avec le code de parrainage 4CW5Y.",
+  "image": "/images/reviews/shein/shein-ou-temu-capa-fr.webp",
+  "imageAlt": "Quatre pièces en photos des boutiques : une robe plissée violette et une chemise rayée de Temu, une robe en maille crème et une chemise rayée de SHEIN, à côté de la question SHEIN ou Temu ?",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -117,6 +117,210 @@
       ]
     },
     {
+      "heading": "Ce que vend chaque boutique : un échantillon",
+      "paragraphs": [
+        "Nous avons choisi deux pièces similaires, une de chaque boutique, dans huit catégories de vêtements et d'accessoires. Ce sont des pièces différentes de la même catégorie : l'échantillon montre le type de pièce que vous trouvez dans chaque boutique, sans comparer le prix ni la qualité."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "alt": "Mannequin portant un pyjama en satin noir à manches courtes et short, avec boutons et passepoil blanc, sur une photo Temu",
+          "caption": "Temu : pyjama en satin à manches courtes et short, avec boutons.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gjluu5cwfti",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "alt": "Mannequin portant un pyjama rose débardeur et short à imprimé de cœurs rouges, sur une photo SHEIN",
+          "caption": "SHEIN : pyjama débardeur et short à imprimé de cœurs.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "alt": "Chemise rayée bleu et blanc à manches longues, suspendue à un cintre, sur une photo Temu",
+          "caption": "Temu : chemise rayée à manches longues avec poche.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gxe92rfme7a",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "alt": "Mannequin portant une chemise à rayures bleu clair, à manches longues, plus ample, sur une photo SHEIN",
+          "caption": "SHEIN : chemise rayée à manches longues, plus ample.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "alt": "Mannequin portant un haut blanc à manches courtes et col rond, plus ample, avec un jean, sur une photo Temu",
+          "caption": "Temu : haut blanc à manches courtes et col rond.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gocj7bzwg5p",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "alt": "Mannequin portant un t-shirt blanc à col en V et un jean, sur une photo SHEIN",
+          "caption": "SHEIN : t-shirt blanc en coton à col en V.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "alt": "Mannequin portant une robe violette plissée à manches courtes et nœud à la taille, sur une photo Temu",
+          "caption": "Temu : robe plissée à manches courtes avec nœud à la taille.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/g5m1t2j2ou2",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "alt": "Mannequin portant une robe crème en maille côtelée, à manches courtes, sur une photo SHEIN",
+          "caption": "SHEIN : robe en maille crème à manches courtes.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "alt": "Sac à main marron avec bandoulière et poche avant zippée, sur une photo Temu",
+          "caption": "Temu : sac à main avec bandoulière et poche zippée.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gvqr1kyex89",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "alt": "Sac porté épaule marron foncé en matière synthétique souple, sur l'épaule d'un mannequin, sur une photo SHEIN",
+          "caption": "SHEIN : sac porté épaule en matière synthétique souple.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-legging.webp",
+          "alt": "Mannequin en train de marcher avec un legging beige taille haute, un téléphone dans la poche latérale, sur une photo Temu",
+          "caption": "Temu : legging taille haute avec poches.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gqxp1lpzezg",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-legging.webp",
+          "alt": "Mannequin assise portant un legging bleu grisé sans coutures, sur une photo SHEIN",
+          "caption": "SHEIN : legging sans coutures.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "alt": "Mannequin portant un jean skinny bleu taille haute et des baskets blanches, sur une photo Temu",
+          "caption": "Temu : jean skinny taille haute.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gd6b7du4puh",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "alt": "Mannequin portant un jean wide leg bleu clair, sur une photo SHEIN",
+          "caption": "SHEIN : jean wide leg.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "alt": "Chaussures noires à bout pointu et talon bas, aux pieds d'un mannequin, sur une photo Temu",
+          "caption": "Temu : chaussures à bout pointu et talon bas.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/goj97yn16na",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "alt": "Paire de mocassins noirs à bout pointu, sans talon, posée sur un tissu blanc, sur une photo SHEIN",
+          "caption": "SHEIN : mocassins à bout pointu.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C",
+          "store": "shein"
+        }
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Catégorie",
+          "Temu",
+          "SHEIN"
+        ],
+        "rows": [
+          [
+            "Pyjama",
+            "[Pyjama en satin à manches courtes et short, avec boutons](https://temu.to/k/gjluu5cwfti)",
+            "[Pyjama débardeur et short rayé avec des cœurs](https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C)"
+          ],
+          [
+            "Chemise",
+            "[Chemise rayée à manches longues avec poche](https://temu.to/k/gxe92rfme7a)",
+            "[Chemise rayée à manches longues, plus ample](https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C)"
+          ],
+          [
+            "T-shirt",
+            "[Haut blanc à manches courtes et col rond, plus ample](https://temu.to/k/gocj7bzwg5p)",
+            "[T-shirt blanc en coton à col en V](https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C)"
+          ],
+          [
+            "Robe",
+            "[Robe plissée à manches courtes avec nœud à la taille](https://temu.to/k/g5m1t2j2ou2)",
+            "[Robe en maille crème à manches courtes](https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C)"
+          ],
+          [
+            "Sac",
+            "[Sac à main avec bandoulière et poche zippée](https://temu.to/k/gvqr1kyex89)",
+            "[Sac porté épaule en matière synthétique souple](https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C)"
+          ],
+          [
+            "Sport",
+            "[Legging taille haute avec poches](https://temu.to/k/gqxp1lpzezg)",
+            "[Legging sans coutures](https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C)"
+          ],
+          [
+            "Jean",
+            "[Jean skinny taille haute](https://temu.to/k/gd6b7du4puh)",
+            "[Jean wide leg](https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C)"
+          ],
+          [
+            "Chaussures",
+            "[Chaussures à bout pointu et talon bas](https://temu.to/k/goj97yn16na)",
+            "[Mocassins à bout pointu](https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C)"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Les titres des annonces, dans les deux boutiques, sont longs et remplis de mots-clés de recherche ; l'échantillon utilise un nom court. La matière, les mesures et le vendeur figurent sur la page de la pièce."
+      ]
+    },
+    {
       "heading": "Partenariat et code de parrainage",
       "paragraphs": [
         "Cecília est affiliée à SHEIN et à Temu et peut toucher une commission sur les achats faits via les liens de cet article, sans frais supplémentaires pour vous. Cela ne change pas la réponse : le choix dépend de ce que vous achetez.",
@@ -134,7 +338,8 @@
         {
           "label": "Ouvrir Temu",
           "href": "https://temu.to/k/glfwht5gllj",
-          "sponsored": true
+          "sponsored": true,
+          "store": "temu"
         }
       ]
     },
@@ -152,14 +357,10 @@
       ]
     }
   ],
-  "cta": {
-    "text": "Si vous choisissez SHEIN, ouvrez SHEIN avec le lien de Cecília et recherchez 4CW5Y dans l’application ou sur le site : le code donne bien une réduction. Avant de payer, vérifiez le total avec la livraison et les taxes.",
-    "label": "Aller sur SHEIN",
-    "url": "https://onelink.shein.com/55/6463grgxf6ru",
-    "sponsored": true
-  },
-  "coupon": "4CW5Y",
-  "affiliate": "shein",
+  "affiliate": [
+    "shein",
+    "temu"
+  ],
   "editorialNote": "Cet article est éditorial. Nous pouvons toucher une commission sur les liens SHEIN et Temu. Personne de l'équipe n'a utilisé les produits.",
   "relatedArticles": [
     {

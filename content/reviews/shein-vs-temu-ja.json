@@ -19,12 +19,12 @@
   "metaDescription": "SHEIN と Temu はどっちがいい？日本向けに公表されている送料、お届け日数、返品を比べ、買うものに合わせた選び方と買う前の確認点をまとめました。",
   "publishedAt": "2026年10月13日",
   "publishedAtISO": "2026-10-13",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-17",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/shein/shein-ou-shopee-temu-capa-ja-v2.webp",
-  "imageAlt": "海辺でピンクの花柄と白のワンピースを着た2人のモデルを写したSHEIN公式写真。見出し「服を買うなら どの店？」、補足「SHEINとTemu どちらを選ぶ？」、紹介コード4CW5Yを配置。",
+  "image": "/images/reviews/shein/shein-ou-temu-capa-ja.webp",
+  "imageAlt": "ショップの写真に写った4点のアイテム。Temuの紫のプリーツワンピースとストライプシャツ、SHEINのクリーム色のニットワンピースとストライプシャツ。横に「SHEIN と Temu、どっち？」の文字",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -121,6 +121,210 @@
       ]
     },
     {
+      "heading": "各お店で売られているもの：サンプル",
+      "paragraphs": [
+        "衣類とアクセサリーの8カテゴリーで、それぞれのお店から似た商品を1点ずつ選びました。同じカテゴリーの別の商品です。このサンプルは、各お店でどんな種類の商品が見つかるかを示すもので、価格や品質を比べるものではありません。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/amostra-temu-pijama.webp",
+          "alt": "黒い半袖のサテンパジャマ（ショートパンツ付き、ボタンと白い縁取り入り）を着たモデル。Temuの写真",
+          "caption": "Temu: 半袖のサテンパジャマ、ショートパンツ付き、ボタン付き。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gjluu5cwfti",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "alt": "赤いハート柄のタンクトップとショートパンツのピンクのパジャマを着たモデル。SHEINの写真",
+          "caption": "SHEIN: ハート柄のタンクトップとショートパンツのパジャマ。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-camisa-listrada.webp",
+          "alt": "ハンガーに掛けられた、青と白のストライプの長袖シャツ。Temuの写真",
+          "caption": "Temu: ポケット付きの長袖ストライプシャツ。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gxe92rfme7a",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "alt": "水色のストライプの、ゆったりした長袖シャツを着たモデル。SHEINの写真",
+          "caption": "SHEIN: ゆったりした長袖ストライプシャツ。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-camiseta.webp",
+          "alt": "丸首でゆったりした白い半袖ブラウスにジーンズを合わせたモデル。Temuの写真",
+          "caption": "Temu: 丸首の半袖白ブラウス。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gocj7bzwg5p",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "alt": "Vネックの白いTシャツとジーンズを着たモデル。SHEINの写真",
+          "caption": "SHEIN: Vネックの白い綿Tシャツ。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-vestido.webp",
+          "alt": "ウエストにリボンのある紫の半袖プリーツワンピースを着たモデル。Temuの写真",
+          "caption": "Temu: ウエストにリボンのある半袖プリーツワンピース。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/g5m1t2j2ou2",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "alt": "リブ編みのクリーム色の半袖ワンピースを着たモデル。SHEINの写真",
+          "caption": "SHEIN: クリーム色の半袖ニットワンピース。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-bolsa.webp",
+          "alt": "斜めがけストラップと前面のファスナーポケット付きの茶色いハンドバッグ。Temuの写真",
+          "caption": "Temu: 斜めがけストラップ付きのハンドバッグ、ファスナーポケット付き。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gvqr1kyex89",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "alt": "柔らかい合成素材の濃い茶色のショルダーバッグを肩にかけたモデル。SHEINの写真",
+          "caption": "SHEIN: 柔らかい合成素材のショルダーバッグ。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-legging.webp",
+          "alt": "ベージュのハイウエストレギンスをはいて歩くモデル。サイドポケットにスマートフォンが入っている。Temuの写真",
+          "caption": "Temu: ポケット付きのハイウエストレギンス。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gqxp1lpzezg",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-legging.webp",
+          "alt": "グレーがかった青のシームレスレギンスをはいて座っているモデル。SHEINの写真",
+          "caption": "SHEIN: シームレスレギンス。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-jeans.webp",
+          "alt": "青いハイウエストのスキニージーンズと白いスニーカーを合わせたモデル。Temuの写真",
+          "caption": "Temu: ハイウエストのスキニージーンズ。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/gd6b7du4puh",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "alt": "水色のワイドレッグジーンズをはいたモデル。SHEINの写真",
+          "caption": "SHEIN: ワイドレッグジーンズ。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-temu-calcado.webp",
+          "alt": "モデルの足元の、黒いローヒールの先の細い靴。Temuの写真",
+          "caption": "Temu: ローヒールの先の細い靴。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://temu.to/k/goj97yn16na",
+          "store": "temu"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "alt": "白い布の上に置かれた、ヒールのない黒い先の細いローファー一足。SHEINの写真",
+          "caption": "SHEIN: 先の細いローファー。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C",
+          "store": "shein"
+        }
+      ],
+      "comparisonTable": {
+        "headers": [
+          "カテゴリー",
+          "Temu",
+          "SHEIN"
+        ],
+        "rows": [
+          [
+            "パジャマ",
+            "[半袖のサテンパジャマ（ショートパンツ付き、ボタン付き）](https://temu.to/k/gjluu5cwfti)",
+            "[タンクトップと、ハート柄のストライプのショートパンツのパジャマ](https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C)"
+          ],
+          [
+            "シャツ",
+            "[ポケット付きの長袖ストライプシャツ](https://temu.to/k/gxe92rfme7a)",
+            "[ゆったりした長袖ストライプシャツ](https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C)"
+          ],
+          [
+            "Tシャツ",
+            "[丸首の半袖白ブラウス、ゆったりタイプ](https://temu.to/k/gocj7bzwg5p)",
+            "[Vネックの白い綿Tシャツ](https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C)"
+          ],
+          [
+            "ワンピース",
+            "[ウエストにリボンのある半袖プリーツワンピース](https://temu.to/k/g5m1t2j2ou2)",
+            "[クリーム色の半袖ニットワンピース](https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C)"
+          ],
+          [
+            "バッグ",
+            "[斜めがけストラップ付きのハンドバッグ、ファスナーポケット付き](https://temu.to/k/gvqr1kyex89)",
+            "[柔らかい合成素材のショルダーバッグ](https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C)"
+          ],
+          [
+            "ジム・スポーツ",
+            "[ポケット付きのハイウエストレギンス](https://temu.to/k/gqxp1lpzezg)",
+            "[シームレスレギンス](https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C)"
+          ],
+          [
+            "ジーンズ",
+            "[ハイウエストのスキニージーンズ](https://temu.to/k/gd6b7du4puh)",
+            "[ワイドレッグジーンズ](https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C)"
+          ],
+          [
+            "靴",
+            "[ローヒールの先の細い靴](https://temu.to/k/goj97yn16na)",
+            "[先の細いローファー](https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C)"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "どちらのお店も、出品タイトルは長く、検索用の言葉がたくさん入っています。サンプルでは短い名前にしました。生地、サイズ、販売元は商品ページでご確認ください。"
+      ]
+    },
+    {
       "heading": "提携と紹介コード",
       "paragraphs": [
         "Cecília は SHEIN と Temu のアフィリエイトに参加しています。この記事のリンクから購入されると、あなたの負担なしに報酬を受け取ることがあります。それでも答えは変わりません。何を買うかによって選ぶお店は変わります。",
@@ -138,7 +342,8 @@
         {
           "label": "Temu を開く",
           "href": "https://temu.to/k/glfwht5gllj",
-          "sponsored": true
+          "sponsored": true,
+          "store": "temu"
         }
       ]
     },
@@ -156,14 +361,10 @@
       ]
     }
   ],
-  "cta": {
-    "text": "SHEINを選ぶなら、Cecíliaのリンクから SHEIN を開き、アプリまたはサイトで 4CW5Y を検索してください。このコードは割引が受けられます。支払う前に、送料と税金を含む合計金額を確認しましょう。",
-    "label": "SHEIN へ進む",
-    "url": "https://onelink.shein.com/55/6463grgxf6ru",
-    "sponsored": true
-  },
-  "coupon": "4CW5Y",
-  "affiliate": "shein",
+  "affiliate": [
+    "shein",
+    "temu"
+  ],
   "editorialNote": "この記事は編集コンテンツです。SHEIN と Temu のリンクから購入された場合、報酬を受け取ることがあります。スタッフは誰も商品を使っていません。",
   "relatedArticles": [
     {
