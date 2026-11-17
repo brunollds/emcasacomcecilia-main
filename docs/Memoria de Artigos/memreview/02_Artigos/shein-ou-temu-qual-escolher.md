@@ -98,12 +98,14 @@ O artigo leva peças de exemplo da SHEIN e da Temu, com link de afiliado convert
 categorias do SV1, para a série ficar igual: camiseta básica, calça jeans, vestido, pijama, bolsa, sapato e roupa de
 academia. Regras e limites em [[shein-ou-pares-plano-1611]], seção 5.
 
-- O Bruno escolhe as peças e converte os links. Esta frente lê preço, frete e prazo pela página de cada uma, uma
-  por vez, sem login; verificação de robô é parada.
+- O Bruno escolhe as peças e converte os links. Esta frente lê nome e foto de cada uma, uma por vez, sem login;
+  verificação de robô é parada. Modelo: [[shein-ou-shopee-amostra-1711]].
+- **A amostra ilustra, não compara preço (Bruno, 17/11):** os catálogos não têm a mesma peça; o artigo não diz qual é
+  mais barata a partir dela.
 - Peças parecidas, nunca "a mesma". Sem qualidade, tecido nem caimento.
 - **Fora do PT (decisão do Bruno, 16/11):** as peças entram como exemplos com o link convertido, sem preço; o leitor
-  vê o preço da região dele ao abrir. No máximo, o percentual de desconto do item, sem valor em dinheiro. Preço,
-  frete e prazo, só no PT.
+  vê o preço da região dele ao abrir. No máximo, o percentual de desconto do item, sem valor em dinheiro. No PT
+  também sem preço (17/11): frete e prazo ficam nos capítulos das lojas, não nas peças.
 
 ## Regras
 
