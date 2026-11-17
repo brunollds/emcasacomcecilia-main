@@ -205,3 +205,14 @@ O texto está em `content/reviews/cupom-toda-up-primeira-compra.json` (id 918), 
 ## Revisão externa (Farol, 12/11/2026)
 
 Aplicado depois de conferir os fatos: a exceção da Black VIP entrou na meta, no subtítulo, no primeiro capítulo, na segunda compra e em duas perguntas do FAQ. A capa foi refeita sem o MAUAD na arte e no alt (o gerador de capas barra o código); no lugar, "15% OFF".
+
+## Atualização de 17/11/2026: MAUAD de volta a 10%
+
+Teste de checkout de 17/11/2026 (sessão Adicionar Cupons, sem finalizar): Fita Up em promoção, de R$ 179,90 por R$ 116,90; o MAUAD tirou R$ 11,69, total R$ 105,21 (10% sobre o preço promocional). O código deu 15% em 11 e 12/11 e voltou a 10% em 16/11; pode mudar de novo, então o texto não crava o percentual como permanente e manda conferir a linha de desconto. Black VIP: com uma peça dela no carrinho, o checkout não aplica cupom de influenciadora em nenhum item (aviso: "Na Black VIP o cupom de influenciadora não soma com a escada de desconto").
+
+- **title:** Cupom Toda Up primeira compra: MAUAD dá 10% OFF e vale nas compras seguintes
+- **seoTitle:** Cupom Toda Up primeira compra: 10% OFF com MAUAD
+- A tabela do teste passou do Comfort Up (11/11, a 15%) para a Fita Up (17/11, a 10%), e o capítulo virou "Produto em promoção: quanto fica com o MAUAD".
+- O print antigo (`cupom-toda-up-checkout-com-cupom.webp`, com −R$ 17,53) saiu; entrou `cupom-toda-up-checkout-mauad-10.webp`. Nenhum outro artigo usava o antigo.
+- Black VIP: o texto agora diz que, com uma peça dela no carrinho, o código não entra em nenhum item.
+- Tudo o que este briefing diz sobre 15% acima desta seção é histórico.

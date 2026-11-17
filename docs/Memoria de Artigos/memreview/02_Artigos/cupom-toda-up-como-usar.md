@@ -289,3 +289,12 @@ Redigido pelo Fable 5.1, conferido pelo Claude: seoTitle "Cupom Fita Up / Toda U
 - **Alt:** Duas modelos adultas com sutiãs Comfort Line rosa e preto da Toda Up, em foto oficial.
 - **Origem:** foto oficial de duas modelos adultas com o Comfort Line, sem código na arte. Sem geração por IA.
 - **Lote 23 do piloto de capas (sequência 7 do Codex, revisão visual e dos alts traduzidos do GPT-6.1 Terra):** aprovado pelo Bruno em 11/11/2026 e entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-SEQUENCIA-7-CLAUDE.zip` no checkout principal: painel verde à esquerda, Sharp e Segoe UI, sem a faixa de baixo do Job 6. A regra geral do Job 6 não muda por este piloto. A capa anterior (`/images/reviews/toda-up/cupom-toda-up-capa-discover.webp`) fica no CDN, sem uso como capa.
+
+## Atualização de 17/11/2026: MAUAD de volta a 10%
+
+Teste de checkout de 17/11/2026 (sessão Adicionar Cupons, sem finalizar): Fita Up em promoção, de R$ 179,90 por R$ 116,90; o MAUAD tirou R$ 11,69, total R$ 105,21 (10% sobre o preço promocional). O código deu 15% em 11 e 12/11 e voltou a 10% em 16/11; pode mudar de novo, então o texto não crava o percentual como permanente e manda conferir a linha de desconto. Black VIP: com uma peça dela no carrinho, o checkout não aplica cupom de influenciadora em nenhum item (aviso: "Na Black VIP o cupom de influenciadora não soma com a escada de desconto").
+
+- Artigo corrigido de 15% para 10% (meta, subtítulo, resposta rápida, corpo e FAQ). O exemplo do Comfort Up a 15% (R$ 145,28) saiu; entrou o teste da Fita Up.
+- Seção nova "Códigos anunciados com 25% e 15% deram 10% no teste" e uma pergunta no FAQ: MARESSA e BEARAMOS, códigos de outras criadoras, deram os mesmos R$ 11,69 no carrinho da Fita Up e R$ 37,98 num carrinho de R$ 379,80 (teste do Bruno). Exceção do Bruno de 17/11: os dois só aparecem para corrigir o dado errado, sem antagonizar. Nenhum outro código de terceiros (LIOMAR e JESSICAVERONEZ não foram testados) nem o cupom de cadastro da loja.
+- Print: `/images/reviews/toda-up/cupom-toda-up-checkout-mauad-10.webp` (o mesmo de `/cupons/toda-up`, PR #1091). Mostra só o MAUAD.
+- Conta nossa a 10%: Comfort Line e Comfort Slim, de R$ 189,90 para R$ 170,91.

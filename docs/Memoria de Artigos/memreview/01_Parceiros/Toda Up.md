@@ -70,3 +70,9 @@ promoção progressiva (−R$ 43,28) e mais 10% do MAUAD (−R$ 31,75): R$ 285,7
 
 Os logos estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo,
 conforme `docs/GUIA-MIDIA-EDITORIAL.md`.
+
+## Leitura de 17/11/2026: MAUAD a 10%
+
+Teste de checkout de 17/11/2026 (sessão Adicionar Cupons, sem finalizar): Fita Up em promoção, de R$ 179,90 por R$ 116,90; o MAUAD tirou R$ 11,69, total R$ 105,21 (10% sobre o preço promocional). O código deu 15% em 11 e 12/11 e voltou a 10% em 16/11; pode mudar de novo, então o texto não crava o percentual como permanente e manda conferir a linha de desconto. Black VIP: com uma peça dela no carrinho, o checkout não aplica cupom de influenciadora em nenhum item (aviso: "Na Black VIP o cupom de influenciadora não soma com a escada de desconto").
+
+MARESSA e BEARAMOS (códigos de outras criadoras, anunciados com 25% e 15%) deram 10% nos dois carrinhos testados: R$ 11,69 na Fita Up de R$ 116,90 e R$ 37,98 num carrinho de R$ 379,80. Exceção do Bruno: citar os dois só para corrigir o dado, na página de cupom e no `cupom-toda-up-como-usar`. Os 22 artigos em português da loja foram corrigidos para 10% em 17/11, com as contas refeitas (preço × 0,90).
