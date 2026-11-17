@@ -413,7 +413,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'alimentacao',
     shortDescription: 'cápsulas, máquinas e acessórios da loja oficial',
     longDescription:
-      'O cupom Dolce Gusto CECI dá 10% OFF na loja oficial Nescafé Dolce Gusto em compras a partir de R$ 100, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções. Testado num carrinho de R$ 111,30, com R$ 11,13 de desconto.',
+      'O cupom Dolce Gusto CECI dá 10% OFF na loja oficial Nescafé Dolce Gusto em compras a partir de R$ 100, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções, inclusive nas máquinas. Testado numa Mini Me 2.0 em promoção, de R$ 369,90, com R$ 36,99 de desconto.',
     metaTitle: 'Código CECI Dolce Gusto: 10% OFF testado',
     metaTitleMonth: true,
     metaDescription:
@@ -428,10 +428,10 @@ const STORE_COUPONS: Coupon[] = [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço promocional, inclusive em produtos que já estão em promoção' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
     ],
-    lastVerified: '2026-11-12',
-    testedAt: '2026-11-12',
+    lastVerified: '2026-11-17',
+    testedAt: '2026-11-17',
     testNote:
-      'Num carrinho de sete caixas de Espresso Intenso, de R$ 19,99 cada, o CECI tirou R$ 13,99 dos R$ 139,93, os 10%, e o total caiu para R$ 125,94. No mesmo dia, num combo da Black Friday, de R$ 207,20 por R$ 145,04, o CECI tirou R$ 14,50 e o total caiu para R$ 130,54. Em 11/11/2026, em sete caixas de Cappuccino em promoção, de R$ 25,90 por R$ 15,90 cada, o CECI tirou R$ 11,13 dos R$ 111,30. Em 26/10/2026, com o carrinho abaixo de R$ 100, a loja recusou o cupom.',
+      'Numa máquina Mini Me 2.0 em promoção, de R$ 599,90 por R$ 369,90, o CECI tirou R$ 36,99, os 10%, e o total caiu para R$ 332,91. Em 12/11/2026, num carrinho de sete caixas de Espresso Intenso, de R$ 19,99 cada, o CECI tirou R$ 13,99 dos R$ 139,93 e o total caiu para R$ 125,94; no mesmo dia, num combo da Black Friday, de R$ 207,20 por R$ 145,04, o CECI tirou R$ 14,50 e o total caiu para R$ 130,54. Em 11/11/2026, em sete caixas de Cappuccino em promoção, de R$ 25,90 por R$ 15,90 cada, o CECI tirou R$ 11,13 dos R$ 111,30. Em 26/10/2026, com o carrinho abaixo de R$ 100, a loja recusou o cupom.',
     aboutBrand:
       'A Nescafé Dolce Gusto é uma linha de cafés e bebidas em cápsulas da Nestlé, com máquinas e sabores pensados para preparo rápido em casa. A marca combina praticidade com variedade: cafés intensos, bebidas com leite, cappuccinos, chocolates e opções geladas aparecem no catálogo da loja oficial. O cupom CECI entra como benefício para quem acompanha a Cecília e quer economizar em compras na loja oficial. Como em toda parceria comercial, a recomendação deve ser conferida no checkout: o desconto aparece antes da finalização quando a regra da campanha permite.',
     faqs: [
@@ -443,7 +443,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom CECI funciona em máquinas Dolce Gusto?',
         answer:
-          'Pode funcionar em máquinas Dolce Gusto. Caso algum produto tenha uma campanha própria ou restrição comercial, o checkout informa se o cupom é aceito.',
+          'Funciona. No nosso teste, o CECI tirou 10% de uma Mini Me 2.0 que já estava em promoção: R$ 36,99 de desconto, e a máquina de R$ 369,90 saiu por R$ 332,91. O resumo do carrinho mostra a linha "Você ganhou 10% OFF" antes de pagar.',
       },
       {
         question: 'O cupom CECI vale na primeira compra na Dolce Gusto?',
@@ -480,6 +480,16 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O cupom CECI vale no app da Dolce Gusto?',
         answer:
           'Sim. O CECI vale no aplicativo Nescafé Dolce Gusto, para Android e iPhone, do mesmo jeito que no site oficial: digite o código no campo de cupom, antes de pagar.',
+      },
+      {
+        question: 'O cupom CECI vale para CNPJ, na Dolce Gusto Negócios?',
+        answer:
+          'Vale. O CECI vale em todo o site oficial, inclusive na área para CNPJ, e soma com os 10% extras que a loja dá a CNPJ nos combos da linha Negócios. O resumo do carrinho mostra o valor final antes de pagar.',
+      },
+      {
+        question: 'O CECI dá 5% ou 10% na Dolce Gusto?',
+        answer:
+          'Hoje, dá 10%: no teste de 17/11/2026, o checkout mostrou 10% numa máquina em promoção. No começo de outubro de 2026, o código dava 5%; desde 26/10, os testes mostram 10%. O que vale é a linha "Você ganhou 10% OFF" no resumo do carrinho, antes de pagar.',
       },
       {
         question: 'O cupom dá frete grátis?',

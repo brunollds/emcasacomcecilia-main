@@ -202,7 +202,7 @@ Para cada oferta ativa, reconferir:
 | Slug | Marca | Benefício principal | Fonte adicional | Observação mensal |
 |---|---|---|---|---|
 | `damie` | DAMIE | `CECILIA12` | subdomínio Damie | Verificar a oferta. Desde 08/10/2026, artigos e a vitrine da home linkam `/cupons/damie` como nas outras lojas; o menu linka o subdomínio. |
-| `dolce-gusto` | Nescafé Dolce Gusto | `CECI` | artigos do cluster | Testar percentual (10% desde 26/10/2026; antes 5%), mínimo de R$ 100 (abaixo, a loja recusa), limite por CPF e acúmulo. A loja é Magento: o carrinho de visitante da API REST (`/rest/V1/guest-carts`) aceita o teste sem dados pessoais. |
+| `dolce-gusto` | Nescafé Dolce Gusto | `CECI` | artigos do cluster | Testar percentual (10% desde 26/10/2026; antes 5%), mínimo de R$ 100 (abaixo, a loja recusa), limite por CPF e acúmulo. A loja é Magento: o carrinho de visitante da API REST (`/rest/V1/guest-carts`) aceita o teste sem dados pessoais. A página tem o FAQ "O CECI dá 5% ou 10%?" (atualizar se o percentual mudar) e cita o teste numa máquina (Mini Me 2.0, 17/11/2026). |
 | `yesstyle` | YesStyle | `CECILIA010` | `data/coupons/yesstyle.json` | A fonte factual é separada; `src/lib/yesstyleCoupons.ts` faz a leitura tipada e alimenta os getters em `couponsData.ts`. |
 | `nestle-nutre` | Nestlé Nutre | `CECI` | artigos do cluster | Confirmar exceções de produtos e valor do desconto (10% desde 04/10/2026). Fórmulas infantis de 0 a 12 meses, como NAN, ficam fora por lei (Decreto 9.579/2018, art. 5º): nenhum texto pode sugerir o CECI nelas. |
 | `i-wanna-sleep` | I Wanna Sleep | `CECIEMCASA` | artigos do cluster | Confirmar percentual, abrangência e acúmulo. |
