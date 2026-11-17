@@ -7,9 +7,9 @@ parceiro_slug: "lamazonie"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2), por último, perto de 27/11, com a vitrine relida e o reteste do código"
+proxima_acao: "deploy (decisão do Bruno); segunda passada na semana de 27/11, com a vitrine relida e o reteste do código"
 bloqueado_por: "-"
 data_criacao: "2026-11-16"
 pauta_id: "LZ6"
@@ -174,3 +174,13 @@ A LZ6 vira guia de 2027 ou sai do ar; decisão na revisão de dezembro.
 | Dois frascos para a garantia; terceiro frasco lacrado reembolsável | `/pages/garantia`, 16/11 | verificado |
 | Frete grátis acima de R$ 199 (R$ 500 em AC, PI, RO e RR) | perguntas frequentes | verificado |
 | Preço no Mercado Livre | não lido | não escrever |
+
+## Redação, revisão e JSON (16/11/2026)
+
+**Antecipado a pedido do Bruno (16/11), para dar tempo de indexar antes de 27/11.** Job 2 e Job 4 pela sessão de artigos, com a vitrine relida no dia ([[lamazonie-fatos-1611]], seção 13). Job 3 por subagente Fable: 13 achados aplicados. JSON em `content/reviews/black-friday-lamazonie.json`, com quadro `decision`.
+
+O que o texto afirma e o que deixa para a segunda passada: a página de Black Friday sem ofertas, sem data e sem regulamento; os kits como tabela regular (sem "o ano todo", que não tem leitura); as páginas de oferta fora do menu em um parágrafo, sem link e sem a "Black Friday Creators" (são `noindex,nofollow`, páginas de anúncio); o cupom só com o teste de 16/11, sem teste em oferta de campanha. **Na semana de 27/11:** reler `/pages/black-friday`, a home e a vitrine, refazer o carrinho com o código e atualizar as tabelas e o capítulo "A Black Friday da L'Amazonie já começou?".
+
+## Capa e imagens (aprovadas pelo Bruno em 16/11/2026)
+
+O Bruno pediu uma capa que remetesse à Black Friday, com pessoas comprando produtos para o rosto. Cenário gerado por IA pelo Bruno (Gemini), a partir de prompt da sessão: duas mulheres com sacolas pretas diante de uma prateleira de skincare, sem texto, sem marca e sem produto na mão. A primeira versão levava a foto oficial do sérum num quadro; o Bruno mandou tirar, e a capa ficou só com o cenário, o logo, a chamada "Black Friday 2026, kits e cupom" e o código. Origem: cenário gerado por IA; nenhum produto desenhado. Corpo: `black-friday-lamazonie-serum-tres-frascos.webp` (foto oficial dos três frascos) e o print do checkout, que já estava no CDN.

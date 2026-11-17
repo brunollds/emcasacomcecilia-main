@@ -375,3 +375,10 @@ No navegador do app, sem login e sem dados pessoais.
 - **Bloco "por dentro da fórmula":** "A tecnologia funciona como um drone que entrega os ativos diretamente onde seus fios mais precisam"; peptídeos e fatores de crescimento, sem nomes nem concentração. Nenhuma lista de ingredientes e nenhum estudo citado.
 - **Outros itens da página:** consultora pelo WhatsApp e 5 e-books sobre sobrancelha no pedido do sérum (fora dos textos).
 - **Fotos da página:** três imagens "EMBAIXADORA" são conversas com antes e depois; não usar.
+
+## 13. Leituras da redação da LZ6 (16/11/2026)
+
+- **Campanha:** `/pages/black-friday` só com o título; home sem a expressão "black friday"; coleção `/collections/oferta-black-friday` com 0 produtos.
+- **Páginas de oferta fora do menu:** as cinco `bf-*` (sem contar a "Creators") seguem publicadas e trazem `meta robots` "noindex,nofollow". São páginas de anúncio: o artigo não as linka.
+- **`products.json` do dia:** preços iguais aos da seção 9.7. O protetor tem 2 unidades a R$ 269,00 na página do produto e R$ 249,00 na página "Kit 2 Protetores". Há também "Kit 2 Gel de Limpeza Facial 60g" a R$ 149,00 e "2 Géis" a R$ 149,90 na página do gel; cremes clareadores para axilas e para virilha (1, 2 e 3 unidades); e-books a R$ 139,90.
+- **Avaliações da página do sérum:** o bloco de avaliações traz o aviso de que parte delas vem de produtos relacionados agrupados pela loja (nota do widget, em inglês, no HTML).

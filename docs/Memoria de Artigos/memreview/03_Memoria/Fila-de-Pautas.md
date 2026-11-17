@@ -47,7 +47,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | LZ2 | L'Amazonie no Reclame Aqui: nota e o que mais gera reclamação (base pequena) | L'Amazonie (CECILIA) | PT | [[lamazonie-reclame-aqui-nota-reputacao]]; fatos em [[lamazonie-fatos-1611]] (16/11) | Escrito e revisado em 16/11; espera o deploy. Base pequena: reler o perfil antes de citar a nota em outro texto |
 | LZ5 | L'Amazonie é boa? O sérum de sobrancelha funciona? (promessa separada do que dá para verificar; sem produto em mãos) | L'Amazonie (CECILIA) | PT | [[lamazonie-e-boa]]; fatos em [[lamazonie-fatos-1611]] (16/11) | Escrito e revisado em 16/11, com o capítulo de composição na versão reduzida; espera o deploy. Com o rótulo do sérum (lista INCI), o capítulo ganha a tabela |
 | LZ4 | Cupom L'Amazonie primeira compra (série de primeira compra) | L'Amazonie (CECILIA) | PT | [[cupom-lamazonie-primeira-compra]]; fatos em [[lamazonie-fatos-1611]] (16/11) | Escrito e revisado em 16/11; espera o deploy |
-| LZ6 | Black Friday L'Amazonie 2026 (o que é oferta de campanha e o que é kit de sempre; conta de 1, 2 ou 3 séruns) | L'Amazonie (CECILIA) | PT | [[black-friday-lamazonie]]; fatos em [[lamazonie-fatos-1611]] (16/11) | Redação por último, perto de 27/11, com a vitrine relida e o reteste do código; "Black Friday Creators" só com confirmação do Bruno |
+| LZ6 | Black Friday L'Amazonie 2026 (o que é oferta de campanha e o que é kit de sempre; conta de 1, 2 ou 3 séruns) | L'Amazonie (CECILIA) | PT | [[black-friday-lamazonie]]; fatos em [[lamazonie-fatos-1611]] (16/11) | Antecipado a pedido do Bruno: escrito e revisado em 16/11; espera o deploy. Segunda passada na semana de 27/11 (vitrine relida e reteste do código) |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
