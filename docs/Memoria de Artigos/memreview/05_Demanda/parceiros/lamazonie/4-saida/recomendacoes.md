@@ -125,6 +125,7 @@ de 30/11.
 - **Confiança:** media
 - **Dependências e como obter:** Pergunta ao Bruno: existe ou dá para gerar o link de afiliado da loja oficial da L'Amazonie no Mercado Livre? O site já usa esse link em outras lojas (campo mercadoLivreUrl de couponsData.ts). Resposta dele sobre como tratar a diferença de preço (pergunta 1 do relato da etapa 3). Leitura do preço pelo botão do anúncio, em sessão logada dele, fora de campanha, com uma, duas e três unidades; nenhuma cifra do marketplace no texto sem isso.
 - **Pendências e notas:** O código não vale no Mercado Livre. As perguntas dos anúncios não foram lidas (a página pediu login). A conta por quantidade está na REVISAO.md, item 3.4, e é de uma leitura só.
+- **Ressalva da coordenação:** O Bruno confirmou em 17/11 que o link de afiliado da loja oficial no Mercado Livre existe ou pode ser gerado. A dependência passa a ser só o endereço do link e o preço lido pelo botão, fora de campanha. O código CECILIA não vale lá.
 - **Destino, se aprovada:** Sessão de artigos, com esta ficha como escopo
 - **Revisado por:** sessão de revisão independente, 17/11/2026
 - **Decisão do Bruno:** em espera
@@ -139,6 +140,7 @@ de 30/11.
 - **Confiança:** media
 - **Dependências e como obter:** Nenhuma de dado. A página é da sessão de cupons.
 - **Pendências e notas:** Sem preço do marketplace na resposta. Se houver link de afiliado do Mercado Livre (linha op-lamazonie-0012), a página ganha a segunda pergunta automática das lojas que têm esse link; a frase padrão dela diz que no site costumam estar as melhores condições, o que a vitrine de 17/11 não confirma para uma unidade: rever a frase antes de ligar.
+- **Ressalva da coordenação:** O Bruno confirmou em 17/11 que o link de afiliado do Mercado Livre existe ou pode ser gerado: a pergunta da página de cupom pode levar o link, como nas outras lojas. Falta o endereço.
 - **Destino, se aprovada:** Sessão de cupons (`/cupons/lamazonie` é dela)
 - **Revisado por:** sessão de revisão independente, 17/11/2026
 - **Decisão do Bruno:** em espera

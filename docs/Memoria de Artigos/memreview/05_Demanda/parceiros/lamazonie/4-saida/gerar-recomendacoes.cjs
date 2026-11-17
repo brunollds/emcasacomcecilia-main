@@ -47,6 +47,8 @@ const DESTINO_POR_ID = {
 const RESSALVA = {
   'op-lamazonie-0027': 'O bruto guarda o nome da oferta e a data ("Até 26/11"), não o endereço de destino do anúncio. Que o anúncio leva à página da oferta `cat-lamazonie-0046` é inferência pelo nome; abrir a página é parte da ação.',
   'op-lamazonie-0029': 'Ninguém viu as fotos dos anúncios da loja oficial no Mercado Livre (as páginas pedem login). Elas só ajudam se mostrarem o rótulo; o caminho firme é o pedido à marca.',
+  'op-lamazonie-0012': 'O Bruno confirmou em 17/11 que o link de afiliado da loja oficial no Mercado Livre existe ou pode ser gerado. A dependência passa a ser só o endereço do link e o preço lido pelo botão, fora de campanha. O código CECILIA não vale lá.',
+  'op-lamazonie-0013': 'O Bruno confirmou em 17/11 que o link de afiliado do Mercado Livre existe ou pode ser gerado: a pergunta da página de cupom pode levar o link, como nas outras lojas. Falta o endereço.',
   'op-lamazonie-0018': 'Registro, não pedido de artigo: prioridade e confiança baixas, e a primeira dependência é a decisão do Bruno. O fato útil desta linha já está na `op-lamazonie-0028`.',
   'op-lamazonie-0028': 'Quase sem sinal de busca; entra pela relevância comercial. Se o código não entrar na segunda página do sérum, a ação encolhe para o aviso que o guia de Black Friday já dá.',
 };
