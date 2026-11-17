@@ -7,7 +7,7 @@ parceiro_slug: "proton"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pauta-aprovada"
+status: "publicado-aguardando-deploy"
 responsavel: "Job-1"
 proxima_acao: "redação (Job 2), primeiro do pacote: a campanha está no ar"
 bloqueado_por: "-"
@@ -18,7 +18,7 @@ translationKey: "proton-black-friday"
 modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
-status_i18n: "pendente"
+status_i18n: "10-idiomas"
 affiliate: "proton"
 coupon: null
 ---
@@ -200,3 +200,12 @@ Vira guia de 2027 ou sai do ar; decisão na revisão de dezembro. A conta "1 ano
 | Código da campanha | endereço dos botões da página | não publicar |
 | A oferta de parceiros é para usuários novos; desconto sobre o preço mensal; renova pelo preço padrão | FAQ da página de parceiros (Bruno, 17/11) | verificado |
 | Página de ofertas: VPN Plus de 24 meses a R$ 10,49 por mês (R$ 251,76), de 12 meses a R$ 13,99 por mês | `protonvpn.com/pt-br/vpn-deals`, 17/11 | verificado; reler |
+
+## Redação e publicação (17/11/2026)
+
+- **Releitura do dia:** página de parceiros, as duas de Black Friday, a de ofertas e a de preços, em reais, iguais à ficha. Lido a mais: a oferta de boas-vindas do Unlimited leva o selo "-89%", e a página de ofertas mostra o Unlimited de 2 anos por R$ 671,76 pelos 24 meses.
+- **PT:** `black-friday-proton` (id 999). Job 3 pelo Fable: 17 achados aplicados (renovação ao lado de cada oferta, termos entre aspas no reembolso, "mesma oferta" no lugar de "mesmo link", renovação pelo preço vigente na data).
+- **Fora do PT (ids 1000 a 1008):** adaptação em inglês com os valores em dólar do print do Bruno (página de parceiros); as páginas públicas entram só com os percentuais, e a conta de 24 meses fica com a regra. Sem real, sem Pix. Traduções pelo Sonnet a partir do inglês, revisão de fechamento pelo Fable aplicada.
+- **Inferência mantida fora do PT:** o plano público de 1 ano renova pelo mesmo preço padrão (US$ 83,88) e custa menos que os US$ 59,76 só pelo percentual anunciado; os valores públicos em dólar não foram lidos (a página mostra a moeda do país).
+- **Mídia:** capa `black-friday-proton-capa.webp` (foto oficial do app, ícone da Proton, "Black Friday Proton 2026", uma para os 10); prints `…-pagina-parceiros-brl.webp` (só PT) e `…-pagina-parceiros-usd.webp` (os outros 9), recortados nos dois planos. Aprovados pelo Bruno em 17/11.
+- **Links para PN3 e PN4:** entram quando os dois estiverem no ar, junto com os `relatedArticles`.
