@@ -97,10 +97,12 @@ Fontes: `protonvpn.com/pt-br/pricing`, `protonvpn.com/pt-br/black-friday` e `pro
 - **Depois do período com desconto:** "sua assinatura será renovada automaticamente pelo preço padrão a cada ciclo de
   faturamento, a menos que você opte por cancelar".
 - **Empresas:** 40% em um ano de Proton Workspace para até 10 usuários. Fora do pacote.
-- **Oferta de parceiros, 75%:** veículos e afiliados estrangeiros anunciam 75% no plano de 2 anos do VPN Plus
-  (US$ 2,49 por mês). **O Bruno confirmou em 17/11 que o link do painel, o mesmo que está no site, é o dessa campanha.**
-  A página do link não foi lida (não abrimos o link); um site de análise brasileiro dá R$ 8,79 por mês, R$ 210,96 nos
-  24 meses, sem valor de fonte. Falta o print (seção 8).
+- **Oferta de parceiros, 75% (lida em 17/11):** a página `protonvpn.com/pt-br/l/bf-vpn-offers-2026` (`noindex`), que o
+  link do painel abre segundo o Bruno, traz o VPN Plus de 2 anos a R$ 8,79 por mês, R$ 210,96 pelos primeiros 24
+  meses, com renovação de R$ 293,88 a cada 12 meses, e o Unlimited de 1 ano igual ao das páginas públicas (R$ 273,48,
+  renova por R$ 419,88). Em dólar: US$ 59,76 pelos 24 meses, renovação de US$ 83,88 ao ano. A página diz que os preços
+  são "disponíveis exclusivamente por meio dos nossos parceiros". Os botões levam o código da campanha no endereço:
+  não se publica o código nem o endereço da página. Detalhe em [[black-friday-proton]].
 - **Sinal de confusão que a PN1 resolve:** uma reclamação recente no Reclame Aqui é de quem viu o preço "por mês" da
   Black Friday e foi cobrado pelo ano inteiro de uma vez.
 
@@ -161,9 +163,9 @@ Fontes: `protonvpn.com/pt-br/pricing`, `protonvpn.com/pt-br/black-friday` e `pro
 3. **Data de fim:** o painel não informa.
 4. **Idiomas:** 10.
 
-Falta: **o print da página que o link abre** (plano, preço em reais, valor cobrado de uma vez, renovação, quem pode),
-ou a liberação de uma abertura só para leitura; e o plano do Proton Mail que o Bruno usa e desde quando, para a frase
-de uso.
+**Recebido em 17/11:** o texto e dois prints da página que o link abre (em reais e em dólar), conferidos com a leitura
+da página de parceiros. Falta o plano do Proton Mail que o Bruno usa e desde quando, para a frase de uso, e saber
+se a oferta de parceiros vale para quem já tem conta.
 
 ## 9. Recado para a sessão de cupons (`/cupons/proton`)
 
@@ -174,7 +176,8 @@ de uso.
   dinheiro, transferência e Bitcoin entram comprando créditos.
 - O reembolso é de 30 dias da compra inicial e só pode ser pedido uma vez por usuário (termos de 05/11/2026).
 - **O link leva à campanha de 75%** (Bruno, 17/11). A página e o banner falam em "até 70%" e dizem que o link não dá
-  desconto próprio: vale rever os dois textos quando o print chegar.
+  desconto próprio: vale rever os dois textos: pela página de parceiros, o VPN Plus de 2 anos sai por
+  R$ 210,96, com 75%. O código da campanha vai no endereço dos botões e não se publica.
 
 ## 10. Estoque (sem GO)
 
