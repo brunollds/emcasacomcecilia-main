@@ -58,7 +58,7 @@ Copiados de [[shein-ou-shopee-temu]], seção 7. Nunca abrir nem clicar: o cliqu
 - **Link de produto:** os quatro acima levam à loja. Para linkar uma peça, o Bruno converte o link de cada produto no
   painel de cada programa, como na SB1. Sem link convertido, a peça não entra na tabela de produtos.
 
-## 5. Comparação de produtos (em aberto)
+## 5. Amostra de produtos
 
 O Bruno levantou a ideia ("quem sabe até produtos"). O artigo de outubro não mede preço: nenhuma fonte responde "qual
 é mais barata". Uma amostra nossa responderia, com limites:
@@ -76,8 +76,8 @@ dos produtos das duas e converte.
   feminina, calça jeans wide leg, vestido midi, conjunto de moletom e pijama.
 - **Regra de escolha:** em cada loja, o primeiro resultado da busca ordenada por mais vendidos, com nota e número de
   avaliações à vista; na Shopee, de vendedor nacional e de vendedor do exterior quando houver os dois.
-- **O que se lê de cada peça:** preço do dia, frete e imposto para um CEP de São Paulo (01310-100), prazo estimado e
-  vendedor.
+- **O que se lê de cada peça:** nome, foto e link. **Decisão do Bruno (17/11):** a amostra ilustra, não compara
+  preço; os catálogos são imensos e nunca têm a mesma peça. Sem preço nos três artigos.
 - **Fora do PT (SV2 e SV3, decisão do Bruno, 16/11):** peças com link e sem preço; no máximo o percentual de
   desconto do item.
 - **Categorias que o Bruno acrescentou (16/11):** pijamas, bolsas, sapatos e roupas de academia.
@@ -91,6 +91,9 @@ dos produtos das duas e converte.
   na tela qual opção de "Classificar por" é a de mais vendidos. Vistas: camiseta GlowEve gola redonda com renda
   (R$ 52,95, selo de mais vendido, p-502351672); calça jeans wide leg (R$ 69,99, selo, p-307702580); vestido Sweetra
   de malha com recortes (R$ 88,14, selo, p-104819834).
+
+- **SV1, 17/11:** 42 peças e um link geral da SHEIN recebidos e lidos (nome e foto pelo OG da SHEIN e pelas páginas
+  da Shopee no Chrome, uma por vez, sem bloqueio). Em [[shein-ou-shopee-amostra-1711]].
 
 ## 6. Autocompletar (16/11)
 

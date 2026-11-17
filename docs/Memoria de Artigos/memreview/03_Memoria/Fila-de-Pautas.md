@@ -52,8 +52,8 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 ## 2. Paradas: esperam um fato ou uma decisão
 
 | Código | O que | Parceiro | O que falta | Com quem |
-| SV1 | SHEIN ou Shopee: reforma do `shein-ou-shopee-temu`, só PT, na mesma URL (briefing [[shein-ou-shopee-so-pt]], 16/11) | SHEIN e Shopee (várias lojas) | A F1 e a F2 estão na main (#1036, #1038, 16/11): a lista com a SHEIN e a Shopee já é aceita. Faltam os links de produto convertidos da amostra (SHEIN e Shopee); com eles, vai para a redação | Bruno (links) |
-| — | Amostra de produtos nos três "SHEIN ou X" (peças parecidas, preço do dia com frete e imposto) | SHEIN, Shopee, Temu e AliExpress | Aprovada em 16/11 para os três, por partes: primeiro SHEIN e Shopee, depois Temu e AliExpress. Falta escolher as peças (a busca da Shopee pede login) e converter o link de cada uma | Bruno |
+| SV1 | SHEIN ou Shopee: reforma do `shein-ou-shopee-temu`, só PT, na mesma URL (briefing [[shein-ou-shopee-so-pt]], 16/11) | SHEIN e Shopee (várias lojas) | Pronto para a redação: F1 e F2 na main (#1036, #1038) e amostra de peças recebida e lida em 17/11 ([[shein-ou-shopee-amostra-1711]]). Olhar no celular antes do deploy | Elaborador de Artigos (quando o Bruno mandar) |
+| — | Amostra de produtos nos três "SHEIN ou X" (peças parecidas, com foto e link; ilustra, não compara preço, decisão do Bruno de 17/11) | SHEIN, Shopee, Temu e AliExpress | SHEIN e Shopee recebidas e lidas em 17/11 ([[shein-ou-shopee-amostra-1711]]). Faltam as peças da Temu e do AliExpress, com o link convertido de cada uma | Bruno |
 |---|---|---|---|---|
 | M6 | Dr. Peanut: Mercado Livre ou site (briefing pronto em 30/10) | Dr. Peanut | O link do Mercado Livre | Bruno |
 | H7 | Loja virtual na Hostinger ou Nuvemshop/Shopify (Commerce) | Hostinger | Conferir no hPanel o preço em R$, os canais e o nome do assistente (o Pix por QR Code está confirmado na tela de pagamento, 10/11) | Bruno |
