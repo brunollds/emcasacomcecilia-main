@@ -1,5 +1,5 @@
 ---
-titulo_provisorio: "Cupom L'Amazonie: como usar o CECILIA e por que ele só entra no Finalizar compra"
+titulo_provisorio: "Cupom L'Amazonie: como aplicar o CECILIA pelo botão Finalizar compra"
 seo_title: "Cupom L'Amazonie: como usar o CECILIA, 5% OFF"
 slug_sugerido: "cupom-lamazonie-como-usar"
 parceiro: "[[LAmazonie]]"
@@ -126,7 +126,7 @@ Sem quadro `decision` e sem card de estilo.
 
 ## Metadados sugeridos
 
-- **title:** Cupom L'Amazonie: como usar o CECILIA e por que ele só entra no Finalizar compra (80 caracteres)
+- **title:** Cupom L'Amazonie: como aplicar o CECILIA pelo botão Finalizar compra (68 caracteres)
 - **seoTitle:** Cupom L'Amazonie: como usar o CECILIA, 5% OFF (45 caracteres)
 - **metaDescription (rascunho):** CECILIA dá 5% OFF na L'Amazonie, mas só entra no checkout do botão Finalizar compra. Veja o passo a passo, a conta do teste e o que soma. (137 caracteres; o código termina no caractere 7)
 - **description (subtítulo, até 180):** Onde digitar o cupom CECILIA na L'Amazonie, o caminho em que ele é recusado, a conta do nosso teste e como ficam o Pix, os kits e o frete. (138 caracteres)
@@ -163,3 +163,7 @@ O que mudou em relação ao esqueleto: o capítulo da recusa fala só do endere�
 ## Capa e imagens (aprovadas pelo Bruno em 16/11/2026)
 
 Capa no painel lateral, `imageFit: contain`: primeira foto oficial do sérum (frasco e caixa, `PG_SS_01` da página do produto), chamada "Como usar o cupom" e o código. Upload ao CDN autorizado no mesmo dia. Corpo: o print `cupom-lamazonie-checkout-com-cupom.webp`, que já estava no CDN.
+
+## Revisão externa (Farol, 16/11/2026)
+
+Parecer colado pelo Bruno depois do merge do #1069 (`docs/auditoria-copy-artigos/lamazonie-lz1-lz2-lz3-pr1069-20261116-farol/`). P02 a P06 aplicadas: o caminho do Finalizar compra passa a ser descrito como resultado do teste (sem "só entra"), e "carrinho inteiro" virou "os produtos do carrinho". O título (P01) foi trocado com o OK do Bruno para "Cupom L'Amazonie: como aplicar o CECILIA pelo botão Finalizar compra"; seoTitle e slug iguais.

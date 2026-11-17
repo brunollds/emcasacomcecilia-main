@@ -21,11 +21,11 @@
   "cons": [],
   "coupon": "CECILIA",
   "affiliate": "lamazonie",
-  "title": "Cupom L'Amazonie: como usar o CECILIA e por que ele só entra no Finalizar compra",
+  "title": "Cupom L'Amazonie: como aplicar o CECILIA pelo botão Finalizar compra",
   "seoTitle": "Cupom L'Amazonie: como usar o CECILIA, 5% OFF",
   "type": "Guia & Cupons",
   "description": "Onde digitar o cupom CECILIA na L'Amazonie, o caminho em que ele é recusado, a conta do nosso teste e como ficam o Pix, os kits e o frete.",
-  "metaDescription": "CECILIA dá 5% OFF na L'Amazonie, mas só entra no checkout do botão Finalizar compra. Veja o passo a passo, a conta do teste e o que soma.",
+  "metaDescription": "CECILIA dá 5% OFF na L'Amazonie. No teste, entrou pelo botão Finalizar compra; veja onde digitar, como conferir o desconto e o que soma.",
   "image": "/images/reviews/lamazonie/cupom-lamazonie-como-usar-capa.webp",
   "imageAlt": "Frasco do Sérum para crescimento de Cílios e Sobrancelhas da L'Amazonie ao lado da caixa, em foto oficial da loja, com o logo da marca, a chamada “Como usar o cupom” e o código CECILIA.",
   "cta": {
@@ -50,7 +50,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O cupom CECILIA dá 5% OFF no site da L'Amazonie, para cliente novo e antigo. Ele só é aceito no checkout que abre pelo botão Finalizar compra. Lá, digite o código no campo Tem um cupom? e clique em Adicionar. Soma com o desconto do Pix e, no nosso teste, entrou também num kit em promoção."
+        "O cupom CECILIA dá 5% OFF na L'Amazonie, para cliente novo e antigo. No teste, funcionou no checkout aberto pelo botão Finalizar compra. Digite em Tem um cupom?, clique em Adicionar e confira o desconto. Soma com o Pix e, no carrinho testado, entrou também em um kit em promoção."
       ]
     },
     {
@@ -80,16 +80,16 @@
     {
       "heading": "Por que aparece “Insira um código de desconto válido”",
       "paragraphs": [
-        "A L'Amazonie tem mais de uma página de pagamento. A que aceita o CECILIA é a do endereço seguro.lamazonie.com.br, aberta pelo botão “Finalizar compra”.",
-        "Quando abrimos o endereço lamazonie.com.br/checkout direto, caímos em outra página, com um campo chamado “Código de desconto”. Nela, o mesmo código, com o mesmo carrinho, foi recusado com a mensagem “Insira um código de desconto válido”. Não mapeamos todos os botões e links que levam a essa página. Por isso, o que vale conferir é o endereço na barra do navegador.",
-        "Essa mensagem não quer dizer que o cupom acabou. No nosso teste, o mesmo código foi aceito em seguida no outro checkout. Volte ao carrinho, clique em “Finalizar compra” e digite o código no campo “Tem um cupom?”."
+        "No teste, o CECILIA foi aceito em seguro.lamazonie.com.br, a página aberta pelo botão “Finalizar compra” do carrinho.",
+        "Ao abrir lamazonie.com.br/checkout diretamente, encontramos outra página, com o campo “Código de desconto”. Nela, o mesmo código e o mesmo carrinho retornaram “Insira um código de desconto válido”. Não identificamos qual botão do site levaria um comprador a essa segunda página.",
+        "Nesse teste, a mensagem não significou que o cupom tinha acabado: ele foi aceito no checkout próprio da loja. Se aparecer essa recusa, volte ao carrinho e tente pelo botão “Finalizar compra”, no campo “Tem um cupom?”. Confira o desconto antes de pagar."
       ]
     },
     {
       "heading": "Quanto o cupom tira: a conta do nosso teste",
       "paragraphs": [
         "Em 16 de novembro de 2026, montamos um carrinho com dois itens. O Sérum para crescimento de Cílios e Sobrancelhas custava R$ 159,00. O Kit 2 Protetores Solares de Tratamento FPS 99 custava R$ 249,00. Dois protetores avulsos, a R$ 159,00 cada, sairiam mais caros.",
-        "Com o código, os R$ 408,00 em produtos viraram R$ 387,60, antes do frete. A linha Descontos mostrou R$ 20,40. São 5% sobre o carrinho inteiro, inclusive sobre o kit."
+        "Com o código, os R$ 408,00 em produtos viraram R$ 387,60, antes do frete. A linha Descontos mostrou R$ 20,40. São 5% sobre os produtos do carrinho, inclusive sobre o kit."
       ]
     },
     {
@@ -115,7 +115,7 @@
     {
       "heading": "O cupom não entrou: o que conferir",
       "bullets": [
-        "**O endereço.** A barra do navegador precisa mostrar seguro.lamazonie.com.br. Se mostrar outro, volte ao carrinho e saia pelo “Finalizar compra”.",
+        "**O caminho.** No teste, o desconto apareceu em seguro.lamazonie.com.br, após o botão “Finalizar compra”. Se estiver em outra página e o código for recusado, volte ao carrinho e tente por esse botão.",
         "**O código.** CECILIA, tudo junto, sem espaço antes ou depois.",
         "**A loja.** O código vale no site oficial, lamazonie.com.br. Em marketplace, como o Mercado Livre, vale o preço do anúncio."
       ],
