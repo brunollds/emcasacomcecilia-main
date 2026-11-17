@@ -1,0 +1,156 @@
+URL: https://clarity.microsoft.com/projects/view/r8u956l333/dashboard?date=Last+90+days&URL=2%3B4%3Bhttps%3A%2F%2Femcasacomcecilia.com%2Fcupons%2Fyesstyle
+Lido em: 2026-11-17T13:26:42.505Z
+
+Filtros
+
+Segmentos
+Últimos 90 dias 
+
+URL visitada é exatamente
+: 
+https://emcasacomcecilia.com/cupons/yesstyle
+
+Salvar como segmento
+Limpar
+Sessões
+12
+1 sessões de bot excluídas
+Páginas por sessão
+3,50
+média
+Profundidade de rolagem
+53,26%
+média
+Tempo ativo gasto
+1 min
+fora do 9,5 min tempo total
+Visão geral dos usuários
+Todos os usuários
+
+0
+Usuários dinâmicos
+Há < 1 min
+10
+Usuários únicos
+Sessões com novos usuários
+91,67%
+11
+Sessões com usuários retornados
+8,33%
+1
+Usuário principal
+Ver todos os usuários
+2 sessões
+Brazil
+Exibir perfil do visitante para visitante com 2 sessões, país Brazil e dispositivo PC
+Insights
+
+Cliques contínuos
+0%
+0 sessões
+Cliques mortos
+16,67%
+2 sessões
+Rolagem excessiva
+0%
+0 sessões
+Retornos rápidos
+33,33%
+4 sessões
+Meus Favoritos
+
+Acompanhe o que lhe interessa
+Adicionar aos favoritos
+Pronto para oferecer uma experiência excepcional no aplicativo?
+O Clarity agora está disponível para aplicativos Flutter!
+Instale o SDK do Clarity Flutter e comece a ver como os usuários interagem com seu aplicativo.
+Obter agora
+Não, obrigado
+Eventos inteligentes
+
+Mostrar porcentagem de sessões
+Desativado
+Clique de saída
+2 sessões
+Funis
+
+Configure os funis para encontrá-los aqui
+Novo funil
+Referenciador
+Canal
+Campanha
+Origem
+
+emcasacomcecilia.com
+8
+www.google.com
+4
+Navegadores
+Dispositivos
+
+Edge
+58,33%
+7 sessões
+MobileSafari
+25%
+3 sessões
+Chrome
+8,33%
+1 sessões
+ChromeMobile
+8,33%
+1 sessões
+Visão geral do desempenho
+Desempenho da URL
+
+94/100
+Pontuação de desempenho
+de 4 visualizações de página
+100% bom
+0% precisa de melhorias
+0% ruim
+Divisão de pontuação de desempenho
+0,8
+s
+LCP (Pintura com Maior Conteúdo)
+bom
+120
+ms
+Interação com a Próxima Pintura (INP)
+bom
+0,038
+CLS (Deslocamento de Layout Cumulativo)
+bom
+Saiba como melhorar seu desempenho
+Páginas principais
+Páginas inativas
+
+Parâmetros da URL
+Desativado
+Classificar por: Mais popular
+https://emcasacomcecilia.com/cupons/yesstyle
+12
+https://emcasacomcecilia.com/
+6
+https://emcasacomcecilia.com/cupons
+4
+https://emcasacomcecilia.com/cupons/hostinger
+2
+https://emcasacomcecilia.com/cupons/shein
+2
+https://emcasacomcecilia.com/en/coupons/yesstyle
+1
+https://emcasacomcecilia.com/reviews/yesstyle-trustpilot-nota-reclamacoes
+1
+Erros de JavaScript
+
+Mostrar somente erros de clique
+Desativado
+0%
+Gravações
+0 total de erros do JavaScript
+Tráfego de bots
+
+Nenhum dado disponível
+
+Somente o filtro de data pode ser aplicado a este cartão

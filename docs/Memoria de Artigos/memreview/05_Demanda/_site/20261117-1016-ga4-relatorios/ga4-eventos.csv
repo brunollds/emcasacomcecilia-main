@@ -1,0 +1,29 @@
+# ----------------------------------------
+# Eventos: Nome do evento
+# Conta: emcasacomcecilia
+# Propriedade: Emcasacomcecilia
+# ----------------------------------------
+# 
+# Todos os usuários
+# Data de início: 20260816
+# Data de término: 20261115
+Nome do evento,Contagem de eventos,Total de usuários,Contagem de eventos por usuário ativo,Receita total
+page_view,11122,2549,4.368421052631579,0
+session_start,6248,2550,2.4540455616653576,0
+first_visit,5083,2543,1.998820290994888,0
+user_engagement,3692,1557,2.406779661016949,0
+home_store_select,1760,173,10.173410404624278,0
+scroll,855,343,2.492711370262391,0
+home_route_click,600,137,4.37956204379562,0
+coupon_copy,407,175,2.339080459770115,0
+click,317,133,2.3834586466165413,0
+coupon_store_click,308,133,2.3157894736842106,0
+reviews_route_click,254,44,5.7727272727272725,0
+coupon_page_click,56,28,2,0
+reviews_list_control,20,3,6.666666666666667,0
+view_recipe,14,5,2.8,0
+view_search_results,8,4,2,0
+file_download,6,3,2,0
+home_category_filter,6,1,6,0
+form_start,2,1,2,0
+search,2,1,2,0

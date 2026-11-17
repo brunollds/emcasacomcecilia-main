@@ -1,0 +1,195 @@
+URL: https://clarity.microsoft.com/projects/view/r8u956l333/dashboard?date=Last%2090%20days
+Lido em: 2026-11-17T13:25:52.232Z
+
+Filtros
+
+Segmentos
+Últimos 90 dias 
+
+Salvar como segmento
+Sessões
+2.122
+386 sessões de bot excluídas
+Páginas por sessão
+1,67
+média
+Profundidade de rolagem
+49,39%
+média
+Tempo ativo gasto
+1,2 min
+fora do 4,3 min tempo total
+Visão geral dos usuários
+Todos os usuários
+
+0
+Usuários dinâmicos
+Há 1,0 min
+1.832
+Usuários únicos
+Sessões com novos usuários
+95,52%
+2.027
+Sessões com usuários retornados
+4,48%
+95
+Usuário principal
+Ver todos os usuários
+41 sessões
+Brazil
+Exibir perfil do visitante para visitante com 41 sessões, país Brazil e dispositivo PC
+Insights
+
+Cliques contínuos
+0,14%
+3 sessões
+Cliques mortos
+7,26%
+154 sessões
+Rolagem excessiva
+0,19%
+4 sessões
+Retornos rápidos
+7,96%
+169 sessões
+Meus Favoritos
+
+Acompanhe o que lhe interessa
+Adicionar aos favoritos
+Pronto para oferecer uma experiência excepcional no aplicativo?
+O Clarity agora está disponível para aplicativos Flutter!
+Instale o SDK do Clarity Flutter e comece a ver como os usuários interagem com seu aplicativo.
+Obter agora
+Não, obrigado
+Eventos inteligentes
+
+Mostrar porcentagem de sessões
+Desativado
+Clique de saída
+128 sessões
+Mostrar mais
+18 sessões
+Pausa
+4 sessões
+Funis
+
+Configure os funis para encontrá-los aqui
+Novo funil
+Referenciador
+Canal
+Campanha
+Origem
+
+www.google.com
+843
+emcasacomcecilia.com
+757
+www.bing.com
+32
+com.google.android.googlequicksearchbox
+23
+search.yahoo.co.jp
+8
+www.youtube.com
+4
+www.emcasacomcecilia.com
+3
+bing.com
+2
+br.search.yahoo.com
+2
+r.search.yahoo.com
+1
+search.readlatertab.com
+1
+www.google.es
+1
+Navegadores
+Dispositivos
+
+Chrome
+38,93%
+826 sessões
+MobileSafari
+24,88%
+528 sessões
+ChromeMobile
+20,22%
+429 sessões
+Edge
+9,57%
+203 sessões
+GoogleApp
+3,91%
+83 sessões
+Other 
+
+2,50%
+53 sessões
+Visão geral do desempenho
+Desempenho da URL
+
+84/100
+Pontuação de desempenho
+de 118 visualizações de página
+71,2% bom
+28,0% precisa de melhorias
+0,8% ruim
+Divisão de pontuação de desempenho
+1,7
+s
+LCP (Pintura com Maior Conteúdo)
+bom
+290
+ms
+Interação com a Próxima Pintura (INP)
+precisa de melhorias
+0,004
+CLS (Deslocamento de Layout Cumulativo)
+bom
+Saiba como melhorar seu desempenho
+Páginas principais
+Páginas inativas
+
+Parâmetros da URL
+Desativado
+Classificar por: Mais popular
+https://emcasacomcecilia.com/
+709
+https://emcasacomcecilia.com/reviews/tabela-medidas-dolce-gusto-ml-por-nivel
+146
+https://emcasacomcecilia.com/es/reviews/black-friday-shein-fechas-impuestos
+91
+https://emcasacomcecilia.com/cupons
+66
+https://emcasacomcecilia.com/ja/reviews/shein-black-friday-ja
+52
+https://emcasacomcecilia.com/reviews
+51
+https://emcasacomcecilia.com/it/reviews/black-friday-shein-date-e-tasse
+42
+https://emcasacomcecilia.com/reviews/insider-vale-a-pena
+26
+https://emcasacomcecilia.com/en/reviews/yesstyle-black-friday-dates-coupons
+24
+https://emcasacomcecilia.com/reviews/poltrona-damie-e-boa
+24
+https://emcasacomcecilia.com/cupons/shein
+23
+https://emcasacomcecilia.com/reviews/nutren-senior-ensure-ou-sustagen-senior
+21
+Erros de JavaScript
+
+Mostrar somente erros de clique
+Desativado
+0,33%
+Gravações
+12 total de erros do JavaScript
+41,67%failed to execute 'insertbefore' on 'node': the node before which the new node is to be inserted is
+41,67%maximum call stack size exceeded.
+16,67%the object can not be found here.
+Tráfego de bots
+
+Nenhum dado disponível
+
+Não há dados de tráfego suficientes, tente estender o intervalo de datas
