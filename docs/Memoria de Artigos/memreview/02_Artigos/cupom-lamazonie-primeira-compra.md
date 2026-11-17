@@ -127,3 +127,7 @@ O que mudou em relação ao esqueleto, pelas lições dos pareceres externos: o 
 ## Capa e imagens (aprovadas pelo Bruno em 16/11/2026)
 
 Capa da série: "Bem-vindo, 5% OFF" e o código, sobre a foto oficial dos três frascos do sérum (`serum-sobrancelha-kit-3-frascos-v2`). Corpo: o print `cupom-lamazonie-checkout-com-cupom.webp`, que já estava no CDN.
+
+## Revisão externa (Farol, 16/11/2026)
+
+Parecer colado pelo Bruno antes do merge do #1071 (`docs/auditoria-copy-artigos/lamazonie-lz4-lz5-20261116-farol/`). P01 e P02 aplicadas: snippet e resposta rápida abrem pelo código e pelo percentual.
