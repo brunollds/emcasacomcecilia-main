@@ -105,3 +105,12 @@ Em rascunho (`draft: true`): `dolce-gusto-maquinas-qual-escolher`, `melhores-cap
 ## Âncora "cupom Dolce Gusto" (17/11/2026)
 
 A dona de "cupom dolce gusto" voltou a ser a `/cupons/dolce-gusto` (decisão do Bruno, regra de 05/11). 15 artigos em português ganharam o link com o texto exato `[cupom Dolce Gusto](/cupons/dolce-gusto)`: 10 que não tinham link no texto (na resposta rápida ou no parágrafo do cupom) e 5 que usavam âncora genérica. O `cupom-ceci-nescafe-dolce-gusto-como-usar` segue com o título de passo a passo. Teste de 17/11, sem finalizar: o CECI entrou numa Mini Me 2.0 em promoção, de R$ 369,90 para R$ 332,91; os textos que diziam "pode funcionar em máquinas" passaram a afirmar. Medição do Adicionar Cupons em 01/12, por impressões e posição.
+
+## CECI na assinatura: teste de 17/11/2026
+
+Carrinho sem login, sem finalizar. Assinatura Geração 1, mensal, com caixas de R$ 25,90 a R$ 16,84 (a página anunciava 35% no primeiro pedido, campanha de Black Friday; o plano regular é 25%).
+
+- 4 caixas, subtotal R$ 67,36: "O cupom de desconto CECI é inválido".
+- 6 caixas, subtotal R$ 101,04: "Você usou o código de cupom CECI", linha "Você ganhou 10% OFF!", desconto de R$ 10,10, total de R$ 90,94.
+
+Leitura: o CECI de 10% soma com a assinatura, e o mínimo de R$ 100 conta sobre o subtotal já com o desconto do plano. Em 04/10, com o código em 5%, o checkout aceitou um pedido que ficava em R$ 89,70 depois dos 25%; isso mudou. Artigos atualizados: assinatura-dolce-gusto-vale-a-pena e assinatura-dolce-gusto-como-funciona. Sem print no artigo.
