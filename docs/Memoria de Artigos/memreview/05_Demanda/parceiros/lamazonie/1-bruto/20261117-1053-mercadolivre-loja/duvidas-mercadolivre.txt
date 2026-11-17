@@ -1,0 +1,18 @@
+# Mercado Livre: loja oficial da L'Amazonie e perguntas na página de produto
+## Página da loja (aberta sem login)
+URL: https://www.mercadolivre.com.br/loja/lamazonie
+Título da página: LAmazonie | Loja Oficial
+Texto lido no topo: "LAmazonie", "Loja oficial", "+1.800 seguidores"; abas Início, Cuidados com a Pele, Cílios e Sobrancelhas, Clips, Todos os produtos.
+Vitrine "Os queridinhos do Full", com selo BLACK FRIDAY:
+- Creme Clareador Manchas Virilha Axila Rosto L'amazonie 80g Todo Tipo De Pele | de R$ 159,90 por R$ 118 | 26% OFF
+- Sérum L'Amazonie Skincare Crescimento Cílios Sobrancelhas 4mL | de R$ 239 por R$ 110 | 53% OFF | Best-Seller
+Endereços de produto vistos na página:
+- https://www.mercadolivre.com.br/creme-clareador-manchas-virilha-axila-rosto-lamazonie-80g-todo-tipo-de-pele/p/MLB64880973
+- https://www.mercadolivre.com.br/serum-lamazonie-skincare-crescimento-cilios-sobrancelhas-4ml/p/MLB45307397
+- https://www.mercadolivre.com.br/serum-clareador-antimanchas-vitamina-c-lamazonie-30ml/p/MLB27444941
+- https://www.mercadolivre.com.br/preenchedor-de-falhas-sobrancelhas-e-cilios-lamazonie/up/MLBU3503091577
+- https://www.mercadolivre.com.br/serum-fortalecedor-para-cilios-e-sobrancelhas-lamazonie/up/MLBU2929875242
+## Página de produto (perguntas e respostas)
+URL pedida: https://www.mercadolivre.com.br/serum-lamazonie-skincare-crescimento-cilios-sobrancelhas-4ml/p/MLB45307397
+Resultado: redirecionada para https://www.mercadolivre.com.br/gz/account-verification (pede para entrar na conta). Nenhuma pergunta lida.
+PERGUNTAS: @indisponivel (a página de produto exige login)
