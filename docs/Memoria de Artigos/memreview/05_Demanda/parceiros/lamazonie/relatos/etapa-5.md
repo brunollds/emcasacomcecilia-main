@@ -185,3 +185,119 @@ Os dois rodam de qualquer pasta, sem dependências. O `COMO-REFAZER.md` é da co
 5. Existe relatório de resgates do `CECILIA` na L'Amazonie? Sem ele, toda prioridade aqui é de busca, não de venda.
 6. O creme íntimo, o de axilas e o de virilha são o mesmo produto? A marca responde isso numa linha.
 7. Vale gravar um vídeo curto de tela com o caminho do cupom?
+
+## 8. Depois da revisão
+
+Aplicação do parecer da revisão independente (`3-matriz/REVISAO.md`: 20 prontas, 6 devolvidas, nenhuma recusada), a
+pedido da coordenação.
+
+- **Início:** `2026-11-17T11:42:17-03:00`
+- **Fim:** `2026-11-17T11:50:00-03:00`
+- **Tempo gasto:** 8 minutos, pelo relógio da máquina.
+
+Sem coleta nova. Não editei `REVISAO.md`, `4-saida/recomendacoes.md`, `2-processado/`, `1-bruto/`, `_site/`,
+`DIARIO.md`, `LICOES.md`, `PROGRAMA.md` nem `FORMATOS.md`.
+
+### 8.1 Conferência dos achados
+
+Abri a evidência citada em cada achado antes de aceitar. Todos procedem.
+
+| Achado | O que conferi | Resultado |
+|---|---|---|
+| 3.1 | `serp-01`, linha 33 (patrocinados): a oferta de Black Friday com "Até 26/11"; busca por "26/11" na pasta do parceiro só acha essa linha. `serp-08`, linha 32: o sérum anunciado por preço abaixo do da página principal | Procede. Eu não tinha lido as linhas de patrocinados |
+| 3.2 | `duvidas-mercadolivre.txt` (títulos com 4mL, 30ml e 80g), `serp-05` linha 8 ("Volume: 30 mL"), `serp-06` linha 29 (anúncio com 13g), semente 9.5, o capítulo de composição do "é boa" | Procede. Eu tinha lido esses títulos e mesmo assim escrevi "volume" como lacuna |
+| 3.3 | `serp-07` inteiro (três fichas, página inicial, post, conteúdo no Reclame Aqui, anúncio); `sin-0619`, `0637`, `0657`, `0678` ("manaus" em quatro blocos) | Procede. A contagem estava certa e a leitura, errada |
+| 3.4 | A conta do revisor contra os preços do `catalogo.csv` e da vitrine guardada | Procede |
+| 3.5 | `src/lib/couponsData.ts`: campo `mercadoLivreUrl`, usado em várias lojas, e a pergunta automática com "costumam estar as melhores condições" | Procede |
+| 3.6 | `nossos-dados.csv`: os cruzamentos são só das três páginas de cupom; `nos-0070` a `0072` são de página | Procede |
+| 3.7 | `sin-0705` (reclamação isolada) e `sin-0723` (conteúdo da marca) | Procede |
+| 3.8 | `serp-03` (a resposta de IA não carregou; o resultado 5 cita extratos) e a linha da resposta de IA do `serp-01` | Procede |
+| 3.9 | `youtube-resultados.txt`: idades dos vídeos e a resenha de canal pessoal | Procede |
+| 3.10 | `serp-10` a `serp-13`: nenhum preço guardado | Procede |
+| 3.11 | `sin-0859`, `0863`, `0865`, `0875`, `0881` | Procede |
+| 3.12 | `gsc-site-3m/paginas.csv`, linha 406; `bing-ia-paginas-3m.csv` (a versão em inglês na frente); nota da `cob-0018`; `sin-0599` | Procede |
+| 3.13 | A seção 5 da leitura | Procede |
+
+### 8.2 O que mudou, linha por linha
+
+| Linha | Estado | Mudança |
+|---|---|---|
+| `op-0001`, `0002`, `0009`, `0010`, `0014`, `0015`, `0016`, `0021`, `0023`, `0025`, `0026` | pronta | Só o estado |
+| `op-0003` | pronta | Justificativa: a consulta de primeira compra aparece para a página de cupom da Skelt; do artigo só se sabe que tem impressões (3.6) |
+| `op-0004` | pronta | Justificativa: na YesStyle, a versão em português está entre as citadas; a mais citada é a em inglês (3.12) |
+| `op-0005` | pronta | Justificativa: o domínio do Reclame Aqui em quatro buscas, o perfil em duas (3.7) |
+| `op-0006` | pronta | Lacuna e justificativa: há resenhas em vídeo que ninguém abriu; não se afirma vínculo nem a falta dele (3.9) |
+| `op-0007` | em-revisao | Lacuna, justificativa, dependências e notas: a oferta anunciada com "Até 26/11", o passo imediato pela `op-0027`, e as lojas de referência sem o "a favor" (entrou a Simple Organic, `nos-0019` a `0021`) (3.1, 3.12). Segue alta |
+| `op-0008` | em-revisao | Prioridade de alta para média; lacuna sem "ninguém responde" e sem volume; dependência passa a ser a `op-0029` (3.2, 3.8) |
+| `op-0011` | em-revisao | Prioridade de média para baixa; a coleta vem antes do capítulo; a lacuna diz o que o "é boa" já traz (3.8) |
+| `op-0012` | em-revisao | Lacuna e justificativa com a conta por quantidade (em palavras); dependências com a pergunta do link de afiliado do Mercado Livre e a leitura com uma, duas e três unidades (3.4, 3.5) |
+| `op-0013` | pronta | Nota com o link de afiliado e o aviso sobre a frase padrão da pergunta automática (3.5). É o cuidado que o revisor pediu; a ação não mudou |
+| `op-0017` | pronta | Lacuna: "poucos, repetidos e pequenos", com as idades certas (3.9) |
+| `op-0018` | em-revisao | Prioridade de média para baixa e confiança de média para baixa; justificativa sem "mais buscado"; lacuna com o que o `serp-07` traz e com o título do anúncio oficial; dependência "confirmar a fórmula"; o fato do preço por página foi para a `op-0028` (3.3, 3.10) |
+| `op-0019` | em-revisao | Prioridade de média para baixa; lacuna sem a ressalva de volume e sem afirmar falta de resenha; o exemplo de preço só para a combinação testada (3.2, 3.8, 3.9) |
+| `op-0020` | pronta | Dependências sem "volume": ficam as cores, a lista de ingredientes e a conferência do anúncio de 13 g (3.2). O revisor aprovou a linha e citou-a no 3.2; apliquei |
+| `op-0022` | pronta | Lacuna sem "preço acima dos listados" (3.10) |
+| `op-0024` | pronta | Lacuna sem "várias vezes mais" (3.10) |
+| `op-0027` | em-revisao | Nova: testar o `CECILIA` na oferta que a loja anuncia, antes de 26/11. Alta (seção 4, item 1) |
+| `op-0028` | em-revisao | Nova: menor preço dentro do site quando o mesmo produto tem mais de uma página (a segunda página do sérum e os kits de creme). Média (seção 4, item 4, e 3.3) |
+| `op-0029` | em-revisao | Nova: pedido único à marca, ou foto do rótulo, com lista de ingredientes e número do processo. Alta (seção 4, item 5, e 3.8) |
+
+Na `LEITURA.md`: cabeçalho com o estado; seção 1 com o bloco de buscas relacionadas lido como associação, as semanas
+do Trends por termo, os volumes públicos, o marketplace por quantidade, o anúncio de Black Friday, a lista do que não
+completa sem "preço" e as causas da cobertura parcial corrigidas (3.3, 3.11, 3.2, 3.4, 3.1, 3.12); seção 2, itens 2,
+3, 4, 5, 6, 7 e 8; seção 3 com as linhas novas de lacuna e sem "volume"; seção 4 com as perguntas 3, 7, 8 e 9; seção
+5 refeita (3.13), com o que o programa perdeu; seção 6 com as 29 linhas e a coluna de estado.
+
+No `montar-matriz.cjs`: campo `estado` por linha (sem ele, sai `em-revisao`) e as três linhas novas no fim. O
+`validar-matriz.cjs` não mudou.
+
+### 8.3 Seção 4 do parecer: o que virou linha e o que não
+
+| Item | Destino |
+|---|---|
+| 1. Teste do código na oferta anunciada | Linha `op-0027` |
+| 2. Link de afiliado do Mercado Livre | Dependência da `op-0012` e nota da `op-0013`. Não abri linha: é a mesma decisão do leitor (onde comprar), e a pergunta ao Bruno já está nas duas |
+| 3. Conta por quantidade | Conteúdo da `op-0012` |
+| 4. Página do sérum a preço menor | Linha `op-0028`, junto com os kits de creme |
+| 5. Pedido único à marca | Linha `op-0029` |
+| 6. Instagram e vídeos curtos | Sem linha: não é decisão do leitor, é decisão de coleta. Ficou como pendência sem dono na `LEITURA.md` (seção 3 e pergunta 9), para a coordenação |
+| 7. Ação descartada sem motivo | Nada a fazer |
+
+### 8.4 O que não aceitei
+
+Nenhum achado foi recusado. Dois pontos em que fiz diferente do que o parecer sugere, com o motivo:
+
+1. **`op-0018` continua `criar-artigo`.** O revisor discorda da ação (item 3.3, "discordância de julgamento") e, no
+   "o que mudar", pede prioridade baixa, justificativa nova e outra dependência. Apliquei os três e levei o fato útil
+   para a `op-0028`. Mantive a linha como registro da ideia, em `baixa` e com a decisão do Bruno como primeira
+   dependência, em vez de trocá-la por `manter`: quem decide abrir ou não um segundo produto é ele. Se o revisor
+   preferir `manter`, é uma troca de campo.
+2. **Prioridade nas linhas de `manter`.** O parecer (5.9) sugere `@nao-se-aplica`. O `FORMATOS.md` só aceita `alta`,
+   `media` e `baixa`, e eu não edito o formato: ficou `baixa`. A sugestão segue valendo para a coordenação.
+
+### 8.5 Saída do validador
+
+```text
+$ node "docs/Memoria de Artigos/memreview/05_Demanda/parceiros/lamazonie/3-matriz/validar-matriz.cjs"
+matriz.csv: 29 oportunidades, 19 colunas, 1528 referências conferidas
+por ação: criar-artigo 3, melhorar-capitulo 6, atualizar-fatos 5, melhorar-pagina-cupom 1, links-internos 1, video 1, manter 12
+por prioridade: alta 3, media 5, baixa 21
+por confiança: alta 3, media 21, baixa 5
+sem erros
+```
+
+Estado: 20 `pronta` e 9 `em-revisao` (`op-0007`, `0008`, `0011`, `0012`, `0018`, `0019`, `0027`, `0028`, `0029`).
+
+As contagens da seção 2 deste relato (sinais usados, linhas por ação e por prioridade) e a saída da seção 3 são da
+primeira versão, com 26 linhas; valem as desta seção.
+
+### 8.6 O que eu aprendi com a revisão
+
+- Os três erros graves foram de leitura que eu não fiz, não de leitura difícil: não abri as linhas de patrocinados
+  dos arquivos de busca, não usei a semente como fonte ao escrever cada `lacuna` e li repetição de bloco como procura.
+- Concordo com o item 5.8 do parecer: antes da matriz, uma busca por data, preço, volume e "Black Friday" em todo o
+  `1-bruto/`. Custa um comando.
+- O validador prova que o id existe, não que a frase diz o que o id diz. As contagens em prosa passaram por ele e
+  duas estavam mal lidas (3.6 e 3.7).
+- A regra "nenhuma métrica copiada" me fez escrever a conta do marketplace em palavras na matriz. Os números estão
+  no `REVISAO.md` (3.4); a linha aponta para lá.
