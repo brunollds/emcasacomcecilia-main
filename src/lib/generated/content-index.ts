@@ -249664,6 +249664,8 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "16 de novembro de 2026",
     "publishedAtISO": "2026-11-16",
+    "updatedAt": "2026-11-17",
+    "bodyDatesReason": "campanha",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -249676,7 +249678,7 @@ export const reviewsData: unknown[] = [
     "seoTitle": "Black Friday L’Amazonie 2026: kits e cupom CECILIA",
     "type": "Guia de Black Friday",
     "description": "O que a L’Amazonie tinha publicado para a Black Friday, os kits da tabela regular, os preços do sérum por quantidade e como ficam o cupom, o Pix e o frete.",
-    "metaDescription": "CECILIA dá 5% OFF na L’Amazonie e, no teste, entrou em kit em promoção. Veja o que a loja publicou para a Black Friday e os preços de 1, 2 ou 3 séruns.",
+    "metaDescription": "CECILIA dá 5% OFF na L’Amazonie e, no teste, entrou em oferta de Black Friday e em kit em promoção. Veja os preços de 1, 2 ou 3 séruns e o frete.",
     "image": "/images/reviews/lamazonie/black-friday-lamazonie-capa.webp",
     "imageAlt": "Duas mulheres com sacolas pretas olham uma prateleira de cuidados com o rosto em uma loja, em cenário gerado por IA, com o logo da L’Amazonie, a chamada “Black Friday 2026, kits e cupom” e o código CECILIA.",
     "cta": {
@@ -249713,7 +249715,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom CECILIA dá 5% OFF no site da L’Amazonie e, no nosso teste, entrou também sobre um kit em promoção. Na nossa última leitura, a página de Black Friday da loja estava sem ofertas e sem regulamento. Os kits de duas e três unidades fazem parte da tabela regular do site. Atualizamos o guia na semana da Black Friday."
+          "O cupom CECILIA dá 5% OFF no site da L’Amazonie e, no nosso teste, entrou também em uma oferta de Black Friday, a do sérum de sobrancelhas com um protetor FPS 99 de presente. A página de Black Friday da loja continuava sem ofertas e sem regulamento, e os kits de duas e três unidades fazem parte da tabela regular."
         ]
       },
       {
@@ -249721,7 +249723,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Na leitura de 16 de novembro de 2026, a [página de Black Friday da loja](https://www.lamazonie.com.br/pages/black-friday) trazia só o título, sem produtos. A página inicial e o menu não citavam a campanha, e a faixa do topo anunciava o frete grátis acima de R$ 199. A loja não tinha publicado data de início, data de fim nem regulamento.",
           "A Black Friday cai em 27 de novembro. Se a loja anunciar ofertas até lá, este guia será atualizado com o que ela publicar, com o nome de cada página.",
-          "Encontramos também páginas de oferta com “Black Friday” no nome, fora do menu e sem ligação com a vitrine. Nelas, o preço era o do produto avulso nas páginas da vitrine, e a oferta vinha em itens de presente e, em algumas, frete grátis. Como são páginas de anúncio, fora da vitrine aberta, não as tratamos aqui como campanha da loja e não testamos o cupom nelas."
+          "Encontramos também páginas de oferta com “Black Friday” no nome, fora do menu e sem ligação com a vitrine. Nelas, o preço era o do produto avulso nas páginas da vitrine, e a oferta vinha em itens de presente e, em algumas, frete grátis. Como são páginas de anúncio, fora da vitrine aberta, não as tratamos aqui como a campanha da loja. Em uma delas testamos o cupom: a do [sérum de sobrancelhas com o protetor solar incolor FPS 99 de presente](https://www.lamazonie.com.br/products/bf-serum-sobrancelhas-protetor-gratis), que a loja anunciava no Google com a indicação de que valia até 26 de novembro. A página da oferta não mostra data de fim."
         ]
       },
       {
@@ -249859,7 +249861,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como o cupom entra",
         "paragraphs": [
           "No nosso teste, o cupom CECILIA na L’Amazonie foi aceito no checkout aberto pelo botão “Finalizar compra”, no campo “Tem um cupom?”. O carrinho tinha um sérum de sobrancelhas e o Kit 2 Protetores, e os R$ 408,00 em produtos viraram R$ 387,60, antes do frete. Os 5% entraram também sobre o kit.",
-          "Não testamos o código em uma oferta anunciada como Black Friday, porque a loja ainda não tinha nenhuma na vitrine. Vamos refazer o teste na semana da Black Friday e atualizar este guia com o resultado. Até lá, confira a linha Descontos no resumo antes de pagar.",
+          "Testamos o código também em uma oferta anunciada como Black Friday, a do sérum de sobrancelhas com o protetor solar incolor FPS 99 de presente. O CECILIA foi aceito, e os R$ 159,00 da oferta viraram R$ 151,05, antes do frete. O teste foi com uma unidade, em uma das páginas de oferta. Nas outras, confira a linha Descontos no resumo antes de pagar. Vamos refazer o teste na semana da Black Friday.",
           "O passo a passo e o que fazer se o código for recusado estão em [como usar o cupom da L’Amazonie](/reviews/cupom-lamazonie-como-usar)."
         ],
         "images": [
@@ -249895,7 +249897,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O cupom CECILIA vale na Black Friday da L’Amazonie? O código dá 5% OFF no site oficial e, no nosso teste, entrou sobre um kit em promoção. Em oferta anunciada como Black Friday ainda não testamos. Confira a linha Descontos no resumo do pedido.",
+          "O cupom CECILIA vale na Black Friday da L’Amazonie? O código dá 5% OFF no site oficial e, no nosso teste, entrou sobre um kit em promoção e em uma oferta anunciada como Black Friday, a do sérum de sobrancelhas com um protetor de presente. Nas outras ofertas, confira a linha Descontos no resumo do pedido.",
           "A L’Amazonie tem Black Friday? A loja tem uma página de Black Friday, que estava sem ofertas, sem data e sem regulamento na nossa leitura. Este guia é atualizado se a campanha for anunciada.",
           "Vale mais comprar 1, 2 ou 3 séruns? Depende do tempo de uso que você planeja. O preço por frasco cai nos kits, e a garantia de 60 dias exige dois frascos e uso contínuo.",
           "O cupom soma com o Pix? Soma, pela regra do código. O desconto de 3% do Pix é da forma de pagamento e vem à parte. Não chegamos à etapa do pagamento no teste, então confira o total do resumo antes de pagar.",
