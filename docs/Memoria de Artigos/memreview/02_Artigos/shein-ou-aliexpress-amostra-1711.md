@@ -117,3 +117,7 @@ não cita cupom nem desconto do próprio AliExpress que a página mostrar.
   global, então a peça deve abrir em outros mercados, mas o envio para cada país muda por anúncio. Antes do deploy,
   abrir duas ou três peças com o navegador em outra região; a peça que não abrir ou não enviar sai. Com as mesmas fotos e
   o mesmo `href` nas 10 versões (regra da família), essa conferência decide quais peças entram.
+- **Conferência de região (17/11, [[shein-ou-aliexpress-fatos-1711]]):** o vestido 1005004184175236 abriu e entrega em
+  10 dos 11 mercados lidos, mas **não é enviado para a Alemanha**: fica fora da amostra das 10 versões. Na Alemanha, o
+  pijama 1005012285053594, a camisa 1005012093389117 e a bolsa 1005006362483795 são enviados; o pijama também na Coreia e
+  em Taiwan. As outras peças não foram conferidas por país.

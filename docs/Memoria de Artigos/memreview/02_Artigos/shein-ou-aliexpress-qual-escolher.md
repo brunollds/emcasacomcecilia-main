@@ -10,8 +10,8 @@ type: "Comparativo"
 status: "briefing"
 score: 70
 responsavel: "Job-1 (Claude Fable 5.2)"
-proxima_acao: "releitura do AliExpress por mercado (Job 1); depois, redação do PT (Job 2) e família de 10 idiomas (Job 4), com a amostra de [[shein-ou-aliexpress-amostra-1711]]"
-bloqueado_por: "a releitura do AliExpress por mercado (Job 1)"
+proxima_acao: "redação do PT (Job 2) e família de 10 idiomas (Job 4), com os fatos de [[shein-ou-aliexpress-fatos-1711]] e a amostra de [[shein-ou-aliexpress-amostra-1711]]"
+bloqueado_por: "-"
 data_criacao: "2026-11-16"
 i18n_cluster: "shein"
 translationKey: "shein-vs-aliexpress"
@@ -49,8 +49,8 @@ em [[shein-ou-pares-plano-1611]]; fatos de outubro em [[shein-ou-shopee-temu]] (
 
 A SHEIN é uma loja com regra única; o AliExpress é um marketplace em que cada anúncio traz o próprio prazo, frete e
 condição de devolução. Para roupa, a SHEIN dá uma devolução previsível de 20 dias; no AliExpress, o prazo depende do
-motivo e do anúncio. O imposto da compra internacional é o mesmo regime nas duas. No Reclame Aqui de outubro, a SHEIN
-tinha reputação "Boa" e o AliExpress, "Regular". O artigo não diz qual é mais barata nem compara qualidade.
+motivo e do anúncio. O imposto da compra internacional é o mesmo regime nas duas. No Reclame Aqui (janela de maio a
+outubro), a SHEIN tem reputação "Boa" e o AliExpress, "Ruim" (era "Regular" em outubro). O artigo não diz qual é mais barata nem compara qualidade.
 
 ## Esqueleto
 
@@ -90,8 +90,8 @@ levando à página dela no idioma. O título do bloco é "Lojas deste artigo". O
 - Núcleo comum mais bloco de mercado, como na família de outubro: cada versão traz envio, prazo e devolução do
   AliExpress e da SHEIN do seu mercado. Os dados de 13/10 dão o ponto de partida e são relidos.
 - Mercados: os mesmos da família de outubro (en no Reino Unido; es com Espanha e México; zh-hans com Singapura e
-  Malásia). zh-hant: a família SHEIN ou Temu trocou Taiwan por Singapura e Malásia; o AliExpress tem site de Taiwan e
-  foi lido lá em 13/10, então a redação escolhe o mercado do zh-hant e diz qual é.
+  Malásia). zh-hant: a família SHEIN ou Temu trocou Taiwan por Singapura e Malásia porque a Temu não tem Taiwan; aqui as
+  duas lojas entregam em Taiwan, e a releitura de 17/11 propõe Taiwan. A redação decide e diz no texto qual é.
 - Reclame Aqui e a regra de imposto do Brasil só no PT. Fora do Brasil, só o que as lojas publicam.
 - Traduções pelo Sonnet, a partir do PT, com revisão desta frente. Sem citar o Brasil nem "SHEIN Brasil".
 - Lista `["shein", "aliexpress"]` nas 10 versões, com o mesmo link do AliExpress em todas.
@@ -117,7 +117,7 @@ academia. Regras e limites em [[shein-ou-pares-plano-1611]], seção 5.
   cupom de compensação por atraso; nenhuma afirmação de qualidade.
 - A política do AliExpress é desenhada em imagens e o artigo de ajuda sobre prazo pede login: ler pelo navegador, sem
   login. Verificação de robô é parada.
-- Reler tudo: os números são de 13/10.
+- Os números valem pela releitura de 17/11 ([[shein-ou-aliexpress-fatos-1711]]), não pelos de 13/10.
 - 4CW5Y é código de indicação; o AliExpress não tem código nosso. Nenhum cupom do próprio AliExpress.
 - Resposta rápida sem R$; no máximo duas datas no corpo; nenhuma data em título, legenda ou FAQ.
 
@@ -143,7 +143,8 @@ academia. Regras e limites em [[shein-ou-pares-plano-1611]], seção 5.
 
 ## Pendências
 
-- Releitura do AliExpress por mercado.
+- Releitura por mercado feita em 17/11 ([[shein-ou-aliexpress-fatos-1711]]): SHEIN e AliExpress nos 12 mercados, a
+  política do AliExpress (igual a outubro) e o Reclame Aqui. Proposta para o zh-hant: Taiwan.
 - Amostra de produtos: recebida e lida em 17/11, 23 peças do AliExpress em 7 categorias e o link geral "Moda feminina",
   em [[shein-ou-aliexpress-amostra-1711]]; as 23 da SHEIN são as do SV1 ([[shein-ou-shopee-amostra-1711]]), mesmos links.
 - Antes do deploy, abrir duas ou três peças do AliExpress com outra região (ver as observações da amostra).
