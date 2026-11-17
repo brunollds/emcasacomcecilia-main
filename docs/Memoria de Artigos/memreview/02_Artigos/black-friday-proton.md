@@ -32,23 +32,37 @@ assinatura, preço promocional e renovação) e [[black-friday-lamazonie]]. **As
 A Proton não tem cupom nosso: o desconto é da campanha dela. O que o artigo dá é a conta que a página da promoção não
 põe lado a lado.
 
-## A oferta do nosso link (Bruno, 17/11/2026)
+## A oferta do nosso link (lida em 17/11/2026)
 
-O Bruno confirmou que o link do painel de afiliado (o que está em `couponsData.ts`) é o da campanha atual, **com 75%
-OFF**. As páginas públicas mostram até 70%. Isso muda o centro do artigo: além da conta das páginas públicas, ele
-mostra **o que aparece para quem entra pelo link**.
+O Bruno confirmou que o link do painel de afiliado (o de `couponsData.ts`) é o da campanha de parceiros e mandou o
+texto e dois prints da página que ele abre. O Job 1 leu a mesma página sem passar pelo link:
+`protonvpn.com/pt-br/l/bf-vpn-offers-2026` (marcada como `noindex`).
 
-- **Ainda não lemos a página do link** (a regra é não abrir o link de afiliado). Antes da redação, o Bruno manda o
-  print da página que o link abre, em reais, ou libera uma abertura só para leitura. Do print saem: o plano (a
-  imprensa de fora fala no VPN Plus de 2 anos), o preço por mês, o valor cobrado de uma vez, a renovação e o texto
-  de quem pode.
-- **Pista, sem valor de fonte:** um site de análise brasileiro publica a oferta de parceiro como plano de 2 anos por
-  R$ 8,79 por mês, R$ 210,96 nos 24 meses. Só entra no artigo se o print confirmar.
-- **Como escrever:** "pelo nosso link, a página mostrava X em <data>", com o print. Nunca "desconto exclusivo" nem
-  "o maior desconto": é oferta do programa de parceiros, que outros afiliados também têm. Sem código para copiar.
-- **Três páginas, três tabelas** ([[proton-fatos-1711]], seção 3): a de Black Friday, a de ofertas (`/vpn-deals`) e a
-  do link. A tabela do artigo diz de qual página saiu cada linha.
-- **Sem data de fim** também no painel (Bruno, 17/11): não escrever prazo.
+| Plano | Selo | Por mês | Cobrado de uma vez | Renova por |
+|---|---|---|---|---|
+| VPN Plus, 2 anos | -75% | R$ 8,79 (de R$ 34,99) | R$ 210,96 pelos primeiros 24 meses | R$ 293,88 a cada 12 meses |
+| Proton Unlimited, 1 ano | -50% | R$ 22,79 (de R$ 45,49) | R$ 273,48 pelos primeiros 12 meses | R$ 419,88 a cada 12 meses |
+
+- **Frase da página:** "Os melhores preços do ano, disponíveis exclusivamente por meio dos nossos parceiros."
+- **Em dólar** (print do Bruno): VPN Plus de 2 anos a US$ 2,49 por mês, US$ 59,76 pelos 24 meses, renovação de
+  US$ 83,88 ao ano; Unlimited a US$ 6,49 por mês, US$ 77,88 no ano, renovação de US$ 119,88. Serve às versões fora do PT.
+- **O plano de 2 anos do VPN Plus em três páginas da Proton:** R$ 210,96 na de parceiros, R$ 251,76 na de ofertas
+  (`/vpn-deals`) e R$ 294,96 na de preços. O de 1 ano da Black Friday pública custa R$ 125,88 e renova por R$ 293,88:
+  em 24 meses, R$ 419,76. **É a conta central do artigo.** O Unlimited da página de parceiros é igual ao público.
+  A tabela do artigo diz de qual página saiu cada linha.
+- **O "-75%" também é sobre o mensal** (24 vezes R$ 34,99). Em relação a duas renovações anuais (R$ 587,76), os
+  R$ 210,96 ficam 64% abaixo: conta nossa.
+- **Como escrever:** "pelo nosso link, a página de parceiros mostrava…", com o print. "Exclusivamente por meio dos
+  nossos parceiros" é frase da Proton, entre aspas: outros afiliados têm a mesma oferta, então nunca "exclusivo do Em
+  Casa com Cecília" nem "o maior desconto".
+- **O desconto entra sozinho:** os botões da página levam o código da campanha no endereço. **O código não vai em
+  texto, FAQ, legenda nem imagem,** e o artigo não publica o endereço da página de parceiros: o `cta` é sempre o link
+  de afiliado, que é o que conta a assinatura. O leitor não copia nada.
+- **O que a página não diz:** data de fim (o painel também não, Bruno, 17/11) e se vale para quem já tem conta. A
+  redação confere o rodapé da página antes de afirmar quem pode; sem a leitura, não escreve.
+- **Prints do Bruno** (em reais e em dólar): `C:\Users\Bruno\OneDrive\Imagens\Capturas de tela\Screenshot 2026-11-17
+  194714.png` e `…194725.png`. Entram pelo fluxo de mídia do Job 6, com o endereço do navegador cortado se mostrar
+  o código; o em reais só no PT.
 
 ## Busca (autocompletar de 17/11/2026)
 
@@ -70,18 +84,18 @@ parceiros, e veículos em inglês.
 - **Três números por plano:** o "por mês" do anúncio, o valor cobrado de uma vez e o valor da renovação.
 - **O que o "-70%" quer dizer:** é sobre o plano de 1 mês; em relação à renovação anual, a diferença é outra.
 - **1 ano ou 2 anos:** a conta de 24 meses, em que o plano de "por mês" maior sai mais barato no total.
-- **O que o nosso link mostra,** ao lado do que as páginas públicas mostram (depende do print).
+- **O que o nosso link mostra,** ao lado do que as páginas públicas mostram: três preços para o mesmo plano de 2 anos.
 - **Avulso ou Unlimited:** a soma dos quatro planos Plus contra o pacote.
 
 ## Esqueleto
 
 1. **Resposta rápida** (40 a 60 palavras, sem "R$"). Rascunho, 59 palavras:
-   > Na Black Friday de 2026, a Proton dá até 70% no primeiro ano do VPN Plus e 50% no Proton Unlimited, para contas
-   > novas. O desconto é calculado sobre o plano mensal, o valor é cobrado de uma vez e a renovação volta ao preço
+   > Na Black Friday de 2026, a página de parceiros da Proton, que o nosso link abre, dá 75% no VPN Plus de 2 anos.
+   > O desconto é calculado sobre o plano mensal, o valor é cobrado de uma vez e a renovação volta ao preço
    > padrão. Não há cupom: o preço aparece na página. Há reembolso em 30 dias.
-2. **O que aparece pelo nosso link.** Capítulo novo, logo depois da resposta rápida, só com o que o print mostrar:
-   plano, percentual, preço por mês, valor cobrado de uma vez e renovação. Sem o print, o capítulo não entra e o
-   artigo fica com as páginas públicas.
+2. **O que aparece pelo nosso link.** Logo depois da resposta rápida: o VPN Plus de 2 anos com 75% e o Unlimited de
+   1 ano com 50%, cada um com o "por mês", o valor cobrado de uma vez e a renovação, e o print da página. Uma frase
+   dizendo que não há código para copiar.
 2b. **O que está em promoção nas páginas públicas.** Tabela com VPN Plus, Unlimited, Mail Plus, Drive Plus e Pass Plus: percentual
    anunciado, "por mês", valor cobrado de uma vez e renovação, com a página e a data da leitura na legenda. A oferta
    de boas-vindas do Unlimited (primeiro mês com preço simbólico, depois o mensal cheio) entra à parte, com o aviso
@@ -117,7 +131,8 @@ Sem card de estilo.
 
 - Preços só da releitura, com a página e a data; a tabela diz que o valor muda com o país e a moeda.
 - Toda conta nossa vai marcada como conta. Nenhum "economize R$ X" copiado da página sem a base.
-- A oferta do link só entra com o print do Bruno (seção "A oferta do nosso link"). Oferta de outros parceiros, nunca.
+- A oferta do link entra como está na seção "A oferta do nosso link", sem o código e sem o endereço da página de
+  parceiros. Oferta de outros parceiros, nunca.
 - Sem "menor preço do ano" como fato nosso: é frase da Proton, com atribuição.
 - Até 2 datas no corpo; nenhuma em título, legenda ou FAQ.
 - Nada sobre velocidade, streaming ou anonimato além do que a página lista, com "segundo a Proton".
@@ -150,7 +165,7 @@ Sem card de estilo.
 
 - **title:** Black Friday Proton 2026: preços em reais, quanto renova e se vale o plano de 1 ou de 2 anos (92 caracteres)
 - **seoTitle:** Black Friday Proton 2026: preços em reais e renovação (53 caracteres)
-- **metaDescription (rascunho):** Black Friday da Proton: até 70% no VPN Plus e 50% no Unlimited. Veja o preço em reais, o valor cobrado de uma vez, a renovação e a conta de 1 ou 2 anos. (152 caracteres)
+- **metaDescription (rascunho):** Black Friday da Proton: 75% no VPN Plus de 2 anos pela página de parceiros. Veja o preço em reais, a renovação e a conta contra o plano de 1 ano. (145 caracteres)
 - **description (subtítulo, até 180):** Os planos da Proton na Black Friday em reais: quanto se paga de uma vez, por quanto renova, o que o desconto compara e quando o plano de 2 anos sai mais barato. (160 caracteres)
 - **editorialNote:** Feito com as páginas de preços e os termos da Proton. Não há cupom nosso: o link é de afiliado e pode gerar comissão.
 - **cta:** Ver a Black Friday da Proton; `https://go.getproton.me/SH39K`.
@@ -176,7 +191,8 @@ Vira guia de 2027 ou sai do ar; decisão na revisão de dezembro. A conta "1 ano
 | Data de fim da campanha | não publicada | não escrever |
 | Conta de 24 meses; soma dos Plus avulsos; diferença para a renovação | aritmética sobre os preços lidos | conta nossa; refazer com a releitura |
 | Reembolso em 30 dias, com as condições | termos de 05/11/2026 | verificado |
-| 75% pelo link do painel | Bruno, 17/11 | confirmado que existe; plano e valores só com o print |
-| R$ 8,79 por mês, R$ 210,96 em 24 meses | site de análise de terceiros | pista; não escrever sem o print |
+| Pelo link: VPN Plus de 2 anos, 75%, R$ 8,79 por mês, R$ 210,96 nos 24 meses, renova por R$ 293,88 ao ano | página de parceiros lida em 17/11; texto e prints do Bruno | verificado; reler no dia |
+| "Exclusivamente por meio dos nossos parceiros" | página de parceiros | frase da Proton, entre aspas |
+| Código da campanha | endereço dos botões da página | não publicar |
+| A oferta de parceiros vale para quem já tem conta | não lido | conferir antes de afirmar |
 | Página de ofertas: VPN Plus de 24 meses a R$ 10,49 por mês (R$ 251,76), de 12 meses a R$ 13,99 por mês | `protonvpn.com/pt-br/vpn-deals`, 17/11 | verificado; reler |
-| O preço pelo nosso link | print do Bruno | pendente |
