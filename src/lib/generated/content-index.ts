@@ -245251,7 +245251,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom BAW vale no aplicativo?",
         "paragraphs": [
-          "Vale. O BAWEMCASACOMCECILIA funciona no site oficial e no aplicativo da BAW, segundo a parceria. Nosso teste foi no site. No aplicativo, digite o mesmo código no campo de cupom e confira a linha do desconto antes de pagar."
+          "Vale. O BAWEMCASACOMCECILIA funciona no site oficial e no aplicativo da BAW, e entrou nos dois nos nossos testes. No aplicativo, digite o mesmo código no campo de cupom e confira a linha do desconto antes de pagar."
         ]
       },
       {
@@ -245599,7 +245599,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "O cupom soma com a Black Friday da BAW? Soma. O BAWEMCASACOMCECILIA dá 10% OFF em cima do preço da campanha; no nosso teste, entrou numa camiseta que já estava em promoção.",
           "Quando acaba a Black Friday da BAW? A loja não publica data de fim nem regulamento. Vale o preço da página no dia da compra.",
-          "O cupom da Black Friday vale no app? Sim. O código vale no site oficial e no aplicativo da BAW, segundo a parceria; nosso teste foi no site.",
+          "O cupom da Black Friday vale no app? Sim. O código vale no site oficial e no aplicativo da BAW, e entrou nos dois nos nossos testes.",
           "Posso trocar uma peça comprada na Black Friday? Pela política da loja, pode, em até 7 dias corridos do recebimento. A troca vira crédito na loja; para receber o dinheiro de volta, o pedido é de devolução."
         ]
       }
@@ -246005,7 +246005,7 @@ export const reviewsData: unknown[] = [
       "url": "https://www.bawclothing.com.br/",
       "sponsored": true
     },
-    "editorialNote": "Cupom testado no carrinho do site oficial. Não usamos as peças. Podemos receber comissão pelo cupom.",
+    "editorialNote": "Cupom testado no carrinho do site oficial e no aplicativo. Não usamos as peças. Podemos receber comissão pelo cupom.",
     "relatedArticles": [
       {
         "slug": "cupom-baw-como-usar"
@@ -246021,7 +246021,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na BAW Clothing, use o cupom BAWEMCASACOMCECILIA, que dá 10% OFF em todo o site e no aplicativo. O mesmo código vale nos pedidos seguintes, para quem já é cliente. Ele soma com as promoções e com o desconto do Pix. Digite no campo Cupom de desconto, no carrinho."
+          "Para a primeira compra na BAW Clothing, use o cupom BAWEMCASACOMCECILIA, que dá 10% OFF em todo o site e no aplicativo. No nosso teste, o desconto foi o mesmo do FIRSTBAW, o cupom de primeira compra da loja, e o nosso código vale também nos pedidos seguintes. Soma com as promoções e com o Pix."
         ]
       },
       {
@@ -246044,6 +246044,24 @@ export const reviewsData: unknown[] = [
             "caption": "O BAWEMCASACOMCECILIA aplicado no carrinho da BAW, no nosso teste. A linha Cupom mostra quanto saiu do pedido.",
             "objectFit": "contain",
             "aspectRatio": 2.646
+          }
+        ]
+      },
+      {
+        "heading": "BAWEMCASACOMCECILIA ou FIRSTBAW?",
+        "paragraphs": [
+          "O FIRSTBAW é o cupom de primeira compra da própria BAW. Em 17 de novembro, testamos os dois códigos no mesmo carrinho, no site e no aplicativo, sem finalizar a compra. O desconto foi o mesmo.",
+          "No site, o carrinho tinha a Camiseta Regular Logo, de R$ 69,00, e a Camiseta Regular Pima, de R$ 139,00. Dos R$ 208,00, cada um dos dois códigos tirou R$ 20,80, e o total ficou em R$ 187,20.",
+          "No aplicativo, também com o mesmo carrinho para os dois, o resumo do pedido mostrou o mesmo desconto e o mesmo valor total com o FIRSTBAW e com o BAWEMCASACOMCECILIA.",
+          "Na primeira compra, portanto, tanto faz qual dos dois você digita. A diferença vem depois: o BAWEMCASACOMCECILIA continua valendo nos pedidos seguintes."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/cupom-baw-primeira-compra-firstbaw-site.webp",
+            "alt": "Checkout do site da BAW Clothing com o cupom FIRSTBAW aplicado, subtotal de R$ 208,00, linha Cupom de menos R$ 20,80 e total de R$ 187,20",
+            "caption": "O FIRSTBAW no checkout do site: o mesmo desconto que o BAWEMCASACOMCECILIA deu nesse carrinho.",
+            "objectFit": "contain",
+            "aspectRatio": 2.529
           }
         ]
       },
@@ -246089,8 +246107,9 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Como conseguir desconto na primeira compra na BAW Clothing? Use BAWEMCASACOMCECILIA para ter 10% OFF no primeiro pedido, no site oficial e no aplicativo. O mesmo código vale nas compras seguintes e soma com promoções.",
+          "O cupom BAW vale na primeira compra? É melhor que o FIRSTBAW? Vale, e o desconto é o mesmo. No nosso teste, o BAWEMCASACOMCECILIA e o FIRSTBAW, o cupom de primeira compra da própria BAW, deram o mesmo desconto no mesmo carrinho, no site e no aplicativo. O BAWEMCASACOMCECILIA vale também nas compras seguintes.",
           "Posso usar o mesmo cupom de novo? O código é o mesmo para cliente novo e antigo. Em cada pedido, confira a linha Cupom no resumo antes de pagar.",
-          "O cupom vale no app na primeira compra? Vale, segundo a parceria. É o mesmo código, digitado no campo de cupom antes do pagamento. Nosso teste foi no site.",
+          "O cupom vale no app na primeira compra? Vale. No teste no aplicativo, o BAWEMCASACOMCECILIA entrou no campo de cupom e deu o mesmo desconto do FIRSTBAW no mesmo carrinho.",
           "O cupom soma com peça em promoção? Sim. No nosso teste, os 10% entraram também sobre uma camiseta que já estava com preço promocional."
         ]
       }
