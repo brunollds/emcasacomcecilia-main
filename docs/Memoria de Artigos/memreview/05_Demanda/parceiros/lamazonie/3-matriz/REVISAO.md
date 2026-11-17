@@ -376,3 +376,113 @@ fica em `notas` com o aviso de não ir para texto publicado. `/cupons/*` está a
 11. **O zero da página que não existia.** `nos-0003` a `0006` são zero observado num período que termina antes de a
     página entrar no ar. A leitura explica bem; o formato poderia ter um estado para "fora do período", porque o
     próximo leitor do CSV vê só o zero.
+
+## Segunda passada
+
+Pedida pela coordenação depois que o analista aplicou o parecer (PR #1084, `172ddbb0`). Só sobre o que mudou. A
+primeira passada, acima, fica como estava.
+
+- **Início:** `2026-11-17T11:58:46-03:00`
+- **Fim:** `2026-11-17T12:02:00-03:00`
+- **Tempo:** cerca de 3 minutos, pelo relógio da máquina.
+
+### O que conferi
+
+```text
+$ node 3-matriz/validar-matriz.cjs
+matriz.csv: 29 oportunidades, 19 colunas, 1528 referências conferidas
+por ação: criar-artigo 3, melhorar-capitulo 6, atualizar-fatos 5, melhorar-pagina-cupom 1, links-internos 1, video 1, manter 12
+por prioridade: alta 3, media 5, baixa 21
+por confiança: alta 3, media 21, baixa 5
+sem erros
+
+$ node 3-matriz/montar-matriz.cjs
+matriz.csv: 29 oportunidades
+$ git diff --stat -- 3-matriz/
+(vazio)
+```
+
+- **Comparação coluna a coluna** entre a `matriz.csv` de `a6af7a9e` e a atual, por script. Em 11 linhas mudou só o
+  `estado_revisao` (`op-0001`, `0002`, `0009`, `0010`, `0014`, `0015`, `0016`, `0021`, `0023`, `0025`, `0026`). Nas
+  outras 9 prontas mudaram só os campos que o relato lista (8.2): `justificativa_prioridade` em `0003`, `0004` e
+  `0005`; `lacuna` e `justificativa_prioridade` em `0006`; `notas` em `0013`; `lacuna` em `0017`, `0022` e `0024`;
+  `dependencias` em `0020`. Nenhuma referência, ação, prioridade ou confiança mudou nas 20 prontas. Não achei erro
+  novo nelas.
+- **Diferença do `montar-matriz.cjs`** lida inteira, frase por frase.
+- **`LEITURA.md`** relida inteira.
+- **Evidências reabertas:** `serp-01` linha 33 e `serp-08` linha 32 (as duas linhas de patrocinados); `nos-0019` a
+  `0021` (guia de Black Friday da Simple Organic: 0 cliques, 238 impressões); `nos-0139` a `0180` (os 42 registros
+  são de cruzamento consulta e página; `0138` e `0181` não são); notas de `cat-0019` e `cat-0020` (a segunda página do
+  sérum a R$ 149,00 e R$ 229,00); `sin-0064`, `0073`, `0600`, `1037`, `0060`, `0082`; os trechos de "outra página" no
+  guia de como usar e no de primeira compra; a contagem de sementes vazias no `sinais.csv` (41) e das causas de
+  cobertura parcial (3, 2, 2, 3 e 1, soma 11).
+
+### Veredito final das 9 linhas
+
+| Linha | Veredito | Motivo |
+|---|---|---|
+| `op-0007` | pronta | A lacuna cita o anúncio com "Até 26/11" e separa o que vale para o site em 16/11; a dependência põe a `op-0027` antes; o "a favor" das lojas de referência saiu e a Simple Organic entrou com os registros certos |
+| `op-0008` | pronta | Média, sem "ninguém responde" e sem volume; a dependência é a `op-0029`. O que a linha afirma sobre o `serp-03` confere |
+| `op-0011` | pronta | Baixa, com a coleta antes do capítulo; a lacuna diz o que o "é boa" já traz |
+| `op-0012` | pronta | A lacuna e a justificativa trazem a conta por quantidade, em palavras e com as ressalvas (uma leitura, selo de campanha, sem frete); a pergunta do link de afiliado está nas dependências |
+| `op-0018` | pronta | Baixa e confiança baixa, sem "mais buscado", com o `serp-07` descrito como está e o título do anúncio oficial. Fica `criar-artigo` como registro: ver "O que o analista não aceitou" |
+| `op-0019` | pronta | Baixa, sem a ressalva de volume e sem afirmar falta de resenha; o exemplo de preço limitado ao carrinho testado |
+| `op-0027` | pronta | Nova. A evidência diz o que a linha diz: `serp-01`, linha de patrocinados, e a entidade `cat-0046` a R$ 159,00. A linha avisa que é resumo sem captura. Ressalva de texto no achado novo 1 |
+| `op-0028` | pronta | Nova. Os preços por página estão nas notas de `cat-0019`, `0020`, `0026`, `0030` e `0031` a `0039` e na semente (9.7); o `serp-08` traz o preço anunciado. Conferi que os artigos não cobrem: "outra página" no guia de como usar é a do checkout, não a do produto |
+| `op-0029` | pronta | Nova. É a dependência real de `op-0008`, `0018`, `0019` e `0020`, e o volume ficou fora do pedido. Ressalva de texto no achado novo 2 |
+
+**As 9 ficam `pronta`. Com as 20 anteriores, a matriz tem 29 linhas prontas, nenhuma devolvida e nenhuma recusada.**
+
+### Achados da primeira passada: o que ficou resolvido
+
+| Achado | Situação |
+|---|---|
+| 3.1 Data de fim no bruto | Resolvido: `op-0007`, linha nova `op-0027`, seção "Black Friday" e pergunta 7 da leitura |
+| 3.2 Volume | Resolvido nas quatro linhas e na leitura (seções 1, 3 e 5). Na `op-0020` o analista foi mais cuidadoso do que eu: o anúncio de 13 g ficou "a conferir se é do vendedor oficial", e o `serp-06` de fato não diz que é |
+| 3.3 Bloco de relacionadas lido como procura | Resolvido: a leitura passou a listar "manaus" no mesmo bloco e a dizer o que a repetição mede; a `op-0018` foi reescrita |
+| 3.4 Conta por quantidade | Resolvido, em palavras, com remissão ao item 3.4. A matriz não copia número, como o formato pede |
+| 3.5 Link de afiliado do Mercado Livre | Resolvido como dependência da `op-0012`, nota da `op-0013` e pergunta 3 da leitura. Não virou linha, e concordo: é a mesma decisão |
+| 3.6 Cruzamento do artigo | Resolvido na `op-0003` e numa linha nova da tabela de lacunas |
+| 3.7 Perfil do Reclame Aqui | Resolvido na `op-0005` |
+| 3.8 Prioridades | Resolvido: `op-0008` média, `op-0011` e `op-0019` baixas, e a prioridade alta foi para o pedido (`op-0029`) |
+| 3.9 Vídeos | Resolvido em `op-0006`, `0017`, `0019` e na leitura |
+| 3.10 Preço sem número | Resolvido em `op-0018`, `0022`, `0024` e na leitura (seção 1 e item 5 da seção 2) |
+| 3.11 Trends | Resolvido: a leitura cita as semanas de cada termo e o termo consultado |
+| 3.12 Referências pelo melhor caso | Resolvido nos quatro pontos (Simple Organic, versão em inglês, `cob-0018`, "preço") |
+| 3.13 Seção 5 | Resolvido: o creme saiu dos achados que mudam decisão, entrou "o que o programa perdeu" e a `op-0011` aparece com a origem na semente |
+| Seção 4, item 6 (Instagram e vídeos curtos) | Não virou linha. Ficou como pendência sem dono na tabela de lacunas e na pergunta 9, para a coordenação. É o destino certo: a decisão é de coleta |
+
+Nada ficou sem resposta.
+
+### O que o analista não aceitou
+
+1. **`op-0018` continua `criar-artigo`.** A recusa se sustenta. O que eu pedi no "o que mudar" foi aplicado, e o fato
+   útil foi para a `op-0028`. Manter a linha como registro, em prioridade e confiança baixas e com a decisão do Bruno
+   como primeira dependência, não leva ninguém a escrever o artigo. Peço só que `recomendacoes.md` apresente a
+   `op-0018` e a `op-0019` como "não recomendado agora", e não como pauta de prioridade baixa.
+2. **`prioridade` nas linhas de `manter`.** Também se sustenta: o `FORMATOS.md` só aceita três valores e o analista
+   não edita o formato. A sugestão 5.9 segue para a coordenação.
+
+### Achados novos (os dois leves, de texto)
+
+1. **O destino do anúncio é inferência, e a origem do erro é minha.** A `op-0027` diz "é para essa página que ela
+   manda o comprador hoje"; a nota da `op-0007` e a pergunta 7 da leitura dizem que "quem chega pelo anúncio cai na
+   página de oferta, então ela é pública por esse caminho". O `serp-01` guarda o nome da oferta e a data, não o
+   endereço de destino. O nome é o da entidade `cat-0046`, e foi daí que eu concluí, no item 3.1, que a pergunta
+   estava "respondida em parte". O certo é: "o anúncio leva o nome da oferta `cat-0046`; o destino não foi capturado".
+   Não muda a ação, que é justamente abrir a página. Do mesmo modo, o "R$ 149,00, preço normal R$ 159" do `serp-08`
+   pode ser a segunda página do sérum ou uma marcação de promoção do bloco de produtos; a `op-0028` já pede o teste.
+2. **A `op-0029` supõe que os anúncios da loja oficial mostram o rótulo.** A lacuna diz que a foto do rótulo "fecha a
+   lacuna" e a dependência manda "guardar a foto do rótulo". Ninguém viu essas fotos (as páginas de produto pedem
+   login). A semente (9.9) escreve "fonte possível". Sugiro "se os anúncios mostrarem o rótulo". O caminho firme é o
+   pedido à marca.
+
+Nenhum dos dois pede nova rodada: a coordenação pode ajustar as frases ao escrever as recomendações.
+
+### Para a coordenação
+
+- A ordem prática das três prioridades altas é `op-0027` (até 26/11), `op-0029` (uma mensagem do Bruno) e `op-0007`
+  (semana de 27/11, com o resultado da `0027`).
+- A `op-0028` é média com quase nenhum sinal de busca. Aceitei porque o critério do programa admite relevância
+  comercial e o que o conteúdo acrescenta, e porque a linha depende de um teste barato. Se o código não entrar na
+  segunda página do sérum, a linha encolhe para o aviso que o guia de Black Friday já dá.
