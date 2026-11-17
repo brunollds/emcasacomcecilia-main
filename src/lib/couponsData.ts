@@ -3082,12 +3082,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O MAUAD dá 15% na Toda Up?',
         answer:
-          'Hoje, dá 10%. Em alguns dias de novembro, a loja chegou a dar 15% com o código, mas no teste mais recente o checkout voltou a mostrar 10%. O que vale é a linha de desconto no resumo do pedido, antes de pagar.',
+          'Hoje, dá 10%: no teste de 17/11/2026, o checkout mostrou 10%. Em 11 e 12/11, a loja chegou a dar 15% com o código. O que vale é a linha de desconto no resumo do pedido, antes de pagar.',
       },
       {
         question: 'Os cupons MARESSA e BEARAMOS dão 25% e 15% na Toda Up?',
         answer:
-          'No nosso teste, não: os dois deram 10%, o mesmo desconto do MAUAD. Numa Fita Up de R$ 116,90, cada um dos três códigos tirou R$ 11,69; num carrinho de R$ 379,80, o MARESSA e o BEARAMOS tiraram R$ 37,98 cada. Se encontrar um percentual maior anunciado, confira a linha de desconto no resumo do pedido antes de pagar.',
+          'Nos testes de 17/11/2026, não: o MARESSA e o BEARAMOS deram 10%, o mesmo desconto do MAUAD. Na Fita Up de R$ 116,90, cada código tirou R$ 11,69; no carrinho de R$ 379,80, os dois tiraram R$ 37,98. Os 25% e os 15% anunciados não se confirmaram nesses carrinhos.',
       },
       {
         question: 'Onde coloco o cupom na Toda Up?',
@@ -3812,7 +3812,7 @@ const STORE_COUPONS: Coupon[] = [
     lastVerified: '2026-11-17',
     testedAt: '2026-11-17',
     testNote:
-      'Num carrinho com duas camisetas, a Regular Locally Grown pelo preço cheio de R$ 89,00 e a Regular Goth 3.0 em promoção de Black Friday, de R$ 89,00 por R$ 59,00, o BAWEMCASACOMCECILIA tirou R$ 14,80 dos R$ 148,00 e o total caiu para R$ 133,20: os 10% entraram também sobre a peça em promoção. O frete, calculado pelo CEP, ficou de fora do desconto. Em 17/11/2026, o BAWEMCASACOMCECILIA e o FIRSTBAW, o cupom de primeira compra da própria BAW, deram o mesmo desconto no mesmo carrinho, no aplicativo e no site: no app, R$ 28,80, com o total de R$ 259,20; no site, com a Camiseta Regular Logo e a Camiseta Regular Pima, R$ 20,80 de R$ 208,00, com o total de R$ 187,20.',
+      'Num carrinho com duas camisetas, a Regular Locally Grown pelo preço cheio de R$ 89,00 e a Regular Goth 3.0 em promoção de Black Friday, de R$ 89,00 por R$ 59,00, o BAWEMCASACOMCECILIA tirou R$ 14,80 dos R$ 148,00 e o total caiu para R$ 133,20: os 10% entraram também sobre a peça em promoção. O frete, calculado pelo CEP, ficou de fora do desconto. Em 17/11/2026, o BAWEMCASACOMCECILIA e o FIRSTBAW, o cupom de primeira compra da própria BAW, deram o mesmo desconto no mesmo carrinho, no aplicativo e no site. No site, com a Camiseta Regular Logo e a Camiseta Regular Pima, os dois tiraram R$ 20,80 de R$ 208,00, e o total ficou em R$ 187,20.',
     codeInstructions: [
       'Copie o código BAWEMCASACOMCECILIA no card acima.',
       'Acesse o site oficial da BAW Clothing pelo botão indicado, escolha o tamanho de cada peça e coloque no carrinho.',
