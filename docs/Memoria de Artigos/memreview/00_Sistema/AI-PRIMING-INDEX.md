@@ -94,3 +94,15 @@
   `test:build-output` já confere o canonical e o hreflang de todo artigo de família) e
   atualizar a matriz depois da validação.
 - **Destino do Arquivo:** Atualiza `02_Artigos/<slug>.md` com `status: pronto-para-deploy` quando os gates passam, e com `status: publicado` só depois do deploy (decisão do Bruno) e do IndexNow. Registra lições em `03_Memoria/Licoes-Editoriais.md`.
+
+---
+
+### Programa de Demanda por Afiliado (fora da esteira; alimenta a Fila)
+*Objetivo: partir do que o parceiro vende, cruzar com interesse externo, nossos dados, resultado comercial e cobertura, e recomendar pautas e melhorias com evidência guardada.*
+- **Leituras Obrigatórias:**
+  1. `05_Demanda/PROGRAMA.md`
+  2. `05_Demanda/FORMATOS.md`
+  3. `05_Demanda/parceiros/<slug>/DIARIO.md` e o roteiro do parceiro, quando houver
+  4. `01_Parceiros/[[Nome-do-Parceiro]].md`
+  5. `05_Demanda/LICOES.md`
+- **Destino do Arquivo:** `05_Demanda/parceiros/<slug>/` (bruto, processado, matriz e saída) e `05_Demanda/_site/` (exports do site inteiro). Pauta aprovada pelo Bruno vira linha na `03_Memoria/Fila-de-Pautas.md` e segue pelo Job 1.

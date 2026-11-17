@@ -1,0 +1,3 @@
+# O bruto fica byte a byte como foi coletado: sem troca de quebra de linha, para o SHA-256 do FONTE.md conferir.
+parceiros/*/1-bruto/** -text
+_site/*/** -text
