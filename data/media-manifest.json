@@ -164101,6 +164101,128 @@
       "verified_at": "2026-11-17T17:28:41.650Z",
       "verification_etag_or_digest": "1a873993bf7c45918cce9f3f0065c76fa9cfb4d8da1f0a8a82f84ac5dde499e6",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/black-friday-proton-capa.webp",
+      "local_url": "/images/reviews/proton/black-friday-proton-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 124918,
+      "sha256": "bba81e62bb09517450912005947dc2ae83e30edaaa79707851496c5228d68a00",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-proton-capa.webp",
+      "storage_filename": "black-friday-proton-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-proton.json",
+        "content/reviews/proton-black-friday.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-proton.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/proton/black-friday-proton-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-black-friday.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/black-friday-proton-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bba81e62bb09517450912005947dc2ae83e30edaaa79707851496c5228d68a00/black-friday-proton-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bba81e62bb09517450912005947dc2ae83e30edaaa79707851496c5228d68a00/black-friday-proton-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T23:40:53.524Z",
+      "verification_etag_or_digest": "bba81e62bb09517450912005947dc2ae83e30edaaa79707851496c5228d68a00",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/black-friday-proton-pagina-parceiros-brl.webp",
+      "local_url": "/images/reviews/proton/black-friday-proton-pagina-parceiros-brl.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 68278,
+      "sha256": "078ac3fde1d32a3b7891220ff3a00989bb9cc3278e666a1869a88a66623d68ff",
+      "width": 1189,
+      "height": 770,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-proton-pagina-parceiros-brl.webp",
+      "storage_filename": "black-friday-proton-pagina-parceiros-brl.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-proton.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-proton.json",
+          "line": 71,
+          "column": 17,
+          "literal": "/images/reviews/proton/black-friday-proton-pagina-parceiros-brl.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/078ac3fde1d32a3b7891220ff3a00989bb9cc3278e666a1869a88a66623d68ff/black-friday-proton-pagina-parceiros-brl.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/078ac3fde1d32a3b7891220ff3a00989bb9cc3278e666a1869a88a66623d68ff/black-friday-proton-pagina-parceiros-brl.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T23:40:53.525Z",
+      "verification_etag_or_digest": "078ac3fde1d32a3b7891220ff3a00989bb9cc3278e666a1869a88a66623d68ff",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
+      "local_url": "/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 66678,
+      "sha256": "3c32d61266e9a15b3eb3a43278f10d2f89ec2eaf81e1d9531751d65c10782541",
+      "width": 1174,
+      "height": 750,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-proton-pagina-parceiros-usd.webp",
+      "storage_filename": "black-friday-proton-pagina-parceiros-usd.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-black-friday.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-black-friday.json",
+          "line": 72,
+          "column": 17,
+          "literal": "/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3c32d61266e9a15b3eb3a43278f10d2f89ec2eaf81e1d9531751d65c10782541/black-friday-proton-pagina-parceiros-usd.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3c32d61266e9a15b3eb3a43278f10d2f89ec2eaf81e1d9531751d65c10782541/black-friday-proton-pagina-parceiros-usd.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T23:40:53.525Z",
+      "verification_etag_or_digest": "3c32d61266e9a15b3eb3a43278f10d2f89ec2eaf81e1d9531751d65c10782541",
+      "verification_status": "verified"
     }
   ]
 }
