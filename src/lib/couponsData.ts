@@ -1694,7 +1694,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'diversos',
     shortDescription: 'links da Cecília para o Proton VPN, Mail, Pass, Drive e Lumo',
     longDescription:
-      'O Em Casa com Cecília não tem cupom na Proton: os botões desta página abrem o site oficial pelo link da Cecília, um para cada produto. O preço e as promoções são os que a Proton mostra no checkout, e a Proton devolve o valor da assinatura se o pedido for feito nos primeiros 30 dias.',
+      'O Em Casa com Cecília não tem cupom na Proton: os botões desta página abrem o site oficial pelo link da Cecília, um para cada produto. O preço e as promoções são os que a Proton mostra no checkout, e a Proton devolve o valor da assinatura se o reembolso for pedido em até 30 dias.',
     metaTitle: 'Proton: links para VPN, Mail, Pass, Drive e Lumo',
     metaDescription:
       'Links da Cecília para o Proton VPN, Proton Mail, Proton Pass, Proton Drive e Lumo: planos grátis e pagos, com reembolso em até 30 dias. Não há cupom nosso.',
@@ -1743,7 +1743,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'A Proton devolve o dinheiro se eu não gostar?',
         answer:
-          'Sim. Pela página de planos do Proton VPN, lida em 17/11/2026, a Proton devolve o valor de qualquer assinatura se o pedido for feito nos primeiros 30 dias. Pagamentos em dinheiro e por transferência bancária não têm reembolso, segundo a central de ajuda da Proton.',
+          'Sim. Pela página de planos do Proton VPN, lida em 17/11/2026, a Proton devolve o valor de qualquer assinatura se o reembolso for pedido em até 30 dias. Pagamentos em dinheiro e por transferência bancária não têm reembolso, segundo a central de ajuda da Proton.',
       },
       {
         question: 'A Proton tem plano grátis?',

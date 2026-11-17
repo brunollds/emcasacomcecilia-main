@@ -1921,8 +1921,6 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
   },
 };
 
-// Indicação sem código para digitar: os 20% valem só no primeiro período de plano novo e não somam
-// com outros cupons, como no PT.
 // Os mesmos 5 links de afiliado do PT, um por produto: a Proton é global e leva o visitante ao site no idioma dele.
 const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
   en: {
@@ -1933,7 +1931,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
     category: 'VPN, email, passwords and cloud storage with privacy',
     shortDescription: 'Cecília\'s links to Proton VPN, Mail, Pass, Drive and Lumo',
     longDescription:
-      'Em Casa com Cecília has no coupon for Proton: the buttons on this page open the official site through Cecília\'s link, one for each product. The price and promotions are the ones Proton shows at checkout, and Proton refunds the subscription if the order is placed within the first 30 days.',
+      'Em Casa com Cecília has no coupon for Proton: the buttons on this page open the official site through Cecília\'s link, one for each product. The price and promotions are the ones Proton shows at checkout, and Proton refunds the subscription if the refund is requested within 30 days.',
     metaTitle: 'Proton: links to VPN, Mail, Pass, Drive and Lumo',
     metaDescription:
       'Cecília\'s links to Proton VPN, Proton Mail, Proton Pass, Proton Drive and Lumo: free and paid plans, with a refund within 30 days. No coupon from us.',
@@ -1982,7 +1980,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       {
         question: 'Does Proton refund my money if I don\'t like it?',
         answer:
-          'Yes. According to the Proton VPN plans page, read on November 17, 2026, Proton refunds any subscription if the order is placed within the first 30 days. Payments made in cash or by bank transfer are not refundable, according to Proton\'s help center.',
+          'Yes. According to the Proton VPN plans page, read on November 17, 2026, Proton refunds any subscription if the refund is requested within 30 days. Payments made in cash or by bank transfer are not refundable, according to Proton\'s help center.',
       },
       {
         question: 'Does Proton have a free plan?',
@@ -2027,7 +2025,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
     category: 'VPN, correo, contraseñas y nube con privacidad',
     shortDescription: 'enlaces de Cecília a Proton VPN, Mail, Pass, Drive y Lumo',
     longDescription:
-      'Em Casa com Cecília no tiene cupón de Proton: los botones de esta página abren el sitio oficial con el enlace de Cecília, uno para cada producto. El precio y las promociones son los que Proton muestra en el pago, y Proton devuelve el importe de la suscripción si el pedido se hace en los primeros 30 días.',
+      'Em Casa com Cecília no tiene cupón de Proton: los botones de esta página abren el sitio oficial con el enlace de Cecília, uno para cada producto. El precio y las promociones son los que Proton muestra en el pago, y Proton devuelve el importe de la suscripción si el reembolso se solicita en un plazo de 30 días.',
     metaTitle: 'Proton: enlaces a VPN, Mail, Pass, Drive y Lumo',
     metaDescription:
       'Enlaces de Cecília a Proton VPN, Proton Mail, Proton Pass, Proton Drive y Lumo: planes gratuitos y de pago, con reembolso en un plazo de 30 días. No hay cupón nuestro.',
@@ -2076,7 +2074,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       {
         question: '¿Proton devuelve el dinero si no me gusta?',
         answer:
-          'Sí. Según la página de planes de Proton VPN, consultada el 17 de noviembre de 2026, Proton devuelve el importe de cualquier suscripción si el pedido se hace en los primeros 30 días. Los pagos en efectivo y por transferencia bancaria no tienen reembolso, según el centro de ayuda de Proton.',
+          'Sí. Según la página de planes de Proton VPN, consultada el 17 de noviembre de 2026, Proton devuelve el importe de cualquier suscripción si el reembolso se solicita en un plazo de 30 días. Los pagos en efectivo y por transferencia bancaria no tienen reembolso, según el centro de ayuda de Proton.',
       },
       {
         question: '¿Proton tiene plan gratuito?',
@@ -2121,7 +2119,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
     category: 'VPN, e-mail, mots de passe et cloud respectueux de la vie privée',
     shortDescription: 'liens de Cecília vers Proton VPN, Mail, Pass, Drive et Lumo',
     longDescription:
-      'Em Casa com Cecília n\'a pas de code promo pour Proton : les boutons de cette page ouvrent le site officiel via le lien de Cecília, un par produit. Le prix et les promotions sont ceux que Proton affiche au paiement, et Proton rembourse l\'abonnement si la commande est passée dans les 30 premiers jours.',
+      'Em Casa com Cecília n\'a pas de code promo pour Proton : les boutons de cette page ouvrent le site officiel via le lien de Cecília, un par produit. Le prix et les promotions sont ceux que Proton affiche au paiement, et Proton rembourse l\'abonnement si le remboursement est demandé dans les 30 jours.',
     metaTitle: 'Proton : liens vers VPN, Mail, Pass, Drive et Lumo',
     metaDescription:
       'Liens de Cecília vers Proton VPN, Proton Mail, Proton Pass, Proton Drive et Lumo : offres gratuites et payantes, avec remboursement sous 30 jours. Pas de code promo de notre part.',
@@ -2170,7 +2168,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       {
         question: 'Proton rembourse-t-il si le service ne me plaît pas ?',
         answer:
-          'Oui. Selon la page des offres de Proton VPN, consultée le 17 novembre 2026, Proton rembourse tout abonnement si la commande est passée dans les 30 premiers jours. Les paiements en espèces et par virement bancaire ne sont pas remboursables, selon le centre d\'aide de Proton.',
+          'Oui. Selon la page des offres de Proton VPN, consultée le 17 novembre 2026, Proton rembourse tout abonnement si le remboursement est demandé dans les 30 jours. Les paiements en espèces et par virement bancaire ne sont pas remboursables, selon le centre d\'aide de Proton.',
       },
       {
         question: 'Proton propose-t-il une offre gratuite ?',
@@ -2215,7 +2213,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
     category: 'VPN, E-Mail, Passwörter und Cloud mit Datenschutz',
     shortDescription: 'Cecílias Links zu Proton VPN, Mail, Pass, Drive und Lumo',
     longDescription:
-      'Em Casa com Cecília hat keinen Gutscheincode für Proton: Die Buttons auf dieser Seite öffnen die offizielle Website über Cecílias Link, einen für jedes Produkt. Preis und Aktionen sind die, die Proton an der Kasse anzeigt, und Proton erstattet das Abo, wenn die Bestellung in den ersten 30 Tagen aufgegeben wird.',
+      'Em Casa com Cecília hat keinen Gutscheincode für Proton: Die Buttons auf dieser Seite öffnen die offizielle Website über Cecílias Link, einen für jedes Produkt. Preis und Aktionen sind die, die Proton an der Kasse anzeigt, und Proton erstattet das Abo, wenn du die Erstattung innerhalb von 30 Tagen beantragst.',
     metaTitle: 'Proton: Links zu VPN, Mail, Pass, Drive und Lumo',
     metaDescription:
       'Cecílias Links zu Proton VPN, Proton Mail, Proton Pass, Proton Drive und Lumo: kostenlose und bezahlte Tarife, mit Erstattung innerhalb von 30 Tagen. Kein Gutscheincode von uns.',
@@ -2264,7 +2262,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       {
         question: 'Erstattet Proton das Geld, wenn es mir nicht gefällt?',
         answer:
-          'Ja. Laut der Tarifseite von Proton VPN, gelesen am 17. November 2026, erstattet Proton jedes Abo, wenn die Bestellung in den ersten 30 Tagen aufgegeben wird. Barzahlungen und Banküberweisungen werden laut Hilfe-Center von Proton nicht erstattet.',
+          'Ja. Laut der Tarifseite von Proton VPN, gelesen am 17. November 2026, erstattet Proton jedes Abo, wenn du die Erstattung innerhalb von 30 Tagen beantragst. Barzahlungen und Banküberweisungen werden laut Hilfe-Center von Proton nicht erstattet.',
       },
       {
         question: 'Hat Proton einen kostenlosen Tarif?',
@@ -2309,7 +2307,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
     category: 'VPN, e-mail, password e cloud con privacy',
     shortDescription: 'link di Cecília per Proton VPN, Mail, Pass, Drive e Lumo',
     longDescription:
-      'Em Casa com Cecília non ha un coupon per Proton: i pulsanti di questa pagina aprono il sito ufficiale con il link di Cecília, uno per ogni prodotto. Il prezzo e le promozioni sono quelli che Proton mostra al pagamento, e Proton rimborsa l\'abbonamento se l\'ordine viene fatto nei primi 30 giorni.',
+      'Em Casa com Cecília non ha un coupon per Proton: i pulsanti di questa pagina aprono il sito ufficiale con il link di Cecília, uno per ogni prodotto. Il prezzo e le promozioni sono quelli che Proton mostra al pagamento, e Proton rimborsa l\'abbonamento se il rimborso viene richiesto entro 30 giorni.',
     metaTitle: 'Proton: link per VPN, Mail, Pass, Drive e Lumo',
     metaDescription:
       'Link di Cecília per Proton VPN, Proton Mail, Proton Pass, Proton Drive e Lumo: piani gratuiti e a pagamento, con rimborso entro 30 giorni. Nessun coupon nostro.',
@@ -2358,7 +2356,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       {
         question: 'Proton rimborsa i soldi se non mi piace?',
         answer:
-          'Sì. Secondo la pagina dei piani di Proton VPN, letta il 17 novembre 2026, Proton rimborsa qualsiasi abbonamento se l\'ordine viene fatto nei primi 30 giorni. I pagamenti in contanti e con bonifico bancario non sono rimborsabili, secondo il centro assistenza di Proton.',
+          'Sì. Secondo la pagina dei piani di Proton VPN, letta il 17 novembre 2026, Proton rimborsa qualsiasi abbonamento se il rimborso viene richiesto entro 30 giorni. I pagamenti in contanti e con bonifico bancario non sono rimborsabili, secondo il centro assistenza di Proton.',
       },
       {
         question: 'Proton ha un piano gratuito?',
@@ -2403,7 +2401,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
     category: '개인정보를 지키는 VPN, 이메일, 비밀번호, 클라우드',
     shortDescription: 'Proton VPN, Mail, Pass, Drive, Lumo로 연결되는 Cecília의 링크',
     longDescription:
-      'Em Casa com Cecília에는 Proton 쿠폰이 없습니다. 이 페이지의 버튼은 Cecília의 링크로 공식 사이트를 열며, 제품마다 버튼이 하나씩 있습니다. 가격과 프로모션은 Proton이 결제 화면에 표시하는 대로이며, 처음 30일 안에 주문하면 Proton이 구독 금액을 환불합니다.',
+      'Em Casa com Cecília에는 Proton 쿠폰이 없습니다. 이 페이지의 버튼은 Cecília의 링크로 공식 사이트를 열며, 제품마다 버튼이 하나씩 있습니다. 가격과 프로모션은 Proton이 결제 화면에 표시하는 대로이며, 30일 안에 환불을 요청하면 Proton이 구독 금액을 환불합니다.',
     metaTitle: 'Proton: VPN, Mail, Pass, Drive, Lumo 링크',
     metaDescription:
       'Proton VPN, Proton Mail, Proton Pass, Proton Drive, Lumo로 연결되는 Cecília의 링크: 무료 및 유료 요금제, 30일 이내 환불. 쿠폰은 없습니다.',
@@ -2452,7 +2450,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       {
         question: '마음에 들지 않으면 Proton이 환불해 주나요?',
         answer:
-          '네. 2026년 11월 17일에 확인한 Proton VPN 요금제 페이지에 따르면, 처음 30일 안에 주문하면 Proton이 모든 구독을 환불합니다. Proton 고객센터에 따르면 현금과 계좌 이체로 결제한 경우에는 환불되지 않습니다.',
+          '네. 2026년 11월 17일에 확인한 Proton VPN 요금제 페이지에 따르면, 30일 안에 환불을 요청하면 Proton이 모든 구독을 환불합니다. Proton 고객센터에 따르면 현금과 계좌 이체로 결제한 경우에는 환불되지 않습니다.',
       },
       {
         question: 'Proton에는 무료 요금제가 있나요?',
@@ -2497,7 +2495,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
     category: 'プライバシーを守る VPN、メール、パスワード、クラウド',
     shortDescription: 'Proton VPN、Mail、Pass、Drive、Lumo への Cecília のリンク',
     longDescription:
-      'Em Casa com Cecília に Proton のクーポンはありません。このページのボタンから Cecília のリンクで公式サイトが開きます。ボタンは製品ごとに 1 つずつあります。価格とプロモーションは、Proton が決済画面に表示するとおりです。最初の 30 日以内に注文すれば、Proton がサブスクリプション料金を返金します。',
+      'Em Casa com Cecília に Proton のクーポンはありません。このページのボタンから Cecília のリンクで公式サイトが開きます。ボタンは製品ごとに 1 つずつあります。価格とプロモーションは、Proton が決済画面に表示するとおりです。30 日以内に返金を申請すれば、Proton がサブスクリプション料金を返金します。',
     metaTitle: 'Proton：VPN、Mail、Pass、Drive、Lumo のリンク',
     metaDescription:
       'Proton VPN、Proton Mail、Proton Pass、Proton Drive、Lumo への Cecília のリンク：無料プランと有料プラン、30 日以内の返金に対応。クーポンはありません。',
@@ -2546,7 +2544,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       {
         question: '気に入らなかった場合、Proton は返金してくれますか？',
         answer:
-          'はい。2026年11月17日に確認した Proton VPN のプランのページによると、最初の 30 日以内に注文すれば、Proton はどのサブスクリプションも返金します。Proton のヘルプセンターによると、現金と銀行振込での支払いは返金の対象外です。',
+          'はい。2026年11月17日に確認した Proton VPN のプランのページによると、30 日以内に返金を申請すれば、Proton はどのサブスクリプションも返金します。Proton のヘルプセンターによると、現金と銀行振込での支払いは返金の対象外です。',
       },
       {
         question: 'Proton に無料プランはありますか？',
@@ -2591,7 +2589,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
     category: '注重私隱的 VPN、電郵、密碼及雲端儲存',
     shortDescription: 'Cecília 的 Proton VPN、Mail、Pass、Drive 和 Lumo 連結',
     longDescription:
-      'Em Casa com Cecília 沒有 Proton 的優惠碼：本頁的按鈕會透過 Cecília 的連結開啟官方網站，每個產品各有一個。價格和促銷以 Proton 在結帳時顯示的為準，若在最初 30 天內下單，Proton 會退還訂閱費用。',
+      'Em Casa com Cecília 沒有 Proton 的優惠碼：本頁的按鈕會透過 Cecília 的連結開啟官方網站，每個產品各有一個。價格和促銷以 Proton 在結帳時顯示的為準，若在 30 天內申請退款，Proton 會退還訂閱費用。',
     metaTitle: 'Proton：VPN、Mail、Pass、Drive 和 Lumo 連結',
     metaDescription:
       'Cecília 的 Proton VPN、Proton Mail、Proton Pass、Proton Drive 和 Lumo 連結：提供免費及付費方案，30 天內可退款。我們沒有優惠碼。',
@@ -2640,7 +2638,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       {
         question: '如果不喜歡，Proton 會退款嗎？',
         answer:
-          '會。根據 2026 年 11 月 17 日查閱的 Proton VPN 方案頁面，只要在最初 30 天內下單，Proton 會退還任何訂閱的費用。根據 Proton 幫助中心，以現金和銀行轉帳付款的訂單不設退款。',
+          '會。根據 2026 年 11 月 17 日查閱的 Proton VPN 方案頁面，只要在 30 天內申請退款，Proton 會退還任何訂閱的費用。根據 Proton 幫助中心，以現金和銀行轉帳付款的訂單不設退款。',
       },
       {
         question: 'Proton 有免費方案嗎？',
@@ -2685,7 +2683,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
     category: '注重隐私的 VPN、邮箱、密码和云存储',
     shortDescription: 'Cecília 的 Proton VPN、Mail、Pass、Drive 和 Lumo 链接',
     longDescription:
-      'Em Casa com Cecília 没有 Proton 的优惠码：本页的按钮会通过 Cecília 的链接打开官方网站，每个产品各有一个。价格和促销以 Proton 在结账时显示的为准，如果在最初 30 天内下单，Proton 会退还订阅费用。',
+      'Em Casa com Cecília 没有 Proton 的优惠码：本页的按钮会通过 Cecília 的链接打开官方网站，每个产品各有一个。价格和促销以 Proton 在结账时显示的为准，如果在 30 天内申请退款，Proton 会退还订阅费用。',
     metaTitle: 'Proton：VPN、Mail、Pass、Drive 和 Lumo 链接',
     metaDescription:
       'Cecília 的 Proton VPN、Proton Mail、Proton Pass、Proton Drive 和 Lumo 链接：提供免费和付费方案，30 天内可退款。我们没有优惠码。',
@@ -2734,7 +2732,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       {
         question: '如果不喜欢，Proton 会退款吗？',
         answer:
-          '会。根据 2026 年 11 月 17 日查阅的 Proton VPN 方案页面，只要在最初 30 天内下单，Proton 会退还任何订阅的费用。根据 Proton 帮助中心，以现金和银行转账付款的订单不设退款。',
+          '会。根据 2026 年 11 月 17 日查阅的 Proton VPN 方案页面，只要在 30 天内申请退款，Proton 会退还任何订阅的费用。根据 Proton 帮助中心，以现金和银行转账付款的订单不设退款。',
       },
       {
         question: 'Proton 有免费方案吗？',
@@ -2773,6 +2771,8 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
   },
 };
 
+// Indicação sem código para digitar: os 20% valem só no primeiro período de plano novo e não somam
+// com outros cupons, como no PT.
 const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
   en: {
     discount: '20% off',
