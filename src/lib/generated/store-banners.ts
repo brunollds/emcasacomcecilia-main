@@ -554,6 +554,24 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-04"
   },
   {
+    "id": "proton-black-friday-2026",
+    "affiliate": "proton",
+    "slot": "top",
+    "href": "https://go.getproton.me/SH39K",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da Proton: até 70% OFF",
+        "text": "Campanha da própria Proton. Os planos e os preços aparecem no site dela, na moeda do seu país.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Faixa \"Black Friday -70%\" e selo -50% no Mail Plus e no Unlimited em proton.me/pt-br/pricing, lidos no navegador em 17/11/2026, sem data de fim; campanha repassada pela sessão Adicionar Cupons a pedido do Bruno",
+    "verifiedAt": "2026-11-17"
+  },
+  {
     "id": "shein-1111-2026",
     "affiliate": "shein",
     "slot": "mid",
