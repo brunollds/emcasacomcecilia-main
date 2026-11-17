@@ -566,6 +566,51 @@ export const storeBannersData: StoreBanner[] = [
         "headline": "Black Friday da Proton: até 70% OFF",
         "text": "Campanha da própria Proton. Os planos e os preços aparecem no site dela, na moeda do seu país.",
         "action": "Ver a campanha"
+      },
+      "en": {
+        "headline": "Proton Black Friday: up to 70% off",
+        "text": "Run by Proton itself. Plans and prices are on its website, in your country's currency.",
+        "action": "See the offer"
+      },
+      "es": {
+        "headline": "Black Friday de Proton: hasta un 70 % de descuento",
+        "text": "Una campaña de la propia Proton. Los planes y los precios están en su sitio, en la moneda de tu país.",
+        "action": "Ver la oferta"
+      },
+      "fr": {
+        "headline": "Black Friday Proton : jusqu’à 70 % de réduction",
+        "text": "Une campagne de Proton. Les offres et les prix sont sur son site, dans la devise de votre pays.",
+        "action": "Voir l’offre"
+      },
+      "it": {
+        "headline": "Black Friday di Proton: fino al 70% di sconto",
+        "text": "Una campagna di Proton. I piani e i prezzi sono sul suo sito, nella valuta del tuo paese.",
+        "action": "Vedi l’offerta"
+      },
+      "de": {
+        "headline": "Proton Black Friday: Bis zu 70 % Rabatt",
+        "text": "Eine Aktion von Proton. Tarife und Preise stehen auf der Proton-Website, in der Währung Ihres Landes.",
+        "action": "Zum Angebot"
+      },
+      "ja": {
+        "headline": "Proton ブラックフライデー：最大70%オフ",
+        "text": "Proton公式のキャンペーンです。プランと料金はProtonのサイトで、お住まいの国の通貨でご確認ください。",
+        "action": "キャンペーンを見る"
+      },
+      "ko": {
+        "headline": "Proton 블랙 프라이데이: 최대 70% 할인",
+        "text": "Proton 자체 프로모션입니다. 요금제와 가격은 Proton 사이트에서 사용 중인 국가의 통화로 확인하세요.",
+        "action": "혜택 보기"
+      },
+      "zh-hans": {
+        "headline": "Proton 黑色星期五：最高可省70%",
+        "text": "Proton官方活动，套餐与价格以Proton网站为准，按所在国家的货币显示。",
+        "action": "查看活动"
+      },
+      "zh-hant": {
+        "headline": "Proton 黑色星期五：最高可省70%",
+        "text": "Proton官方活動，方案與價格以Proton網站為準，並以所在國家的貨幣顯示。",
+        "action": "查看活動"
       }
     },
     "source": "Faixa \"Black Friday -70%\" e selo -50% no Mail Plus e no Unlimited em proton.me/pt-br/pricing, lidos no navegador em 17/11/2026, sem data de fim; campanha repassada pela sessão Adicionar Cupons a pedido do Bruno",
