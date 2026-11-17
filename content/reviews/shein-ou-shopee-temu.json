@@ -29,7 +29,7 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "SHEIN: você vai comprar roupa sem provar; ela dá 20 dias para devolver, e a Garantia Shopee, 7.",
+      "SHEIN: a roupa que você quer admite devolução em 20 dias, em vez dos 7 da Garantia Shopee; confira a elegibilidade no anúncio.",
       "Shopee: você achou o anúncio com a peça, o vendedor bem avaliado e a entrega na data de que precisa."
     ],
     "skipIf": [
@@ -60,7 +60,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A SHEIN dá 20 dias para devolver roupa, salvo bodies, moda praia e roupa íntima; a Garantia Shopee dá 7. Nas duas, o vendedor, o frete e o prazo mudam de um anúncio para outro, então compare o total no checkout. O imposto da compra internacional segue a mesma regra nas duas lojas."
+        "A SHEIN dá mais prazo para devolver roupa elegível aos 20 dias; bodies, moda praia e roupa íntima ficam nos 7 dias, como a Garantia Shopee. Compare vendedor, previsão de entrega e total com frete e impostos. Na SHEIN, pesquise 4CW5Y para obter desconto na seleção definida pela plataforma, como explicamos abaixo."
       ]
     },
     {
@@ -112,7 +112,7 @@
         "O que mais muda o prazo e o imposto é de onde a peça sai, e isso aparece no anúncio."
       ],
       "bullets": [
-        "**SHEIN:** a maior parte vem do exterior, com 3 a 5 dias para processar o pedido antes do transporte; a data estimada aparece no pedido. As peças com Envio Nacional já estão no Brasil e, segundo a SHEIN, não seguem a regra do imposto de importação. Frete e prazo delas são outros: a tabela de R$ 15 e R$ 69 é a do envio do exterior.",
+        "**SHEIN:** no envio do exterior, são 3 a 5 dias para processar o pedido antes do transporte; a data estimada aparece no pedido. As peças com Envio Nacional já estão no Brasil e, segundo a SHEIN, não seguem a regra do imposto de importação. Frete e prazo delas são outros: a tabela de R$ 15 e R$ 69 é a do envio do exterior.",
         "**Shopee:** o anúncio mostra de onde a peça sai, o frete para o seu CEP e a previsão de entrega. Se o vendedor não postar no prazo, a [Garantia Shopee](https://help.shopee.com.br/portal/4/article/76327-) devolve o dinheiro automaticamente; se o pedido já saiu e atrasou, o reembolso é pedido pelo app."
       ],
       "postParagraphs": [
@@ -402,7 +402,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "SHEIN ou Shopee: qual é melhor? Para roupa que você não pode provar, a SHEIN, que dá 20 dias para devolver, contra 7 da Garantia Shopee. Nas duas, vendedor, frete e prazo mudam de um anúncio para outro.",
+        "SHEIN ou Shopee: qual é melhor? Para roupa elegível aos 20 dias de devolução, a SHEIN dá mais prazo que os 7 da Garantia Shopee; bodies, moda praia e roupa íntima ficam nos 7 dias. Compare também vendedor, previsão de entrega e total do pedido.",
         "Qual é mais barata, SHEIN ou Shopee? Depende da peça e do anúncio. O que muda o total é o frete, o imposto da compra internacional e, na SHEIN, o desconto do código de indicação. Compare o total no fim do checkout.",
         "Qual chega mais rápido, SHEIN ou Shopee? Depende de onde a peça sai, e a previsão para o seu CEP aparece no anúncio das duas. Na SHEIN, o pedido do exterior leva de 3 a 5 dias para ser processado antes do transporte.",
         "SHEIN e Shopee cobram o mesmo imposto? Na importação pelo Remessa Conforme, sim: ICMS de 17% a 20% e imposto de importação zero até US$ 50. O que vale para o seu pedido é a origem do envio, que aparece no anúncio.",

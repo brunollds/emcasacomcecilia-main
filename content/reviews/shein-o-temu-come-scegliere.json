@@ -16,7 +16,7 @@
     "url": "/sobre"
   },
   "description": "SHEIN o Temu? Cosa pubblicano i due negozi su spedizione, tempi di consegna e resi in Italia, e come scegliere in base a ciò che compri, con i controlli da fare prima di pagare.",
-  "metaDescription": "SHEIN o Temu? Spedizione, tempi di consegna e resi per l'Italia, dazio UE di 3 euro e cosa controllare prima di comprare.",
+  "metaDescription": "4CW5Y dà uno sconto su una selezione SHEIN. Confronta SHEIN e Temu in Italia: spedizione, resi e cosa controllare prima di comprare.",
   "publishedAt": "13 ottobre 2026",
   "publishedAtISO": "2026-10-13",
   "updatedAt": "2026-11-17",
@@ -33,7 +33,7 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Non esiste un negozio migliore per tutti: per i vestiti conta il termine di reso che ti serve. Temu pubblica 90 giorni dall'acquisto, SHEIN fino a 30 giorni dal ricevimento per la maggior parte degli articoli. Se scegli SHEIN, il 4CW5Y dà lo sconto, sì: apri SHEIN dal link di Cecília e cerca il codice nell’app o sul sito."
+        "Temu conta 90 giorni dall’acquisto; SHEIN accetta la maggior parte degli articoli entro 30 giorni dal ricevimento. Confronta la scadenza del tuo articolo, la consegna e il totale. Su SHEIN, cerca 4CW5Y per ottenere uno sconto sulla selezione scelta dalla piattaforma; più avanti trovi le istruzioni."
       ]
     },
     {
@@ -77,8 +77,9 @@
     {
       "heading": "Dogana e imposte",
       "paragraphs": [
-        "Dal 1° luglio 2026 l'UE applica 3 euro di dazio doganale per categoria di prodotto sugli ordini inferiori a 150 euro spediti da fuori UE direttamente al consumatore (Regolamento (UE) 2026/382). Vale per qualsiasi negozio che spedisce da fuori UE, quindi la dogana non decide tra SHEIN e Temu.",
-        "Prima di pagare, controlla al checkout se il totale include le imposte e confronta quella cifra finale, non solo il prezzo dell'articolo."
+        "Gli acquisti importati in Italia da fuori UE sono soggetti all’IVA e alle regole doganali. Da luglio 2026 si applica un dazio temporaneo di 3 € per categoria di prodotto alle spedizioni fino a 150 € che rientrano nel [Regolamento (UE) 2026/382](https://eur-lex.europa.eu/eli/reg/2026/382/oj/eng).",
+        "Da novembre 2026 si applica anche una commissione di gestione doganale di 2 € per voce della dichiarazione per il commercio elettronico importato. È distinta dal dazio di 3 € e non equivale automaticamente a 2 € per ogni pezzo fisico; vedi la [spiegazione della dogana olandese](https://www.douane.nl/en/themes/import-and-export/import/e-commerce/handling-fee-for-e-commerce/).",
+        "Prima di pagare, confronta il totale con spedizione, IVA e oneri di ciascun negozio. Avere le stesse regole non garantisce lo stesso importo finale."
       ]
     },
     {
@@ -349,11 +350,8 @@
         "SHEIN o Temu: quale scegliere? Dipende da cosa compri e da quanto conta poter restituire: Temu dà 90 giorni dall'acquisto, e SHEIN riprende la maggior parte degli articoli fino a 30 giorni dal ricevimento.",
         "Quale costa meno, SHEIN o Temu? In questo articolo non misuriamo i prezzi. Confronta al checkout il prezzo finale di ogni articolo, con spedizione e imposte.",
         "Quale consegna più in fretta, SHEIN o Temu? SHEIN pubblica 6-12 giorni lavorativi per la spedizione Standard; Temu mostra il tempo nella pagina del prodotto (preparazione in 1-3 giorni). Controlla la data nella pagina del prodotto e nell'ordine.",
-        "SHEIN o Temu: qual è la differenza? Temu pubblica il termine più lungo, 90 giorni contati dall'acquisto, mentre SHEIN riprende la maggior parte degli articoli fino a 30 giorni dal ricevimento, quindi i due conteggi partono da punti diversi; spedizione e tempi di consegna sono nella tabella qui sopra.",
         "SHEIN o Temu per i vestiti? Verifica se il capo è restituibile, entro quando e a quale costo. Temu dà 90 giorni dall'acquisto e SHEIN fino a 30 giorni dal ricevimento, per la maggior parte degli articoli; lingerie, biancheria intima e bigiotteria di SHEIN si restituiscono solo entro i 14 giorni.",
-        "SHEIN e Temu pagano la dogana? L'UE applica 3 euro per categoria di prodotto sugli ordini inferiori a 150 euro spediti da fuori UE direttamente al consumatore (Regolamento (UE) 2026/382). Vale per qualsiasi negozio che spedisce così, quindi la dogana non decide tra SHEIN e Temu.",
-        "SHEIN e Temu sono la stessa azienda? No. Sono negozi diversi, ciascuno con le proprie regole su spedizione, consegna e reso.",
-        "Il 4CW5Y è un coupon? No. È il codice invito di Cecília su SHEIN e dà lo sconto, sì, su una selezione di prodotti e promozioni; quanto e su quali articoli lo decide SHEIN. Apri SHEIN dal link di Cecília e cerca il codice nell’app o sul sito: la ricerca apre la selezione."
+        "Il 4CW5Y è un coupon? 4CW5Y è il codice invito di Cecília su SHEIN e dà uno sconto sui prodotti e sulle promozioni scelti dalla piattaforma. Apri SHEIN dal link di Cecília e cercalo nell’app o sul sito per vedere la selezione."
       ]
     }
   ],
@@ -375,7 +373,7 @@
   ],
   "decision": {
     "takeIf": [
-      "Scegli Temu se compri vestiti senza provarli e vuoi il termine più lungo pubblicato per restituirli: 90 giorni, contati dall'acquisto, se il tuo articolo rientra nella sua politica."
+      "Scegli Temu se il tuo articolo rientra nei 90 giorni dall’acquisto e la scadenza lascia più tempo dopo la consegna rispetto a SHEIN; confronta le date nell’ordine."
     ],
     "skipIf": [
       "Lascia perdere SHEIN se vuoi restituire con più margine dei 30 giorni dal ricevimento che concede per la maggior parte degli articoli."
