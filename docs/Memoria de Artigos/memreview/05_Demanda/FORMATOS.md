@@ -25,8 +25,11 @@ Célula vazia não é permitida. Quando não há valor, a célula leva um destes
 | `0` | Zero observado na fonte |
 | `@indisponivel` | A fonte não oferece o dado, ou bloqueou |
 | `@nao-investigado` | Ninguém procurou ainda |
-| `@parcial` | A coleta alcançou só parte; o que falta está no `FONTE.md` |
+| `@parcial` | A coleta parou antes de chegar a este valor; o que faltou está no `FONTE.md` |
 | `@nao-se-aplica` | O campo não faz sentido para esta linha |
+
+Um valor conhecido nunca é trocado por código. Se a coleta alcançou 120 produtos, o valor é `120`, e a cobertura
+parcial fica registrada à parte: no `FONTE.md` da coleta e em `notas`, `qualidade` ou `limitacoes` da linha.
 
 ## 3. Identificadores
 

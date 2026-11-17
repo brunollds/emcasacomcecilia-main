@@ -16,7 +16,7 @@ Quem rodou o quê, quando, quanto tempo levou e o que ficou pendente. Uma linha 
 | 2. Oferta (`catalogo.csv`) | aguardando coleta | a definir |
 | 3. Interesse externo (`sinais.csv`) | aguardando coleta | a definir |
 | 4. Nossos dados (`nossos-dados.csv`) | aguardando coleta | a definir |
-| 4. Comercial (`comercial.csv`) | aguardando resposta do Bruno (existe painel?) | a definir |
+| 4. Comercial (`comercial.csv`) | sem painel acessível à sessão: `@indisponivel` até haver relatório | a definir |
 | 4. Cobertura (`cobertura.csv`) | aguardando coleta | a definir |
 | 5. Matriz e recomendações | aguardando as etapas 2 a 4 | a definir |
 | Revisão independente | aguardando a etapa 5 | sessão diferente da do analista |

@@ -51,11 +51,12 @@ pena", "como usar", "antes e depois", "é bom", "anvisa", "para que serve") e os
 | Dúvidas públicas | Reclame Aqui (já lido em 16/11: referir a ficha), perguntas na ficha do produto e no Mercado Livre, se a marca vender lá | `duvidas-<fonte>.txt` |
 
 ```bash
-curl -s -G https://suggestqueries.google.com/complete/search --data-urlencode client=firefox --data-urlencode hl=pt-BR --data-urlencode gl=br --data-urlencode "q=<consulta>" -o "q-<consulta>.json"
+curl -s -G https://suggestqueries.google.com/complete/search --data-urlencode client=firefox --data-urlencode hl=pt-BR --data-urlencode gl=br --data-urlencode "q=<consulta>" -D "q-<consulta>.headers.txt" -o "q-<consulta>.json"
 ```
 
-- O arquivo do autocompletar é guardado como veio (codificação ISO-8859-1); a conversão para UTF-8 acontece no
-  processamento.
+- O arquivo do autocompletar é guardado byte a byte, junto com os cabeçalhos da resposta. A codificação não é
+  presumida: vale a do `Content-Type` de cada resposta, anotada no `FONTE.md`. Antes de converter para UTF-8 no
+  processamento, conferir os acentos numa consulta que tenha acento.
 - Cada linha do `sinais.csv` leva a `limitacoes` da medida: posição na lista de sugestões não é volume; índice do
   Trends vale só dentro do recorte e da comparação consultados; visualização depende do canal e da idade do vídeo.
 - Trends com termo pequeno costuma devolver "dados insuficientes": isso é `@indisponivel`, não zero.
@@ -74,11 +75,12 @@ como está (zero observado é `0`; relatório sem a linha é `@indisponivel`).
 | GA4 | Páginas e origem, mesmo período; anotar no `FONTE.md` a conferência de eventos em dobro | `_site/<coleta-id>/` |
 | Clarity | Números agregados da página `/cupons/lamazonie` e de páginas da vertical; anotar desde quando há gravação | `_site/<coleta-id>/` |
 | IA (consulta manual) | 3 a 5 perguntas sobre cupom e confiança da loja, em uma ou duas plataformas, no formato da seção 4 do `PROGRAMA.md` | `1-bruto/<coleta-id>/` |
-| Painel comercial | Depende da resposta do Bruno (seção 7) | `1-bruto/<coleta-id>/` |
+| Painel comercial | Parceria de 16/11, sem painel acessível à sessão: `comercial.csv` fica `@indisponivel`, com o motivo. Relatório que o Bruno passar entra como coleta | `1-bruto/<coleta-id>/` |
 
-- Vertical equivalente, para referência de formato e perguntas: as páginas e os artigos de beleza e cuidados que já
-  temos (Simple Organic, Cléa Store, YesStyle em português). Entram em `nossos-dados.csv` com a ressalva em
-  `qualidade` de que são outra loja.
+- Vertical equivalente, para referência de formato e perguntas: Simple Organic, Skelt e YesStyle. Entram em
+  `nossos-dados.csv` com a ressalva, em `qualidade`, de que são outra loja, e com o que as separa da L'Amazonie:
+  mercado (a YesStyle é loja internacional, em 10 idiomas), entrega ao Brasil na data da leitura e maturidade das
+  páginas (há quanto tempo estão no ar e quantos artigos têm).
 - Cobertura: `/cupons/lamazonie` (no ar) e os seis briefings LZ1 a LZ6 em `02_Artigos/`, cada um com o estado que
   tiver no dia da leitura. A fonte é o próprio repositório: `evidencia` aponta o arquivo e o trecho.
 - Se o navegador embutido não estiver logado numa plataforma, a IA não faz login: a linha fica `@indisponivel` e a
@@ -103,10 +105,12 @@ como está (zero observado é `0`; relatório sem a linha é `@indisponivel`).
 
 ## 7. Pendências antes ou durante o piloto
 
-1. **Bruno:** existe painel ou relatório de resgates do código `CECILIA` na L'Amazonie? Sem ele, `comercial.csv` fica
-   `@indisponivel`.
-2. **Bruno:** quais plataformas estarão logadas no navegador embutido (Search Console, Bing Webmaster, GA4, Clarity).
-3. **Bruno:** onde guardar print e HTML acima do limite do repositório.
+Nenhuma trava as etapas 2 e 3 nem a cobertura.
+
+1. Comercial: `@indisponivel` até haver relatório de resgates do código `CECILIA`.
+2. Etapa 4: a sessão confere o que está logado no navegador embutido e pede ao Bruno só o export que faltar, com
+   período e filtros.
+3. Arquivo acima do limite: pasta de brutos pesados (`PROGRAMA.md`, seção 3, item 4).
 4. Abertas desde a pesquisa semente: datas e regras da Black Friday, valor mínimo ou limite de usos do código, e se o
    cashback soma com o cupom.
 

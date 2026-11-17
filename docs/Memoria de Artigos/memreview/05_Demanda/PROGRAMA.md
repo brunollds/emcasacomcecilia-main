@@ -1,7 +1,8 @@
 # Programa de Demanda por Afiliado
 
 Criado em 16/11/2026, a pedido do Bruno, a partir do desenho da sessão de pautas e das revisões do ChatGPT e do Gemini
-(consolidadas pelo Bruno em `docs/HANDOFF-PROGRAMA-DEMANDA-AFILIADOS.md`, no checkout principal).
+(o handoff consolidado está guardado como veio em `HANDOFF-ORIGEM.md`). Ajustado em 17/11/2026 com a segunda revisão
+dos dois, antes da primeira coleta.
 
 **Estado: etapa 1 pronta (esta estrutura). Nenhuma coleta foi feita.** O primeiro piloto é a L'Amazonie:
 `parceiros/lamazonie/ROTEIRO-PILOTO.md`.
@@ -81,9 +82,12 @@ Não é software, não publica artigo e não altera produção. A redação cont
    período, filtros, propriedade consultada, paginação e cobertura, quando couber.
 2. **Bruto não se edita.** Coleta nova é pasta nova. Correção e transformação ficam em `2-processado/`.
 3. **Resposta inteira.** O que a API ou o feed devolveu fica como veio, com preço, variante e disponibilidade se vierem.
-4. **Onde guardar.** CSV, JSON e texto no repositório. Print e HTML entram quando são a prova: até 500 KB por print e
-   2 MB por HTML. Acima disso, o arquivo vai para o armazenamento compartilhado (pendência 1 da seção 10) e o
-   `FONTE.md` guarda a localização. Nada fica só em scratchpad ou pasta temporária.
+4. **Onde guardar.** CSV, JSON e texto no repositório. Print é salvo em WebP. Até 500 KB por print e 2 MB por HTML, o
+   arquivo fica no repositório. Acima disso, vai para a pasta de brutos pesados, fora do repositório:
+   `C:\Users\Bruno\Downloads\Emcasacomcecilia\demanda-brutos-pesados\<parceiro>\<coleta-id>\`, com caminho, tamanho e
+   SHA-256 no `FONTE.md`. O limite decide onde o arquivo fica, nunca se ele fica: evidência não é descartada por
+   tamanho. Nada fica só em scratchpad ou pasta temporária. Limitação: essa pasta só existe na máquina do Bruno, e
+   sessão na nuvem não a alcança (destino proposto na revisão de 17/11, valendo até o Bruno indicar outro).
 5. **Hash.** Cada arquivo bruto é listado no `FONTE.md` com caminho, tamanho e SHA-256. O `.gitattributes` desta pasta
    impede o git de trocar quebras de linha no bruto, então o hash confere em qualquer checkout.
 6. **Rastro.** Cada linha processada aponta para a coleta e para a evidência exata (id do produto, linha do CSV, aba,
@@ -93,7 +97,8 @@ Não é software, não publica artigo e não altera produção. A redação cont
 8. **Sem segredo.** Credencial, cookie e token de sessão ficam fora. Gravação de visitante do Clarity não é copiada:
    entram só números agregados e o que o analista observou.
 9. **Cobertura declarada.** Toda coleta diz se foi completa ou parcial e o que alcançou. Fonte bloqueada, paginação
-   incompleta, item sem ficha e campo indisponível ficam escritos.
+   incompleta, item sem ficha e campo indisponível ficam escritos. O que foi obtido numa coleta parcial continua
+   valendo: 120 produtos coletados são 120, com a cobertura parcial registrada à parte.
 10. **Zero não é ausência.** Valor zero, dado indisponível, hipótese não investigada, coleta parcial e campo que não se
     aplica são estados diferentes (códigos em `FORMATOS.md`, seção 2).
 
@@ -119,10 +124,18 @@ Poucos cliques, ausência no autocompletar ou falta de impressões não bastam. 
 indexação, posição, sazonalidade, mercado, utilidade editorial e comercial e se outra página já cobre. A recomendação
 diz para onde vão o conteúdo e os links, e a decisão é do Bruno.
 
-Segunda chance: o vault não tem essa regra escrita. O que existe é uma decisão do Bruno de 30/10/2026, guardada na
-memória da sessão de pautas: artigo que não pegou é reavaliado 60 dias depois da indexação, com o Search Console
-primeiro; mesma intenção, reescreve na mesma URL; intenção diferente, artigo novo. Ela trata de reescrever, não de
-retirar. O programa aplica como está e leva ao Bruno qualquer caso que ela não cubra.
+Segunda chance: **decisão relatada, ainda não escrita no vault como regra.** O registro original são duas mensagens
+do Bruno de 30/10/2026 numa sessão de pautas (transcrição local da sessão `6634a9e5`, fora do repositório):
+
+- 12:03 (Brasília): "depois de um tempo (a definir) quando avaliarmos o resultado de um artigo [...] e o artigo não
+  tiver 'pegado', podemos reescrever ou criar um novo com um foco diferente".
+- 12:05: "Acho que 60 dias está bom".
+
+O que o Bruno decidiu, então, é o prazo de 60 dias e a ideia de reescrever ou refazer com outro foco. O resto
+(Search Console primeiro, contar da indexação, mesma intenção na mesma URL) foi desenho proposto pela sessão naquele
+dia e está só na memória dela. A decisão fala de reescrita, não de retirada. O programa não a trata como regra
+vigente: recomendação que dependa dela cita esta nota e segue para o Bruno, e a regra só vale como política quando
+ele a confirmar num documento do vault.
 
 ## 5. Saída e integração aos Jobs
 
@@ -184,7 +197,12 @@ programa para os outros parceiros.
 
 ## 10. Pendências com o Bruno
 
-1. Armazenamento compartilhado para print e HTML acima do limite. Até lá, arquivo grande só entra quando for a única
-   prova, e vai para o repositório com aviso no `FONTE.md`.
-2. Painel comercial da L'Amazonie: existe algum relatório de resgates do código `CECILIA`? A parceria não tem link.
-3. Quais plataformas ficam logadas no navegador embutido para a etapa 4 (Search Console, Bing Webmaster, GA4, Clarity).
+Nenhuma trava o catálogo, a pesquisa externa nem a cobertura.
+
+1. Confirmar a regra da segunda chance num documento do vault (seção 4).
+2. Painel comercial: parceiro sem painel acessível à sessão fica `@indisponivel` no `comercial.csv`, com o motivo. Se
+   houver relatório de resgates do código, o Bruno passa e ele entra como coleta.
+3. Plataformas da etapa 4: a sessão confere o que já está logado no navegador embutido e pede só o export que faltar,
+   com período e filtros.
+4. A pasta de brutos pesados fica na máquina do Bruno. Se o programa passar a rodar em sessão na nuvem, é preciso
+   outro destino.
