@@ -10,8 +10,8 @@ type: "Comparativo"
 status: "briefing"
 score: 68
 responsavel: "Job-1 (Claude Fable 5.2)"
-proxima_acao: "redação do PT e conversão das 9 versões para a lista de lojas (Job 2 e Job 4), com a F3 na main"
-bloqueado_por: "as peças da Temu com o link convertido (Bruno)"
+proxima_acao: "redação do PT e conversão das 9 versões para a lista de lojas (Job 2 e Job 4), com a amostra de [[shein-ou-temu-amostra-1711]]"
+bloqueado_por: "-"
 data_criacao: "2026-11-16"
 i18n_cluster: "shein"
 translationKey: "shein-vs-shopee-temu"
@@ -65,6 +65,8 @@ melhor qualidade.
    importação zero e ICMS de 17% a 20% conforme o estado; acima, 60% com dedução de US$ 30, mais o ICMS), e o imposto
    que não volta no reembolso da Temu.
 6. O que o Reclame Aqui mostra, com as ressalvas.
+6a. O que cada uma vende: a amostra por categoria, com foto e link de cada peça, sem preço e sem "a mesma peça"
+   ([[shein-ou-temu-amostra-1711]]). A redação decide a numeração final.
 7. Antes de comprar: o que conferir.
 8. E a Shopee e o AliExpress? Link para o SV1 e o SV3.
 9. Quadro "Leve se / Passe se" (`decision`) e FAQ: "shein e temu são a mesma coisa?", "qual chega mais rápido?", "a
@@ -145,5 +147,6 @@ academia. Regras e limites em [[shein-ou-pares-plano-1611]], seção 5.
 
 ## Pendências
 
-- Amostra de produtos: aprovada em 16/11; faltam as peças da Temu com o link convertido (Bruno). Do lado da SHEIN, as
-  23 peças de [[shein-ou-shopee-amostra-1711]] servem, nas mesmas categorias, salvo outra escolha do Bruno.
+- Amostra de produtos: recebida e lida em 17/11, 23 peças da Temu em 7 categorias e o link geral "Nova temporada", em
+  [[shein-ou-temu-amostra-1711]]; as 23 da SHEIN são as do SV1 ([[shein-ou-shopee-amostra-1711]]), mesmos links.
+- Antes do deploy, abrir duas ou três peças da Temu com outra região (ver as observações da amostra).
