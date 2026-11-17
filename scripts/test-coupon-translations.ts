@@ -53,7 +53,13 @@ for (const slug of translatedSlugs) {
   assert.equal(links.en, `/en/coupons/${slug}`);
 
   // Texto com espaço é frase; código, data, slug e marca não têm espaço e podem repetir o PT.
-  const ptProse = new Set(leaves(pt).map(([, text]) => text).filter((text) => /\s/.test(text) && !isUrl(text)));
+  // O nome do produto dos productLinks (Proton VPN) também repete o PT em todo idioma.
+  const productNames = new Set(pt.offerMode === 'affiliate-link' ? (pt.productLinks ?? []).map((item) => item.name) : []);
+  const ptProse = new Set(
+    leaves(pt)
+      .map(([, text]) => text)
+      .filter((text) => /\s/.test(text) && !isUrl(text) && !productNames.has(text))
+  );
 
   for (const locale of TRANSLATED_LOCALES) {
     const localized = getLocalizedCoupon(slug, locale);
@@ -74,6 +80,13 @@ for (const slug of translatedSlugs) {
       `${slug}/${locale}: o PT ganhou ou perdeu pergunta no FAQ; atualize as traduções`
     );
 
+    if (pt.offerMode === 'affiliate-link' && localized.offerMode === 'affiliate-link') {
+      assert.deepEqual(
+        (localized.productLinks ?? []).map((item) => [item.name, item.url]),
+        (pt.productLinks ?? []).map((item) => [item.name, item.url]),
+        `${slug}/${locale}: os links por produto precisam dos mesmos nomes e endereços do PT, na mesma ordem`
+      );
+    }
     for (const [path, text] of leaves(localized)) {
       assert.ok(!ptProse.has(text), `${slug}/${locale}: texto em PT sobrou em ${path}`);
     }
