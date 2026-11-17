@@ -1,0 +1,95 @@
+# Uma linha por vídeo: consulta | posição | título (até 110 ou 90 caracteres) | canal | visualizações | idade
+# CONSULTA: l'amazonie sobrancelha funciona | itens carregados: 6 | prateleiras de Shorts: 2
+l'amazonie sobrancelha funciona | 1 | SÉRUM DE CRESCIMENTO DE SOBRANCELHAS E CÍLIOS L'AMAZONIE SKINCARE | SAINDO DO COMUM OFICIAL | 425 | há 3 meses
+l'amazonie sobrancelha funciona | 2 | SÉRUM DE CRESCIMENTO DE SOBRANCELHAS E CÍLIOS L'AMAZONIE SKINCARE | SAINDO DO COMUM OFICIAL | 1,4 mil | há 5 meses
+l'amazonie sobrancelha funciona | 3 | L'Amazonie Skincare!! #skincare #beleza #produtonacional | Nariz Sincero, Ponto de Virada | 388 | há 1 ano
+l'amazonie sobrancelha funciona | 4 | SÉRUM PARA CRESCIMENTO DE SOBRANCELHAS E CÍLIOS L'AMAZONIE SKINCARE | SAINDO DO COMUM OFICIAL | 340 | há 6 meses
+l'amazonie sobrancelha funciona | 5 | Melhor Produto Para Crescer Sobrancelhas e Cílios | e-Praticidade | 5 mil | há 5 anos
+l'amazonie sobrancelha funciona | 6 | 5 DICAS PARA REFLORESTAR AS SOBRANCELHAS - #Lista26 | Vanessa Rozan | 94 mil | há 4 anos
+# CONSULTA: serum l'amazonie resenha | itens carregados: 8 | prateleiras de Shorts: 2
+serum l'amazonie resenha | 1 | SÉRUM DE CRESCIMENTO DE SOBRANCELHAS E CÍLIOS L'AMAZONIE SKINCARE | SAINDO DO COMUM OFICIAL | 425 | há 3 meses
+serum l'amazonie resenha | 2 | L' Amazonie - Sérum Vitamina C | L'Amazonie Skincare | 1,8 mil | há 4 anos
+serum l'amazonie resenha | 3 | SÉRUM DE CRESCIMENTO DE SOBRANCELHAS E CÍLIOS L'AMAZONIE SKINCARE | SAINDO DO COMUM OFICIAL | 1,4 mil | há 5 meses
+serum l'amazonie resenha | 4 | Resenha sérum anti-manchas L'amazonie #products #skincare #anti-dark spots #skincare | Teriany Barbosa | 220 | há 1 ano
+serum l'amazonie resenha | 5 | L'Amazonie Skincare!! #skincare #beleza #produtonacional | Nariz Sincero, Ponto de Virada | 388 | há 1 ano
+serum l'amazonie resenha | 6 | SÉRUM PARA CRESCIMENTO DE SOBRANCELHAS E CÍLIOS L'AMAZONIE SKINCARE | SAINDO DO COMUM OFICIAL | 340 | há 6 meses
+serum l'amazonie resenha | 7 | Melhor Produto Para Crescer Sobrancelhas e Cílios | e-Praticidade | 5 mil | há 5 anos
+serum l'amazonie resenha | 8 | MINHA ROTINA DE SKIN CARE - L'amazonie | Danny Silva | 1 mil | há 2 anos
+# CONSULTA: l'amazonie antes e depois | itens carregados: 7 | prateleiras de Shorts: 2
+l'amazonie antes e depois | 1 | SÉRUM DE CRESCIMENTO DE SOBRANCELHAS E CÍLIOS L'AMAZONIE SKINCARE | SAINDO DO COMUM OFICIAL | 425 | há 3 meses
+l'amazonie antes e depois | 2 | SÉRUM DE CRESCIMENTO DE SOBRANCELHAS E CÍLIOS L'AMAZONIE SKINCARE | SAINDO DO COMUM OFICIAL | 1,4 mil | há 5 meses
+l'amazonie antes e depois | 3 | SÉRUM PARA CRESCIMENTO DE SOBRANCELHAS E CÍLIOS L'AMAZONIE SKINCARE | SAINDO DO COMUM OFICIAL | 340 | há 6 meses
+l'amazonie antes e depois | 4 | L'amazonie - Possibilidades | L'Amazonie Skincare | 4,1 mil | há 5 anos
+l'amazonie antes e depois | 5 | L'Amazonie Skincare!! #skincare #beleza #produtonacional | Nariz Sincero, Ponto de Virada | 388 | há 1 ano
+l'amazonie antes e depois | 6 | L' Amazonie - Sérum Vitamina C | L'Amazonie Skincare | 1,8 mil | há 4 anos
+l'amazonie antes e depois | 7 | Resenha sérum anti-manchas L'amazonie #products #skincare #anti-dark spots #skincare | Teriany Barbosa | 220 | há 1 ano
+# CONSULTA: como usar serum l'amazonie | itens carregados: 6 | prateleiras de Shorts: 4
+como usar serum l'amazonie | 1 | SÉRUM DE CRESCIMENTO DE SOBRANCELHAS E CÍLIOS L'AMAZONIE SKINCARE | SAINDO DO COMUM OFICIAL | 425 | há 3 meses
+como usar serum l'amazonie | 2 | SÉRUM DE CRESCIMENTO DE SOBRANCELHAS E CÍLIOS L'AMAZONIE SKINCARE | SAINDO DO COMUM OFICIAL | 1,4 mil | há 5 meses
+como usar serum l'amazonie | 3 | SÉRUM PARA CRESCIMENTO DE SOBRANCELHAS E CÍLIOS L'AMAZONIE SKINCARE | SAINDO DO COMUM OFICIAL | 340 | há 6 meses
+como usar serum l'amazonie | 4 | Resenha sérum anti-manchas L'amazonie #products #skincare #anti-dark spots #skincare | Teriany Barbosa | 220 | há 1 ano
+como usar serum l'amazonie | 5 | L' Amazonie - Sérum Vitamina C | L'Amazonie Skincare | 1,8 mil | há 4 anos
+como usar serum l'amazonie | 6 | Melhor Produto Para Crescer Sobrancelhas e Cílios | e-Praticidade | 5 mil | há 5 anos
+# CONSULTA: sérum vitamina c20 l'amazonie | itens carregados: 8 | prateleiras de Shorts: 2
+sérum vitamina c20 l'amazonie | 1 | SÉRUM DE CRESCIMENTO DE SOBRANCELHAS E CÍLIOS L'AMAZONIE SKINCARE | SAINDO DO COMUM OFICIAL | 425 | há 3 meses
+sérum vitamina c20 l'amazonie | 2 | Improve C 20 - vitamina C da Dermage - resenha | Dra Caroline Hespanhol - Dermatologia & Saúde | 12 mil | há 4 anos
+sérum vitamina c20 l'amazonie | 3 | L'Amazonie Skincare!! #skincare #beleza #produtonacional | Nariz Sincero, Ponto de Virada | 388 | há 1 ano
+sérum vitamina c20 l'amazonie | 4 | Resenha sérum anti-manchas L'amazonie #products #skincare #anti-dark spots #skincare | Teriany Barbosa | 220 | há 1 ano
+sérum vitamina c20 l'amazonie | 5 | Serum C20 AdaTina - resenha após uso de 1 frasco. | Luciana Vilela | 24 mil | há 6 anos
+sérum vitamina c20 l'amazonie | 6 | Especialista Avalia Vitamina C. Clareia manchas? É boa pra Acne? Rugas? | Dra. Greice Moraes | 136 mil | há 3 anos
+sérum vitamina c20 l'amazonie | 7 | Improve C20 Biotic Dermage - vitamina C com ácido ferúlico nano, vitamina E e Prebióticos - resenha | Luciana Vilela | 5,2 mil | há 2 anos
+sérum vitamina c20 l'amazonie | 8 | VITAMINA C - QUANDO e COMO você DEVE USAR esse antioxidante no seu SKINCARE | Dra. Marina Hayashida | 125 mil | há 2 anos
+# CONSULTA: protetor solar l'amazonie | itens carregados: 10 | prateleiras de Shorts: 3
+protetor solar l'amazonie | 1 | SÉRUM DE CRESCIMENTO DE SOBRANCELHAS E CÍLIOS L'AMAZONIE SKINCARE | SAINDO DO COMUM OFICIAL | 425 | há 3 meses
+protetor solar l'amazonie | 2 | Minha OPINIÃO honesta sobre os MELHORES protetores solares SEM COR para o DIA A DIA | Dra. Marina Hayashida | 21 mil | há 3 sem.
+protetor solar l'amazonie | 3 | Biosole Oxy FPS85 AdaTina - resenha do protetor solar clareador com ação antioxidante | Luciana Vilela | 16 mil | há 2 anos
+protetor solar l'amazonie | 4 | Minha OPINIÃO honesta sobre os MELHORES protetores solares COM COR e cobertura leve! | Dra. Marina Hayashida | 17 mil | há 1 mês
+protetor solar l'amazonie | 5 | Os Novos Protetores Solares Que Chegaram no Mercado, Vale a Pena? | Dra Caroline Hespanhol - Dermatologia & Saúde | 2,2 mil | há 1 mês
+protetor solar l'amazonie | 6 | L'Amazonie Skincare!! #skincare #beleza #produtonacional | Nariz Sincero, Ponto de Virada | 388 | há 1 ano
+protetor solar l'amazonie | 7 | Os Melhores Protetores Solares Clareadores de Manchas e Melasmas | Dra. Greice Moraes | 617 mil | há 3 anos
+protetor solar l'amazonie | 8 | SÉRUM DE CRESCIMENTO DE SOBRANCELHAS E CÍLIOS L'AMAZONIE SKINCARE | SAINDO DO COMUM OFICIAL | 1,4 mil | há 5 meses
+protetor solar l'amazonie | 9 | O Protetor Solar Coreano Certo Pra Cada Tipo de Pele (Testei os Top 3 de Cada) | Dra Caroline Hespanhol - Dermatologia & Saúde | 2,2 mil | há 2 meses
+protetor solar l'amazonie | 10 | TUDO sobre protetor solar. OS MELHORES PROTETORES QUE EU JÁ TESTEI. | Bruna Naomi Saito | 33 mil | há 6 meses
+# CONSULTA: creme clareador íntimo l'amazonie | itens carregados: 2 | prateleiras de Shorts: 2
+creme clareador íntimo l'amazonie | 1 | Qual o melhor Clareador de Virilha e Axila Barato? - Top 3 Melhores Clareadores de Virilha em 2026 | Promo para Elas | 751 | há 4 meses
+creme clareador íntimo l'amazonie | 2 | Protocolo Clareador Intimo Dita Cuja - funciona mesmo? Análise com farmacêutica | Cássia Mariano | 1,4 mil | há 1 ano
+# CONSULTA: melhor serum para sobrancelha crescer | itens carregados: 7 | prateleiras de Shorts: 5
+melhor serum para sobrancelha crescer | 1 | RESENHA: SÉRUM DE CRESCIMENTO PARA CÍLIOS E SOBRANCELHAS DA NIRAJ - Isabela Martin | Dicas da Isa Martin | 11 mil | há 1 ano
+melhor serum para sobrancelha crescer | 2 | SÉRUM DE CRESCIMENTO DE SOBRANCELHAS E CÍLIOS L'AMAZONIE SKINCARE | SAINDO DO COMUM OFICIAL | 1,4 mil | há 5 meses
+melhor serum para sobrancelha crescer | 3 | Natura Una: Sérum Cílios e Sobrancelha | Rafael Mermejo - Consultor Natura e Avon | 19 mil | há 7 anos
+melhor serum para sobrancelha crescer | 4 | Melhor Produto Para Crescer Sobrancelhas e Cílios | e-Praticidade | 5 mil | há 5 anos
+melhor serum para sobrancelha crescer | 5 | Máscara Sérum Ruby Rose x Gel Incolor Game On Ruby Rose - Cílios e Sobrancelhas: QUAL O ME | Beleza com Lari | 32 mil | há 2 anos
+melhor serum para sobrancelha crescer | 6 | RESENHA ETUDE MY LASH SERUM - UMA DAS MELHORES COISAS QUE JÁ USEI NA VIDA - ÓTIMO CUSTO-BE | Skincare do Danilo | 15 mil | há 3 anos
+melhor serum para sobrancelha crescer | 7 | CÍLIOS E SOBRANCELHAS longos e grossos RAPIDAMENTE! Apenas 1 Produto Cresce em 2 semanas! | Dra. Greice Moraes | 39 mil | há 4 anos
+# CONSULTA: sérum para cílios e sobrancelhas funciona | itens carregados: 3 | prateleiras de Shorts: 5
+sérum para cílios e sobrancelhas funciona | 1 | CÍLIOS E SOBRANCELHAS longos e grossos RAPIDAMENTE! Apenas 1 Produto Cresce em 2 semanas! | Dra. Greice Moraes | 39 mil | há 4 anos
+sérum para cílios e sobrancelhas funciona | 2 | RESENHA: SÉRUM DE CRESCIMENTO PARA CÍLIOS E SOBRANCELHAS DA NIRAJ - Isabela Martin | Dicas da Isa Martin | 11 mil | há 1 ano
+sérum para cílios e sobrancelhas funciona | 3 | PRODUTO PARA RECUPERAR OS CILIOS | Loba | 47 mil | há 3 anos
+# CONSULTA: protetor solar fps 99 | itens carregados: 8 | prateleiras de Shorts: 5
+protetor solar fps 99 | 1 | Protetor Anti-Melasma? Ada tina Biosole Extreme FPS 99 Máximo Bloqueio! PROTETOR SOLAR FAC | Felipe Scarabeli | 18 mil | há 3 anos
+protetor solar fps 99 | 2 | O PROTETOR MAIS PODEROSO DA ANASOL! TODO SANTO DIA ANTIOLEOSIDADE FPS 99! | Felipe Scarabeli | 3,2 mil | há 5 meses
+protetor solar fps 99 | 3 | Protetor Solar Principia PS03 FPS 45 e FPS 99 Com Niacinamida 2%, Resenha | Dra. Greice Moraes | 13 mil | há 1 ano
+protetor solar fps 99 | 4 | NOVO PS-01 COM FPS 99 2025! O PROTETOR SOLAR FACIAL MAIS PODEROSO DA PRINCIPIA COM 5% DE N | Felipe Scarabeli | 8,5 mil | há 1 ano
+protetor solar fps 99 | 5 | 12 HORAS DE PROTEÇÃO! Protetor Solar Facial Normalize Extreme Protection FPS 99 Pele Oleos | Felipe Scarabeli | 8,8 mil | há 3 anos
+protetor solar fps 99 | 6 | Protetor Solar Adcos Fluid Máxima Proteção FPS99 | Farmadelivery | 2,8 mil | há 6 anos
+protetor solar fps 99 | 7 | FPS 99! NOVO PROTETOR PRINCIPIA 2025 - PS-03 FPS 99 PROTETOR SOLAR CORPORAL COM 2% DE NIAC | Felipe Scarabeli | 10 mil | há 1 ano
+protetor solar fps 99 | 8 | FPS60 OU FPS99! QUAL PROTETOR ANTIOLEOSIDADE DA ANASOL ESCOLHER? TODO SANTO DIA! | Felipe Scarabeli | 1,6 mil | há 5 meses
+# CONSULTA: creme clareador para virilha funciona | itens carregados: 7 | prateleiras de Shorts: 5
+creme clareador para virilha funciona | 1 | 4 opções de clareadores de partes íntimas (virilha, vulva, região perianal,axilas e entre | Dra Caroline Hespanhol - Dermatologia & Saúde | 1 mi | há 3 anos
+creme clareador para virilha funciona | 2 | Como clarear manchas nas virilhas e axilas em casa (forma segura e eficaz) | Julia Riara Dermatologia | 14 mil | há 1 ano
+creme clareador para virilha funciona | 3 | Protocolo Clareador Intimo Dita Cuja - funciona mesmo? Análise com farmacêutica | Cássia Mariano | 1,4 mil | há 1 ano
+creme clareador para virilha funciona | 4 | CLAREIA AXILAS E VIRILHAS sem gastar quase nada | Nick Martins | 2,1 mi | há 6 anos
+creme clareador para virilha funciona | 5 | 7 CLAREADORES BARATOS DE AXILA E VIRILHA QUE VOCÊ PRECISA CONHECER | Dra Caroline Hespanhol - Dermatologia & Saúde | 28 mil | há 1 ano
+creme clareador para virilha funciona | 6 | BIODERMA PIGMENTBIO CLAREADOR DE AXILAS, VIRILHA, JOELHO: 60 DIAS DE TESTE COM FOTOS! | Mariana Dino | 201 mil | há 5 anos
+creme clareador para virilha funciona | 7 | Eucerin Anti-Pigment Corporal Áreas Específicas Clareador de Axilas, Virilha, Joelho: 60 d | Mariana Dino | 19 mil | há 11 meses
+# CONSULTA: protetor solar em bastão com cor | itens carregados: 10 | prateleiras de Shorts: 5
+protetor solar em bastão com cor | 1 | Será que Tem Diferença? PROTETOR COM COR em BASTÃO OLLIE vs SALLVE | Tour da Beleza | 114 mil | há 1 ano
+protetor solar em bastão com cor | 2 | Testei o Novo Protetor Com Cor em Stick da Sallve, Cumpre com o Que Promete ? | Tour da Beleza | 128 mil | há 1 ano
+protetor solar em bastão com cor | 3 | Novidade de Farmácia: Testei o Protetor Com Cor em Bastão Neutrogena | Tour da Beleza | 88 mil | há 2 meses
+protetor solar em bastão com cor | 4 | Comparativo de 12 Protetores Stick com Cor Sallve, Ollie, Adcos, Dermage… | Universo Gisa | 14 mil | há 3 meses
+protetor solar em bastão com cor | 5 | protetor solar em bastão sallve: vale a pena? [cupom de terceiro omitido] | talita felyx | 12 mil | há 1 ano
+protetor solar em bastão com cor | 6 | Desvendando a Verdade: Por que não uso PROTETOR SOLAR em BASTÃO? | Dra. Greice Moraes | 101 mil | há 2 anos
+protetor solar em bastão com cor | 7 | ESPECIAL PROTETOR SOLAR EM BASTÃO Sallve Needs AHC Latika | Gustavo Saber | 19 mil | há 2 anos
+protetor solar em bastão com cor | 8 | PROTETOR COM COR em Stick, Pink Cheeks vs Sunless, Qual comprar? @TourdaBeleza | Tour da Beleza | 138 mil | há 2 anos
+protetor solar em bastão com cor | 9 | PROTETOR SOLAR COM COR EM BASTAO NEEDS, RESENHA | Dicas da Tia - De Leila Friolando | 11 mil | há 2 anos
+protetor solar em bastão com cor | 10 | Melhor PROTETOR Com COR Baratinho De FARMÁCIA? Testei SUNLESS PROTETOR STICK fps 50 Efei | Tour da Beleza | 165 mil | há 2 anos
