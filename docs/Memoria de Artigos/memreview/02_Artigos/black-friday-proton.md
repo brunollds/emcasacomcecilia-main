@@ -58,8 +58,12 @@ texto e dois prints da página que ele abre. O Job 1 leu a mesma página sem pas
 - **O desconto entra sozinho:** os botões da página levam o código da campanha no endereço. **O código não vai em
   texto, FAQ, legenda nem imagem,** e o artigo não publica o endereço da página de parceiros: o `cta` é sempre o link
   de afiliado, que é o que conta a assinatura. O leitor não copia nada.
-- **O que a página não diz:** data de fim (o painel também não, Bruno, 17/11) e se vale para quem já tem conta. A
-  redação confere o rodapé da página antes de afirmar quem pode; sem a leitura, não escreve.
+- **Quem pode** (FAQ da página, colado pelo Bruno em 17/11): "todos os novos usuários". Quem já tem conta não entra
+  na oferta da página.
+- **Como o desconto é calculado** (mesmo FAQ): sobre o preço mensal regular, R$ 34,99 no VPN Plus e R$ 45,49 no
+  Unlimited. É a Proton dizendo, então a frase do "-75% é sobre o mensal" vai com atribuição.
+- **Renovação** (mesmo FAQ): renova sozinha, pelo preço padrão, a cada ciclo, até cancelar.
+- **O que a página não diz:** data de fim (o painel também não, Bruno, 17/11). Não escrever prazo.
 - **Prints do Bruno** (em reais e em dólar): `C:\Users\Bruno\OneDrive\Imagens\Capturas de tela\Screenshot 2026-11-17
   194714.png` e `…194725.png`. Entram pelo fluxo de mídia do Job 6, com o endereço do navegador cortado se mostrar
   o código; o em reais só no PT.
@@ -112,8 +116,8 @@ parceiros, e veículos em inglês.
    para quem já decidiu ficar. Sem recomendar o de 2 anos a quem nunca usou.
 7. **VPN Plus sozinho ou Unlimited.** O que cada um inclui e a soma dos Plus avulsos. Para quem só quer a VPN, o
    Unlimited não se paga; dizer isso.
-8. **Quem pode.** Contas novas; quem já tem conta vê as ofertas dele depois de entrar (não lidas). A página não
-   publica data de fim: dizer isso e não inventar prazo.
+8. **Quem pode.** Usuários novos, na página de parceiros e nas públicas; quem já tem conta vê as ofertas dele depois
+   de entrar (não lidas). A página não publica data de fim: dizer isso e não inventar prazo.
 9. **Como assinar pelo link.** Sem código: abrir a Proton pelo botão, escolher o plano, conferir a moeda e o total no
    checkout. Pagamento: cartão e PayPal, segundo a Proton; Pix não aparece.
 10. **Se não gostar.** Reembolso em 30 dias da compra inicial, pelo formulário de suporte, uma vez por usuário; não
@@ -194,5 +198,5 @@ Vira guia de 2027 ou sai do ar; decisão na revisão de dezembro. A conta "1 ano
 | Pelo link: VPN Plus de 2 anos, 75%, R$ 8,79 por mês, R$ 210,96 nos 24 meses, renova por R$ 293,88 ao ano | página de parceiros lida em 17/11; texto e prints do Bruno | verificado; reler no dia |
 | "Exclusivamente por meio dos nossos parceiros" | página de parceiros | frase da Proton, entre aspas |
 | Código da campanha | endereço dos botões da página | não publicar |
-| A oferta de parceiros vale para quem já tem conta | não lido | conferir antes de afirmar |
+| A oferta de parceiros é para usuários novos; desconto sobre o preço mensal; renova pelo preço padrão | FAQ da página de parceiros (Bruno, 17/11) | verificado |
 | Página de ofertas: VPN Plus de 24 meses a R$ 10,49 por mês (R$ 251,76), de 12 meses a R$ 13,99 por mês | `protonvpn.com/pt-br/vpn-deals`, 17/11 | verificado; reler |

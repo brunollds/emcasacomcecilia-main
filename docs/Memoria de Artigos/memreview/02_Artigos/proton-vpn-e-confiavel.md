@@ -91,7 +91,8 @@ Sem quadro `decision` (editorial) e sem card de estilo. O link para a loja apare
 ## Cuidados
 
 - **Uso próprio (Bruno, 17/11): só o Proton Mail.** O artigo pode dizer, em uma frase, que usamos o Proton Mail, da
-  mesma empresa, com o que o Bruno confirmar na redação (plano e desde quando). **Do Proton VPN não há uso:** sem
+  mesma empresa: o plano gratuito, há quase dez anos (Bruno, 17/11: "uns 5 a 10 anos, próximo dos 10"). A frase diz "plano gratuito" e
+  "há quase dez anos", sem número exato, e não fala de recurso pago. **Do Proton VPN não há uso:** sem
   "testamos", sem teste de vazamento, sem velocidade.
 - Nunca "100% seguro", "anônimo", "impossível de rastrear", "a polícia não rastreia". A pergunta "a polícia pode
   rastrear uma VPN?" não entra no FAQ.
