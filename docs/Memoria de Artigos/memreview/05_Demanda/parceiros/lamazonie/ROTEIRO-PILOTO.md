@@ -81,8 +81,8 @@ como está (zero observado é `0`; relatório sem a linha é `@indisponivel`).
   `nossos-dados.csv` com a ressalva, em `qualidade`, de que são outra loja, e com o que as separa da L'Amazonie:
   mercado (a YesStyle é loja internacional, em 10 idiomas), entrega ao Brasil na data da leitura e maturidade das
   páginas (há quanto tempo estão no ar e quantos artigos têm).
-- Cobertura: `/cupons/lamazonie` (no ar) e os seis briefings LZ1 a LZ6 em `02_Artigos/`, cada um com o estado que
-  tiver no dia da leitura. A fonte é o próprio repositório: `evidencia` aponta o arquivo e o trecho.
+- Cobertura: `/cupons/lamazonie` e os seis artigos LZ1 a LZ6 (no ar desde 16/11/2026; conferir o estado no site no
+  dia da leitura, não pela ficha do vault). A fonte é o próprio repositório: `evidencia` aponta o arquivo e o trecho.
 - Se o navegador embutido não estiver logado numa plataforma, a IA não faz login: a linha fica `@indisponivel` e a
   pendência vai para o `DIARIO.md`.
 
