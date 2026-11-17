@@ -41,7 +41,7 @@ traduções nos outros nove idiomas (`/<idioma>/coupons/proton`). É a primeira 
 Nunca chamar o link de cupom nem prometer desconto ou percentual. Código promocional da própria Proton não entra
 em página nem em artigo sem exceção dada pelo Bruno. Preço só com a moeda e a data da leitura: a Proton cobra em
 dólar, euro ou franco suíço. Nos artigos, usar `affiliate: "proton"` e link relativo para `/cupons/proton`,
-conforme `docs/CONTRATO-ARTIGO-AFILIADO.md`. `INTERNATIONAL_STORES` só com a confirmação do Bruno.
+conforme `docs/CONTRATO-ARTIGO-AFILIADO.md`. Está em `INTERNATIONAL_STORES` desde 17/11/2026: o Bruno confirmou que o programa conta assinaturas de qualquer país, e as campanhas dos 10 idiomas podem levar os links da Proton.
 
 ---
 
