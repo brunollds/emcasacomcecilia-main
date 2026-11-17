@@ -7,9 +7,9 @@ parceiro_slug: "lamazonie"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2), primeiro do pacote"
+proxima_acao: "deploy (decisão do Bruno); refazer o teste do código na semana de 27/11"
 bloqueado_por: "-"
 data_criacao: "2026-11-16"
 pauta_id: "LZ1"
@@ -153,3 +153,13 @@ botão "Finalizar compra" na gaveta.
 | Cashback acumula com o código | nenhuma | não escrever |
 | Valor mínimo, limite de usos | nenhuma | não escrever |
 | Motivo da recusa no `/checkout` | nenhuma | não escrever |
+
+## Redação, revisão e JSON (16/11/2026)
+
+Job 2 e Job 4 pela sessão de artigos, a partir deste briefing e do carrinho refeito no dia ([[lamazonie-fatos-1611]], seção 10). Job 3 por subagente Fable: 14 achados aplicados. JSON em `content/reviews/cupom-lamazonie-como-usar.json`.
+
+O que mudou em relação ao esqueleto: o capítulo da recusa fala só do endereço `lamazonie.com.br/checkout`, que foi o que se verificou; a página `/cart` de hoje não tem campo de cupom e o botão dela leva ao checkout próprio.
+
+## Capa e imagens (aprovadas pelo Bruno em 16/11/2026)
+
+Capa no painel lateral, `imageFit: contain`: primeira foto oficial do sérum (frasco e caixa, `PG_SS_01` da página do produto), chamada "Como usar o cupom" e o código. Upload ao CDN autorizado no mesmo dia. Corpo: o print `cupom-lamazonie-checkout-com-cupom.webp`, que já estava no CDN.
