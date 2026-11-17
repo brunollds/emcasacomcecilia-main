@@ -38981,7 +38981,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Assinatura Dolce Gusto com o cupom CECI (10% OFF a partir de R$ 100): 25% de desconto, frete grátis, mínimo de 3 caixas e como cancelar.",
     "publishedAt": "3 de agosto de 2026",
     "publishedAtISO": "2026-08-03",
-    "updatedAt": "2026-11-06",
+    "updatedAt": "2026-11-17",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/dolcegusto/assinatura-dolce-gusto-como-funciona-capa-v2.webp",
@@ -39079,7 +39079,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os cupons direcionados a assinantes. O regulamento não diz se o **CECI**, o cupom de parceria do Em Casa com Cecília, entra nessa exceção. Na prática, o checkout o aceitou.",
           "Num pedido de assinatura de 4 caixas de R$ 29,90 (R$ 119,60), o checkout aplicou os 25% da assinatura e mais 5% do **CECI**, que era o desconto dele na época: o total ficou em R$ 85,22. Isso foi no primeiro pedido; nas entregas seguintes, o desconto pode não se repetir.",
-          "Hoje o CECI dá 10% a partir de R$ 100 em produtos, e o pedido mínimo da assinatura, de 3 caixas, pode ficar abaixo disso. Antes de concluir, procure a linha do cupom no resumo do pedido. Se ela não aparecer, a assinatura segue com os 25% normalmente."
+          "Hoje o CECI dá 10% a partir de R$ 100. No teste de novembro, sem finalizar a compra, ele entrou num carrinho de assinatura de R$ 101,04 (R$ 10,10 de desconto) e foi recusado num de R$ 67,36: o mínimo contou sobre o subtotal já com o desconto da assinatura, e o pedido mínimo de 3 caixas pode ficar abaixo dele. Antes de concluir, procure a linha do cupom no resumo do pedido. Se ela não aparecer, a assinatura segue com o desconto do plano."
         ],
         "links": [
           {
@@ -39137,7 +39137,7 @@ export const reviewsData: unknown[] = [
           "A assinatura Dolce Gusto tem mensalidade? Não. No plano regular não há mensalidade, taxa de adesão ou taxa de cancelamento: você paga só as caixas do pedido.",
           "Qual é o pedido mínimo da assinatura Dolce Gusto? São 3 caixas de bebidas por entrega.",
           "Posso misturar cápsulas Geração 1 e NEO na mesma assinatura? Sim. O FAQ oficial diz que as duas linhas podem estar na mesma assinatura.",
-          "O cupom CECI funciona na assinatura Dolce Gusto? Sim: num pedido de 4 caixas, o CECI, que dava 5% na época, somou com os 25% da assinatura. Hoje ele dá 10% a partir de R$ 100 em produtos; confira a linha do cupom no resumo antes de pagar.",
+          "O cupom CECI funciona na assinatura Dolce Gusto? Sim. No nosso teste, o CECI deu 10% num carrinho de assinatura acima de R$ 100 e foi recusado abaixo desse valor. Confira a linha do cupom no resumo antes de pagar.",
           "Como cancelar a assinatura Dolce Gusto? Pela área Minha Assinatura no site oficial ou pelo e-mail atendimento.dolcegusto@nestle.com.br, até 1 dia antes do próximo pedido.",
           "Se eu cancelar e assinar de novo, ganho os 1.000 pontos outra vez? Não. A nova assinatura tem 25% e frete grátis, mas os 1.000 pontos são uma vez por CPF.",
           "O que acontece se o cartão for recusado? A loja tenta cobrar 3 vezes em 3 dias seguidos, e três erros consecutivos na recorrência cancelam a assinatura.",
@@ -52554,7 +52554,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Assinatura Dolce Gusto vale a pena? A conta com 25% de desconto e frete grátis, quando a promoção avulsa sai mais barata e o que o cupom CECI e a máquina grátis entregam.",
-    "metaDescription": "Assinatura Dolce Gusto: o CECI dá 10% OFF na loja a partir de R$ 100; na assinatura, o acúmulo foi testado com o código em 5%. Veja a conta dos 25%.",
+    "metaDescription": "Assinatura Dolce Gusto: o CECI dá 10% OFF a partir de R$ 100 e somou com a assinatura no nosso teste. Veja a conta dos 25%.",
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
     "draft": false,
@@ -52565,7 +52565,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "25% de desconto e frete grátis em todos os pedidos",
-      "Cupom CECI de 5% foi aceito na assinatura, no teste",
+      "Cupom CECI de 10% foi aceito na assinatura, no teste",
       "Geração 1 e NEO na mesma assinatura",
       "Cancela sem multa até 1 dia antes do pedido"
     ],
@@ -52579,7 +52579,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: a assinatura vale a pena?",
         "paragraphs": [
-          "Vale a pena para quem usa pelo menos 3 caixas a cada 1, 2 ou 3 meses: o desconto é de 25% e o frete é grátis. Em promoção avulsa, comprar sem assinatura pode sair mais barato. O CECI dá 10% na loja a partir de 100 reais; na assinatura, nosso teste foi com o código em 5%."
+          "Vale a pena para quem usa pelo menos 3 caixas a cada 1, 2 ou 3 meses: o desconto é de 25% e o frete é grátis. Em promoção avulsa, comprar sem assinatura pode sair mais barato. O CECI dá 10% a partir de 100 reais e, no nosso teste, somou com a assinatura."
         ]
       },
       {
@@ -52657,7 +52657,7 @@ export const reviewsData: unknown[] = [
             "Caixas por mês",
             "Preço cheio",
             "Na assinatura (25%)",
-            "Com CECI de 10%, se aceito na assinatura (estimativa)"
+            "Com CECI de 10% (conta nossa)"
           ],
           "rows": [
             [
@@ -52685,7 +52685,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Quem toma pouco café pode escolher entregas a cada 2 ou 3 meses. Um exemplo é receber 6 caixas a cada 2 meses, em vez de 3 todo mês. Assim o pedido supera o mínimo de R$ 100 do CECI.",
-          "O CECI vale para compras a partir de R$ 100. O checkout o aplicou num subtotal de R$ 119,60, que ficou em R$ 89,70 depois dos 25%, por isso a tabela considera o subtotal antes do desconto. O checkout pode arredondar alguns centavos."
+          "O CECI vale para compras a partir de R$ 100. No nosso teste mais recente, o site recusou o código num carrinho de assinatura abaixo desse valor e aceitou acima dele, com o subtotal já descontado. Por isso a tabela só calcula o cupom quando o valor da assinatura passa de R$ 100. O checkout pode arredondar alguns centavos."
         ]
       },
       {
@@ -52722,7 +52722,7 @@ export const reviewsData: unknown[] = [
               "Conforme o carrinho"
             ],
             [
-              "Assinatura + CECI de 10%, se aceito (estimativa)",
+              "Assinatura + CECI de 10%, em pedido a partir de R$ 100 (conta nossa)",
               "R$ 17,48",
               "R$ 1,75",
               "Grátis"
@@ -52743,8 +52743,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom CECI soma com a assinatura?",
         "paragraphs": [
-          "No teste de 04/10/2026, o CECI de 5% somou com a assinatura. O item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os direcionados a assinantes. O teste registra a aceitação naquele pedido; o acúmulo do CECI atual, de 10%, precisa ser conferido no checkout.",
-          "Num dos nossos testes fechamos um pedido de assinatura com 4 caixas de R$ 29,90 e o cupom CECI. O resumo do checkout ficou assim:"
+          "O CECI soma com a assinatura. No teste de 17/11/2026, sem finalizar a compra, um carrinho de assinatura com 6 caixas, de R$ 101,04, recebeu a linha \"Você ganhou 10% OFF!\": R$ 10,10 de desconto e total de R$ 90,94. Nesse dia, a assinatura mostrava 35% no primeiro pedido, e as caixas de R$ 25,90 saíam por R$ 16,84. Com 4 caixas, em R$ 67,36, o site recusou o código: o mínimo de R$ 100 contou sobre o subtotal já com o desconto da assinatura. O item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os direcionados a assinantes; por isso, confira a linha do desconto no seu resumo.",
+          "Em 04/10/2026, com o CECI ainda em 5%, fechamos um pedido de assinatura com 4 caixas de R$ 29,90. O resumo do checkout ficou assim:"
         ],
         "image": {
           "src": "/images/reviews/cupons/nescafe-dolce-gusto-passo-1.webp",
@@ -52769,7 +52769,7 @@ export const reviewsData: unknown[] = [
               "− R$ 29,90"
             ],
             [
-              "Cupom CECI: 5% OFF no dia do teste (hoje, 10%)",
+              "Cupom CECI: 5% OFF no dia do teste",
               "− R$ 4,49"
             ],
             [
@@ -52779,7 +52779,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Nesse pedido, cada caixa saiu por cerca de **R$ 21,31**, e o desconto total foi de R$ 34,38. Se o CECI de 10% for aceito sobre o valor após os 25%, o mesmo pedido sairia por cerca de R$ 80,73.",
+          "Nesse pedido, cada caixa saiu por cerca de **R$ 21,31**, e o desconto total foi de R$ 34,38. Naquele pedido, o código entrou com o valor em R$ 89,70 depois dos 25%; no teste de novembro, o carrinho abaixo de R$ 100 foi recusado.",
           "Digite CECI no campo de cupom do checkout e confira a linha do desconto. Se o código não for aplicado, compare o total da assinatura com a compra avulsa antes de concluir o pedido."
         ],
         "links": [
@@ -52846,7 +52846,7 @@ export const reviewsData: unknown[] = [
           "Qual é a assinatura mais barata da Dolce Gusto? O pedido mínimo é de 3 caixas por entrega. Com caixas de Geração I regulares, sai em cerca de R$ 58 por entrega; os preços atuais estão no montador.",
           "A assinatura mostra o preço com desconto? Sim: no montador, cada caixa já aparece com os 25%, e o preço cheio fica riscado ao lado.",
           "A assinatura Dolce Gusto dá máquina grátis? Não. O plano de 2018 com máquina grátis foi encerrado, e hoje a Mini Me de brinde vem da promoção por volume de caixas.",
-          "O CECI acumula com a assinatura Dolce Gusto? Quando valia 5%, o código somou com os 25% da assinatura. Hoje o CECI é de 10%; confira no checkout se ele entra na assinatura.",
+          "O CECI acumula com a assinatura Dolce Gusto? No nosso teste, sim: o código deu 10% num carrinho de assinatura de R$ 101,04. Abaixo de R$ 100, o site recusou o cupom. Confira a linha do desconto no resumo.",
           "A promoção de caixas com Mini Me vale na assinatura? Não. O regulamento diz que promoções do site não se somam às compras da assinatura.",
           "Dá para pagar a assinatura parcelado? Não. A assinatura aceita só cartão de crédito Visa, Mastercard ou Elo, sem parcelamento."
         ]
