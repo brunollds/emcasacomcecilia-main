@@ -46,8 +46,9 @@ navegador do app, sem login, sem criar conta e **sem abrir os links de afiliado*
 - **Nada de promessa de streaming** ("desbloqueia a Netflix") nem de driblar bloqueio de site ou de serviço. O que a
   Proton anuncia entra como "segundo a Proton". Nenhuma orientação para violar termos de serviço ou a lei.
 - **Experiência própria (Bruno, 17/11): só o Proton Mail.** Do Proton VPN, do Pass, do Drive e do Lumo não há uso:
-  sem "testamos", sem medida de velocidade. O Proton Mail pode ser citado como o produto que usamos, com o que o
-  Bruno confirmar na redação (plano e desde quando).
+  sem "testamos", sem medida de velocidade. O Proton Mail pode ser citado como o produto que usamos:
+  o plano gratuito, há quase dez anos (Bruno, 17/11: "uns 5 a 10 anos, próximo dos 10"). A frase diz "plano gratuito" e
+  "há quase dez anos", sem número exato, e não fala de recurso pago.
 - **Concorrentes:** a tabela comparativa do site é material da Proton. Não reproduzir como fato nosso e não fazer
   "Proton ou X" neste pacote.
 
@@ -158,14 +159,15 @@ Fontes: `protonvpn.com/pt-br/pricing`, `protonvpn.com/pt-br/black-friday` e `pro
 
 ## 8. Respostas do Bruno (17/11/2026) e o que ainda falta
 
-1. **Uso próprio:** só o Proton Mail.
+1. **Uso próprio:** só o Proton Mail, no plano gratuito, há quase dez anos.
 2. **Painel:** o link é o que ele enviou, da campanha atual, com 75% OFF.
 3. **Data de fim:** o painel não informa.
 4. **Idiomas:** 10.
 
 **Recebido em 17/11:** o texto e dois prints da página que o link abre (em reais e em dólar), conferidos com a leitura
-da página de parceiros. Falta o plano do Proton Mail que o Bruno usa e desde quando, para a frase de uso, e saber
-se a oferta de parceiros vale para quem já tem conta.
+da página de parceiros. O FAQ da mesma página (colado pelo Bruno) diz que a oferta é para
+"todos os novos usuários", que o desconto é sobre o preço mensal regular e que a renovação é pelo preço padrão. Não
+falta nada do Bruno para a redação.
 
 ## 9. Recado para a sessão de cupons (`/cupons/proton`)
 
