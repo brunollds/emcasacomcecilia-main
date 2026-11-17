@@ -7,10 +7,10 @@ parceiro_slug: "lamazonie"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Marca"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2), depois da LZ3; antes, ler o rótulo do sérum (lista INCI e volume)"
-bloqueado_por: "rótulo do sérum (lista INCI): sem ele, o capítulo de composição sai reduzido"
+proxima_acao: "deploy (decisão do Bruno)"
+bloqueado_por: "-"
 data_criacao: "2026-11-16"
 pauta_id: "LZ5"
 i18n_cluster: null
@@ -168,3 +168,13 @@ garantia.
 | 4,9 em 261 avaliações | vitrine da loja, 16/11 | "avaliações publicadas no site da marca"; reler |
 | Funciona, não funciona, é seguro na gestação, causa queda | nenhuma | não escrever |
 | Resenha independente | não encontrada em 16/11 | dizer que não encontramos; buscar de novo |
+
+## Redação, revisão e JSON (16/11/2026)
+
+Job 2 e Job 4 pela sessão de artigos, a partir deste briefing e da releitura da página do sérum e das perguntas frequentes ([[lamazonie-fatos-1611]], seção 12). Job 3 por subagente Fable: 19 achados aplicados. JSON em `content/reviews/lamazonie-e-boa.json`, com quadro `decision`.
+
+**Capítulo de composição na versão reduzida:** o rótulo (lista INCI) segue sem leitura. O texto diz que a página não publica a lista, que não vimos o rótulo e que a caixa da foto oficial indica 4 ml. Com o rótulo em mãos, o capítulo ganha a tabela do esqueleto. Ficaram fora, por não terem sido relidos no dia: o relato de queda de fios do Reclame Aqui, os vídeos de terceiros e "primeiros resultados em duas semanas".
+
+## Capa e imagens (aprovadas pelo Bruno em 16/11/2026)
+
+Folha de aprovação mostrada no chat; upload ao CDN autorizado no mesmo dia. Capa no painel lateral: frasco aberto do sérum (`PG_SS_03`, recortada sem o texto), chamada "É boa? O sérum funciona?" e o código. Sem pessoa na foto: as fotos com rosto da página são de antes e depois. Corpo: `lamazonie-e-boa-serum-frasco-caixa.webp` (`PG_SS_01`, frasco e caixa com "4ml").

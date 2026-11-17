@@ -7,9 +7,9 @@ parceiro_slug: "lamazonie"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2), depois da LZ3 e da LZ2"
+proxima_acao: "deploy (decisão do Bruno)"
 bloqueado_por: "-"
 data_criacao: "2026-11-16"
 pauta_id: "LZ4"
@@ -117,3 +117,13 @@ print `/images/reviews/lamazonie/cupom-lamazonie-checkout-com-cupom.webp`.
 | Cashback acumula com o código | nenhuma | não escrever |
 | Valor mínimo, limite de usos | nenhuma | não escrever |
 | Qualquer cupom da própria loja ou de terceiros | fora do texto | não escrever |
+
+## Redação, revisão e JSON (16/11/2026)
+
+Job 2 e Job 4 pela sessão de artigos. Job 3 por subagente Fable: 11 achados aplicados. JSON em `content/reviews/cupom-lamazonie-primeira-compra.json`. A conta é a do teste de 16/11; não houve carrinho novo.
+
+O que mudou em relação ao esqueleto, pelas lições dos pareceres externos: o primeiro capítulo apresenta a loja e leva à LZ3; o caminho do checkout é descrito como resultado do teste (sem "só entra"); o kit e o Pix aparecem como o que foi visto no carrinho testado; FAQ "Como conseguir desconto na primeira compra"; a devolução traz o contraponto do Procon-SP.
+
+## Capa e imagens (aprovadas pelo Bruno em 16/11/2026)
+
+Capa da série: "Bem-vindo, 5% OFF" e o código, sobre a foto oficial dos três frascos do sérum (`serum-sobrancelha-kit-3-frascos-v2`). Corpo: o print `cupom-lamazonie-checkout-com-cupom.webp`, que já estava no CDN.

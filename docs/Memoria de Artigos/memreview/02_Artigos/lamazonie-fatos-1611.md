@@ -367,3 +367,11 @@ No navegador do app, sem login e sem dados pessoais.
 - **Site, relido:** `/pages/garantia`, `/pages/trocas-e-devolucoes` e `/policies/shipping-policy` batem com as seções 6, 9.2 e 9.3. A política de frete acrescenta: compensação de 24 a 72 horas antes do despacho; prazo conta da postagem; rastreio por e-mail e em Meus Pedidos; endereço errado ou incompleto, frete cobrado de novo e reembolso só dos produtos; a loja diz que o prazo é de responsabilidade dos Correios e da Total Express.
 - **Rodapé do site:** ABRAHAO VAREJISTA LTDA, CNPJ 60.522.061/0001-40, Serra (ES); atendimento de segunda a sexta das 9h às 19h e sábado das 8h às 12h (o perfil do Reclame Aqui traz 9h às 18h). O WhatsApp da página da garantia, da consultora, é outro número.
 - **Não abertos:** portal de consultas da Anvisa e anúncios do Mercado Livre. A LZ3 não usa "ATIVO" nem preço de marketplace.
+
+## 12. Leituras da redação da LZ5 e da LZ4 (16/11/2026)
+
+- **Página do sérum (`/products/serum-fortalecedor-de-sobrancelhas`):** 4,9 em 261 avaliações; R$ 159,00 (6x de R$ 26,50; R$ 154,23 no Pix); 2 unidades R$ 249,00 (R$ 124,50 cada) e 3 unidades R$ 329,00 (R$ 109,67 cada), as duas com o selo de frete grátis; "Cada frasco rende de 25 a 30 dias com uma camada fina, 2 vezes ao dia".
+- **Cashback, texto da página:** "15% de volta em cashback. Vira crédito para usar na sua próxima compra aqui no site" e "O cashback tem validade e cobre até 30% do próximo pedido". Exclusivo do site.
+- **Bloco "por dentro da fórmula":** "A tecnologia funciona como um drone que entrega os ativos diretamente onde seus fios mais precisam"; peptídeos e fatores de crescimento, sem nomes nem concentração. Nenhuma lista de ingredientes e nenhum estudo citado.
+- **Outros itens da página:** consultora pelo WhatsApp e 5 e-books sobre sobrancelha no pedido do sérum (fora dos textos).
+- **Fotos da página:** três imagens "EMBAIXADORA" são conversas com antes e depois; não usar.
