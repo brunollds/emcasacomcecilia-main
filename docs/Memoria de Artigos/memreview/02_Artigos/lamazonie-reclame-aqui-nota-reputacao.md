@@ -135,3 +135,7 @@ O que mudou em relação ao esqueleto: a tabela compara 6 e 12 meses; o texto di
 ## Capa e imagens (aprovadas pelo Bruno em 16/11/2026)
 
 Folha de aprovação mostrada no chat; upload ao CDN autorizado no mesmo dia. Capa no painel lateral, `imageFit: contain`, sem nota: foto oficial do protetor solar em bastão FPS 99 (`PG2_PT_01`), chamada "No Reclame Aqui: nota e queixas" e o código. Corpo: `lamazonie-reclame-aqui-serum-embalagens.webp` (`PG_SS_02`, recortada sem o texto).
+
+## Revisão externa (Farol, 16/11/2026)
+
+Parecer colado pelo Bruno depois do merge do #1069 (`docs/auditoria-copy-artigos/lamazonie-lz1-lz2-lz3-pr1069-20261116-farol/`). P07 a P10 aplicadas: saiu a conta de 6 pontos por avaliação (o denominador também muda); o prazo deixa de mandar somar etapas; a devolução e o FAQ trazem o contraponto do Procon-SP, com o link do guia.

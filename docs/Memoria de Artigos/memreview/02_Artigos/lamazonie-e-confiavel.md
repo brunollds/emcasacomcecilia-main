@@ -161,3 +161,7 @@ O que mudou em relação ao esqueleto: o portal de consultas da Anvisa não foi 
 ## Capa e imagens (aprovadas pelo Bruno em 16/11/2026)
 
 Folha de aprovação mostrada no chat; upload ao CDN autorizado no mesmo dia. Capa no painel lateral, `imageFit: contain`: metade direita da foto oficial da escovinha na sobrancelha (`PG_SS_05` da página do sérum, sem o texto de alegações), chamada "É confiável? O que conferir" e o código. Corpo, capítulo da garantia: `lamazonie-e-confiavel-serum-dois-frascos.webp` (`PG_SS_07`, recortada sem o selo de frete grátis).
+
+## Revisão externa (Farol, 16/11/2026)
+
+Parecer colado pelo Bruno depois do merge do #1069 (`docs/auditoria-copy-artigos/lamazonie-lz1-lz2-lz3-pr1069-20261116-farol/`). P11 a P17 aplicadas: resposta rápida, conclusão e FAQ preservam a dúvida sobre qual processo da Anvisa corresponde ao frasco vendido hoje; o Guia de Comércio Eletrônico do Procon-SP ganhou o link do PDF oficial (conferido, responde 200); o FAQ da garantia traz as janelas das fotos. Na P12, a fonte é nomeada (arquivo de dados abertos) sem link, porque o endereço baixa um CSV de 230 MB.
