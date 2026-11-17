@@ -94,6 +94,8 @@ dos produtos das duas e converte.
 
 - **SV1, 17/11:** 42 peças e um link geral da SHEIN recebidos e lidos (nome e foto pelo OG da SHEIN e pelas páginas
   da Shopee no Chrome, uma por vez, sem bloqueio). Em [[shein-ou-shopee-amostra-1711]].
+- **SV2, 17/11:** 23 peças da Temu e um link geral recebidos e lidos pela página de afiliado, depois da verificação
+  que o Bruno fez no Chrome; a SHEIN repete os links do SV1. Em [[shein-ou-temu-amostra-1711]].
 
 ## 6. Autocompletar (16/11)
 
