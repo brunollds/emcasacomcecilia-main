@@ -159865,6 +159865,98 @@
       "verified_at": "2026-11-17T01:34:15.777Z",
       "verification_etag_or_digest": "7f91abc4d1cc2cb348d668fa9ef216e0ff6f9ae84d4dd91c4de8065164fff503",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lamazonie/black-friday-lamazonie-capa.webp",
+      "local_url": "/images/reviews/lamazonie/black-friday-lamazonie-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 129298,
+      "sha256": "ac2d3d5a62418b57a54ecef85edcda072480a918bfe2ffe70c9706e51c551173",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-lamazonie-capa.webp",
+      "storage_filename": "black-friday-lamazonie-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-lamazonie.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-lamazonie.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/lamazonie/black-friday-lamazonie-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 247299,
+          "column": 15,
+          "literal": "/images/reviews/lamazonie/black-friday-lamazonie-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ac2d3d5a62418b57a54ecef85edcda072480a918bfe2ffe70c9706e51c551173/black-friday-lamazonie-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ac2d3d5a62418b57a54ecef85edcda072480a918bfe2ffe70c9706e51c551173/black-friday-lamazonie-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T01:57:14.723Z",
+      "verification_etag_or_digest": "ac2d3d5a62418b57a54ecef85edcda072480a918bfe2ffe70c9706e51c551173",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lamazonie/black-friday-lamazonie-serum-tres-frascos.webp",
+      "local_url": "/images/reviews/lamazonie/black-friday-lamazonie-serum-tres-frascos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38682,
+      "sha256": "c9ad0a046cdb13dbdc21f590fbc8e5ace47335a7d5daeb24ab97a98e150e971c",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-lamazonie-serum-tres-frascos.webp",
+      "storage_filename": "black-friday-lamazonie-serum-tres-frascos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-lamazonie.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-lamazonie.json",
+          "line": 128,
+          "column": 19,
+          "literal": "/images/reviews/lamazonie/black-friday-lamazonie-serum-tres-frascos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 247398,
+          "column": 21,
+          "literal": "/images/reviews/lamazonie/black-friday-lamazonie-serum-tres-frascos.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c9ad0a046cdb13dbdc21f590fbc8e5ace47335a7d5daeb24ab97a98e150e971c/black-friday-lamazonie-serum-tres-frascos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c9ad0a046cdb13dbdc21f590fbc8e5ace47335a7d5daeb24ab97a98e150e971c/black-friday-lamazonie-serum-tres-frascos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-17T01:57:14.724Z",
+      "verification_etag_or_digest": "c9ad0a046cdb13dbdc21f590fbc8e5ace47335a7d5daeb24ab97a98e150e971c",
+      "verification_status": "verified"
     }
   ]
 }

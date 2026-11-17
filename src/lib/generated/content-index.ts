@@ -247267,5 +247267,260 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 997,
+    "slug": "black-friday-lamazonie",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "16 de novembro de 2026",
+    "publishedAtISO": "2026-11-16",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIA",
+    "affiliate": "lamazonie",
+    "title": "Black Friday L’Amazonie 2026: o que é campanha, o que é kit da tabela regular e como o cupom entra",
+    "seoTitle": "Black Friday L’Amazonie 2026: kits e cupom CECILIA",
+    "type": "Guia de Black Friday",
+    "description": "O que a L’Amazonie tinha publicado para a Black Friday, os kits da tabela regular, os preços do sérum por quantidade e como ficam o cupom, o Pix e o frete.",
+    "metaDescription": "CECILIA dá 5% OFF na L’Amazonie e, no teste, entrou em kit em promoção. Veja o que a loja publicou para a Black Friday e os preços de 1, 2 ou 3 séruns.",
+    "image": "/images/reviews/lamazonie/black-friday-lamazonie-capa.webp",
+    "imageAlt": "Duas mulheres com sacolas pretas olham uma prateleira de cuidados com o rosto em uma loja, em cenário gerado por IA, com o logo da L’Amazonie, a chamada “Black Friday 2026, kits e cupom” e o código CECILIA.",
+    "cta": {
+      "text": "Se a L’Amazonie faz sentido para a sua compra, abra o site oficial pelo botão, clique em “Finalizar compra” no carrinho e digite CECILIA no campo “Tem um cupom?”.",
+      "label": "Ir para a L’Amazonie",
+      "url": "https://www.lamazonie.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com a vitrine e as políticas da loja; o cupom foi testado no checkout. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-lamazonie-como-usar"
+      },
+      {
+        "slug": "lamazonie-e-boa"
+      },
+      {
+        "slug": "lamazonie-e-confiavel"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você já ia comprar, e a quantidade escolhida corresponde ao uso que você planeja.",
+        "O total com o frete para o seu CEP cabe no orçamento.",
+        "Você leu as regras da garantia do sérum e o prazo de despacho da loja."
+      ],
+      "skipIf": [
+        "A compra só faz sentido por um brinde ou pelo preço por frasco do kit maior.",
+        "Você precisa do produto em data marcada e não fez a conta do prazo com folga.",
+        "A lista de ingredientes pesa na sua decisão e você ainda não a recebeu da loja."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O cupom CECILIA dá 5% OFF no site da L’Amazonie e, no nosso teste, entrou também sobre um kit em promoção. Na nossa última leitura, a página de Black Friday da loja estava sem ofertas e sem regulamento. Os kits de duas e três unidades fazem parte da tabela regular do site. Atualizamos o guia na semana da Black Friday."
+        ]
+      },
+      {
+        "heading": "A Black Friday da L’Amazonie já começou?",
+        "paragraphs": [
+          "Na leitura de 16 de novembro de 2026, a [página de Black Friday da loja](https://www.lamazonie.com.br/pages/black-friday) trazia só o título, sem produtos. A página inicial e o menu não citavam a campanha, e a faixa do topo anunciava o frete grátis acima de R$ 199. A loja não tinha publicado data de início, data de fim nem regulamento.",
+          "A Black Friday cai em 27 de novembro. Se a loja anunciar ofertas até lá, este guia será atualizado com o que ela publicar, com o nome de cada página.",
+          "Encontramos também páginas de oferta com “Black Friday” no nome, fora do menu e sem ligação com a vitrine. Nelas, o preço era o do produto avulso nas páginas da vitrine, e a oferta vinha em itens de presente e, em algumas, frete grátis. Como são páginas de anúncio, fora da vitrine aberta, não as tratamos aqui como campanha da loja e não testamos o cupom nelas."
+        ]
+      },
+      {
+        "heading": "O que já é preço de kit, sem campanha",
+        "paragraphs": [
+          "Boa parte dos preços “de/por” do site vem dos kits. O sérum de sobrancelhas, o sérum de vitamina C20, o protetor solar e os cremes clareadores têm opção de duas e de três unidades. Nos preços que lemos, a unidade sai mais barata no kit que no avulso. Essas opções estão na página regular de cada produto, sem menção à Black Friday.",
+          "Isso ajuda a ler a Black Friday quando ela chegar. Se a loja anunciar uma oferta, compare com o preço do kit de hoje, nas tabelas abaixo, e veja se o que mudou foi o preço, o brinde ou o frete."
+        ]
+      },
+      {
+        "heading": "Sérum de cílios e sobrancelhas: um, dois ou três frascos",
+        "paragraphs": [
+          "Os preços abaixo são os da [página do sérum](https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas) na mesma leitura. A página informa rendimento de 25 a 30 dias por frasco, com duas aplicações diárias."
+        ],
+        "comparisonTable": {
+          "caption": "Preços da página do sérum, sem frete. As colunas de CECILIA e Pix são cálculos separados sobre o preço publicado; não representam os dois descontos juntos.",
+          "headers": [
+            "Quantidade",
+            "Preço no site",
+            "Com CECILIA (5%)",
+            "Só no Pix (3%)"
+          ],
+          "rows": [
+            [
+              "1 unidade",
+              "R$ 159,00",
+              "R$ 151,05",
+              "R$ 154,23"
+            ],
+            [
+              "2 unidades",
+              "R$ 249,00",
+              "R$ 236,55",
+              "R$ 241,53"
+            ],
+            [
+              "3 unidades",
+              "R$ 329,00",
+              "R$ 312,55",
+              "R$ 319,13"
+            ]
+          ]
+        },
+        "bullets": [
+          "**1 unidade.** É o menor desembolso. Sozinha, fica abaixo dos R$ 199 que a loja anuncia para frete grátis na maior parte do país, então simule o frete pelo CEP.",
+          "**2 unidades.** Sai a R$ 124,50 por frasco antes dos descontos, e a página mostra o selo de frete grátis. Pela estimativa da marca, dois frascos correspondem a 50 a 60 dias de uso.",
+          "**3 unidades.** Sai a R$ 109,67 por frasco antes dos descontos. Pela mesma estimativa, três frascos correspondem a 75 a 90 dias de uso, e a página também mostra o selo de frete grátis."
+        ],
+        "postParagraphs": [
+          "A [Garantia Mais Fios](https://www.lamazonie.com.br/pages/garantia) exige dois frascos e 60 dias seguidos de uso, com fotos dentro dos prazos. Quem compra um frasco pode adquirir o segundo no site antes de o primeiro acabar, desde que cumpra as demais condições. No kit de três, o regulamento permite devolver o terceiro frasco lacrado. As condições completas estão em [L’Amazonie é confiável?](/reviews/lamazonie-e-confiavel).",
+          "O menor preço por frasco, sozinho, não define quanto comprar. O que dá para verificar sobre o sérum antes de escolher está em [L’Amazonie é boa?](/reviews/lamazonie-e-boa)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/lamazonie/black-friday-lamazonie-serum-tres-frascos.webp",
+            "alt": "Três frascos verdes com tampa dourada do sérum para crescimento de cílios e sobrancelhas da L’Amazonie, em foto oficial da loja",
+            "caption": "A opção com três frascos do sérum. Foto: L’Amazonie.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas"
+          }
+        ]
+      },
+      {
+        "heading": "Linha facial: avulsos e kits",
+        "paragraphs": [
+          "Para o rosto, a loja vende o sérum clareador de vitamina C20, o protetor solar de tratamento FPS 99 e o gel de limpeza de vitamina C, avulsos e em kit. Preços da mesma leitura, na página de cada produto. O Kit 2 Protetores e o Kit Completo têm página própria."
+        ],
+        "comparisonTable": {
+          "caption": "Preços do site, sem frete. As colunas de CECILIA e Pix são cálculos separados sobre o preço publicado.",
+          "headers": [
+            "Produto",
+            "Preço no site",
+            "Com CECILIA (5%)",
+            "Só no Pix (3%)"
+          ],
+          "rows": [
+            [
+              "Sérum Clareador Vitamina C20, 1 unidade",
+              "R$ 289,00",
+              "R$ 274,55",
+              "R$ 280,33"
+            ],
+            [
+              "Sérum Clareador Vitamina C20, 2 unidades",
+              "R$ 397,00",
+              "R$ 377,15",
+              "R$ 385,09"
+            ],
+            [
+              "Sérum Clareador Vitamina C20, 3 unidades",
+              "R$ 569,00",
+              "R$ 540,55",
+              "R$ 551,93"
+            ],
+            [
+              "Protetor Solar de Tratamento FPS 99, 1 unidade",
+              "R$ 159,00",
+              "R$ 151,05",
+              "R$ 154,23"
+            ],
+            [
+              "Kit 2 Protetores Solares de Tratamento FPS 99 (página do kit)",
+              "R$ 249,00",
+              "R$ 236,55",
+              "R$ 241,53"
+            ],
+            [
+              "Protetor Solar de Tratamento FPS 99, 3 unidades",
+              "R$ 349,00",
+              "R$ 331,55",
+              "R$ 338,53"
+            ],
+            [
+              "Gel de Limpeza de Vitamina C 60 g, 1 unidade",
+              "R$ 99,00",
+              "R$ 94,05",
+              "R$ 96,03"
+            ],
+            [
+              "Kit Completo Sérum de Vitamina C20 + Protetor Solar + Gel de Limpeza",
+              "R$ 397,00",
+              "R$ 377,15",
+              "R$ 385,09"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No Kit Completo, os três itens avulsos somam R$ 547,00 pelos preços da tabela, e o kit custa R$ 397,00.",
+          "O mesmo produto pode ter preços diferentes em páginas diferentes do site. Dois protetores custavam R$ 269,00 na página do protetor e R$ 249,00 na página “Kit 2 Protetores”. Antes de fechar, procure o item pelo nome e compare as páginas.",
+          "Este guia não avalia os produtos. O que cada um promete é informação da marca."
+        ]
+      },
+      {
+        "heading": "Como o cupom entra",
+        "paragraphs": [
+          "No nosso teste, o cupom CECILIA na L’Amazonie foi aceito no checkout aberto pelo botão “Finalizar compra”, no campo “Tem um cupom?”. O carrinho tinha um sérum de sobrancelhas e o Kit 2 Protetores, e os R$ 408,00 em produtos viraram R$ 387,60, antes do frete. Os 5% entraram também sobre o kit.",
+          "Não testamos o código em uma oferta anunciada como Black Friday, porque a loja ainda não tinha nenhuma na vitrine. Vamos refazer o teste na semana da Black Friday e atualizar este guia com o resultado. Até lá, confira a linha Descontos no resumo antes de pagar.",
+          "O passo a passo e o que fazer se o código for recusado estão em [como usar o cupom da L’Amazonie](/reviews/cupom-lamazonie-como-usar)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/lamazonie/cupom-lamazonie-checkout-com-cupom.webp",
+            "alt": "Resumo do checkout da L’Amazonie com o cupom CECILIA no campo Tem um cupom?, o aviso Desconto de menos R$ 20,40, a linha Descontos e o total de R$ 387,60",
+            "caption": "O CECILIA aplicado no checkout da L’Amazonie, no nosso teste. A linha Descontos mostra quanto saiu do pedido.",
+            "objectFit": "contain",
+            "aspectRatio": 1.06
+          }
+        ]
+      },
+      {
+        "heading": "Pix, cashback e frete",
+        "bullets": [
+          "**Pix.** A loja dá 3% de desconto no pagamento por Pix. Esse desconto é da forma de pagamento e vem à parte do cupom. Não chegamos à etapa do pagamento no teste, então confira o total do resumo antes de pagar.",
+          "**Cashback.** A loja anuncia 15% de cashback, que segundo a página vira crédito com validade para a próxima compra no site. Fica fora do preço de hoje, e não testamos o uso desse crédito.",
+          "**Frete.** A loja anuncia frete grátis acima de R$ 199 na maior parte do país e acima de R$ 500 no Acre, no Piauí, em Rondônia e em Roraima. Simule com o seu CEP e compare o total entregue."
+        ]
+      },
+      {
+        "heading": "Antes de comprar na Black Friday",
+        "bullets": [
+          "**Despacho.** Pela [política de frete](https://www.lamazonie.com.br/policies/shipping-policy), o pedido sai em até 3 dias úteis depois da compensação do pagamento, e o prazo de entrega conta da postagem. A política cita datas festivas entre os motivos de atraso.",
+          "**Reclamações.** No histórico do Reclame Aqui, a queixa mais citada da loja é atraso na entrega. Os números estão em [L’Amazonie no Reclame Aqui](/reviews/lamazonie-reclame-aqui-nota-reputacao).",
+          "**Devolução.** A [política da loja](https://www.lamazonie.com.br/pages/trocas-e-devolucoes) pede a solicitação em até sete dias do recebimento, com caixa lacrada, e cobra o frete de retorno do cliente. Para o arrependimento em compra online, o [Procon-SP](https://www.procon.sp.gov.br/wp-content/uploads/2024/08/Guia_de_Comercio_Eletronico.pdf) orienta que não se exija embalagem inviolada nem se cobre esse frete.",
+          "**Onde comprar.** O cupom, a garantia do sérum e o cashback são do site oficial. Em marketplace valem o preço e as condições do anúncio."
+        ],
+        "postParagraphs": [
+          "As condições do código ficam na [página do cupom da L’Amazonie](/cupons/lamazonie)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O cupom CECILIA vale na Black Friday da L’Amazonie? O código dá 5% OFF no site oficial e, no nosso teste, entrou sobre um kit em promoção. Em oferta anunciada como Black Friday ainda não testamos. Confira a linha Descontos no resumo do pedido.",
+          "A L’Amazonie tem Black Friday? A loja tem uma página de Black Friday, que estava sem ofertas, sem data e sem regulamento na nossa leitura. Este guia é atualizado se a campanha for anunciada.",
+          "Vale mais comprar 1, 2 ou 3 séruns? Depende do tempo de uso que você planeja. O preço por frasco cai nos kits, e a garantia de 60 dias exige dois frascos e uso contínuo.",
+          "O cupom soma com o Pix? Soma, pela regra do código. O desconto de 3% do Pix é da forma de pagamento e vem à parte. Não chegamos à etapa do pagamento no teste, então confira o total do resumo antes de pagar.",
+          "O frete é grátis na Black Friday? A regra publicada é frete grátis acima de R$ 199 na maior parte do país e de R$ 500 no Acre, no Piauí, em Rondônia e em Roraima. Na vitrine aberta, a loja não tinha anunciado condição de frete para a campanha."
+        ]
+      }
+    ]
   }
 ];
