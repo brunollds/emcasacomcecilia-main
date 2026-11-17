@@ -7,10 +7,10 @@ parceiro_slug: "shein"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
-status: "pronto-para-deploy"
+status: "publicado"
 score: 76
 responsavel: "Job-1 (Claude Fable 5.2)"
-proxima_acao: "deploy com o GO do Bruno, SV1 e SV2 juntos, depois de olhar no celular; antes, abrir as 8 peças da Temu, a foto da legging e duas ou três peças com outra região"
+proxima_acao: "no ar desde 17/11/2026, SV1 e SV2 juntos (#1097 e #1100); as peças da amostra saem quando deixarem de estar à venda"
 bloqueado_por: "-"
 data_criacao: "2026-11-16"
 i18n_cluster: null
