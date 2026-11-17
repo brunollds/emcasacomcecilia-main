@@ -30,7 +30,7 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "Temu: você quer tempo para devolver roupa que não provou; ela dá 90 dias da compra, e a SHEIN, 20 do recebimento."
+      "Temu: seu item aceita a devolução em 90 dias da compra e a data-limite deixa mais tempo para decidir depois da entrega do que o prazo da SHEIN; confira as datas no pedido."
     ],
     "skipIf": [
       "SHEIN: você conta com os 20 dias para body, roupa de banho ou roupa íntima; essas só voltam em 7."
@@ -56,7 +56,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "SHEIN e Temu cobram o mesmo frete mínimo para o Brasil e seguem a mesma regra de imposto. A diferença está na devolução e no atendimento: a Temu dá mais tempo para devolver, e a SHEIN tem reputação melhor no Reclame Aqui. São empresas diferentes, e cada uma publica o próprio prazo de entrega."
+        "A SHEIN tem nota maior no Reclame Aqui; na devolução, compare a data-limite do seu item: a Temu conta da compra, e a SHEIN, do recebimento. Veja também o total com entrega e tributos. Na SHEIN, pesquise 4CW5Y para obter desconto na seleção definida pela plataforma, como explicamos abaixo."
       ]
     },
     {
@@ -106,14 +106,14 @@
     {
       "heading": "Imposto e taxas: a mesma regra nas duas",
       "paragraphs": [
-        "As duas participam do Remessa Conforme e cobram o imposto no próprio pedido, sem taxa na entrega. Na compra de pessoa física, a regra é da [Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/tributacao) e vale igual nas duas lojas:"
+        "Nas compras internacionais pelo Remessa Conforme, os impostos são recolhidos no pedido. Para compras de pessoa física, a regra da [Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/tributacao) é a mesma nas duas lojas:"
       ],
       "bullets": [
         "**Até US$ 50:** imposto de importação zero e ICMS de 17% a 20%, conforme o estado.",
         "**Acima de US$ 50:** imposto de importação de 60%, com US$ 30 abatidos do imposto, mais o ICMS."
       ],
       "postParagraphs": [
-        "O imposto e o frete aparecem separados no checkout das duas. A diferença está no reembolso: a Temu diz que o imposto de importação não volta quando você devolve a peça. A tabela por estado e um exemplo de cálculo estão no [guia de Black Friday da SHEIN](/reviews/black-friday-shein)."
+        "Confira imposto, frete e total no checkout das duas. Na devolução, a [central da Temu](https://www.temu.com/br/support/c3/programa-remessa-conforme-f-56-s-3166.html) informa que o imposto de importação não é reembolsado. A tabela por estado e um exemplo de cálculo estão no [guia de Black Friday da SHEIN](/reviews/black-friday-shein)."
       ]
     },
     {
@@ -123,7 +123,7 @@
         "**SHEIN:** 20 dias contados do recebimento. Bodies, roupa de banho e roupa íntima ficam fora: só voltam nos 7 dias da lei. A primeira devolução de cada pedido é grátis; da segunda em diante, a SHEIN desconta R$ 45 do reembolso."
       ],
       "postParagraphs": [
-        "Nas duas, roupa usada, lavada ou sem etiqueta não volta. Como a Temu conta da compra e a SHEIN do recebimento, a vantagem da Temu diminui quando a entrega demora; ainda assim, os 90 dias dão folga para quem compra roupa sem provar."
+        "Nas duas, a peça precisa cumprir as condições de devolução. Compare as datas-limite do seu pedido: os 90 dias da Temu começam na compra, enquanto os 20 da SHEIN começam no recebimento. Quanto mais a entrega demorar, menos tempo da janela da Temu restará para experimentar e decidir."
       ]
     },
     {

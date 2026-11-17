@@ -79227,7 +79227,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "SHEIN: você vai comprar roupa sem provar; ela dá 20 dias para devolver, e a Garantia Shopee, 7.",
+        "SHEIN: a roupa que você quer admite devolução em 20 dias, em vez dos 7 da Garantia Shopee; confira a elegibilidade no anúncio.",
         "Shopee: você achou o anúncio com a peça, o vendedor bem avaliado e a entrega na data de que precisa."
       ],
       "skipIf": [
@@ -79258,7 +79258,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A SHEIN dá 20 dias para devolver roupa, salvo bodies, moda praia e roupa íntima; a Garantia Shopee dá 7. Nas duas, o vendedor, o frete e o prazo mudam de um anúncio para outro, então compare o total no checkout. O imposto da compra internacional segue a mesma regra nas duas lojas."
+          "A SHEIN dá mais prazo para devolver roupa elegível aos 20 dias; bodies, moda praia e roupa íntima ficam nos 7 dias, como a Garantia Shopee. Compare vendedor, previsão de entrega e total com frete e impostos. Na SHEIN, pesquise 4CW5Y para obter desconto na seleção definida pela plataforma, como explicamos abaixo."
         ]
       },
       {
@@ -79310,7 +79310,7 @@ export const reviewsData: unknown[] = [
           "O que mais muda o prazo e o imposto é de onde a peça sai, e isso aparece no anúncio."
         ],
         "bullets": [
-          "**SHEIN:** a maior parte vem do exterior, com 3 a 5 dias para processar o pedido antes do transporte; a data estimada aparece no pedido. As peças com Envio Nacional já estão no Brasil e, segundo a SHEIN, não seguem a regra do imposto de importação. Frete e prazo delas são outros: a tabela de R$ 15 e R$ 69 é a do envio do exterior.",
+          "**SHEIN:** no envio do exterior, são 3 a 5 dias para processar o pedido antes do transporte; a data estimada aparece no pedido. As peças com Envio Nacional já estão no Brasil e, segundo a SHEIN, não seguem a regra do imposto de importação. Frete e prazo delas são outros: a tabela de R$ 15 e R$ 69 é a do envio do exterior.",
           "**Shopee:** o anúncio mostra de onde a peça sai, o frete para o seu CEP e a previsão de entrega. Se o vendedor não postar no prazo, a [Garantia Shopee](https://help.shopee.com.br/portal/4/article/76327-) devolve o dinheiro automaticamente; se o pedido já saiu e atrasou, o reembolso é pedido pelo app."
         ],
         "postParagraphs": [
@@ -79600,7 +79600,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "SHEIN ou Shopee: qual é melhor? Para roupa que você não pode provar, a SHEIN, que dá 20 dias para devolver, contra 7 da Garantia Shopee. Nas duas, vendedor, frete e prazo mudam de um anúncio para outro.",
+          "SHEIN ou Shopee: qual é melhor? Para roupa elegível aos 20 dias de devolução, a SHEIN dá mais prazo que os 7 da Garantia Shopee; bodies, moda praia e roupa íntima ficam nos 7 dias. Compare também vendedor, previsão de entrega e total do pedido.",
           "Qual é mais barata, SHEIN ou Shopee? Depende da peça e do anúncio. O que muda o total é o frete, o imposto da compra internacional e, na SHEIN, o desconto do código de indicação. Compare o total no fim do checkout.",
           "Qual chega mais rápido, SHEIN ou Shopee? Depende de onde a peça sai, e a previsão para o seu CEP aparece no anúncio das duas. Na SHEIN, o pedido do exterior leva de 3 a 5 dias para ser processado antes do transporte.",
           "SHEIN e Shopee cobram o mesmo imposto? Na importação pelo Remessa Conforme, sim: ICMS de 17% a 20% e imposto de importação zero até US$ 50. O que vale para o seu pedido é a origem do envio, que aparece no anúncio.",
@@ -79641,7 +79641,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Temu: você quer tempo para devolver roupa que não provou; ela dá 90 dias da compra, e a SHEIN, 20 do recebimento."
+        "Temu: seu item aceita a devolução em 90 dias da compra e a data-limite deixa mais tempo para decidir depois da entrega do que o prazo da SHEIN; confira as datas no pedido."
       ],
       "skipIf": [
         "SHEIN: você conta com os 20 dias para body, roupa de banho ou roupa íntima; essas só voltam em 7."
@@ -79667,7 +79667,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "SHEIN e Temu cobram o mesmo frete mínimo para o Brasil e seguem a mesma regra de imposto. A diferença está na devolução e no atendimento: a Temu dá mais tempo para devolver, e a SHEIN tem reputação melhor no Reclame Aqui. São empresas diferentes, e cada uma publica o próprio prazo de entrega."
+          "A SHEIN tem nota maior no Reclame Aqui; na devolução, compare a data-limite do seu item: a Temu conta da compra, e a SHEIN, do recebimento. Veja também o total com entrega e tributos. Na SHEIN, pesquise 4CW5Y para obter desconto na seleção definida pela plataforma, como explicamos abaixo."
         ]
       },
       {
@@ -79717,14 +79717,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Imposto e taxas: a mesma regra nas duas",
         "paragraphs": [
-          "As duas participam do Remessa Conforme e cobram o imposto no próprio pedido, sem taxa na entrega. Na compra de pessoa física, a regra é da [Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/tributacao) e vale igual nas duas lojas:"
+          "Nas compras internacionais pelo Remessa Conforme, os impostos são recolhidos no pedido. Para compras de pessoa física, a regra da [Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/tributacao) é a mesma nas duas lojas:"
         ],
         "bullets": [
           "**Até US$ 50:** imposto de importação zero e ICMS de 17% a 20%, conforme o estado.",
           "**Acima de US$ 50:** imposto de importação de 60%, com US$ 30 abatidos do imposto, mais o ICMS."
         ],
         "postParagraphs": [
-          "O imposto e o frete aparecem separados no checkout das duas. A diferença está no reembolso: a Temu diz que o imposto de importação não volta quando você devolve a peça. A tabela por estado e um exemplo de cálculo estão no [guia de Black Friday da SHEIN](/reviews/black-friday-shein)."
+          "Confira imposto, frete e total no checkout das duas. Na devolução, a [central da Temu](https://www.temu.com/br/support/c3/programa-remessa-conforme-f-56-s-3166.html) informa que o imposto de importação não é reembolsado. A tabela por estado e um exemplo de cálculo estão no [guia de Black Friday da SHEIN](/reviews/black-friday-shein)."
         ]
       },
       {
@@ -79734,7 +79734,7 @@ export const reviewsData: unknown[] = [
           "**SHEIN:** 20 dias contados do recebimento. Bodies, roupa de banho e roupa íntima ficam fora: só voltam nos 7 dias da lei. A primeira devolução de cada pedido é grátis; da segunda em diante, a SHEIN desconta R$ 45 do reembolso."
         ],
         "postParagraphs": [
-          "Nas duas, roupa usada, lavada ou sem etiqueta não volta. Como a Temu conta da compra e a SHEIN do recebimento, a vantagem da Temu diminui quando a entrega demora; ainda assim, os 90 dias dão folga para quem compra roupa sem provar."
+          "Nas duas, a peça precisa cumprir as condições de devolução. Compare as datas-limite do seu pedido: os 90 dias da Temu começam na compra, enquanto os 20 da SHEIN começam no recebimento. Quanto mais a entrega demorar, menos tempo da janela da Temu restará para experimentar e decidir."
         ]
       },
       {
@@ -80041,7 +80041,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN or Temu? What each store publishes on shipping, delivery time and returns for the UK, and how to choose by what you are buying, with what to check before paying.",
-    "metaDescription": "SHEIN vs Temu: shipping, delivery time and returns published for the UK, and what to check before you buy.",
+    "metaDescription": "4CW5Y gives a discount on selected SHEIN offers. Compare SHEIN and Temu in the UK: delivery, return deadlines and what to check before buying.",
     "publishedAt": "October 13, 2026",
     "publishedAtISO": "2026-10-13",
     "updatedAt": "2026-11-17",
@@ -80058,7 +80058,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "No store is best for everyone: for clothes, the choice depends on the return deadline your item has. Temu counts 90 days from purchase and SHEIN up to 30 days from receipt, for most items. If you choose SHEIN, 4CW5Y does give you a discount: open SHEIN through Cecília's link and search for the code in the app or on the site."
+          "Temu allows 90 days from purchase; SHEIN accepts most items within 30 days of receipt. Compare the actual return deadline for your item, delivery date and total at checkout. On SHEIN, search 4CW5Y in the app or on the site for discounts on a selection chosen by the platform, as explained below."
         ]
       },
       {
@@ -80373,11 +80373,8 @@ export const reviewsData: unknown[] = [
           "SHEIN or Temu: which should I choose? It depends on what you are buying and how much being able to return it matters: Temu gives 90 days from purchase, and SHEIN takes most items back up to 30 days after receipt.",
           "Which is cheaper, SHEIN or Temu? This article does not measure prices. Compare the final price of each item, with shipping and taxes, when you pay at each store.",
           "Which arrives faster, SHEIN or Temu? In the UK, SHEIN publishes 5 to 8 working days for Standard delivery, and Temu 6 to 13 working days (processing takes 1 to 3 days). Check the date on the product page and in your order.",
-          "SHEIN or Temu: what is the difference? Temu publishes the longer window, 90 days counted from purchase, while SHEIN takes most items back up to 30 days after receipt, so the two count from different points; shipping and delivery times are in the table above.",
           "SHEIN or Temu for clothes? Check whether the item is returnable, the deadline and the return cost. In the UK table, Temu counts its 90 days from purchase; SHEIN counts up to 30 days from receipt for most items, with lingerie, underwear and costume jewelry only within the 14 days.",
-          "Do SHEIN and Temu charge import tax? Import tax depends on the country. On its UK site, SHEIN says customers in the UK do not need to deal with customs. Before you pay, check at each store's checkout whether the total includes taxes.",
-          "Are SHEIN and Temu the same company? No. They are different stores, each with its own rules for shipping, delivery and returns.",
-          "Is 4CW5Y a coupon? No. It is Cecília's referral code at SHEIN, and it does give you a discount on a selection of products and promotions; how much and on which items is SHEIN's call. Open SHEIN through Cecília's link and search for the code in the app or on the site: the search opens the selection."
+          "Is 4CW5Y a coupon? 4CW5Y is Cecília’s SHEIN referral code, giving discounts on products and promotions chosen by SHEIN. Open SHEIN through Cecília’s link and search for it in the app or on the site to see the selection."
         ]
       }
     ],
@@ -80399,7 +80396,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Take Temu if you buy clothes without trying them on and want the longest published window to return them: 90 days, counted from purchase, if your item qualifies under its policy."
+        "Choose Temu if your item qualifies for its 90-day return policy from purchase and the deadline leaves more time after delivery than SHEIN’s deadline for the item."
       ],
       "skipIf": [
         "Skip SHEIN if you want more room to return than the 30 days after receipt it gives on most items."
@@ -80424,7 +80421,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "¿SHEIN o Temu? Lo que cada tienda publica sobre envío, plazo de entrega y devoluciones en España y México, y cómo elegir según lo que compres, y qué revisar antes de pagar.",
-    "metaDescription": "SHEIN o Temu: envío, plazo de entrega y devoluciones que cada tienda publica en España y México, y qué revisar antes de comprar.",
+    "metaDescription": "4CW5Y da descuento en una selección de SHEIN. Compara SHEIN y Temu en España y México: envíos, devoluciones y qué revisar antes de comprar.",
     "publishedAt": "13 de octubre de 2026",
     "publishedAtISO": "2026-10-13",
     "updatedAt": "2026-11-17",
@@ -80441,7 +80438,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Ninguna tienda es la mejor para todos: para la ropa, lo que cuenta es el plazo de devolución que necesitas. Temu cuenta 90 días desde la compra y SHEIN hasta 30 días desde la recepción en la mayoría de los artículos. Si eliges SHEIN, el 4CW5Y sí da descuento: abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio."
+          "Temu da 90 días desde la compra; SHEIN acepta la mayoría de los artículos hasta 30 días después de recibirlos. Compara la fecha límite de tu artículo, la entrega y el total. En SHEIN, busca 4CW5Y para obtener descuento en la selección definida por la plataforma; más abajo explicamos cómo usarlo."
         ]
       },
       {
@@ -80501,8 +80498,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Impuestos y aduana",
         "paragraphs": [
-          "En España, desde el 1 de julio de 2026, la UE aplica 3 € de derechos de aduana por categoría de producto a los pedidos de menos de 150 € enviados desde fuera de la UE directamente al consumidor (Reglamento (UE) 2026/382). Vale para cualquier tienda que envíe desde fuera de la UE, así que la aduana no decide entre SHEIN y Temu.",
-          "Antes de pagar, revisa en el checkout de cada tienda si el total ya incluye los impuestos, y compara esa cifra final, no solo el precio del artículo."
+          "En España, las importaciones desde fuera de la UE están sujetas al IVA y a las reglas aduaneras. Desde julio de 2026, se aplica un derecho temporal de 3 € por categoría de producto a los envíos de hasta 150 € incluidos en el [Reglamento (UE) 2026/382](https://eur-lex.europa.eu/eli/reg/2026/382/oj/eng).",
+          "Desde noviembre de 2026, también se aplica una tasa de gestión aduanera de 2 € por línea de declaración en el comercio electrónico importado. Es distinta del derecho de 3 € y no equivale automáticamente a 2 € por cada pieza física; consulta la [explicación de la aduana neerlandesa](https://www.douane.nl/en/themes/import-and-export/import/e-commerce/handling-fee-for-e-commerce/).",
+          "Antes de pagar, compara el total con envío, IVA y cargos de cada tienda: compartir las reglas no garantiza el mismo importe. Estas normas de la UE no se trasladan a México; revisa los cargos del pedido destinado allí."
         ]
       },
       {
@@ -80773,11 +80771,8 @@ export const reviewsData: unknown[] = [
           "¿SHEIN o Temu: cuál elijo? Depende de lo que vayas a comprar y de cuánto te importe poder devolverlo: Temu da 90 días desde la compra, y SHEIN acepta la mayoría de los artículos hasta 30 días después de recibirlos.",
           "¿Cuál es más barato, SHEIN o Temu? Este artículo no mide precios. Compara el precio final de cada artículo, con envío e impuestos, a la hora de pagar en cada tienda.",
           "¿Cuál llega más rápido, SHEIN o Temu? En España, SHEIN publica de 8 a 11 días laborables para el envío estándar y Temu muestra el plazo en la página del producto. En México, Temu publica de 4 a 28 días hábiles para el envío estándar. Revisa la fecha en la página del producto y en tu pedido.",
-          "¿SHEIN o Temu: cuál es la diferencia? Temu publica el plazo más largo, 90 días contados desde la compra, y SHEIN acepta la mayoría de los artículos hasta 30 días después de recibirlos, así que cada una cuenta desde un punto distinto; el envío y los plazos de entrega están en las tablas de arriba.",
           "¿SHEIN o Temu para ropa? Confirma si la prenda admite devolución, hasta cuándo y a qué costo. Temu da 90 días desde la compra y SHEIN hasta 30 días después de recibirlos, en la mayoría de los artículos; la lencería, la ropa interior y la bisutería de SHEIN, solo dentro de los 14 días en España.",
-          "¿SHEIN y Temu pagan aduana? En España, la UE aplica 3 € por categoría de producto a los pedidos de menos de 150 € enviados desde fuera de la UE directamente al consumidor (Reglamento (UE) 2026/382). Vale para cualquier tienda que envíe así, por lo que la aduana no decide entre SHEIN y Temu.",
-          "¿SHEIN y Temu son la misma empresa? No. Son tiendas distintas, cada una con sus propias reglas de envío, entrega y devolución.",
-          "¿El código 4CW5Y es un cupón? No. Es el código de referido de Cecília en SHEIN y sí da descuento, en una selección de productos y promociones; cuánto y en qué prendas lo decide SHEIN. Abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio: la búsqueda abre la selección."
+          "¿El código 4CW5Y es un cupón? 4CW5Y es el código de referido de Cecília en SHEIN y da descuento en los productos y promociones que la plataforma elige. Abre SHEIN con el enlace de Cecília y búscalo en la app o en el sitio para ver la selección."
         ]
       }
     ],
@@ -80799,7 +80794,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Lleva Temu si compras ropa sin probártela y quieres el mayor plazo publicado para devolver: 90 días contados desde la compra, si tu artículo entra en su política."
+        "Elige Temu si tu artículo admite la devolución en 90 días desde la compra y la fecha límite deja más tiempo tras la entrega que el plazo de SHEIN; compara las fechas del pedido."
       ],
       "skipIf": [
         "Pasa de SHEIN si quieres devolver con más margen que los 30 días después de la recepción que da en la mayoría de los artículos."
@@ -80824,7 +80819,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN ou Temu ? Ce que chaque boutique publie sur la livraison, le délai et les retours en France, et comment choisir selon votre achat, avec les points à vérifier avant de payer.",
-    "metaDescription": "SHEIN ou Temu : livraison, délai et retours publiés en France, douane de 3 € de l'UE et points à vérifier avant d'acheter.",
+    "metaDescription": "4CW5Y donne une réduction sur une sélection SHEIN. Comparez SHEIN et Temu en France : livraison, retours et points à vérifier avant d’acheter.",
     "publishedAt": "13 octobre 2026",
     "publishedAtISO": "2026-10-13",
     "updatedAt": "2026-11-17",
@@ -80841,7 +80836,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Aucune boutique n'est la meilleure pour tout le monde : pour des vêtements, c'est le délai de retour dont vous avez besoin qui compte. Temu compte 90 jours après l'achat et SHEIN jusqu'à 30 jours après réception pour la plupart des articles. Si vous choisissez SHEIN, le 4CW5Y donne bien une réduction : ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l’application ou sur le site."
+          "Temu compte 90 jours depuis l’achat ; SHEIN accepte la plupart des articles jusqu’à 30 jours après réception. Comparez la date limite de votre article, la livraison et le montant total. Sur SHEIN, recherchez 4CW5Y pour obtenir une réduction sur la sélection choisie par la plateforme, selon les instructions ci-dessous."
         ]
       },
       {
@@ -80885,8 +80880,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Taxes et douane",
         "paragraphs": [
-          "Depuis le 1er juillet 2026, l'UE applique 3 € de droits de douane par catégorie de produit aux commandes de moins de 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382). Cela vaut pour toute boutique qui expédie depuis l'extérieur de l'UE : la douane ne départage donc pas SHEIN et Temu.",
-          "Avant de payer, vérifiez sur la page de paiement de chaque boutique si le total inclut les taxes, et comparez ce montant final, pas seulement le prix de l'article."
+          "En France, les achats importés depuis l’extérieur de l’UE sont soumis à la TVA et aux règles douanières. Depuis juillet 2026, un droit temporaire de 3 € par catégorie de produit s’applique aux envois jusqu’à 150 € relevant du [règlement (UE) 2026/382](https://eur-lex.europa.eu/eli/reg/2026/382/oj/eng).",
+          "Depuis novembre de 2026, une taxe de traitement douanier de 2 € par ligne de déclaration s’applique aussi au commerce électronique importé. Elle est distincte du droit de 3 € et ne correspond pas automatiquement à 2 € par pièce physique ; voir les [explications de la douane néerlandaise](https://www.douane.nl/en/themes/import-and-export/import/e-commerce/handling-fee-for-e-commerce/).",
+          "Avant de payer, comparez le total avec livraison, TVA et frais dans chaque boutique. Des règles communes ne garantissent pas le même montant final."
         ]
       },
       {
@@ -81157,11 +81153,8 @@ export const reviewsData: unknown[] = [
           "SHEIN ou Temu : lequel choisir ? Cela dépend de ce que vous achetez et de l'importance du retour : Temu laisse 90 jours après l'achat, et SHEIN reprend la plupart des articles jusqu'à 30 jours après réception.",
           "Lequel est le moins cher, SHEIN ou Temu ? Cet article ne mesure pas les prix. Comparez le prix final de chaque article, avec la livraison et les taxes, au moment de payer dans chaque boutique.",
           "Lequel livre le plus vite, SHEIN ou Temu ? SHEIN publie 4 à 8 jours ouvrés pour la livraison Standard ; Temu indique le délai sur la page du produit (préparation en 1 à 3 jours). Vérifiez la date sur la page du produit et dans votre commande.",
-          "SHEIN ou Temu : quelle différence ? Temu publie le délai le plus long, 90 jours après l'achat, tandis que SHEIN reprend la plupart des articles jusqu'à 30 jours après réception, donc les deux ne comptent pas à partir du même moment ; la livraison et les délais figurent dans le tableau ci-dessus.",
           "SHEIN ou Temu pour des vêtements ? Vérifiez si l'article peut être retourné, jusqu'à quand et à quels frais. Temu laisse 90 jours après l'achat et SHEIN jusqu'à 30 jours après réception, pour la plupart des articles ; la lingerie, les sous-vêtements et les bijoux fantaisie de SHEIN ne se retournent que dans les 14 jours.",
-          "SHEIN et Temu paient-ils la douane ? L'UE applique 3 € par catégorie de produit aux commandes de moins de 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382). Cela vaut pour toute boutique qui expédie ainsi : la douane ne départage donc pas SHEIN et Temu.",
-          "SHEIN et Temu sont-ils la même entreprise ? Non. Ce sont deux boutiques différentes, chacune avec ses propres règles d'expédition, de livraison et de retour.",
-          "Le 4CW5Y est-il un coupon ? Non. C'est le code de parrainage de Cecília chez SHEIN et il donne bien une réduction, sur une sélection de produits et de promotions ; combien et sur quels articles, c'est SHEIN qui décide. Ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l’application ou sur le site : la recherche ouvre la sélection."
+          "Le 4CW5Y est-il un coupon ? 4CW5Y est le code de parrainage de Cecília chez SHEIN et donne une réduction sur les produits et promotions choisis par la plateforme. Ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l’application ou sur le site pour afficher la sélection."
         ]
       }
     ],
@@ -81183,7 +81176,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prenez Temu si vous achetez des vêtements sans les essayer et voulez le plus long délai publié pour les retourner : 90 jours, comptés à partir de l'achat, si votre article entre dans sa politique."
+        "Choisissez Temu si votre article bénéficie des 90 jours depuis l’achat et si la date limite vous laisse plus de temps après livraison que celle de SHEIN ; comparez les dates dans la commande."
       ],
       "skipIf": [
         "Passez votre tour chez SHEIN si vous voulez retourner avec plus de marge que les 30 jours après réception qu'elle accorde pour la plupart des articles."
@@ -81208,7 +81201,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN oder Temu? Was beide Shops zu Versand, Lieferzeit und Rückgabe für Deutschland angeben, wie Sie je nach Einkauf wählen und was Sie vor dem Bezahlen prüfen.",
-    "metaDescription": "SHEIN oder Temu? Versand, Lieferzeit und Rückgabe für Deutschland, EU-Zoll von 3 € und was Sie vor dem Kauf prüfen sollten.",
+    "metaDescription": "4CW5Y gibt Rabatt auf eine SHEIN-Auswahl. SHEIN und Temu in Deutschland: Versand, Rückgabefristen und worauf Sie vor dem Kauf achten sollten.",
     "publishedAt": "13. Oktober 2026",
     "publishedAtISO": "2026-10-13",
     "updatedAt": "2026-11-17",
@@ -81225,7 +81218,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Kein Shop ist für alle der beste: Bei Kleidung kommt es auf die Rückgabefrist an, die Sie brauchen. Temu gibt 90 Tage ab Kauf, SHEIN bei den meisten Artikeln bis zu 30 Tage nach Erhalt. Wenn Sie SHEIN wählen, gibt 4CW5Y Rabatt, ja: Öffnen Sie SHEIN über den Link von Cecília und suchen Sie den Code in der App oder auf der Website."
+          "Temu erlaubt 90 Tage ab Kauf, SHEIN bei den meisten Artikeln bis zu 30 Tage nach Erhalt. Vergleichen Sie das Rückgabedatum für Ihren Artikel, den Liefertermin und den Gesamtpreis. Suchen Sie bei SHEIN nach 4CW5Y, um Rabatt auf eine von der Plattform bestimmte Auswahl zu erhalten; die Anleitung steht weiter unten."
         ]
       },
       {
@@ -81269,8 +81262,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Zoll und Steuern",
         "paragraphs": [
-          "Seit dem 1. Juli 2026 erhebt die EU 3 € Zoll pro Warenkategorie auf Sendungen im Wert von unter 150 €, die von außerhalb der EU direkt an Verbraucher gehen (Verordnung (EU) 2026/382). Das gilt für jeden Shop, der von außerhalb der EU liefert. Deshalb entscheidet der Zoll nicht zwischen SHEIN und Temu.",
-          "Prüfen Sie vor dem Bezahlen an der Kasse jedes Shops, ob der Gesamtbetrag die Steuern schon enthält, und vergleichen Sie diesen Endbetrag, nicht nur den Preis des Artikels."
+          "Für nach Deutschland eingeführte Waren aus Nicht-EU-Ländern gelten Einfuhrumsatzsteuer und Zollvorschriften. Seit Juli 2026 fällt für Sendungen bis 150 €, die unter die [Verordnung (EU) 2026/382](https://eur-lex.europa.eu/eli/reg/2026/382/oj/eng) fallen, ein vorläufiger Zoll von 3 € pro Warenkategorie an.",
+          "Seit November 2026 gilt für eingeführte E-Commerce-Sendungen außerdem eine Bearbeitungsgebühr von 2 € pro Anmeldungsposition. Sie ist vom Zoll von 3 € getrennt und entspricht nicht automatisch 2 € je physischem Einzelstück; dazu die [Erläuterung des niederländischen Zolls](https://www.douane.nl/en/themes/import-and-export/import/e-commerce/handling-fee-for-e-commerce/).",
+          "Vergleichen Sie vor dem Bezahlen bei beiden Shops den Gesamtbetrag mit Versand, Steuern und Gebühren. Dieselben Vorschriften garantieren keinen identischen Endpreis."
         ]
       },
       {
@@ -81541,11 +81535,8 @@ export const reviewsData: unknown[] = [
           "SHEIN oder Temu: Was passt besser? Das hängt davon ab, was Sie kaufen und wie wichtig Ihnen die Rückgabe ist: Temu gibt 90 Tage ab Kauf, und SHEIN nimmt die meisten Artikel bis zu 30 Tage nach Erhalt zurück.",
           "Was ist günstiger, SHEIN oder Temu? Preise vergleichen wir in diesem Artikel nicht. Vergleichen Sie an der Kasse den Endpreis jedes Artikels mit Versand und Steuern.",
           "Wer liefert schneller, SHEIN oder Temu? SHEIN zeigt bei Standard das Ankunftsdatum an; Temu zeigt die Zeit auf der Produktseite (Bearbeitung in 1 bis 3 Tagen). Prüfen Sie das Datum auf der Produktseite und in Ihrer Bestellung.",
-          "SHEIN oder Temu: Was ist der Unterschied? Temu nennt die längere Frist, 90 Tage ab Kauf, während SHEIN die meisten Artikel bis zu 30 Tage nach Erhalt zurücknimmt, die beiden Fristen beginnen also zu unterschiedlichen Zeitpunkten; Versand und Lieferzeiten stehen in der Tabelle oben.",
           "SHEIN oder Temu für Kleidung? Prüfen Sie, ob der Artikel zurückgegeben werden kann, bis wann und zu welchen Kosten. Temu gibt 90 Tage ab Kauf und SHEIN bis zu 30 Tage nach Erhalt, bei den meisten Artikeln; Dessous, Unterwäsche und Modeschmuck von SHEIN lassen sich nur innerhalb der 14 Tage zurückgeben.",
-          "Zahlen SHEIN und Temu Zoll? Die EU erhebt 3 € pro Warenkategorie auf Sendungen im Wert von unter 150 €, die von außerhalb der EU direkt an Verbraucher gehen (Verordnung (EU) 2026/382). Das gilt für jeden Shop, der so liefert. Deshalb entscheidet der Zoll nicht zwischen SHEIN und Temu.",
-          "Sind SHEIN und Temu dasselbe Unternehmen? Nein. Es sind verschiedene Shops, jeder mit eigenen Regeln für Versand, Lieferzeit und Rückgabe.",
-          "Ist 4CW5Y ein Gutschein? Nein. Es ist Cecílias Empfehlungscode bei SHEIN und gibt Rabatt, ja: auf eine Auswahl an Produkten und Aktionen; wie viel und auf welche Artikel, entscheidet SHEIN. Öffnen Sie SHEIN über den Link von Cecília und suchen Sie den Code in der App oder auf der Website: Die Suche öffnet die Auswahl."
+          "Ist 4CW5Y ein Gutschein? 4CW5Y ist Cecílias Empfehlungscode bei SHEIN und gibt Rabatt auf Produkte und Aktionen, die die Plattform auswählt. Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website, um die Auswahl zu sehen."
         ]
       }
     ],
@@ -81567,7 +81558,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Nehmen Sie Temu, wenn Sie Kleidung kaufen, ohne sie anzuprobieren, und die längste veröffentlichte Frist zum Zurückgeben wollen: 90 Tage, ab dem Kauf gezählt, sofern Ihr Artikel unter die Regel fällt."
+        "Wählen Sie Temu, wenn für Ihren Artikel die 90 Tage ab Kauf gelten und das Rückgabedatum Ihnen nach der Lieferung mehr Zeit lässt als bei SHEIN; vergleichen Sie die Fristen in der Bestellung."
       ],
       "skipIf": [
         "Lassen Sie SHEIN aus, wenn Sie mehr Zeit zum Zurückgeben möchten als die 30 Tage nach Erhalt, die bei den meisten Artikeln gelten."
@@ -81592,7 +81583,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN o Temu? Cosa pubblicano i due negozi su spedizione, tempi di consegna e resi in Italia, e come scegliere in base a ciò che compri, con i controlli da fare prima di pagare.",
-    "metaDescription": "SHEIN o Temu? Spedizione, tempi di consegna e resi per l'Italia, dazio UE di 3 euro e cosa controllare prima di comprare.",
+    "metaDescription": "4CW5Y dà uno sconto su una selezione SHEIN. Confronta SHEIN e Temu in Italia: spedizione, resi e cosa controllare prima di comprare.",
     "publishedAt": "13 ottobre 2026",
     "publishedAtISO": "2026-10-13",
     "updatedAt": "2026-11-17",
@@ -81609,7 +81600,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Non esiste un negozio migliore per tutti: per i vestiti conta il termine di reso che ti serve. Temu pubblica 90 giorni dall'acquisto, SHEIN fino a 30 giorni dal ricevimento per la maggior parte degli articoli. Se scegli SHEIN, il 4CW5Y dà lo sconto, sì: apri SHEIN dal link di Cecília e cerca il codice nell’app o sul sito."
+          "Temu conta 90 giorni dall’acquisto; SHEIN accetta la maggior parte degli articoli entro 30 giorni dal ricevimento. Confronta la scadenza del tuo articolo, la consegna e il totale. Su SHEIN, cerca 4CW5Y per ottenere uno sconto sulla selezione scelta dalla piattaforma; più avanti trovi le istruzioni."
         ]
       },
       {
@@ -81653,8 +81644,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dogana e imposte",
         "paragraphs": [
-          "Dal 1° luglio 2026 l'UE applica 3 euro di dazio doganale per categoria di prodotto sugli ordini inferiori a 150 euro spediti da fuori UE direttamente al consumatore (Regolamento (UE) 2026/382). Vale per qualsiasi negozio che spedisce da fuori UE, quindi la dogana non decide tra SHEIN e Temu.",
-          "Prima di pagare, controlla al checkout se il totale include le imposte e confronta quella cifra finale, non solo il prezzo dell'articolo."
+          "Gli acquisti importati in Italia da fuori UE sono soggetti all’IVA e alle regole doganali. Da luglio 2026 si applica un dazio temporaneo di 3 € per categoria di prodotto alle spedizioni fino a 150 € che rientrano nel [Regolamento (UE) 2026/382](https://eur-lex.europa.eu/eli/reg/2026/382/oj/eng).",
+          "Da novembre 2026 si applica anche una commissione di gestione doganale di 2 € per voce della dichiarazione per il commercio elettronico importato. È distinta dal dazio di 3 € e non equivale automaticamente a 2 € per ogni pezzo fisico; vedi la [spiegazione della dogana olandese](https://www.douane.nl/en/themes/import-and-export/import/e-commerce/handling-fee-for-e-commerce/).",
+          "Prima di pagare, confronta il totale con spedizione, IVA e oneri di ciascun negozio. Avere le stesse regole non garantisce lo stesso importo finale."
         ]
       },
       {
@@ -81925,11 +81917,8 @@ export const reviewsData: unknown[] = [
           "SHEIN o Temu: quale scegliere? Dipende da cosa compri e da quanto conta poter restituire: Temu dà 90 giorni dall'acquisto, e SHEIN riprende la maggior parte degli articoli fino a 30 giorni dal ricevimento.",
           "Quale costa meno, SHEIN o Temu? In questo articolo non misuriamo i prezzi. Confronta al checkout il prezzo finale di ogni articolo, con spedizione e imposte.",
           "Quale consegna più in fretta, SHEIN o Temu? SHEIN pubblica 6-12 giorni lavorativi per la spedizione Standard; Temu mostra il tempo nella pagina del prodotto (preparazione in 1-3 giorni). Controlla la data nella pagina del prodotto e nell'ordine.",
-          "SHEIN o Temu: qual è la differenza? Temu pubblica il termine più lungo, 90 giorni contati dall'acquisto, mentre SHEIN riprende la maggior parte degli articoli fino a 30 giorni dal ricevimento, quindi i due conteggi partono da punti diversi; spedizione e tempi di consegna sono nella tabella qui sopra.",
           "SHEIN o Temu per i vestiti? Verifica se il capo è restituibile, entro quando e a quale costo. Temu dà 90 giorni dall'acquisto e SHEIN fino a 30 giorni dal ricevimento, per la maggior parte degli articoli; lingerie, biancheria intima e bigiotteria di SHEIN si restituiscono solo entro i 14 giorni.",
-          "SHEIN e Temu pagano la dogana? L'UE applica 3 euro per categoria di prodotto sugli ordini inferiori a 150 euro spediti da fuori UE direttamente al consumatore (Regolamento (UE) 2026/382). Vale per qualsiasi negozio che spedisce così, quindi la dogana non decide tra SHEIN e Temu.",
-          "SHEIN e Temu sono la stessa azienda? No. Sono negozi diversi, ciascuno con le proprie regole su spedizione, consegna e reso.",
-          "Il 4CW5Y è un coupon? No. È il codice invito di Cecília su SHEIN e dà lo sconto, sì, su una selezione di prodotti e promozioni; quanto e su quali articoli lo decide SHEIN. Apri SHEIN dal link di Cecília e cerca il codice nell’app o sul sito: la ricerca apre la selezione."
+          "Il 4CW5Y è un coupon? 4CW5Y è il codice invito di Cecília su SHEIN e dà uno sconto sui prodotti e sulle promozioni scelti dalla piattaforma. Apri SHEIN dal link di Cecília e cercalo nell’app o sul sito per vedere la selezione."
         ]
       }
     ],
@@ -81951,7 +81940,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Scegli Temu se compri vestiti senza provarli e vuoi il termine più lungo pubblicato per restituirli: 90 giorni, contati dall'acquisto, se il tuo articolo rientra nella sua politica."
+        "Scegli Temu se il tuo articolo rientra nei 90 giorni dall’acquisto e la scadenza lascia più tempo dopo la consegna rispetto a SHEIN; confronta le date nell’ordine."
       ],
       "skipIf": [
         "Lascia perdere SHEIN se vuoi restituire con più margine dei 30 giorni dal ricevimento che concede per la maggior parte degli articoli."
@@ -81976,7 +81965,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN(쉬인)과 테무가 한국에서 공개한 배송비, 배송 기간, 반품 기한을 나란히 비교하고, 구매 목적에 따라 고르는 방법과 구매 전에 확인할 것을 정리했습니다.",
-    "metaDescription": "SHEIN과 테무 중 어디가 나을까요? 한국에 공개된 배송비, 배송 기간, 반품 기한을 비교하고 구매 목적에 따라 고르는 방법을 정리했습니다.",
+    "metaDescription": "4CW5Y는 SHEIN이 정한 상품과 프로모션에서 할인받는 추천 코드입니다. SHEIN과 테무의 한국 배송비, 반품 기한과 기산점, 구매 전 확인할 조건을 비교합니다.",
     "publishedAt": "2026년 10월 13일",
     "publishedAtISO": "2026-10-13",
     "updatedAt": "2026-11-17",
@@ -81993,7 +81982,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "모두에게 맞는 쇼핑몰은 없습니다. 무엇을 사는지, 반품이 얼마나 중요한지에 따라 달라지며, 테무는 구매 후 90일 이내, SHEIN은 수령 후 60일 이내의 반품 기한을 공개했습니다. SHEIN을 고른다면 4CW5Y는 할인이 되며, Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하세요."
+          "반품 기한은 테무가 구매일로부터 90일 이내, SHEIN이 수령일로부터 60일 이내이며 상품마다 조건이 다릅니다. 실제 반품 마감일과 반송 비용, 도착 예정일, 최종 결제 금액을 비교하세요. SHEIN 앱이나 사이트에서 4CW5Y를 검색하면 플랫폼이 정한 상품과 프로모션에서 할인받을 수 있으며, 사용법은 본문에서 설명합니다."
         ]
       },
       {
@@ -82035,11 +82024,11 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "세금은 쇼핑몰을 고르는 기준이 되지 않습니다",
+        "heading": "면세 기준과 최종 결제 금액 확인하기",
         "paragraphs": [
-          "관세청이 안내하는 해외직구 면세 기준은 개인이 자가사용 목적으로 구매하고 물품 가격이 미화 150달러(미국 발송은 200달러) 이하인 경우입니다. 150달러를 넘으면 공제 없이 물품가격, 운임, 보험료 등을 합한 총 과세가격에 세금이 붙습니다.",
-          "통관에는 개인통관고유부호도 필요합니다. 관세청 유니패스(unipass.customs.go.kr)에서 본인인증을 거쳐 발급받을 수 있습니다.",
-          "이 기준은 SHEIN에서 사든 테무에서 사든 같으므로, 둘 중 어느 쪽을 고를지 정하는 이유가 되지 않습니다."
+          "개인이 자가사용 목적으로 사는 물품은 [관세청 안내](https://www.customs.go.kr/kcs/ad/tax/BuyTaxCalculation.do)의 통관 방식과 면세 조건을 확인하세요. 목록통관은 물품가격 미화 150달러 이하가 기준이며, 미국에서 발송되는 목록통관 대상 물품은 200달러 이하까지 적용됩니다. 미국 발송이라는 이유만으로 모든 상품에 200달러 기준이 적용되는 것은 아닙니다.",
+          "일반 수입신고에서는 물품가격 150달러 이하가 면세 기준이며, 이를 넘으면 공제 없이 물품가격·국제운송비·보험료 등을 합한 과세가격에 세금이 붙습니다. 면세 기준의 물품가격에는 발송국 내 세금과 운송비 등이 포함되고, 명확히 구분되는 국제운송비·보험료는 제외할 수 있습니다.",
+          "개인통관고유부호는 [관세청 전자상거래 통관포털](https://ecos.customs.go.kr/ecp/index.do?mid=ECP_MNU_00000117)에서 본인인증을 거쳐 발급받을 수 있습니다. 세금은 쇼핑몰 이름만으로 같아지지 않으므로 발송국과 상품 조건을 확인하고 배송비·세금을 포함한 최종 금액을 비교하세요."
         ]
       },
       {
@@ -82072,7 +82061,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "구매 목적에 따라 고르기",
-        "emphasis": "입어 볼 수 없는 옷이라면 기한이 어디서부터 시작하는지 비교하세요. 테무는 구매 후 90일, SHEIN은 수령 후 60일부터 세고, 두 쇼핑몰 모두 상품에 따라 조건이 다릅니다. 고르기 전에 내 상품의 조건을 확인하세요.",
+        "emphasis": "입어 볼 수 없는 옷이라면 반품 기한이 언제부터 시작하는지 비교하세요. 테무는 구매일로부터 90일 이내, SHEIN은 수령일로부터 60일 이내이며 상품마다 조건이 다릅니다. 내 상품의 실제 반품 마감일과 반송 비용을 확인하세요.",
         "bullets": [
           "**여유 있게 반품하고 싶다면:** 테무는 구매 후 90일 이내, SHEIN은 수령 후 60일 이내입니다. 상품마다 반품 대상이 다르니 실제 마감일과 반송 비용을 확인하세요.",
           "**정해진 날짜까지 받아야 한다면:** 상품 페이지나 주문 내역에서 배송 기간을 확인하세요.",
@@ -82313,11 +82302,8 @@ export const reviewsData: unknown[] = [
           "SHEIN과 테무 중 어디가 더 나은가요? 모두에게 맞는 쇼핑몰은 없습니다. 무엇을 사는지, 반품이 얼마나 중요한지, 언제까지 받아야 하는지에 따라 고르세요.",
           "SHEIN과 테무 중 어디가 더 저렴한가요? 이 글은 가격을 비교하지 않습니다. 결제 화면에서 배송비와 세금을 포함한 최종 금액을 쇼핑몰별로 비교하세요.",
           "SHEIN과 테무 중 어디가 더 빨리 도착하나요? SHEIN은 이코노믹 배송 3~5영업일(처리 1~3일), 테무는 일반 배송 6~11일을 안내합니다.",
-          "SHEIN과 테무는 무엇이 다른가요? 가장 큰 차이는 반품 기한과 기산점입니다. 테무는 구매 후 90일, SHEIN은 수령 후 60일부터 세며, 일수만으로 고를 수는 없습니다. 배송비와 배송 기간은 위 표에 있습니다.",
-          "SHEIN과 테무는 같은 회사인가요? 아니요. 서로 다른 쇼핑몰이며, 배송비·배송 기간·반품 규정이 각각 따로 있습니다.",
           "SHEIN과 테무는 얼마 동안 반품할 수 있나요? SHEIN은 수령 후 60일 이내, 테무는 구매 후 90일 이내입니다. 테무는 같은 주문의 첫 반품은 무료이고, 두 번째 반품부터 배송비 2,500원을 공제합니다.",
-          "해외에서 오는 상품에도 세금이 붙나요? 수입 세금은 나라마다 다릅니다. 총 금액은 결제 전에 각 쇼핑몰의 결제 화면에서 확인하세요.",
-          "4CW5Y는 쿠폰인가요? 아니요. SHEIN의 추천 코드이며, 선별된 상품과 프로모션에서 할인이 됩니다. 할인 폭과 대상 상품은 SHEIN이 정합니다. Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하면 해당 페이지가 열립니다."
+          "4CW5Y는 쿠폰인가요? 4CW5Y는 Cecília의 SHEIN 추천 코드로, 플랫폼이 정한 상품과 프로모션에서 할인받을 수 있습니다. Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하면 해당 페이지가 열립니다."
         ]
       }
     ],
@@ -82339,7 +82325,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "옷을 입어 보지 않고 사면서 가장 길게 공개된 반품 기한을 원한다면 테무를 고르세요. 구매 후 90일 이내이며, 내 상품이 정책에 해당하는 경우입니다."
+        "상품에 구매일로부터 90일 이내 반품 정책이 적용되고 실제 마감일이 SHEIN보다 배송 후 결정할 시간을 더 많이 준다면 테무를 고르세요. 주문 내역에서 날짜를 비교하세요."
       ],
       "skipIf": [
         "수령 후 60일보다 더 긴 반품 기한이 필요하다면 SHEIN은 건너뛰세요."
@@ -82364,7 +82350,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN と Temu が日本向けに公表している送料、お届け日数、返品を並べて比べ、買うものに合わせた選び方をまとめました。関税の目安と、買う前に確認することも紹介します。",
-    "metaDescription": "SHEIN と Temu はどっちがいい？日本向けに公表されている送料、お届け日数、返品を比べ、買うものに合わせた選び方と買う前の確認点をまとめました。",
+    "metaDescription": "4CW5YはSHEINが選ぶ商品やキャンペーンで使える紹介コード。SHEINとTemuの日本向け送料、返品期限と起算日、買う前に確認したい点を比較します。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
     "updatedAt": "2026-11-17",
@@ -82381,7 +82367,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "すべての人に合うお店はありません。何を買うか、返品をどれだけ大事にするかで選ぶお店は変わり、Temu は購入日から90日以内（対象商品の場合）、SHEIN は購入から40日以内の返品期限を公表しています。SHEINを選ぶなら、CecíliaのリンクからSHEINを開き、アプリかサイトで4CW5Yを検索すると割引が受けられます。"
+          "返品期限は、Temuが対象商品の購入日から90日以内、SHEINが購入から40日以内です。商品の返品条件と返送料に加え、到着予定日と支払い総額を比べて選びましょう。SHEINでは、アプリやサイトで4CW5Yを検索すると、SHEINが指定する商品やキャンペーンで割引を受けられ、使い方は本文で説明します。"
         ]
       },
       {
@@ -82701,11 +82687,8 @@ export const reviewsData: unknown[] = [
           "SHEIN と Temu はどちらがいいですか？ すべての人に合うお店はありません。何を買うか、返品できることをどれだけ大事にするか、いつまでに受け取りたいかで選びましょう。",
           "SHEIN と Temu はどちらが安いですか？ この記事は価格を比べていません。支払うときに、お店ごとの支払い画面で、送料と税金を含めた合計金額を比べてください。",
           "SHEIN と Temu はどちらが早く届きますか？ SHEIN はお急ぎ便のお届け予定を注文ページに表示し、Temu は通常配送で5〜14日（処理は1〜3日）と公表しています。送料とお届け日数は上の表にまとめました。",
-          "SHEIN と Temu の違いは何ですか？ いちばん違うのは返品期限です。Temu は購入日から90日以内、SHEIN は購入から40日以内です。日数だけでは選べないので、その商品の返品条件と期限を比べましょう。送料とお届け日数は上の表のとおりです。",
-          "SHEIN と Temu は同じ会社ですか？ いいえ。別々のお店で、送料、お届け日数、返品のルールもそれぞれ違います。",
           "SHEIN と Temu の返品期限はいつまでですか？ SHEIN は購入から40日以内（対象外の商品あり）、Temu は購入日から90日以内（対象商品の場合）です。Temu は同じ注文の1回目の返品が無料で、2回目以降は送料550円が返金額から差し引かれます。",
-          "海外から届く荷物には、関税がかかりますか？ 税関によると、課税価格の合計額が1万円以下の物品の輸入は、関税と消費税が免税されます。ただし、革製のカバンやハンドバッグ、編物（ニット）製の衣類（Tシャツ、セーターなど）、革靴など、免税にならない物品もあります。どのお店で買っても同じです。",
-          "4CW5Y はクーポンですか？ いいえ。SHEIN の紹介コードで、選ばれた商品とキャンペーンで割引が受けられます。割引額と対象商品は SHEIN が決めます。Cecília のリンクから SHEIN を開き、アプリかサイトでコードを検索すると特集が開きます。"
+          "4CW5Y はクーポンですか？ 4CW5YはCecíliaのSHEIN紹介コードで、SHEINが指定する商品やキャンペーンで割引を受けられます。CecíliaのリンクからSHEINを開き、アプリやサイトでコードを検索すると特集が表示されます。"
         ]
       }
     ],
@@ -82752,7 +82735,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN 還是 Temu？比較兩家平台在新加坡和馬來西亞公布的運費、配送時間與退貨規則，以及依購物需求怎麼選、購買前要確認什麼。這篇文章不比較價格。",
-    "metaDescription": "SHEIN 還是 Temu？比較兩家平台在新加坡與馬來西亞公布的運費、時效與退貨，以及依購物需求怎麼選。",
+    "metaDescription": "4CW5Y是SHEIN推薦碼，可享平台指定商品與促銷的折扣。比較SHEIN和Temu在新加坡、馬來西亞的運費、退貨截止日及購買前要確認的條件。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
     "updatedAt": "2026-11-17",
@@ -82769,7 +82752,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "沒有一家平台適合所有人：怎麼選，取決於你要買什麼，以及能不能退貨對你有多重要。Temu 在新加坡站大多數商品為購買後 90 天內；SHEIN 在新加坡站大多數全新商品為收到後 15 天內，在馬來西亞站為收到後 20 天內。如果選擇 SHEIN，4CW5Y 確實有折扣：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋代碼。"
+          "先比較商品的退貨截止日：Temu新加坡站多數商品從購買日起算90天，SHEIN新加坡站多數全新商品從收貨日起算15天，馬來西亞站則為20天。再比較運費、稅金及預計到貨日期。在SHEIN App或網站搜尋4CW5Y，可享平台指定商品與促銷的折扣；下文說明使用方法。"
         ]
       },
       {
@@ -83113,10 +83096,8 @@ export const reviewsData: unknown[] = [
           "SHEIN 和 Temu 哪個比較好？ 沒有一家平台適合所有人。依你要買什麼、退貨對你有多重要，以及需要在哪天前收到來選。",
           "SHEIN 和 Temu 哪個比較便宜？ 這篇文章不比較價格。付款前，到各平台的結帳頁面，比較含運費與稅金的總金額。",
           "SHEIN 和 Temu 哪個比較快到貨？ 在新加坡，SHEIN 公布標準配送 3–5 個工作日，Temu 公布 3–6 個工作日（處理 1–3 天）；在馬來西亞，SHEIN 是 3–5 個工作日，Temu 是 4–15 個工作日（處理 1–3 天）。",
-          "SHEIN 和 Temu 有什麼差別？ 差別最大的是退貨期限與起算點：Temu 是購買後 90 天內，SHEIN 新加坡站是收到後 15 天內，馬來西亞站是 20 天內。只看天數不夠，請比較商品適用的截止日與條件；運費和時效見上面的表格。",
-          "SHEIN 和 Temu 是同一家公司嗎？ 不是。它們是不同的平台，運費、時效和退貨規則各不相同。",
           "SHEIN 和 Temu 的退貨期限是多久？ SHEIN 新加坡站大多數全新商品在收到後 15 天內，馬來西亞站在收到後 20 天內；Temu 公布的是購買後 90 天內（新加坡站適用於大多數商品，服飾等部分品類另有條件，馬來西亞站以該站頁面為準），每筆訂單第一次退貨免費。",
-          "4CW5Y 是優惠券嗎？ 不是。它是 SHEIN 的推薦碼，確實有折扣，適用於精選商品與促銷；折多少、哪些商品，由 SHEIN 決定。先透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋代碼，搜尋會開啟精選頁面。"
+          "4CW5Y 是優惠券嗎？ 4CW5Y是Cecília的SHEIN推薦碼，可享平台指定商品與促銷的折扣。透過Cecília的連結開啟SHEIN，在App或網站搜尋代碼即可看到精選頁面。"
         ]
       }
     ],
@@ -83138,7 +83119,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "買衣服沒辦法試穿、又想要公布的最長退貨期限，就選 Temu：購買後 90 天內，前提是這件商品適用該政策。"
+        "如果商品適用購買後90天的退貨政策，而且實際截止日比SHEIN留出更多收貨後的考慮時間，可以選Temu；請比較訂單中的日期。"
       ],
       "skipIf": [
         "如果你想要比 SHEIN 更長的退貨期限，就先別選 SHEIN：新加坡站收到後 15 天內，馬來西亞站收到後 20 天內。"
@@ -83163,7 +83144,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN 还是 Temu？对比两家平台在新加坡和马来西亚公布的运费、配送时间与退货规则，以及怎么按购物需求来选，买前要确认什么。这篇文章不比较价格。",
-    "metaDescription": "SHEIN 还是 Temu？对比两家平台在新加坡与马来西亚公布的运费、时效与退货，以及按购物需求怎么选。",
+    "metaDescription": "4CW5Y是SHEIN推荐码，可享平台指定商品与促销的折扣。比较SHEIN和Temu在新加坡、马来西亚的运费、退货截止日及购买前要确认的条件。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
     "updatedAt": "2026-11-17",
@@ -83180,7 +83161,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "没有一家平台适合所有人：怎么选，取决于你要买什么，以及能不能退货对你有多重要。Temu 在新加坡站大多数商品为购买后 90 天内；SHEIN 在新加坡站大多数全新商品为收到后 15 天内，在马来西亚站为收到后 20 天内。如果选择 SHEIN，4CW5Y 确实有折扣：通过 Cecília 的链接打开 SHEIN，再在应用或网站搜索代码。"
+          "先比较商品的退货截止日：Temu新加坡站多数商品从购买日起算90天，SHEIN新加坡站多数全新商品从收货日起算15天，马来西亚站则为20天。再比较运费、税费及预计到货日期。在SHEIN应用或网站搜索4CW5Y，可享平台指定商品与促销的折扣；下文说明使用方法。"
         ]
       },
       {
@@ -83524,10 +83505,8 @@ export const reviewsData: unknown[] = [
           "SHEIN 和 Temu 哪个更好？ 没有一家平台适合所有人。按你要买什么、退货对你有多重要，以及需要在哪天前收到来选。",
           "SHEIN 和 Temu 哪个更便宜？ 这篇文章不比较价格。付款前，到各平台的结账页面，比较含运费与税金的总金额。",
           "SHEIN 和 Temu 哪个到货更快？ 在新加坡，SHEIN 公布标准配送 3–5 个工作日，Temu 公布 3–6 个工作日（处理 1–3 天）；在马来西亚，SHEIN 是 3–5 个工作日，Temu 是 4–15 个工作日（处理 1–3 天）。",
-          "SHEIN 和 Temu 有什么区别？ 差别最大的是退货期限与起算点：Temu 是购买后 90 天内，SHEIN 新加坡站是收到后 15 天内，马来西亚站是 20 天内。只看天数不够，请比较商品适用的截止日与条件；运费和时效见上面的表格。",
-          "SHEIN 和 Temu 是同一家公司吗？ 不是。它们是不同的平台，运费、时效和退货规则各不相同。",
           "SHEIN 和 Temu 的退货期限是多久？ SHEIN 新加坡站大多数全新商品在收到后 15 天内，马来西亚站在收到后 20 天内；Temu 公布的是购买后 90 天内（新加坡站适用于大多数商品，服饰等部分品类另有条件，马来西亚站以该站页面为准），每个订单第一次退货免费。",
-          "4CW5Y 是优惠券吗？ 不是。它是 SHEIN 的推荐码，确实有折扣，适用于精选商品与促销；折多少、哪些商品，由 SHEIN 决定。先通过 Cecília 的链接打开 SHEIN，再在应用或网站搜索代码，搜索会打开精选页面。"
+          "4CW5Y 是优惠券吗？ 4CW5Y是Cecília的SHEIN推荐码，可享平台指定商品与促销的折扣。通过Cecília的链接打开SHEIN，在应用或网站搜索代码即可看到精选页面。"
         ]
       }
     ],
@@ -83549,7 +83528,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "买衣服没法试穿、又想要公布的最长退货期限，就选 Temu：购买后 90 天内，前提是这件商品适用该政策。"
+        "如果商品适用购买后90天的退货政策，而且实际截止日比SHEIN留出更多收货后的考虑时间，可以选Temu；请比较订单中的日期。"
       ],
       "skipIf": [
         "如果你想要比 SHEIN 更长的退货期限，就先别选 SHEIN：新加坡站收到后 15 天内，马来西亚站收到后 20 天内。"
