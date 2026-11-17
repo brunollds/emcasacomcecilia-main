@@ -246446,6 +246446,12 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cupom testado no checkout do site oficial. Não usamos os produtos. Podemos receber comissão pelo cupom.",
     "relatedArticles": [
       {
+        "slug": "lamazonie-e-confiavel"
+      },
+      {
+        "slug": "lamazonie-reclame-aqui-nota-reputacao"
+      },
+      {
         "slug": "cupom-la-ganexa-como-usar"
       }
     ],
@@ -246540,6 +246546,402 @@ export const reviewsData: unknown[] = [
           "O cupom vale nos kits em promoção? No nosso teste, valeu. Os 5% entraram sobre o preço de um kit de protetores.",
           "O cupom vale no Mercado Livre? Não. O código vale no site oficial da L'Amazonie. Em marketplace, vale o preço do anúncio.",
           "O cupom CECILIA vale para quem já é cliente? Vale, no primeiro pedido e nos seguintes."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 993,
+    "slug": "lamazonie-reclame-aqui-nota-reputacao",
+    "locale": "pt",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "bodyDatesReason": "reclame-aqui",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "16 de novembro de 2026",
+    "publishedAtISO": "2026-11-16",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIA",
+    "affiliate": "lamazonie",
+    "title": "L’Amazonie no Reclame Aqui: nota, reputação e o que mais gera reclamação",
+    "seoTitle": "L’Amazonie no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "description": "A nota da L’Amazonie no Reclame Aqui, o tamanho da base por trás dela, as queixas mais citadas e o que conferir sobre entrega e devolução antes de comprar.",
+    "metaDescription": "CECILIA dá 5% OFF na L’Amazonie. Veja a nota no Reclame Aqui, as queixas mais citadas e por que a base pequena de avaliações pede cuidado na leitura.",
+    "image": "/images/reviews/lamazonie/lamazonie-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Protetor solar em bastão FPS 99 da L’Amazonie, em foto oficial da loja, com o logo da marca, a chamada “No Reclame Aqui” e o código CECILIA.",
+    "cta": {
+      "text": "Se a L’Amazonie faz sentido para a sua compra, abra o site oficial pelo botão, clique em “Finalizar compra” no carrinho e digite CECILIA no campo “Tem um cupom?”.",
+      "label": "Ir para a L’Amazonie",
+      "url": "https://www.lamazonie.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com os dados públicos do Reclame Aqui e as políticas da loja. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "lamazonie-e-confiavel"
+      },
+      {
+        "slug": "cupom-lamazonie-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A L’Amazonie tem reputação Boa e nota 7,0 no Reclame Aqui, com todas as reclamações do recorte de seis meses respondidas. A base é pequena, com 30 reclamações e 16 avaliadas, então cada avaliação nova mexe na nota. No histórico geral do perfil, a queixa mais citada é atraso na entrega."
+        ]
+      },
+      {
+        "heading": "A nota em números",
+        "paragraphs": [
+          "O [perfil L’Amazonie no Reclame Aqui](https://www.reclameaqui.com.br/empresa/l-amazonie/) mostra os indicadores por período. Na leitura de 16 de novembro de 2026, os dois recortes mais recentes eram o de seis meses, de maio a outubro de 2026, e o de doze meses, de novembro de 2025 a outubro de 2026."
+        ],
+        "comparisonTable": {
+          "caption": "Perfil “L’Amazonie” no Reclame Aqui. As janelas de 6 e de 12 meses se sobrepõem.",
+          "headers": [
+            "Indicador",
+            "6 meses",
+            "12 meses"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Boa",
+              "Boa"
+            ],
+            [
+              "Nota",
+              "7,0",
+              "7,4"
+            ],
+            [
+              "Reclamações recebidas",
+              "30",
+              "64"
+            ],
+            [
+              "Respondidas",
+              "100%",
+              "100%"
+            ],
+            [
+              "Problema resolvido, entre as avaliadas",
+              "75%",
+              "83,8%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "56,3%",
+              "56,8%"
+            ],
+            [
+              "Avaliadas",
+              "16",
+              "37"
+            ],
+            [
+              "Nota média do consumidor",
+              "5,44",
+              "5,81"
+            ],
+            [
+              "Tempo médio de resposta",
+              "1 dia e 14 horas",
+              "2 dias e 15 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As notas 7,0 e 7,4 são calculadas pelo Reclame Aqui, e 5,44 e 5,81 são as médias que os consumidores deram ao atendimento. Pela [metodologia da plataforma](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui), o índice de solução e a intenção de voltar a comprar são calculados sobre as reclamações avaliadas, que são pouco mais da metade das recebidas."
+        ]
+      },
+      {
+        "heading": "Por que ler a nota com cuidado",
+        "paragraphs": [
+          "O recorte de seis meses tem 30 reclamações, e só 16 foram avaliadas por quem reclamou. Numa base desse tamanho, cada avaliação vale pouco mais de 6 pontos percentuais no índice de solução e no “voltariam a fazer negócio”. Poucas avaliações novas já mudam esses percentuais.",
+          "O histórico mensal mostra essa oscilação. O perfil aparece sem índice em maio, junho e julho, com reputação Ótima em agosto e Boa em setembro e outubro.",
+          "O recorte de doze meses tem 37 avaliações e o histórico geral, que soma até três anos, tem 58. São bases um pouco maiores e contam uma história parecida, com mais de 80% de solução entre as avaliadas e de 57% a 58% de intenção de voltar a comprar."
+        ]
+      },
+      {
+        "heading": "Como a nota mudou",
+        "paragraphs": [
+          "A aba de 2025 do perfil traz nota 7,6, com 58 reclamações, todas respondidas, 86,7% de solução entre as 31 avaliadas e 60% de consumidores que voltariam a comprar. No histórico geral, a nota é 7,4, com 116 reclamações, 99,1% respondidas e 84,2% de solução entre as avaliadas.",
+          "O tempo de resposta caiu. A média era de 4 dias e 9 horas em 2025 e ficou em 1 dia e 14 horas no recorte de seis meses. O índice de solução fez o caminho contrário, de 86,7% para 75%, sempre sobre poucas avaliações.",
+          "A aba de 2024 não trouxe dados na nossa leitura."
+        ]
+      },
+      {
+        "heading": "O que mais gera reclamação",
+        "paragraphs": [
+          "Na aba geral do perfil, o problema mais citado é “Atraso na entrega”, com 43,1% das reclamações.",
+          "As reclamações mais recentes da página, na data da leitura, tratavam destes temas:"
+        ],
+        "bullets": [
+          "pedido que não saiu no prazo de envio informado;",
+          "pedido parado em separação;",
+          "compra não recebida e e-mail sem resposta;",
+          "produtos não recebidos;",
+          "sérum que chegou vazio."
+        ],
+        "postParagraphs": [
+          "Todas tinham resposta da empresa. São relatos dos consumidores; a leitura não permite estimar a frequência de cada problema nem concluir quem tem razão em cada caso."
+        ]
+      },
+      {
+        "heading": "A queixa de entrega e a regra da loja",
+        "paragraphs": [
+          "A [política de frete da L’Amazonie](https://www.lamazonie.com.br/policies/shipping-policy) informa envio pelos Correios (PAC e SEDEX) e pela Total Express, só para o Brasil. O despacho acontece em até 3 dias úteis depois da compensação do pagamento, que pode levar de 24 a 72 horas. O prazo de entrega só começa a contar depois da postagem.",
+          "O código de rastreio chega por e-mail depois do faturamento e fica na conta do cliente, em Meus Pedidos. A página avisa que ele só passa a funcionar quando a agência registra o recebimento do pacote.",
+          "A mesma política diz que o cumprimento do prazo é de responsabilidade dos Correios e da Total Express e pede que o cliente avise a central de atendimento em caso de problema. Dos cinco relatos recentes que lemos, quatro tratam de envio ou de entrega."
+        ]
+      },
+      {
+        "heading": "Qual perfil é o da L’Amazonie",
+        "paragraphs": [
+          "O perfil se chama “L’Amazonie”, tem o selo de empresa verificada, está na categoria de cuidados com a pele (dermocosméticos), aponta para o site lamazonie.com.br e informa que a empresa está no Reclame Aqui há 5 anos.",
+          "O CNPJ que aparece no perfil é 31.469.239/0001-39. O rodapé do site oficial traz outro: ABRAHAO VAREJISTA LTDA, CNPJ 60.522.061/0001-40."
+        ]
+      },
+      {
+        "heading": "O que conferir antes de comprar",
+        "paragraphs": [
+          "Entrega e devolução têm regra publicada pela loja. Vale conhecer antes de pagar:"
+        ],
+        "bullets": [
+          "**Prazo.** Simule o frete e o prazo pelo CEP, no carrinho. Some a ele os dias de compensação do pagamento e os até 3 dias úteis de despacho.",
+          "**Data marcada.** Para presente ou viagem, faça a conta com folga. A política cita datas festivas e greves entre os motivos de atraso.",
+          "**Endereço.** Se o pacote voltar por endereço errado ou incompleto, o frete do reenvio é cobrado de novo. Quem pede o reembolso nesse caso recebe só o valor dos produtos.",
+          "**Devolução.** A [página de trocas e devoluções](https://www.lamazonie.com.br/pages/trocas-e-devolucoes) aceita o pedido em até sete dias do recebimento, pelo e-mail da loja, e pede o produto sem uso e com a caixa lacrada. O que o Procon-SP orienta sobre esse ponto está em [L’Amazonie é confiável?](/reviews/lamazonie-e-confiavel).",
+          "**Produto com problema.** A página de devoluções não trata de produto com defeito ou vazio. Se acontecer, fotografe o pacote e o produto no dia em que chegar e fale com a loja."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/lamazonie/lamazonie-reclame-aqui-serum-embalagens.webp",
+            "alt": "Dois frascos do sérum para cílios e sobrancelhas da L’Amazonie, um preto e um verde com tampa dourada, em foto oficial da loja",
+            "caption": "As duas embalagens do sérum mostradas pela loja. Foto: L’Amazonie.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas"
+          }
+        ]
+      },
+      {
+        "heading": "Se der problema",
+        "paragraphs": [
+          "O primeiro canal é o da loja. O rodapé do site informa atendimento por WhatsApp e pelo e-mail sac@lamazonie.com.br, de segunda a sexta, das 9h às 19h, e aos sábados, das 8h às 12h. Tenha em mãos o número do pedido, a data da compra e o código de rastreio.",
+          "Se a loja não resolver, registre a reclamação no Reclame Aqui com esses dados. O Procon do seu estado também atende casos de compra pela internet."
+        ]
+      },
+      {
+        "heading": "O que os números indicam",
+        "paragraphs": [
+          "A L’Amazonie respondeu todas as reclamações dos dois recortes mais recentes, e o tempo médio de resposta é menor do que o de 2025. No recorte de seis meses, uma em cada quatro reclamações avaliadas não teve o problema considerado resolvido, e pouco mais da metade de quem avaliou voltaria a comprar. No histórico geral, a queixa mais citada é atraso na entrega, então a conta do prazo merece atenção antes do pagamento. Como a base é pequena, abra o perfil no dia da compra para ver a nota atual.",
+          "Quem vende, o que a Anvisa mostra sobre o sérum e as condições da garantia de 60 dias estão em [L’Amazonie é confiável?](/reviews/lamazonie-e-confiavel).",
+          "Se decidir comprar, o cupom CECILIA na L’Amazonie dá 5% OFF no site oficial. As condições estão na [página do cupom da L’Amazonie](/cupons/lamazonie)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A L’Amazonie é confiável no Reclame Aqui? O perfil tem reputação Boa e todas as reclamações dos recortes de seis e doze meses receberam resposta. No recorte de seis meses, 75% das avaliadas tiveram o problema considerado resolvido e 56,3% de quem avaliou voltaria a comprar. A base é de 16 avaliações.",
+          "A L’Amazonie responde as reclamações? Sim. Nos dois recortes lidos, 100% das reclamações tiveram resposta. No de seis meses, a resposta levou 1 dia e 14 horas, em média.",
+          "O que fazer se o pedido da L’Amazonie não chegou? Confira o rastreio enviado por e-mail e lembre que o prazo conta da postagem, depois de até 3 dias úteis de despacho. Depois, fale com a loja pelo WhatsApp ou pelo e-mail do atendimento. Sem solução, registre no Reclame Aqui ou procure o Procon do seu estado.",
+          "A L’Amazonie devolve o dinheiro? A política da loja aceita a devolução pedida em até sete dias do recebimento, com o produto sem uso e a caixa lacrada. O reembolso sai depois que a loja recebe o produto, em até 20 dias úteis no boleto ou em até duas faturas no cartão."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 994,
+    "slug": "lamazonie-e-confiavel",
+    "locale": "pt",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "16 de novembro de 2026",
+    "publishedAtISO": "2026-11-16",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIA",
+    "affiliate": "lamazonie",
+    "title": "L’Amazonie é confiável? CNPJ, Anvisa, garantia de 60 dias e devolução",
+    "seoTitle": "L’Amazonie é confiável? CNPJ, Anvisa e devolução",
+    "type": "Editorial",
+    "description": "Quem vende a L’Amazonie, o que a base da Anvisa mostra sobre o sérum, a reputação e as condições da garantia de 60 dias e da devolução.",
+    "metaDescription": "CECILIA dá 5% OFF na L’Amazonie. Antes, veja quem vende, o que a Anvisa mostra, a nota no Reclame Aqui e as regras da garantia e da devolução.",
+    "image": "/images/reviews/lamazonie/lamazonie-e-confiavel-capa.webp",
+    "imageAlt": "Escovinha aplicando sérum em uma sobrancelha, em foto oficial da L’Amazonie, com o logo da marca, a chamada “É confiável?” e o código CECILIA.",
+    "cta": {
+      "text": "Se a L’Amazonie faz sentido para a sua compra, abra o site oficial pelo botão, clique em “Finalizar compra” no carrinho e digite CECILIA no campo “Tem um cupom?”.",
+      "label": "Ir para a L’Amazonie",
+      "url": "https://www.lamazonie.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com dados públicos da empresa, da Anvisa, do Reclame Aqui e as políticas da loja. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "lamazonie-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "cupom-lamazonie-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A L’Amazonie vende pelo site oficial, com CNPJ no rodapé, e o sérum de sobrancelhas aparece como notificado na base da Anvisa. No Reclame Aqui, a reputação é Boa, com atraso na entrega como queixa mais citada. A garantia de 60 dias e a devolução têm condições que vale ler antes de pagar."
+        ]
+      },
+      {
+        "heading": "Quem vende: site oficial e CNPJ",
+        "paragraphs": [
+          "O site oficial é lamazonie.com.br. O rodapé traz a razão social ABRAHAO VAREJISTA LTDA, o CNPJ 60.522.061/0001-40 e um endereço em Serra, no Espírito Santo.",
+          "O [perfil da marca no Reclame Aqui](https://www.reclameaqui.com.br/empresa/l-amazonie/) aponta para o mesmo site e mostra outro CNPJ, 31.469.239/0001-39.",
+          "A marca se apresenta no site como de dermocosméticos brasileira, com ativos da Amazônia. O catálogo tem o sérum para cílios e sobrancelhas, protetor solar em bastão, sérum de vitamina C, gel de limpeza e kits."
+        ]
+      },
+      {
+        "heading": "O que a Anvisa mostra sobre o sérum",
+        "paragraphs": [
+          "Na base de cosméticos da Anvisa, o processo 25351.021744/2026-56 corresponde ao produto “SÉRUM CÍLIOS E SOBRANCELHAS L’AMAZONIE”. Ele aparece como notificado, a forma de regularização dos cosméticos isentos de registro, com validade até 2036. A empresa detentora do processo é a CTEC Indústria e Comércio de Cosméticos, CNPJ 03.830.222/0001-20.",
+          "A mesma base traz um processo mais antigo, de 2024, para um “Sérum Fortalecedor de Sobrancelhas L’Amazonie”, em nome de outra empresa. Qual dos dois corresponde ao frasco vendido hoje, só o rótulo informa. Procure o número do processo na embalagem e confira na [consulta de cosméticos da Anvisa](https://consultas.anvisa.gov.br/#/cosmeticos/).",
+          "A notificação trata da regularização do produto para venda. A base da Anvisa não traz avaliação sobre o resultado do sérum, e a página do produto no site da loja não cita a agência."
+        ]
+      },
+      {
+        "heading": "A reputação em resumo",
+        "paragraphs": [
+          "No Reclame Aqui, a L’Amazonie tem reputação Boa e nota 7,0 no recorte de seis meses, com todas as reclamações respondidas. Entre as 16 avaliadas, 75% tiveram o problema considerado resolvido e 56,3% de quem avaliou voltaria a comprar. A base é pequena e a queixa mais citada no histórico é atraso na entrega; os números completos estão em [L’Amazonie no Reclame Aqui](/reviews/lamazonie-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Entrega: prazo, despacho e frete grátis",
+        "paragraphs": [
+          "Pela [política de frete da L’Amazonie](https://www.lamazonie.com.br/policies/shipping-policy), os pedidos saem pelos Correios (PAC e SEDEX) ou pela Total Express, só para o Brasil. O despacho acontece em até 3 dias úteis depois da compensação do pagamento, e o prazo de entrega conta da postagem. O rastreio chega por e-mail.",
+          "O valor e o prazo saem pelo CEP, no carrinho. O site anuncia frete grátis acima de R$ 199 para a maior parte do país e acima de R$ 500 no Acre, no Piauí, em Rondônia e em Roraima.",
+          "Se o pacote voltar por endereço errado ou incompleto, a política cobra o frete de novo para reenviar."
+        ]
+      },
+      {
+        "heading": "Garantia Mais Fios: 60 dias e as condições",
+        "paragraphs": [
+          "A [Garantia Mais Fios](https://www.lamazonie.com.br/pages/garantia) é a promessa da marca para o sérum de sobrancelhas. Se a foto do dia 60 não mostrar fios novos em relação à do dia 1, a loja devolve o dinheiro, sem pedir o produto de volta. Vale para compras feitas no site a partir de 17 de outubro de 2026, uma vez por CPF.",
+          "As condições, segundo a página:"
+        ],
+        "bullets": [
+          "**Dois frascos.** São 60 dias seguidos de uso, o que pede 2 frascos. Serve o kit de 60 dias ou um segundo frasco comprado no site antes de o primeiro acabar.",
+          "**Foto do dia 1.** Enviada à consultora da loja, pelo WhatsApp, em até 3 dias depois de receber o pedido.",
+          "**Foto do dia 60.** Enviada entre o 60º e o 70º dia de uso, no mesmo lugar e com a mesma luz.",
+          "**Como fotografar.** De frente para uma janela, com luz do dia, sobrancelha limpa, sem lápis, gel ou maquiagem, celular na altura dos olhos, câmera traseira e sem filtro.",
+          "**Análise e reembolso.** A loja responde em até 5 dias úteis e paga em até 10 dias úteis depois da aprovação, por Pix ou estorno no cartão.",
+          "**Quanto volta.** O valor pago pelos frascos usados nos 60 dias, sem o frete. No kit de 90 dias, o terceiro frasco pode ser devolvido lacrado e entra no reembolso."
+        ],
+        "comparisonTable": {
+          "caption": "O que tira o direito à garantia, segundo a página da loja.",
+          "headers": [
+            "Situação",
+            "O que a página diz"
+          ],
+          "rows": [
+            [
+              "Compra fora do site",
+              "Não vale em marketplaces, salões e revendedoras"
+            ],
+            [
+              "Sem a foto do dia 1",
+              "Não vale"
+            ],
+            [
+              "Tratamento interrompido",
+              "Não vale; são 60 dias seguidos"
+            ],
+            [
+              "Henna, micropigmentação ou lápis permanente no período",
+              "Não vale"
+            ],
+            [
+              "Depilação da região no período",
+              "Não vale"
+            ],
+            [
+              "Segunda garantia no mesmo CPF",
+              "Não vale; é uma por cliente"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A página diz que, em caso de dúvida na comparação das fotos, a decisão é a favor do cliente. Ela não fala de compra com cupom. Quem pretende usar a garantia deve guardar o comprovante do pedido e a conversa com a consultora."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/lamazonie/lamazonie-e-confiavel-serum-dois-frascos.webp",
+            "alt": "Dois frascos verdes com tampa dourada do sérum para cílios e sobrancelhas da L’Amazonie, em foto oficial da loja",
+            "caption": "A garantia pede 60 dias seguidos de uso, o que dá dois frascos. Foto: L’Amazonie.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas"
+          }
+        ]
+      },
+      {
+        "heading": "Devolução em 7 dias: a política e o que o Procon-SP orienta",
+        "paragraphs": [
+          "A [página de trocas e devoluções](https://www.lamazonie.com.br/pages/trocas-e-devolucoes), lida em 16 de novembro de 2026, aceita a devolução pedida pelo e-mail sac@lamazonie.com.br em até sete dias do recebimento. Ela pede o produto “com a caixa lacrada e sem ter sido utilizado” e diz que o frete da devolução é do cliente. O reembolso sai depois que a loja recebe o produto, em até 20 dias úteis no boleto ou em até duas faturas no cartão.",
+          "O [artigo 49 do Código de Defesa do Consumidor](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm) dá a quem compra pela internet sete dias para desistir e receber de volta o que pagou. O Guia de Comércio Eletrônico do Procon-SP, ao tratar desse prazo, diz que o fornecedor não pode exigir embalagem inviolada como condição para aceitar o pedido nem cobrar o frete da devolução.",
+          "A página da garantia da própria loja afirma que os sete dias de arrependimento continuam valendo, como manda a lei. Se houver divergência entre a política e a orientação do órgão no seu caso, o Procon do seu estado é o caminho."
+        ]
+      },
+      {
+        "heading": "Formas de pagamento",
+        "paragraphs": [
+          "A loja aceita cartão de crédito, em até 6 vezes sem juros, e Pix. O checkout mostra 3% de desconto para pagamento no Pix. O site também anuncia cashback de 15% para a próxima compra, que é um crédito futuro e fica fora da conta do pedido de hoje."
+        ]
+      },
+      {
+        "heading": "Site oficial ou Mercado Livre",
+        "paragraphs": [
+          "A marca tem uma página de loja oficial no Mercado Livre. O cupom CECILIA, a Garantia Mais Fios e o cashback são do site oficial. No marketplace valem o preço e as condições do anúncio, e a página da garantia exclui expressamente compras em marketplaces."
+        ]
+      },
+      {
+        "heading": "Vale comprar na L’Amazonie?",
+        "paragraphs": [
+          "Os dados públicos mostram uma loja com CNPJ no rodapé, um sérum regularizado por notificação na Anvisa e reputação Boa no Reclame Aqui, com todas as reclamações recentes respondidas. Mostram também uma base pequena de avaliações, atraso na entrega como queixa principal e uma política de devolução que pede caixa lacrada e frete por conta do cliente, dois pontos que o guia do Procon-SP trata de outra forma. Antes de pagar, faça a conta do prazo para o seu CEP e, se o motivo da compra for a garantia, leia as condições inteiras.",
+          "Se decidir comprar, o cupom CECILIA na L’Amazonie dá 5% OFF no site oficial. As condições estão na [página do cupom da L’Amazonie](/cupons/lamazonie), e o passo a passo, em [como usar o cupom da L’Amazonie](/reviews/cupom-lamazonie-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A L’Amazonie é registrada na Anvisa? O sérum para cílios e sobrancelhas é isento de registro e aparece na base da Anvisa como produto notificado, a forma de regularização desse tipo de cosmético. Com o número do processo que estiver na embalagem, dá para conferir na consulta da agência.",
+          "Qual é o CNPJ da L’Amazonie? O rodapé do site oficial traz ABRAHAO VAREJISTA LTDA, CNPJ 60.522.061/0001-40. O perfil da marca no Reclame Aqui mostra o CNPJ 31.469.239/0001-39.",
+          "A L’Amazonie devolve o dinheiro? A política aceita a devolução pedida em até sete dias do recebimento, com o produto sem uso e a caixa lacrada. O reembolso sai depois que a loja recebe o produto, em até 20 dias úteis no boleto ou em até duas faturas no cartão.",
+          "Como funciona a garantia de 60 dias? Vale para o sérum de sobrancelhas comprado no site, uma vez por CPF. São dois frascos, 60 dias seguidos de uso e duas fotos, uma no começo e outra no fim. Sem fios novos na comparação, a loja reembolsa os frascos usados, sem o frete.",
+          "A L’Amazonie vende no Mercado Livre? Há uma página de loja oficial da marca no marketplace. A garantia de 60 dias e o cashback são do site oficial, e a página da garantia exclui compras em marketplaces."
         ]
       }
     ]
