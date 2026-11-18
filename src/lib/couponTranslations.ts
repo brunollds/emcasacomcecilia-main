@@ -1973,7 +1973,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
     ],
     faqs: [
       {
-        question: 'How much does Proton discount on Black Friday?',
+        question: 'How big is Proton's Black Friday discount?',
         answer:
           'Up to 75% off on every line through Cecília\'s links: Proton VPN, Mail, Pass, Drive, Lumo and Proton Unlimited. The discount on each plan appears on the plans page the link opens, and the final price at checkout.',
       },
