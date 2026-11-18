@@ -166452,6 +166452,128 @@
       "verified_at": "2026-11-18T00:07:25.155Z",
       "verification_etag_or_digest": "09b8fb1662b94ab298ba0370ae16918b251785a2a31e852595c715f43eb05b42",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-vale-a-pena-capa.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-vale-a-pena-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 123260,
+      "sha256": "9f3fad1dfb4504917142d58b2524e507d8b3bd01cf62f7b1c9338fafa0ada59b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-vale-a-pena-capa.webp",
+      "storage_filename": "proton-vpn-vale-a-pena-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-proton-vpn-worth-it.json",
+        "content/reviews/proton-vpn-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-proton-vpn-worth-it.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-vale-a-pena.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-vale-a-pena-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9f3fad1dfb4504917142d58b2524e507d8b3bd01cf62f7b1c9338fafa0ada59b/proton-vpn-vale-a-pena-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9f3fad1dfb4504917142d58b2524e507d8b3bd01cf62f7b1c9338fafa0ada59b/proton-vpn-vale-a-pena-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T02:28:58.107Z",
+      "verification_etag_or_digest": "9f3fad1dfb4504917142d58b2524e507d8b3bd01cf62f7b1c9338fafa0ada59b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-vale-a-pena-precos-brl.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-brl.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40234,
+      "sha256": "f17d1e5c9f4fe4bc8b328eb2822339f16a2e369b7e63de55b9b890d61e8896b4",
+      "width": 560,
+      "height": 770,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-vale-a-pena-precos-brl.webp",
+      "storage_filename": "proton-vpn-vale-a-pena-precos-brl.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-vale-a-pena.json",
+          "line": 157,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-brl.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f17d1e5c9f4fe4bc8b328eb2822339f16a2e369b7e63de55b9b890d61e8896b4/proton-vpn-vale-a-pena-precos-brl.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f17d1e5c9f4fe4bc8b328eb2822339f16a2e369b7e63de55b9b890d61e8896b4/proton-vpn-vale-a-pena-precos-brl.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T02:28:58.108Z",
+      "verification_etag_or_digest": "f17d1e5c9f4fe4bc8b328eb2822339f16a2e369b7e63de55b9b890d61e8896b4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31516,
+      "sha256": "04832afc0daa3e6e505b36ee06ea09e18285e1c1a33102abc2a4c6283c1ad3bb",
+      "width": 560,
+      "height": 730,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-vale-a-pena-precos-usd.webp",
+      "storage_filename": "proton-vpn-vale-a-pena-precos-usd.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-proton-vpn-worth-it.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-proton-vpn-worth-it.json",
+          "line": 158,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/04832afc0daa3e6e505b36ee06ea09e18285e1c1a33102abc2a4c6283c1ad3bb/proton-vpn-vale-a-pena-precos-usd.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/04832afc0daa3e6e505b36ee06ea09e18285e1c1a33102abc2a4c6283c1ad3bb/proton-vpn-vale-a-pena-precos-usd.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T02:28:58.108Z",
+      "verification_etag_or_digest": "04832afc0daa3e6e505b36ee06ea09e18285e1c1a33102abc2a4c6283c1ad3bb",
+      "verification_status": "verified"
     }
   ]
 }

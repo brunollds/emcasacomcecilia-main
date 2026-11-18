@@ -1,0 +1,232 @@
+{
+  "id": 1048,
+  "slug": "proton-vpn-worth-it-zh-hans",
+  "locale": "zh-hans",
+  "translationKey": "proton-vpn-vale-a-pena",
+  "title": "Proton VPN 值得买吗？免费套餐能做什么、Plus 多了什么，以及要花多少钱",
+  "seoTitle": "Proton VPN 值得买吗？免费版与 Plus、价格和续订",
+  "type": "购买指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Proton VPN 免费版覆盖什么、哪些只有 Plus 才有、Plus 首期和续订各要多少钱，以及什么时候适合选 Proton Unlimited。",
+  "metaDescription": "Proton VPN 值得买吗？看免费套餐能做什么、Plus 何时划算、含续订的价格，以及 30 天退款的条件。",
+  "publishedAt": "2026年11月17日",
+  "publishedAtISO": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-vpn-vale-a-pena-capa.webp",
+  "imageAlt": "Proton 标志旁写着“Proton VPN，免费版或 Plus”，旁边是一张官方照片，画面中一只手拿着手机，屏幕上是 Proton VPN 应用。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "按 Proton 的说法，Proton VPN 免费套餐没有广告、没有流量限制，一次可连 1 台设备。手机连公共 Wi-Fi 时，这样就够用。想自己选国家、同时用多台设备，或要屏蔽广告，Plus 才划算。除了按月订阅的套餐，续订价都比首期高。"
+      ]
+    },
+    {
+      "heading": "免费套餐能做什么、不能做什么",
+      "paragraphs": [
+        "免费套餐不需要银行卡。按 Proton 页面所述，它没有广告、没有流量限制，并遵循不保存活动日志的政策。",
+        "限制写在价格页面。免费套餐一次连 1 台设备，页面提到的是“中等 VPN 速度”，以及 10 个国家“随机选择”的服务器，国家由应用决定。广告屏蔽、P2P 和流媒体在免费套餐中标示为不包含，Secure Core 则标示为高级功能。"
+      ]
+    },
+    {
+      "heading": "Plus 多了什么",
+      "paragraphs": [
+        "VPN Plus 是只含 VPN 的付费套餐。价格页面列出了它与免费套餐的区别。"
+      ],
+      "bullets": [
+        "**同时 10 台设备**，免费套餐是 1 台。",
+        "**可自选国家**，140 多个国家可选，服务器超过 20,000 台。",
+        "**“最高 VPN 速度”**，这是 Proton 自己的说法。",
+        "**NetShield**，通过 DNS 过滤来屏蔽广告、跟踪器和恶意软件。",
+        "**Secure Core**，页面标示为高级功能。",
+        "**P2P 和流媒体**，页面把它们列在此套餐内。",
+        "**优先支持和在线聊天。**"
+      ],
+      "postParagraphs": [
+        "我们没有使用 Proton VPN。速度、P2P 和流媒体在这里都按 Proton 的宣传列出，没有我们自己的测量，也不保证能访问任何视频服务。信任方面与审计的内容，请见 [Proton VPN 安全吗？](/zh-hans/reviews/proton-vpn-trust-zh-hans)。"
+      ]
+    },
+    {
+      "heading": "免费套餐够你用吗？",
+      "paragraphs": [
+        "表格从你想做的事出发，只采用套餐页面上写明的内容。"
+      ],
+      "comparisonTable": {
+        "caption": "按用途对比免费套餐与 VPN Plus，依据 Proton 的套餐页面。",
+        "headers": [
+          "你想做的事",
+          "免费套餐",
+          "VPN Plus"
+        ],
+        "rows": [
+          [
+            "在公共 Wi-Fi 下保护手机",
+            "可以，一次 1 台设备",
+            "可以"
+          ],
+          [
+            "在家同时用多台设备",
+            "不行，一次 1 台",
+            "同时最多 10 台"
+          ],
+          [
+            "选择连接的国家",
+            "不行，由应用在 10 个国家中挑选",
+            "可以，140 多个国家"
+          ],
+          [
+            "在设备上屏蔽广告和跟踪器",
+            "不包含",
+            "可以，使用 NetShield"
+          ],
+          [
+            "用 P2P 分享文件",
+            "不包含",
+            "包含，按页面所述"
+          ],
+          [
+            "Proton 宣传的速度",
+            "“中等 VPN 速度”",
+            "“最高 VPN 速度”"
+          ],
+          [
+            "无流量限制地使用",
+            "可以",
+            "可以"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "VPN Plus 要多少钱",
+      "paragraphs": [
+        "以下是 2026 年 11 月 17 日 Proton 页面上的价格，币种设为美元。页面上醒目的数字是“每月”价，但实际是整个周期一次性扣款。1 年套餐当时是黑色星期五活动价。"
+      ],
+      "comparisonTable": {
+        "caption": "Proton 价格页面与合作伙伴页面上的 VPN Plus，以美元计价。金额会随国家和币种而变，请在结账时确认。",
+        "headers": [
+          "套餐",
+          "每月",
+          "一次性扣款",
+          "之后续订价"
+        ],
+        "rows": [
+          [
+            "1 个月",
+            "9.99 美元",
+            "9.99 美元",
+            "每月 9.99 美元"
+          ],
+          [
+            "1 年",
+            "2.99 美元",
+            "35.88 美元",
+            "每 12 个月 83.88 美元"
+          ],
+          [
+            "2 年",
+            "3.49 美元",
+            "83.76 美元",
+            "每 12 个月 83.88 美元"
+          ],
+          [
+            "2 年，合作伙伴页面（我们的链接打开的页面）",
+            "2.49 美元",
+            "59.76 美元",
+            "每 12 个月 83.88 美元"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "1 年和 2 年套餐的表内价格只适用于第一期。之后两者都按公布的 83.88 美元每 12 个月续订，条款也说明以续订当天有效的价格为准。所以如果你打算用满两年，2 年套餐比 1 年套餐加一次续订更便宜。",
+        "最后一行是我们的按钮打开的页面：同样是 2 年套餐，前 24 个月 59.76 美元，续订价相同。两种购买渠道的对比，请见 [Proton 黑色星期五指南](/zh-hans/reviews/proton-black-friday-zh-hans)。"
+      ],
+      "image": {
+        "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
+        "alt": "Proton 价格页面上的 VPN Plus 卡片：1 年套餐每月 2.99 美元，前 12 个月一次性扣款 35.88 美元，之后每 12 个月按 83.88 美元续订。",
+        "caption": "Proton 价格页面上的 1 年 VPN Plus 卡片，总额和续订价标在小字中。"
+      }
+    },
+    {
+      "heading": "VPN Plus 还是 Proton Unlimited",
+      "paragraphs": [
+        "Proton Unlimited 把 VPN、电子邮件、云存储和密码管理的付费功能合在同一个账户里。同一页面上，1 年套餐是 77.88 美元，之后每 12 个月按 119.88 美元续订。",
+        "订阅 VPN Plus 后，其他服务仍保持免费套餐，帮助中心也表示同一账户不能有多个 Plus 套餐。如果你会用付费 VPN，再加上另一项付费的 Proton 服务，Unlimited 才有意义。如果你只要 VPN，1 年 Plus 首期不到一半的价格（35.88 美元对 77.88 美元），续订时也仍然更便宜（83.88 美元对 119.88 美元）。",
+        "我们使用同一家公司的 Proton Mail 免费套餐，已经将近十年。如果免费电子邮件对你来说够用，就不需要为了用付费 VPN 而选 Unlimited。"
+      ]
+    },
+    {
+      "heading": "不利的地方",
+      "bullets": [
+        "**1 年和 2 年套餐的续订价比首期高。** 以价格页面上的 1 年套餐来说，从 35.88 美元变成 83.88 美元。",
+        "**客服从表单开始。** Proton 的客服通过网站上的联系表单处理，在线聊天只列在付费套餐中。详情请见 [Proton VPN 安全吗？](/zh-hans/reviews/proton-vpn-trust-zh-hans)。",
+        "**免费套餐不能选国家。** 如果这是你想用 VPN 的原因，免费套餐就不适合你。"
+      ]
+    },
+    {
+      "heading": "如何订阅，又如何反悔",
+      "paragraphs": [
+        "不需要输入优惠码或代码。按钮会打开合作伙伴页面，内容是 2 年 VPN Plus；1 年和按月订阅的套餐在 Proton 的价格页面上。结账时会在付款前显示币种和总额。购买当天请记下续订日期。",
+        "按 Proton 的说法，活动优惠适用于“所有新用户”。如果你已经有账户，登录后会看到该账户的优惠，我们因为需要登录而没有查阅。如果你打算先试免费套餐，订阅当天请在账户中确认价格。",
+        "按 Proton 的条款，只要在首次购买后 30 天内取消并申请退款，就会退还款项，每位用户限一次，且仅适用于直接向 Proton 购买的订阅。详细步骤请见[如何取消 Proton VPN 并申请退款](/zh-hans/reviews/proton-vpn-refund-zh-hans)。"
+      ]
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "Proton VPN 免费吗？有免费套餐，不需要银行卡，另有付费套餐。按 Proton 的说法，免费套餐没有广告、没有流量限制，一次连 1 台设备。",
+        "Proton VPN 免费版有流量限制吗？Proton 表示没有。免费套餐的限制是一次 1 台设备，以及由应用挑选的 10 个国家的服务器。",
+        "Proton VPN Plus 要多少钱？在我们查阅的价格页面上，以美元计，1 年套餐是 35.88 美元，一次性扣款，之后每 12 个月按 83.88 美元续订。按月订阅的套餐是 9.99 美元。金额会随国家和币种而变。",
+        "VPN Plus 和 Proton Unlimited 有什么区别？VPN Plus 只含付费 VPN。Unlimited 还包含电子邮件、云存储和密码管理的付费功能，价格也更高。",
+        "我可以试用 Plus 再要回钱吗？条款规定，直接向 Proton 订阅的用户，在首次购买后 30 天内取消并申请，可以退款，每位用户限一次。"
+      ],
+      "postParagraphs": [
+        "我们链接的规则请见[我们网站上的 Proton 页面](/zh-hans/coupons/proton)。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "如果你已决定选 Plus，我们的链接会打开 Proton 的合作伙伴页面，套餐为 2 年。付款前请确认一次性扣款总额和续订价。",
+    "label": "查看 Proton VPN 优惠",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "本文依据 Proton 的套餐页面与条款撰写，没有实际测试。这个链接是联盟链接，可能为我们带来佣金。",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-trust-zh-hans"
+    },
+    {
+      "slug": "proton-black-friday-zh-hans"
+    },
+    {
+      "slug": "proton-vpn-refund-zh-hans"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "你在多台设备上使用 VPN，或需要自己选择连接的国家。",
+      "你想在整台设备上屏蔽广告和跟踪器。"
+    ],
+    "skipIf": [
+      "你只是偶尔用，而且只用一台设备，连接的国家也不重要。",
+      "续订金额超出你的预算。"
+    ]
+  }
+}
