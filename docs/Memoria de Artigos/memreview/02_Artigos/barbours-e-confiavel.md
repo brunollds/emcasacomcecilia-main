@@ -139,6 +139,7 @@ rodapé do checkout com a empresa e print do resumo com o cupom.
 - **Job 3:** revisão do Fable 5.2, aplicada com conferência nas fontes; depois uma auditoria de fatos e de texto (dois leitores por artigo) e a releitura da sessão.
 - BEAUTY HUB VAREJO LTDA (checkout e Reclame Aqui) e BB VAREJO LTDA (Termos de serviço), cada uma com a sua fonte, sem explicar a diferença; o veredito tem a entrega como ponto de atenção.
 - Loja física e marketplaces fora (não lidos).
+- **Farol (ChatGPT/Codex, 18/11, colado pelo Bruno; em `docs/auditoria-copy-artigos/barbours-bb1-bb5-bb9-20261118-farol/`, fora do Git):** 49 propostas, aplicadas depois do #1162 com conferência nas fontes. Ajustes: link e âncora "cupom Barbour's" fora das respostas rápidas (a âncora fica uma vez por artigo); os CTAs com o caminho completo (Inserir cupom de desconto); nada sobre o link de afiliado preencher ou não o código (não abrimos o link). Notas olfativas do My Sweet Delight conferidas na página do produto em 18/11. 97,9% é índice de solução das finalizadas e avaliadas; a comparação com o contador de compras saiu; a conclusão da BB3 cita os dois CNPJs e pede conferir a empresa no pedido.
 
 ## Capa e imagens (Job 6; aprovadas pelo Bruno em 18/11/2026)
 
