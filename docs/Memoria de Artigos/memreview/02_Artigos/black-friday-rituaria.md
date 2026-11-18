@@ -9,9 +9,9 @@ category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "decisao-do-bruno"
+proxima_acao: "redação (Job 2) na sessão de artigos"
 bloqueado_por: "-"
 data_criacao: "2026-11-18"
 pauta_id: "RT6"
@@ -248,3 +248,11 @@ adequada (saúde). **Corpo (mínimo 1): o print do resumo do carrinho de teste.*
 ## Perguntas para o Bruno
 
 Só as que não estão na lista já aberta (datas da BF e mínimo/limite do código): nenhuma nova.
+
+## Decisões do Bruno (18/11/2026)
+
+- **Black Friday:** a parceira não passou datas nem regras. O texto segue sem datas e com o que a loja publica; o "Leve 3,
+  Pague 2" com o EMCASA vale pelo carrinho de teste ([[rituaria-fatos-1711]], 9.1).
+- **Valor mínimo e limite de usos do EMCASA:** "não que eu saiba". Segue sem leitura: não escrever "sem mínimo", "sem
+  limite" nem o contrário.
+- Pauta aprovada; handoff para a redação em 18/11.

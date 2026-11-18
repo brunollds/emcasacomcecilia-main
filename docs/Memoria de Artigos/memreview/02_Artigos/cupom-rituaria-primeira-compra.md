@@ -9,10 +9,10 @@ category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "decisao-do-bruno"
-bloqueado_por: null
+proxima_acao: "redação (Job 2) na sessão de artigos"
+bloqueado_por: "-"
 score_autoridade: 48
 score_conversao: 85
 score_ponderado_total: 74
@@ -150,3 +150,11 @@ pessoa se não houver foto oficial). Corpo: o print `/images/reviews/rituaria/cu
 ## Perguntas para o Bruno
 
 1. Valor mínimo e limite de usos do EMCASA (não lidos; o texto não os afirma).
+
+## Decisões do Bruno (18/11/2026)
+
+- **Black Friday:** a parceira não passou datas nem regras. O texto segue sem datas e com o que a loja publica; o "Leve 3,
+  Pague 2" com o EMCASA vale pelo carrinho de teste ([[rituaria-fatos-1711]], 9.1).
+- **Valor mínimo e limite de usos do EMCASA:** "não que eu saiba". Segue sem leitura: não escrever "sem mínimo", "sem
+  limite" nem o contrário.
+- Pauta aprovada; handoff para a redação em 18/11.
