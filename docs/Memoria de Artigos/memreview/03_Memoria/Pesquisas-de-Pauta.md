@@ -8,6 +8,19 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## Donna Carioca: alternativas e nicho fitness (18/11/2026)
+
+A Donna Carioca negou a afiliação e o Bruno pediu para posicionar "Alternativas à Donna Carioca". Fatos em [[donna-carioca-fatos-1811]]; pautas DC1 a DC4 na [[Fila-de-Pautas]], seção 3, sem GO.
+
+- **Marca grande:** Trends (Brasil, 12 meses) 42 de média, contra 45 de "insider store" e 9 de "toda up"; picos em janeiro e em novembro. Maior que "calcinha sem costura" (59 a 48) e muito maior que "legging fitness" (16) e "roupa de beach tennis" (1).
+- **Quem ela enfrenta na cabeça do leitor:** DLK, Atara e Pozze. Nenhuma parceira nossa.
+- **Busca de alternativa:** vazia. A busca real é de marca (confiável, Reclame Aqui, site oficial, loja física, cupom) e de produto (legging transparente, legging por cor).
+- **Preço:** a Donna Carioca é mais barata que a Toda Up e a Insider em calcinha (kit de 6 por R$ 77,90 a R$ 111,00, contra R$ 35 a R$ 50 a unidade), top e short. A legging Easy da Insider (R$ 169 a R$ 177) fica na mediana dela.
+- **Onde a parceira ganha:** grade (Insider de PP a XGG; a Donna Carioca de P a GG), compra por unidade e ficha do tecido. Beach tennis e praia só na SHEIN, sem leitura.
+- **Conclusão:** vale posicionar, mas a DC1 sozinha não tem busca nem vantagem de preço. O caminho mais firme é a categoria ("calcinha para academia") e a pauta de confiança, com a DC1 no meio ligando as três.
+
+---
+
 ## BOLD Snacks: pacote inicial (18/11/2026)
 
 Parceira nova (#1155). Pesquisa semente de 18/11; pautas BO1 a BO6 na [[Fila-de-Pautas]], fatos em [[bold-fatos-1811]].
