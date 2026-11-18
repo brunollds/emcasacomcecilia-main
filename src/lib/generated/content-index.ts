@@ -249911,8 +249911,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-proton",
     "locale": "pt",
     "translationKey": "proton-black-friday",
-    "title": "Black Friday Proton 2026: preços em reais, quanto renova e se vale o plano de 1 ou de 2 anos",
-    "seoTitle": "Black Friday Proton 2026: preços em reais e renovação",
+    "title": "Black Friday Proton 2026: onde o VPN Plus de 2 anos sai mais barato",
+    "seoTitle": "Black Friday Proton 2026: VPN Plus por R$ 210,96",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -249923,8 +249923,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os planos da Proton na Black Friday em reais: quanto se paga de uma vez, por quanto renova, o que o desconto compara e quando o plano de 2 anos sai mais barato.",
-    "metaDescription": "Black Friday da Proton: 75% no VPN Plus de 2 anos pela página de parceiros. Veja o preço em reais, a renovação e a conta contra o plano de 1 ano.",
+    "description": "VPN Plus por R$ 210,96 nos primeiros 24 meses pelo nosso link, com a diferença para outras páginas da Proton, o pagamento de uma vez e a renovação anunciada.",
+    "metaDescription": "Pelo nosso link, o VPN Plus sai por R$ 210,96 nos primeiros 24 meses. Compare com R$ 251,76 na página de ofertas e confira a renovação anunciada.",
     "publishedAt": "17 de novembro de 2026",
     "publishedAtISO": "2026-11-17",
     "updatedAt": "2026-11-17",
@@ -249938,42 +249938,47 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Black Friday 2026, a página de parceiros da Proton, que o nosso link abre, dá 75% no VPN Plus de 2 anos. O desconto é calculado sobre o plano mensal, o valor é cobrado de uma vez e a renovação volta ao preço padrão. Sem cupom, o preço aparece na página. O reembolso em 30 dias tem condições."
+          "Para novos clientes, o VPN Plus de dois anos pelo nosso link teve o menor total entre os caminhos que comparamos para o mesmo plano e o mesmo prazo. O pagamento é de uma vez, e a renovação é anual, pelo preço padrão da Proton. Abra a oferta pelo botão e confirme as condições antes de assinar."
         ]
       },
       {
-        "heading": "O que aparece pelo nosso link",
+        "heading": "VPN Plus de 2 anos: a vantagem de abrir pelo nosso link",
         "paragraphs": [
-          "O botão desta página abre a página de parceiros da Proton, com preços para quem chega por um site parceiro. Em 17/11/2026, ela mostrava dois planos, em reais. A própria página diz que os preços estão \"disponíveis exclusivamente por meio dos nossos parceiros\". Outros sites parceiros têm a mesma oferta. Neste guia, ela aparece ao lado de outras três páginas da Proton: a de Black Friday pública, a de ofertas e a de preços."
+          "A Proton oferece VPN, e-mail, armazenamento em nuvem e gerenciador de senhas. O VPN Plus é o plano pago da VPN, e o Proton Unlimited reúne os serviços em um pacote.",
+          "Na leitura de 17/11/2026, o VPN Plus de 24 meses saía por R$ 210,96 pelo nosso link. São R$ 40,80 a menos que na página de ofertas e R$ 84,00 a menos que na página de preços, para o mesmo plano e o mesmo período, com a mesma renovação anunciada. Entre esses caminhos, o link foi o mais barato."
         ],
         "comparisonTable": {
-          "caption": "Página de parceiros da Proton, em reais. O valor muda com o país e a moeda; confira no checkout.",
+          "caption": "VPN Plus nos primeiros 24 meses, em reais. A renovação anunciada é de R$ 293,88 a cada 12 meses, pelo preço vigente na data de renovar.",
           "headers": [
-            "Plano",
-            "Selo da página",
-            "Por mês",
+            "Onde abrir",
+            "Período",
             "Cobrado de uma vez",
-            "Depois renova por"
+            "Diferença para o nosso link"
           ],
           "rows": [
             [
-              "VPN Plus, 2 anos",
-              "-75%",
-              "R$ 8,79 (de R$ 34,99)",
-              "R$ 210,96 pelos primeiros 24 meses",
-              "R$ 293,88 a cada 12 meses"
+              "Pelo nosso link",
+              "24 meses",
+              "R$ 210,96",
+              "Menor total"
             ],
             [
-              "Proton Unlimited, 1 ano",
-              "-50%",
-              "R$ 22,79 (de R$ 45,49)",
-              "R$ 273,48 pelos primeiros 12 meses",
-              "R$ 419,88 a cada 12 meses"
+              "Página de ofertas da Proton",
+              "24 meses",
+              "R$ 251,76",
+              "R$ 40,80 a mais"
+            ],
+            [
+              "Página de preços da Proton",
+              "24 meses",
+              "R$ 294,96",
+              "R$ 84,00 a mais"
             ]
           ]
         },
         "postParagraphs": [
-          "Não há cupom nem código para copiar. O desconto já vem na página que o botão abre, e o total aparece no checkout antes do pagamento. As regras do link estão na [página da Proton no nosso site](/cupons/proton)."
+          "O botão abaixo abre a página de parceiros da Proton. Selecione o VPN Plus de 2 anos. O desconto aparece na página, sem código para digitar, e o checkout confirma o total antes do pagamento.",
+          "A oferta é para novos usuários e também pode aparecer por outros parceiros da Proton. Os valores variam com o país e a moeda, e as regras do link estão na [página da Proton no nosso site](/cupons/proton). O Unlimited tem o mesmo preço da página pública e está comparado mais adiante."
         ],
         "image": {
           "src": "/images/reviews/proton/black-friday-proton-pagina-parceiros-brl.webp",
@@ -249981,7 +249986,14 @@ export const reviewsData: unknown[] = [
           "caption": "Os dois planos da página de parceiros da Proton, em reais. A linha embaixo de cada plano traz o total cobrado e a renovação.",
           "objectFit": "contain",
           "aspectRatio": 1.544
-        }
+        },
+        "links": [
+          {
+            "label": "Ver oferta do VPN Plus de 2 anos",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "O que está em promoção nas páginas públicas",
@@ -249991,45 +250003,39 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "caption": "Páginas de Black Friday da Proton (VPN e proton.me), em reais, planos de 1 ano. Os percentuais são os da Proton, calculados sobre o preço mensal.",
           "headers": [
-            "Plano",
-            "Percentual anunciado",
-            "Por mês",
+            "Plano de 1 ano",
+            "Por mês (selo)",
             "Cobrado de uma vez",
-            "Depois renova por"
+            "Renovação anunciada"
           ],
           "rows": [
             [
               "VPN Plus",
-              "-70%",
-              "R$ 10,49",
+              "R$ 10,49 (-70%)",
               "R$ 125,88",
               "R$ 293,88 a cada 12 meses"
             ],
             [
               "Proton Unlimited",
-              "-50%",
-              "R$ 22,79",
+              "R$ 22,79 (-50%)",
               "R$ 273,48",
               "R$ 419,88 a cada 12 meses"
             ],
             [
               "Mail Plus",
-              "-50%",
-              "R$ 8,79",
+              "R$ 8,79 (-50%)",
               "R$ 105,48",
               "R$ 167,88 a cada 12 meses"
             ],
             [
               "Drive Plus",
-              "-50%",
-              "R$ 8,79",
+              "R$ 8,79 (-50%)",
               "R$ 105,48",
               "R$ 167,88 a cada 12 meses"
             ],
             [
               "Pass Plus",
-              "-60%",
-              "R$ 6,99",
+              "R$ 6,99 (-60%)",
               "R$ 83,88",
               "R$ 125,88 a cada 12 meses"
             ]
@@ -250057,7 +250063,7 @@ export const reviewsData: unknown[] = [
         "heading": "O desconto é calculado sobre o quê",
         "paragraphs": [
           "Segundo a Proton, todos os descontos são calculados sobre o preço mensal normal: R$ 34,99 no VPN Plus e R$ 45,49 no Proton Unlimited. Os 75% do plano de 2 anos comparam os R$ 210,96 com 24 mensalidades de R$ 34,99, que somam R$ 839,76.",
-          "Quase ninguém assina dois anos pagando mês a mês, então vale uma segunda comparação, que é conta nossa. Contra duas renovações anuais de R$ 293,88 (R$ 587,76), os R$ 210,96 ficam 64% abaixo. No plano público de 1 ano, os R$ 125,88 ficam 57% abaixo de uma renovação anual. O desconto existe nas duas contas. A base muda, e a própria página informa qual é."
+          "Para escolher onde comprar, compare também o mesmo plano de 24 meses. Nessa comparação, os R$ 210,96 do nosso link ficam R$ 84,00 abaixo dos R$ 294,96 da página de preços, cerca de 28% menos, em conta nossa. As bases são diferentes. Os 75% anunciados usam o plano mensal, e os 28% comparam duas ofertas de 24 meses."
         ]
       },
       {
@@ -250066,7 +250072,7 @@ export const reviewsData: unknown[] = [
           "O mesmo VPN Plus aparecia com preços diferentes em páginas diferentes da Proton. Para comparar, somamos o que cada caminho custa em 24 meses:"
         ],
         "comparisonTable": {
-          "caption": "VPN Plus em 24 meses, em reais. A última linha é conta nossa, com o plano de 1 ano mais uma renovação pelo preço padrão de hoje. Depois dos 24 meses, todos renovam por R$ 293,88 a cada 12 meses.",
+          "caption": "Simulação de VPN Plus por 24 meses, com os valores em reais das páginas comparadas. A última linha soma o primeiro ano e uma renovação pelo valor anunciado hoje, e o preço vigente na renovação pode mudar.",
           "headers": [
             "Caminho",
             "De onde saiu o preço",
@@ -250097,7 +250103,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O plano de 1 ano tem o menor desembolso agora, R$ 125,88, e serve a quem quer testar o serviço pago e pode cancelar antes da renovação. Se a assinatura seguir para o segundo ano, ele vira o caminho mais caro da tabela.",
-          "O plano de 2 anos custa mais no ato e menos no total. Ele faz sentido para quem já decidiu ficar com a VPN. Para quem nunca usou o Proton VPN, o plano gratuito existe e não pede cartão. Comece por ele antes de pagar dois anos.",
+          "Quem quer os recursos pagos do VPN Plus e pretende usar a VPN pelos dois anos encontra pelo nosso link o menor total dos caminhos comparados. É uma escolha para manter o serviço pelo período contratado. O plano gratuito continua suficiente para quem não precisa desses recursos.",
           "No Proton Unlimited, a página de parceiros tem o mesmo preço da pública. Em 24 meses, o plano de 2 anos da página de ofertas soma R$ 671,76, e o de 1 ano mais uma renovação, R$ 693,36. Depois, os dois renovam por R$ 419,88 a cada 12 meses."
         ]
       },
@@ -250105,8 +250111,8 @@ export const reviewsData: unknown[] = [
         "heading": "VPN Plus sozinho ou Proton Unlimited",
         "paragraphs": [
           "O VPN Plus é só a VPN paga: segundo a Proton, 10 dispositivos ao mesmo tempo, servidores em mais de 140 países e bloqueador de anúncios e de malware. Quem assina fica com os planos gratuitos de e-mail, nuvem e senhas.",
-          "O Proton Unlimited junta VPN Plus, Mail Plus, Drive Plus e Pass Plus, com 500 GB de armazenamento. Somando os quatro planos avulsos na campanha, o primeiro ano custaria R$ 420,72 (conta nossa). O Unlimited custa R$ 273,48 no primeiro ano e renova por R$ 419,88.",
-          "Se você só quer a VPN, o Unlimited não se paga. O VPN Plus sai por R$ 125,88 no ano, ou R$ 210,96 nos dois anos da página de parceiros, e renova por R$ 293,88 a cada 12 meses. O pacote compensa para quem vai usar pelo menos o e-mail ou o armazenamento pagos junto com a VPN."
+          "O Proton Unlimited reúne os recursos pagos da VPN, e-mail, armazenamento e senhas, com 500 GB. Custa R$ 273,48 no primeiro ano e tem renovação anunciada de R$ 419,88. Os quatro planos avulsos somariam R$ 420,72 no primeiro ano da campanha, como referência de preços. Essa soma não representa uma combinação que possa ser contratada na mesma conta.",
+          "Se você só quer a VPN paga, escolha o VPN Plus. Para ter VPN e e-mail ou nuvem pagos na mesma conta, o Unlimited reúne esses recursos e os 500 GB. A [Proton não permite acumular vários planos Plus na mesma conta](https://protonvpn.com/support/proton-vpn-plans). Escolha o pacote pelo conjunto que vai usar e pelo espaço necessário, comparando também a renovação."
         ]
       },
       {
@@ -250149,18 +250155,25 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Abra a Black Friday da Proton pelo botão. O preço já aparece na página. Confira o total e a renovação antes de pagar.",
-      "label": "Ver a Black Friday da Proton",
+      "text": "O VPN Plus de 24 meses saía por R$ 210,96 pelo nosso link, o menor total entre os caminhos comparados. Abra a oferta, confira a moeda, o total cobrado de uma vez e a renovação anunciada antes de assinar.",
+      "label": "Ver oferta do VPN Plus de 2 anos",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
     "affiliate": "proton",
     "editorialNote": "Feito com as páginas de preços e os termos da Proton. Não há cupom nosso. O link é de afiliado e pode gerar comissão.",
-    "relatedArticles": [],
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-e-confiavel"
+      },
+      {
+        "slug": "proton-vpn-reembolso-como-cancelar"
+      }
+    ],
     "decision": {
       "takeIf": [
-        "Você já ia assinar uma VPN ou sair do plano gratuito da Proton.",
-        "Você quer travar o primeiro período pelo preço da campanha e vai anotar a data da renovação."
+        "Você é elegível para a oferta de novos usuários e já decidiu usar o VPN Plus por dois anos.",
+        "Você comparou o mesmo plano de 24 meses e quer aproveitar o menor total entre os caminhos apresentados."
       ],
       "skipIf": [
         "O plano gratuito já resolve o seu uso.",
@@ -250201,42 +250214,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "For Black Friday 2026, Proton's partner page, the one our link opens, takes 75% off the 2-year VPN Plus plan. The discount is measured against the monthly plan, the full period is billed upfront and the plan renews at the standard price. There is no coupon code, since the price shows on the page. The 30-day refund has conditions."
+          "For new customers, our link showed two years of VPN Plus for $59.76 upfront, against $71.76 on Proton's deals page for the same term. The advertised renewal is $83.88 every 12 months, subject to the price then in force. Open the offer with the button and check your currency before paying."
         ]
       },
       {
-        "heading": "What you see through our link",
+        "heading": "Why open the 2-year VPN Plus offer through our link",
         "paragraphs": [
-          "The button on this page opens Proton's partner page, with prices for people who arrive through a partner site. On November 17, 2026, it showed two plans. In US dollars, they were as follows. The page itself says the prices are \"available exclusively through our partners\". Other partner sites have the same offer. In this guide it sits beside Proton's public Black Friday pages."
+          "Proton offers VPN, email, cloud storage and password management. For new customers, our link showed VPN Plus at $59.76 for the first 24 months; Proton's public deals page showed $71.76 for the same plan and term, a $12 difference. Among those two options, our link had the lower upfront price. Check the currency and total at checkout."
         ],
         "comparisonTable": {
           "caption": "Proton's partner page, in US dollars. The amount changes with your country and currency, so check it at checkout.",
           "headers": [
             "Plan",
-            "Badge on the page",
-            "Per month",
+            "Per month (badge)",
             "Billed upfront",
             "Then renews at"
           ],
           "rows": [
             [
               "VPN Plus, 2 years",
-              "75% off",
-              "$2.49 (was $9.99)",
+              "$2.49 (was $9.99, 75% off)",
               "$59.76 for the first 24 months",
               "$83.88 every 12 months"
             ],
             [
               "Proton Unlimited, 1 year",
-              "50% off",
-              "$6.49 (was $12.99)",
+              "$6.49 (was $12.99, 50% off)",
               "$77.88 for the first 12 months",
               "$119.88 every 12 months"
             ]
           ]
         },
         "postParagraphs": [
-          "There is no coupon and no code to copy. The discount is already on the page the button opens, and the total shows at checkout before you pay. The rules of the link are on [our Proton page](/en/coupons/proton)."
+          "There is no coupon and no code to copy. The discount is already on the page the button opens, and the total shows at checkout before you pay. The button opens Proton's partner page, and other partner sites may show the same offer. The rules of the link are on [our Proton page](/en/coupons/proton)."
         ],
         "image": {
           "src": "/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
@@ -250244,7 +250254,14 @@ export const reviewsData: unknown[] = [
           "caption": "The two plans on Proton's partner page, in US dollars. The line under each plan shows the total billed and the renewal price.",
           "objectFit": "contain",
           "aspectRatio": 1.565
-        }
+        },
+        "links": [
+          {
+            "label": "View the 2-year VPN Plus offer",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "What is on sale on the public pages",
@@ -250308,7 +250325,7 @@ export const reviewsData: unknown[] = [
         "heading": "What the discount is measured against",
         "paragraphs": [
           "According to Proton, all discounts are calculated on the regular monthly price, which was $9.99 for VPN Plus and $12.99 for Proton Unlimited. The 75% on the 2-year plan compares $59.76 with 24 monthly payments of $9.99, which add up to $239.76.",
-          "Few people subscribe for two years paying month by month, so a second comparison helps, and this one is our own math. Against two yearly renewals of $83.88 ($167.76), the $59.76 comes out 64% lower. The discount exists in both comparisons. The base changes, and the page itself states which one it uses."
+          "For a buying decision, compare the same plan and billing period. Our link showed $59.76 for 24 months against $71.76 on Proton's deals page, a $12 saving. The advertised 75% uses the monthly plan as its reference, rather than that 24-month offer."
         ]
       },
       {
@@ -250317,7 +250334,7 @@ export const reviewsData: unknown[] = [
           "The same VPN Plus plan showed different prices on different Proton pages. To compare them, add up what each path costs over 24 months."
         ],
         "comparisonTable": {
-          "caption": "VPN Plus over 24 months. The first row is the partner page price in US dollars; the second is the rule, to fill in with the price on your screen.",
+          "caption": "VPN Plus over 24 months, in US dollars. The public annual plan was $35.88; its second year uses today's advertised $83.88 renewal. This is a projection: the price at renewal can change.",
           "headers": [
             "Path",
             "Where the price comes from",
@@ -250332,13 +250349,13 @@ export const reviewsData: unknown[] = [
             [
               "1-year Black Friday plan + 1 renewal",
               "Public Black Friday page",
-              "The 1-year price on your screen plus $83.88"
+              "$119.76 = $35.88 + $83.88"
             ]
           ]
         },
         "postParagraphs": [
           "The 1-year plan asks for the least money today and suits someone who wants to try the paid service and may cancel before renewal. If the subscription runs into a second year, the renewal alone costs more than the whole 2-year plan on the partner page.",
-          "The 2-year plan costs more today and less in total. It makes sense for someone who has already decided to keep the VPN. If you have never used Proton VPN, the free plan exists and asks for no card. Start there before paying for two years.",
+          "The two-year plan suits people who want the paid Plus features and expect to use them for the full term. For that buyer, our link had the lower total of the options compared; the free plan remains an option for people who do not need those features.",
           "For Proton Unlimited, the partner page offered the 1-year plan at $77.88, renewing at $119.88 every 12 months."
         ]
       },
@@ -250347,7 +250364,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "VPN Plus is the paid VPN only: according to Proton, 10 devices at a time, servers in more than 140 countries and an ad and malware blocker. Subscribers keep the free plans for email, cloud storage and passwords.",
           "Proton Unlimited bundles VPN Plus, Mail Plus, Drive Plus and Pass Plus, with 500 GB of storage. On the partner page it cost $77.88 for the first year and renewed at $119.88.",
-          "If you only want the VPN, Unlimited does not pay off. VPN Plus cost $59.76 for two years on the partner page and renews at $83.88 every 12 months. The bundle is worth it if you will use at least the paid email or storage alongside the VPN."
+          "If you only need the paid VPN, choose VPN Plus. Proton does not allow multiple Plus subscriptions on the same account. Unlimited brings the paid VPN, email and storage features together with 500 GB in one account; choose it for the features and space you will use, and compare renewal costs."
         ]
       },
       {
@@ -250390,17 +250407,24 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Open Proton's Black Friday with the button. The price already shows on the page. Check the total and the renewal price before paying.",
-      "label": "See Proton's Black Friday",
+      "text": "For new customers, our link showed two years of VPN Plus for $59.76 upfront, against $71.76 on Proton's deals page for the same term. The advertised renewal is $83.88 every 12 months, subject to the price then in force. Open the offer with the button and check your currency before paying.",
+      "label": "View the 2-year VPN Plus offer",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
     "affiliate": "proton",
     "editorialNote": "Written from Proton's pricing pages and terms. We have no coupon of our own. The link is an affiliate link and may earn a commission.",
-    "relatedArticles": [],
+    "relatedArticles": [
+      {
+        "slug": "is-proton-vpn-safe"
+      },
+      {
+        "slug": "proton-vpn-refund-how-to-cancel"
+      }
+    ],
     "decision": {
       "takeIf": [
-        "You were already going to subscribe to a VPN or move off Proton's free plan.",
+        "You qualify for the new-user offer and have already decided to use VPN Plus for two years.",
         "You want to lock in the first period at the campaign price and will write down the renewal date."
       ],
       "skipIf": [
@@ -250442,42 +250466,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "En el Black Friday 2026, la página de socios de Proton, la que abre nuestro enlace, aplica un 75% de descuento al plan VPN Plus de 2 años. El descuento se mide frente al plan mensual, el periodo completo se cobra por adelantado y el plan se renueva al precio estándar. No hay código de cupón: el precio ya aparece en la página. El reembolso de 30 días tiene condiciones."
+          "Para nuevos clientes, nuestro enlace mostraba dos años de VPN Plus por $59.76, frente a $71.76 en la página de ofertas de Proton para el mismo plazo. El pago es único y la renovación anunciada es de $83.88 anuales, sujeta al precio vigente. Abre la oferta con el botón y confirma la moneda antes de pagar."
         ]
       },
       {
-        "heading": "Lo que ves a través de nuestro enlace",
+        "heading": "Por qué abrir la oferta de VPN Plus de 2 años con nuestro enlace",
         "paragraphs": [
-          "El botón de esta página abre la página de socios de Proton, con precios para quienes llegan desde un sitio asociado. El 17 de noviembre de 2026 mostraba dos planes. En dólares estadounidenses, eran estos. La propia página dice que los precios están \"disponibles exclusivamente a través de nuestros socios\". Otros sitios asociados tienen la misma oferta. En esta guía se compara con las páginas públicas de Black Friday de Proton."
+          "Proton ofrece VPN, correo, almacenamiento en la nube y gestión de contraseñas. Para nuevos clientes, nuestro enlace mostraba VPN Plus por $59.76 durante los primeros 24 meses; la página pública de ofertas mostraba $71.76 para el mismo plan y plazo, $12 más. Entre esas dos opciones, nuestro enlace tenía el menor precio inicial. Confirma la moneda y el total al pagar."
         ],
         "comparisonTable": {
           "caption": "La página de socios de Proton, en dólares estadounidenses. El importe cambia según tu país y tu moneda, así que compruébalo al pagar.",
           "headers": [
             "Plan",
-            "Etiqueta en la página",
-            "Por mes",
+            "Por mes (etiqueta de la página)",
             "Se cobra por adelantado",
             "Luego se renueva a"
           ],
           "rows": [
             [
               "VPN Plus, 2 años",
-              "75% de descuento",
-              "$2.49 (antes $9.99)",
+              "$2.49 (antes $9.99, 75% de descuento)",
               "$59.76 por los primeros 24 meses",
               "$83.88 cada 12 meses"
             ],
             [
               "Proton Unlimited, 1 año",
-              "50% de descuento",
-              "$6.49 (antes $12.99)",
+              "$6.49 (antes $12.99, 50% de descuento)",
               "$77.88 por los primeros 12 meses",
               "$119.88 cada 12 meses"
             ]
           ]
         },
         "postParagraphs": [
-          "No hay cupón ni código que copiar. El descuento ya está en la página que abre el botón, y el total aparece al pagar, antes de confirmar. Las reglas del enlace están en [nuestra página de Proton](/es/coupons/proton)."
+          "No hay cupón ni código que copiar. El descuento ya está en la página que abre el botón, y el total aparece al pagar, antes de confirmar. El botón abre la página de socios de Proton, y otros sitios asociados pueden mostrar la misma oferta. Las reglas del enlace están en [nuestra página de Proton](/es/coupons/proton)."
         ],
         "image": {
           "src": "/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
@@ -250485,7 +250506,14 @@ export const reviewsData: unknown[] = [
           "caption": "Los dos planes de la página de socios de Proton, en dólares estadounidenses. La línea bajo cada plan muestra el total cobrado y el precio de renovación.",
           "objectFit": "contain",
           "aspectRatio": 1.565
-        }
+        },
+        "links": [
+          {
+            "label": "Ver la oferta de VPN Plus de 2 años",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Qué está en oferta en las páginas públicas",
@@ -250549,7 +250577,7 @@ export const reviewsData: unknown[] = [
         "heading": "Frente a qué se mide el descuento",
         "paragraphs": [
           "Según Proton, todos los descuentos se calculan sobre el precio mensual normal, que era de $9.99 para VPN Plus y de $12.99 para Proton Unlimited. El 75% del plan de 2 años compara $59.76 con 24 pagos mensuales de $9.99, que suman $239.76.",
-          "Poca gente se suscribe dos años pagando mes a mes, así que conviene una segunda comparación, y esta es cuenta nuestra. Frente a dos renovaciones anuales de $83.88 ($167.76), los $59.76 salen un 64% más baratos. El descuento existe en las dos comparaciones. Cambia la base, y la propia página indica cuál usa."
+          "Para decidir dónde comprar, compara el mismo plan y periodo. Nuestro enlace mostraba $59.76 por 24 meses, frente a $71.76 en la página de ofertas de Proton: $12 menos. El 75% anunciado toma como referencia el plan mensual, no esa oferta de 24 meses."
         ]
       },
       {
@@ -250558,7 +250586,7 @@ export const reviewsData: unknown[] = [
           "El mismo plan VPN Plus mostraba precios distintos en diferentes páginas de Proton. Para compararlos, suma lo que cuesta cada camino a lo largo de 24 meses."
         ],
         "comparisonTable": {
-          "caption": "VPN Plus durante 24 meses. La primera fila es el precio de la página de socios en dólares estadounidenses; la segunda es la regla, para completar con el precio de tu pantalla.",
+          "caption": "VPN Plus durante 24 meses, en dólares estadounidenses. El plan público anual costaba $35.88; el segundo año usa la renovación anunciada hoy de $83.88. Es una simulación: el precio de renovación puede cambiar.",
           "headers": [
             "Camino",
             "De dónde sale el precio",
@@ -250573,13 +250601,13 @@ export const reviewsData: unknown[] = [
             [
               "Plan de Black Friday de 1 año + 1 renovación",
               "Página pública de Black Friday",
-              "El precio de 1 año que veas en tu pantalla más $83.88"
+              "$119.76 = $35.88 + $83.88"
             ]
           ]
         },
         "postParagraphs": [
           "El plan de 1 año pide menos dinero hoy y encaja con quien quiere probar el servicio de pago y quizá cancelar antes de la renovación. Si la suscripción llega a un segundo año, la renovación sola cuesta más que todo el plan de 2 años de la página de socios.",
-          "El plan de 2 años cuesta más hoy y menos en total. Tiene sentido para quien ya decidió quedarse con la VPN. Si nunca has usado Proton VPN, existe el plan gratuito y no pide tarjeta. Empieza por ahí antes de pagar dos años.",
+          "El plan de dos años encaja con quien quiere las funciones de pago de Plus y prevé usarlos todo el periodo. Para ese perfil, nuestro enlace tenía el menor total entre las opciones comparadas; el plan gratuito sigue siendo una opción para quien no necesita esas funciones.",
           "Para Proton Unlimited, la página de socios ofrecía el plan de 1 año a $77.88, con renovación a $119.88 cada 12 meses."
         ]
       },
@@ -250588,7 +250616,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "VPN Plus es solo la VPN de pago: según Proton, 10 dispositivos a la vez, servidores en más de 140 países y un bloqueador de anuncios y malware. Los suscriptores conservan los planes gratuitos de correo, almacenamiento en la nube y contraseñas.",
           "Proton Unlimited reúne VPN Plus, Mail Plus, Drive Plus y Pass Plus, con 500 GB de almacenamiento. En la página de socios costaba $77.88 el primer año y se renovaba a $119.88.",
-          "Si solo quieres la VPN, Unlimited no compensa. VPN Plus costaba $59.76 por dos años en la página de socios y se renueva a $83.88 cada 12 meses. El paquete vale la pena si vas a usar, además de la VPN, al menos el correo o el almacenamiento de pago."
+          "Si solo necesitas la VPN de pago, elige VPN Plus. Proton no permite varias suscripciones Plus en la misma cuenta. Unlimited reúne la VPN, el correo y el almacenamiento de pago con 500 GB en una cuenta; elígelo por las funciones y el espacio que usarás, comparando también la renovación."
         ]
       },
       {
@@ -250631,17 +250659,24 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Abre el Black Friday de Proton con el botón. El precio ya aparece en la página. Comprueba el total y el precio de renovación antes de pagar.",
-      "label": "Ver el Black Friday de Proton",
+      "text": "Para nuevos clientes, nuestro enlace mostraba dos años de VPN Plus por $59.76, frente a $71.76 en la página de ofertas de Proton para el mismo plazo. El pago es único y la renovación anunciada es de $83.88 anuales, sujeta al precio vigente. Abre la oferta con el botón y confirma la moneda antes de pagar.",
+      "label": "Ver la oferta de VPN Plus de 2 años",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
     "affiliate": "proton",
     "editorialNote": "Escrito a partir de las páginas de precios y los términos de Proton. No tenemos un cupón propio. El enlace es de afiliado y puede generar una comisión.",
-    "relatedArticles": [],
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-es-confiable"
+      },
+      {
+        "slug": "proton-vpn-reembolso-cancelar-suscripcion"
+      }
+    ],
     "decision": {
       "takeIf": [
-        "Ya ibas a suscribirte a una VPN o a dejar el plan gratuito de Proton.",
+        "Cumples los requisitos de la oferta para nuevos usuarios y ya has decidido usar VPN Plus durante dos años.",
         "Quieres fijar el primer periodo al precio de la campaña y apuntarás la fecha de renovación."
       ],
       "skipIf": [
@@ -250683,42 +250718,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Pour le Black Friday 2026, la page partenaires de Proton, celle qu'ouvre notre lien, applique 75 % de réduction sur l'offre VPN Plus de 2 ans. La réduction se mesure face au tarif mensuel, la période entière est facturée d'avance et le renouvellement se fait au tarif normal. Il n'y a pas de code promo, puisque le prix s'affiche sur la page. Le remboursement sous 30 jours a des conditions."
+          "Pour les nouveaux clients, notre lien affichait VPN Plus à 59,76 $ pour deux ans, contre 71,76 $ sur la page d'offres Proton pour la même durée. Le paiement est unique, puis le renouvellement annoncé est de 83,88 $ par an, au tarif alors applicable. Ouvrez l'offre avec le bouton et vérifiez la devise."
         ]
       },
       {
-        "heading": "Ce que vous voyez via notre lien",
+        "heading": "Pourquoi ouvrir l'offre VPN Plus de 2 ans avec notre lien",
         "paragraphs": [
-          "Le bouton de cette page ouvre la page partenaires de Proton, avec des prix pour les personnes qui arrivent depuis un site partenaire. Le 17 novembre 2026, elle affichait deux offres. En dollars américains, les voici. La page elle-même indique que les prix sont « disponibles exclusivement via nos partenaires ». D'autres sites partenaires proposent la même offre. Dans ce guide, elle est placée à côté des pages publiques Black Friday de Proton."
+          "Proton propose un VPN, une messagerie, du stockage cloud et un gestionnaire de mots de passe. Pour les nouveaux clients, notre lien affichait VPN Plus à 59,76 $ pour les 24 premiers mois, contre 71,76 $ sur la page publique d'offres pour le même abonnement et la même durée. Notre lien coûtait donc 12 $ de moins entre ces deux options. Vérifiez la devise et le total au paiement."
         ],
         "comparisonTable": {
           "caption": "La page partenaires de Proton, en dollars américains. Le montant varie selon votre pays et votre devise : vérifiez-le au paiement.",
           "headers": [
             "Offre",
-            "Badge sur la page",
-            "Par mois",
+            "Par mois (badge sur la page)",
             "Facturé d'avance",
             "Puis renouvelé à"
           ],
           "rows": [
             [
               "VPN Plus, 2 ans",
-              "75 % de réduction",
-              "2,49 $ (au lieu de 9,99 $)",
+              "2,49 $ (au lieu de 9,99 $, 75 % de réduction)",
               "59,76 $ pour les 24 premiers mois",
               "83,88 $ tous les 12 mois"
             ],
             [
               "Proton Unlimited, 1 an",
-              "50 % de réduction",
-              "6,49 $ (au lieu de 12,99 $)",
+              "6,49 $ (au lieu de 12,99 $, 50 % de réduction)",
               "77,88 $ pour les 12 premiers mois",
               "119,88 $ tous les 12 mois"
             ]
           ]
         },
         "postParagraphs": [
-          "Il n'y a ni coupon ni code à copier. La réduction est déjà appliquée sur la page qu'ouvre le bouton, et le total s'affiche au paiement avant que vous ne payiez. Les règles du lien sont sur [notre page Proton](/fr/coupons/proton)."
+          "Il n'y a ni coupon ni code à copier. La réduction est déjà appliquée sur la page qu'ouvre le bouton, et le total s'affiche au paiement avant que vous ne payiez. Le bouton ouvre la page partenaires de Proton, et d'autres sites partenaires peuvent afficher la même offre. Les règles du lien sont sur [notre page Proton](/fr/coupons/proton)."
         ],
         "image": {
           "src": "/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
@@ -250726,7 +250758,14 @@ export const reviewsData: unknown[] = [
           "caption": "Les deux offres de la page partenaires de Proton, en dollars américains. La ligne sous chaque offre indique le total facturé et le prix au renouvellement.",
           "objectFit": "contain",
           "aspectRatio": 1.565
-        }
+        },
+        "links": [
+          {
+            "label": "Voir l'offre VPN Plus de 2 ans",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Ce qui est en promotion sur les pages publiques",
@@ -250790,7 +250829,7 @@ export const reviewsData: unknown[] = [
         "heading": "Par rapport à quoi la réduction est calculée",
         "paragraphs": [
           "Selon Proton, toutes les réductions sont calculées sur le prix mensuel normal, qui était de 9,99 $ pour le VPN Plus et de 12,99 $ pour Proton Unlimited. Les 75 % de l'offre de 2 ans comparent 59,76 $ à 24 paiements mensuels de 9,99 $, soit 239,76 $.",
-          "Peu de gens s'abonnent deux ans en payant mois par mois, donc une seconde comparaison aide, et celle-ci est un calcul de notre part. Face à deux renouvellements annuels de 83,88 $ (167,76 $), les 59,76 $ sont 64 % moins chers. La réduction existe dans les deux comparaisons. La base change, et la page elle-même indique laquelle elle utilise."
+          "Pour choisir où acheter, comparez le même abonnement sur la même durée. Notre lien affichait 59,76 $ pour 24 mois, contre 71,76 $ sur la page d'offres Proton, soit 12 $ de moins. Les 75 % annoncés prennent le tarif mensuel comme référence, et non cette offre de 24 mois."
         ]
       },
       {
@@ -250799,7 +250838,7 @@ export const reviewsData: unknown[] = [
           "La même offre VPN Plus affichait des prix différents selon les pages de Proton. Pour les comparer, additionnez ce que coûte chaque chemin sur 24 mois."
         ],
         "comparisonTable": {
-          "caption": "VPN Plus sur 24 mois. La première ligne est le prix de la page partenaires en dollars américains ; la seconde est la règle, à compléter avec le prix affiché sur votre écran.",
+          "caption": "VPN Plus sur 24 mois, en dollars américains. L'offre annuelle publique coûtait 35,88 $ ; la seconde année utilise le renouvellement annoncé aujourd'hui à 83,88 $. Cette projection dépend du tarif en vigueur lors du renouvellement.",
           "headers": [
             "Chemin",
             "Origine du prix",
@@ -250814,13 +250853,13 @@ export const reviewsData: unknown[] = [
             [
               "Offre Black Friday d'1 an + 1 renouvellement",
               "Page publique Black Friday",
-              "Le prix d'1 an affiché sur votre écran plus 83,88 $"
+              "119,76 $ (35,88 $ + 83,88 $)"
             ]
           ]
         },
         "postParagraphs": [
           "L'offre d'un an demande le moins d'argent aujourd'hui et convient à qui veut essayer le service payant et peut résilier avant le renouvellement. Si l'abonnement se poursuit une seconde année, le renouvellement seul coûte plus cher que toute l'offre de 2 ans de la page partenaires.",
-          "L'offre de 2 ans coûte plus cher aujourd'hui et moins cher au total. Elle a du sens pour qui a déjà décidé de garder le VPN. Si vous n'avez jamais utilisé Proton VPN, l'offre gratuite existe et ne demande aucune carte. Commencez par là avant de payer pour deux ans.",
+          "L'offre de deux ans convient aux personnes qui veulent les fonctions payantes de Plus et comptent les utiliser pendant toute la durée. Pour ce profil, notre lien affichait le total le plus bas des options comparées ; l'offre gratuite reste une option pour les personnes qui n'ont pas besoin de ces fonctions.",
           "Pour Proton Unlimited, la page partenaires proposait l'offre d'un an à 77,88 $, renouvelée à 119,88 $ tous les 12 mois."
         ]
       },
@@ -250829,7 +250868,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Le VPN Plus est le VPN payant seul : selon Proton, 10 appareils à la fois, des serveurs dans plus de 140 pays et un bloqueur de publicités et de logiciels malveillants. Les abonnés gardent les offres gratuites pour la messagerie, le stockage en ligne et les mots de passe.",
           "Proton Unlimited regroupe VPN Plus, Mail Plus, Drive Plus et Pass Plus, avec 500 Go de stockage. Sur la page partenaires, il coûtait 77,88 $ la première année et se renouvelait à 119,88 $.",
-          "Si vous ne voulez que le VPN, Unlimited n'est pas rentable. Le VPN Plus coûtait 59,76 $ pour deux ans sur la page partenaires et se renouvelle à 83,88 $ tous les 12 mois. Le pack vaut le coup si vous utilisez au moins la messagerie ou le stockage payants en plus du VPN."
+          "Si vous avez seulement besoin du VPN payant, choisissez VPN Plus. Proton ne permet pas plusieurs abonnements Plus sur le même compte. Unlimited réunit VPN, messagerie et stockage payants avec 500 Go dans un compte ; choisissez-le selon les fonctions et l'espace nécessaires, en comparant aussi le renouvellement."
         ]
       },
       {
@@ -250872,17 +250911,24 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Ouvrez le Black Friday de Proton avec le bouton. Le prix s'affiche déjà sur la page. Vérifiez le total et le prix au renouvellement avant de payer.",
-      "label": "Voir le Black Friday de Proton",
+      "text": "Pour les nouveaux clients, notre lien affichait VPN Plus à 59,76 $ pour deux ans, contre 71,76 $ sur la page d'offres Proton pour la même durée. Le paiement est unique, puis le renouvellement annoncé est de 83,88 $ par an, au tarif alors applicable. Ouvrez l'offre avec le bouton et vérifiez la devise.",
+      "label": "Voir l'offre VPN Plus de 2 ans",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
     "affiliate": "proton",
     "editorialNote": "Rédigé à partir des pages de tarifs et des conditions de Proton. Nous n'avons pas de coupon à nous. Le lien est un lien d'affiliation et peut générer une commission.",
-    "relatedArticles": [],
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-est-il-fiable"
+      },
+      {
+        "slug": "proton-vpn-remboursement-resilier"
+      }
+    ],
     "decision": {
       "takeIf": [
-        "Vous alliez de toute façon souscrire un VPN ou quitter l'offre gratuite de Proton.",
+        "Vous êtes éligible à l'offre pour les nouveaux utilisateurs et avez déjà décidé d'utiliser VPN Plus pendant deux ans.",
         "Vous voulez bloquer la première période au prix de la campagne et noterez la date de renouvellement."
       ],
       "skipIf": [
@@ -250924,42 +250970,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurzantwort",
         "paragraphs": [
-          "Zum Black Friday 2026 gewährt Protons Partnerseite, die unser Link öffnet, 75 % Rabatt auf den 2-Jahres-Tarif VPN Plus. Der Rabatt bezieht sich auf den Monatspreis, der gesamte Zeitraum wird im Voraus berechnet, und die Verlängerung erfolgt zum Standardpreis. Einen Code gibt es nicht, der Preis steht auf der Seite. Die 30-Tage-Rückerstattung hat Bedingungen."
+          "Für Neukunden zeigte unser Link VPN Plus für zwei Jahre zu einmalig 59,76 $, gegenüber 71,76 $ auf Protons Angebotsseite für dieselbe Laufzeit. Die angekündigte Verlängerung kostet 83,88 $ jährlich, vorbehaltlich des dann geltenden Preises. Öffnen Sie das Angebot über den Button und prüfen Sie vor dem Bezahlen die Währung."
         ]
       },
       {
-        "heading": "Was Sie über unseren Link sehen",
+        "heading": "Warum Sie das 2-Jahres-Angebot für VPN Plus über unseren Link öffnen sollten",
         "paragraphs": [
-          "Der Button auf dieser Seite öffnet Protons Partnerseite, mit Preisen für Personen, die über die Website eines Partners kommen. Am 17. November 2026 zeigte sie zwei Tarife. In US-Dollar sahen sie so aus. Die Seite selbst sagt, die Preise seien „ausschließlich über unsere Partner verfügbar“. Andere Partner-Websites haben dasselbe Angebot. In diesem Ratgeber steht es neben Protons öffentlichen Black-Friday-Seiten."
+          "Proton bietet VPN, E-Mail, Cloud-Speicher und Passwortverwaltung. Für Neukunden zeigte unser Link VPN Plus für die ersten 24 Monate zu 59,76 $; Protons öffentliche Angebotsseite zeigte 71,76 $ für denselben Tarif und Zeitraum. Unser Link war damit von diesen beiden Möglichkeiten 12 $ günstiger. Prüfen Sie Währung und Gesamtbetrag an der Kasse."
         ],
         "comparisonTable": {
           "caption": "Protons Partnerseite, in US-Dollar. Der Betrag hängt von Ihrem Land und Ihrer Währung ab, prüfen Sie ihn deshalb an der Kasse.",
           "headers": [
             "Tarif",
-            "Hinweis auf der Seite",
-            "Pro Monat",
+            "Pro Monat (Hinweis auf der Seite)",
             "Im Voraus berechnet",
             "Danach Verlängerung zu"
           ],
           "rows": [
             [
               "VPN Plus, 2 Jahre",
-              "75 % Rabatt",
-              "2,49 $ (statt 9,99 $)",
+              "2,49 $ (statt 9,99 $, 75 % Rabatt)",
               "59,76 $ für die ersten 24 Monate",
               "83,88 $ alle 12 Monate"
             ],
             [
               "Proton Unlimited, 1 Jahr",
-              "50 % Rabatt",
-              "6,49 $ (statt 12,99 $)",
+              "6,49 $ (statt 12,99 $, 50 % Rabatt)",
               "77,88 $ für die ersten 12 Monate",
               "119,88 $ alle 12 Monate"
             ]
           ]
         },
         "postParagraphs": [
-          "Es gibt keinen Gutschein und keinen Code zum Kopieren. Der Rabatt ist schon auf der Seite, die der Button öffnet, und der Gesamtbetrag erscheint an der Kasse, bevor Sie zahlen. Die Regeln des Links stehen auf [unserer Proton-Seite](/de/coupons/proton)."
+          "Es gibt keinen Gutschein und keinen Code zum Kopieren. Der Rabatt ist schon auf der Seite, die der Button öffnet, und der Gesamtbetrag erscheint an der Kasse, bevor Sie zahlen. Der Button öffnet Protons Partnerseite, und andere Partner-Websites können dasselbe Angebot zeigen. Die Regeln des Links stehen auf [unserer Proton-Seite](/de/coupons/proton)."
         ],
         "image": {
           "src": "/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
@@ -250967,7 +251010,14 @@ export const reviewsData: unknown[] = [
           "caption": "Die zwei Tarife auf Protons Partnerseite, in US-Dollar. Die Zeile unter jedem Tarif zeigt den berechneten Gesamtbetrag und den Verlängerungspreis.",
           "objectFit": "contain",
           "aspectRatio": 1.565
-        }
+        },
+        "links": [
+          {
+            "label": "2-Jahres-Angebot für VPN Plus ansehen",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Was auf den öffentlichen Seiten im Angebot ist",
@@ -251031,7 +251081,7 @@ export const reviewsData: unknown[] = [
         "heading": "Worauf sich der Rabatt bezieht",
         "paragraphs": [
           "Laut Proton werden alle Rabatte auf den regulären Monatspreis berechnet, der bei VPN Plus 9,99 $ und bei Proton Unlimited 12,99 $ betrug. Die 75 % beim 2-Jahres-Tarif vergleichen 59,76 $ mit 24 Monatszahlungen zu je 9,99 $, zusammen 239,76 $.",
-          "Kaum jemand abonniert für zwei Jahre und zahlt dabei Monat für Monat, deshalb hilft ein zweiter Vergleich, und der ist unsere eigene Rechnung. Gegenüber zwei jährlichen Verlängerungen zu je 83,88 $ (167,76 $) liegen die 59,76 $ um 64 % niedriger. Der Rabatt besteht in beiden Vergleichen. Die Basis ändert sich, und die Seite gibt selbst an, welche sie verwendet."
+          "Vergleichen Sie für die Kaufentscheidung denselben Tarif und Zeitraum. Unser Link zeigte 59,76 $ für 24 Monate gegenüber 71,76 $ auf Protons Angebotsseite, also 12 $ weniger. Die beworbenen 75 % beziehen sich auf den Monatstarif, nicht auf dieses 24-Monats-Angebot."
         ]
       },
       {
@@ -251040,7 +251090,7 @@ export const reviewsData: unknown[] = [
           "Derselbe VPN-Plus-Tarif zeigte auf verschiedenen Proton-Seiten unterschiedliche Preise. Um sie zu vergleichen, rechnen Sie zusammen, was jeder Weg über 24 Monate kostet."
         ],
         "comparisonTable": {
-          "caption": "VPN Plus über 24 Monate. Die erste Zeile ist der Preis der Partnerseite in US-Dollar; die zweite ist die Rechenregel, die Sie mit dem Preis auf Ihrem Bildschirm ausfüllen.",
+          "caption": "VPN Plus über 24 Monate, in US-Dollar. Der öffentliche Jahrestarif kostete 35,88 $; für das zweite Jahr ist der heute angekündigte Verlängerungspreis von 83,88 $ angesetzt. Der tatsächlich geltende Preis kann sich ändern.",
           "headers": [
             "Weg",
             "Woher der Preis stammt",
@@ -251055,13 +251105,13 @@ export const reviewsData: unknown[] = [
             [
               "1-Jahres-Black-Friday-Tarif + 1 Verlängerung",
               "Öffentliche Black-Friday-Seite",
-              "Der 1-Jahres-Preis auf Ihrem Bildschirm plus 83,88 $"
+              "119,76 $ (35,88 $ + 83,88 $)"
             ]
           ]
         },
         "postParagraphs": [
           "Der 1-Jahres-Tarif verlangt heute am wenigsten Geld und passt zu jemandem, der den bezahlten Dienst ausprobieren möchte und vor der Verlängerung kündigen kann. Läuft das Abonnement in ein zweites Jahr, kostet allein die Verlängerung mehr als der gesamte 2-Jahres-Tarif auf der Partnerseite.",
-          "Der 2-Jahres-Tarif kostet heute mehr und insgesamt weniger. Er ist sinnvoll für jemanden, der sich bereits entschieden hat, das VPN zu behalten. Wenn Sie Proton VPN noch nie genutzt haben, gibt es den kostenlosen Tarif, der keine Karte verlangt. Beginnen Sie damit, bevor Sie zwei Jahre bezahlen.",
+          "Der Zweijahrestarif passt zu Personen, die die kostenpflichtigen Plus-Funktionen über die gesamte Laufzeit nutzen möchten. Für diese Käufer zeigte unser Link den niedrigeren Gesamtpreis der verglichenen Optionen; wer diese Funktionen nicht braucht, kann beim kostenlosen Tarif bleiben.",
           "Für Proton Unlimited bot die Partnerseite den 1-Jahres-Tarif zu 77,88 $ an, mit Verlängerung zu 119,88 $ alle 12 Monate."
         ]
       },
@@ -251070,7 +251120,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "VPN Plus ist nur das bezahlte VPN: laut Proton 10 Geräte gleichzeitig, Server in mehr als 140 Ländern und ein Blocker für Werbung und Schadsoftware. Abonnenten behalten die kostenlosen Tarife für E-Mail, Cloud-Speicher und Passwörter.",
           "Proton Unlimited bündelt VPN Plus, Mail Plus, Drive Plus und Pass Plus, mit 500 GB Speicher. Auf der Partnerseite kostete es im ersten Jahr 77,88 $ und verlängerte sich zu 119,88 $.",
-          "Wenn Sie nur das VPN wollen, lohnt sich Unlimited nicht. VPN Plus kostete auf der Partnerseite 59,76 $ für zwei Jahre und verlängert sich zu 83,88 $ alle 12 Monate. Das Paket lohnt sich, wenn Sie neben dem VPN mindestens die bezahlte E-Mail oder den bezahlten Speicher nutzen."
+          "Wenn Sie nur das kostenpflichtige VPN brauchen, wählen Sie VPN Plus. Mehrere Plus-Abonnements im selben Konto lässt Proton nicht zu. Unlimited vereint die kostenpflichtigen VPN-, E-Mail- und Speicherfunktionen mit 500 GB in einem Konto; entscheiden Sie nach den benötigten Funktionen und dem Speicher sowie den Verlängerungskosten."
         ]
       },
       {
@@ -251113,17 +251163,24 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Öffnen Sie Protons Black Friday mit dem Button. Der Preis steht schon auf der Seite. Prüfen Sie vor der Zahlung den Gesamtbetrag und den Verlängerungspreis.",
-      "label": "Protons Black Friday ansehen",
+      "text": "Für Neukunden zeigte unser Link VPN Plus für zwei Jahre zu einmalig 59,76 $, gegenüber 71,76 $ auf Protons Angebotsseite für dieselbe Laufzeit. Die angekündigte Verlängerung kostet 83,88 $ jährlich, vorbehaltlich des dann geltenden Preises. Öffnen Sie das Angebot über den Button und prüfen Sie vor dem Bezahlen die Währung.",
+      "label": "2-Jahres-Angebot für VPN Plus ansehen",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
     "affiliate": "proton",
     "editorialNote": "Verfasst auf Grundlage der Preisseiten und Bedingungen von Proton. Wir haben keinen eigenen Gutschein. Der Link ist ein Affiliate-Link und kann uns eine Provision einbringen.",
-    "relatedArticles": [],
+    "relatedArticles": [
+      {
+        "slug": "ist-proton-vpn-serioes"
+      },
+      {
+        "slug": "proton-vpn-kuendigen-rueckerstattung"
+      }
+    ],
     "decision": {
       "takeIf": [
-        "Sie wollten ohnehin ein VPN abonnieren oder den kostenlosen Tarif von Proton verlassen.",
+        "Sie sind für das Neukundenangebot berechtigt und haben sich bereits für zwei Jahre VPN Plus entschieden.",
         "Sie möchten den ersten Zeitraum zum Aktionspreis sichern und sich das Verlängerungsdatum notieren."
       ],
       "skipIf": [
@@ -251165,42 +251222,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Per il Black Friday 2026, la pagina partner di Proton, quella che apre il nostro link, applica il 75% di sconto al piano VPN Plus da 2 anni. Lo sconto è calcolato sul piano mensile, tutto il periodo si paga subito e il piano si rinnova al prezzo standard. Non c'è alcun codice coupon, perché il prezzo è già nella pagina. Il rimborso entro 30 giorni ha delle condizioni."
+          "Per i nuovi clienti, il nostro link mostrava due anni di VPN Plus a $59.76, contro $71.76 nella pagina offerte di Proton per la stessa durata. Si paga subito e il rinnovo annunciato è di $83.88 all'anno, al prezzo allora vigente. Apri l'offerta dal pulsante e controlla la valuta prima di pagare."
         ]
       },
       {
-        "heading": "Cosa vedi attraverso il nostro link",
+        "heading": "Perché aprire l'offerta VPN Plus da 2 anni dal nostro link",
         "paragraphs": [
-          "Il pulsante di questa pagina apre la pagina partner di Proton, con i prezzi per chi arriva da un sito partner. Il 17 novembre 2026 mostrava due piani. In dollari statunitensi, erano questi. La pagina stessa dice che i prezzi sono \"disponibili esclusivamente tramite i nostri partner\". Altri siti partner hanno la stessa offerta. In questa guida la affianchiamo alle pagine pubbliche del Black Friday di Proton."
+          "Proton offre VPN, email, archiviazione cloud e gestione delle password. Per i nuovi clienti, il nostro link mostrava VPN Plus a $59.76 per i primi 24 mesi; la pagina pubblica delle offerte mostrava $71.76 per lo stesso piano e periodo. Fra queste due opzioni, il nostro link costava quindi $12 in meno. Controlla valuta e totale al pagamento."
         ],
         "comparisonTable": {
           "caption": "La pagina partner di Proton, in dollari statunitensi. L'importo cambia con il tuo paese e la tua valuta, quindi controllalo al momento del pagamento.",
           "headers": [
             "Piano",
-            "Etichetta nella pagina",
-            "Al mese",
+            "Al mese (etichetta nella pagina)",
             "Si paga subito",
             "Poi si rinnova a"
           ],
           "rows": [
             [
               "VPN Plus, 2 anni",
-              "75% di sconto",
-              "$2.49 (prima $9.99)",
+              "$2.49 (prima $9.99, 75% di sconto)",
               "$59.76 per i primi 24 mesi",
               "$83.88 ogni 12 mesi"
             ],
             [
               "Proton Unlimited, 1 anno",
-              "50% di sconto",
-              "$6.49 (prima $12.99)",
+              "$6.49 (prima $12.99, 50% di sconto)",
               "$77.88 per i primi 12 mesi",
               "$119.88 ogni 12 mesi"
             ]
           ]
         },
         "postParagraphs": [
-          "Non c'è nessun coupon né codice da copiare. Lo sconto è già nella pagina che apre il pulsante, e il totale compare al momento del pagamento, prima di confermare. Le regole del link sono nella [nostra pagina su Proton](/it/coupons/proton)."
+          "Non c'è nessun coupon né codice da copiare. Lo sconto è già nella pagina che apre il pulsante, e il totale compare al momento del pagamento, prima di confermare. Il pulsante apre la pagina partner di Proton, e altri siti partner possono mostrare la stessa offerta. Le regole del link sono nella [nostra pagina su Proton](/it/coupons/proton)."
         ],
         "image": {
           "src": "/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
@@ -251208,7 +251262,14 @@ export const reviewsData: unknown[] = [
           "caption": "I due piani della pagina partner di Proton, in dollari statunitensi. La riga sotto ogni piano mostra il totale addebitato e il prezzo di rinnovo.",
           "objectFit": "contain",
           "aspectRatio": 1.565
-        }
+        },
+        "links": [
+          {
+            "label": "Vedi l'offerta VPN Plus da 2 anni",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Cosa è in offerta nelle pagine pubbliche",
@@ -251272,7 +251333,7 @@ export const reviewsData: unknown[] = [
         "heading": "Rispetto a cosa è calcolato lo sconto",
         "paragraphs": [
           "Secondo Proton, tutti gli sconti sono calcolati sul normale prezzo mensile, che era $9.99 per VPN Plus e $12.99 per Proton Unlimited. Il 75% del piano da 2 anni confronta $59.76 con 24 pagamenti mensili da $9.99, per un totale di $239.76.",
-          "Poche persone si abbonano per due anni pagando mese per mese, quindi serve un secondo confronto, e questo è un calcolo nostro. Rispetto a due rinnovi annuali da $83.88 ($167.76), i $59.76 risultano il 64% in meno. Lo sconto esiste in entrambi i confronti. Cambia la base, e la pagina stessa indica quale usa."
+          "Per scegliere dove comprare, confronta lo stesso piano e periodo. Il nostro link mostrava $59.76 per 24 mesi, contro $71.76 nella pagina offerte di Proton: $12 in meno. Il 75% annunciato prende come riferimento il piano mensile, non questa offerta da 24 mesi."
         ]
       },
       {
@@ -251281,7 +251342,7 @@ export const reviewsData: unknown[] = [
           "Lo stesso piano VPN Plus mostrava prezzi diversi in pagine diverse di Proton. Per confrontarli, somma quanto costa ogni percorso nell'arco di 24 mesi."
         ],
         "comparisonTable": {
-          "caption": "VPN Plus nell'arco di 24 mesi. La prima riga è il prezzo della pagina partner in dollari statunitensi; la seconda è la regola, da completare con il prezzo che vedi sullo schermo.",
+          "caption": "VPN Plus per 24 mesi, in dollari USA. Il piano annuale pubblico costava $35.88; il secondo anno usa il rinnovo annunciato oggi di $83.88. È una simulazione: il prezzo al rinnovo può cambiare.",
           "headers": [
             "Percorso",
             "Da dove viene il prezzo",
@@ -251296,13 +251357,13 @@ export const reviewsData: unknown[] = [
             [
               "Piano Black Friday da 1 anno + 1 rinnovo",
               "Pagina pubblica del Black Friday",
-              "Il prezzo da 1 anno che vedi sullo schermo più $83.88"
+              "$119.76 ($35.88 + $83.88)"
             ]
           ]
         },
         "postParagraphs": [
           "Il piano da 1 anno chiede meno soldi oggi e va bene per chi vuole provare il servizio a pagamento e magari annullare prima del rinnovo. Se l'abbonamento arriva a un secondo anno, il solo rinnovo costa più dell'intero piano da 2 anni della pagina partner.",
-          "Il piano da 2 anni costa di più oggi e meno in totale. Ha senso per chi ha già deciso di tenere la VPN. Se non hai mai usato Proton VPN, esiste il piano gratuito e non chiede la carta. Parti da lì prima di pagare due anni.",
+          "Il piano da due anni è adatto a chi vuole le funzioni a pagamento di Plus e prevede di usarle per tutta la durata. Per questo profilo, il nostro link aveva il totale più basso fra le opzioni confrontate; il piano gratuito resta un'opzione per chi non ha bisogno di quelle funzioni.",
           "Per Proton Unlimited, la pagina partner offriva il piano da 1 anno a $77.88, con rinnovo a $119.88 ogni 12 mesi."
         ]
       },
@@ -251311,7 +251372,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "VPN Plus è solo la VPN a pagamento: secondo Proton, 10 dispositivi alla volta, server in più di 140 paesi e un sistema di blocco di pubblicità e malware. Gli abbonati mantengono i piani gratuiti per email, archiviazione cloud e password.",
           "Proton Unlimited riunisce VPN Plus, Mail Plus, Drive Plus e Pass Plus, con 500 GB di spazio. Nella pagina partner costava $77.88 il primo anno e si rinnovava a $119.88.",
-          "Se vuoi solo la VPN, Unlimited non conviene. VPN Plus costava $59.76 per due anni nella pagina partner e si rinnova a $83.88 ogni 12 mesi. Il pacchetto vale la pena se userai, oltre alla VPN, almeno la posta o lo spazio a pagamento."
+          "Se ti serve solo la VPN a pagamento, scegli VPN Plus. Proton non permette più abbonamenti Plus sullo stesso account. Unlimited riunisce VPN, email e spazio a pagamento con 500 GB in un account; sceglilo per le funzioni e lo spazio che userai, confrontando anche il rinnovo."
         ]
       },
       {
@@ -251354,17 +251415,24 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Apri il Black Friday di Proton con il pulsante. Il prezzo è già nella pagina. Controlla il totale e il prezzo di rinnovo prima di pagare.",
-      "label": "Vedi il Black Friday di Proton",
+      "text": "Per i nuovi clienti, il nostro link mostrava due anni di VPN Plus a $59.76, contro $71.76 nella pagina offerte di Proton per la stessa durata. Si paga subito e il rinnovo annunciato è di $83.88 all'anno, al prezzo allora vigente. Apri l'offerta dal pulsante e controlla la valuta prima di pagare.",
+      "label": "Vedi l'offerta VPN Plus da 2 anni",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
     "affiliate": "proton",
     "editorialNote": "Scritto a partire dalle pagine dei prezzi e dai termini di Proton. Non abbiamo un coupon nostro. Il link è di affiliazione e può generare una commissione.",
-    "relatedArticles": [],
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-e-affidabile"
+      },
+      {
+        "slug": "proton-vpn-rimborso-come-disdire"
+      }
+    ],
     "decision": {
       "takeIf": [
-        "Avevi già intenzione di abbonarti a una VPN o di lasciare il piano gratuito di Proton.",
+        "Rientri nell'offerta per nuovi utenti e hai già deciso di usare VPN Plus per due anni.",
         "Vuoi bloccare il primo periodo al prezzo della campagna e ti segnerai la data di rinnovo."
       ],
       "skipIf": [
@@ -251406,42 +251474,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "2026년 블랙프라이데이에 저희 링크가 여는 Proton 파트너 페이지에서는 2년 VPN Plus 플랜이 75% 할인됩니다. 할인은 월 결제 플랜을 기준으로 계산되고, 전체 기간 요금이 처음에 한꺼번에 청구되며, 갱신 때는 정상 가격으로 돌아갑니다. 가격이 페이지에 바로 표시되므로 쿠폰 코드는 없습니다. 30일 환불에는 조건이 있습니다."
+          "신규 고객 대상 VPN Plus 2년 플랜은 저희 링크에서 일시불 $59.76, Proton 공개 할인 페이지에서는 같은 기간에 $71.76였습니다. 안내된 갱신 요금은 연 $83.88이며 갱신 시점의 가격이 적용됩니다. 버튼으로 할인 페이지를 열고 결제 전 통화와 총액을 확인하세요."
         ]
       },
       {
-        "heading": "저희 링크로 보이는 내용",
+        "heading": "VPN Plus 2년 할인을 저희 링크로 여는 이유",
         "paragraphs": [
-          "이 페이지의 버튼은 파트너 사이트를 통해 들어온 사람에게 보여 주는 가격이 담긴 Proton 파트너 페이지를 엽니다. 2026년 11월 17일 기준으로 두 가지 플랜이 표시되었습니다. 미국 달러로는 다음과 같았습니다. 페이지에는 이 가격이 \"파트너를 통해서만 이용할 수 있다\"고 적혀 있습니다. 다른 파트너 사이트에서도 같은 혜택을 제공합니다. 이 가이드에서는 Proton의 공개 블랙프라이데이 페이지와 함께 놓고 비교합니다."
+          "Proton은 VPN, 이메일, 클라우드 저장소와 비밀번호 관리를 제공합니다. 신규 고객 대상 VPN Plus의 처음 24개월은 저희 링크에서 $59.76, Proton 공개 할인 페이지에서 같은 플랜과 기간에 $71.76였습니다. 이 두 경로를 비교하면 저희 링크가 $12 더 저렴했습니다. 결제 화면에서 통화와 총액을 확인하세요."
         ],
         "comparisonTable": {
           "caption": "Proton 파트너 페이지(미국 달러). 금액은 국가와 통화에 따라 달라지므로 결제 화면에서 확인하세요.",
           "headers": [
             "플랜",
-            "페이지의 배지",
-            "월",
+            "월 (페이지의 배지)",
             "처음 청구 금액",
             "이후 갱신 가격"
           ],
           "rows": [
             [
               "VPN Plus, 2년",
-              "75% 할인",
-              "$2.49 (정가 $9.99)",
+              "$2.49 (정가 $9.99, 75% 할인)",
               "처음 24개월분 $59.76",
               "12개월마다 $83.88"
             ],
             [
               "Proton Unlimited, 1년",
-              "50% 할인",
-              "$6.49 (정가 $12.99)",
+              "$6.49 (정가 $12.99, 50% 할인)",
               "처음 12개월분 $77.88",
               "12개월마다 $119.88"
             ]
           ]
         },
         "postParagraphs": [
-          "쿠폰도, 복사할 코드도 없습니다. 할인은 버튼이 여는 페이지에 이미 적용되어 있고, 결제하기 전에 결제 화면에서 총액이 표시됩니다. 링크의 규칙은 [저희 Proton 페이지](/ko/coupons/proton)에 있습니다."
+          "쿠폰도, 복사할 코드도 없습니다. 할인은 버튼이 여는 페이지에 이미 적용되어 있고, 결제하기 전에 결제 화면에서 총액이 표시됩니다. 버튼은 Proton 파트너 페이지를 열며, 다른 파트너 사이트에서도 같은 할인이 보일 수 있습니다. 링크의 규칙은 [저희 Proton 페이지](/ko/coupons/proton)에 있습니다."
         ],
         "image": {
           "src": "/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
@@ -251449,7 +251514,14 @@ export const reviewsData: unknown[] = [
           "caption": "Proton 파트너 페이지의 두 플랜(미국 달러). 각 플랜 아래 줄에 청구 총액과 갱신 가격이 표시됩니다.",
           "objectFit": "contain",
           "aspectRatio": 1.565
-        }
+        },
+        "links": [
+          {
+            "label": "VPN Plus 2년 할인 보기",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "공개 페이지에서 할인 중인 상품",
@@ -251513,7 +251585,7 @@ export const reviewsData: unknown[] = [
         "heading": "할인의 기준",
         "paragraphs": [
           "Proton에 따르면 모든 할인은 정상 월 가격을 기준으로 계산됩니다. 그 가격은 VPN Plus가 $9.99, Proton Unlimited가 $12.99였습니다. 2년 플랜의 75%는 $59.76을 $9.99씩 24번 낸 금액($239.76)과 비교한 것입니다.",
-          "2년 동안 매달 결제하며 구독하는 사람은 드물기 때문에 두 번째 비교도 도움이 되며, 이쪽은 저희가 직접 계산한 것입니다. $83.88짜리 연간 갱신을 두 번 한 경우($167.76)와 비교하면 $59.76은 64% 더 낮습니다. 두 비교 모두 할인은 존재합니다. 기준이 달라질 뿐이며, 어느 쪽을 쓰는지는 페이지 자체에 명시되어 있습니다."
+          "구매 경로를 고를 때는 같은 플랜과 기간을 비교하세요. 저희 링크에서는 24개월이 $59.76, Proton 할인 페이지에서는 $71.76로 $12 차이가 났습니다. 표시된 75% 할인은 월 결제 가격 기준이며 이 24개월 할인 가격과의 비교가 아닙니다."
         ]
       },
       {
@@ -251522,7 +251594,7 @@ export const reviewsData: unknown[] = [
           "같은 VPN Plus 플랜이 Proton의 페이지마다 다른 가격으로 표시되었습니다. 비교하려면 각 경로가 24개월 동안 드는 비용을 합산해 보세요."
         ],
         "comparisonTable": {
-          "caption": "24개월 동안의 VPN Plus. 첫 번째 행은 파트너 페이지 가격(미국 달러)이고, 두 번째 행은 계산 규칙이므로 화면에 보이는 가격을 넣어 계산하세요.",
+          "caption": "VPN Plus를 24개월 사용하는 경우의 미국 달러 기준 계산입니다. 공개 연간 플랜은 $35.88이며, 두 번째 해에는 현재 안내된 갱신 요금 $83.88를 사용했습니다. 실제 갱신 가격은 바뀔 수 있습니다.",
           "headers": [
             "경로",
             "가격의 출처",
@@ -251537,13 +251609,13 @@ export const reviewsData: unknown[] = [
             [
               "1년 블랙프라이데이 플랜 + 갱신 1회",
               "공개 블랙프라이데이 페이지",
-              "화면에 보이는 1년 가격 + $83.88"
+              "$119.76 ($35.88 + $83.88)"
             ]
           ]
         },
         "postParagraphs": [
           "1년 플랜은 오늘 내는 돈이 가장 적어서, 유료 서비스를 써 보고 갱신 전에 해지할 수도 있는 사람에게 맞습니다. 구독이 두 번째 해로 이어지면 갱신 요금만으로도 파트너 페이지의 2년 플랜 전체보다 비쌉니다.",
-          "2년 플랜은 오늘 내는 돈은 더 많지만 총액은 더 적습니다. VPN을 계속 쓰기로 이미 정한 사람에게 맞습니다. Proton VPN을 써 본 적이 없다면 카드 없이 쓸 수 있는 무료 플랜이 있습니다. 2년치를 결제하기 전에 거기서 먼저 시작하세요.",
+          "2년 플랜은 Plus 유료 기능을 전체 계약 기간 동안 사용할 사람에게 맞습니다. 이 경우 비교한 경로 중 저희 링크의 총액이 더 낮았으며, 해당 기능이 필요하지 않다면 무료 플랜도 선택할 수 있습니다.",
           "Proton Unlimited의 경우 파트너 페이지에서 1년 플랜이 $77.88에 제공되었고, 12개월마다 $119.88로 갱신되었습니다."
         ]
       },
@@ -251552,7 +251624,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "VPN Plus는 유료 VPN만 포함한 플랜입니다. Proton에 따르면 동시에 10대까지 연결할 수 있고, 140개국이 넘는 곳에 서버가 있으며, 광고 및 악성코드 차단 기능이 있습니다. 구독자는 이메일, 클라우드 저장소, 비밀번호 관리의 무료 플랜도 계속 사용할 수 있습니다.",
           "Proton Unlimited는 VPN Plus, Mail Plus, Drive Plus, Pass Plus를 묶은 플랜이며 저장 용량 500 GB가 포함됩니다. 파트너 페이지에서는 첫 1년이 $77.88이었고 갱신 가격은 $119.88이었습니다.",
-          "VPN만 원한다면 Unlimited는 이득이 아닙니다. VPN Plus는 파트너 페이지에서 2년에 $59.76이었고 12개월마다 $83.88로 갱신됩니다. VPN과 함께 유료 이메일이나 저장소를 하나라도 쓸 거라면 번들이 값어치를 합니다."
+          "유료 VPN만 필요하면 VPN Plus를 고르세요. Proton은 같은 계정에 여러 Plus 구독을 허용하지 않습니다. Unlimited는 유료 VPN, 이메일, 저장소 기능과 500 GB를 한 계정에 묶으므로 실제 사용할 기능과 필요한 용량, 갱신 요금을 비교해 선택하세요."
         ]
       },
       {
@@ -251595,17 +251667,24 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "버튼으로 Proton 블랙프라이데이를 여세요. 가격은 이미 페이지에 표시되어 있습니다. 결제하기 전에 총액과 갱신 가격을 확인하세요.",
-      "label": "Proton 블랙프라이데이 보기",
+      "text": "신규 고객 대상 VPN Plus 2년 플랜은 저희 링크에서 일시불 $59.76, Proton 공개 할인 페이지에서는 같은 기간에 $71.76였습니다. 안내된 갱신 요금은 연 $83.88이며 갱신 시점의 가격이 적용됩니다. 버튼으로 할인 페이지를 열고 결제 전 통화와 총액을 확인하세요.",
+      "label": "VPN Plus 2년 할인 보기",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
     "affiliate": "proton",
     "editorialNote": "Proton의 요금 페이지와 약관을 바탕으로 작성했습니다. 저희만의 쿠폰은 없습니다. 이 링크는 제휴 링크이며 수수료를 받을 수 있습니다.",
-    "relatedArticles": [],
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-trust-ko"
+      },
+      {
+        "slug": "proton-vpn-refund-ko"
+      }
+    ],
     "decision": {
       "takeIf": [
-        "이미 VPN을 구독할 생각이었거나 Proton 무료 플랜에서 옮겨 가려고 합니다.",
+        "신규 사용자 할인 대상이며 VPN Plus를 2년 동안 사용하기로 이미 결정한 경우.",
         "첫 기간을 캠페인 가격으로 확보하고 싶고 갱신일을 적어 둘 수 있습니다."
       ],
       "skipIf": [
@@ -251647,42 +251726,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "2026年のブラックフライデーでは、当サイトのリンクが開くProtonのパートナーページで、2年のVPN Plusプランが75%オフになっています。割引の基準は月払いプランの料金で、全期間の料金が最初にまとめて請求され、更新時は通常価格に戻ります。価格はページに表示されているため、クーポンコードはありません。30日間の返金には条件があります。"
+          "新規利用者向けでは、当サイトのリンクでVPN Plusの2年プランが一括$59.76、同じ期間のProton公式オファーページでは$71.76でした。更新時の案内は年$83.88ですが、その時点の料金が適用されます。ボタンからオファーを開き、支払い前に通貨と合計額を確認してください。"
         ]
       },
       {
-        "heading": "当サイトのリンクで表示される内容",
+        "heading": "VPN Plusの2年プランを当サイトのリンクから開くメリット",
         "paragraphs": [
-          "このページのボタンは、パートナーサイト経由でアクセスした人向けの料金を表示するProtonのパートナーページを開きます。2026年11月17日の時点では、2つのプランが表示されていました。米ドルでの内容は次のとおりです。ページ自体にも、この料金は「パートナー経由でのみ利用できます」と書かれています。ほかのパートナーサイトでも同じオファーが提供されています。このガイドでは、Protonの公開ブラックフライデーページとあわせて比較します。"
+          "ProtonはVPN、メール、クラウドストレージ、パスワード管理を提供しています。新規利用者向けでは、当サイトのリンクでVPN Plusの最初の24か月が$59.76、Protonの公開オファーページで同じプランと期間が$71.76でした。この二つの選択肢では、当サイトのリンクのほうが$12安い結果です。決済画面で通貨と合計額を確認してください。"
         ],
         "comparisonTable": {
           "caption": "Protonのパートナーページ（米ドル）。金額はお住まいの国や通貨によって変わるため、決済画面で確認してください。",
           "headers": [
             "プラン",
-            "ページ上のバッジ",
-            "月額",
+            "月額（ページ上のバッジ）",
             "最初に請求される金額",
             "更新時の料金"
           ],
           "rows": [
             [
               "VPN Plus（2年）",
-              "75%オフ",
-              "$2.49（通常 $9.99）",
+              "$2.49（通常 $9.99、75%オフ）",
               "最初の24か月分として $59.76",
               "12か月ごとに $83.88"
             ],
             [
               "Proton Unlimited（1年）",
-              "50%オフ",
-              "$6.49（通常 $12.99）",
+              "$6.49（通常 $12.99、50%オフ）",
               "最初の12か月分として $77.88",
               "12か月ごとに $119.88"
             ]
           ]
         },
         "postParagraphs": [
-          "クーポンはなく、コピーするコードもありません。割引はボタンで開くページにすでに反映されていて、支払い前に決済画面で合計金額が表示されます。リンクのルールは[当サイトのProtonのページ](/ja/coupons/proton)にまとめています。"
+          "クーポンはなく、コピーするコードもありません。割引はボタンで開くページにすでに反映されていて、支払い前に決済画面で合計金額が表示されます。ボタンで開くのはProtonのパートナーページで、ほかのパートナーサイトでも同じオファーが表示されることがあります。リンクのルールは[当サイトのProtonのページ](/ja/coupons/proton)にまとめています。"
         ],
         "image": {
           "src": "/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
@@ -251690,7 +251766,14 @@ export const reviewsData: unknown[] = [
           "caption": "Protonのパートナーページに表示された2つのプラン（米ドル）。各プランの下の行に、請求合計額と更新時の価格が表示されます。",
           "objectFit": "contain",
           "aspectRatio": 1.565
-        }
+        },
+        "links": [
+          {
+            "label": "VPN Plusの2年オファーを見る",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "公開ページで割引になっているもの",
@@ -251754,7 +251837,7 @@ export const reviewsData: unknown[] = [
         "heading": "割引の基準は何か",
         "paragraphs": [
           "Protonによると、すべての割引は通常の月額料金を基準に計算されています。その料金はVPN Plusが$9.99、Proton Unlimitedが$12.99でした。2年プランの75%オフは、$59.76を、$9.99の24回分の月払い（合計$239.76）と比べたものです。",
-          "2年間ずっと月払いで契約する人はあまりいないため、もう一つの比較も役に立ちます。これは当サイト独自の計算です。$83.88の年額更新を2回繰り返した場合（$167.76）と比べると、$59.76は64%安くなります。どちらの比較でも割引はあります。変わるのは基準で、ページ自体にどちらを使っているかが書かれています。"
+          "購入先を選ぶときは、同じプランと期間を比べてください。当サイトのリンクでは24か月が$59.76、Protonのオファーページでは$71.76で、差額は$12でした。表示されている75%オフは月払い料金が基準であり、この24か月のオファーとの比較ではありません。"
         ]
       },
       {
@@ -251763,7 +251846,7 @@ export const reviewsData: unknown[] = [
           "同じVPN Plusプランでも、Protonのページによって表示される価格が異なっていました。比べるには、それぞれの方法で24か月間にかかる金額を合計します。"
         ],
         "comparisonTable": {
-          "caption": "24か月間のVPN Plus。1行目はパートナーページの価格（米ドル）、2行目は計算のルールで、画面に表示されている価格を当てはめてください。",
+          "caption": "VPN Plusを24か月利用する場合の米ドルでの試算です。公開の年契約は$35.88、2年目は現在案内されている更新料$83.88を使っています。更新時の料金は変わる場合があります。",
           "headers": [
             "方法",
             "価格の出どころ",
@@ -251778,13 +251861,13 @@ export const reviewsData: unknown[] = [
             [
               "1年のブラックフライデープラン＋更新1回",
               "公開のブラックフライデーページ",
-              "画面に表示されている1年の価格＋$83.88"
+              "$119.76（$35.88＋$83.88）"
             ]
           ]
         },
         "postParagraphs": [
           "1年プランは今日の支払いがいちばん少なく、有料サービスを試して、更新前に解約するかもしれない人に向いています。契約が2年目に入ると、更新料金だけでパートナーページの2年プラン全体より高くなります。",
-          "2年プランは今日の支払いが多くなりますが、合計では安くなります。VPNを使い続けると決めている人に向いています。Proton VPNを使ったことがない場合は、カード不要の無料プランがあります。2年分を支払う前に、まずそちらから始めてください。",
+          "2年プランは、Plusの有料機能を契約期間中ずっと使う予定の方に向いています。その条件なら、比較した選択肢では当サイトのリンクの合計額が低く、有料機能が不要な方には無料プランも選択肢になります。",
           "Proton Unlimitedについては、パートナーページで1年プランが$77.88で提供され、12か月ごとに$119.88で更新される内容でした。"
         ]
       },
@@ -251793,7 +251876,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "VPN Plusは有料のVPNだけのプランです。Protonによると、同時に10台まで接続でき、140を超える国にサーバーがあり、広告とマルウェアのブロッカーが付いています。契約者は、メール、クラウドストレージ、パスワード管理の無料プランも引き続き使えます。",
           "Proton Unlimitedは、VPN Plus、Mail Plus、Drive Plus、Pass Plusをまとめたプランで、500 GBのストレージが付きます。パートナーページでは最初の1年が$77.88で、更新時は$119.88でした。",
-          "VPNだけが欲しい場合、Unlimitedは割に合いません。VPN Plusはパートナーページで2年間$59.76で、12か月ごとに$83.88で更新されます。VPNに加えて、少なくとも有料のメールかストレージのどちらかを使うなら、バンドルを選ぶ価値があります。"
+          "有料VPNだけが必要ならVPN Plusを選びましょう。Protonでは同じアカウントに複数のPlusプランを契約できません。Unlimitedは有料のVPN、メール、ストレージ機能と500 GBを一つのアカウントで利用できるので、必要な機能と容量、更新料を比べて選んでください。"
         ]
       },
       {
@@ -251836,17 +251919,24 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "ボタンからProtonのブラックフライデーを開きます。価格はすでにページに表示されています。支払う前に、合計額と更新時の価格を確認してください。",
-      "label": "Protonのブラックフライデーを見る",
+      "text": "新規利用者向けでは、当サイトのリンクでVPN Plusの2年プランが一括$59.76、同じ期間のProton公式オファーページでは$71.76でした。更新時の案内は年$83.88ですが、その時点の料金が適用されます。ボタンからオファーを開き、支払い前に通貨と合計額を確認してください。",
+      "label": "VPN Plusの2年オファーを見る",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
     "affiliate": "proton",
     "editorialNote": "Protonの料金ページと利用規約をもとに作成しました。当サイト独自のクーポンはありません。このリンクはアフィリエイトリンクで、紹介料を受け取る場合があります。",
-    "relatedArticles": [],
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-trust-ja"
+      },
+      {
+        "slug": "proton-vpn-refund-ja"
+      }
+    ],
     "decision": {
       "takeIf": [
-        "もともとVPNを契約するつもりだった、またはProtonの無料プランから移りたい場合です。",
+        "新規利用者向けオファーの対象で、VPN Plusを2年間使うと決めている方。",
         "最初の期間をキャンペーン価格で確保したく、更新日も控えておける場合です。"
       ],
       "skipIf": [
@@ -251888,42 +251978,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "2026 年黑色星期五，Proton 的合作夥伴頁面（也就是我們的連結開啟的頁面）提供 2 年 VPN Plus 方案省 75% 的優惠。折扣是以月繳方案為基準計算，整個期間的費用會一次扣款，方案續訂時則按標準價格計費。這裡沒有優惠碼，因為價格直接顯示在頁面上。30 天退款設有條件。"
+          "針對新用戶，我們的連結顯示 VPN Plus 兩年一次付清 59.76 美元，Proton 公開優惠頁的相同方案和期限則為 71.76 美元。公布的續訂價為每年 83.88 美元，實際以續訂時的價格為準。請透過按鈕開啟優惠，並在付款前確認幣別和總額。"
         ]
       },
       {
-        "heading": "透過我們的連結看到什麼",
+        "heading": "為什麼透過我們的連結開啟 VPN Plus 兩年優惠",
         "paragraphs": [
-          "本頁的按鈕會開啟 Proton 的合作夥伴頁面，上面是透過合作夥伴網站進入的使用者所看到的價格。2026 年 11 月 17 日，頁面上有兩個方案，以美元計價如下。頁面本身寫明這些價格「僅透過我們的合作夥伴提供」。其他合作夥伴網站的優惠相同。本文會將它與 Proton 公開的黑色星期五頁面並列比較。"
+          "Proton 提供 VPN、電子郵件、雲端儲存和密碼管理。針對新用戶，我們的連結顯示 VPN Plus 前 24 個月為 59.76 美元，Proton 公開優惠頁的相同方案和期限為 71.76 美元。在這兩個購買管道中，我們的連結便宜 12 美元。請在結帳時確認幣別和總額。"
         ],
         "comparisonTable": {
           "caption": "Proton 合作夥伴頁面，以美元計價。金額會隨國家和幣別而變，請在結帳時確認。",
           "headers": [
             "方案",
-            "頁面上的標示",
-            "每月",
+            "每月（頁面上的標示）",
             "一次扣款",
             "之後續訂價"
           ],
           "rows": [
             [
               "VPN Plus，2 年",
-              "省 75%",
-              "2.49 美元（原價 9.99 美元）",
+              "2.49 美元（原價 9.99 美元，省 75%）",
               "前 24 個月 59.76 美元",
               "每 12 個月 83.88 美元"
             ],
             [
               "Proton Unlimited，1 年",
-              "省 50%",
-              "6.49 美元（原價 12.99 美元）",
+              "6.49 美元（原價 12.99 美元，省 50%）",
               "前 12 個月 77.88 美元",
               "每 12 個月 119.88 美元"
             ]
           ]
         },
         "postParagraphs": [
-          "這裡沒有優惠碼，也沒有要複製的代碼。折扣已經顯示在按鈕開啟的頁面上，付款前結帳頁會顯示總金額。這個連結的相關規則請見[我們的 Proton 頁面](/zh-hant/coupons/proton)。"
+          "這裡沒有優惠碼，也沒有要複製的代碼。折扣已經顯示在按鈕開啟的頁面上，付款前結帳頁會顯示總金額。按鈕開啟的是 Proton 的合作夥伴頁面，其他合作夥伴網站也可能顯示相同優惠。這個連結的相關規則請見[我們的 Proton 頁面](/zh-hant/coupons/proton)。"
         ],
         "image": {
           "src": "/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
@@ -251931,7 +252018,14 @@ export const reviewsData: unknown[] = [
           "caption": "Proton 合作夥伴頁面上的兩個方案，以美元計價。每個方案下方的小字標示一次扣款總額和續訂價格。",
           "objectFit": "contain",
           "aspectRatio": 1.565
-        }
+        },
+        "links": [
+          {
+            "label": "查看 VPN Plus 兩年優惠",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "公開頁面上有什麼優惠",
@@ -251995,7 +252089,7 @@ export const reviewsData: unknown[] = [
         "heading": "折扣是以什麼為基準",
         "paragraphs": [
           "依 Proton 所述，所有折扣都以一般月費計算，VPN Plus 為 9.99 美元，Proton Unlimited 為 12.99 美元。2 年方案的 75% 是拿 59.76 美元與 24 期每月 9.99 美元相比，後者合計 239.76 美元。",
-          "很少人會連續兩年月繳，所以再做一種比較會有幫助，這是我們自己的算法。與兩次 83.88 美元的年費續訂（共 167.76 美元）相比，59.76 美元便宜了 64%。兩種比較下折扣都成立，只是基準不同，頁面本身也會註明它採用哪一種。"
+          "選擇購買管道時，請比較相同方案和期限。我們的連結顯示 24 個月為 59.76 美元，Proton 優惠頁為 71.76 美元，差額為 12 美元。公布的 75% 折扣以月繳價格為基準，不是與這個 24 個月優惠相比。"
         ]
       },
       {
@@ -252004,7 +252098,7 @@ export const reviewsData: unknown[] = [
           "同一個 VPN Plus 方案在 Proton 不同頁面上顯示的價格不同。要比較的話，把每種方式在 24 個月內的花費加起來。"
         ],
         "comparisonTable": {
-          "caption": "VPN Plus 24 個月的花費。第一列是合作夥伴頁面的美元價格；第二列是算法，請代入你螢幕上看到的價格。",
+          "caption": "VPN Plus 使用 24 個月的美元試算。公開年繳方案為 35.88 美元，第二年採用目前公布的 83.88 美元續訂價。實際續訂價格可能變化。",
           "headers": [
             "方式",
             "價格來源",
@@ -252019,13 +252113,13 @@ export const reviewsData: unknown[] = [
             [
               "1 年黑色星期五方案 + 續訂 1 次",
               "公開的黑色星期五頁面",
-              "你螢幕上的 1 年價格加上 83.88 美元"
+              "119.76 美元（35.88 美元 + 83.88 美元）"
             ]
           ]
         },
         "postParagraphs": [
           "1 年方案現在要付的錢最少，適合想先試用付費服務、可能在續訂前取消的人。如果訂閱延續到第二年，光是續訂的費用就超過合作夥伴頁面整個 2 年方案的價格。",
-          "2 年方案現在付得較多，但總額較低。適合已經決定長期使用這個 VPN 的人。如果你從沒用過 Proton VPN，可以先用免費方案，不需要信用卡。先試用，再決定要不要一次付兩年。",
+          "兩年方案適合需要 Plus 付費功能、並打算在整個合約期內使用的人。對這類用戶，在所比較的管道中，我們的連結總價較低；不需要這些功能的人仍可選擇免費方案。",
           "至於 Proton Unlimited，合作夥伴頁面提供 1 年方案 77.88 美元，之後每 12 個月以 119.88 美元續訂。"
         ]
       },
@@ -252034,7 +252128,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "VPN Plus 只含付費 VPN：依 Proton 所述，可同時連線 10 台裝置，伺服器遍布 140 多個國家，並附廣告與惡意軟體攔截功能。訂閱者仍可使用電子郵件、雲端儲存和密碼管理的免費方案。",
           "Proton Unlimited 整合了 VPN Plus、Mail Plus、Drive Plus 和 Pass Plus，並提供 500 GB 儲存空間。在合作夥伴頁面上，第一年為 77.88 美元，續訂價為 119.88 美元。",
-          "如果你只想要 VPN，Unlimited 並不划算。VPN Plus 在合作夥伴頁面上 2 年為 59.76 美元，之後每 12 個月以 83.88 美元續訂。如果除了 VPN 之外，你至少還會用到付費電子郵件或儲存空間，套組才值得。"
+          "如果只需要付費 VPN，選擇 VPN Plus。Proton 不允許同一帳戶訂閱多個 Plus 方案。Unlimited 把付費 VPN、郵件和儲存功能與 500 GB 整合在同一帳戶中，請依實際需要的功能、容量和續訂費用選擇。"
         ]
       },
       {
@@ -252077,17 +252171,24 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "用按鈕開啟 Proton 的黑色星期五頁面。價格已經顯示在頁面上。付款前請確認總額和續訂價格。",
-      "label": "查看 Proton 黑色星期五",
+      "text": "針對新用戶，我們的連結顯示 VPN Plus 兩年一次付清 59.76 美元，Proton 公開優惠頁的相同方案和期限則為 71.76 美元。公布的續訂價為每年 83.88 美元，實際以續訂時的價格為準。請透過按鈕開啟優惠，並在付款前確認幣別和總額。",
+      "label": "查看 VPN Plus 兩年優惠",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
     "affiliate": "proton",
     "editorialNote": "本文依據 Proton 的價格頁面與條款撰寫。我們沒有自己的優惠碼。這個連結是聯盟連結，可能為我們帶來佣金。",
-    "relatedArticles": [],
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-trust-zh-hant"
+      },
+      {
+        "slug": "proton-vpn-refund-zh-hant"
+      }
+    ],
     "decision": {
       "takeIf": [
-        "你本來就打算訂閱 VPN，或要從 Proton 的免費方案升級。",
+        "你符合新用戶優惠條件，並且已經決定使用 VPN Plus 兩年。",
         "你想以活動價鎖定第一個期間，並且會記下續訂日期。"
       ],
       "skipIf": [
@@ -252129,42 +252230,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "2026 年黑色星期五，Proton 的合作伙伴页面（也就是我们的链接打开的页面）提供 2 年 VPN Plus 套餐省 75% 的优惠。折扣是以按月付费的套餐为基准计算的，整个周期的费用一次性扣款，套餐续订时按标准价格计费。这里没有优惠码，因为价格直接显示在页面上。30 天退款附有条件。"
+          "面向新用户，我们的链接显示 VPN Plus 两年一次付清 59.76 美元，Proton 公开优惠页的相同套餐和期限则为 71.76 美元。公布的续订价为每年 83.88 美元，实际以续订时的价格为准。请通过按钮打开优惠，并在付款前确认币种和总额。"
         ]
       },
       {
-        "heading": "通过我们的链接看到什么",
+        "heading": "为什么通过我们的链接打开 VPN Plus 两年优惠",
         "paragraphs": [
-          "本页的按钮会打开 Proton 的合作伙伴页面，上面是通过合作伙伴网站进入的用户所看到的价格。2026 年 11 月 17 日，页面上有两个套餐，以美元计价如下。页面本身写明这些价格“仅通过我们的合作伙伴提供”。其他合作伙伴网站的优惠相同。本文会把它与 Proton 公开的黑色星期五页面放在一起比较。"
+          "Proton 提供 VPN、电子邮件、云存储和密码管理。面向新用户，我们的链接显示 VPN Plus 前 24 个月为 59.76 美元，Proton 公开优惠页的相同套餐和期限为 71.76 美元。在这两个购买渠道中，我们的链接便宜 12 美元。请在结账时确认币种和总额。"
         ],
         "comparisonTable": {
           "caption": "Proton 合作伙伴页面，以美元计价。金额会随国家和币种而变，请在结账时确认。",
           "headers": [
             "套餐",
-            "页面上的标注",
-            "每月",
+            "每月（页面上的标注）",
             "一次性扣款",
             "之后续订价"
           ],
           "rows": [
             [
               "VPN Plus，2 年",
-              "省 75%",
-              "2.49 美元（原价 9.99 美元）",
+              "2.49 美元（原价 9.99 美元，省 75%）",
               "前 24 个月 59.76 美元",
               "每 12 个月 83.88 美元"
             ],
             [
               "Proton Unlimited，1 年",
-              "省 50%",
-              "6.49 美元（原价 12.99 美元）",
+              "6.49 美元（原价 12.99 美元，省 50%）",
               "前 12 个月 77.88 美元",
               "每 12 个月 119.88 美元"
             ]
           ]
         },
         "postParagraphs": [
-          "这里没有优惠码，也没有要复制的代码。折扣已经显示在按钮打开的页面上，付款前结账页会显示总金额。这个链接的相关规则见[我们的 Proton 页面](/zh-hans/coupons/proton)。"
+          "这里没有优惠码，也没有要复制的代码。折扣已经显示在按钮打开的页面上，付款前结账页会显示总金额。按钮打开的是 Proton 的合作伙伴页面，其他合作伙伴网站也可能显示相同优惠。这个链接的相关规则见[我们的 Proton 页面](/zh-hans/coupons/proton)。"
         ],
         "image": {
           "src": "/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
@@ -252172,7 +252270,14 @@ export const reviewsData: unknown[] = [
           "caption": "Proton 合作伙伴页面上的两个套餐，以美元计价。每个套餐下方的小字标注一次性扣款总额和续订价格。",
           "objectFit": "contain",
           "aspectRatio": 1.565
-        }
+        },
+        "links": [
+          {
+            "label": "查看 VPN Plus 两年优惠",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "公开页面上有什么优惠",
@@ -252236,7 +252341,7 @@ export const reviewsData: unknown[] = [
         "heading": "折扣是以什么为基准",
         "paragraphs": [
           "据 Proton 所述，所有折扣都以普通月费计算，VPN Plus 为 9.99 美元，Proton Unlimited 为 12.99 美元。2 年套餐的 75% 是拿 59.76 美元与 24 期每月 9.99 美元相比，后者合计 239.76 美元。",
-          "很少有人会连续两年按月付费，所以再做一种比较会有帮助，这是我们自己的算法。与两次 83.88 美元的年费续订（共 167.76 美元）相比，59.76 美元便宜了 64%。两种比较下折扣都成立，只是基准不同，页面本身也会注明它采用哪一种。"
+          "选择购买渠道时，请比较相同套餐和期限。我们的链接显示 24 个月为 59.76 美元，Proton 优惠页为 71.76 美元，差额为 12 美元。公布的 75% 折扣以月付价格为基准，不是与这个 24 个月优惠相比。"
         ]
       },
       {
@@ -252245,7 +252350,7 @@ export const reviewsData: unknown[] = [
           "同一个 VPN Plus 套餐在 Proton 不同页面上显示的价格不同。要比较的话，把每种方式在 24 个月内的花费加起来。"
         ],
         "comparisonTable": {
-          "caption": "VPN Plus 24 个月的花费。第一行是合作伙伴页面的美元价格；第二行是算法，请代入你屏幕上看到的价格。",
+          "caption": "VPN Plus 使用 24 个月的美元估算。公开年付套餐为 35.88 美元，第二年采用目前公布的 83.88 美元续订价。实际续订价格可能变化。",
           "headers": [
             "方式",
             "价格来源",
@@ -252260,13 +252365,13 @@ export const reviewsData: unknown[] = [
             [
               "1 年黑色星期五套餐 + 续订 1 次",
               "公开的黑色星期五页面",
-              "你屏幕上的 1 年价格加上 83.88 美元"
+              "119.76 美元（35.88 美元 + 83.88 美元）"
             ]
           ]
         },
         "postParagraphs": [
           "1 年套餐现在要付的钱最少，适合想先试用付费服务、可能在续订前取消的人。如果订阅延续到第二年，光是续订的费用就超过合作伙伴页面整个 2 年套餐的价格。",
-          "2 年套餐现在付得较多，但总额更低。适合已经决定长期使用这个 VPN 的人。如果你从没用过 Proton VPN，可以先用免费版，不需要银行卡。先试用，再决定要不要一次付两年。",
+          "两年套餐适合需要 Plus 付费功能、并打算在整个合同期内使用的人。对这类用户，在所比较的渠道中，我们的链接总价更低；不需要这些功能的人仍可选择免费版。",
           "至于 Proton Unlimited，合作伙伴页面提供 1 年套餐 77.88 美元，之后每 12 个月以 119.88 美元续订。"
         ]
       },
@@ -252275,7 +252380,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "VPN Plus 只含付费 VPN：据 Proton 所述，可同时连接 10 台设备，服务器遍布 140 多个国家，并带有广告和恶意软件拦截功能。订阅者仍可使用电子邮件、云存储和密码管理的免费版。",
           "Proton Unlimited 整合了 VPN Plus、Mail Plus、Drive Plus 和 Pass Plus，并提供 500 GB 存储空间。在合作伙伴页面上，第一年为 77.88 美元，续订价为 119.88 美元。",
-          "如果你只想要 VPN，Unlimited 并不划算。VPN Plus 在合作伙伴页面上 2 年为 59.76 美元，之后每 12 个月以 83.88 美元续订。如果除了 VPN 之外，你至少还会用到付费电子邮件或存储空间，套装才值得。"
+          "如果只需要付费 VPN，选择 VPN Plus。Proton 不允许同一账户订阅多个 Plus 套餐。Unlimited 把付费 VPN、邮件和存储功能与 500 GB 整合在同一账户中，请根据实际需要的功能、容量和续订费用选择。"
         ]
       },
       {
@@ -252318,17 +252423,24 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "用按钮打开 Proton 的黑色星期五页面。价格已经显示在页面上。付款前请确认总额和续订价格。",
-      "label": "查看 Proton 黑色星期五",
+      "text": "面向新用户，我们的链接显示 VPN Plus 两年一次付清 59.76 美元，Proton 公开优惠页的相同套餐和期限则为 71.76 美元。公布的续订价为每年 83.88 美元，实际以续订时的价格为准。请通过按钮打开优惠，并在付款前确认币种和总额。",
+      "label": "查看 VPN Plus 两年优惠",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
     "affiliate": "proton",
     "editorialNote": "本文依据 Proton 的价格页面与条款撰写。我们没有自己的优惠码。这个链接是联盟链接，可能为我们带来佣金。",
-    "relatedArticles": [],
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-trust-zh-hans"
+      },
+      {
+        "slug": "proton-vpn-refund-zh-hans"
+      }
+    ],
     "decision": {
       "takeIf": [
-        "你本来就打算订阅 VPN，或要从 Proton 的免费版升级。",
+        "你符合新用户优惠条件，并且已经决定使用 VPN Plus 两年。",
         "你想以活动价锁定第一个周期，并且会记下续订日期。"
       ],
       "skipIf": [
