@@ -250189,8 +250189,8 @@ export const reviewsData: unknown[] = [
     "slug": "proton-black-friday",
     "locale": "en",
     "translationKey": "proton-black-friday",
-    "title": "Proton Black Friday 2026: prices, renewal cost and whether to pick the 1-year or the 2-year plan",
-    "seoTitle": "Proton Black Friday 2026: prices and renewal cost",
+    "title": "Proton Black Friday 2026: where the 2-year VPN Plus plan costs less",
+    "seoTitle": "Proton Black Friday 2026: 2-year VPN Plus for $59.76",
     "type": "Black Friday Guide",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -250201,8 +250201,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Proton's Black Friday plans explained: what you pay upfront, what the plan renews at, what the discount is measured against and when the 2-year plan costs less.",
-    "metaDescription": "Proton Black Friday: 75% off the 2-year VPN Plus plan on the partner page. See what is billed upfront, the renewal price and the 1-year vs 2-year math.",
+    "description": "VPN Plus for $59.76 for the first 24 months through our link, with the difference from Proton's other pages, the upfront payment and the advertised renewal.",
+    "metaDescription": "Through our link, VPN Plus is $59.76 for the first 24 months. Compare it with $71.76 on Proton's deals page and check the advertised renewal.",
     "publishedAt": "November 17, 2026",
     "publishedAtISO": "2026-11-17",
     "updatedAt": "2026-11-17",
@@ -250350,6 +250350,16 @@ export const reviewsData: unknown[] = [
               "$59.76"
             ],
             [
+              "2-year plan",
+              "Proton's deals page",
+              "$71.76"
+            ],
+            [
+              "2-year plan",
+              "Proton's pricing page",
+              "$83.76"
+            ],
+            [
               "1-year Black Friday plan + 1 renewal",
               "Public Black Friday page",
               "$119.76 = $35.88 + $83.88"
@@ -250444,8 +250454,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-proton-ofertas",
     "locale": "es",
     "translationKey": "proton-black-friday",
-    "title": "Black Friday de Proton 2026: precios, coste de renovación y si elegir el plan de 1 año o el de 2 años",
-    "seoTitle": "Proton Black Friday 2026: precios y coste de renovación",
+    "title": "Black Friday de Proton 2026: dónde cuesta menos el plan VPN Plus de 2 años",
+    "seoTitle": "Proton Black Friday 2026: VPN Plus 2 años por $59.76",
     "type": "Guía de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -250456,8 +250466,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Los planes de Black Friday de Proton explicados: lo que pagas por adelantado, a qué precio se renueva, frente a qué se mide el descuento y cuándo el plan de 2 años cuesta menos.",
-    "metaDescription": "Black Friday de Proton: 75% menos en el plan VPN Plus de 2 años en la página de socios. Qué se cobra por adelantado, la renovación y 1 año frente a 2.",
+    "description": "VPN Plus por $59.76 durante los primeros 24 meses con nuestro enlace, con la diferencia frente a otras páginas de Proton, el pago por adelantado y la renovación anunciada.",
+    "metaDescription": "Con nuestro enlace, VPN Plus cuesta $59.76 los primeros 24 meses. Compáralo con $71.76 en la página de ofertas de Proton y revisa la renovación anunciada.",
     "publishedAt": "17 de noviembre de 2026",
     "publishedAtISO": "2026-11-17",
     "updatedAt": "2026-11-17",
@@ -250605,6 +250615,16 @@ export const reviewsData: unknown[] = [
               "$59.76"
             ],
             [
+              "Plan de 2 años",
+              "Página de ofertas de Proton",
+              "$71.76"
+            ],
+            [
+              "Plan de 2 años",
+              "Página de precios de Proton",
+              "$83.76"
+            ],
+            [
               "Plan de Black Friday de 1 año + 1 renovación",
               "Página pública de Black Friday",
               "$119.76 = $35.88 + $83.88"
@@ -250699,8 +250719,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-proton-offres",
     "locale": "fr",
     "translationKey": "proton-black-friday",
-    "title": "Black Friday Proton 2026 : tarifs, prix au renouvellement et choix entre l'offre d'un an et celle de deux ans",
-    "seoTitle": "Black Friday Proton 2026 : tarifs et renouvellement",
+    "title": "Black Friday Proton 2026 : où l'offre VPN Plus de 2 ans coûte le moins",
+    "seoTitle": "Proton Black Friday 2026 : VPN Plus 2 ans à 59,76 $",
     "type": "Guide Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -250711,8 +250731,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Les offres Black Friday de Proton expliquées : ce que vous payez d'avance, le prix au renouvellement, la base de la réduction et quand l'offre de 2 ans coûte moins cher.",
-    "metaDescription": "Black Friday Proton : 75 % sur le VPN Plus de 2 ans via la page partenaires. Montant facturé d'avance, prix au renouvellement et calcul 1 an contre 2 ans.",
+    "description": "VPN Plus à 59,76 $ pour les 24 premiers mois via notre lien, avec l'écart par rapport aux autres pages de Proton, le paiement d'avance et le renouvellement annoncé.",
+    "metaDescription": "Via notre lien, VPN Plus coûte 59,76 $ les 24 premiers mois. Comparez avec 71,76 $ sur la page d'offres de Proton et vérifiez le renouvellement annoncé.",
     "publishedAt": "17 novembre 2026",
     "publishedAtISO": "2026-11-17",
     "updatedAt": "2026-11-17",
@@ -250860,6 +250880,16 @@ export const reviewsData: unknown[] = [
               "59,76 $"
             ],
             [
+              "Offre de 2 ans",
+              "Page d'offres de Proton",
+              "71,76 $"
+            ],
+            [
+              "Offre de 2 ans",
+              "Page des tarifs de Proton",
+              "83,76 $"
+            ],
+            [
               "Offre Black Friday d'1 an + 1 renouvellement",
               "Page publique Black Friday",
               "119,76 $ (35,88 $ + 83,88 $)"
@@ -250954,8 +250984,8 @@ export const reviewsData: unknown[] = [
     "slug": "proton-black-friday-angebote",
     "locale": "de",
     "translationKey": "proton-black-friday",
-    "title": "Proton Black Friday 2026: Preise, Verlängerungskosten und die Frage, ob Sie den 1-Jahres- oder den 2-Jahres-Tarif wählen",
-    "seoTitle": "Proton Black Friday 2026: Preise und Verlängerung",
+    "title": "Proton Black Friday 2026: wo der 2-Jahres-Tarif VPN Plus günstiger ist",
+    "seoTitle": "Proton Black Friday 2026: VPN Plus 2 Jahre für 59,76 $",
     "type": "Black-Friday-Ratgeber",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -250966,8 +250996,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Protons Black-Friday-Tarife erklärt: was Sie im Voraus zahlen, zu welchem Preis sich der Tarif verlängert, worauf sich der Rabatt bezieht und wann 2 Jahre günstiger sind.",
-    "metaDescription": "Proton Black Friday: 75 % Rabatt auf VPN Plus für 2 Jahre über die Partnerseite. Vorabbetrag, Verlängerungspreis, 1 Jahr gegen 2 Jahre.",
+    "description": "VPN Plus für 59,76 $ in den ersten 24 Monaten über unseren Link, mit dem Unterschied zu Protons anderen Seiten, der Vorauszahlung und der angekündigten Verlängerung.",
+    "metaDescription": "Über unseren Link kostet VPN Plus 59,76 $ für die ersten 24 Monate. Vergleichen Sie mit 71,76 $ auf Protons Angebotsseite und prüfen Sie die Verlängerung.",
     "publishedAt": "17. November 2026",
     "publishedAtISO": "2026-11-17",
     "updatedAt": "2026-11-17",
@@ -251115,6 +251145,16 @@ export const reviewsData: unknown[] = [
               "59,76 $"
             ],
             [
+              "2-Jahres-Tarif",
+              "Protons Angebotsseite",
+              "71,76 $"
+            ],
+            [
+              "2-Jahres-Tarif",
+              "Protons Preisseite",
+              "83,76 $"
+            ],
+            [
               "1-Jahres-Black-Friday-Tarif + 1 Verlängerung",
               "Öffentliche Black-Friday-Seite",
               "119,76 $ (35,88 $ + 83,88 $)"
@@ -251209,8 +251249,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-proton-offerte",
     "locale": "it",
     "translationKey": "proton-black-friday",
-    "title": "Proton Black Friday 2026: prezzi, costo del rinnovo e se scegliere il piano da 1 anno o da 2 anni",
-    "seoTitle": "Proton Black Friday 2026: prezzi e costo del rinnovo",
+    "title": "Proton Black Friday 2026: dove il piano VPN Plus da 2 anni costa meno",
+    "seoTitle": "Proton Black Friday 2026: VPN Plus 2 anni a $59.76",
     "type": "Guida al Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -251221,8 +251261,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "I piani Black Friday di Proton spiegati: cosa paghi subito, a quanto si rinnova il piano, rispetto a cosa è calcolato lo sconto e quando il piano da 2 anni costa meno.",
-    "metaDescription": "Black Friday Proton: 75% di sconto sul piano VPN Plus da 2 anni nella pagina partner. Cosa si paga subito, il rinnovo e il confronto tra 1 e 2 anni.",
+    "description": "VPN Plus a $59.76 per i primi 24 mesi con il nostro link, con la differenza rispetto alle altre pagine di Proton, il pagamento anticipato e il rinnovo annunciato.",
+    "metaDescription": "Con il nostro link, VPN Plus costa $59.76 per i primi 24 mesi. Confrontalo con $71.76 nella pagina offerte di Proton e controlla il rinnovo annunciato.",
     "publishedAt": "17 novembre 2026",
     "publishedAtISO": "2026-11-17",
     "updatedAt": "2026-11-17",
@@ -251370,6 +251410,16 @@ export const reviewsData: unknown[] = [
               "$59.76"
             ],
             [
+              "Piano da 2 anni",
+              "Pagina delle offerte di Proton",
+              "$71.76"
+            ],
+            [
+              "Piano da 2 anni",
+              "Pagina dei prezzi di Proton",
+              "$83.76"
+            ],
+            [
               "Piano Black Friday da 1 anno + 1 rinnovo",
               "Pagina pubblica del Black Friday",
               "$119.76 ($35.88 + $83.88)"
@@ -251464,8 +251514,8 @@ export const reviewsData: unknown[] = [
     "slug": "proton-black-friday-ko",
     "locale": "ko",
     "translationKey": "proton-black-friday",
-    "title": "Proton 블랙프라이데이 2026: 가격, 갱신 비용, 1년 플랜과 2년 플랜 중 무엇을 고를까",
-    "seoTitle": "Proton 블랙프라이데이 2026: 가격과 갱신 비용",
+    "title": "Proton 블랙프라이데이 2026: 2년 VPN Plus 플랜이 더 저렴한 곳",
+    "seoTitle": "Proton 블랙프라이데이 2026: 2년 VPN Plus $59.76",
     "type": "블랙프라이데이 가이드",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -251476,8 +251526,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Proton 블랙프라이데이 플랜을 정리했습니다. 처음에 내는 금액, 갱신 가격, 할인의 기준, 그리고 2년 플랜이 더 저렴해지는 경우를 확인하세요.",
-    "metaDescription": "Proton 블랙프라이데이: 파트너 페이지에서 2년 VPN Plus가 75% 할인됩니다. 첫 결제 금액, 갱신 가격, 1년과 2년 비교를 정리했습니다.",
+    "description": "저희 링크로 VPN Plus를 처음 24개월 동안 $59.76에 이용할 수 있습니다. Proton의 다른 페이지와의 차이, 선결제 금액, 안내된 갱신 요금을 확인하세요.",
+    "metaDescription": "저희 링크로 VPN Plus는 처음 24개월에 $59.76입니다. Proton 특가 페이지의 $71.76과 비교하고 안내된 갱신 요금을 확인하세요.",
     "publishedAt": "2026년 11월 17일",
     "publishedAtISO": "2026-11-17",
     "updatedAt": "2026-11-17",
@@ -251625,6 +251675,16 @@ export const reviewsData: unknown[] = [
               "$59.76"
             ],
             [
+              "2년 플랜",
+              "Proton 특가 페이지",
+              "$71.76"
+            ],
+            [
+              "2년 플랜",
+              "Proton 요금 페이지",
+              "$83.76"
+            ],
+            [
               "1년 블랙프라이데이 플랜 + 갱신 1회",
               "공개 블랙프라이데이 페이지",
               "$119.76 ($35.88 + $83.88)"
@@ -251719,8 +251779,8 @@ export const reviewsData: unknown[] = [
     "slug": "proton-black-friday-ja",
     "locale": "ja",
     "translationKey": "proton-black-friday",
-    "title": "Proton ブラックフライデー2026：料金、更新時の価格、1年プランと2年プランのどちらを選ぶか",
-    "seoTitle": "Proton ブラックフライデー2026：料金と更新時の価格",
+    "title": "Proton ブラックフライデー2026：2年のVPN Plusプランが安くなる場所",
+    "seoTitle": "Proton ブラックフライデー2026：VPN Plus 2年が$59.76",
     "type": "ブラックフライデーガイド",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -251731,8 +251791,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Protonのブラックフライデープランを解説します。最初に支払う金額、更新時の価格、割引の基準、そして2年プランのほうが安くなる場合を確認できます。",
-    "metaDescription": "Protonのブラックフライデー：パートナーページでは2年のVPN Plusが75%オフ。最初の請求額、更新時の価格、1年と2年の比較をまとめました。",
+    "description": "当サイトのリンク経由でVPN Plusが最初の24か月$59.76になります。Protonの他のページとの差額、最初に支払う金額、案内されている更新料を確認できます。",
+    "metaDescription": "当サイトのリンク経由ならVPN Plusは最初の24か月$59.76。Protonのオファーページの$71.76と比べ、案内されている更新料も確認しましょう。",
     "publishedAt": "2026年11月17日",
     "publishedAtISO": "2026-11-17",
     "updatedAt": "2026-11-17",
@@ -251880,6 +251940,16 @@ export const reviewsData: unknown[] = [
               "$59.76"
             ],
             [
+              "2年プラン",
+              "Protonのオファーページ",
+              "$71.76"
+            ],
+            [
+              "2年プラン",
+              "Protonの料金ページ",
+              "$83.76"
+            ],
+            [
               "1年のブラックフライデープラン＋更新1回",
               "公開のブラックフライデーページ",
               "$119.76（$35.88＋$83.88）"
@@ -251974,8 +252044,8 @@ export const reviewsData: unknown[] = [
     "slug": "proton-black-friday-zh-hant",
     "locale": "zh-hant",
     "translationKey": "proton-black-friday",
-    "title": "Proton 2026 黑色星期五：價格、續訂費用，以及該選 1 年方案還是 2 年方案",
-    "seoTitle": "Proton 2026 黑色星期五：價格與續訂費用",
+    "title": "Proton 2026 黑色星期五：2 年 VPN Plus 方案在哪裡更便宜",
+    "seoTitle": "Proton 2026 黑色星期五：2 年 VPN Plus 59.76 美元",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -251986,8 +252056,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Proton 黑色星期五方案說明：先付多少、方案續訂價是多少、折扣以什麼為基準，以及 2 年方案何時更划算。",
-    "metaDescription": "Proton 黑色星期五：合作夥伴頁面的 2 年 VPN Plus 方案省 75%。看清楚一次扣款金額、續訂價格，以及 1 年與 2 年方案的算法。",
+    "description": "透過我們的連結，VPN Plus 前 24 個月 59.76 美元，並說明與 Proton 其他頁面的差異、一次扣款金額，以及目前公布的續訂價。",
+    "metaDescription": "透過我們的連結，VPN Plus 前 24 個月 59.76 美元。對照 Proton 優惠頁面的 71.76 美元，並確認目前公布的續訂價。",
     "publishedAt": "2026年11月17日",
     "publishedAtISO": "2026-11-17",
     "updatedAt": "2026-11-17",
@@ -252135,6 +252205,16 @@ export const reviewsData: unknown[] = [
               "59.76 美元"
             ],
             [
+              "2 年方案",
+              "Proton 優惠頁面",
+              "71.76 美元"
+            ],
+            [
+              "2 年方案",
+              "Proton 價格頁面",
+              "83.76 美元"
+            ],
+            [
               "1 年黑色星期五方案 + 續訂 1 次",
               "公開的黑色星期五頁面",
               "119.76 美元（35.88 美元 + 83.88 美元）"
@@ -252229,8 +252309,8 @@ export const reviewsData: unknown[] = [
     "slug": "proton-black-friday-zh-hans",
     "locale": "zh-hans",
     "translationKey": "proton-black-friday",
-    "title": "Proton 2026 黑色星期五：价格、续订费用，以及该选 1 年套餐还是 2 年套餐",
-    "seoTitle": "Proton 2026 黑色星期五：价格与续订费用",
+    "title": "Proton 2026 黑色星期五：2 年 VPN Plus 套餐在哪里更便宜",
+    "seoTitle": "Proton 2026 黑色星期五：2 年 VPN Plus 59.76 美元",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -252241,8 +252321,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Proton 黑色星期五套餐详解：先付多少、套餐续订价是多少、折扣以什么为基准，以及 2 年套餐什么时候更划算。",
-    "metaDescription": "Proton 黑色星期五：合作伙伴页面的 2 年 VPN Plus 套餐省 75%。看清一次性扣款金额、续订价格，以及 1 年与 2 年套餐的算法。",
+    "description": "通过我们的链接，VPN Plus 前 24 个月 59.76 美元，并说明与 Proton 其他页面的差异、一次性扣款金额，以及目前公布的续订价。",
+    "metaDescription": "通过我们的链接，VPN Plus 前 24 个月 59.76 美元。对照 Proton 优惠页面的 71.76 美元，并确认目前公布的续订价。",
     "publishedAt": "2026年11月17日",
     "publishedAtISO": "2026-11-17",
     "updatedAt": "2026-11-17",
@@ -252388,6 +252468,16 @@ export const reviewsData: unknown[] = [
               "2 年套餐",
               "合作伙伴页面（我们的链接打开的页面）",
               "59.76 美元"
+            ],
+            [
+              "2 年套餐",
+              "Proton 优惠页面",
+              "71.76 美元"
+            ],
+            [
+              "2 年套餐",
+              "Proton 价格页面",
+              "83.76 美元"
             ],
             [
               "1 年黑色星期五套餐 + 续订 1 次",
