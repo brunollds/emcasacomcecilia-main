@@ -4165,6 +4165,147 @@ const STORE_COUPONS: Coupon[] = [
   },
   {
     offerMode: 'discount-code',
+    slug: 'rituaria',
+    cartPrint: { src: '/images/reviews/rituaria/cupom-rituaria-checkout-com-cupom.webp', alt: 'Resumo do checkout da Rituária com o cupom EMCASA no campo Tem um cupom?, o aviso Desconto de menos R$ 11,98, a linha Descontos e o total de R$ 107,82', aspectRatio: 0.894 },
+    brand: 'Rituária',
+    officialUrl: 'https://www.rituaria.com.br/',
+    // A parceria não tem link próprio (Bruno, 17/11/2026): o botão leva ao site oficial.
+    offerUrl: 'https://www.rituaria.com.br/',
+    brandIcon: 'R',
+    brandLogo: '/images/about/partners/rituaria.png',
+    brandLogoAlt: 'Marca Rituária',
+    bubble: { src: '/images/logos/bolinhas/rituaria.png', background: '#8E7396' },
+    brandWatermark: '/images/logos/watermarks/rituaria.webp',
+    brandColor: '#8E7396',
+    code: 'EMCASA',
+    codeFieldLabel: 'Tem um cupom?',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Suplementos, superfoods e skincare: magnésio, complexo B, colágeno, prebióticos e maca peruana',
+    hubCategory: 'saude',
+    hubCard: 'reduzido',
+    shortDescription: 'todo o site da Rituária, inclusive os produtos em promoção',
+    longDescription:
+      'O cupom Rituária EMCASA dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste, os 10% entraram também em fórmulas que já estavam com desconto. Vale em todas as formas de pagamento.',
+    metaTitle: 'Cupom Rituária: 10% OFF com EMCASA',
+    metaTitleMonth: true,
+    metaDescription:
+      'Cupom Rituária: EMCASA dá 10% OFF em suplementos e skincare, para cliente novo ou antigo, e soma com as promoções do site. Testado no checkout.',
+    eligibleCategories: 'Produtos do site oficial da Rituária, inclusive os que estão em promoção',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Pode ser usado por clientes novos e antigos',
+    shipping:
+      'Frete grátis acima de R$ 199 em SP, ES, RJ e MG, de R$ 229 no Sul e no Centro-Oeste, de R$ 279 no Nordeste e de R$ 349 no Norte, segundo a central de ajuda da loja; abaixo disso, frete e prazo saem no checkout pelo CEP',
+    combinable:
+      'Soma com as promoções vigentes do site e vale com todas as formas de pagamento; pelos termos da loja, não junta com o cashback',
+    stacking: [
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, os 10% entraram no 4Mag e na Fórmula Mov Nutri em promoção' },
+      { benefit: 'pix', stacks: 'sim', condition: 'No Pix, a loja dá 5% de desconto, que soma com o código' },
+      { benefit: 'cashback', stacks: 'nao', condition: 'O cashback de 10% chega como cupom para a compra seguinte, e os termos da loja dizem que desconto e cashback não são cumulativos: um benefício por compra' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 199 no Sudeste, de R$ 229 no Sul e no Centro-Oeste, de R$ 279 no Nordeste e de R$ 349 no Norte' },
+    ],
+    paymentPerks: ['Até 3x sem juros no cartão de crédito'],
+    lastVerified: '2026-11-17',
+    testedAt: '2026-11-17',
+    testNote:
+      'Num carrinho com a Capilar Nutri - 30 dias pelo preço cheio de R$ 49,90 e a Fórmula Mov Nutri - 30 dias em promoção, de R$ 149,00 por R$ 69,90, o EMCASA tirou R$ 11,98 dos R$ 119,80 e o total caiu para R$ 107,82: os 10% entraram também sobre a fórmula em promoção. Em outro carrinho do mesmo dia, de R$ 154,70, com a Fórmula 4Mag (Magnésio) - 30 dias em promoção, de R$ 99,90 por R$ 59,90, a Capilar Nutri e a Fórmula Complexo B - 60 dias, o desconto foi de R$ 15,47, e o total ficou em R$ 139,23.',
+    codeInstructions: [
+      'Copie o código EMCASA no card acima.',
+      'Acesse o site oficial da Rituária pelo botão indicado, coloque os produtos no carrinho e siga para o checkout.',
+      'No checkout da própria loja, em seguro.rituaria.com.br, digite o código no campo Tem um cupom?, no resumo, e clique em Adicionar.',
+      'Confira o aviso Desconto em verde e a linha Descontos no resumo antes de pagar.',
+    ],
+    aboutBrand:
+      'A Rituária é uma marca brasileira de suplementos, superfoods e dermocosméticos, criada em 2021, com a proposta de cuidado de dentro para fora: fórmulas de magnésio, complexo B, colágeno e prebióticos, maca peruana e produtos de skincare, vendidos no site oficial. O cupom EMCASA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, com qualquer forma de pagamento e também sobre os produtos em promoção.',
+    faqs: [
+      {
+        question: 'Quanto de desconto o cupom EMCASA dá na Rituária?',
+        answer:
+          '10% OFF nos produtos do site oficial. No nosso teste, o cupom tirou R$ 11,98 de um carrinho de R$ 119,80, e o resumo do checkout mostrou o valor na linha Descontos.',
+      },
+      {
+        question: 'Existe cupom Rituária de 20%?',
+        answer:
+          'Sites de cupom anunciam códigos com percentuais maiores, que nós não testamos. O cupom da Cecília é o EMCASA: 10% OFF, aceito no checkout no nosso teste mais recente, inclusive sobre os produtos em promoção.',
+      },
+      {
+        question: 'O cupom EMCASA soma com o desconto do Pix na Rituária?',
+        answer:
+          'Sim. O cupom vale com todas as formas de pagamento e, no Pix, a Rituária mostra no checkout um desconto de 5%. No cartão de crédito, a loja parcela em até 3x sem juros.',
+      },
+      {
+        question: 'O cupom Rituária vale na primeira compra?',
+        answer: 'Sim. O EMCASA vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'Qual cupom Rituária vale para quem já é cliente?',
+        answer: 'O EMCASA. Ele dá 10% no site oficial para quem compra pela primeira vez e para quem já comprou.',
+      },
+      {
+        question: 'O EMCASA é cupom de influenciadora da Rituária?',
+        answer:
+          'Sim. EMCASA é o cupom do Em Casa com Cecília na Rituária e dá 10% OFF no site oficial para clientes novos e antigos.',
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No nosso teste, a Fórmula 4Mag (Magnésio) - 30 dias estava em promoção, de R$ 99,90 por R$ 59,90, e o cupom tirou os 10% dela também.',
+      },
+      {
+        question: 'O cupom EMCASA soma com o cashback da Rituária?',
+        answer:
+          'Não. O cashback de 10% da Rituária chega como cupom para a compra seguinte, e os termos da loja dizem que descontos e cashback não são cumulativos: vale um benefício por compra.',
+      },
+      {
+        question: 'O cupom EMCASA está funcionando hoje?',
+        answer:
+          'Sim. No teste de carrinho mais recente, o EMCASA foi aceito. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
+      },
+      {
+        question: 'Onde coloco o cupom na Rituária?',
+        answer:
+          'No checkout do site oficial, em seguro.rituaria.com.br, que abre quando você segue do carrinho: digite EMCASA no campo Tem um cupom?, no resumo, e clique em Adicionar. Aparece o aviso Desconto em verde, e o resumo passa a mostrar a linha Descontos.',
+      },
+      {
+        question: 'Tem cupom Rituária na Black Friday?',
+        answer:
+          'Tem. O cupom Rituária EMCASA dá 10% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+      },
+      {
+        question: 'O cupom Rituária vale na Black Friday?',
+        answer:
+          'Vale. No nosso teste, em novembro, os 10% entraram em fórmulas que já estavam em promoção. Confira a linha Descontos no resumo antes de pagar.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'O cupom não mexe no frete, mas a loja dá frete grátis acima de R$ 199 em SP, ES, RJ e MG, de R$ 229 no Sul e no Centro-Oeste, de R$ 279 no Nordeste e de R$ 349 no Norte. Abaixo disso, o frete é calculado pelo peso e pelo volume e aparece no checkout depois do CEP. A loja envia pelos Correios, com PAC e SEDEX.',
+      },
+      {
+        question: 'Como funciona a troca na Rituária?',
+        answer:
+          'Pela central de ajuda da loja, a desistência pode ser pedida em até 7 dias corridos depois do recebimento, com o produto completo e sem uso, e a devolução é gratuita, com reembolso integral, frete incluído. Produto com defeito, avaria ou errado pode ser informado em até 30 dias. A loja não troca por insatisfação depois do uso. O pedido é aberto no portal de trocas da Rituária.',
+      },
+      {
+        question: 'O que fazer se o cupom EMCASA não funcionar?',
+        answer:
+          'Confira se o código foi digitado no campo Tem um cupom?, no resumo do checkout, sem espaços, e se o aviso Desconto apareceu em verde. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'no site oficial',
+      note: 'Soma com os preços em promoção do site e com os 5% do Pix',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
     slug: 'hostinger',
     cartPrint: { article: 'cupom-hostinger-indicacao', src: '/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom.webp', alt: 'Resumo do pedido no carrinho da Hostinger com a linha Cupom aplicado e a etiqueta SONAR20', aspectRatio: 1.096 },
     brand: 'Hostinger',
