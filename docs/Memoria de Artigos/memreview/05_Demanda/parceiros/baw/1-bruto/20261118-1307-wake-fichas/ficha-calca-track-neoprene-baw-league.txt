@@ -1,0 +1,50 @@
+url: https://www.bawclothing.com.br/produto/calca-track-neoprene-baw-league-153730
+lido_em: 2026-11-18T13:09:32-03:00
+html_origem: ficha-calca-track-neoprene-baw-league.html (sha256 bcbe59b109fb3c75e5cf3352fb1d81dba8d812ce33567a0850e79f1e7d691a46)
+nome: CALÇA TRACK NEOPRENE BAW LEAGUE
+sku: 04.03.0217040P
+trilha: Página inicial > Roupas > Calças > CALÇA TRACK NEOPRENE BAW LEAGUE
+preco: R$ 209,00
+preco_de: R$ 349,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+CALÇA TRACK NEOPRENE BAW LEAGUE PRETO
+Calça Track BAW da coleção League, com pegada esportiva inspirada nas camisas de futebol clássicas e traduzida pra estética streetwear. Confeccionada em Neoprene com recortes orgânicos que estruturam a peça em painéis preto e cinza, criando a silhueta característica do design panel. O acabamento em vivo neon percorre os contornos dos recortes e dá o ponto de cor que define o modelo, enquanto o elástico na cintura e na barra garante caimento ajustado e conforto.
+O destaque está nas aplicações laterais: o brasão emborrachado dourado posicionado na altura da coxa e o lettering metalizado baw CLOTHING descendo pela perna, criando o efeito de calça de jogo. Uma peça de coleção que mistura referência futebolística, atitude streetwear e identidade visual marcante — par perfeito do Sweatshirt Panel Baw League. Feita e pensada no Brasil.
+A Calça Track Neoprene Baw League combina com quê?
+Combina com camiseta jersey, camiseta oversized, moletom ou jaqueta em tons sólidos — preto, off-white, cinza ou denim. O vivo neon nas laterais pede looks de base neutra pra deixar o detalhe em evidência.
+O Neoprene da calça é confortável?
+Sim — o Neoprene oferece toque diferenciado, estrutura leve e caimento próprio que valoriza os recortes orgânicos. O elástico na cintura e na barra garante caimento ajustado e movimento livre.
+Tabela de medidas:
+PP - Boca da Perna: 13,5cm/ Cintura: 72cm/ Comprimento Lateral: 100cm/ Entrepernas: 69cm/ Gancho Dianteiro: 36,5cm/ Gancho Traseiro: 48cm/ Quadril: 48cm.
+P - Boca da Perna: 14,5cm/ Cintura: 76cm/ Comprimento Lateral: 102cm/ Entrepernas: 70cm/ Gancho Dianteiro: 37,5cm/ Gancho Traseiro: 49cm/ Quadril: 52cm.
+M - Boca da Perna: 15,5cm/ Cintura: 80cm/ Comprimento Lateral: 104cm/ Entrepernas: 71cm/ Gancho Dianteiro: 38,5cm/ Gancho Traseiro: 50cm/ Quadril: 56cm.
+G - Boca da Perna: 16,5cm/ Cintura: 84cm/ Comprimento Lateral: 106cm/ Entrepernas: 72cm/ Gancho Dianteiro: 39,5cm/ Gancho Traseiro: 51cm/ Quadril: 60cm.
+GG - Boca da Perna: 17,5cm/ Cintura: 88cm/ Comprimento Lateral: 108cm/ Entrepernas: 73cm/ Gancho Dianteiro: 40,5cm/ Gancho Traseiro: 52cm/ Quadril: 64cm.
+GGG - Boca da Perna: 18,5cm/ Cintura: 92cm/ Comprimento Lateral: 110cm/ Entrepernas: 74cm/ Gancho Dianteiro: 41,5cm/ Gancho Traseiro: 53cm/ Quadril: 68cm.
+4G - Boca da Perna: 19,5cm/ Cintura: 96cm/ Comprimento Lateral: 111cm/ Entrepernas: 75cm/ Gancho Dianteiro: 42,5cm/ Gancho Traseiro: 54cm/ Quadril: 72cm.
+CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+Este anúncio se refere somente à calça. Os demais itens contidos na imagem são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+CAL&Ccedil;A TRACK NEOPRENE BAW LEAGUE PRETO
+Cal&ccedil;a Track BAW da cole&ccedil;&atilde;o League, com pegada esportiva inspirada nas camisas de futebol cl&aacute;ssicas e traduzida pra est&eacute;tica streetwear. Confeccionada em Neoprene com recortes org&acirc;nicos que estruturam a pe&ccedil;a em pain&eacute;is preto e cinza, criando a silhueta caracter&iacute;stica do design panel. O acabamento em vivo neon percorre os contornos dos recortes e d&aacute; o ponto de cor que define o modelo, enquanto o el&aacute;stico na cintura e na barra garante caimento ajustado e conforto.
+O destaque est&aacute; nas aplica&ccedil;&otilde;es laterais: o bras&atilde;o emborrachado dourado posicionado na altura da coxa e o lettering metalizado baw CLOTHING descendo pela perna, criando o efeito de cal&ccedil;a de jogo. Uma pe&ccedil;a de cole&ccedil;&atilde;o que mistura refer&ecirc;ncia futebol&iacute;stica, atitude streetwear e identidade visual marcante &mdash; par perfeito do Sweatshirt Panel Baw League. Feita e pensada no Brasil.
+A Cal&ccedil;a Track Neoprene Baw League combina com qu&ecirc;?
+Combina com camiseta jersey, camiseta oversized, moletom ou jaqueta em tons s&oacute;lidos &mdash; preto, off-white, cinza ou denim. O vivo neon nas laterais pede looks de base neutra pra deixar o detalhe em evid&ecirc;ncia.
+O Neoprene da cal&ccedil;a &eacute; confort&aacute;vel?
+Sim &mdash; o Neoprene oferece toque diferenciado, estrutura leve e caimento pr&oacute;prio que valoriza os recortes org&acirc;nicos. O el&aacute;stico na cintura e na barra garante caimento ajustado e movimento livre.
+Tabela de medidas:
+PP - Boca da Perna: 13,5cm/ Cintura: 72cm/ Comprimento Lateral: 100cm/ Entrepernas: 69cm/ Gancho Dianteiro: 36,5cm/ Gancho Traseiro: 48cm/ Quadril: 48cm.
+P - Boca da Perna: 14,5cm/ Cintura: 76cm/ Comprimento Lateral: 102cm/ Entrepernas: 70cm/ Gancho Dianteiro: 37,5cm/ Gancho Traseiro: 49cm/ Quadril: 52cm.
+M - Boca da Perna: 15,5cm/ Cintura: 80cm/ Comprimento Lateral: 104cm/ Entrepernas: 71cm/ Gancho Dianteiro: 38,5cm/ Gancho Traseiro: 50cm/ Quadril: 56cm.
+G - Boca da Perna: 16,5cm/ Cintura: 84cm/ Comprimento Lateral: 106cm/ Entrepernas: 72cm/ Gancho Dianteiro: 39,5cm/ Gancho Traseiro: 51cm/ Quadril: 60cm.
+GG - Boca da Perna: 17,5cm/ Cintura: 88cm/ Comprimento Lateral: 108cm/ Entrepernas: 73cm/ Gancho Dianteiro: 40,5cm/ Gancho Traseiro: 52cm/ Quadril: 64cm.
+GGG - Boca da Perna: 18,5cm/ Cintura: 92cm/ Comprimento Lateral: 110cm/ Entrepernas: 74cm/ Gancho Dianteiro: 41,5cm/ Gancho Traseiro: 53cm/ Quadril: 68cm.
+4G - Boca da Perna: 19,5cm/ Cintura: 96cm/ Comprimento Lateral: 111cm/ Entrepernas: 75cm/ Gancho Dianteiro: 42,5cm/ Gancho Traseiro: 54cm/ Quadril: 72cm.
+CORES APROXIMADAS. Devido &agrave;s diferentes telas existentes, as cores podem variar de tom e vivacidade.
+Este an&uacute;ncio se refere somente &agrave; cal&ccedil;a. Os demais itens contidos na imagem s&atilde;o vendidos separadamente.
+Pe&ccedil;a da BAW Clothing criada e produzida no Brasil.

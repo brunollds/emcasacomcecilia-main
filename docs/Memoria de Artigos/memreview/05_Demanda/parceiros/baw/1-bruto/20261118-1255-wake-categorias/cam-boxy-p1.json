@@ -1,0 +1,259 @@
+{
+ "arquivo_origem": "cam-boxy-p1.html",
+ "sha256_origem": "5b89b2fd20fd7690a7580963f6d903cbaab301865d3de4fcf7b7104f658e7f24",
+ "titulo": "Boxy",
+ "title_pagina": "Camisetas boxy: estilo urbano e atitude streetwear",
+ "contagem_pagina": 11,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/roupas/camisetas/boxy",
+  "numberOfItems": "11",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-hell-heart-chillibaw-154000/364839-1.jpg?w=556&h=833&v=202610081227",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-hell-heart-chillibaw-154000",
+    "name": "CAMISETA OVERSIZED HELL HEART CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-boxy-not-a-phase-153775/363604-1.jpg?w=556&h=833&v=202607101541",
+    "url": "https://www.bawclothing.com.br/camiseta-boxy-not-a-phase-153775",
+    "name": "CAMISETA BOXY NOT A PHASE",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-boxy-footbaw-retro-153733/363352-1.jpg?w=556&h=833&v=202606111230",
+    "url": "https://www.bawclothing.com.br/camiseta-boxy-footbaw-retro-153733",
+    "name": "CAMISETA BOXY FOOTBAW RETRO",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-boxy-footbaw-dream-team-153732/363348-1.jpg?w=556&h=833&v=202606111233",
+    "url": "https://www.bawclothing.com.br/camiseta-boxy-footbaw-dream-team-153732",
+    "name": "CAMISETA BOXY FOOTBAW DREAM TEAM",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-boxy-baw-dogs-scratch-153711/363243-1.jpg?w=556&h=833&v=202607011050",
+    "url": "https://www.bawclothing.com.br/camiseta-boxy-baw-dogs-scratch-153711",
+    "name": "CAMISETA BOXY BAW DOGS SCRATCH",
+    "offers": {
+     "@type": "Offer",
+     "price": "159.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-boxy-baw-y2k-151851/363042-1.jpg?w=556&h=833&v=202604231721",
+    "url": "https://www.bawclothing.com.br/camiseta-boxy-baw-y2k-151851",
+    "name": "CAMISETA BOXY BAW Y2K",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-boxy-baw-flare-151880/363030-1.jpg?w=556&h=833&v=202604231700",
+    "url": "https://www.bawclothing.com.br/camiseta-boxy-baw-flare-151880",
+    "name": "CAMISETA BOXY BAW FLARE",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-boxy-baw-subscript-151881/362828-1.jpg?w=556&h=833&v=202603271743",
+    "url": "https://www.bawclothing.com.br/camiseta-boxy-baw-subscript-151881",
+    "name": "CAMISETA BOXY BAW SUBSCRIPT",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-boxy-baw-subscript-151883/362793-1.jpg?w=556&h=833&v=202603271721",
+    "url": "https://www.bawclothing.com.br/camiseta-boxy-baw-subscript-151883",
+    "name": "CAMISETA BOXY BAW SUBSCRIPT",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-boxy-not-a-phase-151826/362103.jpg?w=556&h=833&v=202601271709",
+    "url": "https://www.bawclothing.com.br/camiseta-boxy-not-a-phase-151826",
+    "name": "CAMISETA BOXY NOT A PHASE",
+    "offers": {
+     "@type": "Offer",
+     "price": "109.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-boxy-a-c-a-b-151982/362068.jpg?w=556&h=833&v=202601271708",
+    "url": "https://www.bawclothing.com.br/camiseta-boxy-a-c-a-b-151982",
+    "name": "CAMISETA BOXY A.C.A.B",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "154000",
+   "href": "/camiseta-oversized-hell-heart-chillibaw-154000",
+   "nome": "CAMISETA OVERSIZED HELL HEART CHILLIBAW",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153775",
+   "href": "/camiseta-boxy-not-a-phase-153775",
+   "nome": "CAMISETA BOXY NOT A PHASE",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "47%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153733",
+   "href": "/camiseta-boxy-footbaw-retro-153733",
+   "nome": "CAMISETA BOXY FOOTBAW RETRO",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "48%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153732",
+   "href": "/camiseta-boxy-footbaw-dream-team-153732",
+   "nome": "CAMISETA BOXY FOOTBAW DREAM TEAM",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "48%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153711",
+   "href": "/camiseta-boxy-baw-dogs-scratch-153711",
+   "nome": "CAMISETA BOXY BAW DOGS SCRATCH",
+   "preco": "R$ 159,00",
+   "preco_de": "R$ 289,00",
+   "selo_off": "45%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151851",
+   "href": "/camiseta-boxy-baw-y2k-151851",
+   "nome": "CAMISETA BOXY BAW Y2K",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151880",
+   "href": "/camiseta-boxy-baw-flare-151880",
+   "nome": "CAMISETA BOXY BAW FLARE",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "47%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151881",
+   "href": "/camiseta-boxy-baw-subscript-151881",
+   "nome": "CAMISETA BOXY BAW SUBSCRIPT",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 139,00",
+   "selo_off": "36%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151883",
+   "href": "/camiseta-boxy-baw-subscript-151883",
+   "nome": "CAMISETA BOXY BAW SUBSCRIPT",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 139,00",
+   "selo_off": "36%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151826",
+   "href": "/camiseta-boxy-not-a-phase-151826",
+   "nome": "CAMISETA BOXY NOT A PHASE",
+   "preco": "R$ 109,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "61%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151982",
+   "href": "/camiseta-boxy-a-c-a-b-151982",
+   "nome": "CAMISETA BOXY A.C.A.B",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 259,00",
+   "selo_off": "42%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+url: https://www.bawclothing.com.br/produto/bermuda-simple-baw-150941
+lido_em: 2026-11-18T13:11:15-03:00
+html_origem: ficha-bermuda-simple-baw.html (sha256 9997b4b04bbe71e1c2074c60652e2123a02aaab1aea2c3e3e7774f8dc4f08d42)
+nome: BERMUDA SIMPLE BAW
+sku: 009527104036
+trilha: Página inicial > Roupas > Shorts > BERMUDA SIMPLE BAW
+preco: R$ 239,00
+preco_de: R$ 309,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+BERMUDA SIMPLE BAW PRETO
+Shorts de algodão com botão para ajuste na cintura e bolsos.
+34 - Comprimento lateral: 44cm/ Cintura: 72cm/ Quadril: 48cm/ Gancho dianteiro: 28cm/ Gancho traseiro: 38cm.
+36 - Comprimento lateral: 46cm/ Cintura: 76cm/ Quadril: 50cm/ Gancho dianteiro: 29cm/ Gancho traseiro: 38cm.
+38 - Comprimento lateral: 48cm/ Cintura: 80cm/ Quadril: 52cm/ Gancho dianteiro: 30cm/ Gancho traseiro: 40cm.
+40 - Comprimento lateral: 50cm/ Cintura: 84cm/ Quadril: 54cm/ Gancho dianteiro: 31cm/ Gancho traseiro: 41cm.
+42 - Comprimento lateral: 52cm/ Cintura: 88cm/ Quadril: 56cm/ Gancho dianteiro: 32cm/ Gancho traseiro: 42cm.
+44 - Comprimento lateral: 54cm/ Cintura: 92cm/ Quadril: 58cm/ Gancho dianteiro: 33cm/ Gancho traseiro: 43cm.
+46 - Comprimento lateral: 56cm/ Cintura: 96cm/ Quadril: 60cm/ Gancho dianteiro: 34cm/ Gancho traseiro: 44cm.
+48 - Comprimento lateral: 58cm/ Cintura: 100cm/ Quadril: 62cm/ Gancho dianteiro: 35cm/ Gancho traseiro: 45cm.
+50 - Comprimento lateral: 60cm/ Cintura: 104cm/ Quadril: 64cm/ Gancho dianteiro: 36cm/ Gancho traseiro: 46cm.
+52 - Comprimento lateral: 62cm/ Cintura: 108cm/ Quadril: 66cm/ Gancho dianteiro: 37cm/ Gancho traseiro: 47cm.
+Composição: 97% Algodão e 3% Elastano.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a bermuda. Os demais itens contidos na imagem, são vendidos separadamente.
+Todas as peças da BAW Clothing são criadas e produzidas no Brasil.
+
+--- description do JSON-LD Product ---
+BERMUDA SIMPLE BAW PRETO
+Shorts de algod&atilde;o com bot&atilde;o para ajuste na cintura e bolsos.
+34 - Comprimento lateral: 44cm/ Cintura: 72cm/ Quadril: 48cm/ Gancho dianteiro: 28cm/ Gancho traseiro: 38cm.
+36 - Comprimento lateral: 46cm/ Cintura: 76cm/ Quadril: 50cm/ Gancho dianteiro: 29cm/ Gancho traseiro: 38cm.
+38 - Comprimento lateral: 48cm/ Cintura: 80cm/ Quadril: 52cm/ Gancho dianteiro: 30cm/ Gancho traseiro: 40cm.
+40 - Comprimento lateral: 50cm/ Cintura: 84cm/ Quadril: 54cm/ Gancho dianteiro: 31cm/ Gancho traseiro: 41cm.
+42 - Comprimento lateral: 52cm/ Cintura: 88cm/ Quadril: 56cm/ Gancho dianteiro: 32cm/ Gancho traseiro: 42cm.
+44 - Comprimento lateral: 54cm/ Cintura: 92cm/ Quadril: 58cm/ Gancho dianteiro: 33cm/ Gancho traseiro: 43cm.
+46 - Comprimento lateral: 56cm/ Cintura: 96cm/ Quadril: 60cm/ Gancho dianteiro: 34cm/ Gancho traseiro: 44cm.
+48 - Comprimento lateral: 58cm/ Cintura: 100cm/ Quadril: 62cm/ Gancho dianteiro: 35cm/ Gancho traseiro: 45cm.
+50 - Comprimento lateral: 60cm/ Cintura: 104cm/ Quadril: 64cm/ Gancho dianteiro: 36cm/ Gancho traseiro: 46cm.
+52 - Comprimento lateral: 62cm/ Cintura: 108cm/ Quadril: 66cm/ Gancho dianteiro: 37cm/ Gancho traseiro: 47cm.
+Composi&ccedil;&atilde;o: 97% Algod&atilde;o e 3% Elastano.
+*MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este an&uacute;ncio se refere somente a bermuda. Os demais itens contidos na imagem, s&atilde;o vendidos separadamente.
+Todas as pe&ccedil;as da BAW Clothing s&atilde;o criadas e produzidas no Brasil.

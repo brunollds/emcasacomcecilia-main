@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/camiseta-br-regular-locally-grown-154257
+lido_em: 2026-11-18T13:07:00-03:00
+html_origem: ficha-camiseta-br-regular-locally-grown.html (sha256 564e7c10c8cb388e3f3a087ab332c455632d3aca59082562d282182742152c2b)
+nome: CAMISETA BR REGULAR LOCALLY GROWN
+sku: 12.02.4203564G
+trilha: Página inicial > Roupas > Camisetas > Regular > CAMISETA BR REGULAR LOCALLY GROWN
+preco: R$ 79,00
+preco_de: R$ 89,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+CAMISETA BR REGULAR LOCALLY GROWN
+CAMISETA BR REGULAR LOCALLY GROWN

@@ -1,0 +1,413 @@
+{
+ "arquivo_origem": "cam-baby-tee-p1.html",
+ "sha256_origem": "362f980452c2241ab2d346dd3cab0776774a3c320ac5339c324efdfa54407b52",
+ "titulo": "Baby Tee",
+ "title_pagina": "Baby Look: estilo urbano e atitude streetwear | Baw",
+ "contagem_pagina": 18,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/roupas/camisetas/baby-tee",
+  "numberOfItems": "18",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-baw-colorways-154060/365197-1.jpg?w=556&h=833&v=202610201433",
+    "url": "https://www.bawclothing.com.br/baby-tee-baw-colorways-154060",
+    "name": "BABY TEE BAW COLORWAYS",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-baw-colorways-154061/365180-1.jpg?w=556&h=833&v=202610201430",
+    "url": "https://www.bawclothing.com.br/baby-tee-baw-colorways-154061",
+    "name": "BABY TEE BAW COLORWAYS",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-baw-colorways-154063/365187-1.jpg?w=556&h=833&v=202610201436",
+    "url": "https://www.bawclothing.com.br/baby-tee-baw-colorways-154063",
+    "name": "BABY TEE BAW COLORWAYS",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-baw-colorways-154059/365178-1.jpg?w=556&h=833&v=202610201430",
+    "url": "https://www.bawclothing.com.br/baby-tee-baw-colorways-154059",
+    "name": "BABY TEE BAW COLORWAYS",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-baw-colorways-154062/365188-1.jpg?w=556&h=833&v=202610201432",
+    "url": "https://www.bawclothing.com.br/baby-tee-baw-colorways-154062",
+    "name": "BABY TEE BAW COLORWAYS",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-look-rib-black-n-white-154058/365169-1.jpg?w=556&h=833&v=202610201431",
+    "url": "https://www.bawclothing.com.br/baby-look-rib-black-n-white-154058",
+    "name": "BABY LOOK RIB BLACK N WHITE",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-look-rib-black-n-white-154057/365167-1.jpg?w=556&h=833&v=202610201430",
+    "url": "https://www.bawclothing.com.br/baby-look-rib-black-n-white-154057",
+    "name": "BABY LOOK RIB BLACK N WHITE",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-bob-marley-three-little-birds-153914/364453-1.jpg?w=556&h=833&v=202609101046",
+    "url": "https://www.bawclothing.com.br/baby-tee-bob-marley-three-little-birds-153914",
+    "name": "BABY TEE BOB MARLEY THREE LITTLE BIRDS",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-bob-marley-signature-one-love-153900/364380-1.jpg?w=556&h=833&v=202609101048",
+    "url": "https://www.bawclothing.com.br/baby-tee-bob-marley-signature-one-love-153900",
+    "name": "BABY TEE BOB MARLEY SIGNATURE ONE LOVE",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-hogwarts-hp-x-baw-153813/363847-1.jpg?w=556&h=833&v=202608181731",
+    "url": "https://www.bawclothing.com.br/baby-tee-hogwarts-hp-x-baw-153813",
+    "name": "BABY TEE HOGWARTS HP X BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-footbaw-soccer-dogs-153725/363325-1.jpg?w=556&h=833&v=202606111235",
+    "url": "https://www.bawclothing.com.br/baby-tee-footbaw-soccer-dogs-153725",
+    "name": "BABY TEE FOOTBAW SOCCER DOGS",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-footbaw-brasil-flag-153724/363322-1.jpg?w=556&h=833&v=202606111238",
+    "url": "https://www.bawclothing.com.br/baby-tee-footbaw-brasil-flag-153724",
+    "name": "BABY TEE FOOTBAW BRASIL FLAG",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-patch-logo-153449/361412-1.jpg?w=556&h=833&v=202605181634",
+    "url": "https://www.bawclothing.com.br/baby-tee-patch-logo-153449",
+    "name": "BABY TEE PATCH LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-patch-logo-153452/361391-1.jpg?w=556&h=833&v=202605181634",
+    "url": "https://www.bawclothing.com.br/baby-tee-patch-logo-153452",
+    "name": "BABY TEE PATCH LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-fire-heart-151369/346653.jpg?w=556&h=833&v=202510281036",
+    "url": "https://www.bawclothing.com.br/baby-tee-fire-heart-151369",
+    "name": "BABY TEE FIRE HEART",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-look-fit-garden-classic-150706/339704.jpg?w=556&h=833&v=202507171808",
+    "url": "https://www.bawclothing.com.br/baby-look-fit-garden-classic-150706",
+    "name": "BABY LOOK FIT GARDEN CLASSIC",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-look-fit-garden-150690/339628.jpg?w=556&h=833&v=202602261737",
+    "url": "https://www.bawclothing.com.br/baby-look-fit-garden-150690",
+    "name": "BABY LOOK FIT GARDEN",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-baby-look-baw-healthy-journey-150447/338523-2.jpg?w=556&h=833&v=202602261726",
+    "url": "https://www.bawclothing.com.br/camiseta-baby-look-baw-healthy-journey-150447",
+    "name": "CAMISETA BABY LOOK BAW HEALTHY JOURNEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "154060",
+   "href": "/baby-tee-baw-colorways-154060",
+   "nome": "BABY TEE BAW COLORWAYS",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Rosa Claro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154061",
+   "href": "/baby-tee-baw-colorways-154061",
+   "nome": "BABY TEE BAW COLORWAYS",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Roxo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154063",
+   "href": "/baby-tee-baw-colorways-154063",
+   "nome": "BABY TEE BAW COLORWAYS",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154059",
+   "href": "/baby-tee-baw-colorways-154059",
+   "nome": "BABY TEE BAW COLORWAYS",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154062",
+   "href": "/baby-tee-baw-colorways-154062",
+   "nome": "BABY TEE BAW COLORWAYS",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Amarelo Claro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154058",
+   "href": "/baby-look-rib-black-n-white-154058",
+   "nome": "BABY LOOK RIB BLACK N WHITE",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154057",
+   "href": "/baby-look-rib-black-n-white-154057",
+   "nome": "BABY LOOK RIB BLACK N WHITE",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153914",
+   "href": "/baby-tee-bob-marley-three-little-birds-153914",
+   "nome": "BABY TEE BOB MARLEY THREE LITTLE BIRDS",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "44%",
+   "selos": null,
+   "cor": "Off White/Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153900",
+   "href": "/baby-tee-bob-marley-signature-one-love-153900",
+   "nome": "BABY TEE BOB MARLEY SIGNATURE ONE LOVE",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153813",
+   "href": "/baby-tee-hogwarts-hp-x-baw-153813",
+   "nome": "BABY TEE HOGWARTS HP X BAW",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "47%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153725",
+   "href": "/baby-tee-footbaw-soccer-dogs-153725",
+   "nome": "BABY TEE FOOTBAW SOCCER DOGS",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Verde/Azul",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153724",
+   "href": "/baby-tee-footbaw-brasil-flag-153724",
+   "nome": "BABY TEE FOOTBAW BRASIL FLAG",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Azul/Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153449",
+   "href": "/baby-tee-patch-logo-153449",
+   "nome": "BABY TEE PATCH LOGO",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "47%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153452",
+   "href": "/baby-tee-patch-logo-153452",
+   "nome": "BABY TEE PATCH LOGO",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "31%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151369",
+   "href": "/baby-tee-fire-heart-151369",
+   "nome": "BABY TEE FIRE HEART",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 229,00",
+   "selo_off": "57%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150706",
+   "href": "/baby-look-fit-garden-classic-150706",
+   "nome": "BABY LOOK FIT GARDEN CLASSIC",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 179,00",
+   "selo_off": "22%",
+   "selos": null,
+   "cor": "Rosa Pink",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150690",
+   "href": "/baby-look-fit-garden-150690",
+   "nome": "BABY LOOK FIT GARDEN",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 179,00",
+   "selo_off": "22%",
+   "selos": null,
+   "cor": "Roxo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150447",
+   "href": "/camiseta-baby-look-baw-healthy-journey-150447",
+   "nome": "CAMISETA BABY LOOK BAW HEALTHY JOURNEY",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 179,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Marinho",
+   "genero": "Unisex"
+  }
+ ]
+}

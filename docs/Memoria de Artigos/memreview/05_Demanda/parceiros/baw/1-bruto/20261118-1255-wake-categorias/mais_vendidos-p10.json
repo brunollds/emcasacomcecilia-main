@@ -1,0 +1,237 @@
+{
+ "arquivo_origem": "mais_vendidos-p10.html",
+ "sha256_origem": "9f6631072bc360ee2a46681a5ce101aa92b853a891c9a4ff043d2142d58306e5",
+ "titulo": null,
+ "title_pagina": "",
+ "contagem_pagina": 910,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/mais_vendidos",
+  "numberOfItems": "910",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regata-rib-cropped-baw-colors-154068/365242-1.jpg?w=556&h=833&v=202610201432",
+    "url": "https://www.bawclothing.com.br/regata-rib-cropped-baw-colors-154068",
+    "name": "REGATA RIB CROPPED BAW COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regata-rib-cropped-baw-colors-154069/365233-1.jpg?w=556&h=833&v=202610201429",
+    "url": "https://www.bawclothing.com.br/regata-rib-cropped-baw-colors-154069",
+    "name": "REGATA RIB CROPPED BAW COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-shapes-152666/356307.jpg?w=556&h=833&v=202510281226",
+    "url": "https://www.bawclothing.com.br/shorts-shapes-152666",
+    "name": "SHORTS SHAPES",
+    "offers": {
+     "@type": "Offer",
+     "price": "269.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camisa-over-vichy-artsy-152308/353584.jpg?w=556&h=833&v=202510241459",
+    "url": "https://www.bawclothing.com.br/camisa-over-vichy-artsy-152308",
+    "name": "CAMISA OVER VICHY ARTSY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/string-bikini-top-152075/351678.jpg?w=556&h=833&v=202510231759",
+    "url": "https://www.bawclothing.com.br/string-bikini-top-152075",
+    "name": "STRING BIKINI TOP",
+    "offers": {
+     "@type": "Offer",
+     "price": "119.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/blusa-sunshine-151690/349269.jpg?w=556&h=833&v=202602271759",
+    "url": "https://www.bawclothing.com.br/blusa-sunshine-151690",
+    "name": "BLUSA SUNSHINE",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/blusa-sunshine-151685/349232.jpg?w=556&h=833&v=202510211749",
+    "url": "https://www.bawclothing.com.br/blusa-sunshine-151685",
+    "name": "BLUSA SUNSHINE",
+    "offers": {
+     "@type": "Offer",
+     "price": "299.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-swim-amarracao-knit-151547/347867.jpg?w=556&h=833&v=202510201803",
+    "url": "https://www.bawclothing.com.br/top-swim-amarracao-knit-151547",
+    "name": "TOP SWIM AMARRACAO KNIT",
+    "offers": {
+     "@type": "Offer",
+     "price": "159.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-swimmer-baw-x-sls-151525/347744.jpg?w=556&h=833&v=202510201744",
+    "url": "https://www.bawclothing.com.br/top-swimmer-baw-x-sls-151525",
+    "name": "TOP SWIMMER BAW X SLS",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/vestido-babydoll-151423/346999.jpg?w=556&h=833&v=202603041444",
+    "url": "https://www.bawclothing.com.br/vestido-babydoll-151423",
+    "name": "VESTIDO BABYDOLL",
+    "offers": {
+     "@type": "Offer",
+     "price": "299.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "154068",
+   "href": "/regata-rib-cropped-baw-colors-154068",
+   "nome": "REGATA RIB CROPPED BAW COLORS",
+   "preco": "R$ 79,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154069",
+   "href": "/regata-rib-cropped-baw-colors-154069",
+   "nome": "REGATA RIB CROPPED BAW COLORS",
+   "preco": "R$ 79,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Verde Musgo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152666",
+   "href": "/shorts-shapes-152666",
+   "nome": "SHORTS SHAPES",
+   "preco": "R$ 269,00",
+   "preco_de": "R$ 339,00",
+   "selo_off": "21%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152308",
+   "href": "/camisa-over-vichy-artsy-152308",
+   "nome": "CAMISA OVER VICHY ARTSY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Rosa/Azul/Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152075",
+   "href": "/string-bikini-top-152075",
+   "nome": "STRING BIKINI TOP",
+   "preco": "R$ 119,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Neon",
+   "genero": ""
+  },
+  {
+   "id": "151690",
+   "href": "/blusa-sunshine-151690",
+   "nome": "BLUSA SUNSHINE",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 249,90",
+   "selo_off": "68%",
+   "selos": null,
+   "cor": "Amarelo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151685",
+   "href": "/blusa-sunshine-151685",
+   "nome": "BLUSA SUNSHINE",
+   "preco": "R$ 299,00",
+   "preco_de": "R$ 379,00",
+   "selo_off": "21%",
+   "selos": null,
+   "cor": "Roxo",
+   "genero": ""
+  },
+  {
+   "id": "151547",
+   "href": "/top-swim-amarracao-knit-151547",
+   "nome": "TOP SWIM AMARRACAO KNIT",
+   "preco": "R$ 159,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": ""
+  },
+  {
+   "id": "151525",
+   "href": "/top-swimmer-baw-x-sls-151525",
+   "nome": "TOP SWIMMER BAW X SLS",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Feminino"
+  },
+  {
+   "id": "151423",
+   "href": "/vestido-babydoll-151423",
+   "nome": "VESTIDO BABYDOLL",
+   "preco": "R$ 299,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Verde",
+   "genero": "Unisex"
+  }
+ ]
+}

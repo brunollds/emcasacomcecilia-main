@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/camiseta-br-kids-selfie-logo-154201
+lido_em: 2026-11-18T13:11:57-03:00
+html_origem: ficha-camiseta-br-kids-selfie-logo.html (sha256 299b60362a12c61ef0a84f76c8e1e3421cbd2c10061041249d7a19589165de98)
+nome: CAMISETA BR KIDS SELFIE LOGO
+sku: 12.02.418204010
+trilha: Página inicial > Kids > CAMISETA BR KIDS SELFIE LOGO
+preco: R$ 39,00
+preco_de: @nao-se-aplica
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+CAMISETA BR KIDS SELFIE LOGO
+CAMISETA BR KIDS SELFIE LOGO

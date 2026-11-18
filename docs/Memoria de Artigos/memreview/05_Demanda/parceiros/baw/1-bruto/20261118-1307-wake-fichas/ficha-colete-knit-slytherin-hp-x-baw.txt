@@ -1,0 +1,49 @@
+url: https://www.bawclothing.com.br/produto/colete-knit-slytherin-hp-x-baw-151953
+lido_em: 2026-11-18T13:08:21-03:00
+html_origem: ficha-colete-knit-slytherin-hp-x-baw.html (sha256 071eb115c62f191ca8c50adf764bb292f981ab9b51969ec3e179265687a1aab2)
+nome: COLETE KNIT SLYTHERIN HP x BAW
+sku: 08.06.0017048M
+trilha: Página inicial > Roupas > COLETE KNIT SLYTHERIN HP x BAW
+preco: R$ 249,00
+preco_de: R$ 599,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+COLETE KNIT SLYTHERIN HP x BAW
+Colete Knit Slytherin BAW da colaboração oficial com Harry Potter®, com pegada preppy de inverno assinada pela casa das serpentes de Hogwarts. Confeccionado em tricô na cor verde, apresenta gola, cavas e barra canelados, com fechamento frontal em botões, garantindo o caimento clássico de colete de tricô.
+O destaque fica por conta da estampa nas costas, logo abaixo do decote, trazendo o padrão listrado nas cores da casa Slytherin. A etiqueta com o lettering "Harry Potter x Baw Clothing" é aplicada na parte de trás. Streetwear de coleção com identidade bruxa e pegada preppy. Feito e pensado no Brasil.
+Como combinar esse colete Slytherin no visual do dia a dia?
+Por ter uma pegada preppy, esse colete combina muito bem por cima de camisas ou camisetas básicas brancas ou pretas, criando um visual em camadas ideal para os dias mais frios com uma referência elegante à casa Slytherin.
+Por que o tricô canelado valoriza o caimento desse colete?
+As canaletas na gola, cavas e barra dão elasticidade e ajuste ao corpo sem perder a estrutura, enquanto o fechamento em botões permite abrir o colete facilmente para compor diferentes camadas de look.
+Tabela de medidas:
+P - Comprimento: 67cm/ Torax: 54cm/ Barra: 54cm/ Ombro: 16cm/ Cava: 25cm.
+M - Comprimento: 69cm/ Torax: 57cm/ Barra: 57cm/ Ombro: 17cm/ Cava: 26cm.
+G - Comprimento: 71cm/ Torax: 60cm/ Barra: 60cm/ Ombro: 18cm/ Cava: 27cm.
+GG - Comprimento: 73cm/ Torax: 63cm/ Barra: 63cm/ Ombro: 19cm/ Cava: 28cm.
+CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+Este anúncio se refere somente ao colete. Os demais itens contidos na imagem são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+COLETE KNIT SLYTHERIN HP x BAW
+Colete Knit Slytherin BAW da colaboração oficial com Harry Potter®, com pegada preppy de inverno assinada pela casa das serpentes de Hogwarts. Confeccionado em tricô na cor verde, apresenta gola, cavas e barra canelados, com fechamento frontal em botões, garantindo o caimento clássico de colete de tricô.
+O destaque fica por conta da estampa nas costas, logo abaixo do decote, trazendo o padrão listrado nas cores da casa Slytherin. A etiqueta com o lettering "Harry Potter x Baw Clothing" é aplicada na parte de trás. Streetwear de coleção com identidade bruxa e pegada preppy. Feito e pensado no Brasil.
+Como combinar esse colete Slytherin no visual do dia a dia?
+Por ter uma pegada preppy, esse colete combina muito bem por cima de camisas ou camisetas básicas brancas ou pretas, criando um visual em camadas ideal para os dias mais frios com uma referência elegante à casa Slytherin.
+Por que o tricô canelado valoriza o caimento desse colete?
+As canaletas na gola, cavas e barra dão elasticidade e ajuste ao corpo sem perder a estrutura, enquanto o fechamento em botões permite abrir o colete facilmente para compor diferentes camadas de look.
+Tabela de medidas:
+P
+ - Comprimento: 67cm/ Torax: 54cm/ Barra: 54cm/ Ombro: 16cm/ Cava: 25cm. 
+M
+ - Comprimento: 69cm/ Torax: 57cm/ Barra: 57cm/ Ombro: 17cm/ Cava: 26cm. 
+G
+ - Comprimento: 71cm/ Torax: 60cm/ Barra: 60cm/ Ombro: 18cm/ Cava: 27cm.
+GG
+ - Comprimento: 73cm/ Torax: 63cm/ Barra: 63cm/ Ombro: 19cm/ Cava: 28cm.
+CORES APROXIMADAS.
+ Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+Este anúncio se refere somente ao colete. Os demais itens contidos na imagem são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.

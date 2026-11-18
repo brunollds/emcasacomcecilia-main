@@ -1,0 +1,52 @@
+url: https://www.bawclothing.com.br/produto/overshirt-box-logo-153486
+lido_em: 2026-11-18T13:08:35-03:00
+html_origem: ficha-overshirt-box-logo.html (sha256 6db8bb49bab26e1a941ce6498b4aaaa83f63980380351531b61cf727970a3fba)
+nome: OVERSHIRT BOX LOGO
+sku: 0100213037G
+trilha: Página inicial > Roupas > Camisas > OVERSHIRT BOX LOGO
+preco: R$ 139,00
+preco_de: R$ 249,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+OVERSHIRT BOX LOGO OFF WHITE
+A Overshirt Box Logo traz o equilíbrio perfeito entre o corte clássico da alfaiataria e a funcionalidade utilitária da sobrecamisa no streetwear . Confeccionada em sarja/tricoline de algodão encorpada e de toque suave, a peça possui caimento oversized estruturado com ombros deslocados, sendo ideal para usar fechada como camisa principal ou aberta como jaqueta leve. Seu design minimalista destaca um mini box logo emborrachado/aplicado discretamente no peito esquerdo. Conta com gola colarinho button-down , fechamento frontal por botões caseados e punhos com abotoamento.
+Tabela de medidas:
+PP - Comprimento: 75cm/ Tórax: 55cm/ Barra: 54cm/ Manga: 60cm/ Ombro: 16,5cm.
+P - Comprimento: 77cm/ Tórax: 58cm/ Barra: 57cm/ Manga: 61cm/ Ombro: 17,5cm.
+M - Comprimento: 79cm/ Tórax: 61cm/ Barra: 60cm/ Manga: 62cm/ Ombro: 18,5cm.
+G - Comprimento: 81cm/ Tórax: 64cm/ Barra: 63cm/ Manga: 63cm/ Ombro: 19,5cm.
+GG - Comprimento: 83cm/ Tórax: 67cm/ Barra: 66cm/ Manga: 65cm/ Ombro: 20,5cm.
+GGG - Comprimento: 85cm/ Tórax: 70cm/ Barra: 69cm/ Manga: 66cm/ Ombro: 21,5cm.
+Composição: 100% Algodão.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a Camisa. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+OVERSHIRT BOX LOGO OFF WHITE
+A 
+Overshirt Box Logo
+ traz o equilíbrio perfeito entre o corte clássico da alfaiataria e a funcionalidade utilitária da sobrecamisa no 
+streetwear
+. Confeccionada em sarja/tricoline de algodão encorpada e de toque suave, a peça possui caimento 
+oversized
+ estruturado com ombros deslocados, sendo ideal para usar fechada como camisa principal ou aberta como jaqueta leve. Seu design minimalista destaca um mini 
+box logo
+ emborrachado/aplicado discretamente no peito esquerdo. Conta com gola colarinho 
+button-down
+, fechamento frontal por botões caseados e punhos com abotoamento.
+Tabela de medidas:
+PP - Comprimento: 75cm/ Tórax: 55cm/ Barra: 54cm/ Manga: 60cm/ Ombro: 16,5cm.
+P - Comprimento: 77cm/ Tórax: 58cm/ Barra: 57cm/ Manga: 61cm/ Ombro: 17,5cm.
+M - Comprimento: 79cm/ Tórax: 61cm/ Barra: 60cm/ Manga: 62cm/ Ombro: 18,5cm.
+G - Comprimento: 81cm/ Tórax: 64cm/ Barra: 63cm/ Manga: 63cm/ Ombro: 19,5cm.
+GG - Comprimento: 83cm/ Tórax: 67cm/ Barra: 66cm/ Manga: 65cm/ Ombro: 20,5cm.
+GGG - Comprimento: 85cm/ Tórax: 70cm/ Barra: 69cm/ Manga: 66cm/ Ombro: 21,5cm.
+Composição: 100% Algodão.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a Camisa. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.

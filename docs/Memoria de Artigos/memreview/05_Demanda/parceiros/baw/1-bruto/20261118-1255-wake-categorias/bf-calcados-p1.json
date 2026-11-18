@@ -1,0 +1,15 @@
+{
+ "arquivo_origem": "bf-calcados-p1.html",
+ "sha256_origem": "3bbee7ee8fb3433f846c5849d958185d718ce1399255d87f670856d710b2996f",
+ "titulo": "Calçados",
+ "title_pagina": "Calçados - Black Friday - Baw Clothing",
+ "contagem_pagina": 0,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/black-friday/calcados",
+  "numberOfItems": "0",
+  "itemListElement": []
+ },
+ "cartoes": []
+}

@@ -1,0 +1,47 @@
+url: https://www.bawclothing.com.br/produto/camiseta-oversized-hell-heart-chillibaw-154000
+lido_em: 2026-11-18T13:07:42-03:00
+html_origem: ficha-camiseta-oversized-hell-heart-chillibaw.html (sha256 87d956bcd420beacb580d65c656be4ac96413f1f2c2344026f5aab659e8636fe)
+nome: CAMISETA OVERSIZED HELL HEART CHILLIBAW
+sku: 12.02.3973040M
+trilha: Página inicial > Lançamentos > CAMISETA OVERSIZED HELL HEART CHILLIBAW
+preco: R$ 129,00
+preco_de: R$ 189,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+CAMISETA OVERSIZED HELL HEART CHILLIBAW
+A Camiseta Boxy Hell Heart ChilliBaw traz a modelagem boxy com ombros deslocados, caimento amplo e corte reto aliada ao visual urbano e gráfico da collab ChilliBaw. Confeccionada em malha de algodão encorpada com lavagem estonada na cor cinza grafite/chumbo, conta com gola careca em ribana estruturada e acabamento reforçado. O destaque fica por conta da estampa "Hell Heart" nas costas: a assinatura "ChilliBaw" estilizada dentro de um coração vermelho com aura verde brilhante e detalhes de cauda diabólica.
+Tabela de Medidas:
+PP - Tórax: 55cm Comprimento: 58cm Barra: 55cm Comp. Manga: 19cm Ombro: 17,7cm Altura Cava: 22cm.
+P - Tórax: 58cm Comprimento: 60cm Barra: 58cm Comp. Manga: 20cm Ombro: 18,7cm Altura Cava: 23cm.
+M - Tórax: 61cm Comprimento: 62cm Barra: 61cm Comp. Manga: 21cm Ombro: 19,3cm Altura Cava: 24cm.
+G - Tórax: 64cm Comprimento: 64cm Barra: 64cm Comp. Manga: 22cm Ombro: 20,1cm Altura Cava: 25cm.
+GG - Tórax: 67cm Comprimento: 66cm Barra: 67cm Comp. Manga: 23cm Ombro: 20,9cm Altura Cava: 26cm.
+GGG - Tórax: 70cm Comprimento: 68cm Barra: 70cm Comp. Manga: 24cm Ombro: 21,7cm Altura Cava: 27cm.
+Composição: 100% Algodão.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente à Camiseta. Os demais itens contidos na imagem são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+CAMISETA OVERSIZED HELL HEART CHILLIBAW
+A 
+Camiseta Boxy Hell Heart ChilliBaw
+ traz a modelagem 
+boxy
+ com ombros deslocados, caimento amplo e corte reto aliada ao visual urbano e gráfico da collab ChilliBaw. Confeccionada em malha de algodão encorpada com lavagem estonada na cor cinza grafite/chumbo, conta com gola careca em ribana estruturada e acabamento reforçado. O destaque fica por conta da estampa "Hell Heart" nas costas: a assinatura "ChilliBaw" estilizada dentro de um coração vermelho com aura verde brilhante e detalhes de cauda diabólica.
+Tabela de Medidas:
+PP - Tórax: 55cm Comprimento: 58cm Barra: 55cm Comp. Manga: 19cm Ombro: 17,7cm Altura Cava: 22cm.
+P - Tórax: 58cm Comprimento: 60cm Barra: 58cm Comp. Manga: 20cm Ombro: 18,7cm Altura Cava: 23cm.
+M - Tórax: 61cm Comprimento: 62cm Barra: 61cm Comp. Manga: 21cm Ombro: 19,3cm Altura Cava: 24cm.
+G - Tórax: 64cm Comprimento: 64cm Barra: 64cm Comp. Manga: 22cm Ombro: 20,1cm Altura Cava: 25cm.
+GG - Tórax: 67cm Comprimento: 66cm Barra: 67cm Comp. Manga: 23cm Ombro: 20,9cm Altura Cava: 26cm.
+GGG - Tórax: 70cm Comprimento: 68cm Barra: 70cm Comp. Manga: 24cm Ombro: 21,7cm Altura Cava: 27cm.
+Composição:
+ 100% Algodão.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente à Camiseta. Os demais itens contidos na imagem são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.

@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/tenis-grip-mad-150379
+lido_em: 2026-11-18T13:12:45-03:00
+html_origem: ficha-tenis-grip-mad.html (sha256 4627c394d47eee4c01480c31ac9d71b4f296bc971edf9adb4fc315fd33ea3e36)
+nome: TENIS GRIP MAD
+sku: 009451403738
+trilha: Página inicial > Black Friday > TENIS GRIP MAD
+preco: R$ 239,00
+preco_de: R$ 309,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+[sem parágrafos no bloco]
+
+--- description do JSON-LD Product ---
+TENIS GRIP MAD
+TENIS GRIP MAD OFF WHITET&ecirc;nis b&aacute;sico e casual de lona com traseiro e biqueira em camur&ccedil;a e costuras contrastantes. Sola de borracha TR que garante estabilidade no dia a dia. Todo produto possui espumas internas para maior conforto. Para assinar o sneaker, etiqueta de tecido na lingueta e B&reg;? bordado na lateral. O cadar&ccedil;o de chenile &eacute; um diferencial. Todas as combina&ccedil;&otilde;es trazem a sola e cadar&ccedil;o off White para uma composi&ccedil;&atilde;o mais cool.TABELA DE CAL&Ccedil;ADOS33 - 24cm34 - 25cm35 - 26cm36 - 27cm37 - 28cm38 - 29cm39 - 30cm40 - 31cm41 - 32cm42 - 33cm43 - 34cm44 - 35cmComposi&ccedil;&atilde;o: Couro e Borracha.*MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 3%.*Este an&uacute;ncio se refere somente ao t&ecirc;nis. Os demais itens contidos na imagem, s&atilde;o vendidos separadamente.Todas as pe&ccedil;as da BAW Clothing s&atilde;o criadas e produzidas no Brasil.

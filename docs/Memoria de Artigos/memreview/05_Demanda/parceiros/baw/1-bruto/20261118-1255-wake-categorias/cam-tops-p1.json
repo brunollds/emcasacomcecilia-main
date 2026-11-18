@@ -1,0 +1,347 @@
+{
+ "arquivo_origem": "cam-tops-p1.html",
+ "sha256_origem": "0447e698b0bc92c9bfd33a50608bba1c362918d575e76180c65091461845ff13",
+ "titulo": "Tops",
+ "title_pagina": "Tops - Camisetas - Roupas - Baw Clothing",
+ "contagem_pagina": 15,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/roupas/camisetas/tops",
+  "numberOfItems": "15",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-friso-baw-athletics-153952/364639-1.jpg?w=556&h=833&v=202609301011",
+    "url": "https://www.bawclothing.com.br/top-friso-baw-athletics-153952",
+    "name": "TOP FRISO BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-nadador-baw-athletics-153951/364632-1.jpg?w=556&h=833&v=202609301116",
+    "url": "https://www.bawclothing.com.br/top-nadador-baw-athletics-153951",
+    "name": "TOP NADADOR BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-friso-baw-athletics-153953/364638-1.jpg?w=556&h=833&v=202609301010",
+    "url": "https://www.bawclothing.com.br/top-friso-baw-athletics-153953",
+    "name": "TOP FRISO BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-sunshine-stripes-151542/362712-3.jpg?w=556&h=833&v=202603191720",
+    "url": "https://www.bawclothing.com.br/top-sunshine-stripes-151542",
+    "name": "TOP SUNSHINE STRIPES",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/frente-unica-summer-154143/365688-1.jpg?w=556&h=833&v=202610281145",
+    "url": "https://www.bawclothing.com.br/frente-unica-summer-154143",
+    "name": "FRENTE UNICA SUMMER",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-canelado-knit-151554/347885-1.jpg?w=556&h=833&v=202602271653",
+    "url": "https://www.bawclothing.com.br/top-canelado-knit-151554",
+    "name": "TOP CANELADO KNIT",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/frente-unica-summer-154142/365686-1.jpg?w=556&h=833&v=202610281144",
+    "url": "https://www.bawclothing.com.br/frente-unica-summer-154142",
+    "name": "FRENTE UNICA SUMMER",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/blusa-sunshine-151690/349269.jpg?w=556&h=833&v=202602271759",
+    "url": "https://www.bawclothing.com.br/blusa-sunshine-151690",
+    "name": "BLUSA SUNSHINE",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-swim-basic-151549/347856.jpg?w=556&h=833&v=202602271732",
+    "url": "https://www.bawclothing.com.br/top-swim-basic-151549",
+    "name": "TOP SWIM BASIC",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-canelado-knit-151551/347887.jpg?w=556&h=833&v=202603041244",
+    "url": "https://www.bawclothing.com.br/top-canelado-knit-151551",
+    "name": "TOP CANELADO KNIT",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-swimmer-basics-151520/347680.jpg?w=556&h=833&v=202510201741",
+    "url": "https://www.bawclothing.com.br/top-swimmer-basics-151520",
+    "name": "TOP SWIMMER BASICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/frente-unica-summer-154141/365684-1.jpg?w=556&h=833&v=202610281144",
+    "url": "https://www.bawclothing.com.br/frente-unica-summer-154141",
+    "name": "FRENTE UNICA SUMMER",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/frente-unica-sparkly-154140/365677-1.jpg?w=556&h=833&v=202610271908",
+    "url": "https://www.bawclothing.com.br/frente-unica-sparkly-154140",
+    "name": "FRENTE UNICA SPARKLY",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-rib-baw-x-hello-kitty-153532/361876-1.jpg?w=556&h=833&v=202608031212",
+    "url": "https://www.bawclothing.com.br/top-rib-baw-x-hello-kitty-153532",
+    "name": "TOP RIB BAW X HELLO KITTY",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-assimetrico-baw-151552/347878.jpg?w=556&h=833&v=202510301757",
+    "url": "https://www.bawclothing.com.br/top-assimetrico-baw-151552",
+    "name": "TOP ASSIMETRICO BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "153952",
+   "href": "/top-friso-baw-athletics-153952",
+   "nome": "TOP FRISO BAW ATHLETICS",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "31%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153951",
+   "href": "/top-nadador-baw-athletics-153951",
+   "nome": "TOP NADADOR BAW ATHLETICS",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Rosa",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153953",
+   "href": "/top-friso-baw-athletics-153953",
+   "nome": "TOP FRISO BAW ATHLETICS",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "31%",
+   "selos": null,
+   "cor": "Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151542",
+   "href": "/top-sunshine-stripes-151542",
+   "nome": "TOP SUNSHINE STRIPES",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "62%",
+   "selos": null,
+   "cor": "Rosa",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154143",
+   "href": "/frente-unica-summer-154143",
+   "nome": "FRENTE UNICA SUMMER",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "31%",
+   "selos": null,
+   "cor": "Amarelo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151554",
+   "href": "/top-canelado-knit-151554",
+   "nome": "TOP CANELADO KNIT",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 169,90",
+   "selo_off": "48%",
+   "selos": null,
+   "cor": "Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154142",
+   "href": "/frente-unica-summer-154142",
+   "nome": "FRENTE UNICA SUMMER",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "31%",
+   "selos": null,
+   "cor": "Roxo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151690",
+   "href": "/blusa-sunshine-151690",
+   "nome": "BLUSA SUNSHINE",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 249,90",
+   "selo_off": "68%",
+   "selos": null,
+   "cor": "Amarelo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151549",
+   "href": "/top-swim-basic-151549",
+   "nome": "TOP SWIM BASIC",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 129,90",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Amarelo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151551",
+   "href": "/top-canelado-knit-151551",
+   "nome": "TOP CANELADO KNIT",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "64%",
+   "selos": null,
+   "cor": "Pink",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151520",
+   "href": "/top-swimmer-basics-151520",
+   "nome": "TOP SWIMMER BASICS",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 219,00",
+   "selo_off": "68%",
+   "selos": null,
+   "cor": "Bege",
+   "genero": ""
+  },
+  {
+   "id": "154141",
+   "href": "/frente-unica-summer-154141",
+   "nome": "FRENTE UNICA SUMMER",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "47%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154140",
+   "href": "/frente-unica-sparkly-154140",
+   "nome": "FRENTE UNICA SPARKLY",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "31%",
+   "selos": null,
+   "cor": "Lilas",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153532",
+   "href": "/top-rib-baw-x-hello-kitty-153532",
+   "nome": "TOP RIB BAW X HELLO KITTY",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 179,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151552",
+   "href": "/top-assimetrico-baw-151552",
+   "nome": "TOP ASSIMETRICO BAW",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": ""
+  }
+ ]
+}

@@ -1,0 +1,545 @@
+{
+ "arquivo_origem": "bf-drops69-p1.html",
+ "sha256_origem": "75a3ea573213143e8afd5182ecd7603f3001a25fb0c0e3dcee41ea386ed2c84f",
+ "titulo": null,
+ "title_pagina": "Black Friday Drops",
+ "contagem_pagina": 24,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/black-friday/drops69",
+  "numberOfItems": "24",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-dad-hat-line-baw-x-disney-150633/339386-1.jpg?w=556&h=833&v=202609291101",
+    "url": "https://www.bawclothing.com.br/bone-dad-hat-line-baw-x-disney-150633",
+    "name": "BONE DAD HAT LINE BAW X DISNEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-rib-stripes-baw-x-smiley-150505/338777.jpg?w=556&h=833&v=202602251720",
+    "url": "https://www.bawclothing.com.br/camiseta-rib-stripes-baw-x-smiley-150505",
+    "name": "CAMISETA RIB STRIPES BAW X SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-fun-baw-x-disney-150551/339006.jpg?w=556&h=833&v=202509170107",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-fun-baw-x-disney-150551",
+    "name": "CAMISETA REGULAR FUN BAW X DISNEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-basic-baw-x-disney-150525/338890.jpg?w=556&h=833&v=202509170107",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-basic-baw-x-disney-150525",
+    "name": "CAMISETA REGULAR BASIC BAW X DISNEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-x-disney-150508/338802.jpg?w=556&h=833&v=202509170211",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-x-disney-150508",
+    "name": "CAMISETA REGULAR BAW X DISNEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camisa-baw-x-mitchell-e-ness-x-nfl-raiders-151012/341589.jpg?w=556&h=833&v=202509170034",
+    "url": "https://www.bawclothing.com.br/camisa-baw-x-mitchell-e-ness-x-nfl-raiders-151012",
+    "name": "CAMISA BAW X MITCHELL E NESS X NFL RAIDERS",
+    "offers": {
+     "@type": "Offer",
+     "price": "159.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camisa-baw-x-mitchell-e-ness-x-nfl-kc-151011/341588.jpg?w=556&h=833&v=202509162322",
+    "url": "https://www.bawclothing.com.br/camisa-baw-x-mitchell-e-ness-x-nfl-kc-151011",
+    "name": "CAMISA BAW X MITCHELL E NESS X NFL KC",
+    "offers": {
+     "@type": "Offer",
+     "price": "159.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/beach-short-sun-baw-x-smiley-151022/341641.jpg?w=556&h=833&v=202509081932",
+    "url": "https://www.bawclothing.com.br/beach-short-sun-baw-x-smiley-151022",
+    "name": "BEACH SHORT SUN BAW X SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "189.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/saia-plaid-cargo-baw-x-sd-150799/340193.jpg?w=556&h=833&v=202509170108",
+    "url": "https://www.bawclothing.com.br/saia-plaid-cargo-baw-x-sd-150799",
+    "name": "SAIA PLAID CARGO BAW X SD",
+    "offers": {
+     "@type": "Offer",
+     "price": "189.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camisa-baw-x-mitchell-e-ness-x-nfl-authentic-151013/341595.jpg?w=556&h=833&v=202509170035",
+    "url": "https://www.bawclothing.com.br/camisa-baw-x-mitchell-e-ness-x-nfl-authentic-151013",
+    "name": "CAMISA BAW X MITCHELL E NESS X NFL AUTHENTIC",
+    "offers": {
+     "@type": "Offer",
+     "price": "199.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camisa-baw-x-mitchell-e-ness-x-nfl-ny-giants-151007/341570.jpg?w=556&h=833&v=202509162226",
+    "url": "https://www.bawclothing.com.br/camisa-baw-x-mitchell-e-ness-x-nfl-ny-giants-151007",
+    "name": "CAMISA BAW X MITCHELL E NESS X NFL NY GIANTS",
+    "offers": {
+     "@type": "Offer",
+     "price": "199.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-carpenter-baw-x-smiley-150552/339022.jpg?w=556&h=833&v=202509170049",
+    "url": "https://www.bawclothing.com.br/bermuda-carpenter-baw-x-smiley-150552",
+    "name": "BERMUDA CARPENTER BAW X SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "219.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-4-pockets-baw-x-smiley-150686/339578-1.jpg?w=556&h=833&v=202608181457",
+    "url": "https://www.bawclothing.com.br/calca-4-pockets-baw-x-smiley-150686",
+    "name": "CALCA 4 POCKETS BAW X SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "239.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-hoodie-baw-x-mitchell-e-ness-x-nfl-151015/341600-1.jpg?w=556&h=833&v=202605121712",
+    "url": "https://www.bawclothing.com.br/moletom-hoodie-baw-x-mitchell-e-ness-x-nfl-151015",
+    "name": "MOLETOM HOODIE BAW X MITCHELL E NESS X NFL",
+    "offers": {
+     "@type": "Offer",
+     "price": "249.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-street-baw-x-smiley-150559/339066.jpg?w=556&h=833&v=202509170222",
+    "url": "https://www.bawclothing.com.br/calca-street-baw-x-smiley-150559",
+    "name": "Calca Street Baw X Smiley",
+    "offers": {
+     "@type": "Offer",
+     "price": "259.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/sweatshirt-oversized-baw-x-smiley-150536/338950.jpg?w=556&h=833&v=202509170151",
+    "url": "https://www.bawclothing.com.br/sweatshirt-oversized-baw-x-smiley-150536",
+    "name": "SWEATSHIRT OVERSIZED BAW X SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "279.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-hoodie-baw-x-mitchell-e-ness-x-nfl-151014/341599-1.jpg?w=556&h=833&v=202605121712",
+    "url": "https://www.bawclothing.com.br/moletom-hoodie-baw-x-mitchell-e-ness-x-nfl-151014",
+    "name": "MOLETOM HOODIE BAW X MITCHELL E NESS X NFL",
+    "offers": {
+     "@type": "Offer",
+     "price": "299.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/sweatshirt-baw-x-mitchell-e-ness-x-nfl-151010/341581-1.jpg?w=556&h=833&v=202605121708",
+    "url": "https://www.bawclothing.com.br/sweatshirt-baw-x-mitchell-e-ness-x-nfl-151010",
+    "name": "SWEATSHIRT BAW X MITCHELL E NESS X NFL",
+    "offers": {
+     "@type": "Offer",
+     "price": "299.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/sweatshirt-baw-x-mitchell-e-ness-x-nfl-rai-151009/341577-1.jpg?w=556&h=833&v=202606011701",
+    "url": "https://www.bawclothing.com.br/sweatshirt-baw-x-mitchell-e-ness-x-nfl-rai-151009",
+    "name": "SWEATSHIRT BAW X MITCHELL E NESS X NFL RAI",
+    "offers": {
+     "@type": "Offer",
+     "price": "299.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-skater-cargo-baw-x-sd-150949/341223.jpg?w=556&h=833&v=202510301232",
+    "url": "https://www.bawclothing.com.br/calca-skater-cargo-baw-x-sd-150949",
+    "name": "CALCA SKATER CARGO BAW X SD",
+    "offers": {
+     "@type": "Offer",
+     "price": "319.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-courage-baw-x-cartoon-150540/338978.jpg?w=556&h=833&v=202509181718",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-courage-baw-x-cartoon-150540",
+    "name": "CAMISETA OVERSIZED COURAGE BAW X CARTOON",
+    "offers": {
+     "@type": "Offer",
+     "price": "319.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-jeans-5-pockets-baw-x-chevrolet-150963/341292.jpg?w=556&h=833&v=202509181730",
+    "url": "https://www.bawclothing.com.br/bermuda-jeans-5-pockets-baw-x-chevrolet-150963",
+    "name": "BERMUDA JEANS 5 POCKETS BAW X CHEVROLET",
+    "offers": {
+     "@type": "Offer",
+     "price": "349.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-bomber-recortes-baw-x-smiley-150537/339028.jpg?w=556&h=833&v=202509170011",
+    "url": "https://www.bawclothing.com.br/jaqueta-bomber-recortes-baw-x-smiley-150537",
+    "name": "JAQUETA BOMBER RECORTES BAW X SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "389.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-jeans-carpenter-baw-x-chevrolet-150965/341320.jpg?w=556&h=833&v=202509161349",
+    "url": "https://www.bawclothing.com.br/calca-jeans-carpenter-baw-x-chevrolet-150965",
+    "name": "CALCA JEANS CARPENTER BAW X CHEVROLET",
+    "offers": {
+     "@type": "Offer",
+     "price": "399.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "150633",
+   "href": "/bone-dad-hat-line-baw-x-disney-150633",
+   "nome": "BONE DAD HAT LINE BAW X DISNEY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Rosa Blush",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150505",
+   "href": "/camiseta-rib-stripes-baw-x-smiley-150505",
+   "nome": "CAMISETA RIB STRIPES BAW X SMILEY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150551",
+   "href": "/camiseta-regular-fun-baw-x-disney-150551",
+   "nome": "CAMISETA REGULAR FUN BAW X DISNEY",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "24%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150525",
+   "href": "/camiseta-regular-basic-baw-x-disney-150525",
+   "nome": "CAMISETA REGULAR BASIC BAW X DISNEY",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "24%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150508",
+   "href": "/camiseta-regular-baw-x-disney-150508",
+   "nome": "CAMISETA REGULAR BAW X DISNEY",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151012",
+   "href": "/camisa-baw-x-mitchell-e-ness-x-nfl-raiders-151012",
+   "nome": "CAMISA BAW X MITCHELL E NESS X NFL RAIDERS",
+   "preco": "R$ 159,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151011",
+   "href": "/camisa-baw-x-mitchell-e-ness-x-nfl-kc-151011",
+   "nome": "CAMISA BAW X MITCHELL E NESS X NFL KC",
+   "preco": "R$ 159,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151022",
+   "href": "/beach-short-sun-baw-x-smiley-151022",
+   "nome": "BEACH SHORT SUN BAW X SMILEY",
+   "preco": "R$ 189,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150799",
+   "href": "/saia-plaid-cargo-baw-x-sd-150799",
+   "nome": "SAIA PLAID CARGO BAW X SD",
+   "preco": "R$ 189,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "37%",
+   "selos": null,
+   "cor": "Bege Blush",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151013",
+   "href": "/camisa-baw-x-mitchell-e-ness-x-nfl-authentic-151013",
+   "nome": "CAMISA BAW X MITCHELL E NESS X NFL AUTHENTIC",
+   "preco": "R$ 199,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151007",
+   "href": "/camisa-baw-x-mitchell-e-ness-x-nfl-ny-giants-151007",
+   "nome": "CAMISA BAW X MITCHELL E NESS X NFL NY GIANTS",
+   "preco": "R$ 199,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150552",
+   "href": "/bermuda-carpenter-baw-x-smiley-150552",
+   "nome": "BERMUDA CARPENTER BAW X SMILEY",
+   "preco": "R$ 219,00",
+   "preco_de": "R$ 529,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150686",
+   "href": "/calca-4-pockets-baw-x-smiley-150686",
+   "nome": "CALCA 4 POCKETS BAW X SMILEY",
+   "preco": "R$ 239,00",
+   "preco_de": "R$ 499,00",
+   "selo_off": "52%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151015",
+   "href": "/moletom-hoodie-baw-x-mitchell-e-ness-x-nfl-151015",
+   "nome": "MOLETOM HOODIE BAW X MITCHELL E NESS X NFL",
+   "preco": "R$ 249,00",
+   "preco_de": "R$ 599,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150559",
+   "href": "/calca-street-baw-x-smiley-150559",
+   "nome": "Calca Street Baw X Smiley",
+   "preco": "R$ 259,00",
+   "preco_de": "R$ 559,00",
+   "selo_off": "54%",
+   "selos": null,
+   "cor": "Jeans Claro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150536",
+   "href": "/sweatshirt-oversized-baw-x-smiley-150536",
+   "nome": "SWEATSHIRT OVERSIZED BAW X SMILEY",
+   "preco": "R$ 279,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151014",
+   "href": "/moletom-hoodie-baw-x-mitchell-e-ness-x-nfl-151014",
+   "nome": "MOLETOM HOODIE BAW X MITCHELL E NESS X NFL",
+   "preco": "R$ 299,00",
+   "preco_de": "R$ 599,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151010",
+   "href": "/sweatshirt-baw-x-mitchell-e-ness-x-nfl-151010",
+   "nome": "SWEATSHIRT BAW X MITCHELL E NESS X NFL",
+   "preco": "R$ 299,00",
+   "preco_de": "R$ 599,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151009",
+   "href": "/sweatshirt-baw-x-mitchell-e-ness-x-nfl-rai-151009",
+   "nome": "SWEATSHIRT BAW X MITCHELL E NESS X NFL RAI",
+   "preco": "R$ 299,00",
+   "preco_de": "R$ 599,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150949",
+   "href": "/calca-skater-cargo-baw-x-sd-150949",
+   "nome": "CALCA SKATER CARGO BAW X SD",
+   "preco": "R$ 319,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Marrom",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150540",
+   "href": "/camiseta-oversized-courage-baw-x-cartoon-150540",
+   "nome": "CAMISETA OVERSIZED COURAGE BAW X CARTOON",
+   "preco": "R$ 319,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150963",
+   "href": "/bermuda-jeans-5-pockets-baw-x-chevrolet-150963",
+   "nome": "BERMUDA JEANS 5 POCKETS BAW X CHEVROLET",
+   "preco": "R$ 349,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Denim",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150537",
+   "href": "/jaqueta-bomber-recortes-baw-x-smiley-150537",
+   "nome": "JAQUETA BOMBER RECORTES BAW X SMILEY",
+   "preco": "R$ 389,00",
+   "preco_de": "R$ 799,00",
+   "selo_off": "51%",
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150965",
+   "href": "/calca-jeans-carpenter-baw-x-chevrolet-150965",
+   "nome": "CALCA JEANS CARPENTER BAW X CHEVROLET",
+   "preco": "R$ 399,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Denim",
+   "genero": "Unisex"
+  }
+ ]
+}

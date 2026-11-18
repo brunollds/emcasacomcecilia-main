@@ -1,0 +1,2217 @@
+{
+ "arquivo_origem": "lancamentos-p1.html",
+ "sha256_origem": "e4528abc7712ba54902918e3c7672a72a2550f70c767c558bf49f5c5fd6c0fb3",
+ "titulo": "Lançamentos",
+ "title_pagina": "Lançamentos Baw: camisetas, moletons, calças, saias e mais",
+ "contagem_pagina": 327,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/lancamentos",
+  "numberOfItems": "327",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/guarda-sol-baw-ent-circuit-154266/366498-1.jpg?w=556&h=833&v=202611171715",
+    "url": "https://www.bawclothing.com.br/guarda-sol-baw-ent-circuit-154266",
+    "name": "GUARDA SOL BAW ENT CIRCUIT",
+    "offers": {
+     "@type": "Offer",
+     "price": "299.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-fitted-bawent-circuit-154260/366459-1.jpg?w=556&h=833&v=202611161538",
+    "url": "https://www.bawclothing.com.br/bone-fitted-bawent-circuit-154260",
+    "name": "BONÉ FITTED BAWENT CIRCUIT",
+    "offers": {
+     "@type": "Offer",
+     "price": "199.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-track-tape-bawent-circuit-154264/366465-1.jpg?w=556&h=833&v=202611180954",
+    "url": "https://www.bawclothing.com.br/calca-track-tape-bawent-circuit-154264",
+    "name": "CALÇA TRACK TAPE BAWENT CIRCUIT",
+    "offers": {
+     "@type": "Offer",
+     "price": "429.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-ml-bawent-circuit-154262/366464-1.jpg?w=556&h=833&v=202611161538",
+    "url": "https://www.bawclothing.com.br/camiseta-ml-bawent-circuit-154262",
+    "name": "CAMISETA ML BAWENT CIRCUIT",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-bomber-bawent-circuit-154265/366463-1.jpg?w=556&h=833&v=202611180953",
+    "url": "https://www.bawclothing.com.br/jaqueta-bomber-bawent-circuit-154265",
+    "name": "JAQUETA BOMBER BAWENT CIRCUIT",
+    "offers": {
+     "@type": "Offer",
+     "price": "799.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jersey-ml-baw-circuit-154259/366469-1.jpg?w=556&h=833&v=202611161538",
+    "url": "https://www.bawclothing.com.br/jersey-ml-baw-circuit-154259",
+    "name": "JERSEY ML BAW CIRCUIT",
+    "offers": {
+     "@type": "Offer",
+     "price": "349.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-bawent-circuit-154261/366468-1.jpg?w=556&h=833&v=202611161538",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-bawent-circuit-154261",
+    "name": "CAMISETA OVERSIZED BAWENT CIRCUIT",
+    "offers": {
+     "@type": "Offer",
+     "price": "169.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-sleeveless-bawent-circuit-154263/366460-1.jpg?w=556&h=833&v=202611161538",
+    "url": "https://www.bawclothing.com.br/moletom-sleeveless-bawent-circuit-154263",
+    "name": "MOLETOM SLEEVELESS BAWENT CIRCUIT",
+    "offers": {
+     "@type": "Offer",
+     "price": "249.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regata-rib-cropped-baw-colors-154077/365288-1.jpg?w=556&h=833&v=202610201437",
+    "url": "https://www.bawclothing.com.br/regata-rib-cropped-baw-colors-154077",
+    "name": "REGATA RIB CROPPED BAW COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regata-rib-cropped-baw-colors-154076/365273-1.jpg?w=556&h=833&v=202610201436",
+    "url": "https://www.bawclothing.com.br/regata-rib-cropped-baw-colors-154076",
+    "name": "REGATA RIB CROPPED BAW COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regata-rib-cropped-baw-colors-154075/365274-1.jpg?w=556&h=833&v=202610201431",
+    "url": "https://www.bawclothing.com.br/regata-rib-cropped-baw-colors-154075",
+    "name": "REGATA RIB CROPPED BAW COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regata-rib-cropped-baw-colors-154074/365268-1.jpg?w=556&h=833&v=202610201429",
+    "url": "https://www.bawclothing.com.br/regata-rib-cropped-baw-colors-154074",
+    "name": "REGATA RIB CROPPED BAW COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regata-rib-cropped-baw-colors-154071/365235-1.jpg?w=556&h=833&v=202610201429",
+    "url": "https://www.bawclothing.com.br/regata-rib-cropped-baw-colors-154071",
+    "name": "REGATA RIB CROPPED BAW COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regata-rib-cropped-baw-colors-154068/365242-1.jpg?w=556&h=833&v=202610201432",
+    "url": "https://www.bawclothing.com.br/regata-rib-cropped-baw-colors-154068",
+    "name": "REGATA RIB CROPPED BAW COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regata-rib-cropped-baw-colors-154070/365234-1.jpg?w=556&h=833&v=202610201429",
+    "url": "https://www.bawclothing.com.br/regata-rib-cropped-baw-colors-154070",
+    "name": "REGATA RIB CROPPED BAW COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regata-rib-cropped-baw-colors-154069/365233-1.jpg?w=556&h=833&v=202610201429",
+    "url": "https://www.bawclothing.com.br/regata-rib-cropped-baw-colors-154069",
+    "name": "REGATA RIB CROPPED BAW COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-baw-colorways-154060/365197-1.jpg?w=556&h=833&v=202610201433",
+    "url": "https://www.bawclothing.com.br/baby-tee-baw-colorways-154060",
+    "name": "BABY TEE BAW COLORWAYS",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-baw-colorways-154061/365180-1.jpg?w=556&h=833&v=202610201430",
+    "url": "https://www.bawclothing.com.br/baby-tee-baw-colorways-154061",
+    "name": "BABY TEE BAW COLORWAYS",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-baw-colorways-154063/365187-1.jpg?w=556&h=833&v=202610201436",
+    "url": "https://www.bawclothing.com.br/baby-tee-baw-colorways-154063",
+    "name": "BABY TEE BAW COLORWAYS",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-baw-colorways-154059/365178-1.jpg?w=556&h=833&v=202610201430",
+    "url": "https://www.bawclothing.com.br/baby-tee-baw-colorways-154059",
+    "name": "BABY TEE BAW COLORWAYS",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-baw-colorways-154062/365188-1.jpg?w=556&h=833&v=202610201432",
+    "url": "https://www.bawclothing.com.br/baby-tee-baw-colorways-154062",
+    "name": "BABY TEE BAW COLORWAYS",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-look-rib-black-n-white-154058/365169-1.jpg?w=556&h=833&v=202610201431",
+    "url": "https://www.bawclothing.com.br/baby-look-rib-black-n-white-154058",
+    "name": "BABY LOOK RIB BLACK N WHITE",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-look-rib-black-n-white-154057/365167-1.jpg?w=556&h=833&v=202610201430",
+    "url": "https://www.bawclothing.com.br/baby-look-rib-black-n-white-154057",
+    "name": "BABY LOOK RIB BLACK N WHITE",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-doggy-style-black-154020/364946-1.jpg?w=556&h=833&v=202610191126",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-doggy-style-black-154020",
+    "name": "CAMISETA OVERSIZED DOGGY STYLE BLACK",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-howl-baw-154018/364940-1.jpg?w=556&h=833&v=202610131506",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-howl-baw-154018",
+    "name": "CAMISETA OVERSIZED HOWL BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-outer-space-black-154019/364935-1.jpg?w=556&h=833&v=202610191136",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-outer-space-black-154019",
+    "name": "CAMISETA OVERSIZED OUTER SPACE BLACK",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-metal-154014/364918-1.jpg?w=556&h=833&v=202610131238",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-metal-154014",
+    "name": "CAMISETA OVERSIZED BAW METAL",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-rearview-black-154015/364922-1.jpg?w=556&h=833&v=202610140856",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-rearview-black-154015",
+    "name": "CAMISETA OVERSIZED REARVIEW BLACK",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-backfire-black-154013/364912-1.jpg?w=556&h=833&v=202610091031",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-backfire-black-154013",
+    "name": "CAMISETA OVERSIZED BACKFIRE BLACK",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-tag-baw-154011/364906-1.jpg?w=556&h=833&v=202610061509",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-tag-baw-154011",
+    "name": "CAMISETA OVERSIZED TAG BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-cherub-baw-154010/364901-1.jpg?w=556&h=833&v=202610071508",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-cherub-baw-154010",
+    "name": "CAMISETA OVERSIZED CHERUB BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-cherub-baw-154009/364895-1.jpg?w=556&h=833&v=202610061458",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-cherub-baw-154009",
+    "name": "CAMISETA OVERSIZED CHERUB BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-jeans-5-pockets-chillibaw-153990/364800-1.jpg?w=556&h=833&v=202610061746",
+    "url": "https://www.bawclothing.com.br/bermuda-jeans-5-pockets-chillibaw-153990",
+    "name": "BERMUDA JEANS 5 POCKETS CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "249.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-tribe-chillibaw-154007/364867-1.jpg?w=556&h=833&v=202610191202",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-tribe-chillibaw-154007",
+    "name": "CAMISETA OVERSIZED TRIBE CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-slim-hell-heart-chillibaw-154005/364843-1.jpg?w=556&h=833&v=202610081228",
+    "url": "https://www.bawclothing.com.br/camiseta-slim-hell-heart-chillibaw-154005",
+    "name": "CAMISETA SLIM HELL HEART CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-hell-heart-chillibaw-154000/364839-1.jpg?w=556&h=833&v=202610081227",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-hell-heart-chillibaw-154000",
+    "name": "CAMISETA OVERSIZED HELL HEART CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regata-under-tribe-chillibaw-154002/364835-1.jpg?w=556&h=833&v=202610071619",
+    "url": "https://www.bawclothing.com.br/regata-under-tribe-chillibaw-154002",
+    "name": "REGATA UNDER TRIBE CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-regular-work-fire-chillibaw-153996/364808-1.jpg?w=556&h=833&v=202610071449",
+    "url": "https://www.bawclothing.com.br/calca-regular-work-fire-chillibaw-153996",
+    "name": "CALÇA REGULAR WORK FIRE CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "299.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/meia-cano-alto-tribe-chillibaw-153999/364817-1.jpg?w=556&h=833&v=202610071541",
+    "url": "https://www.bawclothing.com.br/meia-cano-alto-tribe-chillibaw-153999",
+    "name": "MEIA CANO ALTO TRIBE CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "29.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/meia-cano-alto-fire-chillibaw-153997/364809-1.jpg?w=556&h=833&v=202610071536",
+    "url": "https://www.bawclothing.com.br/meia-cano-alto-fire-chillibaw-153997",
+    "name": "MEIA CANO ALTO FIRE CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "29.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/carteira-velcro-chillibaw-153993/364805-1.jpg?w=556&h=833&v=202610081213",
+    "url": "https://www.bawclothing.com.br/carteira-velcro-chillibaw-153993",
+    "name": "CARTEIRA VELCRO CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-trucker-chillibaw-153991/364802-9.jpg?w=556&h=833&v=202610081227",
+    "url": "https://www.bawclothing.com.br/bone-trucker-chillibaw-153991",
+    "name": "BONÉ TRUCKER CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-trucker-tribe-chillibaw-153989/364801-1.jpg?w=556&h=833&v=202610071053",
+    "url": "https://www.bawclothing.com.br/bone-trucker-tribe-chillibaw-153989",
+    "name": "BONÉ TRUCKER TRIBE CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-color-baw-metal-plate-153976/364784-1.jpg?w=556&h=833&v=202609231613",
+    "url": "https://www.bawclothing.com.br/moletom-color-baw-metal-plate-153976",
+    "name": "MOLETOM COLOR BAW METAL PLATE",
+    "offers": {
+     "@type": "Offer",
+     "price": "219.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-baw-r-colors-153974/364772-1.jpg?w=556&h=833&v=202609291730",
+    "url": "https://www.bawclothing.com.br/moletom-baw-r-colors-153974",
+    "name": "MOLETOM BAW R COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-color-baw-metal-plate-153973/364763-1.jpg?w=556&h=833&v=202609241456",
+    "url": "https://www.bawclothing.com.br/moletom-color-baw-metal-plate-153973",
+    "name": "MOLETOM COLOR BAW METAL PLATE",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-baw-r-colors-153972/364762-1.jpg?w=556&h=833&v=202609291733",
+    "url": "https://www.bawclothing.com.br/moletom-baw-r-colors-153972",
+    "name": "MOLETOM BAW R COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-baw-r-colors-153971/364753-1.jpg?w=556&h=833&v=202609291721",
+    "url": "https://www.bawclothing.com.br/moletom-baw-r-colors-153971",
+    "name": "MOLETOM BAW R COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-baw-r-colors-153969/364721-1.jpg?w=556&h=833&v=202609291728",
+    "url": "https://www.bawclothing.com.br/moletom-baw-r-colors-153969",
+    "name": "MOLETOM BAW R COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-baw-r-colors-153966/364720-1.jpg?w=556&h=833&v=202609291716",
+    "url": "https://www.bawclothing.com.br/moletom-baw-r-colors-153966",
+    "name": "MOLETOM BAW R COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-friso-baw-athletics-153953/364638-1.jpg?w=556&h=833&v=202609301010",
+    "url": "https://www.bawclothing.com.br/top-friso-baw-athletics-153953",
+    "name": "TOP FRISO BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-friso-baw-athletics-153952/364639-1.jpg?w=556&h=833&v=202609301011",
+    "url": "https://www.bawclothing.com.br/top-friso-baw-athletics-153952",
+    "name": "TOP FRISO BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-nadador-baw-athletics-153951/364632-1.jpg?w=556&h=833&v=202609301116",
+    "url": "https://www.bawclothing.com.br/top-nadador-baw-athletics-153951",
+    "name": "TOP NADADOR BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-gym-baw-athletics-153950/364627-1.jpg?w=556&h=833&v=202609301114",
+    "url": "https://www.bawclothing.com.br/shorts-gym-baw-athletics-153950",
+    "name": "SHORTS GYM BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-sleeveless-baw-athletics-153948/364618-1.jpg?w=556&h=833&v=202610011641",
+    "url": "https://www.bawclothing.com.br/moletom-sleeveless-baw-athletics-153948",
+    "name": "MOLETOM SLEEVELESS BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/long-shorts-baw-athletics-153946/364602-1.jpg?w=556&h=833&v=202609301006",
+    "url": "https://www.bawclothing.com.br/long-shorts-baw-athletics-153946",
+    "name": "LONG SHORTS BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-cropped-baw-athletics-153945/364597-1.jpg?w=556&h=833&v=202609301107",
+    "url": "https://www.bawclothing.com.br/jaqueta-cropped-baw-athletics-153945",
+    "name": "JAQUETA CROPPED BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "299.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/headband-baw-athletics-153944/364596-1.jpg?w=556&h=833&v=202609301004",
+    "url": "https://www.bawclothing.com.br/headband-baw-athletics-153944",
+    "name": "HEADBAND BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "19.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/headband-baw-athletics-153943/364595-1.jpg?w=556&h=833&v=202609301005",
+    "url": "https://www.bawclothing.com.br/headband-baw-athletics-153943",
+    "name": "HEADBAND BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "19.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-legging-friso-baw-athletics-153940/364574-1.jpg?w=556&h=833&v=202609300958",
+    "url": "https://www.bawclothing.com.br/calca-legging-friso-baw-athletics-153940",
+    "name": "CALÇA LEGGING FRISO BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-legging-friso-baw-athletics-153939/364573-1.jpg?w=556&h=833&v=202609301002",
+    "url": "https://www.bawclothing.com.br/calca-legging-friso-baw-athletics-153939",
+    "name": "CALÇA LEGGING FRISO BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/blusa-manga-longa-baw-athletics-153938/364566-1.jpg?w=556&h=833&v=202609301057",
+    "url": "https://www.bawclothing.com.br/blusa-manga-longa-baw-athletics-153938",
+    "name": "BLUSA MANGA LONGA BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "109.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/blusa-manga-longa-baw-athletics-153937/364565-1.jpg?w=556&h=833&v=202609301059",
+    "url": "https://www.bawclothing.com.br/blusa-manga-longa-baw-athletics-153937",
+    "name": "BLUSA MANGA LONGA BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "109.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/biker-friso-baw-athletics-153936/364559-1.jpg?w=556&h=833&v=202609301053",
+    "url": "https://www.bawclothing.com.br/biker-friso-baw-athletics-153936",
+    "name": "BIKER FRISO BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/biker-friso-baw-athletics-153935/364553-1.jpg?w=556&h=833&v=202609301055",
+    "url": "https://www.bawclothing.com.br/biker-friso-baw-athletics-153935",
+    "name": "BIKER FRISO BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/biker-baw-athletics-153934/364550-1.jpg?w=556&h=833&v=202609301050",
+    "url": "https://www.bawclothing.com.br/biker-baw-athletics-153934",
+    "name": "BIKER BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-five-panel-marley-futbol-153925/364499-1.jpg?w=556&h=833&v=202609141147",
+    "url": "https://www.bawclothing.com.br/bone-five-panel-marley-futbol-153925",
+    "name": "BONE FIVE PANEL MARLEY FUTBOL",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/chaveiro-caixa-de-fosforo-one-love-baw-153923/364492-1.jpg?w=556&h=833&v=202609101201",
+    "url": "https://www.bawclothing.com.br/chaveiro-caixa-de-fosforo-one-love-baw-153923",
+    "name": "CHAVEIRO CAIXA DE FOSFORO ONE LOVE BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "29.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-carpenter-bob-marley-one-love-153915/364454-1.jpg?w=556&h=833&v=202611171546",
+    "url": "https://www.bawclothing.com.br/bermuda-carpenter-bob-marley-one-love-153915",
+    "name": "BERMUDA CARPENTER BOB MARLEY ONE LOVE",
+    "offers": {
+     "@type": "Offer",
+     "price": "399.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-bob-marley-one-love-footbaw-club-153920/364478-1.jpg?w=556&h=833&v=202609141144",
+    "url": "https://www.bawclothing.com.br/bone-bob-marley-one-love-footbaw-club-153920",
+    "name": "BONE BOB MARLEY ONE LOVE FOOTBAW CLUB",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-bob-marley-jammin-baw-153919/364477-1.jpg?w=556&h=833&v=202609101406",
+    "url": "https://www.bawclothing.com.br/bone-bob-marley-jammin-baw-153919",
+    "name": "BONE BOB MARLEY JAMMIN BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-five-panel-bob-marley-one-love-153918/364476-1.jpg?w=556&h=833&v=202609141143",
+    "url": "https://www.bawclothing.com.br/bone-five-panel-bob-marley-one-love-153918",
+    "name": "BONE FIVE PANEL BOB MARLEY ONE LOVE",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-marley-futbol-153916/364455-1.jpg?w=556&h=833&v=202609101619",
+    "url": "https://www.bawclothing.com.br/camiseta-marley-futbol-153916",
+    "name": "CAMISETA MARLEY FUTBOL",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-bob-marley-three-little-birds-153914/364453-1.jpg?w=556&h=833&v=202609101046",
+    "url": "https://www.bawclothing.com.br/baby-tee-bob-marley-three-little-birds-153914",
+    "name": "BABY TEE BOB MARLEY THREE LITTLE BIRDS",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jersey-bob-marley-tuff-gong-153907/364406-1.jpg?w=556&h=833&v=202609101154",
+    "url": "https://www.bawclothing.com.br/jersey-bob-marley-tuff-gong-153907",
+    "name": "JERSEY BOB MARLEY TUFF GONG",
+    "offers": {
+     "@type": "Offer",
+     "price": "229.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-bob-marley-1977-153908/364402-1.jpg?w=556&h=833&v=202609101132",
+    "url": "https://www.bawclothing.com.br/moletom-bob-marley-1977-153908",
+    "name": "MOLETOM BOB MARLEY 1977",
+    "offers": {
+     "@type": "Offer",
+     "price": "259.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-sherpa-bob-marley-one-love-153904/364387-1.jpg?w=556&h=833&v=202609101609",
+    "url": "https://www.bawclothing.com.br/moletom-sherpa-bob-marley-one-love-153904",
+    "name": "MOLETOM SHERPA BOB MARLEY ONE LOVE",
+    "offers": {
+     "@type": "Offer",
+     "price": "399.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-raglan-bob-marley-1977-153906/364405-1.jpg?w=556&h=833&v=202609211600",
+    "url": "https://www.bawclothing.com.br/camiseta-raglan-bob-marley-1977-153906",
+    "name": "CAMISETA RAGLAN BOB MARLEY 1977",
+    "offers": {
+     "@type": "Offer",
+     "price": "119.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-bob-marley-one-love-footbaw-club-153911/364395-1.jpg?w=556&h=833&v=202609141058",
+    "url": "https://www.bawclothing.com.br/moletom-bob-marley-one-love-footbaw-club-153911",
+    "name": "MOLETOM BOB MARLEY ONE LOVE FOOTBAW CLUB",
+    "offers": {
+     "@type": "Offer",
+     "price": "239.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jersey-bob-marley-uprising-football-153910/364394-1.jpg?w=556&h=833&v=202609101126",
+    "url": "https://www.bawclothing.com.br/jersey-bob-marley-uprising-football-153910",
+    "name": "JERSEY BOB MARLEY UPRISING FOOTBALL",
+    "offers": {
+     "@type": "Offer",
+     "price": "229.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-bob-marley-futbol-153905/364389-1.jpg?w=556&h=833&v=202609101043",
+    "url": "https://www.bawclothing.com.br/camiseta-bob-marley-futbol-153905",
+    "name": "CAMISETA BOB MARLEY FUTBOL",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-bob-marley-uprising-football-153903/364399-1.jpg?w=556&h=833&v=202609211603",
+    "url": "https://www.bawclothing.com.br/camiseta-bob-marley-uprising-football-153903",
+    "name": "CAMISETA BOB MARLEY UPRISING FOOTBALL",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-varsity-bob-marley-futbol-153901/364381-1.jpg?w=556&h=833&v=202609141151",
+    "url": "https://www.bawclothing.com.br/jaqueta-varsity-bob-marley-futbol-153901",
+    "name": "JAQUETA VARSITY BOB MARLEY FUTBOL",
+    "offers": {
+     "@type": "Offer",
+     "price": "599.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/chaveiro-caixa-de-fosforo-bob-marley-baw-153902/364386-1.jpg?w=556&h=833&v=202609101101",
+    "url": "https://www.bawclothing.com.br/chaveiro-caixa-de-fosforo-bob-marley-baw-153902",
+    "name": "CHAVEIRO CAIXA DE FOSFORO BOB MARLEY BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "29.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-bob-marley-signature-one-love-153900/364380-1.jpg?w=556&h=833&v=202609101048",
+    "url": "https://www.bawclothing.com.br/baby-tee-bob-marley-signature-one-love-153900",
+    "name": "BABY TEE BOB MARLEY SIGNATURE ONE LOVE",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-hoodie-zip-destroyed-153889/364304-1.jpg?w=556&h=833&v=202608251213",
+    "url": "https://www.bawclothing.com.br/moletom-hoodie-zip-destroyed-153889",
+    "name": "MOLETOM HOODIE ZIP DESTROYED",
+    "offers": {
+     "@type": "Offer",
+     "price": "219.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-hoodie-zip-destroyed-153888/364303-1.jpg?w=556&h=833&v=202608261106",
+    "url": "https://www.bawclothing.com.br/moletom-hoodie-zip-destroyed-153888",
+    "name": "MOLETOM HOODIE ZIP DESTROYED",
+    "offers": {
+     "@type": "Offer",
+     "price": "199.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-track-baw-tag-153886/364282-1.jpg?w=556&h=833&v=202608181742",
+    "url": "https://www.bawclothing.com.br/calca-track-baw-tag-153886",
+    "name": "CALÇA TRACK BAW TAG",
+    "offers": {
+     "@type": "Offer",
+     "price": "199.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-track-baw-tag-153885/364279-1.jpg?w=556&h=833&v=202608181741",
+    "url": "https://www.bawclothing.com.br/calca-track-baw-tag-153885",
+    "name": "CALÇA TRACK BAW TAG",
+    "offers": {
+     "@type": "Offer",
+     "price": "219.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-sleeveless-trs-x-baw-153865/364159-1.jpg?w=556&h=833&v=202608251217",
+    "url": "https://www.bawclothing.com.br/moletom-sleeveless-trs-x-baw-153865",
+    "name": "MOLETOM SLEEVELESS TRS X BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-color-baw-metal-plate-153877/364217-1.jpg?w=556&h=833&v=202608031538",
+    "url": "https://www.bawclothing.com.br/moletom-color-baw-metal-plate-153877",
+    "name": "MOLETOM COLOR BAW METAL PLATE",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-color-baw-metal-plate-153876/364216-1.jpg?w=556&h=833&v=202608031538",
+    "url": "https://www.bawclothing.com.br/moletom-color-baw-metal-plate-153876",
+    "name": "MOLETOM COLOR BAW METAL PLATE",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-color-baw-metal-plate-153875/364207-1.jpg?w=556&h=833&v=202608031537",
+    "url": "https://www.bawclothing.com.br/moletom-color-baw-metal-plate-153875",
+    "name": "MOLETOM COLOR BAW METAL PLATE",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/rash-guard-trs-x-baw-153874/364203-1.jpg?w=556&h=833&v=202608201707",
+    "url": "https://www.bawclothing.com.br/rash-guard-trs-x-baw-153874",
+    "name": "RASH GUARD TRS X BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regatao-trs-x-baw-153873/364197-1.jpg?w=556&h=833&v=202608201703",
+    "url": "https://www.bawclothing.com.br/regatao-trs-x-baw-153873",
+    "name": "REGATÃO TRS X BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-running-trs-x-baw-153872/364193-1.jpg?w=556&h=833&v=202608201701",
+    "url": "https://www.bawclothing.com.br/shorts-running-trs-x-baw-153872",
+    "name": "SHORTS RUNNING TRS X BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-perereca-trs-x-baw-153871/364181-1.jpg?w=556&h=833&v=202611121421",
+    "url": "https://www.bawclothing.com.br/shorts-perereca-trs-x-baw-153871",
+    "name": "SHORTS PERERECA TRS X BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-biker-trs-x-baw-153870/364178-1.jpg?w=556&h=833&v=202608201702",
+    "url": "https://www.bawclothing.com.br/shorts-biker-trs-x-baw-153870",
+    "name": "SHORTS BIKER TRS X BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regatao-performance-trs-x-baw-153866/364164-1.jpg?w=556&h=833&v=202608201706",
+    "url": "https://www.bawclothing.com.br/regatao-performance-trs-x-baw-153866",
+    "name": "REGATÃO PERFORMANCE TRS X BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regatao-performance-trs-x-baw-153867/364163-1.jpg?w=556&h=833&v=202608201706",
+    "url": "https://www.bawclothing.com.br/regatao-performance-trs-x-baw-153867",
+    "name": "REGATÃO PERFORMANCE TRS X BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "154266",
+   "href": "/guarda-sol-baw-ent-circuit-154266",
+   "nome": "GUARDA SOL BAW ENT CIRCUIT",
+   "preco": "R$ 299,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Colorido",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154260",
+   "href": "/bone-fitted-bawent-circuit-154260",
+   "nome": "BONÉ FITTED BAWENT CIRCUIT",
+   "preco": "R$ 199,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154264",
+   "href": "/calca-track-tape-bawent-circuit-154264",
+   "nome": "CALÇA TRACK TAPE BAWENT CIRCUIT",
+   "preco": "R$ 429,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Marinho/Rosa/Roxo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154262",
+   "href": "/camiseta-ml-bawent-circuit-154262",
+   "nome": "CAMISETA ML BAWENT CIRCUIT",
+   "preco": "R$ 179,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154265",
+   "href": "/jaqueta-bomber-bawent-circuit-154265",
+   "nome": "JAQUETA BOMBER BAWENT CIRCUIT",
+   "preco": "R$ 799,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Marinho/Rosa/Roxo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154259",
+   "href": "/jersey-ml-baw-circuit-154259",
+   "nome": "JERSEY ML BAW CIRCUIT",
+   "preco": "R$ 349,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Marinho/Rosa/Roxo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154261",
+   "href": "/camiseta-oversized-bawent-circuit-154261",
+   "nome": "CAMISETA OVERSIZED BAWENT CIRCUIT",
+   "preco": "R$ 169,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154263",
+   "href": "/moletom-sleeveless-bawent-circuit-154263",
+   "nome": "MOLETOM SLEEVELESS BAWENT CIRCUIT",
+   "preco": "R$ 249,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154077",
+   "href": "/regata-rib-cropped-baw-colors-154077",
+   "nome": "REGATA RIB CROPPED BAW COLORS",
+   "preco": "R$ 79,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Caqui",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154076",
+   "href": "/regata-rib-cropped-baw-colors-154076",
+   "nome": "REGATA RIB CROPPED BAW COLORS",
+   "preco": "R$ 79,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Bege",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154075",
+   "href": "/regata-rib-cropped-baw-colors-154075",
+   "nome": "REGATA RIB CROPPED BAW COLORS",
+   "preco": "R$ 79,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Rosa Pink",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154074",
+   "href": "/regata-rib-cropped-baw-colors-154074",
+   "nome": "REGATA RIB CROPPED BAW COLORS",
+   "preco": "R$ 79,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Azul Royal",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154071",
+   "href": "/regata-rib-cropped-baw-colors-154071",
+   "nome": "REGATA RIB CROPPED BAW COLORS",
+   "preco": "R$ 79,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Marrom",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154068",
+   "href": "/regata-rib-cropped-baw-colors-154068",
+   "nome": "REGATA RIB CROPPED BAW COLORS",
+   "preco": "R$ 79,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154070",
+   "href": "/regata-rib-cropped-baw-colors-154070",
+   "nome": "REGATA RIB CROPPED BAW COLORS",
+   "preco": "R$ 79,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154069",
+   "href": "/regata-rib-cropped-baw-colors-154069",
+   "nome": "REGATA RIB CROPPED BAW COLORS",
+   "preco": "R$ 79,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Verde Musgo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154060",
+   "href": "/baby-tee-baw-colorways-154060",
+   "nome": "BABY TEE BAW COLORWAYS",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Rosa Claro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154061",
+   "href": "/baby-tee-baw-colorways-154061",
+   "nome": "BABY TEE BAW COLORWAYS",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Roxo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154063",
+   "href": "/baby-tee-baw-colorways-154063",
+   "nome": "BABY TEE BAW COLORWAYS",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154059",
+   "href": "/baby-tee-baw-colorways-154059",
+   "nome": "BABY TEE BAW COLORWAYS",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154062",
+   "href": "/baby-tee-baw-colorways-154062",
+   "nome": "BABY TEE BAW COLORWAYS",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Amarelo Claro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154058",
+   "href": "/baby-look-rib-black-n-white-154058",
+   "nome": "BABY LOOK RIB BLACK N WHITE",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154057",
+   "href": "/baby-look-rib-black-n-white-154057",
+   "nome": "BABY LOOK RIB BLACK N WHITE",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154020",
+   "href": "/camiseta-oversized-doggy-style-black-154020",
+   "nome": "CAMISETA OVERSIZED DOGGY STYLE BLACK",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154018",
+   "href": "/camiseta-oversized-howl-baw-154018",
+   "nome": "CAMISETA OVERSIZED HOWL BAW",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154019",
+   "href": "/camiseta-oversized-outer-space-black-154019",
+   "nome": "CAMISETA OVERSIZED OUTER SPACE BLACK",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154014",
+   "href": "/camiseta-oversized-baw-metal-154014",
+   "nome": "CAMISETA OVERSIZED BAW METAL",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154015",
+   "href": "/camiseta-oversized-rearview-black-154015",
+   "nome": "CAMISETA OVERSIZED REARVIEW BLACK",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154013",
+   "href": "/camiseta-oversized-backfire-black-154013",
+   "nome": "CAMISETA OVERSIZED BACKFIRE BLACK",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154011",
+   "href": "/camiseta-oversized-tag-baw-154011",
+   "nome": "CAMISETA OVERSIZED TAG BAW",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154010",
+   "href": "/camiseta-oversized-cherub-baw-154010",
+   "nome": "CAMISETA OVERSIZED CHERUB BAW",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154009",
+   "href": "/camiseta-oversized-cherub-baw-154009",
+   "nome": "CAMISETA OVERSIZED CHERUB BAW",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153990",
+   "href": "/bermuda-jeans-5-pockets-chillibaw-153990",
+   "nome": "BERMUDA JEANS 5 POCKETS CHILLIBAW",
+   "preco": "R$ 249,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154007",
+   "href": "/camiseta-oversized-tribe-chillibaw-154007",
+   "nome": "CAMISETA OVERSIZED TRIBE CHILLIBAW",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 219,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154005",
+   "href": "/camiseta-slim-hell-heart-chillibaw-154005",
+   "nome": "CAMISETA SLIM HELL HEART CHILLIBAW",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "47%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154000",
+   "href": "/camiseta-oversized-hell-heart-chillibaw-154000",
+   "nome": "CAMISETA OVERSIZED HELL HEART CHILLIBAW",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154002",
+   "href": "/regata-under-tribe-chillibaw-154002",
+   "nome": "REGATA UNDER TRIBE CHILLIBAW",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "31%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153996",
+   "href": "/calca-regular-work-fire-chillibaw-153996",
+   "nome": "CALÇA REGULAR WORK FIRE CHILLIBAW",
+   "preco": "R$ 299,00",
+   "preco_de": "R$ 499,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Denim",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153999",
+   "href": "/meia-cano-alto-tribe-chillibaw-153999",
+   "nome": "MEIA CANO ALTO TRIBE CHILLIBAW",
+   "preco": "R$ 29,00",
+   "preco_de": "R$ 49,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153997",
+   "href": "/meia-cano-alto-fire-chillibaw-153997",
+   "nome": "MEIA CANO ALTO FIRE CHILLIBAW",
+   "preco": "R$ 29,00",
+   "preco_de": "R$ 49,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Preto/Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153993",
+   "href": "/carteira-velcro-chillibaw-153993",
+   "nome": "CARTEIRA VELCRO CHILLIBAW",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "31%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153991",
+   "href": "/bone-trucker-chillibaw-153991",
+   "nome": "BONÉ TRUCKER CHILLIBAW",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Branco E Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153989",
+   "href": "/bone-trucker-tribe-chillibaw-153989",
+   "nome": "BONÉ TRUCKER TRIBE CHILLIBAW",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153976",
+   "href": "/moletom-color-baw-metal-plate-153976",
+   "nome": "MOLETOM COLOR BAW METAL PLATE",
+   "preco": "R$ 219,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "12%",
+   "selos": null,
+   "cor": "Chumbo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153974",
+   "href": "/moletom-baw-r-colors-153974",
+   "nome": "MOLETOM BAW R COLORS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Rosa Chiclete",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153973",
+   "href": "/moletom-color-baw-metal-plate-153973",
+   "nome": "MOLETOM COLOR BAW METAL PLATE",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "48%",
+   "selos": null,
+   "cor": "Azul Bebe",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153972",
+   "href": "/moletom-baw-r-colors-153972",
+   "nome": "MOLETOM BAW R COLORS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Azul Medio",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153971",
+   "href": "/moletom-baw-r-colors-153971",
+   "nome": "MOLETOM BAW R COLORS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Cinza Mescla Claro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153969",
+   "href": "/moletom-baw-r-colors-153969",
+   "nome": "MOLETOM BAW R COLORS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Rosa",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153966",
+   "href": "/moletom-baw-r-colors-153966",
+   "nome": "MOLETOM BAW R COLORS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Amarelo Lima",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153953",
+   "href": "/top-friso-baw-athletics-153953",
+   "nome": "TOP FRISO BAW ATHLETICS",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "31%",
+   "selos": null,
+   "cor": "Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153952",
+   "href": "/top-friso-baw-athletics-153952",
+   "nome": "TOP FRISO BAW ATHLETICS",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "31%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153951",
+   "href": "/top-nadador-baw-athletics-153951",
+   "nome": "TOP NADADOR BAW ATHLETICS",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Rosa",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153950",
+   "href": "/shorts-gym-baw-athletics-153950",
+   "nome": "SHORTS GYM BAW ATHLETICS",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 219,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Rosa/Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153948",
+   "href": "/moletom-sleeveless-baw-athletics-153948",
+   "nome": "MOLETOM SLEEVELESS BAW ATHLETICS",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153946",
+   "href": "/long-shorts-baw-athletics-153946",
+   "nome": "LONG SHORTS BAW ATHLETICS",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153945",
+   "href": "/jaqueta-cropped-baw-athletics-153945",
+   "nome": "JAQUETA CROPPED BAW ATHLETICS",
+   "preco": "R$ 299,00",
+   "preco_de": "R$ 449,00",
+   "selo_off": "33%",
+   "selos": null,
+   "cor": "Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153944",
+   "href": "/headband-baw-athletics-153944",
+   "nome": "HEADBAND BAW ATHLETICS",
+   "preco": "R$ 19,00",
+   "preco_de": "R$ 39,00",
+   "selo_off": "51%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153943",
+   "href": "/headband-baw-athletics-153943",
+   "nome": "HEADBAND BAW ATHLETICS",
+   "preco": "R$ 19,00",
+   "preco_de": "R$ 39,00",
+   "selo_off": "51%",
+   "selos": null,
+   "cor": "Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153940",
+   "href": "/calca-legging-friso-baw-athletics-153940",
+   "nome": "CALÇA LEGGING FRISO BAW ATHLETICS",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 219,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153939",
+   "href": "/calca-legging-friso-baw-athletics-153939",
+   "nome": "CALÇA LEGGING FRISO BAW ATHLETICS",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 219,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153938",
+   "href": "/blusa-manga-longa-baw-athletics-153938",
+   "nome": "BLUSA MANGA LONGA BAW ATHLETICS",
+   "preco": "R$ 109,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "36%",
+   "selos": null,
+   "cor": "Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153937",
+   "href": "/blusa-manga-longa-baw-athletics-153937",
+   "nome": "BLUSA MANGA LONGA BAW ATHLETICS",
+   "preco": "R$ 109,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "36%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153936",
+   "href": "/biker-friso-baw-athletics-153936",
+   "nome": "BIKER FRISO BAW ATHLETICS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153935",
+   "href": "/biker-friso-baw-athletics-153935",
+   "nome": "BIKER FRISO BAW ATHLETICS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153934",
+   "href": "/biker-baw-athletics-153934",
+   "nome": "BIKER BAW ATHLETICS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Rosa",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153925",
+   "href": "/bone-five-panel-marley-futbol-153925",
+   "nome": "BONE FIVE PANEL MARLEY FUTBOL",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153923",
+   "href": "/chaveiro-caixa-de-fosforo-one-love-baw-153923",
+   "nome": "CHAVEIRO CAIXA DE FOSFORO ONE LOVE BAW",
+   "preco": "R$ 29,00",
+   "preco_de": "R$ 49,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153915",
+   "href": "/bermuda-carpenter-bob-marley-one-love-153915",
+   "nome": "BERMUDA CARPENTER BOB MARLEY ONE LOVE",
+   "preco": "R$ 399,00",
+   "preco_de": "R$ 599,00",
+   "selo_off": "33%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153920",
+   "href": "/bone-bob-marley-one-love-footbaw-club-153920",
+   "nome": "BONE BOB MARLEY ONE LOVE FOOTBAW CLUB",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153919",
+   "href": "/bone-bob-marley-jammin-baw-153919",
+   "nome": "BONE BOB MARLEY JAMMIN BAW",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153918",
+   "href": "/bone-five-panel-bob-marley-one-love-153918",
+   "nome": "BONE FIVE PANEL BOB MARLEY ONE LOVE",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153916",
+   "href": "/camiseta-marley-futbol-153916",
+   "nome": "CAMISETA MARLEY FUTBOL",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153914",
+   "href": "/baby-tee-bob-marley-three-little-birds-153914",
+   "nome": "BABY TEE BOB MARLEY THREE LITTLE BIRDS",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "44%",
+   "selos": null,
+   "cor": "Off White/Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153907",
+   "href": "/jersey-bob-marley-tuff-gong-153907",
+   "nome": "JERSEY BOB MARLEY TUFF GONG",
+   "preco": "R$ 229,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153908",
+   "href": "/moletom-bob-marley-1977-153908",
+   "nome": "MOLETOM BOB MARLEY 1977",
+   "preco": "R$ 259,00",
+   "preco_de": "R$ 499,00",
+   "selo_off": "48%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153904",
+   "href": "/moletom-sherpa-bob-marley-one-love-153904",
+   "nome": "MOLETOM SHERPA BOB MARLEY ONE LOVE",
+   "preco": "R$ 399,00",
+   "preco_de": "R$ 599,00",
+   "selo_off": "33%",
+   "selos": null,
+   "cor": "Verde/Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153906",
+   "href": "/camiseta-raglan-bob-marley-1977-153906",
+   "nome": "CAMISETA RAGLAN BOB MARLEY 1977",
+   "preco": "R$ 119,00",
+   "preco_de": "R$ 179,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Off White/Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153911",
+   "href": "/moletom-bob-marley-one-love-footbaw-club-153911",
+   "nome": "MOLETOM BOB MARLEY ONE LOVE FOOTBAW CLUB",
+   "preco": "R$ 239,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Preto/Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153910",
+   "href": "/jersey-bob-marley-uprising-football-153910",
+   "nome": "JERSEY BOB MARLEY UPRISING FOOTBALL",
+   "preco": "R$ 229,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153905",
+   "href": "/camiseta-bob-marley-futbol-153905",
+   "nome": "CAMISETA BOB MARLEY FUTBOL",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153903",
+   "href": "/camiseta-bob-marley-uprising-football-153903",
+   "nome": "CAMISETA BOB MARLEY UPRISING FOOTBALL",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 179,00",
+   "selo_off": "45%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153901",
+   "href": "/jaqueta-varsity-bob-marley-futbol-153901",
+   "nome": "JAQUETA VARSITY BOB MARLEY FUTBOL",
+   "preco": "R$ 599,00",
+   "preco_de": "R$ 1.299,00",
+   "selo_off": "54%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153902",
+   "href": "/chaveiro-caixa-de-fosforo-bob-marley-baw-153902",
+   "nome": "CHAVEIRO CAIXA DE FOSFORO BOB MARLEY BAW",
+   "preco": "R$ 29,00",
+   "preco_de": "R$ 49,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153900",
+   "href": "/baby-tee-bob-marley-signature-one-love-153900",
+   "nome": "BABY TEE BOB MARLEY SIGNATURE ONE LOVE",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153889",
+   "href": "/moletom-hoodie-zip-destroyed-153889",
+   "nome": "MOLETOM HOODIE ZIP DESTROYED",
+   "preco": "R$ 219,00",
+   "preco_de": "R$ 369,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Cinza",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153888",
+   "href": "/moletom-hoodie-zip-destroyed-153888",
+   "nome": "MOLETOM HOODIE ZIP DESTROYED",
+   "preco": "R$ 199,00",
+   "preco_de": "R$ 369,00",
+   "selo_off": "46%",
+   "selos": null,
+   "cor": "Vermelho Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153886",
+   "href": "/calca-track-baw-tag-153886",
+   "nome": "CALÇA TRACK BAW TAG",
+   "preco": "R$ 199,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "43%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153885",
+   "href": "/calca-track-baw-tag-153885",
+   "nome": "CALÇA TRACK BAW TAG",
+   "preco": "R$ 219,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "37%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153865",
+   "href": "/moletom-sleeveless-trs-x-baw-153865",
+   "nome": "MOLETOM SLEEVELESS TRS X BAW",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 219,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Marrom",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153877",
+   "href": "/moletom-color-baw-metal-plate-153877",
+   "nome": "MOLETOM COLOR BAW METAL PLATE",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Rosa Claro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153876",
+   "href": "/moletom-color-baw-metal-plate-153876",
+   "nome": "MOLETOM COLOR BAW METAL PLATE",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Marrom",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153875",
+   "href": "/moletom-color-baw-metal-plate-153875",
+   "nome": "MOLETOM COLOR BAW METAL PLATE",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Bege",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153874",
+   "href": "/rash-guard-trs-x-baw-153874",
+   "nome": "RASH GUARD TRS X BAW",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Marrom",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153873",
+   "href": "/regatao-trs-x-baw-153873",
+   "nome": "REGATÃO TRS X BAW",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 179,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Marrom",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153872",
+   "href": "/shorts-running-trs-x-baw-153872",
+   "nome": "SHORTS RUNNING TRS X BAW",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "44%",
+   "selos": null,
+   "cor": "Marrom/Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153871",
+   "href": "/shorts-perereca-trs-x-baw-153871",
+   "nome": "SHORTS PERERECA TRS X BAW",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 229,00",
+   "selo_off": "39%",
+   "selos": null,
+   "cor": "Marrom",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153870",
+   "href": "/shorts-biker-trs-x-baw-153870",
+   "nome": "SHORTS BIKER TRS X BAW",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153866",
+   "href": "/regatao-performance-trs-x-baw-153866",
+   "nome": "REGATÃO PERFORMANCE TRS X BAW",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 179,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Marrom",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153867",
+   "href": "/regatao-performance-trs-x-baw-153867",
+   "nome": "REGATÃO PERFORMANCE TRS X BAW",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 179,00",
+   "selo_off": "45%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  }
+ ]
+}

@@ -1,0 +1,2217 @@
+{
+ "arquivo_origem": "sale-p1.html",
+ "sha256_origem": "e037008460440b3d1b9d3305a69590dc2a31de3fe6192dea032732ec796cf464",
+ "titulo": "Sale",
+ "title_pagina": "Roupas em promoção da Baw Clothing",
+ "contagem_pagina": 734,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/sale",
+  "numberOfItems": "734",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-athletic-logo-3-0-150909/340941.jpg?w=556&h=833&v=202512111129",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-athletic-logo-3-0-150909",
+    "name": "CAMISETA REGULAR ATHLETIC LOGO 3.0",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-athletic-logo-3-0-150813/340355.jpg?w=556&h=833&v=202509170244",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-athletic-logo-3-0-150813",
+    "name": "CAMISETA REGULAR ATHLETIC LOGO 3.0",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-puffer-premium-essentals-150753/339969.jpg?w=556&h=833&v=202509162252",
+    "url": "https://www.bawclothing.com.br/jaqueta-puffer-premium-essentals-150753",
+    "name": "JAQUETA PUFFER PREMIUM ESSENTALS",
+    "offers": {
+     "@type": "Offer",
+     "price": "359.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-graff-logo-3-0-150910/340954.jpg?w=556&h=833&v=202509170200",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-graff-logo-3-0-150910",
+    "name": "CAMISETA REGULAR GRAFF LOGO 3.0",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-graff-logo-3-0-150819/340376.jpg?w=556&h=833&v=202511271839",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-graff-logo-3-0-150819",
+    "name": "CAMISETA REGULAR GRAFF LOGO 3.0",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-fresh-150906/340932.jpg?w=556&h=833&v=202602031437",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-fresh-150906",
+    "name": "CAMISETA OVERSIZED BAW FRESH",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-new-over-baw-watchdog-150720/339776-1.jpg?w=556&h=833&v=202605131905",
+    "url": "https://www.bawclothing.com.br/camiseta-new-over-baw-watchdog-150720",
+    "name": "CAMISETA NEW OVER BAW WATCHDOG",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-fresh-150907/340924.jpg?w=556&h=833&v=202509161327",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-fresh-150907",
+    "name": "CAMISETA OVERSIZED BAW FRESH",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calcinha-152168/352585-1.jpg?w=556&h=833&v=202602261536",
+    "url": "https://www.bawclothing.com.br/calcinha-152168",
+    "name": "CALCINHA",
+    "offers": {
+     "@type": "Offer",
+     "price": "9.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-goth-3-0-151220/344544.jpg?w=556&h=833&v=202601201521",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-goth-3-0-151220",
+    "name": "CAMISETA REGULAR GOTH 3.0",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-delivery-150316/337720.jpg?w=556&h=833&v=202509221255",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-delivery-150316",
+    "name": "CAMISETA REGULAR BAW DELIVERY",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-x-smiley-seeking-150589/339185.jpg?w=556&h=833&v=202510281720",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-x-smiley-seeking-150589",
+    "name": "CAMISETA REGULAR BAW X SMILEY SEEKING",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-subscript-151896/362776-1.jpg?w=556&h=833&v=202603271705",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-subscript-151896",
+    "name": "CAMISETA OVERSIZED BAW SUBSCRIPT",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-baw-athletic-logo-150302/337612.jpg?w=556&h=833&v=202510171531",
+    "url": "https://www.bawclothing.com.br/camiseta-baw-athletic-logo-150302",
+    "name": "CAMISETA BAW ATHLETIC LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-fun-baw-x-disney-150551/339006.jpg?w=556&h=833&v=202509170107",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-fun-baw-x-disney-150551",
+    "name": "CAMISETA REGULAR FUN BAW X DISNEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-mania-baw-x-disney-150935/341136.jpg?w=556&h=833&v=202509221246",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-mania-baw-x-disney-150935",
+    "name": "CAMISETA OVERSIZED MANIA BAW X DISNEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-basic-label-153708/363214-1.jpg?w=556&h=833&v=202605121604",
+    "url": "https://www.bawclothing.com.br/moletom-basic-label-153708",
+    "name": "MOLETOM BASIC LABEL",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-subscript-151934/362756-1.jpg?w=556&h=833&v=202603271703",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-subscript-151934",
+    "name": "CAMISETA OVERSIZED BAW SUBSCRIPT",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-backspin-152997/358598-1.jpg?w=556&h=833&v=202605151707",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-backspin-152997",
+    "name": "CAMISETA OVERSIZED BACKSPIN",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-selfie-logo-153490/361694-1.jpg?w=556&h=833&v=202604061628",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-selfie-logo-153490",
+    "name": "CAMISETA REGULAR SELFIE LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/turtleneck-baw-future-150785/340147.jpg?w=556&h=833&v=202510291548",
+    "url": "https://www.bawclothing.com.br/turtleneck-baw-future-150785",
+    "name": "TURTLENECK BAW FUTURE",
+    "offers": {
+     "@type": "Offer",
+     "price": "359.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-skater-cargo-baw-x-sd-150949/341223.jpg?w=556&h=833&v=202510301232",
+    "url": "https://www.bawclothing.com.br/calca-skater-cargo-baw-x-sd-150949",
+    "name": "CALCA SKATER CARGO BAW X SD",
+    "offers": {
+     "@type": "Offer",
+     "price": "319.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-courage-baw-x-cartoon-150540/338978.jpg?w=556&h=833&v=202509181718",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-courage-baw-x-cartoon-150540",
+    "name": "CAMISETA OVERSIZED COURAGE BAW X CARTOON",
+    "offers": {
+     "@type": "Offer",
+     "price": "319.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-bold-logo-3-0-152924/358116.jpg?w=556&h=833&v=202512161520",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-bold-logo-3-0-152924",
+    "name": "CAMISETA REGULAR BOLD LOGO 3.0",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-embroidery-151167/342364.jpg?w=556&h=833&v=202509161227",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-embroidery-151167",
+    "name": "CAMISETA OVERSIZED BAW EMBROIDERY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-new-over-baw-mund-150945/341200.jpg?w=556&h=833&v=202509170016",
+    "url": "https://www.bawclothing.com.br/camiseta-new-over-baw-mund-150945",
+    "name": "CAMISETA NEW OVER BAW MUND",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-goth-3-0-151202/342867.jpg?w=556&h=833&v=202511141803",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-goth-3-0-151202",
+    "name": "CAMISETA REGULAR GOTH 3.0",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-bomber-recortes-baw-x-smiley-150537/339028.jpg?w=556&h=833&v=202509170011",
+    "url": "https://www.bawclothing.com.br/jaqueta-bomber-recortes-baw-x-smiley-150537",
+    "name": "JAQUETA BOMBER RECORTES BAW X SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "389.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-basic-label-153707/363200-1.jpg?w=556&h=833&v=202605121603",
+    "url": "https://www.bawclothing.com.br/moletom-basic-label-153707",
+    "name": "MOLETOM BASIC LABEL",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-windows-150501/338772.jpg?w=556&h=833&v=202510141600",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-windows-150501",
+    "name": "CAMISETA OVERSIZED  WINDOWS",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-puffer-premium-essentals-150764/340070.jpg?w=556&h=833&v=202509170048",
+    "url": "https://www.bawclothing.com.br/jaqueta-puffer-premium-essentals-150764",
+    "name": "JAQUETA PUFFER PREMIUM ESSENTALS",
+    "offers": {
+     "@type": "Offer",
+     "price": "359.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-hoodie-baw-subscript-151918/362739-1.jpg?w=556&h=833&v=202603271705",
+    "url": "https://www.bawclothing.com.br/moletom-hoodie-baw-subscript-151918",
+    "name": "MOLETOM HOODIE BAW SUBSCRIPT",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-bold-logo-3-0-151201/342832.jpg?w=556&h=833&v=202511141805",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-bold-logo-3-0-151201",
+    "name": "CAMISETA REGULAR BOLD LOGO 3.0",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-selfie-logo-150224/337277.jpg?w=556&h=833&v=202511031306",
+    "url": "https://www.bawclothing.com.br/camiseta-selfie-logo-150224",
+    "name": "CAMISETA SELFIE LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-basic-label-153706/363165-1.jpg?w=556&h=833&v=202605121602",
+    "url": "https://www.bawclothing.com.br/moletom-basic-label-153706",
+    "name": "MOLETOM BASIC LABEL",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-blur-152005/362757-1.jpg?w=556&h=833&v=202603271703",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-blur-152005",
+    "name": "CAMISETA REGULAR BAW BLUR",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-premium-essentials-150761/340028.jpg?w=556&h=833&v=202509170145",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-premium-essentials-150761",
+    "name": "CAMISETA REGULAR PREMIUM ESSENTIALS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-basic-label-153705/363164-1.jpg?w=556&h=833&v=202605121602",
+    "url": "https://www.bawclothing.com.br/moletom-basic-label-153705",
+    "name": "MOLETOM BASIC LABEL",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-fused-baw-151096/341980.jpg?w=556&h=833&v=202509161436",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-fused-baw-151096",
+    "name": "CAMISETA REGULAR FUSED BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-new-over-hiden-icon-classy-150591/339209.jpg?w=556&h=833&v=202509170151",
+    "url": "https://www.bawclothing.com.br/camiseta-new-over-hiden-icon-classy-150591",
+    "name": "CAMISETA NEW OVER HIDEN ICON CLASSY",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-baw-r-colors-153704/363163-1.jpg?w=556&h=833&v=202609231659",
+    "url": "https://www.bawclothing.com.br/moletom-baw-r-colors-153704",
+    "name": "MOLETOM BAW R COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-monster-3-0-151213/343881.jpg?w=556&h=833&v=202603161626",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-monster-3-0-151213",
+    "name": "CAMISETA REGULAR MONSTER 3.0",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-basic-baw-x-disney-150525/338890.jpg?w=556&h=833&v=202509170107",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-basic-baw-x-disney-150525",
+    "name": "CAMISETA REGULAR BASIC BAW X DISNEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-blur-151875/362743-1.jpg?w=556&h=833&v=202603271702",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-blur-151875",
+    "name": "CAMISETA REGULAR BAW BLUR",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-selfie-logo-153482/361624-1.jpg?w=556&h=833&v=202604061602",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-selfie-logo-153482",
+    "name": "CAMISETA REGULAR SELFIE LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-flip-dyed-premium-essentials-150885/340768.jpg?w=556&h=833&v=202509170245",
+    "url": "https://www.bawclothing.com.br/calca-flip-dyed-premium-essentials-150885",
+    "name": "CALCA FLIP DYED PREMIUM ESSENTIALS",
+    "offers": {
+     "@type": "Offer",
+     "price": "269.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-puffer-vintage-150882/340750.jpg?w=556&h=833&v=202509162241",
+    "url": "https://www.bawclothing.com.br/jaqueta-puffer-vintage-150882",
+    "name": "JAQUETA PUFFER VINTAGE",
+    "offers": {
+     "@type": "Offer",
+     "price": "399.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-disorder-3-0-150816/340378.jpg?w=556&h=833&v=202511141809",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-disorder-3-0-150816",
+    "name": "CAMISETA REGULAR DISORDER 3.0",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-hoodie-baw-subscript-151817/362772-1.jpg?w=556&h=833&v=202603271723",
+    "url": "https://www.bawclothing.com.br/moletom-hoodie-baw-subscript-151817",
+    "name": "MOLETOM HOODIE BAW SUBSCRIPT",
+    "offers": {
+     "@type": "Offer",
+     "price": "249.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-heavy-patch-logo-151915/350626-1.jpg?w=556&h=833&v=202604061538",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-heavy-patch-logo-151915",
+    "name": "CAMISETA REGULAR HEAVY PATCH LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-dog-person-151093/341942-1.jpg?w=556&h=833&v=202610221119",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-dog-person-151093",
+    "name": "CAMISETA REGULAR DOG PERSON",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-thug-lightning-150521/338873.jpg?w=556&h=833&v=202509170235",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-thug-lightning-150521",
+    "name": "CAMISETA OVERSIZED THUG LIGHTNING",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-baw-r-colors-153699/363158-1.jpg?w=556&h=833&v=202611131246",
+    "url": "https://www.bawclothing.com.br/moletom-baw-r-colors-153699",
+    "name": "MOLETOM BAW R COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-x-pica-pau-151228/345034.jpg?w=556&h=833&v=202509171542",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-x-pica-pau-151228",
+    "name": "CAMISETA OVERSIZED BAW X PICA PAU",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-tracker-jogger-cargo-150577/339191.jpg?w=556&h=833&v=202509170207",
+    "url": "https://www.bawclothing.com.br/calca-tracker-jogger-cargo-150577",
+    "name": "CALCA TRACKER JOGGER CARGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "289.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-college-hp-x-baw-153811/363835-1.jpg?w=556&h=833&v=202607231820",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-college-hp-x-baw-153811",
+    "name": "CAMISETA OVERSIZED COLLEGE HP X BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-angelo-153337/360764.jpg?w=556&h=833&v=202601091847",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-angelo-153337",
+    "name": "CAMISETA OVERSIZED ANGELO",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-new-over-baw-crew-150340/337874.jpg?w=556&h=833&v=202509231011",
+    "url": "https://www.bawclothing.com.br/camiseta-new-over-baw-crew-150340",
+    "name": "CAMISETA NEW OVER BAW CREW",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-baw-r-colors-153861/364141-1.jpg?w=556&h=833&v=202611111105",
+    "url": "https://www.bawclothing.com.br/moletom-baw-r-colors-153861",
+    "name": "MOLETOM BAW R COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regata-oversized-selfie-logo-colors-151069/341884-1.jpg?w=556&h=833&v=202605151710",
+    "url": "https://www.bawclothing.com.br/regata-oversized-selfie-logo-colors-151069",
+    "name": "REGATA OVERSIZED SELFIE LOGO COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camisa-baw-x-mitchell-e-ness-x-nfl-raiders-151012/341589.jpg?w=556&h=833&v=202509170034",
+    "url": "https://www.bawclothing.com.br/camisa-baw-x-mitchell-e-ness-x-nfl-raiders-151012",
+    "name": "CAMISA BAW X MITCHELL E NESS X NFL RAIDERS",
+    "offers": {
+     "@type": "Offer",
+     "price": "159.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-fingerprint-151968/362255-1.jpg?w=556&h=833&v=202604021153",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-fingerprint-151968",
+    "name": "CAMISETA REGULAR BAW FINGERPRINT",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/sweatshirt-cropped-selfie-logo-153494/361693-1.jpg?w=556&h=833&v=202611121437",
+    "url": "https://www.bawclothing.com.br/sweatshirt-cropped-selfie-logo-153494",
+    "name": "SWEATSHIRT CROPPED SELFIE LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "119.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-respect-151890/363010-1.jpg?w=556&h=833&v=202604231645",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-respect-151890",
+    "name": "CAMISETA OVERSIZED BAW RESPECT",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-baw-r-colors-153701/363210-1.jpg?w=556&h=833&v=202605121604",
+    "url": "https://www.bawclothing.com.br/moletom-baw-r-colors-153701",
+    "name": "MOLETOM BAW R COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-wide-fit-logo-153466/361498-1.jpg?w=556&h=833&v=202608181408",
+    "url": "https://www.bawclothing.com.br/calca-wide-fit-logo-153466",
+    "name": "CALCA WIDE FIT LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-baggy-cargo-corduroy-150663/339420.jpg?w=556&h=833&v=202509162254",
+    "url": "https://www.bawclothing.com.br/calca-baggy-cargo-corduroy-150663",
+    "name": "CALCA BAGGY CARGO CORDUROY",
+    "offers": {
+     "@type": "Offer",
+     "price": "319.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-boxy-baw-subscript-151883/362793-1.jpg?w=556&h=833&v=202603271721",
+    "url": "https://www.bawclothing.com.br/camiseta-boxy-baw-subscript-151883",
+    "name": "CAMISETA BOXY BAW SUBSCRIPT",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-247-152901/357905.jpg?w=556&h=833&v=202512051544",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-247-152901",
+    "name": "CAMISETA OVERSIZED 247",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-sundays-tour-151936/362110-1.jpg?w=556&h=833&v=202604081152",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-sundays-tour-151936",
+    "name": "CAMISETA OVERSIZED BAW SUNDAYS TOUR",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-boxy-baw-subscript-151881/362828-1.jpg?w=556&h=833&v=202603271743",
+    "url": "https://www.bawclothing.com.br/camiseta-boxy-baw-subscript-151881",
+    "name": "CAMISETA BOXY BAW SUBSCRIPT",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-vandalz-153014/358689.jpg?w=556&h=833&v=202511191113",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-vandalz-153014",
+    "name": "CAMISETA OVERSIZED VANDALZ",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-see-ya-baw-x-disney-150519/338847.jpg?w=556&h=833&v=202509162325",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-see-ya-baw-x-disney-150519",
+    "name": "CAMISETA REGULAR SEE YA BAW X DISNEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-clothing-90’s-151090/341956-1.jpg?w=556&h=833&v=202605151712",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-clothing-90’s-151090",
+    "name": "CAMISETA REGULAR BAW CLOTHING 90’S",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-regular-work-153463/361527-1.jpg?w=556&h=833&v=202603301246",
+    "url": "https://www.bawclothing.com.br/calca-regular-work-153463",
+    "name": "CALCA REGULAR WORK",
+    "offers": {
+     "@type": "Offer",
+     "price": "169.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-wide-fit-logo-153467/361492-1.jpg?w=556&h=833&v=202608181408",
+    "url": "https://www.bawclothing.com.br/calca-wide-fit-logo-153467",
+    "name": "CALCA WIDE FIT LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "169.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-love-e-hate-152973/358421.jpg?w=556&h=833&v=202601091837",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-love-e-hate-152973",
+    "name": "CAMISETA OVERSIZED LOVE & HATE",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-college-hp-x-baw-153812/363837-1.jpg?w=556&h=833&v=202607231820",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-college-hp-x-baw-153812",
+    "name": "CAMISETA OVERSIZED COLLEGE HP X BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-hoodie-baw-twiggy-151902/362896-1.jpg?w=556&h=833&v=202603311640",
+    "url": "https://www.bawclothing.com.br/moletom-hoodie-baw-twiggy-151902",
+    "name": "MOLETOM HOODIE BAW TWIGGY",
+    "offers": {
+     "@type": "Offer",
+     "price": "159.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-hoodie-zip-patch-logo-153478/361591-1.jpg?w=556&h=833&v=202608031626",
+    "url": "https://www.bawclothing.com.br/moletom-hoodie-zip-patch-logo-153478",
+    "name": "MOLETOM HOODIE ZIP PATCH LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "249.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-selfie-logo-150275/337448.jpg?w=556&h=833&v=202511031230",
+    "url": "https://www.bawclothing.com.br/camiseta-selfie-logo-150275",
+    "name": "CAMISETA SELFIE LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-cargo-classics-150271/337436.jpg?w=556&h=833&v=202510241233",
+    "url": "https://www.bawclothing.com.br/bermuda-cargo-classics-150271",
+    "name": "BERMUDA CARGO CLASSICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/sweatshirt-cropped-selfie-logo-153503/361754-1.jpg?w=556&h=833&v=202603301441",
+    "url": "https://www.bawclothing.com.br/sweatshirt-cropped-selfie-logo-153503",
+    "name": "SWEATSHIRT CROPPED SELFIE LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-from-the-bottom-151957/362875-1.jpg?w=556&h=833&v=202603271748",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-from-the-bottom-151957",
+    "name": "CAMISETA REGULAR FROM THE BOTTOM",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-regular-work-153465/361523-1.jpg?w=556&h=833&v=202603301241",
+    "url": "https://www.bawclothing.com.br/calca-regular-work-153465",
+    "name": "CALCA REGULAR WORK",
+    "offers": {
+     "@type": "Offer",
+     "price": "169.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-lose-baw-151100/342050.jpg?w=556&h=833&v=202509161602",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-lose-baw-151100",
+    "name": "CAMISETA REGULAR LOSE BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-wide-flip-easy-life-150702/339697.jpg?w=556&h=833&v=202509231009",
+    "url": "https://www.bawclothing.com.br/calca-wide-flip-easy-life-150702",
+    "name": "CALCA WIDE FLIP EASY LIFE",
+    "offers": {
+     "@type": "Offer",
+     "price": "239.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-street-racing-150768/340072.jpg?w=556&h=833&v=202509170228",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-street-racing-150768",
+    "name": "CAMISETA REGULAR STREET RACING",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-patch-logo-153449/361412-1.jpg?w=556&h=833&v=202605181634",
+    "url": "https://www.bawclothing.com.br/baby-tee-patch-logo-153449",
+    "name": "BABY TEE PATCH LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-funny-joke-153000/358605.jpg?w=556&h=833&v=202511191144",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-funny-joke-153000",
+    "name": "CAMISETA OVERSIZED FUNNY JOKE",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-gryffindor-hp-x-baw-153570/362164-1.jpg?w=556&h=833&v=202607231813",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-gryffindor-hp-x-baw-153570",
+    "name": "CAMISETA OVERSIZED GRYFFINDOR   HP X BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-logo-150391/338165.jpg?w=556&h=833&v=202509170151",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-logo-150391",
+    "name": "CAMISETA REGULAR BAW LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-tourist-baw-summertime-150350/337949-1.jpg?w=556&h=833&v=202608191454",
+    "url": "https://www.bawclothing.com.br/shorts-tourist-baw-summertime-150350",
+    "name": "SHORTS TOURIST BAW SUMMERTIME",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-regular-work-153464/361585-1.jpg?w=556&h=833&v=202603301241",
+    "url": "https://www.bawclothing.com.br/calca-regular-work-153464",
+    "name": "CALCA REGULAR WORK",
+    "offers": {
+     "@type": "Offer",
+     "price": "169.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-go-slow-take-care-150453/338556.jpg?w=556&h=833&v=202509170059",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-go-slow-take-care-150453",
+    "name": "CAMISETA REGULAR  GO SLOW TAKE CARE",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-juggler-krab-151994/362245.jpg?w=556&h=833&v=202602021151",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-juggler-krab-151994",
+    "name": "CAMISETA OVERSIZED BAW JUGGLER KRAB",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-x-disney-150508/338802.jpg?w=556&h=833&v=202509170211",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-x-disney-150508",
+    "name": "CAMISETA REGULAR BAW X DISNEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-interlaced-151928/362858-1.jpg?w=556&h=833&v=202603271746",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-interlaced-151928",
+    "name": "CAMISETA REGULAR BAW INTERLACED",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-fire-baw-151252/345221.jpg?w=556&h=833&v=202509221402",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-fire-baw-151252",
+    "name": "CAMISETA REGULAR FIRE BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-selfie-logo-153794/363735-1.jpg?w=556&h=833&v=202611131155",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-selfie-logo-153794",
+    "name": "CAMISETA BR REGULAR SELFIE LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "150909",
+   "href": "/camiseta-regular-athletic-logo-3-0-150909",
+   "nome": "CAMISETA REGULAR ATHLETIC LOGO 3.0",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 89,00",
+   "selo_off": "45%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150813",
+   "href": "/camiseta-regular-athletic-logo-3-0-150813",
+   "nome": "CAMISETA REGULAR ATHLETIC LOGO 3.0",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 89,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150753",
+   "href": "/jaqueta-puffer-premium-essentals-150753",
+   "nome": "JAQUETA PUFFER PREMIUM ESSENTALS",
+   "preco": "R$ 359,00",
+   "preco_de": "R$ 849,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150910",
+   "href": "/camiseta-regular-graff-logo-3-0-150910",
+   "nome": "CAMISETA REGULAR GRAFF LOGO 3.0",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 89,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150819",
+   "href": "/camiseta-regular-graff-logo-3-0-150819",
+   "nome": "CAMISETA REGULAR GRAFF LOGO 3.0",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 89,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150906",
+   "href": "/camiseta-oversized-baw-fresh-150906",
+   "nome": "CAMISETA OVERSIZED BAW FRESH",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "47%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150720",
+   "href": "/camiseta-new-over-baw-watchdog-150720",
+   "nome": "CAMISETA NEW OVER BAW WATCHDOG",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150907",
+   "href": "/camiseta-oversized-baw-fresh-150907",
+   "nome": "CAMISETA OVERSIZED BAW FRESH",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152168",
+   "href": "/calcinha-152168",
+   "nome": "CALCINHA",
+   "preco": "R$ 9,00",
+   "preco_de": "R$ 79,00",
+   "selo_off": "89%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151220",
+   "href": "/camiseta-regular-goth-3-0-151220",
+   "nome": "CAMISETA REGULAR GOTH 3.0",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 89,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150316",
+   "href": "/camiseta-regular-baw-delivery-150316",
+   "nome": "CAMISETA REGULAR BAW DELIVERY",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "57%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150589",
+   "href": "/camiseta-regular-baw-x-smiley-seeking-150589",
+   "nome": "CAMISETA REGULAR BAW X SMILEY SEEKING",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Roxo Lavanda",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151896",
+   "href": "/camiseta-oversized-baw-subscript-151896",
+   "nome": "CAMISETA OVERSIZED BAW SUBSCRIPT",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150302",
+   "href": "/camiseta-baw-athletic-logo-150302",
+   "nome": "CAMISETA BAW ATHLETIC LOGO",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "63%",
+   "selos": null,
+   "cor": "Cinza Mescla",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150551",
+   "href": "/camiseta-regular-fun-baw-x-disney-150551",
+   "nome": "CAMISETA REGULAR FUN BAW X DISNEY",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "24%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150935",
+   "href": "/camiseta-oversized-mania-baw-x-disney-150935",
+   "nome": "CAMISETA OVERSIZED MANIA BAW X DISNEY",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "48%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153708",
+   "href": "/moletom-basic-label-153708",
+   "nome": "MOLETOM BASIC LABEL",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151934",
+   "href": "/camiseta-oversized-baw-subscript-151934",
+   "nome": "CAMISETA OVERSIZED BAW SUBSCRIPT",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152997",
+   "href": "/camiseta-oversized-backspin-152997",
+   "nome": "CAMISETA OVERSIZED BACKSPIN",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "25%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153490",
+   "href": "/camiseta-regular-selfie-logo-153490",
+   "nome": "CAMISETA REGULAR SELFIE LOGO",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "31%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150785",
+   "href": "/turtleneck-baw-future-150785",
+   "nome": "TURTLENECK BAW FUTURE",
+   "preco": "R$ 359,00",
+   "preco_de": "R$ 799,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Preto/Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150949",
+   "href": "/calca-skater-cargo-baw-x-sd-150949",
+   "nome": "CALCA SKATER CARGO BAW X SD",
+   "preco": "R$ 319,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Marrom",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150540",
+   "href": "/camiseta-oversized-courage-baw-x-cartoon-150540",
+   "nome": "CAMISETA OVERSIZED COURAGE BAW X CARTOON",
+   "preco": "R$ 319,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152924",
+   "href": "/camiseta-regular-bold-logo-3-0-152924",
+   "nome": "CAMISETA REGULAR BOLD LOGO 3.0",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 89,00",
+   "selo_off": "45%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151167",
+   "href": "/camiseta-oversized-baw-embroidery-151167",
+   "nome": "CAMISETA OVERSIZED BAW EMBROIDERY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 229,00",
+   "selo_off": "57%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150945",
+   "href": "/camiseta-new-over-baw-mund-150945",
+   "nome": "CAMISETA NEW OVER BAW MUND",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 139,00",
+   "selo_off": "29%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151202",
+   "href": "/camiseta-regular-goth-3-0-151202",
+   "nome": "CAMISETA REGULAR GOTH 3.0",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 89,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150537",
+   "href": "/jaqueta-bomber-recortes-baw-x-smiley-150537",
+   "nome": "JAQUETA BOMBER RECORTES BAW X SMILEY",
+   "preco": "R$ 389,00",
+   "preco_de": "R$ 799,00",
+   "selo_off": "51%",
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153707",
+   "href": "/moletom-basic-label-153707",
+   "nome": "MOLETOM BASIC LABEL",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "44%",
+   "selos": null,
+   "cor": "Azul Escuro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150501",
+   "href": "/camiseta-oversized-windows-150501",
+   "nome": "CAMISETA OVERSIZED WINDOWS",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150764",
+   "href": "/jaqueta-puffer-premium-essentals-150764",
+   "nome": "JAQUETA PUFFER PREMIUM ESSENTALS",
+   "preco": "R$ 359,00",
+   "preco_de": "R$ 849,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151918",
+   "href": "/moletom-hoodie-baw-subscript-151918",
+   "nome": "MOLETOM HOODIE BAW SUBSCRIPT",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "49%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151201",
+   "href": "/camiseta-regular-bold-logo-3-0-151201",
+   "nome": "CAMISETA REGULAR BOLD LOGO 3.0",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "51%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150224",
+   "href": "/camiseta-selfie-logo-150224",
+   "nome": "CAMISETA SELFIE LOGO",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153706",
+   "href": "/moletom-basic-label-153706",
+   "nome": "MOLETOM BASIC LABEL",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152005",
+   "href": "/camiseta-regular-baw-blur-152005",
+   "nome": "CAMISETA REGULAR BAW BLUR",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 139,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150761",
+   "href": "/camiseta-regular-premium-essentials-150761",
+   "nome": "CAMISETA REGULAR PREMIUM ESSENTIALS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153705",
+   "href": "/moletom-basic-label-153705",
+   "nome": "MOLETOM BASIC LABEL",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Ocre",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151096",
+   "href": "/camiseta-regular-fused-baw-151096",
+   "nome": "CAMISETA REGULAR FUSED BAW",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "54%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150591",
+   "href": "/camiseta-new-over-hiden-icon-classy-150591",
+   "nome": "CAMISETA NEW OVER HIDEN ICON CLASSY",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153704",
+   "href": "/moletom-baw-r-colors-153704",
+   "nome": "MOLETOM BAW R COLORS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Azul Escuro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151213",
+   "href": "/camiseta-regular-monster-3-0-151213",
+   "nome": "CAMISETA REGULAR MONSTER 3.0",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 89,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150525",
+   "href": "/camiseta-regular-basic-baw-x-disney-150525",
+   "nome": "CAMISETA REGULAR BASIC BAW X DISNEY",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "24%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151875",
+   "href": "/camiseta-regular-baw-blur-151875",
+   "nome": "CAMISETA REGULAR BAW BLUR",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 139,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153482",
+   "href": "/camiseta-regular-selfie-logo-153482",
+   "nome": "CAMISETA REGULAR SELFIE LOGO",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150885",
+   "href": "/calca-flip-dyed-premium-essentials-150885",
+   "nome": "CALCA FLIP DYED PREMIUM ESSENTIALS",
+   "preco": "R$ 269,00",
+   "preco_de": "R$ 599,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150882",
+   "href": "/jaqueta-puffer-vintage-150882",
+   "nome": "JAQUETA PUFFER VINTAGE",
+   "preco": "R$ 399,00",
+   "preco_de": "R$ 899,00",
+   "selo_off": "56%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150816",
+   "href": "/camiseta-regular-disorder-3-0-150816",
+   "nome": "CAMISETA REGULAR DISORDER 3.0",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 89,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151817",
+   "href": "/moletom-hoodie-baw-subscript-151817",
+   "nome": "MOLETOM HOODIE BAW SUBSCRIPT",
+   "preco": "R$ 249,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "29%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151915",
+   "href": "/camiseta-regular-heavy-patch-logo-151915",
+   "nome": "CAMISETA REGULAR HEAVY PATCH LOGO",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151093",
+   "href": "/camiseta-regular-dog-person-151093",
+   "nome": "CAMISETA REGULAR DOG PERSON",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "44%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150521",
+   "href": "/camiseta-oversized-thug-lightning-150521",
+   "nome": "CAMISETA OVERSIZED THUG LIGHTNING",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153699",
+   "href": "/moletom-baw-r-colors-153699",
+   "nome": "MOLETOM BAW R COLORS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151228",
+   "href": "/camiseta-oversized-baw-x-pica-pau-151228",
+   "nome": "CAMISETA OVERSIZED BAW X PICA PAU",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150577",
+   "href": "/calca-tracker-jogger-cargo-150577",
+   "nome": "CALCA TRACKER JOGGER CARGO",
+   "preco": "R$ 289,00",
+   "preco_de": "R$ 369,00",
+   "selo_off": "22%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153811",
+   "href": "/camiseta-oversized-college-hp-x-baw-153811",
+   "nome": "CAMISETA OVERSIZED COLLEGE HP X BAW",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 219,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153337",
+   "href": "/camiseta-oversized-angelo-153337",
+   "nome": "CAMISETA OVERSIZED ANGELO",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150340",
+   "href": "/camiseta-new-over-baw-crew-150340",
+   "nome": "CAMISETA NEW OVER BAW CREW",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153861",
+   "href": "/moletom-baw-r-colors-153861",
+   "nome": "MOLETOM BAW R COLORS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151069",
+   "href": "/regata-oversized-selfie-logo-colors-151069",
+   "nome": "REGATA OVERSIZED SELFIE LOGO COLORS",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151012",
+   "href": "/camisa-baw-x-mitchell-e-ness-x-nfl-raiders-151012",
+   "nome": "CAMISA BAW X MITCHELL E NESS X NFL RAIDERS",
+   "preco": "R$ 159,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151968",
+   "href": "/camiseta-regular-baw-fingerprint-151968",
+   "nome": "CAMISETA REGULAR BAW FINGERPRINT",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 139,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153494",
+   "href": "/sweatshirt-cropped-selfie-logo-153494",
+   "nome": "SWEATSHIRT CROPPED SELFIE LOGO",
+   "preco": "R$ 119,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "52%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151890",
+   "href": "/camiseta-oversized-baw-respect-151890",
+   "nome": "CAMISETA OVERSIZED BAW RESPECT",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "48%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153701",
+   "href": "/moletom-baw-r-colors-153701",
+   "nome": "MOLETOM BAW R COLORS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Ocre",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153466",
+   "href": "/calca-wide-fit-logo-153466",
+   "nome": "CALCA WIDE FIT LOGO",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Denim",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150663",
+   "href": "/calca-baggy-cargo-corduroy-150663",
+   "nome": "CALCA BAGGY CARGO CORDUROY",
+   "preco": "R$ 319,00",
+   "preco_de": "R$ 599,00",
+   "selo_off": "47%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151883",
+   "href": "/camiseta-boxy-baw-subscript-151883",
+   "nome": "CAMISETA BOXY BAW SUBSCRIPT",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 139,00",
+   "selo_off": "36%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152901",
+   "href": "/camiseta-oversized-247-152901",
+   "nome": "CAMISETA OVERSIZED 247",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151936",
+   "href": "/camiseta-oversized-baw-sundays-tour-151936",
+   "nome": "CAMISETA OVERSIZED BAW SUNDAYS TOUR",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "67%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151881",
+   "href": "/camiseta-boxy-baw-subscript-151881",
+   "nome": "CAMISETA BOXY BAW SUBSCRIPT",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 139,00",
+   "selo_off": "36%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153014",
+   "href": "/camiseta-oversized-vandalz-153014",
+   "nome": "CAMISETA OVERSIZED VANDALZ",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "25%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150519",
+   "href": "/camiseta-regular-see-ya-baw-x-disney-150519",
+   "nome": "CAMISETA REGULAR SEE YA BAW X DISNEY",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 209,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151090",
+   "href": "/camiseta-regular-baw-clothing-90’s-151090",
+   "nome": "CAMISETA REGULAR BAW CLOTHING 90’S",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "54%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153463",
+   "href": "/calca-regular-work-153463",
+   "nome": "CALCA REGULAR WORK",
+   "preco": "R$ 169,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "43%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153467",
+   "href": "/calca-wide-fit-logo-153467",
+   "nome": "CALCA WIDE FIT LOGO",
+   "preco": "R$ 169,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Jeans Claro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152973",
+   "href": "/camiseta-oversized-love-e-hate-152973",
+   "nome": "CAMISETA OVERSIZED LOVE & HATE",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "25%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153812",
+   "href": "/camiseta-oversized-college-hp-x-baw-153812",
+   "nome": "CAMISETA OVERSIZED COLLEGE HP X BAW",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 219,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151902",
+   "href": "/moletom-hoodie-baw-twiggy-151902",
+   "nome": "MOLETOM HOODIE BAW TWIGGY",
+   "preco": "R$ 159,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Roxo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153478",
+   "href": "/moletom-hoodie-zip-patch-logo-153478",
+   "nome": "MOLETOM HOODIE ZIP PATCH LOGO",
+   "preco": "R$ 249,00",
+   "preco_de": "R$ 449,00",
+   "selo_off": "45%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150275",
+   "href": "/camiseta-selfie-logo-150275",
+   "nome": "CAMISETA SELFIE LOGO",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 89,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150271",
+   "href": "/bermuda-cargo-classics-150271",
+   "nome": "BERMUDA CARGO CLASSICS",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "63%",
+   "selos": null,
+   "cor": "Bege",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153503",
+   "href": "/sweatshirt-cropped-selfie-logo-153503",
+   "nome": "SWEATSHIRT CROPPED SELFIE LOGO",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151957",
+   "href": "/camiseta-regular-from-the-bottom-151957",
+   "nome": "CAMISETA REGULAR FROM THE BOTTOM",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "57%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153465",
+   "href": "/calca-regular-work-153465",
+   "nome": "CALCA REGULAR WORK",
+   "preco": "R$ 169,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "43%",
+   "selos": null,
+   "cor": "Jeans Claro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151100",
+   "href": "/camiseta-regular-lose-baw-151100",
+   "nome": "CAMISETA REGULAR LOSE BAW",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150702",
+   "href": "/calca-wide-flip-easy-life-150702",
+   "nome": "CALCA WIDE FLIP EASY LIFE",
+   "preco": "R$ 239,00",
+   "preco_de": "R$ 499,00",
+   "selo_off": "52%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150768",
+   "href": "/camiseta-regular-street-racing-150768",
+   "nome": "CAMISETA REGULAR STREET RACING",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153449",
+   "href": "/baby-tee-patch-logo-153449",
+   "nome": "BABY TEE PATCH LOGO",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "47%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153000",
+   "href": "/camiseta-oversized-funny-joke-153000",
+   "nome": "CAMISETA OVERSIZED FUNNY JOKE",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "25%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153570",
+   "href": "/camiseta-oversized-gryffindor-hp-x-baw-153570",
+   "nome": "CAMISETA OVERSIZED GRYFFINDOR HP X BAW",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 219,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Maca",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150391",
+   "href": "/camiseta-regular-baw-logo-150391",
+   "nome": "CAMISETA REGULAR BAW LOGO",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "47%",
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150350",
+   "href": "/shorts-tourist-baw-summertime-150350",
+   "nome": "SHORTS TOURIST BAW SUMMERTIME",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 359,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153464",
+   "href": "/calca-regular-work-153464",
+   "nome": "CALCA REGULAR WORK",
+   "preco": "R$ 169,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "43%",
+   "selos": null,
+   "cor": "Indigo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150453",
+   "href": "/camiseta-regular-go-slow-take-care-150453",
+   "nome": "CAMISETA REGULAR GO SLOW TAKE CARE",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "35%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151994",
+   "href": "/camiseta-oversized-baw-juggler-krab-151994",
+   "nome": "CAMISETA OVERSIZED BAW JUGGLER KRAB",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "57%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150508",
+   "href": "/camiseta-regular-baw-x-disney-150508",
+   "nome": "CAMISETA REGULAR BAW X DISNEY",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151928",
+   "href": "/camiseta-regular-baw-interlaced-151928",
+   "nome": "CAMISETA REGULAR BAW INTERLACED",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 139,00",
+   "selo_off": "36%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151252",
+   "href": "/camiseta-regular-fire-baw-151252",
+   "nome": "CAMISETA REGULAR FIRE BAW",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "",
+   "genero": ""
+  },
+  {
+   "id": "153794",
+   "href": "/camiseta-br-regular-selfie-logo-153794",
+   "nome": "CAMISETA BR REGULAR SELFIE LOGO",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "37%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+url: https://www.bawclothing.com.br/produto/jaqueta-vintage-baw-x-pringles-153782
+lido_em: 2026-11-18T13:10:09-03:00
+html_origem: ficha-jaqueta-vintage-baw-x-pringles.html (sha256 898cadc6465157be3f9b38f77f1c3d81c9dff8554e457e4ede356a07587db1ca)
+nome: JAQUETA VINTAGE BAW X PRINGLES
+sku: 42.22.0074283M
+trilha: Página inicial > Roupas > Jaquetas > JAQUETA VINTAGE BAW X PRINGLES
+preco: R$ 399,00
+preco_de: R$ 899,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+JAQUETA VINTAGE BAW X PRINGLES VERMELHO/AZUL
+Fruto de uma colaboração exclusiva e de edição limitada, a Jaqueta Vintage BAW x Pringles é um verdadeiro item de colecionador que une a nostalgia retro-esportiva dos anos 90 ao universo pop e irreverente da Pringles®. Confeccionada em tecido estilo corta-vento encorpado de alta resistência, a peça apresenta um marcante bloco de cores ( color block ) em vermelho e azul claro. O grande destaque fica por conta do patch bordado no peito esquerdo com o icônico mascote Mr. P (Julius Pringles) personalizando a faixa BAWCLOTHING . Conta com fechamento frontal por zíper completo, gola alta estilizada, caimento oversized com ombros caídos e acabamento em elástico nos punhos e na barra para perfeito ajuste.
+Tabela de medidas:
+M - Comprimento: 65cm/ Tórax: 66cm/ Barra: 51cm/ Manga: 79cm.
+Composição : 100% Poliamida.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente ao Saia. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+JAQUETA VINTAGE BAW X PRINGLES VERMELHO/AZUL
+Fruto de uma colaboração exclusiva e de edição limitada, a 
+Jaqueta Vintage BAW x Pringles
+ é um verdadeiro 
+item de colecionador
+ que une a nostalgia retro-esportiva dos anos 90 ao universo pop e irreverente da Pringles®. Confeccionada em tecido estilo corta-vento encorpado de alta resistência, a peça apresenta um marcante bloco de cores (
+color block
+) em vermelho e azul claro. O grande destaque fica por conta do patch bordado no peito esquerdo com o icônico mascote Mr. P (Julius Pringles) personalizando a faixa 
+BAWCLOTHING
+. Conta com fechamento frontal por zíper completo, gola alta estilizada, caimento 
+oversized
+ com ombros caídos e acabamento em elástico nos punhos e na barra para perfeito ajuste.
+Tabela de medidas:
+M - Comprimento: 65cm/ Tórax: 66cm/ Barra: 51cm/ Manga: 79cm.
+Composição
+: 100% Poliamida.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente ao Saia. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.

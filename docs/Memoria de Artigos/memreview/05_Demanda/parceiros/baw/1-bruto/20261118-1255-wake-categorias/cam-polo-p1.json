@@ -1,0 +1,39 @@
+{
+ "arquivo_origem": "cam-polo-p1.html",
+ "sha256_origem": "db1b7238e0ed55a6ca5aca7a4c1104d9f50d0b6f09efa39eae0eaa6bbbacfbf1",
+ "titulo": "Polo",
+ "title_pagina": "Camisas Polo: estilo urbano com toque clássico | Baw",
+ "contagem_pagina": 1,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/roupas/camisetas/polo",
+  "numberOfItems": "1",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/polo-ml-college-gryffindor-hp-x-baw-151986/351026-1.jpg?w=556&h=833&v=202607231811",
+    "url": "https://www.bawclothing.com.br/polo-ml-college-gryffindor-hp-x-baw-151986",
+    "name": "POLO ML COLLEGE GRYFFINDOR HP X BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "289.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "151986",
+   "href": "/polo-ml-college-gryffindor-hp-x-baw-151986",
+   "nome": "POLO ML COLLEGE GRYFFINDOR HP X BAW",
+   "preco": "R$ 289,00",
+   "preco_de": "R$ 599,00",
+   "selo_off": "52%",
+   "selos": null,
+   "cor": "Preto/Vinho",
+   "genero": "Unisex"
+  }
+ ]
+}

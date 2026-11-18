@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/calca-vibes-150299
+lido_em: 2026-11-18T13:09:27-03:00
+html_origem: ficha-calca-vibes.html (sha256 dffb72aadea87546d151d684a6a5e3401494f8ba974d12c632b23290d384451b)
+nome: CALCA VIBES
+sku: 007708604044
+trilha: Página inicial > Roupas > Calças > CALCA VIBES
+preco: R$ 209,00
+preco_de: R$ 379,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+CALCA VIBES
+CALCA VIBES

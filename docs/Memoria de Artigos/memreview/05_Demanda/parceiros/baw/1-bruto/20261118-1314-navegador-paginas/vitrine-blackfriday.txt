@@ -1,0 +1,266 @@
+url: https://www.bawclothing.com.br/blackfriday/
+lido_em: 2026-11-18T13:14:20-03:00
+metodo: navegador embutido do app, get_page_text da página carregada (texto gravado pela sessão a partir da saída da ferramenta)
+banner: a única imagem de destaque da página é https://bawclothing.fbitsstatic.net/media/lp_sem_cupom.jpg?v=20261118143107 (sem alt, sem link), guardada como veio em banner-blackfriday-lp_sem_cupom.jpg. Texto da imagem, lido pela sessão no zoom da tela: "BLACK FRIDAY" / "Até 80%OFF" / "+30%OFF" / "NA SEGUNDA PEÇA"
+
+--- texto da página ---
+Title: A ÚLTIMA BLACK FRIDAY DA BAW
+URL: https://www.bawclothing.com.br/blackfriday/
+Source element: <body>
+---
+MENU
+
+0
+Baw Clothing | A ÚLTIMA BLACK FRIDAY DA BAW
+BAW •
+A ÚLTIMA BLACK FRIDAY DA BAW
+
+679 PRODUTOS
+
+FILTROS 6
+ORDENAÇÃO
+Nome A-Z
+Vendas
+Menor Preço
+Maior Preço
+Data Lançamento
+Desconto Maior
+Desconto Menor
+
+VISUALIZAÇÃO
+
+89%
+OFF
+
+CALCINHA
+
+R$ 9,00
+
+R$ 79,00
+
+
+
+34%
+OFF
+
+CAMISETA REGULAR GOTH 3.0
+
+R$ 59,00
+
+R$ 89,00
+
+
+
+50%
+OFF
+
+CAMISETA OVERSIZED BAW SUBSCRIPT
+
+R$ 79,00
+
+R$ 159,00
+
+
+
+28%
+OFF
+
+MOLETOM BASIC LABEL
+
+R$ 179,00
+
+R$ 249,00
+
+ou 3x de R$ 59,67 sem juros
+
+50%
+OFF
+
+CAMISETA OVERSIZED BAW SUBSCRIPT
+
+R$ 79,00
+
+R$ 159,00
+
+
+
+25%
+OFF
+
+CAMISETA OVERSIZED BACKSPIN
+
+R$ 149,00
+
+R$ 199,00
+
+ou 2x de R$ 74,50 sem juros
+
+CAMISETA REGULAR SELFIE LOGO
+
+R$ 89,00
+
+R$ 129,00
+
+
+
+CAMISETA BR REGULAR FLAMING BAW
+
+R$ 79,00
+
+R$ 109,00
+
+
+
+CAMISETA REGULAR BOLD LOGO 3.0
+
+R$ 49,00
+
+R$ 89,00
+
+
+
+CAMISETA OVERSIZED BAW EMBROIDERY
+
+R$ 99,00
+
+R$ 229,00
+
+
+
+CAMISETA REGULAR GOTH 3.0
+
+R$ 59,00
+
+R$ 89,00
+
+
+
+MOLETOM BASIC LABEL
+
+R$ 139,00
+
+R$ 249,00
+
+ou 2x de R$ 69,50 sem juros
+
+MOLETOM HOODIE BAW SUBSCRIPT
+
+R$ 179,00
+
+R$ 349,00
+
+ou 3x de R$ 59,67 sem juros
+
+CAMISETA REGULAR BOLD LOGO 3.0
+
+R$ 49,00
+
+R$ 99,00
+
+
+
+CAMISETA BR REGULAR LOGO
+
+R$ 79,00
+
+R$ 99,00
+
+
+
+MOLETOM BASIC LABEL
+
+R$ 179,00
+
+R$ 249,00
+
+ou 3x de R$ 59,67 sem juros
+
+CAMISETA REGULAR BAW BLUR
+
+R$ 59,00
+
+R$ 139,00
+
+
+
+MOLETOM BASIC LABEL
+
+R$ 179,00
+
+R$ 249,00
+
+ou 3x de R$ 59,67 sem juros
+
+CAMISETA REGULAR FUSED BAW
+
+R$ 69,00
+
+R$ 149,00
+
+
+
+MOLETOM BAW R COLORS
+
+R$ 179,00
+
+R$ 249,00
+
+ou 3x de R$ 59,67 sem juros
+
+CAMISETA REGULAR MONSTER 3.0
+
+R$ 59,00
+
+R$ 89,00
+
+
+
+CAMISETA REGULAR BAW BLUR
+
+R$ 59,00
+
+R$ 139,00
+
+
+
+CAMISETA REGULAR SELFIE LOGO
+
+R$ 79,00
+
+R$ 99,00
+
+
+
+MOLETOM HOODIE BAW SUBSCRIPT
+
+R$ 249,00
+
+R$ 349,00
+
+ou 4x de R$ 62,25 sem juros
+
+VER MAIS
+SHOP NOW
+SHOP NOW
+SHOP NOW
+SHOP NOW
+SHOP NOW
+
+FIQUE POR DENTRO
+
+PARA RECEBER NOVIDADES E CONTEÚDO EXCLUSIVO DA BAW, ASSINE NOSSA NEWSLETTER.
+
+PARA SABER COMO SEUS DADOS PESSOAIS SÃO TRATADOS, ACESSE NOSSA POLÍTICA DE PRIVACIDADE.
+
+CADASTRAR
+DADOS PESSOAIS
+−
+MINHA CONTA
+MEUS PEDIDOS
+MEU CARRINHO
+DÚVIDAS FREQUENTES
++
+FALE CONOSCO
++
+
+BAW CLOTHING - TODOS OS DIREITOS RESERVADOS - WAB COMPANY CNPJ:58.435.903/0001-85

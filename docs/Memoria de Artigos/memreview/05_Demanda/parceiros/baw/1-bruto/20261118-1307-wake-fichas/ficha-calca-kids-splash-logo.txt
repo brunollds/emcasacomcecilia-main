@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/calca-kids-splash-logo-152109
+lido_em: 2026-11-18T13:12:22-03:00
+html_origem: ficha-calca-kids-splash-logo.html (sha256 1d1bb745eb93f6263ff9e83c2b869221f59e90f03c201f6b6ec686a0deaaf399)
+nome: CALCA KIDS SPLASH LOGO
+sku: 006851232706
+trilha: Página inicial > Kids > CALCA KIDS SPLASH LOGO
+preco: R$ 99,00
+preco_de: R$ 299,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+CALCA KIDS SPLASH LOGO
+CALCA KIDS SPLASH LOGO

@@ -1,0 +1,83 @@
+url: https://www.bawclothing.com.br/loja3rios
+lido_em: 2026-11-18T13:15:50-03:00
+metodo: navegador embutido do app; document.body.innerText 2,5 segundos depois de a página carregar, linhas vazias juntadas; busca no texto inteiro por "rua", "três rios", "bom retiro", "endere", "horário" e "funcionamento". Texto gravado pela sessão a partir da saída da ferramenta
+title da página: Loja 3 Rios
+fora do menu; está no sitemap (20261118-1251-wake-robots-sitemap)
+banner: uma imagem de topo, https://bawclothing.fbitsstatic.net/media/a.jpg-(2).jpg?v=202602111611 (2880 x 980, sem alt, sem link). Na tela, o texto sobre a foto diz "Baw Retiro Store"; a foto mostra pessoas numa loja e não foi baixada
+endereço, rua ou horário da loja no texto da página: nenhuma ocorrência (a única é "HORÁRIOS DE ATENDIMENTO", do SAC, no rodapé)
+a página é uma vitrine de produtos: "70 PRODUTOS"
+
+--- começo do texto da página, como veio ---
+VESTUÁRIO
+ACESSÓRIOS
+KIDS
+CALÇADOS
+NEWS
+BLACK FRIDAY
+INFLUS
+DIGITE AQUI O QUE PROCURA
+0
+Baw Clothing | Loja 3 Rios
+BAW •
+LOJA 3 RIOS
+FILTROS 6
+70 PRODUTOS
+VISUALIZAÇÃO
+ORDENAÇÃO
+Nome A-Z
+Vendas
+Menor Preço
+Maior Preço
+Data Lançamento
+Desconto Maior
+Desconto Menor
+80%
+OFF
+BEACH SHORTS BASIC ELIPSE
+R$ 49,00
+R$ 249,00
+
+67%
+OFF
+LONG SHORTS FOCUSED
+R$ 99,00
+R$ 299,00
+
+66%
+OFF
+CAMISETA NEW OVER MOTOR PARADISE
+R$ 79,00
+R$ 229,00
+
+63%
+OFF
+CALCA TRACK JOGGER BAWLANCE
+R$ 129,00
+R$ 349,00
+ou 2x de R$ 64,50 sem juros
+63%
+OFF
+BERMUDA SUMMER BASIC
+R$ 149,00
+R$ 399,00
+ou 2x de R$ 74,50 sem juros
+60%
+OFF
+CAMISETA NEW OVER BAW CREW
+R$ 79,00
+R$ 199,00
+
+JAQUETA PUFFER PREMIUM ESSENTALS
+R$ 359,00
+R$ 849,00
+ou 7x de R$ 51,29 sem juros
+SHORTS TOURIST BAW SUMMERTIME
+R$ 149,00
+R$ 359,00
+ou 2x de R$ 74,50 sem juros
+BERMUDA LONG SNIP EASY LIFE
+R$ 129,00
+R$ 299,00
+ou 2x de R$ 64,50 sem juros
+SLIDE GOTH
+R$ 99,0

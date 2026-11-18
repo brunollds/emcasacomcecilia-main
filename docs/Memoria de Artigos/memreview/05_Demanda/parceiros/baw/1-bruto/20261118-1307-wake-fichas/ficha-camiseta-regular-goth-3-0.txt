@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/camiseta-regular-goth-3-0-151220
+lido_em: 2026-11-18T13:13:28-03:00
+html_origem: ficha-camiseta-regular-goth-3-0.html (sha256 46d79bd71656dcd24f385f5bbe1a5e3c9f6f26bd4501f4721f099e5d5336173e)
+nome: CAMISETA REGULAR GOTH 3.0
+sku: 0100148014M
+trilha: Página inicial > Roupas > Camisetas > CAMISETA REGULAR GOTH 3.0
+preco: R$ 59,00
+preco_de: R$ 89,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+CAMISETA REGULAR GOTH 3.0
+CAMISETA REGULAR GOTH 3.0

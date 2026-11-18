@@ -1,0 +1,43 @@
+url: https://www.bawclothing.com.br/produto/shorts-linus-153592
+lido_em: 2026-11-18T13:10:42-03:00
+html_origem: ficha-shorts-linus.html (sha256 99f2b4e79dc7d62e6c319350037849cd237124313053f00bebc51edeff9f6118)
+nome: SHORTS LINUS
+sku: 02.21.0161463M
+trilha: Página inicial > Roupas > Shorts > SHORTS LINUS
+preco: R$ 119,00
+preco_de: R$ 249,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+SHORTS LINUS LARANJA FLÚOR
+Shorts confeccionado de modelagem reta, possui bolsos laterais e cordão para ajuste. Design focado no conforto e com estilo destroyed.
+PP - Comprimento lateral: 52cm/ Cintura: 72cm/ Gancho dianteiro: 32cm/ Gancho traseiro: 40cm/ Quadril: 55cm/ Entrepernas: 25cm/ Abertura da Perna: 32cm.
+P - Comprimento lateral: 54cm/ Cintura: 76cm/ Gancho dianteiro: 33cm/ Gancho traseiro: 41cm/ Quadril: 57cm/ Entrepernas: 26cm/ Abertura da Perna: 33cm.
+M - Comprimento lateral: 56cm/ Cintura: 80cm/ Gancho dianteiro: 34cm/ Gancho traseiro: 42cm/ Quadril: 59cm/ Entrepernas: 27cm/ Abertura da Perna: 34cm.
+G - Comprimento lateral: 58cm/ Cintura: 84cm/ Gancho dianteiro: 35cm/ Gancho traseiro: 43cm/ Quadril: 61cm/ Entrepernas: 28cm/ Abertura da Perna: 35cm.
+GG - Comprimento lateral: 60cm/ Cintura: 88cm/ Gancho dianteiro: 36cm/ Gancho traseiro: 44cm/ Quadril: 63cm/ Entrepernas: 29cm/ Abertura da Perna: 36cm.
+GGG - Comprimento lateral: 62cm/ Cintura: 92cm/ Gancho dianteiro: 37cm/ Gancho traseiro: 45cm/ Quadril: 65cm/ Entrepernas: 30cm/ Abertura da Perna: 37cm.
+Composição: 50% Algodão e 50% Poliéster.
+*MEDIDAS APROXIMADAS. Variação de até 4%.
+*CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente ao Shorts. Os demais itens contidos na imagem, são vendidos separadamente.
+Todas as peças da coleção Baw + Linus foram criadas e produzidas no Brasil.
+
+--- description do JSON-LD Product ---
+SHORTS LINUS LARANJA FL&Uacute;OR
+Shorts confeccionado de modelagem reta, possui bolsos laterais e cord&atilde;o para ajuste. Design focado no conforto e com estilo destroyed.
+&nbsp;
+PP - Comprimento lateral: 52cm/ Cintura: 72cm/ Gancho dianteiro: 32cm/ Gancho traseiro: 40cm/ Quadril: 55cm/ Entrepernas: 25cm/ Abertura da Perna: 32cm.&nbsp;
+P - Comprimento lateral: 54cm/ Cintura: 76cm/ Gancho dianteiro: 33cm/ Gancho traseiro: 41cm/ Quadril: 57cm/ Entrepernas: 26cm/ Abertura da Perna: 33cm.&nbsp;
+M - Comprimento lateral: 56cm/ Cintura: 80cm/ Gancho dianteiro: 34cm/ Gancho traseiro: 42cm/ Quadril: 59cm/ Entrepernas: 27cm/ Abertura da Perna: 34cm.&nbsp;
+G - Comprimento lateral: 58cm/ Cintura: 84cm/ Gancho dianteiro: 35cm/ Gancho traseiro: 43cm/ Quadril: 61cm/ Entrepernas: 28cm/ Abertura da Perna: 35cm.&nbsp;
+GG - Comprimento lateral: 60cm/ Cintura: 88cm/ Gancho dianteiro: 36cm/ Gancho traseiro: 44cm/ Quadril: 63cm/ Entrepernas: 29cm/ Abertura da Perna: 36cm.&nbsp;
+GGG - Comprimento lateral: 62cm/ Cintura: 92cm/ Gancho dianteiro: 37cm/ Gancho traseiro: 45cm/ Quadril: 65cm/ Entrepernas: 30cm/ Abertura da Perna: 37cm.
+Composi&ccedil;&atilde;o: 50% Algod&atilde;o e 50% Poli&eacute;ster.
+&nbsp;
+*MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 4%.
+*CORES APROXIMADAS. Devido &agrave;s diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este an&uacute;ncio se refere somente ao Shorts. Os demais itens contidos na imagem, s&atilde;o vendidos separadamente.
+&nbsp;
+Todas as pe&ccedil;as da cole&ccedil;&atilde;o Baw + Linus foram criadas e produzidas no Brasil.

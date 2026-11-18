@@ -1,0 +1,52 @@
+url: https://www.bawclothing.com.br/produto/camisa-box-baw-classic-151050
+lido_em: 2026-11-18T13:08:39-03:00
+html_origem: ficha-camisa-box-baw-classic.html (sha256 61e93ed3692a358fe518adcfc49017b727838305f24cb6626562d2bd424b81ee)
+nome: CAMISA BOX BAW CLASSIC
+sku: 0098760014M
+trilha: Página inicial > Roupas > Camisas > CAMISA BOX BAW CLASSIC
+preco: R$ 139,00
+preco_de: R$ 179,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+CAMISA BOX BAW CLASSIC BRANCO
+A Camisa Box BAW Classic une o minimalismo elegante da camisaria ao caimento box fit e despojado característico do streetwear . Confeccionada em tricoline/sartorial de algodão leve de alta qualidade, a peça oferece excelente respirabilidade, toque suave e estrutura impecável para os dias mais quentes. Seu design atemporal apresenta corte reto e amplo com ombros deslocados, fechamento frontal por botões caseados e gola colarinho clássica. Conta com o sutil logotipo BAW bordado em tom sobre tom na altura do peito esquerdo e etiqueta flutuante lateral, garantindo autenticidade e estilo para sobreposições versáteis.
+Tabela de medidas:
+PP - Comprimento: 75,5cm/ Tórax: 50cm/ Barra: 53cm/ Manga: 26cm/ Ombro: 15cm/ Cava: 25cm.
+P - Comprimento: 77,5cm/ Tórax: 53cm/ Barra: 56cm/ Manga: 27cm/ Ombro: 16cm/ Cava: 26cm.
+M - Comprimento: 79,5cm/ Tórax: 56cm/ Barra: 59cm/ Manga: 28cm/ Ombro: 17cm/ Cava: 27cm.
+G - Comprimento: 81,5cm/ Tórax: 59cm/ Barra: 62cm/ Manga: 29cm/ Ombro: 18cm/ Cava: 28cm.
+GG - Comprimento: 83,5cm/ Tórax: 62cm/ Barra: 65cm/ Manga: 30cm/ Ombro: 19cm/ Cava: 29cm.
+GGG - Comprimento: 85,5cm/ Tórax: 65cm/ Barra: 68cm/ Manga: 31cm/ Ombro: 20cm/ Cava: 30cm.
+Composição: 100% Poliamida .
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a Camisa. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+CAMISA BOX BAW CLASSIC BRANCO
+A 
+Camisa Box BAW Classic
+ une o minimalismo elegante da camisaria ao caimento 
+box fit
+ e despojado característico do 
+streetwear
+. Confeccionada em tricoline/sartorial de algodão leve de alta qualidade, a peça oferece excelente respirabilidade, toque suave e estrutura impecável para os dias mais quentes. Seu design atemporal apresenta corte reto e amplo com ombros deslocados, fechamento frontal por botões caseados e gola colarinho clássica. Conta com o sutil logotipo 
+BAW
+ bordado em tom sobre tom na altura do peito esquerdo e etiqueta flutuante lateral, garantindo autenticidade e estilo para sobreposições versáteis.
+Tabela de medidas:
+PP - Comprimento: 75,5cm/ Tórax: 50cm/ Barra: 53cm/ Manga: 26cm/ Ombro: 15cm/ Cava: 25cm.
+P - Comprimento: 77,5cm/ Tórax: 53cm/ Barra: 56cm/ Manga: 27cm/ Ombro: 16cm/ Cava: 26cm.
+M - Comprimento: 79,5cm/ Tórax: 56cm/ Barra: 59cm/ Manga: 28cm/ Ombro: 17cm/ Cava: 27cm.
+G - Comprimento: 81,5cm/ Tórax: 59cm/ Barra: 62cm/ Manga: 29cm/ Ombro: 18cm/ Cava: 28cm.
+GG - Comprimento: 83,5cm/ Tórax: 62cm/ Barra: 65cm/ Manga: 30cm/ Ombro: 19cm/ Cava: 29cm.
+GGG - Comprimento: 85,5cm/ Tórax: 65cm/ Barra: 68cm/ Manga: 31cm/ Ombro: 20cm/ Cava: 30cm.
+Composição: 
+100% Poliamida
+.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a Camisa. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.

@@ -1,0 +1,57 @@
+url: https://www.bawclothing.com.br/produto/sweatshirt-oversized-baw-wire-151837
+lido_em: 2026-11-18T13:07:56-03:00
+html_origem: ficha-sweatshirt-oversized-baw-wire.html (sha256 29cce58c1eca0fa409cc200ac5250f50c93922e65cea52101c868232c7f58a00)
+nome: SWEATSHIRT OVERSIZED BAW WIRE
+sku: 14.05.0103040PP
+trilha: Página inicial > Roupas > Moletons > SWEATSHIRT OVERSIZED BAW WIRE
+preco: R$ 149,00
+preco_de: R$ 349,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+SWEATSHIRT OVERSIZED BAW WIRE PRETO
+O Sweatshirt Oversized BAW Wire traz uma estética grunge/cyberpunk marcante inspirada no estilo streetwear underground. Confeccionado em moletom flanelado encorpado de alta qualidade na cor preta, a peça entrega toque macio e excelente aquecimento para os dias mais frios. O grande destaque fica por conta da estampa centralizada no peito, apresentando o logotipo BAW em tipografia angular/futurista, entrelaçado por uma ilustração realista de arame farpado ( barbed wire ) em tons de cinza e prateado. Possui gola careca (redonda) reforçada, modelagem ampla com ombros deslocados ( drop shoulder ) e acabamento em ribana nos punhos e na barra.
+Tabela de medidas:
+PP - Comprimento: 69cm/ Tórax: 62,5cm/ Barra: 34cm/ Manga: 59cm/ Ombro: 20,5cm/ Cava: 28,5cm.
+P - Comprimento: 71cm/ Tórax: 64,5cm/ Barra: 36cm/ Manga: 60cm/ Ombro: 21,5cm/ Cava: 29,5cm.
+M - Comprimento: 73cm/ Tórax: 66,5cm/ Barra: 38cm/ Manga: 61cm/ Ombro: 22,5cm/ Cava: 30,5cm.
+G - Comprimento: 75cm/ Tórax: 68,5cm/ Barra: 40cm/ Manga: 62cm/ Ombro: 23,5cm/ Cava: 31,5cm.
+GG - Comprimento: 77cm/ Tórax: 70,5cm/ Barra: 42cm/ Manga: 63cm/ Ombro: 24,5cm/ Cava: 32,5cm.
+GGG - Comprimento: 79cm/ Tórax: 72,5cm/ Barra: 44cm/ Manga: 64cm/ Ombro: 25,5cm/ Cava: 33,5cm.
+Composição: 50% Algodão, 50% Poliéster .
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente ao Moletom. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+SWEATSHIRT OVERSIZED BAW WIRE PRETO
+O Sweatshirt Oversized 
+BAW Wire
+ traz uma estética 
+grunge/cyberpunk
+ marcante inspirada no estilo 
+streetwear
+ underground. Confeccionado em moletom flanelado encorpado de alta qualidade na cor preta, a peça entrega toque macio e excelente aquecimento para os dias mais frios. O grande destaque fica por conta da estampa centralizada no peito, apresentando o logotipo 
+BAW
+ em tipografia angular/futurista, entrelaçado por uma ilustração realista de arame farpado (
+barbed wire
+) em tons de cinza e prateado. Possui gola careca (redonda) reforçada, modelagem ampla com ombros deslocados (
+drop shoulder
+) e acabamento em ribana nos punhos e na barra.
+Tabela de medidas:
+PP - Comprimento: 69cm/ Tórax: 62,5cm/ Barra: 34cm/ Manga: 59cm/ Ombro: 20,5cm/ Cava: 28,5cm.
+P - Comprimento: 71cm/ Tórax: 64,5cm/ Barra: 36cm/ Manga: 60cm/ Ombro: 21,5cm/ Cava: 29,5cm.
+M - Comprimento: 73cm/ Tórax: 66,5cm/ Barra: 38cm/ Manga: 61cm/ Ombro: 22,5cm/ Cava: 30,5cm.
+G - Comprimento: 75cm/ Tórax: 68,5cm/ Barra: 40cm/ Manga: 62cm/ Ombro: 23,5cm/ Cava: 31,5cm.
+GG - Comprimento: 77cm/ Tórax: 70,5cm/ Barra: 42cm/ Manga: 63cm/ Ombro: 24,5cm/ Cava: 32,5cm.
+GGG - Comprimento: 79cm/ Tórax: 72,5cm/ Barra: 44cm/ Manga: 64cm/ Ombro: 25,5cm/ Cava: 33,5cm.
+Composição:
+ 
+50% Algodão, 50% Poliéster
+.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente ao Moletom. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.

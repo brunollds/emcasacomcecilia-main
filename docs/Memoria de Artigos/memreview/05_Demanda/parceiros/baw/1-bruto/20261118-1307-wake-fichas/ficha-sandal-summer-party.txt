@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/sandal-summer-party-154149
+lido_em: 2026-11-18T13:13:14-03:00
+html_origem: ficha-sandal-summer-party.html (sha256 8ccd0b980a86440a0c254fd7822565d42ee3cb119f54d1d1848faac8066c0b45)
+nome: SANDAL SUMMER PARTY
+sku: 00686213273334
+trilha: Página inicial > Calçados > SANDAL SUMMER PARTY
+preco: R$ 119,00
+preco_de: R$ 159,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+SANDAL SUMMER PARTY
+SANDAL SUMMER PARTY

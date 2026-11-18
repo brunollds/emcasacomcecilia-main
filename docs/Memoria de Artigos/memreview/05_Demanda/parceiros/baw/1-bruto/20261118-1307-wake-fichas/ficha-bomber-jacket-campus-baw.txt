@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/bomber-jacket-campus-baw-151712
+lido_em: 2026-11-18T13:10:04-03:00
+html_origem: ficha-bomber-jacket-campus-baw.html (sha256 65455c3a6b58cfc7acde4c4a74013e328a8f819a79220f5f60c422658207d0e3)
+nome: BOMBER JACKET CAMPUS BAW
+sku: 0084766040M
+trilha: Página inicial > Roupas > Jaquetas > BOMBER JACKET CAMPUS BAW
+preco: R$ 369,00
+preco_de: R$ 899,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+BOMBER JACKET CAMPUS BAW
+BOMBER JACKET CAMPUS BAW

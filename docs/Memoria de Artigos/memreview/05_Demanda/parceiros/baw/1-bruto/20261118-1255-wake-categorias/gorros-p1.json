@@ -1,0 +1,15 @@
+{
+ "arquivo_origem": "gorros-p1.html",
+ "sha256_origem": "57cf3a34be112573d6fcdc67c8e2c858f114fc72ab3b639e25ec5a0b75656c6b",
+ "titulo": "Gorros",
+ "title_pagina": "Moletom Baw Pass",
+ "contagem_pagina": 0,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/acessorios/gorros",
+  "numberOfItems": "0",
+  "itemListElement": []
+ },
+ "cartoes": []
+}

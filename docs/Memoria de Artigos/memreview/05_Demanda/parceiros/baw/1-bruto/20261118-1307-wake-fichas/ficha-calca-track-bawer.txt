@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/calca-track-bawer-151966
+lido_em: 2026-11-18T13:09:03-03:00
+html_origem: ficha-calca-track-bawer.html (sha256 e475507164d12d0a1166b1b587589530423de4ca0c23d72e401004692d606e1e)
+nome: CALÇA TRACK BAW&R
+sku: 04.35.0156040M
+trilha: Página inicial > Roupas > Calças > CALÇA TRACK BAW&R
+preco: R$ 219,00
+preco_de: R$ 279,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+CALÇA TRACK BAW&R
+CALÇA TRACK BAW&amp;R

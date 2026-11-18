@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/saia-plaid-cargo-baw-x-sd-150799
+lido_em: 2026-11-18T13:11:29-03:00
+html_origem: ficha-saia-plaid-cargo-baw-x-sd.html (sha256 076427c848a9cc5aa9333d3e8869c48a58a35f78e11c60a9bb85cfba73c4cff5)
+nome: SAIA PLAID CARGO BAW X SD
+sku: 009576876042
+trilha: Página inicial > Roupas > Saias > SAIA PLAID CARGO BAW X SD
+preco: R$ 189,00
+preco_de: R$ 299,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+SAIA PLAID CARGO BAW X SD
+SAIA PLAID CARGO BAW X SD

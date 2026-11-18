@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/calca-jeans-bag-cargo-garden-150677
+lido_em: 2026-11-18T13:09:41-03:00
+html_origem: ficha-calca-jeans-bag-cargo-garden.html (sha256 7ebfe17c1d8d358ebac6cf3cae02c1bc5ec4dcce9b512c303749f1f67e8d6de4)
+nome: CALCA JEANS BAG CARGO GARDEN
+sku: 009871204036
+trilha: Página inicial > Roupas > Calças > CALCA JEANS BAG CARGO GARDEN
+preco: R$ 319,00
+preco_de: R$ 399,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+CALCA JEANS BAG CARGO GARDEN
+CALCA JEANS BAG CARGO GARDEN

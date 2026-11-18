@@ -1,0 +1,46 @@
+url: https://www.bawclothing.com.br/produto/bomber-jacket-college-hp-x-baw-153577
+lido_em: 2026-11-18T13:10:27-03:00
+html_origem: ficha-bomber-jacket-college-hp-x-baw.html (sha256 e4e1493be8f3a54efb0a8f89b180e0c5c91ef155fc843630a1eb3aaba5ed3309)
+nome: BOMBER JACKET COLLEGE HP X BAW
+sku: 0099873272M
+trilha: Página inicial > Roupas > Jaquetas > BOMBER JACKET COLLEGE HP X BAW
+preco: R$ 699,00
+preco_de: R$ 999,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+BOMBER JACKET COLLEGE HP X BAW
+Jaqueta Bomber College Hogwarts HP X BAW da colaboração oficial com Harry Potter®, combinando o visual varsity clássico com a atmosfera mágica de Hogwarts. Confeccionada em tecido encorpado, traz o corpo em tom vinho (bordo) contrastando com mangas brancas, fechamento frontal por botões de pressão e acabamentos canelados em listras amarelas e vinho na gola, punhos e barra.O destaque fica por conta do brasão de Hogwarts aplicado no peito, do logo Harry Potter x BAW gravado de forma discreta na lateral frontal e do patch exclusivo na manga. Streetwear de coleção que une o estilo preppy ao universo bruxo com forte identidade visual.
+Como combinar essa jaqueta bomber no visual do dia a dia?
+Por ter um corte marcante e cores contrastantes, a jaqueta se destaca como a peça principal do look. Funciona perfeitamente sobreposta a uma regata ou camiseta básica branca e combinada com calça jeans baggy ou cargo para manter a pegada streetwear urbana.
+Por que a modelagem college valoriza essa peça?
+O estilo college (varsity) traz uma estética retrô e esportiva que adiciona estrutura aos ombros e volume ao visual. Os detalhes em retilínea listrada nos acabamentos garantem o ajuste ideal ao corpo sem perder o caimento oversized e confortável.
+Tabela de medidas:
+PP - Comprimento: 64cm/ Tórax: 61cm/ Barra: 52cm/ Manga: 57,5cm/ Ombro: 17,5cm/ Cava: 29,5cm.
+P - Comprimento: 66cm/ Tórax: 64cm/ Barra: 55cm/ Manga: 59,5cm/ Ombro: 18,5cm/ Cava: 30,5cm.
+M - Comprimento: 68cm/ Tórax: 67cm/ Barra: 58cm/ Manga: 61,5cm/ Ombro: 19,5cm/ Cava: 31,5cm.
+G - Comprimento: 70cm/ Tórax: 70cm/ Barra: 61cm/ Manga: 63,5cm/ Ombro: 20,5cm/ Cava: 32,5cm.
+GG - Comprimento: 72cm/ Tórax: 73cm/ Barra: 64cm/ Manga: 65,5cm/ Ombro: 21,5cm/ Cava: 33,5cm.
+GGG - Comprimento: 74cm/ Tórax: 76cm/ Barra: 67cm/ Manga: 67,5cm/ Ombro: 22,5cm/ Cava: 34,5cm.
+CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+Este anúncio se refere somente ao moletom. Os demais itens contidos na imagem são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+BOMBER JACKET COLLEGE HP X BAW
+Jaqueta Bomber College Hogwarts HP X BAW da colaboração oficial com Harry Potter®, combinando o visual varsity clássico com a atmosfera mágica de Hogwarts. Confeccionada em tecido encorpado, traz o corpo em tom vinho (bordo) contrastando com mangas brancas, fechamento frontal por botões de pressão e acabamentos canelados em listras amarelas e vinho na gola, punhos e barra.O destaque fica por conta do brasão de Hogwarts aplicado no peito, do logo Harry Potter x BAW gravado de forma discreta na lateral frontal e do patch exclusivo na manga. Streetwear de coleção que une o estilo preppy ao universo bruxo com forte identidade visual.
+Como combinar essa jaqueta bomber no visual do dia a dia?
+Por ter um corte marcante e cores contrastantes, a jaqueta se destaca como a peça principal do look. Funciona perfeitamente sobreposta a uma regata ou camiseta básica branca e combinada com calça jeans baggy ou cargo para manter a pegada streetwear urbana.
+Por que a modelagem college valoriza essa peça?
+O estilo college (varsity) traz uma estética retrô e esportiva que adiciona estrutura aos ombros e volume ao visual. Os detalhes em retilínea listrada nos acabamentos garantem o ajuste ideal ao corpo sem perder o caimento oversized e confortável.
+Tabela de medidas:
+PP - Comprimento: 64cm/ Tórax: 61cm/ Barra: 52cm/ Manga: 57,5cm/ Ombro: 17,5cm/ Cava: 29,5cm.
+P - Comprimento: 66cm/ Tórax: 64cm/ Barra: 55cm/ Manga: 59,5cm/ Ombro: 18,5cm/ Cava: 30,5cm.
+M - Comprimento: 68cm/ Tórax: 67cm/ Barra: 58cm/ Manga: 61,5cm/ Ombro: 19,5cm/ Cava: 31,5cm.
+G - Comprimento: 70cm/ Tórax: 70cm/ Barra: 61cm/ Manga: 63,5cm/ Ombro: 20,5cm/ Cava: 32,5cm.
+GG - Comprimento: 72cm/ Tórax: 73cm/ Barra: 64cm/ Manga: 65,5cm/ Ombro: 21,5cm/ Cava: 33,5cm.
+GGG - Comprimento: 74cm/ Tórax: 76cm/ Barra: 67cm/ Manga: 67,5cm/ Ombro: 22,5cm/ Cava: 34,5cm.
+CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+Este anúncio se refere somente ao moletom. Os demais itens contidos na imagem são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.

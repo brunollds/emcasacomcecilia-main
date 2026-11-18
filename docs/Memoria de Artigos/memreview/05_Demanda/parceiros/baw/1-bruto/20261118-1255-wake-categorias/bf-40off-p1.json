@@ -1,0 +1,39 @@
+{
+ "arquivo_origem": "bf-40off-p1.html",
+ "sha256_origem": "f137221182640291f9e894d4ec84e97e06750bc388ae9c92aa39ec151ba18619",
+ "titulo": null,
+ "title_pagina": "Black Friday 40% OFF",
+ "contagem_pagina": 1,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/black-friday/40off",
+  "numberOfItems": "1",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-track-baw-energy-151120/342122.jpg?w=556&h=833&v=202509021143",
+    "url": "https://www.bawclothing.com.br/calca-track-baw-energy-151120",
+    "name": "CALÇA TRACK BAW ENERGY",
+    "offers": {
+     "@type": "Offer",
+     "price": "159.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "151120",
+   "href": "/calca-track-baw-energy-151120",
+   "nome": "CALÇA TRACK BAW ENERGY",
+   "preco": "R$ 159,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Laranja Fluor",
+   "genero": "Unisex"
+  }
+ ]
+}

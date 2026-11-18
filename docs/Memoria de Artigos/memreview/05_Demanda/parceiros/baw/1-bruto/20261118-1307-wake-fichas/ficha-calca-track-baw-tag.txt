@@ -1,0 +1,52 @@
+url: https://www.bawclothing.com.br/produto/calca-track-baw-tag-153886
+lido_em: 2026-11-18T13:13:51-03:00
+html_origem: ficha-calca-track-baw-tag.html (sha256 4e81f4506a9a46a31f9d1d1f4cf5db545a885a0290e5438e34962c858d1e893a)
+nome: CALÇA TRACK BAW TAG
+sku: 04.35.0154040P
+trilha: Página inicial > Roupas > Calças > CALÇA TRACK BAW TAG
+preco: R$ 199,00
+preco_de: R$ 349,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+CALÇA TRACK BAW TAG PRETO
+A Calça Track BAW Tag traduz o essencial do estilo streetwear casual em um design marcante e versátil. Confeccionada em moletom flanelado encorpado de alta qualidade, a peça oferece um toque extremamente macio na pele e excelente proteção térmica para os dias mais frios. O grande destaque fica por conta do grafismo em silk na vertical com o nome BAW® estampado ao longo da perna esquerda, conferindo presença e atitude ao visual. Conta com cós elástico reforçado acompanhado de cordão ajustável, bolsos laterais funcionais estilo faca e acabamento em ribana com elástico na barra que garante a modelagem jogger perfeita.
+Tabela de Medidas:
+PP - Comprimento Lateral: 93,5cm/ Cintura: 36cm/ Quadril: 51,5cm/ Gancho Dianteiro: 30cm/ Gancho Traseiro: 39cm.
+P - Comprimento Lateral: 95,5cm/ Cintura: 38cm/ Quadril: 53,5cm/ Gancho Dianteiro: 31cm/ Gancho Traseiro: 40cm.
+M - Comprimento Lateral: 97,5cm/ Cintura: 40cm/ Quadril: 55,5cm/ Gancho Dianteiro: 32cm/ Gancho Traseiro: 41cm.
+G - Comprimento Lateral: 99,5cm/ Cintura: 42cm/ Quadril: 57,5cm/ Gancho Dianteiro: 33cm/ Gancho Traseiro: 42cm.
+GG - Comprimento Lateral: 101,5cm/ Cintura: 44cm/ Quadril: 59,5cm/ Gancho Dianteiro: 34cm/ Gancho Traseiro: 43cm.
+GGG - Comprimento Lateral: 103,5cm/ Cintura: 46cm/ Quadril: 61,5cm/ Gancho Dianteiro: 35cm/ Gancho Traseiro: 44cm.
+Composição: 50% Algodão e 50% Poliéster.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a calça. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+CALÇA TRACK BAW TAG PRETO
+A 
+Calça Track BAW Tag
+ traduz o essencial do estilo 
+streetwear
+ casual em um design marcante e versátil. Confeccionada em moletom flanelado encorpado de alta qualidade, a peça oferece um toque extremamente macio na pele e excelente proteção térmica para os dias mais frios. O grande destaque fica por conta do grafismo em silk na vertical com o nome 
+BAW®
+ estampado ao longo da perna esquerda, conferindo presença e atitude ao visual. Conta com cós elástico reforçado acompanhado de cordão ajustável, bolsos laterais funcionais estilo faca e acabamento em ribana com elástico na barra que garante a modelagem 
+jogger
+ perfeita.
+Tabela de Medidas:
+PP - Comprimento Lateral: 93,5cm/ Cintura: 36cm/ Quadril: 51,5cm/ Gancho Dianteiro: 30cm/ Gancho Traseiro: 39cm.
+P - Comprimento Lateral: 95,5cm/ Cintura: 38cm/ Quadril: 53,5cm/ Gancho Dianteiro: 31cm/ Gancho Traseiro: 40cm.
+M - Comprimento Lateral: 97,5cm/ Cintura: 40cm/ Quadril: 55,5cm/ Gancho Dianteiro: 32cm/ Gancho Traseiro: 41cm.
+G - Comprimento Lateral: 99,5cm/ Cintura: 42cm/ Quadril: 57,5cm/ Gancho Dianteiro: 33cm/ Gancho Traseiro: 42cm.
+GG - Comprimento Lateral: 101,5cm/ Cintura: 44cm/ Quadril: 59,5cm/ Gancho Dianteiro: 34cm/ Gancho Traseiro: 43cm.
+GGG - Comprimento Lateral: 103,5cm/ Cintura: 46cm/ Quadril: 61,5cm/ Gancho Dianteiro: 35cm/ Gancho Traseiro: 44cm.
+Composição: 50% Algodão e 50% Poliéster.
+&nbsp;
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a calça. Os demais itens contidos na imagem, são vendidos separadamente.
+&nbsp;
+Peça da BAW Clothing criada e produzida no Brasil.

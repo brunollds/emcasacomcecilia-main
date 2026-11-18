@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/camiseta-br-kids-baw-sinister-154190
+lido_em: 2026-11-18T13:12:07-03:00
+html_origem: ficha-camiseta-br-kids-baw-sinister.html (sha256 2c0389ce704f9f00f8cc4379641ac0496050e5d4aa4caffb508a7a02189f1c16)
+nome: CAMISETA BR KIDS BAW SINISTER
+sku: 12.02.418301412
+trilha: Página inicial > Kids > CAMISETA BR KIDS BAW SINISTER
+preco: R$ 39,00
+preco_de: @nao-se-aplica
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+CAMISETA BR KIDS BAW SINISTER
+CAMISETA BR KIDS BAW SINISTER

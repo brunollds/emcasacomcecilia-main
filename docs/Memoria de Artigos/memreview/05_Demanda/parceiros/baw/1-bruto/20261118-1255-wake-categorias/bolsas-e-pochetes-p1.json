@@ -1,0 +1,347 @@
+{
+ "arquivo_origem": "bolsas-e-pochetes-p1.html",
+ "sha256_origem": "f0a1f56500a9255537fa300cb35afc1d859f5bf12755848618cbe379b0944055",
+ "titulo": "Bolsas e Pochetes",
+ "title_pagina": "Bolsas, pochetes e shoulders bags com estilo streetwear",
+ "contagem_pagina": 15,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/acessorios/bolsas-e-pochetes",
+  "numberOfItems": "15",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/carteira-velcro-chillibaw-153993/364805-1.jpg?w=556&h=833&v=202610081213",
+    "url": "https://www.bawclothing.com.br/carteira-velcro-chillibaw-153993",
+    "name": "CARTEIRA VELCRO CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bolsa-crossbody-baw-script-153651/362649.jpg?w=556&h=833&v=202603191142",
+    "url": "https://www.bawclothing.com.br/bolsa-crossbody-baw-script-153651",
+    "name": "BOLSA CROSSBODY BAW SCRIPT",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bolsa-crescent-baw-respect-153649/362647.jpg?w=556&h=833&v=202603191142",
+    "url": "https://www.bawclothing.com.br/bolsa-crescent-baw-respect-153649",
+    "name": "BOLSA CRESCENT BAW RESPECT",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bolsa-crossbody-cargo-baw-respect-153648/362646-1.jpg?w=556&h=833&v=202603191240",
+    "url": "https://www.bawclothing.com.br/bolsa-crossbody-cargo-baw-respect-153648",
+    "name": "BOLSA CROSSBODY CARGO BAW RESPECT",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/smashed-shoulder-baw-subscript-151962/362645.jpg?w=556&h=833&v=202603171621",
+    "url": "https://www.bawclothing.com.br/smashed-shoulder-baw-subscript-151962",
+    "name": "SMASHED SHOULDER BAW SUBSCRIPT",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bolsa-linus-153612/362527.jpg?w=556&h=833&v=202603051221",
+    "url": "https://www.bawclothing.com.br/bolsa-linus-153612",
+    "name": "BOLSA LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bolsa-linus-153611/362526.jpg?w=556&h=833&v=202603121009",
+    "url": "https://www.bawclothing.com.br/bolsa-linus-153611",
+    "name": "BOLSA LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bolsa-crossbody-cargo-baw-respect-151836/362042-1.jpg?w=556&h=833&v=202603181920",
+    "url": "https://www.bawclothing.com.br/bolsa-crossbody-cargo-baw-respect-151836",
+    "name": "BOLSA CROSSBODY CARGO BAW RESPECT",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bolsa-crossbody-baw-script-151898/362041.jpg?w=556&h=833&v=202603171612",
+    "url": "https://www.bawclothing.com.br/bolsa-crossbody-baw-script-151898",
+    "name": "BOLSA CROSSBODY BAW SCRIPT",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/smashed-shoulder-box-logo-153525/361839-1.jpg?w=556&h=833&v=202603202210",
+    "url": "https://www.bawclothing.com.br/smashed-shoulder-box-logo-153525",
+    "name": "SMASHED SHOULDER BOX LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/smashed-shoulder-box-logo-153496/361684-1.jpg?w=556&h=833&v=202603202123",
+    "url": "https://www.bawclothing.com.br/smashed-shoulder-box-logo-153496",
+    "name": "SMASHED SHOULDER BOX LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/smashed-shoulder-street-garden-151129/342150.jpg?w=556&h=833&v=202509221401",
+    "url": "https://www.bawclothing.com.br/smashed-shoulder-street-garden-151129",
+    "name": "SMASHED SHOULDER STREET GARDEN",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/tote-bag-baw-151494/347568-1.jpg?w=556&h=833&v=202601201452",
+    "url": "https://www.bawclothing.com.br/tote-bag-baw-151494",
+    "name": "TOTE BAG BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/tote-bag-g-baw-athletics-153977/364788-1.jpg?w=556&h=833&v=202611091753",
+    "url": "https://www.bawclothing.com.br/tote-bag-g-baw-athletics-153977",
+    "name": "TOTE BAG G BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "169.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bolsa-linus-153610/362525.jpg?w=556&h=833&v=202603051224",
+    "url": "https://www.bawclothing.com.br/bolsa-linus-153610",
+    "name": "BOLSA LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "189.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "153993",
+   "href": "/carteira-velcro-chillibaw-153993",
+   "nome": "CARTEIRA VELCRO CHILLIBAW",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "31%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153651",
+   "href": "/bolsa-crossbody-baw-script-153651",
+   "nome": "BOLSA CROSSBODY BAW SCRIPT",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Bege",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153649",
+   "href": "/bolsa-crescent-baw-respect-153649",
+   "nome": "BOLSA CRESCENT BAW RESPECT",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "72%",
+   "selos": null,
+   "cor": "Azul",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153648",
+   "href": "/bolsa-crossbody-cargo-baw-respect-153648",
+   "nome": "BOLSA CROSSBODY CARGO BAW RESPECT",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 329,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Olive",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151962",
+   "href": "/smashed-shoulder-baw-subscript-151962",
+   "nome": "SMASHED SHOULDER BAW SUBSCRIPT",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "17%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153612",
+   "href": "/bolsa-linus-153612",
+   "nome": "BOLSA LINUS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 243,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Rosa Pink",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153611",
+   "href": "/bolsa-linus-153611",
+   "nome": "BOLSA LINUS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 243,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Laranja Fluor",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151836",
+   "href": "/bolsa-crossbody-cargo-baw-respect-151836",
+   "nome": "BOLSA CROSSBODY CARGO BAW RESPECT",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 329,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Roxo/Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151898",
+   "href": "/bolsa-crossbody-baw-script-151898",
+   "nome": "BOLSA CROSSBODY BAW SCRIPT",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153525",
+   "href": "/smashed-shoulder-box-logo-153525",
+   "nome": "SMASHED SHOULDER BOX LOGO",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "23%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153496",
+   "href": "/smashed-shoulder-box-logo-153496",
+   "nome": "SMASHED SHOULDER BOX LOGO",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "23%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151129",
+   "href": "/smashed-shoulder-street-garden-151129",
+   "nome": "SMASHED SHOULDER STREET GARDEN",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151494",
+   "href": "/tote-bag-baw-151494",
+   "nome": "TOTE BAG BAW",
+   "preco": "R$ 149,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Verde",
+   "genero": "UNISEX"
+  },
+  {
+   "id": "153977",
+   "href": "/tote-bag-g-baw-athletics-153977",
+   "nome": "TOTE BAG G BAW ATHLETICS",
+   "preco": "R$ 169,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153610",
+   "href": "/bolsa-linus-153610",
+   "nome": "BOLSA LINUS",
+   "preco": "R$ 189,00",
+   "preco_de": "R$ 243,00",
+   "selo_off": "22%",
+   "selos": null,
+   "cor": "Amarelo Fluor",
+   "genero": "Unisex"
+  }
+ ]
+}

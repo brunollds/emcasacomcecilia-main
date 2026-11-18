@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/slide-baw-154154
+lido_em: 2026-11-18T13:13:23-03:00
+html_origem: ficha-slide-baw.html (sha256 0c2ab5f0bd867a9f9fa77b293131f01637d1561a04d37162f8bf649b0d1c9553)
+nome: SLIDE BAW
+sku: 00733281343940
+trilha: Página inicial > Calçados > Slide > SLIDE BAW
+preco: R$ 239,00
+preco_de: R$ 299,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+SLIDE BAW
+SLIDE BAW

@@ -1,0 +1,15 @@
+{
+ "arquivo_origem": "bf-vestidos-p1.html",
+ "sha256_origem": "12ef606b87a3e8774a0f5f7ad714aae66935c472348366e16ed5d9341f431e44",
+ "titulo": "Vestidos",
+ "title_pagina": "Vestidos - Black Friday - Baw Clothing",
+ "contagem_pagina": 0,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/black-friday/vestidos",
+  "numberOfItems": "0",
+  "itemListElement": []
+ },
+ "cartoes": []
+}

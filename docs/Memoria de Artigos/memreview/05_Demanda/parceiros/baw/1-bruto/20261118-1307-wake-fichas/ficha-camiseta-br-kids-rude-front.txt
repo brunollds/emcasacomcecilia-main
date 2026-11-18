@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/camiseta-br-kids-rude-front-154202
+lido_em: 2026-11-18T13:12:02-03:00
+html_origem: ficha-camiseta-br-kids-rude-front.html (sha256 59c1b769c5e3aab53ad39a4c82a708251759d6be1b2b5c070880f7f4ee6765a4)
+nome: CAMISETA BR KIDS RUDE FRONT
+sku: 12.02.418101408
+trilha: Página inicial > Kids > CAMISETA BR KIDS RUDE FRONT
+preco: R$ 39,00
+preco_de: @nao-se-aplica
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+CAMISETA BR KIDS RUDE FRONT
+CAMISETA BR KIDS RUDE FRONT

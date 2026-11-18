@@ -1,0 +1,40 @@
+url: https://www.bawclothing.com.br/produto/camiseta-regular-baw-wide-151956
+lido_em: 2026-11-18T13:07:14-03:00
+html_origem: ficha-camiseta-regular-baw-wide.html (sha256 0b49e066882cb34466b4c5324bd9920bdf212f9cc14de68360d565715d206f2d)
+nome: CAMISETA REGULAR BAW WIDE
+sku: 12.02.3804040M
+trilha: Página inicial > Roupas > Camisetas > CAMISETA REGULAR BAW WIDE
+preco: R$ 59,00
+preco_de: R$ 129,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+CAMISETA REGULAR BAW WIDE PRETO
+Camiseta regular de algodão com modelagem reta e gola careca.
+PP - Comprimento: 66cm/ Torax: 48cm/ Barra: 47cm/ Manga: 18cm/ Cava: 22cm.
+P - Comprimento: 68cm/ Torax: 51cm/ Barra: 50cm/ Manga: 19cm/ Cava: 23cm.
+M - Comprimento: 70cm/ Torax: 54cm/ Barra: 53cm/ Manga: 20cm/ Cava: 24cm.
+G - Comprimento: 72cm/ Torax: 57cm/ Barra: 57cm/ Manga: 21cm/ Cava: 25cm.
+GG - Comprimento: 74cm/ Torax: 60cm/ Barra: 60cm/ Manga: 22cm/ Cava: 26cm.
+GGG - Comprimento: 76cm/ Torax: 63cm/ Barra: 63cm/ Manga: 23cm/ Cava: 27cm.
+Composição: 100% Algodão.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a Camiseta. Os demais itens contidos na imagem, são vendidos separadamente.
+Todas as peças da BAW Clothing são criadas e produzidas no Brasil.
+
+--- description do JSON-LD Product ---
+CAMISETA REGULAR BAW WIDE PRETO
+Camiseta regular de algodão com modelagem reta e gola careca.
+PP - Comprimento: 66cm/ Torax: 48cm/ Barra: 47cm/ Manga: 18cm/ Cava: 22cm.
+P - Comprimento: 68cm/ Torax: 51cm/ Barra: 50cm/ Manga: 19cm/ Cava: 23cm.
+M - Comprimento: 70cm/ Torax: 54cm/ Barra: 53cm/ Manga: 20cm/ Cava: 24cm.
+G - Comprimento: 72cm/ Torax: 57cm/ Barra: 57cm/ Manga: 21cm/ Cava: 25cm.
+GG - Comprimento: 74cm/ Torax: 60cm/ Barra: 60cm/ Manga: 22cm/ Cava: 26cm.
+GGG - Comprimento: 76cm/ Torax: 63cm/ Barra: 63cm/ Manga: 23cm/ Cava: 27cm.
+Composição: 100% Algodão.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a Camiseta. Os demais itens contidos na imagem, são vendidos separadamente.
+Todas as peças da BAW Clothing são criadas e produzidas no Brasil.

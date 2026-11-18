@@ -1,0 +1,61 @@
+{
+ "arquivo_origem": "pica-pau-p1.html",
+ "sha256_origem": "70c9eafb4edaae09bd442db025bf248b4cf39e608cf8e9c8a0434b631d048af2",
+ "titulo": null,
+ "title_pagina": "Drop Baw e Pica Pau: camisetas, jaquetas, calças e mais",
+ "contagem_pagina": 2,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/pica-pau",
+  "numberOfItems": "2",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-x-pica-pau-151228/345034.jpg?w=556&h=833&v=202509171542",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-x-pica-pau-151228",
+    "name": "CAMISETA OVERSIZED BAW X PICA PAU",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-track-baw-x-pica-pau-151227/345048.jpg?w=556&h=833&v=202509171513",
+    "url": "https://www.bawclothing.com.br/calca-track-baw-x-pica-pau-151227",
+    "name": "CALCA TRACK BAW X PICA PAU",
+    "offers": {
+     "@type": "Offer",
+     "price": "209.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "151228",
+   "href": "/camiseta-oversized-baw-x-pica-pau-151228",
+   "nome": "CAMISETA OVERSIZED BAW X PICA PAU",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151227",
+   "href": "/calca-track-baw-x-pica-pau-151227",
+   "nome": "CALCA TRACK BAW X PICA PAU",
+   "preco": "R$ 209,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Marinho",
+   "genero": "Unisex"
+  }
+ ]
+}

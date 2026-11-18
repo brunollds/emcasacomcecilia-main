@@ -1,0 +1,42 @@
+url: https://www.bawclothing.com.br/produto/bermuda-mesh-court-academics-150428
+lido_em: 2026-11-18T13:10:47-03:00
+html_origem: ficha-bermuda-mesh-court-academics.html (sha256 ad166767738705d812b860b1eb875bdfa47eb7754af63b1253f31e3ab7da36a9)
+nome: BERMUDA MESH COURT ACADEMICS
+sku: 0089239855M
+trilha: Página inicial > Roupas > Shorts > BERMUDA MESH COURT ACADEMICS
+preco: R$ 129,00
+preco_de: R$ 329,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+BERMUDA MESH COURT ACADEMICS AZUL MARINHO
+BERMUDA MESH COURT ACADEMICS
+PP - Comprimento lateral: 42cm/ Cintura: 36cm/ Gancho dianteiro: 31cm/ Gancho traseiro: 37,5cm.
+P - Comprimento lateral: 44cm/ Cintura: 38cm/ Gancho dianteiro: 32cm/ Gancho traseiro: 38,5cm.
+M - Comprimento lateral: 46cm/ Cintura: 40cm/ Gancho dianteiro: 33cm/ Gancho traseiro: 39,5cm.
+G - Comprimento lateral: 48cm/ Cintura: 42cm/ Gancho dianteiro: 34cm/ Gancho traseiro: 40,5cm.
+GG - Comprimento lateral: 50cm/ Cintura: 44cm/ Gancho dianteiro: 35cm/ Gancho traseiro: 41,5cm.
+GGG - Comprimento lateral: 52cm/ Cintura: 46cm/ Gancho dianteiro: 36cm/ Gancho traseiro: 46cm.
+4G - Comprimento lateral: 54cm/ Cintura: 48cm/ Gancho dianteiro: 37m/ Gancho traseiro: 42,5cm.
+Composição: 100% Poliéster.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente ao shorts. Os demais itens contidos na imagem, são vendidos separadamente.
+Todas as peças da BAW Clothing são criadas e produzidas no Brasil.
+
+--- description do JSON-LD Product ---
+BERMUDA MESH COURT ACADEMICS AZUL MARINHO
+BERMUDA MESH COURT ACADEMICS
+PP - Comprimento lateral: 42cm/ Cintura: 36cm/ Gancho dianteiro: 31cm/ Gancho traseiro: 37,5cm.
+P - Comprimento lateral: 44cm/ Cintura: 38cm/ Gancho dianteiro: 32cm/ Gancho traseiro: 38,5cm.
+M - Comprimento lateral: 46cm/ Cintura: 40cm/ Gancho dianteiro: 33cm/ Gancho traseiro: 39,5cm.
+G - Comprimento lateral: 48cm/ Cintura: 42cm/ Gancho dianteiro: 34cm/ Gancho traseiro: 40,5cm.
+GG - Comprimento lateral: 50cm/ Cintura: 44cm/ Gancho dianteiro: 35cm/ Gancho traseiro: 41,5cm.
+GGG - Comprimento lateral: 52cm/ Cintura: 46cm/ Gancho dianteiro: 36cm/ Gancho traseiro: 46cm.
+4G - Comprimento lateral: 54cm/ Cintura: 48cm/ Gancho dianteiro: 37m/ Gancho traseiro: 42,5cm.
+Composi&ccedil;&atilde;o: 100% Poli&eacute;ster.
+*MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este an&uacute;ncio se refere somente ao shorts. Os demais itens contidos na imagem, s&atilde;o vendidos separadamente.
+Todas as pe&ccedil;as da BAW Clothing s&atilde;o criadas e produzidas no Brasil.

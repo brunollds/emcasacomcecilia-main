@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/tenis-baw-audacity-151247
+lido_em: 2026-11-18T13:12:55-03:00
+html_origem: ficha-tenis-baw-audacity.html (sha256 1b8a0b1a620d1a7a0ad3857ba598d6a271ff230e23ec246064c83aed614e7538)
+nome: TENIS BAW AUDACITY
+sku: 5.05.186851439
+trilha: Página inicial > Calçados > Tênis > TENIS BAW AUDACITY
+preco: R$ 279,00
+preco_de: R$ 399,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+TENIS BAW AUDACITY
+TENIS BAW AUDACITY

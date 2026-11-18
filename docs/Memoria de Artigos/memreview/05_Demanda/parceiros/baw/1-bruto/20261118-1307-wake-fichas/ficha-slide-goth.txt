@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/slide-goth-151255
+lido_em: 2026-11-18T13:13:09-03:00
+html_origem: ficha-slide-goth.html (sha256 021e51877c595b170ead5708b4d64870274fb9452f9bc8f463ffaccffed45898)
+nome: SLIDE GOTH
+sku: 5.02.062704039/40
+trilha: Página inicial > Calçados > Slide > SLIDE GOTH
+preco: R$ 99,00
+preco_de: R$ 229,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+SLIDE GOTH
+SLIDE GOTH

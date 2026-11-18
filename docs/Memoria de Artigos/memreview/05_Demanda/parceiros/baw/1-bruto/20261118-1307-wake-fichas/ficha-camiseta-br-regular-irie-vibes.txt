@@ -1,0 +1,53 @@
+url: https://www.bawclothing.com.br/produto/camiseta-br-regular-irie-vibes-153854
+lido_em: 2026-11-18T13:07:09-03:00
+html_origem: ficha-camiseta-br-regular-irie-vibes.html (sha256 7804f812dad5019643a7b849d238e00074a84293c7b76cb5002099ee4fa9dfff)
+nome: CAMISETA BR REGULAR IRIE VIBES
+sku: 12.02.4065014M
+trilha: Página inicial > BawPass > CAMISETA BR REGULAR IRIE VIBES
+preco: R$ 49,00
+preco_de: R$ 119,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+CAMISETA BR REGULAR IRIE VIBES BRANCO
+A Camiseta BAW Regular Irie Vibes une uma atmosfera descontraída e alegre à estética urbana do streetwear . Confeccionada em algodão macio de alta qualidade, a peça destaca uma estampa centralizada no peito composta pelo logotipo BAW® em tom rosa magenta, acompanhado por pequenos personagens dançantes em verde-água e a inscrição C·L·O·T·H·I·N·G em azul logo abaixo. Com a consagrada modelagem Regular , ela oferece caimento reto clássico e extremo conforto para o dia a dia.
+Tabela de medidas:
+PP - Comprimento: 72cm/ Tórax: 52cm/ Barra: 52cm/ Manga: 23cm/ Cava: 24cm.
+P - Comprimento: 74cm/ Tórax: 55cm/ Barra: 55cm/ Manga: 24cm/ Cava: 25cm.
+M - Comprimento: 76cm/ Tórax: 58cm/ Barra: 58cm/ Manga: 25cm/ Cava: 26cm.
+G - Comprimento: 78cm/ Tórax: 61cm/ Barra: 61cm/ Manga: 26cm/ Cava: 27cm.
+GG - Comprimento: 80cm/ Tórax: 64cm/ Barra: 64cm/ Manga: 27cm/ Cava: 28cm.
+3G - Comprimento: 82cm/ Tórax: 67cm/ Barra: 67cm/ Manga: 28cm/ Cava: 29cm.
+Composição: 100% Algodão.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a Camiseta. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+CAMISETA BR REGULAR IRIE VIBES BRANCO
+A 
+Camiseta BAW Regular Irie Vibes
+ une uma atmosfera descontraída e alegre à estética urbana do 
+streetwear
+. Confeccionada em algodão macio de alta qualidade, a peça destaca uma estampa centralizada no peito composta pelo logotipo 
+BAW®
+ em tom rosa magenta, acompanhado por pequenos personagens dançantes em verde-água e a inscrição 
+C·L·O·T·H·I·N·G
+ em azul logo abaixo. Com a consagrada modelagem 
+Regular
+, ela oferece caimento reto clássico e extremo conforto para o dia a dia.
+Tabela de medidas:
+PP - Comprimento: 72cm/ Tórax: 52cm/ Barra: 52cm/ Manga: 23cm/ Cava: 24cm.
+P - Comprimento: 74cm/ Tórax: 55cm/ Barra: 55cm/ Manga: 24cm/ Cava: 25cm.
+M - Comprimento: 76cm/ Tórax: 58cm/ Barra: 58cm/ Manga: 25cm/ Cava: 26cm.
+G - Comprimento: 78cm/ Tórax: 61cm/ Barra: 61cm/ Manga: 26cm/ Cava: 27cm.
+GG - Comprimento: 80cm/ Tórax: 64cm/ Barra: 64cm/ Manga: 27cm/ Cava: 28cm.
+3G - Comprimento: 82cm/ Tórax: 67cm/ Barra: 67cm/ Manga: 28cm/ Cava: 29cm.
+Composição:
+ 100% Algodão.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a Camiseta. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.

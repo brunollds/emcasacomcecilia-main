@@ -1,0 +1,42 @@
+url: https://www.bawclothing.com.br/produto/bermuda-flip-baw-x-sls-150396
+lido_em: 2026-11-18T13:11:06-03:00
+html_origem: ficha-bermuda-flip-baw-x-sls.html (sha256 f0882df60da551a79b2929c3fbea39336d42a3dcb63072b769aacc01ac3d322e)
+nome: BERMUDA FLIP BAW X SLS
+sku: 0092593040M
+trilha: Página inicial > Roupas > Shorts > BERMUDA FLIP BAW X SLS
+preco: R$ 199,00
+preco_de: R$ 259,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+BERMUDA FLIP BAW X SLS PRETO
+BERMUDA FLIP BAW X SLS PRETO
+PP - Comprimento lateral: 51cm/ Cintura: 35,5cm/ Gancho dianteiro: 33cm/ Gancho traseiro: 40cm/ Quadril: 50cm.
+P - Comprimento lateral: 52cm/ Cintura: 37,5cm/ Gancho dianteiro: 34cm/ Gancho traseiro: 41cm/ Quadril: 52cm.
+M - Comprimento lateral: 53cm/ Cintura: 39,5cm/ Gancho dianteiro: 35cm/ Gancho traseiro: 42cm/ Quadril: 54cm.
+G - Comprimento lateral: 54cm/ Cintura: 41,5cm/ Gancho dianteiro: 36cm/ Gancho traseiro: 44cm/ Quadril: 56cm.
+GG - Comprimento lateral: 55cm/ Cintura: 43,5cm/ Gancho dianteiro: 37cm/ Gancho traseiro: 45cm/ Quadril: 58cm.
+GGG - Comprimento lateral: 56cm/ Cintura: 45,5cm/ Gancho dianteiro: 38cm/ Gancho traseiro: 46cm/ Quadril: 60cm.
+4G - Comprimento lateral: 57cm/ Cintura: 47,5cm/ Gancho dianteiro: 39m/ Gancho traseiro: 47cm/ Quadril: 62cm.
+Composição: 100% Algodão.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente ao shorts. Os demais itens contidos na imagem, são vendidos separadamente.
+Todas as peças da BAW Clothing são criadas e produzidas no Brasil.
+
+--- description do JSON-LD Product ---
+BERMUDA FLIP BAW X SLS PRETO
+BERMUDA FLIP BAW X SLS PRETO
+PP - Comprimento lateral: 51cm/ Cintura: 35,5cm/ Gancho dianteiro: 33cm/ Gancho traseiro: 40cm/ Quadril: 50cm.
+P - Comprimento lateral: 52cm/ Cintura: 37,5cm/ Gancho dianteiro: 34cm/ Gancho traseiro: 41cm/ Quadril: 52cm.
+M - Comprimento lateral: 53cm/ Cintura: 39,5cm/ Gancho dianteiro: 35cm/ Gancho traseiro: 42cm/ Quadril: 54cm.
+G - Comprimento lateral: 54cm/ Cintura: 41,5cm/ Gancho dianteiro: 36cm/ Gancho traseiro: 44cm/ Quadril: 56cm.
+GG - Comprimento lateral: 55cm/ Cintura: 43,5cm/ Gancho dianteiro: 37cm/ Gancho traseiro: 45cm/ Quadril: 58cm.
+GGG - Comprimento lateral: 56cm/ Cintura: 45,5cm/ Gancho dianteiro: 38cm/ Gancho traseiro: 46cm/ Quadril: 60cm.
+4G - Comprimento lateral: 57cm/ Cintura: 47,5cm/ Gancho dianteiro: 39m/ Gancho traseiro: 47cm/ Quadril: 62cm.
+Composi&ccedil;&atilde;o: 100% Algod&atilde;o.
+*MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este an&uacute;ncio se refere somente ao shorts. Os demais itens contidos na imagem, s&atilde;o vendidos separadamente.
+Todas as pe&ccedil;as da BAW Clothing s&atilde;o criadas e produzidas no Brasil.

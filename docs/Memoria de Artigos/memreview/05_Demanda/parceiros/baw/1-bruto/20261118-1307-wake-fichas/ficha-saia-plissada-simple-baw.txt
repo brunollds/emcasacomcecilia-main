@@ -1,0 +1,53 @@
+url: https://www.bawclothing.com.br/produto/saia-plissada-simple-baw-151177
+lido_em: 2026-11-18T13:11:38-03:00
+html_origem: ficha-saia-plissada-simple-baw.html (sha256 4a8e231580905e0656134c11bc434991dbfa251e834df448d36c38b18c7d8a41)
+nome: SAIA PLISSADA SIMPLE BAW
+sku: 0099390011GGG
+trilha: Página inicial > Roupas > Saias > SAIA PLISSADA SIMPLE BAW
+preco: R$ 199,00
+preco_de: R$ 249,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+SAIA PLISSADA SIMPLE BAW
+A clássica Saia Plissada Simple BAW ganha uma releitura moderna e utilitária na pegada streetwear . Confeccionada em sarja resistente na cor caqui/bege, ela possui modelagem curta, cós anatômico largo e pregas machacho estruturadas que garantem movimento e um caimento incrível. Perfeita para compor looks casuais, seja com tênis e meia alta ou combinada com peças Oversized.
+Tabela de medidas:
+PP - Comprimento Lateral: 34cm / Cintura: 34cm
+P - Comprimento Lateral: 36cm / Cintura: 36cm
+M - Comprimento Lateral: 38cm / Cintura: 38cm
+G - Comprimento Lateral: 40cm / Cintura: 40cm
+GG - Comprimento Lateral: 42cm / Cintura: 42cm
+GGG - Comprimento Lateral: 44cm / Cintura: 44cm
+Composição : 100% Algodão
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente ao Saia. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+SAIA PLISSADA SIMPLE BAW
+A clássica 
+Saia Plissada Simple BAW 
+ganha uma releitura moderna e utilitária na pegada 
+streetwear
+. Confeccionada em sarja resistente na cor caqui/bege, ela possui modelagem curta, cós anatômico largo e pregas machacho estruturadas que garantem movimento e um caimento incrível. Perfeita para compor looks casuais, seja com tênis e meia alta ou combinada com peças Oversized.
+Tabela de medidas:
+PP
+ - Comprimento Lateral: 34cm / Cintura: 34cm
+P
+ - Comprimento Lateral: 36cm / Cintura: 36cm
+M
+ - Comprimento Lateral: 38cm / Cintura: 38cm
+G
+ - Comprimento Lateral: 40cm / Cintura: 40cm
+GG
+ - Comprimento Lateral: 42cm / Cintura: 42cm
+GGG
+ - Comprimento Lateral: 44cm / Cintura: 44cm
+Composição
+: 100% Algodão
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente ao Saia. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.

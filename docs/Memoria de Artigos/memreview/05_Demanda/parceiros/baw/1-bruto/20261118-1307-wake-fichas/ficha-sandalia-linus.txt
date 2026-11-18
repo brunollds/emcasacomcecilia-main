@@ -1,0 +1,66 @@
+url: https://www.bawclothing.com.br/produto/sandalia-linus-153608
+lido_em: 2026-11-18T13:13:19-03:00
+html_origem: ficha-sandalia-linus.html (sha256 e6bafc98fb6c880391593c7fccfbf719889f7ba30e4d79740c8859647db85b48)
+nome: SANDÁLIA LINUS
+sku: 05.04.00960033334
+trilha: Página inicial > Calçados > Slide > SANDÁLIA LINUS
+preco: R$ 169,00
+preco_de: R$ 229,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+SANDÁLIA LINUS AMARELO FLÚOR
+Você não vai passar despercebido. Em um tom de vibrante, a Linus + BAW traz intensidade e ousadia ao conforto que você já conhece! Feita 100% de PVC microexpandido.
+Essa sandália é parte de uma coleção produzida a partir de uma troca genuína entre duas marcas que compartilham o mesmo objetivo: te acompanhar por onde for. De um lado, o conforto do lifestyle sustentável da Linus. Do outro, a autenticidade do streetwear da Baw.
+O resultado? Atitude e leveza caminhando lado a lado em peças marcantes e versáteis.
+Além disso, você ainda leva pra casa:
+- A primeira sandália de plástico vegana do Brasil.
+- A sandália mais confortável que já experimentou.
+- Uma palmilha anatômica única, desenvolvida por especialistas em palmilhas.
+- A praticidade de caminhar confortável sem abrir mão do seu estilo.
+Ah, uma informação importante: para que a gente possa manter a Linus como um produto monomaterial, fator que permite que ela seja 100% reciclável, nossas tiras não são ajustáveis.
+Como cuidar:
+Elas são super fáceis de limpar! Para manter sua Linus sempre novinha basta usar água, sabão neutro e passar uma escovinha. Você vai ver que em 5 minutinhos ela estará nova!?
+TABELA DE CALÇADOS
+33/34 - Circunferência do pé: 23,5cm/ Comprimento do pé: 21,5cm/ Largura do pé: 8,5cm
+35/36 - Circunferência do pé: 24,5cm/ Comprimento do pé: 24,1cm/ Largura do pé: 9cm
+37/38 - Circunferência do pé: 25,5cm/ Comprimento do pé: 25,4cm/ Largura do pé: 9,5cm
+39/40 - Circunferência do pé: 26,5cm/ Comprimento do pé: 26,8cm/ Largura do pé: 10cm
+41/42 - Circunferência do pé: 27,5cm/ Comprimento do pé: 28,1cm/ Largura do pé: 10,5cm
+43/44 - Circunferência do pé: 28,5cm/ Comprimento do pé: 29,5cm/ Largura do pé: 11cm
+Composição: PVC microexpandido.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*Este anúncio se refere somente ao tênis. Os demais itens contidos na imagem, são vendidos separadamente.
+Todas as peças da coleção BAW + Linus foram criadas e produzidas no Brasil.
+
+--- description do JSON-LD Product ---
+SANDÁLIA LINUS AMARELO FLÚOR
+Você não vai passar despercebido. Em um tom de vibrante, a Linus + BAW traz intensidade e ousadia ao conforto que você já conhece! Feita 100% de PVC microexpandido.
+Essa sandália é parte de uma coleção produzida a partir de uma troca genuína entre duas marcas que compartilham o mesmo objetivo: te acompanhar por onde for. De um lado, o conforto do lifestyle sustentável da Linus. Do outro, a autenticidade do streetwear da Baw. 
+O resultado? Atitude e leveza caminhando lado a lado em peças marcantes e versáteis.
+Além disso, você ainda leva pra casa:
+- A primeira sandália de plástico vegana do Brasil.
+- A sandália mais confortável que já experimentou.
+- Uma palmilha anatômica única, desenvolvida por especialistas em palmilhas.
+- A praticidade de caminhar confortável sem abrir mão do seu estilo.
+Ah, uma informação importante: para que a gente possa manter a Linus como um produto monomaterial, fator que permite que ela seja 100% reciclável, nossas tiras não são ajustáveis.
+Como cuidar:
+Elas são super fáceis de limpar! Para manter sua Linus sempre novinha basta usar água, sabão neutro e passar uma escovinha. Você vai ver que em 5 minutinhos ela estará nova!?
+TABELA DE CALÇADOS
+33/34
+ - Circunferência do pé: 23,5cm/ Comprimento do pé: 21,5cm/ Largura do pé: 8,5cm
+35/36
+ - Circunferência do pé: 24,5cm/ Comprimento do pé: 24,1cm/ Largura do pé: 9cm
+37/38
+ - Circunferência do pé: 25,5cm/ Comprimento do pé: 25,4cm/ Largura do pé: 9,5cm
+39/40
+ - Circunferência do pé: 26,5cm/ Comprimento do pé: 26,8cm/ Largura do pé: 10cm
+41/42
+ - Circunferência do pé: 27,5cm/ Comprimento do pé: 28,1cm/ Largura do pé: 10,5cm
+43/44
+ - Circunferência do pé: 28,5cm/ Comprimento do pé: 29,5cm/ Largura do pé: 11cm
+Composição: PVC microexpandido.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*Este anúncio se refere somente ao tênis. Os demais itens contidos na imagem, são vendidos separadamente.
+Todas as peças da coleção BAW + Linus foram criadas e produzidas no Brasil.

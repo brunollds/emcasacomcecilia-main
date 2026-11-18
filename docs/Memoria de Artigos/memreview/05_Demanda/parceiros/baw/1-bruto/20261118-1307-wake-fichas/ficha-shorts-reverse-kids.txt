@@ -1,0 +1,40 @@
+url: https://www.bawclothing.com.br/produto/shorts-reverse-kids-151314
+lido_em: 2026-11-18T13:12:12-03:00
+html_origem: ficha-shorts-reverse-kids.html (sha256 0d9fe5ebdeccb322ac6206cb4ac30ccbd59059d90a080473bb527e4ac9d54935)
+nome: SHORTS REVERSE KIDS
+sku: 02.21.015000506
+trilha: Página inicial > Black Friday > SHORTS REVERSE KIDS
+preco: R$ 39,00
+preco_de: R$ 129,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+SHORTS REVERSE KIDS AZUL
+Shorts infantil de algodão e elástico na cintura.
+04 - Comprimento: 31cm/ Cintura:25cm/ Gancho Dianteiro: 20cm/ Gancho Traseiro: 30cm.
+06 - Comprimento: 32,5cm/ Cintura:27cm/ Gancho Dianteiro: 21cm/ Gancho Traseiro: 31cm.
+08 - Comprimento: 34cm/ Cintura:29cm/ Gancho Dianteiro: 22cm/ Gancho Traseiro: 32cm.
+10 - Comprimento: 35,5cm/ Cintura:31cm/ Gancho Dianteiro: 23cm/ Gancho Traseiro: 33cm.
+12 - Comprimento: 37cm/ Cintura:33cm/ Gancho Dianteiro: 24cm/ Gancho Traseiro: 34cm.
+14 - Comprimento: 38,5cm/ Cintura:35cm/ Gancho Dianteiro: 25cm/ Gancho Traseiro: 35cm.
+Composição: 100% Algodão.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente ao Shorts. Os demais itens contidos na imagem, são vendidos separadamente.
+Todas as peças da BAW Clothing são criadas e produzidas no Brasil.
+
+--- description do JSON-LD Product ---
+SHORTS REVERSE KIDS AZUL
+Shorts infantil de algod&atilde;o e el&aacute;stico na cintura.
+04 - Comprimento: 31cm/ Cintura:25cm/ Gancho Dianteiro: 20cm/ Gancho Traseiro: 30cm.
+06 - Comprimento: 32,5cm/ Cintura:27cm/ Gancho Dianteiro: 21cm/ Gancho Traseiro: 31cm.
+08 - Comprimento: 34cm/ Cintura:29cm/ Gancho Dianteiro: 22cm/ Gancho Traseiro: 32cm.
+10 - Comprimento: 35,5cm/ Cintura:31cm/ Gancho Dianteiro: 23cm/ Gancho Traseiro: 33cm.
+12 - Comprimento: 37cm/ Cintura:33cm/ Gancho Dianteiro: 24cm/ Gancho Traseiro: 34cm.
+14 - Comprimento: 38,5cm/ Cintura:35cm/ Gancho Dianteiro: 25cm/ Gancho Traseiro: 35cm.
+Composi&ccedil;&atilde;o: 100% Algod&atilde;o.
+*MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este an&uacute;ncio se refere somente ao Shorts. Os demais itens contidos na imagem, s&atilde;o vendidos separadamente.
+Todas as pe&ccedil;as da BAW Clothing s&atilde;o criadas e produzidas no Brasil.

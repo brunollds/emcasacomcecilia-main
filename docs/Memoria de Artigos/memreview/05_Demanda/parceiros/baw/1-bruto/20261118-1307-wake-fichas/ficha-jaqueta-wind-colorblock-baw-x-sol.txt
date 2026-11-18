@@ -1,0 +1,81 @@
+url: https://www.bawclothing.com.br/produto/jaqueta-wind-colorblock-baw-x-sol-153507
+lido_em: 2026-11-18T13:10:19-03:00
+html_origem: ficha-jaqueta-wind-colorblock-baw-x-sol.html (sha256 a7e60f268bd13b72903defdfd4a795bb814004bbb9bc31df70a474fd462a2581)
+nome: JAQUETA WIND COLORBLOCK BAW X SOL
+sku: 14.02.0073688GG
+trilha: Página inicial > Roupas > Jaquetas > JAQUETA WIND COLORBLOCK BAW X SOL
+preco: R$ 399,00
+preco_de: R$ 499,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+JAQUETA WIND COLORBLOCK BAW X SOL AMARELO AURORA
+JAQUETA WIND COLORBLOCK BAW X SOL
+Jaqueta Wind de manga longa, com capuz de ajuste por cordão, fechamento frontal em zíper parcial e punhos com acabamento elástico.
+PP - Comprimento: 68cm / Tórax (circunferência) : 116 cm / Barra: 116 cm / Manga: 64 cm.
+P – Comprimento: 72cm / Tórax (circunferência) : 60cm / Barra: 60cm / Manga: 66cm.
+M – Comprimento: 76cm / Tórax (circunferência) : 62cm / Barra: 62cm / Manga: 68cm.
+G – Comprimento: 80cm / Tórax (circunferência) : 64cm / Barra: 64cm / Manga: 70cm.
+GG – Comprimento: 84cm / Tórax (circunferência) : 66cm / Barra: 66cm / Manga: 72cm.
+GGG - Comprimento: 88 cm / Tórax (circunferência) : 136 cm / Barra: 136 cm / Manga: 74 cm.
+Composição: 100% Poliamida .
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a Jaqueta Wind. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+JAQUETA WIND COLORBLOCK BAW X SOL AMARELO AURORA
+JAQUETA WIND COLORBLOCK BAW X SOL
+Jaqueta Wind de manga longa, 
+com capuz de ajuste por cord&atilde;o, fechamento frontal em z&iacute;per parcial e punhos com acabamento el&aacute;stico.
+PP - 
+Comprimento: 
+68cm / 
+T&oacute;rax 
+(circunfer&ecirc;ncia)
+: 
+116
+cm / Barra: 
+116
+cm / Manga: 
+64
+cm.
+P &ndash; Comprimento: 72cm / T&oacute;rax
+ 
+(circunfer&ecirc;ncia)
+: 60cm / Barra: 60cm / Manga: 66cm.
+M &ndash; Comprimento: 76cm / T&oacute;rax
+ 
+(circunfer&ecirc;ncia)
+: 62cm / Barra: 62cm / Manga: 68cm.
+G &ndash; Comprimento: 80cm / T&oacute;rax
+ 
+(circunfer&ecirc;ncia)
+: 64cm / Barra: 64cm / Manga: 70cm.
+GG &ndash; Comprimento: 84cm / T&oacute;rax
+ 
+(circunfer&ecirc;ncia)
+: 66cm / Barra: 66cm / Manga: 72cm.
+GGG - 
+Comprimento: 
+88
+cm / T&oacute;rax 
+(circunfer&ecirc;ncia)
+: 
+136
+cm / Barra: 
+136
+cm / Manga: 
+74
+cm.
+&nbsp;
+Composi&ccedil;&atilde;o: 
+100% Poliamida
+.
+*MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este an&uacute;ncio se refere somente a Jaqueta Wind. Os demais itens contidos na imagem, s&atilde;o vendidos separadamente.
+&nbsp;
+Pe&ccedil;a da BAW Clothing criada e produzida no Brasil.

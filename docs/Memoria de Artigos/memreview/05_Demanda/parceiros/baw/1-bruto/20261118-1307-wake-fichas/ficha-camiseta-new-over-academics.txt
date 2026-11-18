@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/camiseta-new-over-academics-152777
+lido_em: 2026-11-18T13:07:37-03:00
+html_origem: ficha-camiseta-new-over-academics.html (sha256 1bb39907e2e0377ef0b5bb92f117a394daa0df64e92119a193f7fc9f4fd94a74)
+nome: CAMISETA NEW OVER ACADEMICS
+sku: 0089232037P
+trilha: Página inicial > Roupas > Camisetas > New over > CAMISETA NEW OVER ACADEMICS
+preco: R$ 99,00
+preco_de: R$ 229,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+CAMISETA NEW OVER ACADEMICS
+CAMISETA NEW OVER ACADEMICS

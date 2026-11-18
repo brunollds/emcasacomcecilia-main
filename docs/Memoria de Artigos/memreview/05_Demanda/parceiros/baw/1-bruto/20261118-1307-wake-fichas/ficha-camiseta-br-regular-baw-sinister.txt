@@ -1,0 +1,38 @@
+url: https://www.bawclothing.com.br/produto/camiseta-br-regular-baw-sinister-154040
+lido_em: 2026-11-18T13:07:05-03:00
+html_origem: ficha-camiseta-br-regular-baw-sinister.html (sha256 dfb3af04cf84370c453a0b2a03dc0ee8c6a79ef30c0d8af7176eaf8f398548ec)
+nome: CAMISETA BR REGULAR BAW SINISTER
+sku: 12.02.4157040M
+trilha: Página inicial > Roupas > Camisetas > Regular > CAMISETA BR REGULAR BAW SINISTER
+preco: R$ 79,00
+preco_de: R$ 119,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+CAMISETA BR REGULAR BAW SINISTER
+A Camiseta BR Regular BAW Sinister Preto, traz uma estética marcante e underground inspirada no streetwear de influência gótica. Confeccionada em tecido leve de caimento confortável, a peça conta com modelagem regular, gola em ribana e destaca uma estampa frontal centralizada da sigla "BAW" em tipografia gótica estilizada com textura em tom bege/dourado sobre fundo preto. Uma opção versátil e cheia de atitude para composições do dia a dia.
+Tabela de Medidas:
+P - Comprimento Total: 74cm / Tórax: 55cm / Barra: 55cm / Manga: 24cm / Cava: 25cm.
+M - Comprimento Total: 76cm / Tórax: 58cm / Barra: 58cm / Manga: 25cm / Cava: 26cm.
+G - Comprimento Total: 78cm / Tórax: 61cm / Barra: 61cm / Manga: 26cm / Cava: 27cm.
+GG - Comprimento Total: 80cm / Tórax: 64cm / Barra: 64cm / Manga: 27cm / Cava: 28cm.
+MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente à Camiseta. Os demais itens contidos na imagem são vendidos separadamente.
+Todas as peças da BAW Clothing são criadas e produzidas no Brasil.
+
+--- description do JSON-LD Product ---
+CAMISETA BR REGULAR BAW SINISTER
+A 
+Camiseta BR Regular BAW Sinister Preto,
+ traz uma estética marcante e underground inspirada no streetwear de influência gótica. Confeccionada em tecido leve de caimento confortável, a peça conta com modelagem regular, gola em ribana e destaca uma estampa frontal centralizada da sigla "BAW" em tipografia gótica estilizada com textura em tom bege/dourado sobre fundo preto. Uma opção versátil e cheia de atitude para composições do dia a dia.
+Tabela de Medidas:
+P - Comprimento Total: 74cm / Tórax: 55cm / Barra: 55cm / Manga: 24cm / Cava: 25cm.
+M - Comprimento Total: 76cm / Tórax: 58cm / Barra: 58cm / Manga: 25cm / Cava: 26cm.
+G - Comprimento Total: 78cm / Tórax: 61cm / Barra: 61cm / Manga: 26cm / Cava: 27cm.
+GG - Comprimento Total: 80cm / Tórax: 64cm / Barra: 64cm / Manga: 27cm / Cava: 28cm.
+MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente à Camiseta. Os demais itens contidos na imagem são vendidos separadamente.
+Todas as peças da BAW Clothing são criadas e produzidas no Brasil.
