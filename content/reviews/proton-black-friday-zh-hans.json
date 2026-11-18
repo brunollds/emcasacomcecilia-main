@@ -3,8 +3,8 @@
   "slug": "proton-black-friday-zh-hans",
   "locale": "zh-hans",
   "translationKey": "proton-black-friday",
-  "title": "Proton 2026 黑色星期五：价格、续订费用，以及该选 1 年套餐还是 2 年套餐",
-  "seoTitle": "Proton 2026 黑色星期五：价格与续订费用",
+  "title": "Proton 2026 黑色星期五：2 年 VPN Plus 套餐在哪里更便宜",
+  "seoTitle": "Proton 2026 黑色星期五：2 年 VPN Plus 59.76 美元",
   "type": "黑色星期五指南",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Proton 黑色星期五套餐详解：先付多少、套餐续订价是多少、折扣以什么为基准，以及 2 年套餐什么时候更划算。",
-  "metaDescription": "Proton 黑色星期五：合作伙伴页面的 2 年 VPN Plus 套餐省 75%。看清一次性扣款金额、续订价格，以及 1 年与 2 年套餐的算法。",
+  "description": "通过我们的链接，VPN Plus 前 24 个月 59.76 美元，并说明与 Proton 其他页面的差异、一次性扣款金额，以及目前公布的续订价。",
+  "metaDescription": "通过我们的链接，VPN Plus 前 24 个月 59.76 美元。对照 Proton 优惠页面的 71.76 美元，并确认目前公布的续订价。",
   "publishedAt": "2026年11月17日",
   "publishedAtISO": "2026-11-17",
   "updatedAt": "2026-11-17",
@@ -162,6 +162,16 @@
             "2 年套餐",
             "合作伙伴页面（我们的链接打开的页面）",
             "59.76 美元"
+          ],
+          [
+            "2 年套餐",
+            "Proton 优惠页面",
+            "71.76 美元"
+          ],
+          [
+            "2 年套餐",
+            "Proton 价格页面",
+            "83.76 美元"
           ],
           [
             "1 年黑色星期五套餐 + 续订 1 次",

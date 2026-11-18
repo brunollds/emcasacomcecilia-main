@@ -3,8 +3,8 @@
   "slug": "black-friday-proton-offres",
   "locale": "fr",
   "translationKey": "proton-black-friday",
-  "title": "Black Friday Proton 2026 : tarifs, prix au renouvellement et choix entre l'offre d'un an et celle de deux ans",
-  "seoTitle": "Black Friday Proton 2026 : tarifs et renouvellement",
+  "title": "Black Friday Proton 2026 : où l'offre VPN Plus de 2 ans coûte le moins",
+  "seoTitle": "Proton Black Friday 2026 : VPN Plus 2 ans à 59,76 $",
   "type": "Guide Black Friday",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Les offres Black Friday de Proton expliquées : ce que vous payez d'avance, le prix au renouvellement, la base de la réduction et quand l'offre de 2 ans coûte moins cher.",
-  "metaDescription": "Black Friday Proton : 75 % sur le VPN Plus de 2 ans via la page partenaires. Montant facturé d'avance, prix au renouvellement et calcul 1 an contre 2 ans.",
+  "description": "VPN Plus à 59,76 $ pour les 24 premiers mois via notre lien, avec l'écart par rapport aux autres pages de Proton, le paiement d'avance et le renouvellement annoncé.",
+  "metaDescription": "Via notre lien, VPN Plus coûte 59,76 $ les 24 premiers mois. Comparez avec 71,76 $ sur la page d'offres de Proton et vérifiez le renouvellement annoncé.",
   "publishedAt": "17 novembre 2026",
   "publishedAtISO": "2026-11-17",
   "updatedAt": "2026-11-17",
@@ -162,6 +162,16 @@
             "Offre de 2 ans",
             "Page partenaires (celle qu'ouvre notre lien)",
             "59,76 $"
+          ],
+          [
+            "Offre de 2 ans",
+            "Page d'offres de Proton",
+            "71,76 $"
+          ],
+          [
+            "Offre de 2 ans",
+            "Page des tarifs de Proton",
+            "83,76 $"
           ],
           [
             "Offre Black Friday d'1 an + 1 renouvellement",

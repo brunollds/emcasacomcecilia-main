@@ -3,8 +3,8 @@
   "slug": "proton-black-friday",
   "locale": "en",
   "translationKey": "proton-black-friday",
-  "title": "Proton Black Friday 2026: prices, renewal cost and whether to pick the 1-year or the 2-year plan",
-  "seoTitle": "Proton Black Friday 2026: prices and renewal cost",
+  "title": "Proton Black Friday 2026: where the 2-year VPN Plus plan costs less",
+  "seoTitle": "Proton Black Friday 2026: 2-year VPN Plus for $59.76",
   "type": "Black Friday Guide",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Proton's Black Friday plans explained: what you pay upfront, what the plan renews at, what the discount is measured against and when the 2-year plan costs less.",
-  "metaDescription": "Proton Black Friday: 75% off the 2-year VPN Plus plan on the partner page. See what is billed upfront, the renewal price and the 1-year vs 2-year math.",
+  "description": "VPN Plus for $59.76 for the first 24 months through our link, with the difference from Proton's other pages, the upfront payment and the advertised renewal.",
+  "metaDescription": "Through our link, VPN Plus is $59.76 for the first 24 months. Compare it with $71.76 on Proton's deals page and check the advertised renewal.",
   "publishedAt": "November 17, 2026",
   "publishedAtISO": "2026-11-17",
   "updatedAt": "2026-11-17",
@@ -162,6 +162,16 @@
             "2-year plan",
             "Partner page (the one our link opens)",
             "$59.76"
+          ],
+          [
+            "2-year plan",
+            "Proton's deals page",
+            "$71.76"
+          ],
+          [
+            "2-year plan",
+            "Proton's pricing page",
+            "$83.76"
           ],
           [
             "1-year Black Friday plan + 1 renewal",

@@ -3,8 +3,8 @@
   "slug": "proton-black-friday-ja",
   "locale": "ja",
   "translationKey": "proton-black-friday",
-  "title": "Proton ブラックフライデー2026：料金、更新時の価格、1年プランと2年プランのどちらを選ぶか",
-  "seoTitle": "Proton ブラックフライデー2026：料金と更新時の価格",
+  "title": "Proton ブラックフライデー2026：2年のVPN Plusプランが安くなる場所",
+  "seoTitle": "Proton ブラックフライデー2026：VPN Plus 2年が$59.76",
   "type": "ブラックフライデーガイド",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Protonのブラックフライデープランを解説します。最初に支払う金額、更新時の価格、割引の基準、そして2年プランのほうが安くなる場合を確認できます。",
-  "metaDescription": "Protonのブラックフライデー：パートナーページでは2年のVPN Plusが75%オフ。最初の請求額、更新時の価格、1年と2年の比較をまとめました。",
+  "description": "当サイトのリンク経由でVPN Plusが最初の24か月$59.76になります。Protonの他のページとの差額、最初に支払う金額、案内されている更新料を確認できます。",
+  "metaDescription": "当サイトのリンク経由ならVPN Plusは最初の24か月$59.76。Protonのオファーページの$71.76と比べ、案内されている更新料も確認しましょう。",
   "publishedAt": "2026年11月17日",
   "publishedAtISO": "2026-11-17",
   "updatedAt": "2026-11-17",
@@ -162,6 +162,16 @@
             "2年プラン",
             "パートナーページ（当サイトのリンクが開くページ）",
             "$59.76"
+          ],
+          [
+            "2年プラン",
+            "Protonのオファーページ",
+            "$71.76"
+          ],
+          [
+            "2年プラン",
+            "Protonの料金ページ",
+            "$83.76"
           ],
           [
             "1年のブラックフライデープラン＋更新1回",

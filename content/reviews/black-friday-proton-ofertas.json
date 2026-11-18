@@ -3,8 +3,8 @@
   "slug": "black-friday-proton-ofertas",
   "locale": "es",
   "translationKey": "proton-black-friday",
-  "title": "Black Friday de Proton 2026: precios, coste de renovación y si elegir el plan de 1 año o el de 2 años",
-  "seoTitle": "Proton Black Friday 2026: precios y coste de renovación",
+  "title": "Black Friday de Proton 2026: dónde cuesta menos el plan VPN Plus de 2 años",
+  "seoTitle": "Proton Black Friday 2026: VPN Plus 2 años por $59.76",
   "type": "Guía de Black Friday",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Los planes de Black Friday de Proton explicados: lo que pagas por adelantado, a qué precio se renueva, frente a qué se mide el descuento y cuándo el plan de 2 años cuesta menos.",
-  "metaDescription": "Black Friday de Proton: 75% menos en el plan VPN Plus de 2 años en la página de socios. Qué se cobra por adelantado, la renovación y 1 año frente a 2.",
+  "description": "VPN Plus por $59.76 durante los primeros 24 meses con nuestro enlace, con la diferencia frente a otras páginas de Proton, el pago por adelantado y la renovación anunciada.",
+  "metaDescription": "Con nuestro enlace, VPN Plus cuesta $59.76 los primeros 24 meses. Compáralo con $71.76 en la página de ofertas de Proton y revisa la renovación anunciada.",
   "publishedAt": "17 de noviembre de 2026",
   "publishedAtISO": "2026-11-17",
   "updatedAt": "2026-11-17",
@@ -162,6 +162,16 @@
             "Plan de 2 años",
             "Página de socios (la que abre nuestro enlace)",
             "$59.76"
+          ],
+          [
+            "Plan de 2 años",
+            "Página de ofertas de Proton",
+            "$71.76"
+          ],
+          [
+            "Plan de 2 años",
+            "Página de precios de Proton",
+            "$83.76"
           ],
           [
             "Plan de Black Friday de 1 año + 1 renovación",
