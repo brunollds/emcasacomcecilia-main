@@ -5,7 +5,7 @@ Parceira nova (18/11/2026), página `/cupons/bold` (#1155 e #1156, na main em 18
 compra, é boa e Black Friday. Leituras de 18/11/2026 no navegador do app, sem login e sem finalizar compra. Os
 briefings são do Job 1. Sem GO de redação: é a pesquisa semente.
 
-## 1. Pacote inicial (esperam briefing)
+## 1. Pacote inicial (briefings de 18/11; leitura do Job 1 na seção 9)
 
 | Código | Pauta | Slug sugerido | Modelo | Busca (autocompletar de 18/11) |
 |---|---|---|---|---|
@@ -192,3 +192,183 @@ Alimentares e Fórmulas, site boldsnacks.com.br, 6 anos no Reclame Aqui. **Com o
   é parceira. A Adaptogen, que é, aparece em "adaptogen ou bold" ([[adaptogen-fatos-1811]]).
 - **Barra BOLD antes ou depois do treino** ("barra bold comer antes ou depois do treino"): só com fonte de nutrição;
   sem promessa de efeito.
+
+## 9. Leitura do Job 1 de 18/11/2026, à tarde (vale por cima das seções acima onde diferir)
+
+Feita para os briefings BO1 a BO6 ([[cupom-bold-snacks-como-usar]], [[bold-snacks-reclame-aqui-nota-reputacao]],
+[[bold-snacks-e-confiavel]], [[cupom-bold-snacks-primeira-compra]], [[barra-bold-e-boa]], [[black-friday-bold-snacks]]).
+
+Leitura direta das páginas do site (HTML e `/products.json` do Shopify), sem navegador, sem login, sem carrinho, sem abrir
+o link `/discount/CECILIA15`. Notícias lidas pelo WebFetch; CNPJ pelos dados abertos da Receita (BrasilAPI).
+
+### A. Código e página /cupons/bold
+
+- `src/lib/couponsData.ts` (main, 18/11): `discount: '20% OFF'`, `discountNumber: 20`, metaTitle "Cupom BOLD Snacks: 20%
+  OFF com CECILIA15". **A página `/cupons/bold` ainda não está no ar** (404 em 18/11, falta o deploy). O briefing escreve
+  20%, com a explicação do nome (o código se chama CECILIA15 e deu 20% no teste de 18/11, na Pré-Black) e a releitura em
+  23/11 (reteste da sessão de cupons).
+- `shipping` do couponsData: "Entrega para todo o Brasil; o valor e o prazo do frete saem no checkout pelo CEP". A
+  divergência do frete grátis acima de R$ 249 (faixa do site) segue aberta com a sessão de cupons: **nenhum briefing
+  propõe texto sobre frete grátis**.
+- As páginas de produto mostram, no bloco "Ofertas", cupons da própria loja com termos ("não é cumulativo com outros
+  cupons, descontos ou cashback"). Não entram, nem para desmentir. O menu do site tem uma "Página de Cupons" da loja:
+  também fora.
+
+### B. Preços (vitrine e `/products.json`, 18/11; reler na semana do texto)
+
+Todas as caixas têm 12 unidades. "Compra única" é o preço da vitrine; "Mensal" e "2 meses" são a assinatura (BOLD Club).
+
+| Linha | Proteína por unidade | Compra única | Assinatura | Por unidade | Por 100 g de proteína | Com 20% (conta nossa) |
+|---|---|---|---|---|---|---|
+| BOLD 21 g (barra de 60 g), sabores e Caixa Mista | 21 g | R$ 179,00 | R$ 152,00 | R$ 14,92 | R$ 71,03 | R$ 143,20 a caixa; R$ 11,93 a barra; R$ 56,83 por 100 g |
+| BOLD 14 g (barra de 40 g), sabores e Caixa Mista 14 g | 14 g | R$ 129,00 | R$ 109,00 | R$ 10,75 | R$ 76,79 | R$ 103,20; R$ 8,60; R$ 61,43 |
+| Crunch (sabores e caixa mista) | 18 g | R$ 179,00 | R$ 152,00 | R$ 14,92 | R$ 82,87 | R$ 143,20; R$ 11,93; R$ 66,30 |
+| Wafer (sabores e caixa mista) | 10 g | R$ 119,00 | R$ 114,90 | R$ 9,92 | R$ 99,17 | R$ 95,20; R$ 7,93; R$ 79,33 |
+| Tube (sabores e caixa mista) | 10 g | R$ 119,00 | R$ 101,00 | R$ 9,92 | R$ 99,17 | idem Wafer |
+| Caixa Mix | mista (não somada) | R$ 159,00 | R$ 135,00 | R$ 13,25 | não calculado | R$ 127,20 |
+| Whey 900 g (5 sabores) | 22 g por dose | R$ 329,00 (riscado R$ 349,00) | | | | (a dose em gramas não foi lida; sem conta) |
+| Whey 450 g | 22 g | R$ 189,00 (riscado R$ 209,00) | | | | R$ 151,20 (carrinho de 18/11) |
+| Kit 10 sachês de whey 30 g | 22 g | R$ 139,00 (riscado R$ 159,00) | | | | |
+| Creatina 300 g | | R$ 42,00 (riscado R$ 89,00) | | | | |
+
+- Conta nossa: por 100 g de proteína = preço ÷ (12 × proteína por unidade) × 100. Os "com 20%" são conta nossa sobre o
+  preço de compra única; **só a Caixa Mista (R$ 179,00 → R$ 143,20) e o whey 450 g (R$ 189,00 → R$ 151,20) passaram
+  pelo carrinho** (18/11). No artigo, o exemplo de preço é só o do carrinho; as outras contas vão como "conta nossa".
+- O 21 g sai mais barato por proteína que o 14 g (R$ 71,03 contra R$ 76,79 por 100 g, sem código), e Wafer e Tube são os
+  mais caros por proteína.
+- Preço riscado: não calcular "X% OFF" sobre ele (Job 1, "Preço").
+
+### C. Assinatura (BOLD Club, `/pages/politica-de-assinatura`, lida em 18/11)
+
+- 15% de desconto sobre os produtos da assinatura e frete grátis nas recorrências, "observadas as regiões atendidas".
+- Planos mensal e a cada 2 meses; **permanência mínima de 2 ciclos de cobrança** depois do prazo legal de arrependimento.
+- Cumulatividade: as condições da assinatura "não se acumulam automaticamente com outras campanhas, cupons, vouchers";
+  o cupom de lançamento só se expressamente autorizado. **O CECILIA15 na assinatura não foi testado: não escrever que
+  vale nem que não vale.** O frete grátis da assinatura é da recorrência, não do site: não confundir com a faixa de
+  R$ 249.
+
+### D. Rótulos (páginas de cada sabor, lidas em 18/11)
+
+Fonte: blocos "TABELA NUTRICIONAL", "INGREDIENTES" e "SAIBA MAIS" de cada página. Valores por unidade.
+
+### BOLD 21 g (barra de 60 g)
+
+| Sabor | Proteína (g) | kcal | Carboidratos (g) | Açúcares totais (g) | Gorduras (g) | Saturadas (g) | Fibra (g) | Sódio (mg) | Colágeno nos ingredientes |
+|---|---|---|---|---|---|---|---|---|---|
+| Bombom Crocante | 21 | 232 | 18 | 2,4 | 9,5 | 6,8 | 4,1 | 78 | sim |
+| Chocomalte | 21 | 239 | 19 | 5,3 | 10 | 46,3 (erro da página: maior que a gordura total; não usar) | 3 | 72 | sim |
+| Cookies Black | 21 | 235 | 15 | 1,8 | 11 | 7,4 | 4,2 | 128 | sim |
+| Cookies & Cream | 21 | 228 | 18 | 2,6 | 9,2 | 6,5 | 4,1 | 87 | sim |
+| Doce de Leite | 21 | 229 | 20 | 3,8 | 8,3 | 5,9 | 3,4 | 91 | sim |
+| Trufa de Chocolate | 21 | 230 | 18 | 2,6 | 9,3 | 6,6 | 4,4 | 74 | sim |
+| Mousse de Maracujá | 21 | 215 | 20 | 4,1 | 7,3 | 5,2 | 4,8 | 153 | sim |
+
+### BOLD 14 g (barra de 40 g)
+
+| Sabor | Proteína (g) | kcal | Carboidratos (g) | Açúcares totais (g) | Gorduras (g) | Saturadas (g) | Fibra (g) | Sódio (mg) | Colágeno nos ingredientes |
+|---|---|---|---|---|---|---|---|---|---|
+| Bombom Crocante | 14 | 154 | 12 | 1,6 | 6,3 | 4,5 | 2,8 | 52 | sim |
+| Chocomalte | 14 | 161 | 13 | 3,6 | 6,9 | 4,3 | 1,4 | 50 | sim |
+| Cookies Black | 14 (nome) | a página não traz a tabela | | | | | | | sim |
+| Cookies & Cream | 14 | 153 | 13 | 3,1 | 5,9 | 3,9 | 2,2 | 110 | sim |
+| Doce de Leite | 14 | 151 | 13 | 2,5 | 5,5 | 3,9 | 2,4 | 61 | sim |
+| Trufa de Chocolate | 14 | 151 | 12 | 3,1 | 6 | 4 | 2,4 | 102 | sim |
+
+### Crunch, Wafer e Tube
+
+| Sabor | Proteína (g) | kcal | Carboidratos (g) | Açúcares totais (g) | Gorduras (g) | Saturadas (g) | Fibra (g) | Sódio (mg) | Colágeno nos ingredientes |
+|---|---|---|---|---|---|---|---|---|---|
+| Crunch Brigadeiro | 18 | 215 | 17 | 2 | 9,8 | 7,1 | 5,3 | 200 | sim |
+| Crunch Cookies & Cream | 18 | 210 | 17 | 2,2 | 9,5 | 6,7 | 5,4 | 202 | sim |
+| Crunch Morango & Chantilly | 18 | 209 | 17 | 1,8 | 9,6 | 7,2 | 6,5 | 222 | sim |
+| Wafer Avelã | 10 | 200 | 13 | 2,2 | 13 | 7 | 2,2 | 25 | não |
+| Wafer Chocolate ao Leite | 10 | 194 | 14 | 2,1 | 12 | 7,4 | 2,6 | 36 | não |
+| Wafer Chocolate Branco | 10 | 202 | 14 | 2,8 | 13 | 7,9 | 1,5 | 31 | não |
+| Wafer Speculoos | 10 | 192 | 14 | 2,8 | 12 | 7,5 | 1,6 | 55 | não |
+| Tube Avelã | 10 | 179 | 11 | 1 | 12 | 8,5 | 2 | 26 | não |
+| Tube Paçoca | 10 | 179 | 11 | 1 | 12 | 8,5 | 2 | 26 | não |
+| Tube Trufa de Chocolate | 10 | 179 | 11 | 1 | 12 | 8,5 | 2 | 26 | não |
+| Tube Pistache | 10 | 183 | 11 | 2 | 12 | 6,2 | 2,6 | 50 | não |
+| Tube Speculoos | 10 | 186 | 11 | 2,1 | 12 | 7,4 | 2 | 50 | não |
+
+- **Erros e lacunas das páginas (não usar, ou dizer que a página não traz):** Chocomalte 21 g com "46,3 g" de saturadas
+  em 10 g de gordura (erro de digitação da página); BOLD Cookies Black 14 g sem tabela; Tube Avelã, Paçoca e Trufa de
+  Chocolate com a tabela idêntica (179 kcal, 12 g de gordura, 26 mg de sódio), provável cópia: citar a tabela do Tube só
+  pelo sabor Avelã, ou não citar.
+- **Ingredientes do BOLD 21 g (ex.: Trufa de Chocolate):** blend proteico (caseinato de cálcio, proteína de soro do leite
+  concentrada e isolada), cobertura diet, recheio diet, polidextrose, **colágeno hidrolisado**, gordura vegetal, crispies
+  proteicos, edulcorantes maltitol, xarope de sorbitol e sucralose. **Todos os sabores de BOLD 21 g, BOLD 14 g e Crunch
+  levam colágeno hidrolisado** nos ingredientes; Wafer e Tube não. O FAQ da página ("Qual a origem da proteína") cita só
+  as proteínas do leite, sem o colágeno, e nenhuma página diz quantos dos 21 g vêm do colágeno. O Crunch abre com
+  crispies de proteína de soja isolada.
+- **Açúcar:** "zero açúcar adicionado" é da marca; a tabela mostra de 1,6 g a 5,3 g de açúcares totais por barra. Adoçantes:
+  maltitol, sorbitol e sucralose. Nenhuma página lida traz aviso de efeito laxativo: não escrever sobre isso.
+- **Glúten e lactose:** os alérgicos de todos os sabores dizem "CONTÉM LACTOSE. CONTÉM GLÚTEN", com "contém leite e
+  derivados de leite e soja" e uma lista de "pode conter" (amendoim, aveia, castanhas, trigo...). O FAQ do BOLD 21 g diz
+  que o glúten vem do ambiente de fabricação (contaminação cruzada). No texto: a embalagem diz "contém glúten" e
+  "contém lactose"; quem tem doença celíaca ou intolerância segue o rótulo e o profissional de saúde.
+- **Classificação:** o FAQ diz "suplemento alimentar de proteína em barra, conforme a regulamentação vigente". Anvisa:
+  sem leitura de registro ou notificação; nunca "registrado", "aprovado" ou "notificado".
+- **Recomendação de uso (rótulo):** adultos a partir de 19 anos, até duas unidades ao dia ou conforme o profissional de
+  saúde; "Este produto não é um medicamento". Gestantes, lactantes e crianças: orientação profissional (FAQ).
+- **FAQ e descrição da página com promessa (não repetir como nossa):** "ajuda no ganho de massa muscular?", "excelente
+  opção para antes ou depois do exercício", "baixo índice glicêmico", "gorduras saudáveis". São textos da marca; o artigo
+  não os repete nem como citação de benefício.
+- **Whey (ingredientes do Chocolate ao Leite):** proteína de soro do leite concentrada, isolada e hidrolisada, cacau,
+  goma guar e xantana, sucralose; 22 g de proteína, 118 kcal, 2,7 g de carboidratos por dose; "contém lactose. Contém
+  glúten". A dose em gramas não foi lida. Fora da BO5 (estoque).
+
+### E. Black Friday (regulamento `/pages/politicas-promocoes`, relido em 18/11 à tarde)
+
+Igual à semente (seção 5): "Black BOLD 2026 — Fase 3: Pré-Black", 18/11 a 22/11/2026, até 23h59 de Brasília, só no site
+oficial; item 1.3, condições "independentes das demais campanhas"; 1.4, sem prorrogação automática. Pontos para a BO6:
+
+- 2.3: incluir produto no carrinho não garante o cupom; conferir código, percentual e valor final antes de pagar.
+- 2.4: cupom sobre o preço de venda informado, também nos itens com preço promocional; 4.2: descontos sucessivos.
+- 2.5: o desconto progressivo por quantidade não vale nesta fase.
+- 3.1 a 3.8: brindes acima de R$ 249,00 (coqueteleira), de R$ 359,00 (mais a térmica) e de R$ 699,00 (mais a bolsa de
+  academia), pelo valor dos produtos depois de todos os descontos, cupom e cashback usado como abatimento inclusive, sem o
+  frete; a partir de R$ 249,01, R$ 359,01 e R$ 699,01; adicionados sozinhos, sem cupom de brinde; uma unidade de cada;
+  estoque limitado ("poderão se esgotar antes de 22/11/2026"); trocar produto ou cupom recalcula a faixa.
+- 3.5, exemplo b do regulamento: R$ 350,00 em produtos com cupom de 20% = R$ 280,00, com a coqueteleira. É a conta que a
+  BO6 mostra com o nosso código. (Os exemplos a e c usam outro percentual: não citar.)
+- 4.1 cita os cupons de outros canais: não citar. 4.4: um cupom promocional por pedido. 4.5: cashback não cumulativo
+  automaticamente com cupom.
+- 6: cartão, Pix e outros meios do checkout; Pix não pago no prazo pode cancelar o pedido e as condições.
+- 7: prazo pelo CEP no checkout; o regulamento avisa de possíveis atrasos pela demanda de Black Friday.
+- **Conta nossa com o carrinho de 18/11:** Caixa Mista R$ 143,20 + whey 450 g R$ 151,20 = R$ 294,40 em produtos, acima de
+  R$ 249,01: faixa da coqueteleira (o dossiê registra dois brindes a R$ 0,01 no resumo; não detalhar quais).
+- Conta nossa com uma Caixa Mista só: R$ 143,20, sem brinde. Duas caixas: R$ 286,40, coqueteleira. Três: R$ 429,60,
+  coqueteleira e térmica (contas sobre o preço de vitrine de 18/11; só uma caixa passou pelo carrinho).
+- A fase seguinte (a Black Friday em si) não tem regulamento publicado em 18/11: **reler em 23/11**.
+
+### F. A empresa e a Ferrero
+
+- **CNPJ do perfil do Reclame Aqui, 28.866.724/0001-31 (dados abertos da Receita, consulta de 18/11):** BARRIND
+  INDUSTRIA E COMERCIO DE ALIMENTOS LTDA, nome fantasia BOLD SNACKS, matriz, ativa, início em 17/10/2017, Divinópolis
+  (MG), atividade "Fabricação de alimentos dietéticos e complementos alimentares". **Bate com a razão social da política
+  de reembolso do site** (BARRIND IND. E COMERCIO DE ALIMENTOS LTDA). O rodapé do site não mostra CNPJ.
+- "Desde 2018" (Sobre nós e o comunicado da Ferrero, "Founded in 2018") e o CNPJ aberto em 10/2017: o texto diz que a
+  marca é de 2018, pela própria empresa, sem explorar a diferença.
+- **Ferrero, lidas em 18/11:**
+  1. Comunicado da Ferrero (ferrero.com, 18/03/2026, em inglês e em português): o Grupo Ferrero "assinou um acordo" para
+     adquirir a Bold Snacks; fechamento "esperado nos próximos meses", sujeito às condições usuais; a Ferrero assume o
+     escritório e a fábrica de Divinópolis (MG); cerca de 300 funcionários devem ir para a Ferrero Brasil; Gabriel
+     Ferreira, fundador e CEO. Sem valor.
+  2. Nosso Meio (23/03/2026): a operação "ainda depende de aprovação do Cade". Cita faturamento de terceiros: não usar.
+  3. TV Sim Brasil (Divinópolis, 18/11/2026): diz que o negócio "ainda depende da aprovação do Cade"; o valor "não foi
+     divulgado oficialmente", com estimativas de terceiros (não citar).
+  - Uma nota italiana (Comunicaffe) fala em aquisição concluída, contra as outras: não usar.
+  - **Conclusão para a BO3:** nas fontes lidas, a compra foi **anunciada** (acordo assinado em 18/03/2026) e **não há
+    confirmação de que foi concluída**; a busca não achou decisão do Cade. O texto diz que a Ferrero anunciou em março de
+    2026 um acordo para comprar a BOLD e que, nas notícias lidas até 18/11, a operação dependia do Cade. Nunca "a BOLD é
+    da Ferrero" nem valor. A página "Sobre nós" não fala da Ferrero.
+- **"É brasileira? É de onde?":** empresa de Divinópolis (MG), pelo CNPJ e pelo comunicado da Ferrero. O rótulo
+  ("fabricado por") não foi lido: as páginas de produto não trazem esse texto.
+
+### G. Artigos do site que encostam nas pautas
+
+- `barra-de-proteina-qual-escolher` (BP1, no ar desde 14/11; Probiótica, Black Skull, Dr. Peanut e Mais Mu): a categoria
+  "qual barra escolher". A BO5 não repete a comparação entre marcas: no máximo uma frase com link.
+- `barra-de-proteina-mais-mu-qual-escolher` (25/10): só Mais Mu.
+- Nenhum artigo do site fala da BOLD.

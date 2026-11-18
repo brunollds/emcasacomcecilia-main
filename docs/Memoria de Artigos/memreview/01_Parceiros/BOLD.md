@@ -45,8 +45,23 @@ padrão.
   regulamento da Pré-Black vale até 22/11.
 - Não citar os cupons da própria loja (decisão do Bruno em 18/11), nem dizer que o CECILIA15 é o maior desconto.
 - Testar pelo caminho do cliente: ADICIONAR no produto, gaveta, FINALIZAR. O site abre um popup de pré-venda.
-- Suplemento e alimento sem promessa de efeito. Nos artigos, usar `coupon: "bold"` e link relativo para `/cupons/bold`,
-  com a âncora exata "cupom BOLD".
+- Suplemento e alimento sem promessa de efeito. Nos artigos, usar `affiliate: "bold"`, `coupon: "CECILIA15"` (o código,
+  como nos JSONs das outras parceiras) e link relativo para `/cupons/bold`, com a âncora exata "cupom BOLD".
+- **Leitura do Job 1 de 18/11 à tarde** ([[bold-fatos-1811]], seção 9), que vale para todos os artigos da marca:
+  - CNPJ do perfil do Reclame Aqui (28.866.724/0001-31) = BARRIND INDUSTRIA E COMERCIO DE ALIMENTOS LTDA, nome fantasia
+    BOLD SNACKS, Divinópolis (MG), o mesmo nome da política de reembolso (dados abertos da Receita).
+  - Ferrero: acordo anunciado em 18/03/2026; nas notícias lidas até 18/11, dependia do Cade. Nunca "a BOLD é da Ferrero"
+    nem valor.
+  - Rótulos: BOLD 21 g, BOLD 14 g e Crunch levam colágeno hidrolisado nos ingredientes, que o FAQ de origem da proteína não
+    cita; açúcares totais de 1,6 g a 5,3 g por barra apesar do "zero açúcar adicionado"; "contém glúten" e "contém
+    lactose" em todos. Erros das páginas que não se usam: saturadas do Chocomalte 21 g, Cookies Black 14 g sem tabela,
+    três Tube com a mesma tabela.
+  - Assinatura (BOLD Club): 15% e frete grátis nas recorrências, permanência mínima de 2 ciclos; o CECILIA15 nela não foi
+    testado.
+- **Para a sessão de cupons (18/11):** o `couponsData.ts` diz que o carrinho de teste mostrou coqueteleira e bolsa térmica
+  a R$ 0,01 com R$ 294,40 em produtos, e o regulamento dá só a coqueteleira abaixo de R$ 359,01: conferir no reteste de
+  23/11. O `stacking` diz que o cupom vale no Pix; o dossiê registra "desconto no Pix não lido". Os briefings não afirmam
+  nenhum dos dois.
 
 ---
 
