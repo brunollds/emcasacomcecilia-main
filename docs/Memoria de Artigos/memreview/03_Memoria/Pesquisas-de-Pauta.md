@@ -8,6 +8,18 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## Adaptogen: pacote inicial (18/11/2026)
+
+Parceira nova (#1141). Pesquisa semente de 18/11; pautas AD1 a AD6 na [[Fila-de-Pautas]], fatos em [[adaptogen-fatos-1811]].
+
+- **Autocompletar (18/11):** a raiz "adaptogen" é toda de produto (whey, Tasty Whey, isolado, chocomaltine, beef protein). "adaptogen é" traz "é bom", "é uma marca boa", "é confiavel", "é brasileira", "é nacional ou importado", "é aprovado pela anvisa" e "é melhor que growth". "cupom adaptogen" traz "primeira compra", "30", "20", "mercado livre", "amazon" e o nome de um influenciador. "adaptogen black friday" e "whey adaptogen black friday" existem. "adaptogen laudo" devolve dez sugestões (Abenutri, creatina, Tasty Whey, HIT Protein). "adaptogen ou" traz DUX, Growth, Max Titanium, Integralmédica, Vitafor, Dark Lab, Nutrata, Probiótica e Bold. Sem sugestão: "adaptogen cashback".
+- **Reclame Aqui (01/05 a 31/10/2026):** Não Recomendada, nota 4,9; 233 reclamações, 100% respondidas, 50% resolvidas, 26% voltariam a fazer negócio, resposta em 5 dias; em queda desde maio (Regular, Ruim, Não Recomendada); "produto não recebido" é o problema mais citado. CNPJ do perfil igual ao do rodapé (36.062.277/0004-39).
+- **Site:** coleção de Black Friday no ar, sem data nem regulamento; página de consulta de lote (autenticidade e validade), que não é laudo; origem americana (2014, Flórida) sem dizer onde fabrica o que vende no Brasil.
+- **Não lido:** laudos e análises da Abenutri, Anvisa por produto, rótulo (fabricante), lojas oficiais nos marketplaces.
+- **Decisão:** "é boa" e "vale a pena" num artigo só (AD5); produtos e pares "Adaptogen ou X" no estoque; a AD2 e a AD3 esperam o Bruno decidir o tom diante da reputação.
+
+---
+
 ## Rituária: pacote inicial (17/11/2026)
 
 Parceira nova (#1128). Pesquisa semente pedida pelo Bruno em 17/11; pautas RT1 a RT6 na [[Fila-de-Pautas]], fatos em [[rituaria-fatos-1711]].
