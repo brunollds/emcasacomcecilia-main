@@ -34,7 +34,7 @@
       "Wählen Sie AliExpress, wenn Ihr Artikel dort angeboten wird und die Angebotsseite kostenlose Rückgabe und ein Lieferdatum zeigt, mit dem Sie planen können."
     ],
     "skipIf": [
-      "Lassen Sie AliExpress aus, wenn Sie nach Erhalt Zeit zum Entscheiden möchten, aber das Angebot keine kostenlose Rückgabe nennt: Dann tragen Sie die Rücksendekosten."
+      "Meiden Sie AliExpress, wenn Rückgabefrist, Rücksendekosten oder Rücksendeadresse im Angebot unklar bleiben und Sie einen Artikel bei falscher Größe zurückgeben möchten."
     ]
   },
   "affiliate": [
@@ -57,7 +57,7 @@
     {
       "heading": "Die Antwort in Kürze",
       "paragraphs": [
-        "Bei SHEIN gelten 14 Tage Widerruf und bei den meisten Artikeln bis zu 30 Tage nach Erhalt. Bei AliExpress zählt die Regel für Deutschland: bis 15 Tage nach Lieferung bei Verkäufern vor Ort, 90 Tage ab Bestellung bei Verkäufern aus dem Ausland. Versand und Lieferzeit wechseln je Angebot. Suchen Sie bei SHEIN nach 4CW5Y, um Rabatt zu erhalten."
+        "In Deutschland nimmt SHEIN die meisten berechtigten Artikel bis 30 Tage nach Erhalt zurück; gesetzliche Rechte gelten zusätzlich. Bei AliExpress unterscheiden sich die Fristen nach Verkäufer und Angebot: Vergleichen Sie Rückgabefrist, Rücksendekosten und Lieferprognose. Suchen Sie bei SHEIN in App oder Website nach dem Empfehlungscode 4CW5Y, um auf ausgewählte Angebote Rabatt zu erhalten."
       ]
     },
     {
@@ -96,11 +96,11 @@
         ]
       },
       "postParagraphs": [
-        "Bei SHEIN zeigt die Tabelle, was der Shop für Deutschland veröffentlicht. Bei AliExpress zeigt die Tabelle die Rückgaberegel für Deutschland und die Seite eines einzelnen Angebots (Stand 17.11.2026): Ein anderes Angebot kann anderen Versand und eine andere Lieferzeit haben. Die Lieferzeit taugt nicht als Vergleichsmaß, und keiner der beiden Shops garantiert, dass er schneller liefert."
+        "Bei SHEIN zeigt die Tabelle, was der Shop für Deutschland veröffentlicht. Bei AliExpress zeigt die Tabelle die Rückgaberegel für Deutschland und die Seite eines einzelnen Angebots (Stand 17.11.2026): Ein anderes Angebot kann anderen Versand und eine andere Lieferzeit haben. Ohne die Produkte für denselben Lieferort zu prüfen, lässt sich kein schnellerer Anbieter bestimmen. Vergleichen Sie die Prognosen Ihrer Bestellung; die AliExpress-Beispiele in dieser Tabelle garantieren nicht die Bedingungen der unten gezeigten Artikel."
       ]
     },
     {
-      "heading": "Shop oder Marktplatz: Was Sie auf der Artikelseite prüfen sollten",
+      "heading": "Was Sie bei beiden Shops vor dem Kauf prüfen sollten",
       "paragraphs": [
         "Bei AliExpress gelten die Bedingungen des jeweiligen Angebots, und die Artikelseite zeigt sie vor der Zahlung. Bei SHEIN folgen Versand und Rückgabe der Regel des Shops, und Dessous, Unterwäsche und Modeschmuck lassen sich nur innerhalb der 14 Tage zurückgeben. Prüfen Sie vor dem Kauf:"
       ],
@@ -131,13 +131,13 @@
         "**AliExpress, bei Defekt, Schaden oder Abweichung vom Angebot:** Die Rücksendung bezahlt der Verkäufer. In der EU erinnert die Seite von AliExpress außerdem an die gesetzliche Gewährleistung von 2 Jahren und an die 14 Tage Widerruf."
       ],
       "postParagraphs": [
-        "Bei beiden geht Kleidung nur neu, ungetragen, ungewaschen und mit Etikett zurück; bei AliExpress auch mit dem Hygieneaufkleber. Die Frist von SHEIN gilt für rückgabefähige Artikel; bei AliExpress ist die kostenlose Rückgabe Sache des Angebots, prüfen Sie sie daher vor dem Bezahlen auf der Seite."
+        "Für Rückgaben wegen Umentscheidens verlangen die eingesehenen Richtlinien neue, ungetragene, ungewaschene Kleidung mit Etikett; bei AliExpress auch mit dem Hygieneaufkleber. Die Frist von SHEIN gilt für rückgabefähige Artikel; bei AliExpress ist die kostenlose Rückgabe Sache des Angebots, prüfen Sie sie daher vor dem Bezahlen auf der Seite."
       ]
     },
     {
       "heading": "Was zu welchem Einkauf passt",
       "paragraphs": [
-        "Wenn Sie mehr Tage zum Umentscheiden möchten, ohne vom Angebot abzuhängen, gibt SHEIN bis zu 30 Tage nach Erhalt für rückgabefähige Artikel. Wollen Sie einen Artikel von AliExpress, lesen Sie vor dem Bezahlen die Angebotsseite: Verkäufer, Lieferdatum, Datum der garantierten Erstattung und kostenlose Rückgabe. Liefertermin und Gesamtpreis vergleichen Sie an der Kasse beider Shops."
+        "SHEIN nimmt die meisten berechtigten Artikel bis 30 Tage nach Erhalt zurück. AliExpress nennt 15 Tage nach Lieferung bei Verkäufern vor Ort und 90 Tage ab Bestellung bei Verkäufern aus dem Ausland. Die Fristen beginnen an unterschiedlichen Tagen: Prüfen Sie die verbleibende Zeit nach Erhalt, die Rücksendekosten und die Rücksendeadresse. Entscheiden Sie anhand dieser Bedingungen, der Lieferprognose und der Gesamtkosten."
       ]
     },
     {
@@ -309,7 +309,7 @@
             "[Langärmeliges gestreiftes Hemd, lockerer geschnitten](https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C)"
           ],
           [
-            "T-Shirt",
+            "Blusen und T-Shirts",
             "[Kurzärmelige Satinbluse, lockerer geschnitten](https://s.click.aliexpress.com/e/_c2ulsYCh)",
             "[Weißes Baumwoll-T-Shirt mit V-Ausschnitt](https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C)"
           ],

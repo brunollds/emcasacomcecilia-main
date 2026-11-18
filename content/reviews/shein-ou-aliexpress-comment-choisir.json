@@ -34,7 +34,7 @@
       "Choisissez AliExpress si la pièce que vous voulez y est vendue et que sa page affiche un retour gratuit et une prévision de livraison qui vous convient."
     ],
     "skipIf": [
-      "Passez votre tour chez AliExpress si vous voulez les mêmes règles de retour sur toutes les commandes : SHEIN publie une seule politique, alors que chez AliExpress le retour gratuit dépend de l'annonce."
+      "Écartez AliExpress si l’annonce ne précise pas le délai, les frais ou l’adresse de retour et que vous devez pouvoir retourner une pièce qui ne vous va pas."
     ]
   },
   "affiliate": [
@@ -57,7 +57,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "En France, SHEIN accorde 14 jours de rétractation légale et, selon sa politique, jusqu'à 30 jours après réception pour la plupart des articles. AliExpress accorde 15 jours après livraison avec un vendeur local et 90 jours après la commande avec un vendeur de l'étranger. Livraison et délai changent selon l'annonce. Sur SHEIN, recherchez 4CW5Y pour obtenir une réduction."
+        "En France, SHEIN accepte la plupart des articles éligibles jusqu’à 30 jours après réception, en plus des droits légaux. AliExpress publie des délais selon le vendeur et l’annonce : comparez la date limite, les frais de retour et la livraison prévue. Sur SHEIN, recherchez le code de parrainage 4CW5Y pour une réduction sur une sélection."
       ]
     },
     {
@@ -96,11 +96,11 @@
         ]
       },
       "postParagraphs": [
-        "Chez SHEIN, le tableau reprend ce que la boutique publie pour la France. Chez AliExpress, le tableau donne la politique de retour de la France et ce que montrait la page d'une pièce le 17 novembre 2026 : la livraison, la prévision et la durée du retour gratuit sont celles de cette annonce, et une autre peut différer. Le délai ne se compare pas comme une mesure, et aucune des deux boutiques ne garantit d'arriver avant l'autre."
+        "Chez SHEIN, le tableau reprend ce que la boutique publie pour la France. Chez AliExpress, le tableau donne la politique de retour de la France et ce que montrait la page d'une pièce le 17 novembre 2026 : la livraison, la prévision et la durée du retour gratuit sont celles de cette annonce, et une autre peut différer. Sans consulter les produits pour une même destination, nous ne pouvons pas dire qui livre avant l’autre. Comparez les prévisions de votre commande ; les exemples AliExpress du tableau ne garantissent pas les conditions des pièces de l’échantillon ci-dessous."
       ]
     },
     {
-      "heading": "Boutique ou place de marché : ce qu'il faut vérifier sur la page de la pièce",
+      "heading": "Que vérifier dans les deux boutiques avant d’acheter",
       "paragraphs": [
         "Chez AliExpress, les conditions sont celles de l'annonce, et la page de la pièce montre chacune avant le paiement. Chez SHEIN, la livraison et les retours suivent la politique de la boutique. Avant d'acheter, vérifiez :"
       ],
@@ -131,13 +131,13 @@
         "**AliExpress, avec défaut, dommage ou écart avec l'annonce :** le retour est payé par le vendeur. Si le colis n'arrive pas à la date de remboursement garanti, vous pouvez demander le remboursement total."
       ],
       "postParagraphs": [
-        "Dans les deux boutiques, les vêtements ne sont repris que neufs, non portés, non lavés et avec l'étiquette ; chez AliExpress, aussi avec l'autocollant d'hygiène. En France, la page d'AliExpress rappelle en outre la garantie légale de 2 ans et les 14 jours de rétractation. Le délai de SHEIN vaut pour les articles qui acceptent le retour ; chez AliExpress, le retour gratuit est celui de l'annonce, vérifiez donc la page avant de payer."
+        "Pour un retour par changement d’avis, les politiques consultées exigent des vêtements neufs, non portés, non lavés et avec étiquette ; chez AliExpress, aussi avec l’autocollant d’hygiène. En France, la page d'AliExpress rappelle en outre la garantie légale de 2 ans et les 14 jours de rétractation. Le délai de SHEIN vaut pour les articles qui acceptent le retour ; chez AliExpress, le retour gratuit est celui de l'annonce, vérifiez donc la page avant de payer."
       ]
     },
     {
       "heading": "Que choisir : ce qu'il faut peser",
       "paragraphs": [
-        "Si vous voulez plus de jours pour changer d’avis sans dépendre de l’annonce, SHEIN donne jusqu’à 30 jours après réception pour les articles qui acceptent le retour. Si la pièce que vous voulez est sur AliExpress, lisez l'annonce avant de payer : vendeur, prévision de livraison, date de remboursement garanti et retour gratuit. Comparez le total à chaque paiement, pas le prix de la pièce."
+        "SHEIN accepte la plupart des articles éligibles jusqu’à 30 jours après réception. AliExpress publie 15 jours après livraison avec un vendeur local et 90 jours après la commande avec un vendeur de l’étranger. Ces délais ne commencent pas à la même date : vérifiez le temps restant après réception, les frais et l’adresse de retour. Choisissez selon ces conditions, la livraison prévue et le coût final."
       ]
     },
     {
@@ -309,7 +309,7 @@
             "[Chemise rayée à manches longues, plus ample](https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C)"
           ],
           [
-            "T-shirt",
+            "Blouses et t-shirts",
             "[Blouse en satin à manches courtes, plus ample](https://s.click.aliexpress.com/e/_c2ulsYCh)",
             "[T-shirt blanc en coton à col en V](https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C)"
           ],

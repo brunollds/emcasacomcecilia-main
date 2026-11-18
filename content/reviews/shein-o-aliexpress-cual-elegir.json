@@ -34,7 +34,7 @@
       "Elige AliExpress si la prenda que quieres está allí y su página muestra devolución gratis y una previsión de entrega que te sirve."
     ],
     "skipIf": [
-      "Pasa de AliExpress si quieres las mismas reglas de devolución en todos los pedidos: SHEIN publica una sola política, mientras que en AliExpress la devolución gratis depende del anuncio."
+      "Descarta AliExpress si el anuncio no aclara el plazo, el coste o la dirección de devolución y necesitas poder devolver la prenda si no te queda bien."
     ]
   },
   "affiliate": [
@@ -57,7 +57,7 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "SHEIN da hasta 30 días tras la recepción en España y México (en España, además, 14 de desistimiento por ley). AliExpress da 30 días (España) o 15 (México) tras la entrega con vendedor local, y 90 días desde el pedido con vendedor del exterior. Envío y plazo cambian según el anuncio. En SHEIN, busca 4CW5Y para obtener descuento."
+        "SHEIN admite devoluciones de artículos elegibles hasta 30 días tras recibirlos en España y México. AliExpress publica plazos distintos según el vendedor y el anuncio: compara la fecha límite, el coste de devolución y la entrega prevista. En SHEIN, busca el código de referido 4CW5Y en la app o web para obtener descuento en una selección."
       ]
     },
     {
@@ -111,11 +111,11 @@
         ]
       },
       "postParagraphs": [
-        "En SHEIN, la tabla recoge lo que la tienda publica para España y México. En AliExpress, la tabla recoge la política de devolución de cada mercado y lo que mostraba la página de una prenda el 17 de noviembre de 2026: el envío, la previsión y el plazo de devolución gratis son de ese anuncio, y otro puede ser distinto. El plazo de entrega no se compara como medida, y ninguna de las dos garantiza llegar antes que la otra."
+        "En SHEIN, la tabla recoge lo que la tienda publica para España y México. En AliExpress, la tabla recoge la política de devolución de cada mercado y lo que mostraba la página de una prenda el 17 de noviembre de 2026: el envío, la previsión y el plazo de devolución gratis son de ese anuncio, y otro puede ser distinto. Sin consultar los productos para el mismo destino, no podemos afirmar cuál llega antes. Compara las previsiones de tu pedido; los ejemplos de AliExpress de esta tabla no garantizan las condiciones de las prendas de la muestra siguiente."
       ]
     },
     {
-      "heading": "Tienda o marketplace: qué revisar en la página de la prenda",
+      "heading": "Qué revisar en ambas tiendas antes de comprar",
       "paragraphs": [
         "En AliExpress, las condiciones son las del anuncio, y la página de la prenda muestra cada una antes del pago. En SHEIN, el envío y la devolución siguen la política de la tienda. Antes de comprar, revisa:"
       ],
@@ -147,13 +147,13 @@
         "**AliExpress, con defecto, daño o diferencia con el anuncio:** paga la devolución el vendedor. Si el paquete no llega a la fecha de reembolso garantizado, puedes pedir el reembolso total."
       ],
       "postParagraphs": [
-        "En las dos, la ropa solo se devuelve nueva, sin uso, sin lavar y con etiqueta; en AliExpress, también con la pegatina de higiene. En España, la página de AliExpress recuerda además la garantía legal de 2 años y los 14 días de desistimiento. El plazo de SHEIN vale para los artículos que admiten devolución; en AliExpress, la devolución gratis es del anuncio, así que revisa la página antes de pagar."
+        "Para devoluciones por cambio de opinión, las políticas consultadas exigen ropa nueva, sin uso, sin lavar y con etiqueta; en AliExpress, también con la pegatina de higiene. En España, la página de AliExpress recuerda además la garantía legal de 2 años y los 14 días de desistimiento. El plazo de SHEIN vale para los artículos que admiten devolución; en AliExpress, la devolución gratis es del anuncio, así que revisa la página antes de pagar."
       ]
     },
     {
       "heading": "Cuál elegir: qué conviene pesar",
       "paragraphs": [
-        "Si quieres más días para desistir sin depender del anuncio, SHEIN da 30 días desde la recepción, en España y en México, en los artículos que admiten devolución. Si la prenda que quieres está en AliExpress, lee el anuncio antes de pagar: vendedor, previsión de entrega, fecha de reembolso garantizado y devolución gratis. Compara el total en cada checkout, no el precio de la prenda."
+        "SHEIN admite artículos elegibles hasta 30 días después de recibirlos en España y México. AliExpress publica 30 días tras la entrega con vendedor local en España, 15 en México y 90 desde el pedido con vendedor del exterior. Los plazos parten de fechas distintas: revisa cuánto tiempo queda al recibir la prenda, quién paga la devolución y a qué dirección se envía. Decide con esas condiciones, la entrega prevista y el coste final."
       ]
     },
     {
@@ -325,7 +325,7 @@
             "[Camisa de rayas de manga larga, más holgada](https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C)"
           ],
           [
-            "Camiseta",
+            "Blusas y camisetas",
             "[Blusa de satén de manga corta, más holgada](https://s.click.aliexpress.com/e/_c2ulsYCh)",
             "[Camiseta blanca de algodón con cuello en V](https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C)"
           ],

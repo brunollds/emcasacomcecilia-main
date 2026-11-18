@@ -34,7 +34,7 @@
       "Scegli AliExpress se l’articolo che vuoi è lì e la pagina dell’annuncio mostra il reso gratuito e una data di consegna che ti va bene."
     ],
     "skipIf": [
-      "Evita AliExpress se vuoi tempo per ripensarci dopo la consegna ma l’annuncio non indica il reso gratuito: il costo della spedizione di ritorno è tuo."
+      "Evita AliExpress se l’annuncio non chiarisce scadenza, costo o indirizzo del reso e vuoi poter restituire il capo se la taglia non va bene."
     ]
   },
   "affiliate": [
@@ -57,7 +57,7 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Su SHEIN valgono 14 giorni di recesso e, per la maggior parte degli articoli, fino a 30 giorni dal ricevimento. Su AliExpress conta la regola per l’Italia: fino a 15 giorni dopo la consegna con i venditori locali, 90 giorni dall’ordine con quelli dall’estero. Spedizione e consegna cambiano da annuncio ad annuncio. Su SHEIN, cerca 4CW5Y per ottenere uno sconto."
+        "In Italia, SHEIN accetta la maggior parte degli articoli idonei entro 30 giorni dal ricevimento, oltre ai diritti di legge. AliExpress pubblica termini diversi secondo venditore e annuncio: confronta scadenza, costo del reso e consegna prevista. Su SHEIN, cerca il codice invito 4CW5Y nell’app o sul sito per uno sconto su una selezione."
       ]
     },
     {
@@ -96,11 +96,11 @@
         ]
       },
       "postParagraphs": [
-        "Su SHEIN la tabella riporta ciò che il negozio pubblica per l’Italia. Su AliExpress la tabella riporta la regola dei resi per l’Italia e ciò che mostrava la pagina di un annuncio (al 17 novembre 2026): un altro annuncio può avere altra spedizione e altri tempi. Il tempo di consegna non si confronta come misura, e nessuno dei due negozi garantisce di arrivare prima dell’altro."
+        "Su SHEIN la tabella riporta ciò che il negozio pubblica per l’Italia. Su AliExpress la tabella riporta la regola dei resi per l’Italia e ciò che mostrava la pagina di un annuncio (al 17 novembre 2026): un altro annuncio può avere altra spedizione e altri tempi. Senza consultare i prodotti per la stessa destinazione, non possiamo dire chi consegna prima. Confronta le previsioni del tuo ordine; gli esempi AliExpress in tabella non garantiscono le condizioni degli articoli del campione qui sotto."
       ]
     },
     {
-      "heading": "Negozio o marketplace: cosa controllare nella pagina dell’articolo",
+      "heading": "Cosa controllare nei due negozi prima di comprare",
       "paragraphs": [
         "Su AliExpress valgono le condizioni dell’annuncio, e la pagina dell’articolo le mostra prima del pagamento. Su SHEIN spedizione e resi seguono la politica del negozio, e lingerie, biancheria intima e bigiotteria si restituiscono solo entro i 14 giorni. Prima di comprare, controlla:"
       ],
@@ -131,13 +131,13 @@
         "**AliExpress, con difetto, danno o differenza dall’annuncio:** il reso lo paga il venditore. Nell’UE la pagina di AliExpress ricorda anche la garanzia legale di 2 anni e i 14 giorni di recesso."
       ],
       "postParagraphs": [
-        "In entrambi i negozi i vestiti si restituiscono nuovi, mai usati, non lavati e con l’etichetta; su AliExpress anche con l’adesivo igienico. Il termine di SHEIN vale per gli articoli restituibili; su AliExpress il reso gratuito dipende dall’annuncio, quindi controllalo nella pagina prima di pagare."
+        "Per i resi per ripensamento, le politiche consultate richiedono abiti nuovi, mai usati, non lavati e con etichetta; su AliExpress anche con l’adesivo igienico. Il termine di SHEIN vale per gli articoli restituibili; su AliExpress il reso gratuito dipende dall’annuncio, quindi controllalo nella pagina prima di pagare."
       ]
     },
     {
       "heading": "Quale scegliere, a seconda dell’acquisto",
       "paragraphs": [
-        "Se vuoi più giorni per ripensarci senza dipendere dall’annuncio, SHEIN dà fino a 30 giorni dal ricevimento per gli articoli restituibili. Se l’articolo che vuoi è su AliExpress, leggi la pagina dell’annuncio prima di pagare: venditore, data di consegna, data di rimborso garantito e reso gratuito. Consegna e totale li confronti al checkout di entrambi."
+        "SHEIN accetta la maggior parte degli articoli idonei fino a 30 giorni dal ricevimento. AliExpress pubblica 15 giorni dopo la consegna con venditori locali e 90 giorni dall’ordine con venditori esteri. I termini partono da date diverse: controlla quanto tempo resta dopo l’arrivo, chi paga il reso e a quale indirizzo va spedito. Scegli in base a queste condizioni, alla consegna prevista e al costo finale."
       ]
     },
     {
@@ -309,7 +309,7 @@
             "[Camicia a righe a maniche lunghe, più ampia](https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C)"
           ],
           [
-            "Maglietta",
+            "Bluse e magliette",
             "[Camicetta di raso a maniche corte, più ampia](https://s.click.aliexpress.com/e/_c2ulsYCh)",
             "[T-shirt bianca di cotone con scollo a V](https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C)"
           ],

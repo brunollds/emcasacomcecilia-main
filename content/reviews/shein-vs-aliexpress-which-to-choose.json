@@ -34,7 +34,7 @@
       "Choose AliExpress if the piece you want is sold there and its page shows free returns and a delivery forecast that works for you."
     ],
     "skipIf": [
-      "Skip AliExpress if you want the same return rules on every order: SHEIN publishes one policy, while at AliExpress free returns depend on the listing."
+      "Skip AliExpress if the listing leaves the return deadline, cost or address unclear and you need to return the item if it does not fit."
     ]
   },
   "affiliate": [
@@ -57,7 +57,7 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "In the UK, SHEIN gives 14 days by law and, under its policy, most items up to 30 days after receipt. AliExpress gives 15 days after delivery with a local seller and 90 days from the order with an overseas one. Shipping and delivery time change by listing. On SHEIN, search 4CW5Y to get a discount."
+        "In the UK, SHEIN allows most eligible items back within 30 days of receipt, alongside statutory rights. AliExpress lists different return windows by seller and listing; compare the deadline, return cost and delivery estimate for your purchase. On SHEIN, search the referral code 4CW5Y in the app or website for a discount on selected offers."
       ]
     },
     {
@@ -96,11 +96,11 @@
         ]
       },
       "postParagraphs": [
-        "At SHEIN, the table gives what the store publishes for the UK. At AliExpress, the table gives the UK return policy and what the page of one piece showed on November 17, 2026: the shipping, forecast and free-return period belong to that listing, and another one can differ. Delivery time is not something to compare as a measure, and neither store guarantees that it arrives before the other."
+        "At SHEIN, the table gives what the store publishes for the UK. At AliExpress, the table gives the UK return policy and what the page of one piece showed on November 17, 2026: the shipping, forecast and free-return period belong to that listing, and another one can differ. Without checking the products for the same destination, we cannot say which arrives first. Compare the estimates for your order; the AliExpress examples in this table do not guarantee the terms of the sample items below."
       ]
     },
     {
-      "heading": "Marketplace or store: what to check on the product page",
+      "heading": "What to check at both stores before buying",
       "paragraphs": [
         "At AliExpress the terms are the listing's, and the product page shows each one before payment. At SHEIN, shipping and returns follow the store's policy, and lingerie, underwear and costume jewelry only come back within the 14 days. Before buying, check:"
       ],
@@ -129,13 +129,13 @@
         "**AliExpress, defective, damaged or not as described:** the seller pays the return. If the parcel does not arrive by the guaranteed refund date, you can ask for a full refund."
       ],
       "postParagraphs": [
-        "At both stores, clothes only come back new, unworn, unwashed and with the tag; at AliExpress, also with the hygiene sticker. SHEIN's window applies to the items that accept returns; at AliExpress, free returns belong to the listing, so check the page before paying."
+        "For change-of-mind returns, the policies consulted require clothes to be new, unworn, unwashed and tagged; AliExpress also requires the hygiene sticker. SHEIN's window applies to the items that accept returns; at AliExpress, free returns belong to the listing, so check the page before paying."
       ]
     },
     {
       "heading": "Which to choose: what to weigh",
       "paragraphs": [
-        "If you want more days to change your mind without depending on the listing, SHEIN gives up to 30 days after receipt on the items that accept returns. If the piece you want is on AliExpress, read the listing before paying: seller, delivery forecast, guaranteed refund date and free returns. Compare the total at each checkout, not the price of the piece."
+        "SHEIN allows most eligible items back within 30 days of receipt. AliExpress lists 15 days after delivery for local sellers and 90 days from the order for overseas sellers, while free-return terms vary by listing. These periods start on different dates: check how much time remains after arrival, who pays the return and where it goes. Choose using those terms, the delivery estimate and the final cost."
       ]
     },
     {
@@ -307,7 +307,7 @@
             "[Long-sleeved striped shirt, looser fit](https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C)"
           ],
           [
-            "T-shirt",
+            "Tops",
             "[Short-sleeved satin top, looser fit](https://s.click.aliexpress.com/e/_c2ulsYCh)",
             "[White cotton T-shirt with a V-neck](https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C)"
           ],
