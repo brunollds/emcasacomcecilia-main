@@ -155,3 +155,13 @@ plano grátis na comparação.
 - **PT:** `proton-vpn-vale-a-pena` (id 1039). Job 3 pelo Fable: 16 achados aplicados. Os principais: o botão abre a página de parceiros, que só tem o Plus de 2 anos (avisado no texto e no CTA); linha do nosso link na tabela de preços (R$ 210,96); ofertas para "todos os novos usuários"; "menos da metade" com a renovação ao lado; Proton Mail sem generalizar para os outros serviços.
 - **Fora do PT (ids 1040 a 1048):** valores em dólar, sem Pix nem Reclame Aqui (o "pesa contra" fica com três itens). Sonnet traduz do inglês, Fable fecha.
 - **Mídia:** capa `proton-vpn-vale-a-pena-capa.webp` ("Proton VPN / Free or Plus", uma para os 10); print do cartão do VPN Plus de 1 ano em reais (PT) e em dólar (os outros 9).
+
+## Revisão de copy do Farol (17/11/2026, depois do #1127)
+
+- Parecer em `docs/auditoria-copy-artigos/pn3-pr1127-20261117-farol/`, aplicado nos 10 idiomas (161 substituições), com fechamento pelo Fable.
+- **Renovação:** o texto deixa de dizer que ela "custa mais que o primeiro período", porque as durações são diferentes (24 meses contra 12). Fica "o custo mensal equivalente aumenta na renovação, que é anual", com total e duração juntos.
+- **Vantagem do link:** a tabela de preços ganhou a linha da página pública de ofertas (R$ 251,76 por 24 meses, relida em reais em 17/11). O link sai R$ 40,80 abaixo dela e R$ 84,00 abaixo da página de preços; em dólar, US$ 12 e US$ 24. A conta aparece junto da tabela, no FAQ de preço, na meta e no convite final. O botão passa a nomear o Plus de 2 anos.
+- **Pesa contra:** entra o pagamento antecipado de 24 meses, no lugar do limite do grátis, que já estava em outros capítulos.
+- **NetShield e Secure Core:** descritos pelo que fazem, com atribuição (filtragem de domínios com a VPN conectada e o bloqueio ativado; conexão por dois servidores).
+- **Unlimited:** deixa de ser a indicação automática para quem quer dois serviços; o texto manda comparar com o pacote VPN com Pass, que está na página de ofertas.
+- **Título em PT:** "Proton VPN vale a pena? Quando ficar no grátis e quando pagar pelo Plus". O `seoTitle` não mudou.

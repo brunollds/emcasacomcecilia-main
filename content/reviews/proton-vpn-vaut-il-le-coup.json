@@ -16,7 +16,7 @@
     "url": "/sobre"
   },
   "description": "Ce que couvre Proton VPN Free, ce que seul Plus propose, ce que coûte Plus pour la première période et au renouvellement, et quand Proton Unlimited se justifie.",
-  "metaDescription": "Proton VPN vaut-il le coup ? L'offre gratuite, quand Plus se justifie, le prix avec renouvellement et les conditions du remboursement sous 30 jours.",
+  "metaDescription": "Proton VPN vaut-il le coup ? Gratuit ou Plus : notre lien propose 24 mois à 59,76 $, puis 83,88 $ par an. Comparez fonctions et conditions.",
   "publishedAt": "17 novembre 2026",
   "publishedAtISO": "2026-11-17",
   "updatedAt": "2026-11-17",
@@ -31,7 +31,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Selon Proton, l'offre gratuite de Proton VPN n'a ni publicité ni limite de données et connecte un appareil à la fois. Pour un téléphone sur un Wi-Fi public, cela suffit. Plus se justifie si vous voulez choisir le pays, utiliser plusieurs appareils ou bloquer les publicités. Hors abonnement mensuel, le renouvellement coûte plus cher que la première période."
+        "Proton VPN Free connecte un appareil sans limite de données, avec un pays choisi par l'application. Plus se justifie pour choisir le pays, connecter jusqu'à dix appareils ou utiliser NetShield. Pour deux ans, notre lien ouvre une offre moins chère que celle de la page des tarifs ; ensuite, le renouvellement est annuel."
       ]
     },
     {
@@ -50,8 +50,8 @@
         "**10 appareils en même temps**, au lieu de 1.",
         "**Choix du pays**, parmi plus de 140, avec plus de 20 000 serveurs.",
         "**« Vitesse VPN la plus élevée »**, selon les mots de Proton.",
-        "**NetShield**, le bloqueur de publicités, de traqueurs et de logiciels malveillants par filtrage DNS.",
-        "**Secure Core**, que la page signale comme une fonction premium.",
+        "**NetShield :** filtre les domaines de publicité, de traqueurs et de logiciels malveillants lorsque le VPN est connecté et le blocage activé.",
+        "**Secure Core :** selon Proton, fait passer la connexion par deux serveurs VPN, avec une étape supplémentaire sur des serveurs protégés exploités par l'entreprise.",
         "**P2P et streaming**, que la page liste dans l'offre.",
         "**Assistance prioritaire et chat en direct.**"
       ],
@@ -90,7 +90,7 @@
           [
             "Bloquer les publicités et les traqueurs sur l'appareil",
             "Non inclus",
-            "Oui, avec NetShield"
+            "Oui, avec NetShield activé et le VPN connecté"
           ],
           [
             "Partager des fichiers en P2P",
@@ -116,7 +116,7 @@
         "Voici les prix affichés sur les pages de Proton le 17 novembre 2026, avec la devise réglée sur le dollar américain. Le chiffre mis en avant est celui « par mois », mais le prélèvement porte sur toute la période, payée d'avance. L'offre d'un an était au prix de la campagne Black Friday."
       ],
       "comparisonTable": {
-        "caption": "VPN Plus sur les pages des tarifs et partenaires de Proton, en dollars américains. Le montant change selon le pays et la devise ; vérifiez-le au moment du paiement.",
+        "caption": "VPN Plus sur les pages des tarifs, des offres publiques et des partenaires de Proton, en dollars américains. Vérifiez devise et montants au paiement.",
         "headers": [
           "Offre",
           "Par mois",
@@ -143,6 +143,12 @@
             "83,88 $ tous les 12 mois"
           ],
           [
+            "2 ans, page publique des offres",
+            "2,99 $",
+            "71,76 $",
+            "83,88 $ tous les 12 mois"
+          ],
+          [
             "2 ans, sur la page partenaires (celle qu'ouvre notre lien)",
             "2,49 $",
             "59,76 $",
@@ -151,8 +157,8 @@
         ]
       },
       "postParagraphs": [
-        "Sur les offres d'1 an et de 2 ans, le prix du tableau ne vaut que pour la première période. Ensuite, les deux se renouvellent tous les 12 mois au prix affiché de 83,88 $, et les conditions disent que le prix en vigueur à cette date s'applique. Si vous restez deux ans, l'offre de 2 ans coûte donc moins que l'offre d'1 an plus un renouvellement.",
-        "La dernière ligne est la page qu'ouvre notre bouton : la même offre de 2 ans à 59,76 $ pour les 24 premiers mois, avec le même renouvellement. La comparaison entre les parcours est dans le [guide Black Friday de Proton](/fr/reviews/black-friday-proton-offres)."
+        "L'offre partenaires facture les 24 premiers mois d'avance. Ensuite, le renouvellement devient annuel au tarif en vigueur, actuellement annoncé à 83,88 $ pour 12 mois. Un an suivi d'un renouvellement totaliserait 119,76 $ pour les deux premières années aux prix relevés ; ce calcul utilise le renouvellement actuel et ne garantit pas un prix futur.",
+        "Calculée sur les prix relevés, l'offre partenaires fait économiser 12 $ par rapport aux 71,76 $ de la page publique des offres pour les mêmes 24 mois de VPN Plus. Par rapport aux 83,76 $ de la page des tarifs, l'écart est de 24 $. Les trois annoncent le même renouvellement : 83,88 $ tous les 12 mois. Notre bouton ouvre l'offre partenaires ; voir le [guide Black Friday de Proton](/fr/reviews/black-friday-proton-offres)."
       ],
       "image": {
         "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
@@ -164,16 +170,16 @@
       "heading": "VPN Plus ou Proton Unlimited",
       "paragraphs": [
         "Proton Unlimited réunit dans un seul compte les fonctions payantes du VPN, de la messagerie, du stockage en ligne et du gestionnaire de mots de passe. Sur la même page, l'offre d'1 an coûtait 77,88 $ et se renouvelait à 119,88 $ tous les 12 mois.",
-        "Si vous souscrivez VPN Plus, vous gardez les offres gratuites des autres services, et le centre d'aide indique qu'on ne peut pas avoir plusieurs offres Plus sur le même compte. Unlimited se justifie si vous comptez utiliser le VPN payant et un autre service Proton payant. Si vous ne voulez que le VPN, Plus d'1 an coûte moins de la moitié sur la première période (35,88 $ contre 77,88 $) et reste moins cher au renouvellement (83,88 $ contre 119,88 $).",
+        "Si vous souscrivez VPN Plus, vous gardez les offres gratuites des autres services, et le centre d'aide indique qu'on ne peut pas avoir plusieurs offres Plus sur le même compte. Envisagez Unlimited si les fonctions payantes des autres services vous sont aussi utiles ; avoir besoin de deux services ne prouve pas que ce soit le choix le moins cher. Proton annonce aussi une offre VPN avec Pass, à comparer pour un VPN et un gestionnaire de mots de passe. Si vous ne voulez que le VPN, Plus d'1 an coûte moins de la moitié sur la première période (35,88 $ contre 77,88 $) et reste moins cher au renouvellement (83,88 $ contre 119,88 $).",
         "Nous utilisons Proton Mail, de la même société, en offre gratuite depuis près de dix ans. Si la messagerie gratuite vous suffit, vous n'avez pas besoin d'Unlimited pour avoir le VPN payant."
       ]
     },
     {
       "heading": "Ce qui joue contre",
       "bullets": [
-        "**Sur les offres d'1 an et de 2 ans, le renouvellement coûte plus cher que la première période.** Sur l'offre d'1 an de la page des tarifs, de 35,88 $ à 83,88 $.",
+        "**Le coût mensuel équivalent augmente au renouvellement, qui devient annuel.** L'offre partenaires couvre 24 mois à 59,76 $ ; le prélèvement suivant annoncé est de 83,88 $ tous les 12 mois, sous réserve du tarif en vigueur. Les périodes sont différentes.",
         "**L'assistance commence par un formulaire.** L'assistance de Proton passe par le formulaire de contact de son site, et le chat en direct n'est listé que sur l'offre payante. Plus de détails dans [Proton VPN est-il fiable ?](/fr/reviews/proton-vpn-est-il-fiable).",
-        "**L'offre gratuite ne permet pas de choisir le pays.** Si c'est votre raison d'avoir un VPN, l'offre gratuite ne conviendra pas."
+        "**L'offre de notre lien demande de payer 24 mois d'avance.** Pour un besoin court, comparez le montant à payer en mensuel ou en annuel avant de vous engager pour deux ans."
       ]
     },
     {
@@ -189,7 +195,7 @@
       "bullets": [
         "Proton VPN est-il gratuit ? Il a une offre gratuite, sans carte, et des offres payantes. Selon Proton, l'offre gratuite n'a ni publicité ni limite de données et connecte 1 appareil à la fois.",
         "Proton VPN Free a-t-il une limite de données ? Proton dit que non. Les limites de l'offre gratuite sont 1 appareil à la fois et des serveurs dans 10 pays choisis par l'application.",
-        "Combien coûte Proton VPN Plus ? Sur la page des tarifs que nous avons lue, en dollars américains, l'offre d'1 an était à 35,88 $, payés d'avance, et se renouvelait à 83,88 $ tous les 12 mois. L'offre mensuelle coûtait 9,99 $. Les montants changent selon le pays et la devise.",
+        "Combien coûte Proton VPN Plus ? Lors du relevé en dollars américains, un an coûtait 35,88 $ et l'offre partenaires de notre lien, 59,76 $ pour les 24 premiers mois, payés d'avance. Le renouvellement annoncé était ensuite de 83,88 $ tous les 12 mois ; vérifiez devise, éligibilité et tarif en vigueur.",
         "Quelle différence entre VPN Plus et Proton Unlimited ? VPN Plus est le VPN payant seul. Unlimited inclut aussi les fonctions payantes de la messagerie, du stockage en ligne et du gestionnaire de mots de passe, pour un prix plus élevé.",
         "Puis-je essayer Plus et me faire rembourser ? Les conditions prévoient un remboursement dans les 30 jours suivant l'achat initial, une fois par utilisateur, pour qui s'est abonné directement chez Proton et a résilié et fait la demande dans le délai."
       ],
@@ -201,8 +207,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Si vous avez choisi Plus, notre lien ouvre la page partenaires de Proton, avec l'offre de 2 ans. Vérifiez le total payé d'avance et le renouvellement avant de payer.",
-    "label": "Voir l'offre Proton VPN",
+    "text": "Pour deux ans de Plus, notre lien ouvre l'offre à 59,76 $ pour les 24 premiers mois, soit 12 $ de moins que la page publique des offres lors du relevé. Le paiement se fait d'avance ; ensuite, l'abonnement se renouvelle à 83,88 $ tous les 12 mois, sous réserve du tarif en vigueur. Vérifiez devise et total avant de souscrire.",
+    "label": "Voir le Plus de 2 ans dans notre offre",
     "url": "https://go.getproton.me/SH39K",
     "sponsored": true
   },
@@ -222,7 +228,7 @@
   "decision": {
     "takeIf": [
       "Vous utilisez un VPN sur plus d'un appareil ou devez choisir le pays de la connexion.",
-      "Vous voulez le bloqueur de publicités et de traqueurs sur tout l'appareil."
+      "Vous voulez le filtrage des publicités et des traqueurs de NetShield pendant la connexion VPN."
     ],
     "skipIf": [
       "Votre usage est occasionnel, sur un seul appareil, et le pays de la connexion n'a pas d'importance.",
