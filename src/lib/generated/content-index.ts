@@ -249989,7 +249989,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Ver oferta do VPN Plus de 2 anos",
+            "label": "Pegar até 75% OFF pelo link",
             "href": "https://go.getproton.me/SH39K",
             "sponsored": true
           }
@@ -250156,7 +250156,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "O VPN Plus de 24 meses saía por R$ 210,96 pelo nosso link, o menor total entre os caminhos comparados. Abra a oferta, confira a moeda, o total cobrado de uma vez e a renovação anunciada antes de assinar.",
-      "label": "Ver oferta do VPN Plus de 2 anos",
+      "label": "Pegar até 75% OFF pelo link",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -250260,7 +250260,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "View the 2-year VPN Plus offer",
+            "label": "Get up to 75% off via the link",
             "href": "https://go.getproton.me/SH39K",
             "sponsored": true
           }
@@ -250421,7 +250421,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "For new customers, our link showed two years of VPN Plus for $59.76 upfront, against $71.76 on Proton's deals page for the same term. The advertised renewal is $83.88 every 12 months, subject to the price then in force. Open the offer with the button and check your currency before paying.",
-      "label": "View the 2-year VPN Plus offer",
+      "label": "Get up to 75% off via the link",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -250525,7 +250525,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Ver la oferta de VPN Plus de 2 años",
+            "label": "Consigue hasta un 75 % de descuento con el enlace",
             "href": "https://go.getproton.me/SH39K",
             "sponsored": true
           }
@@ -250686,7 +250686,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Para nuevos clientes, nuestro enlace mostraba dos años de VPN Plus por $59.76, frente a $71.76 en la página de ofertas de Proton para el mismo plazo. El pago es único y la renovación anunciada es de $83.88 anuales, sujeta al precio vigente. Abre la oferta con el botón y confirma la moneda antes de pagar.",
-      "label": "Ver la oferta de VPN Plus de 2 años",
+      "label": "Consigue hasta un 75 % de descuento con el enlace",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -250790,7 +250790,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Voir l'offre VPN Plus de 2 ans",
+            "label": "Profitez de jusqu’à 75 % de réduction via le lien",
             "href": "https://go.getproton.me/SH39K",
             "sponsored": true
           }
@@ -250951,7 +250951,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Pour les nouveaux clients, notre lien affichait VPN Plus à 59,76 $ pour deux ans, contre 71,76 $ sur la page d'offres Proton pour la même durée. Le paiement est unique, puis le renouvellement annoncé est de 83,88 $ par an, au tarif alors applicable. Ouvrez l'offre avec le bouton et vérifiez la devise.",
-      "label": "Voir l'offre VPN Plus de 2 ans",
+      "label": "Profitez de jusqu’à 75 % de réduction via le lien",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -251055,7 +251055,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "2-Jahres-Angebot für VPN Plus ansehen",
+            "label": "Bis zu 75 % Rabatt über den Link sichern",
             "href": "https://go.getproton.me/SH39K",
             "sponsored": true
           }
@@ -251216,7 +251216,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Für Neukunden zeigte unser Link VPN Plus für zwei Jahre zu einmalig 59,76 $, gegenüber 71,76 $ auf Protons Angebotsseite für dieselbe Laufzeit. Die angekündigte Verlängerung kostet 83,88 $ jährlich, vorbehaltlich des dann geltenden Preises. Öffnen Sie das Angebot über den Button und prüfen Sie vor dem Bezahlen die Währung.",
-      "label": "2-Jahres-Angebot für VPN Plus ansehen",
+      "label": "Bis zu 75 % Rabatt über den Link sichern",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -251320,7 +251320,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Vedi l'offerta VPN Plus da 2 anni",
+            "label": "Ottieni fino al 75% di sconto con il link",
             "href": "https://go.getproton.me/SH39K",
             "sponsored": true
           }
@@ -251481,7 +251481,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Per i nuovi clienti, il nostro link mostrava due anni di VPN Plus a $59.76, contro $71.76 nella pagina offerte di Proton per la stessa durata. Si paga subito e il rinnovo annunciato è di $83.88 all'anno, al prezzo allora vigente. Apri l'offerta dal pulsante e controlla la valuta prima di pagare.",
-      "label": "Vedi l'offerta VPN Plus da 2 anni",
+      "label": "Ottieni fino al 75% di sconto con il link",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -251585,7 +251585,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "VPN Plus 2년 할인 보기",
+            "label": "링크로 최대 75% 할인 받기",
             "href": "https://go.getproton.me/SH39K",
             "sponsored": true
           }
@@ -251746,7 +251746,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "신규 고객 대상 VPN Plus 2년 플랜은 저희 링크에서 일시불 $59.76, Proton 공개 할인 페이지에서는 같은 기간에 $71.76였습니다. 안내된 갱신 요금은 연 $83.88이며 갱신 시점의 가격이 적용됩니다. 버튼으로 할인 페이지를 열고 결제 전 통화와 총액을 확인하세요.",
-      "label": "VPN Plus 2년 할인 보기",
+      "label": "링크로 최대 75% 할인 받기",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -251850,7 +251850,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "VPN Plusの2年オファーを見る",
+            "label": "リンクから最大75%オフを手に入れる",
             "href": "https://go.getproton.me/SH39K",
             "sponsored": true
           }
@@ -252011,7 +252011,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "新規利用者向けでは、当サイトのリンクでVPN Plusの2年プランが一括$59.76、同じ期間のProton公式オファーページでは$71.76でした。更新時の案内は年$83.88ですが、その時点の料金が適用されます。ボタンからオファーを開き、支払い前に通貨と合計額を確認してください。",
-      "label": "VPN Plusの2年オファーを見る",
+      "label": "リンクから最大75%オフを手に入れる",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -252115,7 +252115,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "查看 VPN Plus 兩年優惠",
+            "label": "透過連結領取最高 75% 折扣",
             "href": "https://go.getproton.me/SH39K",
             "sponsored": true
           }
@@ -252276,7 +252276,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "針對新用戶，我們的連結顯示 VPN Plus 兩年一次付清 59.76 美元，Proton 公開優惠頁的相同方案和期限則為 71.76 美元。公布的續訂價為每年 83.88 美元，實際以續訂時的價格為準。請透過按鈕開啟優惠，並在付款前確認幣別和總額。",
-      "label": "查看 VPN Plus 兩年優惠",
+      "label": "透過連結領取最高 75% 折扣",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -252380,7 +252380,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "查看 VPN Plus 两年优惠",
+            "label": "通过链接领取最高 75% 折扣",
             "href": "https://go.getproton.me/SH39K",
             "sponsored": true
           }
@@ -252541,7 +252541,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "面向新用户，我们的链接显示 VPN Plus 两年一次付清 59.76 美元，Proton 公开优惠页的相同套餐和期限则为 71.76 美元。公布的续订价为每年 83.88 美元，实际以续订时的价格为准。请通过按钮打开优惠，并在付款前确认币种和总额。",
-      "label": "查看 VPN Plus 两年优惠",
+      "label": "通过链接领取最高 75% 折扣",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -252746,7 +252746,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Se você ainda está avaliando uma assinatura, abra a oferta da Proton pelo nosso link e confira o total e a renovação. Para cancelar ou pedir o reembolso de uma assinatura que você já tem, use o canal indicado neste guia.",
-      "label": "Ver oferta antes de assinar",
+      "label": "Pegar até 75% OFF pelo link",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -252941,7 +252941,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "If you are still considering a subscription, open Proton's offer through our link and check the total and renewal. For an existing cancellation or refund request, use the relevant support route in this guide.",
-      "label": "View the offer before subscribing",
+      "label": "Get up to 75% off via the link",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -253136,7 +253136,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Si aún valoras suscribirte, abre la oferta de Proton con nuestro enlace y comprueba total y renovación. Para cancelar o pedir el reembolso de una suscripción que ya tienes, usa el canal indicado en esta guía.",
-      "label": "Ver la oferta antes de suscribirte",
+      "label": "Consigue hasta un 75 % de descuento con el enlace",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -253331,7 +253331,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Si vous envisagez encore un abonnement, ouvrez l'offre Proton via notre lien et vérifiez le total et le renouvellement. Pour une résiliation ou un remboursement en cours, utilisez le canal indiqué dans ce guide.",
-      "label": "Voir l'offre avant de souscrire",
+      "label": "Profitez de jusqu’à 75 % de réduction via le lien",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -253526,7 +253526,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Wenn Sie noch ein Abonnement erwägen, öffnen Sie das Proton-Angebot über unseren Link und prüfen Sie Gesamtbetrag und Verlängerung. Für die Kündigung oder Erstattung eines bestehenden Abonnements nutzen Sie den in diesem Ratgeber genannten Kontaktweg.",
-      "label": "Angebot vor dem Abschluss ansehen",
+      "label": "Bis zu 75 % Rabatt über den Link sichern",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -253721,7 +253721,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Se stai ancora valutando un abbonamento, apri l'offerta Proton dal nostro link e controlla totale e rinnovo. Per una disdetta o un rimborso in corso, usa il canale indicato in questa guida.",
-      "label": "Vedi l'offerta prima di abbonarti",
+      "label": "Ottieni fino al 75% di sconto con il link",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -253916,7 +253916,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "아직 구독을 검토 중이라면 저희 링크로 Proton 할인 페이지를 열고 총액과 갱신 요금을 확인하세요. 기존 구독의 해지나 환불은 이 가이드에서 안내하는 해당 창구를 이용하세요.",
-      "label": "구독 전 할인 확인하기",
+      "label": "링크로 최대 75% 할인 받기",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -254111,7 +254111,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "これから契約を検討する方は、当サイトのリンクからProtonのオファーを開き、合計額と更新料を確認してください。契約済みの解約や返金は、このガイドの該当窓口で手続きします。",
-      "label": "契約前にオファーを確認する",
+      "label": "リンクから最大75%オフを手に入れる",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -254306,7 +254306,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "如果你還在考慮訂閱，請透過我們的連結開啟 Proton 優惠，確認總額和續訂費用。已有訂閱的取消或退款，請使用本指南所列的對應管道。",
-      "label": "訂閱前查看優惠",
+      "label": "透過連結領取最高 75% 折扣",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -254501,7 +254501,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "如果你还在考虑订阅，请通过我们的链接打开 Proton 优惠，确认总额和续订费用。已有订阅的取消或退款，请使用本指南所列的对应渠道。",
-      "label": "订阅前查看优惠",
+      "label": "通过链接领取最高 75% 折扣",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -254675,7 +254675,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Se você procura os recursos pagos do Proton VPN, abra a oferta pelo nosso link. Confira o total cobrado de uma vez e a renovação; a comparação de preços está no guia de Black Friday relacionado.",
-      "label": "Ver oferta do Proton VPN",
+      "label": "Pegar até 75% OFF pelo link",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -254843,7 +254843,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "If you want Proton VPN's paid features, open the offer through our link and check the upfront total and renewal. The related Black Friday guide compares the prices.",
-      "label": "View the Proton VPN offer",
+      "label": "Get up to 75% off via the link",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -255011,7 +255011,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Si buscas las funciones de pago de Proton VPN, abre la oferta con nuestro enlace y comprueba el total inicial y la renovación. El artículo relacionado de Black Friday compara los precios.",
-      "label": "Ver la oferta de Proton VPN",
+      "label": "Consigue hasta un 75 % de descuento con el enlace",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -255179,7 +255179,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Si vous recherchez les fonctions payantes de Proton VPN, ouvrez l'offre via notre lien et vérifiez le total initial et le renouvellement. Le guide Black Friday associé compare les prix.",
-      "label": "Voir l'offre Proton VPN",
+      "label": "Profitez de jusqu’à 75 % de réduction via le lien",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -255347,7 +255347,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Wenn Sie die kostenpflichtigen Funktionen von Proton VPN suchen, öffnen Sie das Angebot über unseren Link und prüfen Sie Gesamtbetrag und Verlängerung. Der verknüpfte Black-Friday-Ratgeber vergleicht die Preise.",
-      "label": "Proton-VPN-Angebot ansehen",
+      "label": "Bis zu 75 % Rabatt über den Link sichern",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -255515,7 +255515,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Se cerchi le funzioni a pagamento di Proton VPN, apri l'offerta dal nostro link e controlla totale iniziale e rinnovo. La guida Black Friday collegata confronta i prezzi.",
-      "label": "Vedi l'offerta Proton VPN",
+      "label": "Ottieni fino al 75% di sconto con il link",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -255683,7 +255683,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Proton VPN 유료 기능을 찾는다면 저희 링크로 할인 페이지를 열고 최초 결제 총액과 갱신 요금을 확인하세요. 관련 블랙프라이데이 가이드에서 가격을 비교합니다.",
-      "label": "Proton VPN 할인 보기",
+      "label": "링크로 최대 75% 할인 받기",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -255851,7 +255851,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Proton VPNの有料機能を探している方は、当サイトのリンクからオファーを開き、最初の合計額と更新料を確認してください。関連するブラックフライデー記事で料金を比較しています。",
-      "label": "Proton VPNのオファーを見る",
+      "label": "リンクから最大75%オフを手に入れる",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -256019,7 +256019,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "如果你需要 Proton VPN 的付費功能，請透過我們的連結開啟優惠，確認首次付款總額和續訂費用。相關黑色星期五指南比較了價格。",
-      "label": "查看 Proton VPN 優惠",
+      "label": "透過連結領取最高 75% 折扣",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -256187,7 +256187,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "如果你需要 Proton VPN 的付费功能，请通过我们的链接打开优惠，确认首次付款总额和续订费用。相关黑色星期五指南比较了价格。",
-      "label": "查看 Proton VPN 优惠",
+      "label": "通过链接领取最高 75% 折扣",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -260371,7 +260371,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Para usar o Plus por dois anos, nosso link abre a oferta de R$ 210,96 pelos primeiros 24 meses, R$ 40,80 abaixo da página pública de ofertas na comparação. O pagamento é antecipado; depois, renova por R$ 293,88 a cada 12 meses, sujeito ao preço vigente. Confira sua moeda e o total antes de assinar.",
-      "label": "Conferir o Plus de 2 anos na nossa oferta",
+      "label": "Pegar até 75% OFF pelo link",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -260609,7 +260609,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "For two years of Plus, our link opens the $59.76 offer for the first 24 months, $12 below the public deals page in our price check. Payment is upfront; it then renews at $83.88 every 12 months, subject to the price in force. Check your currency and total before subscribing.",
-      "label": "Check the 2-year Plus in our offer",
+      "label": "Get up to 75% off via the link",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -260847,7 +260847,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Para dos años de Plus, nuestro enlace abre la oferta de $59.76 por los primeros 24 meses, $12 menos que la página pública de ofertas en la consulta registrada. Se paga por adelantado; después se renueva a $83.88 cada 12 meses, sujeto al precio vigente. Confirma moneda y total antes de suscribirte.",
-      "label": "Ver el Plus de 2 años en nuestra oferta",
+      "label": "Consigue hasta un 75 % de descuento con el enlace",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -261085,7 +261085,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Pour deux ans de Plus, notre lien ouvre l'offre à 59,76 $ pour les 24 premiers mois, soit 12 $ de moins que la page publique des offres lors du relevé. Le paiement se fait d'avance ; ensuite, l'abonnement se renouvelle à 83,88 $ tous les 12 mois, sous réserve du tarif en vigueur. Vérifiez devise et total avant de souscrire.",
-      "label": "Voir le Plus de 2 ans dans notre offre",
+      "label": "Profitez de jusqu’à 75 % de réduction via le lien",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -261323,7 +261323,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Für zwei Jahre Plus öffnet unser Link das Angebot zu 59,76 $ für die ersten 24 Monate, beim Preisvergleich 12 $ unter der öffentlichen Angebotsseite. Sie zahlen im Voraus; danach verlängert es sich zu 83,88 $ alle 12 Monate, vorbehaltlich des geltenden Preises. Prüfen Sie Währung und Gesamtbetrag vor dem Abschluss.",
-      "label": "Plus für 2 Jahre in unserem Angebot ansehen",
+      "label": "Bis zu 75 % Rabatt über den Link sichern",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -261561,7 +261561,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Per due anni di Plus, il nostro link apre l'offerta da $59.76 per i primi 24 mesi, $12 in meno rispetto alla pagina pubblica delle offerte nei prezzi che abbiamo letto. Paghi in anticipo; poi si rinnova a $83.88 ogni 12 mesi, in base al prezzo in vigore. Controlla valuta e totale prima di abbonarti.",
-      "label": "Vedi il Plus da 2 anni nella nostra offerta",
+      "label": "Ottieni fino al 75% di sconto con il link",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -261799,7 +261799,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Plus를 2년 쓴다면 저희 링크로 첫 24개월 $59.76 혜택을 확인할 수 있습니다. 확인한 가격 기준 공개 할인 페이지보다 $12 저렴하며 선결제입니다. 이후 12개월마다 $83.88로 갱신되지만 갱신 시점의 유효 가격이 적용됩니다. 가입 전에 통화와 총액을 확인하세요.",
-      "label": "저희 혜택으로 Plus 2년 확인하기",
+      "label": "링크로 최대 75% 할인 받기",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -262037,7 +262037,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Plusを2年間使うなら、当サイトのリンクは最初の24か月$59.76のオファーを開きます。確認した価格では公開オファーページより$12安く、一括前払いです。その後は12か月ごとに$83.88で更新されますが、更新時の有効価格が適用されます。申し込み前に通貨と合計額を確認してください。",
-      "label": "Plusの2年プランを当サイトのオファーで確認",
+      "label": "リンクから最大75%オフを手に入れる",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -262275,7 +262275,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "打算用兩年 Plus，我們的連結可開啟首 24 個月 59.76 美元的優惠，依我們查閱的價格比公開優惠頁面低 12 美元。須一次預付，之後每 12 個月 83.88 美元續訂，實際依續訂時有效價格。訂閱前請確認幣別與總額。",
-      "label": "透過我們的優惠查看 Plus 兩年方案",
+      "label": "透過連結領取最高 75% 折扣",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -262513,7 +262513,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "打算用两年 Plus，我们的链接可打开首 24 个月 59.76 美元的优惠，按我们查阅的价格比公开优惠页面低 12 美元。须一次性预付，之后每 12 个月 83.88 美元续订，实际以续订时有效价格为准。订阅前请确认币种和总额。",
-      "label": "通过我们的优惠查看 Plus 两年套餐",
+      "label": "通过链接领取最高 75% 折扣",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
