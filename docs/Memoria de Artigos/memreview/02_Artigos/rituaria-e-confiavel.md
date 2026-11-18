@@ -9,9 +9,9 @@ category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "pronto-para-deploy"
+status: "no-ar"
 responsavel: "Job-1"
-proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow; refazer o carrinho do Leve 3, Pague 2 na semana de 27/11"
+proxima_acao: "refazer o carrinho do Leve 3, Pague 2 na semana de 27/11"
 bloqueado_por: "-"
 data_criacao: "2026-11-18"
 pauta_id: "RT3"
@@ -251,3 +251,6 @@ da embalagem) e Mercado Livre e Amazon (navegador).
 - **Site e pagamento:** o print do checkout com o EMCASA. O ícone "Registro na Anvisa" da Sobre Nós saiu, a pedido do parecer: sozinho, ele passa a ideia de chancela.
 - **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
 
+## No ar (18/11/2026)
+
+Release `407a2ee3` (#1134, com o #1133 da outra sessão), no ar às 05:16 UTC; build `01a1ed12…`, 2 workers no `deploy:finish`. Smoke de 15 páginas (título, capa no CDN, imagens do corpo, EMCASA, frases proibidas, sitemap e llms.txt), `covers:check` 6/6, IndexNow 19 URLs, captura `44243262540`.
