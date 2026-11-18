@@ -264762,5 +264762,981 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 1059,
+    "slug": "cupom-barbours-como-usar",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIALINHARES",
+    "affiliate": "barbours",
+    "title": "Cupom Barbour's Beauty: como aplicar o CECILIALINHARES no checkout e o que soma com ele",
+    "seoTitle": "Como usar o cupom CECILIALINHARES na Barbour's, 10% OFF",
+    "type": "Guia & Cupons",
+    "description": "Onde digitar o cupom CECILIALINHARES na Barbour's Beauty, quanto ele tira nos nossos carrinhos, se soma com kit em promoção e o frete grátis por região.",
+    "metaDescription": "O CECILIALINHARES dá 10% OFF na Barbour's Beauty, para cliente novo e antigo. Veja onde digitar o código no checkout e quanto ele tira nos nossos testes.",
+    "image": "/images/reviews/barbours/cupom-barbours-como-usar-capa.webp",
+    "imageAlt": "Logo da Barbour's Beauty, a chamada “Como usar o cupom” e o código CECILIALINHARES, com foto oficial de produto da loja.",
+    "cta": {
+      "text": "Abra a loja pelo botão desta página, monte o carrinho e clique em Finalizar a compra. No checkout, clique em Inserir cupom de desconto, digite CECILIALINHARES em Cupom (opcional) e clique em Adicionar.",
+      "label": "Ir para a Barbour's",
+      "url": "https://barbours.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Não recebemos nem usamos os produtos. Cupom testado no checkout do site oficial. Podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-barbours-primeira-compra"
+      },
+      {
+        "slug": "black-friday-barbours"
+      },
+      {
+        "slug": "barbours-e-confiavel"
+      },
+      {
+        "slug": "barbours-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "barbours-e-boa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O cupom CECILIALINHARES dá 10% de desconto na Barbour's Beauty, para cliente novo e antigo. Ele entra no checkout, depois de clicar em Finalizar a compra: clique em Inserir cupom de desconto, digite o código e clique em Adicionar. Nos nossos testes, os 10% entraram sobre um kit que já estava em promoção."
+        ]
+      },
+      {
+        "heading": "Onde digitar o cupom na Barbour's",
+        "paragraphs": [
+          "O caminho é o botão do carrinho. Ao clicar em Finalizar a compra, a loja leva você ao checkout seguro dela, em seguro.thebarboursbeauty.com.br, e é lá que o código entra."
+        ],
+        "bullets": [
+          "**Clique em COMPRAR** na página do produto.",
+          "**Abra o carrinho,** confira os itens e clique em Finalizar a compra.",
+          "**Clique em Inserir cupom de desconto** no checkout e digite o código no campo Cupom (opcional).",
+          "**Clique em Adicionar** e confira a linha Descontos no resumo antes de pagar."
+        ],
+        "postParagraphs": [
+          "O botão desta página leva à loja. O código você digita lá, no checkout.",
+          "Janelas de roleta ou de presente podem abrir no caminho. O código não entra nelas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/barbours/cupom-barbours-checkout-com-cupom.webp",
+            "alt": "Resumo da compra no checkout da Barbour's Beauty com o código CECILIALINHARES no campo Cupom (opcional), a linha Descontos com R$ 21,98 a menos e o total de R$ 197,82",
+            "caption": "O CECILIALINHARES aplicado no resumo do checkout. A linha Descontos mostra quanto o cupom tirou do pedido.",
+            "objectFit": "contain",
+            "aspectRatio": 0.79
+          }
+        ]
+      },
+      {
+        "heading": "Quanto o cupom tira nos testes",
+        "paragraphs": [
+          "Conta nossa: nos dois carrinhos testados em 18 de novembro, o cupom tirou 10% do total dos produtos, como mostra a tabela."
+        ],
+        "comparisonTable": {
+          "caption": "Carrinhos testados, com 10% sobre o total dos produtos",
+          "headers": [
+            "Carrinho",
+            "Produtos",
+            "Descontos (10%)",
+            "Total com o cupom"
+          ],
+          "rows": [
+            [
+              "Kit em promoção",
+              "R$ 109,90",
+              "− R$ 10,99",
+              "R$ 98,91"
+            ],
+            [
+              "Kit em promoção e outro kit a preço cheio",
+              "R$ 219,80",
+              "− R$ 21,98",
+              "R$ 197,82"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No seu pedido, o desconto é o que aparece na linha Descontos."
+        ]
+      },
+      {
+        "heading": "O cupom soma com promoção e com kit?",
+        "paragraphs": [
+          "Nos nossos testes, o cupom somou com a promoção. O primeiro carrinho era um kit que já estava com preço promocional, e os 10% saíram sobre esse preço.",
+          "No segundo carrinho, o kit em promoção entrou junto com o kit Necessaire + Perfume + Body My Sweet Delight, sem promoção, a R$ 109,90. Os 10% saíram sobre os R$ 219,80 do carrinho, nos dois kits.",
+          "Para a primeira compra, veja o [cupom na primeira compra](/reviews/cupom-barbours-primeira-compra). Para a Black Friday, veja [Black Friday na Barbour's](/reviews/black-friday-barbours)."
+        ]
+      },
+      {
+        "heading": "Existe cupom Barbour's de 15%?",
+        "paragraphs": [
+          "Quem procura cupom Barbour's de 15% encontra, aqui, o nosso de 10%. O CECILIALINHARES vale para cliente novo e antigo e foi o código que entrou nos dois carrinhos testados."
+        ]
+      },
+      {
+        "heading": "Frete grátis por região",
+        "paragraphs": [
+          "A loja informa frete grátis acima de um valor que muda por região:"
+        ],
+        "comparisonTable": {
+          "caption": "Valor a partir do qual o frete sai grátis, por região",
+          "headers": [
+            "Região",
+            "Frete grátis acima de"
+          ],
+          "rows": [
+            [
+              "São Paulo",
+              "R$ 119"
+            ],
+            [
+              "Espírito Santo, Rio de Janeiro e Minas Gerais",
+              "R$ 149"
+            ],
+            [
+              "Sul e Centro-Oeste",
+              "R$ 169"
+            ],
+            [
+              "Nordeste",
+              "R$ 199"
+            ],
+            [
+              "Norte",
+              "R$ 259"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O prazo médio de entrega é de 7 a 10 dias úteis, segundo a loja. Confira o total com o frete no resumo do pedido antes de pagar."
+        ]
+      },
+      {
+        "heading": "Pix e cartão",
+        "paragraphs": [
+          "A loja informa que aceita Pix e cartão, com até 4x sem juros. O cupom vale com as formas de pagamento da loja."
+        ]
+      },
+      {
+        "heading": "Se o código não entrar",
+        "paragraphs": [
+          "Se o desconto não aparecer, confira três coisas antes de pagar."
+        ],
+        "bullets": [
+          "**A grafia.** CECILIALINHARES, tudo junto e sem espaço antes ou depois.",
+          "**O caminho.** O campo fica no checkout aberto pelo botão Finalizar a compra do carrinho.",
+          "**A linha Descontos.** Ela aparece no resumo do pedido quando o cupom entra."
+        ],
+        "postParagraphs": [
+          "O código vale no site oficial, thebarboursbeauty.com.br, e o campo aparece no checkout. O código em vigor está na página do [cupom Barbour's](/cupons/barbours)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Onde coloco o cupom na Barbour's? No checkout, depois de clicar em Finalizar a compra do carrinho. O passo a passo está na seção Onde digitar o cupom na Barbour's.",
+          "O cupom soma com kit em promoção? Nos nossos testes, somou. Veja a seção acima sobre promoção e kit.",
+          "O cupom vale para quem já é cliente? Vale, para cliente novo e antigo.",
+          "O cupom vale no Mercado Livre? O CECILIALINHARES é um código do site oficial da Barbour's Beauty e entra no checkout de lá.",
+          "Qual o frete grátis da Barbour's? Depende da região. A loja informa valores de R$ 119 em São Paulo a R$ 259 no Norte, com prazo médio de 7 a 10 dias úteis."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1060,
+    "slug": "black-friday-barbours",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIALINHARES",
+    "affiliate": "barbours",
+    "title": "Black Friday Barbour's Beauty 2026: as promoções da loja e como o cupom CECILIALINHARES entra",
+    "seoTitle": "Black Friday Barbour's 2026: promoções e cupom de 10%",
+    "type": "Guia & Cupons",
+    "description": "O que a Barbour's Beauty mostrava em promoção antes da Black Friday, como o cupom de 10% entrou sobre um kit e um produto de preço cheio no nosso teste e o que conferir no pedido.",
+    "metaDescription": "CECILIALINHARES dá 10% OFF na Barbour's Beauty e entrou sobre um kit em promoção no nosso teste. Veja o que a loja mostrou na Black Week e o que conferir.",
+    "image": "/images/reviews/barbours/black-friday-barbours-capa.webp",
+    "imageAlt": "Logo da Barbour's Beauty, a chamada Black Friday 2026 e o código CECILIALINHARES, ao lado de três body splashes da loja.",
+    "cta": {
+      "text": "Abra o site pelo botão, monte o carrinho e aplique o cupom no checkout, como mostrado abaixo.",
+      "label": "Ir para a Barbour's",
+      "url": "https://barbours.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Não recebemos nem usamos os produtos. Cupom testado no checkout do site oficial. Podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-barbours-como-usar"
+      },
+      {
+        "slug": "barbours-e-confiavel"
+      },
+      {
+        "slug": "cupom-barbours-primeira-compra"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O cupom CECILIALINHARES dá 10% OFF na Barbour's Beauty, nas condições de sempre, e entrou sobre um kit em promoção nos nossos testes. Ele se digita no checkout do site oficial, depois de Finalizar a compra. Antes de pagar, confira a linha Descontos e o total com o seu CEP."
+        ]
+      },
+      {
+        "heading": "O cupom vale na Black Friday?",
+        "paragraphs": [
+          "O cupom de sempre é o CECILIALINHARES, com 10% OFF no site oficial, para cliente novo e antigo. As condições completas estão na página do [cupom Barbour's](/cupons/barbours).",
+          "Nos nossos testes, os 10% entraram também sobre um kit que já estava em promoção. Não testamos todos os itens da loja.",
+          "A loja não publicou regras para a campanha, então a única condição que conhecemos é a do cupom de sempre."
+        ]
+      },
+      {
+        "heading": "O que a loja mostrava em promoção",
+        "paragraphs": [
+          "Em 18/11, a home ganhou banners “Black Week”, sem datas nem regulamento. Os preços deles são os mesmos que a vitrine já mostrava."
+        ],
+        "bullets": [
+          "Body splashes femininos e masculinos a R$ 39,90.",
+          "Perfume capilar a R$ 34,90.",
+          "Kit com três body splashes a R$ 109,90, o equivalente a R$ 36,63 cada.",
+          "Iluminador mais body splash a R$ 79,90."
+        ],
+        "postParagraphs": [
+          "A loja não publicou data de fim nem regra da campanha, então o preço da vitrine pode mudar sem aviso. Vale o preço que aparecer no carrinho no dia da compra."
+        ]
+      },
+      {
+        "heading": "A conta com o cupom",
+        "paragraphs": [
+          "Em 18 de novembro, aplicamos o cupom em dois carrinhos no checkout da loja, sem finalizar a compra. O resumo de cada um ficou assim. O kit do teste foi o Clássicos Masculinos, de R$ 109,90 em promoção."
+        ],
+        "comparisonTable": {
+          "caption": "Dois carrinhos testados com o cupom CECILIALINHARES, sem frete.",
+          "headers": [
+            "Carrinho",
+            "Produtos",
+            "Cupom",
+            "Total"
+          ],
+          "rows": [
+            [
+              "Kit Clássicos Masculinos",
+              "R$ 109,90",
+              "− R$ 10,99",
+              "R$ 98,91"
+            ],
+            [
+              "Kit Clássicos Masculinos + Necessaire + Perfume + Body My Sweet Delight",
+              "R$ 219,80",
+              "− R$ 21,98",
+              "R$ 197,82"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nos dois carrinhos, o desconto foi de 10% sobre os produtos, e o kit em promoção entrou na conta. O frete ficou de fora."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/barbours/cupom-barbours-checkout-com-cupom.webp",
+            "alt": "Resumo do carrinho na Barbour's Beauty com o cupom CECILIALINHARES aplicado, a linha Descontos de R$ 21,98 e o total de R$ 197,82.",
+            "caption": "Resumo do segundo carrinho do teste, com o cupom aplicado no checkout da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 0.791
+          }
+        ]
+      },
+      {
+        "heading": "Como aplicar o cupom no checkout",
+        "paragraphs": [
+          "No carrinho, clique em Finalizar a compra. No checkout seguro da loja, abra Inserir cupom de desconto, digite CECILIALINHARES no campo Cupom (opcional) e clique em Adicionar. A linha Descontos aparece no resumo.",
+          "O botão desta página leva à loja, mas não aplica o código sozinho. O passo a passo com as telas está em [como usar o cupom CECILIALINHARES](/reviews/cupom-barbours-como-usar)."
+        ]
+      },
+      {
+        "heading": "Frete, prazo e pagamento",
+        "paragraphs": [
+          "O frete sai grátis acima de um valor que muda por região: R$ 119 em São Paulo e R$ 259 no Norte. Os valores das outras regiões estão no [guia do cupom](/reviews/cupom-barbours-como-usar).",
+          "A política não diz se o mínimo conta antes ou depois do cupom. O prazo médio é de 7 a 10 dias úteis, e a desistência vale em até 7 dias após o recebimento.",
+          "A loja aceita Pix e cartão, com até 4x sem juros."
+        ]
+      },
+      {
+        "heading": "O que conferir antes de pagar",
+        "bullets": [
+          "**A linha Descontos.** Ela precisa mostrar o desconto do cupom sobre os produtos.",
+          "**O total com o seu CEP.** O frete grátis depende da região.",
+          "**O prazo mostrado no checkout.** Pode ser diferente do prazo médio que a loja informa."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Barbour's na Black Friday? É o cupom de sempre, CECILIALINHARES, com 10% OFF no site oficial. Sobre a campanha, veja a seção de preços.",
+          "O cupom soma com kit em promoção? Sim, nos nossos testes. O detalhe está na seção A conta com o cupom.",
+          "A Barbour's Beauty dá frete grátis na Black Friday? O frete sai grátis acima de um valor que muda por região. Não encontramos regra específica da campanha publicada.",
+          "Qual o prazo de entrega? O prazo médio é de 7 a 10 dias úteis. Vale o prazo mostrado no checkout para o seu pedido."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1061,
+    "slug": "barbours-e-confiavel",
+    "locale": "pt",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIALINHARES",
+    "affiliate": "barbours",
+    "title": "Barbour's Beauty é confiável? CNPJ, Reclame Aqui, entrega e devolução antes de comprar",
+    "seoTitle": "Barbour's Beauty é confiável? CNPJ, nota e devolução",
+    "type": "Análise de Reputação",
+    "description": "Quem está por trás do site da Barbour's Beauty, a reputação no Reclame Aqui, como é o checkout, os prazos de entrega e de devolução e os cuidados no primeiro pedido.",
+    "metaDescription": "CECILIALINHARES dá 10% OFF na Barbour's Beauty. Antes de comprar, veja o CNPJ, a nota no Reclame Aqui, o prazo de entrega e como funciona a devolução.",
+    "image": "/images/reviews/barbours/barbours-e-confiavel-capa.webp",
+    "imageAlt": "Logo da Barbour's Beauty com a chamada “É confiável?” e o código CECILIALINHARES.",
+    "cta": {
+      "text": "Se a Barbour's faz sentido para a sua compra, use o botão para ir ao site oficial. O passo a passo do cupom está em Formas de pagamento e onde entra o cupom.",
+      "label": "Ir para a Barbour's",
+      "url": "https://barbours.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Não recebemos nem usamos os produtos. Cupom testado no checkout do site oficial. Podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "barbours-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "cupom-barbours-como-usar"
+      },
+      {
+        "slug": "barbours-e-boa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Barbour's Beauty informa no checkout uma empresa com CNPJ, o mesmo do perfil no Reclame Aqui. O Reclame Aqui informa reputação RA1000, com nota 9,1 nos seis meses até outubro de 2026. O site oficial é thebarboursbeauty.com.br, e a desistência vale em até 7 dias depois do recebimento."
+        ]
+      },
+      {
+        "heading": "Qual é o site oficial",
+        "paragraphs": [
+          "O site aparece em dois endereços. Conta nossa: ao abrir barboursbeauty.com.br, o endereço leva a thebarboursbeauty.com.br, que é o que a loja usa hoje. O perfil do Reclame Aqui lista o primeiro.",
+          "O pagamento acontece em outro subdomínio, seguro.thebarboursbeauty.com.br. É para lá que o botão “Finalizar a compra” do carrinho leva, por isso o endereço muda no meio da compra."
+        ]
+      },
+      {
+        "heading": "Quem é a empresa",
+        "paragraphs": [
+          "O rodapé do checkout informa a BEAUTY HUB VAREJO LTDA, CNPJ 60.453.162/0001-07, com endereço em Serra, no Espírito Santo. O mesmo CNPJ aparece no perfil da loja no Reclame Aqui. A foto abaixo mostra esse rodapé.",
+          "Já os Termos de serviço do site citam outra empresa, a BB VAREJO LTDA, CNPJ 54.137.817/0001-35.",
+          "Revenda, programa de embaixadoras e central de ajuda usam domínios da GoGroup e da GoBeauté."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/barbours/barbours-e-confiavel-checkout-empresa.webp",
+            "alt": "Rodapé do checkout da Barbour's Beauty, com a razão social e o CNPJ da empresa.",
+            "caption": "Rodapé do checkout, com a razão social e o CNPJ informados pela loja.",
+            "objectFit": "contain"
+          }
+        ]
+      },
+      {
+        "heading": "O que o Reclame Aqui mostra",
+        "paragraphs": [
+          "O Reclame Aqui informa reputação RA1000, com nota 9,1 nos seis meses até outubro de 2026, e 97,9% das reclamações resolvidas nesse período. Os números completos e as queixas mais comuns estão na [análise da reputação no Reclame Aqui](/reviews/barbours-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Quanto tempo demora a entrega",
+        "paragraphs": [
+          "A loja informa prazo médio de 7 a 10 dias úteis para a entrega. Na aba geral do perfil no Reclame Aqui, que cobre até três anos, produto não recebido aparece em 32,6% das queixas.",
+          "Por isso, vale guardar o número do pedido e acompanhar o rastreio desde a postagem."
+        ]
+      },
+      {
+        "heading": "Devolução e troca",
+        "paragraphs": [
+          "A loja informa que a desistência vale em até 7 dias depois do recebimento. Um pedido já enviado não pode ser cancelado, mas a entrega pode ser recusada, e o reembolso é feito depois que o pacote volta. As trocas são feitas por um portal próprio da loja.",
+          "Pela política, o reembolso no cartão aparece em até duas faturas. No Pix, o dinheiro volta por depósito em conta."
+        ]
+      },
+      {
+        "heading": "Formas de pagamento e onde entra o cupom",
+        "paragraphs": [
+          "A loja informa Pix e cartões, com até 4x sem juros. O cupom entra no checkout próprio da loja, depois do botão “Finalizar a compra” do carrinho: abra “Inserir cupom de desconto”, digite o código no campo “Cupom (opcional)” e clique em “Adicionar”.",
+          "Se decidir comprar, o [cupom Barbour's](/cupons/barbours) dá 10% de desconto no site oficial, para cliente novo e antigo. Como o cupom muda o valor do carrinho, com exemplos, está em [como usar o cupom CECILIALINHARES](/reviews/cupom-barbours-como-usar)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/barbours/cupom-barbours-checkout-com-cupom.webp",
+            "alt": "Resumo do carrinho no checkout da Barbour's Beauty, com a linha de desconto do cupom CECILIALINHARES.",
+            "caption": "Resumo do carrinho com o cupom aplicado no checkout da loja.",
+            "objectFit": "contain"
+          }
+        ]
+      },
+      {
+        "heading": "Então, é confiável?",
+        "paragraphs": [
+          "Sim. A loja se identifica com CNPJ no checkout e no perfil do Reclame Aqui, tem a reputação RA1000 citada acima e publica no site as políticas de prazo, desistência, troca e reembolso. O ponto de atenção é a entrega: acompanhe o rastreio desde a postagem."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Barbour's Beauty é brasileira? A empresa informada no checkout tem CNPJ, que é o cadastro brasileiro de empresas, e endereço em Serra, no Espírito Santo.",
+          "Qual o CNPJ da Barbour's Beauty? O rodapé do checkout e o perfil no Reclame Aqui trazem o CNPJ 60.453.162/0001-07, da BEAUTY HUB VAREJO LTDA. Os Termos de serviço do site citam o CNPJ 54.137.817/0001-35, da BB VAREJO LTDA.",
+          "O site thebarboursbeauty.com.br é o oficial? É o endereço em que a loja opera hoje. O barboursbeauty.com.br redireciona para ele, e o pagamento acontece no subdomínio seguro.thebarboursbeauty.com.br.",
+          "Quanto tempo demora a entrega? A loja informa prazo médio de 7 a 10 dias úteis."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1062,
+    "slug": "barbours-reclame-aqui-nota-reputacao",
+    "locale": "pt",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIALINHARES",
+    "affiliate": "barbours",
+    "title": "Barbour's Beauty no Reclame Aqui: a nota, o selo RA1000 e o que mais gera reclamação",
+    "seoTitle": "Barbour's Beauty no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "description": "O que o perfil da Barbour's Beauty no Reclame Aqui mostra: reputação RA1000, nota de 9,1, reclamações resolvidas, a queixa mais citada e o que conferir antes de comprar.",
+    "metaDescription": "CECILIALINHARES dá 10% de desconto na Barbour's Beauty. Veja a nota no Reclame Aqui, o selo RA1000, as reclamações resolvidas e o que mais gera reclamação.",
+    "image": "/images/reviews/barbours/barbours-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Capa com a logo da Barbour's Beauty, a chamada No Reclame Aqui e o código CECILIALINHARES.",
+    "cta": {
+      "text": "Abra a loja pelo botão, clique em Finalizar a compra no carrinho, depois em Inserir cupom de desconto, digite CECILIALINHARES no campo Cupom (opcional) e clique em Adicionar.",
+      "label": "Ir para a Barbour's",
+      "url": "https://barbours.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Não recebemos nem usamos os produtos. Cupom testado no checkout do site oficial. Podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-barbours-como-usar"
+      },
+      {
+        "slug": "barbours-e-confiavel"
+      },
+      {
+        "slug": "barbours-e-boa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Segundo o perfil, a Barbour's Beauty tem reputação RA1000 no Reclame Aqui, com nota 9,1 nos seis meses até outubro de 2026. A loja respondeu a quase todas as reclamações e resolveu 97,9% delas. Se o pedido atrasar, o rastreio é o primeiro lugar para olhar."
+        ]
+      },
+      {
+        "heading": "O selo RA1000 e a nota",
+        "paragraphs": [
+          "O perfil mostra a reputação RA1000 e informa que a empresa é verificada.",
+          "A nota é 9,1 de 10 nos últimos seis meses do perfil, de maio a outubro de 2026."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/barbours/barbours-reclame-aqui-ra1000.webp",
+            "alt": "Bloco Desempenho do perfil da Barbour's Beauty no Reclame Aqui, na aba de seis meses, com a reputação RA1000 e a nota 9,1/10",
+            "caption": "A reputação e a nota da Barbour's Beauty na aba de seis meses do perfil. Fonte: Reclame Aqui.",
+            "objectFit": "contain",
+            "aspectRatio": 3.41
+          }
+        ]
+      },
+      {
+        "heading": "O perfil em números",
+        "paragraphs": [
+          "Os indicadores do perfil:"
+        ],
+        "comparisonTable": {
+          "caption": "Indicadores do perfil da Barbour's Beauty no Reclame Aqui, segundo a plataforma.",
+          "headers": [
+            "Indicador",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "RA1000"
+            ],
+            [
+              "Nota",
+              "9,1 de 10"
+            ],
+            [
+              "Reclamações recebidas",
+              "1.176"
+            ],
+            [
+              "Respondidas",
+              "99,9%"
+            ],
+            [
+              "Resolvidas",
+              "97,9%"
+            ],
+            [
+              "Avaliadas",
+              "822"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "80,8%"
+            ],
+            [
+              "Nota média do consumidor",
+              "8,56"
+            ],
+            [
+              "Tempo médio de resposta",
+              "3 dias e 18 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Uma reclamação ainda aguardava resposta."
+        ]
+      },
+      {
+        "heading": "Como ler esses números",
+        "paragraphs": [
+          "Em valor absoluto, 1.176 reclamações parecem muitas. Para medir o volume, vale olhar as vendas. Em uma das páginas de body splash, a loja informa mais de 17 mil compras no mês passado. Pesa mais a parte resolvida, com 97,9%.",
+          "Segundo o perfil, 80,8% dos consumidores que avaliaram o atendimento voltariam a fazer negócio com a loja.",
+          "A nota do perfil é 9,1. A média dada pelos consumidores é 8,56."
+        ]
+      },
+      {
+        "heading": "O que mais gera reclamação",
+        "paragraphs": [
+          "Na aba geral, que reúne até três anos, o motivo mais citado é produto não recebido, com 32,6% entre os principais problemas."
+        ]
+      },
+      {
+        "heading": "Se der problema no seu pedido",
+        "paragraphs": [
+          "Guarde o número do pedido e acompanhe a entrega pelo rastreio.",
+          "Pela política da loja, os caminhos são estes:"
+        ],
+        "bullets": [
+          "**Central de ajuda.** A central fica no domínio da GoGroup e traz a política de frete.",
+          "**Desistência.** Dá para desistir em até 7 dias do recebimento.",
+          "**Recusa na entrega.** Pedido enviado não dá para cancelar. Dá para recusar na entrega, e o reembolso sai quando o pacote volta à loja.",
+          "**Troca.** Pelo portal de trocas da loja."
+        ]
+      },
+      {
+        "heading": "A nota pode mudar",
+        "paragraphs": [
+          "O Reclame Aqui atualiza o perfil com o tempo. Antes de pagar, abra o perfil da loja e confira a nota atual.",
+          "Se decidir comprar, o [cupom Barbour's](/cupons/barbours) dá 10% de desconto com o código CECILIALINHARES, para cliente novo e antigo."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual a nota da Barbour's Beauty no Reclame Aqui? A nota do perfil é 9,1 de 10 nos últimos seis meses, com reputação RA1000.",
+          "A Barbour's Beauty responde às reclamações? Sim. Segundo o perfil, 99,9% das reclamações recebidas tiveram resposta.",
+          "O que é o selo RA1000? É a reputação que o perfil mostra no Reclame Aqui, ao lado da nota de 9,1 nos últimos seis meses.",
+          "A Barbour's Beauty demora para entregar? A loja informa um prazo médio de 7 a 10 dias úteis. Na aba geral do Reclame Aqui, a queixa mais citada é produto não recebido, então vale acompanhar o rastreio."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1063,
+    "slug": "barbours-e-boa",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIALINHARES",
+    "affiliate": "barbours",
+    "type": "Guia de Marca",
+    "title": "Barbour's Beauty é boa? O que a página, as avaliações e o Reclame Aqui mostram",
+    "seoTitle": "Barbour's Beauty é boa? Body splash, fixação e avaliações",
+    "description": "O que a página da loja, as avaliações no site da loja e o Reclame Aqui mostram sobre o body splash, com fixação, preço e reputação. Cheiro e duração só o uso mostra.",
+    "metaDescription": "CECILIALINHARES dá 10% OFF na Barbour's Beauty. Veja o que a página diz do body splash, as avaliações no site da loja e a nota no Reclame Aqui.",
+    "image": "/images/reviews/barbours/barbours-e-boa-capa.webp",
+    "imageAlt": "Logo da Barbour's Beauty, a chamada “É boa?” e o código CECILIALINHARES, ao lado de três body splashes em foto oficial da loja.",
+    "cta": {
+      "text": "Abra o site pelo botão, monte o carrinho e clique em Finalizar a compra. No checkout, abra Inserir cupom de desconto, digite CECILIALINHARES no campo Cupom (opcional) e clique em Adicionar. Confira a linha Descontos antes de pagar.",
+      "label": "Ir para a Barbour's",
+      "url": "https://barbours.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Não recebemos nem usamos os produtos. Cupom testado no checkout do site oficial. Podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "barbours-e-confiavel"
+      },
+      {
+        "slug": "barbours-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "cupom-barbours-como-usar"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você procura um desodorante colônia de 200 ml, a categoria em que a loja classifica o body splash.",
+        "Você quer um body splash e vai usar os 10% do código CECILIALINHARES."
+      ],
+      "skipIf": [
+        "Você procura perfume. A loja classifica o body splash como desodorante colônia, e a fixação que ela promete não passou por teste nosso.",
+        "Você tem pressa. A loja informa prazo médio de 7 a 10 dias úteis."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Não usamos os produtos, então respondemos com o que é público. Segundo a página, o body splash é um desodorante colônia de 200 ml, e o My Sweet Delight tem 4.580 avaliações no site da loja, a maioria de cinco estrelas. No Reclame Aqui, a loja tem RA1000 e nota 9,1 no período de maio a outubro de 2026."
+        ]
+      },
+      {
+        "heading": "O que dá para checar sem usar",
+        "paragraphs": [
+          "Cheiro, fixação e textura só o uso mostra. Aqui ficam o que a loja publica e os números públicos do site e do Reclame Aqui."
+        ]
+      },
+      {
+        "heading": "O que é o body splash da Barbour's",
+        "paragraphs": [
+          "A página classifica o body splash como desodorante colônia.",
+          "A página do My Sweet Delight também cita um perfume de outra marca como referência olfativa."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/barbours/barbours-body-splash-my-sweet-delight.webp",
+            "alt": "Frasco do body splash My Sweet Delight da Barbour's Beauty, de 200 ml, em foto oficial da loja",
+            "caption": "Foto oficial da loja, da página do My Sweet Delight.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Tem boa fixação?",
+        "paragraphs": [
+          "A loja promete fragrância de longa duração e 97% mais fixação, sem dizer em relação a quê. Sem teste, não afirmamos fixação.",
+          "A página não informa o que as estrelas do site medem, então a nota geral não responde a essa pergunta."
+        ]
+      },
+      {
+        "heading": "O que dizem as avaliações no site da loja",
+        "paragraphs": [
+          "A página do My Sweet Delight traz 4.580 avaliações no site da loja, com média de 4,50 de 5. O widget marca que elas foram coletadas por convite da loja."
+        ],
+        "comparisonTable": {
+          "caption": "Avaliações do Body Splash My Sweet Delight por nota, no site da loja. Total de 4.580.",
+          "headers": [
+            "Nota",
+            "Avaliações",
+            "Parte do total"
+          ],
+          "rows": [
+            [
+              "5 estrelas",
+              "3.662",
+              "80%"
+            ],
+            [
+              "4 estrelas",
+              "278",
+              "6%"
+            ],
+            [
+              "3 estrelas",
+              "207",
+              "5%"
+            ],
+            [
+              "2 estrelas",
+              "139",
+              "3%"
+            ],
+            [
+              "1 estrela",
+              "294",
+              "6%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Uma em cada cinco avaliações fica abaixo de cinco estrelas, e entre elas a nota mais comum é a de uma estrela. São números que a loja publica, sem checagem independente."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/barbours/barbours-e-boa-avaliacoes-site.webp",
+            "alt": "Print do site da Barbour's Beauty com a média de 4,50 de 5 e a contagem de avaliações por nota do Body Splash My Sweet Delight",
+            "caption": "Print do site da loja, com a média e a contagem de cada nota.",
+            "objectFit": "contain",
+            "aspectRatio": 2.9
+          }
+        ]
+      },
+      {
+        "heading": "A queixa mais comum no Reclame Aqui",
+        "paragraphs": [
+          "Na aba geral do perfil, que reúne até três anos, a queixa mais citada é produto não recebido. Os números completos estão no [artigo sobre a reputação da loja](/reviews/barbours-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Quanto sai com o código",
+        "paragraphs": [
+          "Na página, a maior parte dos body splashes de 200 ml aparece por R$ 39,90, e alguns por R$ 34,90. Os trios saem por R$ 109,90 na promoção Leve 3 Pague 2.",
+          "O código CECILIALINHARES dá 10% OFF, para cliente novo e antigo. No carrinho que testamos, uma compra de R$ 109,90 saiu por R$ 98,91. As condições estão na página de [cupom Barbour's](/cupons/barbours), e o passo a passo do checkout está no [guia de como usar o cupom](/reviews/cupom-barbours-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O body splash da Barbour's fixa? A loja promete longa duração e 97% mais fixação, sem dizer em relação a quê. A página também não informa o que as estrelas do site medem.",
+          "Body splash é perfume? A página classifica o body splash como desodorante colônia.",
+          "A Barbour's tem linha masculina? Sim. A loja vende body splashes masculinos na linha Homme.",
+          "A Barbour's Beauty é confiável? O [artigo sobre a confiabilidade da Barbour's](/reviews/barbours-e-confiavel) junta o CNPJ e o histórico de reclamações."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1064,
+    "slug": "cupom-barbours-primeira-compra",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIALINHARES",
+    "affiliate": "barbours",
+    "title": "Cupom Barbour's primeira compra: CECILIALINHARES dá 10% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom Barbour's primeira compra: 10% com CECILIALINHARES",
+    "type": "Guia & Cupons",
+    "description": "Qual cupom usar no primeiro pedido da Barbour's Beauty, quanto ele tira em dois carrinhos testados, o que muda na segunda compra e o que checar de frete, prazo e devolução.",
+    "metaDescription": "Na primeira compra da Barbour's Beauty, use CECILIALINHARES: 10% OFF no site oficial. O mesmo código vale para quem já comprou e soma com kit em promoção.",
+    "image": "/images/reviews/barbours/cupom-barbours-primeira-compra-capa.webp",
+    "imageAlt": "Logo da Barbour's Beauty, a chamada \"Bem-vinda\" e o código CECILIALINHARES, com foto oficial de produto da loja.",
+    "cta": {
+      "text": "Abra o site oficial pelo botão e aplique o código no checkout, como mostramos abaixo.",
+      "label": "Ir para a Barbour's",
+      "url": "https://barbours.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Não recebemos nem usamos os produtos. Cupom testado no checkout do site oficial. Podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-barbours-como-usar"
+      },
+      {
+        "slug": "barbours-e-confiavel"
+      },
+      {
+        "slug": "black-friday-barbours"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na Barbour's Beauty, use o cupom CECILIALINHARES: 10% OFF no site oficial. O mesmo código também vale para quem já comprou. Nos nossos testes, ele entrou sobre um kit já em promoção, e a linha Descontos mostrou o desconto."
+        ]
+      },
+      {
+        "heading": "Qual cupom usar na primeira compra da Barbour's",
+        "paragraphs": [
+          "O CECILIALINHARES dá 10% OFF no site oficial, para cliente novo e antigo. Quem já comprou usa o mesmo código.",
+          "Código achado em outro site pode não funcionar. O CECILIALINHARES foi testado por nós no checkout do site oficial.",
+          "A nossa página do [cupom Barbour's](/cupons/barbours) reúne o código e as condições em vigor."
+        ]
+      },
+      {
+        "heading": "Quanto o cupom tira em dois carrinhos testados",
+        "paragraphs": [
+          "Em 18/11, montamos dois carrinhos no checkout do site oficial. Nos dois, o desconto foi de 10% sobre o subtotal dos produtos.",
+          "No primeiro carrinho, o kit estava em promoção e os 10% entraram sobre ele. No segundo, o cupom entrou sobre o kit em promoção e também sobre o kit Necessaire + Perfume + Body My Sweet Delight, a preço cheio.",
+          "O preço de vitrine muda. Vale o que aparece no resumo do checkout do seu pedido."
+        ],
+        "comparisonTable": {
+          "caption": "Valores observados no resumo dos dois carrinhos, sem frete. A entrega depende do CEP.",
+          "headers": [
+            "Carrinho",
+            "Subtotal",
+            "Descontos (10%)",
+            "Total com o cupom"
+          ],
+          "rows": [
+            [
+              "Kit Clássicos Masculinos, em promoção",
+              "R$ 109,90",
+              "− R$ 10,99",
+              "R$ 98,91"
+            ],
+            [
+              "Kit Clássicos Masculinos, em promoção, mais o kit Necessaire + Perfume + Body My Sweet Delight",
+              "R$ 219,80",
+              "− R$ 21,98",
+              "R$ 197,82"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/barbours/cupom-barbours-checkout-com-cupom.webp",
+            "alt": "Resumo do checkout da Barbour's Beauty com o cupom CECILIALINHARES aplicado e a linha Descontos no pedido",
+            "caption": "Linha Descontos do pedido, com o CECILIALINHARES aplicado.",
+            "objectFit": "contain"
+          }
+        ]
+      },
+      {
+        "heading": "Como aplicar o cupom",
+        "paragraphs": [
+          "São quatro passos:"
+        ],
+        "bullets": [
+          "Coloque os produtos na sacola e clique em Finalizar a compra, no carrinho.",
+          "No checkout, abra Inserir cupom de desconto.",
+          "No campo Cupom (opcional), digite CECILIALINHARES e clique em Adicionar.",
+          "Confira a linha Descontos no resumo antes de pagar."
+        ],
+        "postParagraphs": [
+          "Se o código não entrar, confira se digitou certo e volte ao carrinho para clicar em Finalizar a compra."
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "O código é o mesmo. O CECILIALINHARES vale para cliente novo e antigo e entra no mesmo campo Cupom (opcional) do checkout."
+        ]
+      },
+      {
+        "heading": "Frete, prazo e devolução",
+        "paragraphs": [
+          "Sobre frete, prazo e devolução, a loja informa:"
+        ],
+        "bullets": [
+          "**Frete.** O valor muda conforme a região e o seu CEP. A tabela por região está no [guia de como usar](/reviews/cupom-barbours-como-usar).",
+          "**Prazo.** Em média, 7 a 10 dias úteis.",
+          "**Desistência.** Você pode desistir em até 7 dias do recebimento.",
+          "**Pedido enviado.** Um pedido já enviado não se cancela, mas pode ser recusado na entrega.",
+          "**Trocas.** As trocas são feitas pelo portal da loja."
+        ],
+        "postParagraphs": [
+          "Se quer saber quem está por trás da loja antes de comprar, leia [se a Barbour's Beauty é confiável](/reviews/barbours-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Barbour's de primeira compra? Sim. Use CECILIALINHARES para 10% OFF no site oficial, no campo Cupom (opcional) do checkout.",
+          "Qual cupom vale para quem já é cliente? O mesmo CECILIALINHARES, para cliente novo e antigo.",
+          "O cupom soma com kit em promoção? Sim, nos testes que fizemos. O desconto entra sobre o preço do kit em promoção.",
+          "Onde coloco o cupom na primeira compra? Depois de clicar em Finalizar a compra no carrinho, abra Inserir cupom de desconto e digite o código no campo Cupom (opcional)."
+        ]
+      }
+    ]
   }
 ];

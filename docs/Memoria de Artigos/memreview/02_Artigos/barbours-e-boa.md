@@ -130,3 +130,16 @@ produto e um quadro nosso com a distribuição das avaliações do site.
 | CECILIALINHARES 10% | Conta nossa: | carrinhos de 18/11 | verificado |
 | Cheiro, fixação real, textura | - | sem teste | não escrever |
 | Ingredientes, Anvisa | - | não lido | não escrever sem leitura |
+
+## Redação, revisão e JSON (18/11/2026)
+
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1063) por subagente, com o briefing, as regras do pacote em [[cupom-barbours-como-usar]] e os fatos de [[barbours-fatos-1811]]; sem experiência própria ("testamos" só para o cupom); contas só com os carrinhos de 18/11.
+- **Job 3:** revisão do Fable 5.2, aplicada com conferência nas fontes; depois uma auditoria de fatos e de texto (dois leitores por artigo) e a releitura da sessão.
+- Avaliações sempre "no site da loja", com a marca de "coletadas via convite da loja"; fixação só como promessa atribuída; ingredientes e Anvisa fora; a referência olfativa em uma frase, sem nomear o perfume.
+- Sem bodyDatesReason: uma data no corpo.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 18/11/2026)
+
+- **Capa:** `/images/reviews/barbours/barbours-e-boa-capa.webp`, "É boa?", com o trio de body splashes, o logo e o CECILIALINHARES (imagens oficiais da loja).
+- **Corpo:** a foto oficial do My Sweet Delight e o print das avaliações do site.
+- **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.

@@ -132,3 +132,16 @@ rodapé do checkout com a empresa e print do resumo com o cupom.
 | Prazo, desistência, troca e reembolso | A loja informa: | políticas do site | verificado |
 | Loja física; marketplaces; dono ou sócia | - | não lido | não escrever |
 | "É golpe", "pode comprar sem medo" | - | - | não escrever |
+
+## Redação, revisão e JSON (18/11/2026)
+
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1061) por subagente, com o briefing, as regras do pacote em [[cupom-barbours-como-usar]] e os fatos de [[barbours-fatos-1811]]; sem experiência própria ("testamos" só para o cupom); contas só com os carrinhos de 18/11.
+- **Job 3:** revisão do Fable 5.2, aplicada com conferência nas fontes; depois uma auditoria de fatos e de texto (dois leitores por artigo) e a releitura da sessão.
+- BEAUTY HUB VAREJO LTDA (checkout e Reclame Aqui) e BB VAREJO LTDA (Termos de serviço), cada uma com a sua fonte, sem explicar a diferença; o veredito tem a entrega como ponto de atenção.
+- Loja física e marketplaces fora (não lidos).
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 18/11/2026)
+
+- **Capa:** `/images/reviews/barbours/barbours-e-confiavel-capa.webp`, "É confiável?", com as duas mulheres do banner de lançamentos, o logo e o CECILIALINHARES (imagens oficiais da loja).
+- **Corpo:** o print das informações de contato do checkout (empresa e CNPJ) e o print do resumo do checkout.
+- **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.

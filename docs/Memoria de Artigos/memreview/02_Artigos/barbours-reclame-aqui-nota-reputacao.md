@@ -119,3 +119,16 @@ quadro nosso com os índices do semestre.
 | 2º lugar em Perfumarias | O Reclame Aqui informa: | perfil | conferir a lista antes de citar |
 | Compras por mês de um produto | A loja informa: | página do produto | alegação da loja; opcional |
 | Caminho de desistência e troca | A loja informa: | políticas | verificado |
+
+## Redação, revisão e JSON (18/11/2026)
+
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1062) por subagente, com o briefing, as regras do pacote em [[cupom-barbours-como-usar]] e os fatos de [[barbours-fatos-1811]]; sem experiência própria ("testamos" só para o cupom); contas só com os carrinhos de 18/11.
+- **Job 3:** revisão do Fable 5.2, aplicada com conferência nas fontes; depois uma auditoria de fatos e de texto (dois leitores por artigo) e a releitura da sessão.
+- Nota sempre com o período (maio a outubro de 2026); nenhuma reclamação individual; os 17 mil de compras atribuídos à loja.
+- Reler o perfil se o artigo sair depois de 01/12.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 18/11/2026)
+
+- **Capa:** `/images/reviews/barbours/barbours-reclame-aqui-nota-reputacao-capa.webp`, "No Reclame / Aqui", com o My Sweet Delight na água, o logo e o CECILIALINHARES (imagens oficiais da loja).
+- **Corpo:** o print do bloco Desempenho (RA1000, 9,1), relido em 18/11.
+- **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.

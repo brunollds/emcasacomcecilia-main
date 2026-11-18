@@ -1,0 +1,170 @@
+{
+  "id": 1062,
+  "slug": "barbours-reclame-aqui-nota-reputacao",
+  "locale": "pt",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "18 de novembro de 2026",
+  "publishedAtISO": "2026-11-18",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "CECILIALINHARES",
+  "affiliate": "barbours",
+  "title": "Barbour's Beauty no Reclame Aqui: a nota, o selo RA1000 e o que mais gera reclamação",
+  "seoTitle": "Barbour's Beauty no Reclame Aqui: nota e reclamações",
+  "type": "Análise de Reputação",
+  "description": "O que o perfil da Barbour's Beauty no Reclame Aqui mostra: reputação RA1000, nota de 9,1, reclamações resolvidas, a queixa mais citada e o que conferir antes de comprar.",
+  "metaDescription": "CECILIALINHARES dá 10% de desconto na Barbour's Beauty. Veja a nota no Reclame Aqui, o selo RA1000, as reclamações resolvidas e o que mais gera reclamação.",
+  "image": "/images/reviews/barbours/barbours-reclame-aqui-nota-reputacao-capa.webp",
+  "imageAlt": "Capa com a logo da Barbour's Beauty, a chamada No Reclame Aqui e o código CECILIALINHARES.",
+  "cta": {
+    "text": "Abra a loja pelo botão, clique em Finalizar a compra no carrinho, depois em Inserir cupom de desconto, digite CECILIALINHARES no campo Cupom (opcional) e clique em Adicionar.",
+    "label": "Ir para a Barbour's",
+    "url": "https://barbours.gogroup.com.br/emcasacomcecilia",
+    "sponsored": true
+  },
+  "editorialNote": "Não recebemos nem usamos os produtos. Cupom testado no checkout do site oficial. Podemos receber comissão pelo cupom e pelo link.",
+  "relatedArticles": [
+    {
+      "slug": "cupom-barbours-como-usar"
+    },
+    {
+      "slug": "barbours-e-confiavel"
+    },
+    {
+      "slug": "barbours-e-boa"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Segundo o perfil, a Barbour's Beauty tem reputação RA1000 no Reclame Aqui, com nota 9,1 nos seis meses até outubro de 2026. A loja respondeu a quase todas as reclamações e resolveu 97,9% delas. Se o pedido atrasar, o rastreio é o primeiro lugar para olhar."
+      ]
+    },
+    {
+      "heading": "O selo RA1000 e a nota",
+      "paragraphs": [
+        "O perfil mostra a reputação RA1000 e informa que a empresa é verificada.",
+        "A nota é 9,1 de 10 nos últimos seis meses do perfil, de maio a outubro de 2026."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/barbours/barbours-reclame-aqui-ra1000.webp",
+          "alt": "Bloco Desempenho do perfil da Barbour's Beauty no Reclame Aqui, na aba de seis meses, com a reputação RA1000 e a nota 9,1/10",
+          "caption": "A reputação e a nota da Barbour's Beauty na aba de seis meses do perfil. Fonte: Reclame Aqui.",
+          "objectFit": "contain",
+          "aspectRatio": 3.41
+        }
+      ]
+    },
+    {
+      "heading": "O perfil em números",
+      "paragraphs": [
+        "Os indicadores do perfil:"
+      ],
+      "comparisonTable": {
+        "caption": "Indicadores do perfil da Barbour's Beauty no Reclame Aqui, segundo a plataforma.",
+        "headers": [
+          "Indicador",
+          "Valor"
+        ],
+        "rows": [
+          [
+            "Reputação",
+            "RA1000"
+          ],
+          [
+            "Nota",
+            "9,1 de 10"
+          ],
+          [
+            "Reclamações recebidas",
+            "1.176"
+          ],
+          [
+            "Respondidas",
+            "99,9%"
+          ],
+          [
+            "Resolvidas",
+            "97,9%"
+          ],
+          [
+            "Avaliadas",
+            "822"
+          ],
+          [
+            "Voltariam a fazer negócio",
+            "80,8%"
+          ],
+          [
+            "Nota média do consumidor",
+            "8,56"
+          ],
+          [
+            "Tempo médio de resposta",
+            "3 dias e 18 horas"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Uma reclamação ainda aguardava resposta."
+      ]
+    },
+    {
+      "heading": "Como ler esses números",
+      "paragraphs": [
+        "Em valor absoluto, 1.176 reclamações parecem muitas. Para medir o volume, vale olhar as vendas. Em uma das páginas de body splash, a loja informa mais de 17 mil compras no mês passado. Pesa mais a parte resolvida, com 97,9%.",
+        "Segundo o perfil, 80,8% dos consumidores que avaliaram o atendimento voltariam a fazer negócio com a loja.",
+        "A nota do perfil é 9,1. A média dada pelos consumidores é 8,56."
+      ]
+    },
+    {
+      "heading": "O que mais gera reclamação",
+      "paragraphs": [
+        "Na aba geral, que reúne até três anos, o motivo mais citado é produto não recebido, com 32,6% entre os principais problemas."
+      ]
+    },
+    {
+      "heading": "Se der problema no seu pedido",
+      "paragraphs": [
+        "Guarde o número do pedido e acompanhe a entrega pelo rastreio.",
+        "Pela política da loja, os caminhos são estes:"
+      ],
+      "bullets": [
+        "**Central de ajuda.** A central fica no domínio da GoGroup e traz a política de frete.",
+        "**Desistência.** Dá para desistir em até 7 dias do recebimento.",
+        "**Recusa na entrega.** Pedido enviado não dá para cancelar. Dá para recusar na entrega, e o reembolso sai quando o pacote volta à loja.",
+        "**Troca.** Pelo portal de trocas da loja."
+      ]
+    },
+    {
+      "heading": "A nota pode mudar",
+      "paragraphs": [
+        "O Reclame Aqui atualiza o perfil com o tempo. Antes de pagar, abra o perfil da loja e confira a nota atual.",
+        "Se decidir comprar, o [cupom Barbour's](/cupons/barbours) dá 10% de desconto com o código CECILIALINHARES, para cliente novo e antigo."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual a nota da Barbour's Beauty no Reclame Aqui? A nota do perfil é 9,1 de 10 nos últimos seis meses, com reputação RA1000.",
+        "A Barbour's Beauty responde às reclamações? Sim. Segundo o perfil, 99,9% das reclamações recebidas tiveram resposta.",
+        "O que é o selo RA1000? É a reputação que o perfil mostra no Reclame Aqui, ao lado da nota de 9,1 nos últimos seis meses.",
+        "A Barbour's Beauty demora para entregar? A loja informa um prazo médio de 7 a 10 dias úteis. Na aba geral do Reclame Aqui, a queixa mais citada é produto não recebido, então vale acompanhar o rastreio."
+      ]
+    }
+  ]
+}
