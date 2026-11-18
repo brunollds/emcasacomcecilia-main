@@ -1144,7 +1144,7 @@ const STORE_COUPONS: Coupon[] = [
     lastVerified: '2026-11-18',
     testedAt: '2026-11-18',
     testNote:
-      'Num jogo de 6 bowls de cerâmica Scalla em promoção, de R$ 610,00 por R$ 366,00, o MAUAD tirou R$ 18,30 e o total caiu para R$ 347,70. Numa caneca Le Creuset de 100 ml sem promoção, de R$ 129,00, o desconto foi de R$ 6,45, e o total ficou em R$ 122,55: os 5% entraram com e sem promoção. No mesmo teste, dois códigos de 10% que circulam em sites de cupom e em respostas de IA não deram 10%: um aplicou os mesmos 5% nos dois carrinhos, e o outro foi recusado nos dois. Em 12/11/2026, os 5% já tinham entrado num bowl de porcelana da Black November, de R$ 171,50 por R$ 102,90. Em 11/11/2026, num pote de cerâmica Le Creuset em promoção, de R$ 519,00 por R$ 363,30, o total caiu para R$ 345,14. No teste de 02/10/2026, ele já tinha valido num carrinho com um item em pré-venda.',
+      'Num jogo de 6 bowls de cerâmica Scalla em promoção, de R$ 610,00 por R$ 366,00, o MAUAD tirou R$ 18,30 e o total caiu para R$ 347,70. Numa caneca Le Creuset de 100 ml sem promoção, de R$ 129,00, o desconto foi de R$ 6,45, e o total ficou em R$ 122,55: os 5% entraram com e sem promoção. Em 12/11/2026, os 5% já tinham entrado num bowl de porcelana da Black November, de R$ 171,50 por R$ 102,90. Em 11/11/2026, num pote de cerâmica Le Creuset em promoção, de R$ 519,00 por R$ 363,30, o total caiu para R$ 345,14. No teste de 02/10/2026, ele já tinha valido num carrinho com um item em pré-venda.',
     aboutBrand:
       "A Let's Eat It é uma loja online brasileira de casa e presentes, com curadoria de marcas como Le Creuset, KitchenAid, Porto Brasil e Bohemia Crystal. O catálogo cobre mesa posta, cozinha, bar, café e chá, decoração, outdoor e eletrodomésticos — itens que conversam com a rotina de quem cozinha e recebe em casa. O cupom MAUAD, com o sobrenome da Cecília, entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar no site oficial. Como regras de desconto, frete e aplicação podem variar por campanha e produto, a recomendação é sempre conferir o desconto no checkout antes de finalizar a compra.",
     faqs: [
@@ -1175,7 +1175,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Existe cupom Let\'s Eat It de 10%?',
         answer:
-          'No nosso teste mais recente, testamos dois códigos de 10% que aparecem em sites de cupom e em respostas de IA, nos mesmos carrinhos do MAUAD, e nenhum deu 10%: um aplicou 5%, o mesmo desconto do MAUAD, tanto nos bowls em promoção de R$ 366,00 quanto na caneca de R$ 129,00 sem promoção; o outro foi recusado nos dois, com a mensagem "Insira um código de desconto válido". O teste foi feito sem login e não confirma regras de primeira compra. O MAUAD dá 5% e soma com as promoções e com os 5% de desconto do Pix que muitos produtos têm.',
+          'Nos nossos testes, não. No teste mais recente, colocamos o DOHER10 e o BEMVINDO10, códigos de 10% que circulam em sites de cupom e em respostas de IA, nos mesmos carrinhos do MAUAD: o DOHER10 deu 5%, o mesmo desconto do MAUAD, tanto nos bowls em promoção de R$ 366,00 quanto na caneca de R$ 129,00 sem promoção, e o BEMVINDO10 foi recusado nos dois, com a mensagem "Insira um código de desconto válido". O teste foi feito sem login e não confirma regras de primeira compra. O MAUAD dá 5% e soma com as promoções e com os 5% de desconto do Pix que muitos produtos têm.',
       },
       {
         question: 'O cupom MAUAD vale no Mercado Livre?',

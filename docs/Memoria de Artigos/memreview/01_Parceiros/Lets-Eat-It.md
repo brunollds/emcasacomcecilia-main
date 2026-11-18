@@ -33,7 +33,7 @@ R$ 366,00: − R$ 18,30, R$ 347,70) e na caneca Cotton 100 ml Le Creuset sem pro
 Dois códigos de 10% trazidos de respostas de IA: o DOHER10 deu os mesmos 5% nos dois carrinhos, e o BEMVINDO10 foi
 recusado nos dois ("Insira um código de desconto válido"). Não afirmar que o BEMVINDO10 expirou nem que o DOHER10
 sempre dá 5%; a primeira compra e a soma com o Pix não foram testadas. A FAQ de `/cupons/letseatit` conta o resultado
-sem nomear os dois códigos, que seguem fora dos textos sem decisão do Bruno. Relatório, prints e SHA-256 em
+com os dois nomes, por decisão do Bruno (18/11, exceção como a do MARESSA e do BEARAMOS na Toda Up). Relatório, prints e SHA-256 em
 `docs/evidencias-cupons/2026-11-18-letseatit/` no checkout principal (fora do git).
 
 ---
