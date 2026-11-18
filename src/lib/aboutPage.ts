@@ -89,6 +89,7 @@ const PARTNERS: AboutPartner[] = [
   { name: 'Rituária', src: '/images/about/partners/rituaria.png', href: 'https://www.rituaria.com.br' },
   { name: 'Adaptogen', src: '/images/about/partners/adaptogen.png', href: 'https://www.adaptogen.com.br' },
   { name: "Barbour's Beauty", src: '/images/about/partners/barbours.png', href: 'https://www.thebarboursbeauty.com.br' },
+  { name: 'BOLD Snacks', src: '/images/about/partners/bold.png', href: 'https://www.boldsnacks.com.br' },
 ];
 
 const PORTUGUESE_LONG_DATE = new Intl.DateTimeFormat('pt-BR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
