@@ -1,0 +1,192 @@
+{
+  "id": 1012,
+  "slug": "proton-vpn-remboursement-resilier",
+  "locale": "fr",
+  "translationKey": "proton-vpn-reembolso",
+  "title": "Proton VPN : comment résilier l'abonnement et demander un remboursement dans les 30 jours",
+  "seoTitle": "Proton VPN : résiliation et remboursement sous 30 jours",
+  "type": "Guide pratique",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Comment résilier Proton VPN et demander le remboursement, ce qu'exigent les conditions, ce qui est exclu et comment éviter d'être pris par le renouvellement automatique.",
+  "metaDescription": "Résilier Proton VPN et demander un remboursement : le délai de 30 jours, les conditions qui font échouer une demande et comment éviter le renouvellement.",
+  "publishedAt": "17 novembre 2026",
+  "publishedAtISO": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-vpn-reembolso-como-cancelar-capa.webp",
+  "imageAlt": "Le logo Proton à côté des mots Proton VPN, remboursement sous 30 jours, avec une photo officielle d'une main tenant un téléphone qui affiche l'application Proton VPN.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Réponse rapide",
+      "paragraphs": [
+        "Pour être remboursé par Proton VPN, résiliez l'abonnement et demandez le remboursement à l'assistance, les deux dans les 30 jours suivant l'achat initial. Selon les conditions, un remboursement ne peut être demandé qu'une fois par utilisateur et uniquement par les personnes abonnées directement chez Proton. Les renouvellements sont exclus, et un abonnement souscrit via la boutique d'applications d'un téléphone se résilie dans cette boutique."
+      ]
+    },
+    {
+      "heading": "Résilier et demander le remboursement sont deux étapes",
+      "paragraphs": [
+        "La résiliation coupe les renouvellements à venir. D'après le centre d'aide de Proton, les fonctions payantes restent actives jusqu'à la prochaine date de renouvellement, puis le compte passe à l'offre gratuite. La résiliation seule ne rend aucun argent.",
+        "Le remboursement est une demande distincte, adressée à l'assistance. Les conditions d'utilisation de Proton, modifiées pour la dernière fois le 5 novembre 2026, précisent que la résiliation et la demande de remboursement doivent toutes deux intervenir dans le délai de 30 jours. Qui résilie le 20e jour et n'écrit à l'assistance que le 35e a manqué le délai.",
+        "Les conditions sont les mêmes pour les autres offres payantes de Proton, comme Mail Plus et Proton Unlimited. Ce que ce guide dit du délai et des conditions vaut aussi pour elles."
+      ],
+      "image": {
+        "src": "/images/reviews/proton/proton-vpn-reembolso-termos-en.webp",
+        "alt": "Extrait des conditions d'utilisation de Proton sur la résiliation dans les 30 jours suivant l'achat initial, la demande par le formulaire d'assistance et la limite d'un remboursement par utilisateur.",
+        "caption": "Les paragraphes des conditions d'utilisation de Proton sur la résiliation et les remboursements."
+      }
+    },
+    {
+      "heading": "Comment annuler le renouvellement sur le site",
+      "paragraphs": [
+        "Le parcours ci-dessous vient du [centre d'aide de Proton VPN](https://protonvpn.com/support/cancel-vpn-subscription), que nous avons lu le 17 novembre 2026. Les noms des boutons sont donnés tels qu'ils apparaissent sur cette page."
+      ],
+      "bullets": [
+        "Connectez-vous à votre compte sur account.protonvpn.com.",
+        "Dans la barre latérale, ouvrez **Subscription**.",
+        "Faites défiler jusqu'à **Cancel subscription** et cliquez sur **Continue**.",
+        "Cliquez sur **Cancel subscription**, lisez les conditions affichées par Proton, puis cliquez encore une fois sur **Cancel subscription**.",
+        "Choisissez un motif et cliquez sur **Submit**. D'après la page, la résiliation ne prend effet qu'après cette dernière étape."
+      ],
+      "postParagraphs": [
+        "Ensuite, l'offre payante reste active jusqu'à la date à laquelle elle se serait renouvelée. Passée cette date, le compte existe toujours, sur l'offre gratuite. Résilier l'abonnement ne supprime pas le compte. Si vous changez d'avis, le tableau de bord affiche un bouton **Reactivate now**.",
+        "Les conditions indiquent que la personne qui n'arrive pas à accéder au tableau de bord peut résilier via l'assistance de Proton."
+      ]
+    },
+    {
+      "heading": "Comment demander le remboursement",
+      "paragraphs": [
+        "Si vous vous êtes abonné sur le site, demandez le remboursement à l'assistance via le [formulaire d'assistance de Proton VPN](https://protonvpn.com/support/contact). Nous vous conseillons d'écrire depuis l'adresse e-mail du compte qui détient l'abonnement, d'indiquer l'offre et de demander clairement la résiliation et le remboursement dans les 30 jours.",
+        "Selon les conditions, le remboursement est intégral, versé dans la devise d'origine et sur le moyen de paiement d'origine, et traité dans les 30 jours suivant la demande. Le centre d'aide donne des délais plus courts, selon le mode de paiement."
+      ],
+      "comparisonTable": {
+        "caption": "Délais indiqués par le centre d'aide de Proton VPN. La banque ou la boutique crédite le montant, et le délai peut varier.",
+        "headers": [
+          "Mode de paiement",
+          "À qui demander",
+          "Délai indiqué"
+        ],
+        "rows": [
+          [
+            "Carte bancaire, sur le site",
+            "Assistance Proton",
+            "5 à 10 jours ouvrés"
+          ],
+          [
+            "PayPal, sur le site",
+            "Assistance Proton",
+            "1 à 2 jours ouvrés"
+          ],
+          [
+            "Bitcoin, sur le site",
+            "Assistance Proton",
+            "1 à 2 jours ouvrés"
+          ],
+          [
+            "Google Play",
+            "Assistance Proton ou Google Play lui-même",
+            "environ 3 à 5 jours"
+          ],
+          [
+            "App Store",
+            "Apple",
+            "environ 5 à 10 jours"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Quand le remboursement ne s'applique pas",
+      "paragraphs": [
+        "Les conditions ci-dessous figurent dans les conditions d'utilisation. L'une quelconque d'entre elles exclut une demande de la règle des 30 jours."
+      ],
+      "bullets": [
+        "**Plus de 30 jours se sont écoulés depuis l'achat initial.** D'après les conditions, le délai court à partir du premier achat, et un prélèvement de renouvellement tombe hors de ce délai.",
+        "**Vous avez déjà demandé un remboursement.** Les conditions indiquent qu'un remboursement ne peut être demandé qu'une fois par utilisateur.",
+        "**Vous avez payé en espèces ou par virement bancaire.** Les conditions indiquent que ces paiements ne sont pas remboursables.",
+        "**Vous vous êtes abonné via un intermédiaire.** La règle couvre les personnes abonnées par les canaux officiels de Proton, soit le site web et les applications. Si vous avez acheté chez un tiers, c'est la politique de remboursement de ce tiers qui s'applique.",
+        "**Vous avez contesté le paiement auprès de votre banque.** Les conditions précisent que quiconque recourt à une contestation ou à une rétrofacturation auprès du prestataire de paiement renonce au remboursement de Proton et dépend de l'issue du litige. Le compte peut être suspendu jusqu'à la résolution du litige.",
+        "**Le compte a été résilié pour violation des conditions.** Dans ce cas, les conditions indiquent que tous les paiements et crédits sont perdus."
+      ],
+      "postParagraphs": [
+        "Passé les 30 jours, les conditions indiquent que le service n'est pas remboursable et que tout remboursement ou crédit relève de la seule discrétion de l'entreprise. Vous pouvez demander, sans qu'aucune règle joue en votre faveur."
+      ]
+    },
+    {
+      "heading": "Je me suis abonné dans l'application, via Google Play ou l'App Store",
+      "paragraphs": [
+        "Un abonnement souscrit dans l'application du téléphone est en général facturé par la boutique. Pour les personnes qui ont payé via Google Play ou l'App Store, le centre d'aide indique de résilier dans la boutique elle-même."
+      ],
+      "bullets": [
+        "**Google Play.** Ouvrez l'application Play Store, touchez votre photo de profil, allez dans Abonnements et choisissez Proton VPN pour résilier. Pour un remboursement dans les 30 jours, le centre d'aide indique de contacter l'assistance de Proton et ajoute qu'il peut aussi être possible de le demander via Google Play lui-même.",
+        "**App Store.** Sur un iPhone, ouvrez Réglages, touchez votre nom, allez dans Abonnements, choisissez Proton VPN et résiliez. Le remboursement se demande à Apple, sur reportaproblem.apple.com."
+      ],
+      "postParagraphs": [
+        "Avant de résilier, consultez le reçu pour voir qui vous a facturé. Si le reçu vient de Google ou d'Apple, la résiliation se fait dans la boutique."
+      ]
+    },
+    {
+      "heading": "Comment éviter d'être pris par le renouvellement",
+      "paragraphs": [
+        "L'abonnement se renouvelle tout seul, pour la même durée. Les conditions indiquent que vous êtes facturé au prix en vigueur au moment du renouvellement, et qu'un prix promotionnel ne couvre que la première période. Sur la page partenaires de Proton en dollars américains, l'offre VPN Plus de 2 ans était facturée 59,76 $ pour les 24 premiers mois, puis se renouvelait à 83,88 $ tous les 12 mois. Les prix changent selon le pays et la devise.",
+        "Pour arrêter le renouvellement, les conditions demandent de résilier avant la date de renouvellement. Inutile d'attendre la veille. Comme l'offre payante court jusqu'à la fin de la période déjà facturée, vous pouvez résilier juste après vous être abonné et profiter de tout ce que vous avez payé.",
+        "Notez la prochaine date de facturation dans votre agenda, quelques jours à l'avance. Si vous vous êtes abonné via la boutique d'applications d'un téléphone, vérifiez la date dans les abonnements de la boutique."
+      ]
+    },
+    {
+      "heading": "Changer d'offre plutôt que partir",
+      "paragraphs": [
+        "Si l'offre s'est révélée trop grande ou trop petite, vous pouvez en changer sans partir. Les conditions précisent que lorsque vous choisissez une nouvelle offre payante, l'abonnement change aussitôt et la partie non utilisée de l'offre précédente devient un crédit sur le compte. Un cycle de facturation plus long, de 1 mois à 1 an par exemple, ne commence qu'à la fin du cycle en cours. Selon les conditions, le délai de remboursement court à partir de l'achat initial."
+      ]
+    },
+    {
+      "heading": "Si Proton ne répond pas",
+      "paragraphs": [
+        "Le formulaire d'assistance est le canal officiel, et le centre d'aide indique que les offres payantes incluent une assistance prioritaire et le chat. Conservez la preuve d'achat, la date de votre résiliation et la date de votre demande de remboursement. Ces trois dates montrent que la demande est arrivée à temps.",
+        "Les règles de protection des consommateurs de votre pays peuvent vous donner un délai propre. La question de savoir si Proton VPN est une entreprise à qui confier votre carte est traitée dans [Proton VPN est-il fiable ?](/fr/reviews/proton-vpn-est-il-fiable)."
+      ]
+    },
+    {
+      "heading": "Questions fréquentes",
+      "bullets": [
+        "Proton VPN rembourse-t-il ? D'après les conditions, il rembourse la totalité si la résiliation et la demande de remboursement interviennent toutes deux dans les 30 jours suivant l'achat initial. Cela vaut une fois par utilisateur et seulement pour les personnes abonnées sur le site ou les applications de Proton.",
+        "Comment résilier Proton VPN ? Sur le site, connectez-vous, ouvrez Subscription, allez à Cancel subscription et suivez les étapes jusqu'à l'envoi du motif. Si vous vous êtes abonné via Google Play ou l'App Store, résiliez dans les abonnements de la boutique.",
+        "J'ai résilié et j'ai quand même été prélevé, que faire ? Vérifiez d'abord qui vous a facturé. Un abonnement souscrit via la boutique d'applications d'un téléphone se résilie dans la boutique. Si le prélèvement vient de Proton après une résiliation menée à son terme, écrivez à l'assistance en joignant les dates et le reçu.",
+        "Puis-je être remboursé d'un renouvellement ? La règle des 30 jours court à partir de l'achat initial, et un renouvellement tombe hors de ce délai. Passé ce délai, les conditions laissent tout remboursement à la discrétion de l'entreprise.",
+        "Combien de temps prend le remboursement ? Les conditions indiquent dans les 30 jours suivant la demande. Le centre d'aide donne 5 à 10 jours ouvrés pour les cartes et 1 à 2 jours ouvrés pour PayPal."
+      ],
+      "postParagraphs": [
+        "Si vous ne vous êtes pas encore abonné, les règles de notre lien sont sur [la page Proton de notre site](/fr/coupons/proton)."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Les offres et les prix s'affichent sur la page qu'ouvre le bouton. Vérifiez le total et la date de renouvellement avant de payer.",
+    "label": "Voir les offres Proton VPN",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "Rédigé à partir des conditions d'utilisation et du centre d'aide de Proton. Le lien est un lien d'affiliation et peut générer une commission.",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-est-il-fiable"
+    },
+    {
+      "slug": "black-friday-proton-offres"
+    }
+  ]
+}

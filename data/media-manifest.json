@@ -164223,6 +164223,327 @@
       "verified_at": "2026-11-17T23:40:53.525Z",
       "verification_etag_or_digest": "3c32d61266e9a15b3eb3a43278f10d2f89ec2eaf81e1d9531751d65c10782541",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-e-confiavel-auditoria-securitum-2026.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-e-confiavel-auditoria-securitum-2026.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44894,
+      "sha256": "504f4d00e465b259210406832fd8387d7e19f47c36bf3fd4c98a837d62e8e7bf",
+      "width": 672,
+      "height": 864,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-e-confiavel-auditoria-securitum-2026.webp",
+      "storage_filename": "proton-vpn-e-confiavel-auditoria-securitum-2026.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-proton-vpn-safe.json",
+        "content/reviews/proton-vpn-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-proton-vpn-safe.json",
+          "line": 88,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-e-confiavel-auditoria-securitum-2026.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-e-confiavel.json",
+          "line": 88,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-e-confiavel-auditoria-securitum-2026.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252811,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-e-confiavel-auditoria-securitum-2026.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252982,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-e-confiavel-auditoria-securitum-2026.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/504f4d00e465b259210406832fd8387d7e19f47c36bf3fd4c98a837d62e8e7bf/proton-vpn-e-confiavel-auditoria-securitum-2026.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/504f4d00e465b259210406832fd8387d7e19f47c36bf3fd4c98a837d62e8e7bf/proton-vpn-e-confiavel-auditoria-securitum-2026.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:07:25.154Z",
+      "verification_etag_or_digest": "504f4d00e465b259210406832fd8387d7e19f47c36bf3fd4c98a837d62e8e7bf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-e-confiavel-capa.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-e-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 123320,
+      "sha256": "ed4afc799f118e029c1641a35728b23a14aff2b017a4a3859034a13a6a5fa3eb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-e-confiavel-capa.webp",
+      "storage_filename": "proton-vpn-e-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-proton-vpn-safe.json",
+        "content/reviews/proton-vpn-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-proton-vpn-safe.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-e-confiavel.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252749,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-e-confiavel-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252920,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-e-confiavel-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ed4afc799f118e029c1641a35728b23a14aff2b017a4a3859034a13a6a5fa3eb/proton-vpn-e-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ed4afc799f118e029c1641a35728b23a14aff2b017a4a3859034a13a6a5fa3eb/proton-vpn-e-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:07:25.155Z",
+      "verification_etag_or_digest": "ed4afc799f118e029c1641a35728b23a14aff2b017a4a3859034a13a6a5fa3eb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-e-confiavel-reclame-aqui.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-e-confiavel-reclame-aqui.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27372,
+      "sha256": "bdf89c3b22147d05e5a8d41de99033d519e775ce064bde00c8c33ea61a1955a6",
+      "width": 624,
+      "height": 736,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-e-confiavel-reclame-aqui.webp",
+      "storage_filename": "proton-vpn-e-confiavel-reclame-aqui.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-e-confiavel.json",
+          "line": 127,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-e-confiavel-reclame-aqui.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252850,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-e-confiavel-reclame-aqui.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bdf89c3b22147d05e5a8d41de99033d519e775ce064bde00c8c33ea61a1955a6/proton-vpn-e-confiavel-reclame-aqui.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bdf89c3b22147d05e5a8d41de99033d519e775ce064bde00c8c33ea61a1955a6/proton-vpn-e-confiavel-reclame-aqui.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:07:25.155Z",
+      "verification_etag_or_digest": "bdf89c3b22147d05e5a8d41de99033d519e775ce064bde00c8c33ea61a1955a6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-reembolso-como-cancelar-capa.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-reembolso-como-cancelar-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 123774,
+      "sha256": "c10abacd116c0a220c07851531b0d822fc42e90b866a532105edf45c5adc96db",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-reembolso-como-cancelar-capa.webp",
+      "storage_filename": "proton-vpn-reembolso-como-cancelar-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-reembolso-como-cancelar.json",
+        "content/reviews/proton-vpn-refund-how-to-cancel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-reembolso-como-cancelar.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-reembolso-como-cancelar-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/proton-vpn-refund-how-to-cancel.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/proton/proton-vpn-reembolso-como-cancelar-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252364,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-reembolso-como-cancelar-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252557,
+          "column": 15,
+          "literal": "/images/reviews/proton/proton-vpn-reembolso-como-cancelar-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c10abacd116c0a220c07851531b0d822fc42e90b866a532105edf45c5adc96db/proton-vpn-reembolso-como-cancelar-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c10abacd116c0a220c07851531b0d822fc42e90b866a532105edf45c5adc96db/proton-vpn-reembolso-como-cancelar-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:07:25.155Z",
+      "verification_etag_or_digest": "c10abacd116c0a220c07851531b0d822fc42e90b866a532105edf45c5adc96db",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-reembolso-termos-en.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-reembolso-termos-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 110112,
+      "sha256": "6f418a8bb48a597f760d850cc16d97c2311409e4170c35bc002d4475a553688b",
+      "width": 672,
+      "height": 532,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-reembolso-termos-en.webp",
+      "storage_filename": "proton-vpn-reembolso-termos-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-refund-how-to-cancel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-refund-how-to-cancel.json",
+          "line": 45,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-reembolso-termos-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252576,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-reembolso-termos-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6f418a8bb48a597f760d850cc16d97c2311409e4170c35bc002d4475a553688b/proton-vpn-reembolso-termos-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6f418a8bb48a597f760d850cc16d97c2311409e4170c35bc002d4475a553688b/proton-vpn-reembolso-termos-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:07:25.155Z",
+      "verification_etag_or_digest": "6f418a8bb48a597f760d850cc16d97c2311409e4170c35bc002d4475a553688b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/proton/proton-vpn-reembolso-termos-pt.webp",
+      "local_url": "/images/reviews/proton/proton-vpn-reembolso-termos-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64986,
+      "sha256": "09b8fb1662b94ab298ba0370ae16918b251785a2a31e852595c715f43eb05b42",
+      "width": 672,
+      "height": 302,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "proton-vpn-reembolso-termos-pt.webp",
+      "storage_filename": "proton-vpn-reembolso-termos-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/proton-vpn-reembolso-como-cancelar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/proton-vpn-reembolso-como-cancelar.json",
+          "line": 44,
+          "column": 17,
+          "literal": "/images/reviews/proton/proton-vpn-reembolso-termos-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252383,
+          "column": 19,
+          "literal": "/images/reviews/proton/proton-vpn-reembolso-termos-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/09b8fb1662b94ab298ba0370ae16918b251785a2a31e852595c715f43eb05b42/proton-vpn-reembolso-termos-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/09b8fb1662b94ab298ba0370ae16918b251785a2a31e852595c715f43eb05b42/proton-vpn-reembolso-termos-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:07:25.155Z",
+      "verification_etag_or_digest": "09b8fb1662b94ab298ba0370ae16918b251785a2a31e852595c715f43eb05b42",
+      "verification_status": "verified"
     }
   ]
 }

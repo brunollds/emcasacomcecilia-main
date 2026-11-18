@@ -1,0 +1,171 @@
+{
+  "id": 1019,
+  "slug": "proton-vpn-e-confiavel",
+  "locale": "pt",
+  "translationKey": "proton-vpn-e-confiavel",
+  "title": "Proton VPN é confiável? Quem está por trás, o que foi auditado e o que o plano grátis entrega",
+  "seoTitle": "Proton VPN é confiável? Empresa, auditorias e plano grátis",
+  "type": "Editorial",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Quem é a Proton, o que terceiros auditaram no Proton VPN, onde baixar com segurança, o que o plano grátis entrega e o que uma VPN não faz.",
+  "metaDescription": "Proton VPN é confiável? Veja quem é a empresa, o que as auditorias conferiram, se o plano grátis é seguro e como ler as reclamações no Reclame Aqui.",
+  "publishedAt": "17 de novembro de 2026",
+  "publishedAtISO": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "draft": false,
+  "isNew": true,
+  "bodyDatesReason": "reclame-aqui",
+  "image": "/images/reviews/proton/proton-vpn-e-confiavel-capa.webp",
+  "imageAlt": "Logo da Proton ao lado da chamada Proton VPN, No-logs audit, e de uma foto oficial de uma mão segurando um celular com o aplicativo Proton VPN.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "O Proton VPN é da Proton AG, empresa suíça que também faz o Proton Mail. Os aplicativos têm código aberto, e a empresa publica todo ano uma auditoria independente da política de não guardar registros. Segundo ela, o plano grátis não tem anúncios nem limite de dados. No Brasil, pesa o atendimento, porque as reclamações no Reclame Aqui estão sem resposta."
+      ]
+    },
+    {
+      "heading": "Quem está por trás do Proton VPN",
+      "paragraphs": [
+        "O Proton VPN é operado pela Proton AG, empresa com sede na Suíça. Segundo a [página institucional da Proton](https://proton.me/pt-br/about), ela nasceu em 2014, criada por cientistas que se conheceram no CERN, o laboratório europeu de física de partículas, e começou com uma campanha de financiamento coletivo em que mais de 10 mil pessoas doaram mais de meio milhão de dólares. O Proton VPN foi lançado em 2017, segundo a empresa.",
+        "A mesma página diz que o acionista principal da Proton AG é a Proton Foundation, uma organização sem fins lucrativos de Genebra, e que a empresa não tem investidores de capital de risco. A receita, segundo a Proton, vem das assinaturas, e o plano grátis é pago por quem assina.",
+        "Usamos o Proton Mail, da mesma empresa, no plano gratuito, há quase dez anos. Do Proton VPN não temos uso próprio. Por isso este texto separa o que a Proton afirma do que um terceiro conferiu e deixa velocidade e desempenho de fora."
+      ]
+    },
+    {
+      "heading": "O que foi auditado e por quem",
+      "paragraphs": [
+        "Quatro alegações sustentam a fama do Proton VPN: não guardar registros do que o usuário faz, ter aplicativos de código aberto, ter esses aplicativos auditados e ter negado as ordens de identificação que recebeu. A tabela mostra o que conseguimos abrir de cada uma.",
+        "A política de não guardar registros é auditada pela Securitum, uma empresa externa de testes de segurança. A Proton publica os relatórios completos de 2022 a 2026 na [página das auditorias](https://protonvpn.com/blog/no-logs-audit), cinco anos seguidos. Abrimos o de 2026. Ele tem 12 páginas, leva o título \"Verification of Proton VPN's No-Log policy\" e registra uma avaliação feita em maio de 2026 no escritório da Proton em Zurique, por dois consultores, com amostras de servidores em produção, arquivos de configuração e documentação interna.",
+        "Na conclusão que a Proton reproduz, a Securitum diz que a evidência técnica examinada não indicou que os servidores revisados registrem a navegação, as consultas de DNS, os serviços de destino, o conteúdo do tráfego ou dados de conexão que identifiquem o usuário, e que não encontrou registros persistentes que permitissem ligar um usuário ao que ele fez por um servidor revisado.",
+        "Uma auditoria dessas é um retrato. Ela vale para os servidores e as configurações examinados naqueles dias. O que a empresa fará depois fica fora dela, e por isso o valor está na repetição anual, com relatório aberto."
+      ],
+      "comparisonTable": {
+        "caption": "O que sustenta cada alegação sobre o Proton VPN, pelas fontes que abrimos.",
+        "headers": [
+          "Alegação",
+          "Quem sustenta",
+          "O que abrimos"
+        ],
+        "rows": [
+          [
+            "Não guarda registros de atividade",
+            "Securitum, em auditoria anual desde 2022",
+            "O relatório de 2026, publicado pela Proton"
+          ],
+          [
+            "Aplicativos de código aberto",
+            "O código publicado no GitHub",
+            "Os repositórios dos aplicativos de Android, Windows, iPhone, Mac e Linux"
+          ],
+          [
+            "Aplicativos auditados",
+            "A Proton, que cita uma auditoria da Securitum",
+            "Só a página da Proton. Fica como alegação dela"
+          ],
+          [
+            "Negou as ordens para identificar usuários",
+            "A Proton, no relatório de transparência",
+            "O relatório de transparência. O número é da própria empresa"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O código dos aplicativos está no perfil ProtonVPN do GitHub. Com o código aberto, qualquer pessoa com conhecimento pode examinar o que o aplicativo faz. A segurança que isso dá depende de haver gente examinando.",
+        "No [relatório de transparência](https://protonvpn.com/blog/transparency-report), a Proton conta que recebeu 458 ordens aprovadas por autoridades suíças desde 2017, todas para identificar quem estava conectado a um servidor em certo horário, e que negou todas por não ter os registros. O número é dela, sem conferência externa."
+      ],
+      "image": {
+        "src": "/images/reviews/proton/proton-vpn-e-confiavel-auditoria-securitum-2026.webp",
+        "alt": "Capa do relatório de segurança da Securitum com o assunto Verification of Proton VPN's No-Log policy, feito em Zurique.",
+        "caption": "A capa do relatório da Securitum sobre a política de não guardar registros, aberto no link que a Proton publica."
+      }
+    },
+    {
+      "heading": "Proton VPN é vírus? É perigoso instalar?",
+      "paragraphs": [
+        "O aplicativo oficial não é vírus. Ele está nas lojas oficiais com a Proton AG como desenvolvedora. Na Google Play brasileira, a página mostrava mais de 100 milhões de downloads e nota 4,8 em 1,51 milhão de avaliações. Na App Store, nota 4,8 em 8,2 mil avaliações.",
+        "O risco está fora das lojas. Instalador baixado de site de terceiros e versão \"premium desbloqueada\" são o caminho que dá problema, porque ninguém sabe o que foi posto no arquivo. Baixe pelo site protonvpn.com, pela Google Play ou pela App Store, e confira se o desenvolvedor é a Proton AG antes de instalar."
+      ]
+    },
+    {
+      "heading": "O plano grátis é seguro?",
+      "paragraphs": [
+        "A [página do plano grátis](https://protonvpn.com/pt-br/free-vpn) promete um serviço sem anúncios, sem registro de atividade e sem limite de dados. O que muda em relação ao pago é o tamanho. O plano grátis liga 1 dispositivo por vez, e a página de preços fala em \"velocidade média\" e em servidores de 10 países, escolhidos pelo aplicativo.",
+        "Alguém paga a conta de uma VPN grátis. Segundo a Proton, o plano grátis é financiado por quem assina os planos pagos. É o modelo que ela declara, sem conferência externa."
+      ]
+    },
+    {
+      "heading": "O que uma VPN não faz",
+      "paragraphs": [
+        "Uma VPN esconde o seu endereço IP dos sites e protege o tráfego entre o aparelho e o servidor dela. Ela tem limites que valem para qualquer marca."
+      ],
+      "bullets": [
+        "**Não torna ninguém anônimo.** Quem entra na conta de uma rede social com a VPN ligada continua identificado pela conta.",
+        "**Não protege de golpe.** Link falso por mensagem e site clonado em que a pessoa digita a senha funcionam do mesmo jeito.",
+        "**Muda quem vê o tráfego.** O provedor de internet deixa de ver os sites visitados, e o provedor da VPN passa a ocupar esse lugar. É por isso que a auditoria de registros importa.",
+        "**Não muda a lei.** A própria Proton diz que o serviço se destina ao uso legal. O que é ilegal sem VPN continua ilegal com ela."
+      ]
+    },
+    {
+      "heading": "O que o Reclame Aqui mostra",
+      "paragraphs": [
+        "O perfil \"proton vpn\" no Reclame Aqui aparece como não verificado. Nos dados de 01/11/2025 a 31/10/2026, lidos em 17/11/2026, eram 14 reclamações, nenhuma respondida, e a reputação aparecia como \"Não Recomendada\" porque menos de metade das reclamações teve resposta.",
+        "Catorze reclamações em um ano é uma base minúscula para um aplicativo com mais de 100 milhões de downloads na Google Play. Ainda assim, quem reclamou ali ficou sem resposta.",
+        "As reclamações mais recentes falam de renovação cobrada depois do cancelamento, de reembolso de assinatura feita pela Google Play e de cobrança do ano inteiro de uma vez em oferta anunciada por mês. O atendimento da Proton é pelo [formulário de suporte](https://protonvpn.com/support/contact)."
+      ],
+      "image": {
+        "src": "/images/reviews/proton/proton-vpn-e-confiavel-reclame-aqui.webp",
+        "alt": "Quadro de desempenho do perfil proton vpn no Reclame Aqui, com 14 reclamações recebidas, nenhuma respondida e a reputação Não Recomendada.",
+        "caption": "O quadro de 12 meses do perfil \"proton vpn\" no Reclame Aqui."
+      }
+    },
+    {
+      "heading": "Pagamento e reembolso em resumo",
+      "paragraphs": [
+        "A página de preços da Proton lista cartão Visa, Mastercard e American Express e PayPal. Pix não aparece. A assinatura renova sozinha, pelo preço em vigor na data da renovação.",
+        "Os termos dão reembolso integral para quem cancela e pede o dinheiro em até 30 dias da compra inicial, uma vez por usuário e só para assinatura feita direto com a Proton. O passo a passo está em [como cancelar o Proton VPN e pedir o reembolso](/reviews/proton-vpn-reembolso-como-cancelar)."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "O Proton VPN é seguro? Os sinais que dá para conferir são favoráveis. A empresa é identificada, o código dos aplicativos é público e a Securitum audita todo ano a política de não guardar registros, com relatório publicado. Nenhuma VPN protege de golpe nem torna alguém anônimo.",
+        "O Proton VPN grátis é confiável? A Proton diz que o plano grátis não guarda registros de atividade, não tem anúncios nem limite de dados, e que ele é financiado pelos assinantes. Os limites são 1 dispositivo e menos países.",
+        "O Proton VPN é vírus? Não. O aplicativo oficial está na Google Play e na App Store com a Proton AG como desenvolvedora. O risco está em instaladores de terceiros e em versões modificadas.",
+        "De que país é a Proton? Da Suíça. Os serviços são operados pela Proton AG e, segundo a empresa, o acionista principal é a Proton Foundation, uma organização sem fins lucrativos de Genebra.",
+        "O Proton VPN guarda registros? A Proton diz que não guarda registros de atividade, e a Securitum audita essa política todo ano desde 2022, com relatório publicado."
+      ],
+      "postParagraphs": [
+        "As regras do nosso link e os planos estão na [página da Proton no nosso site](/cupons/proton)."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Os planos, o plano grátis e os preços aparecem na página que o botão abre. Confira o total e a renovação antes de pagar.",
+    "label": "Ver os planos do Proton VPN",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "Feito com as páginas e os relatórios publicados pela Proton e os dados do Reclame Aqui. Nosso uso próprio é só do Proton Mail. O link é de afiliado e pode gerar comissão.",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-reembolso-como-cancelar"
+    },
+    {
+      "slug": "black-friday-proton"
+    }
+  ]
+}

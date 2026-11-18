@@ -1,0 +1,165 @@
+{
+  "id": 1025,
+  "slug": "proton-vpn-trust-ko",
+  "locale": "ko",
+  "translationKey": "proton-vpn-e-confiavel",
+  "title": "Proton VPN은 안전할까요? 운영 회사, 감사 내용, 무료 플랜으로 되는 것",
+  "seoTitle": "Proton VPN은 안전할까요? 회사, 감사, 무료 플랜",
+  "type": "에디토리얼",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Proton이 어떤 회사인지, 제3자가 Proton VPN의 무엇을 감사했는지, 안전한 다운로드 경로, 무료 플랜으로 되는 것, VPN이 막아 주지 못하는 것을 설명합니다.",
+  "metaDescription": "Proton VPN은 안전할까요? 운영 회사, 감사에서 확인된 내용, 무료 플랜을 믿어도 되는지, VPN이 막아 주지 못하는 것을 정리했습니다.",
+  "publishedAt": "2026년 11월 17일",
+  "publishedAtISO": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-vpn-e-confiavel-capa.webp",
+  "imageAlt": "Proton 로고와 \"Proton VPN, 로그 없음 감사\"라는 문구, 그 옆에 Proton VPN 앱이 열린 휴대폰을 든 손의 공식 사진이 있습니다.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "빠른 답",
+      "paragraphs": [
+        "Proton VPN은 Proton Mail도 만드는 스위스 회사 Proton AG의 서비스입니다. 앱은 오픈 소스이고, 회사는 로그 비보관 정책에 대한 독립 감사를 해마다 공개합니다. Proton에 따르면 무료 플랜에는 광고가 없고 데이터 제한도 없습니다. 지원은 웹 양식으로 이루어지며, 환불은 약관의 30일 규정을 따릅니다."
+      ]
+    },
+    {
+      "heading": "Proton VPN 뒤에 있는 곳은 어디인가",
+      "paragraphs": [
+        "Proton VPN은 스위스에 본사를 둔 Proton AG가 운영합니다. [Proton의 소개 페이지](https://proton.me/about)에 따르면 이 회사는 2014년에 유럽 입자물리 연구소 CERN에서 만난 과학자들이 만들었고, 1만 명이 넘는 사람이 50만 달러 이상을 기부한 크라우드펀딩으로 시작했습니다. 회사에 따르면 Proton VPN은 2017년에 출시되었습니다.",
+        "같은 페이지에는 Proton AG의 최대 주주가 제네바의 비영리 단체인 Proton Foundation이고, 회사에는 벤처 캐피털 투자자가 없다고 적혀 있습니다. Proton에 따르면 수익은 구독료에서 나오며, 무료 플랜의 비용은 구독자가 부담합니다.",
+        "저희는 같은 회사의 Proton Mail을 무료 플랜으로 10년 가까이 써 왔습니다. 반면 Proton VPN은 직접 써 본 적이 없습니다. 그래서 이 글은 Proton이 주장하는 것과 제3자가 확인한 것을 나누어 쓰고, 속도와 성능은 다루지 않습니다."
+      ]
+    },
+    {
+      "heading": "무엇을, 누가 감사했나",
+      "paragraphs": [
+        "Proton VPN의 평판은 네 가지 주장에 기대고 있습니다. 사용자의 활동을 기록하지 않는다는 것, 앱이 오픈 소스라는 것, 그 앱이 감사를 받았다는 것, 받은 신원 확인 명령을 거부했다는 것입니다. 표에는 각각에 대해 저희가 실제로 열어 본 자료를 정리했습니다.",
+        "로그 비보관 정책은 외부 보안 테스트 회사인 Securitum이 감사합니다. Proton은 2022년부터 2026년까지의 전체 보고서를 5년 연속으로 [감사 페이지](https://protonvpn.com/blog/no-logs-audit)에 공개하고 있습니다. 저희는 2026년 보고서를 열어 보았습니다. 12쪽 분량이고 제목은 \"Verification of Proton VPN's No-Log policy\"이며, 2026년 5월 취리히의 Proton 사무실에서 컨설턴트 두 명이 운영 서버 표본, 설정 파일, 내부 문서를 가지고 진행한 평가가 기록되어 있습니다.",
+        "Proton이 옮겨 실은 결론에서 Securitum은, 검토한 기술적 증거로는 조사한 Proton VPN 서버 인프라가 사용자의 탐색 활동, DNS 조회, 접속 대상 서비스, 네트워크 트래픽 내용, 사용자를 식별할 수 있는 연결 메타데이터를 기록한다는 징후가 나타나지 않았다고 말합니다. 또한 검토한 서버에서 특정 사용자를 특정 활동과 연결할 수 있는 지속적인 기록도 확인하지 못했다고 합니다.",
+        "이런 감사는 한 시점의 스냅샷입니다. 해당 시기에 조사한 서버와 설정만 다룹니다. 그 이후에 회사가 하는 일은 범위 밖이므로, 해마다 반복하고 보고서를 공개한다는 점에 가치가 있습니다."
+      ],
+      "comparisonTable": {
+        "caption": "Proton VPN에 관한 각 주장을 뒷받침하는 것. 저희가 열어 본 자료 기준입니다.",
+        "headers": [
+          "주장",
+          "뒷받침하는 곳",
+          "저희가 열어 본 것"
+        ],
+        "rows": [
+          [
+            "활동 로그를 보관하지 않음",
+            "Securitum, 2022년부터의 연례 감사",
+            "Proton이 공개한 2026년 보고서"
+          ],
+          [
+            "오픈 소스 앱",
+            "GitHub에 공개된 코드",
+            "Android, Windows, iPhone, Mac, Linux 앱의 저장소"
+          ],
+          [
+            "감사를 받은 앱",
+            "Proton, Securitum 감사를 인용함",
+            "Proton의 페이지뿐. Proton의 주장으로 남음"
+          ],
+          [
+            "사용자 신원 확인 명령을 거부함",
+            "Proton, 투명성 보고서",
+            "투명성 보고서. 수치는 회사 자체의 것"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "앱 코드는 GitHub의 ProtonVPN 프로필에 있습니다. 코드가 공개되어 있으면 지식이 있는 사람은 누구나 앱이 무엇을 하는지 살펴볼 수 있습니다. 다만 그로 인한 안전성은 실제로 누군가 살펴보느냐에 달려 있습니다.",
+        "Proton은 [투명성 보고서](https://protonvpn.com/blog/transparency-report)에서 2017년 이후 스위스 당국이 승인한 명령을 458건 받았다고 밝힙니다. 모두 특정 시각에 서버에 접속한 사람을 식별하라는 것이었고, 로그가 없기 때문에 전부 거부했다고 합니다. 이 수치는 Proton 자체의 것이며 외부 검증은 없습니다."
+      ],
+      "image": {
+        "src": "/images/reviews/proton/proton-vpn-e-confiavel-auditoria-securitum-2026.webp",
+        "alt": "취리히에서 진행된 \"Verification of Proton VPN's No-Log policy\"를 주제로 한 Securitum 보안 보고서의 표지.",
+        "caption": "로그 비보관 정책에 관한 Securitum 보고서의 표지. Proton이 공개한 링크에서 열었습니다."
+      }
+    },
+    {
+      "heading": "Proton VPN은 바이러스인가요? 설치하면 위험한가요?",
+      "paragraphs": [
+        "공식 앱은 바이러스가 아닙니다. 공식 스토어에 개발자가 Proton AG로 올라와 있습니다. Google Play 앱 페이지에는 1억 회가 넘는 다운로드가 표시되어 있었습니다.",
+        "위험은 스토어 밖에 있습니다. 제3자 사이트에서 받은 설치 파일이나 \"잠금 해제된 프리미엄\" 버전은 파일에 무엇이 들어갔는지 아무도 모르기 때문에 문제가 생기는 경로입니다. protonvpn.com, Google Play, App Store에서 내려받고, 설치하기 전에 개발자가 Proton AG인지 확인하세요."
+      ]
+    },
+    {
+      "heading": "무료 플랜은 안전한가요?",
+      "paragraphs": [
+        "[무료 플랜 페이지](https://protonvpn.com/free-vpn)는 광고 없음, 활동 로그 없음, 데이터 제한 없음을 약속합니다. 유료 플랜과 다른 점은 규모입니다. 무료 플랜은 한 번에 기기 1대만 연결할 수 있고, 요금 페이지에는 중간 정도의 속도와 앱이 골라 주는 10개국의 서버가 언급되어 있습니다.",
+        "무료 VPN도 누군가는 비용을 냅니다. Proton에 따르면 무료 플랜은 유료 플랜을 결제하는 사람들이 뒷받침합니다. 이는 회사가 밝힌 모델이며 외부 검증은 없습니다."
+      ]
+    },
+    {
+      "heading": "VPN이 해 주지 못하는 것",
+      "paragraphs": [
+        "VPN은 웹사이트에서 내 IP 주소를 가리고, 내 기기와 VPN 서버 사이의 트래픽을 보호합니다. 어느 브랜드에나 해당하는 한계가 있습니다."
+      ],
+      "bullets": [
+        "**누군가를 익명으로 만들지 않습니다.** VPN을 켠 채 소셜 네트워크에 로그인하면 계정이 여전히 나를 식별합니다.",
+        "**사기를 막아 주지 않습니다.** 메시지 속 가짜 링크나 비밀번호를 입력하게 하는 복제 사이트는 VPN이 있어도 똑같이 통합니다.",
+        "**트래픽을 보는 주체가 바뀝니다.** 인터넷 제공업체는 내가 방문하는 사이트를 보지 못하게 되고, 그 자리를 VPN 제공업체가 대신합니다. 로그 감사가 중요한 이유입니다.",
+        "**법은 바뀌지 않습니다.** Proton 스스로도 서비스가 합법적인 용도를 위한 것이라고 말합니다. VPN 없이 불법인 일은 VPN이 있어도 불법입니다."
+      ]
+    },
+    {
+      "heading": "Proton 지원팀에 연락하는 방법",
+      "paragraphs": [
+        "Proton은 웹사이트의 [지원 양식](https://protonvpn.com/support/contact)으로 지원을 처리합니다. 고객센터에 따르면 유료 플랜에는 우선 지원과 채팅이 포함됩니다.",
+        "결제 관련 문의는 구독이 걸려 있는 계정의 이메일 주소로 보내고 구매 증빙을 보관하세요. 휴대폰 앱 안에서 가입했다면 결제를 처리한 스토어가 해지를 맡습니다."
+      ]
+    },
+    {
+      "heading": "결제와 환불 요약",
+      "paragraphs": [
+        "Proton의 요금 페이지에는 Visa, Mastercard, American Express 카드와 PayPal이 나와 있습니다. 구독은 갱신일에 적용되는 가격으로 저절로 갱신됩니다.",
+        "약관에 따르면 최초 구매 후 30일 이내에 해지하고 환불을 요청한 사람에게 전액을 환불합니다. 사용자당 한 번이며, Proton에서 직접 구매한 구독만 해당합니다. 단계별 방법은 [Proton VPN 해지와 환불 신청](/ko/reviews/proton-vpn-refund-ko)에 있습니다."
+      ]
+    },
+    {
+      "heading": "자주 묻는 질문",
+      "bullets": [
+        "Proton VPN은 안전한가요? 확인할 수 있는 신호는 긍정적입니다. 운영 회사가 분명하고, 앱 코드가 공개되어 있으며, Securitum이 로그 비보관 정책을 해마다 감사하고 보고서를 공개합니다. 다만 어떤 VPN도 사기를 막거나 누군가를 익명으로 만들어 주지는 않습니다.",
+        "무료 Proton VPN은 믿을 만한가요? Proton에 따르면 무료 플랜은 활동 로그를 보관하지 않고, 광고와 데이터 제한이 없으며, 구독자의 결제로 운영됩니다. 한계는 기기 1대와 적은 국가 수입니다.",
+        "Proton VPN은 바이러스인가요? 아니요. 공식 앱은 Google Play와 App Store에 개발자 Proton AG로 올라와 있습니다. 위험은 제3자 설치 파일과 변조된 버전에 있습니다.",
+        "Proton은 어느 나라 회사인가요? 스위스입니다. 서비스는 Proton AG가 운영하며, 회사에 따르면 최대 주주는 제네바의 비영리 단체인 Proton Foundation입니다.",
+        "Proton VPN은 로그를 보관하나요? Proton은 활동 로그를 보관하지 않는다고 밝히며, Securitum은 2022년부터 이 정책을 해마다 감사하고 보고서를 공개해 왔습니다."
+      ],
+      "postParagraphs": [
+        "저희 링크의 규칙과 플랜은 [저희 사이트의 Proton 페이지](/ko/coupons/proton)에 있습니다."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "플랜, 무료 플랜, 가격은 버튼이 여는 페이지에 표시됩니다. 결제하기 전에 총액과 갱신 가격을 확인하세요.",
+    "label": "Proton VPN 플랜 보기",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "Proton이 공개한 페이지와 보고서를 바탕으로 작성했습니다. 저희가 직접 쓰는 것은 Proton Mail뿐입니다. 이 링크는 제휴 링크이며 수수료를 받을 수 있습니다.",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-refund-ko"
+    },
+    {
+      "slug": "proton-black-friday-ko"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "id": 1028,
+  "slug": "proton-vpn-trust-zh-hans",
+  "locale": "zh-hans",
+  "translationKey": "proton-vpn-e-confiavel",
+  "title": "Proton VPN 安全吗？背后是谁、哪些经过审计，以及免费套餐能做什么",
+  "seoTitle": "Proton VPN 安全吗？公司背景、审计与免费套餐",
+  "type": "编辑专题",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Proton 是谁、第三方审计了 Proton VPN 的哪些部分、哪里可以放心下载、免费套餐能做什么，以及 VPN 做不到的事。",
+  "metaDescription": "Proton VPN 安全吗？看公司是谁、审计检查了什么、免费套餐能不能信任，以及 VPN 无法防范哪些风险。",
+  "publishedAt": "2026年11月17日",
+  "publishedAtISO": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-vpn-e-confiavel-capa.webp",
+  "imageAlt": "Proton 标志旁写着“Proton VPN，无日志审计”，旁边是一张官方照片，画面中一只手拿着手机，屏幕上是 Proton VPN 应用。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "Proton VPN 属于 Proton AG，这是一家瑞士公司，也是 Proton Mail 的开发者。应用是开源的，公司每年都会公布一份针对无日志政策的独立审计。按 Proton 的说法，免费套餐没有广告，也没有流量限制。客服通过网页表单处理，退款则按条款中的 30 天规则办理。"
+      ]
+    },
+    {
+      "heading": "Proton VPN 背后是谁",
+      "paragraphs": [
+        "Proton VPN 由 Proton AG 运营，这是一家总部设在瑞士的公司。按 [Proton 的“关于”页面](https://proton.me/about)所述，公司创立于 2014 年，创始人是在欧洲粒子物理实验室 CERN 认识的科学家，起步时发起了一次众筹，超过 10,000 人捐出了逾 50 万美元。按公司的说法，Proton VPN 于 2017 年推出。",
+        "同一页面说明，Proton AG 的最大股东是位于日内瓦的非营利组织 Proton Foundation，公司没有风险投资方。按 Proton 的说法，收入来自订阅，免费套餐由付费用户支撑。",
+        "我们使用同一家公司的 Proton Mail 免费套餐，已经将近十年。我们自己没有使用 Proton VPN。因此本文区分的是 Proton 自己的说法和第三方核实过的内容，速度和性能不在讨论范围内。"
+      ]
+    },
+    {
+      "heading": "哪些经过审计，由谁审计",
+      "paragraphs": [
+        "Proton VPN 的口碑建立在四项说法上：不记录用户的活动、应用开源、这些应用经过审计，以及拒绝了收到的身份查询命令。表格列出我们能够查阅到的每一项依据。",
+        "无日志政策由外部安全测试公司 Securitum 审计。Proton 在其[审计页面](https://protonvpn.com/blog/no-logs-audit)上公布了 2022 年至 2026 年的完整报告，连续五年。我们打开了 2026 年的报告。报告共 12 页，标题为“Verification of Proton VPN's No-Log policy”，记录了 2026 年 5 月在 Proton 苏黎世办公室进行的评估，由两名顾问执行，检查了生产服务器的样本、配置文件和内部文档。",
+        "在 Proton 转载的结论中，Securitum 表示，所审查的技术证据并未显示被检查的 Proton VPN 服务器基础设施会记录用户的浏览活动、DNS 查询、目的地服务、网络流量内容或可识别用户的连接元数据，也没有发现能让 Proton 把特定用户与某台受审服务器上的活动联系起来的持久性记录。",
+        "这类审计只是某个时间点的快照，涵盖的是那几天所检查的服务器和配置。公司在那之后做了什么，并不在其范围内，所以它的价值在于每年重复进行，并公开报告。"
+      ],
+      "comparisonTable": {
+        "caption": "每项关于 Proton VPN 的说法由谁支持，依据是我们查阅过的来源。",
+        "headers": [
+          "说法",
+          "谁来支持",
+          "我们查阅了什么"
+        ],
+        "rows": [
+          [
+            "不记录活动日志",
+            "Securitum，自 2022 年起每年审计",
+            "Proton 公布的 2026 年报告"
+          ],
+          [
+            "应用开源",
+            "GitHub 上公开的代码",
+            "Android、Windows、iPhone、Mac 和 Linux 应用的代码仓库"
+          ],
+          [
+            "应用经过审计",
+            "Proton，并引用 Securitum 的审计",
+            "只有 Proton 的页面，仍属 Proton 自己的说法"
+          ],
+          [
+            "拒绝了识别用户的命令",
+            "Proton，在其透明度报告中",
+            "透明度报告，数字是公司自己的"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "应用的代码在 GitHub 的 ProtonVPN 账号下。代码公开后，有能力的人都可以检查应用做了什么。这带来的安全性，取决于是否真的有人去检查。",
+        "在其[透明度报告](https://protonvpn.com/blog/transparency-report)中，Proton 表示自 2017 年以来收到了 458 份经瑞士当局批准的命令，全都是要求识别某个时间点连接某台服务器的人，而 Proton 全部拒绝，因为它没有这些日志。这个数字是 Proton 自己的，没有外部核实。"
+      ],
+      "image": {
+        "src": "/images/reviews/proton/proton-vpn-e-confiavel-auditoria-securitum-2026.webp",
+        "alt": "Securitum 安全报告的封面，主题为 Verification of Proton VPN's No-Log policy，在苏黎世进行。",
+        "caption": "Securitum 无日志政策报告的封面，从 Proton 公布的链接打开。"
+      }
+    },
+    {
+      "heading": "Proton VPN 是病毒吗？安装有危险吗？",
+      "paragraphs": [
+        "官方应用不是病毒。它在官方应用商店上架，开发者是 Proton AG。Google Play 的页面显示下载次数超过 1 亿次。",
+        "风险在应用商店之外。从第三方网站下载的安装包，或是“unlocked premium”（解锁付费版）的版本，才是会出问题的途径，因为没有人知道文件里被放进了什么。请从 protonvpn.com、Google Play 或 App Store 下载，安装前确认开发者是 Proton AG。"
+      ]
+    },
+    {
+      "heading": "免费套餐安全吗？",
+      "paragraphs": [
+        "[免费套餐页面](https://protonvpn.com/free-vpn)承诺提供没有广告、没有活动日志、没有流量限制的服务。与付费套餐相比，差别在规模。免费套餐一次只能连 1 台设备，价格页面提到的是中等速度，以及由应用挑选的 10 个国家的服务器。",
+        "免费 VPN 的费用总得有人付。按 Proton 的说法，免费套餐由付费套餐的用户出资支撑。这是它自己宣称的模式，没有外部核实。"
+      ]
+    },
+    {
+      "heading": "VPN 做不到的事",
+      "paragraphs": [
+        "VPN 会对网站隐藏你的 IP 地址，并保护你的设备与其服务器之间的流量。它也有局限，任何品牌都一样。"
+      ],
+      "bullets": [
+        "**它不会让任何人匿名。** 如果你开着 VPN 登录社交网站，账号仍然会识别出你。",
+        "**它不能防范诈骗。** 消息里的假链接，或是你输入密码的仿冒网站，照样有效。",
+        "**它改变的是谁看得到流量。** 你的网络运营商不再看到你访问的网站，这个位置改由 VPN 服务商取代。这就是日志审计重要的原因。",
+        "**它不会改变法律。** Proton 自己也说服务是供合法用途使用。没有 VPN 时违法的事，用了 VPN 还是违法。"
+      ]
+    },
+    {
+      "heading": "如何联系 Proton 客服",
+      "paragraphs": [
+        "Proton 通过其网站上的[支持表单](https://protonvpn.com/support/contact)处理客服。帮助中心表示付费套餐包含优先支持和聊天。",
+        "遇到账单问题，请用持有该订阅的账户所使用的电子邮件地址写信，并保留购买凭证。如果你是在手机应用内订阅的，取消要由向你收款的应用商店处理。"
+      ]
+    },
+    {
+      "heading": "付款与退款简述",
+      "paragraphs": [
+        "Proton 的价格页面列出 Visa、Mastercard 和 American Express 银行卡以及 PayPal。订阅会自动续订，按续订当天的价格收费。",
+        "按条款，只要在首次购买后 30 天内取消并申请退款，就会全额退款，每位用户限一次，且仅适用于直接向 Proton 购买的订阅。详细步骤请见[如何取消 Proton VPN 并申请退款](/zh-hans/reviews/proton-vpn-refund-zh-hans)。"
+      ]
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "Proton VPN 安全吗？可以核实的迹象是正面的。公司身份明确，应用代码公开，Securitum 每年审计无日志政策并公布报告。没有任何 VPN 能防范诈骗，或让人匿名。",
+        "免费的 Proton VPN 可以信任吗？按 Proton 的说法，免费套餐不记录活动日志，没有广告，也没有流量限制，并由付费用户出资支撑。局限是只能连 1 台设备，国家也较少。",
+        "Proton VPN 是病毒吗？不是。官方应用在 Google Play 和 App Store 上架，开发者是 Proton AG。风险出在第三方安装包和修改过的版本。",
+        "Proton 是哪个国家的公司？瑞士。服务由 Proton AG 运营，按公司的说法，最大股东是位于日内瓦的非营利组织 Proton Foundation。",
+        "Proton VPN 会保存日志吗？按 Proton 的说法，它不保存活动日志，Securitum 自 2022 年起每年审计这项政策，并公布报告。"
+      ],
+      "postParagraphs": [
+        "我们链接的规则和套餐请见[我们网站上的 Proton 页面](/zh-hans/coupons/proton)。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "套餐、免费套餐和价格显示在按钮打开的页面上。付款前请确认总额和续订价格。",
+    "label": "查看 Proton VPN 套餐",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "本文依据 Proton 公布的页面与报告撰写。我们自己只使用过 Proton Mail。这个链接是联盟链接，可能为我们带来佣金。",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-refund-zh-hans"
+    },
+    {
+      "slug": "proton-black-friday-zh-hans"
+    }
+  ]
+}

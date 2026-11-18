@@ -1,0 +1,192 @@
+{
+  "id": 1017,
+  "slug": "proton-vpn-refund-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "proton-vpn-reembolso",
+  "title": "Proton VPN：如何取消訂閱，並在 30 天內申請退款",
+  "seoTitle": "Proton VPN：如何取消訂閱並在 30 天內申請退款",
+  "type": "使用指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "如何取消 Proton VPN 並申請退款，條款有哪些要求、哪些情況不適用，以及怎麼避免被自動續訂扣款。",
+  "metaDescription": "如何取消 Proton VPN 並申請退款：30 天期限、會讓申請被拒的條件，以及如何避免續訂扣款。",
+  "publishedAt": "2026年11月17日",
+  "publishedAtISO": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-vpn-reembolso-como-cancelar-capa.webp",
+  "imageAlt": "Proton 標誌旁寫著「Proton VPN，30 天退款」，旁邊是一張官方照片，畫面中一隻手拿著手機，螢幕上是 Proton VPN 應用程式。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "想從 Proton VPN 取回款項，必須在首次購買後 30 天內取消訂閱，並向客服申請退款。依條款，每位用戶只能申請一次退款，而且只適用於直接向 Proton 訂閱的人。續訂不在退款範圍內；透過手機應用程式商店購買的訂閱，則要在商店裡取消。"
+      ]
+    },
+    {
+      "heading": "取消和申請退款是兩個步驟",
+      "paragraphs": [
+        "取消的作用是停止未來的續訂。依 Proton 說明中心所述，付費功能會維持到下一個續訂日，之後帳戶會轉為免費方案。光是取消，並不會退任何款項。",
+        "退款是另一項申請，要向客服提出。Proton 的服務條款最後修改於 2026 年 11 月 5 日，條款寫明取消和退款申請都必須在這 30 天內辦理。如果你在第 20 天取消，卻在第 35 天才寫信給客服，就已經錯過期限。",
+        "Proton 其他付費方案（例如 Mail Plus 和 Proton Unlimited）適用相同的條款。本指南所說的期限和條件，對它們同樣適用。"
+      ],
+      "image": {
+        "src": "/images/reviews/proton/proton-vpn-reembolso-termos-en.webp",
+        "alt": "Proton 服務條款節錄，內容涵蓋首次購買後 30 天內取消、透過支援表單申請，以及每位用戶限退款一次。",
+        "caption": "Proton 服務條款中關於取消和退款的段落。"
+      }
+    },
+    {
+      "heading": "如何在網站上取消續訂",
+      "paragraphs": [
+        "以下步驟來自 [Proton VPN 說明中心](https://protonvpn.com/support/cancel-vpn-subscription)，我們在 2026 年 11 月 17 日閱讀過。按鈕名稱依該頁面上的顯示列出。"
+      ],
+      "bullets": [
+        "到 account.protonvpn.com 登入你的帳戶。",
+        "在側邊欄開啟 **Subscription**。",
+        "向下捲動到 **Cancel subscription**，點選 **Continue**。",
+        "點選 **Cancel subscription**，閱讀 Proton 顯示的條款，再點一次 **Cancel subscription**。",
+        "選擇原因並點選 **Submit**。依該頁面所述，取消要在最後這一步之後才會生效。"
+      ],
+      "postParagraphs": [
+        "完成後，付費方案會維持到原本的續訂日。過了那一天，帳戶仍然存在，只是轉為免費方案。取消訂閱不會刪除帳戶。如果你改變主意，儀表板上會有 **Reactivate now** 按鈕。",
+        "條款說明，無法進入儀表板的人，可以透過 Proton 的客戶支援取消。"
+      ]
+    },
+    {
+      "heading": "如何申請退款",
+      "paragraphs": [
+        "如果你是在網站上訂閱，請透過 [Proton VPN 支援表單](https://protonvpn.com/support/contact)向客服申請退款。我們的建議是，用持有該訂閱的帳戶所使用的電子郵件地址來寫信，寫明方案名稱，並直接說明你要在 30 天內取消並退款。",
+        "依條款，退款是全額退還，以原幣別、原付款方式支付，並在申請後 30 天內處理。說明中心則依付款方式給出更短的時間。"
+      ],
+      "comparisonTable": {
+        "caption": "Proton VPN 說明中心給出的時間。款項由銀行或商店入帳，實際時間可能不同。",
+        "headers": [
+          "付款方式",
+          "向誰申請",
+          "說明中心給出的時間"
+        ],
+        "rows": [
+          [
+            "信用卡，在網站上",
+            "Proton 客服",
+            "5 至 10 個工作天"
+          ],
+          [
+            "PayPal，在網站上",
+            "Proton 客服",
+            "1 至 2 個工作天"
+          ],
+          [
+            "Bitcoin，在網站上",
+            "Proton 客服",
+            "1 至 2 個工作天"
+          ],
+          [
+            "Google Play",
+            "Proton 客服或 Google Play 本身",
+            "約 3 至 5 天"
+          ],
+          [
+            "App Store",
+            "Apple",
+            "約 5 至 10 天"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "哪些情況不適用退款",
+      "paragraphs": [
+        "以下條件都寫在服務條款裡。只要符合其中任何一項，申請就不適用 30 天規則。"
+      ],
+      "bullets": [
+        "**距離首次購買已超過 30 天。** 依條款，期限從第一次購買起算，續訂扣款不在其內。",
+        "**你以前已經申請過退款。** 條款說明，每位用戶只能申請一次退款。",
+        "**你是以現金或銀行轉帳付款。** 條款說明，這類付款不予退款。",
+        "**你是透過中間商訂閱。** 這項規則涵蓋透過 Proton 官方管道（網站和應用程式）訂閱的人。如果是向第三方購買，則適用該第三方的退款政策。",
+        "**你向信用卡發卡機構提出了爭議扣款。** 條款說明，透過支付處理商提出爭議或拒付的人，等於放棄 Proton 的退款，結果取決於爭議的處理。帳戶可能在爭議解決前被停用。",
+        "**帳戶因違反條款而被終止。** 這種情況下，條款說明所有付款和餘額都會失效。"
+      ],
+      "postParagraphs": [
+        "超過 30 天之後，條款說明服務不予退款，任何退款或抵免都由公司自行決定。你還是可以提出申請，只是沒有任何規則站在你這一邊。"
+      ]
+    },
+    {
+      "heading": "我是在應用程式裡訂閱，透過 Google Play 或 App Store",
+      "paragraphs": [
+        "在手機應用程式內購買的訂閱，通常由商店計費。對於透過 Google Play 或 App Store 付款的人，說明中心表示要在商店本身取消。"
+      ],
+      "bullets": [
+        "**Google Play。** 開啟 Play 商店應用程式，點選你的大頭貼，進入「訂閱」，選擇 Proton VPN 取消。若要在 30 天內退款，說明中心表示要聯絡 Proton 客服，並補充說也可能可以透過 Google Play 本身申請。",
+        "**App Store。** 在 iPhone 上開啟「設定」，點選你的名字，進入「訂閱」，選擇 Proton VPN 並取消。退款要向 Apple 申請，網址是 reportaproblem.apple.com。"
+      ],
+      "postParagraphs": [
+        "取消之前，先看收據，確認是誰向你收款。如果收據來自 Google 或 Apple，就要在商店裡取消。"
+      ]
+    },
+    {
+      "heading": "如何避免被續訂扣款",
+      "paragraphs": [
+        "訂閱會以相同的期間自動續訂。條款說明，你會按續訂當下有效的價格被收費，而促銷價只涵蓋第一個期間。在 Proton 以美元計價的合作夥伴頁面上，2 年 VPN Plus 方案前 24 個月收費 59.76 美元，之後每 12 個月以 83.88 美元續訂。價格會隨國家和幣別而變。",
+        "要停止續訂，條款要求你在續訂日之前取消。不必等到前一天。因為付費方案會持續到已付款期間結束，你可以訂閱後立刻取消，仍然能用完你付費的所有內容。",
+        "把下一個扣款日記在行事曆上，並提前幾天提醒自己。如果你是透過手機應用程式商店訂閱，請在商店的訂閱頁面查看日期。"
+      ]
+    },
+    {
+      "heading": "換方案，而不是離開",
+      "paragraphs": [
+        "如果方案對你來說太大或太小，可以直接更換，不必離開。條款說明，選擇新的付費方案時，訂閱會立即變更，前一個方案未使用的部分會成為帳戶餘額。較長的計費週期（例如從 1 個月改為 1 年）要等到目前週期結束才開始。依條款，退款期限是從首次購買起算。"
+      ]
+    },
+    {
+      "heading": "如果 Proton 沒有回覆",
+      "paragraphs": [
+        "支援表單是官方管道，說明中心表示付費方案包含優先支援和聊天。請保留購買證明、取消日期和申請退款的日期。這三個日期可以證明你的申請及時送出。",
+        "你所在國家的消費者保護規定，可能另有自己的期限。至於 Proton VPN 是不是值得把信用卡交給它的公司，請見[Proton VPN 安全嗎？](/zh-hant/reviews/proton-vpn-trust-zh-hant)。"
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "Proton VPN 會退款嗎？依條款，只要在首次購買後 30 天內完成取消並提出退款申請，就會全額退款。每位用戶限一次，且只適用於在 Proton 網站或應用程式訂閱的人。",
+        "如何取消 Proton VPN？在網站上登入，開啟 Subscription，進入 Cancel subscription，依步驟完成到提交原因為止。如果你是透過 Google Play 或 App Store 訂閱，請在商店的訂閱頁面取消。",
+        "我已經取消卻還是被扣款，該怎麼辦？先確認是誰向你收款。透過手機應用程式商店購買的訂閱，要在商店取消。如果在完成取消之後，款項仍來自 Proton，請附上日期和收據寫信給客服。",
+        "續訂的費用可以退款嗎？30 天規則從首次購買起算，續訂不在其內。超過這段期限後，條款說明任何退款都由公司自行決定。",
+        "退款要多久？條款說明在申請後 30 天內處理。說明中心給出的時間是：信用卡 5 至 10 個工作天，PayPal 1 至 2 個工作天。"
+      ],
+      "postParagraphs": [
+        "如果你還沒有訂閱，我們連結的規則請見[我們網站上的 Proton 頁面](/zh-hant/coupons/proton)。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "方案和價格顯示在按鈕開啟的頁面上。付款前請確認總額和續訂日期。",
+    "label": "查看 Proton VPN 方案",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "本文依據 Proton 的服務條款與說明中心撰寫。這個連結是聯盟連結，可能為我們帶來佣金。",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-trust-zh-hant"
+    },
+    {
+      "slug": "proton-black-friday-zh-hant"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "id": 1020,
+  "slug": "is-proton-vpn-safe",
+  "locale": "en",
+  "translationKey": "proton-vpn-e-confiavel",
+  "title": "Is Proton VPN safe? Who is behind it, what has been audited and what the free plan delivers",
+  "seoTitle": "Is Proton VPN safe? Company, audits and the free plan",
+  "type": "Editorial",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Who Proton is, what third parties have audited in Proton VPN, where to download it safely, what the free plan delivers and what a VPN does not do.",
+  "metaDescription": "Is Proton VPN safe? See who the company is, what the audits checked, whether the free plan can be trusted and what a VPN does not protect you from.",
+  "publishedAt": "November 17, 2026",
+  "publishedAtISO": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-vpn-e-confiavel-capa.webp",
+  "imageAlt": "The Proton logo beside the words Proton VPN, No-logs audit, next to an official photo of a hand holding a phone with the Proton VPN app.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Quick answer",
+      "paragraphs": [
+        "Proton VPN belongs to Proton AG, the Swiss company that also makes Proton Mail. The apps are open source, and the company publishes an independent audit of its no-logs policy every year. According to Proton, the free plan has no ads and no data limit. Support runs through a web form, and refunds follow the 30-day rule in the terms."
+      ]
+    },
+    {
+      "heading": "Who is behind Proton VPN",
+      "paragraphs": [
+        "Proton VPN is operated by Proton AG, a company based in Switzerland. According to [Proton's About page](https://proton.me/about), it was founded in 2014 by scientists who met at CERN, the European particle physics laboratory, and started with a crowdfunding campaign in which more than 10,000 people donated over half a million dollars. Proton VPN was launched in 2017, according to the company.",
+        "The same page says the primary shareholder of Proton AG is the Proton Foundation, a non-profit organization in Geneva, and that the company has no venture capital investors. Revenue, according to Proton, comes from subscriptions, and the free plan is paid for by subscribers.",
+        "We use Proton Mail, from the same company, on the free plan, and have for almost ten years. We have not used Proton VPN ourselves. So this article separates what Proton states from what a third party has checked, and leaves speed and performance out."
+      ]
+    },
+    {
+      "heading": "What has been audited, and by whom",
+      "paragraphs": [
+        "Four claims hold up Proton VPN's reputation: keeping no logs of what users do, having open-source apps, having those apps audited and having denied the identification orders it received. The table shows what we could open for each one.",
+        "The no-logs policy is audited by Securitum, an outside security testing company. Proton publishes the full reports from 2022 to 2026 on its [audit page](https://protonvpn.com/blog/no-logs-audit), five years in a row. We opened the 2026 report. It runs to 12 pages, is titled \"Verification of Proton VPN's No-Log policy\" and records an assessment carried out in May 2026 at Proton's office in Zurich, by two consultants, with samples of production servers, configuration files and internal documentation.",
+        "In the conclusion Proton reproduces, Securitum says the technical evidence reviewed \"did not indicate that the examined Proton VPN server infrastructure logs users' browsing activity, DNS queries, destination services, network traffic contents or user-identifiable connection metadata\", and that it did not identify persistent records that would let Proton tie a specific user to activity on a reviewed server.",
+        "An audit like this is a snapshot. It covers the servers and settings examined on those days. What the company does afterwards is outside it, which is why the value lies in repeating it every year, with the report made public."
+      ],
+      "comparisonTable": {
+        "caption": "What backs each claim about Proton VPN, from the sources we opened.",
+        "headers": [
+          "Claim",
+          "Who backs it",
+          "What we opened"
+        ],
+        "rows": [
+          [
+            "Keeps no activity logs",
+            "Securitum, in a yearly audit since 2022",
+            "The 2026 report, published by Proton"
+          ],
+          [
+            "Open-source apps",
+            "The code published on GitHub",
+            "The repositories for the Android, Windows, iPhone, Mac and Linux apps"
+          ],
+          [
+            "Audited apps",
+            "Proton, which cites a Securitum audit",
+            "Only Proton's page. It stays as Proton's claim"
+          ],
+          [
+            "Denied the orders to identify users",
+            "Proton, in its transparency report",
+            "The transparency report. The number is the company's own"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "The app code is on the ProtonVPN profile on GitHub. With open code, anyone with the knowledge can examine what the app does. The safety that brings depends on people actually examining it.",
+        "In its [transparency report](https://protonvpn.com/blog/transparency-report), Proton says it has received 458 orders approved by Swiss authorities since 2017, all of them to identify who was connected to a server at a given time, and that it denied every one because it does not have the logs. The number is Proton's own, with no outside verification."
+      ],
+      "image": {
+        "src": "/images/reviews/proton/proton-vpn-e-confiavel-auditoria-securitum-2026.webp",
+        "alt": "Cover of the Securitum security report with the subject Verification of Proton VPN's No-Log policy, carried out in Zurich.",
+        "caption": "The cover of Securitum's report on the no-logs policy, opened from the link Proton publishes."
+      }
+    },
+    {
+      "heading": "Is Proton VPN a virus? Is it dangerous to install?",
+      "paragraphs": [
+        "The official app is not a virus. It is in the official stores with Proton AG as the developer. The Google Play listing showed more than 100 million downloads.",
+        "The risk is outside the stores. An installer downloaded from a third-party site or an \"unlocked premium\" version is the route that causes trouble, because nobody knows what was put in the file. Download from protonvpn.com, Google Play or the App Store, and check that the developer is Proton AG before installing."
+      ]
+    },
+    {
+      "heading": "Is the free plan safe?",
+      "paragraphs": [
+        "The [free plan page](https://protonvpn.com/free-vpn) promises a service with no ads, no activity logs and no data limit. What changes compared with the paid plan is the size. The free plan connects 1 device at a time, and the pricing page mentions medium speed and servers in 10 countries, picked by the app.",
+        "Someone pays the bill for a free VPN. According to Proton, the free plan is funded by people who pay for the paid plans. That is the model it declares, with no outside verification."
+      ]
+    },
+    {
+      "heading": "What a VPN does not do",
+      "paragraphs": [
+        "A VPN hides your IP address from websites and protects the traffic between your device and its server. It has limits that apply to any brand."
+      ],
+      "bullets": [
+        "**It does not make anyone anonymous.** If you sign in to a social network with the VPN on, the account still identifies you.",
+        "**It does not protect against scams.** A fake link in a message or a cloned site where you type your password works the same way.",
+        "**It changes who sees the traffic.** Your internet provider stops seeing the sites you visit, and the VPN provider takes that place. That is why the no-logs audit matters.",
+        "**It does not change the law.** Proton itself says the service is intended for legal use. What is illegal without a VPN is still illegal with one."
+      ]
+    },
+    {
+      "heading": "How to reach Proton support",
+      "paragraphs": [
+        "Proton handles support through the [support form](https://protonvpn.com/support/contact) on its website. The help center says paid plans include priority support and chat.",
+        "For billing questions, write from the email address of the account that holds the subscription and keep the proof of purchase. If you subscribed inside the phone app, the store that billed you is the one that handles the cancellation."
+      ]
+    },
+    {
+      "heading": "Payment and refunds in short",
+      "paragraphs": [
+        "Proton's pricing page lists Visa, Mastercard and American Express cards and PayPal. The subscription renews by itself, at the price in force on the renewal date.",
+        "The terms give a full refund to anyone who cancels and asks for the money within 30 days of the initial purchase, once per user and only for subscriptions bought directly from Proton. The step by step is in [how to cancel Proton VPN and ask for a refund](/en/reviews/proton-vpn-refund-how-to-cancel)."
+      ]
+    },
+    {
+      "heading": "Frequently asked questions",
+      "bullets": [
+        "Is Proton VPN safe? The signs that can be checked are favorable. The company is identified, the app code is public and Securitum audits the no-logs policy every year, with a published report. No VPN protects against scams or makes anyone anonymous.",
+        "Is the free Proton VPN trustworthy? Proton says the free plan keeps no activity logs, has no ads and no data limit, and that it is funded by subscribers. The limits are 1 device and fewer countries.",
+        "Is Proton VPN a virus? No. The official app is on Google Play and the App Store with Proton AG as the developer. The risk lies in third-party installers and modified versions.",
+        "Which country is Proton from? Switzerland. The services are operated by Proton AG and, according to the company, the primary shareholder is the Proton Foundation, a non-profit organization in Geneva.",
+        "Does Proton VPN keep logs? Proton says it keeps no activity logs, and Securitum has audited that policy every year since 2022, with a published report."
+      ],
+      "postParagraphs": [
+        "The rules of our link and the plans are on [Proton's page on our site](/en/coupons/proton)."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "The plans, the free plan and the prices show on the page the button opens. Check the total and the renewal price before paying.",
+    "label": "See Proton VPN plans",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "Written from the pages and reports published by Proton. Our own use is limited to Proton Mail. The link is an affiliate link and may earn a commission.",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-refund-how-to-cancel"
+    },
+    {
+      "slug": "proton-black-friday"
+    }
+  ]
+}
