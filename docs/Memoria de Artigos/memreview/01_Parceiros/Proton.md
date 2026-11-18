@@ -51,6 +51,8 @@ em página nem em artigo sem exceção dada pelo Bruno. Preço só com a moeda e
 dólar, euro ou franco suíço. Nos artigos, usar `affiliate: "proton"` e link relativo para `/cupons/proton`,
 conforme `docs/CONTRATO-ARTIGO-AFILIADO.md`. Está em `INTERNATIONAL_STORES` desde 17/11/2026: o Bruno confirmou que o programa conta assinaturas de qualquer país, e as campanhas dos 10 idiomas podem levar os links da Proton.
 
+**Exceção da Black Friday (decisão do Bruno em 18/11/2026):** a página da loja e o banner dizem "até 75% OFF" em todas as linhas pelos links da Cecília: card de oferta, abertura, título, snippet, FAQ de Black Friday e cada um dos 5 produtos, nos 10 idiomas (#1163 e #1164). O número é o que o link abre, segundo o Bruno ("Tem que falar até 75% OFF em todas linhas da Proton pelos nossos links"); o link não é aberto por nós. A leitura pública de 18/11 mostrava até 70% (VPN Plus de 1 ano −70%, de 2 anos −65%) e −50% no Mail Plus e no Proton Unlimited. Na revisão da Redesenho, o "até 75%" por produto foi confirmado pelo Bruno ("Manter em cada produto"). Quando a campanha acabar, voltar ao texto sem desconto e apagar o banner `proton-black-friday-2026` (`docs/MANUTENCAO-MENSAL.md`).
+
 ---
 
 ## 4. Mídia da Marca
