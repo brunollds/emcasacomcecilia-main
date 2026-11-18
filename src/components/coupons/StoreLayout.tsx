@@ -5,6 +5,9 @@ import { LOCALES, LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
 import { CopyAndOpenStoreLink, CopyCodeButton, type CopyPlacement } from './CouponActions';
 import { BrandWatermark, FOCUS_RING, PRIMARY_ACTION, SECONDARY_ACTION } from './CouponBlocks';
 import type { CouponStoreCopy } from './couponStoreCopy';
+import { getArticleCopy } from '@/components/review/articleCopy';
+import { getCouponCopyLabels } from '@/components/review/couponCopyLocale';
+import type { StoreName } from '@/lib/storeNames';
 
 // Moldura das páginas de loja do Encarte, usada pela página de cada loja e pela da YesStyle.
 
@@ -168,25 +171,33 @@ export function CutoutCode({ code }: { code: string }) {
   );
 }
 
-// "Copiar e ir para a loja" e "Só copiar o código", embaixo do código no recorte.
+// "Copiar e ir para a loja" e "Só copiar o código", embaixo do código no recorte, com a linha de que o código fica
+// copiado. Quem volta da aba da loja encontra o aviso com o código e onde colar (o mesmo texto dos artigos).
 export function CutoutCodeActions({
   code,
-  brand,
+  store,
   href,
   copy,
+  locale,
+  kind,
 }: {
   code: string;
-  brand: string;
+  store: StoreName;
   href: string;
   copy: CouponStoreCopy;
+  locale: Locale;
+  // O CECILIA010 da YesStyle vai no campo Reward Code.
+  kind?: 'reward';
 }) {
+  const labels = getCouponCopyLabels(locale);
   return (
     <>
       <CopyAndOpenStoreLink
         code={code}
-        brand={brand}
+        brand={store.brand}
         href={href}
         copiedStatus={copy.copiedAndOpenedStatus(code)}
+        returnNotice={{ text: getArticleCopy(locale).copiedHint(store, kind), closeLabel: labels.closeNotice }}
         className={`mt-3.5 ${PRIMARY_ACTION}`}
         copiedChildren={
           <>
@@ -200,7 +211,7 @@ export function CutoutCodeActions({
       </CopyAndOpenStoreLink>
       <CopyCodeButton
         code={code}
-        brand={brand}
+        brand={store.brand}
         placement="coupon_page"
         copiedStatus={copy.copiedStatus(code)}
         className={`mt-2.5 ${SECONDARY_ACTION}`}
@@ -214,6 +225,7 @@ export function CutoutCodeActions({
         <Copy aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
         {copy.copyOnly}
       </CopyCodeButton>
+      <p className="mt-2 text-center text-[13px] leading-[18px] font-semibold text-marinho-suave">{labels.goHint(kind)}</p>
     </>
   );
 }

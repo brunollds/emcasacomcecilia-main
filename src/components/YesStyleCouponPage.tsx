@@ -107,7 +107,14 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
               </div>
             ))}
           </dl>
-          <CutoutCodeActions code={resolved.rewardCode} brand="YesStyle" href={resolved.affiliateUrl} copy={ui} />
+          <CutoutCodeActions
+            code={resolved.rewardCode}
+            store={{ slug: 'yesstyle', brand: 'YesStyle' }}
+            href={resolved.affiliateUrl}
+            copy={ui}
+            locale={resolved.locale}
+            kind="reward"
+          />
         </StoreCutout>
 
         <StoreContent>
