@@ -108,6 +108,8 @@ type CouponStoreLinkProps = {
     // A foto de produto com link (o `href` da imagem da seção, ReviewInlineImage).
     | 'review_image'
     | 'review_mobile_drawer'
+    // O link da loja no dock do celular, no lugar do botão de copiar, quando o artigo não tem código.
+    | 'review_mobile_dock'
     | 'home_store_banner';
   className?: string;
 };
