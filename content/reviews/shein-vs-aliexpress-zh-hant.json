@@ -1,0 +1,394 @@
+{
+  "id": 1007,
+  "slug": "shein-vs-aliexpress-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "shein-vs-aliexpress",
+  "title": "SHEIN 還是 AliExpress？台灣怎麼選：運費、退貨與稅費",
+  "seoTitle": "SHEIN 還是 AliExpress？台灣運費與退貨比較",
+  "type": "比較指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "比較 SHEIN 和 AliExpress 在台灣公布的運費、配送時間與退貨規則、稅費提醒，以及購買前在商品頁面要確認什麼。這篇文章不比較價格，也不比較品質。",
+  "metaDescription": "4CW5Y是SHEIN推薦碼，可享平台指定商品與促銷的折扣。比較SHEIN和AliExpress在台灣的運費、配送時間、退貨期限、稅費及購買前要確認的條件。",
+  "publishedAt": "2026年11月17日",
+  "publishedAtISO": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/shein/shein-ou-aliexpress-capa-zh-hant.webp",
+  "imageAlt": "商店照片中的四件單品：AliExpress 的黑色羅紋洋裝和條紋襯衫，SHEIN 的米色針織洋裝和條紋襯衫，旁邊是「SHEIN 還是 AliExpress？」的字樣",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "如果你要的商品在 AliExpress 上，而且商品頁面顯示了你能接受的送達時間，可以選 AliExpress。"
+    ],
+    "skipIf": [
+      "如果你想讓所有訂單都適用同一套退貨規則，就先別選 AliExpress：退貨條件和運費以每個商品頁面為準。"
+    ]
+  },
+  "affiliate": [
+    "shein",
+    "aliexpress"
+  ],
+  "editorialNote": "本文為編輯內容。透過本文的 SHEIN 和 AliExpress 連結購買，我們可能獲得傭金。團隊成員沒有使用過照片中的商品。",
+  "relatedArticles": [
+    {
+      "slug": "shein-vs-shopee-zh-hant"
+    },
+    {
+      "slug": "shein-trust-guide-zh-hant"
+    },
+    {
+      "slug": "shein-referral-code-zh-hant"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "快速解答",
+      "paragraphs": [
+        "SHEIN 台灣站在收到後 15 天內可退貨，每筆訂單第一次免費；AliExpress 的政策頁寫的是購買後到收貨後 15 天內，退貨運費視原因由賣家或買家負擔。AliExpress 的運費與時效以每個商品頁面為準。在 SHEIN App 或網站搜尋 4CW5Y，可享平台指定商品與促銷的折扣。"
+      ]
+    },
+    {
+      "heading": "台灣：SHEIN 和 AliExpress 並排比較",
+      "image": {
+        "src": "/images/reviews/shein/shein-home-tw-2026-10-12.webp",
+        "alt": "SHEIN 台灣網站（shein.tw）首頁，顯示當天的活動",
+        "caption": "SHEIN 台灣首頁（shein.tw），顯示當天的活動。",
+        "objectFit": "contain"
+      },
+      "paragraphs": [
+        "它們是兩家不同的公司。[SHEIN](https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20) 自稱是成立於 2012 年的時尚與生活風格零售商，賣自有品牌商品，也賣供應商網絡的商品。[AliExpress](https://s.click.aliexpress.com/e/_c37RSyBR) 是阿里巴巴集團的國際電商平台：每件商品由一位賣家上架，運費、時效和退貨條件各有不同。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "項目",
+          "SHEIN",
+          "AliExpress"
+        ],
+        "rows": [
+          [
+            "運費",
+            "超商取貨 NT$50、宅配 NT$60，未滿 NT$299 時收取；滿額免運費",
+            "按商品而定。我們打開的商品（洋裝和睡衣）免運費"
+          ],
+          [
+            "公布的時效",
+            "超商取貨 3–5 個工作日，宅配 3–6 個工作日",
+            "每個商品頁面各自的預計送達。我們打開的商品頁標示「12-16」，沒有標示單位，並附物流追蹤"
+          ],
+          [
+            "退貨",
+            "收到後 15 天內；每筆訂單第一次退貨免費，第二次起扣 NT$60",
+            "政策頁：購買後到收貨後 15 天內。我們打開的商品頁沒有標示免費退貨"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "SHEIN 一欄寫的是它為台灣公布的內容。AliExpress 一欄寫的是政策頁，以及兩件商品頁面上顯示的內容；別的商品可能有不同的運費和時效。時效不能當作衡量標準來比較，兩家都不保證比對方先到。"
+      ]
+    },
+    {
+      "heading": "商城還是平台：在商品頁面確認什麼",
+      "paragraphs": [
+        "在 AliExpress，條件由每個商品頁面決定，付款前頁面會逐項顯示。在 SHEIN，運費和退貨遵循 SHEIN 的政策。下單前請確認："
+      ],
+      "bullets": [
+        "**誰在賣：** AliExpress 看賣家的店鋪名稱和店鋪評價；SHEIN 的商品頁面同樣會顯示賣家和評價。",
+        "**運費和預計送達日期**，在 AliExpress 會隨商品和發貨地而變。",
+        "**AliExpress 的保證退款日期：** 包裹沒在這個日期前送到，可以申請全額退款。",
+        "**這件商品是否標示免費退貨**。沒有標示時，因個人原因退貨的運費由你負擔。",
+        "**含運費與稅費的總額**，在每家結帳頁面的最後一步確認，並核對收件人姓名和地址。"
+      ],
+      "postParagraphs": [
+        "想了解 SHEIN 由誰營運、聲譽有哪些已知情況，請看 [SHEIN 可靠嗎？](/zh-hant/reviews/shein-trust-guide-zh-hant)。"
+      ]
+    },
+    {
+      "heading": "稅費與 EZ WAY：以結帳頁面的總額為準",
+      "paragraphs": [
+        "SHEIN 台灣站的運送頁面請買家先註冊 EZ WAY 易利委（海關辨識收件人身分用），並提醒包裹可能產生稅金。"
+      ],
+      "bullets": [
+        "**SHEIN：** 運送頁面提醒可能有稅金，並請先註冊 EZ WAY 易利委；含稅費的總額以結帳頁面最後一步顯示的為準。",
+        "**AliExpress：** 每個商品頁面的價格和運費各有顯示。我們沒有在 AliExpress 公布的頁面上讀到台灣的稅費規則，所以本文不寫稅率或免稅額。"
+      ],
+      "postParagraphs": [
+        "付款前，在兩家的結帳頁面比較含運費與稅費的總金額。"
+      ]
+    },
+    {
+      "heading": "退貨：SHEIN 的規則和 AliExpress 的期限",
+      "bullets": [
+        "**SHEIN：** 台灣站在收到後 15 天內。每筆訂單第一次退貨免費，第二次起從退款中扣 NT$60。",
+        "**AliExpress，期限和個人原因：** 政策頁寫的是購買後到收貨後 15 天內。因個人原因退貨，運費由買家負擔，商品頁面標示免費退貨的除外（我們打開的商品頁沒有標示）。",
+        "**AliExpress，品質問題、損壞或與描述不符：** 退貨運費由賣家負擔。"
+      ],
+      "postParagraphs": [
+        "兩家的服飾都要求全新、未穿、未洗並帶吊牌；AliExpress 還要求貼有衛生貼。AliExpress 的免費退貨按商品標示，所以付款前請看商品頁面。"
+      ]
+    },
+    {
+      "heading": "依購物需求怎麼選",
+      "postParagraphs": [
+        "如果想要不必看商品條件、有固定天數可以退貨，SHEIN 在台灣是收到後 15 天內（可退貨的商品）。如果要買的商品在 AliExpress 上，付款前先看商品頁面：賣家、預計送達日期、保證退款日期和是否標示免費退貨。運費和稅費以兩家結帳頁面的總額為準。"
+      ]
+    },
+    {
+      "heading": "兩家各賣什麼：一份樣本",
+      "paragraphs": [
+        "我們從兩家平台各挑一件相似的單品，依服飾與配件分成八個類別並排呈現。它們是同一類別裡不同的單品：這份樣本只展示各平台上能找到哪一類單品，不比較價格，也不比較品質。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "alt": "模特兒穿著紅色背心加短褲的睡衣，領口有蕾絲，AliExpress 照片",
+          "caption": "AliExpress：領口有蕾絲的背心加短褲睡衣。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c2IwOmpF",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "alt": "模特兒穿著粉色背心加短褲的睡衣，印有紅色愛心圖案，SHEIN 照片",
+          "caption": "SHEIN：印有愛心圖案的背心加短褲睡衣。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "alt": "模特兒穿著藍白條紋長袖襯衫，袖子捲起，胸前有口袋，AliExpress 照片",
+          "caption": "AliExpress：附胸前口袋的長袖條紋襯衫。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c2ztzRzr",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "alt": "模特兒穿著淺藍條紋、較寬鬆的長袖襯衫，SHEIN 照片",
+          "caption": "SHEIN：較寬鬆的長袖條紋襯衫。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "alt": "模特兒穿著藏青色緞面短袖圓領上衣，袖口捲起，AliExpress 照片",
+          "caption": "AliExpress：較寬鬆的短袖緞面上衣。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c2ulsYCh",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "alt": "模特兒穿著白色 V 領 T 恤搭配牛仔褲，SHEIN 照片",
+          "caption": "SHEIN：白色棉質 V 領 T 恤。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "alt": "模特兒穿著黑色短版羅紋洋裝，高領長袖，AliExpress 照片",
+          "caption": "AliExpress：高領長袖短版羅紋洋裝。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c4NO4eSN",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "alt": "模特兒穿著羅紋針織的米色短袖洋裝，SHEIN 照片",
+          "caption": "SHEIN：米色短袖針織洋裝。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "alt": "布質肩帶、側邊有金色鏈條的黑色菱格肩背包，AliExpress 的照片",
+          "caption": "AliExpress：金色鏈條裝飾的菱格肩背包。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c4l4snAh",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "alt": "模特兒肩上背著深棕色柔軟合成材質的肩背包，SHEIN 照片",
+          "caption": "SHEIN：柔軟合成材質的肩背包。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "alt": "模特兒穿著藍色交叉腰無縫緊身褲，AliExpress 照片",
+          "caption": "AliExpress：交叉腰無縫緊身褲。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c39SAC9x",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-legging.webp",
+          "alt": "模特兒坐著，穿著灰藍色無縫緊身褲，SHEIN 照片",
+          "caption": "SHEIN：無縫緊身褲。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "alt": "模特兒穿著帶破洞和毛邊褲腳的寬管七分牛仔褲，AliExpress 照片",
+          "caption": "AliExpress：帶破洞的寬管七分牛仔褲。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c3LfJg8p",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "alt": "模特兒穿著淺藍色寬管牛仔褲，SHEIN 照片",
+          "caption": "SHEIN：寬管牛仔褲。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "alt": "三條鬆緊帶加魔鬼氈的棕色與米色運動鞋，AliExpress 的照片",
+          "caption": "AliExpress：鬆緊帶加魔鬼氈的運動鞋。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c4qgkqgv",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "alt": "一雙黑色尖頭無跟樂福鞋，放在白色布料上，SHEIN 照片",
+          "caption": "SHEIN：尖頭樂福鞋。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C",
+          "store": "shein"
+        }
+      ],
+      "comparisonTable": {
+        "headers": [
+          "類別",
+          "AliExpress",
+          "SHEIN"
+        ],
+        "rows": [
+          [
+            "睡衣",
+            "[領口有蕾絲的背心加短褲睡衣](https://s.click.aliexpress.com/e/_c2IwOmpF)",
+            "[背心加愛心條紋短褲的睡衣](https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C)"
+          ],
+          [
+            "襯衫",
+            "[附胸前口袋的長袖條紋襯衫](https://s.click.aliexpress.com/e/_c2ztzRzr)",
+            "[較寬鬆的長袖條紋襯衫](https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C)"
+          ],
+          [
+            "T 恤",
+            "[較寬鬆的短袖緞面上衣](https://s.click.aliexpress.com/e/_c2ulsYCh)",
+            "[白色棉質 V 領 T 恤](https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C)"
+          ],
+          [
+            "洋裝",
+            "[高領長袖短版羅紋洋裝](https://s.click.aliexpress.com/e/_c4NO4eSN)",
+            "[米色短袖針織洋裝](https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C)"
+          ],
+          [
+            "包包",
+            "[金色鏈條裝飾的菱格肩背包](https://s.click.aliexpress.com/e/_c4l4snAh)",
+            "[柔軟合成材質的肩背包](https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C)"
+          ],
+          [
+            "運動服",
+            "[交叉腰無縫緊身褲](https://s.click.aliexpress.com/e/_c39SAC9x)",
+            "[無縫緊身褲](https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C)"
+          ],
+          [
+            "牛仔褲",
+            "[帶破洞的寬管七分牛仔褲](https://s.click.aliexpress.com/e/_c3LfJg8p)",
+            "[寬管牛仔褲](https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C)"
+          ],
+          [
+            "鞋子",
+            "[鬆緊帶加魔鬼氈的運動鞋](https://s.click.aliexpress.com/e/_c4qgkqgv)",
+            "[尖頭樂福鞋](https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C)"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "兩家平台的商品標題都很長，塞滿搜尋用的關鍵字，樣本改用簡短的名稱。布料、尺寸和賣家，請看商品頁面。"
+      ]
+    },
+    {
+      "heading": "合作與推薦碼",
+      "paragraphs": [
+        "Cecília 是 SHEIN 和 AliExpress 的聯盟會員。透過本文連結購買時，她可能獲得傭金，你不需要多付費。這不會改變答案：怎麼選，取決於你要買什麼。",
+        "4CW5Y 是 Cecília 在 SHEIN 的推薦碼，確實有折扣，適用於 SHEIN 精選商品與促銷；折多少、哪些商品，由 SHEIN 決定。請透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋代碼；不是輸入到優惠券欄位。AliExpress 沒有我們的代碼。"
+      ],
+      "links": [
+        {
+          "label": "查看 4CW5Y 推薦碼與 SHEIN 的活動",
+          "href": "/zh-hant/coupons/shein"
+        },
+        {
+          "label": "SHEIN 推薦碼：在哪裡輸入、怎麼用",
+          "href": "/zh-hant/reviews/shein-referral-code-zh-hant"
+        },
+        {
+          "label": "打開 AliExpress",
+          "href": "https://s.click.aliexpress.com/e/_c37RSyBR",
+          "sponsored": true,
+          "store": "aliexpress"
+        },
+        {
+          "label": "SHEIN 還是 Temu？新加坡和馬來西亞怎麼選",
+          "href": "/zh-hant/reviews/shein-vs-shopee-zh-hant"
+        },
+        {
+          "label": "AliExpress 怎麼運作：規則與連結",
+          "href": "/zh-hant/coupons/aliexpress"
+        }
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "SHEIN 和 AliExpress 是同一家嗎？ 不是。SHEIN 自稱是 2012 年成立、有自有品牌的時尚零售商；AliExpress 是阿里巴巴集團的國際電商平台，每位賣家有自己的店鋪。",
+        "SHEIN 和 AliExpress 哪個比較快到貨？ 要看訂單，AliExpress 還要看商品頁面。SHEIN 在台灣公布超商取貨 3–5 個工作日、宅配 3–6 個工作日；AliExpress 顯示每件商品自己的預計送達。付款前兩邊都看一下。",
+        "SHEIN 和 AliExpress 哪個比較便宜？ 要看商品和賣家。影響總額的是運費、稅費，以及 SHEIN 推薦碼的折扣。請比較結帳頁面最後的總額。",
+        "AliExpress 買衣服可靠嗎？ AliExpress 的政策寫明，包裹沒在保證日期前送到可以申請全額退款，全新、未穿、帶吊牌的衣服可以退貨。",
+        "4CW5Y 有折扣嗎？ 有。它是 Cecília 在 SHEIN 的推薦碼，適用於精選商品與促銷的折扣；折多少、哪些商品，由 SHEIN 決定。請在 App 或網站搜尋代碼，不是輸入到優惠券欄位。"
+      ]
+    }
+  ]
+}

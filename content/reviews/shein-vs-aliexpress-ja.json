@@ -1,0 +1,389 @@
+{
+  "id": 1005,
+  "slug": "shein-vs-aliexpress-ja",
+  "locale": "ja",
+  "translationKey": "shein-vs-aliexpress",
+  "title": "SHEIN と AliExpress どちらを選ぶ？送料・返品・関税と、買う前に確認すること",
+  "seoTitle": "SHEIN と AliExpress の選び方：送料・返品・関税",
+  "type": "比較ガイド",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "SHEIN と AliExpress が日本向けに公表している送料、お届け日数、返品を並べて比べ、関税の目安と、買う前に各商品ページで確認することをまとめました。",
+  "metaDescription": "4CW5YはSHEINが選ぶ商品やキャンペーンで使える紹介コード。SHEINとAliExpressの日本向け送料、返品、関税を比較し、買う前の確認点を紹介します。",
+  "publishedAt": "2026年11月17日",
+  "publishedAtISO": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/shein/shein-ou-aliexpress-capa-ja.webp",
+  "imageAlt": "ショップの写真に写った4点のアイテム。AliExpressの黒いリブ編みワンピースとストライプシャツ、SHEINのクリーム色のニットワンピースとストライプシャツ。横に「SHEIN と AliExpress、どっち？」の文字",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "ほしい商品が AliExpress にあり、商品ページに返品無料の表示と、都合に合うお届け予定が出ているなら、AliExpress が候補になります。"
+    ],
+    "skipIf": [
+      "届いてからゆっくり決めたいのに、商品ページに返品無料の表示がない場合は、AliExpress は見送りましょう。返送料は自己負担になります。"
+    ]
+  },
+  "affiliate": [
+    "shein",
+    "aliexpress"
+  ],
+  "editorialNote": "この記事は編集コンテンツです。SHEIN と AliExpress のリンクから購入された場合、報酬を受け取ることがあります。スタッフは誰も、掲載した商品を使っていません。",
+  "relatedArticles": [
+    {
+      "slug": "shein-vs-temu-ja"
+    },
+    {
+      "slug": "shein-trust-guide-ja"
+    },
+    {
+      "slug": "shein-referral-code-ja"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "まずは結論",
+      "paragraphs": [
+        "返品期限は、SHEINが購入から40日以内です。AliExpressは日本向けの規定で、国内の出品者なら配達後15日以内、海外の出品者なら注文から90日以内です。送料とお届け日数は商品ごとに変わります。SHEINでは、アプリやサイトで4CW5Yを検索すると割引を受けられます。"
+      ]
+    },
+    {
+      "heading": "日本向けの SHEIN と AliExpress を並べて比べる",
+      "image": {
+        "src": "/images/reviews/shein/shein-home-jp-2026-10-12.webp",
+        "alt": "SHEIN 日本サイトのトップページ。黒いヘッダーに日本語のカテゴリーメニューが並び、その下にキャンペーンのバナーと、レディース、キッズ、メンズなどのカテゴリーのアイコンが表示されている",
+        "caption": "SHEIN 日本サイト（jp.shein.com）のトップページ。撮影時のキャンペーンが表示されています。",
+        "objectFit": "contain",
+        "aspectRatio": 1.8605
+      },
+      "paragraphs": [
+        "二つは別の会社です。[SHEIN](https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20)は、2012年創業のファッション・ライフスタイルの小売業者として、自社ブランドの商品と、取引先のネットワークの商品を扱っています。[AliExpress](https://s.click.aliexpress.com/e/_c37RSyBR)は、アリババグループの国際マーケットプレイスで、商品ごとに出品者がいて、送料、お届け日数、返品条件もそれぞれ異なります。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "項目",
+          "SHEIN",
+          "AliExpress"
+        ],
+        "rows": [
+          [
+            "送料",
+            "お急ぎ便：2,000円未満は500円、2,000円以上は無料",
+            "商品ごとに異なります。開いた商品では無料"
+          ],
+          [
+            "公表されているお届け日数",
+            "注文ごとに計算されるお届け予定（毎日変わる）",
+            "商品ごとの予定と、荷物が届かない場合に全額返金される期限の日付"
+          ],
+          [
+            "返品",
+            "購入から40日以内。同じ注文の1回目は無料",
+            "国内の出品者は配達後15日以内、海外の出品者は注文から90日以内。返品無料は、商品ページに表示がある場合のみ"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "SHEIN の欄には、お店が日本向けに公開している内容を載せています。AliExpress の表には、日本向けの返品規定と、ある商品のページの表示（2026年11月17日時点）を載せています。別の商品は、送料もお届け日数も違うことがあります。お届け日数は比較の物差しにならず、どちらが先に届くかを保証するものでもありません。"
+      ]
+    },
+    {
+      "heading": "お店か、マーケットプレイスか：商品ページで確認すること",
+      "paragraphs": [
+        "AliExpress では商品ごとの条件が適用され、商品ページで支払い前に確認できます。SHEIN では、送料と返品はお店の規定に従います。買う前に、次の点を確認しましょう。"
+      ],
+      "bullets": [
+        "**誰が売っているか：** AliExpress では出品者のお店の名前と評価、SHEIN でも商品ページで販売元と評価を確認できます。",
+        "**送料とお届け予定：** AliExpress では、商品や発送元によって変わります。",
+        "**返金が保証される日：** AliExpress で荷物がその日までに届かない場合は、全額の返金を申請できます。",
+        "**返品無料かどうかと、その日数：** 表示がない場合、AliExpress で気が変わっての返品は返送料が自己負担です。",
+        "**合計金額：** 各お店の支払い画面の最後で、送料と税金を含めて確認します。注文の名前と住所も正しく入力しましょう。"
+      ],
+      "postParagraphs": [
+        "SHEIN を運営している会社と評判については、[SHEIN は安全？信頼できる？](/ja/reviews/shein-trust-guide-ja)にまとめています。"
+      ]
+    },
+    {
+      "heading": "税金はどちらで買っても同じです",
+      "paragraphs": [
+        "税関（Japan Customs）によると、課税価格（関税や消費税を計算するもとになる金額）の合計額が1万円以下の物品の輸入は、関税と消費税が免税されます。ただし、「関税を免税しない物品」が定められていて、税関はその主なものとして、革製のカバン、ハンドバッグ、手袋など、編物（ニット）製の衣類（Tシャツ、セーターなど）、スキー靴、革靴、本底（靴底）が革製の履物などを挙げています（税関のカスタムスアンサー1006）。",
+        "これは SHEIN で買っても AliExpress で買っても同じです。支払い画面で、税金を含めた合計金額を確認してください。"
+      ]
+    },
+    {
+      "heading": "返品：SHEIN の規定と AliExpress の期限",
+      "bullets": [
+        "**SHEIN：** 購入から40日以内。同じ注文の1回目の返品は無料で、2回目以降は SHEIN が返金額から1,200円を差し引きます。対象外の商品もあるので、SHEIN 日本の返品ポリシーで確認してください。",
+        "**AliExpress、気が変わった場合：** 国内の出品者なら購入から配達後15日以内、海外の出品者なら注文から90日以内です。返送料は自己負担ですが、商品ページに返品無料の表示がある場合は無料です（開いた商品では15日）。",
+        "**AliExpress、不良品・破損・商品説明との相違の場合：** 返品の費用は出品者が負担します。"
+      ],
+      "postParagraphs": [
+        "どちらも、衣類は新品で、使用や洗濯をしていない、タグ付きの状態でないと返品できません。AliExpress では、衛生シールも必要です。SHEIN の期限は、返品できる商品に適用されます。AliExpress の返品無料は商品ごとの条件なので、支払い前にページで確認してください。"
+      ]
+    },
+    {
+      "heading": "買うものに合わせた選び方",
+      "paragraphs": [
+        "出品ごとの条件に左右されない返品期限がよければ、SHEIN は返品できる商品なら購入から40日以内です。ほしい商品が AliExpress にある場合は、支払い前に商品ページで、出品者、お届け予定、返金が保証される日、返品無料の表示を確認しましょう。お届け日と合計金額は、両方の支払い画面で比べてください。"
+      ]
+    },
+    {
+      "heading": "各お店で売られているもの：サンプル",
+      "paragraphs": [
+        "衣類とアクセサリーの8カテゴリーで、それぞれのお店から似た商品を1点ずつ選びました。同じカテゴリーの別の商品です。このサンプルは、各お店でどんな種類の商品が見つかるかを示すもので、価格や品質を比べるものではありません。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "alt": "赤いタンクトップとショートパンツのパジャマ（デコルテにレース付き）を着たモデル。AliExpressの写真",
+          "caption": "AliExpress: タンクトップとショートパンツのパジャマ、デコルテにレース付き。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c2IwOmpF",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "alt": "赤いハート柄のタンクトップとショートパンツのピンクのパジャマを着たモデル。SHEINの写真",
+          "caption": "SHEIN: ハート柄のタンクトップとショートパンツのパジャマ。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "alt": "青と白のストライプの長袖シャツ（袖を折り返し、胸ポケット付き）を着たモデル。AliExpressの写真",
+          "caption": "AliExpress: ポケット付きの長袖ストライプシャツ。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c2ztzRzr",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "alt": "水色のストライプの、ゆったりした長袖シャツを着たモデル。SHEINの写真",
+          "caption": "SHEIN: ゆったりした長袖ストライプシャツ。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "alt": "紺色のサテンの半袖ブラウス（袖を折り返した丸首）を着たモデル。AliExpressの写真",
+          "caption": "AliExpress: ゆったりした半袖サテンブラウス。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c2ulsYCh",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "alt": "Vネックの白いTシャツとジーンズを着たモデル。SHEINの写真",
+          "caption": "SHEIN: Vネックの白い綿Tシャツ。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "alt": "黒いリブ編みの短丈ワンピース（ハイネック、長袖）を着たモデル。AliExpressの写真",
+          "caption": "AliExpress: ハイネックで長袖の短丈リブワンピース。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c4NO4eSN",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "alt": "リブ編みのクリーム色の半袖ワンピースを着たモデル。SHEINの写真",
+          "caption": "SHEIN: クリーム色の半袖ニットワンピース。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "alt": "黒いキルティングのショルダーバッグ。布のストラップと、側面に金色のチェーン付き。AliExpressの写真",
+          "caption": "AliExpress: 金色のチェーン付きのキルティングショルダーバッグ。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c4l4snAh",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "alt": "柔らかい合成素材の濃い茶色のショルダーバッグを肩にかけたモデル。SHEINの写真",
+          "caption": "SHEIN: 柔らかい合成素材のショルダーバッグ。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "alt": "青いシームレスレギンス（クロスウエスト）をはいたモデル。AliExpressの写真",
+          "caption": "AliExpress: クロスウエストのシームレスレギンス。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c39SAC9x",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-legging.webp",
+          "alt": "グレーがかった青のシームレスレギンスをはいて座っているモデル。SHEINの写真",
+          "caption": "SHEIN: シームレスレギンス。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "alt": "裂け目と裾のほつれがあるワイドなクロップドジーンズをはいたモデル。AliExpressの写真",
+          "caption": "AliExpress: 裂け目のあるワイドなクロップドジーンズ。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c3LfJg8p",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "alt": "水色のワイドレッグジーンズをはいたモデル。SHEINの写真",
+          "caption": "SHEIN: ワイドレッグジーンズ。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "alt": "3本の伸縮ストラップとベルクロ留めが付いた、茶色とクリーム色のスニーカー。AliExpressの写真",
+          "caption": "AliExpress: 伸縮ストラップとベルクロ留めのスニーカー。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c4qgkqgv",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "alt": "白い布の上に置かれた、ヒールのない黒い先の細いローファー一足。SHEINの写真",
+          "caption": "SHEIN: 先の細いローファー。",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C",
+          "store": "shein"
+        }
+      ],
+      "comparisonTable": {
+        "headers": [
+          "カテゴリー",
+          "AliExpress",
+          "SHEIN"
+        ],
+        "rows": [
+          [
+            "パジャマ",
+            "[タンクトップとショートパンツのパジャマ（デコルテにレース付き）](https://s.click.aliexpress.com/e/_c2IwOmpF)",
+            "[タンクトップと、ハート柄のストライプのショートパンツのパジャマ](https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C)"
+          ],
+          [
+            "シャツ",
+            "[ポケット付きの長袖ストライプシャツ](https://s.click.aliexpress.com/e/_c2ztzRzr)",
+            "[ゆったりした長袖ストライプシャツ](https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C)"
+          ],
+          [
+            "Tシャツ",
+            "[ゆったりした半袖サテンブラウス](https://s.click.aliexpress.com/e/_c2ulsYCh)",
+            "[Vネックの白い綿Tシャツ](https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C)"
+          ],
+          [
+            "ワンピース",
+            "[ハイネックで長袖の短丈リブワンピース](https://s.click.aliexpress.com/e/_c4NO4eSN)",
+            "[クリーム色の半袖ニットワンピース](https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C)"
+          ],
+          [
+            "バッグ",
+            "[金色のチェーン付きのキルティングショルダーバッグ](https://s.click.aliexpress.com/e/_c4l4snAh)",
+            "[柔らかい合成素材のショルダーバッグ](https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C)"
+          ],
+          [
+            "ジム・スポーツ",
+            "[クロスウエストのシームレスレギンス](https://s.click.aliexpress.com/e/_c39SAC9x)",
+            "[シームレスレギンス](https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C)"
+          ],
+          [
+            "ジーンズ",
+            "[裂け目のあるワイドなクロップドジーンズ](https://s.click.aliexpress.com/e/_c3LfJg8p)",
+            "[ワイドレッグジーンズ](https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C)"
+          ],
+          [
+            "靴",
+            "[伸縮ストラップとベルクロ留めのスニーカー](https://s.click.aliexpress.com/e/_c4qgkqgv)",
+            "[先の細いローファー](https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C)"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "どちらのお店も、出品タイトルは長く、検索用の言葉がたくさん入っています。サンプルでは短い名前にしました。生地、サイズ、販売元は商品ページでご確認ください。"
+      ]
+    },
+    {
+      "heading": "提携と紹介コード",
+      "paragraphs": [
+        "Cecília は SHEIN と AliExpress のアフィリエイトに参加しています。この記事のリンクから購入されると、あなたの負担なしに報酬を受け取ることがあります。それでも答えは変わりません。何を買うかによって選ぶお店は変わります。",
+        "4CW5Y は、Cecília の SHEIN の紹介コードで、SHEIN が選んだ商品とキャンペーンで割引が受けられます。割引額と対象商品は SHEIN が決めます。Cecília のリンクから SHEIN を開き、アプリまたはサイトでコードを検索してください（クーポン欄ではありません）。AliExpress には、私たちのコードはありません。"
+      ],
+      "links": [
+        {
+          "label": "4CW5Y の紹介コードと SHEIN のキャンペーンを見る",
+          "href": "/ja/coupons/shein"
+        },
+        {
+          "label": "SHEIN の紹介コード：入力する場所と使い方",
+          "href": "/ja/reviews/shein-referral-code-ja"
+        },
+        {
+          "label": "AliExpress を開く",
+          "href": "https://s.click.aliexpress.com/e/_c37RSyBR",
+          "sponsored": true,
+          "store": "aliexpress"
+        },
+        {
+          "label": "SHEIN と Temu どちらを選ぶ？",
+          "href": "/ja/reviews/shein-vs-temu-ja"
+        },
+        {
+          "label": "AliExpress の仕組み：ルールとリンク",
+          "href": "/ja/coupons/aliexpress"
+        }
+      ]
+    },
+    {
+      "heading": "よくある質問",
+      "bullets": [
+        "SHEIN と AliExpress は同じですか？ いいえ。SHEIN は2012年創業の、自社ブランドを持つファッション小売業者です。AliExpress はアリババグループの国際マーケットプレイスで、出品者ごとにお店があります。",
+        "SHEIN と AliExpress はどちらが早く届きますか？ 注文と、AliExpress では商品によって変わります。SHEIN は注文ごとに計算したお届け予定を、AliExpress は商品ごとの予定を表示します。支払う前に両方を確認してください。",
+        "SHEIN と AliExpress はどちらが安いですか？ 商品と出品者によります。合計金額は、送料、税金、SHEIN では紹介コードの割引で変わります。支払い画面の最後で合計金額を比べてください。",
+        "AliExpress は衣類を買っても信頼できますか？ AliExpress の規定では、保証された日までに荷物が届かない場合は全額が返金され、新品で未使用のタグ付きの衣類は返品できます。この記事では、この規定の範囲でのみ説明しています。",
+        "4CW5Y で割引を受けられますか？ はい。Cecília の SHEIN の紹介コードで、商品とキャンペーンの一部で割引を受けられます。割引額と対象商品は SHEIN が決めます。アプリやサイトで検索してください（クーポン欄ではありません）。"
+      ]
+    }
+  ]
+}
