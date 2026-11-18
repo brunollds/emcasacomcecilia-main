@@ -5,7 +5,7 @@ com o #1128). Este arquivo junta o que foi lido para o pacote inicial pedido pel
 confiável, primeira compra, é boa e Black Friday. Leituras de 17/11/2026 no navegador do app, sem login e sem
 finalizar compra. Os briefings são do Job 1. Sem GO de redação ainda: o Bruno pediu a pesquisa semente.
 
-## 1. Pacote inicial (esperam briefing)
+## 1. Pacote inicial (briefings de 18/11)
 
 | Código | Pauta | Slug sugerido | Modelo | Busca (autocompletar de 17/11) |
 |---|---|---|---|---|
@@ -120,8 +120,8 @@ Bebidas - Suplementos Alimentares e Fórmulas, site rituaria.com.br, 5 anos no R
   de Black Friday (`/pages/black-friday` e `/collections/black-friday` dão 404).
 - A promoção vive em `/collections/leve-3-pague-2`: "Promo Relâmpago: Leve 3, pague 2. Ao adicionar 3 suplementos no
   seu carrinho, o de menor valor sai de graça." Sem data de fim e sem regulamento na página.
-- **Sem leitura de como a promoção se comporta com o EMCASA** (seção 2). É a pergunta central da RT6 e pede um
-  carrinho de teste com três itens da coleção, com e sem o código, antes do texto.
+- **No carrinho de teste de 18/11, o EMCASA somou com o "Leve 3, Pague 2"** (seção 9.1): R$ 174,70, R$ 129,80 com o
+  item de menor valor grátis e R$ 116,82 com o código. A promoção só aparece no checkout próprio.
 - O nosso código entrou sobre preço promocional em 17/11 (dossiê). Refazer na semana de 27/11 antes de afirmar para
   o dia.
 - A RT6 não crava datas. Se o Bruno tiver o calendário da parceira, entra (seção 7).
@@ -163,3 +163,64 @@ Bebidas - Suplementos Alimentares e Fórmulas, site rituaria.com.br, 5 anos no R
 - **Kit de melasma e clareador** ("rituaria melasma funciona", "resenha rituaria melasma"): alegação de tratamento de
   pele. Só com uso próprio e atribuição à marca; sem isso, fora.
 - **"Rituária emagrece":** não vira pauta. A resposta honesta cabe num parágrafo da RT5.
+
+## 9. Leitura do Job 1 (18/11/2026)
+
+Feita antes dos briefings RT1 a RT6, sem login, sem dado pessoal e sem finalizar compra; o carrinho foi esvaziado no
+fim. Vale por cima das seções 2 a 5 onde as duas falam do mesmo assunto.
+
+### 9.1. "Leve 3, Pague 2" com e sem o EMCASA (carrinho de teste, 18/11)
+
+- Coleção `/collections/leve-3-pague-2` (leitura do `products.json`): 21 produtos, todos suplementos (Prebiótica, 4Mag,
+  NAC, Brain, Complexo B, Ômega 3, Fabulosa, Mov Nutri, Juicy Beat, Greens, Maca Peruana, Femme Protein, Neuro Ômega 3,
+  Imunidade, Antioxi Nutri, Vitamina D3, Própolis Gummy (esgotada), Femme Nutri, Coenzima Q10, Dermactive).
+- Carrinho: Fórmula NAC - 30 dias (R$ 69,90), Fórmula 4Mag (Magnésio) - 30 dias (R$ 59,90) e Fórmula Complexo B -
+  60 dias (R$ 44,90), todos no preço promocional da vitrine.
+- O carrinho da Shopify (`/cart.js`) não mostra desconto nenhum: R$ 174,70. O `/cart` redireciona direto para o
+  checkout próprio (`seguro.rituaria.com.br`), e é lá que a promoção aparece.
+- **Sem código:** Produtos R$ 174,70; Descontos "L3P2 SUPLEMENTOS" − R$ 44,90 (o Complexo B, o de menor valor, sai a
+  R$ 0,00); **Total R$ 129,80.**
+- **Com o EMCASA** (campo "Tem um cupom?", "Adicionar"): aviso "Desconto (- R$ 12,98)"; Descontos − R$ 57,88 (L3P2
+  − R$ 44,90 + "Cupom de desconto" − R$ 12,98); **Total R$ 116,82.** Os 10% entram sobre o total já com o item grátis
+  (10% de R$ 129,80 = R$ 12,98).
+- **Conclusão: no teste de 18/11, o EMCASA somou com o "Leve 3, Pague 2".** Refazer na semana de 27/11 antes de afirmar
+  para o dia.
+- O resumo seguiu mostrando "10% de cashback para a próxima compra" com o cupom aplicado (o mesmo de 17/11); pelos
+  termos, desconto e cashback não são cumulativos. Não afirmar que os dois valem na mesma compra.
+- O checkout traz, escondido na página, um aviso de cupom de primeira compra da loja ("Você ganhou um cupom para sua 1a
+  compra!"). Não citar (regra do pacote).
+- Print do resumo com os dois descontos e o total guardado fora do repositório (sem dado pessoal; o cursor cobre o
+  "Adicionar"): o Job 6 decide se vira imagem do corpo da RT6 ou se a captura é refeita no reteste de 27/11.
+
+### 9.2. CNPJ do rodapé (18/11)
+
+- Rodapé do site: **"BEAUTY HUB VAREJO LTDA - CNPJ 60.453.162/0001-07"**, Avenida Civit I, nº 1795, Galpões Mod. 4 e 5,
+  Sala 49, Barro Branco, Serra/ES, CEP 29170-740. O JSON-LD da home traz `legalName` "Beauty Hub Varejo LTDA".
+- Perfil do Reclame Aqui: CNPJ 60.453.162/**0003-79**. A raiz (60.453.162) é a mesma do rodapé: matriz (/0001) e outro
+  estabelecimento da mesma empresa (/0003). Pode ser escrito assim ("o mesmo CNPJ-raiz da empresa do rodapé"), sem
+  explicar a relação com a Maga Comércio de Produtos Cosméticos Ltda, que só aparece nos termos (não lida).
+
+### 9.3. Anvisa (18/11)
+
+- A página Sobre Nós tem só o título "REGISTRO NA ANVISA", sem número, sem produto e sem texto.
+- Das 146 descrições de produto do site (`products.json`), só uma cita a Anvisa: o kit `ritual-1x` diz "Fórmulas
+  registradas na ANVISA e dermatologicamente testadas". Nenhuma traz número de processo, fabricante ou CNPJ.
+- Dados abertos da Anvisa (base de 17/11/2026): `DADOS_ABERTOS_ALIMENTO.csv` (alimentos com registro, por CNPJ do
+  fabricante), `CICLO_ANALISE_PETICOES_ALIMENTO.CSV` e `CICLO_ANALISE_PETICOES_COSMETICO.CSV`: nenhuma linha com
+  "Rituária", "Beauty Hub", "Maga" ou a raiz 60.453.162. Esses arquivos listam o fabricante, não a marca, e o produto
+  com nome genérico ("SUPLEMENTO ALIMENTAR EM CÁPSULA"); sem o rótulo (que diz quem fabrica), não dá para ligar um
+  produto da Rituária a uma linha.
+- **Conclusão: a conferência produto a produto não fechou.** Falta o rótulo de cada produto (fabricante e CNPJ do
+  fabricante, e a frase de regularização que o rótulo traz). As imagens da página do 4Mag não mostram o rótulo inteiro.
+  A consulta pública do portal da Anvisa pediu verificação anti-robô na rodada da L'Amazonie e não foi tentada.
+- **Regra para os textos:** não escrever "registrado", "aprovado pela Anvisa" nem "notificado" para produto nenhum.
+  Dizer o que se leu: o site cita registro na Anvisa sem número; a consulta depende do rótulo; e explicar, com fonte
+  oficial lida no dia da redação, que suplemento alimentar em regra não precisa de registro (a regra exata e as
+  exceções, como probióticos e enzimas, saem da página da Anvisa, não da memória). `[PENDENTE: rótulo]` na RT3.
+
+### 9.4. Não lido (segue pendente)
+
+- Lojas oficiais no Mercado Livre e na Amazon; venda em farmácia.
+- Valor mínimo e limite de usos do EMCASA (pergunta ao Bruno).
+- Datas e regras da Black Friday passadas pela parceira (pergunta ao Bruno).
+- Pagamento por Pix com o cupom (pede identificação).
