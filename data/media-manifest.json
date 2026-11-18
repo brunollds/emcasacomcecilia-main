@@ -168931,6 +168931,410 @@
       "verified_at": "2026-11-18T20:27:31.166Z",
       "verification_etag_or_digest": "c9132dc6032ac9e46733c67890c3b4876c17da29c481c178b5c6fc0f017bab06",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bold/barra-bold-21g.webp",
+      "local_url": "/images/reviews/bold/barra-bold-21g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86474,
+      "sha256": "4050063715668211081cc1387c0ae2bce73f8b48b0f528a7ec51d6eca08b498a",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barra-bold-21g.webp",
+      "storage_filename": "barra-bold-21g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barra-bold-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barra-bold-e-boa.json",
+          "line": 99,
+          "column": 19,
+          "literal": "/images/reviews/bold/barra-bold-21g.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4050063715668211081cc1387c0ae2bce73f8b48b0f528a7ec51d6eca08b498a/barra-bold-21g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4050063715668211081cc1387c0ae2bce73f8b48b0f528a7ec51d6eca08b498a/barra-bold-21g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T21:47:26.001Z",
+      "verification_etag_or_digest": "4050063715668211081cc1387c0ae2bce73f8b48b0f528a7ec51d6eca08b498a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bold/barra-bold-e-boa-capa.webp",
+      "local_url": "/images/reviews/bold/barra-bold-e-boa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 92688,
+      "sha256": "7a8aac57afba735806aa06ea4b7eef9bb50f1244930906d1be79b6a9a912469e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barra-bold-e-boa-capa.webp",
+      "storage_filename": "barra-bold-e-boa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barra-bold-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barra-bold-e-boa.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/bold/barra-bold-e-boa-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7a8aac57afba735806aa06ea4b7eef9bb50f1244930906d1be79b6a9a912469e/barra-bold-e-boa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7a8aac57afba735806aa06ea4b7eef9bb50f1244930906d1be79b6a9a912469e/barra-bold-e-boa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T21:47:26.002Z",
+      "verification_etag_or_digest": "7a8aac57afba735806aa06ea4b7eef9bb50f1244930906d1be79b6a9a912469e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bold/barra-bold-wafer.webp",
+      "local_url": "/images/reviews/bold/barra-bold-wafer.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78570,
+      "sha256": "750049a48e020a6e762efee8700afcd131838b9ab2d9fcf3886fb20fdbab5e6f",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barra-bold-wafer.webp",
+      "storage_filename": "barra-bold-wafer.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barra-bold-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barra-bold-e-boa.json",
+          "line": 281,
+          "column": 19,
+          "literal": "/images/reviews/bold/barra-bold-wafer.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/750049a48e020a6e762efee8700afcd131838b9ab2d9fcf3886fb20fdbab5e6f/barra-bold-wafer.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/750049a48e020a6e762efee8700afcd131838b9ab2d9fcf3886fb20fdbab5e6f/barra-bold-wafer.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T21:47:26.002Z",
+      "verification_etag_or_digest": "750049a48e020a6e762efee8700afcd131838b9ab2d9fcf3886fb20fdbab5e6f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bold/black-friday-bold-snacks-capa.webp",
+      "local_url": "/images/reviews/bold/black-friday-bold-snacks-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 243048,
+      "sha256": "3218520f9f88de9da4a7095be88c4fd2fca7910522da01f781c98f2946dc2f84",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-bold-snacks-capa.webp",
+      "storage_filename": "black-friday-bold-snacks-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-bold-snacks.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-bold-snacks.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/bold/black-friday-bold-snacks-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3218520f9f88de9da4a7095be88c4fd2fca7910522da01f781c98f2946dc2f84/black-friday-bold-snacks-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3218520f9f88de9da4a7095be88c4fd2fca7910522da01f781c98f2946dc2f84/black-friday-bold-snacks-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T21:47:26.002Z",
+      "verification_etag_or_digest": "3218520f9f88de9da4a7095be88c4fd2fca7910522da01f781c98f2946dc2f84",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bold/bold-snacks-e-confiavel-capa.webp",
+      "local_url": "/images/reviews/bold/bold-snacks-e-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 219626,
+      "sha256": "cd94191378be70a69b618c83142ecdd07982d0af4387f86d0729860c75876f51",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bold-snacks-e-confiavel-capa.webp",
+      "storage_filename": "bold-snacks-e-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bold-snacks-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bold-snacks-e-confiavel.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/bold/bold-snacks-e-confiavel-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/cd94191378be70a69b618c83142ecdd07982d0af4387f86d0729860c75876f51/bold-snacks-e-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cd94191378be70a69b618c83142ecdd07982d0af4387f86d0729860c75876f51/bold-snacks-e-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T21:47:26.002Z",
+      "verification_etag_or_digest": "cd94191378be70a69b618c83142ecdd07982d0af4387f86d0729860c75876f51",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bold/bold-snacks-reclame-aqui-indicadores.webp",
+      "local_url": "/images/reviews/bold/bold-snacks-reclame-aqui-indicadores.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40178,
+      "sha256": "efc5742dae221a4ee27deea9a59a80c2ba3f7abc335db7a595b7824b8f8c2e41",
+      "width": 1192,
+      "height": 1128,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bold-snacks-reclame-aqui-indicadores.webp",
+      "storage_filename": "bold-snacks-reclame-aqui-indicadores.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bold-snacks-reclame-aqui-nota-reputacao.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bold-snacks-reclame-aqui-nota-reputacao.json",
+          "line": 112,
+          "column": 19,
+          "literal": "/images/reviews/bold/bold-snacks-reclame-aqui-indicadores.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/efc5742dae221a4ee27deea9a59a80c2ba3f7abc335db7a595b7824b8f8c2e41/bold-snacks-reclame-aqui-indicadores.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/efc5742dae221a4ee27deea9a59a80c2ba3f7abc335db7a595b7824b8f8c2e41/bold-snacks-reclame-aqui-indicadores.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T21:47:26.002Z",
+      "verification_etag_or_digest": "efc5742dae221a4ee27deea9a59a80c2ba3f7abc335db7a595b7824b8f8c2e41",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bold/bold-snacks-reclame-aqui-nota-reputacao-capa.webp",
+      "local_url": "/images/reviews/bold/bold-snacks-reclame-aqui-nota-reputacao-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 88162,
+      "sha256": "c902ebd93eb5a08f0ec49ef638c6014f9da6bf034df72a01ed0136d5c5a29bcd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bold-snacks-reclame-aqui-nota-reputacao-capa.webp",
+      "storage_filename": "bold-snacks-reclame-aqui-nota-reputacao-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bold-snacks-reclame-aqui-nota-reputacao.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bold-snacks-reclame-aqui-nota-reputacao.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/bold/bold-snacks-reclame-aqui-nota-reputacao-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c902ebd93eb5a08f0ec49ef638c6014f9da6bf034df72a01ed0136d5c5a29bcd/bold-snacks-reclame-aqui-nota-reputacao-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c902ebd93eb5a08f0ec49ef638c6014f9da6bf034df72a01ed0136d5c5a29bcd/bold-snacks-reclame-aqui-nota-reputacao-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T21:47:26.002Z",
+      "verification_etag_or_digest": "c902ebd93eb5a08f0ec49ef638c6014f9da6bf034df72a01ed0136d5c5a29bcd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bold/cupom-bold-assinatura-com-cupom.webp",
+      "local_url": "/images/reviews/bold/cupom-bold-assinatura-com-cupom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50348,
+      "sha256": "c6206046e5178d952ed861a6d18bd9f97695519ed12416e41a61a0d69da837c6",
+      "width": 926,
+      "height": 830,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-bold-assinatura-com-cupom.webp",
+      "storage_filename": "cupom-bold-assinatura-com-cupom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barra-bold-e-boa.json",
+        "content/reviews/black-friday-bold-snacks.json",
+        "content/reviews/cupom-bold-snacks-como-usar.json",
+        "content/reviews/cupom-bold-snacks-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barra-bold-e-boa.json",
+          "line": 266,
+          "column": 19,
+          "literal": "/images/reviews/bold/cupom-bold-assinatura-com-cupom.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-bold-snacks.json",
+          "line": 195,
+          "column": 19,
+          "literal": "/images/reviews/bold/cupom-bold-assinatura-com-cupom.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cupom-bold-snacks-como-usar.json",
+          "line": 139,
+          "column": 19,
+          "literal": "/images/reviews/bold/cupom-bold-assinatura-com-cupom.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cupom-bold-snacks-primeira-compra.json",
+          "line": 173,
+          "column": 19,
+          "literal": "/images/reviews/bold/cupom-bold-assinatura-com-cupom.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c6206046e5178d952ed861a6d18bd9f97695519ed12416e41a61a0d69da837c6/cupom-bold-assinatura-com-cupom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c6206046e5178d952ed861a6d18bd9f97695519ed12416e41a61a0d69da837c6/cupom-bold-assinatura-com-cupom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T21:47:26.002Z",
+      "verification_etag_or_digest": "c6206046e5178d952ed861a6d18bd9f97695519ed12416e41a61a0d69da837c6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bold/cupom-bold-snacks-como-usar-capa.webp",
+      "local_url": "/images/reviews/bold/cupom-bold-snacks-como-usar-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 195346,
+      "sha256": "6eca454e30b65793a4a19f8f8f951f6423cccffc91fb2e20cec43040c1e5d539",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-bold-snacks-como-usar-capa.webp",
+      "storage_filename": "cupom-bold-snacks-como-usar-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-bold-snacks-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-bold-snacks-como-usar.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/bold/cupom-bold-snacks-como-usar-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6eca454e30b65793a4a19f8f8f951f6423cccffc91fb2e20cec43040c1e5d539/cupom-bold-snacks-como-usar-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6eca454e30b65793a4a19f8f8f951f6423cccffc91fb2e20cec43040c1e5d539/cupom-bold-snacks-como-usar-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T21:47:26.002Z",
+      "verification_etag_or_digest": "6eca454e30b65793a4a19f8f8f951f6423cccffc91fb2e20cec43040c1e5d539",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bold/cupom-bold-snacks-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/bold/cupom-bold-snacks-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 121714,
+      "sha256": "51ccd9eaa4431f111538a34933a75d6cb8155277d35076af3eaa61755865bd6c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-bold-snacks-primeira-compra-capa.webp",
+      "storage_filename": "cupom-bold-snacks-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-bold-snacks-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-bold-snacks-primeira-compra.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/bold/cupom-bold-snacks-primeira-compra-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/51ccd9eaa4431f111538a34933a75d6cb8155277d35076af3eaa61755865bd6c/cupom-bold-snacks-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/51ccd9eaa4431f111538a34933a75d6cb8155277d35076af3eaa61755865bd6c/cupom-bold-snacks-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T21:47:26.002Z",
+      "verification_etag_or_digest": "51ccd9eaa4431f111538a34933a75d6cb8155277d35076af3eaa61755865bd6c",
+      "verification_status": "verified"
     }
   ]
 }

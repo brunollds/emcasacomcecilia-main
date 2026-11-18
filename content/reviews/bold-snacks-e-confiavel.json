@@ -1,0 +1,155 @@
+{
+  "id": 1070,
+  "slug": "bold-snacks-e-confiavel",
+  "locale": "pt",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "18 de novembro de 2026",
+  "publishedAtISO": "2026-11-18",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "CECILIA15",
+  "affiliate": "bold",
+  "title": "BOLD Snacks é confiável? CNPJ, Ferrero, site oficial e trocas",
+  "seoTitle": "BOLD Snacks é confiável? CNPJ, Ferrero e site oficial",
+  "type": "Editorial",
+  "description": "Quem vende a BOLD Snacks, o que se sabe do acordo com a Ferrero, a nota no Reclame Aqui, como reconhecer o site oficial, o que o site diz da Anvisa e as regras de troca.",
+  "metaDescription": "Com o CECILIA15, 20% OFF na BOLD Snacks. Antes, veja quem vende, o acordo com a Ferrero, a nota no Reclame Aqui, como achar o site oficial e as trocas.",
+  "image": "/images/reviews/bold/bold-snacks-e-confiavel-capa.webp",
+  "imageAlt": "Logo da BOLD Snacks, a pergunta “É confiável?” e o código CECILIA15, ao lado de pacotes de whey BOLD, em foto oficial da loja.",
+  "cta": {
+    "text": "Para comprar, abra o site oficial pelo botão, coloque os produtos no carrinho, siga para o checkout e digite CECILIA15 no campo de código de desconto.",
+    "label": "Ir para a BOLD Snacks",
+    "url": "https://www.boldsnacks.com.br/discount/CECILIA15",
+    "sponsored": true
+  },
+  "editorialNote": "Feito com dados públicos da empresa, da Receita, do Reclame Aqui e das políticas da loja. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "bold-snacks-reclame-aqui-nota-reputacao"
+    },
+    {
+      "slug": "barra-bold-e-boa"
+    },
+    {
+      "slug": "cupom-bold-snacks-como-usar"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A BOLD Snacks vende pelo site oficial, com CNPJ de empresa de Divinópolis (MG) e reputação Boa no Reclame Aqui, onde, segundo o perfil, responde todas as reclamações. A Ferrero anunciou no início de 2026 um acordo para comprar a marca, sem conclusão confirmada nas fontes lidas. O ponto fraco é o atraso na entrega, e há anúncios falsos."
+      ]
+    },
+    {
+      "heading": "Quem vende a BOLD Snacks",
+      "paragraphs": [
+        "O perfil da marca no Reclame Aqui traz o CNPJ 28.866.724/0001-31. Nos dados abertos da Receita, ele é da BARRIND INDUSTRIA E COMERCIO DE ALIMENTOS LTDA, nome fantasia BOLD SNACKS, matriz ativa em Divinópolis (MG). A atividade registrada é a fabricação de alimentos dietéticos e complementos alimentares.",
+        "A política de reembolso do site cita a mesma razão social. O rodapé do site não mostra CNPJ.",
+        "A loja informa: a marca existe “desde 2018”, se diz líder em snacks proteicos no Brasil, com mais de 20 mil pontos de venda e estrutura própria, da produção à distribuição.",
+        "A Receita dá a atividade de fabricação, mas quem fabrica cada produto está no rótulo, com a frase “fabricado por”. As páginas de produto não trazem esse texto, então confira na embalagem."
+      ]
+    },
+    {
+      "heading": "A BOLD e a Ferrero",
+      "paragraphs": [
+        "O comunicado da Ferrero, do início de 2026, diz que o grupo “assinou um acordo” para comprar a BOLD, com fechamento esperado nos meses seguintes e sujeito às condições usuais. Segundo o comunicado, a Ferrero assume o escritório e a fábrica de Divinópolis, cerca de 300 funcionários devem ir para a Ferrero Brasil e o fundador, Gabriel Ferreira, segue como CEO.",
+        "O Nosso Meio e a TV Sim Brasil escrevem que o negócio depende da aprovação do Cade. Até a publicação deste artigo, nenhuma das fontes confirma a conclusão da compra, e a nossa busca não achou decisão do Cade.",
+        "A página Sobre nós do site não cita a Ferrero. Nenhuma das fontes diz o que muda em receita, fábrica ou preço para quem compra."
+      ]
+    },
+    {
+      "heading": "O que o Reclame Aqui mostra",
+      "paragraphs": [
+        "De 01/05/2026 a 31/10/2026, a BOLD Snacks tinha reputação Boa, nota 7,9 de 10 e selo de empresa verificada. Segundo o perfil, 100% das reclamações foram respondidas e 83,1% constam como resolvidas.",
+        "Do outro lado, a resposta leva, em média, 6 dias, e o atraso na entrega é o problema mais citado na aba geral do perfil.",
+        "Os números completos estão na [nota da BOLD Snacks no Reclame Aqui](/reviews/bold-snacks-reclame-aqui-nota-reputacao)."
+      ]
+    },
+    {
+      "heading": "Como reconhecer o site oficial",
+      "paragraphs": [
+        "O endereço oficial é boldsnacks.com.br, o mesmo que o perfil da marca no Reclame Aqui informa.",
+        "Segundo o aviso da empresa no perfil, circulam golpes e anúncios falsos em nome da marca e de transportadoras, com o exemplo “48 barras de proteína por 99,90”. A empresa diz que as vendas da BOLD são feitas no site oficial, e o FAQ do perfil trata de quem comprou um combo de 48 unidades por esse preço e não recebeu.",
+        "Regras práticas, sem teste nosso, que partem desse aviso:"
+      ],
+      "bullets": [
+        "Digite o endereço na barra do navegador em vez de seguir um anúncio.",
+        "Antes de pagar, leia o endereço da página e confira se é boldsnacks.com.br.",
+        "Desconfie de preço muito abaixo da vitrine do site oficial."
+      ]
+    },
+    {
+      "heading": "Trocas, entrega e rastreio",
+      "paragraphs": [
+        "A loja informa que a desistência vale em até 7 dias da entrega, com a embalagem original sem violação do lacre, a nota fiscal e todos os produtos do pedido. Troca e cancelamento passam pelo atendimento.",
+        "O [artigo 49 do Código de Defesa do Consumidor](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm) dá sete dias para desistir de compra feita fora do estabelecimento comercial, e a compra pela internet entra nesse caso.",
+        "Pela política de frete, a entrega é para todo o Brasil, por transportadora ou Correios (Sedex e PAC, à escolha no checkout). O prazo conta da confirmação do pagamento, e o valor do frete sai pelo CEP no checkout.",
+        "O rastreio chega por e-mail e também está em boldsnacks.com.br/pages/rastreio. A política prevê até duas tentativas de entrega, reenvio sem custo em erro da transportadora ou da loja, extravio ou roubo, e estorno em até 30 dias quando devido.",
+        "Para falar com a empresa, o perfil no Reclame Aqui traz telefone e WhatsApp, (11) 92000-2393, de segunda a sexta, das 9h às 17h, e a política de frete dá o e-mail contato@boldsnacks.com.br."
+      ]
+    },
+    {
+      "heading": "A BOLD e a Anvisa",
+      "paragraphs": [
+        "A loja informa: a barra é um “suplemento alimentar de proteína em barra, conforme a regulamentação vigente”, e a página do produto traz o aviso “Este produto não é um medicamento”.",
+        "As páginas do site não mostram número de registro nem de notificação na Anvisa.",
+        "Segundo a [página da Anvisa sobre como saber se um suplemento alimentar é autorizado](https://www.gov.br/anvisa/pt-br/assuntos/alimentos/suplementos-alimentares/como-saber-se-um-suplemento-alimentar-e-autorizado), as regras estão em transição. O rótulo traz a frase “Alimento registrado na Anvisa”, com o número do registro, ou “Alimento notificado na Anvisa”, com o número do processo. Na busca avançada do portal de consultas de alimentos da Anvisa, o número do registro vai no campo “número da regularização” e o da notificação, no campo “número do processo”. O resultado “Ativo” indica produto autorizado. Sem essas frases, a Anvisa manda procurar a vigilância sanitária da cidade onde o produto foi fabricado, cujo endereço deve constar no rótulo.",
+        "Antes de comprar, confira na embalagem o fabricante e a frase de regularização. Gestantes, lactantes, crianças, quem toma remédio e quem tem alergia seguem o rótulo e a orientação de um profissional de saúde. A página do produto avisa que a barra contém leite, soja, glúten e lactose."
+      ]
+    },
+    {
+      "heading": "Onde comprar: site oficial, Mercado Livre, Shopee e TikTok Shop",
+      "paragraphs": [
+        "Há venda fora do site: a marca fala em pontos de venda físicos, e o Reclame Aqui tem reclamações de compras feitas na Shopee e no TikTok Shop. O código CECILIA15 é do site oficial.",
+        "Não conferimos onde a BOLD tem loja oficial nos marketplaces. Antes de comprar no Mercado Livre, na Shopee ou no TikTok Shop, veja quem é o vendedor e se a página do anúncio indica a loja oficial."
+      ]
+    },
+    {
+      "heading": "O que dá para conferir e o que fica em aberto",
+      "paragraphs": [
+        "Dá para conferir o CNPJ na Receita, a reputação Boa no Reclame Aqui, as políticas de troca e entrega e o aviso da própria empresa sobre anúncios falsos. Ficam em aberto o desfecho do acordo com a Ferrero, o fabricante e a regularização de cada produto, que estão no rótulo, e quem vende nos marketplaces. A entrega é o ponto que mais pede atenção.",
+        "Se decidir comprar no site oficial, o [cupom BOLD](/cupons/bold) CECILIA15 deu 20% OFF no nosso teste no checkout, para cliente novo e antigo. O nome tem 15, mas o desconto do teste foi de 20%, e o percentual pode mudar com as campanhas da loja. Vale um cupom por pedido. No nosso teste, o código também entrou numa assinatura do BOLD Club, sobre o preço de assinatura. A política de assinatura diz que as condições dela não se acumulam automaticamente com cupons, então confira o resumo antes de pagar.",
+        "Este artigo é sobre a loja. O produto está em [Barra BOLD é boa?](/reviews/barra-bold-e-boa), e o passo a passo do código, no [guia de uso do CECILIA15](/reviews/cupom-bold-snacks-como-usar)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/bold/cupom-bold-checkout-com-cupom.webp",
+          "alt": "Resumo do checkout da BOLD Snacks com o código CECILIA15 aplicado: o whey de 450 g sai por R$ 151,20 e a Caixa Mista por R$ 143,20.",
+          "caption": "Resumo do checkout da BOLD Snacks com o CECILIA15 aplicado.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9165
+        },
+        {
+          "src": "/images/reviews/bold/cupom-bold-assinatura-com-cupom.webp",
+          "alt": "Resumo de uma assinatura do BOLD Club com o código CECILIA15 aplicado: a caixa BOLD Mousse de Maracujá sai de R$ 152,00 para R$ 121,60, com um brinde a R$ 0,00.",
+          "caption": "Resumo de uma assinatura do BOLD Club com o CECILIA15 aplicado.",
+          "objectFit": "contain",
+          "aspectRatio": 1.1157
+        }
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "A BOLD Snacks é confiável? A empresa tem CNPJ ativo em Divinópolis (MG), reputação Boa no Reclame Aqui e regras de troca e entrega publicadas. O ponto fraco, segundo o perfil, é o atraso na entrega, e a marca avisa que há anúncios falsos em seu nome.",
+        "A BOLD Snacks foi vendida para a Ferrero? A Ferrero anunciou no início de 2026 um acordo para comprar a marca. O Nosso Meio e a TV Sim Brasil escrevem que a operação depende do Cade, e nenhuma fonte confirma a conclusão.",
+        "A BOLD Snacks é brasileira? O CNPJ é de Divinópolis (MG), e o comunicado da Ferrero fala no escritório e na fábrica da cidade.",
+        "A BOLD Snacks vende no Mercado Livre? Não conferimos se a marca tem loja oficial lá. Antes de comprar, veja quem é o vendedor do anúncio. O código CECILIA15 é do site oficial.",
+        "O whey BOLD é aprovado pela Anvisa? As páginas do site não mostram número de registro nem de notificação do whey ou das barras. Quem confirma é o rótulo, com a frase de regularização e o número, e a consulta pública da Anvisa."
+      ]
+    }
+  ]
+}

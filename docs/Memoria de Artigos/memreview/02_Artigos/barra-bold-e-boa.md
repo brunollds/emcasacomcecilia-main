@@ -291,3 +291,15 @@ açúcar adicionado" da embalagem); a tabela do artigo é texto. Opções e prop
    fica como "a loja não informa" (já serve).
 
 (Sem produto em mãos, Bruno 18/11: o rótulo físico não entra como pergunta; o `editorialNote` diz que o texto parte das páginas.)
+
+## Redação, revisão e JSON (18/11/2026)
+
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1071) por subagente (Sonnet), com o briefing, as regras do pacote em [[cupom-bold-snacks-como-usar]] e os fatos de [[bold-fatos-1811]]; sem experiência própria ("testamos" só para o código).
+- **Job 3:** revisão do Fable 5.2, aplicada com conferência nas fontes, e a releitura da sessão. CECILIA15 com o nome explicado e os 20% presos ao teste de 18/11, na Pré-Black; nada de frete grátis, Pix, parcelamento, mínimo ou marketplace; "é do site oficial", nunca "vale só no site"; Anvisa sem registro, aprovação ou notificação; Ferrero só "anunciou um acordo".
+- Âncora `[cupom BOLD](/cupons/bold)` uma vez, fora da resposta rápida. Assinatura fora do escopo (o capítulo saiu); calorias por grama de proteína como conta de rótulo; colágeno: "a loja não informa" (Bruno, 18/11).
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 18/11/2026)
+
+- **Capa:** `/images/reviews/bold/barra-bold-e-boa-capa.webp`, "É boa?", com a foto oficial da barra cortada, o logo e o CECILIA15.
+- **Corpo:** as fotos oficiais da caixa de 21 g e da Wafer e o print do checkout.
+- **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.

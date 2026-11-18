@@ -197,3 +197,15 @@ com alegação.
 ## Perguntas para o Bruno
 
 Nenhuma.
+
+## Redação, revisão e JSON (18/11/2026)
+
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1069) por subagente (Sonnet), com o briefing, as regras do pacote em [[cupom-bold-snacks-como-usar]] e os fatos de [[bold-fatos-1811]]; sem experiência própria ("testamos" só para o código).
+- **Job 3:** revisão do Fable 5.2, aplicada com conferência nas fontes, e a releitura da sessão. CECILIA15 com o nome explicado e os 20% presos ao teste de 18/11, na Pré-Black; nada de frete grátis, Pix, parcelamento, mínimo ou marketplace; "é do site oficial", nunca "vale só no site"; Anvisa sem registro, aprovação ou notificação; Ferrero só "anunciou um acordo".
+- Âncora `[cupom BOLD](/cupons/bold)` uma vez, fora da resposta rápida. bodyDatesReason `reclame-aqui`, como o briefing pede.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 18/11/2026)
+
+- **Capa:** `/images/reviews/bold/bold-snacks-reclame-aqui-nota-reputacao-capa.webp`, "No Reclame Aqui", com a foto oficial da BOLD Wafer cortada, o logo e o CECILIA15.
+- **Corpo:** o print dos indicadores do perfil (18/11, janela de 01/05 a 31/10/2026).
+- **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.

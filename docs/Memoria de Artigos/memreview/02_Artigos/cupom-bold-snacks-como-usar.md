@@ -215,3 +215,15 @@ dado pessoal, o mesmo de `/cupons/bold`). Mínimo de 1 imagem no corpo. Fotos se
 1. A parceira avisou se o CECILIA15 segue em 20% depois de 22/11 ou volta a 15%? (Sem resposta, o texto fica com "no nosso
    teste" e manda conferir no resumo.)
 2. A BO1 só vai ao ar depois do deploy de `/cupons/bold`, para onde ela linka. Confirmar a ordem.
+
+## Redação, revisão e JSON (18/11/2026)
+
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1068) por subagente (Sonnet), com o briefing, as regras do pacote em [[cupom-bold-snacks-como-usar]] e os fatos de [[bold-fatos-1811]]; sem experiência própria ("testamos" só para o código).
+- **Job 3:** revisão do Fable 5.2, aplicada com conferência nas fontes, e a releitura da sessão. CECILIA15 com o nome explicado e os 20% presos ao teste de 18/11, na Pré-Black; nada de frete grátis, Pix, parcelamento, mínimo ou marketplace; "é do site oficial", nunca "vale só no site"; Anvisa sem registro, aprovação ou notificação; Ferrero só "anunciou um acordo".
+- Âncora `[cupom BOLD](/cupons/bold)` uma vez, fora da resposta rápida.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 18/11/2026)
+
+- **Capa:** `/images/reviews/bold/cupom-bold-snacks-como-usar-capa.webp`, "Como usar o cupom", com a foto oficial das caixas de barras, o logo e o CECILIA15.
+- **Corpo:** o print do checkout com o código e o print da assinatura com o código.
+- **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.

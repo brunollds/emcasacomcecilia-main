@@ -1,0 +1,232 @@
+{
+  "id": 1067,
+  "slug": "black-friday-bold-snacks",
+  "locale": "pt",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "18 de novembro de 2026",
+  "publishedAtISO": "2026-11-18",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "CECILIA15",
+  "affiliate": "bold",
+  "title": "Black Friday BOLD Snacks 2026: como o cupom entra e a conta dos brindes",
+  "seoTitle": "Black Friday BOLD Snacks 2026: cupom CECILIA15 e brindes",
+  "type": "Guia de Black Friday",
+  "description": "A Black Friday da BOLD Snacks vem em fases, cada uma com regulamento. Veja o que vale na atual, como o cupom entra no preço e a conta dos brindes por faixa de valor.",
+  "metaDescription": "CECILIA15 dá 20% OFF na BOLD Snacks. Veja como o código entra na Black Friday BOLD Snacks 2026 e a conta dos brindes por faixa.",
+  "image": "/images/reviews/bold/black-friday-bold-snacks-capa.webp",
+  "imageAlt": "Logo da BOLD Snacks, a chamada “Black Friday 2026” e o código CECILIA15, ao lado de caixas BOLD Caixa Mix numa cadeira de palhinha, em foto oficial da loja.",
+  "cta": {
+    "text": "Monte o carrinho pelo botão e siga para o checkout. No campo “Código de desconto ou cartão-presente”, digite CECILIA15 e clique em Aplicar.",
+    "label": "Ir para a BOLD Snacks",
+    "url": "https://www.boldsnacks.com.br/discount/CECILIA15",
+    "sponsored": true
+  },
+  "editorialNote": "Feito com o regulamento e a vitrine da loja; o cupom foi testado no checkout. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "cupom-bold-snacks-como-usar"
+    },
+    {
+      "slug": "bold-snacks-reclame-aqui-nota-reputacao"
+    },
+    {
+      "slug": "bold-snacks-e-confiavel"
+    },
+    {
+      "slug": "cupom-bold-snacks-primeira-compra"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "O valor depois do cupom já passa da faixa de brinde que você quer.",
+      "Você conferiu o resumo do checkout e a fase continua no ar.",
+      "Você já ia comprar as caixas ou o whey, com ou sem brinde."
+    ],
+    "skipIf": [
+      "A compra só compensa pelo brinde, que tem estoque limitado e depende de uma faixa recalculada a cada troca no carrinho.",
+      "O seu total depende do desconto por quantidade, que não vale nesta fase.",
+      "O prazo de entrega aperta e você não pode esperar um atraso."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A BOLD Snacks tem campanha de Black Friday em fases, cada uma com regulamento próprio. Na fase atual, o cupom CECILIA15 deu 20% no nosso teste, só entra um código por pedido e o valor final decide os brindes por faixa. O que muda a compra é a conta antes de pagar, que está abaixo."
+      ]
+    },
+    {
+      "heading": "A campanha da BOLD tem fases",
+      "paragraphs": [
+        "A campanha no ar é a Black BOLD 2026, Fase 3: Pré-Black. Pelo regulamento, ela vale só no site oficial, até 22/11, às 23h59 de Brasília.",
+        "Cada fase tem condições próprias, independentes das outras, e a loja diz que não há prorrogação automática. A fase seguinte ainda não tinha regulamento publicado quando conferimos. Se a BOLD publicar outro, vale o outro. Leia o regulamento da fase em que você comprar."
+      ]
+    },
+    {
+      "heading": "Como o cupom CECILIA15 entra",
+      "paragraphs": [
+        "O CECILIA15 é o cupom da parceria do Em Casa com Cecília na BOLD Snacks, para cliente novo e antigo. O nome tem 15, mas no nosso teste, nesta fase da campanha, o desconto foi de 20%. Depois dela o percentual pode mudar, e vale o que o resumo do checkout mostrar no dia da compra.",
+        "O código vai no campo “Código de desconto ou cartão-presente” do checkout. O caminho completo está em [como usar o cupom CECILIA15 na BOLD Snacks](/reviews/cupom-bold-snacks-como-usar), e as condições do código estão na página do [cupom BOLD](/cupons/bold). O regulamento da fase diz o seguinte."
+      ],
+      "bullets": [
+        "O cupom vale sobre o preço de venda informado, também nos itens com preço promocional, e os descontos entram um depois do outro.",
+        "Vale um cupom por pedido.",
+        "O desconto progressivo por quantidade não vale nesta fase.",
+        "Incluir o produto no carrinho não garante o cupom. Confira o código, o percentual e o valor final antes de pagar."
+      ]
+    },
+    {
+      "heading": "Os brindes por faixa",
+      "paragraphs": [
+        "A loja dá brindes pelo valor total dos produtos no pedido. Cada faixa inclui os brindes da anterior."
+      ],
+      "comparisonTable": {
+        "caption": "Pelo regulamento, as faixas contam o valor dos produtos depois de todos os descontos, sem o frete.",
+        "headers": [
+          "Valor dos produtos",
+          "Brindes"
+        ],
+        "rows": [
+          [
+            "A partir de R$ 249,01",
+            "Coqueteleira"
+          ],
+          [
+            "A partir de R$ 359,01",
+            "Coqueteleira e térmica"
+          ],
+          [
+            "A partir de R$ 699,01",
+            "Coqueteleira, térmica e bolsa de academia"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Pelo regulamento, o cupom e o cashback usado como abatimento entram na conta antes da faixa. Os brindes são adicionados sozinhos, sem cupom de brinde, em uma unidade de cada, e o estoque é limitado, então podem esgotar antes do fim da fase. Se você trocar um produto ou o cupom, a faixa é recalculada.",
+        "Para saber a faixa, olhe o valor depois do cupom, nunca o de vitrine."
+      ]
+    },
+    {
+      "heading": "A conta com o cupom",
+      "paragraphs": [
+        "A tabela mostra em que faixa cada carrinho cai depois dos 20%."
+      ],
+      "comparisonTable": {
+        "caption": "Conta nossa: preços da vitrine em 18/11, compra única, sem frete. Só a Caixa Mista e o whey de 450 g passaram pelo carrinho; o resto é o preço vezes 0,80 vezes a quantidade.",
+        "headers": [
+          "Carrinho",
+          "Valor com 20%",
+          "Faixa de brinde"
+        ],
+        "rows": [
+          [
+            "1 Caixa Mista 21 g",
+            "R$ 143,20",
+            "Nenhuma"
+          ],
+          [
+            "2 Caixas Mistas 21 g",
+            "R$ 286,40",
+            "Coqueteleira"
+          ],
+          [
+            "3 Caixas Mistas 21 g",
+            "R$ 429,60",
+            "Coqueteleira e térmica"
+          ],
+          [
+            "4 Caixas Mistas 21 g",
+            "R$ 572,80",
+            "Coqueteleira e térmica"
+          ],
+          [
+            "5 Caixas Mistas 21 g",
+            "R$ 716,00",
+            "Coqueteleira, térmica e bolsa"
+          ],
+          [
+            "Caixa Mista 21 g mais Caixa Mista 14 g",
+            "R$ 246,40",
+            "Nenhuma, a R$ 2,61 da primeira faixa"
+          ],
+          [
+            "Caixa Mista 21 g mais whey de 450 g",
+            "R$ 294,40",
+            "Pelo regulamento, coqueteleira"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "No carrinho que testamos, a Caixa Mista de R$ 179,00 foi a R$ 143,20 e o whey de 450 g, de R$ 189,00, foi a R$ 151,20. Os dois somam R$ 294,40 em produtos, valor que o regulamento põe na faixa da coqueteleira. O brinde que vale é o que o resumo do seu pedido mostrar. O resumo também traz o código e o valor do desconto embaixo de cada produto, e é por ele que você confere a conta.",
+        "A armadilha da tabela é o combo de uma Caixa Mista de 21 g com uma de 14 g. R$ 179,00 mais R$ 129,00, com 20%, dá R$ 246,40, a R$ 2,61 da coqueteleira. Quem só quer a coqueteleira passa com folga com duas caixas de 21 g.",
+        "O próprio regulamento traz um exemplo na mesma lógica: R$ 350 em produtos com um cupom de 20% viram R$ 280, e esse valor fica na faixa da coqueteleira."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/bold/cupom-bold-checkout-com-cupom.webp",
+          "alt": "Resumo do checkout da BOLD Snacks com o código CECILIA15 aplicado: a Caixa Mista a R$ 143,20 e o whey de 450 g a R$ 151,20",
+          "caption": "Resumo do checkout no nosso teste.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9164
+        }
+      ]
+    },
+    {
+      "heading": "O cupom na assinatura",
+      "paragraphs": [
+        "No nosso teste, o CECILIA15 também entrou numa assinatura. Com a caixa BOLD Mousse de Maracujá no BOLD Club, a cada 2 meses, o resumo mostrou o preço de assinatura, R$ 152,00, contra R$ 179,00 na compra única (a loja informa 15% de desconto na assinatura). O cupom tirou R$ 30,40, 20% de R$ 152,00, e o subtotal ficou em R$ 121,60. O resumo trouxe ainda um brinde do próprio BOLD Club, a R$ 0,00.",
+        "Foi um teste, e a política de assinatura da BOLD diz que as condições da assinatura não se acumulam automaticamente com cupons. Confira o resumo antes de confirmar, inclusive a faixa de brinde. A loja informa ainda uma permanência mínima de 2 ciclos de cobrança."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/bold/cupom-bold-assinatura-com-cupom.webp",
+          "alt": "Resumo da assinatura da caixa BOLD Mousse de Maracujá com o código CECILIA15 aplicado: R$ 152,00, desconto de R$ 30,40, subtotal de R$ 121,60 e um brinde do BOLD Club a R$ 0,00",
+          "caption": "Resumo de uma assinatura com o cupom no nosso teste.",
+          "objectFit": "contain",
+          "aspectRatio": 1.1157
+        }
+      ]
+    },
+    {
+      "heading": "Cashback e pagamento",
+      "bullets": [
+        "**Cashback.** A loja informa que devolve até 10% do valor da compra para a próxima compra. Pela política, o cashback não se usa junto com outros cupons e não vale em produto em promoção. Não conte com os dois no mesmo pedido.",
+        "**Pagamento.** A campanha aceita cartão, Pix e os outros meios do checkout. Pelo regulamento, o Pix não pago no prazo pode cancelar o pedido e as condições da campanha."
+      ]
+    },
+    {
+      "heading": "Prazo de entrega e o que conferir",
+      "paragraphs": [
+        "A loja entrega em todo o Brasil, e o prazo e o frete saem pelo CEP no checkout. O regulamento avisa que a demanda de Black Friday pode causar atrasos.",
+        "Segundo o perfil da marca no Reclame Aqui, o atraso na entrega é o problema mais frequente. O quadro completo está em [BOLD Snacks no Reclame Aqui: nota e reclamações](/reviews/bold-snacks-reclame-aqui-nota-reputacao)."
+      ],
+      "bullets": [
+        "**Antes de pagar.** Confira no resumo o código, o percentual do desconto e a faixa de brinde que o seu total alcança.",
+        "**Depois do pedido.** Guarde o resumo e compare o pedido com o que chegou, item por item."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "A BOLD Snacks tem Black Friday? Tem, em fases, cada uma com regulamento próprio. A fase em andamento é a Pré-Black, só no site oficial.",
+        "O cupom CECILIA15 vale na Black Friday da BOLD? No nosso teste, sim. Deu 20% durante a campanha, vale um cupom por pedido e entrou também num produto em promoção. Confira o percentual no resumo antes de pagar.",
+        "Como ganho a coqueteleira, a térmica e a bolsa? Pelo valor dos produtos depois de todos os descontos e sem o frete. A tabela do artigo traz as três faixas e a conta de cada carrinho.",
+        "O CECILIA15 dá 15% ou 20%? O nome tem 15, mas no nosso teste desta fase o desconto foi de 20%. Vale o percentual que o resumo do checkout mostrar.",
+        "O CECILIA15 vale na assinatura? No nosso teste, entrou, e o código tirou 20% sobre o preço de assinatura. A política diz que as condições da assinatura não se acumulam automaticamente com cupons, então confira o resumo antes de confirmar."
+      ]
+    }
+  ]
+}
