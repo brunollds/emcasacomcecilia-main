@@ -235,4 +235,27 @@ imagem do produto.
 - **Conclusão:** pela regra da série (só entra linha com vantagem), a Adaptogen não entra nas duas Alternativas nem
   em `creatina-com-sabor-qual-escolher`. Um "Adaptogen ou Growth" ou "Adaptogen ou Dux" não se sustenta pelo preço
   por proteína: teria de partir de sabor e variedade, e esbarra na reputação, assunto segurado pelo Bruno.
-- Não lidos: 100% Beef, Adapto Whey 3W e Adapto Whey Bag 2,2 kg.
+
+### 100% Beef, Adapto Whey 3W e Adapto Whey Bag (lidos em 18/11/2026)
+
+Tabela na segunda imagem de cada produto; na 100% Beef, uma por sabor.
+
+| Produto | Porção e proteína | Porções | Proteína no pacote | Cartão com o `CECILIA` | Por 100 g de proteína |
+|---|---|---|---|---|---|
+| 100% Beef 900 g | 32 g, 25 g | cerca de 28 | 703 g | R$ 212,90 | R$ 30,28 |
+| Adapto Whey 3W 900 g | 32 g, 25 g | cerca de 28 | 703 g | R$ 251,60 | R$ 35,78 |
+| Adapto Whey Bag 2,2 kg | 32 g, 25 g | 70 | 1.719 g | R$ 687,74 | R$ 40,01 |
+
+- Preços de cartão antes do código, pelo parcelamento da página: Beef 4x de R$ 59,14 (R$ 236,56; Pix R$ 224,73, "de"
+  R$ 278,30); Adapto 3W 5x de R$ 55,91 (R$ 279,55; Pix R$ 265,59); Bag 6x de R$ 127,36 (R$ 764,16; Pix R$ 725,94,
+  "de" R$ 899,00). **A Bag de 2,2 kg custa mais por proteína que o pote de 900 g.**
+- **100% Beef.** A loja informa: proteína hidrolisada da carne bovina, 25 g por dose, sem lactose, sem glúten, sem
+  açúcar adicionado e sem colágeno; sabores Baunilha, Chocolate e Morango. Um sabor tem 2,5 g de carboidratos e 1,2 g
+  de fibras por porção; os outros dois, 4 g de carboidratos e 3 g de açúcares totais (a imagem não diz o sabor). A
+  página fala em emagrecimento, colesterol e "entrega 100% do que está no rótulo": alegação da marca, não entra como
+  afirmação nossa.
+- **É a única linha em que a Adaptogen ganha no preço por proteína:** R$ 30,28, contra R$ 33,00 do 100% Pure Whey
+  Zero Lactose da Probiótica e R$ 37,67 do Zero Lactose da Growth em [[alternativas-a-growth-whey]] (preços de
+  09/11). Ressalvas: não é whey (a fonte é carne, não soro do leite), os preços são de datas diferentes e o da
+  Adaptogen é de campanha; não foi conferido se a Growth vende proteína de carne.
+- O Adapto Whey 3W (R$ 35,78) fica acima do 3W da Growth (R$ 34,01) e do Mais Sabor da Max (R$ 30,24).
