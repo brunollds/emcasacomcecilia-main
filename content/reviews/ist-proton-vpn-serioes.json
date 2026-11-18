@@ -31,7 +31,7 @@
     {
       "heading": "Kurzantwort",
       "paragraphs": [
-        "Proton VPN gehört zur Proton AG, dem Schweizer Unternehmen, das auch Proton Mail betreibt. Die Apps sind Open Source, und die Firma veröffentlicht jedes Jahr ein unabhängiges Audit ihrer No-Logs-Richtlinie. Laut Proton hat der kostenlose Tarif keine Werbung und kein Datenlimit. Der Support läuft über ein Webformular, und Rückerstattungen folgen der 30-Tage-Regel der Bedingungen."
+        "Das offizielle Proton VPN bietet überprüfbare Vertrauenssignale: ein namentlich bekanntes Schweizer Unternehmen, quelloffene Apps und unabhängige No-Logs-Audits. Das garantiert weder Anonymität noch Schutz vor jedem Betrug. Laden Sie die Software aus offiziellen Quellen herunter; laut Proton hat der kostenlose Tarif weder Werbung noch ein Datenlimit, während die kostenpflichtigen Funktionen und Bedingungen unten erklärt werden."
       ]
     },
     {
@@ -110,8 +110,8 @@
         "Ein VPN verbirgt Ihre IP-Adresse vor Websites und schützt den Datenverkehr zwischen Ihrem Gerät und seinem Server. Es hat Grenzen, die für jede Marke gelten."
       ],
       "bullets": [
-        "**Es macht niemanden anonym.** Wenn Sie sich bei eingeschaltetem VPN in einem sozialen Netzwerk anmelden, identifiziert Sie das Konto weiterhin.",
-        "**Es schützt nicht vor Betrug.** Ein gefälschter Link in einer Nachricht oder eine nachgebaute Seite, auf der Sie Ihr Passwort eingeben, funktioniert genauso.",
+        "**Es garantiert keine Anonymität.** Wenn Sie sich mit eingeschaltetem VPN bei einem sozialen Netzwerk anmelden, identifiziert Sie dieses Konto weiterhin.",
+        "**Es garantiert keinen Schutz vor Betrug.** Ein VPN verhindert nicht, dass Sie Ihr Passwort auf einer gefälschten Website eingeben oder einem Betrüger nennen; prüfen Sie Adresse und Empfänger, bevor Sie Daten weitergeben.",
         "**Es ändert, wer den Datenverkehr sieht.** Ihr Internetanbieter sieht die besuchten Seiten nicht mehr, und der VPN-Anbieter nimmt diesen Platz ein. Deshalb ist das Audit der Protokolle wichtig.",
         "**Es ändert nicht das Gesetz.** Proton selbst sagt, der Dienst sei für die legale Nutzung gedacht. Was ohne VPN illegal ist, bleibt es mit VPN."
       ]
@@ -133,7 +133,7 @@
     {
       "heading": "Häufige Fragen",
       "bullets": [
-        "Ist Proton VPN sicher? Die überprüfbaren Anzeichen sind positiv. Die Firma ist klar benannt, der Code der Apps ist öffentlich, und Securitum prüft die No-Logs-Richtlinie jedes Jahr, mit veröffentlichtem Bericht. Kein VPN schützt vor Betrug oder macht jemanden anonym.",
+        "Ist Proton VPN sicher? Die überprüfbaren Anzeichen sind positiv: ein namentlich bekanntes Unternehmen, öffentlicher App-Code und jährliche Securitum-Audits der No-Logs-Richtlinie mit veröffentlichten Berichten. Diese Belege garantieren weder Anonymität noch Schutz vor jedem Betrug.",
         "Ist das kostenlose Proton VPN vertrauenswürdig? Proton sagt, der kostenlose Tarif führe keine Aktivitätsprotokolle, habe keine Werbung und kein Datenlimit und werde von Abonnenten finanziert. Die Grenzen sind 1 Gerät und weniger Länder.",
         "Ist Proton VPN ein Virus? Nein. Die offizielle App ist bei Google Play und im App Store mit Proton AG als Entwickler. Das Risiko liegt bei Installern von Dritten und veränderten Versionen.",
         "Aus welchem Land kommt Proton? Aus der Schweiz. Die Dienste werden von der Proton AG betrieben, und laut der Firma ist der Hauptaktionär die Proton Foundation, eine gemeinnützige Organisation in Genf.",
@@ -147,8 +147,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Die Tarife, der kostenlose Tarif und die Preise erscheinen auf der Seite, die der Button öffnet. Prüfen Sie vor der Zahlung den Gesamtbetrag und den Verlängerungspreis.",
-    "label": "Proton-VPN-Tarife ansehen",
+    "text": "Wenn Sie die kostenpflichtigen Funktionen von Proton VPN suchen, öffnen Sie das Angebot über unseren Link und prüfen Sie Gesamtbetrag und Verlängerung. Der verknüpfte Black-Friday-Ratgeber vergleicht die Preise.",
+    "label": "Proton-VPN-Angebot ansehen",
     "url": "https://go.getproton.me/SH39K",
     "sponsored": true
   },

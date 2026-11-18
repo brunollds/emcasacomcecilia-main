@@ -31,15 +31,15 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Per riavere i soldi di Proton VPN, disdici l'abbonamento e chiedi il rimborso all'assistenza, entrambe le cose entro 30 giorni dall'acquisto iniziale. Secondo i termini, il rimborso si può chiedere una sola volta per utente e solo se ci si è abbonati direttamente con Proton. I rinnovi restano esclusi, e un abbonamento acquistato nello store del telefono si disdice nello store."
+        "Per chiedere un rimborso Proton VPN, controlla chi ha addebitato il pagamento e la data dell'acquisto iniziale. Per acquisti diretti, disdici e contatta l'assistenza entro 30 giorni, secondo i termini. Google Play e Apple seguono i percorsi spiegati sotto; la sola disdetta non restituisce il pagamento."
       ]
     },
     {
       "heading": "Disdire e chiedere il rimborso sono due passaggi",
       "paragraphs": [
-        "Disdire disattiva i rinnovi futuri. Secondo il centro assistenza di Proton, le funzioni a pagamento restano attive fino alla prossima data di rinnovo e poi l'account passa al piano gratuito. La sola disdetta non restituisce denaro.",
+        "Per VPN Plus, disdire disattiva i rinnovi futuri. Secondo il centro assistenza di Proton, le funzioni a pagamento restano attive fino alla prossima data di rinnovo e poi l'account passa al piano gratuito. La sola disdetta non restituisce denaro.",
         "Il rimborso è una richiesta a parte, rivolta all'assistenza. I termini di servizio di Proton, modificati l'ultima volta il 5 novembre 2026, dicono che sia la disdetta sia la richiesta di rimborso vanno presentate entro il periodo di 30 giorni. Chi disdice al giorno 20 e scrive all'assistenza solo al giorno 35 ha perso la finestra.",
-        "I termini sono gli stessi per gli altri piani a pagamento di Proton, come Mail Plus e Proton Unlimited. Quello che questa guida dice sulla finestra e sulle condizioni vale anche per loro."
+        "La finestra e le condizioni generali del rimborso figurano anche nei termini di piani come Mail Plus e Unlimited. Gli effetti della disdetta cambiano: prima del downgrade di un altro piano, controlla requisiti e data effettiva nel pannello e nei termini."
       ],
       "image": {
         "src": "/images/reviews/proton/proton-vpn-reembolso-termos-en.webp",
@@ -60,7 +60,7 @@
         "Scegli un motivo e clicca **Submit**. Secondo la pagina, la disdetta ha effetto solo dopo quest'ultimo passaggio."
       ],
       "postParagraphs": [
-        "Dopo di che, il piano a pagamento resta attivo fino alla data in cui si sarebbe rinnovato. Superata quella data, l'account esiste ancora, sul piano gratuito. Disdire l'abbonamento non elimina l'account. Se cambi idea, il pannello mostra un pulsante **Reactivate now**.",
+        "Con VPN Plus, il piano a pagamento resta poi attivo fino alla data in cui si sarebbe rinnovato. Superata quella data, l'account esiste ancora, sul piano gratuito. Disdire l'abbonamento non elimina l'account. Se cambi idea, il pannello mostra un pulsante **Reactivate now**.",
         "I termini dicono che chi non riesce ad accedere al pannello può disdire tramite l'assistenza clienti di Proton."
       ]
     },
@@ -120,13 +120,13 @@
         "**L'account è stato chiuso per violazione dei termini.** In quel caso, i termini dicono che tutti i pagamenti e i crediti vengono persi."
       ],
       "postParagraphs": [
-        "Dopo i 30 giorni, i termini dicono che il servizio non è rimborsabile e che qualsiasi rimborso o credito è a discrezione esclusiva dell'azienda. Puoi chiedere, ma senza alcuna regola dalla tua parte."
+        "Dopo 30 giorni, la politica commerciale di Proton non prevede un rimborso automatico; i termini lasciano eventuali rimborsi o crediti alla discrezione dell'azienda. Questo descrive la garanzia commerciale, senza determinare altri diritti applicabili."
       ]
     },
     {
       "heading": "Mi sono abbonato nell'app, tramite Google Play o App Store",
       "paragraphs": [
-        "Un abbonamento acquistato dentro l'app del telefono di solito viene addebitato dallo store. Per chi ha pagato tramite Google Play o App Store, il centro assistenza indica di disdire nello store stesso."
+        "Controlla nella ricevuta chi ha addebitato il pagamento: Proton, Google Play o Apple. Gli abbonamenti addebitati da Google Play o App Store si disdicono in quello store; sotto trovi i percorsi per il rimborso."
       ],
       "bullets": [
         "**Google Play.** Apri l'app Play Store, tocca la tua immagine del profilo, vai su Abbonamenti e scegli Proton VPN per disdire. Per il rimborso entro i 30 giorni, il centro assistenza indica di contattare l'assistenza Proton e aggiunge che forse si può chiedere anche tramite la stessa Google Play.",
@@ -139,8 +139,8 @@
     {
       "heading": "Come evitare di farsi sorprendere dal rinnovo",
       "paragraphs": [
-        "L'abbonamento si rinnova da solo, per lo stesso periodo. I termini dicono che ti viene addebitato il prezzo in vigore al momento del rinnovo, e che un prezzo promozionale copre solo il primo periodo. Nella pagina partner di Proton in dollari statunitensi, il piano VPN Plus da 2 anni veniva addebitato a $59.76 per i primi 24 mesi e poi si rinnovava a $83.88 ogni 12 mesi. I prezzi cambiano con il paese e la valuta.",
-        "Per fermare il rinnovo, i termini chiedono di disdire prima della data di rinnovo. Non serve aspettare il giorno prima. Poiché il piano a pagamento dura fino alla fine del periodo già addebitato, puoi disdire subito dopo l'abbonamento e usare comunque tutto ciò che hai pagato.",
+        "Il rinnovo segue il ciclo indicato nell'offerta e nella ricevuta, che può essere diverso dal periodo iniziale. I termini dicono che ti viene addebitato il prezzo in vigore al momento del rinnovo, e che un prezzo promozionale copre solo il primo periodo. Nella pagina partner di Proton in dollari statunitensi, il piano VPN Plus da 2 anni veniva addebitato a $59.76 per i primi 24 mesi e poi si rinnovava a $83.88 ogni 12 mesi. I prezzi cambiano con il paese e la valuta.",
+        "Con VPN Plus, per fermare il rinnovo, i termini chiedono di disdire prima della data di rinnovo. Non serve aspettare il giorno prima. Poiché il piano a pagamento dura fino alla fine del periodo già addebitato, puoi disdire subito dopo l'abbonamento e usare comunque tutto ciò che hai pagato.",
         "Segna sul calendario la prossima data di addebito, con qualche giorno di anticipo. Se ti sei abbonato tramite lo store del telefono, controlla la data negli abbonamenti dello store."
       ]
     },
@@ -160,7 +160,7 @@
     {
       "heading": "Domande frequenti",
       "bullets": [
-        "Proton VPN restituisce i soldi? Secondo i termini, rimborsa l'intero importo se la disdetta e la richiesta di rimborso sono entrambe fatte entro 30 giorni dall'acquisto iniziale. Vale una sola volta per utente e solo per chi si è abbonato sul sito o nelle app di Proton.",
+        "Proton VPN restituisce i soldi? Per acquisti diretti da Proton, i termini prevedono il rimborso integrale se disdetta e richiesta avvengono entro 30 giorni dall'acquisto iniziale, una volta per utente e con restrizioni sui pagamenti. Per Google Play e App Store, segui il percorso specifico nel capitolo corrispondente.",
         "Come disdico Proton VPN? Sul sito, accedi, apri Subscription, vai su Cancel subscription e segui i passaggi fino a inviare il motivo. Se ti sei abbonato tramite Google Play o App Store, disdici negli abbonamenti dello store.",
         "Ho disdetto e mi hanno addebitato comunque, cosa faccio? Controlla prima chi ha effettuato l'addebito. Un abbonamento acquistato nello store del telefono si disdice nello store. Se l'addebito è arrivato da Proton dopo una disdetta completata, scrivi all'assistenza con le date e la ricevuta.",
         "Posso ottenere il rimborso di un rinnovo? La regola dei 30 giorni parte dall'acquisto iniziale, e un rinnovo ne resta fuori. Dopo quella finestra, i termini lasciano qualsiasi rimborso alla discrezione dell'azienda.",
@@ -174,8 +174,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "I piani e i prezzi compaiono nella pagina che apre il pulsante. Controlla il totale e la data di rinnovo prima di pagare.",
-    "label": "Vedi i piani di Proton VPN",
+    "text": "Se stai ancora valutando un abbonamento, apri l'offerta Proton dal nostro link e controlla totale e rinnovo. Per una disdetta o un rimborso in corso, usa il canale indicato in questa guida.",
+    "label": "Vedi l'offerta prima di abbonarti",
     "url": "https://go.getproton.me/SH39K",
     "sponsored": true
   },

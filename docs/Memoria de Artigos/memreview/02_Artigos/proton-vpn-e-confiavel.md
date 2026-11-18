@@ -163,3 +163,11 @@ print do quadro do Reclame Aqui, da releitura.
 - **Fora do PT (ids 1020 a 1028):** o capítulo do Reclame Aqui dá lugar a "como falar com o suporte"; sem Pix; a nota das lojas não entra (varia por país), só o desenvolvedor e os downloads. Citações dos termos e da Securitum em discurso indireto nas traduções. Sonnet traduz do inglês, Fable fecha.
 - **Mídia:** capa `proton-vpn-e-confiavel-capa.webp` ("Proton VPN / No-logs audit", uma para os 10); print da capa do relatório da Securitum (os 10) e quadro do Reclame Aqui (só PT). Aprovados pelo Bruno em 17/11.
 - **Link para a PN3:** entra quando ela estiver no ar, junto com o `relatedArticles`.
+
+## Revisão de copy do Farol (17/11/2026, depois do #1121)
+
+- Parecer em `docs/auditoria-copy-artigos/pn2-pn4-proton-pr1121-20261117-farol/`, aplicado nos 10 idiomas, com fechamento pelo Fable.
+- **Resposta rápida** abre pela conclusão: há evidências favoráveis (empresa identificada, código aberto, auditoria de registros), sem garantia de anonimato nem de proteção contra todo golpe.
+- **Tabela das alegações** passa a dizer o alcance de cada evidência.
+- **Reclame Aqui:** saiu a comparação das 14 reclamações com os 100 milhões de downloads (medidas diferentes).
+- **Botão:** anuncia a oferta paga, sem prometer que a página de destino mostra o plano gratuito (não foi conferido).
