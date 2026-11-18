@@ -9,9 +9,9 @@ category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2) na sessão de artigos"
+proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow; refazer o carrinho do Leve 3, Pague 2 na semana de 27/11"
 bloqueado_por: "-"
 data_criacao: "2026-11-18"
 pauta_id: "RT3"
@@ -235,3 +235,19 @@ da embalagem) e Mercado Livre e Amazon (navegador).
 - **Valor mínimo e limite de usos do EMCASA:** "não que eu saiba". Segue sem leitura: não escrever "sem mínimo", "sem
   limite" nem o contrário.
 - Pauta aprovada; handoff para a redação em 18/11.
+
+## Redação, revisão e JSON (18/11/2026)
+
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1052), com as regras do handoff e os fatos de [[rituaria-fatos-1711]] (a seção 9 prevalece).
+- **Job 3:** revisão do Fable 5.2, aplicada. Depois, o parecer externo do Farol (ChatGPT/Codex, em `docs/auditoria-copy-artigos/rituaria-rt1-rt6-20261118-farol/`, fora do Git) que o Bruno colou: 69 propostas nos seis artigos, cada uma conferida contra os fatos e as regras por um agente e contestada por um segundo. Uma foi recusada (a RT5 mantém "Não encontramos resenha de veículo ou de nutricionista sem código de desconto", que a busca de 18/11 sustenta); as outras foram aplicadas, várias com ajuste.
+- **Regras que o parecer não podia furar:** nada de "sem mínimo" ou "sem limite"; Pix à parte do cupom; cashback só como vantagem da loja; nenhum código de terceiro nem da loja; nenhum produto "registrado", "aprovado" ou "notificado"; sem promessa de efeito; resposta rápida sem link.
+- **Anvisa:** a orientação é pedir à loja a foto do rótulo antes de pagar; o guia não confirma a regularização de nenhum produto. O link oficial é a página "como saber se um suplemento alimentar é autorizado" (`/suplementos-alimentares/`, sem o "-novo").
+- **Trocas:** as condições atribuídas à política da loja, e o prazo de sete dias também ao CDC.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 18/11/2026)
+
+- **Capa:** `/images/reviews/rituaria/rituaria-e-confiavel-capa.webp`, "É confiável? / O que conferir" e o EMCASA, com a Vitamina D3 e a Fórmula da Imunidade.
+- **Quem está por trás:** o rodapé com a razão social e o CNPJ (`rituaria-e-confiavel-rodape-cnpj.webp`).
+- **Site e pagamento:** o print do checkout com o EMCASA. O ícone "Registro na Anvisa" da Sobre Nós saiu, a pedido do parecer: sozinho, ele passa a ideia de chancela.
+- **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
+

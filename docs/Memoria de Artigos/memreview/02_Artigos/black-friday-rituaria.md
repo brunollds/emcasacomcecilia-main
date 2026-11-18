@@ -9,9 +9,9 @@ category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2) na sessão de artigos"
+proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow; refazer o carrinho do Leve 3, Pague 2 na semana de 27/11"
 bloqueado_por: "-"
 data_criacao: "2026-11-18"
 pauta_id: "RT6"
@@ -256,3 +256,19 @@ Só as que não estão na lista já aberta (datas da BF e mínimo/limite do cód
 - **Valor mínimo e limite de usos do EMCASA:** "não que eu saiba". Segue sem leitura: não escrever "sem mínimo", "sem
   limite" nem o contrário.
 - Pauta aprovada; handoff para a redação em 18/11.
+
+## Redação, revisão e JSON (18/11/2026)
+
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1050), com as regras do handoff e os fatos de [[rituaria-fatos-1711]] (a seção 9 prevalece).
+- **Job 3:** revisão do Fable 5.2, aplicada. Depois, o parecer externo do Farol (ChatGPT/Codex, em `docs/auditoria-copy-artigos/rituaria-rt1-rt6-20261118-farol/`, fora do Git) que o Bruno colou: 69 propostas nos seis artigos, cada uma conferida contra os fatos e as regras por um agente e contestada por um segundo. Uma foi recusada (a RT5 mantém "Não encontramos resenha de veículo ou de nutricionista sem código de desconto", que a busca de 18/11 sustenta); as outras foram aplicadas, várias com ajuste.
+- **Regras que o parecer não podia furar:** nada de "sem mínimo" ou "sem limite"; Pix à parte do cupom; cashback só como vantagem da loja; nenhum código de terceiro nem da loja; nenhum produto "registrado", "aprovado" ou "notificado"; sem promessa de efeito; resposta rápida sem link.
+- **Campanha:** Black November na faixa e "Black Rituária" no banner; sem data de fim na página consultada. A lista dos suplementos ficou sem contagem e sem o item esgotado, com o link da coleção.
+- **Reclame Aqui:** a queixa citada pelo título, "Comprei 2 leve 3 e recebi só 2", sem interpretar a promoção.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 18/11/2026)
+
+- **Capa:** `/images/reviews/rituaria/black-friday-rituaria-capa.webp`, "Black Friday / Leve 3, Pague 2" e o EMCASA, com a NAC e a Antioxi Nutri.
+- **O que a Rituária chama de Black November:** o banner da home (`black-friday-rituaria-banner-leve-3-pague-2.webp`), com a legenda de que a coleção é a referência, não o "todos os suplementos" do banner.
+- **A conta de um carrinho de teste:** o print do checkout de 18/11 com a promoção e o cupom.
+- **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
+

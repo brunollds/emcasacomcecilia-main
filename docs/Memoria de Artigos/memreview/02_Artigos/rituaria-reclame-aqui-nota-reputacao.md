@@ -9,9 +9,9 @@ category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2) na sessão de artigos"
+proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow; refazer o carrinho do Leve 3, Pague 2 na semana de 27/11"
 bloqueado_por: "-"
 data_criacao: "2026-11-18"
 pauta_id: "RT2"
@@ -187,3 +187,18 @@ Nenhuma nova. (As abertas do pacote seguem: datas da Black Friday e mínimo ou l
 - **Valor mínimo e limite de usos do EMCASA:** "não que eu saiba". Segue sem leitura: não escrever "sem mínimo", "sem
   limite" nem o contrário.
 - Pauta aprovada; handoff para a redação em 18/11.
+
+## Redação, revisão e JSON (18/11/2026)
+
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1051), com as regras do handoff e os fatos de [[rituaria-fatos-1711]] (a seção 9 prevalece).
+- **Job 3:** revisão do Fable 5.2, aplicada. Depois, o parecer externo do Farol (ChatGPT/Codex, em `docs/auditoria-copy-artigos/rituaria-rt1-rt6-20261118-farol/`, fora do Git) que o Bruno colou: 69 propostas nos seis artigos, cada uma conferida contra os fatos e as regras por um agente e contestada por um segundo. Uma foi recusada (a RT5 mantém "Não encontramos resenha de veículo ou de nutricionista sem código de desconto", que a busca de 18/11 sustenta); as outras foram aplicadas, várias com ajuste.
+- **Regras que o parecer não podia furar:** nada de "sem mínimo" ou "sem limite"; Pix à parte do cupom; cashback só como vantagem da loja; nenhum código de terceiro nem da loja; nenhum produto "registrado", "aprovado" ou "notificado"; sem promessa de efeito; resposta rápida sem link.
+- **Respostas:** "todas respondidas" atribuído ao perfil ("segundo o perfil"), porque títulos recentes da lista aparecem como "Não respondida". O FAQ fala do recorte "de maio a outubro" sem o ano, porque data em FAQ quebra o validate:content.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 18/11/2026)
+
+- **Capa:** `/images/reviews/rituaria/rituaria-reclame-aqui-nota-reputacao-capa.webp`, "No Reclame Aqui / nota e queixas" e o EMCASA, com o Cardio Ômega 3 e a Coenzima Q10.
+- **A nota em números:** o quadro de indicadores do perfil (`rituaria-reclame-aqui-indicadores.webp`, montagem em duas colunas da mesma captura).
+- **Ranking:** o quadro "Qual a posição no ranking?" (`rituaria-reclame-aqui-ranking.webp`), 5º em Melhor empresa na categoria; a legenda diz que não é ranking de eficácia.
+- **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
+

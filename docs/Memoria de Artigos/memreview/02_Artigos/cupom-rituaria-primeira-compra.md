@@ -9,9 +9,9 @@ category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2) na sessão de artigos"
+proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow; refazer o carrinho do Leve 3, Pague 2 na semana de 27/11"
 bloqueado_por: "-"
 score_autoridade: 48
 score_conversao: 85
@@ -158,3 +158,18 @@ pessoa se não houver foto oficial). Corpo: o print `/images/reviews/rituaria/cu
 - **Valor mínimo e limite de usos do EMCASA:** "não que eu saiba". Segue sem leitura: não escrever "sem mínimo", "sem
   limite" nem o contrário.
 - Pauta aprovada; handoff para a redação em 18/11.
+
+## Redação, revisão e JSON (18/11/2026)
+
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1054), com as regras do handoff e os fatos de [[rituaria-fatos-1711]] (a seção 9 prevalece).
+- **Job 3:** revisão do Fable 5.2, aplicada. Depois, o parecer externo do Farol (ChatGPT/Codex, em `docs/auditoria-copy-artigos/rituaria-rt1-rt6-20261118-farol/`, fora do Git) que o Bruno colou: 69 propostas nos seis artigos, cada uma conferida contra os fatos e as regras por um agente e contestada por um segundo. Uma foi recusada (a RT5 mantém "Não encontramos resenha de veículo ou de nutricionista sem código de desconto", que a busca de 18/11 sustenta); as outras foram aplicadas, várias com ajuste.
+- **Regras que o parecer não podia furar:** nada de "sem mínimo" ou "sem limite"; Pix à parte do cupom; cashback só como vantagem da loja; nenhum código de terceiro nem da loja; nenhum produto "registrado", "aprovado" ou "notificado"; sem promessa de efeito; resposta rápida sem link.
+- **Abertura:** apresenta a marca em uma frase, com link para a RT3, como o Bruno definiu para a série; a frase sobre códigos de outros sites saiu.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 18/11/2026)
+
+- **Capa:** `/images/reviews/rituaria/cupom-rituaria-primeira-compra-capa.webp`, "Bem-vindo / 10% OFF" e o EMCASA, com a Femme Nutri e a Maca Peruana.
+- **Como aplicar:** o print do checkout com o EMCASA.
+- **Primeiro pedido:** a política de trocas e cancelamento da central de ajuda (`cupom-rituaria-primeira-compra-trocas.webp`).
+- **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
+

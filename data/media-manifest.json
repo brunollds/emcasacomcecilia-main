@@ -124259,6 +124259,159 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/rituaria/black-friday-rituaria-banner-leve-3-pague-2.webp",
+      "local_url": "/images/reviews/rituaria/black-friday-rituaria-banner-leve-3-pague-2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 214438,
+      "sha256": "be59b5e65a343c1087956ade3fc80808b288420e12dfb356879dbb6f235a5a91",
+      "width": 1600,
+      "height": 600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-rituaria-banner-leve-3-pague-2.webp",
+      "storage_filename": "black-friday-rituaria-banner-leve-3-pague-2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-rituaria.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-rituaria.json",
+          "line": 77,
+          "column": 19,
+          "literal": "/images/reviews/rituaria/black-friday-rituaria-banner-leve-3-pague-2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 262731,
+          "column": 21,
+          "literal": "/images/reviews/rituaria/black-friday-rituaria-banner-leve-3-pague-2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/be59b5e65a343c1087956ade3fc80808b288420e12dfb356879dbb6f235a5a91/black-friday-rituaria-banner-leve-3-pague-2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/be59b5e65a343c1087956ade3fc80808b288420e12dfb356879dbb6f235a5a91/black-friday-rituaria-banner-leve-3-pague-2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T04:56:30.954Z",
+      "verification_etag_or_digest": "be59b5e65a343c1087956ade3fc80808b288420e12dfb356879dbb6f235a5a91",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/black-friday-rituaria-capa.webp",
+      "local_url": "/images/reviews/rituaria/black-friday-rituaria-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78274,
+      "sha256": "19040d2c664c2fcc76025f8e59937d045ddfebe3f78980f3fc617ec36af199fd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-rituaria-capa.webp",
+      "storage_filename": "black-friday-rituaria-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-rituaria.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-rituaria.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/rituaria/black-friday-rituaria-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 262683,
+          "column": 15,
+          "literal": "/images/reviews/rituaria/black-friday-rituaria-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/19040d2c664c2fcc76025f8e59937d045ddfebe3f78980f3fc617ec36af199fd/black-friday-rituaria-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/19040d2c664c2fcc76025f8e59937d045ddfebe3f78980f3fc617ec36af199fd/black-friday-rituaria-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T04:56:31.295Z",
+      "verification_etag_or_digest": "19040d2c664c2fcc76025f8e59937d045ddfebe3f78980f3fc617ec36af199fd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/black-friday-rituaria-checkout-leve-3-pague-2.webp",
+      "local_url": "/images/reviews/rituaria/black-friday-rituaria-checkout-leve-3-pague-2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17228,
+      "sha256": "b155cc35d6fc67834d5ed6126af62bcad23f33fb6880351749ce99c46980988b",
+      "width": 373,
+      "height": 691,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-rituaria-checkout-leve-3-pague-2.webp",
+      "storage_filename": "black-friday-rituaria-checkout-leve-3-pague-2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-rituaria.json",
+        "content/reviews/cupom-rituaria-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-rituaria.json",
+          "line": 147,
+          "column": 19,
+          "literal": "/images/reviews/rituaria/black-friday-rituaria-checkout-leve-3-pague-2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cupom-rituaria-como-usar.json",
+          "line": 127,
+          "column": 19,
+          "literal": "/images/reviews/rituaria/black-friday-rituaria-checkout-leve-3-pague-2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 262580,
+          "column": 21,
+          "literal": "/images/reviews/rituaria/black-friday-rituaria-checkout-leve-3-pague-2.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 262801,
+          "column": 21,
+          "literal": "/images/reviews/rituaria/black-friday-rituaria-checkout-leve-3-pague-2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b155cc35d6fc67834d5ed6126af62bcad23f33fb6880351749ce99c46980988b/black-friday-rituaria-checkout-leve-3-pague-2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b155cc35d6fc67834d5ed6126af62bcad23f33fb6880351749ce99c46980988b/black-friday-rituaria-checkout-leve-3-pague-2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T04:56:31.586Z",
+      "verification_etag_or_digest": "b155cc35d6fc67834d5ed6126af62bcad23f33fb6880351749ce99c46980988b",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/rituaria/cupom-rituaria-checkout-com-cupom.webp",
       "local_url": "/images/reviews/rituaria/cupom-rituaria-checkout-com-cupom.webp",
       "media_kind": "image",
@@ -124294,6 +124447,604 @@
       "uploaded_at": null,
       "verified_at": "2026-11-18T02:43:48.716Z",
       "verification_etag_or_digest": "c26832fd92f8a50f24352cbd352ae04a7d3fd8a231767963e0f7efcb8a59de6d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/cupom-rituaria-como-usar-capa.webp",
+      "local_url": "/images/reviews/rituaria/cupom-rituaria-como-usar-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 59482,
+      "sha256": "cea2763435bc693b6a53b247b00e50593f6c6368f96cf38b87eefc03c3129a76",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-rituaria-como-usar-capa.webp",
+      "storage_filename": "cupom-rituaria-como-usar-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-rituaria-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-rituaria-como-usar.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/rituaria/cupom-rituaria-como-usar-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 262482,
+          "column": 15,
+          "literal": "/images/reviews/rituaria/cupom-rituaria-como-usar-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/cea2763435bc693b6a53b247b00e50593f6c6368f96cf38b87eefc03c3129a76/cupom-rituaria-como-usar-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cea2763435bc693b6a53b247b00e50593f6c6368f96cf38b87eefc03c3129a76/cupom-rituaria-como-usar-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T04:56:31.924Z",
+      "verification_etag_or_digest": "cea2763435bc693b6a53b247b00e50593f6c6368f96cf38b87eefc03c3129a76",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/cupom-rituaria-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/rituaria/cupom-rituaria-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 62192,
+      "sha256": "d03e966c97ade1663a06aa333242d6e6cb533832271345dfd9973adaa56deeb2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-rituaria-primeira-compra-capa.webp",
+      "storage_filename": "cupom-rituaria-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-rituaria-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-rituaria-primeira-compra.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/rituaria/cupom-rituaria-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 263586,
+          "column": 15,
+          "literal": "/images/reviews/rituaria/cupom-rituaria-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d03e966c97ade1663a06aa333242d6e6cb533832271345dfd9973adaa56deeb2/cupom-rituaria-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d03e966c97ade1663a06aa333242d6e6cb533832271345dfd9973adaa56deeb2/cupom-rituaria-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T04:56:32.257Z",
+      "verification_etag_or_digest": "d03e966c97ade1663a06aa333242d6e6cb533832271345dfd9973adaa56deeb2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/cupom-rituaria-primeira-compra-trocas.webp",
+      "local_url": "/images/reviews/rituaria/cupom-rituaria-primeira-compra-trocas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 66006,
+      "sha256": "9943f41ec3dcb966035abc67d0cf7a821840e1d97c7ae6e284f54fb877e5f455",
+      "width": 900,
+      "height": 439,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-rituaria-primeira-compra-trocas.webp",
+      "storage_filename": "cupom-rituaria-primeira-compra-trocas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-rituaria-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-rituaria-primeira-compra.json",
+          "line": 141,
+          "column": 19,
+          "literal": "/images/reviews/rituaria/cupom-rituaria-primeira-compra-trocas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 263698,
+          "column": 21,
+          "literal": "/images/reviews/rituaria/cupom-rituaria-primeira-compra-trocas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9943f41ec3dcb966035abc67d0cf7a821840e1d97c7ae6e284f54fb877e5f455/cupom-rituaria-primeira-compra-trocas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9943f41ec3dcb966035abc67d0cf7a821840e1d97c7ae6e284f54fb877e5f455/cupom-rituaria-primeira-compra-trocas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T04:56:32.590Z",
+      "verification_etag_or_digest": "9943f41ec3dcb966035abc67d0cf7a821840e1d97c7ae6e284f54fb877e5f455",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/rituaria-e-boa-4mag.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-e-boa-4mag.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 87510,
+      "sha256": "859ad87cd718b8c85908f3bd0f7d3820420d6bf02b65e5bd6dcd721aa1c3b6a9",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-e-boa-4mag.webp",
+      "storage_filename": "rituaria-e-boa-4mag.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/rituaria-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/rituaria-e-boa.json",
+          "line": 112,
+          "column": 19,
+          "literal": "/images/reviews/rituaria/rituaria-e-boa-4mag.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 263359,
+          "column": 21,
+          "literal": "/images/reviews/rituaria/rituaria-e-boa-4mag.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/859ad87cd718b8c85908f3bd0f7d3820420d6bf02b65e5bd6dcd721aa1c3b6a9/rituaria-e-boa-4mag.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/859ad87cd718b8c85908f3bd0f7d3820420d6bf02b65e5bd6dcd721aa1c3b6a9/rituaria-e-boa-4mag.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T04:56:33.004Z",
+      "verification_etag_or_digest": "859ad87cd718b8c85908f3bd0f7d3820420d6bf02b65e5bd6dcd721aa1c3b6a9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/rituaria-e-boa-capa.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-e-boa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 92018,
+      "sha256": "14ce06bf21f041f8de48d20c6a0a249cd7a2d079d6285ed2439fef6935522d7e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-e-boa-capa.webp",
+      "storage_filename": "rituaria-e-boa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/rituaria-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/rituaria-e-boa.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/rituaria/rituaria-e-boa-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 263277,
+          "column": 15,
+          "literal": "/images/reviews/rituaria/rituaria-e-boa-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/14ce06bf21f041f8de48d20c6a0a249cd7a2d079d6285ed2439fef6935522d7e/rituaria-e-boa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/14ce06bf21f041f8de48d20c6a0a249cd7a2d079d6285ed2439fef6935522d7e/rituaria-e-boa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T04:56:33.456Z",
+      "verification_etag_or_digest": "14ce06bf21f041f8de48d20c6a0a249cd7a2d079d6285ed2439fef6935522d7e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/rituaria-e-boa-nac.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-e-boa-nac.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 80462,
+      "sha256": "311282f6a7bac88446d263c8a3efc08321d10f0b47be524722fbe9918d9dca12",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-e-boa-nac.webp",
+      "storage_filename": "rituaria-e-boa-nac.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/rituaria-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/rituaria-e-boa.json",
+          "line": 213,
+          "column": 19,
+          "literal": "/images/reviews/rituaria/rituaria-e-boa-nac.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 263460,
+          "column": 21,
+          "literal": "/images/reviews/rituaria/rituaria-e-boa-nac.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/311282f6a7bac88446d263c8a3efc08321d10f0b47be524722fbe9918d9dca12/rituaria-e-boa-nac.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/311282f6a7bac88446d263c8a3efc08321d10f0b47be524722fbe9918d9dca12/rituaria-e-boa-nac.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T04:56:33.769Z",
+      "verification_etag_or_digest": "311282f6a7bac88446d263c8a3efc08321d10f0b47be524722fbe9918d9dca12",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/rituaria-e-boa-prebiotica.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-e-boa-prebiotica.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 90042,
+      "sha256": "de84dbc1750a4d2c12c82f9397f2305398155540f19d525e619728e279739e16",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-e-boa-prebiotica.webp",
+      "storage_filename": "rituaria-e-boa-prebiotica.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/rituaria-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/rituaria-e-boa.json",
+          "line": 167,
+          "column": 19,
+          "literal": "/images/reviews/rituaria/rituaria-e-boa-prebiotica.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 263414,
+          "column": 21,
+          "literal": "/images/reviews/rituaria/rituaria-e-boa-prebiotica.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/de84dbc1750a4d2c12c82f9397f2305398155540f19d525e619728e279739e16/rituaria-e-boa-prebiotica.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/de84dbc1750a4d2c12c82f9397f2305398155540f19d525e619728e279739e16/rituaria-e-boa-prebiotica.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T04:56:34.160Z",
+      "verification_etag_or_digest": "de84dbc1750a4d2c12c82f9397f2305398155540f19d525e619728e279739e16",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/rituaria-e-boa-skincare.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-e-boa-skincare.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 235824,
+      "sha256": "da3beac4ba0696cbd3f7edf33eeac6c10c968a813b4082b090f90de2ab090eb1",
+      "width": 1200,
+      "height": 1057,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-e-boa-skincare.webp",
+      "storage_filename": "rituaria-e-boa-skincare.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/rituaria-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/rituaria-e-boa.json",
+          "line": 77,
+          "column": 19,
+          "literal": "/images/reviews/rituaria/rituaria-e-boa-skincare.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 263324,
+          "column": 21,
+          "literal": "/images/reviews/rituaria/rituaria-e-boa-skincare.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/da3beac4ba0696cbd3f7edf33eeac6c10c968a813b4082b090f90de2ab090eb1/rituaria-e-boa-skincare.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/da3beac4ba0696cbd3f7edf33eeac6c10c968a813b4082b090f90de2ab090eb1/rituaria-e-boa-skincare.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T04:56:34.688Z",
+      "verification_etag_or_digest": "da3beac4ba0696cbd3f7edf33eeac6c10c968a813b4082b090f90de2ab090eb1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/rituaria-e-confiavel-capa.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-e-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 76146,
+      "sha256": "c47af814d6e3320c466db6e8fd47df316c88fd3137b75d3c9aefaafa781a362d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-e-confiavel-capa.webp",
+      "storage_filename": "rituaria-e-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/rituaria-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/rituaria-e-confiavel.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/rituaria/rituaria-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 263128,
+          "column": 15,
+          "literal": "/images/reviews/rituaria/rituaria-e-confiavel-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c47af814d6e3320c466db6e8fd47df316c88fd3137b75d3c9aefaafa781a362d/rituaria-e-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c47af814d6e3320c466db6e8fd47df316c88fd3137b75d3c9aefaafa781a362d/rituaria-e-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T04:56:35.066Z",
+      "verification_etag_or_digest": "c47af814d6e3320c466db6e8fd47df316c88fd3137b75d3c9aefaafa781a362d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/rituaria-e-confiavel-rodape-cnpj.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-e-confiavel-rodape-cnpj.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15470,
+      "sha256": "3d73a4e86b60e92fdadd3a64727867c4cfeda9ce27fcaa4f0826fd730adc3391",
+      "width": 666,
+      "height": 166,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-e-confiavel-rodape-cnpj.webp",
+      "storage_filename": "rituaria-e-confiavel-rodape-cnpj.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/rituaria-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/rituaria-e-confiavel.json",
+          "line": 66,
+          "column": 19,
+          "literal": "/images/reviews/rituaria/rituaria-e-confiavel-rodape-cnpj.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 263165,
+          "column": 21,
+          "literal": "/images/reviews/rituaria/rituaria-e-confiavel-rodape-cnpj.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3d73a4e86b60e92fdadd3a64727867c4cfeda9ce27fcaa4f0826fd730adc3391/rituaria-e-confiavel-rodape-cnpj.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3d73a4e86b60e92fdadd3a64727867c4cfeda9ce27fcaa4f0826fd730adc3391/rituaria-e-confiavel-rodape-cnpj.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T04:56:35.335Z",
+      "verification_etag_or_digest": "3d73a4e86b60e92fdadd3a64727867c4cfeda9ce27fcaa4f0826fd730adc3391",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/rituaria-reclame-aqui-indicadores.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-reclame-aqui-indicadores.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31942,
+      "sha256": "634dced78c36ebdeb29d8f35026395fb3a75f0eba201b361f14b7c7a316188c4",
+      "width": 708,
+      "height": 583,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-reclame-aqui-indicadores.webp",
+      "storage_filename": "rituaria-reclame-aqui-indicadores.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/rituaria-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/rituaria-reclame-aqui-nota-reputacao.json",
+          "line": 112,
+          "column": 19,
+          "literal": "/images/reviews/rituaria/rituaria-reclame-aqui-indicadores.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 262996,
+          "column": 21,
+          "literal": "/images/reviews/rituaria/rituaria-reclame-aqui-indicadores.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/634dced78c36ebdeb29d8f35026395fb3a75f0eba201b361f14b7c7a316188c4/rituaria-reclame-aqui-indicadores.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/634dced78c36ebdeb29d8f35026395fb3a75f0eba201b361f14b7c7a316188c4/rituaria-reclame-aqui-indicadores.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T04:56:35.652Z",
+      "verification_etag_or_digest": "634dced78c36ebdeb29d8f35026395fb3a75f0eba201b361f14b7c7a316188c4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/rituaria-reclame-aqui-nota-reputacao-capa.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-reclame-aqui-nota-reputacao-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 70768,
+      "sha256": "b778aad03c1bbc1bad903637fe02a437e27ccf84a3c09029a9821bf6d8fab82d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-reclame-aqui-nota-reputacao-capa.webp",
+      "storage_filename": "rituaria-reclame-aqui-nota-reputacao-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/rituaria-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/rituaria-reclame-aqui-nota-reputacao.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/rituaria/rituaria-reclame-aqui-nota-reputacao-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 262914,
+          "column": 15,
+          "literal": "/images/reviews/rituaria/rituaria-reclame-aqui-nota-reputacao-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b778aad03c1bbc1bad903637fe02a437e27ccf84a3c09029a9821bf6d8fab82d/rituaria-reclame-aqui-nota-reputacao-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b778aad03c1bbc1bad903637fe02a437e27ccf84a3c09029a9821bf6d8fab82d/rituaria-reclame-aqui-nota-reputacao-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T04:56:36.006Z",
+      "verification_etag_or_digest": "b778aad03c1bbc1bad903637fe02a437e27ccf84a3c09029a9821bf6d8fab82d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/rituaria-reclame-aqui-ranking.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-reclame-aqui-ranking.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20964,
+      "sha256": "21145b6398bbfdb1b386d02286a16b8c68e958192040163800814f4d6645739d",
+      "width": 702,
+      "height": 518,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-reclame-aqui-ranking.webp",
+      "storage_filename": "rituaria-reclame-aqui-ranking.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/rituaria-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/rituaria-reclame-aqui-nota-reputacao.json",
+          "line": 167,
+          "column": 19,
+          "literal": "/images/reviews/rituaria/rituaria-reclame-aqui-ranking.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 263051,
+          "column": 21,
+          "literal": "/images/reviews/rituaria/rituaria-reclame-aqui-ranking.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/21145b6398bbfdb1b386d02286a16b8c68e958192040163800814f4d6645739d/rituaria-reclame-aqui-ranking.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/21145b6398bbfdb1b386d02286a16b8c68e958192040163800814f4d6645739d/rituaria-reclame-aqui-ranking.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T04:56:36.287Z",
+      "verification_etag_or_digest": "21145b6398bbfdb1b386d02286a16b8c68e958192040163800814f4d6645739d",
       "verification_status": "verified"
     },
     {
