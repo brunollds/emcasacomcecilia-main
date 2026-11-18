@@ -7,10 +7,10 @@ parceiro_slug: "shein"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
-status: "briefing"
+status: "pronto-para-deploy"
 score: 70
 responsavel: "Job-1 (Claude Fable 5.2)"
-proxima_acao: "redação do PT (Job 2) e família de 10 idiomas (Job 4), com os fatos de [[shein-ou-aliexpress-fatos-1711]] e a amostra de [[shein-ou-aliexpress-amostra-1711]]"
+proxima_acao: "deploy (GO do Bruno); antes, abrir as 5 peças do AliExpress não conferidas fora do Brasil (blusa, vestido, legging, jeans e tênis) em outra região"
 bloqueado_por: "-"
 data_criacao: "2026-11-16"
 i18n_cluster: "shein"
@@ -18,7 +18,7 @@ translationKey: "shein-vs-aliexpress"
 modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
-status_i18n: "pendente"
+status_i18n: "pronto-para-deploy"
 affiliate: ["shein", "aliexpress"]
 ---
 
@@ -148,3 +148,10 @@ academia. Regras e limites em [[shein-ou-pares-plano-1611]], seção 5.
 - Amostra de produtos: recebida e lida em 17/11, 23 peças do AliExpress em 7 categorias e o link geral "Moda feminina",
   em [[shein-ou-aliexpress-amostra-1711]]; as 23 da SHEIN são as do SV1 ([[shein-ou-shopee-amostra-1711]]), mesmos links.
 - Antes do deploy, abrir duas ou três peças do AliExpress com outra região (ver as observações da amostra).
+
+## Redação (17/11/2026)
+
+- PT e as 9 versões escritas, revisão do Job 3 (Fable) com 7 achados aplicados; capas, peças e texto aprovados pelo Bruno.
+- Tese sem "regra única": o contraste é o prazo para desistir (SHEIN 20 dias do recebimento; AliExpress 7 dias, salvo a devolução grátis do anúncio).
+- zh-hant em Taiwan (as duas lojas entregam lá), com a home da SHEIN de Taiwan na seção 2.
+- Família com 9 seções em todas, amostra na 7ª: AliExpress à esquerda, as fotos e os links da SHEIN do SV2. Peças do AliExpress: pijama 1005012285053594, camisa 1005012093389117, blusa 1005005617252378, vestido 1005010156406846, bolsa 1005006362483795, legging 1005010044852945, jeans 1005012559703974, tênis 1005007188460406.
