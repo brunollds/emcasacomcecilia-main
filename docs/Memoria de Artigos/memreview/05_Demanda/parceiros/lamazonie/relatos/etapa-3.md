@@ -128,3 +128,18 @@ Uma linha por consulta lida no Google (as cinco primeiras da lista de 16/11 est�
 2. Você consegue baixar o CSV do Trends e abrir as perguntas dos anúncios do Mercado Livre na sua sessão logada, ou os dois ficam como estão (valores da página e `@indisponivel`)?
 3. Vale uma coleta de Instagram e de Shorts numa próxima rodada? É onde a marca aparece, mas o Instagram costuma pedir login.
 4. Nome de canal do YouTube pode ficar no repositório, ou prefere "canal pessoal" para tudo que não for marca ou veículo?
+
+## 10. Respostas do Bruno e retomada de 18/11/2026
+
+Respostas às perguntas da seção 9:
+
+1. **Preço do Mercado Livre:** não muda como a parceria é tratada, e o programa não acompanha o preço do marketplace.
+2. **CSV do Trends e perguntas do Mercado Livre:** as perguntas dos anúncios não têm jeito de sair sem login e ficam `@indisponivel`. O CSV do Trends não dependia de login: ver abaixo.
+3. **Instagram e Shorts:** ficam fora por exigirem login.
+4. **Nome de canal do YouTube:** "canal pessoal".
+
+O que foi feito:
+
+- **Correção do item 1 da seção 6.** Eu tinha escrito que o navegador embutido não grava arquivo, com base num teste feito com um link criado por mim na página do Google. O botão de exportar do próprio Trends funciona: o navegador grava o CSV na pasta Downloads (alguns chegam como `.tmp`, que é o arquivo completo sem renomear). Os quatro CSVs oficiais estão na coleta nova `20261118-2050-google-trends-csv`. A regra vale para o Trends; para as páginas do Google, do YouTube e do Mercado Livre não há botão de exportar e o resumo gravado pela sessão continua sendo o que existe.
+- **Os CSVs não batem com os valores lidos na página em 17/11.** O Trends trabalha com amostra, e cada carga devolve outra: nas três comparações de cinco termos quase todas as 53 semanas diferem, e na marca sozinha o pico único mudou de 21/06 para 22/02. A média de cada termo se repete (diferença de até 2 pontos nos termos grandes), o valor de uma semana isolada não. A marca fica perto de zero nas duas amostras. O `sinais.csv` continua apontando para os valores da página de 17/11, e cada linha de `trends` diz isso; a matriz não deve ler uma semana isolada.
+- **Nomes de canal.** Em todo o repositório desta etapa, o nome de canal que não é marca nem loja virou "canal pessoal NN" (de 01 a 27, pela ordem de aparição, sempre o mesmo número para o mesmo canal). Ficaram "L'Amazonie Skincare" e "Farmadelivery". Isso mexeu em arquivos do bruto (`youtube-resultados.txt` e quatro `serp-*.txt`); a alteração está registrada nos dois `FONTE.md`, com os hashes refeitos. Os ids de `sinais.csv` não mudaram: só as colunas `fonte` e `limitacoes` das linhas de YouTube e de `serp` com vídeo. Esta seção, escrita depois, é a única parte do relato que trata disso; as seções 7 e 9 acima descrevem o estado de 17/11.

@@ -29,7 +29,7 @@ Hash: `sha256sum <arquivo>` no Bash.
 
 ## Falhas e lacunas
 
-- **O CSV do Trends não foi baixado.** O download do navegador embutido não chega ao disco (testado na coleta do Google). Os valores são os que a página mostra, copiados da tabela de apoio do gráfico pela sessão. Não é captura byte a byte.
+- **O CSV do Trends não foi baixado nesta coleta.** Na hora achei que o navegador embutido não gravava arquivo (o teste que fiz foi com um link criado por mim na página do Google). O botão de exportar do próprio Trends funciona: os CSVs oficiais foram baixados em 18/11 e estão na coleta `20261118-2050-google-trends-csv`. Os valores são os que a página mostra, copiados da tabela de apoio do gráfico pela sessão. Não é captura byte a byte.
 - O gráfico só carregou depois de uma captura de tela forçar o desenho da página; duas leituras anteriores voltaram sem tabela e foram repetidas. Nenhum HTTP 429 e nenhum CAPTCHA.
 - Consultas relacionadas: só as da marca sozinha, e só a lista "Principais" (um item). "Em ascensão" e o mapa de sub-regiões não foram lidos.
 - Nenhum termo voltou com o aviso de "dados insuficientes". Mas a série da marca é quase toda zero: ver observações.
