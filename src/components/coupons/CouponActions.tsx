@@ -99,6 +99,8 @@ type CopyAndOpenStoreLinkProps = Partial<CopyTracking> & {
   copiedChildren: ReactNode;
   copiedStatus: string;
   sponsored?: boolean;
+  // Para quando o texto visível não diz a ação (só o código); precisa conter esse texto.
+  ariaLabel?: string;
   // O aviso de quando a pessoa volta da aba da loja: o código e onde colar, até ela fechar.
   returnNotice?: { text: string; closeLabel: string };
 };
@@ -118,6 +120,7 @@ export function CopyAndOpenStoreLink({
   copiedChildren,
   copiedStatus,
   sponsored = true,
+  ariaLabel,
   returnNotice,
 }: CopyAndOpenStoreLinkProps) {
   const awaitingReturn = useRef(false);
@@ -155,6 +158,7 @@ export function CopyAndOpenStoreLink({
         target="_blank"
         rel={sponsored ? 'sponsored noopener noreferrer' : 'noopener noreferrer'}
         onClick={handleClick}
+        aria-label={ariaLabel}
         data-copied={copied}
         className={className}
       >

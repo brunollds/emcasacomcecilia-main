@@ -323,10 +323,18 @@ vídeo, primeiras impressões e uso noturno.
   `CopyCodeButton` (`review_inline`); os outros códigos destacados no texto ficam sem botão.
 - O dock do celular aparece depois que o recorte `#cupom-artigo` sai pela parte de cima e some enquanto o
   `#loja` está na tela. Os ids ficam em `articleAnchors.ts` e a regra em `dockVisibility.ts`; sem recorte
-  (artigo sem loja), o dock aparece na primeira seção. À direita do sumário, o dock leva o botão de copiar o
-  código; sem código (loja só de link, como a Proton, ou artigo só com `cta`), o link da loja da gaveta, com o
-  mesmo rótulo, em nova aba quando é externo (`review_mobile_dock`). Na sidebar, o sumário tem altura máxima e rola
+  (artigo sem loja), o dock aparece na primeira seção. À direita do sumário, o dock leva o link da loja da gaveta
+  (`review_mobile_dock`): com código, é o código à vista, que copia e abre a loja em nova aba ("copiar e ir"); sem
+  código (loja só de link, como a Proton, ou artigo só com `cta`), o próprio link, com o mesmo rótulo. O código de
+  indicação (4CW5Y) e o link interno ficam só no copiar. Na sidebar, o sumário tem altura máxima e rola
   por dentro para o recorte continuar à vista.
+- "Copiar e ir para a loja" (`CopyAndOpenStoreLink`, de `CouponActions.tsx`): nos recortes do artigo com código e link
+  externo (topo, lateral e fim, salvo o código de indicação), no dock e nas páginas de loja, o botão principal copia o
+  código e abre a loja em nova aba, com "Só copiar o código" embaixo (no dock, na gaveta) e a linha de que o código
+  fica copiado (`goHint`). A cópia e o clique na loja são dois eventos, com o placement de cada lugar. Quem volta da
+  aba da loja encontra um aviso verde fixo no topo, com o código e onde colar (`copiedHint`, de `articleCopy.ts`), até
+  fechar. Os rótulos ficam em `couponCopyLocale.ts`, que o `couponStoreCopy.tsx` lê; o `test:build-output` confere o
+  par de botões em cada recorte e o "copiar e ir" do dock contra o link da gaveta.
 - `placement` dos eventos `coupon_copy` e `coupon_store_click` dos artigos: `review_top`, `review_inline`,
   `review_sidebar`, `review_mobile_dock`, `review_mobile_drawer` e `review_end`, mais `review_banner_top`,
   `review_banner_mid`, `review_banner_end` e `review_styling` (só `coupon_store_click`, sem `coupon_code`). `review_final_cta` e

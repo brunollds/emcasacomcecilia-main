@@ -1855,6 +1855,7 @@ let bannerArticles = 0;
 let cutoutArticles = 0;
 let multiStoreArticles = 0;
 let dockStoreLinks = 0;
+let dockCopyAndGoLinks = 0;
 let limitedCodeArticles = 0;
 // Todos os códigos com prazo dos dados, vencidos ou não: o artigo sem a faixa não leva nenhum deles.
 const ALL_LIMITED_CODES = [
@@ -1963,20 +1964,32 @@ for (const url of articleUrls) {
     assert.ok(!dockHtml.includes('data-dock-codes='), `${pagePath}: "Ver códigos" fora do artigo de várias lojas`);
     assert.ok(!dialog.includes('data-store-codes='), `${pagePath}: linhas de código na gaveta fora do artigo de várias lojas`);
   }
-  // Sem código para copiar e sem as várias lojas, o dock leva o link da loja da gaveta (o laranja), com o mesmo
-  // destino, a mesma aba e o mesmo rel; com código, o dock fica com o botão de copiar e nenhum link.
+  // Fora do artigo de várias lojas, o dock leva o link da loja da gaveta (o laranja), com o mesmo destino, a mesma aba e o
+  // mesmo rel: sem código, como o próprio link; com código e link externo, como o "copiar e ir" (o código à vista e o
+  // data-copied), salvo o código de indicação, que só copia.
   const dockLinks = dockHtml.match(/<a\b[^>]*>/g) ?? [];
   const drawerStoreLink = (dialog.match(/<a\b[^>]*>/g) ?? []).find((tag) => classesOf(tag).includes('bg-laranja'));
-  if (multiBlocks.length > 0 || dockHtml.includes('data-copied=') || !drawerStoreLink) {
-    assert.deepEqual(dockLinks, [], `${pagePath}: link da loja no dock com código, com várias lojas ou sem o link da gaveta`);
+  const attributeOf = (tag: string, attribute: string) => tag.match(new RegExp(`\s${attribute}="([^"]*)"`))?.[1];
+  const dockStore = getSingleStoreSlug(review) ? getCouponBySlug(getSingleStoreSlug(review)!) : undefined;
+  const dockCopyAndGo = Boolean(
+    review.coupon && drawerStoreLink && !isInternalLink(decodeHtml(attributeOf(drawerStoreLink, 'href') ?? '')) &&
+      getStoreCodeKind(dockStore, review.coupon) !== 'referral'
+  );
+  if (multiBlocks.length > 0 || !drawerStoreLink || (review.coupon && !dockCopyAndGo)) {
+    assert.deepEqual(dockLinks, [], `${pagePath}: link da loja no dock com várias lojas, sem o link da gaveta ou com código de indicação`);
   } else {
-    assert.equal(dockLinks.length, 1, `${pagePath}: dock sem o link da loja no lugar do botão de copiar`);
+    assert.equal(dockLinks.length, 1, `${pagePath}: dock sem o link da loja`);
     const [dockLink] = dockLinks;
     for (const attribute of ['href', 'target', 'rel']) {
-      const valueOf = (tag: string) => tag.match(new RegExp(`\\s${attribute}="([^"]*)"`))?.[1];
-      assert.equal(valueOf(dockLink), valueOf(drawerStoreLink), `${pagePath}: ${attribute} do link do dock diferente do da gaveta`);
+      assert.equal(attributeOf(dockLink, attribute), attributeOf(drawerStoreLink, attribute), `${pagePath}: ${attribute} do link do dock diferente do da gaveta`);
     }
-    dockStoreLinks++;
+    if (dockCopyAndGo) {
+      assert.match(dockLink, /\sdata-copied="false"/, `${pagePath}: o "copiar e ir" do dock sem o estado de copiado`);
+      assert.ok(dockHtml.includes(`>${review.coupon}<`), `${pagePath}: o "copiar e ir" do dock sem o código à vista`);
+      dockCopyAndGoLinks++;
+    } else {
+      dockStoreLinks++;
+    }
   }
   const sidebars = [...body.matchAll(/<aside\b[\s\S]*?<\/aside>/g)].map(([aside]) => aside).filter((aside) => aside.includes('<nav '));
   assert.equal(sidebars.length, 1, `${pagePath}: ${sidebars.length} sidebars em vez de uma`);
@@ -2396,6 +2409,7 @@ assert.ok(notedArticles > 0, 'nenhum artigo com nota editorial');
 assert.ok(faqArticles > 0, 'nenhum artigo com FAQ');
 assert.ok(cutoutArticles > 0, 'nenhum artigo com o recorte do topo');
 assert.ok(dockStoreLinks > 0, 'nenhum artigo sem código com o link da loja no dock');
+assert.ok(dockCopyAndGoLinks > 0, 'nenhum artigo com o "copiar e ir" no dock');
 assert.ok(codeHighlightArticles > 0, 'nenhum artigo com o código destacado (marca-codigo) no corpo');
 assert.ok(cutoutStoreLinks >= cutoutArticles * 3, `só ${cutoutStoreLinks} links da loja nos recortes de ${cutoutArticles} artigos`);
 assert.equal(sidebarCutoutArticles, cutoutArticles, 'recorte da lateral e recorte do topo em artigos diferentes');
@@ -4824,5 +4838,5 @@ assert.equal(hreflangOf(ptFaqHead, 'pt-BR'), `${SITE_URL}/faqs`, '/faqs: hreflan
 assert.equal(hreflangOf(ptFaqHead, 'x-default'), `${SITE_URL}/en/faq`, '/faqs: x-default');
 
 console.log(
-  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos (${multiStoreArticles} de várias lojas, com o "Ver códigos" e as linhas na gaveta, e ${dockStoreLinks} sem código, com o link da loja no dock), o recorte do topo e da lateral de ${cutoutArticles}, a faixa do código com prazo de ${limitedCodeArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o quadro de decisão de ${decisionArticles}, os banners de campanha de ${bannerArticles} e de ${storePageBannerPages} páginas de loja, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
+  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos (${multiStoreArticles} de várias lojas, com o "Ver códigos" e as linhas na gaveta, e ${dockStoreLinks} sem código, com o link da loja no dock, e ${dockCopyAndGoLinks} com o "copiar e ir" nele), o recorte do topo e da lateral de ${cutoutArticles}, a faixa do código com prazo de ${limitedCodeArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o quadro de decisão de ${decisionArticles}, os banners de campanha de ${bannerArticles} e de ${storePageBannerPages} páginas de loja, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
 );

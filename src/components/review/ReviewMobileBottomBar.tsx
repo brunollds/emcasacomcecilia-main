@@ -4,7 +4,7 @@ import { useEffect, useId, useRef, useState, type MouseEvent } from 'react';
 import Link from 'next/link';
 import { ArrowRight, Check, ChevronUp, Copy, ExternalLink, Scissors, Ticket, X } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
-import { CopyCodeButton, dockCodeSize } from '@/components/coupons/CouponActions';
+import { CopyAndOpenStoreLink, CopyCodeButton, dockCodeSize } from '@/components/coupons/CouponActions';
 import { BrandWatermark, DiscountFigure, couponFontVariables } from '@/components/coupons/CouponBlocks';
 import { acquireScrollLock, releaseScrollLock } from '@/components/editorial';
 import { FOCUS_RING } from '@/components/ui/focusRing';
@@ -14,6 +14,7 @@ import { isInternalLink } from '@/lib/internalLinks';
 import type { Locale } from '@/lib/i18n/locales';
 import { ArticleLimitedCodeLines } from './article/ArticleLimitedCodeLines';
 import { ArticleStoreCodes } from './article/ArticleStoreCodes';
+import { getArticleCopy } from './articleCopy';
 import { getCouponCopyLabels } from './couponCopyLocale';
 import { isDockVisible, useDockTargets } from './dockVisibility';
 import { getCodeHints, getCodeTitle, getSidebarCopy, getViewStoresLabel } from './sidebarCopy';
@@ -83,6 +84,8 @@ export function ReviewMobileBottomBar({
   // O código de indicação não vale no checkout; o card diz onde pesquisá-lo.
   const couponStore = affiliate && coupon?.brand ? { slug: affiliate, brand: coupon.brand } : undefined;
   const couponHint = coupon?.kind === 'referral' ? getCodeHints(copy, coupon.kind, couponStore).copy : undefined;
+  // O aviso de quando a pessoa volta da aba da loja: o código e onde colar, como nos recortes.
+  const returnNoticeText = couponStore ? getArticleCopy(locale).copiedHint(couponStore, coupon?.kind) : copy.copiedHint;
   const visible = isDockVisible({ cutoutPassed, sectionReached: activeIndex >= 0, storeInView });
   const current = Math.max(activeIndex, 0);
   const total = tocItems.length;
@@ -169,6 +172,30 @@ export function ReviewMobileBottomBar({
               <Ticket aria-hidden="true" className="h-4 w-4 shrink-0" />
               <span className="min-w-0 text-balance">{getViewStoresLabel(copy, storeBlocks ?? [])}</span>
             </button>
+          ) : coupon && cta && !isInternalLink(cta.url) && coupon.kind !== 'referral' ? (
+            // Com código e link externo da loja, o toque copia e abre a loja em nova aba, com o código à vista; o
+            // "Só copiar" fica na gaveta. O código de indicação (4CW5Y) se pesquisa no app e só copia.
+            <CopyAndOpenStoreLink
+              code={coupon.code}
+              href={cta.url}
+              brand={affiliate}
+              contentSlug={reviewSlug}
+              placement="review_mobile_dock"
+              sponsored={cta.sponsored}
+              ariaLabel={`${couponCopy.copyAndGo}: ${coupon.code}`}
+              copiedStatus={copy.copiedStatus(coupon.code)}
+              returnNotice={{ text: returnNoticeText, closeLabel: couponCopy.closeNotice }}
+              className={`flex min-h-[52px] max-w-[48%] shrink-0 items-center gap-2 rounded-lg border-2 border-dashed border-marinho bg-amarelo-cupom px-3 font-codigo font-extrabold ${FOCUS_RING} data-[copied=true]:border-solid data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-claro data-[copied=true]:text-verde-escuro`}
+              copiedChildren={
+                <>
+                  <Check aria-hidden="true" className="h-4 w-4 shrink-0" />
+                  <span className={`min-w-0 break-all text-balance leading-5 ${dockCodeSize(coupon.code)}`}>{coupon.code}</span>
+                </>
+              }
+            >
+              <span className={`min-w-0 break-all text-balance leading-5 ${dockCodeSize(coupon.code)}`}>{coupon.code}</span>
+              <ExternalLink aria-hidden="true" className="h-4 w-4 shrink-0" />
+            </CopyAndOpenStoreLink>
           ) : coupon ? (
             <CopyCodeButton
               code={coupon.code}
