@@ -102,7 +102,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | Código | Pauta | Parceiros | Busca (18/11) | Nota |
 |---|---|---|---|---|
 | DC1 | Alternativas à Donna Carioca, linha por linha (`alternativas-a-donna-carioca`) | Insider, Toda Up e SHEIN (várias lojas) | "alternativa" e "parecido com" vazios; a marca é grande (Trends 42, perto de "insider store") | No preço a Donna Carioca ganha em calcinha, top e short. Só entram as linhas com outra vantagem dita: grade (ela vai de P a GG), compra por unidade, ficha do tecido. Falta ler a SHEIN |
-| DC2 | Calcinha para academia: qual escolher (`calcinha-para-academia`) | Insider e Toda Up | "calcinha para academia" em ascensão no Trends | Par do `cueca-para-academia`. A Donna Carioca entra como referência do kit de 6 |
+| DC2 | Calcinha para academia: qual escolher (`calcinha-para-academia`) | Insider e Toda Up (várias lojas) | Trends: "calcinha sem costura" 82, "calcinha para academia" 3 (cresce desde 2024); o autocompletar filtra "calcinha" | **GO do Bruno em 18/11: a primeira a virar briefing.** O título leva "sem costura". Vantagem das parceiras: forro com ficha, compra por unidade, cor e grade; no preço a Donna Carioca ganha. Fichas na seção 8 de [[donna-carioca-fatos-1811]] |
 | DC3 | Donna Carioca é confiável? (`donna-carioca-e-confiavel`) | nenhuma | "é confiável", "reclame aqui", "site oficial", "loja física" | Molde da `stylekorean-e-confiavel`. Há perfis de outros domínios com o nome no Reclame Aqui: abrir os três |
 | DC4 | Insider ou Donna Carioca: legging (`insider-ou-donna-carioca`) | Insider | "donna carioca ou" só traz a DLK | Depois do reteste da Insider (27/11) |
 
