@@ -323,7 +323,9 @@ vídeo, primeiras impressões e uso noturno.
   `CopyCodeButton` (`review_inline`); os outros códigos destacados no texto ficam sem botão.
 - O dock do celular aparece depois que o recorte `#cupom-artigo` sai pela parte de cima e some enquanto o
   `#loja` está na tela. Os ids ficam em `articleAnchors.ts` e a regra em `dockVisibility.ts`; sem recorte
-  (artigo sem loja), o dock aparece na primeira seção. Na sidebar, o sumário tem altura máxima e rola
+  (artigo sem loja), o dock aparece na primeira seção. À direita do sumário, o dock leva o botão de copiar o
+  código; sem código (loja só de link, como a Proton, ou artigo só com `cta`), o link da loja da gaveta, com o
+  mesmo rótulo, em nova aba quando é externo (`review_mobile_dock`). Na sidebar, o sumário tem altura máxima e rola
   por dentro para o recorte continuar à vista.
 - `placement` dos eventos `coupon_copy` e `coupon_store_click` dos artigos: `review_top`, `review_inline`,
   `review_sidebar`, `review_mobile_dock`, `review_mobile_drawer` e `review_end`, mais `review_banner_top`,

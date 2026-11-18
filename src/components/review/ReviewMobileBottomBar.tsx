@@ -45,7 +45,7 @@ export interface ReviewMobileBottomBarProps {
   storeBlocks?: readonly ArticleStoreBlock[];
 }
 
-// O equivalente do sidebar no celular: um dock com a seção atual e o cupom, que abre o sumário
+// O equivalente do sidebar no celular: um dock com a seção atual e o cupom (sem código, o link da loja), que abre o sumário
 // numa gaveta. Aparece depois do recorte do topo (sem ele, quando a leitura chega à primeira seção) e
 // sai da frente do bloco da loja do fim (isDockVisible). Fica sticky no fim do <body>, então reserva o
 // próprio espaço e nunca cobre o rodapé.
@@ -169,7 +169,7 @@ export function ReviewMobileBottomBar({
               <Ticket aria-hidden="true" className="h-4 w-4 shrink-0" />
               <span className="min-w-0 text-balance">{getViewStoresLabel(copy, storeBlocks ?? [])}</span>
             </button>
-          ) : coupon && (
+          ) : coupon ? (
             <CopyCodeButton
               code={coupon.code}
               brand={affiliate}
@@ -188,7 +188,26 @@ export function ReviewMobileBottomBar({
               <Scissors aria-hidden="true" className="h-4 w-4 shrink-0" />
               <span className={`min-w-0 break-all text-balance leading-5 ${dockCodeSize(coupon.code)}`}>{coupon.code}</span>
             </CopyCodeButton>
-          )}
+          ) : cta ? (
+            // Sem código para copiar (loja só de link, como a Proton), o lugar do botão de copiar fica com o link da
+            // loja, o mesmo da gaveta; o externo abre em nova aba (CouponStoreLink).
+            <CouponStoreLink
+              href={cta.url}
+              brand={affiliate}
+              contentSlug={reviewSlug}
+              linkLabel={cta.label}
+              sponsored={cta.sponsored}
+              placement="review_mobile_dock"
+              className={`flex min-h-[52px] max-w-[48%] shrink-0 items-center gap-2 rounded-lg border-2 border-marinho bg-laranja px-3 text-left text-sm leading-5 font-extrabold ${FOCUS_RING}`}
+            >
+              <span className="line-clamp-2 min-w-0 text-balance">{cta.label}</span>
+              {isInternalLink(cta.url) ? (
+                <ArrowRight aria-hidden="true" className="h-4 w-4 shrink-0" />
+              ) : (
+                <ExternalLink aria-hidden="true" className="h-4 w-4 shrink-0" />
+              )}
+            </CouponStoreLink>
+          ) : null}
         </div>
       </div>
 
