@@ -1,0 +1,150 @@
+{
+  "id": 1064,
+  "slug": "cupom-barbours-primeira-compra",
+  "locale": "pt",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "18 de novembro de 2026",
+  "publishedAtISO": "2026-11-18",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "CECILIALINHARES",
+  "affiliate": "barbours",
+  "title": "Cupom Barbour's primeira compra: CECILIALINHARES dá 10% OFF e vale nas compras seguintes",
+  "seoTitle": "Cupom Barbour's primeira compra: 10% com CECILIALINHARES",
+  "type": "Guia & Cupons",
+  "description": "Qual cupom usar no primeiro pedido da Barbour's Beauty, quanto ele tira em dois carrinhos testados, o que muda na segunda compra e o que checar de frete, prazo e devolução.",
+  "metaDescription": "Na primeira compra da Barbour's Beauty, use CECILIALINHARES: 10% OFF no site oficial. O mesmo código vale para quem já comprou e soma com kit em promoção.",
+  "image": "/images/reviews/barbours/cupom-barbours-primeira-compra-capa.webp",
+  "imageAlt": "Logo da Barbour's Beauty, a chamada \"Bem-vinda\" e o código CECILIALINHARES, com foto oficial de produto da loja.",
+  "cta": {
+    "text": "Abra o site oficial pelo botão e aplique o código no checkout, como mostramos abaixo.",
+    "label": "Ir para a Barbour's",
+    "url": "https://barbours.gogroup.com.br/emcasacomcecilia",
+    "sponsored": true
+  },
+  "editorialNote": "Não recebemos nem usamos os produtos. Cupom testado no checkout do site oficial. Podemos receber comissão pelo cupom e pelo link.",
+  "relatedArticles": [
+    {
+      "slug": "cupom-barbours-como-usar"
+    },
+    {
+      "slug": "barbours-e-confiavel"
+    },
+    {
+      "slug": "black-friday-barbours"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Para a primeira compra na Barbour's Beauty, use o cupom CECILIALINHARES: 10% OFF no site oficial. O mesmo código também vale para quem já comprou. Nos nossos testes, ele entrou sobre um kit já em promoção, e a linha Descontos mostrou o desconto."
+      ]
+    },
+    {
+      "heading": "Qual cupom usar na primeira compra da Barbour's",
+      "paragraphs": [
+        "O CECILIALINHARES dá 10% OFF no site oficial, para cliente novo e antigo. Quem já comprou usa o mesmo código.",
+        "Código achado em outro site pode não funcionar. O CECILIALINHARES foi testado por nós no checkout do site oficial.",
+        "A nossa página do [cupom Barbour's](/cupons/barbours) reúne o código e as condições em vigor."
+      ]
+    },
+    {
+      "heading": "Quanto o cupom tira em dois carrinhos testados",
+      "paragraphs": [
+        "Em 18/11, montamos dois carrinhos no checkout do site oficial. Nos dois, o desconto foi de 10% sobre o subtotal dos produtos.",
+        "No primeiro carrinho, o kit estava em promoção e os 10% entraram sobre ele. No segundo, o cupom entrou sobre o kit em promoção e também sobre o kit Necessaire + Perfume + Body My Sweet Delight, a preço cheio.",
+        "O preço de vitrine muda. Vale o que aparece no resumo do checkout do seu pedido."
+      ],
+      "comparisonTable": {
+        "caption": "Valores observados no resumo dos dois carrinhos, sem frete. A entrega depende do CEP.",
+        "headers": [
+          "Carrinho",
+          "Subtotal",
+          "Descontos (10%)",
+          "Total com o cupom"
+        ],
+        "rows": [
+          [
+            "Kit Clássicos Masculinos, em promoção",
+            "R$ 109,90",
+            "− R$ 10,99",
+            "R$ 98,91"
+          ],
+          [
+            "Kit Clássicos Masculinos, em promoção, mais o kit Necessaire + Perfume + Body My Sweet Delight",
+            "R$ 219,80",
+            "− R$ 21,98",
+            "R$ 197,82"
+          ]
+        ]
+      },
+      "images": [
+        {
+          "src": "/images/reviews/barbours/cupom-barbours-checkout-com-cupom.webp",
+          "alt": "Resumo do checkout da Barbour's Beauty com o cupom CECILIALINHARES aplicado e a linha Descontos no pedido",
+          "caption": "Linha Descontos do pedido, com o CECILIALINHARES aplicado.",
+          "objectFit": "contain"
+        }
+      ]
+    },
+    {
+      "heading": "Como aplicar o cupom",
+      "paragraphs": [
+        "São quatro passos:"
+      ],
+      "bullets": [
+        "Coloque os produtos na sacola e clique em Finalizar a compra, no carrinho.",
+        "No checkout, abra Inserir cupom de desconto.",
+        "No campo Cupom (opcional), digite CECILIALINHARES e clique em Adicionar.",
+        "Confira a linha Descontos no resumo antes de pagar."
+      ],
+      "postParagraphs": [
+        "Se o código não entrar, confira se digitou certo e volte ao carrinho para clicar em Finalizar a compra."
+      ]
+    },
+    {
+      "heading": "E na segunda compra?",
+      "paragraphs": [
+        "O código é o mesmo. O CECILIALINHARES vale para cliente novo e antigo e entra no mesmo campo Cupom (opcional) do checkout."
+      ]
+    },
+    {
+      "heading": "Frete, prazo e devolução",
+      "paragraphs": [
+        "Sobre frete, prazo e devolução, a loja informa:"
+      ],
+      "bullets": [
+        "**Frete.** O valor muda conforme a região e o seu CEP. A tabela por região está no [guia de como usar](/reviews/cupom-barbours-como-usar).",
+        "**Prazo.** Em média, 7 a 10 dias úteis.",
+        "**Desistência.** Você pode desistir em até 7 dias do recebimento.",
+        "**Pedido enviado.** Um pedido já enviado não se cancela, mas pode ser recusado na entrega.",
+        "**Trocas.** As trocas são feitas pelo portal da loja."
+      ],
+      "postParagraphs": [
+        "Se quer saber quem está por trás da loja antes de comprar, leia [se a Barbour's Beauty é confiável](/reviews/barbours-e-confiavel)."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Tem cupom Barbour's de primeira compra? Sim. Use CECILIALINHARES para 10% OFF no site oficial, no campo Cupom (opcional) do checkout.",
+        "Qual cupom vale para quem já é cliente? O mesmo CECILIALINHARES, para cliente novo e antigo.",
+        "O cupom soma com kit em promoção? Sim, nos testes que fizemos. O desconto entra sobre o preço do kit em promoção.",
+        "Onde coloco o cupom na primeira compra? Depois de clicar em Finalizar a compra no carrinho, abra Inserir cupom de desconto e digite o código no campo Cupom (opcional)."
+      ]
+    }
+  ]
+}

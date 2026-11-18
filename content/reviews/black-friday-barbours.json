@@ -1,0 +1,153 @@
+{
+  "id": 1060,
+  "slug": "black-friday-barbours",
+  "locale": "pt",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "18 de novembro de 2026",
+  "publishedAtISO": "2026-11-18",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "CECILIALINHARES",
+  "affiliate": "barbours",
+  "title": "Black Friday Barbour's Beauty 2026: as promoções da loja e como o cupom CECILIALINHARES entra",
+  "seoTitle": "Black Friday Barbour's 2026: promoções e cupom de 10%",
+  "type": "Guia & Cupons",
+  "description": "O que a Barbour's Beauty mostrava em promoção antes da Black Friday, como o cupom de 10% entrou sobre um kit e um produto de preço cheio no nosso teste e o que conferir no pedido.",
+  "metaDescription": "CECILIALINHARES dá 10% OFF na Barbour's Beauty e entrou sobre um kit em promoção no nosso teste. Veja o que a loja mostrou na Black Week e o que conferir.",
+  "image": "/images/reviews/barbours/black-friday-barbours-capa.webp",
+  "imageAlt": "Logo da Barbour's Beauty, a chamada Black Friday 2026 e o código CECILIALINHARES, ao lado de três body splashes da loja.",
+  "cta": {
+    "text": "Abra o site pelo botão, monte o carrinho e aplique o cupom no checkout, como mostrado abaixo.",
+    "label": "Ir para a Barbour's",
+    "url": "https://barbours.gogroup.com.br/emcasacomcecilia",
+    "sponsored": true
+  },
+  "editorialNote": "Não recebemos nem usamos os produtos. Cupom testado no checkout do site oficial. Podemos receber comissão pelo cupom e pelo link.",
+  "relatedArticles": [
+    {
+      "slug": "cupom-barbours-como-usar"
+    },
+    {
+      "slug": "barbours-e-confiavel"
+    },
+    {
+      "slug": "cupom-barbours-primeira-compra"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "O cupom CECILIALINHARES dá 10% OFF na Barbour's Beauty, nas condições de sempre, e entrou sobre um kit em promoção nos nossos testes. Ele se digita no checkout do site oficial, depois de Finalizar a compra. Antes de pagar, confira a linha Descontos e o total com o seu CEP."
+      ]
+    },
+    {
+      "heading": "O cupom vale na Black Friday?",
+      "paragraphs": [
+        "O cupom de sempre é o CECILIALINHARES, com 10% OFF no site oficial, para cliente novo e antigo. As condições completas estão na página do [cupom Barbour's](/cupons/barbours).",
+        "Nos nossos testes, os 10% entraram também sobre um kit que já estava em promoção. Não testamos todos os itens da loja.",
+        "A loja não publicou regras para a campanha, então a única condição que conhecemos é a do cupom de sempre."
+      ]
+    },
+    {
+      "heading": "O que a loja mostrava em promoção",
+      "paragraphs": [
+        "Em 18/11, a home ganhou banners “Black Week”, sem datas nem regulamento. Os preços deles são os mesmos que a vitrine já mostrava."
+      ],
+      "bullets": [
+        "Body splashes femininos e masculinos a R$ 39,90.",
+        "Perfume capilar a R$ 34,90.",
+        "Kit com três body splashes a R$ 109,90, o equivalente a R$ 36,63 cada.",
+        "Iluminador mais body splash a R$ 79,90."
+      ],
+      "postParagraphs": [
+        "A loja não publicou data de fim nem regra da campanha, então o preço da vitrine pode mudar sem aviso. Vale o preço que aparecer no carrinho no dia da compra."
+      ]
+    },
+    {
+      "heading": "A conta com o cupom",
+      "paragraphs": [
+        "Em 18 de novembro, aplicamos o cupom em dois carrinhos no checkout da loja, sem finalizar a compra. O resumo de cada um ficou assim. O kit do teste foi o Clássicos Masculinos, de R$ 109,90 em promoção."
+      ],
+      "comparisonTable": {
+        "caption": "Dois carrinhos testados com o cupom CECILIALINHARES, sem frete.",
+        "headers": [
+          "Carrinho",
+          "Produtos",
+          "Cupom",
+          "Total"
+        ],
+        "rows": [
+          [
+            "Kit Clássicos Masculinos",
+            "R$ 109,90",
+            "− R$ 10,99",
+            "R$ 98,91"
+          ],
+          [
+            "Kit Clássicos Masculinos + Necessaire + Perfume + Body My Sweet Delight",
+            "R$ 219,80",
+            "− R$ 21,98",
+            "R$ 197,82"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Nos dois carrinhos, o desconto foi de 10% sobre os produtos, e o kit em promoção entrou na conta. O frete ficou de fora."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/barbours/cupom-barbours-checkout-com-cupom.webp",
+          "alt": "Resumo do carrinho na Barbour's Beauty com o cupom CECILIALINHARES aplicado, a linha Descontos de R$ 21,98 e o total de R$ 197,82.",
+          "caption": "Resumo do segundo carrinho do teste, com o cupom aplicado no checkout da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 0.791
+        }
+      ]
+    },
+    {
+      "heading": "Como aplicar o cupom no checkout",
+      "paragraphs": [
+        "No carrinho, clique em Finalizar a compra. No checkout seguro da loja, abra Inserir cupom de desconto, digite CECILIALINHARES no campo Cupom (opcional) e clique em Adicionar. A linha Descontos aparece no resumo.",
+        "O botão desta página leva à loja, mas não aplica o código sozinho. O passo a passo com as telas está em [como usar o cupom CECILIALINHARES](/reviews/cupom-barbours-como-usar)."
+      ]
+    },
+    {
+      "heading": "Frete, prazo e pagamento",
+      "paragraphs": [
+        "O frete sai grátis acima de um valor que muda por região: R$ 119 em São Paulo e R$ 259 no Norte. Os valores das outras regiões estão no [guia do cupom](/reviews/cupom-barbours-como-usar).",
+        "A política não diz se o mínimo conta antes ou depois do cupom. O prazo médio é de 7 a 10 dias úteis, e a desistência vale em até 7 dias após o recebimento.",
+        "A loja aceita Pix e cartão, com até 4x sem juros."
+      ]
+    },
+    {
+      "heading": "O que conferir antes de pagar",
+      "bullets": [
+        "**A linha Descontos.** Ela precisa mostrar o desconto do cupom sobre os produtos.",
+        "**O total com o seu CEP.** O frete grátis depende da região.",
+        "**O prazo mostrado no checkout.** Pode ser diferente do prazo médio que a loja informa."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Tem cupom Barbour's na Black Friday? É o cupom de sempre, CECILIALINHARES, com 10% OFF no site oficial. Sobre a campanha, veja a seção de preços.",
+        "O cupom soma com kit em promoção? Sim, nos nossos testes. O detalhe está na seção A conta com o cupom.",
+        "A Barbour's Beauty dá frete grátis na Black Friday? O frete sai grátis acima de um valor que muda por região. Não encontramos regra específica da campanha publicada.",
+        "Qual o prazo de entrega? O prazo médio é de 7 a 10 dias úteis. Vale o prazo mostrado no checkout para o seu pedido."
+      ]
+    }
+  ]
+}

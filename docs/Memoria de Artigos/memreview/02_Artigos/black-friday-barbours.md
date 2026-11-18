@@ -125,3 +125,17 @@ checkout com o cupom e uma foto oficial de kit.
 ## Perguntas para o Bruno
 
 1. A parceira passou datas, percentuais ou regras da Black Friday?
+
+## Redação, revisão e JSON (18/11/2026)
+
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1060) por subagente, com o briefing, as regras do pacote em [[cupom-barbours-como-usar]] e os fatos de [[barbours-fatos-1811]]; sem experiência própria ("testamos" só para o cupom); contas só com os carrinhos de 18/11.
+- **Job 3:** revisão do Fable 5.2, aplicada com conferência nas fontes; depois uma auditoria de fatos e de texto (dois leitores por artigo) e a releitura da sessão.
+- Banners "Black Week" na home desde 18/11 (depois da leitura dos fatos), sem datas nem regulamento; o artigo lista os preços deles, que são os da vitrine, sem "menor preço do ano", sem preço riscado e sem "até X%".
+- O print do banner do kit saiu do corpo: a arte traz o preço riscado e o "menor preço do ano".
+- Reler a vitrine e refazer o carrinho na semana de 27/11.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 18/11/2026)
+
+- **Capa:** `/images/reviews/barbours/black-friday-barbours-capa.webp`, "Black Friday / 2026", com os três frascos do banner do kit, o logo e o CECILIALINHARES (imagens oficiais da loja).
+- **Corpo:** o print do resumo do checkout.
+- **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.

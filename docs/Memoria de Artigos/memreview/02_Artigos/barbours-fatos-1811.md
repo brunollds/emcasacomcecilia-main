@@ -122,6 +122,10 @@ terceiro: nunca citar).
   informada.
 - **Sem campanha de Black Friday no site:** nenhuma coleção, banner ou menu com o nome entre 283 coleções. No ar:
   body splash a R$ 39,90 (riscado R$ 69,90), trios "Leve 3 Pague 2" a R$ 109,90, kits promocionais e Outlet.
+- **Banners "Black Week" na home (18/11, depois da leitura acima):** sem datas nem regulamento. Body splashes
+  femininos (*exceto lançamentos) e masculinos a R$ 39,90, perfume capilar a R$ 34,90, Kit 3 Body Splashes a R$ 109,90
+  (R$ 36,63 cada) e Iluminador + Body Splash a R$ 79,90: os mesmos preços da vitrine. A arte traz "Menor preço do ano"
+  e o preço riscado, que os artigos não usam.
 - Revenda, embaixadoras e central de ajuda em domínios da GoGroup/GoBeauté. "Sobre nós" não cita fundador nem ano.
 - Anexo dos briefings: `Anexo-Beleza`.
 

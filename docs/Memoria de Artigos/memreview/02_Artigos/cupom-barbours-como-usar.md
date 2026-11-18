@@ -152,3 +152,16 @@ print `/images/reviews/barbours/cupom-barbours-checkout-com-cupom.webp`.
 ## Perguntas para o Bruno
 
 1. Valor mínimo e limite de usos do `CECILIALINHARES`.
+
+## Redação, revisão e JSON (18/11/2026)
+
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1059) por subagente, com o briefing, as regras do pacote em [[cupom-barbours-como-usar]] e os fatos de [[barbours-fatos-1811]]; sem experiência própria ("testamos" só para o cupom); contas só com os carrinhos de 18/11.
+- **Job 3:** revisão do Fable 5.2, aplicada com conferência nas fontes; depois uma auditoria de fatos e de texto (dois leitores por artigo) e a releitura da sessão.
+- Segundo carrinho descrito como o kit em promoção mais o kit Necessaire + Perfume + Body My Sweet Delight a preço cheio (a primeira redação falava em "três produtos").
+- "Cupom Barbour's de 15%" responde com o nosso de 10%, sem nomear outro código; Mercado Livre sem afirmar se a marca vende lá.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 18/11/2026)
+
+- **Capa:** `/images/reviews/barbours/cupom-barbours-como-usar-capa.webp`, "Como usar / o cupom", com as três mulheres do banner da loja, o logo e o CECILIALINHARES (imagens oficiais da loja).
+- **Corpo:** o print do resumo do checkout (`cupom-barbours-checkout-com-cupom.webp`).
+- **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
