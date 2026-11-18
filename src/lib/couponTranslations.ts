@@ -1927,7 +1927,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
     discount: 'Up to 75% off',
     offerTypeLabel: 'offer',
     offerTypeLabelPlural: 'offers',
-    offerActionLabel: 'See Proton VPN plans',
+    offerActionLabel: 'Get up to 75% off via the link',
     category: 'VPN, email, passwords and cloud storage with privacy',
     shortDescription: 'up to 75% off Proton VPN, Mail, Pass, Drive and Lumo through Cecília\'s links',
     longDescription:
@@ -2014,7 +2014,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       },
     ],
     linkInstructions: [
-      'Pick the product under “Proton links by product” or tap “See Proton VPN plans”: Cecília\'s link opens the official site, with nothing to copy.',
+      'Pick the product under “Proton links by product” or tap “Get up to 75% off via the link”: Cecília\'s link opens the official site, with nothing to copy.',
       'Compare the plans: the products have a free plan and paid plans, monthly or yearly.',
       'Create a Proton account, or log in to yours, and check the price at checkout, in the currency Proton shows.',
       'If you don\'t like it, ask for a refund within the first 30 days.',
@@ -2026,7 +2026,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
     discount: 'Hasta un 75 % de descuento',
     offerTypeLabel: 'oferta',
     offerTypeLabelPlural: 'ofertas',
-    offerActionLabel: 'Ver los planes de Proton VPN',
+    offerActionLabel: 'Consigue hasta un 75 % de descuento con el enlace',
     category: 'VPN, correo, contraseñas y nube con privacidad',
     shortDescription: 'hasta un 75 % de descuento en Proton VPN, Mail, Pass, Drive y Lumo con los enlaces de Cecília',
     longDescription:
@@ -2113,7 +2113,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       },
     ],
     linkInstructions: [
-      'Elige el producto en «Enlaces de Proton por producto» o pulsa «Ver los planes de Proton VPN»: el enlace de Cecília abre el sitio oficial, sin copiar nada.',
+      'Elige el producto en «Enlaces de Proton por producto» o pulsa «Consigue hasta un 75 % de descuento con el enlace»: el enlace de Cecília abre el sitio oficial, sin copiar nada.',
       'Compara los planes: los productos tienen plan gratuito y planes de pago, mensuales o anuales.',
       'Crea tu cuenta de Proton, o entra en la que ya tienes, y comprueba el precio en el pago, en la moneda que muestre Proton.',
       'Si no te gusta, pide el reembolso en los primeros 30 días.',
@@ -2125,7 +2125,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
     discount: 'Jusqu\'à 75 % de réduction',
     offerTypeLabel: 'offre',
     offerTypeLabelPlural: 'offres',
-    offerActionLabel: 'Voir les offres Proton VPN',
+    offerActionLabel: 'Profitez de jusqu’à 75 % de réduction via le lien',
     category: 'VPN, e-mail, mots de passe et cloud respectueux de la vie privée',
     shortDescription: 'jusqu\'à 75 % de réduction sur Proton VPN, Mail, Pass, Drive et Lumo avec les liens de Cecília',
     longDescription:
@@ -2212,7 +2212,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       },
     ],
     linkInstructions: [
-      'Choisissez le produit dans « Liens Proton par produit » ou appuyez sur « Voir les offres Proton VPN » : le lien de Cecília ouvre le site officiel, sans rien copier.',
+      'Choisissez le produit dans « Liens Proton par produit » ou appuyez sur « Profitez de jusqu’à 75 % de réduction via le lien » : le lien de Cecília ouvre le site officiel, sans rien copier.',
       'Comparez les offres : les produits ont une offre gratuite et des offres payantes, au mois ou à l\'année.',
       'Créez votre compte Proton, ou connectez-vous au vôtre, et vérifiez le prix au paiement, dans la devise affichée par Proton.',
       'Si le service ne vous plaît pas, demandez le remboursement dans les 30 premiers jours.',
@@ -2224,7 +2224,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
     discount: 'Bis zu 75 % Rabatt',
     offerTypeLabel: 'Angebot',
     offerTypeLabelPlural: 'Angebote',
-    offerActionLabel: 'Proton-VPN-Tarife ansehen',
+    offerActionLabel: 'Bis zu 75 % Rabatt über den Link sichern',
     category: 'VPN, E-Mail, Passwörter und Cloud mit Datenschutz',
     shortDescription: 'bis zu 75 % Rabatt auf Proton VPN, Mail, Pass, Drive und Lumo über Cecílias Links',
     longDescription:
@@ -2311,7 +2311,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       },
     ],
     linkInstructions: [
-      'Wähle das Produkt unter „Proton-Links nach Produkt“ oder tippe auf „Proton-VPN-Tarife ansehen“: Cecílias Link öffnet die offizielle Website, du musst nichts kopieren.',
+      'Wähle das Produkt unter „Proton-Links nach Produkt“ oder tippe auf „Bis zu 75 % Rabatt über den Link sichern“: Cecílias Link öffnet die offizielle Website, du musst nichts kopieren.',
       'Vergleiche die Tarife: Die Produkte haben einen kostenlosen Tarif und bezahlte Tarife, monatlich oder jährlich.',
       'Erstelle ein Proton-Konto oder melde dich in deinem an und prüfe den Preis an der Kasse, in der Währung, die Proton anzeigt.',
       'Wenn es dir nicht gefällt, fordere die Erstattung in den ersten 30 Tagen an.',
@@ -2323,7 +2323,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
     discount: 'Fino al 75% di sconto',
     offerTypeLabel: 'offerta',
     offerTypeLabelPlural: 'offerte',
-    offerActionLabel: 'Vedi i piani di Proton VPN',
+    offerActionLabel: 'Ottieni fino al 75% di sconto con il link',
     category: 'VPN, e-mail, password e cloud con privacy',
     shortDescription: 'fino al 75% di sconto su Proton VPN, Mail, Pass, Drive e Lumo con i link di Cecília',
     longDescription:
@@ -2410,7 +2410,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       },
     ],
     linkInstructions: [
-      'Scegli il prodotto in “Link di Proton per prodotto” oppure tocca “Vedi i piani di Proton VPN”: il link di Cecília apre il sito ufficiale, senza copiare nulla.',
+      'Scegli il prodotto in “Link di Proton per prodotto” oppure tocca “Ottieni fino al 75% di sconto con il link”: il link di Cecília apre il sito ufficiale, senza copiare nulla.',
       'Confronta i piani: i prodotti hanno un piano gratuito e piani a pagamento, mensili o annuali.',
       'Crea un account Proton, o accedi al tuo, e controlla il prezzo al pagamento, nella valuta che Proton mostra.',
       'Se non ti piace, chiedi il rimborso nei primi 30 giorni.',
@@ -2422,7 +2422,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
     discount: '최대 75% 할인',
     offerTypeLabel: '혜택',
     offerTypeLabelPlural: '혜택',
-    offerActionLabel: 'Proton VPN 요금제 보기',
+    offerActionLabel: '링크로 최대 75% 할인 받기',
     category: '개인정보를 지키는 VPN, 이메일, 비밀번호, 클라우드',
     shortDescription: 'Cecília의 링크로 Proton VPN, Mail, Pass, Drive, Lumo 최대 75% 할인',
     longDescription:
@@ -2509,7 +2509,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       },
     ],
     linkInstructions: [
-      '“제품별 Proton 링크”에서 제품을 고르거나 “Proton VPN 요금제 보기”를 누르세요. Cecília의 링크로 공식 사이트가 열리며, 복사할 것은 없습니다.',
+      '“제품별 Proton 링크”에서 제품을 고르거나 “링크로 최대 75% 할인 받기”를 누르세요. Cecília의 링크로 공식 사이트가 열리며, 복사할 것은 없습니다.',
       '요금제를 비교하세요. 제품마다 무료 요금제와 월간 또는 연간 유료 요금제가 있습니다.',
       'Proton 계정을 만들거나 기존 계정으로 로그인한 뒤, Proton이 표시하는 통화로 결제 화면의 가격을 확인하세요.',
       '마음에 들지 않으면 처음 30일 안에 환불을 요청하세요.',
@@ -2521,7 +2521,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
     discount: '最大75%オフ',
     offerTypeLabel: 'オファー',
     offerTypeLabelPlural: 'オファー',
-    offerActionLabel: 'Proton VPN のプランを見る',
+    offerActionLabel: 'リンクから最大75%オフを手に入れる',
     category: 'プライバシーを守る VPN、メール、パスワード、クラウド',
     shortDescription: 'Cecília のリンクから Proton VPN、Mail、Pass、Drive、Lumo が最大75%オフ',
     longDescription:
@@ -2608,7 +2608,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       },
     ],
     linkInstructions: [
-      '「製品別の Proton リンク」から製品を選ぶか、「Proton VPN のプランを見る」をタップします。Cecília のリンクで公式サイトが開くので、コピーするものはありません。',
+      '「製品別の Proton リンク」から製品を選ぶか、「リンクから最大75%オフを手に入れる」をタップします。Cecília のリンクで公式サイトが開くので、コピーするものはありません。',
       'プランを比べます。どの製品にも無料プランと、月払いまたは年払いの有料プランがあります。',
       'Proton アカウントを作成するか、お持ちのアカウントにログインし、Proton が表示する通貨で決済画面の価格を確認します。',
       '気に入らなかった場合は、最初の 30 日以内に返金を申請します。',
@@ -2620,7 +2620,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
     discount: '最高 75% 折扣',
     offerTypeLabel: '優惠',
     offerTypeLabelPlural: '優惠',
-    offerActionLabel: '查看 Proton VPN 方案',
+    offerActionLabel: '透過連結領取最高 75% 折扣',
     category: '注重私隱的 VPN、電郵、密碼及雲端儲存',
     shortDescription: '透過 Cecília 的連結，Proton VPN、Mail、Pass、Drive 和 Lumo 最高 75% 折扣',
     longDescription:
@@ -2707,7 +2707,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       },
     ],
     linkInstructions: [
-      '在「Proton 各產品連結」選擇產品，或點選「查看 Proton VPN 方案」：Cecília 的連結會開啟官方網站，無需複製任何內容。',
+      '在「Proton 各產品連結」選擇產品，或點選「透過連結領取最高 75% 折扣」：Cecília 的連結會開啟官方網站，無需複製任何內容。',
       '比較各方案：每個產品都有免費方案，以及按月或按年計費的付費方案。',
       '建立 Proton 帳戶，或登入你現有的帳戶，並在結帳時確認價格，貨幣以 Proton 顯示的為準。',
       '如果不喜歡，請在最初 30 天內申請退款。',
@@ -2719,7 +2719,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
     discount: '最高 75% 折扣',
     offerTypeLabel: '优惠',
     offerTypeLabelPlural: '优惠',
-    offerActionLabel: '查看 Proton VPN 方案',
+    offerActionLabel: '通过链接领取最高 75% 折扣',
     category: '注重隐私的 VPN、邮箱、密码和云存储',
     shortDescription: '通过 Cecília 的链接，Proton VPN、Mail、Pass、Drive 和 Lumo 最高 75% 折扣',
     longDescription:
@@ -2806,7 +2806,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       },
     ],
     linkInstructions: [
-      '在“Proton 各产品链接”选择产品，或点击“查看 Proton VPN 方案”：Cecília 的链接会打开官方网站，无需复制任何内容。',
+      '在“Proton 各产品链接”选择产品，或点击“通过链接领取最高 75% 折扣”：Cecília 的链接会打开官方网站，无需复制任何内容。',
       '比较各方案：每个产品都有免费方案，以及按月或按年计费的付费方案。',
       '创建 Proton 账户，或登录你现有的账户，并在结账时确认价格，货币以 Proton 显示的为准。',
       '如果不喜欢，请在最初 30 天内申请退款。',

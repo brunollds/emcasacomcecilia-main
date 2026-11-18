@@ -1689,7 +1689,7 @@ const STORE_COUPONS: Coupon[] = [
     discount: 'Até 75% OFF',
     offerTypeLabel: 'oferta',
     offerTypeLabelPlural: 'ofertas',
-    offerActionLabel: 'Ver os planos do Proton VPN',
+    offerActionLabel: 'Pegar até 75% OFF pelo link',
     category: 'VPN, e-mail, senhas e nuvem com privacidade',
     hubCategory: 'diversos',
     shortDescription: 'até 75% OFF no Proton VPN, Mail, Pass, Drive e Lumo pelos links da Cecília',
@@ -1777,7 +1777,7 @@ const STORE_COUPONS: Coupon[] = [
       },
     ],
     linkInstructions: [
-      'Escolha o produto em “Links da Proton por produto” ou toque em “Ver os planos do Proton VPN”: o link da Cecília abre o site oficial, sem copiar nada.',
+      'Escolha o produto em “Links da Proton por produto” ou toque em “Pegar até 75% OFF pelo link”: o link da Cecília abre o site oficial, sem copiar nada.',
       'Compare os planos: os produtos têm plano grátis e planos pagos, por mês ou por ano.',
       'Crie a conta Proton, ou entre na sua, e confira o preço no checkout, na moeda que a Proton mostrar.',
       'Se não gostar, peça o reembolso nos primeiros 30 dias.',
