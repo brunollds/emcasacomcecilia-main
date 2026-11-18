@@ -19,7 +19,7 @@
 
 | Caminho | Bytes | SHA-256 | Guardado em |
 |---|---|---|---|
-| `youtube-resultados.txt` | 13627 | `c2f4333f4207f9ca73cf6f70a214febfba31a2e0733549b40eb36956ec003749` | repositório |
+| `youtube-resultados.txt` | 13254 | `c03165fa8962a3501b115f1700da98bf1115cf6c8db56767d05914eb85f468a3` | repositório |
 
 Hash: `sha256sum <arquivo>` no Bash.
 
@@ -33,6 +33,10 @@ Hash: `sha256sum <arquivo>` no Bash.
 
 ## Observações
 
-- Os nomes de canal ficaram como o YouTube mostra: são o identificador público do canal, pedido pelo roteiro.
-- Nas buscas com o nome da marca, os mesmos poucos vídeos se repetem: três de um único canal (de 340 a 1,4 mil visualizações), dois do canal da própria marca (de 4 e 5 anos atrás) e dois de canais pequenos. O resto da lista é de outras marcas.
+- Os nomes de canal pessoal foram trocados por números em 18/11 (ver "Alteração posterior").
+- Nas buscas com o nome da marca, os mesmos poucos vídeos se repetem: três do canal pessoal 01 (de 340 a 1,4 mil visualizações), dois do canal da própria marca (de 4 e 5 anos atrás) e dois de canais pequenos. O resto da lista é de outras marcas.
 - Nas buscas de tema amplo, a L'Amazonie aparece uma vez (posição 2 de "melhor serum para sobrancelha crescer").
+
+## Alteração posterior (18/11/2026)
+
+Por decisão do Bruno ("canal pessoal"), o nome de todo canal que não é marca nem loja saiu do arquivo: virou "canal pessoal 01" a "canal pessoal 27", numerados pela ordem em que aparecem, e o mesmo canal tem sempre o mesmo número. Ficaram com o nome "L'Amazonie Skincare" (marca) e "Farmadelivery" (loja). Também saiu um nome de pessoa que fechava um título ("... DA NIRAJ - <nome>"). Tamanho e hash da tabela acima são os de depois da troca. A lista de qual número é qual canal não foi guardada; quem precisar relê a busca.
