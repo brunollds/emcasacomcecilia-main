@@ -141,8 +141,10 @@ Bebidas - Suplementos Alimentares e Fórmulas, site rituaria.com.br, 5 anos no R
 ## 7. Perguntas para o Bruno
 
 1. ~~A Cecília recebeu ou usa algum produto da Rituária?~~ **Respondido em 17/11: não, só fontes públicas.**
-2. A parceira passou datas ou regras da Black Friday, e disse se o EMCASA soma com o "Leve 3, Pague 2"?
-3. Existe valor mínimo ou limite de usos do código?
+2. ~~A parceira passou datas ou regras da Black Friday?~~ **Respondido em 18/11: não.** A soma com o "Leve 3, Pague 2"
+   saiu do carrinho de teste (9.1).
+3. ~~Existe valor mínimo ou limite de usos do código?~~ **Respondido em 18/11: "não que eu saiba".** Segue sem
+   leitura: nada de "sem mínimo" nem "sem limite".
 
 ## 8. Estoque (sem GO)
 
