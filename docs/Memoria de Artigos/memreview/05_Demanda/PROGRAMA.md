@@ -4,10 +4,11 @@ Criado em 16/11/2026, a pedido do Bruno, a partir do desenho da sessão de pauta
 (o handoff consolidado está guardado como veio em `HANDOFF-ORIGEM.md`). Ajustado em 17/11/2026 com a segunda revisão
 dos dois, antes da primeira coleta.
 
-**Estado: primeiro piloto (L'Amazonie) executado em 17/11/2026**, com as cinco etapas e a revisão independente. O que
+**Estado: fluxo v2, em vigor desde 18/11/2026.** O primeiro piloto (L'Amazonie) rodou em 17/11 no fluxo v1; o que
 aconteceu está em `parceiros/lamazonie/DIARIO.md` e em `LICOES.md`. O processo passou por revisão externa
-(`REVISAO-PROCESSO-PILOTO-CODEX.md` e `REVISAO-PROCESSO-PILOTO-GEMINI.md`); as mudanças de fluxo propostas estão em
-`PROPOSTA-FLUXO-V2.md` e **ainda não foram aplicadas a este documento**.
+(`REVISAO-PROCESSO-PILOTO-CODEX.md` e `REVISAO-PROCESSO-PILOTO-GEMINI.md`), e a `PROPOSTA-FLUXO-V2.md` foi aprovada pelo
+Bruno em 18/11 com as opções recomendadas. O segundo piloto, a BAW, é o primeiro no fluxo v2
+(`parceiros/baw/ROTEIRO-PILOTO.md`).
 
 ## 1. O que é
 
@@ -20,13 +21,40 @@ Não é software, não publica artigo e não altera produção. A redação cont
 
 ## 2. Etapas
 
-| Etapa | O que faz | Entrega |
-|---|---|---|
-| 1. Estrutura | Pastas, formatos, política e roteiro do piloto | Esta pasta |
-| 2. Oferta do parceiro | Marcas, categorias, linhas, produtos, serviços e planos, direto da fonte oficial | `1-bruto/` + `2-processado/catalogo.csv` |
-| 3. Interesse externo | Trends, autocompletar, perguntas relacionadas, resultados de busca, YouTube e dúvidas públicas | `1-bruto/` + `2-processado/sinais.csv` |
-| 4. Dados próprios, comerciais e cobertura | Search Console, Bing Webmaster, citações de IA, GA4, Clarity, painel do afiliado e o que já existe no site | `_site/` + `nossos-dados.csv`, `comercial.csv`, `cobertura.csv` |
-| 5. Matriz e recomendações | Cruza tudo por oportunidade editorial | `3-matriz/` + `4-saida/recomendacoes.md` |
+A etapa 1 (estrutura) é esta pasta. Cada rodada de um parceiro segue a ordem abaixo; os números das etapas 2 a 5
+são os do primeiro piloto, mantidos para os ids e os relatos continuarem batendo.
+
+| Passo | Quem | O que faz | Entrega | Roda junto com | Só segue quando |
+|---|---|---|---|---|---|
+| Rotina do site | Sessão de dados, fora do relógio do parceiro | Exports do site inteiro (Search Console, Bing, GA4, Clarity), mensais e depois de campanha grande | `_site/<coleta-id>/` + `_site/2-processado/` | Qualquer coisa | — |
+| 0. Orientação | Coordenação, com o analista designado | Lê dossiê, pesquisa semente e o que já existe no site; escreve o que já sabemos, o que falta, as perguntas que podem mudar uma decisão e o escopo (enxuto ou completo, seção 2.1); versiona os briefs | `parceiros/<slug>/0-orientacao.md` + `briefs/` | Conferência de acessos | As perguntas e o escopo estão escritos |
+| 2. Oferta | Sessão de catálogo | Marcas, categorias, linhas, produtos, serviços e planos, direto da fonte oficial | `1-bruto/` + `2-processado/catalogo.csv` | 4A | — |
+| 4A. Dados do parceiro | Sessão de dados | Recorte do `_site/` mais recente, recorte dirigido se o parceiro não aparece no export geral, comercial, inventário de URLs | `nossos-dados.csv`, `comercial.csv` | 2 | — |
+| 4B. Cobertura | A mesma sessão de dados, em sequência | O que já existe no site, por pergunta, ligado às entidades do catálogo | `cobertura.csv` | 3 | O catálogo está na `main` |
+| 3. Interesse externo | Sessão de pesquisa | Coletas escolhidas pelas perguntas da orientação: autocompletar, Trends, busca, YouTube, marketplace, dúvidas públicas, respostas de IA | `1-bruto/` + `sinais.csv` + `resumo-sinais.md` | 4B | O catálogo está na `main` |
+| Fechamento de insumos | Coordenação e donos das coletas | Confere, num checkout limpo da `main`: arquivos e hashes, ligações por id, fatos decisivos com trecho literal, lacunas com destino | Seção do `DIARIO.md` | — | Tudo conferido ou lacuna declarada |
+| 5. Análise | Analista | Matriz, leitura e diferença em relação à semente | `3-matriz/` | — | Insumos fechados num commit, citado no `LEITURA.md` |
+| Revisão | Sessão diferente da do analista | Parecer por id e pela versão revisada (commit), com o alcance da amostra | `3-matriz/REVISAO.md` | — | — |
+| Correção e segunda passada | Analista, depois o mesmo revisor, só sobre a diferença | Matriz e leitura corrigidas; veredito final | `matriz.csv`, `LEITURA.md`, `REVISAO.md` | — | Nenhuma linha `pronta` com correção pendente |
+| Integração | Coordenação | Grava os estados do parecer por id (seção 6), sincroniza a leitura no mesmo passo, gera a saída e confere contra o parecer; diário e lições | `4-saida/recomendacoes.md` | — | — |
+| Decisão e execução | Bruno e a sessão responsável | Decisão por oportunidade; execução ligada ao id, com PR e evidência | `4-saida/decisoes.json` | — | Fora do relógio da pesquisa |
+
+Papéis compatíveis podem dividir uma sessão, desde que cada arquivo tenha um dono só e o revisor nunca seja o
+analista.
+
+### 2.1 Escopo enxuto ou completo
+
+Não há número fixo de produtos ou de dias. A orientação parte de perguntas que possam mudar uma decisão editorial ou
+comercial. Se a pesquisa semente recente já responde essas perguntas e o parceiro ainda não tem histórico no site, a
+rodada é **enxuta**: só as coletas que respondem ao que falta, sem refazer catálogo ou sinais que a semente já tem com
+bruto válido. Caso contrário, **completa**. A escolha e o motivo ficam no `0-orientacao.md`.
+
+### 2.2 Mudança de escopo durante a rodada
+
+Sessão em andamento não recebe instrução contraditória solta. Quem muda o escopo registra em
+`parceiros/<slug>/decisoes.md` (quem decidiu, quando, o que valia antes, o que vale agora) e manda à sessão uma mensagem
+numerada, pedindo a confirmação de leitura antes de ela agir. Se a mudança for grande, a entrega original termina e
+abre-se um turno complementar.
 
 ### Etapa 2: oferta real
 
@@ -37,6 +65,9 @@ Não é software, não publica artigo e não altera produção. A redação cont
   decisão fica separada: avulso e kit, 100 g e 300 g, regular e oversized, mensal e anual, fórmula ou material diferente.
 - Erro de coleta não prova que o produto não existe. A lacuna fica registrada e a coleta é retomada por outro meio
   permitido.
+- Antes de coletar, ler a orientação: o que a semente já tem com bruto válido não é recoletado sem motivo, e o que ela
+  tem e a fonte não oferece (volume de uma página, por exemplo) entra citando a semente, não como `@indisponivel`.
+- Ritmo: de 3 a 5 segundos entre pedidos à loja. O laço para de fato no primeiro 429 ou 403 (seção 7).
 
 ### Etapa 3: interesse e perguntas
 
@@ -49,9 +80,22 @@ Não é software, não publica artigo e não altera produção. A redação cont
   "volume mensal de busca".
 - Antes de recomendar um artigo, ler os resultados atuais da consulta e escrever o que o nosso texto acrescenta. Sem
   essa frase, não há recomendação de artigo.
+- Anúncio na busca, preço de vitrine em marketplace e resposta de IA são sinais com id próprio (`anuncio`,
+  `vitrine-marketplace`, `resposta-ia`), não um resumo da página. Buscas relacionadas que se repetem em várias
+  consultas são juntadas por termo no `resumo-sinais.md`, para repetição não ser lida como procura.
+- O que pode decidir (condição comercial, prazo, preço, consulta candidata a artigo novo ou de prioridade alta) leva
+  trecho literal e a modalidade da evidência (seção 3, item 11).
 
-### Etapa 4: nossos dados
+### Rotina do site e etapa 4: nossos dados
 
+- **A coleta do site inteiro é rotina própria**, mensal (junto da revisão mensal de cupons) e depois de campanha
+  grande, fora do relógio de qualquer parceiro. O `FONTE.md` registra período, filtros e o commit de
+  `src/lib/couponsData.ts` e de `content/` que o processamento leu. O parceiro consome o snapshot mais recente e só abre
+  a plataforma para um recorte dirigido que falte.
+- **4A e 4B:** os dados e o comercial do parceiro podem rodar junto com a etapa 2; a cobertura só é entregue depois do
+  catálogo na `main`, já com as entidades ligadas.
+- Todo download é conferido pelo conteúdo (cabeçalho, período, filtro, uma linha conhecida), não pelo nome do arquivo,
+  e a sessão usa aba própria no navegador.
 - Diagnóstico de busca usa o export direto do Search Console e os relatórios do Bing. O GA4 não substitui o Search
   Console.
 - Export por consulta e export por página, separados, não provam que uma consulta leva a uma página. Quando a relação
@@ -70,6 +114,8 @@ Não é software, não publica artigo e não altera produção. A redação cont
 
 ### Etapa 5: matriz e recomendações
 
+- Antes da matriz, o analista lê a orientação, a semente e o dossiê e varre o `1-bruto/` por preço, data, prazo,
+  volume e promoção. O `LEITURA.md` diz o que o programa trouxe a mais que a semente e o que perdeu.
 - Uma linha da matriz é uma oportunidade editorial, não uma entidade. Pode reunir várias entidades e vários parceiros,
   e uma entidade pode gerar várias oportunidades.
 - Ações possíveis: criar artigo, melhorar capítulo, atualizar fatos ou oferta, melhorar página de cupom, ajustar links
@@ -102,7 +148,18 @@ Não é software, não publica artigo e não altera produção. A redação cont
    incompleta, item sem ficha e campo indisponível ficam escritos. O que foi obtido numa coleta parcial continua
    valendo: 120 produtos coletados são 120, com a cobertura parcial registrada à parte.
 10. **Zero não é ausência.** Valor zero, dado indisponível, hipótese não investigada, coleta parcial e campo que não se
-    aplica são estados diferentes (códigos em `FORMATOS.md`, seção 2).
+    aplica são estados diferentes (códigos em `FORMATOS.md`, seção 2). Zero, linha ausente de um relatório completo
+    e linha cortada pelo limite do export também são coisas diferentes: o `FONTE.md` diz se o export era completo, e
+    a linha leva a diferença em `qualidade` ou `limitacoes`, sem código novo.
+11. **Modalidade da evidência.** O `FONTE.md` e a coluna `modalidade` dizem como cada evidência foi preservada:
+    `arquivo-original` (byte a byte, com hash), `texto-extraido` (texto da página gravado pela sessão), `trecho-literal`
+    (a frase exata, entre aspas, com onde estava), `captura` (print) ou `resumo-coletor` (o que a sessão anotou). O que
+    pode decidir leva ao menos o trecho literal; captura é pedida só para prioridade alta. Se a ferramenta não captura,
+    a conclusão fica provisória (`confianca` no máximo `media`) e, só em prioridade alta, a coordenação pede a captura
+    ao Bruno.
+12. **Manifesto conferido.** Antes do fechamento de insumos, cada `FONTE.md` tem a seção "Conferência dos arquivos":
+    a lista bate com o que está num checkout limpo da `main` (nenhum arquivo barrado pelo `.gitignore`, nenhum hash
+    diferente).
 
 ## 4. Critérios de decisão
 
@@ -159,31 +216,75 @@ exemplo em artigo só do jeito que as regras atuais permitem, nenhum número de 
 
 ## 6. Papéis
 
-- **Coleta:** documenta a fonte e as limitações.
-- **Analista:** monta a matriz e as recomendações.
-- **Revisor:** outra sessão ou outro modelo, nunca o analista. Confere rastro, leitura das métricas, cobertura
-  existente, contas e coerência comercial. Só depois a recomendação recebe `estado_revisao = pronta`.
-- **Coordenador:** junta os arquivos e registra as decisões. Em trabalho paralelo, cada arquivo tem um responsável só.
+- **Coleta:** documenta a fonte, a modalidade da evidência e as limitações.
+- **Analista:** monta a matriz e a leitura.
+- **Revisor:** sessão diferente da do analista. Para a revisão de cada parceiro basta o mesmo modelo em sessão
+  separada, com o pedido de abrir o bruto de toda linha de prioridade alta ou média e de toda linha de artigo novo. Outro
+  modelo ou revisor externo entra em mudança de método ou de formato do programa, na auditoria de fim de piloto e em
+  discordância de peso. A segunda passada é sempre do mesmo revisor, sobre a diferença.
+- **Coordenação:** orientação, briefs, abertura de sessões, diário, como refazer, lições, fechamento de insumos e
+  integração. Pode coletar ou executar quando o Bruno designar, com o papel escrito no `DIARIO.md` da rodada e revisão
+  de outra sessão quando o resultado alimentar a matriz. Grava na matriz os estados do parecer de forma mecânica, por
+  id, a partir de um parecer que cita a versão revisada, e sincroniza o `LEITURA.md` no mesmo passo; qualquer mudança
+  de sentido (ação, prioridade, texto) volta ao analista e ao revisor. Não edita script do analista sem avisar e
+  registrar.
+
+Cada arquivo tem um dono só por rodada:
+
+| Papel | Edita | Não edita |
+|---|---|---|
+| Coordenação | `PROGRAMA.md`, `FORMATOS.md`, `LICOES.md`, `.gitattributes`, `modelos/`; no parceiro: `0-orientacao.md`, `briefs/`, `decisoes.md`, `ROTEIRO-PILOTO.md`, `DIARIO.md`, `COMO-REFAZER.md`, `1-bruto/README.md`, `4-saida/`; o `estado_revisao` da matriz e o estado no `LEITURA.md`, na integração | Coletas de outra sessão, CSVs de `2-processado/`, relatos, `REVISAO.md` |
+| Catálogo (2) | Suas coletas, brutos pesados, gerador e `catalogo.csv`, `relatos/etapa-2.md` | O resto |
+| Pesquisa (3) | Suas coletas, gerador, `sinais.csv`, `resumo-sinais.md`, `relatos/etapa-3.md` | Catálogo, `_site/`, matriz |
+| Dados (rotina e 4) | Coletas de `_site/` e do parceiro, geradores, `nossos-dados.csv`, `comercial.csv`, `cobertura.csv`, `relatos/etapa-4.md` | Catálogo, sinais, matriz |
+| Analista (5) | Gerador e validador da matriz, `matriz.csv`, `LEITURA.md`, `relatos/etapa-5.md` | Bruto, `2-processado/`, `REVISAO.md` |
+| Revisor | `REVISAO.md` | Todo o resto |
+
+Execução aprovada pelo Bruno (artigo, página de cupom, teste de carrinho) segue as regras da sessão que é dona do
+destino: `content/` e `src/` não são editados por sessão de etapa.
 
 Fato e interpretação ficam separados: o `LEITURA.md` e as recomendações marcam o que é dado e o que é leitura de quem
 analisou. "Manter como está", perguntas novas e pendências também são resultado.
 
+### Estados da oportunidade
+
+Revisão, decisão e execução são campos diferentes. O `estado_revisao` da matriz diz só se a revisão terminou (`pronta`
+é revisão concluída, não aprovação). A decisão do Bruno e a execução ficam em `4-saida/decisoes.json`, uma entrada por
+oportunidade, com data e evidência (PR, coleta), e aparecem em cada item de `recomendacoes.md`.
+
+### Briefs
+
+Cada sessão recebe um brief versionado: o modelo do papel em `modelos/briefs/` mais o `briefs/BRIEF-PARCEIRO.md` da
+rodada, com as particularidades. A instância enviada fica em `parceiros/<slug>/briefs/<papel>.md` antes de a sessão
+abrir. O que a conversa pedir além do brief entra no `decisoes.md`.
+
 ## 7. Limites que já valem no projeto
 
-- Sem login feito pela IA, sem compra e sem contornar bloqueio (Cloudflare, 429, CAPTCHA): parar e registrar.
+- Sem login feito pela IA, sem compra e sem contornar bloqueio (Cloudflare, 429, 403, CAPTCHA): no primeiro, o laço
+  para, a sessão registra no `FONTE.md` e passa para a próxima fonte da ordem. O que faltou fica como lacuna, com
+  destino (outra fonte, outro dia, o Chrome do Bruno).
 - Deploy e publicação só com decisão do Bruno.
 - Esta pasta fica fora do pacote de build (`docs/**` é `export-ignore`).
 
 ## 8. Pilotos
 
-1. **L'Amazonie:** catálogo enxuto e pesquisa semente de 16/11 para comparar.
-2. **BAW:** categorias, modelagens, variantes e catálogo maior.
+1. **L'Amazonie (17/11/2026, fluxo v1):** catálogo enxuto e pesquisa semente de 16/11 para comparar. Fechado.
+2. **BAW (fluxo v2):** categorias, modelagens, variantes e catálogo maior. Roteiro em `parceiros/baw/`.
 3. **Prohall (alternativa):** linhas técnicas. Não ter link parametrizado não tira a loja do programa: a venda conta
    pelo código.
 
 O piloto é avaliado por cinco coisas: mapeou a oferta, preservou as fontes, o processamento se refaz, as evidências se
-cruzam e as recomendações são verificáveis. O tempo de cada etapa é medido no `DIARIO.md`. Não há meta de quantidade
-de pautas nem estimativa obrigatória. O que funcionou, falhou ou mudou vai para o `LICOES.md` antes de abrir o
+cruzam e as recomendações são verificáveis. Não há meta de quantidade de pautas nem estimativa obrigatória. O
+`DIARIO.md` mede:
+
+- tempo por papel, separando o do parceiro do da rotina do site, e o tempo da coordenação, da espera e do Bruno;
+- linhas da matriz devolvidas na primeira revisão, por erro de fato e por erro de leitura;
+- fatos que estavam na semente e o processo perdeu;
+- bloqueios por excesso de pedidos;
+- decisões que mudaram por causa da investigação, e recomendações aprovadas e executadas, ligadas ao id.
+
+Parceiros diferentes têm catálogo e tempo de casa diferentes: um resultado melhor no piloto seguinte não prova,
+sozinho, que o método melhorou. O que funcionou, falhou ou mudou vai para o `LICOES.md` antes de abrir o
 programa para os outros parceiros.
 
 ## 9. Decisões de desenho
@@ -196,6 +297,11 @@ programa para os outros parceiros.
   observado.
 - **Sem pontuação numérica de prioridade no começo:** os pesos não foram medidos.
 - **CSVs nascem só com cabeçalho:** o estado "aguardando coleta" fica no `DIARIO.md` do parceiro.
+- **Fluxo v2 (18/11/2026, aprovado pelo Bruno com as opções recomendadas da `PROPOSTA-FLUXO-V2.md`):** a coordenação
+  pode coletar ou executar quando designada; ela grava os estados da revisão de forma mecânica; o escopo se decide por
+  pergunta, sem número fixo; sem captura, a conclusão fica provisória; a contagem em prosa não ganha validador (a
+  contagem sai da lista de ids que a sustenta); nenhum estado novo para "ausente de um relatório completo"; rotina do
+  site mensal e depois de campanha grande. Onde o Gemini propôs outra opção, ela está no parecer dele.
 
 ## 10. Pendências com o Bruno
 

@@ -3,8 +3,11 @@
 Escrita pela coordenação em 17/11/2026, a partir das duas revisões externas do processo
 (`REVISAO-PROCESSO-PILOTO-CODEX.md` e `REVISAO-PROCESSO-PILOTO-GEMINI.md`) e do `LICOES.md`.
 
-**Estado: proposta. Nada aqui foi aplicado ao `PROGRAMA.md`, ao `FORMATOS.md` nem aos roteiros. Espera a decisão do
-Bruno**, item por item na seção 3.
+**Estado: aprovada pelo Bruno em 18/11/2026, com as opções recomendadas ("Sim, aplicar"), e aplicada ao `PROGRAMA.md`
+e ao `FORMATOS.md` no mesmo dia.** Este arquivo fica como registro da decisão; as regras valem a partir daqueles dois.
+Na seção 3, os itens 4 e 7 ficaram com o que estava escrito (sem captura, conclusão provisória e pedido ao Bruno só em
+prioridade alta; rotina do site mensal e depois de campanha grande). O item 9, a segunda chance, segue pendente: não
+tinha opção recomendada.
 
 ## 1. Onde os dois revisores concordam
 

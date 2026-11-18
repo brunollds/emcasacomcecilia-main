@@ -109,6 +109,29 @@ O que ele não acrescentou: quase tudo o que sustenta os seis artigos já estava
 
 Aplicar as mudanças das duas tabelas de propostas, com a aprovação do Bruno. A BAW não roda em Shopify e as fichas dela não têm guia de tamanhos: a etapa 2 vai precisar do navegador e de pedidos espaçados desde o começo.
 
+## 2026-11-18 · Programa · fluxo v2 aplicado
+
+- **O que aconteceu:** duas revisões externas do processo (`REVISAO-PROCESSO-PILOTO-CODEX.md` e
+  `REVISAO-PROCESSO-PILOTO-GEMINI.md`) viraram a `PROPOSTA-FLUXO-V2.md`, que o Bruno aprovou em 18/11 com as opções
+  recomendadas.
+- **O que mudou:**
+  - `PROPOSTA-FLUXO-V2.md` deixou de ser proposta: o fluxo e os papéis estão no `PROGRAMA.md` (seções 2, 2.1, 2.2, 3
+    itens 10 a 12, 6, 7, 8 e 9).
+  - `FORMATOS.md` versão 2: sinais com `consulta_origem`, `titulo`, `modalidade` e os tipos `anuncio`,
+    `vitrine-marketplace` e `resposta-ia`, mais o `resumo-sinais.md`; catálogo com `preco_de_ref`, evidências em lista
+    e mapa de ids estável; cobertura com `parceiro` e `estado_conferido_em`, entidades obrigatórias; matriz com
+    `evidencias_principais`, `nao-criar` e `ideia-registrada`, prioridade `@nao-se-aplica`, estado só da revisão;
+    `decisoes.json` e `decisoes.md`.
+  - `.gitattributes`: LF fixo em `2-processado/`, `3-matriz/` e `4-saida/` dos parceiros (já estavam em LF no índice;
+    a renormalização não mudou nenhum arquivo). O `_site/2-processado/` segue coberto pelo `-text` do `_site/`.
+  - `modelos/briefs/`: um modelo por papel. Cada rodada tem `briefs/BRIEF-PARCEIRO.md` e as instâncias enviadas.
+- **Ficou de fora, de propósito:** validador de contagens em prosa (a contagem sai do gerador), estado novo para
+  "ausente de um relatório completo" e número fixo para escolher o escopo.
+- **Vale para os outros parceiros?** Sim: a BAW é a primeira rodada no fluxo v2. A L'Amazonie fica na versão 1 dos
+  formatos, sem migração.
+
+As duas tabelas de "Mudanças propostas, ainda não aplicadas" acima foram resolvidas por esta entrada.
+
 Modelo de registro:
 
 ```markdown
