@@ -62,11 +62,46 @@ Mínimo, mediana e máximo saem dos 50 mais vendidos de cada linha, não do cat�
 | Código | Pauta | Slug | Lojas | Por quê |
 |---|---|---|---|---|
 | DC1 | Alternativas à Donna Carioca, linha por linha | `alternativas-a-donna-carioca` | Insider, Toda Up e SHEIN (várias lojas) | Pedido do Bruno. Sem busca própria; vale pela marca grande e por abrir o nicho. Só as linhas com vantagem dita |
-| DC2 | Calcinha para academia: qual escolher | `calcinha-para-academia` | Insider e Toda Up | Busca em ascensão; já temos `cueca-para-academia` e `calcinha-insider-qual-escolher`. A Donna Carioca entra como referência de preço do kit |
+| DC2 | Calcinha para academia: qual escolher | `calcinha-para-academia` | Insider e Toda Up | **GO do Bruno em 18/11: a primeira a virar briefing (seção 8).** Já temos `cueca-para-academia` e `calcinha-insider-qual-escolher`. A Donna Carioca entra como referência de preço do kit |
 | DC3 | Donna Carioca é confiável? (com o Reclame Aqui e o site oficial) | `donna-carioca-e-confiavel` | nenhuma | A busca mais forte da marca. Molde: `stylekorean-e-confiavel`. Sem afiliado; linka a DC1 |
 | DC4 | Insider ou Donna Carioca: legging | `insider-ou-donna-carioca` | Insider | Um par por artigo. Depois do reteste da Insider |
 
 Estoque, sem saída hoje: "legging donna carioca é transparente" (só com peça em mãos); roupa de beach tennis feminina e plus size (só a SHEIN, sem leitura); "donna carioca ou dlk" (nenhuma das duas é parceira).
+
+## 8. DC2, calcinha para academia (GO do Bruno, 18/11)
+
+**Busca, relida depois do GO.**
+- O autocompletar do Google não devolve nada para nenhuma busca com "calcinha" (nem "calcinha insider"): o termo é filtrado. Para esta pauta, a evidência é o Trends.
+- Trends (Brasil, 12 meses): "calcinha sem costura" 82, "calcinha para academia" 3, "calcinha que não marca" 2, "cueca para academia" e "calcinha fitness" 0. **O termo com volume é "calcinha sem costura"**; em ascensão dentro dele, "calcinha invisível" (mais 100%) e "kit calcinha algodão" (mais 50%).
+- "calcinha para academia" em 5 anos, média por ano: 12 (2022), 4 (2023), 2 (2024), 13 (2025), 17 (2026). Cresce, mas é pequeno.
+- **Consequência:** o título leva "sem costura" junto de "academia". O artigo responde "qual calcinha usar para treinar" e ganha a busca maior pelo modelo que não marca na legging.
+- **Primeira página (busca de 18/11):** listas de "qual a melhor calcinha" de agregadores (qualmelhorcomprar, guiaomelhor, my-best), com anúncios do Mercado Livre e número de avaliação sem fonte. Nenhuma trata de treino pela ficha do tecido nem fala do forro. É aí que o texto acrescenta.
+
+**Fichas lidas em 18/11 (preço de lista, sem código).**
+
+| Marca | Modelo | Tecido (ficha) | Forro (ficha) | Tamanhos | Venda | Preço |
+|---|---|---|---|---|---|---|
+| Donna Carioca | Kit Tanga, Tanga Fio, Cós Médio, Canelada, Cós Alto e Fio Cós Alto, sem costura, corte a laser | 90% poliamida, 10% elastano | A página não fala de forro | P, M, G e GG (Cós Médio e Canelada em P/M e G/GG) | Só kit de 6, cores sortidas, sem escolha | R$ 77,90, R$ 88,90 ou R$ 111,00 o kit (R$ 12,98 a R$ 18,50 a unidade) |
+| Insider | Brief, Fio Minimal e Caleçon Cover, corte a laser | Fora: 87,5% poliamida, 12,5% elastano | Dentro: 88% modal, 12% elastano; a ficha diz "anti odor" e "rápida evaporação do suor" | PP a XGG (a Fio Minimal vai de P a GG) | Por unidade, com cor à escolha | R$ 35 a R$ 45 |
+| Insider | Tanga String, Hot Pant Safe, Biquíni Brief, Boxer | Fora: 87,5% poliamida | "Forro com fibra de origem natural" | PP a XGG | Por unidade | R$ 59 a R$ 85 |
+| Insider | Biquíni NakedFeel | 75% poliamida, 25% elastano | Modal | PP a XGG | Por unidade | R$ 59,00. **Lançamento: a página diz que cupom não vale** |
+| Toda Up | SkinUp (biquíni, cós alto, fio dental, fio dental cós alto), segunda pele sem costura | Sem composição no catálogo lido | "Forro com tecnologia GraphCare": antibacteriano, termorregulador e seca rápido, nas palavras da loja | P, M, G, GG e G1 | Por unidade, cinco cores de pele e preto | R$ 49,90 |
+| Toda Up | Cotton Up biquíni | Algodão (sem ficha no catálogo lido) | sem leitura | P a G1 | Por unidade | R$ 39,90 |
+
+**O que cada uma tem de vantagem dita.**
+- **Donna Carioca:** preço por unidade, de longe. Quem quer seis iguais e não liga para a cor compra lá, e o texto diz isso.
+- **Insider:** forro de modal com a ficha de composição, compra por unidade, cor à escolha e grade de PP a XGG.
+- **Toda Up:** forro com função dita pela loja, cores de pele e o G1.
+
+**Cuidados.**
+- "Anti odor", "antibacteriano" e "seca rápido" são alegações das lojas: vão com "segundo a ficha", sem promessa de efeito e sem conselho de saúde íntima.
+- Insider: o código deu 5% para quem já comprou em 17/11 (em aberto). O preço com o código segue o que a `/cupons/insider` disser no dia do briefing; a NakedFeel fica sem código.
+- Toda Up: o `MAUAD` está em 10% e não entra em item da Black VIP.
+- Donna Carioca sem link, foto ou print; nenhum cupom dela.
+- Não repetir o `calcinha-insider-qual-escolher` (modelos da Insider) nem o `skinup-ou-cotton-up-toda-up`: este artigo é por uso (treino, legging) e linka os dois.
+- Formato: várias lojas, `affiliate: ["insider", "toda-up"]`, sem `coupon` nem `cta`. Sem peça em mãos, nada de "veste melhor" (pergunta 5 da seção 7).
+
+**Falta para o Job 1:** composição do SkinUp e do Cotton Up na página do produto; o que a página da Insider diz do "anti odor" (tratamento ou fibra); frete e troca das três; preços relidos, porque as três estão em Black Friday.
 
 ## 7. Falta ler antes de qualquer briefing
 
