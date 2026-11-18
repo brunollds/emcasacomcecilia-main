@@ -257,5 +257,9 @@ Tabela na segunda imagem de cada produto; na 100% Beef, uma por sabor.
 - **É a única linha em que a Adaptogen ganha no preço por proteína:** R$ 30,28, contra R$ 33,00 do 100% Pure Whey
   Zero Lactose da Probiótica e R$ 37,67 do Zero Lactose da Growth em [[alternativas-a-growth-whey]] (preços de
   09/11). Ressalvas: não é whey (a fonte é carne, não soro do leite), os preços são de datas diferentes e o da
-  Adaptogen é de campanha; não foi conferido se a Growth vende proteína de carne.
+  Adaptogen é de campanha.
+- **A Growth não vende proteína de carne** (site oficial, 18/11/2026): a categoria Proteínas lista whey, whey com
+  ovo, albumina, soja, arroz, ervilha, blend vegano, colágeno, barras e snacks; a busca por "carne bovina", "proteína
+  da carne" e "beef protein" não devolve produto, e "beef" só devolve roupas na cor bege. Para quem evita lactose, a
+  comparação com a Growth é com o Whey Protein Zero Lactose dela.
 - O Adapto Whey 3W (R$ 35,78) fica acima do 3W da Growth (R$ 34,01) e do Mais Sabor da Max (R$ 30,24).
