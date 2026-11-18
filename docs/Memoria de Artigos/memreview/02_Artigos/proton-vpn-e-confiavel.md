@@ -7,7 +7,7 @@ parceiro_slug: "proton"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "pauta-aprovada"
+status: "publicado-aguardando-deploy"
 responsavel: "Job-1"
 proxima_acao: "redação (Job 2), depois da PN1; abrir os relatórios de auditoria antes de citar"
 bloqueado_por: "-"
@@ -18,7 +18,7 @@ translationKey: "proton-vpn-e-confiavel"
 modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
-status_i18n: "pendente"
+status_i18n: "10-idiomas"
 affiliate: "proton"
 coupon: null
 ---
@@ -152,3 +152,14 @@ print do quadro do Reclame Aqui, da releitura.
 | Reembolso em 30 dias, uma vez por usuário | termos de 05/11/2026 | verificado |
 | Usar VPN não é crime no Brasil | sem fonte lida | a redação acha fonte ou corta |
 | Anonimato, impossibilidade de rastreio, desempenho | nenhuma | não escrever |
+
+## Redação e publicação (17/11/2026)
+
+- **Leituras do dia (navegador, sem login):** página institucional (`proton.me/pt-br/about`), página "trustworthy", post das auditorias (`protonvpn.com/blog/no-logs-audit`), relatório de transparência, GitHub ProtonVPN, página do plano grátis, Reclame Aqui (números iguais à ficha), Google Play (Proton AG, 100 mi+ downloads, 4,8 em 1,51 mi) e App Store brasileira (4,8 em 8,2 mil).
+- **Relatório aberto:** Securitum, "Verification of Proton VPN's No-Log policy", 12 páginas, avaliação de 20 a 27/05/2026 no escritório da Proton em Zurique, dois consultores. É a quinta auditoria anual (2022 a 2026). A conclusão entra como "a conclusão que a Proton reproduz". A auditoria dos aplicativos não foi aberta e ficou como alegação da Proton.
+- **Relatório de transparência:** 458 ordens aprovadas por autoridades suíças desde 2017, todas negadas, número da própria Proton. Entrou em duas frases, com a ressalva.
+- **Cortado:** "usar VPN não é crime no Brasil" (sem fonte). Ficou a frase da Proton sobre uso legal.
+- **PT:** `proton-vpn-e-confiavel` (id 1019), com `bodyDatesReason: reclame-aqui`. Job 3 pelo Fable: 17 achados aplicados (atribuição no FAQ de segurança, "registros persistentes", quatro alegações na tabela, Reclame Aqui sem inferir causa).
+- **Fora do PT (ids 1020 a 1028):** o capítulo do Reclame Aqui dá lugar a "como falar com o suporte"; sem Pix; a nota das lojas não entra (varia por país), só o desenvolvedor e os downloads. Citações dos termos e da Securitum em discurso indireto nas traduções. Sonnet traduz do inglês, Fable fecha.
+- **Mídia:** capa `proton-vpn-e-confiavel-capa.webp` ("Proton VPN / No-logs audit", uma para os 10); print da capa do relatório da Securitum (os 10) e quadro do Reclame Aqui (só PT). Aprovados pelo Bruno em 17/11.
+- **Link para a PN3:** entra quando ela estiver no ar, junto com o `relatedArticles`.
