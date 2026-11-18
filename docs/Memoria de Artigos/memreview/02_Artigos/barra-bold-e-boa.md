@@ -304,3 +304,8 @@ açúcar adicionado" da embalagem); a tabela do artigo é texto. Opções e prop
 - **Capa:** `/images/reviews/bold/barra-bold-e-boa-capa.webp`, "É boa?", com a foto oficial da barra cortada, o logo e o CECILIA15.
 - **Corpo:** as fotos oficiais da caixa de 21 g e da Wafer e o print do checkout.
 - **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
+
+## No ar (18/11/2026)
+
+- Deploy do release `235383f3` (build Hostinger `01a1f0c5`), com o `deploy:finish` verificado, smoke 200 com a capa no CDN, `covers:check` ok, no sitemap e no `llms.txt`, e IndexNow enviado.
+- Releituras: retestar o CECILIA15 em 23/11 (fim da Pré-Black) e reler o regulamento dos brindes na fase seguinte.
