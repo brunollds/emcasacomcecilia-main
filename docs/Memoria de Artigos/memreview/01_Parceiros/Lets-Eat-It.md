@@ -27,6 +27,15 @@ na etapa seguinte. O MAUAD vale com todas as formas de pagamento e soma com o de
 (Bruno, 2026-10-08). A loja não publica política do cupom: limite por CPF e soma com outro cupom
 seguem "conforme regras da loja" até haver confirmação.
 
+Teste comparativo de 2026-11-18 (ChatGPT/Codex, checkout oficial, sem login, sem e-mail, sem finalizar; um produto
+por vez): o MAUAD deu 5% nos dois carrinhos, no jogo de 6 bowls Toscana Scalla em promoção (de R$ 610,00 por
+R$ 366,00: − R$ 18,30, R$ 347,70) e na caneca Cotton 100 ml Le Creuset sem promoção (R$ 129,00: − R$ 6,45, R$ 122,55).
+Dois códigos de 10% trazidos de respostas de IA: o DOHER10 deu os mesmos 5% nos dois carrinhos, e o BEMVINDO10 foi
+recusado nos dois ("Insira um código de desconto válido"). Não afirmar que o BEMVINDO10 expirou nem que o DOHER10
+sempre dá 5%; a primeira compra e a soma com o Pix não foram testadas. A FAQ de `/cupons/letseatit` conta o resultado
+sem nomear os dois códigos, que seguem fora dos textos sem decisão do Bruno. Relatório, prints e SHA-256 em
+`docs/evidencias-cupons/2026-11-18-letseatit/` no checkout principal (fora do git).
+
 ---
 
 ## 2. Fatos Oficiais & Catálogo (Estáveis)
