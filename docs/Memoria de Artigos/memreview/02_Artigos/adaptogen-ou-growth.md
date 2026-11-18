@@ -9,9 +9,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redação (Job 2), depois de reler rótulos e preços das duas lojas no mesmo dia"
+status: "pronto-para-deploy"
+responsavel: "Job-4"
+proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow; reler os preços das duas lojas na semana de 27/11"
 bloqueado_por: "-"
 data_criacao: "2026-11-18"
 pauta_id: "AD8"
@@ -199,3 +199,15 @@ nosso.
 ## Decisões do Bruno
 
 - 18/11/2026: só whey e proteína. Creatina e os outros produtos ficam para uma parte 2.
+
+## Redação, revisão e JSON (18/11/2026)
+
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1060) por subagente, com o brief da sessão de artigos (regras do pacote da AD1, a releitura de 18/11 à tarde e a leitura do dia da sessão de pauta), e revisado pela sessão. Só PT.
+- **Checagem e Fable:** 6 achados do checador e 15 do Fable, aplicados: proteína de carne na Growth sempre como "não encontramos no site da Growth"; "whey com ovo" fora do capítulo de quem não quer proteína do leite (albumina fica); açúcares da Growth (totais) separados dos açúcares adicionados da Adaptogen, que não se comparam direto; o isolado da Growth empata em calorias e ganha em proteína por dose, e o 3W dela tem mais proteína por 100 g de pó, ditos no texto.
+- **Preço:** o capítulo diz que a Growth sai mais barata por proteína no concentrado, no 3W, no isolado e no zero lactose, e que a 100% Beef, que não é whey, é a exceção; o Vegan Iso fica sem par (preço da proteína vegetal da Growth não lido).
+
+## Capa e imagens (Job 6)
+
+- **Capa:** `/images/reviews/adaptogen/adaptogen-ou-growth-capa.webp`, "ou Growth? / Pelo rótulo" e o CECILIA, com a 100% Beef (foto oficial; ainda não estava em capa da loja). A Growth só pelo nome.
+- **Corpo:** Tasty Iso, 100% Beef (`adaptogen-100-beef-900g.webp`) e Vegan Iso (`adaptogen-vegan-iso-450g.webp`), com link de afiliado, e o print do checkout.
+- **CDN:** as imagens novas subiram em 18/11/2026, com o sim do Bruno (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.

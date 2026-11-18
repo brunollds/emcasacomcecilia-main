@@ -264762,5 +264762,717 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 1059,
+    "slug": "adaptogen-ou-dux",
+    "locale": "pt",
+    "title": "Adaptogen ou Dux: whey comparado por dose, proteína e preço",
+    "seoTitle": "Adaptogen ou Dux: qual whey, por dose, proteína e preço",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Whey concentrado, 3W e isolado das duas marcas, pelo rótulo e pelo preço do site: proteína por dose, custo por 100 g de proteína, sabores, lactose e glúten.",
+    "metaDescription": "Adaptogen ou Dux: com o cupom CECILIA, 10% OFF na Adaptogen, comparamos os wheys por dose, proteína e preço. Veja o concentrado, o 3W e o isolado.",
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/adaptogen/adaptogen-ou-dux-capa.webp",
+    "imageAlt": "Logo da Adaptogen, a chamada “Adaptogen ou Dux” e o código CECILIA, ao lado do Adapto Whey 3W, em foto oficial da loja.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na nossa conta, o whey da Adaptogen custa menos que o da Dux por 100 g de proteína, do concentrado ao isolado, e o cupom CECILIA na Adaptogen dá 10% OFF. Por dose, são 20 a 24 g de proteína na Dux e 21 a 25 g na Adaptogen, pelas páginas. A Dux tem sabor neutro e mais tamanhos."
+        ]
+      },
+      {
+        "heading": "Como comparamos",
+        "paragraphs": [
+          "Esta comparação é só de whey: os concentrados, o de três proteínas e os isolados da Adaptogen e da Dux. Os outros produtos das duas lojas ficam de fora, e a linha da Adaptogen sozinha está no [guia Adaptogen é boa?](/reviews/adaptogen-e-boa). Quem compara outra marca com a Dux encontra [Max Titanium ou Dux](/reviews/max-titanium-ou-dux), e a comparação da Adaptogen com a Growth está em [Adaptogen ou Growth](/reviews/adaptogen-ou-growth).",
+          "Usamos o rótulo e o preço publicados nos sites das duas marcas em 18 de novembro de 2026, no cartão, sem frete e sem Pix. A Adaptogen é parceira; a Dux não é, e os links para as páginas dela, do [concentrado](https://duxhumanhealth.com/produtos/whey-protein-concentrado-pote-900g/), do [FreshWhey](https://duxhumanhealth.com/produtos/freshwhey-pote-900g) e do [isolado](https://duxhumanhealth.com/produtos/whey-protein-isolado-pote-900g/), são só fonte, sem afiliado.",
+          "Não usamos os produtos, por isso sabor, dissolução e digestão ficam de fora. Dose, proteína, lactose e glúten vêm do rótulo e da página de cada loja; o preço por 100 g de proteína é conta nossa. Quem tem condição de saúde ou alergia à proteína do leite fala com o médico ou o nutricionista antes de escolher."
+        ]
+      },
+      {
+        "heading": "Whey: proteína por dose e preço por 100 g de proteína",
+        "paragraphs": [
+          "A tabela põe cada par lado a lado. O preço por 100 g de proteína é conta nossa: o preço do pote dividido pela proteína que ele traz, pela dose e pelo peso do rótulo. A última coluna aplica os 10% do cupom CECILIA na Adaptogen sobre o preço no cartão; a Dux aparece no preço da página, sem cupom nosso."
+        ],
+        "comparisonTable": {
+          "caption": "Dose e proteína vêm das tabelas nutricionais das páginas das duas lojas. O preço por 100 g de proteína é conta nossa.",
+          "headers": [
+            "Produto",
+            "Dose e proteína",
+            "Doses",
+            "Cartão",
+            "Por 100 g de proteína (cartão)",
+            "Por 100 g com o CECILIA"
+          ],
+          "rows": [
+            [
+              "[Gold Whey 900 g](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA), concentrado",
+              "30 g, 21 g de proteína",
+              "30",
+              "R$ 223,48",
+              "R$ 35,47",
+              "R$ 31,93"
+            ],
+            [
+              "Whey Protein Concentrado 900 g, Dux",
+              "30 g, 20 g de proteína",
+              "30",
+              "R$ 368,90",
+              "R$ 61,48",
+              "sem cupom"
+            ],
+            [
+              "[Tasty Whey 3W Gourmet 900 g](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA)",
+              "34 g, 24 g de proteína",
+              "cerca de 26",
+              "R$ 270,20",
+              "R$ 42,53",
+              "R$ 38,28"
+            ],
+            [
+              "FreshWhey 900 g, Dux",
+              "30 g, 20 g de proteína",
+              "30",
+              "R$ 455,90",
+              "R$ 75,98",
+              "sem cupom"
+            ],
+            [
+              "[Tasty Iso 900 g](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA), isolado",
+              "30 g, 25 g de proteína",
+              "30",
+              "R$ 391,80",
+              "R$ 52,24",
+              "R$ 47,02"
+            ],
+            [
+              "Whey Protein Isolado 900 g, Dux",
+              "29 g, 24 g de proteína",
+              "cerca de 31",
+              "R$ 560,90",
+              "R$ 75,31",
+              "sem cupom"
+            ],
+            [
+              "[Adapto Whey 3W 900 g](https://www.adaptogen.com.br/produto/adapto-whey-3w-900g-6-sabores-150302?parceiro=CECILIA), sem par na Dux",
+              "32 g, 25 g de proteína",
+              "cerca de 28",
+              "R$ 279,55",
+              "R$ 39,76",
+              "R$ 35,78"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na nossa conta, sem o cupom, o Gold Whey custa 42% menos por 100 g de proteína que o concentrado da Dux; o Tasty Whey 3W, 44% menos que o FreshWhey; e o Tasty Iso, 31% menos que o isolado. Com o CECILIA, a diferença sobe para 48%, 50% e 38%.",
+          "O preço da Adaptogen é o da campanha de Black Friday da loja, e nos nossos testes o cupom CECILIA somou com os preços da campanha. Se o preço tiver mudado quando você ler, refaça a conta com o do dia."
+        ]
+      },
+      {
+        "heading": "Concentrado: Gold Whey ou Whey Protein Concentrado",
+        "paragraphs": [
+          "Os dois são concentrados de 900 g. A página da Adaptogen diz que o Gold Whey tem dose de 30 g, com 21 g de proteína, 115 kcal e 5 g de carboidratos. A página da Dux diz que o Whey Protein Concentrado tem dose de 30 g, com 20 g de proteína, 128 kcal e 6,7 g de carboidratos.",
+          "A diferença de proteína por dose é de 1 g. A diferença de preço por proteína é bem maior: no cartão, o Gold custa R$ 35,47 por 100 g de proteína, e R$ 31,93 com o cupom CECILIA na Adaptogen; o concentrado da Dux, R$ 61,48. A Adaptogen informa 9 sabores no Gold Whey. A Dux lista 13 no concentrado, com um Neutro."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/adaptogen/adaptogen-gold-whey-900g.webp",
+            "alt": "Pote do Gold Whey 900 g da Adaptogen, em foto oficial da loja",
+            "caption": "Foto oficial da Adaptogen. A foto leva à página do produto na loja.",
+            "href": "https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Três proteínas: Tasty Whey 3W ou FreshWhey",
+        "paragraphs": [
+          "A página da Adaptogen diz que o Tasty Whey 3W Gourmet é concentrado, isolado e hidrolisado. A tabela dele traz dose de 34 g, com 24 g de proteína, 134 kcal e 4,3 g de carboidratos, e o pote de 900 g rende cerca de 26 porções. A loja informa 23 sabores. Por 100 g de proteína, sai a R$ 42,53 no cartão e R$ 38,28 com o cupom CECILIA na Adaptogen.",
+          "O FreshWhey da Dux, que a página descreve com as mesmas três proteínas, tem dose de 30 g, com 20 g de proteína, 118 kcal e 5,2 g de carboidratos. A página diz que ele é adoçado com estévia e taumatina, e a lista de sabores tem nove opções, sem Neutro. No cartão, sai a R$ 75,98 por 100 g de proteína. A dose do Tasty é maior, 34 g contra 30 g, e parte da diferença de proteína por dose vem daí: a cada 100 g de pó, são cerca de 71 g de proteína no Tasty e 67 g no FreshWhey, na nossa conta.",
+          "A Adaptogen tem outro whey de três proteínas, o Adapto Whey 3W, de 900 g e 6 sabores pela loja: dose de 32 g, com 25 g de proteína, 128 kcal e 2,5 g de carboidratos, cerca de 28 porções. Ele não tem par na Dux e entra na tabela como opção a mais. Por 100 g de proteína, sai a R$ 39,76 no cartão e R$ 35,78 com o CECILIA, abaixo do Tasty Whey 3W."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/adaptogen/adaptogen-tasty-whey-3w-900g.webp",
+            "alt": "Pote do Tasty Whey 3W Gourmet 900 g da Adaptogen, em foto oficial da loja",
+            "caption": "Foto oficial da Adaptogen. A foto leva à página do produto na loja.",
+            "href": "https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/adaptogen/adaptogen-adapto-whey-3w-900g.webp",
+            "alt": "Pote do Adapto Whey 3W 900 g da Adaptogen, em foto oficial da loja",
+            "caption": "Foto oficial da Adaptogen. A foto leva à página do produto na loja.",
+            "href": "https://www.adaptogen.com.br/produto/adapto-whey-3w-900g-6-sabores-150302?parceiro=CECILIA",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Isolado: Tasty Iso ou Whey Protein Isolado",
+        "paragraphs": [
+          "O Tasty Iso, pela página da Adaptogen, é isolado e hidrolisado: dose de 30 g, com 25 g de proteína, 115 kcal e 1,5 g de carboidratos, e 30 porções no pote de 900 g. A página diz que ele é zero lactose, e que o sabor Cookies and Cream tem glúten.",
+          "O Whey Protein Isolado da Dux, pela tabela da página, tem dose de 29 g, com 24 g de proteína, 108 kcal e 1,6 g de carboidratos, e cerca de 31 porções. A página diz que o isolado contém lactose. Em proteína, os dois praticamente empatam: 25 g em 30 g de pó no Tasty Iso, 24 g em 29 g no da Dux.",
+          "Por 100 g de proteína, o Tasty Iso sai a R$ 52,24 no cartão e R$ 47,02 com o cupom CECILIA na Adaptogen. O isolado da Dux sai a R$ 75,31 no cartão, sem cupom nosso."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/adaptogen/adaptogen-tasty-iso-900g.webp",
+            "alt": "Pote do Tasty Iso 900 g da Adaptogen, em foto oficial da loja",
+            "caption": "Foto oficial da Adaptogen. A foto leva à página do produto na loja.",
+            "href": "https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Sabores, lactose e glúten",
+        "paragraphs": [
+          "O que cada página diz sobre sabor, lactose e glúten:"
+        ],
+        "bullets": [
+          "**Lactose.** A página da Dux diz que o concentrado, o isolado e o FreshWhey contêm lactose. A página da Adaptogen diz que o Tasty Iso é zero lactose e que o Tasty Whey 3W contém lactose. No Gold Whey, confira a lactose no rótulo do sabor.",
+          "**Glúten.** A página do Gold Whey diz zero glúten. Na Dux, o concentrado tem trigo nos sabores Cookies, Butter Cookies e Banoffee, segundo o FAQ da página; no isolado, o Cookies tem trigo, e os outros sabores podem ter contaminação cruzada. A página do FreshWhey diz, nos alérgicos, que contém glúten. Na Adaptogen, o Tasty Whey 3W tem glúten em Cookies and Cream e Chocolate Maltado, e o Tasty Iso, em Cookies and Cream.",
+          "**Sabores.** A Dux lista 13 sabores no concentrado e 11 no isolado, com Neutro nos dois, e 9 no FreshWhey, sem Neutro. A Adaptogen informa 9 no Gold Whey, 23 no Tasty Whey 3W e 7 no Tasty Iso. Quem procura sabor Neutro encontra nas listas do concentrado e do isolado da Dux; na Adaptogen, confira a lista de sabores na página de cada whey."
+        ],
+        "postParagraphs": [
+          "Sabor é gosto, e não provamos nenhum deles. Quem tem alergia ou intolerância lê o rótulo do sabor escolhido."
+        ]
+      },
+      {
+        "heading": "Tamanhos e formatos",
+        "paragraphs": [
+          "A página da Dux lista o concentrado e o isolado em sachê, 450 g, 900 g e 1,8 kg, e o FreshWhey, em sachê, 450 g e 900 g. Nesse ponto, a Dux ganha: os formatos menores e o pote de 1,8 kg aparecem na lista dela para o concentrado e o isolado.",
+          "Da Adaptogen, comparamos o pote de 900 g de cada produto. A loja também vende o Tasty Whey 3W em pack de 12 sachês de 34 g, o Tasty Iso Naturalle de 450 g, com dois sabores, e o Adapto Whey em bag de 2,2 kg. A bag sai mais cara por proteína que o pote de 900 g: com o CECILIA, R$ 40,01 por 100 g de proteína, contra R$ 35,78 do pote."
+        ]
+      },
+      {
+        "heading": "Cupom, Pix e frete",
+        "paragraphs": [
+          "O cupom CECILIA na Adaptogen dá 10% OFF no site oficial, para cliente novo e antigo. Ele entra no campo Cupom de desconto do checkout: digite o código e clique em Aplicar. Nos nossos testes, apareceram o aviso Cupom aplicado e a linha Cupom no resumo. A página do [cupom Adaptogen](/cupons/adaptogen) reúne as condições, e o [guia de como usar o código](/reviews/cupom-adaptogen-como-usar) mostra o passo a passo.",
+          "No Pix, as duas lojas mostram o preço cerca de 5% abaixo do cartão. Na Adaptogen, o Gold Whey sai a R$ 212,30 e o Tasty Iso, a R$ 372,18; na Dux, o concentrado sai a R$ 350,90, o FreshWhey a R$ 433,90 e o isolado a R$ 533,90. São os preços das páginas dos produtos, sem o cupom: não testamos o cupom com pagamento no Pix, e por isso as contas deste texto ficam no cartão."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Condição",
+            "Adaptogen (política da loja)",
+            "Dux (site da Dux)"
+          ],
+          "rows": [
+            [
+              "Cupom",
+              "CECILIA, 10% OFF no site oficial, cliente novo e antigo",
+              "Sem cupom nosso"
+            ],
+            [
+              "Pix",
+              "Pix e boleto: 5% abaixo do cartão",
+              "Pix: cerca de 5% abaixo do cartão, pela página"
+            ],
+            [
+              "Frete grátis a partir de",
+              "R$ 199 no Sudeste; R$ 249 no Sul e no Centro-Oeste; R$ 399 no Nordeste; R$ 599 no Norte",
+              "Acima de R$ 250 no Sul, no Sudeste e no Centro-Oeste; acima de R$ 300 no Nordeste; acima de R$ 400 no Norte"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/adaptogen/cupom-adaptogen-checkout-com-cupom.webp",
+            "alt": "Resumo do carrinho na Adaptogen com o campo Cupom de desconto preenchido com CECILIA, a mensagem Cupom aplicado e a linha Cupom de R$ 24,49",
+            "caption": "Checkout da Adaptogen com o cupom CECILIA aplicado no carrinho de teste.",
+            "objectFit": "contain",
+            "aspectRatio": 0.58
+          }
+        ],
+        "postParagraphs": [
+          "No frete grátis, a Adaptogen tem o piso menor no Sudeste, e a Dux, no Nordeste e no Norte. No Sul e no Centro-Oeste, os dois ficam praticamente iguais."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Adaptogen ou Dux: qual whey tem mais proteína por dose? Pelas tabelas das páginas, a Adaptogen: 21 g no Gold Whey, 24 g no Tasty Whey 3W e 25 g no Tasty Iso. A Dux tem 20 g no concentrado e no FreshWhey, e 24 g no isolado. As doses não têm o mesmo tamanho: a do Tasty Whey 3W é de 34 g e a do isolado da Dux, de 29 g.",
+          "Qual sai mais barato por 100 g de proteína? Na nossa conta, a Adaptogen, nos três pares, mesmo sem o cupom, e a diferença aumenta com o cupom CECILIA na Adaptogen.",
+          "Tasty Whey ou o concentrado da Dux? São tipos de whey diferentes: o Tasty Whey 3W junta concentrado, isolado e hidrolisado, pela página da Adaptogen, e o equivalente na Dux é o FreshWhey. Contra o concentrado da Dux, o Tasty tem 24 g de proteína em 34 g, e o concentrado, 20 g em 30 g; por 100 g de proteína, R$ 42,53 contra R$ 61,48, no cartão.",
+          "Qual das duas tem whey sem lactose? Da Adaptogen, o Tasty Iso, que a página descreve como zero lactose. Os três wheys da Dux desta comparação contêm lactose, pela página dela. Confira o glúten no rótulo do sabor: o Cookies and Cream do Tasty Iso tem glúten.",
+          "Tem cupom para a Adaptogen? Sim: o cupom CECILIA na Adaptogen dá 10% OFF no site oficial, no campo Cupom de desconto do checkout. A Dux não é parceira e não tem cupom nosso."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve a Adaptogen se a conta por 100 g de proteína decide: nos três pares, ela sai mais barata, e o cupom CECILIA aumenta a diferença.",
+        "Leve a Dux se você quer sabor neutro, no concentrado ou no isolado, ou o mesmo whey em mais tamanhos, do sachê ao pote de 1,8 kg.",
+        "Leve o Tasty Iso se quer um isolado que a página da Adaptogen descreve como zero lactose."
+      ],
+      "skipIf": [
+        "Passe no isolado da Dux se você evita lactose: a página dele diz que contém lactose.",
+        "Passe na Dux se o preço por proteína decide: os três wheys dela custam mais por 100 g, mesmo sem cupom."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se a Adaptogen faz sentido para a sua compra, abra o site pelo botão, monte o carrinho e digite CECILIA no campo Cupom de desconto do checkout. Confira a linha Cupom no resumo antes de pagar.",
+      "label": "Ir para a Adaptogen",
+      "url": "https://www.adaptogen.com.br/?parceiro=CECILIA",
+      "sponsored": true
+    },
+    "coupon": "CECILIA",
+    "affiliate": "adaptogen",
+    "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Adaptogen; a Dux não é parceira. Não provamos os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "adaptogen-e-boa"
+      },
+      {
+        "slug": "cupom-adaptogen-como-usar"
+      },
+      {
+        "slug": "adaptogen-ou-growth"
+      },
+      {
+        "slug": "max-titanium-ou-dux"
+      }
+    ]
+  },
+  {
+    "id": 1060,
+    "slug": "adaptogen-ou-growth",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIA",
+    "affiliate": "adaptogen",
+    "type": "Comparativo de Suplemento",
+    "title": "Adaptogen ou Growth: qual whey escolher pela dieta, pela lactose e pelo rótulo",
+    "seoTitle": "Adaptogen ou Growth: qual whey escolher pelo rótulo",
+    "description": "Os wheys das duas marcas lado a lado pelo rótulo: proteína, calorias e carboidratos por dose, lactose, proteína de carne, sabores e o que cada loja cobra.",
+    "metaDescription": "Adaptogen ou Growth? Com o cupom CECILIA, 10% OFF na Adaptogen, veja qual whey serve para quem evita lactose, conta calorias ou quer proteína de carne.",
+    "image": "/images/reviews/adaptogen/adaptogen-ou-growth-capa.webp",
+    "imageAlt": "Logo da Adaptogen, a chamada “Adaptogen ou Growth” e o código CECILIA, ao lado da 100% Beef, em foto oficial da loja.",
+    "cta": {
+      "text": "Se a Adaptogen faz sentido para a sua compra, abra o site pelo botão, monte o carrinho e digite CECILIA no campo Cupom de desconto do checkout. Confira a linha Cupom no resumo antes de pagar.",
+      "label": "Ir para a Adaptogen",
+      "url": "https://www.adaptogen.com.br/?parceiro=CECILIA",
+      "sponsored": true
+    },
+    "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Adaptogen; a Growth não é parceira. Não provamos os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "adaptogen-e-boa"
+      },
+      {
+        "slug": "cupom-adaptogen-como-usar"
+      },
+      {
+        "slug": "adaptogen-ou-dux"
+      },
+      {
+        "slug": "alternativas-a-growth-whey"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve a Adaptogen se você quer proteína de carne, que não encontramos no site da Growth, ou um whey com 23 sabores e o cupom CECILIA.",
+        "Leve o Tasty Iso se quer um isolado que a loja informa como zero lactose e aceita pagar mais por grama de proteína.",
+        "Leve a Growth se o que decide é o custo por 100 g de proteína no concentrado, no 3W, no isolado ou no zero lactose."
+      ],
+      "skipIf": [
+        "Passe na Growth se você precisa de proteína de carne: não encontramos nenhuma no site dela.",
+        "Passe no isolado da Growth se você evita lactose, porque ele contém lactose, pela página.",
+        "Passe no Tasty Iso se o preço por 100 g de proteína decide: ele é o mais caro entre os wheys comparados."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Por 100 g de proteína, a Growth sai mais barata nos wheys que comparamos. A Adaptogen ganha em outros pontos: tem proteína de carne, um isolado que a loja informa como zero lactose e o Tasty Whey com 23 sabores. O cupom CECILIA na Adaptogen dá 10% OFF. A escolha depende da sua dieta."
+        ]
+      },
+      {
+        "heading": "Como comparamos",
+        "paragraphs": [
+          "Esta comparação é só de wheys e proteínas, e usa os rótulos e os preços publicados pelas duas lojas em 18 de novembro de 2026. Creatina e os outros produtos ficam de fora. O HIT Protein, que mistura whey e colágeno, também: a loja não diz quanto de cada um há na proteína dele.",
+          "Não usamos os produtos, então sabor e efeito ficam de fora. O que vem do rótulo ou da página de cada loja está dito assim, e o que é cálculo nosso aparece como conta nossa.",
+          "As páginas da Growth usadas são [100% Whey Concentrado](https://www.gsuplementos.com.br/100-whey-protein-concentrado-chocolate), [3W](https://www.gsuplementos.com.br/3-whey-protein-1kg-growth-supplements-p985944), [Isolado](https://www.gsuplementos.com.br/top-whey-protein-isolado-1kg-growth-supplements-p985937) e [Zero Lactose](https://www.gsuplementos.com.br/whey-protein-zero-lactose). O [guia Adaptogen é boa?](/reviews/adaptogen-e-boa) mostra os produtos da marca sozinha, e [Adaptogen ou Dux](/reviews/adaptogen-ou-dux) compara a linha com a Dux."
+        ]
+      },
+      {
+        "heading": "Para quem evita lactose",
+        "paragraphs": [
+          "Lactose é o primeiro filtro, e a página de cada produto diz o que tem. A Growth informa que o isolado contém lactose, pela tabela comparativa e pelos alérgicos. Para quem evita lactose, a opção da Growth é o Whey Protein Zero Lactose, que a loja informa com 0 g de lactose.",
+          "Na Adaptogen, a página descreve o Tasty Iso como isolado e hidrolisado e como zero lactose, e avisa que o sabor Cookies and Cream tem glúten. A 100% Beef, segundo a página, não tem lactose, glúten nem colágeno. Já o Tasty Whey 3W, pela página, contém lactose.",
+          "Alergia à proteína do leite é outro assunto, e a resposta fica com o médico."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/adaptogen/adaptogen-tasty-iso-900g.webp",
+            "alt": "Pote do Tasty Iso 900 g da Adaptogen, em foto oficial da loja",
+            "caption": "Foto oficial da Adaptogen. A foto leva à página do produto na loja.",
+            "href": "https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/adaptogen/adaptogen-100-beef-900g.webp",
+            "alt": "Pote da 100% Beef 900 g da Adaptogen, em foto oficial da loja",
+            "caption": "Foto oficial da Adaptogen. A foto leva à página do produto na loja.",
+            "href": "https://www.adaptogen.com.br/produto/100-beef-900g-150200?parceiro=CECILIA",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Para quem não quer proteína do leite",
+        "paragraphs": [
+          "Aqui o filtro é a origem da proteína, e não a lactose: whey é proteína do leite, então quem quer evitá-la precisa de outra fonte. A Adaptogen tem duas opções fora do soro: a 100% Beef, de carne bovina, e o Vegan Iso, de ervilha, com 24 g de proteína em cada porção de 33 g e 3 sabores.",
+          "A Growth vende proteína vegetal de soja, arroz e ervilha, um blend vegano e albumina, que é proteína do ovo. Não encontramos proteína de carne no site da Growth.",
+          "As duas lojas, então, vendem proteína vegetal. As da Growth ficam fora das tabelas: este comparativo não traz o rótulo nem o preço delas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/adaptogen/adaptogen-vegan-iso-450g.webp",
+            "alt": "Pote do Vegan Iso 450 g da Adaptogen, proteína isolada de ervilha, em foto oficial da loja",
+            "caption": "Foto oficial da Adaptogen. A foto leva à página do produto na loja.",
+            "href": "https://www.adaptogen.com.br/produto/vegan-iso-450g-150437?parceiro=CECILIA",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Para quem conta calorias e carboidratos",
+        "paragraphs": [
+          "Quem pergunta se um whey serve para emagrecer encontra aqui o que o rótulo diz por dose. Não é promessa de efeito: calorias e carboidratos são números da embalagem, e quem define a dieta é o nutricionista."
+        ],
+        "comparisonTable": {
+          "caption": "A loja informa: valores por dose, das tabelas nutricionais de cada página.",
+          "headers": [
+            "Produto",
+            "Dose e proteína",
+            "Calorias",
+            "Carboidratos"
+          ],
+          "rows": [
+            [
+              "Growth 100% Whey Protein Concentrado 900 g",
+              "30 g, 21 g de proteína",
+              "121 kcal",
+              "4,5 g"
+            ],
+            [
+              "Adaptogen Gold Whey 900 g",
+              "30 g, 21 g de proteína",
+              "115 kcal",
+              "5 g"
+            ],
+            [
+              "Growth 3W Whey Protein 1 kg",
+              "30 g, 24 g de proteína",
+              "118 kcal",
+              "2,5 g"
+            ],
+            [
+              "Adaptogen Tasty Whey 3W Gourmet 900 g",
+              "34 g, 24 g de proteína",
+              "134 kcal",
+              "4,3 g"
+            ],
+            [
+              "Adaptogen Adapto Whey 3W 900 g",
+              "32 g, 25 g de proteína",
+              "128 kcal",
+              "2,5 g"
+            ],
+            [
+              "Growth (TOP) Whey Protein Isolado 1 kg",
+              "30 g, 27 g de proteína",
+              "116 kcal",
+              "2 g"
+            ],
+            [
+              "Adaptogen Tasty Iso 900 g",
+              "30 g, 25 g de proteína",
+              "115 kcal",
+              "1,5 g"
+            ],
+            [
+              "Growth Whey Protein Zero Lactose 1 kg",
+              "30 g, 23 g de proteína",
+              "120 kcal",
+              "2,3 g"
+            ],
+            [
+              "Adaptogen 100% Beef 900 g",
+              "32 g, 25 g de proteína",
+              "120 a 125 kcal",
+              "2,5 a 4 g"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Por dose, o Tasty Iso e o Gold Whey têm o menor valor calórico da tabela, 115 kcal cada, e o Tasty Iso tem o menor carboidrato, 1,5 g. O isolado da Growth fica colado, com 116 kcal e 2 g, e leva 27 g de proteína na mesma dose de 30 g. As doses não são iguais: vão de 30 g a 34 g, conforme o produto.",
+          "A Growth informa os açúcares de cada um: 3,3 g no concentrado, 1,1 g no 3W, 0 g no isolado e 1,7 g no zero lactose. Na Adaptogen, o número que temos é o de açúcares adicionados: 0 g no Gold, no Tasty Whey 3W e no Tasty Iso. Açúcar adicionado não é o açúcar total, então as duas linhas não se comparam direto."
+        ]
+      },
+      {
+        "heading": "Para quem quer mais proteína por dose",
+        "paragraphs": [
+          "Para quem pergunta se serve para ganhar massa, o número a olhar é a proteína por dose e por 100 g de pó. A tabela mostra só quanto de proteína há em cada dose, sem promessa de resultado: isso depende da dieta e do treino, e quem monta a dieta é o nutricionista."
+        ],
+        "comparisonTable": {
+          "caption": "Proteína por 100 g de pó é conta nossa: proteína da dose ÷ gramas da dose × 100.",
+          "headers": [
+            "Produto",
+            "Proteína por dose",
+            "Proteína por 100 g de pó"
+          ],
+          "rows": [
+            [
+              "Growth (TOP) Whey Protein Isolado 1 kg",
+              "27 g em 30 g",
+              "90 g"
+            ],
+            [
+              "Adaptogen Tasty Iso 900 g",
+              "25 g em 30 g",
+              "83 g"
+            ],
+            [
+              "Growth 3W Whey Protein 1 kg",
+              "24 g em 30 g",
+              "80 g"
+            ],
+            [
+              "Adaptogen Adapto Whey 3W 900 g",
+              "25 g em 32 g",
+              "78 g"
+            ],
+            [
+              "Adaptogen 100% Beef 900 g",
+              "25 g em 32 g",
+              "78 g"
+            ],
+            [
+              "Growth Whey Protein Zero Lactose 1 kg",
+              "23 g em 30 g",
+              "77 g"
+            ],
+            [
+              "Adaptogen Vegan Iso 450 g",
+              "24 g em 33 g",
+              "73 g"
+            ],
+            [
+              "Adaptogen Tasty Whey 3W Gourmet 900 g",
+              "24 g em 34 g",
+              "71 g"
+            ],
+            [
+              "Growth 100% Whey Protein Concentrado 900 g",
+              "21 g em 30 g",
+              "70 g"
+            ],
+            [
+              "Adaptogen Gold Whey 900 g",
+              "21 g em 30 g",
+              "70 g"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O isolado da Growth tem a maior proteína por dose entre os produtos listados, 27 g em 30 g, mas, pela página, contém lactose. O Tasty Iso, com 25 g em 30 g, vem logo depois, e a página dele informa zero lactose. Entre os 3W, o da Growth tem 80 g de proteína em 100 g de pó, contra 78 g do Adapto Whey e 71 g do Tasty Whey."
+        ]
+      },
+      {
+        "heading": "Para quem escolhe pelo sabor",
+        "paragraphs": [
+          "Aqui vale só a contagem de sabores que cada página informa, e os formatos. A Adaptogen tem 23 sabores no Tasty Whey 3W, 9 no Gold Whey, 7 no Tasty Iso e 6 no Adapto Whey 3W. A 100% Beef e o Vegan Iso têm 3 cada um.",
+          "Na Growth, o concentrado, o 3W e o isolado têm 3 sabores cada, e o Zero Lactose tem 5. O concentrado vem em 450 g, 750 g e 900 g; o Zero Lactose, em 450 g e 1 kg; o 3W e o isolado, em 1 kg. Na Adaptogen, o Tasty Whey 3W também vem em pack de 12 sachês de 34 g, e o Adapto Whey em bag de 2,2 kg.",
+          "Sabor é gosto, e não provamos nenhum deles: aqui só entra a contagem."
+        ]
+      },
+      {
+        "heading": "E o preço?",
+        "paragraphs": [
+          "Os preços da Adaptogen foram lidos na vitrine de campanha da Black Friday, explicada no [guia da Black Friday da Adaptogen](/reviews/black-friday-adaptogen). Os da Growth são os do site dela, no mesmo dia.",
+          "A coluna com o CECILIA é conta nossa: 10% sobre o preço do cartão da Adaptogen. Nos nossos testes, o cupom somou com os preços de campanha, mas o desconto foi confirmado em carrinho com outros produtos da loja, não com estes wheys."
+        ],
+        "comparisonTable": {
+          "caption": "Conta nossa: preço do cartão ÷ (peso do pote ÷ porção × proteína por porção) × 100. A Growth aparece sem cupom, porque não é parceira.",
+          "headers": [
+            "Produto",
+            "Preço no cartão",
+            "Por 100 g de proteína, cartão",
+            "Por 100 g de proteína, com o CECILIA"
+          ],
+          "rows": [
+            [
+              "Growth 100% Whey Protein Concentrado 900 g",
+              "R$ 133,22",
+              "R$ 21,15",
+              "sem cupom"
+            ],
+            [
+              "Adaptogen Gold Whey 900 g",
+              "R$ 223,48",
+              "R$ 35,47",
+              "R$ 31,93"
+            ],
+            [
+              "Growth 3W Whey Protein 1 kg",
+              "R$ 272,11",
+              "R$ 34,01",
+              "sem cupom"
+            ],
+            [
+              "Adaptogen Tasty Whey 3W Gourmet 900 g",
+              "R$ 270,20",
+              "R$ 42,53",
+              "R$ 38,28"
+            ],
+            [
+              "Adaptogen Adapto Whey 3W 900 g",
+              "R$ 279,55",
+              "R$ 39,76",
+              "R$ 35,78"
+            ],
+            [
+              "Growth (TOP) Whey Protein Isolado 1 kg",
+              "R$ 377,66",
+              "R$ 41,96",
+              "sem cupom"
+            ],
+            [
+              "Adaptogen Tasty Iso 900 g",
+              "R$ 391,80",
+              "R$ 52,24",
+              "R$ 47,02"
+            ],
+            [
+              "Growth Whey Protein Zero Lactose 1 kg",
+              "R$ 288,78",
+              "R$ 37,67",
+              "sem cupom"
+            ],
+            [
+              "Adaptogen 100% Beef 900 g",
+              "R$ 236,56",
+              "R$ 33,64",
+              "R$ 30,28"
+            ],
+            [
+              "Adaptogen Vegan Iso 450 g",
+              "R$ 221,76",
+              "R$ 67,76",
+              "R$ 60,98"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Por 100 g de proteína, a Growth sai mais barata no concentrado, no 3W, no isolado e no zero lactose, mesmo com o cupom na Adaptogen. Os pares principais são o Gold Whey com o concentrado, o Tasty Whey 3W com o 3W, e o Tasty Iso com o isolado e com o zero lactose.",
+          "A exceção é a 100% Beef, que não é whey: ela custa menos que o Zero Lactose da Growth, mas não encontramos proteína de carne no site da Growth para comparar de igual para igual.",
+          "O Vegan Iso sai a R$ 60,98 por 100 g de proteína com o CECILIA, o valor mais alto da tabela. A Growth também vende proteína vegetal, mas o preço dela não entrou nesta conta, então essa linha fica sem par.",
+          "No Pix, a Growth sai 10% abaixo do cartão, e a Adaptogen, 5%. São descontos à parte, e a tabela não soma nenhum deles ao cupom. Quem quer sair da Growth pelo preço tem outro texto: [alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey). Aqui a pergunta é qual das duas serve à sua dieta."
+        ]
+      },
+      {
+        "heading": "Cupom, Pix e frete",
+        "paragraphs": [
+          "O cupom CECILIA na Adaptogen dá 10% OFF no site oficial, no campo Cupom de desconto do checkout, para cliente novo e antigo. Depois de digitar o código e clicar em Aplicar, aparecem o aviso Cupom aplicado e a linha Cupom no resumo.",
+          "A página do [cupom Adaptogen](/cupons/adaptogen) reúne o código e as condições, e o passo a passo está no [guia de como usar o código](/reviews/cupom-adaptogen-como-usar). Não abrimos o pagamento, então o Pix mostrado aqui é o da vitrine.",
+          "A Growth não é parceira: não há cupom nem link de afiliado dela neste texto."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Condição",
+            "Adaptogen",
+            "Growth"
+          ],
+          "rows": [
+            [
+              "Cupom",
+              "CECILIA, 10% OFF no site oficial",
+              "Sem cupom nosso"
+            ],
+            [
+              "Pix e boleto",
+              "5% abaixo do preço do cartão, pela vitrine",
+              "10% abaixo do cartão, pela página"
+            ],
+            [
+              "Cartão",
+              "Parcelamento sem juros de 4x a 6x, conforme o produto",
+              "6x sem juros"
+            ],
+            [
+              "Frete grátis a partir de",
+              "R$ 199 no Sudeste; R$ 249 no Sul e no Centro-Oeste; R$ 399 no Nordeste; R$ 599 no Norte, pela política da loja",
+              "O valor aparece no topo do site, depois de escolher o estado"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na Growth, o valor do frete grátis muda com o estado: escolha o seu no topo do site para ver o número."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/adaptogen/cupom-adaptogen-checkout-com-cupom.webp",
+            "alt": "Resumo do carrinho na Adaptogen com o campo Cupom de desconto preenchido com CECILIA, a mensagem Cupom aplicado e a linha Cupom de R$ 24,49",
+            "caption": "Checkout da Adaptogen com o cupom CECILIA aplicado no carrinho de teste.",
+            "objectFit": "contain",
+            "aspectRatio": 0.58
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tasty Whey ou Growth: qual tem mais proteína por dose? Entre os dois 3W, a proteína é igual por dose, 24 g, mas a dose da Growth é de 30 g e a da Adaptogen, de 34 g. Por 100 g de pó, o 3W da Growth tem 80 g de proteína, e o Tasty Whey, 71 g, conta nossa com os rótulos.",
+          "Qual das duas tem whey sem lactose? Da Adaptogen, o Tasty Iso, que a página descreve como zero lactose. Da Growth, o Whey Protein Zero Lactose, com 0 g de lactose pela página; o isolado da Growth contém lactose. Confira o rótulo do sabor: o Cookies and Cream do Tasty Iso tem glúten.",
+          "A Growth tem proteína de carne? Não encontramos proteína de carne no site da Growth. A Adaptogen vende a 100% Beef, com 25 g de proteína em cada dose de 32 g.",
+          "Gold Whey ou o concentrado da Growth? Pelo rótulo, são parecidos: 21 g de proteína em 30 g, com 115 kcal no Gold e 121 kcal no concentrado da Growth. Por 100 g de proteína, a Growth sai mais barata: R$ 21,15 contra R$ 35,47 do Gold no cartão, ou R$ 31,93 com o CECILIA.",
+          "Tem cupom para a Adaptogen? Sim: o cupom CECILIA na Adaptogen dá 10% OFF no site oficial, no campo Cupom de desconto do checkout. No Pix e no boleto, a vitrine mostra 5% abaixo do cartão, um desconto à parte do cupom."
+        ]
+      }
+    ]
   }
 ];

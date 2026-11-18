@@ -39151,6 +39151,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/adaptogen/adaptogen-100-beef-900g.webp",
+      "local_url": "/images/reviews/adaptogen/adaptogen-100-beef-900g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49230,
+      "sha256": "ce296a3f71fb5c4db9941c328031dfdd3eecf531552d0ec7b2dca109611747cf",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "adaptogen-100-beef-900g.webp",
+      "storage_filename": "adaptogen-100-beef-900g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/adaptogen-ou-growth.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/adaptogen-ou-growth.json",
+          "line": 96,
+          "column": 19,
+          "literal": "/images/reviews/adaptogen/adaptogen-100-beef-900g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 265154,
+          "column": 21,
+          "literal": "/images/reviews/adaptogen/adaptogen-100-beef-900g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ce296a3f71fb5c4db9941c328031dfdd3eecf531552d0ec7b2dca109611747cf/adaptogen-100-beef-900g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ce296a3f71fb5c4db9941c328031dfdd3eecf531552d0ec7b2dca109611747cf/adaptogen-100-beef-900g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T20:20:54.720Z",
+      "verification_etag_or_digest": "ce296a3f71fb5c4db9941c328031dfdd3eecf531552d0ec7b2dca109611747cf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/adaptogen/adaptogen-adapto-whey-3w-900g.webp",
+      "local_url": "/images/reviews/adaptogen/adaptogen-adapto-whey-3w-900g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 53576,
+      "sha256": "deb471e0d6ebbde137a2fe87723b7cee603e712bafc986a201b9f129449a588a",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "adaptogen-adapto-whey-3w-900g.webp",
+      "storage_filename": "adaptogen-adapto-whey-3w-900g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/adaptogen-ou-dux.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/adaptogen-ou-dux.json",
+          "line": 155,
+          "column": 19,
+          "literal": "/images/reviews/adaptogen/adaptogen-adapto-whey-3w-900g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 264920,
+          "column": 21,
+          "literal": "/images/reviews/adaptogen/adaptogen-adapto-whey-3w-900g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/deb471e0d6ebbde137a2fe87723b7cee603e712bafc986a201b9f129449a588a/adaptogen-adapto-whey-3w-900g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/deb471e0d6ebbde137a2fe87723b7cee603e712bafc986a201b9f129449a588a/adaptogen-adapto-whey-3w-900g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T20:20:55.093Z",
+      "verification_etag_or_digest": "deb471e0d6ebbde137a2fe87723b7cee603e712bafc986a201b9f129449a588a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/adaptogen/adaptogen-creatina-flavor-300g.webp",
       "local_url": "/images/reviews/adaptogen/adaptogen-creatina-flavor-300g.webp",
       "media_kind": "image",
@@ -39441,6 +39533,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/adaptogen/adaptogen-ou-dux-capa.webp",
+      "local_url": "/images/reviews/adaptogen/adaptogen-ou-dux-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 67514,
+      "sha256": "caa759a5c4051a6cec5fa52f80978dbe631422cf6f2ac1ecb78b50c70efa668e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "adaptogen-ou-dux-capa.webp",
+      "storage_filename": "adaptogen-ou-dux-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/adaptogen-ou-dux.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/adaptogen-ou-dux.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/adaptogen/adaptogen-ou-dux-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 264788,
+          "column": 15,
+          "literal": "/images/reviews/adaptogen/adaptogen-ou-dux-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/caa759a5c4051a6cec5fa52f80978dbe631422cf6f2ac1ecb78b50c70efa668e/adaptogen-ou-dux-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/caa759a5c4051a6cec5fa52f80978dbe631422cf6f2ac1ecb78b50c70efa668e/adaptogen-ou-dux-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T20:20:55.392Z",
+      "verification_etag_or_digest": "caa759a5c4051a6cec5fa52f80978dbe631422cf6f2ac1ecb78b50c70efa668e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/adaptogen/adaptogen-ou-growth-capa.webp",
+      "local_url": "/images/reviews/adaptogen/adaptogen-ou-growth-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 63136,
+      "sha256": "91d0a38f8f5e3fbfdec7ec8c3c308b95e2c11f74f4a33b7298ebcab2cde1bf4e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "adaptogen-ou-growth-capa.webp",
+      "storage_filename": "adaptogen-ou-growth-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/adaptogen-ou-growth.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/adaptogen-ou-growth.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/adaptogen/adaptogen-ou-growth-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 265087,
+          "column": 15,
+          "literal": "/images/reviews/adaptogen/adaptogen-ou-growth-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/91d0a38f8f5e3fbfdec7ec8c3c308b95e2c11f74f4a33b7298ebcab2cde1bf4e/adaptogen-ou-growth-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/91d0a38f8f5e3fbfdec7ec8c3c308b95e2c11f74f4a33b7298ebcab2cde1bf4e/adaptogen-ou-growth-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T20:20:55.712Z",
+      "verification_etag_or_digest": "91d0a38f8f5e3fbfdec7ec8c3c308b95e2c11f74f4a33b7298ebcab2cde1bf4e",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/adaptogen/adaptogen-tasty-iso-900g.webp",
       "local_url": "/images/reviews/adaptogen/adaptogen-tasty-iso-900g.webp",
       "media_kind": "image",
@@ -39530,6 +39714,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-18T17:59:48.791Z",
       "verification_etag_or_digest": "18b8da872f0903b3f17277d5d1f57a927ea744162ebcb084b9c22e7e3b21c52a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/adaptogen/adaptogen-vegan-iso-450g.webp",
+      "local_url": "/images/reviews/adaptogen/adaptogen-vegan-iso-450g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36796,
+      "sha256": "ac33e8c840d9488948cb3a83ba7f006c183011ae27cb75a3888a4928f499278b",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "adaptogen-vegan-iso-450g.webp",
+      "storage_filename": "adaptogen-vegan-iso-450g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/adaptogen-ou-growth.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/adaptogen-ou-growth.json",
+          "line": 114,
+          "column": 19,
+          "literal": "/images/reviews/adaptogen/adaptogen-vegan-iso-450g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 265172,
+          "column": 21,
+          "literal": "/images/reviews/adaptogen/adaptogen-vegan-iso-450g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ac33e8c840d9488948cb3a83ba7f006c183011ae27cb75a3888a4928f499278b/adaptogen-vegan-iso-450g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ac33e8c840d9488948cb3a83ba7f006c183011ae27cb75a3888a4928f499278b/adaptogen-vegan-iso-450g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T20:20:56.042Z",
+      "verification_etag_or_digest": "ac33e8c840d9488948cb3a83ba7f006c183011ae27cb75a3888a4928f499278b",
       "verification_status": "verified"
     },
     {
