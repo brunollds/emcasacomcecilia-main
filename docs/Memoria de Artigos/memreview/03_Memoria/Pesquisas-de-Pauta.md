@@ -8,6 +8,19 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## Rituária: pacote inicial (17/11/2026)
+
+Parceira nova (#1128). Pesquisa semente pedida pelo Bruno em 17/11; pautas RT1 a RT6 na [[Fila-de-Pautas]], fatos em [[rituaria-fatos-1711]].
+
+- **Autocompletar (17/11):** a raiz "rituaria" sugere "reclame aqui", "magnesio", "site oficial", "prebiotico", "4mag", "nac" e "funciona". "rituária " abre com "é confiável", "funciona", "reclame aqui", "é bom" e "anvisa". "cupom rituaria" traz "20", "primeira compra", "hoje", "15", "mercado livre" e o nome de uma influenciadora. "rituaria ou" traz Always Fit, Blessy, Denavita, Vhita, Principia, Essential e Ocean Drop. Sem sugestão: "black friday", "black november", "é de quem", "demora".
+- **Reclame Aqui (01/05 a 31/10/2026):** RA1000, nota 8,7; 710 reclamações, 100% respondidas, 93,8% resolvidas, 78,6% voltariam a fazer negócio, resposta em 4 dias e 12 horas; "produto não recebido" é 32,3% dos problemas; 5º lugar da categoria de suplementos.
+- **Site:** "Black November" com "Leve 3, Pague 2 nos suplementos" (o de menor valor sai de graça), sem data nem regulamento; a página Sobre Nós cita "registro na Anvisa" sem número.
+- **IA do Google (colado pelo Bruno em 17/11):** seis códigos de outros sites e da loja, de 10% a 20%. Não entram em texto nenhum.
+- **Não lido:** Anvisa produto a produto, CNPJ do rodapé, lojas oficiais no Mercado Livre e na Amazon, venda em farmácia, o "Leve 3, Pague 2" com o EMCASA.
+- **Decisão:** "é boa", "funciona" e "vale a pena" num artigo só (RT5); produtos (4Mag, Prebiótica, NAC) e os pares "Rituária ou X" ficam no estoque; "emagrece" não vira pauta.
+
+---
+
 ## Proton: pacote inicial (17/11/2026)
 
 Parceira nova (#1105), loja de link sem cupom. Pedido do Bruno em 17/11: onboarding e Black Friday. Pautas PN1 a PN4 na [[Fila-de-Pautas]], fatos em [[proton-fatos-1711]].
