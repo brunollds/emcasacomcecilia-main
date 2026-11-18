@@ -1,0 +1,31 @@
+Plataforma: Perplexity (www.perplexity.ai), sem conta, pesquisa nova, modelo padrão
+Endereço: https://www.perplexity.ai/session/bfcb0169-5149-430c-8b67-fb922915a505
+Pergunta enviada: cupom BAW
+Enviada em: 2026-11-18T13:01-03:00, a hora que a página mostra no topo (pelo endereço https://www.perplexity.ai/search?q=cupom%20BAW)
+Navegador: navegador embutido do app Claude (Windows), idioma da interface pt-BR
+Método: texto do elemento <main> na aba "Resposta" (get_page_text), colado abaixo sem edição. Junto com a resposta abriu uma janela "Cadastre-se gratuitamente para desbloquear todo o potencial do Perplexity" sobre a página. Ela não foi tocada, a aba "Links" não foi aberta (as 10 fontes ficaram sem leitura; "carpemundi.com" é o rótulo do chip de fonte) e o Perplexity parou aqui: as perguntas 4 e 5 não foram feitas nele
+---
+[Aba Resposta]
+Compartilhar
+Baixar aplicativo para desktop
+13:01
+
+cupom BAW
+
+Concluído
+7 s
+
+Experimente o cupom BAWANNALAURA para 10% de desconto na BAW; a oferta informa que vale também para peças já promocionadas.
+carpemundi.com
+
+10 fontes
+Quais lojas aceitam o cupom BAW
+Validade do cupom BAW e regras
+Cupom BAW funciona em itens com desconto
+Como cadastrar cupom BAW no checkout
+Cupons BAW: cashback presente
+
+Pergunte um seguimento
+Pesquisar
+Computer
+Modelo

@@ -1,0 +1,42 @@
+Plataforma: ChatGPT (chatgpt.com), sem conta (tela "Entrar" no topo), conversa nova, sem histórico
+Endereço da conversa: https://chatgpt.com/uc/6afdcb04-b51c-83ea-b24b-e4f4b25d2eed
+Pergunta enviada: cupom BAW primeira compra
+Enviada em: entre 2026-11-18T12:54-03:00 e 12:59-03:00 (pelo endereço https://chatgpt.com/?q=cupom%20BAW%20primeira%20compra). As perguntas 2 a 5 do ChatGPT foram feitas nesta janela, em ordem; a hora exata de cada uma não foi anotada (ver FONTE.md)
+Navegador: navegador embutido do app Claude (Windows), idioma da interface pt-BR
+Método: texto do elemento <main> (get_page_text), colado abaixo sem edição. "Até 30% OFF - Novembro 2026 +1" e "Em Casa com Cecília +1" são rótulos dos chips de fontes (o primeiro é o título de uma página de terceiro, não identificada); sem conta o chip não abre o painel de fontes. "Copiar ..." são botões da interface do ChatGPT
+---
+cupom BAW primeira compra
+
+Para sua primeira compra na BAW Clothing, encontrei estes cupons:
+
+15% OFF
+
+FIRSTBAW
+
+Cupom de primeira compra.
+Até 30% OFF - Novembro 2026
++1
+
+Copiar FIRSTBAW
+15% OFF
+
+BAWVINDO
+
+Também indicado para primeira compra.
+Até 30% OFF - Novembro 2026
++1
+
+Copiar BAWVINDO
+10% OFF
+
+BAWEMCASACOMCECILIA
+
+Relatado como válido inclusive em peças promocionais.
+Em Casa com Cecília
++1
+
+Copiar cupom
+
+Minha dica: tente primeiro FIRSTBAW, que oferece 15% de desconto. Confira se o desconto aparece no carrinho antes de pagar.
+
+ChatGPT é uma IA e pode cometer erros.
