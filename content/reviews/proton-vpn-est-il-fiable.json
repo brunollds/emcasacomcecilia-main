@@ -31,7 +31,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Proton VPN appartient à Proton AG, la société suisse qui édite aussi Proton Mail. Les applications sont open source, et la société publie chaque année un audit indépendant de sa politique de non-conservation des journaux. D'après Proton, l'offre gratuite n'a ni publicité ni limite de données. L'assistance passe par un formulaire web, et les remboursements suivent la règle des 30 jours des conditions."
+        "Proton VPN officiel présente des signes vérifiables de confiance : entreprise suisse identifiée, applications open source et audits indépendants de sa politique sans journaux. Cela ne garantit ni anonymat ni protection contre toute arnaque. Téléchargez depuis les sources officielles ; selon Proton, l'offre gratuite ne comporte ni publicité ni limite de données."
       ]
     },
     {
@@ -110,8 +110,8 @@
         "Un VPN masque votre adresse IP aux sites web et protège le trafic entre votre appareil et son serveur. Il a des limites qui valent pour n'importe quelle marque."
       ],
       "bullets": [
-        "**Il ne rend personne anonyme.** Si vous vous connectez à un réseau social avec le VPN activé, le compte vous identifie toujours.",
-        "**Il ne protège pas contre les arnaques.** Un faux lien dans un message ou un site cloné où vous saisissez votre mot de passe fonctionne de la même façon.",
+        "**Il ne garantit pas l'anonymat.** Si vous vous connectez à un réseau social avec le VPN activé, ce compte vous identifie toujours.",
+        "**Il ne garantit pas la protection contre les arnaques.** Le VPN ne vous empêche pas de donner votre mot de passe à un faux site ou à un escroc ; vérifiez l'adresse et le destinataire avant de transmettre des données.",
         "**Il change qui voit le trafic.** Votre fournisseur d'accès cesse de voir les sites que vous visitez, et le fournisseur du VPN prend sa place. C'est pourquoi l'audit des journaux compte.",
         "**Il ne change pas la loi.** Proton dit elle-même que le service est destiné à un usage légal. Ce qui est illégal sans VPN le reste avec un VPN."
       ]
@@ -133,7 +133,7 @@
     {
       "heading": "Questions fréquentes",
       "bullets": [
-        "Proton VPN est-il sûr ? Les signes vérifiables sont favorables. La société est identifiée, le code des applications est public et Securitum audite chaque année la politique de non-conservation des journaux, avec un rapport publié. Aucun VPN ne protège contre les arnaques ni ne rend personne anonyme.",
+        "Proton VPN est-il sûr ? Les signes vérifiables sont favorables : société identifiée, code public et audits annuels de Securitum sur la politique sans journaux, avec rapports publiés. Ces preuves ne garantissent ni anonymat ni protection contre toutes les arnaques.",
         "Proton VPN gratuit est-il digne de confiance ? Proton indique que l'offre gratuite ne conserve aucun journal d'activité, n'a ni publicité ni limite de données, et qu'elle est financée par les abonnés. Les limites sont 1 appareil et moins de pays.",
         "Proton VPN est-il un virus ? Non. L'application officielle est sur Google Play et l'App Store avec Proton AG comme éditeur. Le risque tient aux installateurs tiers et aux versions modifiées.",
         "De quel pays vient Proton ? De Suisse. Les services sont exploités par Proton AG et, selon la société, l'actionnaire principal est la Proton Foundation, une organisation à but non lucratif de Genève.",
@@ -147,8 +147,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Les offres, l'offre gratuite et les prix s'affichent sur la page qu'ouvre le bouton. Vérifiez le total et le prix au renouvellement avant de payer.",
-    "label": "Voir les offres Proton VPN",
+    "text": "Si vous recherchez les fonctions payantes de Proton VPN, ouvrez l'offre via notre lien et vérifiez le total initial et le renouvellement. Le guide Black Friday associé compare les prix.",
+    "label": "Voir l'offre Proton VPN",
     "url": "https://go.getproton.me/SH39K",
     "sponsored": true
   },

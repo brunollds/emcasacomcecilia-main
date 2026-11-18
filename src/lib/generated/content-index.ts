@@ -249911,8 +249911,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-proton",
     "locale": "pt",
     "translationKey": "proton-black-friday",
-    "title": "Black Friday Proton 2026: preços em reais, quanto renova e se vale o plano de 1 ou de 2 anos",
-    "seoTitle": "Black Friday Proton 2026: preços em reais e renovação",
+    "title": "Black Friday Proton 2026: onde o VPN Plus de 2 anos sai mais barato",
+    "seoTitle": "Black Friday Proton 2026: VPN Plus por R$ 210,96",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -249923,8 +249923,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os planos da Proton na Black Friday em reais: quanto se paga de uma vez, por quanto renova, o que o desconto compara e quando o plano de 2 anos sai mais barato.",
-    "metaDescription": "Black Friday da Proton: 75% no VPN Plus de 2 anos pela página de parceiros. Veja o preço em reais, a renovação e a conta contra o plano de 1 ano.",
+    "description": "VPN Plus por R$ 210,96 nos primeiros 24 meses pelo nosso link, com a diferença para outras páginas da Proton, o pagamento de uma vez e a renovação anunciada.",
+    "metaDescription": "Pelo nosso link, o VPN Plus sai por R$ 210,96 nos primeiros 24 meses. Compare com R$ 251,76 na página de ofertas e confira a renovação anunciada.",
     "publishedAt": "17 de novembro de 2026",
     "publishedAtISO": "2026-11-17",
     "updatedAt": "2026-11-17",
@@ -249938,42 +249938,47 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Black Friday 2026, a página de parceiros da Proton, que o nosso link abre, dá 75% no VPN Plus de 2 anos. O desconto é calculado sobre o plano mensal, o valor é cobrado de uma vez e a renovação volta ao preço padrão. Sem cupom, o preço aparece na página. O reembolso em 30 dias tem condições."
+          "Para novos clientes, o VPN Plus de dois anos pelo nosso link teve o menor total entre os caminhos que comparamos para o mesmo plano e o mesmo prazo. O pagamento é de uma vez, e a renovação é anual, pelo preço padrão da Proton. Abra a oferta pelo botão e confirme as condições antes de assinar."
         ]
       },
       {
-        "heading": "O que aparece pelo nosso link",
+        "heading": "VPN Plus de 2 anos: a vantagem de abrir pelo nosso link",
         "paragraphs": [
-          "O botão desta página abre a página de parceiros da Proton, com preços para quem chega por um site parceiro. Em 17/11/2026, ela mostrava dois planos, em reais. A própria página diz que os preços estão \"disponíveis exclusivamente por meio dos nossos parceiros\". Outros sites parceiros têm a mesma oferta. Neste guia, ela aparece ao lado de outras três páginas da Proton: a de Black Friday pública, a de ofertas e a de preços."
+          "A Proton oferece VPN, e-mail, armazenamento em nuvem e gerenciador de senhas. O VPN Plus é o plano pago da VPN, e o Proton Unlimited reúne os serviços em um pacote.",
+          "Na leitura de 17/11/2026, o VPN Plus de 24 meses saía por R$ 210,96 pelo nosso link. São R$ 40,80 a menos que na página de ofertas e R$ 84,00 a menos que na página de preços, para o mesmo plano e o mesmo período, com a mesma renovação anunciada. Entre esses caminhos, o link foi o mais barato."
         ],
         "comparisonTable": {
-          "caption": "Página de parceiros da Proton, em reais. O valor muda com o país e a moeda; confira no checkout.",
+          "caption": "VPN Plus nos primeiros 24 meses, em reais. A renovação anunciada é de R$ 293,88 a cada 12 meses, pelo preço vigente na data de renovar.",
           "headers": [
-            "Plano",
-            "Selo da página",
-            "Por mês",
+            "Onde abrir",
+            "Período",
             "Cobrado de uma vez",
-            "Depois renova por"
+            "Diferença para o nosso link"
           ],
           "rows": [
             [
-              "VPN Plus, 2 anos",
-              "-75%",
-              "R$ 8,79 (de R$ 34,99)",
-              "R$ 210,96 pelos primeiros 24 meses",
-              "R$ 293,88 a cada 12 meses"
+              "Pelo nosso link",
+              "24 meses",
+              "R$ 210,96",
+              "Menor total"
             ],
             [
-              "Proton Unlimited, 1 ano",
-              "-50%",
-              "R$ 22,79 (de R$ 45,49)",
-              "R$ 273,48 pelos primeiros 12 meses",
-              "R$ 419,88 a cada 12 meses"
+              "Página de ofertas da Proton",
+              "24 meses",
+              "R$ 251,76",
+              "R$ 40,80 a mais"
+            ],
+            [
+              "Página de preços da Proton",
+              "24 meses",
+              "R$ 294,96",
+              "R$ 84,00 a mais"
             ]
           ]
         },
         "postParagraphs": [
-          "Não há cupom nem código para copiar. O desconto já vem na página que o botão abre, e o total aparece no checkout antes do pagamento. As regras do link estão na [página da Proton no nosso site](/cupons/proton)."
+          "O botão abaixo abre a página de parceiros da Proton. Selecione o VPN Plus de 2 anos. O desconto aparece na página, sem código para digitar, e o checkout confirma o total antes do pagamento.",
+          "A oferta é para novos usuários e também pode aparecer por outros parceiros da Proton. Os valores variam com o país e a moeda, e as regras do link estão na [página da Proton no nosso site](/cupons/proton). O Unlimited tem o mesmo preço da página pública e está comparado mais adiante."
         ],
         "image": {
           "src": "/images/reviews/proton/black-friday-proton-pagina-parceiros-brl.webp",
@@ -249981,7 +249986,14 @@ export const reviewsData: unknown[] = [
           "caption": "Os dois planos da página de parceiros da Proton, em reais. A linha embaixo de cada plano traz o total cobrado e a renovação.",
           "objectFit": "contain",
           "aspectRatio": 1.544
-        }
+        },
+        "links": [
+          {
+            "label": "Ver oferta do VPN Plus de 2 anos",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "O que está em promoção nas páginas públicas",
@@ -249991,45 +250003,39 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "caption": "Páginas de Black Friday da Proton (VPN e proton.me), em reais, planos de 1 ano. Os percentuais são os da Proton, calculados sobre o preço mensal.",
           "headers": [
-            "Plano",
-            "Percentual anunciado",
-            "Por mês",
+            "Plano de 1 ano",
+            "Por mês (selo)",
             "Cobrado de uma vez",
-            "Depois renova por"
+            "Renovação anunciada"
           ],
           "rows": [
             [
               "VPN Plus",
-              "-70%",
-              "R$ 10,49",
+              "R$ 10,49 (-70%)",
               "R$ 125,88",
               "R$ 293,88 a cada 12 meses"
             ],
             [
               "Proton Unlimited",
-              "-50%",
-              "R$ 22,79",
+              "R$ 22,79 (-50%)",
               "R$ 273,48",
               "R$ 419,88 a cada 12 meses"
             ],
             [
               "Mail Plus",
-              "-50%",
-              "R$ 8,79",
+              "R$ 8,79 (-50%)",
               "R$ 105,48",
               "R$ 167,88 a cada 12 meses"
             ],
             [
               "Drive Plus",
-              "-50%",
-              "R$ 8,79",
+              "R$ 8,79 (-50%)",
               "R$ 105,48",
               "R$ 167,88 a cada 12 meses"
             ],
             [
               "Pass Plus",
-              "-60%",
-              "R$ 6,99",
+              "R$ 6,99 (-60%)",
               "R$ 83,88",
               "R$ 125,88 a cada 12 meses"
             ]
@@ -250057,7 +250063,7 @@ export const reviewsData: unknown[] = [
         "heading": "O desconto é calculado sobre o quê",
         "paragraphs": [
           "Segundo a Proton, todos os descontos são calculados sobre o preço mensal normal: R$ 34,99 no VPN Plus e R$ 45,49 no Proton Unlimited. Os 75% do plano de 2 anos comparam os R$ 210,96 com 24 mensalidades de R$ 34,99, que somam R$ 839,76.",
-          "Quase ninguém assina dois anos pagando mês a mês, então vale uma segunda comparação, que é conta nossa. Contra duas renovações anuais de R$ 293,88 (R$ 587,76), os R$ 210,96 ficam 64% abaixo. No plano público de 1 ano, os R$ 125,88 ficam 57% abaixo de uma renovação anual. O desconto existe nas duas contas. A base muda, e a própria página informa qual é."
+          "Para escolher onde comprar, compare também o mesmo plano de 24 meses. Nessa comparação, os R$ 210,96 do nosso link ficam R$ 84,00 abaixo dos R$ 294,96 da página de preços, cerca de 28% menos, em conta nossa. As bases são diferentes. Os 75% anunciados usam o plano mensal, e os 28% comparam duas ofertas de 24 meses."
         ]
       },
       {
@@ -250066,7 +250072,7 @@ export const reviewsData: unknown[] = [
           "O mesmo VPN Plus aparecia com preços diferentes em páginas diferentes da Proton. Para comparar, somamos o que cada caminho custa em 24 meses:"
         ],
         "comparisonTable": {
-          "caption": "VPN Plus em 24 meses, em reais. A última linha é conta nossa, com o plano de 1 ano mais uma renovação pelo preço padrão de hoje. Depois dos 24 meses, todos renovam por R$ 293,88 a cada 12 meses.",
+          "caption": "Simulação de VPN Plus por 24 meses, com os valores em reais das páginas comparadas. A última linha soma o primeiro ano e uma renovação pelo valor anunciado hoje, e o preço vigente na renovação pode mudar.",
           "headers": [
             "Caminho",
             "De onde saiu o preço",
@@ -250097,7 +250103,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O plano de 1 ano tem o menor desembolso agora, R$ 125,88, e serve a quem quer testar o serviço pago e pode cancelar antes da renovação. Se a assinatura seguir para o segundo ano, ele vira o caminho mais caro da tabela.",
-          "O plano de 2 anos custa mais no ato e menos no total. Ele faz sentido para quem já decidiu ficar com a VPN. Para quem nunca usou o Proton VPN, o plano gratuito existe e não pede cartão. Comece por ele antes de pagar dois anos.",
+          "Quem quer os recursos pagos do VPN Plus e pretende usar a VPN pelos dois anos encontra pelo nosso link o menor total dos caminhos comparados. É uma escolha para manter o serviço pelo período contratado. O plano gratuito continua suficiente para quem não precisa desses recursos.",
           "No Proton Unlimited, a página de parceiros tem o mesmo preço da pública. Em 24 meses, o plano de 2 anos da página de ofertas soma R$ 671,76, e o de 1 ano mais uma renovação, R$ 693,36. Depois, os dois renovam por R$ 419,88 a cada 12 meses."
         ]
       },
@@ -250105,8 +250111,8 @@ export const reviewsData: unknown[] = [
         "heading": "VPN Plus sozinho ou Proton Unlimited",
         "paragraphs": [
           "O VPN Plus é só a VPN paga: segundo a Proton, 10 dispositivos ao mesmo tempo, servidores em mais de 140 países e bloqueador de anúncios e de malware. Quem assina fica com os planos gratuitos de e-mail, nuvem e senhas.",
-          "O Proton Unlimited junta VPN Plus, Mail Plus, Drive Plus e Pass Plus, com 500 GB de armazenamento. Somando os quatro planos avulsos na campanha, o primeiro ano custaria R$ 420,72 (conta nossa). O Unlimited custa R$ 273,48 no primeiro ano e renova por R$ 419,88.",
-          "Se você só quer a VPN, o Unlimited não se paga. O VPN Plus sai por R$ 125,88 no ano, ou R$ 210,96 nos dois anos da página de parceiros, e renova por R$ 293,88 a cada 12 meses. O pacote compensa para quem vai usar pelo menos o e-mail ou o armazenamento pagos junto com a VPN."
+          "O Proton Unlimited reúne os recursos pagos da VPN, e-mail, armazenamento e senhas, com 500 GB. Custa R$ 273,48 no primeiro ano e tem renovação anunciada de R$ 419,88. Os quatro planos avulsos somariam R$ 420,72 no primeiro ano da campanha, como referência de preços. Essa soma não representa uma combinação que possa ser contratada na mesma conta.",
+          "Se você só quer a VPN paga, escolha o VPN Plus. Para ter VPN e e-mail ou nuvem pagos na mesma conta, o Unlimited reúne esses recursos e os 500 GB. A [Proton não permite acumular vários planos Plus na mesma conta](https://protonvpn.com/support/proton-vpn-plans). Escolha o pacote pelo conjunto que vai usar e pelo espaço necessário, comparando também a renovação."
         ]
       },
       {
@@ -250149,18 +250155,25 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Abra a Black Friday da Proton pelo botão. O preço já aparece na página. Confira o total e a renovação antes de pagar.",
-      "label": "Ver a Black Friday da Proton",
+      "text": "O VPN Plus de 24 meses saía por R$ 210,96 pelo nosso link, o menor total entre os caminhos comparados. Abra a oferta, confira a moeda, o total cobrado de uma vez e a renovação anunciada antes de assinar.",
+      "label": "Ver oferta do VPN Plus de 2 anos",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
     "affiliate": "proton",
     "editorialNote": "Feito com as páginas de preços e os termos da Proton. Não há cupom nosso. O link é de afiliado e pode gerar comissão.",
-    "relatedArticles": [],
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-e-confiavel"
+      },
+      {
+        "slug": "proton-vpn-reembolso-como-cancelar"
+      }
+    ],
     "decision": {
       "takeIf": [
-        "Você já ia assinar uma VPN ou sair do plano gratuito da Proton.",
-        "Você quer travar o primeiro período pelo preço da campanha e vai anotar a data da renovação."
+        "Você é elegível para a oferta de novos usuários e já decidiu usar o VPN Plus por dois anos.",
+        "Você comparou o mesmo plano de 24 meses e quer aproveitar o menor total entre os caminhos apresentados."
       ],
       "skipIf": [
         "O plano gratuito já resolve o seu uso.",
@@ -250201,42 +250214,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "For Black Friday 2026, Proton's partner page, the one our link opens, takes 75% off the 2-year VPN Plus plan. The discount is measured against the monthly plan, the full period is billed upfront and the plan renews at the standard price. There is no coupon code, since the price shows on the page. The 30-day refund has conditions."
+          "For new customers, our link showed two years of VPN Plus for $59.76 upfront, against $71.76 on Proton's deals page for the same term. The advertised renewal is $83.88 every 12 months, subject to the price then in force. Open the offer with the button and check your currency before paying."
         ]
       },
       {
-        "heading": "What you see through our link",
+        "heading": "Why open the 2-year VPN Plus offer through our link",
         "paragraphs": [
-          "The button on this page opens Proton's partner page, with prices for people who arrive through a partner site. On November 17, 2026, it showed two plans. In US dollars, they were as follows. The page itself says the prices are \"available exclusively through our partners\". Other partner sites have the same offer. In this guide it sits beside Proton's public Black Friday pages."
+          "Proton offers VPN, email, cloud storage and password management. For new customers, our link showed VPN Plus at $59.76 for the first 24 months; Proton's public deals page showed $71.76 for the same plan and term, a $12 difference. Among those two options, our link had the lower upfront price. Check the currency and total at checkout."
         ],
         "comparisonTable": {
           "caption": "Proton's partner page, in US dollars. The amount changes with your country and currency, so check it at checkout.",
           "headers": [
             "Plan",
-            "Badge on the page",
-            "Per month",
+            "Per month (badge)",
             "Billed upfront",
             "Then renews at"
           ],
           "rows": [
             [
               "VPN Plus, 2 years",
-              "75% off",
-              "$2.49 (was $9.99)",
+              "$2.49 (was $9.99, 75% off)",
               "$59.76 for the first 24 months",
               "$83.88 every 12 months"
             ],
             [
               "Proton Unlimited, 1 year",
-              "50% off",
-              "$6.49 (was $12.99)",
+              "$6.49 (was $12.99, 50% off)",
               "$77.88 for the first 12 months",
               "$119.88 every 12 months"
             ]
           ]
         },
         "postParagraphs": [
-          "There is no coupon and no code to copy. The discount is already on the page the button opens, and the total shows at checkout before you pay. The rules of the link are on [our Proton page](/en/coupons/proton)."
+          "There is no coupon and no code to copy. The discount is already on the page the button opens, and the total shows at checkout before you pay. The button opens Proton's partner page, and other partner sites may show the same offer. The rules of the link are on [our Proton page](/en/coupons/proton)."
         ],
         "image": {
           "src": "/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
@@ -250244,7 +250254,14 @@ export const reviewsData: unknown[] = [
           "caption": "The two plans on Proton's partner page, in US dollars. The line under each plan shows the total billed and the renewal price.",
           "objectFit": "contain",
           "aspectRatio": 1.565
-        }
+        },
+        "links": [
+          {
+            "label": "View the 2-year VPN Plus offer",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "What is on sale on the public pages",
@@ -250308,7 +250325,7 @@ export const reviewsData: unknown[] = [
         "heading": "What the discount is measured against",
         "paragraphs": [
           "According to Proton, all discounts are calculated on the regular monthly price, which was $9.99 for VPN Plus and $12.99 for Proton Unlimited. The 75% on the 2-year plan compares $59.76 with 24 monthly payments of $9.99, which add up to $239.76.",
-          "Few people subscribe for two years paying month by month, so a second comparison helps, and this one is our own math. Against two yearly renewals of $83.88 ($167.76), the $59.76 comes out 64% lower. The discount exists in both comparisons. The base changes, and the page itself states which one it uses."
+          "For a buying decision, compare the same plan and billing period. Our link showed $59.76 for 24 months against $71.76 on Proton's deals page, a $12 saving. The advertised 75% uses the monthly plan as its reference, rather than that 24-month offer."
         ]
       },
       {
@@ -250317,7 +250334,7 @@ export const reviewsData: unknown[] = [
           "The same VPN Plus plan showed different prices on different Proton pages. To compare them, add up what each path costs over 24 months."
         ],
         "comparisonTable": {
-          "caption": "VPN Plus over 24 months. The first row is the partner page price in US dollars; the second is the rule, to fill in with the price on your screen.",
+          "caption": "VPN Plus over 24 months, in US dollars. The public annual plan was $35.88; its second year uses today's advertised $83.88 renewal. This is a projection: the price at renewal can change.",
           "headers": [
             "Path",
             "Where the price comes from",
@@ -250332,13 +250349,13 @@ export const reviewsData: unknown[] = [
             [
               "1-year Black Friday plan + 1 renewal",
               "Public Black Friday page",
-              "The 1-year price on your screen plus $83.88"
+              "$119.76 = $35.88 + $83.88"
             ]
           ]
         },
         "postParagraphs": [
           "The 1-year plan asks for the least money today and suits someone who wants to try the paid service and may cancel before renewal. If the subscription runs into a second year, the renewal alone costs more than the whole 2-year plan on the partner page.",
-          "The 2-year plan costs more today and less in total. It makes sense for someone who has already decided to keep the VPN. If you have never used Proton VPN, the free plan exists and asks for no card. Start there before paying for two years.",
+          "The two-year plan suits people who want the paid Plus features and expect to use them for the full term. For that buyer, our link had the lower total of the options compared; the free plan remains an option for people who do not need those features.",
           "For Proton Unlimited, the partner page offered the 1-year plan at $77.88, renewing at $119.88 every 12 months."
         ]
       },
@@ -250347,7 +250364,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "VPN Plus is the paid VPN only: according to Proton, 10 devices at a time, servers in more than 140 countries and an ad and malware blocker. Subscribers keep the free plans for email, cloud storage and passwords.",
           "Proton Unlimited bundles VPN Plus, Mail Plus, Drive Plus and Pass Plus, with 500 GB of storage. On the partner page it cost $77.88 for the first year and renewed at $119.88.",
-          "If you only want the VPN, Unlimited does not pay off. VPN Plus cost $59.76 for two years on the partner page and renews at $83.88 every 12 months. The bundle is worth it if you will use at least the paid email or storage alongside the VPN."
+          "If you only need the paid VPN, choose VPN Plus. Proton does not allow multiple Plus subscriptions on the same account. Unlimited brings the paid VPN, email and storage features together with 500 GB in one account; choose it for the features and space you will use, and compare renewal costs."
         ]
       },
       {
@@ -250390,17 +250407,24 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Open Proton's Black Friday with the button. The price already shows on the page. Check the total and the renewal price before paying.",
-      "label": "See Proton's Black Friday",
+      "text": "For new customers, our link showed two years of VPN Plus for $59.76 upfront, against $71.76 on Proton's deals page for the same term. The advertised renewal is $83.88 every 12 months, subject to the price then in force. Open the offer with the button and check your currency before paying.",
+      "label": "View the 2-year VPN Plus offer",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
     "affiliate": "proton",
     "editorialNote": "Written from Proton's pricing pages and terms. We have no coupon of our own. The link is an affiliate link and may earn a commission.",
-    "relatedArticles": [],
+    "relatedArticles": [
+      {
+        "slug": "is-proton-vpn-safe"
+      },
+      {
+        "slug": "proton-vpn-refund-how-to-cancel"
+      }
+    ],
     "decision": {
       "takeIf": [
-        "You were already going to subscribe to a VPN or move off Proton's free plan.",
+        "You qualify for the new-user offer and have already decided to use VPN Plus for two years.",
         "You want to lock in the first period at the campaign price and will write down the renewal date."
       ],
       "skipIf": [
@@ -250442,42 +250466,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "En el Black Friday 2026, la página de socios de Proton, la que abre nuestro enlace, aplica un 75% de descuento al plan VPN Plus de 2 años. El descuento se mide frente al plan mensual, el periodo completo se cobra por adelantado y el plan se renueva al precio estándar. No hay código de cupón: el precio ya aparece en la página. El reembolso de 30 días tiene condiciones."
+          "Para nuevos clientes, nuestro enlace mostraba dos años de VPN Plus por $59.76, frente a $71.76 en la página de ofertas de Proton para el mismo plazo. El pago es único y la renovación anunciada es de $83.88 anuales, sujeta al precio vigente. Abre la oferta con el botón y confirma la moneda antes de pagar."
         ]
       },
       {
-        "heading": "Lo que ves a través de nuestro enlace",
+        "heading": "Por qué abrir la oferta de VPN Plus de 2 años con nuestro enlace",
         "paragraphs": [
-          "El botón de esta página abre la página de socios de Proton, con precios para quienes llegan desde un sitio asociado. El 17 de noviembre de 2026 mostraba dos planes. En dólares estadounidenses, eran estos. La propia página dice que los precios están \"disponibles exclusivamente a través de nuestros socios\". Otros sitios asociados tienen la misma oferta. En esta guía se compara con las páginas públicas de Black Friday de Proton."
+          "Proton ofrece VPN, correo, almacenamiento en la nube y gestión de contraseñas. Para nuevos clientes, nuestro enlace mostraba VPN Plus por $59.76 durante los primeros 24 meses; la página pública de ofertas mostraba $71.76 para el mismo plan y plazo, $12 más. Entre esas dos opciones, nuestro enlace tenía el menor precio inicial. Confirma la moneda y el total al pagar."
         ],
         "comparisonTable": {
           "caption": "La página de socios de Proton, en dólares estadounidenses. El importe cambia según tu país y tu moneda, así que compruébalo al pagar.",
           "headers": [
             "Plan",
-            "Etiqueta en la página",
-            "Por mes",
+            "Por mes (etiqueta de la página)",
             "Se cobra por adelantado",
             "Luego se renueva a"
           ],
           "rows": [
             [
               "VPN Plus, 2 años",
-              "75% de descuento",
-              "$2.49 (antes $9.99)",
+              "$2.49 (antes $9.99, 75% de descuento)",
               "$59.76 por los primeros 24 meses",
               "$83.88 cada 12 meses"
             ],
             [
               "Proton Unlimited, 1 año",
-              "50% de descuento",
-              "$6.49 (antes $12.99)",
+              "$6.49 (antes $12.99, 50% de descuento)",
               "$77.88 por los primeros 12 meses",
               "$119.88 cada 12 meses"
             ]
           ]
         },
         "postParagraphs": [
-          "No hay cupón ni código que copiar. El descuento ya está en la página que abre el botón, y el total aparece al pagar, antes de confirmar. Las reglas del enlace están en [nuestra página de Proton](/es/coupons/proton)."
+          "No hay cupón ni código que copiar. El descuento ya está en la página que abre el botón, y el total aparece al pagar, antes de confirmar. El botón abre la página de socios de Proton, y otros sitios asociados pueden mostrar la misma oferta. Las reglas del enlace están en [nuestra página de Proton](/es/coupons/proton)."
         ],
         "image": {
           "src": "/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
@@ -250485,7 +250506,14 @@ export const reviewsData: unknown[] = [
           "caption": "Los dos planes de la página de socios de Proton, en dólares estadounidenses. La línea bajo cada plan muestra el total cobrado y el precio de renovación.",
           "objectFit": "contain",
           "aspectRatio": 1.565
-        }
+        },
+        "links": [
+          {
+            "label": "Ver la oferta de VPN Plus de 2 años",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Qué está en oferta en las páginas públicas",
@@ -250549,7 +250577,7 @@ export const reviewsData: unknown[] = [
         "heading": "Frente a qué se mide el descuento",
         "paragraphs": [
           "Según Proton, todos los descuentos se calculan sobre el precio mensual normal, que era de $9.99 para VPN Plus y de $12.99 para Proton Unlimited. El 75% del plan de 2 años compara $59.76 con 24 pagos mensuales de $9.99, que suman $239.76.",
-          "Poca gente se suscribe dos años pagando mes a mes, así que conviene una segunda comparación, y esta es cuenta nuestra. Frente a dos renovaciones anuales de $83.88 ($167.76), los $59.76 salen un 64% más baratos. El descuento existe en las dos comparaciones. Cambia la base, y la propia página indica cuál usa."
+          "Para decidir dónde comprar, compara el mismo plan y periodo. Nuestro enlace mostraba $59.76 por 24 meses, frente a $71.76 en la página de ofertas de Proton: $12 menos. El 75% anunciado toma como referencia el plan mensual, no esa oferta de 24 meses."
         ]
       },
       {
@@ -250558,7 +250586,7 @@ export const reviewsData: unknown[] = [
           "El mismo plan VPN Plus mostraba precios distintos en diferentes páginas de Proton. Para compararlos, suma lo que cuesta cada camino a lo largo de 24 meses."
         ],
         "comparisonTable": {
-          "caption": "VPN Plus durante 24 meses. La primera fila es el precio de la página de socios en dólares estadounidenses; la segunda es la regla, para completar con el precio de tu pantalla.",
+          "caption": "VPN Plus durante 24 meses, en dólares estadounidenses. El plan público anual costaba $35.88; el segundo año usa la renovación anunciada hoy de $83.88. Es una simulación: el precio de renovación puede cambiar.",
           "headers": [
             "Camino",
             "De dónde sale el precio",
@@ -250573,13 +250601,13 @@ export const reviewsData: unknown[] = [
             [
               "Plan de Black Friday de 1 año + 1 renovación",
               "Página pública de Black Friday",
-              "El precio de 1 año que veas en tu pantalla más $83.88"
+              "$119.76 = $35.88 + $83.88"
             ]
           ]
         },
         "postParagraphs": [
           "El plan de 1 año pide menos dinero hoy y encaja con quien quiere probar el servicio de pago y quizá cancelar antes de la renovación. Si la suscripción llega a un segundo año, la renovación sola cuesta más que todo el plan de 2 años de la página de socios.",
-          "El plan de 2 años cuesta más hoy y menos en total. Tiene sentido para quien ya decidió quedarse con la VPN. Si nunca has usado Proton VPN, existe el plan gratuito y no pide tarjeta. Empieza por ahí antes de pagar dos años.",
+          "El plan de dos años encaja con quien quiere las funciones de pago de Plus y prevé usarlos todo el periodo. Para ese perfil, nuestro enlace tenía el menor total entre las opciones comparadas; el plan gratuito sigue siendo una opción para quien no necesita esas funciones.",
           "Para Proton Unlimited, la página de socios ofrecía el plan de 1 año a $77.88, con renovación a $119.88 cada 12 meses."
         ]
       },
@@ -250588,7 +250616,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "VPN Plus es solo la VPN de pago: según Proton, 10 dispositivos a la vez, servidores en más de 140 países y un bloqueador de anuncios y malware. Los suscriptores conservan los planes gratuitos de correo, almacenamiento en la nube y contraseñas.",
           "Proton Unlimited reúne VPN Plus, Mail Plus, Drive Plus y Pass Plus, con 500 GB de almacenamiento. En la página de socios costaba $77.88 el primer año y se renovaba a $119.88.",
-          "Si solo quieres la VPN, Unlimited no compensa. VPN Plus costaba $59.76 por dos años en la página de socios y se renueva a $83.88 cada 12 meses. El paquete vale la pena si vas a usar, además de la VPN, al menos el correo o el almacenamiento de pago."
+          "Si solo necesitas la VPN de pago, elige VPN Plus. Proton no permite varias suscripciones Plus en la misma cuenta. Unlimited reúne la VPN, el correo y el almacenamiento de pago con 500 GB en una cuenta; elígelo por las funciones y el espacio que usarás, comparando también la renovación."
         ]
       },
       {
@@ -250631,17 +250659,24 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Abre el Black Friday de Proton con el botón. El precio ya aparece en la página. Comprueba el total y el precio de renovación antes de pagar.",
-      "label": "Ver el Black Friday de Proton",
+      "text": "Para nuevos clientes, nuestro enlace mostraba dos años de VPN Plus por $59.76, frente a $71.76 en la página de ofertas de Proton para el mismo plazo. El pago es único y la renovación anunciada es de $83.88 anuales, sujeta al precio vigente. Abre la oferta con el botón y confirma la moneda antes de pagar.",
+      "label": "Ver la oferta de VPN Plus de 2 años",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
     "affiliate": "proton",
     "editorialNote": "Escrito a partir de las páginas de precios y los términos de Proton. No tenemos un cupón propio. El enlace es de afiliado y puede generar una comisión.",
-    "relatedArticles": [],
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-es-confiable"
+      },
+      {
+        "slug": "proton-vpn-reembolso-cancelar-suscripcion"
+      }
+    ],
     "decision": {
       "takeIf": [
-        "Ya ibas a suscribirte a una VPN o a dejar el plan gratuito de Proton.",
+        "Cumples los requisitos de la oferta para nuevos usuarios y ya has decidido usar VPN Plus durante dos años.",
         "Quieres fijar el primer periodo al precio de la campaña y apuntarás la fecha de renovación."
       ],
       "skipIf": [
@@ -250683,42 +250718,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Pour le Black Friday 2026, la page partenaires de Proton, celle qu'ouvre notre lien, applique 75 % de réduction sur l'offre VPN Plus de 2 ans. La réduction se mesure face au tarif mensuel, la période entière est facturée d'avance et le renouvellement se fait au tarif normal. Il n'y a pas de code promo, puisque le prix s'affiche sur la page. Le remboursement sous 30 jours a des conditions."
+          "Pour les nouveaux clients, notre lien affichait VPN Plus à 59,76 $ pour deux ans, contre 71,76 $ sur la page d'offres Proton pour la même durée. Le paiement est unique, puis le renouvellement annoncé est de 83,88 $ par an, au tarif alors applicable. Ouvrez l'offre avec le bouton et vérifiez la devise."
         ]
       },
       {
-        "heading": "Ce que vous voyez via notre lien",
+        "heading": "Pourquoi ouvrir l'offre VPN Plus de 2 ans avec notre lien",
         "paragraphs": [
-          "Le bouton de cette page ouvre la page partenaires de Proton, avec des prix pour les personnes qui arrivent depuis un site partenaire. Le 17 novembre 2026, elle affichait deux offres. En dollars américains, les voici. La page elle-même indique que les prix sont « disponibles exclusivement via nos partenaires ». D'autres sites partenaires proposent la même offre. Dans ce guide, elle est placée à côté des pages publiques Black Friday de Proton."
+          "Proton propose un VPN, une messagerie, du stockage cloud et un gestionnaire de mots de passe. Pour les nouveaux clients, notre lien affichait VPN Plus à 59,76 $ pour les 24 premiers mois, contre 71,76 $ sur la page publique d'offres pour le même abonnement et la même durée. Notre lien coûtait donc 12 $ de moins entre ces deux options. Vérifiez la devise et le total au paiement."
         ],
         "comparisonTable": {
           "caption": "La page partenaires de Proton, en dollars américains. Le montant varie selon votre pays et votre devise : vérifiez-le au paiement.",
           "headers": [
             "Offre",
-            "Badge sur la page",
-            "Par mois",
+            "Par mois (badge sur la page)",
             "Facturé d'avance",
             "Puis renouvelé à"
           ],
           "rows": [
             [
               "VPN Plus, 2 ans",
-              "75 % de réduction",
-              "2,49 $ (au lieu de 9,99 $)",
+              "2,49 $ (au lieu de 9,99 $, 75 % de réduction)",
               "59,76 $ pour les 24 premiers mois",
               "83,88 $ tous les 12 mois"
             ],
             [
               "Proton Unlimited, 1 an",
-              "50 % de réduction",
-              "6,49 $ (au lieu de 12,99 $)",
+              "6,49 $ (au lieu de 12,99 $, 50 % de réduction)",
               "77,88 $ pour les 12 premiers mois",
               "119,88 $ tous les 12 mois"
             ]
           ]
         },
         "postParagraphs": [
-          "Il n'y a ni coupon ni code à copier. La réduction est déjà appliquée sur la page qu'ouvre le bouton, et le total s'affiche au paiement avant que vous ne payiez. Les règles du lien sont sur [notre page Proton](/fr/coupons/proton)."
+          "Il n'y a ni coupon ni code à copier. La réduction est déjà appliquée sur la page qu'ouvre le bouton, et le total s'affiche au paiement avant que vous ne payiez. Le bouton ouvre la page partenaires de Proton, et d'autres sites partenaires peuvent afficher la même offre. Les règles du lien sont sur [notre page Proton](/fr/coupons/proton)."
         ],
         "image": {
           "src": "/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
@@ -250726,7 +250758,14 @@ export const reviewsData: unknown[] = [
           "caption": "Les deux offres de la page partenaires de Proton, en dollars américains. La ligne sous chaque offre indique le total facturé et le prix au renouvellement.",
           "objectFit": "contain",
           "aspectRatio": 1.565
-        }
+        },
+        "links": [
+          {
+            "label": "Voir l'offre VPN Plus de 2 ans",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Ce qui est en promotion sur les pages publiques",
@@ -250790,7 +250829,7 @@ export const reviewsData: unknown[] = [
         "heading": "Par rapport à quoi la réduction est calculée",
         "paragraphs": [
           "Selon Proton, toutes les réductions sont calculées sur le prix mensuel normal, qui était de 9,99 $ pour le VPN Plus et de 12,99 $ pour Proton Unlimited. Les 75 % de l'offre de 2 ans comparent 59,76 $ à 24 paiements mensuels de 9,99 $, soit 239,76 $.",
-          "Peu de gens s'abonnent deux ans en payant mois par mois, donc une seconde comparaison aide, et celle-ci est un calcul de notre part. Face à deux renouvellements annuels de 83,88 $ (167,76 $), les 59,76 $ sont 64 % moins chers. La réduction existe dans les deux comparaisons. La base change, et la page elle-même indique laquelle elle utilise."
+          "Pour choisir où acheter, comparez le même abonnement sur la même durée. Notre lien affichait 59,76 $ pour 24 mois, contre 71,76 $ sur la page d'offres Proton, soit 12 $ de moins. Les 75 % annoncés prennent le tarif mensuel comme référence, et non cette offre de 24 mois."
         ]
       },
       {
@@ -250799,7 +250838,7 @@ export const reviewsData: unknown[] = [
           "La même offre VPN Plus affichait des prix différents selon les pages de Proton. Pour les comparer, additionnez ce que coûte chaque chemin sur 24 mois."
         ],
         "comparisonTable": {
-          "caption": "VPN Plus sur 24 mois. La première ligne est le prix de la page partenaires en dollars américains ; la seconde est la règle, à compléter avec le prix affiché sur votre écran.",
+          "caption": "VPN Plus sur 24 mois, en dollars américains. L'offre annuelle publique coûtait 35,88 $ ; la seconde année utilise le renouvellement annoncé aujourd'hui à 83,88 $. Cette projection dépend du tarif en vigueur lors du renouvellement.",
           "headers": [
             "Chemin",
             "Origine du prix",
@@ -250814,13 +250853,13 @@ export const reviewsData: unknown[] = [
             [
               "Offre Black Friday d'1 an + 1 renouvellement",
               "Page publique Black Friday",
-              "Le prix d'1 an affiché sur votre écran plus 83,88 $"
+              "119,76 $ (35,88 $ + 83,88 $)"
             ]
           ]
         },
         "postParagraphs": [
           "L'offre d'un an demande le moins d'argent aujourd'hui et convient à qui veut essayer le service payant et peut résilier avant le renouvellement. Si l'abonnement se poursuit une seconde année, le renouvellement seul coûte plus cher que toute l'offre de 2 ans de la page partenaires.",
-          "L'offre de 2 ans coûte plus cher aujourd'hui et moins cher au total. Elle a du sens pour qui a déjà décidé de garder le VPN. Si vous n'avez jamais utilisé Proton VPN, l'offre gratuite existe et ne demande aucune carte. Commencez par là avant de payer pour deux ans.",
+          "L'offre de deux ans convient aux personnes qui veulent les fonctions payantes de Plus et comptent les utiliser pendant toute la durée. Pour ce profil, notre lien affichait le total le plus bas des options comparées ; l'offre gratuite reste une option pour les personnes qui n'ont pas besoin de ces fonctions.",
           "Pour Proton Unlimited, la page partenaires proposait l'offre d'un an à 77,88 $, renouvelée à 119,88 $ tous les 12 mois."
         ]
       },
@@ -250829,7 +250868,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Le VPN Plus est le VPN payant seul : selon Proton, 10 appareils à la fois, des serveurs dans plus de 140 pays et un bloqueur de publicités et de logiciels malveillants. Les abonnés gardent les offres gratuites pour la messagerie, le stockage en ligne et les mots de passe.",
           "Proton Unlimited regroupe VPN Plus, Mail Plus, Drive Plus et Pass Plus, avec 500 Go de stockage. Sur la page partenaires, il coûtait 77,88 $ la première année et se renouvelait à 119,88 $.",
-          "Si vous ne voulez que le VPN, Unlimited n'est pas rentable. Le VPN Plus coûtait 59,76 $ pour deux ans sur la page partenaires et se renouvelle à 83,88 $ tous les 12 mois. Le pack vaut le coup si vous utilisez au moins la messagerie ou le stockage payants en plus du VPN."
+          "Si vous avez seulement besoin du VPN payant, choisissez VPN Plus. Proton ne permet pas plusieurs abonnements Plus sur le même compte. Unlimited réunit VPN, messagerie et stockage payants avec 500 Go dans un compte ; choisissez-le selon les fonctions et l'espace nécessaires, en comparant aussi le renouvellement."
         ]
       },
       {
@@ -250872,17 +250911,24 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Ouvrez le Black Friday de Proton avec le bouton. Le prix s'affiche déjà sur la page. Vérifiez le total et le prix au renouvellement avant de payer.",
-      "label": "Voir le Black Friday de Proton",
+      "text": "Pour les nouveaux clients, notre lien affichait VPN Plus à 59,76 $ pour deux ans, contre 71,76 $ sur la page d'offres Proton pour la même durée. Le paiement est unique, puis le renouvellement annoncé est de 83,88 $ par an, au tarif alors applicable. Ouvrez l'offre avec le bouton et vérifiez la devise.",
+      "label": "Voir l'offre VPN Plus de 2 ans",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
     "affiliate": "proton",
     "editorialNote": "Rédigé à partir des pages de tarifs et des conditions de Proton. Nous n'avons pas de coupon à nous. Le lien est un lien d'affiliation et peut générer une commission.",
-    "relatedArticles": [],
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-est-il-fiable"
+      },
+      {
+        "slug": "proton-vpn-remboursement-resilier"
+      }
+    ],
     "decision": {
       "takeIf": [
-        "Vous alliez de toute façon souscrire un VPN ou quitter l'offre gratuite de Proton.",
+        "Vous êtes éligible à l'offre pour les nouveaux utilisateurs et avez déjà décidé d'utiliser VPN Plus pendant deux ans.",
         "Vous voulez bloquer la première période au prix de la campagne et noterez la date de renouvellement."
       ],
       "skipIf": [
@@ -250924,42 +250970,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurzantwort",
         "paragraphs": [
-          "Zum Black Friday 2026 gewährt Protons Partnerseite, die unser Link öffnet, 75 % Rabatt auf den 2-Jahres-Tarif VPN Plus. Der Rabatt bezieht sich auf den Monatspreis, der gesamte Zeitraum wird im Voraus berechnet, und die Verlängerung erfolgt zum Standardpreis. Einen Code gibt es nicht, der Preis steht auf der Seite. Die 30-Tage-Rückerstattung hat Bedingungen."
+          "Für Neukunden zeigte unser Link VPN Plus für zwei Jahre zu einmalig 59,76 $, gegenüber 71,76 $ auf Protons Angebotsseite für dieselbe Laufzeit. Die angekündigte Verlängerung kostet 83,88 $ jährlich, vorbehaltlich des dann geltenden Preises. Öffnen Sie das Angebot über den Button und prüfen Sie vor dem Bezahlen die Währung."
         ]
       },
       {
-        "heading": "Was Sie über unseren Link sehen",
+        "heading": "Warum Sie das 2-Jahres-Angebot für VPN Plus über unseren Link öffnen sollten",
         "paragraphs": [
-          "Der Button auf dieser Seite öffnet Protons Partnerseite, mit Preisen für Personen, die über die Website eines Partners kommen. Am 17. November 2026 zeigte sie zwei Tarife. In US-Dollar sahen sie so aus. Die Seite selbst sagt, die Preise seien „ausschließlich über unsere Partner verfügbar“. Andere Partner-Websites haben dasselbe Angebot. In diesem Ratgeber steht es neben Protons öffentlichen Black-Friday-Seiten."
+          "Proton bietet VPN, E-Mail, Cloud-Speicher und Passwortverwaltung. Für Neukunden zeigte unser Link VPN Plus für die ersten 24 Monate zu 59,76 $; Protons öffentliche Angebotsseite zeigte 71,76 $ für denselben Tarif und Zeitraum. Unser Link war damit von diesen beiden Möglichkeiten 12 $ günstiger. Prüfen Sie Währung und Gesamtbetrag an der Kasse."
         ],
         "comparisonTable": {
           "caption": "Protons Partnerseite, in US-Dollar. Der Betrag hängt von Ihrem Land und Ihrer Währung ab, prüfen Sie ihn deshalb an der Kasse.",
           "headers": [
             "Tarif",
-            "Hinweis auf der Seite",
-            "Pro Monat",
+            "Pro Monat (Hinweis auf der Seite)",
             "Im Voraus berechnet",
             "Danach Verlängerung zu"
           ],
           "rows": [
             [
               "VPN Plus, 2 Jahre",
-              "75 % Rabatt",
-              "2,49 $ (statt 9,99 $)",
+              "2,49 $ (statt 9,99 $, 75 % Rabatt)",
               "59,76 $ für die ersten 24 Monate",
               "83,88 $ alle 12 Monate"
             ],
             [
               "Proton Unlimited, 1 Jahr",
-              "50 % Rabatt",
-              "6,49 $ (statt 12,99 $)",
+              "6,49 $ (statt 12,99 $, 50 % Rabatt)",
               "77,88 $ für die ersten 12 Monate",
               "119,88 $ alle 12 Monate"
             ]
           ]
         },
         "postParagraphs": [
-          "Es gibt keinen Gutschein und keinen Code zum Kopieren. Der Rabatt ist schon auf der Seite, die der Button öffnet, und der Gesamtbetrag erscheint an der Kasse, bevor Sie zahlen. Die Regeln des Links stehen auf [unserer Proton-Seite](/de/coupons/proton)."
+          "Es gibt keinen Gutschein und keinen Code zum Kopieren. Der Rabatt ist schon auf der Seite, die der Button öffnet, und der Gesamtbetrag erscheint an der Kasse, bevor Sie zahlen. Der Button öffnet Protons Partnerseite, und andere Partner-Websites können dasselbe Angebot zeigen. Die Regeln des Links stehen auf [unserer Proton-Seite](/de/coupons/proton)."
         ],
         "image": {
           "src": "/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
@@ -250967,7 +251010,14 @@ export const reviewsData: unknown[] = [
           "caption": "Die zwei Tarife auf Protons Partnerseite, in US-Dollar. Die Zeile unter jedem Tarif zeigt den berechneten Gesamtbetrag und den Verlängerungspreis.",
           "objectFit": "contain",
           "aspectRatio": 1.565
-        }
+        },
+        "links": [
+          {
+            "label": "2-Jahres-Angebot für VPN Plus ansehen",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Was auf den öffentlichen Seiten im Angebot ist",
@@ -251031,7 +251081,7 @@ export const reviewsData: unknown[] = [
         "heading": "Worauf sich der Rabatt bezieht",
         "paragraphs": [
           "Laut Proton werden alle Rabatte auf den regulären Monatspreis berechnet, der bei VPN Plus 9,99 $ und bei Proton Unlimited 12,99 $ betrug. Die 75 % beim 2-Jahres-Tarif vergleichen 59,76 $ mit 24 Monatszahlungen zu je 9,99 $, zusammen 239,76 $.",
-          "Kaum jemand abonniert für zwei Jahre und zahlt dabei Monat für Monat, deshalb hilft ein zweiter Vergleich, und der ist unsere eigene Rechnung. Gegenüber zwei jährlichen Verlängerungen zu je 83,88 $ (167,76 $) liegen die 59,76 $ um 64 % niedriger. Der Rabatt besteht in beiden Vergleichen. Die Basis ändert sich, und die Seite gibt selbst an, welche sie verwendet."
+          "Vergleichen Sie für die Kaufentscheidung denselben Tarif und Zeitraum. Unser Link zeigte 59,76 $ für 24 Monate gegenüber 71,76 $ auf Protons Angebotsseite, also 12 $ weniger. Die beworbenen 75 % beziehen sich auf den Monatstarif, nicht auf dieses 24-Monats-Angebot."
         ]
       },
       {
@@ -251040,7 +251090,7 @@ export const reviewsData: unknown[] = [
           "Derselbe VPN-Plus-Tarif zeigte auf verschiedenen Proton-Seiten unterschiedliche Preise. Um sie zu vergleichen, rechnen Sie zusammen, was jeder Weg über 24 Monate kostet."
         ],
         "comparisonTable": {
-          "caption": "VPN Plus über 24 Monate. Die erste Zeile ist der Preis der Partnerseite in US-Dollar; die zweite ist die Rechenregel, die Sie mit dem Preis auf Ihrem Bildschirm ausfüllen.",
+          "caption": "VPN Plus über 24 Monate, in US-Dollar. Der öffentliche Jahrestarif kostete 35,88 $; für das zweite Jahr ist der heute angekündigte Verlängerungspreis von 83,88 $ angesetzt. Der tatsächlich geltende Preis kann sich ändern.",
           "headers": [
             "Weg",
             "Woher der Preis stammt",
@@ -251055,13 +251105,13 @@ export const reviewsData: unknown[] = [
             [
               "1-Jahres-Black-Friday-Tarif + 1 Verlängerung",
               "Öffentliche Black-Friday-Seite",
-              "Der 1-Jahres-Preis auf Ihrem Bildschirm plus 83,88 $"
+              "119,76 $ (35,88 $ + 83,88 $)"
             ]
           ]
         },
         "postParagraphs": [
           "Der 1-Jahres-Tarif verlangt heute am wenigsten Geld und passt zu jemandem, der den bezahlten Dienst ausprobieren möchte und vor der Verlängerung kündigen kann. Läuft das Abonnement in ein zweites Jahr, kostet allein die Verlängerung mehr als der gesamte 2-Jahres-Tarif auf der Partnerseite.",
-          "Der 2-Jahres-Tarif kostet heute mehr und insgesamt weniger. Er ist sinnvoll für jemanden, der sich bereits entschieden hat, das VPN zu behalten. Wenn Sie Proton VPN noch nie genutzt haben, gibt es den kostenlosen Tarif, der keine Karte verlangt. Beginnen Sie damit, bevor Sie zwei Jahre bezahlen.",
+          "Der Zweijahrestarif passt zu Personen, die die kostenpflichtigen Plus-Funktionen über die gesamte Laufzeit nutzen möchten. Für diese Käufer zeigte unser Link den niedrigeren Gesamtpreis der verglichenen Optionen; wer diese Funktionen nicht braucht, kann beim kostenlosen Tarif bleiben.",
           "Für Proton Unlimited bot die Partnerseite den 1-Jahres-Tarif zu 77,88 $ an, mit Verlängerung zu 119,88 $ alle 12 Monate."
         ]
       },
@@ -251070,7 +251120,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "VPN Plus ist nur das bezahlte VPN: laut Proton 10 Geräte gleichzeitig, Server in mehr als 140 Ländern und ein Blocker für Werbung und Schadsoftware. Abonnenten behalten die kostenlosen Tarife für E-Mail, Cloud-Speicher und Passwörter.",
           "Proton Unlimited bündelt VPN Plus, Mail Plus, Drive Plus und Pass Plus, mit 500 GB Speicher. Auf der Partnerseite kostete es im ersten Jahr 77,88 $ und verlängerte sich zu 119,88 $.",
-          "Wenn Sie nur das VPN wollen, lohnt sich Unlimited nicht. VPN Plus kostete auf der Partnerseite 59,76 $ für zwei Jahre und verlängert sich zu 83,88 $ alle 12 Monate. Das Paket lohnt sich, wenn Sie neben dem VPN mindestens die bezahlte E-Mail oder den bezahlten Speicher nutzen."
+          "Wenn Sie nur das kostenpflichtige VPN brauchen, wählen Sie VPN Plus. Mehrere Plus-Abonnements im selben Konto lässt Proton nicht zu. Unlimited vereint die kostenpflichtigen VPN-, E-Mail- und Speicherfunktionen mit 500 GB in einem Konto; entscheiden Sie nach den benötigten Funktionen und dem Speicher sowie den Verlängerungskosten."
         ]
       },
       {
@@ -251113,17 +251163,24 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Öffnen Sie Protons Black Friday mit dem Button. Der Preis steht schon auf der Seite. Prüfen Sie vor der Zahlung den Gesamtbetrag und den Verlängerungspreis.",
-      "label": "Protons Black Friday ansehen",
+      "text": "Für Neukunden zeigte unser Link VPN Plus für zwei Jahre zu einmalig 59,76 $, gegenüber 71,76 $ auf Protons Angebotsseite für dieselbe Laufzeit. Die angekündigte Verlängerung kostet 83,88 $ jährlich, vorbehaltlich des dann geltenden Preises. Öffnen Sie das Angebot über den Button und prüfen Sie vor dem Bezahlen die Währung.",
+      "label": "2-Jahres-Angebot für VPN Plus ansehen",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
     "affiliate": "proton",
     "editorialNote": "Verfasst auf Grundlage der Preisseiten und Bedingungen von Proton. Wir haben keinen eigenen Gutschein. Der Link ist ein Affiliate-Link und kann uns eine Provision einbringen.",
-    "relatedArticles": [],
+    "relatedArticles": [
+      {
+        "slug": "ist-proton-vpn-serioes"
+      },
+      {
+        "slug": "proton-vpn-kuendigen-rueckerstattung"
+      }
+    ],
     "decision": {
       "takeIf": [
-        "Sie wollten ohnehin ein VPN abonnieren oder den kostenlosen Tarif von Proton verlassen.",
+        "Sie sind für das Neukundenangebot berechtigt und haben sich bereits für zwei Jahre VPN Plus entschieden.",
         "Sie möchten den ersten Zeitraum zum Aktionspreis sichern und sich das Verlängerungsdatum notieren."
       ],
       "skipIf": [
@@ -251165,42 +251222,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Per il Black Friday 2026, la pagina partner di Proton, quella che apre il nostro link, applica il 75% di sconto al piano VPN Plus da 2 anni. Lo sconto è calcolato sul piano mensile, tutto il periodo si paga subito e il piano si rinnova al prezzo standard. Non c'è alcun codice coupon, perché il prezzo è già nella pagina. Il rimborso entro 30 giorni ha delle condizioni."
+          "Per i nuovi clienti, il nostro link mostrava due anni di VPN Plus a $59.76, contro $71.76 nella pagina offerte di Proton per la stessa durata. Si paga subito e il rinnovo annunciato è di $83.88 all'anno, al prezzo allora vigente. Apri l'offerta dal pulsante e controlla la valuta prima di pagare."
         ]
       },
       {
-        "heading": "Cosa vedi attraverso il nostro link",
+        "heading": "Perché aprire l'offerta VPN Plus da 2 anni dal nostro link",
         "paragraphs": [
-          "Il pulsante di questa pagina apre la pagina partner di Proton, con i prezzi per chi arriva da un sito partner. Il 17 novembre 2026 mostrava due piani. In dollari statunitensi, erano questi. La pagina stessa dice che i prezzi sono \"disponibili esclusivamente tramite i nostri partner\". Altri siti partner hanno la stessa offerta. In questa guida la affianchiamo alle pagine pubbliche del Black Friday di Proton."
+          "Proton offre VPN, email, archiviazione cloud e gestione delle password. Per i nuovi clienti, il nostro link mostrava VPN Plus a $59.76 per i primi 24 mesi; la pagina pubblica delle offerte mostrava $71.76 per lo stesso piano e periodo. Fra queste due opzioni, il nostro link costava quindi $12 in meno. Controlla valuta e totale al pagamento."
         ],
         "comparisonTable": {
           "caption": "La pagina partner di Proton, in dollari statunitensi. L'importo cambia con il tuo paese e la tua valuta, quindi controllalo al momento del pagamento.",
           "headers": [
             "Piano",
-            "Etichetta nella pagina",
-            "Al mese",
+            "Al mese (etichetta nella pagina)",
             "Si paga subito",
             "Poi si rinnova a"
           ],
           "rows": [
             [
               "VPN Plus, 2 anni",
-              "75% di sconto",
-              "$2.49 (prima $9.99)",
+              "$2.49 (prima $9.99, 75% di sconto)",
               "$59.76 per i primi 24 mesi",
               "$83.88 ogni 12 mesi"
             ],
             [
               "Proton Unlimited, 1 anno",
-              "50% di sconto",
-              "$6.49 (prima $12.99)",
+              "$6.49 (prima $12.99, 50% di sconto)",
               "$77.88 per i primi 12 mesi",
               "$119.88 ogni 12 mesi"
             ]
           ]
         },
         "postParagraphs": [
-          "Non c'è nessun coupon né codice da copiare. Lo sconto è già nella pagina che apre il pulsante, e il totale compare al momento del pagamento, prima di confermare. Le regole del link sono nella [nostra pagina su Proton](/it/coupons/proton)."
+          "Non c'è nessun coupon né codice da copiare. Lo sconto è già nella pagina che apre il pulsante, e il totale compare al momento del pagamento, prima di confermare. Il pulsante apre la pagina partner di Proton, e altri siti partner possono mostrare la stessa offerta. Le regole del link sono nella [nostra pagina su Proton](/it/coupons/proton)."
         ],
         "image": {
           "src": "/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
@@ -251208,7 +251262,14 @@ export const reviewsData: unknown[] = [
           "caption": "I due piani della pagina partner di Proton, in dollari statunitensi. La riga sotto ogni piano mostra il totale addebitato e il prezzo di rinnovo.",
           "objectFit": "contain",
           "aspectRatio": 1.565
-        }
+        },
+        "links": [
+          {
+            "label": "Vedi l'offerta VPN Plus da 2 anni",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Cosa è in offerta nelle pagine pubbliche",
@@ -251272,7 +251333,7 @@ export const reviewsData: unknown[] = [
         "heading": "Rispetto a cosa è calcolato lo sconto",
         "paragraphs": [
           "Secondo Proton, tutti gli sconti sono calcolati sul normale prezzo mensile, che era $9.99 per VPN Plus e $12.99 per Proton Unlimited. Il 75% del piano da 2 anni confronta $59.76 con 24 pagamenti mensili da $9.99, per un totale di $239.76.",
-          "Poche persone si abbonano per due anni pagando mese per mese, quindi serve un secondo confronto, e questo è un calcolo nostro. Rispetto a due rinnovi annuali da $83.88 ($167.76), i $59.76 risultano il 64% in meno. Lo sconto esiste in entrambi i confronti. Cambia la base, e la pagina stessa indica quale usa."
+          "Per scegliere dove comprare, confronta lo stesso piano e periodo. Il nostro link mostrava $59.76 per 24 mesi, contro $71.76 nella pagina offerte di Proton: $12 in meno. Il 75% annunciato prende come riferimento il piano mensile, non questa offerta da 24 mesi."
         ]
       },
       {
@@ -251281,7 +251342,7 @@ export const reviewsData: unknown[] = [
           "Lo stesso piano VPN Plus mostrava prezzi diversi in pagine diverse di Proton. Per confrontarli, somma quanto costa ogni percorso nell'arco di 24 mesi."
         ],
         "comparisonTable": {
-          "caption": "VPN Plus nell'arco di 24 mesi. La prima riga è il prezzo della pagina partner in dollari statunitensi; la seconda è la regola, da completare con il prezzo che vedi sullo schermo.",
+          "caption": "VPN Plus per 24 mesi, in dollari USA. Il piano annuale pubblico costava $35.88; il secondo anno usa il rinnovo annunciato oggi di $83.88. È una simulazione: il prezzo al rinnovo può cambiare.",
           "headers": [
             "Percorso",
             "Da dove viene il prezzo",
@@ -251296,13 +251357,13 @@ export const reviewsData: unknown[] = [
             [
               "Piano Black Friday da 1 anno + 1 rinnovo",
               "Pagina pubblica del Black Friday",
-              "Il prezzo da 1 anno che vedi sullo schermo più $83.88"
+              "$119.76 ($35.88 + $83.88)"
             ]
           ]
         },
         "postParagraphs": [
           "Il piano da 1 anno chiede meno soldi oggi e va bene per chi vuole provare il servizio a pagamento e magari annullare prima del rinnovo. Se l'abbonamento arriva a un secondo anno, il solo rinnovo costa più dell'intero piano da 2 anni della pagina partner.",
-          "Il piano da 2 anni costa di più oggi e meno in totale. Ha senso per chi ha già deciso di tenere la VPN. Se non hai mai usato Proton VPN, esiste il piano gratuito e non chiede la carta. Parti da lì prima di pagare due anni.",
+          "Il piano da due anni è adatto a chi vuole le funzioni a pagamento di Plus e prevede di usarle per tutta la durata. Per questo profilo, il nostro link aveva il totale più basso fra le opzioni confrontate; il piano gratuito resta un'opzione per chi non ha bisogno di quelle funzioni.",
           "Per Proton Unlimited, la pagina partner offriva il piano da 1 anno a $77.88, con rinnovo a $119.88 ogni 12 mesi."
         ]
       },
@@ -251311,7 +251372,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "VPN Plus è solo la VPN a pagamento: secondo Proton, 10 dispositivi alla volta, server in più di 140 paesi e un sistema di blocco di pubblicità e malware. Gli abbonati mantengono i piani gratuiti per email, archiviazione cloud e password.",
           "Proton Unlimited riunisce VPN Plus, Mail Plus, Drive Plus e Pass Plus, con 500 GB di spazio. Nella pagina partner costava $77.88 il primo anno e si rinnovava a $119.88.",
-          "Se vuoi solo la VPN, Unlimited non conviene. VPN Plus costava $59.76 per due anni nella pagina partner e si rinnova a $83.88 ogni 12 mesi. Il pacchetto vale la pena se userai, oltre alla VPN, almeno la posta o lo spazio a pagamento."
+          "Se ti serve solo la VPN a pagamento, scegli VPN Plus. Proton non permette più abbonamenti Plus sullo stesso account. Unlimited riunisce VPN, email e spazio a pagamento con 500 GB in un account; sceglilo per le funzioni e lo spazio che userai, confrontando anche il rinnovo."
         ]
       },
       {
@@ -251354,17 +251415,24 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Apri il Black Friday di Proton con il pulsante. Il prezzo è già nella pagina. Controlla il totale e il prezzo di rinnovo prima di pagare.",
-      "label": "Vedi il Black Friday di Proton",
+      "text": "Per i nuovi clienti, il nostro link mostrava due anni di VPN Plus a $59.76, contro $71.76 nella pagina offerte di Proton per la stessa durata. Si paga subito e il rinnovo annunciato è di $83.88 all'anno, al prezzo allora vigente. Apri l'offerta dal pulsante e controlla la valuta prima di pagare.",
+      "label": "Vedi l'offerta VPN Plus da 2 anni",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
     "affiliate": "proton",
     "editorialNote": "Scritto a partire dalle pagine dei prezzi e dai termini di Proton. Non abbiamo un coupon nostro. Il link è di affiliazione e può generare una commissione.",
-    "relatedArticles": [],
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-e-affidabile"
+      },
+      {
+        "slug": "proton-vpn-rimborso-come-disdire"
+      }
+    ],
     "decision": {
       "takeIf": [
-        "Avevi già intenzione di abbonarti a una VPN o di lasciare il piano gratuito di Proton.",
+        "Rientri nell'offerta per nuovi utenti e hai già deciso di usare VPN Plus per due anni.",
         "Vuoi bloccare il primo periodo al prezzo della campagna e ti segnerai la data di rinnovo."
       ],
       "skipIf": [
@@ -251406,42 +251474,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "2026년 블랙프라이데이에 저희 링크가 여는 Proton 파트너 페이지에서는 2년 VPN Plus 플랜이 75% 할인됩니다. 할인은 월 결제 플랜을 기준으로 계산되고, 전체 기간 요금이 처음에 한꺼번에 청구되며, 갱신 때는 정상 가격으로 돌아갑니다. 가격이 페이지에 바로 표시되므로 쿠폰 코드는 없습니다. 30일 환불에는 조건이 있습니다."
+          "신규 고객 대상 VPN Plus 2년 플랜은 저희 링크에서 일시불 $59.76, Proton 공개 할인 페이지에서는 같은 기간에 $71.76였습니다. 안내된 갱신 요금은 연 $83.88이며 갱신 시점의 가격이 적용됩니다. 버튼으로 할인 페이지를 열고 결제 전 통화와 총액을 확인하세요."
         ]
       },
       {
-        "heading": "저희 링크로 보이는 내용",
+        "heading": "VPN Plus 2년 할인을 저희 링크로 여는 이유",
         "paragraphs": [
-          "이 페이지의 버튼은 파트너 사이트를 통해 들어온 사람에게 보여 주는 가격이 담긴 Proton 파트너 페이지를 엽니다. 2026년 11월 17일 기준으로 두 가지 플랜이 표시되었습니다. 미국 달러로는 다음과 같았습니다. 페이지에는 이 가격이 \"파트너를 통해서만 이용할 수 있다\"고 적혀 있습니다. 다른 파트너 사이트에서도 같은 혜택을 제공합니다. 이 가이드에서는 Proton의 공개 블랙프라이데이 페이지와 함께 놓고 비교합니다."
+          "Proton은 VPN, 이메일, 클라우드 저장소와 비밀번호 관리를 제공합니다. 신규 고객 대상 VPN Plus의 처음 24개월은 저희 링크에서 $59.76, Proton 공개 할인 페이지에서 같은 플랜과 기간에 $71.76였습니다. 이 두 경로를 비교하면 저희 링크가 $12 더 저렴했습니다. 결제 화면에서 통화와 총액을 확인하세요."
         ],
         "comparisonTable": {
           "caption": "Proton 파트너 페이지(미국 달러). 금액은 국가와 통화에 따라 달라지므로 결제 화면에서 확인하세요.",
           "headers": [
             "플랜",
-            "페이지의 배지",
-            "월",
+            "월 (페이지의 배지)",
             "처음 청구 금액",
             "이후 갱신 가격"
           ],
           "rows": [
             [
               "VPN Plus, 2년",
-              "75% 할인",
-              "$2.49 (정가 $9.99)",
+              "$2.49 (정가 $9.99, 75% 할인)",
               "처음 24개월분 $59.76",
               "12개월마다 $83.88"
             ],
             [
               "Proton Unlimited, 1년",
-              "50% 할인",
-              "$6.49 (정가 $12.99)",
+              "$6.49 (정가 $12.99, 50% 할인)",
               "처음 12개월분 $77.88",
               "12개월마다 $119.88"
             ]
           ]
         },
         "postParagraphs": [
-          "쿠폰도, 복사할 코드도 없습니다. 할인은 버튼이 여는 페이지에 이미 적용되어 있고, 결제하기 전에 결제 화면에서 총액이 표시됩니다. 링크의 규칙은 [저희 Proton 페이지](/ko/coupons/proton)에 있습니다."
+          "쿠폰도, 복사할 코드도 없습니다. 할인은 버튼이 여는 페이지에 이미 적용되어 있고, 결제하기 전에 결제 화면에서 총액이 표시됩니다. 버튼은 Proton 파트너 페이지를 열며, 다른 파트너 사이트에서도 같은 할인이 보일 수 있습니다. 링크의 규칙은 [저희 Proton 페이지](/ko/coupons/proton)에 있습니다."
         ],
         "image": {
           "src": "/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
@@ -251449,7 +251514,14 @@ export const reviewsData: unknown[] = [
           "caption": "Proton 파트너 페이지의 두 플랜(미국 달러). 각 플랜 아래 줄에 청구 총액과 갱신 가격이 표시됩니다.",
           "objectFit": "contain",
           "aspectRatio": 1.565
-        }
+        },
+        "links": [
+          {
+            "label": "VPN Plus 2년 할인 보기",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "공개 페이지에서 할인 중인 상품",
@@ -251513,7 +251585,7 @@ export const reviewsData: unknown[] = [
         "heading": "할인의 기준",
         "paragraphs": [
           "Proton에 따르면 모든 할인은 정상 월 가격을 기준으로 계산됩니다. 그 가격은 VPN Plus가 $9.99, Proton Unlimited가 $12.99였습니다. 2년 플랜의 75%는 $59.76을 $9.99씩 24번 낸 금액($239.76)과 비교한 것입니다.",
-          "2년 동안 매달 결제하며 구독하는 사람은 드물기 때문에 두 번째 비교도 도움이 되며, 이쪽은 저희가 직접 계산한 것입니다. $83.88짜리 연간 갱신을 두 번 한 경우($167.76)와 비교하면 $59.76은 64% 더 낮습니다. 두 비교 모두 할인은 존재합니다. 기준이 달라질 뿐이며, 어느 쪽을 쓰는지는 페이지 자체에 명시되어 있습니다."
+          "구매 경로를 고를 때는 같은 플랜과 기간을 비교하세요. 저희 링크에서는 24개월이 $59.76, Proton 할인 페이지에서는 $71.76로 $12 차이가 났습니다. 표시된 75% 할인은 월 결제 가격 기준이며 이 24개월 할인 가격과의 비교가 아닙니다."
         ]
       },
       {
@@ -251522,7 +251594,7 @@ export const reviewsData: unknown[] = [
           "같은 VPN Plus 플랜이 Proton의 페이지마다 다른 가격으로 표시되었습니다. 비교하려면 각 경로가 24개월 동안 드는 비용을 합산해 보세요."
         ],
         "comparisonTable": {
-          "caption": "24개월 동안의 VPN Plus. 첫 번째 행은 파트너 페이지 가격(미국 달러)이고, 두 번째 행은 계산 규칙이므로 화면에 보이는 가격을 넣어 계산하세요.",
+          "caption": "VPN Plus를 24개월 사용하는 경우의 미국 달러 기준 계산입니다. 공개 연간 플랜은 $35.88이며, 두 번째 해에는 현재 안내된 갱신 요금 $83.88를 사용했습니다. 실제 갱신 가격은 바뀔 수 있습니다.",
           "headers": [
             "경로",
             "가격의 출처",
@@ -251537,13 +251609,13 @@ export const reviewsData: unknown[] = [
             [
               "1년 블랙프라이데이 플랜 + 갱신 1회",
               "공개 블랙프라이데이 페이지",
-              "화면에 보이는 1년 가격 + $83.88"
+              "$119.76 ($35.88 + $83.88)"
             ]
           ]
         },
         "postParagraphs": [
           "1년 플랜은 오늘 내는 돈이 가장 적어서, 유료 서비스를 써 보고 갱신 전에 해지할 수도 있는 사람에게 맞습니다. 구독이 두 번째 해로 이어지면 갱신 요금만으로도 파트너 페이지의 2년 플랜 전체보다 비쌉니다.",
-          "2년 플랜은 오늘 내는 돈은 더 많지만 총액은 더 적습니다. VPN을 계속 쓰기로 이미 정한 사람에게 맞습니다. Proton VPN을 써 본 적이 없다면 카드 없이 쓸 수 있는 무료 플랜이 있습니다. 2년치를 결제하기 전에 거기서 먼저 시작하세요.",
+          "2년 플랜은 Plus 유료 기능을 전체 계약 기간 동안 사용할 사람에게 맞습니다. 이 경우 비교한 경로 중 저희 링크의 총액이 더 낮았으며, 해당 기능이 필요하지 않다면 무료 플랜도 선택할 수 있습니다.",
           "Proton Unlimited의 경우 파트너 페이지에서 1년 플랜이 $77.88에 제공되었고, 12개월마다 $119.88로 갱신되었습니다."
         ]
       },
@@ -251552,7 +251624,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "VPN Plus는 유료 VPN만 포함한 플랜입니다. Proton에 따르면 동시에 10대까지 연결할 수 있고, 140개국이 넘는 곳에 서버가 있으며, 광고 및 악성코드 차단 기능이 있습니다. 구독자는 이메일, 클라우드 저장소, 비밀번호 관리의 무료 플랜도 계속 사용할 수 있습니다.",
           "Proton Unlimited는 VPN Plus, Mail Plus, Drive Plus, Pass Plus를 묶은 플랜이며 저장 용량 500 GB가 포함됩니다. 파트너 페이지에서는 첫 1년이 $77.88이었고 갱신 가격은 $119.88이었습니다.",
-          "VPN만 원한다면 Unlimited는 이득이 아닙니다. VPN Plus는 파트너 페이지에서 2년에 $59.76이었고 12개월마다 $83.88로 갱신됩니다. VPN과 함께 유료 이메일이나 저장소를 하나라도 쓸 거라면 번들이 값어치를 합니다."
+          "유료 VPN만 필요하면 VPN Plus를 고르세요. Proton은 같은 계정에 여러 Plus 구독을 허용하지 않습니다. Unlimited는 유료 VPN, 이메일, 저장소 기능과 500 GB를 한 계정에 묶으므로 실제 사용할 기능과 필요한 용량, 갱신 요금을 비교해 선택하세요."
         ]
       },
       {
@@ -251595,17 +251667,24 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "버튼으로 Proton 블랙프라이데이를 여세요. 가격은 이미 페이지에 표시되어 있습니다. 결제하기 전에 총액과 갱신 가격을 확인하세요.",
-      "label": "Proton 블랙프라이데이 보기",
+      "text": "신규 고객 대상 VPN Plus 2년 플랜은 저희 링크에서 일시불 $59.76, Proton 공개 할인 페이지에서는 같은 기간에 $71.76였습니다. 안내된 갱신 요금은 연 $83.88이며 갱신 시점의 가격이 적용됩니다. 버튼으로 할인 페이지를 열고 결제 전 통화와 총액을 확인하세요.",
+      "label": "VPN Plus 2년 할인 보기",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
     "affiliate": "proton",
     "editorialNote": "Proton의 요금 페이지와 약관을 바탕으로 작성했습니다. 저희만의 쿠폰은 없습니다. 이 링크는 제휴 링크이며 수수료를 받을 수 있습니다.",
-    "relatedArticles": [],
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-trust-ko"
+      },
+      {
+        "slug": "proton-vpn-refund-ko"
+      }
+    ],
     "decision": {
       "takeIf": [
-        "이미 VPN을 구독할 생각이었거나 Proton 무료 플랜에서 옮겨 가려고 합니다.",
+        "신규 사용자 할인 대상이며 VPN Plus를 2년 동안 사용하기로 이미 결정한 경우.",
         "첫 기간을 캠페인 가격으로 확보하고 싶고 갱신일을 적어 둘 수 있습니다."
       ],
       "skipIf": [
@@ -251647,42 +251726,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "2026年のブラックフライデーでは、当サイトのリンクが開くProtonのパートナーページで、2年のVPN Plusプランが75%オフになっています。割引の基準は月払いプランの料金で、全期間の料金が最初にまとめて請求され、更新時は通常価格に戻ります。価格はページに表示されているため、クーポンコードはありません。30日間の返金には条件があります。"
+          "新規利用者向けでは、当サイトのリンクでVPN Plusの2年プランが一括$59.76、同じ期間のProton公式オファーページでは$71.76でした。更新時の案内は年$83.88ですが、その時点の料金が適用されます。ボタンからオファーを開き、支払い前に通貨と合計額を確認してください。"
         ]
       },
       {
-        "heading": "当サイトのリンクで表示される内容",
+        "heading": "VPN Plusの2年プランを当サイトのリンクから開くメリット",
         "paragraphs": [
-          "このページのボタンは、パートナーサイト経由でアクセスした人向けの料金を表示するProtonのパートナーページを開きます。2026年11月17日の時点では、2つのプランが表示されていました。米ドルでの内容は次のとおりです。ページ自体にも、この料金は「パートナー経由でのみ利用できます」と書かれています。ほかのパートナーサイトでも同じオファーが提供されています。このガイドでは、Protonの公開ブラックフライデーページとあわせて比較します。"
+          "ProtonはVPN、メール、クラウドストレージ、パスワード管理を提供しています。新規利用者向けでは、当サイトのリンクでVPN Plusの最初の24か月が$59.76、Protonの公開オファーページで同じプランと期間が$71.76でした。この二つの選択肢では、当サイトのリンクのほうが$12安い結果です。決済画面で通貨と合計額を確認してください。"
         ],
         "comparisonTable": {
           "caption": "Protonのパートナーページ（米ドル）。金額はお住まいの国や通貨によって変わるため、決済画面で確認してください。",
           "headers": [
             "プラン",
-            "ページ上のバッジ",
-            "月額",
+            "月額（ページ上のバッジ）",
             "最初に請求される金額",
             "更新時の料金"
           ],
           "rows": [
             [
               "VPN Plus（2年）",
-              "75%オフ",
-              "$2.49（通常 $9.99）",
+              "$2.49（通常 $9.99、75%オフ）",
               "最初の24か月分として $59.76",
               "12か月ごとに $83.88"
             ],
             [
               "Proton Unlimited（1年）",
-              "50%オフ",
-              "$6.49（通常 $12.99）",
+              "$6.49（通常 $12.99、50%オフ）",
               "最初の12か月分として $77.88",
               "12か月ごとに $119.88"
             ]
           ]
         },
         "postParagraphs": [
-          "クーポンはなく、コピーするコードもありません。割引はボタンで開くページにすでに反映されていて、支払い前に決済画面で合計金額が表示されます。リンクのルールは[当サイトのProtonのページ](/ja/coupons/proton)にまとめています。"
+          "クーポンはなく、コピーするコードもありません。割引はボタンで開くページにすでに反映されていて、支払い前に決済画面で合計金額が表示されます。ボタンで開くのはProtonのパートナーページで、ほかのパートナーサイトでも同じオファーが表示されることがあります。リンクのルールは[当サイトのProtonのページ](/ja/coupons/proton)にまとめています。"
         ],
         "image": {
           "src": "/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
@@ -251690,7 +251766,14 @@ export const reviewsData: unknown[] = [
           "caption": "Protonのパートナーページに表示された2つのプラン（米ドル）。各プランの下の行に、請求合計額と更新時の価格が表示されます。",
           "objectFit": "contain",
           "aspectRatio": 1.565
-        }
+        },
+        "links": [
+          {
+            "label": "VPN Plusの2年オファーを見る",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "公開ページで割引になっているもの",
@@ -251754,7 +251837,7 @@ export const reviewsData: unknown[] = [
         "heading": "割引の基準は何か",
         "paragraphs": [
           "Protonによると、すべての割引は通常の月額料金を基準に計算されています。その料金はVPN Plusが$9.99、Proton Unlimitedが$12.99でした。2年プランの75%オフは、$59.76を、$9.99の24回分の月払い（合計$239.76）と比べたものです。",
-          "2年間ずっと月払いで契約する人はあまりいないため、もう一つの比較も役に立ちます。これは当サイト独自の計算です。$83.88の年額更新を2回繰り返した場合（$167.76）と比べると、$59.76は64%安くなります。どちらの比較でも割引はあります。変わるのは基準で、ページ自体にどちらを使っているかが書かれています。"
+          "購入先を選ぶときは、同じプランと期間を比べてください。当サイトのリンクでは24か月が$59.76、Protonのオファーページでは$71.76で、差額は$12でした。表示されている75%オフは月払い料金が基準であり、この24か月のオファーとの比較ではありません。"
         ]
       },
       {
@@ -251763,7 +251846,7 @@ export const reviewsData: unknown[] = [
           "同じVPN Plusプランでも、Protonのページによって表示される価格が異なっていました。比べるには、それぞれの方法で24か月間にかかる金額を合計します。"
         ],
         "comparisonTable": {
-          "caption": "24か月間のVPN Plus。1行目はパートナーページの価格（米ドル）、2行目は計算のルールで、画面に表示されている価格を当てはめてください。",
+          "caption": "VPN Plusを24か月利用する場合の米ドルでの試算です。公開の年契約は$35.88、2年目は現在案内されている更新料$83.88を使っています。更新時の料金は変わる場合があります。",
           "headers": [
             "方法",
             "価格の出どころ",
@@ -251778,13 +251861,13 @@ export const reviewsData: unknown[] = [
             [
               "1年のブラックフライデープラン＋更新1回",
               "公開のブラックフライデーページ",
-              "画面に表示されている1年の価格＋$83.88"
+              "$119.76（$35.88＋$83.88）"
             ]
           ]
         },
         "postParagraphs": [
           "1年プランは今日の支払いがいちばん少なく、有料サービスを試して、更新前に解約するかもしれない人に向いています。契約が2年目に入ると、更新料金だけでパートナーページの2年プラン全体より高くなります。",
-          "2年プランは今日の支払いが多くなりますが、合計では安くなります。VPNを使い続けると決めている人に向いています。Proton VPNを使ったことがない場合は、カード不要の無料プランがあります。2年分を支払う前に、まずそちらから始めてください。",
+          "2年プランは、Plusの有料機能を契約期間中ずっと使う予定の方に向いています。その条件なら、比較した選択肢では当サイトのリンクの合計額が低く、有料機能が不要な方には無料プランも選択肢になります。",
           "Proton Unlimitedについては、パートナーページで1年プランが$77.88で提供され、12か月ごとに$119.88で更新される内容でした。"
         ]
       },
@@ -251793,7 +251876,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "VPN Plusは有料のVPNだけのプランです。Protonによると、同時に10台まで接続でき、140を超える国にサーバーがあり、広告とマルウェアのブロッカーが付いています。契約者は、メール、クラウドストレージ、パスワード管理の無料プランも引き続き使えます。",
           "Proton Unlimitedは、VPN Plus、Mail Plus、Drive Plus、Pass Plusをまとめたプランで、500 GBのストレージが付きます。パートナーページでは最初の1年が$77.88で、更新時は$119.88でした。",
-          "VPNだけが欲しい場合、Unlimitedは割に合いません。VPN Plusはパートナーページで2年間$59.76で、12か月ごとに$83.88で更新されます。VPNに加えて、少なくとも有料のメールかストレージのどちらかを使うなら、バンドルを選ぶ価値があります。"
+          "有料VPNだけが必要ならVPN Plusを選びましょう。Protonでは同じアカウントに複数のPlusプランを契約できません。Unlimitedは有料のVPN、メール、ストレージ機能と500 GBを一つのアカウントで利用できるので、必要な機能と容量、更新料を比べて選んでください。"
         ]
       },
       {
@@ -251836,17 +251919,24 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "ボタンからProtonのブラックフライデーを開きます。価格はすでにページに表示されています。支払う前に、合計額と更新時の価格を確認してください。",
-      "label": "Protonのブラックフライデーを見る",
+      "text": "新規利用者向けでは、当サイトのリンクでVPN Plusの2年プランが一括$59.76、同じ期間のProton公式オファーページでは$71.76でした。更新時の案内は年$83.88ですが、その時点の料金が適用されます。ボタンからオファーを開き、支払い前に通貨と合計額を確認してください。",
+      "label": "VPN Plusの2年オファーを見る",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
     "affiliate": "proton",
     "editorialNote": "Protonの料金ページと利用規約をもとに作成しました。当サイト独自のクーポンはありません。このリンクはアフィリエイトリンクで、紹介料を受け取る場合があります。",
-    "relatedArticles": [],
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-trust-ja"
+      },
+      {
+        "slug": "proton-vpn-refund-ja"
+      }
+    ],
     "decision": {
       "takeIf": [
-        "もともとVPNを契約するつもりだった、またはProtonの無料プランから移りたい場合です。",
+        "新規利用者向けオファーの対象で、VPN Plusを2年間使うと決めている方。",
         "最初の期間をキャンペーン価格で確保したく、更新日も控えておける場合です。"
       ],
       "skipIf": [
@@ -251888,42 +251978,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "2026 年黑色星期五，Proton 的合作夥伴頁面（也就是我們的連結開啟的頁面）提供 2 年 VPN Plus 方案省 75% 的優惠。折扣是以月繳方案為基準計算，整個期間的費用會一次扣款，方案續訂時則按標準價格計費。這裡沒有優惠碼，因為價格直接顯示在頁面上。30 天退款設有條件。"
+          "針對新用戶，我們的連結顯示 VPN Plus 兩年一次付清 59.76 美元，Proton 公開優惠頁的相同方案和期限則為 71.76 美元。公布的續訂價為每年 83.88 美元，實際以續訂時的價格為準。請透過按鈕開啟優惠，並在付款前確認幣別和總額。"
         ]
       },
       {
-        "heading": "透過我們的連結看到什麼",
+        "heading": "為什麼透過我們的連結開啟 VPN Plus 兩年優惠",
         "paragraphs": [
-          "本頁的按鈕會開啟 Proton 的合作夥伴頁面，上面是透過合作夥伴網站進入的使用者所看到的價格。2026 年 11 月 17 日，頁面上有兩個方案，以美元計價如下。頁面本身寫明這些價格「僅透過我們的合作夥伴提供」。其他合作夥伴網站的優惠相同。本文會將它與 Proton 公開的黑色星期五頁面並列比較。"
+          "Proton 提供 VPN、電子郵件、雲端儲存和密碼管理。針對新用戶，我們的連結顯示 VPN Plus 前 24 個月為 59.76 美元，Proton 公開優惠頁的相同方案和期限為 71.76 美元。在這兩個購買管道中，我們的連結便宜 12 美元。請在結帳時確認幣別和總額。"
         ],
         "comparisonTable": {
           "caption": "Proton 合作夥伴頁面，以美元計價。金額會隨國家和幣別而變，請在結帳時確認。",
           "headers": [
             "方案",
-            "頁面上的標示",
-            "每月",
+            "每月（頁面上的標示）",
             "一次扣款",
             "之後續訂價"
           ],
           "rows": [
             [
               "VPN Plus，2 年",
-              "省 75%",
-              "2.49 美元（原價 9.99 美元）",
+              "2.49 美元（原價 9.99 美元，省 75%）",
               "前 24 個月 59.76 美元",
               "每 12 個月 83.88 美元"
             ],
             [
               "Proton Unlimited，1 年",
-              "省 50%",
-              "6.49 美元（原價 12.99 美元）",
+              "6.49 美元（原價 12.99 美元，省 50%）",
               "前 12 個月 77.88 美元",
               "每 12 個月 119.88 美元"
             ]
           ]
         },
         "postParagraphs": [
-          "這裡沒有優惠碼，也沒有要複製的代碼。折扣已經顯示在按鈕開啟的頁面上，付款前結帳頁會顯示總金額。這個連結的相關規則請見[我們的 Proton 頁面](/zh-hant/coupons/proton)。"
+          "這裡沒有優惠碼，也沒有要複製的代碼。折扣已經顯示在按鈕開啟的頁面上，付款前結帳頁會顯示總金額。按鈕開啟的是 Proton 的合作夥伴頁面，其他合作夥伴網站也可能顯示相同優惠。這個連結的相關規則請見[我們的 Proton 頁面](/zh-hant/coupons/proton)。"
         ],
         "image": {
           "src": "/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
@@ -251931,7 +252018,14 @@ export const reviewsData: unknown[] = [
           "caption": "Proton 合作夥伴頁面上的兩個方案，以美元計價。每個方案下方的小字標示一次扣款總額和續訂價格。",
           "objectFit": "contain",
           "aspectRatio": 1.565
-        }
+        },
+        "links": [
+          {
+            "label": "查看 VPN Plus 兩年優惠",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "公開頁面上有什麼優惠",
@@ -251995,7 +252089,7 @@ export const reviewsData: unknown[] = [
         "heading": "折扣是以什麼為基準",
         "paragraphs": [
           "依 Proton 所述，所有折扣都以一般月費計算，VPN Plus 為 9.99 美元，Proton Unlimited 為 12.99 美元。2 年方案的 75% 是拿 59.76 美元與 24 期每月 9.99 美元相比，後者合計 239.76 美元。",
-          "很少人會連續兩年月繳，所以再做一種比較會有幫助，這是我們自己的算法。與兩次 83.88 美元的年費續訂（共 167.76 美元）相比，59.76 美元便宜了 64%。兩種比較下折扣都成立，只是基準不同，頁面本身也會註明它採用哪一種。"
+          "選擇購買管道時，請比較相同方案和期限。我們的連結顯示 24 個月為 59.76 美元，Proton 優惠頁為 71.76 美元，差額為 12 美元。公布的 75% 折扣以月繳價格為基準，不是與這個 24 個月優惠相比。"
         ]
       },
       {
@@ -252004,7 +252098,7 @@ export const reviewsData: unknown[] = [
           "同一個 VPN Plus 方案在 Proton 不同頁面上顯示的價格不同。要比較的話，把每種方式在 24 個月內的花費加起來。"
         ],
         "comparisonTable": {
-          "caption": "VPN Plus 24 個月的花費。第一列是合作夥伴頁面的美元價格；第二列是算法，請代入你螢幕上看到的價格。",
+          "caption": "VPN Plus 使用 24 個月的美元試算。公開年繳方案為 35.88 美元，第二年採用目前公布的 83.88 美元續訂價。實際續訂價格可能變化。",
           "headers": [
             "方式",
             "價格來源",
@@ -252019,13 +252113,13 @@ export const reviewsData: unknown[] = [
             [
               "1 年黑色星期五方案 + 續訂 1 次",
               "公開的黑色星期五頁面",
-              "你螢幕上的 1 年價格加上 83.88 美元"
+              "119.76 美元（35.88 美元 + 83.88 美元）"
             ]
           ]
         },
         "postParagraphs": [
           "1 年方案現在要付的錢最少，適合想先試用付費服務、可能在續訂前取消的人。如果訂閱延續到第二年，光是續訂的費用就超過合作夥伴頁面整個 2 年方案的價格。",
-          "2 年方案現在付得較多，但總額較低。適合已經決定長期使用這個 VPN 的人。如果你從沒用過 Proton VPN，可以先用免費方案，不需要信用卡。先試用，再決定要不要一次付兩年。",
+          "兩年方案適合需要 Plus 付費功能、並打算在整個合約期內使用的人。對這類用戶，在所比較的管道中，我們的連結總價較低；不需要這些功能的人仍可選擇免費方案。",
           "至於 Proton Unlimited，合作夥伴頁面提供 1 年方案 77.88 美元，之後每 12 個月以 119.88 美元續訂。"
         ]
       },
@@ -252034,7 +252128,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "VPN Plus 只含付費 VPN：依 Proton 所述，可同時連線 10 台裝置，伺服器遍布 140 多個國家，並附廣告與惡意軟體攔截功能。訂閱者仍可使用電子郵件、雲端儲存和密碼管理的免費方案。",
           "Proton Unlimited 整合了 VPN Plus、Mail Plus、Drive Plus 和 Pass Plus，並提供 500 GB 儲存空間。在合作夥伴頁面上，第一年為 77.88 美元，續訂價為 119.88 美元。",
-          "如果你只想要 VPN，Unlimited 並不划算。VPN Plus 在合作夥伴頁面上 2 年為 59.76 美元，之後每 12 個月以 83.88 美元續訂。如果除了 VPN 之外，你至少還會用到付費電子郵件或儲存空間，套組才值得。"
+          "如果只需要付費 VPN，選擇 VPN Plus。Proton 不允許同一帳戶訂閱多個 Plus 方案。Unlimited 把付費 VPN、郵件和儲存功能與 500 GB 整合在同一帳戶中，請依實際需要的功能、容量和續訂費用選擇。"
         ]
       },
       {
@@ -252077,17 +252171,24 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "用按鈕開啟 Proton 的黑色星期五頁面。價格已經顯示在頁面上。付款前請確認總額和續訂價格。",
-      "label": "查看 Proton 黑色星期五",
+      "text": "針對新用戶，我們的連結顯示 VPN Plus 兩年一次付清 59.76 美元，Proton 公開優惠頁的相同方案和期限則為 71.76 美元。公布的續訂價為每年 83.88 美元，實際以續訂時的價格為準。請透過按鈕開啟優惠，並在付款前確認幣別和總額。",
+      "label": "查看 VPN Plus 兩年優惠",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
     "affiliate": "proton",
     "editorialNote": "本文依據 Proton 的價格頁面與條款撰寫。我們沒有自己的優惠碼。這個連結是聯盟連結，可能為我們帶來佣金。",
-    "relatedArticles": [],
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-trust-zh-hant"
+      },
+      {
+        "slug": "proton-vpn-refund-zh-hant"
+      }
+    ],
     "decision": {
       "takeIf": [
-        "你本來就打算訂閱 VPN，或要從 Proton 的免費方案升級。",
+        "你符合新用戶優惠條件，並且已經決定使用 VPN Plus 兩年。",
         "你想以活動價鎖定第一個期間，並且會記下續訂日期。"
       ],
       "skipIf": [
@@ -252129,42 +252230,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "2026 年黑色星期五，Proton 的合作伙伴页面（也就是我们的链接打开的页面）提供 2 年 VPN Plus 套餐省 75% 的优惠。折扣是以按月付费的套餐为基准计算的，整个周期的费用一次性扣款，套餐续订时按标准价格计费。这里没有优惠码，因为价格直接显示在页面上。30 天退款附有条件。"
+          "面向新用户，我们的链接显示 VPN Plus 两年一次付清 59.76 美元，Proton 公开优惠页的相同套餐和期限则为 71.76 美元。公布的续订价为每年 83.88 美元，实际以续订时的价格为准。请通过按钮打开优惠，并在付款前确认币种和总额。"
         ]
       },
       {
-        "heading": "通过我们的链接看到什么",
+        "heading": "为什么通过我们的链接打开 VPN Plus 两年优惠",
         "paragraphs": [
-          "本页的按钮会打开 Proton 的合作伙伴页面，上面是通过合作伙伴网站进入的用户所看到的价格。2026 年 11 月 17 日，页面上有两个套餐，以美元计价如下。页面本身写明这些价格“仅通过我们的合作伙伴提供”。其他合作伙伴网站的优惠相同。本文会把它与 Proton 公开的黑色星期五页面放在一起比较。"
+          "Proton 提供 VPN、电子邮件、云存储和密码管理。面向新用户，我们的链接显示 VPN Plus 前 24 个月为 59.76 美元，Proton 公开优惠页的相同套餐和期限为 71.76 美元。在这两个购买渠道中，我们的链接便宜 12 美元。请在结账时确认币种和总额。"
         ],
         "comparisonTable": {
           "caption": "Proton 合作伙伴页面，以美元计价。金额会随国家和币种而变，请在结账时确认。",
           "headers": [
             "套餐",
-            "页面上的标注",
-            "每月",
+            "每月（页面上的标注）",
             "一次性扣款",
             "之后续订价"
           ],
           "rows": [
             [
               "VPN Plus，2 年",
-              "省 75%",
-              "2.49 美元（原价 9.99 美元）",
+              "2.49 美元（原价 9.99 美元，省 75%）",
               "前 24 个月 59.76 美元",
               "每 12 个月 83.88 美元"
             ],
             [
               "Proton Unlimited，1 年",
-              "省 50%",
-              "6.49 美元（原价 12.99 美元）",
+              "6.49 美元（原价 12.99 美元，省 50%）",
               "前 12 个月 77.88 美元",
               "每 12 个月 119.88 美元"
             ]
           ]
         },
         "postParagraphs": [
-          "这里没有优惠码，也没有要复制的代码。折扣已经显示在按钮打开的页面上，付款前结账页会显示总金额。这个链接的相关规则见[我们的 Proton 页面](/zh-hans/coupons/proton)。"
+          "这里没有优惠码，也没有要复制的代码。折扣已经显示在按钮打开的页面上，付款前结账页会显示总金额。按钮打开的是 Proton 的合作伙伴页面，其他合作伙伴网站也可能显示相同优惠。这个链接的相关规则见[我们的 Proton 页面](/zh-hans/coupons/proton)。"
         ],
         "image": {
           "src": "/images/reviews/proton/black-friday-proton-pagina-parceiros-usd.webp",
@@ -252172,7 +252270,14 @@ export const reviewsData: unknown[] = [
           "caption": "Proton 合作伙伴页面上的两个套餐，以美元计价。每个套餐下方的小字标注一次性扣款总额和续订价格。",
           "objectFit": "contain",
           "aspectRatio": 1.565
-        }
+        },
+        "links": [
+          {
+            "label": "查看 VPN Plus 两年优惠",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "公开页面上有什么优惠",
@@ -252236,7 +252341,7 @@ export const reviewsData: unknown[] = [
         "heading": "折扣是以什么为基准",
         "paragraphs": [
           "据 Proton 所述，所有折扣都以普通月费计算，VPN Plus 为 9.99 美元，Proton Unlimited 为 12.99 美元。2 年套餐的 75% 是拿 59.76 美元与 24 期每月 9.99 美元相比，后者合计 239.76 美元。",
-          "很少有人会连续两年按月付费，所以再做一种比较会有帮助，这是我们自己的算法。与两次 83.88 美元的年费续订（共 167.76 美元）相比，59.76 美元便宜了 64%。两种比较下折扣都成立，只是基准不同，页面本身也会注明它采用哪一种。"
+          "选择购买渠道时，请比较相同套餐和期限。我们的链接显示 24 个月为 59.76 美元，Proton 优惠页为 71.76 美元，差额为 12 美元。公布的 75% 折扣以月付价格为基准，不是与这个 24 个月优惠相比。"
         ]
       },
       {
@@ -252245,7 +252350,7 @@ export const reviewsData: unknown[] = [
           "同一个 VPN Plus 套餐在 Proton 不同页面上显示的价格不同。要比较的话，把每种方式在 24 个月内的花费加起来。"
         ],
         "comparisonTable": {
-          "caption": "VPN Plus 24 个月的花费。第一行是合作伙伴页面的美元价格；第二行是算法，请代入你屏幕上看到的价格。",
+          "caption": "VPN Plus 使用 24 个月的美元估算。公开年付套餐为 35.88 美元，第二年采用目前公布的 83.88 美元续订价。实际续订价格可能变化。",
           "headers": [
             "方式",
             "价格来源",
@@ -252260,13 +252365,13 @@ export const reviewsData: unknown[] = [
             [
               "1 年黑色星期五套餐 + 续订 1 次",
               "公开的黑色星期五页面",
-              "你屏幕上的 1 年价格加上 83.88 美元"
+              "119.76 美元（35.88 美元 + 83.88 美元）"
             ]
           ]
         },
         "postParagraphs": [
           "1 年套餐现在要付的钱最少，适合想先试用付费服务、可能在续订前取消的人。如果订阅延续到第二年，光是续订的费用就超过合作伙伴页面整个 2 年套餐的价格。",
-          "2 年套餐现在付得较多，但总额更低。适合已经决定长期使用这个 VPN 的人。如果你从没用过 Proton VPN，可以先用免费版，不需要银行卡。先试用，再决定要不要一次付两年。",
+          "两年套餐适合需要 Plus 付费功能、并打算在整个合同期内使用的人。对这类用户，在所比较的渠道中，我们的链接总价更低；不需要这些功能的人仍可选择免费版。",
           "至于 Proton Unlimited，合作伙伴页面提供 1 年套餐 77.88 美元，之后每 12 个月以 119.88 美元续订。"
         ]
       },
@@ -252275,7 +252380,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "VPN Plus 只含付费 VPN：据 Proton 所述，可同时连接 10 台设备，服务器遍布 140 多个国家，并带有广告和恶意软件拦截功能。订阅者仍可使用电子邮件、云存储和密码管理的免费版。",
           "Proton Unlimited 整合了 VPN Plus、Mail Plus、Drive Plus 和 Pass Plus，并提供 500 GB 存储空间。在合作伙伴页面上，第一年为 77.88 美元，续订价为 119.88 美元。",
-          "如果你只想要 VPN，Unlimited 并不划算。VPN Plus 在合作伙伴页面上 2 年为 59.76 美元，之后每 12 个月以 83.88 美元续订。如果除了 VPN 之外，你至少还会用到付费电子邮件或存储空间，套装才值得。"
+          "如果只需要付费 VPN，选择 VPN Plus。Proton 不允许同一账户订阅多个 Plus 套餐。Unlimited 把付费 VPN、邮件和存储功能与 500 GB 整合在同一账户中，请根据实际需要的功能、容量和续订费用选择。"
         ]
       },
       {
@@ -252318,17 +252423,24 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "用按钮打开 Proton 的黑色星期五页面。价格已经显示在页面上。付款前请确认总额和续订价格。",
-      "label": "查看 Proton 黑色星期五",
+      "text": "面向新用户，我们的链接显示 VPN Plus 两年一次付清 59.76 美元，Proton 公开优惠页的相同套餐和期限则为 71.76 美元。公布的续订价为每年 83.88 美元，实际以续订时的价格为准。请通过按钮打开优惠，并在付款前确认币种和总额。",
+      "label": "查看 VPN Plus 两年优惠",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
     "affiliate": "proton",
     "editorialNote": "本文依据 Proton 的价格页面与条款撰写。我们没有自己的优惠码。这个链接是联盟链接，可能为我们带来佣金。",
-    "relatedArticles": [],
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-trust-zh-hans"
+      },
+      {
+        "slug": "proton-vpn-refund-zh-hans"
+      }
+    ],
     "decision": {
       "takeIf": [
-        "你本来就打算订阅 VPN，或要从 Proton 的免费版升级。",
+        "你符合新用户优惠条件，并且已经决定使用 VPN Plus 两年。",
         "你想以活动价锁定第一个周期，并且会记下续订日期。"
       ],
       "skipIf": [
@@ -252355,7 +252467,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O caminho para cancelar o Proton VPN e pedir o dinheiro de volta, o que os termos exigem, o que fica de fora e como não ser pego pela renovação automática.",
-    "metaDescription": "Como cancelar o Proton VPN e pedir o reembolso: o prazo de 30 dias, as condições que derrubam o pedido e como evitar a cobrança da renovação.",
+    "metaDescription": "Proton VPN: como cancelar e pedir reembolso, prazo de 30 dias nas compras diretas, regras de Google Play e Apple e cuidados com a renovação.",
     "publishedAt": "17 de novembro de 2026",
     "publishedAtISO": "2026-11-17",
     "updatedAt": "2026-11-17",
@@ -252369,15 +252481,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para ter o dinheiro de volta no Proton VPN, cancele a assinatura e peça o reembolso ao suporte, os dois dentro de 30 dias da compra inicial. Pelos termos, o reembolso vale uma vez por usuário e só para quem assinou direto com a Proton. Renovação fica fora, e assinatura feita pela loja do celular se cancela na loja."
+          "Para pedir o reembolso do Proton VPN, confira quem cobrou e a data da compra inicial. Na contratação direta, cancele e peça o reembolso ao suporte dentro de 30 dias, respeitando as condições dos termos. Se pagou pela Google Play ou pela Apple, siga o caminho específico abaixo. Só cancelar a assinatura não devolve dinheiro."
         ]
       },
       {
         "heading": "Cancelar e pedir reembolso são dois passos",
         "paragraphs": [
-          "Cancelar desliga as renovações futuras. Segundo a central de ajuda da Proton, os recursos pagos continuam até a próxima data de renovação e, depois dela, a conta passa para o plano gratuito. O cancelamento sozinho não devolve dinheiro.",
+          "No VPN Plus, cancelar desliga as renovações futuras. Segundo a central de ajuda da Proton, os recursos pagos continuam até a próxima data de renovação e, depois dela, a conta passa para o plano gratuito. O cancelamento sozinho não devolve dinheiro.",
           "O reembolso é um pedido à parte, feito ao suporte. Os termos de serviço da Proton, modificados em 05/11/2026, dizem que \"o cancelamento e a solicitação de reembolso devem ser ambos abordados dentro do período de 30 dias\". Quem cancela no vigésimo dia e só escreve ao suporte no trigésimo quinto perdeu o prazo.",
-          "Os termos são os mesmos para os outros planos pagos da Proton, como o Mail Plus e o Proton Unlimited. O que este guia diz do prazo e das condições vale para eles também."
+          "O prazo e as condições gerais de reembolso também constam dos termos para outros planos, como Mail Plus e Unlimited. Os efeitos do cancelamento mudam conforme o plano. Antes de fazer downgrade de outro plano, confira as exigências e a data de efeito no painel e nos termos."
         ],
         "image": {
           "src": "/images/reviews/proton/proton-vpn-reembolso-termos-pt.webp",
@@ -252398,7 +252510,7 @@ export const reviewsData: unknown[] = [
           "Escolha um motivo e clique em **Submit**. Segundo a página, o cancelamento só vale depois desse último passo."
         ],
         "postParagraphs": [
-          "Depois disso, o plano pago segue ativo até a data em que renovaria. Passada essa data, a conta continua existindo, no plano gratuito. Cancelar a assinatura não apaga a conta. Quem muda de ideia encontra no painel o botão **Reactivate now**.",
+          "No VPN Plus, depois disso, o plano pago segue ativo até a data em que renovaria. Passada essa data, a conta continua existindo, no plano gratuito. Cancelar a assinatura não apaga a conta. Quem muda de ideia encontra no painel o botão **Reactivate now**.",
           "Os termos dizem que quem não consegue entrar no painel pode cancelar pelo atendimento da Proton."
         ]
       },
@@ -252458,13 +252570,13 @@ export const reviewsData: unknown[] = [
           "**A conta foi encerrada por violar os termos.** Nesse caso, os termos dizem que todos os pagamentos e créditos se perdem."
         ],
         "postParagraphs": [
-          "Depois dos 30 dias, os termos dizem que o serviço não é reembolsável e que qualquer reembolso ou crédito fica \"a critério exclusivo da Empresa\". Dá para pedir, sem regra a seu favor."
+          "Depois dos 30 dias, a política comercial da Proton não prevê reembolso automático; os termos deixam eventual reembolso ou crédito a critério da empresa. Isso descreve a garantia comercial, sem definir outros direitos que possam ser aplicáveis."
         ]
       },
       {
         "heading": "Assinei pelo aplicativo, pela Google Play ou pela App Store",
         "paragraphs": [
-          "Assinatura feita dentro do aplicativo do celular costuma ser cobrada pela loja. Para quem pagou pela Google Play ou pela App Store, a central de ajuda manda cancelar na própria loja."
+          "Confira no recibo quem recebeu o pagamento: a Proton, a Google Play ou a Apple. Para assinaturas cobradas pela Google Play ou pela App Store, o cancelamento é feito na respectiva loja; o caminho do reembolso está abaixo."
         ],
         "bullets": [
           "**Google Play.** Abra o aplicativo Play Store, toque na sua foto, entre em Assinaturas e escolha o Proton VPN para cancelar. Para o reembolso dentro dos 30 dias, a central de ajuda manda falar com o suporte da Proton e diz que também pode dar para pedir pela própria Google Play.",
@@ -252477,8 +252589,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como não ser pego pela renovação",
         "paragraphs": [
-          "A assinatura renova sozinha, pelo mesmo período. Os termos dizem que a cobrança é feita \"pelo preço vigente válido no momento da renovação\", e o preço promocional só vale no primeiro período. Na página de preços que lemos, o VPN Plus de 1 ano saía por R$ 125,88 na campanha de Black Friday e renovava por R$ 293,88 a cada 12 meses.",
-          "Para não renovar, os termos pedem o cancelamento antes da data de renovação. Não é preciso esperar a véspera. Como o plano pago continua até o fim do período já cobrado, dá para cancelar logo depois de assinar e usar tudo o que foi pago.",
+          "A assinatura renova pelo ciclo informado na oferta e no recibo, que pode ser diferente do período inicial. Os termos dizem que a cobrança é feita \"pelo preço vigente válido no momento da renovação\", e o preço promocional só vale no primeiro período. Na página de preços que lemos, o VPN Plus de 1 ano saía por R$ 125,88 na campanha de Black Friday e renovava por R$ 293,88 a cada 12 meses.",
+          "No VPN Plus, para não renovar, os termos pedem o cancelamento antes da data de renovação. Não é preciso esperar a véspera. Como o plano pago continua até o fim do período já cobrado, dá para cancelar logo depois de assinar e usar tudo o que foi pago.",
           "Anote no calendário a data da próxima cobrança, com alguns dias de folga. Quem assinou pela loja do celular confere a data nas assinaturas da loja."
         ]
       },
@@ -252493,13 +252605,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O formulário de suporte é o canal oficial, e a central de ajuda diz que os planos pagos têm suporte prioritário e chat. Guarde o comprovante da compra, a data em que cancelou e a data em que pediu o reembolso. São essas três datas que mostram que o pedido entrou no prazo.",
           "O perfil do Proton VPN no Reclame Aqui não tem resposta da empresa, como mostramos em [Proton VPN é confiável?](/reviews/proton-vpn-e-confiavel). Reclamar lá registra o caso, mas o atendimento acontece pelo formulário.",
-          "Para compra feita pela internet no Brasil, o Código de Defesa do Consumidor dá 7 dias de arrependimento. Os 30 dias da Proton são mais largos. Cobrança no cartão que você não reconhece é assunto para o banco emissor."
+          "Quando o Código de Defesa do Consumidor for aplicável à contratação, o [art. 49](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm) prevê arrependimento em 7 dias nas compras fora do estabelecimento. Essa regra legal e a garantia comercial da Proton têm fundamentos e condições diferentes. Cobrança no cartão que você não reconhece deve ser tratada com o banco emissor."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O Proton VPN devolve o dinheiro? Pelos termos, devolve o valor integral se o cancelamento e o pedido de reembolso forem feitos em até 30 dias da compra inicial. Vale uma vez por usuário e só para quem assinou pelo site ou pelos aplicativos da Proton.",
+          "O Proton VPN devolve o dinheiro? Na contratação direta com a Proton, os termos preveem reembolso integral se você cancelar e pedir dentro de 30 dias da compra inicial, uma vez por usuário e com restrições de pagamento. Para Google Play e App Store, siga o percurso específico do capítulo sobre lojas de aplicativos.",
           "Como cancelar o Proton VPN? No site, entre na conta, abra Subscription, vá até Cancel subscription e siga até enviar o motivo. Quem assinou pela Google Play ou pela App Store cancela nas assinaturas da loja.",
           "Cancelei e fui cobrado, o que eu faço? Confira primeiro quem cobrou. Assinatura feita pela loja do celular é cancelada na loja. Se a cobrança veio da Proton depois de um cancelamento concluído, escreva ao suporte com as datas e o comprovante.",
           "Posso pedir reembolso da renovação? A regra dos 30 dias conta da compra inicial, e a renovação fica fora dela. Depois desse prazo, os termos deixam qualquer reembolso a critério da empresa.",
@@ -252513,8 +252625,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Os planos e os preços aparecem na página que o botão abre. Confira o total e a data de renovação antes de pagar.",
-      "label": "Ver os planos do Proton VPN",
+      "text": "Se você ainda está avaliando uma assinatura, abra a oferta da Proton pelo nosso link e confira o total e a renovação. Para cancelar ou pedir o reembolso de uma assinatura que você já tem, use o canal indicado neste guia.",
+      "label": "Ver oferta antes de assinar",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -252562,15 +252674,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "To get your money back from Proton VPN, cancel the subscription and ask support for the refund, both within 30 days of the initial purchase. Under the terms, a refund can be requested once per user and only by people who subscribed directly with Proton. Renewals are left out, and a subscription bought through a phone app store is cancelled in the store."
+          "To request a Proton VPN refund, first check who billed you and the initial purchase date. For direct purchases, cancel and contact support within 30 days, subject to the terms. Google Play and Apple purchases follow the routes below; cancelling a subscription alone does not return the payment."
         ]
       },
       {
         "heading": "Cancelling and asking for a refund are two steps",
         "paragraphs": [
-          "Cancelling turns off future renewals. According to Proton's help center, paid features stay active until the next renewal date and the account then moves to the free plan. Cancelling alone does not return any money.",
+          "For VPN Plus, cancelling turns off future renewals. According to Proton's help center, paid features stay active until the next renewal date and the account then moves to the free plan. Cancelling alone does not return any money.",
           "The refund is a separate request, made to support. Proton's terms of service, last modified on November 5, 2026, say that \"the cancellation and the request for refund must both be addressed within the 30-day period\". Someone who cancels on day 20 and only writes to support on day 35 has missed the window.",
-          "The terms are the same for Proton's other paid plans, such as Mail Plus and Proton Unlimited. What this guide says about the window and the conditions applies to them too."
+          "The general refund window and conditions also appear in the terms for plans such as Mail Plus and Unlimited. Cancellation effects differ: before downgrading another plan, check its requirements and effective date in your dashboard and the terms."
         ],
         "image": {
           "src": "/images/reviews/proton/proton-vpn-reembolso-termos-en.webp",
@@ -252591,7 +252703,7 @@ export const reviewsData: unknown[] = [
           "Pick a reason and click **Submit**. According to the page, the cancellation only takes effect after this last step."
         ],
         "postParagraphs": [
-          "After that, the paid plan stays active until the date it would have renewed. Past that date, the account still exists, on the free plan. Cancelling the subscription does not delete the account. If you change your mind, the dashboard shows a **Reactivate now** button.",
+          "With VPN Plus, the paid plan then stays active until the date it would have renewed. Past that date, the account still exists, on the free plan. Cancelling the subscription does not delete the account. If you change your mind, the dashboard shows a **Reactivate now** button.",
           "The terms say that anyone who cannot reach the dashboard can cancel through Proton's customer support."
         ]
       },
@@ -252651,13 +252763,13 @@ export const reviewsData: unknown[] = [
           "**The account was terminated for violating the terms.** In that case, the terms say all payments and credits are lost."
         ],
         "postParagraphs": [
-          "After the 30 days, the terms say the service is non-refundable and that any refund or credit is \"at the sole discretion of the Company\". You can ask, with no rule on your side."
+          "After 30 days, Proton's commercial policy does not provide an automatic refund; its terms leave any refund or credit to the company's discretion. This describes the commercial guarantee, not any other rights that may apply."
         ]
       },
       {
         "heading": "I subscribed in the app, through Google Play or the App Store",
         "paragraphs": [
-          "A subscription bought inside the phone app is usually billed by the store. For people who paid through Google Play or the App Store, the help center says to cancel in the store itself."
+          "Check your receipt to see who took the payment: Proton, Google Play or Apple. Subscriptions billed by Google Play or the App Store are cancelled in that store; the refund routes are explained below."
         ],
         "bullets": [
           "**Google Play.** Open the Play Store app, tap your profile picture, go to Subscriptions and pick Proton VPN to cancel. For a refund within the 30 days, the help center says to contact Proton support and adds that it may also be possible to ask through Google Play itself.",
@@ -252670,8 +252782,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "How to avoid being caught by the renewal",
         "paragraphs": [
-          "The subscription renews by itself, for the same period. The terms say you are charged \"the then-current price valid at the time of the renewal\", and a promotional price only covers the first period. On Proton's partner page in US dollars, the 2-year VPN Plus plan was billed at $59.76 for the first 24 months and then renewed at $83.88 every 12 months. Prices change with country and currency.",
-          "To stop the renewal, the terms ask you to cancel before the renewal date. There is no need to wait until the day before. Because the paid plan runs until the end of the period already charged, you can cancel right after subscribing and still use everything you paid for.",
+          "The renewal follows the billing cycle shown in the offer and receipt, which may differ from the initial term. The terms say you are charged \"the then-current price valid at the time of the renewal\", and a promotional price only covers the first period. On Proton's partner page in US dollars, the 2-year VPN Plus plan was billed at $59.76 for the first 24 months and then renewed at $83.88 every 12 months. Prices change with country and currency.",
+          "For VPN Plus, to stop the renewal, the terms ask you to cancel before the renewal date. There is no need to wait until the day before. Because the paid plan runs until the end of the period already charged, you can cancel right after subscribing and still use everything you paid for.",
           "Put the next billing date in your calendar, a few days early. If you subscribed through a phone app store, check the date in the store's subscriptions."
         ]
       },
@@ -252691,7 +252803,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Does Proton VPN give your money back? Under the terms, it refunds the full amount if the cancellation and the refund request are both made within 30 days of the initial purchase. It applies once per user and only to people who subscribed on Proton's website or apps.",
+          "Does Proton VPN give your money back? For direct purchases from Proton, the terms provide a full refund if you cancel and request it within 30 days of the initial purchase, once per user and subject to payment restrictions. For Google Play and App Store purchases, follow the route in the app-store section above.",
           "How do I cancel Proton VPN? On the website, sign in, open Subscription, go to Cancel subscription and follow the steps until you submit the reason. If you subscribed through Google Play or the App Store, cancel in the store's subscriptions.",
           "I cancelled and was still charged, what do I do? First check who billed you. A subscription bought through a phone app store is cancelled in the store. If the charge came from Proton after a completed cancellation, write to support with the dates and the receipt.",
           "Can I get a refund for a renewal? The 30-day rule runs from the initial purchase, and a renewal falls outside it. After that window, the terms leave any refund at the company's discretion.",
@@ -252705,8 +252817,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Plans and prices show on the page the button opens. Check the total and the renewal date before paying.",
-      "label": "See Proton VPN plans",
+      "text": "If you are still considering a subscription, open Proton's offer through our link and check the total and renewal. For an existing cancellation or refund request, use the relevant support route in this guide.",
+      "label": "View the offer before subscribing",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -252754,15 +252866,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Para recuperar tu dinero de Proton VPN, cancela la suscripción y pide el reembolso al soporte, las dos cosas dentro de los 30 días posteriores a la compra inicial. Según los términos, el reembolso se puede solicitar una vez por usuario y solo pueden pedirlo quienes se suscribieron directamente con Proton. Las renovaciones quedan fuera, y una suscripción comprada en la tienda de aplicaciones del teléfono se cancela en la propia tienda."
+          "Para pedir un reembolso de Proton VPN, comprueba quién cobró y cuándo hiciste la compra inicial. En compras directas, cancela y escribe al soporte dentro de los 30 días posteriores a la compra, según los términos. Si pagaste por Google Play o Apple, sigue el recorrido específico de abajo; cancelar la suscripción por sí solo no devuelve el dinero."
         ]
       },
       {
         "heading": "Cancelar y pedir el reembolso son dos pasos",
         "paragraphs": [
-          "Cancelar desactiva las renovaciones futuras. Según el centro de ayuda de Proton, las funciones de pago siguen activas hasta la próxima fecha de renovación y después la cuenta pasa al plan gratuito. Cancelar por sí solo no devuelve dinero.",
+          "En VPN Plus, cancelar desactiva las renovaciones futuras. Según el centro de ayuda de Proton, las funciones de pago siguen activas hasta la próxima fecha de renovación y después la cuenta pasa al plan gratuito. Cancelar por sí solo no devuelve dinero.",
           "El reembolso es una solicitud aparte, que se hace al soporte. Los términos de servicio de Proton, modificados por última vez el 5 de noviembre de 2026, dicen que tanto la cancelación como la solicitud de reembolso deben tramitarse dentro del plazo de 30 días. Quien cancela el día 20 y solo escribe al soporte el día 35 ha perdido el plazo.",
-          "Los términos son los mismos para los demás planes de pago de Proton, como Mail Plus y Proton Unlimited. Lo que esta guía dice sobre el plazo y las condiciones también vale para ellos."
+          "El plazo y las condiciones generales de reembolso también figuran en los términos de planes como Mail Plus y Unlimited. Los efectos de cancelar son distintos: antes de pasar otro plan a uno inferior, comprueba sus requisitos y la fecha efectiva en el panel y en los términos."
         ],
         "image": {
           "src": "/images/reviews/proton/proton-vpn-reembolso-termos-en.webp",
@@ -252783,7 +252895,7 @@ export const reviewsData: unknown[] = [
           "Elige un motivo y haz clic en **Submit**. Según la página, la cancelación solo surte efecto después de este último paso."
         ],
         "postParagraphs": [
-          "Después de eso, el plan de pago sigue activo hasta la fecha en que se habría renovado. Pasada esa fecha, la cuenta sigue existiendo, en el plan gratuito. Cancelar la suscripción no elimina la cuenta. Si cambias de opinión, el panel muestra un botón **Reactivate now**.",
+          "En VPN Plus, después de eso, el plan de pago sigue activo hasta la fecha en que se habría renovado. Pasada esa fecha, la cuenta sigue existiendo, en el plan gratuito. Cancelar la suscripción no elimina la cuenta. Si cambias de opinión, el panel muestra un botón **Reactivate now**.",
           "Los términos dicen que quien no pueda acceder al panel puede cancelar a través del servicio de atención al cliente de Proton."
         ]
       },
@@ -252843,13 +252955,13 @@ export const reviewsData: unknown[] = [
           "**Proton cerró la cuenta por infringir los términos.** En ese caso, los términos dicen que se pierden todos los pagos y créditos."
         ],
         "postParagraphs": [
-          "Pasados los 30 días, los términos dicen que el servicio no es reembolsable y que cualquier reembolso o crédito queda a criterio exclusivo de la empresa. Puedes pedirlo, pero sin ninguna regla de tu lado."
+          "Después de 30 días, la política comercial de Proton no prevé un reembolso automático; sus términos dejan cualquier devolución o crédito a criterio de la empresa. Esto describe la garantía comercial, sin determinar otros derechos que puedan aplicarse."
         ]
       },
       {
         "heading": "Me suscribí en la app, a través de Google Play o de la App Store",
         "paragraphs": [
-          "Una suscripción comprada dentro de la app del teléfono suele cobrarla la tienda. Para quienes pagaron a través de Google Play o de la App Store, el centro de ayuda indica cancelar en la propia tienda."
+          "Comprueba en el recibo quién cobró: Proton, Google Play o Apple. Las suscripciones cobradas por Google Play o App Store se cancelan en esa tienda; abajo está el recorrido del reembolso."
         ],
         "bullets": [
           "**Google Play.** Abre la app Play Store, toca tu foto de perfil, entra en Suscripciones y elige Proton VPN para cancelar. Para pedir el reembolso dentro de los 30 días, el centro de ayuda indica contactar con el soporte de Proton y añade que quizá también se pueda pedir a través de la propia Google Play.",
@@ -252862,8 +252974,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cómo evitar que te pille la renovación",
         "paragraphs": [
-          "La suscripción se renueva sola, por el mismo periodo. Los términos dicen que se te cobra el precio vigente en el momento de la renovación, y que un precio promocional solo cubre el primer periodo. En la página de socios de Proton en dólares estadounidenses, el plan VPN Plus de 2 años se cobraba a $59.76 por los primeros 24 meses y después se renovaba a $83.88 cada 12 meses. Los precios cambian según el país y la moneda.",
-          "Para detener la renovación, los términos piden cancelar antes de la fecha de renovación. No hace falta esperar al día anterior. Como el plan de pago dura hasta el final del periodo ya cobrado, puedes cancelar justo después de suscribirte y seguir usando todo lo que pagaste.",
+          "La renovación sigue el ciclo indicado en la oferta y el recibo, que puede ser distinto del periodo inicial. Los términos dicen que se te cobra el precio vigente en el momento de la renovación, y que un precio promocional solo cubre el primer periodo. En la página de socios de Proton en dólares estadounidenses, el plan VPN Plus de 2 años se cobraba a $59.76 por los primeros 24 meses y después se renovaba a $83.88 cada 12 meses. Los precios cambian según el país y la moneda.",
+          "En VPN Plus, para detener la renovación, los términos piden cancelar antes de la fecha de renovación. No hace falta esperar al día anterior. Como el plan de pago dura hasta el final del periodo ya cobrado, puedes cancelar justo después de suscribirte y seguir usando todo lo que pagaste.",
           "Apunta en tu calendario la próxima fecha de cobro, con unos días de margen. Si te suscribiste a través de la tienda de aplicaciones del teléfono, mira la fecha en las suscripciones de la tienda."
         ]
       },
@@ -252883,7 +252995,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Proton VPN devuelve el dinero? Según los términos, reembolsa el importe completo si la cancelación y la solicitud de reembolso se hacen dentro de los 30 días posteriores a la compra inicial. Se aplica una vez por usuario y solo a quienes se suscribieron en el sitio web o en las apps de Proton.",
+          "¿Proton VPN devuelve el dinero? En compras directas a Proton, los términos prevén el reembolso íntegro si cancelas y lo pides dentro de los 30 días posteriores a la compra inicial, una vez por usuario y con restricciones de pago. Para Google Play y App Store, sigue el recorrido específico de ese capítulo.",
           "¿Cómo cancelo Proton VPN? En el sitio web, inicia sesión, abre Subscription, entra en Cancel subscription y sigue los pasos hasta enviar el motivo. Si te suscribiste a través de Google Play o de la App Store, cancela en las suscripciones de la tienda.",
           "Cancelé y aun así me cobraron, ¿qué hago? Primero comprueba quién te cobró. Una suscripción comprada en la tienda de aplicaciones del teléfono se cancela en la tienda. Si el cargo vino de Proton después de una cancelación completada, escribe al soporte con las fechas y el recibo.",
           "¿Puedo pedir el reembolso de una renovación? La regla de 30 días cuenta desde la compra inicial, y una renovación queda fuera. Pasado ese plazo, los términos dejan cualquier reembolso a criterio de la empresa.",
@@ -252897,8 +253009,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Los planes y los precios aparecen en la página que abre el botón. Comprueba el total y la fecha de renovación antes de pagar.",
-      "label": "Ver los planes de Proton VPN",
+      "text": "Si aún valoras suscribirte, abre la oferta de Proton con nuestro enlace y comprueba total y renovación. Para cancelar o pedir el reembolso de una suscripción que ya tienes, usa el canal indicado en esta guía.",
+      "label": "Ver la oferta antes de suscribirte",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -252946,15 +253058,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Pour être remboursé par Proton VPN, résiliez l'abonnement et demandez le remboursement à l'assistance, les deux dans les 30 jours suivant l'achat initial. Selon les conditions, un remboursement ne peut être demandé qu'une fois par utilisateur et uniquement par les personnes abonnées directement chez Proton. Les renouvellements sont exclus, et un abonnement souscrit via la boutique d'applications d'un téléphone se résilie dans cette boutique."
+          "Pour demander un remboursement Proton VPN, vérifiez qui a encaissé le paiement et la date d'achat initial. Pour un achat direct, résiliez et contactez l'assistance sous 30 jours, selon les conditions. Pour Google Play et Apple, suivez les parcours ci-dessous ; la résiliation seule ne rembourse rien."
         ]
       },
       {
         "heading": "Résilier et demander le remboursement sont deux étapes",
         "paragraphs": [
-          "La résiliation coupe les renouvellements à venir. D'après le centre d'aide de Proton, les fonctions payantes restent actives jusqu'à la prochaine date de renouvellement, puis le compte passe à l'offre gratuite. La résiliation seule ne rend aucun argent.",
+          "Pour VPN Plus, la résiliation coupe les renouvellements à venir. D'après le centre d'aide de Proton, les fonctions payantes restent actives jusqu'à la prochaine date de renouvellement, puis le compte passe à l'offre gratuite. La résiliation seule ne rend aucun argent.",
           "Le remboursement est une demande distincte, adressée à l'assistance. Les conditions d'utilisation de Proton, modifiées pour la dernière fois le 5 novembre 2026, précisent que la résiliation et la demande de remboursement doivent toutes deux intervenir dans le délai de 30 jours. Qui résilie le 20e jour et n'écrit à l'assistance que le 35e a manqué le délai.",
-          "Les conditions sont les mêmes pour les autres offres payantes de Proton, comme Mail Plus et Proton Unlimited. Ce que ce guide dit du délai et des conditions vaut aussi pour elles."
+          "Le délai et les conditions générales de remboursement figurent aussi dans les conditions des offres Mail Plus et Unlimited. Les effets d'une résiliation diffèrent : avant de rétrograder une autre offre, vérifiez ses exigences et sa date d'effet dans votre compte et les conditions."
         ],
         "image": {
           "src": "/images/reviews/proton/proton-vpn-reembolso-termos-en.webp",
@@ -252975,7 +253087,7 @@ export const reviewsData: unknown[] = [
           "Choisissez un motif et cliquez sur **Submit**. D'après la page, la résiliation ne prend effet qu'après cette dernière étape."
         ],
         "postParagraphs": [
-          "Ensuite, l'offre payante reste active jusqu'à la date à laquelle elle se serait renouvelée. Passée cette date, le compte existe toujours, sur l'offre gratuite. Résilier l'abonnement ne supprime pas le compte. Si vous changez d'avis, le tableau de bord affiche un bouton **Reactivate now**.",
+          "Avec VPN Plus, l'offre payante reste ensuite active jusqu'à la date à laquelle elle se serait renouvelée. Passée cette date, le compte existe toujours, sur l'offre gratuite. Résilier l'abonnement ne supprime pas le compte. Si vous changez d'avis, le tableau de bord affiche un bouton **Reactivate now**.",
           "Les conditions indiquent que la personne qui n'arrive pas à accéder au tableau de bord peut résilier via l'assistance de Proton."
         ]
       },
@@ -253035,13 +253147,13 @@ export const reviewsData: unknown[] = [
           "**Le compte a été résilié pour violation des conditions.** Dans ce cas, les conditions indiquent que tous les paiements et crédits sont perdus."
         ],
         "postParagraphs": [
-          "Passé les 30 jours, les conditions indiquent que le service n'est pas remboursable et que tout remboursement ou crédit relève de la seule discrétion de l'entreprise. Vous pouvez demander, sans qu'aucune règle joue en votre faveur."
+          "Après 30 jours, la politique commerciale de Proton ne prévoit pas de remboursement automatique ; ses conditions laissent tout remboursement ou crédit à la discrétion de l'entreprise. Cela décrit la garantie commerciale, sans déterminer les autres droits éventuellement applicables."
         ]
       },
       {
         "heading": "Je me suis abonné dans l'application, via Google Play ou l'App Store",
         "paragraphs": [
-          "Un abonnement souscrit dans l'application du téléphone est en général facturé par la boutique. Pour les personnes qui ont payé via Google Play ou l'App Store, le centre d'aide indique de résilier dans la boutique elle-même."
+          "Vérifiez sur le reçu qui a encaissé le paiement : Proton, Google Play ou Apple. Les abonnements facturés par Google Play ou l'App Store se résilient dans cette boutique ; le parcours de remboursement figure ci-dessous."
         ],
         "bullets": [
           "**Google Play.** Ouvrez l'application Play Store, touchez votre photo de profil, allez dans Abonnements et choisissez Proton VPN pour résilier. Pour un remboursement dans les 30 jours, le centre d'aide indique de contacter l'assistance de Proton et ajoute qu'il peut aussi être possible de le demander via Google Play lui-même.",
@@ -253054,8 +253166,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comment éviter d'être pris par le renouvellement",
         "paragraphs": [
-          "L'abonnement se renouvelle tout seul, pour la même durée. Les conditions indiquent que vous êtes facturé au prix en vigueur au moment du renouvellement, et qu'un prix promotionnel ne couvre que la première période. Sur la page partenaires de Proton en dollars américains, l'offre VPN Plus de 2 ans était facturée 59,76 $ pour les 24 premiers mois, puis se renouvelait à 83,88 $ tous les 12 mois. Les prix changent selon le pays et la devise.",
-          "Pour arrêter le renouvellement, les conditions demandent de résilier avant la date de renouvellement. Inutile d'attendre la veille. Comme l'offre payante court jusqu'à la fin de la période déjà facturée, vous pouvez résilier juste après vous être abonné et profiter de tout ce que vous avez payé.",
+          "Le renouvellement suit le cycle indiqué dans l'offre et le reçu, qui peut différer de la période initiale. Les conditions indiquent que vous êtes facturé au prix en vigueur au moment du renouvellement, et qu'un prix promotionnel ne couvre que la première période. Sur la page partenaires de Proton en dollars américains, l'offre VPN Plus de 2 ans était facturée 59,76 $ pour les 24 premiers mois, puis se renouvelait à 83,88 $ tous les 12 mois. Les prix changent selon le pays et la devise.",
+          "Avec VPN Plus, pour arrêter le renouvellement, les conditions demandent de résilier avant la date de renouvellement. Inutile d'attendre la veille. Comme l'offre payante court jusqu'à la fin de la période déjà facturée, vous pouvez résilier juste après vous être abonné et profiter de tout ce que vous avez payé.",
           "Notez la prochaine date de facturation dans votre agenda, quelques jours à l'avance. Si vous vous êtes abonné via la boutique d'applications d'un téléphone, vérifiez la date dans les abonnements de la boutique."
         ]
       },
@@ -253075,7 +253187,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Proton VPN rembourse-t-il ? D'après les conditions, il rembourse la totalité si la résiliation et la demande de remboursement interviennent toutes deux dans les 30 jours suivant l'achat initial. Cela vaut une fois par utilisateur et seulement pour les personnes abonnées sur le site ou les applications de Proton.",
+          "Proton VPN rembourse-t-il ? Pour un achat direct auprès de Proton, les conditions prévoient un remboursement intégral si résiliation et demande interviennent sous 30 jours après l'achat initial, une fois par utilisateur et avec des restrictions de paiement. Pour Google Play et l'App Store, suivez le parcours spécifique du chapitre correspondant.",
           "Comment résilier Proton VPN ? Sur le site, connectez-vous, ouvrez Subscription, allez à Cancel subscription et suivez les étapes jusqu'à l'envoi du motif. Si vous vous êtes abonné via Google Play ou l'App Store, résiliez dans les abonnements de la boutique.",
           "J'ai résilié et j'ai quand même été prélevé, que faire ? Vérifiez d'abord qui vous a facturé. Un abonnement souscrit via la boutique d'applications d'un téléphone se résilie dans la boutique. Si le prélèvement vient de Proton après une résiliation menée à son terme, écrivez à l'assistance en joignant les dates et le reçu.",
           "Puis-je être remboursé d'un renouvellement ? La règle des 30 jours court à partir de l'achat initial, et un renouvellement tombe hors de ce délai. Passé ce délai, les conditions laissent tout remboursement à la discrétion de l'entreprise.",
@@ -253089,8 +253201,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Les offres et les prix s'affichent sur la page qu'ouvre le bouton. Vérifiez le total et la date de renouvellement avant de payer.",
-      "label": "Voir les offres Proton VPN",
+      "text": "Si vous envisagez encore un abonnement, ouvrez l'offre Proton via notre lien et vérifiez le total et le renouvellement. Pour une résiliation ou un remboursement en cours, utilisez le canal indiqué dans ce guide.",
+      "label": "Voir l'offre avant de souscrire",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -253138,15 +253250,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurzantwort",
         "paragraphs": [
-          "Um Ihr Geld von Proton VPN zurückzubekommen, kündigen Sie das Abonnement und beantragen die Rückerstattung beim Support, beides innerhalb von 30 Tagen nach dem ersten Kauf. Nach den Bedingungen kann eine Rückerstattung nur einmal pro Nutzer beantragt werden, und nur von Personen, die direkt bei Proton abonniert haben. Verlängerungen sind ausgeschlossen, und ein Abonnement aus dem App-Store eines Telefons kündigen Sie im Store."
+          "Prüfen Sie für eine Proton-VPN-Erstattung zuerst, wer abgerechnet hat und wann der erste Kauf war. Kündigen Sie bei Direktkäufen und kontaktieren Sie den Support innerhalb von 30 Tagen gemäß den Bedingungen. Für Google Play und Apple gelten die unten erklärten Wege; eine Kündigung allein löst keine Erstattung aus."
         ]
       },
       {
         "heading": "Kündigen und Rückerstattung beantragen sind zwei Schritte",
         "paragraphs": [
-          "Die Kündigung schaltet künftige Verlängerungen ab. Laut dem Hilfe-Center von Proton bleiben die kostenpflichtigen Funktionen bis zum nächsten Verlängerungsdatum aktiv, danach wechselt das Konto in den kostenlosen Tarif. Allein durch die Kündigung fließt kein Geld zurück.",
+          "Für VPN Plus gilt: Die Kündigung schaltet künftige Verlängerungen ab. Laut dem Hilfe-Center von Proton bleiben die kostenpflichtigen Funktionen bis zum nächsten Verlängerungsdatum aktiv, danach wechselt das Konto in den kostenlosen Tarif. Allein durch die Kündigung fließt kein Geld zurück.",
           "Die Rückerstattung ist ein eigener Antrag beim Support. Die Nutzungsbedingungen von Proton, zuletzt am 5. November 2026 geändert, besagen, dass Kündigung und Rückerstattungsantrag beide innerhalb der 30 Tage gestellt werden müssen. Wer am 20. Tag kündigt und erst am 35. Tag an den Support schreibt, hat die Frist verpasst.",
-          "Die Bedingungen sind für die anderen kostenpflichtigen Tarife von Proton gleich, etwa Mail Plus und Proton Unlimited. Was dieser Ratgeber zu Frist und Bedingungen sagt, gilt auch für sie."
+          "Die allgemeine Erstattungsfrist und ihre Voraussetzungen gelten laut den Bedingungen auch für Mail Plus und Unlimited. Die Folgen einer Kündigung unterscheiden sich: Prüfen Sie vor einem Downgrade eines anderen Tarifs dessen Voraussetzungen und Wirksamkeitsdatum im Konto und in den Bedingungen."
         ],
         "image": {
           "src": "/images/reviews/proton/proton-vpn-reembolso-termos-en.webp",
@@ -253167,7 +253279,7 @@ export const reviewsData: unknown[] = [
           "Wählen Sie einen Grund und klicken Sie auf **Submit**. Laut der Seite wird die Kündigung erst nach diesem letzten Schritt wirksam."
         ],
         "postParagraphs": [
-          "Danach bleibt der kostenpflichtige Tarif bis zu dem Datum aktiv, an dem er sich verlängert hätte. Nach diesem Datum besteht das Konto weiter, im kostenlosen Tarif. Die Kündigung des Abonnements löscht das Konto nicht. Wenn Sie es sich anders überlegen, zeigt das Dashboard einen Button **Reactivate now**.",
+          "Für VPN Plus gilt: Danach bleibt der kostenpflichtige Tarif bis zu dem Datum aktiv, an dem er sich verlängert hätte. Nach diesem Datum besteht das Konto weiter, im kostenlosen Tarif. Die Kündigung des Abonnements löscht das Konto nicht. Wenn Sie es sich anders überlegen, zeigt das Dashboard einen Button **Reactivate now**.",
           "Die Bedingungen sagen, dass Personen, die das Dashboard nicht erreichen, über den Kundensupport von Proton kündigen können."
         ]
       },
@@ -253227,13 +253339,13 @@ export const reviewsData: unknown[] = [
           "**Das Konto wurde wegen Verstoßes gegen die Bedingungen geschlossen.** In diesem Fall verfallen laut den Bedingungen alle Zahlungen und Guthaben."
         ],
         "postParagraphs": [
-          "Nach den 30 Tagen ist der Dienst laut den Bedingungen nicht erstattungsfähig, und jede Rückerstattung oder Gutschrift liegt im alleinigen Ermessen des Unternehmens. Sie können fragen, ohne dass eine Regel für Sie spricht."
+          "Nach 30 Tagen sieht Protons Geld-zurück-Regelung keine automatische Erstattung vor; die Bedingungen stellen eine Erstattung oder Gutschrift in das Ermessen des Unternehmens. Das beschreibt die freiwillige Garantie des Anbieters, nicht mögliche weitere Rechte."
         ]
       },
       {
         "heading": "Ich habe in der App abonniert, über Google Play oder den App Store",
         "paragraphs": [
-          "Ein in der Telefon-App abgeschlossenes Abonnement wird in der Regel vom Store abgerechnet. Für Personen, die über Google Play oder den App Store bezahlt haben, sagt das Hilfe-Center, dass im Store selbst gekündigt wird."
+          "Prüfen Sie auf dem Beleg, wer abgerechnet hat: Proton, Google Play oder Apple. Von Google Play oder dem App Store abgerechnete Abonnements kündigen Sie dort; die Erstattungswege stehen unten."
         ],
         "bullets": [
           "**Google Play.** Öffnen Sie die Play-Store-App, tippen Sie auf Ihr Profilbild, gehen Sie zu Abos und wählen Sie Proton VPN, um zu kündigen. Für eine Rückerstattung innerhalb der 30 Tage sagt das Hilfe-Center, dass Sie den Proton-Support kontaktieren sollen, und ergänzt, dass es auch möglich sein kann, sie über Google Play selbst zu beantragen.",
@@ -253246,8 +253358,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "So vermeiden Sie die Verlängerung",
         "paragraphs": [
-          "Das Abonnement verlängert sich von selbst, um denselben Zeitraum. Die Bedingungen sagen, dass Ihnen der zum Zeitpunkt der Verlängerung gültige Preis berechnet wird, und ein Aktionspreis gilt nur für den ersten Zeitraum. Auf Protons Partnerseite in US-Dollar wurde der 2-Jahres-Tarif VPN Plus mit 59,76 $ für die ersten 24 Monate berechnet und verlängerte sich dann zu 83,88 $ alle 12 Monate. Die Preise ändern sich mit Land und Währung.",
-          "Um die Verlängerung zu stoppen, verlangen die Bedingungen die Kündigung vor dem Verlängerungsdatum. Sie müssen nicht bis zum Vortag warten. Weil der kostenpflichtige Tarif bis zum Ende des bereits bezahlten Zeitraums läuft, können Sie gleich nach dem Abschluss kündigen und trotzdem alles nutzen, wofür Sie bezahlt haben.",
+          "Die Verlängerung richtet sich nach dem im Angebot und Beleg genannten Abrechnungszyklus, der von der ersten Laufzeit abweichen kann. Die Bedingungen sagen, dass Ihnen der zum Zeitpunkt der Verlängerung gültige Preis berechnet wird, und ein Aktionspreis gilt nur für den ersten Zeitraum. Auf Protons Partnerseite in US-Dollar wurde der 2-Jahres-Tarif VPN Plus mit 59,76 $ für die ersten 24 Monate berechnet und verlängerte sich dann zu 83,88 $ alle 12 Monate. Die Preise ändern sich mit Land und Währung.",
+          "Für VPN Plus gilt: Um die Verlängerung zu stoppen, verlangen die Bedingungen die Kündigung vor dem Verlängerungsdatum. Sie müssen nicht bis zum Vortag warten. Weil der kostenpflichtige Tarif bis zum Ende des bereits bezahlten Zeitraums läuft, können Sie gleich nach dem Abschluss kündigen und trotzdem alles nutzen, wofür Sie bezahlt haben.",
           "Tragen Sie das nächste Abrechnungsdatum in Ihren Kalender ein, einige Tage früher. Wenn Sie über den App-Store eines Telefons abonniert haben, prüfen Sie das Datum in den Abonnements des Stores."
         ]
       },
@@ -253267,7 +253379,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Zahlt Proton VPN das Geld zurück? Nach den Bedingungen erstattet es den vollen Betrag, wenn Kündigung und Rückerstattungsantrag beide innerhalb von 30 Tagen nach dem ersten Kauf erfolgen. Das gilt einmal pro Nutzer und nur für Personen, die auf der Website oder in den Apps von Proton abonniert haben.",
+          "Erstattet Proton VPN das Geld? Bei Direktkäufen bei Proton sehen die Bedingungen eine vollständige Erstattung vor, wenn Kündigung und Antrag innerhalb von 30 Tagen nach dem ersten Kauf erfolgen, einmal pro Nutzer und mit Einschränkungen bei der Zahlungsart. Für Google Play und App Store folgen Sie dem jeweiligen Weg im entsprechenden Kapitel.",
           "Wie kündige ich Proton VPN? Melden Sie sich auf der Website an, öffnen Sie Subscription, gehen Sie zu Cancel subscription und folgen Sie den Schritten bis zum Absenden des Grundes. Wenn Sie über Google Play oder den App Store abonniert haben, kündigen Sie in den Abonnements des Stores.",
           "Ich habe gekündigt und wurde trotzdem belastet, was tun? Prüfen Sie zuerst, wer Ihnen die Rechnung gestellt hat. Ein Abonnement aus dem App-Store eines Telefons wird im Store gekündigt. Kam die Belastung von Proton nach einer abgeschlossenen Kündigung, schreiben Sie dem Support mit den Daten und dem Beleg.",
           "Bekomme ich eine Rückerstattung für eine Verlängerung? Die 30-Tage-Regel läuft ab dem ersten Kauf, und eine Verlängerung liegt außerhalb davon. Nach diesem Zeitraum überlassen die Bedingungen jede Rückerstattung dem Ermessen des Unternehmens.",
@@ -253281,8 +253393,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Tarife und Preise erscheinen auf der Seite, die der Button öffnet. Prüfen Sie vor der Zahlung den Gesamtbetrag und das Verlängerungsdatum.",
-      "label": "Proton-VPN-Tarife ansehen",
+      "text": "Wenn Sie noch ein Abonnement erwägen, öffnen Sie das Proton-Angebot über unseren Link und prüfen Sie Gesamtbetrag und Verlängerung. Für die Kündigung oder Erstattung eines bestehenden Abonnements nutzen Sie den in diesem Ratgeber genannten Kontaktweg.",
+      "label": "Angebot vor dem Abschluss ansehen",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -253330,15 +253442,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Per riavere i soldi di Proton VPN, disdici l'abbonamento e chiedi il rimborso all'assistenza, entrambe le cose entro 30 giorni dall'acquisto iniziale. Secondo i termini, il rimborso si può chiedere una sola volta per utente e solo se ci si è abbonati direttamente con Proton. I rinnovi restano esclusi, e un abbonamento acquistato nello store del telefono si disdice nello store."
+          "Per chiedere un rimborso Proton VPN, controlla chi ha addebitato il pagamento e la data dell'acquisto iniziale. Per acquisti diretti, disdici e contatta l'assistenza entro 30 giorni, secondo i termini. Google Play e Apple seguono i percorsi spiegati sotto; la sola disdetta non restituisce il pagamento."
         ]
       },
       {
         "heading": "Disdire e chiedere il rimborso sono due passaggi",
         "paragraphs": [
-          "Disdire disattiva i rinnovi futuri. Secondo il centro assistenza di Proton, le funzioni a pagamento restano attive fino alla prossima data di rinnovo e poi l'account passa al piano gratuito. La sola disdetta non restituisce denaro.",
+          "Per VPN Plus, disdire disattiva i rinnovi futuri. Secondo il centro assistenza di Proton, le funzioni a pagamento restano attive fino alla prossima data di rinnovo e poi l'account passa al piano gratuito. La sola disdetta non restituisce denaro.",
           "Il rimborso è una richiesta a parte, rivolta all'assistenza. I termini di servizio di Proton, modificati l'ultima volta il 5 novembre 2026, dicono che sia la disdetta sia la richiesta di rimborso vanno presentate entro il periodo di 30 giorni. Chi disdice al giorno 20 e scrive all'assistenza solo al giorno 35 ha perso la finestra.",
-          "I termini sono gli stessi per gli altri piani a pagamento di Proton, come Mail Plus e Proton Unlimited. Quello che questa guida dice sulla finestra e sulle condizioni vale anche per loro."
+          "La finestra e le condizioni generali del rimborso figurano anche nei termini di piani come Mail Plus e Unlimited. Gli effetti della disdetta cambiano: prima del downgrade di un altro piano, controlla requisiti e data effettiva nel pannello e nei termini."
         ],
         "image": {
           "src": "/images/reviews/proton/proton-vpn-reembolso-termos-en.webp",
@@ -253359,7 +253471,7 @@ export const reviewsData: unknown[] = [
           "Scegli un motivo e clicca **Submit**. Secondo la pagina, la disdetta ha effetto solo dopo quest'ultimo passaggio."
         ],
         "postParagraphs": [
-          "Dopo di che, il piano a pagamento resta attivo fino alla data in cui si sarebbe rinnovato. Superata quella data, l'account esiste ancora, sul piano gratuito. Disdire l'abbonamento non elimina l'account. Se cambi idea, il pannello mostra un pulsante **Reactivate now**.",
+          "Con VPN Plus, il piano a pagamento resta poi attivo fino alla data in cui si sarebbe rinnovato. Superata quella data, l'account esiste ancora, sul piano gratuito. Disdire l'abbonamento non elimina l'account. Se cambi idea, il pannello mostra un pulsante **Reactivate now**.",
           "I termini dicono che chi non riesce ad accedere al pannello può disdire tramite l'assistenza clienti di Proton."
         ]
       },
@@ -253419,13 +253531,13 @@ export const reviewsData: unknown[] = [
           "**L'account è stato chiuso per violazione dei termini.** In quel caso, i termini dicono che tutti i pagamenti e i crediti vengono persi."
         ],
         "postParagraphs": [
-          "Dopo i 30 giorni, i termini dicono che il servizio non è rimborsabile e che qualsiasi rimborso o credito è a discrezione esclusiva dell'azienda. Puoi chiedere, ma senza alcuna regola dalla tua parte."
+          "Dopo 30 giorni, la politica commerciale di Proton non prevede un rimborso automatico; i termini lasciano eventuali rimborsi o crediti alla discrezione dell'azienda. Questo descrive la garanzia commerciale, senza determinare altri diritti applicabili."
         ]
       },
       {
         "heading": "Mi sono abbonato nell'app, tramite Google Play o App Store",
         "paragraphs": [
-          "Un abbonamento acquistato dentro l'app del telefono di solito viene addebitato dallo store. Per chi ha pagato tramite Google Play o App Store, il centro assistenza indica di disdire nello store stesso."
+          "Controlla nella ricevuta chi ha addebitato il pagamento: Proton, Google Play o Apple. Gli abbonamenti addebitati da Google Play o App Store si disdicono in quello store; sotto trovi i percorsi per il rimborso."
         ],
         "bullets": [
           "**Google Play.** Apri l'app Play Store, tocca la tua immagine del profilo, vai su Abbonamenti e scegli Proton VPN per disdire. Per il rimborso entro i 30 giorni, il centro assistenza indica di contattare l'assistenza Proton e aggiunge che forse si può chiedere anche tramite la stessa Google Play.",
@@ -253438,8 +253550,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Come evitare di farsi sorprendere dal rinnovo",
         "paragraphs": [
-          "L'abbonamento si rinnova da solo, per lo stesso periodo. I termini dicono che ti viene addebitato il prezzo in vigore al momento del rinnovo, e che un prezzo promozionale copre solo il primo periodo. Nella pagina partner di Proton in dollari statunitensi, il piano VPN Plus da 2 anni veniva addebitato a $59.76 per i primi 24 mesi e poi si rinnovava a $83.88 ogni 12 mesi. I prezzi cambiano con il paese e la valuta.",
-          "Per fermare il rinnovo, i termini chiedono di disdire prima della data di rinnovo. Non serve aspettare il giorno prima. Poiché il piano a pagamento dura fino alla fine del periodo già addebitato, puoi disdire subito dopo l'abbonamento e usare comunque tutto ciò che hai pagato.",
+          "Il rinnovo segue il ciclo indicato nell'offerta e nella ricevuta, che può essere diverso dal periodo iniziale. I termini dicono che ti viene addebitato il prezzo in vigore al momento del rinnovo, e che un prezzo promozionale copre solo il primo periodo. Nella pagina partner di Proton in dollari statunitensi, il piano VPN Plus da 2 anni veniva addebitato a $59.76 per i primi 24 mesi e poi si rinnovava a $83.88 ogni 12 mesi. I prezzi cambiano con il paese e la valuta.",
+          "Con VPN Plus, per fermare il rinnovo, i termini chiedono di disdire prima della data di rinnovo. Non serve aspettare il giorno prima. Poiché il piano a pagamento dura fino alla fine del periodo già addebitato, puoi disdire subito dopo l'abbonamento e usare comunque tutto ciò che hai pagato.",
           "Segna sul calendario la prossima data di addebito, con qualche giorno di anticipo. Se ti sei abbonato tramite lo store del telefono, controlla la data negli abbonamenti dello store."
         ]
       },
@@ -253459,7 +253571,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Proton VPN restituisce i soldi? Secondo i termini, rimborsa l'intero importo se la disdetta e la richiesta di rimborso sono entrambe fatte entro 30 giorni dall'acquisto iniziale. Vale una sola volta per utente e solo per chi si è abbonato sul sito o nelle app di Proton.",
+          "Proton VPN restituisce i soldi? Per acquisti diretti da Proton, i termini prevedono il rimborso integrale se disdetta e richiesta avvengono entro 30 giorni dall'acquisto iniziale, una volta per utente e con restrizioni sui pagamenti. Per Google Play e App Store, segui il percorso specifico nel capitolo corrispondente.",
           "Come disdico Proton VPN? Sul sito, accedi, apri Subscription, vai su Cancel subscription e segui i passaggi fino a inviare il motivo. Se ti sei abbonato tramite Google Play o App Store, disdici negli abbonamenti dello store.",
           "Ho disdetto e mi hanno addebitato comunque, cosa faccio? Controlla prima chi ha effettuato l'addebito. Un abbonamento acquistato nello store del telefono si disdice nello store. Se l'addebito è arrivato da Proton dopo una disdetta completata, scrivi all'assistenza con le date e la ricevuta.",
           "Posso ottenere il rimborso di un rinnovo? La regola dei 30 giorni parte dall'acquisto iniziale, e un rinnovo ne resta fuori. Dopo quella finestra, i termini lasciano qualsiasi rimborso alla discrezione dell'azienda.",
@@ -253473,8 +253585,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "I piani e i prezzi compaiono nella pagina che apre il pulsante. Controlla il totale e la data di rinnovo prima di pagare.",
-      "label": "Vedi i piani di Proton VPN",
+      "text": "Se stai ancora valutando un abbonamento, apri l'offerta Proton dal nostro link e controlla totale e rinnovo. Per una disdetta o un rimborso in corso, usa il canale indicato in questa guida.",
+      "label": "Vedi l'offerta prima di abbonarti",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -253522,15 +253634,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "Proton VPN에서 환불을 받으려면 최초 구매 후 30일 이내에 구독을 해지하고 지원팀에 환불을 신청해야 합니다. 약관에 따르면 환불은 사용자당 한 번만 신청할 수 있고, Proton에 직접 가입한 사람만 대상입니다. 갱신 결제는 제외되며, 휴대폰 앱 스토어로 가입했다면 해당 스토어에서 해지합니다."
+          "Proton VPN 환불을 요청하기 전에 결제한 곳과 최초 구매 날짜를 확인하세요. Proton에 직접 결제했다면 약관 조건에 따라 30일 안에 해지하고 지원팀에 환불을 신청해야 합니다. Google Play나 Apple 결제는 아래의 별도 절차를 따르며 해지만으로는 결제 금액이 돌아오지 않습니다."
         ]
       },
       {
         "heading": "해지와 환불 신청은 별개의 두 단계입니다",
         "paragraphs": [
-          "해지하면 앞으로의 갱신이 멈춥니다. Proton 고객센터에 따르면 유료 기능은 다음 갱신일까지 유지되고, 그 뒤 계정은 무료 플랜으로 전환됩니다. 해지만으로는 돈이 돌아오지 않습니다.",
+          "VPN Plus의 경우: 해지하면 앞으로의 갱신이 멈춥니다. Proton 고객센터에 따르면 유료 기능은 다음 갱신일까지 유지되고, 그 뒤 계정은 무료 플랜으로 전환됩니다. 해지만으로는 돈이 돌아오지 않습니다.",
           "환불은 지원팀에 따로 하는 요청입니다. 2026년 11월 5일에 마지막으로 수정된 Proton 이용 약관에는 해지와 환불 요청을 모두 30일 기간 안에 해야 한다고 되어 있습니다. 20일째에 해지하고 35일째에야 지원팀에 연락하면 기한을 놓친 것입니다.",
-          "이 약관은 Mail Plus, Proton Unlimited 같은 Proton의 다른 유료 플랜에도 똑같이 적용됩니다. 이 가이드에서 설명하는 기한과 조건도 그 플랜들에 해당합니다."
+          "Mail Plus와 Unlimited 약관에도 일반 환불 기한과 조건이 있지만 해지 효과는 플랜마다 다릅니다. 다른 플랜을 다운그레이드하기 전에 계정 화면과 약관에서 요구 사항과 적용 날짜를 확인하세요."
         ],
         "image": {
           "src": "/images/reviews/proton/proton-vpn-reembolso-termos-en.webp",
@@ -253551,7 +253663,7 @@ export const reviewsData: unknown[] = [
           "사유를 고르고 **Submit**을 클릭합니다. 페이지에 따르면 해지는 이 마지막 단계를 마친 뒤에야 적용됩니다."
         ],
         "postParagraphs": [
-          "그 뒤에도 유료 플랜은 갱신되었을 날짜까지 유지됩니다. 그 날짜가 지나도 계정은 남아 있고 무료 플랜으로 바뀝니다. 구독을 해지해도 계정이 삭제되지는 않습니다. 마음이 바뀌면 대시보드에 **Reactivate now** 버튼이 표시됩니다.",
+          "VPN Plus의 경우: 그 뒤에도 유료 플랜은 갱신되었을 날짜까지 유지됩니다. 그 날짜가 지나도 계정은 남아 있고 무료 플랜으로 바뀝니다. 구독을 해지해도 계정이 삭제되지는 않습니다. 마음이 바뀌면 대시보드에 **Reactivate now** 버튼이 표시됩니다.",
           "약관에 따르면 대시보드에 접속할 수 없는 사람은 Proton 고객 지원을 통해 해지할 수 있습니다."
         ]
       },
@@ -253611,13 +253723,13 @@ export const reviewsData: unknown[] = [
           "**약관 위반으로 계정이 종료되었습니다.** 이 경우 약관에 따르면 모든 결제 금액과 크레딧을 잃습니다."
         ],
         "postParagraphs": [
-          "약관에 따르면 30일이 지난 뒤에는 서비스가 환불되지 않으며, 환불이나 크레딧은 모두 회사의 단독 재량에 달려 있습니다. 요청은 해 볼 수 있지만, 내세울 규정은 없습니다."
+          "30일이 지나면 Proton의 상업적 보증에 따른 자동 환불은 없으며 환불이나 크레딧은 약관상 회사 재량입니다. 이는 상업적 보증에 대한 설명이며 적용될 수 있는 다른 권리를 판단한 것은 아닙니다."
         ]
       },
       {
         "heading": "앱에서 Google Play 또는 App Store로 가입한 경우",
         "paragraphs": [
-          "휴대폰 앱 안에서 산 구독은 보통 스토어가 결제를 처리합니다. Google Play나 App Store로 결제한 사람은 스토어에서 직접 해지하라고 고객센터가 안내합니다."
+          "영수증에서 결제를 처리한 곳이 Proton, Google Play, Apple 중 어디인지 확인하세요. Google Play나 App Store를 통해 결제된 구독은 해당 스토어에서 해지하며 환불 경로는 아래와 같습니다."
         ],
         "bullets": [
           "**Google Play.** Play 스토어 앱을 열고 프로필 사진을 누른 뒤 정기 결제로 가서 Proton VPN을 골라 해지합니다. 30일 이내 환불은 Proton 지원팀에 문의하라고 고객센터가 안내하며, Google Play 자체에서도 요청이 가능할 수 있다고 덧붙입니다.",
@@ -253630,8 +253742,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "갱신 결제를 피하는 방법",
         "paragraphs": [
-          "구독은 같은 기간으로 저절로 갱신됩니다. 약관에는 갱신 시점에 유효한 당시 가격이 청구된다고 되어 있고, 프로모션 가격은 첫 기간에만 적용됩니다. 미국 달러로 표시된 Proton 파트너 페이지에서 2년 VPN Plus 플랜은 처음 24개월분으로 $59.76이 청구되었고, 그 뒤로는 12개월마다 $83.88에 갱신되었습니다. 가격은 국가와 통화에 따라 달라집니다.",
-          "갱신을 막으려면 약관에 따라 갱신일 전에 해지해야 합니다. 전날까지 기다릴 필요는 없습니다. 유료 플랜은 이미 결제한 기간이 끝날 때까지 이어지므로, 가입 직후에 해지해도 낸 만큼은 모두 쓸 수 있습니다.",
+          "갱신 주기는 할인 안내와 영수증에 표시된 내용을 따르며 최초 계약 기간과 다를 수 있습니다. 약관에는 갱신 시점에 유효한 당시 가격이 청구된다고 되어 있고, 프로모션 가격은 첫 기간에만 적용됩니다. 미국 달러로 표시된 Proton 파트너 페이지에서 2년 VPN Plus 플랜은 처음 24개월분으로 $59.76이 청구되었고, 그 뒤로는 12개월마다 $83.88에 갱신되었습니다. 가격은 국가와 통화에 따라 달라집니다.",
+          "VPN Plus의 경우: 갱신을 막으려면 약관에 따라 갱신일 전에 해지해야 합니다. 전날까지 기다릴 필요는 없습니다. 유료 플랜은 이미 결제한 기간이 끝날 때까지 이어지므로, 가입 직후에 해지해도 낸 만큼은 모두 쓸 수 있습니다.",
           "다음 결제일을 며칠 앞서 달력에 적어 두세요. 휴대폰 앱 스토어로 가입했다면 스토어의 구독 내역에서 날짜를 확인하세요."
         ]
       },
@@ -253651,7 +253763,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "Proton VPN은 환불해 주나요? 약관에 따르면 최초 구매 후 30일 이내에 해지와 환불 요청을 모두 하면 전액을 환불합니다. 사용자당 한 번만 적용되고, Proton의 웹사이트나 앱으로 가입한 사람만 대상입니다.",
+          "Proton VPN은 돈을 돌려주나요? Proton에 직접 결제한 경우 약관은 최초 구매 후 30일 이내 해지와 환불 신청에 대해 사용자당 한 번, 결제 수단 제한 조건으로 전액 환불을 규정합니다. Google Play와 App Store 결제는 해당 장의 별도 절차를 따르세요.",
           "Proton VPN은 어떻게 해지하나요? 웹사이트에 로그인해 Subscription을 열고 Cancel subscription으로 간 뒤, 사유를 제출할 때까지 단계를 따라가면 됩니다. Google Play나 App Store로 가입했다면 스토어의 구독 내역에서 해지합니다.",
           "해지했는데도 결제되었어요. 어떻게 하나요? 먼저 누가 결제를 처리했는지 확인하세요. 휴대폰 앱 스토어로 산 구독은 스토어에서 해지합니다. 해지를 마쳤는데도 Proton에서 결제되었다면 날짜와 영수증을 첨부해 지원팀에 문의하세요.",
           "갱신 결제도 환불받을 수 있나요? 30일 규정은 최초 구매일부터 계산되므로 갱신은 기간 밖입니다. 그 기간이 지나면 약관상 환불은 회사의 재량에 달려 있습니다.",
@@ -253665,8 +253777,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "플랜과 가격은 버튼이 여는 페이지에 표시됩니다. 결제하기 전에 총액과 갱신일을 확인하세요.",
-      "label": "Proton VPN 플랜 보기",
+      "text": "아직 구독을 검토 중이라면 저희 링크로 Proton 할인 페이지를 열고 총액과 갱신 요금을 확인하세요. 기존 구독의 해지나 환불은 이 가이드에서 안내하는 해당 창구를 이용하세요.",
+      "label": "구독 전 할인 확인하기",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -253714,15 +253826,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "Proton VPNで返金を受けるには、最初の購入から30日以内にサブスクリプションを解約し、サポートへ返金を申請します。利用規約によると、返金を申請できるのは1ユーザーにつき1回で、Protonに直接申し込んだ人だけです。更新時の請求は対象外で、スマートフォンのアプリストア経由で購入した場合は、そのストアで解約します。"
+          "Proton VPNの返金を求める前に、請求元と最初の購入日を確認してください。Protonとの直接契約では、規約の条件に従い30日以内に解約してサポートへ申請します。Google PlayやApple経由の場合は下記の手順を使い、解約だけでは返金されない点に注意してください。"
         ]
       },
       {
         "heading": "解約と返金申請は別の手続きです",
         "paragraphs": [
-          "解約すると、今後の自動更新が止まります。Protonのヘルプセンターによると、有料機能は次の更新日まで使え、その後アカウントは無料プランに移ります。解約しただけでは、お金は戻りません。",
+          "VPN Plusの場合：解約すると、今後の自動更新が止まります。Protonのヘルプセンターによると、有料機能は次の更新日まで使え、その後アカウントは無料プランに移ります。解約しただけでは、お金は戻りません。",
           "返金はサポートへの別の申請です。2026年11月5日に最終更新されたProtonの利用規約では、解約と返金の申請の両方を30日の期間内に行う必要があるとされています。20日目に解約しても、サポートへ連絡したのが35日目なら、期限に間に合いません。",
-          "この規約は、Mail PlusやProton Unlimitedなど、Protonのほかの有料プランでも同じです。このガイドで説明する期限と条件は、それらにも当てはまります。"
+          "返金の基本的な期限と条件はMail PlusやUnlimitedの規約にもありますが、解約の効果はプランによって異なります。他のプランをダウングレードする前に、必要条件と適用日を管理画面と規約で確認してください。"
         ],
         "image": {
           "src": "/images/reviews/proton/proton-vpn-reembolso-termos-en.webp",
@@ -253743,7 +253855,7 @@ export const reviewsData: unknown[] = [
           "理由を選んで**Submit**をクリックします。ページによると、解約はこの最後の手順の後で初めて有効になります。"
         ],
         "postParagraphs": [
-          "その後も、有料プランは更新されるはずだった日まで有効です。その日を過ぎてもアカウントは残り、無料プランになります。サブスクリプションを解約しても、アカウントは削除されません。考えが変わった場合は、ダッシュボードに**Reactivate now**ボタンが表示されます。",
+          "VPN Plusの場合：その後も、有料プランは更新されるはずだった日まで有効です。その日を過ぎてもアカウントは残り、無料プランになります。サブスクリプションを解約しても、アカウントは削除されません。考えが変わった場合は、ダッシュボードに**Reactivate now**ボタンが表示されます。",
           "利用規約によると、ダッシュボードにアクセスできない人は、Protonのカスタマーサポートを通じて解約できます。"
         ]
       },
@@ -253803,13 +253915,13 @@ export const reviewsData: unknown[] = [
           "**規約違反でアカウントが終了された。** この場合、規約では、すべての支払いとクレジットが失われるとされています。"
         ],
         "postParagraphs": [
-          "30日を過ぎると、規約では、サービスは返金不可で、返金やクレジットはすべて会社の裁量によるとされています。依頼することはできますが、頼れる決まりはありません。"
+          "30日を過ぎると、Protonの返金保証の対象外となり、返金やクレジットは規約上、会社の裁量となります。これは同社の返金保証についての説明であり、適用され得る他の権利を判断するものではありません。"
         ]
       },
       {
         "heading": "アプリ（Google PlayまたはApp Store）で申し込んだ場合",
         "paragraphs": [
-          "スマートフォンのアプリ内で購入したサブスクリプションは、通常ストアが請求します。Google PlayやApp Storeで支払った人は、ストア自体で解約するようヘルプセンターに書かれています。"
+          "領収書で請求元がProton、Google Play、Appleのどれかを確認してください。Google PlayやApp Storeが請求した契約は、そのストアで解約します。返金の窓口は以下のとおりです。"
         ],
         "bullets": [
           "**Google Play。** Playストアアプリを開いてプロフィール写真をタップし、定期購入からProton VPNを選んで解約します。30日以内の返金については、ヘルプセンターはProtonサポートへの連絡を案内し、Google Play自体から申請できる場合もあると補足しています。",
@@ -253822,8 +253934,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "更新で課金されないようにするには",
         "paragraphs": [
-          "サブスクリプションは、同じ期間で自動的に更新されます。規約には、更新時に有効な、その時点の価格が請求されると書かれていて、キャンペーン価格が適用されるのは最初の期間だけです。米ドル表示のProtonパートナーページでは、2年のVPN Plusプランは最初の24か月分として$59.76が請求され、その後は12か月ごとに$83.88で更新されていました。価格は国や通貨によって変わります。",
-          "更新を止めるには、規約により、更新日の前に解約する必要があります。前日まで待つ必要はありません。有料プランは請求済みの期間の終わりまで続くため、申し込んですぐに解約しても、支払った分はすべて使えます。",
+          "更新周期はオファーと領収書の記載に従い、最初の契約期間と異なる場合があります。規約には、更新時に有効な、その時点の価格が請求されると書かれていて、キャンペーン価格が適用されるのは最初の期間だけです。米ドル表示のProtonパートナーページでは、2年のVPN Plusプランは最初の24か月分として$59.76が請求され、その後は12か月ごとに$83.88で更新されていました。価格は国や通貨によって変わります。",
+          "VPN Plusの場合：更新を止めるには、規約により、更新日の前に解約する必要があります。前日まで待つ必要はありません。有料プランは請求済みの期間の終わりまで続くため、申し込んですぐに解約しても、支払った分はすべて使えます。",
           "次の請求日は、数日前にカレンダーへ入れておきましょう。スマートフォンのアプリストアで申し込んだ場合は、ストアの定期購入で日付を確認してください。"
         ]
       },
@@ -253843,7 +253955,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "Proton VPNは返金してくれますか？ 規約によると、最初の購入から30日以内に解約と返金の申請の両方を行えば、全額が返金されます。対象は1ユーザーにつき1回で、Protonのウェブサイトやアプリで申し込んだ人だけです。",
+          "Proton VPNは返金しますか？ Protonとの直接契約では、最初の購入から30日以内の解約と申請について、利用者一人につき一度、支払い方法の制限付きで全額返金を規約に定めています。Google PlayとApp Storeの場合は、該当する章の手順に従ってください。",
           "Proton VPNはどうやって解約しますか？ ウェブサイトでサインインし、Subscriptionを開いてCancel subscriptionへ進み、理由を送信するまで手順を進めます。Google PlayやApp Storeで申し込んだ場合は、ストアの定期購入で解約します。",
           "解約したのに請求されました。どうすればいいですか？ まず、誰が請求したかを確認してください。スマートフォンのアプリストアで購入した場合は、ストアで解約します。解約を終えたのにProtonから請求された場合は、日付と領収書を添えてサポートに連絡しましょう。",
           "更新時の請求は返金してもらえますか？ 30日ルールは最初の購入から数えるため、更新は対象外です。この期間を過ぎると、規約では、返金は会社の裁量に委ねられます。",
@@ -253857,8 +253969,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "プランと価格は、ボタンで開くページに表示されます。支払う前に、合計額と更新日を確認してください。",
-      "label": "Proton VPNのプランを見る",
+      "text": "これから契約を検討する方は、当サイトのリンクからProtonのオファーを開き、合計額と更新料を確認してください。契約済みの解約や返金は、このガイドの該当窓口で手続きします。",
+      "label": "契約前にオファーを確認する",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -253906,15 +254018,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "想從 Proton VPN 取回款項，必須在首次購買後 30 天內取消訂閱，並向客服申請退款。依條款，每位用戶只能申請一次退款，而且只適用於直接向 Proton 訂閱的人。續訂不在退款範圍內；透過手機應用程式商店購買的訂閱，則要在商店裡取消。"
+          "申請 Proton VPN 退款前，請先確認收款方和首次購買日期。直接向 Proton 購買時，須依條款條件在 30 天內取消並向客服申請退款。Google Play 或 Apple 付款請走下文的專門流程；只取消訂閱不會退回款項。"
         ]
       },
       {
         "heading": "取消和申請退款是兩個步驟",
         "paragraphs": [
-          "取消的作用是停止未來的續訂。依 Proton 說明中心所述，付費功能會維持到下一個續訂日，之後帳戶會轉為免費方案。光是取消，並不會退任何款項。",
+          "以下適用於 VPN Plus：取消的作用是停止未來的續訂。依 Proton 說明中心所述，付費功能會維持到下一個續訂日，之後帳戶會轉為免費方案。光是取消，並不會退任何款項。",
           "退款是另一項申請，要向客服提出。Proton 的服務條款最後修改於 2026 年 11 月 5 日，條款寫明取消和退款申請都必須在這 30 天內辦理。如果你在第 20 天取消，卻在第 35 天才寫信給客服，就已經錯過期限。",
-          "Proton 其他付費方案（例如 Mail Plus 和 Proton Unlimited）適用相同的條款。本指南所說的期限和條件，對它們同樣適用。"
+          "Mail Plus 和 Unlimited 的條款也有一般退款期限和條件，但取消的效果依方案而異。降級其他方案前，請在帳戶頁面和條款中確認要求與生效日期。"
         ],
         "image": {
           "src": "/images/reviews/proton/proton-vpn-reembolso-termos-en.webp",
@@ -253935,7 +254047,7 @@ export const reviewsData: unknown[] = [
           "選擇原因並點選 **Submit**。依該頁面所述，取消要在最後這一步之後才會生效。"
         ],
         "postParagraphs": [
-          "完成後，付費方案會維持到原本的續訂日。過了那一天，帳戶仍然存在，只是轉為免費方案。取消訂閱不會刪除帳戶。如果你改變主意，儀表板上會有 **Reactivate now** 按鈕。",
+          "以下適用於 VPN Plus：完成後，付費方案會維持到原本的續訂日。過了那一天，帳戶仍然存在，只是轉為免費方案。取消訂閱不會刪除帳戶。如果你改變主意，儀表板上會有 **Reactivate now** 按鈕。",
           "條款說明，無法進入儀表板的人，可以透過 Proton 的客戶支援取消。"
         ]
       },
@@ -253995,13 +254107,13 @@ export const reviewsData: unknown[] = [
           "**帳戶因違反條款而被終止。** 這種情況下，條款說明所有付款和餘額都會失效。"
         ],
         "postParagraphs": [
-          "超過 30 天之後，條款說明服務不予退款，任何退款或抵免都由公司自行決定。你還是可以提出申請，只是沒有任何規則站在你這一邊。"
+          "超過 30 天後，Proton 的商業保證不提供自動退款；依條款，退款或抵免由公司酌情決定。這是在說明商業保證，而非判斷可能適用的其他權利。"
         ]
       },
       {
         "heading": "我是在應用程式裡訂閱，透過 Google Play 或 App Store",
         "paragraphs": [
-          "在手機應用程式內購買的訂閱，通常由商店計費。對於透過 Google Play 或 App Store 付款的人，說明中心表示要在商店本身取消。"
+          "請查看收據，確認收款方是 Proton、Google Play 還是 Apple。由 Google Play 或 App Store 收款的訂閱須在對應商店取消；退款流程如下。"
         ],
         "bullets": [
           "**Google Play。** 開啟 Play 商店應用程式，點選你的大頭貼，進入「訂閱」，選擇 Proton VPN 取消。若要在 30 天內退款，說明中心表示要聯絡 Proton 客服，並補充說也可能可以透過 Google Play 本身申請。",
@@ -254014,8 +254126,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "如何避免被續訂扣款",
         "paragraphs": [
-          "訂閱會以相同的期間自動續訂。條款說明，你會按續訂當下有效的價格被收費，而促銷價只涵蓋第一個期間。在 Proton 以美元計價的合作夥伴頁面上，2 年 VPN Plus 方案前 24 個月收費 59.76 美元，之後每 12 個月以 83.88 美元續訂。價格會隨國家和幣別而變。",
-          "要停止續訂，條款要求你在續訂日之前取消。不必等到前一天。因為付費方案會持續到已付款期間結束，你可以訂閱後立刻取消，仍然能用完你付費的所有內容。",
+          "續訂週期以優惠說明和收據為準，可能與最初的合約期間不同。條款說明，你會按續訂當下有效的價格被收費，而促銷價只涵蓋第一個期間。在 Proton 以美元計價的合作夥伴頁面上，2 年 VPN Plus 方案前 24 個月收費 59.76 美元，之後每 12 個月以 83.88 美元續訂。價格會隨國家和幣別而變。",
+          "以下適用於 VPN Plus：要停止續訂，條款要求你在續訂日之前取消。不必等到前一天。因為付費方案會持續到已付款期間結束，你可以訂閱後立刻取消，仍然能用完你付費的所有內容。",
           "把下一個扣款日記在行事曆上，並提前幾天提醒自己。如果你是透過手機應用程式商店訂閱，請在商店的訂閱頁面查看日期。"
         ]
       },
@@ -254035,7 +254147,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "Proton VPN 會退款嗎？依條款，只要在首次購買後 30 天內完成取消並提出退款申請，就會全額退款。每位用戶限一次，且只適用於在 Proton 網站或應用程式訂閱的人。",
+          "Proton VPN 會退款嗎？直接向 Proton 購買時，條款規定首次購買後 30 天內取消並申請可獲全額退款，每位用戶限一次，並受付款方式限制。Google Play 和 App Store 付款請依對應章節的專門流程辦理。",
           "如何取消 Proton VPN？在網站上登入，開啟 Subscription，進入 Cancel subscription，依步驟完成到提交原因為止。如果你是透過 Google Play 或 App Store 訂閱，請在商店的訂閱頁面取消。",
           "我已經取消卻還是被扣款，該怎麼辦？先確認是誰向你收款。透過手機應用程式商店購買的訂閱，要在商店取消。如果在完成取消之後，款項仍來自 Proton，請附上日期和收據寫信給客服。",
           "續訂的費用可以退款嗎？30 天規則從首次購買起算，續訂不在其內。超過這段期限後，條款說明任何退款都由公司自行決定。",
@@ -254049,8 +254161,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "方案和價格顯示在按鈕開啟的頁面上。付款前請確認總額和續訂日期。",
-      "label": "查看 Proton VPN 方案",
+      "text": "如果你還在考慮訂閱，請透過我們的連結開啟 Proton 優惠，確認總額和續訂費用。已有訂閱的取消或退款，請使用本指南所列的對應管道。",
+      "label": "訂閱前查看優惠",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -254098,15 +254210,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "想从 Proton VPN 取回款项，必须在首次购买后 30 天内取消订阅，并向客服申请退款。按条款，每位用户只能申请一次退款，而且只适用于直接向 Proton 订阅的人。续订不在退款范围内；通过手机应用商店购买的订阅，则要在应用商店里取消。"
+          "申请 Proton VPN 退款前，请先确认收款方和首次购买日期。直接向 Proton 购买时，须按条款条件在 30 天内取消并向客服申请退款。Google Play 或 Apple 付款请走下文的专门流程；只取消订阅不会退回款项。"
         ]
       },
       {
         "heading": "取消和申请退款是两个步骤",
         "paragraphs": [
-          "取消的作用是停止以后的续订。按 Proton 帮助中心的说法，付费功能会保持到下一个续订日，之后账户会转为免费套餐。光是取消，并不会退任何款项。",
+          "以下适用于 VPN Plus：取消的作用是停止以后的续订。按 Proton 帮助中心的说法，付费功能会保持到下一个续订日，之后账户会转为免费套餐。光是取消，并不会退任何款项。",
           "退款是另一项申请，要向客服提出。Proton 的服务条款最后修改于 2026 年 11 月 5 日，条款写明取消和退款申请都必须在这 30 天内办理。如果你在第 20 天取消，却在第 35 天才给客服写信，就已经错过期限。",
-          "Proton 其他付费套餐（例如 Mail Plus 和 Proton Unlimited）适用相同的条款。本指南所说的期限和条件，对它们同样适用。"
+          "Mail Plus 和 Unlimited 的条款也有一般退款期限和条件，但取消的效果因套餐而异。降级其他套餐前，请在账户页面和条款中确认要求与生效日期。"
         ],
         "image": {
           "src": "/images/reviews/proton/proton-vpn-reembolso-termos-en.webp",
@@ -254127,7 +254239,7 @@ export const reviewsData: unknown[] = [
           "选择原因并点击 **Submit**。按该页面所述，取消要在最后这一步之后才会生效。"
         ],
         "postParagraphs": [
-          "完成后，付费套餐会保持到原本的续订日。过了那一天，账户仍然存在，只是转为免费套餐。取消订阅不会删除账户。如果你改变主意，仪表板上会有 **Reactivate now** 按钮。",
+          "以下适用于 VPN Plus：完成后，付费套餐会保持到原本的续订日。过了那一天，账户仍然存在，只是转为免费套餐。取消订阅不会删除账户。如果你改变主意，仪表板上会有 **Reactivate now** 按钮。",
           "条款说明，无法进入仪表板的人，可以通过 Proton 的客户支持取消。"
         ]
       },
@@ -254187,13 +254299,13 @@ export const reviewsData: unknown[] = [
           "**账户因违反条款而被终止。** 这种情况下，条款说明所有付款和余额都会作废。"
         ],
         "postParagraphs": [
-          "超过 30 天之后，条款说明服务不予退款，任何退款或抵扣都由公司自行决定。你仍然可以提出申请，只是没有任何规则站在你这一边。"
+          "超过 30 天后，Proton 的商业保证不提供自动退款；按条款，退款或抵扣由公司酌情决定。这是在说明商业保证，而不是判断可能适用的其他权利。"
         ]
       },
       {
         "heading": "我是在应用里订阅的，通过 Google Play 或 App Store",
         "paragraphs": [
-          "在手机应用内购买的订阅，通常由应用商店计费。对于通过 Google Play 或 App Store 付款的人，帮助中心表示要在应用商店本身取消。"
+          "请查看收据，确认收款方是 Proton、Google Play 还是 Apple。由 Google Play 或 App Store 收款的订阅须在对应商店取消；退款流程如下。"
         ],
         "bullets": [
           "**Google Play。** 打开 Play 商店应用，点击你的头像，进入“订阅”，选择 Proton VPN 取消。若要在 30 天内退款，帮助中心表示要联系 Proton 客服，并补充说也可能可以通过 Google Play 本身申请。",
@@ -254206,8 +254318,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "如何避免被续订扣款",
         "paragraphs": [
-          "订阅会按相同的周期自动续订。条款说明，你会按续订当时有效的价格被收费，而促销价只涵盖第一个周期。在 Proton 以美元计价的合作伙伴页面上，2 年 VPN Plus 套餐前 24 个月收费 59.76 美元，之后每 12 个月以 83.88 美元续订。价格会随国家和币种而变。",
-          "要停止续订，条款要求你在续订日之前取消。不必等到前一天。因为付费套餐会持续到已付款周期结束，你可以订阅后立刻取消，仍然能用完你付费的所有内容。",
+          "续订周期以优惠说明和收据为准，可能与最初的合同期限不同。条款说明，你会按续订当时有效的价格被收费，而促销价只涵盖第一个周期。在 Proton 以美元计价的合作伙伴页面上，2 年 VPN Plus 套餐前 24 个月收费 59.76 美元，之后每 12 个月以 83.88 美元续订。价格会随国家和币种而变。",
+          "以下适用于 VPN Plus：要停止续订，条款要求你在续订日之前取消。不必等到前一天。因为付费套餐会持续到已付款周期结束，你可以订阅后立刻取消，仍然能用完你付费的所有内容。",
           "把下一个扣款日记在日历上，并提前几天提醒自己。如果你是通过手机应用商店订阅的，请在应用商店的订阅页面查看日期。"
         ]
       },
@@ -254227,7 +254339,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "Proton VPN 会退款吗？按条款，只要在首次购买后 30 天内完成取消并提出退款申请，就会全额退款。每位用户限一次，且只适用于在 Proton 网站或应用订阅的人。",
+          "Proton VPN 会退款吗？直接向 Proton 购买时，条款规定首次购买后 30 天内取消并申请可获全额退款，每位用户限一次，并受付款方式限制。Google Play 和 App Store 付款请按对应章节的专门流程办理。",
           "如何取消 Proton VPN？在网站上登录，打开 Subscription，进入 Cancel subscription，按步骤完成到提交原因为止。如果你是通过 Google Play 或 App Store 订阅的，请在应用商店的订阅页面取消。",
           "我已经取消却还是被扣款，该怎么办？先确认是谁向你收款。通过手机应用商店购买的订阅，要在应用商店取消。如果在完成取消之后，款项仍来自 Proton，请附上日期和收据给客服写信。",
           "续订的费用可以退款吗？30 天规则从首次购买起算，续订不在其内。超过这段期限后，条款说明任何退款都由公司自行决定。",
@@ -254241,8 +254353,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "套餐和价格显示在按钮打开的页面上。付款前请确认总额和续订日期。",
-      "label": "查看 Proton VPN 套餐",
+      "text": "如果你还在考虑订阅，请通过我们的链接打开 Proton 优惠，确认总额和续订费用。已有订阅的取消或退款，请使用本指南所列的对应渠道。",
+      "label": "订阅前查看优惠",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -254290,7 +254402,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Proton VPN é da Proton AG, empresa suíça que também faz o Proton Mail. Os aplicativos têm código aberto, e a empresa publica todo ano uma auditoria independente da política de não guardar registros. Segundo ela, o plano grátis não tem anúncios nem limite de dados. No Brasil, pesa o atendimento, porque as reclamações no Reclame Aqui estão sem resposta."
+          "Há evidências favoráveis para confiar no Proton VPN oficial: empresa identificada, aplicativos de código aberto e auditoria independente da política de registros. Isso não garante anonimato nem proteção contra todo golpe. No perfil brasileiro do Reclame Aqui consultado, as 14 reclamações estavam sem resposta; para atendimento, use o canal oficial da Proton."
         ]
       },
       {
@@ -254304,38 +254416,38 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que foi auditado e por quem",
         "paragraphs": [
-          "Quatro alegações sustentam a fama do Proton VPN: não guardar registros do que o usuário faz, ter aplicativos de código aberto, ter esses aplicativos auditados e ter negado as ordens de identificação que recebeu. A tabela mostra o que conseguimos abrir de cada uma.",
+          "A confiança aqui depende de evidências diferentes: auditoria da política de registros, publicação do código e informações da própria empresa. A tabela distingue o alcance de cada uma.",
           "A política de não guardar registros é auditada pela Securitum, uma empresa externa de testes de segurança. A Proton publica os relatórios completos de 2022 a 2026 na [página das auditorias](https://protonvpn.com/blog/no-logs-audit), cinco anos seguidos. Abrimos o de 2026. Ele tem 12 páginas, leva o título \"Verification of Proton VPN's No-Log policy\" e registra uma avaliação feita em maio de 2026 no escritório da Proton em Zurique, por dois consultores, com amostras de servidores em produção, arquivos de configuração e documentação interna.",
           "Na conclusão que a Proton reproduz, a Securitum diz que a evidência técnica examinada não indicou que os servidores revisados registrem a navegação, as consultas de DNS, os serviços de destino, o conteúdo do tráfego ou dados de conexão que identifiquem o usuário, e que não encontrou registros persistentes que permitissem ligar um usuário ao que ele fez por um servidor revisado.",
           "Uma auditoria dessas é um retrato. Ela vale para os servidores e as configurações examinados naqueles dias. O que a empresa fará depois fica fora dela, e por isso o valor está na repetição anual, com relatório aberto."
         ],
         "comparisonTable": {
-          "caption": "O que sustenta cada alegação sobre o Proton VPN, pelas fontes que abrimos.",
+          "caption": "Fontes e alcance das evidências sobre o Proton VPN.",
           "headers": [
-            "Alegação",
-            "Quem sustenta",
-            "O que abrimos"
+            "Afirmação",
+            "Fonte",
+            "O que a evidência permite dizer"
           ],
           "rows": [
             [
-              "Não guarda registros de atividade",
-              "Securitum, em auditoria anual desde 2022",
-              "O relatório de 2026, publicado pela Proton"
+              "Política sem registros de atividade",
+              "Securitum, auditoria de 2026",
+              "Política examinada na amostra e no período da avaliação"
             ],
             [
               "Aplicativos de código aberto",
-              "O código publicado no GitHub",
-              "Os repositórios dos aplicativos de Android, Windows, iPhone, Mac e Linux"
+              "Repositórios ProtonVPN no GitHub",
+              "Código disponível para inspeção; isso sozinho não garante ausência de falhas"
             ],
             [
-              "Aplicativos auditados",
-              "A Proton, que cita uma auditoria da Securitum",
-              "Só a página da Proton. Fica como alegação dela"
+              "Auditoria dos aplicativos",
+              "Página de segurança da Proton",
+              "Alegação apresentada pela empresa; é diferente da auditoria de registros descrita acima"
             ],
             [
-              "Negou as ordens para identificar usuários",
-              "A Proton, no relatório de transparência",
-              "O relatório de transparência. O número é da própria empresa"
+              "Ordens de identificação negadas por falta de registros",
+              "Relatório de transparência da Proton",
+              "Informação publicada pela empresa, sem checagem externa nesta análise"
             ]
           ]
         },
@@ -254369,8 +254481,8 @@ export const reviewsData: unknown[] = [
           "Uma VPN esconde o seu endereço IP dos sites e protege o tráfego entre o aparelho e o servidor dela. Ela tem limites que valem para qualquer marca."
         ],
         "bullets": [
-          "**Não torna ninguém anônimo.** Quem entra na conta de uma rede social com a VPN ligada continua identificado pela conta.",
-          "**Não protege de golpe.** Link falso por mensagem e site clonado em que a pessoa digita a senha funcionam do mesmo jeito.",
+          "**Não garante anonimato.** Quem entra na conta de uma rede social com a VPN ligada continua identificado por essa conta.",
+          "**Não garante proteção contra golpes.** A VPN não impede que alguém entregue a senha num site falso ou a um golpista. Confira o endereço e o destinatário antes de informar dados.",
           "**Muda quem vê o tráfego.** O provedor de internet deixa de ver os sites visitados, e o provedor da VPN passa a ocupar esse lugar. É por isso que a auditoria de registros importa.",
           "**Não muda a lei.** A própria Proton diz que o serviço se destina ao uso legal. O que é ilegal sem VPN continua ilegal com ela."
         ]
@@ -254379,7 +254491,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
           "O perfil \"proton vpn\" no Reclame Aqui aparece como não verificado. Nos dados de 01/11/2025 a 31/10/2026, lidos em 17/11/2026, eram 14 reclamações, nenhuma respondida, e a reputação aparecia como \"Não Recomendada\" porque menos de metade das reclamações teve resposta.",
-          "Catorze reclamações em um ano é uma base minúscula para um aplicativo com mais de 100 milhões de downloads na Google Play. Ainda assim, quem reclamou ali ficou sem resposta.",
+          "Esse recorte fala do atendimento naquele perfil, no período consultado. Ele deixa de fora a segurança técnica do aplicativo e a experiência de quem nunca reclamou ali.",
           "As reclamações mais recentes falam de renovação cobrada depois do cancelamento, de reembolso de assinatura feita pela Google Play e de cobrança do ano inteiro de uma vez em oferta anunciada por mês. O atendimento da Proton é pelo [formulário de suporte](https://protonvpn.com/support/contact)."
         ],
         "image": {
@@ -254398,7 +254510,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O Proton VPN é seguro? Os sinais que dá para conferir são favoráveis. A empresa é identificada, o código dos aplicativos é público e a Securitum audita todo ano a política de não guardar registros, com relatório publicado. Nenhuma VPN protege de golpe nem torna alguém anônimo.",
+          "O Proton VPN é seguro? Os sinais verificáveis são favoráveis: empresa identificada, código dos aplicativos público e auditoria anual da política de registros pela Securitum, com relatório publicado. Essas evidências não garantem anonimato nem proteção contra todos os golpes.",
           "O Proton VPN grátis é confiável? A Proton diz que o plano grátis não guarda registros de atividade, não tem anúncios nem limite de dados, e que ele é financiado pelos assinantes. Os limites são 1 dispositivo e menos países.",
           "O Proton VPN é vírus? Não. O aplicativo oficial está na Google Play e na App Store com a Proton AG como desenvolvedora. O risco está em instaladores de terceiros e em versões modificadas.",
           "De que país é a Proton? Da Suíça. Os serviços são operados pela Proton AG e, segundo a empresa, o acionista principal é a Proton Foundation, uma organização sem fins lucrativos de Genebra.",
@@ -254412,8 +254524,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Os planos, o plano grátis e os preços aparecem na página que o botão abre. Confira o total e a renovação antes de pagar.",
-      "label": "Ver os planos do Proton VPN",
+      "text": "Se você procura os recursos pagos do Proton VPN, abra a oferta pelo nosso link. Confira o total cobrado de uma vez e a renovação; a comparação de preços está no guia de Black Friday relacionado.",
+      "label": "Ver oferta do Proton VPN",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -254461,7 +254573,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Proton VPN belongs to Proton AG, the Swiss company that also makes Proton Mail. The apps are open source, and the company publishes an independent audit of its no-logs policy every year. According to Proton, the free plan has no ads and no data limit. Support runs through a web form, and refunds follow the 30-day rule in the terms."
+          "The official Proton VPN has verifiable trust signals: an identified Swiss company, open-source apps and independent no-logs audits. These findings do not guarantee anonymity or protection from every scam. Download from official sources; according to Proton, the free plan has no ads or data limit, while paid features and billing conditions are explained below."
         ]
       },
       {
@@ -254540,8 +254652,8 @@ export const reviewsData: unknown[] = [
           "A VPN hides your IP address from websites and protects the traffic between your device and its server. It has limits that apply to any brand."
         ],
         "bullets": [
-          "**It does not make anyone anonymous.** If you sign in to a social network with the VPN on, the account still identifies you.",
-          "**It does not protect against scams.** A fake link in a message or a cloned site where you type your password works the same way.",
+          "**It does not guarantee anonymity.** If you sign in to a social network with the VPN on, that account still identifies you.",
+          "**It does not guarantee protection from scams.** A VPN does not stop you from giving a password to a fake website or a scammer; check the address and recipient before sharing data.",
           "**It changes who sees the traffic.** Your internet provider stops seeing the sites you visit, and the VPN provider takes that place. That is why the no-logs audit matters.",
           "**It does not change the law.** Proton itself says the service is intended for legal use. What is illegal without a VPN is still illegal with one."
         ]
@@ -254563,7 +254675,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Is Proton VPN safe? The signs that can be checked are favorable. The company is identified, the app code is public and Securitum audits the no-logs policy every year, with a published report. No VPN protects against scams or makes anyone anonymous.",
+          "Is Proton VPN safe? Verifiable trust signals are favorable: an identified company, public app code and annual Securitum audits of the no-logs policy, with published reports. These findings do not guarantee anonymity or protection from every scam.",
           "Is the free Proton VPN trustworthy? Proton says the free plan keeps no activity logs, has no ads and no data limit, and that it is funded by subscribers. The limits are 1 device and fewer countries.",
           "Is Proton VPN a virus? No. The official app is on Google Play and the App Store with Proton AG as the developer. The risk lies in third-party installers and modified versions.",
           "Which country is Proton from? Switzerland. The services are operated by Proton AG and, according to the company, the primary shareholder is the Proton Foundation, a non-profit organization in Geneva.",
@@ -254577,8 +254689,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "The plans, the free plan and the prices show on the page the button opens. Check the total and the renewal price before paying.",
-      "label": "See Proton VPN plans",
+      "text": "If you want Proton VPN's paid features, open the offer through our link and check the upfront total and renewal. The related Black Friday guide compares the prices.",
+      "label": "View the Proton VPN offer",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -254626,7 +254738,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Proton VPN pertenece a Proton AG, la empresa suiza que también desarrolla Proton Mail. Las apps son de código abierto, y la empresa publica cada año una auditoría independiente de su política de no guardar registros. Según Proton, el plan gratuito no tiene anuncios ni límite de datos. El soporte funciona por un formulario web, y los reembolsos siguen la regla de 30 días de los términos."
+          "Proton VPN oficial ofrece señales verificables de confianza: empresa suiza identificada, aplicaciones de código abierto y auditorías independientes de su política sin registros. Eso no garantiza anonimato ni protección contra cualquier estafa. Descarga desde fuentes oficiales; según Proton, el plan gratuito no tiene anuncios ni límite de datos, y abajo explicamos las condiciones de pago."
         ]
       },
       {
@@ -254705,8 +254817,8 @@ export const reviewsData: unknown[] = [
           "Una VPN oculta tu dirección IP a los sitios web y protege el tráfico entre tu dispositivo y su servidor. Tiene límites que valen para cualquier marca."
         ],
         "bullets": [
-          "**No vuelve anónimo a nadie.** Si inicias sesión en una red social con la VPN activada, la cuenta sigue identificándote.",
-          "**No protege contra estafas.** Un enlace falso en un mensaje o un sitio clonado donde escribes tu contraseña funcionan igual.",
+          "**No garantiza anonimato.** Si inicias sesión en una red social con la VPN activada, esa cuenta sigue identificándote.",
+          "**No garantiza protección contra estafas.** La VPN no impide que entregues la contraseña a una web falsa o a un estafador; comprueba la dirección y el destinatario antes de compartir datos.",
           "**Cambia quién ve el tráfico.** Tu proveedor de internet deja de ver los sitios que visitas, y el proveedor de la VPN ocupa su lugar. Por eso importa la auditoría de registros.",
           "**No cambia la ley.** La propia Proton dice que el servicio está pensado para un uso legal. Lo que es ilegal sin VPN sigue siéndolo con ella."
         ]
@@ -254728,7 +254840,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Es seguro Proton VPN? Las señales que se pueden comprobar son favorables. La empresa está identificada, el código de las apps es público y Securitum audita cada año la política de no guardar registros, con un informe publicado. Ninguna VPN protege contra estafas ni vuelve anónimo a nadie.",
+          "¿Es seguro Proton VPN? Las señales verificables son favorables: empresa identificada, código público y auditoría anual de Securitum sobre la política sin registros, con informes publicados. Esas pruebas no garantizan anonimato ni protección contra todas las estafas.",
           "¿Es fiable Proton VPN gratis? Proton dice que el plan gratuito no guarda registros de actividad, no tiene anuncios ni límite de datos, y que lo financian los suscriptores. Los límites son 1 dispositivo y menos países.",
           "¿Es Proton VPN un virus? No. La app oficial está en Google Play y en la App Store con Proton AG como desarrollador. El riesgo está en los instaladores de terceros y las versiones modificadas.",
           "¿De qué país es Proton? De Suiza. Los servicios los opera Proton AG y, según la empresa, el accionista principal es la Proton Foundation, una organización sin ánimo de lucro de Ginebra.",
@@ -254742,8 +254854,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Los planes, el plan gratuito y los precios aparecen en la página que abre el botón. Comprueba el total y el precio de renovación antes de pagar.",
-      "label": "Ver los planes de Proton VPN",
+      "text": "Si buscas las funciones de pago de Proton VPN, abre la oferta con nuestro enlace y comprueba el total inicial y la renovación. El artículo relacionado de Black Friday compara los precios.",
+      "label": "Ver la oferta de Proton VPN",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -254791,7 +254903,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Proton VPN appartient à Proton AG, la société suisse qui édite aussi Proton Mail. Les applications sont open source, et la société publie chaque année un audit indépendant de sa politique de non-conservation des journaux. D'après Proton, l'offre gratuite n'a ni publicité ni limite de données. L'assistance passe par un formulaire web, et les remboursements suivent la règle des 30 jours des conditions."
+          "Proton VPN officiel présente des signes vérifiables de confiance : entreprise suisse identifiée, applications open source et audits indépendants de sa politique sans journaux. Cela ne garantit ni anonymat ni protection contre toute arnaque. Téléchargez depuis les sources officielles ; selon Proton, l'offre gratuite ne comporte ni publicité ni limite de données."
         ]
       },
       {
@@ -254870,8 +254982,8 @@ export const reviewsData: unknown[] = [
           "Un VPN masque votre adresse IP aux sites web et protège le trafic entre votre appareil et son serveur. Il a des limites qui valent pour n'importe quelle marque."
         ],
         "bullets": [
-          "**Il ne rend personne anonyme.** Si vous vous connectez à un réseau social avec le VPN activé, le compte vous identifie toujours.",
-          "**Il ne protège pas contre les arnaques.** Un faux lien dans un message ou un site cloné où vous saisissez votre mot de passe fonctionne de la même façon.",
+          "**Il ne garantit pas l'anonymat.** Si vous vous connectez à un réseau social avec le VPN activé, ce compte vous identifie toujours.",
+          "**Il ne garantit pas la protection contre les arnaques.** Le VPN ne vous empêche pas de donner votre mot de passe à un faux site ou à un escroc ; vérifiez l'adresse et le destinataire avant de transmettre des données.",
           "**Il change qui voit le trafic.** Votre fournisseur d'accès cesse de voir les sites que vous visitez, et le fournisseur du VPN prend sa place. C'est pourquoi l'audit des journaux compte.",
           "**Il ne change pas la loi.** Proton dit elle-même que le service est destiné à un usage légal. Ce qui est illégal sans VPN le reste avec un VPN."
         ]
@@ -254893,7 +255005,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Proton VPN est-il sûr ? Les signes vérifiables sont favorables. La société est identifiée, le code des applications est public et Securitum audite chaque année la politique de non-conservation des journaux, avec un rapport publié. Aucun VPN ne protège contre les arnaques ni ne rend personne anonyme.",
+          "Proton VPN est-il sûr ? Les signes vérifiables sont favorables : société identifiée, code public et audits annuels de Securitum sur la politique sans journaux, avec rapports publiés. Ces preuves ne garantissent ni anonymat ni protection contre toutes les arnaques.",
           "Proton VPN gratuit est-il digne de confiance ? Proton indique que l'offre gratuite ne conserve aucun journal d'activité, n'a ni publicité ni limite de données, et qu'elle est financée par les abonnés. Les limites sont 1 appareil et moins de pays.",
           "Proton VPN est-il un virus ? Non. L'application officielle est sur Google Play et l'App Store avec Proton AG comme éditeur. Le risque tient aux installateurs tiers et aux versions modifiées.",
           "De quel pays vient Proton ? De Suisse. Les services sont exploités par Proton AG et, selon la société, l'actionnaire principal est la Proton Foundation, une organisation à but non lucratif de Genève.",
@@ -254907,8 +255019,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Les offres, l'offre gratuite et les prix s'affichent sur la page qu'ouvre le bouton. Vérifiez le total et le prix au renouvellement avant de payer.",
-      "label": "Voir les offres Proton VPN",
+      "text": "Si vous recherchez les fonctions payantes de Proton VPN, ouvrez l'offre via notre lien et vérifiez le total initial et le renouvellement. Le guide Black Friday associé compare les prix.",
+      "label": "Voir l'offre Proton VPN",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -254956,7 +255068,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurzantwort",
         "paragraphs": [
-          "Proton VPN gehört zur Proton AG, dem Schweizer Unternehmen, das auch Proton Mail betreibt. Die Apps sind Open Source, und die Firma veröffentlicht jedes Jahr ein unabhängiges Audit ihrer No-Logs-Richtlinie. Laut Proton hat der kostenlose Tarif keine Werbung und kein Datenlimit. Der Support läuft über ein Webformular, und Rückerstattungen folgen der 30-Tage-Regel der Bedingungen."
+          "Das offizielle Proton VPN bietet überprüfbare Vertrauenssignale: ein namentlich bekanntes Schweizer Unternehmen, quelloffene Apps und unabhängige No-Logs-Audits. Das garantiert weder Anonymität noch Schutz vor jedem Betrug. Laden Sie die Software aus offiziellen Quellen herunter; laut Proton hat der kostenlose Tarif weder Werbung noch ein Datenlimit, während die kostenpflichtigen Funktionen und Bedingungen unten erklärt werden."
         ]
       },
       {
@@ -255035,8 +255147,8 @@ export const reviewsData: unknown[] = [
           "Ein VPN verbirgt Ihre IP-Adresse vor Websites und schützt den Datenverkehr zwischen Ihrem Gerät und seinem Server. Es hat Grenzen, die für jede Marke gelten."
         ],
         "bullets": [
-          "**Es macht niemanden anonym.** Wenn Sie sich bei eingeschaltetem VPN in einem sozialen Netzwerk anmelden, identifiziert Sie das Konto weiterhin.",
-          "**Es schützt nicht vor Betrug.** Ein gefälschter Link in einer Nachricht oder eine nachgebaute Seite, auf der Sie Ihr Passwort eingeben, funktioniert genauso.",
+          "**Es garantiert keine Anonymität.** Wenn Sie sich mit eingeschaltetem VPN bei einem sozialen Netzwerk anmelden, identifiziert Sie dieses Konto weiterhin.",
+          "**Es garantiert keinen Schutz vor Betrug.** Ein VPN verhindert nicht, dass Sie Ihr Passwort auf einer gefälschten Website eingeben oder einem Betrüger nennen; prüfen Sie Adresse und Empfänger, bevor Sie Daten weitergeben.",
           "**Es ändert, wer den Datenverkehr sieht.** Ihr Internetanbieter sieht die besuchten Seiten nicht mehr, und der VPN-Anbieter nimmt diesen Platz ein. Deshalb ist das Audit der Protokolle wichtig.",
           "**Es ändert nicht das Gesetz.** Proton selbst sagt, der Dienst sei für die legale Nutzung gedacht. Was ohne VPN illegal ist, bleibt es mit VPN."
         ]
@@ -255058,7 +255170,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Ist Proton VPN sicher? Die überprüfbaren Anzeichen sind positiv. Die Firma ist klar benannt, der Code der Apps ist öffentlich, und Securitum prüft die No-Logs-Richtlinie jedes Jahr, mit veröffentlichtem Bericht. Kein VPN schützt vor Betrug oder macht jemanden anonym.",
+          "Ist Proton VPN sicher? Die überprüfbaren Anzeichen sind positiv: ein namentlich bekanntes Unternehmen, öffentlicher App-Code und jährliche Securitum-Audits der No-Logs-Richtlinie mit veröffentlichten Berichten. Diese Belege garantieren weder Anonymität noch Schutz vor jedem Betrug.",
           "Ist das kostenlose Proton VPN vertrauenswürdig? Proton sagt, der kostenlose Tarif führe keine Aktivitätsprotokolle, habe keine Werbung und kein Datenlimit und werde von Abonnenten finanziert. Die Grenzen sind 1 Gerät und weniger Länder.",
           "Ist Proton VPN ein Virus? Nein. Die offizielle App ist bei Google Play und im App Store mit Proton AG als Entwickler. Das Risiko liegt bei Installern von Dritten und veränderten Versionen.",
           "Aus welchem Land kommt Proton? Aus der Schweiz. Die Dienste werden von der Proton AG betrieben, und laut der Firma ist der Hauptaktionär die Proton Foundation, eine gemeinnützige Organisation in Genf.",
@@ -255072,8 +255184,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Die Tarife, der kostenlose Tarif und die Preise erscheinen auf der Seite, die der Button öffnet. Prüfen Sie vor der Zahlung den Gesamtbetrag und den Verlängerungspreis.",
-      "label": "Proton-VPN-Tarife ansehen",
+      "text": "Wenn Sie die kostenpflichtigen Funktionen von Proton VPN suchen, öffnen Sie das Angebot über unseren Link und prüfen Sie Gesamtbetrag und Verlängerung. Der verknüpfte Black-Friday-Ratgeber vergleicht die Preise.",
+      "label": "Proton-VPN-Angebot ansehen",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -255121,7 +255233,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Proton VPN appartiene a Proton AG, l'azienda svizzera che produce anche Proton Mail. Le app sono open source, e l'azienda pubblica ogni anno un audit indipendente della sua politica di non conservazione dei log. Secondo Proton, il piano gratuito non ha pubblicità né limiti di dati. L'assistenza passa da un modulo web, e i rimborsi seguono la regola dei 30 giorni dei termini."
+          "Proton VPN ufficiale offre segnali verificabili di affidabilità: azienda svizzera identificata, app open source e audit indipendenti della politica senza log. Questo non garantisce anonimato né protezione da ogni truffa. Scarica dalle fonti ufficiali; secondo Proton, il piano gratuito non ha pubblicità né limiti di dati, mentre sotto spieghiamo condizioni e funzioni a pagamento."
         ]
       },
       {
@@ -255200,8 +255312,8 @@ export const reviewsData: unknown[] = [
           "Una VPN nasconde il tuo indirizzo IP ai siti web e protegge il traffico tra il tuo dispositivo e il suo server. Ha dei limiti che valgono per qualsiasi marchio."
         ],
         "bullets": [
-          "**Non rende anonimo nessuno.** Se accedi a un social network con la VPN attiva, l'account continua a identificarti.",
-          "**Non protegge dalle truffe.** Un link falso in un messaggio o un sito clonato in cui scrivi la password funzionano allo stesso modo.",
+          "**Non garantisce anonimato.** Se accedi a un social network con la VPN attiva, quell'account continua a identificarti.",
+          "**Non garantisce protezione dalle truffe.** La VPN non impedisce di consegnare la password a un sito falso o a un truffatore; controlla indirizzo e destinatario prima di condividere dati.",
           "**Cambia chi vede il traffico.** Il tuo provider internet smette di vedere i siti che visiti, e il fornitore della VPN prende il suo posto. Per questo l'audit sui log conta.",
           "**Non cambia la legge.** La stessa Proton dice che il servizio è pensato per un uso legale. Ciò che è illegale senza VPN resta illegale anche con una."
         ]
@@ -255223,7 +255335,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Proton VPN è affidabile? I segnali verificabili sono favorevoli. L'azienda è identificata, il codice delle app è pubblico e Securitum sottopone ad audit ogni anno la politica di non conservazione dei log, con un report pubblicato. Nessuna VPN protegge dalle truffe né rende anonimo nessuno.",
+          "Proton VPN è affidabile? I segnali verificabili sono favorevoli: azienda identificata, codice pubblico e audit annuali di Securitum sulla politica senza log, con report pubblicati. Queste prove non garantiscono anonimato né protezione da ogni truffa.",
           "Proton VPN gratis è affidabile? Proton dice che il piano gratuito non conserva log di attività, non ha pubblicità né limiti di dati, e che è finanziato dagli abbonati. I limiti sono 1 dispositivo e meno paesi.",
           "Proton VPN è un virus? No. L'app ufficiale è su Google Play e App Store con Proton AG come sviluppatore. Il rischio sta negli installer di terze parti e nelle versioni modificate.",
           "Di che paese è Proton? Della Svizzera. I servizi sono gestiti da Proton AG e, secondo l'azienda, l'azionista principale è la Proton Foundation, un'organizzazione senza scopo di lucro con sede a Ginevra.",
@@ -255237,8 +255349,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "I piani, il piano gratuito e i prezzi compaiono nella pagina che apre il pulsante. Controlla il totale e il prezzo di rinnovo prima di pagare.",
-      "label": "Vedi i piani di Proton VPN",
+      "text": "Se cerchi le funzioni a pagamento di Proton VPN, apri l'offerta dal nostro link e controlla totale iniziale e rinnovo. La guida Black Friday collegata confronta i prezzi.",
+      "label": "Vedi l'offerta Proton VPN",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -255286,7 +255398,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "Proton VPN은 Proton Mail도 만드는 스위스 회사 Proton AG의 서비스입니다. 앱은 오픈 소스이고, 회사는 로그 비보관 정책에 대한 독립 감사를 해마다 공개합니다. Proton에 따르면 무료 플랜에는 광고가 없고 데이터 제한도 없습니다. 지원은 웹 양식으로 이루어지며, 환불은 약관의 30일 규정을 따릅니다."
+          "Proton VPN 공식 앱에는 스위스 운영 회사, 공개된 앱 소스 코드, 로그 비보관 정책에 대한 독립 감사라는 확인 가능한 신뢰 근거가 있습니다. 이것이 익명성이나 모든 사기 방지를 보장하지는 않습니다. 공식 배포처에서 내려받고, 무료 플랜에 광고와 데이터 제한이 없다는 Proton의 설명 및 유료 기능과 결제 조건을 확인해 선택하세요."
         ]
       },
       {
@@ -255365,8 +255477,8 @@ export const reviewsData: unknown[] = [
           "VPN은 웹사이트에서 내 IP 주소를 가리고, 내 기기와 VPN 서버 사이의 트래픽을 보호합니다. 어느 브랜드에나 해당하는 한계가 있습니다."
         ],
         "bullets": [
-          "**누군가를 익명으로 만들지 않습니다.** VPN을 켠 채 소셜 네트워크에 로그인하면 계정이 여전히 나를 식별합니다.",
-          "**사기를 막아 주지 않습니다.** 메시지 속 가짜 링크나 비밀번호를 입력하게 하는 복제 사이트는 VPN이 있어도 똑같이 통합니다.",
+          "**익명성을 보장하지 않습니다.** VPN을 켠 채 소셜 네트워크에 로그인해도 해당 계정으로 사용자가 식별됩니다.",
+          "**모든 사기 방지를 보장하지 않습니다.** 가짜 사이트나 사기꾼에게 직접 비밀번호를 주는 것은 VPN이 막지 못하므로 데이터를 보내기 전에 주소와 상대를 확인하세요.",
           "**트래픽을 보는 주체가 바뀝니다.** 인터넷 제공업체는 내가 방문하는 사이트를 보지 못하게 되고, 그 자리를 VPN 제공업체가 대신합니다. 로그 감사가 중요한 이유입니다.",
           "**법은 바뀌지 않습니다.** Proton 스스로도 서비스가 합법적인 용도를 위한 것이라고 말합니다. VPN 없이 불법인 일은 VPN이 있어도 불법입니다."
         ]
@@ -255388,7 +255500,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "Proton VPN은 안전한가요? 확인할 수 있는 신호는 긍정적입니다. 운영 회사가 분명하고, 앱 코드가 공개되어 있으며, Securitum이 로그 비보관 정책을 해마다 감사하고 보고서를 공개합니다. 다만 어떤 VPN도 사기를 막거나 누군가를 익명으로 만들어 주지는 않습니다.",
+          "Proton VPN은 안전한가요? 명확히 밝혀진 운영 회사, 공개된 앱 코드, Securitum의 연례 로그 비보관 정책 감사와 공개 보고서는 확인 가능한 긍정적 근거입니다. 이런 근거가 익명성이나 모든 사기 방지를 보장하지는 않습니다.",
           "무료 Proton VPN은 믿을 만한가요? Proton에 따르면 무료 플랜은 활동 로그를 보관하지 않고, 광고와 데이터 제한이 없으며, 구독자의 결제로 운영됩니다. 한계는 기기 1대와 적은 국가 수입니다.",
           "Proton VPN은 바이러스인가요? 아니요. 공식 앱은 Google Play와 App Store에 개발자 Proton AG로 올라와 있습니다. 위험은 제3자 설치 파일과 변조된 버전에 있습니다.",
           "Proton은 어느 나라 회사인가요? 스위스입니다. 서비스는 Proton AG가 운영하며, 회사에 따르면 최대 주주는 제네바의 비영리 단체인 Proton Foundation입니다.",
@@ -255402,8 +255514,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "플랜, 무료 플랜, 가격은 버튼이 여는 페이지에 표시됩니다. 결제하기 전에 총액과 갱신 가격을 확인하세요.",
-      "label": "Proton VPN 플랜 보기",
+      "text": "Proton VPN 유료 기능을 찾는다면 저희 링크로 할인 페이지를 열고 최초 결제 총액과 갱신 요금을 확인하세요. 관련 블랙프라이데이 가이드에서 가격을 비교합니다.",
+      "label": "Proton VPN 할인 보기",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -255451,7 +255563,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "Proton VPNは、Proton Mailも手がけるスイスの企業、Proton AGのサービスです。アプリはオープンソースで、同社はノーログポリシーの独立した監査を毎年公開しています。Protonによると、無料プランに広告はなく、データ容量の制限もありません。サポートはウェブフォームで対応し、返金は利用規約の30日ルールに従います。"
+          "Proton VPN公式版には、運営元のスイス企業、公開されたアプリのソースコード、ノーログ方針の独立監査という確認可能な判断材料があります。匿名性やあらゆる詐欺への対策を保証するものではありません。公式の配布元から入手し、無料プランは広告やデータ量の制限がないというProtonの説明と、有料機能や課金条件を確認して選びましょう。"
         ]
       },
       {
@@ -255530,8 +255642,8 @@ export const reviewsData: unknown[] = [
           "VPNは、ウェブサイトからあなたのIPアドレスを隠し、端末とVPNサーバーの間の通信を保護します。限界もあり、それはどのブランドにも当てはまります。"
         ],
         "bullets": [
-          "**誰かを匿名にするものではありません。** VPNをオンにしたままSNSにサインインすれば、アカウントがあなたを特定します。",
-          "**詐欺は防げません。** メッセージ内の偽リンクや、パスワードを入力させる偽サイトには、VPNがあっても同じように引っかかります。",
+          "**匿名性を保証しません。** VPNをオンにしてSNSにサインインしても、そのアカウントで本人を識別できます。",
+          "**あらゆる詐欺への対策を保証しません。** 偽サイトや詐欺相手に自分でパスワードを渡すことはVPNでは防げないため、データを送る前にアドレスと相手を確認してください。",
           "**通信を見る相手が変わります。** インターネットプロバイダーは訪問先のサイトを見られなくなり、その代わりにVPN事業者が見られる立場になります。ログの監査が重要なのはそのためです。",
           "**法律は変わりません。** Proton自身が、サービスは合法的な利用を目的としていると述べています。VPNなしで違法なことは、VPNがあっても違法です。"
         ]
@@ -255553,7 +255665,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "Proton VPNは安全ですか？ 確認できる材料は良好です。運営会社がはっきりしていて、アプリのコードは公開されていて、Securitumがノーログポリシーを毎年監査し、レポートを公開しています。ただし、どのVPNも詐欺は防げず、誰かを匿名にするものでもありません。",
+          "Proton VPNは安全ですか？ 運営会社の明示、公開されたアプリのコード、Securitumによるノーログ方針の年次監査と公開レポートは、確認可能な良い判断材料です。これらは匿名性やあらゆる詐欺への対策を保証するものではありません。",
           "無料のProton VPNは信頼できますか？ Protonによると、無料プランは活動ログを記録せず、広告もデータ容量の制限もなく、購読者の支払いで運営されています。制限は、1台までの接続と、対象国の少なさです。",
           "Proton VPNはウイルスですか？ いいえ。公式アプリはGoogle PlayとApp Storeで、開発元をProton AGとして配信されています。危険があるのは、サードパーティのインストーラーや改変された版です。",
           "Protonはどこの国の会社ですか？ スイスです。サービスはProton AGが運営していて、同社によると、筆頭株主はジュネーブの非営利団体Proton Foundationです。",
@@ -255567,8 +255679,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "プラン、無料プラン、価格は、ボタンで開くページに表示されます。支払う前に、合計額と更新時の価格を確認してください。",
-      "label": "Proton VPNのプランを見る",
+      "text": "Proton VPNの有料機能を探している方は、当サイトのリンクからオファーを開き、最初の合計額と更新料を確認してください。関連するブラックフライデー記事で料金を比較しています。",
+      "label": "Proton VPNのオファーを見る",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -255616,7 +255728,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Proton VPN 屬於 Proton AG，這是一家瑞士公司，也是 Proton Mail 的開發者。應用程式是開源的，公司每年都會公布一份針對無日誌政策的獨立稽核。依 Proton 所述，免費方案沒有廣告，也沒有流量限制。客服透過網頁表單處理，退款則依條款中的 30 天規則辦理。"
+          "Proton VPN 官方版有可核實的信任依據：瑞士營運公司、公開的應用程式原始碼，以及無日誌政策的獨立稽核。這些並不保證匿名或防住所有詐騙。請從官方管道下載，並結合 Proton 關於免費版無廣告、無流量限制的說明，以及付費功能和收費條件來選擇。"
         ]
       },
       {
@@ -255695,8 +255807,8 @@ export const reviewsData: unknown[] = [
           "VPN 會對網站隱藏你的 IP 位址，並保護你的裝置與其伺服器之間的流量。它也有限制，任何品牌都一樣。"
         ],
         "bullets": [
-          "**它不會讓任何人匿名。** 如果你開著 VPN 登入社群網站，帳號仍然會識別出你。",
-          "**它不能防範詐騙。** 訊息裡的假連結，或是你輸入密碼的仿冒網站，照樣有效。",
+          "**不保證匿名。** 即使開著 VPN 登入社群網站，該帳號仍會識別你的身分。",
+          "**不保證防住所有詐騙。** VPN 無法阻止你主動把密碼交給假網站或詐騙者；傳送資料前請確認地址與收件方。",
           "**它改變的是誰看得到流量。** 你的網路服務供應商不再看到你造訪的網站，這個位置改由 VPN 供應商取代。這就是日誌稽核重要的原因。",
           "**它不會改變法律。** Proton 自己也說服務是供合法用途使用。沒有 VPN 時違法的事，用了 VPN 還是違法。"
         ]
@@ -255718,7 +255830,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "Proton VPN 安全嗎？可以查證的跡象是正面的。公司身分明確，應用程式的程式碼公開，Securitum 每年稽核無日誌政策並公布報告。沒有任何 VPN 能防範詐騙，或讓人匿名。",
+          "Proton VPN 安全嗎？營運公司身分明確、應用程式碼公開，以及 Securitum 對無日誌政策的年度稽核和公開報告，都是可核實的正面依據。這些不保證匿名或防住所有詐騙。",
           "免費的 Proton VPN 可以信任嗎？依 Proton 所述，免費方案不記錄活動日誌，沒有廣告，也沒有流量限制，並由付費用戶出資支撐。限制是只能連 1 台裝置，國家也較少。",
           "Proton VPN 是病毒嗎？不是。官方應用程式在 Google Play 和 App Store 上架，開發者是 Proton AG。風險出在第三方安裝檔和修改過的版本。",
           "Proton 是哪個國家的公司？瑞士。服務由 Proton AG 營運，依公司所述，最大股東是位於日內瓦的非營利組織 Proton Foundation。",
@@ -255732,8 +255844,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "方案、免費方案和價格顯示在按鈕開啟的頁面上。付款前請確認總額和續訂價格。",
-      "label": "查看 Proton VPN 方案",
+      "text": "如果你需要 Proton VPN 的付費功能，請透過我們的連結開啟優惠，確認首次付款總額和續訂費用。相關黑色星期五指南比較了價格。",
+      "label": "查看 Proton VPN 優惠",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
@@ -255781,7 +255893,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Proton VPN 属于 Proton AG，这是一家瑞士公司，也是 Proton Mail 的开发者。应用是开源的，公司每年都会公布一份针对无日志政策的独立审计。按 Proton 的说法，免费套餐没有广告，也没有流量限制。客服通过网页表单处理，退款则按条款中的 30 天规则办理。"
+          "Proton VPN 官方版有可核实的信任依据：瑞士运营公司、公开的应用源代码，以及无日志政策的独立审计。这些并不保证匿名或防住所有骗局。请从官方渠道下载，并结合 Proton 关于免费版无广告、无流量限制的说明，以及付费功能和收费条件来选择。"
         ]
       },
       {
@@ -255860,8 +255972,8 @@ export const reviewsData: unknown[] = [
           "VPN 会对网站隐藏你的 IP 地址，并保护你的设备与其服务器之间的流量。它也有局限，任何品牌都一样。"
         ],
         "bullets": [
-          "**它不会让任何人匿名。** 如果你开着 VPN 登录社交网站，账号仍然会识别出你。",
-          "**它不能防范诈骗。** 消息里的假链接，或是你输入密码的仿冒网站，照样有效。",
+          "**不保证匿名。** 即使开着 VPN 登录社交网站，该账号仍会识别你的身份。",
+          "**不保证防住所有骗局。** VPN 无法阻止你主动把密码交给假网站或骗子；发送数据前请确认地址与收件方。",
           "**它改变的是谁看得到流量。** 你的网络运营商不再看到你访问的网站，这个位置改由 VPN 服务商取代。这就是日志审计重要的原因。",
           "**它不会改变法律。** Proton 自己也说服务是供合法用途使用。没有 VPN 时违法的事，用了 VPN 还是违法。"
         ]
@@ -255883,7 +255995,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "Proton VPN 安全吗？可以核实的迹象是正面的。公司身份明确，应用代码公开，Securitum 每年审计无日志政策并公布报告。没有任何 VPN 能防范诈骗，或让人匿名。",
+          "Proton VPN 安全吗？运营公司身份明确、应用代码公开，以及 Securitum 对无日志政策的年度审计和公开报告，都是可核实的正面依据。这些不保证匿名或防住所有骗局。",
           "免费的 Proton VPN 可以信任吗？按 Proton 的说法，免费套餐不记录活动日志，没有广告，也没有流量限制，并由付费用户出资支撑。局限是只能连 1 台设备，国家也较少。",
           "Proton VPN 是病毒吗？不是。官方应用在 Google Play 和 App Store 上架，开发者是 Proton AG。风险出在第三方安装包和修改过的版本。",
           "Proton 是哪个国家的公司？瑞士。服务由 Proton AG 运营，按公司的说法，最大股东是位于日内瓦的非营利组织 Proton Foundation。",
@@ -255897,8 +256009,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "套餐、免费套餐和价格显示在按钮打开的页面上。付款前请确认总额和续订价格。",
-      "label": "查看 Proton VPN 套餐",
+      "text": "如果你需要 Proton VPN 的付费功能，请通过我们的链接打开优惠，确认首次付款总额和续订费用。相关黑色星期五指南比较了价格。",
+      "label": "查看 Proton VPN 优惠",
       "url": "https://go.getproton.me/SH39K",
       "sponsored": true
     },
