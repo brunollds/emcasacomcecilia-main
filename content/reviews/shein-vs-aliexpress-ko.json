@@ -1,0 +1,394 @@
+{
+  "id": 1036,
+  "slug": "shein-vs-aliexpress-ko",
+  "locale": "ko",
+  "translationKey": "shein-vs-aliexpress",
+  "title": "SHEIN(쉬인) vs AliExpress: 어떻게 고를까? 배송비, 반품 기한과 세금",
+  "seoTitle": "SHEIN(쉬인) vs AliExpress: 배송과 반품 비교",
+  "type": "비교 가이드",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "SHEIN(쉬인)과 AliExpress가 한국에서 공개한 배송비, 배송 기간, 반품 기한과 세금 규칙을 나란히 보고, 구매 전에 상품 페이지에서 무엇을 확인할지 정리했습니다.",
+  "metaDescription": "4CW5Y는 SHEIN이 정한 상품과 프로모션에서 할인받는 추천 코드입니다. SHEIN과 AliExpress의 한국 배송비, 반품 기한, 세금, 구매 전 확인할 조건을 비교합니다.",
+  "publishedAt": "2026년 11월 17일",
+  "publishedAtISO": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/shein/shein-ou-aliexpress-capa-ko.webp",
+  "imageAlt": "쇼핑몰 사진 속 옷 네 벌: AliExpress의 검은색 골지 원피스와 줄무늬 셔츠, SHEIN의 크림색 니트 원피스와 줄무늬 셔츠. 옆에 \"SHEIN과 AliExpress, 어디서 살까?\"라는 문구",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "원하는 상품이 AliExpress에 있고, 그 상품 페이지에 무료 반품과 나에게 맞는 도착 예정일이 표시되어 있다면 AliExpress를 고르세요."
+    ],
+    "skipIf": [
+      "사이즈가 맞지 않으면 반품하려는데 상품 페이지에 반품 기한, 반송비 또는 반송 주소가 명확하지 않다면 AliExpress 구매를 보류하세요."
+    ]
+  },
+  "affiliate": [
+    "shein",
+    "aliexpress"
+  ],
+  "editorialNote": "이 글은 편집 콘텐츠입니다. SHEIN과 AliExpress 링크로 구매하면 수수료를 받을 수 있습니다. 팀원 누구도 사진 속 상품을 사용하지 않았습니다.",
+  "relatedArticles": [
+    {
+      "slug": "shein-vs-temu-vs-ali-ko"
+    },
+    {
+      "slug": "shein-trust-guide-ko"
+    },
+    {
+      "slug": "shein-referral-code-ko"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "답변 요약",
+      "paragraphs": [
+        "SHEIN은 반품 가능한 상품을 수령 후 60일 이내에 받지만, 일부 상품은 7일만 가능합니다. AliExpress는 단순 변심 반품이 수령 후 7일 이내이며 무료 반품 조건은 상품 페이지에서 확인해야 하므로, 반송비와 배송 예정일도 함께 비교하세요. SHEIN 앱이나 사이트에서 추천 코드 4CW5Y를 검색하면 지정 상품과 프로모션에서 할인받을 수 있습니다."
+      ]
+    },
+    {
+      "heading": "한국에서 SHEIN과 AliExpress 나란히 비교",
+      "image": {
+        "src": "/images/reviews/shein/shein-home-kr-2026-10-12.webp",
+        "alt": "한국 SHEIN 사이트(kr.shein.com) 첫 화면. 캡처 당시의 캠페인이 표시되어 있습니다",
+        "caption": "kr.shein.com 첫 화면. 캡처 당시의 캠페인이 표시되어 있습니다.",
+        "objectFit": "contain"
+      },
+      "paragraphs": [
+        "두 곳은 서로 다른 회사입니다. [SHEIN](https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20)은 2012년에 설립된 패션·라이프스타일 리테일러로 스스로를 소개하며, 자체 브랜드 상품과 공급업체 네트워크의 상품을 판매합니다. [AliExpress](https://s.click.aliexpress.com/e/_c37RSyBR)는 알리바바 그룹의 국제 마켓플레이스로, 상품마다 판매자가 있고 배송비, 배송 기간, 반품 조건을 각자 정합니다."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "항목",
+          "SHEIN",
+          "AliExpress"
+        ],
+        "rows": [
+          [
+            "배송비",
+            "이코노믹 배송: 전 상품 무료. 표준 배송: 26,000원 미만 3,000원, 26,000원 이상 무료",
+            "상품마다 다름. 우리가 연 상품(잠옷)은 이코노믹 배송 무료"
+          ],
+          [
+            "공개된 배송 기간",
+            "이코노믹 배송 3~5영업일, 표준 배송 2~5영업일",
+            "상품 페이지마다 표시되는 도착 예정일. 우리가 연 상품(잠옷)은 11월 23~28일, 환불 보장은 30일"
+          ],
+          [
+            "반품",
+            "수령 후 60일 이내. 일부 상품은 7일만 가능하며 상품 페이지에 표시. 첫 반품은 무료",
+            "개인 사유는 수령 후 7일 이내, 불량·파손·상품 설명과 다름은 수령 후 3개월 이내"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "SHEIN 열에는 쇼핑몰이 한국에 공개한 내용을 적었습니다. AliExpress 열에는 한국 정책과 상품 하나(잠옷)의 페이지에 표시된 내용을 적었으며, 다른 상품은 배송비와 기간이 다를 수 있습니다. 원피스 페이지에는 도착 예정일이 1월 2~17일로 표시되어 있었습니다. 같은 배송지로 각 상품의 예정일을 확인하지 않고는 어느 쪽이 먼저 도착하는지 판단할 수 없습니다. 내 주문의 예상 날짜를 비교하세요. 이 표의 AliExpress 사례가 아래 샘플 상품의 조건을 보장하지는 않습니다."
+      ]
+    },
+    {
+      "heading": "구매 전에 두 쇼핑몰에서 확인할 것",
+      "paragraphs": [
+        "AliExpress에서는 조건이 상품마다 다르고, 결제 전에 상품 페이지가 하나씩 보여 줍니다. SHEIN에서는 배송비와 반품이 쇼핑몰 정책을 따르고, 상품 페이지에 반품 가능 여부가 표시됩니다. 구매 전에 확인하세요."
+      ],
+      "bullets": [
+        "**판매자:** AliExpress는 판매자 상점 이름과 상점 평가를 보세요. SHEIN도 상품 페이지에 판매자와 평가가 표시됩니다.",
+        "**배송비와 도착 예정일:** AliExpress는 상품과 발송지에 따라 달라집니다.",
+        "**AliExpress의 환불 보장 날짜:** 그 날짜까지 상품이 도착하지 않으면 전액 환불을 요청할 수 있습니다.",
+        "**무료 반품 표시가 있는지:** 표시가 없으면 AliExpress에서 개인 사유로 반품할 때 반송비를 직접 부담합니다.",
+        "**배송비와 세금을 포함한 총액**은 각 쇼핑몰 결제 화면의 마지막 단계에서 확인하고, 이름과 개인통관고유부호가 정확한지도 보세요."
+      ],
+      "postParagraphs": [
+        "SHEIN을 누가 운영하고 평판이 어떤지는 [SHEIN(쉬인)은 믿을 만하고 안전한가요?](/ko/reviews/shein-trust-guide-ko)에 정리해 두었습니다."
+      ]
+    },
+    {
+      "heading": "세금과 관세: 최종 결제 금액 확인하기",
+      "paragraphs": [
+        "개인이 자가사용 목적으로 사는 물품은 [관세청 안내](https://www.customs.go.kr/kcs/ad/tax/BuyTaxCalculation.do)의 통관 방식과 면세 조건을 따릅니다. 세금은 쇼핑몰 이름만으로 정해지지 않고 통관 방식, 발송국, 상품 조건에 따라 달라집니다."
+      ],
+      "bullets": [
+        "**목록통관:** 물품가격 미화 150달러 이하가 기준이며, 미국에서 발송되는 목록통관 대상 물품은 200달러 이하까지 적용됩니다. 미국 발송이라는 이유만으로 모든 상품에 200달러 기준이 적용되는 것은 아닙니다.",
+        "**일반 수입신고:** 물품가격 150달러 이하가 면세 기준이며, 이를 넘으면 공제 없이 물품가격·국제운송비·보험료 등을 합한 과세가격에 세금이 붙습니다. 면세 기준의 물품가격에는 발송국 내 세금과 운송비 등이 포함되고, 명확히 구분되는 국제운송비·보험료는 제외할 수 있습니다."
+      ],
+      "postParagraphs": [
+        "개인통관고유부호는 [관세청 전자상거래 통관포털](https://ecos.customs.go.kr/ecp/index.do?mid=ECP_MNU_00000117)에서 본인인증을 거쳐 발급받을 수 있습니다. 결제 화면에서 두 쇼핑몰의 배송비와 세금을 포함한 최종 금액을 확인하세요."
+      ]
+    },
+    {
+      "heading": "반품: SHEIN의 규정과 AliExpress의 기한",
+      "bullets": [
+        "**SHEIN:** 수령 후 60일 이내입니다. 일부 상품은 7일만 가능하며 상품 페이지에 표시됩니다. 같은 주문의 첫 반품은 무료입니다.",
+        "**AliExpress, 마음이 바뀌었을 때:** 수령 후 7일 이내이며 반송비는 구매자가 부담합니다. 상품 페이지에 무료 반품이 표시된 경우는 예외이고, 한국에서 우리가 연 상품에는 무료 반품만 표시되고 기간은 적혀 있지 않았습니다.",
+        "**AliExpress, 불량·파손·상품 설명과 다를 때:** 수령 후 3개월 이내이며 반품 비용은 판매자가 부담합니다."
+      ],
+      "postParagraphs": [
+        "단순 변심 반품에 대해 확인한 정책은 옷이 새것이고, 입거나 세탁하지 않았으며, 택이 붙어 있을 것을 요구합니다. AliExpress는 위생 스티커도 필요합니다. SHEIN의 60일은 반품이 가능한 상품에 적용됩니다. AliExpress의 무료 반품은 상품마다 달라서 결제 전에 상품 페이지에서 확인해야 합니다."
+      ]
+    },
+    {
+      "heading": "구매 목적에 따라 고르기",
+      "postParagraphs": [
+        "받은 뒤에 마음이 바뀔 수 있는 옷이라면 SHEIN은 수령 후 60일 이내(일부 상품은 7일)이고, AliExpress는 개인 사유 반품이 수령 후 7일 이내입니다. 원하는 상품이 AliExpress에 있다면 결제 전에 상품 페이지에서 판매자, 도착 예정일, 환불 보장 날짜, 무료 반품 표시를 확인하세요. 배송비와 세금은 두 곳의 결제 화면 최종 금액으로 비교하세요."
+      ]
+    },
+    {
+      "heading": "각 쇼핑몰은 무엇을 파는지: 샘플",
+      "paragraphs": [
+        "두 쇼핑몰에서 비슷한 상품을 하나씩 골라, 옷과 액세서리 8개 카테고리로 나란히 놓았습니다. 같은 카테고리의 서로 다른 상품이며, 이 샘플은 각 쇼핑몰에서 어떤 종류의 상품을 볼 수 있는지 보여 줄 뿐 가격이나 품질을 비교하지 않습니다."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "alt": "빨간색 끈 나시 상의와 반바지 잠옷을 입은 모델. 목선에 레이스가 있다. AliExpress 사진",
+          "caption": "AliExpress: 목선에 레이스가 있는 끈 나시와 반바지 잠옷.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c2IwOmpF",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "alt": "빨간 하트 무늬 민소매와 반바지로 된 분홍색 잠옷을 입은 모델. SHEIN 사진",
+          "caption": "SHEIN: 하트 무늬 민소매와 반바지 잠옷 세트.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "alt": "파란색과 흰색 줄무늬 긴팔 셔츠를 입은 모델. 소매를 접었고 가슴에 주머니가 있다. AliExpress 사진",
+          "caption": "AliExpress: 가슴 주머니가 있는 긴팔 줄무늬 셔츠.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c2ztzRzr",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "alt": "연한 파란색 줄무늬의 조금 헐렁한 긴팔 셔츠를 입은 모델. SHEIN 사진",
+          "caption": "SHEIN: 조금 더 헐렁한 긴팔 줄무늬 셔츠.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "alt": "소매를 접은 남색 새틴 반팔 라운드넥 블라우스를 입은 모델. AliExpress 사진",
+          "caption": "AliExpress: 조금 더 헐렁한 반팔 새틴 블라우스.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c2ulsYCh",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "alt": "청바지에 흰색 브이넥 티셔츠를 입은 모델. SHEIN 사진",
+          "caption": "SHEIN: 흰색 면 브이넥 티셔츠.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "alt": "검은색 짧은 골지 원피스를 입은 모델. 하이넥에 긴팔이다. AliExpress 사진",
+          "caption": "AliExpress: 하이넥 긴팔 짧은 골지 원피스.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c4NO4eSN",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "alt": "골지 니트로 된 크림색 반팔 원피스를 입은 모델. SHEIN 사진",
+          "caption": "SHEIN: 크림색 반팔 니트 원피스.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "alt": "천 스트랩에 옆면 금색 체인이 달린 검은색 퀼팅 숄더백, AliExpress 사진",
+          "caption": "AliExpress: 금색 체인 장식의 퀼팅 숄더백.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c4l4snAh",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "alt": "모델의 어깨에 멘 짙은 갈색의 부드러운 합성 소재 숄더백. SHEIN 사진",
+          "caption": "SHEIN: 부드러운 합성 소재의 숄더백.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "alt": "교차 허리선의 파란색 심리스 레깅스를 입은 모델. AliExpress 사진",
+          "caption": "AliExpress: 교차 허리선의 심리스 레깅스.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c39SAC9x",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-legging.webp",
+          "alt": "앉아 있는 회청색 심리스 레깅스를 입은 모델. SHEIN 사진",
+          "caption": "SHEIN: 심리스 레깅스.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "alt": "찢어진 부분과 올이 풀린 밑단이 있는 와이드 레그 크롭 청바지를 입은 모델. AliExpress 사진",
+          "caption": "AliExpress: 찢어진 와이드 레그 크롭 청바지.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c3LfJg8p",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "alt": "연한 파란색 와이드 레그 청바지를 입은 모델. SHEIN 사진",
+          "caption": "SHEIN: 와이드 레그 청바지.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "alt": "밴드 스트랩 세 줄과 벨크로 여밈이 있는 갈색·크림색 운동화, AliExpress 사진",
+          "caption": "AliExpress: 밴드 스트랩과 벨크로 여밈 운동화.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c4qgkqgv",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "alt": "흰 천 위에 놓인 굽 없는 앞코가 뾰족한 검은색 로퍼 한 켤레. SHEIN 사진",
+          "caption": "SHEIN: 앞코가 뾰족한 로퍼.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C",
+          "store": "shein"
+        }
+      ],
+      "comparisonTable": {
+        "headers": [
+          "카테고리",
+          "AliExpress",
+          "SHEIN"
+        ],
+        "rows": [
+          [
+            "잠옷",
+            "[목선에 레이스가 있는 끈 나시와 반바지 잠옷](https://s.click.aliexpress.com/e/_c2IwOmpF)",
+            "[민소매와 하트 줄무늬 반바지 잠옷 세트](https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C)"
+          ],
+          [
+            "셔츠",
+            "[가슴 주머니가 있는 긴팔 줄무늬 셔츠](https://s.click.aliexpress.com/e/_c2ztzRzr)",
+            "[조금 더 헐렁한 긴팔 줄무늬 셔츠](https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C)"
+          ],
+          [
+            "블라우스·티셔츠",
+            "[조금 더 헐렁한 반팔 새틴 블라우스](https://s.click.aliexpress.com/e/_c2ulsYCh)",
+            "[흰색 면 브이넥 티셔츠](https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C)"
+          ],
+          [
+            "원피스",
+            "[하이넥 긴팔 짧은 골지 원피스](https://s.click.aliexpress.com/e/_c4NO4eSN)",
+            "[크림색 반팔 니트 원피스](https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C)"
+          ],
+          [
+            "가방",
+            "[금색 체인 장식의 퀼팅 숄더백](https://s.click.aliexpress.com/e/_c4l4snAh)",
+            "[부드러운 합성 소재의 숄더백](https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C)"
+          ],
+          [
+            "운동복",
+            "[교차 허리선의 심리스 레깅스](https://s.click.aliexpress.com/e/_c39SAC9x)",
+            "[심리스 레깅스](https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C)"
+          ],
+          [
+            "청바지",
+            "[찢어진 와이드 레그 크롭 청바지](https://s.click.aliexpress.com/e/_c3LfJg8p)",
+            "[와이드 레그 청바지](https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C)"
+          ],
+          [
+            "신발",
+            "[밴드 스트랩과 벨크로 여밈 운동화](https://s.click.aliexpress.com/e/_c4qgkqgv)",
+            "[앞코가 뾰족한 로퍼](https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C)"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "두 쇼핑몰 모두 상품 제목이 길고 검색용 단어로 가득해서, 샘플에서는 짧은 이름을 썼습니다. 소재, 치수, 판매자는 상품 페이지에서 확인하세요."
+      ]
+    },
+    {
+      "heading": "제휴와 추천 코드",
+      "paragraphs": [
+        "Cecília는 SHEIN과 AliExpress의 제휴(어필리에이트) 파트너로, 이 글의 링크로 구매하시면 추가 비용 없이 수수료를 받을 수 있습니다. 이 점이 답을 바꾸지는 않습니다. 무엇을 사는지에 따라 선택이 달라집니다.",
+        "4CW5Y는 Cecília의 SHEIN 추천 코드로, SHEIN이 고른 상품과 프로모션에서 할인이 됩니다. 할인 폭과 대상 상품은 SHEIN이 정합니다. Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하세요. 쿠폰 입력란에 입력하는 코드가 아닙니다. AliExpress에는 저희 코드가 없습니다."
+      ],
+      "links": [
+        {
+          "label": "4CW5Y 추천 코드와 SHEIN 캠페인 보기",
+          "href": "/ko/coupons/shein"
+        },
+        {
+          "label": "SHEIN 추천 코드: 입력하는 곳과 사용법",
+          "href": "/ko/reviews/shein-referral-code-ko"
+        },
+        {
+          "label": "AliExpress 열기",
+          "href": "https://s.click.aliexpress.com/e/_c37RSyBR",
+          "sponsored": true,
+          "store": "aliexpress"
+        },
+        {
+          "label": "SHEIN과 테무: 어떻게 고를까?",
+          "href": "/ko/reviews/shein-vs-temu-vs-ali-ko"
+        },
+        {
+          "label": "AliExpress 이용 방법: 규칙과 링크",
+          "href": "/ko/coupons/aliexpress"
+        }
+      ]
+    },
+    {
+      "heading": "자주 묻는 질문",
+      "bullets": [
+        "SHEIN과 AliExpress는 같은 곳인가요? 아닙니다. SHEIN은 2012년에 설립된 자체 브랜드 중심의 패션 리테일러로 스스로를 소개하고, AliExpress는 알리바바 그룹의 국제 마켓플레이스로 판매자마다 자기 상점이 있습니다.",
+        "SHEIN과 AliExpress 중 어디가 더 빨리 도착하나요? 주문과 상품 페이지에 따라 다릅니다. SHEIN은 이코노믹 배송 3~5영업일, 표준 배송 2~5영업일을 안내하고, AliExpress는 상품마다 도착 예정일을 표시합니다. 결제 전에 두 곳을 모두 확인하세요.",
+        "SHEIN과 AliExpress 중 어디가 더 저렴한가요? 상품과 판매자에 따라 다릅니다. 총액을 바꾸는 것은 배송비, 세금, 그리고 SHEIN의 추천 코드 할인입니다. 결제 화면의 최종 금액을 비교하세요.",
+        "AliExpress에서 옷을 사도 믿을 만한가요? AliExpress 정책에는 보장 날짜까지 상품이 도착하지 않으면 전액 환불을 요청할 수 있고, 새것이고 입지 않았고 택이 붙은 옷은 반품할 수 있다고 되어 있습니다.",
+        "4CW5Y는 할인이 되나요? 네. Cecília의 SHEIN 추천 코드로, SHEIN이 고른 상품과 프로모션에서 할인이 됩니다. 할인 폭과 대상 상품은 SHEIN이 정합니다. 앱이나 사이트에서 코드를 검색하세요. 쿠폰 입력란에 입력하는 코드가 아닙니다."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "id": 1031,
+  "slug": "shein-o-aliexpress-cual-elegir",
+  "locale": "es",
+  "translationKey": "shein-vs-aliexpress",
+  "title": "SHEIN o AliExpress: cómo elegir (envío, plazo, devolución e impuestos)",
+  "seoTitle": "SHEIN o AliExpress: cómo elegir para comprar",
+  "type": "Guía comparativa",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "SHEIN y AliExpress lado a lado en España y México: envío, plazo, devolución e impuestos según lo que publica cada tienda, y qué revisar en la página de cada anuncio.",
+  "metaDescription": "4CW5Y da descuento en una selección de SHEIN. SHEIN o AliExpress en España y México: envío, devolución e impuestos, y qué revisar en cada anuncio.",
+  "publishedAt": "17 de noviembre de 2026",
+  "publishedAtISO": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/shein/shein-ou-aliexpress-capa-es.webp",
+  "imageAlt": "Cuatro prendas en fotos de las tiendas: un vestido negro acanalado y una camisa de rayas de AliExpress, un vestido de punto color crema y una camisa de rayas de SHEIN, junto a la pregunta ¿SHEIN o AliExpress?",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "Elige AliExpress si la prenda que quieres está allí y su página muestra devolución gratis y una previsión de entrega que te sirve."
+    ],
+    "skipIf": [
+      "Descarta AliExpress si el anuncio no aclara el plazo, el coste o la dirección de devolución y necesitas poder devolver la prenda si no te queda bien."
+    ]
+  },
+  "affiliate": [
+    "shein",
+    "aliexpress"
+  ],
+  "editorialNote": "Este artículo es editorial. Podemos recibir comisión por los enlaces de SHEIN y AliExpress. Nadie del equipo usó las prendas mostradas.",
+  "relatedArticles": [
+    {
+      "slug": "shein-o-temu-cual-elegir"
+    },
+    {
+      "slug": "shein-es-confiable-y-seguro"
+    },
+    {
+      "slug": "codigo-de-referido-shein-donde-ponerlo"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Respuesta rápida",
+      "paragraphs": [
+        "SHEIN admite devoluciones de artículos elegibles hasta 30 días tras recibirlos en España y México. AliExpress publica plazos distintos según el vendedor y el anuncio: compara la fecha límite, el coste de devolución y la entrega prevista. En SHEIN, busca el código de referido 4CW5Y en la app o web para obtener descuento en una selección."
+      ]
+    },
+    {
+      "heading": "SHEIN y AliExpress lado a lado en España y México",
+      "image": {
+        "src": "/images/reviews/shein/shein-home-es-2026-10-12.webp",
+        "alt": "Página de inicio del sitio de SHEIN España (es.shein.com), con la campaña del día",
+        "caption": "Página de inicio de SHEIN España (es.shein.com), con la campaña del día.",
+        "objectFit": "contain"
+      },
+      "paragraphs": [
+        "Son empresas distintas. [SHEIN](https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20) se presenta como minorista de moda y estilo de vida, fundada en 2012, con ropa de marca propia y productos de una red de proveedores. [AliExpress](https://s.click.aliexpress.com/e/_c37RSyBR) es el marketplace internacional del grupo Alibaba: cada prenda la anuncia un vendedor, con su propio envío, plazo y condiciones de devolución."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Criterio",
+          "SHEIN",
+          "AliExpress"
+        ],
+        "rows": [
+          [
+            "Envío (España)",
+            "Estándar: 3,90 € por debajo de 29 €, gratis desde 29 €. Exprés: 7,90 €",
+            "Lo fija cada anuncio; en la prenda que abrimos, gratis a partir de 10 €"
+          ],
+          [
+            "Plazo publicado (España)",
+            "Estándar: 8 a 11 días laborables",
+            "La previsión de cada anuncio, con los días tras los que el reembolso queda garantizado si el paquete no llega (35 días en la prenda que abrimos)"
+          ],
+          [
+            "Devolución (España)",
+            "14 días de desistimiento por ley, desde la recepción; la mayoría de los artículos, hasta 30 días tras recibirlos según SHEIN; la primera devolución de cada pedido es gratis y desde la segunda se descuentan 3,90 € del reembolso",
+            "De la compra a 30 días tras la entrega con vendedor local; 90 días desde el pedido con vendedor del exterior; devolución gratis en la prenda que abrimos, durante 15 días"
+          ],
+          [
+            "Envío (México)",
+            "MX$180 por debajo del mínimo de envío gratis, que cambia en campaña (el habitual figura como MX$1.090)",
+            "Lo fija cada anuncio; gratis en la prenda que abrimos"
+          ],
+          [
+            "Plazo publicado (México)",
+            "Una estimación de llegada por pedido; la página da el 72,75 % de las entregas en hasta 6 días hábiles",
+            "La previsión de cada anuncio y la fecha de reembolso garantizado (45 días en la prenda que abrimos)"
+          ],
+          [
+            "Devolución (México)",
+            "Hasta 30 días tras recibir el pedido (180 días desde el pedido si llega con defecto o daño); la primera devolución es gratis y desde la segunda se descuentan MX$99 del reembolso",
+            "De la compra a 15 días tras la entrega con vendedor local; 90 días desde el pedido con vendedor del exterior; devolución gratis en la prenda que abrimos, durante 15 días"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "En SHEIN, la tabla recoge lo que la tienda publica para España y México. En AliExpress, la tabla recoge la política de devolución de cada mercado y lo que mostraba la página de una prenda el 17 de noviembre de 2026: el envío, la previsión y el plazo de devolución gratis son de ese anuncio, y otro puede ser distinto. Sin consultar los productos para el mismo destino, no podemos afirmar cuál llega antes. Compara las previsiones de tu pedido; los ejemplos de AliExpress de esta tabla no garantizan las condiciones de las prendas de la muestra siguiente."
+      ]
+    },
+    {
+      "heading": "Qué revisar en ambas tiendas antes de comprar",
+      "paragraphs": [
+        "En AliExpress, las condiciones son las del anuncio, y la página de la prenda muestra cada una antes del pago. En SHEIN, el envío y la devolución siguen la política de la tienda. Antes de comprar, revisa:"
+      ],
+      "bullets": [
+        "**Quién vende:** en AliExpress, el nombre de la tienda del vendedor y sus valoraciones; en SHEIN, la página de la prenda también muestra quién vende y las valoraciones.",
+        "**El envío y la previsión de entrega**, que en AliExpress cambian con el anuncio y con el lugar desde donde sale la prenda.",
+        "**La fecha de reembolso garantizado** de AliExpress: si el paquete no llega hasta ella, puedes pedir el importe total de vuelta.",
+        "**Si la prenda tiene devolución gratis** y durante cuántos días. Sin ella, la devolución por desistimiento en AliExpress la pagas tú.",
+        "**El total**, con envío e impuestos, al final del checkout de cada tienda, y tu nombre y dirección correctos en el pedido."
+      ],
+      "postParagraphs": [
+        "Para saber quién opera SHEIN y qué pesa en su reputación, lee [¿SHEIN es confiable y segura?](/es/reviews/shein-es-confiable-y-seguro)."
+      ]
+    },
+    {
+      "heading": "Impuestos y aduana",
+      "paragraphs": [
+        "En España, las importaciones desde fuera de la UE están sujetas al IVA y a las reglas aduaneras. Desde julio de 2026, se aplica un derecho temporal de 3 € por categoría de producto a los envíos de hasta 150 € incluidos en el [Reglamento (UE) 2026/382](https://eur-lex.europa.eu/eli/reg/2026/382/oj/eng).",
+        "Desde noviembre de 2026, también se aplica una tasa de gestión aduanera de 2 € por línea de declaración en el comercio electrónico importado. Es distinta del derecho de 3 € y no equivale automáticamente a 2 € por cada pieza física; consulta la [explicación de la aduana neerlandesa](https://www.douane.nl/en/themes/import-and-export/import/e-commerce/handling-fee-for-e-commerce/).",
+        "En España, la página de la prenda que abrimos en AliExpress dice «Price includes VAT | Import charges will apply»: el precio incluye el IVA y se aplicarán cargos de importación.",
+        "Antes de pagar, compara el total con envío, IVA y cargos de cada tienda: compartir las reglas no garantiza el mismo importe. Estas normas de la UE no se trasladan a México; revisa los cargos del pedido destinado allí."
+      ]
+    },
+    {
+      "heading": "Devolución: la regla de SHEIN y los plazos de AliExpress",
+      "bullets": [
+        "**SHEIN:** en España, 14 días de desistimiento por ley, desde la recepción, y la mayoría de los artículos hasta 30 días después de recibirlos según la política de SHEIN; la lencería, la ropa interior y la bisutería, solo dentro de los 14 días. En México, hasta 30 días después de recibir el pedido. La primera devolución de cada pedido es gratis; desde la segunda, SHEIN descuenta 3,90 € del reembolso en España y MX$99 en México.",
+        "**AliExpress, plazo:** en España, de la compra a 30 días tras la entrega con vendedor local y 90 días desde el pedido con vendedor del exterior; en México, 15 días tras la entrega con vendedor local y 90 días desde el pedido con vendedor del exterior. Si devuelves por motivo personal, pagas tú el envío, salvo que la página de la prenda anuncie devolución gratis (en la que abrimos, 15 días).",
+        "**AliExpress, con defecto, daño o diferencia con el anuncio:** paga la devolución el vendedor. Si el paquete no llega a la fecha de reembolso garantizado, puedes pedir el reembolso total."
+      ],
+      "postParagraphs": [
+        "Para devoluciones por cambio de opinión, las políticas consultadas exigen ropa nueva, sin uso, sin lavar y con etiqueta; en AliExpress, también con la pegatina de higiene. En España, la página de AliExpress recuerda además la garantía legal de 2 años y los 14 días de desistimiento. El plazo de SHEIN vale para los artículos que admiten devolución; en AliExpress, la devolución gratis es del anuncio, así que revisa la página antes de pagar."
+      ]
+    },
+    {
+      "heading": "Cuál elegir: qué conviene pesar",
+      "paragraphs": [
+        "SHEIN admite artículos elegibles hasta 30 días después de recibirlos en España y México. AliExpress publica 30 días tras la entrega con vendedor local en España, 15 en México y 90 desde el pedido con vendedor del exterior. Los plazos parten de fechas distintas: revisa cuánto tiempo queda al recibir la prenda, quién paga la devolución y a qué dirección se envía. Decide con esas condiciones, la entrega prevista y el coste final."
+      ]
+    },
+    {
+      "heading": "Qué vende cada una: una muestra",
+      "paragraphs": [
+        "Elegimos dos prendas parecidas, una de cada tienda, en ocho categorías de ropa y accesorios. Son prendas distintas de la misma categoría: la muestra enseña el tipo de prenda que encuentras en cada tienda, sin comparar precio ni calidad."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "alt": "Modelo con pijama rojo de tirantes y pantalón corto, con encaje en el escote, en una foto de AliExpress",
+          "caption": "AliExpress: pijama de tirantes y pantalón corto, con encaje en el escote",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c2IwOmpF",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "alt": "Modelo con pijama rosa de tirantes y pantalón corto con estampado de corazones rojos, en una foto de SHEIN",
+          "caption": "SHEIN: pijama de tirantes y pantalón corto con estampado de corazones.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "alt": "Modelo con camisa de rayas azules y blancas, de manga larga arremangada y con bolsillo en el pecho, en una foto de AliExpress",
+          "caption": "AliExpress: camisa de rayas de manga larga con bolsillo",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c2ztzRzr",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "alt": "Modelo con camisa de rayas azul claro, de manga larga, más holgada, en una foto de SHEIN",
+          "caption": "SHEIN: camisa de rayas de manga larga, más holgada.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "alt": "Modelo con blusa azul marino de satén, de manga corta doblada y cuello redondo, en una foto de AliExpress",
+          "caption": "AliExpress: blusa de satén de manga corta, más holgada",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c2ulsYCh",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "alt": "Modelo con camiseta blanca de cuello en V y vaqueros, en una foto de SHEIN",
+          "caption": "SHEIN: camiseta blanca de algodón con cuello en V.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "alt": "Modelo con vestido negro corto y acanalado, de cuello alto y manga larga, en una foto de AliExpress",
+          "caption": "AliExpress: vestido corto acanalado de cuello alto y manga larga",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c4NO4eSN",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "alt": "Modelo con vestido color crema de punto acanalado, de manga corta, en una foto de SHEIN",
+          "caption": "SHEIN: vestido de punto color crema de manga corta.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "alt": "Bolso de hombro negro acolchado, con asa de tela y una cadena dorada en el lateral, en foto de AliExpress",
+          "caption": "AliExpress: bolso de hombro acolchado con cadena dorada",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c4l4snAh",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "alt": "Bolso de hombro marrón oscuro de material sintético suave, colgado del hombro de una modelo, en una foto de SHEIN",
+          "caption": "SHEIN: bolso de hombro de material sintético suave.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "alt": "Modelo con leggings azules sin costuras y cintura cruzada, en una foto de AliExpress",
+          "caption": "AliExpress: leggings sin costuras de cintura cruzada",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c39SAC9x",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-legging.webp",
+          "alt": "Modelo sentada con leggings azul grisáceo sin costuras, en una foto de SHEIN",
+          "caption": "SHEIN: leggings sin costuras.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "alt": "Modelo con vaqueros capri de pernera ancha, con rotos y bajo deshilachado, en una foto de AliExpress",
+          "caption": "AliExpress: vaqueros capri de pernera ancha, con rotos",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c3LfJg8p",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "alt": "Modelo con vaqueros wide leg azul claro, en una foto de SHEIN",
+          "caption": "SHEIN: vaqueros wide leg.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "alt": "Zapatillas marrones y crema con tres tiras elásticas y cierre de velcro, en foto de AliExpress",
+          "caption": "AliExpress: zapatillas con tiras elásticas y cierre de velcro",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c4qgkqgv",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "alt": "Par de mocasines negros de punta fina, sin tacón, sobre una tela blanca, en una foto de SHEIN",
+          "caption": "SHEIN: mocasines de punta fina.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C",
+          "store": "shein"
+        }
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Categoría",
+          "AliExpress",
+          "SHEIN"
+        ],
+        "rows": [
+          [
+            "Pijama",
+            "[Pijama de tirantes y pantalón corto, con encaje en el escote](https://s.click.aliexpress.com/e/_c2IwOmpF)",
+            "[Pijama de tirantes y pantalón corto a rayas con corazones](https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C)"
+          ],
+          [
+            "Camisa",
+            "[Camisa de rayas de manga larga con bolsillo](https://s.click.aliexpress.com/e/_c2ztzRzr)",
+            "[Camisa de rayas de manga larga, más holgada](https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C)"
+          ],
+          [
+            "Blusas y camisetas",
+            "[Blusa de satén de manga corta, más holgada](https://s.click.aliexpress.com/e/_c2ulsYCh)",
+            "[Camiseta blanca de algodón con cuello en V](https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C)"
+          ],
+          [
+            "Vestido",
+            "[Vestido corto acanalado de cuello alto y manga larga](https://s.click.aliexpress.com/e/_c4NO4eSN)",
+            "[Vestido de punto color crema de manga corta](https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C)"
+          ],
+          [
+            "Bolso",
+            "[Bolso de hombro acolchado con cadena dorada](https://s.click.aliexpress.com/e/_c4l4snAh)",
+            "[Bolso de hombro de material sintético suave](https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C)"
+          ],
+          [
+            "Ropa deportiva",
+            "[Leggings sin costuras de cintura cruzada](https://s.click.aliexpress.com/e/_c39SAC9x)",
+            "[Leggings sin costuras](https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C)"
+          ],
+          [
+            "Vaqueros",
+            "[Vaqueros capri de pernera ancha, con rotos](https://s.click.aliexpress.com/e/_c3LfJg8p)",
+            "[Vaqueros wide leg](https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C)"
+          ],
+          [
+            "Calzado",
+            "[Zapatillas con tiras elásticas y cierre de velcro](https://s.click.aliexpress.com/e/_c4qgkqgv)",
+            "[Mocasines de punta fina](https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C)"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Los títulos de los anuncios, en las dos tiendas, son largos y están llenos de palabras de búsqueda; la muestra usa un nombre corto. El tejido, las medidas y quién vende están en la página de la prenda."
+      ]
+    },
+    {
+      "heading": "Colaboración y código de referido",
+      "paragraphs": [
+        "Cecília es afiliada de SHEIN y AliExpress y puede recibir una comisión por las compras hechas a través de los enlaces de este artículo, sin costo adicional para ti. Eso no cambia la respuesta: la elección depende de lo que vayas a comprar.",
+        "4CW5Y es el código de referido de Cecília en SHEIN y sí da descuento, en una selección de productos y promociones de SHEIN; cuánto y en qué prendas lo decide SHEIN. Abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio, no en el campo del cupón. AliExpress no tiene código nuestro."
+      ],
+      "links": [
+        {
+          "label": "Ver el código de referido 4CW5Y y las campañas de SHEIN",
+          "href": "/es/coupons/shein"
+        },
+        {
+          "label": "Código de referido de SHEIN: dónde ponerlo y cómo usarlo",
+          "href": "/es/reviews/codigo-de-referido-shein-donde-ponerlo"
+        },
+        {
+          "label": "Abrir AliExpress",
+          "href": "https://s.click.aliexpress.com/e/_c37RSyBR",
+          "sponsored": true,
+          "store": "aliexpress"
+        },
+        {
+          "label": "SHEIN o Temu: cómo elegir",
+          "href": "/es/reviews/shein-o-temu-cual-elegir"
+        },
+        {
+          "label": "Cómo funciona AliExpress: reglas y enlace",
+          "href": "/es/coupons/aliexpress"
+        }
+      ]
+    },
+    {
+      "heading": "Preguntas frecuentes",
+      "bullets": [
+        "¿SHEIN y AliExpress son lo mismo? No. SHEIN se describe como minorista de moda con marca propia, fundada en 2012; AliExpress es el marketplace internacional del grupo Alibaba, donde cada vendedor tiene su propia tienda.",
+        "¿Cuál llega más rápido, SHEIN o AliExpress? Depende del pedido y, en AliExpress, del anuncio. SHEIN publica de 8 a 11 días laborables para el envío estándar en España, y AliExpress muestra la previsión de cada prenda. Compara las dos antes de pagar.",
+        "¿Cuál es más barata, SHEIN o AliExpress? Depende de la prenda y del vendedor. Lo que cambia el total es el envío, los impuestos y, en SHEIN, el descuento del código de referido. Compara el total al final del checkout.",
+        "¿AliExpress es confiable para comprar ropa? La política de AliExpress prevé el reembolso total si el paquete no llega a la fecha garantizada y acepta devolver ropa nueva, sin uso y con etiqueta.",
+        "¿El código 4CW5Y da descuento? Sí. Es el código de referido de Cecília en SHEIN y da descuento en una selección de productos y promociones; cuánto y en qué prendas lo decide SHEIN. Búscalo en la app o en el sitio, no en el campo del cupón."
+      ]
+    }
+  ]
+}

@@ -1,4 +1,6 @@
-// Gera 4-saida/recomendacoes.md a partir de 3-matriz/matriz.csv. Só entram linhas com estado_revisao = pronta.
+// Gera 4-saida/recomendacoes.md a partir de 3-matriz/matriz.csv e de 4-saida/decisoes.json.
+// Só entram linhas com estado_revisao = pronta. "pronta" quer dizer revisão concluída, não autorização nem execução:
+// decisão do Bruno e execução ficam em decisoes.json, uma entrada por oportunidade.
 // Uso, de qualquer pasta: node gerar-recomendacoes.cjs
 const fs = require('fs');
 const path = require('path');
@@ -53,10 +55,22 @@ const RESSALVA = {
   'op-lamazonie-0028': 'Quase sem sinal de busca; entra pela relevância comercial. Se o código não entrar na segunda página do sérum, a ação encolhe para o aviso que o guia de Black Friday já dá.',
 };
 
+const DECISOES = JSON.parse(fs.readFileSync(path.join(__dirname, 'decisoes.json'), 'utf8'));
+// Ideias que a revisão pediu para apresentar como não recomendadas agora (REVISAO.md, segunda passada).
+const REGISTRO = new Set(['op-lamazonie-0018', 'op-lamazonie-0019']);
+const decisao = (id) => {
+  const d = DECISOES[id];
+  if (!d) return '- **Decisão do Bruno:** em espera';
+  return `- **Decisão do Bruno:** ${d.decisao}, em ${d.data}\n- **Execução:** ${d.execucao} (${d.evidencia})`;
+};
+
 const contar = (v) => (v.startsWith('@') ? v : `${v.split('|').length} (ids na matriz)`);
 const ordem = { alta: 0, media: 1, baixa: 2 };
-const acoes = ops.filter((o) => o.acao !== 'manter').sort((a, b) => ordem[a.prioridade] - ordem[b.prioridade] || a.oportunidade_id.localeCompare(b.oportunidade_id));
+const comAcao = ops.filter((o) => o.acao !== 'manter').sort((a, b) => ordem[a.prioridade] - ordem[b.prioridade] || a.oportunidade_id.localeCompare(b.oportunidade_id));
+const acoes = comAcao.filter((o) => !REGISTRO.has(o.oportunidade_id));
+const registro = comAcao.filter((o) => REGISTRO.has(o.oportunidade_id));
 const manter = ops.filter((o) => o.acao === 'manter');
+const decididas = Object.keys(DECISOES).length;
 
 const out = [];
 out.push(`# Recomendações: L'Amazonie
@@ -64,8 +78,12 @@ out.push(`# Recomendações: L'Amazonie
 Gerado por \`gerar-recomendacoes.cjs\` a partir de \`3-matriz/matriz.csv\`. Não editar à mão: mudar a matriz e gerar de
 novo. Primeiro piloto do Programa de Demanda, com coletas de 17/11/2026.
 
-**Estado: ${ops.length} oportunidades revisadas (${acoes.length} com ação e ${manter.length} de manter). Todas passaram pela revisão
-independente (\`3-matriz/REVISAO.md\`, duas passadas). Nenhuma foi decidida pelo Bruno ainda.**
+**Estado: ${ops.length} oportunidades revisadas: ${acoes.length} com ação recomendada, ${registro.length} ideias registradas e não recomendadas agora, e
+${manter.length} de manter. Todas passaram pela revisão independente (\`3-matriz/REVISAO.md\`, duas passadas). ${decididas} têm decisão do
+Bruno registrada em \`decisoes.json\`; as outras esperam.**
+
+Revisão, decisão e execução são coisas diferentes: a matriz guarda o estado da revisão; a decisão do Bruno e o que já
+foi executado estão em \`decisoes.json\` e aparecem em cada item.
 
 Como ler: cada item traz o que a matriz registra. As métricas não são copiadas; os ids de evidência estão na linha da
 matriz e levam ao bruto. Fato e leitura estão separados em \`3-matriz/LEITURA.md\`. O programa não mexe na Fila de
@@ -73,7 +91,7 @@ Pautas: o que o Bruno aprovar segue para o destino indicado.
 
 ## Ordem sugerida
 
-1. \`op-lamazonie-0027\`: testar o código na oferta anunciada, **até 26/11**.
+1. \`op-lamazonie-0027\`: testar o código na oferta anunciada, até 26/11. **Feito em 17/11.**
 2. \`op-lamazonie-0029\`: pedir à parceira a lista de ingredientes e o número do processo de cada produto.
 3. \`op-lamazonie-0007\`: atualizar o guia de Black Friday na semana de 27/11, com o resultado da primeira.
 
@@ -100,9 +118,19 @@ for (const o of acoes) {
 - **Pendências e notas:** ${o.notas}${RESSALVA[o.oportunidade_id] ? `\n- **Ressalva da coordenação:** ${RESSALVA[o.oportunidade_id]}` : ''}
 - **Destino, se aprovada:** ${DESTINO_POR_ID[o.oportunidade_id] || DESTINO_POR_ACAO[o.acao]}
 - **Revisado por:** sessão de revisão independente, 17/11/2026
-- **Decisão do Bruno:** em espera
+${decisao(o.oportunidade_id)}
 `);
 }
+
+out.push(`## Ideias registradas, não recomendadas agora
+
+A revisão pediu que estas linhas não fossem lidas como pauta de prioridade baixa. Ficam como registro: só voltam a
+ser avaliadas se a dependência se resolver e o Bruno decidir.
+
+| Oportunidade | Ideia | O que falta para reavaliar |
+|---|---|---|`);
+for (const o of registro) out.push(`| \`${o.oportunidade_id}\` | ${o.intencao.replace(/\|/g, '/')} | ${o.dependencias.replace(/\|/g, '/')} |`);
+out.push('');
 
 out.push(`## Manter como está
 
@@ -115,4 +143,4 @@ for (const o of manter) out.push(`| \`${o.oportunidade_id}\` | ${cel(o.intencao)
 out.push('');
 
 fs.writeFileSync(path.join(__dirname, 'recomendacoes.md'), out.join('\n'));
-console.log(`recomendacoes.md: ${acoes.length} com ação, ${manter.length} de manter`);
+console.log(`recomendacoes.md: ${acoes.length} com ação, ${registro.length} de registro, ${manter.length} de manter, ${decididas} decididas`);

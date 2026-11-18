@@ -1,9 +1,11 @@
 # Leitura da matriz: L'Amazonie
 
-**Estado: revisada uma vez, com linhas ainda em revisão.** Escrita pela sessão da etapa 5 (analista, Claude Fable
-5.2) em 17/11/2026 e corrigida no mesmo dia depois da revisão independente (`REVISAO.md`, nesta pasta). A matriz tem
-29 oportunidades (`op-lamazonie-0001` a `0029`): 20 `pronta` e 9 `em-revisao` (as seis devolvidas pelo revisor, já
-corrigidas, e três linhas novas). Nada daqui foi para `4-saida/recomendacoes.md` nem para a Fila de Pautas.
+**Estado: revisão concluída, 29 de 29 linhas `pronta`.** Escrita pela sessão da etapa 5 (analista, Claude Fable 5.2)
+em 17/11/2026 e corrigida no mesmo dia depois da revisão independente (`REVISAO.md`, nesta pasta). A matriz tem 29
+oportunidades (`op-lamazonie-0001` a `0029`). A primeira passada aprovou 20 e devolveu 6; a segunda passada do
+`REVISAO.md` aprovou as 6 corrigidas e as 3 linhas novas, sem devolver nem recusar nenhuma. `pronta` quer dizer
+revisão concluída, não decisão do Bruno: nenhuma foi decidida por ele. As recomendações estão em
+`4-saida/recomendacoes.md`, geradas pela coordenação a partir da matriz; nada foi para a Fila de Pautas.
 
 Nesta leitura, os ids aparecem abreviados: `op-0007` é `op-lamazonie-0007`, `sin-0064` é `sin-lamazonie-0064`, e
 assim por diante. Onde a evidência não tem linha no `sinais.csv`, cito o arquivo de `1-bruto/`.
@@ -252,22 +254,22 @@ quatro etapas de coleta renderam menos novidade do que custaram, e a revisão re
 
 | Oportunidade | Ação | Prioridade | Estado | Por quê | Dependências |
 |---|---|---|---|---|---|
-| `op-0027` | atualizar-fatos (testar o código na oferta anunciada) | alta | em-revisao | A loja anuncia a oferta com fim em 26/11; o guia diz que não testamos | Abrir a página, guardar e testar antes de 26/11 |
-| `op-0007` | atualizar-fatos (guia de Black Friday e pergunta da página de cupom) | alta | em-revisao | Prazo de 27/11 e três perguntas em cobertura parcial; falta a ressalva do anúncio | `op-0027`, releitura na semana de 27/11, resposta do Bruno sobre regulamento e oferta de criadoras |
-| `op-0029` | atualizar-fatos (lista de ingredientes e número do processo, pedido à marca) | alta | em-revisao | Destrava quatro linhas e a pergunta de composição | Pedido do Bruno à parceira, ou foto do rótulo nos anúncios oficiais |
-| `op-0008` | melhorar-capitulo (composição, no "é boa") | media | em-revisao | Pergunta repetida, sem a lista completa em lugar nenhum | `op-0029` |
+| `op-0027` | atualizar-fatos (testar o código na oferta anunciada) | alta | pronta | A loja anuncia a oferta com fim em 26/11; o guia diz que não testamos | Abrir a página, guardar e testar antes de 26/11 |
+| `op-0007` | atualizar-fatos (guia de Black Friday e pergunta da página de cupom) | alta | pronta | Prazo de 27/11 e três perguntas em cobertura parcial; falta a ressalva do anúncio | `op-0027`, releitura na semana de 27/11, resposta do Bruno sobre regulamento e oferta de criadoras |
+| `op-0029` | atualizar-fatos (lista de ingredientes e número do processo, pedido à marca) | alta | pronta | Destrava quatro linhas e a pergunta de composição | Pedido do Bruno à parceira, ou foto do rótulo nos anúncios oficiais |
+| `op-0008` | melhorar-capitulo (composição, no "é boa") | media | pronta | Pergunta repetida, sem a lista completa em lugar nenhum | `op-0029` |
 | `op-0009` | melhorar-capitulo (antes e depois e prazo, no "é boa") | media | pronta | Busca que completa e que o artigo não usa; resposta em fonte pública | Reler ficha, página de resultados e garantia |
-| `op-0012` | melhorar-capitulo (site ou Mercado Livre, por quantidade) | media | em-revisao | Marketplace abaixo do site no avulso; a partir de dois frascos o site com o código tem argumento | Link de afiliado do Mercado Livre, resposta do Bruno, preço lido pelo botão |
+| `op-0012` | melhorar-capitulo (site ou Mercado Livre, por quantidade) | media | pronta | Marketplace abaixo do site no avulso; a partir de dois frascos o site com o código tem argumento | Link de afiliado do Mercado Livre, resposta do Bruno, preço lido pelo botão |
 | `op-0013` | melhorar-pagina-cupom (pergunta sobre o Mercado Livre) | media | pronta | Fato já conferido, custo de uma pergunta | Nenhuma de dado; sessão de cupons |
-| `op-0028` | melhorar-capitulo (menor preço dentro do site) | media | em-revisao | Mesmo produto com preço diferente por página; ajuda a vender com o código | Teste de carrinho nas páginas; confirmar que são públicas |
+| `op-0028` | melhorar-capitulo (menor preço dentro do site) | media | pronta | Mesmo produto com preço diferente por página; ajuda a vender com o código | Teste de carrinho nas páginas; confirmar que são públicas |
 | `op-0010` | melhorar-capitulo (perguntas literais no "é boa") | baixa | pronta | "Para que serve" e "nos cílios" como pergunta | Nenhuma |
-| `op-0011` | melhorar-capitulo (relato de reação) | baixa | em-revisao | Uma frase da resposta de IA e uma reclamação sem bruto; antes é coleta | Reabrir a reclamação e guardar |
+| `op-0011` | melhorar-capitulo (relato de reação) | baixa | pronta | Uma frase da resposta de IA e uma reclamação sem bruto; antes é coleta | Reabrir a reclamação e guardar |
 | `op-0015` | links-internos | baixa | pronta | Três artigos sem link no corpo para o "é boa" | Nenhuma |
 | `op-0014` | atualizar-fatos (cashback e mínimo) | baixa | pronta | Lacuna de cobertura sem busca de fora | Resposta da parceira |
 | `op-0016` | atualizar-fatos (nota do Reclame Aqui) | baixa | pronta | A nota muda com o recorte | Virada do recorte, em dezembro |
 | `op-0017` | video (caminho do cupom) | baixa | pronta | Pouca concorrência em vídeo, sem sinal de procura | Decisão do Bruno e da Cecília; coleta do YouTube por cupom |
-| `op-0018` | criar-artigo (creme clareador) | baixa | em-revisao | Nome completa, sem pergunta de decisão; o fato útil foi para a `op-0028` | Decisão do Bruno, fórmula confirmada, teste de carrinho |
-| `op-0019` | criar-artigo (Sérum Vitamina C20) | baixa | em-revisao | Motivo comercial, busca só pelo nome | Decisão do Bruno; lista de ingredientes |
+| `op-0018` | criar-artigo (creme clareador) | baixa | pronta | Nome completa, sem pergunta de decisão; o fato útil foi para a `op-0028` | Decisão do Bruno, fórmula confirmada, teste de carrinho |
+| `op-0019` | criar-artigo (Sérum Vitamina C20) | baixa | pronta | Motivo comercial, busca só pelo nome | Decisão do Bruno; lista de ingredientes |
 | `op-0020` | criar-artigo (protetor FPS 99 e bastão FPS 95) | baixa | pronta | Nome completa, sem pergunta de decisão | Fichas não lidas, lista de ingredientes, teste de carrinho |
 | `op-0001` a `0006` | manter (página de cupom e cinco artigos) | baixa | pronta | Um dia no ar, sem dado; cobrem as buscas que existem | Export do Search Console depois de 30/11 |
 | `op-0021` a `0026` | manter (não criar: temas amplos, gel e e-books, comparativo) | baixa | pronta | A loja não aparece e não há fato nosso | Nenhuma, salvo a lista de ingredientes na `0021` |

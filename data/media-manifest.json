@@ -125609,6 +125609,1454 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+      "local_url": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 79320,
+      "sha256": "cee70e8de92d6cb425924e4a08374fc39e8bd715249542f2e4d9d59499324bd5",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-aliexpress-bolsa.webp",
+      "storage_filename": "amostra-aliexpress-bolsa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-aliexpress-come-scegliere.json",
+        "content/reviews/shein-o-aliexpress-cual-elegir.json",
+        "content/reviews/shein-oder-aliexpress-was-waehlen.json",
+        "content/reviews/shein-ou-aliexpress-comment-choisir.json",
+        "content/reviews/shein-ou-aliexpress-qual-escolher.json",
+        "content/reviews/shein-vs-aliexpress-ja.json",
+        "content/reviews/shein-vs-aliexpress-ko.json",
+        "content/reviews/shein-vs-aliexpress-which-to-choose.json",
+        "content/reviews/shein-vs-aliexpress-zh-hans.json",
+        "content/reviews/shein-vs-aliexpress-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-aliexpress-come-scegliere.json",
+          "line": 222,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-aliexpress-cual-elegir.json",
+          "line": 238,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-aliexpress-was-waehlen.json",
+          "line": 222,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-aliexpress-comment-choisir.json",
+          "line": 222,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-aliexpress-qual-escolher.json",
+          "line": 258,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-ja.json",
+          "line": 222,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-ko.json",
+          "line": 227,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-which-to-choose.json",
+          "line": 220,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-zh-hans.json",
+          "line": 228,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-zh-hant.json",
+          "line": 227,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250166,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250553,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250958,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 251347,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 251736,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252125,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252514,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252908,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 253302,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 253697,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/cee70e8de92d6cb425924e4a08374fc39e8bd715249542f2e4d9d59499324bd5/amostra-aliexpress-bolsa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cee70e8de92d6cb425924e4a08374fc39e8bd715249542f2e4d9d59499324bd5/amostra-aliexpress-bolsa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:14:07.122Z",
+      "verification_etag_or_digest": "cee70e8de92d6cb425924e4a08374fc39e8bd715249542f2e4d9d59499324bd5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-aliexpress-calcado.webp",
+      "local_url": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 118564,
+      "sha256": "1ae4ef07d905a4f2761d81fd6a6571d7ca0bc7b669b44997a3472a4aa799671d",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-aliexpress-calcado.webp",
+      "storage_filename": "amostra-aliexpress-calcado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-aliexpress-come-scegliere.json",
+        "content/reviews/shein-o-aliexpress-cual-elegir.json",
+        "content/reviews/shein-oder-aliexpress-was-waehlen.json",
+        "content/reviews/shein-ou-aliexpress-comment-choisir.json",
+        "content/reviews/shein-ou-aliexpress-qual-escolher.json",
+        "content/reviews/shein-vs-aliexpress-ja.json",
+        "content/reviews/shein-vs-aliexpress-ko.json",
+        "content/reviews/shein-vs-aliexpress-which-to-choose.json",
+        "content/reviews/shein-vs-aliexpress-zh-hans.json",
+        "content/reviews/shein-vs-aliexpress-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-aliexpress-come-scegliere.json",
+          "line": 276,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-aliexpress-cual-elegir.json",
+          "line": 292,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-aliexpress-was-waehlen.json",
+          "line": 276,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-aliexpress-comment-choisir.json",
+          "line": 276,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-aliexpress-qual-escolher.json",
+          "line": 312,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-ja.json",
+          "line": 276,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-ko.json",
+          "line": 281,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-which-to-choose.json",
+          "line": 274,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-zh-hans.json",
+          "line": 282,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-zh-hant.json",
+          "line": 281,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250220,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250607,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 251012,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 251401,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 251790,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252179,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252568,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252962,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 253356,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 253751,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1ae4ef07d905a4f2761d81fd6a6571d7ca0bc7b669b44997a3472a4aa799671d/amostra-aliexpress-calcado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1ae4ef07d905a4f2761d81fd6a6571d7ca0bc7b669b44997a3472a4aa799671d/amostra-aliexpress-calcado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:14:07.516Z",
+      "verification_etag_or_digest": "1ae4ef07d905a4f2761d81fd6a6571d7ca0bc7b669b44997a3472a4aa799671d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+      "local_url": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 216310,
+      "sha256": "e04c9732e28da226203b65072c7f06bf7d4d6842d31a582e31e0a835cc5f98b1",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-aliexpress-camisa-listrada.webp",
+      "storage_filename": "amostra-aliexpress-camisa-listrada.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-aliexpress-come-scegliere.json",
+        "content/reviews/shein-o-aliexpress-cual-elegir.json",
+        "content/reviews/shein-oder-aliexpress-was-waehlen.json",
+        "content/reviews/shein-ou-aliexpress-comment-choisir.json",
+        "content/reviews/shein-ou-aliexpress-qual-escolher.json",
+        "content/reviews/shein-vs-aliexpress-ja.json",
+        "content/reviews/shein-vs-aliexpress-ko.json",
+        "content/reviews/shein-vs-aliexpress-which-to-choose.json",
+        "content/reviews/shein-vs-aliexpress-zh-hans.json",
+        "content/reviews/shein-vs-aliexpress-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-aliexpress-come-scegliere.json",
+          "line": 168,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-aliexpress-cual-elegir.json",
+          "line": 184,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-aliexpress-was-waehlen.json",
+          "line": 168,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-aliexpress-comment-choisir.json",
+          "line": 168,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-aliexpress-qual-escolher.json",
+          "line": 204,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-ja.json",
+          "line": 168,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-ko.json",
+          "line": 173,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-which-to-choose.json",
+          "line": 166,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-zh-hans.json",
+          "line": 174,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-zh-hant.json",
+          "line": 173,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250112,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250499,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250904,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 251293,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 251682,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252071,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252460,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252854,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 253248,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 253643,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e04c9732e28da226203b65072c7f06bf7d4d6842d31a582e31e0a835cc5f98b1/amostra-aliexpress-camisa-listrada.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e04c9732e28da226203b65072c7f06bf7d4d6842d31a582e31e0a835cc5f98b1/amostra-aliexpress-camisa-listrada.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:14:07.927Z",
+      "verification_etag_or_digest": "e04c9732e28da226203b65072c7f06bf7d4d6842d31a582e31e0a835cc5f98b1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+      "local_url": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 52212,
+      "sha256": "ce12bb2ae3287ce061706090c2534b426c28d80cc635a3aecc869dbd4d3b855c",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-aliexpress-camiseta.webp",
+      "storage_filename": "amostra-aliexpress-camiseta.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-aliexpress-come-scegliere.json",
+        "content/reviews/shein-o-aliexpress-cual-elegir.json",
+        "content/reviews/shein-oder-aliexpress-was-waehlen.json",
+        "content/reviews/shein-ou-aliexpress-comment-choisir.json",
+        "content/reviews/shein-ou-aliexpress-qual-escolher.json",
+        "content/reviews/shein-vs-aliexpress-ja.json",
+        "content/reviews/shein-vs-aliexpress-ko.json",
+        "content/reviews/shein-vs-aliexpress-which-to-choose.json",
+        "content/reviews/shein-vs-aliexpress-zh-hans.json",
+        "content/reviews/shein-vs-aliexpress-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-aliexpress-come-scegliere.json",
+          "line": 186,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-aliexpress-cual-elegir.json",
+          "line": 202,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-aliexpress-was-waehlen.json",
+          "line": 186,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-aliexpress-comment-choisir.json",
+          "line": 186,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-aliexpress-qual-escolher.json",
+          "line": 222,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-ja.json",
+          "line": 186,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-ko.json",
+          "line": 191,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-which-to-choose.json",
+          "line": 184,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-zh-hans.json",
+          "line": 192,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-zh-hant.json",
+          "line": 191,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250130,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250517,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250922,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 251311,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 251700,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252089,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252478,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252872,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 253266,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 253661,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ce12bb2ae3287ce061706090c2534b426c28d80cc635a3aecc869dbd4d3b855c/amostra-aliexpress-camiseta.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ce12bb2ae3287ce061706090c2534b426c28d80cc635a3aecc869dbd4d3b855c/amostra-aliexpress-camiseta.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:14:08.282Z",
+      "verification_etag_or_digest": "ce12bb2ae3287ce061706090c2534b426c28d80cc635a3aecc869dbd4d3b855c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-aliexpress-jeans.webp",
+      "local_url": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 129390,
+      "sha256": "0404354227fc5622309985623f3584ca40d59f5bd968503b6dded6fa0b773ffa",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-aliexpress-jeans.webp",
+      "storage_filename": "amostra-aliexpress-jeans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-aliexpress-come-scegliere.json",
+        "content/reviews/shein-o-aliexpress-cual-elegir.json",
+        "content/reviews/shein-oder-aliexpress-was-waehlen.json",
+        "content/reviews/shein-ou-aliexpress-comment-choisir.json",
+        "content/reviews/shein-ou-aliexpress-qual-escolher.json",
+        "content/reviews/shein-vs-aliexpress-ja.json",
+        "content/reviews/shein-vs-aliexpress-ko.json",
+        "content/reviews/shein-vs-aliexpress-which-to-choose.json",
+        "content/reviews/shein-vs-aliexpress-zh-hans.json",
+        "content/reviews/shein-vs-aliexpress-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-aliexpress-come-scegliere.json",
+          "line": 258,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-aliexpress-cual-elegir.json",
+          "line": 274,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-aliexpress-was-waehlen.json",
+          "line": 258,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-aliexpress-comment-choisir.json",
+          "line": 258,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-aliexpress-qual-escolher.json",
+          "line": 294,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-ja.json",
+          "line": 258,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-ko.json",
+          "line": 263,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-which-to-choose.json",
+          "line": 256,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-zh-hans.json",
+          "line": 264,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-zh-hant.json",
+          "line": 263,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250202,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250589,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250994,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 251383,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 251772,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252161,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252550,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252944,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 253338,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 253733,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0404354227fc5622309985623f3584ca40d59f5bd968503b6dded6fa0b773ffa/amostra-aliexpress-jeans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0404354227fc5622309985623f3584ca40d59f5bd968503b6dded6fa0b773ffa/amostra-aliexpress-jeans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:14:08.669Z",
+      "verification_etag_or_digest": "0404354227fc5622309985623f3584ca40d59f5bd968503b6dded6fa0b773ffa",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-aliexpress-legging.webp",
+      "local_url": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 80052,
+      "sha256": "962659ecbddca9ec9c4269fed6ea0eb00c39603ecfbe71f76c899fdcecd9e422",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-aliexpress-legging.webp",
+      "storage_filename": "amostra-aliexpress-legging.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-aliexpress-come-scegliere.json",
+        "content/reviews/shein-o-aliexpress-cual-elegir.json",
+        "content/reviews/shein-oder-aliexpress-was-waehlen.json",
+        "content/reviews/shein-ou-aliexpress-comment-choisir.json",
+        "content/reviews/shein-ou-aliexpress-qual-escolher.json",
+        "content/reviews/shein-vs-aliexpress-ja.json",
+        "content/reviews/shein-vs-aliexpress-ko.json",
+        "content/reviews/shein-vs-aliexpress-which-to-choose.json",
+        "content/reviews/shein-vs-aliexpress-zh-hans.json",
+        "content/reviews/shein-vs-aliexpress-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-aliexpress-come-scegliere.json",
+          "line": 240,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-aliexpress-cual-elegir.json",
+          "line": 256,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-aliexpress-was-waehlen.json",
+          "line": 240,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-aliexpress-comment-choisir.json",
+          "line": 240,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-aliexpress-qual-escolher.json",
+          "line": 276,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-ja.json",
+          "line": 240,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-ko.json",
+          "line": 245,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-which-to-choose.json",
+          "line": 238,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-zh-hans.json",
+          "line": 246,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-zh-hant.json",
+          "line": 245,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250184,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250571,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250976,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 251365,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 251754,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252143,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252532,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252926,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 253320,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 253715,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/962659ecbddca9ec9c4269fed6ea0eb00c39603ecfbe71f76c899fdcecd9e422/amostra-aliexpress-legging.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/962659ecbddca9ec9c4269fed6ea0eb00c39603ecfbe71f76c899fdcecd9e422/amostra-aliexpress-legging.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:14:09.085Z",
+      "verification_etag_or_digest": "962659ecbddca9ec9c4269fed6ea0eb00c39603ecfbe71f76c899fdcecd9e422",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-aliexpress-pijama.webp",
+      "local_url": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 71160,
+      "sha256": "08890519bd7743809e3be8eabcf0a3f1bfdc9cd7ef91878c36ddbe5c9131a822",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-aliexpress-pijama.webp",
+      "storage_filename": "amostra-aliexpress-pijama.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-aliexpress-come-scegliere.json",
+        "content/reviews/shein-o-aliexpress-cual-elegir.json",
+        "content/reviews/shein-oder-aliexpress-was-waehlen.json",
+        "content/reviews/shein-ou-aliexpress-comment-choisir.json",
+        "content/reviews/shein-ou-aliexpress-qual-escolher.json",
+        "content/reviews/shein-vs-aliexpress-ja.json",
+        "content/reviews/shein-vs-aliexpress-ko.json",
+        "content/reviews/shein-vs-aliexpress-which-to-choose.json",
+        "content/reviews/shein-vs-aliexpress-zh-hans.json",
+        "content/reviews/shein-vs-aliexpress-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-aliexpress-come-scegliere.json",
+          "line": 150,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-aliexpress-cual-elegir.json",
+          "line": 166,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-aliexpress-was-waehlen.json",
+          "line": 150,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-aliexpress-comment-choisir.json",
+          "line": 150,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-aliexpress-qual-escolher.json",
+          "line": 186,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-ja.json",
+          "line": 150,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-ko.json",
+          "line": 155,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-which-to-choose.json",
+          "line": 148,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-zh-hans.json",
+          "line": 156,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-zh-hant.json",
+          "line": 155,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250094,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250481,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250886,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 251275,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 251664,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252053,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252442,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252836,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 253230,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 253625,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/08890519bd7743809e3be8eabcf0a3f1bfdc9cd7ef91878c36ddbe5c9131a822/amostra-aliexpress-pijama.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/08890519bd7743809e3be8eabcf0a3f1bfdc9cd7ef91878c36ddbe5c9131a822/amostra-aliexpress-pijama.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:14:09.426Z",
+      "verification_etag_or_digest": "08890519bd7743809e3be8eabcf0a3f1bfdc9cd7ef91878c36ddbe5c9131a822",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/amostra-aliexpress-vestido.webp",
+      "local_url": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 158778,
+      "sha256": "d094884a8505057ed68a24877a7dc5130981942226402d0bc22ce72fd5bafe8b",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "amostra-aliexpress-vestido.webp",
+      "storage_filename": "amostra-aliexpress-vestido.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-aliexpress-come-scegliere.json",
+        "content/reviews/shein-o-aliexpress-cual-elegir.json",
+        "content/reviews/shein-oder-aliexpress-was-waehlen.json",
+        "content/reviews/shein-ou-aliexpress-comment-choisir.json",
+        "content/reviews/shein-ou-aliexpress-qual-escolher.json",
+        "content/reviews/shein-vs-aliexpress-ja.json",
+        "content/reviews/shein-vs-aliexpress-ko.json",
+        "content/reviews/shein-vs-aliexpress-which-to-choose.json",
+        "content/reviews/shein-vs-aliexpress-zh-hans.json",
+        "content/reviews/shein-vs-aliexpress-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-aliexpress-come-scegliere.json",
+          "line": 204,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-aliexpress-cual-elegir.json",
+          "line": 220,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-aliexpress-was-waehlen.json",
+          "line": 204,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-aliexpress-comment-choisir.json",
+          "line": 204,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-aliexpress-qual-escolher.json",
+          "line": 240,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-ja.json",
+          "line": 204,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-ko.json",
+          "line": 209,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-which-to-choose.json",
+          "line": 202,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-zh-hans.json",
+          "line": 210,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-aliexpress-zh-hant.json",
+          "line": 209,
+          "column": 19,
+          "literal": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250148,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250535,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250940,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 251329,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 251718,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252107,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252496,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252890,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 253284,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 253679,
+          "column": 21,
+          "literal": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d094884a8505057ed68a24877a7dc5130981942226402d0bc22ce72fd5bafe8b/amostra-aliexpress-vestido.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d094884a8505057ed68a24877a7dc5130981942226402d0bc22ce72fd5bafe8b/amostra-aliexpress-vestido.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:14:09.908Z",
+      "verification_etag_or_digest": "d094884a8505057ed68a24877a7dc5130981942226402d0bc22ce72fd5bafe8b",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/shein/amostra-shein-bolsa.webp",
       "local_url": "/images/reviews/shein/amostra-shein-bolsa.webp",
       "media_kind": "image",
@@ -133977,6 +135425,466 @@
       "uploaded_at": null,
       "verified_at": "2026-10-12T23:47:38.766Z",
       "verification_etag_or_digest": "d6bca13997de8468d429edcc3b430c97822d6aa4461dec5a3eb4a500ee5350b1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-ou-aliexpress-capa-de.webp",
+      "local_url": "/images/reviews/shein/shein-ou-aliexpress-capa-de.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 232096,
+      "sha256": "fc6a0f42c9a735b7045c42b4dd8ff4a53d0ee3b2c43d4fe2d0640740ccc56718",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-aliexpress-capa-de.webp",
+      "storage_filename": "shein-ou-aliexpress-capa-de.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-oder-aliexpress-was-waehlen.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-oder-aliexpress-was-waehlen.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-aliexpress-capa-de.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 251540,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-aliexpress-capa-de.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fc6a0f42c9a735b7045c42b4dd8ff4a53d0ee3b2c43d4fe2d0640740ccc56718/shein-ou-aliexpress-capa-de.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fc6a0f42c9a735b7045c42b4dd8ff4a53d0ee3b2c43d4fe2d0640740ccc56718/shein-ou-aliexpress-capa-de.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:14:10.407Z",
+      "verification_etag_or_digest": "fc6a0f42c9a735b7045c42b4dd8ff4a53d0ee3b2c43d4fe2d0640740ccc56718",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-ou-aliexpress-capa-en.webp",
+      "local_url": "/images/reviews/shein/shein-ou-aliexpress-capa-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 233474,
+      "sha256": "47491d9947ca493aeae9247112228ac845461bac10e38d278761da25110474ae",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-aliexpress-capa-en.webp",
+      "storage_filename": "shein-ou-aliexpress-capa-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-vs-aliexpress-which-to-choose.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-vs-aliexpress-which-to-choose.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-aliexpress-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250359,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-aliexpress-capa-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/47491d9947ca493aeae9247112228ac845461bac10e38d278761da25110474ae/shein-ou-aliexpress-capa-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/47491d9947ca493aeae9247112228ac845461bac10e38d278761da25110474ae/shein-ou-aliexpress-capa-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:14:10.884Z",
+      "verification_etag_or_digest": "47491d9947ca493aeae9247112228ac845461bac10e38d278761da25110474ae",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-ou-aliexpress-capa-es.webp",
+      "local_url": "/images/reviews/shein/shein-ou-aliexpress-capa-es.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 232498,
+      "sha256": "798a4221bdc5d08bd11d6416d6ca3c931ba8da56c464ab5b646ccd81df248052",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-aliexpress-capa-es.webp",
+      "storage_filename": "shein-ou-aliexpress-capa-es.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-aliexpress-cual-elegir.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-aliexpress-cual-elegir.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-aliexpress-capa-es.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250746,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-aliexpress-capa-es.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/798a4221bdc5d08bd11d6416d6ca3c931ba8da56c464ab5b646ccd81df248052/shein-ou-aliexpress-capa-es.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/798a4221bdc5d08bd11d6416d6ca3c931ba8da56c464ab5b646ccd81df248052/shein-ou-aliexpress-capa-es.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:14:11.396Z",
+      "verification_etag_or_digest": "798a4221bdc5d08bd11d6416d6ca3c931ba8da56c464ab5b646ccd81df248052",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-ou-aliexpress-capa-fr.webp",
+      "local_url": "/images/reviews/shein/shein-ou-aliexpress-capa-fr.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 232188,
+      "sha256": "f9544bf0d6a28151bb23041ad61c0ac842c2d7fbce53a1e7073222ab61d64ad0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-aliexpress-capa-fr.webp",
+      "storage_filename": "shein-ou-aliexpress-capa-fr.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-ou-aliexpress-comment-choisir.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-ou-aliexpress-comment-choisir.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-aliexpress-capa-fr.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 251151,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-aliexpress-capa-fr.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f9544bf0d6a28151bb23041ad61c0ac842c2d7fbce53a1e7073222ab61d64ad0/shein-ou-aliexpress-capa-fr.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f9544bf0d6a28151bb23041ad61c0ac842c2d7fbce53a1e7073222ab61d64ad0/shein-ou-aliexpress-capa-fr.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:14:11.813Z",
+      "verification_etag_or_digest": "f9544bf0d6a28151bb23041ad61c0ac842c2d7fbce53a1e7073222ab61d64ad0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-ou-aliexpress-capa-it.webp",
+      "local_url": "/images/reviews/shein/shein-ou-aliexpress-capa-it.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 233498,
+      "sha256": "63fee9be30178993e2f3c720982708872c11377a7f380cb679dedf38a02d1a0a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-aliexpress-capa-it.webp",
+      "storage_filename": "shein-ou-aliexpress-capa-it.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-aliexpress-come-scegliere.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-aliexpress-come-scegliere.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-aliexpress-capa-it.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 251929,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-aliexpress-capa-it.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/63fee9be30178993e2f3c720982708872c11377a7f380cb679dedf38a02d1a0a/shein-ou-aliexpress-capa-it.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/63fee9be30178993e2f3c720982708872c11377a7f380cb679dedf38a02d1a0a/shein-ou-aliexpress-capa-it.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:14:12.414Z",
+      "verification_etag_or_digest": "63fee9be30178993e2f3c720982708872c11377a7f380cb679dedf38a02d1a0a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-ou-aliexpress-capa-ja.webp",
+      "local_url": "/images/reviews/shein/shein-ou-aliexpress-capa-ja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 235576,
+      "sha256": "2a53d576d4efc1c71fd80ada08cc5e3926bd38d31e29099c4e9de43b16d90e6c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-aliexpress-capa-ja.webp",
+      "storage_filename": "shein-ou-aliexpress-capa-ja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-vs-aliexpress-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-vs-aliexpress-ja.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-aliexpress-capa-ja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252318,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-aliexpress-capa-ja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2a53d576d4efc1c71fd80ada08cc5e3926bd38d31e29099c4e9de43b16d90e6c/shein-ou-aliexpress-capa-ja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2a53d576d4efc1c71fd80ada08cc5e3926bd38d31e29099c4e9de43b16d90e6c/shein-ou-aliexpress-capa-ja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:14:12.856Z",
+      "verification_etag_or_digest": "2a53d576d4efc1c71fd80ada08cc5e3926bd38d31e29099c4e9de43b16d90e6c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-ou-aliexpress-capa-ko.webp",
+      "local_url": "/images/reviews/shein/shein-ou-aliexpress-capa-ko.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 234738,
+      "sha256": "adbceb0b75dabde6bf42e2a529913bbcef4a2b2b23f52938411e218e229b38a2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-aliexpress-capa-ko.webp",
+      "storage_filename": "shein-ou-aliexpress-capa-ko.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-vs-aliexpress-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-vs-aliexpress-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-aliexpress-capa-ko.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 252707,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-aliexpress-capa-ko.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/adbceb0b75dabde6bf42e2a529913bbcef4a2b2b23f52938411e218e229b38a2/shein-ou-aliexpress-capa-ko.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/adbceb0b75dabde6bf42e2a529913bbcef4a2b2b23f52938411e218e229b38a2/shein-ou-aliexpress-capa-ko.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:14:13.286Z",
+      "verification_etag_or_digest": "adbceb0b75dabde6bf42e2a529913bbcef4a2b2b23f52938411e218e229b38a2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-ou-aliexpress-capa-pt.webp",
+      "local_url": "/images/reviews/shein/shein-ou-aliexpress-capa-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 232726,
+      "sha256": "667c5138efe5bb25a02c52efcc77572a4dc30b2422e6210691838b7a28713d67",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-aliexpress-capa-pt.webp",
+      "storage_filename": "shein-ou-aliexpress-capa-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-ou-aliexpress-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-ou-aliexpress-qual-escolher.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-aliexpress-capa-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 249933,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-aliexpress-capa-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/667c5138efe5bb25a02c52efcc77572a4dc30b2422e6210691838b7a28713d67/shein-ou-aliexpress-capa-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/667c5138efe5bb25a02c52efcc77572a4dc30b2422e6210691838b7a28713d67/shein-ou-aliexpress-capa-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:14:13.733Z",
+      "verification_etag_or_digest": "667c5138efe5bb25a02c52efcc77572a4dc30b2422e6210691838b7a28713d67",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-ou-aliexpress-capa-zh-hans.webp",
+      "local_url": "/images/reviews/shein/shein-ou-aliexpress-capa-zh-hans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 231922,
+      "sha256": "94276c8260fd3a5b9f5945abf50d30a479e0445e4cfbd55c9bed4e13d15d47fb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-aliexpress-capa-zh-hans.webp",
+      "storage_filename": "shein-ou-aliexpress-capa-zh-hans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-vs-aliexpress-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-vs-aliexpress-zh-hans.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-aliexpress-capa-zh-hans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 253495,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-aliexpress-capa-zh-hans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/94276c8260fd3a5b9f5945abf50d30a479e0445e4cfbd55c9bed4e13d15d47fb/shein-ou-aliexpress-capa-zh-hans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/94276c8260fd3a5b9f5945abf50d30a479e0445e4cfbd55c9bed4e13d15d47fb/shein-ou-aliexpress-capa-zh-hans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:14:14.164Z",
+      "verification_etag_or_digest": "94276c8260fd3a5b9f5945abf50d30a479e0445e4cfbd55c9bed4e13d15d47fb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-ou-aliexpress-capa-zh-hant.webp",
+      "local_url": "/images/reviews/shein/shein-ou-aliexpress-capa-zh-hant.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 232458,
+      "sha256": "a3a629c081613d1ec530285863eeb45b9799c522d5daf7651988009d7fc61d5e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-ou-aliexpress-capa-zh-hant.webp",
+      "storage_filename": "shein-ou-aliexpress-capa-zh-hant.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-vs-aliexpress-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-vs-aliexpress-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-ou-aliexpress-capa-zh-hant.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 253101,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-ou-aliexpress-capa-zh-hant.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a3a629c081613d1ec530285863eeb45b9799c522d5daf7651988009d7fc61d5e/shein-ou-aliexpress-capa-zh-hant.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a3a629c081613d1ec530285863eeb45b9799c522d5daf7651988009d7fc61d5e/shein-ou-aliexpress-capa-zh-hant.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T00:14:14.665Z",
+      "verification_etag_or_digest": "a3a629c081613d1ec530285863eeb45b9799c522d5daf7651988009d7fc61d5e",
       "verification_status": "verified"
     },
     {
