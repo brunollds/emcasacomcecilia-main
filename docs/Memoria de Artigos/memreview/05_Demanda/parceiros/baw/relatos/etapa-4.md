@@ -13,7 +13,7 @@ coordenação (catálogo na `main` pelo #1139), na branch `docs/demanda-baw-etap
 |---|---|---|---|
 | 4A | 2026-11-18T12:50-03:00 | 2026-11-18T13:10-03:00 | 20 |
 | Espera do catálogo | 2026-11-18T13:10-03:00 | 2026-11-18T13:27-03:00 | 17 (fora do relógio da sessão) |
-| 4B | 2026-11-18T13:27-03:00 | 2026-11-18T13:36-03:00 | 9 |
+| 4B | 2026-11-18T13:27-03:00 | 2026-11-18T13:33-03:00 | 6 |
 
 Na 4A: 2 minutos de leitura dos briefs e da L'Amazonie, 1 de tentativa nas plataformas (login pedido), 9 nas consultas
 de IA, 8 no gerador, na conferência e neste relato. A espera pelo login não entrou no relógio: entreguei sem ele.
