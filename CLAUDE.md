@@ -333,7 +333,8 @@ vídeo, primeiras impressões e uso noturno.
   código e abre a loja em nova aba, com "Só copiar o código" embaixo (no dock, na gaveta) e a linha de que o código
   fica copiado (`goHint`). A cópia e o clique na loja são dois eventos, com o placement de cada lugar. Quem volta da
   aba da loja encontra um aviso verde fixo no topo, com o código e onde colar (`copiedHint`, de `articleCopy.ts`), até
-  fechar. Os rótulos ficam em `couponCopyLocale.ts`, que o `couponStoreCopy.tsx` lê; o `test:build-output` confere o
+  fechar. O aviso é um só por página (o do último código), num portal no `<body>`: dentro do dock, o `translate` prenderia o
+  `fixed` a ele, e o `inert` o esconderia. Os rótulos ficam em `couponCopyLocale.ts`, que o `couponStoreCopy.tsx` lê; o `test:build-output` confere o
   par de botões em cada recorte e o "copiar e ir" do dock contra o link da gaveta.
 - `placement` dos eventos `coupon_copy` e `coupon_store_click` dos artigos: `review_top`, `review_inline`,
   `review_sidebar`, `review_mobile_dock`, `review_mobile_drawer` e `review_end`, mais `review_banner_top`,

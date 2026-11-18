@@ -1,6 +1,7 @@
 'use client';
 
-import { useEffect, useRef, useState, type MouseEvent, type ReactNode } from 'react';
+import { useEffect, useId, useRef, useState, useSyncExternalStore, type CSSProperties, type MouseEvent, type ReactNode } from 'react';
+import { createPortal } from 'react-dom';
 import { Check, Copy, ExternalLink, Scissors, X } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { copyTextWithFallback } from '@/lib/clipboardUtils';
@@ -91,6 +92,52 @@ export function CopyCodeButton({
   );
 }
 
+type ReturnNotice = { text: string; closeLabel: string };
+
+// Um aviso só por página: o do último "copiar e ir" que voltou da aba da loja. Fica no <body>, por portal, porque o dock
+// do celular tem translate (que prenderia o fixed a ele) e fica inert e invisible quando some.
+// A fonte do código (--font-jetbrains-mono) vem do recorte ou do dock, e o aviso a copia do botão: o CouponBlocks, que a
+// define, usa next/font, que não roda nos testes em tsx que importam este arquivo.
+type OpenNotice = ReturnNotice & { owner: string; code: string; codeFont: string };
+let openNotice: OpenNotice | null = null;
+const noticeListeners = new Set<() => void>();
+const setOpenNotice = (notice: OpenNotice | null) => {
+  openNotice = notice;
+  noticeListeners.forEach((listener) => listener());
+};
+const subscribeNotice = (listener: () => void) => {
+  noticeListeners.add(listener);
+  return () => noticeListeners.delete(listener);
+};
+const getOpenNotice = () => openNotice;
+const getNoNotice = () => null;
+
+function ReturnNoticeBanner({ notice }: { notice: OpenNotice }) {
+  return createPortal(
+    <div
+      role="status"
+      data-return-notice=""
+      style={notice.codeFont ? ({ '--font-jetbrains-mono': notice.codeFont } as CSSProperties) : undefined}
+      className="fixed inset-x-3 top-3 z-[70] mx-auto flex max-w-md items-start gap-3 rounded-xl border-2 border-verde-escuro bg-verde-claro p-3.5 text-left text-verde-escuro shadow-large motion-safe:animate-[slide-up_0.25s_ease-out]"
+    >
+      <Check aria-hidden="true" className="mt-1 h-6 w-6 shrink-0" />
+      <div className="min-w-0 flex-1">
+        <p className="font-codigo text-xl leading-7 font-extrabold tracking-[0.04em] break-all">{notice.code}</p>
+        <p className="mt-0.5 text-[15px] leading-5 font-bold">{notice.text}</p>
+      </div>
+      <button
+        type="button"
+        onClick={() => setOpenNotice(null)}
+        aria-label={notice.closeLabel}
+        className="flex h-11 w-11 shrink-0 items-center justify-center rounded-[10px] border-2 border-verde-escuro bg-white focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-marinho"
+      >
+        <X aria-hidden="true" strokeWidth={2.4} className="h-5 w-5" />
+      </button>
+    </div>,
+    document.body
+  );
+}
+
 type CopyAndOpenStoreLinkProps = Partial<CopyTracking> & {
   code: string;
   href: string;
@@ -102,13 +149,13 @@ type CopyAndOpenStoreLinkProps = Partial<CopyTracking> & {
   // Para quando o texto visível não diz a ação (só o código); precisa conter esse texto.
   ariaLabel?: string;
   // O aviso de quando a pessoa volta da aba da loja: o código e onde colar, até ela fechar.
-  returnNotice?: { text: string; closeLabel: string };
+  returnNotice?: ReturnNotice;
 };
 
 // Copia e deixa o link abrir a loja em outra aba; a escrita na área de transferência começa
 // ainda dentro do clique, antes de a aba nova tirar o foco da página. A cópia e o clique na loja
 // seguem como dois eventos. O "Copiado" do botão fica atrás da aba da loja, então quem volta
-// encontra o aviso (returnNotice).
+// encontra o aviso (returnNotice), que o botão de onde a pessoa saiu põe no <body>.
 export function CopyAndOpenStoreLink({
   code,
   brand,
@@ -123,8 +170,10 @@ export function CopyAndOpenStoreLink({
   ariaLabel,
   returnNotice,
 }: CopyAndOpenStoreLinkProps) {
+  const owner = useId();
+  const linkRef = useRef<HTMLAnchorElement>(null);
   const awaitingReturn = useRef(false);
-  const [noticeOpen, setNoticeOpen] = useState(false);
+  const notice = useSyncExternalStore(subscribeNotice, getOpenNotice, getNoNotice);
   const { copied, copy } = useCopyCode(code, { placement, brand, contentSlug }, () => {
     awaitingReturn.current = true;
   });
@@ -134,11 +183,17 @@ export function CopyAndOpenStoreLink({
     const onVisibilityChange = () => {
       if (document.visibilityState !== 'visible' || !awaitingReturn.current) return;
       awaitingReturn.current = false;
-      setNoticeOpen(true);
+      const codeFont = linkRef.current ? getComputedStyle(linkRef.current).getPropertyValue('--font-jetbrains-mono').trim() : '';
+      setOpenNotice({ ...returnNotice, owner, code, codeFont });
     };
     document.addEventListener('visibilitychange', onVisibilityChange);
     return () => document.removeEventListener('visibilitychange', onVisibilityChange);
-  }, [returnNotice]);
+  }, [returnNotice, owner, code]);
+
+  // O aviso some com o botão que o abriu (a página mudou).
+  useEffect(() => () => {
+    if (openNotice?.owner === owner) setOpenNotice(null);
+  }, [owner]);
 
   const handleClick = (event: MouseEvent<HTMLAnchorElement>) => {
     void copy(event);
@@ -154,6 +209,7 @@ export function CopyAndOpenStoreLink({
   return (
     <>
       <a
+        ref={linkRef}
         href={href}
         target="_blank"
         rel={sponsored ? 'sponsored noopener noreferrer' : 'noopener noreferrer'}
@@ -167,27 +223,7 @@ export function CopyAndOpenStoreLink({
       <span role="status" className="sr-only">
         {copied ? copiedStatus : ''}
       </span>
-      {returnNotice && noticeOpen && (
-        <div
-          role="status"
-          data-return-notice=""
-          className="fixed inset-x-3 top-3 z-[70] mx-auto flex max-w-md items-start gap-3 rounded-xl border-2 border-verde-escuro bg-verde-claro p-3.5 text-left text-verde-escuro shadow-large motion-safe:animate-[slide-up_0.25s_ease-out]"
-        >
-          <Check aria-hidden="true" className="mt-1 h-6 w-6 shrink-0" />
-          <div className="min-w-0 flex-1">
-            <p className="font-codigo text-xl leading-7 font-extrabold tracking-[0.04em] break-all">{code}</p>
-            <p className="mt-0.5 text-[15px] leading-5 font-bold">{returnNotice.text}</p>
-          </div>
-          <button
-            type="button"
-            onClick={() => setNoticeOpen(false)}
-            aria-label={returnNotice.closeLabel}
-            className="flex h-11 w-11 shrink-0 items-center justify-center rounded-[10px] border-2 border-verde-escuro bg-white focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-marinho"
-          >
-            <X aria-hidden="true" strokeWidth={2.4} className="h-5 w-5" />
-          </button>
-        </div>
-      )}
+      {notice?.owner === owner && <ReturnNoticeBanner notice={notice} />}
     </>
   );
 }
