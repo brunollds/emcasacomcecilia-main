@@ -21,6 +21,7 @@ padrão.
 |---|---|---|---|---|---|---|
 | Cupom CECILIA15: 20% OFF no teste, cliente novo e antigo | condicao_comercial_volatil | `src/lib/couponsData.ts` (slug: `bold`) | 2026-11-18 | 2026-11-23 | O nome tem 15; o percentual pode mudar com as campanhas. `offerUrl` = o link `/discount/CECILIA15` do Bruno (nunca abrir) | Alta |
 | Teste: BOLD Caixa Mista R$ 179,00 → R$ 143,20 (−R$ 35,80); BOLD Whey Chocolate ao Leite 450 g, de R$ 209,00 por R$ 189,00 → R$ 151,20 (−R$ 37,80); total R$ 294,42 com dois brindes a R$ 0,01 | teste_carrinho | Checkout pelo FINALIZAR da gaveta, sem login, sem finalizar | 2026-11-18 | 2026-11-23 | Print do resumo no `cartPrint` | Alta |
+| Assinatura BOLD Club: BOLD Mousse de Maracujá com entrega a cada 2 meses a R$ 152,00 (15% abaixo dos R$ 179,00 da compra única); o CECILIA15 tirou R$ 30,40 (20%) e o subtotal ficou em R$ 121,60; o carrinho trouxe o brinde "KIT BOLD CHOCOMALTE 14G" ("BRINDE - BOLD CLUB") a R$ 0,00; economia total R$ 30,41, sem frete | teste_carrinho | Teste do Bruno no carrinho (print de 18/11, sem dado pessoal) | 2026-11-18 | 2026-11-23 | A política de assinatura (`/pages/politica-de-assinatura`) diz que as condições "não se acumulam automaticamente" com cupons, mas o carrinho aceitou: escrever como resultado do teste, sem prometer que vale sempre. A assinatura dá 15% e frete grátis nas recorrências e pede permanência mínima de 2 ciclos | Alta |
 | Pré-Black Friday (18 a 22/11): cupons de 30% em anúncios e de 20% de influenciadores, um cupom por pedido; descontos sucessivos sobre o preço promocional; cashback não soma automaticamente com cupons | condicao_comercial_volatil | `/pages/politicas-promocoes`, itens 2 e 4 | 2026-11-18 | 2026-11-23 | Decisão do Bruno (18/11): a página não cita os cupons da loja nem diz que o CECILIA15 é o maior desconto | Alta |
 | Brindes da campanha: acima de R$ 249 coqueteleira; acima de R$ 359 coqueteleira e térmica; acima de R$ 699 também a bolsa de academia; valor dos produtos já com os descontos, sem frete | condicao_comercial_volatil | `/pages/politicas-promocoes`, item 3 | 2026-11-18 | 2026-11-23 | Fora da página | Alta |
 | Parcelamento em 3x na vitrine (R$ 179,00 = 3x de R$ 59,66) | condicao_comercial_volatil | Página de produto | 2026-11-18 | 2026-12-18 | Desconto no Pix não lido (o pagamento pede dados pessoais) | Média |
@@ -43,6 +44,10 @@ padrão.
 
 - **O nome do código tem 15 e o desconto foi de 20%.** Sempre conferir o percentual no checkout antes de escrever; o
   regulamento da Pré-Black vale até 22/11.
+- O código entrou sobre o preço de assinatura no teste de 18/11, apesar da política de assinatura. Na página e nos
+  artigos, sempre "no nosso teste"; reler no reteste de 23/11.
+- Os brindes do teste de 18/11 (coqueteleira e bolsa térmica, R$ 0,01 cada) estão no print do resumo, embora o
+  regulamento só dê a térmica acima de R$ 359. A página registra o que o carrinho mostrou; reler no reteste.
 - Não citar os cupons da própria loja (decisão do Bruno em 18/11), nem dizer que o CECILIA15 é o maior desconto.
 - Testar pelo caminho do cliente: ADICIONAR no produto, gaveta, FINALIZAR. O site abre um popup de pré-venda.
 - Suplemento e alimento sem promessa de efeito. Nos artigos, usar `affiliate: "bold"`, `coupon: "CECILIA15"` (o código,

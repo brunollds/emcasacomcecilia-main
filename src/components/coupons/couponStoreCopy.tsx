@@ -166,6 +166,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       headers: { benefit: 'Benefício', stacks: 'Acumula?', condition: 'Condição' },
       benefits: {
         promocoes: 'Promoções',
+        assinatura: 'Assinatura',
         retirada: 'Retirada na loja',
         pix: 'Pix',
         cashback: 'Cashback',
@@ -312,6 +313,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       headers: { benefit: 'Benefit', stacks: 'Stacks?', condition: 'Condition' },
       benefits: {
         promocoes: 'Promotions',
+        assinatura: 'Subscription',
         retirada: 'In-store pickup',
         pix: 'Pix',
         cashback: 'Cashback',
@@ -436,6 +438,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       headers: { benefit: 'Beneficio', stacks: '¿Se acumula?', condition: 'Condición' },
       benefits: {
         promocoes: 'Promociones',
+        assinatura: 'Suscripción',
         retirada: 'Recogida en tienda',
         pix: 'Pix',
         cashback: 'Cashback',
@@ -560,6 +563,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       headers: { benefit: 'Avantage', stacks: 'Cumulable ?', condition: 'Condition' },
       benefits: {
         promocoes: 'Promotions',
+        assinatura: 'Abonnement',
         retirada: 'Retrait en magasin',
         pix: 'Pix',
         cashback: 'Cashback',
@@ -687,6 +691,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       headers: { benefit: 'Vorteil', stacks: 'Kombinierbar?', condition: 'Bedingung' },
       benefits: {
         promocoes: 'Aktionen',
+        assinatura: 'Abo',
         retirada: 'Abholung im Geschäft',
         pix: 'Pix',
         cashback: 'Cashback',
@@ -812,6 +817,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       headers: { benefit: 'Vantaggio', stacks: 'Si cumula?', condition: 'Condizione' },
       benefits: {
         promocoes: 'Promozioni',
+        assinatura: 'Abbonamento',
         retirada: 'Ritiro in negozio',
         pix: 'Pix',
         cashback: 'Cashback',
@@ -936,6 +942,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       headers: { benefit: '혜택', stacks: '중복 적용', condition: '조건' },
       benefits: {
         promocoes: '프로모션',
+        assinatura: '정기 구독',
         retirada: '매장 수령',
         pix: 'Pix',
         cashback: '캐시백',
@@ -1058,6 +1065,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       headers: { benefit: '特典', stacks: '併用', condition: '条件' },
       benefits: {
         promocoes: 'プロモーション',
+        assinatura: '定期購入',
         retirada: '店舗受け取り',
         pix: 'Pix',
         cashback: 'キャッシュバック',
@@ -1179,6 +1187,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       headers: { benefit: '優惠', stacks: '可同時使用？', condition: '條件' },
       benefits: {
         promocoes: '促銷活動',
+        assinatura: '訂閱',
         retirada: '門市取貨',
         pix: 'Pix',
         cashback: '現金回饋',
@@ -1301,6 +1310,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       headers: { benefit: '优惠', stacks: '可叠加？', condition: '条件' },
       benefits: {
         promocoes: '促销活动',
+        assinatura: '订阅',
         retirada: '门店自提',
         pix: 'Pix',
         cashback: '现金返还',
