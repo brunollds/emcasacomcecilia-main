@@ -209,3 +209,12 @@ Vira guia de 2027 ou sai do ar; decisão na revisão de dezembro. A conta "1 ano
 - **Inferência mantida fora do PT:** o plano público de 1 ano renova pelo mesmo preço padrão (US$ 83,88) e custa menos que os US$ 59,76 só pelo percentual anunciado; os valores públicos em dólar não foram lidos (a página mostra a moeda do país).
 - **Mídia:** capa `black-friday-proton-capa.webp` (foto oficial do app, ícone da Proton, "Black Friday Proton 2026", uma para os 10); prints `…-pagina-parceiros-brl.webp` (só PT) e `…-pagina-parceiros-usd.webp` (os outros 9), recortados nos dois planos. Aprovados pelo Bruno em 17/11.
 - **Links para PN3 e PN4:** entram quando os dois estiverem no ar, junto com os `relatedArticles`.
+
+## Revisão de copy do Farol (17/11/2026, depois do #1119)
+
+- **Direção do Bruno:** a abertura mostra por que abrir o nosso link. O mesmo VPN Plus de 24 meses custava R$ 210,96 pelo link, R$ 251,76 na página de ofertas e R$ 294,96 na de preços (diferenças de R$ 40,80 e R$ 84,00). "Menor total" sempre limitado aos caminhos comparados; nunca "exclusivo".
+- **Aplicado:** as 127 substituições do parecer (`docs/auditoria-copy-artigos/pn1-proton-pr1119-20261117-farol/`), com ajustes de estilo da casa no PT (resposta rápida sem preço, sem travessão nem dois-pontos de efeito). Título novo: "onde o VPN Plus de 2 anos sai mais barato". Tabelas com no máximo quatro colunas e botão do link na primeira seção.
+- **Fora do PT:** comparação em dólar conferida pela redação no seletor de moeda das páginas públicas em 17/11: US$ 71,76 pelos 24 meses na página de ofertas e US$ 35,88 no plano de 1 ano da Black Friday, os dois com renovação de US$ 83,88. Conta de 24 meses: US$ 59,76 pelo link contra US$ 119,76.
+- **Unlimited:** a central de ajuda diz que não dá para ter vários planos Plus na mesma conta; a soma dos avulsos (R$ 420,72) fica só como referência de preço.
+- **Fechamento pelo Fable** nos 10 arquivos: formato de moeda de cada idioma, a frase da página de parceiros de volta nos espelhos, espaçamento do chinês.
+- **Links cruzados:** `relatedArticles` com a PN2 e a PN4 nos 10 idiomas.
