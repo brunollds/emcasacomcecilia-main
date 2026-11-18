@@ -8,6 +8,19 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## BOLD Snacks: pacote inicial (18/11/2026)
+
+Parceira nova (#1155). Pesquisa semente de 18/11; pautas BO1 a BO6 na [[Fila-de-Pautas]], fatos em [[bold-fatos-1811]].
+
+- **Autocompletar (18/11):** a raiz "bold snacks" é institucional (Divinópolis, vagas, fábrica, dono, "vendida"). "bold snacks é" traz "é saudável", "é brasileira", "é de onde", "é bom", "é confiavel" e "quem é o dono". "cupom bold" divide a lista com "cupom bolt" e traz "cupom bold snacks", "primeira compra", "mercado livre" e "influencer". "bold snacks reclame aqui" existe. "bold snacks black friday" não tem sugestão; "bold black friday" e "bold whey black friday" têm. O grosso da busca é de produto: "barra bold", "whey bold", "bold tube", "bold wafer" e "bold crunch" devolvem dez sugestões cada (sabor, gramatura, tabela nutricional), e "barra bold é" e "barra bold tem" perguntam de saúde e rótulo (saudável, sem açúcar, calórica, glúten, lactose). "bold ou" traz DUX, Growth, Nutrata e Integralmédica. Sem sugestão: "bold snacks vale a pena", "bold snacks cashback", "bold snacks frete", "bold snacks anvisa".
+- **Reclame Aqui (01/05 a 31/10/2026):** Boa, nota 7,9, verificada; 147 reclamações, 100% respondidas, 83,1% resolvidas, 69,2% voltariam a fazer negócio, resposta em 6 dias; Boa nos seis meses; "atraso na entrega" é o problema mais citado (22,49%). A empresa mantém no perfil um alerta de anúncios falsos em nome da marca.
+- **Site:** regulamento "Black BOLD 2026 — Fase 3: Pré-Black" (18 a 22/11), um cupom por pedido, brindes por valor depois dos descontos; faixa "Frete grátis acima de R$ 249", que a página de cupom não traz; cashback de até 10% que não junta com cupom.
+- **Busca na web:** notícias de março de 2026 sobre a compra da Bold Snacks pelo Grupo Ferrero (fábrica em Divinópolis, MG). Só os resultados, sem abrir as matérias.
+- **Não lido:** ingredientes e tabela nutricional de cada sabor, as matérias da Ferrero, Anvisa por produto, lojas oficiais em marketplace, política de assinatura, pagamento (Pix e parcelas).
+- **Decisão:** "é boa" vira "a barra BOLD é boa" (BO5), porque a busca está no produto; whey, rótulo e pares "BOLD ou X" ficam no estoque; o nome do artigo leva sempre "BOLD Snacks" ou "barra BOLD", para não cair em Bolt.
+
+---
+
 ## Adaptogen: pacote inicial (18/11/2026)
 
 Parceira nova (#1141). Pesquisa semente de 18/11; pautas AD1 a AD6 na [[Fila-de-Pautas]], fatos em [[adaptogen-fatos-1811]].
