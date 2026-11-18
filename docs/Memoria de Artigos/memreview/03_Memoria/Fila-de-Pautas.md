@@ -97,6 +97,17 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 ### Propostas sem GO
 
+**Donna Carioca (18/11/2026): a marca negou a afiliação e o Bruno quer posicionar "Alternativas à Donna Carioca".** Moda fitness, beach tennis e praia; entra como referência, sem link, cupom, foto ou print. Fatos e leituras em [[donna-carioca-fatos-1811]]. Nenhuma tem GO.
+
+| Código | Pauta | Parceiros | Busca (18/11) | Nota |
+|---|---|---|---|---|
+| DC1 | Alternativas à Donna Carioca, linha por linha (`alternativas-a-donna-carioca`) | Insider, Toda Up e SHEIN (várias lojas) | "alternativa" e "parecido com" vazios; a marca é grande (Trends 42, perto de "insider store") | No preço a Donna Carioca ganha em calcinha, top e short. Só entram as linhas com outra vantagem dita: grade (ela vai de P a GG), compra por unidade, ficha do tecido. Falta ler a SHEIN |
+| DC2 | Calcinha para academia: qual escolher (`calcinha-para-academia`) | Insider e Toda Up | "calcinha para academia" em ascensão no Trends | Par do `cueca-para-academia`. A Donna Carioca entra como referência do kit de 6 |
+| DC3 | Donna Carioca é confiável? (`donna-carioca-e-confiavel`) | nenhuma | "é confiável", "reclame aqui", "site oficial", "loja física" | Molde da `stylekorean-e-confiavel`. Há perfis de outros domínios com o nome no Reclame Aqui: abrir os três |
+| DC4 | Insider ou Donna Carioca: legging (`insider-ou-donna-carioca`) | Insider | "donna carioca ou" só traz a DLK | Depois do reteste da Insider (27/11) |
+
+Sem saída hoje: "legging donna carioca é transparente" (só com peça em mãos); roupa de beach tennis (só a SHEIN, sem leitura); "donna carioca ou dlk" (nenhuma é parceira).
+
 **Rodada Fita Up (06/11/2026)** (pesquisa de outra sessão no autocompletar, contra os 11 artigos da Toda Up no ar; sem o Search Console, que saiu do login; avaliada pela sessão de pautas). Aguarda o GO do Bruno. Antes de cada briefing: o que a página da Fita Up publica sobre o tema (Chrome) e, se possível, as impressões no Search Console. **GO do Bruno em 06/11:** a F3 virou briefing, com a F2 (água) e a F5 (amamentação: a loja não recomenda) dentro; a F1 ficou na R8, porque a loja só publica P, M e G, sem cm nem metros do rolo. **Fechada em 06/11:** a F4 (FAQ "mudou de nome? faliu?") está no ar no `toda-up-e-confiavel` (#647). A F6 foi encerrada: na busca de 06/11, Hope, Lupo e Zee Rucci vendem sutiã adesivo, não fita; a Intimissimi não apareceu na busca da web (corrigido: ela tem fita, copas de silicone e protetor no site brasileiro, F11); a Trifil só aparece num anúncio de vendedor no Mercado Livre ("Kit Fita Adesiva Sustentadora Up Trifil"), sem página da marca. Não sustenta a continuação da R3.
 
 
