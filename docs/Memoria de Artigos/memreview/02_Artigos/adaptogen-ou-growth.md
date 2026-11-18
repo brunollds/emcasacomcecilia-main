@@ -36,6 +36,9 @@ aqui.**
 
 A Growth não é parceira: nenhum link de afiliado, nenhum cupom dela, link só como fonte.
 
+**Escopo (decisão do Bruno, 18/11/2026): só whey e proteína.** Creatina e os outros produtos ficam para uma parte 2,
+sem briefing ainda.
+
 ## Busca (autocompletar de 18/11/2026)
 
 "adaptogen ou growth", "whey adaptogen ou growth", "tasty whey ou growth", "tasty whey ou growth qual o melhor",
@@ -58,8 +61,8 @@ O topo é de vídeos e posts de opinião e de sabor, páginas automáticas de "p
 "melhor whey". Nenhum põe os rótulos lado a lado por perfil.
 
 - **Uma tabela por perfil,** com o produto de cada marca que atende e o número do rótulo que justifica.
-- **O que uma tem e a outra não:** proteína de carne e creatina em pó com sabor (Adaptogen); proteínas vegetais,
-  albumina e whey com ovo (Growth).
+- **O que uma tem e a outra não:** proteína de carne (Adaptogen); proteínas vegetais, albumina e whey com ovo
+  (Growth).
 - **O preço sem enfeite:** quem decide pelo custo por proteína fica com a Growth; o artigo diz isso.
 
 ## O que já está lido (18/11/2026) e o que falta
@@ -79,8 +82,7 @@ Protein Concentrado 900 g, 21 g em 30 g; (TOP) Whey Protein Concentrado 1 kg, 23
 1 kg, 24 g em 30 g; (TOP) Whey Protein Isolado 1 kg, 27 g em 30 g; Whey Protein Zero Lactose 1 kg, 23 g em 30 g.
 
 **Catálogo da Growth (site oficial, 18/11):** a categoria Proteínas lista whey, whey com ovo, albumina, soja, arroz,
-ervilha, blend vegano e colágeno. **Não há proteína de carne.** Creatina com sabor, só a G-Gummy (não há creatina em
-pó com sabor).
+ervilha, blend vegano e colágeno. **Não há proteína de carne.**
 
 **Preço, para o capítulo único (cartão; Adaptogen com o `CECILIA` em 18/11, Growth em 09/11; reler no mesmo dia):**
 3W, R$ 38,28 (Tasty) e R$ 35,78 (Adapto) contra R$ 34,01; concentrado, R$ 31,93 contra R$ 21,15; isolado, R$ 47,01
@@ -89,10 +91,10 @@ que a Adaptogen custa menos é a Beef.**
 
 ## Esqueleto
 
-1. **Resposta rápida** (40 a 60 palavras, sem "R$"). Rascunho, 58 palavras:
+1. **Resposta rápida** (40 a 60 palavras, sem "R$"). Rascunho, 55 palavras:
    > A Growth costuma custar menos por proteína. A Adaptogen ganha em outros pontos: tem proteína de carne sem
-   > lactose, que a Growth não vende, um isolado que a loja informa como zero lactose, creatina em pó com sabor e
-   > mais sabores no whey. O cupom CECILIA dá 10% no site da Adaptogen. A escolha depende da sua dieta.
+   > lactose, que a Growth não vende, um isolado que a loja informa como zero lactose e o Tasty Whey em 23 sabores. O
+   > cupom CECILIA dá 10% no site da Adaptogen. A escolha depende da sua dieta.
 2. **Como comparamos.** Só rótulo e página das duas lojas; uma data no corpo. Sabor e efeito ficam de fora: não
    provamos os produtos.
 3. **Para quem evita lactose.** Tasty Iso e 100% Beef contra o Zero Lactose e o Isolado da Growth, com o que cada
@@ -107,13 +109,11 @@ que a Adaptogen custa menos é a Beef.**
    "ganhar massa" sem prometer resultado.
 7. **Para quem escolhe pelo sabor.** Só a contagem de sabores de cada linha e os formatos (sachê, pote, bag). Nada
    de "mais gostoso".
-8. **Creatina.** Em pó com sabor só na Adaptogen; a Growth tem a gummy e a sem sabor. Link para
-   [[alternativas-a-creatina-da-growth]].
-9. **E o preço?** Um capítulo, uma tabela de três ou quatro linhas, cartão, com o código na Adaptogen. Dizer que a
+8. **E o preço?** Um capítulo, uma tabela de três ou quatro linhas, cartão, com o código na Adaptogen. Dizer que a
    Growth sai mais barata por proteína no concentrado, no 3W e no isolado e que a Beef é a exceção.
-10. **Cupom, Pix e frete.** Tabela de condições das duas lojas.
-11. **Quem escolhe o quê.** Quadro `decision` (Leve se / Passe se, 1 a 3 frases cada, sem "R$").
-12. **FAQ (3 a 5), sem data:** "Tasty Whey ou Growth: qual tem mais proteína por dose?", "Qual das duas tem whey sem
+9. **Cupom, Pix e frete.** Tabela de condições das duas lojas.
+10. **Quem escolhe o quê.** Quadro `decision` (Leve se / Passe se, 1 a 3 frases cada, sem "R$").
+11. **FAQ (3 a 5), sem data:** "Tasty Whey ou Growth: qual tem mais proteína por dose?", "Qual das duas tem whey sem
     lactose?", "A Growth tem proteína de carne?", "Gold Whey ou o concentrado da Growth?", "Tem cupom para a
     Adaptogen?".
 
@@ -125,6 +125,7 @@ que a Adaptogen custa menos é a Beef.**
 - **Sem reputação:** nada de Reclame Aqui, "é confiável" nem "qual é a melhor marca" (AD2 e AD3 seguradas).
 - **Preço sem maquiagem:** o capítulo do preço diz quem ganha. Não esconder a tabela nem escolher pares que
   favoreçam a parceira.
+- Creatina e os outros produtos não entram, nem em tabela nem em FAQ; se o leitor perguntar, fica para a parte 2.
 - Só pares equivalentes; o HIT Protein fica fora (tem colágeno) ou entra numa frase dizendo isso.
 - Datas no corpo: 1; nenhuma em título, legenda ou FAQ. Nenhum preço riscado; nunca "economize".
 - Link de afiliado e código conforme a AD1. Nunca abrir o link de afiliado.
@@ -160,8 +161,11 @@ nosso.
 | Porção e proteína da Growth | A loja informa: | rótulos lidos em 09/11 | reler; calorias e carboidratos a ler |
 | "Zero lactose" no Tasty Iso e na 100% Beef | A loja informa: | páginas de produto | verificado, sempre com atribuição |
 | A Growth não vende proteína de carne | Conta nossa: | categoria e busca do site, 18/11 | verificado; reconferir no dia |
-| Creatina em pó com sabor só na Adaptogen | Conta nossa: | catálogos das duas | verificado para a Growth em 10/11; reconferir |
 | Custo por 100 g de proteína | Conta nossa: | preços de datas diferentes | refazer no mesmo dia |
 | `CECILIA` 10% sobre o preço de campanha | Conta nossa: | carrinhos de 18/11 | verificado, "nos nossos testes" |
 | Emagrece, ganha massa, absorve melhor, sabor | - | sem teste | não escrever |
 | Reclame Aqui, "é confiável", laudo, Anvisa | - | segurado ou não lido | não escrever |
+
+## Decisões do Bruno
+
+- 18/11/2026: só whey e proteína. Creatina e os outros produtos ficam para uma parte 2.
