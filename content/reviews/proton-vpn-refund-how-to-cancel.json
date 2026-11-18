@@ -1,0 +1,192 @@
+{
+  "id": 1010,
+  "slug": "proton-vpn-refund-how-to-cancel",
+  "locale": "en",
+  "translationKey": "proton-vpn-reembolso",
+  "title": "Proton VPN: how to cancel your subscription and ask for a refund within 30 days",
+  "seoTitle": "Proton VPN: how to cancel and ask for a refund in 30 days",
+  "type": "How-to Guide",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "How to cancel Proton VPN and ask for your money back, what the terms require, what is left out and how to avoid being caught by the automatic renewal.",
+  "metaDescription": "How to cancel Proton VPN and ask for a refund: the 30-day window, the conditions that sink a request and how to avoid the renewal charge.",
+  "publishedAt": "November 17, 2026",
+  "publishedAtISO": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-vpn-reembolso-como-cancelar-capa.webp",
+  "imageAlt": "The Proton logo beside the words Proton VPN, 30-day refund, next to an official photo of a hand holding a phone with the Proton VPN app.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Quick answer",
+      "paragraphs": [
+        "To get your money back from Proton VPN, cancel the subscription and ask support for the refund, both within 30 days of the initial purchase. Under the terms, a refund can be requested once per user and only by people who subscribed directly with Proton. Renewals are left out, and a subscription bought through a phone app store is cancelled in the store."
+      ]
+    },
+    {
+      "heading": "Cancelling and asking for a refund are two steps",
+      "paragraphs": [
+        "Cancelling turns off future renewals. According to Proton's help center, paid features stay active until the next renewal date and the account then moves to the free plan. Cancelling alone does not return any money.",
+        "The refund is a separate request, made to support. Proton's terms of service, last modified on November 5, 2026, say that \"the cancellation and the request for refund must both be addressed within the 30-day period\". Someone who cancels on day 20 and only writes to support on day 35 has missed the window.",
+        "The terms are the same for Proton's other paid plans, such as Mail Plus and Proton Unlimited. What this guide says about the window and the conditions applies to them too."
+      ],
+      "image": {
+        "src": "/images/reviews/proton/proton-vpn-reembolso-termos-en.webp",
+        "alt": "Excerpt from Proton's terms of service covering cancellation within 30 days of the initial purchase, the request through the support form and the limit of one refund per user.",
+        "caption": "The paragraphs of Proton's terms of service on cancellation and refunds."
+      }
+    },
+    {
+      "heading": "How to cancel the renewal on the website",
+      "paragraphs": [
+        "The path below comes from the [Proton VPN help center](https://protonvpn.com/support/cancel-vpn-subscription), which we read on November 17, 2026. Button names are given as they appear on that page."
+      ],
+      "bullets": [
+        "Sign in to your account at account.protonvpn.com.",
+        "In the sidebar, open **Subscription**.",
+        "Scroll down to **Cancel subscription** and click **Continue**.",
+        "Click **Cancel subscription**, read the terms Proton shows and click **Cancel subscription** once more.",
+        "Pick a reason and click **Submit**. According to the page, the cancellation only takes effect after this last step."
+      ],
+      "postParagraphs": [
+        "After that, the paid plan stays active until the date it would have renewed. Past that date, the account still exists, on the free plan. Cancelling the subscription does not delete the account. If you change your mind, the dashboard shows a **Reactivate now** button.",
+        "The terms say that anyone who cannot reach the dashboard can cancel through Proton's customer support."
+      ]
+    },
+    {
+      "heading": "How to ask for the refund",
+      "paragraphs": [
+        "If you subscribed on the website, ask support for the refund through the [Proton VPN support form](https://protonvpn.com/support/contact). Our suggestion is to write from the email address of the account that holds the subscription, name the plan and ask in plain words for the cancellation and the refund within the 30 days.",
+        "Under the terms, the refund is full, is paid in the original currency and to the original payment method, and is processed within 30 days of the request. The help center gives shorter time frames, depending on how you paid."
+      ],
+      "comparisonTable": {
+        "caption": "Time frames given by the Proton VPN help center. The bank or the store credits the amount, and timing can vary.",
+        "headers": [
+          "How you paid",
+          "Who to ask",
+          "Time frame given"
+        ],
+        "rows": [
+          [
+            "Credit card, on the website",
+            "Proton support",
+            "5 to 10 business days"
+          ],
+          [
+            "PayPal, on the website",
+            "Proton support",
+            "1 to 2 business days"
+          ],
+          [
+            "Bitcoin, on the website",
+            "Proton support",
+            "1 to 2 business days"
+          ],
+          [
+            "Google Play",
+            "Proton support or Google Play itself",
+            "about 3 to 5 days"
+          ],
+          [
+            "App Store",
+            "Apple",
+            "about 5 to 10 days"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "When the refund does not apply",
+      "paragraphs": [
+        "The conditions below are in the terms of service. Any one of them takes a request out of the 30-day rule."
+      ],
+      "bullets": [
+        "**More than 30 days have passed since the initial purchase.** Under the terms, the window runs from the first purchase, and a renewal charge falls outside it.",
+        "**You have already asked for a refund before.** The terms say refunds can only be requested once per user.",
+        "**You paid in cash or by bank transfer.** The terms say these payments are not refundable.",
+        "**You subscribed through an intermediary.** The rule covers people who subscribed through Proton's official channels, which are the website and the apps. If you bought from a third party, its refund policy applies.",
+        "**You disputed the charge with your card.** The terms say that anyone who relies on a dispute or chargeback through the payment processor waives the Proton refund and depends on the outcome of the dispute. The account may be suspended until the dispute is resolved.",
+        "**The account was terminated for violating the terms.** In that case, the terms say all payments and credits are lost."
+      ],
+      "postParagraphs": [
+        "After the 30 days, the terms say the service is non-refundable and that any refund or credit is \"at the sole discretion of the Company\". You can ask, with no rule on your side."
+      ]
+    },
+    {
+      "heading": "I subscribed in the app, through Google Play or the App Store",
+      "paragraphs": [
+        "A subscription bought inside the phone app is usually billed by the store. For people who paid through Google Play or the App Store, the help center says to cancel in the store itself."
+      ],
+      "bullets": [
+        "**Google Play.** Open the Play Store app, tap your profile picture, go to Subscriptions and pick Proton VPN to cancel. For a refund within the 30 days, the help center says to contact Proton support and adds that it may also be possible to ask through Google Play itself.",
+        "**App Store.** On an iPhone, open Settings, tap your name, go to Subscriptions, pick Proton VPN and cancel. The refund is requested from Apple, at reportaproblem.apple.com."
+      ],
+      "postParagraphs": [
+        "Before cancelling, check the receipt to see who billed you. If the receipt comes from Google or Apple, the cancellation is done in the store."
+      ]
+    },
+    {
+      "heading": "How to avoid being caught by the renewal",
+      "paragraphs": [
+        "The subscription renews by itself, for the same period. The terms say you are charged \"the then-current price valid at the time of the renewal\", and a promotional price only covers the first period. On Proton's partner page in US dollars, the 2-year VPN Plus plan was billed at $59.76 for the first 24 months and then renewed at $83.88 every 12 months. Prices change with country and currency.",
+        "To stop the renewal, the terms ask you to cancel before the renewal date. There is no need to wait until the day before. Because the paid plan runs until the end of the period already charged, you can cancel right after subscribing and still use everything you paid for.",
+        "Put the next billing date in your calendar, a few days early. If you subscribed through a phone app store, check the date in the store's subscriptions."
+      ]
+    },
+    {
+      "heading": "Switching plans instead of leaving",
+      "paragraphs": [
+        "If the plan turned out too big or too small for you, you can switch without leaving. The terms say that when you pick a new paid plan, the subscription changes right away and the unused part of the previous plan becomes account credit. A longer billing cycle, from 1 month to 1 year for example, only starts at the end of the current cycle. Under the terms, the refund window runs from the initial purchase."
+      ]
+    },
+    {
+      "heading": "If Proton does not answer",
+      "paragraphs": [
+        "The support form is the official channel, and the help center says paid plans include priority support and chat. Keep the proof of purchase, the date you cancelled and the date you asked for the refund. Those three dates show the request came in on time.",
+        "Consumer protection rules in your country may give you a deadline of their own. Whether Proton VPN is a company to trust with your card is the subject of [Is Proton VPN safe?](/en/reviews/is-proton-vpn-safe)."
+      ]
+    },
+    {
+      "heading": "Frequently asked questions",
+      "bullets": [
+        "Does Proton VPN give your money back? Under the terms, it refunds the full amount if the cancellation and the refund request are both made within 30 days of the initial purchase. It applies once per user and only to people who subscribed on Proton's website or apps.",
+        "How do I cancel Proton VPN? On the website, sign in, open Subscription, go to Cancel subscription and follow the steps until you submit the reason. If you subscribed through Google Play or the App Store, cancel in the store's subscriptions.",
+        "I cancelled and was still charged, what do I do? First check who billed you. A subscription bought through a phone app store is cancelled in the store. If the charge came from Proton after a completed cancellation, write to support with the dates and the receipt.",
+        "Can I get a refund for a renewal? The 30-day rule runs from the initial purchase, and a renewal falls outside it. After that window, the terms leave any refund at the company's discretion.",
+        "How long does the refund take? The terms say within 30 days of the request. The help center gives 5 to 10 business days for cards and 1 to 2 business days for PayPal."
+      ],
+      "postParagraphs": [
+        "If you have not subscribed yet, the rules of our link are on [Proton's page on our site](/en/coupons/proton)."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Plans and prices show on the page the button opens. Check the total and the renewal date before paying.",
+    "label": "See Proton VPN plans",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "Written from Proton's terms of service and help center. The link is an affiliate link and may earn a commission.",
+  "relatedArticles": [
+    {
+      "slug": "is-proton-vpn-safe"
+    },
+    {
+      "slug": "proton-black-friday"
+    }
+  ]
+}

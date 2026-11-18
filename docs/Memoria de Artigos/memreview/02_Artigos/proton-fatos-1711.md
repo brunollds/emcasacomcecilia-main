@@ -8,10 +8,10 @@ navegador do app, sem login, sem criar conta e **sem abrir os links de afiliado*
 
 | Código | Pauta | Slug sugerido | Busca (autocompletar de 17/11) | Estado |
 |---|---|---|---|---|
-| PN1 | Black Friday Proton 2026: preços em reais, quanto renova e 1 ano ou 2 anos | `black-friday-proton` | "proton black friday", "proton black friday 2026", "proton vpn black friday", "proton vpn black friday price", "proton unlimited black friday" | briefing; **tem prazo** |
-| PN2 | Proton VPN é confiável? | `proton-vpn-e-confiavel` | "proton vpn é confiavel" (na raiz "proton vpn"), "proton vpn é virus", "proton vpn é perigoso", "proton vpn gratuito é seguro", "proton é seguro", "proton é de qual pais" | briefing |
+| PN1 | Black Friday Proton 2026: preços em reais, quanto renova e 1 ano ou 2 anos | `black-friday-proton` | "proton black friday", "proton black friday 2026", "proton vpn black friday", "proton vpn black friday price", "proton unlimited black friday" | escrito em 17/11, nos 10 idiomas; espera o deploy |
+| PN2 | Proton VPN é confiável? | `proton-vpn-e-confiavel` | "proton vpn é confiavel" (na raiz "proton vpn"), "proton vpn é virus", "proton vpn é perigoso", "proton vpn gratuito é seguro", "proton é seguro", "proton é de qual pais" | escrito em 17/11, nos 10 idiomas; espera o deploy |
 | PN3 | Proton VPN vale a pena? Grátis ou Plus | `proton-vpn-vale-a-pena` | "proton vpn vale a pena", "proton vpn free vale a pena", "proton vpn plus vale a pena", "proton vpn é bom", "é gratuito", "é pago", "proton vpn preço" | briefing |
-| PN4 | Proton VPN: como cancelar e pedir o reembolso | `proton-vpn-reembolso-como-cancelar` | "proton vpn reembolso", "proton vpn pedir reembolso", "protonvpn solicitar reembolso" | briefing |
+| PN4 | Proton VPN: como cancelar e pedir o reembolso | `proton-vpn-reembolso-como-cancelar` | "proton vpn reembolso", "proton vpn pedir reembolso", "protonvpn solicitar reembolso" | escrito em 17/11, nos 10 idiomas; espera o deploy |
 
 - **Não há "como usar o cupom" nem "primeira compra":** a Proton não tem código nosso. "proton cupom", "cupom proton vpn",
   "cupom proton unlimited" e "cupom proton mail" têm sugestão, e a dona dessas buscas é `/cupons/proton`, que já
@@ -122,9 +122,15 @@ Fontes: `protonvpn.com/pt-br/pricing`, `protonvpn.com/pt-br/black-friday` e `pro
 - **Pagamento** (FAQ da página de preços): Visa, Mastercard, American Express, PayPal ou créditos Proton; os créditos
   podem ser comprados com dinheiro, transferência bancária ou Bitcoin, depois de criada a conta. **Pix não aparece.**
   Parcelamento não lido.
-- **Loja de aplicativos:** três das últimas reclamações do Reclame Aqui falam de assinatura feita ou cobrada pela
-  Google Play. Como o reembolso funciona para quem assina dentro do aplicativo, pela loja do celular, não foi lido: a
-  redação lê a central de ajuda antes da PN4.
+- **Loja de aplicativos (central de ajuda, lida em 17/11):** quem assinou pela Google Play cancela nas assinaturas da loja e
+  pede o reembolso ao suporte da Proton (a página diz que também pode dar para pedir pela Google Play); quem assinou
+  pela App Store cancela nos Ajustes do iPhone e pede o reembolso à Apple, em reportaproblem.apple.com. Três das últimas
+  reclamações do Reclame Aqui falam de assinatura feita ou cobrada pela Google Play. Passo a passo em
+  [[proton-vpn-reembolso-como-cancelar]].
+- **Disputa no cartão (termos):** quem recorre a disputa ou estorno renuncia ao reembolso da Proton, e a conta pode ficar
+  suspensa até a disputa acabar.
+- **Auditoria (lida em 17/11):** relatório da Securitum de 2026 aberto, quinta auditoria anual da política sem registros;
+  relatório de transparência com 458 ordens negadas desde 2017 (número da Proton). Detalhe em [[proton-vpn-e-confiavel]].
 
 ## 6. Reputação
 

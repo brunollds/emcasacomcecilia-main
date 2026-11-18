@@ -7,7 +7,7 @@ parceiro_slug: "proton"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "pauta-aprovada"
+status: "publicado-aguardando-deploy"
 responsavel: "Job-1"
 proxima_acao: "redação (Job 2), junto com a PN2; ler a central de ajuda (cancelamento e assinatura pela loja de aplicativos)"
 bloqueado_por: "-"
@@ -18,7 +18,7 @@ translationKey: "proton-vpn-reembolso"
 modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
-status_i18n: "pendente"
+status_i18n: "10-idiomas"
 affiliate: "proton"
 coupon: null
 ---
@@ -142,3 +142,14 @@ condições; se a central de ajuda mostrar, print da tela de assinatura do paine
 | Passo a passo do painel; o que acontece depois de cancelar | central de ajuda | **a ler** |
 | Reembolso de assinatura feita pela loja de aplicativos | central de ajuda | **a ler**; sem leitura, não afirmar |
 | Reclamações de renovação e de reembolso | perfil do Reclame Aqui, 17/11 | só como tema |
+
+## Redação e publicação (17/11/2026)
+
+- **Central de ajuda lida** (`protonvpn.com/support/cancel-vpn-subscription`, em inglês): cancelar desliga as renovações e mantém o plano até a data de renovação; caminho Subscription, Cancel subscription, Continue, confirmação e motivo com Submit; "Reactivate now"; cancelar não apaga a conta. Prazos de reembolso: cartão 5 a 10 dias úteis, PayPal e Bitcoin 1 a 2, Google Play cerca de 3 a 5 dias, App Store cerca de 5 a 10.
+- **Loja de aplicativos:** Google Play, cancelar nas assinaturas da loja e pedir o reembolso ao suporte da Proton (a página diz que também pode dar para pedir pela Google Play); App Store, cancelar nos Ajustes e pedir à Apple em reportaproblem.apple.com.
+- **Termos relidos (05/11/2026), além da ficha:** quem recorre a disputa ou estorno renuncia ao reembolso e a conta pode ser suspensa; reembolso só na moeda e no método originais; conta encerrada por violação perde pagamentos e créditos; seção 10: plano novo entra na hora com crédito proporcional, aumento de ciclo só no fim do ciclo atual.
+- **Não lido, fora do texto:** o que acontece com o plano depois do reembolso; onde o painel mostra a data da próxima cobrança.
+- **PT:** `proton-vpn-reembolso-como-cancelar` (id 1009). Job 3 pelo Fable: 19 achados aplicados (telas não lidas saíram, reclamações só como tema, resposta rápida com a loja do celular).
+- **Fora do PT (ids 1010 a 1018):** sem CDC, Reclame Aqui nem banco emissor; o exemplo de renovação usa os valores em dólar da página de parceiros (US$ 59,76 por 24 meses, renova por US$ 83,88 ao ano). Sonnet traduz do inglês, Fable fecha.
+- **Mídia:** capa `proton-vpn-reembolso-como-cancelar-capa.webp` ("Proton VPN / 30-day refund", uma para os 10); print dos termos em português (PT) e em inglês (os outros 9). Aprovados pelo Bruno em 17/11.
+- **Link para a PN3:** entra quando ela estiver no ar.

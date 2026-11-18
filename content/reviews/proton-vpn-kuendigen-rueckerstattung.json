@@ -1,0 +1,192 @@
+{
+  "id": 1013,
+  "slug": "proton-vpn-kuendigen-rueckerstattung",
+  "locale": "de",
+  "translationKey": "proton-vpn-reembolso",
+  "title": "Proton VPN: Abo kündigen und innerhalb von 30 Tagen eine Rückerstattung beantragen",
+  "seoTitle": "Proton VPN kündigen: Rückerstattung in 30 Tagen beantragen",
+  "type": "Anleitung",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "So kündigen Sie Proton VPN und fordern Ihr Geld zurück, was die Bedingungen verlangen, was ausgeschlossen ist und wie Sie die automatische Verlängerung vermeiden.",
+  "metaDescription": "Proton VPN kündigen und Rückerstattung beantragen: das 30-Tage-Fenster, Bedingungen, an denen ein Antrag scheitert, und wie Sie die Verlängerung vermeiden.",
+  "publishedAt": "17. November 2026",
+  "publishedAtISO": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-vpn-reembolso-como-cancelar-capa.webp",
+  "imageAlt": "Das Proton-Logo neben den Worten Proton VPN, 30 Tage Rückerstattung, daneben ein offizielles Foto einer Hand, die ein Smartphone mit der Proton-VPN-App hält.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Kurzantwort",
+      "paragraphs": [
+        "Um Ihr Geld von Proton VPN zurückzubekommen, kündigen Sie das Abonnement und beantragen die Rückerstattung beim Support, beides innerhalb von 30 Tagen nach dem ersten Kauf. Nach den Bedingungen kann eine Rückerstattung nur einmal pro Nutzer beantragt werden, und nur von Personen, die direkt bei Proton abonniert haben. Verlängerungen sind ausgeschlossen, und ein Abonnement aus dem App-Store eines Telefons kündigen Sie im Store."
+      ]
+    },
+    {
+      "heading": "Kündigen und Rückerstattung beantragen sind zwei Schritte",
+      "paragraphs": [
+        "Die Kündigung schaltet künftige Verlängerungen ab. Laut dem Hilfe-Center von Proton bleiben die kostenpflichtigen Funktionen bis zum nächsten Verlängerungsdatum aktiv, danach wechselt das Konto in den kostenlosen Tarif. Allein durch die Kündigung fließt kein Geld zurück.",
+        "Die Rückerstattung ist ein eigener Antrag beim Support. Die Nutzungsbedingungen von Proton, zuletzt am 5. November 2026 geändert, besagen, dass Kündigung und Rückerstattungsantrag beide innerhalb der 30 Tage gestellt werden müssen. Wer am 20. Tag kündigt und erst am 35. Tag an den Support schreibt, hat die Frist verpasst.",
+        "Die Bedingungen sind für die anderen kostenpflichtigen Tarife von Proton gleich, etwa Mail Plus und Proton Unlimited. Was dieser Ratgeber zu Frist und Bedingungen sagt, gilt auch für sie."
+      ],
+      "image": {
+        "src": "/images/reviews/proton/proton-vpn-reembolso-termos-en.webp",
+        "alt": "Auszug aus den Nutzungsbedingungen von Proton zur Kündigung innerhalb von 30 Tagen nach dem ersten Kauf, zum Antrag über das Support-Formular und zur Grenze von einer Rückerstattung pro Nutzer.",
+        "caption": "Die Absätze der Nutzungsbedingungen von Proton zu Kündigung und Rückerstattung."
+      }
+    },
+    {
+      "heading": "So kündigen Sie die Verlängerung auf der Website",
+      "paragraphs": [
+        "Der folgende Weg stammt aus dem [Hilfe-Center von Proton VPN](https://protonvpn.com/support/cancel-vpn-subscription), das wir am 17. November 2026 gelesen haben. Die Namen der Buttons stehen so, wie sie auf dieser Seite erscheinen."
+      ],
+      "bullets": [
+        "Melden Sie sich in Ihrem Konto auf account.protonvpn.com an.",
+        "Öffnen Sie in der Seitenleiste **Subscription**.",
+        "Scrollen Sie nach unten bis **Cancel subscription** und klicken Sie auf **Continue**.",
+        "Klicken Sie auf **Cancel subscription**, lesen Sie die Bedingungen, die Proton anzeigt, und klicken Sie noch einmal auf **Cancel subscription**.",
+        "Wählen Sie einen Grund und klicken Sie auf **Submit**. Laut der Seite wird die Kündigung erst nach diesem letzten Schritt wirksam."
+      ],
+      "postParagraphs": [
+        "Danach bleibt der kostenpflichtige Tarif bis zu dem Datum aktiv, an dem er sich verlängert hätte. Nach diesem Datum besteht das Konto weiter, im kostenlosen Tarif. Die Kündigung des Abonnements löscht das Konto nicht. Wenn Sie es sich anders überlegen, zeigt das Dashboard einen Button **Reactivate now**.",
+        "Die Bedingungen sagen, dass Personen, die das Dashboard nicht erreichen, über den Kundensupport von Proton kündigen können."
+      ]
+    },
+    {
+      "heading": "So beantragen Sie die Rückerstattung",
+      "paragraphs": [
+        "Wenn Sie auf der Website abonniert haben, beantragen Sie die Rückerstattung beim Support über das [Support-Formular von Proton VPN](https://protonvpn.com/support/contact). Wir empfehlen, von der E-Mail-Adresse des Kontos zu schreiben, das das Abonnement hält, den Tarif zu nennen und in klaren Worten um die Kündigung und die Rückerstattung innerhalb der 30 Tage zu bitten.",
+        "Nach den Bedingungen erfolgt die Rückerstattung in voller Höhe, in der ursprünglichen Währung und auf die ursprüngliche Zahlungsmethode, und wird innerhalb von 30 Tagen nach dem Antrag bearbeitet. Das Hilfe-Center nennt kürzere Zeiträume, je nach Zahlungsart."
+      ],
+      "comparisonTable": {
+        "caption": "Zeiträume laut Hilfe-Center von Proton VPN. Die Bank oder der Store schreibt den Betrag gut, die Dauer kann abweichen.",
+        "headers": [
+          "Zahlungsart",
+          "Wen Sie fragen",
+          "Genannter Zeitraum"
+        ],
+        "rows": [
+          [
+            "Kreditkarte, auf der Website",
+            "Proton-Support",
+            "5 bis 10 Werktage"
+          ],
+          [
+            "PayPal, auf der Website",
+            "Proton-Support",
+            "1 bis 2 Werktage"
+          ],
+          [
+            "Bitcoin, auf der Website",
+            "Proton-Support",
+            "1 bis 2 Werktage"
+          ],
+          [
+            "Google Play",
+            "Proton-Support oder Google Play selbst",
+            "etwa 3 bis 5 Tage"
+          ],
+          [
+            "App Store",
+            "Apple",
+            "etwa 5 bis 10 Tage"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Wann die Rückerstattung nicht gilt",
+      "paragraphs": [
+        "Die folgenden Bedingungen stehen in den Nutzungsbedingungen. Jede einzelne nimmt einen Antrag aus der 30-Tage-Regel heraus."
+      ],
+      "bullets": [
+        "**Seit dem ersten Kauf sind mehr als 30 Tage vergangen.** Nach den Bedingungen läuft die Frist ab dem ersten Kauf, und die Abbuchung einer Verlängerung liegt außerhalb davon.",
+        "**Sie haben schon einmal eine Rückerstattung beantragt.** Die Bedingungen sagen, dass eine Rückerstattung nur einmal pro Nutzer beantragt werden kann.",
+        "**Sie haben bar oder per Banküberweisung bezahlt.** Die Bedingungen sagen, dass diese Zahlungen nicht erstattungsfähig sind.",
+        "**Sie haben über einen Vermittler abonniert.** Die Regel gilt für Personen, die über die offiziellen Kanäle von Proton abonniert haben, also die Website und die Apps. Wenn Sie bei einem Dritten gekauft haben, gilt dessen Rückerstattungsrichtlinie.",
+        "**Sie haben die Abbuchung über Ihren Kartenanbieter angefochten.** Die Bedingungen sagen, dass, wer sich auf eine Anfechtung oder Rückbuchung über den Zahlungsdienstleister beruft, auf die Rückerstattung von Proton verzichtet und vom Ausgang des Streitfalls abhängt. Das Konto kann bis zur Klärung des Streitfalls gesperrt werden.",
+        "**Das Konto wurde wegen Verstoßes gegen die Bedingungen geschlossen.** In diesem Fall verfallen laut den Bedingungen alle Zahlungen und Guthaben."
+      ],
+      "postParagraphs": [
+        "Nach den 30 Tagen ist der Dienst laut den Bedingungen nicht erstattungsfähig, und jede Rückerstattung oder Gutschrift liegt im alleinigen Ermessen des Unternehmens. Sie können fragen, ohne dass eine Regel für Sie spricht."
+      ]
+    },
+    {
+      "heading": "Ich habe in der App abonniert, über Google Play oder den App Store",
+      "paragraphs": [
+        "Ein in der Telefon-App abgeschlossenes Abonnement wird in der Regel vom Store abgerechnet. Für Personen, die über Google Play oder den App Store bezahlt haben, sagt das Hilfe-Center, dass im Store selbst gekündigt wird."
+      ],
+      "bullets": [
+        "**Google Play.** Öffnen Sie die Play-Store-App, tippen Sie auf Ihr Profilbild, gehen Sie zu Abos und wählen Sie Proton VPN, um zu kündigen. Für eine Rückerstattung innerhalb der 30 Tage sagt das Hilfe-Center, dass Sie den Proton-Support kontaktieren sollen, und ergänzt, dass es auch möglich sein kann, sie über Google Play selbst zu beantragen.",
+        "**App Store.** Öffnen Sie auf dem iPhone die Einstellungen, tippen Sie auf Ihren Namen, gehen Sie zu Abonnements, wählen Sie Proton VPN und kündigen Sie. Die Rückerstattung wird bei Apple beantragt, auf reportaproblem.apple.com."
+      ],
+      "postParagraphs": [
+        "Prüfen Sie vor der Kündigung den Beleg, um zu sehen, wer Ihnen die Rechnung gestellt hat. Stammt der Beleg von Google oder Apple, wird im Store gekündigt."
+      ]
+    },
+    {
+      "heading": "So vermeiden Sie die Verlängerung",
+      "paragraphs": [
+        "Das Abonnement verlängert sich von selbst, um denselben Zeitraum. Die Bedingungen sagen, dass Ihnen der zum Zeitpunkt der Verlängerung gültige Preis berechnet wird, und ein Aktionspreis gilt nur für den ersten Zeitraum. Auf Protons Partnerseite in US-Dollar wurde der 2-Jahres-Tarif VPN Plus mit 59,76 $ für die ersten 24 Monate berechnet und verlängerte sich dann zu 83,88 $ alle 12 Monate. Die Preise ändern sich mit Land und Währung.",
+        "Um die Verlängerung zu stoppen, verlangen die Bedingungen die Kündigung vor dem Verlängerungsdatum. Sie müssen nicht bis zum Vortag warten. Weil der kostenpflichtige Tarif bis zum Ende des bereits bezahlten Zeitraums läuft, können Sie gleich nach dem Abschluss kündigen und trotzdem alles nutzen, wofür Sie bezahlt haben.",
+        "Tragen Sie das nächste Abrechnungsdatum in Ihren Kalender ein, einige Tage früher. Wenn Sie über den App-Store eines Telefons abonniert haben, prüfen Sie das Datum in den Abonnements des Stores."
+      ]
+    },
+    {
+      "heading": "Den Tarif wechseln statt zu kündigen",
+      "paragraphs": [
+        "Wenn der Tarif zu groß oder zu klein war, können Sie wechseln, ohne zu gehen. Die Bedingungen sagen, dass sich das Abonnement beim Wählen eines neuen kostenpflichtigen Tarifs sofort ändert und der ungenutzte Teil des vorherigen Tarifs zu Kontoguthaben wird. Ein längerer Abrechnungszeitraum, zum Beispiel von 1 Monat auf 1 Jahr, beginnt erst am Ende des laufenden Zeitraums. Nach den Bedingungen läuft das Rückerstattungsfenster ab dem ersten Kauf."
+      ]
+    },
+    {
+      "heading": "Wenn Proton nicht antwortet",
+      "paragraphs": [
+        "Das Support-Formular ist der offizielle Kanal, und das Hilfe-Center sagt, dass kostenpflichtige Tarife Prioritäts-Support und Chat enthalten. Bewahren Sie den Kaufbeleg, das Datum Ihrer Kündigung und das Datum Ihres Rückerstattungsantrags auf. Diese drei Daten zeigen, dass der Antrag rechtzeitig kam.",
+        "Verbraucherschutzregeln Ihres Landes können Ihnen eine eigene Frist geben. Ob Proton VPN ein Unternehmen ist, dem Sie Ihre Karte anvertrauen sollten, behandelt [Ist Proton VPN seriös?](/de/reviews/ist-proton-vpn-serioes)."
+      ]
+    },
+    {
+      "heading": "Häufige Fragen",
+      "bullets": [
+        "Zahlt Proton VPN das Geld zurück? Nach den Bedingungen erstattet es den vollen Betrag, wenn Kündigung und Rückerstattungsantrag beide innerhalb von 30 Tagen nach dem ersten Kauf erfolgen. Das gilt einmal pro Nutzer und nur für Personen, die auf der Website oder in den Apps von Proton abonniert haben.",
+        "Wie kündige ich Proton VPN? Melden Sie sich auf der Website an, öffnen Sie Subscription, gehen Sie zu Cancel subscription und folgen Sie den Schritten bis zum Absenden des Grundes. Wenn Sie über Google Play oder den App Store abonniert haben, kündigen Sie in den Abonnements des Stores.",
+        "Ich habe gekündigt und wurde trotzdem belastet, was tun? Prüfen Sie zuerst, wer Ihnen die Rechnung gestellt hat. Ein Abonnement aus dem App-Store eines Telefons wird im Store gekündigt. Kam die Belastung von Proton nach einer abgeschlossenen Kündigung, schreiben Sie dem Support mit den Daten und dem Beleg.",
+        "Bekomme ich eine Rückerstattung für eine Verlängerung? Die 30-Tage-Regel läuft ab dem ersten Kauf, und eine Verlängerung liegt außerhalb davon. Nach diesem Zeitraum überlassen die Bedingungen jede Rückerstattung dem Ermessen des Unternehmens.",
+        "Wie lange dauert die Rückerstattung? Laut den Bedingungen innerhalb von 30 Tagen nach dem Antrag. Das Hilfe-Center nennt 5 bis 10 Werktage bei Karten und 1 bis 2 Werktage bei PayPal."
+      ],
+      "postParagraphs": [
+        "Wenn Sie noch nicht abonniert haben: Die Regeln unseres Links stehen auf [Protons Seite bei uns](/de/coupons/proton)."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Tarife und Preise erscheinen auf der Seite, die der Button öffnet. Prüfen Sie vor der Zahlung den Gesamtbetrag und das Verlängerungsdatum.",
+    "label": "Proton-VPN-Tarife ansehen",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "Verfasst auf Grundlage der Nutzungsbedingungen und des Hilfe-Centers von Proton. Der Link ist ein Affiliate-Link und kann uns eine Provision einbringen.",
+  "relatedArticles": [
+    {
+      "slug": "ist-proton-vpn-serioes"
+    },
+    {
+      "slug": "proton-black-friday-angebote"
+    }
+  ]
+}
