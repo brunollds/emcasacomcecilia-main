@@ -20,3 +20,22 @@ As análises dos parceiros apontam para cá (`_site/<coleta-id>`) e não copiam 
 `2-processado/` atribui os exports gerais a cada loja de `couponsData.ts`: `nossos-dados-lojas.csv` (formato longo),
 `resumo-lojas.md` (uma tabela por loja) e o script `montar-lojas.mjs`. A regra e o comando estão em
 `2-processado/COMO-REFAZER.md`. As pastas de coleta continuam sendo o bruto e não são editadas.
+
+## Rotina (fluxo v2, desde 18/11/2026)
+
+A coleta do site inteiro é uma rotina própria, fora do relógio dos parceiros (`PROGRAMA.md`, seção 2), com o brief
+`modelos/briefs/rotina-site.md`. Roda uma vez por mês, junto da revisão mensal de cupons, e depois de campanha grande
+(a próxima: logo depois da Black Friday, com os dados até 30/11). Os parceiros usam o snapshot mais recente desta
+tabela.
+
+O que cada rodada exporta, com o período dos últimos 3 meses fechados:
+
+| Plataforma | Relatórios |
+|---|---|
+| Search Console | Desempenho por consulta e por página do site inteiro (anotar o corte de 1.000 linhas); recortes por página de cupom das lojas que a rodada de parceiro pedir |
+| Bing Webmaster | Palavras-chave, páginas e AI Performance (consultas e páginas citadas) |
+| GA4 | Páginas e telas, aquisição de tráfego e eventos, com a conferência de eventos em dobro |
+| Clarity | Números agregados do painel do site e das páginas de cupom; sem gravações |
+
+O `FONTE.md` de cada coleta diz se o export foi completo ou cortado e, no processado, o commit de `couponsData.ts` e de
+`content/` que o `montar-lojas.mjs` leu.
