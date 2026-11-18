@@ -146,3 +146,7 @@ rodapé do checkout com a empresa e print do resumo com o cupom.
 - **Capa:** `/images/reviews/barbours/barbours-e-confiavel-capa.webp`, "É confiável?", com as duas mulheres do banner de lançamentos, o logo e o CECILIALINHARES (imagens oficiais da loja).
 - **Corpo:** o print das informações de contato do checkout (empresa e CNPJ) e o print do resumo do checkout.
 - **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
+
+## No ar (18/11/2026)
+
+Release `54248b78` (com o #1162, o #1166 do Farol, o #1160 da AD7 e AD8, as lojas BOLD e Barbour's e a campanha da Proton), no ar às 21:07 UTC; build `01a1f077…`, 2 workers no `deploy:finish`. Smoke de 16 páginas (título, capa e imagens do CDN, CECILIALINHARES, frases proibidas, sitemap e llms.txt), `covers:check` 8/8, IndexNow 26 URLs, captura `44398489658`.
