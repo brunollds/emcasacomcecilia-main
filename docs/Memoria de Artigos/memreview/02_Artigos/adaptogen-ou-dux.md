@@ -9,9 +9,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redação (Job 2), depois de reler os preços das duas lojas no mesmo dia"
+status: "pronto-para-deploy"
+responsavel: "Job-4"
+proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow; reler os preços das duas lojas na semana de 27/11"
 bloqueado_por: "-"
 data_criacao: "2026-11-18"
 pauta_id: "AD7"
@@ -184,3 +184,17 @@ por 100 g de proteína é nosso.
 ## Decisões do Bruno
 
 - 18/11/2026: só whey. Creatina e os outros produtos ficam para uma parte 2.
+
+## Redação, revisão e JSON (18/11/2026)
+
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1065; o 1059 ficou com a Barbour's, #1162) por subagente, com o brief da sessão de artigos (regras do pacote da AD1, a releitura de 18/11 à tarde e a leitura do dia da sessão de pauta), e revisado pela sessão. Só PT.
+- **Fable:** 18 propostas, aplicadas: o cupom somou com a Black Friday nos nossos testes (a coluna com o CECILIA usa o preço de campanha); a linha de Pix da Dux sem boleto e com "cerca de 5%" (4,8% a 4,9% pela página); sachê e 450 g não são exclusivos da Dux (a Adaptogen tem sachê do Tasty Whey 3W e o Tasty Iso Naturalle de 450 g), então o quadro diz "o mesmo whey em mais tamanhos"; frase do frete (Adaptogen com piso menor no Sudeste, Dux no Nordeste e no Norte); dose maior do Tasty (34 g contra 30 g, 71 g contra 67 g de proteína por 100 g de pó) e empate de proteína no isolado.
+- **Sabor Neutro da Adaptogen:** não conferido; o texto manda ver a lista na página de cada whey e não diz que ela não tem.
+- **Parcelamento da Dux fora do texto:** a leitura traz "4x R$ 87,73" no concentrado, que dá o Pix (R$ 350,92), não o cartão de R$ 368,90; reler a parcela antes de citar.
+- **Parecer do Farol (ChatGPT/Codex, colado pelo Bruno em 18/11; `docs/auditoria-copy-artigos/adaptogen-ad7-ad8-20261118-farol/`, fora do Git):** o preço da Dux da leitura da pauta era o "de" (R$ 368,90, R$ 455,90 e R$ 560,90); o cartão da página é **R$ 350,90, R$ 433,90 e R$ 533,90** (Pix R$ 333,36, R$ 412,21 e R$ 507,21), conferido pela sessão no JSON da página. Custo por 100 g de proteína da Dux: R$ 58,48, R$ 72,32 e R$ 71,68; a Adaptogen segue mais barata, 39%, 41% e 27% sem o cupom, 45%, 47% e 34% com ele. Os sabores da Dux estão à venda (o "esgotado" da extração do Farol não se confirmou). A versão completa do Farol entrou (três tabelas pequenas, veredito antes do FAQ), com ajustes da sessão: sem link na resposta rápida, sem data na legenda da tabela, sem a frase do piso de frete antes ou depois do cupom e a frase padrão do Pix.
+
+## Capa e imagens (Job 6)
+
+- **Capa:** `/images/reviews/adaptogen/adaptogen-ou-dux-capa.webp`, painel lateral, "ou Dux? / Whey e preço" e o CECILIA, com o Adapto Whey 3W (foto oficial; ainda não estava em capa da loja). A Dux só pelo nome.
+- **Corpo:** Gold Whey, Tasty Whey 3W, Adapto Whey 3W (foto nova, `adaptogen-adapto-whey-3w-900g.webp`) e Tasty Iso, com link de afiliado, e o print do checkout.
+- **CDN:** as imagens novas subiram em 18/11/2026, com o sim do Bruno (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
