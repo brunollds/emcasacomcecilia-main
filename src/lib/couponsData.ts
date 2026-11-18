@@ -149,7 +149,7 @@ export type CouponCodeOffer = CouponBase & {
 
 // 'depende' cobre o que tem condição (o mínimo do frete grátis, o cashback que conta depois do desconto).
 // Descontos em sequência nunca são somados na condição (15% e 2% dão 16,7%), e a linha de outro cupom diz só a regra.
-export type StackingBenefit = 'promocoes' | 'retirada' | 'pix' | 'cashback' | 'outro-cupom' | 'frete';
+export type StackingBenefit = 'promocoes' | 'assinatura' | 'retirada' | 'pix' | 'cashback' | 'outro-cupom' | 'frete';
 // `label` troca o nome do benefício quando a loja tem um nome próprio para ele (o giftback da DAMIE).
 export type StackingRow = { benefit: StackingBenefit; stacks: 'sim' | 'nao' | 'depende'; condition: string; label?: string };
 
@@ -4611,18 +4611,19 @@ const STORE_COUPONS: Coupon[] = [
     hubCard: 'reduzido',
     shortDescription: 'todo o site da BOLD Snacks, inclusive os produtos em promoção',
     longDescription:
-      'O cupom BOLD Snacks CECILIA15 dá 20% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste, os 20% entraram numa caixa de barras pelo preço cheio e num whey em promoção. O nome tem 15, mas o desconto no checkout foi de 20%.',
+      'O cupom BOLD Snacks CECILIA15 dá 20% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste, os 20% entraram numa caixa de barras pelo preço cheio, num whey em promoção e no preço de assinatura do BOLD Club. O nome tem 15, mas o desconto no checkout foi de 20%.',
     metaTitle: 'Cupom BOLD Snacks: 20% OFF com CECILIA15',
     metaTitleMonth: true,
     metaDescription:
       'Cupom BOLD Snacks: CECILIA15 dá 20% OFF em barra de proteína e whey, para cliente novo ou antigo, e soma com as promoções. Testado no checkout.',
-    eligibleCategories: 'Produtos do site oficial da BOLD Snacks, inclusive os que estão em promoção',
+    eligibleCategories: 'Produtos do site oficial da BOLD Snacks, inclusive os que estão em promoção e, no nosso teste, a assinatura BOLD Club',
     validity: 'Cupom ativo enquanto a parceria estiver vigente; o percentual pode mudar com as campanhas da loja',
     reusable: 'Pode ser usado por clientes novos e antigos',
     shipping: 'Entrega para todo o Brasil; o valor e o prazo do frete saem no checkout pelo CEP, segundo a política de entrega da loja',
-    combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento; a loja aceita um cupom por pedido',
+    combinable: 'Soma com as promoções vigentes do site e, no nosso teste, com o preço de assinatura do BOLD Club; vale com todas as formas de pagamento, e a loja aceita um cupom por pedido',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, o whey de R$ 209 por R$ 189 saiu por R$ 151,20' },
+      { benefit: 'assinatura', stacks: 'sim', condition: 'No nosso teste, o código entrou sobre o preço de assinatura do BOLD Club: a caixa de barras de R$ 152,00 saiu por R$ 121,60' },
       { benefit: 'pix', stacks: 'sim', condition: 'O cupom vale no Pix, como nas outras formas de pagamento' },
       { benefit: 'outro-cupom', stacks: 'nao', condition: 'A loja aceita um cupom promocional por pedido' },
       { benefit: 'cashback', stacks: 'nao', condition: 'Pela política da loja, o cashback não soma automaticamente com cupons promocionais' },
@@ -4632,7 +4633,7 @@ const STORE_COUPONS: Coupon[] = [
     lastVerified: '2026-11-18',
     testedAt: '2026-11-18',
     testNote:
-      'Num carrinho com a BOLD Caixa Mista pelo preço cheio de R$ 179,00 e o BOLD Whey Chocolate ao Leite de 450 g em promoção, de R$ 209,00 por R$ 189,00, o CECILIA15 tirou R$ 35,80 da caixa e R$ 37,80 do whey: os dois saíram por R$ 143,20 e R$ 151,20, com 20% de desconto em cada um. O resumo mostrou os dois brindes que o carrinho incluiu, uma coqueteleira e uma bolsa térmica a R$ 0,01, e o total ficou em R$ 294,42.',
+      'Num carrinho com a BOLD Caixa Mista pelo preço cheio de R$ 179,00 e o BOLD Whey Chocolate ao Leite de 450 g em promoção, de R$ 209,00 por R$ 189,00, o CECILIA15 tirou R$ 35,80 da caixa e R$ 37,80 do whey: os dois saíram por R$ 143,20 e R$ 151,20, com 20% de desconto em cada um. O resumo mostrou os dois brindes que o carrinho incluiu, uma coqueteleira e uma bolsa térmica a R$ 0,01, e o total ficou em R$ 294,42. Num segundo carrinho, a caixa BOLD Mousse de Maracujá na assinatura, com entrega a cada 2 meses, custava R$ 152,00, 15% abaixo dos R$ 179,00 da compra única, e o CECILIA15 tirou mais R$ 30,40: a caixa saiu por R$ 121,60.',
     codeInstructions: [
       'Copie o código CECILIA15 no card acima.',
       'Acesse o site oficial da BOLD Snacks pelo botão indicado, coloque os produtos no carrinho e clique em Finalizar.',
@@ -4669,6 +4670,11 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O cupom soma com produtos em promoção?',
         answer:
           'Sim. No nosso teste, o BOLD Whey Chocolate ao Leite de 450 g estava em promoção, de R$ 209,00 por R$ 189,00, e o cupom tirou os 20% dele também: o pote saiu por R$ 151,20.',
+      },
+      {
+        question: 'O cupom CECILIA15 vale na assinatura da BOLD?',
+        answer:
+          'No nosso teste, valeu. A caixa BOLD Mousse de Maracujá na assinatura BOLD Club, com entrega a cada 2 meses, custava R$ 152,00, 15% abaixo dos R$ 179,00 da compra única, e o CECILIA15 tirou mais 20%: a caixa saiu por R$ 121,60. A política de assinatura diz que as condições dela não se acumulam automaticamente com cupons, então confira o código no resumo do checkout antes de assinar. A assinatura tem frete grátis nas entregas recorrentes e pede permanência mínima de 2 ciclos.',
       },
       {
         question: 'Dá para usar o CECILIA15 junto com outro cupom?',
