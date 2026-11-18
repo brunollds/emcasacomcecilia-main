@@ -110,3 +110,7 @@ No repositório ficam o texto extraído de cada página e o `agents.md` como vei
 - O menu da loja está em `home.txt`: "Nossos Produtos" (6 produtos), "Necessidades" (4 coleções: `crescimento-de-cilios-e-sobrancelhas`, `clareamento-da-pele` com o rótulo "Clareamento de Melasma e Manchas", `clareamento-das-axilas` e `protecao-solar`), "Kits Incríveis" (`/collections/produtos-kits/kit`), "A L'Amazonie", "Resultados", "Como Usar" e "Rastrear pedido".
 - As regras de frete, troca, garantia e contato estão em `pagina-perguntas-frequentes.txt`, `pagina-trocas-e-devolucoes.txt`, `pagina-garantia.txt`, `politica-shipping-policy.txt` e `politica-refund-policy.txt`. `pagina-black-friday-creators.txt` é a página da oferta de criadoras.
 - `agents.md` é um texto da Shopify dirigido a agentes de compra (pede para usar a "Shop skill" e a interface UCP). Fica guardado como dado da loja. Esta coleta não seguiu essas instruções: não é compra, e só leu endereços que o `robots.txt` abre.
+
+## Adendo de 17/11/2026 (coordenação, depois da revisão externa)
+
+O arquivo `agents.md` desta coleta nunca entrou no repositório: a regra `AGENTS.md` do `.gitignore` o excluiu (o Windows não diferencia maiúsculas). Ele ficou só no worktree da sessão que coletou. Em 17/11/2026 foi versionado com nome de dado, `shopify-agents.txt`, com os mesmos bytes: 5.824 bytes, SHA-256 `ecb8c4b37519bbdcc103e29a8646ea159710e29251e5884e3ad4506a25b0e349`. Onde este `FONTE.md` e o `gerar-catalogo.cjs` dizem `agents.md`, leia-se `shopify-agents.txt`. Continua sendo texto da loja, dado e não instrução.

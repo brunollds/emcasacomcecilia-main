@@ -64,3 +64,8 @@ vídeos, artigos sem `affiliate` e consultas sem marca. Na coleta de 17/11/2026 
   17/11/2026 não apareceu falso positivo nas amostras lidas (Insider, Temu, Cléa, Belive, Petz, Magalu).
 - Coleta nova: trocar as três constantes de pasta no começo do script, ou passar a ler todas as coletas e guardar a
   mais recente por chave. Enquanto houver uma coleta só de cada fonte, as constantes bastam.
+
+## Reprodução histórica e contagem (nota de 17/11/2026, depois da revisão externa)
+
+- **O gerador lê arquivos vivos do site.** Além do bruto de `_site/`, ele lê `src/lib/couponsData.ts` e `content/reviews/`. O `nossos-dados-lojas.csv` guardado foi gerado no commit do PR #1079 (`9f8adcc4`) e tem 8.295 registros de 31 lojas. Rodado com o cadastro de hoje, o mesmo gerador dá outro resultado (o revisor externo obteve 8.349 linhas e 32 lojas), porque entraram loja e artigos novos. Para reproduzir o arquivo guardado, rodar o gerador com o repositório naquele commit. Isso não é erro de soma: é entrada que não estava fixada.
+- **Registros e linhas físicas.** São 8.295 registros de dados mais o cabeçalho. `wc -l` mostra 8.305, porque 9 registros têm quebra de linha dentro de aspas (consulta exportada do Search Console). Contar com um leitor de CSV, não por linha.

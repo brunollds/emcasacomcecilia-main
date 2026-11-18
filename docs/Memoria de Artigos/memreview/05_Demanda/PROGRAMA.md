@@ -4,8 +4,10 @@ Criado em 16/11/2026, a pedido do Bruno, a partir do desenho da sessão de pauta
 (o handoff consolidado está guardado como veio em `HANDOFF-ORIGEM.md`). Ajustado em 17/11/2026 com a segunda revisão
 dos dois, antes da primeira coleta.
 
-**Estado: etapa 1 pronta (esta estrutura). Nenhuma coleta foi feita.** O primeiro piloto é a L'Amazonie:
-`parceiros/lamazonie/ROTEIRO-PILOTO.md`.
+**Estado: primeiro piloto (L'Amazonie) executado em 17/11/2026**, com as cinco etapas e a revisão independente. O que
+aconteceu está em `parceiros/lamazonie/DIARIO.md` e em `LICOES.md`. O processo passou por revisão externa
+(`REVISAO-PROCESSO-PILOTO-CODEX.md` e `REVISAO-PROCESSO-PILOTO-GEMINI.md`); as mudanças de fluxo propostas estão em
+`PROPOSTA-FLUXO-V2.md` e **ainda não foram aplicadas a este documento**.
 
 ## 1. O que é
 

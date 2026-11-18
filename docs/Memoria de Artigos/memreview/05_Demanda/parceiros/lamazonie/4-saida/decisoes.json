@@ -1,0 +1,14 @@
+{
+  "op-lamazonie-0027": {
+    "decisao": "aprovada",
+    "data": "2026-11-17",
+    "execucao": "concluída em 2026-11-17: o CECILIA entrou na oferta (R$ 159,00 para R$ 151,05), uma unidade, checkout próprio",
+    "evidencia": "1-bruto/20261117-1848-checkout-oferta-bf; PR #1106"
+  },
+  "op-lamazonie-0007": {
+    "decisao": "aprovada em parte",
+    "data": "2026-11-17",
+    "execucao": "parcial: o guia de Black Friday recebeu o resultado do teste (PR #1109); falta a releitura da semana de 27/11",
+    "evidencia": "PR #1109"
+  }
+}

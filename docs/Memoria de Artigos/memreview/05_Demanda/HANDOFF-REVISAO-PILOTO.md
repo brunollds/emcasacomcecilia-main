@@ -225,3 +225,30 @@ sessão alterou.
 4. Uma proposta de fluxo para o segundo piloto: etapas, ordem, o que roda junto, quem revisa o quê, e os arquivos
    que cada papel pode editar.
 5. O que deste relato da coordenação não bate com os arquivos.
+
+## Errata (17/11/2026, depois das duas revisões)
+
+O texto acima fica como foi enviado aos revisores. Os pontos em que eles mostraram que o relato não batia com os
+arquivos:
+
+1. **Consultas manuais de IA.** Não foram um desvio da etapa 4: não estavam no brief dela. A omissão foi da
+   coordenação, ao distribuir o trabalho. E "a medição de IA não foi feita" é largo demais: o protocolo manual não foi
+   feito, mas há 13 linhas de resposta de IA da busca entre os sinais.
+2. **"A matriz foi montada só sobre os CSVs."** Absoluto demais: o analista também leu os JSONs dos artigos, o
+   `couponsData.ts` e o bruto do marketplace. O que faltou foi ler a semente e o dossiê antes, e varrer o bruto por
+   prazo e preço.
+3. **"O navegador não grava arquivo."** Vale para as coletas deste piloto, não como regra: as plataformas exportaram
+   arquivos, e o texto extraído da página pode ser guardado.
+4. **Tempo.** São 122 minutos declarados pelas sessões de etapa. As duas coletas da coordenação, a coordenação em si, a
+   espera e o tempo do Bruno não foram medidos: o custo total é desconhecido.
+5. **Estado dos arquivos na hora do envio.** `3-matriz/LEITURA.md` ainda dizia 20 prontas e 9 em revisão;
+   `recomendacoes.md` dizia que nada tinha sido decidido, depois do teste (#1106) e do artigo (#1109);
+   `1-bruto/README.md` contava 12 coletas, e são 13; `PROGRAMA.md` e o roteiro diziam que nada tinha sido executado; os
+   comandos da matriz e da saída não estavam em nenhum `COMO-REFAZER.md`.
+6. **Bruto faltando.** O `agents.md` da coleta `20261117-1007-shopify-paginas` não tinha entrado no repositório, por
+   causa do `.gitignore`. Está agora como `shopify-agents.txt`.
+7. **`nossos-dados-lojas.csv`.** São 8.295 registros em 8.305 linhas físicas (há quebra de linha dentro de aspas), e o
+   gerador lê o cadastro vivo: rodado hoje, dá outro número de lojas.
+
+Os pareceres estão em `REVISAO-PROCESSO-PILOTO-CODEX.md` e `REVISAO-PROCESSO-PILOTO-GEMINI.md`; o que muda no fluxo,
+em `PROPOSTA-FLUXO-V2.md`.

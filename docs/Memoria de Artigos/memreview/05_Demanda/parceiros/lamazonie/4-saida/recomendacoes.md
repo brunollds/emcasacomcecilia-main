@@ -3,8 +3,12 @@
 Gerado por `gerar-recomendacoes.cjs` a partir de `3-matriz/matriz.csv`. Não editar à mão: mudar a matriz e gerar de
 novo. Primeiro piloto do Programa de Demanda, com coletas de 17/11/2026.
 
-**Estado: 29 oportunidades revisadas (17 com ação e 12 de manter). Todas passaram pela revisão
-independente (`3-matriz/REVISAO.md`, duas passadas). Nenhuma foi decidida pelo Bruno ainda.**
+**Estado: 29 oportunidades revisadas: 15 com ação recomendada, 2 ideias registradas e não recomendadas agora, e
+12 de manter. Todas passaram pela revisão independente (`3-matriz/REVISAO.md`, duas passadas). 2 têm decisão do
+Bruno registrada em `decisoes.json`; as outras esperam.**
+
+Revisão, decisão e execução são coisas diferentes: a matriz guarda o estado da revisão; a decisão do Bruno e o que já
+foi executado estão em `decisoes.json` e aparecem em cada item.
 
 Como ler: cada item traz o que a matriz registra. As métricas não são copiadas; os ids de evidência estão na linha da
 matriz e levam ao bruto. Fato e leitura estão separados em `3-matriz/LEITURA.md`. O programa não mexe na Fila de
@@ -12,7 +16,7 @@ Pautas: o que o Bruno aprovar segue para o destino indicado.
 
 ## Ordem sugerida
 
-1. `op-lamazonie-0027`: testar o código na oferta anunciada, **até 26/11**.
+1. `op-lamazonie-0027`: testar o código na oferta anunciada, até 26/11. **Feito em 17/11.**
 2. `op-lamazonie-0029`: pedir à parceira a lista de ingredientes e o número do processo de cada produto.
 3. `op-lamazonie-0007`: atualizar o guia de Black Friday na semana de 27/11, com o resultado da primeira.
 
@@ -37,8 +41,6 @@ de 30/11.
 | `op-lamazonie-0015` | links-internos | baixa | media | Chegar de um artigo da loja à resposta seguinte sem voltar à busca |
 | `op-lamazonie-0016` | atualizar-fatos | baixa | media | Ver a nota atual da loja no Reclame Aqui |
 | `op-lamazonie-0017` | video | baixa | baixa | Ver em vídeo onde digitar o cupom |
-| `op-lamazonie-0018` | criar-artigo | baixa | baixa | Decidir se compra o creme clareador da L'Amazonie e em qual das páginas (íntimo, axilas ou virilha) |
-| `op-lamazonie-0019` | criar-artigo | baixa | baixa | Decidir se compra o Sérum Clareador Vitamina C20 e em qual kit |
 | `op-lamazonie-0020` | criar-artigo | baixa | baixa | Escolher entre o protetor de tratamento FPS 99 e o bastão com cor FPS 95 da L'Amazonie |
 
 ## Recomendações com ação
@@ -55,7 +57,8 @@ de 30/11.
 - **Pendências e notas:** A indicação "Até 26/11" está só no resumo de uma busca (serp-01, linha de patrocinados), escrito pela sessão que coletou: não há captura da página nem sinal no sinais.csv. Quem chega pelo anúncio cai na página de oferta, então ela é pública por esse caminho. A releitura da semana de 27/11 já estava na Fila de Pautas. Depois da campanha, decidir o destino da tabela de kits do guia (pergunta nova na LEITURA).
 - **Destino, se aprovada:** Sessão de artigos, com esta ficha como escopo
 - **Revisado por:** sessão de revisão independente, 17/11/2026
-- **Decisão do Bruno:** em espera
+- **Decisão do Bruno:** aprovada em parte, em 2026-11-17
+- **Execução:** parcial: o guia de Black Friday recebeu o resultado do teste (PR #1109); falta a releitura da semana de 27/11 (PR #1109)
 
 ### op-lamazonie-0027 · atualizar-fatos · prioridade alta
 
@@ -70,7 +73,8 @@ de 30/11.
 - **Ressalva da coordenação:** O bruto guarda o nome da oferta e a data ("Até 26/11"), não o endereço de destino do anúncio. Que o anúncio leva à página da oferta `cat-lamazonie-0046` é inferência pelo nome; abrir a página é parte da ação.
 - **Destino, se aprovada:** Teste de carrinho, sem login nem compra, pela sessão de pautas ou de cupons; o resultado alimenta a `op-lamazonie-0007`
 - **Revisado por:** sessão de revisão independente, 17/11/2026
-- **Decisão do Bruno:** em espera
+- **Decisão do Bruno:** aprovada, em 2026-11-17
+- **Execução:** concluída em 2026-11-17: o CECILIA entrou na oferta (R$ 159,00 para R$ 151,05), uma unidade, checkout próprio (1-bruto/20261117-1848-checkout-oferta-bf; PR #1106)
 
 ### op-lamazonie-0029 · atualizar-fatos · prioridade alta
 
@@ -244,35 +248,6 @@ de 30/11.
 - **Revisado por:** sessão de revisão independente, 17/11/2026
 - **Decisão do Bruno:** em espera
 
-### op-lamazonie-0018 · criar-artigo · prioridade baixa
-
-- **Pergunta ou decisão atendida:** Decidir se compra o creme clareador da L'Amazonie e em qual das páginas (íntimo, axilas ou virilha)
-- **Evidência:** sinais: 50 (ids na matriz); nossos dados: 2 (ids na matriz); comercial: 4 (ids na matriz)
-- **Conteúdo existente:** cobertura: @nao-se-aplica
-- **O que falta hoje e o que a ação acrescenta:** A primeira página traz três fichas da loja (duas do íntimo e a de virilha), a página inicial, um post da marca, um conteúdo da marca hospedado no Reclame Aqui e um anúncio de marketplace. O título do anúncio da loja oficial descreve um creme só para virilha, axila e rosto, o que responde em parte se as três páginas vendem o mesmo produto; não prova a fórmula das três. O que os resultados não dizem é o que o catálogo mostra: as três páginas usam os mesmos códigos de produto e o kit de duas unidades tem preço diferente conforme a página. Um artigo traria isso, o que a marca declara de ativos, prazo e uso, e como o código entra.
-- **Prioridade, e por quê:** baixa. O nome completa no autocompletar e "creme clareador l amazonie" está no bloco de buscas relacionadas de cinco das sete buscas da marca. Esse bloco é quase o mesmo nas sete, porque todas levam o nome da marca: a repetição mostra que o Google associa o termo à marca, não quantas pessoas buscam. Não há pergunta de decisão ("funciona", "axilas" e "virilha" com a marca voltaram vazias), o tema amplo fala em opções baratas e não há uso nosso. Sozinho, o fato do preço por página não sustenta um artigo sobre área íntima; ele cabe na linha op-lamazonie-0028.
-- **Confiança:** baixa
-- **Dependências e como obter:** Decisão do Bruno de abrir um segundo produto da loja; confirmar a fórmula com a marca ou pelo rótulo (linha op-lamazonie-0029), já que o anúncio oficial indica um creme só; teste de carrinho para citar preço de kit por página.
-- **Pendências e notas:** Área íntima, gestação e pele sensível: promessa sempre atribuída à marca e "na dúvida, o médico". Guia de produto, não comparativo. O peso (80 g) está no catálogo e no anúncio da loja oficial.
-- **Ressalva da coordenação:** Registro, não pedido de artigo: prioridade e confiança baixas, e a primeira dependência é a decisão do Bruno. O fato útil desta linha já está na `op-lamazonie-0028`.
-- **Destino, se aprovada:** Linha na Fila de Pautas; o Job 1 faz o briefing
-- **Revisado por:** sessão de revisão independente, 17/11/2026
-- **Decisão do Bruno:** em espera
-
-### op-lamazonie-0019 · criar-artigo · prioridade baixa
-
-- **Pergunta ou decisão atendida:** Decidir se compra o Sérum Clareador Vitamina C20 e em qual kit
-- **Evidência:** sinais: 40 (ids na matriz); nossos dados: 2 (ids na matriz); comercial: 4 (ids na matriz)
-- **Conteúdo existente:** cobertura: 1 (ids na matriz)
-- **O que falta hoje e o que a ação acrescenta:** Os resultados são a ficha da loja, anúncios de marketplace e posts da marca. Há uma resenha em vídeo de canal pessoal que ninguém abriu: não sabemos se tem vínculo com a marca. Nenhuma página separa o que é declarado do que não dá para conferir. O nosso texto traria os ativos e as concentrações que a marca declara, a ressalva de que a lista de ingredientes não é publicada, o volume (pelo anúncio da loja oficial), as perguntas que a própria loja responde (melasma, gestação, uso de dia) e a conta de avulso, dois, três e kits, hoje espalhada no guia de Black Friday.
-- **Prioridade, e por quê:** baixa. O motivo é comercial: é o único produto da coleção de mais vendidos (uma coleção fora do menu), a base de três das oito ofertas de Black Friday e o de preço avulso mais alto. O nome completa em cinco formas, mas não há pergunta de decisão com a marca, "l'amazonie melasma" voltou vazia e no tema amplo a loja não aparece em lista nenhuma. Fica baixa, junto da op-lamazonie-0018: as duas dependem de o Bruno querer um segundo produto da loja.
-- **Confiança:** baixa
-- **Dependências e como obter:** Decisão do Bruno; lista de ingredientes pela linha op-lamazonie-0029 (sem ela, o texto sai com a ressalva). O carrinho testado em 16/11 inclui este sérum no kit completo e em três unidades: o exemplo de preço só vale para essa combinação.
-- **Pendências e notas:** A semente já tinha a ideia no estoque ("melhor com produto em mãos"). Guia de produto, uma marca só.
-- **Destino, se aprovada:** Linha na Fila de Pautas; o Job 1 faz o briefing
-- **Revisado por:** sessão de revisão independente, 17/11/2026
-- **Decisão do Bruno:** em espera
-
 ### op-lamazonie-0020 · criar-artigo · prioridade baixa
 
 - **Pergunta ou decisão atendida:** Escolher entre o protetor de tratamento FPS 99 e o bastão com cor FPS 95 da L'Amazonie
@@ -286,6 +261,16 @@ de 30/11.
 - **Destino, se aprovada:** Linha na Fila de Pautas; o Job 1 faz o briefing
 - **Revisado por:** sessão de revisão independente, 17/11/2026
 - **Decisão do Bruno:** em espera
+
+## Ideias registradas, não recomendadas agora
+
+A revisão pediu que estas linhas não fossem lidas como pauta de prioridade baixa. Ficam como registro: só voltam a
+ser avaliadas se a dependência se resolver e o Bruno decidir.
+
+| Oportunidade | Ideia | O que falta para reavaliar |
+|---|---|---|
+| `op-lamazonie-0018` | Decidir se compra o creme clareador da L'Amazonie e em qual das páginas (íntimo, axilas ou virilha) | Decisão do Bruno de abrir um segundo produto da loja; confirmar a fórmula com a marca ou pelo rótulo (linha op-lamazonie-0029), já que o anúncio oficial indica um creme só; teste de carrinho para citar preço de kit por página. |
+| `op-lamazonie-0019` | Decidir se compra o Sérum Clareador Vitamina C20 e em qual kit | Decisão do Bruno; lista de ingredientes pela linha op-lamazonie-0029 (sem ela, o texto sai com a ressalva). O carrinho testado em 16/11 inclui este sérum no kit completo e em três unidades: o exemplo de preço só vale para essa combinação. |
 
 ## Manter como está
 
