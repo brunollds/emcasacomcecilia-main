@@ -1,0 +1,40 @@
+Plataforma: ChatGPT (chatgpt.com), sem conta (tela "Entrar" no topo), conversa nova, sem histórico
+Endereço da conversa: https://chatgpt.com/uc/6afdcae1-1328-83ea-a2b0-ba51acceb1d7
+Pergunta enviada: cupom BAW
+Enviada em: entre 2026-11-18T12:54-03:00 e 12:59-03:00 (pelo endereço https://chatgpt.com/?q=cupom%20BAW). As perguntas 2 a 5 do ChatGPT foram feitas nesta janela, em ordem; a hora exata de cada uma não foi anotada (ver FONTE.md)
+Navegador: navegador embutido do app Claude (Windows), idioma da interface pt-BR
+Método: texto do elemento <main> (get_page_text), colado abaixo sem edição. "Em Casa com Cecília +2" é o rótulo do chip de fontes; sem conta o chip não abre o painel de fontes, então os outros dois endereços não foram lidos. "Copiar cupom" são botões da interface do ChatGPT
+---
+cupom BAW
+
+Aqui estão alguns cupons da BAW Clothing para testar em novembro de 2026:
+
+10% OFF
+
+BAWEMCASACOMCECILIA
+
+Vale para primeira compra e clientes antigos, segundo a página do cupom.
+
+Copiar cupom
+15% OFF
+
+FIRSTBAW
+
+Indicado para primeira compra.
+
+Copiar cupom
+10% OFF
+
+BAWOFF
+
+Para produtos selecionados da BAW Deals.
+
+Copiar cupom
+
+Cupons encontrados em páginas de ofertas; a aceitação depende das regras da loja.
+Em Casa com Cecília
++2
+
+É sua primeira compra na BAW ou você já comprou antes? Posso tentar encontrar um desconto maior para você.
+
+ChatGPT é uma IA e pode cometer erros.

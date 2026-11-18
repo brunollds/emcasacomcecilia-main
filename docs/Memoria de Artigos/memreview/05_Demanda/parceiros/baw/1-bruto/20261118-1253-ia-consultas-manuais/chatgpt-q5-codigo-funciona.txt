@@ -1,0 +1,30 @@
+Plataforma: ChatGPT (chatgpt.com), sem conta (tela "Entrar" no topo), conversa nova, sem histórico
+Endereço da conversa: https://chatgpt.com/uc/6afdcb39-3dd0-83ea-97a7-9f671ef28878
+Pergunta enviada: o cupom BAWEMCASACOMCECILIA funciona?
+Enviada em: entre 2026-11-18T12:54-03:00 e 12:59-03:00 (pelo endereço https://chatgpt.com/?q=o%20cupom%20BAWEMCASACOMCECILIA%20funciona%3F). As perguntas 2 a 5 do ChatGPT foram feitas nesta janela, em ordem; a hora exata de cada uma não foi anotada (ver FONTE.md)
+Navegador: navegador embutido do app Claude (Windows), idioma da interface pt-BR
+Método: texto do elemento <main> (get_page_text), colado abaixo sem edição. O link "Ver condições e teste do cupom" aponta para https://emcasacomcecilia.com/reviews/cupom-baw-primeira-compra?utm_source=chatgpt.com (href lido no elemento <a>). Junto com a resposta abriu uma janela "Entre ou cadastre-se" sobre a conversa; ela não foi tocada e foi a última pergunta feita no ChatGPT
+---
+o cupom BAWEMCASACOMCECILIA funciona?
+
+Sim! O cupom BAWEMCASACOMCECILIA está ativo, segundo uma publicação atualizada em 16/11/2026.
+
+Cupom confirmado em teste de carrinho
+
+Código: BAWEMCASACOMCECILIA
+
+Desconto: 10% OFF
+
+Onde funciona: site e aplicativo da BAW Clothing.
+
+Primeira compra: sim.
+
+Compras seguintes: também.
+
+Peças em promoção: o desconto também foi aplicado no teste.
+
+Fonte: Ver condições e teste do cupom .
+
+Minha dica: aplique no carrinho e confira se aparece a linha de desconto antes de pagar. ❤️
+
+ChatGPT é uma IA e pode cometer erros.

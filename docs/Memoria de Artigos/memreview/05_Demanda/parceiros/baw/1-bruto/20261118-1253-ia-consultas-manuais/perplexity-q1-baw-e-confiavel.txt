@@ -1,0 +1,80 @@
+Plataforma: Perplexity (www.perplexity.ai), sem conta ("Entre para salvar seu histórico" na tela), pesquisa nova, modelo padrão
+Endereço: https://www.perplexity.ai/session/a2a61d98-eb48-49ab-9b3d-6aa7f02b6419
+Pergunta enviada: a BAW é confiável?
+Enviada em: 2026-11-18T12:59-03:00, a hora que a página mostra no topo (pelo endereço https://www.perplexity.ai/search?q=..., que envia a pergunta ao abrir)
+Navegador: navegador embutido do app Claude (Windows), idioma da interface pt-BR; o aviso de cookies do Perplexity ficou aberto, sem resposta
+Método: texto do elemento <main> nas abas "Resposta" e "Links" (get_page_text), colado abaixo sem edição
+---
+[Aba Resposta]
+Resposta
+Links
+Imagens
+Compartilhar
+12:59
+
+a BAW é confiável?
+
+Concluído
+12 s
+
+Se você se refere à BAW Clothing, a confiabilidade parece mista: no Reclame Aqui, a reputação aparece como “Regular”, embora outra análise recente informe reputação “Boa”. Antes de comprar, confira a nota atual e prefira pagar por um meio que permita contestar a cobrança.
+reclameaqui.com
++1
+
+10 fontes
+Quais avaliações de clientes sobre BAW
+BAW possui selos de confiabilidade
+Como verificar a credibilidade da BAW
+BAW é confiável para investimentos
+Quais são as alternativas confiáveis à BAW
+Entre para salvar seu histórico e acessar mais recursos
+Entrar
+
+Pergunte um seguimento
+Pesquisar
+Computer
+Modelo
+
+[Aba Links]
+Resultados da pesquisa para: a BAW é confiável?
+reclameaqui.com
+https://www.reclameaqui.com.br/empresa/baw-clothing/
+Baw Clothing - Reclame Aqui
+Saiba se a empresa Baw Clothing é confiável, segundo os consumidores. Se tiver problemas, reclame, resolva, avalie. Reclame Aqui
+emcasacomcecilia
+https://emcasacomcecilia.com/reviews/baw-clothing-reclame-aqui-nota-reputacao
+BAW Clothing no Reclame Aqui: nota e reclamações
+BAWEMCASACOMCECILIA dá 10% OFF na BAW Clothing. Veja a nota no Reclame Aqui, as queixas mais citadas e o que conferir sobre entrega e devolução.
+ti
+https://ti.com/es-mx/technologies/bulk-acoustic-wave
+Tecnología del resonador de ondas acústicas masivas (BAW) | TI.com
+Habilite fluctuaciones ultrabajas y una confiabilidad superior para soluciones de temporización de última generación.
+emcasacomcecilia
+https://emcasacomcecilia.com/reviews/baw-clothing-e-confiavel
+BAW Clothing é confiável? Dono, CNPJ e trocas
+BAWEMCASACOMCECILIA dá 10% OFF na BAW Clothing. Antes, veja de quem é a marca hoje, os CNPJs, a nota no Reclame Aqui e como funcionam entrega e troca.
+scamadviser
+https://www.scamadviser.com/check-website/baw-online.ph
+baw-online.ph Reviews | check if site is scam or legit | Scamadviser
+Check baw-online.ph with our free review tool and find out if baw-online.ph is legit and reliable. Need advice? ✓ Report scams ✓ Check Scamadviser!
+indeed
+https://www.indeed.com/cmp/Baw/reviews?fcountry=ALL
+Working at BAW: Employee Reviews
+Reviews from BAW employees about BAW culture, salaries, benefits, work-life balance, management, job security, and more.
+tradingview
+https://www.tradingview.com/chart/BAW/dNMP0g8N-Our-opinion-on-the-current-state-of-BAW/
+Our opinion on the current state of BAW
+Barloworld (BAW) is a prominent international supplier of heavy earth-moving equipment and vehicles across various sectors, including mining, agriculture, infrastructure, power, automotive, and logistics. With operations spanning 24 countries, particularly in Southern Africa, Russia, and other emerging markets, Barloworld boasts a diverse portfolio that provides some resilience against economic downturns. The company's renowned brands like Caterpillar, Avis, Massey-Ferguson, and Challenger …
+autosupermarket
+https://autosupermarket.it/marchi/baw
+Tutte le informazioni sul marchio BAW - AutoSuperMarket
+La marca BAW in sintesi: trova tutti i modelli, le varianti e i prezzi su AutoSuperMarket.
+getbaito
+https://www.getbaito.com/en/orga/bundesanstalt-f-r-wasserbau-baw
+Bundesanstalt für Wasserbau (BAW) - baito
+The Bundesanstalt für Wasserbau (BAW) has its headquarters in Karlsruhe, Germany. In total, the organization operates two locations. Q4
+navi
+https://navi.trade/market/bawsYvWmV9FepncqVw3nYVyMAYWD8EqKMfjuFz494r6
+bawsaq.pro (BAWSAQ) price, risk score and holders
+NAVI's on-chain checks flag multiple elevated-risk factors for BAWSAQ. That does not prove bawsaq.pro is a scam, but the combination warrants serious caution and small, carefully sized exposure at most. 4 passed, 0 caution, 2 red flags. Mint authorityPass Revoked The mint authority has been revoked, so no new supply can be minted. Total supply is fixed at the protocol level.
+Mostrar Mais

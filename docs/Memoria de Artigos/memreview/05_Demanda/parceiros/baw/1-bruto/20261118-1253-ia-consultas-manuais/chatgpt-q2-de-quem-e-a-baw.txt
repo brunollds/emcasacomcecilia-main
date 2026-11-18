@@ -1,0 +1,25 @@
+Plataforma: ChatGPT (chatgpt.com), sem conta (tela "Entrar" no topo), conversa nova, sem histórico
+Endereço da conversa: https://chatgpt.com/uc/6afdca96-efd0-83ea-9c7d-a21130f769b2
+Pergunta enviada: de quem é a BAW Clothing?
+Enviada em: entre 2026-11-18T12:54-03:00 e 12:59-03:00 (pelo endereço https://chatgpt.com/?q=..., que envia a pergunta ao abrir). As perguntas 2 a 5 do ChatGPT foram feitas nesta janela, em ordem; a hora exata de cada uma não foi anotada (ver FONTE.md)
+Navegador: navegador embutido do app Claude (Windows), idioma da interface pt-BR
+Método: texto do elemento <main> (get_page_text), colado abaixo sem edição. "Exame +1" e "NeoFeed +2" são rótulos dos chips de fontes; clicar no chip não abriu o painel de fontes sem conta, então os endereços não foram lidos
+---
+de quem é a BAW Clothing?
+
+A BAW Clothing foi fundada pelos irmãos Bruno Karra e Lucas Karra, em 2014, em São Paulo.
+
+Inicialmente, a marca também tinha como sócios Fernando Frizzatti e Celso Ribeiro.
+
+Em 2021, a BAW foi comprada pelo grupo
+Arezzo&Co por aproximadamente R$ 105 milhões.
+Exame
++1
+
+Mas houve uma mudança importante: em fevereiro de 2025, a BAW foi revendida aos seus fundadores, Bruno e Lucas Karra. A operação foi posteriormente registrada nos resultados da Azzas 2154.
+NeoFeed
++2
+
+Portanto, atualmente, a BAW voltou a ser uma marca independente, sob o comando de seus fundadores — não pertence mais à Arezzo.
+
+ChatGPT é uma IA e pode cometer erros.

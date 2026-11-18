@@ -1,0 +1,28 @@
+Plataforma: ChatGPT (chatgpt.com), sem conta (tela "Entrar" no topo), conversa nova, sem histórico
+Endereço da conversa: https://chatgpt.com/uc/6afdc9cf-a20c-83ea-a027-a1a904c1ca9c
+Pergunta enviada: a BAW é confiável?
+Enviada em: 2026-11-18T12:53-03:00 (lida às 12:54)
+Navegador: navegador embutido do app Claude (Windows), idioma da interface pt-BR
+Método: texto do elemento <main> (get_page_text), colado abaixo sem edição. "Reclame Aqui +1" é o rótulo do chip de fontes; o endereço das fontes não ficou acessível no texto da página (o chip não abriu o painel de fontes)
+---
+a BAW é confiável?
+
+Você está falando da BAW, marca de roupas (BAW Clothing) ou da BAW, fabricante de carros?
+
+Se for a BAW Clothing, minha avaliação é: é uma empresa legítima, mas merece alguns cuidados na compra pela internet.
+
+No Reclame Aqui, os dados recentes mostram:
+
+Reputação: Boa.
+
+Nota média: aproximadamente 7,3/10.
+
+Resolve cerca de 84% das reclamações.
+
+Existem queixas recorrentes sobre atrasos na entrega, trocas e estornos.
+Reclame Aqui
++1
+
+Me confirma qual BAW você quer avaliar? Assim consigo analisar a confiabilidade da empresa certa.
+
+ChatGPT é uma IA e pode cometer erros.
