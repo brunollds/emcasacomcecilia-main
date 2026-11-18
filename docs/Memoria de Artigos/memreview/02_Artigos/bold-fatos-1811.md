@@ -245,7 +245,7 @@ Todas as caixas têm 12 unidades. "Compra única" é o preço da vitrine; "Mensa
 - Cumulatividade: as condições da assinatura "não se acumulam automaticamente com outras campanhas, cupons, vouchers";
   o cupom de lançamento só se expressamente autorizado. **Teste do Bruno em 18/11: o CECILIA15 vale na assinatura**
   (BOLD Club, Mousse de Maracujá, a cada 2 meses: R$ 152,00, já 15% abaixo dos R$ 179,00 da compra avulsa; o código
-  tirou R$ 30,40, 20%, subtotal R$ 121,60; brinde KIT BOLD CHOCOMALTE 14G do BOLD Club a R$ 0,00). Print em
+  tirou R$ 30,40, 20%, subtotal R$ 121,60; brinde KIT BOLD CHOCOMALTE 14G do BOLD Club, R$ 0,01 riscado e "GRÁTIS"). Print em
   `/images/reviews/bold/cupom-bold-assinatura-com-cupom.webp`. Vale até a loja avisar o contrário; a sessão de cupons foi avisada. O frete grátis da assinatura é da recorrência, não do site: não confundir com a faixa de
   R$ 249.
 

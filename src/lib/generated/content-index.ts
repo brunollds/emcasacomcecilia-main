@@ -266481,7 +266481,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BOLD Snacks tem campanha de Black Friday em fases, cada uma com regulamento próprio. Na fase atual, o cupom CECILIA15 deu 20% no nosso teste, só entra um código por pedido e o valor final decide os brindes por faixa. O que muda a compra é a conta antes de pagar, que está abaixo."
+          "Na Pré-Black da BOLD Snacks, o cupom BOLD CECILIA15 deu 20% OFF no nosso teste, com um código por pedido. Pelo regulamento, os brindes dependem do valor dos produtos após os descontos, sem frete. O print do teste mostrou um brinde além da faixa publicada; abaixo estão a regra e o que conferir no pedido."
         ]
       },
       {
@@ -266541,11 +266541,11 @@ export const reviewsData: unknown[] = [
           "A tabela mostra em que faixa cada carrinho cai depois dos 20%."
         ],
         "comparisonTable": {
-          "caption": "Conta nossa: preços da vitrine em 18/11, compra única, sem frete. Só a Caixa Mista e o whey de 450 g passaram pelo carrinho; o resto é o preço vezes 0,80 vezes a quantidade.",
+          "caption": "Valor dos produtos após 20%, sem frete e sem eventuais centavos cobrados por brindes. Apenas Caixa Mista e whey de 450 g passaram pelo carrinho; os outros cenários são cálculos. A coluna de brindes segue o regulamento, não uma garantia de checkout.",
           "headers": [
             "Carrinho",
-            "Valor com 20%",
-            "Faixa de brinde"
+            "Produtos com CECILIA15 (20%)",
+            "Faixa pelo regulamento"
           ],
           "rows": [
             [
@@ -266581,20 +266581,20 @@ export const reviewsData: unknown[] = [
             [
               "Caixa Mista 21 g mais whey de 450 g",
               "R$ 294,40",
-              "Pelo regulamento, coqueteleira"
+              "Coqueteleira (o print mostrou também a térmica)"
             ]
           ]
         },
         "postParagraphs": [
-          "No carrinho que testamos, a Caixa Mista de R$ 179,00 foi a R$ 143,20 e o whey de 450 g, de R$ 189,00, foi a R$ 151,20. Os dois somam R$ 294,40 em produtos, valor que o regulamento põe na faixa da coqueteleira. O brinde que vale é o que o resumo do seu pedido mostrar. O resumo também traz o código e o valor do desconto embaixo de cada produto, e é por ele que você confere a conta.",
-          "A armadilha da tabela é o combo de uma Caixa Mista de 21 g com uma de 14 g. R$ 179,00 mais R$ 129,00, com 20%, dá R$ 246,40, a R$ 2,61 da coqueteleira. Quem só quer a coqueteleira passa com folga com duas caixas de 21 g.",
+          "No print do teste, Caixa Mista e whey somam R$ 294,40 em produtos após o cupom. O resumo também mostra coqueteleira e térmica a R$ 0,01 cada, levando o subtotal exibido a R$ 294,42. Pelo regulamento da fase, R$ 294,40 alcançaria apenas a coqueteleira. A origem dessa diferença não foi confirmada; confira os brindes discriminados no seu pedido antes de pagar.",
+          "A Caixa Mista de 21 g com a de 14 g fica em R$ 246,40 após o cupom, R$ 2,61 abaixo da primeira faixa. Trocar a caixa de 14 g por outra de 21 g eleva os produtos a R$ 286,40: são R$ 40 a mais. Faça essa troca se preferir as barras maiores, depois de conferir o brinde e o total entregue.",
           "O próprio regulamento traz um exemplo na mesma lógica: R$ 350 em produtos com um cupom de 20% viram R$ 280, e esse valor fica na faixa da coqueteleira."
         ],
         "images": [
           {
             "src": "/images/reviews/bold/cupom-bold-checkout-com-cupom.webp",
-            "alt": "Resumo do checkout da BOLD Snacks com o código CECILIA15 aplicado: a Caixa Mista a R$ 143,20 e o whey de 450 g a R$ 151,20",
-            "caption": "Resumo do checkout no nosso teste.",
+            "alt": "Resumo do checkout da BOLD Snacks com o CECILIA15 aplicado: Caixa Mista a R$ 143,20, whey de 450 g a R$ 151,20, coqueteleira e bolsa térmica a R$ 0,01 cada e subtotal de R$ 294,42",
+            "caption": "Print do teste: R$ 294,40 em produtos e dois brindes a R$ 0,01 cada, com subtotal de R$ 294,42. A térmica aparece abaixo da faixa prevista no regulamento.",
             "objectFit": "contain",
             "aspectRatio": 0.9164
           }
@@ -266603,14 +266603,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom na assinatura",
         "paragraphs": [
-          "No nosso teste, o CECILIA15 também entrou numa assinatura. Com a caixa BOLD Mousse de Maracujá no BOLD Club, a cada 2 meses, o resumo mostrou o preço de assinatura, R$ 152,00, contra R$ 179,00 na compra única (a loja informa 15% de desconto na assinatura). O cupom tirou R$ 30,40, 20% de R$ 152,00, e o subtotal ficou em R$ 121,60. O resumo trouxe ainda um brinde do próprio BOLD Club, a R$ 0,00.",
-          "Foi um teste, e a política de assinatura da BOLD diz que as condições da assinatura não se acumulam automaticamente com cupons. Confira o resumo antes de confirmar, inclusive a faixa de brinde. A loja informa ainda uma permanência mínima de 2 ciclos de cobrança."
+          "No print do nosso teste, a caixa BOLD Mousse de Maracujá aparece com frequência de 2 meses e preço de assinatura de R$ 152,00. O CECILIA15 abate R$ 30,40, deixando subtotal de R$ 121,60, com um brinde do BOLD Club grátis. A compra única estava em R$ 179,00 na vitrine.",
+          "O print mostra o desconto no resumo de adesão, sem comprovar o preço das cobranças seguintes. A assinatura tem compromisso de dois ciclos após o prazo de arrependimento; veja os cuidados no [guia de uso do CECILIA15](/reviews/cupom-bold-snacks-como-usar) antes de aderir."
         ],
         "images": [
           {
             "src": "/images/reviews/bold/cupom-bold-assinatura-com-cupom.webp",
             "alt": "Resumo da assinatura da caixa BOLD Mousse de Maracujá com o código CECILIA15 aplicado: R$ 152,00, desconto de R$ 30,40, subtotal de R$ 121,60 e um brinde do BOLD Club a R$ 0,00",
-            "caption": "Resumo de uma assinatura com o cupom no nosso teste.",
+            "caption": "Print do nosso teste: desconto na adesão ao BOLD Club. O brinde grátis da assinatura é separado dos brindes por faixa da compra única.",
             "objectFit": "contain",
             "aspectRatio": 1.1157
           }
@@ -266641,7 +266641,7 @@ export const reviewsData: unknown[] = [
           "O cupom CECILIA15 vale na Black Friday da BOLD? No nosso teste, sim. Deu 20% durante a campanha, vale um cupom por pedido e entrou também num produto em promoção. Confira o percentual no resumo antes de pagar.",
           "Como ganho a coqueteleira, a térmica e a bolsa? Pelo valor dos produtos depois de todos os descontos e sem o frete. A tabela do artigo traz as três faixas e a conta de cada carrinho.",
           "O CECILIA15 dá 15% ou 20%? O nome tem 15, mas no nosso teste desta fase o desconto foi de 20%. Vale o percentual que o resumo do checkout mostrar.",
-          "O CECILIA15 vale na assinatura? No nosso teste, entrou, e o código tirou 20% sobre o preço de assinatura. A política diz que as condições da assinatura não se acumulam automaticamente com cupons, então confira o resumo antes de confirmar."
+          "O CECILIA15 vale na assinatura? Sim. No nosso teste, deu 20% na adesão ao BOLD Club. As cobranças seguintes seguem as regras da assinatura; confira a recorrência e o compromisso mínimo antes de assinar."
         ]
       }
     ]
@@ -266701,13 +266701,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom CECILIA15 dá 20% OFF no site oficial da BOLD Snacks, para cliente novo e antigo. O código vai no checkout, no campo Código de desconto ou cartão-presente, e basta clicar em Aplicar. O nome tem 15, mas no nosso teste o desconto foi de 20%, e vale um cupom por pedido."
+          "O cupom BOLD CECILIA15 deu 20% OFF no teste da Pré-Black, para cliente novo e antigo, embora o nome tenha 15. No checkout, confira se o código já aparece aplicado; se precisar, digite-o em Código de desconto ou cartão-presente e clique em Aplicar. Abaixo estão a compra única e o resultado observado na adesão à assinatura."
         ]
       },
       {
         "heading": "Onde digitar o cupom na BOLD Snacks",
         "paragraphs": [
-          "O campo do cupom fica no checkout. A gaveta do carrinho não tem onde digitar, e quem procura ali conclui, por engano, que o código não existe."
+          "Procure o campo no checkout, aberto pelo botão Finalizar da gaveta do carrinho. Se CECILIA15 já aparecer aplicado no resumo, confira o desconto; caso contrário, digite o código no campo indicado."
         ],
         "bullets": [
           "No site oficial, clique em ADICIONAR no produto. O site pode abrir um popup de pré-venda no caminho; feche-o e siga.",
@@ -266716,7 +266716,7 @@ export const reviewsData: unknown[] = [
           "Confira o resumo: o código aparece embaixo de cada produto, com o valor do desconto."
         ],
         "postParagraphs": [
-          "O desconto só aparece no checkout, depois do Aplicar. Para o código em vigor, veja a página do [cupom BOLD](/cupons/bold)."
+          "Confira o CECILIA15 e o valor abatido no resumo antes de pagar. As condições em vigor ficam na página do [cupom BOLD](/cupons/bold)."
         ],
         "images": [
           {
@@ -266779,14 +266779,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A loja informa que cada pedido aceita um cupom promocional. Com outro código no pedido, só um deles vale.",
           "O cashback da loja devolve até 10% do valor da compra para a próxima compra, segundo a loja. Pela política dela, o cashback não se usa junto com outros cupons e não vale em produto em promoção. Num pedido com o CECILIA15, não conte com o cashback como abatimento.",
-          "Na assinatura (BOLD Club), o código entrou no nosso teste. Na caixa BOLD Mousse de Maracujá, com frequência de 2 meses, o resumo mostrou R$ 152,00, o preço de assinatura, contra R$ 179,00 da compra única. O CECILIA15 tirou R$ 30,40 e o subtotal ficou em R$ 121,60. Conta nossa: 20% de R$ 152,00 é R$ 30,40.",
-          "Esse resultado vale para o carrinho que testamos. A política de assinatura diz que as condições dela não se acumulam automaticamente com cupons, e a loja informa permanência mínima de 2 ciclos de cobrança. Confira o resumo antes de confirmar a assinatura."
+          "No print do nosso teste, a caixa BOLD Mousse de Maracujá aparece com frequência de 2 meses e preço de assinatura de R$ 152,00. O CECILIA15 abate R$ 30,40, deixando subtotal de R$ 121,60, com um brinde do BOLD Club grátis. A compra única estava em R$ 179,00 na vitrine.",
+          "O print mostra a aplicação no resumo de adesão; as cobranças seguintes seguem as regras da assinatura. A política prevê dois ciclos mínimos após o prazo de arrependimento, e o cancelamento deve ser pedido com antecedência mínima de 5 dias da data prevista para o próximo ciclo. Confira as condições antes de aderir."
         ],
         "images": [
           {
             "src": "/images/reviews/bold/cupom-bold-assinatura-com-cupom.webp",
             "alt": "Resumo de uma assinatura BOLD Club da caixa BOLD Mousse de Maracujá a cada 2 meses, com R$ 152,00, o cupom CECILIA15 tirando R$ 30,40 e o subtotal de R$ 121,60",
-            "caption": "No teste com a assinatura, o CECILIA15 entrou sobre o preço de assinatura e o subtotal ficou em R$ 121,60.",
+            "caption": "Print do nosso teste: CECILIA15 aplicado na adesão ao BOLD Club, com subtotal de R$ 121,60.",
             "objectFit": "contain"
           }
         ]
@@ -266815,8 +266815,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Onde coloco o cupom na BOLD Snacks? No checkout, no campo Código de desconto ou cartão-presente. A gaveta do carrinho não tem campo de cupom. Clique em Aplicar e confira o código embaixo de cada produto.",
-          "O cupom CECILIA15 vale para quem já é cliente? Vale. O CECILIA15 serve para cliente novo e antigo no site oficial da BOLD Snacks.",
+          "Onde coloco o cupom na BOLD Snacks? No checkout, em Código de desconto ou cartão-presente. Digite CECILIA15, clique em Aplicar e confira o valor abatido; se o código já estiver no resumo, confira o desconto antes de pagar.",
+          "O cupom CECILIA15 vale para quem já é cliente? Sim. Ele vale para cliente novo e antigo no site oficial e deu 20% OFF no teste da Pré-Black.",
           "O cupom soma com produto em promoção? No nosso teste, sim: o whey de 450 g estava em promoção e levou os 20% sobre o preço promocional. Confira o resumo de cada pedido.",
           "O cupom BOLD vale no Mercado Livre? O CECILIA15 é do site oficial da BOLD Snacks. Para usar o código, a compra é pelo checkout do site.",
           "Posso usar mais de um cupom? Não. A loja informa um cupom promocional por pedido, e o cashback, pela política dela, não se usa junto com outros cupons."
@@ -266877,7 +266877,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BOLD Snacks tem reputação Boa no Reclame Aqui, com nota 7,9 em seis meses. Segundo o perfil, a empresa respondeu a todas as 147 reclamações e 83,1% das avaliadas constam como resolvidas. O ponto fraco é o prazo, já que o atraso na entrega lidera as queixas na aba geral e a resposta leva em média 6 dias."
+          "A BOLD Snacks tinha reputação Boa e nota 7,9 no semestre consultado, com todas as 147 reclamações respondidas. Entre as avaliadas, 83,1% constavam como resolvidas; atraso na entrega liderava a aba geral, de outro período. Se decidir comprar, o cupom BOLD CECILIA15 deu 20% OFF no teste da Pré-Black."
         ]
       },
       {
@@ -266931,7 +266931,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "São duas notas diferentes. A 7,9 é a nota média da empresa nos últimos seis meses, e a 6,69 é a nota média de quem avaliou o atendimento."
+          "A nota de 7,9 é o indicador calculado pela plataforma com vários critérios. A média de 6,69 vem das notas dadas pelos consumidores que avaliaram o atendimento. As duas descrevem reclamações na plataforma, não a qualidade das barras."
         ],
         "images": [
           {
@@ -266978,7 +266978,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde a BOLD fica no ranking da categoria",
         "paragraphs": [
           "Em 18 de novembro de 2026, a BOLD Snacks estava em 44º lugar em “Melhor empresa” na categoria Suplementos Alimentares e Fórmulas do Reclame Aqui.",
-          "A posição muda com frequência. O dado que dura é a nota do perfil, com a janela de cada indicador."
+          "Ranking e nota podem mudar. Para comparar consultas, guarde o período dos indicadores e confira o perfil atualizado."
         ]
       },
       {
@@ -266990,9 +266990,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Antes de reclamar: o que a loja oferece",
+        "heading": "Como pedir ajuda se o pedido der problema",
         "paragraphs": [
-          "Antes do Reclame Aqui, fale com a loja, que informa:"
+          "A loja publica estes canais e procedimentos para pedidos com problema:"
         ],
         "bullets": [
           "Rastreio: por e-mail e na página de rastreio do site. O prazo de entrega conta da confirmação do pagamento.",
@@ -267075,7 +267075,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BOLD Snacks vende pelo site oficial, com CNPJ de empresa de Divinópolis (MG) e reputação Boa no Reclame Aqui, onde, segundo o perfil, responde todas as reclamações. A Ferrero anunciou no início de 2026 um acordo para comprar a marca, sem conclusão confirmada nas fontes lidas. O ponto fraco é o atraso na entrega, e há anúncios falsos."
+          "A BOLD Snacks tem empresa identificada em Divinópolis e reputação Boa no Reclame Aqui; a entrega exige atenção. A Ferrero anunciou um acordo de aquisição, sem confirmação de fechamento entre as fontes consultadas. Se decidir comprar, comece no site oficial e confira o cupom BOLD CECILIA15, que deu 20% OFF no teste da Pré-Black."
         ]
       },
       {
@@ -267090,15 +267090,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A BOLD e a Ferrero",
         "paragraphs": [
-          "O comunicado da Ferrero, do início de 2026, diz que o grupo “assinou um acordo” para comprar a BOLD, com fechamento esperado nos meses seguintes e sujeito às condições usuais. Segundo o comunicado, a Ferrero assume o escritório e a fábrica de Divinópolis, cerca de 300 funcionários devem ir para a Ferrero Brasil e o fundador, Gabriel Ferreira, segue como CEO.",
-          "O Nosso Meio e a TV Sim Brasil escrevem que o negócio depende da aprovação do Cade. Até a publicação deste artigo, nenhuma das fontes confirma a conclusão da compra, e a nossa busca não achou decisão do Cade.",
+          "Em seu [comunicado de aquisição](https://www.prnewswire.com/news-releases/ferrero-group-acquires-bold-snacks-a-leading-brazilian-protein-snack-company-302717436.html), a Ferrero informa que assinou um acordo para comprar a BOLD, com fechamento esperado nos meses seguintes e sujeito às condições usuais. O anúncio inclui o escritório e a fábrica de Divinópolis e cerca de 300 funcionários; Gabriel Ferreira é identificado como fundador e CEO.",
+          "O Nosso Meio escreve que o negócio depende da aprovação do Cade. O comunicado da Ferrero anuncia o acordo, sem confirmar o fechamento, e esse anúncio, sozinho, não permite concluir quem controla a empresa hoje.",
           "A página Sobre nós do site não cita a Ferrero. Nenhuma das fontes diz o que muda em receita, fábrica ou preço para quem compra."
         ]
       },
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "De 01/05/2026 a 31/10/2026, a BOLD Snacks tinha reputação Boa, nota 7,9 de 10 e selo de empresa verificada. Segundo o perfil, 100% das reclamações foram respondidas e 83,1% constam como resolvidas.",
+          "No semestre de maio a outubro de 2026, o perfil mostrava reputação Boa, nota 7,9 e empresa verificada. Todas as 147 reclamações tinham resposta; o índice de solução de 83,1% se refere às finalizadas e avaliadas.",
           "Do outro lado, a resposta leva, em média, 6 dias, e o atraso na entrega é o problema mais citado na aba geral do perfil.",
           "Os números completos estão na [nota da BOLD Snacks no Reclame Aqui](/reviews/bold-snacks-reclame-aqui-nota-reputacao)."
         ]
@@ -267131,7 +267131,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A loja informa: a barra é um “suplemento alimentar de proteína em barra, conforme a regulamentação vigente”, e a página do produto traz o aviso “Este produto não é um medicamento”.",
           "As páginas do site não mostram número de registro nem de notificação na Anvisa.",
-          "Segundo a [página da Anvisa sobre como saber se um suplemento alimentar é autorizado](https://www.gov.br/anvisa/pt-br/assuntos/alimentos/suplementos-alimentares/como-saber-se-um-suplemento-alimentar-e-autorizado), as regras estão em transição. O rótulo traz a frase “Alimento registrado na Anvisa”, com o número do registro, ou “Alimento notificado na Anvisa”, com o número do processo. Na busca avançada do portal de consultas de alimentos da Anvisa, o número do registro vai no campo “número da regularização” e o da notificação, no campo “número do processo”. O resultado “Ativo” indica produto autorizado. Sem essas frases, a Anvisa manda procurar a vigilância sanitária da cidade onde o produto foi fabricado, cujo endereço deve constar no rótulo.",
+          "A conferência é por produto. A [orientação oficial da Anvisa](https://www.gov.br/anvisa/pt-br/assuntos/alimentos/suplementos-alimentares/como-saber-se-um-suplemento-alimentar-e-autorizado) mostra o que procurar no rótulo e como consultar o número na base da agência. Se o rótulo da página não estiver legível, peça à loja uma foto com o fabricante e os dados de regularização; a existência da empresa não substitui essa conferência.",
           "Antes de comprar, confira na embalagem o fabricante e a frase de regularização. Gestantes, lactantes, crianças, quem toma remédio e quem tem alergia seguem o rótulo e a orientação de um profissional de saúde. A página do produto avisa que a barra contém leite, soja, glúten e lactose."
         ]
       },
@@ -267146,7 +267146,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que dá para conferir e o que fica em aberto",
         "paragraphs": [
           "Dá para conferir o CNPJ na Receita, a reputação Boa no Reclame Aqui, as políticas de troca e entrega e o aviso da própria empresa sobre anúncios falsos. Ficam em aberto o desfecho do acordo com a Ferrero, o fabricante e a regularização de cada produto, que estão no rótulo, e quem vende nos marketplaces. A entrega é o ponto que mais pede atenção.",
-          "Se decidir comprar no site oficial, o [cupom BOLD](/cupons/bold) CECILIA15 deu 20% OFF no nosso teste no checkout, para cliente novo e antigo. O nome tem 15, mas o desconto do teste foi de 20%, e o percentual pode mudar com as campanhas da loja. Vale um cupom por pedido. No nosso teste, o código também entrou numa assinatura do BOLD Club, sobre o preço de assinatura. A política de assinatura diz que as condições dela não se acumulam automaticamente com cupons, então confira o resumo antes de pagar.",
+          "Se decidir comprar no site oficial, o [cupom BOLD](/cupons/bold) CECILIA15 deu 20% OFF no teste da Pré-Black, para cliente novo e antigo. O percentual pode mudar com a campanha. O guia de uso mostra a compra única e o print de adesão ao BOLD Club; o desconto visto nessa adesão não comprova as renovações.",
           "Este artigo é sobre a loja. O produto está em [Barra BOLD é boa?](/reviews/barra-bold-e-boa), e o passo a passo do código, no [guia de uso do CECILIA15](/reviews/cupom-bold-snacks-como-usar)."
         ],
         "images": [
@@ -267160,7 +267160,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/bold/cupom-bold-assinatura-com-cupom.webp",
             "alt": "Resumo de uma assinatura do BOLD Club com o código CECILIA15 aplicado: a caixa BOLD Mousse de Maracujá sai de R$ 152,00 para R$ 121,60, com um brinde a R$ 0,00.",
-            "caption": "Resumo de uma assinatura do BOLD Club com o CECILIA15 aplicado.",
+            "caption": "Print do nosso teste: desconto aplicado na adesão ao BOLD Club.",
             "objectFit": "contain",
             "aspectRatio": 1.1157
           }
@@ -267231,21 +267231,19 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Você já decidiu por uma barra de proteína pronta e usa o preço por proteína como régua.",
-        "Você aceita adoçantes como maltitol e sorbitol e colágeno entre as fontes de proteína.",
-        "Você leu a tabela do sabor que vai comprar."
+        "Você quer uma barra pronta e decidiu pelo tamanho da unidade, pelos ingredientes e pelo preço com o cupom.",
+        "Você prefere Wafer ou Tube e aceita o custo maior por proteína declarada em troca do formato escolhido."
       ],
       "skipIf": [
-        "Você precisa de zero açúcares (a tabela mostra açúcares totais, mesmo com “zero açúcar adicionado”) ou conta os 21 g como proteína só do leite.",
-        "Você tem doença celíaca ou intolerância à lactose, já que o rótulo diz que a barra contém glúten e lactose.",
-        "Quem acompanha a sua dieta ainda não aprovou a barra."
+        "Você precisa de zero açúcares: as tabelas consultadas mostram açúcares totais mesmo quando a loja anuncia zero açúcar adicionado.",
+        "Você precisa evitar um dos alérgenos declarados ou quer contar a proteína da linha de 21 g como exclusivamente do leite."
       ]
     },
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A barra BOLD entrega de 10 g a 21 g de proteína por unidade, conforme a linha, e a loja diz que não tem açúcar adicionado. O rótulo mostra açúcares totais, adoçantes e colágeno, e o alerta de alérgicos informa que contém glúten e lactose. Aqui estão a tabela e a conta por proteína."
+          "O BOLD 21 g tem o menor custo por proteína declarada entre as linhas comparadas; Wafer e Tube custam menos por unidade. O colágeno aparece nos ingredientes de três linhas, sem proporção informada, por isso o preço não compara fontes equivalentes. O cupom BOLD CECILIA15 deu 20% OFF no teste da Pré-Black; veja abaixo as diferenças."
         ]
       },
       {
@@ -267256,17 +267254,17 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "A barra BOLD é boa?",
+        "heading": "21 g, 14 g, Crunch, Wafer ou Tube: por onde escolher",
         "paragraphs": [
-          "A pergunta mistura três coisas, e só a primeira se confere pelas páginas da loja."
+          "Comece pelo tamanho da barra e pelo formato que você quer levar:"
         ],
         "bullets": [
-          "**O que está verificado:** o rótulo de cada sabor, publicado nas páginas da loja, e o preço de vitrine.",
-          "**O que é da marca:** as frases de benefício das páginas.",
-          "**O que não temos:** sabor e textura, que dependem de quem prova."
+          "**Barra de 60 g:** a linha BOLD 21 g traz 21 g de proteína declarada por unidade.",
+          "**Barra de 40 g:** o BOLD 14 g tem menor porção e menor preço por unidade que a linha de 21 g.",
+          "**Outros formatos:** Crunch declara 18 g de proteína; Wafer e Tube, 10 g cada. A composição e o preço por proteína mudam entre eles."
         ],
         "postParagraphs": [
-          "Por isso a resposta vem por perfil, sem nota, no quadro Leve se / Passe se, depois da conta."
+          "As tabelas seguintes separam composição e preço. No fim, o veredito reúne o que muda a escolha entre as linhas."
         ]
       },
       {
@@ -267277,8 +267275,8 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/bold/barra-bold-21g.webp",
-            "alt": "Foto oficial da barra BOLD 21 g, publicada pela loja",
-            "caption": "A barra BOLD 21 g, em foto da própria loja.",
+            "alt": "Caixa Mista BOLD com 12 barras de 21 g de proteína, em foto oficial da loja",
+            "caption": "Caixa Mista com 12 barras BOLD de 21 g de proteína, em foto oficial da loja.",
             "objectFit": "contain"
           }
         ],
@@ -267288,49 +267286,43 @@ export const reviewsData: unknown[] = [
             "Linha",
             "Proteína",
             "Calorias",
-            "Açúcares totais",
-            "Colágeno nos ingredientes"
+            "Açúcares totais"
           ],
           "rows": [
             [
               "BOLD 21 g (barra de 60 g), 7 sabores",
               "21 g",
               "215 a 239 kcal",
-              "1,8 g a 5,3 g",
-              "Sim"
+              "1,8 g a 5,3 g"
             ],
             [
               "BOLD 14 g (barra de 40 g), 5 sabores com tabela",
               "14 g",
               "151 a 161 kcal",
-              "1,6 g a 3,6 g",
-              "Sim"
+              "1,6 g a 3,6 g"
             ],
             [
               "Crunch, 3 sabores",
               "18 g",
               "209 a 215 kcal",
-              "1,8 g a 2,2 g",
-              "Sim"
+              "1,8 g a 2,2 g"
             ],
             [
               "Wafer, 4 sabores",
               "10 g",
               "192 a 202 kcal",
-              "2,1 g a 2,8 g",
-              "Não"
+              "2,1 g a 2,8 g"
             ],
             [
               "Tube, Pistache e Speculoos",
               "10 g",
               "183 a 186 kcal",
-              "2,0 g a 2,1 g",
-              "Não"
+              "2,0 g a 2,1 g"
             ]
           ]
         },
         "postParagraphs": [
-          "Conta nossa, pela tabela: dividindo as calorias pelos gramas de proteína, o Wafer e o Tube trazem de 18 a 20 kcal por grama de proteína, contra de 10 a 12 no BOLD 21 g, no BOLD 14 g e no Crunch. É conta de rótulo, sem nota para nenhuma linha."
+          "Conta nossa: nas porções consultadas, BOLD 21 g, BOLD 14 g e Crunch ficam entre 10,2 e 11,9 kcal por grama de proteína declarada. Wafer e Tube ficam entre 18,3 e 20,2. Esse cálculo de quantidade não equipara as fontes de proteína nem dá uma nota de qualidade às linhas."
         ]
       },
       {
@@ -267351,71 +267343,59 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A barra BOLD é saudável?",
         "paragraphs": [
-          "“Saudável” é um julgamento que cabe a quem acompanha a dieta. Os números do rótulo estão na tabela acima, e a loja informa a recomendação de uso na página do produto: adultos a partir de 19 anos, até duas unidades por dia ou conforme o profissional de saúde. A loja também avisa que o produto não é um medicamento.",
-          "Para quem pesquisa se a barra engorda, o rótulo informa de 151 kcal a 239 kcal por barra, a quantidade que cada pessoa soma ao total do dia."
+          "Para avaliar a barra na sua alimentação, compare a porção que pretende consumir, as calorias, os açúcares e os ingredientes do sabor. A faixa de 151 a 239 kcal corresponde a unidades de tamanhos e composições diferentes.",
+          "Nas páginas do 21 g, do 14 g e do Wafer, a loja recomenda uso adulto e até duas unidades por dia, ou conforme orientação profissional. Essa é a indicação publicada pela marca, não uma porção diária definida por este guia. Dúvidas de quantidade e restrições devem ser levadas ao nutricionista ou médico."
         ]
       },
       {
         "heading": "A barra BOLD tem glúten e lactose?",
         "paragraphs": [
           "O alerta de alérgicos de cada sabor diz “contém lactose” e “contém glúten”, junto de “contém leite e derivados de leite e soja” e de uma lista de “pode conter” que traz amendoim, aveia, castanhas e trigo. O FAQ do BOLD 21 g atribui o glúten ao ambiente de fabricação, ou seja, à contaminação cruzada.",
-          "Quem tem doença celíaca ou intolerância à lactose segue o rótulo da embalagem e a orientação do profissional de saúde. Para gestantes, lactantes e crianças, a própria loja pede orientação profissional."
+          "Confira o alerta impresso na embalagem do sabor escolhido. A explicação da marca sobre o ambiente de fabricação não altera a declaração de glúten publicada na página."
         ]
       },
       {
         "heading": "A barra BOLD vale a pena? O preço por proteína",
         "paragraphs": [
-          "A conta usa o preço da caixa de 12 e a proteína de cada barra. Nas duas últimas colunas, o preço de vitrine cai 20%, o desconto do nosso teste com o CECILIA15."
+          "A tabela aplica 20% a todas as caixas de 12 unidades, percentual observado no teste apenas na Caixa Mista de 21 g; nas demais linhas, o valor é cálculo. Para referência, a vitrine mostrava R$ 179 no BOLD 21 g e no Crunch, R$ 129 no BOLD 14 g e R$ 119 no Wafer e no Tube. O custo abaixo usa a proteína total declarada; três linhas incluem colágeno, sem proporção divulgada."
         ],
         "comparisonTable": {
-          "caption": "Preços de vitrine em 18/11, compra única, no site oficial, sem frete. Por 100 g de proteína: preço da caixa dividido por 12 vezes a proteína de cada barra, vezes 100. Só a Caixa Mista do BOLD 21 g passou pelo carrinho; as outras contas com o código são conta nossa, sobre o preço de vitrine.",
+          "caption": "Preços de vitrine de 18/11, compra única, sem frete. Só a Caixa Mista de 21 g passou pelo carrinho; nas demais linhas, os 20% são calculados. Caixa de 12 unidades; proteína conforme a página do produto.",
           "headers": [
-            "Caixa de 12",
-            "Vitrine",
-            "Por barra",
-            "100 g de proteína",
+            "Linha",
             "Caixa com CECILIA15",
-            "100 g com CECILIA15"
+            "Por barra com CECILIA15",
+            "Por 100 g de proteína declarada com CECILIA15"
           ],
           "rows": [
             [
               "BOLD 21 g",
-              "R$ 179,00",
-              "R$ 14,92",
-              "R$ 71,03",
               "R$ 143,20",
+              "R$ 11,93",
               "R$ 56,83"
             ],
             [
               "BOLD 14 g",
-              "R$ 129,00",
-              "R$ 10,75",
-              "R$ 76,79",
               "R$ 103,20",
+              "R$ 8,60",
               "R$ 61,43"
             ],
             [
               "Crunch",
-              "R$ 179,00",
-              "R$ 14,92",
-              "R$ 82,87",
               "R$ 143,20",
+              "R$ 11,93",
               "R$ 66,30"
             ],
             [
               "Wafer",
-              "R$ 119,00",
-              "R$ 9,92",
-              "R$ 99,17",
               "R$ 95,20",
+              "R$ 7,93",
               "R$ 79,33"
             ],
             [
               "Tube",
-              "R$ 119,00",
-              "R$ 9,92",
-              "R$ 99,17",
               "R$ 95,20",
+              "R$ 7,93",
               "R$ 79,33"
             ]
           ]
@@ -267430,44 +267410,32 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Pela tabela, o BOLD 21 g custa menos por proteína que o BOLD 14 g e o Crunch, mesmo com a caixa mais cara que a do 14 g. O Wafer e o Tube têm o menor preço por barra e o maior por proteína. Na nossa conta, os 20% entram igual em todas as linhas, e a ordem entre elas não muda. A conta pode ser outra se o que importa for caloria, tamanho da barra ou preço por unidade.",
+          "O BOLD 21 g tem o menor custo por proteína declarada e custa mais por unidade que o BOLD 14 g. Wafer e Tube são os mais baratos por unidade. A ordem de preço não transforma leite, soja e colágeno em fontes equivalentes, nem responde qual sabor você vai preferir.",
           "O [cupom BOLD](/cupons/bold) CECILIA15 vale no site oficial, para cliente novo e antigo. O nome tem 15, e o desconto do nosso teste foi de 20%, dentro da Pré-Black da loja, que vai até 22/11. No carrinho, a Caixa Mista do BOLD 21 g foi de R$ 179,00 para R$ 143,20. O percentual pode mudar depois da campanha, então confira o resumo antes de pagar. Vale um cupom por pedido.",
           "Para comparar com outras marcas, veja o guia [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher)."
         ]
       },
       {
-        "heading": "21 g, 14 g, Crunch, Wafer e Tube: o que muda",
+        "heading": "Qual linha faz sentido para cada escolha",
         "paragraphs": [
-          "O 21 g e o 14 g levam colágeno nos ingredientes e diferem no tamanho da barra (60 g e 40 g) e no preço por proteína. A lista de ingredientes varia de um sabor para outro, então vale ler a do sabor escolhido.",
-          "O Crunch tem 18 g de proteína, crispies de soja e também colágeno. O Wafer e o Tube têm 10 g de proteína e ingredientes diferentes, sem colágeno na lista."
+          "Para gastar menos por proteína total declarada, o BOLD 21 g fica à frente neste levantamento. Para uma unidade menor, o BOLD 14 g tem 40 g de produto e menor preço por barra. Nos dois casos, o colágeno aparece entre os ingredientes, sem quantidade informada.",
+          "Se a escolha é por Wafer ou Tube, você compra outro formato, com 10 g de proteína declarada e menor preço por unidade. O Crunch tem 18 g e crispies de soja, além de colágeno. Escolha a linha e confira o sabor pelos ingredientes e alérgenos, sem usar só o preço por proteína como resumo da fórmula."
         ],
         "images": [
           {
             "src": "/images/reviews/bold/barra-bold-wafer.webp",
-            "alt": "Foto oficial do Wafer BOLD, publicada pela loja",
-            "caption": "O Wafer, em foto da própria loja.",
+            "alt": "Caixa BOLD Wafer com 12 unidades, em foto oficial da loja",
+            "caption": "Caixa de 12 unidades do BOLD Wafer, em foto oficial da loja.",
             "objectFit": "contain"
           }
         ]
       },
       {
-        "heading": "O que não dá para saber",
-        "bullets": [
-          "Sabor e textura, que dependem de quem prova.",
-          "O rótulo da embalagem que chega. As páginas da loja mudam e podem ter erros, então confira a embalagem.",
-          "Como o corpo de cada pessoa reage aos adoçantes, assunto para o profissional de saúde.",
-          "O preço fora da campanha."
-        ],
-        "postParagraphs": [
-          "O CECILIA15 é do site oficial. Sobre a empresa e como reconhecer o site verdadeiro, veja [BOLD Snacks é confiável](/reviews/bold-snacks-e-confiavel)."
-        ]
-      },
-      {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A barra BOLD é boa? Depende do perfil. O rótulo mostra de 10 g a 21 g de proteína por barra, colágeno entre os ingredientes de três linhas e açúcares totais em todas, e o preço por proteína muda de linha para linha.",
+          "A barra BOLD é boa? Para escolher pelo que o rótulo informa, compare tamanho, ingredientes e preço. O BOLD 21 g tem o menor custo por proteína declarada; o 14 g é uma unidade menor, e Wafer e Tube custam menos por barra. Sabor e textura não foram avaliados neste guia.",
           "A barra BOLD vale a pena? Depende da régua de cada um. Pelo preço por 100 g de proteína, o BOLD 21 g custa menos que as outras linhas, e o Wafer e o Tube custam mais, com ou sem o CECILIA15.",
-          "A barra BOLD é saudável? Essa resposta é do nutricionista, que define a dieta. O rótulo traz os números de cada sabor, e a marca recomenda até duas unidades por dia para adultos.",
+          "A barra BOLD é saudável? O rótulo informa proteína, calorias, açúcares e ingredientes, que precisam ser considerados juntos. Ter 21 g de proteína ou zero açúcar adicionado não resolve sozinho a adequação à sua alimentação; a tabela por linha está no artigo.",
           "A barra BOLD tem açúcar? A loja informa “zero açúcar adicionado”, e a tabela mostra açúcares totais de 1,6 g a 5,3 g por barra, conforme o sabor.",
           "A barra BOLD tem glúten e lactose? O alerta de alérgicos de cada sabor diz que contém os dois. Quem tem doença celíaca ou intolerância à lactose segue o rótulo da embalagem e o profissional de saúde."
         ]
@@ -267526,15 +267494,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na BOLD Snacks, use o cupom CECILIA15: 20% OFF no site oficial, no nosso teste. O nome tem 15, mas o desconto no checkout foi de 20%. O mesmo código serve para quem já comprou, com um cupom por pedido, e a linha de desconto do resumo mostra o valor antes de pagar."
+          "Na primeira compra da BOLD Snacks, o cupom BOLD CECILIA15 deu 20% OFF no teste da Pré-Black, embora o nome tenha 15. Ele também vale para quem já comprou, com um cupom por pedido. Confira o código no resumo do checkout; abaixo estão o teste com compra única e os cuidados antes de aderir à assinatura."
         ]
       },
       {
         "heading": "Qual cupom usar na primeira compra da BOLD Snacks",
         "paragraphs": [
-          "Para o primeiro pedido, use CECILIA15 no site oficial, boldsnacks.com.br. Ele vale para quem nunca comprou e para quem já é cliente, então o código do primeiro pedido é o mesmo dos seguintes.",
+          "A BOLD Snacks vende barras de proteína, whey e creatina. Se ainda está conhecendo a loja, confira os dados da empresa e do atendimento em [BOLD Snacks é confiável?](/reviews/bold-snacks-e-confiavel). No primeiro pedido e nos seguintes, use CECILIA15 no site oficial e confira o percentual aplicado no resumo.",
           "Os 20% do nosso teste saíram durante a campanha da loja. Como o percentual pode mudar depois dela, o número certo é o que aparece no resumo do checkout.",
-          "Um código achado em lista de cupons pode não funcionar. O CECILIA15 e as condições em vigor ficam na página do [cupom BOLD](/cupons/bold)."
+          "As condições em vigor ficam na página do [cupom BOLD](/cupons/bold). No checkout, confira se CECILIA15 aparece aplicado e quanto saiu do pedido."
         ]
       },
       {
@@ -267594,41 +267562,41 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que pedir na primeira caixa",
         "paragraphs": [
-          "Quem faz o primeiro pedido e não sabe por onde começar pode olhar o preço de cada grama de proteína do rótulo. Conta nossa: preço da caixa ÷ (12 × proteína por barra) × 100, sobre o preço de vitrine, sem o código.",
-          "O BOLD de 21 g sai mais barato por proteína que o de 14 g, e Wafer e Tube são os mais caros. Como o percentual do cupom é o mesmo em todas as linhas, a ordem não muda com o código."
+          "A primeira escolha é o formato e o tamanho da barra. A tabela mostra o custo com os 20% observados no teste; só a Caixa Mista de 21 g passou pelo carrinho, e as demais linhas são cálculos sobre os preços de vitrine.",
+          "O BOLD 21 g tem o menor custo por proteína declarada entre essas linhas. Esse total inclui as fontes da fórmula: 21 g, 14 g e Crunch trazem colágeno, sem proporção informada. Wafer e Tube não o citam nos ingredientes. A tabela não mede qualidade nem equivalência entre essas proteínas."
         ],
         "comparisonTable": {
-          "caption": "Preço por 100 g de proteína das caixas de 12 unidades, sem o código. Os preços de vitrine podem mudar na Black Friday: veja o do dia na loja.",
+          "caption": "Caixas de 12 unidades. Cálculo com 20% sobre a vitrine da Pré-Black, sem frete; teste individual apenas com a Caixa Mista de 21 g. Proteína total declarada, não apenas proteína do leite.",
           "headers": [
             "Linha",
             "Proteína por barra",
-            "Preço da caixa",
-            "Por 100 g de proteína"
+            "Caixa com CECILIA15",
+            "Por 100 g de proteína com CECILIA15"
           ],
           "rows": [
             [
               "BOLD 21 g",
               "21 g",
-              "R$ 179,00",
-              "R$ 71,03"
+              "R$ 143,20",
+              "R$ 56,83"
             ],
             [
               "BOLD 14 g",
               "14 g",
-              "R$ 129,00",
-              "R$ 76,79"
+              "R$ 103,20",
+              "R$ 61,43"
             ],
             [
               "Crunch",
               "18 g",
-              "R$ 179,00",
-              "R$ 82,87"
+              "R$ 143,20",
+              "R$ 66,30"
             ],
             [
               "Wafer e Tube",
               "10 g",
-              "R$ 119,00",
-              "R$ 99,17"
+              "R$ 95,20",
+              "R$ 79,33"
             ]
           ]
         },
@@ -267640,15 +267608,15 @@ export const reviewsData: unknown[] = [
         "heading": "Segunda compra e assinatura",
         "paragraphs": [
           "Na segunda compra você digita o mesmo CECILIA15, no mesmo campo do checkout.",
-          "Na assinatura (BOLD Club), a loja informa 15% de desconto sobre os produtos, planos mensal ou a cada 2 meses e permanência mínima de 2 ciclos de cobrança. A política também diz que as condições da assinatura não se acumulam automaticamente com cupons.",
-          "No nosso teste, numa assinatura da caixa BOLD Mousse de Maracujá com frequência de 2 meses, o resumo mostrou R$ 152,00, abaixo dos R$ 179,00 da compra única. O CECILIA15 tirou R$ 30,40 (20%) e o subtotal ficou em R$ 121,60, com um brinde do BOLD Club a R$ 0,00. O código entrou sobre o preço de assinatura nesse carrinho. Antes de confirmar, confira o desconto no resumo e pese a permanência mínima.",
+          "O BOLD Club é uma compra recorrente, mensal ou a cada 2 meses. Após o prazo de arrependimento, há permanência mínima de dois ciclos; o desconto promocional visto na adesão não confirma o preço das cobranças seguintes.",
+          "No print do nosso teste, a caixa BOLD Mousse de Maracujá aparece com frequência de 2 meses e preço de assinatura de R$ 152,00. O CECILIA15 abate R$ 30,40, deixando subtotal de R$ 121,60, com um brinde do BOLD Club grátis. A compra única estava em R$ 179,00 na vitrine.",
           "O cashback da loja, até 10% do valor da compra de volta como cupom para a próxima, é outra vantagem. Pela política, ele não se usa junto com outros cupons nem vale em produto em promoção. O site aceita um cupom por pedido."
         ],
         "images": [
           {
             "src": "/images/reviews/bold/cupom-bold-assinatura-com-cupom.webp",
             "alt": "Resumo de uma assinatura da caixa BOLD Mousse de Maracujá com frequência de 2 meses: R$ 152,00, o código CECILIA15 tirando R$ 30,40 e o subtotal de R$ 121,60",
-            "caption": "O CECILIA15 aplicado numa assinatura no checkout da BOLD Snacks, no nosso teste.",
+            "caption": "Print do nosso teste: CECILIA15 aplicado na adesão ao BOLD Club.",
             "objectFit": "contain"
           }
         ]
@@ -267667,11 +267635,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom BOLD Snacks de primeira compra? Use CECILIA15, que deu 20% OFF no nosso teste no site oficial.",
+          "Como encontrar desconto na primeira compra da BOLD Snacks? Use o CECILIA15, que deu 20% OFF no teste da Pré-Black no site oficial. Confira o código no resumo do checkout; ele também vale para quem já comprou.",
           "Qual cupom vale para quem já é cliente? O mesmo CECILIA15, sem trocar de código.",
           "O cupom soma com produto em promoção? No nosso teste, sim: o whey de 450 g, que estava de R$ 209,00 por R$ 189,00, saiu por R$ 151,20 com o CECILIA15. O site aceita um cupom por pedido.",
           "Onde coloco o cupom na primeira compra? No campo “Código de desconto ou cartão-presente” do checkout, depois de clicar em Finalizar na gaveta do carrinho. O passo a passo completo está em [como usar o cupom CECILIA15 na BOLD Snacks](/reviews/cupom-bold-snacks-como-usar).",
-          "O cupom vale na assinatura? No nosso teste, sim: numa assinatura da caixa BOLD Mousse de Maracujá, o CECILIA15 tirou 20% sobre o preço de assinatura. A política da loja diz que as condições da assinatura não se acumulam automaticamente com cupons, então confira a linha de desconto no resumo antes de confirmar."
+          "O cupom vale na assinatura? Sim. No nosso teste, o CECILIA15 deu 20% na adesão ao BOLD Club, sobre o preço da assinatura. As cobranças seguintes seguem as regras da assinatura; confira o compromisso mínimo antes de aderir."
         ]
       }
     ]

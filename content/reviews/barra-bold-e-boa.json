@@ -51,21 +51,19 @@
   ],
   "decision": {
     "takeIf": [
-      "Você já decidiu por uma barra de proteína pronta e usa o preço por proteína como régua.",
-      "Você aceita adoçantes como maltitol e sorbitol e colágeno entre as fontes de proteína.",
-      "Você leu a tabela do sabor que vai comprar."
+      "Você quer uma barra pronta e decidiu pelo tamanho da unidade, pelos ingredientes e pelo preço com o cupom.",
+      "Você prefere Wafer ou Tube e aceita o custo maior por proteína declarada em troca do formato escolhido."
     ],
     "skipIf": [
-      "Você precisa de zero açúcares (a tabela mostra açúcares totais, mesmo com “zero açúcar adicionado”) ou conta os 21 g como proteína só do leite.",
-      "Você tem doença celíaca ou intolerância à lactose, já que o rótulo diz que a barra contém glúten e lactose.",
-      "Quem acompanha a sua dieta ainda não aprovou a barra."
+      "Você precisa de zero açúcares: as tabelas consultadas mostram açúcares totais mesmo quando a loja anuncia zero açúcar adicionado.",
+      "Você precisa evitar um dos alérgenos declarados ou quer contar a proteína da linha de 21 g como exclusivamente do leite."
     ]
   },
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A barra BOLD entrega de 10 g a 21 g de proteína por unidade, conforme a linha, e a loja diz que não tem açúcar adicionado. O rótulo mostra açúcares totais, adoçantes e colágeno, e o alerta de alérgicos informa que contém glúten e lactose. Aqui estão a tabela e a conta por proteína."
+        "O BOLD 21 g tem o menor custo por proteína declarada entre as linhas comparadas; Wafer e Tube custam menos por unidade. O colágeno aparece nos ingredientes de três linhas, sem proporção informada, por isso o preço não compara fontes equivalentes. O cupom BOLD CECILIA15 deu 20% OFF no teste da Pré-Black; veja abaixo as diferenças."
       ]
     },
     {
@@ -76,17 +74,17 @@
       ]
     },
     {
-      "heading": "A barra BOLD é boa?",
+      "heading": "21 g, 14 g, Crunch, Wafer ou Tube: por onde escolher",
       "paragraphs": [
-        "A pergunta mistura três coisas, e só a primeira se confere pelas páginas da loja."
+        "Comece pelo tamanho da barra e pelo formato que você quer levar:"
       ],
       "bullets": [
-        "**O que está verificado:** o rótulo de cada sabor, publicado nas páginas da loja, e o preço de vitrine.",
-        "**O que é da marca:** as frases de benefício das páginas.",
-        "**O que não temos:** sabor e textura, que dependem de quem prova."
+        "**Barra de 60 g:** a linha BOLD 21 g traz 21 g de proteína declarada por unidade.",
+        "**Barra de 40 g:** o BOLD 14 g tem menor porção e menor preço por unidade que a linha de 21 g.",
+        "**Outros formatos:** Crunch declara 18 g de proteína; Wafer e Tube, 10 g cada. A composição e o preço por proteína mudam entre eles."
       ],
       "postParagraphs": [
-        "Por isso a resposta vem por perfil, sem nota, no quadro Leve se / Passe se, depois da conta."
+        "As tabelas seguintes separam composição e preço. No fim, o veredito reúne o que muda a escolha entre as linhas."
       ]
     },
     {
@@ -97,8 +95,8 @@
       "images": [
         {
           "src": "/images/reviews/bold/barra-bold-21g.webp",
-          "alt": "Foto oficial da barra BOLD 21 g, publicada pela loja",
-          "caption": "A barra BOLD 21 g, em foto da própria loja.",
+          "alt": "Caixa Mista BOLD com 12 barras de 21 g de proteína, em foto oficial da loja",
+          "caption": "Caixa Mista com 12 barras BOLD de 21 g de proteína, em foto oficial da loja.",
           "objectFit": "contain"
         }
       ],
@@ -108,49 +106,43 @@
           "Linha",
           "Proteína",
           "Calorias",
-          "Açúcares totais",
-          "Colágeno nos ingredientes"
+          "Açúcares totais"
         ],
         "rows": [
           [
             "BOLD 21 g (barra de 60 g), 7 sabores",
             "21 g",
             "215 a 239 kcal",
-            "1,8 g a 5,3 g",
-            "Sim"
+            "1,8 g a 5,3 g"
           ],
           [
             "BOLD 14 g (barra de 40 g), 5 sabores com tabela",
             "14 g",
             "151 a 161 kcal",
-            "1,6 g a 3,6 g",
-            "Sim"
+            "1,6 g a 3,6 g"
           ],
           [
             "Crunch, 3 sabores",
             "18 g",
             "209 a 215 kcal",
-            "1,8 g a 2,2 g",
-            "Sim"
+            "1,8 g a 2,2 g"
           ],
           [
             "Wafer, 4 sabores",
             "10 g",
             "192 a 202 kcal",
-            "2,1 g a 2,8 g",
-            "Não"
+            "2,1 g a 2,8 g"
           ],
           [
             "Tube, Pistache e Speculoos",
             "10 g",
             "183 a 186 kcal",
-            "2,0 g a 2,1 g",
-            "Não"
+            "2,0 g a 2,1 g"
           ]
         ]
       },
       "postParagraphs": [
-        "Conta nossa, pela tabela: dividindo as calorias pelos gramas de proteína, o Wafer e o Tube trazem de 18 a 20 kcal por grama de proteína, contra de 10 a 12 no BOLD 21 g, no BOLD 14 g e no Crunch. É conta de rótulo, sem nota para nenhuma linha."
+        "Conta nossa: nas porções consultadas, BOLD 21 g, BOLD 14 g e Crunch ficam entre 10,2 e 11,9 kcal por grama de proteína declarada. Wafer e Tube ficam entre 18,3 e 20,2. Esse cálculo de quantidade não equipara as fontes de proteína nem dá uma nota de qualidade às linhas."
       ]
     },
     {
@@ -171,71 +163,59 @@
     {
       "heading": "A barra BOLD é saudável?",
       "paragraphs": [
-        "“Saudável” é um julgamento que cabe a quem acompanha a dieta. Os números do rótulo estão na tabela acima, e a loja informa a recomendação de uso na página do produto: adultos a partir de 19 anos, até duas unidades por dia ou conforme o profissional de saúde. A loja também avisa que o produto não é um medicamento.",
-        "Para quem pesquisa se a barra engorda, o rótulo informa de 151 kcal a 239 kcal por barra, a quantidade que cada pessoa soma ao total do dia."
+        "Para avaliar a barra na sua alimentação, compare a porção que pretende consumir, as calorias, os açúcares e os ingredientes do sabor. A faixa de 151 a 239 kcal corresponde a unidades de tamanhos e composições diferentes.",
+        "Nas páginas do 21 g, do 14 g e do Wafer, a loja recomenda uso adulto e até duas unidades por dia, ou conforme orientação profissional. Essa é a indicação publicada pela marca, não uma porção diária definida por este guia. Dúvidas de quantidade e restrições devem ser levadas ao nutricionista ou médico."
       ]
     },
     {
       "heading": "A barra BOLD tem glúten e lactose?",
       "paragraphs": [
         "O alerta de alérgicos de cada sabor diz “contém lactose” e “contém glúten”, junto de “contém leite e derivados de leite e soja” e de uma lista de “pode conter” que traz amendoim, aveia, castanhas e trigo. O FAQ do BOLD 21 g atribui o glúten ao ambiente de fabricação, ou seja, à contaminação cruzada.",
-        "Quem tem doença celíaca ou intolerância à lactose segue o rótulo da embalagem e a orientação do profissional de saúde. Para gestantes, lactantes e crianças, a própria loja pede orientação profissional."
+        "Confira o alerta impresso na embalagem do sabor escolhido. A explicação da marca sobre o ambiente de fabricação não altera a declaração de glúten publicada na página."
       ]
     },
     {
       "heading": "A barra BOLD vale a pena? O preço por proteína",
       "paragraphs": [
-        "A conta usa o preço da caixa de 12 e a proteína de cada barra. Nas duas últimas colunas, o preço de vitrine cai 20%, o desconto do nosso teste com o CECILIA15."
+        "A tabela aplica 20% a todas as caixas de 12 unidades, percentual observado no teste apenas na Caixa Mista de 21 g; nas demais linhas, o valor é cálculo. Para referência, a vitrine mostrava R$ 179 no BOLD 21 g e no Crunch, R$ 129 no BOLD 14 g e R$ 119 no Wafer e no Tube. O custo abaixo usa a proteína total declarada; três linhas incluem colágeno, sem proporção divulgada."
       ],
       "comparisonTable": {
-        "caption": "Preços de vitrine em 18/11, compra única, no site oficial, sem frete. Por 100 g de proteína: preço da caixa dividido por 12 vezes a proteína de cada barra, vezes 100. Só a Caixa Mista do BOLD 21 g passou pelo carrinho; as outras contas com o código são conta nossa, sobre o preço de vitrine.",
+        "caption": "Preços de vitrine de 18/11, compra única, sem frete. Só a Caixa Mista de 21 g passou pelo carrinho; nas demais linhas, os 20% são calculados. Caixa de 12 unidades; proteína conforme a página do produto.",
         "headers": [
-          "Caixa de 12",
-          "Vitrine",
-          "Por barra",
-          "100 g de proteína",
+          "Linha",
           "Caixa com CECILIA15",
-          "100 g com CECILIA15"
+          "Por barra com CECILIA15",
+          "Por 100 g de proteína declarada com CECILIA15"
         ],
         "rows": [
           [
             "BOLD 21 g",
-            "R$ 179,00",
-            "R$ 14,92",
-            "R$ 71,03",
             "R$ 143,20",
+            "R$ 11,93",
             "R$ 56,83"
           ],
           [
             "BOLD 14 g",
-            "R$ 129,00",
-            "R$ 10,75",
-            "R$ 76,79",
             "R$ 103,20",
+            "R$ 8,60",
             "R$ 61,43"
           ],
           [
             "Crunch",
-            "R$ 179,00",
-            "R$ 14,92",
-            "R$ 82,87",
             "R$ 143,20",
+            "R$ 11,93",
             "R$ 66,30"
           ],
           [
             "Wafer",
-            "R$ 119,00",
-            "R$ 9,92",
-            "R$ 99,17",
             "R$ 95,20",
+            "R$ 7,93",
             "R$ 79,33"
           ],
           [
             "Tube",
-            "R$ 119,00",
-            "R$ 9,92",
-            "R$ 99,17",
             "R$ 95,20",
+            "R$ 7,93",
             "R$ 79,33"
           ]
         ]
@@ -250,44 +230,32 @@
         }
       ],
       "postParagraphs": [
-        "Pela tabela, o BOLD 21 g custa menos por proteína que o BOLD 14 g e o Crunch, mesmo com a caixa mais cara que a do 14 g. O Wafer e o Tube têm o menor preço por barra e o maior por proteína. Na nossa conta, os 20% entram igual em todas as linhas, e a ordem entre elas não muda. A conta pode ser outra se o que importa for caloria, tamanho da barra ou preço por unidade.",
+        "O BOLD 21 g tem o menor custo por proteína declarada e custa mais por unidade que o BOLD 14 g. Wafer e Tube são os mais baratos por unidade. A ordem de preço não transforma leite, soja e colágeno em fontes equivalentes, nem responde qual sabor você vai preferir.",
         "O [cupom BOLD](/cupons/bold) CECILIA15 vale no site oficial, para cliente novo e antigo. O nome tem 15, e o desconto do nosso teste foi de 20%, dentro da Pré-Black da loja, que vai até 22/11. No carrinho, a Caixa Mista do BOLD 21 g foi de R$ 179,00 para R$ 143,20. O percentual pode mudar depois da campanha, então confira o resumo antes de pagar. Vale um cupom por pedido.",
         "Para comparar com outras marcas, veja o guia [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher)."
       ]
     },
     {
-      "heading": "21 g, 14 g, Crunch, Wafer e Tube: o que muda",
+      "heading": "Qual linha faz sentido para cada escolha",
       "paragraphs": [
-        "O 21 g e o 14 g levam colágeno nos ingredientes e diferem no tamanho da barra (60 g e 40 g) e no preço por proteína. A lista de ingredientes varia de um sabor para outro, então vale ler a do sabor escolhido.",
-        "O Crunch tem 18 g de proteína, crispies de soja e também colágeno. O Wafer e o Tube têm 10 g de proteína e ingredientes diferentes, sem colágeno na lista."
+        "Para gastar menos por proteína total declarada, o BOLD 21 g fica à frente neste levantamento. Para uma unidade menor, o BOLD 14 g tem 40 g de produto e menor preço por barra. Nos dois casos, o colágeno aparece entre os ingredientes, sem quantidade informada.",
+        "Se a escolha é por Wafer ou Tube, você compra outro formato, com 10 g de proteína declarada e menor preço por unidade. O Crunch tem 18 g e crispies de soja, além de colágeno. Escolha a linha e confira o sabor pelos ingredientes e alérgenos, sem usar só o preço por proteína como resumo da fórmula."
       ],
       "images": [
         {
           "src": "/images/reviews/bold/barra-bold-wafer.webp",
-          "alt": "Foto oficial do Wafer BOLD, publicada pela loja",
-          "caption": "O Wafer, em foto da própria loja.",
+          "alt": "Caixa BOLD Wafer com 12 unidades, em foto oficial da loja",
+          "caption": "Caixa de 12 unidades do BOLD Wafer, em foto oficial da loja.",
           "objectFit": "contain"
         }
       ]
     },
     {
-      "heading": "O que não dá para saber",
-      "bullets": [
-        "Sabor e textura, que dependem de quem prova.",
-        "O rótulo da embalagem que chega. As páginas da loja mudam e podem ter erros, então confira a embalagem.",
-        "Como o corpo de cada pessoa reage aos adoçantes, assunto para o profissional de saúde.",
-        "O preço fora da campanha."
-      ],
-      "postParagraphs": [
-        "O CECILIA15 é do site oficial. Sobre a empresa e como reconhecer o site verdadeiro, veja [BOLD Snacks é confiável](/reviews/bold-snacks-e-confiavel)."
-      ]
-    },
-    {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A barra BOLD é boa? Depende do perfil. O rótulo mostra de 10 g a 21 g de proteína por barra, colágeno entre os ingredientes de três linhas e açúcares totais em todas, e o preço por proteína muda de linha para linha.",
+        "A barra BOLD é boa? Para escolher pelo que o rótulo informa, compare tamanho, ingredientes e preço. O BOLD 21 g tem o menor custo por proteína declarada; o 14 g é uma unidade menor, e Wafer e Tube custam menos por barra. Sabor e textura não foram avaliados neste guia.",
         "A barra BOLD vale a pena? Depende da régua de cada um. Pelo preço por 100 g de proteína, o BOLD 21 g custa menos que as outras linhas, e o Wafer e o Tube custam mais, com ou sem o CECILIA15.",
-        "A barra BOLD é saudável? Essa resposta é do nutricionista, que define a dieta. O rótulo traz os números de cada sabor, e a marca recomenda até duas unidades por dia para adultos.",
+        "A barra BOLD é saudável? O rótulo informa proteína, calorias, açúcares e ingredientes, que precisam ser considerados juntos. Ter 21 g de proteína ou zero açúcar adicionado não resolve sozinho a adequação à sua alimentação; a tabela por linha está no artigo.",
         "A barra BOLD tem açúcar? A loja informa “zero açúcar adicionado”, e a tabela mostra açúcares totais de 1,6 g a 5,3 g por barra, conforme o sabor.",
         "A barra BOLD tem glúten e lactose? O alerta de alérgicos de cada sabor diz que contém os dois. Quem tem doença celíaca ou intolerância à lactose segue o rótulo da embalagem e o profissional de saúde."
       ]
