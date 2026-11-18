@@ -99,7 +99,12 @@ Estoque, sem saída hoje: "legging donna carioca é transparente" (só com peça
 - Toda Up: o `MAUAD` está em 10% e não entra em item da Black VIP.
 - Donna Carioca sem link, foto ou print; nenhum cupom dela.
 - Não repetir o `calcinha-insider-qual-escolher` (modelos da Insider) nem o `skinup-ou-cotton-up-toda-up`: este artigo é por uso (treino, legging) e linka os dois.
-- Formato: várias lojas, `affiliate: ["insider", "toda-up"]`, sem `coupon` nem `cta`. Sem peça em mãos, nada de "veste melhor" (pergunta 5 da seção 7).
+- Formato: várias lojas, `affiliate: ["insider", "toda-up"]`, sem `coupon` nem `cta`.
+
+**Sem experiência própria (Bruno, 18/11: "só fontes públicas").** O Bruno quer que o texto sustente que o material e o acabamento das parceiras são melhores. Com fonte pública, isso só entra como fato conferível, nunca como adjetivo:
+- O que a ficha já sustenta: forro declarado e com composição (Insider), forro com função dita (Toda Up), contra uma página que não fala de forro. Por fora, as três são poliamida com elastano e corte a laser: a ficha não mostra diferença de tecido externo.
+- O que ainda pode sustentar, se for lido: garantia e política de troca de cada loja; o peso de "qualidade do produto" nas reclamações de cada perfil no Reclame Aqui; gramatura, se alguma ficha trouxer.
+- O que não entra: "qualidade superior", "acabamento melhor", "dura mais" ou "veste melhor" sem peça em mãos. É comparação com marca citada pelo nome, e sem prova vira afirmação que a marca pode contestar.
 
 **Falta para o Job 1:** composição do SkinUp e do Cotton Up na página do produto; o que a página da Insider diz do "anti odor" (tratamento ou fibra); frete e troca das três; preços relidos, porque as três estão em Black Friday.
 
